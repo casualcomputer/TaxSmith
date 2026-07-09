@@ -1,0 +1,167 @@
+Title: Bergeron c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27205/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-744-27205-bergeron-c-la-reine-en.md
+Document type: case_law
+Last modified: 2003-10-16
+
+# Bergeron c. La Reine
+
+- Citation: 2003 TCC 744
+- Decision date: 2003-10-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1008, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bergeron c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-10-16
+Neutral citation
+2003 TCC 744
+File numbers
+2002-3181(IT)I
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-3181(IT)I
+2002-4924(IT)I
+BETWEEN:
+ALAIN BERGERON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on June 25, 2003 at Montreal, Quebec
+Before: The Honourable Judge Lucie Lamarre
+Appearances:
+Agents for the Appellant:
+Annie Chabot and Christine Gagnon
+Counsel for the Respondent:
+Mounes Ayadi
+____________________________________________________________________
+JUDGMENT
+The assessment appeals under the Income Tax Act ("Act") for the 2000 and 2001 taxation years are allowed, without costs and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment, on the basis that the Appellant is entitled to credit for severe or prolonged mental or physical impairment under the terms of sections 118.3 and 188.4 of the Act.
+Signed at Ottawa, Canada, this 16th day of October 2003.
+"Lucie Lamarre"
+Lamarre, J.T.C.C.
+Translation certified true
+on this 25th day of March 2004.
+Sharon Moren, Translator
+Citation: 2003TCC744
+Date: 20031016
+Docket: 2002-3181(IT)I
+2002-4924(IT)I
+BETWEEN:
+ALAIN BERGERON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre, J.T.C.C.
+[1] These assessment appeals are being heard informally according to the procedure established by the Minister of National Revenue("Minister"), regarding denial to the Appellant of a tax credit for severe and prolonged mental or physical impairment for the 2000 and 2001 taxation years under the terms of sections 118.3 and 118.4 of the Income Tax Act ("Act").
+[2] It is clear from the evidence that the Appellant has been in the care of his family physician, Carmen Figueroa Abarca, since 1991. At Dr. Abarca's recommendation and upon the request of his former employer, the City of Westmount, the Appellant consulted various specialists, psychologists and psychiatrists. Thus, he underwent a number of psychiatric expert opinions in the years 1992 to 1998.
+[3] According to Dr. Abarca's testimony, the various psychiatric expert opinions arrive at different conclusions regarding the diagnosis given on the Appellant's state. Dr. Christophe Nowakowski made a summary of it in the last psychiatric expert opinion, which seems to have been done in April 1998 at the request of the Appellant's union representative and which is located at Tab 6, Exhibit A-1. Thus, in 1992, Dr. Fernand Couillard, psychiatrist, diagnosed the Appellant with a weak personality disorder for which psychotherapy was recommended (see Exhibit A-1, Tab 6, page 11). On the other hand, Dr. Suzanne Lamarre, psychiatrist, disagreed with this diagnosis without, however, making a firm diagnosis (see Exhibit A-1, Tab 6, page 15). She then made a finding of a probable hypomania and prescribed an antipsychotic medication for the Appellant (see Exhibit A-1, Tab 6, page 17). She would then diagnose the patient with a manic-depressive psychosis (see Exhibit A-1, Tab 6, page 18).
+[4] Dr. Hervé Brunet, psychiatrist, moreover indicated in a psychiatric report written in 1995 the following with regard to the Appellant:
+[translation]
+This difficulty in appreciating reality and its consequences for himself or others significantly impairs his social and professional functioning. This impairment is, according to me, serious and persistent and does not allow him to resume his previous professional activity safely for himself or others. (See Exhibit A-1, Tab 6, page 22.)
+[5] In another expert opinion produced on September 25, 1995, Dr. Pierre Laberge, psychiatrist, found that the Appellant's primary symptom was a thinking disorder. Dr. Laberge deemed that the Appellant suffered from [translation] "a psychotically structured personality, which somewhat dulls the feelings of responsibility". (See Exhibit A-1, Tab 6, page 24.) Dr. Laberge wrote:
+[translation]
+. . . the impairment, in the generic sense of the term, of the personality in this case is serious and prolonged. (See Exhibit A-1, Tab 6, page 25.)
+[6] In April 1996, Dr. René Laperrière wrote the following in the context of a new expert opinion:
+[translation]
+This is essentially a personal condition. He seems to me to be unfit to do his regular work, which requires logical thinking and the ability to take responsibility with occasionally serious consequences.
+I recommend no treatment and the prognosis appears to me to be guarded, the more because the condition seems to have stabilized since he discovered with Dr. Lamarre the source and cause of his psychotic way of thinking.
+With regard to recommendations for managing this absence, it seems to me that this man could possibly perform a simple job, without responsibility and requiring a minimum of decision-making of a very concrete nature. (See Exhibit A-1, Tab 6, page 32.)
+[7] On May 22, 1996, Dr. André Monette, psychiatrist, wrote the following in a medical assessment report regarding the Appellant:
+[translation]
+It seems clear that from 1991 to 1995, Mr. Bergeron exhibited a very atypical psychiatric disorder, that was finally described as an atypical affective disorder with episodic psychosis. He has, in good part, recovered from this condition and now there are only what seem to be minor sequela, but which shouldn't be qualified without evaluating his functioning in the field. (See Exhibit A-1, Tab 6, page 33.)
+[8] It should be noted as well that the Appellant was hospitalized for 71 days in 1993 and 1994. At this time he was diagnosed with schizotypal personality disorder. (See Exhibit A-1, Tab 6, page 34.)
+[9] On April 11, 1998, Dr. Christophe Nawakowski, psychiatrist, performed a final psychiatric expert opinion on the Appellant, upon the request of the latter's union representative, to determine whether the Appellant was fit for work. After having analyzed all the previous expert opinions and questioned the Appellant, he summarized the mental examination of the latter as follows:
+[translation]
+MENTAL EXAMINATION
+Mr. Bergeron is a 45 year old man at the time of the examination, he is awake, alert and well-oriented regarding the time, place and individuals. His cooperation in the interview is voluntary and adequate, but nonetheless marked with discourse that is evasive, digressive, tangential and gets lost in examples that are occasionally of little relevance. It is difficult to obtain a direct answer to a direct question.
+However, I observe no apparent deficiency with regard to concentration, memory or comprehension which could be easily attributable to an organic cause.
+The affect is present, without obvious signs of anxiety or depression. However, this affect has a strange quality that is simultaneously superficial and detached. Thought is coherent and well structured, and with content in which hypercathected ideas particularly about writing and the ability to change the world through writing are observed. There are, however, no definite psychotic symptoms in the form of delirium or hallucinations. (See Exhibit A-1, Tab 6, page 43.)
+[10] Although he says he cannot make an exact diagnosis regarding the Appellant, (see Exhibit A-1, Tab 6, page 44), Dr. Nawakowski supports the possibility of a schizo-affective illness and non-specific psychotic disorder in the Appellant. According to Dr. Nowakowski, [translation] "the general orientation of the clinical course is clearly that of a personality disorder". (See Exhibit A-1, Tab 6, page 47.) He explains:
+[translation]
+In order to understand this diagnosis, it is first necessary to refer to the concept of personality structure. In psychology, this is what is understood as that which is generally defined in popular language as an individual's character. This personality structure can be defined as the set of mechanisms and attitudes used by an individual to face the inevitable difficulties in relational and intrapsychic life.
+. . .
+At present, Mr. Bergeron is relatively asymptomatic. In fact, after a period of destabilization, the culminating point of which was between the beginning of 1992 and the middle of 1994, he seems to have regained new psychological balance. This remains however, precarious and it becomes increasingly clear how in the context of this precarious balance, Mr. Bergeron is incapable of facing reality. He still has the tendency to flee from reality, and take refuge in a form of pseudo-community in a superficial and unreal world.
+Considering the underlying fragile personality structure, before Mr. Bergeron is be able to abandon a defence mechanism of this nature and integrate himself productively into daily reality, many years will undoubtedly pass and there is the possibility that that may never occur. Nor will he benefit from any therapeutic assistance to hasten this process unless he is motivated himself to get it, which for the time being is not the case. The impact of any therapeutic measures without his full consent would place him at risk for a new decompensation.
+Thus, Mr. Bergeron still finds himself in a state such that he cannot easily face reality and if he is forced to do so by any regular job whatsoever, there are strong possibilities that a new decompensation will appear.
+For this reason, I consider that Mr. Bergeron is certainly unfit to work as a fire fighter, as he is now, and for a prolonged and indefinite period, unfit for any work.
+FINDINGS
+1. Since 1991, Mr. Bergeron has exhibited a symptomatic decompensation of a pre-existing personality structure that was fragile. Technically, his condition falls within the category of personality disorder, even if this personality disorder does not fall within the predefined categories in the DSM. Nonetheless, it is possible to establish a diagnosis outside this classification scheme and the label that seems the most correct, even though it is taken from another framework of reference, is that which was established by Dr. Laberge, of a psychotically structured personality.
+. . .
+4. At present, Mr. Bergeron has recently achieved new psychological balance but this balance remains extremely fragile. Considering the defence mechanisms that are used and have been more fully explained in the previous discussion, Mr. Bergeron is incapable of facing the normal demands of reality. Faced with these demands on an constant basis, as occurs at work, a new relapse of his problems as experienced in 1992, 1993 and 1994 is likely. Moreover, this vulnerability remains without doubt, prolonged or indefinite. For this reason, I deem that Mr. Bergeron is unfit for all work. (See Exhibit A-1, Tab 6, pages 47, 51, 52 and 53.)
+[11] Having read all of these reports and having monitored the Appellant closely since 1991, Dr. Abarca agreed to sign the Disability Tax Credit Credit. She thus completed a first form on March 2, 2000 (Exhibit I-1), in which she indicated that the Appellant has suffered from a permanent impairment since 1991. She also replied in the negative to the question of whether the patient was capable of thought, discernment and remembering with the help of medication or therapy if necessary without taking an unreasonable amount of time to perform such activity. She explained this by a psychological unbalance. However, she did not answer question number 9 in Part B or the form, which reads:
+9. Is the impairment severe enough to restrict the basic activity(ies) of daily living identified above all, or almost all of the time, even with therapy and the use of appropriate aids and medication?
+[12] Moreover, this is how she completed a second form on November 29, 2000 (Exhibit I-2) in which she more clearly specified the Appellant's problem related to his mental faculties: [translation] "the psychic imbalance...gives him difficulty in concentrating and thinking (clause 4) [mental faculties]". She did not answer question number 9 in Part B on the second form, either.
+[13] In a questionnaire completed on May 4, 2000, at the request of the Canada Customs and Revenue Agency ("CCRA") (Exhibit I-3), Dr. Abarca reiterates essentially that the Appellant suffers from a psychological unbalance.
+[14] On August 8, 2002, Dr. Abarca completed another form in which she again established the diagnosis of a [translation]"psychological imbalance; difficulty in thinking and in concentration". However, she answered the following question in the negative:
+Has your patient's marked restriction in a basic activity of daily living, blindness, or need for life-sustaining therapy lasted, or is it expected to last, for a continuous period of at least 12 months? (See Exhibit A-1, Tab 3, Part B, Duration.)
+[15] In a letter dated March 19, 2002, Dr. Abarca writes the following regarding the Appellant and the form signed August 8, 2002:
+[translation]
+His mental state at the beginning of his disability varied with a certain improvement, removing some stress from him, the separation from his wife, curatorship and shared custody of his children. He still has difficulties with thinking, perception and memory. In interviews at my office since 2000-2001-02 his state of mind fluctuates a great deal, which leads me to believe that his assessment will remain unchanged in the future.
+Regarding the question of obtaining a tax credit, the question: ability to perceive, think and remember was answered no, with a comment [TRANSLATION] "see diagnosis" on the sheet. To the question regarding marked restriction in a basic activity: I answered no, but should have said yes, because I wrote in the diagnosis: difficulty in thinking and concentrating. (See Exhibit A-1, Tab 7.)
+[16] Dr. Abarca came to confirm in court the content of this last letter. She added that, according to her, the Appellant was markedly restricted in his mental activities on a daily basis since he experienced relational problems and there was no foreseeable change. On cross-examination, she acknowledged that the Appellant could take care of himself, live on his own and drive a car. Moreover, although he can no longer work due to his mental state, he has done volunteer work at a community centre. However, she indicated that in a stressful situation, the Appellant could become psychotic. It is clear that his sense of reality is impaired and Dr. Abarca reiterated in her testimony the findings of the psychiatrists that the Appellant has a psychotic personality structure.
+[17] The Appellant also testified. Since 1998 he has been receiving a disability pension from the Régie des rentes du Québec. He was placed under curatorship in 1994 for 10 months. He is divorced and has three children. Although he says he has custody of the two youngest children, they are both in foster care. The Appellant says he takes care of odd jobs every day around the house depending on his ability. He now knows how to operate the computer and has learned how [translation] "to chat". He says he does volunteer work and belongs to a group to help people with social problems for which he says he serves as secretary-treasurer. In 2001, it seems he purchased a house and his children returned to him. In 2002, his children returned to foster care.
+[18] The Appellant will be entitled to a tax credit for mental or physical impairment if the conditions under subsection 118.3(1) of the Act are met. These conditions are:
+(a) the individual has a serious and prolonged mental or physical impairment;
+(a.1) the effects of the impairment are such that the individual's ability to perform a basic activity of daily life is markedly restricted;
+(a.2) a physician . . . certifies in prescribed form that the impairment is a severe and prolonged mental or physical impairment the effects of which are such that the individual's ability to perform a basic activity of daily living is markedly restricted,
+(b) the individual has filed for a taxation year with the Minister the certificate described in paragraph (a.2).
+[19] Subsection 118.4(1) of the Act defines a severe and prolonged impairment as follows:
+SECTION 118.4: Nature of the impairment.
+(1) For the purposes of subsection 6(16), sections 118.2 and 118.3 and this subsection,
+(a) an impairment is prolonged where it has lasted, or can reasonably be expected to last, for a continuous period of at least 12 months;
+(b) an individual's ability to perform a basic activity of daily living is markedly restricted only where all or substantially all of the time, even with therapy and the use of appropriate devices and medication, the individual is blind or is unable (or requires an inordinate amount of time) to perform a basic activity of daily living;
+(c) a basic activity of daily living in relation to an individual means
+(i) perceiving, thinking and remembering,
+(ii) feeding oneself or dressing oneself,
+(iii) speaking so as to be understood, in a quiet setting, by another person familiar with the individual,
+(iv) hearing so as to understand, in a quiet setting, another person familiar with the individual,
+(v) eliminating (bowel or bladder functions), or,
+(vi) walking;
+(d) for greater certainty, no other activity, including working, housekeeping or a social or recreational activity, shall be considered as a basic activity of daily living.
+[20] At this time, it is the markedly restricted ability to think, perceive and remember that is at issue. In Radage v. Canada, [1996] T.C.J. No. 730 (Q.L.), at subsection 46, Bowman J. gave certain guidelines regarding the interpretation to give these concepts:
+(a) The legislative intent appears to be to provide a modest amount of tax relief to persons who fall within a relatively restricted category of markedly physically or mentally impaired persons. The intent is neither to give the credit to everyone who suffers from a disability nor to erect a hurdle that is impossible for virtually every disabled person to surmount. It obviously recognizes that disabled persons need such tax relief and it is intended to be of benefit to such persons.
+(b) The court must, while recognizing the narrowness of the tests enumerated in sections 118.3 and 118.4, construe the provisions liberally, humanely and compassionately and not narrowly and technically.
+. . .
+. . . If the object of Parliament, which is to give to disable persons a measure of relief that will to some degree alleviate the increased difficulties under which their impairment forces them to live, is to be achieved the provision must be given a humane and compassionate construction. Section 12 of the Interpretation Act reads as follows:
+Every enactment is deemed remedial, and shall be given such fair, large and liberal construction and interpretation as best ensures the attainment of its objects.
+(c) If there is doubt on which side of the line a claimant falls, that doubt should be resolved in favour of the claimant.
+(d) The provisional meanings assigned above to the words "perceiving, thinking and remembering" are more in the nature of guidelines than definitions. They are:
+Perceiving: The reception and recognition of sensory data about the external world that conforms reasonably to common human experience.
+Thinking: A rational comprehension, marshalling, analysis and organization of that which the person has perceived and the formulation of conclusions therefrom that are of practical utility or theoretical validity.
+Remembering: The mental activity of storing perceived data and of retrieving it in a manner that enables the person reasonably to perform the function of thinking.
+In these guidelines I have emphasized the need to recognize the way in which one function depends on the others, and to attempt to relate the use of those functions to some meaningful result in everyday life.
+(e) Finally there must be considered - and this is the most difficult principle to formulate - the criteria to be employed in forming the judgement whether the mental impairment is of such severity that the person is entitled to the credit, i.e. that that person's ability to perceive, think and remember is markedly restricted within the meaning of the Act. It does not necessarily involve a state of complete automatism or anoesis, but it should be of such a severity that it affects and permeates his or her life to a degree that it renders that person incapable of performing such mental tasks as will enable him or her to function independently and with reasonable competence in everyday life.
+[21] The legislative intent by enacting sections 118.3 and 118.4 of the Act, as interpreted by Bowman J. above, was cited with approval of the Federal Court of Appeal in Johnston v. Canada, [1998] F.C.J. No. 169 (Q.L.) at subsections 10 and 11. Létourneau J. further adds this at subsection 11:
+[11] Indeed, although the scope of these provisions is limited in their application to severely impaired persons, they must not be interpreted so restrictively as to negate or compromise the legislative intent.
+[22] Marceau J. added the following at subsection 2, regarding his own reasons:
+. . . It is clear that these tax credit provisions were designed with severely handicapped individuals in mind, but individuals who do not require constant care for the basic activities of daily life. The provisions were enacted precisely with this concern in mind, which incidentally explains why the credit is unavailable to people who are entitled to a deduction for institutional care expenses. It seems to me that Parliament could not have used these undefined qualifying words of "markedly," "inordinate" and "substantial" in such a way that no one able to live, in spite of some handicaps, with a certain degree of independence would be excluded.
+[23] In the case at bar, psychiatric expert opinions are presented, which were referred to in the evidence, that the Appellant suffered from a disorder of a psychotically structured personality. This disorder translates into the Appellant's inability to face the normal demands of reality. Although at certain times, the physicians agree that the Appellant had achieved a new psychological balance, there also seems to be consensus that the Appellant is vulnerable and can at any time have a relapse and that this vulnerability will undoubtedly be prolonged or indefinite.
+[24] Does this mean that this personality disorder has an impact on the Appellant's ability regarding perception, thinking and remembering that is so serious that he becomes incapable of performing the mental tasks necessary to function in an independent and competent fashion in daily life?
+[25] Although not having answered this specific question in the forms that she completed in writing (see Exhibits I-1 and I-2), Dr. Abarca clarified her position during her testimony and through the letter that she signed on March 19, 2002 (see Exhibit A-1, Tab 7). She found definitively for a precarious psychological balance involving difficulties in thinking and concentration. She clearly indicated that she supported the findings of the psychiatric reports referred to in the evidence (some of which speak of, among other things, a trouble with thinking) as well as on the observation that she was able to make herself regarding her patient's psychological developmental state. Dr. Abarca's testimony is completely admissible for clarifying the medical certificate she provided for establishing entitlement to the tax credit for mental or physical impairment (see Buchanan v. Canada, [2002] F.C.J. No. 838 (Q.L.)).
+[26] It is true that at certain times, the Appellant regains a certain psychological balance. As evidence, his children came back to him for a certain period. He can do odd jobs around the house or even play on the computer. But the evidence is sufficient to say that this balance is fragile and that the possibilities for relapse into a psychotic state are always there.
+[27] Moreover, in the event of doubt, the courts have agreed to grant the benefit of the doubt to the taxpayer.
+[28] In my opinion, the Appellant has shown on the balance of probabilities that he suffered from a serious and prolonged mental impairment and that the effects of this impairment are such that his capacity to perform a basic daily activity (namely, perception, reflection and remembering) is markedly restricted as defined in the Act.
+[29] For these reasons, I allow the appeals.
+Signed at Ottawa, Canada, this 16th day of October 2003.
+"Lucie Lamarre"
+Lamarre, J.T.C.C.
+Translation certified true
+on this 25th day of March 2004.
+Sharon Moren, Translator

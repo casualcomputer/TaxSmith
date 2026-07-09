@@ -1,0 +1,139 @@
+---
+title: "Douglas v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30735/index.do"
+last_modified: "2012-03-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 73"
+citation2: ""
+neutral_citation: "2012 TCC 73"
+decision_date: "2012-03-05"
+language: "en"
+item_id: "30735"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7530
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:33:56.009000+00:00"
+cases_cited_count: 1
+cases_citing_count: 7
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0723d4b79f771b14f94d0393cc6f1652d9a8b0bf5af1cb308728cb22298458f7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Douglas v. The Queen
+
+- Citation: 2012 TCC 73
+- Decision date: 2012-03-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7530, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Douglas v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-03-05
+Neutral citation
+2012 TCC 73
+File numbers
+2011-3091(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-3091(IT)I
+BETWEEN:
+BRUCE W. DOUGLAS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 24, 2012 at Grande Prairie, Alberta
+Before: The Honourable Justice J.M. Woods
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Gregory Perlinski
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to an assessment made under the Income Tax Act for the 2008 taxation year is allowed, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the penalty imposed under subsection 162(7) of the Act should be deleted. The appellant is entitled to his costs, if any.
+Signed at Toronto, Ontario this 5th day of March 2012.
+“J. M. Woods”
+Woods J.
+Citation: 2012 TCC 73
+Date: 20120305
+Docket: 2011-3091(IT)I
+BETWEEN:
+BRUCE W. DOUGLAS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] The appellant, Bruce Douglas, was assessed a penalty in the amount of $2,500 for the failure to file a form within the time prescribed. The form requires a statement of the ownership of foreign property and foreign income and is usually known as a T1135.
+[2] The question to be decided is whether the penalty was properly imposed pursuant to subsection 162(7) of the Income Tax Act.
+[3] The relevant background can be stated briefly.
+[4] Mr. Douglas prepared his own income tax return for the 2008 taxation year. A form T1135 was included with the return which stated that Mr. Douglas owned real property in the United Kingdom with a value between $100,000 and $300,000. No income was reported from the property.
+[5] The deadline for filing the income tax return was June 15, 2009 but it was not filed until March 2010. Mr. Douglas knowingly filed it late, as he had done in earlier years, on the understanding that this was acceptable if there was no tax payable. For the 2008 taxation year, Mr. Douglas reported no tax payable on the basis that his net professional income was only $865.
+[6] The filing deadline for the T1135 is the same as for the income tax return. Since the T1135 was included with the income tax return which was filed in March 2010, the form was also filed late.
+[7] Subsection 162(7) provides:
+(7) Every person (other than a registered charity) or partnership who fails
+(a) to file an information return as and when required by this Act or the regulations, or
+(b) to comply with a duty or obligation imposed by this Act or the regulations
+is liable in respect of each such failure, except where another provision of this Act (other than subsection 162(10) or 162(10.1) or 163(2.22)) sets out a penalty for the failure, to a penalty equal to the greater of $100 and the product obtained when $25 is multiplied by the number of days, not exceeding 100, during which the failure continues.
+[8] As mentioned above, the filing deadline for the T1135 is the same as for the income tax return. In this case, the deadline was June 15, 2009. Mr. Douglas acknowledges that the form was not filed until March 2010, and that it was filed late.
+[9] As the T1135 was filed more than 100 days late, the Minister determined that a maximum penalty of $2,500 should be assessed pursuant to subsection 162(7).
+Analysis
+[10] The problem that I have with the application of the penalty in this case is that Mr. Douglas took reasonable actions to comply with his income tax obligations.
+[11] In particular, it was reasonable for Mr. Douglas to conclude that the income tax return could be filed late because there was no tax payable for the year (subsection 162(1) of the Act). He submits that this is common knowledge in Canada. I agree with this.
+[12] It was also reasonable for Mr. Douglas to include the T1135 with the income tax return. Mr. Douglas simply followed the instructions on the form which state:
+Complete and file this statement with your tax return […]
+[13] It would be unfair to penalize Mr. Douglas for failure to comply with a filing deadline in these circumstances.
+[14] Although the penalty in subsection 162(7) is strict and Parliament has not provided for a due diligence defence, this Court has held that even strict penalties should not be applied if a taxpayer has taken all reasonable measures to comply with the legislation: Home Depot of Canada Inc. v. The Queen, 2009 TCC 281.
+[15] In this case, Mr. Douglas was not cavalier about his income tax obligations. As far as the evidence reveals, he was diligent in his compliance efforts and he acted reasonably, and competently. It was not suggested by the respondent that there was information readily available to Mr. Douglas that would have alerted him to this problem.
+[16] Further, it is not reasonable to expect Mr. Douglas to have sought professional tax advice concerning the T1135 given that his income was low. According to the reply, Mr. Douglas reported gross professional income in the amount of $28,636, and net professional income in the amount of $865.
+[17] It has been my view that the judge-made due diligence defence should be applied sparingly. However, this is an appropriate case in which it should be applied.
+[18] The penalty will accordingly be vacated and the appeal will be allowed. The appellant will also be awarded his costs, if any.
+Signed at Toronto, Ontario this 5th day of March 2012.
+“J. M. Woods”
+Woods J.
+CITATION: 2012 TCC 73
+COURT FILE NO.: 2011-3091(IT)I
+STYLE OF CAUSE: BRUCE W. DOUGLAS v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Grande Prairie, Alberta
+DATE OF HEARING: February 24, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice J.M. Woods
+DATE OF JUDGMENT: March 5, 2012
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Gregory Perlinski
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Ontario

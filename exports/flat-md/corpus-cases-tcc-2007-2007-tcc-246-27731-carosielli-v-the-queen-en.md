@@ -1,0 +1,148 @@
+---
+title: "Carosielli v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27731/index.do"
+last_modified: "2007-06-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 246"
+citation2: ""
+neutral_citation: "2007 TCC 246"
+decision_date: "2007-06-12"
+language: "en"
+item_id: "27731"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 482
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:01:59.907000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7ac8361abe4a0a8f1401b639c6ab6c601ab3cf5a439cd6a6685e994fe3f77ecb"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Carosielli v. The Queen
+
+- Citation: 2007 TCC 246
+- Decision date: 2007-06-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 482, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Carosielli v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-06-12
+Neutral citation
+2007 TCC 246
+File numbers
+2006-2383(IT)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-2383(IT)I
+BETWEEN:
+EZIO CAROSIELLI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard at Montreal (Quebec) on January 30, 2007.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Marie-Claude Landry
+____________________________________________________________________
+JUDGMENT
+The appeal from the Notice of Reassessment dated June 29, 2006, issued to the Appellant in respect of his 2000 taxation year is dismissed in accordance with the Reasons for Judgment attached hereto.
+Signed at Montreal, Quebec, this 12th day of June 2007.
+"R. Favreau"
+Favreau J.
+Citation: 2007TCC246
+Date: 20070612
+Docket: 2006-2383(IT)I
+BETWEEN:
+EZIO CAROSIELLI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal by way of the informal procedure from a reassessment for the appellant’s 2000 taxation year by which the Minister of National Revenue (the "Minister") included $9,334 in the appellant’s income as unreported business income. Penalties under subsection 163(2) of the Income Tax Act (the "Act") were assessed on this amount.
+[2] The appellant disputes all of these items and argues as well that the year under appeal was statute-barred.
+[3] The reassessment was made after an audit of the partnership known as Les Immeubles Carosielli SENC ("IMCA"), in which the appellant and his three brothers were partners, each having a 25% interest in the partnership. The Minister found a discrepancy of $56,006 between the amounts deposited in IMCA’s accounts and the amounts declared, or accounted for, by IMCA for the year 2000.
+[4] IMCA owned commercial and residential properties, including those located at 9030, 9040, 9050 and 9056 Maurice Duplessis in Montreal.
+[5] The tenants of 9040 Maurice Duplessis included a daycare centre operated by Les Productions Merveilles Inc., and the tenants of 9056 Maurice Duplessis included another daycare centre, operated by 2439-9503 Québec Inc. carrying on business under the name of Garderie Merveilles du Royaume Inc. The sole shareholder of the two corporations operating the daycare centres was Luisa Sassano, the spouse of the appellant. Luisa Sassano still owns and operates the said daycare centres although their names have undergone some changes.
+[6] During the 2000 taxation year but before September 1, 2000, the appellant and Luisa Sassano formed a general partnership known as Les Immeubles Omnicentre RDP, SEC ("Omnicentre"), each having a 50% interest.
+[7] On September 1, 2000, Omnicentre acquired from IMCA the properties situated at 9030, 9040, 9050 and 9056 Maurice Duplessis. The daycare centres remained as tenants at 9040 and 9056 Maurice Duplessis. Following the acquisition of the properties by Omnicentre, the appellant ceased to be a partner in IMCA.
+[8] Under a commercial lease dated August 10, 1998, entered into between IMCA and 2439-9503 Québec Inc., the lessee was entitled to 10 months’ free rent, the months in question to be chosen jointly by the parties. When the properties were sold by IMCA to Omnicentre on September 1, 2000, no free rent had been granted by IMCA.
+[9] In a document titled Confirmation of Agreement dated September 1, 2004, IMCA agreed as a condition of the purchase of the properties by Omnicentre that the rent paid by the two daycare centres from April 1, 2000, to September 30, 2000, amounting to $54,677.40 ($9,112.90 per month for 6 months), would be reimbursed or credited. The Confirmation of Agreement clearly states that this rent was in fact credited to Garderie Royaume des Merveilles Inc. and that Garderie Royaume des Merveilles Inc. did not include the amount thereof as an expense for the taxation year ended March 31, 2001, and that IMCA did not include the said amount as income for 2000.
+[10] The audit conducted by the Canada Customs and Revenue Agency (the “Agency”) revealed that IMCA deposited the rental revenues received from the daycare centres for the months of April to September 2000 in its bank account, the amount per month being $5,199.71 for 9040 Maurice Duplessis and $3,913.19 for 9056 Maurice Duplessis for a total of $54,677 for six months. The appellant’s share of such unreported revenues of IMCA was determined to be $9,334.
+[11] The appellant explained that IMCA did not have the necessary funds to reimburse the daycare centres for rent in 2000 and that IMCA treated the amount payable as a $50,000 non-interest bearing loan from Garderie Royaume des Merveilles Inc., as shown in note 5 of the unaudited financial statements of IMCA for its fiscal year ending on December 31, 2000.
+[12] Despite the appellant’s statement that the loan from the daycare centres has been repaid in full, IMCA did not provide any evidence of repayment of the amount of $54,677 with respect to the rent paid by the daycare centres, nor did it provide evidence showing that this amount was credited in some other way.
+[13] The two daycare centres owned and operated by Luisa Sassano were regulated and subsidized by the Quebec government and were required to file audited financial statements for each of their fiscal years, which ended on March 31 of each year. As mentioned in paragraph 9 above, the daycare centres did not claim as an expense the rent amounting to $54,677.40 paid to IMCA. The financial and fiscal consequences of such an understatement of expenses by the daycare centres were not disclosed nor discussed.
+[14] The appellant argues that the tax treatment of the rent paid by the daycare centres was neutral because there was no inclusion in income for IMCA and no deduction of an expense for the daycare centres. For this reason, the appellant considers that he did not make any misrepresentation in computing his income and that he should not be subject to the gross negligence penalties.
+[15] Unfortunately, I do not agree with the appellant. Mr. Carosielli is a lawyer who was the manager of IMCA from 1985 to 2000. As such, he knew the importance of keeping proper books and records for IMCA, which was not done for the 2000 taxation year. The auditor of the Agency testified that the revenues derived from the rents for each property could not be clearly identified as they could for the 2001 and 2002 taxation years.
+[16] The appellant is a well-informed taxpayer who knew the importance of declaring all his revenues and who was knowledgeable about the fiscal implications of reporting them.
+[17] The appellant bears the burden of demonstrating on the balance of probabilities that the Minister was not justified in adding $9,334 to his income for the 2000 taxation year in accordance with section 9 of the Act. The appellant must present sufficient evidence to demonstrate that the amounts deposited in IMCA’s bank account are not income subject to tax.
+[18] The absence of such evidence has convinced me that the evidence presented is clearly insufficient to allow me to conclude that the appellant has met his burden of proof. The appellant’s decision not to include the rent paid by the daycare centres and not to deduct it as a business expense in the computation of IMCA’s income may make sense from a business or financial point of view, but does not constitute strict compliance with the requirements of the Act.
+Penalties
+[19] The Minister assessed penalties under subsection 163(2) of the Act and he submits that, by failing to report the additional income in the amount of $9,334 for his 2000 taxation year, the appellant knowingly or under circumstances amounting to gross negligence made a false statement or omission or participated in, assented to or acquiesced in the making thereof.
+[20] In Venne v. The Queen, 84 DTC 6247 at page 6256, Strayer J. analyzes gross negligence in the following terms:
+. . . “Gross negligence" must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not . . ..
+And in Morin v. M.N.R., 88 DTC 1596, at page 1597, Chief Judge Couture of this Court stated:
+To escape the penalties provided in subsection 163(2) of the Act, it is necessary, in my opinion, that the taxpayer’s attitude and general behaviour be such that no doubt can seriously be entertained as to his good faith and credibility throughout the entire period covered by the assessment . . ..
+[21] I have concluded that the explanations put forward by the appellant for not reporting his share of the rent paid by the daycare centres are unlikely. This entire affair demonstrates a certain attitude of indifference towards fiscal obligations on the part of the parties involved.
+[22] The Confirmation of Agreement was executed by the parties four years after the sale of the properties by IMCA to Omnicentre, and after the beginning of the tax audit by the Agency.
+[23] In the case at bar, I am convinced that, on the balance of probabilities, the Minister was justified in assessing penalties for the year in question.
+Prescribed year
+[24] As with the penalties, the Minister bears the burden of proving the justification of the assessment for the prescribed year. The Minister must convince the Court on the balance of probabilities that the appellant made a misrepresentation attributable to neglect, carelessness or wilful default or committed fraud in filing his return or in supplying information, as set forth in subparagraph 152(4)(a)(i) of the Act.
+[25] In another excerpt from Venne, supra, Strayer J. describes this burden of proof as follows, at page 6251:
+I am satisfied that it is sufficient for the Minister, in order to invoke the power under sub-paragraph 152(4)(a)(i) of the Act to show that, with respect to any one or more aspects of his income tax return for a given year, a taxpayer has been negligent. Such negligence is established if it is shown that the taxpayer has not exercised reasonable care. This is surely what the word "misrepresentation that is attributable to neglect" must mean, particularly when combined with other grounds such as "carelessness" or "wilful default" which refer to a higher degree of negligence or to intentional misconduct. Unless these words are superfluous in the section, which I am not able to assume, the term "neglect" involves a lesser standard of deficiency akin to that used in other fields of law such as the law of tort.
+[26] I have already dealt with the evidence and the appellant’s conduct. As I have concluded that his explanations were unlikely, I therefore find that there was misrepresentation of the facts regarding the appellant’s income during the prescribed year, thus justifying the assessment made for his 2000 taxation year.
+[27] For these reasons, the appeal is dismissed.
+Signed at Montreal, Quebec, this 12th day of June 2007.
+"R. Favreau"
+Favreau J.
+CITATION: 2007TCC246
+COURT FILE NO.: 2006-2383(IT)I
+STYLE OF CAUSE: Ezio Carosielli v. Her Majesty the Queen
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: January 30, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: June 12, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Marie-Claude Landry
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

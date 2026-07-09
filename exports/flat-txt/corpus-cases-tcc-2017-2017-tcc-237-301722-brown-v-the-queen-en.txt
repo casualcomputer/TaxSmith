@@ -1,0 +1,434 @@
+Title: Brown v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/301722/index.do
+Corpus path: corpus/cases/tcc/2017/2017-tcc-237-301722-brown-v-the-queen-en.md
+Document type: case_law
+Last modified: 2017-11-29
+
+# Brown v. The Queen
+
+- Citation: 2017 TCC 237
+- Decision date: 2017-11-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7812, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Brown v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-11-29
+Neutral citation
+2017 TCC 237
+File numbers
+2016-4780(IT)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-4780(IT)I
+BETWEEN:
+LANCE W.A. BROWN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on October 16, 2017, at Lethbridge, Alberta.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Aminollah Sabzevari
+JUDGMENT
+The appeal from the reassessments dated July 20, 2015 made under the Income Tax Act for the 2011 and 2012 taxation years is allowed and the matter is referred back to the Minister of National Revenue for reconsideration and reassessments in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 29th day of November 2017.
+“Réal Favreau”
+Favreau J.
+Citation: 2017 TCC 237
+Date: 20171129
+Docket: 2016-4780(IT)I
+BETWEEN:
+LANCE W.A. BROWN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal from reassessments dated July 20, 2015 made under the the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), as amended (the “Act”), by the Minister of National Revenue (the “Minister”) concerning the appellant’s 2011 and 2012 taxation years.
+[2] In computing his income for the 2011 and 2012 taxation years, the appellant reported, among other things, the following:
+Employment Expenses
+Gross rental income
+Net rental income/loss
+2011
+$ 52,376
+$ 1,449
+$ (3,101)
+2012
+$ 48,045
+$1,189
+$ (3,545)
+[3] On May 7, 2012 and May 6, 2013, the Minister initially assessed the appellant’s 2011 and 2012 taxation years respectively and accordingly, issued notices on these dates.
+[4] By facsimile transmission dated April 24, 2015, the appellant provided the Minister with a duly executed Form T-2029 waiving the normal reassessment period for his 2011 taxation year.
+[5] The Minister reassessed the appellant’s 2011 and 2012 taxation years for unreported rental income and disallowed rental and employment expenses.
+[6] In determining the appellant’s tax liability for the 2011 and 2012 taxation years, the Minister made the following assumptions of fact:
+Employment expenses
+a) during the 2011 and 2012 taxation years, the Appellant was employed by the Royal Bank of Canada (“RBC”);
+b) the Appellant was employed by RBC as a financial planner;
+c) RBC remunerated the Appellant in whole or in part by commissions according to the volume of sales made or contracts negotiated;
+d) in 2011, the Appellant earned employment income from RBC of $224,034, on which $218,183 was commissions;
+e) in 2012, the Appellant earned employment income from RBC of $238,579, of which $238,282 was commissions;
+f) for the 2011 and 2012 taxation years, RBC required the Appellant to pay for supplies, use a cell phone and use a portion of his home not more than 20% of the time for employment purposes;
+g) RBC did not require the Appellant to rent an office away from his employer’s place of business nor pay for an assistant;
+h) RBC required the Appellant to travel to locations that were not its place of business or between different locations of its places of business;
+i) the Appellant was required to be away from RBC’s place of business for more than 12 consecutive hours 14 times in 2011 and 5 times in 2012;
+Advertising and promotion expenses
+j) the Appellant claimed advertising and promotion expenses of $8,347 and $6,876 respectively, for the 2011 and 2012 taxation years;
+k) the Appellant did not maintain a list of the clients to whom he allegedly advertised and promoted his services;
+l) for 2012, the Appellant included as advertising and promotion expenses expenditures he incurred with respect to Southern Oldtimes Football Association;
+m) the Appellant is the coach of the Southern Oldtimes Football Association;
+n) expenditures incurred in excess of $248.81 for each of the 2011 and 2012 taxation years were not incurred, or if incurred, were not incurred to advertise and promote his services at RBC;.
+Motor vehicle expenses
+o) in 2011 and 2012, the Appellant received motor vehicle allowances of $396.00 and $408.32, respectively, which were not included in the Appellant’s employment income by RBC;
+p) the Appellant did not maintain a mileage log with respect to the motor vehicle(s) purported to be driven for employment purposes;
+q) the Appellant owned multiple vehicles which were driven by other family members;
+r) the Appellant claimed motor vehicle expenses totaling $13,915 and $12,487 for the 2011 and 2012 taxation years, respectively;
+s) the Appellant incurred motor vehicle expenses (net of the motor vehicle allowances paid by RBC) not exceeding $946.23 and $933.91, respectively, in regard to his employment for the 2011 and 2012 taxation years;
+Meals and entertainment
+t) the Appellant claimed meals and entertainment expenses totaling $6,615 and $6,408 for the 2011 and 202 taxation years, respectively;
+u) claimed meals and entertainment expenses included meals for a single person;
+v) the Appellant did not maintain a log of the individuals he allegedly entertained;
+w) the Appellant incurred meals and entertainment expenses not exceeding $1,507.78 per year for the 2011 and 2012 taxation years in respect of his employment at RBC;
+Lodging
+x) expenditures incurred for lodging in Seattle, Washington and in the Appellant’s city of residence (Lethbridge, Alberta) were personal expenditures;
+y) the Appellant incurred lodging expenses not exceeding $541.06 per year for the 2011 and 2012 taxation years in respect of his employment at RBC;
+Supplies
+z) expenditures claimed by the Appellant as supplies included capital items such as computers, monitors and printers;
+aa) the Appellant incurred supplies expenses not exceeding $467.71 per year for the 2011 and 2012 taxation years in respect of his employment at RBC;
+Other expenses
+bb) the Appellant claimed other expenses totaling $19,108 and $19,583 for the 2011 and 2012 taxation years, respectively;
+cc) The Appellant’s children, Emily and Evan, did not provide the Appellant with any services related to his employment at RBC for the 2011 and 2012 taxation years;
+dd) RBC did not require the Appellant to pay for an assistant;
+ee) the Appellant did not pay Emily or Evan for any purported services they provided with respect to his employment at RBC for the 2011 and 2012 taxation years;
+ff) the Appellant’s contributions to Emily’s or Evan’s post-secondary education, their Registered Retirement Savings Plans, Tax-Free Savings Accounts or cash payments to them in 2011 or 2012 were not made in relation to his employment at RBC;
+Workspace-in-home
+gg) the Appellant claimed workspace-in-home expenses totaling $1,051 and $1,061, respectively, for the 2011 and 2012 taxation years;
+hh) RBC did not require the Appellant to use a portion of home for more than 50% of the time for employment;
+ii) the Appellant did not use a portion of his home exclusively to meet customers or other persons on a regular and continuous basis in performing the duties of his employment with RBC;
+Total employment Expenses
+jj) the Appellant did not make or incur any claimed expenses, in excess of the amounts allowed by the Minister of $4,198 and $4,185, for the purpose of gaining or producing income for employment from RBC for the 2011 and 2012 taxation years, respectively, as detailed in Schedule “A” attached;
+Rental Property
+kk) in or about August 2001, the Appellant and his spouse, Janice Brown, jointly purchased a condominium located at 802 – 880 Northstar Drive, Kimberly (sic), British Columbia for $79,900 (the “Condo”);
+ll) the Condo is located near Kimberley Alpine Resort;
+mm) the Condo provides all season resort accommodation;
+nn) rentals of the Condo were managed by a management company;
+oo) the Appellant and his spouse each reported rental activity respecting their one-half interest of the Condo on their individual income tax returns for the 2011 and 2012 taxation years;
+pp) in 2011, the Appellant and his spouse each reported a net rental loss of $3,101 respecting one-half interest of the Condo;
+qq) in 2012, the Appellant and his spouse each reported a net rental loss of $3,545 respecting their one-half interest of the Condo;
+rr) gross rents respecting the Condo were $5,933.39 and $4,789.60, respectively, for the 2011 and 2012 taxation years;
+ss) the Appellant used the Condo for personal use in addition to renting it;
+tt) the Appellant owns only one rental property (the Condo) away from the metropolitan area where he resides;
+uu) travel expenses claimed in 2011 and 2012 of $1,113 and $2,046, respectively, were not incurred to earn rental income of the Condo or were the Appellant’s personal expenditures;
+vv) “other expenses” claimed by the Appellant as rental expenses of the Condo totaling $3,045 and $3,044 for the 2011 and 2012 taxation years, respectively, were not incurred or were not incurred to earn rental income; and
+ww) rental expenses respecting the Condo did not exceed $1,352.06 and $1,311.19 for the 2011 and 2012 taxation years as detailed in Schedule “A” attached.
+[7] At the hearing, the parties made the following concessions:
+For 2011
+Advertising & promotion
+$
+Lodging
+$
+Initial assessment
+8,347.00
+1,461.00
+Amount allowed after audit
+284.81
+541.06
+Adjustment
+8,062.19
+919.94
+Amount conceded
+2,950.00
+554.00
+Revised adjustment
+5,112.19
+365.94
+For 2012
+Advertising & promotion
+$
+Initial assessment
+6,876.00
+Amount allowed after audit
+284.81
+Adjustment
+6,591.19
+Amount conceded
+2,150.00
+Revised adjustment
+4,441.19
+For 2011
+Condo Expenses - Travel
+$
+Initial assessment
+1,113.00
+Amount allowed after audit
+0
+Adjustment
+1,113.00
+Amount conceded
+1,113.00
+Revised adjustment
+0
+For 2012
+Condo Expenses - Travel
+$
+Initial assessment
+2,046.00
+Amount allowed after audit
+0
+Adjustment
+2,046.00
+Amount conceded
+2,046.00
+Revised adjustment
+0
+For 2011
+Property taxes
+$
+Utilities
+$
+Other expenses
+$
+Initial assessment
+1,710.00
+1,544.00
+3,045.00
+Amount allowed after audit
+795.00
+317.06
+0
+Adjustment
+915.00
+1,226.94
+3,045.00
+Amount conceded
+Revised adjustment
+795.00
+120.00
+1,226.94
+0
+3,045.00
+0
+For 2012
+Property taxes
+$
+Utilities
+$
+Other expenses
+$
+Initial assessment
+1,768.00
+1,254.00
+3,044.00
+Amount allowed after audit
+803.91
+339.28
+0
+Adjustment
+964.09
+914.72
+3,044.00
+Amount conceded
+Revised adjustment
+803.90
+160.19
+914.72
+0
+3,044.00
+0
+[8] The appellant testified at the hearing. He explained that, during the 2011 and 2012 taxation years, he was an employee of the Royal Bank of Canada and held the position of regional financial advisor. He was paid on a commission basis. He covered the territory of southern Alberta and was responsible for all his expenses. His only permanent office was at home in Lethbridge, Alberta. The Declaration of Conditions of Employment (Form T2200) which was completed by the RBC Royal Bank for each of the appellant’s 2011 and 2012 taxation years, were filed as evidence in court.
+[9] During his testimony, he explained that in his professional career, he has been audited twice by the Canada Revenue Agency (“CRA”) and that his claims for expenses for prior years were accepted by the CRA. To support his assertion, the appellant filed as an exhibit, Form T777, Comparative Summary of Employment Expenses for the 2007 to 2011 years inclusively. This time the situation is different because he lost all his documents when his house was flooded in July 2013.
+[10] The only documentary evidence presented by the appellant concerning the flood, is a letter dated August 28, 2014 from Mr. Austin Stephens, a licensed broker of Young Insurance. The author of the letter says, among other things, on June 24, 2013, Young Insurance received a phone call from Mr. Lance Brown regarding a potential water damage claim to his dwelling and contents located at 6 Sheridan Place West, Lethbridge, Alberta and that Mr. Brown was advised not to submit a claim because seepage and flooding were not insured perils under his insurance policy. There would be no insurance coverage for the damage to his dwelling and its contents and Mr. Brown was responsible for the loss sustained. Mr. Stephens was not called as a witness at the hearing.
+[11] Concerning the advertising and promotion expenses, the appellant explained that he had to give seminars with particular groups of interest. For this purpose, he had to rent space at a convenient location and advertise the events. The appellant also explained that he was giving approximately $1,000 per year to employees of the Royal Bank of Canada as rewards for referring potential clients to him. This was accomplished by remitting gift certificates of less than $100 each. He also stated that these expenses were not reimbursed by the Royal Bank of Canada.
+[12] Concerning the motor vehicle expenses, the appellant claimed $13,915 in 2011 and $12,487 in 2012. CRA allowed $946.23 and $933.41 respectively. The appellant explained that he was driving 40,000 kilometres per year for business purposes and that his claim was based on 44 cents per kilometre, e.g. the rate used by the Royal Bank of Canada for its employees. The appellant was driving a 2008 Mitsubishi Outlander and was taking only a two-week vacation per year. His spouse, a high school teacher had her own car. The appellant explained that these motor vehicle expenses were not reimbursed by the Royal Bank of Canada except for the trips required by the bank. In 2011 and 2012, the appellant received motor vehicle allowances in the amounts of $396 and $408.32 respectively from the bank
+[13] The appellant claimed meals and entertainment expenses in the amounts of $6,615 in 2011 and $6,048 in 2012 and the CRA allowed $1,507.78 in each year. The appellant explained that he was taking clients for lunch two or three times per week and also when he hosted seminars with prospective clients.
+[14] The appellant claimed lodging expenses in the amounts of $1,461 in 2011 and $664 in 2012. The CRA allowed $541.06 in each year. The appellant conceded $554 to attend a football game in Seattle in 2011. The adjustments under litigation for 2011 and 2012 are $365.94 and $49.29 respectively. The appellant explained that he would spend the night away from home if the roads were closed due to bad weather conditions or if his seminars finished late.
+[15] The appellant claimed office supplies in the amounts of $1,429 in 2011 and $517 in 2012. The CRA allowed $467.71 in each year. The appellant explained that these expenses were primarily for the purchase of a printer and a charger for his laptop
+[16] The appellant also claimed expenses in relation to workspace-in-home in the amounts of $1,051 in 2011 and $1,060 in 2012. The CRA did not allow any of these amounts. The appellant explained that he was required to use a portion of his home for work as indicated in the Royal Bank of Canada’s Form T-2200 and he indicated 20% as the percentage of the duties he performed at his home office as estimated by the bank on the said form.
+[17] The appellant also claimed $19,108 in 2011 and $19,583 in 2012 under “Other expenses” which were both disallowed by the CRA. The appellant explained that these amounts were paid to his daughter, Emily, and to his son, Evan, for services they provided at the home office. Their duties consisted of opening clients’ files, preparing documents for his signature, conducting research on competitive products and organizing mail for, among other things, transfers of funds. In 2011, Emily was paid $12,000 and Evan was paid $6,000. In 2012, Emily was paid $6,000 and Evan was paid $12,000. Payments were made in a number of ways which included cash payments and contributions to their Registered Retirement Savings Plans and to their Tax-Free Savings Accounts. According to the appellant, this was done after his accountant had consulted with the CRA on the issue. The appellant further alleged that the amounts paid to his children were reported as income in their respective tax returns and they paid Canada Pension Plan premiums on these amounts.
+[18] The appellant explained that the revenues generated by his condominium unit located in Kimberley, British Columbia, were reported as income based on his one-half share and that the goods and services tax collected on the rent was remitted to the Receiver General of Canada. The gross rent reported in 2011 and 2012 were $1,449 and $1,189 respectively. In the course of the audit, the CRA determined that the gross rent were $5,933.39 and $4,789.60 respectively for the 2011 and 2012 taxation years. The reason for the adjustments was due to the fact that an amount of $300 was being deposited every month into a special bank account for the condominium operations. This amount was being deposited around the 24th of each month and is described as “transfer 42270002”.
+[19] The appellant alleged that he had to transfer an after-tax amount into the rental property account to cover the shortfall in the condominium fees because the rental income was not sufficient to cover the condominium fees entirely. To support his allegations, the appellant filed as evidence, the rental property account for the 2011 and 2012 taxation years.
+[20] As a result of the various concessions made by the parties, the rental expenses respecting the condominium are not contested anymore.
+Legislation
+[21] The following provisions of the Act are relevant for the purpose of this appeal:
+8(1) Deductions allowed In computing a taxpayer's income for a taxation year from an office or employment, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+. . .
+(h) travel expenses where the taxpayer, in the year,
+(i) was ordinarily required to carry on the duties of the office or employment away from the employer's place of business or in different places, and
+(ii) was required under the contract of employment to pay the travel expenses incurred by the taxpayer in the performance of the duties of the office or employment,
+amounts expended by the taxpayer in the year (other than motor vehicle expenses) for travelling in the course of the office or employment, except where the taxpayer
+(iii) received an allowance for travel expenses that was, because of subparagraph 6(1)(b)(v), (vi) or (vii), not included in computing the taxpayer's income for the year, or
+(iv) claims a deduction for the year under paragraph (e), (f) or (g);
+(h.1) motor vehicle travel expenses where the taxpayer, in the year,
+(i) was ordinarily required to carry on the duties of the office or employment away from the employer's place of business or in different places, and
+(ii) was required under the contract of employment to pay motor vehicle expenses incurred in the performance of the duties of the office or employment,
+amounts expended by the taxpayer in the year in respect of motor vehicle expenses incurred for travelling in the course of the office or employment, except where the taxpayer
+(iii) received an allowance for motor vehicle expenses that was, because of paragraph 6(1)(b), not included in computing the taxpayer's income for the year, or
+(iv) claims a deduction for the year under paragraph (f);
+. . .
+(i) dues and other expenses of performing duties an amount paid by the taxpayer in the year, or on behalf of the taxpayer in the year if the amount paid on behalf of the taxpayer is required to be included in the taxpayer's income for the year, as
+(i) annual professional membership dues the payment of which was necessary to maintain a professional status recognized by statute,
+(ii) office rent, or salary to an assistant or substitute, the payment of which by the officer or employee was required by the contract of employment,
+(iii) the cost of supplies that were consumed directly in the performance of the duties of the office or employment and that the officer or employee was required by the contract of employment to supply and pay for,
+. . .
+8(2) General limitation Except limitation Except as permitted by this section, no deductions shall be made in computing a taxpayer's income for a taxation year from an office or employment.
+. . .
+8(4) Meals An amount expended in respect of a meal consumed by a taxpayer who is an officer or employee shall not be included in computing the amount of a deduction under paragraph (1)(f) or (h) unless the meal was consumed during a period while the taxpayer was required by the taxpayer's duties to be away, for a period of not less than twelve hours, from the municipality where the employer's establishment to which the taxpayer ordinarily reported for work was located and away from the metropolitan area, if there is one, where it was located.
+. . .
+8(10) Certificate of employer An amount otherwise deductible for a taxation year under paragraph (1)(c), (f), (h) or (h.1) or subparagraph (1)(i)(ii) or (iii) by a taxpayer shall not be deducted unless a prescribed form, signed by the taxpayer's employer certifying that the conditions set out in the applicable provision were met in the year in respect of the taxpayer, is filed with the taxpayer's return of income for the year.
+. . .
+8(13) Work space in home Notwithstanding paragraphs (1)(f) and (i),
+(a) no amount is deductible in computing an individual's income for a taxation year from an office or employment in respect of any part (in this subsection referred to as the “work space”) of a self-contained domestic establishment in which the individual resides, except to the extent that the work space is either
+(i) the place where the individual principally performs the duties of the office or employment, or
+(ii) used exclusively during the period in respect of which the amount relates for the purpose of earning income from the office or employment and used on a regular and continuous basis for meeting customers or other persons in the ordinary course of performing the duties of the office or employment;
+(b) where the conditions set out in subparagraph (a)(i) or (ii) are met, the amount in respect of the work space that is deductible in computing the individual's income for the year from the office or employment shall not exceed the individual's income for the year from the office or employment, computed without reference to any deduction in respect of the work space; and
+(c) any amount in respect of a work space that was, solely because of paragraph (b), not deductible in computing the individual's income for the immediately preceding taxation year from the office or employment shall be deemed to be an amount in respect of a work space that is otherwise deductible in computing the individual's income for the year from that office or employment and that, subject to paragraph (b), may be deducted in computing the individual's income for the year from the office or employment.
+9(1) Income Subject to this Part, a taxpayer's income for a taxation year from a business or property is the taxpayer's profit from that business or property for the year.
+18(1) General limitations In computing the income of a taxpayer from a business or property no deduction shall be made in respect of
+(a) an outlay or expense except to the extent that it was made or incurred by the taxpayer for the purpose of gaining or producing income from the business or property;
+. . .
+(h) personal or living expenses of the taxpayer, other than travel expenses incurred by the taxpayer while away from home in the course of carrying on the taxpayer's business;
+248(1) Definitions
+“Personal or living expenses” includes
+(a) the expenses of properties maintained by any person for the use or benefit of the taxpayer or any person connected with the taxpayer by blood relationship, marriage or common-law partnership or adoption, and not maintained in connection with a business carried on for profit or with a reasonable expectation of profit,
+. . .
+Analysis
+[22] The income tax system is based on self-monitoring and the burden of proof for deductions and claims rests with the taxpayer. The taxpayer must have detailed information available and keep documentation in support of the claims he makes.
+[23] In this instance, the books and records kept by the appellant were just non-existent allegedly due to a flood that occurred in his home office in July 2013. The only documentary evidence of the flood submitted by the appellant is a letter from his insurance broker dated one year after the event. The letter refers to the appellant’s phone call made to his insurance company in the month preceding the alleged flood. The insurance broker did not testify at the hearing to confirm whether or not he had personal knowledge of the call and if the information in the letter is true. The appellant could also have provided photos of the damages and copies of the invoices for repairs done to his dwelling which the appellant estimated to be in excess of $40,000.
+[24] In the circumstances, I do not find the appellant’s testimony on this issue credible.
+[25] The T2200 forms that were submitted as exhibits for the appellant’s 2011 and 2012 taxation years showed that the appellant was not required, under his contract of employment, to pay for an assistant. That form is a statutory condition precedent to the claiming of certain employment expense deductions and provides evidence of the terms of employment. The form is not conclusive or determinative if the evidence proves it to be wrong. Nevertheless, the requirement in subparagraph 8(1)(i)(ii) of the Act in respect of the salary paid to an assistant is only satisfied if it is essential that the expenditure be incurred in order for the appellant to carry out the duties of his employment.
+[26] In this instance, the appellant has failed to meet his burden of proof on this point. The appellant’s testimony that his children’s duties consisted of opening client files, preparing documents for his signature, conducting research on competitive products and organizing mail, do not show that his children’s services were necessary for the appellant to be able to carry out the duties of his employment as a financial advisor.
+[27] Furthermore, the appellant did not call his children to substantiate his testimony nor did he call his supervisor who would have been able to explain the reasons why his children’s assistance was implicitly required.
+[28] Despite the fact that the appellant’s testimony indicated that his children may have genuinely provided some assistance, he did not provide sufficient evidence to establish the element of necessity. The appellant did not keep a record of the number of hours his children worked in any given year and he has admitted that the amounts paid to them were arbitrarily determined and have no correlation with the duties actually performed.
+[29] Pursuant to subsection 8(13) of the Act, no amount is deductible in computing an individual’s income for a taxation year from an office or employment in respect of any part (the “work space”) of a self-contained domestic establishment in which the individual resides, except to the extent that the work space is either:
+(i) the place where the individual principally performs the duties of the office or employment, or
+(ii) used exclusively during the period for the purpose of earning income from the office or employment and used on a regular and continuous basis for meeting customers in the ordinary course of performing the duties of the office or employment.
+[30] The forms T2200 submitted indicate that the appellant performed his duties of employment at home only 20% of the time and the appellant has admitted that he was not meeting clients at home. Consequently, the two conditions of subsection 8(13) are not met which means that no amount is deductible by the appellant in computing his income in respect of his work space-in-home.
+[31] The forms T2200 submitted indicate that:
+- the appellant was required to pay his own expenses while carrying out the duties of his employment;
+- the appellant had no specific territory where he was required to travel during the course of performing the duties of his employment;
+- the appellant was required to be away for at least 12 consecutive hours from the municipality where the appellant normally reported for work, 14 times in 2011 and 5 times in 2012; and
+- the appellant received motor vehicle allowances of $396 in 2011 and $408.32 in 2012 which were not included in the appellant’s employment income by the Royal Bank of Canada.
+[32] The appellant’s testimony is to the effect that he used one vehicle exclusively for employment purposes and that he drove 40,000 kilometres per year. The appellant claimed motor vehicle expenses totalling $13,915 and $12,487 for the 2011 and 2012 taxation years respectively, by using a rate of 44 cents per kilometre. The appellant did not maintain a mileage log with respect to the motor vehicle that he drove for employment purposes nor a list of clients or potential clients he met or of the seminars he gave while away from home. The appellant did not submit any invoice showing the real fuel and maintenance costs that he incurred in performing the duties of his employment.
+[33] In the absence of any supportive receipt or any reasonable alternative method of calculating the motor vehicle expenses, I can only conclude that the amounts allowed by the Minister (net of the motor vehicle allowances paid by the Royal Bank of Canada are reasonable in the circumstances.
+[34] The appellant claimed meals and entertainment expenses totalling $6,615 and $6,408 for the 2011 and 2012 taxations years respectively and the Minister allowed $1,507.78 per year. In the absence of a list of individuals who the appellant allegedly entertained and receipts and credit card statements, I can only conclude that the amounts allowed by the Minister are reasonable in the circumstances.
+[35] The appellant claimed expenses for supplies totalling $1,429 and $517 for the 2011 and 2012 taxation years respectively and the Minister allowed $467.71 in each year. In the absence of invoices showing the purchases of capital items such as computers, monitors and printers, I can only conclude that the amounts allowed by the Minister are reasonable in the circumstances.
+[36] The other employment expenses in respect of advertising and promotion, lodging and rental expenses respecting the condominium, claimed by the appellant, were adjusted as a result of concessions made by the parties. I do not intend to make changes to these items.
+[37] Concerning the undeclared income generated by rental of the condominium, the appellant was given the opportunity to show the source of the $300 monthly deposits in his condominium bank account but he failed to provide any evidence that these deposits were made by transfers from his personal bank account. As an employee of the Royal Bank of Canada, I am persuaded that the appellant could have easy access to his banking documents.
+[38] Based on the foregoing, the appellant failed to establish on a balance of probabilities that he was entitled to adjustments other than those described above with respect to his 2011 and 2012 taxation years.
+[39] After taking into account all of the adjustments above, the appellant’s employment and condominium expenses and net rental loss for 2011 and 2012 taxation years are as follows:
+2011
+$
+2012
+$
+Employment expenses
+Professional fees
+450.00
+450.00
+Advertising and promotion
+3,234.81
+2,434.81
+Motor vehicle
+946.23
+933.91
+Meals and entertainment
+Lodging
+1,507.78
+1,095.06
+1,507.78
+541.06
+Supplies
+Other expenses
+Work space-in-home
+467.71
+Nil
+Nil
+7,701.59
+467.71
+Nil
+Nil
+6,335.27
+2011
+$
+2012
+$
+Condominium expenses
+Maintenance and repairs
+240.00
+168.00
+Property taxes
+1,590.00
+1,607.81
+Utilities
+1,544.00
+1,254.00
+Travel
+Other expenses
+Nil
+3,045.00
+6,419.00
+Nil
+3,044.00
+6,073.81
+Condominium net rental loss
+Gross rent
+Condominium expenses
+2011
+$
+5,933.39
+6,419.00
+2012
+$
+4,789.60
+(6,073.811)
+Net rental loss
+(485.61)
+(1,284.20)
+Appellant’s half share
+(242.80)
+(642.10)
+[40] For these reasons, the appeal is allowed and the matter is referred back to the Minister for reconsideration and reassessments in accordance with these reasons.
+Signed at Ottawa, Canada, this 29th day of November 2017.
+“Réal Favreau”
+Favreau J.
+CITATION:
+2017 TCC 237
+COURT FILE NO.:
+2016-4780(IT)I
+STYLE OF CAUSE:
+Lance W.A. Brown and Her Majesty the Queen
+PLACE OF HEARING:
+Lethbridge, Alberta
+DATE OF HEARING:
+October 16, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Réal Favreau
+DATE OF JUDGMENT:
+November 29, 2017
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Aminollah Sabzevari
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

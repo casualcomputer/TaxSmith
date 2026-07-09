@@ -1,0 +1,163 @@
+---
+title: "Leeman v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29762/index.do"
+last_modified: "2010-04-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 217"
+citation2: ""
+neutral_citation: "2010 TCC 217"
+decision_date: "2010-04-22"
+language: "en"
+item_id: "29762"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6508
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:25:33.729000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "87abf9358e053702e90f351a0ba818a5fe47aa9e0a2e1cbbadbb9abe17c75b5d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Leeman v. The Queen
+
+- Citation: 2010 TCC 217
+- Decision date: 2010-04-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6508, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Leeman v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-04-22
+Neutral citation
+2010 TCC 217
+File numbers
+2010-88(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-88(IT)I
+BETWEEN:
+LEANNE LEEMAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on April 6, 2010 at Hamilton, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Mark Tonkovich
+____________________________________________________________________
+JUDGMENT
+Upon motion by the respondent with respect to an appeal from assessments made under the Income Tax Act for the 2003, 2004 and 2005 taxation years, it is ordered:
+1. the appeals with respect to the 2003 and 2004 taxation years are quashed,
+2. the parts of the notice of appeal that relate to the 2003 and 2004 taxation years are struck out, and
+3. the motion is otherwise dismissed.
+The respondent shall file a reply to the notice of appeal with respect to the assessment for the 2005 taxation year no later than June 30, 2010.
+Each party shall bear their own costs in respect of this motion.
+Signed at Toronto, Ontario this 22nd day of April 2010.
+“J. M. Woods”
+Woods J.
+Citation: 2010 TCC 217
+Date: 20100422
+Docket: 2010-88(IT)I
+BETWEEN:
+LEANNE LEEMAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] The appellant, Leanne Leeman, has instituted an appeal under the informal procedure in respect of assessments made under the Income Tax Act for the 2003, 2004 and 2005 taxation years. The issue concerns the inclusion in her income of a tuition benefit paid by her employer, Wilfrid Laurier University.
+[2] Before me is a preliminary motion brought by the respondent for an order striking the notice of appeal. Orally at the hearing, counsel for the respondent also requested that the appeals for these years be quashed.
+[3] The notice of motion also asks for relief with respect to the appeal for the 2006 taxation year. It is not necessary that I deal with this part of the motion because the appellant confirmed at the hearing that the notice of appeal was not intended to encompass the 2006 taxation year.
+[4] The grounds for the motion are that the notice of appeal is not validly instituted because a condition precedent, namely the service of a notice of objection, has not been satisfied.
+[5] The relevant provision is subsection 169(1) of the Act. It provides:
+169(1) Where a taxpayer has served notice of objection to an assessment under section 165, the taxpayer may appeal to the Tax Court of Canada to have the assessment vacated or varied after either
+(a) the Minister has confirmed the assessment or reassessed, or
+(b) 90 days have elapsed after service of the notice of objection and the Minister has not notified the taxpayer that the Minister has vacated or confirmed the assessment or reassessed,
+but no appeal under this section may be instituted after the expiration of 90 days from the day notice has been mailed to the taxpayer under section 165 that the Minister has confirmed the assessment or reassessed.
+[6] In support of its position, the respondent filed an affidavit of Stephanie Fong, a litigation officer with the Canada Revenue Agency. The affidavit states in part:
+2. I have charge of the appropriate records of the CRA, which I believe are accurate, and have knowledge of the practices of the CRA.
+3. I have examined the records relating to the appeal of Leanne Leeman, the Appellant, in respect of the 2003, 2004, 2005 and 2006 taxation years (the “Records”).
+4. The Records disclose that the Minister of National Revenue (the “Minister”) assessed the Appellant’s tax liability for the 2003, 2004, 2005 and 2006 taxation years on April 1, 2004, April 18, 2005, May 4, 2006 and April 19, 2007 respectively.
+5. The Records disclose that the Minister reassessed the Appellant’s tax liability for the 2003 and 2004 taxation years on March 6, 2006 and August 31, 2006 respectively.
+7. The appellant did not file a Notice of Objection to the 2005 Notice of Assessment referred to in paragraph 4 above with the Minister.
+8. The Appellant did not file Notices of Objection to the Notices of Reassessment for the 2003 and 2004 Notices of Reassessment referred to in paragraph 5 above.
+[7] The information in the affidavit in relation to the 2003 taxation year appears to be inaccurate or incomplete. The appellant introduced into evidence a notice of assessment dated August 31, 2006 for the 2003 taxation year. The respondent acknowledges that an assessment was issued on that day. Nothing turns on this in this motion, except that it calls into question whether Ms. Fong was thorough in the preparation of the affidavit.
+Discussion
+[8] The question to be decided is whether a valid notice of objection was served for each of the three taxation years at issue. It is clear that an appeal may not be instituted under s. 169(1) of the Act unless an objection has been served: Bormann v. The Queen, 2006 FCA 83, 2006 DTC 6147.
+[9] It is the position of the respondent that a notice of objection was not served for any of the 2003, 2004 or 2005 taxation years.
+[10] The appellant testified briefly that, in several pieces of correspondence with the CRA, she had made her objection clear that the tuition benefit should not be taxable.
+[11] In addition to this testimony, which was very general, the appellant also made specific reference to the following:
+a) a letter requesting relief dated May 17, 2006;
+b) a notice of objection that was filed on or before April 30, 2007 by including it in the appellant’s tax return for the 2006 taxation year; and
+c) a notice of objection dated April 25, 2008 which states that it relates to the 2006 taxation year.
+[12] As for the document in (a), it was not introduced into evidence but the respondent acknowledges its existence.
+[13] The respondent submits that the letter dated May 17, 2006 was not a notice of objection but was a request for interest relief under fairness legislation.
+[14] The appellant acknowledges that the letter requested interest relief but she submits that the letter also made it clear that she disagreed with the income inclusion as well.
+[15] I am not satisfied from the evidence that this letter was intended as a notice of objection within the meaning of section 165 of the Act. There is not sufficient evidence that the letter was a request to review the income inclusion of the tuition benefit as opposed to a request for a waiver of interest under fairness legislation.
+[16] As for the document in (b), this document was also not introduced into evidence. The appellant testified that the form she used was from the CRA website and that she attached it to her 2006 income tax return that was filed before April 30, 2007.
+[17] The appellant’s evidence with respect to this notice of objection was brief, and for the most part it was not challenged on cross-examination.
+[18] The respondent, who has the burden of proof with respect to this issue, relied on the affidavit of Ms. Fong to establish that this document was not served. However, Ms. Fong was not available at the hearing to be cross-examined on her affidavit, notwithstanding that the appellant had given notice through the notice of appeal that she was taking the view that objections had been filed.
+[19] In these circumstances, I conclude that the burden of proof has not been satisfied by the respondent with respect to document (b). I find that a notice of objection was properly served on or before April 30, 2007.
+[20] This is sufficient to validate the notice of appeal for the 2005 taxation year because the deadline for serving the notice of objection for that year was April 30, 2007 (i.e., one year after the filing deadline for the 2005 tax return).
+[21] Document (b) does not save the appeal for the 2003 and 2004 taxation years, however, because the deadline for serving the notice of objection for those years was November 29, 2006 (i.e., 90 days after the mailing of the assessments).
+[22] It is not necessary for me to consider the document in (c) because it was served beyond the time deadlines for all years.
+[23] In light of the above, I conclude that:
+a) the appeal with respect to the 2003 and 2004 taxation years shall be quashed,
+b) the parts of the notice of appeal that relate to the 2003 and 2004 taxation years shall be struck out, and
+c) the motion will otherwise be dismissed.
+[24] The respondent shall have until June 30, 2010 to file a reply to the notice of appeal for the 2005 taxation year.
+[25] Each party shall bear their own costs in respect of this motion.
+Signed at Toronto, Ontario this 22nd day of April 2010.
+“J. M. Woods”
+Woods J.
+CITATION: 2010 TCC 217
+COURT FILE NO.: 2010-88(IT)I
+STYLE OF CAUSE: LEANNE LEEMAN and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Hamilton, Ontario
+DATE OF HEARING: April 6, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice J. M. Woods
+DATE OF JUDGMENT: April 22, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Mark Tonkovich
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

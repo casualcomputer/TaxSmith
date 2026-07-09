@@ -1,0 +1,105 @@
+Title: Quaidoo v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26799/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-677-26799-quaidoo-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2003-09-24
+
+# Quaidoo v. The Queen
+
+- Citation: 2003 CCI 677
+- Decision date: 2003-09-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3479, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Quaidoo v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-09-24
+Référence neutre
+2003 CCI 677
+Numéro de dossier
+2003-807(IT)I
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2003CCI677
+Date : 20030924
+Dossier : 2003-807(IT)I
+ENTRE :
+FRANK QUAIDOO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Représentant de l'appelant : Charles Rubayiza
+Avocate de l'intimée : Me Galina M. Bining
+____________________________________________________________________
+MOTIFS DU JUGEMENT
+(Rendus oralement à l'audience
+à Edmonton (Alberta), le 22 août 2003.)
+Le juge Miller
+[1] M. Quaidoo interjette appel par procédure informelle à l'encontre de la cotisation établie par le ministre pour l'année d'imposition 1999, dans laquelle le ministre a refusé les pertes d'entreprise de M. Quaidoo pour l'année visée. M. Quaidoo soutient qu'il a subi 50 p. 100 d'une perte de 27 291,18 $ dans son entreprise d'exportation. L'intimée affirme que M. Quaidoo n'exploitait pas d'entreprise en 1999. Subsidiairement, s'il en a exploité une, il n'a pas prouvé de dépenses supérieures aux recettes ou bien ses dépenses étaient déraisonnables en l'occurrence.
+[2] En 1999, M. Quaidoo a achevé les deux derniers mois d'un cours de mécanique. Il a résolu, dès le début de l'année, de mettre sur pied une entreprise de réparation d'automobiles qu'il exploiterait dans ses moments libres. Après avoir consulté un comptable, M. Rubayiza, il a enregistré la dénomination commerciale de Tri-Quaid Services. Peu de temps après, au cours de discussions avec son frère, lui est venue l'idée d'exporter des pièces d'automobile, des accessoires, de l'équipement, des bicyclettes et autres marchandises semblables au Ghâna. Son frère venait de faire un séjour d'une durée considérable en Afrique. Ses parents étaient originaires du Ghâna. Il a vu là une occasion d'arrondir son revenu. À l'origine, il n'avait pas de fonds suffisants pour démarrer une telle entreprise, mais il s'est trouvé un partenaire, c'est à dire une entreprise ou une organisation, du nom de Parthonics. M. Quaidoo n'a pas donné de détails sur cette relation, sauf pour indiquer qu'il a reçu 5 000 $ de cet « associé passif » (selon l'expression employée par M. Quaidoo).
+[3] Le témoignage de l'appelant était embrouillé quant à savoir exactement qui exploitait l'entreprise d'exportation. Selon sa propre déclaration, il devait partager avec Parthonics les revenus et les pertes, mais c'est pourtant son épouse qui a été déclarée comme associée dans l'entreprise d'exportation. Il a dit qu'il avait remboursé les 5 000 $, mais rien ne prouve l'existence d'un reçu ni le remboursement de ces fonds. M. Quaidoo a admis qu'il considérait ce projet sur le marché de l'exportation comme un essai. S'il gagnait de l'argent, il continuerait. C'était là tout son plan. Or il n'a pas gagné d'argent.
+[4] M. Quaidoo affirme qu'entre avril et septembre, il a acheté divers articles comme des moteurs, des bicyclettes, des carburateurs, des véhicules et autres machines de ce genre. Il a déposé une liste de ces biens écrite de sa main sur quatre formulaires qui ressemblaient à des factures, dont un était daté du 26 juin, deux du 27 juin et un autre du 28 juin 1999. Selon lui, il avait acheté les biens dans des ventes de garage et des ventes aux enchères. Il n'a pas donné plus de précisions que cela. Aucun reçu n'a été présenté, aucun nom, aucune adresse, ni aucune autre confirmation de ces acquisitions.
+[5] Il a organisé l'expédition des marchandises au Ghâna. Il s'est aussi rendu au Ghâna pour s'occuper de la vente des marchandises. Il a présenté trois documents, tous intitulés [traduction] « Factures » , qui servaient de reçus provenant de trois organismes différents à Takarodi, au Ghâna. Le premier, de M.T.O.A. Car Dealers Association, indiquait l'achat de une camionnette à cabine Nissan King, de une Toyota 4 Runner, de pneus et de pièces pour 7 700 $. La deuxième facture, de Mister Yesterday Technicals, indiquait les achats de transformateurs, de haut-parleurs, d'un réfrigérateur, d'outils et de matériel semblable pour 318 $. La troisième facture, de 124 Enterprise, indiquait l'achat de 37 bicyclettes pour 310 $. Les trois factures, présentées en guise de reçus, ont le même aspect. M. Quaidoo a déposé que les bicyclettes avaient été vendues grâce au bouche à oreille, par l'entremise d'une personne rencontrée au Port, au Ghâna. Les deux autres achats semblent avoir été faits par l'entremise de certaines relations du frère de M. Quaidoo, bien que son témoignage ne soit pas entièrement clair sur ce point.
+[6] Il s'agissait du deuxième séjour de M. Quaidoo au Ghâna, puisqu'il s'y était rendu l'année précédente avec ses parents et sa nouvelle épouse pour présenter celle-ci à sa famille en Afrique. Lors de son séjour de trois semaines au Ghâna en 1999, il a occupé un appartement qui appartenait à ses parents, bien que ceux-ci résident en temps normal au Canada.
+[7] M. Quaidoo a produit sa déclaration de revenus de 1999 déclarant un revenu de 12 725 $, qui se rapproche des ventes réalisées auprès des trois organismes du Ghâna pourvu qu'on considère - comme en a témoigné M. Quaidoo - que les montants étaient exprimés en dollars américains. Il ne restait donc pratiquement aucun revenu provenant de l'entreprise de réparation d'automobiles. M. Quaidoo a aussi déclaré les dépenses suivantes :
+Fournitures
+17 525 $
+Expédition
+8 516 $
+Bureau et frais généraux
+3 316 $
+Téléphone
+3 004 $
+Loyer
+2 164 $
+Déplacements
+2 143 $
+Dépenses d'automobile
+1 418 $
+Entreposage
+1 156 $
+Assurance
+408 $
+Utilisation du domicile
+362 $
+Total
+40 016 $
+M. Quaidoo a donc déclaré une perte de 27 291 $ et demandé le remboursement de 50 p. 100 de ce montant.
+[8] L'intimée a concédé les frais d'expédition, les frais de déplacement et les frais d'entreposage en douane, ainsi que des frais de bureau et frais généraux de 37,99 $, pour un total de 11 853 $, mais seulement dans l'éventualité où je déciderais que M. Quaidoo exploitait une entreprise.
+[9] Le représentant de M. Quaidoo a soutenu que M. Quaidoo avait prouvé l'existence de son entreprise, ainsi que le revenu et les dépenses qui y étaient associés. L'intimée a maintenu que le projet de M. Quaidoo renfermait un élément personnel, soit ses liens familiaux au Ghâna, lequel élément nécessitait, selon les arrêts Stewart,[1] Walls[2] et Moldowan[3], l'analyse des facteurs suivants pour déterminer si M. Quaidoo exploitait effectivement une entreprise.
+[10] Premièrement, l'état des profits et pertes pour les années antérieures : puisque c'était un nouveau projet, il n'y en avait pas. Deuxièmement, la formation de M. Quaidoo en matière d'exportation : il n'en avait aucune. Troisièmement, la voie sur laquelle il entendait s'engager : cela consistait en effet à faire un essai. Quatrièmement, la capacité de l'entreprise de réaliser un profit : la Couronne a laissé entendre qu'une telle capacité n'existait pas. Cinquièmement, le terrible critère de l'attente raisonnable de profit : objectivement, il n'y avait aucune attente raisonnable de profit. L'appelant n'a certainement pas pu en prouver l'existence. Sixièmement, la nature des dépenses : les dépenses ne semblent pas toutes se rapporter à une entreprise d'exportation.
+[11] L'intimée a donc conclu qu'il n'y avait pas d'entreprise. Au mieux, il a pu y avoir certaines mesures préalables à l'exploitation d'une entreprise, mais l'appelant n'a pas montré une diligence suffisante pour prouver que l'exploitation de l'entreprise avait commencé au moment de l'essai. Subsidiairement, l'intimée a soutenu que s'il y avait une entreprise en 1999, l'appelant n'a pas pu prouver ses dépenses alors que, d'après la décision de la Cour d'appel fédérale dans l'affaire Njenga[4], il lui incombait de le faire. Il a peut-être prouvé des frais d'expédition, de déplacements et d'entreposage, mais il n'a pas prouvé les frais relatifs aux fournitures, au téléphone ou à l'automobile. En outre, les dépenses liées au domicile étaient exclues par l'application du paragraphe 18(12) de la Loi, qui limite de telles dépenses au revenu de l'entreprise. Voilà la position de l'intimée.
+[12] Considérons le premier point en litige consistant à savoir si M. Quaidoo exploitait une entreprise. À mon avis, ce n'est pas parce que son frère vivait dans un endroit représentant un marché possible et que ses parents y avaient une propriété, que des faits personnels de ce genre justifient que l'on conclue que M. Quaidoo effectuait une démarche personnelle au lieu d'être en quête d'un profit. Il a tout simplement habité un endroit qui appartenait à ses parents pendant qu'il se trouvait au Ghâna, et s'est appuyé sur certaines relations de son frère. Rien ne prouve que des marchandises aient été vendues ou distribuées à des parents ou des amis, ni que l'activité elle-même ait comporté un élément personnel. Je conclus qu'il n'existait pas d'élément personnel.
+[13] Que faisait alors M. Quaidoo? Avait-il une source de revenu? Je n'accepte pas la suggestion de l'intimée voulant que l'essai ait été une mesure préalable à une entreprise. C'était une activité commerciale tout simplement trop complexe pour la qualifier ainsi. À lui seul, le fait de se procurer un conteneur et d'expédier des marchandises au coût de 8 000 $ dépasse la simple prise de renseignements préalable à une entreprise. Pourtant, M. Quaidoo ne montrait aucun des signes extérieurs plus officiels d'une entreprise. Il n'avait pas de livres ni de dossiers commerciaux, de journaux, d'adresses de relations d'affaires, ni d'informations sur la provenance des marchandises. Il a affirmé qu'il avait un plan, mais rien qui soit mis par écrit, et pas non plus d'informations bancaires. En fait, il n'existe pratiquement aucune documentation, à l'exception des trois reçus curieusement déguisés en factures.
+[14] Au mieux, M. Quaidoo s'est lancé dans une aventure, une aventure de nature commerciale. Cette expression convient peut-être pour décrire ce que faisait M. Quaidoo. Celui-ci a passé outre aux formalités qui se rattachent à l'exploitation réelle d'une entreprise et à tout ce que cela comporte, et il s'est tout simplement précipité dans l'aventure, une aventure de caractère commercial. À des fins fiscales, cependant, il s'agit d'une entreprise.
+[15] Quels ont été alors ses revenus et ses dépenses dans cette aventure? Bien que les trois documents confirmant le revenu qu'a tiré M. Quaidoo de son aventure ne correspondent pas aux normes nord-américaines en ce qui concerne habituellement un reçu, je les trouve acceptables puisque je ne connais pas parfaitement les pratiques commerciales courantes au Ghâna. Ces documents décrivent effectivement l'équipement, ils sont datés de la période au cours de laquelle M. Quaidoo se trouvait au Ghâna, ils indiquent des montants et, dans deux cas, ils sont signés, quoique M. Quaidoo n'ait pas identifié le signataire. Je conclus que M. Quaidoo a reçu le revenu indiqué par les trois documents, qui s'élève à environ 12 500 $ canadiens.
+[16] En ce qui concerne les dépenses, l'intimée et l'appelant ont convenu ce qui suit : les frais d'expédition de 8 516 $, les déplacements de 2 143 $, l'entreposage de 1 156 $ et les dépenses de bureau de 37,99 $. J'accepte l'observation de l'intimée selon laquelle les dépenses liées au domicile sont exclues par l'application du paragraphe 18(12) de la Loi.
+[17] En ce qui a trait au reste des dépenses, concernant le téléphone, l'auto et les fournitures - ces dernières représentant la principale dépense - l'appelant n'a présenté aucune preuve ou soutien de ces montants, hormis son témoignage oral. Comme je l'ai déjà indiqué, il n'y a pas de journaux, de grands livres, de noms de fournisseurs, de relevés bancaires, d'états financiers, de chèques payés; aucune pièce n'a été fournie à l'appui.
+[18] L'article 230 de la Loi oblige le contribuable à tenir des registres et des livres de comptes. Sans cela, comment le gouvernement serait-il en mesure, dans un système fondé sur l'autocotisation, d'établir une cotisation à l'égard des contribuables correctement et non pas arbitrairement? Il incombe à M. Quaidoo de prouver que les hypothèses du ministre, et par conséquent sa cotisation, sont erronées. Lui seul est en mesure de le faire. Il est possible qu'en des circonstances exceptionnelles, alors que la seule preuve disponible est verbale, un contribuable très crédible puisse convaincre l'Agence des douanes et du revenu du Canada ou la Cour en ce qui concerne les dépenses correctes. La Cour d'appel fédérale a traité ce point dans les termes suivants, aux paragraphes 3 et 4 de la décision Njenga[5] :
+Le système fiscal est fondé sur l'autocontrôle. Il est d'intérêt public que la charge de prouver le fondement des déductions et des réclamations repose sur le contribuable. Le juge de la Cour de l'impôt a statué que les personnes comme la requérante doivent être en mesure de produire toutes les informations et justifications permettant d'appuyer les réclamations qu'elles font. Nous sommes d'accord avec cette conclusion. Mme Njenga, à titre de contribuable, a la responsabilité de justifier ses affaires personnelles d'une manière raisonnable. Des reçus écrits par elle-même et des allégations sans preuve ne sont pas suffisants.
+Le problème du manque de justification est encore aggravé par le fait que le juge du procès, à qui il revient d'apprécier la crédibilité, a conclu que la requérante ne répondait pas aux exigences sur ce point.
+[19] Bien que j'accepte la position de M. Quaidoo selon laquelle il a mené une entreprise commerciale, la carence de celui-ci à tenir des dossiers, l'étrangeté de la présentation de factures en guise de reçus, son manque de clarté concernant la nature exacte des marchandises achetées et la façon de les acheter, son manque de clarté quant au statut de l'entreprise en propriété individuelle ou bien en société de personnes (et dans ce dernier cas l'identité des associés), me mettent dans l'impossibilité de m'appuyer exclusivement sur la déposition verbale de l'appelant en ce qui concerne ses dépenses. Le contribuable qui engage des dépenses considérables dans l'espoir de réaliser un profit doit être diligent pour en rendre compte. Il ne peut pas s'attendre à ce que le gouvernement les devine. Ce serait-là la ruine du système.
+[20] C'est malheureusement une leçon qui coûte cher à M. Quaidoo, mais celui-ci n'a tout simplement pas été en mesure de à prouver que ses dépenses avaient dépassé son revenu. Sans cette preuve, l'appel doit être rejeté.
+Signé à Ottawa, Canada, ce 24e jour de septembre 2003.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme ce 20e jour de mai 2004.
+Nancy Bouchard, traductrice
+[1] [2002] 2 R.C.S. 645.
+[2] [2002] 2 R.C.S. 684.
+[3] [1978] 1 R.C.S. 480.
+[4] [1996] A.C.F. no 1218.
+[5] Précitée.

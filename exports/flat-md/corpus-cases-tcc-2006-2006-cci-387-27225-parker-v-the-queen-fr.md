@@ -1,0 +1,350 @@
+---
+title: "Parker v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27225/index.do"
+last_modified: "2006-07-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 387"
+citation2: ""
+neutral_citation: "2006 CCI 387"
+decision_date: "2006-07-10"
+language: "fr"
+item_id: "27225"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 831
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:28:32.115000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5e0b1aeda9066499199ce1134b0b16bc2e327f86502d9d3948646c8695a4a63c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Parker v. The Queen
+
+- Citation: 2006 CCI 387
+- Decision date: 2006-07-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 831, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Parker v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-07-10
+Référence neutre
+2006 CCI 387
+Numéro de dossier
+2003-421(IT)G
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-421(IT)G
+ENTRE :
+EILEEN PARKER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 26 avril et le 16 juin 2006,
+à Saskatoon (Saskatchewan)
+Devant : l'honorable juge D. W. Beaubier
+Comparutions :
+Avocat de l'appelante :
+Me Kurt G. Wintermute
+Avocat de l'intimée :
+Me Lyle Bouvier
+____________________________________________________________________
+[TRADUCTION FRANÇAISE OFFICIELLE]
+JUGEMENT
+L'appel est rejeté selon les motifs du jugement ci-joints.
+Les dépens taxables afférents au présent appel sont adjugés à l'intimée.
+Signé à Kelowna (Colombie-Britannique), ce 10e jour de juillet 2006.
+« D. W. Beaubier »
+Le juge Beaubier
+Traduction certifiée conforme
+ce 16e jour d'août 2006.
+Yves Bellefeuille, réviseur
+Référence : 2006CCI387
+Date : 20060710
+Dossier : 2003-421(IT)G
+ENTRE :
+EILEEN PARKER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Beaubier
+[1] Le présent appel, interjeté sous le régime de la procédure générale, a été entendu à Saskatoon (Saskatchewan) le 26 avril et le 16 juin 2006. L'appelante a témoigné et elle a assigné à témoigner son époux, Reginald Parker ( « Reg » ). Ce dernier était un avocat qui exerçait à Saskatoon pendant les années en litige. Reg a fait faillite pour la deuxième fois en 2001 et il est toujours en faillite. Le syndic de faillite de Reg, Jeffrey Pinder, B. Com., a également témoigné pour l'appelante. De 1980 jusqu'à son départ à la retraite en octobre 2004, l'appelante travaillait comme commis aux achats pour le Saskatoon Public School Board (Conseil scolaire public de Saskatoon). Le couple a deux enfants qui sont nés au début des années 1980.
+[2] L'intimée n'avait pas de témoin.
+[3] Les détails de la cause sont exposés aux paragraphes 7 à 13 de la réponse à l'avis d'appel. Ils se lisent comme suit :
+[TRADUCTION]
+7. En réponse à l'avis d'opposition de l'appelante contre la cotisation n ° 17939, le ministre a établi à son égard une nouvelle cotisation datée du 30 octobre 2002. Le ministre a établi la nouvelle cotisation pour l'appelante relativement aux transferts de biens de Reginald Parker à l'appelante pour un montant de 53 406,18 $. Dans cette nouvelle cotisation, le ministre a déduit de la cotisation les montants relatifs aux dépenses d'entreprise pour lesquelles Reginald Parker avait utilisé la carte de crédit Visa de l'appelante.
+8. En établissant ainsi la cotisation et la nouvelle cotisation de l'appelante, le ministre s'est basé sur les hypothèses de fait suivantes :
+a) durant toute la période pertinente, l'appelante était mariée à Reginald Parker;
+b) durant toute la période pertinente, l'appelante travaillait à temps plein en tant que commis aux achats pour le Conseil scolaire public;
+c) durant toute la période pertinente, Reginald Parker avait une dette envers l'Agence des douanes et du revenu du Canada pour les montants d'impôt impayés suivants :
+Année
+Impôt
+Pénalités/Intérêts
+Total
+1989
+13 888,24 $
+6 530,29 $
+20 418,53 $
+1990
+25 235,50 $
+6 520,92 $
+31 756,42 $
+1991
+18 275,94 $
+4 289,32 $
+22 565,26 $
+1992
+16 787,96 $
+59,58 $
+16 847,54 $
+1996
+13 011,56 $
+10 549,99 $
+$23 561,55 $
+1997
+25 142,31 $
+10 953,01 $
+36 095,32 $
+1998
+17 086,40 $
+5 841,15 $
+22 927,55 $
+1999
+20 520,84 $
+4 374,54 $
+24 895,38 $
+2000
+6 936,92 $
+0 $
+6 936,92 $
+Total
+156 885 $
+49 118,80 $
+206 004,47 $
+d) en 1996, et durant toute la période pertinente, l'appelante était la propriétaire unique de sa résidence, située au 1114, croissant Wilson, à Saskatoon (Saskatchewan) (la « résidence » );
+e) pendant les années 1996, 1997, 1998, 1999 et 2000, Reginald Parker a effectué les paiements hypothécaires suivants pour la résidence (les « paiements hypothécaires » ) :
+Année
+Paiements hypothécaires
+1996
+12 702 $
+1997
+13 257,04 $
+1998
+14 526 $
+1999
+5 810,40 $
+2000
+0 $
+Total
+46 295,44 $
+f) de 1996 à 2000, Reginald Parker a effectué des paiements relativement à la carte de crédit Visa de l'appelante (les « paiements Visa » ) pour les montants suivants :
+Année
+Achats d'entreprise
+1996
+4 500 $
+1997
+2 200 $
+1998
+4 500 $
+1999
+0 $
+2000
+1 500 $
+Total
+12 700 $
+g) de 1996 à 2000, Reginald Parker a utilisé la carte de crédit Visa de l'appelante pour effectuer les achats d'entreprise suivants :
+Année
+Achats d'entreprise
+1996
+380,45 $
+1997
+2 200 $
+1998
+4 233,85$
+1999
+0 $
+2000
+1 500 $
+Total
+8 314,30 $
+h) de 1996 à 2000, Reginald Parker a versé les sommes suivantes à l'appelante (les « versements en espèces » ) :
+Année
+Montant des versements
+1996
+1 100 $
+1997
+0 $
+1998
+1 125 $
+1999
+500 $
+2000
+0 $
+Total
+2 725 $
+i) l'appelante n'a donné aucune contrepartie à Reginald Parker en échange des paiements hypothécaires effectués par ce dernier relativement à la résidence;
+j) l'appelante n'a donné aucune contrepartie à Reginald Parker en échange des paiements effectués pour la carte Visa qui excèdent le montant des dépenses d'entreprise payées au moyen de cette carte;
+k) l'appelante n'a donné aucune contrepartie à Reginald Parker en échange des versements en espèces.
+B. POINTS EN LITIGE
+9. Il s'agit de savoir si :
+a) Reginald Parker a transféré des biens à l'appelante au moyen des paiements hypothécaires, des paiements effectués pour la carte Visa qui excèdent le montant des dépenses d'entreprise et des versements en espèces;
+b) la valeur des biens transférés dépasse la juste valeur marchande de la contrepartie donnée par l'appelante;
+c) les transferts ont été faits à un moment où Reginald Parker avait des dettes fiscales en souffrance relatives à l'année ou aux années précédentes.
+C. DISPOSITIONS LÉGISLATIVES INVOQUÉES
+10. Il se base sur l'article 160 de la Loi de l'impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.), telle qu'elle est modifiée.
+D. MOYENS INVOQUÉS ET CONCLUSIONS RECHERCHÉES
+11. Il soutient qu'en effectuant les paiements hypothécaires, les paiements pour la carte Visa qui excèdent le montant des dépenses d'entreprise et les versements en espèces, Reginald Parker a transféré des biens à l'appelante.
+12. Il soutient en outre que la valeur des biens transférés dépasse la juste valeur marchande de la contrepartie donnée par l'appelante, qui en fait était de zéro.
+13. De plus, il soutient que les transferts ont été effectués à un moment où Reginald Parker avait des dettes fiscales en souffrance relatives à l'année ou aux années précédentes.
+[4] Les hypothèses de fait aux alinéas 8 a), b), c), d) et h) de la réponse à l'avis d'appel sont admises. Les alinéas 8 e), f) et g) ne sont pas niés, mais ils ont été modifiés au paragraphe [5] ci-dessous. Les autres alinéas sont niés.
+[5] En ce qui a trait au montant de la nouvelle cotisation, les détails sont exposés dans la réponse à l'avis d'appel de la manière suivante :
+Nouvelle cotisation (paragraphe 7) 53 406,18 $
+Montants indiqués aux hypothèses de fait au paragraphe 8
+Paiements hypothécaires (e) 46 295,44 $
+Paiements nets de la carte Visa, moins les dépenses d'entreprise admises (f)
+12 700 $
+- 8 314,30
+4 385,70 $
+4 385,70 $
+Retiré de la nouvelle cotisation, alinéa (g)
+Versements en espèces (h) 2 725 $
+Total 53 406,14 $
+[6] Reg, l'époux d'Eileen Parker, a témoigné pendant une demi-journée. En raison de ses prétendus accords avec Eileen, il convient de relater son histoire. Il est né le 8 août 1936 et il a épousé Eileen en 1964. Ils ont deux enfants âgés respectivement de 37 et de 34 ans. En 1964, Reg était animateur de radio à Winnipeg. Ils ont déménagé à Saskatoon en 1968 et Reg a obtenu un emploi d'animateur de radio à Saskatoon; il gagnait 600 $ par mois. En 1975, il suivait des cours à l'université. Eileen a obtenu un emploi de commis aux achats au Conseil scolaire public de Saskatoon; elle est aujourd'hui retraitée. Selon le témoignage de Reg, le salaire de son épouse était d'environ 300 $ par mois en 1970.
+[7] En 1970, Reg et Eileen ont acheté conjointement leur résidence du 1114, croissant Wilson, à Saskatoon. En 1975, Reg a obtenu son diplôme universitaire et a été candidat au poste de député pour le Nouveau parti démocratique (NPD); il a perdu les élections. Après cela, Reg a été embauché par le NPD en tant qu'agent des relations publiques à Regina. Il a déménagé à Regina et faisait des allers et retours entre Regina et Saskatoon. En octobre 1975, Reg a acheté une maison située au 320, rue Royal, à Regina; pour ce faire, il a emprunté le prétendu prix d'achat, soit 42 000 $. À l'automne 1980, Reg a démissionné de son emploi et s'est inscrit à la faculté de droit de l'université de la Saskatchewan.
+[8] À partir du moment où il a acheté la maison du 320, rue Royal, Reg habitait au sous-sol et louait le rez-de-chaussée. En 1980, un avocat a conseillé à Reg que son épouse et lui pourraient avoir des résidences principales distinctes, exonérées d'impôt, si chacun avait une résidence en son nom propre. Le 30 juillet 1980, ils ont transféré la résidence du 1114, croissant Wilson au seul nom d'Eileen et elle en est demeurée l'unique propriétaire jusqu'à ce jour. Eileen n'a rien payé à Reg en contrepartie de ce transfert. Selon les termes de Reg, [TRADUCTION] « c'était simplement notre maison » . D'après son témoignage, Eileen effectuait les paiements hypothécaires du 1114, croissant Wilson à ce moment-là, tandis que les locataires et le loyer du 320, rue Royal, à Regina, étaient sporadiques. Reg effectuait les paiements hypothécaires de la maison de Regina. Il avait un travail bien rémunéré pour Securitex tout en fréquentant la faculté de droit; il gagnait 2 000 $ par mois l'été et 600 $ par mois pendant l'année universitaire. Il a obtenu son diplôme en droit en 1983, et il a fait son stage de 1983 à 1984, à Saskatoon. Il a acheté le cabinet du défunt David Newsham pour la somme de 17 000 $ et il a ensuite exercé à titre individuel à Saskatoon. En décembre 1984, Reg a vendu la maison de Regina pour 42 000 $. Ils soutiennent qu'aujourd'hui, il n'existe aucun document relatif à cette maison.
+[9] D'après le témoignage de Reg, lorsqu'il fréquentait l'université, Eileen payait les factures. Cependant, si on se fie à ses prétendus revenus à l'époque, son salaire était égal à celui d'Eileen, voire supérieur. Mis à part cette époque-là et pendant qu'il était à Regina, ils ont témoigné que, relativement à la répartition et au paiement de leurs dépenses courantes, à partir du moment où ils ont déménagé à Saskatoon et où ils ont acheté la maison en 1970, ils avaient l'accord suivant :
+Reg payait : les paiements hypothécaires de la résidence
+les paiements de la voiture
+Eileen payait : les services publics
+l'assurance de la résidence
+Ils partageaient de façon égale : l'épicerie
+les dépenses de jardinage
+le reste des dépenses du ménage
+[10] Après le témoignage de Reg, l'avocat de l'appelante a cherché à modifier l'avis d'appel en vue d'y inclure l'affirmation selon laquelle Reg était et est toujours le propriétaire bénéficiaire de la moitié de la résidence située au 1114, croissant Wilson. La Cour a accordé un ajournement afin que les deux parties puissent modifier leurs actes de procédure en conséquence et l'audience a repris le 16 juin 2006 à Saskatoon avec les témoignages de Jeffrey Pinder et d'Eileen. L'avis d'appel modifié énonce que Reg est le propriétaire bénéficiaire d'une partie du 1114, croissant Wilson, à Saskatoon. D'après le témoignage de Jeffrey Pinder, Reg, avocat qui exerce en matière immobilière, a fait faillite en 2001, pour la deuxième fois, et il est toujours failli. Jusqu'au début de la présente audience en avril 2006, il n'a fait valoir aucun droit au titre de propriété du 1114, croissant Wilson, malgré son bilan fait sous serment inclus dans la procédure relative à la faillite.
+[11] Reg et Eileen ont rassemblé des dossiers et des tableaux pour servir de preuve et ils ont témoigné relativement aux diverses dépenses du couple. Lors du contre-interrogatoire, Reg a admis que de 1989 à 2000, il n'a pas payé d'impôt sur le revenu, à l'exception des années 1993 à 1995. Les montants d'impôts à payer sont exposés à l'hypothèse 8 c). On a passé en revue la pièce R-1, à l'onglet 7, soit sa déclaration de revenus pour 1997. Son impôt sur le revenu pour l'année 1997 était légèrement inférieur à 40 pour cent de son revenu net, qui a été réduit d'environ 19 000 $ en raison de créances irrécouvrables. Reg a fait faillite pour la première fois en 1991; il a obtenu la libération de cette faillite le 15 août 1994. Son syndic de faillite a sans doute payé toutes les dettes d'impôt sur le revenu de Reg pendant cette période. Reg a fait faillite une deuxième fois en 2001; les dettes de faillite de Reg sont constituées principalement de l'impôt sur le revenu. Sur la foi de sa déclaration de revenus de 1997, pour les neuf années correspondant à 1989, 1990, 1991, 1992, 1996, 1997, 1998, 1999 et 2000, Reg a gagné environ 10/4 x 156 885 $ = 400 000 $, soit un revenu d'environ 40 000 $ par an. Il a déclaré ses revenus selon la méthode de la comptabilité d'exercice, mais en déduisant ses créances irrécouvrables chaque année, cela aurait donné un revenu comptant d'environ 40 000 $ par an. Il s'agit des revenus nets que Reg aurait gagnés, y compris ses impôts impayés, en supposant que les impôts prétendument à payer reflètent bien le montant de ses revenus.
+[12] Reg a mis sous forme de tableaux les dépenses qu'il a dit pouvoir trouver. (Il faudrait remarquer que le calcul selon lequel le revenu net de Reg est de 40 000 $ est aussi valide pour les années de 1996 à 2000, qui sont les années visées par les hypothèses.) L'onglet 41 de la pièce A-1 comprend le calcul des dépenses de Reg pour les années de 1992 à 2001; les chiffres suivants en sont tirés et indiquent la moyenne annuelle pour les années de 1996 à 2001 :
+Dépenses du ménage (y compris les paiements hypothécaires)
+53 365 $
+Immobilisations
+900
+Vacances
+1 850
+Total annuel
+56 115 $
+[13] Eileen a déposé des copies de ses déclarations de revenus pour les années 1983, 1984 et 1985 (pièces A-4, A-5 et A-6). Il convient de remarquer qu'elle n'a déposé aucune copie de ses déclarations de revenus pour les années de 1989 à 2000, ni pour les années postérieures. Les déclarations déposées indiquent ce qui suit en 1985, par exemple :
+Revenus d'emploi
+21 206,00
+Allocations familiales
+719,21
+Intérêts
+501,41
+Total
+22 426,62 $
+Moins
+Cotisations d'assurance-chômage
+496,60 $
+RPC
+348,78
+Cotisations à un régime de pension agréé
+1 168,96
+Impôt sur le revenu retenu à la source
+3 776,99
+Cotisations syndicales
+364,12
+Total partiel
+6 155,45 $
+Moins le remboursement d'impôt réclamé
+- 2 027,51
+Total
+4 127,94 $
+Revenu net après retenues :
+22 426,62
+- 4 127,94
+Net
+18 298,68 $
+[14] Il s'ensuit que, puisque tout ce qu'Eileen a fourni était principalement ce qui est exposé ci-dessus, et parce que Reg a évalué le revenu « brut » d'Eileen à environ 18 000 $ par an, la Cour estime que leur revenu net commun est comme suit :
+Reg 40 000 $
+Eileen 18 000 $
+Environ 58 000 $
+Cela prouve qu'Eileen n'avait pas de revenu suffisant pour payer les montants que Reg et elle ont prétendu, lors de leurs témoignages, qu'elle a payés. Il est important de remarquer que ni Reg ni Eileen n'ont apporté de preuve pour corroborer le montant de leurs revenus de 1989 à 2000.
+[15] Il existe d'autres différences ou écarts dans le témoignage des Parker :
+1. Ils ont transféré la résidence du 1114, croissant Wilson à Eileen le 30 juillet 1980 et ils ont alors déclaré que la maison du 320, rue Royal, à Regina, était la résidence principale de Reg, même s'ils ont commencé à soutenir en avril 2006 (lorsque c'était en leur faveur pour les besoins du présent appel) que Reg avait un droit bénéficiaire dans la résidence du 1114, croissant Wilson en son nom propre.
+2. Malgré l'existence de nombreux documents dont l'origine remonte aux années 1980, il n'y a aucune preuve documentaire déposée par les Parker concernant le transfert de la maison du 320, rue Royal, à Regina.
+3. Dans les documents faits sous serment relatifs à sa faillite en 2001, Reg n'a réclamé aucun droit bénéficiaire ni aucun autre droit dans la résidence du 1114, croissant Wilson; à ce moment-là, il n'était ni dans son intérêt, ni dans celui d'Eileen de le faire.
+4. Eileen a témoigné qu'elle a dépensé de grandes sommes à partir de son revenu pour couvrir les dépenses du ménage et pour payer les divers prêts et dettes de son fils, alors que le montant de son revenu tel qu'il apparaît dans les documents déposés en preuve ne le lui permettait pas.
+[16] Eileen a également témoigné qu'elle utilisait sa carte de crédit Visa, sa carte de crédit Sears et sa ligne de crédit Scotialine pour s'endetter et, si la Cour veut bien la croire, le total de ces dettes fait actuellement partie de sa ligne de crédit Scotialine. Aujourd'hui, elle est à la retraite et elle a un énorme montant de dettes qui s'est accru à cause de ces divers crédits.
+[17] Il s'ensuit que, sur la foi des preuves corroborantes limitées dont la Cour dispose et qui établissent les prétendus chiffres en cause, Eileen et Reg Parker ont apparemment dépensé plus que ce qu'ils ont affirmé lors de leurs témoignages et, ce faisant, ils ont accumulé encore plus de dettes.
+[18] La Cour ne les croit pas lorsqu'ils ont témoigné que Reg était le propriétaire bénéficiaire de la résidence du 1114, rue Wilson pour les raisons suivantes :
+1. L'opération portant sur la maison du 320, rue Royal.
+2. Reg était avocat, mais il n'avait inscrit aucun droit à l'égard du titre de propriété du 1114, croissant Wilson au bureau d'enregistrement des droits immobiliers conformément au régime Torrens de la Saskatchewan.
+3. Reg n'a ni réclamé, ni prétendu avoir un tel droit lors de sa faillite en 2001, ni dans les actes de procédure de la présente affaire jusqu'en avril 2006.
+4. Au cours des années qui ont suivi le transfert de 1980, Eileen a signé les documents hypothécaires confirmant son droit en tant que propriétaire unique de la résidence du 1114, croissant Wilson.
+5. Reg et Eileen n'ont pas fourni à la Cour les preuves qui attestent leurs revenus respectifs durant les années en litige.
+[19] Reg et Eileen ont témoigné qu'ils n'ont pas joint leurs fonds, mais qu'ils ont adopté le système de paiement de leurs dépenses décrit au paragraphe [9]. Toutefois, malgré les documents déposés (dont un grand nombre ont été rédigés par eux ou concernaient des années autres que celles qui sont pertinentes pour le présent appel), le compte chèques et les chèques qui confirment la répartition prétendue des responsabilités financières n'ont pas été déposés en preuve. Des documents confirmant les différentes sommes gagnées par l'appelante ou par Reg et prétendument payées pour couvrir des dépenses particulières n'ont également pas été déposés en preuve.
+[20] Il en résulte qu'il n'y a pas de documents cohérents et vérifiables, ni aucun système méthodique prouvé par l'appelante qui puisse être retracé par la Cour en ce qui a trait aux années en litige. Vu (1) la précédente faillite de Reg, (2) le défaut de paiement de l'impôt sur le revenu, (3) le fait qu'il était ou est avocat, (4) les leçons que le couple aurait dû tirer des événements passés et (5) les prétendues opérations financières entre époux, l'appelante doit justifier son appel grâce à des éléments de preuve documentaires corroborants et sans ambiguïté, ou grâce à des témoignages crédibles corroborants pour tous les points qu'elle allègue. Elle ne l'a pas fait.
+[21] En conséquence de ces différents échecs et de ces divergences, la Cour conclut qu'à la fois Reg et Eileen Parker ne sont pas des témoins crédibles relativement au présent appel.
+[22] Dans l'affaire Ducharme c. Canada, 2005 CAF 137, le juge Rothstein, s'exprimant au nom de tous les autres juges, a déclaré ce qui suit aux paragraphes 3 à 7 :
+[3] Le juge de la CCI a conclu que Mme Ducharme avait donné une contrepartie supérieure au montant qu'elle avait obtenu et il a fait droit à son appel. Je conviens avec le juge qu'il fallait accueillir l'appel interjeté devant la CCI, mais je le fais pour des raisons différentes et il ne faudrait pas considérer que je souscris à la façon dont le juge a abordé la question.
+[4] La quasi-totalité de la somme en litige comprenait cinq ans et demi de paiements hypothécaires d'environ 500 $ par mois. Je présumerai, sans décider, que la totalité des paiements hypothécaires ont été transférés par M. Vienneau à Mme Ducharme, cette présomption étant plus favorable au ministre. Pendant la période en cause, M. Vienneau vivait dans les lieux hypothéqués ou, lorsqu'il était au travail, y avait accès chaque fois qu'il le voulait. Le juge de la CCI a tenu pour avéré qu'à l'époque où les paiements hypothécaires ont été faits, le loyer d'une maison équivalente (et de grandeur moyenne) pour une famille à Fort St. John variait entre 1 200 $ et 1 500 $ par mois (voir le paragraphe 6). Les sommes que M. Vienneau a versées étaient inférieures à la moitié de ce loyer mensuel.
+[5] Il est raisonnable de déduire de ces faits que Mme Ducharme a permis à M. Vienneau de disposer et de se servir de sa maison en contrepartie de ses paiements hypothécaires. Les sommes versées par M. Vienneau étaient assimilables à un loyer. Elles étaient nettement inférieures à ce qui semblait être la juste valeur locative de la maison de Mme Ducharme, et on ne peut dire raisonnablement que le « loyer » que payait M. Vienneau en effectuant des paiements mensuels sur l'hypothèque de Mme Ducharme excédait la juste valeur marchande de la contrepartie donnée par cette dernière à M. Vienneau.
+[6] Considérer les sommes payées par M. Vienneau comme un loyer ne constitue pas une redéfinition de l'effet juridique des transactions. Il s'agit simplement d'une façon d'expliquer que M. Vienneau a reçu une contrepartie égale ou supérieure aux sommes qu'il a transférées à Mme Ducharme.
+[7] Compte tenu de cette conclusion, il n'est pas nécessaire d'examiner les autres arguments de Mme Ducharme, qui sont fondés sur l'évaluation des services ou des « obligations domestiques » des conjoints.
+[23] La Cour rejette l'affirmation de l'appelante selon laquelle Reg Parker avait un droit dans la résidence du 1114, croissant Wilson. En outre, l'appelante n'a pas apporté la preuve de valeurs locatives comparables à celle du 1114, croissant Wilson, comme ce fut le cas dans la décision Ducharme. L'appelante n'a pas non plus apporté la preuve de ses revenus, ni de ceux de Reg Parker pendant les années de 1996 à 2000 inclusivement. En réalité, la preuve touchant les autres années concernant Eileen, et le manque de preuve à la fois pour les revenus nets d'Eileen, ainsi que pour ceux de Reg, pendant les années de 1996 à 2000 inclusivement, révèlent l'échec du couple à prouver ses allégations. Les extrapolations de la Cour contenues dans le présent jugement n'ont pas de fondement probant direct pour les années en litige, en ce qui a trait au salaire net de chaque année. Le fardeau de la preuve reposait sur l'appelante, qui devait apporter une telle preuve directe à la Cour.
+[24] En raison de ces conclusions, la preuve révèle qu'Eileen a payé des sommes et s'est endettée au bénéfice de Reg, de telle sorte qu'elle a donné une contrepartie à Reg. Cependant, Reg a payé au moins le double de ce qu'Eileen a payé, dans la mesure où l'on peut extrapoler des chiffres à partir de la preuve. Cette preuve n'a pas été corroborée, et n'était même pas spécifique aux années en litige.
+[25] La Cour conclut que les paiements hypothécaires, les paiements de la carte de crédit Visa ou les versements en espèces en litige constituent des biens que Reg a transféré à Eileen qui excèdent ce qu'Eileen a pu transférer à Reg. Ce transfert est supérieur à la juste valeur marchande de la contrepartie donnée par Eileen à Reg. En outre, ces transferts étaient faits par Reg au bénéfice d'Eileen à un moment où Reg avait une dette fiscale en souffrance relative à l'année ou aux années précédentes.
+[26] L'appel est rejeté. Les dépens taxables afférents au présent appel sont adjugés à l'intimée.
+Signé à Kelowna (Colombie-Britannique), ce 10e jour de juillet 2006.
+« D. W. Beaubier »
+Le juge Beaubier
+Traduction certifiée conforme
+ce 16e jour d'août 2006.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2006CCI387
+NUMÉRO DU DOSSIER DE LA COUR : 2003-421(IT)G
+INTITULÉ DE LA CAUSE : EILEEN PARKER ET SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Saskatoon (Saskatchewan)
+DATE DE L'AUDIENCE : le 26 avril 2006 et le 16 juin 2006
+MOTIFS DU JUGEMENT PAR : l'honorable juge D. W. Beaubier
+DATE DU JUGEMENT : le 10 juillet 2006
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Kurt G. Wintermute
+Avocat de l'intimée :
+Me Lyle Bouvier
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom : Me Kurt G. Wintermute
+Étude : MacPherson, Leslie & Tyerman LLP
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

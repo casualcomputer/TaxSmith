@@ -1,0 +1,131 @@
+Title: Brereton v. The King
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521246/index.do
+Corpus path: corpus/cases/tcc/2024/2024-tcc-41-521246-brereton-v-the-king-en.md
+Document type: case_law
+Last modified: 2024-04-09
+
+# Brereton v. The King
+
+- Citation: 2024 TCC 41
+- Decision date: 2024-04-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5748, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Brereton v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2024-04-09
+Neutral citation
+2024 TCC 41
+File numbers
+2013-2415(IT)I
+Judges and Taxing Officers
+Martin Lambert
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-2415(IT)I
+BETWEEN:
+JONATHAN A. BRERETON,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on February 15, 2024 at Victoria, British Columbia
+Before: The Honourable Justice Martin Lambert, Deputy Judge
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Nadine Taylor Pickering
+JUDGMENT
+IN ACCORDANCE with the attached Reasons for Judgment, the appeal with respect to assessments made under the Income Tax Act for the Appellant’s 2006, 2007, 2008 and 2009 taxation years is dismissed.
+No costs shall be awarded.
+Signed at Timmins, Ontario, this 9th day of April 2024.
+“Martin Lambert”
+Lambert D.J.
+Citation: 2024 TCC 41
+Date: 20240409
+Docket: 2013-2415(IT)I
+BETWEEN:
+JONATHAN A. BRERETON,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+[1] This is an appeal by the Appellant of assessments for his 2006, 2007, 2008 and 2009 tax returns. The Canada Revenue Agency has assessed the Appellant’s unreported income of $33,646 for 2006, $34,840 for 2007, $27,343 for 2008 and $27,452 for 2009. The Appellant filed a Notice of Objection on November 10th, 2011 and the Minister confirmed the assessments on March 25th, 2013.
+[2] In his Notice of Appeal filed on June 24th, 2013, the Appellant took the following position:
+a)that, at all relevant times, he was a foster parent;
+b)he was an individual and not a trust;
+c)in caring for the children, he received from the province of British Columbia social assistance payments on the basis of a means, needs or income test;
+d)the payments were received indirectly by him for the benefit of the children in the care of the province of British Columbia;
+e)he was not related to the children;
+f)he received no family allowance or similar payment on behalf of the children;
+g)he maintained a separate principal residence for his own personal use, but his principal residence was the home where the children resided;
+h)the payments were made to him by the province for the direct benefit of the children;
+i)the province of British Columbia had represented to him and others like him that the payments were exempt from tax so that he held a reasonable belief that that was the case;
+j)on the basis of the foregoing, he concluded that he was not required to keep books or records of his expenditures for and on behalf of the children.
+[3] At the hearing of this appeal, the Appellant argued that he could rely on subsection 81(1)(h) of the Income Tax Act which exempts tax on certain payments made to foster parents, but that, if he could not, he was relying on the doctrine of estoppel because of the representations made to him by the province of British Columbia.
+[4] An important issue here is that the Appellant did not attempt to rebut any of the assumptions made by the Minister as he did not wish to testify despite my strong suggestion that he do so, and he filed no documentary evidence to support his appeal.
+[5] He called his brother David Brereton as a witness. He was a foster parent for a number of years starting in 2002, being paid a monthly amount by the province of British Columbia to have at-risk children live in his residence, and he was responsible for them 24 hours a day, seven days a week. He was a foster parent in the true sense of the term. This is a much different situation in which the Appellant found himself, so his brother’s evidence is simply not helpful to his case.
+[6] With respect to the Appellant, I must rely on the assumptions of fact made by the Minister in making findings of fact as the Appellant did not attempt to rebut them in any way, shape or form.
+[7] During the relevant period of time, the Appellant was providing caregiving services to at-risk children, but as a subcontractor in one or more homes rented by Mr. John Cole. Mr. Cole had contracted with the province of British Columbia to provide housing and care for at-risk children who could not be placed in traditional foster care. Mr. Cole never lived in any of those homes; he was essentially running a business and running these homes for profit. In that capacity, Mr. Cole used a pool of seven or eight subcontractors, of which the Appellant was one, to provide caregiver services to the at-risk children. The subcontractors worked a maximum of two 12-hour shifts per week for which they were paid $250 to $300. Mr. Cole paid for the subcontractors’ food and other miscellaneous expenses while on duty, and he provided resting quarters for the staff. Importantly, the Appellant never resided in any of the homes, nor did any of the at risk children ever reside in his residence which, during the relevant period of time, was 2557 Forbes St., Victoria, British Columbia.
+[8] The payments made by Mr. Cole to the Appellant were not social assistance payments made on the basis of a means, needs or income test, nor did the Appellant receive any social assistance payments for the care of the children directly from the ministry. In his capacity as a caregiver, the Appellant did not incur any expenses relating to his work as a subcontractor.
+[9] The relevant section from the Income Tax Act is subsection 81(1)(h) which provides as follows:
+(h) where the taxpayer is an individual (other than a trust), a social assistance payment (other than a prescribed payment) ordinarily made on the basis of a means, needs or income test under a program provided for by an Act of Parliament, a law of a province or a law of an Indigenous governing body (as defined in section 2 of the Children’s Special Allowances Act), to the extent that it is received directly or indirectly by the taxpayer for the benefit of another individual (other than the taxpayer’s spouse or common-law partner or a person who is related to the taxpayer or to the taxpayer’s spouse or common-law partner), if
+(i) no family allowance under the Family Allowances Act or any similar allowance under a law of a province that provides for payment of an allowance similar to the family allowance provided under that Act is payable in respect of the other individual for the period in respect of which the social assistance payment is made, and
+(ii) the other individual resides in the taxpayer’s principal place of residence, or the taxpayer’s principal place of residence is maintained for use as the residence of that other individual, throughout the period referred to in subparagraph 81(1)(h)(i);
+[10] For subsection 81(1)(h) to apply to the case at bar, I would have to find the following:
+a)that the payments made to the Appellant were social assistance payments made to him, directly or indirectly, for the benefit of the at-risk children based on a means, needs and income test;
+b)that the at-risk youth were not related to him;
+c)that no other family allowance under any other programme was paid for the benefit of the at-risk children; and
+d) the children resided in the Appellant’s principal residence.
+[11] Clearly, the Appellant fails on the first and fourth prongs of the test. There is absolutely no evidence that payments were made based on a means, needs and income test. In fact, the Appellant was being paid a daily rate to work for Mr. Cole. The evidence is also uncontradicted that none of the children resided in his principal residence. While the Appellant submits in his Notice of Appeal that he had two principal residences, there is no evidence of that.
+[12] The Appellant relies on the doctrine of estoppel suggesting that the Minister should be estopped from declaring this income to be subject to tax as it had been represented to him by someone representing the province of British Columbia that this income would be exempt from tax. In his Notice of Appeal, he indicates that he did not keep books or a record of expenses incurred for the children, given the representation made to him by the province. His position is that the Crown is the Crown, whether federal or provincial, so that the doctrine of estoppel applies even though the representation was made by another level of government.
+[13] First of all, there is absolutely no evidence, oral or documentary, that the Appellant incurred any expenses while being employed as a subcontractor for Mr. Cole.
+[14] Secondly, the doctrine of estoppel simply has no application in this context. In Gallant v The Queen, 2012 TCC 119, Justice Woods had this to say on the issue of estoppel, starting at paragraph 14:
+[14] In this case, the representative of the appellant suggests that the equitable grounds of estoppel should be applied on the basis that there has been a misrepresentation of fact.
+[15] It is clear that estoppel cannot bind the Crown in respect of the law: Goldstein v The Queen, 96 DTC 1029 (TCC). However, principles of estoppel can be applied in respect of misrepresentations of fact: Rogers v The Queen, 98 DTC 1365 (TCC).
+[16] The argument in support of the application of estoppel in this case is that the CRA wrongly represented to the appellant that it would administer section 118.61 in accordance with the form. As far as I am aware, the form has never been changed.
+[17] The difficulty that I have with giving relief is the overriding principle that estoppel cannot be invoked to preclude the exercise of a statutory duty. The principle was described by Chevalier D.J. in Ludmer v The Queen, 1994 CanLII 19486 (FCA), 95 DTC 5311 (FCA), at p. 5314:
+In Canada v. Lidder, 1992 CanLII 14712 (FCA), [1992] 2 F.C. 621, Marceau, J.A. wrote (at 625):
+The doctrine of estoppel cannot be invoked to preclude the exercise of a statutory duty -- here, the duty of the officer to deal with the application as it was presented -- or to confer a statutorily defined status on a person who clearly does not fall within the statutory definition. Indeed, common sense would dictate that one cannot fail to apply the law due to the misstatement, the negligence or the simple misrepresentation of a government worker.
+It was suggested in the course of the argument that, if the doctrine of estoppel could not apply, maybe the related doctrine of 'reasonable or legitimate expectation' could. The suggestion was to no avail because this doctrine suffers from the same limitation that restricts the doctrine of estoppel. A public authority may be bound by its undertakings as to the procedure it will follow, but in no case can it place itself in conflict with its duty and forego the requirements of the law. As was repeated by Sopinka, J. recently in writing the judgment of the Supreme Court in Reference Re Canada Assistance Plan (B.C.), 2 S.C.R. 525, at pages 557-558:
+There is no support in Canadian or English cases for the position that the doctrine of legitimate expectations can create substantive rights. It is a part of the rules of procedural fairness which can govern administrative bodies. Where it is applicable, it can create a right to make representations or to be consulted. It does not fetter the decision following the representations or consultation.
+[15] In light of the above, it is obvious that the Minister cannot be compelled to declare that income that is clearly not exempt from tax be so exempt based on a misrepresentation made by someone from another level of government. In fact, the same reasoning would apply if the misrepresentation had been made by someone from the federal government. As Justice Sopinka indicates in Reference Re Canada Assistance Plan (B.C.), [1991] 2 S.C.R. 525, the doctrine of legitimate expectations cannot create substantive rights. The Appellant may have had expectations that the income earned would be exempt from tax, but that is of no moment. The issue is whether the Appellant meets the test in subsection 81(1)(h), and I have already held that he does not.
+[16] The appeal with respect to assessments made under the Income Tax Act for the Appellant’s 2006, 2007, 2008 and 2009 taxation years is therefore dismissed.
+[17] No costs shall be awarded.
+Signed at Timmins, Ontario, this 9th day of April 2024.
+“Martin Lambert”
+Lambert D.J.
+CITATION:
+2024 TCC 41
+COURT FILE NO.:
+2013-2415(IT)I
+STYLE OF CAUSE:
+JONATHAN A. BRERETON v. HIS MAJESTY THE KING
+PLACE OF HEARING:
+Victoria, British Columbia
+DATE OF HEARING:
+February 15, 2024
+REASONS FOR JUDGMENT BY:
+Lambert D.J.
+DATE OF JUDGMENT:
+April 9, 2024
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Nadine Taylor Pickering
+COUNSEL OF RECORD:
+For the Appellant:
+For the Respondent:
+No counsel of record
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada

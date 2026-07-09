@@ -1,0 +1,739 @@
+---
+title: "Samaroo c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/214331/index.do"
+last_modified: "2016-12-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 CCI 290"
+citation2: ""
+neutral_citation: "2016 CCI 290"
+decision_date: "2016-12-19"
+language: "fr"
+item_id: "214331"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2956
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:45:55.158000+00:00"
+cases_cited_count: 15
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "43429453faa5453db3fe1f11a9d975f6dd929ed8ed8514d770e1e0332da9b454"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Samaroo c. La Reine
+
+- Citation: 2016 CCI 290
+- Decision date: 2016-12-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2956, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Samaroo c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-12-19
+Référence neutre
+2016 CCI 290
+Numéro de dossier
+2012-2998(IT)G
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-2998(IT)G
+ENTRE :
+TONY SAMAROO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+Dossier : 2012-3001(IT)G
+ET ENTRE :
+HELEN SAMAROO,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+Dossier : 2012-2997(GST)G
+ET ENTRE :
+TONY SAMAROO et HELEN SAMAROO,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+Dossiers : 2012-3147(GST)G
+2012-3148(IT)G
+ET ENTRE :
+SAMAROO HOLDINGS LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+Dossiers : 2012-3149(GST)G
+2012-3150(IT)G
+ET ENTRE :
+MGM RESTAURANTS LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête préliminaire en voir-dire inscrite pour audition le 9 septembre 2016, à Vancouver (Colombie-Britannique)
+Devant : L’honorable juge Randall S. Bocock
+Comparutions :
+Avocats des appelants :
+Me Gavin Laird
+Me Declan Redman
+Avocats de l’intimée :
+Me David Everett
+Me Elizabeth McDonald
+ORDONNANCE
+CONFORMÉMENT aux motifs de l’ordonnance et aux annexes qui y sont jointes;
+LA COUR ORDONNE :
+la requête préliminaire en voir-dire des appelants est rejetée;
+la demande voulant que les constatations de fait établies dans l’instance criminelle R. v. Samaroo, 2011 BCPC 0503 (« la décision Samaroo no 1 ») s’appliquent aux appels en vertu de la doctrine de la préclusion découlant d’une question déjà tranchée ou de la doctrine de l’abus de procédure est rejetée et, en conséquence, rien n’empêchera les parties de produire à l’audition des appels des éléments de preuve supplémentaires qui mettront en doute, réfuteront ou renforceront ces constatations de fait;
+indépendamment du rejet de la requête proprement dite, les constatations de fait établies dans la décision Samaroo no 1 et exposées à l’annexe I (les « constatations de fait ») jointe aux motifs de l’ordonnance sont par la présente admises en tant que preuves des appelants aux fins des appels;
+elle a déterminé que certaines des constatations de fait mettent en doute ou démolissent potentiellement les hypothèses de fait du Ministre que contiennent les réponses de l’intimée et, plus précisément, au sujet des appelants et des années d’imposition qui sont décrits et précisés à l’annexe II jointe aux motifs de l’ordonnance;
+en conséquence, conformément au paragraphe 135(2) des Règles de la Cour canadienne de l’impôt (procédure générale), la Cour modifie l’ordre dans lequel seront présentés les éléments de preuve et les arguments pendant le reste de l’audition des appels, comme suit :
+pour ce qui est des éléments de preuve et des témoins :
+a) l’intimée;
+b) les appelants;
+c) l’intimée à l’égard d’une contre-preuve;
+pour ce qui est des arguments :
+a) l’intimée;
+b) les appelants;
+c) l’intimée en réponse, suivie des appelants, mais uniquement pour répondre à un nouveau point de droit soulevé dans la réponse;
+aucune ordonnance ne sera rendue à l’égard des dépens liés à la requête, mais la question de ces derniers est reportée jusqu’à l’issue de la cause.
+Signé à Ottawa, Canada, ce 20e jour de décembre 2016.
+« R.S. Bocock »
+Le juge Bocock
+Traduction certifiée conforme
+ce 4e jour de mai 2018.
+Mario Lagacé, jurilinguiste
+Référence : 2016 CCI 290
+Date : 20161219
+Dossier : 2012-2998(IT)G
+ENTRE :
+TONY SAMAROO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+Dossier : 2012-3001(IT)G
+ET ENTRE :
+HELEN SAMAROO,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+Dossier : 2012-2997(GST)G
+ET ENTRE :
+TONY SAMAROO et HELEN SAMAROO,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+Dossiers : 2012-3147(GST)G
+2012-3148(IT)G
+ET ENTRE :
+SAMAROO HOLDINGS LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+Dossiers : 2012-3149(GST)G
+2012-3150(IT)G
+ET ENTRE :
+MGM RESTAURANTS LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE DE VOIR-DIRE
+Le juge Bocock
+I. Introduction
+a) La nature de la requête
+[1] Les appelants ont déposé la présente requête préliminaire au début du procès, et il a été prévu de l’entendre quelques mois avant la reprise du procès et la première production d’éléments de preuve. Il s’agit d’une requête en voir-dire. Par définition, celle-ci a trait à l’admissibilité ou à l’exclusion d’éléments de preuve. Dans les présents appels, la décision concernant ces éléments de preuve aura vraisemblablement une incidence sur leur longueur, leur quantité et leur ordre et, peut-être, sur l’issue des appels. Les éléments de preuve à exclure émanent de constatations de fait qui ont été établies dans un procès criminel pour fraude fiscale antérieur et concernant certains des appelants dont il est question ici. Cette instance antérieure a été instruite devant la Cour provinciale de la Colombie-Britannique : R. v. Samaroo, 2011 BCPC 503 (« décision Samaroo no 1 »). De plus, la Cour suprême de la Colombie-Britannique a rendu plus tard une ordonnance concernant une instance civile ultérieure intentée pour poursuite abusive et mettant en cause certains des appelants : Samaroo v. Canada Revenue Agency, 2016 BCSC 531 (« décision Samaroo no 2 »).
+b) L’exclusion d’éléments de preuve supplémentaires
+[2] Les appelants sollicitent une ordonnance empêchant toute partie à l’audition des présents appels concernant les (nouvelles) cotisations (les « appels en matière d’impôt ») de produire des éléments de preuve supplémentaires visant à contester les constatations de fait qu’a établies la juge de la Cour provinciale dans la décision Samaroo no 1, lesquelles constatations de fait ont été aussi mentionnées et utilisées par un juge de la Cour suprême de la Colombie-Britannique dans la décision Samaroo no 2. Les fondements juridiques de la demande d’ordonnance d’exclusion sont la préclusion découlant d’une question déjà tranchée ou l’abus de procédure.
+[3] Bien que la préclusion découlant d’une question déjà tranchée et l’abus de procédure soient des doctrines que la Cour canadienne de l’impôt a appliquées dans des situations de fait comportant des verdicts de culpabilité pour fraude fiscale, on ne peut pas dire la même chose, sur le plan jurisprudentiel, dans le cas d’un acquittement. La décision Samaroo no 1 s’est soldée par ce verdict : un acquittement. La question générale qui se pose consiste à savoir si la Cour devrait appliquer la doctrine de la préclusion découlant d’une question déjà tranchée ou la doctrine de l’abus de procédure à l’égard de constatations de fait découlant d’un acquittement afin d’exclure entièrement des éléments de preuve supplémentaires qui contredisent ou contestent ces constatations. Et, indépendamment de l’application en bloc de ces deux doctrines, quel est l’effet supplémentaire des constatations de fait sur les appels en matière d’impôt, c’est-à-dire : (i) dans quelle mesure, (ii) sur quels appels, et (iii) par quelle méthode une telle ordonnance d’exclusion devrait-elle s’appliquer?
+II. Les questions tranchées dans les autres instances
+[4] D’entrée de jeu, les avocats des parties ont des opinions divergentes sur les questions relatives aux appels en matière d’impôt qui ont été déterminées, établies ou réglées par les constatations de fait dans la décision Samaroo no 1 et la décision Samaroo no 2.
+a) Selon les appelants
+[5] S’inspirant dans une large mesure des motifs écrits d’acquittement de la juge de la Cour provinciale dans la décision Samaroo no 1, les appelants qualifient les constatations de la juge de manifestes, de déterminantes et d’une importance cruciale pour ce qui est des hypothèses de fait de l’intimée qui figurent dans les réponses aux appels en matière d’impôt. Un passage extrait des observations écrites des appelants est présenté ci-après parce que celles-ci font état de manière succincte des constatations de fait pertinentes qui ont été établies dans la décision Samaroo no 1 ainsi que de l’utilisation qui en a été faite par la suite dans la décision Samaroo no 2.
+Extrait des documents liés à la requête des appelants :
+[traduction]
+6. Le procès criminel qui a eu lieu dans la décision Samaroo no 1 a eu un long historique procédural, dont des modifications de la dénonciation, des précisions et des précisions modifiées avant le début du procès.
+7. Le procès a été long :
+Le procès a duré 19 jours, une période qui a presque entièrement servi à présenter la preuve du ministère public, et a été truffé de demandes de décisions de la part des deux parties. Le ministère public a appelé 24 témoins et déposé des affidavits. Il y avait 51 pièces du ministère public, dont la plupart étaient de gros relieurs contenant des centaines de documents de travail, et caractérisés parfois par une certaine confusion parce que les numéros des pièces du ministère public ne correspondaient pas aux documents de la défense, déposés en tant que pièces, auxquels il n’était pas fait référence.
+8. La juge Saunders (la juge de la Cour provinciale qui a entendu et tranché l’affaire) a acquitté les accusés à l’égard de la question de savoir s’il y avait des revenus non déclarés et si des fonds tirés de ces revenus non déclarés avaient été détournés [décision Samaroo no 1].
+9. La juge Saunders a également fait des constations « favorables » aux accusés. Par exemple, elle a conclu :
+[61] […] il est important de souligner que je considère que Tony Samaroo est digne de foi. Il s’est comporté d’une manière impressionnante. Ses explications concordent avec des aspects importants et pertinents de la preuve et sont vraisemblables, pour les raisons qui suivent.
+[62] De façon générale, je souscris à son témoignage selon lequel il a commencé à travailler dur et à faire des économies quand il est arrivé au Canada en 1970. J’admets qu’il avait un bon sens des affaires dans le secteur de l’alimentation et du divertissement et qu’il a acheté des entreprises et les a vendues à profit. J’admets aussi qu’il a continué d’effectuer de longues heures de travail avec Helen après leur mariage et que les deux ont accumulé des économies à partir de fonds provenant de leur travail et d’héritages qu’ils ont conservés sous forme d’espèces à cause de ce qu’ils pensaient des pratiques bancaires.
+[63] Plus précisément, pour ce qui est des différents aspects de la théorie du ministère public qui sont détaillés ci-après, Tony Samaroo a parlé à Ed Heese du dépôt de vieux billets de 100 $ dans son compte d’entreprise bien avant que le vérificateur, Glen Foster, se présente chez MGM en mars 2006. Ed Heese le confirme. C’est aussi ce que Tony Samaroo a déclaré à Glen Foster, mais celui-ci a décidé de ne pas le croire.
+10. La juge Saunders a établi des constatations de fait explicites [concernant] la théorie du ministère public selon laquelle il y avait eu des revenus non déclarés et un détournement d’argent non déclaré […] en se fondant sur quatre hypothèses formulées par l’Agence du revenu du Canada (« ARC ») :
+[59] La théorie du ministère public, à savoir que les Samaroo ont détourné de l’argent non déclaré et sous-estimé leur revenu et celui de MGM et de Samaroo Holdings en violation de la Loi de l’impôt sur le revenu et de la Loi sur la taxe d’accise, repose sur quatre hypothèses : a) les traces documentaires que Keith Kendal a suivies indiquent qu’une somme de près d’un million de dollars a été déposée dans les comptes personnels des Samaroo et les comptes de prêt d’actionnaire de MGM et de Samaroo Holdings pour les années d’imposition 2004, 2005 et 2006; b) Tony Samaroo a subtilisé de l’argent non déclaré provenant d’un ruban de tiroir-caisse ou d’un quart de travail par jour de MGM et de la boîte de nuit dans une moindre mesure, et a déposé l’argent dans son compte ainsi que dans le compte de prêt d’actionnaire à son profit et au profit de Helen; c) Tony et Helen Samaroo se sont servis de l’argent non déclaré pour payer des tiers fournisseurs, de l’alcool et des salaires; d) l’analyse de la valeur nette indique qu’ils n’auraient pas été en mesure d’économiser une somme de près d’un million de dollars entre les années 1980 et 2003.
+11. La juge Saunders a ensuite établi des constatations de fait expresses selon lesquelles chacune des quatre hypothèses de l’ARC était expliquée ou non valide :
+a) le témoignage de Tony Samaroo a été accepté pour ce qui était des dépôts en argent;
+b) la théorie du ministère public selon laquelle Tony Samaroo subtilisait de l’argent non déclaré provenant d’un ruban de tiroir-caisse par jour était viciée à d’importants égards;
+c) Tony et Helen Samaroo ne s’étaient pas servis d’argent non déclaré pour payer des fournisseurs, de l’alcool ou des salaires, comme il était allégué;
+d) l’analyse de la valeur nette de l’ARC était inexacte.
+12. Le ministère public n’a pas soulevé de motif de cotisation subsidiaire dans les présentes affaires, en vertu du paragraphe 152(9), ni cherché à le faire.
+13. Dans la décision Samaroo v. Canada Revenue Agency, 2016 BCSC 531, [« décision Samaroo no 2 »], le juge Punnet, de la Cour suprême de la Colombie‑Britannique, a conclu que les éléments constitutifs de la préclusion découlant d’une question déjà tranchée étaient présents, relativement à la décision Samaroo no 1 et à la décision Samaroo no 2.
+14. En particulier, le juge Punnet a décrété que l’arrêt Mahalingan de la Cour suprême du Canada s’appliquait, de sorte que les constatations de fait établies dans la décision Samaroo no 1 s’appliquaient à la décision Samaroo no 2, même si un acquittement avait été prononcé dans la décision Samaroo no 1 : [TRADUCTION] « […] le fait que la conclusion découle d’une déclaration de culpabilité ou d’un acquittement importe peu. C’est la détermination de la question en litige qui est pertinente ».
+15. De plus, dans la décision Samaroo no 2, le juge Punnet a également décrété, à titre subsidiaire, que l’Agence du revenu du Canada commettrait un abus de procédure si elle tentait de remettre en cause les constatations de fait et les questions traitées dans la décision Samaroo no 1.
+b) Selon l’intimée
+[6] L’intimée ne conteste pas la teneur des constatations de fait que soumettent les appelants, mais elle affirme que l’on ne peut dissocier les questions tranchées de la norme et du fardeau de preuve différents qui s’appliquent dans une instance de nature criminelle : (i) la culpabilité doit être prouvée au-delà du seuil du doute raisonnable, et (ii) il incombe au ministère public de prouver cette culpabilité. Par conséquent, compte tenu de ce contexte litigieux différent, les deux conclusions contextuelles qui découlent des constatations de fait se limitent aux aspects suivants :
+a) le témoignage de Tony Samaroo, le seul témoin de l’accusée, a été digne de foi à l’égard de certaines questions, notamment : l’absence de revenus non déclarés, les sources non imposables d’argent et la non-appropriation frauduleuse de biens de la société;
+b) la méthode employée par le ministère public pour calculer les revenus non déclarés, son calcul de l’état de la valeur nette et le fait de ne pas tenir compte de la déduction pour amortissement étaient viciés.
+[7] L’intimée affirme de plus que, dans la première constatation de fait énoncée au point a) qui précède, la juge Saunders a indiqué que la crédibilité de M. Samaroo découlait du caractère vraisemblable de son témoignage. Comme la juge a accepté le témoignage de l’accusé, un doute raisonnable de culpabilité a été établi et un acquittement a été prononcé. Il s’agit là du premier des trois volets obligatoires qui se rapportent à l’évaluation d’éléments de preuve liés au doute raisonnable [1] .
+[8] Pour ce qui est de la seconde constatation de fait énoncée au point b) qui précède, le ministère public n’a pas prouvé l’exactitude de l’analyse de la valeur nette hors de tout doute raisonnable. Pour le faire légalement, le ministère public doit établir l’une des deux choses suivantes : dévoiler par l’analyse de la valeur nette la source probable des présumés revenus non déclarés, ou réfuter la totalité des autres sources de revenu non imposables. Il ne l’a pas fait. La juge a conclu que le calcul n’avait pas ce degré d’exactitude et qu’il était [traduction] « sans valeur » pour ce qui était de s’acquitter du fardeau qu’avait le ministère public d’établir la norme de preuve en matière criminelle. En bref, l’intimée affirme que la conclusion a été un acquittement parce que le ministère public, qui supportait le fardeau de preuve, a omis de s’acquitter de cette obligation de prouver hors de tout doute raisonnable que les appelants avaient éludé l’impôt d’une manière contraire aux dispositions en matière d’infraction criminelle de la Loi de l’impôt sur le revenu (la « Loi ») [2] . Dans cette instance criminelle, la partie, c’est-à-dire le ministère public, qui supportait le fardeau de la preuve en fonction d’une norme de preuve renforcée, était essentielle pour l’issue de l’affaire. Ces deux éléments sont différents dans les présents appels en matière d’impôt, du moins dans la mesure de l’exactitude de la cotisation.
+III. Le fondement juridique de l’exclusion d’éléments de preuve
+[9] Les appelants demandent que l’on exclue d’autres éléments de preuve contraires aux constatations de fait, et ce, pour cause de préclusion découlant d’une question déjà tranchée (la « préclusion ») ou d’abus de procédure.
+i. Les conditions d’application de la préclusion
+[10] Il est convenu que les trois éléments constitutifs de la préclusion sont :
+a. la même question [a] été décidée [la « symétrie des questions en litige »];
+b. la décision judiciaire invoquée comme créant la [préclusion est] finale [l’« irrévocabilité »];
+c. les parties dans la décision judiciaire invoquée, ou leurs ayants droit, [sont] les mêmes que les parties engagées dans l’affaire où la [préclusion] est soulevée, ou leurs ayants droit [l’« identité des parties »] [3] .
+[11] En l’espèce, les conditions de l’irrévocabilité et de l’identité des parties existent à l’égard de la décision Samaroo no 1. Le seul élément en suspens est celui de la symétrie des questions en litige : la question ou la détermination est-elle la même entre l’instance criminelle que constitue la décision Samaroo no 1 et les présents appels en matière d’impôt?
+[12] Par ailleurs, la préclusion est une réparation de nature discrétionnaire. Dans l’arrêt Danyluk, la Cour suprême du Canada (« CSC ») a examiné l’application de la préclusion découlant d’une décision d’un tribunal administratif à une instance civile. Dans cet arrêt, le juge Binnie a décrété qu’en ce qui concerne l’application de la doctrine de la préclusion la première étape, pour les tribunaux, consiste à déterminer si les conditions préalables à l’application de la doctrine ont été remplies. Dans l’affirmative, les tribunaux doivent encore déterminer, dans l’exercice de leur pouvoir discrétionnaire, s’il y a lieu d’appliquer la préclusion [4] .
+[13] Dans l’exercice de ce pouvoir discrétionnaire résiduel, les tribunaux doivent s’assurer que le pouvoir s’applique aux circonstances uniques et particulières de l’affaire dont ils sont saisis. Dans l’arrêt Danyluk, au paragraphe 63, le juge Binnie a cité en y souscrivant les commentaires suivants de la Cour d’appel de l’Ontario, dans l’arrêt Schweneke [5] :
+[traduction] Le pouvoir discrétionnaire de refuser de donner effet à la préclusion découlant d’une question déjà tranchée ne naît que lorsque les trois conditions d’application de la doctrine sont réunies. […] Ce pouvoir discrétionnaire est nécessairement exercé au cas par cas et son application dépend de l’ensemble des circonstances. Dans l’exercice de ce pouvoir discrétionnaire, la cour doit se poser la question suivante : existe-t-il, en l’espèce, une circonstance qui ferait en sorte que l’application normale de la doctrine créerait une injustice?
+[…]
+[…] L’exercice du pouvoir discrétionnaire doit tenir compte des réalités propres à chaque affaire et non de préoccupations abstraites, qui sont présentes dans pratiquement tous les cas où la décision invoquée au soutien de la demande d’application a été rendue par un tribunal administratif et non par un tribunal judiciaire. [Non souligné dans l’original.]
+[14] Plus précisément, dans le cadre de cette analyse, l’équité doit être examinée sous deux angles. Premièrement, les tribunaux doivent prendre en considération l’équité de l’instance antérieure. Deuxièmement, ils doivent examiner s’il est équitable d’utiliser les résultats obtenus dans l’instance équitable antérieure pour refuser de trancher les questions qui sont en litige dans l’instance ultérieure.
+ii. Les conditions d’application de l’abus de procédure
+[15] Deux des trois éléments de la doctrine de l’abus de procédure sont les mêmes que ceux que requiert la préclusion. Cependant, il n’est pas nécessaire que la condition de l’identité des parties existe pour que l’abus de procédure s’applique, et sa raison d’être et son objet sont différents : il ne faudrait pas que les multiples procédures des tribunaux compromettent l’intégrité du système judiciaire en donnant à une partie la possibilité de remettre en cause la même question une seconde fois si cela menait à une utilisation abusive des procédures des tribunaux et déconsidérerait l’administration de la justice [6] .
+[16] Dans l’arrêt Toronto (Ville), la CSC a statué que les facteurs discrétionnaires qui ont pour but d’empêcher que la doctrine de la préclusion s’applique d’une manière inéquitable sont également disponibles pour empêcher que la doctrine de l’abus de procédure mène à un résultat indésirable analogue [7] . C’est donc dire que les tribunaux ont aussi le pouvoir discrétionnaire résiduel d’appliquer la doctrine de l’abus de procédure dans les cas où les conditions préalables à son application sont remplies.
+[17] D’après la CSC, la doctrine de la préclusion et celle de l’abus de procédure ont pour objectif commun d’assurer un traitement équitable dans le cadre du processus décisionnel judiciaire :
+Il existe de nombreuses circonstances où l’interdiction de la remise en cause, qu’elle découle de l’autorité de la chose jugée ou de la doctrine de l’abus de procédure, serait source d’iniquité. Par exemple, lorsque les enjeux de l’instance initiale ne sont pas assez importants pour susciter une réaction vigoureuse et complète alors que ceux de l’instance subséquente sont considérables, l’équité commande de conclure que l’autorisation de poursuivre la deuxième instance servirait davantage l’administration de la justice que le maintien à tout prix du principe de l’irrévocabilité [8] .
+[Non souligné dans l’original.]
+[18] La Cour canadienne de l’impôt reconnaît que les tribunaux jouissent d’un pouvoir discrétionnaire résiduel à l’égard la doctrine de l’abus de procédure. Dans la décision Golden, le juge Boyle a conclu que, à l’instar de la préclusion découlant d’une question déjà tranchée, « [l]’abus de procédure est également une doctrine que le tribunal ne doit appliquer qu’en exerçant son pouvoir discrétionnaire et en soupesant les intérêts en cause en vue de trancher une question liée à l’équité […] [9] ».
+[19] Il est toutefois important de ne pas surestimer l’importance de l’équité en tant qu’élément à prendre en considération lorsqu’on exerce le pouvoir discrétionnaire résiduel dans le cadre de l’application de la doctrine de l’abus de procédure. L’objectif fondamental de cette dernière est de préserver l’intégrité du système judiciaire. De ce fait, son application appropriée devrait donner lieu à une mise en balance d’intérêts différents, tels que l’irrévocabilité, l’équité, l’efficacité et l’autorité des décisions judiciaires [10] .
+IV. La jurisprudence entourant l’application des deux doctrines
+a) Des normes de preuve, des fardeaux de preuve et des issues ou des verdicts différents
+[20] Même s’il y a symétrie entre les questions qui étaient en litige dans l’instance réglée (décision Samaroo no 1) et celles qui le sont dans l’instance ultérieure (les appels en matière d’impôt), les tribunaux font une distinction entre l’applicabilité de la doctrine de la préclusion et celle de l’abus de procédure si des normes de preuve différentes sont en jeu ou si les issues ou les verdicts sont différents. Ces normes de preuve différentes sont distinctes et existent depuis longtemps en droit : la culpabilité hors de tout doute raisonnable dans les instances criminelles et la survenance d’un fait selon la prépondérance des probabilités en matière civile. Pour ce qui est des verdicts prononcés en matière criminelle, seule une preuve de culpabilité produite par le ministère public hors de tout doute raisonnable impose un verdict de culpabilité; moins que cela mène à un acquittement. Dans le cas d’une instance civile, une preuve de la survenance d’un fait selon la prépondérance des probabilités que produit la partie qui cherche à faire infirmer le statu quo se solde par le succès de la poursuite et l’octroi d’une mesure de réparation. Tout cela est bien connu, statique et fondamental. Par contraste, la jurisprudence concernant le transfert de conclusions entre les normes de preuve, les fardeaux de preuve et les issues ou les verdicts (la « transposition ») dans le contexte des doctrines de la préclusion et de l’abus de procédure demeure vague, évolutive et tangentielle. C’est ce qui ressort des divers scénarios qui ont été établis en common law au Canada par divers tribunaux, à divers paliers et dans divers ressorts.
+b) La transposition des constatations de fait dans le cadre de la doctrine de la préclusion
+i. Les thèses des parties
+a. Les appelants
+[21] Les appelants ont présenté des arguments poussés à l’appui de l’affirmation selon laquelle il y avait une symétrie suffisante entre les questions en litige pour que les constatations de fait tirées dans la décision Samaroo no 1 s’appliquent dans une large mesure aux appels en matière d’impôt. La conséquence de cette application serait d’une grande portée : aucune partie n’introduira à l’audience des éléments de preuve supplémentaires qui tendent à réfuter ces constatations de fait positives.
+[22] Aux dires des appelants, les doctrines de la préclusion et de l’abus de procédure offrent la possibilité de transposer aisément les constatations de fait établies dans le cadre d’une instance criminelle en matière de fraude fiscale qui mène à un acquittement à un appel en matière d’impôt connexe. Faisant plus précisément référence aux propos de la juge en chef McLaughlin dans l’arrêt Mahalingan [11] , les avocats des appelants ont fait remarquer ceci, au sujet d’un acquittement prononcé dans une instance criminelle antérieure : « [s]i une question particulière a été tranchée en faveur de l’accusé […], même si la décision procède d’un doute raisonnable, la préclusion joue [12] ». Plus précisément, la doctrine de la préclusion s’applique à toutes les questions qui ont été expressément ou nécessairement réglées par l’acquittement.
+[23] Selon les appelants, même si la CSC, dans l’arrêt Mahalingan, traitait de la préclusion dans le contexte de deux instances criminelles, les principes énoncés par la juge en chef s’appliquent tout autant dans le contexte d’une affaire criminelle et d’une affaire civile. Si on l’interprète comme il faut, l’arrêt Mahalingan est l’examen le plus récent de la CSC sur la préclusion en tant que doctrine unique. C’est-à-dire que cet arrêt reflète l’évolution constante de cette doctrine de la transposition de constatations de fait entre un tribunal criminel et un tribunal civil.
+[24] Dans l’arrêt Mahalingan, les juges majoritaires ont concentré leur analyse sur le règlement des problèmes qui surviennent dans le cadre de l’application de la préclusion, et sa confusion avec l’abus de procédure, qui résulte d’une jurisprudence antérieure. La juge en chef a déclaré que ces problèmes sont en grande partie éliminés si les tribunaux limitent l’application de la doctrine aux conclusions antérieures que l’on a tirées sur des questions de fait, plutôt que de se concentrer sur des normes de preuve et des fardeaux différents. Pour arriver à cette conclusion, la juge en chef a laissé tomber toute référence au contexte du droit criminel et n’a donc pas conclu de manière précise que l’approche axée sur les questions en litige ne s’appliquent que dans le contexte d’une transposition entre deux instances criminelles, même s’il s’agissait là de la situation dont il était question dans cet arrêt. Les appelants affirment donc que rien n’empêche les tribunaux de transposer la préclusion d’une affaire d’acquittement criminel à une instance civile ultérieure. Il convient de signaler que, dans la décision Samaroo no 2, le juge Punnet a expressément suivi l’arrêt Mahalingan et a conclu que la préclusion s’appliquait entre l’instance criminelle Samaroo no 1 et l’affaire civile qui s’est soldée par la décision préliminaire dans l’affaire Samaroo no 2 [13] .
+[25] Les appelants sont donc d’avis que les questions en litige expressément ou nécessairement réglées (c.-à-d. pour lesquelles il existe une symétrie) par l’acquittement de l’appelant dans la décision Samaroo no 1, et ce, par suite d’une constatation de fait positive ou d’un doute raisonnable quant à la culpabilité, sont sujettes à préclusion dans les appels en matière d’impôt. Il ne devrait donc pas être possible de présenter des éléments de preuve supplémentaires visant à réfuter ou à renforcer les constatations de fait.
+b. L’intimée
+[26] Pour sa part, l’intimée est d’avis que la préclusion ne peut s’appliquer dans le cas de la transposition d’un acquittement prononcé dans une instance criminelle à une instance civile ultérieure, sur le fondement d’une constatation de fait positive ou d’un doute raisonnable. La seule exception à cette règle est la situation dans laquelle l’instance civile est engagée pour poursuite abusive, comme c’était le cas dans l’affaire Samaroo no 2. Cette dernière devrait être considérée uniquement comme une illustration de cette exception restreinte.
+[27] De plus, l’intimée soutient que la préclusion ne peut s’appliquer en l’espèce, et ce, pour trois autres raisons.
+[28] Premièrement, en raison de la différence de norme de preuve entre une instance civile et une instance criminelle, la préclusion est inapplicable dans le contexte d’une transposition d’une instance criminelle qui s’est soldée par un acquittement à une instance civile. Étant donné que, dans les instances civiles, la norme de preuve est moins exigeante que celle qui s’applique dans une instance criminelle, un acquittement antérieur, par opposition à une déclaration de culpabilité, n’a aucun effet déterminant quant aux questions de fait qui sont à trancher dans une instance civile ultérieure.
+[29] Deuxièmement, la nature d’une déclaration de culpabilité criminelle et d’un acquittement est fondamentalement différente. Dans le premier cas, il s’agit d’une conclusion positive de culpabilité hors de tout doute raisonnable (c.-à-d. un verdict de « culpabilité »); dans le second, il s’agit simplement de l’absence de cette conclusion (c.-à-d. un verdict de « non-culpabilité »). Appliquer la préclusion du premier cas au second aurait pour effet d’introduire un troisième verdict, celui de l’innocence factuelle. Pour des raisons d’intérêt public, il ne faudrait pas que les tribunaux reconnaissent deux catégories de personnes acquittées : celles qui, légalement, ne sont pas coupables, et celles qui, factuellement, sont innocentes. Cela reviendrait à amoindrir l’importance du verdict de « non-culpabilité ».
+[30] Enfin, les appelants invoquent à tort l’arrêt Mahalingan. La préclusion comporte deux types distincts : la préclusion criminelle et la préclusion civile. L’arrêt Mahalingan ne portait que sur la préclusion criminelle. Les commentaires de la juge en chef constituent donc une opinion incidente dans le contexte d’une transposition d’une instance criminelle à une instance civile, et les précisions de la Cour suprême du Canada au sujet de la doctrine criminelle ne peuvent s’étendre à la doctrine civile.
+ii. L’analyse
+[31] La manière dont les appelants interprètent l’arrêt Mahalingan va trop loin dans le contexte d’un litige de nature fiscale portant sur l’exactitude de cotisations. Dans la mesure où un acquittement prononcé dans une instance criminelle antérieure était fondé sur un doute raisonnable, la préclusion ne s’applique pas à une instance civile ultérieure car, logiquement, il existe des normes de preuve différentes et de longue date dans les instances criminelles et dans les instances civiles.
+[32] Les appelants ont caractérisé les précisions de la juge en chef McLachlin sur la doctrine de la préclusion de manière inexacte ou, sinon, de manière exagérément généreuse. Au paragraphe 17 de l’arrêt Mahalingan, la juge en chef McLachlin écrit : « l’objet propre de la préclusion, plus étroit [est] […] des décisions particulières concernant des questions sous‑jacentes au verdict » (non souligné dans l’original). Les appelants eux-mêmes y ont fait référence dans leurs observations et ont conclu que cet arrêt permet d’affirmer que [traduction] « la préclusion peut à l’évidence découler d’un acquittement ». Il est plus juste de dire que la juge en chef a conclu que la préclusion peut découler de conclusions tirées sur des questions de fait qui étayent un verdict d’acquittement dans une instance criminelle. L’analyse est axée sur les questions en litige, et non sur les issues de l’instance antérieure.
+[33] Cependant, les deux instances dont il est question dans l’arrêt Mahalingan étaient de nature criminelle. Comme l’a déclaré la juge en chef au début de l’arrêt, « [b]ien qu’elle partage de nombreux aspects avec son équivalent de droit civil, la préclusion découlant d’une question déjà tranchée constitue en droit pénal une doctrine distincte adaptée aux caractéristiques propres aux procès criminels ». La juge en chef envisage deux types de préclusion, l’une pour les instances civiles et l’autre pour les instances criminelles. La caractérisation, par les appelants, d’une doctrine unique semble faire abstraction de ce préambule limitatif. L’adoption de principes émanant de l’arrêt Mahalingan dans le contexte d’une transposition d’une instance criminelle à une instance civile serait forcément une nouveauté et déborderait même le cadre explicite des remarques incidentes formulées dans l’arrêt Mahalingan qui, lui-même, ne se limitait qu’à des instances criminelles.
+[34] Si l’on met de côté pour un moment tant cette conclusion de notre Cour que le fardeau de preuve différent dans les appels en matière d’impôt (du moins dans le contexte d’une cotisation d’impôt) et dans les instances criminelles, l’accent que les appelants suggèrent de mettre sur la détermination factuelle antérieure de questions en litige au moment d’appliquer la préclusion dans le contexte d’une transposition d’une instance criminelle à une instance civile a un certain fondement. Cela s’applique toutefois dans des cas exceptionnels, où les normes de preuve différentes ne présentent aucun problème. L’objectif sous-jacent de la préclusion est d’« établir l’équilibre entre l’intérêt public qui consiste à assurer le caractère définitif des litiges et l’autre intérêt public qui est d’assurer que, dans une affaire donnée, justice soit rendue ». Quand, dans une affaire exceptionnelle, des questions de fait qui étaient en cause dans une instance criminelle antérieure ont été soumises à un examen judiciaire exhaustif et ont été réglées de manière concluante conformément à la norme de preuve qui s’applique à l’instance ultérieure [14] , il est dans l’intérêt public de ne pas autoriser la remise en cause de ces mêmes questions de fait dans le cadre de l’instance ultérieure, peu importe que l’instance criminelle antérieure ait mené à un acquittement ou à une déclaration de culpabilité. Cela correspond à l’opinion qu’a exprimée le juge Punnet dans la décision Samaroo no 2, où ce dernier a bien résumé le raisonnement concluant de l’arrêt Mahalingan en ces termes : [traduction] « […] le fait que la conclusion [qui a réglé une question de fait dans l’instance antérieure] découle d’une déclaration de culpabilité ou d’un acquittement importe peu. C’est la détermination de la question en litige qui est pertinente [15] ».
+[35] Si la préclusion est axée non pas sur l’issue ou le verdict d’une instance criminelle antérieure, mais sur la symétrie des questions en litige en soi, peu importe que le verdict soit un acquittement ou une déclaration de culpabilité, l’application de la doctrine ne créerait pas une troisième catégorie de verdict criminel, celle de l’innocence factuelle, car le tribunal n’a pas porté son attention sur la question de la culpabilité ou de l’innocence. De plus, si l’on se concentre uniquement sur la manière dont les questions de fait ont été réglées dans l’instance antérieure, tant que l’on satisfait à la norme de preuve requise dans l’instance ultérieure et que la différence de fardeau de preuve ne pose pas de problème, il importe peu que l’instance antérieure soit de nature criminelle ou de nature civile.
+[36] Mais cela ne va pas plus loin. L’argument qu’invoquent les appelants perd de sa pertinence quand on prend en considération le changement de fardeau de preuve entre celui qui s’applique dans une instance civile et celui qui s’applique dans un appel en matière d’impôt. De façon générale, dans les instances de cette nature, c’est au contribuable qu’il incombe de démolir, selon la prépondérance des probabilités, les hypothèses qu’avance le ministre du Revenu national (le « ministre ») à propos d’une cotisation [16] . Dans la présente affaire, la requête en voir-dire des appelants a pour but d’empêcher les deux parties de produire des éléments de preuve pour contester des questions de fait qui ont été réglées dans la décision Samaroo no 1. Si cette thèse est admise, cela permet effectivement aux appelants de s’acquitter de leur fardeau de preuve sans être jamais tenus d’établir de manière affirmative le bien-fondé de leurs arguments dans le contexte de l’exactitude de la cotisation et de son montant; la Cour ne disposerait d’aucune information autre que les conclusions tirées dans la décision Samaroo no 1 pour pouvoir tirer ses propres conclusions sur des questions de fait qui ont été censément réglées dans cette affaire. Cela empiète du point de vue définitionnel sur la compétence exclusive de la Cour pour ce qui est de déterminer l’exactitude et l’étendue des cotisations d’impôt dans les appels en matière d’impôt. Le juge Punnet lui-même en a aussi fait mention avec déférence dans la décision Samaroo no 2 [17] .
+[37] Il faudrait mettre en balance le maintien de la compétence exclusive de la Cour avec le principe de la courtoisie judiciaire. Dans la décision Houda, le juge Boyle, de la Cour canadienne de l’impôt (« CCI »), a examiné une demande de prorogation du délai prévu pour interjeter appel devant la CCI après que le contribuable avait déjà obtenu une prorogation de délai de la Cour du Québec pour des cotisations correspondantes, liées à la taxe de vente provinciale. Le juge Boyle a conclu qu’après avoir examiné si la Cour était liée par la décision de la Cour du Québec selon les doctrines de la préclusion ou de l’abus de procédure, et même si les réponses étaient négatives, que la Cour devait quand même déterminer si elle devait faire preuve de déférence à l’égard de la Cour du Québec par courtoisie judiciaire [18] .
+[38] La CCI n’est pas forcément liée par les décisions de tribunaux de juridiction équivalente, surtout lorsque les dispositions législatives applicables ne sont pas les mêmes, mais il est important de veiller à ce que les conclusions tirées sur une même question soient cohérentes, dans la mesure du possible [19] .
+[39] La courtoisie judiciaire ne doit pas être acceptée aveuglément. Si la matrice factuelle ou le fondement probant entre les deux affaires est différent, ou si la question à trancher est différente, le principe de la courtoisie judiciaire ne s’applique pas.
+[40] En fin de compte, comme l’intimée l’a laissé entendre, les objets d’un procès criminel et d’un appel en matière de cotisation d’impôt sont fondamentalement différents. Le procès criminel a pour objet de déterminer si l’accusé est coupable, hors de tout doute raisonnable, des éléments de l’infraction criminelle qui lui est reprochée. L’appel portant sur la cotisation d’impôt a pour objet de déterminer si la cotisation que le ministre a établie au sujet de l’obligation fiscale du contribuable est exacte et, aussi, le montant de cette obligation. Dans les appels en matière d’impôt dont il est question ici, bien qu’il puisse y avoir des similitudes et des points communs dans certaines des questions factuelles qui doivent être tranchées devant la Cour par rapport à celles qui l’ont déjà été dans la décision Samaroo no 1, le fait d’exclure des éléments de preuve devant la Cour pour cause de préclusion au lieu d’accepter simplement les constatations de fait ne tient pas compte d’un objet crucial qui est intégré dans la préclusion. Les appels en matière d’impôt ne sont pas du tout des remises en cause, mais des processus juridiques distinctement prescrits qui permettent d’apprécier et de déterminer des droits et des obligations juridiques qui sont différents de ceux qui étaient en cause dans les instances criminelles antérieures. Dans ces circonstances, faire droit à la requête en voir-dire des appelants, dans sa totalité, fait peu de cas de l’obligation fondamentale qu’ont les contribuables dans notre système d’auto-déclaration d’établir l’exactitude de leurs déclarations au regard de la nouvelle cotisation du ministre.
+c) La transposition des constatations de fait dans le cadre de l’abus de procédure
+i. Les thèses des parties
+[41] Dans le contexte des présents appels en matière d’impôt, il n’y a pas de grande différence jurisprudentielle entre l’analyse et le raisonnement qui ont été appliqués ci-dessus à la préclusion et ceux qui s’appliquent à l’abus de procédure. C’est la symétrie des questions en litige, et non l’identité des parties (la distinction habituelle et unique entre la préclusion et l’abus de procédure), qui est le critère examiné dans la présente requête en voir-dire. Ce critère s’applique à la fois à la préclusion et à l’abus de procédure.
+ii. L’analyse
+[42] Bien que l’évitement d’une remise en cause soit l’objet premier de l’application de la préclusion, le maintien de la compétence exclusive de la Cour conférée par la loi pour ce qui est de trancher la validité et l’exactitude d’une cotisation d’impôt est également un sujet de préoccupation approprié et - à la discrétion de la Cour – supérieur, relativement à l’objet distinctif sous-jacent de l’abus de procédure : la préservation de l’intégrité du processus décisionnel judiciaire. Si l’ordonnance d’exclusion que sollicitent les appelants était accueillie, on empiéterait sur la compétence de la Cour au point de l’empêcher d’examiner toute autre contre-preuve ou preuve en réponse supplémentaire qui se rapporterait aux constatations de fait de la juge Saunders. Le même raisonnement s’applique à l’examen que ferait la Cour de la décision Samaroo no 2. Mais ce n’est pas ainsi que fonctionne un litige fiscal. Pour maintenir sa compétence exclusive et l’exercer, la Cour ne devrait pas donner un effet d’exclusion aux constatations de fait.
+[43] Par ailleurs, l’attribution d’un effet d’exclusion aux constatations de fait obligerait à déterminer juridiquement que la juge Saunders a établi les constatations de fait en faveur des appelants en se fondant uniquement sur le fardeau qu’avaient ces derniers d’en faire la preuve selon la norme de preuve civile : la prépondérance des probabilités. Il s’agit là d’un point très pertinent car la juge Saunders, bien qu’elle ait fait des commentaires favorables sur la crédibilité de Tony Samaroo et qu’elle ait accepté de nombreux aspects de son témoignage, n’a pas traité de la mesure dans laquelle elle considérait que ce témoignage était véridique au regard de cette norme. L’acquittement a eu lieu parce qu’elle a considéré que son témoignage, qui figurait dans les constatations de fait, était suffisamment digne de foi, au point d’établir un doute raisonnable. En droit, dans une instance de nature criminelle, c’est un acquittement qu’il faut dans ce cas prononcer. Mais qu’en est-il de l’exactitude de la cotisation dans les limites de l’obligation fiscale?
+[44] Les avocats des deux parties signalent avec raison que les intérêts des parties ne sont pas déterminants pour ce qui est de l’application de la doctrine de l’abus de procédure. C’est l’intégrité du système judiciaire qui a préséance. La Cour convient également que l’on ne devrait appliquer la doctrine de l’abus de procédure que dans les affaires évidentes. On ne peut pas conclure que l’affaire Samaroo no 1 en est une.
+d) Le rapprochement de la discordance entre la préclusion et l’abus de procédure avec les appels en matière d’impôt
+[45] Il existe effectivement des similitudes et des points communs dans certaines des questions de fait qui doivent être tranchées dans les présents appels en matière d’impôt par rapport à celles qui ont déjà été réglées dans la décision Samaroo no 1. Cependant, ce ne sont pas toutes les questions de fait à trancher dans le cadre de ces appels qui ont effectivement été réglées dans la décision Samaroo no 1, de sorte qu’il y a lieu de rendre une ordonnance d’exclusion concernant les preuves semblables ou les contre‑preuves. La juge Saunders n’a pas examiné si le montant du revenu déclaré était exact dans la décision Samaroo no 1. Cela étant, le fait d’appliquer en l’espèce la doctrine de la préclusion ou celle de l’abus de procédure causerait une injustice potentielle, plutôt que d’y remédier.
+[46] L’application de la doctrine de la préclusion ou de l’abus de procédure à la présente affaire est également incompatible avec l’esprit de la courtoisie judiciaire. Comme l’a conclu le juge Punnet dans la décision Samaroo no 2, il appartient à notre Cour spécialisée de déterminer quels sont les éléments de preuve admissibles et quels facteurs doivent être pris en compte dans les appels en matière d’impôt; il n’appartient pas à d’autres tribunaux de conjecturer sur le fait de savoir s’il convient de conclure qu’il y a eu abus de procédure ou qu’une autre réparation doit être accordée aux appelants dans le cadre de la présente instance [20] .
+[47] C’est dans le cadre du concept de la compétence unique de notre Cour que l’on peut, jusqu’à un certain point, reconnaître et utiliser les constatations de fait tirées dans la décision Samaroo no 1, et étayées dans la décision Samaroo no 2. Comme il a été indiqué, cela est toutefois limité par le contexte de la compétence exclusive [21] , des normes et des fardeaux de preuve uniques ainsi que de la jurisprudence distincte de notre Cour, lesquels reflètent tous ses fondements nationaux, bijuridiques et législatifs.
+[48] Dans ce contexte, la Cour appliquera les constatations de fait aux appels en matière d’impôt. Ce faisant, elle protégera sa compétence exclusive, donnera voix et effet aux constatations de fait tirées dans le cadre de l’instance criminelle longue mais asymétrique et sera directement confrontée aux résultats tout aussi peu souhaitables auxquels mènera le fait d’accueillir ou de refuser, dans son intégralité, la requête en voir-dire. Les constatations de fait sont admises, et avec effet, mais sans exclure de preuves contraires ou de preuves de renforcement si ces preuves supplémentaires répondent au critère habituel, soit d’être probantes, pertinentes et nécessaires pour les questions uniques que la Cour doit déterminer : l’exactitude et l’étendue des cotisations établies ainsi que la validité des pénalités imposées, le tout par rapport à de multiples appelants et le tout par rapport au seuil de preuve de la prépondérance des probabilités. Ce rapprochement préserve et respecte l’intégrité de tous les tribunaux qui ont examiné et qui examineront ces questions, mais préserve l’intégrité du système judiciaire dans son ensemble, tout en reconnaissant les rôles différents que joue chaque partie.
+V. Les éléments de preuve des appels en matière d’impôt, l’effet des constatations de fait et l’utilisation de ces dernières dans les présents appels
+i. La norme de preuve dans les appels en matière d’impôt
+[49] L’arrêt Hickman Motors énonce les principes fondamentaux les plus récents qui se rapportent au fardeau et à la norme de preuve dans les appels en matière d’impôt. La juge L’Heureux-Dubé a déclaré :
+a) l’appelant a le fardeau initial de démolir les présomptions formulées par le ministre dans sa cotisation en présentant au moins une preuve prima facie. Le fardeau initial de l’appelant consiste à démolir les présomptions exactes qu’a utilisées le ministre, mais rien de plus [22] ;
+b) lorsque l’appelant a démoli les présomptions du ministre, le fardeau de la preuve passe au ministre qui doit réfuter la preuve prima facie faite par l’appelant et prouver les présomptions. Si le ministre ne produit aucune preuve, l’appelant est fondé à obtenir gain de cause, et ce, même si sa preuve échappe à la logique et présente des lacunes de fond et de chronologie [23] .
+[50] La juge de la CSC a poursuivi en disant que la norme de preuve est la prépondérance des probabilités et qu’« à l’intérieur de cette norme, différents degrés de preuve peuvent être exigés, selon le sujet en cause, pour que soit acquittée la charge de la preuve [24] ». Par ailleurs, la preuve minimale que l’appelant doit présenter en vue de s’acquitter de son fardeau initial est « une preuve prima facie [25] ». Ces phrases, lues ensemble, semblent envisager une norme de preuve variable dans les appels en matière d’impôt. C’est-à-dire qu’il est possible de s’acquitter du fardeau initial en se fondant sur une norme moins stricte que celle de la preuve selon la prépondérance des probabilités.
+[51] Cette conclusion qui, techniquement, était une décision de la minorité dans l’arrêt Hickman, a lancé un débat actif et animé qui, à ce jour, se poursuit encore, au sujet de l’énigme de la preuve prima facie insaisissable, de sa valeur, de son applicabilité et de sa portée dans les appels en matière de cotisation d’impôt qui sont soumis à notre Cour. Appuyées dans certaines sources [26] et rejetées ou minimisées dans d’autres [27] , ces points de vue différents subsistent.
+[52] Pour régler le débat qui subsiste et le rendre utile en l’espèce, il est nécessaire de faire un peu d’équarrissage. Dans les appels en matière d’impôt en général et en ce qui concerne les constatations de fait plus précisément, il est nécessaire de tirer une conclusion. Dans les appels en matière d’impôt, il incombe à l’appelant de démolir les hypothèses du ministre selon la norme de la prépondérance des probabilités [28] , et rien de plus ou de moins que cela [29] . Il ne faut pas considérer que la condition de la preuve « prima facie » dont il est question dans l’arrêt Hickman Motors a modifié la norme de preuve habituelle dans les appels en matière d’impôt [30] . Quand l’obligation initiale de réunir des preuves passe tactiquement de l’appelant au ministre, comme nous le verrons plus loin, la norme de preuve applicable demeure toujours la même : la preuve selon la prépondérance des probabilités, et non une norme moins stricte ou différente. Pour dire les choses simplement, le changement est l’obligation qu’impose la Cour de tourner ensuite son attention vers les hypothèses que le ministre a avancées dans le but d’en évaluer l’exactitude ou l’inexactitude en prenant connaissance de contre-preuves.
+ii. Le fardeau de preuve et les considérations d’ordre tactique dans les appels en matière d’impôt
+[53] Par ailleurs, l’inversion de la charge ou du fardeau de preuve dans les appels en matière d’impôt contre des (nouvelles) cotisations ordinaires est reconnue en common law, codifiée dans la Loi de l’impôt sur le revenu et structurée en vertu des Règles de la Cour canadienne de l’impôt (procédure générale) [31] . Il incombe à l’appelant de produire une preuve axée sur la cible que représentent les fondements factuels des hypothèses du ministre. À mesure que l’on réunit des faits en vue de démolir ou d’entreprendre de démolir les faits qui sont intégrés dans les hypothèses, le ministre, tactiquement et de manière prudente, devrait répondre ou s’exposer au risque que le juge détermine, selon toute vraisemblance, que le contribuable s’est acquitté de son fardeau ultime de la preuve [32] .
+[54] Contrairement à la norme de preuve qui ne change jamais, une obligation tactique et dynamique de produire une preuve demeure constante entre un appelant et le ministre. Lorsqu’il survient un changement tactique, les deux parties éprouvent le besoin de produire des éléments de preuve pour étayer les questions qui sont à ce moment-là contestées, selon la prépondérance des probabilités pour l’une comme pour l’autre.
+[55] La règle sous-jacente qui oblige l’appelant à supporter le fardeau initial est la suivante. Le système fiscal canadien est un système d’autocotisation. Les faits qui se rapportent aux affaires fiscales de n’importe quel contribuable sont [TRADUCTION] « jusqu’à un certain point, sinon exclusivement, du domaine de la connaissance [du contribuable] [33] ». Comme le contribuable est le mieux placé pour connaître et étayer le fondement factuel de ses affaires fiscales, c’est lui qui doit supporter le fardeau initial quand il conteste la cotisation d’impôt que le ministre a établie.
+[56] Cependant, le fait que ce soit l’appelant qui supporte le fardeau initial est juste un principe général et, comme tous les principes généraux, il est soumis à des exceptions. Ces dernières reposent généralement sur des motifs d’équité procédurale, comme dans le cas où une hypothèse invoquée relève uniquement de la connaissance du ministre. Il convient de signaler que l’équité procédurale va dans les deux sens : quand ils ordonnent une inversion du fardeau, les tribunaux doivent veiller à ce que le fait de passer au ministre le fardeau initial de l’appelant ne compromette pas l’intégrité, le caractère exécutoire ou la crédibilité du système fiscal basé sur l’auto-déclaration que l’on applique au Canada [34] . Dans le même ordre d’idées, dans des cas où le fait d’imposer la charge ou le fardeau de preuve à l’appelant aurait causé une iniquité procédurale parce que les hypothèses avancées par le ministre manquaient de clarté, les tribunaux ont fait passer le fardeau initial au ministre.
+[57] En fin de compte, comme l’a signalé le juge en chef adjoint Bowman (plus tard juge en chef) dans la décision Mungovan, la Cour ne devrait pas insister sur la règle classique qui veut que l’appelant supporte le fardeau initial au point de perdre de vue l’objet original de la règle et tous les aspects de l’équité procédurale. Les règles ordinaires de pratique et de procédure qui s’appliquent aux affaires de nature civile s’appliquent également aux appels en matière d’impôt : le fardeau de la preuve devrait, en règle générale mais pas invariablement, reposer sur la partie qui a affirmé la question dans son acte de procédure, car une proposition négative est généralement impossible à prouver. La question de savoir si le fardeau initial devrait passer au ministre dans une affaire particulière est une question qui relève du juge de première instance [35] .
+iii. Les conclusions sur la partie à laquelle il incombe de produire des éléments de preuve dans les présents appels en matière d’impôt
+[58] En résumé, la Cour peut considérer que le fardeau de preuve initial est passé d’un appelant au ministre lorsque cette mesure ne compromettrait pas l’intégrité, le caractère exécutoire, la crédibilité du système fiscal basé sur l’auto-déclaration et l’un quelconque des facteurs susmentionnés et réitérés ci-après s’applique :
+a) la connaissance des faits pertinents fait pencher la balance en faveur du ministre;
+b) le fait d’imposer le fardeau initial à l’appelant donnerait lieu à un manquement à l’équité procédurale;
+c) le fait d’imposer strictement le fardeau initial à l’appelant ne permet pas de tenir compte de manière suffisante du fait qu’une personne qui avance une prétention affirmative supporte le fardeau en ce qui concerne cette prétention.
+[59] Les deux derniers facteurs ont une incidence sur les détails et l’interrelation entre les constatations de fait, les appels en matière d’impôt et les objets généraux, sinon le plein effet de la doctrine de la préclusion et de celle de l’abus de procédure. L’application du pouvoir discrétionnaire du juge de première instance, limitée par la combinaison unique du fardeau, de la norme et de la dynamique tactique de preuve dans les appels en matière d’impôt permet de reconnaître et d’utiliser de manière contextuelle les constatations de fait axées sur l’objectif de l’équité et de l’efficacité du procès dans les présents appels en matière d’impôt.
+[60] Dans l’ensemble, comme il est signalé ci-après, la détermination des questions en litige au moyen de l’utilisation des constatations de fait relève du pouvoir discrétionnaire de la Cour.
+VI. L’utilisation des constatations de fait dans les présents appels
+i. L’application des constatations de fait
+[61] La Cour appliquera son pouvoir discrétionnaire résiduel dans le contexte des règles qui lui sont propres. Pour l’audition des multiples appels dont il est question en l’espèce, les constatations de fait comprennent des éléments de preuve admissibles que les appelants ont réunis. Ces constatations sont énumérées dans les affidavits contenant la transcription des motifs de la décision Samaroo no 1 de la juge Saunders. Agir autrement serait illogique et omettrait de tenir compte du temps et des efforts considérables qui ont été consacrés à des faits semblables dans les constatations de fait. La décision concernant le poids à accorder aux constatations de fait et à leur incidence sur les appels en matière d’impôt fera concorder les processus, les normes de preuve et les objets différents et variables qu’appliquent les tribunaux en matière criminelle, civile et fiscale
+i. Les limites des constatations de fait
+[62] Une autre des raisons pour lesquelles il n’y a pas lieu de faire droit à la requête dans son intégralité est le caractère incomplet des constatations de fait qui ressort des hypothèses que l’intimée a avancées. Comme il a été indiqué, dans un litige de nature fiscale les hypothèses sont un élément crucial. Mais ce ne sont pas toutes les hypothèses avancées dans les appels en matière d’impôt qui ont été prises en compte, citées ou touchées par les constatations de fait. Parallèlement, ces constatations ne font pas référence à tous les appelants ni à toutes les années d’imposition dont la Cour est saisie, car ce ne sont pas tous les appelants qui ont été accusés ni toutes les années d’imposition qui ont été soumises au tribunal dans le dossier Samaroo no 1.
+ii. La méthode employée pour appliquer les constatations de fait aux appels en matière d’impôt
+[63] Le rapprochement de ces différences est une tâche détaillée. Du point de vue méthodologique, cette tâche doit comprendre une analyse des constatations de fait par rapport aux hypothèses de l’intimée dans chaque réponse précise, tant dans le contexte d’une constatation formulée dans la décision Samaroo no 1 que dans celui de la partie et de l’année d’imposition auxquelles les constatations se rapportent.
+iii. L’application de la méthodologie aux actes de procédures
+[64] Cette tâche préliminaire a été entreprise en deux étapes. La première est une analyse du texte que les constatations de fait que la juge Saunders a formulées dans la décision Samaroo no 1, de même qu’une extraction des constatations de fait qui se rapportent aux appels en matière d’impôt. L’annexe I des présents motifs d’ordonnance présente le résultat des constatations de fait sous la forme d’un tableau, par souci de commodité. Indépendamment des arguments juridiques théoriques invoqués et des présents motifs concernant le fardeau et la norme de preuve, l’admissibilité, la préclusion et l’abus de procédure, il faut quand même qu’il y ait un procès devant la CCI qui mette en cause les contribuables et le ministre, de même que des avocats et des témoins, et cet outil de référence commode convient à cette tâche.
+[65] La seconde étape fait concorder les constatations de fait avec les hypothèses pertinentes que l’on trouve dans les réponses de l’intimée, relativement aux années d’imposition et aux appelants applicables. Ces conclusions sont présentées à l’annexe II, jointe aux présents motifs d’ordonnance.
+VII. Le résultat et son incidence sur l’ordre de présentation pendant le reste de l’audience
+i. L’ordre de présentation à l’audience
+[66] Les conclusions relatives aux hypothèses, aux années d’imposition et aux appelants qui sont touchés par les constatations de fait font que tous les appels en matière d’impôt dont il est question en l’espèce forment un ensemble disparate. Certaines hypothèses sont contestées ou potentiellement démolies, sur le plan probatoire, par les constatations de fait, et d’autres ne le sont pas. Là encore, cet ensemble disparate englobe divers appelants, diverses hypothèses et diverses années d’imposition. L’objet des présents motifs d’ordonnance et de l’ordonnance connexe est d’appliquer les constatations de fait d’une manière utile, logique et perspicace, dans les limites des appels en matière d’impôt, et d’établir un processus qui aidera raisonnablement le juge et les avocats lors d’une audience équitable, proportionnée et équilibrée.
+[67] L’article 135 des Règles de la Cour canadienne de l’impôt (procédure générale) dispose [non souligné dans l’original] :
+135 (1) Lorsque, à l’audience, une partie désire présenter une preuve, la partie ou son avocat doit, sauf directive contraire de la Cour, immédiatement avant de présenter toute preuve, commencer par un bref exposé des faits que la partie se propose de prouver et du droit applicable.
+(2) Sauf directive contraire du juge, les parties font valoir leurs arguments en présentant des preuves ou en présentant à la Cour les faits sur lesquels elles se fondent, dans l’ordre suivant :
+a) l’appelant,
+b) l’intimée
+c) l’appelant à l’égard d’une contre-preuve.
+(3) Sauf directive contraire du juge, une fois la preuve présentée par toutes les parties, ces dernières présentent leur argumentation dans l’ordre de présentation de leur preuve. La partie dont l’argumentation a été présentée en premier lieu peut répondre, et une partie opposée peut répondre à un nouveau point de droit soulevé dans la réponse.
+[68] À ce stade, il n’est ni rationnel ni vraisemblablement possible de scinder l’ordre de présentation des éléments de preuve et des arguments à l’audience en fonction d’appelants, d’années d’imposition et d’hypothèses précises distincts. Le paragraphe 4(1) des règles, dont le texte est le suivant, est donc utile :
+4 (1) Les présentes règles doivent recevoir une interprétation large afin d’assurer la résolution équitable sur le fond de chaque instance de la façon la plus expéditive et la moins onéreuse.
+[69] En conséquence, pour cette raison et compte tenu de l’importance manifeste des constatations de fait pour un grand nombre des décisions que doit prendre la Cour, l’ordre des actes de procédure sera changé. Les constatations de fait exigent que l’intimée commence à présenter ses preuves dans tous les appels, et ce sera ensuite le tour des appelants et de l’intimée à l’égard des contre‑preuves. Un ordre concordant sera suivi pour la présentation des arguments. Par ailleurs, étant donné que des pénalités ont aussi été imposées en vertu du paragraphe 163(2), l’intimée supportait déjà dans cette mesure le fardeau initial.
+ii. Le poids des constatations de fait
+[70] Le poids présentement accordé aux constatations de fait est que ces dernières, de façon préliminaire, ont contesté et potentiellement démoli certaines hypothèses de fait du ministre, pour ce qui est des années d’imposition et des appelants dont il est question à l’annexe II. Sont donc décrites dans cette annexe les hypothèses contestées et potentiellement démolies. Pour plus de clarté, la norme de preuve à laquelle les appelants doivent répondre en fin de compte demeure la prépondérance des probabilités. Étant donné que l’audition n’a pas encore vraiment commencé, il serait préjudiciable pour le juge des faits de conclure qu’une hypothèse contestée a été démolie sur le plan probatoire.
+[71] À l’heure actuelle, il est indiqué que ces hypothèses ont été contestées directement et potentiellement démolies par les constatations de fait. Pour ce qui est des hypothèses contestées, l’intimée devrait percevoir qu’il est hautement nécessaire, d’un point de vue tactique ou par prudence, de réunir des preuves qui réfuteront les constatations de fait. Quant aux appelants, les autres hypothèses non indiquées à l’annexe II demeurent incontestées et il est nécessaire d’en traiter d’une manière conforme au fardeau que supportent les contribuables dans le cadre d’un appel en matière d’impôt portant sur de nouvelles cotisations ordinaires. Comme dans le cas de n’importe quelle audience, la Cour suivra ces hypothèses, tant attaquées que non contestées, elle soupèsera les preuves produites au moyen des constatations de fait et à l’audience et elle tranchera l’appel conformément au fardeau et à la norme de preuve qui sont inchangés, prépondérants et habituels.
+VIII. Le reste de l’audience et les dépens liés à la requête
+[72] Outre les présents motifs d’ordonnance et l’ordonnance connexe qui y est jointe, une ordonnance distincte concernant le calendrier de gestion du procès sera rendue au sujet des dates, de l’emplacement et de la durée de la suite du processus judiciaire.
+[73] Indépendamment de sa durée et du moment de son dépôt avant l’audience, la requête demeure un voir-dire préliminaire pendant que le procès est en instance. En conséquence, aucune ordonnance ne sera rendue à ce stade-ci à l’égard des dépens, qui seront pris en compte dans l’ordonnance de dépens déterminante et définitive.
+Signé à Ottawa, Canada, ce 20e jour de décembre 2016.
+« R.S. Bocock »
+Le juge Bocock
+Traduction certifiée conforme
+ce 4e jour de mai 2018.
+Mario Lagacé, jurilinguiste.
+Annexe I – Constatations de fait établies dans R c. Samaroo, 2011 BCPC 503 (Samaroo no 1)
+#
+Paragraphe(s)
+Texte de la décision [traduction]
+Constatations de fait de la juge Saunders
+1
+29, 35, 64
+29. [Keith Kendal, le comptable de l’ARC qui a enquêté sur les circonstances financières ayant mené aux accusations] a confirmé qu’on avait trouvé une somme de plus de 400 000 $ en espèces et en équivalent en espèces au domicile des Samaroo ainsi qu’à MGM lors de la perquisition de l’ARC qui n’avait pas été saisie.
+35. Alan Jones, de l’ARC, a déclaré qu’il était présent quand le mandat de perquisition a été exécuté à MGM, en janvier 2007, et qu’il y avait dans le coffre-fort une somme de plus de 200 000 $ en espèces […] Robert Winker l’accompagnait et il a confirmé qu’il avait personnellement compté 100 000 $ en billets […].
+64. Une quantité importante d’argent en espèces a été trouvée au domicile des Samaroo, ainsi que dans le coffre-fort de MGM, quand l’ARC a exécuté son mandat de perquisition en 2007 […].
+Quand l’ARC a perquisitionné le domicile et les entreprises des Samaroo en exécution d’un mandat en janvier 2007, une somme de plus de 400 000 $ en espèces et en équivalent en espèces a été trouvée sur les lieux.
+2
+32, 50, 75
+32. On a dit à [Keith Kendal] que la boîte de nuit avait été l’objet d’une vérification provinciale pour la période de 2003 à 2005 et qu’aucun problème de taxe ou d’argent en espèces non déclaré n’avait été relevé […].
+50. [Ed Heese, comptable des Samaroo et des sociétés depuis 1998, et témoin du ministère public] a confirmé qu’une vérification de la boîte de nuit avait eu lieu en novembre 2005, qu’il n’y avait aucun montant de taxe à payer et que les ventes avaient été déclarées correctement.
+75. La vérification provinciale de la boîte de nuit a permis de conclure qu’il n’y avait pas eu de ventes et de taxes non déclarées en 2005, ce qui contredit l’hypothèse de Keith Kendal selon laquelle les Samaroo subtilisaient de l’argent non déclaré qui provenait de la boîte de nuit.
+Il n’y a pas eu de montants de vente ou de taxe non déclarés par SHL (qui possédait la boîte de nuit) en 2005.
+3
+39, 40, 70
+39. Diane Ye a travaillé à MGM de 1994 à 2005 […] Elle a confirmé qu’il y avait au départ deux quarts de travail, qui sont passés à trois quand on a ajouté le quart de nuit en 1997. Elle était chargée de remplir le sommaire quotidien qui s’appliquait aux trois quarts de travail et elle a déclaré qu’il y avait deux feuilles de papier […] et que la seconde feuille contenait le sommaire quotidien relatif au quart de travail de nuit.
+40. Quand on lui a demandé en contre-interrogatoire pourquoi elle avait omis de mentionner aux enquêteurs l’existence d’une seconde feuille de sommaire quotidien jusqu’en février 2010, date de son entretien avec Keith Kendal, elle s’est mise en colère et est devenue hostile. Elle a répondu de manière vague et évasive. Elle a admis qu’elle avait eu une aventure avec Tony Samaroo et que son emploi avait pris fin en 2006. Il ressortait clairement de son comportement et de son témoignage qu’elle ressentait de ce fait une vive animosité à l’égard des Samaroo. Sa partialité à leur encontre était palpable.
+70. Diane Ye a déclaré que le sommaire quotidien comprenait deux feuilles, l’une comportant des colonnes concernant le quart de jour et le quart de soir, et l’autre concernant le quart de nuit. Tony Samaroo a expliqué qu’il n’y avait auparavant que deux quarts de travail; il avait dit à Ye de continuer d’utiliser la même feuille de sommaire et d’inclure le quart de nuit dans le quart de soir parce qu’il y avait fort peu de ventes, et il en était resté là. Diane Ye était hostile envers Tony et Helen Samaroo […] elle n’avait parlé d’une seconde feuille à personne […] avant la veille du début du procès, et rien n’expliquait de manière satisfaisante cette attitude.
+MGM a exploité ses activités 24 heures sur 24, 7 jours sur 7, avec trois quarts de travail, au cours des années 2004 et 2005 : un quart de jour, un quart de soir et un quart de nuit.
+4
+39, 40, 70, 71, 74
+Pour le texte des paragraphes 39, 40 et 70, voir la constatation de fait no 3.
+71. S’il y avait eu une seconde feuille, Tony Samaroo aurait eu à produire lui-même une autre feuille quotidienne […] Cela aurait été une tâche complexe, dont il aurait dû se charger tous les jours pendant au moins deux ans, et il n’y a pas la moindre preuve qu’il l’a fait.
+74. Tony Samaroo a expliqué que MGM avait fait passer le sommaire quotidien de deux colonnes à trois en mars 2006 […]. Il a nié avoir déclaré qu’il n’y avait auparavant que deux quarts de travail, car il y avait toujours eu trois quarts de travail, ce que Ye et de nombreux autres témoins du ministère public ont confirmé dans leur déposition […] Le quart de nuit ne donnait pas de bons résultats, selon Katerina Rekers [ex-serveuse à MGM lors du quart de nuit et témoin du ministère public] […] Le fait d’inclure le produit du quart de nuit dans le quart de soir parce que les ventes étaient faibles est une explication plausible.
+Au cours de 2004 et de 2005, le sommaire des ventes quotidiennes de MGM se composait d’une seule feuille et de deux colonnes : une colonne pour le « quart de jour » et l’autre pour le « quart de nuit ».
+5
+39, 40, 70, 71, 74
+Pour le texte des paragraphes 39, 40, 70, 71 et 74, voir la constatation de fait no 4.
+Au cours de 2004 et de 2005, les ventes quotidiennes de MGM réalisées durant le quart de nuit ont été consignées dans la colonne du « quart de soir » dans le sommaire quotidien, de pair avec les ventes quotidiennes du quart de soir. La direction a jugé que les ventes réalisées lors du quart de nuit étaient trop faibles pour qu’il soit nécessaire d’ajouter une colonne distincte dans le sommaire quotidien.
+6
+58
+[…] [Les Samaroo] ont mis en commun leurs économies et leurs héritages. [Tony Samaroo] a été contre-interrogé vigoureusement et son explication selon laquelle l’argent comptant versé dans ses comptes personnels et d’entreprise provenait des économies qu’il avait réalisées jusque-là, a été mise en doute. Il n’a pas fléchi dans ses réponses.
+Au cours des périodes applicables, l’argent comptant versé dans le compte personnel de Tony Samaroo ainsi que dans les comptes d’entreprise de MGM et de SHL provenait des économies que les Samaroo avaient réalisées et des héritages qu’ils avaient reçus.
+7
+6, 61, 62, 82
+6. Tony et Helen Samaroo (les « Samaroo ») sont mariés depuis 1982 […].
+61. […] il est important de souligner que je considère que Tony Samaroo est digne de foi. Il s’est comporté d’une manière impressionnante. Ses explications concordent avec des aspects importants et pertinents de la preuve et sont vraisemblables, pour les raisons qui suivent.
+62. De façon générale, je souscris à son témoignage selon lequel il a commencé à travailler dur et à faire des économies quand il est arrivé au Canada en 1970. J’admets qu’il avait un bon sens des affaires dans le secteur de l’alimentation et du divertissement et qu’il a acheté des entreprises et les a vendues à profit. J’admets aussi qu’il a continué d’effectuer de longues heures de travail avec Helen après leur mariage et que les deux ont accumulé des économies à partir de fonds provenant de leur travail et d’héritages qu’ils ont conservés sous forme d’espèces à cause de ce qu’ils pensaient des pratiques bancaires.
+82. La théorie du ministère public est que les Samaroo n’auraient pas pu accumuler une somme de 1,7 million de dollars entre 1982 et 2003. Selon le témoignage de Tony Samaroo, que j’accepte, celui-ci a commencé à faire des économies en 1970 […].
+Tony Samaroo a commencé à travailler dur et à faire des économies en 1970.
+8
+6, 61, 62
+Pour le texte des paragraphes 6, 61 et 62, voir la constatation de fait no 7.
+Tony Samaroo avait un bon sens des affaires dans le secteur de l’alimentation et du divertissement et, en général, il a réalisé des profits depuis 1970.
+9
+6, 16, 61, 62
+Pour le texte des paragraphes 6, 61 et 62, voir la constatation de fait no 7.
+16. Tony Samaroo a expliqué qu’il avait fait des économies durant de nombreuses années, et ce, dès 1970, peu après son arrivée au Canada, et qu’il les avait conservées sous la forme de billets de 100 $, d’abord à son domicile et, ensuite, dans des coffrets de sûreté bancaires, parce qu’il ne faisait pas confiance aux banques en raison des expériences que lui avaient décrites d’autres personnes à Trinidad. Helen Samaroo était originaire de la Chine continentale et elle non plus ne faisait pas confiance aux banques, de sorte qu’ils conservaient leurs économies conjointes sous la forme de billets de 100 $. Helen Samaroo et lui avaient eu des héritages qu’ils avaient aussi mis de côté de la même façon. Quand Tony Samaroo a entendu dire que le gouvernement canadien mettait fin aux vieux billets de 100 $ en 2004, il a commencé à déposer les billets dans divers comptes.
+Tony Samaroo faisait des économies depuis 1970. De plus, depuis leur mariage en 1982, Tony et Helen accumulaient leurs économies et leurs héritages collectifs en argent comptant, parce que, de façon générale, ils n’avaient pas confiance aux pratiques bancaires.
+10
+16, 61, 62, 64
+Pour le texte du paragraphe 16, voir la constatation de fait no 9, et pour les paragraphes 61 et 62, voir la constatation de fait no 7.
+64. Une quantité considérable d’argent comptant a été trouvée au domicile des Samaroo, ainsi que dans un coffre-fort à MGM, quand l’ARC a exécuté son mandat de perquisition en 2007, ce qui confirme le témoignage de Tony Samaroo selon lequel il gardait ses économies sous forme d’argent comptant dans un coffre-fort. L’argent n’a pas été saisi. Glen Foster [vérificateur de l’ARC] a confirmé que lors de son enquête il avait découvert trois coffrets de sûreté à la banque. Cela corrobore le témoignage de Tony Samaroo selon lequel il conserve l’argent comptant dans des coffrets à la banque, plutôt que de le déposer dans un compte.
+Depuis leur mariage en 1982, Tony et Helen Samaroo ont généralement conservé leurs économies et leurs héritages en argent comptant à leur domicile, dans un coffre-fort à MGM et/ou dans des coffrets de sûreté à leur banque.
+11
+65
+Il n’est pas contesté que les vieux billets de 100 $ devaient être retirés de la circulation en 2004. Il y a eu un pic dans les dépôts faits dans le compte personnel et les comptes de prêt d’actionnaire des Samaroo en 2004 et en 2005, ce qui est la période au cours de laquelle Tony Samaroo a dit avoir déposé les fonds. Keith Kendal confirme dans son témoignage le pic des dépôts de 100 $ en billets en 2004 et en 2005.
+L’augmentation des comptes de prêt d’actionnaire de MGM et de SHL en 2004 et en 2005 était attribuable au dépôt, par Tony Samaroo, des économies personnelles et des héritages du couple.
+12
+16, 21, 62, 65
+Pour le texte du paragraphe 16, voir la constatation de fait no 9; pour le texte du paragraphe 62, voir la constatation de fait no 7; et pour le texte du paragraphe 65, voir la constatation de fait no 11.
+21. Tony Samaroo a dit à [Glen Foster] que les dépôts d’argent comptant dans son compte personnel et ses comptes d’actionnaire provenaient des économies, sous forme de vieux billets de 100 $, qu’il avait déposées en 2004 et en 2005 quand il avait entendu dire que le gouvernement du Canada mettait fin aux vieux billets de 100 $.
+Tony Samaroo n’a pas fait de dépôts dans les comptes de prêt d’actionnaire de MGM et de SHL avant 2004 et 2005 parce que, de façon générale, il n’avait pas confiance aux pratiques bancaires.
+13
+16, 21, 62, 65
+Pour le texte du paragraphe 21, voir la constatation de fait no 12; pour le texte du paragraphe 16, voir la constatation de fait no 9; pour le texte du paragraphe 62, voir la constatation de fait no 7; pour le texte du paragraphe 65, voir la constatation de fait no 11.
+Tony Samaroo a effectué les dépôts dans les comptes de prêt d’actionnaire de MGM et de SHL en 2004 et en 2005 parce qu’il croyait qu’ils ne pourraient pas utiliser leurs économies et leurs héritages en argent comptant après que le gouvernement du Canada aurait cessé d’émettre les vieux billets de 100 $.
+14
+66
+Je souscris à l’explication de Tony Samaroo selon laquelle il avait décidé de ne pas utiliser l’argent comptant qu’il avait accumulé dans les coffrets de sécurité et qu’il avait plutôt obtenu des prêts hypothécaires parce qu’il voulait obtenir une bonne cote de crédit à Nanaimo. Il a aussi expliqué qu’il ne se souciait pas des intérêts que ses économies auraient rapporté s’il les avait déposées car il estimait que son argent était plus en sécurité dans les coffrets de sécurité parce qu’il pouvait exercer un contrôle sur cet argent. Il n’est pas déraisonnable qu’une personne qui n’a pas confiance aux banques veuille pouvoir disposer facilement de ses économies, pas plus qu’il n’est déraisonnable de vouloir établir une bonne cote de crédit en tant qu’homme d’affaires nouvellement arrivé en ville.
+Tony Samaroo ne s’est pas servi des économies et des héritages en argent comptant pour financer ses entreprises. Il a plutôt obtenu des prêts hypothécaires afin d’établir de bonnes cotes de crédit.
+15
+73
+La hausse des ventes de nourriture après le mois de mars 2006 aurait pu être attribuable au fait que les Samaroo avaient intensifié leurs contrôles internes au sujet des vols, des bris et du gaspillage, et cette explication est vraisemblable. Il est tout aussi vraisemblable qu’il y a eu une hausse des ventes à cause des problèmes dus au fait que des restaurants locaux fermaient leurs portes.
+La hausse des ventes de nourriture à MGM après le mois de mars 2006 a été attribuable à de meilleurs contrôles internes et/ou à une diminution de la concurrence.
+16
+81
+Tony Samaroo a déclaré que les comptables lui avaient conseillé de se servir d’argent comptant à mesure qu’il en recevait, mais qu’il fallait le déclarer en tout temps et que c’était ce qu’il avait fait. Il ignore ce qu’est un compte de prêt d’actionnaire ou ce qu’est une déduction pour amortissement. Il laisse tout cela aux soins du comptable, et j’accepte cette preuve, confirmée par Ed Heese, qui est un témoin digne de foi et qui a appuyé la version des Samaroo même s’il était un témoin du ministère public.
+Pendant les périodes en cause, Tony Samaroo n’était pas un expert en comptabilité et en déclarations financières. Il ignorait ce qu’est un compte d’actionnaire ou une déduction pour amortissement. Il ne supervisait pas de manière importante la comptabilité de MGM et de SHL et il ne s’en occupait pas. Il laissait toutes ces questions aux soins d’Ed Heese.
+17
+87
+[…] [Keith Kendal] n’a pas tenu compte des héritages combinés, d’un montant de près de 400 000 $, que Tony et Helen ont reçus et il a donc entrepris [l’analyse de la valeur nette] en partant d’hypothèses tout à fait inexactes.
+Sur les montants que Tony et Helen Samaroo ont censément détournés, une somme d’environ 400 000 $ représentait leurs héritages et ne représentent pas des ventes en argent comptant détournées de MGM et de SHL.
+Annexe II – Hypothèses pertinentes du ministre contestées ou potentiellement démolies par les constatations de fait établies dans R c. Samaroo, 2011 BCPC 503 [36]
+Alinéas mentionnés en réponse
+Texte de l’hypothèse [37]
+Constatation(s) de fait de la juge Saunders mentionnées par no à l’annexe 1
+L’hypothèse a-t-elle été contestée ou potentiellement démolie?
+TS(IT)
+HS(IT) [38]
+MGM(IT) [39]
+MGM(GST) [40]
+SHL(IT) [41]
+SHL(GST) [42]
+dd
+z
+ii
+bb
+ll
+L’argent trouvé au domicile et dans le coffre-fort [c.-à-d. l’argent conservé au domicile des Samaroo, dans le coffre-fort situé à MGM ainsi que dans les coffrets de sûreté bancaires des Samaroo] ne provenait pas d’argent comptant retiré des comptes bancaires des sociétés [MGM et SHL] ou de chèques tirés sur ces comptes.
+Constatations de fait nos 2, 7, 8, 9, 10, 14, 17
+Oui, mais uniquement à l’égard de l’année d’imposition 2005 de SHL et jusqu’à hauteur d’une somme de 400 000 $ sur l’argent trouvé au domicile et dans le coffre-fort (voir les constatations de fait nos 2 et 17).
+Ee
+aa
+jj
+cc
+mm
+L’argent trouvé au domicile et dans le coffre-fort ne provenait pas d’argent comptant payé à l’appelant, ou à Mme Samaroo, par les sociétés à titre de paiement de loyer, de remboursement de prêt, de salaire ou d’honoraires de gestion.
+Constatations de fait nos 2, 7, 8, 9, 10, 14, 17
+Oui, mais uniquement à l’égard de l’année d’imposition 2005 de SHL et jusqu’à hauteur d’une somme de 400 000 $ sur l’argent trouvé au domicile et dans le coffre-fort (voir les constatations de fait nos 2 et 17).
+ff
+bb
+kk
+dd
+nn
+L’argent trouvé au domicile et dans le coffre-fort ne provenait pas d’argent comptant retiré des comptes bancaires personnels de l’appelant ou de Mme Samaroo, ou de chèques tirés sur ces comptes.
+Constatations de fait nos 2, 7, 8, 9, 10, 14, 17
+Oui, mais uniquement à l’égard de l’année d’imposition 2005 de SHL et jusqu’à hauteur d’une somme de 400 000 $ sur l’argent trouvé au domicile et dans le coffre-fort (voir les constatations de fait nos 2 et 17).
+gg
+cc
+ll
+ee
+oo
+L’argent trouvé au domicile et dans le coffre-fort ne provenait pas d’économies personnelles que l’appelant ou Mme Samaroo avait accumulées.
+Constatations de fait nos 2, 7, 8, 9, 10, 14, 17
+Oui, mais uniquement à l’égard de l’année d’imposition 2005 de SHL et jusqu’à hauteur d’une somme de 400 000 $ sur l’argent trouvé au domicile et dans le coffre-fort (voir les constatations de fait nos 2 et 17).
+jj
+ff
+oo
+hh
+rr
+L’argent trouvé au domicile et dans le coffre-fort ne provenait pas d’argent comptant payé à l’appelant et à Mme Samaroo par les sociétés à titre de remboursement de dépenses des sociétés que l’appelant ou Mme Samaroo avaient payées.
+Constatations de fait nos 2, 7, 8, 9, 10, 14, 17
+Oui, mais uniquement à l’égard de l’année d’imposition 2005 de SHL et jusqu’à hauteur d’une somme de 400 000 $ sur l’argent trouvé au domicile et dans le coffre-fort (voir les constatations de fait nos 2 et 17).
+kk
+gg
+pp
+ii
+ss
+L’argent trouvé au domicile et dans le coffre-fort ne provenait pas de cadeaux ou de prêts de la part d’amis ou de parents en faveur de l’appelant ou de Mme Samaroo.
+Constatations de fait nos 2, 7, 8, 9, 10, 14, 17
+Oui, mais uniquement à l’égard de l’année d’imposition 2005 de SHL et jusqu’à hauteur d’une somme de 400 000 $ sur l’argent trouvé au domicile et dans le coffre-fort (voir les constatations de fait nos 2 et 17).
+De plus, l’hypothèse n’est contestée ou potentiellement démolie que dans la mesure où les cadeaux de la part d’amis ou de parents n’ont pas été considérés comme des héritages.
+ll
+hh
+qq
+jj
+tt
+L’argent trouvé au domicile et dans le coffre-fort ne provenait pas du revenu gagné et déclaré par l’appelant ou Mme Samaroo, soit dans leurs années d’imposition 2004 et 2005, soit au cours d’années antérieures.
+Constatations de fait nos 2, 7, 8, 9, 10, 14, 17
+Oui, mais uniquement à l’égard de l’année d’imposition 2005 de SHL et jusqu’à hauteur d’une somme de 400 000 $ sur l’argent trouvé au domicile et dans le coffre-fort (voir les constatations de fait nos 2 et 17).
+mm
+ii
+rr
+kk
+uu
+La source de l’argent trouvé au domicile et dans le coffre-fort était de l’argent prélevé sur les recettes de vente des sociétés, soit MGM et SHL.
+Constatations de fait nos 2, 7, 8, 9, 10, 14, 17
+Oui, mais uniquement à l’égard de l’année d’imposition 2005 de SHL et jusqu’à hauteur d’une somme de 400 000 $ sur l’argent trouvé au domicile et dans le coffre-fort (voir les constatations de fait nos 2 et 17).
+nnn
+iii
+rrr
+La valeur des ventes de MGM a été minimisée par l’appelant à raison d’un ruban de caisse enregistreuse par jour, soit une moyenne de 1 552 $ par jour ou 566 378 $, lequel chiffre inclut un montant de TPS de 37 053 $ par année au cours des années d’imposition 2004, 2005 et 2006.
+Constatation de fait no 15
+Oui, parce que la juge Saunders a conclu qu’il était vraisemblable que la hausse des ventes de nourriture de MGM après le mois de mars 2006 était attribuable à de meilleurs contrôles internes et/ou à une diminution de la concurrence.
+vvv
+aaa
+kkk
+La valeur des ventes de SHL a été minimisée par l’appelant et ce ne sont pas toutes les recettes de SHL qui ont été déclarées dans les années d’imposition 2004, 2005 et 2006.
+Constatation de fait no 2
+Oui, mais uniquement à l’égard de l’année d’imposition 2005.
+g
+L’appelant a déclaré en moins un revenu de 1 591 202 $ en 2002, 2005 et 2006.
+Constatation de fait no 2
+Non, parce que la constatation de fait no 2 ne concerne que les affaires fiscales de MGM en 2005.
+g
+L’appelant a déclaré en moins un revenu de 40 168 en 2004, de 81 936 $ en [2005] et de 79 408 $ en 2006.
+Constatation de fait no 2
+Oui, mais uniquement à l’égard de l’année d’imposition 2005.
+www
+jjj
+sss
+bbb
+lll
+L’appelant a donné des instructions au comptable et à l’aide-comptable des sociétés.
+Constatation de fait no 16
+Oui, dans la mesure où ces instructions avaient pour but d’indiquer au comptable et à l’aide-comptable d’effectuer des tâches de comptabilité précises, des tâches que, comme l’a conclu la juge Saunders, l’appelant n’était pas en mesure de comprendre et pour lesquelles il se fiait à ses conseillers.
+aaaa
+nnn
+www
+fff
+ppp
+L’appelant savait qu’il y avait trois quarts de travail par jour et, délibérément, il n’a fourni que les Z de caisse pour deux des trois quarts de travail à l’aide-comptable.
+Constatations de fait nos 3, 4, 5
+Non, parce que, même si la juge Saunders a conclu qu’au cours de 2004 et de 2005, les ventes réalisées au cours de deux des trois quarts de travail étaient consignées ensemble, elle n’a pas tiré de conclusion affirmative en faveur de Tony Samaroo au sujet des Z de caisse.
+eeee
+rrr
+aaaa
+jjj
+ttt
+Tous les mois, des changements au compte d’attente (encaisse) ont été transférés aux comptes de prêt d’actionnaire des sociétés, à la suite d’instructions de l’appelant ou de Mme Samaroo.
+Constatation de fait no 16
+Oui, dans la mesure où les instructions avaient pour but d’indiquer au comptable et à l’aide-comptable d’effectuer des tâches de comptabilité précises, des tâches que, comme l’a conclu la juge Saunders, l’appelant (Tony Samaroo) n’était pas en mesure de comprendre et pour lesquelles il se fiait à ses conseillers.
+ffff
+sss
+bbbb
+kkk
+uuu
+Des crédits nets au compte d’attente (encaisse) qui étaient consignés comme des crédits dans le compte de prêt d’actionnaire étaient en fait des ventes non déclarées des sociétés que les Samaroo s’étaient appropriées.
+Constatations de fait nos 11, 12, 13, 16
+Oui, parce que la juge Saunders a conclu que les augmentations relevées dans les comptes de prêt d’actionnaire des sociétés en 2004 et en 2005 provenaient des économies d’argent personnel et des héritages que Tony et Helen Samaroo avaient déposés.
+hhhh
+uuu
+dddd
+mmm
+www
+Les Samaroo ont payé des dépenses des sociétés avec de l’argent comptant qu’ils s’étaient approprié des sociétés.
+Constatations de fait nos 2, 7, 8, 9, 10, 14, 17
+Oui, mais uniquement à l’égard de l’année d’imposition 2005 de SHL et jusqu’à hauteur d’une somme de 400 000 $ sur l’argent trouvé au domicile et dans le coffre-fort (voir les constatations de fait nos 2 et 17).
+llll
+yyy
+hhhh
+qqq
+aaaa
+Entre le 1er janvier 2004 et le 31 décembre 2005, l’appelant et Mme Samaroo ont reçu une somme d’argent en espèces de 1 754 812 $ dont la source n’est aucun des comptes bancaires, ainsi qu’il est présenté en détail à l’annexe « B », et qu’ils s’étaient appropriés de MGM et de SHL en leur qualité d’actionnaires.
+Constatations de fait nos 2, 7, 8, 9, 10, 14, 17
+Oui, mais uniquement à l’égard de l’année d’imposition 2005 de SHL et jusqu’à hauteur d’une somme de 400 000 $ sur l’argent trouvé au domicile et dans le coffre-fort (voir les constatations de fait nos 2 et 17).
+zzz
+iiii
+Les recettes du restaurant se sont élevées à 1 591 202 $, TPS non comprise, entre le 1er mars 2003 et le 28 février 2006, en plus du montant que l’appelant a indiqué dans ses déclarations de revenus (les « recettes non déclarées »).
+Constatation de fait no 2
+Non, parce que la constatation de fait no 2 ne concerne que les affaires fiscales de MGM en 2005.
+rrr
+bbbb
+Les ventes d’alcool de l’appelante ont été minimisées par l’appelante, ainsi que par M. et Mme Samaroo, d’un montant de 40 168 $, de 81 936 $ et de 79 408 $ dans les années d’imposition 2004, 2005 et 2006, respectivement.
+Constatation de fait nos 2
+Oui, mais uniquement à l’égard de l’année d’imposition 2005.
+uuu
+eeee
+L’appelante a gagné et omis de déclarer des recettes de 201 512 $ entre le 1er mars 2003 et le 28 février 2006, en sus du montant qu’elle a indiqué dans ses déclarations de revenus (les « recettes non déclarées »).
+Constatation de fait nos 2
+Oui, mais uniquement à l’égard de l’année d’imposition 2005.
+vvv
+ffff
+M. et Mme Samaroo se sont appropriés les recettes non déclarées.
+Constatation de fait nos 2
+Oui, mais uniquement à l’égard de l’année d’imposition 2005.
+cccc
+llll
+xxx, aaaa
+hhhh, kkkk
+La source des recettes non déclarées n’a pu être retracée à aucun compte bancaire, contrôlé par l’appelante, SML, SHL ou par M. et Mme Samaroo.
+Constatations de fait nos 7, 8, 9, 10, 14, 17
+Oui, mais uniquement à hauteur d’une somme de 400 000 $ sur l’argent trouvé au domicile et dans le coffre-fort (voir la constatation de fait no 17).
+dddd
+mmmm
+yyy
+iiii
+M. et Mme Samaroo n’ont pas gagné de revenus qui leur auraient permis d’économiser les recettes non déclarées avant 1986, et les recettes non déclarées ne provenaient pas, et n’auraient pas pu provenir, des économies de M. et Mme Samaroo.
+Constatations de fait nos 7, 8, 9, 15, 17
+Oui, parce que la juge Saunders a conclu qu’il était vraisemblable que la hausse des ventes de nourriture de MGM après le mois de mars 2006 était imputable à de meilleurs contrôles internes et/ou à une diminution de la concurrence.
+eeee
+nnnn
+zzz
+jjjj
+La source des recettes non déclarées était des reçus de ventes minimisés de l’appelante, et celle-ci a omis de déclarer ces ventes dans ses déclarations de revenus.
+Constatations de fait nos 7, 8, 9, 10, 14, 17
+Oui, mais uniquement à hauteur d’une somme de 400 000 $ sur l’argent trouvé au domicile et dans le coffre-fort (voir la constatation de fait no 17).
+oooo
+ffff
+oooo
+bbbb
+llll
+Les coffrets de sûreté de l’appelant n’étaient pas la source de l’argent comptant que l’appelant a versé dans ses comptes bancaires personnels, ou dans les comptes bancaires des sociétés, ou qui a servi à payer les dépenses des sociétés.
+Constatations de fait nos 2, 7, 8, 9, 10, 11, 12, 13, 14, 16, 17
+Oui, mais uniquement à l’égard de l’année d’imposition 2005 de SHL et jusqu’à hauteur d’une somme de 400 000 $ sur l’argent trouvé au domicile et dans le coffre-fort (voir les constatations de fait nos 2 et 17).
+qqqq
+hhhh
+qqqq
+dddd
+nnnn
+Ni l’appelant ni Mme Samaroo n’ont gagné des revenus qui leur auraient permis d’économiser l’argent comptant qui a été déposé, et cet argent comptant n’a pas pu, et n’aurait pas pu, provenir de leurs économies.
+Constatations de fait nos 2, 7, 8, 9, 10, 14, 17
+Oui, mais uniquement à l’égard de l’année d’imposition 2005 de SHL et jusqu’à hauteur d’une somme de 400 000 $ sur l’argent trouvé au domicile et dans le coffre-fort (voir les constatations de fait nos 2 et 17).
+tttt
+kkkk
+tttt
+gggg
+qqqq
+La source de l’argent comptant que l’appelant s’est approprié était les reçus de ventes minimisés de MGM et de SHL.
+Constatations de fait nos 2, 7, 8, 9, 10, 14, 17
+Oui, mais uniquement à l’égard de l’année d’imposition 2005 de SHL et jusqu’à hauteur d’une somme de 400 000 $ sur l’argent trouvé au domicile et dans le coffre-fort (voir les constatations de fait nos 2 et 17).
+wwww
+nnnn
+wwww
+jjjj
+tttt
+L’augmentation du solde des comptes de prêt d’actionnaire de l’appelant était due à l’argent comptant que l’appelant s’était approprié de MGM et de SHL et qui était consignée de manière inexacte dans les registres comptables des sociétés à titre de crédits aux comptes de prêt d’actionnaire des sociétés.
+Constatations de fait nos 11, 12, 13, 16
+Oui, parce que la juge Saunders a conclu que les augmentations relevées dans les comptes de prêt d’actionnaire des sociétés en 2004 et en 2005 provenaient de dépôts d’économies en argent personnelles et d’héritages de Tony Samaroo et de Helen Samaroo.
+xxxx
+oooo
+xxxx
+kkkk
+uuuu
+La source de l’argent que l’appelant s’est approprié était des reçus de ventes minimisés de MGM et de SHL.
+Constatations de fait nos 2, 7, 8, 9, 10, 14, 17
+Oui, mais uniquement à l’égard de l’année d’imposition 2005 de SHL et jusqu’à hauteur d’une somme de 400 000 $ sur l’argent trouvé au domicile et dans le coffre-fort (voir les constatations de fait nos 2 et 17).
+yyyy
+pppp
+yyyy
+llll
+vvvv
+Entre le 1er janvier 2004 et le 31 décembre 2005, l’appelant, en sa qualité d’actionnaire, a payé des dépenses de MGM, de SHL et de SML d’un montant total de 594 778 $ [43] , comme il est indiqué en détail à l’annexe « B », en se servant d’argent comptant non lié à un compte bancaire quelconque en tant que source, et qui était de l’argent obtenu de MGM et de SHL.
+Constatations de fait nos 2, 7, 8, 9, 10, 14, 17
+Oui, mais uniquement à l’égard de l’année d’imposition 2005 de SHL et jusqu’à hauteur d’une somme de 400 000 $ sur l’argent trouvé au domicile et dans le coffre-fort (voir les constatations de fait nos 2 et 17).
+zzzz
+qqqq
+zzzz
+mmmm
+wwww
+L’augmentation du solde des comptes de prêt d’actionnaire de l’appelant pour les dépenses payées par l’appelant pour le compte des sociétés est attribuable à de l’argent comptant que l’appelant a tiré de MGM et de SHL et qu’il a consigné de manière inexacte dans les registres comptables des sociétés à titre de crédits aux comptes de prêt d’actionnaire des sociétés.
+Constatations de fait nos 11, 12, 13, 16
+Oui, parce que la juge Saunders a conclu que les augmentations relevées dans les comptes de prêt d’actionnaire des sociétés en 2004 et en 2005 provenaient de dépôts d’économies en argent personnelles et d’héritages de Tony Samaroo et de Helen Samaroo.
+aaaaa
+rrrr
+aaaaa
+nnnn
+xxxx
+La source de l’argent que l’appelant s’est approprié était des reçus de ventes minimisés de MGM et de SHL.
+Constatations de fait nos 2, 7, 8, 9, 10, 14, 17
+Oui, mais uniquement à l’égard de l’année d’imposition 2005 de SHL et jusqu’à hauteur d’une somme de 400 000 $ sur l’argent trouvé au domicile et dans le coffre-fort (voir les constatations de fait nos 2 et 17).
+RÉFÉRENCE :
+2016 CCI 290
+Nos DE DOSSIER DE LA COUR :
+2012-2998(IT)G, 2012-3001(IT)G, 2012-2997(GST)G, 2012-3147(GST)G, 2012-3148(IT)G, 2012-3149(GST)G, 2012-3150(IT)G
+INTITULÉ :
+TONY SAMAROO, HELEN SAMAROO, TONY SAMAROO et HELEN SAMAROO, SAMAROO HOLDINGS LTD., MGM RESTAURANTS LTD. C. LA REINE
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 9 septembre 2016
+MOTIFS DE L’ORDONNANCE :
+Le juge Randall S. Bocock
+DATE DE L’ORDONNANCE :
+Le 19 décembre 2016
+COMPARUTIONS :
+Avocats des appelants :
+Me Gavin Laird
+Me Declan Redman
+Avocats de l’intimée :
+Me David Everett
+Me Lisa McDonald
+AVOCATS INSCRITS AUX DOSSIERS :
+Pour les appelants :
+Nom :
+Me Gavin Laird
+Me Declan Redman
+Cabinet :
+Laird & Company
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] R. c. W.(D.), [1991] 1 RCS 742.
+[2] Loi de l’impôt sur le revenu (L.R.C. (1985), ch. 1 (5e suppl.)).
+[3] Angle c. MRN [1975] 2 RCS 248, à la page 254; dans la présente, chaque élément est abrégé, comme suit, respectivement : « symétrie des questions en litige », « irrévocabilité » et « identité des parties ».
+[4] Danyluk c. Ainsworth Technologies Inc., [2001] ACS no 46, au paragraphe 33.
+[5] Citant l’arrêt Schweneke (2000), 47 0R (3d) 97 (CA), aux paragraphes 38 et 43.
+[6] Toronto (Ville) c. S.C.F.P. section locale 79, 2003 CSC 63, aux paragraphes 36 et 37.
+[7] Ibidem, au paragraphe 53.
+[8] Ibidem.
+[9] Golden c. La Reine, 2008 CCI 173, au paragraphe 29.
+[10] Ibidem, au paragraphe 42.
+[11] R. c. Mahalingan, 2008 CSC 63.
+[12] Arrêt Mahalingan, au paragraphe 23.
+[13] La décision Samaroo no 2 portait sur des demandes déposées par les parties à l’égard de l’action civile intentée par les Samaroo contre l’ARC et ses fonctionnaires pour enquête négligente et poursuite abusive à la suite de la décision Samaroo no 1. Dans la décision Samaroo no 2, le juge Punnett a conclu que la préclusion avait pour effet de mener au rejet de la demande de l’ARC, à savoir que Tony Samaroo soit contraint de fournir des renseignements et des documents manquants qui avaient un lien avec certaines demandes qu’on lui avait faites lors de son interrogatoire préalable.
+[14] Polgrain Estate v. Toronto East General Hospital [2008] OJ no 2092 (CA), où la conclusion du juge présidant le procès criminel selon laquelle l’accusé était innocent à l’égard de la totalité des éléments de preuve va au-delà de la question de la culpabilité hors de tout doute raisonnable.
+[15] Décision Samaroo no 2, au paragraphe 123.
+[16] Anchor Pointe Energy Ltd. c. Canada, 2007 CAF 188, au paragraphe 28.
+[17] Décision Samaroo no 2, au paragraphe 84.
+[18] Houda International Inc. c. La Reine, 2010 CCI 622, au paragraphe 4.
+[19] Ibidem, au paragraphe 27.
+[20] Décision Samaroo no 2, au paragraphe 84.
+[21] Paragraphe 12(1) de la Loi sur la Cour canadienne de l’impôt, L.R.C. (1985), ch. T-2, dans sa forme modifiée.
+[22] Hickman Motors Ltd c. Canada, [1997] 2 RCS 336, aux paragraphes 92 et 93.
+[23] Ibidem, aux paragraphes 94 et 95.
+[24] Ibidem, au paragraphe 92.
+[25] Ibidem, au paragraphe 93.
+[26] House, aux paragraphes 4 et 5; McMillan c. Canada, 2012 CAF 126, aux paragraphes 7 et 8; Amiante Spec. Inc. c. Canada., 2009 CAF 139, aux paragraphes 15, 16, 23 et 24.
+[27] Arrêt Anchor Pointe, aux paragraphes 27 et 28; F.H. c. McDougall, 2008 CSC 53, au paragraphe 49; Succession de Vine c. Canada, 2015 CAF 125, au paragraphe 25.
+[28] Bekesinski c. La Reine, 2014 CCI 245, au paragraphe 21.
+[29] Northland Properties Corp. v. BC, 2010 BCCA 177, au paragraphe 27.
+[30] Ibidem, au paragraphe 29.
+[31] Johnston v. MNR, [1948] SCR 486, aux paragraphes 7 et 9; sans doute le paragraphe 152(8) de la Loi, et le paragraphe 135(2) des Règles de la Cour canadienne de l’impôt (Règles générales).
+[32] Arrêt Hickman Motors, au paragraphe 93.
+[33] Anderson Logging Co v. R, [1925] RCS 45, au paragraphe 9.
+[34] Transocean Offshore Ltd c. Canada, 2005 CAF 104, au paragraphe 35 et Anchor Pointe Energy Ltd c. Canada, 2007 CAF 188, aux paragraphes 35 et 36.
+[35] Mungovan c. La Reine, 2001 CCI 568, aux paragraphes 13 et 14.
+[36] La décision Tony Samaroo and Helen Samaroo v. HMTQ, 2012-2997(GST)G n’est pas prise en compte dans l’analyse car les constatations de fait que la juge Saunders a établies dans la décision Samaroo no 1 ne sont liées à aucune hypothèse pertinente particulière en matière de cotisation dans cet appel.
+[37] Le texte des hypothèses liées à la cotisation qui figure dans cette colonne est tiré de la réponse du ministre en rapport avec l’appel situé le plus à gauche dans la présente pièce pour lequel un alinéa est indiqué. Par exemple, si un alinéa n’est pas indiqué pour TS(IT) et HS(IT), mais l’est pour les quatre autres appels restants, c’est donc dire que le texte de l’hypothèse liée à la cotisation qui est reproduite dans cette pièce est tiré des hypothèses du ministre qui sont énoncées au paragraphe 15 de la réponse à l’appel modifié de nouveau concernant MGM(IT), et ainsi de suite.
+[38] Se rapporte aux hypothèses du ministre qui sont présentées au paragraphe 19 de la réponse à l’appel modifié de nouveau concernant Tony Samaroo v. HMTQ, 2012-2998(IT)G, [TS(IT)] ainsi qu’au paragraphe 20 de la réponse à l’appel modifié de nouveau concernant Helen Samaroo v. HMTQ, 2012-3001(IT)G, [HS(IT)]. Les deux séries d’hypothèses sont essentiellement identiques et comportent les mêmes alinéas. Elles sont donc analysées ensemble.
+[39] Se rapporte aux hypothèses du ministre qui sont présentées au paragraphe 15 de la réponse à l’appel modifié de nouveau concernant MGM Restaurants Ltd v. HMTQ, 2012-3150(IT)G, [MGM(IT)].
+[40] Se rapporte aux hypothèses du ministre qui sont présentées au paragraphe 13 de la réponse à l’appel modifié de nouveau concernant MGM Restaurants Ltd v. HMTQ, 2012-3149(GST)G, [MGM(GST)].
+[41] Se rapporte aux hypothèses du ministre qui sont présentées au paragraphe 13 de la réponse à l’appel modifié de nouveau concernant Samaroo Holdings Ltd v. HMTQ, 2012-3148(IT)G, [SHL(IT)].
+[42] Se rapporte aux hypothèses du ministre qui sont présentées au paragraphe 12 de la réponse à l’appel modifié de nouveau concernant Samaroo Holdings Ltd v. HMTQ, 2012-3147(GST)G, [SHL(GST)].
+[43] Le montant des dépenses que Tony Samaroo a payées au moyen d’argent comptant tiré de MGM et de SHL est de 594 778 $, comme il est indiqué dans l’acte de procédure du ministre concernant TS(IT). Cependant, le montant indiqué est de 638 267 $ dans tous les autres actes de procédure en réponse que l’intimée a produits, sauf pour Tony and Helen Samaroo v. HMTQ, 2012-2997(GST)G, dont il n’est pas question dans la présente annexe II.

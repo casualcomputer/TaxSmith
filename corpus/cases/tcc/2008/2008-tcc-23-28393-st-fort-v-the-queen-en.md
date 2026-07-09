@@ -1,0 +1,151 @@
+---
+title: "St-Fort v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28393/index.do"
+last_modified: "2008-01-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 23"
+citation2: ""
+neutral_citation: "2008 TCC 23"
+decision_date: "2008-01-21"
+language: "en"
+item_id: "28393"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1912
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:37:55.861000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "484ec505c6703d57fda1010999d4a574a532d362ebeac8cb793fd4d317bd6a3e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# St-Fort v. The Queen
+
+- Citation: 2008 TCC 23
+- Decision date: 2008-01-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1912, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+St-Fort v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-01-21
+Neutral citation
+2008 TCC 23
+File numbers
+2003-1581(IT)G
+Judges and Taxing Officers
+Pierre Archambault
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2008TCC23
+Date: 20080121
+Dockets: 2003-1581(IT)G
+2003-1582(IT)G
+BETWEEN:
+ROGER ST‑FORT,
+ANTONINE ST‑FORT,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+(Delivered orally from the bench on November 5, 2007,
+at Ottawa, Ontario, and amended for greater clarity and precision.)
+Archambault J.
+[1] The appellants, Mr. and Mrs. St-Fort, are appealing assessments made by the Minister of National Revenue ("the Minister") under section 160 of the Income Tax Act ("the Act"). The Minister is holding the appellants jointly and severally liable for the tax debts of their son René St‑Fort, which total $365,238. The appellants are contesting the Minister's assessments because they believe that their son did not transfer any immovable to them.
+[2] At the beginning of the hearing, the appellants admitted essentially all the facts assumed by the Minister, subject to what I have to say later on in these reasons. I reproduce here paragraph 10 of the reply to Roger St-Fort's notice of appeal ("the Reply"):
+[TRANSLATION]
+(a) on June 2, 1992, René St‑Fort and Fausta Delbeau acquired a property located at 48 Chemin du Roc Est, Chelsea, Quebec ("the immovable") for $250,000;
+(b) the purchase of the immovable was financed through a $50,000 down payment, a $150,000 first-ranking hypothec from the National Bank of Canada ("the National Bank") and a $50,000 second-ranking hypothec from the Hongkong Bank;
+(c) on December 20, 1992, Fausta Delbeau transferred her share in the immovable to René St‑Fort;
+(d) the appellant is René St‑Fort's father and Fausta Delbeau's father-in-law;
+(e) as of April 1996, René St‑Fort and Fausta Delbeau ceased making the monthly principal and interest payments on their hypothecary loan from the National Bank;
+(f) on September 18, 1996, the National Bank gave a notice of intent to take the property in payment, which was published on September 26, 2003;
+(g) on December 13, 1996, the National Bank filed against René St‑Fort and Fausta Delbeau in the Superior Court of Quebec a motion for forced surrender and for taking in payment;
+(h) on January 10, 1997, the Superior Court of Quebec granted the National Bank the right to possess the immovable, and ordered René St‑Fort and Fausta Delbeau to voluntarily surrender the property;
+(i) on January 31, 1997, the appellant and his spouse registered on the immovable a $130,000 hypothec granted to the Caisse Populaire St‑Jean Bosco;
+(j) on February 13, 1997, the National Bank renounced the judgment of January 10, 1997;
+(k) by notarial deed dated April 1, 1997, the National Bank, in consideration of the payment of $142,016.52, subrogated the appellant and his spouse into all its rights, in particular its rights in respect of any hypothecary proceedings against the immovable;
+(l) on April 7, 1997, a copy of the notarial deed of April 1, 1997, was published in the Gatineau registration division;
+(m) on June 23, 1997, a motion for forced surrender and for taking in payment was brought before the Superior Court of Quebec by the National Bank as original applicant and by the appellant and his spouse as applicants in the continuance of suit;
+(n) on June 27, 1997, the Superior Court ordered René St‑Fort and Fausta Delbeau to surrender the immovable to the appellant and his spouse and declared the appellant and his spouse sole owners thereof retroactive to the registration of the notice of intent, that is, September 26, 1996;
+(o) René St‑Fort and Fausta Delbeau have been living in the immovable since June 1992 and have never surrendered it;
+(p) at the time of the transfer, that is, on April 7, 1997, René St‑Fort's liability to the Minister of National Revenue was $365,238.69;
+(q) at the time of the transfer, that is, on April 7, 1997, the immovable's fair market value was $220,000; and
+(r) at the time of the transfer, that is, on April 7, 1997, the appellant and his spouse acquired the immovable for a consideration of $142,016.52.
+[3] The appellants admit subparagraph (o) provided the reference to Fausta Delbeau is removed. Indeed, Ms. Delbeau ceased to live in the immovable following her separation from René St‑Fort and the assignment of her share in it to René St‑Fort, which was entered in the land register on December 29, 1992.[1] The appellants were not able to admit the amount of their son's tax liability referred to in subparagraph 10(p) of the Reply, but they did not dispute it either.
+[4] The sole issue to be determined is whether the immovable was indeed transferred from René St‑Fort to the appellants. More specifically, the dispute has to do with the effect of the National Bank's renunciation (of the judgment of January 10, 1997) dated February 13, 1997 and filed on the same date. (See the renunciation tendered as Exhibit A‑1, Tab 10).
+[5] Following the National Bank's assignment of its hypothecary claim to the appellants by notarial deed on April 1, 1997, as stated in subparagraph 10(k) of the Reply (admitted by the appellants), the appellants were subrogated into all the National Bank's rights in relation to any hypothecary proceedings that could be brought as a result of René St‑Fort's failure to pay his hypothecary debt to the bank.
+[6] After the appellants continued the suit on May 27, 1997, the Superior Court of Quebec rendered a new decision on June 27, 1997. The judgment was signed by special registrar Yves Daoust, the same person who had signed the judgment of January 10, 1997. By its judgment of June 27, 1997, the Superior Court of Quebec recognized the appellants' ownership of the immovable by virtue of their having received it in payment of the hypothecary claim that they had obtained from the National Bank under the terms of the notarial deed of April 1, 1997, and for which they had paid $142,016.52. The defendants in the continuance of suit were René St‑Fort and Fausta Delbeau. Consequently, the judgment of June 27, 1997, applies to both of them, even though, at the time of the judgment, René St‑Fort was the sole owner of the residence located at 48 Chemin du Roc Est in Chelsea, and the appellants became the owners of that immovable by reason of the judgment.
+The parties' positions
+[7] Essentially, the position taken by the appellants was that, at the time of the judgment of June 27, 1997, their son was no longer the owner of the immovable, that is, his residence in Chelsea. Consequently, they submitted, they became owners of the residence through a transfer by the National Bank to them.
+[8] In her oral argument, counsel for the respondent referred the Court to article 476 of Quebec's Code of Civil Procedure, which provides as follows:
+A party may renounce rights arising from a judgment rendered in his favour, by filing in the office of the court a total or partial renunciation signed by him or by his special attorney. A total renunciation accepted by the opposite party places the case in the position it was in immediately before the judgment.
+[9] It is true that a reading of the renunciation itself might suggest that it was not signed in a personal capacity by a bank representative (or special attorney). However, counsel for the respondent raised the possibility that the document filed as Exhibit A‑1, at Tab 10, might not be complete, and that there might be another document bearing the National Bank's signature (or that of a special attorney).
+[10] In any event, counsel relied on article 2944 of the Civil Code of Québec, which states that "[r]egistration of a right in the register of personal and movable real rights or the land register carries, in respect of all persons, simple presumption of the existence of that right." The evidence adduced by the appellants discloses that the first judgment rendered by the Superior Court on January 10, 1997, was never registered in the land register, as shown by Tab 14 of Exhibit A‑1. The only judgment to be found there is that of June 27, 1997, which was registered on August 18, 1997, and which was rendered following the continuance of the suit by the appellants on May 27, 1997, as appears from Exhibit A‑1, Tabs 12, 13 and 14.
+Analysis
+[11] In my opinion, the appellants' position is wrong in law as, on February 13, 1997, the National Bank renounced its ownership of the immovable, which it had obtained under the Superior Court judgment of January 10, 1997. Under article 476 of the Code of Civil Procedure, the bank could renounce the rights that had been conferred upon it by that judgment, namely, the ownership of the immovable, and the renunciation of the judgment put the case in the position it was in prior to the judgment of January 10, 1997, that is to say, René St‑Fort was restored to the status of owner and the National Bank was restored to the status of René St‑Fort's hypothecary creditor.
+[12] Since the bank transferred the hypothecary claim to the appellants in April 1997, with subrogation rights, by reason of the appellants' paying the bank $142,016.52, the appellants were the ones who had the right to continue the suit against René St‑Fort, which in fact they did with the co-operation of Louis Bertrand, who was the National Bank's lawyer at the time, but who subsequently became the appellants' lawyer.
+[13] Roger St‑Fort acknowledged that it was his son, an immigration lawyer practising in the National Capital Region, who introduced him to Mr. Bertrand, and that it was following steps taken by Mr. Bertrand that the National Bank's renunciation of the judgment came about. As I stated earlier, the effect of this was the retrocession of the ownership of the Chelsea residence to René St‑Fort and then the subrogation of the appellants into the National Bank's rights, which enabled them to continue the proceedings for the payment of the hypothecary claim and to avail themselves of the giving in payment clause in the deed of hypothec signed by the National Bank and their son (Exhibit A‑1, Tab 5, clause 9).
+[14] I accept the arguments put forward by counsel for the respondent in support of the validity of the renunciation of the judgment, even though the bank did not personally sign the renunciation document. Moreover, Serge Bastien, as the person duly authorized by the National Bank's board of directors, signed on the bank's behalf the subrogation document in favour of the appellants, and the National Bank is named as the [TRANSLATION] "original plaintiff" in the appearance filed in connection with the continuance of suit (Exhibit A‑1, Tab 12).
+[15] If it had been in the National Bank's interest to seek the annulment of the renunciation, it would have done so. In any event, the only judgment recorded in the land register is the judgment of June 27, 1997. The proceedings herein are for the recovery of a tax debt by the Minister under section 160. In such proceedings, the Minister is entitled, in my view, to rely on the land register, which indicated that the appellants had become the owners of the immovable pursuant to the judgment of the Superior Court of Quebec dated June 27, 1997. Consequently, as a third party, the Minister is entitled to the benefit of article 2944 of the Civil Code.
+[16] In Roger Riverin and Les Placements R.I.O. Inc. v. The Queen, [1999] F.C.J. No. 913 (QL), 99 DTC 5356, the Federal Court of Appeal affirmed two decisions of the Tax Court of Canada: my decision in Riverin v. R., 1995 CarswellNat 1727, and the decision of Judge Lamarre Proulx in Les Placements R.I.O. Inc. v. Canada, [1996] T.C.J. No. 695 (QL). The Federal Court of Appeal confirmed that, in situations similar to the appellants', that is to say, where the Superior Court orders that the possession of an immovable be given to hypothecary creditors who have the benefit of a giving in payment clause, and declares them to be the [TRANSLATION] "sole and exclusive owners" of the immovable, there is a transfer, "either directly or indirectly, by means of a trust or by any other means whatever", and this "gives rise to the process by which [the tax debtor's] property will ultimately end up in the patrimony of any of these persons with whom he has a non‑arm's length relationship."[2]
+[17] Here, the appellants acknowledge that René St‑Fort is their son; thus, they are connected by a blood relationship. This relationship means that they are related persons within the meaning of subsection 251(2) of the Act and therefore are deemed, under paragraph 251(1)(a) of the Act, not to be dealing with each other at arm's length.
+[18] Thus, the condition for the application of section 160 of the Act which is disputed here — namely, the condition with regard to the transfer of property to persons (here, René St-Fort's parents) with whom the transferor (René St-Fort) was not dealing at arm's length — has been met. By virtue of the judgment rendered by the Quebec Superior Court,[3] the immovable located in Chelsea left René St‑Fort's patrimony and became part of his parents' patrimony.
+[19] For all these reasons, the appellants' appeals are dismissed, with costs.
+Signed at Ottawa, Canada, this 21st day of January 2008.
+"Pierre Archambault"
+Archambault J.
+Translation certified true
+on this 27th day of June 2008.
+Erich Klein, Revisor
+CITATION: 2008TCC23
+COURT FILE NOS.: 2003-1581(IT)G and 2003-1582(IT)G
+STYLE OF CAUSE: ROGER ST‑FORT v.
+HER MAJESTY THE QUEEN and
+ANTONINE ST‑FORT v.
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Ontario
+DATE OF HEARING: November 5, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Pierre Archambault
+DATE OF JUDGMENT: November 9, 2007
+DATE OF REASONS
+FOR JUDGMENT: January 21, 2008
+APPEARANCES:
+For the Appellants:
+Roger St-Fort
+Counsel for the Respondent:
+Justine Malone
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] See the index of immovables (Exhibit A‑1, Tab 14) and subparagraph 10(c) of the Reply, reproduced above.
+[2] Marceau J.A. in Riverin, supra, at paragraph 3.
+[3] Giving effect to the giving in payment stipulated by René St‑Fort in the deed of hypothec signed by him and the National Bank.

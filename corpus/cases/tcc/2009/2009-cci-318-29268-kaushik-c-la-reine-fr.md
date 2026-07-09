@@ -1,0 +1,140 @@
+---
+title: "Kaushik c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29268/index.do"
+last_modified: "2009-06-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 318"
+citation2: ""
+neutral_citation: "2009 CCI 318"
+decision_date: "2009-06-09"
+language: "fr"
+item_id: "29268"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7008
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:49:49.979000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6bf24b9fbda80f398d8cfcfbec6809b0b7f03142ab3098b4c02711484a1152c7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kaushik c. La Reine
+
+- Citation: 2009 CCI 318
+- Decision date: 2009-06-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7008, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kaushik c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-06-09
+Référence neutre
+2009 CCI 318
+Numéro de dossier
+2007-1585(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-1585(IT)I
+ENTRE :
+AZAD KUMAR KAUSHIK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 9 juin 2009, à Hamilton (Ontario).
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me George Boyd Aitken
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre des cotisations établies à l’égard de l’appelant en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2003 et 2004 est accueilli, sans dépens, et les cotisations sont renvoyées au ministre du Revenu national pour qu’il les examine de nouveau et établisse de nouvelles cotisations en tenant compte du fait que l’appelant n’est pas tenu d’inclure dans le calcul de son revenu ou dans son revenu imposable les montants que son fils a reçus de l’Université de Guelph au titre de la réduction de ses frais de scolarité.
+La Cour ordonne au greffe de rembourser à l’appelant son droit de dépôt.
+Signé à Toronto (Ontario), ce 11e jour de juin 2009.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 20e jour de juillet 2009.
+Alya Kaddour‑Lord, traductrice
+Référence : 2009 CCI 318
+Date : 20090611
+Dossier : 2007-1585(IT)I
+ENTRE :
+AZAD KUMAR KAUSHIK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] Le 22 mars 2007, Azad Kaushik a déposé un avis d’appel relativement aux cotisations établies à son égard en vertu de la Loi de l’impôt sur le revenu (la « Loi ») pour les années d’imposition 2003 et 2004.
+[2] La question en litige porte sur un programme de gratuité des frais de scolarité offert par l’employeur de M. Kaushik, l’Université de Guelph. Dans les cotisations en cause, le ministre du Revenu national (le « ministre ») a inclus dans le calcul du revenu de M. Kaushik un montant à titre d’avantage relatif à l’emploi reçu dans le cadre du programme en question. Le montant que le ministre a inclus dans le revenu de l’appelant s’élevait à 4 000 $ pour chacune des années d’imposition en cause.
+[3] À l’audience, l’intimée a entièrement concédé ce point. Son avocat a expliqué que cette décision découlait de l’arrêt Canada c. Bartley et Canada c. DiMaria, 2008 CAF 390, que la Cour d’appel fédérale a rendu le 9 décembre 2008.
+[4] La seule question dont la Cour est saisie est celle de l’adjudication des dépens.
+[5] M. Kaushik, qui se représentait lui‑même à l’audience, a sollicité les dépens afférents au présent appel. Il affirme que l’Agence du revenu du Canada a traité l’appel de façon négligente et qu’elle aurait dû concéder plus tôt le bien‑fondé de la question. Il a déclaré qu’un de ses collègues avait reçu une cotisation identique, qui a été annulée à une étape moins avancée du processus, et il affirme qu’il aurait dû recevoir le même traitement.
+[6] L’avocat de l’intimée m’a informée qu’il n’était pas au courant de l’arrangement conclu avec le collègue de M. Kaushik et qu’il s’opposait vigoureusement à ce que l’appelant se voie adjuger les dépens. Au contraire, il laisse plutôt entendre qu’il pourrait être approprié d’adjuger les dépens à l’intimée, conformément à une nouvelle disposition des Règles de la Cour canadienne de l’impôt (procédure informelle), le paragraphe 10(2), qui prévoit que les dépens seront adjugés à l’intimée en cas de retard indu. L’avocat de l’intimée a néanmoins déclaré qu’il ne tenait pas essentiellement à ce que la Cour applique cette disposition.
+[7] Après avoir étudié les observations des deux parties, je conclus que celles‑ci devraient assumer leurs propres dépens en l’espèce.
+[8] Je voudrais d’abord souligner que l’audition du présent appel a été reportée à deux reprises, à la demande de l’appelant d’abord, et à celle de l’intimée ensuite. Quand elle a accepté de reporter l’audience pour la deuxième fois, ce à quoi M. Kaushik semblait s’opposer, la Cour a convenu de suspendre le procès jusqu’à ce qu’une décision ait été rendue dans l’arrêt Bartley et DiMaria susmentionné. La Cour a ordonné aux parties de l’aviser de leurs intentions dans les 30 jours suivant la date de ce jugement.
+[9] Après avoir étudié le dossier, il m’apparaît que l’intimée n’a pas répondu à la Cour dans le délai prescrit de 30 jours, nonobstant le fait que la Cour a envoyé une lettre à l’avocat de l’intimée en vue de lui rappeler l’existence dudit délai, et ce, peu de temps après que le jugement attendu eut été rendu public. L’avocat de l’intimée n’a répondu qu’au bout d’environ 90 jours, informant la Cour que sa cliente avait besoin d’un peu plus de temps pour revoir sa position.
+[10] Je ne comprends pas pourquoi l’intimée a répondu à la Cour aussi tardivement, surtout quand on considère que la suspension du procès avait été accordée contre la volonté de M. Kaushik. Je comprends parfaitement que l’intimée ait pu avoir besoin de davantage de temps pour prendre position sur la question en litige, qui touche apparemment des centaines de contribuables. Toutefois, cela n’explique pas pourquoi l’intimée n’a pas écrit à la Cour avant l’expiration du délai prescrit pour lui exposer les raisons pour lesquelles elle avait besoin de plus de temps.
+[11] Par ailleurs, il convient également de souligner que le 13 mai 2009, l’intimée a envoyé une offre de règlement écrite à M. Kaushik par courrier prioritaire. L’offre figurait dans un formulaire de consentement à jugement, l’intimée proposant que l’appel soit accueilli, sans dépens. Cette offre a été faite quelques semaines avant la date fixée pour l’audience.
+[12] M. Kaushik a rejeté l’offre de règlement. L’intimée s’est efforcée de savoir quelle autre conclusion M. Kaushik recherchait en échangeant avec lui une série de courriers électroniques, mais ce dernier a refusé de fournir cette information (affidavit de Joelle Labrie, pièce C).
+[13] Si M. Kaushik avait informé l’intimée qu’il sollicitait les dépens, l’audience, avec ses contraintes de présence et de coût, aurait très bien pu être évitée. Rien n’indique que M. Kaushik ait fourni cette information avant la date de l’audience.
+[14] M. Kaushik fait valoir que l’intimée aurait dû céder plus tôt. Je m’inscris en faux. Compte tenu des circonstances, notamment des centaines d’appels similaires en suspens et du fait que la Cour d’appel fédérale n’a rendu sa décision que le 9 décembre 2008, je ne peux conclure que l’intimée a fait preuve de mauvaise volonté à l’égard de M. Kaushik.
+[15] Compte tenu de toutes les circonstances prévalant en l’espèce, je conclus que les parties devraient assumer leurs propres dépens.
+[16] Par conséquent, l’appel est accueilli, sans dépens, et les cotisations sont renvoyées au ministre pour qu’il les examine de nouveau et établisse de nouvelles cotisations en tenant compte du fait que l’appelant n’est pas tenu d’inclure dans le calcul de son revenu ou dans son revenu imposable les montants que son fils a reçus de l’Université de Guelph au titre de la réduction de ses frais de scolarité.
+Signé à Toronto (Ontario), ce 11e jour de juin 2009.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 20e jour de juillet 2009.
+Alya Kaddour‑Lord, traductrice
+RÉFÉRENCE : 2009 CCI 318
+NO DU DOSSIER DE LA COUR : 2007-1585(IT)I
+INTITULÉ : Azad Kumar Kaushik et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Hamilton (Ontario)
+DATE DE L’AUDIENCE : Le 9 juin 2009
+MOTIFS DU JUGEMENT : L’honorable juge J. M. Woods
+DATE DU JUGEMENT : Le 11 juin 2009
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me George Boyd Aitken
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

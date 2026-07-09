@@ -1,0 +1,202 @@
+---
+title: "Dolbec c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26942/index.do"
+last_modified: "2004-04-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 232"
+citation2: ""
+neutral_citation: "2004 TCC 232"
+decision_date: "2004-04-13"
+language: "en"
+item_id: "26942"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 583
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:36:16.235000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "78bf1ff1d631c520d1b3d43e0a91106050151c2e9ced04e34e080627a0297b85"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Dolbec c. M.R.N.
+
+- Citation: 2004 TCC 232
+- Decision date: 2004-04-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 583, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dolbec c. M.R.N.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-04-13
+Neutral citation
+2004 TCC 232
+File numbers
+2003-1339(EI)
+Judges and Taxing Officers
+Sylvio J. Savoie
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2003-1339(EI)
+BETWEEN:
+MONIQUE DOLBEC,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on November 28, 2003, at Québec, Quebec
+Before: The Honourable Deputy Justice S. J. Savoie
+Appearances:
+Counsel for the Appellant:
+Jérôme Carrier
+Counsel for the Respondent:
+Stéphanie Côté
+JUDGMENT
+The appeal is allowed and the decision of the Minister is vacated in accordance with the attached Reasons for Judgment.
+Signed at Grand-Barachois, New Brunswick, this 13th day of April 2004.
+"S. J. Savoie"
+Savoie D.J.
+Translation certified true
+on this 26th day of August 2004.
+Shulamit Day, Translator
+Citation: 2004TCC232
+Date: 20040413
+Docket: 2003-1339(EI)
+BETWEEN:
+MONIQUE DOLBEC,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Savoie D.J.
+[1] This appeal was heard at Québec, Quebec, on November 28, 2003.
+[2] This is an appeal to determine whether the Appellant's employment was insurable, within the meaning of the Employment Insurance Act (the "Act"),
+during the periods at issue, from September 7, 1998, to March 5, 1999, from September 27, 1999, to March 31, 2000, from September 4, 2000, to March 23, 2001, and from October 1, 2001, to April 5, 2002, while she was employed by Ferme Chevro Inc., the Payor.
+[3] On March 20, 2003, the Minister of National Revenue (the "Minister") notified the Appellant of his decision that this employment, for the periods at issue, was not insurable because a similar contract of employment would not have been entered into if there had been an arm's-length relationship between her and the Payor.
+[4] At the hearing, Counsel for the Appellant presented a motion for permission to submit an amended Reply to the Notice of Appeal. The Court granted this request.
+[5] In making his decision, the Minister relied on the following assumptions of fact outlined in paragraph 5 of the Reply to the Notice of Appeal, which were admitted or denied by the Appellant:
+[translation]
+(a) The Payor was incorporated on January 31, 1994; (admitted)
+(b) The Payor's sole shareholder was Roger Masson; (admitted)
+(c) The Appellant has been Roger Masson's spouse for approximately 10 years; (admitted)
+(d) The Payor operated a dairy and grain farm (70 head of livestock including heifers (pregnant and not pregnant), 36 dairy cattle, and barley); (admitted)
+(e) The farm operated year round but the period of most activity was the summer season; (admitted)
+(f) Since 1993, the Appellant had worked for the Payor as a farm assistant; (admitted)
+(g) The Appellant's duties included taking care of the farm routine, feeding the animals, milking the cows, cleaning the stable, taking care of the accounting, running errands and making meals for casual employees; (admitted)
+(h) According to the Appellant, she worked Monday to Friday; in reality she worked every day of the week; (denied)
+(i) During the periods at issue, the Appellant was always entered in the Payor's payroll for 40 hours of work per week, or eight hours per day, Monday to Friday; (admitted)
+(j) In 1998, the Payor paid the Appellant $250 per week, in 1999 and 2000, $270 per week and in 2001 and 2002, $300 per week; (admitted)
+(k) There were no employees on the Payor's payroll for the periods from February 15, 1998, to May 30, 1998, from March 7, 1999, to May 7, 1999, from April 2, 2000, to June 17, 2000, from March 25, 2001 to April 28, 2001; (admitted)
+(l) A farm of 70 head required two employees all year; (denied)
+(m) On September 13, 2002, The Payor stated to an agent of the Respondent that he did not have the means to pay two salaries at the same time; (denied)
+(n) The Appellant's alleged periods of employment did not correspond to the Payor's periods of greatest activity; (denied)
+(o) On March 5, 1999, the Payor issued a Record of Employment to the Appellant that indicated her first day of work as September 7, 1998, and the last day worked as March 5, 1999. The number of insurable hours were 992 and the total insurable pay was $7,020.00; (admitted)
+(p) On March 31, 2000, the Payor issued a Record of Employment to the Appellant, which indicated her first day of work as September 27, 1999, and the last day of work as March 31, 2000. The number of insurable hours were 1,050 and total insurable pay was $7,290.00; (admitted)
+(q) On March 22, 2001, the Payor issued a Record of Employment to the Appellant that indicated her first day of work was September 4, 2000, and her last day worked was March 23, 2001, the number of insurable hours were 1,104 and total insurable pay was $8,190.00; (admitted)
+(r) On April 5, 2002, the Payor issued a Record of Employment that indicated the Appellant's first day of work as October 1, 2001, and the last day of work as April 5, 2002, the number of insurable hours were 1,080 and total insurable pay was $8,100.00; (admitted)
+(s) The Appellant rendered services to the Payor during her alleged layoff periods; (denied)
+(t) The Appellant's Records of Employment do not conform to reality either with respect to the hours worked nor the Appellant's actual periods of employment. (denied)
+[6] In addition, the Minister invoked the following facts outlined in paragraph 6 of the Reply to the Notice of Appeal, which were also admitted or denied by the Appellant:
+[translation]
+6. At this point in the process, the Minister invokes the following facts:
+(a) the official duration of the Appellant's work for each of the years at issue would have been longer, had it not been for her arrangement with the Payor;(denied)
+(b) Payment of her salary and the duration of the Appellant's employment are a function of the periods of unemployment; (denied)
+(c) The fact that the Appellant was not paid during her periods of unemployment enabled her to benefit from full employment insurance benefits; (denied)
+(d) In 2001 until April 2002, the employment and unemployment periods of the Appellant and another worker, Simon Marcotte, alternated; (denied)
+(e) On Simon Marcotte's Record of Employment, dated September 28, 2001, the reason for the layoff was lack of work; (admitted)
+(f) However the Appellant appeared on the payroll October 1; (admitted)
+[7] The evidence established that the Payor's farm operated all year. Haying season was the most active period of the year with respect to outdoor work; for this period the Payor hired a student. Since the work conducted during the summer season was more physically demanding, the Payor might hire two or three students for approximately one to two weeks. The Appellant was able to perform the work required during the winter season.
+[8] The Appellant has worked at the farm since 1992. Her work period usually began in September and ended in March or April. Her duties included taking care of the dairy, in other words, preparing the milking machines, washing, cleaning and preparing the bolting; there were certain health standards that had to be met, such as making the calves drink, milking the cows, washing them and giving them hay, in short, routine farm work. In the afternoon, four or five times per week, the Appellant took care of the accounting, in other words, she sorted the invoices and put them in order for the Payor. She took care of the animals with Roger Masson; she assisted in the same manner as did the other employees and she was always treated the same way and received the same salary as the others. Among her duties, she might work in the house in the afternoon to preserve garden produce for personal use.
+[9] The beginning of the Appellant's work period depended upon the needs of the farm, specifically on the calving period, which ran from September to March, approximately. This was the most intense period for the indoor farm work with respect to the dairy farm and breeding.
+[10] In 2001 and 2002, the Appellant's pay was $300 per week for 40 hours of work; she was paid by cheque made out in her name and signed by Roger Masson. The Payor set her pay using the minimum wage as a basis and adding a bit more. The Appellant received the same salary as the other employees. During 1998, 1999 and 2000, the Appellant's weekly pay was $250, $270 and $270 respectively.
+[11] The Appellant worked from Monday to Friday from 6:00 a.m. to 7:00 p.m. and her hours were set by the needs of the farm. They were not recorded anywhere, but the Payor entered eight hours per day - 40 hours per week - in the payroll.
+[12] The Payor supervised and approved the work; he indicated the work to be done. He had to make compromises because no one works in the same way.
+[13] All the tools, facilities, equipment and work clothes were provided by the Payor. The Appellant did not have to incur any expenses when carrying out her duties nor did she share in the Payor's chance of profit or risk of loss. The Appellant did not work on Saturdays and Sundays. When the calving period was over, around March or April, the majority of the indoor work was over and Roger Masson then did the work alone. Since he was the only one performing the farm duties, some of them did not get done even if he started work earlier in the morning.
+[14] After the calving period, in the spring, it was time to prepare for the grain-growing season, the farm's other purpose. The end of the spring and summer period included harvest and hay time; this was heavy outdoor work, considered to be too hard for a woman. During that time, the Appellant prepared the meals at the house, took care of the gardening and the lawns and did the shopping.
+[15] The Appellant's duties included shearing the animals, which was done once a year, during the winter. This duty required two people, and sometimes took several hours to complete. The Appellant also took care of cleaning the milk room, in other words, washing the sink, the four milking machines, the bolting, the tubes, walls, etc.
+[16] The Appellant and the Payor stated that the farm work decreased in spring because the calving period was over and the animals were sent out to pasture. It was established that the Appellant's duties were not affected by the weather since they were performed exclusively inside the buildings.
+[17] The Minister claimed that the Appellant worked outside the periods at issue, specifically during the summer season, and relied on the statement made by one of the workers, Simon Marcotte, who stated that occasionally the Appellant came to help them a bit when there was surplus work, but that he was not able to quantify the Appellant's work. He stated, and I cite: [TRANSLATION] "It depends, she could have had to do errands for the farm or for herself, like everyone else."
+[18] However, another worker, David Grondin, stated that the Appellant did not work with them, that she did not take care of the farm during the summer. He stated that she did not work, but said that he did not deal with her.
+[19] The Minister reviewed all the documents provided by the Payor, such as the statements of account issued by the financial institution, and concluded that the Appellant had really been paid for her work on a regular basis. Furthermore, the Appellant's paycheques were cashed within a reasonable time period, either the day they were issued or several days later.
+[20] The evidence revealed that the Appellant did indeed work on the farm throughout her employment period; that she worked approximately 40 hours per week and that her salary was based on an average of 40 hours, that the periods at issue fell within the period of the farm's winter activity as a dairy and breeding farm, and that she received a salary that was in keeping with applicable standards. This salary was paid to her regularly and she cashed her paycheques as she received them.
+[21] The evidence established that there were always two employees on the farm except for two periods: the first was from the moment the Appellant stopped working in the spring and until the hiring of the summer employees (the students for the heavy harvest work), and the layoff period for the summer employees, in the fall, until the Appellant returned to work. The evidence revealed that these periods represented three and a half months in 1998, and two months in 1999.
+[22] In making his decision, the Minister relied on paragraphs 5(1)(a) and 5(2)(i) and subsections 5(3) and 93(3) of the Act.
+[23] Subsection 5(1) of the Act reads in part as follows:
+5(1) Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+. . .
+[24] Subsections 5(2) and 5(3) of the Act read in part as follows:
+(2) Insurable employment does not include
+. . .
+(i) employment if the employer and employee are not dealing with each other at arm's length.
+. . .
+(3) For the purposes of paragraph (2)(i),
+(a) the question of whether persons are not dealing with each other at arm's length shall be determined in accordance with the Income Tax Act; and
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm's length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[25] Subsection 93(3) of the Act reads as follows:
+The Minister shall decide the appeal within a reasonable time after receiving it and shall notify the affected persons of the decision.
+[26] The Minister asserts that the Appellant's employment during the periods at issue was not insurable, since she was not bound to the Payor by a contract of service within the meaning of paragraph 5(1)(a) of the abovementioned Act. Moreover, he asserted that it is not reasonable to conclude, according to paragraph 5(3)(b) that, given the remuneration paid, the terms and conditions of employment, as well as the importance of the work, the Appellant and the Payor would have entered into a substantially similar contract of employment if they had been at dealing with one another at arm's length.
+[27] The Appellant asked the Court to set aside the Minister's decision; she is entitled to this under certain circumstances. These conditions are outlined in the excerpts from the Act mentioned above, as interpreted by case law. The excerpts taken from the following cases give details of the conditions according to which the Court may intervene to provide the redress requested by the Appellant.
+[28] In this respect, it is appropriate to note the importance, in this matter, of considering the principles established in Canada (Attorney General) v. Jencan Ltd. (C.A.) [1998] 1 F.C. 187, and, in particular, the following excerpts:
+[31] The decision of this Court in Tignish, supra, requires that the Tax Court undertake a two-stage inquiry when hearing an appeal from a determination by the Minister under subparagraph 3(2)(c)(ii). At the first stage, the Tax Court must confine the analysis to a determination of the legality of the Minister's decision. If, and only if, the Tax Court finds that one of the grounds for interference are established can it then consider the merits of the Minister's decision. As will be more fully developed below, it is by restricting the threshold inquiry that the Minister is granted judicial deference by the Tax Court when his discretionary determinations under subparagraph 3(2)(c)(ii) are reviewed on appeal. Desjardins J. A., speaking for this Court in Tignish, supra, described the Tax Court's circumscribed jurisdiction at the first stage of the inquiry as follows:
+Subsection 71(1) of the Act provides that the Tax Court has authority to decide questions of fact and law. The applicant, who is the party appealing the determination of the Minister, has the burden of proving its case and is entitled to bring new evidence to contradict the facts relied on by the Minister. The respondent submits, however, that since the present determination is a discretionary one, the jurisdiction of the Tax Court is strictly circumscribed. The Minister is the only one who can satisfy himself, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions and importance of the work performed, that the applicant and its employee are to be deemed to deal with each other at arm's length. Under the authority of Minister of National Revenue v. Wrights' Canadian Ropes Ltd., contends the respondent, unless the Minister has not had regard to all the circumstances of the employment (as required by subparagraph 3(2)(c)(ii) of the Act), has considered irrelevant factors, or has acted in contravention of some principle of law, the court may not interfere. Moreover, the court is entitled to examine the facts which are shown by evidence to have been before the Minister when he reached his conclusion so as to determine if these facts are proven. But if there is sufficient material to support the Minister's conclusion, the court is not at liberty to overrule it merely because it would have come to a different conclusion. If, however, those facts are, in the opinion of the court, insufficient in law to support the conclusion arrived at by the Minister, his determination cannot stand and the court is justified in intervening.
+. . .
+[37] The Tax Court is justified in interfering with the Minister's determination under subparagraph 3(2)(c)(ii)-by proceeding to review the merits of the Minister's determination-where it is established that the Minister: (i) acted in bad faith or for an improper purpose or motive; (ii) failed to take into account all of the relevant circumstances, as expressly required by paragraph 3(2)(c)(ii); or (iii) took into account an irrelevant factor.
+. . .
+[43] Subparagraph 3(2)(c)(ii) specifies that, in determining whether the worker and the respondent would have entered into a substantially similar contract of service if they had been at arm's length, the Minister must consider "all the circumstances of the employment", including: the remuneration paid to the worker; the terms and conditions of the employment; the duration of the employment; and the nature and importance of the work performed. In this case, the Deputy Tax Court Judge found that the respondent had disproved at least two of the assumptions of fact relied upon by the Minister with respect to the worker's terms and conditions of employment.
+. . .
+[50] . . . In other words, it is only where the Minister's determination lacks a reasonable evidentiary foundation that the Tax Court's intervention is warranted. An assumption of fact that is disproved at trial may, but does not necessarily, constitute a defect which renders a determination by the Minister contrary to law. It will depend on the strength or weakness of the remaining evidence. The Tax Court must, therefore, go one step further and ask itself whether, without the assumptions of fact which have been disproved, there is sufficient evidence remaining to support the determination made by the Minister. If that question is answered in the affirmative, the inquiry ends. But, if answered in the negative, the determination is contrary to law, and only then is the Tax Court justified in engaging in its own assessment of the balance of probabilities. . . .
+[29] Let us now analyse the Appellant's employment according to paragraph 5(2)(i) of the Act.
+Remuneration
+[30] The Appellant received her salary and cashed her cheques regularly. She was paid in accordance with applicable standards and received the same treatment as the other employees. She did not receive 4% for vacation pay as did the other employees; however, this unpaid amount of vacation pay was applied to reduce the debt she had with the Payor. It was established that the Appellant performed certain duties during the summer, but this was minimal, according to the evidence, and completely normal in a family farm business. The Federal Court of Appeal addressed similar facts in Théberge v. Canada (Minister of National Revenue - M.N.R.), [2002] F.C.J. No. 464 and stated the following:
+What a claimant does outside the period during which he or she is employed in what the Minister considers to be insurable employment can be relevant, for example, to verify that the claimant is unemployed, to determine the amount of his or her benefits, or to establish his or her period of unemployment. However, for the purposes of the exception provided in paragraph 3(2)(c) of the Act, what a claimant does outside of his or her period of employment will be of little relevance when, as in this case, it is not alleged that the salary paid during the period of employment took into account the work performed outside of that period, that the applicant had included, in the hours spent on his or her insurable employment, hours worked outside of the period, or that work performed outside of his or her period of employment had been included in the work performed during his or her period of employment. It seems to me to be self-evident, and this is confirmed by the evidence, that in the case of family businesses engaged in seasonal work, the minimal amount of work that remains to be done outside the active season is usually performed by family members, without pay. Excepting seasonal employment, in a family farm business, on the ground that cows are milked year-round amounts, for all practical purposes, to depriving family members who qualify by working during the active season of unemployment insurance and to overlooking the two main characteristics of such a business: that it is a family business and a seasonal business.
+A claimant is not required to remain completely inactive while he or she is receiving benefits. Under section 10 of the Act, benefits are payable for each "week of unemployment" included in the benefit period and a "week of unemployment" is a week during which the claimant does not work a full working week. Under subsection 15(2) of the Act, a claimant may have earnings in respect of any time that falls in a week of unemployment and those earnings will be deducted only if they are in excess of an amount equal to twenty-five per cent of the claimant's weekly benefit. It is moreover settled law that work that is truly unpaid does not affect a claimant's status as unemployed (Bérubé v. Canada (Employment and Immigration), (1990) 124 N.R. 354 (F.C.A.)). . . .
+Terms and conditions of employment
+[31] Monique Dolbec, the Appellant, learned her trade from the Payor himself, Roger Masson. He showed her the work. The Appellant's workday began with the first milking at 6:00 a.m. and ended around 6:30 or 7:00 p.m. Her work duties were interrupted. She returned to feed the animals; there was also the shearing that was conducted over a period of two to two and a half months and required several hours at a time on a periodic basis. Also, she took care of sorting out the invoices.
+[32] According to the payroll, she was at work eight hours a day from Monday to Friday for a total of 40 hours per week. The Minister claims that the schedules on a farm depend on the weather, the seasons, the animals, etc. This observation applies to farms where there is outside work. The Appellant's duties were not outside. Her work did not depend on the weather or the seasons since she always worked, every year, from September until approximately March. The Minister's observations to this effect apply to the summer employees associated with grain production and harvesting. The evidence revealed that on the weekends it was the Payor himself, Mr. Masson, who carried out the Appellant's usual duties.
+[33] In the opinion of this Court, the Minister's decision regarding the terms and conditions of the Appellant's employment was not accurate.
+Duration
+[34] It was established that the Payor operated a farm year round and the Appellant's duties began in September and ended in March or April. This meant to the Minister that the Appellant returned to work in September when the majority of farmers were laying off their employees, at the beginning of the fall, because that is a quieter period. However, this is contrary to the evidence that the Appellant was hired to perform specific duties related to the farm's dairy and livestock operations, including the calving period and raising the calves, indoors until the spring, because that was when the Payor's farm was most active in that area.
+[35] In the opinion of this Court, the Minister was misinformed and his ultimate decision in the Appellant's case is unfounded.
+[36] The Minister assumed that the Payor's most active period was the summer period. It is true that this period represented the seeding and harvest time when the work was harder, beyond the usual strength of a woman, but to hold to these considerations in this case is to ignore the evidence presented that addressed the other season, during which the farm was active in breeding and dairy production.
+Nature and importance of the work
+[37] The Appellant's work is directly related to the Payor's activities.
+[38] The evidence showed that at the Payor's farm there is as much work in the winter, since the animals are indoors, and as a result, they require a great deal more care. The duties related to calving and calf breeding must also not be overlooked. This work is perhaps less physically challenging than that required by the harvest, but it is equally important and demanding.
+[39] In addition, the appeals officer had to admit in his testimony that the Minister had not attributed equal significance to the breeding and calving aspects of the winter season activity at the Payor's farm.
+[40] After concluding this review of the Minister's decision, this Court is of the opinion that the Minister drew an incorrect conclusion. In my opinion, he was misinformed with respect to the importance of the Appellant's work at the Payor's farm during the periods at issue; therefore, he did not take into account the circumstances surrounding the terms and conditions of employment or the importance of the work. Too much importance was also accorded to the duties carried out by the Appellant outside the periods and therefore the duties carried out by the Appellant within the context of the family farm business were not assessed as they should have been, as outlined by the Federal Court of Appeal in Théberge, supra.
+[41] The responsibility of this Court, with respect to the mandate entrusted to it by the Act, must be discharged in accordance with the guidelines appearing in case law. The Federal Court of Appeal established these terms in Légaré v. Canada (Minister of National Revenue - M.N.R.), [1999] F.C.J. No. 878, in the following manner:
+The Act requires the Minister to make a determination based on his own conviction drawn from a review of the file. The wording used introduces a form of subjective element, and while this has been called a discretionary power of the Minister, this characterization should not obscure the fact that the exercise of this power must clearly be completely and exclusively based on an objective appreciation of known or inferred facts. And the Minister's determination is subject to review. In fact, the Act confers the power of review on the Tax Court of Canada on the basis of what is discovered in an inquiry carried out in the presence of all interested parties. The Court is not mandated to make the same kind of determination as the Minister and thus cannot purely and simply substitute its assessment for that of the Minister: that falls under the Minister's so-called discretionary power. However, the Court must verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so, it must decide whether the conclusion with which the Minister was "satisfied" still seems reasonable.
+[42] With respect to the preceding and in light of Légaré, supra, this Court must conclude, after verifying the facts assumed or retained by the Minister, that they were not correctly assessed in light of the context in which they occurred, and consequently, the conclusion with which the Minister was satisfied does not seem reasonable.
+[43] This Court is of the opinion that the Appellant's employment during the periods at issue is insurable.
+[44] The Appeal is allowed and the Minister's decision is vacated.
+Signed at Grand-Barachois, New Brunswick, this 13th day of April 2004.
+"S. J. Savoie"
+Savoie D.J.
+Translation certified true
+on this 26th day of August 2004.
+Shulamit Day, Translator

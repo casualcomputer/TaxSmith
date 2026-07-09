@@ -1,0 +1,140 @@
+---
+title: "Hendricks v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28867/index.do"
+last_modified: "2008-09-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 497"
+citation2: ""
+neutral_citation: "2008 TCC 497"
+decision_date: "2008-09-08"
+language: "en"
+item_id: "28867"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1310
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:52:06.732000+00:00"
+cases_cited_count: 0
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "42bc542ca312697310baad59365dbc67bcbcbba0718f2a0a0ac3fdcc15459da2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hendricks v. The Queen
+
+- Citation: 2008 TCC 497
+- Decision date: 2008-09-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1310, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hendricks v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-09-08
+Neutral citation
+2008 TCC 497
+File numbers
+2007-3535(IT)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-3535(IT)I
+BETWEEN:
+GARY HENDRICKS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on August 15, 2008, at Nanaimo, British Columbia
+Before: The Honourable Justice B. Paris
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Shannon Walsh
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2005 taxation year is dismissed.
+Signed at Ottawa, Canada, this 8th day of September 2008.
+“B.Paris”
+Paris J.
+Citation: 2008 TCC 497
+Date: 20080908
+Docket: 2007-3535(IT)I
+BETWEEN:
+GARY HENDRICKS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Appeal heard and judgment delivered orally from the bench on August 15, 2008,
+in Nanaimo, British Columbia.)
+Paris, J.
+[1] This is an appeal from the Minister’s disallowance of a medical expense tax credit (“METC”) of $10,875 claimed by the Appellant under subsection 118.2(1) of the Income Tax Act for his 2005 taxation year.
+[2] The amount claimed is the cost of replacing carpets with hardwood flooring at the Appellant’s residence. The Minister held that the amount did not qualify as a medical expense under subsection 118.2(2) of the Act, and in particular under subparagraph 118.2(2)(l.2) (i) and (ii) which reads as follows:
+(2) Medical expenses. For the purposes of subsection (1), a medical expense of an individual is an amount paid
+(l.2) for reasonable expenses relating to renovations or alterations to a dwelling of the patient who lacks normal physical development or has a severe and prolonged mobility impairment, to enable the patient to gain access to, or to be mobile or functional within, the dwelling, provided that such expenses
+(i) are not of a type that would typically be expected to increase the value of the dwelling, and
+(ii) are of a type that would not normally be incurred by persons who have normal physical development or who do not have a severe and prolonged mobility impairment;
+[3] The assumptions relied on by the Minister in disallowing the claim are set out in paragraph 8 of the Reply:
+8. In reassessing and in confirming that reassessment of the Appellant, the Minister relied on the following assumptions of fact:
+a) Sandra Hendricks (“Sandra”) was the Appellant’s spouse during the 2005 taxation year;
+b) the Appellant incurred expenses totalling $10,674 for the purchase and installation of wood floors for his residence between July and October of 2005;
+c) neither the Appellant nor Sandra lacked normal physical development nor did either have a severe and prolonged mobility impairment during the 2005 taxation year;
+d) the installation of the hardwood floor in the Appellant’s dwelling was an alteration of a type that would typically be expected to increase the value of that dwelling; and
+e) the installation of the hardwood floor in the Appellant’s dwelling was an alteration of a type that would normally be incurred by persons who have normal physical development or who do not have a severe and prolonged mobility impairment.
+[4] At the hearing the Respondent conceded that Sandra Hendricks, the Appellant’s spouse, lacked normal physical development and had a severe and prolonged mobility impairment during the 2005 taxation year. The evidence showed that Ms. Hendricks suffered from severe asthma.
+[5] In addition the Respondent did not take issue with the Appellant’s evidence that the removal of the carpeting and installation of the hardwood flooring was done on the recommendation of Ms. Hendricks’ doctor, nor did the Respondent dispute that the flooring replacement resulted in a dramatic improvement in Ms. Hendricks’ condition.
+[6] The only issue in the appeal is whether the expense claimed by the Appellants meets the conditions set out in subparagraph 118.2(2)(l.2) (i) and (ii) of the Act. Those provisions require that, in order for an expense relating to renovations or alterations to a dwelling to qualify for a METC, that it not be of a type that would typically be expected to increase the value of the dwelling, and that it be of a type that would not normally be incurred by persons who have normal physical development or who do not have a severe and prolonged mobility impairment. Both of these conditions must be met in order for an expense to be deductible.
+[7] The Minister assumed in reassessing that the installation of hardwood flooring was a type of renovation normally done by persons with normal physical development or who do not have a severe or prolonged physical development. As I explained to the Appellant at the outset of the hearing, the assumptions made by the Minister are deemed to be true until disproven by an appellant. The Appellant agreed in cross-examination that installation of new hardwood flooring was often done by people without a lack of physical development or without a severe or prolonged mobility impairment. I am therefore unable to find that the condition in subparagraph 118.2(2)(l.2)(ii) was met.
+[8] I also find that the Appellant has not disproven the assumption made by the Minister that the installation of the hardwood flooring was an alteration that would typically be expected to increase the value of the dwelling.
+[9] Once again, the onus is on the Appellant to disprove this fact. It would have been up to him to bring some evidence (such as evidence of a real estate professional or expert) to contradict the Minister’s assumption. In the absence of any such evidence I am unable to find that the condition in subparagraph 118.2(2)(l.2)(i) was met. I would also add that, as a matter of common sense, it would seem that the installation of new hardwood floors in the place of 23 year old carpets in this case, could typically be expected to increase the value of a dwelling.
+[10] I agree with counsel for the Respondent that the conditions in issue were added to paragraph 118.2(2)(l.2) in 2005 in order to narrow the type of home renovation expenses that would be eligible for a METC. The amendment was in response to previous jurisprudence of this Court which had allowed taxpayers to claim a METC for the installation of hardwood floors and hot tubs where those installations were found to have been done on the advice of a physician to ameliorate the circumstances of a person with a mobility impairment or who lacked normal physical development. The purpose of the amendments is clear from the technical notes and Budget papers referred to by counsel.
+[11] The Appellant claims that renovations carried out in order to widen doorways and hallways would also typically be expected to increase the value of a dwelling yet according to the Budget papers referred to by the Respondent’s counsel their cost is allowed as a medical expense by the CRA. However, the question of whether such renovations expenses qualify for a METC is not before me. I can only decide the appeal on the basis of the facts before me.
+[12] The Appellant also says that Ms. Hendricks’ doctor recommended the removal of the carpeting prior to February 22, 2005, which was before the effective date of subparagraph 118.2(2)(l.2)(i) and (ii). This is not material since the amendments were made applicable to any expenses incurred after February 22, 2005 and it was admitted that the expenses in this case were incurred in July and October 2005. They are therefore subject to the new provisions.
+[13] For all of these reasons, the expenses claimed do not qualify as medical expenses under the Act and are not eligible for a METC. The appeal is dismissed.
+Signed at Ottawa, Canada, this 8th day of September 2008.
+“B.Paris”
+Paris J.
+CITATION: 2008 TCC 497
+COURT FILE NO.: 2007-3535(IT)I
+STYLE OF CAUSE: GARY HENDRICKS AND THE QUEEN
+PLACE OF HEARING: Nanaimo, British Columbia
+DATE OF HEARING: August 15, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice B. Paris
+DATE OF JUDGMENT: September 8, 2008
+APPEARANCES:
+For the Appellant:
+the Appellant himself
+Counsel for the Respondent:
+Shannon Walsh
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,340 @@
+Title: Canafric Inc. c. Le Roi
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521131/index.do
+Corpus path: corpus/cases/tcc/2024/2023-cci-108-521131-canafric-inc-c-le-roi-fr.md
+Document type: case_law
+Last modified: 2024-10-30
+
+# Canafric Inc. c. Le Roi
+
+- Citation: 2023 CCI 108
+- Decision date: 2024-10-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5849, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Canafric Inc. c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2023-07-26
+Référence neutre
+2023 CCI 108
+Numéro de dossier
+2018-677(IT)G, 2019-3835(IT)G, 2020-1571(IT)G, 2020-1574(IT)G
+Juges et Officiers taxateurs
+Eugene P. Rossiter
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 2018-677(IT)G
+2019-3835(IT)G
+2020-1571(IT)G
+2020-1574(IT)G
+ENTRE :
+CANAFRIC INC.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu les 20, 21 et 22 septembre 2022 et le 13 décembre 2022, à Hamilton (Ontario).
+Devant : l’honorable juge en chef Eugene P. Rossiter.
+Comparutions :
+Avocat de l’appelante :
+Me John P. McLaughlin
+Avocat de l’intimé :
+Me Devon Peavoy
+JUGEMENT
+L’appel interjeté en vertu de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1, pour les années d’imposition 2013, 2014, 2015 et 2016 est accueilli. Les parties ont 60 jours à partir de la date de la présente ordonnance pour signifier et déposer leurs observations écrites sur les dépens.
+Signé à Ottawa, Canada, ce 26e jour de juillet 2023.
+« E.P. Rossiter »
+Le juge en chef Rossiter
+Traduction certifiée conforme
+ce 25e jour de février 2025.
+Elisabeth Ross, jurilinguiste principale
+Référence : 2023 CCI 108
+Date : 26 juillet 2023
+Dossiers : 2018-677(IT)G
+2019-3835(IT)G
+2020-1571(IT)G
+2020-1574(IT)G
+ENTRE :
+CANAFRIC INC.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge en chef Rossiter
+I. APERÇU [1] La Cour est saisie d’un appel interjeté par Canafric Inc. (« Canafric ») contre des avis de nouvelle cotisation émis par le ministre du Revenu national (le « ministre »), par lesquels il a refusé la déduction de dépenses de recherche scientifique et de développement expérimental (« RS&DE ») et les crédits d’impôt à l’investissement (« CII ») correspondants pour les années d’imposition 2013, 2014, 2015 et 2016 (les « années d’imposition »), en vertu de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.) (la « LIR »).
+[2] Canafric exploite une entreprise de fabrication d’aliments spécialisée dans la production de pâtés surgelés principalement pour les marchés canadiens et américains. Durant les années d’imposition, Canafric a mené divers projets et activités visant la mise au point de produits nouveaux ou le développement de produits existants.
+[3] Pour l’année d’imposition 2013, Canafric a déclaré des dépenses de RS&DE et demandé des CII à l’égard des cinq projets suivants (la « demande de RS&DE de 2013 ») :
+[traduction]
+i.1302 : jardin de safran de marque Mortimer
+ii.1303 : pâté écossais au bœuf PC Loblaws
+iii.1304 : dîners à l’asiatique Metro Irresistibles
+iv.1306 : garniture pour pâté au poulet Costco
+v.1307 : quiche sans croûte Costco
+[4] Les projets 1304 et 1306 ont été retenus par le ministre pour faire l’objet d’un examen technique et financier commun. Dans un avis de nouvelle cotisation daté du 13 mai 2016, le ministre a refusé la déduction des dépenses de RS&DE totalisant 90 682 $ et les CII correspondants totalisant 22 183 $ en lien avec ces deux projets.
+[5] Pour l’année d’imposition 2014, Canafric a déclaré des dépenses de RS&DE et demandé des CII à l’égard des trois projets suivants (la « demande de RS&DE de 2014 ») :
+[traduction]
+i.1306 : garniture pour pâté au poulet Costco
+ii.1401 : pâtés chinois Costco et Metro Irresistibles
+iii.1402 : pâtés au poulet et au bœuf sans viande Loblaws
+[6] Dans un avis de nouvelle cotisation daté du 28 juillet 2017, le ministre a refusé la totalité des déductions demandées de dépenses de RS&DE et des CII correspondants en lien avec les projets 1306, 1401 et 1402.
+[7] Pour l’année d’imposition 2015, Canafric a déclaré des dépenses de RS&DE et demandé des CII à l’égard des sept projets suivants (la « demande de RS&DE de 2015 ») :
+[traduction]
+i.1303 : pâté écossais au bœuf PC Loblaws
+ii.1307 : quiche sans croûte Costco
+iii.1401 : pâtés chinois Costco et Metro Irresistibles
+iv.1501 : tartelettes « On the Go » Mortimer
+v.1502 : repas surgelé halal Mortimer
+vi.1503 : repas surgelé National Foods
+vii.1504 : repas surgelé Swiss Chalet et Cara Foods
+[8] Dans un avis de nouvelle cotisation daté du 9 août 2019, le ministre a refusé la déduction de dépenses de RS&DE totalisant 97 895 $ et les CII correspondants totalisant 15 476 $ en lien avec les projets 1401, 1501 et 1502.
+[9] Pour l’année d’imposition 2016, Canafric a déclaré des dépenses de RS&DE et demandé des CII à l’égard des six projets suivants (la « demande de RS&DE de 2016 ») :
+[traduction]
+i.1501 : tartelettes « On the Go » Mortimer
+ii.1502 : repas surgelé halal Mortimer
+iii.1503 : repas surgelé National Foods
+iv.1504 : repas surgelé Swiss Chalet et Cara Foods
+v.1601 : pâtés réfrigérés Alimentation Couche-Tard
+vi.1602 : pâtés Longo’s
+[10] Dans un avis de nouvelle cotisation daté du 9 août 2019, le ministre a refusé la déduction de dépenses de RS&DE totalisant 154 872 $ et les CII correspondants totalisant 23 304 $ en lien avec les projets 1501, 1502 et 1602.
+II. LA QUESTION EN LITIGE [11] La question à trancher dans les présents appels est de savoir si les travaux menés par Canafric à l’égard des projets 1304, 1306, 1401, 1402, 1501, 1502 et 1602 constituent des activités de RS&DE au sens du paragraphe 248(1) de la Loi.
+III. LES FAITS [12] George Papadopoulos, Azza Hassanein et David Zhou, trois employés de l’Agence du revenu du Canada (l’« ARC ») ayant travaillé à divers titres à l’examen des projets, ont témoigné pour l’intimé. Suvrut Pandya, chef de la direction de Canafric, a témoigné pour l’appelante.
+(1) Suvrut Pandya [13] J’ai trouvé le témoignage de M. Pandya crédible et fiable. Il a participé à chacune des étapes du processus d’examen pour toutes les années d’imposition, et il a parlé des défis techniques particuliers que posait chaque projet. Il avait un bon souvenir des diverses réunions avec les représentants de l’ARC durant le processus d’examen, de même que des détails des discussions techniques qui ont eu lieu durant ces réunions.
+[14] M. Pandya a expliqué que l’entreprise de Canafric consistait à développer des produits nouveaux ou différents, principalement des pâtés surgelés, qui répondent à la demande des clients, à l’évolution du profil de goût des consommateurs et à la réglementation concernant la teneur en matières grasses, en sel et en sucre des produits. Pendant toute la période pertinente, son rôle consistait à superviser les travaux de développement sans les mener lui-même.
+[15] Il a résumé le processus de développement des produits pour tous les projets de la façon suivante :
+i. un client demande un produit avec des objectifs précis en matière de contenu, de durée de conservation, d’acceptabilité sur le plan du goût, de texture, etc.;
+ii. Canafric crée et développe une recette qui répond aux objectifs du client;
+iii. le produit est testé pour vérifier qu’il répond aux exigences du client.
+[16] M. Pandya a expliqué que les essais en usine et le développement du produit sont deux étapes distinctes du processus. Alors que le travail de développement consiste à créer, à développer et à tester une recette répondant aux exigences du client, les essais en usine sont menés pour vérifier que le même résultat peut être répété à grande échelle. Canafric ne procède à des essais en usine qu’une fois que le produit répond à toutes les exigences du client.
+[17] Lorsqu’elle crée de nouveaux produits, Canafric doit trouver un équilibre entre les exigences en matière de « santé » et celles en matière de « goût ». Une teneur plus élevée en sel et en matières grasses donne généralement plus de goût au produit, mais débouche sur un produit moins bon pour la santé. Durant toutes les années d’imposition, et pour chaque projet, Canafric a tenté de réduire la teneur en sel et en matières grasses de ses produits, tout en s’assurant qu’ils demeuraient bons au goût. Selon M. Pandya, même si l’objectif ultime était le même, la nature des difficultés différait d’un produit à l’autre, parce que les différents ingrédients n’interagissent pas tous de la même manière avec les matières grasses et le sel. Ce point a été une source importante de désaccord avec David Zhou, le conseiller en recherche et technologie de l’ARC.
+L’année d’imposition 2013 [18] Pour l’année d’imposition 2013, l’ARC a examiné les projets 1304 et 1306.
+(1) Le projet 1306 [19] Le projet 1306 concernait une garniture pour pâté mise au point pour Costco, laquelle devait respecter un processus de cuisson précis. Canafric devait faire bouillir la garniture à 165 degrés Fahrenheit (74 degrés Celsius) pour éliminer les bactéries. Canafric devait ensuite congeler la garniture et l’emballer dans des sacs de 10 livres (4,5 kg), qui étaient envoyés à Costco. Costco fabriquait ensuite ses propres pâtés en utilisant la garniture et en les faisant cuire au four avant de les offrir en vente dans ses réfrigérateurs.
+[20] En plus des exigences habituelles en matière de réduction des matières grasses et du sel, Costco souhaitait obtenir une garniture pour pâté pouvant avoir une durée de conservation de 10 jours, y compris le temps de transport, sans utilisation d’agents de conservation artificiels ou chimiques. Les défis étaient de maintenir l’intégrité du produit et le goût après trois cuissons, une congélation et deux phases de remplissage, d’obtenir la durée de conservation visée sans agents de conservation artificiels et d’augmenter le taux de protéines de la garniture de 35 %.
+[21] Canafric a été incapable d’obtenir une durée de conservation de 10 jours. M. Pandya a affirmé dans son témoignage que des échantillons de produit ont été envoyés à un laboratoire externe pour être testés. Les résultats ont montré que le produit devenait impropre à la consommation humaine au bout de six jours. Il n’y a pas eu d’essai en usine pour le projet 1306.
+(2) Le projet 1304 [22] M. Pandya a affirmé dans son témoignage que le [traduction] « dîner à l’asiatique Metro Irresistibles » n’était pas un produit nouveau. Le client désirait simplement apporter des améliorations à un produit déjà existant.
+[23] M. Pandya a expliqué que les principaux défis consistaient à réduire la teneur en sel et en matières grasses tout en préservant le profil de goût des articles, à maintenir la crédibilité de la congélation/décongélation, en plus de préserver la durée de conservation sans l’utilisation d’agents de conservation artificiels. Selon M. Pandya, ces améliorations ont modifié le produit au point que [traduction] « c’est comme s’il était nouveau ».
+(3) Les réunions sur place [24] Une réunion a eu lieu sur place le 14 septembre 2015 avec les représentants de l’ARC David Zhou, George Papadopoulos et Azza Hassanein, dans les installations de Canafric, concernant la demande de RS&DE de 2013. Les représentants de Canafric ont informé David Zhou que les activités de RS&DE alléguées de 2013 ne s’étaient pas déroulées dans les installations visitées, mais plutôt dans l’usine de Burlington. David Zhou a néanmoins insisté pour visiter les nouvelles installations.
+[25] M. Pandya a témoigné que tous les défis liés aux projets 1304 et 1306 ont été expliqués à David Zhou durant la réunion. David Zhou a affirmé aux représentants de Canafric, dont M. Pandya, que la réduction de la teneur en matières grasses et en sel ne constituait pas un défi technique, puisque les techniques de réduction du sel et des matières grasses sont transférables d’un produit à un autre.
+[26] Durant la réunion, Azza Hassanein, la gestionnaire en recherche et technologie, a décidé d’accepter les demandes liées aux projets 1302, 1303 et 1307 et de reporter la décision concernant les projets 1304 et 1306.
+[27] M. Pandya a déclaré que Canafric avait conservé des documents justifiant les diverses sommes déclarées pour l’année d’imposition 2013, y compris des feuillets T4, des feuilles de paye et des feuilles de temps, en plus de lettres et de factures. Canafric a présenté ces documents à George Papadopoulos et à David Zhou durant la réunion, puis les a fait parvenir par la poste à M. Papadopoulos le 29 octobre 2015.
+[28] À l’étape de l’opposition, Canafric a envoyé une lettre à Susan Shaw de la Direction générale des appels de l’ARC, à laquelle était joint un document de 120 pages décrivant les travaux de développement du produit pour les projets 1304 et 1306. Ce document décrivait les divers objectifs et exigences de ces deux projets, en plus des travaux effectués par Canafric pour atteindre ces objectifs.
+L’année d’imposition 2014 [29] Pour l’année d’imposition 2014, l’ARC a examiné les projets 1306, 1401 et 1402.
+[30] M. Pandya a expliqué que le projet 1306 s’était poursuivi durant l’année d’imposition 2014 en raison du contrat potentiellement lucratif sur lequel il aurait pu déboucher si Canafric était parvenue à surmonter les défis.
+(1) Le projet 1401 [31] Pour le projet 1401, les principaux défis consistaient à remplacer les flocons de pomme de terre par de [traduction] « vraies pommes de terre », à utiliser de la viande de bœuf plus maigre (pour passer d’une viande avec 75 % de tissu musculaire et 25 % de matières grasses à une viande avec 85 % de tissu musculaire et 15 % de matières grasses), en plus de la réduction habituelle en sel et en matières grasses. Le projet 1401 a été une réussite.
+(2) Le projet 1402 [32] Concernant le projet 1402, il a expliqué que les principaux défis étaient d’utiliser de la viande [traduction] « sans antibiotiques » et de réduire le temps de cuisson de 20 à 50 %. M. Pandya a expliqué que l’élimination des antibiotiques créait des défis liés à la [traduction] « qualité des protéines ». Comme chaque animal a un niveau d’immunité différent, le poulet et le bœuf entier diffèrent sur le plan de la qualité et de la texture. Quant au temps de cuisson, il a mené à des difficultés sur le plan microbiologique, puisqu’il n’était pas suffisant pour atteindre la température habituelle de 165 degrés Fahrenheit (74 degrés Celsius), qui garantit l’élimination des bactéries.
+Les années d’imposition 2015 et 2016 [33] Le ministre a effectué un examen commun pour les demandes de RS&DE de 2015 et de 2016.
+(1) Le projet 1501 [34] Le projet 1501 visait le développement de douze tartelettes surgelées pouvant être consommées en toute sécurité après avoir été réchauffées au micro-ondes ou au four.
+[35] Les principaux défis étaient de concevoir une garniture plus épaisse, d’utiliser une pâte à tarte feuilletée compatible avec toutes les garnitures, de réduire les teneurs en matières grasses et en sel et d’obtenir une durée de conservation de 21 jours sans aucun agent de conservation artificiel.
+[36] M. Pandya a également souligné les défis liés à l’emballage du produit. Il a expliqué que Canafric avait dû utiliser un papier enduit de produits chimiques pour que le produit puisse être réchauffé au micro-ondes en une minute. Le laminage à l’intérieur du papier permettait un transfert de la chaleur des micro-ondes 100 fois plus rapide qu’avec un papier conventionnel.
+[37] M. Pandya a expliqué que le projet 1501 n’avait pas abouti parce que le produit n’était pas suffisamment ferme pour être tenu à la main. C’était principalement dû au fait que l’humidité de la garniture se transférait à la pâte. Canafric n’a pas non plus été en mesure d’obtenir la durée de conservation demandée.
+(2) Le projet 1502 [38] Le projet 1502 concernait le développement d’une série de produits halal. En contre-interrogatoire, M. Pandya a reconnu qu’il ne s’agissait pas de la première expérience de Canafric avec des produits halal, puisque le projet 1501 comportait également des produits halal. M. Pandya a expliqué que l’obligation halal posait des défis concernant les matières premières, qui devaient être d’origine halal, et les graisses alimentaires, qui ne pouvaient être d’origine animale.
+(3) Le projet 1602 [39] Le projet 1602 visait le développement de neuf pâtés à la viande et aux légumes pour Longo’s. Le client avait précisé que la pâte ne devait pas contenir de saindoux. Au moins 10 % des graisses alimentaires devaient être composées de vrai beurre. Le client souhaitait également que les pâtés soient offerts en deux tailles, ce qui signifiait pour Canafric qu’elle devait mettre au point un procédé de réchauffage différent pour chaque pâté. La réduction de la teneur en sel et en matières grasses ne constituait pas une exigence pour ce projet.
+[40] M. Pandya a affirmé dans son témoignage que David Zhou avait rejeté la demande concernant le projet 1602 en disant : [traduction] « Un pâté reste un pâté, quel est le problème? »
+Réunion sur place [41] Les défis ont été expliqués à David Zhou lors d’une réunion ayant eu lieu sur place le 8 mars 2018 concernant les demandes de RS&DE de 2015 et 2016. M. Pandya a affirmé que la réunion devait à l’origine porter sur deux projets (1501 et 1502), mais que David Zhou avait choisi de se concentrer sur le projet 1501.
+[42] Au cours de la réunion, David Zhou a affirmé que seul le premier produit du projet 1501 (le poulet au beurre) comportait un défi technique, car il était d’avis que Canafric pouvait appliquer les connaissances acquises durant le développement du produit pour surmonter les défis similaires que posaient les onze autres produits.
+[43] Après la réunion sur place du 8 mars 2018, Reagan Blanchfield, l’examinateur financier de l’ARC qui avait assisté à la réunion, est retourné à deux reprises pour recueillir d’autres documents justifiant les coûts déclarés dans les demandes de RS&DE de 2015 et de 2016.
+[44] Canafric et l’ARC avaient prévu de tenir une conférence téléphonique concernant les demandes de RS&DE de 2015 et de 2016 le 27 juillet 2018, afin de discuter des projets qui n’avaient pas été examinés lors de la réunion du 8 mars 2018. Le 26 juillet 2018, John Williams a envoyé une lettre à David Zhou, au nom de Canafric, pour demander le report de la réunion parce que Raj Telkat, le consultant technique de Canafric, éprouvait des problèmes de santé liés à sa vue qui l’empêchaient d’assister à la réunion.
+(2) George Papadopoulos [45] George Papadopoulos était l’examinateur financier pour les demandes de RS&DE de 2013 et de 2014. Il a offert un témoignage concernant le processus d’examen suivi par l’ARC pour ce type de demandes.
+[46] M. Papadopoulos a expliqué que trois principaux joueurs intervenaient dans l’examen des demandes de RS&DE : le conseiller en recherche et technologie (« CRT »), le gestionnaire en recherche et technologie (« GRT ») et l’examinateur financier.
+[47] L’examinateur financier se concentre sur l’aspect financier de la demande et ne s’occupe pas de l’aspect technique ou scientifique. M. Papadopoulos a expliqué que l’examinateur financier envoie généralement la lettre annonçant que la demande est accueillie ou rejetée, même s’il n’a pas lui-même pris la décision finale.
+[48] Les CRT peuvent se référer au Manuel d’examen des demandes de l’ARC (le « Manuel »), qui fournit un ensemble de règles et de procédures régissant le processus d’examen. Après avoir lu la section 5.6.6.2 du Manuel, M. Papadopoulos a reconnu que la documentation papier n’est pas le seul type de renseignement pouvant étayer les demandes de RS&DE. Toutefois, il a insisté sur le fait que des éléments de preuve anecdotiques ne suffisent pas en soi.
+[49] Selon M. Papadopoulos, l’ARC n’examine pas chaque demande. Certaines demandes sont accueillies sans être examinées. Ces demandes sont étiquetées [traduction] « accueillies telles que produites ». Lorsqu’une demande est accueillie telle qu’elle a été produite, aucune pièce justificative n’est nécessaire.
+L’année d’imposition 2013 [50] La demande de RS&DE de 2013 n’a pas été entièrement rejetée. Certains des projets ont été acceptés tels qu’ils ont été produits. Les projets 1304 et 1306 ont été retenus pour faire l’objet d’un examen technique et financier commun. M. Papadopoulos a reconnu que les projets 1304 et 1306 présentaient [traduction] « un certain potentiel quant à des activités de RS&DE admissibles », mais qu’ils n’étaient pas étayés par les pièces justificatives nécessaires pour démontrer les travaux effectués.
+[51] M. Papadopoulos a assisté à la réunion du 14 septembre 2015 tenue dans les nouvelles installations de Canafric, à laquelle ont également participé David Zhou et Azza Hassanein, concernant la demande de RS&DE de 2013. M. Papadopoulos a confirmé que ce n’est pas à cet endroit que s’étaient déroulées les activités de RS&DE en 2013.
+[52] M. Papadopoulos se rappelait que de longues discussions techniques avaient eu lieu entre les représentants de Canafric, David Zhou et Azza Hassanein. Il n’a pas pris part à ces discussions et ne pouvait se souvenir du sujet exact des discussions.
+[53] Il a affirmé que seuls des renseignements [traduction] « anecdotiques » avaient été donnés durant la réunion, sans [traduction] « documentation technique ou scientifique ». Toutefois, le 19 octobre 2015, il a reçu des documents contenant des renseignements financiers.
+[54] Il a envoyé la lettre annonçant le rejet de la demande de RS&DE de 2013 pour les projets 1304 et 1306 le 18 avril 2016.
+L’année d’imposition 2014 [55] La demande de RS&DE de 2014 a été entièrement rejetée. Aucune réunion sur place n’a eu lieu concernant cette.
+[56] M. Papadopoulos a reçu une lettre datée du 18 août 2016, signée par Suvrut Pandya, demandant que soit mise à l’horaire une conférence téléphonique avec la GRT, Azza Hassanein, concernant la demande de RS&DE de 2014. M. Pandya a proposé les semaines du 29 août au 2 septembre ou du 6 septembre au 9 septembre.
+[57] Canafric a reçu une lettre de David Zhou datée du 24 août 2016. M. Zhou acceptait de prendre part à une conférence le 9 septembre 2016, mais y indiquait qu’Azza Hassanein ne participerait pas à la réunion, puisque la présence de la GRT n’était requise qu’en cas de désaccord entre le contribuable et le CRT.
+[58] Canafric a répondu par une lettre datée du 8 septembre 2016, adressée à M. Zhou et à M. Papadopoulos, dans laquelle elle insistait pour qu’Azza Hassanein assiste à l’appel, parce qu’elle ne croyait pas que David Zhou fût objectif et compétent.
+[59] M. Papadopoulos a indiqué que le GRT n’est habituellement pas présent lors de la première réunion. Selon M. Papadopoulos, le GRT n’assiste aux réunions qu’en cas de désaccord entre le CRT et le contribuable.
+[60] Le 9 septembre 2016, M. Papadopoulos a reçu un appel de David Zhou l’informant que la conférence téléphonique concernant la demande de RS&DE de 2014 n’avait pas eu lieu et qu’il [traduction] « devait maintenant clore le dossier puisque le contribuable ne fournissait aucune information ».
+[61] Peu après cet appel, M. Papadopoulos a reçu un courriel de David Zhou officialisant la décision de rejeter la demande de RS&DE de 2014, au titre de la section 5.11.0 du Manuel, parce que Canafric avait refusé d’accorder un entretien dans un délai ou des conditions raisonnables.
+(3) Azza Hassanein [62] Azza Hassanein était la GRT pour les demandes de RS&DE de 2013 et de 2014.
+[63] Mme Hassanein a expliqué que la décision d’accueillir ou de rejeter une demande de RS&DE faisait partie des responsabilités du CRT. Elle a affirmé qu’elle n’avait pas le pouvoir d’infirmer la décision. Elle a décrit son rôle concernant la décision du CRT comme étant de veiller à ce que le CRT suive le Manuel, effectue l’examen conformément aux politiques de l’ARC et accorde au demandeur un traitement équitable et à ce que la décision soit étayée par le rapport.
+La demande de RS&DE de 2013 [64] Mme Hassanein a assisté à la réunion sur place du 14 septembre 2015, mais elle ne se souvenait pas des longues discussions techniques avec les représentants de Canafric. Elle pouvait uniquement se rappeler que les projets 1304 et 1306 avaient été discutés durant la réunion.
+La demande de RS&DE de 2014 [65] Mme Hassanein a affirmé qu’elle avait communiqué avec M. Pandya et convenu d’effectuer l’examen lors d’une conférence téléphonique plutôt que par une visite sur place, puisqu’une telle visite avait déjà eu lieu.
+[66] Elle a confirmé le témoignage de M. Papadopoulos concernant l’échange de lettres entre le 18 août 2016 et le 8 septembre 2016 à propos de sa présence ou non à la conférence téléphonique. Elle était d’accord avec David Zhou lorsqu’il a affirmé dans sa lettre du 24 août 2016 qu’elle n’avait pas à être présente puisque c’était lui le décideur.
+(4) David Zhou [67] David Zhou était le CRT chargé de l’examen technique des projets pour les années d’imposition.
+[68] M. Zhou a obtenu un baccalauréat en génie alimentaire en Chine et une maîtrise en sciences alimentaires de la Memorial University à Terre-Neuve, avec spécialisation dans la [traduction] « fonctionnalité de l’amidon ». Avant d’entrer au service de l’ARC, il a travaillé 20 ans dans l’industrie de la fabrication de produits alimentaires. Ses employeurs précédents comprenaient Cadbury et Mars, qui fabriquent principalement des bonbons, des tablettes de chocolat et des sucreries.
+[69] M. Zhou a été embauché par l’ARC au poste de CRT au début de 2015.
+[70] M. Zhou a reconnu que les produits de Canafric différaient de ceux sur lesquels il avait travaillé auparavant, en ce sens qu’il ne s’agissait pas de produits à haute teneur en sucre.
+[71] En se référant au Manuel d’examen des demandes de RS&DE, M. Zhou a expliqué que les demandeurs devaient fournir des éléments de preuve objectifs et indépendants corroborant leur demande en plus de témoignages oraux.
+L’année d’imposition 2013 [72] M. Zhou a participé à la réunion sur place du 14 septembre 2015 concernant la demande de RS&DE de 2013. La réunion a débuté par une présentation de l’ARC sur le programme de RS&DE.
+[73] Après avoir discuté du projet 1306 avec les représentants de Canafric, M. Zhou a reconnu qu’il existait une incertitude technologique, mais il a estimé que la documentation n’était pas suffisante pour démontrer les travaux qui avaient été effectués pour résoudre cette incertitude.
+[74] M. Zhou en est arrivé à la même conclusion concernant le projet 1304. Il existait une incertitude technologique, mais il ne disposait pas d’une documentation suffisante pour conclure à un progrès technologique.
+L’année d’imposition 2014 [75] M. Zhou a affirmé qu’aucun des projets n’avait été examiné en lien avec la demande de RS&DE de 2014, parce qu’aucune réunion avec Canafric n’avait eu lieu et qu’aucun élément de preuve ou document n’avait été fourni.
+Les années d’imposition 2015 et 2016 [76] M. Zhou a assisté à la réunion du 8 mars 2018. Il a reconnu qu’on lui avait présenté davantage de renseignements « techniques » que lors de la réunion de 2015, ce qui lui a permis de mieux comprendre les projets.
+[77] Durant la réunion, M. Zhou a concentré son examen sur le projet 1501. Les représentants de Canafric ont expliqué certains des défis techniques que posaient les projets, mais il ne pouvait se rappeler des détails de la discussion.
+[78] En ce qui a trait au projet 1501, M. Zhou a expliqué que les 12 produits comportaient tous une garniture, une pâte et une croûte, la garniture étant le seul élément qui variait d’un produit à l’autre. Il était d’avis que le premier produit comportait une incertitude technologique, mais pas les 11 autres produits, puisque la même technologie pouvait être transférée d’un produit à l’autre pour résoudre l’incertitude.
+[79] Son rapport sur la RS&DE fait état des documents ou renseignements fournis avant et pendant la réunion du 8 mars 2018. Il comporte notamment un résumé du projet 1501, des exemples de recettes pour les divers produits, le formulaire d’évaluation sensorielle du produit, en plus de la correspondance interne et externe au sujet du design de l’emballage et de problèmes de colle.
+[80] Aucun autre projet n’a été examiné concernant les demandes de RS&DE de 2015 et de 2016, parce que la conférence téléphonique du 27 juillet 2018 n’a jamais eu lieu. M. Zhou a reconnu que l’ARC avait reçu le 26 juillet 2018 à 15 h une télécopie d’une lettre de Canafric demandant que la réunion soit reportée. M. Zhou a expliqué qu’il s’attendait toujours à ce que la conférence téléphonique ait lieu le 27 juillet 2018 parce qu’il n’avait pas vu la lettre à temps.
+IV. ANALYSE [81] L’article 37 de la LIR permet aux contribuables qui exploitent une entreprise au Canada de déduire de leur revenu des dépenses de recherche scientifique et de développement expérimental. Ces dépenses ne seraient par ailleurs pas déductibles aux termes des règles générales prévues à l’article 18 de la LIR. En outre, les contribuables peuvent demander des crédits d’impôt à l’investissement au titre de l’article 127 de la LIR. Pour être admissible à la déduction et au crédit d’impôt à l’investissement, le contribuable doit avoir mené des activités de RS&DE durant l’année d’imposition pertinente.
+[82] L’expression « activités de recherche scientifique et développement expérimental » est définie au paragraphe 248(1) de la LIR :
+248(1) activités de recherche scientifique et de développement expérimental Investigation ou recherche systématique d’ordre scientifique ou technologique, effectuée par voie d’expérimentation ou d’analyse, c’est-à-dire :
+a) la recherche pure, à savoir les travaux entrepris pour l’avancement de la science sans aucune application pratique en vue;
+b) la recherche appliquée, à savoir les travaux entrepris pour l’avancement de la science avec application pratique en vue;
+c) le développement expérimental, à savoir les travaux entrepris dans l’intérêt du progrès technologique en vue de la création de nouveaux matériaux, dispositifs, produits ou procédés ou de l’amélioration, même légère, de ceux qui existent.
+Pour l’application de la présente définition à un contribuable, sont compris parmi les activités de recherche scientifique et de développement expérimental :
+d) les travaux entrepris par le contribuable ou pour son compte relativement aux travaux de génie, à la conception, à la recherche opérationnelle, à l’analyse mathématique, à la programmation informatique, à la collecte de données, aux essais et à la recherche psychologique, lorsque ces travaux sont proportionnels aux besoins des travaux visés aux alinéas a), b) ou c) qui sont entrepris au Canada par le contribuable ou pour son compte et servent à les appuyer directement.
+Ne constituent pas des activités de recherche scientifique et de développement expérimental les travaux relatifs aux activités suivantes :
+e) l’étude du marché et la promotion des ventes;
+f) le contrôle de la qualité ou la mise à l’essai normale des matériaux, dispositifs, produits ou procédés;
+g) la recherche dans les sciences sociales ou humaines;
+h) la prospection, l’exploration et le forage fait en vue de la découverte de minéraux, de pétrole ou de gaz naturel et leur production;
+i) la production commerciale d’un matériau, d’un dispositif ou d’un produit nouveau ou amélioré, et l’utilisation commerciale d’un procédé nouveau ou amélioré;
+j) les modifications de style;
+k) la collecte normale de données.
+[83] La définition d’activités de RS&DE est fondée sur un concept « d’inclusion et d’exclusion » : une vaste catégorie d’activités sont incluses au titre des alinéas 248(1)a) à c) de la LIR, alors que des éléments précis sont exclus au titre des alinéas 248(1)e) à k) de la LIR[1]. Les trois activités incluses au titre des alinéas 248(1)a) à c) sont la recherche pure, la recherche appliquée et le développement expérimental. La plupart des affaires de RS&DE, y compris le présent appel, concernent le développement expérimental[2].
+[84] L’alinéa 248(1)c) de la LIR définit le développement expérimental comme étant les travaux entrepris dans l’intérêt du progrès technologique. Notre Cour et la Cour d’appel fédérale ont rendu de nombreuses décisions qui interprètent cet alinéa de la LIR, dont la plupart reposaient sur les faits propres à l’affaire. Malgré la nature factuelle de la question en litige, les tribunaux ont systématiquement adopté le cadre élaboré par le juge Bowman (plus tard juge en chef) dans la décision Northwest Hydraulic Consultants Ltd. c. La Reine[3] (« Northwest Hydraulic »). Avant d’expliquer l’approche à suivre dans l’examen de la question, le juge Bowman a parlé de l’intention du législateur lorsqu’il a adopté le programme de RS&DE :
+[11] Les stimulants fiscaux accordés à ceux qui se livrent à la RS & DE visent à encourager la recherche scientifique au Canada (Consoltex Inc. v. The Queen, 97 DTC 724). Cela étant, la législation concernant pareils stimulants « s’interprète de la manière la plus équitable et la plus large qui soit compatible avec la réalisation de son objet » (article 12 de la Loi d’interprétation).
+[85] Dans l’arrêt CW Agencies Inc. c. Canada, 2001 CAF 393, la Cour d’appel fédérale a résumé les cinq critères de la manière suivante :
+[17] Les deux parties se sont appuyées sur les critères énoncés dans Northwest Hydraulic Consultants Limited c. Sa Majesté la Reine, [1998] D.T.C. 1839. Dans cette décision, le juge Bowman de la Cour de l’impôt a énoncé cinq critères utiles pour déterminer si une activité donnée constitue de la RS & DE. Ces critères ont été approuvés par la Cour d’appel fédérale dans RIS-Christie c. Sa Majesté la Reine, [1999] D.T.C. 5087, à la page 5089. Les critères sont les suivants :
+1. Existait-il un risque ou une incertitude technologique qui ne pouvait être éliminé par les procédures habituelles ou les études techniques courantes?
+2. La personne qui prétend faire de la RS & DE a-t-elle formulé des hypothèses visant expressément à réduire ou à éliminer cette incertitude technologique?
+3. La procédure adoptée était-elle complètement conforme à la discipline de la méthode scientifique, notamment dans la formulation, la vérification et la modification des hypothèses?
+4. Le processus a-t-il abouti à un progrès technologique?
+5. Un compte rendu détaillé des hypothèses vérifiées et des résultats a-t-il été fait au fur et à mesure de l’avancement des travaux?
+[86] La Cour d’appel fédérale est demeurée constante dans son application des cinq critères énoncés dans la décision Northwest Hydraulic[4]. Récemment, certains contribuables ont tenté de convaincre la Cour de s’éloigner de ces critères, au motif qu’il ne s’agissait pas de prérequis obligatoires à l’admissibilité des activités de RS&DE, puisqu’ils ne se trouvent pas dans le libellé de la définition du paragraphe 248(1) de la LIR. Dans l’arrêt Kam-Press Metal Products Ltd. c. La Reine[5], la Cour d’appel fédérale a rejeté cet argument, affirmant que le rôle de la Cour ne consiste pas à se contenter de réciter les mots exacts qui sont utilisés dans les dispositions d’une loi, mais à les interpréter en se fondant sur les principes d’interprétation. La Cour a confirmé cette opinion dans National R&D Inc. c. Canada[6] :
+[12] Deuxièmement, la thèse de la société National repose sur une mauvaise compréhension de la relation entre les cours et les textes législatifs. Les critères sur lesquels la juge s’est fondée n’outrepassent pas la portée du paragraphe 248(1), mais représentent au contraire l’interprétation que fait la cour de l’intention du législateur lorsqu’il a rédigé le paragraphe 248(1) (Kam-Press, par. 6; voir aussi le juge Robert Sharpe, Good Judgment: Making Judicial Decisions (Un bon jugement : la prise de décisions judiciaires), « The Generality of Law (La généralité des lois) » (Toronto : University of Toronto Press, 2018), par. 54). Le législateur et les organismes législatifs attendent des cours qu’elles définissent le sens et la portée des dispositions et y apportent des précisions, selon les besoins dictés par les circonstances de l’espèce. L’interprétation des textes législatifs qui en découle et qui est exprimée dans la jurisprudence ne constitue pas un exercice illégitime de pouvoirs législatifs par les cours; au contraire, il s’agit précisément de ce que les cours sont tenues de faire : [traduction] « La généralité des lois leur confère leur objet, leur justification et leur qualité systémique. C’est ce qui différencie les lois des décisions judiciaires qui la mettent en application. » (Sharpe, par. 54) [Non souligné dans l’original.]
+[87] Le premier critère, à savoir l’existence d’un risque ou d’une incertitude technologique, découle du libellé du paragraphe 248(1) de la LIR, à savoir l’exigence du progrès technologique. Un progrès technologique est nécessaire lorsqu’il est impossible de savoir (ou de savoir avec certitude) si un objectif donné peut être atteint en raison d’un manque sur le plan des connaissances scientifiques[7]. Ce point a été examiné par notre Cour dans la décision Les Abeilles Service de conditionnement inc. c. La Reine[8] :
+[142] Il faut garder à l’esprit qu’il s’agit de considérations pour aider à déterminer s’il y a eu ou non un avancement technologique. La première considération, l’incertitude technologique, est une façon d’aborder le critère du progrès technologique; il peut difficilement être question d’un avancement technologique si on sait déjà comment obtenir le résultat […] [Non souligné dans l’original.]
+[88] Non seulement le contribuable doit-il cerner une incertitude technologique, mais il doit également établir que cette incertitude ne peut être éliminée par les études techniques ou les procédures habituelles[9] :
+[16] […] 1. Existe-t-il un risque ou une incertitude technologique?
+a) Lorsqu’on parle de « risque ou [d’]incertitude technologique » dans ce contexte, on laisse implicitement entendre qu’il doit exister une incertitude quelconque qui ne peut pas être éliminée par les études techniques courantes ou par les procédures habituelles. Je ne parle pas du fait que dès qu’un problème est décelé, il peut exister un certain doute au sujet de la façon dont il sera réglé. Si la résolution du problème est raisonnablement prévisible à l’aide de la procédure habituelle ou des études techniques courantes, il n’y a pas d’incertitude technologique telle que cette expression est utilisée dans ce contexte.
+b) Qu’entend-on par « études techniques courantes »? C’est cette question (ainsi que celle qui se rapporte au progrès technologique) qui semble avoir divisé les experts plus que toute autre. En résumé, cela se rapporte aux techniques, aux procédures et aux données qui sont généralement accessibles aux spécialistes compétents dans le domaine. [Non souligné dans l’original.]
+[89] Le critère de l’incertitude technologique est également appelé l’exigence « pourquoi ». Reconnaître qu’une incertitude scientifique ou technologique existe marque le point de départ des travaux de RS&DE, tandis que l’avancement est le résultat visé des travaux. Par conséquent, une tentative de résolution d’une incertitude scientifique ou technologique est une tentative de réaliser un avancement scientifique ou technologique[10]. Il faut que les connaissances manquantes soient réellement inexistantes dans la base de connaissances scientifiques ou technologiques et non uniquement inconnues du contribuable[11]. Pour déterminer l’existence d’une incertitude technologique, les tribunaux doivent considérer chaque projet globalement, non pas examiner chaque manœuvre ou essai individuellement[12].
+[90] Le quatrième critère, à savoir si le processus a abouti à un progrès technologique, constitue la seconde partie de l’exigence « pourquoi ». Il est important de se rappeler que ce critère n’oblige pas le contribuable à démontrer qu’il a atteint ses objectifs. Si le travail échoue, mais qu’il a été entrepris dans l’intérêt du progrès technologique, il peut néanmoins être admissible[13]. Pour satisfaire à cette exigence, le projet doit aboutir à un progrès technologique ou à un progrès en ce qui concerne la compréhension générale, c’est‑à‑dire quelque chose que les personnes qui s’y connaissent dans le domaine savent ou peuvent savoir[14]. Ça inclut le rejet d’une hypothèse. Dans la décision Formadrain Inc., notre Cour a conclu qu’un projet constituait un développement expérimental même s’il échouait :
+[113] Bien que le projet de l’appelante relatif au mandrin n’ait pas abouti en 2013 à une technologie qui était utilisable, il n’en demeure pas moins que les recherches ont permis à l’appelante d’avancer ses connaissances scientifiques et technologiques.
+[114] Dans la Politique de 2015, il est indiqué que :
+En démontrant pourquoi une certaine approche échouera ou ne permettra pas d’atteindre les objectifs visés, l’avancement scientifique ou technologique est encore possible. Dans certaines circonstances, les objectifs du projet peuvent ne pas avoir été atteints, mais, au cours du processus, de la RS&DE a été réalisée pour comprendre les raisons de l’échec. Ainsi, un avancement scientifique ou technologique peut être réalisé même si les objectifs du projet ne sont pas atteints.
+Le rejet d’une hypothèse constitue un avancement puisque cela élimine une solution possible. [Non souligné dans l’original.]
+[91] La demande de RS&DE de 2013 comprenait cinq projets, dont deux (1304 et 1306) ont été retenus pour un examen technique et financier commun. Ces deux projets ont fait l’objet de longues discussions durant la réunion sur place du 14 septembre 2015. Les clients de Canafric avaient des objectifs précis, notamment une plus longue durée de conservation sans agents de conservation artificiels, une réduction de la teneur en matières grasses et en sel, une augmentation du taux de protéines et le maintien de l’intégrité du produit durant le processus de congélation et de décongélation. Ces objectifs devaient être atteints sans altérer le goût du produit. Durant son interrogatoire principal, M. Zhou a reconnu que les projets 1304 et 1306 présentaient une incertitude technologique.
+[92] La demande de RS&DE de 2014 comprenait les projets 1306, 1401 et 1402. Les projets 1401 et 1402 consistaient en de nouveaux produits avec des exigences précises, notamment une réduction de la teneur en sel et en matières grasses, le remplacement des flocons de pommes de terre par de « vraies pommes de terre », l’utilisation de viande exempte d’antibiotiques et une réduction du temps de cuisson. M. Zhou n’a pas précisé s’il pensait que les projets 1401 et 1402 soulevaient une incertitude technologique, puisqu’aucune réunion n’a eu lieu concernant cette demande.
+[93] Les demandes de RS&DE de 2015 et de 2016 comprenaient sept projets, dont deux, les projets 1501 et 1502, ont fait l’objet de discussions durant la réunion du 8 mars 2018. Les principaux défis étaient de concevoir une garniture plus épaisse, d’utiliser une pâte à tarte feuilletée compatible avec toutes les garnitures, de réduire la teneur en matières grasses et en sel, d’obtenir une durée de conservation de 21 jours sans aucun agent de conservation artificiel et d’utiliser des produits halal tout en préservant le profil de goût des produits.
+[94] Vu les défis décrits par M. Pandya, les projets 1304, 1306, 1401, 1402, 1501 et 1502 soulevaient une incertitude technologique qui ne pouvait être éliminée par les procédures habituelles ou des études techniques. Canafric a tenté de créer des recettes dans le but de répondre aux demandes des clients concernant leurs produits. Chaque projet visait la création ou l’amélioration d’un produit, ce qui signifie qu’aucun renseignement n’était disponible concernant la manière d’atteindre ces objectifs. La principale source de désaccord pour toutes les demandes de RS&DE avait trait au fait que David Zhou pensait que chaque avancée était transférable d’un produit à un autre. Par exemple, M. Zhou disait que les techniques de réduction de la teneur en sel et en matières grasses pouvaient être reproduites pour différents produits. M. Pandya a clairement démontré que ce n’était pas le cas, parce que les ingrédients réagissent différemment lorsqu’ils sont utilisés dans des produits différents. Canafric a été incapable d’atteindre tous ses objectifs. Néanmoins, l’élimination de certaines recettes qui avaient échoué constituait un progrès technologique.
+[95] J’ai jugé que M. Pandya était un témoin très convaincant. Il a démontré une profonde connaissance du domaine de recherche et avait d’excellentes aptitudes de communication. Il s’est très bien exprimé, a présenté des faits dans son témoignage et avait manifestement beaucoup d’expérience dans le domaine de recherche visé. M. Zhou par contre, même s’il a présenté des faits, était davantage un généraliste qui ne disposait pas de soutien ou d’auxiliaire. Il s’est montré rigide durant son témoignage et il n’avait pas les connaissances nécessaires pour évaluer correctement les activités en cause. Ce n’est pas surprenant, compte tenu de sa méconnaissance du domaine de recherche et de son arrivée récente au poste qu’il occupait.
+[96] Les deuxième et troisième critères font partie de l’exigence « comment ». Ces deux critères ont trait au passage introductif de la définition, selon lequel les travaux doivent être menés au moyen d’une investigation ou d’une recherche systématique d’ordre scientifique ou technologique, effectuée par voie d’expérimentation ou d’analyse. Il s’agit de s’assurer que les travaux ont été entrepris dans le but prévu dans la définition au paragraphe 248(1) de la LIR[15] :
+[142] […] les deuxième et troisième considérations sont, entre autres, une façon de s’assurer que les travaux ont été entrepris dans l’intérêt du progrès technologique et qu’il ne s’agit pas, par exemple, d’un avancement obtenu par accident plutôt que des travaux entrepris dans l’intérêt du progrès technologique.
+[97] Dans la décision Northwest Hydraulics, le juge Bowman a mentionné le second critère, soit si la personne qui prétend faire de la RS&DE a formulé des hypothèses visant expressément à réduire ou à éliminer cette incertitude technologique, et fait état d’un processus en cinq étapes :
+[16] [...]
+a) l’observation de l’objet du problème;
+b) la formulation d’un objectif clair;
+c) la détermination et la formulation de l’incertitude technologique;
+d) la formulation d’une hypothèse ou d’hypothèses destinées à réduire ou à éliminer l’incertitude;
+e) la vérification méthodique et systématique des hypothèses.
+[98] Le deuxième critère est lié au premier, puisque l’incertitude technologique est nécessaire à la formulation d’une hypothèse[16]. Le juge Sommerfeldt a effectué une analyse textuelle du terme « hypothèse » et a conclu qu’il s’agissait d’« un énoncé qui doit être vérifié au moyen d’une expérience ou d’un essai »[17].
+[99] Concernant le troisième critère, à savoir si la procédure adoptée était complètement conforme aux principes établis et aux objectifs de la méthode scientifique, le juge Bowman a affirmé ce qui suit :
+[16] [...]
+a) Il est important de reconnaître que même si la méthodologie susmentionnée décrit les aspects essentiels de la RS & DE, la créativité intuitive et même l’ingéniosité peuvent avoir un rôle crucial dans le processus aux fins de la définition de la RS & DE. Toutefois, ces éléments doivent exister dans le cadre de la méthode scientifique dans son ensemble.
+b) Ce qui peut sembler habituel et évident après coup ne l’était peut-être pas au début des travaux. Ce n’est pas uniquement l’adhésion à des pratiques systématiques qui distingue l’activité courante des méthodes nécessaires selon la définition de la RS & DE figurant à l’article 2900 du Règlement, mais l’adoption de la méthode scientifique décrite ci-dessus dans son ensemble, en vue d’éliminer une incertitude technologique au moyen de la formulation et de la vérification d’hypothèses innovatrices non vérifiées.
+[100] Dans la décision Joel Theatrical, le juge Sommerfeldt a répété les éléments caractérisant la démarche systématique :
+[33] […] La troisième exigence indique que les procédures adoptées devraient être conformes aux principes établis et aux principes objectifs de la méthode scientifique, définis par :
+• l’observation scientifique systématique;
+• la mesure et l’expérimentation;
+• la formulation, la vérification et la modification d’hypothèses (c’est la troisième caractéristique de la troisième exigence qui recoupe les quatrième et cinquième étapes de la deuxième exigence).
+[101] Notre Cour a toujours affirmé que la démarche par essais et erreurs ne relève pas de la méthode scientifique si elle est utilisée de façon exclusive. La démarche par essais et erreurs vise à résoudre un problème fonctionnel en testant différentes options. Contrairement à l’investigation systématique exigée par la définition au paragraphe 248(1) de la LIR, la démarche par essais et erreurs ne vise pas à trouver la raison pour laquelle une option n’a pas fonctionné avant de passer à la prochaine option[18]. Cela a été expliqué dans Joel Theatrical :
+[40] À ma connaissance, il n’existe pas de jurisprudence qui a établi que les essais et erreurs ne s’inscrivaient pas dans le cadre d’une méthode scientifique et qu’ils n’étaient pas admissibles au titre de la RS&DE; toutefois, il y a plusieurs cas où, même si ce n’était pas dit explicitement, on laissait entendre que les essais et erreurs pouvaient bien ne pas relever de la méthode scientifique. Par exemple, dans l’affaire R&D Pro‑Innovation, un conseiller en recherche et technologie de l’ARC a mentionné que les activités entreprises par l’appelant avaient été réalisées de manière non systématique et par essais et erreurs. Le juge Masse était en désaccord et a conclu que le programme expérimental de l’appelant était méthodique et systématique; toutefois, il a rejeté l’appel pour d’autres motifs. Dans l’affaire ACSIS EHR, les représentants de l’appelante (dont l’appel a été accueilli) ont déclaré que ses chercheurs avaient eu recours à une démarche systématique plutôt qu’à une méthode désordonnée ou à une méthode de tâtonnement dans le cadre de leurs expériences. Dans l’affaire Puissance de recherches générales Novalia, l’ARC était d’avis que l’appelante (dont l’appel a été rejeté) avait employé une démarche d’essais et erreurs au lieu d’un processus d’investigation systématique. [Non souligné dans l’original. Notes de bas de page omises.]
+[102] Cette conclusion a été par la suite confirmée dans la décision Flavor Net Inc. c. La Reine[19] :
+[53] En ce qui a trait au caractère adéquat de l’expérimentation entreprise par l’appelante, la situation n’est pas aussi claire. Certaines parties du témoignage et des éléments de preuve documentaire donnent à penser que la vérification s’est faite essentiellement par tâtonnements. Par exemple, j’estime que le témoignage de M. Schmalz et les éléments de preuve documentaire ne fournissent pas de justification claire en ce qui concerne la sélection de certains produits nutraceutiques, hormis le fait qu’ils étaient largement connus pour avoir divers bienfaits pour la santé. Cela ressort particulièrement du fait que M. Schmalz a déclaré que des produits nutraceutiques avaient été incorporés partiellement afin que l’on puisse déterminer s’ils contribuaient à la dispersion des stérols dans l’eau. Dans l’affaire Joel Theatrical Rigging Contractors Ltd., le juge Sommerfeldt a déclaré que l’expérimentation par tâtonnements seulement ne répondait pas aux exigences des vérifications effectuées conformément aux principes de la méthode scientifique.
+[...]
+[55] Par conséquent, je suis d’avis que l’appelante n’a pas satisfait à la troisième exigence. [Non souligné dans l’original. Note de bas de page omise.]
+[103] M. Pandya a décrit le processus de développement de Canafric de la manière suivante :
+Le client demande un produit avec des caractéristiques précises.
+Canafric élabore une recette conçue pour répondre aux exigences du client.
+La recette est testée pour s’assurer qu’elle répond aux exigences.
+Le produit est envoyé à un [traduction] « comité du goût » pour en évaluer le goût.
+[104] Ce processus satisfait au deuxième critère. Canafric a formulé une hypothèse visant précisément à permettre la réalisation de ses différents objectifs. Quant au troisième critère, à savoir si le processus était conforme à la méthode scientifique, l’ARC était d’avis que Canafric avait utilisé une méthode par « essais et erreurs » en testant différentes recettes pouvant répondre à ses objectifs, sans tenter d’expliquer ou d’analyser la raison pour laquelle chacune des recettes n’avait pas fonctionné. Je ne souscris pas à cette thèse. Quand elle déterminait qu’une recette ne pouvait répondre aux exigences du client, Canafric ne se contentait pas de conclure que la recette ne fonctionnait pas. Canafric a mené des analyses dans le but de comprendre quelle exigence n’avait pas été remplie et a modifié des parties précises de la recette afin de résoudre le problème. Toutefois, Canafric était limitée par les demandes de ses clients concernant les ingrédients à utiliser.
+[105] Le cinquième critère, à savoir si un compte rendu détaillé des hypothèses vérifiées et des résultats a été fait au fur et à mesure de l’avancement des travaux, est le seul critère qui ne peut être inféré directement du libellé du paragraphe 248(1) de la LIR :
+[16] […]
+5. La Loi et son règlement d’application ne le prévoient pas expressément, mais il semble évident qu’un compte rendu détaillé des hypothèses, des essais et des résultats, doive être fait, et ce, au fur et à mesure de l’avancement des travaux.
+[106] La Cour d’appel fédérale a examiné ce critère dans l’arrêt R I S - Christie Ltd. c. Canada[20] (« R I S - Christie Ltd. »). La Cour de l’impôt avait reconnu que des recherches consistant en des expériences et des essais avaient été menées, mais avait conclu que la demanderesse était tenue de produire la preuve documentaire des résultats d’essais pour revendiquer les avantages fiscaux prévus à l’article 37 de la LIR. Le juge Robertson a tempéré l’obligation de produire une preuve documentaire :
+[14] Outre la création de nouveaux produits et procédés, la recherche scientifique implique l’existence d’expériences contrôlées avec mise à l’essai de modèles ou de prototypes. Le contribuable doit donc administrer la preuve des recherches scientifiques pour démontrer qu’elles ont été effectuées (avec les essais) et qu’il est de ce fait admissible aux encouragements fiscaux; voir par exemple Progressive Solutions Inc. c. R., 96 DTC 1232 (C.C.I.). Il doit faire la preuve non seulement que des essais ont été effectués, mais encore qu’ils ont été effectués de façon systématique. À mon avis, la condition que les recherches soient « systématiques » représente une norme plus rigoureuse que la simple condition que des recherches, essais y compris, soient entreprises. Bien que les preuves testimoniales soient admissibles au même titre que les preuves documentaires à cet égard, le seul moyen infaillible d’établir que la recherche scientifique a été effectuée de façon systématique consiste à produire des preuves documentaires qui font ressortir la progression logique entre chaque essai et les essais précédents ou subséquents.
+[15] Il est donc raisonnable d’attendre du contribuable qu’il administre la preuve documentaire des recherches systématiques, essais y compris. Si cependant il y a une explication plausible du défaut de produire cette preuve, le juge peut toujours conclure, compte tenu de la probabilité la plus forte, qu’il y a eu des recherches systématiques. Par exemple, quand les notes de recherches ont été détruites par accident, il faut qu’il soit permis au juge de première instance de conclure, à la lumière de l’ensemble des preuves produites, qu’il y a eu recherches systématiques. Durant les débats, l’avocate représentant le ministre a reconnu ce principe, ne serait-ce que parce que cette hypothèse d’école ne s’applique pas en l’espèce. J’estime cependant qu’il doit être également permis de conclure que le contribuable a entrepris des recherches systématiques s’il est prouvé que ces recherches se sont soldées par une avancée technologique. Il doit en être ainsi parce que les dispositions de la Loi et du Règlement relatives aux recherches scientifiques ne peuvent pas reposer sur la seule condition de la possibilité de répéter l’expérience. Autrement dit, cette condition réduirait à néant la validité de toutes les autres preuves de recherche scientifique. [Non souligné dans l’original.]
+[107] La Cour d’appel fédérale a accueilli l’appel de la contribuable, au motif qu’une fois la conclusion tirée que des essais ont été effectués et qu’ils se sont traduits par une avancée technologique, elle donnait lieu « à la conclusion, sauf preuve contraire, que les essais effectués par la contribuable ont été entrepris conformément à [la définition de la RS&DE] ». Dans les circonstances, il n’était plus nécessaire d’imposer à la demanderesse la charge supplémentaire de produire des preuves documentaires sur la possibilité de répéter les résultats des essais[21].
+[108] Renvoyant à l’arrêt R I S - Christie Ltd., notre Cour a conclu, dans la décision Formadrain Inc., « qu’il n’est pas obligatoire que la preuve soit documentaire et qu’une preuve testimoniale peut être présentée ». Toutefois, elle a souligné que le fait de ne pas documenter adéquatement une démarche dans un projet de RS&DE comportait des risques pour les contribuables[22]. Notre Cour a adopté une position identique dans la décision Béton Mobile du Québec Inc., où la juge Lafleur a conclu qu’il n’est pas obligatoire que la preuve soit documentaire, même si la méthode scientifique requiert normalement qu’un compte rendu détaillé soit préparé ou du moins que des notes soient prises aux diverses étapes du processus de vérification[23].
+[109] La méthode privilégiée concernant l’exigence de produire de la documentation a été présentée par notre Cour dans la décision Flavor Net Inc. :
+[60] Bien qu’il soit établi que le respect de ce critère n’est pas obligatoire, le fait de s’y conformer aide un contribuable à établir que ses activités constituent des activités de RS&DE. Par conséquent, il est dans l’intérêt du contribuable de tenir des dossiers détaillés des hypothèses, des essais et des résultats à mesure que les travaux évoluent. Ce critère est étroitement lié aux aspects de la troisième exigence, selon laquelle le contribuable doit effectuer les essais conformément aux principes établis et aux principes objectifs de la méthode scientifique, y compris l’observation scientifique systématique, la mesure et l’expérimentation. [Non souligné dans l’original.]
+[110] L’obligation de produire de la documentation a constitué une autre source de désaccord en l’espèce. Par exemple, David Zhou a témoigné que les projets 1304 et 1306 comportaient des éléments associés à une incertitude technologique, mais qu’ils n’étaient pas suffisamment documentés. La preuve documentaire n’est pas obligatoire. Une preuve testimoniale peut être présentée à l’appui d’une demande. En l’espèce, Canafric a produit une preuve documentaire et une preuve testimoniale à l’appui de ses diverses demandes.
+[111] Le 14 septembre 2015, une réunion a eu lieu sur place concernant la demande de RS&DE de 2013, et plus précisément les projets 1304 et 1306. M. Pandya a affirmé que tous les renseignements techniques concernant ces projets avaient été fournis de vive voix à M. Zhou durant la réunion. M. Zhou l’a lui-même confirmé. M. Papadopoulos et Mme Hassanein, même s’ils ne pouvaient fournir les détails de la discussion, ont confirmé que [traduction] « de longues discussions techniques » ont eu lieu entre les représentants de Canafric et M. Zhou. Après la réunion, le 29 octobre 2015, Canafric a fait parvenir à M. Papadopoulos la documentation à l’appui des divers coûts des projets. À l’étape de l’appel, le 27 juillet 2018, Canafric a envoyé à l’ARC un document de 120 pages, lequel contenait une description des projets et du processus de développement.
+[112] Quant à la demande de RS&DE de 2014, la réunion initialement prévue pour le 9 septembre 2016 n’a jamais eu lieu. Par conséquent, aucun renseignement, que ce soit oral ou documentaire, n’a été communiqué à l’étape de l’audit. Toutefois, des documents appuyant la demande de RS&DE de 2014 ont été produits à l’étape de l’appel pour accompagner le document de 120 pages envoyé à la Direction générale des appels de l’ARC le 27 juillet 2017.
+[113] Une réunion a eu lieu sur place le 8 mars 2018, concernant les projets 1501 et 1502. Comme lors de la réunion de 2015, les représentants de Canafric ont expliqué les travaux associés à ces projets à M. Zhou, qui était accompagné de Kevin Kells (GRT) et de Reagan Blancfield (examinateur financier). M. Zhou a reconnu que Canafric avait fourni suffisamment de renseignements au sujet du projet 1501 pour lui permettre de faire une détermination. Une conférence téléphonique prévue pour le 27 juillet 2018, concernant les autres projets, n’a jamais eu lieu parce que le consultant technique de Canafric a eu des ennuis de santé. Une fois de plus, de la documentation a été remise à Reagan Blanchfield par la suite, laquelle comprenait un résumé du projet et une description des coûts du projet.
+V. CONCLUSION [114] Selon les éléments de preuve, la preuve de l’appelante était très convaincante et l’appelante s’est acquittée du fardeau lui incombant du fait des actes de procédure. L’intimé n’a pas su réfuter la preuve de l’appelante de manière franche, en particulier en ce qui a trait à la documentation remise à l’ARC et aux discussions techniques détaillées qui se sont déroulées durant les réunions sur place. La seule réponse de l’intimé a été de rejeter les demandes.
+[115] L’appelante a réussi à établir que les demandes de RS&DE de 2013, de 2014, de 2015 et de 2016 remplissent les cinq critères énoncés dans la décision Northwest Hydraulics :
+Il existait un risque ou une incertitude technologique qui ne pouvait être éliminé par les procédures habituelles ou les études techniques courantes.
+Canafric a formulé des hypothèses visant expressément à réduire ou à éliminer cette incertitude technologique.
+La procédure adoptée était complètement conforme à la discipline de la méthode scientifique, notamment dans la formulation, la vérification et la modification des hypothèses.
+Le processus a abouti à un progrès technologique.
+Un compte rendu détaillé des hypothèses vérifiées et des résultats a été fait au fur et à mesure de l’avancement des travaux.
+[116] Je n’ai aucun doute que l’appelante s’est acquittée du fardeau de la preuve lui incombant. L’appel est accueilli.
+[117] Chaque partie devra présenter des observations écrites sur les dépens dans les 60 jours, concernant les points suivants :
+a)le droit aux dépens;
+b) le montant des dépens, le cas échéant.
+Signé à Ottawa, Canada, ce 26e jour de juillet 2023.
+« E.P. Rossiter »
+Le juge en chef Rossiter
+Traduction certifiée conforme
+ce 25e jour de février 2025.
+Elisabeth Ross, jurilinguiste principale
+RÉFÉRENCE :
+CCI 2023 108
+NOS DES DOSSIERS DE LA COUR :
+2018-677(IT)G
+2019-3835(IT)G
+2020-1571(IT)G
+2020-1574(IT)G
+INTITULÉ :
+CANAFRIC INC. c. SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Hamilton (Ontario)
+DATES DE L’AUDIENCE :
+Les 20, 21 et 22 septembre 2022 et 13 décembre 2022
+MOTIFS DU JUGEMENT :
+L’honorable juge en chef Eugene P. Rossiter
+DATE DU JUGEMENT :
+Le 26 juillet 2023
+COMPARUTIONS :
+Avocat de l’appelante :
+Me John P. McLaughlin
+Avocat de l’intimé :
+Me Devon Peavoy
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me John P. McLaughlin
+Cabinet :
+Pour l’intimé :
+Shalene Curtis-Micallef Sous-procureure générale du Canada Ottawa, Canada
+[1] 1726437 Ontario Inc. (AirMax Technologies) c. La Reine, 2012 CCI 376, par. 13.
+[2] Béton Mobile du Québec Inc. c. La Reine, 2019 CCI 278, par. 40.
+[3] 1998 CanLII 553 (CCI).
+[4] Jentel Manufacturing Ltd. c. Canada, 2011 CAF 355, par. 6; R&D Pro-Innovation Inc. c. Canada, 2016 CAF 152, par. 4.
+[5] 2021 CAF 88.
+[6] 2022 CAF 72.
+[7] AGENCE DU REVENU DU CANADA, Lignes directrices sur l’admissibilité des travaux aux encouragements fiscaux pour la recherche scientifique et le développement expérimental (RS&DE) (13 août 2021).
+[8] 2014 CCI 313.
+[9] Northwest Hydraulic, précitée, note 3, par 3.
+[10] AGENCE DU REVENU DU CANADA, Lignes directrices sur l’admissibilité des travaux aux encouragements fiscaux pour la recherche scientifique et le développement expérimental (RS&DE) (13 août 2021).
+[11] Formadrain Inc. c. La Reine, 2017 CCI 42, par. 93.
+[12] Ibid., par. 98 à 100.
+[13] Les Abeilles Service de conditionnement inc. c. La Reine, précitée, note 8, par. 143.
+[14] Joel Theatrical Rigging Contractors (1980) Ltd. c. La Reine, 2017 CCI 6, par. 43.
+[15] Les Abeilles Service de conditionnement inc. c. La Reine, précitée, note 8.
+[16] Formadrain Inc. c. La Reine, précitée, note 12, par. 103.
+[17] Joel Theatrical Rigging Contractors (1980) Ltd. c. La Reine, précitée, note 15, par. 26.
+[18] AGENCE DU REVENU DU CANADA, Politique sur l’admissibilité des travaux aux crédits d’impôt à l’investissement en RS&DE, 24 avril 2015.
+[19] 2017 CCI 179; voir également Béton Mobile du Québec Inc. c. La Reine, précitée, note 2, par. 50.
+[20] 1998 CanLII 8876 (C.A.F.).
+[21] Ibid., par. 15.
+[22] Formadrain Inc. c. La Reine, précitée, note 12, par. 118.
+[23] Béton Mobile du Québec Inc. c. La Reine, précitée, note 2, par. 54; voir également Les Abeilles Service de conditionnement inc. c. La Reine, précitée, note 14, par. 94.

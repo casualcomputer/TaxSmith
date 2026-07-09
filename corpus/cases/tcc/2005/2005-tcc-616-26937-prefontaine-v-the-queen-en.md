@@ -1,0 +1,161 @@
+---
+title: "Prefontaine v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26937/index.do"
+last_modified: "2005-09-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 616"
+citation2: ""
+neutral_citation: "2005 TCC 616"
+decision_date: "2005-09-22"
+language: "en"
+item_id: "26937"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 743
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:18:46.069000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f73e8c80aac7913464900823bd9108384ead4eda1b0b732218f2cd83d9f69776"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Prefontaine v. The Queen
+
+- Citation: 2005 TCC 616
+- Decision date: 2005-09-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 743, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Prefontaine v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-09-22
+Neutral citation
+2005 TCC 616
+File numbers
+2004-2501(IT)I
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 2004-2501(IT)I
+2005-1102(IT)I
+BETWEEN:
+ROSE PREFONTAINE and
+MAURICE PREFONTAINE,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on August 18, 2005 at Edmonton, Alberta
+Before: The Honourable Justice L.M. Little
+Appearances:
+For the Appellant Rose Prefontaine:
+For the Appellant, Maurice Prefontaine
+No appearance
+The Appellant himself
+Counsel for the Respondent:
+Carla Lamash
+____________________________________________________________________
+ORDER
+Upon application by the Respondent for an Order:
+1. Striking out the name "Maurice Prefontaine" from the style of cause in the Notice of Appeal;
+2. Striking out the sentence in the first paragraph of the Notice of Appeal that states:
+"a taxpayer who filed a tax return jointly with Maurice Prefontaine, a taxpayer who is also affected by the Notice of Reassessment".
+3. In the alternative, dismissing the appeal with respect to Maurice Prefontaine;
+4. Such further and other relief as this Honourable Court may grant.
+And upon reading the material filed with the Court;
+And upon hearing the parties;
+It is ordered as follows:
+1. The name of Maurice Prefontaine be stricken from the style of cause;
+2. The sentence in the first paragraph of the Notice of Appeal that reads "a taxpayer who filed a tax return jointly with Maurice Prefontaine, a taxpayer who is also affected by the Notice of Reassessment" be stricken.
+Signed at Vancouver, British Columbia, this 22nd day of September 2005.
+"L.M. Little"
+Little J.
+Citation: 2005TCC616
+Date: 20050922
+Dockets: 2004-2501(IT)I
+2005-1102(IT)I
+BETWEEN:
+ROSE PREFONTAINE and
+MAURICE PREFONTAINE,
+Appellants,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Little J.
+[1] The Respondent has applied for an Order striking out Maurice Prefontaine from the style of cause in the Notices of Appeal and striking out the sentences in the first paragraph of the Notices of Appeal that read:
+"a taxpayer who filed a tax return jointly with Maurice Prefontaine, a taxpayer who is also affected by the Notice of Reassessment."
+[2] Maurice Prefontaine stated that although the Notices of Reassessment were issued in the name of Rose Prefontaine, he is an affected party because he is the person who is claiming to be disabled. Maurice Prefontaine also claimed that he filed his income tax returns jointly with his wife.
+[3] It is clear from the provisions of the Income Tax Act (the "Act") that income tax returns are filed on an individual basis and Assessments or Reassessments of income are also issued in respect of individuals.
+[4] There is no provision in the Act for spouses to file joint income tax returns. The appeal provisions in the Act apply in respect of Assessments issued under the Act for individuals. Only a taxpayer named in the Notice of Reassessment has standing to file an appeal in this Court. The fact that an individual may be affected by a Reassessment of a family member's tax liability does not cause the Reassessment to be issued against both of those individuals.
+[5] The facts in this application are very similar to the facts before this Court in the following cases:
+97-2299(IT)G (Heard by Beaubier J.
+98-458(IT)G (Heard by Bonner J.)
+2002-2642(IT)G (Heard by Hershfield J.)
+2002-4820(IT)I (Heard by Paris J.)
+[6] I adopt the reasons of Bonner J. dated April 27, 1998 - 98-458(IT)G where the learned Justice decided that Maurice Prefontaine was not a proper party to that appeal and struck his name from the style of cause. For the same reasons, I order that the name Maurice Prefontaine be struck from the style of cause in this appeal.
+[7] I am also satisfied that it is appropriate to strike the sentence in the first paragraph as requested by the Respondent.
+[8] In the Grounds for Notices of Motion Counsel for the Respondent said:
+5. The Notice of Appeal issued by Maurice Prefontaine constitutes an abuse of the Court's process.
+...
+7. Alternatively, and in addition, the Notice of Appeal issued by Maurice Prefontaine is scandalous, frivolous or vexatious.
+[9] If the Respondent wishes to bring an application under Section 19.1 of the Tax Court of Canada Act the Court would be prepared to hear the application.
+Signed at Vancouver, British Columbia, this 22nd day of September 2005.
+Little J.
+CITATION:
+2005TCC616
+COURT FILE NO.:
+2004-2501(IT)I; 2005-1102(IT)I
+STYLE OF CAUSE:
+Rose Prefontaine and
+Maurice Prefontaine
+and Her Majesty the Queen
+PLACE OF HEARING:
+Edmonton, Alberta
+DATE OF HEARING:
+August 18, 2005
+REASONS FOR ORDER BY:
+The Honourable Justice L.M. Little
+DATE OF ORDER:
+September 22, 2005
+APPEARANCES:
+For the Appellant,
+Rose Prefontaine:
+For the Appellant,
+Maurice Prefontaine:
+No appearance
+The Appellant himself
+Counsel for the Respondent:
+Carla Lamash
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

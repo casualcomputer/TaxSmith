@@ -1,0 +1,139 @@
+Title: Kimber v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/235607/index.do
+Corpus path: corpus/cases/tcc/2017/2017-tcc-197-235607-kimber-v-the-queen-en.md
+Document type: case_law
+Last modified: 2017-09-28
+
+# Kimber v. The Queen
+
+- Citation: 2017 TCC 197
+- Decision date: 2017-09-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2214, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kimber v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-09-28
+Neutral citation
+2017 TCC 197
+File numbers
+2016-2595(IT)I
+Judges and Taxing Officers
+Bruce Russell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-2595(IT)I
+BETWEEN:
+JOHN KIMBER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on May 10, 2017, at North Bay, Ontario
+Before: The Honourable Justice B. Russell
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Cédric Renaud Lafrance
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the Appellant’s 2014 taxation year is dismissed without costs in accordance with the attached reasons for judgment.
+Signed at Prince George, British Columbia, this 28th day of September 2017.
+“B. Rusell”
+Russell J.
+Citation: 2017TCC197
+Date: 20170928
+Docket: 2016-2595(IT)I
+BETWEEN:
+JOHN KIMBER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Russell J.
+Introduction: [1] This is an informal procedure appeal with the Appellant, Mr. Kimber, not trained in law, representing himself. The Appellant appeals the reassessment raised May 19, 2016 by the Respondent's Minister of National Revenue (Minister) under the federal Income Tax Act (Act) for the Appellant’s 2014 taxation year. That reassessment denied personal credits claimed by the Appellant under paragraphs 118(1)(b) and (b.1) of the Act, being respectively the “dependent person credit” and the “child amount credit”. These credits were sought in respect of one child (dependent person credit) and two children (child amount credit).
+Facts: [2] At the hearing the Appellant testified on his own behalf, and he called no other witnesses. The Respondent called no witnesses but entered into evidence several documentary exhibits as noted below. The Appellant's testimony was uncontroverted by the Respondent and I found him entirely credible. He had had a five year relationship with a female tenant in a building he owned in North Bay. They began living together in the Appellant’s premises within that same building effective June, 2014. At that time the female tenant was pregnant, and she gave birth in late September, 2014 to twin girls, fathered by the Appellant. Until late November the two parents continued to live together, now with their two infant daughters. Unfortunately the relationship broke down and during the overnight hours of November 27, 2014, the mother surreptitiously moved out of the premises, taking the two infants with her, and moved in with her parents in Hamilton.
+[3] This considerably upset the Appellant and he states most of his resources thereafter were spent engaged in a custody battle and paying child support payments, as ordered by the Ontario Court of Justice. He obtained an order of temporary custody of his children in early January 2015 but more recently was unsuccessful in obtaining a more permanent custody order. There is and has been extreme animosity on the part of the mother towards him, the Appellant testified. The Appellant further testified that the mother has refused to cooperate with him in any way, including as to trying to reach agreement between them re claims for personal credits for 2014, at issue in this appeal.
+[4] The documentation entered into evidence by the Respondent, in cross-examination of the Appellant, are a copy of a temporary custody order of the Ontario Court of Justice dated January 8, 2015, a copy of his March 4, 2015 letter to CRA which indicates on January 22, 2015 there was a further court order allowing week-about shared custody, a copy of his completed CRA questionnaire seemingly submitted March 12, 2015 and another, seemingly submitted April 28, 2015. The contents of all seem consistent with the foregoing recital of facts.
+Issue: [5] The issue is whether the Appellant is entitled to the two personal credits denied him by the Minister for his 2014 taxation year.
+Parties’ positions: [6] The Appellant seeks the personal credits on the basis that he has been providing care including funding support to his twin daughters since they were born. He claims that antagonism against him on the part of the mother denies him documentation she might otherwise have provided that would assist his claim.
+[7] The Respondent states that as he did not live with the children throughout the 2014 taxation year, per paragraph 118(1)(b.1) he is unable to claim a child amount credit for that taxation year. And, as he did not reside with and support the children at any time when he was single or separated during the 2014 taxation year, he is unable to claim a dependent person credit per paragraph 118(1)(b.1) for that taxation year. Further and in any event even if the Appellant resided with and supported the children while not living common-law with the mother, as there is no agreement between the parents as to who would claim the credit amounts, he for that reason too does not qualify for either of these credit amounts.
+Analysis: [8] Of relevance is the concept of “common-law partner”, defined in subsection 248(1). Basically it means one of two people who cohabit in a conjugal relationship and have done so for a 12 month period or would both be parents of a child, and thereafter if the two live separate and apart for at least 90 days then the partnership is retroactively ended as of the first of those 90 days.
+[9] Applied to the case at bar, it can be seen that a common-law partnership between the Appellant and his female former tenant commenced not later than on the day - September 23, 2014 - that the first of their two infant twin daughters was born. Then, the first day they commenced living separate and apart was approximately two months later, on November 27, 2014 when the mother clandestinely took the two daughters and left the Appellant’s abode to live with her parents in Hamilton. This living separate and apart extended to and beyond February 25, 2015 being the 90th day following November 27, 2014.
+[10] Thus, the common-law partnership which commenced in late September, 2014, ended approximately two months later, on November 27, 2014 when the mother abruptly left the Appellant’s home and took the two children with her to reside at her parents’ home in Hamilton.
+[11] Paragraph 118(1)(b) which provides for the dependent person credit reads as follows:
+(b) in the case of an individual who does not claim a deduction for the year because of paragraph 118(1)(a) and who, at any time in the year,
+(i) is
+(A) a person who is unmarried and who does not live in a common-law partnership, or
+(B) a person who is married or in a common-law partnership, who neither supported nor lived with their spouse or common law-partner and who is not supported by that spouse or common-law partner, and
+(ii) whether alone or jointly with one or more other persons, maintains a self-contained domestic establishment (in which the individual lives) and actually supports in that establishment a person who, at that time, is
+(A) except in the case of a child of the individual, resident in Canada,
+(B) wholly dependent for support on the individual, or the individual and the other person or persons, as the case may be,
+(C) related to the individual, and
+(D) except in the case of a parent or grandparent of the individual, either under 18 years of age or so dependent by reason of mental or physical infirmity,
+an amount equal to the total of
+(iii) $10,527, and
+(iv) the amount determined by the formula
+$10,527 + D – D.1
+where
+D is
+(A) $2,150 if
+(I) the dependent person is, at the end of the taxation year, 18 years of age or older and is, at any time in the year, dependent on the individual by reason of mental or physical infirmity, or
+(II) the dependent person is a person, other than a child of the individual in respect of whom paragraph (b.1) applies, who, at the end of the taxation year, is under the age of 18 years and who, by reason of mental or physical infirmity, is likely to be, for a long and continuous period of indefinite duration, dependent on others for significantly more assistance in attending to the dependent person’s personal needs and care, when compared to persons of the same age, and is so dependent on the individual at any time in the year, and
+(B) in any other case, nil, and
+D.1is the dependent person’s income for the year,
+[12] Applying this to the Appellant, first in respect of the clause (i)(A) alternative, there are two time periods in 2014 when he was not married and or not living in a common law partnership. Those periods are January 1 to September 23 and November 27 to December 31. As for the alternative sub-clause (i)(B) scenario, there is no time in 2014 that he was married or in a common-law partnership but not supporting his spouse or common-law partner, or being supported by her. So, for subparagraph (i) there are two periods, being January 1 to September 23 and November 27 to December 31.
+[13] And with respect to subparagraph 118(1)(b)(ii), the only period in 2014 in which the Appellant maintained a self-contained domestic establishment wherein he lived and actually supported one of his children was the period September 23 to November 27.
+[14] As can be seen, there is no time of the 2014 year shared between subparagraphs (i) and (ii) of paragraph 118(1)(b). Accordingly the Appellant did not meet the paragraph 118(1)(b) requirements to qualify for the dependent person credit in 2014. While it is undoubted and indeed clear that the Appellant cared deeply for his infant children and was badly hurt when they were suddenly removed by their mother on November 27, these factors do not aid application of the paragraph 118(1)(b) statutory criteria for the dependent person credit.
+[15] Turning to the child amount credit, its criteria is set out in paragraph 118(1)(b.1) of the Act which provides as follows:
+(b.1) $2,150 for each child, who is under the age of 18 years at the end of the taxation year, of the individual and who, by reason of mental or physical infirmity, is likely to be, for a long and continuous period of indefinite duration, dependent on others for significantly more assistance in attending to the child’s personal needs and care, when compared to children of the same age if
+(i) the child ordinarily resides throughout the taxation year with the individual together with another parent of the child, or
+(ii) except if subparagraph (i) applies, the individual
+(A) may deduct an amount under paragraph (b) in respect of the child, or
+(B) could deduct an amount under paragraph (b) in respect of the child if
+(I) paragraph (4)(a) and the reference in paragraph (4)(b) to “or the same domestic establishment” did not apply to the individual for the taxation year, and
+(II) the child had no income for the year
+[16] The issue raised by the Respondent in applying this provision is only in respect of the introductory language of subparagraph 118(1)(b.1)(a), reading:
+a child, who is under the age of 18 years at the end of the taxation year, of the individual ordinarily resides throughout the taxation year with the individual together with another parent of the child, the total of...
+[17] Clearly, neither of the children resided with the Appellant “throughout” the 2014 taxation year (n.b., where applicable counting from the date in that year that the particular child was born - subsection 118(9.1)). The decision of this Court in Chu v Her Majesty, 2005 TCC 169 confirms that the phrase “throughout the year” means the year in its entirety. As stated, neither of the children resided with the Appellant in 2014 during the period November 27 to December 31.
+[18] Thus, the child amount credit as well is not available to the Appellant for the 2014 taxation year.
+[19] Accordingly the appeal is dismissed.
+Signed at Prince George, British Columbia, this 28th day of September 2017.
+“B. Russell”
+Russell J.
+CITATION:
+2017TCC197
+COURT FILE NO.:
+2016-2595(IT)I
+STYLE OF CAUSE:
+JOHN KIMBER AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+North Bay, Ontario
+DATE OF HEARING:
+May 10, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Russell
+DATE OF JUDGMENT:
+September 28, 2017
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Cédric Renaud Lafrance
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

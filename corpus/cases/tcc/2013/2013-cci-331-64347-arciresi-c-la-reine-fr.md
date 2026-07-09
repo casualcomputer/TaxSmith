@@ -1,0 +1,173 @@
+---
+title: "Arciresi c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/64347/index.do"
+last_modified: "2013-10-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 331"
+citation2: ""
+neutral_citation: "2013 CCI 331"
+decision_date: "2013-10-22"
+language: "fr"
+item_id: "64347"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5922
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:59:45.464000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "050c0d1abd23571ca5f75d871e0e3c90df563098d69966882fb4be38197fdea2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Arciresi c. La Reine
+
+- Citation: 2013 CCI 331
+- Decision date: 2013-10-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5922, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Arciresi c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-10-22
+Référence neutre
+2013 CCI 331
+Numéro de dossier
+2012-2840(IT)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-2840(IT)I
+ENTRE :
+VINCENZO ARCIRESI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 22 août 2013, à Montréal (Québec).
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Représentant de l'appelant :
+André Dumont
+Avocats de l'intimée :
+Me Claude Lamoureux
+Diana Leopardi (stagiaire en droit)
+____________________________________________________________________
+JUGEMENT
+L’appel à l’encontre de la nouvelle cotisation établie par le ministre du Revenu national en date du 16 septembre 2010 en vertu de la Loi de l’impôt sur le revenu à l’égard de l’année d’imposition 2009 est rejeté selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 22e jour d'octobre 2013.
+« Réal Favreau »
+Juge Favreau
+Référence : 2013 CCI 331
+Date : 20131022
+Dossier : 2012-2840(IT)I
+ENTRE :
+VINCENZO ARCIRESI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit d’un appel, en vertu de la procédure informelle, à l’encontre d’une nouvelle cotisation établie par le ministre du Revenu national (le « ministre ») en date du 16 septembre 2010 en vertu de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.) telle que modifiée (la « Loi ») concernant l’année d’imposition 2009.
+[2] Par la nouvelle cotisation du 16 septembre 2010, le ministre a refusé un montant de 20 002 $ de frais médicaux servant au calcul d'un crédit d’impôt non remboursable que l’appelant a réclamé à titre de rémunération d’un préposé à plein temps aux soins de son épouse.
+[3] Pour fixer l’impôt payable par l’appelant, le ministre a tenu pour acquis les hypothèses de fait suivantes, énoncées au paragraphe 9 de la Réponse à l’avis d’appel :
+a) En produisant sa déclaration de revenus pour l'année 2009, l'appelant a demandé un montant de 20 002 $ de frais médicaux pour la rémunération d'un préposé à plein temps aux soins de son épouse, Madame Francesca Arciresi ;
+b) le ou vers le 30 octobre 2010, l'appelant a soumis le formulaire T2201 « certificat pour le crédit d'impôt pour personnes handicapées » dûment complété et signé par le docteur Hélène Mangamas qui indique que sa patiente souffre d'asthme, d'apnée du sommeil, d'hyperventilation nocturne et d'hypoxémie à l'effort à l'évaluation seulement (diminution de la quantité d'oxygène contenue dans le sang) et qu'elle a une incapacité à effectuer des tâches physiques exigeantes telles les travaux ménagers. Le formulaire indique que la patiente n'est pas limitée de façon marquée dans ses activités courantes de la vie quotidienne et qu'il est raisonnable de s'attendre à ce que la déficience dure au moins 12 mois consécutifs;
+c) suite à une demande de précision acheminée au médecin traitant le ou vers le 24 novembre 2011, cette dernière a confirmé que l'état de santé de sa patiente s'était amélioré et que cette dernière n'était pas limitée de façon marquée dans les activités courantes de la vie quotidienne.
+[4] La question en litige consiste à déterminer si le ministre était justifié de refuser à l'appelant, pour l'année d'imposition 2009, un montant de 20 002 $ qu'il a réclamé à titre de frais médicaux pour la rémunération d'un préposé à plein temps aux soins de son épouse puisque cette dernière n'a pas de déficience physique grave et prolongée lui permettant de réclamer un tel montant et ce, conformément à l'alinéa 118.2(2)b) et 118.3(1)c) et à l'article 118.4 de la Loi.
+[5] Les dispositions législatives pertinentes aux fins du présent litige se lisent comme suit :
+118.2(2) Frais médicaux. Pour l'application du paragraphe (1), les frais médicaux d'un particulier sont les frais payés :
+a) […]
+b) à titre de rémunération d'un préposé à plein temps (sauf une personne qui, au moment où la rémunération est versée, est l'époux ou le conjoint de fait du particulier ou est âgée de moins de 18 ans) aux soins du particulier, de son époux ou conjoint de fait ou d'une personne à charge visée à l'alinéa a) — pour qui un montant serait, sans l'alinéa 118.3(1)c), déductible en application de l'article 118.3 dans le calcul de l'impôt payable par un contribuable en vertu de la présente partie pour l'année d'imposition au cours de laquelle les frais sont engagés — ou à titre de frais dans une maison de santé ou de repos pour le séjour à plein temps d'une de ces personnes;
+[…]
+118.3(1) Un montant est déductible dans le calcul de l'impôt payable par un particulier en vertu de la présente partie pour une année d'imposition, si les conditions suivantes sont réunies :
+a) le particulier a une ou plusieurs déficiences graves et prolongées des fonctions physiques ou mentales;
+[…]
+a.2) s'il s'agit d'une déficience des fonctions physiques ou mentales dont les effets sont tels que la capacité du particulier d'accomplir une seule activité courante de la vie quotidienne est limitée de façon marquée ou le serait en l'absence des soins thérapeutiques mentionnés à l'alinéa a.1), un médecin en titre —ou, dans chacun des cas ci-après, la personne mentionnée en regard du cas—atteste, sur le formulaire prescrit, qu'il s'agit d'une déficience grave et prolongée des fonctions physiques ou mentales dont les effets sont tels que la capacité du particulier d'accomplir une activité courante de la vie quotidienne est limitée de façon marquée ou le serait en l'absence de ces soins :
+(i) s'il s'agit d'une déficience visuelle, un optométriste,
+(ii) s'il s'agit d'un trouble de la parole, un orthophoniste,
+(iii) s'il s'agit d'une déficience auditive, un audiologiste,
+(iv) s'il s'agit d'une déficience quant à la capacité de s'alimenter ou de s'habiller, un ergothérapeute,
+(v) s'il s'agit d'une déficience quant à la capacité de marcher, un ergothérapeute ou, après le 22 février 2005, un physiothérapeute,
+(vi) s'il s'agit d'une déficience des fonctions mentales nécessaires aux activités de la vie courante, un psychologue;
+c) aucun montant représentant soit une rémunération versée à un préposé aux soins du particulier, soit des frais de séjour du particulier dans une maison de santé ou de repos, n'est inclus par le particulier ou par une autre personne dans le calcul d'une déduction en application de l'article 118.2 pour l'année (autrement que par application de l'alinéa 118.2(2)b.1)).
+[…]
+118.4(1) Déficience grave et prolongée — Pour l'application du paragraphe 6(16), des articles 118.2 et 118.3 et du présent paragraphe :
+a) une déficience est prolongée si elle dure au moins 12 mois d'affilée ou s'il est raisonnable de s'attendre à ce qu'elle dure au moins 12 mois d'affiliée;
+b) la capacité d'un particulier d'accomplir une activité courante de la vie quotidienne est limitée de façon marquée seulement si, même avec des soins thérapeutiques et l'aide des appareils et des médicaments indiqués, il est toujours ou presque toujours aveugle ou incapable d'accomplir une activité courante de la vie quotidienne sans y consacrer un temps excessif;
+b.1) un particulier n'est considéré comme ayant une limitation équivalant au fait d'être limité de façon marquée dans la capacité d'accomplir une activité courante de la vie quotidienne que si sa capacité d'accomplir plus d'une activité courante de la vie quotidienne (y compris, à cette fin, la capacité de voir) est toujours ou presque toujours limitée de façon importante malgré le fait qu'il reçoit des soins thérapeutiques et fait usage des instruments et médicaments indiqués, et que si les effets cumulatifs de ces limitations sont équivalents au fait d'être limité de façon marquée dans la capacité d'accomplir une activité courante de la vie quotidienne;
+c) sont des activités courantes de la vie quotidienne pour un particulier :
+(i) les fonctions mentales nécessaires aux activités de la vie courante,
+(ii) le fait de s'alimenter ou de s'habiller,
+(iii) le fait de parler de façon à se faire comprendre, dans un endroit calme, par une personne de sa connaissance,
+(iv) le fait d'entendre de façon à comprendre, dans un endroit calme, une personne de sa connaissance,
+(v) les fonctions d'évacuation intestinale ou vésicale,
+(vi) le fait de marcher;
+c.1) sont compris parmi les fonctions mentales nécessaires aux activités de la vie courante :
+(i) la mémoire,
+(ii) la résolution de problèmes, l'atteinte d'objectifs et le jugement (considérés dans leur ensemble),
+(iii) l'apprentissage fonctionnel à l'indépendance;
+d) il est entendu qu'aucune autre activité, y compris le travail, les travaux ménagers et les activités sociales ou récréatives, n'est considérée comme une activité courante de la vie quotidienne.
+e) le fait de s'alimenter ne comprend pas :
+(i) les activités qui consistent à identifier, à rechercher, à acheter ou à se procurer autrement des aliments,
+(ii) l'activité qui consiste à préparer des aliments, dans la mesure où le temps associé à cette activité n'y aurait pas été consacré en l'absence d'une restriction ou d'un régime alimentaire;
+f) le fait de s'habiller ne comprend pas les activités qui consistent à identifier, à rechercher, à acheter ou à se procurer autrement des vêtements.
+[6] La conjointe de l'appelant a commencé à avoir des faiblesses physiques en 2007. Elle a eu des évanouissements en avion et elle s'est brisée des vertèbres en tombant dans l'escalier chez elle. Elle a été suivie par deux médecins de l'hôpital Juif de Montréal qui lui ont prescrit de fortes doses de cortisone pour soulager ses douleurs. En 2009, elle ne pouvait plus marcher et elle passait ses journées couchée sur le divan. Comme elle ne pouvait accomplir les travaux ménagers, l'appelant a retenu les services d'un(e) préposé(e) à plein temps (5 jours par semaine) pour s'occuper de sa conjointe. Elle pouvait alors s'habiller, s'alimenter et marcher par elle-même à l'intérieur de la résidence.
+[7] À compter de l'année 2010, la conjointe de l'appelant a changé de médecins et elle a été suivie par les docteurs Hélène Mangamas (pneumologue) et Ferrer (oncologue) de l'hôpital Royal Victoria. Son état de santé s'est par la suite amélioré et elle est maintenant fonctionnelle.
+[8] Pour appuyer sa demande de crédit d'impôt pour personnes handicapées, l'appelant a produit à l'agence du Revenu du Canada (l'« ARC ») deux (2) certificats pour le crédit d'impôt pour personnes handicapées complétés et signés par le docteur Mangamas (T2201), l'un daté du 30 octobre 2010 et l'autre daté du 14 octobre 2011.
+[9] Dans le certificat du 30 octobre 2010, il est indiqué que la conjointe de l'appelant souffre d'asthme, d'apnée de sommeil, d'hyperventilation nocturne et d'hypoxémie à l'effort à l'évaluation seulement et qu'elle a une incapacité à effectuer des tâches physiques exigeantes, telles les travaux ménagers.
+[10] Dans le certificat du 14 octobre 2011, il est indiqué que la conjointe de l'appelant souffre d'asthme, du syndrome d'obésité et d'hyperventilation. Les effets de la déficience sont des limitations de la tolérance à l'effort.
+[11] Les certificats médicaux ci-dessus mentionnés sont exigés par l'alinéa 118.3(1)a.2) de la Loi qui en fait une condition préalable pour l'obtention d'un crédit d'impôt pour déficience. C'est du moins l'opinion que la Cour d'appel fédérale a formulée dans les affaires MacIsaac c. Canada et Morrison c. Canada, 2000 D.T.C. 6020 :
+[5] […]
+Le paragraphe 118.3(1)(a.2) de la Loi de l'impôt sur le revenu n'est pas simplement indicatif. Il s'agit d'une disposition impérative. […]
+[12] Comme aucun certificat médical n'a été produit pour l'année d'imposition 2009, l'appelant ne peut avoir droit au crédit d'impôt pour déficience. De plus, comme le docteur Mangamas n'était pas le médecin traitant de la conjointe de l'appelant en 2009, les certificats médicaux produits ne sont pas pertinents aux fins du présent litige.
+[13] Les témoignages entendus et les documents présentés ne permettent pas de conclure que la conjointe de l'appelant pouvait raisonnablement être considérée comme une personne ayant une déficience mentale ou physique grave et prolongée au sens de l'alinéa 118.4(1)(a) de la Loi, soit une déficience d'au moins douze (12) mois d'affilée. La conjointe de l'appelant a certainement souffert d'une déficience physique sérieuse mais je ne crois pas que l'on puisse qualifier cette déficience de grave ou de sévère. Même si elle ne pouvait vaquer à ses occupations courantes, la conjointe de l'appelant pouvait tout de même s'habiller seule, manger seule et marcher seule. De plus, la déficience physique de la conjointe de l'appelant a été d'une durée limitée.
+[14] Dans les circonstances, l'appelant ne peut avoir droit à une déduction à titre de rémunération d'un préposé aux soins à temps plein au sens de l'alinéa 118.2 de la Loi.
+[15] Pour ces raisons, l'appel est rejeté.
+Signé à Ottawa, Canada, ce 22e jour d'octobre 2013.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE : 2013 CCI 331
+Nº DU DOSSIER DE LA COUR : 2012-2840(IT)I
+INTITULÉ DE LA CAUSE : Vincenzo Arciresi et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 22 août 2013
+MOTIFS DU JUGEMENT PAR : L'honorable juge Réal Favreau
+DATE DU JUGEMENT : le 22 octobre 2013
+COMPARUTIONS :
+Représentant de l'appelant :
+André Dumont
+Avocats de l'intimée :
+Me Claude Lamoureux
+Diana Leopardi (stagiaire en droit)
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

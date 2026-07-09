@@ -1,0 +1,210 @@
+---
+title: "Meyer v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28761/index.do"
+last_modified: "2004-03-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 199"
+citation2: ""
+neutral_citation: "2004 CCI 199"
+decision_date: "2004-03-04"
+language: "fr"
+item_id: "28761"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1548
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:44:27.110000+00:00"
+cases_cited_count: 1
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d79b8e9b857c489e065dd24d2c70d08bca0ff218020f72e67a1bf847936af6d3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Meyer v. The Queen
+
+- Citation: 2004 CCI 199
+- Decision date: 2004-03-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1548, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Meyer v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-03-04
+Référence neutre
+2004 CCI 199
+Numéro de dossier
+2003-1851(IT)I
+Juges et Officiers taxateurs
+Joe E. Hershfield
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-1851(IT)I
+ENTRE :
+PHILIP A. MEYER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 18 novembre 2003 à Victoria (Colombie-Britannique).
+Devant : L’honorable juge J.E. Hershfield
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Gavin Laird
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la cotisation établie sous le régime de la Loi de l’impôt sur le revenu relativement à l’année d’imposition 2001 est rejeté pour les raisons énoncées dans les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 4e jour de mars 2004.
+« J.E. Hershfield »
+Juge Hershfield
+Traduction certifiée conforme
+ce 20e jour de juin 2008.
+Aleksandra Koziorowska, LL.B.
+Référence : 2004CCI199
+Date : 20040304
+Dossier : 2003-1851(IT)I
+ENTRE :
+PHILIP A. MEYER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Hershfield
+[1] L’appelant était un résident du Canada à tous les moments pertinents. Il était citoyen à la fois des États‑Unis et du Canada, et il a produit une déclaration de revenus dans les deux pays relativement à son année d’imposition 2001.
+[2] À titre de résident canadien, l’appelant est assujetti à l’impôt sur le revenu gagné n’importe où dans le monde, sous réserve de certaines restrictions auxquelles le Canada a consenti dans le cadre de traités en matière fiscale applicables conclus avec des États étrangers. De plus, l’article 126 de la Loi de l’impôt sur le revenu du Canada (la « Loi ») prévoit des crédits pour les impôts étrangers payés à d’autres États sur le revenu tiré d’une source étrangère.
+[3] Outre un certain revenu nominal de placement de source canadienne seulement déclaré au Canada, l’appelant n’a eu que deux autres sources de revenu pendant l’année en cause : un revenu d’emploi de 57 180 $US gagné aux États‑Unis et un revenu de pension de source américaine de 43 000 $US. Les sommes incluses dans le calcul du revenu, y compris le taux de change employé (1,5748), ne sont pas en litige. En effet, les parties reconnaissent que l’appelant a reçu 90 047 $CAN à titre de traitements et salaires de source américaine et 67 716 $CAN à titre de revenu de pension également de source américaine.
+[4] Comme il a produit une déclaration de revenus aux États‑Unis relativement à ce revenu et comme il a payé de l’impôt dans ce pays sur ce revenu, l’appelant a demandé, en application de l’article 126 de la Loi, qu’un crédit pour l’impôt ainsi payé soit appliqué dans le calcul de sa dette fiscale canadienne attribuable à ce revenu. L’Agence des douanes et du revenu du Canada (l’« ADRC ») a refusé une partie du crédit demandé pour le motif que l’impôt payé aux États‑Unis sur le revenu de pension de source américaine excédait le montant d’impôt autorisé aux termes de la Convention entre le Canada et les États‑Unis d’Amérique en matière d’impôts sur le revenu et sur la fortune (le « Traité »). Selon l’article XVIII de ce traité, l’impôt que les États‑Unis peuvent exiger d’un résident du Canada ne peut dépasser 15 pour 100 des paiements périodiques de pension provenant des États‑Unis. Il n’est pas contesté que le revenu de pension en l’espèce est assujetti au plafond prévu par cette disposition du Traité[1].
+[5] La question en litige dans le présent appel, telle qu’elle a été soulevée par l’appelant, consiste donc à savoir si ce dernier a droit à un crédit suivant l’article 126 de la Loi pour de l’impôt qu’il a réellement payé aux États‑Unis, même si l’impôt que ce pays aurait dû exiger en vertu du Traité était moindre.
+[6] L’appelant a produit aux États‑Unis une déclaration conjointe 1040 avec son épouse. Ce genre de déclaration ne précise ni que l’appelant n’était pas un résident américain ni qu’il était un résident canadien, bien que l’adresse figurant sur le document en question soit située au Canada. De plus, la déclaration produite aux États‑Unis ne comprend aucun formulaire, annexe ou déclaration (prévu par la loi ou autre) utilisé par les non‑résidents pour présenter des demandes fondées sur le Traité. En réalité, rien dans la déclaration (sauf l’adresse) ne signalait l’existence d’une situation relevant du Traité. Il semble donc que l’appelant ait fait l’objet d’une cotisation aux États-Unis sans qu’il soit tenu compte du Traité ni du fait qu’il n’était pas un résident américain, et ce, relativement au revenu qu’il a déclaré dans ce pays, à savoir, comme il est mentionné plus haut, le revenu de pension de source américaine et le revenu d’emploi de source américaine, et je reconnais l’existence de ce fait à la lumière de la preuve dont je suis saisi. En d’autres termes, l’article XVIII du Traité n’a pas été appliqué par les États‑Unis, et l’appelant soutient qu’il n’avait pas l’obligation de veiller à ce que ce pays respecte le Traité. L’appelant avance en réalité que l’article 126 de la Loi et le paragraphe 2 de l’article XXIV du Traité permettent la déduction de la totalité du crédit demandé et qu’il incombe à l’intimée de se faire rembourser par les États‑Unis l’excédent d’impôt américain qu’il a payé sur son revenu de pension de source américaine, ou encore de prendre des mesures en son nom pour faire en sorte que les États‑Unis appliquent le taux prévu par le Traité au revenu de pension de source américaine.
+[7] Avant de renvoyer au texte des dispositions pertinentes de la Loi et du Traité, il est peut‑être utile d’examiner les mécanismes employés par l’ADRC pour arriver à la conclusion que le taux d’imposition appliqué par les États‑Unis sur le revenu de pension de source américaine de l’appelant excédait les 15 pour 100 permis par le Traité.
+[8] Dans son calcul du montant devant être retranché du crédit demandé, l’ADRC a attribué à chaque source de revenu l’impôt américain exigible. L’attribution de la dette fiscale à chacune des sources est assez simple puisque les déductions admissibles dans le calcul du revenu imposable aux États‑Unis n’étaient pas des déductions à la source. L’ADRC a ainsi pu répartir l’impôt payé aux États‑Unis proportionnellement entre le revenu de pension et le revenu d’emploi en fonction des sommes brutes déclarées[2]. Suivant cette méthode, il a été établi que l’impôt payé sur le revenu de pension de source américaine s’élevait à 12 118 $CAN, comparativement à la somme de 10 157 $CAN qui aurait été exigible si le taux maximal de 15 pour 100 prévu par le Traité avait été appliqué.
+[9] Je conviens que, si l’appelant avait soulevé l’existence d’une question relevant du Traité au moment de produire ses déclarations de revenus aux États‑Unis et s’il s’était prévalu de l’avantage que lui conférait le Traité en ce qui touche son revenu de pension, la dette fiscale américaine aurait été réduite. Selon moi, il est également possible de conclure sans risque d’erreur que la réduction de l’impôt américain correspondrait à tout le moins à la somme déterminée par l’ADRC. Toutefois, l’impôt américain exact ne pourrait être établi de manière définitive que si la situation fiscale de l’appelant aux États‑Unis avait été traitée dans le cadre du régime fiscal de production et de cotisation approprié de ce pays, ce qui n’a pas été fait et ce à quoi l’appelant refuse de se prêter[3]. Quoi qu’il en soit, aucune des parties ne m’a demandé en l’espèce d’établir le montant exact de la dette fiscale aux États‑Unis. Il suffit, dans le cadre de la question dont je suis saisi, que je sois convaincu que l’impôt payé aux États‑Unis en l’espèce excède le taux applicable suivant le Traité et que la somme refusée par l’ADRC à titre de crédit est plus élevée que le montant de cet excédent. Cela étant dit, il faut néanmoins reconnaître que la méthode d’attribution appliquée par l’ADRC ne s’appuie sur aucun fondement législatif.
+[10] De fait, l’appelant conteste cette méthode employée pour répartir la dette fiscale américaine entre ses deux sources de revenu et il soutient que tout manque de précision à cet égard doit jouer en sa faveur. À titre d’exemple, l’appelant me demande avec insistance de présumer que le taux d’imposition applicable au revenu de pension se chiffre en réalité à 15 pour 100, et que le taux d’imposition applicable au revenu d’emploi correspond au taux nécessaire pour arriver à l’impôt réellement exigé sur le montant global. L’appelant a effectivement présenté des éléments de preuve selon lesquels ses rentrées au titre de la pension avaient fait l’objet d’une retenue d’impôt de 15 pour 100, laquelle était remise au Trésor américain. L’appelant fait valoir que cette remise montre que l’impôt payé sur le revenu de pension de source américaine s’élevait uniquement à cette somme de 15 pour 100. L’intimée affirme quant à elle que cette retenue et cette remise concernent la somme d’argent imputée aux États‑Unis sur la dette fiscale américaine, mais qu’elles ne permettent pas en soi d’établir le montant de la dette fiscale relative à une source de revenu donnée. Je suis d’accord avec l’intimée sur ce point. La retenue et la remise sont effectuées au titre de la dette fiscale estimée ou présumée[4]. Si la dette fiscale se révèle plus élevée que les sommes retenues ou remises par suite de l’application de la méthode adoptée par le contribuable et acceptée par l’administration fiscale pour remplir la déclaration de revenus, le contribuable doit payer la différence. Dans la présente affaire, la déclaration de revenus produite et acceptée aux États‑Unis réunissait en un seul panier l’ensemble des sources de revenu américaines, et l’impôt a été établi sur ce fondement. Il est impossible d’affirmer qu’une source de revenu particulière a été assujettie à une fourchette (ou taux) d’imposition donnée puisque le taux d’imposition réellement utilisé a été fixé en fonction du montant global de toutes les sources de revenu. Une fois établi, c’est ce taux d’imposition effectif qui dicte le taux d’imposition réel applicable à chaque élément qui compose cet ensemble.
+[11] Peu importe le taux d’imposition payé aux États‑Unis et la réponse à la question de savoir si un taux moins élevé aurait dû ou non être appliqué, l’appelant a payé aux États‑Unis un impôt excédant le montant du crédit autorisé par l’intimée. La Loi n’autorise‑t‑elle pas simplement un crédit pour l’impôt réellement payé à un pays étranger? Le Traité n’autorise‑t‑il pas le crédit sur un fondement analogue? Peut‑on avancer que la somme payée en excédent ne constitue pas un « impôt »?
+[12] Examinons l’article 126 de la Loi. Les parties pertinentes de cette disposition sont ainsi rédigées :
+126(1) Le contribuable qui résidait au Canada à un moment donné d’une année d’imposition peut déduire de l’impôt payable par ailleurs par lui pour l’année en vertu de la présente partie une somme égale à :
+a) la partie de tout impôt sur le revenu ne provenant pas d’entreprises qu’il a payé pour l’année au gouvernement d’un pays étranger […] dont il peut demander la déduction; [Non souligné dans l’original.]
+cette somme ne peut toutefois dépasser :
+b) la fraction de l’impôt payable par ailleurs par lui pour l’année en vertu de la présente partie que représente :
+(i) […] [le] total des revenus admissibles du contribuable […] :
+par rapport :
+(ii) au total des montants suivants :
+(A) l’excédent éventuel :
+(I) […]
+(II) […] [le] total de son revenu pour la ou les périodes de l’année visées […]
+sur :
+(III) […] un montant déduit par le contribuable selon […] l’alinéa […] 110(1)f) […],
+(B) […]
+[13] Il n’est pas contesté que tous les revenus visés en l’espèce sont des « revenus admissibles » pour l’application du sous‑alinéa b)(i) ci‑dessus. L’intimée nie toutefois que la totalité de l’impôt payé par l’appelant aux États‑Unis constituait un « impôt sur le revenu ne provenant pas d’entreprises ». Seul l’« impôt sur le revenu ne provenant pas d’entreprises » peut faire l’objet d’un crédit selon l’alinéa a) ci‑dessus. L’intimée invoque la définition de l’expression « impôt sur le revenu ne provenant pas d’une entreprise » qui figure au paragraphe 126(7) de la Loi. Selon elle, cette disposition aurait pour effet de réduire l’impôt considéré comme ayant été payé par l’appelant aux États‑Unis pour l’application du crédit de la somme mentionnée à l’alinéa i) de cette définition. L’alinéa i) de la définition du terme « impôt sur le revenu ne provenant pas d’une entreprise » est ainsi libellé :
+« impôt sur le revenu ne provenant pas d’une entreprise » S’agissant de l’impôt sur le revenu ne provenant pas d’une entreprise payé par un contribuable pour une année d’imposition au gouvernement d’un pays étranger, s’entend, sous réserve des paragraphes (4.1) et (4.2), de la fraction de l’impôt sur le revenu ou sur les bénéfices qu’il a payé pour l’année au gouvernement de ce pays, qui remplit les conditions suivantes :
+[…]
+Le terme ne vise toutefois pas un impôt ou la fraction d’un impôt :
+[…]
+i) qu’il est raisonnable de considérer comme se rapportant à un montant déductible en application du sous‑alinéa 110(1)f)(i) dans le calcul du revenu imposable du contribuable pour l’année.
+[14] Le sous-alinéa 110(1)f)(i) de la Loi dispose :
+(i) une somme exonérée de l’impôt sur le revenu au Canada par l’effet d’une disposition de quelque convention ou accord fiscal avec un autre pays qui a force de loi au Canada.
+[Non souligné dans l’original.]
+[15] Pendant l’instruction, l’avocat de l’intimée a vivement insisté pour que je conclue que le crédit accordé pour l’impôt payé à un pays étranger peut légitimement être considéré comme une somme exonérée d’impôt par l’effet du Traité. Il est étrange d’assimiler un crédit à une exonération d’impôt[5]. De plus, avec ou sans Traité, le crédit est prévu au paragraphe 126(1) de la Loi de sorte qu’on ne peut avancer qu’il s’agit d’une exonération par l’effet du Traité. Si on suppose que l’alinéa 126(7)i) ne peut s’appliquer pour réduire l’« impôt sur le revenu ne provenant pas d’entreprises » de l’appelant, le montant du crédit en l’espèce selon l’alinéa 126(7)a) consisterait simplement en le montant de l’impôt sur le revenu payé aux États‑Unis par l’appelant, soit 28 209 $ (CAN). Cette somme est réduite si le montant calculé suivant l’alinéa 126(7)b) correspond à une somme moins élevée. Le montant calculé suivant l’alinéa b) équivaut à la fraction de l’impôt canadien par ailleurs payable qui correspond à la proportion du total des revenus admissibles du contribuable pour l’année par rapport à son revenu total pour l’année moins les sommes déduites en application de l’alinéa 110(1)f). Si on appliquait cette formule sur le même fondement que celui exposé plus haut[6], la proportion susmentionnée correspondrait à une équivalence parfaite, de sorte que la somme visée par l’alinéa 126(1)b) constituerait l’impôt canadien payable, à savoir 27 210 $. En fait, c’est ce qu’affirme l’appelant[7].
+[16] Après avoir averti l’avocat de l’intimée que son argument n’était pas convaincant, je l’ai autorisé à présenter des observations écrites afin de mieux expliquer la thèse de l’ADRC. Voici la partie pertinente de ses observations :
+[TRADUCTION]
+14. Le préambule de la définition du terme « impôt sur le revenu ne provenant pas d’entreprises » exige manifestement le paiement d’un « impôt sur le revenu ou sur les bénéfices ».
+15. La jurisprudence relative à ce qui constitue un impôt pour les besoins de l’expression « impôt sur le revenu ne provenant pas d’entreprises » a été examinée par la Cour canadienne de l’impôt dans la décision Yates v. The Queen, 2001 DTC 761 (C.C.I.). Aux paragraphes 15 à 21, Mme la juge Campbell affirme qu’un élément essentiel de l’impôt tient au fait que le paiement n’est pas volontaire, mais plutôt obligatoire.
+16. Dans la décision Kempe v. R. [2001] 1 C.T.C. 2060 (C.C.I.), M. le juge Hamlyn s’appuie sur l’arrêt Lawson v. Interior Fruit Committee (1930) de la Cour suprême du Canada, [1931] S.C.R. 357 (C.S.C.), pour conclure qu’un impôt allemand destiné aux Églises était de nature obligatoire et qu’il s’agissait donc d’un impôt pour l’application du crédit pour impôt étranger. En particulier, le juge Hamlyn a déclaré ce qui suit :
+Un impôt est un prélèvement, susceptible d’exécution forcée en vertu de la loi, imposé en vertu de l’autorité d’une législature par un organisme public et perçu à des fins publiques.
+17. Dans la décision Yates, la juge Campbell s’appuie en outre sur l’arrêt Canada (Attorney General) v. British Columbia (Registrar of Titles of Vancouver Land Registration District), [1934] 4 D.L.R. 764 (C.A. C.‑B.), pour affirmer que les éléments « essentiels » d’un impôt doivent satisfaire à deux critères :
+Les éléments sont les suivants : le montant doit être (1) susceptible d’exécution forcée en vertu de la loi, (2) imposé en vertu de l’autorité d’une législature par un organisme public et perçu à des fins publiques. De plus, le caractère « obligatoire est une caractéristique essentielle » (Halifax v. Nova Scotia Car Works (1914), 18 D.L.R. 649, p. 652).
+Shawinigan Water & Power Co. (1953), 53 DTC 1036 (C. de l’É. Can.).
+18. La juge Campbell recourt également à la définition du terme « impôt » trouvée dans le Black’s Law Dictionary :
+[20] Le Black’s Law Dictionary définit le mot « tax » (impôt) comme suit :
+[TRADUCTION]
+Charge que le gouvernement prélève sur le revenu d’une personne physique ou morale ou d’une fiducie ainsi que sur la valeur d’une succession, d’un bien ou d’un don. L’objectif de l’impôt est de produire des revenus qui seront utilisés pour satisfaire aux besoins du public.
+Charge financière imposée en vertu de l’autorité d’une législature à l’encontre de particuliers ou de biens au soutien du gouvernement. Les caractéristiques essentielles de l’impôt sont les suivantes : il ne s’agit pas d’un paiement ou d’un don volontaire, mais d’une cotisation à caractère obligatoire exigée conformément à une autorité d’une législature.
+19. En l’espèce, il n’est pas contesté qu’en raison de l’avantage offert par le Traité, l’appelant était uniquement tenu de payer aux États‑Unis un impôt de 15 pour 100 sur son revenu de pension de source américaine.
+20. La somme payée à l’administration fiscale des États‑Unis en sus du taux de 15 pour 100 constituait apparemment une erreur.
+21. Un paiement versé en trop par erreur ne peut constituer un impôt. Il lui manque l’élément nécessaire du caractère obligatoire – ce n’est pas l’administration fiscale américaine qui est à l’origine du paiement en trop, mais bien l’appelant lui‑même.
+22. De plus, le paiement en trop devrait être remboursable. Il faut convenir qu’aucun élément de preuve n’a été présenté au soutien de cette assertion. Cependant, la Cour n’est pas non plus saisie d’un élément de preuve établissant que les États‑Unis refuseraient de rembourser le paiement en trop une fois informés de l’erreur.
+23. Même si l’appelant a laissé s’écouler le délai de prescription et ne peut recevoir un remboursement en raison d’une omission de sa part, cela n’a pas pour effet de rendre obligatoire le paiement initial versé par erreur.
+24. Pour ces raisons, le paiement en trop versé par l’appelant ne constituait pas un impôt et ne peut donc être visé par la définition de l’expression « impôt sur le revenu ne provenant pas d’entreprises ».
+[17] L’appelant a produit une réponse aux observations de l’intimée. Il a nié ne pas avoir informé les autorités américaines de sa qualité de résident canadien et a présenté une lettre adressée au I.R.S., qui n’a pas été produite à l’instruction, et qui, selon lui, constituait un avis suffisant de sa situation. Il allègue qu’il s’agissait d’une lettre de présentation jointe à sa déclaration de revenus américaine. La lettre précise qu’il est un citoyen des États‑Unis vivant au Canada et qu’il est tenu de payer de l’impôt dans ce pays. Il renvoie à l’alinéa 4b) de l’article XXIV du Traité (disposition visant les citoyens des États‑Unis qui sont résidents du Canada) et il demande que la question du crédit accordé par les États‑Unis pour les impôts payés au Canada soit examinée. La lettre ne fait mention d’aucun examen des réductions de l’impôt américain (par opposition aux crédits d’impôt américains) prévues par le Traité. Même si on accepte cette lettre à titre d’élément de preuve, ce à quoi l’intimée pourrait légitimement s’opposer, je ne puis convenir qu’il s’agit d’un avis par lequel l’appelant demandait à bénéficier d’un taux d’impôt avantageux suivant le Traité, ni même d’un examen de son droit à un tel avantage. La thèse de l’intimée voulant que l’impôt payé aux États‑Unis constitue un impôt volontaire n’est pas ébranlée par l’examen demandé dans la lettre. Il incombe à l’appelant d’établir qu’il était tenu, en raison de sa situation, de payer la somme versée à titre d’impôt exigible. Il serait possible, à première vue, de prouver ce fait au moyen d’une cotisation établie en fonction d’une déclaration de revenus telle qu’elle a été produite si, au moment de sa production, la déclaration en question comportait les renseignements nécessaires pour permettre de tirer une inférence de cette nature. Ce n’est pas le cas en l’espèce.
+[18] Dans ses observations, l’appelant m’exhorte également à donner une interprétation littérale aux termes « impôt payé » qui sont employés dans les dispositions de la Loi reproduites plus haut. Cela soulève donc la question de la signification du terme « impôt ». Manifestement, quelque chose a été « payé ». Mais ce quelque chose ne devient pas automatiquement un « impôt » simplement parce qu’on a voulu payer la somme à titre d’« impôt », parce qu’on a cru par erreur que la somme constituait un « impôt » payable et parce que la somme a été calculée dans une déclaration de revenus visant à établir l’« impôt » payable. La question de savoir s’il s’agissait d’une somme devant obligatoirement être payée demeure entière. Dans la négative, les précédents laissent entendre qu’il ne s’agit pas d’un « impôt ».
+[19] L’appelant a en outre invoqué une disposition du Traité relative aux échanges de renseignements, mais le renvoi paraît erroné. Je suppose qu’il s’agit de l’article XXVI, sur lequel je me pencherai un peu plus loin.
+[20] Bien que j’éprouve certaines réticences à accepter l’idée voulant que l’ADRC puisse décider si un impôt payé à l’étranger constitue un paiement volontaire, et donc pas un « impôt », j’admets en l’espèce, compte tenu des faits dont je suis saisi et des précédents invoqués par l’intimée, que la somme en litige n’était pas un « impôt » payé au pays étranger en cause. Par contre, cela ne signifie pas qu’aucun paiement volontaire ne peut être assimilé à un « impôt ». À titre d’exemple, le fait qu’une personne ne se soit pas prévalue des déductions discrétionnaires et ait ainsi volontairement augmenté l’impôt à payer dans un pays étranger n’autoriserait pas l’ADRC à refuser un crédit pour cette seule raison. De même, l’ADRC ne devrait pas dicter aux contribuables résidents la teneur de la déclaration de revenus qu’ils produisent à l’étranger. Cependant, lorsqu’un contribuable résident produit une déclaration de revenus à l’étranger sans veiller à fournir les renseignements nécessaires pour établir l’impôt payable, par exemple en omettant de produire des formulaires requis ou de donner les renseignements qui lui auraient permis de se prévaloir d’un avantage au titre du Traité, et qu’il refuse de corriger l’erreur ou de prouver qu’il n’était pas dans l’erreur, le paiement en trop qui en résulte peut être considéré comme une somme payée autrement qu’à titre d’« impôt ».
+[21] J’ajouterais que mes réserves à admettre que l’ADRC peut décider si l’impôt payé à l’étranger constitue un paiement volontaire et n’est donc pas un « impôt » se fondent également sur le Traité. Le paragraphe 2 de l’article XXIV du Traité prévoit en effet ce qui suit :
+2. En ce qui concerne le Canada, sous réserve des dispositions des paragraphes 4, 5 et 6, la double imposition est évitée de la façon suivante.
+a) Sous réserve des dispositions de la législation canadienne concernant l’imputation de l’impôt payé dans un territoire en dehors du Canada sur l’impôt canadien dû et de toute modification ultérieure de ces dispositions qui n’en affecterait pas le principe général,
+(i) L’impôt sur le revenu payé ou dû aux États‑Unis à raison de bénéfices, revenus ou gains provenant des États‑Unis, et [Non souligné dans l’original.]
+[…]
+sont portés en déduction de tout impôt canadien dû à raison des mêmes bénéfices, revenus ou gains; […]
+En revanche, le paragraphe 1 de cet article, qui vise les États‑Unis, stipule que le crédit est limité au « montant approprié des impôts sur le revenu payés ou dus au Canada ». On pourrait donc avancer que le Canada n’a pas jugé opportun de prévoir une mesure analogue afin d’éviter qu’un crédit ne soit accordé au titre d’impôts « inappropriés » payés aux États‑Unis. Par contre, les rédacteurs canadiens du Traité pouvaient s’appuyer sur la jurisprudence ou sur la doctrine confirmant qu’une somme payée sans que cela ne soit nécessaire, qui ne trouve sa justification dans aucune loi de l’État étranger, ne peut constituer un « impôt », et ainsi choisir de ne pas adopter, dans le Traité, un libellé aussi dangereusement large que celui retenu par les États‑Unis pour régir l’octroi d’un crédit pour les impôts étrangers payés par ses résidents.
+[22] Cela étant dit, je souhaite insister sur le fait qu’il est toujours loisible au contribuable de présenter des éléments de preuve établissant que le paiement de l’impôt à l’étranger était nécessaire et justifié par les lois de l’État étranger concerné. La Cour a compétence pour trancher cette question, mais le fardeau de la preuve incombe au contribuable. L’appelant a choisi de ne pas tenir compte de cette obligation; il souhaitait simplement que l’ADRC règle le problème avec le Trésor américain ou le Internal Revenue Service et qu’on ne le mêle pas à l’affaire. À mon avis, cette position est inacceptable. En effet, même si, tout bien pesé, le libellé de l’article 126 ne permet pas à l’ADRC de refuser un crédit parce qu’elle a des motifs de croire que l’impôt étranger, contrairement aux lois de l’État étranger en cause, a été mal calculé ou que le crédit est restreint par des dispositions du Traité fiscal intervenu entre ce pays et le Canada, rien ne l’empêche de soutenir cette thèse et de faire porter au contribuable le fardeau de prouver que cette croyance n’est pas fondée. Quoi qu’il en soit, l’alinéa 2a) de l’article XVIII prévoit expressément que les États‑Unis ne peuvent exiger un impôt de plus de 15 pour 100 relativement aux pensions provenant des États‑Unis que reçoit un résident canadien. En outre, le paragraphe 3 de l’article XXIX précise que cette limite s’applique aux citoyens des États‑Unis. Une somme payée en trop ne constitue donc pas un « impôt ».
+[23] Lorsqu’il a allégué que le Canada et les États‑Unis doivent régler le problème entre eux sans le mêler à l’affaire, l’appelant, par la nature même de son argument, m’a en réalité renvoyé à l’article XXVI du Traité. De façon générale, cette disposition permet au contribuable de demander à l’autorité compétente de l’État contractant dont il est résident de résoudre par voie d’accord amiable avec l’autre État contractant l’assertion fondée selon laquelle les mesures prises par un des États contractants entraîneront une imposition non conforme aux dispositions du Traité. La question soulevée par cet article consiste à savoir si l’ADRC, avant d’établir une cotisation à l’égard de l’appelant et de lui refuser le crédit pour la somme excédant la limite d’impôt convenue dans le cadre du Traité, aurait dû faire en sorte que l’autorité compétente tente de parvenir à un accord avec les États‑Unis afin de déterminer tant le montant de la dette fiscale appropriée dans ce pays que celui des crédits pour impôt étranger accordés au Canada relativement au revenu de source américaine de l’appelant.
+[24] Je ne crois pas que l’appelant puisse faire valoir cette thèse. Si on ne tient pas compte du fait qu’il n’a pas présenté de demande écrite à l’autorité compétente (à part la demande implicite évoquée dans son appel), cette dernière pourrait refuser la demande au motif qu’elle n’était pas fondée. Implicitement, je pourrais supposer que c’est ce qui s’est produit. Bien que ma compétence pour ce qui est de juger du caractère « fondé » d’une demande soit, au mieux, restreinte, je signale que la décision de l’intimée de ne pas recourir à la disposition du Traité relative à l’autorité compétente afin de tenter de conclure un accord avec les États‑Unis dans le cas de l’appelant est facile à justifier. L’appelant n’a pas fait le moindre effort pour se prévaloir des droits que lui confère le Traité. Qu’elle ait été intentionnelle ou non, son approche a consisté à laisser le Trésor américain percevoir un montant d’« impôt » plus élevé que celui qu’il s’était engagé à percevoir dans le cadre du Traité, puis de demander qu’un crédit au titre de cette somme excédentaire volontairement payée aux États‑Unis soit appliqué à sa dette fiscale au Canada. En omettant de se prévaloir de l’avantage que lui offre le Traité en raison du fait qu’il est une résident canadien, l’appelant a fait don au Trésor américain d’un avantage fiscal auquel ce dernier avait renoncé aux termes du Traité. Dans le cadre des régimes d’autocotisation, il incombe aux contribuables de produire une déclaration de revenus en fonction de leur situation. Dans la présente affaire, cela signifie que l’appelant a l’obligation d’établir qu’il a produit aux États‑Unis la déclaration voulue pour lui permettre de bénéficier des limites de taux prévues par le Traité. Or, ce fait n’a pas été établi. S’il l’avait été et si l’impôt américain avait fait l’objet d’une cotisation sans qu’il ne soit tenu compte de l’avantage conféré par le Traité, l’appelant aurait alors pu invoquer les dispositions de l’article XXVI. J’estime qu’il ne serait pas justifié, dans les circonstances en l’espèce, d’appliquer la disposition du Traité relative à l’autorité compétente avant que cette exigence ne soit remplie.
+[25] En terminant, je signale que l’intimée aurait pu invoquer l’alinéa 4a) de l’article XXIV du Traité, lequel limite expressément aux taux précisés dans le Traité le crédit que le Canada doit accorder à un citoyen américain résidant au Canada. Cette disposition appuie dans une certaine mesure l’interprétation que l’intimée donne aux dispositions relatives au crédit que comportent la Loi et le Traité.
+[26] Par conséquent, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 4e jour de mars 2004.
+« J.E. Hershfield »
+Juge Hershfield
+Traduction certifiée conforme
+ce 20e jour de juin 2008.
+Aleksandra Koziorowska, LL.B.
+RÉFÉRENCE :
+2004CCI199
+NO DU DOSSIER DE LA COUR :
+2003-1851(IT)I
+INTITULÉ DE LA CAUSE :
+Philip A. Meyer et
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Victoria (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 18 novembre 2003
+MOTIFS DU JUGEMENT :
+L’honorable juge J.E. Hershfield
+DATE DU JUGEMENT :
+Le 4 mars 2004
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Gavin Laird
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Bien que l’appelant n’ait peut‑être pas eu l’intention d’admettre ce fait, il n’a présenté aucun élément de preuve susceptible de contredire l’hypothèse formulée sur ce point par l’intimée.
+[2] L’ADRC s’est appuyée sur la table d’impôt américaine produite en preuve par l’intimée. Cette table montre sans équivoque que l’impôt payé aux États‑Unis est calculé suivant un taux ou une série de taux progressifs qui correspondent en l’espèce à un taux effectif global d’environ 21 pour 100 du revenu imposable total de l’appelant.
+[3] Aucune preuve d’expert digne de foi n’a été présentée quant au processus de production applicable aux États‑Unis. De toute façon, l’ADRC n’a pas contesté le crédit, sauf en ce qui concerne l’impôt américain attribuable au revenu de pension de source américaine, et l’appelant a choisi de ne pas produire une nouvelle déclaration de revenus aux États‑Unis. Il semble donc légitime de se fonder sur le fait que, vraisemblablement, l’excédent global d’impôt payé aux États‑Unis correspond à tout le moins à l’excédent calculé par l’ADRC. Ce choix est en outre justifié par les hypothèses qu’énonce l’intimée dans sa réponse et par l’omission de l’appelant de présenter un quelconque élément de preuve pour réfuter ces hypothèses. Il incombe à l’appelant d’établir le montant exact ou approprié des impôts étrangers payés à moins qu’il ne soit établi que les impôts étrangers réellement payés (peu importe leur exactitude ou leur caractère approprié) donnent droit à un crédit sous le régime de la Loi ou du Traité.
+[4] L’appelant n’était pas préparé à présenter des éléments de preuve relatifs au droit américain et il n’avait pas l’intention de le faire. Il a affirmé qu’il se fiait à son fiscaliste‑conseil américain et qu’il estimait que c’était suffisant. Il a peu judicieusement fait valoir qu’il appartenait à l’intimée de prouver que sa thèse sur ce point était fondée. J’estime quant à moi que la thèse avancée par l’intimée à cet égard est juste.
+[5] Le terme « revenu exonéré » est défini au paragraphe 248(1) de la Loi; il n’englobe pas les sommes imposées dans un pays étranger à l’égard desquelles un crédit est accordé. Le libellé du sous‑alinéa 110(1)f)(i) est différent (« une somme exonérée de l’impôt sur le revenu »), mais cela ne permet pas de penser que le crédit constitue une exonération.
+[6] Si la supposition utilisée dans cet exemple consiste à affirmer qu’il n’y a aucune réduction de l’impôt étranger susceptible de faire l’objet d’un crédit en raison de la définition du terme « impôt sur le revenu ne provenant pas d’une entreprise » figurant au paragraphe 126(7), il n’y aurait alors aucune réduction du dénominateur de la fraction visée à la subdivision 126(1)b)(ii)(A)(III) puisque la réduction calculée suivant cette disposition correspond en l’espèce à la somme mentionnée à l’alinéa 110(1)f), qui, me semble‑t‑il du moins, est la même que celle visée à l’alinéa 126(7)i).
+[7] Cela montre simplement que les impôts de l’appelant au Canada n’étaient pas suffisants pour absorber la totalité du crédit. L’appelant ne conteste pas ce point.

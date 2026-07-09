@@ -1,0 +1,505 @@
+---
+title: "Moledina v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27817/index.do"
+last_modified: "2007-08-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 354"
+citation2: ""
+neutral_citation: "2007 TCC 354"
+decision_date: "2007-08-03"
+language: "en"
+item_id: "27817"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 357
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:52:13.545000+00:00"
+cases_cited_count: 4
+cases_citing_count: 11
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b8f64be47609fe19caf4d9109e041c471176771aeae4d987ff3dd4237c21ef6d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Moledina v. The Queen
+
+- Citation: 2007 TCC 354
+- Decision date: 2007-08-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 357, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Moledina v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-08-03
+Neutral citation
+2007 TCC 354
+File numbers
+98-2857(IT)I
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 98-2857(IT)I
+98‑3366(IT)I
+2004-2436(IT)I
+BETWEEN:
+MOHAMED MOLEDINA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on June 11, 12 and 13, 2007 at Toronto, Ontario.
+Before: The Honourable D.G.H. Bowman, Chief Justice
+Appearances:
+Agent for the Appellant: Raza Khimji
+Counsel for the Respondent: Philippe Dupuis
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1989, 1990, 1991 and 1992 taxation years are dismissed.
+There will be no order for costs.
+Signed at Ottawa, Canada, this 3rd day of August 2007.
+“D.G.H. Bowman”
+Bowman, C.J.
+Citation: 2007TCC354
+Date: 20070803
+Dockets: 98-2857(IT)I
+98-3366(IT)I
+2004-2436(IT)I
+BETWEEN:
+MOHAMED MOLEDINA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowman, C.J.
+[1] These appeals were heard together. They are from reassessments made under the Income Tax Act for the 1989, 1990, 1991, 1992 and 1993 taxation years. They involve the disallowance of losses claimed by the appellant in respect of investments made by him in partnerships purporting to carry on Scientific Research and Experimental Development (“SRED”). Also, investment tax credits (“ITCs”) were claimed and disallowed. In some of the years no investment was made but losses were carried forward or back from other years.
+[2] A number of reasons might have been advanced for the disallowance, including the following:
+(a) that there was no partnership;
+(b) that the partnership was not carrying on business;
+(c) that the appellant was a limited partner; and
+(d) that the appellant was a “specified member”.
+[3] I shall not dwell on these and other arguments. The appellant is one of thousands of people, mainly in Quebec, who invested in tax shelters involving SRED. Approximately one thousand appeals were instituted in this court. Some have been disposed of and many have been abandoned. In not one of the appeals that have been heard has the taxpayer been successful. At present about 160 appeals are left which we are endeavouring to move forward with dispatch. In some cases groups of appeals have been held in abeyance pending the disposition of a case Angell et al. v. M.N.R. et al., 2006 DTC 6582, which was heard by Justice Gauthier of the Federal Court. It was an appeal from a decision of a prothonotary which had struck out an application by Angell and a large group of taxpayers for judicial review in which the taxpayers sought to have income tax assessments nullified because the Minister of National Revenue had allegedly unduly delayed in dealing with their notices of objection. Justice Gauthier dismissed the appeal and held that the Tax Court of Canada had jurisdiction, not the Federal Court.
+[4] The parties filed a letter of agreement with the Court which reads as follows:
+June 5, 2007
+Raza Khimji
+Raza Khimji & Associates Inc.
+204 – 9011 Leslie Street
+Richmond Hill, Ontario
+L4B 3B6
+Re: Mohamed Moledina v. Her Majesty the Queen
+T.C.C. No: 98-2857(IT)I, 98-3366(IT)I & 2004-2436(IT)I
+Our files: 3-203714, 3-208810, 3-208944
+Sir,
+We are writing further to our telephone conversation of today and in response to your letter which you faxed to us on June 4, 2007. Please note that this letter rescinds and replaces our earlier letter of today signed by Me Simon Petit. As discussed, both parties agree to limit the issue to be raised before the Tax Court of Canada in the above-mentioned appeals, in accordance with the following.
+It is agreed that, with respect to the above-mentioned appeals, the Appellant no longer disputes that the assessments established for the 1989, 1990, 1991, 1992 and 1993 taxation years were issued in accordance with the provisions of the Income Tax Act, based on the relevant facts and the applicable legislation. The Appellant thus accepts that the assessments are correct.
+The parties therefore agree that it is unnecessary to adduce any evidence relating to the amounts of tax assessed or to the reasons for so assessing, or any arguments relating thereto.
+It is understood that at the hearing, the only issue to be submitted to the Tax Court of Canada by the Appellant will be whether the Court may grant relief from interest calculated in accordance with the provisions of the Income Tax Act, because of delays which the Appellant alleges are excessive and unacceptable.
+The Appellant acknowledges having been previously advised, most notably in a letter dated May 1, 2007, that the Respondent’s position in this last regard is that the Tax Court of Canada’s jurisdiction prevents it from granting any relief from interest and from allowing the appeals for the reason that the audit, objection and/or appeal processes would have allegedly been too lengthy.
+In support of its position, the Respondent will, inter alia, rely on the Tax Court of Canada decision in Raby v. Canada, 2006 TCC 406, which we have already faxed to you. We refer you to paragraphs 50 and 51 of the reasons, which are relevant to this issue:
+[50] In closing, I should point out that the Appellants criticized Revenue Canada’s treatment of their file on several accounts and even with regard to the management of R & D files in general. One of the most significant critiques pertained to delays, which some of the Appellants considered excessive and unacceptable under the circumstances. Thus, the Appellants request that this Court cancel the interest in the event that their appeals are dismissed.
+[51] As I stated at the hearing, the cancellation of interest comes within the discretion granted to the Minister under subsection 230(3.1) of the Act. The Tax Court of Canada has no power in this regard because its jurisdiction is limited to determining whether an assessment is well founded. If a taxpayer who has asked the Minister to cancel his interest is dissatisfied with the Minister’s decision, the taxpayer may file an application for judicial review in the Federal Court.
+However, as stated in our letter of June 4, 2007, the Appellant still has an outstanding request for a fairness review of his file pursuant to subsection 220(3.1) of the Income Tax Act.
+In consideration of the Appellant’s concession that the assessments established for the 1989, 1990, 1991, 1992 and 1993 taxation are correct, the Respondent agrees not to request costs or the application of the penalty pursuant to section 179.1 of the Income Tax Act in relation to the conduct of the above-mentioned appeals.
+In order to confirm with the Court the extent of our agreement we ask that you sign this letter and return a copy to us by fax as soon as possible. We shall then file a copy with the Court.
+Yours truly
+Philippe Dupuis
+Counsel
+The Appellant agrees to limit the issue
+raised before the Tax Court of Canada
+regarding the above-mentioned appeals,
+in accordance with the terms herein.
+______________________________
+Raza Khimji
+Agent for the Appellant
+[5] In light of this agreement the merits of the appeals need not be considered. It is appropriate, however, that at this point I deal briefly with the matter of this Court’s jurisdiction in respect of interest. It is sometimes said, inaccurately in my view, that we have no jurisdiction when a taxpayer objects to the imposition of interest on income taxes. This statement is too broad. If the issue in an appeal is whether the interest was properly calculated, or whether it was imposed in accordance with the provisions of the Act, patently the Tax Court has jurisdiction to hear such an appeal. Interest is a component of an assessment and the Tax Court’s jurisdiction includes the power to hear and determine appeals from assessments under the various statutes mentioned in section 12 of the Tax Court of Canada Act. See Union Gas Limited v. The Queen, 90 DTC 6659.
+[6] I do not however believe that the Tax Court of Canada has the power to review the exercise or non-exercise of the Minister’s discretionary power to waive interest under subsection 220(3.1) of the Act or, indeed, to exercise that power. Whether that power of review belongs to the Federal Court is a matter best left to determination on another occasion. In the recent decision of the Supreme Court of Canada in Canada v. Addison & Leyen Ltd., [2007] S.C.J. No. 33 (QL), the following observation was made:
+8 We need not engage in a lengthy theoretical discussion on whether s. 18.5 can be used to review the exercise of ministerial discretion. It is not disputed that the Minister belongs to the class of persons and entities that fall within the Federal Court's jurisdiction under s. 18.5. Judicial review is available, provided the matter is not otherwise appealable. It is also available to control abuses of power, including abusive delay. Fact‑specific remedies may be crafted to address the wrongs or problems raised by a particular case.
+9 Nevertheless, we find that judicial review was not available on the facts of this case. As Rothstein J.A. pointed out, the interpretation of s. 160 by the majority of the Federal Court of Appeal amounted to reading into that provision a limitation period that was simply not there. The Minister can reassess a taxpayer at any time. In the words of Rothstein J.A.:
+While in the sense identified by the majority, subsection 160(1) may be considered a harsh collection remedy, it is also narrowly targeted. It only affects transfers of property to persons in specified relationships or capacities and only when the transfer is for less than fair market value. Having regard to the application of subsection 160(1) in specific and limited circumstances, Parliament's intent is not obscure. Parliament intended that the Minister be able to recover amounts transferred in these limited circumstances for the purpose of satisfying the tax liability of the primary taxpayer transferor. The circumstances of such transactions mak[e] it clear that Parliament intended that there be no applicable limitation period and no other condition on when the Minister might assess. [para. 92]
+10 The Minister is granted the discretion to reassess a taxpayer at any time. This does not mean that the exercise of this discretion is never reviewable. However, in light of the words "at any time" used by Parliament in s. 160 ITA, the length of the delay before a decision on assessing a taxpayer is made does not suffice as a ground for judicial review, except, perhaps, inasmuch as it allows for a remedy like mandamus to prod the Minister to act with due diligence once a notice of objection has been filed. Moreover, in the case at bar, the allegations of fact in the statement of claim do not disclose any reason why it would have been impossible to deal with the tax liability issues relating to either the underlying tax assessment against York or the assessments against the respondents through the regular appeal process.
+11 Reviewing courts should be very cautious in authorizing judicial review in such circumstances. The integrity and efficacy of the system of tax assessments and appeals should be preserved. Parliament has set up a complex structure to deal with a multitude of tax-related claims and this structure relies on an independent and specialized court, the Tax Court of Canada. Judicial review should not be used to develop a new form of incidental litigation designed to circumvent the system of tax appeals established by Parliament and the jurisdiction of the Tax Court. Judicial review should remain a remedy of last resort in this context.
+[7] Generally speaking, delay in processing a notice of objection is not a ground for vacating an assessment or, a fortiori, for deleting interest. The reason for not granting such relief is not because of a lack of jurisdiction in the Tax Court of Canada[1] — if there is a legal basis for vacating an assessment it is within the Court’s power to do so — but because delay is in most instances not a legal basis for attacking an assessment because it lies within a taxpayer’s own power to bring the delay to an end.
+[8] Under paragraph 169(1)(b) of the Act, if the Minister has not responded to a notice of objection by reassessing or vacating or confirming the assessment, the taxpayer has a right to appeal to the Tax Court of Canada. It is difficult to imagine why a taxpayer would seek or be granted an extraordinary remedy such as mandamus (cf. The Queen v. Ginsberg, 96 DTC 6372) or some other form of judicial review where the Minister delays in dealing with an objection when there is a clear right of appeal after 90 days (see Bolton v. The Queen, 96 DTC 6413).[2] This is sufficient to dispose of these appeals. Out of deference however to the careful arguments advanced by the agent for the appellant and by counsel for the respondent, I shall summarize briefly the events in this unfortunate saga relating to SRED tax shelters in Quebec. The respondent called as a witness Mr. Serge Huppé, a senior officer in the appeals branch of the Canada Revenue Agency (“CRA”). Mr. Huppé was an impressive and knowledgeable witness and I am indebted to him for his illuminating description of the manner in which the Minister dealt with the SRED tax shelter problem.
+[9] In 1989 the appellant, a nuclear engineer and obviously highly intelligent and well educated, was induced to invest in a number of partnerships purporting to carry on SRED. None of the partnerships in which the appellant invested in the years 1989 to 1992 were limited partnerships, although some of the arrangements whereby the investors could resell their interest for 50% of the purchase price a year later resulted, according to the Minister, in their becoming limited partners within the meaning of subsection 96(2.4) of the Act and therefore specified members as defined in section 248. In some cases where an investor did not fall within the definition of limited partner they nonetheless were alleged to be “specified members” because they were not actively involved in the scientific research activities (referred to in some of the departmental memoranda as “passive”). This resulted in a reduction or denial of losses claimed and ITCs. I attach as Schedules A and B charts forming part of Exhibits R‑5 and R‑6, which give some idea of the magnitude of the operation. In all, upwards of 10,000 investors were involved, and losses of about $263,000,000 were claimed for the taxation years 1986 to 1993. If, as the charts in Schedules A and B indicate, Zuniq corporation was doing scientific research on behalf of the multitude of partnerships, it would have required vast facilities and a very large staff. I saw none of this but of course I am not dealing with the merit of the appeals. It would not however surprise me if the appellant felt that he had been sold a bill of goods and misled by unscrupulous promoters into putting money into a tax avoidance scheme that was less scientific research than smoke and mirrors. He stated that his understanding was that if a partnership was given a tax shelter number (as they all were) this amounted to an acceptance by the CRA of the legitimacy of the investment and gave the investors the right to a deduction of losses claimed and the ITCs associated with the investment. This of course is not so. A tax shelter number is a requirement to deducting certain losses and expenses associated with a tax shelter but it does not guarantee the tax consequences promised by the promoter. It is a condition precedent, not a good housekeeping seal of approval.
+[10] The following are some of the relevant dates:
+Date of filing returns
+Date of reassessment
+1989 May 23, 1990
+March 16, 1994 (waiver)
+1990 June 6, 1991
+March 16, 1994
+1991 August 18, 1992
+March 15, 1996
+1992 July 16, 1993
+March 15, 1996
+1993 April 16, 1994
+Assessed as filed
+[11] The assessments for the 1990, 1991 and 1992 taxation years were confirmed on March 3, 2004 and the appellant personally filed appeals in this court by attaching to the notice of appeal form a copy of the text of the notices of appeal for 1989 and 1992 filed by the firm Bonhomme, Castonguay & Associés on October 29, and 30, 1998. The notices of appeal for 1989 and 1992 were in French. The appellant does not speak French.
+[12] By March 1995 the Deputy Minister of National Revenue and other senior officials of the Department of National Revenue realized that there was a serious problem with respect to the SRED tax shelter partnerships. The Deputy Minister met on March 15, 1995 with representatives of an association of taxpayers who had invested in research and development projects. A summary of the meeting was put in evidence, as follows:
+MARCH 22, 1995
+GENERAL PARTNERSHIPS IN QUEBEC
+SR & ED PARTNERSHIPS
+MEETING WITH THE DM AND THE INVESTORS ASSOCIATION
+MARCH 15, 1995
+SHORT MINUTES – MAIN POINTS
+1) Mr. Jules Brossard advised that:
+a) The association represents some 800 investors and number is growing.
+b) The problem faced by the investors is not a legal one but a social one: bankruptcy, marriage break-down etc. According to a survey they made, 50% of the investors are facing bankruptcy while the other 50% may lose their house or RRSP.
+c) The investors were average employees and many have since lost their employment because of the recession.
+2) gave his own situation: he owes $9,400 to both levels of Government for 1990 and is expecting a tax bill of some $14,000. for 1991. He said he cannot meet a tax debt of $25,000.
+3) The association raised the following points:
+a) we encouraged R&D
+b) neither Finance nor RC explained the requirements for “specified member”
+c) refusal to provide guidelines
+d) providing a tax shelter number
+e) received comfort from enquiries made to DO
+f) RC should have issued a Press Release
+g) RC accepted the claims for many years and only reacted in 1993
+i) Investors were in good faith
+j) The role of Government was to intervene earlier. The Government has not even yet published the guidelines for the “passive” issue.
+k) Certain investors were not reassessed because it was statute-barred.
+l) Investors do not have the financial means to fight this in Court.
+m) They provided the example of which is now a viable corporation employing 50 persons. They survived because of the R&D funds.
+4) The DM took strong exception to blaming RC. He mentioned that he will publicly intervene, if needs be, to rectify the facts. He also mentioned the obligation of tax specialists. He also added that the Department had no objection if investors were to take action against the promoters and that we would certainly do nothing to harm their case.
+5) The association met with Quebec DM and Mr. Brossard said that Quebec favors a settlement. Mr. Brossard also mentioned prior settlements such as the CDA and the $200,000 transfer to the next generation for capital gain purposes.
+6) The association is looking for a global solution applicable to all investors, whether or not R&D was done. Mr. Brossard conceded there was a problem if no R&D was done. For such cases, he then mentioned we could look at allowing a business loss, i.e., there was reasonable expectation of profit.
+7) The Association will hold a Press Conference soon to advertise a meeting with all investors in Montreal on April 10, 1995. They will certainly not come down on RC but rather explain the status of the case. Any RC employee is welcome to attend “incognito”. They also mentioned Revenu Quebec has stopped all collections.
+8) The DM concluded the meeting as follows:
+a) this is only the start of the exchange of information.
+b) RC will complete its audits and reassessments to protect the Department’s position.
+c) Review the various shelters and make necessary distinctions between cases depending if, inter alia, R&D was done.
+d) Liaise with Revenu Quebec.
+e) Consider the Fairness Legislation.
+f) Manage the issue from HQ.
+g) We will then inform of our findings.
+J.C. Boucher
+[13] The government’s response was fast, decisive and responsible. On the day of the meeting an action plan was developed, as outlined in two memoranda, as follows:
+MARCH 22, 1995
+TASK FORCE
+GENERAL PARTNERSHIPS IN QUEBEC
+SR & ED TAX SHELTERS
+ACTION PLAN
+1) Send a FAX to remind the field offices to continue to keep all objections and appeals in abeyance. (Done on March 16, 1995).
+2) By March 24, and in view of up-coming Press Conference by the Investors Association, prepare Q&A – Media line – Issue Sheet.
+3) Prepare a reply to the Association for Mr. Gravelle’s signature and, once signed, send an interim letter to the major firms representing taxpayers to advise them of the status of this issue, i.e.:
+a) that the issue is under active consideration in HQ.
+b) to send any additional representations they may wish to make.
+c) we will get back to them before a final decision is made.
+d) in the meantime, all related objections will continue to be kept in abeyance.
+e) the audit process for the 1991 to 1993 taxation years will continue and, to protect the Department’s position, reassessments will be issued where appropriate.
+f) that the issue has, and will continue to be, discussed with Revenu Quebec with a view to having one common approach to the problems.
+4) Contact the affected DO Directors and, during the week of March 27, have a team from Appeals (J.C. Boucher and S. Huppé), Legislation
+(M. Lambert and A. Marchand), Audit (C. Lamarche and M. Lefebvre) and two science advisors perform additional work in Montreal in cooperation with the Audit coordinator (see attached work plan).
+5) By March 31, communicate with the Quebec Security Commission, the Ontario Security Commission and the Quebec Provincial Police as to any pertinent information they may have on these tax shelters.
+6) Send an observer from the Montréal DO to the meeting scheduled by the Investors Association for April 10.
+7) By April 13, submit to the TASK FORCE a position paper, covering, inter alia:
+a) the applicable law and the legislative history
+b) on each of the following components of the applicable law, the strengths and weaknesses as applicable to these cases:
+i) Projects not eligible:
+A) eligibility v. non-eligibility
+B) issue of “reasonable expectation of profits”
+C) quantum of the loss
+ii) Eligible projects:
+A) quantum of the loss/research
+B) at-risk issue
+C) passive v. active
+c) conclusions
+8) The Task Force will consider the next steps, including:
+a) meeting with Revenu Quebec.
+b) meeting with the major representatives.
+9) Follow-up with Finance on any legislative deficiency.
+10) Develop and distribute widely an article on Tax Shelters.
+MARCH 22, 1995
+Study on
+General Partnerships in Québec
+Used as SR & ED Tax Shelters
+General Work Plan
+Purpose: Assess the evidence to determine the strengths and weaknesses of our position in the cases of Québec-based General Partnerships used as SR & ED tax shelters
+Team:
+• To be conducted jointly by Headquarters Appeals, Legislation, Specialized Audit Programs and Tax Avoidance
+• In cooperation with the SR & ED Audit coordinator from Montréal Tax Services Office
+• Under the direction of Appeals
+Issues to be Studied:
+A. Eligibility of Projects
+I. Ineligible SR & ED Projects
+1. How strong are we in our determination that the project is not eligible for SR & ED purposes?
+2. How strong are we in our determination that there is no reasonable expectation of profit?
+II. Eligible SR & ED Projects
+1. Disallowed Expenditures
+a) Disallowed Quantum
+• nature of disallowed expenses
+• basis of disallowance
+• how well documented
+• problems as third party is contracted to perform research
+b) No Expectation of Profit
+• factors considered for determination
+2. Active vs Passive Issue
+• on what basis determined
+3. At-Risk Issue
+• any indication by promoters that minimum risk involved
+• any reasonable assurance given to the investors
+4. Buy-Back
+• any indication money set aside by the research corporation for that purpose
+• repurchase before the end of the year or the following year
+5. Eligible Salaries for Possible Québec Tax Credit
+• revised salaries that could be eligible for the Québec tax credit
+B. Listing of Taxpayers Involved
+I. Ineligible Projects
+• taxation years involved
+• number and name of partnerships
+• number of partners for each partnership
+• amount of losses claimed by each partnership
+• where reassessed, amount of losses allowed
+• buy-back and percentage for each partnership
+II. Eligible Projects
+• taxation years involved
+• number and name of partnerships
+• number of partners for each partnership
+• amount of losses claimed by each partnership
+• for those reassessed, amount of losses allowed
+• buy-back and percentage for each partnership
+C. Analysis
+1. From the evidence gathered, determine if the findings generally apply to all partnerships or whether major distinctions exist between, for example,
+• the various promoters
+• the various corporations
+• the partnerships
+2. Prepare “sample file” for each distinct situation, with all available evidence
+[14] By April 3, 1995, a detailed memorandum was prepared setting out the key points relating to the tax shelter. I shall reproduce only the opening paragraphs:
+APRIL 3, 1995
+GENERAL PARTNERSHIPS IN QUEBEC
+SR & ED TAX SHELTERS
+BACKGROUND
+• Approximately 10,000 investors in the Province of Quebec purchased interests in SR & ED general partnerships in 1989 to 1993 taxation years.
+• To date, over 6,000 reassessments have been issued and an additional 9,000 may be issued as a result of audits in progress.
+• Eight taxpayers have filed appeals to the Tax Court of Canada.
+• Tax remissions have been requested on behalf of the investors and two Applications for Class Action have been filed mainly against the promoters, but also against the Department.
+KEY POINTS
+• The Department has identified certain areas of non‑compliance and, through thorough audits, is taking the appropriate measures to deal with the situation.
+• A member of such a partnership is entitled to his/her share of the loss and the Investment Tax Credit (ITC) on qualified expenditures provided he/she was actively engaged in the activities of the business of the partnership and that the investment risk was not limited. The investment risk may be limited, for example, by the fact that an investor has obtained a guarantee that he or she will be able to sell his or her partnership interest for an amount exceeding the Fair market Value.
+• During its audits, the Department has determined that some projects were not eligible for the tax incentives, which are designed to encourage R&D in Canada and benefit the Canadian economy, because no research was conducted. In other cases, the partners were not active in the business or the investment risk was limited.
+• Strong representations have been received from investors and their representatives.
+• Revenue Canada is continuing to review the validity of the tax shelters to ensure that its reassessments are correct under the law.
+• The law must be applied fairly and equally. If it is found that the provisions of the Income Tax Act have been incorrectly applied in any case, the situation will be corrected. Further the fairness provisions of the Income Tax Act which authorize the Department to waive interest in certain circumstances will be applied where appropriate.
+[15] On April 5, 1995 a memorandum was prepared for the Honourable David Anderson, Minister of National Revenue. It read:
+MEMORANDUM FOR THE HONOURABLE DAVID ANDERSON
+SUBJECT: General Partnerships in Québec
+Used as SR & ED Tax Shelters_
+This is to inform you of the status of the above cases involving investors in the Province of Québec.
+BACKGROUND
+• Approximately 10,000 investors in the Province of Québec purchased interests in SR & ED general partnerships.
+• To date, over 6,000 reassessments have been issued disallowing the investment tax credits and also disallowing or reducing the losses claimed. These reassessments are under objection and an additional 9,000 reassessments may be issued as a result of audits in progress. (Some investors have accepted the reassessments)
+• Eight taxpayers have filed appeals to the Tax Court of Canada while tax remissions have been requested on behalf of most of the investors. In addition, two Applications for Class Action have been filed against the promoters. The Department and Revenu Québec are also named as co‑defendants for part of their claim.
+• The Québec Securities Commission has successfully prosecuted some promoters
+STATUS
+The investors have formed an Association and I have met with members of the Association, including their President and Vice-President, along with their representative, on March 15, 1995. Mrs. Claudette Lévesque, Assistant to Mr. Jean Pelletier, Chief of Staff of the Prime Minister, also attended the meeting.
+In view of the number of taxpayers involved and the various representations received, I have formed a special task force comprised of Assistant Deputy Ministers to review the situation on a priority basis. In addition, we are working in close cooperation with Revenu Québec.
+I attach a copy of the Media Line and Questions and Answers that have been prepared in anticipation of any press coverage. I also attach a copy of a letter that will be sent shortly to the President of the Association. The Association is planning a meeting of their members on April 10, 1995 at which time the letter may be made public.
+I will keep you aware of developments as they occur.
+Pierre Gravelle
+[16] By April 13, 1995 the Study Group had prepared a detailed report. The executive summary reads as follows:
+THE REVIEW OF THE
+GENERAL PARTNERSHIPS IN QUEBEC
+USED AS SR & ED TAX SHELTERS
+REPORT FROM THE STUDY GROUP
+EXECUTIVE SUMMARY
+MANDATE
+As a result of a reassessing project involving some 10,000 taxpayers, the Deputy Minister formed a Task Force of Assistant Deputy Ministers to review the whole situation. Our mandate was to assess the strengths and weaknesses of the Department’s position from a factual and legislative perspective and report accordingly to the Task Force.
+FINDINGS
+The partnership’s interests were all sold (buy-back agreement) within a few months of their purchases for 45% or 50% of the original investment.
+No activity was carried on by the partnerships after the buy-back.
+The agreements between the partnerships and the research corporations use the nomenclature of a “mandate” and the partnerships claimed the itemized expenses allegedly spent on their behalf by the research corporations. This led the Department to review, for most eligible projects, the various expenses which were either allowed in full or in part.
+Most research agreements are likely contracts for services.
+For ineligible projects, all expenses and related investment tax credits were disallowed.
+For eligible projects, all partners were considered passive members and were thus denied the investment tax credit.
+The at-risk rules were not invoked.
+CONCLUSIONS
+1. INELIGIBLE PROJECTS
+The Department is on good ground to maintain that those projects do not qualify as SR & ED expenditures and that there was no business carried on by the partnerships with a reasonable expectation of profit.
+2. ELIGIBLE PROJECTS
+In view of the buy-back, we are on very solid ground to take the position that any SR & ED loss cannot exceed the “net” amount invested, i.e., the original investment less the buy-back amount. In addition, any ITC would be only on the net amount.
+3. FAIRNESS LEGISLATION
+The facts of the various cases come within the policy of the Department for the cancellation/waiving of interest.
+Jean-Charles Boucher
+Leader of the Study Group
+[17] The result of this was that on May 12, 1995, Mr. R.M. Beith, Assistant Deputy Minister, Appeals wrote a lengthy memorandum to the Deputy Minister, Mr. Pierre Gravelle. He discussed all of the issues, including the strengths and weaknesses of the Department’s position.
+[18] On June 30, 1995 a settlement project was prepared and it reads as follows:
+GENERAL PARTNERSHIPS IN QUEBEC
+USED AS SR & ED TAX SHELTERS
+SETTLEMENT PROJECT
+• Revenue Canada has now completed a GENERAL REVIEW of these tax shelters and is proposing the following settlement to the 6,300 taxpayers (MAIN GROUP) who invested during the 1989 to 1993 taxation years and claimed an investment tax credit (“ITC”), a partnership loss and disposed of their partnership interest in the year following the year of purchase.
+• Based on the results of the review, Revenue Canada has concluded that the investors are not entitled to any ITC or partnership loss because their risk was limited. This position is in agreement with the legislator’s intention when the concept of «specified member» was introduced, e.g., to limit the use of partnerships as SR & ED tax shelters.
+• Revenue Canada is prepared to allow, to the investors in the MAIN GROUP, an income loss on the disposal of the partnership interest and, for an investor who was not a promoter, to cancel the interest provided an investor agrees he/she is not entitled to any ITC and partnership loss and waive his/her right of objection and appeals in this respect. Attached is a copy of the settlement agreement.
+• Any investor in the MAIN GROUP who believes to be entitled to an ITC and partnership loss on the grounds that his/her situation is substantially different from the general findings of the review conducted by Revenue Canada can have his/her case evaluated on its own merits. In such a situation, the correctness of the reassessment and any cancellation of interest will be governed by the particular facts of that case and the applicable law.
+• The second group (SECOND GROUP) involves 1,700 taxpayers who invested during the 1992 to 1994 taxation years, claimed a partnership loss but not an ITC and did not dispose of their partnership interest in the year following the year of purchase. Investors in this SECOND GROUP will have their federal reassessments kept in abeyance pending the results of appeals filed with the Quebec Court with respect to assessments issued by Revenu Québec.
+• Revenu Québec agrees in substance to the settlement project explained above. Furthermore, upon receipt of copies of the federal assessments implementing the settlement, Revenu Québec will offer to the particular taxpayers from the MAIN GROUP the possibility to conclude a similar settlement.
+• For any request for information from Revenue Canada, please call directly or collect to the Shawinigan-South Taxation Centre at 819‑536‑6489.
+GENERAL PARTNERSHIPS IN QUEBEC
+USED AS SR & ED TAX SHELTERS
+DETAILS OF THE SETTLEMENT PROJECT
+• All investment tax credits are disallowed.
+• All business losses are disallowed.
+• The amount for the provincial scientific research tax credit previously included in income is removed from income.
+• The capital gain or loss on disposal of the partnership interest is cancelled.
+• A business loss in the year of the buy-back, that is the year immediately following the year of the investment, equal to the amount invested less the buy-back is allowed.
+• Thus, the monetary loss for a $10,000 investment with a 50% buy‑back would be $2,700:
+Investment $10,000
+Less: Buy-back $5,000
+Tax savings
+(46% of $5,000) 2,300 7,300
+Monetary loss $ 2,700
+• The net interest (the debit interest less the credit interest) from May 1st, 1990 to October 31, 1995 on the income tax payable resulting from the adjustments mentioned above are cancelled.
+• No interest will be cancelled for the promoters who have invested in these tax shelters.
+• The agreement letters should be returned to Revenue Canada no later than September 30, 1995.
+[19] On July 5, 1995, Mr. Jean-Charles Boucher wrote to Me Sylvain Castonguay, the lawyer who was acting for the appellant and a large number of other persons who invested in the SRED tax shelters and attached the Settlement Project in French (Projet de règlement). A further letter was sent to Me Castonguay on July 7, 1995. Those letters, without the attachments, were as follows:
+Monsieur Sylvain Castonguay
+Procom Fiscalité Conseil
+3030, boulevard Le Carrefour
+Bureau 1101
+Laval (Québec)
+H7T 2P5
+Le 5 juillet 1995
+Monsieur,
+Objet: Oppositions des contribuables ayant investi dans
+des sociétés de recherche utilisées comme abris fiscaux
+La présente fait suite à notre lettre du 7 avril 1995 ayant trait aux avis d’opposition mentionnés en rubrique.
+Le Ministère a maintenant terminé une étude générale de ces sociétés utilisées comme abris fiscaux. Le résultat de cette étude et la position du Ministère sont exposés au document ci-joint en date du 30 juin 1995.
+Si vous désirez des renseignements additionnels concernant la position générale du Ministère, vous pouvez communiquer avec Jean‑Charles Boucher au (613) 957-2185 ou Serge Huppé au (613) 957-4077. Pour toute demande concernant un cas spécifique, vous ou vos clients peuvent communiquer directement ou à frais virés au Centre fiscal de Shawinigan-Sud au (819) 536‑6489.
+Veuillez agréer, Monsieur, l’expression de nos sentiments distingués.
+Jean-Charles Boucher
+Chef de section
+Direction générale des appels
+Administration centrale.
+Monsieur Sylvain Castonguay
+Procom Fiscalité Conseil
+3030, boulevard Le Carrefour
+Bureau 1101
+Laval (Québec)
+H7T 2P5
+Le 7 juillet 1995
+Monsieur,
+Objet: Sociétés en nom collectif au Québec
+utilisées comme abris fiscaux de RS & DE
+La présente fait suite à notre lettre du 5 juillet 1995 dans laquelle je vous exposais la position du Ministère à l’égard des abris fiscaux mentionnés en titre.
+Au nom du Ministère, je désire confirmer que la solution proposée vaut pour tous les investisseurs et tous les regroupements d’investisseurs. Également, et contrairement à ce qui a pu être rapporté, il n’y a aucune négociation en cours avec quelque représentant ou regroupement que ce soit et le Ministère n’entend pas entamer de telles négociations. Toute rencontre qui peut avoir lieu a seulement pour objet d’expliquer la position du Ministère dans ce dossier.
+Je réitère donc que la solution proposée vaut pour tous les investisseurs et qu’elle est juste et équitable et conforme au droit applicable en la matière.
+Veuillez agréer, Monsieur, l’expression de nos sentiments les meilleurs.
+Jean-Charles Boucher
+Chef de section
+Direction générale des appels
+Administration centrale.
+[20] The appellant testified that he (and, presumably, the other investors for whom Me Castonguay acted) was advised by Me Castonguay to reject the Department’s offer of settlement. He also testified that he was told that the investors could do better in the Federal Court. The advice was wrong on all counts. On November 23, 1995, letters were sent to all investors who had put money into the SRED projects, whether they had objected or not and whether they were represented. The letter read as follows:
+November 23, 1995
+Subject: Investment in Partnerships Used As
+Scientific Research Tax Shelters____
+Dear Sir or Madam,
+We are writing to you as an investor in a partnership used as scientific research tax shelter.
+Following a joint review, Revenue Canada and Revenue Quebec announced their positions on June 30, 1995 when they presented a settlement proposal. Attached are the documents relating to this settlement offer entitled “Settlement Project” and “Details of the Settlement Project”.
+Revenue Canada undertook to be the first to communicate the settlement to all investors who were not represented and to the investors who were represented, allowing them until September 30, 1995 to return the letter of agreement. This was done with respect to all investors who had filed a Notice of Objection. We are proposing the same settlement to those investors who did not file an objection to the reassessment and to investors who have not yet been reassessed for the years 1992 and 1993.
+The vast majority of investors accepted the settlement based on the virtual 100% recommendation of it by the tax community. Out of a concern for fairness and to ensure that all investors have had an opportunity to consider this settlement, we have agreed to write to all investors who have not sent in their letter of agreement.
+Our records indicate that you invested in at least one partnership to which the settlement applies. The enclosed documents include two different letters of agreement. Letter A is intended for investors who were not promoters of these tax shelters, and Letter B is intended for promoters who invested in these tax shelters. If you wish to take advantage of this settlement, please send the appropriate letter of agreement to the Chief of Appeals of the Shawinigan‑Sud Tax Centre before December 30, 1995.
+To enable you to make an informed decision, we are attaching a series of questions and answers. You will also find enclosed a table showing examples of the tax consequences, including interest, for the 1989 through 1993 taxation years covering situations in which the investment tax credits and partnership losses were disallowed in their entirety, and a table for taxation years 1989 and 1990 covering situations where the investment tax credits were disallowed but the partnership losses were fully allowed. As you will see, the settlement offer reduces your tax liability by 21% to 63%, depending on the taxation year and your particular circumstances.
+This settlement is a global solution, and it must refer to all partnerships used as tax shelters in which you invested. The only exception involves partnerships for which the investment tax credits and partnership losses were never adjusted and the taxation year is statute-barred.
+The settlement is the best possible, given the circumstances. It is fair and equitable and it represents the most favourable interpretation possible of the applicable legislation. It includes the most generous interest relief possible under the circumstances. In effect, the Department cancels the interest, not only up to October 31, 1995, as provided in the settlement, but up to the date reassessments will be issued to give effect to the settlement, provided you are not a promoter. Furthermore, we will agree to a reasonable payment arrangement to pay the tax liability, including waiving of future interest if your financial situation warrants it.
+If you do not return your letter of agreement before December 30, 1995, we will assume that you have refused the settlement. The Department will then proceed with a review of your file, which will be processed based on the applicable legislation.
+If you require additional information, please do not hesitate to contact the Shawinigan-Sud Tax Centre directly at (819) 536-6489 (collect calls accepted). You may wish, where applicable, to consult your financial consultant or tax specialist.
+Yours truly,
+Jean-Charles Boucher
+Appeals Branch
+Headquarters
+[21] Although the documents quoted above are lengthy, I have reproduced them to demonstrate the thoroughness, speed and fairness with which Revenue Canada responded to the problem. There was attached the “Settlement Project” which is set out above as well as a “Fact Sheet” and other detailed information. The offer was obviously not accepted by the appellant and his lawyers made no attempt to bring the matter to a hearing in Court, apparently because they were waiting for other cases to be heard.
+[22] On July 26, 1996, Revenue Canada again wrote to the appellant by registered mail offering to perform an in‑depth review of his particular situation. Whether with the advice of his lawyer, or without it, Mr. Moledina did not take advantage of this offer. Indeed, he appears not to have picked up some of his registered mail. The letter read as follows:
+Subject: Investments in Partnerships Used as
+Scientific Research Tax Shelters
+Dear Sir:
+This is further to our letter dated November 23, 1995.
+We were then advising you of a settlement offer by virtue of which your tax liability as of June 28, 1996, which amounted to $ 12 912.12 with respect to the partnerships subject to the settlement, would have been reduced to $ 6 151.97, a reduction of $ 6 760.15.
+You will recall that the Department had concluded, after a general review, that the investors were not entitled to either an investment tax credit or partnership losses. However, and in order to allow them to conclude this matter, Revenu Canada offered the global settlement, including the cancellation of interest. This measure conditional on the acceptance of the settlement offer. In effect, based on the facts revealed by the general review, and outside of the acceptance of the settlement, the interest will not be cancelled.
+With respect to investors who believe that their situation is substantially different from the results of the general review, the Department has offered them, instead of accepting the settlement proposal, to perform an in‑depth review and to process their file in accordance with the particular facts of their case. If you wish that such a specific review be done, we would ask you first to complete the attached questionnaire for each partnership for which you have filed objections and to return same to the following address, using the enclosed pre-addressed envelope, if you so desire.
+Chief of Appeals
+Revenue Canada
+Tax Centre
+Shawinigan‑Sud
+G9N 7S6
+The information requested deals with your participation in the activities of the business of the partnership and the question of whether or not your investment risk was limited. This information will permit us to appreciate, if that is the case, the distinction between the particular facts of your case and those revealed by the general review. We will then contact you or, if that is the case, your representative, with respect to the results of this specific review and the further process of your file.
+In order to start the review as soon as possible, we ask that you return the duly completed questionnaires by September 6, 1996, at the latest. If the questionnaires are not returned by that date, and unless you have in the meantime accepted the settlement offer cancelling interest up to December 29, 1995 by sending your agreement letter to the above mentioned address, we will conclude that you do not wish to submit the requested information. If such is the case, the Department will dispose of your notices of objection on the basis that your situation is not different from the facts revealed by the general review with the results that you are not entitled to either the investment tax credit or the partnership losses.
+If you require additional information about the Department’s position, please do not hesitate to contact the Shawinigan-Sud Tax Centre at 536‑0693, Extension 6572. For long distance calls, please dial 1‑800‑511‑3774, Extension 6572.
+Yours sincerely,
+Jean‑Charles Boucher
+Appeals Branch
+Headquarters
+[23] On October 24, 2002, Me Bonhomme, who appears to have been associated at some point with Me Castonguay in the firm Bonhomme, Castonguay & Associés ceased to act for the appellant in respect of the appeals for 1989 and 1992.
+[24] The matter languished. On March 3, 2004, the Canada Customs and Revenue Agency (“CCRA”) confirmed the assessments for the taxation years 1990, 1991 and 1993. On May 21, 2004, the appellant filed notices of appeal to this court by attaching parts of the notices of appeal in French for 1989 and 1992 that had previously been filed by his lawyer.
+[25] On January 23, 2004 the Registry of this Court wrote to the appellant setting a status hearing for the appeal for 1989 for March 4, 2004 and on April 22, 2004 a status hearing for the appeal for 1992 was set for June 2, 2004. In one case the appellant did not appear, having failed to pick up his mail. Judgment was rendered against him and then on application was set aside.
+[26] In June of 2004 the appellant retained a lawyer, Mr. Khalil and a status hearing was heard by conference call and the Honourable Alban Garon, C.J. granted Mr. Khalil’s request to hold the appellant’s appeal along with a large number of the SR&D files in abeyance pending the disposition of some other cases in the Tax Court.
+[27] On June 8, 2005, the Registry of the Court wrote to Mr. Khalil with respect to his request to adjourn Mr. Moledina’s cases to permit him to consider Chief Justice Garon’s decision in McKeown v. The Queen, 2001 DTC 511, which had been rendered in March 2001. He was directed to advise the Court by July 15, 2005 whether he wished to proceed with those appeals.
+[28] On June 28, 2005, the CCRA wrote to Mr. Moledina stating that it could not process his request under the Fairness Provisions since his case was still before the Tax Court of Canada. I presume that with this judgment this obstacle will be removed.
+[29] On July 13, 2005, Mr. Khalil wrote to the Court asking that the appeals of his clients (which would include Mr. Moledina’s appeals) be held in abeyance pending the disposition in the Federal Court in file no. T-2096-04 (the Angell case). On August 11, 2005, the Registry of the Court replied to Mr. Khalil denying his request. The decision of Gauthier J. of the Federal Court in Angell, supra, was rendered on September 14, 2006.
+[30] On January 18, 2007, Mr. Gonthier of Mr. Khalil’s firm Marchand Melançon Forget LLP, stated that “the undersigned counsel” ceased to act for the appellant. The cases were set down for hearing on June 11, 2007 in Toronto, roughly 14 years after the notices of objection were filed. They were heard by me.
+[31] This delay is unacceptable. Nonetheless, I do not think I can grant the appellant the relief he seeks. Quite apart from the question of jurisdiction, I have to ask who is responsible for the delay. Certainly no fault can be attributed to the Department of National Revenue. Its response to the problem was swift, decisive and responsible. It made a fair and generous offer to settle and even extended the time for acceptance. I can find no basis for criticizing the government’s behaviour and even if delay were a legal basis for granting the relief sought by the appellant, I can see no grounds for laying that delay at the feet of the government. The Minister delayed confirmation of the assessments in an attempt to resolve the thousands of objections filed in connection with the SRED tax shelters. It was open to any taxpayer to institute an appeal in this court 90 days after filing a notice of objection. Once a case is in this court the practice of the Registry is to accommodate any appellant who wishes to move a case at flank speed. If the parties want a trial date they can have one within a month. I feel considerable sympathy for the appellant. He acted in good faith and relied upon the advice of his lawyers. His trust was misplaced.
+[32] The appeals are dismissed. There will be no order for costs.
+[33] The issuance of the judgment in this case was delayed because under the Official Languages Act if any portion of the proceedings in a case is in both official languages, the reasons and judgment must be issued simultaneously in both languages.
+Signed at Ottawa, Canada, this 3rd of August 2007.
+“D.G.H. Bowman”
+Bowman, C.J.
+Page.: 1
+Exhibit R-5
+Exhibit R‑6
+CITATION:
+2007TCC354
+COURT FILES NOS.:
+98-2857(IT)I
+98-3366(IT)I
+2004-2436(IT)I
+STYLE OF CAUSE:
+Mohamed Moledina v.
+Her Majesty The Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATES OF HEARING:
+June 11, 12 and 13, 2007
+REASONS FOR JUDGMENT BY:
+The Honourable D.G.H. Bowman, Chief Justice
+DATE OF JUDGMENT:
+August 3, 2007
+APPEARANCES:
+Agent for the Appellant:
+Raza Khimji
+Counsel for the Respondent:
+Philippe Dupuis
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Raza Khimji
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Cf. Lassonde v. Canada, 2005 DTC 5622.
+[2] See Provincial Secretary of Prince Edward Island v. Egan, [ 1941] S.C.R. 396, per Duff C.J.C. at page 399:
+“I think the contention of the appellant is well founded that section (1) of chap. 5 of the P.E.I. Statutes of 1940 gives prima facie an appeal to the Supreme Court (P.E.I.) from any decree, judgment, order, or conviction by a Judge of a County Court who is acting in a judicial capacity, though persona designata and not as the County Court, under the authority of a Provincial statute. This is not intended to be an exhaustive description, but in such circumstances I think an appeal lies.
+The fact that the County Judge has acted without jurisdiction does not, in my opinion, affect this right of appeal. Once the conclusion is reached that the section intends to give an appeal to the Supreme Court, even where the County Court Judge is exercising a special jurisdiction and not as the County Court, I can see no reason for limiting the scope of the appeal in such a way as to exclude questions of jurisdiction. As the Attorney-General observed in the course of his argument, lawyers are more familiar with the practice of dealing with questions of jurisdiction raised by proceedings by way of certiorari and prohibition. A tribunal exercising a limited statutory jurisdiction has no authority to give a binding decision upon its own jurisdiction and where it wrongfully assumes jurisdiction it follows, as a general rule, that, since what he has done is null, there is nothing to appeal from. But here we have a statute and this is only pertinent on the point of the meaning and effect of the statute.
+It has always seemed to me that the proceeding by way of appeal would be the most convenient way of questioning the judgment of any judicial tribunal whose judgment is alleged to be wrong, whether in point of wrongful assumption of jurisdiction, or otherwise. There is no appeal, of course, except by statute and, I repeat, the question arising upon this point is entirely a question of the scope and effect of this statute.”
+This passage was quoted and followed by Jackett P. (as he then was) in M.N.R. v. Gunnar Mining Ltd., 70 DTC 6135.

@@ -1,0 +1,264 @@
+Title: Griffin c. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26208/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-607-26208-griffin-c-m-n-r-fr.md
+Document type: case_law
+Last modified: 2003-09-05
+
+# Griffin c. M.N.R.
+
+- Citation: 2003 CCI 607
+- Decision date: 2003-09-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3939, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Griffin c. M.N.R.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-09-05
+Référence neutre
+2003 CCI 607
+Numéro de dossier
+97-1227(UI)
+Juges et Officiers taxateurs
+Alban Garon
+Sujets
+Régime de pensions du Canada
+Contenu de la décision
+97-1227(UI)
+97-1228(UI)
+ENTRE :
+CHESLEY GRIFFIN,
+C. GRIFFIN ENTERPRISES INC.,
+appelants,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+__________________________________________
+Appels entendus en même temps le 27 mai 2003 à Blanc-Sablon (Québec).
+Devant : l'honorable Alban Garon
+Juge en chef
+Comparutions
+Avocat des appelants : Me François Landry
+Avocat de l'intimé : Me Pierre-Paul Trottier
+__________________________________________
+JUGEMENT
+Par les présentes, il est ordonné que le règlement de la question en litige soit infirmé et que l'emploi de l'appelant Chesley Griffin auprès de l'appelante C. Griffin Enterprises Inc. soit assurable quant aux périodes du 18 août 1991 au 26 octobre 1991, du 1er septembre 1992 au 21 novembre 1992, du 27 septembre 1993 au 4 décembre 1993, du 23 octobre 1994 au 17 décembre 1994, du 23 janvier 1995 au 4 mars 1995 et du 27 novembre 1995 au 17 février 1996.
+Signé à Ottawa, Canada,
+ce 5e jour de septembre 2003.
+97-1227(UI)
+97-1228(UI)
+BETWEEN:
+CHESLEY GRIFFIN,
+C. GRIFFIN ENTERPRISES INC.,
+Appellants,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+__________________________________________
+Appeals heard together on May 27, 2003 at Blanc-Sablon, Quebec.
+Before : The Honourable Alban Garon
+Chief Justice
+Appearances
+Counsel for the Appellants: François Landry
+Counsel for the Respondent: Pierre-Paul Trottier
+__________________________________________
+JUDGMENT
+It is ordered and adjudged that the determination of the question be reversed and that the employment of the Appellant Chesley Griffin with the Appellant C. Griffin Enterprises Inc. be insurable with respect to the periods of August 18, 1991 to October 26, 1991, September 1, 1992 to November 21, 1992, September 27, 1993 to December 4, 1993, October 23, 1994 to December 17, 1994, January 23, 1995 to March 4, 1995 and November 27, 1995 to February 17, 1996.
+Signed at Ottawa, Canada,
+this 5th day of September 2003.
+"Alban Garon"
+J.C.C.C.I/C.J.T.C.C.
+Référence : 2003TCC607
+Date : 20030905
+Dossiers : 97-1227(UI)
+97-1228(UI)
+ENTRE :
+CHESLEY GRIFFIN,
+C.GRIFFIN ENTERPRISES INC.,
+appelants,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge en chef Garon, C.C.I.
+[1] Il s'agit d'appels interjetés en vertu de la Loi sur l'assurance-chômage portant sur l'assurabilité de l'emploi de monsieur Chesley Griffin, « l'appelant », lorsqu'il était au service de la société par actions, l'appelante C. Griffin Enterprises Inc., « le payeur », durant les six périodes suivantes :
+du 18 août 1991 au 26 octobre 1991
+du 1er septembre 1992 au 21 novembre 1992
+du 27 septembre 1993 au 4 décembre 1993
+du 23 octobre 1994 au 17 décembre 1994
+du 23 janvier 1995 au 4 mars 1995 et
+du 27 novembre 1995 au 17 février 1996.
+[2] Par sa décision du 14 mars 1997, le ministre du Revenu national informait les deux appelants que l'appelant Chesley Griffin n'occupait pas un emploi assurable au motif qu'il n'y avait pas de contrat de louage de services.
+[3] Le ministre du Revenu national à l'appui de cette décision s'est basé sur les hypothèses mentionnées notamment au paragraphe 5 de la Réponse à l'avis d'appel dans le dossier de l'appelant. Ce paragraphe 5 se lit ainsi :
+[traduction]
+5. Pour rendre sa décision, l’intimé, le ministre du Revenu national, s’est fondé entre autres sur les faits suivants :
+a) la société a été constituée il y a 12 ans;
+b) la société exploite un magasin général depuis 10 ans;
+c) l’appelant, sa femme, son père, sa sœur et ses frères sont actionnaires du payeur;
+d) en 1991, l’appelant a souffert d’un problème de santé;
+e) depuis 1991, l’appelant ne travaille plus comme gérant pour l’appelante;
+f) depuis 1991, l’appelant travaille comme menuisier;
+g) depuis 1991, le payeur a dépensé de 25 000 $ à 30 000 $ par année en vue de rénover le magasin;
+h) depuis 1991, l’appelant travaille pour le payeur durant la période de rénovations;
+i) l’appelant travaillait seul;
+j) l’appelant travaillait 40 heures ou plus par semaine;
+k) l’appelant indiquait le nombre de ses heures au payeur à la fin de chaque semaine;
+l) il n’existait pas de contrat de louage de services entre l’appelant et le payeur.
+[4] À l'audience, les appelants, par l'intermédiaire de leur avocat, ont admis les alinéas a), b), c), d), e) et f) du paragraphe 5 de la Réponse à l'avis d'appel dans le dossier de l'appelant et nié les autres alinéas de ce paragraphe 5. Toutefois, dans les cas des alinéas g), j) et k), la dénégation de ces alinéas n'était faite qu'en raison de leur formulation.
+[5] Les hypothèses figurant au paragraphe 5 de la Réponse à l'avis d'appel dans le dossier du payeur sont pratiquement identiques à celles du paragraphe 5 de la Réponse à l'avis d'appel dans le dossier de l'appelant.
+[6] L'appelant a témoigné dans le cadre des ces appels. Son témoignage se résume en peu de mots.
+[7] L'appelant témoigne qu'il a été malade à plusieurs reprises depuis 15 ans. Il a particulièrement fait plusieurs dépressions durant cette période. Il mentionne notamment qu'il avait de sérieux problèmes de mémoire. Il fait aussi part à la Cour de ses trop longues heures de travail et de certaines autres habitudes ou comportements qui étaient préjudiciables à sa santé. En raison de son état de santé, il a dû cesser d'exercer les fonctions de gérant du magasin général de l'appelante à partir de 1991. Il ne pouvait faire que du travail manuel durant les périodes en litige.
+[8] L'appelant affirme qu'il est un menuisier assez habile et que ce genre de travail lui plaît. Il croyait – sans être absolument sûr – qu'il a travaillé pour le payeur à raison d'environ 50 heures par semaine et qu'il était payé par chèque à un taux horaire de 10 $ ou 12 $ à toutes les deux semaines. Quant aux outils qu'il devait utiliser dans le cadre de son travail, ils étaient fournis par le payeur à l'exception d'un marteau et d'une scie qui lui appartenaient.
+[9] Dans son témoignage, monsieur Burke mentionne qu'il a géré depuis 1991 le magasin général du payeur. Dans son inventaire, le magasin en question détenait des articles de mercerie, d'épicerie, de quincaillerie et de cuisine. Le payeur exploitait aussi une station de service qui était attenante au magasin. Selon monsieur Burke, il a remplacé l'appelant parce que ce dernier avait de sérieux problèmes de santé. L'état de santé de l'appelant pendant qu'il avait la direction de l'entreprise en question avait entraîné de sérieux problèmes de gestion pour cette dernière. Par exemple, les paiements aux créanciers et en particulier aux grossistes n'étaient pas faits à temps. Comme il vivait dans son village natal, il se considérait contraint d'accorder du crédit à certains clients et par la suite il y avait de la difficulté à percevoir les comptes. La pression exercée par la banque et d'autres créanciers était devenue intolérable pour l'appelant.
+[10] Monsieur Burke a aussi relaté que le magasin était trop petit. Il fallait agrandir le magasin afin de pouvoir stocker la marchandise. Les travaux importants de construction de la bâtisse se sont faits surtout durant les années 1993 et 1994. Les services de l'appelant on été retenus pour faire certains ouvrages et pour les grands travaux monsieur Burke pour le compte du payeur a engagé en plus de l'appelant quatre autres travailleurs. Les travaux n'ont pas encore complètement été achevés à l'intérieur du magasin. C'est monsieur Burke qui décidait des travaux à faire et du moment où ils devaient être exécutés.
+[11] En ce qui concerne la détention des actions du payeur, monsieur Burke l'a établi comme suit [1] :
+Monsieur Burke et l'appelant, chacun 37 actions
+L'un des frères de l'appelant 10 actions
+Un deuxième frère de l'appelant 11 actions
+Madame Burke (épouse du témoin) 1 action
+Épouse de l'appelant 1 action
+Le payeur n'avait pas d'autres actionnaires. Le conseil d'administration était composé de trois membres à l'époque pertinente, à savoir l'appelant, qui était président, monsieur Burke, vice-président, et la femme de l'appelant agissait à titre de secrétaire.
+[12] C'est monsieur Burke qui a décidé d'employer l'appelant en 1991 comme menuisier. Il avait vu des travaux que l'appelant avait exécutés lui-même lors de la construction de sa maison et il avait constaté son habileté comme menuisier.
+[13] La rémunération de l'appelant a été déterminée par monsieur Burke après que ce dernier eut vérifié le salaire qui était payé pour des emplois de même nature. Le taux horaire fut établi à 10 $ originairement puis augmenté à 12 $ en 1993 pour les périodes de travail de 1993 à 1995 et fixé de nouveau à 10 $ pour la période se terminant en 1996. La longueur des périodes de travail de l'appelant était établie en fonction du budget du payeur. La durée des travaux était aussi reliée à la quantité des matériaux que le payeur avait achetés et au temps qui pouvait être requis pour les utiliser.
+[14] Lors du contre-interrogatoire, monsieur Burke a précisé qu'il avait une charge de travail, comme enseignant au service d'une commission scolaire, égale à 80 pour cent d'une charge normale. Il terminait habituellement sa journée de travail à 15h30 à l'exception de deux jours à l'intérieur d'une période de neuf jours où il ne travaillait pas dans l'après-midi. Monsieur Burke a témoigné qu'il pouvait lui-même faire certains travaux de menuiserie mais n'avait pas l'habileté voulue pour exécuter des travaux de finition. Le témoin affirme qu'il vérifiait régulièrement l'exécution des travaux faits par l'appelant. Il réitère que c'est lui qui déterminait quand les travaux devaient être faits et quels matériaux devaient être achetés.
+[15] À l'affirmation que le début des périodes d'emploi de l'appelant coïncidait avec la fin des périodes de prestation d'assurance-chômage, le témoin mentionne qu'il n'avait jamais vérifié la fin des périodes de prestation de l'appelant. C'est monsieur Burke qui prenait l'initiative de demander à l'appelant s'il voulait travailler pour le payeur.
+[16] Madame Nicole C. Bérubé, chef d'équipe à la division des appels de Revenu Canada à l'époque concernée, a témoigné pour le compte de l'intimé. Elle avait procédé à la révision du travail fait dans ces dossiers par l'agent des appels, monsieur Claude Préfontaine, qui est décédé en janvier 1998.
+[17] Madame Bérubé affirme que, selon elle, toutes les exigences d'un contrat de louage de services n'avaient pas été satisfaites. Elle fait état de « l'absence de contrôle sur le temps », la façon dont l'appelant était supervisé, elle questionne les périodes de travail et la façon dont il était rémunéré. Elle a noté en particulier que l'appelant a travaillé durant le nombre minimum de semaines pour être admissible aux prestations d'assurance-chômage et que d'autre part, il recevait le montant maximum des prestations d'assurance-chômage. Elle a aussi mentionné que l'appelant commençait son travail pour le payeur une semaine ou deux après qu'il cessait de recevoir ses prestations d'assurance-chômage. Le témoin s'est également interrogé au sujet d'une période de cinq semaines en 1996, durant laquelle l'appelant aurait travaillé à deux endroits différents, le matin à un bar et dans la soirée pour le payeur. Cet état de choses lui paraissait problématique particulièrement quant au grand nombre d'heures de travail que l'appelant aurait supposément faites.
+[18] Madame Bérubé a aussi abordé la question du coût des réparations effectuées au magasin général et s'est référée au questionnaire rempli par monsieur Burke où ce dernier estimait que le coût des réparations et rénovations s'élevait à 10 000 $ et le coût des matériaux à 12 000 $. Le même témoin souligne qu'aux états financiers du payeur pour les années se terminant le 31 décembre 1993 et 1994 les dépenses au titre des matériaux n'étaient que 1 051 $ et 3 009 $ respectivement. Elle indique que les achats de matériaux qui ont été faits par le payeur à des moments qui se situaient bien avant dans certains cas le début de la période d'emploi du payeur.
+[19] Le témoignage de madame Bérubé a aussi porté sur le pourcentage des actions du capital-actions du payeur détenues par chacun des actionnaires et sur certaines contradictions au sujet de la répartition des actions.
+[20] Quant à l'élément de supervision du travail de l'appelant, madame Bérubé s'est interrogée sur l'existence de cet élément vu que monsieur Burke travaillait à plein temps comme enseignant au service d'une commission scolaire.
+Analyse
+[21] Tout d'abord, il y a lieu de remarquer que la décision dont appel du 14 mars 1997 du ministre au sujet de la non-assurabilité de l'emploi de l'appelant ne s'appuyait pas sur l'alinéa 3(2)c) de la Loi sur l'assurance-chômage. En outre, dans la Réponse à l'avis d'appel dans chacun des dossiers concernés, il est nulle part question de l'alinéa 3(2)c) mais plutôt de l'alinéa 3(1)a).
+[22] De l'ensemble de la preuve, il ressort clairement que monsieur Brian Burke pour le compte de l'appelante prenait les décisions quant à l'embauchage des employés y compris celui de l'appelant. C'est lui qui décidait des matériaux qui devaient être achetés, des travaux à être effectués, du moment où ils devaient être exécutés et des ressources financières qui pouvaient être consacrées à ces travaux. C'est monsieur Burke qui a retenu les services de l'appelant comme menuisier et déterminé son salaire. Les chèques de rémunération étaient également signés par monsieur Burke. Il est vrai que monsieur Burke était employé comme enseignant et travaillait presque tous les jours jusqu'à 15h30 mais je n'ai pas de doute qu'il vérifiait régulièrement l'exécution des travaux de l'appelant. Je ne mets pas en doute la version des faits de monsieur Burke. Ce dernier avait notamment un intérêt financier à ce que les travaux soient bien faits, en sa qualité d'actionnaire important du payeur. Il est clair qu'il avait le droit d'exercer pour le compte du payeur le contrôle voulu sur le travail de l'appelant.
+[23] En tout état de cause, il me paraît incontestable que la relation juridique entre l'appelant et la personne morale qu'est le payeur en est une d'employé —employeur. Les propos tenus par le comité judiciaire du Conseil Privé dans l'affaire Lee v. Lee's Air Farming, Ltd., [1960] 3 All E.R. 420, me paraissent toujours d'actualité. Il s'agissait d'une situation — plus extrême que celle dont il est question dans ces deux dossiers — où le tribunal eut à considérer si un administrateur d'une société — qui au surcroît était pratiquement le seul actionnaire — pouvait être aussi un employé de cette société en vertu du contrat de louage de services négocié entre lui et la société en question. Voici comment s'exprimait Lord Morris of Borth-y-Gest à la page 425 :
+[traduction]
+[...] Cette relation s’est formée parce que le défunt, en tant que personne juridique, était désireux de travailler pour la société intimée, une autre entité juridique, et de conclure un contrat avec elle. Une relation contractuelle ne peut exister que s’il y a accord entre les deux parties contractantes. Il n’a pas été suggéré (et, selon leurs Seigneuries, cela n’aurait pas pu raisonnablement être suggéré) que la société intimée était un trompe-l’œil ou un simple simulacre. Il a été clairement établi que le seul fait qu’une personne soit administrateur d’une société ne l’empêche pas de conclure un contrat en vue de servir la société en question. Ainsi, si l’on admet que la société intimée était une entité juridique, leurs Seigneuries ne voient aucun motif de contester la validité des obligations contractuelles créées entre la société intimée et le défunt.
+[24] L'avocat de l'intimé a exprimé de sérieux doutes sur la crédibilité du témoignage de l'appelant. Il a particulièrement fait état des précisions que l'appelant pouvait fournir sur certains sujets alors qu'il avait absence totale ou quasi totale de détails sur des matières où l'appelant aurait dû être bien informé.
+[25] J'ai examiné avec beaucoup de soin le comportement de l'appelant durant son témoignage et je n'ai pas de raison de douter de l'état de sa mémoire et des difficultés qu'il peut avoir à se remémorer certains faits. Les contradictions qui existent entre la « déclaration statutaire » et son témoignage à l'audience particulièrement sur la propriété et répartition des actions du payeur ne sont pas significatives. À tout événement, le témoignage de monsieur Burke me paraît crédible et n'a pas été sérieusement contesté.
+[26] Quant à l'importance des travaux d'agrandissement du magasin qui ont été effectués durant quelques-unes des périodes en litige, la preuve est claire qu'il s'agissait de travaux considérables bien que les états financiers ne semblent pas refléter cette situation.
+[27] Quant à la question de la propriété des outils, ils étaient fournis pour la plupart par le payeur, lorsque cela s'avérait nécessaire.
+[28] L'appelant n'avait aucune chance de bénéfice ni risques de perte. Il était payé en fonction de ses heures de travail et non en fonction du travail accompli.
+[29] Quant au critère de l'intégration, il semble indiscutable d'après la preuve que l'appelant n'exerçait pas une entreprise de son chef.
+[30] De l'ensemble de la preuve, je viens à la conclusion que durant les six périodes en question, l'appelant était au service du payeur à titre d'employé. Il y avait définitivement un lien de subordination entre l'appelant et le payeur. Par conséquent, l'emploi de l'appelant était assurable aux fins de la Loi sur l'assurance-chômage.
+[31] Les appels sont accueillis et l'emploi de l'appelant est assurable.
+Signé à Ottawa, Canada, ce 5e jour de septembre 2003.
+« Alban Garon »
+Juge en chef Garon
+RÉFÉRENCE :
+2003TCC607
+No DU DOSSIER DE LA COUR :
+97-1227(UI) et 97-1228(UI)
+INTITULÉ DE LA CAUSE :
+Chesley Griffin
+et le ministre du Revenu national ET
+C. Griffin Enterprises Inc.
+et le ministre du Revenu national
+LIEU DE L'AUDIENCE :
+Blanc-Sablon (Québec)
+DATE DE L'AUDIENCE :
+27 mai 2003
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge en chef Alban Garon
+DATE DU JUGEMENT :
+5 septembre 2003
+COMPARUTIONS :
+Pour l'appelant :
+Me François Landry
+Pour l'intimé :
+Me Pierre-Paul Trottier
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant(e) :
+Nom :
+Me François Landry
+Étude :
+Landry, Savard
+Sept-Îles (Québec)
+Pour l'intimé(e) :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+Citation: 2003TCC607
+Date: 20030905
+Docket: 97-1227(UI)
+97-1228(UI)
+BETWEEN:
+CHESLEY GRIFFIN,
+C. GRIFFIN ENTERPRISES INC.,
+Appellants,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Garon, C.J.
+[1] These are appeals under the Unemployment Insurance Act dealing with the insurability of the employment of Chesley Griffin, "the appellant", when he was employed by the appellant company C. Griffin Enterprises Inc., "the payer", during the following six periods:
+from August 18, 1991 to October 26, 1991
+from September 1, 1992 to November 21, 1992
+from September 27, 1993 to December 4, 1993
+from October 23, 1994 to December 17, 1994
+from January 23, 1995 to March 4, 1995, and
+from November 27, 1995 to February 17, 1996.
+[2] By his decision dated March 14, 1997, the Minister of National Revenue notified the two appellants that the appellant Chesley Griffin did not hold insurable employment on the ground that there was no contract of service.
+[3] In support of that decision, the Minister of National Revenue relied on the assumptions set out inter alia at paragraph 5 of the Reply to the Notice of Appeal in the appellant's file. That paragraph reads as follows:
+5. In rendering his decision, the Respondent, the Minister of National Revenue, relied inter alia, on the following facts:
+a) the company has been incorporated 12 years ago;
+b) the company operates [sic] a general store since 10 years;
+c) the Appellant is a shareholder of the Payer with his wife, his father, his sister and his brothers;
+d) in 1991, the Appellant had health problem [sic];
+e) since 1991, the Appellant does not work anymore as manager for the Appellant;
+f) since 1991, the Appellant works as a carpenter;
+g) since 1991, the Payer spent $25,000.00 to $30,000.00 a year to renovate the store;
+h) since 1991, the Appellant works for the
+Payer during the renovation period;
+i) the Appellant was working alone;
+j) the Appellant was working 40 hours or more each week;
+k) the Appellant gave the amount of hours to
+the Payer at the end of every week;
+l) there was no contract of service between
+the Appellant and the Payer.
+[4] At the hearing the appellants, through their counsel, admitted subparagraphs (a), (b), (c), (d), (e) and (f) of paragraph 5 of the Reply to the Notice of Appeal in the appellant's file and denied the other subparagraphs of that paragraph. However, subparagraphs (g), (j) and (k) were denied as a result of their wording.
+[5] The assumptions stated in paragraph 5 of the Reply to the Notice of Appeal in the payer's file are practically identical to those in paragraph 5 of the Reply to the Notice of Appeal in the appellant's file.
+[6] The appellant testified in these appeals. His testimony is summarized in a few words.
+[7] The appellant testified that he had been sick a number of times for 15 years. In particular, he had several depressions during that period. He said among other things that he had serious memory problems. He also told the Court that he worked long hours and pointed out some other habits and behaviours that were harmful to his health. As of 1991, he had to stop working as manager for the payer's general store as a result of his health. He was only able to perform manual work during the periods at issue.
+[8] The appellant stated that he is a rather skilled carpenter and that he enjoys that type of work. He thought ¾ without being completely certain ¾ that he had worked for the payer for approximately 50 hours a week and that he was paid by cheque every two weeks at a hourly rate of $10 or $12. With respect to the tools needed for his work, they were provided by the payer with the exception of a hammer and saw that belonged to him.
+[9] Mr. Burke said in his testimony that he had managed the payer's general store since 1991. In its inventory, the store in question carried dry goods, grocery items, hardware and cooking items. The payer also operated a gas station that was next to the store. According to Mr. Burke, he replaced the appellant because he had serious health problems. The appellant's state of health when he was in charge of the business in question had resulted in serious management problems. For example, payments to the creditors and in particular to the wholesalers were not made on time. Since the appellant was living in his hometown, he felt obliged to grant certain clients credit and later on, he had difficulty collecting payments. The pressure exerted by the bank and other creditors had become unbearable for the appellant.
+[10] Mr. Burke also said that the store was too small. The store needed to be extended in order to be able to stock the merchandise. The major construction work on the building was done primarily in 1993 and 1994. The appellant's services were engaged for some construction work and, for the major construction, Mr. Burke hired on the payer's behalf four other workers in addition to the appellant. The work inside the store has still not been completely finished. It was Mr. Burke who decided on the work to be done and when it needed to be done.
+[11] With respect to the holding of the payer's shares, Mr. Burke stated as follows: [2]
+Mr. Burke and the appellant each 37 shares
+One of the appellant's brothers 10 shares
+Another of the appellant's brothers 11 shares
+Mrs. Burke (wife of witness) 1 share
+Appellant's spouse 1 share
+The payer did not have other shareholders. At the relevant time, the board of directors was made up of three members: the appellant, who was president; Mr. Burke, who was vice-president; and the appellant's wife, who was secretary.
+[12] Mr. Burke was the one who had decided to hire the appellant as a carpenter in 1991. He had seen some of the work that the appellant had done himself when his house was being constructed and had noted how skilful a carpenter he was.
+[13] The appellant's wages were established by Mr. Burke after he had checked what the wages were for jobs of the same nature. The hourly rate was initially set at $10 and then increased to $12 in 1993 for the work period from 1993 to 1995 and was set once again at $10 for the period ending in 1996. The duration of the appellant's work periods were determined on the basis of the payer's budget. The duration of the work was also connected to the quantity of materials that the payer had purchased and to the length of time that might be needed to use them.
+[14] In cross-examination, Mr. Burke stated that his workload as a teacher with a school board was approximately 80 percent of a normal workload. He normally finished his workday at 3:30 p.m. with the exception of two days within a nine-day period when he did not work in the afternoons. Mr. Burke testified that he was able to do some carpentry work himself but did not have the skills needed to do finishing work. He said that he regularly checked the work carried out by the appellant. He reiterated that he was the one who determined when the work was to be done and what materials needed to be purchased.
+[15] To the statement that the start of the appellant's work periods coincided with the end of the unemployment insurance periods, Mr. Burke said that he had never checked the end of the appellant's benefit periods. Mr. Burke was the one who took the initiative of asking the appellant if he wanted to work for the payer.
+[16] Nicole C. Bérubé, team leader of the appeals division of Revenue Canada at the time, testified for the respondent. She had reviewed the work done in those files by the appeals officer Claude Préfontaine, who died in January 1998.
+[17] Ms. Bérubé said that, in her opinion, all of the requirements for a contract of service had not been met. She noted the "absence of control over time" and the way in which the appellant was supervised, and she questioned the work periods and the way in which the appellant was paid. In particular, she noted that the appellant had worked for the minimum number of weeks to be eligible for unemployment insurance benefits and, furthermore, that he was receiving the maximum amount of unemployment insurance benefits. She also said that the appellant began his work for the payer one or two weeks after he had stopped receiving his unemployment insurance benefits. Ms. Bérubé also questioned a five-week period in 1996 when the appellant had apparently worked at two different places, mornings at a bar and evenings at the payer's. That situation seemed problematic to her particularly with respect to the great number of hours that the appellant had supposedly worked.
+[18] Ms. Bérubé also addressed the issue of the costs of repairs made at the general store and referred to the questionnaire that Mr. Burke had filled out in which he estimated the costs of repairs and renovations to be $10,000 and the cost of materials to be $12,000. She also pointed out that in the payer's financial statements for the years ending on December 31, 1993 and 1994, expenses for materials were only $1,051 and $3,009 respectively. She said that the purchases for materials made by the payer were in some cases made well before the start of the payer's employment period.
+[19] Ms. Bérubé's testimony also dealt with the percentage of shares of the payer's capital stock held by each shareholder and with some inconsistencies concerning the distribution of shares.
+[20] With respect to the supervision of the appellant's work, Ms. Bérubé questioned whether that element existed in view of the fact that Mr. Burke worked full time as a teacher for a school board.
+Analysis
+[21] It should first be noted that the Minister's decision dated March 14, 1997, under appeal and determining that the appellant's employment was not insurable was not based on paragraph 3(2)(c) of the Unemployment Insurance Act. Moreover, in the Reply to the Notice of Appeal in each of the files in question, reference is not made at all to paragraph 3(2)(c) but rather to paragraph 3(1)(a).
+[22] It is clear from the whole of the evidence that Brian Burke was making the decisions on behalf of the appellant company respecting the hiring of employees, including the hiring of the appellant. It was he who decided on the materials to be purchased, the work to be carried out, the time at which it had to be done, and the financial resources that could be allocated for the work. Mr. Burke was the one who engaged the services of the appellant as a carpenter and had determined his salary. He was also the one who signed the salary cheques. It is true that Mr. Burke was employed as a teacher and worked almost daily until 3:30 p.m., but I have no doubts that he regularly checked the work carried out by the appellant. I do not doubt the facts related by Mr. Burke. As an important shareholder of the payer, he had in particular a financial interest that the work be done properly. It is clear that he was entitled to exercise control, on the payer's behalf, over the appellant's work.
+[23] Whatever the case, it seems indisputable to me that the legal relationship between the appellant and the payer, which is a legal entity, is an employer-employee relationship. The comments made by the judicial committee of the Privy Council in Lee v. Lee's Air Farming, Ltd., [1960] 3 All E.R. 420, still seem of current interest to me. In that situation—more extreme than the one involved in the two files herein—the court had to consider whether a director of a company—who in addition was practically the only shareholder—could also be an employee of that company by virtue of the contract of service that was negotiated between himself and the company in question. This is what Lord Morris of Borth-y-Gest said at page 425:
+... That relationship came about because the deceased, as one legal person, was willing to work for and to make a contract with the respondent company which was another legal entity. A contractual relationship could only exist on the basis that there was consensus between two contracting parties. It was never suggested (nor, in their Lordship's view, could it reasonably have been suggested) that the respondent company was a sham or a mere simulacrum. It is well established that the mere fact that someone is a director of a company is no impediment to his entering into a contract to serve the company. If, then, it be accepted that the respondent company was a legal entity, their Lordships see no reason to challenge the validity of any contractual obligations which were created by the respondent company and the deceased.
+[24] Counsel for the respondent had serious doubts on the credibility of the appellant's testimony. In particular, he noted the specific information that the appellant was able to give on certain issues whereas there was absence or near absence of information on matters on which the appellant should have been well informed.
+[25] I examined very carefully the behaviour of the appellant during his testimony, and I have no reason to question the state of his memory or the difficulties he may have in remembering certain facts. The inconsistencies between the "statutory declaration" and his testimony at the hearing, particularly regarding the ownership and distribution of the payer's shares, are not significant. In any case, Mr. Burke's testimony seems credible to me and was not seriously contested.
+[26] With respect to the scope of the construction work that was carried out for the store's expansion during some of the periods at issue, the evidence clearly showed that the work involved was significant even though the financial statements did not seem to reflect that.
+[27] With respect to the ownership of the tools, they were provided for the most part by the payer when that was needed.
+[28] The appellant had no chance of profit or risk of loss. He was paid on the basis of the hours he worked and not on the basis of the work performed.
+[29] With respect to the test of integration, it seems indisputable on the basis of the evidence that the appellant did not operate a business on his own.
+[30] I conclude from the whole of the evidence that during the six periods at issue, the appellant was working for the payer as an employee. There was definitely a relationship of subordination between the appellant and the payer. Therefore, the appellant's employment was insurable under the Unemployment Insurance Act.
+[31] The appeals are allowed and the appellant's employment is insurable.
+Signed at Ottawa, Canada, this 5th day of September 2003.
+« Alban Garon »
+Garon, C.J.
+[1] Les données figurant à la pièce I-8 où figurent les pourcentages d'actions (et non les nombres d'actions) détenus par les six actionnaires sont quelque peu différentes de celles fournies par monsieur Burke dans son témoignage.
+[2] The figures shown on Exhibit I-8 indicating the share percentages (and not the number of shares) held by the six shareholders are somewhat different than those provided by Mr. Burke in his testimony.

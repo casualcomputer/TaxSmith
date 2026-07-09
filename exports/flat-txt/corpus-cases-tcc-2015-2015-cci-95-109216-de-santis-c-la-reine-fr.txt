@@ -1,0 +1,225 @@
+Title: De Santis c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/109216/index.do
+Corpus path: corpus/cases/tcc/2015/2015-cci-95-109216-de-santis-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2015-04-17
+
+# De Santis c. La Reine
+
+- Citation: 2015 CCI 95
+- Decision date: 2015-04-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2866, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+De Santis c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-04-17
+Référence neutre
+2015 CCI 95
+Numéro de dossier
+2014-670(IT)I
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2014-670(IT)I
+ENTRE :
+ERIC DE SANTIS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 19 janvier 2015, à Ottawa, Canada.
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me André Leblanc
+JUGEMENT
+L’appel des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2009, 2010 et 2011 est accueilli, sans dépens, et les nouvelles cotisations en litige sont annulées.
+Signé à Ottawa, Canada, ce 17e jour d’avril 2015.
+« Robert J. Hogan »
+Juge Hogan
+Référence : 2015 CCI 95
+Date : 20150417
+Dossier : 2014-670(IT)I
+ENTRE :
+ERIC DE SANTIS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Hogan
+I. Aperçu [1] L’appelant interjette appel de nouvelles cotisations par lesquelles le ministre du Revenu national (le « ministre ») a réduit la valeur de dons de bouteilles de vin pour les années d’imposition 2009, 2010 et 2011 des montants suivants :
+Année d’imposition
+Dons déduits par l’appelant
+Dons refusés par le ministre
+2009
+1 050 $
+697 $
+2010
+1 100 $
+756 $
+2011
+8 550 $
+5 878 $
+[2] De plus, pour l’année d’imposition 2011, l’appelant a déclaré un gain en capital de 5 500 $, dans sa déclaration de revenus, relativement au don d’une bouteille de vin évaluée à 6 500 $. Dans sa cotisation, le ministre a diminué de 2 235 $ le gain en capital imposable afin de tenir de compte de l’ajustement mentionné précédemment.
+II. Contexte factuel [3] L’appelant est un amateur de vins. Au cours des années visées, l’appelant a effectué des dons de bouteilles de vin à l’organisme de bienfaisance Fondation du Centre de santé et de services sociaux de Gatineau (la « Fondation »).
+[4] La Fondation est un organisme de charité canadien enregistré se trouvant à Gatineau, au Québec.
+[5] Les dons offerts par l’appelant ont servi à aider la Fondation à recueillir des fonds au moyen de sa vente aux enchères annuelle de vins de prestige. Le montant ainsi amassé chaque année permettait de soutenir le Centre de santé et de services sociaux de Gatineau dans l’atteinte de ses objectifs, soit le mieux-être et la santé des membres de la communauté qu’il sert.
+[6] La vente aux enchères a eu lieu sous l’autorité de la Société des alcools du Québec (la « SAQ ») et il s’agissait de la vente de vins rares non disponibles dans les succursales de cette dernière.
+[7] Les bouteilles de vin y étaient vendues en lots. Aucune garantie n’était donnée sur les lots ni par la Fondation ni par l’encanteur. De plus, tous les lots devaient faire l’objet d’une adjudication au plus offrant.
+[8] Les vins offerts à la Fondation sont évalués par Alain Laliberté. Celui‑ci est évaluateur de vins et sommelier, diplômé de la Faculté d’œnologie de Bordeaux. Il n’est toutefois pas évaluateur agréé, malgré sa grande connaissance en la matière.
+[9] Au cours de l’année 2009, l’appelant fait donation à la Fondation de trois bouteilles de vin, évaluées par M. Laliberté à 350 $ chacune. Il reçoit ainsi un reçu officiel aux fins d’impôt d’un montant total de 1 050 $ et le joint à sa déclaration de revenus pour l’année d’imposition 2009.
+[10] L’appelant a témoigné qu’il était présent lors de la vente aux enchères et que ses trois bouteilles de vin se sont vendues dans un lot comprenant deux autres vins, qui ne lui appartenaient pas, pour un montant total de 800 $. Le lot de cinq bouteilles de vin était évalué à 1 700 $.
+[11] En février 2010, l’appelant reçoit une note d’évaluation de M. Laliberté relativement aux dons de 2009, qui confirme que les trois bouteilles de vin en question méritaient leur évaluation.
+[12] De même, au cours de l’année 2010, l’appelant fait donation à la Fondation de trois bouteilles de vin évaluées par M. Laliberté à une somme totale de 1 100 $.
+[13] À l’hiver 2011, l’appelant reçoit une note d’évaluation de M. Laliberté relativement aux dons de 2010, qui confirme la valeur attribuée aux trois bouteilles de vin de l’appelant.
+[14] Lors de l’audience, l’appelant a déclaré avoir vécu en 2011 une situation personnelle extrêmement difficile dans laquelle, a‑t‑il affirmé, il a eu recours aux soins et au soutien du réseau du Centre de santé et de services sociaux de Gatineau. C’est la raison pour laquelle il a décidé de faire une donation plus substantielle à la Fondation cette année‑là.
+[15] Ainsi, l’appelant a offert sept bouteilles de vin dans le cadre de la vente aux enchères annuelle. Les bouteilles ont été évaluées par M. Laliberté à une somme totale de 8 550 $. Une des sept bouteilles offertes a notamment été évaluée à 6 500 $, de sorte que l’appelant a déclaré un gain en capital de 5 500 $ pour cette même année d’imposition.
+[16] À l’hiver 2012, l’appelant reçoit une note d’évaluation de M. Laliberté relativement aux dons de 2011, qui confirme la valeur attribuée précédemment aux sept bouteilles de vin de l’appelant.
+[17] Dans ses avis de nouvelle cotisation, le ministre a réduit la valeur totale des dons de bouteilles de l’appelant par un facteur de 3,2, ce qui ramenait le montant des dons à 328 $ pour l’année d’imposition 2009, à 344 $ pour l’année d’imposition 2010 et à 2 672 $ pour l’année d’imposition 2011.
+III. Questions en litige [18] Les questions en litige soulevées par l’intimée sont les suivantes :
+a) Quelle est la juste valeur marchande des vins donnés par l’appelant?
+b) Quel est le gain en capital imposable en ce qui concerne les vins donnés par l’appelant en 2011?
+IV. Analyse (1) Les règles de preuve en matière informelle [19] D’abord, il importe de clarifier une question préliminaire à laquelle la Cour a été confrontée lors des plaidoiries des parties. L’avocat de l’intimée a soulevé le manque de fiabilité des éléments de preuve présentés par l’appelant, plus spécifiquement les notes d’évaluation de M. Laliberté. Il a fait valoir que les règles de preuve en matière de ouï‑dire s’appliquent malgré le fait que l’appel est régi par la procédure informelle.
+[20] Or, la règle en matière d’administration de la preuve dans les instances devant la Cour qui sont régies par la procédure informelle est énoncée au paragraphe 18.15(3) de la Loi sur la Cour canadienne de l’impôt[1] :
+18.15(3) Par dérogation à la loi habilitante, la Cour n’est pas liée par les règles de preuve lors de l’audition de tels appels; ceux-ci sont entendus d’une manière informelle et le plus rapidement possible, dans la mesure où les circonstances et l’équité le permettent.
+18.15(3) Notwithstanding the provisions of the Act under which the appeal arises, the Court is not bound by any legal or technical rules of evidence in conducting a hearing and the appeal shall be dealt with by the Court as informally and expeditiously as the circumstances and considerations of fairness permit.
+[21] Cette disposition a été interprétée récemment par la Cour d’appel fédérale dans la décision Madison c. Canada[2]. Il s’agissait notamment de déterminer si c’était à tort que le juge de la Cour canadienne de l’impôt avait refusé d’admettre en preuve des notes prises par l’appelante lors d’une conversation téléphonique qui était pertinente aux fins du litige.
+[22] La juge Sharlow a infirmé la décision du juge de première instance en statuant qu’une erreur de droit avait été commise, tel qu’il est indiqué dans l’extrait suivant :
+11 […] Mais surtout, en l’espèce, il y a erreur de droit lorsqu’il y a exclusion des éléments de preuve constituant du ouï‑dire dans le cadre d’une instance de la Cour de l’impôt régie par les règles de la procédure informelle sans que l’on ait d’abord examiné si ces éléments de preuve sont suffisamment fiables et probants pour justifier leur admission, compte tenu de la nécessité de favoriser une audience juste et expéditive (Selmeci c. Canada, 2002 CAF 293, au paragraphe 8)[3].
+[23] La Cour d’appel fédérale, dans l’affaire Selmeci c. Canada[4], a confirmé le pouvoir discrétionnaire élargi d’un juge de la Cour canadienne de l’impôt dans son appréciation de la preuve sous le régime de la procédure informelle. Le juge Malone mentionne que le législateur, en édictant l’article 18.15 de la Loi sur la Cour canadienne de l’impôt, « n’avait pas l’intention de proscrire les règles de preuve habituelles lorsqu’un procès se déroule suivant la procédure informelle »[5]. Il indique qu’au contraire l’objectif visé par cette disposition est « de conférer aux juges de la Cour de l’impôt la flexibilité nécessaire pour qu’ils puissent entendre les appels d’une manière aussi informelle et rapide que les circonstances et l’équité le permettent »[6].
+[24] Par conséquent, et pour répondre à l’argument de l’intimée, les règles de preuve en matière de ouï‑dire ne peuvent évidemment pas être écartées simplement parce que l’audience est régie par la procédure informelle. Il est néanmoins bien établi dans la jurisprudence qu’un juge de la Cour canadienne de l’impôt jouit d’une discrétion élargie en matière d’appréciation de la fiabilité d’un élément de preuve et de la nécessité de cet élément. Ce serait donc une erreur d’autant plus grande de sa part que de rejeter un élément de preuve pour des motifs de formalisme, sans même examiner si cet élément est suffisamment fiable et probant pour justifier son admission[7].
+(2) Le fardeau de la preuve applicable [25] L’intimée fait également valoir que, lorsqu’un contribuable cherche à obtenir une déduction dans le calcul de son impôt payable, c’est à lui qu’incombe le fardeau d’établir les éléments démontrant qu’il a droit à cette déduction[8].
+[26] La Cour suprême du Canada, dans l’arrêt Hickman Motors Ltd. c. Canada[9], a établi le principe suivant lequel, en appel d’une cotisation du ministre, le contribuable a d’abord le fardeau initial de présenter une preuve prima facie réfutant les présomptions du ministre à l’appui de la cotisation. Si le contribuable fait cela, un renversement du fardeau de la preuve s’opère, et c’est alors au ministre à établir le bien-fondé de sa cotisation, selon la prépondérance des probabilités. Ce n’est qu’après que le ministre s’est acquitté de ce fardeau que le contribuable se trouve, à nouveau, à devoir prouver sa version des faits, cette fois-ci par une prépondérance de la preuve.
+[27] La Cour d’appel fédérale a appliqué dans l’arrêt House c. Canada[10] les principes énoncés dans Hickman Motors. La Cour a dit qu’une preuve prima facie basée sur le témoignage crédible d’un contribuable était suffisante, avec ou sans documents à l’appui, pour permettre au contribuable de s’acquitter du fardeau de démolir les présomptions du ministre. Le juge Nadon s’est appuyé sur, entre autres, l’arrêt Amiante Spec Inc. c. Canada[11], pour souligner ce principe.
+[28] Ainsi, la Cour d’appel fédérale a infirmé la décision de la Cour canadienne de l’impôt pour le motif que le juge de première instance n’avait pas appliqué le bon fardeau de la preuve relativement aux hypothèses du ministre :
+61 Comme je l’ai déjà dit, il incombait à l’appelant de présenter une preuve prima facie visant à « démolir » les hypothèses du ministre. En d’autres mots, il incombait à l’appelant de démontrer que les hypothèses du ministre étaient inexactes, non d’établir qu’il n’avait pas reçu 305 000 $ en 2003. […]
+[Je souligne.]
+[29] Par conséquent, le fardeau de la preuve de l’appelant ne doit pas différer de celui qu’impose ce principe énoncé par les instances supérieures et bien établi depuis quelques années.
+[30] À ce stade‑ci de l’analyse de la preuve, la Cour doit déterminer si l’appelant a réussi à réfuter les présomptions du ministre à l’appui des cotisations, et ce, selon une preuve suffisante à première vue. Trois approches sont possibles à cet égard. Le contribuable peut soit, en établissant qu’une ou plusieurs des présomptions du ministre sont fausses, se décharger de son fardeau de présenter une preuve prima facie, soit établir que ces présomptions ne sont pas pertinentes aux fins de la cotisation, ou démontrer que le ministre n’a pas réellement fait les présomptions sur lesquelles il prétend s’être fondé dans l’établissement de sa cotisation[12].
+[31] L’appelant s’acquitte de son fardeau dès lors qu’il présente une preuve crédible et non contredite sur un de ces points[13].
+(3) La preuve présentée [32] L’appelant a tenté de démontrer que la présomption suivante du ministre est erronée[14] :
+d) la juste valeur marchande des vins donnés par l’appelant en date des dons est tout au plus de 328 $ pour les vins donnés en 2009, de 344 $ pour les vins donnés en 2010 et de 2 672 $ pour les vins donnés en 2011[15].
+Autrement dit, le ministre a tenu pour acquis que les évaluations des bouteilles de vin données par l’appelant ont été ajustées à la hausse par un facteur de 3,2 afin que le crédit d’impôt corresponde à la juste valeur marchande des vins, et ce, tel qu’il appert du paragraphe 5 de la réponse à l’avis d’appel.
+[33] Cette hypothèse du ministre est compatible avec ce qui ressort de certains documents fournis par l’Agence du revenu du Canada (l’« ARC ») et produits en preuve par l’appelant. D’abord, le vérificateur dans le dossier explique, dans une lettre adressée à l’appelant, avoir découvert qu’en moyenne la juste valeur marchande fournie par l’évaluateur, M. Laliberté, était plus de trois fois plus élevée que le prix de vente obtenu à l’encan. Selon lui, un facteur de 3,2 a été appliqué par M. Laliberté pour augmenter le crédit d’impôt afin qu’il corresponde à la juste valeur marchande de la bouteille[16]. Le vérificateur s’est fié à la section 2 du document de M. Laliberté intitulé « Procédures pour évaluations de vins à des fins caritatives », reproduite en partie ci‑dessous :
+2. Recherche d’informations provenant de différentes sources afin d’établir une moyenne de prix marchand pour le nord-est de l’Amérique du Nord, lequel se divise en plusieurs juridictions et autant de systèmes de taxation différents selon les états et les provinces;
+[…]
+Ce prix moyen marchand est ensuite multiplié par un ratio de 3,2 pour l’établissement arrondi de l’évaluation finale. Pourquoi 3,2? Simplement qu’en moyenne, la valeur restante réelle du crédit d’impôt équivaut presque à la moyenne de prix marchand mais ne tient pas compte des coûts à considérer si un vin n’est disponible, comme c’est le cas dans la majorité des vins, qu’aux États‑Unis, voire en Europe ou en Asie[17].
+[Je souligne.]
+[34] Le vérificateur fait ressortir dans la lettre susmentionnée que la méthode utilisée par M. Laliberté dans l’évaluation des bouteilles de vin tient compte du marché international[18], alors que le marché le plus pertinent était le marché de l’encan où les bouteilles ont été vendues[19]. Le vérificateur mentionne notamment ce qui suit dans son rapport de vérification :
+[TRADUCTION]
+[…] Le fait est que le don des bouteilles s’est fait dans la région de la capitale nationale et elles ont par la suite été vendues aux enchères dans la région de la capitale nationale. Quoique les prix pouvant être obtenus dans la région de la capitale nationale puissent ne pas être les mêmes que dans d’autres grandes villes, cela ne veut pas dire pour autant que la région de la capitale nationale ne peut pas être le « marché pertinent ». La même bouteille vendue aux enchères à New York, à Toronto et dans la région de la capitale nationale se vendra à des prix fort différents parce qu’il s’agit dans chaque cas d’un marché différent où la situation démographique et les variables économiques sont différentes. Plus de dix organismes de charité dans la région d’Ottawa font annuellement une vente aux enchères de vins fins. Pendant une période de quatre ans, soit de 2001 à 2004, nos vérificateurs ont fait un échantillonnage de 3 569 bouteilles, ce qui ne représente qu’une fraction des bouteilles vendues au cours de cette période. Notre position est qu’un marché a été créé grâce à ces ventes annuelles de vins aux enchères[20].
+[35] Finalement, dans son rapport de vérification, le vérificateur précise qu’étant donné que les bouteilles de vin en question ont été vendues principalement en lots, les différents lots constituent les biens à être évalués :
+[TRADUCTION]
+[…] les tribunaux ont établi clairement que l’on ne peut pas évaluer séparément chacun des biens et ensuite simplement faire le total pour en arriver à la valeur de l’ensemble des biens, ce qui a été fait en l’occurrence. Les tribunaux reconnaissent en outre que le vente de biens en lots diminue la valeur de ces biens et qu’il faut appliquer alors un facteur de réduction, ce qui n’a pas été fait en l’occurrence[21].
+[36] Ainsi, le vérificateur a simplement réduit la juste valeur marchande déterminée par M. Laliberté d’un facteur de 3,2, se basant pour ce faire sur le document de procédures d’évaluation de celui‑ci, tel qu’il appert clairement du rapport de vérification :
+[TRADUCTION]
+Selon la méthode d’évaluation employée par l’évaluateur, la juste valeur marchande (JVM) moyenne des bouteilles de vin dont il a été fait donation à la Fondation du CSSS a été multipliée par un facteur de 3,2 afin d’augmenter le montant du crédit d’impôt pour qu’il corresponde à la JVM des bouteilles. De plus, le prix auquel les bouteilles se sont vendues aux enchères représente moins de 31,25 % (1/3,2) de la JVM déterminée par l’évaluateur […]. Par conséquent, nous avons rajusté en appliquant le facteur de 3,2 la JVM des bouteilles de vin dont il a été fait donation. […]
+Nous avons rajusté le gain en capital par un facteur de 3,2 par suite de la réévaluation de la JVM des bouteilles de vin, et ce, conformément au paragraphe 39(1)[22].
+[37] L’appelant conteste cette présomption du ministre pour les cinq motifs exposés ci-dessous.
+[38] Premièrement, l’appelant prétend que le ministre s’est trompé quant au facteur d’accroissement appliqué par M. Laliberté. Il fait valoir que ce dernier a appliqué à un prix marchand moyen non pas un facteur d’accroissement de 3,2, mais bien un facteur d’accroissement de 2,2, voire de 1,8.
+[39] L’appelant ajoute que le ministre s’est trompé quant au motif de l’augmentation de la juste valeur marchande établie par M. Laliberté. Il fait valoir que l’application du facteur d’accroissement était nécessaire, non pas pour faire correspondre le montant du crédit d’impôt à la juste valeur marchande, mais bien pour tenir compte des coûts à prendre en considération lorsqu’un vin n’est disponible qu’aux États‑Unis, en Europe ou en Asie.
+[40] L’appelant s’appuie sur le document de procédures d’évaluation de M. Laliberté, qui y mentionne ce qui suit :
+Les coûts suivants sont compris dans mon ratio multiplicateur de 3,2, lequel ne s’applique pas à tous les vins puisqu’il varie selon la valeur des bouteilles. Plus elles sont dispendieuses, le ratio pourra être ramené à 2,2, voire 1,8
+1- l’investissement de capital
+2- les frais de douane
+3- le transport
+4- l’entreposage
+5- les assurances
+6- les taxes de ventes
+7- les différents droits d’acquisition
+8- les frais de courtiers
+9- et surtout la rareté du produit après 10-20 ou 30 ans de distribution[23].
+[41] Par conséquent, l’appelant soutient que le ministre a basé sur une lecture sélective déraisonnable et une interprétation erronée des procédures d’évaluation de M. Laliberté sa présomption voulant que M. Laliberté ait gonflé la valeur marchande des vins en la multipliant par 3,2.
+[42] Deuxièmement, l’appelant prétend que le ministre a commis une erreur en ne tenant pas compte de la majoration de la SAQ applicable dans le cas de l’importation de vins étrangers. L’appelant fait valoir que le prix marchand moyen utilisé par M. Laliberté consistait en une valeur moyenne sur le marché international. L’appelant soutient que, par conséquent, il faut nécessairement ajouter, au Québec, la majoration substantielle de la SAQ.
+[43] Il s’appuie sur le rapport annuel de 2014 de la SAQ[24], qui fait état de la répartition du prix de vente d’un vin importé. On y constate que la majoration et la taxe spécifique sur toute bouteille de vin au Québec provenant de l’étranger représentent environ 50 % du prix de vente au détail. Dans une note de bas de page, cependant, on indique que « [l]a majoration permet d’assumer les frais de vente et mise en marché, de distribution et d’administration et de dégager un résultat net ».
+[44] Troisièmement, l’appelant prétend que le ministre s’est trompé en reprochant à M. Laliberté de ne pas avoir appliqué un facteur d’ajustement qui tenait compte du fait que les bouteilles de vin se vendaient en lots. L’appelant fait valoir, en effet, que les bouteilles de vin dont il avait fait donation étaient offertes individuellement à la Fondation, tandis que, à l’encan, elles étaient vendues en lots.
+[45] Il soutient qu’il n’y était pour rien dans le choix de la Fondation de regrouper certaines bouteilles de vin en lots et que, de toute manière, ses dons n’étaient pas des dons massifs, de sorte que le facteur d’ajustement de marché prévu dans la jurisprudence ne s’applique pas.
+[46] Quatrièmement, l’appelant prétend que le ministre a omis de procéder à l’identification précise des biens à être évalués.
+[47] L’appelant se fie au rapport de vérification qui mentionne que [TRADUCTION] « [l]’ARC n’a pas essayé d’évaluer les bouteilles — il y en avait tout simplement trop pour qu’il soit possible de se lancer dans une telle entreprise »[25].
+[48] L’appelant soutient que, si le ministre avait procédé à une telle évaluation, il ne serait pas arrivé à un facteur de réduction de 3,2.
+[49] Cependant, toujours dans le rapport de vérification, le vérificateur justifie ce choix de l’ARC de la façon suivante : [TRADUCTION] « Nous avons plutôt analysé la méthode utilisée et avons conclu qu’elle n’est pas conforme aux méthodes analytiques généralement reconnues, si bien que les évaluations ne satisfont pas aux normes établies de pratique pour les évaluateurs professionnels »[26]. Il ajoute :
+[TRADUCTION]
+La méthode utilisée par Alain Laliberté pour obtenir la juste valeur marchande indiquée dans ses propres procédures d’évaluation est [...] un processus très mécanique et, comme le précise le juge en chef adjoint Bowman dans la décision Maréchal c. La Reine, 2004 CCI 464,
+Lorsque la Commission ou la Cour a l’obligation de déterminer la JVM d’un bien et que différents chiffres lui sont présentés, elle ne s’acquitte pas de cette obligation en optant pour le plus élevé. Elle n’est liée par aucune évaluation et n’est pas tenue de choisir une de celles présentées. Elle doit plutôt faire tout ce qu’elle peut pour établir la valeur réelle du bien, même si cela est difficile. […] Il ne s’agit pas d'un processus mécanique. C’est un processus qui exige de la Commission ou de la Cour qu’elle soupèse tous les éléments dont elle dispose et qu’elle utilise son jugement pour en arriver à un résultat correct[27].
+[50] Quant à l’appelant, il se réfère à l’analyse de la vente aux enchères des vins de prestige[28]. On y retrouve, à la page 121, le résultat de la vente des trois bouteilles de vin de l’appelant données en 2009 et évaluées à 1 050 $ au total. On constate que ces bouteilles de vin étaient incluses, lors de la vente aux enchères, dans le lot 63 avec deux autres bouteilles évaluées à 300 $ et à 350 $. Le lot de cinq bouteilles s’est vendu pour un montant de 800 $, alors qu’il valait globalement 1 700 $. L’appelant soutient que le prix de vente reflète ici un facteur d’accroissement non pas de 3,2, mais bien d’environ 2,1.
+[51] Lors de sa plaidoirie, l’avocat de l’intimée a par ailleurs reconnu à plusieurs reprises[29] que le facteur d’accroissement de 3,2, présumé par le ministre, était erroné pour l’année d’imposition 2009.
+[52] Finalement, l’appelant prétend que le marché pertinent aux fins d'évaluer la juste valeur marchande des bouteilles de vin ne peut être celui de la vente aux enchères de vins de prestige tenue par la Fondation près d’un an après le don. Il fait valoir qu’il fallait payer 50 $ pour participer à la vente aux enchères, que les bouteilles de vin y étaient vendues en lots et que, de plus, la Fondation était obligée d’adjuger tous les lots.
+[53] Il soutient que la vente aux enchères de la Fondation ne peut donc pas être considérée comme représentant un marché libre de toute restriction.
+V. Conclusion [54] Tel qu’il a été mentionné précédemment, un contribuable s’acquitte de sa charge initiale de démolir les présomptions du ministre lorsqu’il présente au minimum une preuve prima facie[30].
+[55] Selon moi, la preuve produite par l’appelant en l’espèce respecte cette norme d’une preuve prima facie.
+[56] Rappelons qu’une des présomptions du ministre en l’espèce est que les évaluations des bouteilles de vin données par l’appelant ont été ajustées par l’application d’un facteur d’accroissement de 3,2 afin que le crédit d’impôt corresponde à la juste valeur marchande des vins. L’appelant a réfuté cette hypothèse en produisant une preuve suffisante à première vue établissant i) l’inexactitude du prétendu motif de l’application d’un facteur d’accroissement ainsi que le véritable facteur appliqué, ii) l’inexactitude de l’identification des biens en question et iii) l’erreur commise dans la détermination du marché pertinent.
+[57] Aucune partie de la preuve produite par l’appelant n’a été contredite par l’intimée. Par conséquent, je suis d’avis que l’appelant a réfuté les présomptions du ministre concernant le facteur d’accroissement de 3,2.
+[58] Le fardeau de la preuve ayant été ainsi renversé, c’était au tour de l’intimée d’établir par la prépondérance de la preuve que les cotisations du ministre sont bien fondées. En l’espèce, l’intimée n’a produit aucune preuve et n’a pas réussi à soulever le moindre doute sur la crédibilité du témoignage de l’appelant. Ce dernier semble donc être en droit d’obtenir gain de cause dans le présent appel.
+[59] Pour tous ces motifs, j’accueille l’appel et j’ordonne l’annulation des cotisations en litige.
+Signé à Ottawa, Canada, ce 17e jour d’avril 2015.
+« Robert J. Hogan »
+Juge Hogan
+RÉFÉRENCE :
+2015 CCI 95
+Nº DU DOSSIER DE LA COUR :
+2014-670(IT)I
+INTITULÉ DE LA CAUSE :
+ERIC DE SANTIS c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Ottawa, Canada
+DATE DE L’AUDIENCE :
+Le 19 janvier 2015
+MOTIFS DE JUGEMENT PAR :
+L’honorable juge Robert J. Hogan
+DATE DU JUGEMENT :
+Le 17 avril 2015
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me André Leblanc
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L.R.C. 1985, c. T‑2.
+[2] 2012 CAF 80.
+[3] Ibid.
+[4] 2002 CAF 293.
+[5] Ibid., paragraphe 9.
+[6] Ibid.
+[7] Suchon c. Canada, 2002 CAF 282, paragraphe 32 (autorisation d’appel à la CSC refusée).
+[8] Transcription, page 97, lignes 25 à 28.
+[9] [1997] 2 RCS 336, [1997] ACS no 62 (QL).
+[10] 2011 CAF 234.
+[11] 2009 CAF 139.
+[12] « Tax Disputes With the Canada Revenue Agency (CRA) — The Burden of Proof » (24 février 2011), Pushor Mitchell LLP (blogue), en ligne : <www.pushormitchell.com/2011/02/tax-disputes-canada-revenue-agency-cra-burden-proof/>.
+[13] William Innes et Hemamalini Moorthy, « Onus of Proof and Ministerial Assumptions: The Role and Evolution of Burden of Proof in Income Tax Appeals » (1998) 46:6 Can. Tax J. 1187, à la page 1208.
+[14] Transcription, page 60.
+[15] Réponse à l’avis d’appel, paragraphe 11.
+[16] Pièce A‑1, onglet 14, page 11.
+[17] Ibid., page 117.
+[18] Ibid., page 11; voir aussi la réponse à l’avis d’appel, paragraphe 3.
+[19] Pièce A‑1, onglet 14, page 11.
+[20] Ibid., page 145.
+[21] Ibid., page 17.
+[22] Ibid., page 22.
+[23] Ibid., page 118.
+[24] Pièce A-1, onglet 24, page 41.
+[25] Pièce A-1, onglet 14, page 16.
+[26] Ibid.
+[27] Ibid., pages 143 et 144.
+[28] Ibid., pages 119 à 137.
+[29] Transcription, pages 84, 85, 87, 88 et 90.
+[30] Hickman Motors, précité, paragraphe 93.

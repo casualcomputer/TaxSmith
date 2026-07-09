@@ -1,0 +1,157 @@
+Title: Dundurn Street Loffts Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29119/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-122-29119-dundurn-street-loffts-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-02-25
+
+# Dundurn Street Loffts Inc. c. La Reine
+
+- Citation: 2009 CCI 122
+- Decision date: 2009-02-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6648, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dundurn Street Loffts Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-02-25
+Référence neutre
+2009 CCI 122
+Numéro de dossier
+2005-2906(GST)G
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossiers : 2005-2906(GST)G
+2005-2908(GST)G
+ENTRE :
+DUNDURN STREET LOFFTS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+ET ENTRE :
+ALEXANDER STREET LOFTS
+DEVELOPMENT CORPORATION INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue le 11 février 2009, à Hamilton (Ontario).
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Représentant des appelantes :
+M. Adam Stelmaszynski
+Avocat de l’intimée :
+Me Gatien Fournier
+____________________________________________________________________
+ORDONNANCE
+Les appelantes ayant présenté une demande en vue d’obtenir :
+a) Une ordonnance interprétant les dispositions pertinentes des articles 285, des paragraphes 285(1) et 285(16), des alinéas 327(1)d), 327(2)a) et 327(2)b), des paragraphes 327(3) et 327(4), et des articles 330 et 331 de la Loi sur la taxe d’accise, partie IX, dans une poursuite par voie de mise en accusation;
+b) Une ordonnance enjoignant à Service correctionnel Canada de délivrer des permis de déplacement afin de permettre au dirigeant et administrateur de l’appelante, M. Stelmaszynski, de se rendre à Brandford, à Welland, à St. Catharines et à Toronto pour interroger des témoins, obtenir des documents et préparer d’une façon appropriée la défense des appelantes conformément à l’ordonnance rendue par la juge Valerie Miller au mois d’octobre 2008;
+c) Une détermination des présumées erreurs manifestes et dominantes, le cas échéant, qui ont été commises dans le cadre de l’action;
+d) Une ordonnance annulant au complet le montant mentionné dans les avis de nouvelle cotisation ou, subsidiairement, une ordonnance renvoyant les avis de nouvelle cotisation à l’ARC pour nouvelle détermination des montants exacts;
+La Cour ordonne :
+1) la demande est rejetée;
+2) les interrogatoires préalables devront avoir lieu le 1er juin 2009 au plus tard;
+3) les engagements qui ont été pris au cours des interrogatoires préalables devront être exécutés au plus tard le 31 juillet 2009;
+4) les parties communiqueront par écrit avec le coordonnateur des audiences au plus tard le 31 août 2009 en vue de faire savoir à la Cour si l’affaire sera réglée, s’il est opportun de tenir une conférence préparatoire ou s’il faut fixer la date de l’audience. Dans ce dernier cas, les parties pourront présenter une demande commune en vue de faire fixer la date, l’heure et le lieu de l’audience conformément à l’article 123 des Règles de la Cour canadienne de l’impôt (procédure générale);
+5) les parties supporteront leurs propres frais à l’égard de la présente demande.
+Signé à Toronto, Canada, ce 25e jour de février 2009.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 14e jour d’avril 2009.
+Hélène Tremblay, traductrice
+Référence : 2009CCI122
+Date : 20090225
+Dossiers : 2005-2906(GST)G
+2005-2908(GST)G
+ENTRE :
+DUNDURN STREET LOFFTS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+ET ENTRE :
+ALEXANDER STREET LOFTS
+DEVELOPMENT CORPORATION INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+La juge Woods
+[1] Dundurn Street Loffts Inc. et Alexander Street Lofts Development Inc. ont demandé à la Cour :
+a) Une ordonnance interprétant les dispositions pertinentes des articles 285, des paragraphes 285(1) et 285(16), des alinéas 327(1)d), 327(2)a) et 327(2)b), des paragraphes 327(3) et 327(4), et des articles 330 et 331 de la Loi sur la taxe d’accise, partie IX, dans une poursuite par voie de mise en accusation;
+b) Une ordonnance enjoignant à Service correctionnel Canada de délivrer des permis de déplacement afin de permettre au dirigeant et administrateur de l’appelante, M. Stelmaszynski, de se rendre à Brandford, à Welland, à St. Catharines et à Toronto pour interroger des témoins, obtenir des documents et préparer d’une façon appropriée la défense des appelantes conformément à l’ordonnance rendue par la juge Valerie Miller au mois d’octobre 2008;
+c) Une détermination des présumées erreurs manifestes et dominantes, le cas échéant, qui ont été commises dans le cadre de l’action;
+d) Une ordonnance annulant au complet le montant mentionné dans les avis de nouvelle cotisation ou, subsidiairement, une ordonnance renvoyant les avis de nouvelle cotisation à l’ARC pour nouvelle détermination des montants exacts;
+[2] En 2005, les appelantes ont interjeté appel devant la Cour à l’égard de cotisations établies en vertu de la Loi sur la taxe d’accise. Les cotisations, qui ont été établies le 7 décembre 2000, se rapportaient essentiellement à des demandes de remboursement de la TPS qui, selon le ministre, n’étaient pas légitimes.
+[3] Une semaine après que les cotisations eurent été établies, des poursuites criminelles ont été engagées contre les appelantes et contre leur actionnaire, Adam Stelmaszynski, à l’égard des demandes de remboursements susmentionnées.
+[4] La Cour supérieure de justice de l’Ontario a finalement prononcé une déclaration de culpabilité à l’égard des trois parties en cause. M. Stelmaszynski a été condamné à 30 mois de prison et s’est vu imposer une amende de 702 646 $, ce montant correspondant aux remboursements versés aux appelantes.
+[5] La déclaration de culpabilité prononcée contre M. Stelmaszynski et la peine qui lui a été imposée ont été confirmées par la Cour d’appel de l’Ontario, et l’autorisation de se pourvoir en appel devant la Cour suprême du Canada a été refusée.
+[6] En Cour d’appel, le juge Doherty a dit qu’il avait été reconnu, au procès, qu’il n’existait aucune possibilité réaliste que M. Stelmaszynski puisse payer l’amende (R. v. Alexander Street Lofts Development Corporation Inc., 2007 ONCA 309, paragraphe 32).
+[7] Les appels interjetés devant la présente cour ont été suspendus conformément au paragraphe 327(4) de la Loi sur la taxe d’accise en attendant que la Cour suprême du Canada rende une décision au sujet de la demande d’autorisation d’en appeler. Les appels ont repris au début de l’année 2008.
+[8] La documentation que les appelantes ont déposée dans la présente demande comporte plus de 100 pages. Dans cette documentation, on demande à la Cour de rendre un grand nombre de décisions.
+[9] Certaines des décisions demandées n’ont rien à voir avec les appels interjetés devant la Cour, mais elles se rapportent uniquement aux procédures criminelles.
+[10] La Cour n’a pas compétence pour rendre ces décisions et, cela étant, il ne convient pas pour la Cour de faire des remarques à leur sujet.
+[11] À l’audience, M. Stelmaszynski a soutenu que la Cour avait compétence parce qu’elle était autorisée à interpréter la Loi sur la taxe d’accise.
+[12] La compétence conférée à la Cour canadienne de l’impôt n’est pas aussi étendue. En général, la compétence de la Cour est limitée aux décisions se rapportant à des cotisations.
+[13] Certaines dispositions légales pertinentes sont reproduites ci‑dessous :
+Loi sur la Cour canadienne de l’impôt
+12. (1) La Cour a compétence exclusive pour entendre les renvois et les appels portés devant elle sur les questions découlant de l’application de la Loi sur le droit pour la sécurité des passagers du transport aérien, du Régime des pensions du Canada, de la Loi sur l’exportation et l’importation de biens culturels, de la partie V.1 de la Loi sur les douanes, de la Loi sur l’assurance‑emploi, de la Loi de 2001 sur l’accise, de la partie IX de la Loi sur la taxe d’accise, de la Loi de l’impôt sur le revenu, de la Loi sur la sécurité de la vieillesse, de la Loi de l’impôt sur les revenus pétroliers et de la Loi de 2006 sur les droits d’exportation de produits de bois d’œuvre, dans la mesure où ces lois prévoient un droit de renvoi ou d’appel devant elle.
+[Non souligné dans l’original.]
+Loi sur la taxe d’accise
+309. (1) Règlement d’appel – La Cour canadienne de l’impôt peut statuer sur un appel concernant une cotisation en le rejetant ou en l’accueillant. Dans ce dernier cas, elle peut annuler la cotisation ou la renvoyer au ministre pour nouvel examen et nouvelle cotisation.
+[14] La Cour, lorsqu’elle entend des appels de cotisations en vertu de la Loi sur la taxe d’accise, interprète régulièrement les dispositions de la Loi afin de décider si les cotisations sont exactes. En général, la Cour n’a pas compétence pour interpréter la Loi sur la taxe d’accise en dehors de ce contexte.
+[15] La demande, telle qu’elle s’applique aux décisions se rapportant uniquement aux procédures criminelles, doit donc être rejetée.
+[16] Certaines autres décisions qui ont été demandées semblent se rapporter aux cotisations. Un grand nombre d’entre elles touchent des questions sur lesquelles la Cour pourrait se prononcer avant l’instruction conformément à l’article 58 des Règles.
+[17] Toutefois, à mon avis, il ne serait pas souhaitable de trancher toutes ces questions à ce stade du litige. J’hésite énormément à lier les mains du juge qui entendra l’affaire en rendant des décisions préliminaires au tout début de l’instance. Il serait préférable que ces questions soient examinées par le juge qui entendra les appels au fond.
+[18] J’aimerais faire certaines remarques au sujet d’une des demandes. Les appelantes sollicitent une ordonnance enjoignant à Service correctionnel Canada de délivrer des permis de déplacement à M. Stelmaszynski pour que celui‑ci puisse préparer sa cause. Je crois comprendre qu’à l’heure actuelle, M. Stelmaszynski est en liberté conditionnelle et qu’il est assujetti à des restrictions quant aux déplacements.
+[19] Les appelantes demandent essentiellement à la Cour d’intervenir dans une affaire de nature pénale, de façon qu’il soit plus facile pour leur représentant de préparer leurs appels. À mon avis, il ne convient pas de le faire. En outre, même s’il convenait de le faire, je ne dispose pas d’un nombre suffisant d’éléments de preuve pour être en mesure de conclure qu’il faut délivrer des permis de déplacement afin de permettre à M. Stelmaszynski de préparer la cause.
+[20] Compte tenu de ces conclusions, la demande sera rejetée au complet.
+[21] Enfin, j’aimerais faire remarquer que les présents appels durent depuis fort longtemps. Il est donc souhaitable pour tous les intéressés que le litige avance de la façon la plus efficace possible.
+[22] Pour faciliter ce processus, j’inclurai dans l’ordonnance accompagnant les présents motifs des dates limites pour les mesures préalables qu’il reste à prendre.
+[23] Quant aux dépens relatifs à la présente demande, j’ai tenu compte des observations que les parties ont présentées à l’audience et j’ai conclu que les parties doivent supporter leurs propres frais.
+Signé à Toronto, Canada, ce 25e jour de février 2009.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 14e jour d’avril 2009.
+Hélène Tremblay, traductrice
+RÉFÉRENCE : 2009 CCI 122
+Nos DES DOSSIERS DE LA COUR : 2005-2906(GST)G
+2005-2908(GST)G
+INTITULÉS : Dundurn Street Loffts Inc. c.
+Sa Majesté la Reine
+et
+Alexander Street Lofts Development Corporation Inc. c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Hamilton (Ontario)
+DATE DE L’AUDIENCE : Le 11 février 2009
+MOTIFS DE L’ORDONNANCE : L’honorable juge J. Woods
+DATE DE L’ORDONNANCE : Le 25 février 2009
+COMPARUTIONS :
+Représentant des appelantes :
+M. Adam Stelmaszynski
+Avocat de l’intimée :
+Me Gatien Fournier
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelantes :
+Nom: s/o
+Cabinet :
+Pour l’intimée: John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

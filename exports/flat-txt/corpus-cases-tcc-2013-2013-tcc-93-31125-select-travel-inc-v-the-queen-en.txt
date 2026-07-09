@@ -1,0 +1,162 @@
+Title: Select Travel Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31125/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-93-31125-select-travel-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2013-03-28
+
+# Select Travel Inc. v. The Queen
+
+- Citation: 2013 TCC 93
+- Decision date: 2013-03-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4774, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Select Travel Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-03-28
+Neutral citation
+2013 TCC 93
+File numbers
+2012-1623(IT)I
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-1623(IT)I
+BETWEEN:
+SELECT TRAVEL INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2012-1614(IT)I
+AND BETWEEN:
+TRAVELSPHERE INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard together on January 29, 2013, at Toronto, Ontario
+Before: The Honourable Mr. Justice Randall Bocock
+Appearances:
+Agent for the Appellants:
+Harold Coombs
+Counsel for the Respondent:
+Christian Cheong
+____________________________________________________________________
+JUDGMENT
+With respect to Select Travel Inc., the appeal from the reassessments made under the Income Tax Act (“Act”) for the 2004 and 2008 taxation years is hereby dismissed, save and except for the finding that Joan Coombs was an employee of Select Travel Inc. for the 2004 taxation year and, accordingly, the matter is referred back to the Minister of National Revenue for applicable reconsideration and reassessment.
+With respect to Travelsphere Inc., the appeal from the reassessments made under the Act for the 2002 and 2003 taxation years is hereby dismissed.
+There shall be no order as to costs.
+Signed at Ottawa, Canada, this 28th day of March 2013.
+“R.S. Bocock”
+Bocock J.
+Citation: 2013 TCC 93
+Date: 20130328
+Docket: 2012-1623(IT)I
+BETWEEN:
+SELECT TRAVEL INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2012-1614(IT)I
+AND BETWEEN:
+TRAVELSPHERE INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bocock J.
+[1] These two appeals brought under the Tax Court of Canada Rules (Informal Procedure) became highly procedural owing to certain preliminary matters raised by the Appellants’ agent. The Appellant’s agent was Mr. Harold Coombs (“Mr. Coombs”), an officer and director of both Appellants.
+I. Introduction
+[2] The two appeals effectively consisted of a day of hearing and were largely concerned with three preliminary issues, namely: the Respondent’s motion to quash the Appellant’s Notice of Intent to call an adverse party as witness; a very brief motion by the Appellants to adjourn the hearing in order to amend their pleadings; and, lastly, a motion by the Appellants to amend Notices of Appeal at the Hearing. Any transcript of the proceeding will reveal that the relative time spent by the Court in hearing the substance of the Appellants’ appeals is comparatively short when contrasted with the time spent by the Appellants, and concordantly the Respondent, in replying to the Appellants’ first two preliminary matters and lastly, the Appellants’ requests to amend Notices of Appeal to include a breach of both Appellants’ Charter rights under section 8 of the Canadian Charter of Rights and Freedoms, Part I of the Constitution Act, 1982, Schedule B to the Canada Act 1982 (U.K.), 1982, c.11 (“Charter”).
+II. Preliminary Motions
+[3] For this reason, any Reasons for Judgment which do not appropriately address the preliminary motions in these appeals would not accurately reflect the Hearing before the Court.
+[4] Additional materials (although not necessarily relevant nor properly produced at the Hearing by the Appellants) were, with the consent of the Respondent, received and considered by the Court subsequent to the Hearing. These documents consisted of letters written by the Appellants’ agent to the Canada Revenue Agency (“CRA”), the then Minister of National Revenue (“Minister”), a list of inventory of documents seized pursuant to a search warrant (referenced herein), the copy of the actual search warrant seizing the documents and, lastly, two applications of the CRA pursuant to subsection 490(3) of the Criminal Code, R.S.C., 1985, c.C-46 for “the further detention of things seized under warrants issued pursuant to section 487 of the Criminal Code”.
+a) Appellants’ Motion to Quash Notice of Intent to Call Adverse Witness
+[5] At the outset of the proceedings, the Respondent, pursuant to materials filed in advance of the Hearing, sought to quash the Appellants’ Notices of Intent to call an adverse party as witness. The Appellants sought to call one Ms. Danis of the CRA as a witness. The Affidavit evidence of the Respondent before the Court was provided by Ms. Lynn Watson who was the CRA investigator and party in charge of seizing and retaining the appropriate records related to the reassessments in issue and the primary investigator in relation to the assessments as well.
+[6] Pursuant to the Affidavit, Ms. Danis’ involvement related to the final approval of the reports generated by Ms. Watson in pursuance of Ms. Watson’s investigation of the appeals before the Court. Ms. Watson indicated pursuant to her knowledge and based on advice from Ms. Danis that Ms. Danis had no personal knowledge relating to the reassessment of Travelsphere Inc. (“Travelsphere”) or Select Travel Inc. (“Select”).
+[7] In argument, the Respondent indicated that Ms. Deborah Danis had no additional relevant or significant testimony to offer on the appeals before the Court and, accordingly, should not be compelled to testify. Respondent’s counsel indicated that there were originally three Notices of Intent to Call an Adverse Party as witness. The Respondent made available two of the three witnesses as requested. The Respondent took the view that given the issues before the Court one of the two witnesses would testify as an adverse witness on issues which were likely not be necessarily significant nor relevant. Nonetheless, that witness was made available and the Notice of Intent to Call that Adverse Party as witness was not challenged.
+[8] As to the test of whether the testimony of the contested Adverse Party was relevant and significant, Appellants’ agent asserted that all evidence is relevant. Further Mr. Coombs stated that he had difficulty in determining whether any of the evidence to be given by the contested adverse witness would be material. In fact, Mr. Coombs indicated that it would be difficult for him to say exactly what evidence the witness in question would have. Therefore, the test was simply for him to ascertain that there was evidence and subsection 146(1) of the Tax Court of Canada Rules (General Procedure) would provide authority and direction to the Court to compel the witness to attend on the basis that it was within the Appellants’ procedural and legal rights to do so. Further, in the absence of enforcing that Rule, the Court would lack jurisdiction to render judgment and, therefore, should adjourn the Hearing or undertake some other action that was just. The Appellants’ agent asserted that he did not necessarily know what form that just outcome would take.
+[9] As documentary evidence of the relevance of the Adverse Witness testimony, the Appellants’ agent attempted to introduce a single copy of a letter from one, Mr. Traer, of the CRA. Mr. Traer was not present in the Court nor available to testify since he was retired from the CRA and out of the country during the Hearing. Notwithstanding that, Mr. Coombs did not have a copy of this letter for the Court. During an adjournment, a copy of the letter was made and the Court examined it. After considering the motion of the Respondent to quash the Notice to call an Adverse Witness, the Court granted it on the basis that the assertions of the Appellants lacked any indication that the adverse witness in question had little, if any, knowledge of the evidence relevant to the issues before the Court. The Court observed that the only evidence before the Court regarding the issuance of the subpoena for Ms. Danis was the Affidavit of Ms. Watson and the letter produced by Mr. Coombs from Mr. Traer. The Affidavit of Ms. Watson clearly indicated that Ms. Danis had no material or significant knowledge in relation to the matters before the Court and that Ms. Watson was the witness with the best and accurate evidence with respect to the matters. Similarly, the letter of Mr. Traer revealed, by its very contents, that it directed the Appellants to raise any queries with Ms. Watson (the very person whom the Respondent indicated had the specific relevant knowledge). It was noted by the Court that Ms. Watson was the primary witness produced by the Respondent for the purposes of allowing Mr. Coombs to conduct an examination of her as an adverse party.
+[10] In granting the motion to quash, the Court did note that if during the Hearing it became obvious that witnesses testifying were to indicate that some material evidence was within the knowledge of Ms. Danis or Mr. Traer, then the Court would grant an adjournment and issue a subpoena for one or both of those parties to come forth and give evidence as a witness at any subsequent reconvening of the Hearing. The issue of costs in respect of that motion was reserved during the Hearing. It is dealt with at the conclusion of this judgment.
+b) Appellants’ Motion for Adjournment
+[11] Having received the judgment of the Court in respect of granting the motion to quash, the Appellants requested an adjournment of the Hearing in order to amend their pleadings. Mr. Coombs, upon query by the Court as to what amendments to the pleadings might be made, was bemused and requested clarification as to whether he need indicate to the Court what the amendments to his pleadings might be. The Court advised that, in the absence of providing the Court with an indication as what the nature of any amendments might be, the Hearing would proceed without them. Mr. Coombs indicated with certainty that the Court generally grants adjournments right up to the date of the Hearing and even during Hearing. It was on this basis that he was making the request.
+c) Appellant’s Motion to Amend Pleadings at Hearing
+[12] After providing Mr. Coombs with assurance that he was incorrect on his general impression regarding the granting of adjournments by the Tax Court on the day of Hearing, Mr. Coombs then indicated that he wished to bring a motion to amend the Appellants’ pleadings at the Hearing by adding to both Notices of Appeal the following basis for appeal:
+The Respondent has violated the rights of both Appellants in respect of Section 8 of the Charter and placed the Appellants at a disadvantage.
+[13] The basis of the Appellant’s motion was that the search warrant under which documents were seized at the Appellant’s business premises was not complied with. The non-compliance of that warrant arose as a result of unnamed persons in the warrant being present at the business premises and having assisted in the execution of the search warrant issued under section 487 of the Criminal Code. The Appellant argued that the lead investigator, Ms. Watson, and the CRA by implication, violated the Criminal Code and, presumably the Charter, by allowing unnamed employees to participate in executing the search warrant. No submission was made by Mr. Coombs that, during the course of the execution of the search warrant, no one named in the search warrant was present on the premises at all times. It was solely the presence of unnamed assistants that created the violation.
+[14] The Respondent’s argument in respect of this particular amendment had three grounds. The first was that the Appellants or related parties had been before the Court previously and ought to have amended their pleadings prior to the day of the Hearing. Secondly, since the pleading of any violation of any Charter right required Notice to the Attorney General of Canada and the relevant Attorneys General of the provinces, it was not possible to provide such notice and hear the matter on the day of hearing. Lastly, the Respondent asserted that in any event, apart from the procedural issues, there was case law before the Court which indicated that the utilization of other employees of an agency to assist in the execution of a search warrant did not invalidate the warrant nor violate the Charter. Accordingly, there was no likelihood at law that the Charter challenge would succeed.
+[15] Aside from other case law cited by the Respondent, a case involving Mr. Coombs himself, was placed before the Court, namely, the case of Coombs et al. v. The Queen, 2008 TCC 289, 2008 DTC 4004. In that case, the Tax Court of Canada determined that there was no violation of the Charter by the utilization of assistants to conduct the actual search. Similarly, the Respondent argued that the case of R. v. Strachan, [1988] 2 S.C.R. 980 held that a search warrant obtained under section 10 of the Narcotic Control Act, R.S.C. 1985, c. N-1, as rep. by Controlled Drugs & Substances Act, S.C. 1996, c. 19 (“Narcotic Control Act”) was also not invalid as a result of the utilization of assistants not otherwise named in the warrant to provide support during the execution of a search warrant.
+[16] The Respondent concluded by indicating that apart from the procedural issues related to the Appellants’ request to amend at this stage in the Hearing, there was no bona fide Charter issue to be heard before the Court and therefore the motion to amend should be dismissed.
+[17] In reply, Mr. Coombs indicated that the Court should distinguish Strachan on the basis that it related to the section 10 of the Narcotic Control Act and not the Criminal Code. Similarly, Mr. Coombs did not address the issue of his own case previously before the Court.
+[18] In deciding this procedural matter, the Court considered the arguments of the parties and indicated its strong inclination that the request for the amendment to insert the section 8 Charter violation arose primarily due to the negligence of the Appellants’ agent in preparing his Notice of Appeal. This was admitted by Mr. Coombs and was noted by the Court since the Appellants and agent had not only been before the Court previously in a related appeal, but litigated this very issue (presumably with the proper notice having been given). This highlighted the prior knowledge of the Appellants to include these grounds in these appeals; not simply at the time of filing their Notices of Appeal, but at any moment up to and including the conclusion of the hearing of the first preliminary matter at Hearing. In these matters, the Appellants had utterly failed to do so.
+[19] Quite apart from the merits of the Charter argument, Mr. Coombs well knew of these rights and the opportunity to raise same, in order to have done so prior to the date of Hearing. Substantively, this issue had been litigated before this very Court, and by analogy before the Supreme Court of Canada. It has been held that assistance provided by other employees of an agency in the execution of a search warrant does not per se violate the Charter of Rights of a citizen or, in this case, a corporation. On the basis of the lack of timely request for amendment and the clear authority established by the Supreme Court of Canada, the motion to amend the pleadings was denied.
+III. Appeal Proper
+a) Select Travel
+[20] The nature of the appeal regarding Select relates to payroll remittances. The Minister assessed Select:
+(a) in the amount of $4,291.68 in respect of unremitted source deductions for the 2004 taxation year; and
+(b) the amount of $515.71 in respect of unremitted source deductions in respect of the 2008 taxation year.
+[21] In addition the Minister assessed penalties in respect of 2004 and 2005 in respect of the Appellant’s failure to remit the 2004 source deductions as and when required (the “Penalties”).
+[22] The factual background of the assessment by the Minister was that the T4 summary in respect of the 2004 taxation year included employment remittances in respect of a Mr. John Coombs, but failed to include amounts in respect of a Mrs. Joan Coombs (spouse of Harold Coombs). The 2008 assessment appears to have related to a simple mathematical error in the calculation and remittance of source deductions.
+b) Travelsphere
+[23] In respect of Travelsphere, the assertions of the Minister regarding the reassessments were as follows:
+a) the denial of a non capital loss in the 2003 taxation year in the amount of $10,425.00 (the “Non Capital Loss Disallowance”);
+b) the disallowance of salary expenses in 2003 in the amount of $20,373.00 (the “Salary Expense Disallowance”);
+c) that as a result of subsection 152(4) of the Income Tax Act (“Act”), the Minister was allowed to assess outside the normal reassessment period; and
+d) the imposition of penalties under subsection 163(2) of the Act.
+c) Evidence Generally
+i) Select Travel
+[24] Notwithstanding the ruling of the Court on the preliminary issue of the corporation’s Charter rights regarding the execution of the search warrant and the parties present, the bulk of Mr. Coombs’ examination of adverse witnesses centered on whether or not all CRA employees taking part were specifically named in the search warrant. As well, there was a bald assertion by Mr. Coombs that documents which had been seized had been lost or not returned to him. During the course of the Hearing, it became clear that many of these documents were not returned because Mr. Coombs, himself, refused to take redelivery.
+[25] With respect to the evidence of the issues in question, Ms. Watson credibly led the Court through the various documentary evidence seized by the CRA both at the residence of Mr. Coombs (in respect of which it should be noted that no Charter right violation was claimed) and the business premises of Select and Travelsphere.
+[26] Specifically, Ms. Watson led the Court through an examination of a copy of a T4 summary and accompanying T4s issued to employees Select and corresponding general entries and summaries of payroll for the year ending December 31, 2004. Select was the Appellant, as between the two, which operated payroll services for employees of both Appellants. There were also copies of cheques processed and paid from Select to Joan Coombs and a copy of a print out of T4 information from that same alleged employee. In addition, the CRA conducted a payroll audit of the payroll for Select and prepared a calculation of payroll remittances for Select Travel arising therefrom. This included a reconciliation of both the T4 income prepared by Select for John Coombs and its readjustment and inclusion of the T4 information for Joan Coombs.
+[27] The uncontroverted evidence before the Court in respect of these particular documents was that John Coombs, a relative of the principal Mr. Coombs, provided no service to either Appellant. Neither the CRA payroll and investigative audit nor the records of either Appellant indicated that any service, usual or otherwise, was provided to the Appellants by John Coombs. In addition, Mr. Coombs provided no documentary or viva voce evidence to rebut the assumptions or suggest otherwise. On the other hand, it was clear that Joan Coombs was likely an employee of Select and/or Travelsphere and certainly, herself, based upon documentary evidence before the Court undertook all steps to report such income and otherwise pay taxes thereon in her personal tax returns.
+[28] Accordingly, given the absence of any evidence provided by the Appellant in respect of the payroll audit and the issues concerning payroll, the Court easily concluded that the readjustments made by the Minister to allow the inclusion of deductions paid in respect of Joan Coombs and appropriate readjustment made to discard the business expense or salary paid to John Coombs were completely reasonable and accurate. The Minister, in reassessing on this basis, will be required to determine the proper calculation of the net source deductions due. Similarly, no evidence was tendered by the Appellant regarding the calculation of the 2008 reassessment.
+ii) Travelsphere
+[29] With respect to the Travelsphere Non Capital Loss Allowance, and the Salary Expense Disallowance, the evidence provided at trial included an unaudited statement of operations and deficit for Travelsphere prepared by Travelsphere’s accountants for the year ended December 31, 2004, a reconstructed copy of the T2 tax returns and the journal entries concerning the reallocation of various expenses between the Appellants.
+a) Non Capital Loss Disallowance
+[30] In respect of the Non Capital Loss Disallowance there was no evidence produced by the Appellant, Travelsphere, as to what event or occurrence gave rise to the claimed capital loss of $10,425.00. It was also clear based upon evidence provided to the Court that Mr. Coombs had a general aversion to paying tax which would otherwise occur in any given year. This was clearly indicated from a memorandum dated November 24, 2004 from “Harold” to other employees regarding Select’s corporate income taxes. In such memorandum, Mr. Coombs indicated corporate taxes for Select had been paid in the amount of $2,992.97 and his lack of “thrill” in paying this money. He further indicated that his completion of the 2003 tax return for Select would provide that he would obtain the whole $2,992.97 back from “CRA”.
+b) Salary Expense Disallowance
+[31] Testimony for the Respondent regarding the Salary Expense Disallowance was provided by the CRA investigator and lead auditor, Ms. Watson. Simply put, Ms. Watson testified that the salary and wage expense of Travelsphere was overstated by $29,614.00. The T4’s summaries and financial statements relevant to the Appellant for Tax Year 2003 disclosed a salary expense of $20,373.00 (“Source Document Amount”). The Corporate Tax Return (T-2) included a claimed salary expense of $49,987 (the “Claimed Amount”). The difference between the Source Document Amount and the Claimed Amount, namely, $29,614.00, was the precise amount of the Salary Expense Disallowance.
+[32] Mr. Coombs in response to examination regarding this documentation indicated generically that he could not recall much of the information in respect of the Payroll Issue, the Non Capital Loss Allowance or the Salary Expense Disallowance.
+[33] In argument, the Respondent indicated that the Minister relied upon the amount expended for salary and wages in 2003 as being $20,373.00 (that is the Source Document Amount) as submitted and prepared pursuant to the financial statements prepared by the corporations’ accountants. However, when Travelsphere filed its T-2 income tax return for that same year, it reported the claimed amount of $49,987.00, in expenses for salary and wages. The Appellant had no explanation or documentary evidence to reconcile the salary and wage amount reported in the financial statements as opposed to the number in Travelsphere’s corporate tax return. In the line item “Other Items affecting Retained Earnings” line of the 2004 Travelsphere T-2 Return, an amount of $29,614.00 (being the difference between the accountant reported income on the financial statements (Source Document Amount) and the T2 reported income)(the Claimed Amount) was utilized to reduce net income and reconcile the difference in the subsequent year. The motivation of the Appellant in utilizing this particular line item was to effectively remove the inflated salary expense from the previous tax year in order to reconcile the accounting in Travelsphere’s subsequent tax returns and financial statements. Similarly, with respect to the Non Capital Loss claimed in the amount of $10,425.00 in the 2003 taxation year, this amount was utilized solely for the purposes of generating a refund of 2002 corporate taxes.
+[34] As to credibility, the Court acknowledges that Mr. Coombs admitted that he was the directing mind of Select and Travelsphere, prepared all income tax returns, oversaw the payroll and was otherwise charged with the task of maintaining, preparing and summarizing the books and records of the Appellants. Mr. Coombs is a certified general accountant. Mr. Coombs can remember with precise detail the number of persons named on the search warrant which was executed in 2002. By comparison, Mr. Coombs had difficulty in recalling any detail in relation to the documents which were partially the subject of the seizure under that very same search warrant. The search warrant was prepared by the CRA. The documents Mr. Coombs failed to recall were documents what were largely prepared, reviewed and otherwise executed by Mr. Coombs himself.
+c) and d) Reopening Assessments and Penalties
+[35] Whether the Respondent fraudulently made misrepresentations in respect of the overstatement of business expenses or in the creation of a loss that could be carried back to extinguish tax liability is not required to be determined. What is clear from the evidence led by the Respondent and the weak responses of Mr. Coombs during his own testimony is that Mr. Coombs, as the corporate officer, director and person charged with the preparation of all accounting documents was, at the very least, grossly negligent in his actions in allowing the creation of misrepresentations which otherwise reduced the tax liability of the corporations by the filing of false returns.
+[36] What was particularly genuine in Mr. Coombs’ testimony is the precision and detail with which he could recollect instances where the Minister had possibly not given credit for comparatively small amounts which may have otherwise been remitted by the Appellants or by Mr. Coombs’ spouse. Generally, these pinpoint recollections are so inconsistent with Mr. Coombs’ otherwise overall memory failure that they belie Mr. Coombs’ testimony when he fails to recollect or remember other more critical and substantive details. On this basis, after careful scrutiny of the evidence, it is clear to the Court that the imposition of the Penalties and the rendering of reassessments after what otherwise would have been a statuted barred event are fully and completely justified.
+[37] Accordingly, the appeals are dismissed, save and except to the extent that the Court accepts that Joan Coombs was an employee of Select. Accordingly, that matter will be referred back to the Minister in accordance with these Reasons for Judgment for reconsideration and reassessment, if any.
+[38] As to the issue of costs, since this matter was an informal procedure there shall be no order as to costs against the Appellants.
+Signed at Ottawa, Canada, this 28th day of March 2013.
+“R.S. Bocock”
+Bocock J.
+CITATION: 2013 TCC 93
+COURT FILE NOS.: 2012-1623(IT)I
+2012-1614(IT)I
+STYLE OF CAUSE: SELECT TRAVEL INC. v. HER MAJESTY THE QUEEN AND TRAVELSPHERE INC. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: January 29, 2013
+REASONS FOR JUDGMENT BY: The Honourable Mr. Justice Randall Bocock
+DATE OF JUDGMENT: March 28, 2013
+APPEARANCES:
+Agent for the Appellants:
+Harold Coombs
+Counsel for the Respondent:
+Christian Cheong
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

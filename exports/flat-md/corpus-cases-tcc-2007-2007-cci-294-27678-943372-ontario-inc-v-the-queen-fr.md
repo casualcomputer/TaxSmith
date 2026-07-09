@@ -1,0 +1,385 @@
+---
+title: "943372 Ontario Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27678/index.do"
+last_modified: "2007-06-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 294"
+citation2: ""
+neutral_citation: "2007 CCI 294"
+decision_date: "2007-06-07"
+language: "fr"
+item_id: "27678"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 499
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:36:19.101000+00:00"
+cases_cited_count: 1
+cases_citing_count: 9
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9b209d0a236d5f2bc8f56bb292f9d48859477c84b3258749e83646acccc237b1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 943372 Ontario Inc. v. The Queen
+
+- Citation: 2007 CCI 294
+- Decision date: 2007-06-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 499, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+943372 Ontario Inc. v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-06-07
+Référence neutre
+2007 CCI 294
+Numéro de dossier
+2003-2350(GST)G
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Référence : 2007CCI294
+Date : 20070530
+Dossiers : 2003-2350(GST)G
+2003-3536(IT)G
+ENTRE :
+943372 ONTARIO INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+ET
+2003-3543(IT)G
+ENTRE :
+VALERIE CHANDELLE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+DÉCISION CONCERNANT LA REQUÊTE EN NON‑LIEU
+Le juge en chef Bowman
+[1] Ces appels ont été entendus ensemble. Dans le cas de la société appelante (943372 Ontario Inc.) (« 943 »), les appels découlent de cotisations établies en vertu de la Loi de l’impôt sur le revenu (la « LIR ») pour les années d’imposition 1992 à 1996 ainsi que d’une cotisation établie en vertu des dispositions relatives à la taxe sur les produits et services (la « TPS ») de la Loi sur la taxe d’accise (la « LTA ») pour les périodes allant du 1er juin 1991 au 31 mai 1996. En ce qui concerne l’appelante individuelle, Valerie Chandelle (« Valerie mère »), les appels découlent de cotisations concernant ses années d’imposition 1991 à 1994.
+[2] Il y avait trois groupes de cotisations : les premières cotisations, les nouvelles cotisations, en 2001, et les nouvelles cotisations établies en réponse aux oppositions en 2003.
+[3] Au cours des années en question, la société appelante 943 exploitait une boîte de nuit près de l’aéroport de Toronto. En 2001, 943 a fait l’objet d’une cotisation à l’égard de présumées ventes non déclarées s’élevant à environ 697 000 $. De plus, 943 a fait l’objet d’une cotisation à l’égard de la TPS sur de présumées fournitures taxables non déclarées d’environ 697 000 $. En outre, les crédits de taxe sur les intrants (les « CTI ») ont été refusés. Une opposition ayant été présentée, les CTI ont été accordés et le présumé revenu non déclaré a été ramené à 160 653,65 $, le montant des présumées fournitures taxables étant ramené au même montant, à savoir 160 653,65 $.
+[4] De plus, en ce qui concerne le premier ensemble de nouvelles cotisations (les nouvelles cotisations relatives à l’année 2001), la fille de Valerie mère (« Valerie fille ») a fait l’objet d’une cotisation sur les présumées ventes non déclarées de 697 000 $ de 943, ainsi que sur des paiements faits à Schnier Holdings Limited (« Schnier ») et à Sun Life. En outre, l’appelante Valerie mère a fait l’objet d’une cotisation d’actif net.
+[5] Une opposition ayant été présentée, les cotisations concernant Valerie fille ont été annulées. À la suite d’une opposition, Valerie mère a fait l’objet d’une cotisation sur le montant de 160 653,65 $ se rapportant aux présumées ventes non déclarées de 943 ainsi que sur les paiements que 943 avait faits à Schnier et à Sun Life. La cotisation d’actif net a disparu et a été remplacée par les cotisations expresses de 160 653,65 $ (les présumées ventes non déclarées de 943) et par les montants que 943 avait payés à Schnier et à Sun Life. Les présumés paiements faits à Schnier à l’égard desquels Valerie mère a fait l’objet d’une cotisation, selon l’avis d’appel, s’élevaient à 8 312 $ en 1992, à 30 250 $ en 1993 et à 24 800 $ en 1994. Les présumés paiements faits à Sun Life à l’égard desquels l’appelante a fait l’objet d’une cotisation, selon l’avis d’appel, s’élevaient à 4 425 $ en 1991, à 19 808 $ en 1992, à 16 437 $ en 1993 et à 8 858 $ en 1994. Ces chiffres ne figurent pas dans la réponse à l’avis d’appel et ils ne ressemblent pas du tout aux chiffres soumis en preuve.
+[6] Les appels sont liés les uns aux autres et se rapportent essentiellement aux mêmes montants. Les cotisations relatives à la LIR établies à l’encontre de 943 (dont l’exercice prenait fin le 31 mai pour les années d’imposition 1992 à 1996) étaient basées sur l’hypothèse selon laquelle au cours de ces années, 943 avait un revenu non déclaré tiré de la vente de spiritueux, s’élevant en tout à 160 653,65 $. Ce montant est composé de montants s’élevant à 51 516,92 $, à 51 692,42 $ et à 57 444 $ pour les années 1992, 1993 et 1994 respectivement. Les appels dont la Cour a été saisie se rapportent aux cotisations relatives à l’année 2003 qui ont été établies à la suite des oppositions. En ce qui concerne les cotisations relatives à la TPS établies à l’égard de 943, il a été supposé que les présumées ventes non déclarées étaient également des fournitures taxables non déclarées. De plus, les cotisations relatives à l’année 2003 dont Valerie mère a fait l’objet étaient basées sur l’hypothèse selon laquelle ces montants étaient des avantages imposables en vertu de l’article 246 de la LIR. De plus, Valerie mère a été imposée à l’égard de certains autres paiements que 943 aurait censément faits pour son compte à des tiers.
+[7] Il est admis que toutes les nouvelles cotisations relatives à l’année 2001 dont 943 et Valerie mère ont fait l’objet ont été établies en dehors de la période normale de nouvelle cotisation. Par conséquent, il incombait à l’intimée d’établir qu’il y avait eu présentation erronée des faits autorisant les cotisations par ailleurs prescrites. Si les nouvelles cotisations relatives à l’année 2001 par ailleurs prescrites ne peuvent pas être justifiées en vertu des paragraphes 152(4) et (4.01), les nouvelles cotisations relatives à l’année 2003 établies en réponse aux avis d’opposition doivent également être rejetées, et ce, pour une raison bien évidente : supposons qu’une cotisation prescrite soit établie et que le contribuable présente une opposition pour le motif que la cotisation est prescrite. Le ministre du Revenu national pourrait‑il remédier au défaut en établissant une nouvelle cotisation en réponse à l’opposition en vertu du paragraphe 165(3) et se fonder sur le paragraphe 165(5)? La réponse est en soi évidente.
+[8] Après que l’affaire eut été plaidée, j’ai posé deux questions aux avocats. Ces questions sont énoncées dans la lettre de Me Vita du 16 avril 2007 ainsi que dans la réponse que celui‑ci a donnée :
+[traduction]
+Nous écrivons à la Cour à la suite de la conférence téléphonique qui a été tenue avec le juge en chef Bowman le 27 mars 2007.
+Au cours de cette conférence, le juge en chef Bowman a posé deux questions aux avocats et a demandé à ceux‑ci de répondre à ces questions le plus tôt possible. Il s’agit des questions suivantes :
+1. Une nouvelle cotisation établie conformément au paragraphe 165(3) de la Loi de l’impôt sur le revenu (la « Loi ») a‑t‑elle pour effet de remédier à une nouvelle cotisation antérieure qui est prescrite?
+2. Si l’appel est accueilli et si la nouvelle cotisation relative à l’année 2003 est annulée pour le motif qu’il n’y a pas eu présentation erronée des faits, qu’en est‑il de la première nouvelle cotisation?
+Nous avons examiné les deux questions et les réponses de l’intimée sont les suivantes :
+1. La nouvelle cotisation établie conformément au paragraphe 165(3) de la Loi, malgré les dispositions du paragraphe 165(5), n’a pas pour effet de remédier au fait que la nouvelle cotisation relative à l’année 2001 se rapportait à une année prescrite (voir Anchor Pointe Energy Ltd. v. R., 2003 DTC 5512, paragraphes 33 à 35).
+2. Si l’appel de la nouvelle cotisation relative à l’année 2003 est accueilli pour le motif que l’intimée n’a pas réussi à convaincre la Cour que l’appelante avait fait une présentation erronée des faits au sujet du revenu gagné, la nouvelle cotisation relative à l’année 2001 qui a également été établie à l’égard d’une année prescrite n’est plus valide et n’a plus force obligatoire (voir Lomport Investments Ltd. v. R., 92 DTC 6231, paragraphe 7). Toutefois, afin d’éviter toute confusion, la Cour peut exercer sa compétence conformément à l’alinéa 171(1)b) de la Loi et déférer au ministre la nouvelle cotisation relative à l’année 2003 pour nouvel examen et nouvelle cotisation conformément à la cotisation.
+[9] La position prise par Me Kutkevicius est essentiellement la même. Je souscris à la position prise par les deux avocats. Si une nouvelle cotisation est prescrite et ne peut pas être justifiée en vertu du paragraphe 152(4), une nouvelle cotisation établie en vertu du paragraphe 165(3) en réponse à une opposition n’a pas pour effet de remédier au défaut, pour ce qui est de l’expiration du délai, en raison du paragraphe 165(5). Si les nouvelles cotisations relatives à l’année 2001 ne peuvent pas être maintenues, les nouvelles cotisations relatives à l’année 2003 doivent également être rejetées. Si les nouvelles cotisations relatives à l’année 2003 sont annulées, les cotisations relatives à l’année 2001 ne sont peut‑être pas touchées. La solution proposée par les avocats, à savoir accueillir les appels et déférer l’affaire au ministre, s’impose.
+[10] La preuve présentée par la Couronne à l’encontre de Valerie mère pose un autre problème qui est selon moi plutôt troublant. Les cotisations relatives à l’année 2001 établies contre Valerie mère sont prescrites et peuvent uniquement être préservées si les conditions prévues aux paragraphes 152(4) et 152(4.01) sont réunies. Les cotisations relatives à l’année 2001 dont Valerie mère a fait l’objet sont fondées sur l’actif net. Il s’agit de cotisations arbitraires qui ne sont pas expressément basées sur une source particulière de revenu. Comment une cotisation d’actif net peut‑elle satisfaire aux conditions énoncées au paragraphe 152(4.01)? Pour être conforme aux dispositions du paragraphe 152(4.01), une nouvelle cotisation établie en vertu du paragraphe 152(4) doit respecter les restrictions énoncées au paragraphe 152(4.01) dans lequel figurent les mots suivants : « [...] dans la mesure où il est raisonnable de considérer qu’elle [la nouvelle cotisation] se rapporte à une présentation erronée des faits [...] effectuée par négligence, inattention ou omission volontaire ou attribuable à quelque fraude [...] ». Ce point n’a pas été débattu et je n’exprime aucune conclusion à ce sujet.
+[11] Étant donné que la Couronne a la charge initiale de justifier les cotisations prescrites et les pénalités, l’avocat de l’intimée a ouvert les débats et a cité Valerie mère, Mme Teresa Chui, vérificatrice à l’Agence du revenu du Canada (l’« ARC »), et David Clive Evans, vérificateur de la TPS qui a pris en charge la vérification de la TPS d’un autre vérificateur de la TPS à l’ARC, John Adams, ainsi que Bruce Riddiford, agent principal des appels à l’ARC, qui s’est occupé des oppositions présentées par les contribuables.
+[12] La Couronne ayant présenté sa preuve, Me Kutkevicius a demandé que les appels soient accueillis avec dépens et que les cotisations concernant les impôts, les intérêts et les pénalités soient annulées pour le motif que la Couronne n’avait pas soumis de preuve susceptible d’être réfutée par les appelantes. Ce type de requête est habituellement désigné sous le nom de requête en non‑lieu. Dans la décision 410812 Ontario Limited v. The Queen, [2002] G.S.T.C. 40, j’ai énoncé certaines lignes directrices au sujet du non‑lieu. Il peut être utile de les reprendre dans le contexte d’un appel en matière d’impôt sur le revenu. Ces lignes directrices n’ont pas force obligatoire, mais elles représentent un consensus parmi les juges de la présente cour. Il s’agit des lignes directrices suivantes :
+[32] Notre cour est de plus en plus souvent saisie de requêtes en non-lieu. Les juges de la Cour ont convenu de la procédure applicable aux non-lieux (dans la mesure où l’on peut dire que vingt-deux juges sont capables d’en arriver à un consensus sur quoi que ce soit), et je crois qu’il pourrait être utile que j’expose les lignes directrices que j’ai élaborées et distribuées aux juges de la Cour. Elles n’ont naturellement pas de force obligatoire, mais elles témoignent d’un effort de formuler la procédure en matière de non-lieu devant notre cour dans un libellé relativement compréhensible et organisé. Dans l’élaboration des lignes directrices, j’ai consulté quatre sources :
+1. The Law of Evidence in Canada, 2e édition, Sopinka, Lederman et Bryant.
+2. The Trial of An Action, 2e édition, Sopinka, Houston et Sopinka.
+3. Cross and Tapper on Evidence, 9e édition.
+4.
+Phipson on Evidence, 14e édition.
+[33] Plusieurs observations préliminaires s’imposent.
+(a)
+Le droit applicable aux non-lieux semble être en évolution.
+(b)
+Dans la mesure où nous pouvons tirer profit de l’expérience ou des pratiques d’autres tribunaux, ce doit être en matière d’instances civiles sans jury.
+(c)
+La procédure applicable doit convenir à cette cour. Ce qui pourrait convenir, par exemple, dans une action matrimoniale ou une action en diffamation sans jury, ou dans une affaire de négligence professionnelle devant un tribunal dans une province pourrait ne pas convenir à un appel en matière d’impôt.
+(d)
+Certains aspects particuliers aux appels en matière d’impôt sur le revenu devant la Cour canadienne de l’impôt peuvent exiger une façon différente d’aborder les non-lieux. Parmi les points qui distinguent ces appels des autres actions civiles, notons :
+(i)
+L’existence de deux procédures, l’une informelle et l’autre générale. Dans la première, il arrive souvent que les appelants ne soient pas représentés.
+(ii)
+Dans un appel en matière d’impôt sur le revenu, les règles régissant le fardeau de la preuve sont un peu compliquées. Ainsi, l’appelant a l’obligation de « démolir » ce qu’on appelle les hypothèses de l’intimée, mais le fardeau de la preuve peut se déplacer et la Couronne peut être tenue d’établir un nouveau fondement qui permettrait de maintenir la cotisation. De plus, le fardeau de la preuve appartient à la Couronne en matière de pénalités et lorsqu’il s’agit de mettre en cause des années frappées de prescription (ce dernier fardeau pouvant se déplacer).
+[34] Compte tenu de la nature plutôt particulière d’un appel devant cette cour à l’encontre d’une cotisation d’impôt, les lignes directrices suivantes semblent pouvoir s’appliquer.
+1.
+La Cour, de façon générale, ne devrait pas traiter d’une requête en non‑lieu selon la procédure informelle. Je dis cela non d’un point de vue formel ou juridique, mais parce que je ne crois pas qu’un appelant non représenté devrait faire face à une requête technique du genre d’un non-lieu. Naturellement, cela ne s’applique pas lorsque la Couronne a le fardeau de la preuve, comme dans le cas des pénalités.
+2.
+Lorsqu’une partie - généralement l’intimée - demande un non-lieu, son avocat devrait être tenu de décider s’il a l’intention de présenter une preuve avant que la Cour ne statue sur la requête.
+3.
+Si l’avocat décide de présenter une preuve, le juge devrait prendre la requête en délibéré jusqu’à ce que tous les éléments de preuve soient produits. Lorsqu’elle décide s’il y a absence de preuve, la Cour peut évidemment tenir compte de tout élément de preuve soumis par la partie qui demande le non-lieu.
+4.
+Si l’avocat choisit de ne pas présenter de preuve, la Cour devrait statuer immédiatement sur la requête en non-lieu.
+5.
+Si le juge statue qu’il n’y a aucune preuve à l’appui de l’appel de l’appelant, il devrait, avant de rejeter l’appel, inviter les avocats à débattre la question de savoir si les hypothèses figurant dans la réponse à l’avis d’appel appuient la cotisation. Si tel est le cas, le juge devrait rejeter l’appel. Si ce n’est pas le cas, l’une des possibilités qui s’offrent au juge est d’accueillir l’appel. Si la Couronne a plaidé un moyen subsidiaire de maintien de la cotisation, la Cour devrait demander à la Couronne si elle a l’intention de présenter une preuve. Il n’est pas possible de formuler des règles absolues dans cette situation inusitée. Ce que fera la Cour dépendra des circonstances particulières.
+6. Si le juge rejette la requête au motif qu’il existe quelques éléments de preuve à l’appui de la cause de l’appelant, il devrait en résulter deux choses :
+(i) L’avocat qui a présenté la requête en non-lieu (habituellement l’avocat de l’intimée) devrait être lié par son choix et ne devrait pas, après le rejet de sa requête, avoir le droit de retirer son choix et de présenter une preuve.[[1]]
+(ii) L’avocat qui a présenté la requête devrait alors avoir le droit de soutenir que, même si le juge a statué qu’il existe quelques éléments de preuve à l’appui de la cause de l’appelant (ou celle de la partie sur qui repose le fardeau de la preuve), la preuve ne suffit pas à satisfaire au fardeau de la preuve. (C’est là la distinction entre l’absence de preuve - une question de droit réservée au juge - et l’insuffisance de preuve (une question de fait)).
+7. Les choses peuvent devenir un peu compliquées lorsque le fardeau de la preuve est partagé comme, par exemple, lorsque l’appelant a l’obligation de démontrer que la cotisation est mal fondée et que la Couronne doit établir le bien-fondé d’imposer une pénalité ou de s’attaquer à une année frappée de prescription, ou encore lorsque la Couronne fait valoir un fondement nouveau ou subsidiaire à l’appui de la cotisation. La question se pose de savoir si une requête en non-lieu devrait être recevable au milieu d’un procès quand une partie a présenté sa preuve et qu’elle estime avoir présenté une preuve prima facie de sorte que le fardeau de la preuve s’est déplacé pour reposer désormais sur l’autre partie. Je ne vois aucune raison de compliquer les choses davantage en encombrant la procédure par des requêtes au milieu de l’audience. La partie qui souhaite présenter une requête en non-lieu devrait être tenue de choisir si elle veut présenter une preuve sur tous les aspects de l’affaire et courir sa chance. En d’autres termes, la règle ordinaire devrait s’appliquer. En fin de compte, cependant, l’affaire relève du pouvoir discrétionnaire du juge de première instance.
+8. Le juge de première instance ne devrait jamais, de sa propre initiative, prononcer le non-lieu. Il ne devrait le faire qu’à la requête d’une partie. C’est le point de vue exprimé par le juge en chef de l’Ontario, le juge Rowell, dans l’arrêt McKenzie v. Bergin, [1937] O.W.N. 200 (C.A. Ont.). Il n’est pas conforme à l’opinion du juge Riddell dans la décision Martin v. Canadian Pacific Railway, [1932] O.R. 571 (C.A. Ont.). Sauf sur ce point, le jugement du juge Riddell dans l’affaire Martin est un très bon résumé de la règle que cette cour devrait suivre, à mon avis.
+Les passages pertinents des jugements du juge Riddell dans la décision Martin et du juge en chef Rowell dans l’arrêt McKenzie sont très succincts, et il peut être utile de les citer ici.
+Dans l’affaire Martin, le juge Riddell a dit aux pages 573 et 574 :
+[traduction] À la clôture de la preuve du demandeur, le juge de première instance peut prononcer le non-lieu, de son propre chef; il s’agit là d’une procédure si rare que je n’en ai vu qu’un exemple au cours de presque un demi-siècle de pratique; et on ne peut dire qu’il existe une pratique établie dans une telle situation. Dans le seul cas que je connaisse, la Cour divisionnaire de la cour appelée « Court of Common Pleas »" a statué que le défendeur qui ne soulève pas d’objections mais qui s’oppose à un appel à l’encontre du non-lieu était dans la même situation que s’il avait demandé le non-lieu. Cela ne nous lie évidemment pas, et si la Cour divisionnaire actuelle devait être saisie d’une affaire d’une telle rareté, elle la jugerait sans être liée par des arrêts.
+La situation usuelle, et même universelle, est une requête du défendeur; trois possibilités s’offrent alors au juge.
+Il peut, (1) accueillir la requête et accorder le non-lieu. Dans ce cas, en appel, le défendeur doit s’en tenir à la preuve qui a été présentée comme si elle était la seule disponible, et il sera statué sur l’appel sur ce fondement.
+Ou le juge peut, (2) rejeter la requête, ou (3) prendre la requête en délibéré jusqu’à la fin du procès; dans l’un ou l’autre de ces cas, le défendeur peut, a) mettre fin à sa plaidoirie sans présenter de preuve, ce qui le place dans la même situation que le défendeur dans le cas que je viens de mentionner; ou, b) présenter une preuve, et dans ce cas l’affaire est jugée d’après tous les éléments de preuve soumis, et le défendeur en appel n’a droit à aucun redressement au motif que le non-lieu aurait dû être prononcé - en d’autres termes, il ne peut avoir aucun redressement s’il a lui-même fourni les éléments de preuve qui donnent au demandeur un droit d’action.
+Voilà les règles de la pratique stricte devant nos tribunaux, mais elles n’entravent nullement l’action de la Cour « dans l’exercice de son pouvoir discrétionnaire ».
+Dans l’arrêt McKenzie, le juge en chef Rowell a dit à la page 201 :
+[traduction] Il est possible qu’il ne serait pas déplacé, étant donné la façon dont il a été statué sur cette action au procès, de proposer une procédure qu’il serait souhaitable que les juges adoptent lorsqu’ils traitent de la question du non-lieu, et qui permettrait aussi bien aux plaideurs qu’aux comtés de réaliser des économies, particulièrement dans les affaires avec jury :
+(1) Le juge de première instance ne devrait pas, de son propre chef, prononcer le non-lieu, mais dans tous les cas il devrait être laissé à l’avocat du défendeur de demander le non-lieu s’il le désire.
+(2) Même si l’avocat du défendeur demande le non-lieu, il serait sage et à propos de la part du juge de première instance de prendre la requête en délibéré et de demander au défendeur s’il souhaite présenter une preuve. Si tel est le cas, l’affaire devrait se poursuivre et le jury rendre son verdict. Si le juge de première instance décidait alors qu’il faut accorder le non-lieu, il pourrait rejeter l’action et, s’il y avait appel, notre cour disposerait de tous les faits, notamment l’évaluation des dommages-intérêts, et si elle estimait que le non‑lieu n’aurait pas dû être accordé, il pourrait être statué sur l’action de façon définitive.
+(3) Si, d’autre part, le défendeur disait qu’il ne voulait pas présenter de preuve et qu’il fondait sa cause sur la faiblesse de celle du demandeur, le juge de première instance pourrait alors régulièrement statuer sur la requête en non-lieu.
+9. Aux pages 155 à 158 de l’ouvrage The Trial of An Action, il est question des requêtes en non-lieu lorsqu’il y a plus d’un défendeur. Dans le contexte d’un appel en matière d’impôt sur le revenu, lorsque les causes de deux appelants ou plusieurs sont jugées ensemble, une requête en non-lieu devrait-elle être accueillie à l’encontre de l’une des parties et non des autres? Quelle que soit la justification théorique que l’on puisse trouver pour une telle façon d’agir, je crois que, question de principe, une telle requête devrait être rejetée. Si la Cour accueillait la requête à l’encontre d’un appelant et permettait ensuite à la Couronne de produire des éléments de preuve à l’égard de l’autre appelant, il est possible que la preuve de la Couronne appuie la cause de l’appelant contre qui le non-lieu a été prononcé. Ce serait une anomalie. Si la Couronne présentait une requête en non-lieu contre l’un des appelants, elle devrait être tenue de décider si elle présentera des éléments de preuve contre l’un quelconque des appelants.
+10. Les avis sont partagés, comme en discute Phipson à la page 223 (paras. 11-36), au sujet du critère à appliquer à la requête en non-lieu : devrait-il consister à savoir s’il existe une parcelle de preuve, auquel cas la requête devrait être rejetée, ou devrait-il plutôt consister à savoir s’il existe des éléments de preuve qui permettraient raisonnablement au tribunal de donner gain de cause à la partie chargée du fardeau de la preuve? Je me rends compte que Phipson discute de la question dans le contexte d’un procès avec jury, dans lequel la décision est plus importante parce qu’elle implique la mesure assez lourde de conséquence qu’est le retrait de l’affaire au jury. Phipson favorise la seconde approche : existe-t-il certains éléments de preuve permettant au tribunal de raisonnablement donner gain de cause à l’appelant? En toute déférence, je ne suis pas d’accord. S’il existe la moindre preuve à l’appui des prétentions de l’appelant, j’estime que la requête devrait être rejetée. Il est prématuré, à la clôture de la présentation de la preuve de l’appelant, d’étudier la question de savoir si les éléments de preuve soumis appuient raisonnablement une décision favorable à l’appelant.
+[35] J’espère que ces lignes directrices seront de quelque utilité lorsque cette Cour est saisie de requêtes en non‑lieu.
+[13] Dans l’examen des non‑lieux qui précède, je n’ai pas mentionné une décision rendue dans l’affaire Skukan v. The Queen, [1997] 1 C.T.C. 2228, où le juge Bell a accueilli une requête en non‑lieu en se fondant sur le fait que la preuve que la Couronne avait avancée pour justifier l’imposition de pénalités constituait une preuve par ouï‑dire irrecevable. Cette décision renferme un examen fort utile d’un certain nombre de questions, et notamment de la règle du ouï‑dire, du type de preuve nécessaire pour justifier une pénalité en vertu du paragraphe 163(2) de la LIR et des non‑lieux.
+[14] Je dois essentiellement décider, comme le juge Bell l’a dit, si les appelantes ont une preuve à réfuter. Une modification est apportée aux lignes directrices que j’ai énoncées dans la décision 410812 Ontario Limited, précitée. Au paragraphe 6, j’ai dit que si la requête en non‑lieu est rejetée, l’avocat qui l’a présentée devrait être lié par son choix et ne devrait pas avoir le droit de présenter une preuve. Dans la note de bas de page, dans ce paragraphe, j’ai dit qu’il existe une opinion différente, à savoir que la partie déboutée dans une requête en non‑lieu devrait avoir le droit de présenter des éléments de preuve. À la réflexion, cette opinion semble sensée et elle est conforme à l’avis exprimé dans l’arrêt Active Construction Limited v. Routledge Gravel Limited, 22 W.W.R. 287 (cité dans la décision Skukan), où le juge Sheppard a dit ce qui suit :
+[traduction] La requête en non‑lieu soulève la question de savoir s’il existe une preuve que la demanderesse doit réfuter; telle est l’unique question qui se pose. Par conséquent, si le juge décide qu’il n’existe aucune preuve à réfuter, sa conclusion aura pour effet de régler la requête ainsi que l’action contre la demanderesse. D’autre part, le refus d’accueillir la requête ne permet pas de rendre jugement dans l’action contre la défenderesse parce qu’il ne s’ensuit pas qu’aucune défense n’a été présentée. La question n’a pas été soulevée dans la requête. Par conséquent, sur rejet de la requête, le défendeur devrait avoir la possibilité de présenter une preuve en vue d’établir sa défense à moins d’avoir renoncé à son droit de le faire : Yuill v. Yuill [1945] P 15, 114 LJP 1, lord Greene, M.R., à la p. 3. Le juge qui préside l’audience a sans doute le pouvoir discrétionnaire de refuser d’entendre la requête en non‑lieu à moins que le défendeur ne choisisse de ne pas présenter de preuve : Martin v. C.P.R. [1932] OR 571, 40 CRC 144, juge d’appel Riddell, à la p. 574; Hayhurst v. Innisfail Motors Ltd. [1935] 1 WWR 385, juge en chef Harvey, à la p. 390; cette pratique est habituellement suivie : Protopappas v. B.C. Elec. Ry. and Knap [1946] 1 WWR 232, 62 BCR 218, juge d’appel Robertson, à la p. 235 (modifié sur un autre point par la Cour suprême du Canada [1946] 60 CRTC 28). Cependant, la présente défenderesse n’a pas eu à faire pareil choix et, en rejetant la requête en non‑lieu, le savant juge aurait donc dû agréer la demande que celle‑ci a alors faite, soit de présenter une preuve en vue d’établir sa défense : Yuill v. Yuill, précité. Cela n’a pas été fait. Par conséquent, l’appel devrait être accueilli et l’affaire déférée de façon que l’instruction puisse avoir lieu de la façon habituelle.
+[15] Avant d’examiner les faits, il peut être utile d’énoncer les dispositions légales qui portent sur le droit du ministre d’établir une nouvelle cotisation après la période normale de nouvelle cotisation, en vertu de la LIR et de la LTA. Le paragraphe 152(4) de la LIR est en partie rédigé comme suit :
+Sous réserve du paragraphe (5), le ministre peut, à un moment donné, fixer l’impôt pour une année d’imposition, ainsi que les intérêts ou pénalités payables en vertu de la présente partie par un contribuable, ou donner avis par écrit, à toute personne qui a produit une déclaration de revenu pour une année d’imposition, qu’aucun impôt n’est payable pour l’année, et peut, selon les circonstances, établir des nouvelles cotisations, des cotisations supplémentaires ou des cotisations d’impôt, d’intérêts ou de pénalités en vertu de la présente partie:
+a) à un moment donné, si le contribuable ou la personne produisant la déclaration:
+(i) soit a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement sous le régime de la présente loi,
+(ii) soit a adressé au ministre une renonciation, selon le formulaire prescrit, au cours de la période normale de nouvelle cotisation applicable au contribuable pour l’année;
+[16] Le paragraphe 152(5) était autrefois rédigé comme suit :
+N’est pas à inclure dans le calcul du revenu d’un contribuable pour une année d’imposition, en vue de l’établissement, après la période normale de nouvelle cotisation applicable au contribuable pour l’année, d’une nouvelle cotisation, d’une cotisation supplémentaire ou d’une cotisation d’impôt, d’intérêts ou de pénalités en vertu de la présente partie, tout montant:
+a) qui n’a pas été inclus dans le calcul de son revenu, en vue d’une cotisation d’impôt payable en vertu de la présente partie, établie avant la fin de la période normale de nouvelle cotisation qui lui est applicable,
+b) dont l’omission ne résulte pas, à charge pour le contribuable de l’établir, d’une présentation erronée des faits par négligence, inattention ou omission volontaire, ni d’une fraude commise en produisant sa déclaration de revenu ou en fournissant tout renseignement, en vertu de la présente loi, et
+c) qui, lorsque le contribuable a adressé au Ministre une renonciation quelconque, selon le formulaire prescrit et dans le délai visé au paragraphe (4), relativement à une année d’imposition sur laquelle porte la nouvelle cotisation, la cotisation supplémentaire ou la cotisation relative à l’impôt, aux intérêts ou aux pénalités, selon le cas, ne peut raisonnablement être considéré, à charge pour le contribuable de l’établir, comme se rapportant à une question spécifiée dans la renonciation.
+[17] En 1998, le paragraphe 152(5), qui est devenu applicable après le 27 avril 1989, a fondamentalement été modifié en vue d’éliminer l’exigence voulant que le contribuable établisse l’absence de négligence, d’inattention, d’omission volontaire ou de fraude. De plus, le paragraphe 152(4.01) a été édicté en 1998, et il est devenu applicable après le 27 avril 1989. Le paragraphe 152(4.01) est maintenant rédigé comme suit :
+Malgré les paragraphes (4) et (5), la cotisation, la nouvelle cotisation ou la cotisation supplémentaire à laquelle s’appliquent les alinéas (4)a) ou b) relativement à un contribuable pour une année d’imposition ne peut être établie après l’expiration de la période normale de nouvelle cotisation applicable au contribuable pour l’année que dans la mesure où il est raisonnable de considérer qu’elle se rapporte à l’un des éléments suivants:
+a) en cas d’application de l’alinéa (4)a):
+(i) une présentation erronée des faits par le contribuable ou par la personne ayant produit la déclaration de revenu de celui‑ci pour l’année, effectuée par négligence, inattention ou omission volontaire ou attribuable à quelque fraude commise par le contribuable ou cette personne lors de la production de la déclaration ou de la communication de quelque renseignement sous le régime de la présente loi,
+(ii) une question précisée dans une renonciation présentée au ministre pour l’année;
+Les dispositions correspondantes de la LTA prévoient ce qui suit :
+298(4) Une cotisation peut être établie à tout moment si la personne visée a :
+a) fait une présentation erronée des faits, par négligence, inattention ou omission volontaire;
+b) commis quelque fraude en faisant ou en produisant une déclaration selon la présente partie ou une demande de remboursement selon la section VI ou en donnant, ou en ne donnant pas, quelque renseignement selon la présente partie;
+c) produit une renonciation en application du paragraphe (7) qui est en vigueur au moment de l’établissement de la cotisation.
+La version anglaise de la LTA prévoit ce qui suit :
+298(4) An assessment in respect of any matter may be made at any time where the person to be assessed has, in respect of that matter,
+(a) made a misrepresentation that is attributable to the person’s neglect, carelessness or wilful default;
+(b) committed fraud
+(i) in making or filing a return under this Part,
+(ii) in making or filing an application for a rebate under Division VI, or
+(iii) in supplying, or failing to supply, any information under this Part; or
+(c) filed a waiver under subsection (7) that is in effect at that time.
+[18] L’évolution de ces dispositions peut être brièvement résumée : initialement, le paragraphe 152(4) permettait au ministre de rouvrir une année prescrite pour n’importe quelle raison, s’il pouvait conclure à une présentation erronée des faits du type décrit au paragraphe 152(4), peu importante soit‑elle, et il pouvait établir une nouvelle cotisation à l’égard de n’importe quel élément, et ce, peu importe que cet élément ait donné lieu à une présentation erronée des faits, de quelque type que ce soit. De toute évidence, cela semblait plutôt inéquitable, de sorte que l’alinéa 152(5)b) a été édicté en 1973‑1974, cette disposition prenant effet à compter de 1972. La disposition en question permettait au contribuable d’établir que l’omission de déclarer un montant au titre du revenu ne résultait pas d’une présentation erronée des faits effectuée par négligence, inattention, omission volontaire ou attribuable à une fraude. Néanmoins, cette disposition imposait une charge au contribuable. Le paragraphe 152(4.01) a donc été édicté et son effet, selon Me Kutkevicius, est de libérer le contribuable de cette charge et d’imposer au ministre une charge à deux volets pour établir :
+a) qu’il y a eu présentation erronée des faits,
+b) que la présentation erronée des faits a été effectuée par négligence, inattention ou omission volontaire ou qu’elle est attribuable à une fraude.
+Je crois que telle est l’interprétation qu’il convient de donner. Si la charge qui était imposée au contribuable en vertu de l’ancien alinéa 152(5)b) avait survécu à la modification apportée au paragraphe 152(5) et à l’adoption du paragraphe 152(4.01), le paragraphe (4.01) n’aurait aucun objet.
+[19] La version anglaise du paragraphe 298(4) de la LTA énonce essentiellement les mêmes restrictions que celles qui figurent au paragraphe 152(4.01) de la LIR. Je tire cette conclusion des mots figurant au début du paragraphe 298(4) « [...] in respect of any matter [...] » suivis des mots « [...] in respect of that matter [...] ». À mon avis, cela montre clairement que la question à l’égard de laquelle le ministre peut établir une nouvelle cotisation après la période normale de nouvelle cotisation doit être une question à l’égard de laquelle le contribuable a fait une présentation erronée des faits du type décrit à l’alinéa 298(4)a) ou à l’égard de laquelle le contribuable a commis une fraude.
+[20] Toutefois, il est plutôt surprenant que la version française, que j’ai ci‑dessus reproduite, ne semble pas comporter une telle restriction. S’ils sont considérés indépendamment de la version anglaise, les pouvoirs conférés au ministre d’établir une nouvelle cotisation une fois qu’une présentation erronée des faits a été effectuée ou qu’une fraude a été commise, telles qu’elles sont décrites aux alinéas a) et b), semblent être des pouvoirs généraux absolus. À première vue, il semble y avoir une différence entre les versions anglaise et française du paragraphe 298(4). Si j’avais à trancher la question, j’estimerais que la version anglaise, qui est plus restrictive, est plus conforme à l’esprit de la LTA et à celui de la LIR, in pari materia, et que toute ambiguïté doit être résolue en faveur du contribuable. Telle est certes la règle d’interprétation légale lorsqu’une seule version d’une loi est examinée. Rien ne me permet de croire que la règle ne devrait pas également s’appliquer lorsque deux versions apparemment différentes de lois bilingues sont examinées.
+[21] De toute évidence, s’il n’est pas de prime abord établi qu’il y a eu présentation erronée des faits ou fraude, il importe peu de savoir qui a la charge d’établir ce à quoi cette présentation erronée ou cette fraude est ou n’est pas attribuable.
+[22] Il importe de noter que Valerie mère n’était pas une actionnaire de 943. Elle était directrice générale de la boîte de nuit et une employée salariée. Sa fille, Valerie fille, était l’unique actionnaire et présidente de 943. Il est allégué dans la réponse que Valerie mère était une actionnaire de fait de 943, mais aucun élément de preuve n’a été soumis à l’appui de cette allégation. Le fait d’être simplement directeur des activités d’une société ne veut pas nécessairement dire que l’on est actionnaire de fait de la société. Voir la décision Scavuzzo v. The Queen, [2006] 2 C.T.C. 2429, dans laquelle la notion d’administrateur de fait a été examinée. Je n’ai jamais auparavant entendu parler de la notion d’« actionnaire de fait ». Je suppose que cela donne à entendre qu’il existe un arrangement quelconque par lequel l’actionnaire inscrit détient les actions à titre de mandataire ou de simple fiduciaire du « véritable » actionnaire, c’est‑à‑dire la personne qui a la propriété effective des actions. Il n’est pas nécessaire de poursuivre la question puisqu’il n’est pas allégué ni établi que Valerie fille détenait les actions à titre de mandataire de sa mère et, en outre, puisque la cotisation dont Valerie mère a fait l’objet n’est pas fondée sur le fait qu’elle recevait des avantages à titre d’actionnaire.
+[23] J’ai l’intention d’examiner certains éléments de preuve en détail, mais je veux ici résumer brièvement mes conclusions. Je crois qu’il existe peut‑être certains éléments de preuve plutôt faibles montrant qu’il y a peut‑être eu déclaration en moins de la part de 943 à l’égard de la vente de spiritueux pour ce qui est du revenu, ou à l’égard de fournitures taxables pour ce qui est de la TPS. Presque tous les éléments de preuve, sinon tous, constituent du ouï‑dire, mais je devrais entendre les observations des avocats au sujet de la question de savoir si ces éléments sont suffisants pour permettre de rouvrir les années prescrites et s’il a été établi qu’une telle déclaration en moins est attribuable à une présentation erronée des faits du type décrit à l’article 152 de la LIR et à l’article 298 de la LTA.
+[24] En ce qui concerne Valerie mère, on affirme qu’elle a reçu un avantage au sens de l’article 246 de la LIR, correspondant à un montant de 160 653,65 $, soit le montant que 943 aurait censément déclaré en moins à l’égard de la vente de spiritueux. Pour les raisons que je donnerai d’une façon plus détaillée ci‑dessous, je crois que s’il existe une preuve recevable d’une telle déclaration en moins des ventes de la part de 943, cette preuve est fort mince, en admettant qu’elle existe. Toutefois, supposons que la déclaration en moins des ventes ait été établie. Comment se fait‑il que cette déclaration en moins soit en fin de compte imposée non seulement entre les mains de 943, mais aussi entre les mains de Valerie mère, qui n’est même pas actionnaire de la société? Rien ne montre que le montant des présumées ventes déclarées en moins (en admettant qu’il y ait eu déclaration en moins) se soit retrouvé entre les mains de Valerie mère.
+[25] Sur le plan de la preuve et des plaidoyers :
+a) il n’y a ni allégation ni preuve voulant que 943 ait versé à Valerie mère le produit des présumées ventes non déclarées;
+b) il n’y a pas de preuve à l’appui de la thèse selon laquelle Valerie mère était actionnaire de fait de la société;
+c) même si Valerie mère était actionnaire de la société, de fait ou de droit, il n’y a pas de preuve ni d’allégation voulant qu’un avantage, à l’égard des présumées ventes non déclarées, ait été conféré à Valerie mère en sa qualité d’actionnaire (ou, en fait, en sa qualité d’employée ou en quelque autre qualité).
+Indépendamment de ces lacunes plutôt importantes de la preuve de la Couronne contre Valerie mère, il se pose un autre problème à l’égard de l’article 246 de la LIR. La Couronne se fonde sur l’article 246 de la LIR pour justifier les cotisations dont Valerie mère a fait l’objet à l’égard des présumées ventes non déclarées par 943. Cette disposition est rédigée comme suit :
+AVANTAGE CONFÉRÉ À UN CONTRIBUABLE
+246. (1) La valeur de l’avantage qu’une personne confère à un moment donné, directement ou indirectement, de quelque manière que ce soit à un contribuable doit, dans la mesure où elle n’est pas par ailleurs incluse dans le calcul du revenu ou du revenu imposable gagné au Canada du contribuable en vertu de la partie I et dans la mesure où elle y serait incluse s’il s’agissait d’un paiement que cette personne avait fait directement au contribuable et si le contribuable résidait au Canada, être:
+a) soit incluse dans le calcul du revenu ou du revenu imposable gagné au Canada, selon le cas, du contribuable en vertu de la partie I pour l’année d’imposition qui comprend ce moment;
+b) soit, si le contribuable ne réside pas au Canada, considérée, pour l’application de la partie XIII, comme un paiement fait à celui‑ci à ce moment au titre de bien ou de services ou à un autre titre, selon la nature de l’avantage.
+OPÉRATION SANS LIEN DE DÉPENDANCE
+(2) Lorsqu’il est établi qu’une opération conclue par des personnes sans aucun lien de dépendance est une opération véritable et non une opération conclue en conformité avec quelque autre opération ou comme partie de celle‑ci, non plus que pour effectuer le paiement, en totalité ou en partie, de quelque obligation existante ou future, aucune partie à l’opération n’est considérée, pour l’application du présent article, conférer un avantage à une autre partie avec laquelle elle n’a aucun lien de dépendance.
+L’article 246 ne crée pas une catégorie distincte d’imposition. Les contribuables sont assujettis à l’impôt sur diverses bases – le revenu d’entreprise, le revenu d’emploi, les intérêts, les dividendes, les avantages conférés aux actionnaires en vertu du paragraphe 15(1), les diverses sources mentionnées à l’article 56 et le revenu tiré d’une fiducie dans la mesure exigée par l’article 104 en sont des exemples. L’article 246 ne constitue pas un ajout apporté aux autres catégories d’imposition. Cette disposition vise à convertir des avantages qui ne seraient peut‑être pas par ailleurs assujettis à l’impôt en une valeur pécuniaire appropriée comme s’il s’agissait de paiements directs et elle exige que le montant y afférent soit inclus dans le revenu du bénéficiaire dans la mesure où il serait inclus s’il s’agissait d’un paiement direct. Le Canada Tax Service a brièvement énoncé la question comme suit :
+[traduction] L’article 246 vise à exiger que le contribuable rende compte de la valeur pécuniaire de certains avantages qu’une personne lui confère au moyen d’une ou de plusieurs ventes ou échanges ou encore de quelque autre manière que ce soit pour l’application de la taxe prévue à la partie I ou à la partie XIII, selon le cas, dans la mesure où la valeur de l’avantage n’a pas par ailleurs été incluse dans le revenu du contribuable ou dans le revenu imposable gagné par le contribuable au Canada et dans la mesure où cette valeur aurait été incluse dans le revenu du contribuable si celui‑ci résidait au Canada et si la valeur constituait un paiement en sa faveur. Cette disposition ne s’applique pas lorsqu’une opération a été conclue entre des personnes sans lien de dépendance et de bonne foi, et qu’elle ne fait pas partie d’une autre opération et ne constitue pas le paiement d’une obligation existante ou future.
+[26] L’article 246 n’assujettit pas à l’impôt tous les avantages qui ne sont pas par ailleurs imposables. Si un père ou une mère donne à son enfant, comme cadeau d’anniversaire, une nouvelle voiture d’une valeur de 50 000 $, cela constitue sans aucun doute un avantage pour l’enfant, mais cet avantage n’est certes pas imposable en vertu de l’article 246 du simple fait qu’il s’agit d’un avantage.
+[27] L’examen qui précède, quoiqu’il soit évident en soi, est bien sûr théorique, s’il est tenu compte du fait qu’il n’existe aucune preuve qu’un avantage quel qu’il soit ait été conféré à Valerie mère par 943 à l’égard des présumées ventes non déclarées. Même si les ventes non déclarées de 943 avaient été établies, il est faux de conclure que cela entraîne en soi l’imposition de Valerie mère en vertu de l’article 246 sur un montant égal à celui des présumées ventes non déclarées.
+[28] Les paiements qui auraient censément été faits à Schnier et à Sun Life n’ont pas été établis avec précision, bien que selon certains éléments de preuve, certains paiements aient été faits à ces deux prêteurs. La preuve relative à ces paiements n’est pas satisfaisante, mais je ne suis pas prêt ici à dire d’une façon non équivoque qu’il n’est pas établi que les paiements faits à Schnier et à Sun Life étaient des avantages que 943 voulait conférer à Valerie mère. L’avocat de l’appelante peut être en mesure de soutenir que la preuve est insuffisante ou il peut décider de soumettre certains éléments de preuve, mais je crois de toute façon que ces paiements exigent peut‑être des explications.
+[29] Je tiens également à mentionner que, selon la réponse, Valerie mère aurait fait l’objet d’une cotisation sur la base des articles 3 et 9. L’article 3 est la disposition générale qui figure au début de la LIR, selon laquelle le revenu d’un contribuable est le revenu tiré de quelque source que ce soit. Cette disposition ne jette aucune lumière sur le fondement de la cotisation. L’article 9 se rapporte au revenu d’entreprise. Il n’est allégué nulle part ailleurs que le revenu additionnel à l’égard duquel Valerie mère a été imposée était un revenu tiré d’une entreprise. Toutefois, au cours de l’argumentation, l’avocat de l’intimée a restreint à l’article 246 la base sur laquelle il était allégué que Valerie mère était assujettie à l’impôt.
+[30] Avant d’examiner certains aspects de la preuve d’une façon plus détaillée, je dois dire que les réponses aux avis d’appel n’étaient pas utiles. Le ministre avait la charge initiale d’établir l’existence d’une présentation erronée des faits permettant de rouvrir les années prescrites. En pareil cas, il est d’une importance primordiale que les réponses soient spécifiques et précises. Or, les chiffres mentionnés dans les réponses n’avaient rien à voir avec les chiffres avancés à l’instruction.
+[31] Lors du contre‑interrogatoire, Valerie mère a reconnu un certain nombre de comptes bancaires d’entreprise qu’avait 943. Certains comptes, sinon tous, étaient nécessaires pour les divers comptes de cartes de crédit, comme Visa, MasterCard et American Express.
+[32] En ce qui concerne les paiements faits à Valerie mère, voici la preuve qui ressort du témoignage oral de Valerie mère et des pièces A‑1 à A‑5. Valerie mère a prêté 550 000 $ à la société de son frère, 515088 Ontario Limited (« 515 »). Elle a cédé cette créance à 943 pour la somme de 10 $ et moyennant une autre contrepartie de valeur.
+[33] Il y a eu défaut et 943 a acquis l’entreprise et les biens de 515. Le 30 mai 1991, 943 a reconnu être endettée envers Valerie mère et a signé un billet à demande de 550 000 $ en faveur de cette dernière. Le montant de la dette a augmenté au fil des ans, au point qu’à un moment donné, il s’élevait à plus de 800 000 $. Une partie de l’argent que Valerie mère a reçu était imputable au salaire et on ne donne pas à entendre que ce montant n’a pas été déclaré. Le reste, est‑il allégué, a été imputé à la dette que 943 avait envers Valerie mère. L’intimée ne conteste pas l’authenticité des contrats de prêt produits sous les cotes A‑1 à A‑5.
+[34] Au fur et à mesure que Valerie mère avançait de l’argent à 943, cela avait pour effet de faire augmenter son compte de prêt (le montant que 943 lui devait), et au fur et à mesure que des paiements étaient faits à Valerie, mère cela avait pour effet de réduire son compte de prêt. La tenue de livres n’était peut‑être pas parfaite, mais il est clair que 943 devait un montant élevé à Valerie mère et que ce montant allait en augmentant, soit à cause des avances de fonds, soit parce que Valerie mère payait les dépenses d’entreprise de 943 à l’aide de sa carte de crédit. Les paiements qui ont été faits à Valerie mère (mis à part les montants versés au titre de la paie) auraient censément été versés à titre de remboursement partiel de la dette ou aux fins du paiement des comptes de cartes de crédit pour les dépenses que Valerie mère avait engagées au nom de 943.
+[35] Indépendamment du point susmentionné, à savoir que le paragraphe 152(4.01) ne permet peut‑être pas l’établissement de cotisations d’actif net, il semble que, le 5 août 1993, Schnier ait prêté 100 000 $. La société 943 faisait partie des personnes désignées comme étant les emprunteurs, mais l’argent est entièrement allé à 943. Selon la position prise par l’appelante, les paiements faits à Schnier servaient au remboursement de cette dette et, contrairement à la prétention de la Couronne, les paiements que 943 a faits à Schnier ne constituaient pas un avantage imposable entre les mains de Valerie mère parce qu’ils ne visaient pas à rembourser un prêt personnel que Schnier aurait consenti à Valerie mère. Je ne puis me rappeler avoir vu quelque élément de preuve à l’appui de l’assertion de la Couronne selon laquelle Valerie mère avait présenté les faits d’une façon erronée en n’incluant pas ces montants dans son revenu.
+[36] La preuve soumise par Mme Chui, vérificatrice à l’ARC, n’a rien ajouté à l’assertion selon laquelle Valerie mère ou 943 avait présenté des faits d’une façon erronée. Mme Chui a eu une entrevue avec Valerie fille et une entrevue, en compagnie d’un autre vérificateur, M. John Adams, avec Valerie mère et le comptable de 943. La preuve soumise par Mme Chui était essentiellement qu’il avait été difficile d’obtenir des renseignements de l’appelante. Si c’est le cas, et il en est peut‑être ainsi, cela n’établit pas qu’il y a eu présentation erronée des faits ou déclaration en moins des ventes. Mme Chui ne s’est pas occupée de la première cotisation ni des cotisations ultérieures. Elle ne disposait d’aucun renseignement au sujet des présumés paiements faits à Sun Life. J’ai lu attentivement les transcriptions du témoignage oral de Mme Chui. Mme Chui a décrit les entrevues qu’elle avait eues avec les représentants de 943, mais elle n’a soumis aucune preuve quelle qu’elle soit à l’appui des allégations concernant une présentation erronée des faits ou une déclaration en moins du revenu de la part de 943 ou de Valerie mère.
+[37] Le troisième témoin de la Couronne était M. David Evans. M. Evans était un vérificateur de la TPS qui s’était occupé de la vérification de la TPS que M. John Adams, vérificateur de la TPS, avait antérieurement entreprise. M. Adams n’a pas témoigné, car il avait pris sa retraite plusieurs années avant l’instruction. Le 4 mars 1997, M. Evans a pris en charge la vérification de 943 pour la période allant du 1er juin 1991 au 31 mai 1996. Le 17 mai 1997, il a écrit à 943 pour demander des renseignements additionnels et Valerie mère l’a invité à se rendre à son bureau. Il a passé environ une semaine à consulter la documentation au bureau de 943.
+[38] Une bonne partie du témoignage de M. Evans portait sur ce qu’on appelle les bandes Z. Il s’agit de bandes générées par les caisses enregistreuses, renfermant des sommaires des ventes conclues entre le moment où la bande est produite et le moment où la bande antérieure avait été produite. M. Evans a noté que les numéros figurant dans le bas de la bande n’étaient pas consécutifs ou que, dans certains cas, le compte était à rebours. Il soutient qu’il faut donc inférer qu’il manquait certaines bandes ou que quelqu’un avait [traduction] « joué », pour reprendre l’expression qu’il a employée, avec le programme d’ordinateur.
+[39] Le témoignage de M. Evans sur ce point était le suivant :
+[traduction] Le problème résulte de la façon dont le compte des bandes Z est organisé, il n’est pas censé aller à rebours. Il est censé avancer d’un chiffre à la fois. Il peut uniquement y avoir un compte à rebours si quelqu’un joue, fondamentalement, avec le programme.
+Chaque fois que l’on ferme le système, la bande doit augmenter d’un chiffre. Il ne peut pas y avoir de compte à rebours. C’est la première fois que je vois une bande de caisse faire un compte à rebours.
+[...]
+Me MBOUTSIADIS :
+Q. Je crois que vous disiez simplement que c’est là quelque chose avec quoi il est possible de jouer, si quelqu’un joue avec le programme d’ordinateur, est‑ce bien ce que vous dites?
+R. Il existe des programmes d’ordinateur qui peuvent réduire artificiellement le chiffre des ventes. L’un de ces programmes est appelé « Zapper »; il permet en fait de programmer l’ordinateur en vue d’enlever un certain pourcentage des ventes du gros ordinateur.
+Je ne dispose d’aucun élément de preuve montrant que c’est ce qui est arrivé parce que, malheureusement, ces caisses, je ne pense pas que cela existait lorsque la vérification a été effectuée.
+Je sais simplement que les numéros, il y a quelque chose de vraiment étrange qui se passe dans le compte de la bande Z, dans la façon dont la fermeture du système fonctionne. Cela n’est pas une lecture normale.
+Q. Qu’est‑ce que cela dit donc au sujet de la fiabilité des ventes qui sont enregistrées?
+R. Cela les met en question. C’est l’un des facteurs dont j’ai été obligé de tenir compte. J’ai été obligé de tenir compte du fait que les bandes Z n’étaient pas exactes. Que l’on avait à maintes reprises fermé le système.
+[40] Lors du contre‑interrogatoire, aux pages 634 et 635 de la transcription, il a été signalé à M. Evans que les bandes provenaient de différentes caisses enregistreuses. Voici ce que M. Evans a déclaré :
+[traduction]
+LE TÉMOIN : Je ne crois pas que nous ayons à aller plus loin. Vous avez raison. Il y avait différentes caisses. Je me trompais peut‑être.
+Me KUTKEVICIUS:
+Q. D’accord.
+R. C’est étrange, parce qu’habituellement cela ne fonctionne pas ainsi, mais il existe une possibilité, de sorte que j’admets que je me suis peut‑être trompé.
+Q. Cela serait‑il suffisant pour que vous puissiez dire que les bandes Z étaient exactes?
+R. Exactes?
+Q. À supposer que vous vous posiez des questions au sujet du compte à rebours et...
+R. Du point de vue de la fonctionnalité?
+Q. Oui. Cela suffit‑il pour que vous retiriez fondamentalement toutes les déclarations antérieures et que vous disiez que les bandes Z sont exactes ou vous posez‑vous encore des questions?
+R. Sur le plan de la fonctionnalité, je ne dispose d’aucune preuve montrant qu’elles sont inexactes.
+Q. Vous ne disposez d’aucune preuve montrant qu’elles sont inexactes, d’accord.
+R. Sur le plan de la fonctionnalité. Du moins, dans la mesure où je puis le constater. Je ne le crois pas. [...] Oui, cela se pourrait bien. Vous avez un point valable.
+[41] Je crois que la valeur probante des bandes Z, sur lesquelles reposait une bonne partie de la preuve de la Couronne, a été démolie.
+[42] L’autre partie du témoignage de M. Evans, onglet 58 du volume II des documents des appelantes, que l’on a appelés les rapprochements bancaires, montre qu’il y a des écarts entre les recettes de l’entreprise indiquées sur les bandes et les sommes déposées à la banque. Les mêmes documents indiquent également des paiements à « Val » (c’est‑à‑dire à Valerie mère) de 1 475 $, son salaire mensuel et le paiement de gros montants, 28 150 $, 18 900 $, 7 000 $, effectué par [traduction] « Val à Chez Paree » (c’est‑à‑dire par Valerie mère à la boîte de nuit).
+[43] M. Evans a comparé les montants figurant sur les bandes Z et les montants déposés dans le compte de BCI et il a remarqué que les numéros ne correspondaient pas. Cela est vrai. Il n’y a pas de correspondance entre les chiffres mentionnés à l’onglet 62 (les relevés bancaires) et les sommaires de caisse, à l’onglet 55. Je ne crois pas que le fait qu’il est impossible de rapprocher les chiffres figurant dans ces documents permette de conclure qu’il y a eu déclaration en moins des recettes. Comme il en a été fait mention ci‑dessus, l’argent provenait de Valerie mère.
+[44] De plus, au mois de janvier 1992, le montant qui a été déposé, selon le rapprochement bancaire (onglet 58), correspond aux relevés bancaires.
+[45] Me Kutkevicius a contre‑interrogé M. Evans passablement longuement, mais en fin de compte, cela importait peu parce qu’il n’y avait rien, dans la fluctuation du compte de prêt de Valerie mère, qui indiquait de quelque façon que ce soit qu’elle s’était attribué des fonds. La société 943 avait effectué des paiements en sa faveur et elle avait effectué des paiements en faveur de 943. Les documents de la société l’indiquaient. De toute façon, je ne puis comprendre ce à quoi rimait la preuve relative au compte de prêt de Valerie mère. L’intimée admet que les cotisations dont Valerie mère a fait l’objet n’étaient pas basées sur des montants qui avaient été versés à celle‑ci, comme le montre l’état du compte de prêt. De fait, à la page 571 de la transcription, il est dit ce qui suit :
+[traduction]
+Me KUTKEVICIUS:
+Q. Laissez‑moi confirmer une chose, en ce qui concerne les montants que Mme Chandelle – son compte de prêt a été débité, y a‑t‑il une façon – vous prenez la position selon laquelle ces montants lui ont été attribués à l’égard d’un revenu non déclaré possible?
+R. Si elle reçoit les montants de – d’accord. Elle n’est pas actionnaire, de sorte que cela n’est pas possible.
+[46] Aux pages 603 à 606 de la transcription, il a été établi que les montants que Valerie mère avait prêtés à 943 s’élevaient à 138 840 $ en tout.
+[47] En résumé, la preuve de la Couronne, lorsqu’il s’agit de rouvrir les années ou les périodes prescrites, repose sur plusieurs prémisses :
+a) Le compte de prêt de Valerie mère. On a soumis bon nombre d’éléments de preuve au sujet des opérations effectuées dans le compte de prêt, mais il n’y a rien dans la preuve qui permette de dire que Valerie mère se soit attribué l’argent de la société. De fait, selon la preuve, elle a avancé de grosses sommes d’argent à la société. Quoi qu’il en soit, l’intimée ne se fonde pas sur quelque montant payé à Valerie mère par la société par l’entremise du compte de prêt pour justifier l’allégation de présentation erronée des faits;
+b) L’article 246 est invoqué lorsqu’il s’agit de se fonder sur la présumée déclaration en moins du revenu de 943 et d’imposer de nouveau ce montant entre les mains de Valerie mère. Comme il en a déjà été fait mention dans les présents motifs, il n’existe, en vertu de l’article 246, aucun fondement factuel ou juridique permettant d’imposer entre les mains de Valerie mère les montants qui auraient censément été déclarés en moins par 943;
+c) Quant aux bandes Z susmentionnées, elles ne prouvent pas qu’il y a eu présentation erronée des faits ou déclaration en moins du revenu de la part de 943;
+d) Enfin, nous avons l’analyse (ou peut‑être plus exactement l’estimation) des ventes de spiritueux et de bière qui auraient censément été effectuées par 943.
+[48] À l’onglet 45 du cahier de documents de l’intimée figurent un certain nombre de pages, mais les deux pages qui sont essentielles à la position de la Couronne sont intitulées : [traduction] « 943372 Ontario Inc. s/n Airport Strip, document de travail concernant les appels – Ventes proposées de spiritueux basées sur les quantités provinciales » et [traduction] « Rajustement proposé des déclarations relatives à la TPS ».
+[49] Ces tableaux exigent énormément d’explications. Je commencerai par la fin, puis je remonterai au début. Les présumées ventes non déclarées s’élevant à 160 653,65 $ proviennent du tableau rajusté concernant la TPS. Même si cela peut sembler plutôt fastidieux, la façon la plus efficace de montrer d’où proviennent ces chiffres consiste à reproduire une partie du tableau :
+A
+B
+C=A-B
+D
+E=C-D
+EEF
+Spiritueux
+Aliments selon les états fin.
+Boissons
+Ventes
+(cuisine)
+Ventes totales
+Ventes déclarées
+Augmen-
+tation proposée du revenu
+Augmen-
+tation du revenu selon la vérification
+Changement
+31 mai 1992
+1 107 202 $
+73 422,80 $
+58 867,80 $
+1 239 492,60 $
+1 187 975,65 $
+51 516,95 $
+272 784,00 $
+-221 267,05 $
+31 mai 1993
+926 045 $
+42 535,33 $
+44 455,60 $
+1 013 035,87 $
+961 348,45 $
+51 692,42 $
+207 435,00 $
+-155 742,58 $
+31 mai 1994
+919 328 $
+22 091,04 $
+44 455,60 $
+985 874,34 $
+928 430,06 $
+57 444,28 $
+217 649,00 $
+-160 204,72 $
+Revenu modifié
+Frais juridiques admis
+Modification du revenu net
+160 653,65 $
+697 868,00 $
+-537 214,35 $
+31 mai 1993
+-155 742,58 $
+-25 000,00 $
+-180 742,58 $
+[50] Pour illustrer la chose, je me fonderai sur le rajustement de 51 516,95 $ se rapportant à l’exercice financier qui a pris fin le 31 mai 1992. Pour cet exercice, le ministre semble avoir calculé des ventes de spiritueux s’élevant à 1 107 202 $. Cela représente les [traduction] « ventes totales prévues de 1 107 202 $ » sur le tableau qui précède.
+[51] Comme le montre la partie du tableau qui a été reproduite ci‑dessus, ce montant a été ajouté aux [traduction] « aliments » et aux [traduction] « boissons », le total s’élevant à 1 239 492,60 $. Ce chiffre a été comparé aux ventes déclarées, selon les états financiers, de 1 187 975,65 $, soit une augmentation de 51 516,95 $. Cependant, il est selon moi étrange que les ventes prévues de 1 107 202 $ qui ont été utilisées dans le calcul soient inférieures aux ventes de spiritueux de 1 114 552,85 $ déclarées dans les états financiers pour l’exercice qui a pris fin le 31 mai 1992. Pour les exercices qui ont pris fin les 31 mai 1993 et 1994, les calculs du ministre sont légèrement supérieurs (926 045 $ par opposition à 919 208 $, et 919 328 $ par opposition à 906 339 $). La différence semble être dans l’ensemble attribuable aux montants indiqués sous la rubrique [traduction] « boissons » plutôt qu’aux spiritueux.
+[52] Toutefois, étant donné que la présumée déclaration en moins des ventes de spiritueux sert de fondement à l’assertion relative à la présentation erronée des faits, il importe d’examiner la façon dont les ventes de spiritueux ont été calculées par le ministre. En premier lieu, ces calculs ont été effectués par un vérificateur antérieur, M. Adams, qui a fondé sa conclusion sur une vérification effectuée par un vérificateur provincial qui effectuait la vérification à l’égard de la taxe de vente de l’Ontario sur les spiritueux et sur la bière.
+[53] Les tableaux que l’intimée a produits constituent du double ouï‑dire. À la page 651 de la transcription figurent les propos suivants :
+[traduction]
+LE JUGE BOWMAN : Eh bien, savez‑vous comment le vérificateur provincial est arrivé à ses conclusions? Suit‑il la même méthode que celle que vous avez employée?
+LE TÉMOIN : Non, cela fait partie du problème. Sa méthode est légèrement différente. Parfois, je ne comprends pas pourquoi cela est fait de la façon dont cela est fait. La méthode est parfois la même, et elle est parfois différente.
+L’autre problème est qu’il a obtenu les renseignements directement des magasins de bière Brewers Retail et de la LCBO. Or, la fin de leur exercice est différente de celle d’Airport Strip. Je crois que ses calculs sont donc basés sur la fin de l’exercice de la LCBO et des magasins Brewers Retail.
+[54] À cette étape-ci, rappelons-nous ce que la Cour est censée tenter de faire ici. Je suis censé tenter de décider si l’on a présenté une preuve prima facie tendant à montrer que l’appelante, 943, a effectué une présentation erronée des faits, par négligence ou inattention ou encore par suite d’une fraude, de sorte que le ministre peut établir une nouvelle cotisation après la période normale.
+[55] Il s’agit de savoir si je peux trancher la question sur la base de la preuve mise à ma disposition, telle qu’elle est énoncée ci‑dessus, en utilisant une norme civile de preuve. La preuve semble constituer du ouï‑dire ou du double ouï‑dire, de sorte qu’elle serait exclue, mais supposons que je sois prêt à élargir la portée des règles du ouï‑dire, cela suffirait‑il pour établir une preuve prima facie de présentation erronée des faits? Nous connaissons tous la règle habituelle, à savoir que la question de l’absence de preuve est une question de droit, alors que la question de la suffisance de la preuve est une question de fait. Ce principe est peut‑être encore plus pertinent lorsque le procès a lieu devant un juge avec jury. En pareil cas, les fonctions de chacun sont différentes. En l’espèce, je pourrais dire qu’il n’y a pas de preuve de présentation erronée des faits, mais je préfère dire que je préférerais entendre les arguments des avocats au sujet de la question de savoir s’il existe suffisamment d’éléments pour établir une preuve prima facie.
+[56] Il y a d’autres problèmes. Pour une partie de la période en question, les chiffres provinciaux ont été utilisés et pour une partie de la période, lorsqu’ils n’avaient pas à leur disposition les chiffres provinciaux, ils ont simplement calculé au prorata les chiffres provinciaux. Or, cela n’a pas pour effet d’éliminer le ouï‑dire des chiffres déterminés au prorata. Cela ne fait que perpétuer le ouï‑dire et accroître son caractère peu fiable. Quoi qu’il en soit, nous avons un mélange extraordinaire de chiffres basés sur deux méthodes différentes et sur deux niveaux de ouï‑dire. Il n’y a peut‑être rien de mal à émettre des hypothèses fondées sur le ouï‑dire lorsque la charge de la preuve incombe au contribuable, mais dans ce cas‑ci la Couronne a la charge d’établir la présentation erronée des faits, et la preuve par ouï‑dire ne constitue pas une forme de preuve acceptable.
+[57] Je n’énoncerai pas en détail le contre‑interrogatoire dont M. Evans a fait l’objet de la part de Me Kutkevicius. Il établit que les chiffres de la Couronne étaient basés sur des estimations, sur des hypothèses, sur des moyennes et sur des chiffres calculés au prorata obtenus à l’aide de deux méthodes différentes. Il est difficile de voir quelle est leur valeur probante. À la page 797 de son témoignage, M. Evans convient que l’augmentation n’était pas attribuable à des calculs qu’il avait effectués. L’augmentation était basée sur les calculs effectués par M. Adams pour une partie de la période et sur les calculs effectués par le vérificateur provincial pour une autre partie de la période. Or, ni le vérificateur provincial ni M. Adams n’ont été cités pour éliminer au moins un niveau de ouï‑dire. Ils ne pouvaient pas être contre‑interrogés, de sorte que l’on peut se demander si leurs rapports peuvent être acceptés en preuve même s’ils sont par ailleurs recevables.
+[58] À la page 693, M. Evans a parlé d’un montant de 64 137,88 $ comme se rapportant [traduction] « probablement à des ventes supprimées ». J’aimerais entendre les observations des avocats au sujet de la question de savoir s’il existe quelque élément de preuve à l’appui de cette conjecture. Le montant qui, selon ce que suppose M. Evans, se rapportait à des ventes supprimées comprenait les dépôts bancaires ayant trait à des ventes conclues à l’aide de cartes de crédit et des avances que Valerie mère avait consenties à 943. De toute façon, la cotisation n’était pas fondée sur les [traduction] « ventes supprimées » qui servaient de fondement à la conjecture que M. Evans avait faite.
+[59] L’une des choses qui me frappe le plus en ce qui concerne la procédure de vérification que l’ARC a suivie se rapporte au fait que les premières cotisations dont 943 a fait l’objet ajoutaient un montant de 697 868 $ au revenu de la société et aux fournitures taxables. Le deuxième ensemble de cotisations, qui est à l’origine des présents appels, avait pour effet de réduire le montant ajouté d’un montant de 537 214,36 $ et de le ramener au montant de 160 653,65 $, pour les trois années qui ont pris fin les 31 mai 1992, 1993 et 1994. L’augmentation de 697 868 $ avait été obtenue par la méthode de la marge brute (les achats multipliés par un prix de vente moyen).
+[60] À la page 818 du témoignage de M. Evans, il est clair – comme le montrait également clairement son témoignage antérieur –, en ce qui concerne tous les paiements que 943 a faits à Valerie mère et tous les paiements que Valerie mère a faits à 943, qu’aucun de ces montants n’a été imposé entre les mains de Valerie mère. De fait, personne ne s’est demandé si, entre Valerie mère et 943, il y avait un crédit net ou un débit net. Dans son témoignage, Valerie mère a déclaré que 943 lui devait toujours plus que ce que 943 lui versait.
+[61] Lors de l’examen des paiements effectués entre Valerie mère et 943, les propos suivants ont été échangés entre M. Evans et la Cour :
+[traduction]
+LE JUGE BOWMAN : La façon dont vous avez calculé l’argent pour lequel elle a été imposée, cela venait‑il de ces [...]
+LE TÉMOIN : Non.
+LE JUGE BOWMAN : Non.
+LE TÉMOIN : Cela ne venait pas de là. Cela venait du calcul de la marge brute.
+LE JUGE BOWMAN: De sorte que l’on a supposé qu’il y avait un calcul de la marge brute qui entraînait un revenu supprimé par la société et qu’elle était également imposable à l’égard du revenu supprimé de la société, n’est‑ce pas?
+LE TÉMOIN : Oui.
+LE JUGE BOWMAN : De sorte que l’hypothèse doit avoir été qu’elle avait obtenu de la société – je n’emploierai pas le mot « attribution » -- qu’elle a obtenu de la société un montant égal à la marge brute excédentaire?
+LE TÉMOIN : Eh bien, je crois fondamentalement – oui, vous avez raison.
+LE JUGE BOWMAN : Ce ne sont donc pas les chiffres que nous avons ici qui servent de fondement à la cotisation?
+LE TÉMOIN : Non.
+[62] En d’autres termes, le montant pour lequel Valerie mère a fait l’objet d’une cotisation était précisément le montant du présumé revenu supprimé de 943 pour les années 1992, 1993 et 1994, non pas, du moins selon les plaidoyers et les arguments, en sa qualité d’actionnaire ou en sa qualité d’employée, mais uniquement en vertu de l’article 246. Je ne sais vraiment pas pourquoi on a consacré autant de temps aux paiements transmis entre Valerie mère et 943, alors qu’ils ne servaient pas de fondement aux cotisations.
+[63] Le dernier témoin était M. Bruce Reddeford, agent principal des appels à l’ARC. M. Reddeford a témoigné que les cotisations concernant l’année 2001 qui avaient été établies à l’encontre de 943, de Valerie mère et de Valerie fille étaient fondées :
+a) dans le cas de 943, sur de présumées ventes supprimées de 697 868 $;
+b) dans le cas de Valerie fille, sur le même montant de présumées ventes de 943;
+c) dans le cas de Valerie mère, sur l’actif net.
+[64] Les cotisations du deuxième groupe, celles qui sont en cause dans les présents appels, ont été établies après que des oppositions eurent été présentées. Lorsque M. Reddeford a témoigné, il y a eu énormément de discussions entre la Cour et l’avocat de l’intimée au sujet de la mesure dans laquelle les discussions qui avaient eu lieu sous toutes réserves entre l’avocat de l’appelante et les représentants de l’ARC en vue d’un règlement (qui, en fin de compte, ne s’est pas concrétisé) pouvaient être produites en preuve. Je conclus que ces discussions ont eu lieu sous toutes réserves et qu’elles ne sont donc pas recevables.
+[65] La question se résume à ceci. Maintenant que j’ai eu l’occasion d’examiner les volumineuses transcriptions et la preuve documentaire, je crois que l’avocat des appelantes devrait avoir la possibilité de dire à la Cour s’il a l’intention de s’abstenir de soumettre une preuve puisque la Couronne n’a pas présenté de preuve, ou s’il a l’intention de plaider l’insuffisance de la preuve et de soumettre une preuve. J’ai déjà indiqué ci‑dessus les points sur lesquels j’aimerais avoir des arguments, mais il peut y avoir d’autres points dont l’avocat voudra traiter. J’aimerais également entendre les arguments de l’avocat au sujet de la question de savoir si une cotisation d’actif net peut être conforme au paragraphe 152(4.01).
+[66] Les parties devront communiquer avec la Cour afin de fixer une date pour soumettre des arguments sur ces points.
+Signé à Ottawa, Canada, ce 30e jour de mai 2007.
+« D.G.H. Bowman »
+Juge en chef D.G.H. Bowman
+Traduction certifiée conforme
+ce 22e jour d’août 2007
+Johanne Brassard, trad. a.
+RÉFÉRENCE : 2007CCI294
+Nos DES DOSSIERS DE LA COUR : 2003-2350(GST)G
+2003-3536(IT)G
+INTITULÉ : 943372 Ontario Inc. et
+Valerie Chandelle
+c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Du 26 au 30 juin 2006 et les 5, 6 et 13 octobre 2006
+MOTIFS DE LA REQUÊTE : L’honorable juge en chef D.G.H. Bowman
+DATE DE LA DÉCISION
+RELATIVE À LA REQUÊTE : Le 30 mai 2007
+COMPARUTIONS :
+Avocat des appelantes :
+Me John Kutkevicius
+Avocats de l’intimée :
+Me Peter Vita, c.r.
+Me Jenny Mboutsiadis
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelantes :
+Nom : Kutkevicius Kirsh, LLP
+Avocats
+Cabinet : 67, rue Yonge, bureau 1200
+Toronto (Ontario) M5E 1J8
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] C’est l’opinion traditionnelle courante. Il en existe cependant une autre qui semble obtenir une certaine faveur, a savoir que suivre cette règle de façon rigide ne sert aucune fin utile et que la partie qui demande le non-lieu a le droit de voir le juge décider s’il existe des éléments de preuve, et si la requête est rejetée, il est dans l’intérêt de la justice qu’il ne soit pas interdit à cette partie de présenter des éléments de preuve. Cette façon de voir n’est pas sans bien-fondé et il serait certainement loisible au juge de première instance de l’adopter.

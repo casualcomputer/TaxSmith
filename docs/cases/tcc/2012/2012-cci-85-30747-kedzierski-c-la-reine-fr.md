@@ -1,0 +1,162 @@
+---
+title: "Kedzierski c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30747/index.do"
+last_modified: "2012-03-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 85"
+citation2: ""
+neutral_citation: "2012 CCI 85"
+decision_date: "2012-03-15"
+language: "fr"
+item_id: "30747"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7483
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:44:56.258000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9c32d6768c25f7be0bec86f502be87f4cc00612a8cb9bdb6ccf205a9530a7a52"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kedzierski c. La Reine
+
+- Citation: 2012 CCI 85
+- Decision date: 2012-03-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7483, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kedzierski c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-03-15
+Référence neutre
+2012 CCI 85
+Numéro de dossier
+2010-2509(GST)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossiers : 2010-2509(GST)I
+2010-2510(GST)I
+ENTRE :
+ZENON KEDZIERSKI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu les 7 et 10 février 2012, à Ottawa (Ontario).
+Devant : L’honorable juge J.M. Woods
+Comparutions :
+Représentant de l’appelant :
+M. Robert Kedzierski
+Avocat de l’intimée :
+Me Christopher Kitchen
+____________________________________________________________________
+JUGEMENT
+L’appel relatif à des cotisations établies en vertu de la Loi sur la taxe d’accise pour des périodes comprises entre le 17 janvier et le 31 décembre 2005 est accueilli, et les cotisations sont renvoyées au ministre du Revenu national pour nouvel examen et nouvelles cotisations en tenant compte du fait que :
+a) pour la période du 17 janvier au 31 mars 2005, des crédits de taxe sur les intrants additionnels de 1 137 $ doivent être admis,
+b) pour la période du 1er avril au 30 juin 2005, des crédits de taxe sur les intrants additionnels de 453,59 $ doivent être admis,
+c) pour la période du 1er juillet au 30 septembre 2005, la taxe sur les produits et services à percevoir doit être réduite de 355 $,
+d) pour la période du 1er octobre au 31 décembre 2005, la taxe sur les produits et services à percevoir doit être réduite de 500 $.
+Chaque partie assumera ses propres frais.
+Signé à Ottawa (Ontario), ce 15e jour de mars 2012.
+« J.M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 2e jour de mai 2012.
+Marie-Christine Gervais
+Référence : 2012 CCI 85
+Date : 20120315
+Dossiers : 2010-2509(GST)I
+2010-2510(GST)I
+ENTRE :
+ZENON KEDZIERSKI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] Zenon Kedzierski possède une entreprise de pièces de motocyclette qui est exploitée sous forme d’entreprise individuelle. L’activité principale de l’entreprise consiste à acheter des motocyclettes pour récupérer les pièces et les vendre.
+[2] Le présent appel concerne quatre cotisations de taxe nette établies en vertu de la Loi sur la taxe d’accise (la « Loi ») pour l’année 2005, qui correspond à la première année d’exploitation de l’entreprise. Les cotisations visent chaque trimestre de 2005.
+[3] Selon la réponse produite par l’intimée, le total de la taxe nette exigible pour 2005 s’élève à 5 696,84 $. À la suite de deux concessions faites par l’intimée à l’audience, la taxe nette exigible, comme le soutient maintenant l’intimée, s’élève à 4 743,25 $. Les montants concédés sont de 453,59 $ pour le deuxième trimestre et de 500 $ pour le quatrième trimestre.
+[4] À l’audience, l’appelant a produit en preuve des déclarations de taxe sur les produits et services (la « TPS ») dans lesquelles des remboursements sont demandés pour chaque période et totalisent environ 14 770 $.
+[5] D’après la thèse de l’intimée décrite plus haut et les déclarations de TPS de l’appelant produites en preuve, le montant total en litige est de 19 513,25 $.
+[6] L’appelant a été représenté à l’audience par son fils, Robert Kedzierski, qui a également témoigné pour le compte de l’appelant. Bien que l’appelant n’ait pas assisté à l’audience, l’intimée ne s’est pas opposée à cela étant donné que Robert Kedzierski possède une connaissance approfondie des opérations dont il est question.
+[7] Pour résumer les faits, il ressort clairement des éléments de preuve que l’appelant n’a pas tenu de registres comptables appropriés à partir desquels la taxe nette pouvait être déterminée correctement. Les cotisations ont donc été établies en fonction d’un examen de documents‑source.
+[8] Pour déterminer la TPS à percevoir, le vérificateur a généralement présumé que les dépôts dans le compte bancaire utilisé par l’entreprise représentaient des ventes sauf lorsqu’une explication convaincante était fournie. Pour déterminer les crédits de taxe sur les intrants (les « CTI »), le vérificateur a examiné minutieusement la documentation fournie et a refusé les montants demandés lorsque la documentation ne satisfaisait pas aux exigences des dispositions de la Loi et des règlements.
+[9] Cette méthode de détermination de la taxe nette était appropriée dans les circonstances.
+[10] À l’audience, l’appelant a présenté deux cartables de documents‑source additionnels. Bon nombre de ceux-ci n’avaient pas été examinés par l’intimée avant l’audience.
+[11] Après avoir examiné la preuve dans son ensemble, j’ai conclu qu’il convient de faire seulement deux rajustements additionnels aux montants des cotisations.
+[12] Pour le premier trimestre, un rajustement doit être fait pour augmenter les CTI de 1 137 $. Le vérificateur a refusé une facture qui étayait cette dépense. La facture représente des achats de motocyclettes d’Import Auto Sales, qui est un concessionnaire automobile appartenant à Robert Kedzierski (pièce R‑1, onglet J). M. Kedzierski a affirmé qu’Import Auto Sales avait agi à titre de partie de complaisance pour acheter les véhicules à des fins de revente à l’appelant. Il a expliqué qu’ils avaient procédé ainsi parce que l’appelant ne détenait pas les permis nécessaires pour acheter les véhicules.
+[13] Le vérificateur n’a pas été satisfait de la documentation justificative, à tout le moins en partie parce que le numéro d’inscription aux fins de la TPS du vendeur ne figurait pas sur la facture.
+[14] L’appelant a produit un autre document à l’audience pour étayer cette dépense. Il s’agit d’un formulaire des douanes indiquant qu’Import Auto Sales a importé des motocyclettes vers cette époque et a payé de la TPS à la frontière s’élevant à 1 118,71 $ (pièce A‑1, onglet 3, 4e page).
+[15] Bien que les montants ne correspondent pas, les documents additionnels étayent la prétention selon laquelle certains CTI devraient être admis à l’égard de cette opération. J’admettrai des CTI additionnels de 1137 $ pour le premier trimestre.
+[16] Le deuxième rajustement qui doit être fait consiste à réduire la TPS à percevoir pour le troisième trimestre d’un montant de 354,87 $. Ce rajustement est fondé sur de la documentation produite par l’appelant à l’audience relativement à des ventes aux États-Unis qui sont exonérées de la TPS (pièce A-2, onglet 2). La documentation justificative est loin d’être idéale, mais elle est suffisante à mon avis pour justifier un rajustement de manière à tenir compte de ventes américaines exonérées mentionnées par l’appelant de 9 788,71 $. Il s’agit d’une augmentation de 5 423,71 $ par rapport à ce que le vérificateur avait admis. La TPS à percevoir doit être réduite de 355 $ pour tenir compte de cela.
+[17] Ce sont là les seuls rajustements qui sont justifiés à mon avis. En parvenant à cette conclusion, je fais les observations suivantes.
+[18] D’abord et avant tout, si le résultat dans cet appel est sévère à l’égard de l’appelant, celui-ci ne peut s’en prendre qu’à lui-même parce qu’il a omis de tenir des documents comptables adéquats, comme l’exige la loi.
+[19] Deuxièmement, le vérificateur a eu raison à mon avis de refuser certains des documents‑source que l’appelant avait fournis. Les deux exemples suivants se rapportant au premier trimestre illustrent le problème.
+[20] En ce qui concerne les CTI pour le premier trimestre, l’appelant a fourni des documents justificatifs liés à des achats de motocyclettes de MP Cars et d’Import Auto Sales. Les documents justificatifs étaient des factures manuscrites et des reçus de pont à péage que le vérificateur a rejetés au motif qu’ils n’étaient pas fiables. Je suis d’accord avec le vérificateur. Je souligne en particulier que le numéro d’inscription aux fins de la TPS de MP Cars sur les factures est inexact et que certaines des factures concernant Import Auto Sales mentionnent des [TRADUCTION] « pièces » sans plus de précisions quant aux types de pièces achetées. Les factures ne sont pas suffisamment fiables à mon avis. Pour ce qui est des reçus de pont à péage, ils ne fournissent pas de détails relatifs aux achats.
+[21] Robert Kedzierski a affirmé que MP Cars et Import Auto Sales avaient acheté les véhicules à titre de parties de complaisance conformément à ce qui a été décrit plus haut et qu’il avait payé la TPS à la frontière pour le compte de ces sociétés. Le montant total des CTI demandés relativement à ces opérations est de 6 726,30 $ (pièce R‑1, onglet 4).
+[22] L’appelant aurait dû pouvoir produire de la documentation justificative plus fiable en rattachant les factures à des documents douaniers. Comme je l’ai mentionné précédemment, le montant de 1 137,50 $ a été admis puisque de la documentation douanière a été produite à l’audience. Les factures manuscrites qui ont été remises au vérificateur n’étaient pas suffisamment fiables.
+[23] En ce qui concerne la TPS à percevoir pour le premier trimestre, l’appelant a fourni au vérificateur trois factures manuscrites censées représenter l’ensemble des ventes du premier trimestre. On a demandé que les montants soient exonérés parce qu’ils correspondaient à des exportations.
+[24] Ces factures ne sont pas suffisamment fiables non plus. Elles sont toutes numérotées suivant un ordre séquentiel, et les montants relatifs à dix articles totalisent comme par hasard le chiffre rond de 17 000 $. Les factures ne sont tout simplement pas suffisamment fiables.
+[25] Enfin, je tiens à formuler un commentaire général concernant les documents produits par l’appelant à l’audience. Pour que ces documents justifient d’autres rajustements de la taxe nette, l’appelant doit établir que les opérations auxquelles se rapportent ces documents n’ont pas été correctement prises en compte dans les cotisations. L’appelant n’a pas réussi à me convaincre à cet égard.
+[26] En conséquence, les seuls rajustements additionnels seront les deux éléments mentionnés plus haut. L’appel sera accueilli, et les cotisations seront renvoyées au ministre du Revenu national pour que celui-ci fasse les rajustements suivants :
+a) pour le premier trimestre, des CTI additionnels de 1 137 $ doivent être admis,
+b) pour le deuxième trimestre, des CTI additionnels de 453,59 $ doivent être admis,
+c) pour le troisième trimestre, la TPS à percevoir doit être réduite de 355 $,
+d) pour le quatrième trimestre, la TPS à percevoir doit être réduite de 500 $.
+[27] Chaque partie assumera ses propres frais.
+Signé à Ottawa (Ontario) ce 15e jour de mars 2012.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 2e jour de mai 2012.
+Marie-Christine Gervais
+RÉFÉRENCE : 2012 CCI 85
+NOS DES DOSSIERS DE LA COUR : 2010-2509(GST)I et
+2010-2510(GST)I
+INTITULÉ : ZENON KEDZIERSKI c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Ottawa (Ontario)
+DATES DE L’AUDIENCE : Les 7 et 10 février 2012
+MOTIFS DU JUGEMENT : L’honorable juge J.M. Woods
+DATE DU JUGEMENT : Le 15 mars 2012
+COMPARUTIONS :
+Représentant de l’appelant :
+M. Robert Kedzierski
+Avocat de l’intimée :
+Me Christopher Kitchen
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa (Ontario)

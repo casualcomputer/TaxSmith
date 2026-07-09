@@ -1,0 +1,128 @@
+---
+title: "Lewis v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25935/index.do"
+last_modified: "2004-03-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 237"
+citation2: ""
+neutral_citation: "2004 CCI 237"
+decision_date: "2004-03-22"
+language: "fr"
+item_id: "25935"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3668
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:40:52.804000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "30d6f73a9ca092195626614460d695e154ea62ce003ce5939cae8f90b9b96911"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lewis v. The Queen
+
+- Citation: 2004 CCI 237
+- Decision date: 2004-03-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3668, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lewis v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-03-22
+Référence neutre
+2004 CCI 237
+Numéro de dossier
+2003-2033(IT)I
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-2033(IT)I
+ENTRE :
+BRYNA LEWIS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu à Ottawa (Ontario), le 17 février 2004.
+Devant : L'honorable Brent Paris, juge
+Comparutions :
+Représentante de l'appelante :
+Mme Hilary Balmer
+Avocate de l'intimée :
+Me Carole Benoit
+____________________________________________________________________
+JUGEMENT
+L'appel de la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2001 est rejeté selon les motifs de jugement ci-joints.
+Signé à Ottawa, Canada, ce 22e jour de mars 2004.
+« Brent Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 1er jour d'avril 2005.
+Jacques Deschênes, traducteur
+Référence : 2004CCI237
+Date : 20040322
+Dossier : 2003-2033(IT)I
+ENTRE :
+BRYNA LEWIS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] L'appelante interjette appel de la décision par laquelle le ministre a réduit son crédit d'impôt pour frais médicaux d'un montant de 1 286 $ pour son année d'imposition 2001. Le crédit a été réduit pour le motif que les montants que l'appelante avait dépensés à l'égard de vitamines et de suppléments hypoallergiques ne constituaient pas des frais médicaux selon la définition de la Loi de l'impôt sur le revenu.
+[2] L'appelante a témoigné qu'elle est atteinte de polysensibilité chimique, de fibromyalgie et du syndrome de fatigue chronique. Lorsqu'elle est exposée à certains produits chimiques communs, elle tombe gravement malade et peut être alitée pendant de longues périodes. La chose a eu de profondes répercussions sur sa vie et l'appelante a fait maints efforts en vue d'éliminer la contamination chimique de son environnement. Le médecin de l'appelante, qui se spécialise dans le traitement des maladies environnementales, a prescrit les vitamines hypoallergiques et les suppléments minéraux afin de rendre plus résistant son système immunitaire et de lui donner la force nécessaire pour faire face à son affection. L'appelante a acheté ces vitamines spéciales et suppléments minéraux à la clinique exploitée par son médecin (Ottawa Environmental Health Clinic Inc.).
+[3] Afin d'être admissibles au crédit d'impôt pour frais médicaux, les montants en question doivent remplir les conditions énoncées à l'alinéa 118.2(2)n) de la Loi, qui est ainsi libellé :
+(2) Pour l'application du paragraphe (1), les frais médicaux d'un particulier sont les frais payés :
+[...]
+n) pour les médicaments, les produits pharmaceutiques et les autres préparations ou substances - sauf s'ils sont déjà visés à l'alinéa k) - qui sont, d'une part, fabriqués, vendus ou offerts pour servir au diagnostic, au traitement ou à la prévention d'une maladie, d'une affection, d'un état physique anormal ou de leurs symptômes ou en vue de rétablir, de corriger ou de modifier une fonction organique et, d'autre part, achetés afin d'être utilisés par le particulier, [...], sur ordonnance d'un médecin ou d'un dentiste, et enregistrés par un pharmacien;
+[4] L'appelante a admis que les vitamines et les suppléments n'étaient pas enregistrés par un pharmacien, que l'Ottawa Environmental Health Clinic n'était pas une pharmacie et que le médecin qui a prescrit les produits n'était pas un pharmacien autorisé.
+[5] Toutefois, la représentante de l'appelante me demande d'interpréter d'une façon libérale l'expression « frais médicaux » , en particulier en ce qui concerne les médicaments et les produits pharmaceutiques. Elle a affirmé que le législateur n'a jamais voulu que la définition des frais médicaux soit interprétée strictement et que d'autres décisions de la présente cour (notamment Ray v. The Queen, [2002] 4 C.T.C. 2590) étayent une interprétation de l'alinéa 118.2(2)n) qui serait favorable à l'appelante. La représentante savait que la décision Ray avait récemment été annulée par la Cour d'appel fédérale, mais elle croyait que la décision initiale rendue par la présente cour devrait l'emporter.
+[6] La représentante de l'appelante a également mentionné un arrêt récent de la Cour suprême du Canada, Nouvelle-Écosse (Workers' Compensation Board) c. Martin, 2003 CSC 54, dans lequel il a été statué que certaines dispositions législatives en matière d'accidents du travail violaient l'article 15 de la Charte canadienne des droits et libertés. La représentante a déclaré qu'elle n'alléguait pas que l'alinéa 118.2(2)n) allait à l'encontre des droits reconnus à l'appelante par la Charte, mais la déclaration qu'elle a faite, à savoir que la disposition [TRADUCTION] « n'aurait aucune force et aucun effet si elle n'était pas conforme à la Charte » indique le contraire.
+[7] L'avocate de l'intimée s'est opposée à ce que l'appelante invoque l'argument fondé sur la Charte. Elle a fait remarquer que la question n'est pas soulevée dans l'avis d'appel et que l'appelante n'a pas signifié d'avis aux procureurs généraux provinciaux, comme l'exige l'article 57 de la Loi sur la Cour fédérale, L.R.C. 1985, ch. F-7, dans sa forme modifiée.
+[8] Il arrive souvent dans les affaires que la présente cour entend sous le régime de la procédure informelle que des arguments fondés sur la Charte soient soulevés sans qu'un avis ait été donné en vertu de l'article 57. En pareil cas, la Cour entend habituellement l'argument et si, à la suite d'un examen initial, elle estime l'argument fondé, elle ajourne l'affaire pour permettre à l'appelant de donner l'avis prévu à l'article 57 (voir : Cavalier v. The Queen [2002] 1 C.T.C. 2001).
+[9] Je ne suis pas convaincu que l'appelante ait établi que l'alinéa 118.2(2)n) de la Loi de l'impôt sur le revenu porte atteinte au droit à l'égalité qui lui est reconnu à l'article 15 de la Charte.
+[10] Le paragraphe 15(1) de la Charte est rédigé comme suit :
+La loi ne fait acception de personne et s'applique également à tous, et tous ont droit à la même protection et au même bénéfice de la loi, indépendamment de toute discrimination, notamment des discriminations fondées sur la race, l'origine nationale ou ethnique, la couleur, la religion, le sexe, l'âge ou les déficiences mentales ou physiques.
+[11] Dans l'arrêt Lawc. Canada (Ministre de l'Emploi et de l'Immigration), [1999] 1 R.C.S. 497 (C.S.C.), la Cour suprême du Canada a énoncé les lignes directrices suivantes à appliquer pour décider s'il a été porté atteinte au paragraphe 15(1) de la Charte :
+1. La loi en question impose-t-elle une différence de traitement à l'appelant en raison des caractéristiques personnelles de l'appelant ou omet-elle de tenir compte de la situation défavorisée dans laquelle l'appelant se trouve dans la société, créant ainsi une différence de traitement en raison de caractéristiques personnelles?
+2. L'appelant fait-il l'objet d'une différence de traitement fondée sur les motifs énumérés dans la Charte (race, origine nationale ou ethnique, couleur, religion, sexe, âge ou déficiences mentales ou physiques) ou des motifs analogues?
+3. La différence de traitement est-elle discriminatoire en ce qu'elle impose un fardeau à l'appelant ou le prive d'un avantage d'une manière qui a pour effet de promouvoir (au moyen de stéréotypes ou autrement) l'opinion que l'appelant est moins capable ou est moins digne d'être reconnu ou valorisé en tant qu'être humain qui mérite le même intérêt, le même respect et la même considération?
+[12] Même si cela n'a pas été clairement énoncé, la position de l'appelante semble être que son état de santé était à l'origine de la discrimination perçue dans ce cas-ci. Toutefois, la disposition en question de la Loi n'établit pas de distinction entre l'appelante et d'autres personnes sur cette base; elle établit uniquement une distinction compte tenu du type de médicament qui est acheté. Un médicament qui est entre autres enregistré par un pharmacien est admissible au titre des frais médicaux, alors qu'un médicament qui n'est pas ainsi enregistré ne l'est pas. La restriction n'est pas fondée sur une caractéristique personnelle de l'appelante; tout contribuable doit satisfaire aux mêmes exigences pour que ses frais soient admissibles à titre de frais médicaux. L'appelante ne satisfait donc pas au critère préliminaire qui s'applique lorsqu'il s'agit de démontrer que l'alinéa 118.2(2)n) de la Loi enfreint le droit à l'égalité qui lui est reconnu par la Charte.
+[13] En outre, il ressort clairement de la décision rendue par la Cour d'appel fédérale dans l'affaire La Reine c. Ray [2004] CAF 1 qu'il faut donner effet aux mots « enregistrés par un pharmacien » en appliquant la définition des frais médicaux figurant à l'alinéa 118.2(2)n). Dans cet arrêt, la Cour a dit ce qui suit :
+À mon avis, il est raisonnable d'inférer que l'exigence relative à l'enregistrement figurant à l'alinéa 118.2(2)n) vise à assurer qu'un allégement fiscal ne soit pas accordé pour le coût de médicaments achetés en vente libre. Il existe partout au Canada des lois qui régissent la pratique dans le domaine pharmaceutique. Les lois ne sont pas les mêmes dans chaque province et dans chaque territoire, mais elles comportent des éléments communs. En général, elles interdisent au pharmacien de délivrer certains médicaments sans ordonnance médicale et elles décrivent les documents qu'un pharmacien doit rédiger pour les médicaments d'ordonnance, y compris les renseignements qui identifient la personne qui prescrit le médicament et le patient. Il n'est pas établi que les pharmaciens, où que ce soit au Canada, soient obligés de rédiger pareils documents pour les substances ici en cause.
+[...]
+Je ne crois pas non plus qu'il soit pertinent, aux fins de l'interprétation de l'alinéa 118.2(2)n), qu'un médecin puisse délivrer des médicaments d'ordonnance, et même les vendre, sans enfreindre une loi applicable aux pharmaciens. Il semble qu'un patient qui achète des médicaments d'ordonnance auprès d'un médecin n'ait pas droit à un crédit d'impôt pour frais médicaux parce qu'il n'existerait aucun enregistrement effectué par un pharmacien : voir Dunn, précité. Certains peuvent estimer que cela constitue un résultat inéquitable ou inapproprié. C'est peut-être vrai, mais cela ne saurait justifier une interprétation de l'alinéa 118.2(2)n) qui ne tient pas compte des mots « enregistrés par un pharmacien » .
+[14] Malheureusement, en l'espèce la preuve démontre que les vitamines et les suppléments que le médecin a prescrits à l'appelante n'ont pas été enregistrés par un pharmacien. Par conséquent, les montants que l'appelante a dépensés à l'égard de ces articles ne sont pas admissibles à titre de frais médicaux en vertu de la Loi de l'impôt sur le revenu et l'appel doit être rejeté.
+Signé à Ottawa, Canada, ce 22e jour de mars 2004
+« Brent Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 1er jour d'avril 2005.
+Jacques Deschênes, traducteur

@@ -1,0 +1,227 @@
+Title: Gobeil v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/99962/index.do
+Corpus path: corpus/cases/tcc/2014/2014-tcc-361-99962-gobeil-v-the-queen-en.md
+Document type: case_law
+Last modified: 2014-12-05
+
+# Gobeil v. The Queen
+
+- Citation: 2014 TCC 361
+- Decision date: 2014-12-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5243, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gobeil v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-12-05
+Neutral citation
+2014 TCC 361
+File numbers
+2013-2043(IT)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-2043(IT)I
+BETWEEN:
+JANINE GOBEIL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on September 19, 2014, at Québec, Quebec.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the appellant:
+Isabelle Drouin-Lessard
+Counsel for the respondent:
+Sara Jahanbakhsh
+JUDGMENT
+The appeal from reassessments made under the Income Tax Act, dated April 4, 2011, and February 28, 2013, in respect of the 2005, 2006, 2007, 2008 and 2009 taxation years is allowed, and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment in order to give effect to the concessions made by the respondent at the hearing, in accordance with the attached Reasons for Judgment. The penalties will be adjusted accordingly.
+Signed at Ottawa, Canada, this 5th day of December 2014.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+On this 19th day of January 2015
+Margarita Gorbounova, Translator
+Citation: 2014 TCC 361
+Date: 20141205
+Docket: 2013-2043(IT)I
+BETWEEN:
+JANINE GOBEIL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal under the informal procedure from reassessments made by the Minister of National Revenue (the Minister) under the Income Tax Act, R.S.C. 1985 c. 1 (5th Supp.), as amended (the Act), dated April 4, 2011, and February 28, 2013, concerning the 2005, 2006, 2007, 2008 and 2009 taxation years.
+[2] In the reassessments dated April 4, 2011, the following adjustments were made to the appellant’s tax returns:
+2005
+2006
+2007
+2008
+2009
+Unreported income
+$25,747
+$11,475
+$21,876
+$32,070
+$98,928
+Amount subject to penalty under subsection 163(2)
+$25,747
+$11,475
+$21,876
+$32,070
+$98,928
+Penalty imposed under subsection 163(2)
+$1,959.01
+$730.85
+$1,152.36
+$1,476.41
+$12,056.07
+[3] In the reassessment dated February 28, 2013, the following adjustments were made in respect of the 2008 and 2009 taxation years following the objection filed by the appellant:
+2008
+2009
+Reduction to unreported income
+$6,825
+$39,682
+Revised amount subject to penalty under subsection 163(2)
+$25,245
+$59,246
+Revised penalty under subsection 163(2)
+$915
+$5,482.88
+[4] The issues are as follows:
+(a) For the 2005 and 2006 taxation years, was the Minister authorized to reassess after the normal reassessment period?
+(b) Was the Minister justified in adding to the appellant's income the respective amounts of $25,747, $11,475, $21,876, $25,245 and $59,246 for the 2005, 2006, 2007, 2008 and 2009 taxation years?
+(c) Was the Minister justified in applying the penalty set out in subsection 163(2) of the Act to the amounts added to the appellant's income for the 2005 to 2009 taxation years inclusively?
+[5] In establishing the tax payable by the appellant, the Minister relied on the following assumptions and findings of fact as stated at paragraph 7 of the Reply to the Notice of Appeal:
+[Translation]
+(a) The appellant worked as a real estate agent in Quebec;
+(b) The appellant owned 14 condos in the Dominican Republic, which she used to rent out and which she sold during the years at issue;
+(c) The appellant rents out a rental unit, which is in the basement of her principal residence, and sometimes she rents out a room;
+(d) When filing her tax returns for the 2005, 2006, 2007, 2008 and 2009 taxation years, the appellant reported total income of $15,650, $15,562, $6,125, $5,816 and $17,313 respectively.
+(e) During the audit, an analysis by means of the deposit method made it possible to show some discrepancies between the appellant’s deposits and the income she had reported;
+(f) The Minister thus conducted an indirect verification of income using the net worth method;
+(g) Personal expenses were established by the appellant and consolidated by statements of immovable rentals, credit card statements and bank accounts.
+(h) The net worth calculations are attached hereto, making them an integral part hereof (see Appendix for details);
+(i) At the objection stage, the appellant filed new supporting documents for the amounts of $6,825 and $39,681 thus making it possible to revise the unreported income to $25,245 for the 2008 taxation year and $59,246 for the 2009 taxation year.
+[6] In imposing the penalty provided for in subsection 163(2) of the Act on the appellant, the Minister relied on the following facts set out in paragraph 8 of the Reply to the Notice of Appeal:
+[Translation]
+(a) The facts set out at paragraph 7;
+(b) The appellant adds up her income and expenses, and her accountant files the tax returns based on the information she receives from the appellant;
+(c) The appellant knew the importance of filing appropriate returns since she has been audited in previous years. Additional income was added and a penalty under subsection 163(2) of the Act had been imposed.
+(d) The adjustments are significant because they represent respectively 165%, 74%, 357%, 434% and 342% of the income initially reported by the appellant;
+(e) The income reported by the appellant is insufficient to cover her personal expenses.
+[7] The appellant testified at the hearing. She was a real estate agent for 15 years, that is, from 1979 to 1994. She first visited the Dominican Republic in 1987 after she was mandated to sell a condominium unit. She bought the condominium unit in question with her spouse and remained active in the Dominican Republic for about 20 years while still keeping her principal residence in Quebec.
+[8] In 1987, the appellant concluded a five-year contract for the administration of a building complex comprising 27 condominium units, built by people from Quebec. To obtain the management contract, the appellant apparently agreed to pay $400,000 in instalments spread out over five years. During the first year of operating the complex, the appellant's gross income was only $25,000, which was clearly insufficient. To maximize the return on her investment, the appellant began buying condominium units when owners put them up for sale. She allegedly bought 14 units in this way. The condo unit purchases were apparently made through a company incorporated in the Dominican Republic. No documentary evidence concerning the condo unit purchases was filed at the hearing. The appellant filed no title registrations for the condo units in the company's name, no financial statements for the company, no minute book for the company, no bank account statements for the company from Scotia Bank in the Dominican Republic and no sale contract for the condo units.
+[9] According to the appellant, the condo units were all sold for $25,000 in 2003 and 2004. No documentary evidence of those sales was filed at the hearing. However, the appellant stated that there was $100,000 in the company's bank account when she closed it to put the money in the bank's safety deposit box. According to the appellant, the money was brought to Canada in $10,000 instalments each time she returned to the Dominican Republic.
+[10] As the income reported by the appellant was insufficient to justify her lifestyle, the appellant was audited by Quebec tax authorities. The appellant's 1993 to 1997 taxation years were assessed following an indirect verification of the appellant's income through the net worth method. The income generated through the appellant's activities in the Dominican Republic was never reported to the Canadian and Quebec tax authorities. Following Revenu Québec's assessments, the appellant declared bankruptcy in 1998 or 1999. She was discharged from bankruptcy in 2001 following her undertaking to pay a penalty of $100,000, which she is still paying in instalments of $250 per month. The money the appellant had in the bank account in the Dominican Republic was not reported to the trustee in bankruptcy.
+[11] During the audit by the Canada Revenue Agency (CRA), the appellant filed an adjustment request concerning the 2005 taxation year, to add to her income rent of about $100 per week for a room in the basement of her residence; the tenant received room and board. In addition to the basement room, the appellant also rents out a one‑bedroom apartment in the basement of her residence. The rental income from that apartment was correctly reported by the appellant.
+[12] The appellant's accountant, Michèle Emond also testified at the hearing. She was the appellant's representative at the objection stage, and she explained that her mandate was limited at that time to determining the appellant's income. Following the adjustments made in the assessment dated February 28, 2013, Ms. Emond reviewed the appellant's assets and liabilities and indicated to the Court the duplications and expenses paid by cheques that she had traced in the net worth. Following the submissions of the appellant's accountant, the respondent agreed to make the following adjustments:
+2005
+2006
+2007
+2008
+2009
+Reduction of unreported income
+$2,143
+$8,788
+$3,954
+$3,683
+$15,965
+Revised amount subject to penalty under subsection 163(2)
+$23,604
+$2,687
+$17,922
+$21,562
+$43,281
+[13] After these adjustments, the assets and liabilities in the net worth are no longer disputed. The only issue lies therefore with the appellant's personal expenses.
+[14] Marie-Josée Tardif, auditor with CRA, also testified at the hearing and she mainly revealed the following contradiction in the appellant's testimony. Contrary to the appellant's testimony, she had not sold all of her condominium units in 2003 and 2004. As part of the audit, the appellant acknowledged that in 2005 and 2006, she was still in operation and continued to rent out the condo units in the Dominican Republic. At the hearing, the appellant acknowledged that she should have reported all of her income from the Dominican Republic.
+[15] The auditor also explained that the appellant's cost of living was determined based on the appellant's initial interview questionnaire, an analysis of purchases and withdrawals made using the appellant's bank accounts and an analysis of purchases made with the appellant's credit cards. Below is a summary of the appellant's personal expenses for each of the taxation years at issue:
+2005
+2006
+2007
+2008
+2009
+Personal expenses
+$31,472.37
+$36,489.06
+$29,931.44
+$33,631.18
+$52,218.95
+[16] To help in weighing the analysis of the appellant's personal expenses, the following facts should be kept in mind:
+- The appellant was the sole owner of her residence;
+- The appellant took two trips to the Dominican Republic in 2007 to bring back $10,000 in cash.
+- The appellant owned a 10-metre motor boat named "Saxeaufun" and a 2002 Ford Taurus vehicle; and
+- The appellant owned a condominium in Florida, purchased in 2009, for $36,000, paid in cash.
+[17] During Ms. Tardif's testimony, the respondent filed the audit report, report for the re-opening of 2005 and 2006, and report on the penalty under subsection 163(2) of the Act.
+Applicable statutory provisions
+[18] The legislative provisions applicable to this appeal are as follows:
+9(1) Income. Subject to this Part, a taxpayer’s income for a taxation year from a business or property is the taxpayer’s profit from that business or property for the year.
+152(4) Assessment and reassessment [limitation period]. The Minister may at any time make an assessment, reassessment or additional assessment of tax for a taxation year, interest or penalties, if any, payable under this Part by a taxpayer or notify in writing any person by whom a return of income for a taxation year has been filed that no tax is payable for the year, except that an assessment, reassessment or additional assessment may be made after the taxpayer’s normal reassessment period in respect of the year only if
+(a) the taxpayer or person filing the return
+(i) has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return or in supplying any information under this Act, or
+152(7) Assessment not dependent on return or information. The Minister is not bound by a return or information supplied by or on behalf of a taxpayer and, in making an assessment, may, notwithstanding a return or information so supplied or if no return has been filed, assess the tax payable under this Part.
+152(8) Assessment deemed valid and binding. An assessment shall, subject to being varied or vacated on an objection or appeal under this Part and subject to a reassessment, be deemed to be valid and binding notwithstanding any error, defect or omission in the assessment or in any proceeding under this Act relating thereto.
+163(2) False statements or omissions. Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a “return”) filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty of the greater of $100 and 50% of the total of
+. . .
+Analysis
+[19] The onus is on the respondent to establish for each of the statute-barred years, in this case, 2005 and 2006, that the appellant has made a misrepresentation of fact that is attributable to neglect, carelessness or wilful default and that the penalties set out in subsection 163(2) of the Act were imposed correctly for each of the taxation years at issue.
+[20] In light of the facts of this appeal, I am of the view that the respondent has discharged her burden of proof. The appellant also specifically admitted during the hearing that she had not reported, in the 2005 and 2006 taxation years, the income generated by her activities in the Dominican Republic and that she should have reported it. Because of this, the Minister was justified in making reassessments for said taxation years after the normal reassessment period and in imposing penalties for gross negligence under subsection 163(2) of the Act.
+[21] The Minister had to use the net worth method to determine the appellant's income because the appellant made various transactions in cash; her books, records and other documents were insufficient and incomplete; and she did her own bookkeeping.
+[22] The net worth calculations made by the Minister showed significant discrepancies between the appellant's reported income and the income established through the net worth method. Evidently, the income reported by the appellant, namely, $15,650, $15,564, $6,125, $5,816 and $17,313 for 2005 to 2009 respectively was clearly insufficient to meet her needs.
+[23] The net worth calculations made by the Minister were very thoroughly examined by the appellant's accountant, and, for that reason, two sets of adjustments were made to them. The only dispute that remains concerns the appellant's personal expenses.
+[24] The appellant claims that she lived on her [Translation] "old earnings" and that she had access to $100,000 in cash from her activities in the Dominican Republic.
+[25] Counsel for the respondent stated that the capital accumulated before the audit period should have appeared in the assets at the beginning of the period and that, in any case, no evidence showing the existence of the $100,000 was filed.
+[26] The amounts of personal expenses used as part of the net worth assessment seem reasonable to me in the circumstances, considering the appellant's lifestyle: residence in Quebec, condominium in Florida, pleasure craft in Quebec, etc.
+[27] The fact that adjustments were made to the appellant's net worth does not mean that the net worth was calculated incorrectly or botched. The net worth method to reconstruct the increase in a taxpayer's net assets is an alternative method whose results are sometimes imperfect but still sufficiently reliable when it is done rigorously like in this case.
+[28] With regard to the penalty under subsection 163(2) of the Act for the 2005, 2006, 2007, 2008 and 2009 taxation years, the respondent has also discharged her burden of proof. Significant discrepancies were identified between the appellant’s reported and unreported income. The appellant knew that her income was underestimated because she gave the numbers to her accountant at the end of each year so that she could prepare her income tax returns. In proceeding in that way, the appellant was negligent in not reporting all of her income. The appellant had sufficient knowledge to know that she should report all of her foreign income. The appellant was the subject of criminal proceedings because she had not reported all of her income for the 1993 to 1997 taxation years. Therefore, she knew the consequences of not reporting all of her income.
+[29] Given the concessions made by the respondent at the hearing, Ms. Gobeil's appeal is allowed and the reassessments are referred back to the Minister for reconsideration and reassessment in order to give effect to those concessions. The penalties must be adjusted accordingly.
+Signed at Ottawa, Canada, this 5th day of December 2014.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+On this 19th day of January 2015
+Margarita Gorbounova, Translator
+CITATION:
+2014 TCC 361
+COURT FILE NO:
+2013-2043(IT)I
+STYLE OF CAUSE:
+Janine Gobeil and Her Majesty the Queen
+PLACE OF HEARING:
+Québec, Quebec
+DATE OF HEARING:
+September 19, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Réal Favreau
+DATE OF JUDGMENT:
+December 5, 2014
+APPEARANCES:
+Counsel for the appellant:
+Isabelle Drouin-Lessard
+Counsel for the respondent:
+Sara Jahanbakhsh
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Isabelle Drouin-Lessard
+Firm:
+Sirois Tremblay Associée, avocats
+Québec, Quebec
+For the respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

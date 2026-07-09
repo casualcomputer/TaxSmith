@@ -1,0 +1,333 @@
+---
+title: "Henschel v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29865/index.do"
+last_modified: "2010-06-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 344"
+citation2: ""
+neutral_citation: "2010 TCC 344"
+decision_date: "2010-06-22"
+language: "en"
+item_id: "29865"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6422
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:13:55.518000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b3ad2367498350df6873d8ebb47a5f2c09675b96b316b235e95814dc64c86930"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Henschel v. The Queen
+
+- Citation: 2010 TCC 344
+- Decision date: 2010-06-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6422, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Henschel v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-06-22
+Neutral citation
+2010 TCC 344
+File numbers
+2009-3133(IT)I
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-3133(IT)I
+BETWEEN:
+WARREN A. HENSCHEL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 20, 2010, at Edmonton, Alberta.
+Before: The Honourable Justice Paul Bédard
+Appearances:
+For the Appellant:
+Agent for the Appellant:
+The Appellant himself
+Marcy Henschel
+Counsel for the Respondent:
+Adam Gotfried
+Marla Teeling (Observer)
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment for the 2007 taxation year made under the Income Tax Act is allowed only to the extent of including in the calculation of the allowable medical expenses for that year an additional amount of $2,194.68, and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 22nd day of June 2010.
+"Paul Bédard"
+Bédard J.
+Citation: 2010 TCC 344
+Date: 20100622
+Docket: 2009-3133(IT)I
+BETWEEN:
+WARREN A. HENSCHEL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bédard J.
+[1] This appeal under the informal procedure was heard at Edmonton, Alberta, on May 20, 2010. The Appellant and his wife were the only witnesses.
+[2] Paragraphs 4 to 15 inclusive of the Reply to the Notice of Appeal outline the matters in dispute. Those paragraphs read as follows:
+a. On filing his income tax return for the 2007 year the Appellant claimed, among other things, in the calculation of non-refundable tax credits and tax payable, medical expenses of $90,010.00.
+b. By letter dated July 16, 2008, the Appellant advised the Minister of National Revenue, (the "Minister") that he was amending his claim for medical expenses from $90,010.00 to $87,156.52.
+c. The Appellant's 2007 income tax return was initially assessed October 14, 2008 and the medical expenses were reduced from $90,010.00 to $71,979.00.
+d. On January 4, 2009, the Appellant served on the Minister a Notice of Objection to the assessment of tax for the 2007 year.
+e. By letter dated May 16, 2009, the Appellant advised the Minister that he wanted the following categories of medical expenses to be reconsidered:
+Category
+Amount
+Bliss Symbol Boards and Accessories
+$2,777.32
+Training
+$2,519.32
+Therapy
+$3,619.59
+New Receipts Found
+$4,886.21
+Beds
+$2,830.76
+f. In response to the Notice of Objection, the Minister reassessed the tax of the Appellant by Notice of Reassessment dated June 26, 2009. In reassessing, the Minister allowed medical expenses of $5,163.00, increasing the medical expenses allowed from $71,979.00 to $77,142.00. A summary of the amounts set out in the Appellant's May 16, 2009 letter that were allowed and not allowed is as follows:
+Appellant's Category
+Amount
+Allowed
+Not Allowed
+Bliss Symbol Boards and Accessories
+$2,777.32
+* $2,499.95
+$277.37
+Training
+$2,519.32
+0.00
+$2,519.32
+Therapy
+$3,619.59
+0.00
+$3,619.59
+New Receipts Found
+$4,886.21
+$3,751.46
+$1,134.75
+Beds
+$2,830.76
+0.00
+$2,830.76
+*$1,088.84 of this amount had been allowed on initial assessing
+g. In determining the Appellant's tax liability for the 2007 year, the Minister made the following assumptions of fact:
+i. the Appellant is the father of two children, A and C; (admitted)
+ii. A and C were born in October 2002; (admitted)
+iii. the Appellant claimed medical expenses for the 2007 year for the twelve month period January 1, 2007 to December 31, 2007; (admitted)
+iv. the Appellant claimed as a medical expense amounts in respect of Bliss Symbol Boards and accessories of $2,777.32; (admitted)
+v. included in the amounts in respect of Bliss Symbol Boards and accessories were the following: (admitted)
+2008 Receipt-Staples
+$123.01
+Digital Camera
+$146.27
+Photo Developing
+$ 8.09
+Total
+$277.37
+vi. an amount for $123.01 included in the claim for Bliss Symbol Boards and accessories was not incurred in the period January 1, 2007 to December 31, 2007; (admitted)
+vii. the digital camera is not a device prescribed by a medical practitioner; (denied)
+viii. the digital camera is not a prescribed medical device or equipment; (denied)
+ix. the cost of the digital camera and photo developing are not eligible medical expenses; (denied)
+x. the amount claimed for training of $2,519.32 was made up of the following: (admitted)
+2008 Receipt
+$378.74
+2006 Receipt
+$37.75
+2006 Receipt
+$59.95
+Undated
+$30.00
+Books/Magazines/DVD's
+$2,012.88
+Total
+$2,519.32
+xi. amounts for training of $506.44 were not incurred in the period January 1, 2007 to December 31, 2007; (admitted)
+xii. an amount claimed for training of $2,012.88 was in respect of various books, cookbooks, magazines and DVD's; (conceded)
+xiii. the amount claimed for training of $2,012.88 in respect of various books, cookbooks, magazines and DVD's are [sic] not eligible medical expenses; (stricken)
+xiv. the amount claimed for therapy was made up of the following: (admitted)
+2008 Receipt
+$100.58
+2008 Receipt
+$105.85
+2006 Receipt
+$21.17
+2006 Receipt
+$40.40
+2006 Receipt
+$105.94
+2006 Receipt
+$8.27
+Undated
+$94.90
+DVD's/Videos/Toys/etc
+$3,142.48
+Total
+$3,619.59
+xv. amounts for therapy of $477.11 were not incurred in the period January 1, 2007 to December 31, 2007; (admitted)
+xvi. an amount claimed for therapy of $3,142.48 was in respect of various DVD's, toys videos and related items; (admitted)
+xvii. the amount claimed for therapy of $3,142.48 in respect of various DVD's, toys, videos and related items were not eligible medical expenses; (denied)
+xviii. when the Notice of Objection was being reviewed, the Appellant requested that the following amounts be allowed as medical expense [sic]; (admitted)
+Magazines
+$44.00
+Books
+$137.80
+Fireplace Safety Gate
+$148.40
+Therapy
+$754.55
+Parking
+$50.00
+Total
+$1,134.75
+xix. the magazines and the books set out in subparagraph 10(r) above are not eligible medical expenses; (stricken)
+xx. the fireplace safety gate does not relate to a renovation or alteration of a dwelling; (denied)
+xxi. the amount claimed for therapy in subparagraph 10(r) above included the purchase of toys and a tabletop easel; (denied)
+xxii. the amount claimed for therapy in subparagraph 10(r) above are [sic] not eligible medical expenses; (denied)
+xxiii. the amounts [sic] for parking in subparagraph 10(r) above were for parking in Edmonton; (admitted)
+xxiv. the Appellant resides in Sherwood Park, Alberta; (admitted)
+xxv. the distance between Sherwood Park and Edmonton is less than 80 kilometres; (admitted)
+xxvi. in 2007 the Appellant purchased mattresses for $2,695.38 and mattress covers for $134.15; (admitted)
+xxvii. the mattresses purchased are standard bed mattresses that have natural cotton covers and no special features; (denied)
+xxviii. the mattresses and mattress covers are not eligible medical expenses. (denied)
+C. ISSUE TO BE DECIDED
+h. The issue to be decided is whether the Appellant is entitled to medial expenses in excess of the amounts allowed by the Minister.
+D. STATUTORY PROVISIONS, GROUNDS RELIED ON AND RELIEF SOUGHT
+i. The Respondent relies on section 118.2 of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.) (the "Act") as amended for the 2007 year and on Part LVII of the Income Tax Regulations.
+j. He submits that the Minister properly assessed the amount of allowable medical expenses pursuant to section 118.2 of the Act.
+k. He further submits that:
+i. amounts that were not incurred between January 1, 2007 and December 31, 2007 do not meet the provisions of paragraph 118.2(1)(d) of the Act and have been properly excluded from the calculation of allowable medical expenses;
+ii. the purchase of a digital camera and photo developing are not prescribed devices or equipment and do not come within the provisions of paragraph 118.2(2)(m) of the Act;
+iii. there is no provision in subsection 118.2(2) of the Act that allows books, magazines, DVD's and toys as eligible medical expenses;
+iv. the amount sought for therapy were [sic] not amounts [sic] paid as remuneration for therapy provided to A and C and do not fall within the provisions of paragraph 118.2(2)(1.9) of the Act;
+v. the mattresses and mattress pads are not devices or equipment that are prescribed in Regulation 5700 of the Income Tax Regulations;
+vi. the cost of a fireplace safety gate is not a renovation or alteration of a dwelling and does not come within the provisions of paragraph 118.2(2)(1.2) or any other provision in subsection 118.2(2) of the Act; and
+vii. amounts claimed for parking are not allowable under subsection 118.2(2)(h) of the Act as the distance travelled from the Appellant's dwelling was less than 80 kilometres.
+l. The Respondent requests that the appeal be dismissed.
+[3] Assumptions 10(a), 10(b), 10(c), 10(d), 10(e) 10(f), 10(j), 10(k), 10(n), 10(o) 10(p), 10(r), 10(w) 10(x) 10(y) and 10(z) were admitted. Assumptions 10(g), 10(h), 10(i), 10(q), 10(t), 10(u), 10(v), 10(aa) and 10(bb) were denied.
+[4] I would point out immediately that the Minister of National Revenue (the "Minister") conceded at the beginning of the hearing that:
+1. the amount claimed for training of $2,012.88 (see assumptions 10(1) and 10(m)) in respect of various books, cookbooks, magazines and DVD's is an eligible medical expense;
+2. the amount of $44.00 claimed for magazines (see assumption 10(r)) is an eligible medical expense;
+3. the amount of $137.80 claimed for books (see assumption 10(r)) is an eligible medical expense.
+[5] The issues to be decided are the following:
+1. Are the amounts of $146.27 and $8.09 claimed for a "Digital Camera" and "Photo Developing" (see assumption 10(e)) medical expenses?
+2. Is the amount of $3,142.48 claimed for "DVD's/Videos/Toys/etc"(see assumption 10(n) a medical expense?
+3. Is the amount of $148.40 claimed for a "Fireplace Safety Gate" (see assumption 10(r)) a medical expense?
+4. Is the amount of $754.55 claimed for "Therapy" (see assumption 10(r)) a medical expense?
+5. Are the amounts of $2,695.38 and $134.15 claimed for "mattresses" and "mattress covers" (see assumption 10(z)) medical expenses?
+[6] The relevant provisions of the Income Tax Act (the "Act") read as follows:
+118.2(2) Medical expenses -- For the purposes of subsection (1), a medical expense of an individual is an amount paid
+(. . .)
+(h) [travel expenses] -- for reasonable travel expenses (other than expenses described in paragraph (g)) incurred in respect of the patient and, where the patient was, and has been certified by a medical practitioner to be, incapable of travelling without the assistance of an attendant, in respect of one individual who accompanied the patient, to obtain medical services in a place that is not less than 80 kilometres from the locality where the patient dwells if the circumstances described in subparagraphs (g)(iii), (iv) and (v) apply;
+(. . .)
+(l.2) [alterations to home] -- for reasonable expenses relating to renovations or alterations to a dwelling of the patient who lacks normal physical development or has a severe and prolonged mobility impairment, to enable the patient to gain access to, or to be mobile or functional within, the dwelling, provided that such expenses
+(i) are not of a type that would typically be expected to increase the value of the dwelling, and
+(ii) are of a type that would not normally be incurred by persons who have normal physical development or who do not have a severe and prolonged mobility impairment;
+(. . .)
+(l.8) [caregiver training] -- for reasonable expenses (other than amounts paid to a person who was at the time of the payment the individual's spouse or common-law partner or a person under 18 years of age) to train the individual, or a person related to the individual, if the training relates to the mental or physical infirmity of a person who
+(i) is related to the individual, and
+(ii) is a member of the individual's household or is dependent on the individual for support;
+(l.9) [therapy] -- as remuneration for therapy provided to the patient because of the patient's severe and prolonged impairment, if
+(i) because of the patient's impairment, an amount may be deducted under section 118.3 in computing a taxpayer's tax payable under this Part for the taxation year in which the remuneration is paid,
+(ii) the therapy is prescribed by, and administered under the general supervision of,
+(A) a medical doctor or a psychologist, in the case of mental impairment, and
+(B) a medical doctor or an occupational therapist, in the case of a physical impairment,
+(iii) at the time the remuneration is paid, the payee is neither the individual's spouse nor an individual who is under 18 years of age, and
+(iv) each receipt filed with the Minister to prove payment of the remuneration was issued by the payee and contains, where the payee is an individual, that individual's Social Insurance Number;
+(. . .)
+(m) [prescribed in regulations] -- for any device or equipment for use by the patient that
+(i) is of a prescribed kind,
+(ii) is prescribed by a medical practitioner,
+(iii) is not described in any other paragraph of this subsection, and
+(iv) meets such conditions as may be prescribed as to its use or the reason for its acquisition,
+to the extent that the amount so paid does not exceed the amount, if any, prescribed in respect of the device or equipment;
+(n) [drugs] – for
+(i) drugs, medicaments or other preparations or substances (other than those described in paragraph (k))
+(A) that are manufactured, sold or represented for use in the diagnosis, treatment or prevention of a disease, disorder or abnormal physical state, or its symptoms, or in restoring, correcting or modifying an organic function,
+(B) that can lawfully be acquired for use by the patient only if prescribed by a medical practitioner or dentist, and
+(C) the purchase of which is recorded by a pharmacist, or
+(ii) drugs, medicaments or other preparations or substances that are prescribed by regulation;
+5700. For the purposes of paragraph 118.2(2)(m) of the Act, a device or equipment is prescribed if it is a
+(. . .)
+(c) device or equipment, including a replacement part, designed exclusively for use by an individual suffering from a severe chronic respiratory ailment or a severe chronic immune system disregulation, but not including an air conditioner, humidifier, dehumidifier, heat pump or heat or air exchanger;
+(. . .)
+(h) hospital bed including such attachments thereto as may have been included in a prescription therefor;
+(. . .)
+(x) Bliss symbol board, or similar device, designed to be used to help an individual who has a speech impairment communicate by selecting the symbols or spelling out words.
+Mattresses and mattress covers
+[7] The Appellant's wife, whose testimony was credible and very emotional, explained that their two sons were both diagnosed with severe autism and also have many other severe health and medical problems, such as severely compromised immune systems. She explained that since their two sons were very susceptible to environmental toxins, bacteria, viruses, dust mites, mould, et cetera, her husband bought for their sons non‑allergenic mattresses and mattress covers in order to protect their health. In other words, she said that sleeping on a regular mattress that harbours toxins, bacteria, mould and dust mites could have affected their health further. I would point out immediately that the Appellant admitted that the mattresses and mattress covers were not hospital beds. However, she submitted that they were medical devices prescribed by a medical practitioner.
+[8] Section 5700 of the Income Tax Regulations (the "Regulations") provides that, for the purposes of paragraph 118.2(2)(m) of the Act, a device or equipment is prescribed if it falls within one of the numerous paragraphs of that section. Those paragraphs include such things as wigs, needles, air or water purifiers, hospital beds and orthopaedic shoes. Nothing in section 5700 would appear to relate to non‑allergenic mattresses and mattress covers. Accordingly, no relief can be given under paragraph 118.2(2)(m). There is no other provision in the Act and Regulations that could be of assistance to the Appellant.
+Fireplace Safety Gate
+[9] The evidence established that the fireplace safety gate was designed to protect all children and not necessarily children diagnosed with autism. The evidence also revealed that the device could be purchased at any hardware store.
+[10] Subparagraphs 118.2(2)(l.2)(i) and (ii) of the Act require, in order for an expense relating to renovations or alterations to a dwelling to qualify for a medical expense tax credit, that it not be of a type that would typically be expected to increase the value of the dwelling, and that it be of a type that would not normally be incurred by persons who have normal physical development or who do not have a severe and prolonged mobility impairment. Both these conditions must be met if an expense is to be deductible. Here, I am of the opinion that the second condition is not met since the device in question was designed also to protect normal children. Accordingly, no relief can be given under paragraph 118.2(2)(1.2).
+[11] As stated earlier, section 5700 of the Regulations provides that, for the purposes of paragraph 118.2(2)(m) of the Act, a device or equipment is prescribed if it falls within one of the numerous paragraphs of that section. Nothing in section 5700 relates to fireplace safety gates. Accordingly, no relief can be given under paragraph 118.2(2)(m). Moreover, such a device was not been prescribed by a medical practitioner. There is no other provision in the Act and the Regulations that could be of assistance to the Appellant.
+Digital camera and photo developing
+[12] The Appellant's wife explained that her husband purchased the digital camera (and incurred photo developing expenses) primarily in order to make Bliss symbol boards. She argued that the digital camera is a prescribed device or prescribed equipment since it falls within paragraph 5700 of the Regulations. She submitted essentially that the digital camera was necessary for making Bliss symbol boards.
+[13] I am of the opinion that a digital camera is not a Bliss symbol board, or similar device, designed to be used to help an individual who has a speech impairment communicate by selecting the symbols or spelling out words. I am further of the opinion that a digital camera is a device primarily designed to take photos. The words "Bliss symbol board" or "similar device" as used in paragraph 5700(x) of the Regulations mean something other than a digital camera, and if Parliament has used different words from "digital camera" they presumably mean something different. I would also point out that the Appellant filed no documentary evidence showing that a medical practitioner had prescribed such a device. Accordingly, no relief can be given under paragraph 5700(x). There is no other provision in the Act and Regulations that could be of assistance to the Appellant.
+Therapy expenses, DVD's, videos and related items
+[14] The Appellant's wife testified that her husband purchased in 2007 $3,142.48 worth (see assumption 10(n)) and $754.55 worth (see assumption 10(r)) of therapy‑related supplies such as a weight blanket (see Exhibit A‑5), a weight vest (see Exhibit A‑6), puzzles (see Exhibit A‑7), DVD's (see Exhibit A‑4) and lacing puzzles (Exhibit A‑8). She added that the therapists that they hired for their two children had to have such therapy‑related supplies in order to perform the therapy. She submitted that those therapy‑related expenses should be considered by virtue of paragraph 118.2(2)(1.9) of the Act as therapy expenses and consequently as medical expenses since the therapy‑related supplies were used by the therapists they had hired and since therapy was impossible without the use of those supplies.
+[15] In other words, the Appellant's argument is that the cost of those items falls within paragraph 118.2(2)(l.9) as "remuneration for therapy provided to the patient". Associate Chief Justice Bowman (as he then was) stated in a decision (Arthur Herzig v. Her Majesty the Queen, 2004 TCC 344) in which he had to interpret those words (at paragraphs 16 to 19):
+16 An interpretation of those words that is more consonant with the scheme of section 118.2 as a whole is that it refers to amounts paid to a person for rendering the service of providing therapy such as physiotherapy, massage therapy or psychological counselling.
+17 While "remuneration" may, in a broad sense, include payment for goods, the more usual use of the word is to denote a payment for services.
+18 The definition in the Oxford Canadian Dictionary of "remunerate" is:
+1 reward; pay for services rendered. 2 serve as or provide recompense for (toil etc.) or to (a person).
+Therapy can, in the same way, be broad enough to cover medicine, but if Parliament means drugs and medicaments it seems capable of saying so, as in paragraph 118.2(2)(n).
+19 Therapy as used in subsection 118.2(2) means something else and if Parliament uses a different word it presumably means something different - in this case physical or psychological therapy.
+Accordingly, no relief can be given under paragraph 118.2(2)(l.9) of the Act.
+[16] I am also of the opinion that the therapy‑related items in question do not fall within any of the numerous paragraphs of section 5700 of the Regulations. Nothing in that section relates to those items and there is no other provision in the Act and the Regulations that could be of assistance to the Appellant.
+[17] While the Appellant's case is a very deserving one, what the appellant should really be seeking is legislative change and not judicial review. Such change lies beyond the power of the judiciary.
+[18] With regard to the medical expense tax credit, Parliament has to make certain policy choices, especially in a time of budget cutting. One can only hope that Parliament will take into consideration the astronomic economic burden borne by parents of autistic children and that the Act will ultimately be amended to broaden he definition of "medical expenses".
+[19] Therefore, I conclude that the Appellant will only be allowed to include in the calculation of allowable medical expenses the amount conceded by the Minister at the beginning of the hearing (see paragraph 4 above), namely $2,194.68.
+Signed at Ottawa, Canada, this 22nd day of June 2010.
+"Paul Bédard"
+Bédard J.
+CITATION: 2010 TCC 344
+COURT FILE NO.: 2009-3133(IT)I
+STYLE OF CAUSE: WARREN A. HENSCHEL v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Edmonton, Alberta
+DATE OF HEARING: May 20, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: June 22, 2010
+APPEARANCES:
+For the Appellant:
+Agent for the Appellant:
+The Appellant himself
+Marcy Henschel
+Counsel for the Respondent:
+Adam Gotfried
+Marla Teeling (Observer)
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

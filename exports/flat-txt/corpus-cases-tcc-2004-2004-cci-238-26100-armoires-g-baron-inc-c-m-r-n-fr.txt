@@ -1,0 +1,208 @@
+Title: Armoires G. Baron Inc. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26100/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-238-26100-armoires-g-baron-inc-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2004-04-13
+
+# Armoires G. Baron Inc. c. M.R.N.
+
+- Citation: 2004 CCI 238
+- Decision date: 2004-04-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4161, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Armoires G. Baron Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-04-13
+Référence neutre
+2004 CCI 238
+Numéro de dossier
+2003-2243(EI)
+Juges et Officiers taxateurs
+Sylvio J. Savoie
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2003-2243(EI)
+ENTRE :
+ARMOIRES G. BARON INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+NICOLAS BARON,
+intervenant.
+____________________________________________________________________
+Appel entendu le 27 novembre 2003 à Québec (Québec)
+Devant : L'honorable S.J. Savoie, juge suppléant
+Comparutions :
+Représentant de l'appelante :
+Gabriel Baron
+Avocate de l'intimé :
+Me Stéphanie Côté
+Pour l'intervenant :
+L'intervenant lui-même
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le Ministre est confirmée selon les motifs du jugement ci-joint.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 13e jour d'avril 2004.
+« S.J. Savoie »
+Juge suppléant Savoie
+Référence : 2004CCI238
+Date : 20040413
+Dossier : 2003-2243(EI)
+ENTRE :
+ARMOIRES G. BARON INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+NICOLAS BARON,
+intervenant.
+MOTIFS DU JUGEMENT
+[1] Cet appel a été entendu à Québec (Québec), le 27 novembre 2003.
+[2] Il s'agit de déterminer si Nicolas Baron, le « travailleur » avait exercé un emploi assurable lorsqu'au service de l'appelante, durant la période du 1er janvier 2002 au 4 février 2003, au sens de la Loi sur l'assurance-emploi (la « Loi » ).
+[3] Le 13 janvier 2003, l'appelante demanda à un fonctionnaire autorisé de l'Agence des douanes et du revenu du Canada (ADRC) de rendre une décision concernant l'admissibilité à l'assurance-emploi de l'emploi de monsieur Nicolas Baron, le travailleur, lorsqu'il était au service de l'appelante pour la période débutant le 1er novembre 1999.
+[4] Le 4 février 2003, le fonctionnaire autorisé avisait l'appelante que l'emploi du travailleur pour son compte, pour la période du 1er janvier 2000 (sic) au 4 février 2003, était assurable en vertu de l'alinéa 5(1)a) de la Loi.
+[5] De plus, il l'avisait que, selon la Loi, une demande de décision doit être faite avant le 30 juin de l'année suivant l'année à laquelle la question est liée et que, par conséquent, il lui accordait un droit d'appel seulement pour la période du 1er janvier 2002 au 4 février 2003.
+[6] Le 18 février 2003, l'appelante en appelait auprès de la division des appels de l'ADRC de la décision d'assurabilité de l'emploi du travailleur, sans en préciser les périodes.
+[7] Le 26 février 2003, l'intimé avisait l'appelante que, considérant que la Loi ne lui accorde pas le droit d'en appeler pour la période du 1er janvier 2000 au 31 décembre 2001, il allait étudier sa demande seulement pour la période du 1er janvier 2002 au 4 février 2003.
+[8] Par lettre en date du 23 mai 2003, l'intimé informa l'appelante de sa décision, selon laquelle cet emploi était assurable, du 1er janvier 2002 au 4 février 2003, car il rencontrait les exigences d'un contrat de louage de services; il y avait donc une relation employeur-employé entre les parties.
+[9] En outre, le Ministre a informé l'appelante de sa décision selon laquelle, en dépit du lien de dépendance entre elle et le travailleur, au sens du paragraphe 251(2) de la Loi de l'impôt sur le revenu, il était raisonnable de conclure, compte tenu de la rétribution versée, de la durée de l'emploi ainsi que des modalités, la nature et l'importance du travail accompli, qu'elle aurait conclu, avec le travailleur, un contrat de travail à peu près semblable s'il n'y avait pas eu de lien de dépendance entre elle et le travailleur durant cette période.
+[10] En rendant sa décision, le Ministre s'est fondé sur les présomptions de fait suivantes lesquelles ont été admises ou niées par l'appelante :
+a) L'appelante exploite une entreprise de fabrication d'armoires de cuisine, de salles de bain et de meubles sur mesure. (admis)
+b) Gabriel Baron, père du travailleur, était l'unique actionnaire de l'appelante. (admis)
+c) Gabriel Baron contrôle les activités et prend les décisions administratives au nom de l'appelante. (admis)
+d) Le travailleur n'a jamais signé ou engagé sa responsabilité personnelle pour des prêts à l'entreprise ou autres; Gabriel Baron est le seul signataire autorisé de l'entreprise. (admis)
+e) Avant l'embauche du travailleur, M. Gabriel Baron était le seul employé de l'appelante. (admis)
+f) En 2002, l'appelante a embauché 7 employés incluant M. Gabriel Baron, le travailleur et des employés temporaires durant l'été. (nié)
+g) Les principales tâches du travailleur se résumaient ainsi : (nié)
+- Travailler à la préparation, au montage et à la finition des meubles.
+- S'occuper de la gestion de l'atelier de l'appelante.
+- Gérer les projets et superviser les employés de l'atelier.
+- Monter occasionnellement les plans et projets avec l'aide de son père.
+- Passer les commandes de matériel.
+- Faire la livraison des commandes avec les installateurs.
+- Faire la collecte des chèques auprès des clients de l'appelante.
+h) Le travailleur exerçait la majorité de ses tâches à l'atelier de l'appelante. (admis)
+i) Au début de l'année 2002, le travailleur recevait une rémunération variant entre 10 $ et 11 $ de l'heure car il complétait ses cours en ébénisterie. (admis)
+j) Au début de l'été 2002, la rémunération du travailleur est passé à 12,50 $ de l'heure et, au début de l'année 2003, à 15 $ de l'heure. (admis)
+k) Le travailleur pouvait travailler entre 30 et 50 heures par semaine mais faisait, en moyenne, 40 heures par semaine. (nié)
+l) Le travailleur était rémunéré par chèque pour 40 heures de travail par semaine. (admis)
+m) Le travailleur n'avait aucune dépense à encourir dans le cadre de son travail. (nié)
+n) Le travailleur recevait une rémunération hebdomadaire fixe et ne partageait pas les chances de profit et les risques de perte avec l'appelante. (nié)
+o) Les autres travailleurs de l'appelante étaient rémunérés entre 10 $ et 15 $ de l'heure en fonction de leur expérience. (admis)
+[11] À l'audition, l'appelante a fait entendre le témoignage du travailleur Nicolas Baron. Celui-ci a témoigné qu'avec son père, il avait participé à l'embauche des sept employés de l'appelante en 2002. Il a voulu préciser qu'avec son père il avait monté les plans et projets de fabrication de façon plus qu'occasionnelle. Il a ajouté qu'en moyenne il travaillait non pas 40 heures par semaine mais plutôt de 50 à 60.
+[12] Le travailleur n'avait aucune dépense à encourir sauf pour ses déplacements pour aller chercher le matériel nécessaire chez les fournisseurs, ce qui représentait de 15 à 30 kilomètres par semaine.
+[13] Le travailleur, dans son témoignage, a précisé que son père, dans les opérations de l'entreprise, avait le dernier mot, mais qu'il avait quand même le contrôle de ses décisions. Le travailleur confirme qu'il n'a aucun pouvoir de signature. Il décrit l'appelante comme une entreprise familiale où il n'existe aucun contrat de travail écrit. Il a ajouté que les mauvaises créances étaient subies par la compagnie qui lui fournissait tous les outils de travail.
+[14] L'appelante conteste cette décision et écrit dans une lettre d'appel à l'ADRC « que Nicolas est la relève de l'entreprise; il commence à prendre en charge des responsabilités de gestion (il gère deux employés) et est consulté lors de prise de décisions importantes [...] Nicolas reçoit des bonus selon la performance de la compagnie. » Selon les dires de l'appelante, un autre employé n'aurait pas eu les mêmes conditions de travail sans le lien de dépendance qui les unit.
+[15] Par ailleurs les faits suivants ont été recueillis par les enquêteurs et font partie du rapport de l'agent des appels qui a été produit sous la cote I-1.
+[16] Quand le travailleur fait l'installation des meubles, il est payé environ 18 $ l'heure soit selon les normes de la Commission de la construction du Québec. Le travailleur est payé par chèque et ceux-ci sont toujours faits à son nom. Le taux de rémunération est fixé par l'appelante. Le travailleur a toujours été payé pour chaque période de paye. Il a des vacances payées, soit deux semaines l'été comme les autres employés et une semaine à l'automne, en septembre. Le travailleur n'a jamais fourni des services ou accompli des tâches sans être payé.
+[17] Au début, le travailleur recevait un salaire horaire entre 8 $ et 10 $, puisqu'il suivait ses cours en ébénisterie en même temps. Depuis quelques mois, cependant, il reçoit un salaire de 15 $ l'heure.
+[18] Les jours et les heures d'ouverture de l'entreprise sont du lundi au vendredi de 7 h 30 à midi et de 13 h 00 à 16 h 30. Le travailleur est à son poste du lundi au vendredi et quelques fois en fin de semaine, il peut aller à l'atelier pour voir si tout est sous contrôle. Ses heures de travail sont de 7 h ou 7 h 15 à 16 h 45 ou 17 h. Il entre toujours un peu avant les autres employés pour pouvoir préparer les « jobs » et il ferme l'atelier à la fin de la journée. Les heures de travail ont été fixées par la compagnie et Nicolas suit ces heures, mais il arrive toujours avant l'ouverture de l'atelier et il ferme l'atelier à la fin de la journée. Les heures de travail ne sont consignées nulle part, le travailleur est toujours payé pour 40 heures par semaine. S'il lui arrive de travailler plus de 40 heures, il va en faire moins une autre semaine. La période d'emploi du travailleur n'a pas été fixée d'avance; un jour il prendra la relève de son père.
+[19] Le travailleur a suivi un cours en ébénisterie durant deux ans, de 2000 à 2002, et il a obtenu son diplôme d'études professionnelles. C'est son père qui lui a donné cette formation pratique.
+[20] Quand le père du travailleur est à l'usine, il supervise et approuve le travail du travailleur. Il dit que son fils se supervise lui-même quand il n'est pas à l'usine, ce qui lui arrive, puisque certaines semaines il peut très bien être là que deux ou trois jours puisqu'il visite souvent une salle de montre qu'il a ouverte à Québec.
+[21] L'agent des appels, dans son rapport, affirme que l'appelante pourrait mettre fin aux services du travailleur si elle manquait de travail ou s'il se produisait une fraude ou quelqu'autre incident semblable. L'équipement et les outils nécessaires au travailleur dans son travail de menuiserie sont fournis par l'appelante gratuitement et le travailleur n'engage aucune dépense dans l'exercice de ses fonctions.
+[22] C'est l'appelante qui décide si le travail doit être refait, qui fournit les matériaux, qui assume les frais de créance irrécouvrables, qui garantit la qualité des travaux effectués et qui paie les frais d'assurance-responsabilité.
+[23] L'appelante ne partage pas les chances de profit et les risques de perte avec le travailleur, mais, s'ils ont complété un bon contrat, elle peut lui donner un boni. Le travailleur est tenu de rendre les services à l'appelante personnellement.
+[24] D'autres travailleurs exercent les mêmes fonctions que celles de Nicolas Baron dans l'entreprise, mais ceux-ci ne supervisent pas. Ils sont affectés à la fabrication seulement. Selon leur expérience, ils gagnent entre 10 $ et 11 $ l'heure mais l'un d'eux gagne 15 $, parce qu'il a 20 ans d'expérience. Tous ces travailleurs sont payés par chèque et il n'y a aucune différence dans le traitement de ces autres travailleurs.
+[25] Aux enquêteurs, le travailleur a affirmé qu'il n'était pas tenu de rendre des comptes à l'appelante, puisqu'ils travaillaient tous ensemble. Il a précisé qu'il pouvait engager des aides sans le consentement de son père, mais qu'il ne pouvait les congédier sans le consentement de celui-ci. Il a ajouté qu'il avait effectivement embauché deux aides en 2002 et au début de l'année 2003, il en a embauché un autre.
+[26] Le travailleur et l'unique actionnaire de l'appelante sont des personnes liées en vertu du sous-alinéa 251(2)b)(iii) de la Loi de l'impôt sur le revenu. Des personnes liées sont réputées avoir entre elles un lien de dépendance en vertu du paragraphe 251(1) de cette même Loi.
+[27] La Loi stipule que tout emploi dans le cadre duquel l'employeur et l'employé ont un lien de dépendance est exclu des emplois assurables sauf s'il est raisonnable de conclure qu'un tel emploi existerait selon des conditions de travail similaires s'il n'y avait pas de lien de dépendance entre les parties.
+[28] Le paragraphe 5(1) de la Loi se lit en partie comme suit :
+5.(1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) l'emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d'un contrat de louage de services ou d'apprentissage exprès ou tacite, écrit ou verbal, que l'employé reçoive sa rémunération de l'employeur ou d'une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[...]
+[29] Les paragraphes 5(2) et (3) de la Loi sont libellés en partie comme suit :
+5.(2) N'est pas un emploi assurable :
+[...]
+i) l'emploi dans le cadre duquel l'employeur et l'employé ont entre eux un lien de dépendance.
+(3) Pour l'application de l'alinéa (2)i) :
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l'impôt sur le revenu;
+b) l'employeur et l'employé, lorsqu'ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu'il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d'emploi ainsi que la durée, la nature et l'importance du travail accompli, qu'ils auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+[30] L'article 251 de la Loi de l'impôt sur le revenu porte notamment ce qui suit :
+251. Lien de dépendance.
+(1) Pour l'application de la présente loi :
+a) des personnes liées sont réputées avoir entre elles un lien de dépendance;
+[...]
+(2) Définition de « personnes liées » . Pour l'application de la présente loi, sont des « personnes liées » ou des personnes liées entre elles :
+a) des particuliers unis par les liens du sang, du mariage ou de l'adoption;
+b) une société et :
+(i) une personne qui contrôle la société si cette dernière est contrôlée par une personne,
+(ii) une personne qui est membre d'un groupe lié qui contrôle la société,
+(iii) toute personne liée à une personne visée au sous-alinéa (i) ou (ii);
+[31] Le fardeau de la preuve incombe à l'appelante. Cette dernière se doit d'établir selon la prépondérance de la preuve que la décision du Ministre est mal fondée en fait et en droit. Chaque cas est un cas espèce.
+[32] L'appelante demande à cette Cour de renverser la décision rendue par le Ministre. Dans l'exercice de ce mandat, cette Cour est soumise à l'application des règles statuées par la Cour d'appel fédérale, qui les a énoncées dans les arrêts suivants : Canada (Procureur général) c. Jencan Ltd. (C.A.), [1998] 1 C.F. 187, et Massignani c. Canada (ministre du Revenu national - M.R.N.), [2003] A.C.F. no 542.
+[33] Dans ce contexte, la Cour d'appel fédérale dans l'arrêt Jencan, supra, a statué aux paragraphes 31 et 37 ce qui suit :
+L'arrêt que notre Cour a prononcé dans l'affaire Tignish, [...] exige que, lorsqu'elle est saisie d'un appel interjeté d'une décision rendue par le ministre en vertu du sous-alinéa 3(2)c)(ii), la Cour de l'impôt procède à une analyse à deux étapes. À la première étape, la Cour de l'impôt doit limiter son analyse au contrôle de la légalité de la décision du ministre. Ce n'est que lorsqu'elle conclut que l'un des motifs d'intervention est établi que la Cour de l'impôt peut examiner le bien-fondé de la décision du ministre. [...]
+[...] La Cour de l'impôt est justifiée de modifier la décision rendue par le ministre en vertu du sous-alinéa 3(2)c)(ii) - en examinant le bien-fondé de cette dernière - lorsqu'il est établi, selon le cas, que le ministre: (i) a agi de mauvaise foi ou dans un but ou un mobile illicites; (ii) n'a pas tenu compte de toutes les circonstances pertinentes, comme l'exige expressément le sous-alinéa 3(2)c)(ii); (iii) a tenu compte d'un facteur non pertinent.
+[35] Il convient également de noter ce que statuait le juge Létourneau de la Cour d'appel fédérale dans l'arrêt Massignani, supra, au paragraphe 2 :
+Premièrement, le juge suppléant a omis de considérer et de remplir le rôle qui lui était confié par la Loi sur l'assurance-chômage, S.C. 1970-71-72, ch. 48 (la "Loi"), paragraphe 3(2)c), rôle que notre Cour a précisé dans les arrêts Légaré v. Canada (1999), 246 N.R. 176 et Pérusse v. Canada (2000), 261 N.R. 150, qui ont été suivis dans Valente v. Minister of National Revenue, [2003] A.C.F. no 418, 2003 FCA 132. Ce rôle ne permet pas au juge de substituer sa discrétion à celle du ministre, mais il emporte l'obligation de "vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus et, après cette vérification, ... décider si la conclusion dont le ministre était "convaincu" paraît raisonnable" : voir Légaré, précité, à la page 179, Pérusse, précité, à la page 162.
+[36] Conformément à l'exercice prescrit à l'alinéa 5(3)b) de la Loi, il convient de déterminer si le Ministre, dans l'exercice de ce mandat a apprécié correctement les faits qu'il a retenus ou supposés en tenant compte du contexte où ils sont survenus. L'examen de l'emploi du travailleur à la lumière de l'alinéa 5(2)i) de la Loi a révélé les faits suivants : pour ce qui concerne la rétribution versée au travailleur, celle-ci, au début de la période en litige, était de 12,50 $ l'heure et à la fin de la période, soit au début de 2003, elle était de 15,00 $ l'heure et le tout était payé par chèque. À l'occasion, le travailleur recevait des bonis de l'appelante quand l'entreprise complétait un bon contrat. La preuve a révélé que ceci se produisait de une à trois reprises par année et que le montant du boni pouvait varier entre 100 $ et 150 $. Le salaire du travailleur était légèrement inférieur à la rémunération moyenne d'un ébéniste au début de la période en litige, mais à la fin de la période, il était égal à celle-ci. Le travailleur jouissait de trois semaines de vacances payées par année mais ne bénéficiait d'aucun régime d'avantages sociaux. Les autres travailleurs du payeur recevaient un salaire horaire qui variait entre 10 $ et 15 $ selon leur expérience et ils étaient tous payés par chèque. Ceux-ci avaient deux semaines de vacances payées par année et des congés durant le temps des Fêtes. Le salaire de tous les travailleurs était déterminé par l'appelante. Selon la preuve, le salaire versé au travailleur était raisonnable et selon les normes établies.
+[37] Quant aux modalités d'emploi, il a été établi que l'horaire des travailleurs était de 40 heures par semaine, mais celui du travailleur était de 50 à 60 heures par semaine. Tous les employés, incluant Nicolas Baron, le travailleur, travaillaient du lundi au vendredi et ils oeuvraient tous dans l'atelier de l'appelante.
+[38] Gabriel Baron exerçait une supervision quotidienne sur le travail de ses employés, puisqu'il travaillait avec eux et qu'il pouvait leur dire quoi faire quand la situation se présentait. Le travailleur possède les compétences requises pour occuper son emploi, puisque c'est l'actionnaire unique de l'appelante qui lui a donné la formation pratique et qu'il détient un diplôme d'études professionnelles en ébénisterie artisanale.
+[39] Concernant la durée de l'emploi, il a été établi que l'entreprise était exploitée à l'année, dans le domaine de la fabrication d'armoires de cuisine, de salles de bain et de meubles sur mesure. Avant juillet 2002, l'atelier de l'entreprise se trouvait à la résidence de l'actionnaire unique du payeur, Gabriel Baron et son fils, le travailleur, a toujours baigné dans ce domaine d'activités. À la fin de son secondaire, le travailleur a commencé à oeuvrer pour l'appelante et au cours des deux dernières années, il a pris un cours en ébénisterie pour se perfectionner. Un jour, c'est le travailleur qui prendra la relève de l'entreprise familiale. Pour ce qui concerne la nature et l'importance du travail du travailleur, la preuve a révélé que celui-ci est relié aux opérations de l'appelante et dont le chiffre d'affaires en date du 28 février 2002 était de 202 384,00 $. En 2001, l'appelante avait deux employés, incluant le travailleur, mais en 2002, elle en avait sept. Ainsi, l'entreprise prend de plus en plus d'ampleur tant au niveau des employés que de l'espace de travail. L'appelante a loué un local en juillet 2002 et a ouvert une salle de montre à Québec. Puisque le travailleur a toujours été en contact avec l'entreprise, depuis son tout jeune âge, il en connaît très bien les rouages et sa fonction est importante au sein de celle-ci. Aussi, selon la preuve, s'il n'avait pas été disponible, l'appelante aurait dû engager une autre personne pour faire ce travail.
+[40] Il faut donc conclure que même s'il n'y avait pas eu de lien de dépendance entre l'appelante et le travailleur, ils auraient sans doute conclu entre eux un contrat de travail à peu près semblable.
+[41] Il s'agit maintenant de déterminer si l'emploi du travailleur, n'étant pas exclu des emplois assurables, est véritablement un emploi assurable au sens de l'alinéa 5(1)a) de la Loi, selon les critères établis dans l'arrêt Wiebe Door Services Ltd. c. M.R.N., [1986] 3 C.F. 553 où la Cour d'appel fédérale a énuméré quatre éléments de base pour distinguer un contrat de louage de services d'un contrat d'entreprise. Ces éléments sont : a) le degré de contrôle; b) la propriété des outils; c) les chances de profit et les risques de perte; et d) le degré d'intégration de l'employé dans l'entreprise de l'employeur.
+[42] La preuve a clairement dévoilé que l'appelante possédait les outils. Le travailleur recevait un salaire régulier plus un boni selon la performance de l'entreprise; il n'y avait donc aucune chance de profit ou risque de perte pour le travailleur. Également, le travailleur était intégré dans les opérations de la compagnie, il n'était pas à son propre compte.
+[43] Dans la cause Industries J.S.P. Inc. c. Canada (ministre du Revenu national - M.R.N.), [1999] A.C.I. no 423, le juge Tardif de cette Cour en a résumé les faits, similaires à la cause sous étude, en ces termes :
+Madame Marie-Claude Perreault a témoigné, expliqué et décrit au moyen de plusieurs exemples son intérêt, son enthousiasme et son dynamisme et celui de ses frères pour les intérêts de la compagnie oeuvrant dans le domaine difficile et très compétitif de la construction de meubles.
+Se partageant des responsabilités importantes et stratégiques de l'entreprise, elle et ses frères ne négligeaient strictement rien pour le mieux-être et le développement de l'entreprise contrôlée par monsieur Jacques Perreault, détenant 1,000 actions votantes mais non participantes.
+Chacun touchait un salaire plus que raisonnable et profitait, à la fin de chaque année, d'un boni qui variait suivant les performances économiques de l'entreprise et la qualité du travail offert par les membres de la famille.
+Les décisions importantes se prenaient dans la collégialité et consensus. Chacun consacrait un minimum de 60 heures dans le cadre de ses fonctions respectives pour la compagnie.
+La prépondérance de la preuve a donc été à l'effet que les membres de la famille Perreault se dévouaient entièrement et totalement aux affaires de la compagnie. Ils y investissaient la plus grande partie de leur disponibilité (minimum 60 heures) de manière à ce que la compagnie puisse réussir dans un marché difficile où la compétition est féroce.
+Les membres de la famille concernés par la détermination occupaient des fonctions importantes et essentielles et étaient rémunérés selon un salaire probablement inférieur à celui que la compagnie aurait dû payer à des tiers pour des fonctions similaires. Cette seule réalité a fait dire et conclure au représentant de la compagnie qu'il y avait là matière à ce que les emplois en question soient exclus des emplois assurables, en vertu des dispositions de l'alinéa 3(2)c) de la Loi sur l'assurance-chômage (la "Loi").
+[...]
+Le fait de contribuer et d'être associé à la gérance, à l'administration ou au développement d'une entreprise, et tout particulièrement lorsqu'il s'agit d'une petite entreprise, fait en sorte que la description de tâches est fortement empreinte d'éléments propres et caractéristiques de celles souvent assumées par les propriétaires d'entreprise eux-mêmes ou de personnes détenant plus de 40 p. 100 des actions votantes de la compagnie dans laquelle ils ont un emploi. En d'autres termes, à ce niveau de responsabilités, la composante rétribution doit s'apprécier avec prudence au niveau d'une comparaison avec des tiers; il existe souvent des avantages qui compensent pour le salaire moindre.
+et a conclu que l'emploi exercé par les membres de cette même famille, donc ayant un lien de dépendance, n'était pas exclu des emplois assurables.
+[44] Il a été établi que l'actionnaire unique de l'appelante ne s'est jamais départi du contrôle de la compagnie. Le travailleur a témoigné que : « mon père a le dernier mot ... j'avais pas le pouvoir de signature ... »
+[45] Selon la jurisprudence, c'est le pouvoir de contrôle qui est important dans l'analyse des faits sous ce critère, non pas l'exercice du contrôle. En l'espèce, le pouvoir de contrôle se manifeste par la propriété des actions dans l'entreprise. Dans les faits, le père du travailleur détient toujours la totalité des actions.
+[46] La preuve a révélé que tous les outils de travail étaient la propriété de l'appelante. De même, il a été prouvé que le travailleur n'avait aucune chance de profit ou risque de perte, sauf qu'il pouvait recevoir des bonis selon la performance de l'entreprise. Finalement, l'emploi du travailleur faisait partie intégrante de l'entreprise et le salaire de celui-ci n'était pas un revenu de l'entreprise.
+[47] Cette Cour doit conclure que le Ministre a rendu sa décision selon les critères ci-haut mentionnés; il a exercé son pouvoir dans la légalité et conformément à la jurisprudence contenue dans les arrêts Jencan et Massignani, précités, et l'arrêt Métal Laurentide Inc. c. Canada (ministre du Revenu national - M.R.N.), [2003] A.C.I. no 263.
+[48] En conséquence, cette Cour détermine que l'emploi du travailleur, pendant la période en litige, était un emploi assurable, puisque le travailleur était lié par un contrat de louage de services à l'appelante, au sens de l'alinéa 5(1)a) de la Loi.
+[49] En outre, en dépit du lien de dépendance entre l'appelante et le travailleur, cette Cour est convaincue qu'il était raisonnable de conclure que l'appelante et le travailleur auraient conclu entre eux un contrat de travail à peu près semblable, sans l'existence de ce lien.
+[50] L'appel est rejeté et la décision rendue par le Ministre est confirmée.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 13e jour d'avril 2004.
+« S.J. Savoie »
+Juge suppléant Savoie
+RÉFÉRENCE :
+2004CCI238
+No DU DOSSIER DE LA COUR :
+2003-2243(EI)
+INTITULÉ DE LA CAUSE :
+Armoires G. Baron et M.R.N. et Nicolas Baron
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE DE L'AUDIENCE :
+Le 27 novembre 2003
+MOTIFS DE JUGEMENT PAR :
+L'honorable S.J. Savoie, juge suppléant
+DATE DU JUGEMENT :
+Le 13 avril 2004
+COMPARUTIONS :
+Représentant de l'appelante :
+Gabriel Baron
+Avocate de l'intimé :
+Me Stéphanie Côté
+Pour l'intervenant :
+L'intervenant lui-même
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelante :
+Nom :
+Étude :
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+Pour l'intervenant :
+Nom :
+Étude :

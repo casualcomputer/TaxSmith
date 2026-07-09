@@ -1,0 +1,204 @@
+---
+title: "Carreau v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25632/index.do"
+last_modified: "2004-10-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 20"
+citation2: ""
+neutral_citation: "2006 TCC 20"
+decision_date: "2004-10-20"
+language: "en"
+item_id: "25632"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2438
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:54:26.487000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "cf3573423fbee33af883c2b8f3cbbe6df4bb9924911f985733ebcef70a547172"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Carreau v. The Queen
+
+- Citation: 2006 TCC 20
+- Decision date: 2004-10-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2438, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Carreau v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-10-20
+Neutral citation
+2006 TCC 20
+File numbers
+2002-4205(IT)G
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Income Tax Act
+Decision Content
+-
+Docket: 2002-4205(IT)G
+BETWEEN:
+FRANÇOIS CARREAU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on October 20, 2004 at Montreal, Quebec
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Counsel for the Appellant:
+Sylvain Dorais
+Counsel for the Respondent:
+Simon-Nicolas Crépin
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment pursuant to section 160 of the Income Tax Act, the notice of which bears the number 24693 and is dated October 22, 2001, is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 19th day of January 2006.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 29th day of May 2006
+Monica F. Chamberlain, Reviser
+Citation: 2006TCC20
+Date: 20060119
+Docket: 2002-4205(IT)G
+BETWEEN:
+FRANÇOIS CARREAU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] By means of a Notice of Assessment dated October 22, 2001, the Minister of National Revenue (the "Minister") demanded payment from the Appellant in the amount of $29,095.27 in accordance with Section 160 of the Income Tax Act (the "Act").
+[2] The Appellant, a computer technician, formed the corporation 9043-5769 Québec Inc. ("9043") in November 1996. The Appellant was the sole shareholder, administrator and officer of 9043 during the 1998, 1999 and 2000 taxation years. During the period at issue, 9043 obtained subcontracts from only one corporation, Sodéfi Informatique Inc. ("Sodéfi"). The subcontracts obtained from Sodéfi involved only one client, Hydro-Québec ("Hydro"). During this period, the Appellant was the only employee of 9043.
+[3] The Minister determined that 9043 was a personal services business, as defined in subsection 125(7) of the Act and reassessments were issued in respect of 9043 on May 16, 2001, denying the deduction for small businesses in respect of the 1998, 1999 and 2000 taxation years:
+(i) 1998 – $ 10,316
+(ii) 1999 – $ 12,219
+(iii) 2000 – $ 1,239
+[4] On or around May 31, 2001, 9043 declared bankruptcy.
+[5] During the 1998, 1999 and 2000 taxation years, the Appellant had received dividends from 9043 totalling $56,783, $70,525 and $58,600 respectively. The Appellant had included, in calculating his income for the 1998, 1999 and 2000 taxation years, the amounts of $73,978, $88,156 and $73,250 respectively as grossed-up dividends.
+[6] The Minister held that the payment of these dividends by 9043 constituted a transfer of property within the meaning of section 160 of the Act and on October 22, 2001, he held the Appellant jointly and severally liable for paying an amount equal to the tax debt of 9043 in respect of the 1998, 1999 and 2000 taxation years; the fiscal period of the corporation ended on October 31 in each of these years.
+[7] Essentially, the Appellant is disputing the justification for these reassessments issued against 9043 on May 16, 2001, maintaining that 9043 was not a personal services business, but rather an actively operated business and that as such it was entitled to the deduction for small businesses. He also claims that he cannot be held jointly and severally liable for the unpaid tax debts of 9043 for the period at issue, since the Minister wrongly denied 9043 the deduction for small businesses in respect of the 1998, 1999 and 2000 taxation years.
+[8] The only question at issue in the instant case is the following: was 9043 a personal services business within the meaning of subsection 125(7) of the Act during the period at issue?
+[9] The relevant portion of subsection 125(7) of the Act reads as follows:
+"personal services business"
+"personal services business” carried on by a corporation in a taxation year means a business of providing services where:
+(a) an individual who performs services on behalf of the corporation – in this definition and paragraph 18(1)(p); referred to as an "incorporated employee"; or
+(b) any person related to the incorporated employee,
+is a specified shareholder of the corporation and the incorporated employee would reasonably be regarded as an officer or employee of the person or partnership to whom or to which the services were provided but for the existence of the corporation, unless:
+(c) the corporation employs in the business throughout the year more than five full-time employees, or
+…
+[10] In order to determine whether 9043 was, during the period at issue, a personal services business within the meaning of subsection 125(7) of the Act, it will be necessary to determine whether it would have been reasonable, in the instant case, to consider the incorporated Appellant an employee of Hydro, to which the services would have been provided, but for the existence of 9043.
+[11] Sodéfi, a computer services business, obtained a contract from Hydro in 1999 (the "contract") under which it undertook to provide to Hydro analysis and programming services in the "Focus" computer language. On March 23, 1999, Sodéfi and 9043 signed an agreement (the "subcontract"), under which 9043 undertook to fulfil the contact. The subcontract stipulated that 9043 was to retain the services of the Appellant to carry out the contracts that had been entrusted to it by Sodéfi. The life of the subcontract was one year. The subcontract stipulated that it would end automatically at the end of the contract, and that in that case no recourse of any kind could be exercised by 9043 in respect of virtue of the end of the subcontract. The subcontract also stipulated that, if Hydro were of the opinion that 9043 was not discharging its obligations to Hydro's full satisfaction, Sodéfi could terminate the subcontract, without notice or penalty. The subcontract that terminated on March 31, 2000, was, however, renewed several times. Under the terms of the subcontract, Sodéfi was to pay 9043 fees of $55 an hour for each hour of work performed for Hydro by the Appellant. The method of payment was as follows: Sodéfi paid 9043 for the work done by the Appellant upon receipt of a statement of account detailing the work and the actual hours worked by the Appellant for a given month. The corporation 9043 was required to submit its monthly statement of account to Sodéfi within five working days following the end of each month. Lastly, the subcontract stipulated that, to protect the position of Sodéfi with its clients, 9043 and the Appellant would not perform similar work for Hydro during the year following the end of the subcontract.
+[12] We can accordingly assert that it was 9043 that provided services to Hydro in its capacity as a subcontractor of Sodéfi. Thus, but for the existence of 9043, the Appellant would have provided services to Hydro as a subcontractor of Sodéfi. The question that must now be asked is the following: were it not for the existence of 9043, would it be reasonable to regard the Appellant as an employee of Hydro, to whom the services were rendered? In order to answer this question, we must essentially determine whether or not there was a "de facto" relationship of subordination between the Appellant and Hydro, since it can be said that, in Quebec, what fundamentally distinguishes a contractor from an employee is the absence, in the former case, of a relationship of subordination between the provider of the services and the client and the presence, in the latter case, of the right of the employer to direct and control the employee. In fact, we must remember that when the Courts are called upon to define concepts of Quebec private law for the purposes of the application of a federal law, they must comply with the rule of interpretation at section 8.1 of the Canadian Interpretation Act. Thus, in order to distinguish a contractor from an employee, there is a requirement, at least, there has been since June 1, 2001, to base the decision on the relevant provisions of the Civil Code of Quebec (C.C.Q.). These rules are incompatible with the rules set out in such decisions as Wiebe Door Services Ltd. v. M.N.R., [1986] 3 F.C. 553, and 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] 2 S.C.R. 983. Contrary to the situation under common law, the constituent elements of contracts of employment have been codified and since the entry into force of article 2085 C.C.Q. and article 2099 C.C.Q., on January 1, 1994, the courts no longer have the latitude that the common-law courts have to define what constitutes a contract of employment or a contract of enterprise or service. If it is necessary to base ourselves on the case law to determine whether the Appellant "de facto" performed services for Hydro as an employee or a contractor, it will be necessary to choose those decisions which took an approach in conformity with the principles of civil law.
+[13] The Appellant thus has the burden of proving, according to the balance of probability, the absence of a relationship of subordination between himself and Hydro. To do this, evidence of independence such as those that were used in Wiebe Door, supra, namely the ownership of tools and the risk ogff loss or the possibility of profit, could be used to demonstrate the absence of a relationship of subordination between the Appellant and Hydro. Although such indications of autonomy are not elements that are essential to a service contract, they can nonetheless be highly revealing with respect to the absence of a relationship of subordination.
+The work of the Appellant for Hydro
+[14] The Appellant testified that he was a programmer-analyst specializing in the "Focus" language and that in this capacity he had developed information technology applications for some services of Hydro (the "client"). He explained that he had also developed databases for the client and, lastly, that he had submitted management reports.
+[15] The Appellant testified that Hydro used consultants for specific projects that required expertise that was not to be found among Hydro's employees. Pierre Lortie, an employee of Hydro who worked with the Appellant, testified to the same effect. The Appellant explained that his services had been retained by Hydro because its employees lacked the necessary expertise in the "Focus" language to complete these projects. He added that 50% of the members of the information technology team to which he had been assigned were consultants. Mr. Lortie testified similarly.
+[16] The Appellant related that contracts were assigned to the Appellant in the following manner: Mr. Phaneuf (the leader of the Information Technology team for which he worked) asked him to meet with the client, who had an IT project. At these meetings, the client explained the nature of the project to the Appellant and asked him for his opinion regarding the number of hours needed to carry out the project. Subsequently, the client worked out the schedule for the project and notified Mr. Phaneuf accordingly. The Appellant explained that he had not taken part in any decisions regarding the budgetary dimension of the project, since this was the subject of discussions between Mr. Phaneuf and the client.
+[17] The Appellant explained that no one told him how to do the work that was required of him, as no one at Hydro really had the skill and expertise to direct him. In fact, he generally worked on his own, although he was required to communicate with the Hydro employees.
+[18] The Appellant testified that he could use a computer provided by Hydro to do his work. For security reasons, he could have access to this computer only if he was on Hydro premises. He explained that he could have done the lion's share of his work at his home, with his own computer, if Hydro had allowed him to access the database from his home. The security reasons cited by Hydro prevented this.
+[19] The Appellant related that he was obliged to maintain, for all practical purposes, the same schedule of working hours as the Hydro employees who were part of his team, so that he could communicate with them. However, he explained that, in addition to the hours of work stipulated in the schedule, he had worked many hours, even on weekends, in order to meet the clients' deadlines. He revealed that he was required to notify Mr. Phaneuf in the event he was absent because he was sick. He testified that, before taking vacation, he also had to notify the client, Mr. Phaneuf and Sodéfi. Lastly, he explained that, during the entire period during which he had performed services for Hydro, he had not taken any extended vacations. At most, he had taken a few days leave to extend his weekends from time to time.
+[20] Counsel for the Respondent admitted that the working conditions of the Appellant were very different from those of the Hydro employees who were part of his team. In fact, in contrast to these employees, the Appellant was not entitled to paid vacation or to paid sick leave, and he was not involved in any pension plan. He received no benefits. In addition, he did not know when his work would end and he had no promise of contracts in the future; lastly, he was not a member of any union.
+Analysis
+[21] I will now determine whether or not a relationship of subordination existed between Hydro and the Appellant in light of the evidence submitted. The evidence in the instant case reveals that, once the contract was given to the Appellant and the schedule for the contract had been determined, it was up to the Appellant to decide how he would proceed. It also emerges from the evidence that no one at Hydro had the competence or the expertise to supervise the Appellant. We are thus dealing once again with the situation where the skills and the expertise of the worker exceed those of the client, hence a situation where the client can exert little control over the way in which the work is to be performed. The fact that a task was given to the Appellant and that a schedule was assigned to him certainly did not, in my view, establish a relationship of subordination. Do we not, in fact, find the same requirements in a contract for services? The evidence is thus conclusive, in my view, in respect of the fact that Hydro gave little or no direction to the Appellant about the way the work was to be done (the "how"). However, it cannot be concluded from that that there was no relationship of subordination, simply because the client exercised little control over the "how", given that the expertise and the skills of the worker exceeded those of the client. Thus, a researcher who nonetheless enjoys wide freedom regarding the performance of his work can nonetheless be subject to a relationship of subordination. In such cases, the relationship of subordination may be reflected in the imposition of rules of conduct or by instructions by the client as to where the work is to be performed and on the time at which and the timeframe within which the work is to be performed. This relationship of subordination may also be reflected in a high degree of integration of the worker into the activities of the client, which is of itself an indicator of a relationship of subordination.
+[22] Did Hydro give or was Hydro able to give instructions regarding the place where the work was to be performed? The testimony of the Appellant in this respect deserves to be quoted here:[1]
+[TRANSLATION]
+Q. What was your place of work or the location where you worked?
+A. Well, mainly at Crémazie.
+Q. The same place where Mr....
+A. Yes.
+Q. ... that Mr. Lortie has just described?
+A. Yes.
+Q. Were there other locations?
+A. Sometimes, because there were various sectors. Sometimes, I often worked in the Richelieu sector, which is in Saint‑Bruno. I also worked at the headquarters, the building with the Hydro symbol.
+Q. René-Lévesque?
+A. I also worked in the West sector, that means, that's it.
+Q. Who determined where you worked. Was it the client? Mr. Phaneuf? Yourself?
+A. Well, depending on where the client was, sometimes I had to travel, and sometimes I worked on site, for example, in the Richelieu sector, I was working at Saint-Bruno. I was there four days a week, at Saint-Bruno and then one day I was in my office at Crémazie.
+...
+Q. Could you work from home?
+A. Yes, I was connected to the headquarters via a modem, but it was quite, it was fairly rare that this was done because the data were confidential and Hydro was not comfortable about their being accessed from outside, from outside the office.
+[23] The fact that the work could not generally be performed at the Appellant's residence does not of itself lead me to conclude that the Appellant was an employee. This requirement was dictated by reasons of security (data confidentiality). However, the obligation placed upon the Appellant to respond frequently to being summoned by Hydro and to perform services at a variety of locations assigned by Hydro seems to me indicative of a relationship of subordination, even though this obligation is not of itself conclusive. This obligation to work at the various Hydro buildings so that the Appellant could communicate with Hydro employees also illustrates a certain integration of the Appellant into the activities of Hydro.
+[24] Did Hydro give or could it give direction regarding the time when the work was to be performed? The testimony of the Appellant in this regard deserves to be quoted:[2]
+[TRANSLATION]
+Q. Regarding the work schedule now, could you describe your work schedule to us?
+A. Well, like...
+Q. Mr. Lortie.
+A. Mr. Lortie, he had to be there, I believe between nine thirty (9:30 a.m.) and eleven thirty (11:30 a.m.) and between one thirty (1:30 p.m.) and three thirty (3:30 p.m.) in the afternoon.
+Q. And that was mandatory?
+A. Yes, that was because, those are the hours, those are the client's working hours. We were "dealing" with the clients, that meant that you couldn't show up at night. You had to be there during the hours when the client was there.
+Q. And as far as the rest of the time was concerned?
+A. Well, that was flexible, sometimes I would go home at seven thirty (7:30 p.m.), sometimes I would go home at nine thirty (9:30 p.m.). Sometimes I might work nine hours in a day, while on another day I might work six hours, and so on.
+It is apparent from the evidence that Hydro was giving instructions to the Appellant with regard to compliance with a specific schedule. These instructions included the obligation to be available at certain times, but also made provision for supervising his hours of work by means of time sheets or a punch clock.[3] These facts surely do not demonstrate that there was no relationship of subordination between the Appellant and Hydro.
+[25] In addition, Hydro imposed rules of conduct on the Appellant. The evidence revealed that the Appellant was required to notify Mr. Phaneuf if he were absent because of illness. The Appellant also testified that before taking leave, he had to notify Mr. Phaneuf. Would a contractor be subject to the same constraints? I doubt it. Generally, a contractor does not have to ask permission of a client to be absent or to take vacation. The contractor generally determines his own vacations and absences. His only obligation is to meet the schedule.
+[26] In my view, the Appellant agreed to integrate himself into the operating framework of Hydro in order to provide his services. In the instant case, the Appellant devoted approximately 40 hours a week to a single Payor year-round, during the entire period at issue. Mandatory presence at assigned places of work in accordance with a schedule established so that the Appellant can communicate with other Hydro employees accordingly leads me to believe that the Appellant was substantially integrated into the Hydro corporation. Regular assignment of tasks to be performed and the imposition of rules of behaviour also lead me to conclude that there was in the instant case a high degree of integration of the Appellant into the activities of Hydro, which of itself demonstrates that there was in this case a relationship of subordination between the Appellant and Hydro.
+[27] Since the evidence allows me to clearly discern that a "de facto" relationship of subordination existed between Hydro and the Appellant, I am of the opinion that it would have been reasonable to consider the Appellant corporation an employee of Hydro, for which the services would have been performed, but for the existence of 9043.
+[28] For these reasons, the appeal is dismissed, with costs.
+Signed at Ottawa, Canada, this 19th day of January 2006.
+Bédard J.
+Translation certified true
+on this 29th day of May 2006
+Monica F. Chamberlain, Reviser
+CITATION:
+2006TCC20
+COURT FILE NO.:
+2002-4205(IT)G
+STYLE OF CAUSE:
+François Carreau and
+Her Majesty the Queen
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+October 20, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Paul Bédard
+DATE OF JUDGMENT:
+January 19, 2006
+APPEARANCES:
+For the Appellant:
+Sylvain Dorais
+For the Respondent:
+Simon-Nicolas Crépin
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Sylvain Dorais
+Firm:
+Polak Therrien Turcotte
+Montreal, Quebec
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] See the transcript at pages 61 to 63, paragraphs 224 to 229 and paragraph 234.
+[2] See the transcript at pages 62 and 63, paragraphs 230 to 233.
+[3] See page 83 of the transcript.

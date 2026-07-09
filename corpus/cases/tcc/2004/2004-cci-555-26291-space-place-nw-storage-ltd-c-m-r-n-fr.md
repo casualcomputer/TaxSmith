@@ -1,0 +1,229 @@
+---
+title: "Space Place NW Storage Ltd. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26291/index.do"
+last_modified: "2004-08-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 555"
+citation2: ""
+neutral_citation: "2004 CCI 555"
+decision_date: "2004-08-11"
+language: "fr"
+item_id: "26291"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3303
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:10:20.226000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "30b13a4001aeb2f6a99ef0ba54e62761d02d2b9cf619a8a5a145c5924d40d8af"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Space Place NW Storage Ltd. c. M.R.N.
+
+- Citation: 2004 CCI 555
+- Decision date: 2004-08-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3303, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Space Place NW Storage Ltd. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-08-11
+Référence neutre
+2004 CCI 555
+Numéro de dossier
+2003-1342(CPP)
+Juges et Officiers taxateurs
+Michael J. Bonner
+Sujets
+Régime de pensions du Canada
+Contenu de la décision
+Dossier: 2003-1342(CPP)
+ENTRE :
+SPACE PLACE NW STORAGE LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+KIMBERLY MORIARITY,
+Intervenante.
+____________________________________________________________________
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l’appel de Kimberly Moriarity (2003‑1449 (CPP)) le 8 mars 2004, à Calgary (Alberta)
+Devant : L’honorable M.J. Bonner
+Comparutions :
+Mandataire de l’appelante :
+Merton Moriarity
+Avocat de l’intimé:
+Jon Gilbert
+Pour l’intervenante:
+L’intervenante elle-même
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli, la décision du ministre et les cotisations sont annulées.
+Signé à Ottawa (Canada) le 11 août 2004.
+"M.J. Bonner"
+Le juge Bonner
+Traduction certifiée conforme
+ce 29e jour de mars 2005
+François Brunet, traducteur
+Référence : 2004TCC555
+Date: 20040811
+Dossier : 2003-1342(CPP)
+ENTRE :
+SPACE PLACE NW STORAGE LTD.,
+appelante,
+Et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+KIMBERLY MORIARITY,
+intervenante.
+ET
+2003-1449(CPP)
+KIMBERLY MORIARITY,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bonner
+[1] En vertu du Régime de pensions du Canada, Space Place NW Storage Ltd. (Space Place) et Kimberly Moriarity interjettent appel devant cette Cour de cotisations pour les années 1999 à 2002 et d’une décision du ministre du Revenu national (le « ministre ») du 27 mars 2003. Cette décision a été prise, et les cotisations établies au motif que Kimberly Moriarity (la travailleuse) a exercé, au service de Space Place, un emploi ouvrant droit à pension au sens de l’alinéa 6(1)a) du Régime de pensions du Canada (RPC).
+[2] Ces appels ont été entendus sur preuve commune. La seule question en jeu est la suivante: la travailleuse était-elle employée par Space Place en vertu d’un contrat de louage de services ou d’un contrat de services?
+[3] Les constatations et les hypothèses de fait sur lesquelles le ministre s’est appuyé sont essentiellement les mêmes dans les deux causes. Voici donc quelles sont les constatations et hypothèses relatives à l’appel de Space Place :
+a) l’appelante exploite une installation d’entreposage;
+b) L'actionnariat de l’appelante était le suivant :
+350441 Alberta Ltd. 50 %
+MT Moriarity & Associates Ltd. 50 %
+c) L’actionnariat de 350441 Alberta Ltd. était le suivant :
+Merton Moriarity 100 %
+d) L’actionnariat de MT Moriarity & Associates Ltd. était le suivant :
+Merton Moriarity 66 %
+Francis Moriarity 13 %
+la travailleuse 7 %
+Krista Moriarity 7 %
+Leonard Moriarity 7 %
+e) la travailleuse était la fille de Merton Moriarity (« l’actionnaire ») et de Francis Moriarity;
+f) la travailleuse a été embauchée comme directeur de chantier et elle était notamment chargée de superviser les activités, de trouver les clients, d’embaucher et de congédier des travailleurs, du travail administratif, de la comptabilité, des achats, des comptes bancaires et de l’administration;
+g) l’appelante et la travailleuse ont signé un « Accord d’entreprise indépendante de vente et de gestion » le 1er janvier 2002 (« l’accord »);
+h) l’accord comprenait notamment les éléments suivants :
+(i) la liste des tâches de la travailleuse,
+(ii) la travailleuse était responsable des ventes, des états financiers mensuels, des budgets annuels et des réunions mensuelles,
+(iii) le contrat a une durée d’un an,
+(iv) la rémunération de la travailleuse est de 8,7% des ventes brutes,
+(v) l’appelante paye la travailleuse mensuellement,
+(vi) l’appelante n’est tenue de rémunérer que les services supplémentaires de la travailleuse qui ont été autorisés par écrit,
+(vii) l’appelante paye les primes relatives à l'assurance contre les accidents du travail;
+i) la travailleuse assurait ses services dans les locaux de l’appelante et sur le terrain;
+j) la travailleuse était payée par commission;
+k) la travailleuse recevait un pourcentage des revenus bruts;
+l) la travailleuse était payée mensuellement;
+m) l’appelante se chargeait de l'assurance contre les accidents du travail et des prestations de la Croix Bleue au profit de la travailleuse;
+n) les heures d’affaire de l’appelante étaient les suivantes :
+lundi à samedi : 8 h 30 à 17 h 30
+dimanche : midi à 16 h 00
+o) la travailleuse travaillait toutes les heures requises pour s’acquitter de ses fonctions;
+p) la travailleuse était disponible sur demande 24 heures sur 24;
+q) l’appelante a conservé le droit de contrôler la travailleuse;
+r) la travailleuse n’était pas l'âme dirigeante de l’appelante;
+s) les décisions importantes exigeaient l’approbation de la majorité des actionnaires;
+t) la travailleuse avait une participation dans l’appelante;
+u) la travailleuse représentait l’appelante dans la prestation de services;
+v) la travailleuse signalait à l’appelante ses absences;
+w) la travailleuse assurait ses services personnellement et ne se faisait pas remplacer;
+x) la travailleuse a travaillé pour l’appelante depuis sa création en 1997;
+y) simultanément à son travail pour l’appelante, la travailleuse a aussi été membre du conseil de différentes « associations d’entreposage »;
+z) l’actionnaire avait un pouvoir de signature pour le compte bancaire de l’appelante;
+aa) l’appelante se servait de l’adresse de l’actionnaire comme adresse postale;
+bb) l’appelante fournissait tous les outils et l’équipement nécessaires, notamment un véhicule, un téléphone portable et le lieu de travail;
+cc) la travailleuse fournissait ses aptitudes et son expertise;
+dd) l’appelante payait toutes les dépenses d’exploitation, notamment celles afférentes au véhicule de la travailleuse;
+ee) la travailleuse n’a pas engagé sa responsabilité personnelle envers l’appelante;
+ff) la travailleuse était employée par l’appelante en vertu d’un contrat de services
+gg) l’appelante a versé les salaires suivants à la travailleuse pour les années 1999, 2000, 2001 et 2002 :
+1999 56 999 $
+2000 60 500 $
+2001 71 500 $
+2002 42 000 $
+En général, les faits plaidés étaient corrects, à l’exception, bien sûr, de q) et ff). Cependant, ils doivent être interprétés au regard des éléments de preuve produits.
+[4] Lors de l’audition de l’appel, ont témoigné la travailleuse et Merton T. Moriarity, de M.T. Moriarity and Associates Ltd., détentrice de 50 pour cent des actions de Space Place.
+[5] Le témoignage de la travailleuse a été difficile à évaluer. Une remarque contextuelle : il est évident que sa relation des faits a été très marquée par son désir apparent d’établir qu’elle n’était pas l’employée de Space Place. Néanmoins, je pense pouvoir dire que sa déposition était essentiellement fiable.
+[6] Il est manifeste, à la lumière des témoignages et du contrat écrit mentionné à l’alinéa g), que les deux parties au contrat voulaient former une relation qui serait considérée comme un contrat de services. Ce contrat était le même que les contrats des années antérieures. Tous commencent ainsi : « il est convenu que ... le contractant assura au co-contractant les services suivants en qualité d’entrepreneur indépendant ... ». (c’est moi qui souligne)
+[7] Space Place était propriétaire d’une installation d’entreposage, qu’elle exploitait. On peut dire que la travailleuse y occupait le poste de directrice générale. Elle était chargé du personnel, notamment des embauches, des congédiements, de l’entretien et de la sécurité de l’installation, de toutes les affaires financières, notamment du recouvrement et du dépôt des revenus, du remboursement des dettes, de la tenue des comptes, de la supervision de la construction des agrandissements de l’installation et, semble-t-il, de tous les autres aspects des opérations au jour le jour.
+[8] La travailleuse n’était pas tenue de suivre un horaire précis. Par contre, elle devait répondre aux urgences et elle était disponible vingt-quatre heures par jour. Par contre, elle participait activement aux activités d’une association commerciale. Les activités qui ne faisaient pas partie de ses attributions chez Space Place l’éloignaient de l’entreprise et des locaux de Space Place pendant de longues périodes. Lorsque elle était absente, un remplaçant remplissait ses fonctions.
+[9] La compensation de la travailleuse consistait en un pourcentage des revenus bruts de l’entreprise. Celui-ci était renégocié d’année en année. Je crois comprendre qu’elle recevait mensuellement une avance, à valoir sur sa commission.
+[10] La travailleuse a signalé que Space Place ne lui fournissait pas de bureau. Elle a aussi déclaré qu’elle se servait de ses propres ordinateur, logiciels, téléphone, calculettes, télécopieur et fournitures de bureau, dans un bureau installé dans son domicile. Space Place lui fournissait une voiture de fonction.
+[11] Aucun élément de preuve n’indique que la travailleuse offrait commercialement ses services au grand public en qualité de directrice générale. Rien n’indique que l’appelante était salariée au service d’autres entités que Space Place.
+[12] En ce qui a trait au contrôle de la manière dont la travailleuse remplissait ses obligations envers Space Place, je conclus que la déposition de Merton Moriarity est très convaincante. Selon ses déclarations, « nous n’avons jamais contrôlé ses heures. Nous n’avons jamais contrôlé la travailleuse. Nous avions des réunions générales de temps à autre, c’était vraiment la seule forme de contrôle ». Il ressort des éléments de preuve que Space Place énonçait la tâche à accomplir et que c’était la travailleuse qui devait remplir la tâche comme elle l’entendait. L’élément central du contrat était que les paiements dépendaient des résultats, et non pas du nombre d’heures consacrées au travail.
+[13] 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., 2001 CSC 59, est l’arrêt de principe sur la distinction entre un contrat de services et un contrat de louage de services (d’emploi). Dans cette affaire, le juge Major, qui a prononcé la décision de la Cour, a examiné le critère du contrôle, le critère à quatre volets[1] et le critère d'intégration. Il a suivi la jurisprudence Market Investigations Ltd. v. ministre of Social Security, [1968] 3 All. E.R. 732. Aux paragraphes 47 et 48, le juge Major s’est exprimé en ces termes :
+Bien qu'aucun critère universel ne permette de déterminer si une personne est un employé ou un entrepreneur indépendant, je conviens avec le juge MacGuigan que la démarche suivie par le juge Cooke dans la décision Market Investigations, précitée, est convaincante. La question centrale est de savoir si la personne qui a été engagée pour fournir les services fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l'employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s'il engage lui-même ses assistants, quelle est l'étendue de ses risques financiers, jusqu'à quel point il est responsable des mises de fonds et de la gestion et jusqu'à quel point il peut tirer profit de l'exécution de ses tâches.
+Ces facteurs, il est bon de le répéter, ne sont pas exhaustifs et il n'y a pas de manière préétablie de les appliquer. Leur importance relative respective dépend des circonstances et des faits particuliers de l'affaire. (c’est moi qui souligne)
+[14] Si l’on applique ce critère, on peut raisonnablement conclure que la travailleuse n’a pas assuré de services à Space Place en qualité d’employée. Comme je viens de le signaler, Space Place n’a pas conservé le droit de contrôler la manière dont l’appelante a exécuté sa tâche de gestion de l’entreprise. Elle allait et venait comme elle le jugeait bon, et elle avait le droit de se faire remplacer pendant ses absences. Elle a fourni une bonne partie de l’équipement nécessaire pour le travail. Sa compensation n’était pas fixée à un taux horaire ou périodique. En fait, le régime de compensation dépendait directement de ses succès ou de ses échecs dans la gestion de Space Place.
+[15] Dans les cas de ce genre, il est utile de comparer les contrats d’emploi et de services dans leurs grandes lignes. Dans l’affaire Alexander c. M.R.N., 70 DTC 6006, le président Jackett a déclaré à la page 6011:
+... D'une part un contrat de louage de services est un contrat en vertu duquel un individu, le serviteur ou l'employé, s'engage, soit pour une période de temps ou indéfiniment, et soit à temps plein ou à temps partiel, à travailler pour l'autre partie, le maître ou l'employeur. D'autre part, un contrat de services est un contrat en vertu duquel une partie convient qu'un ouvrage spécifié sera faite pour l'autre. Un contrat de louage de services ne prévoit pas normalement l'accomplissement d'une somme de travail spécifique, mais considère plutôt que le serviteur mettra personnellement ses services à la disposition du maître pendant une période définie. Un contrat de services prévoit normalement l'accomplissement d'un travail particulier sans que l'entrepreneur ait à rendre des services personnels.
+En l’espèce, voici comment je vois les choses. L’appelante a géré l’installation de Space Place en vertu de contrats annuels dans lesquels l’accent était mis sur l’exécution du travail prévu; il ne s’agissait pas d’un accord dans lequel la travailleuse mettait à la disposition de Space Place pour lui assurer ses services personnels pendant une période déterminée. L’accent était mis sur le travail à faire convenu plutôt que sur le temps de la travailleuse. Ainsi, elle avait le droit d’avoir recours à un remplaçant et son indemnisation ne dépendait pas du temps qu’elle consacrait à son travail.
+[16] Il est impossible d’ignorer que les parties ont délibérément créé une relation d’entrepreneur autonome. Juridiquement, rien ne faisait obstacle à cet objectif. Rien dans les caractéristiques de cette relation n’était incompatible avec la relation recherchée. Si la désignation adoptée par les parties relativement à la nature de rapports contractuels n’est pas déterminante, elle peut faire pencher la balance si les facteurs allant dans le sens vers une relation d’employeur-employé sont égaux à ceux qui vont dans le sens d’un contrat de services. Dans l’affaire Wolf c. Canada [2002] 4 C.F. 396, le juge Noël s’est exprimé dans ces termes au paragraphe 122:
+... À mon avis, il s'agit d'un cas où la qualification que les parties ont donné à leur relation devrait se voir accorder un grand poids. Je reconnais que la façon dont les parties décident de décrire leur relation n'est pas habituellement déterminante, en particulier lorsque les critères juridiques applicables pointent dans l'autre direction. Mais, dans une issue serrée comme en l'espèce, si les facteurs pertinents pointent dans les deux directions avec autant de force, l'intention contractuelle des parties et en particulier leur compréhension mutuelle de la relation ne peuvent pas être laissées de côté.
+[17] Pour ces motifs; les appels sont acceuillis, les décisions du ministre et les cotisations sont annulées.
+Signé à Ottawa (Canada), le 11 août 2004.
+"M.J. Bonner"
+Le juge Bonner
+Traduction certifiée conforme
+ce 29e jour de mars 2005
+François Brunet, traducteur
+RÉFÉRENCE :
+2004TCC555
+N° DE DOSSIER DE LA COUR :
+2003-1342(CPP) et 2003-1449(CPP)
+INTITULÉ DE LA CAUSE :
+Space Place NW Storage Ltd. et M.R.N. et Kimberly Moriarity et Kimberly Moriarity et M.R.N.
+LIEU DE L’AUDIENCE :
+Calgary (Alberta)
+DATE DE L’AUDIENCE :
+Le 8 mars 2004
+MOTIFS DU JUGEMENT PAR :
+L’honorable M.J. Bonner
+DATE DU JUGEMENT :
+Le 11 août 2004
+COMPARUTIONS :
+Pour l’appelante Kimberly Moriarity:
+L’appelante elle-même
+Pour l’appelante
+Space Place NW Storage Ltd.
+Merton Moriarity
+Avocat de l’intimé :
+Jon Gilbert
+Pour l’intervenante Kimberly Moriarity:
+L’intervenante elle-même
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante:
+Nom :
+Cabinet :
+Pour l’intervenante:
+Pour l’intimé:
+Morris Rosenberg
+Sous-procureur général du Canada Ottawa (Canada)
+[1] À savoir: (1) le contrôle, (2) la propriété de l'outillage, (3) la possibilité de profit, (4) l'étendue des risques financiers, tous énoncés dans la décision Montreal v. Montreal Locomotive Works Ltd., (1947) 1 D.L.R. 161, à la page 169.

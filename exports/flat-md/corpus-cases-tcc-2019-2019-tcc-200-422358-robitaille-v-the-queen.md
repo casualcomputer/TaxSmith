@@ -1,0 +1,206 @@
+---
+title: "Robitaille v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/422358/index.do"
+last_modified: "2019-09-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 TCC 200"
+citation2: ""
+neutral_citation: "2019 TCC 200"
+decision_date: "2019-09-24"
+language: "en"
+item_id: "422358"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4186
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T12:03:08.642000+00:00"
+cases_cited_count: 1
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "dc3ce33d36c250c403cded55d1c5881f56cd183371b51bf38a40360f0842629e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Robitaille v. The Queen
+
+- Citation: 2019 TCC 200
+- Decision date: 2019-09-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4186, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Robitaille v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-09-24
+Neutral citation
+2019 TCC 200
+File numbers
+2018-3189(IT)I
+Judges and Taxing Officers
+David E. Spiro
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2018-3189(IT)I
+BETWEEN:
+ANDRE ROBITAILLE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on September 12, 2019, at Timmins, Ontario
+Before: The Honourable Justice David E. Spiro
+Appearances:
+Agent for the Appellant:
+Richard Robitaille
+Counsel for the Respondent:
+Andrée-Anne Lavoie
+JUDGMENT
+The appeal from an assessment made under the Income Tax Act for the 2016 taxation year in respect of an “excess TFSA amount” of $39,500 is dismissed, without costs.
+Signed at Toronto, Ontario, this 24th day of September, 2019.
+“David E. Spiro”
+Spiro J.
+Citation: 2019 TCC 200
+Date: 20190924
+Docket: 2018-3189(IT)I
+BETWEEN:
+ANDRE ROBITAILLE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Spiro J.
+[1] The Appellant, Andre Robitaille, appeals an assessment for his 2016 taxation year in respect of an “excess TFSA amount” arising from a deposit of $40,000 to his tax-free savings account (“TFSA”) that he made inadvertently in mid-2016.
+[2] As reflected on the notice of assessment, the Appellant was assessed tax of $2,370 on an “excess TFSA amount” of $39,500, penalty of $118.50 for failure to file the return on which he was obliged to report that amount, and arrears interest of $4.09. [1]
+[3] Both the Appellant and his father, Richard Robitaille, testified. Each was cross-examined by counsel for the Respondent. I found father and son to be credible and reliable.
+[4] At the hearing, the Appellant described the inadvertent deposit of $40,000 to his TFSA as “a simple case of human error” [2] which is an accurate characterization of the unusual facts of this case.
+[5] Although I have no choice but to dismiss the Appellant’s appeal for his 2016 taxation year, I would urge the Minister of National Revenue (the “Minister”) to consider exercising her discretion under subsection 207.06(1) of the Act to cancel the Appellant’s liability arising from the “excess TFSA amount” for his 2016 and 2017 taxation years. [3]
+The Facts
+The Appellant’s Business
+[6] The Appellant was in the roofing business in Timmins, Ontario. He owned a company called Compass Building Services Ltd. (the “company”). He had four employees. Depending on the nature of the particular job, he would hire additional help. The Appellant’s roofing business was busy during the summer and inactive during the winter.
+[7] Although the company’s bank was Bank of Montreal, the Appellant’s bank was President’s Choice Financial. PC Financial had an arrangement with CIBC allowing its customers to use CIBC bank machines without paying a fee. The Appellant did not receive monthly statements for his accounts at PC Financial.
+The Appellant’s Dependence on his Father
+[8] The Appellant testified that his father “takes care of all the numbers.” [4] Indeed, when counsel for the Respondent asked him to identify the notice of assessment at issue, he said that he had not seen it before because “[t]hat is stuff for my dad.” [5]
+[9] The Appellant’s father acted as bookkeeper for the Appellant’s roofing business. He administered everything associated with the company, including financial matters.
+[10] In January or February of each year, the Appellant would call his father to ask if he should contribute to his TFSA. The Appellant’s father testified that he would sometimes tell his son:
+…“Just call Revenue Canada,” but he never did call Revenue Canada. Dealing with this would be something foreign to him, you know, because I was looking after everything. So there was a dependency there. [6]
+[11] The Appellant’s father is his son’s authorized representative in dealing with the Canada Revenue Agency. The Appellant’s father dealt with the CRA on behalf of his son’s company. He also acted as his son’s agent at the hearing.
+The Shareholder Withdrawal
+[12] As payments were received from the Appellant’s customers, they were deposited to the company’s account at the Bank of Montreal by the Appellant’s father.
+[13] The Appellant’s father described the $40,000 cheque as a shareholder withdrawal from the company’s profits. The Appellant’s father described it as a management fee to the Appellant which the Appellant would then include in computing his income for the year. Before serious knee and back problems put an end to his career as a roofer, the Appellant might receive one or two such payments each year.
+[14] The Appellant received the cheque for $40,000 from his father and testified that he “was supposed to deposit that cheque into my chequing account.” [7] Instead of depositing that cheque into his chequing account, however, the Appellant inadvertently deposited it into his TFSA.
+The Night of July 21, 2016
+[15] Because the Appellant worked during the days throughout the summer, he made the deposit at night. On the night of July 21, 2016, the Appellant approached a CIBC bank machine to deposit the cheque to his chequing account. He activated the touch screen:
+…I go to deposits first. Then they ask you if it is a – what kind of deposit. It is either savings, chequing. So I hit chequing account, and for some reason, tax-free savings account is included in the chequing accounts…on this particular machine. I have to say that they changed their design ever since, probably because this has happened before to somebody else. I am not sure. But I have a picture of the ATM to show that tax-free savings account is up here and right at the bottom – and it is a touch screen, and right at the bottom is my account that I was supposed to deposit it in. You know, all the – nighttime; I am going fast. I thought I hit – you know, once you hit the button you don’t know. So I hit the button with what I thought was the chequing account, and it was the tax-free savings account. [8] Nobody deposits 40 grand into a – I know the rules. I had been warned the year before about an over-contribution. So I didn’t want to do that mistake again.
+JUSTICE SPIRO: Who warned you?
+THE WITNESS: The CRA. I got a letter from them because the year before, I had made an over-contribution because I doubled my – the amount I was allowed to. I put in 5,000 at the start of the year, and I guess I didn’t wait long enough to put in another 5,000…. [9]
+The Error Comes to Light
+[16] As there was enough money in his chequing account to fund the cheques he wrote (even without the additional $40,000), no cheques bounced after July 21, 2016, in the course of the Appellant paying his employees and purchasing materials for his business. As time went on, the Appellant had no reason to believe that the $40,000 cheque had not been deposited to his chequing account. As mentioned earlier, the Appellant did not receive paper statements from his bank.
+[17] The Appellant’s father noticed nothing unusual on the corporate side “because it was just one other shareholder withdrawal that [the Appellant] would deposit. So once it was gone, it was gone from the corporate account as a shareholder withdrawal.” [10]
+[18] The Appellant’s father noticed nothing amiss with respect to his son’s chequing account because he no longer received copies of cheques or statements from that account.
+[19] The error first came to light on June 14, 2017, when the Appellant’s father spoke to a CRA official about an HST matter relating to the company. After that discussion, the CRA official mentioned that the Appellant had over-contributed to his TFSA by $39,500. The CRA official told the Appellant’s father that a withdrawal of $29,000 would make the TFSA compliant. The Appellant withdrew $29,000 from his TFSA the same day.
+The Law
+[20] The maximum amount of an individual’s contribution to a TFSA for 2016 was $5,500. The annual contribution limit is called the “TFSA dollar limit”. It is defined in subsection 207.01(1) of the Act.
+[21] Serious consequences flow from contributions to a TFSA in excess of the TFSA dollar limit for the year. In particular, section 207.02 of the Act imposes tax on an “excess TFSA amount”:
+If, at any time in a calendar month, an individual has an excess TFSA amount, the individual shall, in respect of that month, pay a tax under this Part equal to 1% of the highest such amount in that month.
+[22] An “excess TFSA amount” is defined in subsection 207.01(1) of the Act:
+excess TFSA amount of an individual at a particular time in a calendar year means the amount, if any, determined by the formula
+A - B - C - D - E
+where
+A is the total of all amounts each of which is a contribution made under a TFSA by the individual in the calendar year…;
+B is the individual’s unused TFSA contribution room at the end of the preceding calendar year;
+C is the total of all amounts each of which was a distribution made in the preceding calendar year…;
+D is…the TFSA dollar limit for the calendar year…; and
+E is the total of all amounts each of which is the qualifying portion of a distribution made in the calendar year….
+[23] In the circumstances of this case, the relevant amounts are:
+A $40,000;
+less
+B $(5,000);
+less
+C Nil;
+less
+D $5,500;
+less
+E Nil.
+[24] Based on that formula, the Appellant had an “excess TFSA amount” from July 21, 2016 to June 14, 2017, of $39,500 for each month – six of those months fell in 2016. [11] The other six fell in 2017.
+[25] Paragraph 207.07(1)(b) of the Act required that the tax imposed by section 207.02 for the last six months of 2016 in respect of the Appellant’s “excess TFSA amount” be paid by June 30, 2017, accompanied by the return contemplated by paragraph 207.07(1)(a) of the Act:
+A person who is liable to pay tax under this Part for all or any part of a calendar year shall before July of the following calendar year
+(a) file with the Minister a return for the year under this subsection in prescribed form and containing prescribed information including
+(i) an estimate of the amount of tax payable under this Part by the person in respect of the year, and
+(ii) an estimate of the amount of the person’s allowable refund, if any, for the year; and
+(b) pay to the Receiver General the amount, if any, by which the amount of the person’s tax payable under this Part in respect of the year exceeds the person’s allowable refund, if any, for the year.
+[26] The Appellant did not pay the tax or file the return.
+Conclusion
+[27] The Appellant’s “excess TFSA amount” at the end of each of July, August, September, October, November, and December, 2016 was $39,500. As the Appellant did not pay the tax or file the return in respect of the “excess TFSA amount” for that year, the Minister’s 2016 assessment is correct. For those reasons, his appeal must be dismissed.
+Afterword
+[28] In enacting subsection 207.06(1) of the Act, Parliament anticipated that there would be situations in which tax on an “excess TFSA amount” would be payable, but where, in light of all the circumstances, the liability should be waived (before assessment) or cancelled (after assessment) by the Minister.
+[29] As counsel for the Respondent noted at the hearing, it is not within this Court’s jurisdiction to order the Minister to exercise her discretion to cancel the tax assessed. [12] However, I do wish to express my view on the potential application of subsection 207.06(1) of the Act in light of all the circumstances.
+[30] Should the Minister decide to exercise her discretion under subsection 207.06(1) of the Act to cancel the Appellant’s liability in respect of the inadvertent deposit of $40,000 to his TFSA on the night of July 21, 2016, such cancellation would find ample support on the extraordinary facts of this case. [13]
+Signed at Toronto, Ontario, this 24th day of September, 2019.
+“David E. Spiro”
+Spiro J.
+CITATION:
+2019 TCC 200
+COURT FILE NO.:
+2018-3189(IT)I
+STYLE OF CAUSE:
+ANDRE ROBITAILLE AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Timmins, Ontario
+DATE OF HEARING:
+September 12, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice David E. Spiro
+DATE OF JUDGMENT:
+September 24, 2019
+APPEARANCES:
+Agent for the Appellant:
+Richard Robitaille
+Counsel for the Respondent:
+Andrée-Anne Lavoie
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] At the hearing, the Appellant’s father referred to a follow-on assessment, notice of which was dated July 17, 2018, assessing tax, penalty, and interest in respect of the same “excess TFSA amount” for the first six months of 2017. The Appellant’s appeal could not be amended at the hearing to include that assessment as no notice of objection had been filed within 90 days of the date on which the notice of assessment was sent, as required by subparagraph 165(1)(a)(ii) of the Income Tax Act (the “Act”).
+[2] Transcript, p. 5, line 22.
+[3] Counsel for the Respondent informed me at the hearing that the Appellant has applied twice for such cancellation, but to no avail. Subsection 207.06(1) of the Act provides [emphasis added]:
+If an individual would otherwise be liable to pay a tax under this Part because of section 207.02…, the Minister may waive or cancel all or part of the liability if
+(a) the individual establishes to the satisfaction of the Minister that the liability arose as a consequence of a reasonable error; and
+(b) one or more distributions are made without delay under a TFSA of which the individual is the holder, the total amount of which is not less than the total of
+(i) the amount in respect of which the individual would otherwise be liable to pay the tax, and
+(ii) income (including a capital gain) that is reasonably attributable, directly or indirectly, to the amount described in subparagraph (i).
+[4] Transcript, p. 4, lines 27-28.
+[5] Transcript, p. 25, lines 12-17.
+[6] Transcript, p. 62, line 26 to p. 63, line 2.
+[7] Transcript, p. 10, lines 2-4.
+[8] The Appellant produced a photograph of the bank machine’s screen (Exhibit A-5). The photograph was taken after he was informed in mid-June, 2017, that he had an “excess TFSA amount” of $39,500. He testified that the screen in the photo looked substantially the same as it looked on the night of July 21, 2016 when he deposited the $40,000 cheque. That photo depicts four rectangular boxes – two on top and two on the bottom. Clockwise from the lower left they read: “Chequing”, “TFSA”, “Chequing”, and “HISA”. The $40,000 cheque should have been deposited into the first of those accounts. The Appellant inadvertently deposited it into the second.
+[9] Transcript, p. 18, line 5 to p. 19, line 1. The Canada Revenue Agency sent the Appellant a “warning letter” on May 27, 2016 with respect to an “excess TFSA amount” of $5,000 at the end of 2015 (Exhibit R-1). The excess was withdrawn immediately upon receipt of that letter. CRA’s policy is to send a warning letter to a first-time excess contributor; if they do not remove the excess from the TFSA, they will be assessed. After the first time, taxpayers will be assessed without notice. That appears to be exactly what happened here. See David M. Sherman, Practitioner’s Income Tax Act 2019, 56th ed (Toronto: Carswell, 2019) at 1328 (see “Notes” under section 207.02).
+[10] Transcript, p. 47, line 28 to p. 48, line 7.
+[11] The tax of $2,370 assessed for the last six months of 2016 was 1% of $39,500 multiplied by the six months of 2016 during which the “excess TFSA amount” subsisted (1% of $237,000).
+[12] See, for example, Almadhoun v. Canada, 2018 FCA 112, paras. 30-36.
+[13] The Minister assessed tax, penalty, and interest in respect of the “excess TFSA amount” of $39,500 for the last six months of 2016 and the first six months of 2017. As mentioned in footnote 1, the assessment made by the Minister in respect of the first six months of 2017 was not before the Court. Under subsection 207.06(1) of the Act, however, the Minister may cancel all of the Appellant’s liability arising from the “excess TFSA amount”, including his liability for the last six months of 2016 and the first six months of 2017.

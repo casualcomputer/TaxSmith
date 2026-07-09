@@ -1,0 +1,188 @@
+---
+title: "Jean c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28248/index.do"
+last_modified: "2007-08-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 126"
+citation2: ""
+neutral_citation: "2007 CCI 126"
+decision_date: "2007-08-09"
+language: "fr"
+item_id: "28248"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2029
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:25:09.596000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6fb245647787ff4c112faba8c78c53a927f58e2c8e17b6a75ff9cbba5507424b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Jean c. M.R.N.
+
+- Citation: 2007 CCI 126
+- Decision date: 2007-08-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2029, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jean c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-08-09
+Référence neutre
+2007 CCI 126
+Numéro de dossier
+2006-3341(OAS)
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi sur la sécurité de la vieillesse
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2006-3341(OAS)
+ENTRE :
+FERNAND JEAN,
+appelant,
+et
+LE MINISTRE DU DÉVELOPPEMENT
+DES RESSOURCES HUMAINES,
+intimé.
+____________________________________________________________________
+Appel entendu le 21 février 2007, à Rimouski (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimé :
+Me Marie-Claude Landry
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté en vertu du paragraphe 28(2) de la Loi sur la sécurité de la vieillesse suite à une décision du ministre des Ressources humaines et du développement social datée du 21 novembre 2005, pour la période de paiement de juillet 2005 à juin 2006, pour l'année d'imposition 2005, est rejeté, sans frais, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 9e jour d'août 2007.
+« Alain Tardif »
+Juge Tardif
+Référence : 2007CCI126
+Date : 20070809
+Dossier : 2006-3341(OAS)
+ENTRE :
+FERNAND JEAN,
+appelant,
+et
+LE MINISTRE DU DÉVELOPPEMENT
+DES RESSOURCES HUMAINES,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit d'un appel d'une détermination dont les fondements juridiques sont les articles 2 et 14 de la Loi sur la sécurité de la vieillesse (la « Loi »).
+[2] La question en litige consiste à déterminer si le ministre des Ressources humaines et du Développement social (le « ministre ») a eu raison de refuser le privilège de l'option à l'appelant pour l'année 2005 (période de paiement de juillet 2005 à juin 2006 suite à une diminution des revenus de location survenue au cours de l'année 2004, conformément aux articles 2 et 14 de la Loi.
+[3] L'appelant a admis tous les présomptions de fait tenues pour acquis lesquelles se lisent comme suit :
+a) Le 10 février 2005, le Ministre faisait parvenir à l'appelant un formulaire à compléter afin qu'il fournisse des explications quant à la diminution de ses revenus nets d'emploi autonome et quant au type d'entreprise qu'il exerçait;
+b) Le formulaire daté du 10 février 2005 indiquait une baisse des revenus nets d'emploi autonome de 3 421 $ en 2002, à 634 $ en 2003;
+c) Le 19 février 2005, l'appelant retournait ledit formulaire signé en fournissant les explications suivantes :
+- l'emploi autonome de l'appelant consiste en une entreprise de réparation de meubles et ce, jusqu'à novembre 2003;
+- en 2003, il y a eu diminution des réparations de meubles et l'appelant a fait l'entretien de maisons à revenus qu'il possédait (deux maisons);
+- l'une des maisons à revenus fut vendue en 2004 suite à une proposition concordataire et l'autre maison fut remise au syndic le 30 novembre 2004, suite à une cession de biens;
+d) Le 23 juin 2005, l'appelant a rempli un formulaire de demande d'option pour l'année 2005 dans lequel il mentionne que la diminution de son revenu provient d'une faillite survenue le 30 novembre 2004;
+e) Le 6 juillet 2005, l'étude de la demande d'option de l'appelant a été faite et accordée pour l'arrêt d'emploi autonome en novembre 2003, mais refusée pour la faillite en novembre 2004;
+f) Les revenus générés par la maison à revenus, soit celle cédée au syndic lors de la cession de bien survenue le 30 novembre 2004, étaient des revenus de biens et non des revenus provenant de l'activité d'une entreprise ou de l'exploitation d'une entreprise;
+[...]
+h) Pour la période de paiement de juillet 2005 à juin 2006, le taux des prestations de l'appelant fut donc calculé en fonction des revenus réels de l'année 2004 et non en fonction des revenus estimatifs de l'année 2005.
+[4] Le seul alinéa ayant fait l'objet d'une contestation est l'alinéa g), qui se lit comme suit :
+g) La diminution d'un revenu de location ne constitue pas un motif donnant ouverture au privilège de l'option;
+[5] Les dispositions de la Loi sont très claires et ne prêtent à aucune interprétation. En l'espèce, il s'agissait bel et bien d'un revenu de bien et non d'un revenu d'entreprise.
+[6] Les articles 2 et 14 de la Loi se lisent comme suit :
+2. Les définitions qui suivent s’appliquent à la présente loi.
+« revenu » Le revenu d’une personne pour une année civile, calculé en conformité avec la Loi de l’impôt sur le revenu, sous réserve de ce qui suit :
+a) les montants suivants sont déduits du revenu de la personne tiré d’une charge ou d’un emploi pour l’année :
+(i) un montant unique pour l’ensemble des charges et emplois qu’elle occupe, égal au cinquième de son revenu tiré de charges ou d’emplois pour l’année, jusqu’à concurrence de cinq cents dollars,
+(ii) les cotisations ouvrières qu’elle a versées au cours de l’année en vertu de la Loi sur l’assurance-emploi,
+(iii) les cotisations d’employé qu’elle a versées au cours de l’année en vertu du Régime de pensions du Canada ou d’un régime provincial de pensions au sens de l’article 3 de cette loi;
+b) sont déduites des gains de la personne tirés d’un travail effectué à son compte pour l’année les cotisations qu’elle a versées au titre de ces gains au cours de l’année en vertu du Régime de pensions du Canada ou d’un régime provincial de pensions au sens de l’article 3 de cette loi;
+c) les montants suivants sont déduits du revenu de la personne pour l’année, dans la mesure où ils ont été inclus dans le calcul de ce revenu :
+(i) les prestations prévues par la présente loi et les prestations semblables versées aux termes d’une loi provinciale,
+(ii) les prestations de décès prévues par le Régime de pensions du Canada ou par un régime provincial de pensions au sens de l’article 3 de cette loi,
+(iii) les prestations d’aide sociale versées, compte tenu des ressources, des besoins ou des revenus, par un organisme de bienfaisance enregistré, au sens du paragraphe 248(1) de la Loi de l’impôt sur le revenu, ou dans le cadre d’un programme prévu par une loi fédérale ou provinciale, exception faite des programmes visés par règlement pris en application de la Loi de l’impôt sur le revenu et de ceux aux termes desquels les montants visés au sous-alinéa (i) sont versés;
+d) est déduit du revenu de la personne pour l’année trois fois l’excédent éventuel du total visé au sous-alinéa (i) sur le montant visé au sous‑alinéa (ii) :
+(i) le total des montants déductibles en application de l’article 121 de la Loi de l’impôt sur le revenu dans le calcul de l’impôt payable par la personne pour l’année,
+(ii) l’« impôt payable par ailleurs pour l’année en vertu de la présente partie », au sens où cette expression s’entend au paragraphe 126(7) de cette loi pour l’application de l’alinéa 126(1)b) de cette loi, de la personne pour l’année;
+e) est déduit du revenu de la personne pour l’année tout montant inclus au titre du paragraphe 56(6) de la Loi de l’impôt sur le revenu et est inclus dans son revenu pour l’année tout montant déductible au titre de l’alinéa 60y) de cette loi.
+Déclaration ou estimation du revenu
+Déclaration
+14. (1) La demande de supplément doit comporter une déclaration de revenu pour l’année de référence.
+Estimation du revenu du demandeur
+(1.1) Dans les cas où il accorde la dispense prévue au paragraphe 11(4), le ministre peut, sur la base des renseignements dont il dispose, procéder à l’estimation :
+a) du revenu du demandeur pour l’année de référence;
+b) du revenu de l’époux ou conjoint de fait du demandeur pour la même année, si ce dernier est une personne visée au paragraphe 15(2).
+Déclaration du revenu
+(1.2) Le ministre peut exiger que la personne dont il a estimé le revenu conformément au paragraphe (1.1) lui soumette une déclaration de son revenu pour l’un ou l’autre des mois compris dans l’année de référence en question.
+Déclaration supplémentaire
+(2) S’il cesse toute activité rémunérée — occupation ou exploitation d’une entreprise — pendant la période de paiement en cours, le demandeur — ou son époux ou conjoint de fait, dans le cas où celui-ci produit la déclaration visée à l’alinéa 15(2)a) — peut, au plus tard à la fin de la période de paiement suivante, produire une seconde déclaration indiquant son revenu estimatif, indépendamment de celui que lui procure l’exercice de l’activité susmentionnée, pour l’année civile au cours de laquelle se produit la cessation. Son revenu pour l’année de référence correspond alors au total des éléments suivants :
+a) son revenu pour cette année civile, compte non tenu du revenu perçu au cours de celle-ci au titre de l’activité ou de tout régime de pension;
+b) le produit du revenu perçu au titre du régime de pension au cours de la partie de l’année civile qui suit le mois au cours duquel il a cessé son activité et de la fraction dont le numérateur est douze et le dénominateur le nombre de mois compris dans cette partie d’année.
+Cas particulier
+(3) Si, dans le cas visé au paragraphe (2), la cessation des activités a lieu au cours du dernier mois de l’année civile qui se termine au cours de la période de paiement en cours, le demandeur — ou son époux ou conjoint de fait, dans le cas où celui-ci produit la déclaration visée à l’alinéa 15(2)a) — peut, au plus tard à la fin de la période de paiement suivante, produire la seconde déclaration pour l’année civile qui suit le mois au cours duquel il cesse son activité. Le cas échéant, le revenu perçu au cours de cette année civile est réputé constituer son revenu pour l’année de référence.
+Déclaration supplémentaire en cas de perte de revenu
+(4) Le demandeur — ou son époux ou conjoint de fait, dans le cas où celui-ci produit la déclaration visée à l’alinéa 15(2)a) — peut aussi produire une seconde déclaration lorsqu’il subit une perte de revenu par suite de la suppression ou de la réduction du revenu perçu au titre de son régime de pension, au plus tard à la fin de la période de paiement suivant la période de paiement en cours. La seconde déclaration porte alors sur son revenu estimatif de l’année civile au cours de laquelle il a subi cette perte, compte non tenu du revenu perçu au titre du régime de pension pour les mois précédant celui où il a subi la perte. Son revenu pour l’année de référence correspond alors au total des éléments suivants :
+a) son revenu pour cette année civile, compte non tenu du revenu perçu au cours de celle-ci au titre du régime de pension;
+b) le produit du revenu perçu au titre du régime de pension au cours de la partie de l’année civile qui suit le mois précédant le mois au cours duquel il a subi cette perte et de la fraction dont le numérateur est douze et le dénominateur le nombre de mois compris dans cette partie d’année.
+Déclaration supplémentaire dans les cas où la cessation d’activité commence avant la période de paiement en cours
+(5) Si la cessation d’activité a eu lieu dans les cas visés aux alinéas a) ou b), le demandeur — ou son époux ou conjoint de fait, dans le cas où celui-ci produit la déclaration visée à l’alinéa 15(2)a) — peut, au plus tard à la fin de la période de paiement en cours, produire une seconde déclaration où figure :
+a) si la cessation a eu lieu au cours de l’année civile précédant la période de paiement, son revenu estimatif pour l’année civile se terminant pendant la période de paiement en cours, son revenu de l’année civile étant alors réputé constituer son revenu pour l’année de référence;
+b) si la cessation a eu lieu au cours d’un mois antérieur à la période de paiement et postérieur à l’année civile précédant cette période de paiement, son revenu estimatif pour l’année civile se terminant pendant la période de paiement en cours, avec indication du revenu réellement perçu au cours de cette année civile, au titre de l’exercice de l’activité, son revenu pour l’année de référence correspondant alors au total des éléments suivants :
+(i) son revenu pour cette année civile, compte non tenu du revenu perçu au cours de celle-ci au titre de l’activité ou de tout régime de pension,
+(ii) le produit du revenu perçu au titre du régime de pension au cours de la partie de l’année civile qui suit le mois au cours duquel il a cessé son activité et de la fraction dont le numérateur est douze et le dénominateur le nombre de mois compris dans cette partie d’année.
+Déclaration supplémentaire en cas de perte de revenu antérieure à la période de paiement en cours
+(6) Si la cessation d’activité a eu lieu dans les cas visés aux alinéas a) ou b), le demandeur — ou son époux ou conjoint de fait, dans le cas où celui-ci produit la déclaration visée à l’alinéa 15(2)a) — peut, lorsqu’il subit une perte de revenu par suite de la suppression ou de la réduction du revenu perçu au titre de son régime de pension, produire, au plus tard à la fin de la période de paiement en cours, une seconde déclaration où figure :
+a) si la perte est subie au cours de l’année civile précédant la période de paiement, son revenu estimatif pour l’année civile se terminant pendant la période de paiement en cours, son revenu de cette année civile étant alors réputé constituer son revenu pour l’année de référence;
+b) si la perte est subie au cours d’un mois antérieur à la période de paiement et postérieur à l’année civile précédant cette année, son revenu estimatif pour l’année civile se terminant pendant la période de paiement en cours, avec indication du revenu réellement perçu au cours de la partie de l’année civile qui précède le mois au cours duquel il a subi cette perte au titre du régime de pension, son revenu pour l’année de référence correspondant alors au total des éléments suivants :
+(i) son revenu pour cette année civile, compte non tenu du revenu perçu au cours de celle-ci au titre du régime de pension,
+(ii) le produit du revenu perçu au titre du régime de pension au cours de la partie de l’année civile qui suit le mois précédant le mois au cours duquel il a subi cette perte et de la fraction dont le numérateur est douze et le dénominateur le nombre de mois compris dans cette partie d’année.
+Déclaration produite en vertu du par. (2), (3) ou (4)
+(7) La production de la déclaration de revenu estimatif visée aux paragraphes (2), (3) ou (4) par le demandeur ou son époux ou conjoint de fait ne donne lieu, en ce qui concerne le premier, à aucun supplément quant aux mois suivants de la période de paiement en cours :
+a) en cas de cessation d’activité, le mois où celle-ci, selon la déclaration, a eu lieu et les mois précédents;
+b) en cas de perte de revenu consécutive à la suppression ou à la réduction du revenu perçu au titre du régime de pension, les mois précédant, selon la déclaration, le mois au cours duquel la perte a été subie.
+[7] À la lecture des dispositions ci-avant reproduites, il n'y a aucun doute quant à la portée du texte. En d'autres termes, il n'y a aucune possibilité de prétendre qu'il y a place à une certaine interprétation.
+[8] Le texte est clair et la décision que l'appelant conteste au moyen du présent appel est tout à fait conforme aux dispositions de la Loi. L'appelant ne fait malheureusement pas la distinction entre un revenu de bien et un revenu d'entreprise.
+[9] Je dois confirmer la décision comme étant bien fondée aux termes des dispositions pertinentes.
+[10] En conséquence, l'appel est rejeté, le tout sans frais.
+Signé à Ottawa, Canada, ce 9e jour d'août 2007.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2007CCI126
+Nº DU DOSSIER DE LA COUR : 2006-3341(OAS)
+INTITULÉ DE LA CAUSE : Fernand Jean c. M.D.R.H.C.
+LIEU DE L’AUDIENCE : Rimouski (Québec)
+DATE DE L’AUDIENCE : le 21 février 2007
+MOTIFS DU JUGEMENT PAR : L'honorable juge Alain Tardif
+DATE DU JUGEMENT : le 9 août 2007
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimé : :
+Me Marie-Claude Landry
+AVOCATE INSCRITE AU DOSSIER :
+Pour l'appelant:
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

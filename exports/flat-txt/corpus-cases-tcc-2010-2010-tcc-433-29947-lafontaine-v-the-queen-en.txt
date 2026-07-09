@@ -1,0 +1,291 @@
+Title: Lafontaine v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29947/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-433-29947-lafontaine-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-08-20
+
+# Lafontaine v. The Queen
+
+- Citation: 2010 TCC 433
+- Decision date: 2010-08-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6493, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lafontaine v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-08-20
+Neutral citation
+2010 TCC 433
+File numbers
+2007-200(IT)I
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-200(IT)I
+BETWEEN:
+BELLA LAFONTAINE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals called for hearing with the appeals of
+Kimberly Marinacci (2007-973(IT)I),
+Simon A. Paul (2007-989(IT)I),
+Robert Hendry (2007-1111(IT)I),
+Sarah B. Doxtater (2007-3011(IT)I) and
+Joanna Wemigwans (2008-4043(IT)I),
+on August 16, 2010, at Toronto, Ontario
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Agent for the Appellant:
+Seth LeFort
+Counsel for the Respondent:
+Andrea Jackett
+Brandon Siegal
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 1995, 1996, 1997, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007 and 2008 taxation years are dismissed.
+Signed at Halifax, Nova Scotia, this 20th day of August, 2010.
+“Wyman W. Webb”
+Webb, J.
+Docket: 2007-973(IT)I
+BETWEEN:
+KIMBERLY MARINACCI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals called for hearing with the appeals of
+Bella Lafontaine (2007-200(IT)I),
+Simon A. Paul (2007-989(IT)I),
+Robert Hendry (2007-1111(IT)I),
+Sarah B. Doxtater (2007-3011(IT)I), and
+Joanna Wemigwans (2008-4043(IT)I),
+on August 16, 2010, at Toronto, Ontario
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Agent for the Appellant:
+Seth LeFort
+Counsel for the Respondent:
+Andrea Jackett
+Brandon Siegal
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 1999 and 2000 taxation years are dismissed.
+Signed at Halifax, Nova Scotia, this 20th day of August, 2010.
+“Wyman W. Webb”
+Webb, J.
+Docket: 2007-989(IT)I
+BETWEEN:
+SIMON A. PAUL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals called for hearing with the appeals of
+Bella Lafontaine (2007-200(IT)I),
+Kimberly Marinacci (2007-973(IT)I),
+Robert Hendry (2007-1111(IT)I),
+Sarah B. Doxtater (2007-3011(IT)I) and
+Joanna Wemigwans (2008-4043(IT)I),
+on August 16, 2010, at Toronto, Ontario
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Agent for the Appellant:
+Seth LeFort
+Counsel for the Respondent:
+Andrea Jackett
+Brandon Siegal
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 1995 and 1996 taxation years are dismissed.
+Signed at Halifax, Nova Scotia, this 20th day of August, 2010.
+“Wyman W. Webb”
+Webb, J.
+Docket: 2007-1111(IT)I
+BETWEEN:
+ROBERT HENDRY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals called for hearing with the appeals of
+Bella Lafontaine (2007-200(IT)I),
+Kimberly Marinacci (2007-973(IT)I),
+Simon A. Paul (2007-989(IT)I),
+Sarah B. Doxtater (2007-3011(IT)I), and
+Joanna Wemigwans (2008-4043(IT)I,
+on August 16, 2010, at Toronto, Ontario
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Agent for the Appellant:
+Seth LeFort
+Counsel for the Respondent:
+Andrea Jackett
+Brandon Siegal
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007 and 2008 taxation years are dismissed.
+Signed at Halifax, Nova Scotia, this 20th day of August, 2010.
+“Wyman W. Webb”
+Webb, J.
+Docket: 2007-3011(IT)I
+BETWEEN:
+SARAH B. DOXTATER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals called for hearing with the appeals of
+Bella Lafontaine (2007-200(IT)I),
+Kimberly Marinacci (2007-973(IT)I),
+Simon A. Paul (2007-989(IT)I),
+Robert Hendry (2007-1111(IT)I), and
+Joanna Wemigwans (2008-4043(IT)I),
+on August 16, 2010, at Toronto, Ontario
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Agent for the Appellant:
+Seth LeFort
+Counsel for the Respondent:
+Andrea Jackett
+Brandon Siegal
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2003, 2004, 2005 and 2007 taxation years are dismissed.
+Signed at Halifax, Nova Scotia, this 20th day of August, 2010.
+“Wyman W. Webb”
+Webb, J.
+Docket: 2008-4043(IT)I
+BETWEEN:
+JOANNA WEMIGWANS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals called for hearing with the appeals of
+Bella Lafontaine (2007-200(IT)I),
+Kimberly Marinacci (2007-973(IT)I),
+Simon A. Paul (2007-989(IT)I),
+Robert Hendry (2007-1111(IT)I), and
+Sarah B. Doxtater (2007-3011(IT)I),
+on August 16, 2010, at Toronto, Ontario
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Agent for the Appellant:
+Seth LeFort
+Counsel for the Respondent:
+Andrea Jackett
+Brandon Siegal
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2006, 2007 and 2008 taxation years are dismissed.
+Signed at Halifax, Nova Scotia, this 20th day of August, 2010.
+“Wyman W. Webb”
+Webb, J.
+Citation: 2010TCC433
+Date: 20100820
+Docket: 2007-200(IT)I
+BETWEEN:
+BELLA LAFONTAINE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+AND BETWEEN:
+2007-973(IT)I
+KIMBERLY MARINACCI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+AND BETWEEN:
+2007-989(IT)I
+SIMON A. PAUL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+AND BETWEEN:
+2007-1111(IT)I
+ROBERT HENDRY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+AND BETWEEN:
+2007-3011(IT)I
+SARAH B. DOXTATER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+AND BETWEEN:
+2008-4043(IT)I
+JOANNA WEMIGWANS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb, J.
+[1] All of the Appellants are represented by Seth LeFort, who was acting as their agent. Mr. LeFort stated at the commencement of the hearing that he would not be calling any evidence and was only present to state the position of the Appellants. The position of the Appellants was that they were requesting an alternate process to resolve the disagreement that has arisen between the Respondent and the Appellants. The Appellants (except Robert Hendry) had appealed to this Court in relation to the assessments (or reassessments) of taxes imposed under the Income Tax Act in relation to income earned while they were employees of Native Leasing Services and in the case of Robert Hendry in relation to the amount that he was claiming as a tax credit pursuant to section 118 of the Income Tax Act for his spouse, which is dependent on whether the income earned by his spouse, while she was an employee of Native Leasing Services, should be included in her income for the purposes of determining his claim for this tax credit.
+[2] This Court was formed by an Act of Parliament, the Tax Court of Canada Act. The jurisdiction of this Court is set out in section 12 of that Act and in particular subsection 12(1) of this Act provides as follows:
+12. (1) The Court has exclusive original jurisdiction to hear and determine references and appeals to the Court on matters arising under the Air Travellers Security Charge Act, the Canada Pension Plan, the Cultural Property Export and Import Act, Part V.1 of the Customs Act, the Employment Insurance Act, the Excise Act, 2001, Part IX of the Excise Tax Act, the Income Tax Act, the Old Age Security Act, the Petroleum and Gas Revenue Tax Act and the Softwood Lumber Products Export Charge Act, 2006 when references or appeals to the Court are provided for in those Acts.
+(emphasis added)
+[3] The remedies that this Court may grant in relation to appeals arising under the Income Tax Act are set out in section 171 of this Act which provides that:
+171. (1) The Tax Court of Canada may dispose of an appeal by
+(a) dismissing it; or
+(b) allowing it and
+(i) vacating the assessment,
+(ii) varying the assessment, or
+(iii) referring the assessment back to the Minister for reconsideration and reassessment.
+[4] This Court does not have the power to compel the Respondent to pursue any other process to resolve a dispute related to taxes payable under the Income Tax Act.
+[5] The Appellants did not raise any arguments in relation to the assessments or reassessments that were appealed to this Court and made no attempt to distinguish their cases from those that have been previously decided in relation to individuals who were employees of Native Leasing Services or a related company, namely:
+a. The Queen v. Shilling, 2001 DTC 5420 (FCA). Leave to appeal this decision to the Supreme Court of Canada was dismissed ([2001] S.C.C.A. No. 434);
+b. Horn and Williams v. The Queen [2008] 1 C.T.C. 140, 2007 DTC 5589 (FC); appeals to the FCA were dismissed 2008 FCA 352, 2008 DTC 6743; Application for leave to appeal to the Supreme Court of Canada was dismissed ([2009] S.C.C.A. No. 8);
+c. Roe v. The Queen, 2009 DTC 1020, 2008 TCC 667;
+d. Googoo v. The Queen, 2009 DTC 1061; and
+e. McIvor et al. v. The Queen, 2009 DTC 1330, 2009 TCC 469.
+[6] Since the Appellants did not introduce any evidence and stated that they were seeking an alternate process to resolve the dispute, their appeals to this Court are dismissed.
+Signed at Halifax, Nova Scotia, this 20th day of August, 2010.
+“Wyman W. Webb”
+Webb, J.
+CITATION: 2010TCC433
+COURT FILE NOS.: 2007-200(IT)I; 2007-973(IT)I;
+2007-989(IT)I; 2007-1111(IT)I;
+2007-3011(IT)I; 2008-4043(IT)I
+STYLE OF CAUSE: BELLA LAFONTAINE AND
+H.M.Q. AND BETWEEN KIMBERLY MARINACCI AND H.M.Q. AND BETWEEN SIMON A. PAUL AND H.M.Q. AND BETWEEN ROBERT HENDRY AND H.M.Q. AND BETWEEN SARAH B. DOXTATER AND H.M.Q. AND BETWEEN JOANNA WEMIGWANS AND H.M.Q.
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: August 16, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: August 20, 2010
+APPEARANCES:
+Agent the Appellants:
+Seth LeFort
+Counsel for the Respondent:
+Andrea Jackett
+Brandon Siegal
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan,
+Deputy Attorney General of Canada
+Ottawa, Canada

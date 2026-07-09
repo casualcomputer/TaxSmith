@@ -1,0 +1,161 @@
+---
+title: "Kasindi c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26481/index.do"
+last_modified: "2004-08-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 539"
+citation2: ""
+neutral_citation: "2004 CCI 539"
+decision_date: "2004-08-19"
+language: "fr"
+item_id: "26481"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3261
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:07:54.636000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8b457005edb529e25d7f4b1f7d26b763af7d4e4519042df58032f231c48f7a19"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kasindi c. La Reine
+
+- Citation: 2004 CCI 539
+- Decision date: 2004-08-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3261, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kasindi c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-08-19
+Référence neutre
+2004 CCI 539
+Numéro de dossier
+2003-4376(IT)I
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-4376(IT)I
+ENTRE :
+ELISABETH KASINDI,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 30 juillet 2004, à Montréal (Québec).
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocate de l'intimée :
+Me Julie David
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année de base 2001 est rejeté selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 19e jour d'août 2004.
+« Paul Bédard »
+Juge Bédard
+Référence : 2004CCI539
+Date : 20040819
+Dossier : 2003-4376(IT)I
+ENTRE :
+ELISABETH KASINDI,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Il s'agit d'un appel, régi par la procédure informelle, relatif à la prestation fiscale canadienne pour enfants (PFCE) pour l'année de base 2001.
+[2] En date du 17 avril 2003, le ministre du Revenu national (le « Ministre » ) a établi à l'égard de l'appelante un avis de nouvelle détermination concernant la PFCE pour l'année de base 2001.
+[3] Dans cet avis, le Ministre réclamait de l'appelante le remboursement d'une PFCE versée en trop s'élevant à 949,69 $ pour l'année de base 2001.
+[4] En établissant l'avis de nouvelle détermination concernant la PFCE pour l'année de base en question, le Ministre s'est appuyé sur les faits suivants énoncés au paragraphe 5 de la Réponse à l'avis d'appel :
+a) L'appelante est la grand-mère de Joseph Kaleba Mutemberi;
+b) L'appelante avait la garde de Joseph Kaleba Mutemberi jusqu'au 30 d'octobre 2002;
+c) À partir du 30 octobre 2002 et jusqu'au mois de mars 2003, Joseph Kaleba Mutemberi était sous la garde de sa tante Mme Sidonie Kaleba;
+d) Le Ministre a déterminé que l'appelante n'était pas le particulier admissible à l'égard de son petit-fils Joseph Kaleba Mutemberi pour la période de novembre 2002 à mars 2003, conformément à l'article 122.6 de la Loi de l'impôt sur le revenu (ci-après la « Loi » );
+e) Le Ministre a donc établi que l'appelante n'avait pas droit au montant de 949,69 $ pour l'année de base 2001.
+[5] La seule question en litige est celle de savoir si le Ministre a eu tort de décider que l'appelante n'était pas un particulier admissible pour la période en cause, soit de novembre 2002 à mars 2003.
+[6] La définition de « particulier admissible » à l'article 122.6 de la Loi de l'impôt sur le revenu (la « Loi » ) était à l'époque ainsi rédigée :
+« particulier admissible » - « particulier admissible » S'agissant, à un moment donné, du particulier admissible à l'égard d'une personne à charge admissible, personne qui répond aux conditions suivantes à ce moment :
+a) elle réside avec la personne à charge;
+b) elle est la personne - père ou mère de la personne à charge - qui assume principalement la responsabilité pour le soin et l'éducation de cette dernière;
+c) elle réside au Canada ou, si elle est l'époux ou le conjoint de fait visé d'une personne qui est réputée, par le paragraphe 250(1), résider au Canada tout au long de l'année d'imposition qui comprend ce moment, y a résidé au cours d'une année d'imposition antérieure;
+d) elle n'est pas visée aux alinéas 149(1)a) ou b);
+e) elle est, ou son époux ou conjoint de fait visé est, soit citoyen canadien, soit :
+(i) résident permanent au sens du paragraphe 2(1) de la Loi sur l'immigration et la protection des réfugiés.
+(ii) résident temporaire ou titulaire d'un permis de séjour temporaire visés par la Loi sur l'immigration et la protection des réfugiés ayant résidé au Canada durant la période de 18 mois précédant ce moment,
+(iii) personne protégée au titre de la Loi sur l'immigration et la protection des réfugiés.
+(iv) quelqu'un qui fait partie, d'une catégorie précisée dans le Règlement sur les catégories d'immigrants précisées pour des motifs d'ordre humanitaire pris en application de la Loi sur l'immigration.
+Pour l'application de la présente définition :
+f) si la personne à charge réside avec sa mère, la personne qui assume principalement la responsabilité pour le soin et l'éducation de la personne à charge est présumée être la mère;
+g) la présomption visée à l'alinéa f) ne s'applique pas dans les circonstances prévues par règlement;
+h) les critères prévus par règlement serviront à déterminer en quoi consistent le soin et l'éducation d'une personne.
+[7] Nous ne nous préoccuperons ici que des conditions établies aux alinéas a) et b) de la définition de « particulier admissible » à l'article 122 de la Loi.
+[8] Il s'agit donc de savoir :
+(i) si l'appelante résidait avec son petit-fils durant la période de novembre 2002 à mars 2003;
+(ii) si l'appelante était le parent qui assumait la responsabilité pour le soin et l'éducation du petit-fils.
+Analyse
+[9] L'appelante et sa fille, madame Sidonie Kaliba, ont témoigné.
+[10] La preuve a révélé que :
+(i) le petit-fils de l'appelante a quitté la résidence de cette dernière en novembre 2002 pour aller vivre chez sa tante, madame Sidonie Kaliba;
+(ii) le petit-fils a résidé chez sa tante pendant toute la période en cause;
+(iii) l'appelante a transféré à sa fille les PFCE reçues durant la période en cause;
+(iv) la tante a de plus demandé et reçu pour la même période les PFCE à l'égard du petit-fils de l'appelante.
+[11] Puisque la preuve a démontré que le petit-fils de l'appelante a vécu durant la période en cause avec sa tante, je suis d'avis que l'appelante n'était pas le « particulier admissible » pendant cette période, car la condition établie à l'alinéa a) de la définition de « particulier admissible » à l'article 122.6 de la Loi n'a pas été remplie. Puisque cette condition n'a pas été remplie, je ne vois pas l'utilité d'analyser la question de savoir si l'appelante était, durant la période en cause, le parent qui assumait principalement la responsabilité pour le soin et l'éducation de son petit-fils, d'autant plus que l'appelante n'a présenté aucune preuve à cet égard.
+[12] En regard de ce qui précède, l'appel est rejeté.
+Signé à Ottawa, Canada, ce 19e jour d'août 2004.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE :
+2004CCI539
+No DU DOSSIER DE LA COUR :
+2003-4376(IT)I
+INTITULÉ DE LA CAUSE :
+Elisabeth Kasindi et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+Le 30 juillet 2004
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Paul Bédard
+DATE DU JUGEMENT :
+Le 19 août 2004
+COMPARUTIONS :
+Pour l'appelante :
+L'appelante elle-même
+Pour l'intimée :
+Me Julie David
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelante :
+Nom :
+Étude :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

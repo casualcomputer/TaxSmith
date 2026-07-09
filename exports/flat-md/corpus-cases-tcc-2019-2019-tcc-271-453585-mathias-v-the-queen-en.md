@@ -1,0 +1,186 @@
+---
+title: "Mathias v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/453585/index.do"
+last_modified: "2019-12-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 TCC 271"
+citation2: ""
+neutral_citation: "2019 TCC 271"
+decision_date: "2019-12-20"
+language: "en"
+item_id: "453585"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4283
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:56:55.900000+00:00"
+cases_cited_count: 5
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "624fa63e7c2540ec4e32770d7d7a75677a410903e46e766dc95396242f0e6103"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mathias v. The Queen
+
+- Citation: 2019 TCC 271
+- Decision date: 2019-12-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4283, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mathias v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-12-20
+Neutral citation
+2019 TCC 271
+File numbers
+2015-4411(IT)G
+Judges and Taxing Officers
+Bruce Russell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2015-4411(IT)G
+BETWEEN:
+RALPH MATHIAS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on February 12-13, 2019 and April 25, 2019, at Calgary, Alberta
+Before: The Honourable Justice B. Russell
+Appearances:
+Counsel for the Appellant:
+Jonathan N. Garbutt
+Counsel for the Respondent:
+Valerie Meier
+Emera Nguyen
+AMENDED JUDGMENT
+The appeal of the five reassessments raised November 6, 2014 under the federal Income Tax Act (ITA) for the Appellant’s 2004, 2005, 2006, 2007 and 2008 taxation years respectively, is allowed. The said reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to additional property income expense deductions of $7,855, $10,462, $12,520, $12,898 and $12,403 for his 2004, 2005, 2006, 2007 and 2008 taxation years, respectively.
+The parties will have until February 14, 2020 to make written submissions to the Court as to costs.
+This Amended Judgment is issued in substitution for the Judgment issued November 28, 2019, for the purpose of changing the deadline date for the making of written submissions as to cost.
+Signed at Halifax, Nova Scotia, this 20th day of December 2019.
+“B.Russell”
+Russell J.
+Citation: 2019 TCC 271
+Date: 20191128
+Docket: 2015-4411(IT)G
+BETWEEN:
+RALPH MATHIAS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Russell J.
+I. Introduction:
+[1] The Appellant, Ralph Mathias (RM), has appealed reassessments raised November 6, 2014 under the federal Income Tax Act (ITA) for his 2004, 2005, 2006, 2007 and 2008 taxation years.
+[2] RM is a U.S. citizen who during the 2002 - 2010 period was resident in Calgary, Alberta for work purposes. His curriculum vitae (c.v.) (Ex. A-3) shows that he holds a baccalaureate degree in chemical engineering and has, over the years, taken twelve continuing education courses. It shows also that he is a “construction management/project engineer”, and has “extensive experience in construction and project management, front-end process design, detailed process design, and commissioning for: refining, oil & gas processing, and water treatment”. The c.v. does not identify RM as a licensed professional engineer (P. Eng. or P.E.). His work history goes back at least to the early 1980s and by 1996 in the c.v. he identifies as a “consulting process engineer” and “consulting engineer”.
+[3] RM testified that he was quite specialized in his work abilities, particularly as to extraction of sulphur in forms of acid and gas, in the course of petroleum processing.
+[4] In September 2002, i.e. somewhat prior to commencement of the five year 2004 - 2008 subject period, RM commenced work as a gas processing engineer for Bantrel Co. (Bantrel) in Calgary. At all material times, Bantrel was engaged in the business of providing engineering expertise in the oil and gas industry clients. RM continued with such work until into 2008.
+[5] RM worked pursuant to a contract he signed effective early September 2002 with Design Group Staffing Inc. (DGS) of Calgary, which provided staffing for, inter alia, Bantrel. The agreement was for 12 months and could be extended. RM’s agreement appears to have been annually extended until into 2008. It provided for his appointment as a “senior process engineer” with an hourly work rate of $81, paid by DGS. It explicitly contemplated RM as being an independent contractor, although of course whether he was or not is a matter of evidence as to factual circumstances as opposed to simply intention or subjective belief. It further provides that RM was “expected to work under the direction and supervision of the designated member of the Client [i.e., Bantrel] who will be responsible for your work product.” It provides also for a “group benefits plan” offered to all DGS “contractors”.
+[6] RM’s evidence was that this contract was renewed annually, each time with an increased hourly rate which he never negotiated. His testified that he would always turn in a time-sheet showing 40 hours worked per week, notwithstanding that he may actually have worked in excess of 40 hours. This was not fully explained and I am left to infer that he was advised or otherwise of the understanding it was appropriate to proceed in that fashion. His time-sheets were not akin to invoices as they simply reported a standard 40 hours worked per week without any reference to hourly rate and total owed, and without any reference to or inclusion of GST. He never submitted invoices (as distinguished from the weekly time-sheets) for work during the relevant 2004-2008 period pursuant to his annually renewed DGS contract.
+II. Issues:
+[7] The first issue is whether RM’s income from work pursuant to his DGL contract was business income or employment income. This requires consideration as to whether RM’s work status for this work was independent contractor as he asserts, or employee as concluded by the Minister of National Revenue (Minister) in raising the appealed reassessments. The second issue, much dependent upon the conclusion of this first issue, is the matter of the Minister’s denial of various expenses the Appellant claimed for the subject five year period.
+III. Employee or Independent Contractor:
+[8] There are well-established legal tests for ascertaining a worker’s status as to being either employee or independent contractor. The Supreme Court of Canada in 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., 2001 SCC 59, paras. 47 and 48, per Major J., wrote:
+Although there is no universal test to determine whether a person is an employee or an independent contractor, I agree with MacGuigan J.A. that a persuasive approach to the issue is that taken by Cooke J. in Market Investigations, supra. The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker’s activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker’s opportunity for profit in the performance of his or her tasks.
+It bears repeating that the above factors constitute a non-exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case.
+[9] This Sagaz extract provides that a basic question should be asked - whether the worker is performing services “as a person in business on his own account”. Or, as often restated, “whose business is it?” Determination of that broad question is to be guided by consideration of various identified factors including, level of control exercised over the worker’s activities, whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker’s opportunity for profit in the performance of his or her tasks. Additionally, this list of factors is flexible as to content and application. The applicable factual circumstances will determine the relative weight of each of these factors.
+[10] Here, regarding RM performing work for Bantrel, the first factor for consideration is what level of control Bantrel exercised over RM’s work activities. Regarding the work RM did for Bantrel, on behalf of its clients, RM testified there was no one at Bantrel who could knowledgeably oversee his specialized work from a “how to do it” perspective. Notwithstanding, for various work projects for Bantrel clients, typically Bantrel would position RM as a member of an engineering team, led by a particular engineer so appointed by Bantrel. RM never served as a team leader. The team leader would assign RM to a particular aspect of the client work to be done, as would be other team members. RM’s work contribution to the Bantrel team’s work would be signed-off by a designated professional engineer (P. Eng.). Due to the applicable ISO 9000 quality-control process, no person could solely produce a final document, particularly with, as often was the case in RM’s work, involvement of hazardous materials such as sulphur.
+[11] As well, RM was required to abide by Bantrel’s code of conduct for Bantrel workers, and as well Bantrel’s written policies respecting confidentiality, safety and loss-management policies.
+[12] In short it appears that RM was under Bantrel’s control as to administrative aspects of his work but not so much in relation to the required expertise of his work, although noting that a Bantrel professional engineer would sign-off for work done by RM.
+[13] The factor of “control” does not easily operate in the context of specialized work. In Wiebe Door Services Ltd. v. MNR, [1986] 3 F.C. 553 (FCA) at pp. 558-9, MacGuigan, JA observed (as adopted in Sagaz, para. 38):
+A principal inadequacy [with the control test] is its apparent dependence on the exact terms in which the task in question is contracted for: where the contract contains detailed specifications and conditions, which would be the normal expectation in a contract with an independent contractor, the control may even be greater than where it is to be exercised by direction on the job, as would be the normal expectation in a contract with a servant, but a literal application of the test might find the actual control to be less. In addition, the test has broken down completely in relation to highly skilled and professional workers, who possess skills far beyond the ability of their employers to direct.
+[14] Thus, insofar as RM had, as he claimed, highly specialized knowledge that he utilized in his work with Bantrel, the above jurisprudence indicates that the “control” test, “has broken down completely in relation to highly skilled and professional workers, who possess skills far beyond the ability of their employers to direct.” Thus the “control” test is not a significant factor in determining RM’s work status with Bantrel. If and to the extent that the control test might apply, I observe that in administrative aspects of his work including requiring sign-off from a registered engineer, RM was under the control of Bantrel. To the extent anyone should directly supervise his work from a “how it’s done” perspective, the concept of control is essentially not applicable. RM testified as to his specialized knowledge and the Respondent did not significantly suggest otherwise.
+[15] RM’s counsel’s oral submissions put much emphasis on the asserted high degree of specialization in RM’s work. Accepting that as true, in considering the worker status of RM, this assertion neither helps nor hinders RM’s case. It simply serves to render the “control” test as unhelpful in ascertaining RM’s worker status.
+[16] The next factor for consideration is ownership of tools or equipment used by RM in the course of rendering his work service(s). His counsel’s submission is that the tools RM brought to his work were his extensive and specialized knowledge and, although not brought to work but available to him, his asserted large library of reference materials including as to past projects he had worked on. These records were said to be split up and kept at one location close to Calgary and otherwise in several locations in the western U.S. These various locations were all airport hangars where RM, who owned and flew his own Cessna plane, owned storage facilities. We saw no pictorial evidence of these. I asked RM’s counsel if he had any judicial authority for the proposition that an individual’s own knowledge and/or personal library constituted tools or equipment as anticipated by this ownership of tools factor. He did not.
+[17] The evidence otherwise was that RM spent upwards of 80% of his working time at the Bantrel office premises in Calgary, where he was provided for his own use a desk, chair and Bantrel computer. The remainder of his time was spent at his Calgary condominium residence (evenings) doing work and at the nearby Springbrook airport hangar where he kept his plane and a drafting desk and some of the reference materials referred to above. Bantrel also paid the $40,000-odd for RM’s licensure for use of specialized software on the Bantrel computer he was given to use.
+[18] On the basis of the foregoing I conclude that the ownership of tools factor favours RM being considered an employee of Bantrel, with income paid through Bantrel’s agent DGS.
+[19] The next factor for consideration is whether or not RM hires his own helpers in connection with his Bantrel work. The answer to that is specifically that he did not with respect to this Bantrel work. Also it was unclear to what extent there were “helpers” on the Bantrel project teams over the years that RM was part of the Bantrel project teams. Of course to any extent RM might have engaged in informal consultations with persons he knew, in the course of completing his work, would not be pertinent. Any such consultations did not involve hiring by either RM or Bantrel. In context it would appear from the evidence that persons involved on the Bantrel teams, be they “helpers” or not, would have been Bantrel-selected persons. On the whole I find this factor is not neutral and somewhat favours RM being considered an employee.
+[20] The degree of financial risk taken by RM is the next factor to be considered. I do not see financial risk in this scenario. RM was paid his hourly rate for 40 hours per week throughout the entire subject period. There was no evidence of any question or doubt as to whether or not such payments would be made. These payments were akin to regular payment of wages or a salary. There was no evidence as to risk if any particular work project handled by a Bantrel team somehow resulted in a less than fully positive outcome for the Bantrel client. Also, and in particular, liability insurance for work done by the Appellant was paid for by Bantrel.
+[21] RM had little liability in any event for his work as his work product always needed to be signed-off by a P. Eng. As for the work prematurely ending, there seemed no particular risk of that. RM’s evidence was to the effect that the one year contract signed in 2002 was renewed annually without any particular effort let alone negotiation on his part, until 2008. Term employment is term employment. I view the degree of financial risk to be basically non-existent and that accordingly this factor favours RM being considered an employee.
+[22] The next factor is the degree of responsibility for investment and management held by RM. Here there was no evidence indicating any such responsibility. He had no management responsibilities in relation to the work he did for Bantrel. He had no role in selecting the work, if viewed as an investment, that Bantrel would assign a team to do, or would assign to him to do, as one member of a Bantrel work team. This factor as well favours RM being viewed as an employee rather than independent contractor.
+[23] The last factor to be considered is the worker’s opportunity for profit in the performance of his tasks. Again here, I do not see that factor favouring RM being an independent contractor. He got straight pay. There was no indication of any bonuses being made available. His hourly wage rate increased incrementally each year and without negotiation on the part of RM. Furthermore he for whatever reason reported simply 40 hours per week of work without regard to what number of hours he might actually have worked in a given week in excess of that number. This factor indicates that the Appellant was engaged as an employee, notwithstanding the 2002 contract representing he was an independent contractor. The actual facts as discussed above simply do not support the labelling of RM as an independent contractor in the 2002 contract.
+[24] Additionally there is the 2004 decision of this Court in 758997 Alberta Ltd. v. Her Majesty, 2004 TCC 755, per McArthur, J. This decision deals with quite similar facts. The issue in this 2004 case was as well whether the worker was an employee or independent contractor. In that case the worker, an engineering technologist, had been engaged by the same DGS for work with the same Bantrel. His tools were not his own, but he did have his own library of reference material. At paras. 17, 18 and 19, Justice McArthur wrote as follows, finding that the worker was in an employee/employer relationship and was not an independent contractor:
+I have little difficulty in concluding that Mr. Pielasa was not in business on his own account. The Appellant's counsel submits that the biggest hurdle the Minister had to get over, in determining whether Mr. Pielasa is an employee, is who is his employer? DGS found his work, Bantrel and Nova supervised. It is irrelevant who the actual employer was, DGS, Bantrel or Nova, probably all three but it does not really matter.
+All that needs to be determined is whether it can be reasonably considered that Mr. Pielasa was in business for himself vis-à-vis the drafting work. He was not. His arrangement with DGS, Bantrel and Nova put him in a subordinate role where he was under the control of the three corporations - told what to do, when and where to do it and in some respects, how to do it. Obviously, this test supports the Minister's position. He and 758 [Mr.Pielasa’s personal corporation] were not the boss, the three corporations were. 758 was paid on an hourly basis for Mr. Pielasa's services. He and 758 had no risk of losses or ability to increase profits reflecting an employee relationship. The tools he provided were insignificant. This test also favours an employee relationship.
+The independence he had, stemmed from the management style of the three corporations and not from an independent contractor status. The contractual wording in the DGS contract describing Mr. Pielasa as an independent contractor and not an employee has no foundation in reality. The facts disprove the contractual description and should be ignored. The freedom over his project management and working relationship with the three entities is no different from the independence competent professional employees are commonly granted by their employers. Mr. Pielasa's independence reflected the management style of the three corporations and not an independent contractor.
+[25] The facts in this current case regarding RM, as discussed above, give me no reason to deviate from the views and conclusion expressed by Justice MacArthur.
+[26] RM’s counsel cited general reliance on two decisions - Wolf v. Her Majesty, 2002 FCA 96 and Royal Winnipeg Ballet v. M.N.R. 2006 FCA 87. The main submission per Wolf was that the taxpayer in that case was a “hustler” with respect to always looking for new work, and that in the case at bar so was RM. However, being on the look-out for new or better work is not a factor or akin to a factor identified in Sagaz. Certainly employees not just independent contractors can be on the look-out for new work. As stated by Bowie, J. in Kuhlmann v. Her Majesty, 2011 TCC 410 at para. 7: “There is no commerciality and no businesslike activity here. There is simply someone looking for work, either as an independent contractor or as an employee, either full time or part time. It is not reasonable to expect the fisc to subsidize the search for employment...”.
+[27] Further the evidence in this case was far from clear that RM was frequently travelling on the look-out for new work. There was little if any documentary proof that such enquiries were being made. Additionally, RM had a separate reason for travel via piloting his own airplane - the need to maintain his commercial pilot license.
+[28] In Wolf the Federal Court of Appeal was motivated to find the worker was an independent contractor in part by virtue of absence of pension and health insurance benefits, absence of job security, no union protection, no educational course he could attend and no hope for promotion. In the present case in the contract RM signed in 2002 there is provision for a “Group Benefits Plan” for “contractors” (as he was labeled) which included coverage for “extended healthcare” with no annual maximum, basic dental care of $1,500 annually and long-term disability coverage of up to $5,000 monthly, with the plan being made available for up to 6 months after end of work with DGS. In the case at bar there was little if any evidence that other DGS or Bantrel workers had pension benefits or union protection or ability to attend educational courses or hope for promotion. Regarding aspects for promotion I do not think that there was anything preventing Bantrel from offering a more senior position to RM. Also, in general many employment positions, particularly with small employers, lack some or all of these aspects. Thus Wolf is distinguished from the current case.
+[29] Turning to Royal Winnipeg Ballet, in that case the dancers and the RWB itself shared a view that the dancers were independent contractors, and the trial judge had not asked whether the evidence was more consistent with that conclusion as opposed to the conclusion they were employees. Here the control test was found to be pertinent and had been wrongly applied. But in the present case the control factor is not pertinent, per the above analysis including the Supreme Court of Canada’s view as to control being in essence irrelevant where the worker undertakes specialized services that other personnel, due to lack of “how” knowledge, cannot supervise, i.e. exercise control over.
+[30] On the basis of all the foregoing, and asking the question whose business is it, I conclude that the business was Bantrel’s and/or DGS’s; it was not RM’s. And accordingly, the income tendered to RM by Bantrel’s staffing agent DGS for work services performed for Bantrel during the relevant five year period was employment income and not business income.
+IV. Deductions:
+[31] Having concluded that the income earned by RM for his work for Bantrel and indirectly DGS, was employment income, the next question is what if any expense deductions may be claimed by RM in respect thereof.
+[32] Section 8 of the ITA deals with deduction of expenses from employment income. Subsection 8(2) provides that only expenses permitted by section 8 may be deducted in computing income for a taxation year from an office or employment. As well, subsection 8(10) provides that an amount otherwise deductible - paragraphs (1)(c), (f), (h) or (h.1) or paragraphs 1(i)(ii) or (iii) of section 8- shall not be deducted unless filed with the return is a prescribed form signed by the taxpayer’s employer certifying the required conditions of the applicable provision were met.
+[33] RM’s counsel, who of course had argued that RM was an independent contractor and not an employee, made no claims respecting deductible employment expenses. Nevertheless I will briefly address that topic.
+[34] Upon review of section 8, the only expenses identified that seem to warrant any consideration are “travel expenses” per paragraph 8(1)(h), “motor vehicle travel expenses” per paragraph 8(1)(h.i), “meals” per subsection 8(4), and “work space in home” per subsection 8(13).
+[35] A requirement for both the “travel expenses” and “motor vehicle travel expenses” provisions is that the taxpayer in the taxation year have been “ordinarily required to carry on the duties of the...employment away from the employer's place of business or in different places”.This was not borne out by the evidence in this case, which to the contrary established that ordinarily RM worked daily at the Bantrel office premises in Calgary. In addition no subsection 8(13) employer's certificate was submitted, being a second reason for being unable to allow paragraphs 8(1)(h) and (h.1) travel expenses and motor vehicle travel expenses for RM qua employee.
+[36] Pursuant to subsection 8(4), “meals expenses” are only deductible per paragraph 8(1)(f) in conjunction with sales expenses of a commission employee, which RM was not; or as part of paragraph 8(1)((h) travel expenses, which as noted above are not permissible in RM’s circumstances.
+[37] Finally, “work space in home” expenses per subsection 8(13) require that RM have principally performed his duties of employment in his self-contained domestic establishment, which was not the case; or that the self-contained domestic establishment space was used on a regular and continuous basis for meeting customers or other persons in the ordinary course of his employment. This as well was not the case.
+[38] Turning from employment expenses, I now address claimed deductions from property income - in particular rental income of RM from two houses he owned in the City of Long Beach, California throughout the relevant five year period and a condominium in Calgary that he owned for the latter two years of that period.
+[39] The documentary evidence supporting the claimed deductions was not strong. As stated at one point by Respondent’s counsel Ms. Meier, “We have [from the Appellant, RM] a lot of documents but precious little clarity.” (Transcript, April 25, 2019, p. 264.) Appellant’s counsel himself acknowledged this, stating that, “I understand my - my colleague and friend’s frustration with the - with the documents.” (Transcript, April 25, 2019, p. 302). The problem apparently was that the documents were only assembled several years after the years in issue, when U.S. citizen RM learned that Canada Revenue Agency (CRA) expected him to file Canadian returns for these subject five taxation years.
+[40] At the hearing a list a document entitled “Crown’s concessions - Rental expenses” was submitted to the Court. It represents what the Respondent would be prepared to accept for deductible rental expenses over and above what had been allowed at the audit stage of the appealed reassessments. (A notice of objection had been subsequently served but before it had been responded to by the Minister, this appeal was brought; thus this matter was never addressed by CRA Appeals.)
+[41] Attached hereto as Annex “A” is a copy of the Crown’s concessions document that I have referred to. I am prepared to allow these additions. To what extent anything more is permitted is addressed below. The Crown’s concessions, which I accept, add to RM’s permissible property income deductions for the five subject years as follows - $7,855 (2004), $10,462 (2005), $12,520 (2006), $12,898 (2007) and $12,403 (2008).
+[42] One aspect of the issue of deductible expenses is the deductible amount of remuneration RM paid to his former spouse - Ms. Lantie Marquardt (Lantie) of the City of Long Beach or environs. Throughout the subject 2004 to 2008 taxation years she took care of and managed his two Long Beach properties as to needed repairs and dealing with tenants, as well as setting up the kitchen for his Calgary condominium in or about 2007. The evidence as to what Lantie actually was paid was vague - and complicated by the fact she and RM retained a strong personal relationship, and also she was engaged in work for some of his business related claims which are irrelevant as per the above finding that he was engaged in employment not business during the subject years. It appears she may have been paid something of the order of $1,500 (U.S.) per month. I note as well that Lantie’s monthly “invoices” for services seemingly were prepared some years after the fact, only when the CRA returns were finally being prepared.
+[43] RM’s counsel made no specific submission on this point. I accept the figure of $175 (U.S.) per month as deductible payments to Lantie during the period in issue. This is the same amount RM paid an arm’s length real estate agent (Brent Heflin) to care for the same two Long Beach properties Lantie was monitoring, and I agree with the Respondent that it does not seem appropriate she would be paid more than was Mr. Heflin for this work. As noted above, the additional portions of monthly payments to her would reasonably be attributable to their personal relationship as ex-spousal friends, and to her “business” work for RM which was separate and apart from tending the two Long Beach properties. The $175 (U.S.) per month is already fully reflected in the “commissions” line in the Crown’s concessions document (Annex “A”). In other words, my conclusion is that I would not add to that “concession”. The recognition of (only) $175 (U.S.) per month would be pursuant to section 67 of the ITA.
+[44] The only other aspect of the property income deductions I wish to address is the matter of deductible mortgage interest payments. As can be seen at Annex “A” this is by far the largest single Crown conceded property expense - ranging from $15,644 (2004) to $30,693 (2008). Is there scope for further addition of interest payments? This again is where the documentation is unhelpful. Evidence as to the actual amounts of at least some of the mortgage loans - principal outstanding and interest rate on loans during the years under appeal - is lacking. There also is inadequate evidence as to when the principal amounts were drawn down. As stated by Respondent’s counsel – “We have some evidence of some draws, but we see quite clearly that they’re deposited to chequing accounts and intermingled with funds already there and then money goes off in different directions.” (Transcript, April 25, 2019, p. 290.)
+[45] I have concern also for the applicability of subparagraph 20(1)(c)(i) of the ITA which allows for deduction of interest paid on borrowed money used for the purpose of earning income from a business or property. As established by the Supreme Court of Canada in Shell Canada Ltd. v. Canada, [1999] 3 S.C.R. 622 at para. 28, the deduction is not available where the link between the borrowed money and the eligible use is indirect.
+[46] I am unable to make out from the evidence, particularly Ex. A-34, any additional claimed interest that I can clearly trace as between borrowed principal and its eligible use, and as well be satisfied that the link between the two is direct so as to comply with subparagraph 20(1)(c)(i).
+[47] Also I do not have adequate evidence that is sufficiently clear so as to allow any further claimed deductions in respect of rental income.
+[48] In conclusion the appeal of each of the reassessments is allowed, and the specific reassessments are referred to the Minister for reconsideration and reassessment on the basis that the Appellant is entitled to additional deductions of $7,855, $10,462, $12,520, $12,898 and $12,403 for his 2004, 2005, 2006, 2007 and 2008 taxation years, respectively. In addition, the parties will have 30 days from the issuance date of the judgment in this matter to make written submissions to the Court as to costs.
+Signed at Ottawa, Canada, this 28th day of November 2019.
+“B.Russell”
+Russell J.
+Annex “A”
+CITATION:
+2019 TCC 271
+COURT FILE NO.:
+2015-4411(IT)G
+STYLE OF CAUSE:
+RALPH MATHIAS AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+February 12-13, 2019 and April 25, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Russell
+DATE OF JUDGMENT:
+November 28, 2019
+APPEARANCES:
+Counsel for the Appellant:
+Jonathan N. Garbutt
+Counsel for the Respondent:
+Valerie Meier
+Emera Nguyen
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Jonathan N. Garbutt
+Firm:
+Dominion Tax Law
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

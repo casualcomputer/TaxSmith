@@ -1,0 +1,318 @@
+---
+title: "ARCHIVED - Registered Charities Newsletter No. 30 - Summer 2008"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/charitiesnews-30/archived-registered-charities-newsletter-no-30-summer-2008.html
+last_modified: 2008-08-15
+---
+# ARCHIVED - Registered Charities Newsletter No. 30 - Summer 2008
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## Contents
+
+- [From the Director General](#_Toc206556428)
+
+- [What’s New?](#_Toc206556432)
+
+    - [Giving a voice to small and rural charities](#_Toc206556433)
+
+    - [Surf before you call: A new look and feel to the Charities and Giving Web site](#_Toc206556434)
+
+    - [New tools for registered charities: Charities Checklists](#_Toc206556435)
+
+    - [Proposed new policy on fundraising available on our Web site for consultation](#_Toc206556436)
+
+    - [New guide for ethnocultural groups now available on our Web site](#_Toc206556437)
+
+    - [Charities Partnership and Outreach Program update](#_Toc206556438)
+
+- [Important note](#_Toc206556440)
+
+    - [Charities Directorate telephone enquiries service standard](#_Toc206556441)
+
+- [Reminders](#_Toc206556442)
+
+    - [Electronic mailing list (EML)](#_Toc206556443)
+
+    - [Charities Information Sessions (previously known as Roadshows)](#_Toc206556444)
+
+    - [Guide T4033A, *Completing the Registered Charity Information Return*](#_Toc206556445)
+
+- [Coming soon](#_Toc206556446)
+
+    - [Excess Corporate Holdings Worksheet for Private Foundations](#_Toc206556447)
+
+    - [New *Registered Charity Information Return* (Form T3010B)](#_Toc206556448)
+
+    - [New *Application to Register a Charity Under the Income Tax Act* (Form T2050) and accompanying Guide T4063, *Registering a Charity for Income Tax Purposes*](#_Toc206556449)
+
+    - [New pages on the Web site](#_Toc206556450)
+
+- [Contact information](#_Toc206556451)
+
+## From the Director General
+
+For well over a year, the Charities Directorate has been hard at work on important changes that affect how we interact with the charitable sector. A number of these changes have just been introduced, and we thought it would be fitting to send out a special edition of our Newsletter to tell you about them. We would also like to mention the recent release of RC4457, *Small and Rural Charities: Making a Difference for Canadians*, detailed in the following article “Giving a voice to small and rural charities”, as well as the Charities Partnership and Outreach Program call for proposals for 2008-2009, detailed in the “Charities Partnership and Outreach Program update”, below.
+
+### Listening to charities
+
+- We have been speaking with and listening to charities and donors to find out:
+
+- what we are doing right;
+
+- what we could be doing better; and
+
+- how to address some of your most important concerns.
+
+### What we’ve heard
+
+Generally, we have heard that our Client Service phone service is very good, that there is a wealth of information available on our Web site, and that our staff is knowledgeable and professional. We also understand that there is room for improvement in some areas.
+
+### What we’ve done
+
+We have moved quickly to make changes that will help charities access the information and services they need to understand their roles and meet their obligations. Additional changes and enhancements will be announced over the coming months.
+
+We recognize that the more quickly and easily staff and volunteers can fulfill the necessary requirements, the more time they will have to focus on their charitable work, and this is beneficial to everyone involved. Take a close look at the articles in this special edition of the Newsletter, and then check out our new Web pages. We think you will be pleasantly surprised.
+
+## What’s New?
+
+### Giving a voice to small and rural charities
+
+The CRA recognizes that small and rural charities make significant contributions to the well-being of their communities and to all Canadians through their dedication and service. We also understand that small and rural charities face unique challenges that may constrain their ability to meet their regulatory obligations under the *Income Tax Act*. The Small and Rural Charities Initiative was undertaken to gain a better understanding of these challenges, thereby improving services and processes and reducing the administrative burden for small and rural charities.
+
+The first phase of the Small and Rural Charities Initiative consisted of six one-day workshops in October 2007 with participants representing a cross-section of the small and rural charities. The workshops were held in Toronto, Saskatoon, Lethbridge, Kelowna, Trois-Rivières, and Moncton.
+
+The second phase of the Small and Rural Charities Initiative consisted of three meetings with nine panel members who participated in the first phase. Brian McCauley, the Assistant Commissioner of the Legislative Policy and Regulatory Affairs Branch, chaired the panel which met in November and December 2007 to review and validate the outcomes of the first phase and work collaboratively to develop a joint action plan for the Minister of National Revenue. On June 25, 2008, the Honourable Gordon O'Connor, Minister of National Revenue, met with representatives of the charitable sector for the release of the report: RC4457,*Small and Rural Charities: Making a Difference for Canadians*, which is now available on the CRA Web site at [www.cra.gc.ca/E/pub/tg/rc4457](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4457.html) (you can also call 1‑800-267‑2384 to obtain a copy).
+
+The report includes an ambitious action plan aimed at helping small and rural charities meet their legislative and regulatory obligations more simply and easily. Specifically, the joint action plan proposes activities to be undertaken by the CRA to:
+
+- provide tailored services to the sector;
+
+- reduce compliance burden;
+
+- improve awareness and access to information;
+
+- provide educational tools;
+
+- lead collaborative initiatives with federal, provincial and territorial partners;
+
+- and advance sector roles and responsibilities.
+
+The report is also intended to be an educational resource for the sector. The CRA has included a section on the voluntary sector, highlighting its unique challenges and its contribution to our communities, a section describing how charities are regulated in Canada, and a description of government and sector resources available to the voluntary sector to assist it in both fulfilling its charitable purposes and meeting its administrative and legislative requirements.
+
+### Surf before you call: A new look and feel to the Charities and Giving Web site
+
+You may have noticed a new look and feel to our Web site. We’ve been listening to your suggestions and we’ve created a more efficient, more navigable gateway to the policies, procedures, and legislation that are important to the charitable sector.
+
+We regularly consult with charities to learn where we can improve our services. Additionally, we monitor the types of calls we receive, the types of questions we’re asked at our Charities Information Sessions, and the types of issues identified during audits.
+
+The feedback we receive most often from charities and other stakeholders is that while there is plenty of information available on our Web site, finding simple answers and explanations to everyday questions can be a challenge.
+
+The following are some of the modifications we’ve made to quickly and easily bring you the answers you’re looking for:
+
+#### New Web pages:
+
+We encourage you to take a moment to check out the new Web pages under the “Operating a Registered Charity” heading. These pages have been developed with charities’ specific needs in mind.
+
+“Operating a Registered Charity” includes over 50 pages of new content on the following topics:
+
+- Checklists for charities;
+
+- Registration number;
+
+- Activities;
+
+- Receiving gifts;
+
+- Issuing receipts;
+
+- Annual *Information Return* (Form T3010);
+
+- Annual spending requirement (disbursement quota);
+
+- Books and records;
+
+- Audits and sanctions;
+
+- Making changes;
+
+- Making requests that require approval;
+
+- Policies and technical information; and
+
+- Frequently asked questions.
+
+The information provided on our new Web pages is clear, focused, and concise. You should get the answers you need quickly and easily. However, you may want more details on your topic, or you may wish to review our official policy statement on a particular procedure or regulation. Therefore, each topic includes links to corresponding definitions, publications, and policy statements.
+
+#### A new question and answer structure that is:
+
+- arranged by areas of interest (for example, Applying for registration, Operating a registered charity, Information for donors); then
+
+- divided by subject matter (for example, Issuing receipts, Annual Information Return, Audits and sanctions); and then
+
+- subdivided to answer the specific questions you might have (for example, What information is required on a receipt? How do we change our fiscal period end? What is the disbursement quota?).
+
+You may also have noticed that topics formerly displayed on the left‑hand side of the screen have been regrouped into centre boxes in a more logical and structured order, as seen below.
+
+#### Documents are available in two formats:
+
+Given that some charities do not have high‑speed Internet, most of our guides are available in both PDF and HTML formats. Documents in HTML format are Web‑based, load faster than those in PDF, and are more convenient to navigate online. You can print the pages you need using HTML. If you want to print the whole document, you should use the PDF version. So take a look yourself. We hope that you’ll find our new Web pages easier to navigate, allowing you to find the answers to your questions quickly.
+
+If you have difficulty finding or understanding the material on the Web site, our officers are available to assist you at 1-800-267-2384.
+
+### New tools for registered charities: Charities Checklists
+
+The CRA has recently provided charities with checklists to ensure they are aware of reporting obligations, reporting timelines and how to protect their registered status, in accordance with its commitments owing to the report RC4457,*Small and Rural Charities: Making a Difference for Canadians*. The checklists address key compliance issues-not only for small and rural charities, but for all charities.
+
+Two copies of the Basic Guidelines Checklist, which outlines key obligations for registered charities, have been sent to all registered charities. One copy of the Basic Guidelines Checklist is for the charity’s board of directors, so it is aware of, and fully understands, the legal responsibilities related to operating a registered charity in Canada. The second copy is for the person responsible for maintaining the charity’s books and records and filing Form T3010, *Registered Charity Information Return*.
+
+The Basic Guidelines Checklist and other checklists are also available on the CRA Web site at [www.cra-arc.gc.ca/tx/chrts/chcklsts/menu-eng.html](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/checklists-charities.html).You may obtain a copy by calling 1‑800‑267‑2384.
+
+To make sure you are aware of any updates to the checklists, and of any changes to the CRA’s regulation of charities, register for our electronic mailing list at [www.cra-arc.gc.ca/esrvc-srvce/mllst/sbscrbchrts-eng.html](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists/electronic-mailing-list-charities-giving-whats-new.html)
+
+### Proposed new policy on fundraising available on our Web site for consultation
+
+The CRA wants to hear from charities, individuals involved in charitable work, government departments, and the general public about any aspect of our proposed guidelines.
+
+The following proposed policy paper has been posted on our Web site for consultation:
+
+**Consultation on proposed policy on fundraising by Registered Charities –** www.cra-arc.gc.ca/tx/chrts/cnslttns/fndrsng-eng.html.
+
+This document sets out the proposed policy of the CRA’s Charities Directorate concerning the reporting guidelines for fundraising expenses and the process and considerations for determining whether a registered charity’s fundraising is acceptable. All comments received by August 31, 2008, will be considered.
+
+### New guide for ethnocultural groups now available on our Web site
+
+**Charitable Work and Ethnocultural Groups ‑ Information on registering as a charity** – [http://www.cra-arc.gc.ca/tx/chrts/plcy/thn-eng.html](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/checklists-charities.html).
+
+The purpose of this guide is to help ethnocultural organizations understand the requirements and responsibilities associated with applying for, and becoming, a registered charity.
+
+### Charities Partnership and Outreach Program update
+
+The Charities Partnership and Outreach Program is designed to provide contribution funding to registered charities and non‑profit organizations serving the charitable sector in Canada to assist in developing and delivering innovative compliance‑related education and training projects for charities.
+
+#### Agreements for six projects have been signed, the first two in 2006.
+
+1. **Legal Information Society of Nova Scotia –** [www.cra-arc.gc.ca/tx/chrts/fndng/lsn-eng.html](https://www.canada.ca/chrts-gvng/chrts/fndng/lns-eng.html). The goal of this project is to teach the charitable sector about its legal obligations under the *Income Tax Act* and, in particular, about the *Registered Charity Information Return* (Form T3010A), through the development of materials, online resources, and, in collaboration with the other Atlantic Public Legal Education Information associations, targeted information sessions. The Legal Information Society of Nova Scotia (LISNS) prepared annotated versions of Form T3010A and the other forms necessary to complete a registered charity’s annual information return. These are available on LISNS’s Web site at [www.legalinfo.org/index.php?option=com_content&task=view&id=31&Itemid=152](http://www.legalinfo.org/index.php?option=com_content&task=view&id=31&Itemid=152) in both English and French. By the end of March 2008, LISNS and its sibling public legal education organizations in the Atlantic region—the Public Legal Information Association of Newfoundland and Labrador (PLIAN – [www.publiclegalinfo.com/](http://www.publiclegalinfo.com/)); the Community Legal Information Association of Prince Edward Island (CLIAPEI – [www.cliapei.ca/content/page/front/cliapei/](http://www.cliapei.ca/content/page/front/cliapei/)); and the Public Legal Education and Information Society of New Brunswick (PLEISNB – [www.legal-info-legale.nb.ca/](http://www.legal-info-legale.nb.ca/)) had delivered 26 information sessions to over 300 organizations, introducing these resources to the charitable community in the region. The Atlantic public legal education organizations will remain engaged with the charitable community to determine how the resources will be used in the next cycle of submitting their information returns. LISNS also updated its *Guide* *to Law for Nonprofit Organizations in Atlantic Canada* to include additional information about the Registered Charity Information Return. This publication is available in both English and French on LISNS’s Web site at [www.legalinfo.org/index.php?option=com_content&task=view&id=158&Itemid=206](http://www.legalinfo.org/index.php?option=com_content&task=view&id=158&Itemid=206). For more information about this initiative, and the annotated forms, contact the LISNS Project Officer, by email at [projectofficer@legalinfo.org](mailto:projectofficer@legalinfo.org) or by calling 902‑454‑2198.
+
+2. **The Centre for Voluntary Sector Research and Development and the Canadian Federation of Voluntary Sector Networks –** [www.cra-arc.gc.ca/tx/chrts/fndng/cvsrd-eng.html](https://www.canada.ca/chrts-gvng/chrts/fndng/cvsrd-eng.html). “The Charities File: Information and Resources to File Complete and Accurate T3010As on Time” contains two training modules to help registered charities prepare for, and file, their *Registered Charity Information Return* (Form T3010A) package. The first module covers the year‑round administrative practices that are important for charities to comply with their obligations under the *Income Tax Act*, and to gather the information they require to complete Form T3010A. The second module actually walks people through the form and provides clarification on the language and meaning of the various questions. Close to 100 workshops have already taken place across the country, given by 17 local trainers who are working with non‑profit and voluntary sector networks in their communities. A Web site containing resources, guides, and e‑learning tools, as well as a calendar of learning events, was launched in December 2007. In order to reach people in rural and remote areas, tele‑learning sessions have also been offered. In addition to CVSRD’s local network partners, linkages have been established with more than 80 national organizations and professional associations that are making these resources more accessible to their members and will be hosting workshops at their conferences. For more information on this project, please visit the Voluntary Gateway Web site at [www.voluntarygateway.ca](http://www.voluntarygateway.ca/). The remaining four projects were announced on May 12, 2008. The funding for these projects, which will be carried out over the next three years, is provided in support of the recipients’ efforts to educate and train registered charities on issues that may lead to non‑compliance, such as conducting foreign activities, fundraising, issuing receipts, and maintaining books and records. Project profiles are available at [www.cra.gc.ca/tx/chrts/fndng/grmnts-eng.html](https://www.canada.ca/chrts-gvng/chrts/fndng/grmnts-eng.html) **.**
+
+3. Imagine Canada – [www.imaginecanada.ca](http://www.imaginecanada.ca/)
+
+4. The Legal Resource Centre of Alberta Ltd. – [www.legalresourcecentre.ca/](http://www.legalresourcecentre.ca/)
+
+5. The Canadian Association of the Deaf – [http://www.cad.ca/index_en.php](http://www.cad.ca/index_en.php)
+
+6. The Canadian Council for International Cooperation – [http://www.ccic.ca/ccic/ccic_e.php](http://www.ccic.ca/ccic/ccic_e.php)
+
+### Call for proposals
+
+The Charities Directorate of the Canada Revenue Agency (CRA) is accepting funding proposals for the **Charities Partnership and Outreach Program**. The overall objective of this program is to increase charitable sector compliance with relevant parts of the *Income Tax Act*. Funding is available to registered charities and non-profit organizations serving the charitable sector in Canada to support projects designed to:
+
+- improve the capacity of the sector to develop and deliver sustainable compliance based education programs;
+
+- increase the capacity of the charitable sector in meeting regulatory compliance requirements in a sustainable fashion; and
+
+- raise awareness among the charitable sector of regulatory obligations under the *Income Tax Act*.
+
+#### 2008/09 funding priorities:
+
+Projects designed to address the distinct needs of small and rural charities in meeting their obligations under the *Income Tax Act* will be considered for possible funding. More specifically, innovative projects designed to address one, or more, of the following priorities will be considered:
+
+1. Projects that focus on the development of tools designed to assist small and rural charities in locating and/or accessing local, regional, and/or provincial information/resources intended to support charities in meeting their regulatory obligations under the *Income Tax Act*;
+
+2. Projects with broad national application designed to raise the awareness and capacity of boards of directors regarding their compliance obligations under the *Income Tax Act*; and
+
+3. Projects that foster collaboration with other registered charities to increase the ability of small and rural charities to meet their obligations under the *Income Tax Act.*
+
+**The call for proposals closes August 29th, 2008.** More information on applying for project funding under this program is available at [www.cra-arc.gc.ca/tx/chrts/fndng/menu-eng.html](https://www.canada.ca/chrts-gvng/chrts/fndng/menu-eng.html). More information on “small and rural charities” is available at [www.cra-arc.gc.ca/tx/chrts/src/](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/resources-charities-donors/small-rural-charities-initiative-sarc.html).
+
+## Important note
+
+### Charities Directorate telephone enquiries service standard
+
+We strive to provide you with fair, courteous, and efficient service. Through our bilingual telephone enquiries service, we will serve you in the language of your choice, and we are always ready to answer any questions you may have about our policies, procedures, and services.
+
+Our goal is to respond to Client Services telephone enquiries within one hundred and twenty (120) seconds of the call entering the queue.
+
+You can reach the Charities Directorate by calling:
+
+- 1‑800‑267‑2384 (English);
+
+- 1‑888‑892‑5667 (bilingual); or
+
+- 1‑800‑665‑0354 (TTY service for persons with a hearing or speech impairment).
+
+If you wish to comment on the Client Services Telephone Enquiries service standard, please click on the link below.
+
+**Telephone service standard** – [ctss-bndst1@cra-arc.gc.ca](mailto:ctss-bndst1@cra-arc.gc.ca)
+
+## Reminders
+
+### Electronic mailing list (EML)
+
+We encourage all officers, directors, employees and volunteers of registered charities to subscribe to the *Charities and Giving - What’s new* electronic mailing list (EML). The EML is a free service that allows subscribers to be notified by email about new information added to the Charities and Giving Web site. By subscribing, you will receive approximately two emails per month to let you know what’s new and what may be of interest to you.
+
+To subscribe to the electronic mailing list, please visit our Web site at [www.cra-arc.gc.ca/esrvc-srvce/mllst/sbscrbchrts-eng.html](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists/electronic-mailing-list-charities-giving-whats-new.html) and follow the two easy steps. Various other Canada Revenue Agency (CRA) electronic mailing lists are also available. We invite you to visit [www.cra-arc.gc.ca/esrvc-srvce/mllst/sbscrb-eng.html](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists/subscribe-a-canada-revenue-agency-electronic-mailing-list.html)for a complete list of topics.
+
+The CRA takes your privacy seriously. Any and all information that you provide when you sign up for the electronic mailing list will remain completely confidential. Our lists will not be shared with any other organization. For more information, we invite you to read our statement on privacy protection at [www.cra-arc.gc.ca/esrvc-srvce/mllst/prvcy-eng.html](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists/electronic-mailing-lists-1.html)
+
+### Charities Information Sessions (previously known as Roadshows)
+
+The last year that information and invitations for the Charities Information Sessions were sent by mail was 2007. Starting in 2008, all information about the Charities Information Sessions is available through the Web site, or by calling the Charities Directorate Client Service Section at 1‑800‑267‑2384. If you haven’t yet subscribed to the electronic mailing list, do so now to make sure you don’t miss out on this year’s sessions.
+
+If you want to attend one of the free Charities Information Sessions, you will have to register online at [www.cra-arc.gc.ca/tx/chrts/sssns/nvttns/menu-eng.html](https://www.canada.ca/chrts-gvng/chrts/cmmnctn/sssns/menu-eng.html). Should you or others you know not have access to the Internet, you can call us at 1‑800‑267‑2384, and we will be pleased to process your registration for a session.
+
+Spring sessions are held in May and June, while fall sessions are held in September, October, and November. Go to [www.cra-arc.gc.ca/tx/chrts/sssns/menu-eng.html](https://www.canada.ca/chrts-gvng/chrts/cmmnctn/sssns/menu-eng.html)for details on venues, times, and dates.
+
+### Guide T4033A, Completing the Registered Charity Information Return
+
+This is a reminder that, effective January 2009, the Charities Directorate will discontinue print and mail‑out of Guide T4033A, *Completing the Registered Charity Information Return*, to all registered charities. However, the CRA’s Charities and Giving Web site at [www.cra.gc.ca/charities](http://www.cra.gc.ca/charities) will continue to offer the electronic version of the guide, as well as many other forms and publications.
+
+The *Registered Charity Information Return* (Form T3010) and schedules that currently form part of the guide will continue to be printed and mailed out as usual. Registered charities that do not have access to the Internet and require a paper copy of the guide, or that need assistance finding and working with Guide T4033A online, can call the Charities Directorate Client Service Section at 1‑800‑267‑2384.
+
+## Coming soon
+
+### Excess Corporate Holdings Worksheet for Private Foundations
+
+This worksheet is now being sent out with the T3010 packages to **private foundations only**. Private foundations that hold more than 2% of the issued and outstanding shares of any class of shares of a corporation at any time during their first fiscal periods beginning after March 18, 2007, must complete the worksheet. Generally, private foundations with fiscal periods ending March 31, 2008, will be the first to receive this new worksheet. **Note:** Charitable organizations and public foundations will not be receiving the Excess Corporate Holdings Worksheet.
+
+### New Registered Charity Information Return (Form T3010B)
+
+The Charities Directorate anticipates introducing a new *Registered Charity Information Return*(Form T3010B*)* in 2009. We have divided the information on Form T3010B between a simple core form and topic‑related schedules to make the form easier to use. We anticipate the re‑designed form will relieve the filing burden for smaller charities in particular. It will also provide the public with more meaningful information about registered charities to allow them to make more informed donor decisions.
+
+### New Application to Register a Charity Under the Income Tax Act (Form T2050) and accompanying Guide T4063, Registering a Charity for Income Tax Purposes
+
+Keep an eye out for the release of the new *Application to Register a Charity Under the Income Tax Act* (Form T2050), and its companion Guide T4063, *Registering a Charity for Income Tax Purposes*. Form T2050 is being revised in accordance with certain legislative amendments, and to address the form’s general ease of use. Guide T4063 is being revised to put need‑to‑know information about the advantages, requirements, and obligations of registered charities front and centre, in order to facilitate the process of applying for charitable registration under the *Income Tax Act*.
+
+### New pages on the Web site
+
+Stay tuned for upcoming Web pages under the “Applying for Registration” heading.
+
+## Contact information
+
+**Email your comments or suggestions:**
+
+about this newsletter to:[Charities-Bienfaisance@cra-arc.gc.ca](mailto:Charities-Bienfaisance@cra-arc.gc.ca)
+
+about our draft publications to: [consultation-policy-politique@cra-arc.gc.ca](mailto:consultation-policy-politique@cra-arc.gc.ca)
+
+about our Charities Information Sessions to:[Information.Sessions@cra-arc.gc.ca](mailto:Information.Sessions@cra-arc.gc.ca)
+
+about our Web site to:[Charities-Bienfaisance@cra-arc.gc.ca](mailto:Charities-Bienfaisance@cra-arc.gc.ca)
+
+You can find all our publications at: [www.cra-arc.gc.ca/tx/chrts/formspubs/menu-eng.html](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/charities-related-forms-publications.html)
+
+Draft publications for consultation are available at:[www.cra-arc.gc.ca/tx/chrts/plcy/cnslttns/menu-eng.html](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/policies-guidance/consultation-feedback-on-policies-guidance.html)
+
+For information on new additions to our Web site concerning charities, see the “What’s new” page at: [www.cra-arc.gc.ca/tx/chrts/whtsnw/menu-eng.html](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/whats-new.html)
+
+For an email notification of these additions, subscribe to the free electronic mailing list at:[www.cra-arc.gc.ca/esrvc-srvce/mllst/sbscrbchrts-eng.html](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists/electronic-mailing-list-charities-giving-whats-new.html).
+
+#### Our policy on the reproduction of the Registered Charities Newsletter:
+
+Articles found in the *Registered Charities Newsletter* may be reproduced in part or in their entirety, for the benefit of donors, the charitable sector, and the public at large. However, the Charities Directorate asks that anyone intending to reproduce material from the Newsletters contact us to let us know what material will be reproduced, when it will be reproduced, and to whom it will be made available. We appreciate your cooperation in this matter.

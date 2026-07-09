@@ -1,0 +1,167 @@
+---
+title: "Charette v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28020/index.do"
+last_modified: "2007-09-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 567"
+citation2: ""
+neutral_citation: "2007 TCC 567"
+decision_date: "2007-09-28"
+language: "en"
+item_id: "28020"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1606
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:40:56.701000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2e3cc8ee8dfdba905d98e54ee6cedb3aad7143f8d2b526b803544030ed30ff17"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Charette v. The Queen
+
+- Citation: 2007 TCC 567
+- Decision date: 2007-09-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1606, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Charette v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-09-28
+Neutral citation
+2007 TCC 567
+File numbers
+2007-3052(IT)APP
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-3052(IT)APP
+BETWEEN:
+DENIS F. CHARETTE,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Application made on September 21, 2007, at Montréal, Quebec
+Before: The Honourable Justice Louise Lamarre Proulx
+Appearances:
+Counsel for the Applicant:
+Pierre-Louis Trudeau
+Counsel for the Respondent:
+Nadia Golmier
+____________________________________________________________________
+ORDER
+Upon the application for an order extending the time in which to file an appeal from the assessment under the Income Tax Act for the 1999 taxation year,
+The application is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 28th day of September 2007.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Translation certified true
+on this 8th day of November 2007.
+Brian McCordick, Translator
+Citation: 2007TCC567
+Date: 20070928
+Docket: 2007-3052(IT)APP
+BETWEEN:
+DENIS F. CHARETTE,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR ORDER
+Lamarre Proulx J.
+[1] This is an application for an extension of the time in which the Applicant can file an appeal in this Court with respect to the 1999 taxation year.
+[2] The facts of the instant case are set out in paragraphs 1 to 7 of the Reply to the Application for an Extension of Time:
+[TRANSLATION]
+1. On May 19, 2004, the Minister of National Revenue (hereinafter "the Minister") sent the Applicant a notice of assessment concerning the 1999 taxation year.
+2. On or about August 16, 2004, the Applicant notified the Minister of his objection to the assessment dated May 19, 2004, concerning the 1999 taxation year.
+3. By registered letter mailed on November 2, 2006, the Minister notified the Applicant that he had confirmed the assessment dated May 19, 2004, concerning the 1999 taxation year.
+4. On January 25, 2007, the Minister received from the Post Office, marked "unclaimed", the notice of assessment that he had sent by registered letter on November 2, 2006.
+5. On January 29, 2007, the Minister re-sent to the Applicant, this time by regular mail, the notice of assessment dated November 2, 2006, informing the Applicant that he had 90 days in which to file an appeal, since November 2, 2006, was the correct notice date.
+6. The Applicant did not file a timely appeal with the Tax Court of Canada in respect of the notice of assessment of May 19, 2004, concerning the 1999 taxation year, because the time allotted by subsection 169(1) of the Income Tax Act (hereinafter "the Act") expired on January 31, 2007.
+7. On July 3, 2007, the Applicant filed an application with the Tax Court of Canada to extend the time in which to file an appeal from the notice of assessment dated May 19, 2004, concerning the 1999 taxation year.
+[3] A sworn declaration of a Canada Revenue Agency litigation officer was tendered on consent as Exhibit I‑1. The declaration confirms that the notification of confirmation was sent to the Applicant by registered mail on November 2, 2006. It was also sent by regular mail, on the same date, to the accountant Alain Sylvestre, the Applicant's representative for the purposes of the notice of objection. On January 25, 2007, Canada Post returned to the Minister the notification of confirmation that he had sent out by registered mail. It was marked "unclaimed." On January 29, 2007, the Minister sent the said notification of confirmation by regular mail along with an explanatory letter. The time in which to file an appeal expired on January 31, 2007.
+[4] The explanatory letter dated January 29, 2007, reads:
+[TRANSLATION]
+. . .
+The post office has returned to us, marked "unclaimed", the Minister's notification of confirmation, which was sent to you at the above address by registered mail on November 2, 2006. We are returning the notification to you by regular mail.
+We wish to inform you that the confirmation is considered to have been properly served on November 2, 2006, and the 90‑day period in which to file an appeal in the Tax Court of Canada commenced on that date. . . .
+[5] The letter of November 2, 2006, to the accountant, who represented the Applicant for the purposes of the notice of objection, read as follows:
+[TRANSLATION]
+We have considered the aforementioned objection and have confirmed the assessment. Your client was officially notified of this confirmation.
+Attached is a copy of the Minister's notification of confirmation, as well as an information document concerning the appeal process in the event that your client wishes to exercise his right to appeal.
+[6] The Applicant testified. He said that he contacted his lawyer immediately after receiving the notification of confirmation by regular mail. There was no explanation as to why he did not contact his accountant, since it was his accountant who had acted on his behalf with regard to the notice of objection.
+[7] Indeed, Alain Sylvestre, a chartered accountant, was the one who filed the notice of objection to the assessment. On the same day that the notification of confirmation was sent to the Applicant by registered mail, Mr. Sylvestre was notified of the Minister's decision by regular mail.
+[8] The Applicant asserts that the accountant did not notify him of this decision.
+[9] Counsel for the Respondent submits that, under subparagraph 167(5)(b)(iii), the application must be made as soon as circumstances permit. She submits that this was not done in the case at bar because the application was received five months later.
+[10] Counsel for the Applicant submits that the Applicant contacted his lawyer as soon as he received the notification of confirmation.
+Analysis and determination
+[11] Subsection 167(5) of the Income Tax Act reads:
+(5) When order to be made – No order shall be made under this section unless
+(a) the application is made within one year after the expiration of the time limited by section 169 for appealing; and
+(b) the taxpayer demonstrates that
+(i) within the time otherwise limited by section 169 for appealing the taxpayer
+(A) was unable to act or to instruct another to act in the taxpayer's name, or
+(B) had a bona fide intention to appeal,
+(ii) given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application;
+(iii) the application was made as soon as circumstances permitted,
+and
+(iv) there are reasonable grounds for the appeal.
+[12] Based on the evidence, I am not satisfied that the Applicant was diligent or that he even had an intention to appeal. Firstly, Mr. Sylvestre, the Applicant's representative for the purposes of the objection, did not testify or affirm in writing that he failed to notify the Applicant of the outcome of the objection to the assessment or to discuss it with him. Secondly, the evidence to the effect that the Applicant contacted his lawyer immediately after receiving the letter sent by regular mail on January 29, 2007, is not sufficient. It is a mere assertion by the Applicant. It was not confirmed by the lawyer's appointment book, nor was it confirmed by the retainer of the lawyer by the Applicant.
+[13] Consequently, I am not satisfied that the application was made as soon as circumstances permitted. Moreover, I am not satisfied that, within the time otherwise limited for appealing, he was unable to act or instruct another to act in his name, that he had a bona fide intention to appeal, or that there are reasonable grounds for the appeal.
+[14] For all these reasons, the application for an extension of time is dismissed.
+Signed at Ottawa, Canada, this 28th day of September 2007.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Translation certified true
+on this 8th day of November 2007.
+Brian McCordick, Translator
+CITATION: 2007TCC567
+COURT FILE NO.: 2007-3052(IT)APP
+STYLE OF CAUSE: DENIS F. CHARETTE v.
+THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: September 21, 2007
+REASONS FOR ORDER BY: The Honourable Justice
+Louise Lamarre Proulx
+DATE OF ORDER: September 28, 2007
+APPEARANCES:
+Counsel for the Applicant:
+Pierre-Louis Trudeau
+Counsel for the Respondent:
+Nadia Golmier
+COUNSEL OF RECORD:
+For the Applicant:
+Name: Pierre-Louis Trudeau
+Firm: Pierre-Louis Trudeau, Attorney
+Laval, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

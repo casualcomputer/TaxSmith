@@ -1,0 +1,184 @@
+---
+title: "Ritonja v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27148/index.do"
+last_modified: "2006-06-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 346"
+citation2: ""
+neutral_citation: "2006 CCI 346"
+decision_date: "2006-06-16"
+language: "fr"
+item_id: "27148"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1017
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:32:23.421000+00:00"
+cases_cited_count: 3
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9fb9ec38143cddea62fc3327e9f3c1992724096b2a8edcbecac11c5c2689cdf8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ritonja v. The Queen
+
+- Citation: 2006 CCI 346
+- Decision date: 2006-06-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1017, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ritonja v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-06-16
+Référence neutre
+2006 CCI 346
+Numéro de dossier
+2005-416(IT)I
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-416(IT)I
+ENTRE :
+MILAN RITONJA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 7 juin 2006 à Vancouver (Colombie-Britannique).
+Devant : L'honorable juge en chef D.G.H. Bowman
+Comparutions :
+Représentante de l'appelant : Josephine Ritonja
+Avocats de l'intimée : Me Selena Sit
+Me Ryan Gellings
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l'encontre des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2001 et 2002 sont accueillis, et les cotisations sont déférées au ministre du Revenu national pour qu'il procède à un nouvel examen et à de nouvelles cotisations en se fondant sur la preuve produite par l'appelant selon laquelle celui-ci a payé 7 200 $ au cours de chacune des années en cause en exécution de son obligation relative aux années 1994, 1995, 1996 et 1997 conformément à l'ordonnance de la Cour de district de l'Ontario.
+Signé à Ottawa, Canada, ce 16e jour de juin 2006.
+« D.G.H. Bowman »
+Juge en chef Bowman
+Traduction certifiée conforme
+ce 14e jour de novembre 2006.
+Jean David Robert, traducteur
+Référence : 2006CCI346
+Date : 20060616
+Dossier : 2005-416(IT)I
+ENTRE :
+MILAN RITONJA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge en chef Bowman
+[1] Les présents appels ont été interjetés à l'encontre de cotisations établies en vertu de la Loi de l'impôt sur le revenu (la « Loi » ) pour les années d'imposition 2001 et 2002 de l'appelant. Ils se rapportent à la question de savoir si l'appelant peut déduire de son revenu le montant de la pension alimentaire qu'il a versée au cours des années en cause à son ancienne conjointe de fait Kathy Lynn Tanner pour subvenir aux besoins du fils de celle-ci Jesse David Tanner (ci-après « Jesse » ).
+[2] À un moment donné avant 1990, l'appelant et Mme Tanner se sont séparés, et la Cour de district de l'Ontario a ordonné à l'appelant de verser à Mme Tanner 300 $ par mois pour subvenir aux besoins de Jesse. Les versements devaient se poursuivre jusqu'à ce que se présentât un événement parmi plusieurs, notamment le 16e anniversaire de Jesse, qui a eu lieu le 27 septembre 1998.
+[3] L'appelant allègue qu'il a versé à Mme Tanner 7 200 $ en espèces en juin 2001 et 7 200 $ en espèces en novembre 2002 pour acquitter les arriérés de pension à l'égard des années 1994, 1995, 1996 et 1997. Un reçu produit en preuve et signé par Mme Tanner confirme les versements. La Couronne n'a pas, dans ses observations ou dans sa réponse à l'avis d'appel, contesté l'allégation voulant que les versements aient été effectués, et je n'ai d'autre choix que d'en venir à la conclusion de fait qu'ils l'ont été, bien que le versement en espèces de sommes si importantes me semble plutôt inhabituel. M. Ritonja a affirmé que Mme Tanner avait insisté pour que les sommes soient payées en espèces, et, de plus, il ne voulait pas que son épouse actuelle Josephine prît connaissance des versements. Il se trouve qu'elle s'en est rendu compte. Elle a rempli les déclarations de revenus de son époux pour les années 2001 et 2002 et a aussi agi comme sa représentante au procès.
+[4] Le ministre du Revenu national a refusé la déduction du montant des versements effectués en 2001 et en 2002 dans le calcul du revenu de l'appelant en se fondant sur les hypothèses suivantes :
+[traduction]
+9. En établissant de nouvelles cotisations à l'égard de l'appelant pour les années d'imposition 2001 et 2002 et en les ratifiant, le ministre s'est fondé sur les mêmes hypothèses de fait, qui sont exposées ci-dessous :
+a) au moyen d'une ordonnance rendue par la Cour de district de l'Ontario et datée du 12 juillet 1990 (l' « ordonnance » ), Kathy Lynn Tanner (ci-après « Kathy » ) a obtenu la garde de Jesse, et l'appelant, un droit de visite raisonnable et généreux auprès de celui-ci;
+b) l'ordonnance prescrivait aussi à l'appelant de verser à Kathy une pension alimentaire pour enfants de 300 $ par mois à l'égard de Jesse;
+c) les versements de pension alimentaire pour enfants devaient commencer le 1er juin 1990 et se poursuivre subséquemment le premier de chaque mois jusqu'à ce que l'un des événements suivants ait lieu :
+(i) Jesse cesse de résider à temps plein avec Kathy;
+(ii) Jesse atteigne l'âge de 16 ans;
+(iii) Jesse se marie;
+(iv) Jesse décède;
+(v) Kathy décède;
+(vi) Jesse soit adopté par un autre homme, ou un autre homme joue le rôle de parent auprès de Jesse;
+d) Jesse a eu 16 ans le 27 septembre 1998;
+e) aucune ordonnance ni aucun jugement n'a été rendu par un tribunal compétent, et aucun accord écrit n'a été établi à la suite de l'ordonnance qui enjoignait à l'appelant de verser une pension alimentaire pour enfants à Kathy à l'égard de Jesse.
+Les paragraphes 12 et 13 de la réponse à l'avis d'appel sont ainsi rédigés :
+[traduction]
+12. Il affirme que l'ordonnance exigeait seulement que l'appelant versât une pension alimentaire pour enfants à Kathy jusqu'à ce que Jesse atteignît l'âge de 16 ans. Puisque Jesse a eu 16 ans en 1998, l'appelant n'était pas tenu d'effectuer des versements en application de l'ordonnance au cours des années d'imposition 2001 et 2002, et, par conséquent, même si la pension alimentaire à été versée à Kathy au cours des années en cause, elle n'a pas été versée en application de l'ordonnance, et, donc, le montant des versements ne peut pas être déduit par l'appelant pour les années 2001 et 2002 en vertu du paragraphe 60b) de la Loi.
+13. Il allègue aussi que, si un quelconque montant pouvait être déduit par l'appelant à titre de pension alimentaire pour les années d'imposition 2001 et 2002, affirmation qui n'est pas admise mais explicitement niée, le montant en question ne pourrait dépasser 3 600 $, c.-à-d. 300 $ multipliés par 12 mois, comme le prévoit l'ordonnance.
+[5] L'affirmation selon laquelle M. Ritonja a payé ou déduit la somme de 300 $ par mois pour les années 1994, 1995, 1996 et 1997, ou qu'une telle déduction lui a été accordée ne figure nulle part dans les hypothèses ou les moyens invoqués. La réponse à l'avis d'appel indique que les hypothèses exposées ci-dessus ont été formulées à la fois à l'étape de l'établissement des nouvelles cotisations et à celle de leur ratification.
+[6] L'intimée a téléphoné à M. Ian Metcalfe, agent des appels de l'Agence du revenu du Canada. Il a produit en preuve quelques imprimés qui auraient été tirés des déclarations de revenus de l'appelant, lesquels indiquaient, pour chacune des années 1994, 1995, 1996 et 1997, que l'appelant avait demandé une déduction de 3 600 $ à titre de versements de pension alimentaire et que ces déductions avaient été admises. Qu'il ait réellement effectué les versements de 1994 à 1997 est douteux. Il dit qu'il ne les a pas faits et que les versements de 7 200 $ qu'il avait effectués au cours des années d'imposition 2001 et 2002 visaient à acquitter les arriérés de pension qu'il n'avait pas payés au cours des années antérieures. Il est cependant clair que l'intimée n'a pas indiqué dans sa réponse à l'avis d'appel qu'il avait été tenu pour acquis, à l'étape de l'établissement de la nouvelle cotisation ou à celle de l'appel, où la nouvelle cotisation a été ratifiée, que le montant des versements avait été déduit et que la déduction de ce montant avait été admise pour les années 1994 à 1997. Si l'intimée avait eu l'intention de soumettre cet argument au tribunal, elle aurait dû faire valoir dans les actes de procédure comme hypothèse ou comme affirmation séparée que les versements de 300 $ par mois avaient été effectués, que le montant de ces versements avait été déduit et que la déduction de ce montant avait été admise dans les années antérieures. L'appelant aurait ainsi pu contester l'allégation ou faire valoir des moyens de droit à l'égard de l'effet des déductions dont il se serait prévalu dans les années antérieures. Il se trouve que l'appelant, qui n'était pas représenté par un avocat, a dû faire face à une affirmation non énoncée dans les actes de procédure (qui constituait en réalité du ouï-dire fondé sur un imprimé qui, même si l'on donne aux règles de la preuve l'interprétation la plus libérale possible, n'avait aucune force probante) selon laquelle les montants en cause avaient été déduits et leur déduction admise dans les années antérieures. Compte tenu du fait que ses déclarations de revenus avaient été remplies par H & R Block, l'appelant n'a pas été en mesure de confirmer cette déduction qu'il aurait demandée dans les années antérieures.
+[7] Comme l'a dit le juge Hugessen de la Cour d'appel fédérale dans l'arrêt The Queen v. Richard N. Bowens, 96 DTC 6128 à la page 6129 :
+[...] les hypothèses non plaidées ne peuvent avoir aucun effet sur le fardeau de la preuve dans un sens ou dans l'autre.
+Comme l'a affirmé la juge L'Heureux-Dubé dans l'arrêt Hickman Motors Limited v. The Queen, 97 DTC 5363 à la page 5376 :
+Le fardeau initial consiste seulement à « démolir » les présomptions exactes qu'a utilisées le ministre, mais rien de plus :
+[8] Si la Couronne avait invoqué dans les actes de procédure la déduction antérieure du montant des versements et qu'elle avait fait valoir que cette déduction avait été admise, elle aurait peut-être pu (je mets l'accent sur le mot « peut-être » puisque je ne me prononce pas sur le bien-fondé de l'argument) soulever deux arguments :
+a) l'appelant était irrecevable à affirmer qu'il n'avait pas effectué les versements ni déduit le montant de ceux-ci dans les années antérieures. (Le principe de la fin de non-recevoir est examiné dans la décision Goldstein v. The Queen, 96 DTC 1029.) La fin de non-recevoir doit être exposée dans l'acte de procédure pour qu'elle puisse être invoquée au procès : voir la décisionCrawford v. The Queen, 2002 DTC 1883 et Odgers on Civil Court Actions, 24e éd., paragraphe 13.26, dont le texte suit :
+[traduction]
+Une fin de non-recevoir doit toujours être explicitement invoquée dans un acte de procédure, à moins que l'acte de procédure de la partie adverse ne soit manifestement non recevable, auquel cas il peut donner lieu à une exception d'irrecevabilité, ou à moins qu'il ne soit impossible d'invoquer la fin de non-recevoir dans l'acte de procédure, comme ce fut le cas dans Coppinger v. Norton. Elle ne peut pas être invoquée dans un acte de procédure par une personne qui y est étrangère. Un acte de procédure invoquant une fin de non-recevoir doit toujours être rédigé très soigneusement et méticuleusement. Il doit exposer dans leurs moindres détails les faits sur lesquels est fondée la fin de non-recevoir et doit aussi préciser les allégations que la partie adverse n'aurait pas le droit de prouver.
+b) le paragraphe 248(28) de la Loi empêchait la déduction pour 2001 et 2002.
+Le paragraphe 248(28) est ainsi rédigé :
+Restriction applicable aux inclusions, déductions et crédits d'impôt - Sauf intention contraire évidente, les dispositions de la présente loi n'ont pas pour effet :
+a) d'exiger l'inclusion ou de permettre la déduction, directement ou indirectement, d'une somme dans le calcul du revenu, du revenu imposable ou du revenu imposable gagné au Canada d'un contribuable pour une année d'imposition ou du revenu ou de la perte d'un contribuable pour une année d'imposition provenant d'une source déterminée ou de sources situées dans un endroit déterminé, dans la mesure où cette somme a été incluse ou déduite, directement ou indirectement, dans le calcul de ce revenu, revenu imposable ou revenu imposable gagné au Canada ou de cette perte pour l'année ou pour une année d'imposition antérieure;
+b) de permettre la déduction, directement ou indirectement, d'une somme dans le calcul de l'impôt payable par un contribuable en vertu d'une partie de la présente loi pour une année d'imposition, dans la mesure où cette somme a été déduite, directement ou indirectement, dans le calcul de cet impôt pour l'année ou pour une année d'imposition antérieure;
+c) de considérer qu'une somme a été payée au titre de l'impôt payable par un contribuable en vertu d'une partie de la présente loi pour une année d'imposition, dans la mesure où cette somme est considérée comme ayant été payée au titre de cet impôt pour l'année ou pour une année d'imposition antérieure.
+[9] Aucun des arguments en question n'a été exposé ni formulé dans les actes de procédure. Dans les circonstances, j'accueille les appels en me fondant sur la preuve produite par l'appelant selon laquelle il a payé 7 200 $ au cours de chacune des années en cause en exécution de son obligation relative aux années 1994, 1995, 1996 et 1997 conformément à l'ordonnance de la Cour de district de l'Ontario. Voir les arrêts Tsiaprailis v. The Queen, 2005 DTC 5119 et R. v. Sills, 85 DTC 5096.
+[10] Permettre à l'intimée de faire valoir pour la première fois à l'instruction un tout nouveau moyen justifiant le refus de la déduction serait contraire au principe fondamental d'équité procédurale. Voir la décision Poulton v. Canada, 2002 2 C.T.C. 2405 qui a été confirmée par la Cour d'appel fédérale dans l'arrêt Burton v. The Queen, 2006 DTC 6133. Dans la décision Poulton, aux pages 2408 à 2410, j'ai exposé mon point de vue sur les moyens invoqués à la dernière minute par la Couronne à l'encontre des contribuables qui ne sont pas représentés par un avocat.
+[11] La veille de l'instruction, l'intimée a présenté des requêtes visant à modifier ses réponses afin d'ajouter aux sections C et D un renvoi à l'alinéa 6(1)b). La requête a été débattue au fond au début de l'instruction. J'ai rejeté la requête de l'intimée et j'ai donné des explications verbales assez détaillées à ce sujet. Voici un bref résumé de mes motifs.
+[12] Tant la Cour canadienne de l'impôt que la Cour d'appel fédérale se montrent habituellement assez libérales en ce qui a trait à l'autorisation de modifications. Dans la décision Continental Bank Leasing Corporation c. La Reine, 93 D.T.C. 298, j'expose mes motifs de façon assez détaillée à la page 302 :
+[...] Mais je préfère tout de même examiner la question dans une perspective plus large : les intérêts de la justice seraient-ils mieux servis si la demande de modification ou de rétractation était approuvée ou rejetée? Les critères mentionnés dans les affaires entendues par d'autres tribunaux sont évidemment utiles, mais il convient de mettre l'accent sur d'autres facteurs également, y compris le moment auquel est présentée la requête visant la modification ou la rétractation, la mesure dans laquelle les modifications proposées retarderaient l'instruction expéditive de l'affaire, la mesure dans laquelle la thèse adoptée à l'origine par une partie a amené une autre partie à suivre dans le litige une ligne de conduite qu'il serait difficile, voire impossible, de modifier, et la mesure dans laquelle les modifications demandées faciliteront l'examen par la Cour du véritable fond du différend. Il n'existe aucun facteur qui soit prédominant, ou dont la présence ou l'absence soit nécessairement déterminante. On doit accorder à chacun des facteurs le poids qui lui revient dans le contexte de l'espèce. Il s'agit, en fin de compte, de tenir compte de la simple équité, du sens commun et de l'intérêt qu'ont les tribunaux à ce que justice soit faite.
+[13] Cet extrait a été cité avec approbation dans l'arrêt Canderel Ltée c. Canada, 93 D.T.C. 5357.
+[14] Après avoir cité cet extrait, la Cour d'appel fédérale a ajouté ce qui suit aux pages 5361 et 5362 :
+Même s'il est exact que l'autorisation de faire une modification peut être recherchée à toute hauteur de la procédure, on peut dire sans risque d'erreur que plus tardive est la demande, plus difficile il sera pour le requérant de surmonter le double obstacle que représentent pour lui l'injustice causée à la partie adverse et les intérêts de la justice. Nous notons que dans toutes les affaires fiscales mentionnées par l'avocat de l'appelante, la requête en modification avait été faite avant le procès, ou elle avait été faite au procès mais l'avocat de la partie adverse pouvait s'y attendre au cours du procès19.
+________________
+19 Dans l'affaire Gardiner v. Minister of National Revenue, 63 DTC 1219 (C.S.C.), la modification a été demandée après l'examen au préalable. Dans l'affaire Continental Bank Leasing Corporation et autre c. La Reine, précitée, note 18, la modification a été recherchée avant l'interrogatoire préalable d'un fonctionnaire de la Couronne. Dans l'affaire Meyer c. Canada, précitée, note 9, l'avocat de la partie opposée savait depuis trois mois avant le début du procès que la modification de la déclaration serait vraisemblablement demandée. Dans l'affaire Vineland Quarries & Crushed Stone Ltd. v. M.N.R., 70 DTC 6043 (C. de l'É.), la modification avait été recherchée avant le procès.
+[15] À mon avis, ces deux extraits énoncent avec suffisamment de précision les principes généraux à appliquer. L'avocat a également cité l'arrêt SmithKline Beecham Animal Health Inc. c. R., [2000] 2 C.T.C. 329, confirmant [2000] 1 C.T.C. 2552, et l'arrêt VISX Inc. c. Nidek Co., [1998] A.C.F. no 1766 (qui concerne un brevet).
+[16] Pourquoi n'ai-je pas autorisé la modification en l'espèce, comme la Cour fédérale l'avait fait dans les arrêts susmentionnés? En fait, il y a toute une différence entre les grandes sociétés ouvertes et les multinationales qui ont accès aux services d'avocats chevronnés pour les défendre dans des causes mettant en jeu des millions de dollars, et les petits contribuables qui ne sont pas représentés par des avocats et dont le litige porte sur des montants relativement mineurs.
+[17] Selon les principes d'équité procédurale, dans les affaires régies par la procédure informelle, la Couronne ne devrait pas être autorisée à présenter à la dernière minute un tout nouvel argument à l'encontre d'un contribuable. Si les appelants avaient su dès le départ ou, à tout le moins, s'ils avaient appris dans un délai raisonnable avant l'instruction, que la Couronne comptait invoquer l'alinéa 6(1)b), ils auraient peut-être agi de façon entièrement différente et auraient pu présenter une preuve visant à réfuter l'allégation selon laquelle les montants constituaient des « allocations » au sens de l'alinéa 6(1)b) ou à démontrer qu'ils étaient soustraits à l'application de cette disposition par le paragraphe 6(6). Si j'avais fait droit aux requêtes de la Couronne et autorisé la modification, les appelants auraient eu parfaitement le droit de demander un ajournement, ce qui aurait retardé indûment le traitement des appels informels en l'espèce, qui portent sur un litige relativement mineur. Je ne saurais trop répéter à quel point il est important que la Cour veille, dans les affaires régies par la procédure informelle, à ce que le contribuable non représenté ne soit pas privé de l'application des principes d'équité procédurale.
+[18] J'admets volontiers qu'en rejetant la requête en modification de la Couronne, j'ai peut-être privé celle-ci de la possibilité d'invoquer ce qui pourrait être un argument fort valable. Cependant, le rejet des appels en l'espèce au détriment de la Couronne parce que celle-ci a commis une erreur et omis de citer une disposition qui aurait pu l'aider n'est pas une catastrophe, que ce soit au plan jurisprudentiel ou financier. Il est beaucoup plus important de veiller à ce que les contribuables non représentés au cours d'une affaire régie par la procédure informelle bénéficient pleinement de l'application des principes d'équité procédurale. Contraindre les appelants à étudier des dispositions aussi complexes que l'alinéa 6(1)b) et le paragraphe 6(6) la veille de l'instruction causerait un tort irréparable à l'administration de la justice.
+[11] En l'espèce, la Couronne n'a pas demandé une modification, et, pour les motifs exposés dans la décision Poulton, je ne l'aurais probablement pas approuvée. Cependant, le fait que la Couronne a invoqué à l'instruction un argument qui n'avait pas été exposé dans les actes de procédure ne la place pas dans une meilleure position que si elle avait présenté une requête en ajournement et que celle-ci avait été rejetée.
+Signé à Ottawa, Canada, ce 16e jour de juin 2006.
+« D.G.H. Bowman »
+Juge en chef Bowman
+Traduction certifiée conforme
+ce 14e jour de novembre 2006.
+Jean David Robert, traducteur
+RÉFÉRENCE :
+2006CCI346
+N º DU DOSSIER DE LA COUR :
+2005-416(IT)I
+INTITULÉ :
+Milan Ritonja c.
+Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L'AUDIENCE :
+Le 7 juin 2006
+MOTIFS DU JUGEMENT :
+L'honorable juge en chef D.G.H. Bowman
+DATE DU JUGEMENT :
+Le 16 juin 2006
+COMPARUTIONS :
+Représentante de l'appelant :
+Josephine Ritonja
+Avocats de l'intimée :
+Me Selena Sit
+Me Ryan Gellings
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

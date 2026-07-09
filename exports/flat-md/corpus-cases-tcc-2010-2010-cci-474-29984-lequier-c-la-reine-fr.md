@@ -1,0 +1,183 @@
+---
+title: "Lequier c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29984/index.do"
+last_modified: "2010-09-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 474"
+citation2: ""
+neutral_citation: "2010 CCI 474"
+decision_date: "2010-09-17"
+language: "fr"
+item_id: "29984"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7106
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:35:14.953000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1c59fce4d78caea3f96b7e60e92edc72b1282b066807e06203628054b1697f8b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lequier c. La Reine
+
+- Citation: 2010 CCI 474
+- Decision date: 2010-09-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7106, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lequier c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-09-17
+Référence neutre
+2010 CCI 474
+Numéro de dossier
+2008-389(GST)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossiers : 2008-389(GST)I
+2008-945(IT)G
+ENTRE :
+JUDI LEQUIER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 21 juin 2010, à Edmonton (Alberta).
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Avocat de l’appelante :
+Me Kevin D. Mah
+Avocate de l’intimée :
+Me Elena Sacluti
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté par un avis daté du 31 mars 2006 à l’égard des cotisations fondées sur la responsabilité des administrateurs et établies en vertu de la Loi de l’impôt sur le revenu et de la Loi sur la taxe d’accise, est rejeté. L’intimée a droit aux dépens relatifs à l’appel fondé sur la Loi de l’impôt sur le revenu.
+Signé à Toronto (Ontario), ce 17e jour de septembre 2010.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 12e jour de janvier 2011.
+Mario Lagacé, jurilinguiste
+Référence : 2010 CCI 474
+Date : 20100917
+Dossiers : 2008-389(GST)I
+2008-945(IT)G
+ENTRE :
+JUDI LEQUIER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] Il s’agit d’un appel visant des cotisations fondées sur la responsabilité des administrateurs et établies à l’égard de Judi Lequier par suite des omissions de versement de Mayland Instruments Ltd. (« Mayland »).
+[2] Une cotisation fondée sur l’article 227.1 de la Loi de l’impôt sur le revenu s’élevant à 52 122,78 $ a été établie par suite de l’omission de Mayland de verser les retenues à la source sur la paye au cours des années civiles 2000, 2001 et 2002.
+[3] Une autre cotisation s’élevant à 32 531,09 $ a été établie en vertu de l’article 323 de la Loi sur la taxe d’accise par suite de l’omission de Mayland de verser la somme « nette » de TPS pour le trimestre se terminant le 31 mars 2002.
+[4] L’époux de l’appelante a fait l’objet de cotisations analogues, qu’il ne conteste pas.
+[5] La Cour doit trancher les points suivants : (1) L’appelante était‑elle administratrice de Mayland pendant la période en cause? (2) L’appelante a‑t‑elle agi avec le degré de soin approprié pour prévenir les omissions de versement?
+Contexte
+[6] L’appelante, son fils, Rolland Lequier, et un agent du recouvrement de l’Agence du revenu du Canada (l’« ARC »), Chotu Rajwani, ont témoigné à l’audience.
+[7] Mayland a été constituée en société en 1989 afin d’exploiter l’entreprise d’installation de matériel gérée par l’époux de l’appelante. Peu après la constitution en société de Mayland, l’appelante et son époux en sont devenus les uniques actionnaires et administrateurs.
+[8] L’appelante ne participait pas activement aux affaires courantes de Mayland. Elle a été gestionnaire d’un magasin de vins et spiritueux appartenant à l’État jusque vers 1994, lorsqu’elle a constitué en société une nouvelle entreprise, Alberta Spirits and Suds Ltd. (« Spirits and Suds »), afin d’exploiter son propre magasin de vins et spiritueux. Spirits and Suds a ouvert un deuxième magasin en 2001.
+[9] Vers le milieu des années 90, on a décidé qu’il convenait de « séparer » Spirits and Suds et Mayland. Avec l’aide d’un expert‑comptable, Mayland a entrepris une réorganisation dans la cadre de laquelle l’appelante a vendu les actions qu’elle détenait dans cette société. Après la réorganisation, l’époux de l’appelante est devenu l’unique actionnaire de Mayland et l’appelante, l’unique actionnaire de Spirits and Suds[1].
+[10] Le fils de l’appelante étudiait le droit au moment de la réorganisation et il a donné des conseils à ses parents au sujet du projet. Même s’il n’a pas parlé à l’expert‑comptable, il a, de façon générale, affirmé à ses parents que la réorganisation était une bonne idée. Il se souvenait que la réorganisation avait pour objet de maximiser la déduction que la Loi de l’impôt sur le revenu accorde aux petites entreprises et de protéger Mayland dans l’éventualité où l’entreprise de Spirits and Suds se révélerait non rentable.
+[11] L’appelante et son époux se sont séparés en 2001 et l’époux tente actuellement d’obtenir le divorce. La séparation ne s’est pas faite à l’amiable et, depuis lors, l’appelante n’a eu que très peu de contacts avec son époux.
+[12] Mayland a cessé ses activités en 2002.
+L’appelante a-t-elle cessé d’être un administrateur?
+[13] L’appelante avance qu’elle n’était pas un administrateur de Mayland pendant la période en cause. Elle reconnaît ne pas avoir signé de démission écrite, mais elle soutient qu’elle croyait ne plus être administratrice de Mayland depuis la réorganisation.
+[14] L’intimée fait valoir que l’appelante n’a pas cessé d’être un administrateur parce qu’elle n’a pas présenté de démission écrite. L’avocate a invoqué le paragraphe 108(2) de la Business Corporations Act (Alberta), lequel est ainsi rédigé :
+[traduction]
+108(2) La démission d’un administrateur prend effet à la date de son envoi par écrit à la société ou à la date postérieure qui y est indiquée.
+[15] Dans le présent appel, je n’ai pas à décider si la démission doit être écrite. Il convient cependant de signaler que la thèse de l’intimée n’a pas toujours été acceptée par la Cour : Perricelli c. La Reine, 2000‑946(GST)G, 5 juin 2002, [2002] GSTC 71 (CCI).
+[16] Même si l’on considère que les démissions données de vive voix produisent effet, elles doivent néanmoins être communiquées d’une façon quelconque à la société. Je ne suis pas convaincue qu’une communication de ce genre a eu lieu en l’espèce.
+[17] Dans son témoignage, l’appelante a déclaré qu’à un certain moment, son fils l’avait informée qu’elle n’était plus administratrice ni actionnaire de Mayland. À lui seul, ce témoignage n’est pas suffisant pour établir qu’une démission a fait l’objet d’une communication ou même que des discussions ont eu lieu avec l’époux de l’appelante, l’autre actionnaire et administrateur de Mayland.
+[18] En outre, je ne suis pas convaincue que le fils a informé l’appelante qu’elle n’était plus un administrateur de Mayland.
+[19] Le fils se souvient d’avoir discuté avec sa mère des aspects généraux de la réorganisation, mais il ne se souvient pas d’une discussion précise avec elle touchant à sa démission comme administratrice.
+[20] De plus, aucun autre élément de preuve ne donne à penser que la démission de l’appelante comme administratrice faisait partie de la réorganisation. Ni l’époux ni l’expert‑comptable qui a mis en œuvre la réorganisation n’ont témoigné en l’espèce, et aucun document de la société n’a été fourni. Selon les déclarations de revenus annuelles de Mayland, l’appelante est toujours administratrice de la société.
+[21] L’appelante n’a pas réussi à réfuter l’hypothèse formulée par le ministre voulant qu’elle ait été un administrateur de Mayland à tous les moments pertinents.
+A-t-on exercé un degré de soin approprié?
+[22] L’appelante affirme en outre avoir agi de façon appropriée dans les circonstances et que les moyens de défense fondés sur la diligence raisonnable prévus au paragraphe 227.1(3) de la Loi de l’impôt sur le revenu et au paragraphe 323(3) de la Loi sur la taxe d’accise s’appliquent en l’espèce. Ces dispositions se ressemblent beaucoup et seule celle figurant dans la Loi de l’impôt sur le revenu est reproduite ci‑dessous.
+227.1(3) Un administrateur n’est pas responsable de l’omission visée au paragraphe (1) lorsqu’il a agi avec le degré de soin, de diligence et d’habileté pour prévenir le manquement qu’une personne raisonnablement prudente aurait exercé dans des circonstances comparables.
+[23] Les principes généraux applicables sont résumés par Mme la juge Sharlow dans l’arrêt Smith c. La Reine, 2001 CAF 84, 2001 DTC 5226, de la Cour d’appel fédérale :
+[9] L’arrêt Soper, précité, a établi que la norme de prudence décrite dans la défense de diligence raisonnable au sens de la loi est essentiellement la même que la norme de prudence en common law, établie dans l’arrêt City Equitable Fire Insurance Commission., In re, [1925] ch. 407 (C.A.). Il s’ensuit que ce à quoi on peut raisonnablement s’attendre d’un administrateur aux fins des paragraphes 227.1(1) de la Loi de l’impôt sur le revenu et 323(1) de la Loi sur la taxe d’accise dépendra des faits de l’affaire, avec un élément objectif et un élément subjectif.
+[10] L’élément subjectif de la norme de prudence applicable à un administrateur donné dépendra de ses qualités personnelles, y compris ses connaissances et son expérience. En général, une personne expérimentée en affaires ou en questions financières sera tenue à une norme plus élevée qu’une personne qui n’a pas de connaissances ou d’expérience en affaires et dont le statut d’administrateur reflète, par exemple, un simple lien familial. Toutefois, la défense de diligence raisonnable ne sera d’aucune aide à un administrateur qui n’a pas tenu compte des obligations imposées aux administrateurs par la loi, ou qui n’a fait aucun cas d’un problème dont il connaissait l’existence, ou dont il aurait dû connaître l’existence comme toute personne prudente en pareilles circonstances (Hanson c. Canada, (2000) 260 N.R. 79, [2000] 4 C.T.C. 215, 2000 DTC 6564 (C.A.F.)).
+[11] En évaluant objectivement l’aspect raisonnable de la conduite d’un administrateur, il y a lieu de tenir compte de facteurs comme le volume, la nature et la complexité des affaires de la société, ainsi que de ses coutumes et pratiques. Plus une entreprise est importante et complexe, plus il sera raisonnable que les administrateurs se partagent les responsabilités, ou qu’ils délèguent le règlement de certaines questions au personnel de la société et à des conseillers extérieurs auxquels ils accordent leur confiance.
+[12] La souplesse inhérente à la défense de diligence raisonnable peut créer des situations où une norme de prudence plus élevée s’impose à certains administrateurs d’une société par rapport à d’autres. Par exemple, il peut être approprié d’imposer une norme plus élevée à un « administrateur interne » (par exemple, un directeur ayant l’habitude de la gestion au jour le jour) qu’à un « administrateur externe » (comme un directeur qui connaît assez peu les affaires de la société et n’est impliqué que de façon superficielle).
+[13] Ceci s’applique plus particulièrement s’il est démontré que l’administrateur externe a donné foi de façon raisonnable aux assurances données par les administrateurs internes que les remises d’impôts correspondant aux obligations de la société étaient effectivement versées. Voir notamment Cadrin c. Canada, (1998), 240 N.R. 354, [1999] 3 C.T.C. 366, 99 DTC 5079 (C.A.F.).
+[14] Dans certaines circonstances, le fait qu’une société soit en difficultés financières et donc à risque plus élevé que d’autres sociétés de ne pas verser ses remises d’impôts peut être un facteur qui milite pour une norme de prudence plus élevée. Par exemple, un administrateur qui connaît les difficultés financières de la société et qui décide sciemment de financer les opérations de la société avec les sommes prélevées à la source et non remises pourrait ne pas pouvoir invoquer la défense de diligence raisonnable (Ruffo c. Canada, 2000 D.T.C. 6317 (C.A.F.)). Toutefois, il est important de se rappeler que dans tous les cas la norme est celle du raisonnable et non celle de la perfection.
+[24] Dans la présente affaire, l’appelante était une femme d’affaires expérimentée et elle savait qu’il arrivait à son époux de ne pas respecter ses obligations en matière de versement de la TPS. Même si elle ne participait pas activement aux activités quotidiennes de Mayland, l’appelante avait l’obligation de prendre des mesures quelconques pour prévenir les manquements relatifs aux versements.
+[25] Dans son témoignage, l’appelante a mentionné qu’à une occasion, elle s’est chargée de la comptabilité de la paye et que son époux a tout mis au rebut. Elle a témoigné qu’elle avait fait des remontrances à ce dernier au sujet de son comportement, puis qu’elle avait cessé de s’occuper de la paye. Pour l’essentiel, l’appelante s’est désintéressée et a fait fi du problème. Cela n’est pas suffisant pour faire droit à la défense de la diligence raisonnable.
+[26] Selon le témoignage rendu par l’appelante au moment de l’interrogatoire préalable, elle ne pouvait rien y faire.
+[traduction]
+Q. Revenons juste à Mayland Instruments, saviez‑vous que la société était tenue de verser les taxes au gouvernement?
+R. Oui, bien sûr.
+Q. Avez-vous pris des dispositions quelconques pour veiller à ce que ces taxes soient versées?
+R. Non. Je ne pouvais pas signer de chèque. C’est‑à‑dire que je n’allais pas les payer moi‑même.
+Q. À votre connaissance, y avait-il quiconque au sein de la société qui prenait des mesures pour veiller à ce que les taxes soient versées?
+R. Seulement lui, et il ne payait jamais les taxes, je dirais donc non.
+[27] L’observation de l’appelante voulant qu’elle n’ait eu aucun pouvoir en ce qui concerne les versements de taxes soulève une difficulté, à mon avis, parce qu’elle ne tient pas compte du fait que l’appelante, directement ou par l’intermédiaire de Spirits and Suds, devait beaucoup d’argent à Mayland.
+[28] Selon les hypothèses du ministre, lorsque Mayland a cessé ses activités au printemps 2002, l’appelante lui devait au moins 320 000 $. Cette hypothèse n’a pas été réfutée de manière satisfaisante par l’appelante.
+[29] Très peu de détails relatifs au financement sont connus. Un expert‑comptable a écrit à l’ARC pour le compte de l’appelante et a laissé entendre que Mayland avait avancé les sommes à Spirits and Suds pour la rénovation du magasin. Aucun état financier de Spirits and Suds n’a été produit en preuve et l’expert‑comptable n’a pas témoigné. Le propre témoignage de l’appelante était trop bref et vague pour être utile.
+[30] J’ai également des doutes quant à l’assertion selon laquelle les actes de l’appelante étaient appropriés dans les circonstances. En effet, une société appartenant à 100 pour 100 à l’appelante devait une somme d’argent appréciable à une autre société dont l’appelante était un administrateur et les problèmes touchant le versement de taxes au sein de la société créancière étaient connus.
+[31] L’avocat de l’appelante laisse entendre qu’on ne pouvait s’attendre à ce que cette dernière assume la responsabilité liée aux obligations des administrateurs parce qu’elle pensait qu’elle n’était plus un administrateur.
+[32] La faiblesse de cette observation tient au fait qu’il semble ressortir de la preuve que l’appelante a pour l’essentiel fait fi de son rôle d’administratrice de Mayland. À tout le moins, l’appelante devait agir avec prudence pour déterminer si elle était ou non un administrateur. Or, la preuve ne permet pas de tirer une conclusion en ce sens.
+[33] Il n’est pas nécessaire d’examiner l’affaire plus avant pour trancher l’appel en faveur de l’intimée. Cependant, je signale qu’il était difficile, à la lumière de la preuve, d’avoir une idée claire de la nature de la participation de l’appelante aux activités de Mayland. Pour obtenir gain de cause dans le présent appel, l’appelante devait tout au moins fournir une description beaucoup plus pertinente et détaillée de l’ensemble de sa participation en ce qui concerne cette société.
+[34] Les appels visant les deux cotisations seront rejetés.
+[35] L’intimée demande les dépens uniquement pour l’appel fondé sur la Loi de l’impôt sur le revenu puisque l’appel interjeté en vertu de la Loi sur la taxe d’accise est régi par la procédure informelle. Ces dépens sont appropriés.
+Signé à Toronto (Ontario), ce 17e jour de septembre 2010.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 12e jour de janvier 2011.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2010 CCI 474
+NOS DES DOSSIERS DE LA COUR : 2008-389(GST)I
+2008-945(IT)G
+INTITULÉ : Judi Lequier et
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Edmonton (Alberta)
+DATE DE L’AUDIENCE : Le 21 juin 2010
+MOTIFS DU JUGEMENT : L’honorable juge J. M. Woods
+DATE DU JUGEMENT : Le 17 septembre 2010
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Kevin D. Mah
+Avocate de l’intimée :
+Me Elena Sacluti
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Me Kevin D. Mah
+Cabinet : Simons et Stephens
+Edmonton (Alberta)
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L’appelante a eu un associé, lequel a participé aux activités des magasins de vins et spiritueux pendant un certain temps, mais ce fait n’a pas de pertinence en l’espèce.

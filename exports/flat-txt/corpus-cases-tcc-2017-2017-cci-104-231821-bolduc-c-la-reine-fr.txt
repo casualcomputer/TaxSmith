@@ -1,0 +1,163 @@
+Title: Bolduc c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/231821/index.do
+Corpus path: corpus/cases/tcc/2017/2017-cci-104-231821-bolduc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2017-06-06
+
+# Bolduc c. La Reine
+
+- Citation: 2017 CCI 104
+- Decision date: 2017-06-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2146, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bolduc c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-06-06
+Référence neutre
+2017 CCI 104
+Numéro de dossier
+2016-3904(IT)I
+Juges et Officiers taxateurs
+Johanne D’Auray
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-3904(IT)I
+ENTRE :
+DANY BOLDUC,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 2 juin 2017, à Chicoutimi (Québec).
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Valerie Messore
+JUGEMENT
+L’appel de la nouvelle cotisation établie en vertu de de la Loi de l’impôt sur le revenu, pour l’année d’imposition 2013, est rejeté.
+Signé à Ottawa, Canada, ce 6e jour de juin 2017.
+« Johanne D’Auray »
+Juge D’Auray
+Référence : 2017 CCI 104
+Date : 20170606
+Dossier : 2016-3904(IT)I
+ENTRE :
+DANY BOLDUC,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge D’Auray
+[1] Lors de l’audience, le 2 juin 2017, l’appelant, M. Bolduc a eu un entretien avec l’avocate de l’intimée, Me Messore et Mme Villeneuve, l’examinatrice des comptes en fiducie de l’Agence du revenu du Canada (« ARC »).
+[2] Suite à cet entretien, M. Bolduc a convenu que l’ARC avait correctement inclus un montant de 7 994 $ à titre de revenu d’emploi dans le calcul de son revenu pour l’année d’imposition 2013.
+[3] Par conséquent, j’ai rejeté l’appel de M. Bolduc. Ainsi, le seul objectif de ces motifs est de faire une recommandation à la ministre du Revenu national afin que cette dernière annule les intérêts en cause.
+[4] Tel qu’énoncé dans la réponse à l’avis d’appel, durant l’année d’imposition 2013, M. Bolduc a travaillé à titre de camionneur pour les sociétés suivantes :
+6a) au cours de l’année d’imposition 2013, l’appelant a reçu les revenus suivants :
+Source
+Relevé
+Montant brut
+Déductions
+Montant net
+Assurance emploi
+T4e
+7 014 $
+1 008 $
+6 006 $
+2950-0865 Québec Inc.
+T4
+24 571 $
+2 804 $
+21 767 $
+Dufour et Frères Inc.
+T4
+873 $
+135 $
+738 $
+9013-4875 Québec Inc.
+T4
+4 000 $
+662 $
+3 338 $
+9287-2902 Québec Inc.
+T4
+2 332 $
+415 $
+1 917 $
+9052-3341 Québec Inc.
+T4
+8 180 $
+1 459 $
+6 721 $
+TOTAL
+46 970 $
+6 483 $
+40 487 $
+Revenu net avant les déductions d’impôt provincial :
+40 487 $
+6b) en produisant sa déclaration de revenus pour l’année d’imposition 2013, l’appelant a déclaré un revenu d’emploi brut de 16 577 $ provenant de la société 2950-0865 Québec Inc. (ci-après « Transport Luco »);
+6c) un examen des comptes en fiducie de Transport Luco a démontré que leur livre de salaire était inadéquat et qu’un salaire brut de 7 994 $ incluant les déductions à la source n’avait pas été déclaré par Transport Luco et par l’appelant;
+6d) une analyse des relevés du compte bancaire de l’appelant pour l’année 2013, à l’exception du mois d’octobre qui n’a pas été soumis, a révélé des dépôts totalisant un montant d’au moins 59 013 $ pour l’année d’imposition 2013;
+6e) le montant de 59 013 $ se détaille comme suit :
+Total des dépôts
+59 013,33 $
+Prêt Desjardins
+16 829,07 $
+Autres montants non salariaux
+5 582,95 $
+Montants provenant de salaires
+36 601,31 $
+[5] M. Bolduc a indiqué que le seul T4 qu’il avait reçu de Transport Luco inc. pour l’année d’imposition 2013 était pour un montant de 16 577 $. Ce dernier montant, tout comme les autres montants apparaissant aux T4 reçus par M. Bolduc de ses autres employeurs, ont été inclus dans le calcul de ses revenus pour l’année 2013.
+[6] M. Bolduc a indiqué ne jamais avoir reçu un T4 modifié par Transport Luco inc. afin de tenir compte d’un montant additionnel de 7 994 $, à titre de revenu d’emploi.
+[7] Mme Villeneuve de l’ARC a expliqué lors de son témoignage qu’elle a procédé à un examen des comptes en fiducie de Transport Luco inc. Elle a indiqué que la comptabilité de la société Transport Luco inc. était boiteuse et inexistante pour une période de l’année 2013.
+[8] Mme Villeneuve a contacté le comptable de Transport Luco inc., M. Paradis de St-Félicien. Ce dernier lui a indiqué qu’il était difficile d’obtenir de l’information de sa cliente, Transport Luco inc. Il a indiqué à Mme Villeneuve avoir préparé les rapports T4 pour les travailleurs avec l’information qui lui avait été fournie par Transport Luco inc.
+[9] Mme Villeneuve a, par la suite, comparé les chèques émis aux employés avec le livre des salaires. Elle a constaté que le montant total des chèques émis aux employés était supérieur au total des salaires inscrits au livre de salaires et conséquemment aux T4 préparés par M. Paradis.
+[10] Les T4 pour douze employés de Transport Luco inc. ne reflétaient pas les montants des chèques émis par Transport Luco inc. pour l’année d’imposition 2013.
+[11] À la suite de ce constat, Mme Villeneuve a avisé par écrit un des actionnaires de Transport Luco inc., M. Corbin, de la différence entre le total des montants des chèques émis en faveur de certains employés et le total des salaires inscrits au livre de salaires. Mme Villeneuve a donc demandé à M. Corbin à communiquer avec elle pour discuter de cette situation. Ce dernier n’a jamais répondu à la demande de Mme Villeneuve.
+[12] N’ayant reçu aucune réponse de M. Corbin de Transport Luco inc., Mme Villeneuve a modifié les T4 des douze employés de Transport Luco inc. Les modifications pour les douze employés incluant l’appelant, s’élevaient à 54 275 $. Des déductions à la source ont été retenues sur ces montants.
+[13] Mme Villeneuve a fait parvenir à Transport Luco inc. les T4 modifiés pour les douze employés. De plus, lors de son témoignage Mme Villeneuve a indiqué qu’en tant qu’employeur, Transport Luco inc. devait transmettre les T4 modifiés aux employés affectés par les changements.
+[14] Selon la preuve à l’audience, M. Bolduc n’a jamais reçu un T4 modifié pour l’année 2013. De plus, les talons de chèque remis par l’employeur Transport Luco inc. à M. Bolduc, étaient difficiles à comprendre, de même que le relevé d’emploi fourni. C’est d’ailleurs Mme Villeneuve qui a souligné ces faits lors de son témoignage.
+[15] M. Bolduc travaillait pour plusieurs employeurs, il s’est fié sur les T4 reçus de Transport Luco inc. et de ses autres employeurs pour compléter sa déclaration de revenus pour l’année d’imposition 2013. Ainsi, il était difficile pour lui de se rendre compte que le T4 émis par Transport Luco inc., ne reflétait pas le montant qu’il avait reçu à titre de revenu d’emploi de cette dernière.
+[16] Lors de l’audience, dès que M. Bolduc a compris la situation, soit que le montant de 7 994 $ représentait du revenu d’emploi qui par erreur n’avait pas été inclus dans son T4, il a convenu que ce montant avait été correctement inclus par la ministre du Revenu national dans le calcul de son revenu pour l’année d’imposition 2013.
+[17] Le témoignage de M. Bolduc est crédible. Le témoignage de Mme Villeneuve est tout autant crédible. Ce serait dommage que M. Bolduc doive maintenant payer de l’intérêt pour les erreurs et la négligence de son employeur.
+Signé à Ottawa, Canada, ce 6e jour de juin 2017.
+« Johanne D’Auray »
+Juge D’Auray
+RÉFÉRENCE :
+2017 CCI 104
+Nº DU DOSSIER DE LA COUR :
+2016-3904(IT)I
+INTITULÉ DE LA CAUSE :
+DANY BOLDUC c SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Chicoutimi (Québec)
+DATE DE L’AUDIENCE :
+Le 2 juin 2017
+MOTIFS DE JUGEMENT PAR :
+L’honorable juge Johanne D’Auray
+DATE DU JUGEMENT :
+Le 6 juin 2017
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Valerie Messore
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant:
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

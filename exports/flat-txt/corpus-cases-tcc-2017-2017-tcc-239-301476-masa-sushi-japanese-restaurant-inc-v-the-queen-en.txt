@@ -1,0 +1,235 @@
+Title: Masa Sushi Japanese Restaurant Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/301476/index.do
+Corpus path: corpus/cases/tcc/2017/2017-tcc-239-301476-masa-sushi-japanese-restaurant-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2017-11-28
+
+# Masa Sushi Japanese Restaurant Inc. v. The Queen
+
+- Citation: 2017 TCC 239
+- Decision date: 2017-11-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7809, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Masa Sushi Japanese Restaurant Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-11-28
+Neutral citation
+2017 TCC 239
+File numbers
+2017-3199(IT)G, 2017-3201(IT)G, 2017-3202(IT)G, 2017-3204(IT)G
+Judges and Taxing Officers
+David E. Graham
+Decision Content
+Docket: 2017-3199(IT)G
+BETWEEN:
+MASA SUSHI JAPANESE RESTAURANT INC.
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2017-3201(IT)G
+AND BETWEEN:
+HAI-GUANG LIU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2017-3202(IT)G
+AND BETWEEN:
+KA LEUNG LO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2017-3204(IT)G
+AND BETWEEN:
+2075957 ONTARIO INC. (o/a KATSU JAPANESE RESTAURANT),
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion heard on November 6, 2017 at Toronto, Ontario
+Before: The Honourable Justice David E. Graham
+Appearances:
+Agent for the Appellants Masa Sushi Japanese Restaurant Inc. and 2075957 Ontario Inc. (o/a Katsu Japanese Restaurant):
+For the Appellant, Hai-Guang Liu:
+For the Appellant, Ka Leung Lo:
+Dennis Chow
+The Appellant himself
+The Appellant himself
+Counsel for the Respondent:
+Christopher Kitchen
+ORDER
+The motions brought by the Appellants to be represented by Dennis Chow are denied.
+2075957 Ontario Inc. and Masa Sushi Japanese Restaurant Inc. shall have until February 28, 2018 to serve and file notice giving the name, address for service and telephone number of their counsel.
+The Appellants shall serve and file Fresh as Amended Notices of Appeal in compliance with the Tax Court of Canada Rules (General Procedure) on or before April 30, 2018.
+The Respondent shall serve and file Fresh as Amended Replies on or before June 29, 2018.
+One set of costs shall be awarded in the cause in respect of all four motions.
+Signed at Ottawa, Canada, this 28th day of November 2017.
+“David E. Graham”
+Graham J.
+Citation: 2017 TCC 239
+Date: 20171128
+Docket: 2017-3199(IT)G
+BETWEEN:
+MASA SUSHI JAPANESE RESTAURANT INC.
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2017-3201(IT)G
+AND BETWEEN:
+HAI-GUANG LIU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2017-3202(IT)G
+AND BETWEEN:
+KA LEUNG LO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2017-3204(IT)G
+AND BETWEEN:
+2075957 ONTARIO INC. (o/a KATSU JAPANESE RESTAURANT),
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Graham J.
+[1] The Appellants have brought motions to be represented by Dennis Chow. Mr. Chow is not a lawyer. He is a Chartered Professional Accountant.
+[2] The Respondent opposes the motions.
+[3] Two of the Appellants are individuals (the “Individual Appellants”) and two of the Appellants are corporations (the “Corporate Appellants”). The Individual Appellants are shareholders of both of the Corporate Appellants. My understanding from the motion materials is that Hai-Guang Liu is a director of Masa Sushi Japanese Restaurant Inc. and Ka Leung Lo is a director of 2075957 Ontario Inc.
+[4] I will deal with the Individual Appellants’ motions first and then turn to the Corporate Appellants’ motions.
+Individual Appellants [5] Rule 30(1) of the Tax Court of Canada Rules (General Procedure) (the “Rules”) states that a party to a proceeding who is an individual may act in person or be represented by counsel.[1]
+[6] Rule 30(1) does not give the Court discretion to allow an agent to represent an individual (Moll v. The Queen[2]). An individual may either represent himself or herself or be represented by counsel. For that reason, Mr. Liu’s and Mr. Lo’s motions must be denied. Mr. Liu and Mr. Lo are free either to hire counsel or to represent themselves.
+Corporate Appellants [7] Rule 30(2) applies where a party is not an individual. It states:
+Where a party to a proceeding is not an individual, that party shall be represented by counsel except with leave of the Court and on any conditions that it may determine.
+[8] The question that the Corporate Appellants’ motions raise is this: Who can represent a corporation under Rule 30(2)? The answer is not as simple as it may at first appear. For the reasons that follow, I conclude that, notwithstanding the wording of Rule 30(2), in the general procedure corporations may only be represented by counsel.
+[9] The Rules were created pursuant to the Tax Court of Canada Act (the “Act”). Subsection 20(1) of the Act allows for rules to be created to regulate the pleadings, practice and procedure in the Court. As is the case with regulations made under any act, the Rules may not override the Act.[3] They may neither prohibit things that are allowed by the Act nor allow things that are prohibited by the Act. As a result, the starting point for any analysis of Rule 30(2) must be the Act.
+[10] Section 17.1 of the Act specifically deals with the right to appear before the Court under the general procedure. It states:
+(1) A party to a proceeding in respect of which this section applies may appear in person or be represented by counsel, but where the party wishes to be represented by counsel, only a person who is referred to in subsection (2) shall represent the party.
+(2) Every person who may practise as a barrister, advocate, attorney or solicitor in any of the provinces may so practise in the Court and is an officer of the Court.
+[Emphasis added]
+[11] Thus, subsection 17.1(1) gives parties two choices. Parties may appear in person or be represented by counsel. Therefore, unless I can conclude that subsection 17.1(1) allows a corporation to appear in person, the only choice available to a corporation will be to be represented by counsel.
+A textual analysis indicates that a corporation cannot do anything in person [12] The words “in person” mean “physically present”.[4] A human can be physically present in court. A corporation, being a creation of law with no physical substance, cannot.
+[13] This textual interpretation is expressed by Justice McGillivray of the Alberta Court of Appeal in obiter in R. v. Cook:[5]
+The corporation although a legal entity included in the definition of "person" is none the less not a visible person; it is without physical existence; it "has neither body parts nor passions" and so in my view is quite incapable of doing anything required to be done "in person."
+Where an act is done on behalf of a corporation by an agent or attorney it may be said that it is the act of the corporation but it cannot be said that it is the act of the corporation "in person;" it is the agent or attorney who is acting "in person:" Wood v. Swann (1880) 25 Sol. J. 134; Holmested, p. 326.
+[14] Justice McGillivray’s reasoning is adopted by the majority in the Manitoba Court of Appeal decision in 2272539 Manitoba Ltd. v. Manitoba (Liquor Control Commission).[6]
+The traditional common law interpretation is that a corporation cannot appear in person [15] Justice Quigg, speaking for the majority in the New Brunswick Court of Appeal decision in Trifidus Inc. v. Samgo Innovations Inc., described the traditional common law interpretation as follows:[7]
+The common law endows individuals with a right to self-representation. The legal identity of corporations shares some features with that of individuals, but corporations also have several unique legal privileges. Corporations are considered "entit[ies] having authority under law to act as a single person distinct from the shareholders who own it" (see Bryan A. Garner, Black's Law Dictionary, 8th ed., (St. Paul, Minnesota: Thomson, 2004), s.v. "corporation", p. 365). Historically, corporations have enjoyed both limited liability and certain tax advantages not available to individuals (see Pratts Wholesale Ltd. v. R., [1998] T.C.J. No. 171 (T.C.C.) at para. 7). These benefits are offset by other legal obligations. The obligation to be represented by a lawyer in legal proceedings is one of these. Unlike individuals, who are legally and logically capable of self-representation, corporations must inevitably rely on representation by individual agent. Even if the agent is the corporate director and sole shareholder, he or she is still considered to be legally distinct from the corporation and, therefore, a third party to it. If individuals do not have the right to be represented by a third party other than a lawyer, neither do corporations. …
+[Emphasis added]
+[16] The British Columbia Court of Appeal described the traditional common law interpretation as follows in Venrose Holdings Ltd. v. Pacific Press Ltd.:[8]
+…Without dealing with these cases in detail, it may be said they show that in England, Ireland, the United States and certain provinces of Canada, including British Columbia, it has generally been considered that a corporation may not commence proceedings in the high court in person as a party to the proceedings, acting through its officer without the intervention of a solicitor, and that it cannot be represented before the court by its officer. For that purpose it must instruct counsel. While these authorities deal more with the question of representation in court than with the commencement of proceedings, it seems clear that there has been no acceptance of the "corporate person" as a person who could act "in person as a party to an action" in commencing proceedings. …
+[17] Based on all of the foregoing, I find that the traditional common law interpretation is that a corporation could not appear in person.
+A historical contextual analysis indicates that a corporation cannot appear in person [18] A historical contextual analysis of subsection 17.1(1) supports the traditional common law interpretation. There have been three versions of Rule 30(2). The original version was created at the same time as the Act and required corporations to be represented by counsel. It read:
+Except as expressly provided by or under any enactment, a body corporate may not begin or carry on a proceeding otherwise than by counsel.
+[Emphasis added]
+[19] Rule 30(2) was amended in 1993 to allow corporations to be represented by an officer with leave of the Court in special circumstances. The 1993 version read:
+A corporation shall be represented by counsel in all proceedings in the Court, unless the Court, in special circumstances, grants leave to the corporation to be represented by an officer of the corporation.
+[20] The current version of Rule 30(2) was implemented in 2007. As set out above, it reads:
+Where a party to a proceeding is not an individual, that party shall be represented by counsel except with leave of the Court and on any conditions that it may determine.
+[21] All three versions of Rule 30 have, in accordance with subsection 17.1(1), allowed individuals to appear in person or be represented by counsel.
+[22] As stated above, the Rules may neither prohibit things that are allowed by the Act nor allow things that are prohibited by the Act. Rules that breach these conditions are ultra vires. Depending on how one interprets subsection 17.1(1), either every version of Rule 30(2) has been ultra vires or only the 1993 and current versions of Rule 30(2) have been ultra vires.
+[23] If I interpret subsection 17.1(1) as only allowing corporations to be represented by counsel, then the original version of Rule 30(2) exactly paralleled subsection 17.1(1) and was intra vires. However, both the 1993 and current versions of Rule 30(2) would be ultra vires. This is because the 1993 version provided that an officer could represent a corporation and the current version provides that a person approved by the Court can represent a corporation. Both of these provisions allow representation in a manner inconsistent with a requirement in subsection 17.1(1) that corporations be represented by counsel.
+[24] By contrast, if I interpret subsection 17.1(1) as allowing corporations to appear in person or be represented by counsel, all three versions of Rule 30(2) would be ultra vires as they would unduly restrict a corporation’s ability to appear in person. The original version outright denied corporations the option of appearing in person. The 1993 version allowed corporations to appear in person, but only with leave of the Court and in special circumstances. Similarly, the current version of Rule 30(2) only allows corporations to appear in person with leave of the Court and, even then, potentially subjects the corporation to conditions imposed by the Court.
+[25] After reviewing this history of Rule 30(2), I prefer the first interpretation. It is important to recall that the Court was created at the same time that the Rules came into effect. In the circumstances, it is far more likely that the original version of Rule 30(2) paralleled subsection 17.1(1) than that it violated it. It appears that, when the 1993 amendment was made, the fact that Rule 30(2) could not be changed without first amending subsection 17.1(1) was overlooked. A similar error appears to have occurred in 2007. This interpretation of the history of Rule 30(2) appears far more likely than an interpretation under which all three versions of Rule 30(2) would have been ultra vires.
+[26] The Supreme Court of Canada has been clear in stating that, whenever possible, an interpretive approach that reconciles a regulation with its enabling statute so as to render the regulation intra vires should be favoured.[9] The interpretation of subsection 17.1(1) that follows the traditional common law position does the least damage in this regard as it, at least, results in the original version of Rule 30(2) having been intra vires. I am unable to conceive of an interpretation of subsection 17.1(1) that would allow all three versions of Rule 30(2) to be intra vires.
+[27] Based on all of the foregoing, I find that a historical contextual analysis of subsection 17.1(1) supports the position that corporations cannot appear in person.
+Purposive arguments can be made in favour of either interpretation [28] There are strong policy reasons why Parliament may have wanted corporations to be able to appear in person. Allowing corporations to appear in person increases access to justice. This is particularly true for small closely held corporations that could not otherwise afford counsel and for corporations that are fighting over less money than they would spend on legal fees.
+[29] However, there are also strong policy reasons why Parliament may have wanted to force corporations to be represented by counsel. Requiring corporations to have counsel increases the efficiency of the court system. This saves the government money both as a litigant and as the entity that pays for the operating costs of the system. Requiring corporations to have counsel also increases the cost of litigation for corporations, which makes it more likely that weaker appeals will either be settled or never be commenced. This both saves the government money and allows it to collect tax revenue more quickly and with less opposition.
+[30] While, in the current climate, access to justice across all courts may be viewed as more important than efficiency, the same cannot necessarily be said of the time when the Act and the Rules were created. Furthermore, access to justice benefits taxpayers whereas increased efficiency and the abandoning of weaker appeals benefits the government. Thus, even if access to justice were the more socially laudable goal, Parliament may nonetheless have chosen to draft the Act and the Rules to its own advantage.
+[31] As a result of all of the foregoing, it is difficult to find any guidance from a purposive analysis.
+The use of the word “may” does not allow appearance through an agent [32] There are only three means by which a party can appear in any court: in person, through counsel or through an agent.
+[33] As set out above, subsection 17.1(1) states that a party to a proceeding “may appear in person or be represented by counsel”. In my view, the use of the permissive word “may” does not indicate that the corporation is also free to choose to be represented by an agent.
+[34] Subsection 17.1(1) can be contrasted with section 18.14 of the Act. Section 18.14 deals with the informal procedure. It reads:
+All parties to an appeal referred to in section 18 may appear in person or may be represented by counsel or an agent.
+[Emphasis added]
+[35] The permissive word “may” is used in both subsection 17.1(1) and section 18.14. However, section 18.14 lists all possible means by which a party could appear and subsection 17.1(1) lists only two of those means. This indicates that the word “may” is meant to convey that, while the party has a choice, that choice is limited to the options presented in the relevant section or subsection. Interpreting “may” to mean that the party can choose among the options presented or choose an option not presented would be illogical. It would render the distinction between subsection 17.1(1) and section 18.14 meaningless and violate the presumption against tautology. If subsection 17.1(1) allowed a taxpayer to be represented by an agent even though there was no mention of being represented by an agent in that subsection, then the words “or an agent” in section 18.14 would be meaningless.
+The Court’s implied power to control its own process does not permit it to allow a corporation to appear in person or through an agent [36] There have been a number of cases where provincial appellate courts have acknowledged an inherent jurisdiction to control the “right of audience” before them.[10] This inherent jurisdiction has been used to allow officers to represent corporations where they are otherwise not permitted to do so.
+[37] The Tax Court of Canada is a statutory court. It does not have inherent jurisdiction. It has the implied power to control its own process.[11] If I find that subsection 17.1(1) does not allow corporations to appear in person, I cannot use the Court’s implied power to nonetheless allow such an appearance. The Court’s implied power cannot be used to allow representation in a manner specifically prohibited by the Act.[12]
+The Federal Courts Rules do not assist me [38] Although the Federal Court is also a statutory court, there is no value in examining the Federal Courts Rules. Section 120 of the Federal Courts Rules allows a corporation to be represented by an officer with leave of the Court in special circumstances. However, the Federal Courts Act does not have an equivalent provision to that found in subsection 17.1(1). Thus, the rules that can be created to deal with corporate representation in the Federal Court are not limited and the fact that officers are permitted to represent corporations in the Federal Court is not instructive.
+Decisions in other courts do not assist me [39] Over time, provincial superior and appellate courts have had to interpret the traditional common law interpretation that corporations cannot appear in person in light of both their respective rules of court and the provincial legislation regulating legal services. Not surprisingly, different rules and legislation have led to different results in different provinces. The Alberta Court of Appeal has a long record of preventing anyone but lawyers from representing companies.[13] The Supreme Court of Newfoundland Court of Appeal decision in Aylward’s Ltd. v. St. Lawrence (Town)[14] reached a similar conclusion. By contrast, after setting out the traditional common law position, the British Columbia Court of Appeal in Venrose went on to examine the relevant provincial provisions and to conclude that an officer of a corporation could commence litigation and represent a corporation in court. Similarly, the majority in Trifidus found that the relevant New Brunswick provisions permitted corporate representation by an officer. However, the majority in 2272539 Manitoba specifically disagreed with Venrose[15] as did Chief Justice Goodridge in Aylward’s.[16]
+[40] None of these decisions assists me in interpreting subsection 17.1(1). They all deal with rules and legislation that are not before me. In addition, these decisions were rendered in a different context – one where the government is not the respondent in every appeal. Accordingly, the competing goals of efficiency and access to justice may have played different interpretive roles. Finally, the decisions which conclude that a corporation can appear in person rely, at least in part, on the relevant court’s inherent jurisdiction. As set out above, I cannot use the Tax Court of Canada’s implied power to control its own process to override the very statute that gives the Court that power.
+Previous decisions of this Court do not assist me [41] There is a long line of previous decisions of this Court applying Rule 30(2) in a manner that allows officers, directors or even shareholders to represent a corporation in general procedure appeals. Unfortunately, it appears that the conflict with subsection 17.1(1) was not brought to the Court’s attention in any of those cases. Thus none of those cases assists me in interpreting subsection 17.1(1).
+Conclusion [42] Based on all of the foregoing, I conclude that subsection 17.1(1) does not allow a corporation to appear in person. In the general procedure, the only option available to a corporation is to be represented by counsel. Accordingly, until such time as subsection 17.1(1) is repealed or amended, Rule 30(2) should be read down to read:
+Where a party to a proceeding is not an individual, that party shall be represented by counsel.
+[43] This reading down should only apply to corporations. Rule 30(2) applies to all parties that are not individuals. Under the Excise Tax Act, partnerships can both be assessed and appeal to the Court. A partnership is not an individual and is thus caught by Rule 30(2). Subsection 17.1(1) allows parties to appear in person or be represented by counsel. Clearly a partnership appealing under the Excise Tax Act can be represented by counsel. I do not have to consider whether such a partnership can also appear in person and I therefore decline to do so. I have also not considered whether there are other potential parties that are neither corporations, nor individuals, nor partnerships and I decline to do so.
+Alternative conclusion [44] If I am wrong, and corporations are able to appear in person, I find that Rule 30(2) is ultra vires because it requires corporations to obtain leave of the Court and potentially be subject to conditions in order to appear in person. I cannot see how Rule 30(2) could be read down to remove these restrictions so I would simply read Rule 30(2) out as it relates to corporations. Corporations would be permitted to appear in person without leave.
+[45] I do not have to decide whether a corporation that appears in person does so through an officer, a director or a shareholder, so I decline to do so. I similarly decline to determine how, in the event of competing representation interests, the Court would determine which potential candidate would be the one who effects the personal appearance.
+[46] For the reasons set out above, I also decline to consider whether Rule 30(2) would apply to partnerships appealing under the Excise Tax Act or any other parties who were not individuals or corporations.
+Application to the Corporate Appellants [47] The Corporate Appellants’ motions are denied. Mr. Chow is not a lawyer. Subsection 17.1(1) prevents anyone other than a lawyer from representing a corporation in the general procedure.
+[48] In the alternative, if I am wrong, and corporations are able to appear in person, I would still deny the Corporate Appellants’ motions. Mr. Chow is neither an officer, director nor shareholder of either of the Corporate Appellants. I am not aware of any interpretation of subsection 17.1(1) by which a corporation could be said to appear in person through its external accountant.
+[49] In the further alternative, if some interpretation of subsection 17.1(1) that I have not considered requires me to apply the law as it currently stands, I would still deny the Corporate Appellants’ motions. I would give little or no weight to the Corporate Appellants submissions that Mr. Chow is a skilled tax accountant who has years of experience, who regularly appears before the Court in informal procedure matters and who has been involved in the Corporate Appellants’ dispute since the audit stage. These are reasons to keep Mr. Chow involved in the background of the litigation, not reasons why he should be permitted to act as a lower cost alternative to a lawyer. I would similarly give little or no weight to the fact that Mr. Chow is fluent in both English and Cantonese while Mr. Liu and Mr. Lo speak only Cantonese. The fact that Mr. Liu and Mr. Lo are unable to communicate in English without a translator is not a reason to allow the Corporate Appellants to be represented by their external accountant. It is a reason why the Corporate Appellants may wish to retain counsel who speaks Cantonese or who has access to Cantonese interpretation services. The Corporate Appellants allege that they cannot afford to retain a lawyer. Under the current law, there is a division on the Court over whether this is a relevant factor. Without deciding that point, I would note that the Corporate Appellants have not provided sufficient evidence of their financial position for this factor to weigh in their favour. In particular, they have not explained why they can afford to pay Mr. Chow but cannot afford to pay a lawyer. Ultimately, my primary reason for denying the Corporate Appellants’ motions would be the lack of connection that Mr. Chow has to the Corporate Appellants. As Justice Jorré recently stated in WJZ Enterprises v. The Queen:[17]
+…While the rule no longer requires that the individual be an officer of the corporation, normally, that person should be an officer or director and, perhaps, a major shareholder or key employee of the corporation. I hasten to add that in no circumstances can an application under subsection 30(2) be used as a “back door” to hiring a non-lawyer agent.
+[Emphasis added]
+Appointing counsel [50] The Corporate Appellants requested that, if I denied their motions, they be given three months to find counsel. The Respondent agreed to that time period. Accordingly, on or before February 28, 2018, the Corporate Appellants shall serve and file a notice giving the name, address for service and telephone number of their counsel.
+Amended Pleadings [51] The Notices of Appeal filed in these appeals contain very little in the way of details. At the hearing of the motions, the Appellants agreed to file Fresh as Amended Notices of Appeal that comply with the Rules. The parties agreed that the Appellants should be given two months after the above deadline to do so. Accordingly, the Appellants shall have until April 30, 2018 to serve and file Fresh as Amended Notices of Appeal that comply with the Rules.
+[52] The parties agreed that the Respondent should be given a further two months to file Fresh as Amended Replies. Accordingly, the Respondent shall have until June 29, 2018 to serve and file Fresh as Amended Replies.
+Costs [53] Although the Individual Appellants had no hope of success on their motions, very little time was spent dealing with those motions. The bulk of the time was focused on the motions of the Corporate Appellants. The outcome of those motions was unrelated to the positions taken by any of the parties. Given the prior state of the law, none of the parties could reasonably have anticipated the conclusion that I have reached. In the circumstances, I believe that one set of costs should be awarded in respect of all four motions and that such costs should be in the cause.
+Signed at Ottawa, Canada, this 28th day of November 2017.
+“David E. Graham”
+Graham J.
+CITATION:
+2017 TCC 239
+COURT FILE NOS.:
+2017-3199(IT)G
+2017-3201(IT)G
+2017-3202(IT)G
+2017-3204(IT)G
+STYLES OF CAUSE:
+MASA SUSHI JAPANESE RESTAURANT INC., HAI-GUANG LIU, KA LEUNG LO, 2075957 ONTARIO INC. (o/a KATSU JAPANESE RESTAURANT) v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+November 6, 2017
+REASONS FOR ORDER BY:
+The Honourable Justice David E. Graham
+DATE OF ORDER:
+November 28, 2017
+APPEARANCES:
+Agent for the Appellants Masa Sushi Japanese Restaurant Inc. and 2075957 Ontario Inc. (o/a Katsu Japanese Restaurant):
+For the Appellant, Hai-Guang Liu:
+For the Appellant, Ka Leung Lo:
+Dennis Chow
+The Appellant himself
+The Appellant himself
+Counsel for the Respondent:
+Christopher Kitchen
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] I acknowledge that the proper way to refer to a rule is "subsection 30(1)" not "Rule 30(1)". I have chosen to use the expression “Rule 30(1)” in these reasons to make it easier for the reader to distinguish between references to the Rules and references to sections of the Tax Court of Canada Act.
+[2] 2011 TCC 432.
+[3] Friends of the Oldman River Society v. Canada (Minister of Transport), 1992 CarswellNat 1313, [1992] 1 S.C.R. 3 at para. 50.
+[4] Canadian Oxford Dictionary, 2nd ed., sub verbo “person”.
+[5] 1931 CarswellAlta 59 (Alta CA) at para. 25 and 26.
+[6] 1996 CarswellMan 402 (Man CA) at para 10.
+[7] 2011 NBCA 59 at para. 20.
+[8] 1978 CarswellBC 129 at para. 10.
+[9] Katz Group Canada Inc. v. Ontario (Health and Long-Term Care), 2013 SCC 64 at para. 25.
+[10] See, for example: Great West Life Assurance Co. v. Royal Anne Hotel Co., 1986 CarswellBC 246 (BCCA) at paras. 4 to 8; Re Mondello, 1983 CarswellOnt 3892 (Ont CA); and Fast Trac Bobcat & Excavating Service v. Riverfront Corporate Centre Ltd., 2004 BCCA 279.
+[11] R. v. Cunningham, 2010 SCC 10 at para. 19.
+[12] In Shannon v. The Queen, 2016 TCC 255, I used the Court’s power to control its own process to prevent Mr. Shannon from appearing as an agent in any informal procedure appeal without leave. This rare exercise of the Court’s power to control its own process is very different than the use of inherent jurisdiction seen in the aforementioned cases. Section 18.14 specifically allows appellants in the informal procedure to be represented by agents. The Court’s power to control its own process would not allow me to remove that right from all appellants or even a specific appellant. The power cannot be used to override the Act. What I did in Shannon was simply to exclude Mr. Shannon from the otherwise unlimited list of people that appellants may ask to be their agent. Any appellant who would otherwise have retained Mr. Shannon remained free to be represented by a different agent.
+[13] See, for example, Park Avenue Flooring Inc. v. EllisDon Construction Services Inc., 2016 ABCA 211.
+[14] 1987 CarswellNfld 41.
+[15] At para. 9.
+[16] At paras. 33-36.
+[17] 2017 TCC 57 at para. 5.

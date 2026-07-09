@@ -1,0 +1,360 @@
+---
+title: "Transalta Corporation v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30748/index.do"
+last_modified: "2012-03-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 86"
+citation2: ""
+neutral_citation: "2012 TCC 86"
+decision_date: "2012-03-15"
+language: "en"
+item_id: "30748"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7484
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:32:39.907000+00:00"
+cases_cited_count: 5
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3ca0662967871846d5ca81c731e2db2de04277d7abd0087f590bba575398446e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Transalta Corporation v. The Queen
+
+- Citation: 2012 TCC 86
+- Decision date: 2012-03-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7484, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Transalta Corporation v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-03-15
+Neutral citation
+2012 TCC 86
+File numbers
+2010-832(IT)G
+Judges and Taxing Officers
+Theodore E. Margeson
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-832(IT)G
+BETWEEN:
+TRANSALTA CORPORATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 28, 2011, at Calgary, Alberta.
+Before: The Honourable Justice T.E. Margeson
+Appearances:
+Counsel for the Appellant:
+Robert D. McCue and
+Todd J. Marr
+Counsel for the Respondent:
+Bonnie F. Moon and
+Mary Softley
+____________________________________________________________________
+AMENDED JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the Appellant’s 2001, 2002, 2003 and 2004 taxation years are allowed, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the reasons for judgment attached.
+Costs are awarded to the Appellant.
+Signed at Toronto, Ontario, this 4th day of April 2012.
+“T.E. Margeson”
+Margeson J.
+Citation: 2012 TCC 86
+Date: 20120404
+Docket: 2010-832(IT)G
+BETWEEN:
+TRANSALTA CORPORATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+Margeson J.
+[1] These appeals relate to the 2001, 2002, 2003 and 2004 taxation years. In those years, the Appellant provided bonuses to its employees and employees of certain of its subsidiaries under the Appellant’s Share Ownership Plan (the “PSOP”).
+[2] In computing its income under Part I of the Income Tax Act in its returns of income for each relevant taxation year, the Appellant deducted the amount of the bonuses that it provided to the participants under PSOP pursuant to subsections 9(1) and paragraph 18(1)(a) of the Income Tax Act (Canada), R.S.C. 1985, c. 1 (5th supp.) as amended (the “Act”).
+[3] For the 2001 and 2002 taxation years, the bonuses were satisfied by shares in the capital of the Appellant (“shares”) and for the 2003 and 2004 taxation years, partly through the payment of cash and partly through the issuance of shares. The deductions of the amount of these bonuses was denied by the Minister of National Revenue (the “Minister”), arguing that the deductions were prohibited by subsection 7(3) of the Act and that the provisions of subsection 7(1) of the Act applied.
+[4] The parties filed an agreed upon statement of facts as follows:
+Agreed Statement of Facts
+The parties hereto by their respective solicitors agree on the following facts. This agreement is made for the purpose of this appeal only and may not be used against either party on any other occasion. Either party may adduce further and other evidence relevant to the issues and not inconsistent with this agreement. It is also agreed that the admission of these facts is not a concession of the weight or degree of relevance to be attributed to these facts. Reference will be made in this Agreed Statement of Facts to the parties’ Joint Book of Documents (the “Joint Book of Documents”) with respect to this matter.
+1. During the Appellant’s 2001, 2002, 2003 and 2004 taxation years (the “Relevant Taxation Years”), the Appellant provided bonuses (“Bonuses”) under the Appellant’s Performance Share Ownership Plan (the “PSOP”) to certain of its senior management and high potential employees, and similar employees of certain of its subsidiaries, designated by the Appellant as participants under the PSOP (“Participants”).
+2. Throughout the Relevant Taxation Years, each of the Appellant and its subsidiaries TransAlta Utilities Corporation, TransAlta Energy Corporation and TransAlta Energy Marketing Corporation (the “Subsidiaries”) was a resident of Canada for purposes of the Income Tax Act (the “Act”).
+3. Throughout the Relevant Taxation Years, Participants included employees of the Appellant and each of the Subsidiaries.
+4. Throughout the Relevant Taxation Years, the Appellant and the Subsidiaries did not deal at arm’s length with one another for purposes of the Act.
+5. Throughout the Relevant Taxation Years, the Appellant was a “public corporation” for purposes of the Act, and the Shares were listed for trading on (among other stock exchanges) The Toronto Stock Exchange and the Montreal Exchange.
+6. The taxation year-end of the Appellant for all Relevant Taxation Years was December 31.
+7. The Appellant was incorporated under the Canada Business Corporations Act (Canada) (the “CBCA”), and continued to subsist thereunder throughout the Relevant Taxation Years.
+8. The Appellant instituted the PSOP in 1997. The resolution of the Appellant’s Board of Directors with respect to the PSOP is at Tab 1 of the Joint Book of Documents.
+9. The PSOP was amended several times thereafter prior to or during the Relevant Taxation Years. The versions applicable during the Relevant Taxation Years are dated April 1, 1999 and July 22, 2004. The PSOP dated April 1, 1999 is at Tab 2 of the Joint Book of Documents. The PSOP dated July 22, 2004 is at Tab 3 of the Joint Book of Documents.
+10. Employees of the Appellant who became participants in the PSOP after it was instituted were advised by letter. A typical copy of such a letter is at Tab 4 of the Joint Book of Documents.
+11. New employees who were to participate in the PSOP were so advised in their letters of offer of employment. A typical copy of a letter of offer of employment is at Tab 5 of the Joint Book of Documents.
+12. The PSOP operates on successive three-year cycles (each, a “Compensation Period”). A new Compensation Period commences at the beginning of each calendar year.
+13. The following steps occur with regard to the Bonuses:
+(a) The Human Resources Committee (the “Committee”) notifies each Participant near the beginning of each Compensation Period of the range of units for which such Participant is eligible for that Compensation Period, and notifies each Participant of such potential eligibility. For example:
+(i) a Participant in 1999 would have been notified of a unit range with respect to the Compensation Period running from 1999 through 2001, the Bonus respecting which may be paid in 2002;
+(ii) in 2000, the same Participant would be notified of another potential unit range with regard to the Compensation Period running from 2000 through 2002, the Bonus respecting which may be paid in 2003; and
+(iii) this process could recur with regard to each successive Compensation Period.
+A copy of a typical notification is at Tab 6 of the Joint Book of Documents.
+(b) No later than 120 days after the end of each Compensation Period, the Committee determines with respect to such Compensation Period:
+(i) the amount of any Bonus for each Participant; and
+(ii) whether and to what extent any such Bonus will be paid in cash or by issuing Shares.
+(c) After the Committee’s determination, the requisite Shares are issued and/or cash payments are made.
+(d) Each Participant is notified by the Bonus provided to him or her that involved the issuance of Shares by receipt of a memorandum from the Appellant:
+(i) advising that the number of Shares had been determined;
+(ii) describing the amount of the Bonus based on the number of Shares issued in satisfaction thereof; and
+(iii) describing the amount of tax remitted to the Receiver General for Canada in that regard;
+A copy of typical memorandum is at tab 7 of the Joint Book of Documents.
+14. The entire relationship between the Appellant and its shareholders is governed by the CBCA.
+15. All of the Shares that the Appellant issued in relation to the PSOP in the Relevant Taxation Years were treasury shares.
+16. The Management Proxy Circular for the May 1, 2002 annual meeting of the Appellant’s shareholders describes the PSOP and contains information regarding the PSOP units awarded during 2001. A copy of that Circular is at tab 8 of the Joint Book of Documents.
+17. In each Relevant Taxation Year the Appellant accrued in its accounting books in accordance with its understanding of applicable accounting principles an amount as an expense with regard to future Bonuses. Such accrued amount is estimated in the same way regardless of the extent to which the Bonuses may be paid in cash or by issuing Shares.
+18. The amount accrued as an expense in the Appellant’s audited year-end financial statements with respect to the Relevant Taxation Years as part of operations, maintenance and administrative expense, were as follows:
+Relevant Taxation Year
+Accounting Expense
+Accrued by Appellant
+2001
+$4,800,000
+2002
+$5,300,000
+2003
+$Nil
+2004
+$3,400,000
+19. The amounts accrued as expenses with regard to future Bonuses were not deducted for income tax purposes and were added back on the Form T2(S)1 prepared by the Appellant and filed with its tax return for each Relevant Taxation Year.
+20. The accrued future Bonus amounts with respect to a Compensation Period were adjusted by the Appellant in accordance with its understanding of applicable accounting principles at the end of each year, until the end of the relevant Compensation Period, and such adjusted estimated amounts were reflected in the Appellant’s audited financial statements.
+21. The Appellant provided Bonuses in each or by issuing Shares to Participants in the Relevant Taxation Years as follows:
+Relevant
+Taxation
+Year
+Market Value of Shares Issued by the Appellant at time of Issuance
+Amount of Cash Bonuses or Withholding Tax Paid pursuant to the PSOP
+Total Bonus
+2001
+$1,827,694
+$0
+$1,827,694
+2002
+$1,848,755
+$0
+$1,848,755
+2003
+$1,425,263
+$907,504
+$2,332,767
+2004
+$1,112,576
+$1,166,121
+$2,278,697
+22. In connection with the above issuances of Shares, the Appellant increased its stated capital account in respect of its common shares by the following amounts, which are equal to the fair market value of the issued Shares at the time of issuance with respect to each of the Relevant Taxation Years:
+Relevant Taxation Year
+Increase to the Appellant’s Stated Capital as a result of PSOP Share Issuance
+2001
+$1,827,694
+2002
+$1,848,755
+2003
+$1,425,263
+2004
+$1,112,576
+23. The Appellant understands that its addition to such stated capital account was made in accordance with subsections 25(3) and (4) of the CBCA on the basis that the value of uncompensated services previously rendered by the Participants to the Appellant was at least equal to the Shares’ aggregate fair market value at the time of issuance.
+24. The above increases to the Appellant’s stated capital were approved by its auditors, and have been accepted by the Appellant’s outside legal counsel in their review of the Appellant’s corporate records with respect to various financings and other similar matters.
+25. The Appellant:
+(a) filed its tax and information returns for the Relevant Taxation Years on the basis that the Bonuses were taxed to the Participants as employment income;
+(b) included the Bonuses as employment income of the Participants in T4 information slips sent to Participants; and
+(c) remitted to the Receive General for Canada in cash certain amounts as source deductions in respect of the Bonuses.
+26. In computing its income under Part I of the Act in its returns of income for each Relevant Taxation Year, the Appellant deducted amounts in respect of the Bonuses awarded by the issuance of Shares or cash, including remittances to the Receiver General made on the employees behalf in the year. Copies of the Appellant’s tax returns for the Relevant Taxation Years are at tabs 9 through 12 of the Joint Book of Documents.
+27. The Minister of National Revenue reassessed the Appellant to deny certain of the Appellant’s deductions with respect to the Bonuses, as well as certain other deductions with respect to the Relevant Taxation Years, as follows:
+Relevant Taxation Year
+Disallowed Deductions
+Claimed by Appellant
+2001
+$1,827,694
+2002
+$1,848,755
+2003
+$2,356,791
+2004
+$2,302,338
+28. The Minister issued Notices of Determination of Loss for each of the Relevant Taxation years, which are the Notices under appeal. Copies of the Notices are at tabs 13 through 16 of the Joint Book of Documents.
+29. The Crown and the Appellant have resolved certain issues related to the Appellant’s deduction of the Bonuses paid in cash and certain related expenditures, and as a result, the only issue that remains to be resolved is whether the Appellant has the right to deduct fair market value of the Shares it issued under the PSOP, in the following amounts:
+Relevant Taxation Year
+Deduction Claimed
+2001
+$1,827,694
+2002
+$1,848,755
+2003
+$1,425,263
+2004
+$1,112,576
+[5] The parties also submitted a Joint Book of Documents without restrictions.
+[6] In evidence, Benjamin Park testified that he was responsible for the PSOP. This plan provided that within 120 days of the end of a period, notice is sent to employees about what they will receive by way of bonus. The form of notice is set out in Exhibit R-2 at Tab 7.
+[7] He indicated that no one has ever surrendered these shares or cash. An estimate was made of the amount to be paid and they were set out in the books of the Appellant as an accrued expense. They were conservative estimates so as not to under-estimate the expense or the liability. The matching principle required them to be accounted for in the period they were earned. There was no difference whether the amounts were paid in cash or shares. They were shown in the books of the Appellant as operations, maintenance and administration expenses as shown in paragraph 18 of the Agreed Statement of Facts. If the amounts were not paid out then there would not be an accrual. The payout could be higher or lower. This has happened in the past.
+[8] In the balance sheet treatment of the expenses, there is an adjustment for any changes to the amounts on December 31, 2004. The accrued liability is purely an accounting function and has nothing to do with the employees.
+[9] The Compensation Committee is made up of people who are not company executives.
+[10] If the Crown is successful in this case, there will be a 73 to 81% effect on the employees.
+[11] In cross-examination, the witness indicated that he was a participant in PSOP.
+[12] He had received a document similar to that found in the Joint Book of Documents at Tab 5 but not exactly the same. The term reward that is used is not the same as the word bonus.
+[13] Notification is given at the end of a compensation period.
+[14] This notice given to shareholders is more fully described at Tabs 8 and 9 of the Joint Book of Documents.
+Argument on Behalf of the Appellant
+[15] In argument, counsel for the Appellant said that there was no legally-binding agreement to issue the shares. There were three-year periods. The notification could be for a range of bonuses at the end of a period. The board decides whether the bonuses would be paid or not and whether they were to be by shares or cash. If shares were issued, then this could be done without notifying the recipients of the issue.
+[16] For accounting purposes, counsel stated that the Appellant never acknowledged a liability. No one ever attempted to return cash or the shares.
+[17] The shares were issued for past service as indicated in paragraph 23 of the Agreed Statement of Facts. This consideration is not sufficient to support a legally‑binding contract. There is no issue as to the validity of the shares for past service.
+[18] Counsel also delivered an extensive written argument which he suggested was more extensive than the oral argument at trial and addressed the legally-binding agreement argument and the unilateral contract issues at greater depth than during oral argument at trial.
+[19] Counsel argued that the appeal should be allowed in favour of the Appellant on three basis:
+a) The case law and principles of statutory interpretation support the restriction of section 7 to legally-binding agreements. This case presents a set of facts which show that the parties express and implied intentions and expectations were that the PSOP was a discretionary bonus plan that did not create legal rights or obligations. The plain meaning of the word “agreement” caused the parties to expect tax consequences on the basis that section 7 would not apply. If the Court here were to extend the application of section 7 to non legally-binding situations, significant uncertainty would be imposed on taxpayers and a high degree of double tax would result in many cases because section 7 would apply and paragraph 110(1)(d) would not. Such a draconian result requires clear language in the Act. This is not to be found. A plain reading of the word “agreement” in section 7, as well as contextual and purposive readings of that word, support the Appellant’s position.
+b) The Unilateral Contract Issue: a unilateral contract is a legally‑binding obligation, which the Crown assumed in its Reply did not exist in this case.[1] Further, a unilateral contract is an offer capable of acceptance by performance. The PSOP does not involve an offer that may be accepted by performance. There is nothing that the participants may do to contractually bind the Appellant to issue the shares, since whether or not shares will be issued to a participant is solely within the Appellant’s discretion under the clear terms of the PSOP. Therefore, the PSOP does not involve the creation of a unilateral contract.
+c) The Expenditure Issue: The Crown relies solely upon an obiter reference in Placer Dome Inc. v. Canada, [1992] 2 C.T.C. 99 to Lowry (Inspector of Taxes) v. Consolidated African Selection Trust Limited, [1940] AC 648 (H.L.) which has been expressly rejected by the Federal Court of Appeal. Further, it has been superseded by Canderel Limited v. The Queen, 98 DTC 6100 (S.C.C.). The decision in Canderel supports the contention that the Appellant is entitled to the deductions sought.
+[20] Counsel went on to discuss at length the key facts which he relied upon to support his conclusion. Suffice it to say that all of these facts will not be repeated here but are considered by the Court in making its decision.
+[21] Some of the key facts relied upon by the Appellant in his argument are that the PSOP is a discretionary stock bonus plan that does not require the Appellant to issue shares and it does not give the participants the right to demand that shares be issued to them. This was assumed by the Crown in its Reply.[2]
+[22] Bonuses were determined for compensation periods of three years by the Appellant’s Human Resources Committee of the board as determined by a formula or at the discretion of the Human Resources Committee to pay more or less than the formula dictated. The employees would be notified if the decision was to issue shares and that those shares had been placed in his or her account.
+[23] The Appellant’s financial records are consistent with the legal rights and obligations created by the PSOP. The Appellant accrued liabilities in each of the three years of each compensation period with regard to what amount may be taxable under the PSOP. The readers of the financial statements would have notice of the future expenditures with regard to what expenditures were possible under the PSOP. This accrued liability was established for accounting purposes and not as a result of a legal liability to the participants. Any such liability was never acknowledged for legal or accounting purposes.
+[24] Shortly after the end of the compensation period, the board exercised its discretion and issued the shares or paid the bonuses in each. Then the accrued liabilities set out in the Appellant’s books were removed as they were not required to be maintained by accounting principles.
+[25] If the Respondent’s arguments prevail, the combined rate of tax paid by the Appellant and its employees will range between 73% to 81% as a result of the employees paying tax at their rate and the Appellant paying tax at its rate.
+[26] All cases decided to date that have applied section 7 have done so on the basis that a legally-binding argument existed or something close to it.
+[27] The Appellant’s position on section 7’s interpretation is supported by the history of section 7 and its use of words like “arrangement”, in related employment compensation provisions, make it clear that section 7 is intended to apply to legally‑binding agreements to issue shares.
+[28] Recently proposed section 143.3 indicates from a policy point of view the kind of deductions that are permissible from the Crown’s perspective in regard to non legally-binding share issue arrangements between employers and employees but this section, had it been in place during the period in issue here, would not have prevented the deductions sought.
+[29] The Supreme Court of Canada in Canada Trustco Mortgage Co. v. Canada, [2005] 2 S.C.R. 601 held that, to the extent possible, the Act should be interpreted to promote consistency, predictability and fairness of taxation consequences. A straightforward reading of the word “agreement” in section 7 would lead to this result. The employees here expected to be, and were taxed at full employment income rates, and the Appellant expected to be entitled to deduct the bonuses paid to the participants.
+[30] The Appellant submitted that the Respondent has not established that the word “agreement” in section 7 is clearly intended to apply to expressly non legally‑binding arrangements such as the PSOP, and that the appeal should be allowed.
+[31] Counsel said that the Respondent did not refer to Lowry in its argument, while relying upon the obiter comment in Placer Dome, which is the sole authority for the Crown’s argument with regard to the expenditure issue. This obiter was that:
+[Placer Dome] is, therefore, in no position to speak to deductibility, it being well established that an employer must incur an expense or a cash outlay or a loss of value of its assets in order to claim a deduction from its taxable income.
+[32] Counsel distinguished Lowry on the basis that here the shares were issued for fair market value and the Appellant’s creation of stated capital in the same amount. Canderel dictated that this Court should decide this appeal on the basis of similar principles that applied in Canada during the relevant taxation years. The only evidence before this Court is that the Appellant followed such principles, made an expenditure in accordance therewith and is entitled to the deduction sought.
+[33] In Lowry, the Appellants did not give any consideration for the premium value of the shares issued to them whereas in this case they did in accordance with the findings in Teleglobe Canada Inc. v. The Queen, 2000 DTC 2493, aff’d 2002 DTC 7517 (F.C.A.). As there, the Appellant reflected the true consideration in the stated capital account. This is prima facie evidence of the value received for the shares and also the amount of the expenditure that results from the issuance of those shares.
+[34] The Appellant presented evidence to support such value by way of past performance to the equivalent value of the shares at the time of its issuance and the fair market value of the services provided.
+[35] The Crown presented no evidence to the contrary and so the Appellant should succeed on this point.
+[36] In 2000, the Tax Court of Canada rejected Lowry in Teleglobe and this decision was confirmed by the Federal Court of Appeal. Canderel also rejected the principle set out in Lowry and affirmed the principle that, in the absence of an applicable rule of taxation law (statutory or otherwise), the deductions permitted by “well-accepted business principles” are also deductible for income tax purposes.
+[37] The Appellant here complied with the principles referred to in Canderel, and if section 7 does not apply to restrict the Appellant’s deduction of the amount of the bonuses paid by issuing shares, then the deductions should be permitted.
+[38] In summing up the results of the case law, counsel argued that the result is that they stand for the proposition that section 7 should be applied only to cases in which legally-binding agreements to issue shares are found to exist.
+[39] If the case law is read in a manner most favourable to the Crown the standard required should be very close to the legally-binding standard that involves the creation of a high degree of expectation that a specific number of shares would be issued as illustrated in McAnulty v. The Queen, 2001 DTC 942.
+[40] The facts in this case are at the opposite end of the spectrum. The PSOP is explicitly discretionary and does not create legally-binding rights or enforceable obligations. In this case, the reasonable expectation of the parties was that the employees would pay full rates of tax and the Appellant would receive a deduction for income tax purposes. The case law indicates that these kinds of expectations should be respected. The appeal should be resolved in the Appellant’s favour.
+[41] When the Canderel principle is applied in this case there is ample evidence that the Appellant followed well-accepted business principles which presented an accurate picture of the financial affairs. There are no other provisions of the Act, other than paragraph 7(3)(b), or no other principles of law that would prohibit the deductions sought. There was no evidence led by the Crown to dispute the way in which the taxpayer has accounted for the transactions.
+[42] A fair reading of the case law dictates that when shares are issued other than pursuant to a stock option, as in this case, an expenditure will be permitted to the extent of the fair market value of services rendered or property transferred in consideration of the share issuance. Here the value of the previously uncompensated past services had a value equal to the fair market value of the shares at the time of issuance and that is the amount sought to be deducted by the Appellant here, and booked as stated capital with regard to the shares.
+[43] The Appellant should be successful with respect to the expenditure agreement as well.
+[44] The appeal should be allowed.
+Argument on behalf of the Respondent
+[45] Counsel for the Respondent argues that the Appellant agreed to issue shares, and the deduction of the fair market value of the shares issued was prohibited by paragraph 7(3)(b) of the Act.
+[46] Further, the Appellant did not make a cash outlay or endure a loss of value of its assets in issuing the shares. The type of deduction sought by the Appellant is the type of deduction that Parliament had no intention of allowing.
+[47] Counsel argued that neither the noun “agreement” nor the verb “agree” which appears throughout section 7 of the Act, is defined in the legislation. The principles of statutory interpretation must be used to determine their meaning for the purposes of subsection 7(3).
+[48] A fundamental principle of statutory interpretation is that words are to be construed in the ordinary or popular sense.[3] This is in harmony with the modern approach to interpretations of tax statutes, which is that the words are to be read in context, within the overall scheme of the legislation under review[4] as indicated by the Supreme Court of Canada in Canada Trustco Mortgage Co. at paragraph 10.
+[49] The Oxford English Dictionary assigns a broad range of meaning to these words.[5]
+[50] The basic purpose of section 7 has not changed over the years and that was to bring the value of such benefits as here into employee income so that they could be taxed.
+[51] Section 7 covers benefits realized in a specific situation and it trumps the sections of the Act dealing more broadly with the ability to claim expenses and the disposition of employment income.
+[52] There is a presumption that the precise overcomes the general.
+[53] The appropriate meaning to be given to the word “agree”, within the context of section 7 as a whole is “to consent to or approve of” an allocation of securities to employees, whether or not that proposal constitutes a legal contract. That meaning best fits the section’s function within the Act that is to capture the employees benefits that it was intended to capture. [6]
+[54] Reference to an agreement in legislation does not mean that the agreement must create contractual rights or obligations. Parliament had the option to use the word “contract” in subsection 7(1) but it did not do so because it wanted to capture all securities issued to employees under an agreement, using broad language to close the loopholes that had previously enabled employees to receive shares from their employers without either party being taxed on their value.
+[55] Counsel said that the Courts have rejected the view expressed in Fowler v. Minister of National Revenue, 63 DTC 600 at paragraph 10, that the “agreement” for the purpose of section 7 should be a formal written agreement concerning a stock option plan. The terms “agreed” and “agreement” are not terms of art and a narrow or technical interpretation of these words has been rejected in modern jurisprudence. An “agreement” can be inferred from the status of the parties.[7]
+[56] Counsel opined that the ordinary meaning of the words “agreed” and “agreement” culminated in McAnulty at paragraphs 22 and 36. Defining the term “agreed” as “consent to or approval of” is an allocation of securities to employees is consistent with this Court’s reasoning in McAnulty.
+[57] Counsel’s interpretation of the facts in this case led her to conclude that the Appellant “agreed” to issue securities under the PSOP the moment that it committed to allocate certain shares to participating employees. It does not matter that it was referred to as a “bonus” within the discretion of the employer.
+[58] Alternatively, counsel took the position that the Appellant “agreed” to issue shares to the employees through unilateral contracts as in Sail Labrador Ltd. v. Challenge One (The), [1999] 1 S.C.R. 265 at paragraph 33.
+[59] In the case at bar, the Appellant promised to issue a variable number of shares, based upon the Appellant’s performance as reflected in the shareholder return.[8] The employees provided consideration in exchange for performance of the Appellant’s promise when they worked to allow the Appellant to meet the necessary performance goals. Therefore, the Appellant “agreed” to issue securities when it formed unilateral contracts with the employees who participated in the PSOP.
+[60] Finally, counsel argued that this appeal should be dismissed because the Appellant incurred no expense in issuing the shares under the PSOP. The shares were issued from Treasury and as decided in Placer Dome at paragraph 22, an employer must incur an expense or a cash outlay or a loss of value of its assets in order to claim a deduction from its taxable income. This, the Appellant did not do.
+[61] It created the shares itself without expending or sacrificing any other resource to do so. Therefore, it cannot claim a deduction of the shares “fair” market value from its taxable income.
+[62] The Appellant deducted amounts relating to the shares for accounting purposes, but these accounting procedures by themselves, are not determinative of tax treatment. The computation of income under section 9 is subject to the rules of Part 1 of the Act regardless of whether or not those rules reflect general accounting principles.[9]
+[63] Parliament introduced what would become section 7 of the Act with the recognition that employers could not deduct the value of shares issued to employees. Parliament intended for section 7 to capture employee stock option agreements, because the other sections dealing with cash compensation could not. The claimed deductions should be denied.
+Analysis and Decision
+[64] Although expressed differently, both parties agree that the issues to be decided in this case, put simply, are whether the Appellant “agreed” to issue shares, with respect to certain bonuses paid to the employees who participated in a Performance Share Ownership Plan (“PSOP”) by issuing treasury shares to such employees.
+[65] Secondly, does section 7 require a legally-binding agreement or does it include non-contractual commitments or undertakings, including those present in this case?
+[66] Thirdly, in the event that a legally-binding agreement is necessary in order for section 7 to apply, does the payment of bonuses by issuing the shares amount to a unilateral contract, which is a legally-binding contract?
+[67] Fourthly, if section 7 does not apply to the transactions in question, did the Appellant make a cash outlay or endure a loss of value of the assets in issuing the shares, so that it was entitled to the type of deduction that it claims?
+[68] At issue in this case is the consideration of the provisions of subsection 7(3) of the Act. This subsection provides as follows:
+7(3) If a particular qualifying person has agreed to sell or issue securities of the particular person, or of a qualifying person with which it does not deal at arm’s length, to an employee of the particular person or of a qualifying person with which it does not deal at arm’s length,
+(a) except as provided by this section, the employee is deemed to have neither received nor enjoyed any benefit under or because of the agreement; and
+(b) the income for a taxation year of any person is deemed to be not less than its income for the year would have been if a benefit had not been conferred on the employee by the sale or issue of the securities.
+[69] Counsel for the Respondent says that since neither the word “agreement” nor “agree” is defined in the legislation the principles of statutory interpretation dictate that the words are to be construed in their ordinary and popular sense. Here that would mean an interpretation that is as broad as the dictionary definition of them indicates. This is in line with modern jurisprudence which rejects a technical or narrow interpretation of the words.
+[70] Counsel claims that the words are not terms of art.
+[71] The Court is not satisfied that the words “agree” and “agreement” should be given such a broad meaning as supported by the dictionary meaning in the context of their use in tax cases. So far as this Court is concerned, the ordinary meaning that comes to mind is something more than that contemplated by counsel for the Respondent.
+[72] The use of the words suggest a meeting of the minds, a promise to do something in return for the other party doing something, the bestowing of rights and liabilities to or from the parties, the bestowing of legal rights on the employees and corresponding obligations of the Appellant, which is a foundation of contract law.
+[73] The case law as presented by both parties would seem to favour such a position.
+[74] The Court is satisfied that the participants expected to be, and were, taxed at full employment income tax rates and the Appellant expected to be entitled to the deductions. These are the results that the parties would expect in a straightforward reading of the word “agreement” in section 7.
+[75] If the legislature had intended for section 7 to apply to non-legally binding arrangements it could have used words which would suggest something less than that, such as arrangement, which is used in other employment compensation sections of the Act, as indicated by counsel for the Appellant.
+[76] The Court is satisfied that the use of the words “agree” and “agreement” in section 7 must be intended to require more than “to consent to or approve of” an allocation, as suggested by counsel for the Respondent.
+[77] This finding is made in spite of the position taken by the Respondent that the legislators did not use the word contract. It is this Court’s position that the word agreement, as used in the context of this section means basically the same thing.
+[78] This Court does not accept the argument of counsel for the Respondent that the Appellant “agreed” to issue securities under the PSOP the moment that it committed itself to allocate certain shares to participating employees. That is the result of the obiter in McAnulty but this was not germane to the decisions in that case and is not binding on this Court.
+[79] In that case, former Chief Justice Bowman found a legally-binding agreement to exist.
+[80] The Court accepts the position of counsel for the Appellant that there existed no agreement to issue shares followed by issuance. As argued, the PSOP is explicitly discretionary and legal rights and obligations were not created.
+[81] On issues one and two, the Appellant must be successful.
+[82] The third issue relates to the Respondent’s alternative argument that the Appellant “agreed” to sell or issue securities through unilateral contracts. The Respondent’s case on this issue is less than compelling.
+[83] In Sail Labrador Ltd., the Supreme Court of Canada defined the term unilateral contract. It is interesting to note that both the Appellant and Respondent found that this case supported their appropriate conclusions.
+[84] According to this case, a unilateral contract is one in which a party makes a promise in return for the performance or forbearance of an act. There is no counter promise to perform the act or forbearance. In this way, a unilateral contract is a contract in which only one party undertakes a promise. The promise takes the form of an offer which can only be accepted by performance of the required act or forbearance. Such performance provides the other party’s consideration, allowing it to enforce the original promise.
+[85] The Respondent argues that in correspondence with the employees who participated in the PSOP, the Appellant promised to issue a variable number of shares, based upon the Appellant’s performance as reflected in total shareholder return. The employees provided consideration in exchange for performance of the Appellant’s promise, when they worked to allow the Appellant to meet the necessary performance goals.
+[86] The Court is satisfied that there was nothing that any of the recipients could have done other than being informed of the intentions of the Appellant that might be considered to be acceptance of an offer regarding the receipt of the shares.
+[87] The Court is satisfied, as argued by counsel for the Appellant, that the participants had no right, up to the time of the delivery of the shares to receive a bonus.
+[88] The Appellant’s accounting records do not reflect any liability to the participants regarding the PSOP.
+[89] The Appellant’s accounting and corporate records indicate that the shares were issued for uncompensated past services having a value equal to the value of the shares. These services had not been rendered pursuant to an agreement and did not create a liability in favour of the participants. This is consistent with there being no contract pursuant to which the shares were issued.
+[90] The Appellant did not make an offer to any participant that could be accepted by the participant so as to create a bilateral contract that imposes conditions on one or both parties. Non-action by the participants could not amount to acceptance of an offer.[10]
+[91] The Appellant must be successful on this issue.
+[92] That leaves for consideration the expenditures issue.
+[93] The Respondent’s position is that the Appellant incurred no expense in issuing shares under the PSOP. The shares were issued from treasury. The Appellant did not make any cash outlay or endure any loss of value of its assets in order to issue the shares from treasury. In support of her position, Counsel cited Placer Dome. She argued that when Parliament created section 7 of the Act it recognized that employers could not deduct the value of shares issued to their employees.[11] Further, it was argued that the Appellant issued the shares for consideration of less than fair market value.
+[94] Counsel for the Appellant takes the position that the shares were issued for uncompensated past services.
+[95] It is clear from the evidence, and it is not contradicted, that the Appellant increased the stated capital of its common shares in the same amount as a result of the issuance of the shares. It was agreed that the amount of the stated capital had been approved by the Appellant’s auditors and outside legal counsel. This was uncontested by the Respondent in so far as the evidence was concerned, and as counsel for the Appellant argued, the Crown’s presumptions on this point has been destroyed.
+[96] Evidence adduced by Mr. Benjamin Park, again, unrebutted, indicated that the procedure followed by the Appellant in its reports or financial statements was in accordance with applicable accounting principles.
+[97] At the end of the day, the shares were issued as a result of discretion in respect of past uncompensated services and not as a result of a release of any accrued liability to the participants. The Appellant did not at any time show in its accounting records any liability owing to the recipients of the PSOP bonus.
+[98] The Court is satisfied that neither Placer Dome nor Lowry are a hindrance to the Appellant being successful on this issue.
+[99] The Court is satisfied that Alcatel Canada Inc. v. The Queen, 2005 DTC 387, rejected Lowry and in any event is distinguishable on the basis that the participants here gave consideration equal to the full value of the shares on the basis of past unremunerated services rendered to the Appellant.
+[100] The Court accepts the argument of counsel for the Appellant that the evidence here indicates that the Appellant satisfied the requirements of the Canada Business Corporations Act[12] that services be rendered by the persons to whom shares are issued and that the services must have a value at least equal to the value of the shares that were issued in consideration of those services.[13] Teleglobe Canada Inc. is applicable here as well as the case of Lockhart v. The Queen, 2008 DTC 3044.
+[101] In the end result, the Court is satisfied that in the absence of evidence to the contrary, of which none exists here, the amount claimed by the Appellant as the consideration for the issuance of the shares, which was added to the Appellant’s stated capital amount with regard to that issuance, is accepted as both the value of that consideration and the amount of the expenditure made by the Appellant on issuance of the shares.
+[102] On the double taxation issue, one would conclude that on the basis of fairness, double taxation should be avoided although there is no provision in the Act relative thereto and it is not germane to the issue here.
+[103] The appeal is allowed, with costs, and the matter is remitted to the Minister of National Revenue for reassessment and reconsideration based upon these findings.
+Signed at Toronto, Ontario, this 4th day of April 2012.
+“T.E. Margeson”
+Margeson J.
+CITATION: 2012 TCC 86
+COURT FILE NO.: 2010-832(IT)G
+STYLE OF CAUSE: TRANSALTA CORPORATION and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Calgary, Alberta
+DATE OF HEARING: November 28, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice T.E. Margeson
+DATE OF AMENDED
+JUDGMENT: April 4, 2012
+APPEARANCES:
+Counsel for the Appellant:
+Robert D. McCue and
+Todd J. Marr
+Counsel for the Respondent:
+Bonnie F. Moon and Mary Softley
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Robert D. McCue
+Firm: Bennett Jones LLP
+Calgary, Alberta
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Reply, paragraph 13(e).
+[2] Reply, paragraph 13(e).
+[3] Pharmascience v. Binet, [2006] S.C.R. 513 at p. 30.
+[4] Stubart Investments Ltd. v. The Queen [1984] 1 S.C.R. 536 at para. 61.
+[5] Concise Oxford English Dictionary, 9th ed., s.v. “agree” and “agreement”.
+[6] Ibid, s.v. “agreements”.
+[7] Mansfield v. R., [1983] C.T.C. 97 at para. 7, aff’d 84 DTC 6535 (F.C.A.).
+[8] Joint Book of Documents, Tab 6.
+[9] Shell Canada Ltd v. The Queen, [1999] 3 S.C.R. 622 at para. 73.
+[10] Waddams, S.M., The Law of Contracts, 6th ed. (Aurora, Ont.: Canada Law Book Inc., 2010) at pp. 67 to 72.
+[11] House of Commons Debates, 21st Parl., 7th Sess., Vol. IV, 1952-53 (April 10, 1953) at 3720 (Abbott).
+[12] Agreed Statement of Facts at para. 7.
+[13] Agreed Statement of Facts at para. 24.

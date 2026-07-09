@@ -1,0 +1,157 @@
+Title: Diamond D. Construction c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/109432/index.do
+Corpus path: corpus/cases/tcc/2015/2015-cci-110-109432-diamond-d-construction-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2015-05-14
+
+# Diamond D. Construction c. M.R.N.
+
+- Citation: 2015 CCI 110
+- Decision date: 2015-05-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2809, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Diamond D. Construction c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-05-14
+Référence neutre
+2015 CCI 110
+Numéro de dossier
+2014 3359(EI), 2014-3360(CPP)
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2014‑3360(CPP)
+2014‑3359(EI)
+ENTRE :
+DIAMOND D CONSTRUCTION LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[traduction française officielle]
+Appels entendus le 9 avril 2015, à Edmonton (Alberta)
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Représentant de l’appelante :
+M. Michael Manko
+Avocat de l’intimé :
+Me Jeff Watson
+JUGEMENT
+Les appels interjetés en vertu du paragraphe 103(1) de la Loi sur l’assurance‑emploi et de l’article 28 de la Régime de pensions du Canada sont rejetés.
+Signé à Ottawa, Canada, ce 5e jour de mai 2015.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 29e jour de juin 2015.
+M.-C. Gervais
+Référence : 2015 CCI 110
+Date : 20150514
+Dossier : 2014‑3360(CPP)
+2014‑3359(EI)
+ENTRE :
+DIAMOND D CONSTRUCTION LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[traduction française officielle]
+MOTIFS DU JUGEMENT MODIFIÉS
+Le juge C. Miller
+[1] En 2011 et en 2012, l’appelante, Diamond D Construction Ltd. (« Diamond »), exploitait une entreprise montage de charpente de maisons. Elle a été constituée en société en 2006. M. Parrish Danwich en était seul propriétaire. En février 2010, M. Danwich a embauché un ami, M. Joey Mercia, pour qu’il travaille pour Diamond. Celui‑ci a travaillé par intermittence pour Diamond tout au long de 2011 et de 2012. M. Danwich allègue que M. Mercia était entrepreneur indépendant pendant ce travail en 2011 et en 2012. M. Mercia soutient qu’il était un employé. Dans une lettre datée du 20 juin 2013, le gouvernement a avisé Diamond et M. Mercia que ce dernier était un employé pour l’application du Régime de pensions du Canada (le « RPC ») et de la Loi sur l’assurance-emploi (la « LAE »). Diamond a interjeté appel auprès du ministre du Revenu national (le « ministre »). Le ministre a confirmé la décision dans une lettre datée du 20 juin 2014 (la « décision »).
+[2] Une fois de plus, je suis saisi d’une affaire du type relation d’employé/relation d’entrepreneur indépendant où la crédibilité est l’infortuné enjeu. Je commencerai par présenter les faits qui paraissent concorder dans les témoignages respectifs de M. Danwich et de M. Mercia ou, du moins, les éléments de preuve non contredits par l’autre partie.
+[3] En 2009, M. Danwich et M. Mercia étaient des employés de Vandalay Construction (« Vandalay »), une entreprise de construction d’hôtels et de restaurants. M. Petrisor, ex‑contremaître de Vandalay, a témoigné qu’il avait embauché M. Mercia, alors un de ses voisins, comme aide-menuisier, ce qui avait quelque peu à voir avec le montage de charpente. M. Danwich était lui-même monteur de charpentes. M. Petrisor a confirmé que, en tant qu’employés, M. Danwich et M. Mercia devaient avoir travaillé de 8 h à 16 h 30, du lundi au vendredi, et avoir été payés par l’entreprise à la quinzaine, le vendredi. Leurs talons de chèque devaient faire état des retenues à la source habituelles.
+[4] En 2010, Diamond a pris ses propres travaux de charpente. Elle a retenu les services de M. Mercia au moyen d’une entente verbale entre M. Danwich et M. Mercia. Ce dernier a travaillé par intermittence pour Diamond au cours des années 2010, 2011, 2012 et 2013. En 2011 et en 2012, les années en cause, il a travaillé pour Diamond surtout pendant l’été. Il était monteur de charpentes et il s’occupait surtout de poser les planchers et d’élever les murs. Il lui arrivait souvent de manquer des jours de travail. Il continuait aussi à travailler pour Vandalay, mais pendant l’hiver.
+[5] M. Danwich consignait les heures de M. Mercia dans un agenda. Il aurait fait payer celui‑ci par Diamond quand l’entreprise était elle-même payée par le client. M. Mercia a commencé à travailler en 2010 à 15 $ l’heure et, en 2012, il gagnait 21 $ l’heure chez Diamond. Rien n’était retenu sur la paie. En 2011 ou en 2012, M. Mercia n’avait pas de numéro de taxe sur les produits et services (la « TPS ») et, ces années‑là, la TPS n’a pas été perçue ni versée. Diamond s’occupait de faire les versements pour M. Mercia à la Commission des accidents de travail conformément aux exigences de celle‑ci.
+[6] Diamond a exécuté plusieurs travaux tant en 2011 qu’en 2012 pour des entrepreneurs de divers noms. M. Mercia fournissait certains outils (tablier, marteau, ceinture et corde), mais Diamond fournissait les principaux outils : scies, marteaux cloueurs, chariot élévateur téléscopique, scies alternatives.
+[7] Si M. Mercia commettait une erreur, il avait lui-même à la réparer.
+[8] Je parlerai maintenant des divergences entre les témoignages de M. Danwich et de M. Mercia
+1. M. Mercia prétend avoir commencé à travailler auprès de Diamond en n’ayant presque pas d’expérience comme monteur de charpentes et avoir dû apprendre sur le tas. Ainsi, il ne touchait que 15 $ au début. M. Danwich dit que M. Mercia et lui travaillaient ensemble auprès de Vandalay, tous les deux en montage de charpente. Selon M. Petrisor, bien que M. Mercia ait été embauché à Vandalay comme aide-menuisier, il a bel et bien fait un peu de montage de charpente à ce titre. Je considère que le témoignage indépendant de M. Petrisor est probablement le plus respectueux des faits et je conclus que M. Mercia a fait un peu de montage de charpente pour Vandalay avant de travailler pour Diamond, mais pas au point de devenir un monteur de charpentes expérimenté.
+2. M. Danwich allègue que M. Mercia savait qu’il avait été embauché comme entrepreneur indépendant, car il avait discuté avec M. Mercia de ce que cela voulait dire lors de son embauche. M. Mercia dit n’avoir jamais pleinement compris la distinction, se contentant de travailler et d’être payé et n’ayant jamais l’impression d’exploiter sa propre entreprise. Il n’a jamais posé de questions sur l’absence de retenues à la source, ni n’a demandé de feuillets T4 à Diamond, supposant que le tout serait pris en charge par Money Mart, où il encaissait ses chèques et où il se faisait aider pour ses déclarations de revenus. J’en conclus que M. Mercia était prêt à s’en tenir à ce que voulait M. Danwich sans poser de questions. Je suis d’avis qu’il savait au départ que son traitement n’était pas le même à Diamond et à Vandalay. Je conclus aussi qu’il ne se rendait peut‑être pas entièrement compte de ce à quoi il consentait. Il ne semble guère s’être soucié des détails.
+3. M. Danwich prétend que Diamond et M. Mercia s’entendaient par écrit d’un projet à l’autre, et couchaient sur papier l’entente verbale conclue avec un entrepreneur indépendant. Six de ces contrats ont été déposés en preuve à l’instance. Chacune de ces ententes se termine de la façon suivante :
+[traduction] « En foi de quoi les parties ont fait signer cette entente par leurs représentants dûment autorisés avec date d’effet à la date précitée. »
+J’ai eu beau scruter l’entente, je n’ai pas trouvé la [traduction] « date précitée ».
+Chaque entente est signée et datée par M. Danwich pour Diamond ainsi que par M. Mercia. La première est datée du 28 juin 2011, la deuxième du 20 septembre 2011, la troisième du 19 octobre 2011 (la date inscrite par M. Mercia donne l’impression d’être un 19 octobre 2010 avec un 2011 inséré par la suite à la place de cette mention), la quatrième du 14 novembre 2011 (la date de M. Danwich est le 14 novembre 2011 et celle de M. Mercia le 14 novembre 2010), la cinquième du 28 mai 2012 (la date de M. Mercia semble porter un 2012 inséré par la suite à la place de la mention initiale) et la sixième du 25 juin 2012.
+M. Mercia dit qu’on lui aurait présenté les six contrats en même temps en lui demandant d’insérer des dates différentes. Cela paraît des plus probables. À mon avis, M. Danwich avait tout mis en œuvre pour démontrer l’existence d’une entente conclue avec un entrepreneur indépendant. Dans ces circonstances, je n’accorde aucune importance à ces ententes, mis à part le fait qu’elles soulèvent un doute quant à la véracité des dires de M. Danwich.
+4. M. Danwich prétend que M. Mercia pouvait simplement aller et venir à son gré, ce qu’il faisait. Souvent, il ne se présentait pas au travail et il refusait aussi des tâches. Il n’existait aucune restriction pour ce qui est des jours de congé. Il n’y avait pas d’heures fixes. M. Danwich a présenté un relevé sommaire des heures travaillées par M. Mercia en 2012. On y voit des journées de travail allant de deux à onze heures et demie de travail, et il n’y a pas d’uniformité quant à la plage de 8 h à 16 h 30. Le début des heures de travail va de 6 h 30 à 13 h, mais la moyenne paraît se situer entre 8 et 9 h. M. Danwich n’a pas produit l’agenda d’où était tiré ce relevé sommaire.
+M. Mercia allègue que les heures étaient fixées par Diamond, y compris l’heure du dîner. Il ne s’absentait du travail que s’il était malade et il ne refusait jamais une tâche.
+Où se trouve donc la vérité? Tout bien considéré, je conclus que les heures de travail n’étaient pas aussi bien définies que le maintient M. Mercia. Les heures consignées par M. Danwich ressemblent à celles d’un horaire variable, mais j’en conclus aussi que c’était un horaire fixé par M. Danwich.
+M. Petrisor a bel et bien confirmé que M. Mercia n’était pas particulièrement fiable. Selon le relevé sommaire des heures de M. Danwich en 2012, M. Mercia a travaillé 35 jours du 28 mai et au 3 août. Selon M. Danwich, pendant une période de dix jours allant du 13 au 23 juillet, M. Mercia n’a travaillé que deux heures.
+M. Mercia n’a pas fait mention dans son témoignage de la cause d’un si grand nombre de jours de maladie. J’en conclus comme M. Petrisor qu’il n’était pas tout à fait fiable.
+5. M. Danwich prétend que M. Mercia a fourni un modèle pour les factures et qu’ils les auraient faites ensemble par la suite. Il a remis des copies de plusieurs factures datant de 2011 et de 2012. Elles ont été montrées à M. Mercia à l’audience, mais celui‑ci a nié les avoir jamais vues. Aucune TPS n’y figurait. M. Danwich a aussi présenté deux factures qui avaient davantage la forme des factures types employées en 2013. M. Mercia a reconnu ces factures. Chacune présentait une déduction pour location d’outils et une d’elles avait également une déduction pour correction d’une erreur.
+Là encore, j’y vois là une tentative par M. Danwich de justifier par des documents ce qui, selon lui, constituait une entente conclue avec un entrepreneur indépendant. Je ne crois pas que M. Mercia ait préparé et présenté des factures en 2011 et en 2012. Elles n’ont aucune valeur probante pour ce qui est de démontrer l’existence du fait que M. Mercia voulait conclure une entente en tant qu’entrepreneur indépendant.
+6. En ce qui a trait aux factures de 2013 faisant état d’une déduction de location d’outils sur le montant dû à M. Mercia, la position de celui‑ci est que, bien qu’une telle mention ait été faite sur la facture, la somme en question n’a en fait jamais été déduite de sa paie pour location d’outils. Quelle que soit la vérité, ce cas concerne l’année 2013, qui n’est pas une des années en cause. Il y a une facture de 2012 présentant une déduction pour location d’outils, mais, comme je l’ai déjà dit, je ne me fie nullement à ces factures.
+7. M. Danwich maintient que M. Mercia pouvait embaucher ses propres remplaçants et qu’il l’a fait en 2010, mais il a reconnu que, si M. Mercia ne se présentait pas au travail, c’était habituellement lui qui prenait simplement sa place. M. Mercia prétend qu’il ne pouvait pas recourir à des remplaçants et qu’il n’en a pas embauché.
+M. Danwich et M. Mercia conviennent dans une certaine mesure que, de fait, M. Mercia n’a pas embauché de remplaçants en 2011 et en 2012. Aurait‑il pu l’avoir fait? L’appelante a le fardeau de la preuve pour ce qui est de réfuter l’hypothèse avancée par l’intimé, selon laquelle M. Mercia ne pouvait pas embaucher de remplaçants en 2011 et en 2012. Je suis laissé dans l’incertitude. En d’autres termes, l’appelante a été incapable de me convaincre, selon la prépondérance des probabilités, que M. Mercia aurait pu embaucher des remplaçants.
+8. M. Danwich et M. Mercia conviennent que celui‑ci devait réparer toute erreur qu’il commettait. Cependant, leur opinion diffère quant à la question de savoir qui devait en supporter le coût. M. Danwich allègue que M. Mercia devait supporter le coût des erreurs à réparer.
+M. Mercia dit qu’on ne lui a jamais enlevé du temps pour des erreurs à réparer. Il est difficile d’établir avec exactitude ce qui s’est réellement passé. Je suis influencé par le fait que, bien que les factures (qui, selon moi, ont été préparées par M. Danwich) ne prouvent en rien que M. Mercia désirait être un entrepreneur indépendant, elles donnent à penser qu’il n’y a pas eu de déductions pour le temps passé à réparer des erreurs. Je conclus que, selon la prépondérance des probabilités, Diamond en assumait la responsabilité.
+M. Mercia a‑t‑il été un employé ou un entrepreneur indépendant de Diamond en 2011 et en 2012?
+[9] L’avocat de Diamond a fait valoir au départ que la décision prise par le gouvernement était fondée sur des faits de 2010 et que la cotisation est donc simplement fausse. Il a voulu déposer un rapport du gouvernement à cet égard. J’ai jugé la chose inutile, étant donné que j’avais entendu tous les faits pour les années 2011 et 2012 et que je n’avais pas l’intention de me fonder sur les circonstances de 2010 ni de laisser le rapport du gouvernement influer sur ma décision.
+[10] La jurisprudence établit des règles d’analyse de la question dont je suis saisi. Dans l’arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc.[1], la Cour suprême du Canada a précisé que le contrôle est toujours un facteur important. La Cour devrait aussi tenir compte des facteurs habituels que sont la propriété des instruments de travail, la possibilité de profit, le risque de perte ainsi que des autres facteurs pertinents. Ces dernières années, la Cour d’appel fédérale a encore étoffé cette démarche en exigeant qu’en premier lieu, on juge de l’intention commune des parties quant à la forme de leur relation de travail et qu'après cela, on analyse les facteurs habituels sous l’angle de cette intention.
+[11] Il est déjà difficile de caractériser la relation de travail au moyen de cette démarche en deux étapes lorsque les faits ont une certaine cohérence et sont expliqués suffisamment en détail pour être analysés, mais si, comme en l’espèce, on ne retrouve pas une telle cohérence, que la vérité est en demi-teintes, que les documents ne sont pas fiables et qu’il manque de détails dans l’ensemble, l’analyse devient mouvante, bien que gardant son utilité.
+[12] Diamond semble avoir eu l’impression au départ que, si elle choisissait d’appeler cette relation de travail une relation d’entrepreneur indépendant et elle n’effectuait pas de retenues à la source, cette relation en serait une entre un employeur et un entrepreneur indépendant. Je pense qu’elle a constaté par la suite que la détermination de la relation d’entrepreneur indépendant ne se résumait pas à cela et qu’elle a donc pris des mesures pour établir la relation au moyen de documents.
+[13] Je conclus que le travailleur, M. Mercia, ne s’est jamais véritablement attaché à la légalité de sa relation de travail. Il travaillait pour Diamond et était payé à l’heure, et c’était tout pour lui.
+[14] Soyons clairs, la LAE et le RPC ne sont pas d’une application volontaire. On ne peut choisir d’y participer ou de s’y soustraire. Les retenues à la source et la facturation de la TPS, pour prendre cet exemple, découlent de la nature véritable de la relation de travail plutôt que de déterminer directement cette relation. Au mieux, ils concernent le problème de l’intention. Même là, l’intention est une notion délicate, se rattachant à la question de savoir si une personne est un entrepreneur indépendant ou un employé, laquelle se pose toujours, que l’intention ait simplement été de ne pas faire de retenues à la source ou bien d’établir une relation d’entrepreneur indépendant. La réponse dépend étroitement des circonstances, mais risque grandement de donner lieu à de fausses interprétations.
+[15] Cette introduction étant faite, comment clarifier au mieux d’après la jurisprudence cet état très peu défini aux fins de la LAE et du RPC? En premier lieu, y avait‑il une intention commune d’établir une relation d’entrepreneur indépendant? Je conclus pour ma part que Diamond et M. Mercia avaient l’intention suivante à l’embauche de celui‑ci :
+- M. Mercia devait être payé à l’heure.
+- Il ne devait pas y avoir de retenues à la source.
+- M. Mercia devait être uniquement payé pour le temps qu’il passait effectivement à travailler.
+- M. Mercia devait être payé après que Diamond l’avait elle-même été pour un travail.
+[16] Chez M. Mercia, l’intention n’allait pas plus loin. M. Danwich a témoigné avoir expliqué à M. Mercia que, comme entrepreneur indépendant, il pouvait avoir ses propres heures et [traduction] « déduire des choses ». M. Mercia a déclaré n’avoir jamais pensé qu’il exploitait une entreprise de montage de charpente. Je ne suis pas convaincu qu’il comprenait pleinement l’importance de l’absence de retenues sur sa paie.
+[17] Vu la compréhension commune des quelques facteurs qui ont été énumérés et les divergences de vues quant à ce que cela voulait réellement dire par rapport à la distinction entre le fait d’être un employé et celui d’être un entrepreneur indépendant, j’estime que la preuve n’est pas suffisante pour établir l’existence d’une intention commune d’embaucher M. Mercia à titre d’entrepreneur indépendant. Cela nous amène à procéder à l’analyse classique reposant sur une appréciation objective des facteurs du contrôle, de la propriété des instruments de travail, de la possibilité de profit, du risque de perte et de tout autre facteur pertinent.
+[18] Je traiterai du facteur du contrôle en fin d’analyse et j’aborderai d’abord les autres facteurs.
+Propriété des instruments de travail [19] M. Mercia avait quelques outils d’importance secondaire, mais c’était l’appelante qui lui fournissait les principaux outils nécessaires à son travail. M. Danwich prétend avoir facturé la location d’outils à M. Mercia et a produit deux factures de 2012 en ce sens. M. Mercia n’avait jamais vu de telles factures, tout en reconnaissant l’existence de deux factures de 2013 qui faisaient état de déductions pour location d’outils. Il a cependant témoigné n’avoir jamais eu à payer de tels frais. Je suis parvenu à la conclusion que M. Danwich avait tenté de démontrer par des documents, en créant de telles factures (et, après coup, des contrats d’entrepreneur indépendant), qu’il existait une entente conclue avec un entrepreneur indépendant. Cela me fait douter de l’exactitude de cette documentation et, selon la prépondérance des probabilités, je ne suis pas prêt à accepter que ce soit le reflet de la réalité. Je conclus que l’appelante était propriétaire des principaux outils nécessaires au travail de M. Mercia et que c’est là un arrangement qui donne à penser que M. Merci était un employé.
+Possibilité de profit et risque de perte [20] Le seul risque de perte serait que M. Mercia ait à payer pour les erreurs à réparer. Là encore, les témoignages sont divergents. M. Mercia a reconnu avoir à réparer ses erreurs, mais n’avoir jamais eu pour autant de déduction sur sa paie. M. Danwich a produit une facture de 2013 faisant état d’une déduction pour correction d’une erreur. Comme je l’ai déjà mentionné, je doute de la véracité de ces factures. J’ajoute que cette facture en particulier se rattache à une année qui n’est pas en litige. Selon la prépondérance des probabilités, je ne suis pas convaincu que M. Mercia s’est vu imposer des déductions pour des erreurs à réparer. Il n’y avait donc aucun risque de perte.
+[21] Pour ce qui est de la possibilité de profit à titre de travailleur rémunéré à l’heure, M. Mercia aurait gagné davantage s’il avait travaillé davantage. Ce n’est pas ce qu’on entend normalement par possibilité de profit. Il n’a pas travaillé ailleurs au même moment. Il n’a pas proposé de tarifs d’un travail à l’autre. Il travaillait à l’heure et était payé à l’heure.
+[22] Ces facteurs donnent à penser qu’il y avait une relation d’employé.
+Contrôle [23] J’en viens au facteur du contrôle. Diamond souligne que M. Mercia pouvait aller et venir à son gré et que ce comportement montre clairement qu’il n’était pas un employé. Tout cela doit être mis dans le contexte de l’entente qui existait dans l’ensemble. M. Danwich avait retenu les services de M. Mercia, son ami à l’époque, dans ce qui était une entente très générale. M. Mercia avait été brièvement aide-menuisier, et je constate qu’il n’était pas un monteur de charpentes expérimenté, métier qu’il avait appris principalement en travaillant pour Diamond.
+[24] M. Danwich devait payer M. Mercia pour ses heures de présence au travail. Je constate que c’était Diamond qui fixait le taux de rémunération en commençant avec un tarif plus bas compte tenu de l’inexpérience de M. Mercia. Diamond déterminait également quand M. Mercia devait être payé. Celui‑ci n’était peut‑être pas le travailleur le plus assidu, par maladie, mécontentement ou manque d’intérêt pour le travail un jour ou un autre, mais cela ne paraissait pas importer aux yeux de l’appelante.
+[25] Les détails sont lacunaires au mieux quant au contrôle exercé par l’appelante sur M. Mercia lorsque celui‑ci était physiquement au travail. M. Mercia semble dire qu’il devait s’en tenir à l’horaire de l’appelante pour ce qui est des pauses café et de l’heure du dîner, par exemple.
+[26] Un employé n’a normalement pas le choix de se présenter au travail ou non, sauf s’il est malade ou s’il a un autre motif légitime de ne pas y être. On s’attend à ce qu’il se présente au travail. M. Danwich semble ne pas avoir eu une telle attente, mais s’être plutôt contenté de mettre son ami au travail si celui‑ci s’y présentait. Je conviens avec M. Mercia qu’il n’exploitait pas sa propre entreprise.
+[27] En dehors de cette question des heures de travail manquées, M. Mercia ne paraît pas avoir eu quelque contrôle que ce soit sur une entente de travail où l’appelante fixait les conditions, donnait de la formation en milieu de travail et demeurait responsable du travail qui se faisait. Je ne suis pas convaincu, selon la prépondérance des probabilités, que M. Mercia pouvait faire appel à des remplaçants; il devait exécuter le travail lui-même. Diamond n’a simplement pas établi, selon la prépondérance des probabilités, que le contrôle exercé était si ténu que M. Mercia était en réalité en affaires pour son propre compte. Il ne l’était pas.
+[28] Si j’examine le facteur du contrôle en fonction des conclusions que j’ai tirées pour les autres facteurs, je conclus que M. Mercia avait avec l’appelante une relation d’employé. Les appels sont rejetés.
+Les présents motifs du jugement modifiés remplacent les motifs du jugement datés du 5 mai 2015.
+Signé à Ottawa, Canada, ce 14e jour de mai 2015.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 29e jour de juin 2015.
+M.-C. Gervais
+RÉFÉRENCE :
+2015 CCI 110
+NO DU DOSSIER DE LA COUR :
+2014‑3360(CPP), 2014‑3359(EI)
+INTITULÉ :
+DIAMOND D CONSTRUCTION LTD. ET LE MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE :
+Edmonton (Alberta)
+DATE DE L’AUDIENCE :
+Le 9 avril 2015
+MOTIFS DU JUGEMENT MODIFIÉS :
+L’honorable juge Campbell J. Miller
+DATE DU JUGEMENT :
+Le 5 mai 2015
+COMPARUTIONS :
+Représentant de l’appelante:
+M. Michael Manko
+Avocat de l’intimé :
+Me Jeff Watson
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante:
+Nom :
+s.o.
+Cabinet :
+Pour l’intimé :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 2001 CSC 59.

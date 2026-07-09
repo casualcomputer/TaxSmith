@@ -1,0 +1,231 @@
+---
+title: "Estate of the Late Cely Lirette v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30117/index.do"
+last_modified: "2010-12-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 633"
+citation2: ""
+neutral_citation: "2010 TCC 633"
+decision_date: "2010-12-09"
+language: "en"
+item_id: "30117"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7628
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:46:28.120000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a3e6f602e9ca356e44091f3f02a1ea2f13881f22864786d9e2045e0af5a86b2f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Estate of the Late Cely Lirette v. The Queen
+
+- Citation: 2010 TCC 633
+- Decision date: 2010-12-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7628, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Estate of the Late Cely Lirette v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-12-09
+Neutral citation
+2010 TCC 633
+File numbers
+2008-522(IT)I, 2008-523(IT)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-522(IT)I
+BETWEEN:
+ESTATE OF THE LATE CELY LIRETTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motions heard together on common evidence with the motions of Lionel C. Lirette 2008-523(IT)I on October 18, 2010 at
+Edmonton ,
+Alberta
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Agent for the Appellant:
+Lionel C. Lirette
+Counsel for the Respondent:
+Robert Neilson
+____________________________________________________________________
+ORDER
+Upon consideration of a motion by the Appellants for an Order that:
+a) the Minister of National Revenue (the “Minister”) be found to be in contempt of this Court;
+b) the Minister be compelled to assess Lionel Lirette and the Estate of the Late Cely Lirette in accordance with the Judgment of Webb J. dated October 29, 2008; and,
+c) Lionel Lirette be awarded $149,905 in cash;
+And upon hearing the representations of counsel for the Respondent;
+And upon hearing the representations of Lionel C. Lirette for the Appellants;
+The motions are dismissed.
+Signed at
+Ottawa ,
+Canada
+, this 9th day of December 2010.
+“V.A. Miller”
+V.A. Miller J.
+Docket: 2008-523(IT)I
+BETWEEN:
+LIONEL C. LIRETTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motions heard together on common evidence with the motions of Estate of the Late Cely Lirette 2008-522(IT)I on October 18, 2010 at
+Edmonton
+,
+Alberta
+Before: The Honourable Justice Valerie Miller
+Appearances:
+For the Appellant:
+The Appellant Himself
+Counsel for the Respondent:
+Robert Neilson
+____________________________________________________________________
+ORDER
+Upon consideration of motions by the Appellants for an Order that:
+a) the Minister of National Revenue (the “Minister”) be found to be in contempt of this Court;
+b) the Minister be compelled to assess Lionel Lirette and the Estate of the Late Cely Lirette in accordance with the Judgment of Webb J. dated October 29, 2008; and,
+c) Lionel Lirette be awarded $149,905 in cash;
+And upon hearing the representations of counsel for the Respondent;
+And upon hearing the representations of the Appellant;
+The motions are dismissed.
+Signed at
+Ottawa ,
+Canada
+, this 9th day of December 2010.
+______“V.A. Miller”_______
+V.A. Miller J.
+Citation: 2010TCC633
+Date: 20101209
+Docket: 2008-522(IT)I
+BETWEEN:
+ESTATE OF THE LATE CELY LIRETTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2008-523(IT)I
+BETWEEN:
+LIONEL C. LIRETTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+V.A. Miller J.
+[1] The Appellants have brought these motions for an Order that:
+a) the Minister of National Revenue (the “Minister”) be found to be in contempt of this Court;
+b) the Minister be compelled to assess Lionel Lirette and the Estate of the Late Cely Lirette in accordance with the Judgment of Webb J. dated October 29, 2008; and,
+c) Lionel Lirette be awarded $149,905 in cash.
+[2] The grounds relied on by the Appellants were:
+a) Section 13 of the Tax Court of Canada Act which reads:
+13. Contempt against Court -- The Court has the power, jurisdiction and authority to deal with and impose punishment for contempt against the Court, whether or not committed in the face of the Court.
+b) Paragraphs 22(1)(b) and (c) of the Tax Court of Canada Rules (Informal Procedure) which read:
+22. (1) A person is guilty of contempt of court who
+(b) wilfully disobeys a process or order of the Court;
+(c) acts in such a way as to interfere with the orderly administration of justice or to impair the authority or dignity of the Court;
+c) Sections 2, 167 and paragraphs 172.4(1)(b) and (c) of the Tax Court of Canada Rules (General Procedure) which read:
+2. Definitions -- In these rules,
+"judgment" includes an order;
+167. Pronouncing and Entering of Judgments -- (1) The Court shall dispose of an appeal or an interlocutory or other application that determines in whole or in part any substantive right in dispute between or among the parties by issuing a judgment and shall dispose of any other interlocutory or other application by issuing an order.
+172.4 (1) A person is guilty of contempt of court who
+(b) wilfully disobeys a process or order of the Court;
+(c) acts in such a way as to interfere with the orderly administration of justice or to impair the authority or dignity of the Court;
+[3] In 2008, the Appellants filed notices of appeal with the Court in which they elected that the Informal Procedure would apply to their appeals. The appeals were heard and allowed, in part, by Webb J. under the Informal Procedure.
+[4] The issues before Webb J. in the appeal of the Estate of the Late Cely Lirette (“the Estate”) were the quantum of the allowable business loss (“ABIL”) that the Estate could claim in 1998 and the amount of capital loss that it could claim in 2005 with respect to the shares of Taylor Venture Ltd. (“the shares”). The Minister had allowed an ABIL of $117,878 in 1998 and no capital loss in 2005. The Judgment, dated October 29, 2008, (“the Judgment”) required the Minister to reassess the Estate on the basis that the amount of the business investment loss (“BIL”) in 1998 was $231,874 and its ABIL with respect to the shares was $173,905. The appeal with respect to the 2005 taxation year was dismissed.
+[5] With respect to the appeal of Lionel Lirette, the issue before Webb J. was the quantum of the BIL with respect to the shares in 1998. The appeal was allowed, in part, and the matter was referred back to the Minister for reassessment on the basis that Mr. Lirette’s BIL in 1998 was $29,619. The Minister had previously allowed a BIL of $17,120.
+[6] The Minister reassessed the Applicants as a result of the Judgment to increase the Estate’s ABIL for the 1998 taxation year by $24,000 and to increase Lionel Lirette’s ABIL for the 1998 taxation year by $5,190. The result is that the Estate has been allowed an ABIL of $141,878 and Lionel Lirette has been allowed an ABIL of $22,310.
+[7] It was the Appellants’ position that although it elected to use the Informal Procedure, it never intended to limit its appeal to a loss of $24,000 and in this regard, it did not make an informed election. On behalf of the Appellants, Mr. Lirette argued that since the Judgment made no mention of the $24,000 limitation, the Appellants are entitled to the full ABIL allowed by Webb J. He also submitted that the Minister should be found to be in contempt because he did not reassess the Estate in accordance with this court’s Judgment. In conclusion, Mr. Lirette argued that since Webb J. was aware of section 18.13 of the Tax Court of Canada Act and the amounts involved in the appeals, he did not have to formally order that the General Procedure apply. According to Mr. Lirette Section 9 of the Tax Court of Canada Rules (General Procedure) gave Webb J. the unlimited power to dispense with the rule that he had to formally order the General Procedure to apply.
+[8] The Appellants’ ground that the Minister is in contempt of this court is totally without merit. As stated by Bowie J. in Kumar v. R. [1] at paragraph 5:
+I should make it clear at the outset that this motion cannot succeed in respect of “the Minister of National Revenue". It is well settled that a Minister of the Crown cannot be committed for contempt because of acts or omissions of the officers of her department: see Bhatnager v. Canada, [1990] 2 S.C.R. 217.
+[9] As well, the Minister’s officers were not in contempt of the Court. They did reassess the Appellants in accordance with the Judgment and in accordance with the Tax Court of Canada Act (“the Act”).
+[10] Although the Judgment does not mention the $24,000 limitation, sections 18 and 18.1 of the Act limit the amount that is allowed in the Judgment in an Informal Appeal. The Judgment is deemed to include the statement that “the amount of the loss in issue is not increased by more than $24,000”. Those sections read:
+18. (1) The provisions of sections 18.1 to 18.28 apply in respect of appeals under the Income Tax Act where a taxpayer has so elected in the taxpayer’s notice of appeal or at such later time as may be provided in the rules of Court, and
+(a) the aggregate of all amounts in issue is equal to or less than $12,000; or
+(b) the amount of the loss that is determined under subsection 152(1.1) of that Act and that is in issue is equal to or less than $24,000.
+Other appeals — Income Tax Act
+(2) The provisions of sections 18.1 to 18.28 also apply in respect of an appeal, on a taxpayer’s election in the taxpayer’s notice of appeal or at any later time as may be provided in the rules of the Court, if the only subject-matter of the appeal is
+(a) an amount of interest assessed under the Income Tax Act; or
+(b) the validity of a suspension referred to in subsection 188.2(2) of that Act
+Limit
+18.1 Every judgment that allows an appeal referred to in subsection 18(1) shall be deemed to include a statement that the aggregate of all amounts in issue not be reduced by more than $12,000 or that the amount of the loss in issue not be increased by more than $24,000, as the case may be. (emphasis added)
+[11] The General Procedure cannot automatically apply where it is found that the amount of loss in an appeal is in excess of $24,000. There is a vast difference between the Informal Procedure and the General Procedure. This difference is reflected by, among other things, the costs of filing an appeal, the ability to conducta discovery in the General Procedure, the applicable rules of evidence at the hearing and the costs that can be allowed [2] . As well, section 9 of the Tax Court of Canada Rules (General Procedure) cannot override section 18.1 of the Act. In order for the General Procedure to apply to the Judgment issued by Webb J., he would have had to make that order specifically.
+[12] Mr. Lirette has made the argument that the Estate did not intend to limit the amount of loss to $24,000. However, he did know when the Estate elected the Informal Procedure that the loss was limited to $24,000. I have inferred this from the Notice of Motion where Mr. Lirette has stated that he expected the Judge to change the procedure to the General Procedure if he found that the ABIL exceeded $24,000 [3] .
+[13] The argument was also made that section 18.13 of the Act required Webb J. to order that the General Procedure apply to the appeal. Section 18.13 reads:
+18.13 Order at hearing -- Where, after the hearing of an appeal referred to in subsection 18(1) has started but before a judgment is rendered on the appeal, it appears to the Court that
+(a) the aggregate of all amounts in issue exceeds $12,000, or
+(b) the amount of loss in issue exceeds $24,000,
+as the case may be, the Court shall, on motion of either party or of its own motion, order that sections 17.1 to 17.8 apply with respect to the appeal unless the appellant elects to limit the appeal to $12,000 or $24,000, as the case may be, or unless the amount of the excess is too small to justify a rehearing in accordance with the general procedure, taking into account the inconvenience and expense that would result to the parties and the interests of justice and fairness.
+[14] There is no indication in the Reasons for Judgment as to whether or not the General Procedure was contemplated by the parties or Webb J. However, this court does not have the jurisdiction to grant a remedy to the Appellants based on this argument because to do so would be to change the Judgment issued by Webb J. In accordance with section 18.24 of the Act, any proceeding to change an order of this court must be heard by the Federal Court of Appeal. Section 18.24 of the Act reads:
+18.24 Final Judgment -- An appeal from a judgment of the Court in a proceeding in respect of which this section applies lies to the Federal Court of Appeal in accordance with section 27 of the Federal Courts Act.
+This was affirmed by the Federal Court of Appeal in Breslaw v. Canada [4] where it stated:
+30 The general principle is that a judge may not review the merits of a decision of a judge of coordinate jurisdiction. See Bubla v.
+Canada
+(Solicitor General), [1995] 2 F.C. 680 (Fed.
+C.A.
+) at para. 18. As a result, any proceeding to impeach or set aside an order of the Tax Court of Canada must be taken in the Federal Court of Appeal.
+[15] The motions are dismissed.
+Signed at
+Ottawa ,
+Canada
+, this 9th day of December 2010.
+“V.A. Miller”
+V.A. Miller J.
+CITATION: 2010TCC633
+COURT FILE NO.: 2008-522(IT)I
+STYLE OF CAUSE: ESTATE OF THE LATE CELY LIRETTE AND THE QUEEN
+COURT FILE NO.: 2008-523(IT)I
+STYLE OF CAUSE: LIONEL C. LIRETTE
+AND THE QUEEN
+PLACE OF HEARING:
+Edmonton ,
+Alberta
+DATE OF HEARING: October 18, 2010
+REASONS FOR ORDER BY: The Honourable Justice Valerie Miller
+DATE OF ORDER: December 9, 2010
+APPEARANCES:
+For the Appellants:
+Lionel C. Lirette
+Counsel for the Respondent:
+Robert Neilson
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of
+Canada
+Ottawa, Canada
+[1] 2004 TCC 521
+[2] Innovations & Integrations Brassicoles Inc. v. R., 2008 TCC 339 at paragraph 7; affirmed 2009 FCA 302
+[3] See Notice of Motion page 3 last paragraph
+[4] 2005 FCA 355 at paragraph 30

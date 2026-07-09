@@ -1,0 +1,327 @@
+---
+title: "Primeau Métal inc. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26770/index.do"
+last_modified: "2005-02-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 111"
+citation2: ""
+neutral_citation: "2005 CCI 111"
+decision_date: "2005-02-16"
+language: "fr"
+item_id: "26770"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3516
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:14:40.182000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "cfbee3bf4e71fb38c94333a1e8e82b71c1688d5de240677e0f7e77f3434d1cd0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Primeau Métal inc. c. M.R.N.
+
+- Citation: 2005 CCI 111
+- Decision date: 2005-02-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3516, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Primeau Métal inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-02-16
+Référence neutre
+2005 CCI 111
+Numéro de dossier
+2004-415(EI)
+Juges et Officiers taxateurs
+Sylvio J. Savoie
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2004-415(EI)
+ENTRE :
+PRIMEAU MÉTAL INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Robert Primeau (2004-425(EI)), Louise Primeau (2004-428(EI)) et Jean Primeau (2004-429(EI))
+le 14 décembre 2004 à Montréal (Québec)
+Devant : L'honorable S.J. Savoie, juge suppléant
+Comparutions :
+Représentant de l'appelante :
+Robert Primeau
+Avocate de l'intimé :
+Me Emmanuelle Faulkner
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le Ministre est confirmée selon les motifs du jugement ci-joints.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 16e jour de février 2005.
+« S.J. Savoie »
+Juge suppléant Savoie
+Référence : 2005CCI111
+Date : 20050216
+Dossier : 2004-415(EI)
+ENTRE :
+PRIMEAU MÉTAL INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+ET
+Dossier : 2004-425(EI)
+ROBERT PRIMEAU,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+ET
+Dossier : 2004-428(EI)
+LOUISE PRIMEAU,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+ET
+Dossier : 2004-429(EI)
+JEAN PRIMEAU,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge suppléant Savoie
+[1] Ces appels ont été entendus sur preuve à Montréal (Québec), le 14 décembre 2004.
+[2] Il s'agit de déterminer si les emplois exercés par Robert Primeau, Louise Primeau et Jean Primeau, les travailleurs, étaient assurables, au sens de la Loi sur l'assurance-emploi (la « Loi » ), du 1er janvier 2002 au 11 juillet 2003, lorsqu'au service de l'appelante.
+[3] Le 8 décembre 2003, le ministre du Revenu national (le « Ministre » ) a informé l'appelante de ses décisions selon lesquelles les travailleurs occupaient un emploi assurable auprès de l'appelante pour la période en litige.
+[4] Le Ministre a déterminé que les travailleurs exerçaient un emploi assurable auprès de l'appelante aux termes d'un contrat de louage de services, en s'appuyant sur les présomptions de fait suivantes :
+a) l'appelante a été constituée en société le 28 novembre 1962; (admis)
+b) l'appelante exploitait une entreprise de fabrication, de vente et d'installation de gouttières; (admis)
+c) l'appelante embauchait entre 20 et 25 employés dont 8 à l'administration et entre 12 et 15 pour le service et la fabrication; (admis)
+JEAN PRIMEAU
+d) le travailleur Jean Primeau était à l'emploi de l'appelante depuis 20 ans; (admis avec précisions)
+e) Jean Primeau était vendeur et directeur des installations; (nié)
+f) les tâches de Jean Primeau consistaient à vendre les produits, à embaucher et à superviser le personnel, à former les employés, à voir aux achats et à gérer les comptes à payer; (admis avec précisions)
+g) Jean Primeau travaillait habituellement entre 40 et 50 heures par semaine; (admis)
+h) Jean Primeau travaillait chez les clients et dans les locaux de l'appelante; (admis)
+i) l'appelante avait le pouvoir de contrôler le travail de Jean Primeau; (admis en partie)
+j) Jean Primeau était rémunéré selon un salaire de base de 6,00 $ de l'heure pour 40 heures par semaine et recevait en plus 23 % de commission sur les ventes nettes; (admis en partie)
+k) Jean Primeau était rémunéré par dépôt direct à chaque semaine; (admis)
+l) en cas d'absence, Jean Primeau devait avertir l'appelante;(admis en partie)
+m) Jean Primeau fournissait son automobile et ses dépenses étaient remboursées par l'appelante; (nié)
+n) tout le matériel et l'équipement dont se servait Jean Primeau appartenaient à l'appelante; (nié)
+o) Jean Primeau n'avait aucun risque financier à encourir dans l'exercice de ses fonctions; (nié)
+p) les tâches de Jean Primeau étaient intégrées aux activités de l'appelante; (admis)
+LOUISE PRIMEAU
+q) la travailleuse Louise Primeau était à l'emploi de l'appelante depuis 5 ans; (admis)
+r) Louise Primeau était aide comptable; (nié)
+s) les tâches de Louise Primeau consistaient au soutien technique du contrôleur interne de l'appelante, à s'occuper du recouvrement, à vérifier les comptes à payer et à préparer les chèques; (admis en partie)
+t) Louise Primeau travaillait habituellement entre 15 et 25 heures par semaine; (nié)
+u) Louise Primeau travaillait dans les locaux de l'appelante; (admis)
+v) Louise Primeau suivait les directives du contrôleur dans l'exécution de ses tâches; (nié)
+w) l'appelante avait le pouvoir de contrôler le travail de Louise Primeau; (admis)
+x) Louise Primeau était rémunérée selon un salaire de 10,00 $ de l'heure; (admis)
+y) Louise Primeau était rémunérée par dépôt direct à chaque semaine; (admis)
+z) Louise Primeau a reçu un boni de 1 000 $ durant la période en litige; (admis en partie)
+aa) en cas d'absence, Louise Primeau devait avertir l'appelante; (nié)
+bb) tout le matériel et l'équipement dont se servait Louise Primeau appartenaient à l'appelante; (admis)
+cc) Louise Primeau n'avait aucun risque financier à encourir dans l'exercice de ses fonctions; (nié)
+dd) les tâches de Louise Primeau étaient intégrées aux activités de l'appelante; (admis)
+ROBERT PRIMEAU
+ee) le travailleur Robert Primeau était à l'emploi de l'appelante depuis 20 ans;
+ff) Robert Primeau était vendeur et responsable de la machinerie et aviseur technique;
+gg) les tâches de Robert Primeau consistaient à vendre les produits, à superviser la fabrication, à gérer les employés du secteur machinerie, à voir à l'entretien et à la réparation de la machinerie; (admis en partie)
+hh) Robert Primeau travaillait habituellement 50 heures par semaine;(admis)
+ii) Robert Primeau travaillait chez les clients et dans les locaux de l'appelante;
+jj) l'appelante avait le pouvoir de contrôler le travail de Robert Primeau;
+kk) Robert Primeau était rémunéré selon un salaire de base de 6,00 $ de l'heure pour 40 heures par semaine et recevait en plus 23 % de commission sur les ventes nettes;
+ll) Robert Primeau était rémunéré par dépôt direct à chaque semaine;
+mm) en cas d'absence, Robert Primeau devait avertir l'appelante;
+nn) Robert Primeau fournissait son automobile et ses dépenses étaient remboursées par l'appelante;
+oo) tout le matériel et l'équipement dont se servait Robert Primeau appartenaient à l'appelante;
+pp) Robert Primeau n'avait aucun risque financier à encourir dans l'exercice de ses fonctions;
+qq) les tâches de Robert Primeau étaient intégrées aux activités de l'appelante;
+6. L'appelante et les travailleurs sont des personnes liées au sens de la Loi de l'impôt sur le revenu car :
+a) les actionnaires de l'appelante avec droit de vote étaient :
+Rolland Primeau
+99 % des droits de vote
+Louise Primeau
+1 % des droits de vote
+(admis)
+b) Rolland Primeau est le père de Jean, de Louise et de Robert Primeau; (admis)
+c) Rolland Primeau, Jean Primeau, Louise Primeau et Robert Primeau sont tous unis par les liens du sang; (admis)
+d) chacun des travailleurs est uni par les liens du sang avec Rolland Primeau qui contrôle l'appelante.
+7. Le ministre a déterminé aussi que l'appelante et les travailleurs étaient réputés ne pas avoir de lien de dépendance entre eux dans le cadre de ces emplois car il a été convaincu qu'il était raisonnable de conclure que l'appelante et les travailleurs auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance, compte tenu des circonstances suivantes :
+8. JEAN PRIMEAU
+a) le travailleur Jean Primeau a toujours été payé; (admis)
+b) les deux autres vendeurs non-liés, l'un travaillait depuis 5 ans pour l'appelante et l'autre depuis 2002, recevaient des commissions au taux de 18 %; (admis)
+c) la différence du taux de commission entre les vendeurs était justifiée par le plus grand nombre d'années d'expérience de Jean Primeau et le travail de formation et de gestion de Jean Primeau; (nié)
+d) le salaire de base de Jean Primeau était raisonnable compte tenu des tâches additionnelles en administration et en gestion; (nié)
+e) la rémunération versée à Jean Primeau était raisonnable compte tenu des tâches accomplies; (à parfaire)
+f) les heures de travail de Jean Primeau étaient régulières et non exagérées; (admis)
+g) Jean Primeau ne bénéficiait pas d'avantages de la part de l'appelante, autres que ceux accordés à tous les employés de l'appelante; (nié)
+h) les modalités de l'emploi de Jean Primeau étaient raisonnables;(admis)
+i) Jean Primeau travaillait sans arrêt de travail pour l'appelante depuis 20 ans; (admis-30 ans)
+j) le travail de Jean Primeau coïncidait avec les besoins de l'appelante; (admis)
+k) la durée de l'emploi du travailleur Jean Primeau était raisonnable; (admis)
+l) le travail de Jean Primeau était essentiel à la bonne marche de l'entreprise de l'appelante; (admis)
+m) le travail accompli par Jean Primeau était important pour l'entreprise de l'appelante; (admis)
+n) la nature et l'importance du travail de Jean Primeau étaient raisonnables; (admis)
+LOUISE PRIMEAU
+o) la travailleuse Louise Primeau a toujours été payée; (admis)
+p) la rémunération versée à Louise Primeau était raisonnable compte tenu des tâches accomplies; (admis)
+q) les heures de travail de Louise Primeau étaient régulières et non exagérées; (admis)
+r) Louise Primeau ne bénéficiait pas d'avantages de la part de l'appelante, autres que ceux accordés à tous les employés de l'appelante; (nié)
+s) les modalités de l'emploi de Louise Primeau étaient raisonnables; (admis)
+t) Louise Primeau travaillait sans arrêt de travail pour l'appelante depuis 5 ans; (admis)
+u) le travail de Louise Primeau coïncidait avec les besoins de l'appelante; (à parfaire)
+v) la durée de l'emploi de Louise Primeau était raisonnable; (admis)
+w) le travail de Louise Primeau était essentiel à la bonne marche de l'entreprise de l'appelante; (à parfaire)
+x) le travail accompli par Louise Primeau était important pour l'entreprise de l'appelante; (à parfaire)
+y) la nature et l'importance du travail de Louise Primeau étaient raisonnables; (admis)
+ROBERT PRIMEAU
+z) le travailleur Robert Primeau a toujours été payé;
+aa) les deux autres vendeurs non-liés, l'un travaillait depuis 5 ans pour l'appelante et l'autre depuis 2002, recevaient des commissions au taux de 18 %;
+bb) la différence du taux de commission entre les vendeurs était justifiée par le plus grand nombre d'années d'expérience de Robert Primeau et le travail de formation et de gestion de Robert Primeau;
+cc) le salaire de base de Robert Primeau était raisonnable compte tenu des tâches additionnelles en administration et en gestion;
+dd) la rémunération versée à Robert Primeau était raisonnable compte tenu des tâches accomplies;
+ee) les heures de travail de Robert Primeau étaient régulières et non exagérées;
+ff) Robert Primeau ne bénéficiait pas d'avantages de la part de l'appelante, autres que ceux accordés à tous les employés de l'appelante;
+gg) les modalités de l'emploi de Robert Primeau étaient raisonnables;
+hh) Robert Primeau travaillait sans arrêt de travail pour l'appelante depuis 20 ans;
+ii) le travail de Robert Primeau coïncidait avec les besoins de l'appelante;
+jj) la durée de l'emploi de Robert Primeau était raisonnable;
+kk) le travail de Robert Primeau était essentiel à la bonne marche de l'entreprise de l'appelante;
+ll) le travail accompli par Robert Primeau était important pour l'entreprise de l'appelante;
+mm) la nature et l'importance du travail de Robert Primeau étaient raisonnables.
+[5] Il faut noter qu'à l'audition, le représentant et porte-parole de tous les appelants, Robert Primeau, a fait valoir que, compte tenu des nombreuses similitudes dans les circonstances portant sur les emplois des travailleurs Jean et Robert Primeau, la réponse de l'un d'eux aux présomptions du Ministre à l'égard de son emploi est aussi applicable dans le cas de l'autre.
+[6] La preuve a révélé que Jean et Robert Primeau étaient à l'emploi de l'appelante depuis plus de 20 ans. Quant à Louise Primeau, elle y est depuis 5 ans.
+[7] Les appelants ont précisé qu'au-delà des tâches que le Ministre leur a reconnues, les travailleurs Jean Primeau et Robert Primeau participent tous deux à la prise de décisions de l'appelante alors qu'ils siègent au conseil d'administration de la société de l'appelante. Tous les deux sont directeurs de sociétés associées à l'appelante et prennent des décisions affectant les opérations de l'entreprise, souvent sans consulter. Le travailleur Jean Primeau, pour sa part, s'occupe de la publicité, tandis que Robert Primeau s'occupe des assurances, de la recherche et du développement et des problèmes qui surgissent au niveau des opérations.
+[8] La travailleuse Louise Primeau, pour sa part, est biochimiste de formation; elle est mère de famille et a été invitée par les appelants à s'associer à eux. On lui a offert une formation destinée à l'intégrer progressivement dans les opérations de l'entreprise et lui assurer une place à part entière au sein de celle-ci au même titre que ses frères, comme c'est le cas pour elle et ses frères dans la succession éventuelle de leur père qui détient toujours 99 pour cent des actions votantes de l'appelante.
+[9] Il a été établi que le contrôle, s'il existait, s'exerçait à trois, entre les travailleurs ou à quatre, avec le concours de l'actionnaire majoritaire M. Rolland Primeau. Les décisions d'importance pour l'entreprise se prenaient au conseil d'administration où tous siégeaient. Les travailleurs ont admis qu'ils recevaient un salaire de base. Ce salaire avait été fixé par eux et pouvait changer, s'ils en décidaient ainsi, en tenant compte de la liquidité de l'appelante, et des meilleurs intérêts de celle-ci, qu'ils ont tous à coeur. La travailleuse a reçu des bonis à l'occasion.
+[10] Les travailleurs pouvaient s'absenter sans prévenir et sans permission, dans le quotidien, mais pour les vacances, il va de soi qu'ils avertissaient les autres pour ne pas affecter les opérations et par simple courtoisie. Ils pouvaient tous entrer et sortir à leur guise et n'avaient aucune heure de rentrée et de sortie et aucun horaire établi. La travailleuse Louise Primeau prenait d'habitude les mardis en congé et, de façon générale, avait un horaire flexible et faisait ce qu'elle voulait.
+[11] Il a été démontré que les travailleurs Jean et Robert Primeau utilisaient leur automobile pour le compte de l'appelante. Par contre, ils en assumaient tous les frais.
+[12] La preuve a révélé que les travailleurs Jean et Robert Primeau faisaient beaucoup de travail chez eux, le soir, en utilisant leur ordinateur personnel et leur matériel pour faire la publicité de l'appelante.
+[13] Les travailleurs estiment que dans l'exercice de leurs fonctions, ils encourent le risque de perdre beaucoup si l'appelante devait subir des pertes, comme cela peut se produire dans toute entreprise. Ils décident leur salaire selon les moyens financiers de l'entreprise et celui-ci doit être ajusté, selon les succès et les échecs de l'appelante. Les travailleurs et la travailleuse sont les légataires de leur père qui, selon son testament et la fiducie qu'il a créée, leur cède ses actions dans la société qu'il a fondée.
+[14] Selon eux, contrairement aux travailleurs à salaire fixe, leur rémunération doit subir les fluctuations attribuables aux conditions commerciales qui affectent l'entreprise de l'appelante.
+[15] Les travailleurs ont mis en doute la conclusion du Ministre, exprimée au paragraphe 7 de sa Réponse à l'avis d'appel, ainsi que les circonstances sur lesquelles il s'est appuyé pour déterminer que des travailleurs non liés auraient conclu avec l'appelante des contrats de travail à peu près semblables à ceux des travailleurs, en l'espèce.
+[16] L'appelante a fait valoir qu'aucun vendeur à son emploi ne bénéficie de commission au taux supérieur à 18 pour cent. Selon elle, aucun travailleur non lié n'aurait droit à une commission de 23 pour cent. L'appelante a maintenu que les travailleurs Jean et Robert Primeau ont eu droit à des commissions à ce taux parce qu'ils sont membres de la famille qui exploite cette entreprise. Il a été précisé que si l'appelante devait subir une réduction de projets, il faudrait réduire le taux des commissions de ces deux travailleurs.
+[17] Il en est de même, selon l'appelante, pour le salaire de base de ceux-ci qui est ajustable, laissé ouvert, et sujet aux fluctuations des profits réalisés.
+[18] L'appelante a soutenu également que la travailleuse a bénéficié d'avantages auxquels les autres employés non liés n'ont pas eu droit.
+[19] Ainsi, contrairement aux autres, elle a un horaire flexible qu'elle détermine elle-même. L'appelante affirme qu'elle est toujours en formation et deviendra, avec ses frères, participante à part entière aux décisions de l'entreprise. Elle siège déjà au conseil d'administration. Au même titre que ses frères, elle est l'héritière du fondateur de l'appelante, son père, Rolland Primeau.
+[20] La preuve a révélé que les travailleurs ont été impliqués dans l'entreprise depuis leur jeune âge, surtout Robert et Jean Primeau. Ils ont été entraînés pour diriger l'entreprise et assurer la relève.
+[21] Le fondateur de l'entreprise a déclaré à l'audition qu'il n'est plus présent, au quotidien, comme autrefois. Il laisse ça à la relève, aux travailleurs, qui eux, dit-il, s'occupent de choses importantes et le tiennent au courant. M. Rolland Primeau a déclaré à l'audition qu'il n'est pas d'accord avec la décision du Ministre à l'effet que les travailleurs auraient bénéficié des mêmes avantages, s'ils n'étaient pas liés à lui et à l'entreprise: « Avec des étrangers » , dit-il, « J'aurais été inquiet; dans la même famille, on pense pareil. » Il a fait valoir que des étrangers ne seraient pas ses héritiers et il a ajouté qu'en l'absence de ses enfants dans l'entreprise, celle-ci aurait été vendue; le commerce n'existerait plus.
+[22] Il a été établi que les décisions majeures, comme le projet d'agrandissement, sont prises par la famille, c'est-à-dire Rolland Primeau, son épouse et les travailleurs. M. Rolland Primeau a déclaré que la participation des travailleurs aux grandes décisions comporte un risque pour ces derniers, parce que leur héritage est en jeu.
+[23] Rolland Primeau est à la préretraite. La preuve établit que les grandes décisions de l'appelante sont prises à cinq; c'est-à-dire par lui, son épouse et les travailleurs. Rolland Primeau ne s'est jamais départi de sa part majoritaire des actions.
+[24] Les travailleurs ont les coudées franches dans la gestion de l'entreprise. Leur père reçoit régulièrement les bilans de cette entreprise et il existe une consultation entre les travailleurs et leur père. Rolland Primeau affirme que les travailleurs se destinent à prendre la succession et la gestion entière de cette entreprise ainsi que la majorité des actions, mais il a été admis qu'advenant de sérieux problèmes financiers ou d'une mauvaise gestion, c'est Rolland Primeau qui devrait intervenir pour apporter le redressement et les correctifs nécessaires pour satisfaire les fournisseurs et les institutions bancaires.
+[25] Dans l'esprit de l'actionnaire majoritaire Rolland Primeau, il a laissé la gestion de l'entreprise aux travailleurs. Il n'est jamais intervenu pour imposer sa volonté contre leur gré. Toutefois, il admet que certaines circonstances pourraient et devraient l'amener à intervenir.
+[26] La détermination de ce litige repose sur l'interprétation, en l'espèce, du rôle de la personne ou des personnes qui détiennent le contrôle ou le pouvoir de l'entreprise. La décision du Ministre a été prise en fonction de ce critère. Ainsi, le Ministre a statué que Rolland Primeau a conservé le contrôle de facto de l'entreprise. En cette qualité, selon le Ministre, il peut intervenir en tout temps. Le fait qu'il n'ait jamais exercé ce pouvoir n'a aucune importance. L'important, c'est qu'il détient toujours ce pouvoir.
+[27] Le juge Tardif de cette Cour a eu à se prononcer sur un litige semblable dans l'arrêt Industries J.S.P. Inc. c. Canada (ministre du Revenu national - M.R.N.), [1999] A.C.I. no 423. Il exprimait ce qui suit :
+Lorsqu'une personne occupe un poste stratégique de cadre pour une entreprise, il est usuel et normal que la description de tâches soit très difficile à définir. En qualité d'associé ou de partie à la direction d'une entreprise, une personne peut difficilement espérer une description de tâches définie, précise et limitée.
+Le fait de contribuer et d'être associé à la gérance, à l'administration ou au développement d'une entreprise, et tout particulièrement lorsqu'il s'agit d'une petite entreprise, fait en sorte que la description de tâches est fortement empreinte d'éléments propres et caractéristiques de celles souvent assumées par les propriétaires d'entreprise eux-mêmes ou de personnes détenant plus de 40 p. 100 des actions votantes de la compagnie dans laquelle ils ont un emploi. En d'autres termes, à ce niveau de responsabilités, la composante rétribution doit s'apprécier avec prudence au niveau d'une comparaison avec des tiers; il existe souvent des avantages qui compensent pour le salaire moindre.
+En l'espèce, le travail exécuté par madame Perreault et messieurs Perreault était, à plusieurs égards, comparable à celui accompli par les propriétaires d'entreprise. Cette seule réalité n'est pas en soi suffisante ou déterminante pour exclure leur travail des emplois assurables, d'autant plus que la compagnie employeur n'a jamais renoncé à son pouvoir de contrôler leur travail.
+Il est possible et fréquent de voir des tiers qui se dévouent totalement à l'entreprise qui les emploie, particulièrement quand ils détiennent des fonctions de cadre. La motivation, le goût de développer l'entreprise, la fierté de contribuer à l'épanouissement, sont autant de raisons expliquant le zèle et l'ardeur de certaines personnes à leur travail. Il est fréquent de rencontrer des situations où des tiers s'investissent totalement dans les entreprises et où le calcul de la rémunération n'est pas essentiellement fonction des heures travaillées.
+Le dévouement et l'enthousiasme sont souvent reconnus et récompensés lors du succès de l'entreprise. Il est toujours très difficile de faire des comparaisons au niveau des avantages et désavantages reliés à un poste stratégique dans une entreprise. À cette difficulté s'ajoute l'intérêt additionnel généré par le fait de posséder des actions participantes. Les critères édictés par la jurisprudence deviennent très utiles pour identifier la nature du contrat de travail.
+En l'espèce, la preuve a démontré que la compagnie n'avait jamais renoncé à son pouvoir de contrôler le travail exécuté par les membres de la famille Perreault. D'autre part, il n'y avait aucun risque de perte ni chance de profit. Ils travaillaient avec l'équipement qui leur était fourni par la compagnie. Finalement, il s'agissait d'un travail totalement intégré aux activités de la compagnie.
+[28] En outre, une autre décision du juge Tardif, Roxboro Excavation Inc. c. Canada (ministre du Revenu national - M.R.N., [1999] A.C.I. no 32, ayant été portée en appel, a été confirmée par la Cour d'appel fédérale. Les paragraphes suivants sont particulièrement pertinents, en l'espèce :
+Le ministre du Revenu national (le « Ministre » ) soutient que les frères Théorêt exécutaient leur travail et assumaient leurs responsabilités respectives, pour le compte et bénéfice de la compagnie Roxboro, dans le cadre d'un contrat de louage de services. Pour soutenir le bien fondé de sa détermination, l'intimé se réfère aux divers critères édictés par la jurisprudence dont notamment dans les affaires Montreal v. Montreal Locomotive Works Ltd. et al., [1947] 1 D.L.R. 161, 169-170 et Wiebe Door Services Ltd. c. M.R.N., [1986] 3 C.F. 553.
+[...]
+La pierre angulaire de ce dossier est essentiellement de savoir s'il existait en 1996, un lien de subordination entre la compagnie qui payait la rémunération et les intervenants. En d'autres termes, la compagnie avait-elle le pouvoir de contrôler et d'intervenir sur le travail exécuté par les frères Théorêt?
+À cet égard, je crois important de rappeler que les tribunaux ont souvent répété qu'il n'était pas obligatoire ou nécessaire que le pouvoir de contrôler se soit manifesté dans les faits; en d'autres termes, un employeur qui n'exerce pas son droit de contrôle ne perd pas pour autant ce pouvoir tout à fait essentiel pour l'existence d'un contrat de louage de services.
+Le pouvoir de contrôle ou le droit d'intervention sur l'exécution d'un travail s'avère être la principale constituante du lien de subordination à l'origine d'un véritable contrat de louage de services.
+L'évaluation de la présence ou non d'un lien de subordination est un exercice difficile lorsque les personnes détenant l'autorité découlant de leur statut d'actionnaires et/ou d'administrateurs sont les mêmes personnes physiques qui, pour un travail donné, sont assujetties au pouvoir de contrôle ou à l'autorité. Exprimé différemment, il est pénible de faire une démarcation lorsqu'une personne est salariée et en partie patron en même temps.
+[...]
+La preuve a démontré que chacun des intervenants Théorêt disposait d'autorité et d'autonomie, ayant même carte blanche pour l'exécution du travail dont il avait la responsabilité. La preuve a aussi établi que les décisions se prenaient de façon informelle, dans la collégialité et le consensus.
+[...]
+En l'espèce, le fait que l'autorité ne semblait pas opposable aux frères Théorêt et le fait que les décisions ayant trait à la compagnie étaient prises dans le consensualisme et la collégialité n'enlevaient pas pour autant à la compagnie son autorité sur le travail exécuté par les intervenants. La preuve n'a pas démontré que la compagnie avait renoncé à son pouvoir d'intervention ou que ce droit avait été soit réduit, soit limité ou même annulé.
+[29] Rien dans la preuve n'indique que Rolland Primeau a fait quoi que ce soit pour céder à quiconque sa part majoritaire des actions, ni du contrôle qu'il possède dans l'entreprise, ni de son droit de vote attaché aux actions qu'il détient.
+[30] D'après l'analyse des faits présentés sous la Loi, en particulier sous les alinéas 5(1)a) et 5(2)i), et sous les critères contenus dans la jurisprudence, en particulier, dans les affaires Montreal c. Montreal Locomotive Works Ltd. et al. et Wiebe Door Services Ltd., précitées, cette Cour estime qu'il a été prouvé que les travailleurs occupaient un emploi assurable au sens de la Loi pendant la période en litige puisque, pendant cette période, l'appelante et les travailleurs étaient liés par un contrat de louage de services.
+[31] Les travailleurs sont les enfants de l'actionnaire majoritaire de l'entreprise, Rolland Primeau. Les travailleurs et l'appelante sont donc liés au sens de l'article 251 de la Loi de l'impôt sur le revenu. Conséquemment, leur emploi n'est pas un emploi assurable en vertu de l'alinéa 5(2)i) de la Loi. Cependant, la Loi a prévu à l'alinéa 5(3)b) que si l'employé et l'employeur sont liés entre eux, mais compte tenu de la rétribution versée, des modalités de l'emploi, ainsi que la durée, la nature et l'importance du travail accompli, il est raisonnable de conclure qu'ils auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance. Conséquemment, les parties sont réputées ne pas avoir de lien de dépendance entre elles. Donc, leur emploi ne fait pas partie des emplois qui ne sont pas assurables en vertu de l'alinéa 5(2)i) de la Loi.
+RÉTRIBUTION VERSÉE
+[32] La rétribution versée est raisonnable compte tenu de la nature et de la quantité du travail effectué par les travailleurs. La différence du taux de commission entre les travailleurs (23 pour cent) et les autres vendeurs non liés (18 pour cent) peut être justifiée par l'expérience des travailleurs dans l'entreprise.
+[33] Le salaire de base accordé aux travailleurs semble raisonnable compte tenu des tâches additionnelles en administration et en gestion effectuées par ces derniers.
+MODALITÉS D'EMPLOI
+[34] Les travailleurs ne bénéficient d'aucun avantage social de la part de l'entreprise, autre que ceux accordés aux autres employés non liés. Les travailleurs se doivent d'être disponibles pour accomplir toutes les tâches attendues par l'appelante.
+DURÉE DU TRAVAIL
+[35] Les travailleurs rendent des services à l'appelante depuis plusieurs années, surtout Robert Primeau et Jean Primeau c'est-à-dire au dessus de 20 ans, et ce, à temps plein et sans interruption. Pour ce qui concerne la travailleuse Louise Primeau, elle est à l'emploi de l'appelante depuis au-delà de cinq ans, à temps plein et sans interruption.
+NATURE ET IMPORTANCE DU TRAVAIL
+[36] Le travail de gestion, celui d'administrateur, celui de vendeur ou celui de comptable effectué par les travailleurs sont indispensables au bon fonctionnement de l'entreprise.
+[37] Le Ministre a donc conclu cet exercice en précisant que l'appelante et les travailleurs auraient conclu entre eux un tel contrat de travail s'ils n'avaient pas eu de lien de dépendance et que les emplois ne sont pas des emplois non assurables en vertu de l'alinéa 5(2)i) de la Loi.
+[38] La Cour d'appel fédérale dans l'arrêt Légaré c. Canada (ministre du Revenu national - M.R.N.), [1999] A.C.F. no 878, a défini le rôle de cette Cour lorsqu'elle est appelée à analyser le bien-fondé de la décision du Ministre. Le juge Marceau, parlant au nom de la Cour s'est adressé en ces termes :
+[...] La Cour n'est pas chargée de faire la détermination au même titre que le ministre et, en ce sens, elle ne saurait substituer purement et simplement son appréciation à celle du ministre : c'est ce qui relève du pouvoir dit discrétionnaire du ministre. Mais la Cour doit vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et après cette vérification, elle doit décider si la conclusion dont le ministre était « convaincu » paraît toujours raisonnable.
+[39] Après examen et analyse des faits, en l'espèce cette Cour est d'avis que la conclusion du Ministre paraît toujours raisonnable.
+[40] Il faut déterminer maintenant si les emplois en question répondent aux critères selon lesquels on décide s'ils sont en vertu d'un contrat de louage de services. Le paragraphe 5(1)a) de la Loi définit un emploi assurable comme :
+5.(1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) l'emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d'un contrat de louage de services ou d'apprentissage exprès ou tacite, écrit ou verbal, que l'employé reçoive sa rémunération de l'employeur ou d'une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[...]
+[41] La Cour fédérale du Canada dans l'arrêt Wiebe Door Services Ltd. c. M.R.N., précitée, a établi une série de critères pour déterminer si un contrat constitue un contrat de louage de services ou un contrat d'entreprise. Bien qu'il en existe d'autres, les quatre critères suivants sont les plus couramment utilisés :
+a) le degré, ou l'absence, de contrôle exercé par le prétendu employeur;
+b) la propriété des instruments de travail;
+c) les chances de bénéfice et les risques de perte;
+d) l'intégration des travaux effectués par les prétendus employés dans l'entreprise de l'employeur présumé.
+CONTRÔLE
+[42] Le peu de contrôle dans les opérations quotidiennes des travailleurs est justifié par la nature des fonctions et par la grande expérience des travailleurs dans leur travail. Par ailleurs, il a été démontré que l'actionnaire majoritaire de l'entreprise ne s'est jamais départi de son pouvoir de contrôle même s'il ne l'exerce que rarement. Comme l'a statué la Cour d'appel fédérale dans Gallant c. M.R.N. (C.A.F.), [1986] A.C.F. no 330 :
+[...] Quant au premier motif, il nous semble basé sur l'idée fausse qu'il ne peut y avoir de contrat de louage de services à moins que l'employeur n'exerce en fait un contrôle étroit sur la façon dont l'employé exécute son travail. Ce qui est la marque du louage de services, ce n'est pas le contrôle que l'employeur exerce effectivement sur son employé, c'est plutôt le pouvoir que possède l'employeur de contrôler la façon dont l'employé exécute ses fonctions. [...]
+PROPRIÉTÉ DES OUTILS
+[43] Tous les outils utilisés par les travailleurs dans le cadre de leurs fonctions étaient la propriété de l'appelante, sauf leur ordinateur personnel. Les travailleurs fournissaient leur voiture personnelle à leurs frais, mais ils participaient aux profits de l'entreprise.
+RISQUE DE PERTES FINANCIÈRES/POSSIBILITÉ DE GAINS FINANCIERS
+[44] Les travailleurs n'encouraient aucun risque de pertes financières ou n'avaient aucune possibilité de gains financiers puisqu'ils étaient rémunérés à salaire fixe sur une base régulière.
+INTÉGRATION
+[45] Les tâches effectuées par les travailleurs faisaient partie intégrante des activités de l'appelante. Ainsi, en se posant la question « à qui appartient l'entreprise » , nous sommes contraints de répondre qu'il s'agissait bel et bien de l'entreprise de l'appelante.
+[46] En conséquence, il existait un contrat de louage de services entre les travailleurs et l'appelante durant la période en litige.
+[47] Cette Cour doit donc conclure que les travailleurs occupaient un emploi assurable pendant la période en litige puisque ces emplois étaient exercés aux termes d'un contrat de louage de services, au sens de l'alinéa 5(1)a) de la Loi.
+[48] De plus, ces emplois étaient assurables puisqu'ils n'étaient pas visés par l'alinéa 5(2)i) de la Loi. En effet, l'appelante et les travailleurs sont réputés ne pas avoir de lien de dépendance entre eux dans le cadre de ces emplois, parce qu'il est raisonnable de conclure, compte tenu de toutes les circonstances, que l'appelante et les travailleurs auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+[49] En conséquence, ces appels sont rejetés et les décisions rendues par le Ministre sont confirmées.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 16e jour de février 2005.
+« S.J. Savoie »
+Juge suppléant Savoie
+RÉFÉRENCE :
+2005CCI111
+No DU DOSSIER DE LA COUR :
+2004-415(EI), 2004-425(EI), 2004-428(EI) et 2004-429(EI)
+INTITULÉ DE LA CAUSE :
+Primeau Métal Inc. et M.R.N., Robert Primeau et M.R.N., Louise Primeau et M.R.N. et Jean Primeau et M.R.N.
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+Le 14 décembre 2004
+MOTIFS DE JUGEMENT PAR :
+L'honorable S.J. Savoie,
+juge suppléant
+DATE DU JUGEMENT :
+Le 16 février 2005
+COMPARUTIONS :
+Pour les appelants :
+Robert Primeau
+Pour l'intimé :
+Me Emmanuelle Faulkner
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour les appelants :
+Nom :
+Étude :
+Pour l'intimé :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

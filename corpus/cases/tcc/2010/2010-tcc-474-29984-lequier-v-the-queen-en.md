@@ -1,0 +1,173 @@
+---
+title: "Lequier v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29984/index.do"
+last_modified: "2010-09-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 474"
+citation2: ""
+neutral_citation: "2010 TCC 474"
+decision_date: "2010-09-17"
+language: "en"
+item_id: "29984"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7106
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:00:48.979000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4ba6a766bb3d6cc8ab95e504da29ad66465e59fdbd6b99b1c19b0c7daeb4aa48"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lequier v. The Queen
+
+- Citation: 2010 TCC 474
+- Decision date: 2010-09-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7106, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lequier v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-09-17
+Neutral citation
+2010 TCC 474
+File numbers
+2008-389(GST)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Dockets: 2008-389(GST)I
+2008-945(IT)G
+BETWEEN:
+JUDI LEQUIER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 21, 2010 at Edmonton, Alberta
+By: The Honourable Justice Judith Woods
+Appearances:
+Counsel for the Appellant:
+Kevin D. Mah
+Counsel for the Respondent:
+Elena Sacluti
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to directors’ liability assessments made under the Income Tax Act and the Excise Tax Act by notice dated March 31, 2006 is dismissed. The respondent is entitled to costs in respect of the appeal under the Income Tax Act.
+Signed at Toronto, Ontario this 17th day of September 2010.
+“J. M. Woods”
+Woods J.
+Citation: 2010 TCC 474
+Date: 20100917
+Dockets: 2008-389(GST)I
+2008-945(IT)G
+BETWEEN:
+JUDI LEQUIER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] This appeal concerns directors’ liability assessments issued to Judi Lequier as a consequence of remittance failures by Mayland Instruments Ltd. (“Mayland”).
+[2] An assessment under section 227.1 of the Income Tax Act in the amount of $52,122.78 was issued as a result of Mayland’s failure to remit payroll source deductions during the 2000, 2001 and 2002 calendar years.
+[3] An additional assessment under section 323 of the Excise Tax Act in the amount of $32,531.09 was issued as a result of Mayland’s failure to remit GST “net tax” for the quarter which ended March 31, 2002.
+[4] The appellant’s husband received similar assessments, which he is not disputing.
+[5] The determinations to be made are: (1) Was the appellant a director of Mayland during the period at issue? and (2) Did the appellant exercise appropriate care to prevent the remittance failures?
+Background
+[6] Testimony at the hearing was provided by the appellant, her son, Rolland Lequier, and a collections officer with the Canada Revenue Agency (CRA), Chotu Rajwani.
+[7] Mayland was incorporated in 1989 to operate the equipment installation business that was managed by the appellant’s husband. Shortly after its incorporation, the appellant and her husband became its sole shareholders and directors.
+[8] The appellant was not active in the day-to-day affairs of Mayland. She was the manager of a government-owned liquour store until around 1994, when she incorporated a new company, Alberta Spirits and Suds Ltd. (“Spirits and Suds”), to operate its own liquour store. A second store was opened by Spirits and Suds in 2001.
+[9] Sometime in the mid-1990s, it was decided that Spirits and Suds and Mayland should “separate.” With the assistance of an accountant, Mayland undertook a reorganization in which the appellant disposed of her shares of Mayland. After the reorganization, the husband was the sole shareholder of Mayland and the appellant was the sole shareholder of Spirits and Suds.[1]
+[10] The appellant’s son was in law school at the time of the reorganization and he provided advice to his parents about the proposal. Although he did not speak to the accountant, he provided general advice to his parents that the reorganization was a good idea. He recalled that the purposes of the reorganization were to maximize the small business deduction under the Income Tax Act, and to protect Mayland in case Spirits and Suds was not a successful venture.
+[11] The appellant and her husband separated in 2001 and the husband is currently seeking a divorce. The break up was not amicable and the appellant has had very little contact with her husband since the separation.
+[12] Mayland ceased operations in 2002.
+Did the appellant cease to be a director?
+[13] The appellant submits that she was not a director of Mayland during the relevant period. She acknowledges that she did not sign a written resignation, but she submits that she believed that she was no longer a director of Mayland after the reorganization.
+[14] The respondent submits that the appellant did not cease to be a director because she did not submit a resignation in writing. Counsel referred to subsection 108(2) of the Business Corporations Act (Alberta), which provides:
+108(2) A resignation of a director becomes effective at the time a written resignation is sent to the corporation, or at the time specified in the resignation, whichever is later.
+[15] In this appeal, I do not need to decide whether a resignation needs to be in writing. I would note, though, that the respondent’s position has not always been accepted by this Court: Perricelli v. The Queen, [2002] GSTC 71 (TCC).
+[16] Even if an oral resignation is considered to be effective, however, the resignation must be communicated in some fashion to the corporation. I am not satisfied that there was such communication in this case.
+[17] The appellant testified that at some point she was informed by her son that she was no longer a director or shareholder of Mayland. That testimony by itself is not sufficient to establish that a resignation had been communicated to, or even discussed with, the appellant’s husband who was the other shareholder and director of Mayland.
+[18] Furthermore, I am not satisfied that the son advised the appellant that she was no longer a director of Mayland.
+[19] The son remembers discussing with his mother the general concept of the reorganization but he does not remember a specific discussion about her resigning as a director.
+[20] Also, there is no other evidence that suggests that the reorganization involved the appellant’s resignation as a director. Neither the husband nor the accountant who implemented the reorganization testified, and no corporate documentation was provided. The corporate annual returns continued to show the appellant as a director.
+[21] The appellant has not satisfactorily rebutted the Minister’s assumption that she was a director of Mayland at all material times.
+Was appropriate degree of care exercised?
+[22] The appellant also submits that she acted appropriately in the circumstances and that the due diligence defences in s. 227.1(3) of the Income Tax Act and s. 323(3) of the Excise Tax Act are applicable. The provisions are very similar, and therefore only the income tax provision is reproduced.
+227.1(3) A director is not liable for a failure under subsection (1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+[23] The general principles to be applied are summarized by Sharlow J.A. in Smith v. The Queen, 2001 FCA 84; 2001 DTC 5226:
+[9] The Soper decision, supra, established that the standard of care described in the statutory due diligence defence is substantially the same as the common law standard of care in Re City Equitable Fire Insurance Co., [1925] Ch. 407 (Eng. C.A.). It follows that what may reasonably be expected of a director for the purposes of subsection 227.1(1) of the Income Tax Act and subsection 323(1) of the Excise Tax Act depends upon the facts of the case, and has both an objective and a subjective aspect.
+[10] The subjective aspect of the standard of care applicable to a particular director will depend on the director’s personal attributes, including knowledge and experience. Generally, a person who is experienced in business and financial matters is likely to be held to a higher standard than a person with no business acumen or experience whose presence on the board of directors reflects nothing more, for example, than a family connection. However, the due diligence defence probably will not assist a director who is oblivious to the statutory obligations of directors, or who ignores a problem that was apparent to the director or should have been apparent to a reasonably prudent person in comparable circumstances (Hanson v. Canada (2000) 260 N.R. 79, [2000] 4 C.T.C. 215, 2000 DTC 6564 (F.C.A.)).
+[11] In assessing the objective reasonableness of the conduct of a director, the factors to be taken into account may include the size, nature and complexity of the business carried on by the corporation, and its customs and practices. The larger and more complex the business, the more reasonable it may be for directors to allocate responsibilities among themselves, or to leave certain matters to corporate staff and outside advisers, and to rely on them.
+[12] The inherent flexibility of the due diligence defence may result in a situation where a higher standard of care is imposed on some directors of a corporation than on others. For example, it may be appropriate to impose a higher standard on an “inside director” (for example, a director with a practice of hands-on management) than an “outside director” (such as a director who has only superficial knowledge of and involvement in the affairs of the corporation).
+[13] That is particularly so if it is established that the outside director reasonably relied on assurances from the inside directors that the corporation’s tax remittance obligations were being met. See, for example, Cadrin v. Canada (1998), 240 N.R. 354, [1999] 3 C.T.C. 366, 99 DTC 5079 (F.C.A.).
+[14] In certain circumstances, the fact that a corporation is in financial difficulty, and thus may be subject to a greater risk of default in tax remittances than other corporations, may be a factor that raises the standard of care. For example, a director who is aware of the corporation’s financial difficulty and who deliberately decides to finance the corporation’s operations with unremitted source deductions may be unable to rely on the due diligence defence (Ruffo v. Canada, 2000 DTC 6317 (F.C.A.)). In every case, however, it is important to bear in mind that the standard is reasonableness, not perfection.
+[24] In this case, the appellant was an experienced business person and she was aware that her husband had a history of ignoring remittance obligations. Even though the appellant was not actively involved in the day-to-day activities of Mayland, she had an obligation to take some action to prevent the remittance failures.
+[25] The appellant testified that on one occasion she did the payroll accounting and her husband put it in the garbage. She testified that she admonished her husband for this behaviour and that she then she stopped doing the payroll. Essentially, the appellant turned her back and ignored the problem. This is not sufficient to satisfy the due diligence defence.
+[26] According to the appellant’s testimony on discovery, there was nothing that she could do.
+Q. Just going back to Mayland Instruments, were you aware that the corporation was required to remit taxes to the government?
+A. Oh, of course.
+Q. Did you take any steps to ensure such taxes were remitted?
+A. No. I couldn’t sign a cheque. I mean, I’m not going to pay it myself.
+Q. To your knowledge, did anyone in the corporation take steps to ensure taxes were remitted?
+A. Only he, and he never paid taxes, so I would say no.
+[27] The problem that I have with the appellant’s submission that she was powerless concerning the remittances is that it does not take into account that the appellant, directly or through Spirits and Suds, owed Mayland a significant amount of money.
+[28] According to the Minister’s assumptions, when Mayland ceased operating in the spring of 2002, the appellant owed Mayland at least $320,000. This assumption has not been satisfactorily rebutted by the appellant.
+[29] Very few details about the financing are known. An accountant for the appellant wrote to the CRA and suggested that amounts were advanced from Mayland to Spirits and Suds for store renovations. No financial statements of Spirits and Suds were entered into evidence and the accountant did not testify. The appellant’s own testimony was too brief and vague to be of much assistance.
+[30] I have difficulty with the suggestion that, in circumstances where a corporation wholly-owned by the appellant owed a substantial amount of money to another company where the appellant was a director, that the appellant’s actions were appropriate in regards to the known tax remittance problems at the creditor company.
+[31] Counsel for the appellant suggests that the appellant could not be expected to take responsibility for directors’ obligations because she thought she was no longer a director.
+[32] The weakness with this submission is that it appears from the evidence that the appellant essentially ignored her role as a director of Mayland. At the very least, the appellant needed to act prudently to determine whether or not she was a director. There is no evidence that she did this.
+[33] This is sufficient to dispose of this appeal in favour of the respondent. However, I would also comment that the evidence did not provide a clear picture of the appellant’s involvement in Mayland. In order to succeed in this appeal, at the very least the appellant needed to provide a much more cogent and detailed description of her entire involvement with the corporation.
+[34] The appeals of both assessments will be dismissed.
+[35] The respondent seeks costs only with respect to the appeal under the Income Tax Act since the appeal under the Excise Tax Act is governed by the informal procedure. Such costs are appropriate.
+Signed at Toronto, Ontario this 17th day of September 2010.
+“J. M. Woods”
+Woods J.
+CITATION: 2010 TCC 474
+COURT FILE NOS.: 2008-389(GST)I
+2008-945(IT)G
+STYLE OF CAUSE: JUDI LEQUIER and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Edmonton, Alberta
+DATE OF HEARING: June 21, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice J. M. Woods
+DATE OF JUDGMENT: September 17, 2010
+APPEARANCES:
+Counsel for the Appellant:
+Kevin D. Mah
+Counsel for the Respondent:
+Elena Sacluti
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Kevin D. Mah
+Firm: Simons and Stephens
+Edmonton, Alberta
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The appellant had a business partner involved in the liquour stores for a period of time but this is not relevant to the appeal.

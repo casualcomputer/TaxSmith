@@ -1,0 +1,398 @@
+---
+title: "Boisvert v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/180336/index.do"
+last_modified: "2016-09-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 TCC 195"
+citation2: ""
+neutral_citation: "2016 TCC 195"
+decision_date: "2016-09-15"
+language: "en"
+item_id: "180336"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2885
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:41:56.731000+00:00"
+cases_cited_count: 16
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "377c0ec43c0c89d7cbb06072d97e4fb78819caab7657724a4388fe079b06f0b3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Boisvert v. The Queen
+
+- Citation: 2016 TCC 195
+- Decision date: 2016-09-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2885, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Boisvert v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-09-15
+Neutral citation
+2016 TCC 195
+File numbers
+2013-999(GST)G
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2013-999(GST)G
+BETWEEN:
+LUC BOISVERT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on August 27, 2014, and continued
+on December 14 and 15, 2015, at Montréal, Quebec.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the Appellant:
+Marc Laporte
+Counsel for the Respondent:
+Jean Duval
+JUDGMENT
+In accordance with the attached reasons for judgment, the appeal against the assessment issued under Part IX of the Excise Tax Act by the ministre du Revenu du Québec, as an agent of the Minister of National Revenue, (the Minister) for which the notice was dated February 29, 2012, for the period from April 1, 2007, to December 31, 2008, is allowed, and the assessment is referred back to the Minister for reconsideration and reassessment on the basis that the average gross revenue per harvest was $38,968 and that, as a result, the gross income of the business was $155,872 rather than $166,916.67 in 2008, and $233,908 rather than $250,375 in 2007, such that the GST not collected by the appellant is equal to $7,793.60 for 2008 and $12,234.48 for 2007.
+The penalties for failing to file a tax return are upheld but must be adjusted to address the changes to the amounts of uncollected GST.
+Signed at Ottawa, Canada, this 15th day of September 2016.
+"Réal Favreau"
+Favreau J.
+Citation: 2016 TCC 195
+Date: 20160915
+Docket: 2013-999(GST)G
+BETWEEN:
+LUC BOISVERT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] Luc Boisvert filed an appeal before this Court against the assessment dated February 29, 2012, issued by the ministre du Revenu du Québec as an agent of the Minister of National Revenue (the Minister) under Part IX of the Excise Tax Act, R.S.C., 1985, c. E-15, as amended) (the ETA) for the period from April 1, 2007, to December 31, 2008 (the relevant period).
+[2] Under the assessment dated February 29, 2012, the following amounts were assessed:
+2007
+2008
+Adjustments to calculation of the reported net tax
+$13,222.50
+$8,345.83
+Arrears interest
+$3,192.82
+$1,371.36
+Instalment interest
+$341.33
+Penalty for failure to file
+$528.89
+$333.82
+Total (amount due)
+$16,944.21
+$10,392.34
+[3] The adjustments made to the calculation of net tax reported ($13,222.50 and $8,345.83 respectively) constitute amounts of goods and services tax (GST) not collected or collectible on the appellant’s undeclared business income.
+[4] In establishing the assessment in question, the Minister based his conclusions on, among other things, the following conclusions and assumptions of fact, stated in paragraph 18 of the Reply to Notice of Appeal:
+a) the facts admitted above;
+b) For the period in question, the appellant was a "registrant" for the purposes of Part IX of the ETA;
+c) The appellant operated a commercial activity related to supplying taxable goods or services, drug supplies constituting taxable supplies;
+d) the appellant failed to report and to include his business income and thus he failed to include his undeclared taxable sales when calculating his net tax.
+e) as appears in greater detail in the reasons and the amounts indicated in the excerpt of the audit report, entitled "Appendix A," attached to this response as if the excerpt in question were cited in this paragraph, the tax audit of the appellant was conducted based on information obtained from police by the respondent to the effect that the appellant was involved in operating a cannabis grow operation in St‑Roch, Québec;
+f) specifically, the search conducted on August 13, 2008, and the police investigation revealed:
+i) the presence of a cannabis grow operation in the hangar of the appellant’s business, in which were found, according to the Sûreté du Québec, a minimum of 1,650 plants;
+ii) the existence of accounting documents related to the grow operation, discovered in the appellant’s residence and in the business’ office;
+iii) the seizure of an amount of $10,100 found with documents from the cannabis grow operation in a desk drawer in the business’ office;
+iv) the seizure of seven (7) improperly stored firearms from the appellant’s residence;
+v) the seizure of eighteen (18) vehicles, parts or motors from the appellant’s land that had been reported stolen or whose identification numbers had been altered;
+g) following the search in question, the appellant was arrested and charges, including production of marijuana for the purpose of trafficking, were brought against him;
+h) subsequently, the stated charges were withdrawn following an agreement with the Crown, by which, in consideration, the amount of $10,100 and the vehicles whose identification numbers had been modified were confiscated;
+i) based on the search photographs and the accounting for the grow operation, an expert report was produced by Sergeant Suzanne De Larochellière, of the Sûreté du Québec, establishing the income and assessments for the period in question, as follows:
+2008
+2007
+Total
+Gross business income
+$166,916.67
+$250,375.00
+$417,291.67
+(Small supplier)
+($0.00)
+($30,000.00)
+($30,000.00)
+Gross business income
+subject to GST
+$166,916.67
+$220,375.00
+$387,291.67
+GST not collected
+$8,345.83
+$13,222.50
+$21,568.33
+Penalty for failure to file
+$333.82
+$528.89
+$862.71
+j) the drug trafficking conducted by the appellant constituted a "business" within the meaning of the law and this "business" yielded taxable transactions;
+k) the amount of GST that the appellant was obliged to collect and remit to the Minister during the period in question was 6% in 2007, or an amount of $13,222.50, and 5% in 2008, or an amount of $8,345.83.
+l) consequently, the appellant did not declare the stated amounts of $13,222.50 and $8,345.83 as GST collected or collectible when calculating his net taxes for the period in question;
+m) the appellant therefore owes the Minister the amount of the adjustments made to his net tax reported for the period in question, plus the interest and the penalty.
+Appellant’s testimony [5] The appellant is the manager, CEO and majority shareholder of the company 9193‑2723 Québec Inc., operating under the business name "St‑Roch Sports," whose commercial activities involve buying and selling recreational vehicles, such as snowmobiles, four-wheelers, jet-skis and recreational boats. The company 9193‑2723 Québec Inc. was incorporated on February 26, 2008, under Part IA of the Quebec Companies Act.
+[6] The appellant’s salary is approximately $26,000 per year according to his testimony and his tax returns for the 2000 to 2009 taxation years.
+[7] As part of a police investigation that began in 2006, a search was conducted on August 13, 2008. The search targeted a hangar located at 275 route 125, St‑Roch Ouest. This hangar is located on the same land as the appellant’s residence, that is to say at 765 rang Rivière Nord, St‑Roch Ouest. The residence belongs to the appellant’s mother.
+[8] Within the hangar, a section was sub-divided. It was a room constructed using plywood. The search confirmed the presence of a cannabis grow operation in this room.
+[9] The appellant explained during his testimony that this portion of the hangar had been rented out since 2006. The lease agreement between St‑Roch Sports, as represented by the appellant who acted as its manager, and Viviane Carpentier, dated October 1, 2006, was entered into evidence. The lease was for a one-year term, beginning on October 1, 2006, and ending on September 30, 2007. According to the information set out in the lease, the rental agreement was for storage purposes only. The rent was $500 per month, payable by cheque. According to the appellant, the tenant had signed postdated cheques dated for the 15th of each month, which the appellant had filled out in front of her. The only cheque entered into evidence is dated July 15, 2008, and was made out to St‑Roch Sports & Plaisance. The cheque was endorsed for deposit into the account of the company 9065‑4344 Québec Inc., but was returned for non-payment and the company’s account was debited $505. The company 9065‑4344 Québec Inc. operated under the business name "St‑Roch Sports et Plaisance" and the appellant’s father was the manager, CEO, secretary and majority shareholder of this company. The appellant’s father died in November 2007. As of July 15, 2008, the company 9065‑4344 Québec Inc. was still in operation and had an active bank account. During his testimony, the appellant stated that this company belonged to him.
+[10] The appellant explained at the hearing that he had been introduced to Ms. Carpentier by a customer, whose name he no longer remembered. Ms. Carpentier had been unaccompanied at the two meetings she had had with the appellant. The only piece of identification that the appellant had requested when signing the lease was her driver’s licence. The appellant added that he had met with Ms. Carpentier a third time when selling her a used Chevrolet Malibu for $5,000 or $6,000, which she had paid in cash.
+[11] The hangar’s electrical bills were paid by the appellant but he argued that the system had been tampered with by the tenant.
+[12] According to the appellant’s testimony, the hangar had a sliding door in front, a door on the right and an entrance door on the left. The rented portion had its own door—the one on the left. The portion of the hangar that the appellant used for his business served as storage for parts and vehicles.
+[13] The appellant claimed that he made regular visits to the hangar with customers. He specified that he only had access to the hangar through the door on the right and that he did not have the key for the rented portion.
+[14] Sworn statements made by the appellant’s mother, Claire St‑Germain, and his former spouse, Louise Patenaude, were submitted into evidence and revealed that the appellant was the only one who had access to the hangar and used it.
+Testimony of Officer Frédéric Losier [15] Frédéric Losier, a police officer with the Sûreté du Québec, testified at the hearing and explained how the police investigation had gone. During the search, the police noted that the interior of the rented room had been cleaned and that almost none of the cannabis pots remained in their places, except for a few plants. The lights and the ventilation system were still functional.
+[16] Mr. Losier explained that the rented room in the hangar had been subdivided into four sections over two levels.
+[17] According to the photographs taken by Marc Lacombe, the Sûreté du Québec technician responsible for taking photographs during the search, and according to the investigation report, these subdivisions housed 58 1000W lights suspended from the ceiling, fans, two heat pumps, electrical ballasts, four water barrels, charcoal filters and dried cannabis plants. There were 29 cannabis plants on site, which were seized.
+[18] Mr. Losier also testified about the equipment used for the cannabis grow operation. In order to vent the hot air and the odour from the cannabis plants, heat pumps, air-conditioning equipment and compressors were installed in the room. Charcoal filters were used to purify the air and reduce odours.
+[19] A long black ventilation duct leading from the room in question allowed air to be vented outside. This duct was visible from the inside of the unrented portion of the hangar. A heat pump was also installed in the unrented portion of the hangar. The appellant explained that the dome was unheated prior to being rented and that he had authorized the installation of a heating system.
+[20] Officer Losier testified that a second warrant was obtained in order to seize two stolen vehicles that had been located in the hangar using their serial numbers. In this regard, the appellant stated that the stolen vehicles did not belong to him and that they had been stored at customers’ requests.
+[21] Two other warrants were obtained in order to search the appellant’s residence as well as the business located on the same land as the hangar. The respondent’s counsel filed a bundle of documents as evidence.
+[22] From the residence, seven improperly stored firearms were seized. The appellant held a possession licence and had registered five firearms. In addition, two keys to the left hangar door, which led directly to the cannabis grow operation, were seized from the residence, even though the appellant had claimed that he did not have keys to that door.
+Testimonies from other police officers [23] Christian Lévesque, detective sergeant with the Sûreté du Québec, and police officer Bruce Labrie, testified regarding the evidence seized during the search. In the bathroom of the residence, scraps of paper related to the cannabis grow operation were found in a wicker basket.
+[24] In the appellant’s business, the key to the padlock on the pedestrian door on the right side of the hangar was found in a set of keys hanging on the hangar bulletin board. In addition, various papers with notes related to the operating costs of the cannabis grow operation, along with $10,100 in cash found in one of the desk drawers, were seized from the main office. Other documents related to the cannabis grow operation were found near the office, for example in the garbage.
+Testimony from the Sûreté du Québec expert [25] Suzanne De Larochellière, a drug expert for the Sûreté du Québec, testified at the hearing regarding her expert report. Firstly, she listed the main steps in cannabis production. Then, she gave her analysis of the documents seized from the hangar and the appellant’s business regarding cannabis production. She noted that the growth period was four weeks long and that the flowering stage lasted eight weeks, for a total of 12 weeks. Given the division of the space into four rooms, one room was used for growing and the three other rooms were used for flowering.
+[26] The marks left by the pots on the floor indicate that quite a number of plants were grown there. Ms. De Larochellière counted 112 cannabis plants that were cultivated in one of the rooms.
+[27] After observing the photographs and the accounting documents submitted into evidence, the expert noted that a total of 1,650 cannabis plants had been acquired and cultivated. In addition, the documents regarding operating costs allowed her to pinpoint seven harvests. The documents were not dated, but Ms. De Larochellière noted that the costs were consistently divided in two throughout the documents, which implies that the harvest was shared. Furthermore, there were entries regarding the costs of acquiring cuttings (babies) and costs associated with cultivation.
+[28] Ms. De Larochellière prepared her expert report based on the prices indicated in the documents and not based on market prices.
+[29] According to the documents submitted into evidence, the harvests and production yields were as follows:
+Quantity (pounds)
+Price/pound
+Total price
+28 pounds
+$1,400
+$39,200
+33 pounds
+$1,575
+$51,975
+36 pounds
+$1,450
+$52,200
+22 pounds
+$1,450
+$31,900
+35 pounds
+$1,400
+$49,000
+18 pounds
+$1,450
+$26,100
+16 pounds
+$1,400
+$22,400
+Total: 188 pounds
+—
+$272,775
+[30] According to Ms. De Larochellière, it is not possible for the appellant to have been unaware of the presence of the cannabis grow operation, due to the odour and the equipment used.
+[31] According to Ms. De Larochellière, the cost of the materials used for production was approximately $50,000.
+Testimony from the Revenu Québec auditor [32] Marie‑Josée Caza, a research officer with the Agence du Revenu du Québec (ARQ), conducted the audit of this file and testified at the hearing on her audit report and regarding the notice of assessment.
+[33] Ms. Caza noted that the appellant had refused to answer questions during the audit. She therefore proceeded with an analysis of the appellant’s personal profile, which allowed her to discover that he owned very few assets in his own name. In fact, the three buildings located at 275 route 125 and at 765 rang Rivière Nord in St-Roch Ouest belonged to the appellant’s mother. The appellant owned a vehicle purchased in 2006 and three trailers. On May 27, 2008, the appellant purchased land that had belonged to his brother, located in the municipality of Petite-Rivière-Saint‑François in the Charlevoix region. The sale had been made for $9,346 in cash, even though the municipal assessment valued the property at $61,700.
+[34] Ms. Caza conducted the assessment based on the Sûreté du Québec’s investigation report and Ms. De Larochellière’s expert report. The assessment period is from January 1, 2007, to December 31, 2008. The 2007 taxation year is covered by the assessment following the positive result of the police investigation showing that cannabis production began in 2006. Mr. Losier in fact testified at the hearing that a thermal imaging test had been done by a Sûreté du Québec police officer. This test had indicated abnormal heat coming from the hangar.
+[35] In order to establish the number of harvests in 2007, production was determined based on a period of eight weeks. The calculation of income from the sale of marijuana was based on the Sûreté du Québec’s expert report. The cost to purchase cuttings ranged from $5 to $8 per unit. The average sale price for the amount of one pound was $1,450, whereas the average gross income per harvest was $41,729 and the net income was $15,748. Ms. Caza determined that six harvests had taken place in 2007 and four harvests had taken place in 2008, based on an eight-week flowering period. In 2007, the net profit was $94,489 and in 2008, it was $62,993.
+[36] The production costs were not taken into account given the lack of evidence and invoices, but the assessment factors in business expenses and the 50% share attributable to another person.
+Other relevant facts [37] The appellant argues that the papers with handwritten amounts of money on them related to drugs are not his and are not from his office. In terms of the money found in his office, the appellant explained that he uses cash in operating his recreational vehicle buying and selling business.
+[38] The appellant was arrested on the spot during the search on charges of cannabis production and possession of stolen vehicles. He had a sum of $1,182 on his person. Upon his arrest, the appellant claimed that the site was rented, but that he did not know the tenant’s name. Following an agreement, the charges were withdrawn.
+[39] The appellant stated that he had been unable to contact Ms. Carpentier, the signatory of the lease. The respondent summoned her by subpoena, but she failed to appear. The respondent’s counsel entered into evidence a statement written by Ms. Carpentier, in which she claims that she never rented a portion of the hangar and that she was not the one who signed the lease. The following is an excerpt from this statement:
+[translation]
+I never rented at 275 route 125 in St-Roch Ouest. It was not me who signed the lease and this is not my signature and I always sign with two "n"s. The cheque that the employees showed me, dated July 15, 2008, for the amount of $500, is one of a series of postdated cheques that I had made out for a car loan. When signing the cheques, I left the "pay to the order of" and "memo" portions blank. The lender had given me $5,000 in cash, which I had to repay with postdated cheques. I believe that the money was loaned to me in November or December 2007. I do not know the lender’s last name. At the exchange, he was big and husky, with dark hair. I have never had an import-export company and I have never rented hangar space to store anything.
+[40] For his part, the appellant maintains that he was not aware of the cannabis grow operation in the rented space. According to his testimony, the rented space was completely closed-off and the ceiling was insulated. Thus, it was not possible to see the lights at night.
+Issues in dispute [41] The main question is whether the appellant was operating a business selling drugs, which constitute taxable supplies for which GST was payable.
+[42] In the event that the appellant did make taxable supplies related to the sale of cannabis, was the Minister justified, in the circumstances, in using an alternative audit method?
+Parties’ positions Appellant’s position [43] The appellant maintains that the audit relies exclusively on the police investigation, which includes elements of hearsay that are inadmissible as evidence and that their admission would bring the administration of justice into disrepute.
+[44] In addition, the appellant argues that the Minister did not demonstrate the existence of a business operated by the appellant.
+[45] Alternatively, the appellant argues that the Minister’s assessments are erroneous given that they are based on undated documents consisting solely of estimates. In addition, there is no evidence to establish that cannabis was produced during the 2007 taxation year. Furthermore, the assessment does not take into consideration the value of the production materials and equipment, which is estimated at $50,000.
+[46] Regarding the calculation of income, the appellant contests the production period. According to him, it is inaccurate to calculate a production period of just eight weeks.
+[47] The appellant cites the Court of Quebec (CQ) case NDIBU v. Agence de revenu du Québec, 2015 QCCQ 1022, in which the taxpayer contested the validity of the results of an audit conducted using the arbitrary and approximative "cost of living" method. In that case, Justice Dortélus took into consideration that the main information available to the Revenu Québec auditor was from the police report. The court held that the taxpayer had submitted sufficient evidence to demolish, prima facie, the assumption of validity of the assessments. The appellant claims that there is no inconsistency with the facts in this case.
+Minister’s position [48] The Minister maintains that the appellant operated a business during the period at issue and that the supplies created by this business constituted taxable supplies for which GST was payable by the buyers and that the appellant had the duty to collect and remit said GST.
+[49] Due to the appellant’s incomplete accounting books and records, the Minister maintains that it was justified to use an indirect or alternative audit method in order to determine the amount of taxable supplies made by the appellant.
+[50] The Minister also maintains that it was justified to impose upon the appellant the interest and penalties set out in sections 280 and 280.1 of the ETA.
+[51] The Minister raises several inconsistencies with regard to the lease. Firstly, Ms. Carpentier failed to appear despite being subpoenaed. She nonetheless made and signed a written statement saying that she had never rented a portion of the hangar, nor signed any lease. Secondly, the appellant had argued, at the time of his arrest, that he did not know the tenant’s name. Furthermore, the lease was not submitted to the ARQ until May 17, 2011, after the assessment was issued. The Minister pointed out that the lease had been signed using two different inks and that there was an error in the tenant’s name.
+[52] The set-up of the cannabis production room, the odour, and its location right in the hangar constitute more than probative evidence that the appellant was aware of the cannabis grow operation’s existence.
+[53] The evidence, such as the cash, the key to the door of the rented portion of the hangar, as well as the seized documents regarding the cannabis grow operation, allow for the conclusion to be drawn that the appellant knew that cannabis was being produced in the hangar.
+[54] The Minister submits that the appellant’s statements are in no way corroborated.
+[55] Regarding the burden of proof, the Minister cites the decision in 9116-0762 Québec Inc. (Belle-Or) v. The Queen, 2010 TCC 116, at paragraph 9, which states that the taxpayer has the initial burden of demolishing the Minister’s assumptions.
+[56] Furthermore, the Minister refers this Court to Brown v. The Queen, 2012 TCC 251, 2013 FCA 111, in which the taxpayer was charged with, but never convicted of, drug trafficking. In Brown, Justice Hogan recalled at trial that the standard of proof is always that of the balance of probabilities and not of proof beyond a reasonable doubt. In addition, the judge added that "[i]t is well established in tax appeals that the onus is on the taxpayer to disprove an assessment issued within the normal assessment period." (paragraph 58).
+[57] In Brown, in appeal, the Federal Court of Appeal (FCA) confirmed that the documents sent by the police to the Canada Revenue Agency were admissible as evidence given that the search and seizures were legal.
+Applicable law Commercial activity [58] The general question is whether the appellant, during the period at issue, operated a business selling illegal drugs. The concept of a business is defined in section 123 of the ETA:
+"business" includes a profession, calling, trade, manufacture or undertaking of any kind whatever, whether the activity or undertaking is engaged in for profit, and any activity engaged in on a regular or continuous basis that involves the supply of property by way of lease, licence or similar arrangement, but does not include an office or employment.
+[59] A commercial activity is defined as follows in section 123 of the ETA:
+commercial activity of a person means
+(a) a business carried on by the person (other than a business carried on without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent to which the business involves the making of exempt supplies by the person,
+(b) an adventure or concern of the person in the nature of trade (other than an adventure or concern engaged in without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent to which the adventure or concern involves the making of exempt supplies by the person, and
+(c) the making of a supply (other than an exempt supply) by the person of real property of the person, including anything done by the person in the course of or in connection with the making of the supply.
+[60] It is well established in the case law that the illegal sale of drugs constitutes a commercial activity and that the resulting cannabis supplies are considered to be taxable supplies for GST purposes. (See in this regard John Molenaar v. The Queen, 2003 TCC 468, at paragraph 56.)
+[61] Furthermore, Justice Angers in Ouellette v. The Queen, 2009 TCC 443, stated the following:
+17 This Court has already ruled that income from growing marijuana is taxable income under the Income Tax Act and that marijuana supplies are "taxable supplies" for the purposes of the Act (see John Molenaar v. The Queen, 2003 TCC 468). It is therefore obvious that the same goes for selling all other types of drugs and illegal substances. . . .
+[62] Lastly, the Court of Quebec, in Robitaille v. Québec (Sous-ministre du Revenu), 2010 QCCQ 9283, conducted a case review and cited the Supreme Court of Canada case 65302 British Columbia Ltd. v. Canada, [1999] 3 SCR 804, in order to determine that a commercial activity, even when pursued for illegal purposes, is nonetheless subject to tax law. In addition, the Court of Quebec states that the obligation remains to collect tax on supplies resulting from this activity and to remit it to the tax authorities.
+Burden of proof [63] In a tax case, the burden of proof rests with the taxpayer and the initial onus is on the taxpayer to demolish the Minister’s assumptions using a prima facie case, and thus demonstrate that the assessment is erroneous. (See, in this regard, Hickman Motors Ltd. v. Canada, [1997] 2 S.C.R. 336.)
+[64] The assessments and reassessments issued by the Minister are presumed to be valid under subsection 299(3) of the ETA.
+[65] Justice Bédard, in Belle-Or, previously cited by the appellant’s counsel, summarized the burden of proof that rests with the appellant in the following way:
+9 Hickman Motors Ltd. v. Canada, [1997] 2 S.C.R. 336 is to the effect that the Minister uses assumptions to make assessments and the taxpayer has the initial burden of demolishing the Minister’s assumptions. This is met where the taxpayer makes out at least a prima facie case that demolishes the Minister’s assumptions. Then, after the taxpayer has met the initial burden, the onus shifts to the Minister to rebut the prima facie case made out by the taxpayer and to prove the assumptions. As a general rule, a prima facie case is defined as one with evidence that establishes a fact until the contrary is proved. . . .
+[66] In Amiante Spec Inc. v. Canada, 2009 FCA 139, the Federal Court of Appeal explained as follows what a prima facie case is:
+[23] A prima facie case is one “supported by evidence which raises such a degree of probability in its favour that it must be accepted if believed by the Court unless it is rebutted or the contrary is proved. It may be contrasted with conclusive evidence which excludes the possibility of the truth of any other conclusion than the one established by that evidence” (Stewart v. Canada, [2000] T.C.J. No. 53, paragraph 23).
+[67] When the burden of proof is reversed, the Minister must prove the facts in terms of the standard of the balance of probabilities.
+[68] The facts in this case are similar to those in the TCC’s decision in Molenaar, above, which was confirmed by the FCA. In summary, the taxpayer was arrested for growing cannabis after a search in a hangar near his home. A Sûreté du Québec investigator testified as to the high calibre of the marijuana grow operation facilities. Despite having admitted to his involvement in this operation, the taxpayer was acquitted for lack of evidence. Justice Boyle, from this Court, stated that this acquittal was in no way conclusive for the purposes of appeals against assessments issued under the Income Tax Act (ITA) and the ETA. In view of all of the evidence, the judge came to the conclusion that, based on the balance of probabilities, the taxpayer was involved in the marijuana grow operation and had thus earned business income.
+[69] In Lavie v. The Queen, 2006 TCC 655, the Minister had determined that the taxpayer was a person who had acquired cocaine from the Hells Angels Nomads, using a pseudonym. The Minister had established by assumption, based on the data collected during police investigations, that the appellant was operating a commercial activity selling cocaine. The appellant denied having sold cocaine during the period at issue and stated that he was not living at the residence that had been searched. Justice Lamarre, as she then was, held that the burden rested with the Minister:
+17 In the case at bar, the Minister determined, by means of presumptions, that the Appellant personally trafficked in cocaine. The Minister’s assessment is based on inferences drawn from police investigations. This is not a case involving the application of the self-reporting tax system. In view of this, it is my opinion that the Respondent cannot justify her assessment merely by presumptions which the taxpayer has little or no means to rebut. . . .
+[My emphasis.]
+[70] Next, Lamarre J. said she was satisfied with the prima facie case made by the appellant. Thereupon, the burden of proof was reversed and it fell to the Minister to prove the assumptions of fact. In conclusion, the judge reiterated that it was an arbitrary assessment based on inferences drawn from police investigations and the evidence was insufficient to establish that the appellant had sold illegal substances. In her reasons, Lamarre J. made the following observations:
+18 As I have said, the assessment in the instant case is an arbitrary assessment based on presumptions made in the wake of police investigations, and in my opinion, a reversal of the burden of proof is called for here. Since the Appellant denied trafficking in cocaine and denied being the "Bilav" referred to in the Hells Angels accounting documents whose contents are unknown to the Appellant, I am of the view that it is up to the Minister to show, on a balance of probabilities, that the assessment is well-founded. While all unlawful activity should understandably not be encouraged, but, rather, denounced, it would also be improper to arbitrarily attribute sales of illicit substances, without sufficient evidence, to an individual who is suspected of trafficking in narcotics but has not been charged with such an offence. The remarks made by Associate Chief Justice Bowman (as he then was) in Chomica v. Canada, [2003] T.C.J. No. 57 (QL), at paragraph 16 of his decision, appear relevant to the instant case:
+I start from the observation that in my view the whole business smells to high heaven. It was operated by unsavoury characters who, if they were lucky, managed to keep one jump ahead of the law and, if they were not, got caught. However just because I have or happen to dislike and distrust people who are involved in these schemes does not mean that I can totally ignore the rules of evidence and base my decision on visceral instincts and inadmissible evidence.
+[My emphasis.]
+[71] Despite the preceding, the FCA had previously stated in Orly Automobiles Inc. v. Canada, 2005 FCA 425, that "the burden of proof put on the taxpayer is not to be lightly, capriciously or casually shifted" (paragraph 20). The principle behind this statement is that the taxpayer knows and possesses information that the Minister does not.
+Circumstantial evidence [72] The recent decision rendered by the Quebec Court of Appeal (QCA) in Pinard v. R., 2015 QCCA 1715, is relevant in this case even though it is a criminal law judgment. Like the case at hand, it is a case that deals with circumstantial evidence.
+[73] At trial, the CQ found the accused guilty of trafficking cannabis. Subsequently, the QCA quashed the CQ’s ruling for the primary reason that the evidence was not convincing beyond a reasonable doubt that the only logical inference could be that the accused was guilty.
+[74] Effectively, the accused was the owner of the building that was searched, wherein a cannabis grow operation was found. That case differs from the one in question in that there was no evidence that the accused had occupied the space, and nothing indicated that he had set foot there before. In addition, no other evidence was submitted to prove that the accused was aware of the cannabis grow operation at this location. The police proceeded to arrest him since he was found in the primary suspect’s residence.
+[75] In its reasons, the QCA refers to the judgment rendered by the Supreme Court of Canada in R. v. Jackson, [2007] 3 SCR 514, in order to compare the facts between the two cases. In Jackson, the accused had been arrested on the very premises of the marijuana grow operation, and his participation was therefore assumed. The Court cites an excerpt from Justice Fish, wherein he found at paragraph 10 that "it was open to the trial judge to conclude, as he did, that the appellant’s presence at the scene of the crime was consistent only with his culpable involvement in the production of marijuana with which he was charged." Yet, the QCA maintains that the accused’s participation cannot be inferred based on the simple fact that he owns the building.
+[76] After analyzing the facts in Pinard, above, Justice Biche makes the following observations regarding inferences that can be made based on circumstantial evidence:
+37 As the Nova Scotia Court of Appeal observed in R. v. Murphy29, however, it cannot be ruled out that the control required for the offences of production or possession can be inferred from the accused’s occupancy of the premises where they were committed: "[t]he fact of tenancy or occupancy of premises does not create a presumption of possession of all that is found in those premises, but I accept that a trier of fact can infer possession from occupancy." But there is no evidence here of occupancy, which cannot be inferred from the mere fact that the appellant is the owner of 180. As in Murphy, there is no evidence showing that the appellant occupied 180 or 106, or even that he ever set foot in 180, and we cannot reasonably infer that because he is the titled owner of the property, that he actually occupied the premises. An inference of this kind would, moreover, be contrary to the daily reality of property owners, many of whom never occupy their property.
+38 Of course, it is possible not to occupy premises and still know and control what goes on there or be complicit therein. In the case at bar, however, we cannot draw this inference from the mere fact that the appellant is the owner of 180 and that he was arrested on a neighbouring property. At the most, we can infer from the appellant’s title to 180 that he knew of the existence of the plantation, but from this presumed knowledge we cannot infer, directly or by complicity, that he had control (whether for the purpose of production or possession for the purpose of trafficking), which cannot be the merely legal control exercised as owner of the property.
+[My emphasis.]
+[77] The QCA’s finding is that the circumstances combined do not demonstrate, beyond a reasonable doubt, that the accused is guilty. It was specified that the fact that the accused owned the building is not an item of evidence that in itself justifies his guilt.
+[78] Based on the preceding, a conclusion regarding an individual’s guilt can be reasonably drawn when there is sufficient evidence. This evidence must be considered on the whole.
+Alternative audit method [79] Subsection 286(1) of the ETA sets out the obligation of a business owner to keep books and records:
+286(1) Keeping books and records Every person who carries on a business or is engaged in a commercial activity in Canada, every person who is required under this Part to file a return and every person who makes an application for a rebate or refund shall keep records in English or in French in Canada, or at such other place and on such terms and conditions as the Minister may specify in writing, in such form and containing such information as will enable the determination of the person’s liabilities and obligations under this Part or the amount of any rebate or refund to which the person is entitled.
+[80] An alternative audit method can be used by the Minister in order to reconstitute a taxpayer’s income in certain circumstances.
+[81] In Desroches v. The Queen, 2013 TCC 81, and 9100-8649 Québec inc. v. The Queen, 2013 TCC 160, I stated that it is acknowledged by the case law that the Minister can resort to alternative audit methods in the event that the taxpayer does not file tax returns or does not keep reliable accounting books and records.
+[82] An alternative audit method can allow for the value to be determined of illegal substances produced and sold by the taxpayer. For this purpose, expert reports, testimonies from expert witnesses, partial agreements on the facts as well as the taxpayer’s confessions can be used.
+[83] An alternative audit method was used in the case of Reny v. The Queen, 2015 TCC 279, in which the appellant had pleaded guilty to charges of drug trafficking and possession for the purposes of trafficking. More specifically, the Minister used the "net worth" method. In that case, I decided that the use of such a method was justified, given the total lack of accounting records and given the existence of inexplicable discrepancies in the appellant’s assets.
+[84] Subsequently, the decision in 9100-8649 Québec inc. was cited by Justice D’Auray in the recent decision 9103-4348 Québec inc. v. The Queen, 2015 TCC 220, as well as by Justice Masse in Syed v. The Queen, 2014 TCC 307, in which it was recalled that it was necessary to use alternative methods in cases wherein the taxpayer does not have reliable accounting records.
+[85] D’Auray J. specified at paragraph 46 of her decision in 9103-4348 Québec inc. v. The Queen, above, that "[i]t does not suffice that books and accounting records exist and are consistent with one another; they must also be reliable."
+[86] These decisions reveal that the alternative audit method used to establish an assessment is justified if the taxpayer’s accounting books and records are not reliable. For example, this method is justified when the taxpayer conducts business only in cash and his or her cost of living cannot be determined through documentary evidence.
+Analysis [87] In view of the case law and the body of evidence, I am of the opinion that the appellant was operating a business based on the sale of illegal substances.
+[88] In my opinion, the appellant did not provide a prima facie case that the Minister’s assumptions of fact were erroneous. The appellant argued that the portion of the hangar where cannabis had been grown was rented to Ms. Carpentier and he submitted into evidence a signed lease agreement to that effect and denied any participation in or knowledge of the illegal activities that occurred there. However, a number of items that suggest the opposite were submitted into evidence.
+[89] Despite the existence of the lease, the appellant’s version is inconsistent with Ms. Carpentier’s written statement. Ms. Carpentier should have been summoned by the appellant to testify at the hearing. It is therefore impossible to verify Ms. Carpentier’s version of the facts.
+[90] In addition, the appellant’s statement that he did not have access to the rented portion of the hangar was contradicted by the discovery, within his residence, of keys to the rented portion of the hangar. In terms of the money and the documents found in his office, the appellant gave no credible explanation.
+[91] The appellant’s case does not constitute a prima facie case, given that it is contradicted. Consequently, the Minister’s assumptions were not demolished.
+[92] In my opinion, the facts in this case are quite different from those in the recent QCA case of Pinard v. R., cited above. The appellant was not the owner of the hangar but evidence revealed that he regularly used this building for storage purposes and often brought customers there. In addition, his business and the residence in which he lived were located near the cannabis production site. Several pieces of evidence found in the appellant’s residence and business allow him to be linked to the production of cannabis. These circumstances constitute more than probative evidence that the appellant was aware of the cannabis grow operation’s existence. It is therefore reasonable, in light of the evidence, to draw the conclusion that the appellant participated in these illegal activities.
+[93] As established in Molenaar, cited above, the fact that the criminal charges were withdrawn is in no way relevant in this case. Also, the Brown decision, cited by the respondent, recalled that the burden of proof is not the same as in criminal matters for which the standard is beyond a reasonable doubt.
+[94] In view of all of the evidence submitted, I am convinced that, based on the balance of probabilities, the Minister demonstrated the appellant’s knowledge of and participation in illegal cannabis grow operation activities.
+[95] The testimony of the Sûreté du Québec expert, Ms. De Larochellière, enlightened the Court as to common practices in the field of cannabis cultivation and allowed production yields to be determined. No evidence was submitted by the appellant to contradict Ms. De Larochellière’s expert report. I therefore accept her testimony, and the expert report appears quite relevant to me in establishing the income earned from production of the illegal substances in question.
+[96] I consider the alternative audit method to be justified in this case since there is no trace of business transactions, as everything was done in cash. In that regard, let us recall that the appellant had approximately $1,000 in cash on his person when he was arrested, and that an amount of $10,100 was found in a desk at his business. The documents related to cannabis production that were found in the appellant’s business and residence are the only records that could be found. The Minister was therefore justified in referring to them in order to establish the assessment at issue.
+[97] By contrast, I noted a discrepancy between the evidence submitted, that is to say the documents regarding cannabis production revenue, and Ms. Caza’s audit report. In order to establish an average of gross sales, Ms. Caza referred to the Sûreté du Québec expert report. In her calculations, she took into consideration only six of the seven harvests that are found in the evidence. Indeed, photograph #104 in Exhibit A‑2 was not considered by Ms. Caza.
+[98] Consequently, there is a discrepancy in the average price per pound of cannabis, which would be $1,446 rather than $1,454, and the average gross sales per harvest would be $38,968 and the average net profit per harvest would be $14,502:
+Quantity (pounds)
+Price/pound
+Gross sales
+Profit
+Photo 121
+28
+$1,400
+$39,200
+$14,436
+Photo 121
+33
+$1,575
+$51,975
+$20,925
+Photo 121
+36
+$1,450
+$52,200
+$20,530
+Photo 121
+22
+$1,450
+$31,900
+$11,150
+Photo 121
+35
+$1,400
+$49,000
+$18,725
+Photo 57
+18
+$1,450
+$26,100
+$8,723
+Photo 104
+16
+$1,400
+$22,400
+$7,025
+Average
+27
+$1,446
+$38,968
+$14,502
+Total
+188
+$10,125
+$272,775
+$101,514
+[99] The ARQ auditor, Ms. Caza, had determined that the average net profit per harvest was $15,748, and that, consequently, the net profit in 2007 was $94,489 and the net profit in 2008 was $62,993.
+[100] The document that the Minister failed to consider at the audit and assessment stages appears to me to be all the more relevant since it is an exhibit that figures in both the appellant’s and the respondent’s evidence. The auditor referred to it in her cross‑examination, but the parties did not request that corrections be made to the assessment, given that the appellant contested the entirety of the assessment in question. The calculation of the average gross sales per harvest (six in 2007 and four in 2008) has a direct impact on the amounts of net tax for the statement periods from April 1, 2007, to December 31, 2008.
+[101] Under section 309 of the ETA, this Court does not have the power to change the assessment; rather, it must refer the entire matter back to the Minister for reconsideration and reassessment:
+309 (1) The Tax Court may dispose of an appeal from an assessment by
+(a) dismissing it; or
+(b) allowing it and
+(i) vacating the assessment, or
+(ii) referring the assessment back to the Minister for reconsideration and reassessment.
+[102] The preceding provision differs from subsection 171(1) of the ITA, which stipulates the following:
+171 (1) The Tax Court of Canada may dispose of an appeal by
+(a) dismissing it; or
+(b) allowing it and
+(i) vacating the assessment,
+(ii) varying the assessment, or
+(iii) referring the assessment back to the Minister for reconsideration and reassessment.
+[103] Unlike in the case of an appeal from an assessment established under the ITA, there is no remedy that allows this Court to modify an assessment established under the ETA.
+Conclusion [104] Based on the evidence submitted before this Court, I am of the opinion that, based on the balance of probabilities, the appellant operated a commercial cannabis grow operation and that the sale of these substances constituted taxable supplies for the purposes of GST. The appellant has not submitted any uncontradicted evidence that would allow for the Minister’s assumptions of fact to be demolished.
+[105] For these reasons, the appeal of the assessment is allowed and the assessment is referred back to the Minister for reconsideration and reassessment on the basis that the average gross sales per harvest were $38,968 and that, as a result, the business’ gross income was $155,872 rather than $166,916.67 in 2008 and $233,908 rather than $250,375 in 2007, such that the GST not collected by the appellant is equal to $7,793.60 for 2008 and $12,234.48 for 2007.
+[106] The penalties for failing to file a return under section 280.1 of the ETA are justified in this case, given the appellant’s failure to declare the GST amounts from taxable supplies. The penalty amounts will need to be modified based on the new calculation of the net tax for the statement periods from April 1, 2007, to December 31, 2008, for the appellant.
+Signed at Ottawa, Canada, this 15th day of September 2016.
+"Réal Favreau"
+Favreau J.
+CITATION:
+2016 TCC 195
+COURT FILE NO.:
+2013-999(GST)G
+STYLE OF CAUSE:
+Luc Boisvert v. Her Majesty the Queen
+PLACE OF HEARING:
+Montréal, Quebec
+DATES OF HEARINGS:
+August 27, 2014, and December 14 and 15, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Réal Favreau
+DATE OF JUDGMENT:
+September 15, 2016
+APPEARANCES:
+Counsel for the Appellant:
+Marc Laporte
+Counsel for the Respondent:
+Jean Duval
+SOLICITORS OF RECORD:
+For the Appellant:
+Name:
+Marc Laporte
+Firm:
+Fréchette Avocats
+Joliette, Quebec
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

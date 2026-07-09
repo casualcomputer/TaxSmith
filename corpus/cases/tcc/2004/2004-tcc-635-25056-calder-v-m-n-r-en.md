@@ -1,0 +1,181 @@
+---
+title: "Calder v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25056/index.do"
+last_modified: "2004-09-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 635"
+citation2: ""
+neutral_citation: "2004 TCC 635"
+decision_date: "2004-09-27"
+language: "en"
+item_id: "25056"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2531
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:59:05.350000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b63b28896ca2efb20b34500722d4cfc3b97dba9091959aed3fa7828faec4c93a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Calder v. M.N.R.
+
+- Citation: 2004 TCC 635
+- Decision date: 2004-09-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2531, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Calder v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-09-27
+Neutral citation
+2004 TCC 635
+File numbers
+2003-4233(EI)
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2003-4233(EI)
+BETWEEN:
+JOHN MURRAY CALDER,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+G.H. DONALDSON ENTERPRISES,
+Intervenor.
+Appeal heard on August 27, 2004, at Montréal, Québec, by
+The Honourable Justice C.H. McArthur
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Antonia Paraherakis
+Agent for the Intervenor:
+Herb Donaldson
+JUDGMENT
+The appeal pursuant to subsection 103(1) of the Employment Insurance Act is dismissed and the decision of the Minister of National Revenue, on the appeal made to him under section 91 of that Act, is confirmed.
+Signed at Ottawa, Canada, this 27th day of September, 2004.
+"C.H. McArthur"
+McArthur J.
+Citation: 2004TCC635
+Date: 20040927
+Docket: 2003-4233(EI)
+BETWEEN:
+JOHN MURRAY CALDER,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+G.H. DONALDSON ENTERPRISES,
+Intervenor.
+REASONS FOR JUDGMENT
+McArthur, J.
+[1] The only issue in this appeal is to determine the number of insurable hours worked by the Appellant for the Intervenor from November 5, 2001 to November 1, 2002. The Minister of National Revenue (the Minister) and the Intervenor maintain 711 hours and the Appellant submits he worked 1,011 hours. Apparently, he required 1,000 hours to benefit under the Employment Insurance Act (the Act). The Appellant and Mr. Donaldson[1] were the only witnesses.
+[2] The Appellant is a retired commercial artist. In 2001, he retained the Intervenor to repair his sailboat. He could not afford the repair bill and arranged to pay by working for the Intervenor.[2] The Appellant's primary work was sandblasting but he also performed handyman-type duties. He was held in high regard by Mr. Donaldson particularly for his newly acquired sandblasting skills. Unfortunately, serious differences developed between the two men over the number of hours worked and the amount of salary owing to the Appellant. While they were courteous, the tension between them in Court was obvious.
+[3] The only period in issue is from November 5, 2001 to April 30, 2002. From November 5, 2001 to April 30, 2002, the Appellant recorded 302 hours[3] worked and Mr. Donaldson recorded that he worked only 22 hours, a difference of 280 hours. From May to November 2002, the Appellant's hours were kept by a time-clock and accepted by the Appellant as being 688 hours.
+[4] The Appellant submits that the barter or swap arrangement be ignored for the purposes of this hearing. Briefly stated, his evidence was that he kept a detailed record of his hours worked from November 5, 2001 to April 30, 2002 which totalled 302 hours. This compilation, filed as Exhibit R-1, appears to have been prepared some time after the work period although he was not cross-examined on this point at any depth. No original notes or records were presented from which Exhibit R-1 could have been prepared. At least for the relevant six months, he states he was paid sporadically yet only one cancelled cheque was submitted for this period. I infer that payment for additional hours was paid by way of credit towards the Appellant's account to the Intervenor.
+[5] The evidence and timekeeping documents on both sides were unsatisfactory. Mr. Donaldson testified that the Appellant did not work anywhere near the hours claimed. He further added that, for the most part, the Appellant was working for G. Herb Donaldson and family personally because he was paying off the amount owing to G.H. Donaldson Enterprises for the boat repairs. This reasoning does not make much sense. The Minister's counsel did not ascribe to that position. She stated that the business was not an incorporated entity, and that Mr. Donaldson and the enterprise are one and the same.
+[6] The Appellant has sued Mr. Donaldson in Small Claims Court for unpaid wages and Mr. Donaldson has attempted to have the Appellant charged with fraud, without success. We have two well-spoken senior citizens locked in a bitter dispute.
+Analysis
+[7] Section 9.1 of the Employment Insurance Regulations reads:
+Where a person's earnings are paid on an hourly basis, the person is considered to have worked in insurable employment for the number of hours that the person actually worked and for which the person was remunerated.
+The last phrase presents a problem for the Appellant. We do not know if the Appellant was remunerated for the first six months. Both parties remained silent with respect to the work-exchange arrangement. The only evidence of remuneration was the payment by cheque of $200 on December 23, 2001.
+[8] The Appellant in his closing argument mentioned that Mr. Donaldson's boat work totalled $1,600, of which the Appellant paid $1,200. Obviously, there could be no cross-examination with respect to this remark and I do not accept it as evidence. While I am asked by both parties to ignore the work exchange, it is a highly relevant factor for the Appellant because he has to establish that he was remunerated for the hours he worked. Without evidence of remuneration, he cannot succeed.
+[9] I am left with the following with respect to the first six months, November 5, 2001, to April 30, 2002:
+(a) The Appellant worked for the Intervenor to pay an uncertain amount which he owed to him;
+(b) There are no daily worksheets or timesheets prepared to record the time the Appellant worked;
+(c) The record of time worked in Exhibit R-1 was prepared by the Appellant from memory sometime after the fact;
+(d) Mr. Donaldson accepts that the Appellant worked more than the 22 hours. The additional hours the Appellant worked were to pay the boat services' invoice and the work was rendered to Donaldson and his family and not to the business. (This is inconsistent with the fact that the Appellant's indebtedness was to the business and not the family although nothing falls on it.)
+(e) There is also a disagreement as to whether the Appellant sandblasted an old Ford truck in April or June 2002;
+(f) There is but one cheque in evidence, for the first six-month period, Exhibit R-4. It is dated December 23, 2001 for $200. It does not specify what it is for. It is written on the account of "G.H. Donaldson Enterprises The Welding Works" payable to Murray Calder. The Appellant was paid at the rate of $10 per hour so this would include 20 hours;
+(g) The Appellant never submitted invoices to the Intervenor for his services rendered;
+(h) The Intervenor stated he kept time records every day the Appellant worked. The only record he entered for the first six months was Exhibit R-5. The handwritten note reads as follows:
+Murray Calder
+2001 Dec. 21 & Dec. 22 Helper on Job
+@ Lancaster Davidson House
+Dec. 21 7 3/4 hrs
+22 7 3/4 hrs
+Paid him $200 on cheque #1458
+Although he owes us money
+I figured it was Xmas and he would
+come back and work the amount (cheque)
+off plus pay off his balance of
+account owing to us.
+2002 Jan 9/02
+Helper on Sandblast Job
+Quarry Point:
+7 hrs. Helper time
+[10] This is an instance where I need not find credibility of one party over the other. In accepting or rejecting testimony, I make no finding of honesty or dishonesty although the parties' versions vary. Memory is often selective for basically honest people and their remembered past may not coincide with the historical past. In attempting to sort out the evidence, the Appellant had the burden of establishing or proving that he worked 302 insurable hours from November 5, 2001 to April 30, 2002. I have no doubt that he worked more than 22 hours. Mr. Donaldson's position is that the additional hours the Appellant worked did not count because it was for repairs to the boat or it was not rendered to the business but to the Donaldson family personally. In fact for the purposes of this appeal, it is vital to know the total hours the Appellant worked whether for paid wages or to pay the boat invoices.
+[11] The boat repair services were rendered by the Intervenor and by inference the work by the Appellant to repay this debt was for the benefit of the business. In any event, counsel for the Minister stated, for our purposes, that the Intervenor and Mr. Donaldson were to be treated as one and the same.
+[12] I accept in evidence the following portion from a letter dated April 29, 2003 from Mr. Donaldson to Canada Customs and Revenue Agency:[4]
+Our experience with Mr. Calder began when he approached us about repairing the engine on his large sailboat. He explained to us that he was retired and on a limited income, but that he would be able to pay us, over a period of time. Since our involvement appeared to require mostly labour and time, with a relatively small amount of materials required, we agreed to his proposal. When it became apparent that Mr. Calder's "time" was, in fact, going to be a 'very long' "time", he suggested that he could do some carpentry work and repairs around our building, in order to help reduce his indebtedness to us. Since this seemed to be an satisfactory solution to the problem, we agreed to Mr. Calder's suggestion.
+We first took advantage of this agreement in late December 2001, when Mr. Calder's services were used on a mobile sandblasting job, as a helper-pot watcher. Mr. Calder's performance was so impressive, and because it was Xmas time, we felt compelled to pay him for his effort. He graciously accepted our gesture ...
+[13] The purpose of this appeal is to determine the hours of insurable employment. This must include the number of hours actually worked for which the person was remunerated pursuant to Regulation 9.1. It is agreed that the Appellant's earnings were to be paid on an hourly basis. The only record of payment for the relevant period is the $200 cheque which would represent 20 hours. I do not accept the accuracy of the Appellant's records filed as Exhibit R-1 which were taken from memory after the fact.
+[14] It is not my position to guess how many hours the Appellant worked to offset his indebtedness to the Intervenor. The question I am asked is the number of insurable hours the Appellant worked and this necessarily includes the hours for which he was remunerated.
+[15] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 27th day of September, 2004.
+"C.H. McArthur"
+McArthur J.
+CITATION:
+2004TCC635
+COURT FILE NO.:
+2003-4233(EI)
+STYLE OF CAUSE:
+John Murray Calder and
+The Minister of National Revenue and G.H. Donaldson Enterprises
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+August 27, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice C.H. McArthur
+DATE OF JUDGMENT:
+September 27, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Antonia Paraherakis
+Agent for the Intervenor:
+Herb Donaldson
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Mr. Donaldson had been subpoenaed by the Appellant and appeared as a witness for the Minister.
+[2] The names Intervenor and Mr. Donaldson are used interchangeably.
+[3] In all instances, I have dropped the fractions of an hour.
+[4] Exhibit R-6.

@@ -1,0 +1,126 @@
+---
+title: "Ginez v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521011/index.do"
+last_modified: "2022-11-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 TCC 146"
+citation2: ""
+neutral_citation: "2022 TCC 146"
+decision_date: "2022-11-18"
+language: "en"
+item_id: "521011"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5807
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T11:27:21.524000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "174d0f47a29ae00ef35230ed28fe001c1e0f37dec5da50d3cc2ebdbb78bb71f5"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ginez v. The King
+
+- Citation: 2022 TCC 146
+- Decision date: 2022-11-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5807, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ginez v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-11-18
+Neutral citation
+2022 TCC 146
+File numbers
+2021-1358(IT)I
+Judges and Taxing Officers
+Jean Marc Gagnon
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2021-1358(IT)I
+BETWEEN:
+MIGUEL GINEZ,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on October 25, 2022, at Montréal, Quebec
+Before: The Honourable Justice Jean Marc Gagnon
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Me Simon Dufour
+JUDGMENT
+In accordance with the attached Reasons for Judgment, this appeal made under the Income Tax Act in respect of the March 11, 2021 reassessment of the Appellant’s 2008 taxation year is dismissed, without costs.
+Signed at Ottawa, Canada, this 18th day of November 2022.
+“J.M. Gagnon”
+Gagnon J.
+Citation: 2022 TCC 146
+Date: 20221118
+Docket: 2021-1358(IT)I
+BETWEEN:
+MIGUEL GINEZ,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Gagnon J.
+[1] Mr. Miguel Ginez is representing himself. He filed a notice of appeal before this Court on May 26, 2021 in accordance with the provisions of the Income Tax Act, R.S.C., 1985, c. 1 (5th Supp.), as amended. However, the notice of appeal is not clear as to the exact reassessment or reassessments against which Mr. Ginez is filing an appeal and therefore, the taxation year or taxation years under appeal remain uncertain. Mr. Ginez’s notice of appeal refers to an objection against a previous balance amount that has been changing several times over the last few years. According to Mr. Ginez, this balance of payment continues to vary from one correspondence to another. He states in his notice of appeal that the appeal, “is a complain [sic] of a debt that I don’t own”.
+[2] At the hearing opening, counsel for the Respondent suggested that the Court request Mr. Ginez to be more specific about the taxation year or the taxation years under appeal. The purpose of this request was to identify the debate before the court and the disputed reassessment(s) by the Appellant. In effect, several consecutive taxation years of Mr. Ginez were reassessed by the Minister of National Revenue on or about the same time. The Court proceeded with the suggestion.
+[3] After some explanations provided by Mr. Ginez, it was determined with him that the concern he had was the existence of a balance amount claimed by the Minister of National Revenue and was looking for clarity on such balance and the reason of its existence. On that basis, Mr. Ginez confirmed that his appeal would be for the 2008 taxation year only as he believes that the balance amount originates from that year. It was again asked to Mr. Ginez to confirm the year or years being the subject of his appeal before the Court. I reiterated the importance of his decision and the need to ensure that there is no ambiguity in this regard. Again, Mr. Ginez confirmed that 2008 would be the only taxation year under appeal.
+[4] If some comfort may exist, the informal procedure election form filed by Mr. Ginez on June 9, 2021 with the registrar of the Tax Court of Canada in respect of his appeal refers expressly and exclusively to the 2008 taxation year. It was then agreed with both parties that the Respondent would proceed first in order to clarify the details of each modification made by the Minister of National Revenue with respect to Mr. Ginez’s 2008 taxation year. Mr. Ginez would then have a better understanding of the situation and be able to raise any concern he may have and in respect of which this Court may intervene.
+[5] Counsel for the Respondent called as a witness the appeals officer from the Appeals Division of the Canada Revenue Agency responsible for reviewing Mr. Ginez’s notices of objection with respect to his 2008 taxation year. During that testimony, orderly information was provided with respect to changes made for this year by the Minister of National Revenue. It would be fair to say that the Canada Revenue Agency made multiple changes following Mr. Ginez’s late filing of his 2008 income tax return, and successive notices of reassessment were issued in respect of that taxation year. All these changes were scrutinized during the Respondent witness’s testimony.
+[6] During Mr. Ginez’s cross-examination of the appeals officer, it became apparent that he was not about to appeal any specific aspect, and did not raise concerns about adjustments or changes made by the Minister of National Revenue that could justify this Court to intervene. Mr. Ginez’s attempts to question the witness tended to know the breakdown of the balance of account appearing on successive notices of assessment, reassessment and statements of account which, although having possibly originated in connection with his 2008 taxation year, subsequently became complex due to subsequent reassessments with respect to other taxation years impacting on such balance. In other words, he was struggling to understand the status of the balance of his tax account with the Canada Revenue Agency without attacking changes made. He wanted explanations that he can understand.
+[7] After several attempts to pursue his questioning, Mr. Ginez admitted that he was concerned about the balance account and was not expected to object against specific changes or adjustments made by the Minister of National Revenue in respect of his 2008 taxation year, and that such changes that needed to be done were addressed, he believes, at the objection stage. This position was subsequently reaffirmed in response to a question from the Court asking him to confirm that no specific objection against the 2008 reassessment would be raised. Although Mr. Ginez’s interest in understanding his balance account with the Canada Revenue Agency is very commendable on his part, the exercise undertaken by Mr. Ginez at the hearing did not allow this Court to legitimately assist him. There were no reasonable grounds or evidence presented by Mr. Ginez for further consideration by this Court.
+[8] In the absence of any grounds for appeal supported by Mr. Ginez and evidence to challenge the validity of the reassessment dated March 11, 2021 in respect of his 2008 taxation year, Mr. Ginez has failed to discharge his burden. Therefore, the appeal of the reassessment of his 2008 taxation year bearing the date of March 11, 2021 is dismissed.
+Signed at Ottawa, Canada, this 18th day of November 2022.
+“J.M. Gagnon”
+Gagnon J.
+CITATION:
+2022 TCC 146
+COURT FILE NO.:
+2021-1358(IT)I
+STYLE OF CAUSE:
+MIGUEL GINEZ AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Montréal, Québec
+DATE OF HEARING:
+October 25, 2022
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Jean Marc Gagnon
+DATE OF JUDGMENT:
+November 18, 2022
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Me Simon Dufour
+COUNSEL OF RECORD:
+For the Respondent:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada

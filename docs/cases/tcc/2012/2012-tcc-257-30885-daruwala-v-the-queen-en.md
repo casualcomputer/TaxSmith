@@ -1,0 +1,196 @@
+---
+title: "Daruwala v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30885/index.do"
+last_modified: "2012-07-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 257"
+citation2: ""
+neutral_citation: "2012 TCC 257"
+decision_date: "2012-07-17"
+language: "en"
+item_id: "30885"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7444
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:16:30.249000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "69529291f3bb6cd887fb0ba796d9084eaadd8b2977ac4fd1c81c633d2f998593"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Daruwala v. The Queen
+
+- Citation: 2012 TCC 257
+- Decision date: 2012-07-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7444, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Daruwala v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-07-17
+Neutral citation
+2012 TCC 257
+File numbers
+2011-1994(GST)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2011-1994(GST)I
+BETWEEN:
+ZUBIN PHEROZE DARUWALA, AIMAI DARUWALA
+and MAKI PHIROZE DARUWALA,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 19, 2012 at Vancouver, British Columbia
+By: The Honourable Justice J.M. Woods
+Appearances:
+Counsel for the Appellants:
+Dennis Yee
+Counsel for the Respondent:
+Kristian DeJong
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to an assessment made under the Excise Tax Act is allowed, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the appellants are not subject to goods and services tax with respect to the purchase of a property at 1160 Kings Avenue, West Vancouver. The parties shall bear their own costs.
+Signed at Toronto, Ontario this 17th day of July 2012.
+“J. M. Woods”
+Woods J.
+Citation: 2012 TCC 257
+Date: 20120717
+Docket: 2011-1994(GST)I
+BETWEEN:
+ZUBIN PHEROZE DARUWALA, AIMAI DARUWALA
+and MAKI PHIROZE DARUWALA,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] In 2009, the appellants purchased a newly-constructed home from a builder and paid goods and services tax (GST) at the time of the purchase.
+[2] The issue in the appeal is whether the purchase was exempt from GST on the basis that the property had previously been used as a residence. If it had, the GST should have been paid by the builder and not by the appellants.
+[3] The appellants filed a rebate application on the ground that they had paid the GST in error. They rely on the exempt supply set out in section 4, Part I of Schedule V of the Excise Tax Act on the basis that the property had been subject to the self supply rule in subsection 191(1). The rebate application was denied.
+[4] The relevant provisions are reproduced in an appendix. The appellants submit that s. 191(1)(b)(i) applies to the builder. The respondent takes the position that this provision does not apply because there was no lease, licence or similar arrangement with respect to the Property and because the Property was not occupied as a place of residence.
+[5] By way of background, I would mention that the respondent previously brought an application to add the builder as a party to this appeal. The application was denied: Daruwala v The Queen, 2012 TCC 116.
+[6] Testimony at the hearing on behalf of the appellants was provided by Zubin and Aimai Daruwala and testimony on behalf of the respondent was provided by Goshtasb Hassani and his son, Roozbeh Hassani.
+Background facts
+[7] On June 30, 2009, Zubin Daruwala, his wife Aimai Daruwala and his mother Maki Daruwala purchased a newly-constructed residence at 1160 Kings Avenue, West Vancouver (the “Property”) for a purchase price of $1,561,904.76. GST in the amount of $78,095.24 was collected on the purchase.
+[8] The seller, TRG Construction Corp. (“TRG”), was incorporated in 2006 and is wholly-owned by Goshtasb Hassani.
+[9] At the time of incorporation, Mr. Hassani had recently immigrated to Canada with his family. It was decided that TRG would enter into a construction business, in part because this would assist in satisfying immigration requirements that the family be involved in a commercial venture in Canada. The Property was the first home that was built by TRG and the corporation is still in operation.
+[10] TRG purchased the Property in December 2006. Once construction was nearly complete in September 2008, the Property was listed for sale. The listing expired in December 2008 without the Property being sold. The Property was listed again with a new realtor in March 2009 and it was sold to the appellants in June 2009.
+[11] When Mr. Daruwala first viewed the Property, it appeared to him that the home had been occupied. It contained some furniture, and there was some garbage in the kitchen. He raised concerns about GST being payable on a used home, but he was told that the tax had to be paid.
+[12] After taking possession on July 1, 2009, Mr. Daruwala became more convinced that the home had been occupied because mail for the Hassani family and TRG was received at the Property. In addition, the appellants noticed burn damage on the roof of the oven. These circumstances prompted the appellants to file for a rebate of the GST on the basis that the home had previously been occupied.
+[13] In preparation for the appeal, in 2010 Mr. Daruwala took photocopies of envelopes addressed to the Property for several members of the Hassani family and for TRG. The mail continued to be received until the third quarter of 2011.
+[14] In addition, Mr. Daruwala obtained affidavits from two neighbours. The affidavits were entered into evidence on consent, although the respondent questioned the weight that they should be given. I have not given the affidavits any weight. They are simply not sufficiently reliable without the affiants being available for cross-examination.
+Analysis
+[15] The legislative scheme for real property requires that GST be paid when new residential property is purchased from a builder. However, if the property had been used as a residence while it was owned by the builder, the builder must generally pay the GST under self-supply rules and no further GST is payable by a subsequent purchaser.
+[16] The appellants submit that the self supply rule applies to TRG by virtue of s. 191(1)(b)(i). The relevant part reads:
+(b) the builder of the complex
+(i) gives possession or use of the complex to a particular person under a lease, licence or similar arrangement (other than an arrangement, under or arising as a consequence of an agreement of purchase and sale of the complex, for the possession or occupancy of the complex until ownership of the complex is transferred to the purchaser under the agreement) entered into for the purpose of its occupancy by an individual as a place of residence,
+(Emphasis added.)
+[17] The requirements of the provision are:
+- the builder has given possession or use of the home,
+- under a lease, licence or similar arrangement, and
+- the arrangement is entered into for the purpose of occupancy as a place of residence.
+[18] There is no dispute about the first element. TRG gave possession and use of the home to its sole shareholder, Mr. Hassani. It is the second and third elements that the respondent submits are not satisfied.
+[19] The first question is whether TRG entered into a lease, licence or similar arrangement with Mr. Hassani. The respondent submits that this requirement is not satisfied because there was no a formal arrangement in writing and with set terms and conditions. No case authority was provided.
+[20] I agree with the respondent that there was likely no formality to the arrangement. Since Mr. Hassani was the sole shareholder of TRG, the arrangement was in all likelihood an informal oral arrangement under which Mr. Hassani had possession and use of the Property at his pleasure.
+[21] However, I disagree that formality is required. An informal arrangement of this nature is sufficient to be a “lease, licence or similar arrangement” as that phrase is used in s. 191(1). The language used is broad and it encompasses in my view informal arrangements that give possession of property. The occupation by Mr. Hassani satisfies the requirement, in my view.
+[22] The second question is whether the arrangement was for the purpose of giving Mr. Hassani occupancy as a place of residence. This depends partly on the meaning of the phrase “place of residence” and partly on the facts.
+[23] As for the meaning of the phrase “place of residence,”the respondent submits that Mr. Hassani’s occupation of the home did not have sufficient permanency and other indicia of “residence” as that term has been defined in Thomson v The Queen, [1946] SCR 209.
+[24] There is some reference to the Thomson decision in judicial decisions dealing with s. 191(1) (see Sand, Surf & Sea Ltd. v The Queen, 2008 TCC 96, [2008] ETC 2911). However, I do not believe that the test of “residence” in Thomson is applicable in this context.
+[25] The term “residence” has a flexible meaning which is dependant on the context in which it is used. The focus of section 191(1) is on the intended use of a property. In this context, the intent to occupy the premises as a home is sufficient.
+[26] The term “residence” as used in the context of Thomson applies in determining the liability of an individual to income tax. The focus in this context is on the individual rather than on a property and a myriad of personal factors involving the person’s customary mode of living are looked at. This include things such as social and economic ties. It does not make any sense to apply this test in the context of s. 191(1).
+[27] The question, in my view, is whether TRG gave occupancy to Mr. Hassani for the purpose of enabling his occupancy of the Property as a home.
+[28] The case for the respondent is based largely on the testimony of Mr. Hassani and his son, Roozbeh.
+[29] Mr. Hassani testified that the construction of the home took about 18 months and that it was completed in December 2008.
+[30] He also stated that the housing market was poor at the time of the first listing in September 2008, and that there were no offers by the time the listing expired in December 2008.
+[31] He testified that the real estate agent then recommended that the property be staged for sale. For this purpose, a small amount of furniture was moved from the family home in Coquitlam, British Columbia. The furniture was for the bedroom and the living room. The bedroom furniture came from the master bedroom and consisted of a bed, two side tables and lamps. The living room furniture consisted of a sofa and love seat. There was also one piece of art. In addition, kitchen appliances were purchased for kitchens on the main floor and the lower level and a new television was installed over a fireplace in the living room.
+[32] Mr. Hassani also testified that he stayed at the Property for an average of three or four nights a week in order to protect the property. This lasted from mid‑February to mid-April, he stated, and then the realtor told him that it was no longer necessary. He also stated that his spouse and son sometimes visited and that the spouse brought food when she came. He denied that the oven was ever used.
+[33] Mr. Hassani also testified that he loudly played the television so that the neighbours would know that someone was in the home.
+[34] As for mail coming to the home, Mr. Hassani said that he filed a change of address notification with Canada Post so that mail would be redirected from Coquitlam to the Property for himself and his spouse. He testified that his mail was redirected as he was anxious about an expected letter from the immigration authorities. He said that his wife did not read English and therefore he could not rely on her to explain the mail that came to Coquitlam.
+[35] The mail also included items for TRG, and the Hassanis’ two sons. Mr. Hassani stated that TRG’s bank knew this address and he thought the mail for the sons was just advertising.
+[36] The fact that mail was redirected to the Property is quite damaging to the respondent’s position, and I was not persuaded by Mr. Hassani’s testimony on this point. The testimony was vague, and at times it was non-responsive on cross-examination. I have given some allowance for the fact that the English language is not Mr. Hassani’s first language. Even with this allowance, however, I did not find the testimony to be persuasive. In particular,
+- From an objective standpoint, it seems very unlikely that someone would redirect mail if they had a permanent home that was regularly used.
+- It was not satisfactorily explained why the problem with the mail was satisfactorily resolved by Mr. Hassani being at the Property only on average three or four nights a week.
+- It was also not adequately explained why it was desirable for the spouse’s mail to be redirected.
+- The testimony also failed to adequately explain why Mr. Hassani was only at the residence for two months. If Mr. Hassani was present to protect the home, this need would have continued until the Property was sold.
+[37] On the whole, the testimony regarding the mail was not sufficiently cogent and detailed to be persuasive.
+[38] Finally, I would note that Mr. Hassani is not a disinterested witness as TRG may be affected by the outcome of this appeal.
+[39] In my view, the respondent’s position cannot prevail when its case rests so heavily on testimony which is not persuasive. In the absence of reliable evidence as to the purpose for which the Property was to be occupied by Mr. Hassani, I would conclude that it is likely that Mr. Hassani intended to use the Property as his home for at least several months. This is sufficient to satisfy the requirements of s. 191(1).
+[40] Before concluding, I would briefly mention the burden of proof. The burden that the appellants bear is only to establish the intended use of the property on a prima facie basis: McMillan v The Queen, 2012 FCA 126, at para 7. This burden has been satisfied.
+Conclusion
+[41] The appeal will be allowed, and the reassessment will be referred back to the Minister for reconsideration and reassessment on the basis that the purchase of the Property by the appellants was exempt from GST. As the appeal was governed by the informal procedure, no costs will be awarded.
+Signed at Toronto, Ontario this 17th day of July 2012.
+“J. M. Woods”
+Woods J.
+APPENDIX
+Definition of “exempt supply” in s. 123(1)
+“exempt supply” means a supply included in Schedule V;
+Section 4, Part I, Schedule V
+4. [Single home or condominium sold by builder] - A supply by way of sale of a single unit residential complex (in this section referred to as the “complex”) or a residential condominium unit (in this section referred to as the “unit”) or an interest in the complex or unit made by a builder of the complex or unit where
+(a) in the case of a unit situated in a residential complex (in this section referred to as the “premises”) that was converted by the builder from use as a multiple unit residential complex to use as a condominium complex, the builder received an exempt supply of the premises by way of sale or was deemed under subsection 191(3) of the Act to have received a taxable supply of the premises by way of sale, and that supply was the last supply of the premises made by way of sale to the builder, or
+(b) in any case, the builder received an exempt supply of the complex or unit by way of sale or was deemed under subsection 191(1) or (2) of the Act to have received a taxable supply of the complex or unit by way of sale, and that supply was the last supply of the complex or unit made by way of sale to the builder,
+unless
+(c) after the complex, unit or premises were last acquired by the builder, the builder carried on, or engaged another person to carry on for the builder, the substantial renovation of the complex, unit or premises, or
+(d) the builder claimed an input tax credit in respect of the last acquisition by the builder of the complex, unit or premises or in respect of an improvement to the complex, unit or premises acquired, imported or brought into a participating province by the builder after the complex, unit or premises was last acquired by the builder.
+Subsection 191(1)
+191. (1) Self-supply of single unit residential complex or residential condominium unit [on occupancy or lease by builder] - For the purposes of this Part, where
+(a) the construction or substantial renovation of a residential complex that is a single unit residential complex or a residential condominium unit is substantially completed,
+(b) the builder of the complex
+(i) gives possession or use of the complex to a particular person under a lease, licence or similar arrangement (other than an arrangement, under or arising as a consequence of an agreement of purchase and sale of the complex, for the possession or occupancy of the complex until ownership of the complex is transferred to the purchaser under the agreement) entered into for the purpose of its occupancy by an individual as a place of residence,
+(ii) gives possession or use of the complex to a particular person under an agreement for
+(A) the supply by way of sale of the building or part thereof in which the residential unit forming part of the complex is located, and
+(B) the supply by way of lease of the land forming part of the complex or the supply of such a lease by way of assignment,
+other than an agreement for the supply of a mobile home and a site for the home in a residential trailer park, or
+(iii) where the builder is an individual, occupies the complex as a place of residence, and
+(c) the builder, the particular person, or an individual who has entered into a lease, licence or similar arrangement in respect of the complex with the particular person, is the first individual to occupy the complex as a place of residence after substantial completion of the construction or renovation,
+the builder shall be deemed
+(d) to have made and received, at the later of the time the construction or substantial renovation is substantially completed and the time possession or use of the complex is so given to the particular person or the complex is so occupied by the builder, a taxable supply by way of sale of the complex, and
+(e) to have paid as a recipient and to have collected as a supplier, at the later of those times, tax in respect of the supply calculated on the fair market value of the complex at the later of those times.
+CITATION: 2012 TCC 257
+COURT FILE NO.: 2011-1994(GST)I
+STYLE OF CAUSE: ZUBIN PHEROZE DARUWALA, AIMAI DARUWALA and MAKI PHIROZE DARUWALA v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: June 19, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice J.M. Woods
+DATE OF JUDGMENT: July 17, 2012
+APPEARANCES:
+Counsel for the Appellants:
+Dennis Yee
+Counsel for the Respondent:
+Kristian DeJong
+COUNSEL OF RECORD:
+For the Appellants:
+Name: Dennis Yee
+Firm: Davis LLP
+Vancouver, British Columbia
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Ontario

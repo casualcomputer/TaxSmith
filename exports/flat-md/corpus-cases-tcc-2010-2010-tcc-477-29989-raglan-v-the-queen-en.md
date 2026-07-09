@@ -1,0 +1,180 @@
+---
+title: "Raglan v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29989/index.do"
+last_modified: "2010-09-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 477"
+citation2: ""
+neutral_citation: "2010 TCC 477"
+decision_date: "2010-09-22"
+language: "en"
+item_id: "29989"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 8002
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:00:20.091000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "402f2305a572e0df3b8ed85149df9e10916ab5355059e9cc492e338889982343"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Raglan v. The Queen
+
+- Citation: 2010 TCC 477
+- Decision date: 2010-09-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8002, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Raglan v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-09-22
+Neutral citation
+2010 TCC 477
+File numbers
+2008-1109(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-1109(IT)I
+BETWEEN:
+JAMES RAGLAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on September 9, 10, 2010 at Toronto, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Amir Ummat
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to a directors’ liability assessment made under the Income Tax Act by notice dated June 3, 2005 is dismissed. Each party shall bear their own costs.
+Signed at Ottawa, Canada this 22nd day of September 2010.
+“J. M. Woods”
+Woods J.
+Citation: 2010 TCC 477
+Date: 20100922
+Docket: 2008-1109(IT)I
+BETWEEN:
+JAMES RAGLAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] In this appeal, James Raglan challenges a directors’ liability assessment issued under section 227.1 of the Income Tax Act. The assessment was issued by notice dated June 3, 2005.
+[2] The assessment was triggered by the failure of Goose Loonies Eatery & Taps Ltd. (“Goose Loonies”) to remit proper payroll source deductions in its 1999 and 2000 taxation years. Goose Loonies has ceased business and assessments issued to the corporation have gone unsatisfied.
+[3] Goose Loonies was assessed for remittance failures in the amount of $3,365.14, plus penalties and interest. In addition, related assessments were issued under other statutes. The appellant was issued directors’ liability assessments for these as well, which are being held at the objections stage pending the outcome of this appeal. The aggregate amount for all of the assessments is $18,853.18.
+[4] The appellant testified on his own behalf and called four other witnesses to whom he had issued subpoenas: two brothers who had invested in Goose Loonies and two officials of the Canada Revenue Agency (CRA).
+[5] The respondent did not call any witnesses.
+Background facts
+[6] Sometime in 1998, the appellant agreed to go into the restaurant business in Lindsay, Ontario with an individual by the name of Colin Linneberg. The appellant agreed to invest $25,000 and to manage the kitchen.
+[7] Early in 1999, Goose Loonies was incorporated to operate the business and premises were leased under its name. According to a shareholders’ agreement entered into evidence, the two partners were equal shareholders and each had the right to nominate one director.
+[8] Notwithstanding that Mr. Linneberg could have appointed himself as a director, it appears that he never formally did. The appellant was the sole director on incorporation and that never changed.
+[9] Although there were other investors in the business, the evidence as a whole suggests that the appellant and Mr. Linneberg were the principals.
+[10] The restaurant opened sometime in 1999. The appellant testified that it opened around November.
+[11] The appellant also testified that in January 2000 he notified Mr. Linneberg that he was leaving the business and that he wanted nothing more to do with Goose Loonies. He said that there were many issues with how Mr. Linneberg was running the business. Mr. Linneberg was also told that the appellant would stay a couple of months until a replacement could be found. The appellant also testified that he had informed the lawyer for Goose Loonies of his decision. I accept this testimony.
+[12] The appellant testified that his planned departure led to the incorporation of a new company. Based on the evidence as a whole, it is likely that the assets of Goose Loonies were transferred to a new corporation at some point in 2000.
+[13] The appellant left the business in late April 2000 and shortly thereafter he became employed as a paralegal with X Coppers.
+[14] It appears that there were significant defaults in lease payments by both Goose Loonies and the new corporation, which led to a closure of the restaurant and a seizure of its assets by the landlord in December 2000. There were other defaults as well, such as to Brewers Retail and on wages owed to staff.
+[15] In August 2000, the CRA undertook a payroll audit for 1999 after receiving a complaint from an employee who had not received a T4 slip. The auditor, Oliver Baro, testified that he attended at the restaurant premises and was provided with payroll records, cheques and bank statements by Mr. Linneberg. The audit was completed in one day and an assessment of Goose Loonies for remittance failures followed.
+[16] In September 2000, Mr. Baro attempted to undertake a payroll audit for part of 2000. He testified that he met with the appellant at the restaurant and was told that no records were available.
+[17] The appellant vehemently denies that he met Mr. Baro at the restaurant in September 2000. Given the length of time that has passed since this event, it is possible that Mr. Baro was mistaken as to whom he met.
+[18] The payroll audit for 2000 was subsequently completed by another auditor and an assessment for remittance failures for 2000 was then issued to Goose Loonies.
+[19] The two assessments issued to Goose Loonies were unsatisfied, and accordingly an assessment was issued to the appellant, as the sole director, pursuant to s. 227.1 of the Income Tax Act.
+[20] At the present time, the appellant is still listed with the Ontario Ministry of Government Services as the sole director of Goose Loonies.
+Issues
+[21] There are three issues:
+- Are the underlying assessments correct?
+- Did the appellant exercise appropriate care as a director?
+- Did the appellant resign?
+Legislative provisions
+[22] The relevant legislative provisions, subsections 227.1(1), (2), (3) and (4) of the Income Tax Act, as in effect in 2005, are reproduced below.
+Liability of directors for failure to deduct
+227.1(1) Where a corporation has failed to deduct or withhold an amount as required by subsection 135(3) or section 153 or 215, has failed to remit such an amount or has failed to pay an amount of tax for a taxation year as required under Part VII or VIII, the directors of the corporation at the time the corporation was required to deduct, withhold, remit or pay the amount are jointly and severally liable, together with the corporation, to pay that amount and any interest or penalties relating thereto.
+Limitations on liability
+227.1(2) A director is not liable under subsection (1), unless
+(a) a certificate for the amount of the corporation’s liability referred to in that subsection has been registered in the Federal Court under section 223 and execution for that amount has been returned unsatisfied in whole or in part;
+(b) the corporation has commenced liquidation or dissolution proceedings or has been dissolved and a claim for the amount of the corporation’s liability referred to in that subsection has been proved within six months after the earlier of the date of commencement of the proceedings and the date of dissolution; or
+(c) the corporation has made an assignment or a bankruptcy order has been made against it under the Bankruptcy and Insolvency Act and a claim for the amount of the corporation’s liability referred to in that subsection has been proved within six months after the date of the assignment or bankruptcy order.
+Idem
+227.1(3) A director is not liable for a failure under subsection (1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+Limitation period
+227.1(4) No action or proceedings to recover any amount payable by a director of a corporation under subsection (1) shall be commenced more than two years after the director last ceased to be a director of that corporation.
+Are the underlying assessments correct?
+[23] Pursuant to subsection 227.1(1) of the Act, if a corporation fails to remit payroll source deductions, the directors of the corporation are jointly and severally liable with the corporation to pay the remittances together with interest and penalties. The appellant seeks to dispute the amount of his liability by challenging the correctness of the underlying assessments issued to Goose Loonies.
+[24] The respondent submits that: (1) the assessments issued to Goose Loonies are dispositive of the amount for which the appellant is liable under s. 227.1(1); and (2) in any event the appellant has not satisfied the onus of proving that the assessments are incorrect.
+[25] It is not necessary for me to consider the respondent’s first argument because I am not satisfied that the assessments issued to Goose Loonies are incorrect. As far as the evidence reveals, the CRA properly assessed Goose Loonies based on the books and records that were provided to them by the corporation. The Minister’s assumptions as to the amounts owing have not been disproven.
+Did the appellant exercise appropriate care?
+[26] The appellant also denies liability on the basis that he did not have control of the financial affairs of Goose Loonies.
+[27] This raises the question of whether the appellant exercised the “care, diligence and skill” to prevent the remittance failures that a reasonably prudent person would have exercised in comparable circumstances: subsection 227.1(3).
+[28] The general principles to be applied are summarized by Sharlow J.A. in the following excerpt from Smith v. The Queen, 2001 FCA 84; 2001 DTC 5226:
+[9] The Soper decision, supra, established that the standard of care described in the statutory due diligence defence is substantially the same as the common law standard of care in Re City Equitable Fire Insurance Co., [1925] Ch. 407 (Eng. C.A.). It follows that what may reasonably be expected of a director for the purposes of subsection 227.1(1) of the Income Tax Act and subsection 323(1) of the Excise Tax Act depends upon the facts of the case, and has both an objective and a subjective aspect.
+[10] The subjective aspect of the standard of care applicable to a particular director will depend on the director’s personal attributes, including knowledge and experience. Generally, a person who is experienced in business and financial matters is likely to be held to a higher standard than a person with no business acumen or experience whose presence on the board of directors reflects nothing more, for example, than a family connection. However, the due diligence defence probably will not assist a director who is oblivious to the statutory obligations of directors, or who ignores a problem that was apparent to the director or should have been apparent to a reasonably prudent person in comparable circumstances (Hanson v. Canada (2000) 260 N.R. 79, [2000] 4 C.T.C. 215, 2000 DTC 6564 (F.C.A.)).
+[11] In assessing the objective reasonableness of the conduct of a director, the factors to be taken into account may include the size, nature and complexity of the business carried on by the corporation, and its customs and practices. The larger and more complex the business, the more reasonable it may be for directors to allocate responsibilities among themselves, or to leave certain matters to corporate staff and outside advisers, and to rely on them.
+[12] The inherent flexibility of the due diligence defence may result in a situation where a higher standard of care is imposed on some directors of a corporation than on others. For example, it may be appropriate to impose a higher standard on an “inside director” (for example, a director with a practice of hands-on management) than an “outside director” (such as a director who has only superficial knowledge of and involvement in the affairs of the corporation).
+[13] That is particularly so if it is established that the outside director reasonably relied on assurances from the inside directors that the corporation’s tax remittance obligations were being met. See, for example, Cadrin v. Canada (1998), 240 N.R. 354, [1999] 3 C.T.C. 366, 99 DTC 5079 (F.C.A.).
+[14] In certain circumstances, the fact that a corporation is in financial difficulty, and thus may be subject to a greater risk of default in tax remittances than other corporations, may be a factor that raises the standard of care. For example, a director who is aware of the corporation’s financial difficulty and who deliberately decides to finance the corporation’s operations with unremitted source deductions may be unable to rely on the due diligence defence (Ruffo v. Canada, 2000 DTC 6317 (F.C.A.)). In every case, however, it is important to bear in mind that the standard is reasonableness, not perfection.
+[29] The evidence does not establish that the appellant exercised appropriate care, diligence and skill to prevent the payroll remittance failures. I accept that Mr. Linneberg managed the financial aspects of the business, but I do not accept that a reasonably prudent director would permit Mr. Linneberg to be in charge of source deductions without some supervision.
+[30] It appears that Goose Loonies had serious financial problems from the start and I am not satisfied that the appellant did anything to prevent the failures.
+[31] The appellant submits that there is nothing he could have done. I am not persuaded of this. The evidence as a whole suggests that Mr. Linneberg did not handle finances responsibly and this should have been evident to the appellant from the outset. A reasonably prudent director would not have left the remittance obligation in the control of Mr. Linneberg alone.
+Did the appellant resign?
+[32] The appellant submits that he resigned by advising Mr. Linneberg and Mr. Linneberg’s father that he was going to have nothing more to do with Goose Loonies.
+[33] If the appellant did resign in 2000, the CRA would be precluded from recovering any amount from the appellant by virtue of subsection 227.1(4) because the resignation occurred more than two years before this assessment was issued.
+[34] I am not convinced, however, that the appellant ever resigned as a director of Goose Loonies.
+[35] The appellant announced his departure from Goose Loonies in January 2000 and he indicated that he would stay a couple of months until a replacement could be found. Based on the limited evidence presented, it appears that a lawyer was retained to implement the transfer of the restaurant assets from Goose Loonies to a new corporation. There is insufficient evidence that the plan involved the appellant’s resignation as a director of Goose Loonies.
+Conclusion
+[36] As a result of these findings, the appeal will be dismissed.
+[37] The respondent seeks costs pursuant to subsection 10(2) of the Tax Court of Canada Rules (Informal Procedure). It provides that costs may be awarded to the respondent if the actions of the appellant unduly delayed the prompt and effective resolution of the appeal.
+[38] I will not grant costs on this basis. Although I have some concerns about how the appellant conducted the appeal, particularly in regard to voluminous case authorities, I also have limited information as to what transpired prior to the hearing, and note that prior adjournments were granted based on circumstances that were beyond the control of the appellant.
+Signed at Ottawa, Canada this 22nd day of September 2010.
+“J. M. Woods”
+Woods J.
+CITATION: 2010 TCC 477
+COURT FILE NO.: 2008-1109(IT)I
+STYLE OF CAUSE: JAMES RAGLAN and HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATES OF HEARING: September 9, 10, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice J. M. Woods
+DATE OF JUDGMENT: September 22, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Amir Ummat
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

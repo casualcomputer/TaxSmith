@@ -1,0 +1,221 @@
+---
+title: "Mailhot c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29759/index.do"
+last_modified: "2010-04-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 165"
+citation2: ""
+neutral_citation: "2010 CCI 165"
+decision_date: "2010-04-22"
+language: "fr"
+item_id: "29759"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6505
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:03:49.767000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "36b65d89aed7d7a7e3fdd2febeae1c8ccf1f32f8ed7535ffe527e987ebe5731a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mailhot c. La Reine
+
+- Citation: 2010 CCI 165
+- Decision date: 2010-04-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6505, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mailhot c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-04-22
+Référence neutre
+2010 CCI 165
+Numéro de dossier
+2009-1047(IT)I
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-1047(IT)I
+ENTRE :
+ROBERT MAILHOT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de Robert Mailhot
+(2009-1170(IT)I), le 21 octobre 2009, à Montréal (Québec).
+Devant : L'honorable juge François Angers
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocates de l'intimée :
+Me Ilinca Ghibu
+Me Christa Akey
+____________________________________________________________________
+JUGEMENT
+L'appel de la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2004 est admis en partie et la cotisation est déférée au ministre pour nouvel examen et nouvelle cotisation, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 22e jour d’avril 2010.
+« François Angers »
+Juge Angers
+Dossier : 2009-1170(IT)I
+ENTRE :
+ROBERT MAILHOT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de Robert Mailhot (2009-1047(IT)I), le 21 octobre 2009, à Montréal (Québec).
+Devant : L'honorable juge François Angers
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocates de l'intimée :
+Me Ilinca Ghibu
+Me Christa Akey
+____________________________________________________________________
+JUGEMENT
+L'appel de la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2005 est rejeté selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 22e jour d’avril 2010.
+« François Angers »
+Juge Angers
+Référence : 2010 CCI 165
+Date : 20100422
+Dossiers : 2009-1047(IT)I,
+2009-1170(IT)I
+ENTRE :
+ROBERT MAILHOT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] L'appelant interjette appel d'une nouvelle cotisation datée du 26 janvier 2009 à l'égard de son année d'imposition 2004 et d'une nouvelle cotisation datée du 21 janvier 2008 à l'égard de son année d'imposition 2005. Les deux appels ont été entendus sur preuve commune.
+[2] En produisant sa déclaration de revenus pour l'année d'imposition 2004, l'appelant a déclaré, dans le calcul de son revenu, une somme de 15 339 $ (30,678 $ x 50 %) à titre de gains en capital imposables à l'égard de transactions portant sur des valeurs mobilières. Après vérification par l'Agence du Revenu du Canada (ARC), le ministre du Revenu national (le « ministre ») a établi une nouvelle cotisation à l'égard de l'année d'imposition 2004, portant à 149 070 $ le montant des gains en capital imposables à l'égard de transactions visant des valeurs mobilières. De plus, le ministre a refusé à l'appelant la déduction d'une perte en capital résultant de la vente de 1 000 actions ordinaires de la société « Agenda du Sportif ltée » effectuée en 2004, le motif du refus étant que le capital‑actions de ladite société indiqué dans sa dernière déclaration de revenus, soit celle pour l'année d'imposition 2001, ne se composait que d'un total de 100 actions ordinaires.
+[3] En ce qui concerne son année d'imposition 2005, l'appelant a déclaré une somme de 159 560 $ à titre de revenus provenant d'un régime enregistré d'épargne retraite (REER) et a déduit une somme équivalente. Lors de la cotisation initiale, le ministre a établi notamment, dans le calcul du revenu de l'appelant, des revenus de REER totalisant 267 479 $, mais n'a accordé qu'une somme de 25 000 $ comme déduction. Le ministre a refusé d'accorder, dans le calcul du revenu de profession libérale de l'appelant, quelque déduction que ce soit à l'égard de créances irrécouvrables et à l'égard de l'amortissement de véhicules à moteur de l'appelant. L'appelant a aussi, pour son année d'imposition 2005, déclaré un gain en capital imposable de 20 677 $, sauf que, selon le ministre, il ne pouvait bénéficier d'aucun report de perte en capital étant donné :
+a) que l'appelant avait déjà déduit au titre du report de pertes en capital nettes d'une autre année (1994) une somme de 9 839 $ pour l'année d'imposition 2004;
+b) que le ministre a accordé au titre du report de pertes en capital nettes d'une autre année (2007) une déduction de 53 580 $ pour l'année d'imposition 2004.
+[4] Le ministre a également refusé, pour le même motif que celui invoqué pour l'année d'imposition 2004 de l'appelant, la demande de redressement de l'appelant visant à obtenir la déduction d'une perte en capital de 38 002 $ (50 670 $ x ¾) résultant de la vente de 2 000 actions ordinaires de la société Agenda du Sportif ltée en 2003 et en 2004 .
+[5] Les quatre questions en litige sont les suivantes :
+1 - Le ministre a-t-il à bon droit ajouté au revenu de l’appelant une somme de 133 734 $ à titre de gain en capital imposable à la suite de la disposition de certaines actions?
+2 - Le ministre a-t-il à bon droit refusé à l’appelant la déduction d'une somme de 38 002 $ comme perte déductible au titre d'un placement d’entreprise résultant d’une prétendue disposition d’actions de la compagnie Agenda du Sportif Ltée?
+3 - Le ministre a-t-il à bon droit refusé à l’appelant une déduction de 14 150 $ pour mauvaises créances?
+4 - Le ministre a-t-il à bon droit refusé à l’appelant la déduction d'une perte de 9 600 $ pour l’amortissement de véhicules à moteur?
+[6] L'appelant exerce la profession d'avocat. En 2004, il a disposé de certains titres et a déclaré un produit total de disposition de 321 316 $. Le vérificateur de l'ARC a cependant conclu, après avoir analysé les documents fournis par le courtier de l'appelant, que le montant total des dispositions faites au nom de l'appelant était de l'ordre de 588 784 $, de sorte qu'il y avait un écart non déclaré de 267 468 $.
+[7] Le 20 juin 2007, l'ARC a écrit une lettre à l'appelant l'informant que ses déclarations de revenus de 2003 et de 2004 faisaient l'objet d'un examen et lui demandant de fournir, entre autres, les états de transaction établis par le courtier de l'appelant et montrant les coûts d'acquisition et de disposition des titres et d’y inclure les T5008. Le 16 juillet 2007, l'appelant, dans une lettre manuscrite adressée à monsieur Robert Villemure, vérificateur à l'ARC et responsable du dossier de l'appelant, mentionnait qu'il avait communiqué avec son courtier et que les copies des états des transactions, s'il était possible de les obtenir, ne seraient envoyées que dans cinq à huit semaines. Il a fourni toutefois les détails des transactions qui le concernaient personnellement et, pour ce qui est des autres transactions, il a fait mention de deux autres « entités » en disant que ces deux « entités » étaient elles-mêmes responsables de leur impôt. L'une de ces « entités » est sa fille, mais il ne nomme pas l’autre.
+[8] Trois jours plus tard, l'appelant a écrit à nouveau à monsieur Villemure. Il s'agissait cette fois d'une lettre dactylographiée dans laquelle il a fourni plus de détails concernant les transactions boursières. Il a inclus avec sa lettre un acte de fiducie daté du 19 février 1999 et dûment enregistré au nom de la fiducie familiale Mailhot (la fiducie), et a précisé qu'il n'avait pas ce document le 16 juillet 2007, date de sa première lettre. Il a inclus aussi une copie des formulaires « Renseignements sur un compte en fiducie » datés du 28 janvier 2001 provenant de la firme TD Waterhouse et se rapportant au compte de la fiducie susmentionnée, ainsi qu'une copie du relevé des transactions sur titres de l'année 2004 établi par la firme TD Waterhouse pour et au nom de la fiducie et adressé à l'appelant en fiducie en tant que fiduciaire de ladite fiducie. Il a joint aussi à sa lettre une copie de ses propres relevés des transactions sur titres pour l'année 2004 établis par TD Waterhouse. La valeur des opérations sur titres attribuables à la fiducie s'élevait à 197 574,31 $ et celle des opérations attribuables à l'appelant à titre personnel s'élevait à 391 211,47 $. Des commissions de 777 $ pour les transactions de la fiducie et de 1 189 $ pour celles de l'appelant doivent s’ajouter à ces produits de disposition.
+[9] Monsieur Villemure n'a jamais reçu la lettre du 19 juillet 2007 puisque, le 12 octobre 2007, il a écrit de nouveau à l'appelant dans le but de lui rappeler qu'il devait fournir les états établis par ses courtiers. Il a joint à sa lettre les états qu'il avait préparés pour les années 2004 et 2005, qui montraient les écarts par rapport aux montants que l'appelant avait déclarés. Qui plus est, monsieur Villemure, dans son témoignage, a déclaré que non seulement il n'avait pas reçu la lettre du 19 juillet 2007, mais il ne l'avait jamais vu avant le matin de l'audience, et qu'il en était également ainsi de l'acte de fiducie et des documents que l'on trouve aux pages 33, 34, 35, 36, 38, 39, 40, 41, 42, 43, 44 et 45 de la pièce A‑1. Monsieur Villemure aurait appris l'existence de la fiducie une semaine avant la tenue de l'audience lorsqu'on lui a remis une copie de l'avis d'appel. Il a alors cherché la fiducie dans les fichiers de l'ARC afin de savoir si elle avait fait une déclaration de revenus, mais il n'a rien trouvé. Dans les conversations que monsieur Villemure avait eues avec l'appelant, ce dernier a toujours parlé de tiers et n'a jamais mentionné le mot fiducie relativement aux transactions attribuables à la fiducie. Monsieur Villemure a fait remarquer également que la lettre du 19 juillet 2007 est la seule lettre dactylographiée de l’appelant alors que les autres sont toutes manuscrites.
+[10] Dans son témoignage, monsieur Villemure a expliqué qu'il avait été obligé de fonder la cotisation sur le prix de disposition étant donné que l'appelant ne lui avait pas fourni aucune documentation établissant le coût d’acquisition, les seuls renseignements à cet égard étant les coûts d'acquisition fournis par l’appelant dans sa lettre du 16 juillet 2007 adressée à monsieur Villemure. Les T5008 n'indiquaient pas les coûts d'acquisition.
+[11] L'appelant, dans une lettre manuscrite en date du 20 novembre 2007 pièce A‑1, page 60), à l'attention de monsieur Villemure, contestait les écarts calculés par ce dernier parce qu'il ne pouvait vérifier leur exactitude, qu'on lui a attribué des sommes qui appartenaient à des tiers et qu'il n'avait pas accès aux relevés de ceux-ci; encore plus étrangement, il a écrit que TD Waterhouse ne lui avait pas fait parvenir les copies demandées alors, que sa lettre du 19 juillet 2007 contenait de telles copies. Un des tiers mentionnés est la fiducie, dont l'appelant est lui-même le fiduciaire.
+[12] Il me paraît assez étrange que l’appelant, dans un premier temps, dans sa lettre manuscrite du 16 juillet 2007, dise qu’il a communiqué avec la maison de courtage pour obtenir les copies et que celles-ci ne pourront être envoyées que dans cinq à huit semaines alors que, trois jours plus tard, il est en mesure de faire parvenir à l’ARC, dans une lettre dactylographiée, des informations assez pertinentes concernant les opérations sur titres de la fiducie et ses opérations personnelles sur titres dans ses comptes canadien et américain.
+[13] Ce qui est encore plus étrange est le fait qu’après avoir envoyé, le 19 juillet 2007, cette information, qui comprenait aussi l’acte de fiducie le désignant fiduciaire de la fiducie, l'appelant, dans une lettre du 20 novembre 2007 à l’ARC, a écrit :
+J’ai bien reçu votre lettre du 12 octobre 2007 et je dois dire que je conteste vos données et inscriptions, lesquelles je ne peux en vérifier la nature et l’exactitude. En effet vous semblez m’octroyer des sommes qui appartiennent à des tierces parties et comme je n’ai pas accès à ces relevés, je conteste vos relevés et votre état qui montrent les écartes erronés.
+[14] Il s’agit là d’une contradiction des plus évidentes qui met en doute de façon sérieuse la crédibilité des affirmations de l’appelant quant à l’existence et à l’envoi de la lettre du 19 juillet 2007 et des documents qui y auraient été joints et quant à l'impossibilité dans laquelle il se trouvait d'avoir accès aux relevés de la fiducie dont il est le fiduciaire. Tous les relevés de la fiducie étaient adressés à lui personnellement en tant que fiduciaire et, selon sa lettre du 19 juillet 2007, il avait ces documents en sa possession. Voici ce qu’il a écrit :
+Je vous soumet [sic] en plus des documents que je vous ai remis le 16 juillet 2007 une copie de l’acte de fiducie (daté du 19 février 1999) dûment enregistré au nom de la Fiducie Familiale Mailhot (copie que je ne détenais pas le 16 juillet) et pour laquelle Fiducie Familiale Mailhot je n’agissait [sic] à l’époque qu’à titre de fiduciaire, une copie des formulaires de renseignements sur un compte en fiducie daté [sic] du 28 janvier 2001 émanant de la banque TD Waterhouse pour le compte de la Fiducie Familiale Mailhot et détaillant son constituant ses bénéficiaires et son fiduciaire une copie du relevé de transactions sur titres de l’année (2004) émis par la banque TD Waterhouse pour et au nom de la Fiducie Familiale Mailhot et libellé à mon nom in trust comme fiduciaire.
+[15] Si je ne me fie qu’au document présenté lors de l’audience, une fiducie a été créée le 19 février 1999 et cette dernière a vendu en 2004 des titres qu’elle détenait. Selon la preuve, cette fiducie n’a pas déclaré les gains qu’elle a réalisés en 2004 et dans d’autres années, puisqu’elle n’a jamais produit de déclaration de revenus. À mon avis, l’appelant a cherché à cacher l’existence de la fiducie jusqu’à la dernière minute, soit jusqu'au moment où il n’avait plus le choix et qu'il fallait divulguer son existence puisqu’il risquait lui-même de se voir attribuer les gains qu’elle a réalisés en 2004.
+[16] Nonobstant l’attitude et le comportement de l’appelant, je conclus à l’existence de la fiducie, de sorte que le gain en capital attribué à l’appelant, mais réalisé en fait par la fiducie, doit être imposé entre les mains de la fiducie. Le montant imposable était de 133 734 $, soit la moitié du total des ventes de 267 468 $. On sait maintenant, cependant, que le montant de ces ventes ne s'élève qu'à 197 574 $.
+[17] En effet, l’appelant, dans sa déclaration de revenus, a déclaré un produit total de la disposition de ses titres de 321 316 $. Au stade de la vérification, on lui a attribué un montant additionnel de 267 468 $, dont la moitié, soit 133 734 $, représentait un gain en capital imposable étant donné qu’il n’y avait aucune preuve relative au coût d’acquisition de ces actions. Il s’agissait de ventes d’actions de la fiducie. La preuve présentée lors de l’audience démontre que l’appelant a omis de déclarer une transaction de 60 000 $ (59 700 $ + 300 $ de commission) portant sur des actions puisque le total des ventes de titres pour l’appelant en 2004 est de 392 399,96 $ si l'on inclut les commissions versées ou de 391 211,47 $ sans les commissions. Le gain en capital sur cette vente d’actions non déclarée doit donc être ajouté aux revenus de l’appelant pour son année d’imposition 2004 tout en prenant en considération le coût d’acquisition, qui se chiffre à 47 400 $. Si le gain est calculé en fonction du prix sans inclusion de la commission, il n’est pas nécessaire de déduire le montant de la commission.
+[18] Le deuxième point en litige, qui concerne les années d'imposition 2004 et 2005, est le refus du ministre de permettre à l'appelant de déduire une perte en capital résultant de la vente de 2 000 actions ordinaires de la société Agenda du Sportif Ltée (ci‑après « Agenda »), le motif du refus étant que le capital-actions indiqué dans la dernière déclaration de revenus de ladite société ne se composait que d'un total de 100 actions ordinaires. Les ventes d'actions ont eu lieu en 2003 et en 2004. Selon l'appelant, il avait vendu 1 000 actions en 2003 en obtenant un produit de disposition de 3 330 $ alors que leur coût d'acquisition avait été de 30 000 $, ce qui créait une perte de 26 670 $. Pour la transaction de 2004, le produit de disposition a été de 1 000 $. Comme le coût d'acquisition indiqué était de 25 000 $, il y a eu une perte de 24 000 $. La perte pour les deux opérations a donc été de 38 002 $ (55 000 $ ‑ 4 330 $ = 50 670 $ x ¾ = 38 002 $).
+[19] Agenda aurait été constituée le 25 avril 1986. Dans le registre des entreprises (système Cidreq), l'activité d’Agenda est décrite comme celle d'un commerce au détail d'articles de sport, et les deux seuls administrateurs nommés sont l'appelant et sa sœur. Selon l'appelant, Agenda faisait la promotion d'événements sportifs. L'adresse du siège social, selon le Cidreq, était, à l'époque de la constitution d'Agenda en société, la même que celle du bureau de l'appelant et elle n'a jamais été changée.
+[20] L'appelant a décrit Agenda comme étant un client. Il a dit en avoir été peut-être bien le fondateur et l'administrateur en 1986, mais a précisé qu'il n'avait pas été le comptable d’Agenda et qu'il ne s'était donc occupé ni de la tenue des livres ni des déclarations de revenus d’Agenda. Il a ajouté qu'il avait représenté Agenda dans une contestation sur une marque de commerce. Quand on a lui a montré l'imprimé du Cidreq, l'appelant a été étonné de voir que son nom y figurait toujours au 8 octobre 2009. Il a ajouté qu'il avait démissionné quelques mois après qu’Agenda fut constituée, mais il n’a produit aucune documentation à l’appui de cette affirmation.
+[21] Dans une déclaration de revenus d'Agenda (pièce I‑2) pour l'année d'imposition du 1er mai 1998 au 30 avril 1999, l'appelant est inscrit comme la personne avec qui communiquer. La déclaration indique que la compagnie est inactive. C'est l'appelant qui l'a signée en tant que cadre autorisé à signer, et il a donné comme son adresse la même adresse que celle de la société.
+[22] Dans la déclaration de revenus d’Agenda (pièce I‑3) pour l'année d'imposition du 1er mai 2000 au 30 avril 2001, l'adresse d’Agenda est toujours celle de l'appelant et c'est également l'endroit où se trouvent les livres comptables. La déclaration indique qu’Agenda a cessé ses activités en 1999, que l'appelant en était le président et qu'il détenait 90 % des actions ordinaires, qui étaient au nombre total de 100. Selon le bilan joint à la déclaration, il y avait un passif à court terme de 20 000 $, un dû à l'actionnaire de 35 000 $ et un billet à payer de 20 000 $. La déclaration est signée par l'appelant, qui indique qu’Agenda est en liquidation. Selon l'appelant, il a fait cela à titre de mandataire d'Agenda et ce n'est pas lui qui a dressé le bilan de celle-ci. Quelqu'un lui aurait remis le bilan mais il n’a pas nommé cette personne.
+[23] Selon l'appelant, il s'est porté acquéreur de 1 000 actions ordinaires d’Agenda le 1er juin 1989 et de 1 000 autres actions ordinaires le 1er août 1991. La contrepartie payée, soit 30 000 $ pour le premier achat et 25 000 $ pour le deuxième, correspondait à des honoraires que la société lui devait pour des services rendus.
+[24] Le contrat du 1er juin 1989 (pièce A-2, page 7) relatif au premier achat d'actions a été préparé par l'appelant avec l'aide d'un notaire. Agenda est nommé comme le vendeur et le prix d'achat est de 30 000 $ payable par la prestation de services professionnels par l'appelant à la société durant les deux années suivant la date du contrat. Il s'agit plus particulièrement des services requis pour la préparation d'une demande de marque de commerce. Dans le contrat, le vendeur (Agenda) déclare qu'il est le détenteur enregistré des actions ordinaires émises du capital-actions de la société. L'appelant a signé le contrat en son nom et au nom d’Agenda sans y annexer un affidavit du témoin de la signature. Il a témoigné qu'il avait signé à titre d'administrateur et qu'il a cessé d'être administrateur en août ou septembre 1989. Le contrat prévoit aussi que la vente inclut les droits aux raisons sociales et aux autres noms « corporatifs » Agenda du Sportif Ltée et les droits afférents aux marques de commerce.
+[25] Le contrat du 1er août 1991 (pièce A‑2, page 12) relatif au deuxième achat d'actions n'aurait pas été rédigé par l'appelant, mais il y aurait fait des corrections qu’il n’a pas précisées. Ce contrat est cependant presque identique au premier à l'exception du prix, qui est de 25 000 $ pour les 1 000 actions ordinaires. Agenda est le vendeur et elle déclare dans le contrat qu'elle est la détentrice enregistrée desdites actions. Dans ce cas aussi, la vente comprend tous les droits inhérents aux actions vendues et particulièrement les droits aux raisons sociales et aux autres noms « corporatifs » et les droits afférents aux marques de commerce. La contrepartie est de 25 000 $ et est payable par la prestation de services professionnels par l'appelant à la société, au besoin, durant les trois années suivant la date du contrat, soit, plus particulièrement, les services requis pour la préservation de la demande de marque de commerce et la défense de la demande de marque de commerce. Les signatures étant illisibles, l'appelant a reconnu la sienne et a déclaré que la signature pour la société est celle d'un dénommé J. Bolf, qui, selon l'appelant, est devenu actionnaire et administrateur de la société après lui. L'appelant a renvoyé la Cour à une liste des actionnaires de la société (pièce A‑2, page 23) où on trouve son nom et, sous la rubrique « enregistrement », une date de début du 1er août 1991. On y voit aussi le nom de Lina Mailhot, la sœur de l'appelant, avec une date de début du 1er juillet 1991, le nom de J. Bolf avec une date de début du 30 octobre 1998 et, finalement, le nom d’un monsieur Assaraf avec une date de début du 26 juin 2000. L'appelant a témoigné qu'il a été actionnaire de 1986 à 2004 et que J. Bolf et monsieur Assaraf étaient les administrateurs. Il y a un dernier actionnaire nommé sur cette liste, soit une entité nommée En direct TV. La date de début indiquée pour celle-ci sous la rubrique « enregistrement » est le 15 décembre 2003
+[26] En direct TV est cliente de l'appelant. Elle s'est portée acquéreure des actions ordinaires d'Agenda, achetant, dans un premier temps, le 15 décembre 2003, 1 000 actions ordinaires, et dans un deuxième temps, le 15 janvier 2004, soit environ 30 jours plus tard, l'autre bloc de 1 000 actions ordinaires de l'appelant. Deux contrats ont été produits en preuve afin de prouver ces deux transactions (pièce A‑2, pages 17 et 20). L'appelant a dit ne pas les avoir rédigés, mais il a dit qu'il y avait apporté des corrections, sans toutefois préciser lesquelles. Ces deux contrats et les deux contrats relatifs à l'achat d'actions d'Agenda par l'appelant sont très similaires, à tel point, d'ailleurs, qu'ils ont le même police de caractères. Selon, l'appelant, il avait convaincu sa cliente d'acheter ses actions parce que c'était avantageux pour elle.
+[27] Le prix de vente des premières 1 000 actions ordinaires a été de 3 330 $ payable comme suit :
+a) l'acquéreur a fourni et devait fournir au vendeur (l'appelant) au Canada et aux États-Unis, au besoin, des services de télécommunications ainsi que ses services de réception de programmation des stations américaines HBO, Disney Channel, Cinemax Speed et autres pour l'année suivante, à savoir du 1er janvier 2003 au 31 décembre 2003, le tout ayant une valeur de 3 330 $;
+b) l'acquéreur devait fournir en consignation au vendeur au Canada tous les équipements requis afin de recevoir ladite programmation américaine ainsi que toutes les cartes d'accès requises au cours de l'année en question;
+c) l'acquéreur devait fournir en consignation au vendeur ses services de paiement des frais engendrés par la fourniture de ladite programmation américaine durant l'année en question.
+[28] De plus, le vendeur (l'appelant) déclarait à l'acquéreur qu'il continuerait de s'occuper seul de la promotion de la société Agenda. Le contrat prévoyait également qu'en plus des 1 000 actions ordinaires, la vente comprenait tous les droits inhérents aux actions et particulièrement les droits aux raisons sociales et aux autres noms « corporatifs Agenda du Sportif Ltée et les droits afférents aux marques de commerce enregistrées et/ou enregistrables, aux inventions, aux brevets, déposés ou non et à l'usage des images de la société et de ses processus de publicité et des autres produits de publicité.
+[29] Dans le deuxième contrat de vente de 1 000 actions ordinaires (celui du 15 janvier 2004), on trouve des clauses identiques stipulant que la transaction comprend les droits afférents aux marques de commerce, etc., sauf que le prix est de 1 000 $ et l'acquéreur doit fournir ses services de réception de programmation des stations américaines HBO 2 et Cinemax pour l'année du 1er janvier au 31 décembre 2004.
+[30] L'appelant a signé les deux contrats, en sa qualité personnelle. Pour l'acquéreur, une signature illisible apparaît au-dessus de « En direct TV ». Il n'y a ni affidavit du témoin de la signature ni sceau de la société. L'appelant a dit que cette signature était celle d'un dénommé Lono, qui est actionnaire et administrateur de Lono T.V. Selon les contrats, En direct TV serait une entité juridique exerçant ses activités à Plattsburgh dans l'État de New York.
+[31] Le vérificateur, Robert Villemure, a témoigné que l'appelant, dans ses déclarations de revenus pour les années d'imposition 2003 et 2004, n'a pas démandé de déduction de pertes au titre d'un placement d'entreprise. Dès qu'une telle déduction a été demandée, il a vérifié les déclarations de revenus d'Agenda et a constaté que, selon celles de 1998, de 1999 et de 2001, l'appelant détenait 100 % des actions d'Agenda. Aux états financiers d'Agenda, il a constaté que son capital-actions était de 3 000 $ en 1994, de 0 $ en 1995, de 5 000 $ en 1996, de 0 $ en 1997, de 0 $ en 1998 avec la mention « société inactive », de 0 $ en 1999 avec la mention « société a cessé d'opérer ». Pour 2000 ‑ 2001, l'état financier indique un capital autorisé de 100 $ avec trois actions émises et trois actionnaires (pièce I-3). Cette dernière pièce a été signée par l'appelant et présente encore une contradiction frappante avec les deux achats d'actions d'Agenda, de 1 000 actions chacun, qu'a faits l'appelant en 1989 et en 1991.
+[32] Ce qui est également contradictoire est le fait qu'une société soit en mesure de détenir et de vendre ses propres actions. On souscrit habituellement à des actions d'une société au moyen d'un investissement. En l'espèce, Agenda a vendu de ses propres actions; de plus, la vente comprenait les droits aux raisons sociales et aux autres noms « corporatifs » et les droits afférents aux marques de commerce, et ce, selon les deux contrats. Elle les vendait donc deux fois. Doit-on conclure qu'Agenda ne voulait plus continuer à faire des affaires? Il s'agit de plus qu'une vente d'actions. Il faut aussi s'interroger sur le fait que l'appelant a agi pour les deux parties à ces contrats. L'appelant affirme, dans un premier temps, qu'il a démissionné en tant qu'administrateur quelques mois après qu'Agenda fut constituée, soit en 1986, mais il a signé pour Agenda les deux contrats d'achat, soit celui de 1989 et celui de 1991. Si Agenda était sa cliente, comme il le prétend, et qu'il était l'acquéreur, l'appelant, qui est avocat, se trouvait dans une situation évidente de conflit d'intérêt. Il faut se rappeler qu'il a signé aussi la déclaration de revenus d'Agenda pour 2000 ‑ 2001.
+[33] Comment peut-on acheter 2 000 actions qui n'ont jamais été émises? Comment peut-on offrir des services professionnels futurs en paiement du prix d'achat sans qu'il y ait de façon prévue au contrat de rendre compte de la prestation de ces services?
+[34] Agenda était inactive en 1998 et a cessé ses activités en 1999. Il y avait en 2000 seulement trois actions émises, selon ses états financiers, et, qui plus est, son capital-actions n'était que de 3 000 $ en 1994. Que s'est-il donc passé entre 1991 et 1994 qui expliquerait pourquoi le capital-actions d'Agenda serait passé de 55 000 $ après les transactions de 1989 et de 1991 à 3 000 $ en 1994? Il faut aussi s'interroger sur les motifs qui auraient pu inciter En direct TV à acheter les 2 000 actions de l'appelant en 2003 et en 2004. Il n'y a aucune preuve établissant que ces actions avaient une valeur quelconque étant donné qu'Agenda a cessé ses activités en 1999. L'appelant a soutenu que cet achat par En direct TV serait avantageux pour cette dernière, mais il n'a rien précisé concernant ce prétendu avantage.
+[35] Les deux contrats de vente d'actions de l'appelant à En direct TV renferment eux aussi la condition selon laquelle la vente comprend, en plus des actions, les droits aux raisons sociales et aux autres noms « corporatifs », et aux marques de commerce, aux inventions, aux brevets, etc. Pourquoi inclure ces éléments dans deux contrats et s'agit-il d'actifs que l'appelant détenait réellement? Il faut se rappeler ici que l'appelant est avocat. Malgré ces deux ventes, les contrats prévoient que l'appelant va continuer à s'occuper seul de la promotion de la société Agenda, laquelle a cessé ses activités en 1999. Aucun certificat d'actions n'a été produit en preuve.
+[36] À mon avis, toutes ces transactions et la documentation s'y rapportant sont fictifs, ayant été inventés de toutes pièces par l'appelant dans le but de créer des déductions auxquelles il n'a pas droit. Toutes ces transactions sont tout à fait invraisemblables. L'appelant ne s'est pas déchargé de son fardeau de prouver qu'il avait droit à la déduction qu'il demandait au titre de la perte.
+[37] Pour 2005, l'appelant s'est vu refuser la déduction, dans le calcul de son revenu de profession libérale, d'un montant total de 14 175 $ à l'égard de créances irrécouvrables. Ce montant est la somme de trois factures dont les détails sont les suivants :
+Date
+Client
+Montant
+$
+1ère facture
+2e facture
+3e facture
+31 mai 2005
+1er septembre 2005
+1er décembre 2005
+M. Assaraf
+En direct TV
+—
+1 500
+12 175
+500
+[38] Quoique l'appelant n'ait pas invoqué le secret professionnel relativement à l'identité de ses clients, je n'indique pas le nom du client visé par la troisième facture. J'ai choisi de reproduire le nom des deux premiers clients puisqu'ils sont connus, étant, dans un cas, actionnaire et administrateur de la société et, dans l'autre, l'acquéreur des actions de l'appelant.
+[39] Dans sa déclaration de revenus de 2005, l'appelant ne demande aucune déduction pour mauvaises créances. Il a déclaré un revenu brut de profession libérale de 15 250 $, qui donnait, après les autres déductions demandées, un revenu net de profession libérale de zéro. Ce n'est que le 21 avril 2006, au stade de l'opposition, que l'appelant a déposé un état des revenus et des dépenses modifiés, où il indique une déduction au titre de mauvaises créances (page 49 de la pièce A-2) et une perte nette de 24 900 $. En ce qui concerne les autres revenus initialement déclarés, il y a un revenu de REER de 159 560,58 $ et une déduction de ce même montant. La vérification a permis de constater que le montant du retrait de son REER était plutôt de l'ordre de 267 000 $, et l'ARC a accordé une déduction de 25 000 $ à l'égard de ce montant. L'appelant, en contre-interrogatoire, a dit ne pas se souvenir qu'on avait porté son revenu de REER à 267 000 $. Il faut aussi noter que c'est après avoir été informé de cette augmentation qu'il a demandé à déduire les mauvaises créances de ses revenus de 2005.
+[40] L'appelant a expliqué son faible revenu de profession libérale par un accident qu'il aurait eu en 2005. Il a reconnu cependant, avoir fait plusieurs voyages pour des clients en 2004, en 2005 et en 2006, mais a dit que ses honoraires ont été facturés par après car il s'agissait de montants forfaitaires.
+[41] La créance du 31 mai 2005 a fait l'objet d'une mise en demeure le 4 juillet 2005. À la suite de cela, le client aurait contacté l'appelant pour l'informer qu'il ne paierait que 500 $, lorsqu'il le pourrait, et qu'il retournait vivre auprès de sa famille en Californie. L'appelant aurait fait un suivi en décembre et le client avait quitté le Québec sans laisser d'adresse où on pouvait le joindre.
+[42] La deuxième facture, destinée à En direct TV, a été suivie d'une mise en demeure en date du 26 octobre 2005 adressée à M. P. Lono à la même adresse que celle d'En direct TV. La cliente aurait alors informé l'appelant qu'elle avait cessé ses activités au Canada à la suite de la perte de son permis et qu'elle n'avait donc aucun actif au Canada. L'appelant aurait par la suite consulté un avocat de Plattsburgh, mais il en aurait coûté trop cher à l'appelant de poursuivre ses démarches.
+[43] La troisième facture, en date du 1er décembre, a été suivie, le 22 décembre 2005, d'une mise en demeure exigeant le paiement dans les trois jours suivants; sinon des poursuites seraient entamées. Le client aurait avisé l'appelant qu'il se remettait d'une faillite personnelle et qu'il n'était pas en mesure de payer puisqu'il vivait aux crochets de son frère.
+[44] Je dois préciser au départ qu'il me paraît assez étrange que l'appelant n'ait pas cru bon de déduire ces trois mauvaises créances dans sa déclaration de revenus de 2005 et qu'il ait attendu que l'ARC augmente son revenu de REER et lui refuse la déduction des autres dépenses. Il n'a d'ailleurs fourni aucune explication. À part son témoignage selon lequel ces trois mauvaises créances faisaient partie de ses revenus de profession libérale de 15 250 $ déclarés en 2005, l'appelant n'a fourni aucune précision concernant ses revenus de profession libérale de 2005. Si on déduit les mauvaises créances, ses autres revenus de profession libérale seraient de l'ordre de 1 075 $. Cela me paraît invraisemblable malgré le fait qu'il ait subi un accident en 2005, et le tout met en doute son affirmation que ces trois mauvaises créances ont été déclarées comme revenus de profession libérale pour son année d'imposition 2005. Il s'agit de presque le montant total de ses revenus de profession libérale pour l'année 2005.
+[45] Je veux croire l'appelant quand il dit avoir fait des démarches pour se faire payer et avoir envoyé des mises en demeure — cette dernière mesure ayant été, à mon avis, prise très peu de temps après l'envoi des factures — mais si les créances étaient jugées irrécouvrables dans si peu de temps, pourquoi ne les a-t-il pas déduites dans sa déclaration de revenus de 2005? Ces trois mauvaises créances sont, à mon avis, entachées des mêmes défauts que les pertes au titre d'un placement d'entreprise. L'appelant ne s'est pas déchargé de son fardeau de la preuve.
+[46] Pour cette même année d'imposition 2005, l'appelant s'est vu refuser par le ministre la déduction pour d'amortissement relative aux véhicules à moteur au motif qu'il n'avait pu produire ni de registre de ses déplacements, ni de calcul du kilométrage parcouru dans l'exercice de sa profession.
+[47] Dans une lettre adressée à l'appelant le 18 mai 2007, l'agent des appels, madame Célyne Houde, a demandé à l'appelant de lui fournir un formulaire T2032 dûment rempli contenant le calcul de l'amortissement relatif aux véhicules, et l'appelant lui a fait parvenir le formulaire en question le 4 juin suivant. Dans sa lettre du 4 juin, l'appelant a déclaré qu'il utilisait deux automobiles pour son travail et qu'elles étaient utilisées à 50 % du temps pour son travail en 2005. Le total de l'amortissement calculé sur le formulaire ne correspond pas du tout avec le montant de la déduction pour amortissement relative aux deux automobiles dans sa déclaration de revenus de 2005. Si j'exclus l'amortissement à l'égard du mobilier, le total selon le formulaire est 22 860,21 $ alors que la déclaration de revenus indique un montant de 9 600 $. Le formulaire expédié par l'appelant n'a pas été accepté par madame Houde parce que le plafond de la valeur amortissable d'une automobile était de 30 000 $ et qu'elle n'avait reçu aucune preuve quant au kilométrage ni le registre des déplacements de l'appelant, sauf celui de 2004.
+[48] Dans son témoignage à l'audience, l'appelant a dit n'avoir utilisé qu'une seule voiture aux fins d'affaires en 2005 et s'en être servi à 100 % à ces fins, car il avait deux autres voitures qu'il utilisait à ses fins personnelles. Il a déclaré que les 9 600 $ représentent 30 % du prix d'achat de sa voiture utilisée aux fins d'affaires, voiture qu'il avait achetée en 2005 ou en 2003 à un prix de 38 901,46 $ (pages 34 et 35 de la pièce A-2), et il a fourni le registre de ses déplacements et du kilométrage parcouru, mais seulement pour 2004. Le document aux pages 34 et 35 de la pièce A‑2 est pratiquement illisible et ne confirme donc rien.
+[49] En contre-interrogatoire, quand il a été question de l'accident qu'il a eu en 2005, l'appelant a déclaré avoir fait plusieurs déplacements, et ce, durant les années 2004, 2005 et 2006, et a dit que, nonobstant le fait qu'il facturait des montants forfaitaires, les dépenses indiquées étaient réelles.
+[50] Il est impossible de comprendre ce que l'appelant a déduit relativement à l'amortissement d'automobile(s) dans sa déclaration de revenus pour l'année d'imposition 2005; tout ce qu'on sait, c'est qu'il y a déduit un montant de 9 600 $. Ce n'est qu'après la demande de l'agente des appels que l'appelant a fourni le détail du calcul de la déduction, qui, cette fois-ci, était de 22 860 $ pour deux voitures. Il a fourni également son kilométrage parcouru aux fins d'affaires pour 2004, mais pas pour 2005. Aucune facture lisible pouvant établir le coût d'acquisition des automobiles n'a été produite. Qui plus est, l'appelant dit maintenant qu'il n'a utilisé qu'une seule voiture aux fins d'affaires, les deux autres étant utilisées à des fins personnelles. Voilà qui vient contredire ce qu'il a affirmé à madame Houde, à savoir que deux voitures étaient utilisées à 50 % pour son travail en 2005.
+[51] Tout cela laisse planer un doute sur la véracité de ce que prétend l'appelant. À mon avis, le ministre avait raison de refuser la déduction pour amortissement car il lui était impossible d'établir le montant d'une telle déduction selon les informations fournies par l'appelant, tout comme il m'est impossible de lui accorder la déduction compte tenu de la preuve qu'il a présentée.
+[52] L'appelant n'a pas soulevé dans son avis d'appel la question de l'amortissement en ce qui concerne son mobilier. Cette question n'est donc pas en litige.
+[53] L'appel de la cotisation de l'appelant visant l'année d'imposition 2004 est admis en partie et la cotisation est déférée au ministre pour nouvel examen et nouvelle cotisation. L'appel de la cotisation visant l'année d'imposition 2005 est rejeté.
+Signé à Ottawa, Canada, ce 22e jour d’avril 2010.
+« François Angers »
+Juge Angers
+RÉFÉRENCE : 2010 CCI 165
+Nº DES DOSSIERS DE LA COUR : 2009-1047(IT)I, 2009-1170(IT)I
+INTITULÉ DE LA CAUSE : Robert Mailhot et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 21 octobre 2009
+MOTIFS DU JUGEMENT PAR : L'honorable juge François Angers
+DATE DU JUGEMENT : le 22 avril 2010
+COMPARUTIONS :
+Pour l'appelant :
+l'appelant lui-même
+Avocates de l'intimée :
+Me Ilinca Ghibut
+Me Christa Akey
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

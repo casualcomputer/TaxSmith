@@ -1,0 +1,148 @@
+---
+title: "Abtan c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27765/index.do"
+last_modified: "2005-08-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 482"
+citation2: ""
+neutral_citation: "2005 CCI 482"
+decision_date: "2005-08-09"
+language: "fr"
+item_id: "27765"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 318
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:40:08.445000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1847d9a87e45a3bad23e47754d6decc3cc41fbbe5f22f402d8c680cccc3c71f4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Abtan c. La Reine
+
+- Citation: 2005 CCI 482
+- Decision date: 2005-08-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 318, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Abtan c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-08-09
+Référence neutre
+2005 CCI 482
+Numéro de dossier
+2004-3125(IT)I
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-3125(IT)I
+ENTRE :
+RAPHAËL ROBERT ABTAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 5 juillet 2005 à Toronto (Ontario).
+Devant : L’honorable D.G.H. Bowman, juge en chef
+Comparutions :
+Pour l’appelant : L’appelant lui-même
+Avocate de l’intimée : Me Anik Jodouin
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2001 est rejeté.
+Signé à Toronto (Ontario), ce 9e jour d’août 2005.
+« D.G.H. Bowman »
+Juge en chef Bowman
+Référence : 2005CCI482
+Date : 20050809
+Dossier : 2004-3125(IT)I
+ENTRE :
+RAPHAËL ROBERT ABTAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge en chef Bowman
+[1] Il s’agit d’un appel d’une cotisation établie à l’égard de l’année d’imposition 2001. Les débats se sont déroulés en français et en anglais et, par conséquent, conformément à l’article 20 de la Loi sur les langues officielles, le jugement est rendu simultanément dans les deux langues officielles.
+[2] La question précise à trancher est de savoir si l’appelant, qui a fait faillite en 1999, et qui, en 2001, était toujours un failli non libéré, avait le droit de déduire en vertu de l’article 111 de la Loi de l’impôt sur le revenu, dans le calcul de son revenu imposable pour 2001, une perte autre qu’une perte en capital découlant essentiellement d’une perte finale subie en 2000 par suite de la vente d’immeubles.
+[3] Il y avait confusion dans l’esprit du ministre quant à la provenance du chiffre de 82 366 $. Le ministre semble avoir admis qu’en 2000 l’appelant a subi une perte autre qu’en capital correspondant à 50 % de 230 000 $, soit 115 000 $, ce qui a donné une perte autre qu’en capital nette, après avoir tenu compte des autres revenus de l’appelant, de 57 000 $.
+[4] Le témoin de l’intimée n’a pas pu préciser si les 57 000 $ étaient inclus dans les 82 366 $ déduits par l’appelant dans sa déclaration de 2001.
+[5] La réponse initiale à l’avis d’appel renfermait un certain nombre d’hypothèses erronées ou non pertinentes. Toutefois, peu importe les chiffres, l’intimée a adopté la position selon laquelle les pertes autres qu’en capital subies dans des années antérieures ne peuvent pas faire l’objet d’un report prospectif à une année où le contribuable est un failli non libéré.
+[6] La perte autre qu’une perte en capital que l’appelant a voulu ainsi reporter s’élevait à 82 366 $ et a été déclarée dans sa déclaration de revenus pour 2001. L’intimée ne met pas en doute le montant de la perte, mais elle nie que la perte soit déductible en 2001 parce que, pendant la période où l’appelant était en faillite, il ne pouvait pas, dans le calcul de son revenu imposable, déduire en vertu de l’article 111 des pertes subies dans des années antérieures. L’appelant n’avait pas encore sa libération inconditionnelle.
+[7] Le paragraphe 128(2) de la Loi de l’impôt sur le revenu indique en partie ce qui suit :
+128(2) Faillite d’un particulier. Lorsqu’un particulier est en faillite, les règles suivantes s’appliquent :
+[…]
+128(2) Where individual bankrupt. Where an individual has become a bankrupt, the following rules are applicable:
+[...]
+f) malgré l’alinéa e), le particulier doit produire une déclaration distincte de son revenu pour toute année d’imposition durant laquelle il a été en faillite, calculé comme si :
+[…]
+(f) notwithstanding paragraph (e), the individual shall file a separate return of the individual’s income for any taxation year during which the individual was a bankrupt, computed as if
+[...]
+(iii) dans le calcul du revenu imposable du particulier pour l’année, aucun montant n’était déductible en application de l’un des alinéas 110(1)d) à d.3) ou de l’article 110.6 au titre d’un montant inclus dans le revenu en application du sous‑alinéa e)(i), et aucun montant n’était déductible selon l’article 111,
+[…]
+(iii) in computing the individual’s taxable income for the year, no amount were deductible under any of paragraphs 110(1)(d) to (d.3) and section 110.6 in respect of an amount included in income under subparagraph (e)(i), and no amount were deductible under section 111, and
+[...]
+g) malgré les sous-alinéas e)(ii) et (iii) et f)(iii) et (iv), lorsque le particulier obtient sa libération inconditionnelle:
+(g) notwithstanding subparagraphs (e)(ii) and (iii) and (f)(iii) and (iv), where at any time an individual was discharged absolutely from bankruptcy,
+(i) dans le calcul de son revenu imposable pour une année d’imposition se terminant après la libération, aucun montant ne peut être déduit en application de l’article 111 au titre de pertes pour les années d’imposition s’étant terminées avant la libération.
+(i) in computing the individual’s taxable income for any taxation year that ends after that time, no amount shall be deducted under section 111 in respect of losses for taxation years that ended before that time.
+[8] La preuve qu’a présentée M. Abtan indique clairement que le montant de 82 366 $ déduit à titre de « pertes autres que des pertes en capital d’autres années » à la ligne 252 de sa déclaration de revenus pour 2001 correspondait à la partie non utilisée de la perte qu’il a subie en 2000.
+[9] M. Abtan fait ressortir ce qui, selon lui, constitue une incohérence. En effet, il lui a été permis de déduire, dans le calcul de son revenu de 2000, une partie de la perte qu’il avait subie dans cette année-là, mais il ne lui a pas été permis de déduire en vertu de l’article 111, dans le calcul de son revenu imposable de 2001, la partie non utilisée qu’il cherche à reporter à l’année 2001. La réponse simple à cet argument est que, si illogique que cela puisse paraître, la Loi de l’impôt sur le revenu permet, dans le calcul du revenu, la déduction de pertes subies dans l’année par un failli, mais ne permet pas, dans le calcul du revenu imposable, de déduire en vertu de l’article 111 des pertes subies dans des années antérieures. Le résultat est malheureux, mais les dispositions de la Loi auxquelles je me suis référé sont claires.
+[10] L’appel est rejeté.
+Signé à Toronto (Ontario), ce 9e jour d’août 2005.
+« D.G.H. Bowman »
+Juge en chef Bowman
+RÉFÉRENCE :
+2005CCI482
+NO DU DOSSIER :
+2004-3125(IT)I
+INTITULÉ DE LA CAUSE :
+Raphaël Robert Abtan c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+5 juillet 2005
+MOTIFS DU JUGEMENT PAR :
+L’honorable D.G.H. Bowman, juge en chef
+DATE DU JUGEMENT :
+Le 9 août 2005
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Anik Jodouin
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,489 @@
+---
+title: "Bolduc c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/235935/index.do"
+last_modified: "2017-10-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 CCI 203"
+citation2: ""
+neutral_citation: "2017 CCI 203"
+decision_date: "2017-10-10"
+language: "fr"
+item_id: "235935"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2184
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:20:24.918000+00:00"
+cases_cited_count: 17
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6548d9ae5070aea298e3a1a644ffd23afdda1cdaf3aabf426b5a3685e0d324e5"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bolduc c. La Reine
+
+- Citation: 2017 CCI 203
+- Decision date: 2017-10-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2184, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bolduc c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-10-10
+Référence neutre
+2017 CCI 203
+Numéro de dossier
+2012-816(IT)G
+Juges et Officiers taxateurs
+Johanne D’Auray
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-816(IT)G
+ENTRE :
+BRIAN BOLDUC,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 9 février 2017 à Hamilton (Ontario),
+Observations écrites présentées par l’intimée le 30 mars 2017 et par l’appelant le 28 avril 2017.
+Devant : L’honorable juge Johanne D’Auray
+Comparutions
+Avocats de l’appelant
+Me Duane R. Milot
+Me Igor Kastelyanets
+Avocats de l’intimée
+Me Dominique Gallant
+Me Meaghan Mahadeo
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2009 est accueilli avec dépens.
+Signé à Toronto (Ontario), ce 10e jour d’octobre 2017.
+« Johanne D’Auray »
+La juge D’Auray
+Traduction certifiée conforme
+ce 2e jour d’octobre 2018.
+Mario Lagacé, jurilinguiste
+Référence : 2017 CCI 203
+Date : 20171010
+Dossier : 2012-816(IT)G
+ENTRE :
+BRIAN BOLDUC,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge D’Auray
+I. APERÇU
+[1] Brian Bolduc (l’« appelant ») a retenu les services de Solutions 21 Financial (« Solutions 21 ») pour préparer et produire sa déclaration de revenus pour l’année d’imposition 2009.
+[2] Dans le calcul de son revenu pour l’année d’imposition 2009, l’appelant a déclaré une perte d’entreprise importante, même s’il n’exploitait pas une entreprise cette année-là.
+[3] Le ministre du Revenu national (le « ministre ») a établi une nouvelle cotisation pour l’appelant dans laquelle il refusait la perte d’entreprise et imposait des pénalités pour faute lourde conformément au paragraphe 163(2) de la Loi de l’impôt sur le revenu (la « Loi ») [1] .
+[4] Le paragraphe 163(2) de la Loi impose une pénalité lorsqu’un contribuable, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé dans sa déclaration de revenus.
+[5] L’appelant affirme qu’avant de signer sa déclaration de revenus pour l’année d’imposition 2009, il l’a examinée attentivement et a demandé au représentant de Solutions 21 pourquoi une perte d’entreprise était déclarée. Satisfait des réponses qui lui ont été données, l’appelant a décidé de signer et de produire sa déclaration de revenus avec la déduction demandée.
+[6] L’appelant a affirmé qu’il n’a pas sciemment fait un faux énoncé et qu’il n’a pas fait preuve d’aveuglement volontaire à ce sujet lorsqu’il a signé et produit sa déclaration de revenus pour l’année d’imposition 2009. L’appelant soutient de plus qu’il n’a pas fait un faux énoncé dans des circonstances équivalant à faute lourde.
+[7] L’intimée soutient que l’appelant savait qu’il n’exploitait pas une entreprise au cours de son année d’imposition 2009, mais a quand même déclaré une perte d’entreprise importante. Par conséquent, en signant la déclaration de revenus, l’appelant a sciemment fait un faux énoncé.
+[8] L’intimée soutient également que l’appelant a fait preuve d’aveuglement volontaire à l’égard du faux énoncé et, par conséquent, la cotisation établie par le ministre en vertu de laquelle une pénalité a été imposée conformément au paragraphe 163(2) de la Loi devrait être maintenue.
+II. FAITS
+A. Déclaration de revenus de 2009
+[9] En produisant sa déclaration de revenus pour l’année d’imposition 2009, l’appelant a déclaré une perte d’entreprise s’élevant à 326 127 $. L’appelant a appliqué 82 963 $ de cette perte d’entreprise à son revenu dans l’année d’imposition 2009 et a demandé à reporter rétrospectivement le reste de la perte, qui s’élevait à 243 164 $. Le reste de la perte aurait été appliqué aux années d’imposition 2006, 2007 et 2008, de la façon suivante : 78 514 $ (2006), 83 860 $ (2007) et 80 790 $ (2008).
+[10] Le 12 novembre 2010, le ministre a établi une cotisation pour l’année d’imposition 2009 et a refusé la perte d’entreprise de 326 127 $. De plus, le ministre a appliqué une pénalité de 42 029 $ conformément au paragraphe 163(2) de la Loi.
+[11] L’appelant a interjeté appel de cette cotisation devant la Cour canadienne de l’impôt le 6 février 2012.
+B. L’appelant
+[12] L’appelant est né le 13 octobre 1977, et a obtenu son diplôme d’études secondaires en 1996 [2] . Après ses études secondaires, l’appelant a suivi un programme de technicien en génie électrique au Collège Conestoga.
+[13] Pour toutes les périodes pertinentes, l’appelant travaillait à Toyota Manufacturing comme chef d’équipe de la production. Avant de travailler pour Toyota, l’appelant avait travaillé comme préposé à un poste d’essence, comme installateur de système de chauffage et de refroidissement, et comme assembleur de panneaux de commande [3] .
+[14] L’appelant a commencé à travailler pour Toyota en octobre 2001 [4] . Il a commencé comme opérateur d’équipement mobile et a éventuellement été promu au rôle de chef d’équipe de la production en novembre 2007. En tant que chef d’équipe, il supervisait six employés.
+[15] L’appelant n’a pas de formation en fiscalité, en droit des affaires ou en comptabilité et il possède des connaissances minimes dans ces domaines [5] . Il a témoigné en disant que sa connaissance de la Loi était pratiquement nulle [6] .
+C. Déclarations de revenus antérieures
+[16] L’appelant produit ses déclarations de revenus depuis 1993, mais il ne les a jamais préparées lui-même.
+[17] Au début, l’appelant avait eu recours à H&R Block pour la préparation de ses déclarations de revenus. Il a affirmé qu’il payait H&R Block environ 100 $ à 120 $. Pour économiser sur ces frais, l’appelant a demandé à sa mère de préparer ses déclarations de revenus.
+[18] En ce qui a trait à son année d’imposition 2007, l’appelant a participé au Régime d’accession à la propriété (le « RAP »). En vertu de ce régime, l’appelant a emprunté une somme à partir de son régime enregistré d’épargne-retraite (REER) en vue de l’achat d’une maison [7] . L’appelant a déclaré qu’en préparant sa déclaration pour cette année-là, sa mère a fait une erreur de calcul en raison du RAP. Jusqu’en 2008, lorsque l’appelant a commencé à faire appel aux services de Solutions 21, les déclarations de revenus de l’appelant comprenaient toujours les mêmes éléments, son revenu d’emploi, ses cotisations à un REER et des crédits pour frais de scolarité.
+D. Solutions 21
+[19] À partir de l’année d’imposition 2008, l’appelant a retenu les services de Solutions 21 pour l’aider dans ses affaires fiscales et pour préparer ses déclarations de revenus et celles de son épouse.
+[20] L’appelant a été amené à faire affaire avec Solutions 21 par Mme Linda Lockhart, la tante de son épouse, et son mari, M. Alex Pimentel.
+[21] Mme Lockhart a témoigné en disant qu’elle croyait que ce serait une bonne idée pour l’appelant de commencer à faire affaire avec Solutions 21, puisqu’il fondait une famille et achetait une maison [8] .
+[22] Mme Lockhart connaissait l’appelant, qui était marié à sa nièce Mandy Bolduc, depuis 17 ans [9] . Elle était très proche de Mandy. Mme Lockhart a affirmé qu’elle voyait l’appelant et son épouse plusieurs fois par mois [10] .
+[23] Mme Lockhart croyait que Solutions 21 était une organisation de planification fiscale. C’est son époux à l’époque, M. Pimentel, qui l’avait amené à faire affaire avec Solutions 21.
+[24] Solutions 21 a été recommandé à M. Pimentel par un collègue de travail à Denso, Tim Black [11] . M. Pimentel a participé à un séminaire de Solutions 21 en 2006. Il a ensuite commencé à avoir recours aux services de Solution 21 en 2006 et a participé à leur programme Stocklogics [12] .
+[25] Mme Lockhart a participé à sa première réunion avec Solutions 21 en 2007 et a noté qu’il y avait de 40 à 50 participants [13] . Lors de la réunion, les participants avaient l’occasion de poser des questions alors que d’autres ont fait part de leurs histoires personnelles relatives à leur expérience réussie avec les services de Solutions 21 [14] .
+[26] Mme Lockhart et M. Pimentel avaient recours à Solutions 21 depuis 2006 pour les services suivants [15] : la préparation de déclarations de revenus pour 2006 et 2007 [16] , une consultation hypothécaire et l’achat d’actions et d’obligations.
+[27] Mme Lockhart a dit à l’appelant que les conseillers de Solutions 21 étaient des experts qui avaient été très utiles et fiables. Elle a décrit les deux personnes principales de l’organisation, Mme Janet Perry et M. Alrich Parkins, comme des conseillers très instruits, chevronnés et dignes de confiance.
+[28] Mme Lockhart avait l’impression que Mme Perry et M. Parkins étaient très professionnels et bien informés dans le domaine des finances, de la préparation de déclarations de revenus, dans les REER et dans la consolidation de dettes [17] . Elle a affirmé qu’ils s’annonçaient en tant que conseillers financiers enregistrés.
+[29] En outre, Mme Lockhart a informé l’appelant que Solutions 21 lui avait recommandé M. Armavidis, qui était un courtier en hypothèques pour TD Canada Trust [18] .
+[30] Mme Lockhart a témoigné en disant qu’elle avait effectué la recherche suivante sur Solutions 21 et avait transmis cette information à l’appelant [19] :
+- Elle a vérifié si des plaintes avaient été déposées contre Solutions 21 auprès du Bureau d’éthique commerciale [20] . Après avoir trouvé Solutions 21 sur le site du Bureau d’éthique commerciale, elle n’a trouvé aucune mauvaise évaluation ou alerte à son sujet.
+- Elle a effectué des recherches sur Google concernant Solutions 21, Mme Perry, M. Parkins et M. Armavidis, sans rien trouver de négatif ou d’inquiétant les concernant. À son avis, si quelque chose d’illégitime était relié à Solutions 21, cela serait ressorti dans ses recherches sur Google [21] .
+- Elle a regardé une vidéo sur YouTube d’une entrevue de M. Parkins sur la station CityTV au sujet de Solutions 21 [22] .
+[31] Avant de participer à sa première réunion avec Solutions 21 en novembre 2008, l’appelant a posé des questions à Mme Lockhart au sujet de l’organisation. Il s’est aussi informé des rôles de Mme Perry et de M. Parkins, et des services qu’ils avaient procurés à Mme Lockhart.
+E. Première réunion de l’appelant avec Solutions 21
+[32] L’appelant a rencontré Solutions 21 la première fois en novembre 2008 à la résidence de Mme Lockhart et de M. Pimentel. Mme Perry et M. Parkins animaient le séminaire de Solutions 21. Environ huit ou neuf personnes ont participé au séminaire, y compris l’appelant, son épouse, Mme Bolduc, Mme Lockhart, M. Pimentel et des parents et amis de M. Pimentel [23] .
+[33] L’appelant a affirmé avoir été impressionné par Mme Perry et M. Parkins, il avait confiance dans le fait qu’ils étaient très éduqués et qu’ils étaient des conseillers financiers enregistrés. Il les a trouvés très professionnels, bien habillés et éloquents [24] . En outre, l’appelant a affirmé que Mme Perry lui avait dit que Solutions 21 était affilié avec la Banque TD en ce qui a trait à la prestation de services hypothécaires [25] .
+[34] Pendant la réunion, les représentants de Solutions 21 ont présenté des diapositives qui donnaient des renseignements généraux à leur sujet personnellement et au sujet de Solutions 21. Ils annonçaient Solutions 21 comme une entreprise innovante composée de conseillers financiers chevronnés offrant différents services, comme des REER, des comptes d’épargne libre d’impôt (CELI) et de l’assurance-vie. Ils faisaient aussi la promotion de leur affiliation avec la Banque TD pour des services hypothécaires [26] . De plus, ils ont distribué de la documentation expliquant leurs divers programmes [27] .
+[35] Un des produits annoncés par Solutions 21 lors de la réunion était un programme de dons de bienfaisance. Les représentants de Solutions 21 ont fourni une liste d’organismes de bienfaisance qui avaient été examinés et approuvés par Solutions 21. De plus, ils ont fourni à l’appelant et aux autres participants au séminaire un lien pour examiner les organismes de bienfaisance dans le site Web de l’ARC. Le lien menait à une liste proposant trois organismes de bienfaisance différents [28] .
+[36] Immédiatement après la réunion, l’appelant, avec Mme Lockhart et M. Pimentel, ont effectué une recherche sur Solutions 21. Ensemble, ils ont regardé le site Web de Solutions 21, et les profils de Mme Perry et de M. Parkins. Ils ont constaté que tout ce qui se trouvait sur le site Web correspondait à l’information donnée dans le cadre de la présentation [29] .
+[37] De plus, ils ont visionné une vidéo de la station CityTV sur Solutions 21, et ont vu des renseignements dans le site Web de Solutions 21 concernant leur affiliation avec la Banque TD [30] .
+[38] En groupe, ils ont discuté du programme des dons de bienfaisance présenté par Solutions 21 et ont consulté le site Web de l’ARC pour examiner la liste des organismes de bienfaisance. Ils ont vérifié le site Web de l’ARC pour s’assurer que les organismes de bienfaisance étaient légitimes [31] .
+[39] Tout le groupe a choisi le même organisme de bienfaisance, soit Furry World Rescue Mission. Ils ont trouvé Furry World Rescue Mission dans le site Web de l’ARC [32] . L’appelant a choisi cet organisme de bienfaisance parce qu’il était situé près de sa communauté à Cambridge, en Ontario [33] .
+[40] Sur l’ensemble, l’appelant a témoigné en disant qu’il pensait que Solutions 21 était une institution d’épargne et de services financiers. Il croyait qu’il s’agissait d’une équipe du tonnerre composée d’anciens fonctionnaires de l’ARC, d’avocats de grande qualité et de spécialistes en déclarations chevronnés [34] .
+F. Programme de dons de bienfaisance
+[41] Après la réunion de novembre 2008, l’appelant a décidé de participer au programme de dons de bienfaisance, et a fait un don de 2 000 $ à Furry World Rescue Mission [35] .
+[42] L’appelant croyait que Solutions 21 ferait un don de groupe, qui agirait comme un achat d’actions, par lequel, selon le montant du don, des actions seraient distribuées entre les membres du groupe [36] . L’appelant ne comprenait pas les détails du programme, mais il croyait que Solutions 21 achèterait des actions, alors que l’argent irait aux organismes de bienfaisance [37] .
+[43] Après avoir fait le don, Solutions 21 a fourni un reçu pour don à l’appelant. Le reçu indiquait un montant pour don de 12 000 $. L’appelant comprenait que ce montant était le montant admissible du don ou des actions achetées en son nom dans le cadre d’un don de groupe [38] . Le reçu pour don indiquait les biens reçus par l’organisme de bienfaisance comme actions ordinaires de RCT Global Networks Inc. évalué par la bourse de Francfort [39] . L’appelant a posé des questions concernant ces détails, à la réception du reçu [40] .
+G. Autres réunions en 2008
+[44] La réunion suivante à laquelle l’appelant a participé a eu lieu au bureau de Solutions 21 en décembre 2008, où il y a eu une autre présentation pour un autre produit fondé sur un plan d’aménagement de terrain à Whitby [41] . L’appelant a affirmé qu’environ 30 à 40 personnes étaient présentes à la réunion [42] . L’appelant a également pris possession de ses reçus provenant du programme de dons de bienfaisance [43] .
+[45] L’appelant a décrit le bureau de Solutions 21 comme un immeuble de deux ou trois étages en verre, avec une aire de réception et des salles de conférence [44] . L’appelant a assisté à une rencontre avec Solutions 21 à cet emplacement à quatre occasions différentes [45] . Mme Lockhart a décrit l’immeuble comme [traduction] « un très bel immeuble. Semblable à ceux du centre-ville de Toronto. Très bien meublé » [46] .
+H. La déclaration de revenus de l’appelant pour son année d’imposition 2008
+[46] L’appelant a retenu les services de Solutions 21 pour préparer sa déclaration de revenus et celle de son épouse pour l’année d’imposition 2008. Il leur a versé environ 150 $ pour ce service, ce qu’il trouvait raisonnable, puisque le montant était semblable à ce qu’il versait auparavant à H&R Block [47] .
+[47] L’appelant n’avait pas de raisons de ne pas faire confiance aux représentants de Solutions 21. Ces derniers avaient aidé Mme Lockhart et son mari en ce qui concerne une hypothèque, en plus de préparer avec succès leurs déclarations de revenus. Les représentants de Solutions 21 ont également réussi à régler le problème fiscal de l’appelant relativement à l’erreur de calcul que sa mère avait fait dans sa déclaration de revenus de 2007 [48] .
+[48] En avril 2009, l’appelant s’est rendu sur les lieux d’affaires de Solutions 21 avec Mme Lockhart, M. Pimentel et le frère et le père de M. Pimentel (le « groupe »). Le but de la visite était d’examiner leurs déclarations de revenus pour l’année d’imposition 2008 [49] . Le groupe a rencontré Mme Perry et, ensemble, ils ont examiné leurs déclarations de revenus respectives une page à la fois, s’arrêtant pour poser des questions.
+[49] Tous les membres du groupe avaient participé au programme de dons de bienfaisance et étaient satisfaits des réponses de Mme Perry à leurs questions [50] . À la connaissance de l’appelant, tous les participants au programme de dons recevaient un reçu officiel qui ne représentait pas le montant exact de leur don [51] .
+[50] L’appelant préférait l’atmosphère de groupe, car cela donnait l’occasion à chacun de poser des questions ensemble, ce qui était avantageux au cas où lui ou un autre manquerait quelque chose [52] .
+[51] Solutions 21 a déclaré, au nom de l’appelant, un don de bienfaisance de 12 000 $ pour son année d’imposition 2008.
+[52] À la suite de la production de la déclaration de revenus de l’appelant, le ministre a établi sa cotisation et l’appelant a reçu un remboursement de 7 000 $ [53] .
+[53] L’appelant croyait que le montant remboursé par l’ARC était trop élevé. Il a communiqué avec Mme Perry de Solutions 21, qui a confirmé que le montant du remboursement était exact. Mme Perry a donné à l’appelant les raisons suivantes pour expliquer la somme élevée du remboursement [54] :
+(1) Il était le seul soutien économique de sa famille;
+(2) C’est la première année où il demandait des crédits d’impôt pour enfants;
+(3) Il avait fait le don de bienfaisance.
+[54] Mme Perry a informé l’appelant que, sans le don de bienfaisance, il aurait reçu un remboursement d’environ 2 500 $, et que le don portait le remboursement à 7 000 $ [55] .
+[55] Après avoir parlé avec Mme Perry, l’appelant croyait que le remboursement était légitime et qu’il avait droit à un remboursement de 7 000 $ [56] .
+[56] Pendant l’été de 2009, le ministre a établi une nouvelle cotisation pour l’année d’imposition 2008 de l’appelant. La nouvelle cotisation réduisait le remboursement de l’appelant de 400 $.
+[57] Sauf cet ajustement de 400 $, l’appelant avait l’impression que sa déclaration de revenus avait été acceptée telle quelle par l’ARC [57] .
+[58] L’appelant n’a appris qu’en 2011 qu’il y avait un problème concernant le don de bienfaisance qu’il avait déclaré dans sa déclaration de revenus de 2008, soit au moment où l’ARC a communiqué avec lui [58] . À ce moment-là, il avait déjà produit sa déclaration de revenus de 2009 qu’il a signée le 14 avril 2010 [59] . Au moment de la production de sa déclaration de revenus de 2009, l’appelant n’avait aucun motif de croire qu’il y avait un problème concernant le don qu’il avait déclaré en 2008.
+I. Programme Tiger Concierge
+[59] L’appelant a participé à un séminaire en novembre 2009 où les représentants de Solutions 21 ont présenté le programme Tiger Concierge [60] . Le séminaire a eu lieu dans les lieux d’affaires de Solutions 21. Environ 30 à 40 personnes ont participé au séminaire.
+[60] L’appelant a compris que le programme Tiger Concierge lui donnerait la possibilité d’investir dans des REER, des CELI et un programme de report rétrospectif de pertes et de bénéficier de conseils à ce sujet [61] .
+[61] Le programme de report rétrospectif de pertes était annoncé par Solutions 21 comme un plan qui ressemblait au RAP. L’appelant a affirmé que Solutions 21 l’avait informé qu’il fallait présenter une demande à l’ARC, et que c’est l’ARC qui décidait si le contribuable était admissible au programme de report rétrospectif de pertes. Solutions 21 a dit à l’appelant qu’il était un bon candidat pour le programme, car son épouse ne travaillait pas, il venait d’avoir un enfant et il venait d’acheter une maison.
+[62] L’appelant croyait que le programme de report rétrospectif de pertes avait été mis en place pour offrir des prêts sans intérêts afin d’aider les contribuables admissibles au programme. Dans le cadre de la présentation sur le programme de report rétrospectif de pertes, les représentants de Solutions 21 avaient laissé entendre que le programme avait fonctionné pour d’autres contribuables par le passé [62] .
+[63] L’appelant et d’autres participants ont demandé, pendant la réunion, pourquoi plus de gens ne produisaient pas leurs déclarations de revenus de cette manière. Pendant la réunion, les représentants de Solutions 21 ont expliqué que ce programme était une initiative spéciale que Solutions 21 avait organisée avec l’ARC et que ce programme n’était pas offert au grand public [63] .
+[64] L’appelant a discuté du programme avec le groupe avant d’y participer [64] .
+[65] L’appelant croyait qu’en se joignant au programme, il aurait accès à l’expertise des comptables et des avocats de Solutions 21. Il a payé 1 000 $ pour se joindre au programme.
+J. La déclaration de revenus de 2009 de l’appelant
+[66] Le 14 avril 2010, le groupe a rencontré Mme Perry et M. Parkins dans les lieux d’affaires de Solutions 21 afin de passer en revue et de signer leurs déclarations de revenus de 2009 [65] . L’appelant a affirmé qu’il a examiné sa déclaration de revenus page par page, en groupe.
+[67] Avant de signer sa déclaration de revenus de 2009, l’appelant et d’autres membres du groupe ont posé beaucoup de questions au sujet de l’information contenue dans leurs déclarations de revenus. Le groupe s’est informé de la perte d’entreprise indiquée dans les déclarations de revenus et a confirmé avec Solutions 21 qu’aucun des membres du groupe n’exploitait une entreprise [66] .
+[68] Solutions 21 a informé l’appelant que la perte d’entreprise de (326 127,38 $) n’était pas une perte d’entreprise réelle, mais qu’elle était formée de son revenu total pour des quatre années précédentes [67] . Mme Perry a expliqué que c’est la façon dont ils devaient organiser la déclaration pour expliquer à l’ARC la demande au programme de report rétrospectif de pertes [68] . L’appelant avait une compréhension semblable du sens de revenu d’entreprise brut appelé [traduction] « recettes à titre de mandataire » [69] . Il croyait que le montant inscrit comme revenu d’entreprise brut était l’équivalent de l’impôt sur le revenu déduit pour les quatre dernières années [70] .
+[69] L’appelant comprenait qu’en raison du programme de report rétrospectif de pertes, il ne devait pas d’impôt. L’appelant a témoigné en disant qu’il avait remarqué que le programme Tiger Concierge n’était pas mentionné dans sa déclaration de revenus. Cela étant dit, après avoir posé des questions sur la perte d’entreprise, l’appelant et le reste du groupe étaient à l’aise avec les explications fournies et tous ont signé leurs déclarations de revenus respectives [71] .
+[70] L’appelant a aussi remarqué qu’à la dernière page de la déclaration de revenus, le mot « Par » figurait à côté de la zone de signature [72] . Les représentants de Solutions 21 ont expliqué à l’appelant que, puisqu’ils présentaient la demande pour le programme de report rétrospectif de pertes, ils devaient inscrire le mot « Par » à côté de la zone de signature.
+[71] L’appelant a témoigné en disant qu’il croyait que, dans le cadre de ce programme, il recevrait un remboursement d’environ 21 000 $, qu’il pourrait investir, mais qu’il devrait rembourser cette somme à l’ARC après quatre ans. Il croyait que le remboursement était essentiellement un prêt sans intérêts, et il planifiait d’investir l’argent dans un CELI ou un REER par l’entremise de Solutions 21 [73] .
+[72] L’appelant croyait qu’il ne recevrait ce remboursement que s’il était admissible au programme de report rétrospectif de pertes. S’il n’y était pas admissible, il ne recevrait pas de remboursement. Cependant, si l’ARC faisait droit à sa demande, l’appelant devait verser 20 % du montant de report rétrospectif de pertes à Solutions 21 [74] .
+[73] L’appelant a signé sa déclaration de revenus de 2009. Il a témoigné en disant qu’il avait cru les explications que lui avaient données les représentants de Solutions 21 parce qu’il avait confiance en eux. Il avait établi un rapport avec Solutions 21. De plus, au moment de signer sa déclaration de revenus, l’appelant n’avait pas fait l’objet d’une nouvelle cotisation concernant le don de bienfaisance. Il avait l’impression que tout était dans l’ordre.
+[74] Solutions 21 a ensuite produit la déclaration de revenus de 2009 auprès de l’ARC. Dans sa cotisation initiale établie à l’égard de l’appelant, le ministre a refusé la déclaration d’une perte d’entreprise de l’appelant; par conséquent, l’appelant n’a jamais reçu de remboursement de l’ARC [75] .
+[75] En général, l’appelant a témoigné en disant qu’il a rencontré les représentants de Solutions 21 environ huit à dix fois entre 2008 et 2010 [76] . Ces réunions incluaient des séminaires, des séances d’accueil et la signature des déclarations de revenus [77] .
+K. Communication avec l’ARC
+[76] L’ARC a communiqué avec l’appelant en juillet 2010 pour lui demander de remplir un questionnaire d’entreprise relativement à sa déclaration de revenus de 2009 [78] . Solutions 21 avait averti l’appelant que, parce qu’il demandait un report rétrospectif de pertes relativement à une perte d’entreprise, l’ARC lui enverrait d’abord ce questionnaire avant de lui accorder le report rétrospectif de pertes. Solutions 21 a conseillé à l’appelant de leur acheminer le formulaire afin qu’ils puissent y répondre de façon appropriée [79] .
+[77] L’appelant a communiqué avec Solutions 21 lorsqu’il a reçu le questionnaire de l’ARC, qui était daté du 15 juillet 2010 [80] . Solutions 21 lui a ensuite remis une lettre à retourner à l’ARC [81] .
+[78] On utilisait dans la lettre une formulation obscure, comme « homme libre » [82] . Lorsque l’appelant a lu la lettre, il a trouvé qu’elle n’avait aucun sens. Il ne se sentait pas à l’aise de l’envoyer à l’ARC; il a donc communiqué avec Mme Perry [83] .
+[79] L’appelant lui a demandé pourquoi la lettre était rédigée ainsi. Mme Perry lui a assuré que c’est ainsi que le programme fonctionne. Elle lui a demandé s’ils l’avaient déjà induit en erreur, et a affirmé qu’il avait à faire à une équipe chevronnée [traduction] « qui sait ce qu’elle peut faire » [84] . L’appelant a alors envoyé la lettre à l’ARC.
+[80] En août 2010, après avoir lu la lettre fournie par Solutions 21, les membres du groupe ont décidé de consulter un comptable. Le groupe, y compris l’appelant, a rencontré M. Atcheson. Ce dernier a informé l’appelant (et les autres membres du groupe) que sa déclaration de revenus de 2009 préparée par Solutions 21 n’était pas légitime. Un redressement de T1 a été préparé par M. Atcheson pour l’année d’imposition 2009 de l’appelant [85] .
+[81] Après sa réunion avec M. Atcheson, l’appelant a mis fin à toute communication avec Solutions 21 [86] .
+III. QUESTIONS EN LITIGE
+[82] La seule question en litige de cet appel est de savoir si l’appelant est passible de pénalités pour l’année d’imposition 2009 en vertu du paragraphe 163(2) de la Loi.
+IV. THÈSE DES PARTIES
+[83] Avant d’énoncer la thèse des parties, la cotisation du ministre sera confirmée si, en vertu du paragraphe 163(2) de la Loi, l’intimée établit selon la prépondérance de preuve, que :
+1. l’appelant a sciemment fait un faux énoncé (appelé dans les présentes la première voie du paragraphe 163(2) de la Loi);
+2. l’appelant a fait un faux énoncé dans des circonstances équivalant à faute lourde (appelé ci-après la deuxième voie du paragraphe 163(2) de la Loi).
+A. Thèse de l’appelant
+[84] L’appelant soutient qu’il ne savait pas qu’il y avait un faux énoncé dans sa déclaration de revenus au moment où il a produit sa déclaration de revenus. Il a aussi soutenu qu’il n’avait pas fait preuve d’aveuglement volontaire à ce sujet.
+[85] L’appelant soutient que la décision Torres [87] de la Cour, qui a été confirmée par la Cour d’appel fédérale dans l’arrêt Strachan, appliquait le mauvais critère pour déterminer si un contribuable faisait preuve d’aveuglement volontaire, en vertu de la première voie du paragraphe 163(2) de la Loi. La thèse de l’appelant est que le critère approprié de l’aveuglement (ou ignorance) volontaire a été formulé par la Cour suprême du Canada dans le contexte criminel dans les arrêts Sansregret [88] et Hinchey [89] .
+[86] S’appuyant sur les arrêts de la Cour suprême du Canada, l’appelant soutient que, pour qu’une cour juge qu’un contribuable a fait preuve d’aveuglement volontaire, l’intimée doit établir que le contribuable s’est gardé dans un était d’aveuglement volontaire dans des circonstances qui lui commanderaient de s’enquérir au sujet de sa situation fiscale ou qu’il avait l’intention de tricher dans sa déclaration de revenus.
+[87] L’appelant soutient que le critère appliqué dans la décision Torres [90] pour déterminer si un contribuable a fait preuve d’aveuglement volontaire, en vertu de la première voie du paragraphe 163(2) de la Loi, a eu pour effet de diluer le concept de l’aveuglement volontaire tel qu’il avait été formulé par la Cour suprême du Canada dans les arrêts Sansregret [91] et Hinchey [92] .
+[88] Par conséquent, l’appelant soutient que l’intimée n’avait pas établi que l’appelant avait fait preuve d’aveuglement volontaire à l’égard du faux énoncé dans sa déclaration de revenus de 2009, soit la déduction d’une perte d’entreprise. L’appelant soutient qu’il s’était informé pourquoi une perte d’entreprise avait été déduite et qu’il n’avait jamais eu l’intention de tricher.
+[89] L’appelant soutient en outre qu’il n’a pas fait de faux énoncé dans sa déclaration de revenus dans des circonstances équivalant à une faute lourde en vertu de la deuxième voie du paragraphe 163(2) de la Loi.
+B. Thèse de l’intimée
+[90] L’intimée soutient que l’appelant comprenait le sens de revenu et de perte d’entreprise. Il a signé la déclaration de revenus, sachant qu’il demandait une perte d’entreprise importante, même s’il n’exploitait pas une entreprise. Il a sciemment fait un faux énoncé lorsqu’il a produit sa déclaration de revenus pour l’année d’imposition 2009.
+[91] S’appuyant sur la décision Torres [93] , l’intimée a en outre soutenu que l’appelant avait fait preuve d’aveuglement volontaire au moment de produire sa déclaration de revenus. Elle a soutenu que l’appelant savait qu’il n’exploitait pas une entreprise. Après avoir remarqué qu’une perte d’entreprise importante avait été déduite dans sa déclaration de revenus de 2009, l’appelant a choisi de ne pas s’informer au sujet de la perte d’entreprise pour éviter de découvrir la vérité.
+[92] L’intimée a aussi soutenu que l’appelant, en ne s’informant auprès de personne d’autre que les représentants de Solutions 21 au sujet de la perte d’entreprise, avait fait preuve d’aveuglement volontaire et avait commis une faute lourde.
+[93] L’intimée soutient que les facteurs décrits dans la décision Torres [94] ont été confirmés par la Cour d’appel fédérale et sont les facteurs pertinents à appliquer dans cet appel pour savoir si l’appelant avait fait preuve d’aveuglement volontaire en vertu du paragraphe 163(2) de la Loi.
+V. ANALYSE JURIDIQUE
+A. Pénalités en vertu du paragraphe 163(2) de la Loi
+[94] La partie pertinente du paragraphe 163(2) énonce ce qui suit [95] :
+Faux énoncés ou omissions
+(2) Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d’imposition pour l’application de la présente loi, ou y participe, y consent ou y acquiesce est passible d’une pénalité égale, sans être inférieure à 100 $, à 50 % du total des montants suivants :
+[...]
+[95] Le fardeau de la preuve pour justifier l’imposition de pénalités pour faute lourde repose sur l’intimée. Le paragraphe 163(3) de la Loi énonce [96] :
+(3) Dans tout appel interjeté, en vertu de la présente loi, au sujet d’une pénalité imposée par le ministre en vertu du présent article ou de l’article 163.2, le ministre a la charge d’établir les faits qui justifient l’imposition de la pénalité.
+[96] Après avoir rencontré le comptable, M. Atcheson, l’appelant a appris qu’il avait affaire à des escrocs et que le programme promu par Solutions 21 n’existait pas. Il a donc compris qu’il n’avait pas le droit de déclarer des pertes d’entreprise puisqu’il n’exploitait pas une entreprise. Par conséquent, il n’y a aucun doute qu’il y avait un faux énoncé dans la déclaration de revenus de l’appelant pour l’année d’imposition 2009.
+[97] Par conséquent, je dois déterminer si l’appelant a sciemment fait un faux énoncé ou s’il a fait un faux énoncé dans des circonstances équivalant à une faute lourde.
+B. Sciemment et aveuglement volontaire
+[98] À mon avis, le premier argument de l’intimée ne tient pas. La preuve n’a pas établi que l’appelant savait qu’il avait fait un faux énoncé dans sa déclaration de revenus de 2009. Au moment de signer sa déclaration de revenus, l’appelant croyait que la perte déclarée en son nom par Solutions 21 était le mécanisme pour être admissible au programme selon lequel les pertes déclarées pourraient être remboursées à l’ARC comme pour le programme du RAP après quatre ans. Rien ne me porte à douter du témoignage de l’appelant. Il était un témoin candide et sincère.
+[99] Cela étant dit, les tribunaux ont affirmé que la connaissance d’un ou de plusieurs ingrédients de l’acte présumé peut être établie par la preuve d’aveuglement volontaire. Dans la décision Torres [97] , le juge Miller de la Cour renvoie aux arrêts Hinchey [98] et Sansregret [99] . Au paragraphe 63 de sa décision, le juge Miller a fait siens les propos suivants :
+[42] Dans l’arrêt R. c. Hinchey, [1996] 3 R.C.S. 1128, le juge Cory examinait la notion d’« aveuglement volontaire » dans le contexte du droit criminel. Aux paragraphes 112 à 115 de cet arrêt, il écrivait ce qui suit :
+[...]
+En d’autres termes, il existe un soupçon, que le défendeur a délibérément omis de transformer en connaissance certaine. On exprime fréquemment cette situation en disant d’une personne qu’elle « s’est fermé les yeux » à l’égard du fait, ou qu’elle a fait preuve d’« ignorance volontaire ».
+[...]
+114. Dans Sansregret, précité, notre Cour a conclu que les circonstances ne se limitaient pas à celles qui touchaient de près à l’infraction visée, mais qu’elles pouvaient recevoir une définition plus large de façon à comprendre des événements passés. Le juge McIntyre a distingué l’ignorance volontaire de l’insouciance et a cité et approuvé un passage tiré de l’ouvrage de Glanville Williams en ce qui concerne son application (aux pp. 584 à 586) :
+L’ignorance volontaire diffère de l’insouciance parce que, alors que l’insouciance comporte la connaissance d’un danger ou d’un risque et la persistance dans une conduite qui engendre le risque que le résultat prohibé se produise, l’ignorance volontaire se produit lorsqu’une personne qui a ressenti le besoin de se renseigner refuse de le faire parce qu’elle ne veut pas connaître la vérité. Elle préfère rester dans l’ignorance.
+[...]
+[43] Le juge Cory faisait ses observations dans le contexte d’une affaire relevant du droit criminel, mais elles demeurent, selon moi, parfaitement adaptées aux circonstances de la présente affaire. Par conséquent, le droit imputera une connaissance au contribuable qui, dans des circonstances qui lui commanderaient ou lui imposeraient de s’enquérir de sa situation fiscale, refuse ou néglige de le faire sans raison valable.
+[100] Dans l’arrêt Wynter [100] , qui a été rendu récemment par la Cour d’appel fédérale, le juge Rennie a rejeté l’argument de l’appelant, que la Cour dans la décision Torres et la Cour d’appel fédérale dans l’arrêt Strachan avaient omis d’adopter le critère restrictif de l’aveuglement volontaire tel que l’avait formulé la Cour suprême du Canada dans les arrêts Sansregret et Hinchey et avait donc dilué le concept de l’aveuglement volontaire [101] .
+[101] Le juge Rennie a affirmé ce qui suit en ce qui concerne le concept de l’aveuglement volontaire et les circonstances dans lesquelles il devrait s’appliquer :
+[14] J’examinerai maintenant la principale prétention de l’appelante. L’appelante prétend que l’ignorance volontaire nécessite la présentation d’éléments de preuve permettant d’établir que le contribuable savait en fait que la déclaration était fausse et que le contribuable avait l’intention « de tromper l’administration de la justice ».
+[15] La jurisprudence ne permet pas de conclure que l’intention de tromper doit être établie pour que l’on puisse conclure à la connaissance et, plus précisément, à l’ignorance volontaire. Les motifs de la Cour suprême du Canada dans l’arrêt Guindon c. Canada, 2015 CSC 41, [2015] 3 R.C.S. 3 (Guindon), font disparaître tout doute. La Cour suprême a souscrit au jugement de la Cour, dont la référence est Canada c. Guindon, 2013 CAF 153, [2014] 4 R.C.F. 786, et dans lequel il est précisé au paragraphe 37 que « se voir infliger une pénalité en application de l’article 163.2 [portant sur les spécialistes en déclarations de revenus], ce n’est pas l’équivalent d’être “inculpé” ». Même le paragraphe 163(2) comporte un élément moral, je souligne également que la Cour suprême, dans l’arrêt Guindon, aux paragraphes 60 à 62, a souscrit aux motifs du juge Strayer dans le jugement Venne c. Sa Majesté La Reine (1984), 84 D.T.C. 6247, [1984] C.T.C. 223 (Venne), et à ceux de la Cour canadienne de l’impôt dans le jugement Sidhu c. La Reine, 2004 CCI 174, au paragraphe 23, 2004 D.T.C. 2540, selon lesquels « [l]e fardeau de la preuve ne consiste pas à prouver au delà du doute raisonnable l’intention coupable de se soustraire au paiement de l’impôt ».
+[16] En somme, le droit imputera une connaissance au contribuable qui, dans des circonstances qui lui commandent de se renseigner sur sa situation fiscale, décide de ne pas le faire. L’élément de connaissance est établi par la décision du contribuable de ne pas se renseigner, et non par la conclusion d’une intention de tromper.
+[17] Bien que la preuve, par exemple, de l’intention réelle de faire un faux énoncé suffirait à satisfaire à l’exigence que la personne doit avoir agi « sciemment » aux termes du paragraphe 163(2), l’exigence que l’intention de tromper soit prouvée pour établir l’ignorance volontaire ne trouve pas appui dans la jurisprudence bien établie selon laquelle l’ignorance volontaire repose sur la conclusion selon laquelle le contribuable a délibérément décidé de ne pas se renseigner afin d’éviter de vérifier ce qui pourrait être une vérité gênante. L’élément factuel essentiel consiste en une conclusion d’« ignorance délibérée », étant donné que cette expression « suggère l’idée d’[traduction] “un processus réel de suppression des soupçons” » : Briscoe, au paragraphe 24. J’ajouterais que, dans le contexte du paragraphe 163(2), les renvois à l’« intention de tromper » créent une distraction. L’élément essentiel de l’infraction visée au paragraphe 163(2) consiste à faire un faux énoncé, sachant (réellement ou implicitement, c’est-à-dire par ignorance volontaire) qu’il est faux.
+[102] Par conséquent, le contribuable sera réputé avoir connaissance d’un faux énoncé et sera passible des pénalités en vertu de la première voie du paragraphe 163(2) de la Loi, si l’intimée établit que le contribuable a fait preuve d’aveuglement volontaire, notamment dans des circonstances qui laissent entendre qu’une demande de renseignements aurait dû être faite, mais que le contribuable a décidé de ne pas s’informer parce qu’il savait que la réponse risquait de ne pas répondre à ses besoins. Contrairement à ce que fait valoir l’appelant, l’intimée n’a pas besoin d’établir que l’intention du contribuable était de tricher.
+[103] Par conséquent, j’appliquerais les facteurs formulés dans la décision Torres [102] aux faits du présent appel pour déterminer si l’appelant a fait preuve d’aveuglement volontaire à l’égard du faux énoncé.
+a) Études et expérience
+[104] L’appelant a obtenu son diplôme d’études secondaires et achevé un programme de deux ans de technicien en génie électrique au Collège Conestoga.
+[105] Au cours des années concernées, l’appelant travaillait pour Toyota comme chef d’équipe de la production. Son poste comportait la supervision d’une équipe de six employés, l’exécution de contrôles de la qualité et l’aide aux réparations.
+[106] L’appelant n’avait pas de formation en affaires, en comptabilité ou en droit fiscal. Il n’a jamais préparé ses propres déclarations de revenus, mais il les produit depuis 1993. Même s’il n’a jamais préparé ses propres déclarations, il avait une connaissance de base et une compréhension des REER, du RAP et des crédits d’impôt pour enfants.
+[107] Dans l’ensemble, les études et l’expérience de l’appelant auraient dû être suffisantes pour éveiller en lui des soupçons à l’égard des méthodes utilisées par Solutions 21. Par conséquent, ce facteur ne limitera pas la responsabilité de l’appelant dans la présente affaire.
+b) Circonstances indiquant le besoin d’une enquête
+[108] Le juge Campbell Miller, dans la décision Bhatti [103] , a employé l’expression « feux rouges clairs » pour décrire les circonstances qui indiqueraient le besoin de questionnement. L’examen des facteurs suivants indiquera s’il y avait des « feux rouges clairs » qui auraient dû éveiller les soupçons de l’appelant.
+(i) Étendue de l’avantage
+[109] Au cours des années d’imposition précédentes, l’appelant a reçu des remboursements de quelques centaines de dollars. En 2008, lorsque l’appelant a fait appel à Solutions 21, il a reçu un remboursement d’impôt de 7 000 $. Il s’agit d’un avantage important; cependant, l’appelant n’avait pas retenu les services de Solutions 21 particulièrement dans le but d’obtenir ce type d’avantage.
+[110] De plus, lorsque l’appelant a reçu ce remboursement, il a immédiatement communiqué avec Mme Perry pour s’assurer que le montant était exact. L’appelant n’a pas simplement accepté ce montant aveuglément; il a posé des questions pour s’assurer que tout avait été produit correctement et qu’il avait droit au remboursement.
+[111] En 2009, l’appelant demandait un remboursement d’environ 21 000 $. Même si l’appelant n’a pas reçu le remboursement, il représentait un avantage important pour lui, au moment de produire sa déclaration de revenus. Cependant, l’appelant croyait qu’il demandait, en vertu du programme annoncé par Solutions 21, un prêt de l’ARC sur l’impôt payé au cours des quatre dernières années. Il a témoigné qu’il comprenait que ce montant était un prêt sans intérêts qui devrait être remboursé après quatre ans, et qui s’inscrivait dans le cadre d’un programme établi pour aider les couples avec de jeunes enfants.
+[112] J’ai constaté que l’appelant était crédible et honnête, et j’accepte son témoignage selon lequel il croyait que le programme annoncé par Solutions 21 existait et que le montant du prêt devait être remboursé après quatre ans.
+[113] Un prêt sans intérêt de 21 000 $ demeure un avantage important pour l’appelant. Cependant, encore une fois, l’appelant s’est informé sur la manière dont il avait droit à ce montant et a posé des questions à plusieurs occasions au sujet du fonctionnement du programme de report rétrospectif de pertes.
+[114] L’appelant a posé des questions au spécialiste en déclarations de Solutions 21 pour essayer de comprendre son droit au remboursement. Le spécialiste en déclarations a répondu à toutes ses questions à sa satisfaction, portant l’appelant à croire qu’il avait droit à ces montants.
+(ii) Flagrance du faux énoncé
+[115] Le faux énoncé dans sa déclaration de revenus de 2009 était flagrant. L’appelant a témoigné en disant qu’il avait bien vu l’importante perte d’entreprise déclarée par Solutions 21.
+[116] La présente affaire n’est pas un cas où le contribuable n’a pas regardé sa déclaration ou n’a pas remarqué le faux énoncé. Dans cet appel, l’appelant a bien vu la fausse perte d’entreprise, et il savait qu’il n’avait pas d’entreprise.
+[117] Cependant, l’appelant a questionné le spécialiste en déclarations sur la raison pour laquelle il déclarait une perte d’entreprise importante. L’appelant n’a pas ignoré le fait qu’une perte d’entreprise importante était déclarée. Il a plutôt posé des questions et tenté de comprendre la raison pour laquelle sa déclaration était organisée de cette façon.
+[118] L’appelant a cru aux explications données par Solutions 21, et il n’a pas compris ce que pouvait signifier la présence de faux énoncés.
+(iii) Absence d’une attestation par le spécialiste en déclarations
+[119] Solutions 21 n’a pas rempli la case de la déclaration de revenus réservée aux spécialistes qui établissent les déclarations. L’appelant ne saisissait pas l’importance pour le spécialiste en déclarations de remplir cette case, et il ne se rappelait pas s’il l’avait vue remplie dans le passé.
+[120] Dans cet appel, je ne pense pas qu’il faille accorder beaucoup de poids à ce facteur. Ce facteur est particulièrement pertinent lorsqu’il semble que le spécialiste en déclarations ne veut pas attester qu’il a fourni les services en question. Même si Solutions 21 n’a pas rempli cette case, les soupçons de l’appelant n’auraient pas été éveillés, parce que Solutions 21 était visible publiquement.
+[121] L’appelant a témoigné en disant que Solutions 21 avait des bureaux professionnels, un site Web, et qu’elle organisait des séminaires de grande envergure (réunissant de 30 à 50 personnes). La présente affaire n’est pas un cas où le spécialiste en déclarations maintient un profil discret et où le fait de ne pas remplir la case réservée aux spécialistes en déclarations serait important.
+[122] Solutions 21 évoluait dans la sphère publique et, même si l’appelant avait remarqué qu’elle n’avait pas rempli cette case, cela n’aurait pas éveillé bien des soupçons. De plus, le groupe avait recours à Solutions 21 pour différents services financiers, notamment des hypothèques, des REER et l’achat d’actions, et ce, depuis 2006. Une relation de confiance régnait entre Solutions 21 et l’appelant.
+(iv) Demandes inusitées faites par le spécialiste en déclarations
+[123] L’appelant n’a pas écrit le mot « Par » à côté de sa signature, mais il a remarqué qu’il avait été écrit sur sa déclaration de revenus. Il a questionné Solutions 21 à ce sujet, et il a été satisfait de leur réponse.
+[124] Ce facteur ne semble pas être particulièrement important dans la présente affaire.
+(v) Un spécialiste en déclarations que le contribuable ne connaissait pas antérieurement
+[125] Le spécialiste en déclarations était connu de l’appelant. La tante de M. Bolduc et son mari avaient recours à Solutions 21 depuis 2006. Mme Lockhart a parlé à l’appelant de Solutions 21 et l’a invité à participer à une réunion.
+[126] L’appelant n’a pas été approché au hasard par un soi-disant spécialiste en déclarations. Le spécialiste en déclarations lui a été recommandé par des membres de sa famille immédiate et il s’est rendu de son propre chef pour en apprendre plus sur leurs services.
+[127] L’appelant a questionné Mme Lockhart sur Solutions 21 avant de participer à sa première réunion. En outre, l’appelant en a appris davantage sur Solutions 21, Mme Perry et M. Parkins lors de la réunion, et il croyait que ces deux personnes étaient des conseillers financiers enregistrés.
+[128] Il s’est appuyé sur sa propre recherche et sur celle menée par Mme Lockhart avant de faire affaire avec Solutions 21. Il s’est également fié au fait que Mme Lockhart avait recours à Solutions 21 depuis deux ans pour différents services financiers et qu’elle n’avait jamais eu de problèmes avec ses services; en fait, Solutions 21 a aidé Mme Lockhart à consolider ses dettes et lui a donné un coup de main en ce qui concerne son prêt hypothécaire. Solutions 21 a également réglé, au nom de l’appelant, l’erreur que sa mère avait commise dans sa déclaration de revenus relativement à son RAP.
+[129] Après avoir eu recours à Solutions 21 en 2008, l’appelant a reçu un remboursement qui a fait l’objet d’une cotisation et d’une nouvelle cotisation, et il n’a pas eu connaissance d’aucune conduite inappropriée avant de signer sa déclaration de revenus de 2009.
+[130] Au moment de signer sa déclaration de revenus de 2009, il avait établi un niveau de confiance avec le spécialiste en déclarations qu’il avait rencontré de huit à dix fois, et à qui ses proches faisaient appel depuis 2006.
+(vi) Explications incompréhensibles données par le spécialiste en déclarations
+[131] Les explications données par le spécialiste en déclarations étaient logiques pour l’appelant, à l’époque. Solutions 21 faisait la promotion du programme de report rétrospectif de pertes comme étant semblable au RAP que l’appelant connaissait bien.
+[132] Le spécialiste en déclarations lui a expliqué que la perte d’entreprise inscrite était égale à son revenu des quatre dernières années, et que le remboursement était égal à l’impôt qu’il avait payé sur cette période. Il a dit à l’appelant que c’est ainsi qu’ils devaient détailler l’explication pour que l’ARC comprenne qu’il présentait une demande de report rétrospectif de pertes. L’appelant faisait confiance aux représentants de Solutions 21; il n’avait aucune raison de ne pas croire les explications qui lui donnait Solutions 21 concernant la déclaration de pertes d’entreprise.
+[133] Solutions 21 a annoncé le programme comme une initiative pour aider les jeunes familles, d’une manière semblable au RAP. Cela avait un sens pour l’appelant. L’idée que l’ARC pourrait offrir un programme permettant aux contribuables d’emprunter de l’impôt sur le revenu payé auparavant pour stimuler les investissements n’est pas entièrement déraisonnable. L’appelant a bien passé sa déclaration de revenus en revue page par page avec Solutions 21 et a posé des questions sur les montants déclarés. L’appelant s’est efforcé de comprendre comment fonctionnait le programme de report rétrospectif de pertes, et il croyait qu’il s’agissait d’un programme légitime organisé par les experts fiscaux de Solutions 21.
+[134] Le fait que l’appelant a posé des questions et a tenté de comprendre la déclaration est pertinent dans l’établissement de sa responsabilité. Il avait l’impression que le programme avait été conçu pour aider les jeunes familles et que les sommes reçues seraient remboursées au gouvernement fédéral après quatre ans.
+[135] La présente Cour, dans la décision Brochu, a noté qu’un contribuable devrait tenter de comprendre sa déclaration de revenus pour s’assurer qu’elle est remplie convenablement. La Cour a affirmé ce qui suit [104] :
+L’appelante a témoigné à l’effet qu’elle avait feuilleté brièvement la déclaration, mais qu’elle ne comprenait pas les termes « revenus d’entreprise » et « crédit ». Compte tenu de son niveau de scolarité et du fait qu’elle avait elle-même préparé sa déclaration initiale pour l’année d’imposition 2001, il est difficile de concevoir que l’appelante ne comprenait pas ces termes. S’il est vrai qu’elle ne les comprenait pas, ce fait ne peut lui servir d’excuse pour se dégager de sa responsabilité. Elle aurait dû chercher à comprendre en posant des questions à madame Tremblay ou à s’informer auprès d’autres individus pour faire en sorte que ses revenus et ses dépenses soient comptabilisés comme il se doit. Pour une raison ou une autre, elle n’a pas songé à la nécessité de s’informer et c’est cette négligence qui constitue, à mon avis, une faute lourde. L’imposition de la pénalité est donc justifiée dans les circonstances.
+[Soulignement ajouté.]
+[136] Le programme en soi n’est pas incompréhensible et ne ressemble pas aux plans fiscaux qui comportent une identité distincte pour un particulier et son numéro d’assurance sociale.
+[137] L’appelant n’a considéré aucune des explications comme incompréhensible jusqu’à ce qu’il voie la lettre que Solutions 21 lui a donné à envoyer à l’ARC. C’est la première fois que l’appelant voyait des explications qui n’avaient aucun sens pour lui, et peu après avoir reçu cette lettre, il a demandé conseil à un comptable.
+(vii) D’autres avaient-ils retenu les services du spécialiste en déclarations ou avaient-ils mis l’appelant en garde contre le recours au spécialiste en déclarations?
+[138] Personne n’a mis l’appelant en garde contre le recours aux services de Solutions 21. C’est plutôt le contraire qui est vrai dans le présent appel, puisque les proches de l’appelant l’ont encouragé à retenir les services de Solutions 21 pour la préparation de déclarations.
+[139] Les membres de sa famille n’avaient pas connu de problèmes avec Solutions 21 depuis qu’ils faisaient appel à elle, et n’avaient rien trouvé de négatif sur la compagnie ni sur Mme Janet Perry et M. Alrich Parkins dans leurs recherches sur Internet. Rien de négatif sur Solutions 21 n’a été trouvé après une recherche sur Internet et une vérification auprès du Bureau d’éthique commerciale.
+(viii) Le contribuable a-t-il posé des questions au spécialiste en déclarations pour comprendre la déclaration?
+[140] L’appelant a posé des questions au spécialiste en déclarations et a tenté de comprendre sa déclaration de revenus.
+[141] Il ne s’agit pas d’une affaire où le contribuable n’a pas passé sa déclaration en revue ou a aveuglément accepté les explications du spécialiste en déclarations.
+[142] L’appelant s’est assis avec le spécialiste en déclarations et a passé sa déclaration de revenus en revue une page à la fois, en posant des questions tout au long. Il a tenté de comprendre tous les montants déclarés dans la déclaration et a posé des questions particulièrement au sujet de la perte d’entreprise. Solutions 21 a répondu à toutes ses questions et, malheureusement, l’appelant a cru les explications qui lui ont été données.
+[143] L’intimée a soutenu que l’appelant aurait dû poser des questions à l’extérieur de Solutions 21. Cependant, l’appelant ne croyait pas qu’il était nécessaire de le faire. Il croyait que Solutions 21 était formé d’experts fiscaux chevronnés qui savaient ce qu’ils faisaient.
+[144] Les proches de l’appelant avaient recours à Solutions 21 depuis 2006 et n’avaient jamais eu de problèmes avec elle. La déclaration de revenus de 2008 de l’appelant a fait l’objet d’une cotisation et d’une nouvelle cotisation, et, après ces cotisations, l’appelant a cru que Solutions 21 avait bien rempli sa déclaration de 2008.
+[145] L’appelant a posé des questions à Solutions 21 lorsqu’il a passé sa déclaration de revenus en revue. Il était satisfait des réponses et, à son avis, une enquête plus approfondie n’était pas nécessaire.
+(ix) Barème des frais
+[146] En 2009, l’appelant a versé 1 000 $ pour se joindre au programme Tiger Concierge. Même si ces frais sont élevés, l’appelant croyait qu’en joignant ce programme, il aurait accès à des produits conçus par des comptables et des avocats chevronnés de Solutions 21. Par conséquent, les frais ne lui semblaient pas déraisonnablement élevés.
+[147] Par ailleurs, si l’appelant obtenait un remboursement, il devrait en verser un pourcentage à Solutions 21.
+[148] En général, l’appelant croyait qu’il obtenait l’accès à une équipe de professionnels fiscaux du tonnerre, et ne considérait pas le barème des frais comme douteux.
+(x) Apparence du spécialiste en déclarations
+[149] Dans cet appel, l’apparence de légitimité est un aspect important à considérer. Dans les cas antérieurs comportant des plans fiscaux semblables, bien souvent, le spécialiste en déclarations rencontrerait le contribuable chez lui ou dans un café, plutôt qu’au bureau du spécialiste, pour signer la déclaration de revenus [105] .
+[150] En revanche, Solutions 21 avait un bureau professionnel, une aire d’accueil et des salles de conférence. Les représentants étaient bien habillés et organisaient des séminaires qui attiraient de 40 à 50 participants. Ils avaient un site Web détaillé et ont parlé de leur entreprise sur la station CityTV. En outre, ils annonçaient une affiliation avec la Banque TD.
+[151] Ce facteur en soi ne libère pas l’appelant de sa responsabilité. Cependant, il rend d’autant plus raisonnable l’hypothèse qu’une personne fasse confiance à Solutions 21 et croie qu’il s’agit d’une institution d’épargne financière légitime.
+[152] À la lumière de mon analyse de tous les faits du présent appel et de l’analyse des facteurs énumérés dans la décision Torres [106] , je suis d’avis que l’intimée n’a pas établi que l’appelant faisait preuve d’aveuglement volontaire. La première voie du paragraphe 163(2) de la Loi est fondée sur une analyse subjective. Je crois l’appelant lorsqu’il affirme qu’il faisait confiance aux représentants de Solutions 21 et qu’il croyait en l’existence d’un programme créé par le gouvernement pour aider les familles. Par conséquent, l’appelant ne devrait pas se voir imposer une pénalité en vertu de la première voie du paragraphe 163(2).
+[153] Je vais examiner maintenant si l’appelant a fait un faux énoncé dans des circonstances équivalant à faute lourde.
+C. Faux énoncé dans des circonstances équivalant à faute lourde
+[154] Le concept de faute lourde au paragraphe 163(2) de la Loi fait l’objet d’une importante jurisprudence.
+[155] La décision faisant autorité sur le sens de l’expression faute lourde dans le contexte fiscal est la décision Venne de la Cour fédérale. Le juge Strayer a affirmé ce qui suit sur le sens de faute lourde au paragraphe 163(2) de la Loi [107] :
+La « faute lourde » doit être interprétée comme un cas de négligence plus grave qu’un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la Loi.
+[156] Dans la décision Lauzon [108] , notre Cour a fait la distinction entre la faute lourde et la négligence ordinaire. La faute lourde est décrite comme un écart marqué et important de la conduite d’une personne raisonnable dans des circonstances semblables. Pour reprendre les propos du juge suppléant Masse :
+Il y a une différence entre la négligence ordinaire et la faute lourde. La négligence est le défaut d’agir avec autant de soin que ne l’aurait fait une personne raisonnablement prudente et minutieuse dans des circonstances semblables. La faute lourde implique une négligence plus grave qu’un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée ou à une indifférence au respect de la loi;
+[157] Comme l’a affirmé le juge Bowman dans la décision DeCosta [109] , pour déterminer si les pénalités prévues au paragraphe 163(2) de la Loi s’appliquent, la Cour doit examiner plusieurs facteurs pour établir la distinction entre la négligence ordinaire et la faute lourde, notamment :
+a. l’importance de l’omission relative au revenu déclaré,
+b. la faculté du contribuable de découvrir l’erreur,
+c. le niveau d’instruction du contribuable et son intelligence apparente,
+d. l’effort réel de se conformer à la loi.
+[158] Il n’existe aucun facteur qui soit prédominant. Il faut accorder à chacun des facteurs le poids qu’il convient dans le contexte de l’ensemble de la preuve.
+[159] Le juge Bowman a aussi affirmé, dans la décision Farm Business Consultants [110] , qu’en général, les tribunaux devraient faire preuve de prudence lorsqu’ils maintiennent l’imposition de pénalités pour faute lourde, et c’est au contribuable qu’il faut accorder le bénéfice du doute.
+[160] On reconnaît depuis longtemps que le concept de l’« aveuglement volontaire » s’applique aux affaires fiscales et est une circonstance, parmi d’autres, correspondant à une « faute lourde » dans le sens où cette expression est utilisée au paragraphe 163(2) de la Loi [111] .
+[161] La Cour d’appel fédérale, dans l’arrêt Wynter [112] , a confirmé cette approche. Le juge Rennie, s’exprimant au nom de la Cour d’appel, a affirmé ce qui suit au paragraphe 20 de ses motifs :
+[20] Il ne fait pas de doute que la faute lourde et l’ignorance volontaire, malgré leur différence sur le plan conceptuel, peuvent se recouper dans une certaine mesure lorsqu’elles sont appliquées. Un contribuable qui ferme les yeux sur la véracité et l’exactitude des renseignements fournis dans sa déclaration de revenus est volontairement ignorant et commet également une faute lourde. [...]
+[162] L’intimée soutient que les pénalités devraient être maintenues, puisqu’elle a établi que l’appelante avait commis une faute lourde en faisant preuve d’aveuglement volontaire à l’égard du faux énoncé.
+[163] La Cour d’appel fédérale, dans les arrêts Villeneuve, Panini et Strachan [113] , a expliqué les circonstances où l’on peut juger qu’un contribuable a fait preuve d’aveuglement volontaire. C’est le cas si le contribuable devient conscient du besoin de poser des questions, mais qu’il refuse de le faire parce qu’il ne veut pas connaître la vérité.
+[164] L’appelant a été trompé par des combinards fiscaux organisés et subtils. Solutions 21 avait des bureaux professionnels, un site Web, annonçait une affiliation avec la Banque TD et offrait des séminaires pour expliquer ses produits.
+[165] Solutions 21 n’avait pas approché l’appelant, mais lui avait plutôt été recommandé par des membres de confiance de sa famille. Ces membres de la famille avaient fait appel à Solutions 21 avec succès depuis deux ans avant que l’appelant s’engage à son tour.
+[166] Les programmes de Solutions 21 offraient des avantages fiscaux, mais, dans la présente affaire, l’appelant n’a pas accepté ces avantages aveuglément. L’appelant a posé des questions et cherché à comprendre les programmes auxquels il participait.
+[167] On ne peut pas affirmer que l’appelant a fermé les yeux sur les montants inscrits dans sa déclaration de revenus. L’appelant a passé sa déclaration en revue avec Solutions 21, une page à la fois, et a posé des questions, particulièrement sur la perte d’entreprise déclarée. Solutions 21 a répondu à toutes les questions de l’appelant.
+[168] L’appelant a cru les explications et a signé sa déclaration de revenus. Solutions 21 annonçait un programme qui était supposément offert par le gouvernement du Canada et l’ARC, selon lequel les jeunes familles pouvaient présenter une demande et, si elles y étaient admissibles, pouvaient bénéficier d’une réduction d’impôt sur une période de quatre ans. En outre, en vertu de ce programme, l’avantage était un prêt qui devrait être remboursé après quatre ans. Le programme offert et les explications fournies par Solutions 21 n’étaient pas impossibles à comprendre. Solutions 21 ne faisait pas la promotion d’un stratagème obscur qui comportait une existence distincte pour un particulier et son numéro d’assurance sociale.
+[169] Le comportement de l’appelant dans cette affaire ne satisfait pas à la norme de l’aveuglement volontaire, et ne constitue pas autrement une conduite qui est survenue dans des circonstances équivalant à faute lourde. La conduite de l’appelant ne présentait pas un degré de négligence équivalant à un acte intentionnel ou à une indifférence quant au respect de la loi. L’appelant a commis une erreur en croyant les explications de Solutions 21, mais il n’a pas fermé les yeux dans des circonstances douteuses. On pourrait dire que l’appelant était naïf, mais, à mon avis, sa conduite, à la lumière de ce que lui a dit Solutions 21, n’était ni répréhensible, ni déraisonnable au point de pouvoir être considérée comme une faute lourde.
+[170] Sur l’ensemble, l’appelant peut avoir été naïf en participant aux programmes offerts par Solutions 21. Cependant, sa conduite ne satisfait pas la norme supérieure de faute lourde et, par conséquent, ne justifie pas l’imposition des pénalités prévues au paragraphe 163(2).
+VI. Disposition
+[171] L’appel est accueilli avec dépens.
+Signé à Ottawa, Canada, ce 10e jour d’octobre 2017.
+« Johanne D’Auray »
+La juge D’Auray
+Traduction certifiée conforme
+ce 2e jour d’octobre 2018.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2017 CCI 203
+NO DE DOSSIER DE LA COUR :
+2012-816(IT)G
+INTITULÉ :
+BRIAN BOLDUC c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Hamilton (Ontario)
+DATE DE L’AUDIENCE :
+Le 9 février 2017
+MOTIFS DU JUGEMENT :
+L’honorable juge Johanne D’Auray
+DATE DU JUGEMENT :
+Le 10 octobre 2017
+COMPARUTIONS :
+Avocats de l’appelant
+Me Duane R. Milot
+Me Igor Kastelyanets
+Avocats de l’intimée
+Me Dominique Gallant
+Me Meaghan Mahadeo
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Duane R. Milot
+Igor Kastelyanets
+Cabinet :
+Milot Law
+Toronto (Ontario)
+Pour l’intimée :
+Nathalie G. Drouin
+Procureure générale adjointe du Canada
+Ottawa (Canada)
+[1] Loi de l’impôt sur le revenu, LRC 1985, ch. 1 (5e suppl.).
+[2] Transcription, Brian Bolduc : Interrogatoire principal, par. 9 et 10.
+[3] Transcription, Brian Bolduc : Interrogatoire principal, par. 12 et 13.
+[4] Transcription, Brian Bolduc : Interrogatoire principal, par. 13.
+[5] Transcription, Brian Bolduc : Interrogatoire principal, par. 16.
+[6] Transcription, Brian Bolduc : Interrogatoire principal, par. 16.
+[7] Transcription, Brian Bolduc : contre-interrogatoire, par. 90.
+[8] Transcription, Linda Lockhart : Interrogatoire principal, par. 160.
+[9] Transcription, Linda Lockhart : Interrogatoire principal, par. 140.
+[10] Transcription, Linda Lockhart : Interrogatoire principal, par. 140.
+[11] Transcription, Brian Bolduc : Interrogatoire principal, par. 26.
+[12] Transcription, Linda Lockhart : Interrogatoire principal, par. 153.
+[13] Transcription, Linda Lockhart : Interrogatoire principal, par. 150.
+[14] Transcription, Linda Lockhart : Interrogatoire principal, par. 154.
+[15] Transcription, Brian Bolduc : Interrogatoire principal, par. 21.
+[16] Transcription, Linda Lockhart : Interrogatoire principal, par. 142.
+[17] Transcription, Linda Lockhart : Interrogatoire principal, par. 149.
+[18] Transcription, Linda Lockhart : Interrogatoire principal, par. 143.
+[19] Transcription, Linda Lockhart : Interrogatoire principal, par. 166 et 167.
+[20] Transcription, Brian Bolduc : Interrogatoire principal, par. 24; voir également Transcription, Linda Lockhart : Interrogatoire principal, par. 154.
+[21] Transcription, Linda Lockhart : Interrogatoire principal, par. 155.
+[22] Transcription, Linda Lockhart : Interrogatoire principal, par. 155.
+[23] Transcription, Brian Bolduc : Interrogatoire principal, par. 26.
+[24] Transcription, Brian Bolduc : Interrogatoire principal, par. 27.
+[25] Transcription, Brian Bolduc : Interrogatoire principal, par. 29.
+[26] Transcription, Brian Bolduc : Interrogatoire principal, par. 28
+[27] Transcription, Brian Bolduc : Interrogatoire principal, par. 29 et 30.
+[28] Transcription, Brian Bolduc : Interrogatoire principal, par. 46.
+[29] Transcription, Brian Bolduc : Interrogatoire principal, par. 41.
+[30] Transcription, Brian Bolduc : Interrogatoire principal, par. 42 et 43.
+[31] Transcription, Brian Bolduc : Interrogatoire principal, par. 45.
+[32] Transcription, Brian Bolduc : Interrogatoire principal, par. 46.
+[33] Transcription, Brian Bolduc : Interrogatoire principal, par. 28
+[34] Transcription, Brian Bolduc : Interrogatoire principal, par. 20.
+[35] Transcription, Brian Bolduc : Interrogatoire principal, par. 58; Pièce AR-1, chèque pour don, onglet 1.
+[36] Transcription, Brian Bolduc : Interrogatoire principal, par. 58.
+[37] Transcription, Brian Bolduc : Contre-interrogatoire, par. 101.
+[38] Transcription, Brian Bolduc : Interrogatoire principal, par. 60.
+[39] Pièce AR-1, Reçu pour don, Onglet 2.
+[40] Transcription, Brian Bolduc : Contre-interrogatoire, par. 103.
+[41] Pièce AR-1, plan d’aménagement de terrain à Whitby, onglet 17; Transcription, Brian Bolduc : Interrogatoire principal, par. 49.
+[42] Transcription, Linda Lockhart : Interrogatoire principal, par. 170.
+[43] Transcription, Brian Bolduc : Interrogatoire principal, par. 39.
+[44] Transcription, Brian Bolduc : Interrogatoire principal, par. 38; l’appelant a aussi rencontré des représentants de Solutions 21 une fois en 2009 dans leur nouveau bureau à Markham, qu’il a trouvé encore plus impressionnant.
+[45] Transcription, Brian Bolduc : Interrogatoire principal, par. 39.
+[46] Transcription, Linda Lockhart : Interrogatoire principal, par. 149.
+[47] Transcription, Brian Bolduc : Interrogatoire principal, par. 18.
+[48] Transcription, Brian Bolduc : Interrogatoire principal, par. 56.
+[49] Transcription, Brian Bolduc : Interrogatoire principal, par. 50.
+[50] Transcription, Brian Bolduc : Interrogatoire principal, par. 51.
+[51] Transcription, Brian Bolduc : Contre-interrogatoire, par. 106.
+[52] Transcription, Brian Bolduc : Interrogatoire principal, par. 60.
+[53] Transcription, Brian Bolduc : Interrogatoire principal, par. 61.
+[54] Transcription, Brian Bolduc : Interrogatoire principal, par. 61.
+[55] Transcription, Brian Bolduc : Interrogatoire principal, par. 61.
+[56] Transcription, Brian Bolduc : Interrogatoire principal, par. 61.
+[57] Transcription, Brian Bolduc : Interrogatoire principal, par. 62.
+[58] Pièce AR-1, Nouvelle cotisation, 29 décembre 2011, onglet 14.
+[59] Transcription, Brian Bolduc : Interrogatoire principal, par. 63.
+[60] Transcription, Brian Bolduc : Interrogatoire principal, par. 66.
+[61] Transcription, Brian Bolduc : Interrogatoire principal, par. 64.
+[62] Transcription, Brian Bolduc : Interrogatoire principal, par. 66.
+[63] Transcription, Brian Bolduc : Interrogatoire principal, par. 66.
+[64] Transcription, Brian Bolduc : Interrogatoire principal, par. 76.
+[65] Transcription, Brian Bolduc : Interrogatoire principal, par. 68.
+[66] Transcription, Brian Bolduc : Interrogatoire principal, par. 71.
+[67] Pièce AR-1, déclaration de revenus de 2009, onglet 6.
+[68] Transcription, Brian Bolduc : Interrogatoire principal, par. 71.
+[69] Transcription, Brian Bolduc : Contre-interrogatoire, par. 120.
+[70] Transcription, Brian Bolduc : Contre-interrogatoire, par. 120.
+[71] Transcription, Brian Bolduc : Interrogatoire principal, par. 71.
+[72] Pièce AR-1, déclaration de revenus de 2009, onglet 6.
+[73] Transcription, Brian Bolduc : Interrogatoire principal, par. 75.
+[74] Transcription, Brian Bolduc : Interrogatoire principal, par. 75.
+[75] Transcription, Brian Bolduc : Interrogatoire principal, par. 74.
+[76] Transcription, Brian Bolduc : Interrogatoire principal, par. 33.
+[77] Transcription, Brian Bolduc : Interrogatoire principal, par. 33.
+[78] Pièce AR-1, enquête de l’ARC, onglet 8.
+[79] Transcription, Brian Bolduc : Interrogatoire principal, par. 79.
+[80] Transcription, Brian Bolduc : Interrogatoire principal, par. 80; Pièce AR-1, enquête de l’ARC, onglet 8.
+[81] Transcription, Brian Bolduc : Interrogatoire principal, par. 80; Pièce AR-1, lettre de Solutions 21, onglet 9.
+[82] Pièce AR-1, lettre de Solutions 21, onglet 9.
+[83] Transcription, Brian Bolduc : Interrogatoire principal, par. 81.
+[84] Transcription, Brian Bolduc : Interrogatoire principal, par. 81.
+[85] Transcription, Brian Bolduc : Interrogatoire principal, par. 83.
+[86] Transcription, Brian Bolduc : Interrogatoire principal, par. 83.
+[87] Torres c. La Reine, 2013 CCI 380, qui a été confirmée par l’arrêt Strachan c. Canada, 2015 CAF 60.
+[88] R. c. Sansregret, [1985] 1 RCS 570.
+[89] R. c. Hinchey, [1996] 3 RCS 1128.
+[90] Précitée, à la note 87.
+[91] Précité, à la note 88.
+[92] Précité, à la note 89.
+[93] Précité, à la note 87.
+[94] Précitée, à la note 87.
+[95] Loi de l’impôt sur le revenu, précitée à la note 1, au par. 163(2).
+[96] Loi de l’impôt sur le revenu, précitée à la note 1, au paragraphe 163(3).
+[97] Décision Torres, précitée, à la note 87.
+[98] Précité, à la note 89.
+[99] Précité, à la note 88.
+[100] Wynter c. Canada, 2017 CAF 195.
+[101] Dans cet appel, l’avocat de l’appelant était l’avocat de Mme Wynter. Le même argument est fait dans l’arrêt Wynter, notamment que le critère formulé par la Cour suprême du Canada pour l’« aveuglement volontaire » n’avait pas été correctement été appliqué dans la décision Torres et l’arrêt Strachan.
+[102] Précitée, à la note 87.
+[103] Bhatti c. R., 2013 CCI 143.
+[104] Brochu c. R., 2011 CCI 75, au par. 22; Voir également les décisions Janovsky c. R., 2013 CCI 140 et Atutornu c. R., 2014 CCI 174.
+[105] De Gennaro c. R., 2016 CCI 108, au par. 70; Anderson c. R., 2016 CCI 93, au par. 65.
+[106] Précitée, à la note 87.
+[107] Venne c. Canada (Ministre du Revenu national), [1984] ACF no 314 (QL), [1984] C.T.C. 223.
+[108] Lauzon c. R., 2016 CCI 71, au par. 25, confirmée par la Cour d’appel fédérale dans l’arrêt portant le numéro de dossier 2016 CAF 298.
+[109] DeCosta c. R., 2005 CCI 545, au par. 11.
+[110] Farm Business Consultants Inc c. Canada, [1993] ACI no 619 (QL), [1994] 2 CTC 2450.
+[111] Villeneuve c. Canada, 2004 CAF 20; Panini c. La Reine, 2006 CAF 224.
+[112] Précité, à la note 100.
+[113] Précités, aux notes 111 et 87.

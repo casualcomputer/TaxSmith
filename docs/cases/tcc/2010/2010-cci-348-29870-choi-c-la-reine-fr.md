@@ -1,0 +1,177 @@
+---
+title: "Choi c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29870/index.do"
+last_modified: "2010-06-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 348"
+citation2: ""
+neutral_citation: "2010 CCI 348"
+decision_date: "2010-06-22"
+language: "fr"
+item_id: "29870"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6427
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:51:27.303000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fc62675abaa1d7e6dd84a6a082e632d79493bb369b038270cbadd06862c84a8b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Choi c. La Reine
+
+- Citation: 2010 CCI 348
+- Decision date: 2010-06-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6427, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Choi c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-06-22
+Référence neutre
+2010 CCI 348
+Numéro de dossier
+2009-2964(IT)I
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-2964(IT)I
+ENTRE :
+GYE-SUN CHOI,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 10 juin 2010, à Toronto (Ontario),
+Devant : L’honorable juge Brent Paris
+Comparutions :
+Représentant de l’appelante :
+M. Dave Nighswander
+Avocat de l’intimée :
+Me Thang Trieu
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’égard des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2003 et 2004 sont rejetés.
+Signé à Ottawa, Canada, ce 22e jour de juin 2010.
+« Brent Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 19e jour d’août 2010.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2010 CCI 348
+Date : 20100622
+Dossier : 2009-2964(IT)I
+ENTRE :
+GYE-SUN CHOI,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] Le ministre du Revenu national (le « Ministre ») a effectué une vérification de l’avoir net de l’appelante, puis établi des nouvelles cotisations relativement à des revenus non déclarés de 49 849,10 $ pour 2003 et de 22 152,49 $ pour 2004. En vertu du paragraphe 163(2) de la Loi de l’impôt sur le revenu (la « Loi »), il a aussi imposé des pénalités relativement aux sommes non déclarées.
+[2] L’appelante interjette appel des nouvelles cotisations au motif qu’au cours des années en cause, elle a obtenu de sa belle‑sœur des prêts considérables totalisant 47 000 $, et que le calcul de l’avoir net n’a pas pris en considération son obligation de rembourser ces prêts. Elle fait valoir également que le reste de la hausse de son avoir net au cours de ces années, selon les calculs du ministre, était négligeable par rapport au total de ses actifs, et qu’il faut donc ne pas en tenir compte.
+[3] L’appelante exploitait une entreprise de vente de produits et de services d’encadrement sous les raisons sociales « Framing Factory » et « Master Framers Gallery ». La raison sociale « Good Frames » figure également dans les documents présentés à la Cour, mais l’appelante a indiqué que celle‑ci relevait des activités de « Framing Factory ». L’entreprise a été exploitée dans trois locaux loués dans le Grand Toronto en 2003 et 2004. L’époux de l’appelante, Wang Soo Choi, travaillait pour elle et dirigeait l’un des magasins en plus de s’occuper de tous les aspects financiers de l’entreprise. Il semble également qu’il se soit occupé des finances personnelles de l’appelante.
+[4] L’appelante a mentionné dans son témoignage qu’elle ignorait parfaitement les revenus de l’entreprise pour 2003 et 2004 et pour les années antérieures. Elle a pu dire uniquement que les affaires n’étaient pas bonnes et qu’elles ne l’avaient pas été depuis de nombreuses années. De plus, elle n’était pas du tout au courant des dépenses de l’entreprise, ni même du salaire versé à son époux.
+[5] D’après les états financiers, l’entreprise a déclaré des bénéfices de 1 798 $ pour 2003 et de 7 018 $ pour 2004. L’époux de l’appelante a touché 6 500 $ chaque année.
+[6] La preuve a permis d’établir que l’entreprise était l’unique source de revenu de l’appelante en 2003 et en 2004, et que l’emploi que l’époux de l’appelante y occupait était l’unique source de revenu de ce dernier au cours des mêmes années. Aux fins de la vérification, l’appelante a estimé que ses dépenses personnelles et celles de son époux s’élevaient approximativement à 57 000 $ par année. Elle n’a pas contesté ces chiffres à l’audience. Étaient inclus dans ces dépenses les paiements effectués au titre de l’hypothèque d’environ 350 000 $ qui grevait la résidence familiale, payée 425 000 $ en 2002.
+[7] Compte tenu de l’écart apparent relevé entre le revenu déclaré de l’appelante et son train de vie, le ministre a décidé d’effectuer une vérification de l’avoir net. Cette vérification ayant révélé des hausses de l’avoir net de l’appelante qui ne pouvaient être attribuées à aucune source de revenu déclarée, le ministre a tenu pour acquis qu’elles provenaient d’un revenu d’entreprise non déclaré.
+[8] Le représentant de l’appelante a fait valoir que cette dernière avait emprunté de la sœur de son époux, In Soo Kim, les sommes de 28 000 $ en 2003 et de 18 000 $ en 2004. Or, à l’audience, l’appelante a déclaré qu’elle n’avait emprunté aucune somme à Mme Kim. Elle a précisé que son époux avait emprunté de l’argent à cette dernière, mais qu’elle ne pouvait fournir aucun détail sur les prêts, si ce n’est qu’elle avait déposé dans son compte bancaire l’argent emprunté par son époux. Elle a déclaré que son époux avait remboursé les montants empruntés lorsqu’il avait vendu une propriété de la rue Annette, à Toronto. Cette propriété, achetée en 1992, a été vendue en 2005. Les deux étages supérieurs de la propriété avaient été occupés par Mme Kim et sa famille, tandis que le rez‑de‑chaussée était réservé à l’un des magasins d’encadrement de l’appelante. Mme Kim avait travaillé dans ce magasin à temps plein pendant un certain nombre d’années avant que l’immeuble ne soit vendu.
+[9] L’époux de l’appelante a témoigné que, bien qu’il soit désigné dans le titre de la propriété de la rue Annette comme étant propriétaire unique, Mme Kim détenait en fait un intérêt de 50 % dans cette propriété. Il a déposé en preuve un accord prétendument conclu avec Mme Kim, signé en 1992, selon lequel Mme Kim avait précédemment contribué 40 000 $ à l’achat d’une autre propriété, située au 38, chemin Broadleaf (une résidence dont l’appelante et son époux étaient apparemment les propriétaires), et qu’en contrepartie de cette contribution, elle détiendrait un intérêt de 50 % dans la propriété de la rue Annette. D’après l’accord en question, Mme Kim devait occuper les premier et deuxième étages et verser 700 $ par mois en remboursement de l’hypothèque, l’époux de l’appelante devait verser 1 574 $ par mois – ce qui représentait sa part de l’hypothèque – et toute autre dépense devait était répartie entre eux.
+[10] L’époux de l’appelante a expliqué qu’en 1992, Mme Kim avait le statut de réfugiée au Canada, et qu’il souhaitait l’aider à obtenir le statut de résidente permanente. Il a proposé qu’ils achètent la propriété de la rue Annette ensemble, mais un avocat leur a dit que cela serait difficile pour Mme Kim en raison de son statut de réfugiée, et qu’ils devraient consigner son intérêt dans un accord « connexe » distinct.
+[11] L’époux de l’appelante a déclaré que, vers 2002, on avait décidé de vendre la propriété parce que l’entreprise de l’appelante tournait au ralenti. Une fois la décision de vendre prise, il a dit qu’il avait commencé à emprunter de l’argent à Mme Kim au nom de l’appelante, étant entendu que Mme Kim serait remboursée au moment où la propriété serait vendue. Il a emprunté des montants pouvant aller jusqu’à 2 500 $, toujours comptant. Il a indiqué que Mme Kim avait tenu un registre des montants qu’il avait empruntés, mais qu’elle avait détruit celui‑ci lorsque l’emprunt avait été remboursé. Il a donc tenté de reconstituer ce registre à partir de dépôts effectués dans son compte bancaire et dans celui de l’appelante en 2003 et 2004, et a dressé une liste faisant état d’emprunts totalisant 66 270 $ pour ces années.
+[12] Dans une lettre qu’elle a prétendument rédigée et qui a été remise au vérificateur, Mme Kim a énoncé les détails de son droit de propriété correspondant à la moitié de la résidence de la rue Annette. Elle a aussi fait le commentaire suivant :
+[traduction]
+Lorsque nous avons décidé de vendre cette propriété, Gye Sun Choi, ma belle‑sœur, m’a demandé si elle pouvait m’emprunter de l’argent à la condition de me rembourser après la vente de la propriété.
+[13] Mme Kim n’a pas été appelée à témoigner à l’audience. L’appelante a déclaré qu’elle n’avait eu aucun contact avec elle depuis septembre 2006. L’époux de l’appelante a indiqué qu’il n’avait communiqué avec elle qu’en septembre 2006 pour qu’elle écrive une lettre au vérificateur. Il a dit également que Mme Kim craignait de se présenter en cour.
+[14] Comme preuve du remboursement des emprunts effectués auprès de Mme Kim, l’époux de l’appelante a produit une copie de l’état des rajustements pour la vente de la propriété de la rue Annette. Selon ce document 140 000 $ du produit net de 200 000 $ avaient été versés par l’avocat pour [traduction] « l’achat fait par Mme Kim ». Il a indiqué que Mme Kim et son époux avaient utilisé l’argent provenant de la vente de la propriété de la rue Annette pour acheter un condominium, et il a produit en preuve une lettre provenant d’un cabinet d’avocats et adressée à M. et Mme Kim, par laquelle on accusait réception de la somme de 140 000 $ à porter au compte de leur achat.
+[15] L’époux de l’appelante a renvoyé à un document établi par le représentant de l’appelante, M. Nighswander, qui a fourni le détail du produit de la vente de la propriété. Il indiquait que lui et Mme Kim avaient chacun droit à un produit net de 100 372 $ après le paiement du solde de l’hypothèque, des taxes, de la commission au courtier en immeubles et des frais juridiques. Le document précise que Mme Kim a touché 140 000 $ sur le produit de la vente, et qu’on lui devait au total la somme de 172 500 $, ainsi ventilée :
+[traduction]
+Produit de la vente de la propriété de la rue Annette
+100 372 $
+Prêts 2003 par Mme Kim
+28 000 $
+2004 par Mme Kim
+19 000 $
+Prêts 2005 et 2002
+25 182 $
+[16] En plus des 140 000 $ provenant de la vente de la propriété de la rue Annette, l’époux de l’appelante a déclaré qu’il avait versé à Mme Kim une somme supplémentaire de 25 000 $ au moyen de deux chèques. Selon lui, le premier chèque était libellé à l’ordre du fils de Mme Kim, qui avait besoin d’argent, et il a dit croire que le deuxième était libellé à l’ordre de l’époux de Mme Kim. Aucune copie de ces chèques n’a été fournie. Il a déclaré que le montant final de 7 500 $ sur le montant de 172 500 $ dû à Mme Kim avait été retenu pour couvrir le paiement de taxes qui auraient pu être exigées.
+Position de l’appelante
+[17] Le représentant de l’appelante a fait valoir que cette dernière avait produit une preuve suffisante pour établir l’existence des prêts obtenus de Mme Kim et de leur remboursement à même le produit de la vente de la propriété de la rue Annette. Il a déclaré que l’appelante était une contribuable sans expérience et que, si sa tenue de livres n’était pas parfaite, l’on ne devait pas appliquer une norme élevée en matière de tenue de dossiers pour les transactions personnelles, comme les prêts dont il est question dans la présente affaire.
+[18] Si l’on déduit les prêts de 47 000 $, le reste de la hausse de l’avoir net de l’appelante au cours des années 2003 et 2004 s’élèverait approximativement à 25 000 $, ce qui, de l’avis du représentant de l’appelante, est peu élevé comparativement à son avoir net, et pourrait être considéré comme étant une « erreur d’arrondissement ».
+[19] Le représentant de l’appelant a fait valoir que rien ne prouve que l’appelante a sciemment déclaré un revenu inférieur à celui qu’elle aurait dû déclarer, ou qu’elle a commis une faute lourde dans ses déclarations. Il a indiqué que l’appelante avait fait tout en son pouvoir pour produire ses déclarations correctement et qu’aucune pénalité n’était justifiée.
+Analyse
+[20] Je ne crois pas que l’appelante se soit acquittée de la charge qui lui incombait de démontrer qu’elle avait emprunté des sommes de Mme Kim au cours des années visées par l’appel.
+[21] Premièrement, l’appelante n’a pas appelé Mme Kim à témoigner sur l’existence des prêts allégués. La règle bien établie est la suivante :
+[traduction]
+Dans les causes au civil, on peut tirer une inférence défavorable lorsque, faute d’explication, une partie au litige […] ne demande pas à témoigner à une personne qui connaîtrait les faits et serait présumément consentante à aider la partie en question. […] Cette lacune est perçue comme une reconnaissance implicite que la preuve qui aurait été fournie par le témoin absent aurait été contraire à la cause défendue par la partie ou, du moins, ne lui aurait pas été favorable[1].
+Rien ne permet de croire que l’on n’aurait pas pu surmonter la réticence de Mme Kim à témoigner au moyen d’une assignation à témoigner. Compte tenu de cette omission de l’appeler à témoigner, je tire l’inférence que le témoignage de Mme Kim n’aurait pas été favorable à l’appelante.
+[22] Je tiens compte des lettres que l’appelante a déposées en preuve, qui étaient apparemment signées par Mme Kim et qui indiquaient l’existence de prêts. Toutefois, puisque l’avocat de l’intimée n’a pas pu contre‑interroger Mme Kim au sujet du contenu des lettres, j’accorde peu de poids à celles‑ci.
+[23] En outre, l’une des déclarations clés faites par Mme Kim dans l’une de ces lettres a été contredite par le témoignage de l’appelante. Mme Kim avait déclaré que l’appelante avait demandé à lui emprunter de l’argent, mais l’appelante a déclaré qu’elle n’avait jamais emprunté d’argent à sa belle‑sœur.
+[24] Je n’admets pas l’explication fournie par l’époux de l’appelante selon laquelle il avait emprunté de l’argent à Mme Kim au nom de l’appelante. À mon avis, il est fort peu probable que des membres de famille proches assortissent leurs transactions d’une telle formalité. L’explication sonne aussi faux parce que les parties ont déclaré que le remboursement devait être tiré du produit de la vente de la propriété de la rue Annette, mais l’appelante ne détenait aucun intérêt dans cette propriété.
+[25] Je ferai remarquer également que, dans la première série d’observations faites pour le compte de l’appelante à l’intention de l’Agence du revenu du Canada (l’« ARC »)[2] le 15 juin 2006, on a seulement fait référence aux prêts reçus et déposés dans le compte bancaire de l’appelante en 2004, en dépit du fait que les dépôts bancaires en question à ce moment‑là avaient été effectués en 2003 et en 2004. L’appelante avait signé cette lettre, mais elle a dit que son époux l’avait rédigée. L’époux de l’appelante a quant à lui déclaré qu’il n’avait rien eu à voir avec la rédaction de cette lettre et que leur comptable l’avait probablement rédigée.
+[26] S’il est possible que le comptable de l’appelante ait rédigé la lettre, il est à mon avis très peu probable que l’époux de l’appelante n’y ait pas du tout contribué. Il ressort clairement de l’ensemble de la preuve qu’il s’occupait de toutes les affaires financières de la famille et que c’est lui, et non l’appelante, qui aurait fourni les renseignements de cette nature au comptable.
+[27] Le témoignage de l’époux de l’appelante est aussi problématique à d’autres égards. À l’étape des appels, il avait préparé une liste des dépôts effectués dans le compte bancaire personnel de l’appelante et dans son propre compte. Selon lui, ces dépôts provenaient des fonds empruntés à sa sœur. Ces dépôts totalisaient 66 270 $ pour 2003 et 2004. Toutefois, l’enquête approfondie effectuée par l’ARC a établi que, sur ces dépôts, 16 400 $ provenaient en fait de transferts effectués par chèque sur le compte commercial de l’appelante. L’époux de l’appelante a tenté d’expliquer que les montants empruntés à Mme Kim dans ces cas‑là avaient d’abord été déposés dans le compte commercial de l’appelante, puis transférés dans l’un ou l’autre compte personnel, mais aucun registre de dépôts de montants considérables en argent effectués dans des comptes commerciaux n’a été fourni.
+[28] En outre, une preuve des dépôts effectués dans les comptes de l’époux de l’appelante (33 100 $) ne serait pas pertinente, puisque ces fonds n’auraient pas été pris en considération par le vérificateur dans le cadre de la vérification de l’avoir net de l’appelante.
+[29] J’éprouve des doutes sérieux à l’égard du témoignage offert par l’époux de l’appelante, selon lequel il n’avait consigné aucune des sommes que sa sœur lui avait versées à titre de prêt. Compte tenu des montants considérables qui auraient été empruntés sous forme de nombreux versements effectués sur quatre années, il me semble très peu probable que l’époux de l’appelante n’ait tenu aucune comptabilité de la dette.
+[30] Finalement, il est difficile d’accepter sans une preuve corroborante que Mme Kim avait accumulé plus de 50 000 $ en argent comptant et qu’elle conservait cet argent à la maison, ou encore qu’elle avait le moyen d’acquérir la moitié de la propriété de la rue Annette. L’affirmation faite dans l’accord connexe, selon laquelle elle avait contribué 40 000 $ aux fins de l’achat antérieur d’une propriété sur le chemin Broadleaf, a été contredite à deux reprises par l’époux de l’appelante. Lorsqu’on lui a demandé si sa sœur lui avait donné de l’argent lorsqu’ils vivaient dans la propriété du chemin Broadleaf, il a répondu qu’elle lui avait peut‑être donné deux ou trois cents dollars par mois pour acheter de la nourriture. Puis il a dit que sa contribution aux fins de l’achat de la propriété du chemin Broadleaf s’élevait à 15 000 $ au moment où la propriété de la rue Annette avait été achetée.
+[31] Dans l’ensemble, je suis d’avis que l’explication fournie par l’appelante et son époux concernant la hausse de l’avoir net de l’appelante n’est ni plausible, ni étayée par une preuve crédible et fiable.
+[32] Je suis également convaincu que l’intimée a établi que les pénalités imposées en vertu du paragraphe 163(2) de la Loi étaient biens fondées. Cette disposition prévoit qu’une pénalité peut être imposée lorsque le contribuable a, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans sa déclaration de revenus. Il incombe à l’intimée de prouver les faits qui établissent l’existence d’un faux énoncé et que celui‑ci a été fait sciemment ou dans des circonstances équivalant à faute lourde. Dans l’arrêt Lacroix c. La Reine[3], la Cour d’appel fédérale a formulé les commentaires suivants relativement à cette charge de la preuve :
+[32] Qu’en est-il alors du fardeau du ministre? Comment s’en acquitte-t-il? Il se peut que dans certaines circonstances, le ministre soit en mesure de faire une preuve directe de l’état d’esprit du contribuable lorsque ce dernier a produit sa déclaration de revenu. Mais dans la grande majorité des cas, le ministre ne pourra que miner la crédibilité du contribuable, soit par des éléments de preuve qu’il apporte, soit en contre-interrogatoire du contribuable. Dans la mesure où la Cour canadienne de l’impôt est persuadée que le contribuable touche un revenu qu’il n’a pas déclaré et que l’explication offerte par le contribuable pour l’écart constaté entre son revenu déclaré et l’accroissement de son actif est non crédible, le ministre s’est acquitté du fardeau de preuve qui lui incombe aux termes du sous-alinéa 152(4)a)(i) et du paragraphe 162(3).
+[33] Il a été établi qu’en 2003 et 2004, l’appelante avait un revenu élevé, qu’elle n’a pas déclaré, et qu’elle n’a fourni aucune explication crédible à cet égard. Pour ces années, l’appelante a déclaré un revenu très faible, des dépenses élevées et de nombreux dépôts en espèces dans ses comptes bancaires personnels. En l’absence d’une explication crédible, l’on ne peut que conclure qu’elle a tiré d’une entreprise un revenu considérable qu’elle n’a pas déclaré, et que cette omission était attribuable à tout le moins à une faute lourde de sa part.
+[34] Pour ces motifs, les appels sont rejetés.
+Signé à Ottawa, Canada, ce 22e jour de juin 2010.
+« Brent Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 19e jour d’août 2010.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE : 2010 CCI 348
+No DU DOSSIER DE LA COUR : 2009-2964(IT)I
+INTITULÉ : Gye‑Sun Choi c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 10 juin 2010
+MOTIFS DU JUGEMENT : L’honorable juge Brent Paris
+DATE DU JUGEMENT : Le 22 juin 2010
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Dave Nighswander
+Avocat de l’intimée :
+Me Thang Trieu
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelante :
+Nom : s.o.
+Cabinet : s.o.
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Sopinka, Lederman et Bryant, The Law of Evidence in Canada (2e éd.), p. 297.
+[2] Pièce R-8.
+[3] 2008 CAF 241.

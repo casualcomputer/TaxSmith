@@ -1,0 +1,154 @@
+---
+title: "Rose v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30798/index.do"
+last_modified: "2012-05-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 161"
+citation2: ""
+neutral_citation: "2012 TCC 161"
+decision_date: "2012-05-11"
+language: "en"
+item_id: "30798"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7542
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:25:58.001000+00:00"
+cases_cited_count: 6
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f5c59e3b5aaffe28e5a90d57faab82df27f7f7c89dd33f1b7191c2ae584c0644"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Rose v. The Queen
+
+- Citation: 2012 TCC 161
+- Decision date: 2012-05-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7542, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rose v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-05-11
+Neutral citation
+2012 TCC 161
+File numbers
+2011-3147(IT)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-3147(IT)I
+BETWEEN:
+ELAINE J. ROSE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 19, 2012, at Calgary, Alberta
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Agent for the Appellant:
+Robert C. Rose
+Counsel for the Respondent:
+Robert A. Neilson
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2009 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 11th day of May 2012.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2012TCC161
+Date: 20120511
+Docket: 2011-3147(IT)I
+BETWEEN:
+ELAINE J. ROSE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller J.
+[1] Elaine J. Rose is appealing the reassessment of her 2009 taxation year in which the Minister of National Revenue (the “Minister”) disallowed her claim for tuition and education tax credits.
+[2] The Appellant was not present at the hearing but she was represented by her spouse. There was no dispute respecting the facts in this matter but the parties disagreed concerning the application of the law to those facts.
+[3] The Appellant is a full time assistant professor in the School of Nursing at Mount Royal College in Calgary. In 2009 the tuition and education tax credits which she claimed related to a doctoral program in Management in Organizational Leadership (the “Program”) which she studied online from the University of Phoenix. According to the documents submitted on behalf of the Appellant, she was enrolled in the Program on a full time basis. It is expected that the Program will take three years of study with an additional year to finish and defend her thesis. The Program is not offered in Canada but it is recognized by her employer; I assume for tenure purposes.
+[4] In 2009 the Appellant completed eight courses which ranged from 3 to 9 weeks in length. She paid tuition fees of $12,186US and education and textbooks fees of $4,650US.
+[5] The University of Phoenix had two campuses in Canada but the Appellant had no connection with either of these. She neither attended these campuses nor did she pay any of her fees to them.
+Tuition Credit
+[6] The first question to be determined is whether the Appellant was eligible to claim a tuition credit in 2009. The relevant portion of section 118.5 of the Income Tax Act (the “Act”) provides.
+Tuition credit
+118.5 (1) For the purpose of computing the tax payable under this Part by an individual for a taxation year, there may be deducted,
+(a) where the individual was during the year a student enrolled at an educational institution in Canada that is
+(i) a university, college or other educational institution providing courses at a post-secondary school level, or
+(b) where the individual was during the year a student in full-time attendance at a university outside Canada in a course leading to a degree, an amount equal to the product obtained when the appropriate percentage for the year is multiplied by the amount of any fees for the individual’s tuition paid in respect of the year to the university, except any such fees
+(i) paid in respect of a course of less than 13 consecutive weeks duration,
+[7] Paragraphs 118.5(1)(a) and (b) establish different conditions to claim the tuition credit based on (a) whether the individual was enrolled at an educational institution in Canada or (b) was in full-time attendance at a university outside Canada. Where paragraph (b) is applicable, then the tuition must be paid in respect of a course at least 13 consecutive weeks long.
+[8] In four recent decisions, this Court has considered whether individuals taking online courses through the University of Phoenix were enrolled at an educational institution in Canada.
+[9] Beaubier J. in Robinson v. Canada, 2006 TCC 644 and Little J. in Cammidge v. Canada, 2011 TCC 172 both held that such individuals were enrolled at an educational institution in Canada because the University of Phoenix had campuses in Canada. In Cammidge, Little J. reasoned that the University of Phoenix was an institution in Canada because it subjected itself to Canadian law by having campuses in Canada.
+[10] The Robinson and Cammidge decisions were not followed by Margeson J. in Faint v. Canada, 2011 TCC 260 and Webb J. in Abdalla v. Canada, 2011 TCC 328. They both concluded that individuals enrolled in online courses with the University of Phoenix and who had no connection with the university’s campuses in Canada were not enrolled at an educational institution in Canada. In Faint, Margeson J. stated:
+25 With respect to Phoenix, the only connection to Canada was the evidence that this university had a campus in Canada during the year in question. However, the Appellant did not take any courses at that campus, did not have any exams set or marked by that campus, did not pay fees to that campus, did not attend any classes at that campus, did not receive any instructions from that campus or receive any technical support from that campus.
+26 Under these circumstances, the Court cannot conclude that there were any connecting factors established to allow it to conclude that Phoenix was an institution in Canada under paragraph 118.5(1)(a) of the Act.
+27 The factors referred to by the Appellant in her argument do not disclose any sufficient connection to the Vancouver campus which would convince the Court to decide otherwise.
+[11] I agree with the conclusions reached in Faint (supra) and Abdella (supra). As stated by Webb J. in Abdella (supra), paragraph 118.5(1)(a) requires that the individual must be “enrolled at an educational institution in Canada” and not simply enrolled at an educational institution which has a campus in Canada.
+[12] The Appellant was enrolled in the doctoral program with the University of Phoenix in the United States. She paid her fees to the university in Phoenix; she received all of her instruction from the United States and when she had to attend seminars in person, she attended campuses in the United States. She had no connection with the campuses in Canada. I conclude that the Appellant was not enrolled at an educational institution in Canada and she has not met the conditions in paragraph 118.5(1)(a).
+[13] For the purposes of paragraph 118.5(1)(b), it was not disputed that the Appellant was in full attendance in a university outside Canada. The question is whether the tuition was paid in respect of a course which was at least 13 consecutive weeks long. There are conflicting decisions from this Court with respect to the meaning to be given to the word “course” in this section.
+[14] In Ferre v. Canada, 2010 TCC 593, Paris J. relied on the French version of paragraph 118.5(1)(b) to determine that the word “course” refers to a single course within a program of studies and not the entire program of study. Margeson J. in Faint (supra) agreed with the decision in Ferre. This interpretation would require that a single course taken by the Appellant last at least 13 consecutive weeks.
+[15] However, Bowie J. in Siddell v. Canada, 2011 TCC 250, relied on the intent of the legislation to interpret the word “course” as referring to the entire program taken by the individual in an academic year. At paragraph 11 he stated:
+11 It seems to me unlikely that Parliament would intend to provide a tax credit to a student who pursued the same five modules that Mr. Siddell pursued in 2008 if they were pursued simultaneously over the periods between January 10 and May 21 and between August 21 and December 10, which is two semesters, but to provide no credit to the student who completes the same modules one after the other as he did. That interpretation of the legislation, in the words of the Supreme Court in Cie immobilière ,
+... would clearly run contrary to the intent of the legislation and would consequently tend to defeat rather than assist the attainment of its objects.
+I therefore prefer to interpret the word “course” in this context as referring not to the individual modules, but the entire curriculum pursued throughout the academic year. I would note as well that this meaning seems more consonant with the words “leading to a degree” (in French, “conduisant à un diplôme”) which follow the word “course” (cours) where it first appears in paragraph 118.5(1)(b), and follow it also in the definition in subsection 118.6(1). The concept of a course leading to a degree is more in keeping with the whole curriculum of study than with a solitary subject within that curriculum.
+[16] Webb J. in Abdalla (supra) agreed with the conclusion in Siddell, but he based his reasoning on subsections 3(1) and 33(2) of the Interpretation Act which provide that words in the singular include the plural and words in the plural include the singular.
+[17] Paragraph 118.5(1)(b) has been amended for the 2011 and subsequent taxation years to reduce the minimum course length from at least 13 consecutive weeks to at least 3 consecutive weeks. A consideration of the amendment itself and its purpose leads me to conclude that the word “course” refers to a single course within a curriculum of studies as was determined by Paris J. in Ferre and not the entire curriculum as was determined by Bowie J. in Siddell. The technical notes and budget papers gave the purpose of the amendment as follows:
+Many programs at foreign universities are based on semesters shorter than 13 weeks, with the result that many Canadian students are denied tax recognition of education costs that would otherwise be eligible for the credits or are denied access to EAPs.
+To improve the tax recognition of education costs and access to EAPs for Canadian post-secondary students who study outside Canada, Budget 2011 proposes to reduce the minimum course-duration requirement that a Canadian student at a foreign university must meet in order to claim the Tuition, Education and Textbook Tax Credits to three consecutive weeks from 13 consecutive weeks. It is also proposed that the 13-consecutive-week requirement for EAP purposes be reduced to three consecutive weeks when the student is enrolled at a university in a full-time course. The three-consecutive-week requirement is consistent with the policy that applies to post-secondary students who study in Canada for the purposes of qualifying for the Education Tax Credit, the Textbook Tax Credit and EAPs. (The Tuition Tax Credit has no minimum duration requirement when the program is taken from an institution in Canada.)
+[18] Paragraph 118.5(1)(b) was amended so that Canadian students who were enrolled full-time at foreign universities with school terms shorter than 13 weeks would still qualify for the tuition tax credit. It is my view that the amendment was intended to ensure that students, like the Appellant, who completed their courses one after the other, rather than simultaneously, would be eligible for the tuition tax credit.
+[19] In this appeal, each of the individual courses taken by the Appellant in 2009 was less than 13 weeks in duration. Regrettably, I find that the Appellant was not eligible for the tuition tax credit in 2009.
+[20] In order to be eligible for the education tax credit, subsections 118.6(1) and (2) require that the Appellant meet the same conditions as were contained in subsection 118.5(1). The Appellant must be enrolled in a qualifying educational program as a full-time student at a designated educational institution. Subsection 118.6(1) defines “designated educational institution” as one which is (a) in Canada or (b) outside Canada at which the individual was enrolled in a course of at least 13 weeks duration.
+[21] Pursuant to subsection 118.6(2.1), a textbook tax credit can only be claimed by individuals who are entitled to an education tax credit.
+[22] Because the University of Phoenix in not an educational institution in Canada and none of the courses completed by the Appellant in 2009 were at least 13 weeks duration, I conclude that the university was not a “designated educational institution” and the Appellant is not eligible to claim the education tax credit and consequently, she is not entitled to the textbook tax credit in 2009.
+[23] The appeal is dismissed.
+Signed at Ottawa, Canada, this 11th day of May 2012.
+“V.A. Miller”
+V.A. Miller J.
+CITATION: 2012TCC161
+COURT FILE NO.: 2011-3147(IT)I
+STYLE OF CAUSE: ELAINE J. ROSE AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Calgary, Alberta
+DATE OF HEARING: April 19, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: May 11, 2012
+APPEARANCES:
+Agent for the Appellant:
+Robert C. Rose
+Counsel for the Respondent:
+Robert A. Neilson
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

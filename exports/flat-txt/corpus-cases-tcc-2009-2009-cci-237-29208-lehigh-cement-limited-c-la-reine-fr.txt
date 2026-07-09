@@ -1,0 +1,435 @@
+Title: Lehigh Cement Limited c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29208/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-237-29208-lehigh-cement-limited-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-04-29
+
+# Lehigh Cement Limited c. La Reine
+
+- Citation: 2009 CCI 237
+- Decision date: 2009-04-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6704, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lehigh Cement Limited c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-04-29
+Référence neutre
+2009 CCI 237
+Numéro de dossier
+2007-2107(IT)G
+Juges et Officiers taxateurs
+Murray A. Mogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-2107(IT)G
+ENTRE :
+LEHIGH CEMENT LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus les 16 et 17 octobre 2008,
+à Vancouver (Colombie-Britannique)
+Devant : L’honorable juge M. A. Mogan
+Comparutions :
+Avocats de l’appelante :
+Me Warren J. A. Mitchell, c.r. et
+Me Mathew Williams
+Avocats de l’intimée :
+Me Daniel Bourgeois et
+Me Ronald MacPhee
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu (la « Loi ») pour les années d’imposition 1998, 1999, 2000, 2001 et 2002, dont les avis sont datés du 3 mai 2005, sont accueillis, et les nouvelles cotisations sont renvoyées au ministre du Revenu national (le « ministre ») pour nouvel examen et nouvelles cotisations, étant entendu que, dans le calcul de son revenu, l’appelante a le droit de déduire tous les paiements trimestriels d’intérêts faits à la Banque Bruxelles Lambert de mars 1998 à septembre 2002 inclusivement.
+Les appels interjetés à l’encontre des nouvelles cotisations établies en vertu de la Loi pour les années d’imposition 1998, 1999, 2000, 2001 et 2002, dont les avis sont datés du 28 avril 2005, sont accueillis, et les nouvelles cotisations sont renvoyées au ministre pour nouvel examen et nouvelles cotisations, mais uniquement aux fins d’annulation des pénalités établies en vertu du paragraphe 227(8) de la Loi.
+Signé à Ottawa, Canada, ce 29e jour d’avril 2009.
+« M. A. Mogan »
+Juge suppléant Mogan
+Traduction certifiée conforme
+ce 14e jour de septembre 2009.
+Mario Lagacé, jurilinguiste
+Référence : 2009 CCI 237
+Date : 20090429
+Dossier : 2007-2107(IT)G
+ENTRE :
+LEHIGH CEMENT LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant Mogan
+[1] L’appelante, constituée en société au Canada en 1986, était résidente du Canada à toutes les époques pertinentes. Elle fait partie d’un groupe d’entreprises du bâtiment qui sont toutes contrôlées, directement ou indirectement, par Heidelburger Zement (HZ), une société allemande dont les actions sont cotées en bourse. Les années d’imposition visées par l’appel sont 1998, 1999, 2000, 2001 et 2002. Durant chacune de ces années, l’appelante était redevable à une société belge liée (membre du groupe HZ) d’une somme de 140 millions de dollars (ci-après appelée parfois le « montant du prêt »). Le montant du prêt est toujours exprimé en dollars canadiens.
+[2] Suivant les instructions de la société belge liée, l’appelante a payé les intérêts (9 800 000 $ par année) sur le montant du prêt à une banque belge avec laquelle elle n’avait pas de lien de dépendance. L’appelante a déduit ces paiements d’intérêts au moment de calculer son revenu aux fins de l’impôt canadien sur le revenu. Par des avis datés du 3 mai 2005, le ministre du Revenu national (le « ministre ») a établi de nouvelles cotisations à l’égard de l’appelante en vertu de la partie I de la Loi de l’impôt sur le revenu (la « Loi »), pour lui refuser la déduction d’une partie des sommes payées chaque année à titre d’intérêts sur le montant du prêt. La portion des sommes payées à titre d’intérêts qui a été refusée comme déduction par le ministre allait de 71 p. 100 à 90 p. 100 des montants totaux annuels (9 800 000 $) pour les cinq années visées par l’appel.
+[3] Par des avis datés du 28 avril 2005, le ministre a établi de nouvelles cotisations à l’égard de l’appelante en vertu de la partie XIII de la Loi parce qu’elle n’avait pas prélevé l’impôt à la source sur les paiements d’intérêts se rapportant au montant du prêt. Le ministre lui a aussi imposé une pénalité de 10 p. 100 en vertu de l’article 227 de la Loi. Pour chaque année visée par l’appel, l’impôt de la partie XIII était de 1 470 000 $ et la pénalité de 147 000 $. (En 2002, ces deux montants, l’impôt et la pénalité, étaient plus faibles d’environ 24 p. 100).
+[4] Pour établir les nouvelles cotisations indiquées aux paragraphes 2 et 3 ci‑dessus, le ministre s’est fondé sur l’article 16 de la Loi, la partie XIII de la Loi et la disposition générale anti-évitement (la « DGAÉ ») énoncée à l’article 245 de la Loi. L’appelante a fait appel de ces nouvelles cotisations. Au début de l’audition de ces appels, les parties ont déposé, comme pièce 1, un exposé conjoint des faits (l’« ECF ») comprenant 48 paragraphes. L’ECF fait état de sept différentes sociétés au sein du groupe HZ. Les relations et opérations entre membres du groupe HZ sont assez complexes, et je reproduirai ici l’intégralité de l’ECF.
+[traduction]
+Exposé conjoint des faits
+L’appelante
+1. L’appelante a été constituée le 26 septembre 1986 sous la dénomination « CBR Cement Canada Limited » et elle est résidente du Canada.
+2. Le 1er octobre 1998, l’appelante a changé sa dénomination pour « Lehigh Portland Cement Limited ». L’appelante a adopté sa dénomination actuelle, « Lehigh Cement Limited », le 1er février 2002.
+3. L’appelante avait pour activité la fabrication de ciment ainsi que d’agrégats, de béton prémélangé et autres matériaux de construction.
+L’organisation durant la période en cause
+4. La société Heidelburger Zement (« HZ ») était une société allemande cotée en bourse et faisait office de société mère pour le groupe CBR d’entreprises du bâtiment.
+5. L’actionnaire direct de l’appelante était Sodexcar SA, une société belge, et Sodexcar SA était une filiale en propriété exclusive d’une autre société belge, Cimenterics CBR SA (« CBR SA »).
+6. La société CBR Materials Corporation of Canada Limited (« Materials ») a été constituée le 26 septembre 1986. Elle était résidente du Canada et faisait partie du groupe de l’appelante.
+7. La société CBR International Services SA (« CBR IS ») était une société domiciliée en Belgique qui appartenait en dernière analyse à HZ. CBE IS était un centre de coordination belge qui faisait office de centre de trésorerie pour les sociétés du groupe HZ.
+L’emprunt de 1986
+8. Le 23 octobre 1986, l’appelante a conclu un accord de crédit avec un consortium bancaire mené par la Banque Royale du Canada, accord en vertu duquel lui était consentie une facilité de crédit ne pouvant pas dépasser 330 000 000 $ (l’« accord de crédit de 1986 »).
+9. L’emprunt devait lui permettre d’acheter à la société Genstar Corporation, domiciliée au Canada, certains actifs liés aux cimenteries, à la fabrication d’agrégats et aux matériaux de construction.
+10. Cette facilité de crédit comprenait une « facilité de crédit à terme », en vertu de laquelle l’appelante recevait un prêt de 140 millions de dollars portant un taux d’intérêt variable (le « prêt »).
+11. Par un accord appelé l’« accord de participation », daté du 11 décembre 1986, le droit de recevoir le principal et les intérêts du prêt était cédé à Materials pour la somme de 140 millions de dollars. Le principal dû sur le prêt à cette date était de 140 millions de dollars.
+12. La somme de 140 millions de dollars a été acquise par Materials grâce à l’émission de 140 000 actions privilégiées de Materials en faveur de CBR SA le 12 décembre 1986. La source des fonds destinés à cet achat était un prêt consenti par CBR IS, le centre de trésorerie du groupe CBR. Les actions privilégiées ont par la suite, le 27 septembre 1993, été cédées à la société Industriele Deelneming Maatschappij (Idema) B.V. (Idema B.V.), une filiale directe de CBR SA.
+13. Par une lettre d’entente datée du 29 septembre 1987, conclue entre Materials et l’appelante, la date d’échéance applicable au prêt fut reportée, de telle sorte que le prêt devenait remboursable à vue seulement.
+14. Après 1987, l’unique somme due en vertu de l’accord de crédit de 1986 était la somme de 140 millions de dollars, due à Materials.
+La cession de 1994
+15. Par une « cession » datée du 15 septembre 1994, et en contrepartie du paiement de la somme de 140 millions de dollars, Materials a vendu, transféré et cédé à CBR IS le droit de recevoir le principal et les intérêts du prêt.
+16. Aucune somme additionnelle n’a été acquise par le groupe CBR pour l’exécution de cette opération. Les flux financiers du groupe CBR au titre de cette opération étaient les suivants :
+a) Materials a cédé le prêt à CBR IS pour la somme de 140 millions de dollars;
+b) Materials a employé les 140 millions de dollars pour racheter les actions privilégiées détenues par Idema B.V.;
+c) Idema B.V. a été liquidée par CBR SA;
+d) CBR SA a utilisé les 140 millions de dollars reçus à la liquidation pour rembourser le prêt que lui avait consenti CBR IS en 1986.
+17. À la suite de ces opérations, Materials et l’appelante ont fusionné pour former une nouvelle société qui a continué de s’appeler CBR Cement Canada Limited (aujourd’hui l’appelante).
+18. Par la même cession, les dispositions de remboursement se rapportant au prêt ont été modifiées de telle sorte que le prêt devait être remboursé intégralement le 15 septembre 2009, sous réserve d’une option accordée à l’appelante, qui pouvait reporter le terme pour des périodes successives de cinq ans.
+19. La totalité de la somme de 140 millions de dollars due par l’appelante à CBR IS était encore non remboursée au 27 août 1997.
+La restructuration de 1997
+20. Avant août 1997, l’appelante a retenu et versé un impôt de 15 p. 100 sur les intérêts payés à CBR IS, conformément à l’alinéa 212(1)b) de la Loi de l’impôt sur le revenu (la « Loi »). Déjà, en janvier 1997, l’appelante avait entrepris de revoir le prêt pour savoir s’il pouvait être restructuré afin d’éviter cet impôt. Cela paraissait le bon moyen de rapatrier des fonds vers CBR IS puisque les intérêts seraient alors déductibles au Canada et non soumis à la retenue fiscale.
+21. Alors que la nouvelle structure prenait effet, les taux d’intérêt étaient quelque part à leur plus bas niveau historique au Canada, mais une hausse des taux était prévisible.
+22. Avant la modification et la reformulation de l’accord de crédit, le taux d’intérêt applicable au prêt était le taux préférentiel pratiqué au Canada, lequel, à l’époque, était de 4,75 p. 100. On prévoyait que le taux préférentiel pratiqué au Canada allait passer à 5 p. 100.
+23. Par le titre « Modification et reformulation de l’Accord de crédit sous la forme d’un effet subordonné échéant le 15 septembre 2009 », l’accord de crédit de 1986, qui comprenait le prêt, était reformulé en tant qu’effet subordonné (l’« effet »).
+24. Selon les modalités de l’effet, l’appelante n’était pas tenue, quelles que soient les circonstances (autre qu’un cas de défaut), de payer plus de 25 p. 100 du principal de l’effet au cours des cinq ans suivant la date d’émission de l’effet.
+25. Les modalités de l’effet donnaient à son titulaire (en l’occurrence CBR IS) le droit de vendre à un tiers la totalité ou une partie du droit aux paiements d’intérêts résultant de l’effet (chaque paiement appelé ci-après « paiement d’intérêts »). Le droit de propriété sur un paiement d’intérêts était attesté par un « reçu de paiement d’intérêts ».
+26. Les modalités du prêt étaient également modifiées, comme il suit :
+a) Le taux d’intérêt cessait d’être le taux préférentiel pratiqué au Canada pour devenir un taux fixe de 7 p. 100 durant les cinq premières années.
+b) L’appelante prenait la responsabilité de tout impôt prévu par la partie XIII, en acceptant d’ajouter aux paiements d’intérêts toute retenue fiscale payable, de telle sorte que le paiement d’intérêts nets au titulaire de l’effet resterait intact.
+27. S’agissant de la structure existante du prêt, le faible taux d’intérêt était perçu par le groupe CBR comme un facteur d’amoindrissement des avantages pour le groupe. La raison de cela était que la déduction des intérêts au Canada était plus faible et que les sommes pouvant être rapatriées en Belgique étaient moindres.
+28. Une nouvelle structure de prêt qui permettrait de facturer à l’appelante un taux d’intérêt plus élevé et d’éliminer la retenue fiscale canadienne sur les paiements d’intérêts était perçue par le groupe CBR comme un moyen efficace de rapatrier en Belgique les bénéfices canadiens.
+29. Le groupe CBR a considéré que le taux d’intérêt normal au Canada applicable à un tel effet pour une période de cinq ans était de 7 p. 100. Ce taux fut confirmé comme raisonnable au cours de discussions tenues avec les banquiers du groupe aux États-Unis.
+30. Au moment d’établir les nouvelles cotisations, l’Agence du revenu du Canada a considéré que le taux de 7 p. 100 était le taux d’intérêt pratiqué sur le marché pour une dette de cette nature.
+31. D’après une analyse faite au printemps de 1997, on estimait que les épargnes qui seraient réalisées au cours de la durée du prêt grâce à la nouvelle structure de prêt seraient d’environ 11 millions de dollars. Selon le taux d’intérêt qui serait appliqué, la valeur actualisée nette des épargnes était estimée à une somme se situant entre 13,1 millions de dollars et 19,7 millions de dollars pour le groupe CBR. Ces épargnes seraient réalisées principalement par évitement au Canada de l’impôt de la partie XIII.
+La vente des reçus de paiements d’intérêts
+32. Le 28 août 1997, CBR IS vendait à la Banque Bruxelles Lambert (BBL), une société belge, pour la somme de 42 673 913,67 $, le droit de recevoir tous les paiements d’intérêts sur le prêt exigibles avant le 16 septembre 2002 (la « convention d’achat »).
+33. BBL était une banque belge qui traitait avec l’appelante et qui n’avait pas avec elle de lien de dépendance.
+34. À l’époque, la valeur nominale des reçus de paiements d’intérêts totalisait 49 456 438,30 $, somme payable comme il suit :
+Date
+Montant
+Le 15 décembre 1997
+2 906 438,30 $
+Le 16 mars 1998
+2 450 000,00 $
+Le 15 juin 1998
+2 450 000,00 $
+Le 15 septembre 1998
+2 450 000,00 $
+Le 15 décembre 1998
+2 450 000,00 $
+Le 15 mars 1999
+2 450 000,00 $
+Le 15 juin 1999
+2 450 000,00 $
+Le 15 septembre 1999
+2 450 000,00 $
+Le 15 décembre 1999
+2 450 000,00 $
+Le 15 mars 2000
+2 450 000,00 $
+Le 15 juin 2000
+2 450 000,00 $
+Le 15 septembre 2000
+2 450 000,00 $
+Le 15 décembre 2000
+2 450 000,00 $
+Le 15 mars 2001
+2 450 000,00 $
+Le 15 juin 2001
+2 450 000,00 $
+Le 17 septembre 2001
+2 450 000,00 $
+Le 17 décembre 2001
+2 450 000,00 $
+Le 15 mars 2002
+2 450 000,00 $
+Le 17 juin 2002
+2 450 000,00 $
+Le 16 septembre 2002
+2 450 000,00 $
+49 456 438,30 $
+35. À la suite des opérations ci-dessus, CBR IS continuait de détenir le « droit de recevoir le reliquat du principal » sur le prêt de 140 millions de dollars consenti à l’appelante, tandis que l’appelante faisait les paiements d’intérêts à BBL.
+36. Un facteur déterminant de la décision de BBL de prendre part à cette opération était la nécessité pour la société mère de l’appelante d’offrir à BBL un contrat d’option de vente.
+37. Par un « contrat d’option de vente » conclu le 28 août 1997, CBR SA reconnaissait que, en cas de défaut sur l’effet, CBR SA pourrait être tenue d’acheter à BBL, selon un prix déterminé, les « reçus de paiements d’intérêts ».
+38. Comme condition supplémentaire de l’acquisition des reçus de paiements d’intérêts, BBL exigeait que CBR IS consente à BBL une « garantie de provisionnement » pour protéger BBL contre les pertes de couverture pouvant résulter d’un paiement anticipé d’intérêts.
+39. À chaque date de paiement des intérêts, l’appelante payait les intérêts directement à BBL comme cela était stipulé dans le reçu de paiement d’intérêts, et elle déduisait lesdits paiements d’intérêts dans le calcul de son revenu. L’appelante ne retenait aucun impôt de la partie XIII sur les paiements d’intérêts faits à BBL.
+40. En conséquence des opérations susmentionnées, l’appelante n’a pas recouru aux marchés internationaux de capitaux, mais a plutôt restructuré un prêt existant conclu avec une société liée. L’appelante ne contractait aucun nouvel emprunt.
+Les nouvelles cotisations
+41. Par des avis datés du 3 mai 2005, le ministre du Revenu national (le « ministre ») a établi de nouvelles cotisations à l’égard de l’appelante pour les années d’imposition 1998 à 2000, en vertu de la partie I de la Loi, afin de considérer une partie des paiements d’intérêts comme autre chose que des intérêts, et de refuser une partie de la déduction demandée par l’appelante pour les paiements d’intérêts, comme il suit :
+Année
+Intérêts débiteurs dont la déduction était refusée
+1998
+7 641 188 $
+1999
+8 024 849 $
+2000
+8 427 774 $
+2001
+8 850 929 $
+2002
+6 929 598 $
+42. Par des avis datés du 28 avril 2005, le ministre a aussi établi de nouvelles cotisations à l’égard de l’appelante en vertu de la partie XIII de la Loi, afin d’appliquer la retenue fiscale aux paiements d’intérêts et d’imposer une pénalité en application du paragraphe 227(8) de la Loi, selon les montants suivants :
+Année
+Retenue fiscale selon la partie XIII
+Pénalité selon le paragraphe 227(8)
+1998
+1 470 000 $
+147 000 $
+1999
+1 470 000 $
+147 000 $
+2000
+1 470 000 $
+147 000 $
+2001
+1 470 000 $
+147 000 $
+2002
+1 102 500 $
+110 250 $
+La DGAÉ
+43. De 1998 à 2002, en conséquence d’une série d’opérations, CBR IS a été soustraite à la retenue fiscale prévue par la partie XIII sur les paiements d’intérêts que lui faisait l’appelante au titre du prêt.
+44. La série d’opérations comprenait les opérations suivantes (la « série d’opérations ») :
+a) la modification et la reformulation de l’accord de crédit conclu entre CBR IS et l’appelante;
+b) la convention d’achat conclue entre CBR IS et BBL;
+c) les paiements effectués par l’appelante à BBL de 1998 à 2002.
+45. Ni la modification et la reformulation de l’accord de crédit ni la convention d’achat n’ont été effectuées principalement pour des objets véritables si ce n’est l’évitement de l’impôt de la partie XIII.
+46. L’objet principal poursuivi par l’appelante lorsqu’elle a conclu les opérations ci-dessus décrites était de faire en sorte que les paiements d’intérêts sur le prêt s’accordent avec les dispositions d’exonération du sous-alinéa 212(1)b)(vii) de la Loi.
+47. La série d’opérations a entraîné un « avantage fiscal » selon la définition que donne de cette expression le paragraphe 245(1) de la Loi.
+48. En conséquence des faits énumérés au paragraphe 42 de cet exposé conjoint des faits, la série d’opérations s’est soldée par une « opération d’évitement » selon la définition que donne de cette expression le paragraphe 245(3) de la Loi.
+[5] Nul n’a été appelé à témoigner durant l’audition des présents appels. La pièce 2 est un recueil conjoint de documents réunissant 30 documents sous des onglets numérotés séparément. La pièce 3 est un classeur des principaux documents de l’appelante, au nombre de cinq, dont chacun est contenu dans la pièce 2. Les pièces 4, 5, 6 et 7 sont des reproductions de certaines portions des interrogatoires préalables des deux parties, ce à quoi s’ajoute une lettre de l’avocat de l’appelante se rapportant à certains engagements.
+[6] Dans son argumentation, l’avocat de l’appelante a déclaré que les 19 premiers paragraphes de l’ECF avaient simplement valeur de renseignements généraux. Cela est sans doute tout à fait vrai, mais les renseignements généraux sont pertinents. Ces 19 premiers paragraphes décrivent certaines opérations allant de septembre 1986 à août 1997 et faisant intervenir quelque six entités du groupe HZ. Au risque de commettre une erreur en récapitulant les faits sur lesquels les parties se sont entendues, je me propose de résumer les opérations les plus pertinentes décrites dans ces 19 premiers paragraphes, en utilisant les dénominations sociales abrégées apparaissant déjà dans l’ECF.
+A. En octobre 1986, l’appelante a emprunté 140 millions de dollars (le montant du prêt) à un consortium de banques canadiennes. Le montant du prêt a été employé par l’appelante pour l’acquisition d’actifs commerciaux. L’opération d’emprunt et de prêt conclue entre l’appelante et le consortium bancaire est ci-après appelée le « prêt ».
+B. En décembre 1986, Materials (entité du groupe HZ) a acheté au consortium bancaire canadien le prêt en cours, sur paiement d’une somme égale au montant du prêt.
+C. À l’intérieur du groupe HZ, CBR IS est le centre de trésorerie. Materials s’est procuré les fonds pour acheter le prêt en cours en émettant des actions privilégiées d’une valeur de 140 millions de dollars en faveur de CBR SA (entité du groupe HZ), laquelle avait emprunté cette somme à CBR IS.
+D. En septembre 1987, Materials et l’appelante se sont entendues pour modifier la date d’échéance du prêt, de telle sorte que le prêt devenait remboursable à vue seulement.
+E. En septembre 1994, Materials a vendu à CBR IS le prêt en cours pour la somme de 140 millions de dollars.
+F. Aucun crédit additionnel n’était requis au sein du groupe HZ pour effectuer l’opération indiquée dans E ci-dessus. Le montant de base de 140 millions de dollars faisait tout simplement un cercle, comme il suit :
+(i) CBR IS a versé le montant de base de 140 millions de dollars à Materials pour que Materials puisse acheter le prêt en cours.
+(ii) Materials a utilisé le montant de base pour racheter les actions privilégiées mentionnées dans C ci-dessus.
+(iii) CBR SA a utilisé le montant de base reçu au rachat des actions privilégiées pour rembourser la somme empruntée à CBR IS en décembre 1986 et mentionnée dans B et C ci-dessus.
+G. Après les opérations indiquées dans E et F ci-dessus, Materials et l’appelante ont fusionné, et la nouvelle société issue de la fusion est devenue l’appelante.
+H. Lorsque le prêt en cours a été vendu par Materials à CBR IS en septembre 1994 (voir E ci-dessus), les dispositions de remboursement ont été modifiées de telle sorte que le montant du prêt devait être remboursé intégralement le 15 septembre 2009, sous réserve de l’option conférée à l’appelante de prolonger le terme pour des périodes successives de cinq ans.
+I. Le 27 août 1997, l’appelante devait l’intégralité du montant du prêt à CBR IS.
+[7] Le paragraphe 6 ci-dessus est mon résumé des 19 premiers paragraphes de l’ECF. Les paragraphes restants de l’ECF contiennent les faits plus pertinents sur lesquels étaient fondées les nouvelles cotisations. Il n’est pas nécessaire de résumer ces paragraphes restants, mais je m’y référerai plus loin dans les présents motifs.
+[8] Il n’y a que deux points en litige dans les présents appels :
+(i) Pour les années d’imposition 1998 à 2002, les faits et le droit valident‑ils les nouvelles cotisations (du 3 mai 2005) où est refusée, comme déduction dans le calcul du revenu, une portion des sommes payées par l’appelante à titre d’intérêts sur le montant du prêt? Ces nouvelles cotisations se fondent sur l’alinéa 16(1)a) de la Loi. Voir le paragraphe 41 de l’ECF.
+(ii) Pour les années d’imposition 1998 à 2002, les faits et le droit valident‑ils les nouvelles cotisations (du 28 avril 2005) qui refusent à l’appelante l’exemption de retenue fiscale conférée par le sous‑alinéa 212(1)b)(vii) de la Loi? Ces nouvelles cotisations se fondent sur la DGAÉ, qui est l’article 245 de la Loi. Voir le paragraphe 42 de l’ECF.
+La question de l’alinéa 16(1)a)
+[9] Au cours des cinq années d’imposition visées par l’appel, l’appelante a fait à la Banque Bruxelles Lambert (BBL) des paiements trimestriels d’intérêts sur le montant du prêt (140 millions de dollars). Ces paiements trimestriels sont regroupés en paiements annuels et apparaissent dans le tableau ci-après. Le paiement annuel de 2002 est inférieur à celui des années antérieures parce que, cette année-là, trois paiements trimestriels seulement ont été faits à BBL. Par ailleurs, dans le tableau ci-après, figurent les montants refusés à l’appelante comme déductions dans le calcul de son revenu, par les nouvelles cotisations du 3 mai 2005. Et finalement, dans le même tableau, figure une indication du pourcentage que la portion refusée représente par rapport au paiement annuel total fait par l’appelante à BBL.
+Année d’imposition
+Paiements annuels faits à BBL
+Portion refusée comme déduction
+Portion refusée en pourcentage du total
+1998
+9 800 000 $
+7 641 188 $
+78 %
+1999
+9 800 000 $
+8 024 849 $
+82 %
+2000
+9 800 000 $
+8 427 774 $
+86 %
+2001
+9 800 000 $
+8 850 929 $
+90 %
+2002
+7 350 000 $
+6 929 598 $
+94 %
+[10] La portion des paiements annuels faits par l’appelante à BBL qui a été refusée comme déduction chaque année, selon ce qui apparaît au paragraphe 9 ci‑dessus, a été calculée par l’Agence du revenu du Canada (l’« ARC ») d’après l’opération conclue entre CBR IS et BBL qui est décrite aux paragraphes 32, 33 et 34 de l’ECF. Par cette opération, CBR IS vendait à BBL le droit de recevoir la totalité des 20 montants d’intérêts (payables par l’appelante) sur le montant du prêt qui étaient exigibles en versements trimestriels, du 15 décembre 1997 au 16 septembre 2002 inclusivement. Le total de ces 20 versements trimestriels était de 49 456 438,30 $. BBL a versé à CBR IS, en août 1997, une somme forfaitaire de 42 673 913,67 $ pour le droit de recevoir ces 20 versements trimestriels.
+[11] Dans une lettre en date du 22 avril 2005 adressée par l’ARC à l’appelante, l’ARC a arrondi les deux montants concernés : la somme de 49 456 438,30 $ devenait 50 millions de dollars, et la somme de 42 673 913,67 $ devenait 43 millions. Cette lettre contenait notamment ce qui suit :
+[traduction]
+Les paiements que BBL a reçus se chiffraient en droit à la somme de 50 millions de dollars d’intérêts, mais, en termes économiques, la véritable rémunération de BBL n’est que de 7 millions de dollars parce qu’elle supportait un coût de 43 millions de dollars pour l’achat des coupons d’intérêts.
+Pièce 2, onglet 15, page 7
+[12] Utilisant ces montants arrondis, on peut exprimer comme il suit le principe suivi par l’ARC pour établir la nouvelle cotisation :
+(i) BBL a fait une dépense en capital de 43 millions de dollars pour le droit de recevoir, sur une période de cinq ans, une série de 20 paiements trimestriels.
+(ii) Le total des 20 paiements trimestriels pour la période de cinq ans était de 50 millions de dollars.
+(iii) Puisque les paiements trimestriels étaient tous d’un montant égal, chaque paiement contenait une partie de la dépense initiale en capital (43 millions de dollars), plus quelques intérêts gagnés sur cette dépense en capital.
+(iv) Comme dans toute dette amortie, la portion « intérêts » de chaque paiement égal successif diminuait, et la portion « capital » de chaque paiement égal successif augmentait.
+(v) Dans le tableau du paragraphe 9 ci-dessus, ce principe à la base de la nouvelle cotisation explique pourquoi la portion refusée chaque année à titre de « capital » est passée de 78 p. 100 en 1998 à 94 p. 100 en 2002.
+La lettre adressée par l’ARC à l’appelante, citée ci-dessus (pièce 2, onglet 15), contient, à la page 18, un tableau d’amortissement indiquant comment était calculée la portion « capital » de chaque paiement trimestriel. Le total des portions « capital » des quatre paiements trimestriels d’une année donnée devenait la « portion refusée » dans le tableau du paragraphe 9 ci-dessus. En outre, le total des portions « capital » des 20 paiements trimestriels représentait la dépense en capital de 43 millions de dollars.
+[13] Comme l’indique le tableau du paragraphe 9, les nouvelles cotisations du 3 mai 2005 refusaient, comme déductions dans le calcul du revenu, une part importante des paiements d’intérêts faits par l’appelante à BBL. Ces nouvelles cotisations sont fondées sur l’alinéa 16(1)a) de la Loi.
+16(1) Les règles suivantes s’appliquent dans le cas où, selon un contrat ou un autre arrangement, il est raisonnable de considérer un montant en partie comme des intérêts ou comme un autre montant ayant un caractère de revenu et en partie comme un montant ayant un caractère de capital :
+a) la partie du montant qu’il est raisonnable de considérer comme des intérêts est, quels que soient la date, la forme ou les effets juridiques du contrat ou de l’arrangement, considérée comme des intérêts sur un titre de créance détenu par la personne à qui le montant est payé ou payable;
+b) […]
+Certains mots employés dans l’ECF (voir en particulier les paragraphes 35 et 39) donnent à penser que les parties ont reconnu que le montant tout entier de chaque paiement effectué par l’appelante à BBL avait le caractère d’« intérêts » et non de « capital ». Dans une lettre adressée à la Cour après l’audience, l’avocat de l’appelante a admis que ces mots ne devraient pas être interprétés par l’intimée comme une admission. Les mots en question n’étaient utilisés dans l’ECF que pour rendre compte de la forme des documents concernés.
+[14] La modification et reformulation de l’accord de crédit, datée du 28 août 1997, est la pièce 2, onglet 1. L’annexe « I » de cet accord est l’effet subordonné venant à échéance le 15 septembre 2009. Au paragraphe 1a) de l’effet subordonné, l’intérêt annuel payable sur le montant du prêt est fixé à 7 p. 100 pour la période allant du 28 août 1997 au 15 septembre 2002. C’est le taux d’intérêt de 7 p. 100 sur le montant du prêt (140 millions de dollars) qui nécessitait des paiements annuels d’intérêts de 9 800 000 $ et des paiements trimestriels de 2 450 000 $, comme on peut le voir au paragraphe 34 de l’ECF, et dans le tableau du paragraphe 9 ci-dessus.
+[15] S’agissant de l’effet subordonné daté du 28 août 1997, ainsi que du taux d’intérêt de 7 p. 100 l’an allant de cette date jusqu’au 15 septembre 2002, l’ECF renferme ce qui suit :
+[traduction]
+29. Le groupe CBR a considéré que le taux d’intérêt normal au Canada applicable à un tel effet pour une période de cinq ans était de 7 p. 100. Ce taux fut confirmé comme raisonnable au cours de discussions tenues avec les banquiers du groupe aux États-Unis.
+30. Au moment d’établir les nouvelles cotisations, l’Agence du revenu du Canada a considéré que le taux de 7 p. 100 était le taux d’intérêt pratiqué sur le marché pour une dette de cette nature.
+Je conclus de ces affirmations que le taux de 7 p. 100 était le « taux d’intérêt normal » et le « taux d’intérêt pratiqué sur le marché » pour le principal et pour les cinq premières années de l’effet subordonné lorsqu’il a été signé en août 1997.
+[16] Les mots les plus importants, dans les lignes introductives du paragraphe 16(1) de la Loi, sont les suivants :
+[…] dans le cas où, selon un contrat[…], il est raisonnable de considérer un montant en partie comme des intérêts[…] et en partie comme un montant ayant un caractère de capital[…]
+Le point que je dois décider est celui de savoir s’il est raisonnable de considérer chaque paiement trimestriel fait par l’appelante à BBL de décembre 1997 à septembre 2002 en partie comme des intérêts et en partie comme du capital. Il s’agit essentiellement d’une question de fait. Pour les motifs qui suivent, je suis arrivé à la conclusion qu’il n’est pas raisonnable de considérer comme du capital une partie quelconque d’un paiement trimestriel fait par l’appelante à BBL.
+[17] Le paragraphe 34 de l’ECF montre que les 19 paiements trimestriels faits par l’appelante à titre d’emprunteur au cours des cinq années d’imposition visées par l’appel étaient tous égaux à 2 450 000 $. L’effet subordonné (pièce 2, onglet 1, annexe « I ») précise, en son paragraphe 1a), que des intérêts au taux de 7 p. 100 l’an seront payés sur le montant du prêt (140 millions de dollars) pour la période au cours de laquelle ces 19 paiements trimestriels seraient faits. Un taux de 7 p. 100 sur 140 millions de dollars produit des intérêts annuels de 9 800 000 $ et des intérêts trimestriels de 2 450 000 $. Selon les modalités de l’effet subordonné, l’appelante, en tant qu’emprunteur, était tenue de payer des intérêts au taux de 7 p. 100 l’an sur le montant du prêt. Dans l’esprit de l’appelante, la totalité de chaque paiement trimestriel (2 450 000 $) était constituée d’intérêts parce qu’il s’agissait du seul moyen par lequel l’appelante pouvait s’acquitter de son obligation de payer des intérêts annuels de 7 p. 100 sur le montant du prêt.
+[18] Par ailleurs, après septembre 2002, mois au cours duquel le vingtième paiement trimestriel avait été fait par l’appelante à BBL, l’appelante devait encore à CBR IS, détentrice de l’effet subordonné, la totalité du montant du prêt (140 millions de dollars). Autrement dit, s’il était raisonnable de considérer comme du capital une partie quelconque d’un paiement trimestriel, alors le montant du prêt (140 millions de dollars) aurait été réduit de ce capital.
+[19] Un examen attentif du tableau d’amortissement annexé à la lettre de l’ARC (pièce 2, onglet 15, page 18) montre que l’ARC ne pouvait amortir le recouvrement par BBL de sa dépense en capital (42 673 914 $) qu’en attribuant un taux d’intérêt de 4,929105 p. 100 l’an aux 20 paiements trimestriels. Dans l’esprit de l’appelante, un taux d’intérêt de 4,929105 p. 100 était une abstraction. L’unique taux d’intérêt que l’appelante reconnaissait était le taux de 7 p. 100 l’an qu’elle était tenue de payer selon les modalités de l’effet subordonné.
+[20] L’ARC a pu attribuer un élément « capital » à chacun des 20 paiements trimestriels parce qu’elle ne considérait que l’opération entre BBL et CBR IS par laquelle BBL avait payé 43 millions de dollars (somme arrondie) en août 1997 pour le droit de recevoir 50 millions de dollars (somme arrondie) en paiements trimestriels prenant fin en septembre 2002. L’appelante était partie à cette opération, mais elle n’a reçu aucune part des 43 millions de dollars, et elle demeurait tenue de payer la totalité du montant du prêt (140 millions de dollars) à CBR IS après septembre 2002.
+[21] Lorsque l’appelante considère les 20 paiements trimestriels, elle ne voit que l’intérêt de 7 p. 100 l’an, en raison (i) des modalités de l’effet subordonné; et (ii) de la totalité du montant du prêt (140 millions de dollars), encore due après septembre 2002. Lorsque BBL considère les 20 paiements trimestriels, elle voit (en termes simples) 43/50 de chaque montant comme recouvrement du capital et 7/50 comme des intérêts. Quand le ministre a établi les nouvelles cotisations du 3 mai 2005, il considérait les 20 paiements trimestriels selon la perspective de BBL. Le ministre a choisi la mauvaise perspective parce que BBL n’est pas devant la Cour. Seule l’appelante conteste les nouvelles cotisations, et elle considère les paiements trimestriels comme des intérêts exclusivement.
+[22] L’ARC a publié le Bulletin d’interprétation IT-265R3, daté du 7 octobre 1991, qui concerne l’article 16. Le Bulletin renferme ce qui suit au paragraphe 2 :
+2. Un paiement mixte peut se définir comme un montant dont la composition ne peut pas être établie avec certitude. Autrement dit, il doit y avoir incertitude quant à la partie du montant qui est du capital et quant à la partie que l’on peut raisonnablement considérer comme des intérêts ou un autre type de revenu, tels des bénéfices sur une vente. Toutefois, si toutes les composantes d’un paiement sont stipulées dans un contrat ou dans un arrangement et si elles sont raisonnables, le paiement ne constitue pas un paiement mixte et le paragraphe 16(1) ne s’applique pas.
+L’article 16 s’appliquera parfois à un contrat d’achat-vente. Si un bien dont la juste valeur marchande est de 100 000 $ est vendu pour un prix convenu de 120 000 $, payable par versements sur une période de plusieurs années, sans disposition contractuelle portant sur le taux d’intérêt, alors une partie de chaque versement pourra être considérée comme une contrepartie de la juste valeur marchande du bien (capital); et la partie restante pourra être considérée comme des intérêts pour le vendeur, au titre du paiement différé de la juste valeur marchande.
+[23] En l’espèce, la dette initiale a été reformulée pour que soient séparés le principal et les paiements d’intérêts, et le droit de recevoir les paiements d’intérêts a été vendu à BBL dans une opération entre parties sans lien de dépendance. Il faudrait que je laisse de côté à la fois la forme juridique et la substance économique des opérations concernées pour pouvoir dire que les paiements trimestriels faits par l’appelante à BBL sont des paiements mixtes. Je me refuse à le dire. L’ARC n’a établi de paiements mixtes que par recours à un taux d’intérêt totalement artificiel de 4,929105 p. 100 l’an.
+[24] L’alinéa 16(1)a) ne s’applique pas aux paiements trimestriels faits par l’appelante à BBL. Les appels formés contre les nouvelles cotisations du 3 mai 2005 sont accueillis.
+La question de la DGAÉ
+[25] La partie XIII de la Loi (articles 212 à 218) prévoit que toute personne non résidente doit payer un impôt de 25 p. 100 sur tout revenu passif (intérêts, dividendes, loyer, redevances, etc.) qu’elle reçoit d’une personne résidant au Canada. Selon l’article 215, toute personne résidant au Canada qui verse un revenu passif à une personne non résidente doit en retenir l’impôt payable par le non‑résident et le verser au receveur général du Canada. L’article 215 est un dispositif nécessaire de recouvrement. L’impôt de la partie XIII est ainsi communément appelé retenue fiscale. Dans les traités fiscaux que le Canada négocie avec maints autres pays, le taux d’imposition de 25 p. 100 prévu par la partie XIII est presque toujours ramené à 15 p. 100 ou à un taux moindre.
+[26] Le paragraphe 20 de l’ECF est rédigé en ces termes :
+[traduction]
+20. Avant août 1997, l’appelante a retenu et versé un impôt de 15 p. 100 sur les intérêts payés à CBR IS, conformément à l’alinéa 212(1)b) de la Loi de l’impôt sur le revenu (la « Loi »). Déjà en janvier 1997, l’appelante avait entrepris de revoir le prêt pour savoir s’il pouvait être restructuré afin d’éviter cet impôt. Cela paraissait le bon moyen de rapatrier des fonds vers CBR IS puisque les intérêts seraient alors déductibles au Canada et non soumis à la retenue fiscale.
+Plusieurs dispositions d’exonération contenues dans l’alinéa 212(1)b) permettent le paiement d’intérêts sur un prêt à une personne non résidente sans retenue fiscale. Ainsi, le sous-alinéa 212(1)b)(vii) accorde une exemption, aux conditions suivantes (et je ne reproduirai ici que les parties pertinentes) :
+212(1) Toute personne non-résidente doit payer un impôt sur le revenu de 25 % sur toute somme qu’une personne résidant au Canada lui paie ou porte à son crédit, ou est réputée en vertu de la partie I lui payer ou porter à son crédit, au titre ou en paiement intégral ou partiel :
+a) […]
+b) d’intérêts, sauf :
+(i) […]
+(vii) les intérêts payables sur un titre par une société résidant au Canada à une personne avec laquelle cette société n’a aucun lien de dépendance, lorsque le titre de créance a été émis par cette société après le 23 juin 1975, si, selon les modalités du titre ou d’une convention s’y rapportant, la société ne peut, en aucun cas, être tenue de verser plus de 25 %,
+(A) […]
+(B) dans tout autre cas, du montant du principal de l’obligation,
+dans les 5 années de la date de l’émission couvrant une dette unique ou de cette obligation, selon le cas, sauf :
+(C) […]
+[27] Dans les actes de procédure, les parties ont soulevé la question de savoir si les paiements faits par l’appelante à BBL à titre d’intérêts étaient admissibles à l’exemption énoncée au sous-alinéa 212(1)b)(vii). Au cours de l’audience cependant, les parties se sont accordées pour dire que les conditions nécessaires avaient été remplies et que les paiements en question étaient effectivement admissibles à l’exemption. Je me réfère aux paragraphes 24 et 39 de l’ECF. Autrement dit, si la DGAÉ ne s’applique pas, les paiements faits par l’appelante à BBL à titre d’intérêts seront exemptés de la retenue fiscale.
+[28] Sont reproduites ci-après les dispositions applicables de la DGAÉ :
+245(1) Les définitions qui suivent s’appliquent au présent article.
+« avantage fiscal » Réduction, évitement ou report d’impôt ou d’un autre montant exigible en application de la présente loi ou augmentation d’un remboursement d’impôt ou d’un autre montant visé par la présente loi. Y sont assimilés la réduction, l’évitement ou le report d’impôt ou d’un autre montant qui serait exigible en application de la présente loi en l’absence d’un traité fiscal ainsi que l’augmentation d’un remboursement d’impôt ou d’un autre montant visé par la présente loi qui découle d’un traité fiscal;
+« opération » Sont assimilés à une opération une convention, un mécanisme ou un événement.
+245(2) En cas d’opération d’évitement, les attributs fiscaux d’une personne doivent être déterminés de façon raisonnable dans les circonstances de façon à supprimer un avantage fiscal qui, sans le présent article, découlerait, directement ou indirectement, de cette opération ou d’une série d’opérations dont cette opération fait partie.
+245(3) L’opération d’évitement s’entend :
+a) soit de l’opération dont, sans le présent article, découlerait, directement ou indirectement, un avantage fiscal, sauf s’il est raisonnable de considérer que l’opération est principalement effectuée pour des objets véritables — l’obtention de l’avantage fiscal n’étant pas considérée comme un objet véritable;
+b) soit de l’opération qui fait partie d’une série d’opérations dont, sans le présent article, découlerait, directement ou indirectement, un avantage fiscal, sauf s’il est raisonnable de considérer que l’opération est principalement effectuée pour des objets véritables — l’obtention de l’avantage fiscal n’étant pas considérée comme un objet véritable.
+245(4) Le paragraphe (2) ne s’applique qu’à l’opération dont il est raisonnable de considérer, selon le cas :
+a) qu’elle entraînerait, directement ou indirectement, s’il n’était pas tenu compte du présent article, un abus dans l’application des dispositions d’un ou de plusieurs des textes suivants :
+(i) la présente loi,
+[…]
+(v) […];
+b) qu’elle entraînerait, directement ou indirectement, un abus dans l’application de ces dispositions compte non tenu du présent article lues dans leur ensemble.
+245(5) Sans préjudice de la portée générale du paragraphe (2) et malgré tout autre texte législatif, dans le cadre de la détermination des attributs fiscaux d’une personne de façon raisonnable dans les circonstances de façon à supprimer l’avantage fiscal qui, sans le présent article, découlerait, directement ou indirectement, d’une opération d’évitement :
+a) toute déduction, exemption ou exclusion dans le calcul de tout ou partie du revenu, du revenu imposable, du revenu imposable gagné au Canada ou de l’impôt payable peut être en totalité ou en partie admise ou refusée;
+b) […]
+[29] Les avocats des deux parties se sont référés à un arrêt unanime de la Cour suprême du Canada, La Reine c. Hypothèques Trustco Canada, [2005] 2 R.C.S. 601. On peut y lire ce qui suit, au paragraphe 17 :
+17 L’application de la [D]GAÉ comporte trois étapes. La première étape consiste à déterminer s’il existe un « avantage fiscal » découlant d’une « opération » au sens des par. 245(1) et (2). La deuxième étape consiste à déterminer si l’opération constitue une opération d’évitement visée par le par. 245(3), en ce sens qu’elle n’a pas été « principalement effectuée pour des objets véritables — l’obtention de l’avantage fiscal n’étant pas considérée comme un objet véritable ». La troisième étape consiste à déterminer si l’opération d’évitement est abusive au sens du par. 245(4). Les trois conditions doivent être remplies pour que la [D]GAÉ permette de supprimer un avantage fiscal.
+C’est au contribuable qu’il incombe de réfuter les étapes un et deux, mais c’est au ministre qu’il appartient d’établir l’étape trois. Dans le présent appel, l’appelante admet qu’elle a reçu un « avantage fiscal » et que les opérations concernées répondent à la définition d’une « opération d’évitement », au sens de l’article 245. Le seul point restant sur la question de la DGAÉ est donc celui de savoir si l’opération d’évitement était abusive selon le paragraphe 245(4).
+[30] S’agissant des mots « misuse » et « abuse », utilisés dans la version anglaise du paragraphe 245(4), la Cour suprême du Canada s’exprimait ainsi, aux paragraphes 43, 49 et 55 de l’arrêt Hypothèques Trustco Canada :
+43 Pour ces motifs, nous concluons, à l’instar du juge de la Cour de l’impôt, que les décisions relatives aux mots « misuse » et « abuse » utilisés dans la version anglaise du par. 245(4) ne commandent pas des examens différents. Le paragraphe 245(4) exige que, pour décider s’il y a eu évitement fiscal abusif, l’on applique une seule méthode unifiée d’interprétation textuelle, contextuelle et téléologique des dispositions particulières de la Loi de l’impôt sur le revenu invoquées par le contribuable.
+[…]
+49 Dans tous les cas où l’applicabilité du par. 245(4) est en cause, la question centrale est de savoir si, compte tenu du texte, du contexte et de l’objet des dispositions invoquées par le contribuable, l’opération contrecarre l’objet ou l’esprit de ces dispositions. Les points suivants sont dignes de mention :
+(1) Bien que les notes explicatives emploient les mots « exploiter, [. . .] détourner ou [. . .] frustrer », il semble que ces trois termes soient synonymes et que le mot « frustrer » au sens de « contrecarrer » permet le mieux d’en saisir le sens.
+(2) Les notes explicatives indiquent que la [D]GAÉ est censée s’appliquer lorsque, selon une interprétation littérale des dispositions de la Loi de l’impôt sur le revenu, l’objet et l’esprit de ces dernières seraient contrecarrés.
+(3) Les notes explicatives précisent que la [D]GAÉ doit être appliquée à la lumière des faits de l’affaire en cause dans le contexte de l’agencement de la Loi de l’impôt sur le revenu.
+(4) Les notes explicatives indiquent également que les dispositions de la Loi de l’impôt sur le revenu visent les opérations ayant une raison d’être économique.
+[…]
+55 En résumé, le par. 245(4) prescrit un examen en deux étapes. La première étape consiste à déterminer l’objet ou l’esprit des dispositions de la Loi de l’impôt sur le revenu qui sont invoquées pour obtenir l’avantage fiscal, eu égard à l’économie de la Loi, aux dispositions pertinentes et aux moyens extrinsèques admissibles. La deuxième étape consiste à examiner le contexte factuel de l’affaire pour déterminer si l’opération d’évitement contrecarrait l’objet ou l’esprit des dispositions en cause.
+Les « notes explicatives » dont parle le paragraphe 49 ci-dessus sont décrites au paragraphe 15 des motifs de la Cour suprême comme des notes publiées par le ministre des Finances en juin 1988 au moment du dépôt du projet de loi qui est devenu la DGAÉ.
+[31] Comme les avocats des deux parties ont beaucoup insisté sur l’arrêt Hypothèques Trustco Canada, je reproduirai les passages additionnels suivants de cet arrêt, qui me semblent utiles.
+57 […] La question centrale est de savoir si l’opération était conforme à l’objet des dispositions de la Loi de l’impôt sur le revenu qui sont invoquées par le contribuable, lorsque ces dispositions sont interprétées correctement à la lumière de leur contexte. Il y a évitement fiscal abusif si les opérations contrecarrent ces objets.
+58 […] Il se peut que, lorsqu’elles sont interprétées correctement, les dispositions législatives en cause dans une affaire donnée exigent qu’un avantage fiscal particulier ne puisse s’appliquer qu’aux opérations ayant un certain objet économique, commercial, familial ou un autre objet non fiscal. L’absence de telles considérations peut alors devenir un facteur pertinent pour inférer que les opérations constituaient un abus dans l’application des dispositions en cause, mais il n’existe aucune règle d’or à ce sujet.
+59 […] L’analyse fondée sur le par. 245(4) oblige à examiner attentivement les faits pour décider si l’attribution d’un avantage fiscal serait conforme à l’objet ou à l’esprit des dispositions invoquées par le contribuable, selon une interprétation textuelle, contextuelle et téléologique de ces dispositions. […]
+60 […] Toutefois, on peut conclure à l’existence d’un évitement fiscal abusif si les rapports et les opérations décrits dans la documentation pertinente sont dénués de fondement légitime relativement à l’objet ou à l’esprit des dispositions censées conférer l’avantage fiscal, ou si ces rapports et opérations diffèrent complètement de ceux prévus par les dispositions.
+[32] Un autre arrêt de la Cour suprême du Canada, Mathew c. La Reine, [2005] 2 R.C.S. 643, a été rendu le même jour (le 19 octobre 2005) que l’arrêt qui l’accompagne, Hypothèques Trustco Canada. Au paragraphe 2 de l’arrêt Mathew, la Cour suprême écrivait ce qui suit :
+2 Comme nous l’avons vu plus en détail dans l’arrêt Trustco Canada, la [D]GAÉ permet de supprimer un avantage fiscal dans le cas où l’attribution de cet avantage contrecarrerait l’objet ou l’esprit des dispositions invoquées pour l’obtenir. […]
+Dans ces deux précédents, les contribuables avaient admis qu’il y avait un « avantage fiscal » et une « opération d’évitement » au sens de l’article 245. Les deux affaires avaient été portées devant la Cour suprême sur l’unique question de savoir s’il y avait eu évitement fiscal abusif. Dans l’affaire Hypothèques Trustco Canada, c’est l’entreprise contribuable qui a obtenu gain de cause. Dans l’affaire Mathew, c’est le ministre.
+[33] Au paragraphe 66 des motifs exposés par la Cour suprême dans l’arrêt Hypothèques Trustco Canada, il y a un résumé utile de l’approche qu’elle a adoptée pour interpréter et appliquer l’article 245 de la Loi. J’ai déjà cependant cité, aux paragraphes 30 et 31 ci-dessus, les extraits de ces mêmes motifs que je trouve particulièrement utiles dans le présent appel. Plus précisément, comme je ne m’intéresse ici qu’au paragraphe 245(4), je m’en rapporterai à la directive suivante tirée du paragraphe 49 des motifs de l’arrêt Hypothèques Trustco Canada :
+[…] la question centrale est de savoir si, compte tenu du texte, du contexte et de l’objet des dispositions invoquées par le contribuable, l’opération contrecarre l’objet ou l’esprit de ces dispositions.
+[34] Quels sont le texte, le contexte et l’objet du sous-alinéa 212(1)b)(vii) de la Loi? La partie XIII de la Loi (articles 212 à 218) prévoit que tout revenu passif (non tiré d’une entreprise ou d’un emploi) payé par une personne résidant au Canada à une personne non résidente est soumis à une retenue fiscale. L’article 212 est la disposition qui énumère les genres particuliers de revenu soumis à la retenue (par exemple frais de gestion, intérêts, loyers, redevances, dividendes, revenu de fiducie, etc.). Les intérêts sont imposés en vertu de l’alinéa 212(1)b), mais il y a 12 exceptions, énoncées aux sous-alinéas (i) à (xii) inclusivement.
+[35] Les parties pertinentes du sous-alinéa 212(1)b)(vii) sont reproduites au paragraphe 26 ci-dessus, et les conditions essentielles d’admissibilité sont les suivantes :
+- les intérêts sont payables par une société résidant au Canada;
+- à une personne non résidente avec laquelle cette société n’a aucun lien de dépendance;
+- le titre de créance a été émis par la société après 1975;
+- la société n’est pas tenue de verser plus de 25 p. 100 du paiement du principal dans les 5 années de la date de l’émission du titre de créance.
+L’avocat de l’appelante a fait valoir que les 12 sous-alinéas sont séparés en ce sens que chacun d’eux est autonome; et aucun des sous-alinéas ne constitue un indice sur le sens d’un autre. J’aurais tendance à partager son avis. Chaque sous-alinéa semble par lui-même former un ensemble de circonstances.
+[36] Le texte du sous-alinéa (vii) est clair. Les parties reconnaissent que les conditions d’admissibilité ont été remplies et que tous les paiements d’intérêts faits par l’appelante à BBL de décembre 1997 à septembre 2002 sont admissibles à l’exemption prévue par le sous-alinéa (vii). Il s’agit d’imposer le revenu passif payé par des personnes résidant au Canada à des personnes non résidentes. Ce genre de revenu ne serait pas imposé selon la partie I de la Loi; la partie XIII établit donc un nouvel impôt et contient sa propre disposition d’application. Je passe maintenant à l’objet du sous-alinéa (vii).
+[37] Dans ses arguments, l’avocat de l’intimée s’est référé à une monographie distribuée par Me Robert Kopstein et Janette Pantry (une experte‑comptable) lors de la Cinquante-septième Conférence fiscale de l’Association canadienne d’études fiscales tenue en 2005. Dans l’introduction du document, les auteurs exposent le principe à l’origine du sous-alinéa (vii) :
+[traduction]
+La raison d’être de l’exemption de retenue fiscale, prévue au sous‑alinéa 212(1)b)(vii), est d’offrir aux entreprises canadiennes un accès aux marchés étrangers de capitaux pour la dette à moyen terme ou à long terme. L’exemption de retenue fiscale est essentiellement ce qui rend les prêteurs étrangers disposés à consentir des prêts aux entreprises canadiennes parce que, pour une diversité de raisons, les prêteurs étrangers ne sont souvent pas en mesure d’atténuer le coût de la retenue fiscale. À cause de la nature à long terme des prêts qui sont admissibles à l’exemption de retenue fiscale du sous-alinéa 212(1)b)(vii), les prêteurs étrangers veulent souvent avoir la certitude que l’exemption s’appliquera à tel ou tel prêt.
+Plus loin dans le document, les auteurs se demandent si des prêts adossés pourraient servir à contourner la condition d’une absence de lien de dépendance.
+[traduction]
+Certains des anciens documents de l’ARC examinent également si une structure de prêts adossés pourrait servir à contourner la condition d’une absence de lien de dépendance, condition imposée par le sous‑alinéa 212(1)b)(vii). Dans la situation évoquée par ces documents, une personne non résidente a déposé des fonds auprès d’une institution financière non résidente, laquelle, plus tard, a prêté les fonds à une société canadienne qui avait un lien de dépendance avec le non‑résident. L’ARC écrivait que l’opération pourrait être une opération d’évitement et être considérée comme un abus du sous-alinéa 212(1)b)(vii). Les commentaires de l’ARC semblent raisonnables en ce sens que l’objet du sous-alinéa est de permettre aux entreprises canadiennes d’accéder à un financement sur les marchés internationaux de capitaux, auprès de prêteurs sans lien de dépendance, et cette structure de prêts adossés est conçue pour contourner la condition d’absence de lien de dépendance, imposée par le sous-alinéa 212(1)b)(vii),
+[38] L’intimée s’est fondée sur deux autres sources pour décrire l’objet du sous‑alinéa (vii). D’abord, dans la Revue fiscale canadienne, numéro de janvier-février 1987 (publié par l’Association canadienne d’études fiscales), Me J. Scott Wilkie a écrit un article intitulé : « Structuring International Debt Issues: A Canadian Perspective ». À la page 13, il s’exprimait ainsi :
+[traduction]
+L’exception a été analysée avec une rigueur presque scientifique, mais souvent sans une compréhension suffisante de la politique fiscale sous-jacente. Le sous-alinéa 212(1)b)(vii) avait pour objet officiel de rendre plus accessibles aux entreprises canadiennes les marchés étrangers de la dette. Cette disposition reconnaissait explicitement le retrait presque simultané de lignes directrices sur les emprunts faits à l’étranger, lignes directrices qui avaient pour effet d’obliger les entreprises canadiennes emprunteuses à épuiser les sources intérieures existantes de capital avant de s’adresser aux marchés étrangers.
+Puis, deuxièmement, dans le Rapport du comité technique sur la fiscalité des entreprises, décembre 1997, le chapitre six portait le titre « International Taxation ». Aux pages 6.25 et 6.26, on peut lire ce qui suit à propos du sous-alinéa (vii) :
+[traduction]
+Cette exemption a été adoptée comme mesure temporaire en 1975, pour offrir aux sociétés canadiennes emprunteuses un meilleur accès aux marchés internationaux. L’exemption a été prorogée à plusieurs reprises, jusqu’à ce qu’elle devienne un élément permanent du système fiscal canadien, dans le budget fédéral de 1988.
+Comme on l’a dit plus haut, les retenues fiscales sur les paiements d’intérêts sont souvent répercutées sur l’emprunteur, ce qui a pour effet d’augmenter le coût du capital pour celui-ci. L’exemption dont bénéficient les intérêts payables sur une dette contractée entre parties sans lien de dépendance offre aux entreprises canadiennes un meilleur accès aux marchés financiers mondiaux, à des taux d’intérêt concurrentiels. Le comité appuie l’exemption, mais il recommande deux changements.
+Le comité recommande que l’exemption de retenue fiscale pour les paiements d’intérêts faits à des prêteurs non résidents et sans lien de dépendance soit élargie à toute forme de dette, quelle que soit sa durée.
+Nous recommandons aussi que l’exemption soit refusée dans les cas faisant intervenir des opérations adossées et arrangements semblables de soutien financier, de la même manière que ce qui est discuté ci-après pour les dispositions touchant la capitalisation restreinte.
+[39] Le sous-alinéa (vii) est relativement facile à saisir. Il n’est pas rédigé dans le style impénétrable qui si souvent caractérise d’autres parties de la Loi. Laissé à moi-même, j’aurais fort bien pu conclure que cette exemption avait pour objet d’aider les sociétés canadiennes à emprunter auprès de prêteurs étrangers sans lien de dépendance avec elles, qui recevraient alors des intérêts non soumis à la retenue fiscale. Après examen des articles cités aux paragraphes 37 et 38 ci-dessus, je suis d’avis que l’objet du sous-alinéa (vii) est d’aider les sociétés canadiennes en quête de capitaux, et cela en leur rendant plus accessibles les marchés internationaux de capitaux. Le coût de la retenue fiscale frappant les intérêts payés aux prêteurs étrangers est souvent répercuté sur l’emprunteur canadien, ce qui a pour effet d’accroître pour celui-ci le coût du capital. L’exemption de retenue fiscale pour les emprunts contractés auprès de prêteurs étrangers sans lien de dépendance rend de tels emprunts plus concurrentiels par rapport aux emprunts contractés sur le marché canadien.
+[40] Me référant au paragraphe 33 ci-dessus et au passage qui y est cité provenant du paragraphe 49 de l’arrêt Hypothèques Trustco Canada, je me demande si l’opération conclue entre CBR IS (le détenteur de l’effet subordonné) et BBL a contrecarré l’objet ou l’esprit du sous-alinéa (vii).
+[41] L’appelante n’a participé qu’à une seule opération d’emprunt. Je parle ici du prêt de 140 millions de dollars contracté en octobre 1986 auprès d’un consortium bancaire mené par la Banque Royale du Canada. Voir les paragraphes 8, 9 et 10 de l’ECF. Il ressort du texte et du contexte de l’ECF que l’emprunt contracté par l’appelante en 1986 était une opération entre parties sans lien de dépendance conclue avec le consortium de banques canadiennes. Ce lien particulier débiteur-créancier fut de courte durée puisque, en décembre 1986, Materials (une société canadienne liée à l’appelante) achetait pour 140 millions de dollars le prêt en cours détenu par le consortium bancaire. Materials a reçu indirectement de CBR IS le capital requis pour acheter le prêt en cours.
+[42] Materials a détenu le prêt en cours de décembre 1986 à septembre 1994, et c’est alors qu’il a été vendu à CBR IS. Aucun crédit additionnel n’a été nécessaire ou acquis au sein du groupe HZ pour faciliter la vente du prêt en cours en septembre 1994, étant donné que le produit de la vente faisait un cercle parmi les sociétés du groupe, comme cela est indiqué au paragraphe 16 de l’ECF, et résumé au paragraphe 6 des présents motifs.
+[43] C’est en août 1997 qu’ont eu lieu l’importante restructuration du prêt et la vente des paiements trimestriels d’intérêts. Je reproduis ici certains paragraphes de l’ECF.
+[traduction]
+20. Avant août 1997, l’appelante a retenu et versé un impôt de 15 p. 100 sur les intérêts payés à CBR IS, conformément à l’alinéa 212(1)b) de la Loi de l’impôt sur le revenu (la « Loi »). Déjà, en janvier 1997, l’appelante avait entrepris de revoir le prêt pour savoir s’il pouvait être restructuré afin d’éviter cet impôt. Cela paraissait le bon moyen de rapatrier des fonds vers CBR IS puisque les intérêts seraient alors déductibles au Canada et non soumis à la retenue fiscale.
+[…]
+22. Avant la modification et la reformulation de l’accord de crédit, le taux d’intérêt applicable au prêt était le taux préférentiel pratiqué au Canada, lequel, à l’époque, était de 4,75 p. 100. On prévoyait que le taux préférentiel pratiqué au Canada allait passer à 5 p. 100.
+23. Par le titre « Modification et reformulation de l’Accord de crédit sous la forme d’un effet subordonné échéant le 15 septembre 2009 », l’accord de crédit de 1986, qui comprenait le prêt, était reformulé en tant qu’effet subordonné (l’« effet »).
+24. Selon les modalités de l’effet, l’appelante n’était pas tenue, quelles que soient les circonstances (autre qu’un cas de défaut) de payer plus de 25 p. 100 du principal de l’effet au cours des cinq ans suivant la date d’émission de l’effet.
+25. Les modalités de l’effet donnaient à son titulaire (en l’occurrence CBR IS) le droit de vendre à un tiers la totalité ou une partie du droit aux paiements d’intérêts résultant de l’effet (chaque paiement appelé ci-après « paiement d’intérêts »). Le droit de propriété sur un paiement d’intérêts était attesté par un « reçu de paiement d’intérêts ».
+26. Les modalités du prêt étaient également modifiées, comme il suit :
+a) Le taux d’intérêt cessait d’être le taux préférentiel pratiqué au Canada pour devenir un taux fixe de 7 p. 100 durant les cinq premières années.
+b) L’appelante prenait la responsabilité de tout impôt prévu par la partie XIII en acceptant d’ajouter aux paiements d’intérêts toute retenue fiscale payable, de telle sorte que le paiement d’intérêts nets au titulaire de l’effet resterait intact.
+[…]
+32. Le 28 août 1997, CBR IS vendait à la Banque Bruxelles Lambert (BBL), une société belge, pour la somme de 42 673 913,67 $, le droit de recevoir tous les paiements d’intérêts sur le prêt exigibles avant le 16 septembre 2002 (la « convention d’achat »).
+33. BBL était une banque belge qui traitait avec l’appelante et qui n’avait pas avec elle de lien de dépendance.
+[44] L’appelante n’a jamais emprunté d’argent à BBL. Elle devait payer des intérêts à BBL de décembre 1997 à septembre 2002 uniquement à cause de l’opération de vente conclue entre CBR IS et BBL en août 1997. Dans le contexte du présent appel, CBR IS n’a jamais emprunté d’argent à BBL. Les seuls fonds avancés par BBL ont été le prix d’achat (42 millions de dollars) payé par BBL à CBR IS pour le droit de recevoir les paiements trimestriels d’intérêts de décembre 1997 à septembre 2002. À toutes les époques pertinentes à partir de septembre 1994, CBR IS était le créancier de l’appelante pour le principal de 140 millions de dollars.
+[45] Je me fonde sur les directives données par la Cour suprême aux paragraphes 58 et 60 de l’arrêt Hypothèques Trustco Canada. Le passage suivant du paragraphe 58 est déjà cité au paragraphe 31 des présents motifs :
+58 […] Il se peut que, lorsqu’elles sont interprétées correctement, les dispositions législatives en cause dans une affaire donnée exigent qu’un avantage fiscal particulier ne puisse s’appliquer qu’aux opérations ayant un certain objet économique, commercial, familial ou un autre objet non fiscal. L’absence de telles considérations peut alors devenir un facteur pertinent pour inférer que les opérations constituaient un abus dans l’application des dispositions en cause, mais il n’existe aucune règle d’or à ce sujet.
+À mon avis, l’avantage fiscal, au sous-alinéa (vii), qui consiste à payer des intérêts exempts de retenue fiscale à une personne non résidente ne s’applique qu’à l’emprunt contracté auprès d’un prêteur non résident dans le cadre d’une opération entre parties sans lien de dépendance. Il s’agit là de l’opération « ayant un certain objet commercial ». Dans le présent appel, l’appelante n’a pas emprunté d’argent à BBL ni à aucun autre prêteur non résident. L’absence d’un prêteur non résident me conduit à dire que l’opération conclue entre CBR IS et BBL a constitué un abus du sous-alinéa (vii).
+[46] Le passage suivant du paragraphe 60 de l’arrêt Hypothèques Trustco Canada est déjà cité au paragraphe 31 des présents motifs :
+60 […] Toutefois, on peut conclure à l’existence d’un évitement fiscal abusif si les rapports et les opérations décrits dans la documentation pertinente sont dénués de fondement légitime relativement à l’objet ou à l’esprit des dispositions censées conférer l’avantage fiscal, ou si ces rapports et opérations diffèrent complètement de ceux prévus par les dispositions.
+Je suis d’avis que la relation entre CBR IS et BBL au regard de la vente, pour 42 millions de dollars, de 20 paiements trimestriels d’intérêts, et la relation entre l’appelante et BBL au regard de ces 20 paiements trimestriels d’intérêts, n’ont absolument rien en commun avec la relation sans lien de dépendance emprunteur‑prêteur envisagée par le sous-alinéa (vii). L’opération de vente conclue entre CBR IS et BBL a contrecarré l’esprit et l’objet du sous-alinéa (vii).
+[47] À mon avis, le ministre a eu raison d’invoquer la DGAÉ en ne tenant pas compte de l’exemption prévue par le sous-alinéa (vii) et en appliquant la retenue fiscale prévue par l’alinéa 212(1)b).
+[48] Dans son argumentation, l’avocat de l’intimée a renoncé à la pénalité établie en vertu du paragraphe 227(8) de la Loi pour non retenue de l’impôt de la partie XIII. Par conséquent, l’appel interjeté à l’encontre des nouvelles cotisations fondées sur la DGAÉ devra être accueilli, mais uniquement aux fins d’annulation de la pénalité prévue par le paragraphe 227(8).
+[49] Après l’instruction de la présente affaire en octobre 2008, la Cour suprême du Canada a rendu sa décision Lipson c. La Reine, le 8 janvier 2009. L’arrêt Lipson concerne la DGAÉ. La Cour suprême était partagée lorsqu’elle a rendu cet arrêt; les quatre juges majoritaires ont rendu un ensemble de motifs, et les trois juges dissidents ont rendu deux ensembles de motifs. L’affaire Lipson est très différente de l’affaire en l’espèce. À mon avis, la diversité des motifs exposés dans l’arrêt Lipson n’atténue pas ce que la Cour suprême écrivait dans sa décision unanime Hypothèques Trustco Canada. Par conséquent, je n’ai pas invité les avocats à s’exprimer davantage sur l’arrêt Lipson, plus récent. D’ailleurs, les avocats ne m’ont pas prié de leur accorder cette possibilité.
+[50] Je ne me souviens pas que la question des dépens ait été débattue au cours de l’audience. Le ministre a établi deux ensembles incompatibles de nouvelles cotisations. Les nouvelles cotisations du 3 mai 2005 partaient du principe que la majeure partie de chaque paiement fait par l’appelante à BBL représentait du capital et non des intérêts. Les nouvelles cotisations du 28 avril 2005 partaient du principe que tous les paiements faits par l’appelante à BBL étaient composés uniquement d’intérêts. Au cours de l’audience, l’avocat de l’intimée a souligné que les nouvelles cotisations avaient été établies à titre subsidiaire et qu’il lui serait impossible de défendre les deux ensembles de nouvelles cotisations.
+[51] Dans les motifs exposés ci-dessus, l’appelante est parvenue à faire invalider les nouvelles cotisations fondées sur l’alinéa 16(1)a), et le ministre est parvenu à justifier les nouvelles cotisations fondées sur la DGAÉ, sous réserve de l’admission se rapportant à la pénalité prévue par le paragraphe 227(8). J’incline à ne pas adjuger de dépens à l’une ou à l’autre des parties dans le jugement accompagnant les présents motifs. Si l’une ou l’autre souhaite présenter des conclusions portant sur les dépens, je suis disposé à entendre leurs avocats au cours d’une téléconférence, pour autant qu’un avis écrit soit envoyé à la Cour dans un délai de 30 jours de la présente décision.
+Signé à Ottawa, Canada, ce 29e jour d’avril, 2009.
+« M. A. Mogan »
+Juge suppléant Mogan
+Traduction certifiée conforme
+ce 14e jour de septembre 2009.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2009 CCI 237
+N° DU DOSSIER DE LA COUR : 2007-2107(IT)G
+INTITULÉ : LEHIGH CEMENT LIMITED et
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Vancouver (Colombie‑Britannique)
+DATES DE L’AUDIENCE : Les 16 et 17 octobre 2008
+MOTIFS DU JUGEMENT : L’honorable juge M. A. Mogan
+DATE DU JUGEMENT : Le 29 avril 2009
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Warren J. A. Mitchell, c.r. et
+Me Mathew Williams
+Avocats de l’intimée :
+Me Daniel Bourgeois et
+Me Ronald MacPhee
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Warren J. A. Mitchell, c.r.
+Cabinet : Thorsteinssons s.r.l.
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

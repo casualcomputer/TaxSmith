@@ -1,0 +1,339 @@
+---
+title: "7547978 Canada Inc. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/493342/index.do"
+last_modified: "2021-02-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2021 CCI 7"
+citation2: ""
+neutral_citation: "2021 CCI 7"
+decision_date: "2021-02-22"
+language: "fr"
+item_id: "493342"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4610
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T11:59:54.362000+00:00"
+cases_cited_count: 12
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2c3770fbb1b418efeee3203c240e48ddcb4f588ef6bb8e421b2d77d0b8f2fca4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 7547978 Canada Inc. c. M.R.N.
+
+- Citation: 2021 CCI 7
+- Decision date: 2021-02-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4610, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+7547978 Canada Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2021-02-22
+Référence neutre
+2021 CCI 7
+Numéro de dossier
+2017-2188(EI)
+Juges et Officiers taxateurs
+Dominique Lafleur
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2017-2188(EI)
+ENTRE :
+7547978 CANADA INC.,
+appelante,
+et
+LA MINISTRE DU REVENU NATIONAL,
+intimée.
+Appel entendu les 26, 27, 28 et 29 octobre 2020, à Ottawa (Canada)
+Devant : L’honorable juge Dominique Lafleur
+Comparutions :
+Représentant de l’appelante :
+Richard Meunier
+Avocates de l’intimée :
+Me Élise Rivest
+Me Anna Maria Konewka
+JUGEMENT
+Conformément aux motifs du jugement ci-joints, l’appel interjeté en vertu de la Loi sur l’assurance‑emploi est rejeté, sans frais, et la décision de la ministre du Revenu national datée du 24 février 2017 est confirmée.
+Signé à Ottawa (Canada), ce 22e jour de février 2021.
+« Dominique Lafleur »
+Juge Lafleur
+Référence : 2021 CCI 7
+Date : 20210222
+Dossier : 2017-2188(EI)
+ENTRE :
+7547978 CANADA INC.,
+appelante,
+et
+LA MINISTRE DU REVENU NATIONAL,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lafleur
+I - INTRODUCTION
+[1] 7547978 Canada inc. (l’« appelante ») appelle de la décision de la ministre du Revenu national (la « ministre ») datée du 24 février 2017 ayant confirmé :
+i) les évaluations des sommes payables par l’appelante établies en vertu de la Loi sur l’assurance-emploi (L.C. 1996, ch. 23, telle que modifiée) (la « Loi ») par la ministre pour les années 2013 à 2015 (la « période ») à l’égard des travailleurs qui étaient au service de l’appelante au cours de ces années, dont les avis d’évaluation sont datés du 21 avril 2016;
+ii) que l’emploi des travailleurs liés à l’appelante de même que l’emploi des travailleurs non liés à l’appelante étaient assurables en vertu de la Loi étant donné que les exigences du contrat de louage de services avaient été respectées. Plus particulièrement, en ce qui concerne les travailleurs liés à l’appelante, la ministre était convaincue qu’un contrat de travail à peu près semblable aurait été conclu entre ceux-ci et l’appelante si les parties n’avaient pas eu entre elles de lien de dépendance.
+[2] Les montants des cotisations impayées d’assurance-emploi (incluant les intérêts) à l’égard des travailleurs liés et non liés à l’appelante totalisent 24 749,27 $ pour 2013, 14 683,33 $ pour 2014 et 10 229,58 $ pour 2015.
+[3] Des pénalités ont également été imposées à l’appelante en vertu du paragraphe 82(9) de la Loi, totalisant 2 474,93 $ pour 2013, 1 463,33 $ pour 2014 et 1 022,96 $ pour 2015.
+[4] Le 7 mai 2015, la Cour a rejeté l’appel de l’appelante visant la décision de la ministre selon laquelle les travailleurs au service de l’appelante occupaient des emplois assurables auprès d’elle pour la période débutant en juin 2010 et se terminant en décembre 2011 (Richard Meunier, Maxim Meunier, 7547978 Canada inc. c. M.R.N., 2015 CCI 111 [Meunier]). À la suite de ce jugement, qui n’a pas été porté en appel à la Cour d’appel fédérale, la ministre a effectué les évaluations qui font l’objet du présent appel.
+[5] Dans les présents motifs, le terme « travailleurs » désigne les travailleurs liés (énumérés à l’annexe A de la réponse modifiée à l’avis d’appel, soit Tanya Lapointe, Annie Plouffe, Maxim Meunier et Sébastien Meunier) et les travailleurs non liés (énumérés à l’annexe B de la réponse modifiée à l’avis d’appel). Également, toute disposition législative à laquelle il est renvoyé est une disposition de la Loi, sauf indication contraire.
+II – CONTEXTE
+[6] M. Richard Meunier travaille dans le secteur de l’alimentation depuis plusieurs années. En 2005, il a démarré sa propre entreprise sous le nom de Les Entreprises Darick (« Darick »). En juin 2010, l’appelante a été constituée et a poursuivi l’exploitation de l’entreprise jusqu’en décembre 2015, tout en conservant le nom Darick. M. Meunier a toujours été l’unique actionnaire de l’appelante. Il s’est toujours occupé seul de la gestion de l’entreprise et des décisions importantes la concernant.
+[7] Durant la période, l’appelante a exploité une entreprise spécialisée dans le marchandisage, l’échantillonnage et le montage d’étalages pour le compte de magasins à grande surface, tels des marchés d’alimentation et des pharmacies. L’appelante faisait également la promotion de produits pour le compte de divers fabricants et distributeurs au moyen de kiosques de dégustation et de démonstration installés dans les magasins et vendait des produits pour le compte de fabricants et de distributeurs.
+[8] Le principal client de l’appelante était une société appelée Impact Détail inc., représentant à elle seule environ 70 à 75 % du chiffre d’affaires de l’appelante. Impact Détail inc. exploitait le même type d’entreprise que celle exploitée par l’appelante et accordait des contrats en sous-traitance à l’appelante.
+[9] L’appelante avait également comme client StratéCom inc., qui lui accordait des contrats en sous-traitance. Dans une moindre mesure, des bannières en alimentation, certains magasins d’alimentation, des pharmacies et des fabricants de produits (par exemple, Les Aliments Johnvince (Planters)) accordaient aussi des contrats à l’appelante.
+[10] Entre la période de 2010 à 2011 et la période de 2012 à 2015, les affaires de l’appelante ont peu évolué. L’entreprise était généralement exploitée de la même façon et les travailleurs bénéficiaient des mêmes conditions de travail.
+[11] En plus de M. Meunier, quatre travailleurs ont témoigné à l’audience, soit Mme Vicky Brazeau, M. Yves Prégent, M. Adrien Charron et l’un des fils de M. Meunier, M. Maxim Meunier.
+III - QUESTIONS EN LITIGE
+[12] La Cour doit déterminer si les travailleurs occupaient un emploi assurable au sens de la Loi auprès de l’appelante au cours de la période. Également, la Cour doit déterminer si l’appelante est passible de pénalités en vertu du paragraphe 82(9).
+IV - LES THÈSES DES PARTIES
+[13] Selon l’appelante, les travailleurs n’occupaient pas un emploi assurable auprès d’elle au cours de la période. En effet, l’intention des parties était de conclure un contrat de service et non pas un contrat de travail. Les travailleurs n’étaient pas soumis à la direction et au contrôle de l’appelante. Ainsi, l’appelante n’est pas redevable des cotisations prévues par la Loi et n’est pas passible des pénalités prévues par le paragraphe 82(9).
+[14] Selon l’intimée, les travailleurs occupaient un emploi assurable auprès de l’appelante au cours de la période, puisqu’ils avaient conclu avec l’appelante un contrat de travail. En effet, l’intention des parties de conclure un contrat de service n’est pas déterminante en l’espèce, puisque la preuve a démontré l’existence d’un lien de subordination entre l’appelante et les travailleurs. De même, en ce qui concerne les travailleurs liés, ceux-ci exerçaient les mêmes tâches, selon les mêmes conditions et modalités que les travailleurs non liés, de sorte qu’ils occupaient un emploi assurable auprès de l’appelante.
+[15] À titre subsidiaire, l’intimée soutient que les travailleurs occupaient un emploi assurable en vertu de l’alinéa 5(1)d) de la Loi et de l’alinéa 6g) du Règlement sur l’assurance-emploi (DORS/96-332) puisqu’ils étaient appelés par une agence de placement à fournir des services aux clients de l’appelante, sous la direction et le contrôle de ces clients.
+[16] Finalement, puisque l’appelante n’a pas remis les montants de cotisations payables en vertu de la Loi qu’elle devait remettre au receveur général dans les délais prescrits, les pénalités en vertu du paragraphe 82(9) doivent être maintenues.
+V – ANALYSE
+5.1 CONTRAT DE TRAVAIL OU CONTRAT DE SERVICE
+5.1.1 Cadre juridique
+[17] Le paragraphe 5(1) prévoit expressément ce qu’est un emploi assurable en incluant dans la définition de cette expression un emploi exercé aux termes d’un contrat de louage de services ou d’apprentissage :
+5(1) Sens de emploi assurable — Sous réserve du paragraphe (2), est un emploi assurable :
+a) l’emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d’un contrat de louage de services ou d’apprentissage exprès ou tacite, écrit ou verbal, que l’employé reçoive sa rémunération de l’employeur ou d’une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[…]
+5(1) Types of insurable employment — Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+. . .
+[Non souligné dans l’original.]
+[18] Le paragraphe 5(2) énumère des emplois qui ne sont pas assurables. J’y reviendrai dans la prochaine section.
+[19] Rien dans la Loi ne définit ce qui constitue un « contrat de louage de services ».
+[20] Puisque les faits dans la présente affaire se sont déroulés presque exclusivement au Québec, nous devons faire l’analyse de la relation entre les travailleurs et l’appelante en regard du droit privé applicable au Québec. En effet, la preuve a démontré que seulement 2 % des travailleurs résidaient en Ontario et que très peu de contrats ont été exécutés en Ontario. De plus, le siège social de l’appelante est situé au Québec. Puisque les liens les plus étroits sont avec la province de Québec, il faut appliquer le droit privé du Québec.
+[21] Ainsi, il faut appliquer les critères énoncés dans le Code civil du Québec, R.L.R.Q., ch. CCQ-1991 (le « C.c.Q. »), pour déterminer si l’on est en présence d’un contrat de louage de services (ou contrat de travail) ou d’un contrat d’entreprise ou de service. La juge Desjardins s’exprime ainsi dans l’arrêt NCJ Educational Services Limited c. M.R.N., 2009 CAF 131 :
+[49] Comme l’alinéa 5(1)a) de la Loi sur l’assurance-emploi ne contient aucune définition du contrat de louage de services, on doit se référer au principe de complémentarité consacré à l’article 8.1 de la Loi d’interprétation, L.R.C. 1985, ch. I-2, qui indique qu’il faut appliquer les critères prévus par le Code civil du Québec pour décider si un ensemble de faits déterminé crée un contrat de travail. […]
+[22] Les dispositions pertinentes du C.c.Q. sont les articles 2085 et 2086 pour ce qui est du contrat de travail et les articles 2098, 2099 et 2101 pour ce qui est du contrat d’entreprise ou de service :
+2085. Le contrat de travail est celui par lequel une personne, le salarié, s’oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d’une autre personne, l’employeur.
+2085. A contract of employment is a contract by which a person, the employee, undertakes, for a limited time and for remuneration, to do work under the direction or control of another person, the employer.
+2086. Le contrat de travail est à durée déterminée ou indéterminée.
+2086. A contract of employment is for a fixed term or an indeterminate term.
+[…]
+. . .
+2098. Le contrat d’entreprise ou de service est celui par lequel une personne, selon le cas l’entrepreneur ou le prestataire de services, s’engage envers une autre personne, le client, à réaliser un ouvrage matériel ou intellectuel ou à fournir un service moyennant un prix que le client s’oblige à lui payer.
+2098. A contract of enterprise or for services is a contract by which a person, the contractor or the provider of services, as the case may be, undertakes to another person, the client, to carry out physical or intellectual work or to supply a service, for a price which the client binds himself to pay to him.
+2099. L’entrepreneur ou le prestataire de services a le libre choix des moyens d’exécution du contrat et il n’existe entre lui et le client aucun lien de subordination quant à son exécution.
+2099. The contractor or the provider of services is free to choose the means of performing the contract and, with respect to such performance, no relationship of subordination exists between the contractor or the provider of services and the client.
+[…]
+. . .
+2101. À moins que le contrat n’ait été conclu en considération de ses qualités personnelles ou que cela ne soit incompatible avec la nature même du contrat, l’entrepreneur ou le prestataire de services peut s’adjoindre un tiers pour l’exécuter; il conserve néanmoins la direction et la responsabilité de l’exécution.
+2101. Unless a contract has been entered into in view of his personal qualities or unless the very nature of the contract prevents it, the contractor or the provider of services may obtain the assistance of a third person to perform the contract, but its performance remains under his supervision and responsibility.
+[Non souligné dans l’original.]
+[23] Ainsi, pour qu’il y ait contrat de louage de services au sens de la Loi (ou contrat de travail au sens du C.c.Q.), les trois éléments suivants doivent être réunis (9041-6868 Québec inc. c. M.R.N., 2005 CAF 334, [9041-6868 Québec], paragraphe 11), soit :
+une prestation de travail;
+une rémunération;
+un lien de subordination.
+[24] Le lien de subordination (ou le critère de la direction et du contrôle) est l’élément déterminant qui distingue le contrat de travail du contrat de service en droit québécois.
+[25] Dans l’analyse qui doit être faite, il faut également considérer les articles 1425 et 1426 du C.c.Q., qui prévoient que l’intention commune des parties doit être recherchée :
+1425. Dans l’interprétation du contrat, on doit rechercher quelle a été la commune intention des parties plutôt que de s’arrêter au sens littéral des termes utilisés.
+1425. The common intention of the parties rather than adherence to the literal meaning of the words shall be sought in interpreting a contract.
+1426. On tient compte, dans l’interprétation du contrat, de sa nature, des circonstances dans lesquelles il a été conclu, de l’interprétation que les parties lui ont déjà donnée ou qu’il peut avoir reçue, ainsi que des usages.
+1426. In interpreting a contract, the nature of the contract, the circumstances in which it was formed, the interpretation which has already been given to it by the parties or which it may have received, and usage, are all taken into account.
+[26] Dans l’arrêt Grimard c. Canada, 2009 CAF 47, [2009] 4 R.C.F. 592 [Grimard] (paragraphe 43), la Cour d’appel fédérale a précisé qu’il n’est pas erroné de s’inspirer des critères établis par la common law dans l’analyse de la nature juridique de la relation de travail (soit la propriété des outils, l’expectative de profits et les risques de pertes, ainsi que l’intégration dans l’entreprise), et ce, afin de déterminer l’existence d’un lien de subordination, indépendamment du fait que l’on doit statuer sous le régime du droit civil québécois. Ces critères pris isolément ne seront pas nécessairement déterminants et ne seront que des indices à considérer afin de déterminer l’existence d’un tel lien (paragraphe 42).
+[27] Ainsi, le critère de la direction et du contrôle demeure, en droit québécois, l’élément déterminant (9041-6868 Québec, paragraphe 12). Dans la décision 9041-6868 Québec, au paragraphe 11, le juge Décary a cité avec approbation des extraits du livre de Robert P. Gagnon Le droit du travail du Québec, Éditions Yvon Blais, 2003, 5e édition (pages 66 et 67) :
+En pratique, on recherchera la présence d’un certain nombre d’indices d’encadrement, d’ailleurs susceptibles de varier selon les contextes : présence obligatoire à un lieu de travail, assignation plus ou moins régulière du travail, imposition de règles de conduite ou de comportement, exigence de rapports d’activité, contrôle de la quantité ou de la qualité de la prestation, etc.
+[28] Dans la décision Dicom Express inc. c. Paiement, 2009 QCCA 611, la Cour d’appel du Québec a indiqué que la notion de subordination juridique se définit difficilement et « contient l’idée d’une dépendance hiérarchique, ce qui inclut le pouvoir de donner des ordres et des directives, de contrôler l’exécution du travail et de sanctionner les manquements » (paragraphes 16 et 17).
+[29] Également, tel que l’a précisé la Cour d’appel fédérale dans l’arrêt Grimard (paragraphe 67), le juge qui doit répondre à la question du statut d’un travailleur doit « rechercher et déterminer la nature juridique de la relation globale que les parties entretenaient entre elles dans un monde du travail en pleine évolution ».
+[30] Plus récemment, la Cour suprême du Canada a indiqué, dans l’arrêt Modern Concept d’entretien inc. c. Comité paritaire de l’entretien d’édifices publics de la région de Québec, 2019 CSC 28 (paragraphes 36, 37, 44 et 57), que, pour qu’une personne ait la qualité d’entrepreneur indépendant, elle doit avoir assumé les risques d’entreprise, c’est-à-dire qu’elle doit être capable d’organiser son entreprise en vue de réaliser un profit. Une analyse factuelle et contextuelle de chaque cas doit être faite; il faut aller au-delà du contrat liant les parties pour déterminer la nature véritable de la relation entre elles.
+[31] Ainsi, dans un premier temps, l’intention subjective de chacune des parties à la relation doit être établie. La Cour doit donc rechercher la commune intention des parties, le cas échéant, et, ce faisant, elle doit tenir compte des circonstances dans lesquelles le contrat a été conclu ainsi que des usages (articles 1425 et 1426 C.c.Q.).
+[32] Par la suite, la Cour doit déterminer si la réalité objective confirme cette intention subjective de conclure soit un contrat de travail, soit un contrat d’entreprise ou de service. En effet, la jurisprudence a indiqué à maintes reprises que la caractérisation de la relation entre les parties n’est pas nécessairement déterminante quant à la nature du contrat les liant (D & J Driveway inc. c. M.R.N., 2003 CAF 453, paragraphe 2, Grimard, paragraphe 33). Ainsi, par exemple, si le comportement des parties n’est pas conforme au contrat se voulant créateur d’une relation d’entrepreneur indépendant, ou encore si la preuve démontre l’existence d’un lien de subordination entre les parties, la relation serait plutôt une relation d’employeur-employé. C’est à cette étape qu’il faut déterminer si un lien de subordination juridique existe entre les parties à la relation.
+5.1.2 Discussion
+[33] En l’espèce, les parties ne contestent pas le fait que les travailleurs ont fourni une prestation de travail et ont reçu une rémunération. Ces deux premiers éléments constitutifs du contrat de travail ne sont donc pas en litige. C’est plutôt le troisième et dernier élément constitutif du contrat de travail, soit l’existence d’un lien de subordination juridique (critère de la direction et du contrôle), qui est en litige.
+[34] Avant de procéder à cette analyse, la Cour doit évaluer les circonstances dans lesquelles la relation entre les parties s’est créée et développée ainsi que les usages.
+a) Circonstances et usages
+[35] La preuve a démontré que les contrats confiés à l’appelante précisaient le nombre de travailleurs requis, la durée du contrat, l’endroit précis où le travail devait être effectué, la date et l’heure auxquelles les travailleurs devaient se présenter et la rémunération qui serait versée à l’appelante pour chaque travailleur, incluant le montant de l’indemnité pour le déplacement.
+[36] Lorsque l’appelante acceptait un contrat, M. Meunier contactait les travailleurs selon une liste établie au fil des ans pour leur offrir le travail. Le recrutement des travailleurs pouvait également se faire par bouche-à-oreille par les travailleurs eux-mêmes. Parfois, les travailleurs contactaient M. Meunier directement.
+[37] La nature des services requis des travailleurs n’était déterminée que lors de l’arrivée des travailleurs à l’endroit précisé dans le contrat. Un représentant ou chargé de projets de la bannière ou de la maison mère ou bien un responsable du détaillant ou du fabricant (l’un et l’autre sont appelés « chargé de projets » dans les présents motifs) déterminait les tâches requises des travailleurs, qui incluaient du marchandisage, de l’étalage, de l’échantillonnage ou parfois même des rénovations, ou encore la mise en place de produits sur les tablettes en fonction de planogrammes préalablement établis par les bannières ou les détaillants. Selon M. Meunier, les travailleurs devaient absolument suivre à la lettre les planogrammes et ils n’avaient pas la liberté de placer les produits à leur guise. M. Meunier n’était pas présent dans les magasins lorsque les travailleurs effectuaient leurs tâches.
+[38] L’appelante faisait aussi de la vente de certains produits. Ainsi, l’appelante avait obtenu un contrat pour la vente de produits distribués par Les Aliments Johnvince (Planters). Ce contrat avait été octroyé au fils de M. Meunier, Maxim Meunier. De même, l’appelante avait un contrat de marchandisage pour les produits Sally Hansen, qui avait été octroyé à la bru de M. Meunier, Tanya Lapointe.
+[39] L’appelante offrait également des services de dégustation en magasin de façon très accessoire. Ainsi, si un tel service était requis de l’appelante, celle-ci envoyait un travailleur au magasin et celui-ci s’occupait d’organiser la dégustation demandée.
+[40] Puisque l’appelante voulait conserver sa bonne réputation auprès de ses clients, un travailleur qui n’aurait pas eu une bonne attitude ou encore un bon rendement dans l’exécution d’un contrat n’aurait pas été rappelé par celle-ci. Ainsi, M. Meunier s’attendait à ce que les travailleurs se présentent à l’heure indiquée par son client, qu’ils aient une apparence propre, qu’ils fassent preuve de professionnalisme dans leur travail et qu’ils ne commettent pas de vols à l’étalage. Les travailleurs étaient recrutés sans qu’ils aient à fournir de curriculum vitae et sans entrevue; seul le numéro d’assurance sociale était requis. Aucune formation ni expertise n’était requise des travailleurs.
+[41] Par commodité, l’appelante préparait les factures que devaient leur remettre les travailleurs chaque semaine. La facture de chaque travailleur détaillait les heures de travail effectuées, les heures de déplacement, le kilométrage parcouru et le nombre d’indemnités quotidiennes pour les repas (un exemple de facture produite se trouve à la pièce A‑10). La facture ainsi préparée par l’appelante était jointe au chèque émis par l’appelante aux travailleurs pour les sommes dues.
+[42] Selon M. Meunier, le fait de préparer les factures des travailleurs permettait à l’appelante d’envoyer elle-même des factures à ses propres clients hebdomadairement. Des exemples de factures émises par l’appelante à ses clients ont été produits à l’audience (pièces I‑2, I‑3, I‑4, I‑5, I‑6 et I‑7 ainsi que les pièces A‑3 et A‑9). Ces factures détaillaient le nombre d’heures de travail, les heures de déplacement, le kilométrage parcouru, le nombre d’indemnités quotidiennes pour les repas, le nombre de chambres d’hôtel et le coût de celles-ci. À cette facture était jointe également la feuille de temps qui avait été remplie par les travailleurs présents dans les magasins. Ainsi, afin de permettre le suivi des heures travaillées, un des travailleurs sur place était chargé de remplir une feuille de temps indiquant les heures effectuées par tous les travailleurs présents au cours d’une journée donnée. Cette feuille de temps était signée par un responsable du magasin, puis était transmise à l’appelante. L’appelante créait une version finale de cette feuille de temps et la joignait aux factures remises à ses clients. M. Meunier a témoigné que le fait qu’un seul travailleur remplisse la feuille pour tous les travailleurs permettait d’éviter que des feuilles soient perdues ou que celles-ci deviennent malpropres. Dans la mesure du possible, M. Meunier voulait que ce soit une personne responsable qui soit chargée de la feuille de temps. Toutefois, selon M. Meunier, cette personne n’était pas considérée comme un chef d’équipe.
+b) Première étape : recherche de l’intention commune et interprétation du contrat
+[43] Dans l’interprétation du contrat liant les travailleurs et l’appelante, il faut rechercher l’intention commune des parties. De plus, à cette première étape, il faut examiner le comportement effectif des parties.
+[44] En l’espèce, je conclus que, selon la prépondérance de la preuve, l’intention commune des travailleurs et de l’appelante était de conclure un contrat de service, et non pas un contrat de travail.
+[45] Les travailleurs ont témoigné avoir conclu un contrat verbal avec l’appelante. Les travailleurs ont unanimement témoigné qu’ils se considéraient comme des travailleurs autonomes. Également, les travailleurs ont produit leurs déclarations de revenus auprès des autorités fiscales sur ce fondement.
+[46] En ce qui concerne l’appelante, le témoignage de M. Meunier est également très clair à cet égard, c’est-à-dire que tous les travailleurs étaient considérés comme des travailleurs autonomes et non pas comme des employés de l’appelante. L’appelante a délivré des feuillets T4A aux travailleurs (état du revenu de pension, de retraite, de rente ou d’autres sources) faisant état des sommes qu’elle versait aux travailleurs à titre d’« honoraires ou autres sommes pour services rendus ». L’appelante ne prélevait aucune déduction à la source sur la rémunération ainsi versée aux travailleurs.
+[47] Tel qu’indiqué ci-dessus, cette intention subjective des parties de conclure un contrat de service n’est pas nécessairement déterminante. Il faut vérifier si le comportement des parties vient confirmer cette intention subjective des parties de conclure un contrat de service et confirmer l’absence de lien de subordination juridique entre les parties. Si les faits démontrent un lien de subordination juridique entre les parties, la Cour n’aura d’autre choix que de conclure que les parties étaient liées par un contrat de travail et non par un contrat de service.
+c) Deuxième étape : lien de subordination juridique
+[48] Pour les motifs suivants, selon la prépondérance de la preuve, je conclus qu’un lien de subordination juridique existait dans les faits entre les travailleurs et l’appelante au cours de la période, puisque la preuve a démontré que l’appelante et ses clients, de même que les chargés de projets, ont exercé une direction et un contrôle sur l’exécution du travail effectué par les travailleurs, et non pas seulement sur la qualité et le résultat du travail, et que ces travailleurs n’avaient pas le libre choix des moyens d’exécution des tâches effectuées. Ainsi, au cours de la période, les travailleurs et l’appelante étaient liés par un contrat de travail et non par un contrat de service.
+Direction et contrôle
+[49] Tel qu’indiqué par la Cour d’appel fédérale dans l’arrêt Grimard, la Cour doit rechercher et déterminer la nature juridique de la relation globale qu’entretenaient l’appelante et les travailleurs à l’égard du travail effectué par ceux-ci.
+[50] En plus d’évaluer la direction et le contrôle exercés par l’appelante sur le travail effectué par les travailleurs, la Cour doit également prendre en compte la direction et le contrôle exercés par les clients de l’appelante de même que par les chargés de projets pour décider de la nature de la relation entre les travailleurs et l’appelante.
+[51] En l’espèce, l’appelante a soutenu qu’elle n’exerçait aucune direction ni contrôle sur les travailleurs, puisque M. Meunier n’était jamais sur place quand les travailleurs effectuaient leurs tâches et que, de plus, les travailleurs étaient libres d’accepter ou de refuser tout contrat. Tout d’abord, il ne faut pas confondre la direction et le contrôle exercés sur le résultat et la qualité du travail existant autant dans le cadre d’un contrat de travail que d’un contrat d’entreprise ou de service, et la direction et le contrôle exercés sur les tâches effectuées par les travailleurs et les modalités d’exécution de celles-ci qui sont caractéristiques d’un contrat de travail (articles 2085 et 2099 C.c.Q.). De plus, il faut évaluer la direction et le contrôle exercés sur le travail effectué par les travailleurs de manière globale et ne pas se limiter dans cette analyse à la direction et au contrôle exercés directement par l’appelante. Ainsi, je conclus plutôt que les éléments décrits dans les paragraphes suivants démontrent que l’appelante, de même que les clients et les chargés de projets, exerçaient non seulement une direction et un contrôle sur le résultat et la qualité du travail effectué, mais ils exerçaient également une direction et un contrôle sur les tâches effectuées par les travailleurs ainsi que sur les modalités d’exécution de celles-ci, établissant un lien de subordination juridique entre les travailleurs et l’appelante caractéristique d’un contrat de travail. De même, les travailleurs n’avaient pas le libre choix des moyens d’exécution des tâches requises, comme l’aurait eu un travailleur autonome.
+[52] Bien que les travailleurs aient eu la liberté d’accepter ou de refuser tout contrat et qu’ils n’aient subi aucune sanction en cas de refus, la preuve a démontré que, lorsqu’ils avaient accepté de remplir un contrat, les travailleurs devaient se plier à l’horaire prévu au contrat pour lequel ils s’étaient engagés. Les travailleurs devaient se présenter à un endroit déterminé en vertu du contrat, et ce, pour la durée estimée du travail requis, et au moment indiqué par l’appelante. Également, les chargés de projets pouvaient modifier cet horaire à leur discrétion en avisant les travailleurs sur place, qui devaient alors se plier à ce nouvel horaire. Cette présence obligatoire sur des lieux de travail précis, à des moments précis et pour une durée déterminée, le tout tel qu’établi par l’appelante, ses clients et les chargés de projets, et un tel horaire pouvant être modifié sans préavis par les chargés de projets, démontrent un contrôle sur les modalités d’exécution du travail, et non seulement sur le résultat ou la qualité du travail.
+[53] Les travailleurs n’avaient pas de pouvoir de négociation sur les modalités du contrat. La preuve a démontré que les travailleurs ne négociaient pas leurs conditions de travail, qui étaient les mêmes pour tous les travailleurs. Le taux horaire a varié au cours de la période de 11 $ à 13 $. Lorsqu’un travailleur prenait sa voiture pour se rendre à l’endroit où les tâches devaient être effectuées, une indemnité fixe pour le kilométrage (approximativement 0,40 $ par km) lui était versée par l’appelante. Le travailleur recevait également une indemnité pour les repas variant entre 30 $ et 40 $ par jour. Les heures de déplacement étaient également rémunérées par l’appelante au même taux horaire que les heures de travail proprement dites. Lorsqu’un travailleur était logé à l’hôtel, il n’avait pas à en défrayer les coûts.
+[54] De même, lorsque les travailleurs partaient en région éloignée de Gatineau, l’appelante organisait le transport des travailleurs, en s’assurant qu’il y ait quatre travailleurs par voiture. Également, soit l’appelante, ou la bannière en alimentation ou encore le magasin où les travaux se déroulaient procédait à la réservation des chambres d’hôtel pour les travailleurs.
+[55] Les travailleurs n’avaient aucune discrétion quant aux moyens d’exécution de leurs tâches. La preuve a démontré que les travailleurs recevaient des instructions détaillées et précises quant aux tâches à effectuer de la part des chargés de projets, qui étaient présents au magasin et dictaient les tâches à effectuer. Les tâches effectuées par les travailleurs étaient assujetties à l’évaluation des chargés de projets. Ceux-ci vérifiaient la qualité de la prestation et pouvaient demander à un travailleur dont le travail était insatisfaisant de quitter les lieux. Également, quand les tâches consistaient à mettre des produits sur les tablettes, des planogrammes détaillés étaient remis aux travailleurs et ceux-ci devaient suivre à la lettre la présentation indiquée sur les planogrammes en mettant les produits sur les étalages. La preuve a démontré qu’en cas de problème lors de l’exécution du travail, les travailleurs se référaient au chargé de projets.
+[56] Les travailleurs étaient soumis à des règles de conduite ou de comportement. M. Meunier a témoigné que les travailleurs devaient s’habiller convenablement et avoir un comportement convenable. M. Meunier a également indiqué que, s’il était mis au courant qu’un travailleur ne faisait pas un travail convenable, il retirait le nom de cette personne de la liste des travailleurs. Bien que la preuve a démontré que l’appelante ne vérifiait pas personnellement la qualité et la quantité de la prestation de travail fourni par les travailleurs, puisque ni M. Meunier ni un autre représentant de l’appelante n’était présent sur les lieux de travail, M. Meunier était informé du déroulement des activités sur les lieux de travail.
+[57] Plus précisément en ce qui concerne le travail de dégustation, la direction et le contrôle exercés par l’appelante sur la prestation des travailleurs étaient également importants. En effet, la preuve a démontré que l’appelante donnait une formation sur la sécurité. De même, le représentant du détaillant ou du fabricant donnait également des instructions aux travailleurs pour que la dégustation soit sécuritaire.
+[58] Bien que la preuve n’ait pas démontré qu’il y avait un chef d’équipe sur place, il y avait toujours un travailleur qui s’occupait de remplir et de faire signer la feuille de temps par un responsable du magasin, laquelle devait par la suite être remise à l’appelante. Mme Brazeau, M. Prégent de même que Maxim Meunier ont témoigné avoir agi à ce titre. Ce même travailleur facilitait la communication sur place et gérait également les plaintes qui pouvaient être formulées par les chargés de projets. Les travailleurs devaient donc s’assurer de remplir une feuille de temps, comptabilisant ainsi les heures de travail. Ces feuilles de temps permettaient à l’appelante de contrôler les heures effectuées par les travailleurs, et elles sont typiques d’une relation employeur‑employé.
+[59] La preuve a également démontré qu’un travailleur pouvait se faire remplacer. Si un travailleur ne se présentait pas sur les lieux de travail, l’un ou l’autre des travailleurs contactait l’appelante et cette dernière envoyait un autre travailleur pour le remplacer. Toutefois, en région éloignée de Gatineau, il n’était pas possible pour l’appelante de pourvoir au remplacement. La preuve a démontré qu’en cas de remplacement d’un travailleur, c’était le travailleur qui avait effectivement effectué les tâches qui était rémunéré et non pas le travailleur s’étant fait remplacer.
+[60] Mme Brazeau a témoigné qu’elle ne pouvait pas engager de tiers pour effectuer ses tâches. Maxim Meunier a témoigné qu’à une occasion, alors qu’il était impossible pour lui d’arriver à placer toute la marchandise dans le temps requis, il avait demandé de l’aide à des amis, qui n’ont toutefois pas été rémunérés. Ainsi, j’en conclus qu’il n’était pas possible pour un travailleur de sous-contracter lui-même le travail en vertu d’un contrat, ce qui est indicatif d’un contrat de travail plutôt que d’un contrat de service.
+Indices d’encadrement
+[61] L’indice de la propriété des outils est plutôt neutre quant à la détermination de la relation entre les travailleurs et l’appelante. En effet, la preuve a démontré que les travailleurs avaient besoin de peu d’outils pour effectuer leur travail, soit un casque de sécurité, des bottes à embout d’acier et un couteau à lame rétractable. Habituellement, les travailleurs fournissaient leurs propres bottes à embout d’acier et les couteaux. Les magasins d’alimentation mettaient à la disposition des travailleurs des casques de sécurité ainsi que des couteaux. Bien que les casques de sécurité aient été fournis sur place par le magasin, certains travailleurs préféraient apporter leur propre casque. En ce qui concerne le travail de dégustation qui ne représente qu’un très faible pourcentage des activités de l’appelante, la preuve a toutefois démontré que, généralement, tout le matériel requis était fourni par le magasin, tels les assiettes, les cure-dents, les ustensiles, les tables, les assiettes, le micro-ondes ou le réchaud, le tablier, le chapeau de même que la nourriture pour la dégustation. Si du matériel manquait, c’était l’appelante qui le fournissait, et non pas le travailleur. De plus, l’appelante fournissait aux travailleurs, dans le cadre des dégustations, des instructions quant à la sécurité (par exemple, les jeunes enfants). Parfois, le magasin pouvait également fournir des instructions.
+[62] Les autres indices d’encadrement, soient les chances de profits et les risques de pertes ainsi que le critère de l’intégration, ne viennent qu’étayer ma conclusion que les travailleurs et l’appelante étaient liés par un contrat de travail et non par un contrat de service
+[63] Selon la prépondérance de la preuve, l’indice des chances de profits ou des risques de perte favorise la conclusion que les travailleurs étaient liés à l’appelante par un contrat de travail et non par un contrat de service, puisque les travailleurs n’avaient aucune chance de faire des profits et aucun risque de subir des pertes.
+[64] En l’espèce, tel qu’indiqué ci-dessus, la preuve a démontré que les conditions de travail auprès de l’appelante n’étaient pas négociées par les travailleurs et étaient fixées d’avance par l’appelante. La rémunération était la même pour tous les travailleurs et ceux-ci ne négociaient pas les tarifs avec l’appelante. Les travailleurs étaient payés à un taux horaire variant entre 11 $ et 13 $. Lorsqu’ils se rendaient à l’extérieur de la région de Gatineau, les travailleurs étaient également payés pour le temps de déplacement, au même taux horaire que pour le travail à proprement dit. Les travailleurs fournissant leur véhicule recevaient une indemnité pour le kilométrage d’environ 0,40 $ le kilomètre. Les travailleurs recevaient également une indemnité variant entre 30 $ et 40 $ par jour pour les repas. Le coût des chambres d’hôtel était défrayé par l’appelante.
+[65] Je souscris aux observations formulées par la juge D’Auray dans la décision AE Hospitality Ltd. c. M.N.R., 2019 CCI 116 (confirmée par la Cour d’appel fédérale dans 2020 CAF 207), selon lesquelles le critère des chances de profits ou des risques de pertes doit être interprété dans le sens entrepreneurial et que le fait de pouvoir effectuer plus ou moins d’heures n’est pas assimilable à la possibilité d’accroître son profit (paragraphe 149). En l’espèce, les travailleurs étaient rémunérés à un taux horaire fixe. De plus, la preuve a démontré que les travailleurs ne pouvaient sous-contracter le travail. Ainsi, dans ces conditions, les travailleurs ne peuvent accroître leurs profits selon le sens à donner à cette expression.
+[66] Certains travailleurs considéraient que l’indemnité octroyée par l’appelante pour le kilométrage était avantageuse et représentait une façon d’accroître leur rémunération. M. Prégent a témoigné qu’il préférait prendre sa voiture lorsque les contrats devaient être effectués en région éloignée de Gatineau puisque cela lui permettait d’obtenir une compensation pour le kilométrage effectué, qu’il considérait comme payante. Maxim Meunier a témoigné qu’il choisissait les contrats pour des magasins situés dans des régions éloignées de Gatineau, puisque l’indemnité pour le kilométrage était payante.
+[67] La preuve a démontré que le montant de l’indemnité pour le kilométrage était fixé par les clients de l’appelante, et qu’une indemnité du même montant était octroyée par l’appelante aux travailleurs. Toutefois, la preuve est muette quant à savoir si l’indemnité était d’un montant raisonnable ou non. Généralement, une indemnité fixée en fonction du kilométrage parcourue vise à indemniser le bénéficiaire pour les dépenses encourues (essence, huile, etc.), de même que pour l’usure prématurée du véhicule et la dépréciation de celui-ci. Ainsi, cette indemnité pour le kilométrage ne peut permettre à un travailleur d’accroître son profit.
+[68] De plus, puisque la preuve a démontré que l’appelante défrayait les coûts des chambres d’hôtel et versait une indemnité pour les repas, les travailleurs ne pouvaient subir aucune perte dans le cadre de leur travail. La preuve a également démontré qu’en cas de bris de produits sur les lieux de travail, ni le travailleur ni l’appelante n’étaient responsables des coûts engendrés par l’incident. Il n’y avait pas d’impact financier pour l’appelante ou le travailleur.
+[69] Finalement, selon la prépondérance de la preuve, l’indice de l’intégration favorise la conclusion que les travailleurs étaient liés à l’appelante par un contrat de travail et non par un contrat de service.
+[70] Ce critère doit s’appliquer du point de vue des travailleurs. La question est de savoir à qui appartient l’entreprise. Les travailleurs n’agissaient pas comme s’ils exploitaient leur propre entreprise. Ils suivaient les instructions précises qui leur étaient communiquées par les chargés de projets afin d’effectuer leur travail et ne choisissaient ni le moment, ni l’endroit, ni la façon d’exécuter ce travail. De plus, les travailleurs ne fournissaient pas de factures à l’appelante, puisque la preuve a démontré que l’appelante préparait elle-même les factures des travailleurs. Ces factures, qui avaient plutôt l’apparence de talons de paye, étaient jointes aux chèques émis par l’appelante en paiement du travail effectué par les travailleurs.
+d) Conclusion
+[71] Pour tous ces motifs, selon la prépondérance de la preuve, les travailleurs avaient conclu un contrat de travail avec l’appelante et non pas un contrat de service. Ainsi, sous réserve de l’application de l’alinéa 5(2)i) aux travailleurs liés, les travailleurs avaient conclu un contrat de louage de services avec l’appelante et occupaient donc un emploi assurable au sens de l’alinéa 5(1)a) au cours de la période.
+5.2 LES TRAVAILLEURS LIÉS ET L’ALINÉA 5(2)i)
+5.2.1 Cadre juridique
+[72] L’alinéa 5(2)i) indique que l’emploi « dans le cadre duquel l’employeur et l’employé ont entre eux un lien de dépendance » n’est pas un emploi assurable.
+[73] Selon l’alinéa 5(3)a), la Loi de l’impôt sur le revenu (L.R.C. 1985, ch. 1 (5e suppl.), telle que modifiée) (la « LIR ») s’applique pour déterminer la question de savoir si des personnes ont entre elles un lien de dépendance (les dispositions pertinentes de la LIR sont en annexe aux présents motifs).
+[74] De plus, l’alinéa 5(3)b) prévoit que, lorsque l’employeur et l’employé sont des personnes liées en vertu de la LIR, ils seront réputés ne pas avoir de lien de dépendance entre eux si le ministre est convaincu qu’il est raisonnable de conclure, à la lumière des circonstances, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance. Si tel est le cas, l’emploi sera donc un emploi assurable pour l’application de la Loi.
+[75] Ces dispositions sont rédigées ainsi :
+5(2) N’est pas un emploi assurable :
+[…]
+i) l’emploi dans le cadre duquel l’employeur et l’employé ont entre eux un lien de dépendance.
+5(2) Insurable employment does not include
+. . .
+(i) employment if the employer and employee are not dealing with each other at arm’s length.
+5(3) Pour l’application de l’alinéa (2)i) :
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l’impôt sur le revenu;
+b) l’employeur et l’employé, lorsqu’ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+5(3) For the purposes of paragraph (2)(i),
+(a) the question of whether persons are not dealing with each other at arm’s length shall be determined in accordance with the Income Tax Act; and
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm’s length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length.
+5.2.2 Discussion
+[76] Pour les motifs suivants, Tanya Lapointe, Maxim Meunier, Sébastien Meunier et Annie Plouffe sont liés à l’appelante en vertu des dispositions de la LIR.
+[77] Tout d’abord, la preuve a démontré que Maxim Meunier, Sébastien Meunier et Francis Meunier sont les fils de Richard Meunier, que Tanya Lapointe est l’épouse de Sébastien Meunier et qu’Annie Plouffe est la conjointe de Francis Meunier.
+[78] En vertu du sous-alinéa 251(2)b)(i) de la LIR, M. Meunier est lié à l’appelante puisqu’il détient la totalité des actions de l’appelante. Les fils de M. Meunier sont liés à leur père, étant unis par les liens du sang (alinéas 251(2)a) et 251(6)a) de la LIR). Ainsi, Maxim, Sébastien et Francis Meunier sont liés à l’appelante (sous-alinéa 251(2)b)(iii) de la LIR).
+[79] Puisque Tanya Lapointe est mariée à Sébastien Meunier, elle est liée à M. Meunier (alinéas 251(2)a) et 251(6)b) de la LIR) et à l’appelante (sous‑alinéa 251(2)b)(iii) de la LIR).
+[80] Puisqu’Annie Plouffe est la conjointe de fait de Francis Meunier, elle est liée à M. Meunier (alinéas 251(2)a) et 251(6)b.1) de la LIR) et à l’appelante (sous‑alinéa 251(2)b)(iii) de la LIR).
+[81] Puisque des personnes liées sont réputées avoir entre elles un lien de dépendance (alinéa 251(1)a) de la LIR), l’emploi de chacun de Maxim Meunier, de Sébastien Meunier, de Tanya Lapointe et d’Annie Plouffe auprès de l’appelante ne sera pas considéré comme un emploi assurable selon l’alinéa 5(2)i), sauf si la présomption prévue à l’alinéa 5(3)b) est applicable. En l’espèce, selon la prépondérance de la preuve, je conclus que cette présomption est applicable aux travailleurs liés.
+[82] M. Meunier et Maxim Meunier ont témoigné à l’audience que les travailleurs liés effectuaient les mêmes tâches que les autres travailleurs et bénéficiaient des mêmes conditions de travail pour ce qui est de la rémunération et des autres indemnités pour les repas et le kilométrage. En effet, Maxim Meunier a témoigné avoir exécuté des contrats à l’extérieur de la région de Gatineau, tout comme M. Prégent et Mme Brazeau. Maxim Meunier bénéficiait des mêmes conditions de travail que les travailleurs non liés, de la même rémunération, et effectuait les mêmes tâches. De même, autant Maxim Meunier que Mme Brazeau et M. Prégent ont été responsables des feuilles de temps. De même, lorsqu’il se rendait dans les régions éloignées de Gatineau, Maxim Meunier était également logé dans une chambre d’hôtel, sans qu’il ait à débourser d’argent, tout comme les autres travailleurs. Toutefois, vu son expérience, Maxim Meunier a obtenu un contrat de vente de produits de Les Aliments Johnvince (Planters). Toutefois, je suis d’avis qu’un travailleur non lié ayant de l’expérience aurait pu obtenir un tel contrat également, bien que la preuve soit muette à cet égard. À plusieurs reprises au cours de l’audience, M. Meunier a confirmé que les travailleurs liés bénéficiaient des mêmes conditions de travail que les autres travailleurs et effectuaient les mêmes tâches. Ainsi, la durée, la nature et l’importance du travail accompli étaient similaires pour les travailleurs liés et non liés.
+[83] Vu la preuve déposée à l’audience, il est donc raisonnable de conclure dans les circonstances que les travailleurs liés auraient conclu un contrat de travail à peu près semblable avec l’appelante s’ils n’avaient pas eu de lien de dépendance avec cette dernière. En vertu de l’alinéa 5(3)b), les travailleurs liés sont donc réputés ne pas avoir de lien de dépendance avec l’appelante. Conséquemment, l’exception prévue à l’alinéa 5(2)i) n’est pas applicable en l’espèce, ce qui fait en sorte que les travailleurs liés occupaient un emploi assurable auprès de l’appelante au cours de la période en vertu de l’alinéa 5(1)a).
+5.3 LES PÉNALITÉS IMPOSÉES EN VERTU DU PARAGRAPHE 82(9)
+5.3.1 Cadre juridique
+[84] Le paragraphe 82(1) prévoit qu’un employeur doit verser au receveur général les cotisations ouvrières et les cotisations patronales dans les délais prescrits par règlement. Ce paragraphe est rédigé ainsi :
+82(1) L’employeur qui paie une rétribution à une personne exerçant à son service un emploi assurable est tenu de retenir sur cette rétribution, au titre de la cotisation ouvrière payable par cet assuré en vertu de l’article 67 pour toute période à l’égard de laquelle cette rétribution est payée, un montant déterminé conformément à une mesure d’ordre réglementaire et de le verser au receveur général avec la cotisation patronale correspondante payable en vertu de l’article 68, au moment et de la manière prévus par règlement.
+82(1) Every employer paying remuneration to a person they employ in insurable employment shall
+(a) deduct the prescribed amount from the remuneration as or on account of the employee’s premium payable by that insured person under section 67 for any period for which the remuneration is paid; and
+(b) remit the amount, together with the employer’s premium payable by the employer under section 68 for that period, to the Receiver General at the prescribed time and in the prescribed manner.
+[85] Le Règlement sur la rémunération assurable et la perception des cotisations (DORS/97-33) (le « Règlement ») prévoit que les cotisations payables en vertu de la Loi doivent généralement être versées au receveur général au plus tard le 15e jour du mois suivant celui au cours duquel la rémunération a été versée (paragraphe 4(1) du Règlement). Certaines règles particulières sont prévues au Règlement, lesquelles viennent modifier cette date limite de remise. La date limite la plus tardive qui y est prévue est le 15 janvier de l’année qui suit l’année civile au cours de laquelle la rémunération a été versée (alinéa 4(3.1)g) du Règlement).
+[86] Le paragraphe 82(9) prévoit que l’employeur qui ne remet pas au receveur général les montants payables en vertu de la Loi dans les délais prescrits est passible d’une pénalité. Cette disposition est rédigée ainsi :
+82(9) Tout employeur qui, au cours d’une année, ne remet pas au receveur général, à l’échéance, un montant qu’il est tenu de lui remettre est passible d’une pénalité égale à, selon le cas :
+a) sous réserve de l’alinéa b) :
+[…]
+(iii) si ce montant n’est pas payé ou remis au plus tard le septième jour suivant la date où il est exigible, dix pour cent du montant;
+82(9) Every employer who in a year fails to remit to the Receiver General an amount that the employer is required to remit at the time when it is required is liable to a penalty of
+(a) subject to paragraph (b), if
+. . .
+(iii) that amount is not paid or remitted on or before the seventh day after it was due, 10% of that amount;
+5.3.2 Discussion
+[87] Au cours de l’audience, M. Meunier a convenu que ni lui ni l’appelante n’avaient à ce jour versé les cotisations payables en vertu de la Loi à l’égard de la rémunération payée aux travailleurs au cours de la période. Puisque l’appelante a fait l’objet d’évaluations pour les années 2013, 2014 et 2015, le délai le plus tardif pour remettre les cotisations au receveur général était le 15 janvier 2016. Les délais prescrits pour le versement de ces sommes ont donc été largement dépassés. L’appelante est donc passible des pénalités prévues au sous‑alinéa 82(9)a)(iii), égales à 10 % des montants non remis.
+[88] Selon l’intimée, ces pénalités sont d’application automatique dès qu’un employeur omet de verser les cotisations en vertu de la Loi dans les délais prescrits.
+[89] Toutefois, à l’égard de dispositions similaires figurant dans la LIR et la Loi sur la taxe d’accise (L.R.C. 1985, ch. E-15) qui prévoient des pénalités dites de nature administrative, les tribunaux ont reconnu que la défense de diligence raisonnable était possible (Corporation de l’école polytechnique c. La Reine, 2004 CAF 127, paragraphe 27; Les Résidences Majeau inc. c. La Reine, 2010 CAF 28 [Les Résidences Majeau], paragraphe 8; Banque Royale du Canada c. La Reine, 2007 CAF 72). Notre Cour a également décidé qu’une telle défense pouvait être invoquée à l’égard de pénalités de même nature prévues dans l’ancienne version de la Loi (Houston Agencies Ltd. c. Canada (Ministre du Revenu national), [1996] A.C.I. no 1250 (QL)).
+[90] Pour bénéficier de cette défense, l’appelante devait établir soit qu’elle avait pris toutes les précautions raisonnables pour empêcher le défaut de remise au receveur général dans les délais prescrits, soit qu’elle avait commis une erreur de fait raisonnable (Les Résidences Majeau, paragraphes 8, 9 et 10).
+[91] La preuve ne révèle aucune mesure prise par l’appelante pour empêcher le défaut de versement des cotisations au receveur général dans les délais prescrits. En effet, l’appelante prend la position que les travailleurs n’occupaient pas d’emploi assurable auprès d’elle, donc, elle n’a pris aucune mesure pour empêcher le défaut de remise.
+[92] En ce qui concerne l’erreur de fait raisonnable, il faut satisfaire à un critère subjectif et à un critère objectif. Le critère subjectif consiste à déterminer si l’appelante s’est méprise quant à une situation de fait qui aurait éliminé le caractère fautif de l’omission de verser les cotisations au receveur général dans les délais prescrits. En l’espèce, selon la prépondérance de la preuve, je conclus que l’appelante a satisfait au critère subjectif jusqu’au mois de mai 2015, soit jusqu’à ce que le jugement de notre Cour soit rendu dans l’affaire Meunier. Elle ne peut toutefois prétendre s’être méprise quant à une situation de fait qui aurait éliminé le caractère fautif de l’omission de verser les cotisations au receveur général en vertu de la Loi après cette date, puisqu’entre autres, ce jugement antérieur de la Cour n’a pas été porté en appel. L’appelante a plutôt décidé d’interjeter un autre appel devant notre Cour pour la période, soit pour 2013, 2014 et 2015, à l’égard des évaluations faites par la ministre en vertu de la Loi à la suite de ce jugement, alors que M. Meunier a confirmé dans son témoignage que les opérations de l’appelante étaient similaires et n’avaient pas changé depuis 2010 et 2011.
+[93] Quant au critère objectif, je conclus qu’il n’y est pas satisfait. En effet, l’appelante n’a pas établi qu’une personne raisonnable placée dans les mêmes circonstances aurait commis cette erreur. Une personne raisonnable placée dans les mêmes circonstances que l’appelante aurait conclu qu’un lien de subordination existait entre elle et les travailleurs.
+[94] Pour ces motifs, les pénalités doivent être maintenues.
+VI – CONCLUSION
+[95] Selon la prépondérance de la preuve, au cours de la période, les travailleurs occupaient auprès de l’appelante un emploi assurable au sens de l’alinéa 5(1)a). Vu la direction et le contrôle exercés par l’appelante sur le travail des travailleurs, il y avait un lien de subordination juridique entre les travailleurs et l’appelante, de sorte que les exigences du contrat de louage de services étaient remplies. De plus, l’exception prévue à l’alinéa 5(2)i) ne s’appliquait pas aux travailleurs liés.
+[96] Ayant conclu que les travailleurs étaient liés à l’appelante par un contrat de travail, il n’est pas nécessaire de considérer l’argument subsidiaire invoqué par l’intimée.
+[97] Pour ces motifs, l’appel interjeté en vertu de la Loi est rejeté et la décision de la ministre datée du 24 février 2017 est confirmée, sans frais.
+Signé à Ottawa (Canada), ce 22e jour de février 2021.
+« Dominique Lafleur »
+Juge Lafleur
+ANNEXE
+LOI DE L’IMPÔT SUR LE REVENU (L.R.C. 1985, CH. 1, 5E SUPPL.)
+INCOME TAX ACT (R.S.C. 1985, C. 1, 5TH SUPP.)
+Lien de dépendance
+251(1) Pour l’application de la présente loi :
+a) des personnes liées sont réputées avoir entre elles un lien de dépendance;
+[…]
+Arm’s length
+251(1) For the purposes of this Act,
+(a) related persons shall be deemed not to deal with each other at arm’s length;
+. . .
+Définition de personnes liées
+(2) Pour l’application de la présente loi, sont des personnes liées ou des personnes liées entre elles :
+a) des particuliers unis par les liens du sang, du mariage, de l’union de fait ou de l’adoption;
+b) une société et :
+(i) une personne qui contrôle la société si cette dernière est contrôlée par une personne,
+(ii) une personne qui est membre d’un groupe lié qui contrôle la société,
+(iii) toute personne liée à une personne visée au sous-alinéa (i) ou (ii);
+[…]
+Definition of related persons
+(2) For the purpose of this Act, related persons, or persons related to each other, are
+(a) individuals connected by blood relationship, marriage or common-law partnership or adoption;
+(b) a corporation and
+(i) a person who controls the corporation, if it is controlled by one person,
+(ii) a person who is a member of a related group that controls the corporation, or
+(iii) any person related to a person described in subparagraph 251(2)(b)(i) or 251(2)(b)(ii); and
+. . .
+Personnes liées par les liens du sang
+(6) Pour l’application de la présente loi :
+a) des personnes sont unies par les liens du sang si l’une est l’enfant ou un autre descendant de l’autre ou si l’une est le frère ou la sœur de l’autre;
+b) des personnes sont unies par les liens du mariage si l’une est mariée à l’autre ou à une personne qui est ainsi unie à l’autre par les liens du sang;
+b.1) des personnes sont unies par les liens d’une union de fait si l’une vit en union de fait avec l’autre ou avec une personne qui est unie à l’autre par les liens du sang;
+[…]
+Blood relationship, etc.
+(6) For the purposes of this Act, persons are connected by
+(a) blood relationship if one is the child or other descendant of the other or one is the brother or sister of the other;
+(b) marriage if one is married to the other or to a person who is so connected by blood relationship to the other;
+(b.1) common-law partnership if one is in a common-law partnership with the other or with a person who is connected by blood relationship to the other; and
+. . .
+RÉFÉRENCE :
+2021 CCI 7
+Nº DU DOSSIER DE LA COUR :
+2017-2188(EI)
+INTITULÉ :
+7547978 CANADA INC. ET LA MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE :
+Ottawa (Canada)
+DATE DE L’AUDIENCE :
+Du 26 au 29 octobre 2020
+MOTIFS DE JUGEMENT :
+L’honorable juge Dominique Lafleur
+DATE DU JUGEMENT :
+Le 22 février 2021
+COMPARUTIONS :
+Représentant de l’appelante :
+Richard Meunier
+Avocates de l’intimée :
+Me Élise Rivest
+Me Anna Maria Konewka
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelante:
+Nom :
+[En blanc/ Blank]
+Cabinet :
+[En blanc/ Blank]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa (Canada)

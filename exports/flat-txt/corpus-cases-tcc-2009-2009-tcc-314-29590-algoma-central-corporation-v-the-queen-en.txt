@@ -1,0 +1,207 @@
+Title: Algoma Central Corporation v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29590/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-314-29590-algoma-central-corporation-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-06-10
+
+# Algoma Central Corporation v. The Queen
+
+- Citation: 2009 TCC 314
+- Decision date: 2009-06-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6254, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Algoma Central Corporation v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-06-10
+Neutral citation
+2009 TCC 314
+File numbers
+2009-411(IT)G
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-411(IT)G
+BETWEEN:
+ALGOMA CENTRAL CORPORATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on May 13, 2009 at Toronto, Ontario
+Before: The Honourable Justice Diane Campbell
+Appearances:
+Counsel for the Appellant:
+David Malach
+Counsel for the Respondent:
+Marie-Thérèse Boris and
+Thang Trieu
+____________________________________________________________________
+ORDER
+Upon Motion by the Respondent for:
+1. an Order to strike out all or part of paragraphs 7, 9, 10, 11, 12, 15, 16, 17, 22, 23 and 24 of the Notice of Appeal;
+2. an Order extending the time for filing the Reply to the Notice of Appeal;
+3. an Order for costs of the motion, fixed and payable forthwith; and
+4. such further and other relief as counsel may advise and the Court deem just;
+It Is Ordered That:
+The Motion is dismissed with costs payable forthwith.
+The Respondent will have 30 days from the date of this Order to file a Reply.
+Signed at Ottawa, Canada, this 10th day of June 2009.
+“Diane Campbell”
+Campbell J.
+Citation: 2009 TCC 314
+Date: 20090610
+Docket: 2009-411(IT)G
+BETWEEN:
+ALGOMA CENTRAL CORPORATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Campbell J.
+[1] This Motion was brought by the Respondent for:
+1. an Order to strike all or part of paragraphs 7, 9, 10, 11, 12, 15, 16, 17, 22, 23 and 24 of the Notice of Appeal;
+2. an Order extending the time for filing the Reply to the Notice of Appeal; and
+3. an Order for costs of the Motion, fixed and payable forthwith.
+[2] By way of background the Appellant owned in excess of 850,000 acres of land in Northern Ontario since the early 1990’s. The majority of this land holding was sold in 1997.
+[3] According to paragraph 4 of the Notice of Appeal, the lands which were sold were comprised of 849,679 acres and made up of:
+(a) the township lands comprising 844,554 acres (the “Township Lands”) of which 843,722 were sold (the 843,722 acres that were sold are hereinafter referred to as the “Forest Lands”); and
+(b) the additional parcels made up of 5,957 acres (the “Other Lands”).
+[4] The Appellant determined the fair market value (the “FMV”) of the Forest Land portion on December 31, 1971 (“V-Day Value”) as $33,825,331, based on a valuation by Michael Cane of Drivers Jonas. The Minister of National Revenue (the “Minister”) reassessed the Appellant on the basis that the FMV on V‑Day was $11,295,802. According to the Notice of Appeal, over the course of several years the Minister obtained a number of appraisals of the Forest Lands prior to settling on its V-Day Value. The value of the Other Lands at $1,042,787 is not in dispute.
+[5] The issue in the appeal is the FMV of the 843,722 acres of the Forest Lands on December 31, 1971.
+[6] On February 5, 2009, the Appellant filed a Notice of Appeal in respect to its 1997 taxation year. This is a direct appeal from the Notice of Objection which was served on the Minister on November 10, 2003 and which was not vacated, confirmed or varied at the time the Notice of Appeal was filed.
+[7] On April 7, 2009, the Respondent filed this Notice of Motion for an order to strike all or portions of paragraphs contained in the Notice of Appeal. The paragraphs or portions, which the Respondent seeks to have struck, relate to several other valuations which the Minister had obtained. These paragraphs refer to information including:
+(a) the appraisal obtained by the Appellant (paragraph 7);
+(b) the 2000 Canada Revenue Agency (“CRA”) audit (paragraph 9);
+(c) the October 20, 2000 CRA Kitchener appraisal (paragraphs 9 and 10);
+(d) the July 20, 2001 CRA Vancouver appraisal (paragraphs 11, 12 and 23); and
+(e) the March 28, 2008 CRA Ottawa appraisal (paragraphs 15, 16, 17 and 24).
+[8] The grounds, as stated in the Motion, are as follows:
+1. the Subject Paragraphs are not pleadings of material facts, but consists of immaterial facts and evidence;
+2. pleadings must state material facts and not include facts which are immaterial or the evidence by which they are proved;
+3. the Subject Paragraphs may prejudice or delay the fair hearing of the action and detract from the real issue in dispute;
+4. the Subject Paragraphs disclose no reasonable grounds for appeal;
+5. Rules 48, 53, 58 and Form 21(1)(a) of the Tax Court of Canada Rules (General Procedure), SOR/90-688a;
+6. such further and other grounds as counsel may advise and this Honourable Court may permit.
+[9] The relevant paragraphs, which the Respondent seeks to strike in total or in part, read as follows:
+7. The Appellant’s V-Day Value of the Lands, based on a valuation by Michael Cane of Drivers Jonas, was as follows:
+a. the Township Lands - $34,529,529;
+b. the Forest Lands - $33,825,331; and
+c. the Other Lands - $1,042,787.
+9. An audit of the Appellant’s 1997 tax year was commenced in 2000. The Canada Revenue Agency (“CRA”) auditor referred the independent appraisal prepared by the Appellant’s appraiser to the real estate appraisal unit at the Kitchener office of the CRA. On October 20, 2000 that office concluded as follows:
+… the value of the subject lands, as of December 31, 1971, as outlined in the [Appellant’s] appraisal is considered reasonable.
+10. Notwithstanding the opinion from the Kitchener office of the CRA, the CRA auditor forwarded the valuation to an appraiser in the Vancouver district office of the CRA.
+11. Wilfred Cushnie, an employee of the Vancouver District Office of the CRA, prepared a valuation of the Forest Lands dated July 20, 2001. In completing his valuation, Mr. Cushnie used sales of what he considered to be comparable properties. Mr. Cushnie concluded that the V-Day of the Lands was as follows:
+a. the Township Lands - $12,000,000;
+b. the Forest Lands - $11,295,802; and
+c. the Other Lands - $1,042,787.
+12. The CRA agreed that the V-Day Value of the Other Lands was $1,042,787. However, the CRA took the position that the V-Day Value of the Forest Lands was $11,295,802. This resulted in a determination that the Appellant’s capital gain on the sale of the Sold Lands was $49,412,327, resulting in a taxable capital gain of $37,059,245 included in the Appellant’s taxable income.
+15. Negotiations took place with the Appeals Division of the CRA. The main issue discussed was whether comparables used to determine the V-Day Value of the Forest Lands by Mr. Cushnie were appropriate. The Appeals Division was concerned the comparables used by Mr. Cushnie were inappropriate. The Appeals Division decided to forward the issue to the real estate appraisal office of the CRA in Ottawa.
+16. In 2005, the CRA retained an outside valuator, Marco Fournier of Les Consultants Forestiers M.S. Inc., to appraise the Forest Lands. At that time, counsel for the Appellant was advised by the Appeals Officer that the valuation would be completed by November 2005. Despite numerous promises and representations over the years, the valuation was not completed until March 2008.
+17. Mr. Fournier concluded that comparable properties should be those whose value arose primarily from timber value. In his report dated March 28, 2008, Mr. Fournier concluded that the V-Day Value of the Forest Lands was $5,000,000, being substantially less than the CRA’s own value when it reassessed.
+22. The real estate appraisal unit of the CRA in Kitchener agreed with the Appellant’s valuation. The real estate appraisal unit of the CRA in Kitchener was correct.
+23. The CRA appraisal prepared by Mr. Cushnie of the Vancouver District incorrectly determined that the Forest Lands had little merchantable timber in 1971. No recognition was given by him to the value of mineral rights in respect of the Forest Lands and the comparables used by him were generally inappropriate. The overall methodology used by Mr. Cushnie was incorrect.
+24. The appraisal prepared for the CRA by Mr. Fournier used comparables whose value arose from timber value. However, Mr. Fournier ignored those comparables which would have justified the Appellant’s V-Day Value and adjusted the other comparables without providing adequate support. His valuation was incorrect.
+[10] The principal basis, upon which the Minister seeks to strike these paragraphs or portions thereof, relates to materiality of facts and evidence within the pleadings. However, the Minister also relies on Rule 53 of the Tax Court of Canada Rules (General Procedure) and specifically 53(a) to argue that these paragraphs may prejudice or delay a fair hearing of the appeal and finally the Minister relies on Rule 58 to argue that the paragraphs disclose no reasonable grounds for the appeal. The Respondent summarized these three grounds as follows:
+… the first being that they are contrary to the rules of pleadings, being immaterial and/or evidence; second, that they may cause prejudice or delay a fair hearing, and that is rule 53(a); and, third, that they provide no reasonable grounds for appeal, and that is rule 58(1)(b).
+(Transcript page 2)
+[11] I am going to begin with the third ground which I believe has been inappropriately pleaded by the Respondent because the Minister is seeking to strike only portions of the Notice of Appeal and not “the entire pleading”. Rule 58 allows the Court to strike a pleading in its entirety on the ground that it discloses no reasonable cause of action. The relevant portion of Rule 58 states:
+58. (1) A party may apply to the Court,
+…
+(b) to strike out a pleading because it discloses no reasonable grounds for appeal or for opposing the appeal,
+and the Court may grant judgment accordingly.
+This Rule cannot be used to strike only portions of a pleading. The wording is straightforward and can be interpreted in only one manner. It references the entire pleading, which in this case would be interpreted to mean a striking of the entire Notice of Appeal, which is not what the Respondent’s Motion is requesting. I am supported in this conclusion by the decision of Bell J. in Enterac Property Corporation v. The Queen, 95 DTC 391. At page 393 of Bell J.’s reasons he states:
+… Rule 58 cannot, in my view, be interpreted to give any authority to this Court to strike out only selected portions of a Notice of Appeal. …
+[12] The Federal Court of Appeal on March 3, 1998 affirmed Bell J.’s conclusions that Rule 58 could not apply to strike part of a pleading.
+[13] In arguing that Rule 58 could be used to strike portions of a pleading, the Respondent relied on the decision in Hawkes et al. v. The Queen, [1995] T.C.J. No. 1507. In that decision, Margeson J. allowed the Crown’s motion to strike three paragraphs on the basis that they disclosed no reasonable grounds for an appeal under Rule 58(1)(b). In that case one paragraph alleged that the Appellant was assessed differently by a different taxation office, a second paragraph alleged that the Minister indicated that the taxpayer would not be reassessed and the third paragraph alleged estoppel. However, the Hawkes decision does not provide a detailed analysis on striking pleadings in whole or in part under Rule 58(1)(b). The Federal Court of Appeal upheld this decision on December 23, 1996.
+[14] Two years later in 1998 the Federal Court of Appeal in The Queen v. Enterac Property Corporation, 98 DTC 6202, confirmed Bell J.’s decision that Rule 58 applied to strike a pleading in its entirety but not to strike portions thereof. When I questioned Respondent counsel on how they reconciled the Hawkes case with the Federal Court of Appeal decision in Enterac, counsel admitted in her Reply submissions, that these two cases could not be reconciled but that Enterac was likely decided without counsel referring the Court to the Hawkes decision. However, I point out to counsel that it may just as easily be argued that the Federal Court of Appeal in Enterac simply ignored Hawkes because it was incorrectly decided. These two decisions clearly approach Rule 58 in opposing manners and counsel is correct that there is no way to reconcile them. However, Enterac is the last decision issued by the Federal Court of Appeal and I believe that Enterac, despite Hawkes, got the interpretation of Rule 58 correct.
+[15] There have been other cases in this Court which have also relied on Enterac and not on Hawkes. In Gauthier et al. v. The Queen, 2006 DTC 3050, the Crown filed motions to have portions of the Appellants’ pleadings struck pursuant to Rule 53 or 58(1)(b). At paragraph [4] C. Miller J. stated:
+Second, the Appellants argue, based on the case of Enterac Property Corp. v. Canada that it is not open to the Respondent to rely on paragraph 58(1)(b) of the Rules to strike only portions of the pleadings. Justice Bell made a clear ruling in this regard in the Enterac case. The Federal Court of Appeal, on appeal, stated:
+... We are also of the view that Rule 58 does not apply.
+[16] In addition, Bowman C.J. in Sentinel Hill Productions (1999) Corporation et al. v. The Queen, 2008 DTC 2544, at paragraph [4](d), in summarizing the principles from the caselaw to be applied in a motion to strike, lists the fourth principle as: “Rule 53 and not Rule 58, is the appropriate rule on a motion to strike”.
+[17] Rule 58 references striking a pleading while Rule 53 deals with striking “… all or part of a pleading or other document …” on three different grounds. Clearly, Rule 58, as it would apply in the Respondent’s Motion, would contemplate striking the entire pleading or the Notice of Appeal. The Respondent clearly seeks to have specific paragraphs deleted from the Notice of Appeal but is not seeking to strike the entire Notice of Appeal. Consequently, the Respondent cannot rely on its third ground, Rule 58, to strike these paragraphs from the Notice of Appeal on the basis that they provide no reasonable grounds for appeal. I would hope my reasons lay to rest any lingering thoughts that the Respondent may have in the future of bringing such a motion on the basis of Rule 58.
+[18] The primary ground upon which the Respondent did bring this Motion was that these paragraphs are improper pleadings because they are contrary to the rule of pleadings. The rule of pleading is set out by Bowie J. in Zelinski v. The Queen, 2002 DTC 1204, at paragraphs 4 and 5:
+[4] The purpose of pleadings is to define the issues in dispute between the parties for the purposes of production, discovery and trial. What is required of a party pleading is to set forth a concise statement of the material facts upon which she relies. Material facts are those facts which, if established at the trial, will tend to show that the party pleading is entitled to the relief sought. Amendments to pleadings should generally be permitted, so long as that can be done without causing prejudice to the opposing party that cannot be compensated by an award of costs or other terms, as the purpose of the Rules is to ensure, so far as possible, a fair trial of the real issues in dispute between the parties.
+[5] The applicable principle is stated in Holmsted and Watson:
+This is the rule of pleading: all of the other pleading rules are essentially corollaries or qualifications to this basic rule that the pleader must state the material facts relied upon for his or her claim or defence. The rule involves four separate elements: (1) every pleading must state facts, not mere conclusions of law; (2) it must state material facts and not include facts which are immaterial; (3) it must state facts and not the evidence by which they are to be proved; (4) it must state facts concisely in a summary form.
+Applying these principles, I approach both motions on the basis that the test to be applied is whether the paragraphs in dispute, and those that the Appellant proposes to add, are proper pleadings of material facts. The Appellant's motion seeks to add two issues to those now pleaded. She should be permitted to do so, unless it is plain and obvious that they are so ill-founded in law that they could not succeed at trial, even if the facts upon which they depend were established to be true.
+This decision was upheld by the Federal Court of Appeal on September 12, 2002. This decision has been followed by our Court in a number of subsequent cases (Gee v. The Queen, 2003 DTC 1020; Foss v. The Queen, 2007 DTC 650; and Stanfield v. The Queen, 2007 DTC 1071). Briefly, this rule states that every pleading must set forth a concise statement of material facts upon which a party relies, not facts which are immaterial and in pleading those facts the evidence by which they may be proved are not to be pleaded.
+[19] The Respondent argued that the rule of pleading is supported by the Tax Court Rules at Rule 48, which states that every Notice of Appeal shall be in accordance with Form 21(1)(a), which requires an appellant to reference material facts. As Bowie J. stated in Zelinski, the purpose of pleadings is to define the issues and set the parameters of the litigation process. Bowie J. defined material facts as those facts which, if established at trial, will tend to show that the party pleading them is entitled to the relief sought.
+[20] The Respondent contends that it is the Minister’s assessment that will be before the Court and specifically at issue will be the V-Day Value of the Forest Lands. Therefore, the impugned paragraphs are immaterial to this determination because they include immaterial facts which relate to the assessing process. The Respondent also argued that the steps leading to the final appraisal of the lands are immaterial because they involve an examination of the Minister’s conduct and mental processes leading to the determination. The Respondent noted that:
+The Minister has assumed that the value of the Forest Lands on V-Day was no more than $11.3 million. The Appellant in the appeal is going to try to demolish this assumption by way of expert opinion evidence. The value of the Forest Lands will be established at trial through the assistance of expert opinions on land valuations.
+When reviewing the subject paragraphs, it is always important to ask: What does that fact have to do with the value of the Forest Lands? …
+(Transcript page 6)
+At the hearing, counsel for the Appellant reasoned that according to his understanding of the Tax Court Rules, since it is his position that the various appraisals are material, he is required to plead them:
+These four documents, the opinion and the three valuations, are all documents which, according to the Rules, if they are material, should be pleaded as briefly as possible -- which the Appellant tried to do, your honour; they are lengthy documents -- and the precise words of the documents need not be pleaded unless they are material.
+(Transcript page 22)
+[21] The question of the validity of the assessment will be established by expert opinion evidence at the hearing and the Respondent argues that the particulars of the other valuations of the land that the Minister obtained have no impact on the FMV of the Forest Lands on V-Day. The Respondent also relied on the Federal Court of Appeal decision in Main Rehabilitation Co. Ltd. v. The Queen, 2004 DTC 6762, which established that the actions of the Minister cannot be taken into account in an appeal against assessments. Therefore the manner used by the Minister to establish the assessment or the appraisal of the land is not reviewable by the Court.
+[22] In Sentinel Hill Productions at paragraph 4, Bowman C.J. outlined the well established principles to be applied in a motion to strike under Rule 53 as follows:
+… There are many cases in which the matter has been considered both in this court and the Federal Court of Appeal. It is not necessary to quote from them all as the principles are well established.
+(a) The facts as alleged in the impugned pleading must be taken as true subject to the limitations stated in Operation Dismantle Inc. v. Canada, [1985] 1 S.C.R. 441 at 455. It is not open to a party attacking a pleading under Rule 53 to challenge assertions of fact.
+(b) To strike out a pleading or part of a pleading under Rule 53 it must be plain and obvious that the position has no hope of succeeding. The test is a stringent one and the power to strike out a pleading must be exercised with great care.
+(c) A motions judge should avoid usurping the function of the trial judge in making determinations of fact or relevancy. Such matters should be left to the judge who hears the evidence.
+(d) Rule 53 and not Rule 58, is the appropriate rule on a motion to strike.
+[23] The caselaw relied upon by the Respondent in support of their argument support a very restrictive interpretation respecting what may or may not be included in a pleading. In many instances it may be a very fine line that separates that which is fact from that which is evidence. I believe the more reasonable approach is that taken by Bowman C.J. in Niagara Helicopters Limited v. The Queen, 2003 DTC 513, at paragraphs 6, 7 and 8 where he states:
+[6] It is in my view premature at this stage of the proceedings to determine that facts which counsel for the appellant considers to be a relevant and necessary part of the appellant's case are irrelevant. The authorities are undisputed that it is only where it is clear and obvious that a pleading is scandalous, frivolous or vexatious or an abuse of the process of the court that it may be struck out. (Hunt v. Carey Canada Inc., [1990] 2 S.C.R. 959 at 980; Erasmus et al. v. The Queen, 91 DTC 5415 at 5416).
+[7] It is by no means clear and obvious that the impugned paragraphs are scandalous, vexatious or frivolous or an abuse of this court's process. The remedy of striking out portions of pleadings on such grounds is reserved for the most obvious of cases, such, for example, as Davitt v. The Queen, 2001 DTC 702.
+[8] Whether an allegation is irrelevant is something that the trial judge is in a position to determine in the context of all of the evidence at trial. It is inappropriate on a preliminary motion for a motions judge, who has heard no evidence, to decide that an allegation is irrelevant thereby depriving a party of the opportunity of putting the matter before the judge who presides the trial and letting him or her put such weight on it as may be appropriate.
+I refer to this approach as the “clear and obvious” rule of expunging portions of a pleading. Although he was directly referencing Rule 53, I believe this is also the more appropriate approach to apply in deciding if these paragraphs are facts or evidence.
+[24] Although the Respondent argued that the Notice of Appeal contains facts respecting the Minister’s mental process and conduct, I do not believe that any of these paragraphs offend or offer commentary on the Minister’s conduct or the Minister’s mental processes. They refer to the various documents that, as I understood the Appellant, are already in his possession. The paragraphs merely identify the documents. They in no way allege improper or inappropriate conduct or complain of the mental processes that may have been involved. These paragraphs simply set out what has occurred over a long period of time. I believe that the Appellant should be permitted to retain these paragraphs in its Notice of Appeal because they may be relevant to the issues of the FMV of the land in establishing why so many appraisals had to be obtained before the Respondent settled upon one. They may or may not be material to the outcome of the litigation but at this stage of the proceeding it is not so clear and obvious to me that they contain evidence or immaterial facts that I should be striking them from the Notice of Appeal. At this stage of the proceeding when I have heard no evidence, I have not been persuaded that these paragraphs are so inappropriate or irrelevant that they should be struck. The Judge who will ultimately hear this appeal is in the best position, in light of the evidence, to decide what, if any, weight and relevancy should be assigned to the other appraisals. Whether these paragraphs tend to prove that the Appellant’s position on the valuation is the correct one is a question that is best left to the trial Judge’s discretion after hearing from the parties. Since most, if not all, of these referenced documents are in the hands of the Appellant and since I believe they are certainly discoverable, then I do not see where a motion at this stage is the appropriate place to determine the weight and relevancy of these paragraphs.
+[25] Answering the question raised by the Respondent (What does that fact have to do with the value of the Forest Lands?) it seems reasonable for the Appellant to raise the existence of all relevant appraisals obtained by the Minister in determining the value of the Forest Lands. In my opinion, the better view is that it is premature, without the benefit of having heard any evidence, to decide the correctness and relevancy of the allegations sought to be struck.
+[26] The remaining ground which the Respondent argued to support this Motion is that the subject paragraphs may prejudice or delay the fair hearing of the appeal. Rule 53 states:
+53. The Court may strike out or expunge all or part of a pleading or other document, with or without leave to amend, on the ground that the pleading or other document,
+(a) may prejudice or delay the fair hearing of the action,
+(b) is scandalous, frivolous or vexatious, or
+(c) is an abuse of the process of the Court.
+The Respondent has confined this argument to subparagraph (a) of Rule 53. It is clear from the caselaw that this Court considers that this Rule must be applied to pleadings with the greatest of care. In 935475 Ontario Limited v. The Queen, 2009 DTC 1130, Jorré J. at paragraph 34 stated that:
+On its face, it is clear that section 53 is not about striking out poor pleadings but rather about pleadings that will materially harm the litigation process. …
+A motions Judge must be vigilant of expunging portions of a pleading which one party wishes to place before the Judge that will hear the appeal. A motion is a preliminary step where evidence respecting weight and relevancy are not presented. The Court must be careful in a motion to strike that allegations which a party wants to place before the presiding Judge are not inappropriately removed thereby depriving that party of the right to argue that the allegation is relevant in light of all of the evidence presented during the hearing.
+[27] Woods J. in Main Rehabilitation Co. Ltd. v. The Queen, 2004 DTC 2099, at paragraph 2 stated the following concerning Rule 53:
+The threshold for applying section 53 is high. It is not to be applied unless the issue raised in the notice of appeal clearly has no merit. The outcome must be "plain and obvious" and the result "beyond reasonable doubt:" …
+[28] The Respondent argued as follows:
+Allowing the subject paragraphs to remain will potentially prejudice and delay the fair hearing. Rule 53(a) provides the basis to strike.
+Allegations about the assessing process may only serve to cause prejudice to the Minister. They may embarrass the Minister's case. They may predispose the trier of fact to the Appellant's case, and they will detract from the real issue in dispute. Allegations about the assessing process may serve to cause delay to the hearing. They will broaden the issues in dispute. They will prolong the production, discovery and trial process, and these allegations expose the Minister to a fishing expedition.
+If the subject paragraphs are not struck, the parties will be engaged or may be engaged in procedural wrangling before the appeal can be heard. Party and judicial resources will be wasted on sorting out issues over relevancy, and the appeal will end up becoming more complicated and longer than necessary. Judicial resources will be wasted on trying to sort through allegations about interim opinions and the internal decision-making process of the Minister.
+(Transcript pages 10-11)
+[29] Quite frankly I do not see how these paragraphs will either prejudice or delay the hearing. After all it is the FMV of this land which is at issue. I do not see how, as the Respondent contends, these paragraphs will broaden the scope of the issue or detract from it. On its face, these prior appraisals would seem to assist in focussing the issue in terms of the correctness of the appraisal relied upon by the Minister. I do not agree with the Respondent’s contention that leaving these paragraphs in the Notice of Appeal will delay the steps leading up to the hearing. I have already stated that I believe the Appellant will be entitled to discover most of these documents and materials because clearly they all deal with the valuation of the land which is the only issue in this appeal. Relevancy takes on a much wider interpretation in the discovery process than it does in a hearing. The Appellant advised that he already has most of the information pursuant to an Access to Information request. I also do not agree that leaving these paragraphs in the Notice of Appeal will result in a fishing expedition. These paragraphs contain information relating to the issue and which may be material to the outcome. There is simply no indication that the Appellant is seeking to have the assessment vacated on the premise that the Minister exercised its power improperly. On the contrary, the Appellant counsel noted that “I tried in doing the Notice of Appeal not to include any conduct.” (Transcript page 27) and later “We are not complaining. We are just setting out what happened over a long period of time.” (Transcript page 32). It appears to me that the Respondent is simply not comfortable in having to take a position on the existence of these various appraisals.
+[30] I remind Respondent counsel of Bowman C.J.’s comments in Sentinel Hill at paragraph 11:
+… It is a deplorable tactic for the Crown, as soon as it sees a legal argument that it does not like, to move to strike. As I said in Sackman v. The Queen, 2007 TCC 455, it is this sort of skirmishing that is putting tax litigation out of the reach of ordinary people. I do not wish to see this court turned into a forum for procedural manoeuvring.
+Despite Respondent’s threat to bring the matter back to this Court during discoveries if I left the paragraphs in the Notice of Appeal, I caution both parties to tread lightly in this area because, unless there is good and sufficient reason to bring another motion prior to the hearing of this matter, the offending party may find itself on the receiving end of an arrow pointing directly at them with the word “costs” emblazoned across the tip.
+[31] The Motion is dismissed with costs payable forthwith.
+[32] The Respondent will have 30 days from the date of this Order to file a Reply.
+Signed at Ottawa, Canada, this 10th day of June 2009.
+“Diane Campbell”
+Campbell J.
+CITATION: 2009 TCC 314
+COURT FILE NO.: 2009-411(IT)G
+STYLE OF CAUSE: Algoma Central Corporation and
+Her Majesty The Queen
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: May 13, 2009
+REASONS FOR ORDER BY: The Honourable Justice Diane Campbell
+DATE OF ORDER: June 10, 2009
+APPEARANCES:
+Counsel for the Appellant:
+David Malach
+Counsel for the Respondent:
+Marie-Thérèse Boris and
+Thang Trieu
+COUNSEL OF RECORD:
+For the Appellant:
+Name: David Malach
+Firm: Aird & Berlis
+Toronto, Ontario
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,149 @@
+Title: Spuehler v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25877/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-611-25877-spuehler-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2003-09-03
+
+# Spuehler v. The Queen
+
+- Citation: 2003 CCI 611
+- Decision date: 2003-09-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3871, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Spuehler v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-09-03
+Référence neutre
+2003 CCI 611
+Numéro de dossier
+2003-628(IT)I
+Juges et Officiers taxateurs
+Alexander A. Sarchuk
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier: 2003-628(IT)I
+ENTRE :
+DANIEL SPUEHLER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+___________________________________________________________________
+Appels entendus le 24 juillet 2003, à Edmonton (Alberta),
+Par : L'honorable juge A. A. Sarchuk
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Galina Bining
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations fiscales établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1998 et 1999 sont rejetés.
+Signé à Ottawa, Canada, ce 3e jour de septembre 2003.
+« A. A. Sarchuk »
+J.C.C.I.
+Traduction certifiée conforme
+ce 29e jour d'avril 2005.
+Sophie Debbané, réviseure
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence: 2003CCI611
+Date: 20030903
+Dossier: 2003-628(IT)I
+ENTRE :
+DANIEL SPUEHLER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Sarchuk
+[1] Il s'agit d'un appel, interjeté par M. Daniel Spuehler, de nouvelles cotisations fiscales établies par le ministre du Revenu national (le Ministre) pour les années d'imposition 1998 et 1999, à la suite desquelles les montants de 33 084 $ et de 35 355 $, respectivement, ont été ajoutés à son revenu.
+[2] Les faits de base ne sont pas contestés. Pendant les années d'imposition en question, l'appelant était employé par Brandette Well Servicing Ltd. (Brandette). Au cours de ces années, l'appelant louait son camion personnel à Brandette et le camion était utilisé dans le cadre de son emploi. Du 1er janvier 1998 à avril 1998, il s'agissait d'un camion d'une tonne de marque Chevrolet. En avril, l'appelant a acheté un camion 1998 de marque Dodge qu'il a loué à Brandette jusqu'à la fin de l'année d'imposition 1999. Le camion Dodge a été acheté et payé par l'appelant et les documents présentés à la Cour démontrent que le prêt bancaire octroyé pour cet achat était uniquement en son nom. En tout temps pertinent, le revenu tiré de ces camions a été déposé dans le compte bancaire de l'appelant, duquel son épouse n'était pas une signataire autorisée.
+[3] Pour les deux années d'imposition, la femme de l'appelant a déclaré un revenu d'entreprise net, provenant de la location des camions, de 22 325 $ et de 21 559 $, respectivement, selon le calcul suivant :
+1998
+1999
+Revenu
+Dépenses
+37 698 $
+38 644 $
+Carburant
+3 616
+540
+Assurance
+1 042
+1 158
+Intérêts
+2 152
+3 228
+Entretien et réparations
+1 897
+1 278
+Frais de véhicule à moteur
+116
+0
+Frais de bureau
+150
+0
+Déduction pour amortissement
+6 400
+10 881
+Revenu net
+22 325 $
+21 559 $
+[4] En établissant une nouvelle cotisation pour l'appelant, le ministre a calculé son revenu d'entreprise net comme suit :[1]
+1998
+1999
+Revenu
+Dépenses
+37 698 $
+38 644 $
+Carburant
+1 916
+286
+Assurance
+552
+614
+Intérêts
+1 140
+1 711
+Entretien et réparations
+1 006
+678
+Revenu net
+33 084 $
+35 355 $
+Thèse de l'intimée
+[5] L'intimée soutient que l'appelant a transféré ou a cédé à son épouse les droits au revenu d'entreprise net tiré de la location des deux véhicules s'élevant à 33 084 $ et à 35 355 $ respectivement pendant les deux années d'imposition et que ces montants ont été correctement inclus dans son revenu en application du paragraphe 56(4) de la Loi de l'impôt sur le revenu.
+Thèse de l'appelant
+[6] L'appelant a expliqué sa décision de traiter le revenu tiré de la location des camions comme suit. En 1997, sa femme et lui ont commencé à travailler dans une [TRADUCTION] « toute nouvelle ferme » et, puisqu'ils travaillaient tous les deux activement dans cette exploitation agricole, [TRADUCTION] « elle a quitté son emploi et en 1997, elle est restée à la maison et a fait une grande partie du travail lié au démarrage de l'exploitation agricole » . En conséquence, ils ont également décidé, selon les termes de l'appelant, d'utiliser [TRADUCTION] « une procédure de fractionnement du revenu, j'ai pensé pourquoi ne pas avoir le véhicule, celui-ci sur - à son nom et elle pourrait en tirer le revenu et cela ferait partie de son revenu, comme paiement pour ce qu'elle fait. Et il y a tous les autres revenus qui proviennent de Brandette et de la ferme que j'ai déclarés à mon nom. Et j'ai toujours trouvé que c'était équitable, vous savez, un fractionnement juste du revenu » .
+Décision
+[7] L'appelant ne peut avoir gain de cause sur la base de ce motif. Les dispositions pertinentes de la Loi prévoient :
+56(4) Lorsqu'un contribuable transfère ou cède, avant la fin d'une année d'imposition, à une personne avec laquelle il a un lien de dépendance son droit sur une somme [...] qui serait, en l'absence du transfert ou de la cession, incluse dans le calcul de son revenu pour l'année, la partie de la somme qui se rapporte à la période de l'année tout au long de laquelle il réside au Canada est incluse dans le calcul de son revenu pour l'année, sauf si le revenu provient d'un bien qu'il a également transféré ou cédé.
+251(1) Pour l'application de la présente loi :
+a) des personnes liées sont réputées avoir entre elles un lien de dépendance ;
+b) [...]
+251(2) Pour l'application de la présente loi, sont des « personnes liées » ou des personnes liées entre elles :
+a) des particuliers unis par les liens du sang, du mariage, de l'union de fait ou de l'adoption ;
+[8] L'objectif de ces dispositions est de prévenir l'évitement fiscal par le biais d'une cession de biens à l'époux ou à l'épouse. C'est ce que le paragraphe 56(4) accomplit en s'assurant effectivement que le bien cédé, dans ce cas le revenu, reste au cédant aux fins de l'impôt. Il est clair que ce paragraphe est dirigé tout particulièrement contre l'évitement fiscal éventuel par la cession d'un droit au revenu entre parties ayant un lien de dépendance. Bien que j'admette que l'appelant l'ait fait en pensant honnêtement qu'il n'y avait rien d'inapproprié à l'égard de ce fractionnement de revenus entre mari et femme dans des circonstances comme celles-ci, il reste que les articles en question ne sont pas équivoques, ni par leur libellé, ni par leur objet. En conséquence, les appels de l'appelant en ce qui concerne cette question ne peuvent pas être admis.
+[9] La deuxième question porte sur le revenu d'entreprise, de 33 084 $ et de 35 355 $ respectivement, tiré par l'appelant de la location de ses camions à Brandette au cours des deux années d'imposition. Il n'est pas contesté que l'appelant n'a pas gardé de journal ou d'enregistrement du kilométrage de l'un ou de l'autre des véhicules et, lors d'une rencontre avec un répartiteur de l'Agence des douanes et du revenu du Canada (ADRC), il a estimé qu'il conduisait à peu près 40 000 kilomètres par année, dont 21 000 (soit 53 %) étaient considérés par le répartiteur comme étant pour les fins de l'entreprise.
+[10] L'appelant demeurait à Entwistle ou aux alentours, à quelques 40 kilomètres au nord de Drayton Valley (Drayton) qui était la base de Brandette. Il a témoigné qu'il n'existait pas de litige sur le fait que, lorsqu'il allait à Drayton et [TRADUCTION] « de là à l'extérieur à une concession » , le voyage de Drayton à chez lui était correctement considéré comme une utilisation personnelle du véhicule. Cependant, il maintient que, pour les fins de son emploi, il lui fallait souvent se rendre dans la région générale de Grand Prairie qui, disait-il, était à plus de 400 kilomètres de sa résidence. Lorsqu'il travaillait dans cette région, il n'allait pas d'abord au bureau à Drayton, mais allait directement à Grand Prairie à partir de chez lui. De plus, en ce qui concerne ces voyages, Brandette lui a payé le kilométrage complet, soit 85 ¢ du kilomètre. En dépit de ce fait, ces voyages étaient considérés par l'ADRC comme une utilisation personnelle des véhicules, c'est-à-dire de la résidence au travail. Il affirme que 107 des 191 voyages effectués au cours de l'année d'imposition 1998 et que 173 des 234 voyages effectués en 1999 étaient des voyages directs de sa résidence à l'endroit réel où il devait effectuer son travail.
+[11] L'appelant a présenté un certain nombre de feuilles de travail qu'il devait remplir et présenter à Brandette, pour le calcul des paiements de location du camion. Ces documents, a-t-il déclaré, lui ont permis de déterminer le nombre exact de kilomètres parcourus au cours de la période où il était employé, et pour lesquels Brandette le payait pour l'utilisation du véhicule. Ainsi, l'appelant fait valoir que son analyse basée sur ces feuilles soutient son allégation, à savoir que 85 % des 45 000 kilomètres environ parcourus chaque année représentaient une utilisation professionnelle, et non personnelle, du véhicule.
+[12] Je ne peux accepter la position de l'appelant. D'abord, puisqu'il n'a pas enregistré le kilométrage parcouru, le montant de kilomètres voyagés au cours de chaque année d'imposition en question est, dans le meilleur des cas, une approximation et, au pire, une pure devinette. L'estimation initiale fournie par l'appelant à l'ADRC était de 40 000 kilomètres. Il dit maintenant qu'il s'agit plutôt de 45 000 kilomètres mais ne donne pratiquement aucune preuve du kilométrage supplémentaire. De plus, l'appelant n'a pas tenu compte de la part d'utilisation du véhicule aux fins de l'exploitation agricole et, lorsque l'avocat lui a posé des questions précises à ce sujet, il a concédé : [TRADUCTION] « je ne peux même pas commencer à vous le dire. Vous savez, quand je veux vérifier un champ - est-ce que je peux lui dire maintenant? C'est juste que, si vous allez vérifier un champ, parfois le véhicule que vous choisissez, c'est celui qui est le plus près, vous savez. Ce truc de revenu est en train de nous tuer. Vous savez, lorsque vous devez tenir compte du véhicule que vous prenez, où et quand » et « vraiment, je ne peux vous donner le nombre de kilomètres » .
+[13] Bien qu'il semble que la cotisation de l'intimée, basée sur le fait que l'utilisation commerciale du véhicule correspondait à 53 % de l'utilisation totale pendant les deux années d'imposition, puisse être faible, la preuve présentée à cette cour est loin d'établir que 85 % du kilométrage puisse être correctement attribué à une utilisation commerciale. J'ajoute simplement que l'appelant ne s'est pas rendu service en ignorant complètement l'importance de la tenue de registres appropriés sur l'usage personnel et commercial des véhicules. C'est uniquement si des informations tenues de cette manière avaient été présentées à la Cour qu'il aurait été approprié de changer la répartition qui a été faite par le ministre. Les appels sont rejetés.
+Signé à Ottawa, Canada, ce 3e jour de septembre 2003.
+« A. A. Sarchuk »
+J.C.C.I.
+Traduction certifiée conforme
+ce 29e jour d'avril 2005.
+Sophie Debbané, réviseure
+[1] Il semblerait qu'en effectuant le calcul, le ministre ait effacé la déduction pour amortissement que l'épouse de l'appelant avait déclarée comme dépense. Puisqu'aucune autre référence n'a été faite à la déduction pour amortissement, je suppose qu'il en a correctement tenu compte dans sa nouvelle cotisation.

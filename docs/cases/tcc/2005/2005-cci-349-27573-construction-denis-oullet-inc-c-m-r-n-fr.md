@@ -1,0 +1,149 @@
+---
+title: "Construction Denis Oullet Inc. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27573/index.do"
+last_modified: "2005-05-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 349"
+citation2: ""
+neutral_citation: "2005 CCI 349"
+decision_date: "2005-05-30"
+language: "fr"
+item_id: "27573"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 68
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:51:54.530000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e55f1864b085bfef08bf86b82bbf02b8d6afe06e46739e684a50ea5e22d1d029"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Construction Denis Oullet Inc. c. M.R.N.
+
+- Citation: 2005 CCI 349
+- Decision date: 2005-05-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 68, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Construction Denis Oullet Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-05-30
+Référence neutre
+2005 CCI 349
+Numéro de dossier
+2004-3190(EI)
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2004-3190(EI)
+ENTRE :
+CONSTRUCTION DENIS OUELLET INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 13 avril 2005 à Montréal (Québec)
+Devant : L'honorable juge François Angers
+Comparutions :
+Représentant de l'appelante :
+Denis Ouellet
+Avocat de l'intimé :
+Me Simon Petit
+____________________________________________________________________
+JUGEMENT
+L'appel est accueilli et la décision rendue par le ministre du Revenu national est infirmée selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 30e jour de mai 2005.
+« François Angers »
+Juge Angers
+Référence : 2005CCI349
+Date : 20050530
+Dossier : 2004-3190(EI)
+ENTRE :
+CONSTRUCTION DENIS OUELLET INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Il s’agit de l’appel d’une détermination rendue par le ministre du Revenu national (le « Ministre ») le 27 avril 2004 confirmant des évaluations à l’encontre de l’appelante relativement aux années 2000, 2001, 2002 et 2003 portant sur des cotisations d’assurance-emploi impayées à l’égard de M. Gérard Loiselle (le travailleur). Le ministre soutient que le travailleur exerçait un emploi assurable aux termes d’un contrat de louage de services au sens de l’alinéa 5(1)a) de la Loi sur l’assurance-emploi (la « Loi »)
+[2] L’appelante est constituée en société depuis environ une vingtaine d’années. Elle exploite une entreprise d’entretien et de rénovation d’immeubles à bureaux à vocation commerciale, institutionnelle et industrielle. Elle offre également un service de surveillance de travaux. Ses activités sont concentrées dans la région de Montréal et dans les Laurentides. Ses principaux clients sont l’Université de Montréal et Imperial Tobacco. Elle obtient ses contrats par le bouche à oreille et par le biais d’une annonce dans les pages jaunes de l’annuaire téléphonique.
+[3] M. Denis Ouellet est le principal actionnaire de l’appelante. Il détient 80% des actions et son épouse 20%. De son côté, le travailleur détient une licence d’entrepreneur en construction délivrée par la Régie du bâtiment du Québec le 20 octobre 1994. Toutefois, la licence déposée en preuve indique qu’elle n’était valide que jusqu’au 19 octobre 1994 et aucun certificat de renouvellement n’a été déposé. M. Ouellet a expliqué que, sans licence, il est impossible pour quelqu’un de travailler sur un chantier de construction en qualité d’entrepreneur. Le travailleur fait affaire sous une raison sociale dûment enregistrée le 10 mars 1993. Il fait donc affaire sous la raison sociale de « Entreprises Gérard Loiselle Enr. » et son domaine d’activités est décrit comme étant l’entretien d’édifices commerciaux et l’entretien intérieur et extérieur des bâtiments.
+[4] Durant les années qui nous intéressent, l’appelante obtenait des contrats de l’Université de Montréal. Il s’agissait de contrats de construction et de contrats de surveillance de projets. Les travaux à effectuer en vertu des contrats de construction, soit des travaux de rénovation ou de modification, devaient être effectués par des menuisiers et les menuisiers embauchés par l’appelante étaient salariés. En ce qui concerne les contrats de surveillance de projets, l’appelante a expliqué qu’ils étaient quatre à exercer cette surveillance. Il y avait l’appelante elle-même par l’entremise de M. Denis Ouellet et les trois sous-traitants, soit deux sociétés et le travailleur Gérard Loiselle. Ce dernier fait ce genre de travail pour l’appelante depuis une vingtaine d’années.
+[5] Les tâches de l’appelante en vertu du contrat avec l’Université de Montréal se résumaient ainsi :
+(a) ouvrir et fermer les portes;
+(b) assurer la surveillance de tous les ouvriers de sorte que les employés travaillant sur le chantier ne dérangent pas les étudiants;
+(c) assurer la sécurité et la propreté de l’immeuble en construction ou en rénovation;
+(d) assurer un contrôle sur les allées et venues des gens occupant l’immeuble où les travaux étaient effectués;
+(e) surveiller la qualité des travaux.
+[6] Il fallait donc assurer une surveillance très étroite en raison du fait qu’il s’agissait de lieux très fréquentés par les étudiants et le public. Le travailleur, durant les années en question, était affecté principalement à la surveillance des travaux de climatisation des salles de cours. On lui a également confié d’autres petits projets. L’Université embauchait les ouvriers et le travailleur surveillait leur travail tout en assurant la coordination.
+[7] L’appelante recevait en vertu de son contrat avec l’Université un paiement au tarif de 35 $ l’heure. En retour, elle payait le travailleur à un tarif de 28 $ l’heure. L’Université fournissait au travailleur un bureau, une pagette et tous les outils nécessaires. Le chargé de projet de l’Université était responsable de la planification du travail du travailleur et établissait les délais d’exécution. Le travailleur n’avait pas d’horaire de travail fixe. Même s’il n’était pas obligé de le faire, il avisait le chargé de projet de l’Université de ses allées et venues. Il pouvait s’absenter et il avait le pouvoir de demander au chargé de projet de fermer les portes du chantier. Le travailleur ne s’est jamais absenté à un moment critique et, s’il avait été malade, M. Denis Ouellet aurait pu le remplacer. L’appelante payait les cotisations de la CSST de ses employés et non celles du travailleur ou des autres sous-traitants.
+[8] Le travailleur devait aviser verbalement, à chaque semaine, le chargé de projet de l’Université de l’état d’avancement des travaux. Cela se faisait en réunion sur le chantier et chaque semaine était planifiée. Le travailleur tenait une feuille d’affectation et comptabilisait ses heures, lesquelles étaient également consignées par un responsable de l’Université. Le travailleur soumettait par la suite une facture à l’appelante pour son travail sur laquelle il avait ajouté les deux taxes.
+[9] Il s’agit donc de déterminer, selon les faits de l’espèce, si le travailleur exerçait, durant les années en question, un emploi aux termes d’un contrat de louage de services au sens de l’alinéa 5(1)a) de la Loi et s’il occupait par conséquent un emploi assurable.
+[10] Pour arriver à répondre à cette question, il est important de se référer aux critères établis dans la jurisprudence que l’on trouve dans l’arrêt Wiebe Door Services Ltd. c. Le Ministre du Revenu national, [1986] 3 C.F. 55 et repris par la Cour suprême du Canada dans l’arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] 2 R.C.S. 983. L’état du droit est résumé comme suit aux paragraphes 47 et 48 :
+Bien qu'aucun critère universel ne permette de déterminer si une personne est un employé ou un entrepreneur indépendant, je conviens avec le juge MacGuigan que la démarche suivie par le juge Cooke dans la décision Market Investigations, précitée, est convaincante. La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l'employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s'il engage lui-même ses assistants, quelle est l'étendue de ses risques financiers, jusqu'à quel point il est responsable des mises de fonds et de la gestion et jusqu'à quel point il peut tirer profit de l'exécution de ses tâches.
+Ces facteurs, il est bon de le répéter, ne sont pas exhaustifs et il n'y a pas de manière préétablie de les appliquer. Leur importance relative respective dépend des circonstances et des faits particuliers de l'affaire.
+[11] Le juge Létourneau a repris ces principes au paragraphe 18 de sa décision dans l’arrêt Le Livreur Plus Inc. c. Canada, [2004] A.C.F. no 267 en ces termes :
+Dans ce contexte, les éléments du critère énoncé dans l'arrêt Wiebe Door Services Ltd. c. M.R.N., 87 D.T.C. 5025, à savoir le degré de contrôle, la propriété des instruments de travail, les chances de bénéfices et les risques de pertes et enfin l'intégration, ne sont que des points de repère : Charbonneau c. Canada (ministre du Revenu national - M.R.N.) (1996), 207 N.R. 299, paragraphe 3. En présence d'un véritable contrat, il s'agit de déterminer si, entre les parties, existe un lien de subordination, caractéristique du contrat de travail, ou s'il n'y a pas, plutôt, un degré d'autonomie révélateur d'un contrat d'entreprise : ibidem.
+[12] Le Code civil du Québec, aux articles 2085, 2098 et 2099, définit ce qu’est un contrat de travail et un contrat d’entreprise ou de service comme étant :
+art. 2085 Le contrat de travail est celui par lequel une personne, le salarié, s'oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d'une autre personne, l'employeur.
+article 2098 Le contrat d'entreprise ou de service est celui par lequel une personne, selon le cas l'entrepreneur ou le prestataire de services, s'engage envers une autre personne, le client, à réaliser un ouvrage matériel ou intellectuel ou à fournir un service moyennant un prix que le client s'oblige à lui payer.
+article 2099 L’entrepreneur ou le prestataire de services a le libre choix des moyens d'exécution du contrat et il n'existe entre lui et le client aucun lien de subordination quant à son exécution.
+[13] Je tiens tout d’abord à signaler que, parmi les présomptions de fait admises par l’appelante, on trouve une admission à l’égard de la présomption voulant que l’appelante avait le pouvoir de contrôler le travail du travailleur et avait le pouvoir de le congédier. Je souligne cette admission parce qu’elle reconnaît le pouvoir de contrôle du travailleur par l’appelante et qu’elle tend à favoriser la thèse du contrat de louage de services. D’un autre côté, je ne suis pas convaincu que le représentant de l’appelante comprenait la portée de son admission. S’il avait compris le sens de cette admission, la question qui se poserait serait de savoir pourquoi il a porté la décision du ministre en appel. Il faut donc, à mon avis, trancher la question en litige en se fondant sur l’ensemble des faits présentés à l’audience plutôt qu’un simple aveu non motivé.
+[14] En l’espèce, l’intention des parties, exprimée notamment dans leur entente, détermine clairement la nature de leur relation. L’appelante effectue des travaux de construction et de rénovation en faisant appel notamment à des menuisiers qui sont à son service à titre d’employés. L’appelante offre aussi des services de supervision de travaux qui sont exécutés par des employés autres que les siens, en l’espèce, des employés de l’Université de Montréal. Pour les projets qu’elle ne peut elle-même superviser, l’appelante octroie des contrats en sous-traitance à deux sociétés et au travailleur. Ce dernier, tout comme les deux autres sous-traitantes, doit être détenteur d’une licence délivrée par la Régie du bâtiment du Québec pour travailler sur un chantier de construction. Il est donc essentiel qu’il reçoive une licence de la Régie qui, par le fait même, lui reconnaît les compétences voulues pour surveiller de tels projets. Le travailleur exploite sa propre entreprise sous une raison sociale. Il comptabilise ses propres heures et facture l’appelante sur la base de ses heures de travail qui sont approuvées par l’Université. Les parties ont donc conclu entre eux un contrat de service où le travailleur s’est engagé à rendre ses services à un taux horaire. L’intention du travailleur de conclure un tel arrangement a été confirmée par son refus subséquent de conclure d’autres contrats de sous-traitance avec l’appelante après que le Ministre a rendu sa détermination.
+[15] Le juge Létourneau de la Cour d’appel fédérale, dans l’arrêt Ambulance St‑Jean c. Canada, [2004] C.A.F. 345, a fait le commentaire suivant sur l’intention des parties et sur l’importance à y accorder :
+Bien que que l'intention déclarée des parties ou leur entente apparente ne soit pas nécessairement déterminante quant à la nature de leur relation, il faut cependant accorder une grande importance à ces facteurs en l'absence d'une preuve contraire, par exemple un comportement qui trahit ou contredit cette intention ou cette entente. Lorsque les parties ont librement "choisi de conclure des accords commerciaux distincts [...] [et] choisissent d'agir de la sorte, plutôt qu'une des parties imposant arbitrairement ou artificiellement ce choix à l'autre, au point que cela constitue un trompe-l'oeil, on ne devrait pas intervenir dans leur choix et les autorités devraient le respecter". Nous sommes d'accord avec cette affirmation, que le juge suppléant Porter a faite dans la décision Krakiwsky c. Canada (Ministre du Revenu national - M.R.N.), 2003 A.C.I. no 364.
+[16] En l’espèce, y a-t-il des facteurs pouvant me permettre de faire abstraction de l’intention des parties de fonctionner en vertu d’un contrat d’entreprise ou de service ou à titre de sous-traitants indépendants? L’appelante avait-elle un pouvoir de contrôler la façon dont le travailleur exécutait ses fonctions? À mon avis, la réponse à ces deux questions devrait être négative.
+[17] Le travailleur possédait toutes les qualifications requises et détenait une licence lui permettant d’exécuter ce genre de travail. Son entreprise possédait une raison sociale dûment enregistrée et était dûment inscrite aux fins de la taxe de vente provinciale et la taxe sur les produits et services. Tout comme les deux sociétés susmentionnées, le travailleur a conclu avec l’appelante des contrats en sous-traitance portant sur la surveillance de projets. Dans ce contexte, l’appelante n’était pas responsable de payer les cotisations du travailleur à la CSST.
+[18] Le travail du travailleur ne consistait pas à surveiller des travaux entrepris par l’appelante ou effectués par ses employés. Il s’agissait de surveiller et de coordonner des travaux entrepris à l’Université par différentes personnes de métier. Les tâches imposées à l’appelante par l’Université étaient confiées au travailleur par le biais d’un contrat de sous-traitance avec le consentement de l’Université puisque c’est son chargé de projet qui traitait directement avec le travailleur. Il y avait effectivement une réunion hebdomadaire du chargé de projet avec le travailleur afin de planifier la semaine et de permettre au travailleur de rendre compte de l’état d’avancement des travaux. L’Université fournissait au travailleur les outils nécessaires, la pagette et un bureau. Son travail était planifié par le chargé de projet de l’Université et c’est ce dernier, et non l’appelante, qui établissait les délais d’exécution. Le travailleur comptabilisait ses heures de travail que l’Université approuvait et travaillait sans horaire fixe. Ces facteurs rendent presqu’impossible une conclusion voulant que l’appelante exerce un contrôle sur le travailleur. Le travail à accomplir était planifié par le chargé de projet de l’Université et l’appelante confiait au travailleur en sous-traitance les tâches que lui imposait l’Université. Son horaire était établi en fonction des besoins de l’Université et ses heures de travail étaient approuvées par l’Université de sorte que l’appelante n’avait pas de contrôle à exercer à cet égard. L’appelant se servait du relevé d’heures de travail du travailleur pour facturer à son tour l’Université. Tous ces faits démontrent que le travailleur avait un degré d’autonomie tendant à établir qu’il n’y avait pas entre lui et l’appelante un lien de subordination. Ils démontrent également qu’il serait difficile de conclure que le travail faisait partie des activités de l’appelante.
+[19] Il est important, en l’espèce, d’accorder un grand poids à la qualification que les parties ont donné à leur relation, tout comme l’a souligné le juge Noël de la Cour d’appel fédérale dans l’arrêt Wolf c. Canada, [2002] C.A.F. 96 au paragraphe 122 que je reproduis ci-dessous :
+122 […] À mon avis, il s'agit d'un cas où la qualification que les parties ont donnée à leur relation devrait se voir accorder un grand poids. Je reconnais que la façon dont les parties décident de décrire leur relation n'est pas habituellement déterminante, en particulier lorsque les critères juridiques applicables pointent dans l'autre direction. Mais, dans une issue serrée comme en l'espèce, si les facteurs pertinents pointent dans les deux directions avec autant de force, l'intention contractuelle des parties et en particulier leur compréhension mutuelle de la relation ne peuvent pas être laissées de côté.
+[20] Les faits et les circonstances en l’espèce me permettent donc de conclure que le travailleur n’exerçait pas un emploi aux termes d’un contrat de louage de services au sens de l’alinéa 5(1)a) de la Loi. En raison des présents motifs, il ne m’est pas nécessaire d’aborder la question de la prescription soulevée en vertu du paragraphe 85(3) de la Loi à l’encontre de l’évaluation.
+[21] L’appel est accueilli et les évaluations d’assurance-emploi établies par le ministre sont annulées.
+Signé à Ottawa, Canada, ce 30e jour de mai 2005.
+« François Angers »
+Juge Angers
+RÉFÉRENCE : 2005CCI349
+Nº DU DOSSIER DE LA COUR : 2004-3190(EI)
+INTITULÉ DE LA CAUSE : Construction Denis Ouellet Inc. et M.R.N.
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 13 avril 2005
+MOTIFS DE JUGEMENT PAR : L'honorable juge François Angers
+DATE DU JUGEMENT : le 30 mai 2005
+COMPARUTIONS :
+Représentant de l'appelante :
+Denis Ouellet
+Avocat de l'intimé :
+Me Simon Petit
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom :
+Étude :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Ontario

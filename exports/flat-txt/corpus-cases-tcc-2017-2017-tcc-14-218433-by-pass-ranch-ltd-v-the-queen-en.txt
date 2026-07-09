@@ -1,0 +1,249 @@
+Title: By-Pass Ranch Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/218433/index.do
+Corpus path: corpus/cases/tcc/2017/2017-tcc-14-218433-by-pass-ranch-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2017-01-27
+
+# By-Pass Ranch Ltd. v. The Queen
+
+- Citation: 2017 TCC 14
+- Decision date: 2017-01-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2964, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+By-Pass Ranch Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-01-27
+Neutral citation
+2017 TCC 14
+File numbers
+2016-772(GST)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2016-772(GST)I
+BETWEEN:
+BY-PASS RANCH LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on January 16, 2017, at London, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Agent for the Appellant:
+Hugh Moran
+Counsel for the Respondent:
+Marissa Figlarz
+JUDGMENT
+The appeal from the Notice of Reassessment dated June 23, 2015 made under the Excise Tax Act for the annual reporting period from April 1, 2011 to June 30, 2011 is dismissed without costs.
+Signed at Ottawa, Canada, this 27th day of January 2017.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2017TCC14
+Date: 20170127
+Docket: 2016-772(GST)I
+BETWEEN:
+BY-PASS RANCH LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller J.
+[1] The issues in this appeal are whether the Appellant is entitled to receive an Input Tax Credit (“ITC”) of $11,564.89 for the quarterly period ending June 30, 2011 and whether the Minister of National Revenue (the “Minister”) properly imposed a gross negligence penalty of $2,891.22 against the Appellant.
+[2] The witnesses at the hearing were Hugh Moran who is the President and sole shareholder of the Appellant and Darlene Slingerland who is an Appeals Officer with the Canada Revenue Agency (“CRA”).
+Facts
+[3] The Appellant was incorporated in Manitoba in 1975. Over the years it has operated three separate businesses. In 1991, it started BPR Communications and, according to Mr. Moran, this is the only division of the Appellant which is still operational. BPR Communications provides management services to corporate, small business and not-for-profit sector clients. Mr. Moran is the Appellant’s only employee and the Appellant provided its services through Mr. Moran.
+[4] The Appellant was located in Red Deer, Alberta until February 25, 2013 and relocated to London, Ontario effective February 26, 2013.
+[5] Mr. Moran stated that there were periods when the Appellant did not have any clients and it therefore did not have any revenue. One such period occurred in the late 1990’s and the Appellant did not file its GST returns. It was Mr. Moran’s evidence that he was told by an officer employed with the CRA that the Appellant had to file its GST returns and it could estimate its ITCs. Mr. Moran stated that the Appellant complied and it did receive a refund of the ITCs which it estimated.
+[6] For the quarterly periods from April 1, 2007 to March 31, 2011, the Appellant again had no clients. It filed GST returns for each quarter and estimated its ITCs. The total ITCs estimated and total refund requested was $10,710. (See Schedule 1 attached to these reasons.) For each period, the Appellant was assessed as filed but the refund was withheld because the Appellant was non-compliant in filing its income tax returns. According to Mr. Moran, the refund was withheld because the Appellant had not prepared its financial statements.
+[7] On July 7, 2011, the Minister reassessed the Appellant to disallow the ITCs which had been claimed for the quarterly periods from April 1, 2007 to March 31, 2011. The amount of ITCs disallowed was $11,236. 29. The basis for the reassessment was that the Appellant did not meet the criteria in subsection 169(4) of the Excise Tax Act (the “Act”). The Appellant did not object to this reassessment.
+[8] On January 13, 2015, the Appellant filed a GST/HST return for the quarterly period ending June 30, 2011 in which it reported nil sales, nil GST/HST and claimed ITCs of $11,564.89 and a net refund of $11,564.89.
+[9] The Minister assessed the Appellant on June 23, 2015 for the quarterly period ending June 30, 2011 and disallowed the claim for the ITCs. The Minister also assessed a gross negligence penalty of $2,891.22 as she had determined that the ITCs claimed in this period included the ITCs that had been disallowed for the quarterly periods ending April 1, 2007 to March 31, 2011. The assessment was confirmed by notice dated December 11, 2015.
+[10] Mr. Moran admitted that the ITCs which were claimed for the quarterly period ending June 30, 2011 included the amount of $11,236.29 which had been previously disallowed. It was his evidence that he was advised by a CRA officer to include these amounts in the return for the period ending June 30, 2011. He stated that the Appellant relied on the advice of the CRA officer and claimed the ITCs in good faith.
+[11] In the Reply, the Minister assumed that the Appellant had no commercial activity and that it did not incur any ITCs for the quarterly period ended June 30, 2011. Mr. Moran disagreed with these assumptions. It was his evidence that the Appellant did not have clients but it did incur expenses for business development with the intention of obtaining clients. The ITCs resulted from these expenses.
+[12] Mr. Moran complained that the CRA did not give the Appellant the opportunity to provide documents which would support the claimed ITCs. He stated that all expenses had been paid by credit card.
+Law
+[13] The documentation which a registrant must provide to claim an ITC is given in subsection 169(4) of the ETA. It reads:
+Required documentation
+169(4) A registrant may not claim an input tax credit for a reporting period unless, before filing the return in which the credit is claimed,
+(a) the registrant has obtained sufficient evidence in such form containing such information as will enable the amount of the input tax credit to be determined, including any such information as may be prescribed; and
+(b) where the credit is in respect of property or a service supplied to the registrant in circumstances in which the registrant is required to report the tax payable in respect of the supply in a return filed with the Minister under this Part, the registrant has so reported the tax in a return filed under this Part.
+[14] The prescribed information is set out in the Input Tax Credit Information (GST/HST) Regulations, (SOR/91-45) (the “Regulations”). These Regulations must be strictly adhered to: Key Property Management Corp v R, 2004 TCC 210; Davis v R, 2004 TCC 662; affirmed by Systematix Technology Consultants Inc v R, 2007 FCA 226. The definition for “supporting documentation” and section 3 of the Regulations read:
+supporting documentation means the form in which information prescribed by section 3 is contained, and includes
+(a) an invoice,
+(b) a receipt,
+(c) a credit-card receipt,
+(d) a debit note,
+(e) a book or ledger of account,
+(f) a written contract or agreement,
+(g) any record contained in a computerized or electronic retrieval or data storage system, and
+(h) any other document validly issued or signed by a registrant in respect of a supply made by the registrant in respect of which there is tax paid or payable; (pièce justificative)
+3 For the purposes of paragraph 169(4)(a) of the Act, the following information is prescribed information:
+(a) where the total amount paid or payable shown on the supporting documentation in respect of the supply or, if the supporting documentation is in respect of more than one supply, the supplies, is less than $30,
+(i) the name of the supplier or the intermediary in respect of the supply, or the name under which the supplier or the intermediary does business,
+(ii) where an invoice is issued in respect of the supply or the supplies, the date of the invoice,
+(iii) where an invoice is not issued in respect of the supply or the supplies, the date on which there is tax paid or payable in respect thereof, and
+(iv) the total amount paid or payable for all of the supplies;
+(b) where the total amount paid or payable shown on the supporting documentation in respect of the supply or, if the supporting documentation is in respect of more than one supply, the supplies, is $30 or more and less than $150,
+(i) the name of the supplier or the intermediary in respect of the supply, or the name under which the supplier or the intermediary does business, and the registration number assigned under subsection 241(1) of the Act to the supplier or the intermediary, as the case may be,
+(ii) the information set out in subparagraphs (a)(ii) to (iv),
+(iii) where the amount paid or payable for the supply or the supplies does not include the amount of tax paid or payable in respect thereof,
+(A) the amount of tax paid or payable in respect of each supply or in respect of all of the supplies, or
+(B) where provincial sales tax is payable in respect of each taxable supply that is not a zero-rated supply and is not payable in respect of any exempt supply or zero-rated supply,
+(I) the total of the tax paid or payable under Division II of Part IX of the Act and the provincial sales tax paid or payable in respect of each taxable supply, and a statement to the effect that the total in respect of each taxable supply includes the tax paid or payable under that Division, or
+(II) the total of the tax paid or payable under Division II of Part IX of the Act and the provincial sales tax paid or payable in respect of all taxable supplies, and a statement to the effect that the total includes the tax paid or payable under that Division,
+(iv) where the amount paid or payable for the supply or the supplies includes the amount of tax paid or payable in respect thereof and one or more supplies are taxable supplies that are not zero-rated supplies,
+(A) a statement to the effect that tax is included in the amount paid or payable for each taxable supply,
+(B) the total (referred to in this paragraph as the “total tax rate”) of the rates at which tax was paid or payable in respect of each of the taxable supplies that is not a zero-rated supply, and
+(C) the amount paid or payable for each such supply or the total amount paid or payable for all such supplies to which the same total tax rate applies, and
+(v) where the status of two or more supplies is different, an indication of the status of each taxable supply that is not a zero-rated supply; and
+(c) where the total amount paid or payable shown on the supporting documentation in respect of the supply or, if the supporting documentation is in respect of more than one supply, the supplies, is $150 or more,
+(i) the information set out in paragraphs (a) and (b),
+(ii) the recipient’s name, the name under which the recipient does business or the name of the recipient’s duly authorized agent or representative,
+(iii) the terms of payment, and
+(iv) a description of each supply sufficient to identify it.
+[15] According to subsection 225(3) of the Act, the Appellant can claim ITCs which had been claimed and disallowed for previous periods if the ITCs were disallowed on the basis that the Appellant did not satisfy the requirements of subsection 169(4) of the Act before the return for the preceding period was filed. Subsection 225(3) reads:
+Net tax
+225 (1) Subject to this Subdivision, the net tax for a particular reporting period of a person is the positive or negative amount determined by the formula
+A - B
+…
+Restriction
+(3) An amount shall not be included in the total for B in the formula set out in subsection (1) for a particular reporting period of a person to the extent that the amount was claimed or included as an input tax credit or deduction in determining the net tax for a preceding reporting period of the person unless
+(a) the person was not entitled to claim the amount in determining the net tax for the preceding period only because the person did not satisfy the requirements of subsection 169(4) in respect of the amount before the return for that preceding period was filed; and …
+Analysis
+ITCs
+[16] In support of the ITCs claimed for the period ending June 30, 2011, the Appellant relied on documents which Mr. Moran had produced. Exhibit A-1 was a “Summary of the Financial Statements” for the Appellant for the period 2007 to 2012 inclusive. Apparently the Financial Statements were not prepared until 2013. They were not entered as an exhibit.
+[17] Exhibit A-2 was a list of expenses and the HST which had been incurred for the expense for the periods June 30, 2008 to June 30, 2012. All of the alleged expenses on Exhibit A-2 were rounded numbers. There were no source documents to support any of these expenses. Mr. Moran stated that the Appellant did not maintain a ledger or journal that was prepared contemporaneously with the expense.
+[18] Counsel for the Respondent cross-examined Mr. Moran on copies of credit card statements which he had given to her prior to the hearing of the appeal. These credit card statements allegedly contained the Appellant’s expenses and supported the estimated ITCs claimed by the Appellant. I note that some of the credit card statements were in Mr. Moran’s name and others were in both the Appellant and Mr. Moran's name.
+[19] The credit card statements were for the periods from June 26, 2006 to July 28, 2012. Mr. Moran stated that all of the expenses on the credit cards were business expenses but he did not claim the GST on all of these expenses in his estimate of ITCs. He could not give any explanation for any of the amounts appearing on the credit card statements. He did not know which amounts had been claimed.
+[20] The Appellant has not provided any documentation which meets the requirements of the Act and the Regulations and these requirements are mandatory. As a result, the Appellant is not entitled to claim any amount as an ITC for the period under appeal.
+Penalties
+[21] Mr. Moran stated that the Appellant did not have any clients or sales for the quarterly periods. The Appellant has not shown that it had a commercial activity for any of the periods between April 1, 2007 and June 30, 2011 and it is my view that it did not have a commercial activity for these periods. In arriving at this conclusion, I have not overlooked that in Exhibit A-1 the Appellant listed that it had revenue of $7,000 in 2010. As I previously stated, there were no documents to support any of the entries on Exhibits A-1 and A-2.
+[22] Based on the evidence, I have also concluded that the ITCs which the Appellant claimed in its return for the period ending June 30, 2011 were not an estimate of ITCs incurred in respect to a commercial activity but instead were fictitious amounts.
+[23] Since the evidence supports my conclusion that the Appellant did not have a commercial activity during the period, the Minister has met her burden under section 285 of the Act and I find that the gross negligence penalties were properly imposed.
+[24] The appeal is dismissed. There are no costs awarded.
+Signed at Ottawa, Canada, this 27th day of January 2017.
+“V.A. Miller”
+V.A. Miller J.
+Schedule 1
+The Sales and GST/HST reported and the ITCs claimed were as follows:
+Period Ending
+Sales
+GST/HST
+ITC
+Net Tax
+(Net Refund)
+Return Received
+June 30, 2007
+-
+-
+$720.00
+(720.00)
+January 11, 2008
+September 30,2007
+-
+-
+$720.00
+(720.00)
+January 11, 2008
+December 31, 2007
+-
+-
+$720.00
+(720.00)
+January 11, 2008
+March 31, 2008
+-
+-
+$720.00
+(720.00)
+June 16, 2009
+June 30, 2008
+$720.00
+(720.00)
+June 16, 2009
+September 30, 2008
+$720.00
+(720.00)
+June 16, 2009
+December 31, 2008
+$450.00
+(450.00)
+June 16, 2009
+March 31, 2009
+$450.00
+(450.00)
+June 16, 2009
+June 30, 2009
+$450.00
+(450.00)
+June 16, 2009
+September 30, 2009
+$720.00
+(720.00)
+April 4, 2011
+December 31, 2009
+$720.00
+(720.00)
+April 4, 2011
+March 31, 2010
+$720.00
+(720.00)
+April 4, 2011
+June 30, 2010
+$720.00
+(720.00)
+April 4, 2011
+September 30, 2010
+$720.00
+(720.00)
+April 4, 2011
+December 31, 2010
+$720.00
+(720.00)
+April 4, 2011
+March 31, 2011
+$720.00
+(720.00)
+April 4, 2011
+Total
+$10,710.00
+(10,710.00)
+CITATION:
+2017TCC14
+COURT FILE NO.:
+2016-772(GST)I
+STYLE OF CAUSE:
+BY-PASS RANCH LTD. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+London, Ontario
+DATE OF HEARING:
+January 16, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Valerie Miller
+DATE OF JUDGMENT:
+January 27, 2017
+APPEARANCES:
+Agent for the Appellant:
+Hugh Moran
+Counsel for the Respondent:
+Marissa Figlarz
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

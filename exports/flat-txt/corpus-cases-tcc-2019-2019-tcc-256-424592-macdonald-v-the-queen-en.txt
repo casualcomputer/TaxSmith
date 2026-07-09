@@ -1,0 +1,261 @@
+Title: MacDonald v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/424592/index.do
+Corpus path: corpus/cases/tcc/2019/2019-tcc-256-424592-macdonald-v-the-queen-en.md
+Document type: case_law
+Last modified: 2019-11-14
+
+# MacDonald v. The Queen
+
+- Citation: 2019 TCC 256
+- Decision date: 2019-11-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4275, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+MacDonald v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-11-14
+Neutral citation
+2019 TCC 256
+File numbers
+2015-3399(IT)G, 2015-3400(IT)G, 2015-3403(IT)G, 2015-3405(IT)G
+Judges and Taxing Officers
+Guy R. Smith
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2015-3399(IT)G
+BETWEEN:
+JOHN MACDONALD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on November 6, 2018 at Toronto, Ontario
+Before: The Honourable Justice Guy R. Smith
+Appearances:
+Counsel for the Appellant:
+Deborah Berlach
+Counsel for the Respondent:
+Jack Warren
+JUDGMENT
+In accordance with the attached Common Reasons for Judgment, the appeal from the reassessment of the Appellant as a director of 1796832 Ontario Inc. (also known as Luxell Technologies Inc.) made under the Income Tax Act (Canada) for unremitted employment insurance premiums (EI) pursuant to the Employment Insurance Act and Canada Pension Plan contributions (CPP) pursuant to the Canada Pension Plan, is hereby dismissed, with costs in favour of the Respondent to be calculated in accordance with Tariff B. The Respondent shall be entitled to one set of costs for all appeals heard on common evidence.
+Signed at Ottawa, Canada, this 14th day of November 2019.
+“Guy R. Smith”
+Smith J.
+Docket: 2015-3403(IT)G
+BETWEEN:
+KEITH KING,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on November 6, 2018 at Toronto, Ontario
+Before: The Honourable Justice Guy R. Smith
+Appearances:
+Counsel for the Appellant:
+Deborah Berlach
+Counsel for the Respondent:
+Jack Warren
+JUDGMENT
+In accordance with the attached Common Reasons for Judgment, the appeal from the reassessment of the Appellant as a director of 1796832 Ontario Inc. (also known as Luxell Technologies Inc.) made under the Income Tax Act (Canada) for unremitted employment insurance premiums (EI) pursuant to the Employment Insurance Act and Canada Pension Plan contributions (CPP) pursuant to the Canada Pension Plan, is hereby dismissed, with costs in favour of the Respondent to be calculated in accordance with Tariff B. The Respondent shall be entitled to one set of costs for all appeals heard on common evidence.
+Signed at Ottawa, Canada, this 14th day of November 2019.
+“Guy R. Smith”
+Smith J.
+Docket: 2015-3400(IT)G
+BETWEEN:
+JEAN-LOUIS LARMOR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on November 6, 2018 at Toronto, Ontario
+Before: The Honourable Justice Guy R. Smith
+Appearances:
+Counsel for the Appellant:
+Deborah Berlach
+Counsel for the Respondent:
+Jack Warren
+JUDGMENT
+In accordance with the attached Common Reasons for Judgment, the appeal from the reassessment of the Appellant as a director of 1796832 Ontario Inc. (also known as Luxell Technologies Inc.) made under the Income Tax Act (Canada) for unremitted employment insurance premiums (EI) pursuant to the Employment Insurance Act and Canada Pension Plan contributions (CPP) pursuant to the Canada Pension Plan, is hereby dismissed, with costs in favour of the Respondent to be calculated in accordance with Tariff B. The Respondent shall be entitled to one set of costs for all appeals heard on common evidence.
+Signed at Ottawa, Canada, this 14th day of November 2019.
+“Guy R. Smith”
+Smith J.
+Docket: 2015-3405(IT)G
+BETWEEN:
+PIERRE JEANNIOT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on November 6, 2018 at Toronto, Ontario
+Before: The Honourable Justice Guy R. Smith
+Appearances:
+Counsel for the Appellant:
+Deborah Berlach
+Counsel for the Respondent:
+Jack Warren
+JUDGMENT
+In accordance with the attached Common Reasons for Judgment, the appeal from the reassessment of the Appellant as a director of 1796832 Ontario Inc. (also known as Luxell Technologies Inc.) made under the Income Tax Act (Canada) for unremitted employment insurance premiums (EI) pursuant to the Employment Insurance Act and Canada Pension Plan contributions (CPP) pursuant to the Canada Pension Plan, is hereby dismissed, with costs in favour of the Respondent to be calculated in accordance with Tariff B. The Respondent shall be entitled to one set of costs for all appeals heard on common evidence.
+Signed at Ottawa, Canada, this 14th day of November 2019.
+“Guy R. Smith”
+Smith J.
+Citation: 2019 TCC 256
+Date: November 14, 2019
+Docket: 2015-3399(IT)G
+BETWEEN:
+JOHN MACDONALD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Docket: 2015-3403(IT)G
+AND BETWEEN:
+KEITH KING,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Docket: 2015-3400(IT)G
+AND BETWEEN:
+JEAN-LOUIS LARMOR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Docket: 2015-3405(IT)G
+BETWEEN:
+PIERRE JEANNIOT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+COMMON REASONS FOR JUDGMENT
+Smith J.
+I. Overview
+[1] These appeals were heard on common evidence and involve assessments made by the Minister of National Revenue (the “Minister”) as against John MacDonald, Keith King, Jean-Louis Larmor and Pierre Jeanniot (collectively, the “Appellants”), as directors of 1796832 Ontario Inc., also known as Luxell Technologies Inc. (the “Corporation” or “Luxell”), on the basis that they are liable under section 227.1(1) of the Income Tax Act, RSC 1985, c.1 (5th Supp.) (the “Act”), for unremitted source deductions of employment insurance premiums (“EI”) and Canada Pension Plan contributions (“CPP”), for the Corporation’s 2010 and 2012 taxation years and applicable penalties and interest. The Notices of Assessment are dated March 10, 2014 and each of the Appellants was assessed for $555,659.
+[2] It is not disputed that the Corporation was required to deduct, withhold and remit to the Receiver General source deductions pursuant to subsection 153(1) of the Act, nor that the amount payable was certified and appropriately registered by the Minister, thus crystallizing the Appellants’ liability pursuant to subsection 227.1(1). In particular, it is not disputed that a certificate in the amount of $1,252,049 was registered pursuant to subsection 223(3), representing source deductions (including income taxes, EI and CPP), penalties and interest for the 2009, 2010, 2011 and 2012 taxation years. In accordance with the agreement of the parties, only the unremitted EI and CPP for the 2010 and 2012 taxation years and applicable interest and penalties, in the amount of $555,659 are at issue in this appeal.
+[3] The Appellants admit that they were directors during the subject taxation years, but claim that they are entitled to avail themselves of the due diligence defence, as set out in subsection 227.1(3) of the Act.
+II. The Issue(s)
+[4] The only issue in this appeal is whether the Appellants, as directors, “exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances” pursuant to subsection 227.1(3)
+III. Background Facts
+[5] The appeals herein relate to the 2010 and 2012 taxation years. It is nonetheless necessary to review the Corporation’s background and its financial situation leading to the assessments of March 2014.
+[6] Luxell was involved in the design and production of advanced flat-panel display technologies and other electronics for military aircraft and land-based vehicles, all of which required substantial investments in research, development and intellectual property. It was incorporated in 1994 and eventually listed as a publicly-traded company before going-private again in May 2009.
+[7] Luxell was based in Ontario but the majority of its sales were made to clients located outside of Canada. It eventually ceased operations in Ontario in November 2012 and was reconstituted through a sale of assets as a Quebec corporation (“Quebec Luxell”), allegedly as a result of the more favorable business environment in that province for the aeronautical and aerospace industry. From the date of inception to its demise in 2012, Luxell allegedly raised in excess of $55 million from various sources (including about $12 million from November 2005 to February 2009) but consistently operated at a loss.
+[8] Luxell filed a proposal under the Bankruptcy and Insolvency Act, R.S.C., 1985, c. B-3 which received court approval in November 2006. It was later assessed by the Canada Revenue Agency (“CRA”) for unremitted source deductions for the 2005, 2006, 2007 and 2008 taxation years and eventually entered into a payment plan for the amounts owed. On October 15, 2008, it filed a request under the “Taxpayer Relief Provisions” for waiver of the penalties and interest arguing inter alia that it had incurred in excess of $55 million in operating losses since incorporation and that as a result of the global financial crisis of 2008-2009, it was not possible to raise further working capital. CRA ultimately granted the request in part on March 13, 2009. Luxell continued to make payments on arrears (GST credits were also applied to the arrears) and allegedly made ongoing remittances until it was assessed again.
+[9] As a result of the CRA audit that commenced in July 2009, Luxell was reassessed on October 14, 2010, June 8, 2011, April 20, 2012, June 29, 2012 and July 18, 2012. A second request for taxpayer relief was made in July 2012 (shortly before the sale of assets to Quebec Luxell) and again denied by CRA on May 21, 2014.
+[10] Throughout the period referenced above, Luxell filed various claims for Scientific Research and Experimental Development Tax Credits (known colloquially as SR&ED credits) and expected refundable tax credits in the approximate amount of $970,000. Although few details were provided, it appears these credits were eventually denied by CRA.
+[11] From 2005 to 2012 and in particular during the periods at issue, various efforts were made by Luxell to achieve financial viability, commercialization and profitability. Changes were made at the management level, cost controls were instituted, research and development was curtailed, the business model was redirected to government contracts, employees were placed on a federal government's work share program, the workforce was reduced, unused space was leased out and some of its assets were sold.
+[12] Despite these efforts, and investments of approximately $55 million, as noted above, Luxell had ongoing cash-flow and financial difficulties and (with the exception of only a few quarters) consistently operated at a loss. Throughout its operations, it had a number of different CFOs and controllers, some of whom worked on a part-time basis, who either quit or had to be dismissed. In particular, during the 2009 to 2012 period, there were at least three different CFOs or controllers.
+Testimonies
+John MacDonald
+[13] Mr. MacDonald is a Certified Professional Accountant who has maintained a professional accounting practice with various accounting partnerships. In 2005, he was approached to lead Luxell’s financing. He served as a director for the corporation from approximately November 2005 to October 2012 and as chairman of the board from approximately 2005 to 2007. He was the director predominantly responsible for fundraising, seeking out investors, and putting together Luxell’s financing tranches. He was also a shareholder, having made substantial investments.
+[14] Mr. MacDonald testified that the board met no less than quarterly and that as a board member, he relied on and assumed that the CEO, CFO and other members from management reporting to the board adhered to their job description and specific responsibilities that were in place. He also testified that he gave verbal or written directions to the CEOs and CFOs to treat the funds that were deducted from employees as a trust. Mr. MacDonald explained that Luxell had approximately eight CFOs or controllers and in the majority of their respective tenures, there were issues with processing payroll, withholdings of source deductions, and following directions given by the directors. Also, these CFOs had problems fulfilling their reporting responsibilities to the board and several were either let go or quit.
+[15] With respect to source deduction remittances, Mr. MacDonald explained that the board would make enquiries at the board meetings and that they would receive a fulsome update. The CFO, CEO, or controller, would provide an update as to where the company was with respect to making the payments, where the liability stood, the plan moving forward, any arrangements or pending meetings with CRA. Mr. MacDonald also indicated that he had conversations with the CFO or controller as to why Luxell wasn’t making payments – though it is not clear to what period he was referring to.
+[16] Mr. MacDonald also testified that he met with CRA on a couple of occasions, to discuss the issue of penalties and interest, to discuss the fairness provisions of the Act, and the application process to reduce or eliminate the penalties and interest on the basis of financial difficulties. He also communicated the board's concern with respect to this issue and discussed the contributing factors – although again it was not clear to what period he was referring to.
+[17] On cross-examination, Mr. MacDonald testified that he became aware at some point in 2010 that Luxell had accrued arrears and unremitted source deductions for the 2009 and 2010 period. He stated that in 2010, the CFO was let go because the board suspected that he had been concealing information. Also, he stated at the time, that the board thought that Luxell could resolve its cash flow problems by raising more money since it looked like the business was about to turn around. He also testified on cross-examination that he only became aware of the accrued arrears of unremitted source deductions for the 2012 period following a CRA audit in July 2012. Upon learning of the unremitted source deductions, when asked whether new protocols or procedures were put in place, Mr. MacDonald stated that the board increased its scrutiny regarding source deductions in their board meetings. Additionally in July 2012, the directors asked the CEO to provide written notice to the CFO that missed source deductions had to be reported to the CEO immediately. Mr. MacDonald testified that at this time, the board thought that in this instance it was more appropriate to reprimand the CFO and to provide corrective guidance, rather than dismissing him.
+Keith King
+[18] Mr. King has a Bachelor’s Degree in Business Administration which he received in 1995. From 2001 until 2017, he owned a wholesale distribution business which primarily sold electrical products. He became an investor of Luxell in 2005 and agreed to serve as a director from approximately May 2009 to October 2012. He testified that he was not involved in the day-to-day operations and that, with the exception of the CEO, he had little to no interaction with other employees. His involvement was essentially limited to participating in board meetings.
+[19] According to Mr. King, the board of directors met quarterly and would also have impromptu meetings, if needed. The board would usually meet in person and generally, all members were present. Impromptu meetings could occur over the phone. The CEO would also be present at these meetings and, from time to time, the CFO and controller would also be present. In particular, he stated that if there was an issue with source deductions, the board did not wait for a quarterly meeting.
+[20] Also, he testified that when the board first learned of the issue with source deductions, they were all surprised and immediately had a board meeting. He could not recall the exact dates of when the board first learned of the issues, though he stated that he had no reason to believe the board did not first learn about the issues when Luxell received the assessment of October 2010. Mr. King also stated on cross-examination that he was aware that Luxell had had prior issues with CRA, but that he did not know whether they were related to source deductions. According to Mr. King, the board members all agreed on the need to correct the source deduction problem. He stated that the board gave directives to the CEO, Mr. Larmor, and instructed the CFO or controller to make these payments. He also testified that the board requested updates. Additionally, he stated that the board considered every conceivable way to free up capital.
+[21] Mr. King explained that the board was receiving updates regarding payments to CRA, but at some point the board was made aware that the payments were no longer being made. He could not recall that exact dates or time period. After learning that payments were not made, Mr. King explained that the board made changes to the CFO or controller. On cross-examination, Mr. King stated that he agreed that there was some concealment of information from most of the CFOs, but that it only became apparent in retrospect.
+[22] Moreover, Mr. King explained that in or around July 2012, it was again brought to the board’s attention that there was an issue with source deductions. He testified that until such time, he had not been aware that Luxell had been delinquent in filing its returns. In or around July 2012, Mr. King explained that the board’s solution to remedy the issue would have been to inject more capital; however, Luxell had run out of financing options. In the last three years of Luxell’s operation, Mr. King testified on cross-examination that it was cutting costs and trying to pay employees in order to keep the business afloat. When asked on cross-examination whether paying the employees or source deductions was the top priority, Mr. King explained that the reality was that Luxell just didn’t have the cash and so, no one was being paid properly.
+Jean-Louis Larmor
+[23] Mr. Larmor served as Vice-President of Business Development and was promoted to the position of CEO on October 19, 2007. In that capacity, he was responsible for Luxell’s day-to-day affairs. Prior to this, he was a director of an international aerospace defense and electronics group.
+[24] Mr. Larmor testified that he first became aware that Luxell had problems with source deductions and had outstanding arrears after CRA completed their audit, which began in 2009. Upon learning that Luxell was in arrears, he explained that all efforts were made to bring the account up to date. He testified that he worked to find a realistic payment plan for CRA given Luxell’s cash flow problems. He discussed a plan with the CFO and/or controller and notified the board of the remittance issue and of the payment plan.
+[25] Mr. Larmor also testified that at the board meeting there were discussions as to how the arrears occurred and he was instructed by the board to remedy the situation. Mr. Larmor stated that the CFO was instructed to make the payments under the plan and to ensure source deductions were a priority. Mr. Larmor explained that the arrears and failures to remit were a continuous concern by all the board members. He stated that at board meetings, there was an emphasis placed on this issue. He also stated that his recommendations to the board was essentially to pay CRA and that beyond this, he received no further instructions from the board.
+[26] Mr. Larmor explained that the CFO or controller reported to him and that he relied on the CFO to handle Luxell’s financial issues and payment plans. On cross-examination, Mr. Larmor testified that the CFOs or controllers were largely not competent, beyond just the issues with source deductions. In response to the CFOs potentially concealing information, Mr. Larmor stated that there was a heightened vigilance to monitor CFOs and to ensure that source deductions were made. He testified that he terminated a couple CFOs for not following proper procedures. On cross-examination, Mr. Larmor further stated that it was only after CRA’s audit in 2012 that he became aware of the exact figure regarding Luxell’s source deduction shortfalls for the 2010 and 2012 period.
+[27] Mr. Larmor stated that during the 2010 and 2012 period it was apparent that Luxell had serious cash flow problems. In order to deal with these problems, Mr. Larmor undertook cash flow management efforts. He explained that he would meet with the CFO or controller and review the anticipated cash flow and they would prioritize the expenditures. He stated that paying salaries and paying source deductions were the company’s top priorities. On cross-examination, he stated that in order to keep Luxell operating, paying the employees was the first priority and paying source deductions was the second. He also testified that Luxell adopted cost cutting measures, like altering workload, renegotiating the lease, reducing employee’s hours, cutting his salary, and deferring payments to suppliers. According to Mr. Larmor, by 2012, he was doing cash flow management on a weekly basis.
+[28] Mr. Larmor also explained that throughout his tenure as CEO, Luxell was constantly dealing with various other unfortunate problems and surprises, arising at least in part, from events prior to his tenure. In particular, Luxell appealed a determination regarding the status of some of its employees and was sued by an American company for patent infringement. There were also issues with the SR&ED submissions that were not being accepted by CRA.
+[29] With respect to the lack of emails, memos, documents, and reports documenting conversations or procedures regarding the issue of source deductions, Mr. Larmor explained that he drifted away from his CEO position in or around 2012 or 2013 and so he no longer had access to this information.
+Pierre Jeanniot
+[30] Mr. Jeanniot had extensive experience in the aerospace industry. He worked for Air Canada for approximately 30 years in various positions, including CIO, President, CEO, and was a director. He was also involved for ten years with the International Air Transport Association where he was the director general and CEO. Beginning in 2002, he then spent several years setting up a Canadian subsidiary for a French aerospace group. At the time of his testimony, Mr. Jeanniot was retired but was still involved as a consultant in the aerospace industry.
+[31] Mr. Jeanniot served as a director for Luxell from approximately May 2009, to October 2012. He testified that he was interested in joining Luxell because, while it had been around for a while, it was operating like a start-up: there were great ideas, high dependence on R&D and people who had “skin-in-the-game” meaning they had invested their own capital. Mr. Jeanniot also explained that the board would meet three to four times a year. He testified that most meetings were over the phone because Luxell was always short on cash and could not pay his travel expenses. He also stated that at every board meeting, he raised the issue of cash flow because he knew it was so critical for start-ups. However, on direct examination, Mr. Jeanniot could not recall whether cash flow management was discussed at great lengths. On cross-examination he stated that the board received more details and extensive review regarding potential clients, markets, and products. He stated that this was likely done using slides. Specifically regarding the financial updates, he stated that it was not done in great detail. Mr. Jeanniot further stated that he would regularly comment that the financial forecast was too ambitious and that he asked on several occasions for minimum and maximum numbers for sales and actual budgets.
+[32] According to Mr. Jeanniot, it was only until in or around July 2011 that the board first became aware of Luxell’s shortfalls in remitting source deductions. He recalled that when the board was first told of the discrepancies with CRA, all of the board members were stunned. He also testified that the board was not informed on the size of the discrepancy. They were told by the CEO and CFO that it was manageable and that it was being addressed. According to Mr. Jeanniot, the problem was that the board was not receiving any specific indications of the cash flow situation. At the time, Mr. Jeanniot recalled being told that Mr. MacDonald would prepare some rules or guidelines and that these would be implemented to ensure that the issue was handled. He stated that he never received a copy of this document and has no knowledge of whether one was ever made.
+[33] After July 2011, Mr. Jeanniot testified that the board held more frequent meetings, demanded that reports be made more often, and demanded that the board remain informed about the agreement with CRA. According to Mr. Jeanniot, it wasn’t until much later that the board learned of the totality of the amounts in arrears and the true extent of the delinquency in filing the returns. Mr. Jeanniot explained that this occurred in or around July 2012. He also stated that it was disappointing to learn the extent of the problem give the assurances the board had received, the steps being taken, the agreements made with the CRA, and the agreed upon payment schedule. Mr. Jeanniot stated that during the last year of operation, everything was done to manage and conserve cash flow but at this time, Luxell was almost out of money and essentially was on its way to bankruptcy.
+[34] On cross-examination, Mr. Jeanniot stated that over the course of the 2010 period, the board did not make specific inquiries with respect to withholding amounts being remitted on time. However, he stated that the board would regularly inquire whether all obligations were being paid. These inquiries were made verbally during board meetings. In response, the board would be given a blanket response that everything was in order. Mr. Jeanniot also testified on cross-examination that there had been a lot of turn overs with the CFOs or controllers and that he never had any interaction with either the CFO or the controller. He also stated that he believes that the CFO and financial staff were concealing and withholding information at the time but could not remember specific time periods.
+IV. Relevant legislation and case law
+[35] Subsections 227.1(1) and (3) of the ITA provide as follows:
+(1) Where a corporation has failed to deduct or withhold an amount as required by subsection 135(3) or 135.1(7) or section 153 or 215, has failed to remit such an amount or has failed to pay an amount of tax for a taxation year as required under Part VII or VIII, the directors of the corporation at the time the corporation was required to deduct, withhold, remit or pay the amount are jointly and severally, or solidarily, liable, together with the corporation, to pay that amount and any interest or penalties relating to it.
+(2) (…)
+(3) A director is not liable for a failure under subsection 227.1(1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+(My emphasis)
+[36] Section 153 of the ITA, referenced in 227.1(1) above, refers to a corporation’s obligation to withhold source deductions. Subsection 83(1) of the Employment Insurance Act, S.C. 1996, c. 23 (“EIA”) and subsection 21.1(1) of the Canada Pension Plan, R.S.C., 1985, c. C-8 (“CPP”) provide that in certain situations, the directors of a corporation may be jointly and severally liable with the corporation if the latter fails in its obligation to deduct, withhold, remit or pay EI or CPP. Subsection 83(2) of the EIA and subsection 21(1) of the CPP each provide that subsections 227.1(2) to (7) of the Act apply to directors of a corporation in circumstances were there are unremitted employer contributions under the respective acts. It is worth noting finally, that subsection 227(4) provides that “every person who deducts or withholds an amount under this Act is deemed” to hold the funds in trust for the Crown.
+[37] However, as noted above, a director may be able to avoid the joint and several liability by relying on the due diligence defence set out in subsection 227.1(3). By virtue of that provision, it can be said that Parliament has decided that a director’s liability is not absolute: Balthazard v. Canada, 2011 FCA 331 (“Balthazard”), para. 31. Whether a director is entitled to rely on the due diligence defence is a question of fact and the burden of establishing same rests with the director(s): Buckingham v The Queen, 2011 FCA 142, at para 33 (“Buckingham”).
+[38] In Buckingham, the Federal Court of Appeal (“FCA”) indicated that in order to avail themselves of the due diligence defence, the directors must establish i) “that they were specifically concerned with the tax remittances” and that ii) “they exercised their duty of care, diligence and skill with a view to preventing a failure by the corporation to remit the concerned amounts” (para. 52).
+[39] The principles established in Buckingham, were later revisited in Balthazard which involved the liability of a director for unpaid GST of a company involved in, coincidentally, “digital imaging and large-format printing”. It was operating at a loss and despite the injection by the appellant of additional capital to keep the company operating during its periods of financial difficulty, it eventually made an assignment in bankruptcy, leaving unpaid GST. Mainville J.A. summarized the applicable legal framework as follows:
+[32] In Buckingham, this Court recently summarized the legal framework applicable to the care, diligence and skill defence under subsection 323(3), as follows:
+a. The standard of care, skill and diligence required under subsection 323(3) of the Excise Tax Act is an objective standard as set out by the Supreme Court of Canada in Peoples Department Stores Inc.(Trustee of) v. Wise, 2004 SCC 68 (CanLII), [2004] 3 S.C.R. 461. This objective standard has set aside the common law principle that a director’s management of a corporation is to be judged according to his or her own personal skills, knowledge, abilities and capacities. However, an objective standard does not mean that a director’s particular circumstances are to be ignored. These circumstances must be taken into account, but must be considered against an objective “reasonably prudent person” standard.
+b. The assessment of the director’s conduct, for the purposes of this objective standard, begins when it becomes apparent to the director, acting reasonably and with due care, diligence and skill, that the corporation is entering a period of financial difficulties.
+c. In circumstances where a corporation is facing financial difficulties, it may be tempting to divert these Crown remittances in order to pay other creditors and thus ensure the continuity of the operations of the corporation. That is precisely the situation which section 323 of the Excise Tax Act seeks to avoid. The defence under subsection 323(3) of the Excise Tax Act must not be used to encourage such failures by allowing a care, diligence and skill defence for directors who finance the activities of their corporation with Crown monies, whether or not they expect to make good on these failures to remit at a later date.
+d. Since the liability of directors in these respects is not absolute, it is possible for a corporation to fail to make remissions to the Crown without the joint and several, or solidary, liability of its directors being engaged.
+e. What is required is that the directors establish that they were specifically concerned with the tax remittances and that they exercised their duty of care, diligence and skill with a view to preventing a failure by the corporation to remit the amounts at issue.
+(My emphasis)
+[40] Justice Mainville went on to explain (para 50) that “directors must establish that they took appropriate actions in a timely manner to limit the amounts at risk for the tax authorities” and that “a reasonably prudent director facing the imminent bankruptcy of his or her corporation would take appropriate actions to minimize the tax authorities’ loss” and finally that “the more a business falls behind in making tax remittances, the more difficult it is to argue that the business is not using the sums owing to the tax authorities to finance its activities”.
+[41] A director cannot merely rely on his or her own inaction as a defense against liability: The Queen v. Chriss, 2016 FCA 236, para 21 and, as emphasized in Buckingham, “a person who is appointed a director must carry out the duties of that function on an active basis” (para. 38). And, as noted by Hogan J. in Kaur v The Queen, 2013 TCC 227, in the context of a GST appeal, “[t]he director’s oversight duties with respect to the GST cannot be delegated in their entirety to a subordinate . . .” (para 18).
+[42] Where the corporation is consistently experiencing financial difficulties, a director may have a higher onus or duty to ensure that remittances are being made: D’Amore v The Queen, 2012 TCC 373 (“D’Amore”) (para 31) and Whissell v. The Queen, 2014 TCC 350 (“Whissell”) (para 36) but there may be exceptions where directors are being misled: Roitelman v. The Queen, 2014 TCC 139 (“Roitelman”) and Thistle v. The Queen, 2015 TCC 149 (“Thistle”).
+V. The Positions of the Parties
+(a) The Appellants
+[43] The Appellants argue that they exercised the requisite due diligence and are entitled to the defense set out in subsection 227.1(3). More specifically, they argue that prior to the October 2010 assessment, the Corporation had entered into an arrangement and had a payment plan with CRA. That it was making payments on those arrears and on current remittances, suggests that the directors were alive to Luxell’s issues with remittances as well as their statutory obligations. Additionally, the Appellants argue that in 2009, the directors were alive to Luxell’s financial situation and positive steps were taken to increase funding and cash flow. Specifically, Luxell was privatized, sought out new investors, and a new business plan was formulated to increase sales. Similarly, the Appellants note that over the course of 2009 and partly in 2010, Luxell had successfully and substantially reduced its debts with CRA. Moreover, the Appellants argue that during this time, the directors relied on the information provided by the CFO(s) or controller(s).
+[44] With respect to the 2012 period, the Appellant submits that the Appellants arranged for more financing, implemented cost cutting measures, leased out space and made changes to the CFO. The Appellants further argue that the fact that there were no issues with remittances for the 2011 taxation year, suggest that the actions undertaken by the directors were effective. Moreover, the Appellants submit that information was being substantially concealed by the CFOs or controllers and that it was not until July 2012 that the directors became aware of the full scope of Luxell’s source deduction problem. The Appellants submit that the actions taken by the directors were frustrated by the CFO(s) or controller(s) who were concealing information. The Appellants rely on this Court’s decision in Roitelman, supra, where Justice D. Campbell found that the despite a director’s action, he had been thwarted in this attempts to ensure compliance by the actions of the bookkeeper.
+[45] The Appellants also argue that while a corporation, and in turn directors, have an obligation to ensure that both the amounts deducted from an employee’s pay as well as the employer’s contribution are remitted, there may be a difference in the degree of required due diligence depending on the source of the remittance. In particular, the Appellants submit that there is a distinction between the terms “deduction” and “remittance”. The term deduction refers to the amount deducted from the employee; a third party deduction. However, the term remittance refers to both the amount deducted and the employer’s premium or contribution. The Appellants further submits that Buckingham only refers to employee source deductions and does not specifically refer to the employer’s premiums or contributions.
+(b) The Respondent
+[46] The Respondent’s overall position is that given Luxell’s financial circumstances, the Appellants did not exercise the requisite due diligence for either the 2010 or the 2012 period. In particular, the Respondent argues in its written submissions that over the years, the “Minister issued 10 separate notices of assessment to Luxell” and that given its “well-known and longstanding precarious financial position”, the “Appellants were willfully blind and disregarded the statutory requirement for remittances” and used the source deductions as a means to finance its continued operations and “to keep the business going through a prolonged difficult cash flow period”. In other words, the Minister argues that it should have been apparent to the Appellants upon becoming directors, and prior to the taxation years at issue, that Luxell was in serious financial difficulties. The company’s long term unprofitability, bankruptcy application, and continuous cash flow issues should have been clear markers to the directors that Luxell was at risk of failing to make proper remittances of source deductions.
+[47] The Respondent argues that the Appellants did not implement “any documented procedures, processes or protocol” to prevent the failure of the Corporation to remit source deductions and that the overall evidence suggests that the “overarching goal was to keep Luxell operating for as long as possible” until it had reached profitability at which point the Appellants might see a return on their investment.
+[48] Additionally, the Respondent notes that the directors were aware that Luxell had several CFOs or controllers, there had been prior issues with CFOs concealing financial information or simply not making proper remittances, and some directors were skeptical that the financial projections were too optimistic. Moreover, the Respondent relies on this Court’s decisions in D’Amore and Whissell, and submits that directors have a higher duty to ensure remittances are being made when a company is experiencing financial difficulties, as Luxell clearly was in this instance.
+VI. Analysis
+[49] Prior to the taxation years at issue, Luxell had gone through several significant financial challenges including bankruptcy proceedings in 2006, CRA assessments for unpaid source deductions the 2005, 2006, 2007 and 2008 taxation years, ongoing difficulties with the Corporation’s filings for SR&ED refundable tax credits in the approximate amount of $970,000. In particular, it was apparent from the testimonial evidence that the directors had anticipated that the Corporation would eventually receive the SR&ED tax credits as well as a favorable response from CRA to their request for taxpayer relief, all of which would have substantially eliminated the unpaid remittances. Only the former came to fruition.
+[50] As early as March 2009, I find that Mr. MacDonald and Mr. Larmor in particular, given their roles in the financial administration of the Corporation, would have been acutely aware of the financial challenges facing the Corporation. They must have known that it was regularly at risk of failing to make proper source deduction remittances. I also find that this would have been apparent to Mr. King and Mr. Jeanniot, though they might not have been aware of the extent of the financial difficulties.
+[51] It is clear from the facts that throughout its operations, Luxell was operating like a start-up (as explained by Mr. Jeanniot, specifically) and was continuously dealing with cash flow issues. While each of the respective Appellants may not have been aware of the full extent of Luxell’s financial issues upon first becoming a director, they were each well aware that Luxell had serious operational cash flow problems.
+[52] As such, I agree with the Respondent that Luxell’s long term unprofitability, bankruptcy application, and continuous cash flow issues should have been clear markers to the directors, that Luxell was constantly at risk of failing to properly remit source deductions.
+[53] Turning to the 2010 taxation year, the Appellants’ position is that the Corporation had entered into a payment plan with CRA, that remittance arrears were almost paid off by October 2010 and that it was otherwise up-to-date with ongoing remittances. However, a CRA audit commenced in 2009 and completed in the fall of 2010, revealed that the Corporation actually had substantial unpaid remittances suggesting that it had been under-reporting its source deductions. This lead to the various assessments, including the assessment of October 14, 2010 and ensuing assessments leading to the issuance of the certificate noted above in the amount of $1,252,049, though only the unremitted EI and CPP are at issue herein.
+[54] The Appellants claim that they were unaware of the unpaid remittances and stated that they were in fact “surprised”. I do not accept the evidence of Mr. MacDonald or Mr. Larmor, in particular, given their roles in the financial administration of the Corporation, that they were surprised by these arrears. I find that their testimony on this issue is simply not credible and I note that it is entirely uncorroborated.
+[55] The Appellants have argued that they relied on subordinates and relied on the assumption that they would fulfill their job description including timely payment of source deductions. This argument is raised while also acknowledging that the CFO or controller position was simply a revolving door, occupied by some individuals who worked part-time, were often incompetent and unreliable and had to be dismissed or reprimanded. The more likely conclusion is that these CFO’s lacked the financial resources or cash flow to meet the source deductions on a timely basis, that they paid salaries when possible and ensured that expenditures were met to ensure contract fulfillment. Despite being told that source deductions were a priority, it was simply not possible for them to meet that expectation.
+[56] The Appellants have not provided this Court with any credible evidence that the directors did anything other than seek periodic reports or give verbal directives to the new CFO to ensure remittances were being made. While some of the Appellants stated that written directives were also made, the Appellants did not provide any corroborative evidence (with the exception of an email from Mr. Larmor to the CFO in July 2012). There were no memorandums or corporate directives before the Court to suggest that the board undertook measures to prevent further remittance failures. Since none of the CFO’s were called as witnesses, the Court must also draw a negative inference.
+[57] There has been no suggestion and certainly no evidence of actual fraud by any of the CFO’s or controllers and as such, I find that this situation is entirely different from the factual situation in Roitelman, relied upon by the Appellants. To the extent that a CFO or controller may have actually “concealed” the non-payment of source deductions from the directors, I find that this is simply not credible and has not been independently corroborated.
+[58] The Appellants have all suggested that they requested reports on the issue of source deductions from the CFO or controller at every director’s meeting. Despite the fact that the Corporation was consistently in financial difficulties, they were satisfied with verbal assurances and have argued that this demonstrates that they were concerned with the source deductions. I find that the testimony of Mr. MacDonald, Mr. Larmor and Mr. King on this issue is simply not credible. I prefer the testimony of Mr. Jeanniot who indicated quite candidly that the issue of source deductions was only superficially addressed, especially before 2011, and that they only received “a blanket response” that everything was in order or would be paid. According to his testimony, the focus of the board meetings was contract fulfillment, potential clients, markets and products – and not source deductions.
+[59] The Court is satisfied that the Appellants as directors undertook various cost-cutting measures to ensure the financial viability of the Corporation but this barely kept it afloat until it was sold in 2012. These measures did not specifically address the payment of source deductions or remittances, as a priority. Mr. King in particular indicated that the payment of salaries came first and source deductions came second. As noted in Buckingham (paragraph 32(c) and 49), the due diligence defence cannot be used by directors “who finance the activities of their corporation with Crown monies, whether or not they expect to make good on these failures to remit at a later date”.
+[60] The Court must ask itself what specific steps, systems, processes or protocols were undertaken to “prevent the failure” by the Corporation to make source remittances. Since the evidence on that issue underpins a director’s entitlement to rely on the due diligence defence, it must be cogent and credible and where possible, it should be corroborated by an independent third party.
+[61] When the evidence is considered in its totality, the Court must conclude that there is scant evidence of any serious preventative measures. Most steps described by the Appellants, including monitoring the payments of arrears, meetings with CRA, filing requests for taxpayer relief, calling impromptu directors meetings to discuss the issue of unpaid source deductions, were undertaken on an ex post facto basis, as corrective measures. These steps cannot be viewed as preventative measures.
+[62] The Appellants have also argued that a director’s liability only extends to EI and CPP withheld at source and not to an employer’s portion or contribution. In the absence of any authority to support this contention, I find that a director’s liability also extends to the employer’s portion of these remittances.
+VII. Conclusion
+[63] When all is said and done and the evidence is considered in its totality, the Court is not satisfied that the Appellants were sufficiently concerned with the source deductions or that they implemented appropriate preventative measures to prevent the failure by the Corporation to effect the source deductions.
+As such, the appeals are dismissed. The Respondent shall be entitled to one set of costs in accordance with Tariff B.
+Signed at Ottawa, Canada, this 14th day of November 2019.
+“Guy R. Smith”
+Smith J.
+CITATION:
+2019 TCC 256
+COURT FILE NO.:
+2015-3399(IT)G, 2015-3403(IT)G, 2015-3400(IT)G, 2015-3405(IT)G
+STYLE OF CAUSE:
+JOHN MACDONALD, KEITH KING, JEAN-LOUIS LARMOR AND PIERRE JEANNIOT AND THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+November 6, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Guy R. Smith
+DATE OF JUDGMENT:
+November 14, 2019
+APPEARANCES:
+Counsel for the Appellant:
+Deborah Berlach
+Counsel for the Respondent:
+Jack Warren
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Deborah Berlach
+Firm:
+Stieber Berlach Gibbs
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

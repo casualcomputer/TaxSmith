@@ -1,0 +1,212 @@
+---
+title: "Simard v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/235545/index.do"
+last_modified: "2017-09-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 TCC 189"
+citation2: ""
+neutral_citation: "2017 TCC 189"
+decision_date: "2017-09-27"
+language: "en"
+item_id: "235545"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2210
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:10:31.332000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7c0bcdf5dcc436ee90f258599e660dc4fc0cf82456a7737fb92954de9987dcf1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Simard v. The Queen
+
+- Citation: 2017 TCC 189
+- Decision date: 2017-09-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2210, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Simard v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-09-27
+Neutral citation
+2017 TCC 189
+File numbers
+2016-4982(IT)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-4982(IT)I
+BETWEEN:
+ERIC SIMARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+NATHALIE GENOIS,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on June 29, 2017, at Québec City, Quebec.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Counsel for the Intervener:
+Me Emmanuel Jilwan
+Me Valérie Vaillancourt
+JUDGMENT
+The appeal from the redeterminations made by the Minister of National Revenue (the “Minister”) concerning the Canada Child Tax Benefit, notices of which are dated July 20, 2015 (base year 2014) and July 20, 2016 (base year 2015), for the appellant’s youngest daughter, born in 2009, is dismissed in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 27th day of September 2017.
+“Réal Favreau”
+Favreau J.
+Citation: 2017 TCC 189
+Date: 20170927
+Docket: 2016-4982(IT)I
+BETWEEN:
+ERIC SIMARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+NATHALIE GENOIS,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal from redeterminations made by the Minister of National Revenue (the “Minister”) concerning the Canada Child Tax Benefit (“CCTB”) now known as the Canada Child Benefit, under the Income Tax Act, R.S.C. (1985), c. 1 (5th supp.), as amended, (the “Act”). The notices of redetermination are dated July 20, 2015 (for base year 2014) and July 20, 2016 (for base year 2015), and concern the appellant’s youngest daughter, born in 2009 (“child M.”).
+[2] In making the redeterminations for base year 2014 (July 2015 to June 2016) and base year 2015 (July 2016 to June 2017), the Minister determined that the appellant was not an eligible individual with shared custody of child M., on the grounds that he was not residing with the child on an equal or near equal basis during the period in question, in accordance with section 122.6 of the Act.
+[3] In making and upholding the notices of determination, the Minister relied on the following assumptions of fact:
+(a) The appellant and Ms. Nathalie Genois are the parents of children B. and M., born in 2002 and 2009 respectively;
+(b) The appellant and Ms. Genois have lived apart from each other since April 10, 2014;
+(c) On May 4, 2015, a judgment was issued by the Superior Court of Quebec concerning the terms of custody of children B. and M., granting the appellant sole custody of child B. and shared custody with Ms. Genois of child M.;
+(d) The appellant resides with child M. for a period of 6 consecutive days from 8:00 on Monday morning to Saturday at noon, or 124 of 336 hours, representing a breakdown of shared custody of 36.9%;
+(e) Ms. Genoit [sic] resides with child M. for a period of 8 consecutive days from noon on Saturday to 8:00 on Monday morning, or 212 of 336 hours, representing a breakdown of shared custody of 63.10%.
+[4] The appellant, the appellant’s mother (Ms. Gisèle Dubuc Simard), the intervener and the intervener’s roommate (Mr. Sébastien Vermette) testified at the hearing.
+[5] The appellant submitted as evidence the judgment rendered by Pierre C. Bellavance J. of the Superior Court of Quebec on May 4, 2015, in which, inter alia, he awarded the mother and father shared custody of child M., born on October 22, 2009, based on a period of 6 consecutive days for the father per period of 14 days, equal to 156 days of custody per year, and a period of 8 consecutive days per period of 14 days, equal to 209 days of custody per year. Custody of the child was to be as follows, unless otherwise agreed to by the parents:
+- For the father, the period of six consecutive days begins on the first Monday morning at the daycare or school until 7:00 p.m. on Saturday, with the father driving the child to the mother’s home.
+- For the mother, from 7:00 p.m. on Saturday for a period of eight consecutive days until the following Monday morning, with the mother driving the child to the daycare or school.
+[6] In his judgment dated May 4, 2015, Bellavance J. ordered equal sharing between the parents of the maintenance allowance as of March 9, 2015, and the entitlement of each parent to receive the tax benefits for a period of six months, with the mother being entitled from the time of the claim to the appropriate authorities for the first six months, and the father for the subsequent six months, year after year.
+[7] The appellant also submitted as evidence the judgment rendered on July 12, 2016, by my colleague, Lafleur J. of this Court, in which the appeal filed by the appellant from a determination made by the Minister concerning the Canada Child Tax Benefit for the base year 2013 (April to June 2015) was allowed because the appellant was a parent with shared custody of child M. during the period in dispute.
+[8] In his testimony, the appellant stated that he respected the judgment from the Superior Court of Quebec to the letter.
+[9] The appellant is a Québec City employee and his work day ends at 4:00 p.m. During the week in which he has custody of his daughter, he picks her up at daycare (July and August 2015), at school or the after-school program (at kindergarten as of September 2015 and grade 1 as of September 2016) on Monday after work. When he went to the daycare, the school or the after-school program, if his daughter was not there, he would not pick her up at her mother’s. That situation occurred when professional development days in the 2016–2017 school calendar fell on the Mondays on which the appellant was to pick his daughter up at school (September 5 and 19, 2016, and January 9 and April 17, 2017). In those situations, since December 2016, the appellant picked his daughter up at school or the after-school program at 4:00 the following Tuesday. Prior to that, the child’s mother would take her to her father’s home.
+[10] The appellant also acknowledged that his daughter spent spring break, from March 6 to 10, 2017, with the intervener, even though he had custody that week. The appellant explained that his daughter had a fever and spent two or three days in the hospital.
+[11] The appellant also explained that he has no longer had any contact with his former spouse since February 2016 and that he has been off work since September 26, 2016.
+[12] Under cross-examination, the appellant acknowledged gambling at the casino, taking in part in two or three poker tournaments and travelling to Las Vegas once a year. He also acknowledged that it was the intervener who took care of dentist appointments.
+[13] In her testimony, the intervener explained that, during spring break from March 6 to 10, 2017, her daughter wanted to see her father and spend a few days with him, given that he had custody that week. Her daughter asked her to contact her father to ask him. He refused the proposal that she made and her daughter could not see her father and had to go to hospital on Friday, March 10, 2017, for blood work. The intervener submitted as evidence excerpts from text messages dated March 3, 8 and 10, 2017.
+[14] The intervener explained that she took care of her daughter’s appointments with the doctor and dentist, that she met with her daughter’s teachers, and that she paid the entire cost of daycare (Patro) from 7:00 to 7:30 a.m. and from 3:30 to 4:00 p.m., until her father could pick her up after work.
+[15] The intervener also explained that she prepared her daughter’s bags for the week she would spend with her father and that she brought her bag to school shortly before her father came to pick her up. She also stated that she would call her daughter twice a week when she was with her father. Since May 12, 2017, the appellant no longer wants to receive texts from his former spouse and no longer wants her to go to his home. Since that date, the appellant has changed his telephone number twice so she cannot contact him. The appellant never calls his daughter when she is with her mother. The school does not have the appellant’s telephone number.
+[16] The intervener also cited her daughter’s lack of hygiene when she is with the appellant. During the weeks with her father, she often does not take a bath, wears the same undergarments the entire week, and does not regularly brush her teeth, which she does every night when she is with her mother.
+[17] According to her, the appellant does not respect the judgment from the Superior Court of Quebec dated May 4, 2015, as he refuses to pay his share of expenses incurred by the intervener for his daughter. The appellant did not begin paying for his daughter’s clothes until May 2017.
+Legislative provisions
+[18] Concerning the CCTB, section 122.6 of the Act defines the following terms:
+“eligible individual” in respect of a qualified dependant at any times means a person who at that time
+a) resides with the qualified dependant,
+b) is the parent of the qualified dependant who
+(i) is the parent who primarily fulfils the responsibility for the care and upbringing of the qualified dependant and who is not a shared-custody parent in respect of the qualified dependant, or
+(ii) is a shared-custody parent in respect of the qualified dependant,
+. . .
+and for the purposes of this definition,
+(f) where the qualified dependant resides with the dependant’s female parent, the parent who primarily fulfills the responsibility for the care and upbringing of the qualified dependant is presumed be the female parent,
+(g) the presumption referred to in paragraph 122.6 eligible individual (f) does not apply in prescribed circumstances, and
+(h) prescribed factors shall be considered in determining what constitutes care and upbringing;
+“qualified dependant” at any time means a person who at that time
+a) has not attained the age of 18 years;
+b) is not a person in respect of whom an amount was deducted under paragraph (a) of the description of B in subsection 118(1) in computing the tax payable under this Part by the person’s spouse or common-law partner for the base taxation year in relation to the month that includes that time, and
+c) is not a person in respect of whom a special allowance under the Children’s Special Allowances Act is payable for the month that includes that time;
+“shared-custody parent” in respect of a qualified dependant at a time means, where the presumption referred to in paragraph (f) of the definition “eligible individual” does not apply in respect of the qualified dependant, an individual who is one of the two parents of the qualified dependant who
+a) are not at that time cohabiting spouses or common-law partners of each other,
+b) reside with the qualified dependant on an equal or near equal basis, and
+c) primarily fulfil the responsibility for the care and upbringing of the qualified dependant when residing with the qualified dependant, as determined in consideration of prescribed factors.
+[19] Section 6302 of the Income Tax Regulations (the “Regulations”) lists the prescribed factors for determining whether a parent primarily fulfils the care and upbringing of children:
+6302. For the purposes of paragraph (h) of the definition “eligible individual” in section 122.6 of the Act, the following factors are to be considered in determining what constitutes care and upbringing of a qualified dependant:
+(a) the supervision of the daily activities and needs of the qualified dependant;
+(b) the maintenance of a secure environment in which the qualified dependant resides;
+(c) the arrangement of, and transportation to, medical care at regular intervals and as required for the qualified dependant;
+(d) the arrangement of, participation in, and transportation to, educational, recreational, athletic or similar activities in respect of the qualified dependant;
+(e) the attendance to the needs of the qualified dependant when the qualified dependant is ill or otherwise in need of the attendance of another person;
+(f) the attendance to the hygienic needs of the qualified dependant on a regular basis;
+(g) the provision, generally, of guidance and companionship to the qualified dependant; and
+(h) the existence of a court order in respect of the qualified dependant that is valid in the jurisdiction in which the qualified dependant resides.
+Analysis
+[20] For the purposes of the CCTB, there is no doubt that child M. was a qualified dependant.
+[21] The presumption in favour of the mother set forth in paragraph (f) of the definition of “eligible individual” does not apply in this case, as both parents filed a CCTB claim for child M. for the period from July 2015 to June 2017.
+[22] For the appellant to be considered an “eligible individual” in relation to child M. at a given time, during the period from July 2015 to June 2017, one of the following conditions must be met:
+a) the appellant resides with the dependant;
+b) the appellant is the father of the dependant and primarily fulfils the responsibility for the care and upbringing of the dependant and is not a shared-custody parent in respect of the dependant;
+c) the appellant is a shared-custody parent of child M.
+[23] When the parents of the qualified dependant are shared-custody parents, they must share the CCTB. The definition of “shared-custody parent” applies to either of the parents of the qualified dependant when they:
+a) are not spouses or common-law partners;
+b) reside with the qualified dependant on an equal or near equal basis; and
+c) primarily fulfil the responsibility for the care and upbringing of the qualified dependant when residing with the qualified dependant.
+[24] The intervener claims that she has better fulfilled the responsibility for the care and upbringing of child M. than her former spouse. Although the evidence seems to support that claim, if we compare the roles of each parent in this regard, I am satisfied that each parent reasonably fulfilled the role of primary responsibility for the care and upbringing of child M. during the period in which she resided with that parent. In my opinion, the requirement of care and upbringing of the qualified dependant set out in the definition of “shared-custody parent” is met in the case at hand.
+[25] The key issue in this case is the matter of whether child M. resided with the appellant on an equal or near equal basis, since the judgment from the Superior Court of Quebec granted shared custody on an unequal basis, namely 156 days of custody per year to the father (42.73%) and 209 days of custody per year to the mother (57.26%).
+[26] The expression “near equal” is not defined in the Act and the justices who have examined the issue have adopted a quantitative approach to the time spent with each parent (in this regard, see the decisions in Brady v. The Queen, 2012 TCC 240, Van Boekel v. The Queen, 2013 TCC 132, Fortin v. The Queen, 2014 TCC 2009, and Reynolds v. The Queen, 2015 TCC 109). In their analysis, the justices relied not only on the days of custody granted to each parent, but also the hours spent with each parent, excluding time in which the qualified dependant is at school and then attributing hours spent at school based on who drives the child to school and picks the child up from school. The Canada Revenue Agency has set the bar at between 40% and 60% to recognize the existence of shared custody of a child and the courts have generally applied that scale.
+[27] If we consider the facts overall, it is clear that the appellant is not a shared-custody parent, as child M. did not reside with him on an equal or near equal basis during the period in question.
+[28] First, it must be noted that the appellant does not fully respect the judgement by the Superior Court of Quebec dated May 4, 2015, as he did not take his daughter on professional development days during the 2016–2017 school calendar, on the Mondays of his weeks of custody, and during spring break from March 6 to 10, 2017.
+[29] Then, even assuming that the terms of the judgment have been respected, the appellant’s daughter sleeps nine nights at her mother’s and only five nights at her fathers in a 14-day period. In terms of hours, during each parent’s custody period, child M. spends 124 of 336 hours with her father over a period of 6 consecutive days, from 8:00 a.m. on Monday to noon on Saturday, or 36.9% of her time, while spending 212 of 336 hours with her mother over a period of 8 consecutive days, from noon on Saturday to 8:00 a.m. on Monday, or 63.10% of her time.
+[30] If we exclude the time spent at school on the Mondays of the appellant’s weeks of custody, as the child’s mother drives her to school and the appellant only picks her up after classes are done, the father’s custody drops even more and, moreover, if the professional development days are on the Mondays of the appellant’s weeks of custody and if the spring break in the 2016–2017 school calendar are attributed to the mother.
+[31] In light of the above, the appellant’s appeal is dismissed as he was not the eligible individual with shared custody of child M. for the base years of 2014 and 2015.
+Signed at Ottawa, Canada, this 27th day of September 2017.
+“Réal Favreau”
+Favreau J.
+CITATION:
+2017 TCC 189
+COURT FILE NO.:
+2016-4982(IT)I
+STYLE OF CAUSE:
+Eric Simard and Her Majesty the Queen
+PLACE OF HEARING:
+Québec City, Quebec
+DATE OF JUDGMENT:
+June 29, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Réal Favreau
+DATE OF JUDGMENT:
+September 27, 2017
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Counsel for the Intervener:
+Me Emmanuel Jilwan
+Me Valérie Vaillancourt
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+[BLANK/EN BLANC]
+Firm:
+[BLANK/EN BLANC]
+For the Respondent:
+Name:
+Firm:
+For the Intervener:
+Me Valérie Vaillancourt
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

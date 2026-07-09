@@ -1,0 +1,150 @@
+Title: Le restaurant Le Relais de Saint-Jean Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29474/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-515-29474-le-restaurant-le-relais-de-saint-jean-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-10-15
+
+# Le restaurant Le Relais de Saint-Jean Inc. v. The Queen
+
+- Citation: 2009 TCC 515
+- Decision date: 2009-10-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6293, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Le restaurant Le Relais de Saint-Jean Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-10-15
+Neutral citation
+2009 TCC 515
+File numbers
+2007-3565(GST)G
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2007-3565(GST)G
+BETWEEN:
+RESTAURANT LE RELAIS DE ST-JEAN INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on October 1 and 2, 2009, at Montreal, Quebec.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Counsel for the appellant:
+Alexandre E. Paradissis
+Counsel for the respondent:
+Martine Bergeron
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under Part IX of the Excise Tax Act, the notice of which is dated April 5, 2005, and bears number 03403542, relating to the period from January 29, 2002, to December 31, 2003, is allowed with costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the additional tax of $47,080 calculated on additional sales of $261,789 in 2002 and $254,574 in 2003 must be cancelled, as well as all of the interest ($2,719) and penalties ($15,539) related to that additional tax, in accordance with the attached Reasons for Judgment.
+Signed at Montreal, Quebec, this 15th day of October 2009.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+on this 29th day of January 2010.
+Erich Klein, Revisor
+Citation: 2009 TCC 515
+Date: 20091015
+Docket: 2007-3565(GST)G
+BETWEEN:
+RESTAURANT LE RELAIS DE ST-JEAN INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre J.
+[1] This is an appeal from an assessment made under the Excise Tax Act (ETA) through the Minister of Revenue of Quebec (the Minister) on April 5, 2005, and relating to the period from January 29, 2002, to December 31, 2003.
+[2] In that assessment, the Minister claims additional tax of $47,080, with penalties of $15,539 and interest of $2,719, relating to alleged additional income that was not reported by the appellant and that was estimated by the Minister to be $261,789 in 2002 and $254,574 in 2003 (see the notice of assessment filed as Exhibit I-1, Tab 1, and the reconstruction of income attached to the audit report as Exhibit I-1, Tab 4, page 6.4).
+[3] The Minister used an indirect audit method to reconstruct the appellant's sales during the period in question. The reasons for proceeding in this way and the procedure followed are explained in paragraphs 12.5 et seq. of the Reply to the Notice of Appeal, reproduced below:
+[Translation]
+12.5 Given that the appellant's accounting records were deficient, that meal bills were missing for the period from January 29, 2002, to July 11, 2003, and that a preliminary test comparing sales to purchases had revealed inconsistencies and irregularities in the amounts reported by the appellant, the auditor used an indirect audit method to reconstruct the appellant's sales during the period in question.
+12.6 The audit method used was the sampling method, which consisted in analyzing the purchases and sales of selected items during the survey period.
+12.7 The survey period ran from July 30, 2003, to December 31, 2003.
+12.8 Given that the appellant had not kept the meal bills for the period from January 29, 2002, to July 11, 2003, the survey period was used as a reference for that period.
+12.9 At the start of the audit in July 2003, the auditor informed the appellant's representative that, from then on, he had to keep the meal bills, and the auditor used the bills for the five months that followed, namely, August to December 2003, for her sampling.
+12.10 Despite the auditor's request that the meal bills be sorted by date, they were not sorted, which made it almost impossible to reconcile them with the cash register tapes.
+12.11 The auditor used a sampling interval of 10, which meant that 1 out of every 10 meal bills was used in the sampling.
+12.12 The auditor selected three of the food items served at the restaurant to use in her audit, namely, hamburger buns, cheese curds and beer.
+12.13 The sampling interval, the total number of meal bills available as well as the number of selected items and the frequency with which those items are found on the selected bills are sufficient for the auditor's survey to have 95% reliability and a 10.7% margin of error.
+12.14 For each selected meal bill, the auditor wrote down the date, number, net sale amount and the selected items referred to in subparagraph 12.11 if they were on the bill or if they were part of the dish shown on the bill.
+12.15 Baked beans were initially chosen as an item to analyze but were not used in the survey at issue because the auditor noticed that the annual purchases of baked beans from the appellant's suppliers were lower than the quantities sold by the appellant, which affected the credibility of the purchase amounts reported by the appellant and showed that the appellant did not report all of its purchases.
+12.16 The total net sales in the sampling were $32,836.27.
+12.17 The auditor then calculated a ratio of 71.84 [final ratio, Exhibit I‑1, Tab 4, p. 6.4] by dividing the total net sales in the sampling, which were $32,836.27, by the total number of items sold in the sampling, which was 457 [final amount, Exhibit I‑1, Tab 4, p. 6.4] for the survey period.
+12.18 The auditor also took into account the 10% price increase between 2002 and 2003, which lowered the ratio established for the survey period.
+12.19 To reconstruct the appellant’s sales for the period in question, the auditor multiplied the ratio stated in subparagraph 12.16 by the total number of items purchased by the appellant during the survey period.
+12.20 The auditor determined which items the appellant had purchased during the period in question using the supplier invoices provided by the appellant.
+12.21 The auditor took into consideration take-out sales for which there might not have been meal bills, as well as losses and personal consumption as determined by the appellant (5% of the items purchased).
+12.22 Adjustments were also made, following submissions on the draft assessment, to correct some errors. However, those corrections did not decrease the reliability of the survey conducted by the auditor.
+12.23 The net sales thus reconstructed by the auditor for the period from January 29, 2002 to December 31, 2002 were $974,925, while the sales reported by the appellant were $713,136.
+12.24 The net sales thus reconstructed by the auditor for the period from January 1, 2003, to December 31, 2003, were $927,587, while the sales reported by the appellant were $673,013.
+12.25 Therefore, the appellant failed to report and remit the GST on supplies of $261,789 for the period from January 29, 2002, to December 31, 2002, and on supplies of $254,574 for the period from January 1, 2003, to December 31, 2003.
+[4] In addition, the respondent indicated in the Reply to the Notice of Appeal that, after the assessment had been confirmed, Carole Thibault, the auditor acting for the Minister, had required and obtained from the bun suppliers documents showing that the appellant had purchased 6,648 hamburger buns, while it had provided purchase invoices for only 6,120 buns, resulting in a difference of 528 buns or 44 dozen. This leads the respondent to suggest that the estimate of unreported sales in the assessment is even lower than it should be.
+[5] In her audit report, Ms. Thibault indicated in paragraph 7.3 on page 4 (Exhibit I‑1, Tab 4) that [Translation] “because of the irregularities in the financial statements, limited internal control and a weak accounting system, we had to use an alternative method”, which was described rather explicitly in the Reply to the Notice of Appeal and is reproduced above.
+[6] In paragraph 6.8 on page 3 of that report, she stated that she had in her possession bank statements from February 2002 to December 2003, purchase invoices from February 2002 to December 2003, the financial statements from 2002‑12‑31 and 2003‑12‑31, dining-in meal bills from July 12, 2003, to December 31, 2003, and the cash register tapes from the start of the business's operations. She explained in the same paragraph that the sales in the financial statements were determined by reading the restaurant’s cash register “Z” tape. Argyris Chionis, the restaurant’s majority owner, added up the cash register tapes at the end of each quarter to determine the sales.
+[7] At the start of the audit in July 2003, Mr. Chionis kept the meal bills for only 15 days because he used them to compile the tips allotted to each server. As soon as that was done, he did not consider it necessary to keep the bills since the sales were recorded on the cash register tapes, which he kept and gave to his accountant. Ms. Thibault noted that he did not record the sales in a sales journal. However, she was able to reconcile the taxes and the inputs in the ledger with what was reported. She asked Mr. Chionis to keep the meal bills in future, and he did so. However, he gave her those bills pell-mell: sorted by server and not in chronological order.
+[8] In his testimony, Mr. Chionis stated that he had purchased the restaurant at the start of 2002 from two elderly people, who had owned it for 35 years. The restaurant had regular clientele consisting mostly of older people. There was a video bar next door that remained open all night. When he purchased the restaurant, Mr. Chionis closed it for a few weeks to do some renovations. Then he slightly changed the menu to also attract younger clientele. Menu prices generally ranged from $1.25 to $13.95 (except for 14-inch pizzas, the price for which could be up to $17.25). The menu consisted mostly of subs, pizza, hamburgers, poutine and other similar types of dishes (Exhibit I‑4). After several months, he closed the bar at night. He also changed suppliers for some of the foods.
+[9] Mr. Chionis had got to know the restaurant business from his father, who had operated a take-out snack bar. His father had always determined his sales using cash register tapes. Mr. Chionis had never managed a restaurant before but had experience in the kitchen. His restaurant was rather busy at mealtimes, and he also offered take-out service. Some members of his family worked at the restaurant.
+[10] When Ms. Thibault and a colleague came to the premises to conduct the audit, he cooperated as well as he could, and this was confirmed by Ms. Thibault. He complied with her requests that he keep the required documents. Throughout her audit, she came to the restaurant several times per month and asked him questions, which he answered as best he could, providing approximate answers. He explained that, the whole time, he continued to take care of his clients, running from one end of the kitchen to the other in order to serve them. The clients received a bill at the end of their meal, which they took to the cash register to pay. The person at the cash register rang in each sale. None of the servers carried cash on them; all sales went through the cash register.
+[11] When Ms. Thibault submitted her first draft assessment, she had estimated the unreported sales for two years to be $1 million. Mr. Chionis was aghast, stating that he had always reported all his sales. The auditor had conducted her survey using around 4,000 invoices, choosing one out of every 10. Mr. Chionis's accountant looked at about 600 of them and showed Ms. Thibault a number of errors. She corrected all of them and, in the end, reduced by half the unreported sales that she had estimated on the basis of her survey. Among other things, she agreed to reduce, to take take‑out food into account, the purchases used to establish the unreported sale amount and made some other changes in order to [Translation] "settle the case", as she said in Court. For his part, Mr. Chionis did not want to settle because he considered and still considers that the sales reconstructed through the survey do not reflect reality. He simply cannot understand why he was assessed for so much.
+[12] Ms. Thibault first conducted a pre-test of a nine-day period to see if it was necessary to reconstruct the sales. She found that more baked beans were sold than purchased. That fact was taken into consideration in her decision to reconstruct the sales. She became aware of the situation with respect to baked beans when she noticed that the beans were sold in small, two-ounce containers. My understanding is that she compared the quantity of beans sold according to the number of those containers with the quantity of beans purchased according to the number of cans bought. Mr. Chionis explained in Court that it was difficult to say that the sales of baked beans were higher than the purchases. In the first place, he said that the containers were never full to the brim. In addition, one can of beans could be used to fill more containers than is suggested by the quantity shown on the can, since water was added to the beans. Finally, according to him, the fact that no beans were purchased in a month means nothing as clients often ask not to be served any.
+[13] Moreover, Mr. Chionis noted that Ms. Thibault did not take into account all the dishes in which hamburger buns are served, which, in his opinion, distorts the results obtained. He filed as Exhibit A-3 all the dishes in which those buns are used and which were not taken into consideration in the audit.
+[14] Ms. Thibault had also noticed that there were bills for meals served at the bar. Those bills were recorded on the bar cash register, but Mr. Chionis might wait a few days before recording them on the main cash register. He explained that he kept a bar for the purpose of generating income from lottery tickets and video. According to him, clients ate very little at the bar, and that was why he did not transfer the sales of those meals to the main cash register every day, but only did so every two or three days.
+[15] Ms. Thibault also alluded in her testimony to the fact that perhaps not all cheese curd purchases were reported since the quantity purchased varied by month (Exhibit I-1, Tab 8, p. 6.15).
+Analysis
+[16] The respondent's main argument for upholding the assessment is that there is a presumption of validity with respect to Ms. Thibault's reconstruction of sales through sampling, and that the appellant had to provide statistical evidence in order to rebut that presumption.
+[17] Counsel for the respondent relied on the decision of the Federal Court of Appeal in Amiante Spec Inc. v. Canada, 2009 FCA 139, at paragraph 15, where it is pointed out that the onus is on the taxpayer to demolish the assumptions made by the Minister to issue an assessment. The Federal Court of Appeal further states that this initial onus is met where the taxpayer makes out at least a prima facie case that demolishes the accuracy of the assumptions. The Federal Court of Appeal then sets out, at paragraphs 23 and 24 of that same decision, what constitutes a prima facie case:
+[TRANSLATION]
+23. A prima facie case is one “supported by evidence which raises such a degree of probability in its favour that it must be accepted if believed by the Court unless it is rebutted or the contrary is proved. It may be contrasted with conclusive evidence which excludes the possibility of the truth of any other conclusion than the one established by that evidence” (Stewart v. Canada, [2000] T.C.J. No. 53, paragraph 23).
+24. Although it is not conclusive evidence, “the burden of proof put on the taxpayer is not to be lightly, capriciously or casually shifted”, considering that “[i]t is the taxpayer’s business” (Orly Automobiles Inc. v. Canada, 2005 FCA 425, paragraph 20). This Court stated that the taxpayer “knows how and why it is run in a particular fashion rather than in some other ways. He knows and possesses information that the Minister does not. He has information within his reach and under his control” (ibid.).
+[18] In addition, in Brasserie Futuriste de Laval inc. v. Canada, [2006] T.C.J. No. 440, affirmed by [2007] F.C.J. No. 1653, Justice Dussault of this Court introduced a reservation regarding the presumption of validity in cases where a business's sales are reconstructed by means of an alternative method (in that particular case, food sales were reconstructed by applying a 200% markup on purchases, less 5% for losses, in the absence of sales invoices). Justice Dussault wrote the following at paragraph 158:
+158 It goes without saying that the gross profit margins in the restaurant industry, and the pub sector in particular, fall outside the scope of judicial notice. If the tax authorities believe that the only way to determine the sales of a taxpayer whose accounting is deficient and who does not have the appropriate documents is to mark up its sales by a certain percentage, they must still show, by means of evidence regarding industry standards or otherwise, and, if not by an expert, then with statistics, that the markup being applied is a recognized, reasonable and appropriate standard for the taxpayer's business. I cannot accept the submission by counsel for the Respondent that the presumption of an assessment's validity automatically carries with it a presumption that all the assumptions on which the Minister relied to make the assessment are valid and that no evidence of any kind need ever be offered. The 200% markup that Ms. Morand used may well constitute a recognized, reliable and reasonably applicable standard in this case, though I doubt it under the circumstances. It is also possible that the appropriate markup was 175%, 150% or even less. In short, when a taxpayer can raise a serious doubt, it must be shown that the markup used is not a purely subjective standard, but, rather, a standard that is objective, reliable and acceptable under the circumstances. One cannot hide behind the presumption of an assessment's validity in order to avoid having to offer such evidence. To claim otherwise is to open the door to arbitrariness by allowing the tax authorities to propound any theory with the assurance that it would be deemed valid. Just because a taxpayer has failed to meet its obligations, has deficient accounting, does not have the appropriate documents, or has destroyed those documents, does not mean that all assumptions are warranted and that those assumptions will be deemed valid under all circumstances. In income tax cases where a taxpayer is assessed by means of the indirect net worth method, and, for lack of anything better, his personal expenses are determined by means of assumptions, this is done by using minimum objective standards drawn from official statistics published by Statistics Canada with respect to the cost of living for individuals and households in different parts of the country, not by relying on numbers that stem from the auditor's impressions. In my opinion, this approach is also applicable to GST cases. In summary, the assertion that "my team and I apply a markup of at least 200%, less 5% for losses" is not sufficient to shift to the taxpayer the full burden of rebutting this assumption where there are serious doubts about it. A minimum amount of evidence is required in order to determine that such a markup is recognized, reliable and reasonably applicable under the circumstances. [Emphasis added.]
+[19] Justice Dussault stated that, among other things, the overall position of the business must be taken into account. At the same time, in that same decision, Justice Dussault accepted a reconstruction of alcoholic beverage sales that was based on a sampling of employee reports providing the details of sales over 14 days in a three-month period. He considered that the sample was sufficiently representative of the products sold and the sale prices during that period.
+[20] It should be noted that in Brasserie Futuriste de Laval inc. Justice Dussault specifically stated that the auditor's work had been a function of the taxpayer's methods. At paragraph 152, he stated the following:
+152 . . . I certainly admit that sampling can only yield approximate results that do not necessarily reflect fully the true picture; this is true of any alternative or indirect method that the tax authorities use when a taxpayer's affairs, or a taxpayer's documents or lack thereof, require the authorities to use such a method.
+[21] In that case, it was admitted from the start that a significant net tax amount (close to $80,000) was collected by the taxpayer but not remitted. The bank deposits exceeded the sales recorded in the books. In addition, at the start of the audit, the auditor had asked the taxpayer's representatives to provide her with the reports concerning the sales of alcoholic beverages, which were being systematically destroyed. Contrary to what occurred in the case at bar, the taxpayer did not comply, and after two warnings, the auditor was obliged to issue a requirement to produce the documents. Furthermore, in Brasserie Futuriste de Laval inc., the auditor had found many indications of wages being paid in cash and even some of "under the table" payments. What is more, she had had no possibility of thoroughly analyzing the payroll journal, and in general, was unable to reconcile the books and records provided. In that context, given the uncooperative attitude of the taxpayer's representative, the inaccuracy of the business's books and records, the destruction of the employees' reports on the details of the sales, and the evidence that the summaries of sales were altered, the auditor had no choice but to use an alternative method. In addition, in that same case, the pub had been operated by the same owner for almost 10 years at the time of the audit.
+[22] I am of the view that, in the case at bar, the situation is markedly different. For one thing, the audit concerned the first two years during which the restaurant was being operated by its current owner, Mr. Chionis. It is true that he destroyed the meal bills after two weeks, but only once they had been recorded on the cash register tapes. This was his first experience as a restaurant owner, and he had no reason to believe that he was acting illegally. Ms. Thibault had reproached the appellant from the outset for not entering his sales in a sales journal. It seems to me that that does not warrant recourse to an arbitrary method to reconstruct sales that she had considered from the start to be unreported.
+[23] Even without a sales journal, she noted that the financial statements reflected all of the sales found on the cash register tapes. She reconciled the sales reported with the taxes remitted.
+[24] Having asked Mr. Chionis to keep the meal bills, Ms. Thibault performed a preliminary test to try to reconcile the purchases and sales. It seems that it was the sale of baked beans that gave her the green light to reconstruct the sales. Indeed, she judged the sales to be higher than the purchases, which, according to her, proves that not all of the purchases were reported, and consequently, not all of the sales were reported. Mr. Chionis explained very well the discrepancy that may have existed between the sales of baked beans and the purchases. It is easily understandable that the amount bought in a can does not necessarily translate into resale of a like amount, as the beans must be diluted. In addition, it is my understanding that Ms. Thibault had noticed that the purchases of cheese curds were not the same every month. Instead of asking questions in order to get some explanations, she decided to start her sampling audit. As for the difference between the purchases of buns and the number shown by the invoices provided, there was never really any investigation into this since Ms. Thibault asked the suppliers about the number of buns sold only after the assessment was issued. Mr. Chionis was not given an opportunity to explain himself with regard to that.
+[25] From what I understand, it is those very random elements that she considers to be irregularities in the financial statements and that form the basis of her conclusion that Mr. Chionis's accounting system was deficient, which is her justification for her attempt to establish unreported sales. Ms. Thibault admitted in cross‑examination that the appellant's case was part of a series of audits performed in the restaurant industry.
+[26] In my opinion, the points relied upon by Ms. Thibault as justification for proceeding with a reconstruction of sales using a more-than-arbitrary method were not valid. Mr. Chionis was starting to operate his business. The fact that he did not record his sales using the method advocated by Ms. Thibault is not a good reason to cause him to incur astronomical costs to defend himself against an astronomical assessment. She could have advised him to enter his data using a method acceptable to the Minister and come back in a year or two to conduct her audit. Besides, Ms. Thibault herself recognized that the results obtained were not very realistic, since part of her testimony was given over to explaining everything that she did to reduce the unreported sales amount from $1 million to around $500,000. That exercise alone demonstrates that reconstructed sales are fundamentally very random and proves, in my opinion, the elasticity and fragility of the alternative method used. In light of such a difference, it is difficult to justify a reliability coefficient of 95%.
+[27] It is my view that the appellant has made a prima facie case that reconstructing its sales by means of an alternative method was not justified in the circumstances. The elements taken into account in order to proceed in that way were insufficient, in my opinion, especially when one considers that the appellant was only just starting to operate its restaurant. It would have been wiser, and much less costly for everyone, to simply advise the appellant of a better way to record its purchases and sales. The appellant has certainly cast serious doubt on the necessity of reconstructing the sales in this particular case.
+[28] For these reasons, I would allow the appeal and refer the assessment back to the Minister for reconsideration and reassessment in order to cancel the additional tax of $47,080 determined on additional sales of $261,789 in 2002 and $254,574 in 2003, as well as all interest ($2,719) and penalties ($15,539) related to that tax.
+Signed at Montreal, Quebec, this 15th day of October 2009.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+on this 29th day of January 2010.
+Erich Klein, Revisor
+CITATION: 2009 TCC 515
+COURT FILE NO.: 2007-3565(GST)G
+STYLE OF CAUSE: RESTAURANT LE RELAIS DE ST-JEAN INC. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: October 1 and 2, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT: October 15, 2009
+APPEARANCES:
+Counsel for the appellant:
+Alexandre E. Paradissis
+Counsel for the respondent:
+Martine Bergeron
+COUNSEL OF RECORD:
+For the appellant:
+Name: Alexandre E. Paradissis
+Firm:
+For the respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,342 @@
+Title: Brass Collar Capital Corp. v. The King
+Source: https://norma.lexum.com/tcc-cci/decisions/en/item/521610/index.do
+Corpus path: corpus/cases/tcc/2026/2026-tcc-62-521610-brass-collar-capital-corp-v-the-king.md
+Document type: case_law
+Last modified: 2026-04-09
+
+# Brass Collar Capital Corp. v. The King
+
+- Citation: 2026 TCC 62
+- Decision date: 2026-04-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5529, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Brass Collar Capital Corp. v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2026-04-09
+Neutral citation
+2026 TCC 62
+File numbers
+2024-1308(IT)G
+Judges and Taxing Officers
+John Sorensen
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2024-1308(IT)G
+BETWEEN:
+BRASS COLLAR CAPITAL CORP.
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Motions heard on March 16, 2026 at Toronto, Ontario
+Before: The Honourable Justice John A. Sorensen
+Appearances:
+Counsel for the Appellant:
+Charles Haworth
+Counsel for the Respondent:
+Niloofar Sharif
+Mike Chen
+JUDGMENT
+The Respondent’s motion to strike paragraphs 10 to 27 of the Appellant’s notice of appeal is granted with costs, and for greater certainty, paragraphs 34(a) and 37 through 73, inclusive, are also struck, all without leave to amend.
+The Respondent’s motion to strike portions of the Selke Affidavit is also granted with costs, with leave to amend.
+Signed this 9th day of April, 2026.
+“J.A. Sorensen”
+Sorensen J.
+Docket: 2022-1728(IT)G
+BETWEEN:
+MOSTEN INVESTMENT LP
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Motion heard on March 16, 2026 at Toronto, Ontario
+Before: The Honourable Justice John A. Sorensen
+Appearances:
+Counsel for the Appellant:
+Charles Haworth
+Counsel for the Respondent:
+Niloofar Sharif
+Mike Chen
+JUDGMENT
+The Respondent’s motion to strike portions of the Selke Affidavit is granted with costs, with leave to amend.
+Signed this 9th day of April, 2026.
+“J.A. Sorensen”
+Sorensen J.
+Docket: 2023-244(IT)G
+BETWEEN:
+ITUNA INVESTMENT LP
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Motion heard on March 16, 2026 at Toronto, Ontario
+Before: The Honourable Justice John A. Sorensen
+Appearances:
+Counsel for the Appellant:
+Charles Haworth
+Counsel for the Respondent:
+Niloofar Sharif
+Mike Chen
+JUDGMENT
+The Respondent’s motion to strike portions of the Selke Affidavit is granted with costs, with leave to amend.
+Signed this 9th day of April, 2026.
+“J.A. Sorensen”
+Sorensen J.
+Docket: 2023-252(IT)G
+BETWEEN:
+ATWATER INVESTMENT LP
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Motion heard on March 16, 2026 at Toronto, Ontario
+Before: The Honourable Justice John A. Sorensen
+Appearances:
+Counsel for the Appellant:
+Charles Haworth
+Counsel for the Respondent:
+Niloofar Sharif
+Mike Chen
+JUDGMENT
+The Respondent’s motion to strike portions of the Selke Affidavit is granted with costs, with leave to amend.
+Signed this 9th day of April, 2026.
+“J.A. Sorensen”
+Sorensen J.
+Citation: 2026 TCC 62
+Date: 20260409
+Docket: 2024-1308(IT)G
+BETWEEN:
+brass collar capital corp.
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent;
+Docket: 2022-1728(IT)G
+AND BETWEEN:
+MOSTEN INVESTMENT LP
+Appellant,
+and
+HIS MAJESTY THE KING,
+Docket: 2023-244(IT)G
+AND BETWEEN:
+ITUNA INVESTMENT LP
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent;
+Docket: 2023-252(IT)G
+AND BETWEEN:
+ATWATER INVESTMENT LP
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Sorensen J.
+I. Overview and Summary Conclusion [1] To set the stage, the Brass Collar Capital Corp. (“Brass”) amended notice of appeal refers to two matters: the exempt versus non-exempt status of a universal life insurance policy (the “Policy”); and whether legal fees incurred in 2023 should be included in Class 14.1 for capital cost allowance (“CCA”) purposes.
+[2] Other appeals involving life insurance policies are pending for Ituna Investment LP (“Ituna”), Mosten Investment LP (“Mosten”), and Atwater Investment LP (“Atwater”) (collectively, the “LPs”). The individual appeals for each of the LPs also involve deductions. Ituna is referenced in the Brass amended notice of appeal, apparently because they hold policies issued by the same insurer, namely, Industrial Alliance Insurance and Financial Services Ltd. (“IA”).
+[3] As described further below, Brass and the LPs are linked.
+[4] These reasons set out the bases for determining the first two of four motions involving these parties. The first is the Respondent’s[1] motion to strike portions of the Brass amended notice of appeal. The second is the Respondent’s motion to strike portions of the August 5, 2025 affidavit of Gary Selke (“Selke Affidavit”). The Selke Affidavit supports the two further motions, for consolidation and non-party discovery, the hearings of which were put off pending the outcome of the initial motions.[2]
+[5] The Respondent’s motion to strike portions of the Brass amended notice of appeal is granted, because the Brass appeal is moot and there is no basis to exercise the Court’s discretion to hear the matter. The motion to strike is granted without leave to amend. Respectfully, no amendments could save the Brass appeal.
+[6] The Respondent’s motion to strike portions of the Selke Affidavit is granted, with leave to amend to ensure that the next motions proceed with a proper record.
+II. Issues [7] On the motion to strike portions of the Brass amended notice of appeal:
+Whether paragraphs 10 to 27 should be struck pursuant to Rule 53(1) of the Tax Court Rules (General Procedure),[3] because the issue to which those paragraphs speak is moot; and
+If the issue is moot, whether the Court should exercise its discretion and allow the appeal to continue; and
+[8] On the motion to strike portions of the Selke Affidavit:
+whether paragraphs 13, 15 through 18, 21, 22, 24, 28, and 30 through 34 should be struck for variously being composed of argument, opinion, legal conclusions, mischaracterizations and impermissible transcript excerpts.
+III. Motion to Strike Portions of the Brass Amended Notice of Appeal [9] Although the Respondent’s motion was to strike portions of the amended notice of appeal, counsel affirmed at the hearing that the Respondent would concede the CCA issue. This would end the need for the Brass appeal to proceed for any reason related to attacking the subject assessment.[4]
+[10] The affidavit of Argyroula Tsioubris, sworn April 28, 2025 and filed with the Respondent’s motion record set out basic information, supported with copies of source documents. To summarize:
+Brass’ 2023 taxation year ending September 30, 2023, was initially assessed by notice of assessment dated December 21, 2023, and $488.52 was payable;
+By notice of objection dated February 3, 2024 (the “Objection”), Brass challenged the notice of assessment;
+Brass appealed to this Court by notice of appeal dated June 17, 2024, thus initiating a Class A proceeding;
+By letter dated August 13, 2024, the Canada Revenue Agency (“CRA”) stated that the Objection was allowed in full;
+By notice of assessment dated September 3, 2024, the outcome was implemented to reduce the “previous balance” of $521.32[5] to $76.40;
+The reply was filed on September 24, 2024;
+The answer was filed on October 24, 2024;
+The amended notice of appeal was filed on consent on March 7, 2025.
+[11] Brass objected to the assessment of its own filing position, which is permissible. The Objection concerned the Policy. Brass asserted that its 2023 net income should be reduced by $917, and that the reduction should be partially offset by taxable interest income of $97. The $97 inclusion was proposed by Brass on the basis of its contention that the Policy was not an exempt policy for income tax purposes, pursuant to s. 306 of the Income Tax Regulations.
+[12] Brass appealed to this Court before its Objection was determined, as is its right if the conditions of s. 169(1) of the Income Tax Act[6] are met. But the Objection was then allowed. Brass was assessed to give effect to the net income reduction, as requested, and the notice set out the calculations. The Brass appeal was not discontinued. Subsequently, and after the reply and answer were filed, the notice of appeal was amended, as noted.[7]
+[13] Brass’ amended notice of appeal added a new issue. A $1,776 expense was included on Schedule 1 to Brass’ 2023 T2 return of income and categorized as non-deductible.[8] The amended notice of appeal argued that the expense should have been categorized in Class 14.1 for CCA purposes. Recategorizing the non-deductible expense as a Class 14.1 amount would allow Brass to deduct $105 for CCA in 2023. At the hearing the Respondent agreed to allow the CCA deduction.
+[14] Why continue the appeal if there is no adverse position to contest? Brass argued that its appeal must continue because of the link between Brass and Ituna.
+[15] The link between the entities exists because an upper-tier partnership, Station Master Investments LP, holds an interest in Ituna (and the other LPs), and is the shareholder of Brass. The director of Brass and of 101132817 Saskatchewan Ltd., the general partner (“GP”) of each LP, is the same individual, namely, Mr. Selke.[9] Also, Brass and Ituna both hold IA policies.
+[16] The Respondent’s argument is straightforward: the impugned paragraphs should be struck from the amended notice of appeal because the issue is moot, and there is no basis for any exceptional remedy to allow the matter to proceed.
+[17] Brass’ argument is that the linkage between Brass and Ituna, coupled with the similarity between the subject matter of the appeals (IA issued their policies) means that the Brass appeal should be allowed to proceed. More specifically, counsel argued that the Brass appeal must continue because the outcome of the Brass dispute at the administrative level (the Policy is not exempt) is inconsistent with the Minister (and Respondent’s) position in the Ituna dispute (its policy is exempt, which Ituna disputes), and that the alleged inconsistency is relevant.
+[18] A curious and engaged reader may at this point wonder what is going on here. Brass continues its appeal even though the Objection was allowed. Brass continues to contend that the Policy was not exempt, which is consonant with what Brass says the Minister concluded. On the other hand, Ituna appeals on the basis that its IA policy was not exempt, although the Minister says otherwise. The Mosten and Atwater appellants take the same position as Ituna. If all of the LPs’ policies were not exempt, that means that they would be taxable on their investment income. In summary, Brass’ appeal does not raise a challenge to the underlying assessment, and the LPs seek to lose the tax-exempt status of the investment components of their respective policies. What gives?
+[19] I asked counsel to explain why the LPs appealed against the Minister’s conclusion that they held exempt policies - a good tax outcome. Who has a problem with a favourable tax outcome if the revenue authorities are satisfied? The answer was that the LPs have a problem. Would they like to refute exempt status for the investment accounts under their policies, and pay more tax? I was advised that they would like a court to consider particular facts relating to each insurance policy, and provide an interpretation of Regulation 306. I was advised that regulators would then have the option to adopt or enforce that interpretation as they see fit, and the insurers would be obligated to “play by the rules” and invest the money they are supposed to invest, in compliance with the law. This overtly speaks to the real underlying issue that animates Brass and the LPs: the operational parameters of the investment accounts under each of the LPs’ policies, a business issue which I was told is contingent on exempt versus non-exempt status.
+[20] Another justification for the appeals is that Mr. Selke professes to be confused about how to file tax and partnership information returns, because the result in the Brass Objection is distinct from the filing position for the LPs. That basis for litigating in the Tax Court is unpacked further below.
+a) Relevant Law [21] The Respondent’s motion to strike was brought under Rule 53(1) on the basis that the issue raised by the impugned paragraphs is moot. The threshold for striking pleadings is high: relief will only be granted if it is “plain and obvious” that the pleading discloses no reasonable cause of action or prospect or possibility of success.
+[22] Brass’ counsel cited the following from Imperial Tobacco:[10]
+Valuable as it is, the motion to strike is a tool that must be used with care. The law is not static and unchanging. Actions that yesterday were deemed hopeless may tomorrow succeed. Before Donoghue v. Stevenson [citation omitted] introduced a general duty of care to one’s neighbour premised on foreseeability, few would have predicted that, absent a contractual relationship, a bottling company could be held liable for physical injury and emotional trauma resulting from a snail in a bottle of ginger beer. Before Hedley Byrne [citation omitted], a tort action for negligent misstatement would have been regarded as incapable of success. The history of our law reveals that often new developments in the law first surface on motions to strike or similar preliminary motions, like the one at issue in Donoghue v. Stevenson. Therefore, on a motion to strike, it is not determinative that the law has not yet recognized the particular claim. The court must rather ask whether, assuming the facts pleaded are true, there is a reasonable prospect that the claim will succeed. The approach must be generous and err on the side of permitting a novel but arguable claim to proceed to trial.
+[23] The Respondent relied on s. 12 of the Tax Court of Canada Act,[11] which establishes the Court’s limited statutory jurisdiction. Further, according to s. 171(1) of the Act, the Court may dispose of an appeal by dismissing or allowing it and, in the latter case, by vacating, varying or referring the assessment back to the Minister for reconsideration and reassessment. Section 169(1) establishes that a taxpayer may appeal to this Court to have an assessment vacated or varied, and s. 169(1) is expressly referenced in the Brass amended notice of appeal.
+[24] The Respondent also relied on Bruner:[12]
+…a taxpayer is not entitled to challenge an assessment where the success of the appeal would either make no difference to the taxpayer's liability for tax or entitlement to input tax credits or refunds, or would increase the taxpayer's liability for tax.
+[25] And the Respondent relied on Interior Savings Credit Union:[13]
+It follows that unless the taxpayer challenges the taxes interest or penalties assessed for the year, there is nothing to appeal and indeed no relief which the Tax Court can provide.
+[26] Borowski[14] teaches us that an issue is moot when there is no longer a live controversy that engages with the parties’ rights. However, the courts have discretion to allow an issue to be determined where it is in the interests of justice. The interests of justice are comparative in nature,[15] and are not limited to the interests of the parties, but include considerations involving the integrity of the judicial process.[16] The public interest is also relevant, and moot issues that engage with matters of public importance may potentially proceed, as discussed further below. The interests of justice has been described as a broad and flexible concept, for which Borowski supplied the framework.[17]
+[27] The three main Borowski factors[18] operate as follows:
+Whether a sufficient adversarial context exists: a court’s competence to resolve disputes finds its roots in the adversarial system, and if an adversarial relationship prevails even after a live controversy ceases, that may militate towards allowing a matter to proceed. For example, there may be collateral consequences arising from a given outcome that provide an adversarial context. In Borowski, the Supreme Court of Canada canvassed Vic Restaurant Inc.,[19]a case in which a restaurant litigated over certain permits, including arguing that the relevant bylaws were ultra vires. Related to the civil dispute were charges for operating without a license in violation of those bylaws. The restaurant was sold in the meantime, and the license year had expired, so litigation to obtain the permits was pointless. However, an adversarial context still existed because of the related charges, which justified proceeding with the challenge to the bylaws.
+Considerations of judicial economy: judicial resources are limited and demand is high. Special circumstances are required to divert resources, which could be devoted to other pressing matters, to an essentially theoretical issue.
+Expending judicial resources maybe warranted where hearing a moot issue may have some practical effect on the rights of the parties, or where disputes are recurring but brief, such that important questions never make it to court. The example given was interlocutory injunctions against strike action: by the time cases reach court (especially the apex court), strikes will have settled, making it challenging for important issues to be judicially determined.
+The role of the courts, including avoiding opinion on hypothetical, academic questions: this component of the test recognizes the place of the courts in the wider law-making process and framework. If a legal issue is untethered from any practical outcome, a court that offers an opinion may be regarded as intruding into the domain of the legislature.
+[28] The onus is on the party seeking to proceed to satisfy the Court that a moot matter should not be terminated.[20] The Court should only exercise its discretion to allow a moot issue to be considered in exceptional circumstances.[21]
+b) There is no Live Controversy [29] The Respondent’s position is that disputes are between parties, namely, the taxpayer and the Crown, and in this case Brass received all of its requested relief so there is nothing to litigate. The Respondent conceded on the CCA issue in open court and may not resile from that position. The remaining “issue” involves the status of the Policy.[22]
+[30] Brass’ position is that the Policy issue is part of a wider and active controversy involving the interpretation of certain provisions. Brass argues that its matter is relevant because the Minister has taken a contrary position in the Ituna appeal, regarding what Brass says is the same issue.
+[31] The parties’ positions regarding whether there is a live controversy may be distilled down to an issue of scope: is the analysis limited to the specific parties to an appeal, or should it be broader and take into account any connecting factors between Brass’ and Ituna’s appeals?
+[32] There was never any live controversy regarding any Policy issue as between the Minister and Brass. The only dispute involving the Policy was Brass challenging its own filing position.[23]
+[33] The question remains: can the non-issue in Brass’ appeal be kept on life support to help Ituna, on the basis their issues may be considered synoptically? No.
+[34] Brass’ argument is a departure from principles rooted in fiscal law enacted by Parliament. Sections 169 and 171 of the Act contemplate a taxpayer disputing their own assessment. Where provisions in Division J contemplate issues concerning multiple taxpayers, those provisions are express (for example, s. 174).
+[35] The Tax Court’s jurisdiction is granted and limited by statute, and the Act establishes that an appeal may be allowed or dismissed. Allowing an appeal would result in a disputed assessment of a taxpayer being varied, vacated or sent back to the Minister for reconsideration and reassessment. That is the extent of it. The categories of relief are closed.
+[36] Brass’ amended notice of appeal argues at length that the Policy is not exempt and its prayer for relief includes the Court confirming that treatment. However, that is not a live issue, and the underlying assessment cannot be vacated on that basis. Sending the matter back for reconsideration and reassessment on that basis accomplishes nothing.
+[37] The relevant provisions are not ambiguous. Parliament established an appeals scheme that operates at the taxpayer level, and nothing in the legislative scheme allows for a zombie appeal to lurch to the aid of another, whether or not there is some linkage between them.
+[38] Further, and respectfully, the theory advanced by Brass on the motion fails if the goal is to assist assessment litigation on behalf of Ituna. If the Objection was correctly determined on the facts and law, and the Ituna appeal concerns similar facts, the Ituna appeal still rests on its own merits such as they are. The Brass appeal does not provide any shortcuts to assist in determining another assessment dispute on the merits. If elemental facts of the other appeal are distinguishable from Brass’ case, referencing Brass adds nothing. If the Objection was determined based on the Minister’s misapprehension of the facts or law, then once again, referencing Brass adds nothing to the exercise of determining another assessment dispute. There is no way to spin the Brass appeal that makes it helpful or relevant to another taxpayer’s tax assessment. A generalized blanket argument that the Minister reached inconsistent results, and that such inconsistency must be subject to judicial scrutiny and legal interpretation, does not broaden the scope of “live controversy” for tax appeal purposes.
+c) Brass’ Moot Appeal Cannot be Saved [39] Brass’ appeal is moot. Can it continue, based on the Borowski factors or any other bases? No.
+1. No Adversarial Context [40] First, does a sufficient adversarial context exist? No. There is no other pending administrative dispute or litigation for Brass that depends on a conclusion in this Tax Court appeal. Could a dispute involving the tax status of the Policy arise again in Brass’ future? Perhaps. But each taxation year and assessment thereof is a separate cause of action, and any future dispute can be decided if or when it arises, on its merits, if any.
+[41] As noted above, Brass argued that the Court should look beyond the immediate appeal and consider it in the wider context to which the Brass appeal is relevant. The theory is that the outcome of Brass’ Objection is inconsistent with the Respondent’s position in Ituna’s case and, since such inconsistency is relevant and meaningful, the Brass outcome may be transplanted into the other appeal. For the reasons articulated above concerning the lack of any live controversy, there is no adversarial context involving Brass for the 2023 taxation year as it relates to the Policy.
+[42] To be clear, Brass and each of the LPs are separate entities and while they may share proximate assets (for example, IA issued the Brass and Ituna policies), having Mr. Selke in common does not cause their distinct appeals to coalesce into anything approximating a single dispute. This remains true even if Mr. Selke professes to be confused about how to file returns for the various entities because of the supposed differential treatment of them. In this regard, Canada has a self-assessment tax system. A taxpayer who needs guidance can seek professional advice, do their own research, and/or seek from the CRA some comfort by way of a ruling or technical interpretation. Mr. Selke has options to seek to confirm how to file returns. Each of the LPs holds policies that the CRA considers exempt, a position that the Respondent upholds. A tax professional might reasonably be expected to advise Mr. Selke to take the “win” and file on the basis that LP investment income under their policies is tax-exempt. A truly concerned officer or director might seek to reserve against a possible dispute in the future and hold funds, depending on the strength of professional advice. Then, if the CRA takes an adverse position on an open year, and assesses tax, a bona fide dispute may be advanced and assessed tax paid down to mitigate interest. In my view, tax compliance in the circumstances is far less challenging than Brass’ counsel may suggest. In fact, I doubt any other taxpayer or corporate director in the country would struggle with how to file tax returns in the circumstances. It is simply not that plausible a problem.
+[43] At the hearing, counsel for Brass indicated that the insurers were monitoring the various appeals, which indicates an adversarial context. There are problems with that submission. First, the adversaries in the Tax Court proceedings are Brass, and the Respondent and, separately, each LP and the Respondent. No other pending litigation in any other forum was flagged.[24] In paragraph 19 above, I described the real underlying issue animating the appeals, which is a business issue not an assessment dispute. I also referred to counsel’s submission that a Tax Court interpretation of Regulation 306 could be adopted and enforced by a regulator against the insurers. However, describing this hypothetical scenario as an adversarial context would be an exaggeration – it is simply too vague and speculative.
+[44] There may be a Rule 99 motion for non-party discovery. Even if the insurers oppose and seek to make submissions, wishing to avoid being drawn into the Tax Court appeals does not make them adversarial to Brass. Discovery is a costly and time-consuming process, and there is no upside for a third party.
+[45] Further, I was not directed to any specific information in the record that addressed any other potential, tangible concerns of the insurers as it relates to the Brass matter.[25] Finally, I asked counsel whether the insurers should be offered standing, and he was not open to that, which further undermines an argument that the insurers’ interest in the tax appeals amounts to an adversarial context. As far as the Tax Court is concerned, the interests of the insurers in these matters, if any, are irrelevant – they do not have pending litigation with a nexus to the issues in the Brass or Ituna’s appeals against their assessments. No insurer has sought to intervene in the Brass or Ituna appeals, nor does Brass’ counsel want them to have standing. There is nothing to support the conclusion that there is an adversarial context involving the Brass appeal that would justify the matter continuing despite being moot.
+2. No Basis to Consume Judicial Resources [46] Second, considerations of judicial economy: do the circumstances recommend devoting limited resources to the Brass appeal? No. Admittedly, the extent to which the Brass appeal may consume judicial resources is an open question. That said, Brass has other pending motions, and if the procedural history of these matters is an indication, more procedural challenges may potentially be in the offing.
+[47] The second Borowski criterion also considers whether continuing a moot matter would have some practical effect on the rights of the parties (as in, Brass and the Respondent). The answer to that is no. If Brass’ appeal proceeded, no practical relief is possible for Brass. Further, for reasons articulated above, I do not accept that the Brass appeal is relevant to another appeal. Another concern with allowing the Brass appeal to continue is that it may encourage further, similar strategic litigation that consumes judicial resources without good reason.
+[48] Brass’ counsel argued that expending judicial resources may be acceptable because the relevant regulations have never been judicially interpreted. His exact words were that the regulations have evaded review and that this is a developing area of law. Respectfully, these submissions are not persuasive. The second Borowski criterion may be engaged where a dispute concerns matters that are recurring but brief, such that important questions never make it to court. Assessment disputes are not brief candles. As and when a viable Regulation 306 case comes along, the Court would no doubt have sufficient time to hear it.
+3. Role of the Courts [49] Third, the role of the courts in the wider law-making process and framework: this strikes me as a neutral factor. Continuing the Brass appeal does not risk treading on legislators’ toes, necessarily. The point of the Brass appeal is to preserve and advance the idea that the Minister accepted that the Policy was not exempt. This strategy does not amount to inviting the Court to opine on a matter that might be better left to the legislature.
+4. Conclusion Regarding Borowski Factors [50] On balance, the Borowski factors do not support an exercise of discretion to grant the extraordinary remedy of allowing a moot appeal to proceed. As referenced above, the Borowski factors are meant to inform the overall interests of justice. Is there any basis other than the Borowski factors to allow the Brass appeal to proceed? No. In this regard, the Respondent argued that it is not in the interest of justice for the Brass appeal to continue, and that it is an abuse of process to prosecute an appeal that is clearly moot. That submission has merit.
+5. Public Interest Criterion Does Not Save Brass [51] Then there is the public interest. Tremblay v Daigle[26] properly continued despite the Supreme Court of Canada learning that the appeal was moot during the hearing. The logic was that although Ms. Daigle had an abortion, thus rendering the appeal concerning fetal rights moot, the issues raised were too important, as a matter of public interest, and so the appeal proceeded. The Borowski factors were not expressly considered in Tremblay v Daigle. Nonetheless, the case serves as an example of a moot case that proceeded because it involved a significant legal issue, the clarification of which was of broad public importance.
+[52] The blanket category of “public importance” does not assist Brass. Yes, tax affects the general public, but in asymmetrical ways. Whether income earned in an investment component of a policy is exempt or not is not a matter of public importance analogous to reproductive rights, for example.
+[53] Brass argued that Regulation 306 has not been judicially interpreted in the decades since it was enacted, and that the outcome of these somewhat linked appeals may affect many policyholders. However, even if these matters involve untested law or are otherwise potentially relevant to the tax system, which are open questions and possibly hyperbolic, those arguments are not persuasive, let alone determinative. Cases are generally decided on their facts and even jurisprudential tax cases of broad application must be amenable to genuine relief from a tax assessment. To state the obvious, an appeal to this Court framed as an assessment dispute has to be an assessment dispute, not a referendum on an aspect of law that interests, frustrates or confuses a taxpayer.
+6. No Declaratory Relief [54] I also note that at paragraph 82(a) of the Brass amended notice of appeal, the relief sought is the Court’s confirmation that the Policy is not an exempt policy pursuant to the relevant regulations. Inasmuch as that conclusion would not result in any tax adjustment, and in light of the phrasing, the relief sought appears in substance to be declaratory relief. The Supreme Court of Canada has affirmed that the Tax Court does not have jurisdiction to grant declaratory relief.[27]
+[55] Here I will also address the relevance of Imperial Tobacco. Yes, that case urges caution so that novel claims that may redefine the law are not pre-empted. Brass is not such a case. It is trite and foundational that the Tax Court does not grant declaratory relief and, when you cut through the fog and evaluate the dispute realistically, that is in substance what Brass seeks.
+[56] Novel claims sometimes succeed, as was the case in Donahue v Stevenson, which was referenced in Imperial Tobacco. However, Donahue v Stevenson was a seminal common law tort case – a body of law founded and advanced by judicial decisions. By comparison, the Tax Court is a statutory court charged with the duty of interpreting and applying detailed statutory provisions in the context of assessment litigation. The “evolution” of statutory law is the domain of Parliament. The Brass appeal is not a snail in the ginger beer moment, but rather an attempted end-run around established law.
+7. Heads I Win, Tails You Lose [57] Brass’ counsel proposed that if the appeal went forward and the Court held that the Policy was exempt then Brass would be entitled to a further reassessment to reduce its tax to the extent of the $97 inclusion, which would vindicate Brass’ appeal rights. Expressed more simply: for Brass, a “win” means the Policy is not exempt (this is the entire point of the Objection and the appeal);[28] but that “win” means the appeal is devoid of any practical effect, since there is no assessment relevant to the Policy to appeal to the Court; however, a “loss” in this Court means the Policy was exempt (contrary to Brass’ position throughout), which is a “win” because it would reduce the assessed tax. Since assessment disputes are limited to seeking cumulative downward adjustments, the idea is that if the relief requested by Brass is denied, its appeal would transform from futile to valid because it would result in a downward adjustment. Thus, paradoxically, “losing” its appeal is not a death but a resurrection.
+[58] “Heads I win, tails you lose” is a good bet. However, and with respect, allowing the Brass appeal to continue on that basis would require an unacceptable level of logical contortion. Counsel’s innovative submission does not accord with the purpose of pleadings or, for that matter, the prescribed form of pleadings. Rule 48 mandates the use of either Form 21(1)(a), (d), (e) or (f). Brass was obligated to use the content of Form 21(1)(a) which includes, inter alia, indicating the relief sought. These are not mere formalities, but requirements to ensure that issues are properly defined, and that facts, law and arguments are delineated.[29] As noted, pursuant to Brass’ amended notice of appeal, the relief sought regarding the Policy is the conclusion that it is not an exempt policy. Proposing to rely on relief other than the requested relief as a basis for creating viable appeal rights does not accord with the Rules or the prescribed form.
+8. The Mosten Motions [59] Mosten survived a motion to strike which was heard together with a Rule 58 motion. Mosten was the first LP to file a notice of appeal, which likely accounts for why the motion to strike did not include the other LPs. Mosten’s survival was based on CBS Holdings,[30] relied on for the proposition that a taxpayer may request and be granted an upward adjustment of income tax. CBS Holdings concerned a unique issue: the enforcement of a freely made settlement from which the Crown sought to resile. The cumulative effect of the settlement agreement was to reduce tax payable, even though in one of the affected years a capital loss would be disallowed. And while the taxpayer may have sought the upward adjustment in one year, that outcome was agreeable to the Respondent following a lengthy negotiation process, before it later changed its position.
+[60] In the Mosten motion(s), the transcript of brief oral reasons discloses the rationale for denying the Rule 58 motion. The reason why the motion to strike failed was set out in one paragraph of the Court’s Order, which referred to CBS Holdings considered together with the “plain and obvious” standard.
+[61] Brass’ counsel says its appeal should not be struck for some of the reasons articulated in the Mosten motion. I disagree. I am not bound by that outcome, nor persuaded, insofar as the facts of the Brass appeal are distinguishable. Brass is not seeking an upward adjustment to its tax liability,[31] but rather it is advancing a moot appeal, and I have already rejected the argument that this Court can grant what is in substance declaratory relief.
+9. Conclusion on Motion to Strike [62] In summary, the impugned paragraphs 10 to 27 of the amended notice of appeal are struck without leave to amend. To mitigate any uncertainty, to the extent that any further paragraphs of the amended notice of appeal include any facts concerning the Policy, they must also be struck, which the Court is permitted to do under Rule 53. Therefore, for greater certainty, paragraphs 34(a) and 37 through 73, inclusive, are also struck. There was no need to consult with the parties regarding the Court’s initiative to strike further paragraphs, since the result is simply the logical outcome of the arguments on the motion to strike.
+[63] In light of the foregoing, there is no need to evaluate the Respondent’s further complaints that the Brass amended notice of appeal improperly pleads evidence and argument, although those complaints have merit.
+IV. Motion to Strike Portions of the Selke Affidavit [64] The Respondent relies on Rules 19, 72 and 111 on its motion to strike enumerated portions of the Selke Affidavit.
+[65] Rule 19(2) reads as follows:
+An affidavit shall be confined to a statement of facts within the personal knowledge of the deponent or to other evidence that the deponent could give if testifying as a witness in Court, except where these rules provide otherwise.
+[66] The Respondent relies on 506913 NB Ltd.:[32]
+With respect to the speculation, opinions, arguments and legal conclusions contained in the Affidavits, the usual remedy is to strike out the offensive portions of the Affidavit. However, if the relevant portions are not severable then the entire Affidavit is struck.
+[67] The Respondent also relies on Quadrini:[33]
+… As a general rule, the affidavit must contain relevant information which would be of assistance to the Court in determining the application. As stated by our Court in Dwyvenbode, the purpose of an affidavit is to adduce facts relevant to the dispute without gloss or explanation. The Court may strike affidavits, or portions of them, where they are abusive or clearly irrelevant, where they contain opinion, argument or legal conclusions, or where the Court is convinced that admissibility would be better resolved at an early stage so as to allow the hearing to proceed in a timely and orderly fashion …
+[emphasis in original]
+[68] And finally, Gold Line:[34]
+Precedential framework exists for the determination of appropriate circumstances to strike an affidavit. These are:
+i. The paramount purpose of an affidavit is to adduce facts relevant to the dispute without gloss or explanation.
+ii. The Court may strike affidavits, or portions of them, where:
+i. they are abusive or clearly irrelevant;
+ii. where they contain opinion, argument or legal conclusions; or
+iii. where the Court is convinced that admissibility would be better resolved at an early stage so as to allow the hearing to proceed in a timely and orderly fashion.
+The discretion to strike an affidavit, or part of it, should be exercised sparingly and only in exceptional circumstances. The rationale for setting this high bar is to avoid an inadvertent pre-emptive decision on the merits at an interlocutory stage. Examples of when it is appropriate to strike an affidavit include where a party would be materially prejudiced by not striking it, where not striking an affidavit would impair the orderly hearing of the application, where it is in the interest of justice to do so, or where the issue of admissibility is clear-cut.
+[69] While the Respondent argued that the impugned portions of the Selke Affidavit were clearly offside based on the case law, Brass’ argument was that the threshold for striking an affidavit is high, that the impugned content was information within the scope of Mr. Selke’s belief and that in any case there was no material prejudice to the Respondent. Brass contends that the Respondent did not demonstrate that it suffered any harm by the information that was included in the Selke Affidavit, and that the information was otherwise in the record in one form or another already.
+[70] The impugned paragraphs from the Selke Affidavit are set out below with my evaluations:
+13. The Appellants’ evidence is that the Insurers’ policy administration systems are not capable of complying with paragraph 306(1)(a) of the ITR. Therefore, due to the systemic flaws in the Insurers’ policy administration systems, it is not reasonable to assume that the exempt tests will ‘pass’ in the future. Accordingly, all insurance contracts administered by the computer systems in issue in these appeals must fail the exempt tests pursuant to paragraphs 306(1)(b) and 306(8) of the ITR.
+This paragraph is argumentative, and whether facts satisfy a regulatory or statutory requirement is a legal conclusion.
+15. The Mosten Appeal, Atwater Appeal, Ituna Appeal and Brass Collar Appeal (collectively, the “Appeals”) have common issues of fact and law arising out of the exempt testing required under section 306(1) of the ITR.
+Whether matters feature common issues of fact and law is a legal conclusion.
+16. The examinations for discovery in the Mosten Appeal, Atwater Appeal and Ituna Appeal took place on June 10, 11 and 12, 2025. During these examinations for discovery, the crown’s representative, Ryan Bousquet, confirmed…
+I have omitted from the above paragraph any questions and answers excerpted from the discovery transcript, and I have not closely read them or perused any other portions of discovery transcripts in these matters. An examination for discovery transcript can be used as evidence on a motion.[35] However, under Rule 111(2), a transcript copy for use at a hearing shall not be filed until a party refers to it at a hearing, and the judge may only read the portions to which a party refers. Rule 100 allows portions of evidence received at an examination for discovery to be read in. My concern with including excerpts from the examination of the Minister’s nominee is that they are composed of the nominee’s evidence under oath, not facts known to Mr. Selke. The parties are therefore recommended to follow the guidance of Practice Note 8 (as amended). Counsel for Brass and the LPs should bring sufficient copies of the transcript to the hearing of the consolidation and non-party discovery motions and file a copy with the Court at that time.
+17. In summary, CRA’s position is the same in the Mosten Appeal, Atwater Appeal and Ituna Appeal; namely, the exempt status provisions contained in the Contracts make changes to the Policies automatically on their respective policy anniversaries, because that is what the Insurers and the Appellants agreed and it does not matter when the exempt tests are conducted or when changes are made in the policy administration systems which are administering the Contracts in real life (the “Contract Changing Reality Position”). CRA’s position, therefore, is that the changes, made by the Insurers, then result in the exempt tests ‘passing’ on the respective policy anniversaries; irrespective of when the tests and corrections occur.
+Speaking for the other side and characterizing their position is prejudicial, as is the tendentious definition that was included.
+18. Whether the Contract Changing Reality Position is correct at law, and the application of the exempt tests to the facts of each of the Appellants, are common questions of fact and law. The Mosten Appeal, Atwater Appeal and Ituna Appeal ought to be heard together.
+This paragraph is composed of argument and legal conclusions.
+21. This result is not possible due to paragraph 306(1)(b) of the ITR. Both the IA Policies are either exempt or non-exempt. As such, the Ituna Appeal and Brass Collar Appeal are dealing with the same legal and factual issue and ought to be consolidated. Unfortunately, CRA has made contrary determinations and the issue in both appeals should be determined by the Honourable Tax Court so the correct filing position for both appellants can be determined at the same time.
+This paragraph is composed of opinion, argument and legal conclusions.
+22. CRA cannot be correct in both the Ituna Appeal and the Brass Collar Appeal. Therefore, granting the respondents motion will allow CRA to avoid scrutiny of its inconsistent findings (which is contrary to the Taxpayer Bill of Rights) and results in inconsistent filing positions between taxpayers. Accordingly, the Ituna Appeal and Brass Collar Appeal ought to be consolidated and the issue determined at trial.
+This paragraph is composed of opinion, argument and legal conclusions, together with a reference to the Taxpayer Bill of Rights which is irrelevant in assessment litigation.
+24. During the examinations for discovery on June 10, 11 and 12, 2025 in the Mosten Appeal, Atwater Appeal and Ituna Appeal, the crown’s representative, Ryan Bousquet, also confirmed that…
+See the guidance set out above regarding paragraph 16 of the Selke Affidavit.
+30. Given CRA’s Contract Changing Reality Position and contrary determination in the Ituna Appeal, this question is still very much in controversy between the parties. Brass Collar does not accept that the IA Policies can be exempt and non-exempt at the same time.
+This paragraph is composed of opinions, arguments and legal conclusions. Further, whether Brass accepts anything vis-à-vis the policies or the affairs of any other taxpayer is irrelevant.
+31. I still do not know how to accurately file Ituna’s and Brass Collar’s tax returns. Indeed, if CRA’s Contract Changing Reality Position is correct, then Brass Collar will owe additional taxes. Accordingly, the issue of the interpretation and application of section 306 of the ITR is a live controversy between the parties and there is tax at issue. The interests of justice require that justice be done and appear to be done. Allowing CRA to take contrary positions and tax taxpayer’s inconsistently is not in the interests of justice or the interests of proper tax policy and administration.
+The first sentence can remain as an assertion that could be a belief of the affiant. The remainder of the paragraph is composed of opinion, argument and legal conclusions.
+32. The determination of this issue at trial will practically impact both Ituna and Brass Collar and is an issue of public importance because section 306 of the ITR has never been interpreted before and the determination impacts those policyholders whose life insurance policies with the Insurers have been improperly administered by the flawed policy administration systems.
+This paragraph is composed of opinion, argument and legal conclusions.
+33. Accordingly, the Appellant respectfully requests that the Brass Collar Appeal is consolidated with the Ituna Appeal and the Insurers are ordered to attend examinations and clarify the time, date and process of the exempt testing performed on the Appellants’ policies.
+This paragraph is composed of argument and legal conclusions. Making a request for relief is a bridge too far.
+34. Granting the orders requested will help ensure the Honourable Tax Court of Canada has all the facts and evidence it needs before it at trial to interpret section 306 of the ITR and determine the ‘exempt policy’ status of the Appellants’ Policies.
+This paragraph is composed of argument and legal conclusions.
+[71] Subject to the limited exception set out above, the impugned paragraphs are struck with leave to amend. The logic is clear cut – the statements are offside and in some cases dramatically so, whether the affiant believed them or not. While the impugned paragraphs include information that may be put before the Court in other forms is beside the point. Opinions, arguments, legal conclusions and outright advocacy do not belong in an affidavit. An exception may lie for an expert giving an opinion, which is not the case here. Finally, I do not accept counsel’s submissions that the Respondent must establish material prejudice in order for the paragraphs to be struck.[36] Rather, prejudice to the other side is established when the content of an affidavit is clearly and frequently improper, as is the case here.
+V. Costs [72] The Respondent is entitled to costs in accordance with the Tariff.
+Signed this 9th day of April 2026.
+“J.A. Sorensen”
+Sorensen J.
+CITATION:
+2026 TCC 62
+COURT FILE NO.:
+2022-2596(GST)G, 2022-1728(IT)G, 2023-244(IT)G, 2023-252(IT)G
+STYLES OF CAUSE:
+BRASS COLLAR CAPITAL CORP.
+MOSTEN INVESTMENT LP
+ITUNA INVESTMENT LP
+ATWATER INVESTMENT LP
+AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+March 16, 2026
+REASONS FOR JUDGMENT BY:
+The Honourable Justice John A. Sorensen
+DATE OF JUDGMENT:
+April 9, 2026
+APPEARANCES:
+Counsel for the Appellant:
+Charles Haworth
+Counsel for the Respondent:
+Niloofar Sharif
+Mike Chen
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Charles Haworth
+Firm:
+Radnoff & Haworth LLP
+For the Respondent:
+Marie-Josée Hogue Deputy Attorney General of Canada Ottawa, Canada
+[1] For ease of reference, in these reasons the Crown is described as the Respondent rather than the Moving Party and Brass as the Appellant.
+[2] These judgments and reasons are combined in a single document for ease of reference and convenience. None of the four appeals have been consolidated, nor has there been an order directing that the proceedings be heard together or sequentially.
+[3] Tax Court Rules (General Procedure), SOR/90-688 (the “Rules”).
+[4] Brass also disputed the Minister’s conclusion that it was a “large corporation” under the Act. The Respondent conceded at the hearing that Brass was not a large corporation for income tax purposes.
+[5] The increase from $488.52 (as assessed) to $521.32 was most likely due to interest accrual at prescribed rates.
+[6] Income Tax Act, RSC 1985 c. 1 (5th Supp.) (as amended) (the “Act”).
+[7] The reassessment that was issued pursuant to the Objection was joined to the appeal pursuant to s. 165(7) of the Act.
+[8] The purpose of Schedule 1 is to adjust accounting net income (reported on corporate financial statements) to taxable income. Accountants may describe this as a book-to-tax reconciliation.
+[9] I was not directed to any further information in the record that would confirm the ownership structure or relationships between Brass, the LPs, the GP or any other officers or directors, which is why I speak of “linkage” as opposed using a tax-specific term.
+[10] R v Imperial Tobacco Canada Ltd., 2011 SCC 42 (“Imperial Tobacco”).
+[11] RSC 1985, c. T-2.
+[12] Canada (Attorney General) v Bruner, 2003 FCA 54, at paragraph 3.
+[13] Canada v Interior Savings Credit Union, 2007 FCA 151, at paragraph 15.
+[14] Borowski v Canada (Attorney General), [1989] 1 SCR 342 (“Borowski”).
+[15] Hryniak v Mauldin, 2014 SCC 7, at paragraph 58. For example, with respect to summary proceedings versus a full trial, the cost, speed and the calibre of the evidentiary record may be compared.
+[16] Hutton v Sayat, 2023 FCA 22, at paragraph 6. See also Sport Maska Inc. v Bauer Hockey Corp., 2016 FCA 44, at paragraph 43.
+[17] R v Smith, 2004 SCC 14, at paragraph 41. Counsel also referred to paragraphs 44 and 46 to urge a flexible approach by which the Court’s exercise of discretion should be informed by all of the relevant circumstances.
+[18] The Borowski criteria are not exhaustive, since the Supreme Court did not wish to unduly fetter the discretion of judges in future cases (see Borowski at page 358).
+[19] Vic Restaurant Inc. v City of Montreal, [1959] SCR 58.
+[20] McCauley v the Ontario Parole Board, 2021 ONSC 1874, at paragraph 5; and Maystar General Contractors Inc. v International Union of Painters and Allied Trades, Local 1819, 2008 ONCA 265, at paragraph 32.
+[21] Simone v 1312733 Ontario Inc., 2020 ONSC 6546, at paragraph 7, relying on Tamil Co-operative Homes Inc. v Arulappah, 49 OR (3d) 566 (ONCA).
+[22] On a Rule 53(1) motion to strike, the Court may strike all or part of a pleading. Because the Court may strike parts of a pleading, it may consider matters on an issue-by-issue basis. Therefore, it is open to me to consider the viability of the portions of the amended notice of appeal that concern the Policy, even if the Respondent had not conceded the CCA issue.
+[23] I note in passing that the reply suffers from some flaws, which were pointed out in the answer. In places, the reply contradicts itself. For example, the Ministerial assumptions stated that the Appellant was a limited partnership, and also that it was incorporated in Ontario. The Issues and Reasons listed in the reply refer to the Minister’s determination that the Policy was exempt, which appears to be inconsistent with allowing the Objection. These discrepancies are peripheral concerns. The Minister reassessed following the Objection to include the $97 of investment income in Brass’ income, which fact is unaltered by any perceived drafting faults in the reply.
+[24] Litigation concerning policies held by each of the LPs was undertaken before the Saskatchewan courts and appears to have been concluded in 2021 when the Supreme Court of Canada refused to grant leave to appeal. The judgments from the Saskatchewan courts mention the Tax Court. It goes without saying that the courts of a province do not have the power to confer jurisdiction on the Tax Court and their understandings and/or misunderstandings, as the case may be, are academic.
+[25] Oral reasons for judgment given on November 30, 2023 in a Rule 58 motion filed by Mosten suggest that the Mosten appeal may affect an insurer and possibly other policyholders. Later, the motion judge commented that a decision in the matter may have an impact on the insurance industry, again in a Rule 58 context. I was not provided with any clear, objective or authoritative source by which to evaluate the wider significance of these matters to the insurers.
+[26] Tremblay v Daigle, [1989] 2 SCR 530.
+[27] Canada (Attorney General) v British Columbia Investment Management Corp., 2019 SCC 63, at paragraph 41.
+[28] But for the CCA issue which the Respondent would concede.
+[29] Reyes v The King, 2023 TCC 31, at paragraph 86.
+[30] Canada v CBS Canada Holdings Co., 2020 FCA 4 (“CBS Holdings”).
+[31] The survival of the Mosten appeal on the motion to strike, based on CBS Canada, should not be taken as an endorsement of the idea that taxpayers may seek upward adjustments in order to test the law or extract a judicial interpretation of a provision for purposes unrelated to assessed tax. Although I distinguished the Brass motion from the Mosten motion on the basis that Brass is not seeking an upward adjustment, readers should not take this as endorsing the idea that appellants may freely adopt the strategy deployed by the LPs and seek cumulative upward adjustments.
+[32] 506913 NB Ltd v The Queen, 2012 TCC 210, at paragraph 99.
+[33] Canada (Attorney General) v Quadrini, 2010 FCA 47, at paragraph 18.
+[34] MNR v Gold Line Telemanagement Inc. (“Gold Line”), 2024 TCC 119, at paragraphs 10 and 11.
+[35] However, a party may not rely on the discovery answers of its own nominee as evidence since they would not have been cross-examined on credibility pursuant to the prohibition in Rule 95(1)(b). See Kossow v The Queen, 2008 DTC 4408 (dismissed on other grounds [2009] 3 CTC 227; leave denied).
+[36] See paragraph 11 of Gold Line.

@@ -1,0 +1,133 @@
+Title: Paquette v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30310/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-208-30310-paquette-v-the-queen-en.md
+Document type: case_law
+Last modified: 2011-04-18
+
+# Paquette v. The Queen
+
+- Citation: 2011 TCC 208
+- Decision date: 2011-04-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8078, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Paquette v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-04-18
+Neutral citation
+2011 TCC 208
+File numbers
+2010-470(IT)I
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-470(IT)I
+BETWEEN:
+ALEXANDRE PAQUETTE,
+Appellant
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on January 21, 2011, at Ottawa, Ontario.
+Before: The Honourable Chief Justice Gerald J. Rip
+Appearances:
+Agent for the appellant:
+Michel Bédard
+Counsel for the respondent:
+Marie-France Camiré
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment under the Income Tax Act (the Act) for the 2008 taxation year is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the penalty imposed under subsection 163(1) of the Act is cancelled.
+Signed at Ottawa, Canada, this 18th day of April 2011.
+“Gerald J. Rip”
+Rip C.J.
+Translation certified true
+On this 30th day of May 2011
+Monica F. Chamberlain, Reviser
+Citation: 2011 TCC 208
+Date: 20110418
+Docket: 2010-470(IT)I
+BETWEEN:
+ALEXANDRE PAQUETTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Rip, C.J.
+[1] It is not disputed that Alexandre Paquette, the appellant, failed to report employment income of $955 received from Protect Security Services Ltd. in the 2006 taxation year and that two years later, in 2008, failed to report employment income of $18,941 from Greyhound Canada Transportation Corp. (Greyhound). As a result of these omissions, under subsection 163(1) of the Income Tax Act (the Act), the Minister of National Revenue (the Minister) imposed a penalty of $1,779.10 on the appellant for 2008, 10 percent of $17,791, the difference between the amount not declared in 2008 ($18,941) and the amount of the registered pension plan contributions ($757) and union dues ($393). What is at issue here is what constitutes the due diligence defence that may be invoked under subsection 163(1) of the Act, which states the following:
+Every person who
+(a) fails to report an amount required to be included in computing the person's income in a return filed under section 150 for a taxation year, and
+(b) had failed to report an amount required to be so included in any return filed under section 150 for any of the three preceding taxation years
+is liable to a penalty equal to 10% of the amount described in paragraph (a), except where the person is liable to a penalty under subsection (2) in respect of that amount.
+Toute personne qui ne déclare pas un montant à inclure dans le calcul de son revenu dans une déclaration produite conformément à l'article 150 pour une année d'imposition donnée et qui a déjà omis de déclarer un tel montant dans une telle déclaration pour une des trois années d'imposition précédentes est passible d'une pénalité égale à 10 % du montant à inclure dans le calcul de son revenu dans une telle déclaration, sauf si elle est passible d'une pénalité en application du paragraphe (2) sur ce montant.
+[2] The appellant was almost 30 years old at the time of the hearing. In 2008, the appellant worked for Greyhound as a "service man" in Ottawa. He still works for Greyhound. His work involves cleaning the coaches and checking the motor oil and tire pressure. He is now living with his father.
+[3] During his very credible and clearly trustworthy testimony, the appellant explained that he had always had difficulties with French and mathematics and the he did not understand much about tax matters other than that the government deducted tax from his income. His father, Michel Bédard, who also works for Greyhound, has prepared his income tax returns since he began working.
+[4] In fact, Mr. Bédard represented the appellant during the appeal. He put in evidence an assessment from a resource teacher describing his son's learning difficulties that go back twenty years. Despite these problems, the appellant was able to finish grade 12 in an adapted class. He has a Facebook account and an email account.
+[5] On or about April 15, 2009, the appellant, through his father, filed his 2008 income tax return. The return was filed electronically. The appellant has always given his father all of the relevant documentation such as T4 slips, but he never gave him his pay stubs. The father has always declared his son's income according to the information contained in the T4 slips available to him.
+[6] At the time of preparing his income tax return in 2008, the appellant had not received the T4 slip from Greyhound pertaining to employment income of $18,941.66. In winter 2009, the appellant contacted his employer to obtain his T4 slip without success. He also contacted the landlord of the apartment he had been living in at the time. He still had not received his T4.
+[7] Mr. Bédard stated that he knew when he prepared the 2008 return that his son’s T4 slip was missing. He decided to file his son's tax return before the April 30, 2009, deadline without including the Greyhound income on the belief that he could be reassessed later with the income in question. He said that he did not think that it was important to include this amount of income since source deductions had already been made on it. The father never asked the Canada Revenue Agency (CRA) about the situation. The appellant's father testified that his son never received a notice of assessment; he was waiting for a notice of assessment. He only received a notice of reassessment. It was only after receiving the notice of reassessment that he contacted the CRA. His son was unaware of the situation. The testimony of Mr. Bédard and his son was very credible and not contested in cross‑examination.
+[8] The respondent submitted that the appellant had not exercised due diligence in reporting his income for 2008. As indicated above, the appellant acknowledged that he failed to declare income in 2006 and again in 2008.[1] The respondent maintains that the appellant was negligent by not informing the employer of his new address, which contributed to him not receiving his T4 slip on time.
+[9] In Résidences Majeau Inc. v. Canada[2] and Corporation de l'école polytechnique v. Canada[3] the Federal Court of Appeal stated that a defendant may rely on a defence of due diligence if either of the following can be established: that the defendant made a reasonable mistake of fact, or that the defendant took reasonable precautions to avoid the event leading to imposition of the penalty. In Résidences Majeau, Justice Létourneau explained:
+8 According to Corporation de l’école polytechnique v. Canada, 2004 FCA 127, a defendant may rely on a defence of due diligence if either of the following can be established: that the defendant made a reasonable mistake of fact, or that the defendant took reasonable precautions to avoid the event leading to imposition of the penalty.
+9 A reasonable mistake of fact requires a twofold test: subjective and objective. The subjective test is met if the defendant establishes that he or she was mistaken as to a factual situation which, if it had existed, would have made his or her act or omission innocent. In addition, for this aspect of the defence to be effective, the mistake must be reasonable, i.e. a mistake a reasonable person in the same circumstances would have made. This is the objective test.
+[10] Mr. Paquette has never prepared an income tax return. When he was nine years old, the school authorities noticed that he was having problems with reading and mathematics. Although he completed grade 12, it was in a program for students with learning disabilities. As he felt that he was not competent to prepare his income tax returns, the appellant relied on other people to do so. Since 2008, his father has prepared and filed his tax returns.
+[11] Crown counsel maintained that Mr. Payette knew that his 2008 tax return had been prepared without including a substantial amount of income, $18,941, but had done nothing to correct the situation before he received the notice of reassessment that included the $18,941 in his income.
+[12] The appellant testified that he had tried to obtain the T4 slip. He stated that he asked his former landlord if he had received it. Before moving, he had completed a change of address form for Greyhound. In the end, he never received the T4 slip or the notice of assessment. Following the instructions in the 2008 Income Tax Guide, he waited to receive a notice of assessment. What he actually received was a notice of reassessment.
+[13] Greyhound had deducted tax on the $18,941 paid to Mr. Paquette in 2008 and remitted this tax to the CRA. Mr. Paquette and his father knew that the amount of tax had been paid to the CRA.
+[14] There is no doubt that Mr. Bédard could have done something to avoid the imposition of the penalty. For example, he could have been more active and informed the CRA of his son’s new address and of the omission of the income. Mr. Bédard was responsible for his son's financial affairs, particularly with respect to taxation.
+[15] Mr. Paquette's income tax return was filed electronically. Mr. Bédard reiterated that his son never received a notice of assessment for 2008. The Court can only presume that the notice was sent to his old address. The 2008 Guide advises taxpayers who wish to amend their income tax return to wait to receive a notice of assessment before making any changes. Neither Mr. Bédard nor the taxpayer received a notice of assessment. Mr. Bédard contacted the CRA only after receiving a notice of reassessment. Mr. Bédard stated that he was not worried because Greyhound had deducted tax from Mr. Paquette’s salary.
+[16] The father claimed that he had followed the suggested procedure for when a T4 slip is missing. At the hearing, he acknowledged that he had committed errors in managing his son's income tax return, but stated that his son should not be penalized for these errors. Mr. Bédard never thought that his decisions would have such consequences.
+ANALYSIS
+[17] Subsection 163(3) of the Act provides that the burden of establishing the facts justifying the assessment of the penalty is on the Minister. Nevertheless, it is up to the taxpayer to prove due diligence. Thus, the taxpayer must present evidence that demonstrates that, when preparing the return, he or she used the required diligence or committed a reasonable mistake of fact.
+[18] The context of this case is specific. These are two persons with different abilities, the appellant and his father. The actions of the father and his son must be considered separately since the penalty is applied to punish the negligent actions of the taxpayer, specifically the failure to declare income for two years. Thus, it is evidence of due diligence on his part and not that of his father that would enable Mr. Paquette to avoid the penalty.
+[19] In this respect Dunlop,[4] presents similar facts to those in this appeal. Mr. Dunlop was a university student who worked part-time in 2005 and 2006. Mr. Dunlop failed to report income for 2005 because he had not received his T4 slip. He did not receive a T4 for 2006 either. Thus, he went to the store where he worked to try to obtain his T4 slip, without success. When he was at university, Mr. Dunlop had a temporary address; also his parents had moved in 2007. Mr. Dunlop’s father prepared his son's 2006 income tax return. The father wrote an estimate of the employment income on the return. Apparently, the estimate was accurate to within $1000. In determining whether Mr. Dunlop had shown due diligence, Justice Boyle looked at what the CRA advises taxpayers to do when they are missing a T4 slip.
+[20] In Dunlop, my colleague referred to the 2006 Income Tax Guide. Under the heading “What if you are missing information? ”, it is written:
+If you have to file a return for 2006, as explained on page 7, make sure you file it on time (see page 7) even if some slips or receipts are missing. If you know that you will not be able to get a slip by the due date, attach to your paper return a note stating the payer’s name and address, the type of income involved, and what you are doing to get the slip. To calculate the income to report, and any related deductions and credits you can claim, use any stubs you may have, and attach them to your paper return. If you are filing electronically, keep all of your documents in case we ask to see them.
+[21] Under the heading “How do you change a return?”, it is written:
+If you need to make a change to any return you have sent us, do not file another return for that year. You should wait until you receive your Notice of Assessment before requesting any change to a return that has not been processed. ...
+[22] The 2008 Guide that Mr. Bedard consulted has the same information. Moreover, there are special circumstances in this appeal.
+[23] I would allow the appeal. Mr. Paquette is not very educated. He knows his limits and this is why he asked his father to prepare and file his income tax returns. His father, Mr. Bédard, followed the instructions of the 2008 Income Tax Guide. Certainly, Mr. Bédard or Mr. Paquette could have made greater efforts to obtain the T4 slip and the notice of assessment. Considering the particular circumstances and fact situation, however, the appeal should be allowed.
+[24] The appeal is allowed.
+Signed at Ottawa, Canada, this 18th day of April 2011.
+“Gerald J. Rip”
+Rip C.J.
+Translation certified true
+On this 30th day of May 2011
+Monica F. Chamberlain, Reviser
+CITATION: 2011 TCC 208
+COURT FILE NO.: 2010-470(IT)I
+STYLE OF CAUSE: ALEXANDRE PAQUETTE v.
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Ontario
+DATE OF HEARING: January 21, 2011
+REASONS FOR JUDGMENT BY: The Honourable Gerald J. Rip, Chief Judge
+DATE OF JUDGMENT: April 18, 2011
+APPEARANCES:
+Agent for the appellant:
+Michel Bédard
+Counsel for the respondent:
+Marie-France Camiré
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] See Paul v. The Queen, 2008 TCC 159.
+[2] 2010 FCA 28.
+[3] 2004 FCA 127.
+[4] Dunlop v. Canada, [2009] T.C.J. No. 127 (QL), 2009 TCC 177.

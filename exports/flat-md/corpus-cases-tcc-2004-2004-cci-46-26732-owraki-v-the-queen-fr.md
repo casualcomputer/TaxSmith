@@ -1,0 +1,154 @@
+---
+title: "Owraki v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26732/index.do"
+last_modified: "2004-01-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 46"
+citation2: ""
+neutral_citation: "2004 CCI 46"
+decision_date: "2004-01-13"
+language: "fr"
+item_id: "26732"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3413
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:07:31.741000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e580c929c50a0533bacaa63bd8f781abdfead06aaf8e0ad9ac443e65a1b96eaf"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Owraki v. The Queen
+
+- Citation: 2004 CCI 46
+- Decision date: 2004-01-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3413, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Owraki v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-01-13
+Référence neutre
+2004 CCI 46
+Numéro de dossier
+2002-4935(GST)I
+Juges et Officiers taxateurs
+Terrence O'Connor
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2002-4935(GST)I
+ENTRE :
+NEHZAT OWRAKI,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de Kehram Owraki 2002-4938(GST)I le 17 décembre 2003 à Toronto (Ontario)
+Devant : L'honorable juge T. O'Connor
+Comparutions :
+Représentant de l'appelante :
+N. Sarkar
+Avocat de l'intimée :
+Me Eric Sherbert
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation établie en vertu de la Loi sur la taxe d'accise, qui porte le numéro 00000100419 et est datée du 29 avril 2002, est accueilli et l'affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation au motif que pendant la période en question, à savoir du 1er avril 2000 au 30 juin 2001, l'appelante a droit aux crédits de taxe sur les intrants demandés de 24 847,88 $ et l'appelante n'est passible d'aucune pénalité ni intérêt, le tout pour les raisons figurant aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 13e jour de janvier 2004.
+« T. O'Connor »
+Juge O'Connor
+Traduction certifiée conforme
+ce 5e jour de mai 2004.
+Ingrid B. Miranda, traductrice
+Référence : 2004CCI46
+Date : 20040113
+Dossier : 2002-4935(GST)I
+ENTRE :
+NEHZAT OWRAKI,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+ET
+2002-4938(GST)I
+KEHRAM OWRAKI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge O'Connor
+[1] Les présents appels ont été entendus sur preuve commune à Toronto, en Ontario, le 17 décembre 2003. Ont témoigné à l'audience Nurool Sarkar, représentant des appelants, Kehram Owraki et le vérificateur de l'Agence des douanes et du revenu du Canada (ADRC), M. Bovell. Plusieurs pièces ont été déposées.
+[2] On retrouve les faits et les questions en litige dans les paragraphes suivants, extraits de la Réponse modifiée à l'avis d'appel de l'appel de Kehram Owraki :
+8. Le ministre du Revenu national (le « ministre » ) a établi une cotisation à l'égard de l'appelant pour un montant total de 11 573,49 $ (le « montant établi » ) qui comprend la somme de 10 197,44 $ de CTI qui a été refusée ainsi que 799,81 $ de pénalité et 576,24 $ d'intérêt.
+9. L'appelant a déposé un Avis d'opposition relativement à la cotisation le 20 juin 2002.
+10. Le 13 novembre 2002, on a délivré un Avis de décision confirmant la cotisation.
+11. En établissant ainsi la cotisation à l'égard de l'appelant, le ministre a fait les hypothèses de fait suivantes :
+a) pendant toute la période pertinente, l'appelant était inscrit aux fins de la TPS et se consacrait à la vente en gros d'appareils électroniques et d'autres produits (les « fournitures taxables » );
+b) les CTI demandés relativement à la période en question ne correspondaient pas aux renseignements mis à la disposition du ministre par l'appelant;
+c) l'appelant n'a pas obtenu les preuves suffisantes, sous la forme requise, ni au contenu requis, pour permettre que les CTI refusés soient admis;
+d) l'appelant n'a pas le droit de demander les CTI qui ont été refusés et qui s'élèvent au montant de 10 197,44 $;
+e) l'appelant a demandé un remboursement de taxe nette auquel il n'était pas admissible.
+B. QUESTIONS EN LITIGE
+12. Les questions en litige sont de savoir :
+a) si le ministre a établi une cotisation convenablement à l'égard de l'appelant, tel que cela est énoncé au paragraphe 8 ci-dessus;
+b) si le ministre a refusé correctement la somme de 10 197,44 $ de CTI demandée par l'appelant.
+D. MOTIFS INVOQUÉS ET MESURES DE REDRESSEMENT DEMANDÉES
+[...]
+15. Il fait respectueusement valoir que l'appelant n'est pas admissible à la somme de 10 197,44 $ de CTI demandée, qui a été refusée au motif qu'il n'y avait pas de preuve suffisante obtenue par l'appelant, sous la forme requise contenant de tels renseignements, pour qu'il soit possible de déterminer le montant des CTI, y compris tout renseignement pouvant être prescrit conformément à l'article 169 de la Loi et du Règlement.
+16. Il fait respectueusement valoir que l'appelant n'est pas admissible à la somme de 10 197,44 $ de CTI demandée et qui a été refusée, parce qu'elle ne correspond ni aux registres ni aux documents comptables de l'appelant.
+17. Il fait respectueusement valoir que l'appelant n'a pas remis la taxe nette, tel que cela est stipulé au paragraphe 7, de la manière et dans le délai prescrits aux paragraphes 165(1), 221(1), 225(1) et 228(2) de la Loi.
+18. Il fait respectueusement valoir que, parce que l'appelant a demandé un remboursement de taxe nette auquel il n'avait pas droit, on a imposé, en bonne et due forme, la pénalité et les intérêts correspondants, tel que le prescrit l'article 280 de la Loi.
+19. Il fait respectueusement valoir que l'appelant n'a pas agi avec diligence raisonnable relativement à la Partie IX de la Loi.
+[...]
+[3] Dans l'appel interjeté par Nehzat Owraki, épouse de Kehram Owraki, la Réponse est pratiquement pareille à la Réponse modifiée de l'appel de Kehram Owraki, à l'exception des points suivants : dans l'appel de Nehzat, les montants en question sont de 24 847,88 $ en crédits de taxe sur les intrants (CTI) refusés, plus 1 948,88 $ de pénalité et 1 404,12 $ d'intérêt; de plus, les « fournitures taxables » vendues en gros par l'appelante étaient des cosmétiques et des produits connexes, alors que les « fournitures taxables » dans l'appel de Kehram étaient surtout des appareils électroniques.
+[4] La question principale, dans les deux appels, est celle de savoir si les appelants ont fourni les preuves suffisantes, sous la forme requise et au contenu requis, permettant de déterminer le montant des CTI, y compris tout renseignement pouvant être prescrit conformément à l'article 169 de la Loi sur la taxe d'accise (la « Loi » ) et au Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants (le « Règlement » ).
+[5] En vertu du paragraphe 169(1) de la Loi, les contribuables inscrits aux fins de la TPS et qui s'occupent de « fournitures taxables » , ont le droit de demander des crédits de taxe sur les intrants, relativement à la TPS qu'ils payent lorsqu'ils achètent tout bien ou service utilisé dans le cadre de leurs activités commerciales. Ces demandes sont calculées en suivant un régime d'autocotisation.
+[6] L'alinéa 169(4)a) de la Loi exige que les contribuables inscrits, avant de produire leurs déclarations, recueillent les preuves nécessaires pour déterminer le montant du crédit de taxe permissible sur les intrants. Le Règlement1 énonce les preuves requises à l'article 3 et décrit les pièces justificatives en ces termes à l'article 2 :
+« pièce justificative » Document qui contient les renseignements exigés à l'article 3, notamment :
+a) une facture;
+b) un reçu;
+c) un bordereau de carte de crédit;
+d) une note de débit;
+e) un livre ou registre de comptabilité;
+f) une convention ou un contrat écrits;
+g) tout registre faisant partie d'un système de recherche documentaire informatisé ou électronique ou d'une banque de données;
+h) tout autre document signé ou délivré en bonne et due forme par un inscrit pour une fourniture qu'il a effectuée et à l'égard de laquelle il y a une taxe payée ou payable.
+[7] Les appelants soutiennent qu'environ 70 p. 100 de leurs ventes consistaient en des exportations en Iran (dont une fraction modeste était destinée à l'Allemagne et à l'Italie) et que 30 p. 100 de leurs ventes étaient destinées au Canada. La TPS sur les ventes au Canada n'est pas contestée. La question litigieuse porte surtout sur les ventes effectuées en Iran, par rapport auxquelles la TPS n'est pas recouvrable, en dépit du fait que les appelants ont dû payer la TPS sur les ventes de biens ou de services utilisés, afin de pouvoir effectuer ces ventes en Iran.
+[8] Le problème principal consiste dans le fait que le vérificateur de l'ADRC était incapable de déterminer, à partir des registres et documents comptables soumis par les appelants, le pourcentage approprié des ventes et, plus important encore, le montant exact des CTI. À la fois l'avocat de l'intimée comme les appelants, par l'entremise de leur agent, ont présenté divers calculs pour essayer d'établir qu'il s'agissait de montants appropriés.
+Analyse
+[9] Je trouve que le témoignage de Kehram Owraki est crédible. Il a déclaré qu'il était incapable de présenter toutes les pièces justificatives nécessaires parce que beaucoup d'achats et de ventes avaient été effectués en espèces. Il a ajouté que la raison principale qui l'a empêché de fournir toutes les dossiers nécessaires est qu'il a perdu une valise contenant de nombreux documents, lors d'un trajet en taxi alors qu'il était en Iran. Parmi les documents perdus se trouvaient des factures, des rapports de vente, un registre détaillé, un carnet de chèques et environ 20 000 $US en espèces. Kehram Owraki a décrit avec beaucoup de détails les circonstances entourant cette perte et il a convaincu la Cour que, en raison de cette perte, il est devenu impossible pour les appelants de prouver tous les achats et toutes les ventes.
+[10] En raison de ces circonstances exceptionnelles, je trouve, selon la prépondérance des probabilités, que les CTI demandés par les deux appelants doivent être accordés. Le témoignage du vérificateur, qui a clairement fait de son mieux pour calculer les ventes et les achats, donnait à penser que l'argent provenait sûrement de quelque part. Il a examiné deux sources possibles de l'argent, notamment les ventes au comptant et les retraits d'espèces, sur le fondement des relevés bancaires et il a conclu que le maximum de CTI acceptable correspondait au montant admis par le ministre. Cependant, selon la prépondérance des probabilités, je crois les propos des appelants et de leur représentant et je conclus qu'ils ont démontré le bien-fondé de leur cause.
+[11] Par conséquent, l'appel de Nehzat Owraki est accueilli et la question est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation au motif qu'au cours de la période en question, à savoir du 1er avril 2000 au 30 juin 2001, l'appelante est admissible au crédit de taxe sur les intrants demandé, au montant de 24 847,88 $, sans être, de plus, passible d'aucune pénalité ni intérêt. L'appel de Kehram Owraki est admis aussi et la question est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation au motif que l'appelant est admissible aux crédits de taxe sur les intrants demandés, au montant de 10 197,44 $, pour la période en question, à savoir du 1er avril 2000 au 30 juin 2001. Il n'est, non plus, passible d'aucune pénalité ni intérêt.
+Signé à Ottawa, Canada, ce 13e jour de janvier 2004.
+« T. O'Connor »
+Juge O'Connor
+Traduction certifiée conforme
+ce 5e jour de mai 2004.
+Ingrid B. Miranda, traductrice
+1 Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants (TPS/TVH), DORS/2000-180, art. 1.

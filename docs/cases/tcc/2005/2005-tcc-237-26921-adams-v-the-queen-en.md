@@ -1,0 +1,175 @@
+---
+title: "Adams v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26921/index.do"
+last_modified: "2005-04-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 237"
+citation2: ""
+neutral_citation: "2005 TCC 237"
+decision_date: "2005-04-08"
+language: "en"
+item_id: "26921"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 727
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:51:05.342000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ef67acbe77dfe1b6de3bc731e1ef3e5442cf6261e2104c40152efd95717db993"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Adams v. The Queen
+
+- Citation: 2005 TCC 237
+- Decision date: 2005-04-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 727, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Adams v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-04-08
+Neutral citation
+2005 TCC 237
+File numbers
+2004-1720(IT)I
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-1720(IT)I
+BETWEEN:
+JEFFREY ADAMS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on February 23, 2005 at Calgary, Alberta
+Before: The Honourable Justice G. Sheridan
+Appearances:
+Agent for the Appellant:
+Brian C. Comrie
+Counsel for the Respondent:
+Galina M. Bining
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2002 taxation year is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that Mr. Adams' employer was Cheyenne Oilfield Consulting Service Inc. and that he is entitled to an Overseas Employment Tax Credit.
+Signed at Ottawa, Canada this 8th day of April, 2005.
+"G. Sheridan"
+Sheridan, J.
+Citation:2005TCC237
+Date: 20050408
+Docket: 2004-1720(IT)I
+BETWEEN:
+JEFFREY ADAMS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] The Appellant, Jeffrey Adams, is appealing under the Informal Procedure an assessment by the Minister of National Revenue of his 2002 taxation year in which the Minister disallowed his claim for an Overseas Employment Tax Credit under section 122.3 of the Income Tax Act. In 2002, Mr. Adams who is resident in Alberta, was working in Algeria as an oilfields drilling supervisor. The essence of the dispute between Mr. Adams and the Minister hinges upon the determination of who his "employer" was during the qualifying period.
+[2] To succeed in his appeal, Mr. Adams must demolish the assumptions upon which the Minister based his decision; these appear in paragraph 8 of the Reply to the Notice of Appeal:
+8. In so assessing the Appellant for the 2002 Taxation Year and in confirming that assessment the Minister made the following assumptions of fact:
+(a) In the 2002 Taxation Year the Appellant was employed by Adams Family Enterprises Ltd. (the "Employer");
+(b) The Employer is owned by the Appellant;
+(c) The Appellant has a non-arm's length relationship with the Employer;
+(d) The Appellant is a specified shareholder of the Employer.
+[3] The basis for these assumptions was prescribed Form T626[1], the original of which Mr. Adams acknowledged that he, as an authorized officer of Adams Family Enterprises Ltd., had signed certifying, among other things, that Adams Family Enterprises Ltd. was his "employer". Mr. Adams does not dispute that he holds the majority of the shares in Adams Family Enterprises Ltd.; accordingly, he is a "specified shareholder" within the meaning of section 122.3 of the Act.
+[4] Mr. Adams takes the position, however, that notwithstanding the information supplied in Form T626, his employer when he was working in the Algerian oilfields was not Adams Family Enterprises Ltd., but rather, a Saskatchewan company known as Cheyenne Oilfield Consulting Service Inc. Mr. Adams was not asked on cross-examination to explain the contradiction between this document and his evidence concerning the contract with Cheyenne, nor did his Agent seek clarification on redirect. However, in response to the Court's request for clarification following the conclusion of his testimony, he explained that he was motivated to set up Adams Family Enterprises Ltd. because "you have to have a company to operate in Alberta"; in other words, he incorporated to comply with Government of Alberta requirements for those working in the energy industry. He also needed a corporate entity to handle Workers' Compensation matters and to obtain liability insurance. From these comments and Mr. Adams' earlier testimony, I am able to infer that he signed Form T626 on behalf of Adams Family Enterprises Ltd. showing his "employer" as Adams Family Enterprises Ltd. without truly understanding its purpose or realizing the information provided to the Minister was inaccurate. Certainly the taxpayer has a duty to provide accurate information to the Minister but the legislation does not demand perfection. Mr. Adams was candid and credible in the presentation of his evidence; in his particular circumstances and given the complexity of the OETC provisions, it is not unreasonable that mistakes might be made.
+[5] In support of his argument that Cheyenne was his employer, Mr. Adams put in evidence a copy of a contract[2] between "Cheyenne Oilfield Consulting Service Inc." (referred to in that document as "Cheyenne") and "Jeff C. Adams of Adams Family Enterprises Ltd." (referred to therein as "Adams"). The Crown argued that because the Cheyenne Agreement refers to Jeff C. Adams "of Adams Family Enterprises Ltd.", Cheyenne was contracting with Adams Family Enterprises Ltd. and not Mr. Adams personally. While I accept that this terminology is somewhat odd, I do not think it necessarily leads to the conclusion urged by the Crown. As I read it, the prepositional phrase "of Adams Family Enterprises Ltd." is merely descriptive of "Jeff C. Adams", no different in character from, for example, "of Calgary, Alberta" or other such designations which typically follow the name of the party in a contract. In such cases, few would take this to mean that the contract was between Cheyenne and "Calgary, Alberta". Also consistent with the conclusion that the contract was with Mr. Adams personally is the fact that the agreement is signed by "Jeff C. Adams" with no accompanying reference to Adams Family Enterprises Ltd. Compare this to the signature line of the other party which specifies that the signature of Larry Ireland is "For and on behalf of Cheyenne Oilfield Consulting Service Inc.".
+[6] The preamble to the Cheyenne Agreement states that Cheyenne has agreed with an overseas company known as BP Exploration (In Salah) Limited "... to provide Drilling Supervision Services" to that company. Clause 1 provides that "Adams" will "... perform such of the Drilling Supervision Services as may be delegated to him by Cheyenne from time to time". Entered as Exhibit A-1 was the companion agreement to Exhibit A-2, the agreement between Cheyenne and BP Exploration (In Salah) Limited. It was from this document that Cheyenne as "contractor" derived its right to sub-contract its obligations to third parties specified therein under the heading "Personnel". In Clause 1.6 of the BP Exploration (In Salah) Limited agreement, the name "Jeff Adams" has been typed in the space provided as the sub-contracting "Personnel"; nowhere in that agreement are there any references to Adams Family Enterprises Ltd.
+[7] Finally, I do not accept the Crown's argument that there was sufficient evidence for the Court to conclude that payment for Mr. Adams' drilling supervision services was made to Adams Family Enterprises Ltd., not Mr. Adams. This was not one of the Minister's assumptions and therefore the Crown had the usual burden of proving the facts to support its position. I am not satisfied that there was clear evidence to show that any payments were made from Cheyenne to Adams Family Enterprises Ltd. It was clear from Mr. Adams' testimony that he has a tendency to blur the legal boundaries between himself and his company, a habit he (and his accountant) would be well advised to break if future difficulties are to be avoided. Although in one of his answers on cross-examination Mr. Adams made a vague statement that "everything goes through my company", he later described funds that somehow made their way into the Adams Family Enterprises Ltd. account as "the money [he] was paid". [Emphasis added]. But Mr. Adams was not challenged on cross-examination to give precise details of these financial transactions nor did the Crown call any department officials who may have had information on this point. No bank records were put in evidence. In any case, even if Cheyenne deposited funds directly into the Adams Family Enterprises Ltd. account, I am satisfied on a balance of probabilities that it did so at the direction of Mr. Adams in his personal capacity as the party entitled to receive such payments under his agreement with Cheyenne.
+[8] In view of all the above, it is my view that the Cheyenne agreement was between Mr. Adams and Cheyenne; accordingly, his "employer" for the purposes of section 122.3 was Cheyenne Oilfield Consulting Service Inc., not Adams Family Enterprises Ltd.
+[9] The next step is to determine whether Cheyenne was a "specified employer", an essential element of the eligibility criteria in subsection 122.3(1). This term is defined in subsection 122.3(2) of the Act:
+(2) Definitions. In subsection (1), "specified employer" - "specified employer" means
+(a) a person resident in Canada
+(b) a partnership in which interests that exceed in total value 10% of the fair market value of all interests in the partnership are owned by persons resident in Canada or corporations controlled by persons resident in Canada, or
+(c) a corporation that is a foreign affiliate of a person resident in Canada; ...
+[10] As a corporation, Cheyenne comes within the definition of "person"[3] whose registered office, according to Exhibit A-2, is Carievale, Saskatchewan. This is sufficient to bring Cheyenne within the definition of specified employer under paragraph 122.3(2)(a). Having established that Mr. Adams' employer Cheyenne was a "specified employer", it remains to determine whether Mr. Adams is able to satisfy the eligibility criteria set out in paragraphs 122.3(1)(a) and (b), the relevant portions of which read:
+Deduction from tax payable where employment out of Canada.
+(1) Where an individual is resident in Canada in a taxation year and, throughout any period of more than six consecutive months that commence before the end of the year and included any part of the year (in this subsection referred to as the "qualifying period")
+(a) was employed by a person who was a specified employer, other than for the performance of services under a prescribed international development assistance program of the Government of Canada, and
+(b) performed all or substantially all the duties of the individual's employment outside Canada
+(i) in connection with a contract under which the specified employer carried on business outside Canada with respect to
+(A) the exploration for or exploitation of petroleum, natural gas, minerals or other similar resources,
+...
+[11] The Crown argued that even if Cheyenne was Mr. Adams' employer, it was "just a recruitment company" and accordingly, could not be said to have "carried on business outside Canada" as required by subparagraph 122.3(1)(b)(i). In support of its position, the Crown referred the Court to Fonta c. R.[4] in which Lamarre Proulx, J. concluded that the taxpayer was not entitled to an OETC because the purported specified employer "acted as a specialized personnel agency for [the overseas company]" and that "... it seems certain in law that such services are not services pertaining to subcontracting under an engineering contract". At paragraph 18 of her reasons, the learned judge considered the meaning of "subcontract":
+18 "Sous-traitance" [subcontracting] is defined as follows in Vocabulaire juridique, 2nd ed., Gérard Cornu (PUF), at page 774:
+Souse-traitance
+[TRANSLATION]
+Derived from traitant [dealing with], traiter [to deal with], Lat. tractare.
+* Process by which a *contractor, known as the main contractor, through an agreement called a * subcontractor, assigns to another person called the *subcontractor - under the main contractor's responsibility - all or part of the performance of the contract of *enterprise or public contract entered into with the *client (section 1, law of Dec. 31, 1975), the use of subcontracting implying that the main contractor must have the subcontractors accepted by the client.
+"Sous-contrat" [subcontract] is defined as follows in Dictionnaire de droit québécois et canadien, Hubert Reid (Wilson & Lafleur), at page 543:
+[TRANSLATION]
+Subcontract, n.
+[ ] Contract entered into between one of the parties to an initial contract and a third party that undertakes to perform the initial contract in whole or in part. E.g. a subcontract under a contract of enterprise, a sublease. Comp. pre-contract, contract, subcontractor Fr. sous-contrat
+"Subcontract" is defined as follows in Black's Law Dictionary, 7th ed., at page 325:
+Subcontract. A contract made by a party to another contract for carrying out the other contract, or a part of it.
+[12] In my view, Fonta is distinguishable from the present facts: Exhibits A-1 and A-2 together with Mr. Adams' description of Cheyenne's operation are indicative of a genuine subcontract. I am satisfied on a balance of probabilities that Mr. Adams was working under a true subcontract with Cheyenne to perform the drilling supervision services Cheyenne had agreed with BP Exploration (In Salah) Limited to carry out in Algeria. Expressed in terms of the statutory provisions above, then, Mr. Adams was resident in Canada throughout the "qualifying period" in 2002 and was employed by Cheyenne, a specified employer, as a drilling supervisor (and therefore, "other than for the performance of services under a prescribed international development assistance program of the Government of Canada") and as such, performed his duties in the Algerian oilfields in connection with a contract under which Cheyenne as the contractor of BP Exploration (In Salah) Limited, carried on business outside Canada with respect to the exploration for or exploitation of petroleum. Accordingly, all elements of paragraphs 122.3(1)(a) and (b) having been fulfilled, Mr. Adams is eligible to claim the Overseas Employment Tax Credit, unless the exclusionary provisions of subsection 122.3(1.1) apply:
+(1.1) Excluded Income. No amount may be included under paragraph [122.3(1)(d)] in respect of an individual's income for a taxation year from the individual's employment by an employer where
+(a) the employer carries on a business of providing services and does not employ in the business throughout the year more than 5 full-time employees;
+(b) the individual
+(i) does not deal at arm's length with the employer, or is a specified shareholder of the employer, or
+...
+(c) but for the existence of the employer, the individual would reasonably be regarded as an employee of a person or partnership that is not a specified employer.
+[13] Subsection 122.3(1.1) is written conjunctively; thus, only where all of the criteria in that subsection are met will an otherwise eligible taxpayer be rendered ineligible for the OETC. This was the approach taken in Troy v. R.[5], similar in some respects to the present case and for that reason, cited by the Crown in support of its position at the hearing. In dismissing the appeal, Watson, D.J. found that subsection 122.3(1.1) precluded Mr. Troy from claiming an OETC in that all of the conditions of that provision had been fulfilled:
+[10] "... There is no question that during the relevant period HMSI [the "employer"] was engaged in the business of providing services and did not employ in the business more than five full-time employees throughout the year and that the Appellant was not dealing at arm's length with HMSI. As for paragraph 122.3(1.1)(c) of the Income Tax Act, the Court is satisfied that but for the existence of HMSI, the Appellant would be reasonably regarded as an employee of the survey companies which are not specified employers." ...
+[14] In the present case, however, at least two of the criteria in subsection 122.3(1.1) criteria cannot be satisfied. First, having found that there was a genuine subcontract between Mr. Adams and Cheyenne, Cheyenne cannot be said to be "carrying on a business of providing services" as contemplated by paragraph 122.3(1.1)(a). While that is sufficient to foreclose the operation of subsection 122.3(1.1), should I be in error, I am also of the view that there is no evidence to fulfil the condition set out in paragraph 122.3(1.1)(b) i.e., there was no suggestion that Mr. Adams was not dealing at arm's length with Cheyenne, or that he was a specified shareholder of that company. Given that not all of the statutory criteria have been satisfied, subsection 122.3(1.1) presents no obstacle to Mr. Adams' eligibility for an OETC.
+[15] The appeal is allowed and the assessment referred back to the Minister on the basis that Mr. Adams' employer in 2002 was Cheyenne Oilfield Consulting Service Inc. and that he is entitled to an Overseas Employment Tax Credit for that taxation year.
+Signed at Ottawa, Canada this 8th day of April, 2005.
+"G. Sheridan"
+Sheridan, J.
+CITATION:
+2005TCC237
+COURT FILE NO.:
+2004-1720(IT)I
+STYLE OF CAUSE:
+Jeffrey Adams v. H.M.Q.
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+February 23, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice G. Sheridan
+DATE OF JUDGMENT:
+April 8, 2005
+APPEARANCES:
+Agent for the Appellant:
+Brian C. Comrie
+Counsel for the Respondent:
+Galina M. Bining
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit R-1
+[2] Exhibit A-2
+[3] Section 248(1) of the Income Tax Act
+[4] [2002] 3 C.T.C. 2177
+[5] [2001] 3 C.T.C. 2249

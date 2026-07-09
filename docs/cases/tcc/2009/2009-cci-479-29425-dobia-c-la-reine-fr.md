@@ -1,0 +1,170 @@
+---
+title: "Dobia c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29425/index.do"
+last_modified: "2009-09-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 479"
+citation2: ""
+neutral_citation: "2009 CCI 479"
+decision_date: "2009-09-25"
+language: "fr"
+item_id: "29425"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6977
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:32:19.593000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ff814762a87ad4700b8c1429310174f9cb9880a95e59a6776f7bee9a9ec40922"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Dobia c. La Reine
+
+- Citation: 2009 CCI 479
+- Decision date: 2009-09-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6977, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dobia c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-09-25
+Référence neutre
+2009 CCI 479
+Numéro de dossier
+2009-652(GST)I
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2009-652(GST)I
+ENTRE :
+KELLY DOBIA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 11 septembre 2009, à Grande Prairie (Alberta)
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Avocat de l’appelant :
+Me Jeffrey F.M. Donald
+Avocat de l’intimée :
+Me Gregory Perlinski
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi sur la taxe d’accise, dont l’avis est daté du 23 mai 2008 et porte le numéro 679610, est accueilli et la cotisation est déférée au ministre du Revenu national pour qu’il effectue un nouvel examen et qu’il établisse une nouvelle cotisation en tenant compte du fait que l’obligation de l’appelant aux termes de l’article 325 est de 1 096,57 $.
+Conformément à l’article 18.30009 de la Loi sur la Cour canadienne de l’impôt, aucuns frais et dépens ne seront adjugés.
+Signé à Ottawa, Canada, ce 25e jour de septembre 2009.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 9e jour de novembre 2009
+Linda Brisebois, LL.B.
+Référence : 2009CCI479
+Date : 20090925
+Dossier : 2009-652(GST)I
+ENTRE :
+KELLY DOBIA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge V.A. Miller
+[1] Il s’agit d’un appel d’une cotisation établie en vertu de l’article 325 de la Loi sur la taxe d’accise (« LTA »). L’appelant a fait l’objet d’une cotisation de 18 955,42 $ à l’égard du bien-fonds qui lui avait été donné par son père, Albert Dobia. En l’espèce, doivent être déterminées la date de la délivrance du bien-fonds visé par la donation et sa juste valeur marchande à cette date.
+[2] L’article 325 de la LTA autorise le ministre du Revenu national à établir une cotisation à l’égard d’une personne concernant le transfert d’un bien à celle-ci par un cédant avec qui elle a un lien de dépendance et qui est un débiteur fiscal. Voici une partie de la disposition :
+325. (1) Transfert entre personnes ayant un lien de dépendance -- La personne qui transfère un bien, directement ou indirectement, par le biais d’une fiducie ou par tout autre moyen, à son époux ou conjoint de fait, ou à un particulier qui l’est devenu depuis, à un particulier de moins de 18 ans ou à une personne avec laquelle elle a un lien de dépendance, est solidairement tenue, avec le cessionnaire, de payer en application de la présente partie le moins élevé des montants suivants :
+a) le résultat du calcul suivant :
+A - B
+où :
+A représente l’excédent éventuel de la juste valeur marchande du bien au moment du transfert sur la juste valeur marchande, ŕ ce moment, de la contrepartie payée par le cessionnaire pour le transfert du bien,
+B l’excédent éventuel du montant de la cotisation établie ŕ l’égard du cessionnaire en application du paragraphe 160(2) de la Loi de l’impôt sur le revenu relativement au bien sur la somme payée par le cédant relativement ŕ ce montant;
+b) le total des montants représentant chacun :
+(i) le montant dont le cédant est redevable en vertu de la présente partie pour sa période de déclaration qui comprend le moment du transfert ou pour ses périodes de déclaration antérieures,
+(ii) les intéręts ou les pénalités dont le cédant est redevable ŕ ce moment.
+Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédant découlant d’une autre disposition de la présente partie.
+[3] Les seuls témoins à l’audience étaient l’appelant et son père, Albert Dobia. Ils ont tous deux exposé les faits qui ont conduit Albert Dobia à transférer une parcelle de terrain à l’appelant.
+[4] Albert Dobia était le propriétaire d’un terrain d’environ 97,69 acres dans le comté de Grande Prairie en Alberta. Durant la fin de semaine de l’Action de grâces, en octobre 2005, l’appelant a exprimé le désir de s’installer plus près de sa famille. Albert Dobia a convenu de donner à l’appelant la plus petite superficie en acres qui, au dire du comté, était requise pour construire une maison. L’appelant et son père sont allés sur place examiner le fonds de terre et convenu de la parcelle (le « bien réel ») que l’appelant pourrait avoir.
+[5] Avant que le bien réel puisse être transféré, l’appelant était d’abord tenu de faire approuver le lotissement résidentiel et de payer tous les frais requis pour le lotissement résidentiel. Une partie du bien réel était située sur une fondrière et l’appelant y a fait transporter de la terre pour produire une surélévation afin d’en faire approuver le lotissement.
+[6] L’appelant a fait construire une route pour relier le bien réel à la route municipale. Il a fait arpenter le bien réel. Il a fait creuser un puits et a fait installer le gaz et l’électricité sur le bien réel. Entre les mois de novembre 2005 et de février 2007, l’appelant a engagé pour le bien réel des dépenses s’élevant à 118 893,43 $.
+[7] Le 2 février 2007, le terrain a été loti en deux parcelles dont la plus petite était le bien réel. D’une superficie de 5,69 acres, le bien réel a été enregistré aux noms d’Albert Dobia et de Tahanita Dobia (la mère de l’appelant). Le 23 février 2007, les parents de l’appelant on signé un document intitulé [traduction] « Transfert d’un bien-fonds » aux termes duquel ils transféraient le bien réel à l’appelant et à son épouse. Un affidavit relatif à la valeur du bien-fonds était annexé au document. Aux termes de l’affidavit, l’appelant déclarait sous serment que la véritable contrepartie payée par lui pour le transfert était de 10 $ et que la valeur actuelle du bien-fonds s’élevait à son avis à 120 000 $. Je fais remarquer que les termes « valeur » et « bien-fonds » sont ainsi définis dans l’affidavit :
+[traduction]
+« valeur » Montant, exprimé en dollars, que la vente du bien-fonds par un vendeur sérieux à un acheteur sérieux serait susceptible de produire sur un marché libre;
+« bien-fonds » Les bâtiments et les autres améliorations apportées au bien-fonds
+[8] Le 25 avril 2007, le document [traduction] « Transfert d’un bien-fonds » a été enregistré auprès du Bureau d’enregistrement foncier.
+[9] La première question à trancher est celle de savoir à quelle date la donation du bien réel a-t-elle été valide en droit ?
+[10] Selon le professeur Bruce Ziff, trois éléments sont requis pour qu’une donation soit valide : (i) l’intention de faire la donation, (ii) l’acceptation et (iii) un acte de délivrance valide[1].
+[11] En octobre 2005, Albert Dobia a exprimé l’intention de donner une parcelle de son fonds de terre et l’appelant a accepté l’offre. Cependant, le simple fait d’aller sur place examiner le fonds de terre et de désigner une parcelle ne constituait pas un acte valide de délivrance du bien-fonds en faveur de l’appelant. Pour que la délivrance du bien-fonds soit valide, Albert Dobia devait se départir du titre du bien réel.
+[12] Voici les articles 53 et 54 de la loi intitulée Land Titles Act[2] de l’Alberta :
+[traduction]
+Nécessité de l’enregistrement
+53 Après qu’un certificat de titre a été accordé à l’égard d’un bien-fonds, nul instrument ne transfère un droit ou un droit de propriété dans ce bien-fonds, (à l’exception d’un droit de tenure à bail n’excédant pas trois ans) ni n’affecte le bien-fonds à titre de garantie de paiement de deniers, sauf s’il est passé conformément à la présente loi et enregistré en application de la présente loi. Cependant, une fois l’enregistrement effectué de la manière prescrite précédemment, le droit ou le droit de propriété précisé dans l’instrument est transféré ou, selon le cas, le bien-fonds est affecté à titre de garantie de la manière prescrite et sous réserve des conventions, modalités et éventualités énoncées et précisées dans ledit instrument, ou que la présente loi déclare sous-entendues dans un instrument de cette nature.
+Effet de l’enregistrement
+54 Les instruments deviennent valides suivant leur teneur et leur objet dès leur enregistrement, lequel crée, transfère, grève le bien-fonds ou le droit de propriété ou le droit dans le bien-fonds, vise, ou opère quittance ou désistement quant au bien-fonds, au droit de propriété ou au droit dans le bien-fonds.
+[13] En Alberta, le transfert d’un titre de propriété dans un bien-fonds ne peut être réalisé que par l’enregistrement du titre[3]. La Cour d’appel de l’Alberta a confirmé cette exigence dans son arrêt MacLeod v. Montgomery’s Estate[4] où le juge Morrow déclare ce qui suit :
+[traduction]
+16 Dans les ressorts où les obligations relatives à l’enregistrement d’un bien-fonds prévoient le transfert du titre au moment de l’enregistrement, comme à l’article 56[5] (précité), les tribunaux ont en général établi le principe que nul droit ou droit de propriété n’est transféré ou détenu à moins d’avoir été enregistré : Macedo v. Stroud, (précité).
+[…]
+31 À mon avis, la décision en l’espèce est judicieuse. Pour rendre la donation valide, le donateur est tenu de faire tout en son pouvoir. En Alberta, le transfert ne peut être enregistré que s’il y est joint une copie du certificat [*page359] de titre, sauf si le titre a déjà été remis au Bureau d’enregistrement foncier ou, subsidiairement, sauf si la perte ou la destruction de la copie du certificat de titre est établie. À mon avis, la délivrance du bien faisant l’objet du transfert et la copie du certificat de titre étaient requises pour rendre valide la donation en l’espèce. Aucune copie du certificat de titre n’a été faite. C’est à la donatrice qu’incombait de rendre la donation valide en donnant des instructions à son avocat. Rien n’indique que la donatrice ait donné de telles instructions. L’équité ne contraint pas l’acquéreur à titre gratuit à rendre valide une donation qui ne l’est pas. Si la copie du certificat de titre avait été remise au Bureau d’enregistrement foncier, comme dans le cas de bien-fonds grevés d’une hypothèque, la délivrance du bien visé par le transfert aurait rendu la donation valide, car la donatrice aurait fait tout en son pouvoir pour la rendre valide. Tel n’est pas le cas en l’espèce. La donation n’a pas été rendue valide.
+[14] Le titre du bien-fonds a été transféré à l’appelant au moment de l’enregistrement du document intitulé [traduction] « Transfert d’un bien-fonds » le 25 avril 2007.
+[15] L’appelant a déclaré que la valeur du bien réel était de 120 000 $. Le ministre du Revenu national a supposé que la valeur du bien réel était de 120 000 $. Ni l’une ni l’autre des parties n’a fait évaluer le bien réel. Ni l’une ni l’autre n’a assigné un témoin expert à l’audience qui aurait pu attester de la juste valeur marchande du bien réel.
+[16] Je suis bien consciente que l’appelant a déclaré sous serment, dans son affidavit joint au document intitulé [traduction] « Transfert d’un bien-fonds », qu’il avait payé 10 $ en contrepartie pour le bien réel .Cependant, seuls le travail qu’il a réalisé et les dépenses qu’il a engagées expliquent comment il a estimé que la valeur du bien réel correspondait à 120 000 $.
+[17] En réalité, la contrepartie payée par l’appelant s’élevait à 118 903,43 $. Conformément à l’article 325 de la LTA, l’appelant est redevable du montant représentant la différence entre la valeur du bien réel et la contrepartie donnée et l’obligation fiscale d’Albert Dobia à ce moment ou pour toute période de déclaration antérieure. L’appelant est donc redevable d’un montant de 1 096,57 $.
+[18] L’appel est accueilli. Conformément à l’article 18.3009 de la Loi sur la Cour canadienne de l’impôt, aucuns frais et dépens ne seront adjugés.
+Signé à Ottawa, Canada, ce 25e jour de septembre 2009.
+« V.A. Miller »
+La juge V.A. Miller
+Traduction certifiée conforme
+ce 9e jour de novembre 2009
+Linda Brisebois, LL.B.
+RÉFÉRENCE : 2009CCI479
+NO DU DOSSIER DE LA COUR : 2009-652(GST)I
+INTITULÉ : KELLY DOBIA ET
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Grande Prairie (Alberta)
+DATE DE L’AUDIENCE : Le 11 septembre 2009
+MOTIFS DU JUGEMENT : L’honorable juge Valerie Miller
+DATE DU JUGEMENT : 25 septembre 2009
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Jeffrey F.M. Donald
+Avocat de l’intimée :
+Me Gregory Perlinski
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Jeffrey F.M. Donald
+Cabinet : Stefura Greber & Beal, s.r.l.
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Ziff, Bruce H., Principles of Property Law, 3e édition, (Toronto : Carswell) p. 140.
+[2] Land Titles Act, R.S.A. 2000, ch. L-4
+[3] Op. cit., note 1, ŕ la page 147
+[4] 20 AR 350 (CA), aux paragraphes 16 et 31
+[5] Il s’agit de l’article 53 dans la loi actuelle intitulée Land Titles Act.

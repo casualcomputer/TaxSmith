@@ -1,0 +1,146 @@
+---
+title: "9072-1085 Québec Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29610/index.do"
+last_modified: "2009-11-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 603"
+citation2: ""
+neutral_citation: "2009 CCI 603"
+decision_date: "2009-11-30"
+language: "fr"
+item_id: "29610"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6179
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:20:11.061000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1403a55aa1f500fbe16fe3753d224ffc6a430edacf96f703cf54eeaf9f7e2257"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 9072-1085 Québec Inc. c. La Reine
+
+- Citation: 2009 CCI 603
+- Decision date: 2009-11-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6179, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9072-1085 Québec Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-11-30
+Référence neutre
+2009 CCI 603
+Numéro de dossier
+2009-1172(GST)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2009-1172(GST)I
+ENTRE :
+9072-1085 QUÉBEC INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 9 novembre 2009, à Montréal (Québec)
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Avocat de l'appelante :
+Me James A. Cocciardi
+Avocate de l'intimée :
+Me Brigitte Landry
+____________________________________________________________________
+JUGEMENT
+L’appel de la nouvelle cotisation établie le 9 mai 2008 en vertu de la Partie IX de la Loi sur la taxe d’accise relativement à la période du 1er avril 2003 au 31 mars 2007 est accueilli en partie sans frais et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation afin d’exclure un montant de taxes sur les produits et services non perçues de 4 885,30 $ relativement à la période du 1er avril 2003 au 31 mars 2004, avec ajustement des pénalités et des intérêts, selon les motifs du jugement ci-joints.
+Signé à Montréal (Québec), ce 30e jour de novembre 2009.
+« Réal Favreau »
+Juge Favreau
+Référence : 2009 CCI 603
+Date : 20091130
+Dossier : 2009-1172(GST)I
+ENTRE :
+9072-1085 QUÉBEC INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] L’appelante interjette appel par la voie de la procédure informelle à l’encontre d’une nouvelle cotisation en vertu de la Partie IX de la Loi sur la taxe d’accise, L.R.C. (1985), c. E‑15 (ci‑après la « LTA »), datée du 9 mai 2008 relativement à la période du 1er avril 2003 au 31 mars 2007 (la « période visée »).
+[2] Le montant de taxes sur les produits et services (« TPS ») relatif à la période du 30 janvier 2003 au 31 mars 2004 a été admis par l’intimée parce que cotisé en dehors de la période normale de cotisation.
+[3] Le montant de TPS perçu et non remis par l’appelante totalisant 5 012,64 $ (3e bloc de la page 3 de I-1) n’est pas contesté par l’appelante.
+[4] À l’ouverture de l’audience, les parties ont souligné une erreur de calcul. Aux paragraphes 17(h) et 18(b) de la réponse à l’avis d’appel, le montant de TPS que l’appelante a omis de percevoir et de remettre s’élevait à 33 847,58 $ plutôt qu’à 38 847,58 $ à l’égard de la fourniture de la carte de forfaits repas aux résidants de la résidence pour personnes âgées « Au fil de l’eau ». La nouvelle cotisation comprenait également certains ajustements aux crédits sur intrants réclamés, des pénalités pour versement tardif au montant de 3 932,50 $ et des intérêts pour un montant de 6 508,26 $.
+[5] En établissant la nouvelle cotisation, le ministre du Revenu national (le « ministre ») s’est fondé entre autres, sur les hypothèses et conclusions de faits suivantes décrites aux alinéas b) à g) du paragraphe 17 de la réponse à l’avis d’appel :
+b) l’appelante est un inscrit aux fins de la LTA;
+c) durant la période en litige, l’appelante offrait un service de traiteur dans la résidence de personnes âgées « Au fil de l’eau » (la « résidence ») où elle louait l’équipement de cuisine et la salle à manger;
+d) la résidence n’est pas un établissement de santé;
+e) durant la période en litige, l’appelante offrait notamment des repas au personnel de la direction de la résidence ainsi que des forfaits de 30 repas aux résidants;
+f) la fourniture de forfaits repas constitue la vente, aux résidants de la résidence, d’une carte donnant droit à 30 repas qui devaient être consommés dans les 90 jours suivants l’achat de cette carte;
+g) les services décrits ci‑dessus constituent pour l’appelante des fournitures taxables pour lesquelles elle était tenue de percevoir et de remettre la TPS.
+[6] Monsieur Vincinzo Dizazzo, chef cuisinier et président de la compagnie, a témoigné à l’audience. Il a expliqué qu’avant 2004, il facturait le coût de la carte de forfaits repas directement à la résidence mais qu’à compter de 2004, la résidence s’est dégagée de cette responsabilité, et l’appelante a débuté à transiger directement avec les clients de la résidence dans le but de permettre aux personnes âgées de plus de 70 ans de récupérer le crédit d’impôt offert par le gouvernement du Québec.
+[7] Le témoin a fait état qu’en 2004, un représentant du gouvernement (personne n’a pu donner son nom ni le nom de l’organisme ou ministère qu’il représentait) était venu expliquer lors d’une réunion d’information qui n’a duré qu’une dizaine de minutes, les règles de fonctionnement du nouveau système. En plus du témoin, l’administratrice de la résidence et la gérante de la salle à manger auraient assistées à cette réunion.
+[8] Selon le témoin, les informations fournies par le représentant du gouvernement étaient incomplètes et ne précisaient pas si le prix des cartes de forfaits repas était taxable ou non. Le montant des taxes n’apparaissait sur le formulaire exigé. Le représentant en question a surtout expliqué comment les personnes âgées de 70 ans et plus pouvaient obtenir le crédit d’impôt pour repas.
+[9] En plus de monsieur Dizazzo, les personnes suivantes ont témoigné à l’audience : madame Guylaine Curado qui était gérante à la salle à manger à la résidence et qui a assisté à la rencontre avec le représentant du gouvernement et madame Gaétane Beaulieu, la vérificatrice du ministère du Revenu du Québec. Il ressort de ces témoignages, les éléments de faits suivants :
+i) pour la période du 1er avril 2003 au 31 décembre 2004, la résidence percevait le coût des forfaits repas auprès de ses résidants en l’incorporant au loyer mensuel et l’appelante facturait mensuellement la résidence pour le coût des repas pris par les résidants. Les factures étaient adressées à la résidence et aucune TPS n’était perçue malgré le fait qu’il s’agissait d’une fourniture taxable consommée par des personnes autonomes qui n’étaient pas en convalescence;
+ii) pour la période de décembre 2004 à décembre 2006, l’appelante transigeait directement avec les personnes de 70 ans et plus qui avaient droit au crédit d’impôt. L’appelante leur vendait des cartes de forfaits repas sans percevoir la TPS applicable aux fournitures taxables. Les résidants payaient le coût de la carte des forfaits repas, diminué du crédit d’impôt à recevoir, par un transfert de la Caisse populaire locale et l’appelante recevait donc directement du gouvernement le crédit d’impôt et de la Caisse populaire locale le coût des cartes de forfaits repas. La résidence n’était plus impliquée dans le processus;
+iii) pour la période postérieure à 2006, l’appelante a perçu la TPS sur les forfaits repas;
+iv) madame Curado a confirmé que le représentant qui est venu expliquer le nouveau système mis en place en décembre 2004 n’a pas parlé des taxes à la consommation applicables.
+[10] En plus des forfaits repas ci‑dessus mentionnés, l’appelante vendait des repas aux personnes qui étaient en convalescence à la résidence de même qu’aux membres du personnel de la résidence à l’égard desquels aucune TPS n’était facturée. Il s’agissait d’une fourniture à un établissement de santé, donc une fourniture exonérée ou détaxée. De plus, l’appelante vendait des repas à la salle à manger de la résidence et elle facturait les taxes puisqu’il s’agissait de fournitures taxables à des personnes autonomes âgées de moins de 70 ans.
+[11] Dans sa plaidoirie, le procureur de l’appelante n’a pas contesté le montant de TPS non perçu, ni le caractère taxable des fournitures de forfaits repas, et il s’est contenté de contester l’imposition des pénalités en invoquant le moyen de défense de la diligence raisonnable en se basant sur la décision rendue par la Cour d’appel fédérale dans l’arrêt Corporation de l’École Polytechnique c. Sa Majesté la Reine, 2004 CAF 127. Selon lui, l’appelante et ses représentant ont agi avec un soin et une diligence raisonnable compte tenu des circonstances. Ils se sont fiés à la personne qui leur a expliqué le fonctionnement du nouveau système et ils ont suivi les instructions qui leur ont été fournies. Le procureur de l’appelante a reconnu que le formulaire à remplir pour obtenir le crédit d’impôt n’émanait pas du gouvernement fédéral ni du gouvernement du Québec et que ledit formulaire ne contenait aucune mention quant aux taxes à la consommation à percevoir et à remettre aux autorités fiscales.
+[12] Contrairement aux prétentions du procureur de l’appelante, je ne crois pas qu’elle puisse bénéficier du moyen de défense de la diligence raisonnable pour éviter l’imposition de la pénalité.
+[13] L’appelante était inscrite aux fins de la LTA et elle a fourni des repas à la résidence depuis au moins 1999. L’appelante était familière avec les notions de « fournitures taxables » et de « fournitures exonérées » puisqu’elle fournissait des repas taxables en salle à manger et des repas non taxables aux personnes en convalescence. L’appelante utilisait les services d’un comptable externe, monsieur Fleury, dont le cabinet représentait plusieurs résidences pour personnes âgées.
+[14] Je comprends aussi que l’appelante ait pu avoir un doute quant au caractère taxable des forfaits repas vendus aux résidants de la résidence pendant la période au cours de laquelle la résidence était facturée pour les forfaits repas et se faisait rembourser le coût desdits forfaits à même le loyer mensuel payé par les résidants. À compter du moment où le nouveau système a été mis en place et où la résidence s’est complètement désengagée de l’administration des forfaits repas, l’appelante ne pouvait plus avoir de doute quant à savoir si la fourniture des forfaits repas à des personnes qui n’étaient pas en convalescence était taxable ou non. Il y a également lieu de mentionner ici que la vérificatrice du ministère du Revenu du Québec a affirmé, lors de son contre‑interrogatoire, avoir discuté de la question avec madame Claudette Poirier, alors administratrice de la résidence, et cette dernière lui a dit qu’elle avait, après consultation avec le fiscaliste responsable des dossiers de la résidence, informé messieurs Dizazzo et Fleury lors d’une réunion tenue en décembre 2004 que la fourniture des forfaits repas aux résidants était une fourniture taxable. Sans accorder une importance démesurée à l’information fournie par madame Poirier à la vérificatrice, il m’apparaît être très plausible et réaliste que cela se soit produit compte tenu des circonstances.
+[15] À l’inverse, le fait que le représentant de l’appelante ait pris la décision de ne pas facturer la TPS sur les fournitures de forfaits repas sur la seule base de l’information obtenue d’un fonctionnaire dont on ignore le nom de même que le nom de l’organisme qu’il représentait et ses compétence en matière de taxes à la consommation, ne m’apparaît pas être plausible ni réaliste dans les circonstances. Je ne peux vraiment pas voir comment l’appelante peut prétendre avoir agi avec le soin et la diligence raisonnable appropriés dans les circonstances surtout après avoir constaté que le formulaire n’était pas un formulaire émanant de l’Agence du Revenu du Canada ni du ministère du Revenu du Québec et était silencieux en ce qui a trait aux taxes à la consommation.
+[16] L’extrait suivant tiré du jugement du juge Angers dans l’affaire Style Auto G. J. c. La Reine, 2007 CCI 597, 2008 GTC 68, démontre bien que le fait pour un contribuable de se fier aux renseignements provenant d’un fonctionnaire n’est pas suffisant pour établir le moyen de défense de la diligence raisonnable :
+[15] Le fait que M. Moujaes se soit fié aux renseignements provenant d’un fonctionnaire de Revenu Québec n’est pas suffisant pour établir le moyen de défense de la diligence raisonnable. Cette Cour a d’ailleurs indiqué dans l’affaire Stafford, Stafford et Jakeman c. Canada, no 94 582(GST)I, 13 février 1995, [1995] G.S.T.C. 7, que « la diligence raisonnable englobe plus que simplement accepter un quelconque avis oral qu’a pu donner un répartiteur du ministère du Revenu national », et dans l’affaire Wong c. La Reine, no 94 2918(GST)I, 9 janvier 1996, [1996] G.S.T.C. 73, la Cour dit :
+[…] La diligence raisonnable n'est rien de plus que le soin qu'une personne raisonnable prendrait pour assurer le respect de la Loi. Elle ne requiert ni la perfection, ni l'infaillibilité. Elle requiert toutefois plus qu'une demande de renseignements fortuite auprès d'un fonctionnaire du ministère du Revenu […]
+[17] En conclusion, l’appelante n’a pas réussi, selon la prépondérance des probabilités, à établir le moyen de défense de la diligence raisonnable à l’encontre des pénalités.
+[18] L’intimée a consenti à ce que la cotisation soit déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation afin d’exclure du montant de TPS non perçue, le montant de 4 885,30 $ relatif à la période du 1er avril 2003 au 31 mars 2004 avec ajustement des pénalités et des intérêts.
+[19] L’appel est accueilli en partie, le tout sans frais.
+Signé à Montréal (Québec), ce 30e jour de novembre 2009.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE : 2009 CCI 603
+Nº DU DOSSIER DE LA COUR : 2009-1172(GST)I
+INTITULÉ DE LA CAUSE : 9072-1085 Québec Inc. et Sa Majesté La Reine
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 9 novembre 2009
+MOTIFS DU JUGEMENT PAR : L'honorable juge Réal Favreau
+DATE DU JUGEMENT : le 30 novembre 2009
+COMPARUTIONS :
+Avocat de l'appelante :
+Me James A. Cocciardi
+Avocate de l'intimée :
+Me Brigitte Landry
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom : Me James A. Cocciardi
+Cabinet : Montréal, Québec
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

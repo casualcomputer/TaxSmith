@@ -1,0 +1,134 @@
+Title: Arseneault c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27393/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-42-27393-arseneault-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2006-01-17
+
+# Arseneault c. La Reine
+
+- Citation: 2006 CCI 42
+- Decision date: 2006-01-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 150, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Arseneault c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-01-17
+Référence neutre
+2006 CCI 42
+Numéro de dossier
+2005-1746(IT)I
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-1746(IT)I
+ENTRE :
+ÉMILIEN ARSENEAULT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 5 octobre 2005, à Montréal (Québec)
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Avocat de l'intimée :
+Me Mounes Ayadi
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2001 et 2002 sont rejetés, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 17e jour de janvier 2006.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Référence : 2006CCI42
+Date : 20060117
+Dossier : 2005-1746(IT)I
+ENTRE :
+ÉMILIEN ARSENEAULT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx
+[1] Il s'agit d'appels selon la procédure informelle concernant les années d'imposition 2001 et 2002.
+[2] La question en litige est de déterminer la nature des dépenses au montant de 23 519 $ pour l'année 2001 et au montant de 22 646 $ pour l'année 2002. Le ministre du Revenu national (le « Ministre » ) prend la position qu'il s'agit de dépenses personnelles. L'appelant soutient qu'il s'agit de dépenses engagées pour gagner du revenu d'une entreprise.
+[3] Les faits sur lesquels le Ministre s'est fondé pour établir ses nouvelles cotisations sont décrits au paragraphe 6 de la Réponse à l'avis d'appel (la « Réponse » ), comme suit :
+a) L'appelant et sa conjointe sont tous les deux à la retraite;
+b) L'appelant possède un voilier;
+c) Depuis 1992, l'appelant voyage plusieurs mois par année sur la Méditerranée, notamment le long des côtes de la Turquie;
+d) Au cours de ces voyages, entre 1992 et 2002, l'appelant a enregistré, par année, une vingtaine d'heures d'image sur bandes vidéo;
+e) L'appelant a sollicité des diffuseurs et des producteurs d'émissions de télévision mais n'a pas reçu de réponses positives pour la diffusion de ses films;
+f) Au cours de l'année 1999, l'appelant a reçu une compensation de 300 $ pour sa participation à une émission de télévision relative à la navigation de plaisance;
+g) Au cours de l'automne 2004, l'appelant a diffusé gracieusement certains de ses films sur une chaîne de télévision communautaire;
+h) Jusqu'à maintenant toutes les démarches entreprises par l'appelant pour trouver un débouché rémunéré pour ses films se sont avérés infructueuses;
+i) Les dépenses réclamées par l'appelant comprennent ses dépenses personnelles de subsistance lors de ses voyages ainsi que les frais relatifs à son bateau et son véhicule personnel.
+[4] L'appelant a admis les alinéas 6 b) à 6 i) de la Réponse.
+[5] En ce qui concerne l'alinéa 6 a) de la Réponse, l'appelant explique que lui est un retraité mais que sa conjointe, Marie-Andrée Champagne, est semi retraitée. Elle est médecin et travaille trois jours par semaine, six mois par année.
+[6] L'appelant est un ingénieur. Il a été à l'emploi d'une firme d'ingénieurs qu'il a quitté en 1988. Par la suite, il a travaillé quatre ans à titre de travailleur autonome. Il a pris sa retraite à l'âge de 55 ans en 1992. Tel que mentionné à l'alinéa 6 c) de la Réponse, c'est à partir de 1992, que chaque année, l'appelant et sa conjointe, font de longs séjours à l'étranger. Ils possèdent un voilier. Ils se rendent par avion, à la marina où est entreposé leur bateau et commencent des périples le long de la Méditerranée. Ils ont visité de façon extensive plusieurs pays limitrophes et récemment, la Turquie.
+[7] Au début de l'audience, l'appelant a mentionné qu'il espérait présenter une série de conférences aux Grands Explorateurs qui lui rapporterait 75 000 $. Selon lui, il était en négociation avec la direction de cette organisation. Le contrat n'était pas signé et il n'avait apporté aucun document.
+[8] En 1999, tel que mentionné à l'alinéa 6 f) de la Réponse, certains de ses films ont été montrés, à titre gracieux, à la télévision du canal D. C'est après ces émissions que l'appelant aurait décidé de commencer une entreprise de production d'émissions pour la télévision.
+[9] Il aurait présenté ses projets de vidéos à des maisons de production et des télédiffuseurs mais sans résultats positifs.
+[10] Il affirme qu'en l'année 2000, il a eu un projet qui lui avait été confié par des sociétés pharmaceutiques pour l'organisation et la présentation de huit conférences. On lui avait accordé un budget de 24 000 $. Il faisait la location de locaux et s'occupait d'organiser les conférences. L'appelant n'avait apporté aucun document qui aurait expliqué la nature exacte de ce projet.
+[11] L'appelant n'avait apporté avec lui aucun document sauf une copie du questionnaire que les agents du Ministre lui avaient demandé de remplir pour leur permettre d'analyser la nature des dépenses réclamées. Il a refusé de le remplir parce que les questions posées ne convenaient pas à une entreprise modeste.
+[12] C'est l'avocat de l'intimée qui a produit comme pièce I-1 un document intitulé « projet de télévision » ayant pour objet « La Turquie ou découverte de la Turquie » . À la fin du document, à la partie intitulée « Qui sommes-nous? » , le premier nom mentionné est celui de madame Marie-Andrée Champagne. Après vient celui de l'appelant. L'appelant explique que sa conjointe qui a déjà publié des livres s'occupe de la partie texte, lui s'occupe de la partie vidéo et de la préparation du matériel.
+[13] L'appelant dit qu'il n'a pas établi de plan d'affaires et n'a pas cherché de subventions. Il s'est acheté une caméra de 5 600 $. En 2001 et 2002, il n'a pas fait faire le montage de ses films parce que cela coûtait trop cher soit 150 $ à 250 $ par jour.
+[14] C'est en 2004, au studio d'une télévision communautaire que l'appelant a appris à faire du montage. Depuis, il s'est construit une salle de montage dans sa résidence au coût de 2 500 $.
+[15] L'avocat de l'intimé a déposé comme pièce I-2 les « États des résultats des activités d'une entreprise » pour les années 2001 et 2002. En 2002, on y lit « Frais de production de films : 12 626,79 $ » . L'appelant explique que ces frais sont les frais du bateau, de location de voitures dans les pays visités et autres frais de voyage excluant le transport aérien qui est aussi réclamé au montant de 2 527,98 $.
+[16] L'appelant admet qu'il n'a pas essayé de diminuer ses pertes d'une année à l'autre malgré l'absence de recettes provenant de son entreprise car c'était un risque à courir. Il admet aussi qu'il est un passionné de voyage.
+Arguments
+[17] L'avocat de l'intimée fait valoir que pour qu'une personne puisse déduire des dépenses dans le calcul du revenu, il doit y avoir une source de revenu qui est soit une entreprise ou un bien. Ici, la source de revenu serait une entreprise. Quand l'entreprise exercée comporte des aspects indiquant qu'elle pourrait être considérée comme une activité personnelle, le contribuable doit démontrer qu'il exploite son activité d'une manière commerciale et notamment, il doit y avoir un espoir raisonnable de profits. L'intention prédominante dans l'exercice de l'activité était-elle de produire un revenu? Il ne suffit pas pour une personne de dire que son intention est de produire des films alors que la personne n'a rien changé à son cours de vie.
+[18] L'avocat de l'intimée se réfère à la décision de la Cour suprême du Canada dans Stewart c. Canada, [2002] A.C.S. no 46 (QL) et notamment aux paragraphes 54 et 55 :
+[54] Il y a également lieu de souligner que la détermination de l'existence d'une source de revenu n'est pas un processus purement subjectif. Outre le fait que, pour qu'une activité soit qualifiée de commerciale par nature, le contribuable doit avoir l'intention subjective de réaliser un profit, il faut aussi, tel que mentionné dans l'arrêt Moldowan, que cette détermination se fasse en fonction de divers facteurs objectifs. Ainsi, sous une forme plus élaborée, le premier volet du critère susmentionné peut être reformulé ainsi : « Le contribuable a-t-il l'intention d'exercer une activité en vue de réaliser un profit et existe-t-il des éléments de preuve étayant cette intention? » Cela oblige le contribuable à établir que son intention prédominante était de tirer profit de l'activité et que cette activité a été exercée conformément à des normes objectives de comportement d'homme d'affaires sérieux.
+[55] Les facteurs objectifs énumérés par le juge Dickson dans Moldowan, précité, p. 486, étaient (1) l'état des profits et pertes pour les années antérieures, (2) la formation du contribuable, (3) la voie sur laquelle il entend s'engager, et (4) la capacité de l'entreprise de réaliser un profit. Comme nous le concluons plus loin, il n'est pas nécessaire pour les besoins du présent pourvoi d'ajouter d'autres facteurs à cette liste; nous nous abstenons donc de le faire. Nous tenons cependant à réitérer la mise en garde du juge Dickson selon laquelle cette liste ne se veut pas exhaustive et les facteurs diffèrent selon la nature et l'importance de l'entreprise. Nous tenons également à souligner que, même si l'expectative raisonnable de profit constitue un facteur à prendre en considération à ce stade, elle n'est ni le seul facteur, ni un facteur déterminant. Il faut déterminer globalement si le contribuable exerce l'activité d'une manière commerciale. Cette détermination ne devrait toutefois pas servir à évaluer après coup le sens des affaires du contribuable. C'est la nature commerciale de son activité qui doit être évaluée, et non son sens des affaires.
+[19] L'avocat se réfère également à la décision du juge Bowie de cette Cour dans Morris c. Canada, [2003] A.C.I. no 288 (QL), et plus particulièrement au paragraphe de 13 de cette décision :
+[13] À mon avis, les activités de M. Morris se rapportant à la prestation de services de guide à des gens qui souhaitent aller pêcher en milieu sauvage comportent un aspect personnel considérable. J'ai déduis cette conclusion en raison du fait qu'il est un pêcheur à la ligne passionné et qu'il s'adonne à cette activité pendant la majeure partie des quarante dernières années. De même, selon son propre témoignage, il est un lamaneur très compétent. Il a décrit à la Cour, avec une apparente fierté, comme il était capable de gouverner son bateau dans des eaux difficiles là où d'autres lamaneurs avaient échoué. Les excursions en bateau et les voyages de pêche qui ont donné lieu, en grande partie, aux dépenses pour lesquelles il a demandé une déduction sont une prolongation de ce passe-temps auquel il s'adonne depuis de nombreuses années. Il est donc nécessaire de procéder au deuxième volet de la méthode dont a fait mention la Cour. La question que l'on doit se poser et à laquelle il faut répondre est la suivante : « le contribuable [avait-il] l'intention d'exercer [l'] activité en vue de réaliser un profit et existe-t-il des éléments de preuve étayant cette intention? » Pour cela, je dois, d'une part, déterminer si l'intention prédominante du contribuable consistait à tirer un profit de son activité de guide de pêche, ce qui en soi est une analyse subjective, et d'autre part, s'il exerçait cette activité « [...] conformément à des normes objectives de comportement d'homme d'affaires sérieux » .
+[20] L'avocat fait valoir que l'appelant n'a pas démontré avoir la formation et l'expérience requises relativement à l'activité de production de films pour la télévision. Ainsi, il n'a appris à faire du montage qu'en 2004. L'entreprise a généré des pertes importantes depuis le début et en génère encore pour des recettes nulles. L'appelant n'a pas de plan d'affaires. Il ne tient pas de registres comptables. Il n'a pas répondu au questionnaire. Il n'a pas ajusté ses dépenses. Son activité est de la nature d'un passe-temps. Elle est de nature personnelle.
+[21] L'appelant quant à lui fait valoir que son entreprise est une entreprise modeste et que ce sont les critères d'une entreprise modeste qui doivent s'appliquer.
+Analyse et conclusion
+[22] Les paragraphes 9(1) et 9(2) et l'alinéa 18(1)a) de la Loi se lisent ainsi :
+9(1) Revenu - Sous réserve des autres dispositions de la présente partie, le revenu qu'un contribuable tire d'une entreprise ou d'un bien pour une année d'imposition est le bénéfice qu'il en tire pour cette année.
+9(2) Perte - Sous réserve de l'article 31, la perte subie par un contribuable au cours d'une année d'imposition relativement à une entreprise ou à un bien est le montant de sa perte subie au cours de l'année relativement à cette entreprise ou à ce bien, calculée par l'application, avec les adaptations nécessaires, des dispositions de la présente loi afférentes au calcul du revenu tiré de cette entreprise ou de ce bien.
+18(1) Exceptions d'ordre général - Dans le calcul du revenu du contribuable tiré d'une entreprise ou d'un bien, les éléments suivants ne sont pas déductibles :
+a) Restriction générale - les dépenses, sauf dans la mesure où elles ont été engagées ou effectuées par le contribuable en vue de tirer un revenu de l'entreprise ou du bien;
+[23] Pour l'application de ces dispositions, il doit y avoir une entreprise. L'alinéa 18(1)a) de la Loi dit spécifiquement, que dans le calcul du revenu tiré d'une entreprise, un contribuable ne peut déduire aucune dépense que dans la mesure où elle a été engagée ou effectuée en vue de tirer un revenu de l'entreprise.
+[24] L'entreprise qui est l'objet de ces dispositions est l'entreprise commerciale, c'est à dire une entreprise exercée dans le but d'en tirer un profit. Le contribuable doit établir que son intention prédominante était de tirer un profit de l'activité et que cette activité a été exercée conformément à des normes objectives d'affaires.
+[25] L'entreprise artistique peut ne pas générer de bénéfices pour une longue période mais pour pouvoir se qualifier d'entreprise, elle doit posséder certaines caractéristiques normales à l'activité en question. Il est intéressant de lire à ce sujet le Bulletin d'interprétation IT-504R2 : « Artistes visuels et écrivains » .
+[26] Ici, nous ne voyons pas les caractéristiques normales d'une entreprise de production cinématographique. L'appelant ne savait pas dans les années en litige faire le montage de ses films. Ceci peut ne pas être essentiel mais alors il faut retenir les services d'un monteur professionnel. L'appelant n'a pas voulu obtenir les services d'un monteur à cause du coût quotidien de tels services. Il n'a pas estimé le nombre de jours requis pour les services de montage et n'a fait aucune estimation des dépenses de montage essentielles à la production cinématographique. Par ailleurs, il n'a jamais remis en cause les dépenses élevées du bateau, de la location de voitures et autres frais de voyage sur plusieurs mois. Ce qui donne à croire que le but personnel était plus important que le but d'affaires.
+[27] Il n'y a pas eu de preuve que l'appelant ait reçu la formation normalement requise pour devenir producteur de films ou vidéos comme les études dans les institutions d'enseignement ou des périodes de formation dans des maisons spécialisées dans ce genre d'entreprise, ou encore l'association avec d'autres cinéastes.
+[28] Il n'y a pas eu d'ajustement au cours des années des dépenses élevées face à des recettes nulles. Ce qui aurait été normal dans un contexte d'affaires même dans le domaine culturel.
+[29] Tous ces éléments sont les éléments d'une activité exercée pour des fins personnelles et non pour des fins commerciales, pour une activité dont le but prédominant n'est pas de tirer un profit. Une entreprise artistique de nature commerciale peut être modeste mais elle doit exhiber les caractéristiques d'une entreprise commerciale : la recherche du profit, la rationalisation des dépenses, la capacité d'exercer l'activité de façon professionnelle ou quasi-professionnelle et autres caractéristiques normales d'une entreprise commerciale du même genre.
+[30] En conséquence, les appels doivent être rejetés.
+Signé à Ottawa, Canada, ce 17e jour de janvier 2006.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE : 2006CCI42
+N º DU DOSSIER DE LA COUR : 2005-1746(IT)I
+INTITULÉ DE LA CAUSE : ÉMILIEN ARSENEAULT ET SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Montréal (Québec)
+DATE DE L'AUDIENCE : le 5 octobre 2005
+MOTIFS DE JUGEMENT PAR : L'honorable juge Louise Lamarre Proulx
+DATE DU JUGEMENT : le 17 janvier 2006
+COMPARUTIONS :
+Pour l'appelant :
+l'appelant lui-même
+Avocat de l'intimée :
+Me Mounes Ayadi
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Étude :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Ontario

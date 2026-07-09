@@ -1,0 +1,142 @@
+Title: Abhar v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/110422/index.do
+Corpus path: corpus/cases/tcc/2015/2015-tcc-166-110422-abhar-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2015-06-26
+
+# Abhar v. M.N.R.
+
+- Citation: 2015 TCC 166
+- Decision date: 2015-06-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2660, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Abhar v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-06-26
+Neutral citation
+2015 TCC 166
+File numbers
+2014-1926(CPP), 2014-1927(EI)
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Canada Pension Plan
+Decision Content
+Dockets: 2014-1926(CPP)
+2014-1927(EI)
+BETWEEN:
+KAVOOS ABHAR,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Appeal heard on May 29, 2015
+at Victoria, British Columbia
+Before: The Honourable Justice Judith Woods
+Appearances:
+Counsel for the Appellant:
+Joseph Gereluk
+Counsel for the Respondent:
+Natasha Wallace
+JUDGMENT
+Upon appeal under the Employment Insurance Act and the Canada Pension Plan with respect to decisions of the respondent that Mark Ahern was engaged as an employee of the appellant during 2012, the appeal is allowed and the decisions are vacated. Each party shall bear their own costs.
+Signed at Toronto, Ontario this 26th day of June 2015.
+“J.M. Woods”
+Woods J.
+Citation: 2015 TCC 166
+Date: 20150626
+Dockets: 2014-1926(CPP)
+2014-1927(EI)
+BETWEEN:
+KAVOOS ABHAR,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+Introduction [1] The appellant, Kavoos Abhar, operates a painting business under the name Peacock Painting in Victoria, British Columbia. Mark Ahern worked for Mr. Abhar as a painter for about 16 years.
+[2] This appeal concerns a determination by the respondent that Mr. Ahern was engaged by Mr. Abhar in insurable and pensionable employment from January 1 until November 14, 2012 when the relationship ended. Mr. Abhar has appealed this determination and submits that Mr. Ahern was engaged as an independent contractor.
+[3] By way of background, this Court previously heard a similar appeal regarding another painter engaged by Mr. Abhar, Mr. Cartier. The decision in that matter, heard by A.C.J. Rossiter (as he then was), was that Mr. Cartier was engaged as an independent contractor.
+[4] I have reviewed a transcript of the oral reasons in the earlier appeal, and have concluded that the decision is not helpful to this appeal because the facts are materially different. In particular, Mr. Cartier was paid “by the job” as opposed to Mr. Ahern’s compensation which was “by the hour.”
+[5] I would comment at the outset that Mr. Abhar and Mr. Ahern were both self-interested witnesses and I have viewed their testimony with the caution that is customary in these circumstances.
+Background facts [6] Peacock Painting is a relatively small business with residential and some commercial customers. In the relevant period, Mr. Abhar himself worked as a painter in addition to managing the business. He also engaged other painters, either as employees or independent contractors. Mr. Abhar paid them either on an hourly or per job basis.
+[7] Mr. Ahern first started working for Mr. Abhar about 16 years ago and the two men had a good working relationship until it ended, apparently over a dispute as to the nature of Mr. Ahern’s engagement.
+[8] The evidence was not as detailed as I would like on some of the details of the relationship. Based on the evidence as a whole, I find that Mr. Ahern was engaged on a per job basis, and in the period at issue he was paid $22 per hour. During the busy time of the year, roughly March to October, there was a significant amount of work that Mr. Ahern undertook for Mr. Abhar.
+[9] When working for Peacock Painting, Mr. Ahern generally worked 8 hours per day from Monday to Friday, although he did take time off. Mr. Ahern was not willing to work more than 8 hours per day or on weekends.
+Discussion [10] The legal principles that are relevant for this appeal were usefully summarized in Pareto Corp. v. M.N.R., 2015 TCC 47. I understand that this decision is currently under appeal to the Federal Court of Appeal but the summary of legal principles set out in the decision, and reproduced below, are well established. Footnotes have been excluded.
+[…]
+[9] Distinguishing employment from an independent contractor arrangement can be challenging because working conditions and relationships are unique to every workplace and are constantly evolving.
+[10] The distinction turns on the following definitions of “employment”:
+(a) Paragraph 5(1)(a) of the EIA defines it as:
+employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise.
+(b) Subsection 2(1) of the CPP provides as follows:
+“employment” means the state of being employed under an express or implied contract of service or apprenticeship, and includes the tenure of an office.
+[11] The leading case on this issue is Wiebe Door Services Ltd. v. M.N.R. which was confirmed by the Supreme Court of Canada in 671122 Ontario Ltd. v. Sagaz Industries Canada Inc. The question is always whether or not the person “is performing [the services] as a person in business on his own account”. Sagaz summarizes the test enunciated in Wiebe Door as follows:
+In making this determination, the level of control the employer has over the worker’s activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker’s opportunity for profit in the performance of his or her tasks.
+It bears repeating that the above factors constitute a non-exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case.
+[12] In addition to these factors, the subjective intention of the parties must also be considered. Where one can establish a common intent of the parties with regard to the type of working relationship they wished to establish, this intent must be considered in the Court’s analysis of the foregoing factors.
+[13] It is important to bear in mind, however, that the intention of the parties is only relevant to the extent that it is reflected in the facts of the case. The subjective intention of the parties is not determinative on its own. Justice Mainville of the Federal Court of Appeal made the following clarification in 1392644 Ontario Inc. o/a Connor Homes v. Minister of National Revenue:
+37 the legal status of independent contractor or of employee is not determined solely on the basis of the parties[’] declaration as to their intent. That determination must also be grounded in a verifiable objective reality.
+[14] Connor Homes mandates a two-step analysis. First, the intention of the parties must be ascertained in order to determine what kind of relationship they wished to create. In the light of that intent, the second step is to analyze the facts of the case to determine whether the expression of the parties’ intent conforms to the objective reality of their relationship. In this second step, the Court must apply the four Wiebe Door factors, namely: (i) control, (ii) ownership of tools, (iii) chance of profit and (iv) risk of loss, to determine whether the factual reality reflects the subjective intention of the parties.
+[…]
+Intention of the parties [11] The intention of the parties should be considered first.
+[12] Although Mr. Abhar and Mr. Ahern did not explicitly discuss whether Mr. Ahern was to be an employee or independent contractor until near the end of their relationship, the intention of Mr. Abhar was manifest from his actions. In particular, Mr. Abhar did not take source deductions, he issued tax slips evidencing a subcontractor relationship (T5018), and he arranged for pay cheques which sometimes contained the word “contract” on the face of the cheque.
+[13] Mr. Ahern testified that he believed throughout his engagement with Peacock Painting that he was an employee. This testimony is self-serving because Mr. Ahern has applied for employment insurance benefits, and accordingly the testimony should be viewed with caution, especially if it is inconsistent with the objective facts.
+[14] I would first comment that the actions of Mr. Abhar above clearly signalled to Mr. Ahern that the relationship was intended to be an independent contractor relationship. Mr. Ahern worked under these conditions for many years. This strongly suggests that Mr. Ahern was aware that he was not intended to be an employee.
+[15] The evidence also reveals that Mr. Ahern deducted business expenses on his income tax returns. As far as the evidence reveals, it appears that this was on the basis that Mr. Ahern was an independent contractor.
+[16] Second, Mr. Ahern had ready answers to explain away the objective facts that pointed to a common intention of a contractor relationship. I did not find these explanations to be believable.
+[17] Counsel for the respondent suggests that Mr. Ahern did not have the sophistication to understand that he was not intended to be an employee. Although this is possible, I find it unlikely. Mr. Ahern may not have experience in financial and business matters, but I formed the impression that Mr. Ahern was an astute individual who would have understood that this was intended to be an independent contractor relationship.
+[18] Overall, Mr. Ahern’s testimony that he thought he was an employee does not stack up with the evidence as a whole and I find that it is not reliable.
+[19] I would conclude that the parties formed a mutual intention that Mr. Ahern be an independent contractor. I now turn to the factors in Wiebe Door to determine if the relationship was consistent with the intention.
+Level of control [20] The control test is whether the payer has the ability to control the manner in which the work is done. This is often a critical factor in determining the nature of the relationship.
+[21] Mr. Ahern was an experienced and very skilled painter and he did not require detailed supervision.
+[22] Mr. Ahern was engaged on a per job basis and there was no obligation on either party beyond that. The evidence also suggests that Mr. Ahern had considerable freedom to take time off in the middle of a job and he refused to work overtime.
+[23] The control factor favours an independent contractor relationship.
+Whether worker provides own equipment [24] The evidence was that Mr. Ahern could have used equipment provided by Mr. Abhar, but he chose to use his own tools. This factor tilts slightly to an independent contractor relationship.
+Whether worker manages and assumes financial risk [25] The evidence suggests that Mr. Ahern did not generally manage or assume financial risk as an entrepreneur would. This slightly favours employment.
+Whether worker has opportunity for profit [26] Since Mr. Ahern was paid on an hourly basis, he did not have an opportunity for profit as an entrepreneur would. This factor slightly favours employment.
+Conclusion [27] The key factor in this case is the loose relationship between the parties. Neither party had a commitment to the other for a period of time as there often is in a traditional employment relationship. In addition, Mr. Ahern had considerable freedom in deciding his hours of work. In my view, the objective facts are consistent with the parties’ mutual intention that Mr. Ahern be an independent contractor.
+[28] The appeal will be allowed.
+Signed at Toronto, Ontario this 26th day of June 2015.
+“J.M. Woods”
+Woods J.
+CITATION:
+2015 TCC 166
+COURT FILE NOs.:
+2014-1926(CPP)
+2014-1927(EI)
+STYLE OF CAUSE:
+KAVOOS ABHAR and THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING:
+Victoria, British Columbia
+DATE OF HEARING:
+May 29, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Judith Woods
+DATE OF JUDGMENT:
+June 26, 2015
+APPEARANCES:
+Counsel for the Appellant:
+Joseph Gereluk
+Counsel for the Respondent:
+Natasha Wallace
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Joseph Gereluk
+Firm:
+Joseph Gereluk Law Office
+Victoria, British Columbia
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

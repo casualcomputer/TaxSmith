@@ -1,0 +1,131 @@
+Title: Bergeron c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27073/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-81-27073-bergeron-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2006-02-24
+
+# Bergeron c. La Reine
+
+- Citation: 2006 CCI 81
+- Decision date: 2006-02-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 780, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bergeron c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-02-24
+Référence neutre
+2006 CCI 81
+Numéro de dossier
+2005-2885(IT)I
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-2885(IT)I
+ENTRE :
+DIANE BERGERON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 3 février 2006, à Trois-Rivières (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocat de l'appelante :
+Me Benoît Boucher
+Avocat de l'intimée :
+Me Simon-Nicolas Crépin
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de l'avis de ratification du ministre du Revenu national (le « ministre » ) daté le 6 juillet 2005, est admis, sans dépens, et l'affaire est déférée au ministre pour nouvel examen et nouvelle détermination en tenant compte du fait que l'appelante est le particulier admissible relativement à sa fille, Caroline, de janvier 2005 à mars 2005, à l'égard de la prestation fiscale canadienne pour enfants, pour l'année de base 2003 et du crédit pour la taxe sur les produits et services pour l'année d'imposition 2003, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 24e jour de février 2006
+« Alain Tardif »
+Juge Tardif
+Référence : 2006CCI81
+Date : 20060224
+Dossier : 2005-2885(IT)I
+ENTRE :
+DIANE BERGERON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit de l'appel d'une détermination relativement à la prestation fiscale canadienne pour enfants établie par le ministre du Revenu national (le « ministre » ) le 20 juin 2005, à l'égard de l'année de base 2003, pour la période de janvier 2005 à mars 2005.
+[2] La question en litige consiste à déterminer si le ministre a correctement conclu que l'appelante n'était pas le particulier admissible relativement à sa fille Caroline pour la période de janvier 2005 à mars 2005 inclusivement à l'égard de la prestation fiscale canadienne pour enfants pour l'année de base 2003 et du crédit pour la taxe sur les produits et services pour l'année d'imposition 2003.
+[3] Pour établir et ratifier la nouvelle détermination dont il est fait appel, le ministre a tenu pour acquis les faits suivants :
+a) l'appelante et monsieur Donald Duguay se sont mariés le 21 septembre 1991;
+b) l'appelante et monsieur Donald Duguay ont eu trois enfants :
+i) Jean-Sébastien Bergeron-Duguay, né le 17 novembre 1986,
+ii) Nadine Bergeron-Duguay, née le 2 septembre 1989, et
+iii) Caroline Bergeron-Duguay, née le 29 juillet 1991;
+c) l'appelante et monsieur Donald Duguay ne font plus vie commune depuis le 4 juin 2003;
+d) suite au jugement de séparation de corps de la Cour supérieure daté du 7 octobre 2003, et prononcé par l'honorable juge Jocelyn Verrier, j.c.s., ce dernier a entériné, a déclaré exécutoire et a ordonné aux parties de se conformer aux modalités du consentement sur mesures accessoires dûment signé par les parties le 1er octobre 2003, nommément les suivantes :
+i) l'appelante aura la garde de Jean-Sébastien et Caroline Bergeron-Duguay,
+ii) monsieur Donald Duguay aura la garde de Nadine Bergeron-Duguay;
+e) le ministre avisa par écrit le 2 avril 2004 l'appelante et monsieur Donald Duguay que leur état civil était considéré comme séparé pour la période commençant le 1er juillet 2003.
+f) avant la période en litige, l'appelante a toujours été considérée comme étant le parent qui assumait principalement le soin et l'éducation de son enfant Caroline;
+g) le père, monsieur Donald Duguay, a déposé une demande de prestation fiscale canadienne pour enfants au ministre, alléguant qu'à compter du 9 décembre 2004, il était celui qui prenait principalement soin de sa fille Caroline;
+h) le ministre procéda à l'émission de l'avis de nouvelle détermination de prestation fiscale canadienne pour enfants établie le 18 mars 2005, à l'égard de l'année de base 2003, et à l'émission de l'avis de la nouvelle détermination de crédit pour la taxe sur les produits et les services daté du 25 février 2005, à l'égard de l'année d'imposition 2003, afin de tenir compte des faits allégués par le père dans sa demande de prestation fiscale canadienne pour enfants;
+i) à l'étape des oppositions, l'appelante rapportait, entre autres, les faits suivants :
+i) l'enfant Caroline est partie chez son père, vers le 8 ou 9 décembre 2004,
+ii) une intervenante sociale, madame Marie-Pierre Morneau, confirmait à l'appelante que sa fille Caroline désirait revenir vivre avec sa mère,
+iii) l'enfant Caroline est revenue chez l'appelante le 17 mars 2005;
+j) le ministre a considéré que l'appelante n'avait pas démontré qu'elle était le particulier admissible de sa fille Caroline pour la période s'échelonnant du mois de janvier 2005 au mois de mars 2005 inclusivement, quant à l'année de base et l'année d'imposition 2003.
+[4] La prépondérance de la preuve a établi que l'enfant Caroline avait rendu visite à son père dans le cadre des vacances annuelles des fêtes en décembre 2004.
+[5] À la fin des vacances, le père a refusé de faire le nécessaire afin que l'enfant Caroline retourne vivre avec sa mère.
+[6] Une intervenante sociale, Marie-Pierre Morneau, est intervenue; l'appelante a alors même fait parvenir au père de l'enfant une mise en demeure, de lui retourner l'enfant conformément à la garde légale que le tribunal lui avait accordée.
+[7] Le ministre prétend que l'appelante, Diane Bergeron, la mère de Caroline, n'a pas droit à la prestation fiscale canadienne pour enfants pour la période de janvier à mars 2005, au motif que Caroline était alors avec son père et ce, bien qu'il s'agissait d'une garde illégale.
+[8] À la suite de l'explication soumise par l'appelante lors de son avis d'opposition, la personne ou les personnes responsables de la révision du dossier ont manifestement manqué de rigueur dans le traitement du dossier en s'arrêtant essentiellement à la version mensongère que le père avait fournie et en limitant à la plus simple expression l'étude du dossier.
+[9] L'article 122.6 a) de la Loi de l'impôt sur le revenu exige que le particulier admissible réside avec la personne à charge. Le critère de la résidence constitue donc un élément essentiel à l'obtention du crédit.
+[10] Le juge Bonner, dans l'affaire S. R. c. La Reine, 2003CCI649, dossier 2003-602(IT)I, écrivait au paragraphe 12 :
+12 L'expression « réside avec » , telle qu'elle est utilisée dans la définition du terme « particulier admissible » à l'article 122.6, doit être interprétée de manière à tenir compte de l'objet de la loi. Cette loi visait à mettre en oeuvre la prestation fiscale pour enfants. Cette prestation avait été mise en place en 1993 en vue de fournir un paiement mensuel unique non imposable aux conjoints ayant la garde d'un enfant. L'enfant devait être le bénéficiaire de ce paiement, lequel était versé au parent assumant principalement la responsabilité pour son soin et son éducation. Le critère est le fait de résider avec le parent. La présence physique d'un enfant qui vient rendre visite à la résidence d'un parent ne permet pas de remplir la condition imposée par la loi. Le verbe « résider » , tel qu'il est utilisé à l'article 122.6, a une connotation de résidence établie et habituelle.
+[11] Ainsi, le terme « résider » réfère à un domicile établi, à une résidence habituelle. Le mot « résidence » prévu par la Loi correspond à l'endroit habituel et légal.
+[12] En l'espèce, la prépondérance de la preuve a démontré que le père avait abusé de son droit de visite et décidé unilatéralement de garder l'enfant mineure contre la volonté de la mère qui en avait la garde légale.
+[13] Je ne cautionnerai certainement pas un tel geste en rejetant l'appel. Comme je l'ai d'ailleurs indiqué, il me semble que l'Agence pourrait mettre en place une procédure pour éviter de prendre partie dans les difficiles relations entre les parents d'enfants mineurs.
+[14] Tout en comprenant que cela puisse causer des frais supplémentaires pour la mise en place d'un système plus fiable, j'ai néanmoins l'impression qu'un éventuel mécanisme plus approprié permettrait de réaliser de substantielles économies tout en évitant de judiciariser ces dossiers trop nombreux.
+[15] Ces dossiers ont des conséquences fort négatives et souvent graves, en plus d'aggraver la situation déjà très tendue entre les parents et, ce qui est encore plus inacceptable, ils ont, dans bien des cas, des effets directs et indirects sur le bien-être des enfants déjà très affectés par les relations très tendues chez leurs parents.
+[16] Je n'ai aucune hésitation à conclure que l'enfant mineure, Caroline avait comme résidence, de janvier à mars 2005, son domicile établi habituel, soit celui de sa mère, et que sa présence chez son père était essentiellement temporaire, inhabituelle, et surtout tout à fait illégale.
+[17] En conséquemment, l'appel est admis et la cotisation est déférée au ministre pour nouvel examen et nouvelle détermination en tenant compte du fait que le ministre a incorrectement conclu que l'appelante n'était pas le particulier admissible relativement à sa fille Caroline pour la période de janvier 2005 à mars 2005 inclusivement à l'égard de la prestation fiscale canadienne pour enfants pour l'année de base 2003 et du crédit pour la taxe sur les produits et services pour l'année d'imposition 2003, puisque l'appelante était bel et bien le particulier admissible relativement à sa fille.
+Signé à Ottawa, Canada, ce 24e jour de février 2006.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE :
+2006CCI81
+No DU DOSSIER DE LA COUR :
+2005-2885(IT)I
+INTITULÉ DE LA CAUSE :
+Diane Bergeron c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Trois-Rivières (Québec)
+DATE DE L'AUDIENCE :
+le 3 février 2006
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge Alain Tardif
+DATE DU JUGEMENT :
+le 24 février 2006
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Benoît Boucher
+Avocat de l'intimée :
+Me Simon-Nicolas Crépin
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante :
+Me Benoît Boucher
+Gendron, Boucher, Bacon et Gladu
+Montréal (Québec)
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,163 @@
+Title: Guest v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26410/index.do
+Corpus path: corpus/cases/tcc/2004/2003-cci-924-26410-guest-v-m-n-r-fr.md
+Document type: case_law
+Last modified: 2004-02-11
+
+# Guest v. M.N.R.
+
+- Citation: 2003 CCI 924
+- Decision date: 2004-02-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3357, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Guest v. M.N.R.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-02-11
+Référence neutre
+2003 CCI 924
+Numéro de dossier
+2003-1761(EI)
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2003-1761(EI)
+ENTRE :
+CLAIRE F. GUEST,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 26 novembre 2003, à Nanaimo (Colombie-Britannique)
+Par le juge D.W. Beaubier
+COMPARUTIONS
+Pour l'appelante :
+L'appelante elle-même
+Pour l'intimé :
+Stacey Michael Repas
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision du ministre est confirmée selon les motifs du jugement ci-joints.
+Signé à Saskatoon (Canada), ce 19e jour de décembre 2003.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 21e jour de décembre 2004.
+Jacques Deschênes, traducteur
+Référence : 2003CCI924
+Date : 20031219
+Dossier : 2003-1761(EI)
+ENTRE :
+CLAIRE F. GUEST,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+MOTIFS DU JUGEMENT
+Le juge Beaubier, C.C.I.
+[1] Le présent appel a été entendu à Nanaimo (Colombie-Britannique), le 26 novembre 2003. Seule l'appelante a témoigné.
+[2] Les points en litige sont énoncés dans les paragraphes 5 à 12 de la réponse à l'avis d'appel :
+[TRADUCTION]
+5. Le 22 novembre 2002, le ministre du Revenu national (le « ministre » ) a rendu deux décisions déterminant que l'appelante n'exerçait pas un emploi assurable au sens du Règlement sur l'assurance-emploi (pêche) durant les périodes comprises entre le 22 avril 1999 et le 30 juin 1999 ainsi qu'entre le 1er mai 2002 et le 5 juillet 2002 (les « périodes » ).
+6. L'appelante a interjeté appel des décisions au moyen de lettres datées du 7 décembre 2002.
+7. En réponse à l'appel déposé contre ces décisions par l'appelante en vertu de l'article 91 de la Loi sur l'assurance-emploi, L.C. 1996, ch. 23 (la « Loi » ), l'intimé a déterminé que l'appelante n'exerçait pas un emploi assurable durant les périodes.
+8. Pour parvenir à la conclusion que l'appelante n'exerçait pas un emploi assurable durant les périodes, l'intimé s'est appuyé sur les hypothèses factuelles suivantes :
+a) l'appelante est la conjointe de fait de Roger Skidmore;
+b) M. Skidmore est propriétaire d'un bateau de pêche et titulaire d'un permis de pêche commerciale pour la crevette;
+c) l'appelante travaille sur le bateau de pêche de M. Skidmore depuis 1987;
+d) l'appelante et M. Skidmore s'attribuent chacun la moitié du revenu tiré des activités de pêche de M. Skidmore sur leurs déclarations de revenus depuis au moins 1997;
+e) l'appelante a assumé sa part des coûts attribuables au carburant, aux appâts et aux filets ainsi que de tous les autres frais associés à la pêche à la crevette;
+f) l'appelante travaillait 7 jours par semaine durant les périodes;
+g) l'appelante ne fournissait pas de services aux termes d'un contrat de louage de services;
+h) l'appelante était un travailleur autonome de l'industrie de la pêche;
+i) M. Skidmore a remis à l'appelante un relevé d'emploi pour l'année d'imposition 2002 indiquant une rémunération assurable de 46 589,43 $ tirée de la vente de crevettes au grand public;
+j) M. Skidmore a remis à l'appelante un relevé d'emploi pour l'année d'imposition 1999 indiquant une rémunération assurable de 31 003,50 $ tirée de la vente de crevettes au grand public;
+k) les crevettes pêchées et vendues par l'appelante et M. Skidmore au grand public durant les périodes ont été vendues à partir du quai de l'État à Comox (Colombie-Britannique) ou à partir du lieu de résidence de l'appelante et de M. Skidmore; elles ont été livrées personnellement aux clients;
+l) l'appelante et M. Skidmore n'ont pas remis de factures comptabilisant la vente de crevettes;
+m) les crevettes étaient généralement vendues au grand public en quantités de 1 ou 2 livres à la fois;
+n) le produit de la vente de crevettes au grand public ne constitue pas une rémunération assurable.
+B. POINTS À TRANCHER
+9. Il faut déterminer en l'espèce si l'appelante exerçait un emploi assurable durant les périodes.
+C. DISPOSITIONS LÉGISLATIVES INVOQUÉES
+10. Le ministre se fonde sur l'alinéa 5(1)a) et le paragraphe 2(1) de la Loi de même que sur le paragraphe 1(1) et les articles 2 et 5 du Règlement sur l'assurance-emploi (pêche).
+D. MOYENS INVOQUÉS ET REDRESSEMENT DEMANDÉ
+11. Le ministre soutient en toute déférence que l'appelante n'exerçait pas un emploi assurable pour M. Skidmore durant les périodes, car elle n'avait pas été engagée aux termes d'un contrat de louage de services au sens de l'alinéa 5(1)a) de la Loi.
+12. Il soutient également que les sommes versées à l'appelante ne constituent pas une rémunération assurable d'après l'interprétation et les définitions énoncées à l'article 1 du Règlement sur l'assurance-emploi (pêche).
+[3] Aucun élément de preuve n'a permis de réfuter les hypothèses 8 b), c), d), f), i), j), k) et m).
+[4] À propos des autres hypothèses :
+8 a)
+L'appelante et M. Skidmore étaient légalement mariés à toutes les dates importantes et le sont encore.
+8 e)
+Selon les preuves présentées, c'est M. Skidmore qui a payé les filets; pour le reste, cette hypothèse n'a pas été réfutée.
+8 g)
+Durant les périodes, les revenus de l'appelante et de M. Skidmore provenant de la pêche en 1999 ont été divisés presque à parts égales; en 2002, en raison de la vente de crevettes au grand public, le revenu de M. Skidmore a atteint environ 15 000 $ et celui de l'appelante s'est chiffré autour de 40 000 $.
+8 h)
+L'appelante est sourde. Elle a exercé le droit jusqu'à ce que sa surdité la contraigne à se joindre à son mari dans ses activités de pêche. Selon son témoignage, sur le bateau, c'est elle qui agissait en tant que capitaine, qui pêchait, faisait fonctionner l'équipement de navigation, tenait les journaux de bord, triait les prises et équeutait les crevettes destinées à la congélation.
+8 i)
+Ce paragraphe fait état de la position de l'intimé dans le présent appel. L'appelante a admis que, depuis qu'elle a commencé à pêcher, son revenu a été réinvesti dans le bateau de M. Skidmore, mais aucune preuve ne permet de savoir s'il s'agissait de prêts ou de dons. Le titre de propriété du bateau et de l'équipement de pêche appartient à M. Skidmore. L'appelante n'a de droits à ces égards que parce qu'elle est son épouse; à moins que ces droits ne soient exercés dans une action en droit matrimonial, le titre légal appartient à M. Skidmore.
+8 l)
+Il est question dans ce paragraphe de la vente de crevettes au grand public par l'appelante et M. Skidmore au quai du ministère des Transports à Comox, en Colombie-Britannique. Si un client demandait une facture, on lui en remettait une, mais pas dans les autres cas. L'appelante enregistrait les ventes, mais à cause de sa surdité, elle effectuait rarement la vente au grand public; elle se chargeait plutôt du travail administratif, pendant que M. Skidmore et leur fille s'occupaient des clients.
+8 n)
+Tout dépend de l'interprétation du Règlement sur l'assurance-emploi (pêche), articles 1 et 2, paragraphes 3(1), (2) et (3) :
+1. (1) Les définitions qui suivent s'appliquent au présent règlement.
+« Loi » La Loi sur l'assurance-emploi.
+« acheteur » Personne qui achète une prise en vue de la revendre soit sous sa forme originale, soit transformée, et non pour l'utiliser comme aliment, pâture ou appât.
+« prise » Produit ou sous-produit naturel de la mer ou de toute autre étendue d'eau qui est pêché ou récolté par un équipage, y compris le poisson frais ou traité, la mousse d'Irlande, le varech et les baleines, mais non les écailles de poisson ni les phoques. Sont assimilées à une prise :
+a) soit la partie de celle-ci livrée à un acheteur;
+b) soit les prises ou parties de prises livrées ensemble au même acheteur.
+« équipage » Groupe de pêcheurs qui font habituellement des prises ensemble ou qui ont fait ensemble une prise donnée. Dans le cas d'un pêcheur qui travaille seul, « équipage » et « membre de l'équipage » s'entendent de ce seul pêcheur.
+« poisson traité » Poisson et produits du poisson suivants :
+a) le poisson de fond salé, le hareng saur, le maquereau saumuré, le turbot saumuré, le hareng saumuré, le gaspareau saumuré ou salé, la truite saumurée et autres produits du poisson saumurés;
+b) l'huile de morue et les foies de morue.
+« employeur » Personne considérée comme l'employeur d'un pêcheur aux termes de l'article 3.
+« pêcheur » Travailleur indépendant se livrant à la pêche, y compris toute personne qui, n'étant pas liée par un contrat de louage de services ni ne faisant la pêche pour son divertissement personnel ou celui d'une autre personne, se livre à l'une des activités suivantes :
+a) la réalisation d'une prise;
+b) les travaux se rapportant à la réalisation ou à la manutention d'une prise, qu'il s'agisse de charger, décharger, transporter ou traiter la prise de l'équipage dont elle est membre, ou de préparer, réparer, désarmer ou remiser le bateau de pêche ou les engins de pêche utilisés par cet équipage pour faire ou manutentionner la prise, dans les cas où elle participe également à la réalisation de la prise;
+c) la construction d'un bateau de pêche qu'elle-même ou l'équipage dont elle est membre utilisera pour faire une prise.
+« engins de pêche » Équipement spécialisé, sauf les outils à main et les vêtements, utilisé exclusivement par l'équipage pour faire une prise.
+« poisson frais » Poisson qui n'est pas du poisson traité.
+« prestataire de la première catégorie » Prestataire qui remplit les conditions requises pour recevoir des prestations et qui a accumulé au moins 3 760 $* de rémunération assurable provenant d'un emploi à titre de pêcheur au cours de sa période de référence.
+« salaire minimum » À l'égard de la rémunération du pêcheur provenant de la prise de l'équipage, salaire minimum de la province où réside le pêcheur le 1er janvier de l'année au cours de laquelle la prise est vendue.
+« prestataire de la deuxième catégorie » Prestataire qui remplit les conditions requises pour recevoir des prestations et qui a accumulé moins de 3 760 $* de rémunération assurable provenant d'un emploi à titre de pêcheur au cours de sa période de référence.
+(* DORS 2001/74, art. 1 : montants changés de 4 200 $ à 3 760 $. L.C. 2001, ch. 5, art. 14 : changement présumé être entré en vigueur le 31 décembre 2000.
+(2) L'employeur qui se livre à des travaux se rapportant à une prise qui sont généralement exécutés sur la terre ferme n'est pas considéré comme membre de l'équipage ayant réalisé la prise.
+2. Tout pêcheur est considéré comme un assuré et, sous réserve des autres dispositions du présent règlement, la Loi et ses règlements s'appliquent au pêcheur, avec les adaptations nécessaires.
+3. (1) Pour l'application de la Loi et de ses règlements, l'employeur d'un pêcheur est la personne considérée comme tel par le présent article.
+(2) Lorsque la prise de l'équipage est livrée au Canada à un acheteur ou à l'agent de celui-ci par un des membres de l'équipage qui y a participé, l'acheteur est considéré comme l'employeur des pêcheurs qui sont membres de l'équipage et qui se partagent le produit de la vente de cette prise.
+(3) Lorsque la prise de l'équipage est livrée par un de ses membres qui y a participé à une personne qui n'est pas considérée comme l'employeur selon le paragraphe (2) et que le produit brut de la vente de la prise est versé au premier pêcheur ou, s'il n'y en a pas, à l'agent responsable de la vente de la prise, est considéré comme l'employeur :
+a) soit le premier pêcheur, par rapport aux autres pêcheurs membres de l'équipage;
+b) soit l'agent, par rapport :
+(i) aux autres pêcheurs membres de l'équipage, s'il en fait également partie,
+(ii) sinon, aux pêcheurs membres de l'équipage.
+(4) Dans le cas où le même agent représente à la fois l'équipage et un acheteur, cet agent est considéré comme l'employeur :
+a) des autres pêcheurs membres de l'équipage, s'il en fait également partie;
+b) sinon, des pêcheurs membres de l'équipage.
+(5) L'agent visé au paragraphe (4) a le droit de recouvrer de l'acheteur les cotisations patronales qu'il a versées.
+[5] Les parties ont soulevé deux questions en appel :
+1. L'appelante est-elle un entrepreneur ou un employé?
+2. La vente au grand public à partir du quai de Comox constitue-t-elle une vente de la « prise » à un « acheteur » compte tenu particulièrement du paragraphe 3(3) du Règlement?
+[6] D'après les définitions figurant à l'article 1, un « pêcheur » est une personne qui se livre à la pêche, exécute un travail se rapportant à la pêche ou se livre à la construction d'un bateau destiné à faire une « prise » . La « prise » désigne, en l'espèce, les poissons ou les crevettes qui sont vendus à un « acheteur » . Un « acheteur » n'est pas un consommateur : il s'agit plutôt d'un détaillant ou d'un grossiste qui vend à des tiers ce qu'il a acheté du « pêcheur » .
+[7] L'appelante a admis que, même si une partie des ventes de 10 ou 20 livres de crevettes à partir du quai peuvent être douteuses, les crevettes ont été vendues à partir du quai à des consommateurs, habituellement en quantités de 1 ou 2 livres.
+[8] L'appelante a réclamé une interprétation généreuse de ces articles et souligné certaines anomalies en pratique découlant des termes utilisés qu'on retrouve au paragraphe [6] des présents motifs. Le libellé est clair, cependant, et notre Cour estime que le paragraphe [6] décrit le sens de ces dispositions. Pour ces raisons, l'appelante n'est pas un « pêcheur » et M. Skidmore n'est pas un « pêcheur » non plus en ce qui concerne la vente de crevettes à partir du quai de Comox, même s'ils ont organisé leurs activités en se fiant aux directives reçues oralement des fonctionnaires de l'Assurance-emploi.
+[9] Les preuves présentées à notre Cour ne lui permettent pas de déterminer si l'appelante exerçait par ailleurs un emploi pour M. Skidmore dans le cadre d'une relation employeur-employé normale. Par conséquent, les hypothèses 8 d), e), g) et n) - qui, lorsqu'elles sont conjuguées, dénotent une relation autre que celle d'employeur-employé s'apparentant à une coentreprise - n'ont pas été réfutées.
+[10] Les questions en litige sont tranchées en faveur de l'intimé.
+[11] Pour ces motifs, l'appel est rejeté.
+Signé à Saskatoon (Canada), ce 19e jour de décembre 2003.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 21e jour de décembre 2004.
+Jacques Deschênes, traducteur

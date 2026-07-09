@@ -1,0 +1,111 @@
+Title: McGoldrick c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25169/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-427-25169-mcgoldrick-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2003-09-05
+
+# McGoldrick c. La Reine
+
+- Citation: 2003 CCI 427
+- Decision date: 2003-09-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2549, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McGoldrick c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-09-05
+Référence neutre
+2003 CCI 427
+Numéro de dossier
+2002-4712(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002‑4712(IT)I
+ENTRE :
+DOUGLAS MCGOLDRICK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 18 juin 2003 à Toronto (Ontario)
+Par : L’honorable juge J. M. Woods
+Comparutions
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Nimanthika Kaneira
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre des cotisations établies pour les années d’imposition 2000 et 2001 est accueilli et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations en se fondant sur le fait que l’on n’a pas inclus les frais des spectacles dans le calcul des revenus, et que le coût des repas, des jambons et des dindes gratuits est inclus dans le calcul des revenus en vertu de l’alinéa 6(1)a) de la Loi de l’impôt sur le revenu.
+Signé à Ottawa, Canada, ce 5e jour de septembre 2003.
+« J. M. Woods »
+Juge J. M. Woods
+Traduction certifiée conforme
+ce 1er jour de mars 2004.
+Louise‑Marie LeBlanc, traductrice
+Référence : 2003CCI427
+Date : 20030905
+Dossier : 2002‑4712(IT)I
+ENTRE :
+DOUGLAS MCGOLDRICK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Woods
+[1] M. Douglas McGoldrick a interjeté appel à l’encontre de cotisations d’impôt sur le revenu pour les années d’imposition 2000 et 2001 en ce qui concerne des repas et d’autres à côtés que lui offrait gratuitement son employeur.
+[2] L’appel a été entendu selon la procédure informelle de la Cour.
+Faits
+[3] Un bon nombre de faits ne sont pas contestés. M. McGoldrick est un employé de Casino Rama Services Inc. (« Casino Rama ») situé près de Orillia, en Ontario. Casino Rama est un grand casino qui emploie plus de 2 000 personnes à temps plein.
+[4] L’employeur fournissait à des employés comme M. McGoldrick un repas gratuit par quart de travail et déclarait les frais à titre d’avantages imposables sur les formulaires T4. Il offrait également d’autres « à côtés » tels que des billets de spectacles ainsi que des jambons et des dindes pendant le temps des Fêtes et il déclarait également ces coûts comme avantages imposables. Le montant des avantages imposables a été calculé en divisant le coût total des avantages par le nombre d’employés ayant le droit d’en profiter. Dans le cas de M. McGoldrick, environ 4,50 $ par jour ou un montant un peu moins de 1 000 $ par année était déclaré relativement à tous ces avantages.
+[5] La majorité des témoignages étaient liés au repas gratuit offert pendant le quart de travail. Les employés pouvaient manger gratuitement à la cafétéria du personnel, le Turtle Island Café, pendant leur demi‑heure de déjeuner. En général, il n’avait pas le droit d’emporter d’aliments sur les lieux de travail pour des raisons d’hygiène, et en raison de l’endroit où se trouve le Casino Rama, il n’est pas facile d’aller manger ailleurs. De plus, les employés ne peuvent pas sortir sans permission pendant les quarts de travail. Par conséquent, en ce qui concerne leurs repas, les employés n’avaient pas d’autres choix que d’utiliser les distributeurs automatiques situés dans les salons. Selon le témoignage du vice‑président des ressources humaines de Casino Rama, le fait d’offrir des repas constituait un avantage pour l’employeur tout en rendant le casino plus attrayant.
+[6] M. McGoldrick n’aimait pas manger au Turtle Island Café mais, puisqu’il n’y avait pas d’autre choix possible, il y mangeait presque tous les jours. Il n’aimait pas non plus les spectacles et n’y avait assisté qu’à l’occasion. Il n’a fait aucun commentaire quant à la qualité des dindes et des jambons, alors je suppose qu’elle était satisfaisante.
+Question en litige
+[7] La question en litige vise à savoir si le fait d’offrir des repas et d’autres « à côtés » constitue un avantage imposable en vertu de l’alinéa 6(1)a) de la Loi de l’impôt sur le revenu, L.R.C. 1985 (5e suppl.), ch. 1 (la « Loi »). Le fait d’offrir des repas constitue la principale question en litige, et une bonne partie de l’avantage imposable de 4,50 $ par jour y était liée.
+[8] La quantité des avantages ne constituait pas une question en litige, et les parties n’ont fait aucune observation à ce sujet. En général, le calcul des avantages semblait raisonnable, en supposant que ces éléments constituaient des avantages imposables.
+Observations des parties
+[9] M. McGoldrick prétend que le fait d’offrir des repas gratuits constituait en fait une compensation puisqu’on ne lui permettait pas d’apporter de la nourriture au travail. On a indiqué qu’une compensation ne constituait pas un avantage imposable si l’on se fonde sur des affaires telles que La Reine c. Hoefele, C.A.F., nos A‑484‑94, A‑491‑94, A‑547‑94, A‑604‑94, A‑123‑9, 11 octobre 1995 (95 DTC 5602).
+[10] La Couronne suggère que M. McGoldrick a épargné de l’argent puisqu’on lui offrait des repas gratuits et que les repas économisés, étant une dépense quotidienne courante, constituent un avantage imposable. On a soutenu que le fait que M. McGoldrick ne voulait pas que l’employeur lui fournisse ses repas n’est pas pertinent, puisque les tribunaux ont établi que les avantages offerts unilatéralement aux employés sont quand même imposables.
+[11] La Couronne a fait référence aux décisions suivantes : Blanchard c. La Reine, C.A.F., no A‑1532‑92, 5 juillet 1995 (95 DTC 5479); La Reine c. Hoefele; Dionne c. La Reine, C.C.I., no 94‑3025(IT)G, 23 décembre 1996 (97 DTC 265); Tremblay c. La Reine, C.C.I., no 98‑711(IT)I, 24 août 2000 (2000 DTC 2414); Leduc c. R., C.C.I., no 94‑2689(IT)I, 4 décembre 1995 ([1996] 1 C.T.C. 2873); et Dunlap c. La Reine, C.C.I., no 97‑10(IT)G, 8 avril 1998 (98 DTC 2053).
+Analyse
+[12] Les parties pertinentes de l’alinéa 6(1)a) de la Loi sont rédigées en ces termes :
+(1) Sont à inclure dans le calcul du revenu d'un contribuable tiré, pour une année d'imposition, d'une charge ou d'un emploi, ceux des éléments suivants qui sont applicables :
+a) Valeur des avantages – la valeur de la pension, du logement et autres avantages quelconques qu'il a reçus ou dont il a joui au cours de l'année au titre, dans l'occupation ou en vertu d'une charge ou d'un emploi, […]
+[13] À titre de question préjudicielle, l’alinéa 6(1)a) fait référence à des avantages que le contribuable « a reçus » ou « dont il a joui ». Selon l’opinion de M. McGoldrick en ce qui concerne le Turtle Island Café, il n’a peut‑être pas « joui » d’avantages en utilisant cet endroit. Par conséquent, la question consiste à savoir si des avantages ont été « reçus ».
+[14] Il peut être difficile de déterminer si un employé a reçu un avantage. Comme le juge Bowman (tel était alors son titre) a déclaré dans la décision Pezzelato c. La Reine, C.C.I., no 94‑3011(IT)I, 31 août 1995 (96 DTC 1285), à la page 1288 :
+Il est facile de repérer les deux extrêmes, mais les cas dont les tribunaux sont saisis avec une fréquence croissante se situent non pas aux extrêmes, mais quelque part entre les deux. Les tribunaux doivent déterminer de quel côté de la ligne chaque cas se situe.
+[15] Un point de départ pratique lorsqu’il faut déterminer si l’on se trouve en présence d’un avantage imposable au sens de l’alinéa 6(1)a) est le passage suivant cité par la Cour suprême du Canada dans la décision La Reine c. Savage, [1983] 2 R.C.S. 428 (83 DTC 5409) qui est tirée de la décision du juge d’appel Evans dans l’arrêt R. v. Poynton, 72 DTC 6329 (C.A. Ont.), à la page 6335 :
+[TRADUCTION] Je ne crois pas que ces termes ne visent que les avantages liés à la charge ou à l'emploi en ce sens qu'ils représentent une forme de rémunération pour des services rendus. S'il s'agit d'une acquisition importante qui confère au contribuable un avantage économique et qui ne fait pas l'objet d'une exemption comme, par exemple, un prêt ou un cadeau, elle est alors visée par la définition compréhensive de l'art. 3.
+[16] Il s’agit d’un critère très vaste qui comprendrait les repas gratuits offerts aux employés. Le fait que M. McGoldrick utilisait la cafeteria du personnel pour acquérir un bien matériel représentant pour lui un avantage financier de valeur égale aux repas reçus.
+[17] Ne tenant pas compte de la nature générale de cette affirmation, les tribunaux ont eu tendance à reconnaître que, lorsqu’un bien est fourni à un employé principalement pour avantager l’employeur, on ne considère pas ce bien comme un avantage imposable si la jouissance personnelle est simplement accessoire à l’objectif de l’entreprise : Lowe c. La Reine, C.A.F., no A‑172‑95, 13 mars 1996 (96 DTC 6226).
+[18] En fait, cette approche a été adoptée dans une récente décision de la Cour d’appel du Québec où l’on a conclu que le remboursement des repas pendant les heures supplémentaires de travail ne constituait pas un avantage imposable. Selon le raisonnement de la Cour, la dépense pour les repas n’aurait pas été engagée dans d’autres circonstances, et on ne devait pas tenir compte des frais minimes qu’il en coûte pour préparer un repas à la maison : Sous‑ministre du Revenu pour le Québec c. Confédération des caisses populaires et d'économie Desjardins du Québec, C.A. Qué., no 200‑09‑002618‑996 (200‑02‑014968‑962 C.Q.Q.), 6 juin 2001 (2002 DTC 7404). Les motifs du juge Delisle sont présentés en ces termes au paragraphe 34 :
+Il n'y a pas, ici, un avantage que l'employé doit inclure dans le calcul de son revenu. Les frais de repas ou de transport remboursés n'auraient pas normalement été encourus. Il peut être avancé que la nourriture que l'employé aurait consommée chez lui est toujours intacte, de même que son billet de métro, mais l'inconvénient de la dépense l'emporte sur cette petite économie.
+[19] Une approche semblable a été adoptée en matière de repas dans l’affaire Chow c. La Reine, C.C.I., nos 1999‑1191(IT)I, 1999‑1192(IT)I, 14 décembre 2000 (2001 DTC 164). Dans cette affaire, on a conclu qu’un espace de stationnement gratuit fourni par un employeur ne constituait pas un avantage imposable.
+[20] Selon le témoignage du vice‑président des ressources humaines de Casino Rama, l’utilisation obligatoire du Turtle Island Café constituait un avantage pour l’employeur. Si l’élément personnel est accessoire, cela ne devrait pas constituer un avantage imposable. À mon avis, l’élément personnel n’est pas accessoire. Le fait que M. McGoldrick n’aimait pas manger au Turtle Island Café ne devrait pas être un élément déterminant. De plus, l’argent épargné n’est pas sans importance, si on le compare au montant de l’avantage imposable et il faudrait en tenir compte.
+[21] M. McGoldrick a indiqué que la décision de la Cour d’appel fédérale, dans l’arrêt Hoefele, est applicable puisqu’on y conclut qu’un contribuable ne s’enrichit pas s’il s’agit d’une compensation. M. McGoldrick a déclaré qu’il était compensé pour le fait qu’on le privait de son droit d’apporter un repas au travail.
+[22] On peut faire une distinction quant à ce genre de dossiers de compensation parce qu’ils visent le remboursement de frais. On peut également faire une distinction puisqu’ils ne visent pas le remboursement d’une dépense quotidienne courante. Le juge d’appel Linden dans l’arrêt Hoefele établit cette distinction en ces termes au paragraphe 11 :
+La Cour doit donc trancher la question de savoir si, dans chacune des présentes affaires, le contribuable a été rétabli dans la situation où il se trouvait auparavant ou s'il a réalisé un gain. Bien qu'un certain nombre d'expressions puissent être utilisées à cet égard -- comme rembourser, restituer, indemniser, dédommager, rétablir, soustraire à une dépense -- le principe sous‑jacent demeure le même. Si, dans le cadre de l'opération globale, la situation financière de l'employé n'est pas améliorée, c'est‑à‑dire s'il s'agit d'une opération où les différents éléments s'annulent lorsqu'on les considère dans leur ensemble, la rentrée n'est pas un avantage et, par conséquent, elle n'est pas imposable en vertu de l'alinéa 6(1)a). Peu importe que la dépense soit engagée relativement à des frais occasionnés par l'accomplissement du travail, un déplacement lié à l'emploi ou l'emménagement dans un nouveau lieu de travail, tant que l'employeur ne paie pas les dépenses quotidiennes ordinaires de l'employé.
+[23] J’en suis arrivé à une conclusion différente en ce qui concerne les spectacles. M. McGoldrick n’y a assisté qu’à l’occasion et, dans ce cas, je ne crois pas qu’il a « reçu » un avantage.
+[24] On n’a présenté aucun élément de preuve en ce qui concerne les jambons et les dindes. Par conséquent, je conclus que le coût lié à ces articles est imposable.
+Conclusion
+[25] L’appel est accueilli et les cotisations sont déférées au ministre pour nouvel examen et nouvelles cotisations en se fondant sur le fait que les coûts liés aux spectacles ne sont pas inclus dans le calcul du revenu et que les coûts liés aux repas gratuits, aux jambons et aux dindes sont inclus dans le calcul du revenu aux termes de l’alinéa 6(1)a) de la Loi.
+Signé à Ottawa, Canada, ce 5e jour de septembre 2003.
+« J. M. Woods »
+Juge J. M. Woods
+Traduction certifiée conforme
+ce 1er jour de mars 2004.
+Louise‑Marie LeBlanc, traductrice

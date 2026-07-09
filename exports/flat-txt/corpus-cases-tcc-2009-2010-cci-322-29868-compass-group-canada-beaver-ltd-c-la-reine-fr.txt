@@ -1,0 +1,297 @@
+Title: Compass Group Canada (Beaver) Ltd c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29868/index.do
+Corpus path: corpus/cases/tcc/2009/2010-cci-322-29868-compass-group-canada-beaver-ltd-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-06-22
+
+# Compass Group Canada (Beaver) Ltd c. La Reine
+
+- Citation: 2010 CCI 322
+- Decision date: 2009-06-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6425, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Compass Group Canada (Beaver) Ltd c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-06-22
+Référence neutre
+2010 CCI 322
+Numéro de dossier
+2007-537(GST)G
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Référence : 2010 CCI 322
+Date : 20100622
+Dossier : 2007-537(GST)G
+ENTRE :
+COMPASS GROUP CANADA (BEAVER) LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Jorré
+Introduction
+[1] Berwick on the Lake (« Berwick ») se décrit comme une résidence haut de gamme pour retraités. Elle est située en bordure d’un lac, à Nanaimo, en Colombie‑Britannique[1].
+[2] Berwick offre des logements pour personnes autonomes et des logements avec services autorisés de soins pour personnes semi-autonomes[2].
+[3] La société Compass (« Compass ») fournit des services alimentaires. C’est elle qui fournit tous les repas et toutes les boissons et collations à Berwick.
+[4] Compass soutient que la fourniture de ces services alimentaires à Berwick correspond à une fourniture exonérée aux fins de la taxe sur les produits et services (la « TPS »), étant donné que son client est un « établissement de santé ». Le ministre du Revenu national soutient par contre que les logements pour personnes autonomes ne font pas partie d’un « établissement de santé » et qu’il a par conséquent établi à bon droit à l’égard de Compass une nouvelle cotisation fondée sur le fait que la fourniture des services alimentaires à Berwick, pour les résidents occupant des logements pour personnes autonomes, est une fourniture taxable[3],[4].
+[5] Le ministre admet que les logements avec services autorisés de soins pour personnes semi‑autonomes font partie d’un « établissement de santé »; il a établi une nouvelle cotisation fondée sur le fait que les services alimentaires fournis à Berwick pour les résidents de ces logements étaient des fournitures exonérées[5].
+Disposition législative
+[6] Le terme « établissement de santé » est ainsi défini dans la Loi sur la taxe d’accise (la « Loi ») :
+« établissement de santé »
+a) Tout ou partie d'un établissement où sont donnés des soins hospitaliers, notamment aux personnes souffrant de maladie aiguë ou chronique, ainsi qu’en matière de réadaptation;
+b) hôpital ou établissement pour personnes ayant des problèmes de santé mentale;
+c) tout ou partie d’un établissement où sont dispensés aux résidents dont l’aptitude physique ou mentale sur le plan de l’autonomie ou de l’autocontrôle est limitée :
+(i) des soins infirmiers et personnels sous la direction ou la surveillance d’un personnel de soins infirmiers et médicaux compétent ou d’autres soins personnels et de surveillance (sauf les services ménagers propres à la tenue de l’intérieur domestique) selon les besoins des résidents,
+(ii) de l’aide pour permettre aux résidents d’accomplir des activités courantes et des activités récréatives et sociales, et d’autres services connexes pour satisfaire à leurs besoins psycho‑sociaux,
+(iii) les repas et le logement[6].
+L’appelante soutient en l’espèce que Berwick tombe sous le coup de l’alinéa c) de la définition, mais ne donne pas à entendre que l’alinéa a) ou b) s’applique.
+[7] Pour avoir gain de cause, l’appelante doit donc démontrer que les quatre conditions suivantes sont respectées :
+Berwick fournit, dans les logements pour personnes autonomes :
+1. des soins destinés aux résidents dont l’aptitude sur le plan de l’autonomie et de l’autocontrôle est limitée;
+2. des soins infirmiers et personnels sous la direction d’un personnel de soins infirmiers et médicaux compétent ou d’autres soins personnels et de surveillance (sauf les services ménagers propres à la tenue de l’intérieur domestique) selon les besoins des résidents;
+3. de l’aide pour permettre aux résidents d’accomplir des activités courantes et des activités récréatives et sociales, et d’autres services connexes pour satisfaire à leurs besoins psycho-sociaux;
+4. les repas et le logement.
+Les parties ne contestent pas le fait qu’il soit satisfait à la quatrième condition, la fourniture des repas et du logement.
+Les faits
+[8] Les parties ont produit un recueil conjoint de documents et la transcription de l’interrogatoire préalable de Patricia Towne[7]. Elles ont également convenu des faits suivants [8] :
+1. La période en cause s’étend du 28 janvier 2001 au 30 août 2002 (la « période »).
+2. L’appelante est une société qui a fourni à Berwick, durant la période, des services de gestion des aliments et des repas en vertu d’un contrat visant un service de traiteur.
+3. Berwick est située le long de Long Lake, à Nanaimo, en Colombie-Britannique.
+4. L’appelante est inscrite aux fins de la TPS […].
+5. L’appelante n’a pas perçu de TPS au regard des services qu’elle a fournis à Berwick durant la période.
+6. Par avis daté du 1er juin 2005, le ministre du Revenu national (le « ministre ») a établi une cotisation de TPS à l’égard de l’appelante, notamment par suite de l’omission de cette dernière de percevoir et de verser la TPS relativement aux services qu’elle a fournis à Berwick. Les montants relatifs à Berwick s’élèvent à 32 880 $ pour la période se terminant le 24 août 2001 et à 47 516 $ pour la période se terminant le 30 août 2002.
+7. L’appelante s’est opposée à la cotisation […]
+8. […] [et] le ministre a ratifié la cotisation relative aux services fournis à Berwick.
+9. Le siège social de l’appelante est situé à London, en Ontario. L’examen du dossier de la société a été effectué au bureau des services fiscaux de l’Agence du revenu du Canada, à London. Aucun vérificateur n’a rendu visite à Berwick. Le ministre a établi une cotisation à l’égard de l’appelante en partie en fonction d’entretiens téléphoniques et de l’échange de lettres avec des représentants de Berwick et d’entretiens téléphoniques avec le bureau du ministère de Healthy Living and Sport Community Care de la Colombie-Britannique portant sur les prescriptions en matière de délivrance de permis applicables aux établissements de soins spéciaux pour adultes.
+10. Berwick compte en tout 160 logements (les « 160 logements »).
+11. Durant la période, 36 des 160 logements étaient visés par un permis que la Vancouver Island Health Authority avait délivré conformément à la loi intitulée Community Care Facility Act (la « CCFA »1), à titre d’établissement résidentiel pour adultes – privé/non subventionné (les « logements pour personnes semi‑autonomes »).
+12. Durant la période, les 124 autres logements (les « logements pour personnes autonomes ») n’étaient pas visés par un permis prévu par la CCFA, ni par quelque autre permis, si ce n’est un permis d’exploitation.
+13. Berwick a demandé un permis d’exploitation à la Ville de Nanaimo, qui le lui a délivré; le permis indique que le lieu d’exploitation compte 55 espaces de stationnement et 160 unités locatives et a une superficie totale de 140 000 pieds carrés.
+14. En sus des 36 logements pour personnes semi-autonomes, l’établissement comporte une 37e pièce, située dans le même secteur que ceux-ci, et destinée à être utilisée temporairement par les locataires des logements pour personnes autonomes (les « résidents autonomes »).
+15. Le ministre a établi à l’égard de l’appelante une cotisation exigeant le versement d’un montant de TPS supplémentaire en partant du principe que 77,5 % (soit un pourcentage correspondant aux 124 logements pour personnes autonomes sur l’ensemble des 160 logements exploités par Berwick) des activités de Berwick ne comprenaient pas la prestation, à l’intention de ses locataires, de soins médicaux correspondant au niveau exigé par la définition d’« établissement de santé » figurant dans la Loi et que, par conséquent, 77,5 % de l’ensemble des services contractuels fournis par l’appelante à Berwick étaient des fournitures taxables au taux de 7 %.
+16. Le ministre a accepté que les logements pour personnes semi‑autonomes soient assimilés à un établissement de santé et a donc autorisé l’exonération de 22,5 % (soit un pourcentage correspondant aux 36 logements pour personnes semi‑autonomes sur l’ensemble des 160 logements exploités par Berwick) des services alimentaires fournis par l’appelante à Berwick.
+17. Durant la période, l’appelante fournissait trois repas par jour, ainsi que des collations, à tous les locataires de Berwick.
+1 La CCFA a été abrogée et remplacée, le 14 mai 2004, par la loi intitulée Community Care and Assisted Living Act.
+[Renvois omis.]
+[9] Cinq témoins ont comparu : Irene Pelter, une résidente de Berwick, Diane Burt (la fille de Mme Pelter), Gerald Gould, un autre résident de Berwick, et Patricia Towne, la vice-présidente des services administratifs de Berwick Retirement Communities.
+[10] Je retiens la preuve fournie par les témoins. Les faits ne sont pas réellement contestés. Le litige porte sur la bonne interprétation des faits au regard de la définition du terme « établissement de santé ».
+[11] Les logements pour personnes autonomes sont meublés et décorés par les résidents. Quatre types de logements sont ainsi offerts : des studios, des logements comportant une chambre à coucher, des logements comportant une chambre à coucher et un coin repos et des logements comportant deux chambres à coucher. Ils comportent tous un balcon ou, dans le cas des logements situés au rez-de-chaussée, un patio, ainsi qu’une cuisinette avec un petit réfrigérateur, mais pas de fourneau. Les résidents peuvent se servir d’un four à micro-ondes.
+[12] Les résidents autonomes peuvent choisir et louer le logement qui leur convient. Berwick ne peut unilatéralement les obliger à emménager dans un autre logement.
+[13] Le loyer mensuel comprend tous les frais relatifs aux repas et aux collations[9], les frais des services publics, y compris le service de câblodistribution (mais non les frais de téléphone), les frais du nettoyage hebdomadaire du logement et les frais relatifs au lavage hebdomadaire des serviettes et des draps. Berwick ne s’occupe pas du lavage des vêtements, mais a mis plusieurs buanderies à la disposition des résidents.
+[14] Les repas sont servis dans la salle à manger; les résidents peuvent toujours choisir le repas principal.
+[15] Les résidents qui ont une voiture disposent par ailleurs d’un espace de stationnement[10]. Bon nombre des résidents de Berwick sont propriétaires d’une voiture[11].
+[16] Berwick propose en outre aux résidents des activités et des excursions facultatives. Parmi les autres salles communes, mentionnons une cuisinette pour les amateurs de cuisson, une salle de conditionnement physique, une salle de billard et un bar, où ont lieu les 5 à 7 les vendredis après-midi[12].
+[17] Il est clair que les concepteurs qui avaient été engagés pour dresser les plans de Berwick étaient très compétents et avaient trouvé diverses façons de simplifier la vie des personnes âgées qui vivraient dans l’édifice. Par exemple, les prises de courant ont été installées plus haut qu’elles ne le sont habituellement pour que les résidents n’aient pas trop à se pencher, des armatures ont été aménagées dans les murs pour solidifier les porte-serviettes afin qu’on puisse également s’y appuyer, et les corridors sont très éclairés, comportent des rampes et sont suffisamment larges pour les marchettes.
+[18] Un système téléphonique spécial avec pendentif dans chaque logement permet aux résidents d’appeler pour demander de l’aide en cas d’urgence. Si un résident appuie sur le bouton du pendentif, le système téléphonique appelle automatiquement un membre du personnel, qui peut parler au résident; le système indique automatiquement à l’employé d’où provient l’appel.
+[19] Le système téléphonique sert aussi à surveiller les résidents. Il comporte un bouton sur lequel les résidents sont censés appuyer lorsqu’ils sortent de Berwick, pour indiquer qu’ils seront absents. Les résidents sont également censés soulever le combiné le soir avant d’aller se coucher et le matin lorsqu’ils se lèvent. Cela permet aux employés de Berwick de surveiller la présence des résidents.
+[20] Les employés ont suivi une formation. Ils font rapport des repas ou activités auxquels les résidents n’ont pas pris part et signalent les incidents tels qu’une chute[13]. Les employés affectés au nettoyage savent également qu’ils doivent signaler tout problème éventuel, tel que l’incontinence. Dans certains cas, un formulaire permettant de signaler un incident doit être rempli.
+[21] Berwick a par ailleurs établi des politiques et des procédures en ce qui a trait aux questions comme la sécurité, la prévention des infections et la survenance d’épidémies de grippe.
+[22] Berwick offre des services d’intervention d’urgence aux résidents des logements pour personnes autonomes et décide des mesures à prendre, selon les circonstances. Berwick peut par exemple envoyer un résident à l’hôpital ou le transférer temporairement dans un logement pour personnes semi-autonomes.
+[23] Occasionnellement, des physiothérapeutes, des ergothérapeutes, des podiatres, des massothérapeutes et des personnes chargées de prendre des échantillons sanguins se rendent à Berwick pour offrir leurs services aux résidents. Berwick ne paie pas pour ces services; les résidents paient eux-mêmes le fournisseur de services.
+[24] La moyenne d’âge des résidents est de 84 ans et plus. Berwick compte à peu près toujours deux résidents qui doivent se déplacer en fauteuil roulant, tandis que certains utilisent des marchettes, et d’autres, des cannes. La plupart des résidents ont des problèmes de santé, lesquels ne sont pas nécessairement graves mais peuvent s’aggraver à tout moment. Certains résidents sont déprimés, d’autres en sont au stade initial de la démence. On ne peut pas clairement savoir si ces éléments de preuve s’appliquent à tous les résidents de Berwick ou seulement à ceux qui occupent des logements pour personnes autonomes[14].
+[25] Berwick n’accepte aucune personne atteinte de démence grave, que ce soit dans les logements pour personnes autonomes ou dans les logements pour personnes semi‑autonomes.
+[26] En ce qui concerne les résidents occupant des logements pour personnes autonomes :
+a) Berwick n’aide pas les résidents à s’alimenter, à s’habiller, à faire leur toilette ou à prendre un bain ni ne les aide en ce qui a trait à leur hygiène personnelle. Elle ne garde pas les médicaments des résidents, ni ne gère ou ne surveille la prise de médicaments, et elle ne gère ni l’argent ni les biens des résidents.
+b) Berwick ne veille pas à ce que les résidents s’alimentent ou suivent leur régime thérapeutique, ne fournit pas de service de gestion du comportement ou d’intervention, ni de la thérapie de réadaptation psychosociale ou de la thérapie physique intensive au sens de la définition de « prescribed services » (services prescrits) figurant à l’article 2 du règlement de la Colombie-Britannique intitulé Community Care and Assisted Living Regulation[15].
+c) Berwick ne tient pas de fiches médicales et n’établit pas de plan infirmier ou de plan de soins particulier à chacun des résidents.
+[27] Berwick procède à une évaluation très générale des résidents éventuels pour déterminer si un logement pour personnes autonomes ou un logement pour personnes semi‑autonomes leur conviendrait[16]. Berwick n’exige pas qu’un client éventuel ait été dirigé par un médecin, n’exige pas un examen médical aux fins de l’évaluation d’un éventuel client, ni n’examine son dossier médical; Berwick peut communiquer avec le médecin d’un résident éventuel, mais elle le fait uniquement dans des cas particuliers.
+[28] Berwick n’établit pas de plan infirmier ou de plan de soins particulier pour les résidents autonomes.
+[29] La demande de permis d’exploitation présentée à la ville de Nanaimo décrit l’entreprise comme un [traduction] « complexe locatif pour personnes âgées autonomes » sur une ligne, et comme [traduction] « établissement de soins intermédiaires » sur la ligne suivante. La première ligne renvoie aux logements pour personnes autonomes tandis que la seconde renvoie aux logements pour personnes semi‑autonomes.
+[30] Les documents promotionnels produits en preuve ne porteraient qui que ce soit à croire qu’une personne occupant un logement pour personnes autonomes vit dans ce qu’on pourrait communément appeler un établissement de santé[17].
+[31] Le permis délivré pour les logements pour personnes semi‑autonomes de Berwick est un permis pour établissement de soins communautaires selon les termes employés dans la Community Care Facility Act[18] de la Colombie-Britannique.
+[32] Les logements avec services autorisés de soins pour personnes semi‑autonomes sont regroupés dans une partie de Berwick.
+[33] La convention de bail des résidents des logements pour personnes semi‑autonomes est différente de celle des résidents autonomes[19]. Le loyer est également différent, étant donné les soins dispensés aux résidents des logements pour personnes semi-autonomes.
+[34] Trois niveaux de soins sont offerts dans les logements pour personnes semi‑autonomes. Il est utile de reproduire partiellement le document précisant ces trois différents niveaux[20] :
+[traduction]
+Niveau
+Type de soins fournis
+1
+• Surveillance, directive et rappel quotidiens des activités courantes (prendre un bain, s’habiller, se laver, faire sa toilette, marcher et manger).
+• Résident suffisamment autonome pour exercer ces activités après rappel et directives.
+• Besoin de supervision et de surveillance relativement à la prise de médicaments et surveillance permanente des troubles médicaux ou des problèmes de santé qui sont stables.
+2
+• Résident ayant besoin d’une aide minimale pour exercer les activités courantes (se lever pour prendre un bain, puis s’habiller, se laver et faire sa toilette), mais suffisamment autonome pour exercer les autres activités sans aide.
+• Résident pouvant être incontinent mais tout de même suffisamment autonome pour s’occuper de lui-même.
+• Besoin de supervision et de surveillance relativement à la prise de médicaments et surveillance permanente des troubles médicaux ou des problèmes de santé dont l’ampleur est susceptible de varier (p. ex., surveillance quotidienne de la glycémie, changement de vêtements).
+• Résident prenant ses repas dans la petite salle à manger.
+3
+• Résident ayant besoin d’aide pour toutes les activités courantes.
+• Résident incontinent et incapable de s’occuper de lui-même.
+• Traitements tels que colostomie, exploration ou dilatation par cathéter ou oxygénothérapie.
+• Besoin de surveillance continue, consultation fréquente d’un médecin pour les médicaments et surveillance des troubles médicaux ou des problèmes de santé instables.
+• Peut comprendre des soins palliatifs.
+• Régime particulier.
+[35] Berwick fournit en tout temps les services d’une seule infirmière autorisée. Le bureau de l’infirmière de service est situé au rez-de-chaussée, à une des extrémités du secteur des logements pour personnes semi-autonomes.
+[36] Les résidents des logements pour personnes semi-autonomes ont, si leur état de santé le leur permet, accès à toutes les installations et activités de Berwick. Par exemple, ils peuvent manger dans la salle à manger avec les autres résidents si leur santé est suffisamment bonne.
+[37] Les résidents autonomes peuvent temporairement emménager dans un logement pour personnes semi-autonomes.
+[38] Diverses circonstances peuvent entraîner le transfert d’un résident. Par exemple, une personne peut avoir des étourdissements et être mise sous surveillance pendant quelques heures, ou peut retourner à Berwick après avoir été hospitalisée, mais requérir des soins supplémentaires avant de pouvoir regagner son logement et de reprendre ses habitudes. Les trois premiers jours passés, dans une même année, par un résident autonome dans un logement pour personnes semi-autonomes ne sont pas facturés. Des frais supplémentaires quotidiens sont payables à partir de la quatrième journée.
+[39] Berwick dispose d’un 37e logement pour personnes semi-autonomes, qui n’est pas visé par le permis, qui sert à accueillir temporairement de tels résidents autonomes. De plus, si un des 36 logements pour personnes semi-autonomes est vacant, il peut également être utilisé à cette fin.
+[40] Si aucun logement pour personnes semi-autonomes n’est libre, Berwick doit prendre des dispositions pour transférer le résident autonome dans un autre établissement convenable, que ce soit temporairement ou à titre permanent.
+[41] Mme Pelter occupe un logement pour personnes autonomes. Elle est octogénaire et semble avoir certains problèmes de mémoire[21]. Elle a choisi son logement et y a apporté ses propres meubles. Elle assimile son logement à un appartement ou à une unité condominiale.
+[42] Elle décide de ce qu’elle mange et s’occupe elle-même de sa lessive. Elle n’a besoin de personne pour la prise de ses médicaments[22]. À son arrivée à Berwick, elle conduisait toujours, mais elle a décidé d’arrêter de conduire le jour où, montant la colline longeant Berwick, elle a eu une perte de mémoire, ne se rappelant pas où elle était ni ce qu’elle faisait.
+[43] Elle prend part à une activité de bienfaisance appelée « Pennies for Presents » : les résidents de Berwick enroulent des pièces de un cent. Ils ont ainsi recueilli quelque 30 000 $, qu’ils ont remis à des organismes de bienfaisance pour enfants.
+[44] Mme Pelter a temporairement séjourné dans un logement pour personnes semi‑autonomes, qui lui faisait davantage penser à une chambre d’hôpital.
+[45] Sa fille, Mme Burt, juge très rassurant de savoir que sa mère vit à Berwick, sachant qu’on s’occupera d’elle si quelque chose devait lui arriver. Elle estime en outre que sa mère peut rester autonome à Berwick en raison de l’environnement structuré qu’on y trouve[23].
+[46] M. Gould et son épouse, Mme Gould, occupent également un logement pour personnes autonomes. Ils ont emménagé à Berwick après que Mme Gould a constaté qu’elle était de moins en moins capable de s’acquitter de diverses tâches et, en définitive, qu’elle ne pouvait plus faire l’épicerie ni préparer les repas. Ayant un certain nombre de problèmes médicaux, Mme Gould n’était plus assez autonome pour continuer de tout faire dans un appartement.
+[47] Mme Gould a passé un certain nombre d’heures dans un logement pour personnes autonomes à trois reprises, mais elle n’y a jamais passé la nuit. M. Gould possède une voiture qu’il conduit encore.
+Analyse
+[48] Je ne puis conclure, pour les motifs qui suivent, que la partie de l’établissement dans laquelle Berwick exploite des logements pour personnes autonomes est un « établissement de santé » au sens de la loi.
+[49] Berwick offre ce qui suit à ses résidents autonomes :
+a) une habitation qui ressemble à un appartement ou à une unité condominiale, si ce n’est que les résidents disposent d’une cuisinette plutôt que d’une cuisine;
+b) tous les repas et des services ménagers hebdomadaires;
+c) un programme d’activités facultatives et diverses installations;
+d) une surveillance relativement discrète qui a pour objet de s’assurer qu’aucun problème ne survient;
+e) des services d’intervention d’urgence lorsqu’un problème survient.
+Il semble que Berwick s’acquitte de toutes ses responsabilités avec prévenance, en tenant compte des besoins communs aux aînés tout en laissant l’entière liberté de déplacement aux résidents.
+[50] Les résidents autonomes savent par ailleurs qu’ils peuvent, si leurs besoins changent, emménager directement dans un logement pour personnes semi-autonomes, soit temporairement soit en permanence, ce qui leur assure une certaine continuité pour ce qui est des activités quotidiennes. Les services offerts dans les logements pour personnes semi-autonomes sont différents. Les résidents occupant un logement pour personnes autonomes qui emménagent temporairement dans un logement pour personnes semi-autonomes doivent, après la période de trois jours par an durant laquelle les services sont gratuits, payer des frais supplémentaires pour tout service fourni.
+[51] Les résidents autonomes n’ont pas à s’acquitter de la plupart des tâches ménagères comme préparer les repas, faire du nettoyage ou tondre la pelouse. En fait, les résidents à la retraite ne sont plus tenus d’exercer non seulement un travail rémunéré mais aussi le travail non rémunéré qui est associé à l’entretien du domicile. Pour certains de ces résidents, comme l’intimée l’a mentionné, c’est un [traduction] « choix de style de vie »; pour d’autres, ne plus travailler est peut-être devenu une nécessité.
+PREMIÈRE CONDITION : Aptitude limitée de l’autocontrôle ou de l’autonomie (limited capacity for self-supervision and self-care).
+[52] Selon la première condition prévue par la définition d’« établissement de santé », Berwick doit, dans le cadre de l’exploitation des logements pour personnes autonomes, fournir certains services aux résidents qui ont une aptitude limité sur les plans de l’autocontrôle et de l’autonomie.
+[53] L’appelante soutient qu’il suffit que la limite soit d’ordre mental ou physique. Je souscris à cet argument.
+[54] L’appelante soutient en outre que la capacité des résidents autonomes de Berwick peut être limitée pour plusieurs raisons, [traduction] « en particulier l’âge avancé des résidents »[24].
+[55] L’appelante affirme par ailleurs que la loi ne donne aucune précision quant au degré de limitation.
+[56] Je ferai d’abord remarquer que, s’il est vrai que les résidents ont pour la plupart des problèmes médicaux, la preuve a établi que ces problèmes ne sont habituellement pas graves, même s’il est toujours possible que les problèmes médicaux d’un résident s’aggravent.
+[57] Même si la loi ne donne pas de précision quant au degré de limitation requis, les termes « aptitude limitée » et « limited capacity » indiquent clairement que la limitation doit être importante et ne pas simplement être passagère.
+[58] Deuxièmement, la loi exige que la limitation se rapporte à des capacités particulières, soit l’autocontrôle et l’autonomie, et ne vise donc pas tous les types de limitation.
+[59] L’« autocontrôle » (self-supervision) est, comme le mot l’indique, l’aptitude à prendre soi-même les décisions nécessaires pour être en mesure d’exercer les activités courantes.
+[60] La deuxième édition (2004) du Canadian Oxford Dictionary définit comme suit le terme « self-care » (autonomie) :
+[traduction]
+nom Médecine – activités qui sont nécessaires au maintien de la vie et de la santé et que les individus exercent pour eux-mêmes.
+[61] Le dictionnaire précise que cette définition est donnée dans un contexte médical. Étant donné que, à la partie II de l’annexe V de la partie IX de la Loi, le contexte correspond à la définition d’« établissement de santé » et que cette partie II traite des services de soins de santé, il convient de tenir compte de cette première définition.
+[62] Étant donné que la définition a trait à ce qui est nécessaire au maintien de la vie et de la santé, il ressort clairement qu’il est question des activités de base telles que le fait de se lever, de s’habiller, de manger, de se laver, de prendre des médicaments, de faire certains exercices et d’interagir avec les autres[25],[26].
+[63] Il n’y a rien dans la preuve qui indique que les problèmes médicaux, que ce soit sur le plan physique ou mental, de la plupart des résidents autonomes ou même de bon nombre d’entre eux sont tels que ceux-ci ont une capacité restreinte sur les plans de l’autonomie et de l’autocontrôle. Nous disposons uniquement d’éléments de preuve particuliers à trois résidents.
+[64] Au contraire, les éléments de preuve d’ordre général dont j’ai été saisi donnent à penser que les résidents décident eux-mêmes ce qu’ils vont faire et prennent activement soin d’eux-mêmes. Bon nombre d’entre eux font en fait davantage que simplement prendre soin d’eux-mêmes. Ils participent à des activités, font des excursions et prennent part à des activités de bienfaisance[27].
+[65] De fait, plusieurs résidents conduisent encore leur voiture. Il est difficile de concevoir qu’on puisse dire que ces personnes qui conduisent encore un véhicule ont une capacité restreinte sur les plans de l’autonomie et de l’autocontrôle.
+[66] Pour ce qui est des trois résidents dont nous avons entendu les témoignages, il convient en premier lieu de faire remarquer que le témoignage de M. Gould ne donnait aucunement à entendre qu’il éprouvait quelque difficulté que ce soit à prendre soin de lui-même ou à se gouverner.
+[67] Même si la preuve révèle que M. Gould et Mme Gould ont déménagé parce que celle-ci se fatiguait facilement et qu’elle n’était par conséquent plus capable de faire des choses telles que la cuisine et les travaux ménagers, elle ne démontre pas que Mme Gould avait des problèmes d’autonomie ou d’autocontrôle. La preuve ne donne pas à entendre qu’elle avait besoin d’aide pour des activités telles que le fait de s’habiller ou de s’alimenter.
+[68] Même s’il est possible qu’elle ait besoin du milieu structuré que lui offre Berwick, Mme Pelter est non seulement capable de prendre soin d’elle-même, mais elle peut de toute évidence également se gouverner. Par exemple, sa décision d’arrêter de conduire démontre qu’elle est tout à fait capable de se former un jugement éclairé sur sa propre capacité.
+[69] L’appelante n’a donc pas réussi à démontrer que l’exploitation des logements pour personnes autonomes de Berwick vise une clientèle composée de résidents dont l’aptitude sur le plan de l’autonomie et de l’autocontrôle est limitée. L’appelante n’a donc pas établi que la première condition était respectée, et l’appel devrait être rejeté pour ce seul motif[28].
+DEUXIÈME CONDITION : Des soins infirmiers et personnels sous la direction d’un personnel de soins infirmiers et médicaux compétent ou d’autres soins personnels et de surveillance (sauf les services ménagers propres à la tenue de l’intérieur domestique) selon les besoins des résidents.
+[70] Pour que cette deuxième condition soit respectée, Berwick doit fournir des services infirmiers et personnels ou des soins personnels et de surveillance selon les besoins particuliers des résidents. On n’a produit aucun élément de preuve établissant que Berwick fournissait des soins personnels et de surveillance aux résidents autonomes selon les besoins particuliers de chacun d’eux.
+[71] En ce qui a trait aux soins infirmiers et personnels, la preuve ne donne pas à penser que de tels soins étaient fournis en permanence aux résidents autonomes, bien que Berwick ait pu fournir ce qu’on pourrait appeler des services connexes[29] lorsque survenait un incident qui l’obligeait à décider quelle mesure prendre, telle qu’envoyer un résident à l’hôpital, chez le médecin ou dans un centre de soins de santé.
+[72] Étant donné que l’alinéa c) de la définition d’« établissement de santé » exige que l’établissement soit un « établissement où sont dispensés aux résidents […] des soins infirmiers et personnels » (sous-alinéa (i)), ainsi que les autres services requis, cette disposition connexe, qui exige la prestation de soins infirmiers et personnels, ne tombe pas sous le coup du sous-alinéa c)(i) de la définition. Ce sous-alinéa exige la prestation de certains soins personnels continus, qu’ils soient ou non de nature médicale.
+TROISIÈME CONDITION : Aide pour permettre d’accomplir des activités courantes et des activités récréatives et sociales, et autres services connexes pour satisfaire aux besoins psycho-sociaux des résidents.
+[73] La troisième condition est l’obligation, pour l’établissement, de fournir de l’aide relativement aux activités courantes ainsi que d’autres services visant à combler les besoins psycho-sociaux des résidents.
+[74] L’intimée a soutenu, relativement à cette troisième condition, qu’on doit tenir compte, dans l’interprétation des activités courantes visées au sous-alinéa c)(ii) de la définition de services de soins de santé, de l’emploi de cette expression dans d’autres lois portant sur le même sujet. L’intimée a cité à l’appui de cet argument le paragraphe 19 de l’arrêt Soper v. R., [1997] 3 C.T.C. 242 (CAF), où le juge Robertson déclarait ceci :
+30 À mon avis, ce n’est pas un pur hasard que le paragraphe 227.1(3) de la Loi de l’impôt sur le revenu contienne des termes identiques à ceux qui figurent à l’alinéa 122(1)b) de la Loi canadienne sur les sociétés par actions car ces deux dispositions législatives se rapportent à la norme de prudence à respecter. Il faut reconnaître que la disposition de la LCSA concerne le degré de prudence dont il faut faire preuve envers la société tandis que la disposition fiscale concerne le degré de prudence dont il faut faire preuve envers l’État et les contribuables canadiens. Toutefois, cette distinction n’annule pas la pertinence de la norme énoncée dans la LCSA, ne fût-ce qu’à cause de la présomption de cohérence des lois entre elles. Ce principe élémentaire d’interprétation des lois est expliqué par P.-A. Côté dans son ouvrage Interprétation des lois, 2e éd. (Cowansville (Québec) : Les Éditions Yvon Blais Inc., 1990), aux pages 323 et 325 :
+On suppose qu’il règne, entre les divers textes législatifs adoptés par une même autorité, la même harmonie que celle que l’on trouve entre les divers éléments d’une loi : l’ensemble des lois est censé former un tout cohérent. L’interprète doit donc favoriser l’harmonisation des lois entre elles plutôt que leur contradiction, car le sens de la loi qui produit l’harmonie avec les autres lois est réputé représenter plus fidèlement la pensée de son auteur que celui qui produit des antinomies.
+Plus concrètement, la présomption de cohérence des lois entre elles se manifeste avec d’autant plus d’intensité que les lois en question portent sur la même matière, sont in pari materia, comme on a l’habitude de dire. D’autre part, il peut apparaître certains conflits entre différentes lois, conflits que l’interprète devra résoudre de manière à rétablir l’harmonie.
+[…]
+En résumé donc, la présomption de cohérence entre lois connexes vaut surtout pour les lois émanant d’un même législateur. Elle s’appliquerait néanmoins entre lois issues de deux législateurs différents dans la mesure où il serait possible d’inférer des circonstances une volonté d’un des auteurs d’imiter la forme ou de tenir compte de la substance de l’autre législation.
+Par conséquent, pour déterminer si la norme de prudence reconnue par la common law a été modifiée par la loi, il est approprié et instructif de tenir compte non seulement de la disposition relative à la diligence raisonnable prévue au paragraphe 227.1(3) de la Loi de l'impôt sur le revenu, mais aussi des dispositions analogues, et pratiquement identiques, relatives à la norme de prudence qui figurent dans la Loi canadienne sur les sociétés par actions.
+[75] L’intimée a plus particulièrement soutenu qu’il devrait être tenu compte de la définition d’« activité courante de la vie quotidienne » figurant à l’alinéa 118.4(1)c) de la Loi de l’impôt sur le revenu. Cet alinéa sert à déterminer l’admissibilité au crédit pour déficience mentale ou physique.
+[76] Le contexte dans lequel l’expression « activité courante de la vie quotidienne » est employée est quelque peu différent. En ce qui concerne la taxe sur les produits et services, la question est de savoir si une aide relative aux activités courantes est fournie aux particuliers tandis que, dans le contexte de l’impôt sur le revenu, il s’agit de savoir si les particuliers sont capables d’exercer les activités.
+[77] Toutefois, dans les deux cas, il semble que l’objectif soit de fournir une aide directement, ou indirectement dans le cas de la taxe sur les produits et services[30], aux personnes qui ont certaines restrictions sur le plan mental ou physique.
+[78] L’expression employée dans la version anglaise de la Loi sur la taxe d’accise est « activities of daily living » et la version anglaise de la Loi de l’impôt sur le revenu renvoie aux « basic activities of daily living ». Dans la version française de ces textes de loi, les expressions employées sont « activités courantes » et « activités courantes de la vie quotidienne » respectivement.
+[79] Je suis convaincu que le sujet est assez étroitement lié à celui de la présente espèce pour que l’on puisse se servir de la définition figurant dans la Loi de l’impôt sur le revenu comme guide général nous permettant de déterminer le sens de l’expression « activités courantes » pour l’application de la définition d’« établissement de santé ».
+[80] L’alinéa 118.4(1)c) se lit comme suit :
+c) sont des activités courantes de la vie quotidienne pour un particulier :
+(i) les fonctions mentales nécessaires aux activités de la vie courante,
+(ii) le fait de s’alimenter ou de s’habiller,
+(iii) le fait de parler de façon à se faire comprendre, dans un endroit calme, par une personne de sa connaissance,
+(iv) le fait d’entendre de façon à comprendre, dans un endroit calme, une personne de sa connaissance,
+(v) les fonctions d’évacuation intestinale ou vésicale,
+(vi) le fait de marcher;
+[81] Compte tenu de ce qui précède et de la définition d’« établissement de santé » dans son ensemble, je suis convaincu que ce volet de la troisième condition exige que Berwick fournisse de l’aide pour de telles activités, par exemple le fait de s’alimenter, de s’habiller, de se laver et de se faire comprendre par autrui.
+[82] On n’a produit aucun élément de preuve donnant à penser qu’une de ces formes d’aide est fournie aux résidents autonomes. Il n’est donc pas satisfait à la troisième condition[31].
+Conclusion
+[83] Je conclus, pour ces motifs, que le ministre a correctement conclu que les logements pour personnes autonomes exploitées par Berwick ne peuvent être assimilés à un « établissement de santé ». L’appel sera donc rejeté sur le fond. Les dépens seront accordés à l’intimée[32].
+[84] Cependant, en raison de la discussion que la Cour et les parties ont eue relativement au crédit de taxe sur les intrants, le deuxième jour de l’audience, je communiquerai avec celles-ci, par l’intermédiaire du greffe, en ce qui a trait à la forme du jugement.
+[85] Je tiens enfin à remercier les avocats des parties.
+Signé à Ottawa, Ontario, ce 22e jour de juin 2010.
+« Gaston Jorré »
+Juge Jorré
+Traduction certifiée conforme
+ce 24e jour de septembre 2010.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2010 CCI 322
+No DE DOSSIER DE LA COUR : 2007-537(GST)G
+INTITULÉ : COMPASS GROUP CANADA (BEAVER) LTD. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Victoria (Colombie-Britannique)
+DATES DES AUDIENCES : Les 18 et 19 février 2009
+MOTIFS DU JUGEMENT : L’honorable juge Gaston Jorré
+DATE DES MOTIFS DU
+JUGEMENT : Le 22 juin 2010
+COMPARUTIONS :
+Avocats de l’appelante :
+Me George F. Jones, c.r.
+Me Robert Connolly
+Avocats de l’intimée :
+Me Lynn Burch
+Me John Gibb-Carsley
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : George F. Jones, c.r.
+Cabinet : Jones Emery Hargreaves Swan
+Victoria (Colombie-Britannique)
+Pour l’intimée : Me Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa (Ontario)
+[1] Recueil conjoint de documents, onglet 1, page 2.
+[2] Ibid., onglet 1, pages 8 et 11.
+[3] Dans l’exposé conjoint partiel des faits et l’exposition de la question en litige, les parties définissent comme suit la question en litige :
+[traduction]
+La seule question en litige dans le présent appel est celle de savoir si la fourniture de services alimentaires par l’appelante à 124 des 160 logements exploités par Berwick on the Lake (« Berwick ») est soustraite à la perception de la taxe sur les produits et services (« TPS ») en partant du principe que ces logements font partie d’un « établissement de santé » au sens de la Loi sur la taxe d’accise.
+(La preuve a établi clairement qu’on servait, dans la salle à manger, les repas aux résidents occupant des logements autonomes.)
+Si Berwick est un « établissement de santé », les parties conviennent que la fourniture est une fourniture exonérée visée par l’article 11 de la partie II de l’annexe V de la partie IX de la Loi sur la taxe d’accise (taxe sur les produits et services). L’article 11 se lit comme suit :
+La fourniture d’aliments et de boissons, y compris les services de traiteur, effectuée au profit de l’administrateur d’un établissement de santé aux termes d’un contrat visant à offrir des repas de façon régulière aux patients ou résidents de l’établissement.
+[4] La période en cause s’étend du 28 janvier 2001 au 30 août 2002. Une cotisation visant cette période a été établie le 1er juin 2005 à l’égard de Compass au titre de diverses résidences, dont celle de Berwick. Compass s’est opposée à la cotisation et, après examen, le ministre a délivré un avis de décision et un avis de nouvelle cotisation datés du 30 novembre 2006. L’appel de Compass porte sur cette nouvelle cotisation. Il semble que les questions concernant les résidences autres que celle de Berwick aient été résolues à la satisfaction de tous.
+[5] Berwick compte un total de 160 logements, soit 124 logements pour personnes autonomes et 36 logements pour personnes semi-autonomes. Le ministre a établi une nouvelle cotisation en se fondant sur le fait que 36 des 160 fournitures (22,5 %) étaient des fournitures exonérées.
+[6] La version anglaise de cette définition, qui figure à l’article 1 de la partie II de l’annexe V de la partie IX de la Excise Tax Act, se lit comme suit :
+“health care facility” means
+(a) a facility, or a part thereof, operated for the purpose of providing medical or hospital care, including acute, rehabilitative or chronic care,
+(b) a hospital or institution primarily for individuals with a mental health disability, or
+(c) a facility, or a part thereof, operated for the purpose of providing residents of the facility who have limited physical or mental capacity for self-supervision and self-care with
+(i) nursing and personal care under the direction or supervision of qualified medical and nursing care staff or other personal and supervisory care (other than domestic services of an ordinary household nature) according to the individual requirements of the residents,
+(ii) assistance with the activities of daily living and social, recreational and other related services to meet the psycho-social needs of the residents, and
+(iii) meals and accommodation
+[7] Transcription du 18 février 2009, page 5, lignes 16 à 23.
+[8] Tiré de l’exposé conjoint partiel des faits et de l’exposition de la question en litige.
+[9] Compass ne loue pas de logements à d’autres conditions. Il n’est donc pas possible de louer un logement sans que les repas ne soient inclus.
+[10] Recueil conjoint des documents, onglet 3, deuxième page, paragraphe 14.
+[11] Transcription du 18 février 2009, pages 24 et 25.
+[12] Ibid., page 73, lignes 6 à 12. Des frais additionnels sont exigés pour les boissons alcoolisées servies au bar ou dans la salle à manger.
+[13] Les employés des services alimentaires, notamment ceux qui servent les repas, sont des employés de Compass et non de Berwick.
+[14] Transcription du 18 février 2009, page 91, lignes 1 à 20. À la page 93, on mentionne le fait qu’une personne atteinte de démence peut, au premier stade de la maladie, demeurer dans un logement pour personnes autonomes mais qu’elle peut ensuite devoir être transférée dans un logement pour personnes semi-autonomes.
+[15] B.C. Reg. 217/2004, déposé le 14 mai 2004 et pris en application de la loi intitulée Community Care and Assisted Living Act, S.B.C. 2002, c. 75.
+[16] Il ne fait évidemment aucun doute qu’on a conclu, dans quelques cas, que Berwick ne convenait aucunement à un client éventuel.
+[17] C’est ce qui ressort des documents figurant aux onglets 1 et 2 du recueil commun des documents.
+[18] Cette loi a par la suite été remplacée par la loi intitulée Community Care and Assisted Living Act de la Colombie‑Britannique (voir la note 15).
+[19] Des exemples de conventions de bail visant des logements pour personnes autonomes figurent aux onglets 3 et 16 du recueil commun de documents, tandis qu’un exemple de convention de bail visant un logement pour personnes ayant besoin de soins intermédiaires figure à l’onglet 4 du recueil.
+[20] Ibid., onglet 6.
+[21] La preuve n’établit pas clairement si ces problèmes existaient lorsqu’elle a emménagé à Berwick.
+[22] La pharmacie insère à l’avance les médicaments dans un pilulier dont les cases correspondent à différentes journées et à divers moments de la journée. Mme Burt, la fille de Mme Pelter, vérifie si celle-ci a pris ses médicaments, ce que ne font pas les employés de Berwick; la preuve n’indique pas à quelle fréquence Mme Burt procédait à une telle vérification. Elle n’a pas témoigné qu’elle devait administrer les médicaments à sa mère ou lui rappeler de les prendre.
+[23] Transcription du 18 février 2009, page 40, lignes 6 à 12.
+[24] Deuxième page des observations écrites de l’appelante. Même s’il est généralement vrai que les problèmes médicaux s’intensifient avec l’âge, il faut se méfier des généralisations.
+[25] Dans l’édition 2006 du Nouveau Petit Robert, le seul sens du mot « autonomie » qui pourrait s’appliquer est le sens moderne indiqué en deuxième lieu :
+Liberté, indépendance matérielle ou intellectuelle.
+(Je ferai remarquer que la couverture du dictionnaire indique qu’il s’agit de l’édition 2006, mais que l’année de publication indiquée à une des pages de garde est 2004.)
+Le grand dictionnaire terminologique de l’Office québécois de la langue française rend le terme « self-care » par « autonomie » et par « autosoins »; le premier se rapporte au domaine de la psychologie, le second, au domaine de la médecine. Voici la définition d’« autonomie » qu’on y donne :
+Ensemble des habiletés permettant à une personne de se gouverner par ses propres moyens, de s'administrer et de subvenir à ses besoins personnels.
+http://www.granddictionnaire.com/BTML/FRA/r_Motclef/index1024_1.asp
+Bien que la définition d’« autonomie » figurant dans le Nouveau Petit Robert semble plus large que celle de « self-care », la définition du Grand dictionnaire terminologique donne un sens semblable à celle de « self-care ». Étant donné qu’il se rapporte au secteur de la santé, le sens donné dans Le grand dictionnaire terminologique est celui qu’il convient de retenir.
+[26] Cette interprétation de l’expression « aptitude limitée de l’autonomie et de l’autocontrôle » est compatible avec l’ensemble des services qui doivent être fournis selon ce que prévoient les autres conditions de la définition.
+[27] Les documents promotionnels de Berwick figurant aux onglets 1 et 2 du recueil conjoint de documents sont à cet égard instructifs.
+[28] Il ne fait aucun doute que certains résidents autonomes de Berwick, à un moment donné, perdent leur autonomie et n’ont plus qu’une aptitude limitée sur les plans de l’autonomie et de l’autocontrôle. Ces personnes ne pourraient plus continuer à occuper un logement pour personnes autonomes, étant donné que Berwick pourrait leur fournir les services dont ils ont besoin uniquement dans un logement pour personnes semi-autonomes. Par exemple, les soins de niveau un (soit le niveau le plus bas) qui sont fournis dans les logements pour personnes semi-autonomes comprennent le fait de rappeler aux résidents, si besoin est, qu’ils doivent s’habiller ou s’alimenter. Ils comprennent également la surveillance de la prise de médicaments. Ces services ne sont pas offerts aux résidents autonomes.
+[29] N’oublions cependant pas que les parties ne contestent pas que les services offerts dans les logements pour personnes semi-autonomes sont différents et ne sont pas en litige.
+[30] Dans le cas de la taxe sur les produits et services, le législateur se fonde sur le fait que le marché est suffisamment concurrentiel pour que tout avantage lié à l’exonération de la taxe sur les produits et services se répercute.
+[31] Et il ne m’est pas nécessaire d’examiner si l’exigence supplémentaire que représente le deuxième volet de la troisième condition est remplie ou non. Il ne m’est pas non plus nécessaire d’examiner les autres arguments de l’intimée et de juger de leur bien-fondé; je ferai cependant remarquer que la loi provinciale, même si elle n’est pas déterminante, peut être prise en considération pour l’interprétation des mots et expressions. (Voir le passage de l’arrêt Soper cité ci-dessus ainsi que le jugement North Shore Health Region c. La Reine, 2006 CCI 585, aux paragraphes 24 à 29 – même si la Cour d’appel fédérale a infirmé cette décision, ses motifs n’ont rien à voir avec ces paragraphes.)
+J’ajouterais également (i) qu’il est clair que les résidents occupant des logements pour personnes semi-autonomes n’ont pas obtenu les types de services fournis aux résidents du Kiwanis Care Centre dans l’affaire North Shore Health Region c. Canada, 2008 CAF 2 (voir les paragraphes 21 à 32), et (ii) que, comme les avocats l’ont reconnu, les circonstances de l’affaire Riverfront Medical Evaluations Ltd. c. Canada, [2001] A.C.I. no 381 (QL), étaient tout à fait différentes.
+[32] L’article 6.2 de la partie I de l’annexe V (partie IX – taxe sur les produits et services) se lit comme suit :
+La fourniture de repas effectuée par la personne qui fournit un immeuble d’habitation ou une habitation en conformité avec l’alinéa 6a), si les repas sont fournis dans l’immeuble, dans l’habitation ou dans l’immeuble d’habitation où est située l’habitation, à son occupant, dans le cadre d’un régime prévoyant la fourniture d’au moins dix repas par semaine pour une contrepartie unique déterminée préalablement à la fourniture d’un repas aux termes de la convention.
+Cette disposition n’a pas été invoquée et elle ne saurait s’appliquer à la présente espèce étant donné que Compass fournit les repas à Berwick.
+Normalement, un des objectifs généraux des taxes sur la valeur ajoutée telles que la taxe sur les produits et services est de demeurer neutre par rapport à la structure économique ou aux relations d’affaires. Par exemple, une taxe qui est neutre par rapport à la structure économique ne devrait pas influer sur le montant total de la taxe payable, qu’un constructeur de véhicules automobiles assemble uniquement les principales composantes qu’il achète à d’autres sociétés, ou qu’il fasse tout lui-même, y compris l’acier et le verre utilisés, et qu’il extraie le minerai de fer transformé en acier. Le fait qu’on ait établi des catégories de fournitures soustraites à la taxe sur les produits et services rend celle-ci non complètement neutre et entraînera inévitablement – selon toute vraisemblance – certaines anomalies.
+Cela étant dit, il est quelque peu surprenant que, si Berwick avait demandé à ses employés de préparer et de servir les repas, la valeur ajoutée associée au fait de préparer et de servir les repas n’aurait pas été assujettie à une taxe, alors que la valeur ajoutée associée à ces tâches est assujettie à une taxe dans ce cas-ci puisque Berwick a confié ces services à Compass. Pour obtenir une neutralité sur le plan structurel pour ce type de fournitures exonérées (par opposition à une neutralité plus générale), le législateur aurait pu prévoir que les mêmes taxes seraient applicables, qu’un établissement comme Berwick confie ou non les services alimentaires à un tiers. Si telle avait été l’intention du législateur, un tel résultat n’aurait peut-être pas été facile à obtenir, étant donné qu’une société comme Compass, qui offre ses services à un certain nombre de clients, peut être intégrée plus tôt dans la chaîne d’approvisionnement que c’eût été le cas si Berwick avait elle-même préparé les repas, rendant ainsi plus ardue la tâche de rédiger une disposition qui soit entièrement neutre au regard de structures différentes.

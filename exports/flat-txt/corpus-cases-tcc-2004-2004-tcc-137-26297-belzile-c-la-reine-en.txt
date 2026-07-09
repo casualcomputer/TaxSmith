@@ -1,0 +1,151 @@
+Title: Belzile c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26297/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-137-26297-belzile-c-la-reine-en.md
+Document type: case_law
+Last modified: 2004-03-02
+
+# Belzile c. La Reine
+
+- Citation: 2004 TCC 137
+- Decision date: 2004-03-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3309, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Belzile c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-03-02
+Neutral citation
+2004 TCC 137
+File numbers
+2003-1990(IT)I
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-1990(IT)I
+BETWEEN:
+ALAIN H. BELZILE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+_________________________________________________________________________
+Appeal heard on November 26, 2003, at Rivière-du-Loup, Quebec
+Before: The Honourable Justice François Angers
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Julie David
+__________________________________________________________________________
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal from the assessment made under the Income Tax Act for the 2000 taxation year is allowed and the assessment is referred to the Minister of Revenue for reconsideration and reassessment on the basis that the appellant is entitled to deduct $32,704 for the year in issue on account of a business investment loss.
+Signed at Ottawa, Canada, this 3rd day of March 2004.
+"François Angers"
+Angers J.
+Translation certified true
+on this 14th day of January 2005.
+Jacques Deschênes, Translator
+Citation: 2004TCC137
+Date: 20040302
+Court File No.: 2003-1990(IT)I
+BETWEEN:
+ALAIN H. BELZILE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers J.
+[1] In a notice of assessment dated January 7, 2003, pertaining to the 2000 taxation year, the Minister of National Revenue ("the Minister") disallowed a deduction in the amount of $32,704 ($65,405 x 50%) which the appellant had claimed as a business investment loss ("BIL"). Hence, he is appealing the assessment.
+[2] The Minister submits that 9005-3166 Québec Inc. ("9005"), the corporation to which the appellant lent money, is not a "small business corporation" (SBC) within the meaning of subsection 248(1) of the Income Tax Act ("the Act"). The Minister further submits that the appellant did not advance money to the corporation and that even if the corporation had been an SBC, he would not be entitled to deduct the loss in question.
+[3] The appellant is a lawyer. In addition to his professional activities, he and one other person start up duly incorporated companies for the purpose of constructing residential buildings. In 1993, he and his associate incorporated 3087-0075 Québec Inc. for this purpose. The appellant looked after the financing, and his shareholding associate was in charge of construction.
+[4] In 1994 and 1995, the corporation in question built two apartment buildings in Ste-Anne-de-la-Pocatière and sold them immediately. After the sales, the appellant and the same associate incorporated 9005, the corporation to which the appellant lent money. In 1995-96, 9005 built an eight-apartment building in the town of Dégelis, Quebec. In 1996, the appellant and his associate incorporated 9033-4483 Québec Inc., another corporation, which built 7 six-apartment buildings in Rivière-du-Loup, Quebec and resold them all immediately. Each of the aforementioned corporations, including 9055, describes its economic activity as construction.
+[5] The appellant explained that 9005 was unable to sell its eight-apartment building before the year 2000. He explained that when the purchase of the land was being negotiated, he believed the corporation would be entitled to purchase two adjacent parcels. After undertaking the construction project, he and his associate learned that other purchasers - competitors - had bought the neighbouring parcels. Those purchasers built two apartment buildings of lesser quality than 9005's building, which enabled them to charge lower rent. Upon completion of the second neighbouring building, an industry in Dégelis closed down, resulting in the loss of 150 jobs. Since Dégelis is a small village, the real-estate market collapsed. The appellant and his associate were unable to sell their building immediately. After nearly four years, they finally managed to sell the building at a price roughly equal to one-half its value. Thus, the building was sold during the taxation year in issue and 9005 completely ceased its activities. Consequently, the appellant was unable to recover his loan, which explains the claim in issue.
+[6] The appellant explained that 9005 ran deficits of $10,000-$12,000 per year. The corporation leased the apartments to stop losses and the appellant had to lend it $65,405 ($60,554.58 in 1995, and $4,850.46 between 1996 and 1999). The appellant's supporting exhibits show the source of these funds and of the appellant's cash injection into 9005. Suffice it to say Robert Belzile Ltée reimbursed the appellant for an [TRANSLATION] "amount due to a shareholder" and that this reimbursement was used to lend 9005 the $60,554. The account statements and financial statements tendered by the appellant confirm his testimony. As for the $4,850, a series of cheques from his law firm was issued to pay expenses, including certain salaries, hydro bills, etc. Each of these cheques shows an advance of money or an apartment number.
+[7] The evidence as to whether the appellant lent $65,405 to 9005 is sufficient to enable me to find that he did make that loan.
+[8] The financial statement of 9005 at August 31, 1999, show that the corporation had rental revenues of $24,172 in 1998 and $32,234 in 1999. Net losses were $9,038 and $10,336 for those years, respectively. Under the heading [TRANSLATION] "assets", there is $473,430 in inventory, consisting of one completed rental building intended for resale.
+[9] There remains the second issue: whether 9005 is a small business corporation within the meaning of the Act, in which case the appellant can claim the business investment loss.
+[10] The following provisions of the Act are relevant to this case:
+38. Taxable capital gain and allowable capital loss.
+For the purposes of this Act,
+(a) subject to paragraphs (a.1) and (a.2), a taxpayer's taxable capital gain for a taxation year from the disposition of any property is 3/4 of the taxpayer's capital gain for the year from the disposition of the property;
+(a.1) a taxpayer's taxable capital gain for a taxation year from the disposition after February 18, 1997 and before 2000 of any property is 3/8 of the taxpayer's capital gain for the year from the disposition of the property where:
+(i) the disposition is the making of a gift to a qualified donee (as defined in subsection 149.1(1)), other than a private foundation, of a share, debt obligation or right listed on a prescribed stock exchange, a share of the capital stock of a mutual fund corporation, a unit of a mutual fund trust, an interest in a related segregated fund trust (within the meaning assigned by paragraph 138.1(1)(a)) or a prescribed debt obligation, or,
+(ii) the disposition is deemed by section 70 to have occurred and the taxpayer is deemed by subsection 118.1(5) to have made a gift described in subparagraph (i) of the property;
+(b) a taxpayer's allowable capital loss for a taxation year from the disposition of any property is ¾ of the taxpayer's capital loss for the year from the disposition of that property;
+(c) a taxpayer's allowable business investment loss for a taxation year from the disposition of any property is ¾ of the taxpayer's business investment loss for the year from the disposition of that property.
+39(1)(c) a taxpayer's business investment loss for a taxation year from the disposition of any property is the amount, if any, by which the taxpayer's capital loss for the year from a disposition after 1977:
+(i) to which subsection 50(1) applies, or
+(ii) to a person with whom the taxpayer was dealing at arm's length of any property that is
+(iii) a share of the capital stock of a small business corporation, or
+(iv) a debt owing to the taxpayer by a Canadian-controlled private corporation (other than, where the taxpayer is a corporation, a debt owing to it by a corporation with which it does not deal at arm's length) that is
+(A) a small business corporation,
+. . .
+50. Debts established to be bad debts and shares of bankrupt corporation
+(1) For the purposes of this subdivision, where
+(a) a debt owing to a taxpayer at the end of a taxation year (other than a debt owing to the taxpayer in respect of the disposition of personal-use property) is established by the taxpayer to have become a bad debt in the year, or
+(b) a share (other than a share received by a taxpayer as consideration in respect of the disposition of personal-use property) of the capital stock of a corporation is owned by the taxpayer at the end of a taxation year and
+(i) the corporation has during the year become a bankrupt (within the meaning of subsection 128(3)),
+(ii) the corporation is a corporation referred to in section 6 of the Winding-up and Restructuring Act that is insolvent (within the meaning of that Act) and in respect of which a winding-up order under that Act has been made in the year, or
+(iii) at the end of the year
+(A) the corporation is insolvent,
+(B) neither the corporation nor a corporation controlled by it carries on business,
+(C) the fair market value of the share is nil,
+(D) it is reasonable to expect that the corporation will be dissolved or wound up and will not commence to carry on business,
+and the taxpayer elects in the taxpayer's return of income for the year to have this subsection apply in respect of the debt or the share, as the case may be, the taxpayer shall be deemed to have disposed of the debt or the share, as the case may be, at the end of the year for proceeds equal to nil and to have reacquired it immediately after the end of the year at a cost equal to nil.
+248. Definitions.
+"active business", in relation to any business carried on by a taxpayer resident in Canada, means any business carried on by the taxpayer other than a specified investment business or a personal services business;
+. . .
+"small business corporation", at any particular time, means, subject to subsection 110.6(15), a particular corporation that is a Canadian-controlled private corporation all or substantially all of the fair market value of the assets of which at that time is attributable to assets that are
+(a) used principally in an active business carried on primarily in Canada by the particular corporation or by a corporation related to it,
+(b) shares of the capital stock or indebtedness of one or more small business corporations that are at that time connected with the particular corporation (within the meaning of subsection 186(4) on the assumption that the small business corporation is at that time a "payer corporation" within the meaning of that subsection), or
+(c) assets described in paragraphs (a) or (b),
+including, for the purpose of paragraph 39(1)(c), a corporation that was at any time in the 12 months preceding that time a small business corporation, and, for the purpose of this definition, the fair market value of a net income stabilization account shall be deemed to be nil;
+125(7) Definitions - In this section,
+"active business carried on by a corporation" means any business carried on by the corporation other than a specified investment business or a personal services business and includes an adventure or concern in the nature of trade;
+. . .
+"personal services business" carried on by a corporation in a taxation year means a business of providing services where
+(a) an individual who performs services on behalf of the corporation (in this definition and paragraph 18(1)(p) referred to as an "incorporated employee"), or
+(b) any person related to the incorporated employee
+is a specified shareholder of the corporation and the incorporated employee would reasonably be regarded as an officer or employee of the person or partnership to whom or to which the services were provided but for the existence of the corporation, unless
+(c) the corporation employs in the business throughout the year more than five full-time employees, or
+(d) the amount paid or payable to the corporation in the year for the services is received or receivable by it from a corporation with which it was associated in the year;
+"specified investment business" carried on by a corporation in a taxation year means a business (other than a business carried on by a credit union or a business of leasing property other than real property) the principal purpose of which is to derive income (including interest, dividends, rents and royalties) from property but, except where the corporation was a prescribed labour-sponsored venture capital corporation at any time in the year, does not include a business carried on by the corporation in the year where
+(a) the corporation employs in the business throughout the year more than 5 full-time employees, or
+(b) any other corporation associated with the corporation provides, in the course of carrying on an active business, managerial, administrative, financial, maintenance or other similar services to the corporation in the year and the corporation could reasonably be expected to require more than 5 full-time employees if those services had not been provided;
+. . .
+[11] The business investment loss in the case at bar results from a bad debt owing to him by 9005. Since I have found that the loan was made, it must be determined whether 9005 is truly a small business corporation, in which case the appellant may claim the BIL.
+[12] Based on the definitions reproduced above, a small business corporation must be a Canadian-controlled private corporation all or substantially all of the fair market value of the assets of which is attributable, at a given time, to assets that are, among other alternatives, used principally in an active business carried on primarily in Canada. The terms "active business" and "active business carried on by a corporation" are each defined in the Act, but these definitions are of little importance here, for, if the business is determined to be a specified investment business, it is not an "active business" for the purposes of subsection 248(1) or an "active business carried on by a corporation" for the purposes of paragraph 125(7)(a) of the Act.
+[13] In Gill v. Canada, [1998] T.C.J. No. 765 (QL), Brûlé J.T.C.C. addressed this question as follows at para. 22 of his decision, and I agree with his statement.
+[22] In the Court's opinion, the fact that subsection 248(1) refers directly to subsection 125(7) of the Act, suggests that the intent of Parliament was for the definition of Canadian controlled private corporation in paragraph 125(7)(b) to be controlling for the purposes of the Act. This is not the case for the term "active business". Parliament provided two different definitions and the Court believes that the definition in subsection 248(1) should be employed with respect to the whole Act, aside from the sections where a different definition is provided with respect to a specific section as is the case with the small business deduction set out in paragraph 125(7)(a) of the Act.
+(The same argument applies for the definition of "specified investment business". Subsection 248(1) of the Act refers to paragraph 125(7)(e) of the Act.)
+[14] The respondent's position in the case at bar is based on the opinion that 9005, being a "specified investment business", does not meet the criteria set out in the "active business" definitions and therefore does not come within that category. The respondent submits that 9005 carries on a property rental business the principal purpose of which is to derive income from property and which does not employ, throughout the year, more than five full-time employees.
+[15] The appellant adduced no evidence in the case at bar to establish that 9005 had more than five employees; rather, it chose merely to state that he and his law firm staff looked after managing 9005 without actually being employees. Thus, this is not sufficient to prevent it from coming within the definition of "specified investment business."
+[16] We must now examine what must be the principal purpose of the corporation based on the definition of "specified investment business." In Interpretation Bulletin IT-73R6 of March 25, 2002, the Canada Customs and Revenue Agency explains its point of view as follows:
+12. "Principal purpose" is not a defined term in the Act for the purposes of the definition of "specified investment business" in subsection 125(7), but it is considered to be the main or chief objective for which the business is carried on.
+. . .
+14. The principal purpose of a corporation's business must be determined annually after all the facts relating to that business carried on by that corporation in that year have been considered and analyzed. Included in this evaluation should be such things as:
+(a) the purpose for which the business was originally commenced;
+(b) the history and evolution of its operations, including changes in its mode of operation and purpose of existence; and
+(c) the manner in which the business is conducted.
+[17] As for our Court, it has considered this question on several occasions, including the recent cases of Gascoigne v. Canada, [1996] T.C.J. No. 24 (QL), Lake Superior Investments Ltd. v. Canada, [1993] T.C.J. No. 234 (QL), Fautley v. Canada, [2002] T.C.J. No. 215 (QL), and, of course, Gill, supra.
+[18] In the case at bar, the appellant states that 9005 never intended to derive rental income once it completed the building in question, and that this fact remained true throughout the years in which 9005 owned the building, including the year in issue. There was no change of direction, since a real estate agent had a mandate to sell the building throughout these years. In his submission, the rental of the units was purely incidental and was done to minimize losses arising from special circumstances established by the evidence and described above.
+[19] The appellant testified in a straightforward and honest manner and I accept his version of the facts. This was not his first business of this kind, and it is clear from 9005's articles that its economic activity was construction, as it was with the other corporations that the appellant established earlier. 9005's financial statement for the fiscal year ending August 31, 1999, states that the corporation's inventory consisted of a rental building intended for resale. While 9005's income was from rentals of property, the corporation experienced only losses. The income, and the advances made by the appellant, merely served to keep everything in order until the sale of the building, which special circumstances made difficult. 9005 never changed vocations and the intention was always to sell the building.
+[20] Consequently, in light of the evidence adduced, I am of the opinion that 9005 was an "active business" and an "active business carried on by a corporation" and was not, during the taxation year in issue, a "specified investment business." The appeal is allowed and the appellant's business investment loss deduction is allowed. The assessment is remitted to the Minister of National Revenue for reconsideration and reassessment.
+Signed at Ottawa, Canada, this 3rd day of March 2004.
+"François Angers"
+Angers J.
+Translation certified true
+on this 14th day of January 2005.
+Jacques Deschênes, Translator

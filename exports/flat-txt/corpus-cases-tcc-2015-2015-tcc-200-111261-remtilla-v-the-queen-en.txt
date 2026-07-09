@@ -1,0 +1,207 @@
+Title: Remtilla v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/111261/index.do
+Corpus path: corpus/cases/tcc/2015/2015-tcc-200-111261-remtilla-v-the-queen-en.md
+Document type: case_law
+Last modified: 2015-08-12
+
+# Remtilla v. The Queen
+
+- Citation: 2015 TCC 200
+- Decision date: 2015-08-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2629, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Remtilla v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-08-12
+Neutral citation
+2015 TCC 200
+File numbers
+2013-1982(IT)G
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-1982(IT)G
+BETWEEN:
+RUZMMIN REMTILLA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeal of Kabyer Remtilla 2013-1983(IT)G on May 6, 2015, at Vancouver, British Columbia
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Counsel for the Appellant:
+David R. Davies
+Counsel for the Respondent:
+Selena Sit
+Kristian DeJong
+JUDGMENT
+The appeal made under the Income Tax Act from the Notices of Reassessments dated August 31, 2012 for the Appellant’s 2006 and 2007 taxation years is dismissed.
+Signed at Halifax, Nova Scotia, this 12th day of August 2015.
+“V.A. Miller”
+V.A. Miller J.
+Docket: 2013-1983(IT)G
+BETWEEN:
+KABYER REMTILLA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeal of
+Ruzmmin Remtilla 2013-1982(IT)G on May 6, 2015, at Vancouver, British Columbia
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Counsel for the Appellant:
+David R. Davies
+Counsel for the Respondent:
+Selena Sit
+Kristian DeJong
+JUDGMENT
+The appeal made under the Income Tax Act from the Notices of Reassessment dated August 31, 2012 for the Appellant’s 2006 and 2007 taxation years is dismissed with costs to the Respondent.
+Signed at Halifax, Nova Scotia, this 12th day of August 2015.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2015TCC200
+Date: 20150812
+Docket: 2013-1982(IT)G
+BETWEEN:
+RUZMMIN REMTILLA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2013-1983(IT)G
+AND BETWEEN:
+KABYER REMTILLA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller J.
+Overview [1] The Appellants bought and sold stock options through a joint account with Canaccord Capital (referred to as the “Canaccord Investments” or the “Canaccord Account”). The original dispute between the Appellants and the Minister of National Revenue (the “Minister”) dealt with the characterization of income and losses from that account for the 2008 year. When the Appellants filed their tax returns for 2005, 2006 and 2007, they characterized their gains and losses from the Canaccord Investments as being on account of capital. However, in their 2008 returns, the Appellants characterized a significant loss from the same activity as a business loss. The Appellants said that for consistency, they had filed T1 adjustment requests with the Canada Revenue Agency (“CRA”) for both Appellants for 2005, 2006 and 2007 (the “T1 Adjustment Requests”) along with their 2008 returns on April 30, 2009. They had requested that the capital gains and losses reported for 2005, 2006, and 2007 be treated as business income and losses. The CRA had no record of receiving the T1 Adjustment Requests in 2009, and the Appellants sent unsigned copies of the T1 Adjustment Requests to the CRA as attachments to a letter in 2012 in the course of the appeal process for their 2008, 2009 and 2010 taxation years.
+[2] After negotiations, it was accepted that the Appellants had filed the T1 Adjustment Requests in 2009 and the parties entered into settlement agreements whereby they settled all outstanding objections which the Appellants had with the CRA. The Minister reassessed the Appellants according to the settlement agreements.
+[3] The Appellants now say that the Minister has reassessed their 2006 and 2007 taxation years beyond the normal reassessment period.
+Issue [4] The only issue in these appeals is whether the T1 Adjustment Requests filed by the Appellants on April 30, 2009 and dated April 29, 2009 are valid waivers of the normal reassessment period for the 2006 and 2007 taxation years.
+[5] The witnesses at the hearing were Mr. Remtilla, Mrs. Remtilla and Ms. Agi Zebrowska, the Appeals Officer with the CRA who was assigned these files at the objection stage.
+Facts [6] The Appellants are spouses of each other and their appeals were heard on common evidence.
+[7] Mr. Remtilla is a certified general accountant (CGA). He moved to Canada in 1975; started an accounting practice in Vancouver in 1978; and, completed his CGA qualification in 1979. He is an experienced accountant and describes himself on his professional website as a “premier tax specialist, particularly in the area of SR and ED.” On his website he lists the many awards he received in his studies for his CGA. His practice mainly involves filing income tax returns for individuals and corporations. If his clients are audited by the CRA, he represents them up to the objection stage of the dispute.
+[8] Both Appellants testified that although the Canaccord Investments were jointly held, Mr. Remtilla did all the work to find the brokers and set up the account. Mr. Remtilla prepared his wife’s tax returns and was listed as her representative with the CRA for all years from 2005 through 2010.
+[9] Mr. Remtilla stated that they started to use the Canaccord Account in 2005. They had minimal prior experience in the stock market and they relied solely on their brokers to select futures contracts to trade and to effect transactions. When he set up the Canaccord Account, Mr. Remtilla understood the “covered” strategy used for trading options meant that his investments were insured against significant loss in value of the underlying shares. However, in late 2008 or early 2009, he discovered that the broker had stopped covering the options sometime in 2007 or 2008. Partly as a consequence of this, when economic downturn hit the stock market in 2008 the Appellants incurred significant losses from their Canaccord Investments. In October 2008 alone, they experienced losses of approximately $1.4 million.
+[10] In their returns for 2005, each Appellant reported a capital loss of $42,302. In 2006, they each reported a capital gain of $53,662 and, in 2007 they each reported a capital gain of $52,508. However, when the Appellants experienced the losses in 2008, they reported them as business losses. They each claimed a business loss of $492,052 on their income tax returns.
+[11] It was Mr. Remtilla’s evidence that he was fully aware of Interpretation Bulletin IT-346R which permitted a taxpayer to characterize income and losses from speculation as either business income/losses or capital gains/losses, as long as the characterization was made consistently from year to year. Mr. Remtilla testified that in April 2009 he filed the T1 Adjustment Requests, along with his and his spouse’s 2008 tax returns. According to Mr. Remtilla, he filed the T1 Adjustment Requests to comply with IT-346R and for consistency in reporting the gains/losses from the Canaccord Investments. In the T1 Adjustment Requests, he wrote that there had been an error in filing the taxpayers’ 2005, 2006 and 2007 tax returns. He requested adjustments for each year to change the capital gains/losses reported from the Canaccord Investments to business income/losses. He testified that, at that time, the Minister did not act on the T1 Adjustment Requests.
+[12] The Minister initially assessed the Appellants’ 2008 taxation year as filed. However, on July 28, 2011, the Minister reassessed their 2008 taxation year to characterize the business loss as a capital loss. The Appellants’ 2009 and 2010 taxation years were also reassessed to disallow the non-capital losses of $1,000 and $50,000 respectively, which had been carried forward.
+[13] Mr. Remtilla filed notices of objection for himself and his spouse. Ms. Agi Zebrowska, an Appeals Officer, wrote to the Appellants and requested that they explain their position for the 2008, 2009 and 2010 years.
+[14] In response, Mr. Remtilla sent a separate letter for each Appellant, with essentially the same contents and attaching the applicable T1 Adjustment Requests. He testified that Ms. Zebrowska could not find the T1 Adjustment Requests in her files, and that he filed them again as an attachment to his letters dated May 29, 2012, in response to her letter. In the letter for Mrs. Remtilla, Mr. Remtilla wrote the following about the T1 Adjustment Requests:
+Consistency
+When preparing the tax returns for Ruzzmin Remtilla, for 2005, 2006 and 2007 (the years in which the Canaccord accounts were active, we did not realize that the options trading should have been entered as income and was erroneously entered as capital gain/loss. The issue was identified when preparing the 2008 tax return and 2008 was correctly inputted as income. At the same time, T1 Adjustment requests were mailed to CRA to correct 2005, ’06 & ’07. To this date, those adjustments have not been processed. The copies of those adjustments are attached.
+[15] Mr. Remtilla testified that at the time he sent these letters in May 2012, he was not requesting that the T1 Adjustment Requests be implemented, and he did not intend that the CRA act on them. He said that he merely wanted to highlight the fact that he had attempted to achieve consistency in the Appellants’ tax filings. Mr. Remtilla testified that when he filed the T1 Adjustment Requests in 2009, he wanted to achieve consistency.
+[16] According to Ms. Zebrowska, she had doubts whether Mr. Remtilla had actually filed the T1 Adjustment Requests in 2009. However, Mr. Remtilla represented that he did file them by courier on April 30, 2009 and she also knew that the CRA has been known to lose documents. As a result, she gave Mr. Remtilla the benefit of the doubt.
+[17] Ms. Zebrowska was also assigned two additional notices of objection which Mr. Remtilla had filed for an unrelated issue. He had objected to a reassessment which had included unreported income of $113,225 and gross negligence penalties of $51,855 in his 2006 taxation year. These same amounts had also been included in the income for Kabyer Remtilla C.G.A. Co. Corp. for its 2007 taxation year and Mr. Remtilla filed a notice of objection on behalf of his company. It appeared that Mr. Remtilla had received shares from Web World Holdings Ltd. in exchange for services he provided to them. The shares were valued at $113,225 and the Minister included that amount in both Mr. Remtilla and his company’s income.
+[18] Ms. Zebrowska testified that she had hoped to resolve all outstanding issues with respect to Mr. Remtilla at the same time. On June 19, 2012, she sent the Appellants a settlement proposal in which CRA agreed to accept that the amounts from the Canaccord Investments were on account of business. Ms. Zebrowska emphasized in the settlement proposal that this treatment was for settlement purposes only. The proposal also dealt with the issue of unreported income in Mr. Remtilla’s 2006 taxation year and Kabyer Remtilla C.G.A. Co. Corp.’s 2007 taxation year.
+[19] The settlement proposal was withdrawn on July 3, 2012 because Mr. Remtilla wanted the issue with respect to the Canaccord Investments and the issue with respect to the unreported income to be resolved separately. On July 4, 2012, he asked Ms. Zebrowska to “proceed with the reassessments effecting the changes relating to the trading losses” (exhibit AR-1, tab 24) and he gave her a list of the changes he wanted to the 2005 to 2010 years.
+[20] After reviewing the issue respecting the Canaccord Investments, Ms. Zebrowska informed Mr. Remtilla that she had decided to confirm the 2008 reassessment; that is, the losses were on account of capital. Mr. Remtilla requested that the initial offer be “put back on the table”. On August 1, 2012, the Minister provided a second settlement offer. This offer was identical to the first settlement proposal except for the additional changes which Mr. Remtilla requested for him and his spouse for the 2005 to 2010 years. The settlement agreements were produced in the form of waivers which the Appellants signed on August 2, 2012.
+[21] The waivers for both Appellants were identical with respect to the Canaccord Investments. However, Mr. Remtilla’s waiver also included a resolution of his objection for his company so I will produce only that waiver. It reads:
+I will waive any right of objection or appeal in respect of any and all issues relating to the above Notices of (Re)assessments, if Canada Revenue Agency reassesses the income tax returns as follows:
+KABYER REMTILLA C.G.A. CO. CORP. – T2 return
+The audit assessment to increase the income by $113,225 in the 2007 tax year will be reversed. The gross negligence penalties assessed on the above unreported income will be cancelled.
+KABYER REMTILLA – T1 returns
+2005
+$42,302.57 loss reported as capital loss will be removed from the capital schedule and it will be reported as business loss.
+2006
+$53,662.26 profit reported as capital gain will be removed from the capital schedule and it will be reported as business income.
+The audit assessment to include $113,225 of unreported income for services to Web World Holdings Ltd. will be confirmed. The gross negligence penalties applied to the unreported income of $51,855 will be confirmed.
+2007
+$52,508.57 profit reported as capital gain will be removed from the capital schedule and it will be reported as business income.
+2008
+$492,052 assessed by audit as capital loss will be removed from the capital schedule and it will be reported as business loss.
+2009
+$113,225 capital loss on the shares of Web World Holdings Ltd. will be allowed.
+2010
+$74,275.99 profit reported as capital gain (Canaccord settlement) will be removed from the capital schedule and it will be reported as business income.
+The above adjustments will be allowed on the basis of my acceptance of the transaction in which Web World Holdings Ltd. issued shares value of $113,225 for the services I personally rendered to this client. I accept the tax consequences of the said transaction and I will not be seeking a rectification order to reverse the issuance of the said shares.
+The non-capital losses resulting from the 2008 disposition of Canaccord Investment will be applied to reduce the taxable income of other years at my direction subject to the limitation of paragraph 111(1)(a) of the Income Tax Act.
+I am familiar with subsections 165(1.2) and 169(2.2) of the Income Tax Act and understand that if I accept this proposal I will be precluded from filing an objection or an appeal under the Income Tax Act with respect to the audit re-assessment and subsequent appeal.
+It is agreed and understood that this agreement is binding on my heirs, executors, trustees, administrators, and any other person who might become liable for the taxes, interest and penalties which will ensue from this agreement.
+[22] Attached to each waiver was a list, prepared by Mr. Remtilla, of the “Proposed Changes” which he requested for the T1 returns for 2005 to 2010. This list included the allocation of charitable donations to various years and the application of the non-capital losses in various years.
+[23] The Appellants 2005 to 2010 years were reassessed in accordance with the agreements on August 31, 2012. In spite of the waivers which they signed, the Appellants filed notices of objections with respect to the reassessment of their 2006 and 2007 taxation years. As stated above, the only issue in these appeals is whether the T1 Adjustment Requests filed by the Appellants on April 30, 2009 and dated April 29, 2009 are valid waivers of the normal reassessment period for the 2006 and 2007 taxation years.
+Appellants’ Position [24] Counsel for the Appellants argued that the Minister had no statutory power to issue the reassessments for the 2006 and 2007 years. The Appellants did not file a waiver of the normal reassessment periods in prescribed form. It was the Appellants’ position that the T1 Adjustment Requests were not filed by them with the intention that they operate as waivers.
+[25] Mr. Remtilla testified that in his practice he always advises his clients not to sign a waiver “because it gives an open-ended timeframe to CRA.” Mr. Remtilla stated that he was never asked by the CRA to provide a waiver for the 2005, 2006, 2007, or 2008 tax years and he did not intend the T1 Adjustment Requests to be waivers of the normal reassessment periods.
+[26] Counsel argued that the Minister had no power to reassess the 2006 and 2007 taxation years and the reassessments are void ab initio and must be vacated.
+Respondent’s Position [27] Counsel for the Respondent argued that the T1 Adjustment Requests contain all the necessary information which is required on a waiver. She stated that the Appellants’ intention can be determined from the documents and the surrounding circumstances. She wrote:
+The CRA, despite having no record of the T1 adjustment requests, in good faith, accepted the appellants’ representations that the T1 adjustment requests were filed on April 29, 2009, and were waivers of the normal reassessment period for the 2006 and 2007 taxation years. That was a basis for CRA having entered into a settlement agreement with the appellants to resolve all years and all matters that were at objections. (Emphasis added)
+Law [28] There is no dispute that the Minister does not have the statutory authority to reassess a taxation year beyond the normal reassessment period unless the taxpayer has made a misrepresentation or has filed a waiver in prescribed form. In these appeals, the normal reassessment period is three years after the Appellants were initially assessed for their 2006 and 2007 taxation years. Mrs. Remtilla’s 2006 and 2007 taxation years were initially assessed on May 22, 2007 and May 29, 2008 respectively. Mr. Remtilla’s 2006 and 2007 taxation years were initially assessed on June 4, 2007 and June 19, 2008 respectively.
+[29] Subparagraph 152(4)(a)(ii) provides:
+152 (4) The Minister may at any time make an assessment, reassessment or additional assessment of tax for a taxation year, interest or penalties, if any, payable under this Part by a taxpayer or notify in writing any person by whom a return of income for a taxation year has been filed that no tax is payable for the year, except that an assessment, reassessment or additional assessment may be made after the taxpayer’s normal reassessment period in respect of the year only if
+(a) the taxpayer or person filing the return
+…
+(ii) has filed with the Minister a waiver in prescribed form within the normal reassessment period for the taxpayer in respect of the year;
+[30] In this appeal, the Minister was not entitled to reassess the Appellants’ 2006 and 2007 taxation years without a valid waiver being filed with the Minister prior to the expiry of the normal reassessment period: Canadian Marconi Co v Canada, [1991] 2 CTC 352 (FCA).
+[31] Traditionally, a waiver is submitted by way of a T2029 form. However, a waiver may be presented in another document, so long as it contains the prescribed information and is intended to act as a waiver. Section 32 of the Interpretation Act, RSC 1985, c I-21 states that “where a form is prescribed, deviations from that form, not affecting the substance or calculated to mislead, do not invalidate the form used.”
+[32] In Mitchell v Canada (Attorney General), 2002 FCA 407, the Federal Court of Appeal found that a letter written by the taxpayers’ counsel to the CRA (then Revenue Canada) prior to the end of the normal reassessment period constituted a waiver. At paragraph 40, Justice Sexton wrote:
+It seems to me that Revenue Canada is obliged to treat any document as a waiver, providing it contains the necessary information. Revenue Canada does not have an option as to whether or not to accept a waiver. A waiver is a privilege which a taxpayer has, and, if sent, Revenue Canada cannot disregard it.
+[33] The onus is on the Minister to prove that the Appellants have filed waivers for their 2006 and 2007 taxation years: Fietz v R, 2011 TCC 493 at paragraph 40.
+[34] In Fietz (supra), Webb J. found a valid waiver despite that the matters being waived were not included on the form. He concluded that the waiver was still operative because the scope of the waiver was set out in proposal letters. Although Form T2029 stated that the section on the form must be filled out, Justice Webb found that the Act and the case law did not technically require it.
+[35] The appropriate approach to the interpretation of a waiver is to seek to ascertain the intention of the parties as expressed in that document together with any relevant circumstances for which evidence is available: Solberg (SJ) v Canada, [1992] 2 CTC 208 (FCTD). This approach was confirmed by the Federal Court of Appeal in Mitchell (supra) at paragraph 37 of that decision.
+[36] The standard for determining a taxpayer’s intention to waive his appeal rights or the normal reassessment period is from the perspective of the objective reasonable bystander: Noran West Developments Ltd v R, 2012 TCC 434 at paragraph 74. When he discussed this concept in Noran West Developments Ltd, Paris, J. relied on the following passage from Fridman in The Law of Contract in Canada:
+74 When searching for the intentions of the parties, I believe that the search for intention in the case of a waiver is to be conducted in the same manner as for any contract on the basis of the parties’ manifested intention. That intention is determined from the perspective of the objective reasonable bystander. Fridman in The Law of Contract in Canada, refers to the classical formulation of this notion in Smith v Hughes:
+If whatever a man’s real intention may be, he so conducts himself that a reasonable man would believe that he was assenting to the terms proposed by the other party and that other party upon that belief enters into a contract with him, the man thus conducting himself would be equally bound as if he had intended to agree to the other party’s terms. (Emphasis Added)
+Analysis [37] It is clear that a document other than Form T2029 may be accepted as a waiver for the purposes of subparagraph 152(4)(a)(ii): Mitchell (supra) at paragraph 40. I agree with counsel for the Respondent that a document will be effective as a waiver if it contains the necessary information and the taxpayer’s intentions are clear.
+[38] Each T1 Adjustment Request contained the Appellant’s name, social insurance number, the year for which the adjustment was requested and details of the adjustments requested. The T1 Adjustment Requests were dated; the address was marked “same as on the return” and they contained the Appellants’ home phone number. They were not signed but when Ms. Zebrowska received them, they were attached to a letter from Mr. Remtilla. It was apparent from the letter that the T1 Adjustment Requests were prepared by Mr. Remtilla.
+[39] It is my view that the essential information which is required on Form T2029 is contained in the T1 Adjustment Requests and the letter which Mr. Remtilla sent to the CRA.
+[40] The question which remains is whether, at the time they filed the T1 Adjustment Requests in 2009, the Appellants intended that they should act as waivers for the 2006 and 2007 taxation years. Mrs. Remtilla testified that she relied entirely on Mr. Remtilla for financial decisions. Therefore, it is Mr. Remtilla’s intentions regarding the T1 Adjustment Requests which must be examined.
+[41] Mr. Remtilla testified that although he wanted the T1 Adjustment Requests to be implemented when he initially filed them in 2009, he did not intend that they were to operate as waivers. He stated that once the years became statute-barred he no longer wanted the T1 Adjustment Requests to be implemented.
+[42] Mr. Remtilla’s evidence was self-serving and strained credibility. During cross-examination, his responses were tortured. He pretended that he didn’t understand questions which required a “yes” or “no” answer.
+[43] I find it difficult to believe, for example, Mr. Remtilla’s claim that he submitted the T1 Adjustment Requests in 2012 merely to demonstrate his prior attempts at consistency, and that he had no intention of their being acted upon at that time. If this were the case, he could have - and should have – made that clear. Instead, the evidence indicates that he fully participated in the settlement discussions. He directed how the non-capital losses were to be applied and he requested that charitable donations were to be claimed in certain years. In particular, he requested that $12,000 of additional donations be removed from his 2005 taxation year and be claimed in his 2006 taxation year. He requested that $6,000 of non-capital losses from 2008 be applied to his 2006 taxation year. He requested that $37,000 of non-capital losses from 2008 be applied to his 2007 taxation year.
+[44] Ms. Zebrowska rightly inferred that Mr. Remtilla wanted the changes listed in the T1 Adjustment Requests to be effected. He sent them to her when she couldn’t find them in the Appellants’ file. It was open to Mr. Remtilla to clarify his purpose in submitting the T1 Adjustment Requests, particularly when they were incorporated into the settlement proposals, but he did not do so.
+[45] Mr. Remtilla refused the first settlement offer on the basis that he wanted to resolve the issue with respect to the unreported income separately from the issue with respect to the Canaccord Investments. However, Mr. Remtilla expected that the issue with respect to the Canaccord Investments would be processed in accordance with that settlement agreement. He was “shocked” when Ms. Zebrowska informed him that she would be confirming the reassessment with respect to the capital gains/losses issue (exhibit AR-1, tab 29, page 6). Prior to signing the settlement agreement on August 2, 2012, Mr. Remtilla did not state that he did not want the 2006 and 2007 year to be reassessed. Nor did he state that he did not intend the T1 Adjustment Requests to be acted upon in 2012.
+[46] Mr. Remtilla’s motives are suspect. If he truly did not intend that the T1 Adjustment Requests were to be acted upon in 2012, I question why he has appealed only the reassessments for the 2006 and 2007 taxation years and not the reassessment for the 2005 taxation year. Is it because the reassessments for 2006 and 2007 included gains and unreported income in his income? Whereas, the 2005 reassessment was to his benefit, it changed a capital loss to a business loss.
+[47] Mr. Remtilla had legal counsel during the settlement negotiations, and he himself is an experienced tax accountant. If he did not want the 2006 and 2007 tax years reassessed on the grounds they were statute-barred, he had ample opportunity to raise this issue during the settlement negotiations in 2012. The fact that he waited until the agreement had been finalized and he had obtained favourable treatment for the 2005, 2008 and 2009 tax years smacks of a post-hoc attempt to get around an unfavourable provision in an otherwise binding settlement agreement.
+[48] Based on the evidence, a reasonable person observing Mr. Remtilla’s interactions with the CRA in 2009 and in 2012 would infer that he always intended the T1 Adjustment Requests to be acted upon, even after the 2006 and 2007 years became statute-barred.
+[49] In my opinion, the Appellants did intend the T1 Adjustment Requests to operate as waivers to permit the reassessment of their 2006 and 2007 years. After using them to achieve a more favourable tax treatment for other years, the Appellants are not now permitted to repudiate their agreement and claim that the years were statute-barred.
+[50] In conclusion, the T1 Adjustment Requests were waivers for the Appellants’ 2006 and 2007 taxation years. The appeals are dismissed with costs to the Respondent.
+Signed at Halifax, Nova Scotia, this 12th day of August 2015.
+“V.A. Miller”
+V.A. Miller J.
+CITATION:
+2015TCC200
+COURT FILE NO.:
+2013-1982(IT)G
+2013-1983(IT)G
+STYLE OF CAUSE:
+RUZMMIN REMTILLA AND HER MAJESTY THE QUEEN
+KABYER REMTILLA AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+May 6, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Valerie Miller
+DATE OF JUDGMENT:
+August 12, 2015
+APPEARANCES:
+Counsel for the Appellant:
+David R. Davies
+Counsel for the Respondent:
+Selena Sit
+Kristian DeJong
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+David R. Davies
+Firm:
+Thorsteinssons LLP
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

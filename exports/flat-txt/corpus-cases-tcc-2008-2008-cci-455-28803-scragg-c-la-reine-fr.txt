@@ -1,0 +1,154 @@
+Title: Scragg c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28803/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-455-28803-scragg-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-08-07
+
+# Scragg c. La Reine
+
+- Citation: 2008 CCI 455
+- Decision date: 2008-08-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1523, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Scragg c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-08-07
+Référence neutre
+2008 CCI 455
+Numéro de dossier
+2004-2257(IT)G
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004‑2257(IT)G
+ENTRE :
+ROBERT SCRAGG,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 30 mai et le 1er juin 2007,
+à Vancouver (Colombie‑Britannique).
+Devant : L’honorable juge E.A. Bowie
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Victor Caux
+____________________________________________________________________
+JUGEMENT
+Les appels formés contre les nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1999, 2000 et 2001 sont rejetés, avec dépens.
+Signé à Ottawa, Canada, ce 7e jour d’août 2008.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 30e jour de juin 2009.
+Erich Klein, réviseur.
+Référence : 2008 CCI 455
+Date : 20080807
+Dossier : 2004‑2257(IT)G
+ENTRE :
+ROBERT SCRAGG,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bowie
+[1] M. Scragg fait appel de cotisations établies en vertu de la Loi de l’impôt sur le revenu[1] (la Loi) pour les années d’imposition 1999, 2000 et 2001. Ses appels pour les années 1999 et 2000 procèdent du fait que le ministre du Revenu national a refusé la déduction, dans le calcul de son revenu, des intérêts payés par lui durant ces années sur de l’argent emprunté. La déduction relative à l’année 2001 concerne une perte reportée prospectivement, et la décision sur cette déduction dépendra de l’issue des deux autres appels.
+[2] La déduction à laquelle l’appelant dit avoir droit est régie par le sous‑alinéa 20(1)c)(i) de la Loi, dont la partie pertinente est ainsi rédigée :
+20(1) Malgré les alinéas 18(1)a), b) et h), sont déductibles dans le calcul du revenu tiré par un contribuable d’une entreprise ou d’un bien pour une année d’imposition celles des sommes suivantes qui se rapportent entièrement à cette source de revenus ou la partie des sommes suivantes qu’il est raisonnable de considérer comme s’y rapportant :
+a) […]
+c) la moins élevée d’une somme payée au cours de l’année ou payable pour l’année (suivant la méthode habituellement utilisée par le contribuable dans le calcul de son revenu) et d’une somme raisonnable à cet égard, en exécution d’une obligation légale de verser des intérêts sur :
+(i) de l’argent emprunté et utilisé en vue de tirer un revenu d’une entreprise ou d’un bien (autre que l’argent emprunté et utilisé pour acquérir un bien dont le revenu serait exonéré ou pour contracter une police d’assurance‑vie),
+[…]
+J’ai souligné le passage à l'égard duquel il y a contestation en l'espèce.
+[3] L’appelant, consultant en gestion, a exercé au fil des ans un grand nombre d'activités professionnelles, dont beaucoup par l’entremise de sociétés lui appartenant, ou peut‑être, dans un cas, appartenant à une fiducie familiale. Selon son témoignage, il a subi en 1996 des pressions financières considérables et a eu besoin de fonds pour financer certaines de ses activités professionnelles. L’intimée ne conteste pas que M. Scragg a emprunté la somme de 150 000 $ à un associé le 6 août 1996. Elle ne conteste pas non plus qu’il a remboursé le prêt par le transfert de 30 000 actions d’une société appelée Sonic Systems Corporation. Le remboursement a eu lieu en avril 2000, et il n’est pas contesté que les intérêts ont été payés au cours des années où M. Scragg prétend les avoir payés et que les montants des intérêts étaient ceux qu'il a indiqués. L’intimée dit simplement que M. Scragg n’a pas été en mesure de montrer de quelle manière la somme de 150 000 $ a été employée par lui en vue de gagner ou produire un revenu durant les années visées par l’appel.
+[4] Lorsqu’il a établi les cotisations à l’égard de M. Scragg, le ministre s’est fondé sur les hypothèses de fait suivantes[2] :
+a) l’appelant n’a pas une documentation suffisante pour prouver les intérêts dont il a demandé la déduction pour les années d’imposition 1999 et 2000;
+b) l’appelant a emprunté la somme de 150 000 $ en août 1996 (l’emprunt);
+c) l’appelant n’a pas employé le produit de l’emprunt pour faire des prêts aux sociétés dont il était l’unique propriétaire;
+d) l’appelant n’a pas affecté l’emprunt à une utilisation particulière par l'actionnaire;
+e) l’appelant ne peut pas rattacher le produit de l’emprunt à aucune utilisation particulière;
+f) l’appelant n’a pas employé l’emprunt pour gagner un revenu;
+g) l’appelant n’a pas perçu d’intérêts, de revenus ou de dividendes relativement aux prêts faits à ses sociétés en propriété exclusive;
+h) l’appelant n’a pas employé l’emprunt pour tirer un revenu d’une entreprise ou d’un bien.
+[5] La position de l’appelant est qu’il a employé les fonds empruntés pour fournir un fonds de roulement à plusieurs de ses sociétés, que lesdites sociétés lui ont procuré un revenu à la fois sous la forme de profits et sous la forme d’honoraires de consultant en gestion, et que les intérêts doivent donc être déductibles en application du sous‑alinéa 20(1)c)(i) de la Loi. La difficulté qui se pose pour M. Scragg ici, et qu’il n’a pas été en mesure de résoudre, est l’obligation pour lui de prouver qu’il a affecté à une utilisation admissible les fonds empruntés. Le principe applicable a été exposé comme suit par le juge en chef Dickson dans l’arrêt Bronfman Trust c. La Reine[3] :
+La déduction prévue par la loi exige donc qu’on détermine si l’argent emprunté a été utilisé en vue de tirer un revenu imposable d’une entreprise ou d’un bien, ce qui constitue une utilisation admissible, ou s’il a été affecté à quelqu’une des possibles utilisations inadmissibles. Il incombe au contribuable d’établir que les fonds empruntés ont été utilisés à une fin identifiable ouvrant droit à la déduction. Par conséquent, si le contribuable mélange des fonds utilisés à différentes fins, dont une partie seulement est admissible, il peut ne pas pouvoir réclamer la déduction […]
+[Je souligne.]
+[6] M. Scragg n’a pu produire les livres et documents comptables de ses diverses sociétés auxquelles, selon son témoignage, il avait prêté l’argent emprunté. Il a dit que les livres et documents comptables étaient en la possession de son comptable et que celui‑ci avait mis fin à ses activités sans lui donner les documents dont il a besoin pour prouver qu'il a droit à ce qu’il réclame. Il avait, cependant, les états financiers non vérifiés de fin d’exercice de Scragg Development Corporation (SDC) et de 286603 B.C. Ltd. (286603), ainsi qu’un relevé bancaire de SDC pour le mois d’août 1996. Ce relevé bancaire indique un dépôt de 73 403,41 $ au compte de SDC fait le 7 août 1996. M. Scragg a témoigné que cette somme faisait partie de la somme empruntée et qu’elle avait été portée au crédit de son compte de prêts d’actionnaire. Les bilans des sociétés indiquent les soldes suivants de fin d’exercice dans les comptes de prêts d’actionnaire :
+SDC
+286603
+1995
+192 936 $
+121 824 $
+1996
+205 632
+139 469
+1997
+217 877
+104 020
+1998
+200 591
+1999
+176 730
+2000
+270 617
+[7] Le témoignage de M. Scragg était à la fois confus et embrouillant. Il a indiqué à maintes reprises que SDC et 286603, ainsi que trois autres sociétés qui ont déjà exercé des activités dans l’industrie du divertissement, étaient des sociétés qui lui appartenaient, sans jamais dire clairement comment les actions étaient en fait réparties ou s’il détenait des actions assorties d’un droit de recevoir des dividendes. Il a dit que le dépôt du 7 août 1996 faisait partie de la somme empruntée, mais il n’a pu préciser ce qu’il avait fait de la somme restante de 76 596,59 $, affirmant simplement qu’il avait employé une somme d’environ 32 970 $ pour rembourser, à titre de caution, un prêt bancaire consenti à l’une de ses sociétés de production de films. Ici, comme sur d'autres points, il a été vague quant au montant exact de cette obligation dont il s'est acquitté.
+[8] Les extraits suivants du témoignage de l’appelant montrent l’imprécision qui a caractérisé presque tout ce qu’il avait à dire sur ses opérations commerciales en général, et en particulier sur l’emploi qu’il avait fait des fonds empruntés.
+[traduction]
+Ce que j’essaie d’expliquer ici, c’est que, en fait, j’essayais de gagner un revenu et que j’employais cet argent à des fins générales pour répondre aux besoins financiers de mes sociétés, soit pour me rembourser une partie du capital – j’avais des capitaux libérés dans les sociétés – rembourser les prêts que j’avais souscrits aux fins de l'entreprise, soit pour investir du capital directement dans les sociétés, que les sociétés utilisaient par la suite comme fonds de roulement[4].
+[…]
+Maintenant, j’ai l’impression, à tort ou à raison, que, si j’ai du capital libéré dans la société, et je ne suis pas une grande société qui dispose d’un capital important au‑delà de ses besoins immédiats et je ne peux pas avoir à ma disposition plusieurs seaux d’argent que je peux garder séparément les uns des autres, l’ARC reconnaît cette situation comme un cas où l’argent peut être, et est habituellement, confondu. Dans ce cas particulier, c’est par mon intermédiaire que l’argent se confondait. Si une société avait besoin d’argent, je devais le fournir. Toutes les sociétés avaient un capital libéré et me devaient de l’argent. À aucun moment durant la période de cet emprunt, le capital que me devaient Scragg Development, la société à dénomination numérique et City Centres n’a été inférieur au montant de cet emprunt. En fait, il a toujours été nettement plus élevé[5].
+Il a dit plusieurs fois, d’une manière ou d’une autre, que ses sociétés avaient besoin des fonds empruntés pour continuer d’exister et qu’il avait emprunté l'argent à un taux d’intérêt très élevé, et sous d’autres conditions défavorables, simplement pour maintenir ses entreprises à flot. Il a aussi soutenu assez longuement qu’un examen des soldes de fin d’exercice de ses comptes de prêts dans les diverses sociétés montrait d’une certaine manière qu’il avait mis les fonds empruntés dans ces sociétés et qu'ils y étaient restés jusqu’au remboursement de l’emprunt. D’après lui, il n’avait pas besoin d’en dire davantage pour avoir le droit de déduire les intérêts qu’il avait payés sur l’emprunt.
+[9] Or, tout ce témoignage est bien en deçà de ce qu'il faut pour s'acquitter du fardeau dont parlait le juge en chef Dickson dans l’arrêt Bronfman Trust[6]. La seule information fournie concernant les comptes de prêts d'actionnaire de l’appelant consiste dans les soldes de fin d’exercice qui apparaissent sur les bilans des sociétés. Il est impossible de dire, à partir de ces soldes, si, et dans qu'elle mesure, l’appelant a avancé à l’une ou l'autre des sociétés en question l’argent emprunté. L’augmentation d’environ 12 000 $ du compte de prêt de SDC entre 1996 et 1997 ne prouve nullement l'affirmation de M. Scragg que le dépôt de 73 403,41 $ avait été porté au crédit de son compte de prêt dans cette société. De plus, il n'y a pas de preuve utile susceptible de me permettre de conclure que la somme empruntée, même si elle a pu au départ être affectée à une utilisation admissible, a continué d’être ainsi affectée. Il ressort clairement du témoignage de M. Scragg qu’il ne savait tout simplement pas, sinon d’une manière très générale, comment il avait employé l'argent au départ ni comment il l’avait employé au cours des années qui ont suivi.
+[10] Je ne voudrais pas donner l’impression que M. Scragg n’a pas été un témoin honnête. Je ne doute nullement qu’il croyait très sincèrement avoir affecté l’argent emprunté à une utilisation admissible dans une ou plusieurs de ses sociétés. Tout au cours de son témoignage, il est toutefois apparu clairement qu’il n’avait pas un souvenir très net de la manière précise dont l'argent en question avait été employé, que ce soit au tout début ou durant toute la période de près de quatre ans entre l’emprunt initial et son remboursement. La qualité de la preuve que j’ai devant moi concernant l’emploi des fonds empruntés ne suffit tout simplement pas à justifier la déduction des intérêts qui ont été payés. Même s’il a été écrit dans un contexte quelque peu différent, l’extrait suivant tiré de l’arrêt unanime de la Cour d’appel fédérale dans l'affaire Njenga c. La Reine[7] est tout aussi pertinent ici :
+Le système fiscal est fondé sur l’autocontrôle. Il est d’intérêt public que la charge de prouver le fondement des déductions et des réclamations repose sur le contribuable. Le juge de la Cour de l’impôt a statué que les personnes comme la requérante doivent être en mesure de produire toutes les informations et justifications permettant d’appuyer les réclamations qu’elles font. Nous sommes d’accord avec cette conclusion. Mme Njenga, à titre de contribuable, a la responsabilité de justifier ses affaires personnelles d’une manière raisonnable. Des reçus écrits par elle‑même et des allégations sans preuve ne sont pas suffisants.
+Le témoignage de M. Scragg ne peut être qualifié autrement que d' « allégations sans preuve », et il ne permet donc pas à M. Scragg de s’acquitter de la charge de la preuve qui lui incombait.
+[11] Les appels sont rejetés. L’intimée a droit aux dépens.
+Signé à Ottawa, Canada, ce 7e jour d’août 2008.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 30e jour de juin 2009.
+Erich Klein, réviseur.
+RÉFÉRENCE : 2008 CCI 455
+N° DU DOSSIER DE LA COUR : 2004‑2257(IT)G
+INTITULÉ DE LA CAUSE : ROBERT SCRAGG c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE : Le 30 mai et le 1er juin 2007
+MOTIFS DU JUGEMENT PAR : L’honorable juge E.A. Bowie
+DATE DU JUGEMENT : Le 7 août 2008
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Victor Caux
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : s.o.
+Cabinet : s.o.
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] L.R.C. 1985 (5e suppl.), ch. 1, et modifications.
+[2] Réponse, paragraphe 9.
+[3] [1987] 1 R.C.S. 32, pages 45 et 46.
+[4] Transcription, pages 53, ll. 16 à 24.
+[5] Transcription, page 53, l. 22, à page 54, l. 11.
+[6] Voir le paragraphe 5 ci-dessus.
+[7] [1996] A.C.F. n° 1218 (QL), paragraphe 3.

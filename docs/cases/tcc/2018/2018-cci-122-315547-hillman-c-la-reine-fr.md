@@ -1,0 +1,268 @@
+---
+title: "Hillman c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/315547/index.do"
+last_modified: "2018-06-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 CCI 122"
+citation2: ""
+neutral_citation: "2018 CCI 122"
+decision_date: "2018-06-29"
+language: "fr"
+item_id: "315547"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4950
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:51:17.843000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "533573bb2a4d3e8c4b8b9297b4226285de2b2b93b9daa856fc4561b8b5e8436d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hillman c. La Reine
+
+- Citation: 2018 CCI 122
+- Decision date: 2018-06-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4950, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hillman c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-06-29
+Référence neutre
+2018 CCI 122
+Numéro de dossier
+2010-1084(IT)G
+Juges et Officiers taxateurs
+Bruce Russell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-1084(IT)G
+ENTRE :
+LORNA HILLMAN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2010-994(IT)G
+ET ENTRE :
+RANDY CAPSTICK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2010-1057(IT)G
+ET ENTRE :
+BERYL POULSEN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2010-1075(IT)G
+ET ENTRE :
+ALAN OVEREND,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2010-1239(IT)G
+ET ENTRE :
+GORDON SHEARER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2010-1403(IT)G
+ET ENTRE :
+LA SUCCESSION DE LLOYD HORTON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2015-4337(IT)G
+ET ENTRE :
+SHELAGH HORTON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue le 14 février 2018, à Vancouver (Colombie-Britannique)
+Devant : L’honorable juge B. Russell
+Comparutions :
+Avocats des appelants :
+Me Alistair Campbell
+Me Michelle Moriartey
+Avocats de l’intimée :
+Me Ron Wilhelm
+Me Whitney Dunn
+ORDONNANCE MODIFIÉE
+Les sept requêtes de l’intimée en vue d’obtenir une ordonnance en application du paragraphe 58(1) des Règles de la Cour canadienne de l’impôt (procédure générale) sont rejetées, et les avocats des sept appelants se voient adjuger un seul mémoire de frais en conformité avec le tarif.
+La présente ordonnance modifiée est rendue en remplacement de l’ordonnance du 29 juin 2018.
+Signé à Halifax (Nouvelle-Écosse), ce 18e jour de juillet 2018.
+« B. Russell »
+Le juge Russell
+Traduction certifiée conforme
+ce 2e jour d’août 2018.
+Mario Lagacé, jurilinguiste
+Référence : 2018 CCI 122
+Date : 20180718
+Dossier : 2010-1084(IT)G
+ENTRE :
+LORNA HILLMAN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2010-994(IT)G
+ET ENTRE :
+RANDY CAPSTICK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2010-1057(IT)G
+ET ENTRE :
+BERYL POULSEN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2010-1075(IT)G
+ET ENTRE :
+ALAN OVEREND,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2010-1239(IT)G
+ET ENTRE :
+GORDON SHEARER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2010-1403(IT)G
+ET ENTRE :
+LA SUCCESSION DE LLOYD HORTON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2015-4337(IT)G
+ET ENTRE :
+SHELAGH HORTON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE MODIFIÉS
+Le juge Russell
+Introduction :
+[1] L’intimée, soit Sa Majesté, a présenté une requête en vue d’obtenir une ordonnance en application du paragraphe 58(1) des Règles de la Cour canadienne de l’impôt (procédure générale) (paragraphe 58(1) des Règles) relativement à chacun des sept présents appels. Les sept appelants et l’intimée ont convenu que la décision de la Cour portant sur la requête de Lorna Hillman s’appliquera également aux six autres requêtes respectivement. L’ordonnance que rendra la Cour s’appliquera cumulativement à toutes les sept demandes. Le terme « appelante » employé dans les présents motifs de l’ordonnance modifiés renvoie spécifiquement à la susnommée Lorna Hillman, mais il s’applique de façon égale à chacun des six autres appelants visés ici.
+[2] L’article 58 des Règles est ainsi libellé :
+58 (1) Sur requête d’une partie, la Cour peut rendre une ordonnance afin que soit tranchée avant l’audience une question de fait, une question de droit ou une question de droit et de fait soulevée dans un acte de procédure, ou une question sur l’admissibilité de tout élément de preuve.
+58 (2) Lorsqu’une telle requête est présentée, la Cour peut rendre une ordonnance s’il appert que de trancher la question avant l’audience pourrait régler l’instance en totalité ou en partie, abréger substantiellement celle-ci ou résulter en une économie substantielle de frais.
+58 (3) L’ordonnance rendue en application du paragraphe (1) contient les renseignements suivants :
+a) la question à trancher avant l’audience;
+b) des directives relatives à la manière de trancher la question, y compris des directives sur la preuve à consigner, soit oralement ou par tout autre moyen, et sur la méthode de signification ou de dépôt des documents;
+c) le délai pour la signification et le dépôt d’un mémoire comprenant un exposé concis des faits et du droit;
+d) la date, l’heure et le lieu pour l’audience se rapportant à la question à trancher;
+e) toute autre directive que la Cour estime appropriée.
+[3] L’ordonnance que sollicite l’intimée vise à ce qu’une réponse soit fournie avant l’audition du présent appel à la question proposée qui suit, ou, à titre subsidiaire, à la deuxième question proposée qui suit.
+Question proposée
+La question est de savoir si la doctrine de l’abus de procédure empêche l’appelante de remettre en cause les faits et les conclusions mixtes de fait et de droit qui ont été tirés par la Cour du Banc de la Reine de l’Alberta dans la décision R. v. Kendall, 2015 ABQB 177, énumérés au paragraphe 16 de la nouvelle réponse modifiée.
+Deuxième question proposée
+Dans la négative, la deuxième question est de savoir si les faits et les conclusions qui ont été tirés par la Cour du Banc de la Reine de l’Alberta, ainsi que ses déclarations de culpabilité sous-jacentes, tels qu’ils ont été énoncés dans les motifs de la décision R. v. Kendall, 2015 ABQB 177, sont admissibles en preuve dans la présente instance, à titre de preuve à première vue des faits et des conclusions énumérés au paragraphe 16 de la nouvelle réponse modifiée.
+[4] Je remarque qu’il y a environ 50 faits et conclusions énumérés au paragraphe 16 de la nouvelle réponse modifiée. L’appelante s’oppose à la requête.
+Contexte :
+[5] L’appel sous-jacent porte sur la cotisation établie par le ministre du Revenu national (ministre) à l’égard des dettes de l’appelante pour l’année d’imposition 2001 conformément à la Loi de l’impôt sur le revenu (Canada) (la Loi), après l’expiration de la « période normale de nouvelle cotisation » définie au paragraphe 152(3.1) de la Loi. L’appelante a soulevé trois questions dans le présent appel, à savoir si la cotisation est frappée de prescription, si l’appelante est assujettie à l’impôt relativement à certains événements survenus en 2001 concernant son régime enregistré d’épargne-retraite (REER) et si elle est passible des pénalités prévues au paragraphe 163(2) qui ont également été imposées.
+[6] S’agissant de la cotisation, le ministre soutient que l’appelante a pris part à un « stratagème de dépouillement de REER » au moyen duquel des fonds de son REER ont servi à acquérir des actions d’une société canadienne, actions qui n’étaient pas admissibles aux fins de son REER, qui n’ont pas été acquises à leur juste valeur marchande et dont la majeure partie des fonds soi-disant investis ont été investis à l’étranger. On a dissimulé la destination étrangère où les fonds du REER ont été placés, de sorte que l’on ne puisse pas reconnaître que les fonds avaient été retirés de son REER, ce qui a donc obligé l’appelante à verser la somme représentant les obligations de retenue imposées sur les retraits. L’utilisation à l’étranger des fonds non admissibles au REER a été présentée comme un investissement dans des placements admissibles au REER. Tout comme l’appelante, un grand nombre de contribuables ont fait l’objet d’une cotisation similaire à titre de participants dans ce prétendu stratagème.
+[7] L’intimée a accusé et poursuivi certaines personnes pour avoir organisé ce stratagème de dépouillement de REER, et pour en avoir fait la promotion auprès de l’appelante et d’autres personnes. Ces personnes comprenaient M. Steven Kendall, M. Christopher Houston et M. Milowe Brost. M. Kendall et M. Houston ont été accusés de complot en vue de frauder le gouvernement, de fraude envers le gouvernement, de fraude envers des investisseurs et de vol. Après un long procès devant la Cour du Banc de la Reine de l’Alberta, M. Kendall et M. Houston ont été déclarés coupables de fraude envers le gouvernement pour avoir omis de payer les retenues imposées sur les fonds retirés des REER : R. v. Kendall, 2015 ABQB 177. Les motifs du jugement rendu par le juge McIntyre le 18 mars 2015 comptent plus de 500 paragraphes et comprennent des conclusions de fait. Deux exposés conjoints des faits ont également été déposés dans ce procès.
+[8] M. Brost a opté pour un procès devant juge et jury devant la Cour du Banc de la Reine de l’Alberta. Il a finalement été déclaré coupable de cinq chefs d’accusation, y compris d’avoir frustré des investisseurs, contrairement à M. Kendall et M. Houson, qui n’ont pas été déclarés coupables de ce chef d’accusation précis. Dans la décision Brost, le juge Hall a publié un document de cinq pages, intitulé [traduction] « Conclusions de fait », dans lequel il a dressé la liste des nombreuses conclusions de fait au sujet de M. Brost. Ce dernier a été condamné le 28 juillet 2015.
+Analyse et décision
+[9] Pour que la Cour puisse rendre une ordonnance en application du paragraphe 58(1) des Règles, elle doit être d’avis que le fait de trancher la question avant l’audience puisse régler l’instance en totalité ou en partie, abréger substantiellement celle-ci ou résulter en une économie substantielle de frais.
+[10] Comme je l’ai déjà mentionné, la première question proposée est de savoir si la doctrine de l’abus de procédure empêche l’appelante de remettre en cause les faits et les conclusions mixtes de fait et de droit qui ont été tirés par la Cour du Banc de la Reine de l’Alberta dans la décision R. v. Kendall, 2015 ABQB 177, énumérés au paragraphe 16 de la nouvelle réponse modifiée.
+[11] L’intimée s’attend à ce que cela puisse régler la première des trois questions soulevées par l’appelante, consistant à déterminer, sur le fond, si l’appelante est assujettie à l’impôt, et ce, à son détriment. L’intimée considère que, si les conclusions de fait tirées dans la décision Kendall sont concluantes en l’espèce, les obligations fiscales de l’appelante qui ont fait l’objet d’une cotisation seraient établies, et il ne lui resterait aucune base sur laquelle s’y opposer.
+[12] Dans le cadre du refus de remettre en cause, la doctrine de l’abus de procédure a été abordée dans l’arrêt de la Cour suprême du Canada Toronto (Ville) c. S.C.F.P., section locale 79, 2003 CSC 63, aux paragraphes 37 à 59. La remise en cause des mêmes questions doit être évitée de façon générale, même si les parties au premier litige ne sont pas les mêmes dans le second litige. La remise en cause peut constituer de l’abus de procédure en ce sens que, si une question est remise en cause et qu’il en découle un résultat différent, l’administration de la justice sera discréditée. Et subsidiairement, si l’instance subséquente donne lieu à une conclusion similaire, l’administration de la justice en souffrira également, parce qu’elle aura permis le double emploi de l’instance dont le résultat est le même et la remise en cause aura été un gaspillage de ressources judiciaires. La doctrine est toutefois flexible et peut tenir compte de facteurs qui ouvriraient la voie à la remise en cause, comme ce serait le cas lorsque la première instance était entachée de fraude ou de malhonnêteté, que de nouveaux éléments de preuve devenaient disponibles et admissibles ou encore que l’équité exigeait que le résultat initial n’ait pas force obligatoire dans le nouveau contexte.
+[13] Il ne fait aucun doute que l’exigence établie au paragraphe 58(1) des Règles voulant que l’audience puisse être abrégée serait respectée en l’espèce, dans la mesure où la première question soulevée par l’appelante – celle des obligations fiscales – serait tranchée, ne restant à trancher que les deux autres questions, à savoir si l’affaire est frappée de prescription ou si l’appelante est passible des pénalités prévues au paragraphe 163(2).
+[14] Dans le présent appel, l’appelante a toutefois fait valoir qu’elle n’avait pas acquis les actions non admissibles au REER au moyen des fonds provenant de son REER, et qu’elle n’est donc pas assujettie à l’impôt. En se fondant sur une certaine jurisprudence, elle soutient que la totalité de l’arrangement était une combine à la Ponzi et que, par conséquent, aucune opération juridiquement valable n’avait été effectuée, y compris l’achat réel, par elle-même, d’actions d’entreprise au moyen des fonds provenant de son REER que les organisateurs du stratagème avaient l’intention de présenter faussement comme étant des actions admissibles au REER, alors qu’en fait, elles ne l’étaient pas. Cette question n’était pas en litige dans le procès Kendall. En fait, dans cette instance criminelle, les parties accusées avaient, avec la Couronne, signé deux exposés des faits admis, dont l’un établissait que les clients titulaires d’un REER (dont l’appelante en serait un) avaient acquis de telles actions d’entreprise au moyen de fonds provenant de leur REER. Je suis d’avis que cela est suffisant pour conclure qu’il serait injuste de permettre l’examen de la question proposée.
+[15] En outre, je remarque cependant qu’après examen des longs motifs de la décision Kendall, les conclusions de fait tirées par la Cour ne sont pas exprimées clairement en comparaison de la nature spécifique des quelque 50 faits et conclusions invoqués par l’intimée au paragraphe 16 de la nouvelle réponse modifiée. Ce n’est pas étonnant, puisqu’en règle générale, les questions liées aux obligations fiscales, selon l’interprétation de la Loi, sont débattues devant notre Cour, alors qu’une cour supérieure provinciale ayant compétence en matière criminelle traite d’affaires fiscales, comme en l’espèce, sous l’angle des infractions incluses au Code criminel en matière d’évasion fiscale, de fraude et ainsi de suite.
+[16] De plus, comme je l’ai mentionné ci-dessus, ce sont essentiellement les mêmes opérations dans le cadre du REER qui ont été plaidées devant la Cour du Banc de la Reine de l’Alberta dans l’affaire Brost. L’affaire a été entendue devant un juge différent, le juge Hall, siégeant avec jury. M. Brost a été déclaré coupable de chefs d’accusation différents de ceux de M. Kendall et de M. Houston, et les conclusions de fait tirées par le juge Hall dans la décision Brost ne sont pas identiques à celles tirées dans la décision Kendall et peuvent être sensiblement différentes. Cela soulève la question de savoir pourquoi les conclusions de fait tirées dans la décision Brost ne pourraient pas également être examinées dans le contexte de la question proposée, et non simplement les conclusions de fait tirées dans la décision Kendall. Je pourrais réexaminer la question proposée pour tenir compte de cette décision également, mais je crois que l’on pourrait perdre de vue l’objectif de la question proposée au détriment de l’objectif d’efficacité censé sous-tendre tout renvoi à une question particulière en application du paragraphe 58(1) des Règles.
+[17] J’ajoute un autre élément de complication du fait que l’appelante en l’espèce n’était pas partie au litige dans l’affaire Kendall et qu’elle n’a pas été appelée à témoigner dans cette instance. La jurisprudence indique que cette situation, en soi, n’est pas un facteur déterminant, mais qu’il est néanmoins pertinent.
+[18] Compte tenu de ce qui précède, je conclus qu’il ne serait pas approprié de renvoyer pour décision la question proposée soulevée par l’intimée à une audience relative à la deuxième étape du processus prévue au paragraphe 58(1) des Règles.
+[19] J’examine maintenant la question subsidiaire qui a été proposée, soit celle de savoir si les faits et les conclusions qui ont été tirés par la Cour du Banc de la Reine de l’Alberta dans la décision R. v. Kendall, 2015 ABQB 177, sont admissibles en preuve dans la présente instance, à titre de preuve à première vue des faits et des conclusions énumérés au paragraphe 16 de la nouvelle réponse modifiée.
+[20] Encore une fois, dans ce contexte, les conclusions tirées dans la décision Kendall sont quelque peu viciées par rapport à l’appelante, en ce sens qu’elles sont fondées sur l’admission, dans l’instance Kendall, d’un fait essentiel (soit que des fonds provenant des REER des clients ont servi à acheter des actions d’entreprise non admissibles au REER), un fait essentiel admis que l’appelante a fondamentalement mis en cause devant la Cour, dans ses observations. Je remarque également que l’argument portant sur l’abrégement de l’audition de l’appel lui-même est moins évident, et qu’il semble que d’admettre, à titre de preuve à première vue, les conclusions tirées dans la décision Kendall aurait seulement pour effet de renverser le fardeau de la preuve initial de l’intimée à l’appelante quant au grand nombre de faits et de conclusions invoqués au paragraphe 16 de la nouvelle réponse modifiée.
+[21] Pour ces motifs, de même que pour les motifs susmentionnés au sujet de la première question proposée, je refuse également d’ordonner la tenue d’une audience relative à la deuxième étape, soit l’audience en application du paragraphe 58(1) des Règles en ce qui a trait à la deuxième question proposée à titre subsidiaire. Je suis d’avis que, compte tenu des divers problèmes signalés en l’espèce, le moyen le plus efficace d’aller de l’avant avec le présent appel est l’instruction de l’instance, laquelle pourrait être précédée d’une conférence préparatoire, et au cours de laquelle le juge pourrait aborder les questions semblables à celles proposées en l’espèce, dans le contexte d’une audience présidée par ce juge.
+[22] Par conséquent, je rejette la demande, avec dépens adjugés à l’appelante en conformité avec le tarif.
+Ces motifs de l’ordonnance modifiés sont rendus en remplacement des motifs de l’ordonnance du 29 juin 2018.
+Signé à Halifax (Nouvelle-Écosse), ce 18e jour de juillet 2018.
+« B. Russell »
+Le juge Russell
+Traduction certifiée conforme
+ce 2e jour d’août 2018.
+Mario Lagacé, jurilinguiste.
+RÉFÉRENCE :
+2018TCC122
+Nº DU DOSSIER DE LA COUR :
+2010-1084(IT)G; 2010-994(IT)G;
+2010-1057(IT)G; 2010-1075(IT)G;
+2010-1239(IT)G; 2010-1403(IT)G;
+2015-4337(IT)G
+INTITULÉ :
+LORNA HILLMAN c. SA MAJESTÉ LA REINE
+RANDY CAPSTICK c. SA MAJESTÉ LA REINE
+BERYL POULSEN c. SA MAJESTÉ LA REINE
+ALAN OVEREND c. SA MAJESTÉ LA REINE
+GORDON SHEARER c. SA MAJESTÉ LA REINE
+LA SUCCESSION DE LLOYD HORTON c. SA MAJESTÉ LA REINE
+SHELAGH HORTON c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 14 février 2018
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge B. Russel
+DATE DE L’ORDONNANCE MODIFIÉE :
+Le 18 juillet 2018
+COMPARUTIONS :
+Avocats des appelants :
+Me Alistair Campbell
+Me Michelle Moriartey
+Avocats de l’intimée :
+Me Ron Wilhelm
+Me Whitney Dunn
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Me Alistair Campbell
+Me Michelle Moriartey
+Cabinet :
+Legacy Tax & Trust Lawyers
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

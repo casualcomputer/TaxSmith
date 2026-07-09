@@ -1,0 +1,558 @@
+---
+title: "FU2 Productions Ltd. c. Le Roi"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521015/index.do"
+last_modified: "2023-04-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 CCI 148"
+citation2: ""
+neutral_citation: "2022 CCI 148"
+decision_date: "2023-04-03"
+language: "fr"
+item_id: "521015"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5810
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-07-13T10:45:49.246000+00:00"
+cases_cited_count: 29
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "adbc557467b42d015364074cc8e80a6d92b8bc14ffef49466670e3a3cab4c586"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# FU2 Productions Ltd. c. Le Roi
+
+- Citation: 2022 CCI 148
+- Decision date: 2023-04-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5810, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+FU2 Productions Ltd. c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2023-04-03
+Référence neutre
+2022 CCI 148
+Numéro de dossier
+2017-3249(IT)G
+Juges et Officiers taxateurs
+Sylvain Ouimet
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2017-3249(IT)G
+ENTRE :
+FU2 PRODUCTIONS LTD.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue le 25 janvier 2019 et le 13 septembre 2021,
+à Ottawa, Canada.
+Devant : l’honorable juge Sylvain Ouimet
+Comparutions :
+Avocat de l’appelante :
+Me Bruce Harvey
+Avocates de l’intimé :
+Me Marie-Ève Aubry (le 25 janvier 2019) et Me Meaghan Mahadeo (le 13 septembre 2021)
+ORDONNANCE
+VU la requête entendue le 25 janvier 2019 et le 13 septembre 2021;
+ET VU les observations des parties;
+Conformément aux motifs de l’ordonnance ci-joints, la requête présentée en application de l’article 53 des Règles de la Cour canadienne de l’impôt (procédure générale (les « Règles ») sollicitant une ordonnance en radiation de certains passages de l’avis d’appel est accueillie, avec dépens.
+Conformément aux motifs de l’ordonnance ci-joints, la requête présentée en application de l’article 44 des Règles sollicitant une ordonnance autorisant l’intimé à déposer sa réponse à l’avis d’appel dans les 60 jours suivant la date de l’ordonnance est accueillie, avec dépens.
+Signé à Ottawa, Canada, ce 24e jour de novembre 2022.
+« Sylvain Ouimet »
+Le juge Ouimet
+Traduction certifiée conforme
+ce 15e jour de septembre 2023.
+François Brunet, réviseur
+Référence : 2022 CCI 148
+Date : 20221124
+Dossier : 2017-3249(IT)G
+ENTRE :
+FU2 PRODUCTIONS LTD.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Ouimet
+I. INTRODUCTION A. Contexte
+[1] Le 8 octobre 2009, l’appelante et Cardinal Film 11 Inc. (le « coproducteur ») ont acquis les droits pour tourner un film (le « film »)[1].
+[2] Le 21 octobre 2009, l’appelante et le coproducteur ont reçu un financement de 1 900 000 $ (la « contribution ») de Téléfilm Canada (« Téléfilm ») pour produire le film[2].
+[3] Le film a été produit au cours des années d’imposition de l’appelante se terminant le 31 octobre 2010 et le 31 octobre 2011[3].
+[4] Le 30 mars 2010, Téléfilm a augmenté sa contribution de 2 070 863 $, et une autre somme de 55 387 $ a été remise à titre d’avance sur les revenus de production[4].
+[5] Lorsque l’appelante a produit ses déclarations de revenus pour ses années d’imposition 2010 et 2011, elle a réclamé le crédit d’impôt pour production cinématographique ou magnétoscopique canadienne (le « CIPC ») conformément au formulaire T1131, les lignes directrices du CIPC (les « Lignes directrices ») du Bureau de certification des produits audiovisuels canadiens (le « BCPAC »)‑ et au Guide du formulaire T1131 de l’Agence du revenu du Canada (l’« ARC ») (le « Guide »)[5]. Dans ses déclarations, l’appelante a inclus la contribution de Téléfilm à titre de « montant d’aide » et a réduit le CIPC qui avait été réclamé en conséquence. En 2013, l’appelante a appris que les Lignes directrices et le Guide appliquaient les modifications apportées à l’article 125.4 de la Loi de l’impôt sur le revenu[6] (la « LIR »). Elle a également appris que les modifications n’avaient pas été présentées à la Chambre des communes et n’avaient jamais été adoptées[7].
+[6] Le 8 mai 2013, l’appelante a produit une déclaration de revenus modifiée pour son année d’imposition 2011. Dans la déclaration de revenus, l’appelante a réduit la somme réclamée à titre de « montant d’aide » reçue de Téléfilm et a augmenté de 152 016 $ le CIPC pour le film[8].
+[7] Le 9 avril 2015, le ministre du Revenu national (le « ministre ») a établi un avis de nouvelle cotisation à l’égard de l’année d’imposition 2011 de l’appelante (l’« avis de nouvelle cotisation »). Le ministre a conclu que la contribution de Téléfilm constituait un « montant d’aide » au sens du paragraphe 125.4(1) de la LIR. Le ministre a donc augmenté de 147 287 $ le « montant d’aide » reçu par l’appelante et a réduit le CIPC de l’appelante de 147 287 $ plus les intérêts[9].
+[8] Le 29 septembre 2017, l’appelante a déposé un avis d’appel (l’« avis d’appel »). Dans l’avis d’appel, l’appelante a soutenu que le ministre avait établi la nouvelle cotisation à la suite de l’adoption de la Loi no 2 sur le plan d’action économique de 2014 (la « Loi no 2 sur le PAE de 2014 »)[10]. Selon l’appelante, la Loi no 2 sur le PAE de 2014 contient une modification rétroactive de la définition de l’expression « montant d’aide » donnée au paragraphe 125.4(1) de la LIR. L’appelante fait plus précisément valoir que la Loi no 2 sur le PAE de 2014 n’a pas été adoptée par un Parlement valide, comme l’exige la partie IV de la Loi constitutionnelle de 1867. Elle soutient que la Loi no 2 sur le PAE de 2014 est une loi inconstitutionnelle qui est inopérante[11]. L’appelante soutient en outre que la modification apportée au paragraphe 125.4(1) de la LIR n’est pas valide et que, par conséquent, le ministre ne pouvait pas établir une nouvelle cotisation à son égard en vertu de la version modifiée du paragraphe 125.4(1)[12].
+B. Requête de l’intimé
+[9] Le 28 mai 2018, l’intimé a déposé un avis de requête (l’« avis de requête ») en application des articles 44 et 53 des Règles de la Cour canadienne de l’impôt (procédure générale[13] (les « Règles »). Dans sa requête, l’intimé cherche à obtenir :
+1-une ordonnance radiant certains passages de l’avis d’appel de l’appelante conformément aux alinéas 53(1)a) et d) des Règles. L’intimé demande que les passages suivants de l’avis d’appel soient radiés :
+-la deuxième phrase du paragraphe 30;
+-les paragraphes 32 à 71 de la partie c);
+-le paragraphe 6 de la partie d);
+-le paragraphe 9 de la partie e);
+-les paragraphes 9 à 17 de la partie f);
+-les paragraphes 4 et 5 de la partie g).
+2-une ordonnance autorisant l’intimé à déposer une réponse à l’avis d’appel dans les 60 jours suivant la date de l’ordonnance, et à signifier la réponse dans les cinq jours suivant l’expiration du délai de 60 jours. La demande est présentée en vertu de l’alinéa 44(1)b) des Règles.
+3-une ordonnance accordant à l’intimé les dépens de la requête[14].
+[10] Les passages de l’avis d’appel dont l’intimé demande la radiation portent sur un argument subsidiaire avancé par l’appelante. Cet argument est reproduit ci-dessous :
+[traduction]
+À titre subsidiaire, si la contribution de Téléfilm est réputée être un « montant d’aide » en vertu du paragraphe 125.4(1) qui n’a pas été remboursé par l’appelante, l’appelante mentionne que la définition du « montant d’aide » donnée au paragraphe 125.4(1) avant les modifications introduites par la Loi no 2 sur le plan d’action économique de 2014, ch. 39 doit s’appliquer à Sequel Film et à ses années d’imposition se terminant les 31 octobre 2010 et 2011[15].
+[11] Le 17 janvier 2019, l’appelante a déposé un avis de requête[16]. Dans cette requête, l’appelante demandait à notre Cour de rejeter la requête de l’intimé parce qu’un avis de question constitutionnelle n’avait pas été signifié au procureur général du Canada et au procureur général de chaque province conformément au paragraphe 19.2(1) de la Loi sur la Cour canadienne de l’impôt[17] et à l’article 61.1 des Règles.
+[12] Le 25 janvier 2019, j’ai rejeté la requête de l’appelante.
+II. QUESTIONS EN LITIGE [13] La question en litige est de savoir si la requête de l’intimé doit être accueillie. Pour y répondre, la Cour se prononcera sur les questions suivantes :
+1-s’il est évident et manifeste que l’argument constitutionnel avancé par l’appelante n’a aucune chance raisonnable d’être retenu;
+2-s’il y a lieu d’accorder à l’intimé une prorogation du délai pour déposer une réponse à l’avis d’appel de l’appelante en application de l’alinéa 44(1)b) des Règles.
+III. DISPOSITIONS LÉGISLATIVES PERTINENTES [14] Les dispositions applicables des Règles sont les suivantes :
+12(1) La Cour peut, par directive, prolonger ou abréger le délai imparti par les présentes règles ou par une directive, à des conditions appropriées.
+(2) La requête qui vise à obtenir la prolongation d’un délai peut être présentée avant ou après l’expiration du délai.
+(3) Le délai imparti par les présentes règles pour la signification, le dépôt ou la remise d’un document peut être prolongé ou abrégé par consentement donné par écrit.
+[…]
+44(1) La réponse à l’avis d’appel doit être déposée au greffe dans les 60 jours suivant la signification de l’avis d’appel, à moins que :
+a) l’appelant ne consente, avant ou après l’expiration de ce délai, au dépôt de la réponse dans un délai déterminé suivant l’expiration de celui-ci;
+b) la Cour ne permette, sur demande présentée avant ou après l’expiration de ce délai, le dépôt de la réponse dans un délai déterminé suivant l’expiration de celui-ci.
+(2) Si la réponse n’est pas déposée dans le délai applicable prévu au paragraphe (1), les allégations de fait énoncées dans l’avis d’appel sont réputées vraies aux fins de l’appel.
+(3) La réponse doit être signifiée :
+a) soit dans les cinq jours suivant l’expiration du délai de 60 jours prescrit au paragraphe (1);
+b) soit dans le délai imparti aux termes d’un consentement accordé par l’appelant en vertu du paragraphe (1);
+c) soit dans le délai imparti aux termes d’une prolongation de délai accordée par la Cour en vertu du paragraphe (1).
+[…]
+53(1) La Cour peut, de son propre chef ou à la demande d’une partie, radier un acte de procédure ou tout autre document ou en supprimer des passages, en tout ou en partie, avec ou sans autorisation de le modifier parce que l’acte ou le document :
+a) peut compromettre ou retarder l’instruction équitable de l’appel;
+b) est scandaleux, frivole ou vexatoire;
+c) constitue un recours abusif à la Cour;
+d) ne révèle aucun moyen raisonnable d’appel ou de contestation de l’appel.
+(2) Aucune preuve n’est admissible à l’égard d’une demande présentée en vertu de l’alinéa (1)d).
+(3) À la demande de l’intimé, la Cour peut casser un appel si :
+a) elle n’a pas compétence sur l’objet de l’appel;
+b) une condition préalable pour interjeter appel n’a pas été satisfaite;
+c) l’appelant n’a pas la capacité juridique d’introduire ou de continuer l’instance.
+[…]
+147(7) Une partie peut :
+a) dans les trente jours suivant la date à laquelle elle a pris connaissance du jugement;
+b) après que la Cour a décidé du jugement à prononcer, au moment de la présentation de la requête pour jugement,
+que le jugement règle ou non la question des dépens, demander à la Cour que des directives soient données à l’officier taxateur à l’égard des questions visées au présent article ou aux articles 148 à 152 ou qu’elle reconsidère son adjudication des dépens.
+[15] Les dispositions pertinentes de la Loi sur la Cour canadienne de l’impôt sont les suivantes :
+19.2(1) Les lois fédérales ou leurs textes d’application, dont la validité, l’applicabilité ou l’effet, sur le plan constitutionnel, est en cause devant la Cour ne peuvent être déclarés invalides, inapplicables ou sans effet, que si le procureur général du Canada et ceux des provinces ont été avisés conformément au paragraphe (2).
+Délai de l’avis
+(2) L’avis est, sauf ordonnance contraire de la Cour, signifié au moins dix jours avant la date à laquelle la question constitutionnelle qui en fait l’objet doit être débattue.
+Avis d’appel
+(3) Les avis d’appel portant sur une question constitutionnelle sont à signifier au procureur général du Canada et à ceux des provinces.
+Droit d’être entendu
+(4) Le procureur général à qui un avis visé aux paragraphes (1) ou (3) est signifié peut présenter une preuve et des observations à la Cour à l’égard de la question constitutionnelle en litige.
+Appel
+(5) Le procureur général qui présente des observations est réputé partie à l’instance aux fins d’un appel portant sur la question constitutionnelle.
+[16] Les dispositions applicables de la Loi constitutionnelle de 1867[18] sont les suivantes :
+21 Sujet aux dispositions de la présente loi, le Sénat se composera de cent cinq membres, qui seront appelés sénateurs.
+22 En ce qui concerne la composition du Sénat, le Canada sera censé comprendre quatre divisions :
+1. Ontario;
+2. Québec;
+3. les provinces Maritimes — la Nouvelle-Écosse et le Nouveau-Brunswick — ainsi que l’Île-du-Prince-Édouard;
+4. les provinces de l’Ouest : le Manitoba, la Colombie-Britannique, la Saskatchewan et l’Alberta;
+les quatre divisions doivent (subordonnément aux révisions de la présente loi) être également représentées dans le Sénat, ainsi qu’il suit : — Ontario par vingt-quatre sénateurs; Québec par vingt-quatre sénateurs; les Provinces maritimes et l’Île-du-Prince-Édouard par vingt-quatre sénateurs, dont dix représentent la Nouvelle-Écosse, dix le Nouveau-Brunswick, et quatre l’Île-du-Prince-Édouard; les Provinces de l’Ouest par vingt-quatre sénateurs, dont six représentent le Manitoba, six la Colombie-Britannique, six la Saskatchewan et six l’Alberta; la province de Terre-Neuve aura droit d’être représentée au Sénat par six sénateurs; le territoire du Yukon, les territoires du Nord-Ouest et le territoire du Nunavut ont le droit d’être représentés au Sénat par un sénateur chacun.
+En ce qui concerne la province de Québec, chacun des vingt-quatre sénateurs la représentant, sera nommé pour l’un des vingt-quatre collèges électoraux du Bas-Canada énumérés dans la cédule A, annexée au chapitre premier des statuts refondus du Canada.
+[…]
+32 Quand un siège deviendra vacant au Sénat par démission, décès ou toute autre cause, le gouverneur-général remplira la vacance en adressant un mandat à quelque personne capable et ayant les qualifications voulues.
+[…]
+35 Jusqu’à ce que le parlement du Canada en ordonne autrement, la présence d’au moins quinze sénateurs, y compris l’orateur, sera nécessaire pour constituer une assemblée du Sénat dans l’exercice de ses fonctions.
+36 Les questions soulevées dans le Sénat seront décidées à la majorité des voix, et dans tous les cas, l’orateur aura voix délibérative; quand les voix seront également partagées, la décision sera considérée comme rendue dans la négative.
+37 La Chambre des Communes sera, sujette aux dispositions de la présente loi, composée de trois cent huit membres, dont cent six représenteront Ontario, soixante-quinze Québec, onze la Nouvelle-Écosse, dix le Nouveau-Brunswick, quatorze le Manitoba, trente-six la Colombie-Britannique, quatre l’Île-du-Prince-Édouard, vingt-huit l’Alberta, quatorze la Saskatchewan, sept Terre-Neuve, un le territoire du Yukon, un les territoires du Nord-Ouest et un le territoire du Nunavut.
+[17] Les dispositions applicables de la Loi sur la Cour suprême[19] sont les suivantes :
+4(1) La Cour se compose du juge en chef, appelé juge en chef du Canada, et de huit juges puînés.
+[18] Les dispositions applicables de la Loi constitutionnelle de 1982[20] sont les suivantes :
+52(1) La Constitution du Canada est la loi suprême du Canada; elle rend inopérantes les dispositions incompatibles de toute autre règle de droit.
+(2) La Constitution du Canada comprend :
+a) la Loi de 1982 sur le Canada, y compris la présente loi;
+b) les textes législatifs et les décrets figurant à l’annexe;
+c) les modifications des textes législatifs et des décrets mentionnés aux alinéas a) ou b).
+(3) La Constitution du Canada ne peut être modifiée que conformément aux pouvoirs conférés par elle.
+IV. DISCUSSION A. La requête de l’intimé présentée en vertu de l’article 53 des Règles
+(1) Requête de l’intimé [19] Le 28 mai 2018, l’intimé a déposé un avis de requête conformément à l’article 53 des Règles. Conformément aux alinéas 53(1)a) et d) des Règles, l’intimé vise à obtenir une ordonnance radiant certains paragraphes et certaines phrases de l’avis d’appel.
+[20] Les alinéas 53(1)a) et d) des Règles sont ainsi rédigés :
+53(1) La Cour peut, de son propre chef ou à la demande d’une partie, radier un acte de procédure ou tout autre document ou en supprimer des passages, en tout ou en partie, avec ou sans autorisation de le modifier parce que l’acte ou le document :
+a) peut compromettre ou retarder l’instruction équitable de l’appel;
+b) est scandaleux, frivole ou vexatoire;
+c) constitue un recours abusif à la Cour;
+d) ne révèle aucun moyen raisonnable d’appel ou de contestation de l’appel.
+[21] Les passages dont l’intimé demande la radiation portent sur l’argument constitutionnel avancé par l’appelante. L’intimé soutient que ces passages doivent être radiés pour les motifs suivants : l’acte pourrait compromettre ou retarder l’instruction équitable de l’appel et l’acte ne révèle aucun moyen raisonnable d’appel ou de contestation de l’appel[21].
+[22] L’argument constitutionnel avancé par l’appelante peut se résumer ainsi :
+-L’appelante soutient que la Loi constitutionnelle de 1867 définit le Sénat et prévoit la composition de ses membres. Le Sénat doit être constitué de 105 sénateurs, dont 24 représentent l’Ontario, 24 le Québec (plus précisément un sénateur est nommé pour chacune des 24 circonscriptions électorales du Québec), 10 la Nouvelle-Écosse, 10 le Nouveau-Brunswick, quatre l’Île-du-Prince-Édouard, six le Manitoba, six la Colombie-Britannique, six la Saskatchewan, six l’Alberta, six Terre-Neuve, un le Yukon, un les Territoires du Nord-Ouest et un le Nunavut[22].
+-L’appelante soutient que la représentation régionale des sénateurs est un principe fondateur de la Constitution du Canada[23].
+-Elle soutient en outre que le premier ministre Stephen Harper a refusé de recommander au gouverneur général des candidats pour combler des sièges vacants créés au sein du Sénat après le 25 mars 2013[24]. Au moment où la Loi no 2 sur le PAE de 2014 a été adoptée, il y avait 17 sièges vacants au Sénat. Les sièges vacants ont été distribués de la manière suivante : un siège représentant la Colombie-Britannique, trois sièges représentant le Manitoba, cinq sièges représentant l’Ontario, deux sièges représentant le Nouveau-Brunswick, un siège représentant l’Île-du-Prince-Édouard, deux sièges représentant la Nouvelle-Écosse et trois sièges représentant le Québec, des circonscriptions électorales de Gulf, Grandville et De la Vallière[25].
+-L’appelante soutient que le refus du premier ministre Harper de recommander des candidats et le fait que le gouverneur général n’a pas comblé les sièges vacants au Sénat ont modifié de façon inconstitutionnelle les caractéristiques fondamentales du Sénat. Elle soutient également que le Sénat ne pouvait pas valablement agir sans la présence d’un effectif complet de 105 sénateurs nommés parmi les provinces et les territoires visés, comme l’exigent les articles 21 et 22 de la Loi constitutionnelle de 1867. Par conséquent, la mise en œuvre de la Loi no 2 sur le PAE de 2014 était incompatible avec les articles 21 et 22 de la Loi constitutionnelle de 1867. La Loi no 2 sur le PAE de 2014 est inopérante[26].
+-En conclusion, l’appelante fait valoir que la Cour doit accueillir son appel et annuler la nouvelle cotisation au motif que les modifications apportées à l’article 125.4 de la LIR ne s’appliquent pas à son année d’imposition 2011.
+[23] Pour sa part, l’intimé soutient que l’argument constitutionnel avancé par l’appelante n’a aucune chance raisonnable d’être retenu pour les motifs suivants :
+-la Cour n’a pas compétence pour examiner la question de savoir si le Sénat a adopté en bonne et due forme la Loi no 2 sur le PAE de 2014;
+-les sièges vacants au Sénat n’ont pas pour effet d’empêcher le Sénat d’exercer ses pouvoirs;
+-même si la Cour conclut que le Sénat n’avait pas la compétence voulue pour légiférer en raison des sièges vacants, la réparation ne peut pas consister à invalider sur-le-champ la loi adoptée pendant la vacance[27].
+[24] Par conséquent, l’intimé demande la radiation des passages suivants de l’avis d’appel se rapportant tous à l’argument constitutionnel :
+-la partie c) de l’avis d’appel intitulée [traduction] « Faits substantiels invoqués », au paragraphe 30 et aux paragraphes 32 à 71 inclusivement. Les paragraphes sont ainsi rédigés :
+[traduction]
+30. [...] L’opposition était fondée sur le fait que la Loi no 2 sur le plan d’action économique de 2014, L.C. 2014, ch. 39 était inconstitutionnelle.
+[…]
+32. En 1995, la 35e législature du Canada a modifié la Loi de l’impôt sur le revenu pour y inclure l’article 125.4, soit le crédit d’impôt pour production cinématographique ou magnétoscopique canadienne;
+33. En décembre 2002, le ministre des Finances, l’honorable John Manley a publié un document de travail exposant les propositions législatives et les notes explicatives concernant l’impôt sur le revenu, y compris les modifications apportées aux dispositions sur le crédit d’impôt pour production cinématographique ou magnétoscopique canadienne contenues à l’article 125.4 de la Loi de l’impôt sur le revenu. Le paragraphe 63(1) des propositions exigerait que le ministre du Patrimoine canadien délivre un certificat attestant que les producteurs retiennent des recettes acceptables de revenus étrangers et que le soutien financier de l’État à la production ne contreviendrait pas à l’ordre public;
+34. Le 14 novembre 2003, le ministre des Finances, l’honorable John Manley, a publié un second document de travail exposant les propositions législatives et les notes explicatives concernant l’impôt sur le revenu, y compris les modifications apportées aux dispositions sur le crédit d’impôt pour production cinématographique ou magnétoscopique canadienne contenues à l’article 125.4 de la Loi de l’impôt sur le revenu. Ces propositions étaient plus détaillées et comprenaient une modification de la définition de « montant d’aide », une augmentation du taux maximal du crédit d’impôt, de 12 % à 15 % du budget, des dispositions d’ordre public proposées en 2002 ainsi que diverses autres modifications. Malgré le fait que ces propositions n’ont pas été présentées comme projet de loi à la Chambre des communes, le ministre des Finances a demandé au BCPAC et à l’ARC d’entamer la phase de mise en œuvre de ces modifications;
+35. En février 2004, le nouveau ministre des Finances, l’honorable Ralph Goodale, a publié un troisième document de travail exposant les propositions législatives et les notes explicatives concernant l’impôt sur le revenu, y compris les modifications apportées aux dispositions sur le crédit d’impôt pour production cinématographique ou magnétoscopique canadienne contenues à l’article 125.4 de la Loi de l’impôt sur le revenu. Ces propositions étaient identiques à celles qui ont été lancées le 14 novembre 2003. Malgré le fait que ces propositions n’ont pas été présentées comme projet de loi à la Chambre des communes, le ministre des Finances a demandé au BCPAC et à l’ARC de poursuivre la mise en œuvre de ces modifications;
+36. Ni la 37e législature ni la 38e législature du Parlement n’ont présenté une loi visant la mise en œuvre des modifications proposées à l’article 125.4 de la Loi de l’impôt sur le revenu;
+37. En 2005, le paragraphe 1106(11) du Règlement de l’impôt sur le revenu a été ajouté par DORS/2005-126, article 3, rétroactivement à 1995. Cet article excluait la somme payée ou payable dans le cadre du Programme de droits de diffusion du Fonds de télévision et de câblodistribution pour la production d’émissions canadiennes ou du Canada Television Fund/Fonds canadien de télévision de la définition de « montant d’aide » à l’article 125.4 de la Loi. Avant l’ajout du paragraphe 1106(11), ce financement aurait été visé par la définition de « montant d’aide » pour l’application de l’article 125.4. Toutefois, le BCPAC et l’ARC n’ont pas considéré ce financement comme étant un montant d’aide dans le calcul des crédits d’impôt prévus à l’article 125.4;
+38. Le 22 novembre 2006, le ministre des Finances du gouvernement minoritaire conservateur nouvellement élu, l’honorable Jim Flaherty, a déposé le projet de loi omnibus C-33, contenant les mêmes modifications à l’article 125.4 que celles qui avaient été énoncées dans les propositions du 14 novembre 2003. Le projet de loi a fait l’objet d’une étude à la Chambre des communes et a franchi l’étape de la troisième lecture le 15 juin 2007. À aucun moment au cours des diverses étapes, un débat n’a été tenu sur les modifications apportées à l’article 125.4. La première lecture du projet de loi au Sénat a eu lieu le 18 juin 2007;
+39. La première session de la 39e législature a été prorogée au 14 septembre 2007. La deuxième session a commencé le 16 octobre 2007. Le projet de loi C-33 a été présenté de nouveau à la Chambre des communes en tant que projet de loi C-10, le 29 octobre 2007, et a été renvoyé au Sénat pour la première lecture le 30 octobre 2007;
+40. Les débats au Sénat se sont concentrés essentiellement sur les dispositions d’ordre public qui avaient été initialement proposées en 2002 par le ministre des Finances John Manley. Le Sénat a refusé d’adopter le projet de loi sans proposition d’amendements, et il est resté sur le Feuilleton avec la dissolution du Parlement le 7 septembre 2008 et la convocation des élections le 14 octobre 2008;
+41. Le 6 septembre 2012, le gouverneur général, sur la recommandation du premier ministre le très honorable Stephen Harper, a nommé cinq sénateurs, portant le total des sénateurs à 105, comme le prévoit la Constitution;
+42. Le 17 septembre 2012, Vivienn Poy, sénatrice de l’Ontario, a démissionné du Sénat;
+43. Le 23 septembre 2012, Ethel Cochrane, sénatrice de Terre-Neuve-et-Labrador, a pris sa retraite du Sénat;
+44. Le 19 octobre 2012, Robert Peterson, sénateur de la Saskatchewan, a pris sa retraite du Sénat;
+45. Le 6 novembre 2012, Gerry St. Germain, sénateur de la Colombie-Britannique, a pris sa retraite du Sénat;
+46. Le 10 janvier 2013, Frank Mahovlich, sénateur de l’Ontario, a pris sa retraite du Sénat;
+47. Le 18 janvier 2013, Joyce Fairbairn, sénatrice du Manitoba, a démissionné du Sénat;
+48. Le 25 janvier 2013, le gouverneur général, sur la recommandation du premier ministre le très honorable Stephen Harper, a nommé cinq sénateurs, laissant vacant le siège de la Colombie-Britannique, que le sénateur St. Germain occupait avant de prendre sa retraite;
+49. Le 16 mars 2013, Terry Stratton, sénateur du Manitoba, a pris sa retraite du Sénat;
+50. Le 22 mars 2013, Bert Brown, sénateur de l’Alberta, a pris sa retraite du Sénat;
+51. Le 25 mars 2013, le gouverneur général, sur la recommandation du premier ministre le très honorable Stephen Harper, a nommé Scott Tannas pour occuper le siège laissé vacant par Bert Brown, en Alberta;
+52. Scott Tannas a été le dernier sénateur nommé à la Chambre haute par le gouverneur général, sur la recommandation du premier ministre le très honorable Stephen Harper. Le premier ministre a refusé de faire d’autres recommandations de nomination au Sénat avant l’échéance de son mandat, et le gouverneur général n’a procédé à aucune autre nomination avant le printemps 2016, laissant au total vingt-deux sièges vacants à la fin du mandat du premier ministre Stephen Harper;
+53. Le 11 mai 2013, Doug Finley, sénateur de l’Ontario, est décédé en cours de mandat;
+54. Le 2 août 2013, Pierre de Bane, sénateur du Québec, a pris sa retraite du Sénat;
+55. Le 2 août 2013, Rod Zimmer, sénateur du Manitoba, a démissionné du Sénat;
+56. Le 26 août 2013, Mac Harb, sénateur de l’Ontario, a démissionné du Sénat;
+57. Le 16 novembre 2013, Donald Oliver, sénateur de la Nouvelle-Écosse, a pris sa retraite;
+58. Le 30 novembre 2013, Gerald Comeau, sénateur de la Nouvelle-Écosse, a démissionné du Sénat;
+59. Le 30 novembre 2013, David Braley, sénateur de l’Ontario, a démissionné du Sénat;
+60. Le 8 avril 2014, le nouveau ministre des Finances, l’honorable Joe Oliver, a publié un quatrième document de travail exposant les propositions législatives et les notes explicatives concernant l’impôt sur le revenu, y compris les modifications apportées aux dispositions sur le crédit d’impôt pour production cinématographique ou magnétoscopique canadienne contenues à l’article 125.4 de la Loi de l’impôt sur le revenu. Ces propositions étaient semblables à celles qui avaient été lancées le 14 novembre 2003, mais ne comprenaient pas les dispositions « d’ordre public ».
+61. Le 15 juin 2014, Hugh Segal, sénateur de l’Ontario, a démissionné du Sénat;
+62. Le 17 juin 2014, Roméo Dallaire, sénateur du Québec, a démissionné du Sénat;
+63. Le 17 juin 2014, Andrée Champagne, sénatrice du Québec, a pris sa retraite du Sénat;
+64. Le 25 juillet 2014, Catherin Callbeck, sénatrice de l’Île-du-Prince-Édouard, a pris sa retraite du Sénat;
+65. Le 10 août 2014, JoAnne Buth, sénatrice du Manitoba, a démissionné du Sénat;
+66. Le 23 octobre 2014, le ministre des Finances, l’honorable Joe Oliver, a déposé le projet de loi omnibus C-43, contenant les modifications à l’article 125.4 énoncées dans les propositions du 8 avril 2014. Pendant le débat sur le projet de loi, la seule mention aux modifications à l’article 125.4 a été de confirmer que le critère relatif à l’ordre public avait été supprimé. Aucune discussion n’a été tenue sur les changements apportés à la définition de « montant d’aide » et de la « dilution » du crédit d’impôt qui s’en est suivi ni sur l’effet négatif sur les droits antérieurement conférés découlant de la rétroactivité. Le projet de loi n’a pas été envoyé au Comité permanent du patrimoine canadien pour examen. Malgré le fait que l’ARC et le ministère des Finances étaient au courant de l’effet rétroactif sur l’appelante et son coproducteur, le Parlement n’en a pas été informé.‑ Les modifications apportées à l’article 125.4 contenues dans le projet de loi étaient décrites dans le résumé comme [traduction] « simplifiant les règles relatives au régime de crédit d’impôt pour production cinématographique ou magnétoscopique canadienne »;
+67. Le 27 novembre 2014, Noël Kinsella, sénateur du Nouveau-Brunswick, a pris sa retraite du Sénat;
+68. Le 2 décembre 2014, Fernand Robichaud, sénateur du Québec, a pris sa retraite du Sénat;
+69. Le 15 décembre 2014, Asha Seth, sénatrice de l’Ontario, a pris sa retraite du Sénat;
+70. Le Sénat a adopté le projet de loi le 16 décembre 2014. Le 16 décembre, il n’y avait plus que 88 sénateurs. Il y avait dix-sept sièges vacants, un en Colombie-Britannique, trois au Manitoba, cinq en Ontario, deux au Nouveau-Brunswick, un à l’Île-du-Prince-Édouard, deux en Nouvelle-Écosse et trois dans les circonscriptions électorales du Québec – Gulf, Grandville et De la Valliere;
+71. Le 5 juin 2015, le Comité permanent du patrimoine canadien a déposé son rapport intitulé Examen de l’industrie canadienne du long métrage. Le Comité permanent du patrimoine canadien a formulé 11 recommandations, y compris les recommandations suivantes :
+i. Recommandation 1
+Le Comité recommande que le gouvernement fédéral maintienne son soutien global à I’industrie canadienne du long métrage.
+ii. Recommandation 2
+Le Comité recommande que le ministère du Patrimoine canadien examine et revoie avec les intervenants de I’industrie canadienne du long métrage la problématique de la réduction des crédits d’impôt fédéraux (communément appelé la « dilution ») et des lourdeurs administratives associées à leur réclamation.
+iii. Recommandation 5
+Le Comité recommande que le Conseil de la radiodiffusion et des télécommunications canadiennes considère la création d’une catégorie spéciale pour les longs métrages canadiens à titre d’émissions d’intérêt national afin de leur garantir une diffusion, un financement et une promotion appropriés.
+iv. Recommandation 6
+Le Comité recommande que le Conseil de la radiodiffusion et des télécommunications canadiennes considère d’examiner sa politique sur les émissions d’intérêt national en vue de maintenir et de promouvoir plus particulièrement la production de longs métrages et de documentaires canadiens.
+-Dans la partie d) intitulée [traduction] « Questions à trancher », au paragraphe 6. Ce paragraphe est ainsi rédigé :
+[traduction]
+6. La Loi no 2 sur le plan d’action économique de 2014, L.C 2014, ch. 39 est-elle inconstitutionnelle et invalide?
+-Dans la partie e) intitulée [traduction] « Dispositions législatives invoquées », au paragraphe 9. Ce paragraphe est ainsi rédigé :
+[traduction]
+9. Articles 38, 42, 43, 46 et 52 de la Loi constitutionnelle de 1982;
+-Dans la partie f) intitulée [traduction] « Motifs que l’appelante entend invoquer », aux paragraphes 9 à 17 inclusivement. Les paragraphes sont ainsi rédigés :
+[traduction]
+9. À titre subsidiaire, si la contribution de Téléfilm est réputée être un « montant d’aide » en vertu du paragraphe 125.4(1) qui n’a pas été remboursé par l’appelante, l’appelante mentionne que la définition de « montant d’aide » donnée au paragraphe 125.4(1) avant les modifications introduites par la Loi no 2 sur le plan d’action économique de 2014, ch. 39, doit s’appliquer à Sequel Film et à ses années d’imposition se terminant les 31 octobre 2010 et 2011.
+10. L’article 17 de la Loi constitutionnelle de 1867 est ainsi rédigé :
+Il y aura, pour le Canada, un parlement qui sera composé de la Reine, d’une chambre haute appelée le Sénat, et de la Chambre des communes.
+11. L’article 21 de la Loi constitutionnelle de 1867 prévoit ce qui suit :
+Sujet aux dispositions de la présente loi, le Sénat se composera de cent cinq membres, qui seront appelés sénateurs.
+12. L’article 22 de la Loi constitutionnelle de 1867 dispose de ce qui suit :
+En ce qui concerne la composition du Sénat, le Canada sera censé comprendre quatre divisions :
+1. Ontario;
+2. Québec;
+3. les provinces Maritimes — la Nouvelle-Écosse et le Nouveau-Brunswick — ainsi que l’Île-du-Prince-Édouard;
+4. les provinces de l’Ouest : le Manitoba, la Colombie-Britannique, la Saskatchewan et l’Alberta;
+les quatre divisions doivent (subordonnément aux révisions de la présente loi) être également représentées dans le Sénat, ainsi qu’il suit : — Ontario par vingt-quatre sénateurs; Québec par vingt-quatre sénateurs; les Provinces maritimes et l’Île-du-Prince-Édouard par vingt-quatre sénateurs, dont dix représentent la Nouvelle-Écosse, dix le Nouveau-Brunswick, et quatre l’Île-du-Prince-Édouard; les Provinces de l’Ouest par vingt-quatre sénateurs, dont six représentent le Manitoba, six la Colombie-Britannique, six la Saskatchewan et six l’Alberta; la province de Terre-Neuve aura droit d’être représentée au Sénat par six sénateurs; le territoire du Yukon, les territoires du Nord-Ouest et le territoire du Nunavut ont le droit d’être représentés au Sénat par un sénateur chacun.
+En ce qui concerne la province de Québec, chacun des vingt-quatre sénateurs la représentant, sera nommé pour l’un des vingt-quatre collèges électoraux du Bas-Canada énumérés dans la cédule A, annexée au chapitre premier des statuts refondus du Canada.
+13. L’article 32 de la Loi constitutionnelle de 1867 est ainsi rédigé :
+Quand un siège deviendra vacant au Sénat par démission, décès ou toute autre cause, le gouverneur-général remplira la vacance en adressant un mandat à quelque personne capable et ayant les qualifications voulues.
+14. Par convention constitutionnelle, le pouvoir du gouverneur général prévu à l’article 32 est exercé sur la recommandation du premier ministre.
+15. L’article 11 de la Loi d’interprétation, L.R.C. (1985), ch. I-21 dispose de ce qui suit :
+L’obligation s’exprime essentiellement par l’indicatif présent du verbe porteur de sens principal et, à l’occasion, par des verbes ou expressions comportant cette notion.
+16. L’appelante affirme que le refus du premier ministre Harper de recommander au gouverneur général des candidats pour combler les sièges vacants au Sénat, et le fait que le gouverneur général n’a pas nommé de sénateurs pour remplacer les sièges vacants créés après le 25 mars 2013 ont modifié unilatéralement les caractéristiques fondamentales du Sénat. La Loi constitutionnelle de 1867 enchâsse une exigence impérative d’assurer la représentation régionale de chacune des provinces et de chacun des territoires du Canada et de chacune des 24 circonscriptions électorales du Québec; un pouvoir gouvernemental ne peut être exercé légalement que s’il est conforme à la Constitution. Une loi qui est incompatible avec les modalités et la forme requises en matière constitutionnelle est inopérante pour cause d’invalidité.
+17. Le 16 décembre 2014, date à laquelle le Sénat a adopté la Loi no 2 sur le plan d’action économique de 2014, ch. 39, il n’y avait que 88 sénateurs en poste. Il y avait dix-sept sièges vacants, un en Colombie-Britannique, trois au Manitoba, cinq en Ontario, deux au Nouveau-Brunswick, un à l’Île-du-Prince-Édouard, deux en Nouvelle-Écosse et trois dans les circonscriptions électorales du Québec – Gulf, Grandville et De la Valliere. Le 16 décembre 2014, le Sénat ne satisfaisait pas aux exigences impératives de la représentation régionale énoncées dans la Loi constitutionnelle de 1867. L’appelante affirme donc que la Loi no 2 sur le plan d’action économique de 2014, ch. 39 est inconstitutionnelle et invalide.
+-Dans la partie g) intitulée [traduction] « Mesure de redressement demandée », aux paragraphes 4 et 5. Les paragraphes sont ainsi rédigés :
+4. À titre subsidiaire, si la somme de 1 372 069 $ fournie à l’appelante par Téléfilm est réputée ne pas être un « montant d’aide » au sens du paragraphe 125.4(1) de la Loi de l’impôt sur le revenu et ne pas avoir été intégralement remboursée conformément aux dispositions du même paragraphe, l’appelante demande que les modifications apportées à l’article 125.4 de la Loi ne s’appliquent pas à Sequel Film;
+5. Que le formulaire T1131 de l’appelante pour l’année d’imposition se terminant le 31 octobre 2011 fasse l’objet des nouvelles cotisations suivantes :
+i. confirmer la part des coûts de production de l’appelante : ligne 421, à 2 687 253 $;
+ii. réduire la part du montant d’aide consenti à l’appelante : ligne 423, à 736 497 $;
+iii. soustraire la part du montant d’aide consenti à l’appelante de la part de ses coûts de production et multiplier par 48 %, déduire les dépenses de main-d’œuvre admissibles de l’année 2010 (328 301 $) et augmenter la limite des coûts de production : ligne 430, à 608 062 $;
+iv. confirmer la part du travail de l’appelante : lignes 601 à 618, à 1 105 161 $;
+v. augmenter les dépenses de main-d’œuvre admissibles de l’appelante à 608 062 $ et multiplier par 25 % pour obtenir le crédit d’impôt pour production cinématographique ou magnétoscopique canadienne pour l’année d’imposition se terminant le 31 octobre 2011, équivalant à 152 016 $;
+vi. confirmer le remboursement de 147 288 $, somme versée avec intérêts en 2013.
+(2) Le droit applicable [25] Aux termes du paragraphe 53(1) des Règles, la Cour peut, à la demande d’une partie, radier des parties d’un acte de procédure, avec ou sans autorisation de le modifier. Les motifs pour lesquels la Cour peut radier des parties d’un acte de procédure sont énumérés à l’alinéa 53(1)d) des Règles.
+[26] Le paragraphe 53(1) des Règles est rédigé comme suit :
+53(1) La Cour peut, de son propre chef ou à la demande d’une partie, radier un acte de procédure ou tout autre document ou en supprimer des passages, en tout ou en partie, avec ou sans autorisation de le modifier parce que l’acte ou le document :
+a) peut compromettre ou retarder l’instruction équitable de l’appel;
+b) est scandaleux, frivole ou vexatoire;
+c) constitue un recours abusif à la Cour;
+d) ne révèle aucun moyen raisonnable d’appel ou de contestation de l’appel.
+[27] La Cour appliquera les principes suivants au moment de statuer sur une requête présentée aux termes du paragraphe 53(1) des Règles.
+1-Pour qu’un acte de procédure ou un de ses passages soit radié, il doit être évident et manifeste que la position qui est prise n’a aucune chance raisonnable de succès[28].
+2-Dans une requête en radiation d’un acte de procédure, il incombe au demandeur d’établir qu’il est évident et manifeste que la déclaration ne révèle aucun moyen d’action raisonnable[29].
+3-Sauf si les faits ne peuvent manifestement pas être prouvés, les faits mentionnés dans l’avis d’appel doivent être tenus pour avérés[30]. L’intimé ne peut pas attaquer l’avis d’appel dans le but de contester les assertions de fait[31].
+4-Le juge des requêtes doit éviter d’usurper les fonctions du juge du procès en tirant des conclusions de fait ou en se prononçant sur la pertinence. Il faut laisser de telles questions à l’appréciation du juge qui entend la preuve[32].
+5-Le critère à respecter pour pouvoir accorder une requête est rigoureux, et il faut faire preuve d’énormément de prudence en exerçant le pouvoir conféré en matière de radiation d’un acte de procédure[33]. L’approche doit être généreuse et permettre, dans la mesure du possible, l’instruction de toute demande inédite, mais soutenable[34].
+[28] Par conséquent, en l’espèce, pour que la Cour puisse radier des passages de l’avis d’appel de l’appelante, l’intimé doit établir qu’il est évident et manifeste que l’argument constitutionnel avancé par l’appelante n’a aucune chance raisonnable d’être retenu. Si l’intimé ne s’acquitte pas de ce fardeau, la Cour rejettera sa requête. Si l’intimé s’acquitte de ce fardeau, la Cour radiera les passages de l’avis d’appel concernant l’argument constitutionnel, sauf si ces passages se rapportent également à un autre argument.
+[29] La Cour examinera maintenant chacune des observations de l’intimé. En se fondant sur ces observations, la Cour déterminera s’il est évident et manifeste que l’argument constitutionnel avancé par l’appelante n’a aucune chance raisonnable d’être retenu.
+(3) Est-il évident et manifeste que l’argument constitutionnel avancé par l’appelante n’a aucune chance raisonnable d’être retenu? (a) La Cour canadienne de l’impôt a-t-elle compétence pour examiner la question de savoir si le Sénat a adopté en bonne et due forme la Loi no 2 sur le PAE de 2014?
+[30] L’intimé soutient que, comme le Parlement a compétence exclusive sur sa propre procédure, le Parlement détermine si le Sénat a adopté une loi en bonne et due forme. Les Cours ne tranchent donc pas la question de savoir si le Sénat a adopté une loi en bonne et due forme[35].
+[31] L’intimé fait également valoir que le Parlement a toujours compétence exclusive pour déterminer si le Sénat a adopté une loi en bonne et due forme, même si certaines règles constitutionnelles s’appliquent[36]. En l’espèce, les règles constitutionnelles applicables sont énoncées aux articles 21 et 22 de la Loi constitutionnelle de 1867. L’article 21 de la Loi constitutionnelle de 1867 dispose que, pour être compétent, le Sénat doit être composé d’au moins 105 sénateurs. L’article 22 de la Loi constitutionnelle de 1867 prévoit la représentation géographique des sénateurs.
+[32] Je souscris à l’argument de l’intimé. En effet, le Parlement a compétence exclusive sur les questions qui relèvent du privilège parlementaire, et les tribunaux ne peuvent examiner les questions portant sur le privilège parlementaire[37]. À titre d’exemple, la compétence exclusive du Parlement sur ses propres débats et procédures est une question qui relève du privilège parlementaire[38]. Dans l’arrêt Mikisew Cree, la Cour suprême du Canada a déclaré que « [l]’existence de ce privilège empêche par ailleurs généralement les tribunaux d’assujettir le processus parlementaire à des contraintes procédurales »[39].
+[33] Le processus législatif ne jouit cependant pas d’une immunité absolue contre l’intervention judiciaire. Certaines règles constitutionnelles lient le Parlement, et le défaut de se conformer à ces règles entraînera l’invalidité de la loi[40]. La Cour suprême du Canada a mentionné que plusieurs règles constitutionnelles exécutoires par voie judiciaire sont énoncées à la partie IV de la Loi constitutionnelle de 1867[41]. Les articles 21 et 22 de la Loi constitutionnelle de 1867 relèvent de la partie IV de cette loi.
+[34] L’intimé se fonde sur six décisions pour faire valoir que, comme le Parlement a compétence exclusive sur sa propre procédure, c’est lui qui détermine si le Sénat a adopté une loi en bonne et due forme. Les six décisions sont les suivantes : Wauchope[42], Irwin[43], PHLF[44], Authorson[45], Heckendorn[46] et Mikisew[47]. Dans ces décisions, la question de savoir si une loi a été adoptée par un Parlement compétent n’est pas examinée. Les questions examinées dans ces décisions sont plutôt de savoir si la loi contestée a été adoptée en bonne et due forme sur le plan de la procédure. Par conséquent, le juge du procès pourrait très bien établir une distinction entre ces décisions et la présente affaire. À mon avis, sur le fondement de ces décisions, il m’est impossible de conclure qu’il est évident et manifeste que l’argument constitutionnel avancé par l’appelante n’a aucune chance raisonnable d’être retenu.
+[35] Dans l’arrêt Wauchope, la Chambre des Lords a décidé qu’une loi n’était pas invalide du fait qu’une partie n’avait pas reçu d’avis avant l’adoption de la loi, même si cette loi a une incidence sur les droits de la partie. La Chambre des Lords a tiré la conclusion suivante :
+[traduction]
+Tout ce que peut faire une cour de justice est d’examiner les registres du Parlement : s’il en ressort qu’un projet de loi a été adopté par les deux Chambres et qu’il a reçu la sanction royale, aucune cour de justice ne peut enquêter sur la façon dont il a été présenté au Parlement, ni sur ce qui a été fait avant sa présentation ou ce que le Parlement a adopté pendant la progression des diverses étapes suivies par les deux Chambres. J’ose espérer qu’aucun examen de cette nature n’aura avantage à être mené par un tribunal écossais, afin de donner dûment effet à toutes les lois du Parlement [...] sur ce qui semble être l’interprétation correcte de ses dispositions actuelles[48].
+[36] La question soulevée dans l’arrêt Wauchope portait sur la procédure parlementaire et la question de la compétence constitutionnelle du parlement britannique n’y était pas en litige.
+[37] Dans l’arrêt Irwin, la Cour de l’Échiquier du Canada a refusé d’invalider une loi, même si l’article 54 de la Loi constitutionnelle de 1867 n’a peut-être pas été respecté. La Cour de l’Échiquier du Canada a mentionné ce qui suit :
+[traduction]
+Il s’agit d’une question de droit élémentaire selon laquelle, lorsqu’une loi semble en l’apparence avoir été dûment adoptée par une assemblée législative compétente, les tribunaux doivent supposer que tout a été fait en bonne et due forme en ce qui a trait à son adoption par l’Assemblée législative, et ne peuvent examiner des arguments voulant qu’il y ait un vice dans la procédure parlementaire qui sous‑tend en fait la loi[49].
+[38] Dans l’arrêt Irwin, la Cour de l’Échiquier du Canada mentionne clairement que la compétence exclusive du Parlement s’applique si la loi contestée a été adoptée par une assemblée législative compétente. Toutefois, l’argument de l’appelante porte précisément sur le fait que la Loi no 2 sur le PAE de 2014 n’a pas été adoptée par une assemblée législative compétente.
+[39] Dans la décision PHLF, la partie appelante affirmait que la partie IX de la Loi sur la taxe d’accise n’avait pas été valablement adoptée en raison de l’utilisation des articles 57 et 78 du Règlement de la Chambre des communes[50]. Les articles 57 et 78 limitaient la durée des débats à la Chambre des communes[51]. Dans la décision PHLF, la question en litige n’avait aucun rapport avec la compétence du Parlement. De plus, cette décision rendue par la Cour canadienne de l’impôt sous le régime de la procédure informelle n’a aucune valeur jurisprudentielle[52]. Bien que les décisions rendues sous le régime de la procédure informelle puissent encore être prises en compte, il revient au juge du procès de se prononcer[53].
+[40] Dans l’arrêt Authorson, la Cour suprême du Canada a conclu que « [l]es garanties d’application régulière de la loi quant à la jouissance des biens, établies dans la Déclaration canadienne des droits, ne confèrent pas de droits procéduraux relativement au processus législatif »[54]. Dans l’arrêt Authorson, la question en litige concernait également la procédure parlementaire, et non la compétence du Parlement. De plus, à la différence de la question en litige en l’espèce, la question soulevée dans l’arrêt Authorson ne portait pas sur les règles constitutionnelles, mais plutôt sur la Déclaration canadienne des droits[55], qui est une loi à caractère interprétatif[56].
+[41] Dans la décision Heckendorn, un protonotaire de la Cour fédérale du Canada s’est fondé sur l’arrêt Irwin pour parvenir à la conclusion que la Cour ne pouvait pas invalider une loi même si cette loi n’avait pas reçu la sanction royale et n’avait pas été publiée dans la Gazette du Canada[57]. Dans la décision Heckendorn, la question portait de nouveau sur la procédure législative, et non sur la compétence constitutionnelle.
+[42] Dans l’arrêt Mikisew Cree, la Cour suprême du Canada a conclu que l’obligation de la Couronne de consulter les peuples autochtones avant de prendre des mesures susceptibles d’avoir un effet préjudiciable sur les droits protégés par l’article 35 de la Loi constitutionnelle de 1982 ne s’étend pas au Parlement et au processus législatif[58]. La compétence du Parlement n’était pas en litige dans cette affaire. De plus, comme je l’ai déjà mentionné, la Cour suprême du Canada a fait allusion au fait que les tribunaux ont compétence sur plusieurs aspects de la partie IV de la Loi constitutionnelle de 1867, sans égard à la compétence exclusive du Parlement sur sa propre procédure[59].
+[43] En conclusion, je suis d’avis que toutes les décisions invoquées par l’intimé peuvent faire l’objet d’une distinction, car aucune d’entre elles ne concerne la compétence du Parlement. Par conséquent, sur le fondement de ces décisions, l’intimé n’a pas établi qu’il est évident et manifeste que l’argument constitutionnel avancé par l’appelante n’a aucune chance raisonnable d’être retenu.
+(b) Les sièges vacants au Sénat ont-ils pour effet d’empêcher le Sénat d’exercer ses pouvoirs?
+[44] L’appelante soutient que la Loi no 2 sur le PAE de 2014 n’a pas été adoptée par un Parlement compétent en vertu de la Constitution. Selon l’appelante, pour qu’une loi soit adoptée, l’article 21 de la Loi constitutionnelle de 1867 exige que le Sénat compte au moins 105 sénateurs nommés. De plus, l’article 22 de la Loi constitutionnelle de 1867 exige que les sénateurs représentent les provinces, les territoires et les 24 circonscriptions électorales du Québec. L’appelante soutient que les articles 21 et 22 garantissent que le mandat constitutionnel du Sénat consiste à protéger les intérêts régionaux. L’appelante fait également valoir que les sièges vacants doivent immédiatement être pourvus en vertu de l’article 32 de la Loi constitutionnelle de 1867. Les articles 21, 22 et 32 de la Loi constitutionnelle de 1867 sont ainsi rédigés :
+21 Sujet aux dispositions de la présente loi, le Sénat se composera de cent cinq membres, qui seront appelés sénateurs.
+22 En ce qui concerne la composition du Sénat, le Canada sera censé comprendre quatre divisions :
+1. Ontario;
+2. Québec;
+3. les provinces Maritimes — la Nouvelle-Écosse et le Nouveau-Brunswick — ainsi que l’Île-du-Prince-Édouard;
+4. les provinces de l’Ouest : le Manitoba, la Colombie-Britannique, la Saskatchewan et l’Alberta;
+les quatre divisions doivent (subordonnément aux révisions de la présente loi) être également représentées dans le Sénat, ainsi qu’il suit : — Ontario par vingt-quatre sénateurs; Québec par vingt-quatre sénateurs; les Provinces maritimes et l’Île-du-Prince-Édouard par vingt-quatre sénateurs, dont dix représentent la Nouvelle-Écosse, dix le Nouveau-Brunswick, et quatre l’Île-du-Prince-Édouard; les Provinces de l’Ouest par vingt-quatre sénateurs, dont six représentent le Manitoba, six la Colombie-Britannique, six la Saskatchewan et six l’Alberta; la province de Terre-Neuve aura droit d’être représentée au Sénat par six sénateurs; le territoire du Yukon, les territoires du Nord-Ouest et le territoire du Nunavut ont le droit d’être représentés au Sénat par un sénateur chacun.
+En ce qui concerne la province de Québec, chacun des vingt-quatre sénateurs la représentant, sera nommé pour l’un des vingt-quatre collèges électoraux du Bas-Canada énumérés dans la cédule A, annexée au chapitre premier des statuts refondus du Canada.
+[…]
+32 Quand un siège deviendra vacant au Sénat par démission, décès ou toute autre cause, le gouverneur-général remplira la vacance en adressant un mandat à quelque personne capable et ayant les qualifications voulues.
+[45] L’intimé soutient que l’article 21 de la Loi constitutionnelle de 1867 n’exige pas que le Sénat compte 105 sénateurs nommés pour pouvoir adopter une loi. Selon l’intimé, cela serait incompatible avec les articles 33, 35, 36 et 37 de la Loi constitutionnelle de 1867 et avec le paragraphe 4(1) de la Loi sur la Cour suprême[60]. Les articles 33, 35, 36 et 37 de la Loi constitutionnelle de 1867 sont ainsi rédigés :
+33 S’il s’élève quelque question au sujet des qualifications d’un sénateur ou d’une vacance dans le Sénat, cette question sera entendue et décidée par le Sénat.
+[…]
+35 Jusqu’à ce que le parlement du Canada en ordonne autrement, la présence d’au moins quinze sénateurs, y compris l’orateur, sera nécessaire pour constituer une assemblée du Sénat dans l’exercice de ses fonctions.
+36 Les questions soulevées dans le Sénat seront décidées à la majorité des voix, et dans tous les cas, l’orateur aura voix délibérative; quand les voix seront également partagées, la décision sera considérée comme rendue dans la négative.
+37 La Chambre des Communes sera, sujette aux dispositions de la présente loi, composée de trois cent huit membres, dont cent six représenteront Ontario, soixante-quinze Québec, onze la Nouvelle-Écosse, dix le Nouveau-Brunswick, quatorze le Manitoba, trente-six la Colombie-Britannique, quatre l’Île-du-Prince-Édouard, vingt-huit l’Alberta, quatorze la Saskatchewan, sept Terre-Neuve, un le territoire du Yukon, un les territoires du Nord-Ouest et un le territoire du Nunavut.
+[46] Le mot « shall » est employé dans la version anglaise des articles 21, 22 et 32 de la Loi constitutionnelle de 1867. Le mot anglais « shall » ["doit"] est, par présomption, impératif[61]. Toutefois, le mot « shall » est utilisé conjointement avec l’expression « sujet aux dispositions de la présente loi » dans les articles 21 et 22 de la Loi constitutionnelle de 1867. Par conséquent, la Cour doit déterminer si les articles 33, 35, 36 et 37 de la Loi constitutionnelle de 1867 sont incompatibles avec l’interprétation proposée par l’appelante des articles 21, 22 et 32 de cette loi.
+[47] Selon l’intimé, les articles 33, 35 et 36 de la Loi constitutionnelle de 1867 visent le cas où il existe des sièges vacants au Sénat, mais qu’il est encore en mesure d’exercer ses pouvoirs et de voter[62]. L’article 33 de la Loi constitutionnelle de 1867 confère au Sénat la compétence exclusive d’évaluer la situation de ses membres[63], y compris « quelque question au sujet des qualifications d’un sénateur ou d’une vacance dans le Sénat »[64]. La pratique selon le Règlement du Sénat[65] prévoit que lorsqu’une question se pose en ce qui a trait à un siège vacant et que le Sénat tranche en faveur du siège vacant, le siège du Sénat est « déclaré vacant »[66] ou le Sénat « décide si le siège du sénateur doit devenir vacant »[67].
+[48] L’intimé soutient en outre que le Sénat doit être en mesure de disposer de sièges vacants, sinon l’article 33 de la Loi constitutionnelle de 1867 est inutile. Si le Sénat ne peut avoir de sièges vacants, un Sénat composé de moins de 105 personnes nommées ne peut trancher des questions sur les qualifications d’un nouveau sénateur ou un siège vacant dans le Sénat.
+[49] L’appelante n’affirme cependant pas qu’un seul siège vacant rend le Sénat incompétent en vertu de la Constitution. Il y avait 17 sièges vacants et seulement 88 sénateurs au moment de l’adoption de la Loi no 2 sur le PAE de 2014. L’appelante soutient qu’avec 17 sièges vacants, le Sénat ne satisfaisait pas aux exigences impératives de la représentation régionale aux termes des articles 21 et 22 de la Loi constitutionnelle de 1867 au moment de l’adoption de la Loi no 2 sur le PAE de 2014.
+[50] L’appelante avance une approche téléologique à l’interprétation des articles 21 et 22 de la Loi constitutionnelle de 1867, affirmant que le but premier du Sénat est de protéger les intérêts régionaux[68]. Toutefois, dans l’arrêt Hypothèques Trustco Canada, la Cour suprême du Canada a confirmé qu’une approche littérale prévaut si les texte d’une disposition est précis et non équivoque :
+Il est depuis longtemps établi en matière d’interprétation des lois qu’« il faut lire les termes d’une loi dans leur contexte global en suivant le sens ordinaire et grammatical qui s’harmonise avec l’esprit de la loi, l’objet de la loi et l’intention du législateur » : voir 65302 British Columbia Ltd. c. Canada, [1999] 3 R.C.S. 804, par. 50. L’interprétation d’une disposition législative doit être fondée sur une analyse textuelle, contextuelle et téléologique destinée à dégager un sens qui s’harmonise avec la Loi dans son ensemble. Lorsque le libellé d’une disposition est précis et non équivoque, le sens ordinaire des mots joue un rôle primordial dans le processus d’interprétation. Par contre, lorsque les mots utilisés peuvent avoir plus d’un sens raisonnable, leur sens ordinaire joue un rôle moins important. L’incidence relative du sens ordinaire, du contexte et de l’objet sur le processus d’interprétation peut varier, mais les tribunaux doivent, dans tous les cas, chercher à interpréter les dispositions d’une loi comme formant un tout harmonieux[69].
+[Non souligné dans l’original.]
+[51] De plus, la Cour suprême du Canada, dans l’arrêt Celgene Corp., a confirmé l’arrêt Hypothèques Trustco Canada, au paragraphe 21 :
+[L]’interprétation des lois consiste à examiner le sens ordinaire des mots et le contexte législatif dans lequel ils s’inscrivent [...]. S’il est clair, le libellé prévaut; sinon, il cède le pas à l’interprétation qui convient le mieux à l’objet prédominant de la loi[70].
+[52] La Cour est d’avis que les termes employés aux articles 21, 22 et 35 de la Loi constitutionnelle de 1867 sont précis, clairs et non équivoques. Ainsi, les termes doivent prévaloir sur l’interprétation législative.
+[53] L’article 21 de la Loi constitutionnelle de 1867 dispose que, « [s]ujet aux dispositions de la présente loi, le Sénat se composera de cent cinq membres, qui seront appelés sénateurs », rien de plus. L’article 22 exige la représentation régionale. L’article 35 exige la présence d’au moins quinze sénateurs, y compris le président, soit nécessaire pour constituer une assemblée du Sénat dans l’exercice de ses fonctions, rien de plus. L’article 35 ne fait pas mention d’une exigence impérative en matière de représentation régionale ni de toute autre exigence.
+[54] Comme le montre bien le paragraphe précédent, les articles 21, 22 et 35 de la Loi constitutionnelle de 1867 portent sur des questions distinctes. Les exigences énoncées aux articles 21 et 22 n’ont aucune incidence sur l’article 35, et inversement.
+[55] De plus, le Règlement du Sénat est pertinent, et notre cour devait donc en tenir compte.
+[56] Pour qu’une loi puisse être adoptée avec l’accord du Sénat, le Règlement du Sénat doit être respecté. Les étapes de base du processus législatif visant l’adoption d’un projet de loi par le Sénat sont les suivantes : le projet de loi est présenté et passe en première lecture[71]; le principe du projet de loi est habituellement débattu en deuxième lecture[72]; le projet de loi est adopté en troisième lecture et, de façon générale, il n’est pas débattu davantage ni modifié[73].
+[57] Les première, deuxième et troisième lectures d’un projet de loi se déroulent lors des séances du Sénat. Le Feuilleton et Feuilleton des avis est un document qui oriente les délibérations du Sénat; la liste des affaires actuellement à l’étude au Sénat y est incluse[74]. La liste des affaires comprend, sans toutefois s’y limiter, la première[75], la deuxième[76] et la troisième lecture[77] d’un projet de loi. Le sénateur doit présenter une motion pour ajouter une première[78], une deuxième[79] ou une troisième lecture[80] d’un projet de loi au Feuilleton et Feuilleton des avis. De manière générale, une affaire qui n’a pas été appelée au moment de la levée de la séance, y compris les lectures de projets de loi, est inscrite à l’ordre du jour de la séance suivante[81].
+[58] Sont sujettes à débat les motions ayant pour objet la troisième lecture d’un projet de loi[82]. De plus, les questions soulevées dans le Sénat sont tranchées à la majorité des voix exprimées par les sénateurs qui assistent à la séance[83]. De plus, la présence de 15 sénateurs, y compris le président, est requise pour que le Sénat siège et mène ses travaux conformément à l’article 35 de la Loi constitutionnelle de 1867[84]. Ces règles s’appliquent aux troisièmes lectures d’un projet de loi, puisque les troisièmes lectures constituent un point de l’ordre du jour et qu’il n’y a aucune règle sur le vote ou le quorum propre aux troisièmes lectures. Ainsi, pour adopter un projet de loi à l’étape de la troisième lecture lors d’une séance du Sénat, la présence d’au moins 15 sénateurs est exigée à la séance, y compris le président, et la majorité des voix exprimées lors de la séance doit être favorable à l’adoption du projet de loi.
+[59] Une fois que le Sénat et la Chambre des communes ont adopté le projet de loi selon exactement le même libellé, le projet de loi est présenté au gouverneur général (ou son représentant désigné) pour recevoir la sanction royale[85].
+[60] La Cour conclut que le Règlement du Sénat indique aussi clairement ce qui suit : pour que le Sénat puisse se prononcer sur la question de savoir si un projet de loi sera adopté lors d’une séance, la seule condition est la présence d’au moins 15 sénateurs à la séance, y compris le président.
+[61] Je retiens donc l’observation de l’intimé selon laquelle les articles 33, 35 et 36 de la Loi constitutionnelle de 1867 visent le cas où il existe des sièges vacants au Sénat. L’article 35 autorise le Sénat à exercer ses pouvoirs et à voter en cas de vacance. Pour ce motif, j’ai donc conclu qu’il est évident et manifeste que l’argument constitutionnel avancé par l’appelante n’a aucune chance raisonnable d’être retenu.
+(c) Si la Cour conclut que la Loi no 2 sur le PAE de 2014 est invalide, la réparation pourrait-elle être l’invalidation immédiate de la loi modifiée par la Loi no 2 sur le PAE de 2014?
+[62] L’intimé soutient que, si la Cour conclut que la Loi no 2 sur le PAE de 2014 est invalide, toutes les modifications apportées aux textes législatifs mentionnés dans la Loi no 2 sur le PAE de 2014, comme les autres modifications apportées à la Loi de l’impôt sur le revenu, à la Loi sur la taxe d’accise, à la Loi de 2001 sur l’accise, à la Loi sur les dessins industriels et à la Loi sur les brevets, seront également invalides. Selon l’intimé, le fait d’invalider la Loi no 2 sur le PAE de 2014 signifiera que l’ordre de droit positif qui est censé avoir réglementé les affaires des Canadiens depuis le 16 décembre 2014 sera détruit et que les droits, obligations et autres effets découlant de ces règles de droit seront invalides et non exécutoires. Toujours selon l’intimé, cela irait à l’encontre du principe de la primauté du droit parce que si l’argument constitutionnel avancé par l’appelante était retenu, toutes les mesures législatives adoptées chaque fois qu’un siège se libère au Sénat seraient invalides. L’intimé soutient que cette situation entraînerait le chaos juridique et irait à l’encontre du principe de la primauté du droit[86].
+[63] De plus, l’intimé affirme que, si la Cour conclut que les sièges vacants au Sénat ont pour effet de rendre la loi inconstitutionnelle, tout recours doit être suspendu conformément à l’approche adoptée par la Cour suprême du Canada dans l’arrêt Renvoi : Droits linguistiques au Manitoba. Dans cet arrêt, la loi avait été adoptée uniquement en anglais, malgré les exigences constitutionnelles d’adopter les lois dans les deux langues : en anglais et en français. La Cour suprême du Canada n’a pas immédiatement déclaré la loi invalide, et a conclu qu’un tel résultat irait à l’encontre de la primauté du droit. La Cour suprême du Canada a plutôt rendu la décision suivante :
+Tous les droits, obligations et autres effets qui ont découlé des lois de la législature du Manitoba qui sont apparemment abrogées ou périmées ou qui seraient actuellement en vigueur n’était‑ce du vice dont elles sont entachées sur le plan constitutionnel, et qui ne sont pas sauvés par l’application du principe de la validité de facto ou de principes comme ceux de la chose jugée et de l’erreur de droit, sont réputés temporairement avoir été pleinement exécutoires et incontestables et continuer de l’être à compter de la date où ils ont commencé à exister jusqu’à l’expiration du délai minimum requis pour traduire, adopter, imprimer et publier ces lois[87].
+[Souligné dans l’original.]
+[64] Par conséquent, l’intimé soutient que, même si la Cour conclut que la Loi no 2 sur le PAE de 2014 n’a pas été adoptée en bonne et due forme, la Cour doit suspendre la déclaration d’invalidité de cette loi, et donner au Parlement l’occasion de combler les lacunes procédurales avant d’accorder une mesure qui aurait pour effet d’ébranler le principe de la primauté du droit. Par conséquent, la mesure demandée par l’appelante ne doit pas être accordée telle que demandée[88].
+[65] Je rejette l’observation de l’intimé. Il est vrai que, lorsqu’une loi est incompatible avec la Constitution, la règle générale veut que cette loi soit invalide conformément au paragraphe 52(1) de la Loi constitutionnelle de1982. Le paragraphe 52(1) de la Loi constitutionnelle de 1982 est libellé comme suit :
+52(1) La Constitution du Canada est la loi suprême du Canada; elle rend inopérantes les dispositions incompatibles de toute autre règle de droit.
+[66] Cependant, la mesure demandée, soit la suspension de la déclaration d’invalidité proposée par l’intimé est une mesure d’exception à laquelle les tribunaux ne doivent avoir recours que lorsque la préservation de la primauté du droit et de l’ordre dans l’état sont menacés[89]. En l’espèce, seule la validité de la Loi no 2 sur le PAE de 2014 est en litige, et la compétence de la Cour en matière constitutionnelle se limite aux contestations portant sur la validité de la nouvelle cotisation visée par l’appel[90]. Par conséquent, la déclaration d’invalidité ne s’appliquerait qu’à la Loi no 2 sur le PAE de 2014. Même si l’argument de l’appelante pourrait servir à faire invalider une autre loi par d’autres personnes, compte tenu de la nature de la mesure, il n’est pas certain que les tribunaux accorderaient une suspension de la déclaration d’invalidité de la Loi no 2 sur le PAE de 2014.
+[67] En outre, une partie qui présente une contestation constitutionnelle bénéficie généralement de l’invalidité, tandis que la déclaration d’invalidité n’est suspendue qu’à l’égard des autres[91]. En l’espèce, l’appelante présente une contestation constitutionnelle. Donc, même si notre Cour accorde une suspension de la déclaration d’invalidité, elle peut encore annuler la nouvelle cotisation établie par l’ARC concernant l’année d’imposition 2011 de l’appelante.
+[68] En conclusion, il n’est pas évident et manifeste que, si la Cour concluait que la Loi no 2 sur le PAE de 2014 est invalide, une déclaration d’invalidité ne serait pas une réparation susceptible d’être accordée à l’appelante. Cela tient à la nature exceptionnelle d’une déclaration d’invalidité suspendue, et que, même dans de tels cas, la personne qui a présenté une contestation constitutionnelle profite généralement des avantages immédiats de la décision.
+B. La requête de l’intimé présentée en vertu de l’article 44 des Règles
+[69] Aux termes de l’alinéa 44(1)b) des Règles, la réponse à l’avis d’appel doit être déposée au greffe de la Cour dans les 60 jours suivant la signification de l’avis d’appel, à moins que la Cour ne permette, sur demande présentée avant ou après l’expiration de ce délai, le dépôt de la réponse dans un délai déterminé suivant l’expiration de celui-ci. Aux termes de l’alinéa 44(3)c) des Règles, la réponse doit être signifiée, soit dans le délai imparti aux termes d’une prolongation de délai accordée par la Cour en vertu du paragraphe (1).
+[70] Dans l’arrêt Hennelly,[92] la Cour d’appel fédérale a défini le critère que les tribunaux doivent appliquer lorsqu’ils examinent une demande de prorogation de délai. Suivant ce critère, la Cour doit déterminer si le demandeur a démontré :
+1-une intention constante de poursuivre sa demande;
+2-que la demande est bien fondée;
+3-que le défendeur ne subit pas de préjudice en raison du délai; et
+4-qu’il existe une explication raisonnable justifiant le délai[93].
+[71] Comme la Cour l’a déclaré dans la décision Cobuzzi c. La Reine, pour déterminer si le demandeur a satisfait aux quatre critères énoncés ci-dessus au paragraphe 57, la Cour doit tenir compte des éléments suivants :
+1-que le but de ces quatre critères est d’aider la Cour « à déterminer si l’octroi d’une prorogation de délai est dans l’intérêt de la justice »,
+2-que les critères ne sont pas exclusifs et
+3-que leur importance relative est variable et qu’il n’est pas forcément nécessaire de répondre aux quatre questions en faveur du requérant[94].
+[72] Dans l’arrêt Larkman, la Cour d’appel fédérale a donné une autre explication sur l’application du critère servant à déterminer si une prorogation de délai doit être accordée. La Cour d’appel fédérale a déclaré ce qui suit :
+61 Les parties s’entendent pour dire que les questions suivantes sont pertinentes lorsqu’il s’agit pour notre Cour d’exercer son pouvoir discrétionnaire pour se prononcer sur une demande de prorogation de délai :
+1) Le demandeur a-t-il manifesté une intention constante de poursuivre sa demande?
+2) La demande a-t-elle un certain fondement?
+3) La Couronne a-t-elle subi un préjudice en raison du délai?
+4) Le demandeur a-t-il une explication raisonnable pour justifier le délai?
+(Grewal c. Canada (Ministre de l’Emploi et de l’Immigration), [1985] 2 C.F. 263 (C.A.); Muckenheim c. Canada (Commission de l’assurance-emploi), 2008 CAF 249, au paragraphe 8).
+62 Ces principes orientent la Cour et l’aident à déterminer si l’octroi d’une prorogation de délai est dans l’intérêt de la justice (Grewal, ci-dessus, aux pages 277 et 278). L’importance de chacun de ces facteurs dépend des circonstances de l’espèce. De plus, il n’est pas nécessaire de répondre aux quatre questions en faveur du requérant. Ainsi, « une explication parfaitement convaincante justifiant le retard peut entraîner une réponse positive même si les arguments appuyant la contestation du jugement paraissent faibles et, de la même façon, une très bonne cause peut contrebalancer une justification du retard moins convaincante » (Grewal, à la page 282). Dans certains cas, surtout dans ceux qui sortent de l’ordinaire, d’autres questions peuvent s’avérer pertinentes. La considération primordiale est de savoir si la prorogation de délai serait dans l’intérêt de la justice. (voir, de façon générale, l’arrêt Grewal, aux pages 278 et 279; Canada (Ministre du Développement des ressources humaines) c. Hogervorst, 2007 CAF 41, au paragraphe 33; Huard c. Canada (Procureur général), 2007 CF 195, 89 Admin LR (4th) 1)[95].
+[73] Pour décider si l’explication du demandeur justifie ou non que soit accordée la prorogation de délai nécessaire, il faut se fonder sur les faits de chaque affaire particulière[96].
+[74] Les arrêts Hennelly et Larkman ne sont pas de nature fiscale. La Cour d’appel fédérale a néanmoins appliqué le critère énoncé dans l’arrêt Hennelly dans des affaires en matière fiscale[97].
+[75] Compte tenu des arguments présentés par l’intimé, il ne fait aucun doute que l’intimé a toujours manifesté l’intention constante de poursuivre l’appel et de déposer une réponse à l’avis d’appel. La prorogation de délai n’est demandée qu’en raison du fait que l’intimé a déposé une requête en radiation de certains passages de l’avis d’appel de l’appelante. Sinon, l’intimé s’est comporté de façon à manifester son intention constante de répondre à l’avis d’appel.
+[76] L’intimé a fourni une explication raisonnable justifiant son retard à déposer une réponse. La prorogation de délai est nécessaire parce que le bon sens commande que, compte tenu de la nature de la requête de l’intimé, il est plus logique d’attendre que la Cour entende la requête et rende une décision avant de déposer une réponse. Il en est ainsi parce que la décision de la Cour concernant la requête de l’intimé pourrait avoir une incidence importante sur les questions qui seront débattues, et donc, sur le contenu de la réponse de l’intimé.
+[77] Enfin, l’appelante n’a pas démontré qu’elle subirait un préjudice si la prorogation de délai était accordée.
+[78] Pour tous ces motifs, la Cour conclut qu’il est dans l’intérêt de la justice de faire droit à la demande de prorogation de délai présentée par l’intimé.
+C. La demande de dépens de l’appelante
+[79] Si la requête de l’intimé est rejetée, l’appelante demande que les dépens lui soient accordés sur la base procureur‑client. En fait, la règle générale en matière de contentieux civil est que la partie qui a gain de cause a le droit de se voir accorder des dépens, sauf circonstances exceptionnelles[98].
+[80] Conformément au paragraphe 147(7) des Règles, une partie peut demander à la Cour que des directives soient données à l’officier taxateur à l’égard des questions visées à l’article 147 ou que la Cour reconsidère son adjudication des dépens. Le paragraphe 147(7) est rédigé comme suit :
+147(7) Une partie peut :
+a) dans les trente jours suivant la date à laquelle elle a pris connaissance du jugement;
+b) après que la Cour a décidé du jugement à prononcer, au moment de la présentation de la requête pour jugement,
+que le jugement règle ou non la question des dépens, demander à la Cour que des directives soient données à l’officier taxateur à l’égard des questions visées au présent article ou aux articles 148 à 152 ou qu’elle reconsidère son adjudication des dépens.
+[81] Je suis donc d’avis que la demande d’adjudication de dépens sur la base procureur-client présentée par l’appelante est prématurée. Il en est ainsi parce qu’aux termes de l’article 2 et du paragraphe 147(7) des Règles, une telle demande doit être présentée dans les trente jours suivant la date à laquelle la partie a pris connaissance du jugement, ou après que la Cour a décidé du jugement à prononcer. L’article 2 des Règles énonce qu’est assimilée à un jugement l’ordonnance. La Cour souligne également que les observations de l’appelante sur la question étaient inadéquates et incomplètes. Par conséquent, même si la requête de l’intimé avait été rejetée, la Cour n’aurait pas pu examiner la demande de dépens présentée par l’appelante.
+V. CONCLUSION [82] J’ai conclu que les articles 33, 35 et 36 de la Loi constitutionnelle de 1867 visent le cas où il existe des sièges vacants au Sénat, et que l’article 35 autorise le Sénat à exercer ses pouvoirs et à voter en cas de vacance. Pour ce motif, j’ai donc conclu qu’il est évident et manifeste que l’argument constitutionnel avancé par l’appelante n’a aucune chance raisonnable d’être retenu.
+[83] En conséquence, la requête de l’intimé présentée en application de l’article 53 des Règles sollicitant une ordonnance en radiation de certains passages de l’avis d’appel est accueillie, avec dépens. Les passages suivants de l’avis d’appel de l’appelante sont radiés :
+-la deuxième phrase du paragraphe 30;
+-les paragraphes 32 à 71 de la partie c);
+-le paragraphe 6 de la partie d);
+-le paragraphe 9 de la partie e);
+-les paragraphes 9 à 17 de la partie f);
+-les paragraphes 4 et 5 de la partie g).
+[84] J’ai également conclu que l’intimé a toujours manifesté l’intention constante de poursuivre l’appel et de déposer une réponse à l’avis d’appel. L’intimé a fourni une explication raisonnable justifiant sa demande de prorogation de délai pour déposer une réponse. Pour ce motif, la requête de l’intimé présentée en application de l’alinéa 44(1)b) des Règles est accueillie, avec dépens.
+[85] L’intimé doit déposer une réponse dans les 60 jours suivant la date de la présente ordonnance. L’intimé doit signifier sa réponse dans les cinq jours suivant l’expiration de ce délai de 60 jours‑.
+[86] Enfin, parce que la requête de l’intimé est accueillie, la demande de dépens sur la base procureur-client présentée par l’appelante est rejetée.
+Signé à Ottawa, Canada, ce 24e jour de novembre 2022.
+« Sylvain Ouimet »
+Le juge Ouimet
+Traduction certifiée conforme
+ce 15e jour de septembre 2023.
+François Brunet, réviseur
+RÉFÉRENCE :
+2022 CCI 148
+NO DU DOSSIER DE LA COUR :
+2017-3249(IT)G
+INTITULÉ :
+FU2 PRODUCTIONS LTD.
+c. SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Ottawa, Canada
+DATES DE L’AUDIENCE :
+Le 25 janvier 2019 et le 13 septembre 2021
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Sylvain Ouimet
+DATE DE L’ORDONNANCE :
+Le 24 novembre 2022
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Bruce Harvey
+Avocates de l’intimé :
+Me Marie-Ève Aubry (le 25 janvier 2019)
+Me Meaghan Mahadeo (le 13 septembre 2021)
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Bruce Harvey
+Cabinet :
+Pour l’intimé :
+François Daigle Sous-procureur général du Canada Ottawa, Canada
+[1] Avis d’appel, partie c), au paragraphe 12.
+[2] Ibid., partie c), au paragraphe 14.
+[3] Ibid., partie c), au paragraphe 13.
+[4] Ibid., partie c), au paragraphe 16.
+[5] Ibid., partie c), au paragraphe 25.
+[6] Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.) [« LIR »].
+[7] Ibid., partie c), au paragraphe 26.
+[8] Ibid., partie c), au paragraphe 27.
+[9] Ibid., partie c), au paragraphe 29.
+[10] Loi no 2 sur le plan d’action économique de 2014, L.C. 2014, ch. 39 [PAE].
+[11] Avis d’appel, partie f), aux paragraphes 9 à 18.
+[12] Ibid., partie f), au paragraphe 18.
+[13] Règles de la Cour canadienne de l’impôt (procédure générale), DORS/90-688a [les Règles].
+[14] Avis de requête de l’intimé, aux pages 1 et 2.
+[15] Avis d’appel, partie f), au paragraphe 9.
+[16] Le 21 janvier 2019, l’appelante a modifié sa requête. Cette modification n’était pas importante.
+[17] Loi sur la Cour canadienne de l’impôt, L.R.C. (1985), ch. T-2.
+[18] Loi constitutionnelle de 1867, 30 & 31 Victoria, ch. 3 (R.-U.).
+[19] Loi sur la Cour suprême, L.R.C. (1985), ch. S-26.
+[20] Loi constitutionnelle de 1982, Annexe B de la Loi de 1982 sur le Canada (R-U), 1982, c 11.
+[21] Avis de requête de l’intimé; observations écrites de l’intimé, au paragraphe 5.
+[22] Avis d’appel, partie f), aux paragraphes 11 et 12.
+[23] Ibid., partie f), au paragraphe 16.
+[24] Ibid.
+[25] Ibid., partie f), au paragraphe 17.
+[26] Ibid., partie f), aux paragraphes 16 et 17.
+[27] Avis de requête de l’intimé; observations écrites de l’intimé, aperçu aux paragraphes 2 et 3.
+[28] Nevsun Resources Ltd c. Araya, 2020 CSC 5, au paragraphe 64 [Nevsun]; R. c. Imperial Tobacco Canada Ltée, 2011 CSC 42, au paragraphe 17 [Imperial Tobacco]; Succession Odhavji c. Woodhouse, 2003 CSC 69, au paragraphe 15 [Succession Odhavji].
+[29] Heron c. La Reine, 2017 CCI 71, au paragraphe 11, conf. par 2017 CAF 229; Husky Oil Operations Limited c. La Reine, 2019 CCI 136, au paragraphe 16.
+[30] Nevsun, précité, note 28, au paragraphe 64, renvoyant à l’arrêt Imperial Tobacco, précité, note 28, au paragraphe 22; Operation Dismantle c. La Reine, [1985] 1 RCS 441, p. 455, 18 DLR (4th) 481.
+[31] Nevsun, précité, note 28, au paragraphe 64; Imperial Tobacco, précité, note 28, au paragraphe 22; Succession Odhavji, précité, note 28, au paragraphe 15; Sentinel Hill Productions (1999) Corporation c. La Reine, 2007 CCI 742, au paragraphe 4 a) [Sentinel Hill Productions].
+[32] Sentinel Hill Productions, précitée, note 31, au paragraphe 4 c).
+[33] Imperial Tobacco, précité, note 28, au paragraphe 21.
+[34] Ibid.; Succession Odhavji, précité, note 28, au paragraphe 15.
+[35] Avis de requête de l’intimé; observations écrites de l’intimé, aux paragraphes 14 et 28.
+[36] Avis de requête de l’intimé; observations écrites de l’intimé, au paragraphe 27.
+[37] Mikisew Cree First Nation c. Canada (Gouverneur général en conseil), 2018 CSC 40, au paragraphe 37 [Mikisew Cree]; Canada (Chambre des communes) c. Vaid, 2005 CSC 30, aux paragraphes 4, 29(7), 47 et 52 [Vaid]; New Brunswick Broadcasting Co. c. Nouvelle-Écosse (Président de l’Assemblée législative), [1993] 1 RCS 319, à la page 383, 100 DLR (4th) 212 [New Brunswick Broadcasting Co].
+[38] Mikisew Cree, précité, note 37, au paragraphe 37; Vaid, précité, note 37, au paragraphe 29(10); New Brunswick Broadcasting Co, précité, note 37, à la page 385.
+[39] Mikisew Cree, précité, note 37, au paragraphe 37.
+[40] Ibid., au paragraphe 96; Renvoi: Droits linguistiques au Manitoba, [1985] 1 RCS 721, à la page 724, 19 DLR (4th) 1 [Droits linguistiques au Manitoba].
+[41] Mikisew Cree, précité, note 37, au paragraphe 123.
+[42] Edinburgh and Dalkeith Railway Company c. John Wauchope, [1842] UKHL J12, 8 ER 279 [Wauchope].
+[43] R c. Irwin, [1926] Ex CR 127, 1926 CarswellNat 15 [Irwin].
+[44] PHLF Family Holdings Ltd c. Canada, [1994] GSTC 41, [1994] ACI no 445 (CCI – procédure informelle) [PHLF].
+[45] Authorson c. Canada (Procureur général), 2003 CSC 39 [Authorson].
+[46] Heckendorn c. Canada, 2005 CF 802 [Heckendorn].
+[47] Mikisew, précité, note 37.
+[48] Wauchope, précité, note 42, à la page 285.
+[49] Irwin, précité, note 43, au paragraphe 7.
+[50] PHLF, précitée, note 44, au paragraphe 10.
+[51] Ibid., au paragraphe 8.
+[52] Précité, note 17, à l’article 18.28.
+[53] Lavrinenko c. Canada, 2019 CAF 51, au paragraphe 17.
+[54] Authorson, précité, note 45, au paragraphe 62.
+[55] Déclaration canadienne des droits, S.C. 1960, ch. 44.
+[56] R. c. Big M Drug Mart Ltd, [1985] 1 RCS 295, aux pages 342 et 343, 18 DLR (4th) 321.
+[57] Heckendorn, précitée, note 46, au paragraphe 18.
+[58] Mikisew Cree, précité, note 37, aux paragraphes 2 et 16.
+[59] Ibid., au paragraphe 123.
+[60] Précité, note 19.
+[61] Droits linguistiques au Manitoba, précité, note 40, à la page 737.
+[62] Avis de requête de l’intimé; observations écrites de l’intimé, au paragraphe 35.
+[63] William H. McConnell, Commentary on the British North America Act (Toronto : Macmillan of Canada, 1977), à la page 77; William Henry Pope Clement, The Law of the Canadian Constitution, 2e éd.(Toronto : The Carswell Co Ltd, 1904), à la page 118.
+[64] Loi constitutionnelle de 1867, 30 & 31 Victoria, ch. 3 (R.-U.), à l’article 33.
+[65] Règlement du Sénat, septembre 2017, mis à jour en juillet 2022.
+[66] Ibid., au paragraphe 15-1(2) du Règlement.
+[67] Ibid., à l’alinéa 15-5(2)c) du Règlement.
+[68] Transcription de l’audition devant la Cour canadienne de l’impôt, à Ottawa (Ontario), le 13 septembre 2021, aux pages 68 à 71.
+[69] Hypothèques Trustco Canada c. Canada, 2005 CSC 54 [Hypothèques Trustco], au paragraphe 10.
+[70] Celgene Corp c. Canada (Procureur général), 2011 CSC 1, au paragraphe 21.
+[71] Précité, note 65, aux articles 10-1 et 10-3 du Règlement.
+[72] Ibid., à l’article 10-4 du Règlement.
+[73] Ibid., à l’article 10-6 du Règlement.
+[74] Sénat du Canada, « Feuilleton et Feuilleton des avis », en ligne : Feuilleton et Feuilleton des préavis, no 79, le mardi 15 novembre 2022, 14 heures. <https://sencanada.ca/fr/content/sen/chamber/441/orderpaper/079op_2022-11-15-f>.
+[75] Précité, note 65, à l’article 4-5 du Règlement.
+[76] Ibid., au paragraphe 4-13(2) et à l’article 4-14 du Règlement.
+[77] Ibid., au paragraphe 4-13(2) et à l’article 4-14 du Règlement.
+[78] Ibid., à l’article 5-1 et à l’alinéa 5-7j) du Règlement.
+[79] Ibid., à l’article 5-1 et à l’alinéa 5-6(1)f) du Règlement.
+[80] Ibid., à l’article 5-1 et à l’alinéa 5-5b) du Règlement.
+[81] Ibid., à l’article 4-15 du Règlement.
+[82]Ibid., à l’alinéa 5-8(1)h) du Règlement.
+[83] Ibid., à l’article 9-1 du Règlement.
+[84] La Loi constitutionnelle de 1867 est incorporée par renvoi aux termes du paragraphe 3-7(1) du Règlement du Sénat.
+[85] Loi sur la sanction royale, ch. 15.
+[86] Avis de requête de l’intimé; observations écrites de l’intimé, aux paragraphes 44 et 45.
+[87] Droits linguistiques au Manitoba, précité, note 40, à la page 768
+[88] Avis de requête de l’intimé; observations écrites de l’intimé, aux paragraphes 46 à 48.
+[89] Droits linguistiques au Manitoba, précité, note 40, à la page 763; Ontario (Procureur général) c. G, 2020 CSC 38, aux paragraphes 225 à 228.
+[90] Précité, note 6, aux paragraphes 169(1) et 171(1); Ballantyne c. Canada, 2013 CAF 30, au paragraphe 5; Lassonde c. Canada, 2005 CAF 323, au paragraphe 3; Canada c. Sutcliffe, 2004 CAF 376, au paragraphe 15; Nouvelle-Écosse (Workers' Compensation Board) c. Martin, 2003 CSC 54, au paragraphe 28; Shawn Davitt c. Canada (Revenu national), 2012 CAF 27, au paragraphe 8; Canada (Procureur général) c. Campbell, 2005 CAF 420, au paragraphe 23.
+[91] R. c. Demers, 2004 CSC 46, aux paragraphes 102 et 103; Corbiere c. Canada (Ministre des Affaires indiennes et du Nord canadien), [1999] 2 RCS 203, à la page 286, 173 DLR (4th) 1; R. c. Campbell, [1998] 1 RCS 3, à la page 20, 155 DLR (4th) 1.
+[92] Canada (Procureur général) c. Hennelly, [1999] ACF no 846, 244 NR 399 [Hennelly].
+[93] Ibid., par. 3; Canada (Procureur général) c. Larkman, 2012 CAF 204 [Larkman], au paragraphe 61.
+[94] Cobuzzi c. La Reine, 2017 CCI 27, au paragraphe 34.
+[95] Larkman, précité, note 93, aux paragraphes 61 et 62.
+[96] Hennelly, précité, note 92, au paragraphe 4.
+[97] Stanfield c. Canada, 2005 CAF 107, aux paragraphes 1 à 3; Akanda Innovation Inc c. La Reine, 2018 CAF 200, au paragraphe 19.
+[98] Janet Walker et Lorne Mitchell Sossin, Civil Litigation (Toronto, Ontario : Irwin Law, 2010), p. 34; Mark M. Orkin et Robert G. Schipper, The Law of Costs, 2e éd. (Toronto, Ontario : Thomson Reuters, 1987) (feuilles mobiles mises à jour en octobre 2021, version 6), §2:1; G.D.

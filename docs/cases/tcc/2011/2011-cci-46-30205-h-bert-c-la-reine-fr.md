@@ -1,0 +1,148 @@
+---
+title: "Hébert c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30205/index.do"
+last_modified: "2011-01-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 46"
+citation2: ""
+neutral_citation: "2011 CCI 46"
+decision_date: "2011-01-27"
+language: "fr"
+item_id: "30205"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7747
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:10:11.667000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b505b7d8fa22efc50f08a88cfd54d68d6436c51002c2932cb2b6b3e3daa97b70"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hébert c. La Reine
+
+- Citation: 2011 CCI 46
+- Decision date: 2011-01-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7747, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hébert c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-01-27
+Référence neutre
+2011 CCI 46
+Numéro de dossier
+2009-3591(IT)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-3591(IT)I
+ENTRE :
+JOCELYN HÉBERT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 8 juillet 2010, à Montréal (Québec).
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Avocat de l'appelant :
+Me François Asselin
+Avocat de l'intimée :
+Me Marc-André Rouet
+____________________________________________________________________
+JUGEMENT
+L’appel de la nouvelle cotisation établie en date du 24 août 2009 en vertu de la Loi de l’impôt sur le revenu à l’égard de l’année d’imposition 2004 est rejeté selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 27e jour de janvier 2011.
+"Réal Favreau"
+Favreau J.
+Référence : 2011 CCI 46
+Date : 20110127
+Dossier : 2009-3591(IT)I
+ENTRE :
+JOCELYN HÉBERT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit d’un appel d’une nouvelle cotisation établie en date du 24 août 2009 en vertu de la Loi de l’impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.), telle que modifiée (la « Loi ») à l’égard de l’année d’imposition 2004.
+[2] Les questions en litige consistent à déterminer :
+a) si le ministre du Revenu national (le « ministre ») était justifié d’ajouter aux revenus de l’appelant un montant de 30 110 $ pour l’année d’imposition 2004; et
+b) si le ministre était justifié d’appliquer, conformément au paragraphe 163(2) de la Loi, une pénalité s’élevant à 2 057,93 $ pour l’année d’imposition 2004.
+[3] Durant l’année en litige, l’appelant exploitait, à titre de propriétaire unique, un garage dont la principale activité consistait à la réparation d’automobiles accidentées qu’il achetait dans des ventes à l'encan et à les revendre. Environ 50 % du chiffre d’affaires de l’appelant résultait de biens et services fournis à l’entreprise agricole de son frère, Denis Hébert.
+[4] En produisant sa déclaration de revenu pour l’année d’imposition 2004, l’appelant a déclaré un revenu brut d’entreprise, avant le coût de la marchandise vendue, de 25 490 $ et un revenu net de 3 509 $ de même qu’un revenu brut de location de 2 400 $ et un revenu net de 1 517 $ ainsi qu’un revenu provenant d’une autre source s’élevant à 3 281 $.
+[5] En 2007, l’Agence du revenu du Canada (l’« ARC ») a procédé à une vérification des affaires de l’appelant au moyen d’une analyse des dépôts bancaires et des registres comptables afin de concilier les revenus. Au cours de cette vérification, l’appelant a fourni son livre synoptique, des relevés bancaires et de cartes de crédit ainsi que tous les autres registres demandés par la vérificatrice. L’analyse des dépôts bancaires du compte personnel et du compte affaires de l’appelant versus le registre caisse‑recettes a permis de constater qu’il y avait eu plusieurs dépôts effectués par les clients de l’appelant qui n’avaient pas été facturés, d’où l’ajout du montant de 30 110 $ de revenus supplémentaires imputés à l’appelant. En particulier, la vérificatrice a été incapable d’associer des dépôts à des factures à l’égard de deux dépôts totalisant 20 500 $ (soit 10 000 $ déposé le 9 août 2004 et 10 500 $ déposé le 10 août 2004) et à l’égard d’autres dépôts inexpliqués totalisant 9 610 $.
+Les dépôts de 20,500 $
+[6] Lors de son témoignage à l’audience, l’appelant a expliqué qu’un achat de motocyclettes par un courtier n’a pas été exécuté adéquatement résultant en l’acquisition de deux motocyclettes dispendieuses le 9 août 2004, soit une Harley-Davidson 1997 au coût de 7 915,22 $ et une Yamaha 2004 au coût de 11 438,08 $ pour une somme totale de 19 353,30 $. L’appelant a indiqué qu’il n'avait pas les fonds requis pour payer les motocyclettes et que le crédit disponible sur ses treize cartes de crédit était insuffisant. Il s’est alors tourné vers sa mère et lui a emprunté 20 000 $ en argent comptant, le 2 août 2004. Selon l’appelant, il a déposé l’argent en deux fois suite à la recommandation d’une caissière et il a payé par chèques le prix d’acquisition des motocyclettes.
+[7] La mère de l’appelant a témoigné à l’audience et elle a confirmé avoir prêté 20 000 $ à l’appelant le 2 août 2004. Elle a expliqué que l’argent prêté provenait des économies qu’elle a accumulées en argent liquide à sa résidence, argent qu’elle cachait dans la chambre froide et conservait dans une boîte de carton. Selon son témoignage, ses économies provenaient des chèques de pensions qu’elle et son mari recevaient. En contre‑interrogatoire, elle a expliqué que la ferme familiale avait été vendue en 1983 au plus jeune de ses cinq enfants. La ferme d’origine a été divisée en trois parties dont une petite partie appartient toujours à son mari. Elle a également confirmé avoir signé le jour même du prêt une reconnaissance de dette qui a été préparée d’avance par Gaétan Hébert, un des frères de l’appelant, et qui comporte aucune modalité de remboursement, ni aucun intérêt. Enfin, elle a confirmé n’avoir consenti aucun autre prêt à l’appelant.
+[8] Monsieur Gaétan Hébert, un comptable retraité qui fait de la tenue de livres et des rapports d’impôts et de taxes, a témoigné à l’audience et a confirmé avoir préparé la reconnaissance de dette en blanc: la date, le montant du prêt, le taux d’intérêt, le nom du prêteur et de l’emprunteur ayant été laissés en blanc. Il a en plus assisté son frère dans le cadre de la vérification.
+[9] La vérificatrice, Caroline Lacombe, a témoigné à l’audience et elle a expliqué que la vérification des affaires de l’appelant a débuté le 15 mars 2007 par une entrevue initiale avec l’appelant. À cette occasion, la vérificatrice a rempli un formulaire suivant les réponses fournies par l’appelant. À la question portant sur les emprunts d’argent auprès de la famille et des amis, la vérificatrice n’a pas coché la case « oui », ni la case « non ». La vérificatrice a expliqué que l’appelant avait beaucoup hésité en répondant à ladite question et avait finalement indiqué qu’aucune somme supérieure à 1 000 $ ne lui a été prêtée en fin d’année. L’appelant a signé ledit formulaire qui portait sur les années 2003, 2004 et 2005 sans que la vérificatrice ne lui fournisse d’explications concernant la portée et l’importance des réponses fournies par l’appelante.
+[10] Lors de la vérification, la vérificatrice a constaté une tenue de livres inadéquate et incomplète, des factures de ventes et de dépenses manquantes de même que des taxes incluses dans les dépenses. Dans son rapport d’analyse des treize cartes de crédit de l’appelant, les sommes d’argent provenant des cartes de crédit et déposées dans les comptes bancaires ont été exclues des revenus non déclarés. L'analyse desdits comptes de cartes de crédit a révélé que l'appelante avait au mois d'août 2004 un solde disponible de 25 798,99 $ et qu'entre le 4 août 2004 et le 31 décembre 2004, il y a eu quatre avances de fonds provenant de cartes de crédit pour un montant total de 17 000 $.
+[11] La vérificatrice a complété sa vérification au mois de juin 2007 et elle a soumis le 26 juin 2007 un projet de cotisation. Le 18 juillet 2007, elle a rencontré l’appelant et son comptable mais aucune explication ne fut alors fournie par l’appelant et l’appelant n’a fait aucune référence au prêt de 20 000 $ obtenu auprès de sa mère. De fait, ce n’est que le 4 août 2007, alors que le dossier de l’appelant était fermé, que l’appelant a soumis la reconnaissance de dette de 20 000 $.
+[12] L’appelant a fourni comme raison pour ne pas avoir divulgué plus tôt le prêt qu'il voulait éviter que les autres membres de sa famille ne connaissent l’ampleur du prêt consenti par sa mère. Bien que le frère de l’appelant ait remis la reconnaissance de dette à sa mère, ce dernier ne connaissait ni le montant du prêt ni les termes exacts du prêt au moment où il a été consenti et par la suite pendant la vérification.
+[13] L’ARC n’a pas cru les explications fournies par l’appelant et une analyse des revenus de la mère de l’appelant pour les années 1995 à 2009 a été effectuée pour vérifier si elle avait les revenus nécessaires pour accumuler 20 000 $ d’économies. Cette analyse a été produite lors de l’audience comme pièce I‑2. L’étude a révélé qu’elle avait déclaré des revenus d’environ 10 000 $ par année dont des revenus d’intérêts de l’ordre de 2 000 $ sur des certificats de dépôt pour les années 2003 et 2004. Les revenus d’intérêt ont par la suite baissé à 1 600 $ en 2005 et environ 1 100 $ en 2006 et 2007.
+Les autres dépôts de 9 610 $
+[14] Lors de son témoignage, la vérificatrice a expliqué qu’elle avait procédé par la méthode des dépôts nets. Elle a également confirmé avoir préparé une esquisse d’avoir net qu’elle n’a pas retenue parce que les inventaires de l’appelant étaient mal tenus et ne permettaient pas d’obtenir des résultats probants.
+[15] La vérificatrice a aussi expliqué qu’elle avait effectué des ajustements de fin d’année qui ont eu pour effet d’augmenter les revenus bruts de l’appelant par 2 430,84 $ en 2004. Elle a, de plus, confirmé qu’elle avait eu accès aux registres bancaires et aux factures de l’appelant qui lui aurait permis de faire les mêmes ajustements de début d’année 2004 mais elle ne les a pas faits. Elle n’a notamment pas tenu compte d’une facture d’environ 10 525 $ (12 106,38 $ avec les taxes) datée du 18 décembre 2003 qui aurait été payée comptant et dont une partie du produit aurait été en partie déposée dans un compte bancaire de l'appelant. L’ARC n’a pas accepté de faire un ajustement de début d’année parce que l’appelant n’a pas été en mesure d’établir avec précision la proportion d’argent qu’il avait conservé chez lui de même que celle qu’il a prétendue avoir déposé. L’appelant n’a pu établir que les dépôts effectués au début de 2004 pouvaient être quantitativement rattachés à la facture du 18 décembre 2003. De plus, la vérificatrice a indiqué avoir fait tous les efforts possibles pour établir une corrélation entre les montants déposés au début de 2004 avec les factures de la fin de 2003 malgré que la comptabilité de l’appelant n’indiquait aucun compte client en fin d’année 2003.
+Analyse et conclusion
+[16] Dans sa plaidoirie écrite, le procureur de l’appelant a fait siennes les explications suivantes formulées par le juge Bédard de cette Cour dans l’affaire 9116-0762 Québec Inc. (Belle‑Or) c. La Reine, 2010 CCI 116 (CanLII):
+[9] L’affaire Hickman Motors Ltd. c. Canada, [1997] 2 R.C.S. 336, nous enseigne que le ministre se fonde sur des présomptions pour établir une cotisation et que la charge initiale de démolir les présomptions formulées par ce dernier est imposée au contribuable. Ce dernier s’acquitte du fardeau initial s’il présente au moins une preuve prima facie démolissant l’exactitude des présomptions formulées par le ministre. Enfin, lorsque le contribuable s’est acquitté de son fardeau initial, le fardeau de la preuve passe au ministre qui doit alors réfuter la preuve prima facie faite par le contribuable et prouver les présomptions. Règle générale, la preuve prima facie se définit comme une preuve suffisante pour établir un fait jusqu’à preuve du contraire. Dans Stewart c. M.N.R., [2000] A.C.I. no 53, le juge Cain enseigne qu’« [u]ne preuve prima facie est celle qui est étayée par des éléments de preuve qui créent un tel degré de probabilité en sa faveur que la cour doit l’accepter si elle y ajoute foi, à moins qu’elle ne soit contredite ou que le contraire ne soit prouvé. » Par ailleurs, la Cour d’appel fédérale est venu préciser à cet égard, dans l’arrêt Orly Inc. c. Canada, 2005 CAF 425, au paragraphe 20, que « le fardeau de la preuve imposé au contribuable ne doit pas être renversé à la légère ou arbitrairement » considérant « qu’il s’agit de l’entreprise du contribuable ». La Cour d’appel fédérale a aussi précisé dans ce même arrêt que c’est le contribuable « qui sait comment et pourquoi son entreprise fonctionne comment elle le fait et pas autrement. [. . .] Il possède des renseignements qui sont à sa portée et sur lesquels il exerce un contrôle ». [. . .]
+[17] L’appelant en l’espèce doit donc démontrer au moyen d’une preuve prima facie qu’il a réellement emprunté 20 000 $ auprès de sa mère. À cet égard, l’appelant soutient avoir démoli les présomptions du ministre en produisant en preuve une reconnaissance de dette appuyée par les témoignages crédibles non contredits de sa mère et de son frère, Gaétan Hébert.
+[18] Contrairement aux prétentions de l’appelant, je ne crois pas que ce dernier ait réussi à démolir les présomptions de validité de la nouvelle cotisation du ministre. D’abord, je ne vois pas pourquoi l’appelant aurait emprunté 20 000 $ auprès de sa mère alors qu’il avait sûrement l’argent nécessaire pour payer une des deux motocyclettes. L’erreur, si erreur il y a, a été d’acheter une deuxième motocyclette et non pas d’avoir acheté les deux motocyclettes.
+[19] L’appelant a prétendu que l’emprunt auprès de sa mère a été contracté parce qu’il ne pouvait plus retirer de l’argent de ses cartes de crédits car elles avaient atteint leur limite respective. Or, le rapport d’analyse des comptes de cartes de crédit fait état d’informations incompatibles avec les prétentions de l’appelant puisque d’une part, les limites de crédit, lorsque liées de concert avec les soldes indiquées au mois d’août 2004, révèlent que l’appelant avait alors un solde disponible de 25 798,99 $ et que, d’autre part, l’appelant s’est prévalu, entre le 4 août et le 31 décembre 2004, de quatre avances de fonds sur ses cartes de crédit pour un montant totalisant 17 000 $.
+[20] Le frère de l’appelant, monsieur Gaétan Hébert, a confirmé avoir préparé la reconnaissance de dette mais il n’a pas précisé la date exacte à laquelle il l’a préparée et l’a remise à son frère ou à sa mère. Par contre, la mère de l’appelant a affirmé l’avoir signée le jour du prêt, soit le 2 août 2004. Je ne suis pas sûr que ce fut le cas et le document en question aurait pu très bien avoir été préparé et signé plusieurs jours, voire des mois après que le prêt, si prêt il y a, a été consenti. Le doute concernant la date de signature de la reconnaissance de dette découle du fait que l’appelant n’a pas divulgué l’existence de ce prêt de 20 000 $ lors de l’entrevue initiale. Il a été démontré que le formulaire rempli par la vérificatrice n’indiquait pas spécifiquement l’emprunt de 20 000 $ en 2004. De plus, l’appelant n’a pas divulgué l’existence de ce prêt dans le cadre de la vérification, ni lors de la rencontre du 18 juillet 2007 avec la vérificatrice pour discuter du projet de cotisation.
+[21] Les explications fournies par l’appelant à l’effet qu’il ne voulait pas divulguer l’existence du prêt pour éviter que les autres membres de sa famille connaissent le montant du prêt consenti par sa mère ne sont pas satisfaisantes parce qu’au moins un autre membre de la famille, le frère de l’appelant, savait que tel prêt aurait pu avoir été consenti à l’appelant par leur mère pour avoir préparé le projet de reconnaissance de dette.
+[22] Pour ce qui est du témoignage de la mère de l’appelant, cette dernière m’est apparue être sincère et crédible mais non fiable à cause de ses liens avec l’appelant et à cause du fait que son témoignage ne concordait pas avec celui de son fils sur un point important : elle a déclaré ne pas avoir consenti d’autres prêts à l’appelant, outre le prêt du 2 août 2004, alors que l’appelant a prétendu avoir obtenu d’autres prêts de sa mère. Bien qu’il ne soit pas impossible que la mère de l’appelant ait réussi à épargner 20 000 $ sur plusieurs années, compte tenu de ses revenus, il n’en demeure pas moins que 20 000 $ représente une très grosse somme d’argent gardée à la maison dans une boîte de carton.
+[23] À la date de l’audition de la cause en 2010, aucun remboursement n’avait été effectué par l’appelant sur le prêt et les motocyclettes n’étaient toujours pas vendues.
+[24] Dans les circonstances, la thèse du prêt a l’apparence d’une explication a posteriori. L’appelant n’a pas rencontré son fardeau initial et démontré que la somme de 20 000 $ déposée les 9 et 10 août 2004 ne constituait pas des revenus non déclarés mais provenait d’un prêt de sa mère pour financer l’achat des motocyclettes.
+[25] Concernant les autres dépôts inexpliqués totalisant 9 610 $, l’appelant n’a pas réussi à rencontrer son fardeau initial et à démolir les présomptions du ministre. Les explications fournies par la vérificatrice pour ne pas effectuer d’ajustements en début d’année 2004, lesquelles sont décrites au paragraphe 15 ci-dessus, m’apparaissent être justifiées et raisonnables dans les circonstances.
+[26] L’imposition de la pénalité prévue au paragraphe 163(2) de la Loi s’élevant à 2 057,93 $ pour 2004, est justifiée dans les circonstances. Les faits en preuve sont que la déclaration du revenu de l’appelant fait une présentation erronée des faits et que les seules explications offertes par l’appelant sont jugées non crédibles. En de telles circonstances, la conclusion que la fausse déclaration de revenu a été produite sciemment ou dans des circonstances équivalent à faute lourde me semble inéluctable. En l’espèce, les revenus non déclarés sont importants par rapport à ceux qui l’ont été. Il est difficile de concevoir qu’un contribuable qui a la capacité de gérer un garage et 13 cartes de crédit puisse oublier de déclarer 54 % de ses revenus pour l’année 2004.
+[27] Pour ces motifs, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 27e jour de janvier 2011.
+"Réal Favreau"
+Favreau J.
+RÉFÉRENCE : 2011 CCI 46
+Nº DU DOSSIER DE LA COUR : 2009-3591(IT)I
+INTITULÉ DE LA CAUSE : Jocelyn Hébert et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 8 juillet 2010
+MOTIFS DU JUGEMENT PAR : L'honorable juge Réal Favreau
+DATE DU JUGEMENT : le 27 janvier 2011
+COMPARUTIONS :
+Avocat de l'appelant :
+Me François Asselin
+Avocat de l'intimée :
+Me Marc-André Rouet
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom : Me François Asselin
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

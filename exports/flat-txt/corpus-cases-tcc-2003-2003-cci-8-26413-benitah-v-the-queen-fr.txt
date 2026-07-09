@@ -1,0 +1,95 @@
+Title: Benitah v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26413/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-8-26413-benitah-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2003-02-03
+
+# Benitah v. The Queen
+
+- Citation: 2003 CCI 8
+- Decision date: 2003-02-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3263, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Benitah v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-02-03
+Référence neutre
+2003 CCI 8
+Numéro de dossier
+2001-4266(IT)I
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence : 2003CCI8
+Date : 20030203
+Dossier : 2001-4266(IT)I
+ENTRE :
+JACOB BENITAH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+_______________________________________________________________ Appels entendus le 24 janvier 2003 à Toronto (Ontario)
+Devant : l'honorable juge en chef adjoint D. G. H. Bowman
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocats de l'intimée :
+Me Michael Appavoo Me Joel Oliphant
+_______________________________________________________________
+JUGEMENT
+La Cour ordonne que les appels interjetés à l'encontre des nouvelles cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1994, 1995 et 1996 soient admis et que les nouvelles cotisations soient annulées.
+Signé à Vancouver, Canada, ce 3e jour de février 2003.
+« D. G. H. Bowman »
+J.C.A.
+Traduction certifiée conforme
+ce 10e jour de décembre 2004.
+Yves Bellefeuille, réviseur
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence : 2003CCI8
+Date : 20030203
+Dossier : 2001-4266(IT)I
+ENTRE :
+JACOB BENITAH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge en chef adjoint Bowman, C.C.I.
+[1] Les présents appels sont interjetés à l'encontre des nouvelles cotisations établies à l'égard de l'appelant pour les années d'imposition 1994, 1995 et 1996. Ils portent sur le refus d'accorder des crédits d'impôt relativement à des dons de bienfaisance de 2 200 $, 1 900 $ et 3 000 $ qui auraient été faits à la congrégation séfarade Or Hamaarav.
+[2] Les nouvelles cotisations ont été établies après l'expiration de la période normale de nouvelle cotisation de trois ans. En conséquence, afin de justifier de revenir à ces années prescrites, l'intimée a le fardeau d'établir que l'appelant a fait une présentation erronée des faits par négligence, inattention ou omission volontaire.
+[3] De plus, des pénalités ont été imposées en vertu du paragraphe 163(2) de la Loi de l'impôt sur le revenu et le ministre a le fardeau supplémentaire de prouver que l'appelant a fait de fausses déclarations ou des omissions dans ses déclarations de revenus « sciemment ou dans des circonstances équivalant à faute lourde » .
+[4] Les présents appels sont parmi les nombreux appels que les juges de cette cour ont entendus ces derniers mois à propos de reçus pour dons de bienfaisance émis par la congrégation séfarade Or Hamaarav fondée par le rabbin Leon Edery.
+[5] Le rabbin Edery est arrivé au Canada en 1967 en provenance du Maroc. Il a fondé une synagogue sise au 2939, rue Bathurst, à North York, et une charte a été émise en 1971 à la congrégation séfarade Or Hamaarav.
+[6] L'âme de cette congrégation était le rabbin Edery. Il s'intéressait particulièrement aux nouveaux arrivants au Canada et voulait s'assurer que les enfants juifs reçoivent une éducation juive convenable.
+[7] Il a amassé des fonds pour une école hébraïque et a obtenu en 1983 une deuxième charte pour le Centre d'apprentissage séfarade Abarbanel, une garderie pour enfants juifs.
+[8] En 1985, l'édifice dans lequel se trouvait la garderie a été perdu suite à une forclusion et il est devenu difficile d'amasser des fonds. Le rabbin Edery a donc conçu un projet qui, malgré ses objectifs louables, était tout à fait illégal. Il émettait des reçus pour des dons de bienfaisance indiquant un montant beaucoup plus élevé que celui réellement donné. L'un ou l'autre des scénarios suivants était utilisé : ou bien le montant complet indiqué sur le reçu était donné et 80 % à 90 % de ce montant était retourné au donateur, ou bien le donateur ne donnait que 10 % à 20 % du montant indiqué sur le reçu.
+[9] En 1996, le rabbin Edery fondait un autre organisme, la synagogue Mincha Gedolah. Pour ces trois organismes, le rabbin Edery était la seule personne autorisée à émettre des reçus pour dons de bienfaisance.
+[10] La collecte de fonds que je viens de décrire était généralement faite par le biais de collecteurs de fonds, dont l'un était un certain Meier Cohen (aujourd'hui décédé).
+[11] La pratique du rabbin Edery consistant à émettre des reçus pour dons de bienfaisance trop élevés a été découverte lorsque l'ADRC (ou Revenu Canada) a commencé à examiner les déclarations de revenus de clients de Jacob Abacassis, un spécialiste en déclarations de revenus. Le montant inhabituellement élevé des dons de bienfaisance et des pertes d'entreprise déclarés par ses clients a attiré l'attention du fisc. Tant M. Abacassis que le rabbin Edery ont fait face à des accusations pénales en vertu de l'article 239 de la Loi de l'impôt sur le revenu. Monsieur Abacassis a plaidé coupable. Le rabbin Edery a contesté les accusations, mais a été trouvé coupable par le juge Rebecca Chamail et a été condamné à payer une amende de 32 000 $, à une année de détention à domicile et à 240 heures de travaux communautaires. Les chartes des organismes de bienfaisance ont également été révoquées.
+[12] Le stratagème des reçus trop élevés a été clairement établi par le rabbin Edery. Étant donné que M. Benitah n'a pas traité directement avec le rabbin Edery, mais a plutôt donné l'argent à M. Cohen, qui lui a délivré les reçus, le rabbin Edery ne pouvait pas témoigner qu'il avait connaissance de la participation de M. Benitah dans le stratagème ou que celui-ci n'avait donné qu'une fraction du montant figurant sur les reçus de bienfaisance. Les sommes qui auraient été versées (2 200 $, 1 900 $ et 3 000 $ au cours des trois années) sont quelque peu élevées comparativement à son revenu qui est plutôt modeste, mais elles ne relèvent pas de l'impossible, puisque l'appelant était célibataire et vivait chez ses parents. Les dons de bienfaisance qu'il a versés à d'autres organismes de bienfaisance étaient beaucoup moins élevés.
+[13] Tout cela me rend un peu sceptique, mais le scepticisme et la preuve ne sont pas la même chose.
+[14] L'intimée a fait témoigner M. Benitah. L'avocat aurait le droit de contre-interroger la partie adverse en vertu de l'article 146 des Règles de la Cour canadienne de l'impôt (procédure générale). Aucune règle de ce genre n'existe sous le régime de la procédure informelle, bien que je sois tenté de croire que si la situation s'y prêtait, le juge présidant l'audience pourrait, dans le cadre des règles informelles, autoriser le contre-interrogatoire d'un témoin qui constitue une partie adverse, même si ce témoin ne s'avère pas opposé au sens de l'article 9 de la Loi sur la preuve au Canada.
+[15] L'avocat de l'intimée a demandé à l'appelant s'il avait récupéré quoi que ce soit des sommes qu'il avait versées à M. Cohen et il a répondu sans équivoque par la négative. On n'a pas insisté sur ce point et la crédibilité de l'appelant n'a pas été contestée.
+[16] Quel que soit le degré de mon scepticisme en raison du stratagème établi par le rabbin Edery et consistant à délivrer des reçus trop élevés, je ne crois pas que l'intimée soit maintenant en mesure de récuser le témoignage de son propre témoin. Bref, je crois que l'intimée est coincée avec la réponse de l'appelant.
+[17] Le fait d'appeler la partie adverse à comparaître est bien dangereux. Si la Couronne décide de faire comparaître l'appelant comme témoin pour établir qu'il a fait une fausse présentation des faits ou a participé à un stratagème impliquant des reçus de charité frauduleux, elle devrait faire plus que lui demander s'il a soumis de faux reçus ou s'il a obtenu quelque chose en retour. On pourrait difficilement s'attendre à une confession de dernière minute de la part d'un tel témoin. La Couronne doit être prête à attaquer la crédibilité de son propre témoin. Si elle ne peut pas le faire ou ne le fait pas, elle doit se résigner à la réponse de ce témoin.
+[18] Les appels sont admis. Je me propose d'annuler les cotisations établies pour l'impôt, l'intérêt et les pénalités plutôt que de déférer l'affaire au ministre du Revenu national pour nouvel examen et nouvelles cotisations, puisque les cotisations ont été établies pour des années frappées de prescription et sont donc invalides et que l'intimée n'a pas établi des faits qui justifieraient l'établissement de nouvelles cotisations après la période normale de nouvelle cotisation en vertu de l'article 152 de la Loi de l'impôt sur le revenu. Cela aura pour effet de rétablir les cotisations antérieures.
+[19] Les appels sont admis et les nouvelles cotisations établies pour les années 1994, 1995 et 1996 sont annulées.
+Signé à Vancouver, Canada, ce 3e jour de février 2003.
+« D. G. H. Bowman »
+J.C.A.
+Traduction certifiée conforme
+ce 10e jour de décembre 2004.
+Yves Bellefeuille, réviseur

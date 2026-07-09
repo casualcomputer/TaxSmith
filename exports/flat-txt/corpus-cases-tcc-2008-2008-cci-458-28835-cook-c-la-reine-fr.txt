@@ -1,0 +1,187 @@
+Title: Cook c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28835/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-458-28835-cook-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-08-12
+
+# Cook c. La Reine
+
+- Citation: 2008 CCI 458
+- Decision date: 2008-08-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1345, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cook c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-08-12
+Référence neutre
+2008 CCI 458
+Numéro de dossier
+2007-4273(IT)I
+Juges et Officiers taxateurs
+Theodore E. Margeson
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007‑4273(IT)I
+ENTRE :
+SHELAGH JEAN COOK,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE] ____________________________________________________________________
+Appel entendu le 5 mars 2008 et le 20 juin 2008,
+à Vancouver (Colombie‑Britannique).
+Devant : L’honorable juge T.E. Margeson
+Comparutions :
+Représentant de l’appelante :
+John Cook
+Avocat de l’intimée :
+Me Andrew Majawa
+____________________________________________________________________
+JUGEMENT
+L’appel formé contre les nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2005 de l’appelante est accueilli, sans dépens, pour ce qui concerne les frais de justice se chiffrant à 3 441,17 $, et le montant pour conjoint se chiffrant à 7 344 $, et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation.
+À tous autres égards, l’appel est rejeté.
+L’appelante n’a pas droit à un autre redressement.
+Signé à New Glasgow (Nouvelle‑Écosse), ce 12e jour d’août 2008.
+« T. E. Margeson »
+Juge Margeson
+Traduction certifiée conforme
+ce 31e jour d’octobre 2008.
+Danièle Laberge, LL.L.
+Référence : 2008CCI458
+Date : 20080812
+Dossier : 2007‑4273(IT)I
+ENTRE :
+SHELAGH JEAN COOK,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Margeson
+[1] L’appelante a au départ déposé un avis d’appel pour ses années d’imposition 2001, 2002, 2003, 2004, 2005 et 2006. Au début de l’instruction se rapportant à toutes les affaires dont il s’agit, l’intimée a déposé une requête en rejet des appels pour les années d’imposition 2001, 2002 et 2004 et la requête a été accueillie.
+[2] Une ordonnance rejetant ces appels a été signée le 28 mars 2008.
+[3] L’audition des appels pour les années restantes a d’abord eu lieu le 5 mars 2008 et s’est achevée le 20 juin 2008.
+[4] Le ministre a admis que l’appel devrait être accueilli en ce qui concerne les frais de justice pour 2005 se chiffrant à 3 441,17 $ et en ce qui concerne le montant pour conjoint de 7 344 $ dans le calcul des crédits d’impôt non remboursables de l’appelante pour l’année d’imposition 2005, conformément à l’alinéa 118(1)a) de la Loi.
+[5] Il reste à statuer sur la déduction réclamée au titre des dépenses d’entreprise en 2005, sur le crédit d’impôt non remboursable pour déficience des fonctions physiques ou intellectuelles, un crédit transféré du conjoint en 2003 et 2005, et sur la pénalité de 628,02 $ pour déclaration tardive au titre de l’année d’imposition 2005, en application du paragraphe 162(1) de la Loi.
+La preuve
+[6] John James Alexander Cook a dit que l’appelante était intervenue dans un nouveau genre de programme de commercialisation qui n’avait donné aucun résultat. Il s’agissait de graver un contenu sur un disque et de distribuer celui‑ci. Il n’en avait résulté aucun revenu. C’était l’entreprise de son épouse, mais il avait tenté de la rentabiliser. L’épouse ne voulait déduire qu’une partie des frais engagés, et uniquement pour l’année 2005.
+[7] L’épouse voulait déduire une portion des intérêts payés sur l’hypothèque de leur maison. La somme en cause était de 1 151,88 $.
+[8] En contre‑interrogatoire, il a dit qu’ils avaient un plan d’entreprise (mais il ne l’avait pas avec lui devant la Cour), qu’il n’y avait pas eu de ventes et qu’aucun revenu n’avait été réalisé. C’était son idée à lui, mais son épouse avait fourni la somme nécessaire. Les dépenses avaient été payées par lui, y compris le téléphone et les services publics, c’est‑à‑dire 131,21 $. Il ne s’agissait pas de dépenses personnelles.
+[9] S’agissant des dépenses liées à la maison, il n’avait pas les reçus avec lui. L’unique raison qu’il avait de dire que les dépenses étaient celles de l’appelante était qu’il s’agissait de son argent à elle. Elle n’intervenait pas dans l’entreprise.
+[10]L’appelante n’a pas témoigné, mais le ministre a décidé de ne pas, pour cette raison, inviter la Cour à tirer d’inférences défavorables concernant les dépenses non admises.
+[11]Le témoin a été assigné à nouveau après l’ajournement de l’audience au 20 juin 2008. Il a dit qu’il s’était présenté à une élection en janvier 2006 sous le nom de Jack Cook. Il était un candidat sérieux. Il s’était présenté comme candidat indépendant. Il était l’adversaire de l’autre candidat et il expérimentait aussi une stratégie commerciale.
+[12]Il disposait de supports publicitaires. Il avait un DVD qui parlait de ses antécédents et qui renfermait des commentaires négatifs sur l’autre candidat.
+[13]Il a produit comme pièce R2 l’emballage du DVD et comme pièce R1 le DVD lui‑même. Il avait été enregistré en 2005 et sa confection était professionnelle. Trente‑huit mille exemplaires avaient été produits. Ils avaient été envoyés aux électeurs par les soins de Postes Canada. Il avait aussi un site Web.
+[14]La pièce R3 a été produite. Il s’agissait d’une partie du site Web.
+[15]Il avait un agent officiel et il était tenu de rendre compte à Élections Canada. Les documents s’y rapportant ont été produits comme pièce R4. La facture de l’agent officiel s’élevait à 37 900 $.
+[16]La pièce R5 était la facture de Sprite Computers, laquelle s’élevait à 46 662,48 $.
+[17]Il a reconnu que, lors de l’audience tenue en mars, il avait dit qu’il s’agissait d’un reçu d’entreprise au titre de la commercialisation, mais il a admis que le DVD avait servi dans la campagne électorale. D’après son explication, il avait été utilisé comme stratégie commerciale pour montrer qu’il pouvait être utilisé dans une campagne électorale, et cela avait donné des résultats. Puis, il a dit qu’on ne lui avait pas posé la question en mars.
+[18]Il a reconnu que les reçus A‑2 avaient été produits en mars comme reçus d’entreprise et que tous sauf un avaient été déduits comme dépenses électorales. Le reçu de 66,87 $ attribuable à Shoppers était sans rapport avec les activités de commercialisation. La déduction de 18,83 $ pour le travail fait au bureau ne se rapportait pas à 2005 et n’aurait pas dû être appliquée. La déduction de 5 888,89 $ pour Postes Canada était une dépense électorale et ne se rapportait pas à 2005. Le dépôt de 2 500 $ se rapportait à la campagne. Il a dit ensuite que les dépenses de 2006 n’avaient pas été déduites en 2005.
+[19]On lui a rappelé l’état des activités commerciales, la pièce A3, et il a dit que la somme de 1 151,88 $ au titre des intérêts hypothécaires se rapportait à l’entreprise uniquement, mais il n’avait pas de reçus. Ils avaient calculé la somme en question.
+[20]La somme de 2 251,33 $ au titre des intérêts avait été répartie au prorata. Il n’avait aucun reçu pour la somme de 131,21 $. La somme de 2 739,40 $ indiquée pour les autres frais correspondait à des dépenses de campagne. Il ne savait pas quel pourcentage de cette somme se rapportait à la campagne.
+[21]Le total de ces sommes atteignait plus ou moins 22 000 $. Il avait déduit 24 152,49 $.
+[22]Il avait déduit 2 120,38 $ pour l’utilisation commerciale de la maison, mais il n’avait pas de documents, ni de ventilation à présenter. Puis il a dit : [traduction] « nous l’avons envoyé ». Ils avaient envoyé les reçus, accompagnés du certificat de crédit d’impôt pour déficience, et, selon lui, ils n’avaient pas été retournés.
+[23]Le certificat de crédit d’impôt pour déficience qu’il avait produit n’était pas l’original qu’il avait envoyé à l’Agence du revenu du Canada.
+[24]La pièce A4 a été admise par consentement, sous réserve d’appréciation.
+[25]S’agissant de la déficience de ses fonctions intellectuelles, il a dit que ses ennuis avaient débuté en 2003. Il dormait 20 heures par jour, il avait perdu plus de 30 livres et ne trouvait aucun intérêt dans la vie, dans sa famille ou dans ses activités. Il s’emportait contre sa famille. Son épouse lui avait conseillé d’obtenir de l’aide. Il était allé voir son médecin, puis un autre médecin, qui l’avait dirigé vers le Dr Wilson, lequel l’avait reçu plusieurs fois.
+[26]Il avait pris des médicaments durant deux ans. Il en avait résulté des effets secondaires. Il avait l’impression d’être dans une bulle. Vers la fin de 2005, il s’était senti beaucoup mieux, mais il ne pouvait s’occuper que d’une chose à la fois. Il était incapable de disperser ses énergies. Si quelque chose était trop compliqué, il s’en éloignait.
+[27]Il avait engagé un avocat pour qu’il prenne en charge ses responsabilités. En 2005, il ne prenait plus de médicaments et se sentait mieux. Il avait besoin de faire quelque chose et il reprenait goût à la vie. Il n’arrivait pas à libérer son esprit des petits tracas.
+[28]Au début, les médicaments le rendaient combatif et porté à la colère. Sa pression artérielle augmentait. Il ne s’est senti mieux que lorsqu’il a commencé de prendre le deuxième médicament, c’est‑à‑dire environ six mois plus tard.
+[29]Vers la fin de 2004, les choses ont commencé à changer, mais [traduction] « il ne savait pas ce que c’était ».
+[30]Il s’était consacré à une entreprise en 2003, l’entreprise « Segway ». En 2004, il a introduit une procédure devant la Cour suprême de la Colombie‑Britannique. Il avait un avocat, il a produit des affidavits sous serment, et il a fait signifier en mai 2004 un bref d’assignation ainsi qu’une déclaration.
+[31]Il a rédigé sous serment un affidavit le 7 février 2005, qu’il a déposé comme pièce R‑6.
+[32]Il a dit que 70 p. 100 du temps, ou toujours ou presque toujours, il se sentait découragé. La pire période de sa vie avait été la fin de 2003 et presque toute l’année 2004.
+[33]Vers le milieu de 2005, il était sans doute en mesure de gérer une affaire.
+[34]Il a réaffirmé que, s’agissant de l’entreprise, il n’y avait pas eu de ventes. L’entreprise n’avait pas dépassé le stade des idées. Ils avaient expérimenté la stratégie commerciale, n’avaient pas réalisé de ventes, mais avaient essayé d’en réaliser. L’appelante n’avait aucun rôle dans l’entreprise. Le compte était à son nom. C’est elle qui avait financé l’entreprise. La maison et l’hypothèque étaient à son nom à elle.
+Arguments avancés au nom de l’intimée
+[35]Hormis les points admis, le reste de l’appel devrait être rejeté. La déduction se rapportant à la perte de 24 000 $ et les autres dépenses déduites concernaient le DVD. Il n’en avait résulté aucun revenu.
+[36]S’agissant des dépenses déduites dans les annexes D et E de la réponse, elles devraient être refusées parce qu’il n’y avait pas de reçus et parce qu’il s’agissait de dépenses personnelles.
+[37]La preuve ne permet pas de dire que ces dépenses étaient déductibles. Elles se rapportaient à sa campagne électorale.
+[38]La crédibilité est discutable ici. En mars, il disait que les dépenses se rapportaient à l’entreprise et en juin il disait qu’elles se rapportaient à la campagne électorale. La charge de la preuve incombe à l’appelante. S’il y a eu une entreprise de commercialisation du DVD, c’était l’entreprise du mari et non celle de l’appelante.
+[39]Les dépenses n’étaient pas des dépenses d’entreprise. C’était son entreprise à lui. La preuve ne permet pas de dire qu’elle a démarré à un moment ou un autre. Elle n’était qu’au stade des idées. La seule commercialisation qui fut faite concernait sa campagne électorale.
+[40]Il n’y avait pas d’autres éléments de preuve crédibles propres à appuyer le témoignage du mari relatif aux dépenses. La preuve produite est insuffisante. Hormis la pièce A2, toute autre dépense se rapportait à la campagne électorale du mari.
+[41]Les reçus produits ne donnent pas les sommes mentionnées à l’annexe « D » de la réponse.
+[42]Si la Cour juge que l’appelante exploitait une entreprise en 2005, alors la pénalité pour déclaration tardive devrait être réduite de six semaines.
+[43]Les sommes afférentes au REER seront calculées en fonction de l’issue de l’appel, y compris le fait que les frais de justice ont été accordés.
+[44]S’agissant des crédits d’impôt pour déficience qui ont été refusés, les capacités du mari de l’appelante n’étaient pas limitées de façon marquée en 2003 et 2005. Son épouse n’a donc pas droit à la déduction.
+[45]Le seuil est très élevé. Il est rigoureux. La marge de manœuvre est faible. La preuve produite est insuffisante. Un certificat ne suffit probablement pas.
+[46]Le certificat ne dit rien de l’année 2003. Le médecin n’a rencontré le mari qu’en 2004. Il n’a pas témoigné.
+[47]Le mari n’a pas souffert d’une manière continue durant 12 mois, d’après son témoignage. Il avait des hauts et des bas. Il pouvait parfois fonctionner. Il n’a pas rempli les conditions de l’alinéa 118.4(1)a).
+[48]Selon l’alinéa 118.4(1)b), les mots « toujours ou presque toujours » signifient davantage que 70 p. 100 du temps. Le mari dit qu’il souffrait environ 70 p. 100 du temps. Aucune autre preuve n’a été produite.
+[49]La preuve se rapportant à l’année 2003 donne à penser qu’il n’était pas atteint d’une déficience « toujours ou presque toujours ».
+[50]S’agissant du certificat, aucun poids ne devrait lui être accordé pour 2003. L’année 2004 n’est pas mise en cause devant la Cour.
+[51]S’agissant de l’année 2005, sans le témoignage du médecin ou de l’appelante, son témoignage à lui ne vaut vraiment pas grand‑chose.
+[52]En 2005, il était en assez bonne forme pour s’occuper de cette stratégie commerciale et il envisageait de briguer une charge publique.
+[53]Dans les cas où l’appel a été accueilli, la situation était très différente de la présente affaire.
+[54]La déficience de M. Cook n’équivaut pas au niveau de déficience établi dans les cas où l’appel a été accueilli.
+[55]Sa condition était sérieuse, mais sans d’autres éléments de preuve propres à expliquer le certificat, et sans le témoignage de l’appelante, la preuve produite ne suffit pas.
+[56]Une conclusion défavorable devrait être tirée parce que l’épouse n’a pas témoigné sur la déficience de son mari, et parce qu’aucun de ses médecins n’a témoigné.
+[57]L’appel devrait être rejeté.
+Arguments avancés au nom de l’appelante
+[58]Le mari a fait valoir qu’il y a divers degrés de maladie mentale. Il n’y a pas qu’un seul facteur à considérer. Il n’a pas déposé d’appel à l’encontre d’une décision en matière fiscale s’élevant à un million de dollars parce qu’il ne pouvait pas s’occuper de l’affaire. Il était privé de la capacité d’accomplir les activités de la vie quotidienne.
+[59]Par ailleurs, il est angoissant pour l’appelante de se trouver ici. On ne devrait pas lui en tenir rigueur.
+[60]Il faut du temps pour tirer un revenu d’une entreprise. L’objet principal était d’établir une stratégie commerciale (la campagne était secondaire) pour prouver que le produit fonctionnait.
+[61]L’intimée a fait valoir que le mari n’avait pas dit qu’il était en campagne lorsqu’il avait témoigné en mars. Cependant, tous les reçus l’attestaient.
+[62]Le projet avait dépassé le stade des idées, et il était en fait au stade de l’expérimentation.
+[63]Aucun document n’avait été présenté à propos de la maison, mais toute personne responsable sait qu’une maison entraîne des dépenses, et les reçus avaient été envoyés.
+[64]L’argument principal de l’appelante est que c’est elle qui avait financé l’entreprise.
+[65]L’appel devrait être accueilli.
+Analyse et décision
+[66]Selon la Cour, hormis les points admis par le ministre, c’est à l’appelante qu’il appartient de montrer, selon la prépondérance de la preuve, que les autres dépenses déduites étaient des dépenses d’entreprise durant l’année pour laquelle elles ont été déduites, que ces dépenses avaient été décaissées et qu’il ne s’agissait pas de dépenses personnelles. La preuve produite par l’unique témoin assigné au nom de l’appelante est loin de répondre à ces exigences.
+[67]Les reçus produits étaient insuffisants à maints égards, mais, lorsqu’ils faisaient état de dépenses, ils montraient très clairement que, le plus souvent, elles se rapportaient à la campagne électorale personnelle du mari de l’appelante et elles étaient sans rapport avec une entreprise prétendument exploitée par l’appelante.
+[68]Il appert du témoignage du mari lui‑même qu’il gérait l’entreprise du début à la fin, et que l’unique rôle joué par l’appelante consistait à financer les activités risquées de son mari.
+[69]Le propre témoignage du mari montrait clairement qu’il avait déduit nombre des dépenses afférentes à sa campagne électorale, et la Cour rejette l’argument selon lequel les dépenses déduites pouvaient se rapporter à la fois à la campagne électorale et à une entreprise que le mari prétendait exploiter.
+[70]Si l’appelante a prêté de l’argent à l’entreprise de son mari, il pouvait fort bien y avoir pour elle un autre moyen de déduire ces sommes, mais ce n’était pas en prétendant exploiter une entreprise qu’elle n’exploitait manifestement pas.
+[71]L’avocat de l’intimée a mis en doute la crédibilité du mari de l’appelante en disant que, le premier jour de l’instruction, le mari affirmait que toutes les dépenses se rapportaient à l’entreprise, alors que, le deuxième jour de l’instruction, il disait qu’il s’agissait de dépenses électorales. La Cour était donc préoccupée lorsqu’elle a entendu son témoignage le deuxième jour de l’instruction, et ses préoccupations ne se sont pas dissipées lorsque le mari a prétendu que les dépenses pouvaient se rapporter à la fois à l’entreprise et à la campagne électorale. La Cour croit que ce qu’il voulait dire, c’est que si les dépenses avaient été autorisées par le responsable de l’élection comme dépenses électorales, alors il ne les aurait pas déduites comme dépenses d’entreprise.
+[72]Il semble à la Cour que la volonté de déduire telles dépenses comme dépenses d’entreprise n’est apparue que lorsque le mari s’est rendu compte qu’il n’allait pas obtenir du responsable de l’élection un remboursement quant à ses dépenses électorales.
+[73]Hormis le témoignage peu convaincant du mari, il n’y a aucune preuve crédible pouvant autoriser la Cour à conclure que ces dépenses étaient déductibles.
+[74]La Cour reconnaît que les reçus n’atteignaient pas les sommes réclamées dans les annexes « D » et « E » de la réponse.
+[75]Dans son argumentation, le mari a fait peu de cas de ce que le ministre mettait en doute la déductibilité des dépenses afférentes à la maison. Il disait que toute personne responsable saurait qu’il s’agissait de dépenses. Cependant, ce n’est pas là une preuve de nature à établir l’objet des dépenses et leur total.
+[76]L’argument principal du mari était que l’appelante finançait l’entreprise. Cependant, cela n’autorise pas l’appelante à prétendre que ces dépenses étaient déductibles, puisqu’il s’agissait manifestement de dépenses de son mari.
+[77]S’agissant des dépenses déduites, la Cour est d’avis que, hormis les points admis par le ministre, l’appel devrait être rejeté.
+[78]S’agissant des crédits d’impôt pour déficience qui ont été refusés. la Cour est d’avis que la preuve ne suffit pas à montrer que la capacité du mari était « limitée de façon marquée » durant les années 2003 et 2005 ainsi que le requièrent les alinéas 118.4(1)a) et 118.4(1)b).
+[79]Les points soulevés par l’avocat de l’intimée sur ces aspects sont fondés. Considéré globalement, le témoignage du mari n’établit pas qu’il était souffrant d’une manière continue durant ces années‑là.
+[80]Par ailleurs, son état ne persistait pas « toujours ou presque toujours » selon le sens donné aujourd’hui à cette expression. La Cour reconnaît qu’il y a une différence entre « toujours ou presque toujours » et 70 p. 100 du temps.
+[81]La Cour n’est pas tenue de reconnaître ici le certificat comme définitif, d’autant que, comme c’est le cas ici, la preuve soumise à la Cour va à l’encontre de l’opinion apparaissant dans le certificat.
+[82]Si la personne qui a signé le certificat avait été en mesure d’expliquer son contenu, il en serait peut‑être autrement, mais elle n’a pas été appelée à témoigner.
+[83]Par ailleurs, l’appelante n’a pas témoigné sur l’état de son mari, et manifestement son témoignage aurait sans doute permis soit de confirmer le certificat, soit de mettre en doute sa conclusion.
+[84]Assurément, le témoignage produit par le mari lui‑même à propos de certains aspects juridiques sur lesquels il s’est exprimé pour les années en cause mettrait en doute le point de savoir s’il souffrait d’une incapacité autant que lui‑même et le certificat le donnaient à entendre.
+[85]Il ne fait aucun doute que le mari de l’appelante souffrait d’une grave déficience de ses fonctions intellectuelles durant une partie des années en question, mais la preuve ne convainc pas la Cour qu’il était visé par les paramètres étroits des dispositions en cause.
+[86]Finalement, l’appel est accueilli en ce qui concerne les frais de justice de l’année 2005, selon la somme de 3 441,17 $, et en ce qui concerne le montant pour conjoint de 7 344 $ en 2005. L’affaire est renvoyée au ministre pour nouvelle cotisation et nouvel examen conformes aux présentes conclusions.
+[87]À tous autres égards, l’appel est rejeté.
+Signé à New Glasgow (Nouvelle‑Écosse), ce 12e jour d’août 2008.
+« T. E. Margeson »
+Juge Margeson
+Traduction certifiée conforme
+ce 31e jour d’octobre 2008.
+D. Laberge, LL.L.
+RÉFÉRENCE : 2008CCI458
+N° DU DOSSIER DE LA COUR : 2007‑4273(IT)I
+INTITULÉ : SHELAGH JEAN COOK ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Vancouver (Colombie‑Britannique)
+DATES DE L’AUDIENCE : Le 5 mars 2008 et le 20 juin 2008
+MOTIFS DU JUGEMENT : L’honorable juge T.E. Margeson
+DATE DU JUGEMENT : Le 12 août 2008
+COMPARUTIONS :
+Pour l’appelante :
+John Cook
+Pour l’intimée :
+Me Andrew Majawa
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : John Cook, représentant
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,311 @@
+Title: Nguyen c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28773/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-401-28773-nguyen-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-07-14
+
+# Nguyen c. La Reine
+
+- Citation: 2008 CCI 401
+- Decision date: 2008-07-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1560, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Nguyen c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-07-14
+Référence neutre
+2008 CCI 401
+Numéro de dossier
+2007-11(IT)I
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-11(IT)I
+ENTRE :
+QUY NGUYEN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de
+Betty Leung (2007-15(IT)I) à Toronto (Ontario),
+les 29 et 30 novembre 2007 et les 12 et 13 mars 2008.
+Devant : L’honorable juge Diane Campbell
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocats de l’intimée :
+Me Perry Derksen
+Me Martin Beaudry
+____________________________________________________________________
+JUGEMENT MODIFIÉ
+Les appels interjetés à l’égard des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2000 et 2001 sont accueillis, et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations conformément aux motifs du jugement ci‑joints.
+Le présent jugement remplace le jugement daté du 14 juillet 2008.
+Signé à Charlottetown (Île‑du‑Prince‑Édouard), ce 12e jour de septembre 2008.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 30e jour de septembre 2008.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Dossier : 2007-15(IT)I
+ENTRE :
+BETTY LEUNG,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de
+Quy Nguyen (2007-11(IT)I) à Toronto (Ontario),
+les 29 et 30 novembre 2007 et les 12 et 13 mars 2008.
+Devant : L’honorable juge Diane Campbell
+Comparutions :
+Représentant de l’appelante :
+Quy Nguyen
+Avocats de l’intimée :
+Me Perry Derksen
+Me Martin Beaudry
+____________________________________________________________________
+JUGEMENT MODIFIÉ
+Les appels interjetés à l’égard des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1999, 2000 et 2001 sont accueillis, et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations conformément aux motifs du jugement ci‑joints.
+Le présent jugement remplace le jugement daté du 14 juillet 2008.
+Signé à Charlottetown (Île‑du‑Prince‑Édouard) ce 12e jour de septembre 2008.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 30e jour de septembre 2008.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2008 CCI 401
+Date : 20080912
+Dossiers : 2007-11(IT)I
+2007-15(IT)I
+ENTRE :
+QUY NGUYEN,
+BETTY LEUNG,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT MODIFIÉ
+La juge Campbell
+[1] Les présents appels ont été interjetés à l’égard de cotisations établies en vertu de la Loi de l’impôt sur le revenu (la « Loi ») pour les années d’imposition 1999, 2000 et 2001 de Betty Leung et les années d’imposition 2000 et 2001 de Quy Nguyen. Les appelants ont présenté les demandes nécessaires pour que leurs appels soient régis par la procédure informelle.
+[2] M. Nguyen est planificateur financier, et il exploitait une entreprise de planification financière durant les années visées par les appels. Les appelants sont mariés. Ensemble, ils achetaient des œuvres d’art originales auprès de Canadian Art Advisory Services Inc. (« CAAS »), puis ils en faisaient rapidement don à des organismes de bienfaisance recommandés par CAAS. CAAS achetait les œuvres d’art directement auprès des artistes et s’occupait aussi d’en faire estimer la valeur.
+[3] Lorsque les appelants ont produit leurs déclarations de revenus et qu’ils ont demandé des crédits d’impôt pour dons, ils ont indiqué les sommes suivantes, sous la rubrique [TRADUCTION] « total des dons », quant aux œuvres d’art qu’ils avaient données :
+1999
+2000
+2001
+Betty Leung
+17 000 $
+35 300 $
+28 000 $
+Quy Nguyen
+64 700 $
+32 600 $
+Total
+17 000 $
+100 000 $
+60 600 $
+Les appelants soutiennent que ces sommes représentent la juste valeur marchande (la « JVM ») des œuvres d’art données pendant chaque année d’imposition.
+[4] Le ministre du Revenu national (le « ministre ») a établi de nouvelles cotisations à l’endroit des appelants au motif que la JVM des œuvres d’art était de 5 000 $ pour l’année d’imposition 1999, et, à cause du manque de preuves quant au prix d’achat des œuvres d’art, que la JVM des œuvres d’art était nulle pour les années d’imposition 2000 et 2001.
+[5] Le 10 décembre 1999, les appelants ont acheté 17 peintures auprès de CAAS pour le prix total de 5 000 $. Le prix moyen de chacune de ces peintures était de 294 $. Le prix des œuvres d’art incluait deux estimations indépendantes organisées par CAAS. La valeur des peintures avait été estimée à 17 000 $, soit 3,4 fois leur prix d’achat. Entre le 16 et le 20 décembre 1999, les peintures ont toutes été données à la Première nation de Serpent River, qui a délivré des reçus pour don pour la pleine valeur estimée des peintures, 17 000 $. Mme Leung a demandé la totalité du crédit d’impôt pour dons pour l’année d’imposition 1999. Aucun gain net imposable n’avait été calculé, car la valeur estimée de chaque peinture, et donc le produit de sa disposition, était d’exactement 1 000 $, et la Loi, à cette époque, prévoyait que le prix de base rajusté du bien à usage personnel était réputé être le montant le plus élevé des montants suivants : 1 000 $ et le montant calculé par ailleurs.
+[6] Le 12 décembre 2000, les appelants ont acheté 69 peintures auprès de CAAS pour le prix total de 22 913 $. Le prix moyen de chacune de ces peintures était de 332 $. Le prix d’achat incluait aussi deux estimations indépendantes et une commission de 15 % versée à CAAS pour avoir organisé la donation des œuvres d’art pour le compte des appelants. La valeur des peintures avait été estimée à 100 000 $, soit 4,36 fois leur prix d’achat. Le 22 décembre 2000, les peintures ont toutes été données à la Première nation de Serpent River, qui a encore une fois délivré un reçu pour don pour la pleine valeur estimée des peintures, soit 100 000 $. Cependant, à cause de modifications qui avaient été apportées à la Loi, les appelants ont dû déclarer des gains nets imposables relativement à la transaction.
+[7] Le 19 décembre 2001, les appelants ont acheté 40 peintures auprès de CAAS, pour un prix total de 9 000 $. Le prix moyen de chacune de ces peintures était de 225 $. Comme dans les deux premières transactions, le prix d’achat des peintures incluait deux estimations indépendantes et une commission de 15 %. La valeur des peintures avait été estimée à 60 600 $, soit 6,73 fois leur prix d’achat. Le 19 décembre 2001, les peintures ont toutes été données à la synagogue Pride of Israel, qui a délivré un reçu pour don pour 60 600 $. Les deux appelants ont déclaré des gains nets imposables relativement à la transaction.
+[8] Les appelants soutiennent que CAAS agissait comme grossiste, achetant en bloc des œuvres d’art à bas prix ou à prix réduit auprès des artistes, ce qui permettait à CAAS de faire profiter ses clients de ses économies. Les appelants affirment que la valeur des peintures devrait être calculée selon le prix de vente d’œuvres comparables qui se trouvaient dans des galeries d’art commerciales à la même époque. Le ministre affirme que les œuvres d’art valent, au plus, le prix que les appelants ont payé pour les acheter.
+[9] La question que je dois trancher est de savoir quelle était la JVM des œuvres d’art au moment de leur donation pour chacune des années d’imposition en cause.
+[10] Aucune des parties n’a appelé d’expert à témoigner. Les appelants ont eu recours aux preuves fournies par M. Nguyen et William Russel. L’intimé a appelé deux personnes à témoigner, Barnet Goldberg, le promoteur du programme de donation d’œuvres d’art en cause (le « programme »), et Anton Plas, le vérificateur.
+[11] M. Russel dirige Russel Tax Services, une entreprise qui prépare des déclarations de revenus de particuliers. Il a conseillé à plusieurs de ses clients de participer au programme. M. Russel ou sa famille ont aussi participé au programme. M. Russel a reçu des commissions de CAAS pour y avoir recommandé des clients. Avant de participer au programme, M. Russell avait consulté la réglementation relative à l’impôt sur le revenu et les avis généraux offerts par l’Agence du revenu du Canada (l’« ARC »), il s’était entretenu avec un des estimateurs auquel CAAS avait recours, et il avait visité la réserve de la Première nation de Serpent River, où il avait filmé des œuvres d’art et les prix affichés.
+[12] M. Nguyen a appris l’existence du programme de donation de CAAS grâce à une lettre datée du 24 novembre 1999 (pièce A-3). Il avait compris qu’il pourrait obtenir un rendement de 39 % du capital qu’il investirait, et que les œuvres d’art lui seraient vendues à 35 % de leur valeur estimée. Cependant, M. Nguyen a témoigné qu’il avait participé au programme parce qu’il voulait donner les œuvres d’art. Avant de participer au programme, il a parlé à six estimateurs, quatre artistes et deux avocats. En 2000 et 2001, M. Nguyen a amené environ 25 personnes à participer au programme de CAAS, en échange de quoi il a reçu des commissions. Lorsque M. Nguyen a été contre‑interrogé, il a reconnu qu’il avait acheté un lot de 17 peintures pour 5 000 $ en 1999, et qu’il ne s’agissait pas d’œuvres vendues séparément. En 2000 et 2001, M. Nguyen a lui‑même choisi les œuvres d’art qu’il a achetées en se concentrant sur trois artistes qu’il avait rencontrés. Il aimait les œuvres de ces trois artistes, et il avait vérifié la valeur de certaines de leurs œuvres qui se trouvaient dans des galeries. M. Nguyen a expliqué que dans le portfolio qui lui avait été présenté, les œuvres d’art portaient des numéros de série, et qu’il avait simplement choisi des lots d’œuvres d’art créées par des artistes qu’il aimait. Il n’avait cependant pas choisi chaque œuvre individuellement; il avait plutôt choisi des séries d’œuvres produites par les artistes de son choix au moyen des numéros de série que les œuvres portaient.
+[13] La seule condition à laquelle M. Nguyen devait satisfaire pour participer au programme était d’acheter un nombre minimum d’œuvres d’art; il ne pouvait pas acheter une seule peinture. Il savait aussi que les artistes se faisaient demander de produire des œuvres d’art pour le programme. M. Nguyen a dit qu’il avait compris que des modifications à la Loi avaient été proposées en 2000, et que les œuvres d’art étaient vendues à 20 % de leur valeur estimée, plutôt qu’à 35 %, parce que les transactions donneraient lieu à des gains nets imposables. Lors de son contre‑interrogatoire, il a reconnu avoir acheté les œuvres d’art à prix réduit en 2000 et 2001 pour tenir compte de ces gains nets imposables. M. Nguyen a affirmé qu’il ne savait pas si l’augmentation de la valeur estimée des œuvres d’art de 1 000 $ à 1 400 $ entre 1999 et 2001 était due aux modifications qui faisaient en sorte que ce genre de transaction donnait dorénavant lieu à des gains nets imposables. Quant aux estimations indépendantes de la valeur des œuvres d’art, M. Nguyen a témoigné que les estimateurs évaluaient la valeur individuelle des œuvres d’art, et non pas des lots. Il a aussi admis que les deux rapports d’estimation étaient signés le même jour, et qu’ils concordaient habituellement quant à la valeur des œuvres d’art.
+[14] Barnet Goldberg, le président et l’unique actionnaire de CAAS, a été appelé à témoigner par l’intimée afin de confirmer l’authenticité de documents et des transactions. M. Goldberg a pratiqué la profession d’avocat jusqu’en 1998, quand il a constitué CAAS en société pour vendre des œuvres d’art. Selon la preuve, il n’avait pas de liens avec le commerce d’œuvres d’art avant 1998. Il a admis que l’avocat de l’intimée avait raison de dire que CAAS était un instrument qui permettait au programme de donation d’œuvres d’art d’exister.
+[15] M. Goldberg a épluché les divers documents relatifs aux transactions, lesquels étaient semblables pour chacune des années en cause. Il a expliqué que CAAS facilitait les transactions pour le compte de ses clients, et qu’elle concluait des accords avec un certain nombre d’organismes de bienfaisance pour qu’ils acceptent des donations d’œuvres d’art. M. Goldberg a confirmé que la grande majorité des ventes étaient conclues à l’automne. Il est arrivé que CAAS ait payé aussi peu que 20 $ ou 30 $ par œuvre d’art, mais, durant ses premières années, elle payait jusqu’à 100 $ ou 150 $ par œuvre. M. Goldberg a témoigné que bien que son parcours professionnel ait été en commerce et en droit, il avait vu plusieurs milliers d’œuvres d’art et il avait traité avec les meilleurs estimateurs. Il a expliqué que CAAS avait un pouvoir d’achat considérable, et qu’elle achetait beaucoup d’œuvres d’art pour aussi peu que possible ou pour une fraction de leur valeur. M. Goldberg a aussi fourni des preuves quant à la vente d’œuvres d’art individuelles par des galeries.
+[16] Anton Plas a examiné une grande quantité de documents et, essentiellement, il s’est servi de ce qui avait été mis à sa disposition pour résumer sept volumes de documents et pour montrer le nombre d’œuvres d’art qui avaient fait l’objet du programme. Le fruit de son travail a été déposé en preuve en tant que données Microsoft Excel (pièce R-7) et résumé (pièce R-6). Il a obtenu les documents en application d’une exigence présentée à M. Goldberg en vertu de la Loi. M. Plas a examiné des conventions d’achat, des ententes concernant les commissions, des actes de donation, des listes relatives à des portfolios et des documents d’estimation, mais la documentation ne représentait l’ensemble des transactions pour aucune des années en cause. M. Plas a identifié environ 13 000 peintures et environ 26 000 estimations. Il a tenté de combler le vide causé par les documents manquants en communiquant avec d’autres personnes qui avaient participé au programme. M. Plas a tenté d’additionner les sommes figurant aux conventions d’achat et de les comparer aux ventes totales pour chaque année. Son analyse pour 1999 n’était qu’une approximation, car seulement 2,7 % des documents pertinents étaient disponibles. Cependant, pour 2000 et 2001, M. Plas a pu examiner beaucoup plus de documents, et il a conclu que les artistes, dont ceux qui avaient créé les œuvres achetées par les appelants, avaient produit des centaines d’œuvres pour le programme.
+Analyse
+[17] La définition généralement acceptée de la JVM est énoncée dans Henderson Estate and Bank of New York v. M.N.R., 73 DTC 5471. À la page 5476, le juge Cattanach s’est exprimé de la façon suivante :
+La Loi ne donne aucune définition de l'expression « juste valeur marchande »; celle-ci a été définie de diverses façons, généralement selon ce qu'avait à l'esprit la personne cherchant à formuler la définition. Je ne crois pas nécessaire d'essayer de donner une définition précise de cette expression telle qu'employée dans la Loi; il suffit, me semble-t-il, de dire qu'il y a lieu de donner à ces mots leur sens ordinaire. Dans son sens courant, me semble-t-il, cette expression désigne le prix le plus élevé que le propriétaire d'un bien peut raisonnablement s'attendre à en tirer s'il le vend de façon normale et dans le cours ordinaire des affaires, le marché n'étant pas soumis à des pressions inhabituelles et étant constitué d'acheteurs disposés à acheter et de vendeurs disposés à vendre, qui n'ont entre eux aucun lien de dépendance et qui ne sont en aucune façon obligés d'acheter ou de vendre. J'ajouterais que cet exposé succinct de mon point de vue sur le sens à donner à l'expression « juste valeur marchande » comprend ce que j'estime être l'élément essentiel, soit un marché libre de toutes restrictions, où le prix est établi par le jeu de la loi de l'offre et de la demande entre des acheteurs et des vendeurs avertis et désireux d'acheter et de vendre.
+[18] Le juge d’appel Rothstein (tel était alors son titre) a cité cette définition avec approbation dans Nash c. Canada, [2005] A.C.F. no 1921 (C.A.F.). Il s’est ainsi exprimé au paragraphe 9 :
+[…] On considère généralement que la juste valeur marchande constitue une question de fait. Il est probablement plus juste de dire que la juste valeur marchande est une question mixte de fait et de droit. Les questions mixtes de fait et de droit supposent l'application d'une norme juridique à un ensemble de faits (voir l'arrêt Housen, au paragraphe 26). Dans les affaires portant sur la juste valeur marchande, le juge doit appliquer la définition légalement reconnue de la juste valeur marchande aux faits constatés en se fondant sur les éléments de preuve portés à sa connaissance.
+[19] Dans Klotz c. Canada, [2004] A.C.I. no 52 (C.C.I), confirmé par (2005) A.C.F. no 754 (C.A.F.), le juge en chef adjoint Bowman (tel était alors son titre) s’est penché sur un programme de donation d’œuvres d’art ressemblant beaucoup à celui qui est en cause, sauf que ce programme‑là visait des gravures à tirage limité plutôt que des œuvres d’art originales. Dans Klotz, la Cour a rejeté la preuve présentée par le témoin expert du contribuable pour plusieurs raisons, mais principalement parce que le témoin expert avait choisi le mauvais marché de comparaison. La Cour avait alors conclu que la meilleure preuve de la JVM est le prix qui a été payé. Les tribunaux américains, dont certaines décisions ont été citées dans Nash et dans Klotz, sont arrivés à la même conclusion quant à la JVM.
+[20] Les présents appels ressemblent beaucoup aux affaires Nash et Klotz. Je dois déterminer la JVM d’un groupe de peintures pour chacune des années d’imposition en cause. Les estimations qui faisaient partie des documents relatifs aux transactions ne sont pas très utiles, car elles avaient été faites sur une base individuelle plutôt que collective, et parce qu’elles avaient été organisées par CAAS. M. Plas a tenté de calculer le nombre de peintures qui avaient fait l’objet du programme durant les années en cause. Pour les artistes sous‑mentionnés, M. Plas a recueilli les informations suivantes relativement au nombre total de ventes et au nombre d’œuvres d’art achetées par les appelants pour chacune des années en cause :
+1999
+2000
+2001
+Appelants
+Total
+Appelants
+Total
+Appelants
+Total
+Simon Andrew
+-
+9
+31
+278
+6
+347
+Peter Banks
+3
+26
+-
+421
+6
+291
+Serge Deherian
+-
+34
+-
+529
+8
+367
+Juan Gallegos
+-
+--
+-
+24
+5
+455
+Vlad Grospic
+3
+52
+-
+237
+-
+213
+Gyula Kalko
+-
+--
+3
+7
+-
+81
+Jerzy Kolacz
+-
+--
+-
+--
+4
+77
+Eva Kolacz
+-
+17
+26
+283
+5
+413
+Blair Paul
+6
+26
+1
+63
+-
+--
+Jay Redbird
+-
+33
+6
+307
+-
+385
+Gary Silverberg
+3
+22
+-
+124
+-
+--
+Steven Snake
+2
+45
+1
+447
+6
+878
+Richard Stipl
+-
+69
+1
+245
+-
+197
+Total
+17
+333
+69
+2965
+40
+3704
+[21] Je suis convaincue que ces estimations, fondées sur les documents auxquels M. Plas avait accès, représentent le nombre minimum d’œuvres d’art vendues par CAAS pour les années en cause.
+[22] En l’espèce, les appelants, qui ont le fardeau de la preuve, ont présenté très peu de preuves quant à la JVM des œuvres d’art qu’ils avaient achetées. Ils ont choisi de ne pas être représentés, ils ont choisi d’interjeter leurs appels sous le régime de la procédure informelle, et, dans un premier temps, ils avaient choisi de ne pas avoir recours à des experts. L’audition des présents appels a débuté à l’automne 2007, mais elle n’a été complétée qu’en mars 2008. Lorsque les appelants se sont rendu compte qu’il leur était essentiel d’avoir recours à des experts et de présenter des rapports d’experts, ils ont demandé la permission de le faire avant la reprise de l’audition en 2008. Même si j’aurais pu accueillir cette demande des appelants, si cela n’avait pas porté préjudice à l’intimée, j’ai rejeté la demande des appelants parce qu’ils avaient été informés, avant le début de l’audition de leurs appels, de leur droit d’appeler des experts à témoigner, et après réflexion, ils avaient choisi de ne pas le faire. Toutefois, sauf si un expert en estimation avait utilisé une méthodologie acceptable pour estimer la valeur des lots d’œuvres d’art, j’aurais rejeté toute estimation fondée sur la valeur individuelle des œuvres d’art.
+[23] L’un des problèmes soulevés dans les présents appels est l’augmentation subite de la prétendue valeur des œuvres d’un même artiste entre 1999 et 2000 et 2001. L’avocat de l’intimée m’a demandé de déduire que cela était attribuable aux modifications apportées à la Loi et aux gains nets imposables ainsi obtenus. Quoique je n’aie vu aucune preuve voulant que tel soit le cas, il me semblerait particulièrement surprenant que la valeur des œuvres d’un artiste augmente de façon importante alors que le marché est inondé par ses œuvres. Pour citer les propos du juge Bowman dans Klotz, cela :
+[…] n'a aucun sens et n'a rien à voir avec la réalité ordinaire du monde commercial.
+De plus, certaines preuves donnent à penser que, dans certains cas, les estimateurs, qui recevaient entre 2 $ et 5 $ par œuvre selon M. Goldberg, signaient peut‑être les estimations après la conclusion des transactions.
+[24] Selon son témoignage, M. Nguyen savait qu’il achetait des œuvres en bloc. Il présumait aussi que M. Goldberg demandait à des artistes de produire des œuvres pour le programme. Par exemple, selon les documents qui m’ont été présentés, Stephen Snake aurait produit plus de 800 œuvres en 2001. Cela soulève une question qui demeure sans réponse : les œuvres d’art produites pour le programme étaient-elles de moindre qualité que les œuvres que leurs artistes auraient souhaité présenter dans une galerie?
+[25] M. Goldberg a témoigné que 99 % des ventes de CAAS étaient réalisées dans le cadre du programme. Toutefois, en comparant le sommaire des ventes (pièce R‑11) pour l’exercice ayant pris fin le 30 septembre 2001 – il s’agit du seul exercice pour lequel il en existe un – avec les états financiers correspondant, il serait tout aussi facile de conclure que le sommaire de ventes ne comprend aucune vente individuelle, et que toutes les ventes de CAAS auraient pu avoir été réalisées dans le cadre du programme.
+[26] Les trois témoins, M. Nguyen, M. Russel et M. Goldberg, ont tous affirmé que les prix de vente individuels d’œuvres d’art dans diverses galeries étaient de bons indicateurs de la JVM des œuvres d’art en cause dans les présents appels. Plusieurs raisons font que l’utilisation des prix de vente dans des galeries comme comparatif est problématique, et qu’on ne peut pas s’en servir à cette fin. Premièrement, ces prix se rapportaient à des œuvres mises en vente individuellement, alors que je dois me pencher sur l’achat et la donation, de façon concomitante, de lots d’œuvres d’art. Je dois déterminer la JVM des lots d’œuvres d’art comme s’ils avaient été vendus sur le marché. M. Nguyen a témoigné que la seule condition qui était posée à sa participation au programme était qu’il ne pouvait pas acheter des œuvres d’art individuellement. À mon avis, il y a suffisamment de preuves orales et documentaires, en plus des aveux des appelants, pour conclure que les œuvres d’art étaient achetées en bloc. Aucune preuve n’a été présentée pour démontrer que des œuvres avaient été achetées ou données individuellement. Il est évident que CAAS ne vendait pas d’œuvres à la pièce, et que le programme visait la vente de lots d’œuvres d’art. Le deuxième problème que pose l’utilisation des prix de vente dans des galeries, au sujet desquels aucune preuve ne m’a été fournie, est de savoir si les œuvres offertes dans les galeries étaient comparables aux œuvres des mêmes artistes achetées dans le cadre du programme. La question est donc de savoir si la qualité des œuvres qui étaient produites une ou deux à la fois pour être vendues dans des galeries permet de les comparer avec les œuvres que le même artiste produisait par centaine chaque année pour le programme. Tel était le cas, par exemple, de Stephen Snake, qui avait produit plus de 800 œuvres en 2001. Aucune preuve ne me permet de conclure que la qualité et la complexité de ces quelque 800 œuvres étaient identiques ou similaires à celles d’une ou deux œuvres qu’il aurait produites pour les exposer dans une galerie. Troisièmement, la définition de la JVM parle d’acheteurs et de vendeurs avertis; je présume que ces derniers auraient tenu compte du fait que l’offre dépassait largement la demande au moment de fixer un prix d’achat juste et raisonnable. À mon avis, tel aurait aussi été le cas même en tenant compte de la période de détention de dix ans à laquelle les organismes de bienfaisance en cause devaient se conformer en 2000 et 2001. Ainsi, les ventes individuelles faites dans les galeries ne sont pas nécessairement de bons indicateurs de la JVM, à moins que les galeries aient eu vent du fait que l’offre dépassait largement la demande, et qu’elles en aient informé les acheteurs potentiels. Quatrièmement, les seules preuves qui m’ont été fournies quant aux ventes dans les galeries proviennent de ces trois témoins, et je ne considère aucun d’eux comme une partie désintéressée. Le témoignage de M. Russel doit être considéré en tenant compte d’un certain parti pris de ce dernier, qui participait personnellement au programme. Mis à part le fait que l’objectivité et l’indépendance de M. Russell soient entachées par ce parti pris, celui‑ci n’est pas qualifié pour témoigner en tant qu’expert quant à la comparabilité des œuvres d’art qu’il avait vues dans des galeries et de celles qu’il avait vues dans le cadre du programme. M. Goldberg, bien sûr, est le créateur et le promoteur du programme. Il a été un témoin difficile. Il se prononçait incessamment sur la qualité des œuvres d’art. Cependant, M. Goldberg n’est pas un expert, et il ne témoignait pas à ce titre. Je ne ferai que rejeter la partie de son témoignage où il s’improvisait expert, et je ne tiendrai compte que de la partie qui avait trait à la raison pour laquelle il avait été appelé à témoigner : confirmer l’authenticité des documents relatifs aux transactions. Cinquièmement, aucune preuve n’a été présentée quant aux ventes d’œuvres d’art dans des galeries. Pour ces raisons, je rejette l’argument voulant que les galeries d’art commerciales représentent le bon marché pour déterminer la JVM des œuvres en cause. M. Nguyen a témoigné quant aux prix de vente affichés dans des galeries, et M. Russell a filmé une liste de prix affichée dans la fenêtre d’une galerie. Ces preuves ne permettent pas de déterminer la JVM. S’il ne s’agit pas là des meilleures preuves pour déterminer la JVM des œuvres d’art données, sur quelles preuves doit-on se fonder? Comme l’a dit le juge Bowman au paragraphe 44 de Klotz :
+[…] Le chiffre le plus récent et le plus comparable est celui que M. Klotz a versé à Curated pour ces gravures.
+Il s’est ainsi exprimé au paragraphe 46 :
+[…] mais en fin de compte, le nom attribué à la vente importe peu. Elle est ce qu'elle est. Il s'agissait de la vente de 250 gravures pour une somme de 75 000 $ entre deux personnes sans lien de dépendance. Le don de ces 250 gravures a été fait presque en même temps. Quelle meilleure preuve y a-t-il au sujet de la valeur des 250 gravures à ce moment-là? Pourquoi aller à la recherche d'une JVM élusive et dans une bonne mesure hypothétique dans les galeries d'art haut de gamme en vogue à New York lorsque la meilleure preuve nous crève les yeux? Le problème qui se pose en l'espèce est le suivant : un bien est acquis pour une somme de 5 à 50 $, il est vendu à l'appelant pour une somme de 300 $ et on affirme deux jours plus tard que la JVM du bien est de 1 000 $; la chose n'a aucun sens et n'a rien à voir avec la réalité ordinaire du monde commercial.
+Au paragraphe 29 de Nash, le juge d’appel Rothstein s’est exprimé de la sorte :
+[…] lorsque la date d'acquisition et la date d'aliénation sont très rapprochées, à défaut de preuve contraire, le coût d'acquisition du bien constitue en principe un bon indice de sa juste valeur marchande.
+En l’espèce, les acquisitions et les donations correspondantes ont été presque simultanées.
+[27] L’appelant n’a pas su présenter des preuves permettant de renverser l’hypothèse du ministre voulant que la JVM correspondait, au plus, au prix que les appelants avaient payé. Aucune preuve quant à des ventes comparables ne m’a été présentée. Sans un témoignage d’expert pertinent, je ne peux pas savoir si les œuvres vendues dans des galeries étaient comparables aux œuvres du programme, et ce, même s’il avait été prouvé que le prix de vente des œuvres dans des galeries constituait le bon marché pour déterminer la JVM des lots de peintures en cause. Même si des preuves avaient été présentées quant à des ventes comparables dans des galeries, il aurait fallu me convaincre que les galeries d’art constituaient le réseau de vente prépondérant pour les œuvres en cause. Cela aurait été très difficile, voire impossible, compte tenu du nombre d’œuvres d’art qui ont fait l’objet du programme. L’analyse appliquée dans Nash et dans Klotz est celle qu’il faut utiliser dans les présents appels. À mon avis, il importe peu que les biens donnés soient des œuvres originales ou des gravures à tirage limité. En l’absence de preuve contradictoire, la meilleure preuve de la JVM d’un groupe de biens est son prix d’achat.
+[28] L’intimée soutient que la JVM devrait correspondre au prix d’achat payé par les appelants pour chaque année, moins la commission de 15 % que les appelants versaient conformément à l’entente concernant la commission. Je partage l’avis de l’avocat de l’intimée voulant que la commission de 15 % du prix d’achat faisait partie du coût d’acquisition des œuvres d’art et ne pouvait pas faire partie de la JVM des œuvres d’art données. L’avocat de l’intimée a invoqué plusieurs décisions à l’appui de sa conclusion : Conn v. M.N.R., 1986 CarswellNat 459 (C.C.I.); Paradis v. R., 1996 CarswellNat 2261 (C.C.I.); Aikman v. R., (2000) CarswellNat 219 (C.C.I) confirmé par 2002 CarswellNat 628 (C.A.F.). La convention d’achat datée du 19 décembre 2001 est ainsi rédigée :
+[TRADUCTION]
+1.02 […] Si l’acheteur décide de faire appel à CAAS pour faire don, en tout ou en partie, des œuvres d’art achetées aux termes des présentes, il est entendu qu’une somme égale à 15 % du prix d’achat prévu aux présentes sera payable à titre de commission pour l’aide que CAAS aura fournie à l’acheteur quant à la donation des œuvres d’art.
+Ce passage laisse entendre que les appelants n’auraient pas été tenus de verser la commission de 15 % s’ils avaient acheté les œuvres d’art, mais les avaient ensuite conservées au lieu d’en faire don.
+[29] On ne m’a pas convaincue que l’analyse utilisée dans Nash et dans Klotz ne devrait pas être employée en l’espèce. En l’absence de preuve quant à des ventes comparables ou à un marché permettant une comparaison directe, la seule valeur que je peux attribuer aux œuvres d’art est le prix qu’une personne aurait été prête à payer vers le moment où les œuvres ont été données. Cette personne aurait pu être soit CAAS, soit les appelants. Toutefois, puisque l’intimée a demandé à ce que la JVM corresponde au prix payé par les appelants moins la commission de 15 %, je ne suis pas portée à envisager une autre somme. Je dois donc me poser la même question que le juge Rothstein (alors juge d’appel) s’est posé au paragraphe 26 de Nash, soit de savoir quel prix les appelants auraient pu obtenir s’ils avaient voulu vendre les lots d’œuvres d’art durant la même période au lieu de les donner. La réponse inévitable à cette question est que ce prix aurait été tout au plus celui qu’ils avaient payé, car un acheteur potentiel averti aurait simplement acheté le lot d’œuvres d’art auprès de CAAS au lieu des appelants.
+[30] Au début de l’audience, l’intimée a cédé quant aux pénalités imposées pour faute lourde en vertu du paragraphe 163(2) de la Loi. Par conséquent, les appels sont accueillis et les cotisations sont déférées au ministre pour nouvel examen et nouvelles cotisations conformément à ce qui suit :
+a) les pénalités imposées à Mme Leung pour les années 1999, 2000 et 2001 et à M. Nguyen pour les années 2000 et 2001 doivent être annulées;
+b) la JVM des œuvres d’art pour les années d’imposition 2000 et 2001 est égale à leur prix d’achat moins la commission de 15 % qui s’y rattachait, mais la JVM des œuvres d’art pour l’année d’imposition 1999 reste égale à 5000 $, conformément à la cotisation établie par le ministre;
+c) les gains nets imposables doivent être recalculés conformément à mes conclusions;
+d) aucun dépens ne sont adjugés.
+Signé à Chartlottetown (Île‑du‑Prince‑Édouard) ce 12e jour de septembre 2008.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 30e jour de septembre 2008.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2008 CCI 401
+Nos DES DOSSIERS DE LA COUR :
+2007-11(IT)I
+2007-15(IT)I
+INTITULÉ :
+Quy Nguyen et Better Leung et
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATES DE L’AUDIENCE :
+Les 29 et 30 novembre 2007 et
+les 12 et 13 mars 2008
+MOTIFS DU JUGEMENT :
+L’honorable juge Diane Campbell
+DATE DU JUGEMENT MODIFIÉ :
+Le 12 septembre 2008
+COMPARUTIONS :
+Représentant des appelants :
+Quy Nguyen
+Avocats de l’intimée :
+Me Perry Derksen
+Me Martin Beaudry
+AVOCAT INSCRIT AU DOSSIER :
+Pour les appelants :
+Nom :
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

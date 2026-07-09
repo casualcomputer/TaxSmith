@@ -1,0 +1,141 @@
+Title: Katzenback v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28143/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-683-28143-katzenback-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2007-11-08
+
+# Katzenback v. The Queen
+
+- Citation: 2007 CCI 683
+- Decision date: 2007-11-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1826, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Katzenback v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-11-08
+Référence neutre
+2007 CCI 683
+Numéro de dossier
+2003-3722(IT)I
+Juges et Officiers taxateurs
+Joe E. Hershfield
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-3722(IT)I
+ENTRE :
+JOSEPH KATZENBACK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 6 novembre 2007, à Edmonton (Alberta)
+Devant : L’honorable juge J.E. Hershfield
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Gregory Perlinski
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1998, 1999 et 2000 sont accueillis sans dépens, et les nouvelles cotisations sont déférées au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 21e jour de novembre 2007.
+« J.E. Hershfield »
+Juge Hershfield
+Traduction certifiée conforme
+ce 11e jour de janvier 2008.
+Marie-Christine Gervais, traductrice
+Référence : 2007CCI683
+Date : 20071121
+Dossier : 2003-3722(IT)I
+ENTRE :
+JOSEPH KATZENBACK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Révisés à partir des motifs du jugement rendus oralement à l’audience
+le 8 novembre 2007, à Edmonton (Alberta))
+Le juge Hershfield
+[1] Le présent appel concerne les pertes d’entreprise dont la déduction a été demandée par le contribuable et l’omission par celui‑ci de déclarer un revenu en intérêts pour les années d’imposition 1998, 1999 et 2000. Les pertes d’entreprise concernent deux entreprises que le contribuable aurait exploitées au cours de ces années. Une de ces entreprises était une agence immobilière et l’autre était une entreprise d’importation.
+[2] Les deux activités auraient commencé en 1998.
+[3] L’intimée fait valoir que l’appelant n’avait pas de sources de revenu d’entreprise pendant les années en cause et que les dépenses engagées et déduites aux fins de la détermination des pertes d’entreprise n’ont pas été engagées en vue de tirer un revenu d’une entreprise.
+[4] La question relative au revenu non déclaré concerne un revenu en intérêts pour lequel des T5 ont été envoyés au nom de l’appelant et qui n’a pas été déclaré par celui‑ci.
+[5] J’aborderai tout d’abord la question de savoir s’il y a une agence immobilière. À cet égard, selon moi, les faits pertinents sont les suivants :
+· l’appelant possède un diplôme en économie et en administration des affaires;
+· avant les années en cause, l’appelant a travaillé dans l’industrie de la construction lorsqu’il trouvait du travail qui l’intéressait – ce travail n’avait apparemment pratiquement rien à voir avec ses études;
+· il est devenu un agent immobilier accrédité en 1997, mais ce n’est qu’en 1999 qu’il a obtenu l’affiliation nécessaire à un bureau ou à un courtier accrédité lui permettant de travailler ou d’exploiter une entreprise en tant qu’agent immobilier et commencé à payer ce qu’il appelait des [traduction] « frais de bureau » et une redevance de franchisage à un bureau autorisé. Je conclus donc que ce n’est qu’en 1999 qu’il a obtenu l’affiliation nécessaire pour exploiter une entreprise en tant qu’agent immobilier;
+· il n’est pas prétendu dans l’état des résultats figurant dans la déclaration de revenus de l’appelant pour 1998 que les dépenses étaient liées à une agence immobilière, comme c’était le cas pour les autres années. Je n’accepte pas cela comme une erreur.
+[6] Par conséquent, je conclus qu’en 1998, il n’y avait pas vraiment d’agence immobilière ni de source de revenu d’entreprise d’une agence immobilière.
+[7] En ce qui concerne l’année 1999, je remarque que, pendant les deux premiers mois de cette année‑là, l’appelant a travaillé dans le domaine de la construction. À partir de ce moment‑là, le tableau semble différent. L’appelant distribue des cartes professionnelles, a une bonne idée de la façon dont il veut essayer de mettre sur pied une agence immobilière et investit clairement du temps et de l’argent dans l’espoir d’établir une telle entreprise. Il paye des frais de matériel de 225 $ par mois, ainsi qu’une redevance de franchisage pour l’affiliation requise avec un courtier, qui lui fournissait des services administratifs. J’accepte le fait que l’appelant a essayé de trouver des acheteurs et des vendeurs et qu’il s’est principalement concentré sur l’établissement de relations à partir d’un réseau de personnes avec qui il entrait en rapport. Je conclus donc que ses démarches constituaient une entreprise ou une source de revenu en 1999 et en 2000, même s’il n’a gagné aucun revenu au cours de ces deux années, et même si je crois qu’il s’agissait davantage d’une entreprise secondaire qui venait après son travail dans le domaine de la construction et les efforts qu’il déployait à l’égard d’une entreprise d’importation. Je tiens toutefois à souligner que l’entreprise d’importation, malgré les recherches effectuées en 1999 et avant, n’a été mise sur pied qu’en 2000. L’appelant a pour ainsi dire donné un coup d’envoi à cette entreprise en voyageant à l’étranger pendant environ deux mois et demi au début de l’année 2000. Cela a eu pour effet de reléguer au second plan ses activités dans le domaine de l’immobilier. Toujours est‑il que je conclus qu’en 1999 et en 2000, il y avait une source de revenu d’entreprise à l’égard de l’agence immobilière.
+[8] En ce qui concerne l’entreprise d’importation, il est clair que l’appelant a effectué des recherches poussées dans le cadre de ses démarches. Il a considéré une variété de produits d’importation, principalement de l’Inde, mais également d’autres pays. Il a produit des documents étayant les recherches effectuées, qui avaient été créés en 1998. Cependant, rien ne m’indique encore qu’une entreprise a vraiment été lancée avant 2000, lorsqu’il est allé en Inde pour acheter des stocks au début de l’année. À ce moment‑là, ses recherches lui avaient permis de restreindre ses objectifs en matière de stock à de petits articles moins chers qui pourraient être plus faciles à mettre sur le marché au Canada. Il a donc fait l’acquisition de portefeuilles, de sacs à main et de ceintures à argent, ainsi que d’autres biens semblables – principalement des articles en cuir. Le coût des stocks qu’il a acquis lors de son voyage était d’environ 1 500 $. Ses recherches lui avaient permis d’être très bien renseigné dans le domaine de l’expédition, de l’importation et d’autres activités semblables. J’accepte le fait que son voyage ne comportait qu’un aspect personnel très limité ou aucun aspect personnel. Il a fait ce voyage seul et a rencontré un grand nombre d’importateurs, d’exportateurs et de commerçants d’autres pays. Il avait un sac plein de cartes professionnelles de personnes qu’il avait rencontrées lors de son voyage. J’accepte son témoignage sur ces points.
+[9] Le stock acquis n’était pas aussi facile à mettre sur le marché que l’appelant l’aurait souhaité. Les seules ventes effectuées au cours de l’année avaient été faites à des vendeurs de marché aux puces et avaient produit un revenu de 840 $ et un profit brut de 210 $. Lors de l’audience, aucune vente effectuée au cours des années suivantes n’a été mentionnée.
+[10] Pour résumer, je conclus qu’il y avait une agence immobilière en 1999 et en 2000 et une entreprise d’importation en 2000. Les appels à l’égard des déductions demandées pour 1998 sont rejetés et les déductions demandées pour 1999 à l’égard de l’entreprise d’importation sont également refusées.
+[11] Il est nécessaire de décomposer le tout pour voir où cela me mène.
+[12] Dans les déclarations de revenu du contribuable, les états des résultats présentés pour les deux entreprises ont été fusionnés. Cela me rend la tâche encore plus difficile. Chaque source de revenu d’entreprise distincte exige des états des résultats distincts. J’accorde un certain poids au témoignage de l’appelant pour ce qui est de la répartition des montants entre les deux entreprises, mais je ne peux pas lui accorder le moindre bénéfice du doute parce qu’il n’a pas correctement comptabilisé le revenu et les dépenses de chacune des entreprises séparément. Le fait que son ex‑épouse établissait les déclarations n’a aucune importance pour cette question[1].
+[13] Je traiterai tout d’abord de la question des frais liés à l’usage du véhicule et de la déduction pour amortissement (la « DPA ») pour la fourgonnette utilisée en 1999 dans le cadre de l’agence immobilière. Il s’agissait d’une nouvelle fourgonnette dont l’appelant avait fait l’acquisition en 1998 pour plus de 20 000 $. La DPA a été demandée en fonction d’une utilisation à des fins professionnelles de 100 %. J’admets que la fourgonnette a subi une certaine dépréciation au moment du transfert et, à cette fin, j’accorde une valeur de 19 000 $ à la fourgonnette aux fins de la DPA en date de mars 1999, moment où l’appelant a terminé son travail dans le domaine de la construction. Comme il s’agit de la première année où le bien est inclus dans une catégorie aux fins d’amortissement, la règle de la demi‑année s’appliquera à la mesure dans laquelle le bien était utilisé à des fins professionnelles pour l’entreprise, utilisation qui, selon moi, est inférieure à 100 %.
+[14] L’appelant et son épouse, une enseignante, de même que leurs cinq enfants, dont au moins un semblait être en âge de conduire en 1999 et en 2000, auraient utilisé une deuxième fourgonnette plus ancienne pour tous les déplacements personnels en automobile. À mon avis, cela est très peu probable. Selon toute probabilité, la nouvelle fourgonnette a dû être utilisée personnellement par l’appelant à des fins personnelles, y compris pour les recherches effectuées à l’égard de l’entreprise d’importation, qui n’a été mise sur pied qu’en 2000. Même si je peux accepter que le véhicule a été utilisé pour l’exploitation de l’agence immobilière, je n’accorderai à l’appelant pas plus qu’une utilisation du véhicule à des fins professionnelles de 60 %. Il s’agit du pourcentage que j’accorderai aux fins de la DPA et des frais liés à l’utilisation du véhicule.
+[15] Cela m’amène à la DPA demandée à l’égard de l’ordinateur pour l’année 1999. Je conclus que l’ordinateur était probablement utilisé pour trois fins distinctes : pour l’agence immobilière; pour les activités de recherche et de développement effectuées dans le cadre de l’entreprise d’importation mise sur pied en 2000; et pour des fins personnelles par sa famille. Pour ce qui est de l’utilisation de l’ordinateur à des fins personnelles, je remarque qu’il y avait un deuxième ordinateur à la maison, lequel avait été fourni par le système scolaire aux enfants qui étaient instruits à domicile. Cependant, l’appelant a indiqué dans son témoignage que cet ordinateur ne pouvait être utilisé que pour les travaux scolaires, et il est difficile de croire que les enfants et l’épouse n’avaient pas pleinement accès à l’ordinateur de celui‑ci pour les travaux autres que scolaires, surtout étant donné que, encore selon le témoignage de l’appelant, l’épouse n’avait pas le droit d’utiliser l’ordinateur de l’école à des fins personnelles. De plus, cinq enfants pouvaient facilement utiliser pleinement deux ordinateurs. J’admets que l’appelant n’utilisait probablement pas beaucoup l’ordinateur à des fins personnelles, étant donné qu’il semblait compter en grande partie sur l’aide d’autres personnes, comme son épouse, pour utiliser l’ordinateur. Aucun élément de preuve ne m’a également été présenté à l’égard de l’utilisation de l’ordinateur en 2000 pour l’une ou l’autre des entreprises. Je n’accepte pas le témoignage de l’appelant selon lequel l’ordinateur était uniquement utilisé à des fins professionnelles.
+[16] J’accorderai donc une utilisation à des fins professionnelles de 60 % pour ce qui est de l’ordinateur en 1999[2] et je lui attribuerai un coût en capital de 2 000 $ pour cette année‑là, lequel est assujetti à la règle de la demi‑année pour l’année (le premier exercice), afin de tenir compte de la dépréciation rapide de ce genre de matériel, dont témoigne le fait qu’une perte finale a été demandée pour l’année d’imposition 2000.
+[17] Maintenant, pour ce qui de l’année 2000, je remarque qu’il y a une augmentation importante du revenu de construction ou des autres revenus d’emploi. En 1998, ce montant était d’environ 13 000 $; en 1999, il était d’environ 15 500 $; et en 2000, il était d’environ 29 000 $.
+[18] Il semble clair que l’appelant travaille davantage dans le domaine de la construction, son principal domaine de travail. Pourtant, il continue de payer ses frais de bureau – qui n’ont fait que légèrement baisser pour son travail en tant qu’agent immobilier. Cette légère baisse ne compense même pas entièrement l’absence de l’appelant au début de l’année 2000 pendant une période d’environ deux mois et demi pour un voyage à l’étranger effectué dans le but de lancer l’entreprise d’importation. Le doublement du revenu d’emploi de l’appelant, son voyage en Inde et la mise sur le marché du stock de son entreprise d’importation me paraissent comme des activités qui demandent beaucoup d’efforts, et, à mon avis, même s’il continue de payer les frais de bureau, il doit faire des sacrifices. Compte tenu du témoignage de l’appelant selon lequel il consacrait ses efforts à l’entreprise d’importation, je devrais conclure que l’agence immobilière était en train de réduire progressivement ses activités ou bien qu’elle n’était pas exploitée assez activement pour continuer d’être une source de revenu. Je l’accepterai quand même comme source de revenu, qu’elle ait ou non été laissée de côté ou négligée. Je tiendrai toutefois compte du fait que le pourcentage des dépenses engagées à des fins professionnelles doit, logiquement et selon toute probabilité, avoir diminué à l’égard de cette entreprise en 2000.
+[19] Puis, en ce qui concerne la fourgonnette, dans le cadre de l’agence immobilière, j’accorderai une utilisation du véhicule à des fins professionnelles de 20 %. Pour ce qui est de l’entreprise d’importation, j’accorderai une utilisation à des fins professionnelles supplémentaire de 30 %. J’attribue une plus grande utilisation à des fins personnelles que l’année précédente, étant donné l’augmentation importante du revenu de construction ou des autres revenus d’emploi pour l’année. Pour ce qui est de la DPA et des frais liés à l’utilisation du véhicule, l’utilisation totale à des fins professionnelles est de 50 % pour toutes les entreprises. Je remarque que l’affectation de la fourgonnette à une deuxième entreprise dans le cadre d’une situation avec lien de dépendance ne devrait pas entraîner l’application de la règle de la demi‑année ou exiger l’établissement d’une nouvelle valeur.
+[20] En ce qui concerne l’ordinateur, une perte finale est accordée pour l’année d’imposition 2000 selon les nouveaux calculs qui ont été faits conformément aux conclusions ci‑dessus.
+[21] Les frais d’administration et les redevances de franchisage demandés pour les années 1999 et 2000 sont accordés à l’égard de l’agence immobilière.
+[22] En ce qui a trait aux frais de déplacement pour l’année 2000, je remarque qu’ils comprennent des repas, dont seulement 50 % de la valeur peut être déduite. Par conséquent, le montant de la déduction que j’accorderai sera de 1 200 $.
+[23] La déduction des fournitures est accordée telle quelle pour les années 1999 et 2000.
+[24] Les frais de représentation demandés pour 2000 ne sont pas appuyés par la preuve et comprennent probablement des repas dont seulement 50 % de la valeur peut être accordée. J’accorderai donc une déduction de 250 $ pour 2000. J’accorde la moitié du montant demandé pour les repas pour l’année 1999.
+[25] Cela m’amène à la question du revenu en intérêts non déclaré.
+[26] Cette question découle des T5 qui ont été envoyés à l’appelant par Hypothèques Trustco Canada, qui, selon les dires de l’appelant, lui ont été envoyés en tant qu’à un détenteur inscrit seulement, et qui concernent des rentrées de revenu gagné pour ses enfants qu’il détient pour eux, lesquelles rentrées devraient être déclarées dans leurs déclarations. Il dit qu’en fait, il n’est qu’un fiduciaire.
+[27] Il a été établi lors de l’audience, en fonction de calculs approximatifs, que le montant investi était d’environ 40 000 $.
+[28] L’appelant a dit qu’il pensait que le capital d’une telle fiducie pour les enfants provenait en grande partie de l’allocation familiale, mais aussi de dons et d’argent reçu pour des travaux divers. Même si j’accepte qu’il se peut que les paiements d’allocation familiale ou de prestation fiscale pour enfants aient été économisés et séparés à l’égard des enfants (qui étaient âgés de 10 à 17 ans en 2000) de façon à constituer une partie importante d’un fonds d’investissement de 40 000 $, je conclus qu’il est difficile de croire que ce qu’il aurait fallu faire pour éviter l’attribution a en fait été effectué. Pour tirer une conclusion différente, il faudrait que j’accepte que tous les chèques d’allocation familiale pour toutes les années étaient en fait séparés et conservés séparément depuis 1983, soit l’année où l’enfant le plus âgé est né. Même si l’appelant a dit que cela était le cas, je n’accepte tout simplement pas son témoignage. Il est au courant des règles d’attribution et des démarches de planification fiscale qui pouvaient faire en sorte que ces dernières ne s’appliquent pas et, à mon avis, il cherchait simplement une échappatoire aux problèmes d’attribution entraînés par ses affirmations. À tous le moins, l’appelant a révélé qu’il avait témoigné de façon très « astucieuse », ce qui n’ajoute pas à sa crédibilité.
+[29] Il a fait preuve de plus de crédibilité lorsqu’il a laissé entendre que ce serait son ex‑épouse, et non lui, qui aurait davantage contribué à ces comptes en fiducie, étant donné qu’elle avait un revenu plus élevé. Même si cette théorie semble plus plausible, elle n’en demeure pas moins une théorie. Quoi qu’il soit, je n’accorderai pas à l’appelant le bénéfice du doute en me fondant sur des explications possibles, même s’il est admis par l’intimée que les revenus non déclarés visés par les T5 ont été désignés comme des comptes [traduction] « conjoints » par Hypothèques Trustco Canada. Une telle admission entraîne une présomption selon laquelle il y a un autre détenteur, et j’accepte le fait qu’il était possible que ces détenteurs soient les enfants. Toutefois, l’appelant a eu environ cinq ans pour examiner cette affaire et régler les problèmes d’attribution. Il aurait pu vérifier si les détenteurs conjoints étaient les enfants et demander une copie de l’historique des dépôts effectués auprès d’Hypothèques Trustco Canada, car, après tout, il est le détenteur inscrit du compte et il aurait eu accès à tous ces renseignements (contrairement à son ex‑épouse). Il aurait également pu, il y a quatre ou cinq ans (après avoir reçu la cotisation et s’être séparé de son ex‑épouse), obtenir les dossiers des banques, lesquels auraient peut‑être permis de voir quelles étaient les sources des paiements versés à Hypothèques Trustco Canada.
+[30] L’appelant ne s’était pas du tout préparé pour traiter de cette question de la façon dont elle devait traitée. Il l’a admis au début de l’audience (dans le cadre de sa demande d’ajournement de l’audience). Il a alors dit qu’il ne s’était pas préparé pour traiter de cette question, mais cela ne l’aide pas. Il aurait dû se préparer. L’ajournement de l’audience par la juge Woods aurait dû lui permettre de se préparer. La question du revenu en intérêts se posait depuis cinq ans. Il en a parlé avec l’Agence du revenu du Canada immédiatement après avoir reçu la cotisation. Je suis conscient que sa vie était près d’un point de rupture à ce moment‑là, mais, même au cours des derniers mois, l’appelant aurait dû s’occuper de la question et tenir compte des conseils de la juge Woods, soit préparer sa preuve. Il ne l’a pas fait et je ne me mettrai pas à inventer des scénarios ou à me fonder sur des scénarios possibles ou même plausibles pour aider l’appelant à l’égard de cette question. Il a le fardeau, qui remonte à 1998, de connaître les faits liés aux T5 qui lui ont été envoyés à son adresse.
+[31] Par conséquent, les appels concernant le revenu en intérêts non déclaré sont rejetés pour toutes les années.
+[32] Aucuns dépens ne seront adjugés.
+Signé à Ottawa, Canada, ce 21e jour de novembre 2007.
+« J.E. Hershfield »
+Juge Hershfield
+Traduction certifiée conforme
+ce 11e jour de janvier 2008.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE :
+2007CCI683
+NO DU DOSSIER :
+2003-3722(IT)I
+INTITULÉ :
+Joseph Katzenback c. Sa Majesté la Reine
+DATE ET LIEU DE L’AUDIENCE :
+Le 6 novembre 2007
+Edmonton (Alberta)
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge J.E. Hershfield
+DATE DU JUGEMENT RENDU ORALEMENT :
+Le 8 novembre 2007
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Gregory Perlinski
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] La demande d’ajournement que l’appelant a présentée au début de l’audience a été refusée. La principale raison pour laquelle l’appelant avait présenté cette demande concernait des éléments de preuve non disponibles qui, selon les dires de l’appelant, seraient connus de son épouse. La demande a été refusée pour les motifs joints à l’ordonnance que j’ai signée en même temps que le présent jugement.
+[2] Dans les motifs du jugement prononcés à l’audience, il a été mentionné que l’utilisation à des fins professionnelles était de 40 %. Il s’agit d’une erreur – ce qui aurait dû être mentionné était une utilisation à des fins personnelles de 40 %.

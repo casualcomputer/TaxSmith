@@ -1,0 +1,166 @@
+---
+title: "876958 Ontario Limited v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/356483/index.do"
+last_modified: "2018-12-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 TCC 253"
+citation2: ""
+neutral_citation: "2018 TCC 253"
+decision_date: "2018-12-14"
+language: "en"
+item_id: "356483"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4986
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:32:01.274000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "81c52b809d3037c6ae786109a4b7ed84c01794ca6b6800016147075cd08ecbdf"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 876958 Ontario Limited v. The Queen
+
+- Citation: 2018 TCC 253
+- Decision date: 2018-12-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4986, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+876958 Ontario Limited v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-12-14
+Neutral citation
+2018 TCC 253
+File numbers
+2018-276(IT)I
+Judges and Taxing Officers
+Ronald MacPhee
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2018-276(IT)I
+BETWEEN:
+876958 ONTARIO LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on November 14, 2018, at Hamilton, Ontario
+Before: The Honourable Justice Ronald MacPhee
+Appearances:
+Counsel for the Appellant:
+Bobbie A. Walker
+Counsel for the Respondent:
+Kevin Hong
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal from the reassessments made under the Income Tax Act for the 2013 and 2014 taxation years is allowed in its entirety and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that all of the rental expenses were paid to produce income and were reasonable.
+The parties will be responsible for their own costs.
+Signed at Ottawa, Canada, this 14th day of December 2018.
+“R. MacPhee”
+MacPhee J.
+Citation: 2018 TCC 253
+Date: 20181214
+Docket: 2018-276(IT)I
+BETWEEN:
+876958 ONTARIO LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+MacPhee J.
+[1] This is an appeal from notices of reassessment dated October 24, 2017 in respect of the 2013 and 2014 taxation years, in which the Minister of National Revenue (the “Minister”) disallowed a portion of rental expenses claimed by 876958 Ontario Limited. The disallowed rental amounts in issue are $36,000 in the 2013 taxation year and $147,000 in the 2014 taxation year.
+[2] The issues before the Court were:
+a) whether the rental expenses in issue were incurred in their entirety by the appellant;
+b) if the expenses were incurred, were they incurred for the purpose of gaining or producing income from a business or property or in the alternative; would paragraph 18(1)(a) of the Income Tax Act (“Act”) apply to deny all or a portion of the rental expenses claimed; and
+c) whether a portion of the rental expenses claimed by the appellant in each year was unreasonable in the circumstances and therefore not deductible pursuant to section 67 of the Act.
+Facts:
+[3] Alfred Dyck testified on behalf of the appellant. He is the Chief Financial Officer of both the appellant and Alfco Holdings Inc. (“Alfco”). Mr. Dyck makes all decisions on behalf of both parties. The appellant and Alfco are related corporations pursuant to subsection 251(2) of the Act.
+[4] Since approximately 2008 Mr. Dyck has been in the cold storage business. In large part this involves storing food and wine for various businesses. The storage of these products occurs at a building now owned by Alfco, located on Four Mile Creek Road in Niagara-on-the-Lake (“Creek Road”).
+[5] Prior to December 2012, the appellant leased the Creek Road space from a third party, namely Cannery Park Developments Inc. (“Cannery Park”). Mr. Dyck held a minority share in Cannery Park. At that time, pursuant to a lease agreement, the appellant made rental payments of $10,000 a month to Cannery Park for the use of 34,000 square feet of space. This calculated to approximately $3.53 a square foot, annualized.
+[6] On December 12, 2012 Alfco purchased the Creek Road building. Immediately after the purchase, Alfco expanded Creek Road from 34,000 square feet to 43,000 square feet in size. Alfco also completed various upgrades within the warehouse, including renovating rooms and building freezers.
+[7] After the purchase of Creek Road in 2012, Alfco and the appellant entered into a new lease agreement dated December 28, 2012. This agreement required the appellant to pay $5,000 per month in rent as well as additional rent in order to pay off a $421,000 debt incurred by the landlord as part of the leasehold improvements undertaken by Alfco. Pursuant to the terms of the lease, the additional rent amount was to be paid by the tenant “as funds are available”. The agreement was to be in effect for five years and was signed by Mr. Dyck on behalf of all parties.
+[8] It is the vagueness of the new lease agreement that creates the conflict that brought this matter to Court. The only certainty in terms of rent amounts in the new agreement is that the appellant was obliged to pay $5,000 per month. In actuality, the tenant paid $46,000 for two months’ rent in 2013 and $207,000 for twelve months rent for the 2014 taxation year. In 2014, under the new agreement, the appellant paid $4.81 per square foot in rent.
+[9] At trial, no explanation, other than the matter “fell through the cracks” was given by Mr. Dyck as to why the landlord and tenant entered into a lease to pay $5,000 per month, plus an undetermined additional amount. Mr. Dyck testified that there was a verbal agreement in both 2013 and 2014 wherein the appellant would pay amounts in addition to the $5,000 per month.
+[10] In support of the appellant’s position that the rent amounts paid were reasonable, Mr. Dyck testified that during the 2013 and 2014 years the appellant had to rent additional food storage space from a company called Niagara Natural Fruit Storage. In these instances, the appellant paid $5 per square foot in rent.
+[11] The appellant spent considerable time at trial, explaining general ledger statements, banks statements and various financial disclosure documents of the appellant and Alfco. These documents were made exhibits at trial. This evidence was provided to show that the appellant had expensed and paid $46,000 and $207,000 in rent for the Creek Road property in the 2013 and 2014 taxation years respectively. Furthermore, the evidence showed that Alfco had received these amounts from the appellant and declared these payments as revenue in their financial statements. Based on this evidence, which was not successfully contradicted at trial, I have no doubt that the rent expenses of $46,000 and $207,000 were incurred by the appellant in the 2013 and 2014 years respectively.
+I. Analysis
+[12] The first two matters in dispute are easily answered in favour of the appellant. For the reasons set out in the paragraph above, I find that the rent expenses claimed by the appellant were incurred.
+[13] Concerning the second issue, paragraph 18(1)(a) of the Act provides a limit on the deductions permitted in the computation of income of a taxpayer by prohibiting the deduction of an expense except to the extent that it was made or incurred by the taxpayer for the purpose of gaining or producing income from a business or property.
+[14] The appellant has shown that the rent expenses in issue were paid for the purpose of gaining or producing income from a business or property. The appellant was in the business of providing the storage of food and wine to third parties.
+[15] In order to provide the food and wine storage services the appellant had to have use of the Creek Road facility. There was a direct link between the rental expense paid by the appellant and the income earned by the appellant. There is no question that the rent expenses were incurred to produce income.
+[16] The Crown’s argument concerning paragraph 18(1)(a) simply put is, why would a reasonable business man pay the amounts claimed to have been paid by the appellant when they have a signed lease requiring them to pay only $5,000 per month? The appellant has provided no documentation or calculations at any time to support the appellant paying more than $5,000 per month. Therefore any amounts paid in excess of $5,000 per month by the appellant were not paid to earn income.
+[17] Based on the evidence of Mr. Dyck, I do not agree. I accept that the entire amount the appellant has paid as rental payments to Alfco was done so in order to produce income. The rental payments were made by the appellant because the facilities were needed by the appellant for their business. Furthermore, I accept the evidence of the appellant based on Mr. Dyck’s business experience that the appellant believed the rental amounts being paid were reasonable.
+[18] Mr. Dyck’s testimony has persuaded me, on the balance of probabilities, that the appellant agreed verbally to pay $46,000 in 2013 and $207,000 in 2014 to Alfco as part of their lease obligation. Furthermore, the appellant did pay these amounts in the relevant time periods or shortly thereafter.
+[19] I now must determine whether, pursuant to section 67 of the Act, the Minister was correct to disallow a portion of the rental payments claimed by the appellant for the Creek Road property.
+[20] In doing so, I acknowledge that, as ably set out by the Crown, in a situation in which a taxpayer makes payments to non-arm’s-length persons, the amounts paid are often not the result of hard bargaining or influenced by market prices, but are motivated by tax reasons.
+[21] Section 67 of the Act prohibits the deduction of an expense except to the extent that the expense was “reasonable in the circumstances”. It deals with the quantity, not the purpose or nature of an expense. The provision attempts to limit “artificial” reduction of profit through deducting excessive amounts of expenses that are under the control of the taxpayer.
+[22] The limit for the Minister in applying section 67 was described in Gabco Ltd. v. Minister of National Revenue, 68 DTC 5210 at 5216, as follows:
+It is not a question of the Minister or his Court substituting its judgment for what is a reasonable amount to pay, but rather a case of the Minister or the Court coming to the conclusion that no reasonable business man would have contracted to pay such an amount having only the business consideration of the appellant in mind.
+[23] Whether an amount is “reasonable in the circumstances” is a question of fact. As discussed below, reasonableness can be tested by comparison with amounts paid in similar circumstances in other businesses of the same kind, or amounts that would be paid in the absence of special relationships or personal elements.
+[24] This case would have been fairly easy to decide were it not for the lack of certainty in the December 28, 2012 lease agreement. As already stated, I accept that some amount of lease expenses are properly deducted pursuant to paragraph 18(1)(a) of the Act.
+[25] The appellant has demonstrated, on the balance of probabilities, that a reasonable business person would pay approximately $5 per square foot for the Creek Road property.
+[26] I have come to this conclusion based upon the following facts:
+a) the appellant paid $10,000 per month ($3.53 per square foot) when the facility was one third smaller and prior to updates to the Creek Road facility;
+b) the rent amounts expensed by the appellant were in fact paid by the appellant and received by Alfco during the years in question;
+c) the appellant paid $5 per square foot to Niagara Natural Fruit Storage in 2013 and 2014, a very similar rental space;
+d) the amount allowed by the Minister, $5,000 per month, or $1.39 per square foot is far less than a reasonable business person would be willing to lease the Cold Creek space for; and
+e) I accept the testimony of Mr. Dyck that both the landlord and tenant, both represented by him, had agreed, pursuant to the December 28, 2012 lease agreement, that the appellant pay an amount in addition to $5,000 per month. This is corroborated through the various financial statements put in evidence that show the amounts in issue being paid throughout the tax years in question.
+[27] In allowing the appeal, I note that the appellant has paid slightly more than $5 a square foot in 2013 and less than $5 a square foot in 2014.
+[28] It is unfortunate that the appellant has not properly maintained their books and records, as required under section 230 of the Act. If they had done so, there would be proper documentation to support the rent payments in excess of $5,000 per month. That being said, section 67 of the Act should not be used to disallow an expense in order to enforce an administrative obligation of a taxpayer.
+[29] Therefore, for the reasons set out above, for the 2013 and 2014 taxation years I accept that the entirety of the rental expenses claimed to have been paid by the appellant were in fact paid, and the payments were made to produce income. In addition, I find that the rental amounts paid by the appellant are reasonable.
+[30] I therefore allow the appeal in its entirety. The parties will be responsible for their own costs.
+Signed at Ottawa, Canada, this 14th day of December 2018.
+“R. MacPhee”
+MacPhee J.
+CITATION:
+2018 TCC 253
+COURT FILE NO.:
+2018-276(IT)I
+STYLE OF CAUSE:
+876958 ONTARIO LIMITED v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Hamilton, Ontario
+DATE OF HEARING:
+November 14, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Ronald MacPhee
+DATE OF JUDGMENT:
+December 14, 2018
+APPEARANCES:
+Counsel for the Appellant:
+Bobbie A. Walker
+Counsel for the Respondent:
+Kevin Hong
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Bobbie A. Walker
+Firm:
+Bobbie A. Walker Professional Corporation
+St. Catharines, Ontario
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

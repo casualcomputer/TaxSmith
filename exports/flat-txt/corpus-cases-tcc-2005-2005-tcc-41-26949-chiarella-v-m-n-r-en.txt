@@ -1,0 +1,166 @@
+Title: Chiarella v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26949/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-41-26949-chiarella-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2005-01-21
+
+# Chiarella v. M.N.R.
+
+- Citation: 2005 TCC 41
+- Decision date: 2005-01-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 559, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chiarella v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-01-21
+Neutral citation
+2005 TCC 41
+File numbers
+2004-1897(EI)
+Judges and Taxing Officers
+Sylvio J. Savoie
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2004-1897(EI)
+BETWEEN:
+ROSANNA CHIARELLA,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 24, 2004 at Montréal, Quebec,
+Before: The Honourable S.J. Savoie, Deputy Judge
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Emmanuelle Faulkner
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Grand-Barachois, New Brunswick, this 21st day of January 2005.
+"S.J. Savoie"
+Savoie, D.J.
+Citation: 2005TCC41
+Date: 20050121
+Docket: 2004-1897(EI)
+BETWEEN:
+ROSANNA CHIARELLA,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Savoie, D.J.
+[1] This appeal was heard at Montréal, Quebec, on November 24, 2004.
+[2] This is an appeal from a decision of the Minister of National Revenue (the "Minister") wherein he informed the Appellant that while she was working for Dr. George Papanastasoulis, the Payer, from November 2, 2002 to July 18, 2003, the period under review, her employment was not insurable.
+[3] The Minister further informed the Appellant that having regard to all the circumstances, it is not reasonable to conclude that she and the Payer would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[4] In reaching his decision, the Minister relied on the following assumptions of fact:
+a) the Payer operates an Orthodontic clinic in Kirkland; (admitted)
+b) the Payer is the Appellant's husband; (admitted);
+c) the Payer has 6 employees, 4 dental technicians, a secretary and a bookkeeper-accountant; (admitted)
+d) the Appellant was hired as a bookkeeper; (denied)
+e) the Appellant's tasks included doing the bookkeeping, preparing the payroll, handling government paperwork and correspondence, banking transactions and the supervision of the secretary; (denied)
+f) the dental technicians were under the supervision of the Payer; (admitted)
+g) the Payer retained the services of an external accountant for the preparation of the annual statements and the personal tax return of the Payer; (admitted)
+h) the Appellant performed the majority of her tasks at the clinic; (admitted)
+i) the Appellant's work schedule was Monday to Friday from 9:00 a.m. to 5:00 p.m.; (admitted)
+j) the Appellant received an annual salary of $70,000.00; (admitted)
+k) the remuneration received by the Appellant was substantially higher than the remuneration received by the other workers performing similar tasks; (denied)
+l) in 2002, according to the "Institut de la statistique du Québec" employment similar to that of the Appellant ranges from $33,398 to $43,371 per year; (denied)
+m) on September 4, 2004, the Payer declared to a representative of the Respondent that an arm's length person would be paid a maximum of $55,000 per year to do the same work as the Appellant; (admitted)
+n) the Appellant's remuneration was not reasonable taking into account the volume of work and the remuneration received by other workers performing similar functions and responsibilities; (denied)
+o) the Appellant stopped working for the Payer as she left for a maternity leave; (admitted)
+p) subsequently to the Appellant's departure, the Payer did not replace the Appellant, her tasks were performed by the secretary and the external accountant. (denied)
+[5] The Appellant and the Payer testified that the Appellant was more than just a bookkeeper. She was the in-house accountant who also coordinated the luncheons and seminars of the Payer. They described the Appellant's functions as those of a treatment coordinator. They also both stated that the salary of the Appellant was determined in consultation with the Payer's accountant. The Appellant does not hold a degree in accounting although she took some courses in accountancy at Concordia Universityand worked for a chartered accountant for five years.
+[6] The Appellant's salary in 2001 was $47,000 per year prior to her employment with the Payer. In 2002 and 2003, while working for the Payer, her salary was $70,000 per year. She left her employment with the Payer in July of 2003 on a maternity leave. The evidence disclosed that when she left her previous employment with Scania Imports Ltd., her salary was $47,000 when the company was "in growth mode" which necessitated the hiring of two people to replace her. Scania Imports Ltd. was prepared to take her back after her maternity leave at an annual salary of $65,000. This is documented in Exhibit A-1 filed in evidence at the hearing.
+[7] Additional facts gathered by the investigation leading up to this appeal established that subsequent to the Appellant's departure from her employment for the Payer, her tasks and responsibilities were performed by the secretary, the external accountant and the Payer himself. Following her maternity leave, the Appellant was rehired by the Payer and her salary in 2004 was $47,000.
+[8] Following the investigation, the Minister determined that there existed an employer/employee relationship between the Payer and the Appellant. However, because the Payer is the Appellant's husband, this is a non-arm's length relationship, pursuant to section 251 of the Income Tax Act. The Minister then concluded that the employment of the Appellant is an excluded employment under paragraph 5(2)(i) of the Employment Insurance Act.
+[9] The Appellant is asking the Court to set aside the decision of the Minister who relied on paragraphs 5(1)(a) and 5(2)(i), subsections 5(3) and 93(3) of the Employment Insurance Act as applicable to the period in question and on sections 251 and 252 of the Income Tax Act. The Minister concluded that having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is not reasonable to conclude that the Appellant and the Payer would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[10] Having conducted his investigation, the Minister concluded that under paragraph 5(2)(i) of the Employment Insurance Act, the Appellant's employment was not insurable because she and the Payer were not dealing with each other at arm's length since it was established that the Payer is the Appellant's husband.
+[11] For the purposes of this exercise, it is useful to refer to the relevant provisions of the Income Tax Act and the Employment Insurance Act. They are as follows:
+Section 251 of the Income Tax Act reads in part as follows:
+Section 251. Arm's length.
+(1) For the purposes of this Act,
+(a) related persons shall be deemed not to deal with each other at arm's length; and
+(b) it is a question of fact whether persons not related to each other were at a particular time dealing with each other at arm's length.
+(2) Definition of "related persons". For the purpose of this Act, "related persons", or persons related to each other, are
+(a) individuals connected by blood relationship, marriage or adoption;
+(b) a corporation and
+(i) a person who controls the corporation, if it is controlled by one person,
+(ii) a person who is a member of a related group that controls the corporation, or
+(iii) ay person related to a person described in subparagraph (i) or (ii); and
+...
+Section 5 of the Employment Insurance Act reads in part as follows:
+(1) Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+...
+(2) Insurable employment does not include:
+...
+(i) employment if the employer and employee are not dealing with each other at arm's length.
+(3) For the purposes of paragraph (2)(i),
+(a) the question of whether persons are not dealing with each other at arm's length shall be determined in accordance with the Income Tax Act; and
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm's length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[12] The Federal Court of Appeal has set down guidelines to follow when dealing with a problem such as the one in the case at bar. Marceau, J. speaking for the Court, stated the following in the case of Légaré v. Canada(Minister of National Revenue - M.N.R.), [1999] F.C.J. No. 878:
+The Court is not mandated to make the same kind of determination as the Minister and thus cannot purely and simply substitute its assessment for that of the Minister: that falls under the Minister's so-called discretionary power. However, the Court must verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so, it must decide whether the conclusion with which the Minister was "satisfied" still seems reasonable.
+[13] Let us examine the facts before this Court under the criteria listed in paragraph 5(3)(b) of the Employment Insurance Act.
+[14] In the exercise of his discretion under paragraph 5(3)(b) of the Employment Insurance Act, the Minister did not encounter any particular difficulty in acknowledging one of the listed circumstances as sustaining the test of similarity with those in an arm's length relationship.
+[15] Indeed, the Minister concluded that with respect to the nature and importance of the work performed, he was satisfied that it was important to the proper functioning of the operations of the Payer, but in his analysis of the terms and conditions of employment of the Appellant, he discovered that the Payer did not replace the Appellant when she left on her maternity leave. Her tasks were assumed by the secretary, the external accountant and the Payer himself.
+[16] In his analysis of the duration of the work period, the Minister discovered that the Appellant had left her employment on a maternity leave and determined that this analysis was no longer relevant nor necessary.
+[17] The other circumstance listed in paragraph 5(3)(b) with which the Minister had some difficulty is the remuneration paid.
+[18] The evidence established that the Payer himself, in response to a question put to him by the insurability agent, estimated the maximum salary of an arm's length employee doing the same work as the Appellant at $55,000 per year.
+[19] This response by the Payer greatly impressed the insurability agent as well as the appeals officer who both stated that although the Minister did have a discretion when analyzing the working conditions, such a gap between the existing salary and the comparable in the industry was simply not justified.
+[20] In response to the Payer's contention that the Appellant was more than a bookkeeper, the Minister took into consideration the additional tasks described by the Appellant and the Payer and the latter went out in the field to find the equivalent and the closest job description he could come up with is the one of a "Professionnelle de gestion financière". The Payer then went to a chart prepared by the "Institut des statistiques du Québec" and found its corresponding salary range which at Level I is set between $33,398 and $43,371 per year. From this, he arrived at an average of $38,385 which, in his opinion, was the appropriate salary under that category.
+[21] The Minister then compared this figure with the $70,000 and determined that the Appellant's $70,000 salary was 80% higher than the existing salary in the industry.
+[22] The appeals officer, Paul Hyland, explained to the Court that in this exercise, the Minister "has to use what the labour market dictates". He further stated that in his research for a comparable employment in the labour market, he came up with a job description matching the one given to him by the Appellant.
+[23] The chart prepared by the "Institut des statistiques du Québec" was filed in evidence and marked Exhibit R-3.
+[24] The onus is on the Appellant to prove that the Minister's assumptions of fact are erroneous. This she has failed to do. Indeed, she admitted most of these assumptions and the evidence produced did not amount to a significant challenge with respect to the assumptions of the Minister which she attempted to clarify.
+[25] Earlier this Court cited the decision of the Federal Court of Appeal in Légaré, supra, and the guidelines to follow in the determination of situations such as the one before me.
+[26] The Federal Court of Appeal again offered some guidance in this exercise in the case of Pérusse v. Canada(Minister of National Revenue - M.N.R.), [2000] F.C.J. No. 310 when it held as follows:
+The function of an appellate judge is thus not simply to consider whether the Minister was right in concluding as he did based on the factual information which Commission inspectors were able to obtain and the interpretation he or his officers may have given to it. The judge's function is to investigate all the facts with the parties and witnesses called to testify under oath for the first time and to consider whether the Minister's conclusion, in this new light, still seems "reasonable" (the word used by Parliament). The Act required the judge to show some deference towards the Minister's initial assessment and, as I was saying, directs him not simply to substitute his own opinion for that of the Minister when there are no new facts and there is nothing to indicate that the known facts were misunderstood. However, simply referring to the Minister's discretion is misleading.
+[27] In light of the above, this Court must conclude that the employment of the Appellant is an excluded employment under paragraph 5(2)(i) of the Employment Insurance Act.
+[28] Furthermore, this Court concludes that the Minister correctly exercised his discretion under paragraph 5(3)(b) of the Employment Insurance Act.
+[29] Having heard the evidence adduced at this hearing and having examined the documents produced, this Court is of the view that the Minister's conclusion, when considered with the evidence brought before it at this hearing, still seems reasonable.
+[30] Therefore, this Court does not deem appropriate, in the circumstances, to interfere with the Minister's determination.
+[31] Consequently, the appeal is dismissed and the Minister's decision is confirmed.
+Signed at Grand-Barachois, New Brunswick, this 21st day of January 2005.
+"S.J. Savoie"
+Savoie, D.J.
+CITATION:
+2005TCC41
+COURT FILE NO.:
+2004-1897(EI)
+STYLE OF CAUSE:
+Rosanna Chiarella and M.N.R.
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+November 24, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable S.J. Savoie,
+Deputy Judge
+DATE OF JUDGMENT:
+January 21, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Emmanuelle Faulkner
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims
+Deputy Attorney General of Canada
+Ottawa, Canada

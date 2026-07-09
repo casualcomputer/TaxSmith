@@ -1,0 +1,133 @@
+Title: Archibald c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/231654/index.do
+Corpus path: corpus/cases/tcc/2017/2017-cci-96-231654-archibald-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2017-05-30
+
+# Archibald c. La Reine
+
+- Citation: 2017 CCI 96
+- Decision date: 2017-05-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2134, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Archibald c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-05-30
+Référence neutre
+2017 CCI 96
+Numéro de dossier
+2016-3189(IT)I
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-3189(IT)I
+ENTRE :
+KELLY-JEAN ARCHIBALD,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 17 mai 2017, à Toronto (Ontario).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me Brad Bechard
+JUGEMENT
+Pour les motifs du jugement ci-joints, l’appel relatif à la cotisation au titre de la Loi de l’impôt sur le revenu pour l’année d’imposition 2014 est rejeté, sans frais.
+Signé à Ottawa, Canada, ce 30e jour de mai 2017.
+« Patrick Boyle »
+Juge Boyle
+Référence : 2017 CCI 96
+Date : 20170530
+Dossier : 2016-3189(IT)I
+ENTRE :
+KELLY-JEAN ARCHIBALD,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Boyle
+[1] Le présent appel, instruit sous le régime de la procédure informelle, oblige la Cour à décider si Mme Archibald fréquentait l’université à temps plein pendant qu’elle faisait ses études de maîtrise en administration des affaires à l’Université de Liverpool, dans le cadre du programme d’apprentissage en ligne de cet établissement. Pour pouvoir demander le crédit d’impôt pour études, il est nécessaire d’étudier à temps plein si l’université que l’on fréquente se trouve à l’étranger.
+[2] Le présent appel se rapporte à l’année d’imposition 2014, soit la première année d’études de Mme Archibald en vue d’obtenir une maîtrise en administration des affaires (« MBA »). Ses cours ont été offerts pendant les sept derniers mois de cette année-là. Elle a maintenant terminé ses études de MBA et elle obtiendra son diplôme au mois de juillet de la présente année. Pendant toute cette période, elle a travaillé à temps plein au Humber College, à Toronto, et elle a obtenu son diplôme de MBA en vue de poursuivre une carrière de professeure à temps plein au sein de cet établissement.
+[3] Mme Archibald a obtenu un baccalauréat en enseignement et une maîtrise en enseignement auprès d’universités canadiennes bien connues et de bonne réputation, dans les deux cas dans le cadre d’un programme d’enseignement à distance. Une de ces universités canadiennes offre des programmes d’enseignement sur le campus et à distance; l’autre n’offre des programmes d’enseignement qu’à distance.
+[4] L’Université de Liverpool (l’« Université ») est un établissement bien connu et de bonne réputation au Royaume-Uni. Le programme de MBA que Mme Archibald a récemment suivi avec succès est offert à la fois sur le campus et en ligne. L’Université de Liverpool décrit son programme d’apprentissage à distance comme un programme en ligne.
+[5] L’Université a fourni à Mme Archibald un feuillet de renseignements TL11A de l’Agence du revenu du Canada (« ARC »), qui indique clairement que les mois d’études qu’elle a suivis dans l’année étaient à temps partiel et qu’aucun n’était à temps plein.
+[6] Mme Archibald a expliqué que l’Université a classé l’apprentissage en ligne offert dans le cadre de son programme de MBA comme étant à temps partiel, parce qu’il s’agit d’un programme d’une durée d’un an pour les étudiants qui fréquentent son campus, alors que, pour ceux qui suivent le programme en ligne, les cours s’étalent sur une période de trois ans.
+[7] Mme Archibald a également déposé en preuve l’échange de courriels qu’elle a eu avec l’agent du Bureau de trésorerie de l’Université et dans lequel est expliqué le classement des études à temps partiel sur son feuillet TL11A. Le courriel de cet agent confirme l’explication de Mme Archibald :
+[traduction]
+Pour ce qui est du classement à temps plein/à temps partiel, c’est l’établissement décernant le diplôme qui prend cette décision. Cela s’explique par le rythme auquel les crédits s’accumulent. Les diplômes de maîtrise à temps plein durent une année universitaire au Royaume-Uni (cela inclut le mémoire), et les programmes en ligne sont suivis en trois ans en moyenne. Il est impossible pour les étudiants d’étudier assez rapidement pour qu’on considère qu’ils étudient à temps plein. […]
+[8] Le programme de MBA oblige à acquérir avec succès 180 crédits pour obtenir le diplôme, et ce, que les études soient suivies en ligne ou sur le campus. Les 180 crédits s’acquièrent en une seule année universitaire si l’on suit le programme sur le campus. Les crédits qui s’appliquent aux cours offerts en ligne dans chaque année sont de 30 crédits pour la première année et de 75 crédits pour chacune des deux années suivantes.
+[9] Le programme de MBA de l’Université est offert en huit modules de cours. Tous, sauf un, durent huit semaines. Chaque module de huit semaines vaut 15 crédits. Comme l’indique la documentation de l’Université :
+[traduction]
+Le temps d’apprentissage qu’indique une valeur en crédits est fondé sur une estimation qui recourt au concept des heures d’apprentissage théorique. Le nombre d’heures d’apprentissage théorique donne une idée approximative du temps qu’il faudra, en moyenne, à un étudiant ordinaire pour atteindre les résultats d’apprentissage (ce que vous saurez, comprendrez et serez capable de faire après avoir suivi l’apprentissage avec succès) qui sont spécifiés pour le module ou le programme.
+L’estimation des heures d’apprentissage théorique n’inclut pas seulement les cours officiels; elle comprend aussi le temps consacré à la préparation des cours, ainsi que les lectures et les études personnelles ou indépendantes, plus la révision et l’exécution des travaux de cours que le module exige.
+Au R.-U., un crédit représente 10 heures d’apprentissage théorique. Les établissements se servent de ce guide comme base pour fixer la valeur en crédits d’un module ou d’un programme avant de l’offrir aux étudiants. Ainsi, un module qui, estime-t-on, comporte 150 heures d’apprentissage théorique se verra attribuer 15 crédits, et un module comportant 400 heures d’apprentissage théorique se verra attribuer 40 crédits.
+Que vous preniez plus ou moins de temps que celui qui a été estimé pour suivre l’apprentissage au complet, on vous accordera quand même la valeur en crédits fixée – ni plus, ni moins.
+[…]
+[10] C’est donc dire qu’un module de huit semaines et de quinze crédits comporte censément 150 heures d’apprentissage théorique – ou un peu moins que 20 heures par semaine.
+[11] Dans sa déposition, Mme Archibald a dit estimer qu’elle avait accompli de 25 à 40 heures de travail chaque semaine dans le cadre de ses cours de MBA. Dans la lettre qu’elle a envoyée à l’ARC pour réfuter la cotisation, elle a écrit avoir consacré au programme une période de 20 à 25 heures par semaine et, plus tard, de 25 à 30 heures par semaine. Dans le courriel qu’elle a envoyé au Bureau de la trésorerie de l’Université, elle a dit avoir consacré au programme une période d’environ 30 heures par semaine.
+[12] Nul ne conteste qu’un étudiant peut fréquenter une université à temps plein et être inscrit à un programme d’apprentissage à distance ou en ligne. Nul ne conteste qu’un étudiant peut, à la fois, travailler à plein temps et poursuivre ses études à plein temps. Nul ne conteste qu’il est possible de suivre des études supérieures à plein temps même s’il n’existe pas d’heures prévues pour les cours, les exposés, les laboratoires, les groupes de discussion, etc. que l’on associe habituellement à des études de premier cycle. À l’audience, la Couronne a reconnu que, contrairement à ce que l’ARC a présumé au moment d’établir la nouvelle cotisation de Mme Archibald, celle-ci, en fait, n’avait reçu pour ses études aucune aide financière du Humber College. La seule question à trancher est celle de savoir si l’Université a classé correctement ses études comme étant à temps partiel ou si son chiffre estimatif de, disons, 30 heures par semaine environ, permet de dire qu’elle a fréquenté cet établissement à temps plein.
+[13] Je suis d’avis que le classement à temps partiel de l’Université est exact. La description qu’en fait l’Université est raisonnée et sensée dans les circonstances. Le classement est fixé de manière objective, et il commence par la définition que l’on donne au R.-U. d’un crédit universitaire, lequel comporte dix heures d’apprentissage théorique. Enfin, l’Université compare son taux d’accumulation de crédits dans le cadre du programme de MBA qui est offert sur le campus au taux d’accumulation de crédits qui s’applique au programme de MBA qui est offert en ligne, lequel comporte les mêmes cours, modules, crédits et autres exigences. Étant donné que le taux d’accumulation de crédits pour les études suivies en ligne équivaut à 30 à 40 % du taux d’accumulation de crédits pour les études suivies sur le campus, il est raisonnable de conclure que l’on ne peut pas dire qu’il s’agit d’une fréquentation à temps plein.
+[14] Je ne puis admettre que la loi envisage que la caractérisation de la fréquentation d’une université à temps plein ou à temps partiel dépend du temps que l’étudiant doit consacrer – ou décide de consacrer – à ses études. Une telle démarche empêcherait les universités de faire les calculs nécessaires pour produire les feuillets de renseignements requis. Cela obligerait la Cour à décider quel est le seuil de la fréquentation à temps plein et à tracer une ligne de démarcation entre la fréquentation à temps plein et la fréquentation à temps partiel. Fait important, il serait irréaliste de s’attendre à ce qu’un tribunal recoure à une telle démarche pour retenir simplement l’estimation très approximative et par ailleurs injustifiée d’un étudiant particulier quant aux heures qu’il consacre chaque semaine en moyenne à ses études. Tout le monde apprend différemment et à des vitesses différentes. Il n’y a rien de répréhensible à cela, et on le constate très aisément. Toutefois, il n’y a aucune raison de croire que le fait de classer la fréquentation universitaire d’un étudiant comme étant à temps plein ou à temps partiel pour les besoins du crédit d’impôt pour études devrait être différent à cause de cela.
+[15] Ma conclusion concorde avec celle que le juge Paris a tirée dans la décision Ferre c. La Reine, 2010 CCI 593 :
+26 À mon avis, il revient à l’institution fréquentée par le particulier de déterminer si celui‑ci est inscrit comme étudiant à plein temps et fréquente l’établissement à plein temps. L’établissement contrôle ses inscriptions et détermine le statut de ses étudiants, soit à plein temps ou à temps partiel, en fonction de la charge de cours prise par l’étudiant. En l’espèce, l’Université a certifié, dans le formulaire TL11A, que l’appelant était inscrit comme étudiant à temps partiel en 2008, et l’appelant n’a pas démontré que ces renseignements sont inexacts. Je n’accorde aucun poids au témoignage de l’appelant voulant qu’une personne inconnue de l’Université lui a dit que son programme était considéré par l’Université comme un programme à temps partiel parce qu’il était offert en ligne. Cet argument constitue du ouï‑dire; en outre, le poste que cette personne inconnue occupait à l’Université n’a pas été établi et l’appelant n’a pas démontré si cette personne savait pourquoi le programme de l’appelant était considéré comme un programme à temps partiel. De plus, les documents écrits de l’Université montrent que le temps consacré aux travaux devrait être de 20 à 25 heures par semaine, ce qui correspond au statut à temps partiel.
+27 La signification de l’expression « fréquente […] à plein temps » à l’alinéa 118.5(1)b) ainsi que les versions précédentes de cette disposition ont fait l’objet de plusieurs décisions de la Cour. Dans l’arrêt R. v. Gaudet, la Cour d’appel fédérale a affirmé que l’expression « à plein temps » était « une expression difficile et, peut‑être, impossible à définir de façon précise. » Cependant, la Cour d’appel a conclu que l’épouse du contribuable, qui avait suivi un cours du soir de sept heures de classes et exigeant dix heures d’études par semaines, n’était pas une étudiante à plein temps, suivant l’ancien alinéa 110(1)h) de la Loi.
+[…]
+30 Quoique je convienne avec la Commission de révision de l’impôt qu’il puisse être possible pour une personne de mener plus d’une activité à plein temps à la fois, je ne crois pas que la question de savoir si un étudiant fréquente à plein temps une université peut être résolue seulement en examinant le temps consacré par un contribuable à ses cours ou à d’autres activités connexes. Si tel était le cas, une personne ne suivant qu’un seul cours mais consacrant l’équivalent d’une semaine de travail complète à ses travaux pourrait être considérée comme fréquentant un établissement à plein temps, tandis qu’une personne ayant une charge de cours complète mais ne consacrant que quelques heures par jour à ses travaux ne serait pas considérée comme étudiant à plein temps. Je ne crois pas que c’était l’intention du législateur quant aux dispositions relatives au crédit d’impôt pour frais de scolarité et au crédit d’impôt pour études de la Loi, puisque cela serait extrêmement difficile à administrer. À mon avis, il est nécessaire d’examiner des critères objectifs pour déterminer ce qui constitue un statut à plein temps. Le meilleur indicateur serait l’attente de l’université à l’égard de l’étudiant et le nombre d’heures de travail qui doivent être consacrées aux cours de la façon dont le programme est conçu. Dans la présente affaire, la preuve démontre que l’Université s’attendait à ce que le programme de MBA en ligne exige de 20 à 25 heures de travail par semaine. On ne sait pas avec certitude si ces heures s’appliquaient au travail consacré par l’appelant à son mémoire, mais le fait que le formulaire TL11A montre que l’appelant était inscrit à un programme à temps partiel en 2008 donne à penser que le temps à consacrer au mémoire était semblable au temps requis pour les travaux de ses cours. Par conséquent, je conclus que l’appelant ne fréquentait pas l’Université à plein temps et n’était pas inscrit en tant qu’étudiant à plein temps à l’Université en 2008, et qu’il n’a donc pas droit au crédit d’impôt pour frais de scolarité ni au crédit d’impôt pour études à plein temps.
+(La décision Ferre mettait également en cause le programme de MBA en ligne de l’Université de Liverpool.)
+[16] Mme Archibald a renvoyé la Cour à la décision Krause c. La Reine, 2004 CCI 594, à l’appui de la thèse selon laquelle le fait de consacrer de 22 à 36 heures par semaine constitue une fréquentation à temps plein. Cependant, dans cette décision, il ressort clairement que l’Université qualifiait la fréquentation comme étant à plein temps et que la principale question soumise au juge en chef adjoint Bowman (tel était alors son titre) consistait à savoir si l’on pouvait considérer de quelque façon que ce soit que le fait de suivre des cours en ligne correspondait à une fréquentation à plein temps.
+[17] Mme Archibald a également renvoyé la Cour à la décision McGrath c. La Reine, 2007 CCI 295, pour donner un autre exemple d’une affaire dans laquelle une période de 20 à 25 heures de travail par semaine était considérée comme une fréquentation à temps plein. Dans la décision McGrath, la preuve à laquelle le juge McArthur a souscrit était que l’Université considérait que Mme McGrath la fréquentait à temps plein. Ce n’est pas le cas en l’espèce.
+[18] Enfin, Mme Archibald a renvoyé la Cour à la décision du juge Bowie dans l’affaire Siddell c. La Reine, 2011 CCI 250, qui concernait là encore le programme de MBA en ligne de l’Université de Liverpool. Cependant, dans cette affaire, la Couronne ne contestait pas que M. Siddell était un étudiant à temps plein. La question soumise à la Cour consistait seulement à savoir si la condition, depuis lors abrogée, d’avoir suivi un cours de 13 semaines pour avoir droit au crédit d’impôt pour études était remplie.
+[19] La Cour ne s’est prononcée d’une manière contraire au classement particulier de l’université dans aucune de ces affaires, pas plus qu’elle n’a décidé qu’une période de travail de 20 à 30 heures par semaine constituait une fréquentation à temps plein.
+[20] En l’espèce, il n’est pas nécessaire de décider comment le classement à temps plein/à temps partiel devrait se faire dans le cas d’un étudiant fréquentant une université qui n’offre que des cours en ligne ou un enseignement à distance, qui peut inclure des exigences à remplir sur le campus, et qui n’offre pas tous ses cours sur le campus. Je ne pourrais pas décider ce qui serait raisonnable dans un tel cas, car je ne dispose d’aucune preuve à propos de la manière dont les universités de ce genre effectuent de telles déterminations, pas plus que de la manière dont elles attribuent des crédits à leurs cours, ni de la fréquence avec laquelle elles offrent les cours précis qui sont requis pour suivre un programme particulier, etc. Il est préférable de laisser cela à une autre affaire dans laquelle il sera question d’une université de ce genre et où les éléments de preuve nécessaires auront été soumis au tribunal.
+[21] Je rejette l’appel de Mme Archibald, parce que les faits et les circonstances qui la concernent ne répondent pas aux exigences qui sont énoncées dans la Loi de l’impôt sur le revenu au sujet du crédit d’impôt pour études.
+[22] Il convient de féliciter Mme Archibald pour la clarté de son exposé ainsi que pour le travail de préparation qu’elle a manifestement accompli à cette fin. D’après mes dix années d’expérience au sein de la magistrature, sa prestation se situait parmi les meilleures prestations offertes par des contribuables se représentant seuls devant la Cour, et elle a éclipsé celle de quelques avocats et de nombreux autres mandataires et représentants qui ont comparu devant moi. Sa préparation et son calme, la clarté de ses documents écrits, de son témoignage et de ses observations, ainsi que sa capacité de répondre aux questions en contre-interrogatoire, dénotent sans nul doute qu’elle doit être une excellente éducatrice.
+[23] L’appel est rejeté, sans frais.
+Signé à Ottawa, Canada, ce 30e jour de mai 2017.
+« Patrick Boyle »
+Juge Boyle
+RÉFÉRENCE :
+2017 CCI 96
+No DU DOSSIER DE LA COUR :
+2016-3189(IT)I
+INTITULÉ :
+KELLY-JEAN ARCHIBALD c. LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 17 mai 2017
+MOTIFS DU JUGEMENT :
+L’honorable juge Patrick Boyle
+DATE DU JUGEMENT :
+Le 30 mai 2017
+COMPARUTIONS :
+[EN BLANC]
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me Brad Bechard
+AVOCATS INSCRITS AU DOSSIER :
+[EN BLANC]
+Pour l’appelante :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

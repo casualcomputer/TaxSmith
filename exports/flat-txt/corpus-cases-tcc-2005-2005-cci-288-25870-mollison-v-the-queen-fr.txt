@@ -1,0 +1,195 @@
+Title: Mollison v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25870/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-288-25870-mollison-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2005-04-26
+
+# Mollison v. The Queen
+
+- Citation: 2005 CCI 288
+- Decision date: 2005-04-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3864, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mollison v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-04-26
+Référence neutre
+2005 CCI 288
+Numéro de dossier
+2003-1802(IT)G
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-1802(IT)G
+ENTRE :
+ALISTAIR N. MOLLISON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus le 13 avril 2005, à Toronto (Ontario)
+Par : L'honorable juge D. W. Beaubier
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Craig Maw
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l'égard des nouvelles cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1998, 1999 et 2000 sont rejetés.
+Signé à Calgary (Alberta), ce 26e jour d'avril 2005.
+« D. W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme ce 7e jour d'avril 2006.
+Mario Lagacé, jurilinguiste
+Référence : 2005CCI288
+Date : 20050426
+Dossier : 2003-1802(IT)G
+ENTRE :
+ALISTAIR N. MOLLISON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Beaubier
+[1] L'appel interjeté conformément à la procédure informelle a été entendu à Toronto (Ontario) le 13 avril 2005. L'appelant était le seul témoin.
+[2] Les paragraphes 9 à 14 inclusivement de la réponse à l'avis d'appel exposent les grandes lignes des questions en litige. Les voici :
+[TRADUCTION]
+9. Dans le calcul de son revenu pour les années d'imposition 1998, 1999 et 2000 (la « période visée » ), l'appelant a déduit les pertes locatives suivantes de son revenu :
+Année d'imposition
+1998
+1999
+2000
+Perte locative
+18 103 $
+14 497 $
+15 754 $
+10. Lorsqu'il a établi les nouvelles cotisations pour la période visée, le ministre du Revenu national (le « ministre » ), au moyen d'avis datés du 5 novembre 2001, a avisé l'appelant que l'impôt à payer pour la période visée avait augmenté, car les pertes locatives de 18 103 $, de 14 497 $ et de 15 754 $ respectivement avaient été refusées, étant donné qu'elles n'avaient pas été engagées ou effectuées en vue de tirer un revenu d'une entreprise ou d'un bien selon les dispositions des alinéas 18(1)a) et 18(1)h) de la Loi de l'impôt sur le revenu, L.R.C. 1985, chap. 1 (5e suppl.), dans sa version modifiée (la « Loi » ).
+11. L'appelant a déposé un avis d'opposition valide pour la période visée le 1er février 2002. Le ministre a envoyé à l'appelant un avis de ratification daté du 13 février 2002 dans lequel il ratifiait les nouvelles cotisations.
+12. Pour ratifier les nouvelles cotisations de l'appelant pour la période visée, le ministre s'est fondé, entre autres choses, sur les hypothèses suivantes :
+a) les faits admis et énoncés ci-dessus;
+b) en janvier 1993, l'appelant a acheté un chalet situé à Collingwood (Ontario) pour 223 000 $ (le « bien » );
+c) en 1993, l'appelant a obtenu un premier prêt hypothécaire de 215 000 $ à l'égard du bien;
+d) l'appelant a acheté le bien en vue de l'utiliser comme propriété de vacances familiales et comme bien de location commerciale;
+e) l'intention prédominante de l'appelant n'était pas de tirer un bénéfice du bien, il s'agissait plutôt d'utiliser le bien en tant que propriété de vacances familiales ;
+f) le bien pouvait seulement être loué lorsqu'il n'était pas utilisé personnellement par l'appelant ou sa famille;
+g) le bien était utilisé personnellement par l'appelant à Noël, au jour de l'An et à l'Action de grâce, et pendant la majorité des mois d'été;
+h) en juin 1995, l'appelant a eu recours à Sea and Ski Property Management ( « Sea and Ski » ) pour la gestion du bien;
+i) l'entente entre l'appelant et Sea and Ski prévoyait que le bien devait être loué selon un tarif de 750 $ la semaine pendant la haute saison;
+j) l'appelant a fourni à Sea and Ski un calendrier indiquant les périodes pendant lesquelles le bien pouvait être loué et les périodes pendant lesquelles il utilisait le bien à des fins personnelles, c'est-à-dire environ deux fins de semaine en mai, six semaines en juillet et en août, la fin de semaine de l'Action de grâce et deux semaines pendant la période des fêtes;
+k) en 1996, le revenu de location a augmenté, puis il est redescendu au cours des années suivantes;
+l) en 1998, le bien a été loué pendant 21 jours;
+m) en 1999, le bien a été loué pendant 16 jours;
+n) en 1998 et 1999, Sea and Ski n'a pas loué le bien à d'autres personnes que le gestionnaire de Sea and Ski, qui a loué le bien pour son usage personnel;
+o) l'appelant n'a pas cherché à avoir des locataires pour que le bien soit utilisé pendant toute l'année;
+p) l'appelant n'a pas changé son utilisation personnelle du bien pendant les périodes visées, mais il a eu recours à Sea and Ski pour faire commercialiser le bien pendant qu'il ne l'utilisait pas;
+q) l'appelant n'a pas changé son utilisation personnelle du bien pendant les périodes visées, malgré les pertes subies au fil des années;
+r) des pertes ont été subies à l'égard du bien au cours de chacune des années depuis son achat. De 1993 à 2000, l'appelant a subi les pertes suivantes à l'égard du bien :
+Année d'imposition
+Revenu
+Perte locative déduite
+1993
+2 500 $
+(5 481 $)
+1994
+NÉANT
+NÉANT
+1995
+NÉANT
+(5 143 $)
+1996
+4 300 $
+(11 985 $)
+1997
+1 845 $
+(11 874 $)
+1998
+1 750 $
+(18 103 $)
+1999
+1 650 $
+(14 497 $)
+2000
+1 200 $
+(15 754 $)
+TOTAL
+13 245 $
+(82 837 $)
+s) en 2001, le bien a été loué pendant la majeure partie de la saison de ski et il y avait encore une perte projetée;
+t) les pertes locatives de l'appelant à l'égard du bien n'ont pas été subies ou éprouvées en vue de tirer un revenu d'une entreprise ou d'un bien;
+u) les pertes locatives déduites à l'égard du bien étaient les frais personnels ou les frais de subsistance de l'appelant;
+v) le bien n'a pas été exploité d'une manière suffisamment commerciale pour constituer une source de revenu;
+w) l'appelant n'avait pas de plan d'activités pour le bien;
+x) l'appelant n'a pas changé les mesures qu'il avait prises pour faire commercialiser le bien lorsqu'il s'est avéré qu'elles n'étaient pas efficaces;
+y) rien n'indique que le bien peut être rentable;
+z) l'appelant n'avait pas d'attente de profit raisonnable à l'égard du bien pendant la période visée;
+aa) l'appelant n'avait pas d'attente de profit raisonnable au moment où il a acheté le bien;
+B. QUESTIONS EN LITIGE
+13. Voici les questions à trancher :
+a) l'appelant a-t-il le droit de déduire les pertes locatives de 18 103 $, de 14 497 $ et de 15 754 $ pour la période visée?
+b) les intérêts payés par l'appelant à l'égard du prêt hypothécaire sont-ils déductibles?
+C. DISPOSITIONS DE LA LOI INVOQUÉES
+14. Le ministre se fonde sur les articles 3 et 9, le paragraphe 248(1) et les alinéas 18(1)a), 18(1)h) et 20(1)c) de la Loi.
+[3] Les hypothèses 12 a), b), c), d), g), h), i), j), k), l), m), n), o), q), r), s), x) et aa) n'ont pas été réfutées par la preuve.
+[4] Depuis la date de l'achat du bien, celui-ci a toujours été détenu conjointement par l'appelant et son épouse. L'appelant a déduit toutes les pertes subies concernant le bien, mais il ne possédait que la moitié du bien. De plus, au moins une fois, comme le démontre la preuve (pièce A-1, onglet 28), un locataire a payé la location du bien en faisant un chèque à Mme Mollison. Par conséquent, s'il est conclu que l'appelant a droit aux pertes déduites, il ne peut déduire que la moitié des montants.
+[5] De plus, l'appelant a déduit une dépense de 2 600 $ en 1998 pour la construction d'une terrasse sur le bien. Il s'agit d'une dépense en capital et elle n'est en aucun cas déductible. L'appelant a aussi déduit une dépense de 980 $ en 1999 pour l'achat de dalles et de matériaux qui ont servi à la construction d'un chemin. Là aussi, il s'agit d'une dépense en capital qui n'est en aucun cas déductible.
+[6] Finalement, l'appelant travaillait chez Dupont. Aucun élément de preuve n'indique qu'il ait jamais personnellement loué un autre bien en vue de tirer un bénéfice. L'appelant prétend avoir effectué des calculs quand il a acheté le bien, mais la preuve ne permet pas d'établir qu'à ce moment-là l'appelant avait prévu tirer un bénéfice de la location du bien. Il a indiqué dans son témoignage que, lorsqu'il a décidé de louer le bien en 1995, il est entré en relation avec la société Sea and Ski pour qu'elle agisse à titre de mandataire. L'appelant et son épouse ont loué le bien à des personnes qu'ils connaissaient à leur travail en de rares occasions pour un tarif moins élevé que celui de Sea and Ski. Toutefois, ils n'ont pas eux-mêmes fait de publicité concernant le bien à louer. La Cour conclut donc qu'il n'y a pas d'indices laissant croire que l'appelant exploite une entreprise en l'espèce. Donc, s'il est conclu qu'il s'agit d'un bien « locatif » , le revenu gagné sera considéré comme un revenu tiré d'un bien et non pas comme un revenu (ou une perte) tiré d'une entreprise.
+[7] En ce qui concerne le reste des hypothèses figurant au paragraphe 12, la Cour conclut ce qui suit :
+e) Selon la preuve, l'intention de l'appelant au moment de l'achat du bien était d'avoir une propriété de vacances familiales. L'appelant a signalé que son offre d'achat (pièce A-2) comportait un contrat de location du bien au vendeur pour 500 $ par mois du 4 janvier au 14 mai 1993. Il n'a pas du tout loué le bien en 1994 ou en 1995. La première fois où l'appelant a montré qu'il avait vraiment l'intention de louer le bien est le moment où il a conclu la première entente de représentation avec Sea and Ski. Il a indiqué dans son témoignage qu'il a décidé d'avoir recours à Sea and Ski en 1995 quand il a découvert le marché locatif. Il connaissait alors les frais qui devaient être engagés pour l'exploitation du bien. Au paragraphe h), il est considéré que le premier contrat entre l'appelant et Sea and Ski a été conclu en juin 1995.
+f) Cette hypothèse n'a pas été niée par l'appelant et elle n'est pas réfutée.
+p) L'appelant n'a pas nié le fait qu'il n'a pas changé son utilisation personnelle du bien pendant les années visées. Au cours du contre-interrogatoire, il a dit qu'il a loué le bien pendant les périodes qu'il avait réservées pour son usage personnel, mais il n'a pas dit que cela avait nui à son utilisation du bien à des fins personnelles.
+t) Dans le calcul de ses dépenses à l'égard du bien en 1998, 1999 et 2000, l'appelant a estimé avoir utilisé le bien 70 jours par an ou 19,18 % de 365 jours (environ 20 %). Il a donc déduit 80,72 % des dépenses. Selon les hypothèses, le bien a été loué pendant 21 jours en 1998 et 16 jours en 1999. Ces hypothèses n'ont pas été réfutées. Le nombre de jours pendant lesquels le bien a été loué en 2000 ne fait pas partie de la preuve, mais l'appelant et son épouse ont loué le bien à des connaissances pour 500 $ la semaine, et il a déclaré un loyer de 1 200 $ pour indiquer que le bien avait été loué environ 17 jours en 2000, au maximum. Quand l'appelant louait lui-même le bien, il ne versait pas de commission à Sea and Ski.
+t), u), v) Les autres commentaires formulés à l'égard de ces hypothèses figurent dans l'exposé qui suit.
+w) L'hypothèse est vraie. Selon son témoignage, l'appelant n'a jamais établi un plan en vue de réaliser un bénéfice ou un plan d'activités pour le bien.
+y) L'appelant a effectué des versements considérables sur le prêt hypothécaire, ce qui a fait baisser le solde à environ 68 000 $ en 2004. Pour cette année-là, il a déclaré une perte de 4 000 $, y compris les intérêts hypothécaires payés. Cette hypothèse est encore vraie.
+z), aa) Les hypothèses sont traitées dans les paragraphes suivants.
+[8] La manière dont M. et Mme Mollison exerçaient leur droit de propriété du bien et exploitaient celui-ci comporte à tout le moins un aspect personnel important. Selon les critères énoncés par le juge Dickson dans l'arrêt Moldowan c. La Reine, [1978] 1 R.C.S. 480, l'appelant n'a pas établi de plan pour que son bien devienne rentable; il n'avait pas de formation ou d'expérience dans l'exploitation d'un bien locatif; à ce jour, il a subi des pertes considérables, sans tenir compte de la dépréciation du bien; et, dans son témoignage, il n'a pas indiqué avoir pris des mesures pour rendre le bien rentable. Le bien est situé dans la région de Collingwood (Ontario), une région de villégiature et de ski, et il est près des pistes de ski. Donc, les périodes que les Mollison ont réservées dans les calendriers produits correspondent toutes aux principales périodes où le bien peut être loué. Par conséquent, en raison de tout ce qui précède et de la conduite de l'appelant et de son épouse, le bien n'a jamais permis à l'appelant de réaliser un bénéfice pendant les années visées. Même aujourd'hui, il ne semble pas que le bien permette de réaliser un bénéfice.
+[9] Dans les circonstances, compte tenu de la conclusion selon laquelle l'acquisition et l'exploitation du bien comportent un aspect personnel très important, et compte tenu des conclusions énoncées au paragraphe 8, l'appelant ne satisfait pas au critère énoncé au paragraphe 60 de l'arrêt Stewart c. Canada, 2002 Carswell Nat., 1070 par la Cour suprême du Canada. C'est-à-dire que le bien ne pouvait pas être exploité d'une manière suffisamment commerciale pour constituer une source de revenu pendant les années visées par l'appel, et c'est encore le cas aujourd'hui.
+[10] En se basant sur le témoignage de l'appelant, la Cour conclut que, contrairement à l'hypothèse 12d), l'intention de l'appelant au départ, c'est-à-dire au moment où les Mollison ont acheté le bien, était entièrement personnelle. Il est évident que la location du bien au vendeur en 1993 était due au hasard. En effet, l'appelant a loué le bien en raison de la date de l'achat et parce que cela arrangeait le vendeur. C'est seulement en 1995, quand ils ont chargé Sea and Ski de louer le bien et quand M. Mollison a commencé à demander des déductions fiscales à son égard, que les Mollison ont établi le plan de location du bien.
+[11] Pour ces motifs, l'appel est rejeté.
+[12] Aucuns dépens ne sont adjugés.
+Signé à Calgary (Alberta), ce 26e jour d'avril 2004.
+« D. W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme ce 7e jour d'avril 2006.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2005CCI288
+NO DU DOSSIER DE LA COUR :
+2003-1802(IT)I
+INTITULÉ DE LA CAUSE :
+Alistair N. Mollison
+LIEU DE L'AUDIENCE :
+Toronto (Ontario)
+DATE DE L'AUDIENCE :
+Le 13 avril 2005
+MOTIFS DU JUGEMENT PAR :
+L'honorable juge Beaubier
+DATE DU JUGEMENT :
+Le 26 avril 2005
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Craig Maw
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l'appelant :
+Nom :
+Étude :
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,99 @@
+Title: Warren v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25083/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-357-25083-warren-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-05-21
+
+# Warren v. The Queen
+
+- Citation: 2003 TCC 357
+- Decision date: 2003-05-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2493, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Warren v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-05-21
+Neutral citation
+2003 TCC 357
+File numbers
+2001-4454(GST)I
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Citation: 2003TCC357
+Date: 20030521
+Docket: 2001-4454(GST)I
+BETWEEN:
+BRENDA DIANN WARREN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+SUPPLEMENTARY REASONS FOR JUDGMENT
+Little, J.
+[1] The above appeal was heard on June 10, 2002 in Kamloops, British Columbia.
+[2] On July 30, 2002 Judgment and Reasons for Judgment were mailed to the parties.
+[3] In paragraph 12 of the Reasons for Judgment I noted that I had accepted the testimony of various parties and I had concluded that Dennis owed the Appellant at least $38,216.90 prior to the transfer by Dennis of his equity in the Properties to the Appellant.
+[4] In paragraph 13 of the Reasons for Judgment I stated as follows:
+The appeal is to be allowed and the Minister is instructed to reduce the G.S.T. of $71,500.00 assessed against the Appellant by deducting therefrom the amount of $38,216.90. There will be no further adjustments to the Notice of Reassessment.
+[emphasis added]
+[5] By letter dated the 16th day of August 2002 Mr. Kenneth Hauser, counsel for the Appellant, wrote to the Tax Court. In his letter, Mr. Hauser suggested that the Reasons for Judgment only dealt with the point that the Appellant had given consideration to Mr. Warren in the amount of $38,216.90. Mr. Hauser stated in his letter that the Judgment does not deal with the following issue:
+Whether the Appellant's liability should be reduced by $33,500 to reflect Mr. Warren's equity in the two properties only being $38,000 due to the Appellant's submission that the entire proceeds from the mortgage attached to 1695 Pine Grove went to Mr. Warren's business.
+[6] By letter dated the 28th day of August 2002 Michael Taylor, counsel for the Respondent, wrote to the Tax Court in connection with the comments made by Mr. Hauser in his letter of August 22, 2002. In his letter Mr. Taylor said:
+... the Respondent submits that the issue raised in Mr. Hauser's letter was fully argued before Judge Little.
+Mr. Taylor referred me to several Court decisions.
+[7] In connection with the claim by counsel for the Appellant that the Appellant's liability should be reduced by $33,500.00 to reflect the fact that the entire proceeds from the mortgage went to Mr. Warren's business, I have carefully reconsidered the following testimony.
+Mr. Hauser, Counsel for the Appellant, asked Mr. Warren questions regarding the mortgage registered against the home at 1695 Pine Grove. Mr. Hauser referred to the mortgage application.
+Q. Why was the loan application in both your names?
+A. The bank told us when I first went and asked for the loan, that they would have to have both of our names on there for us to acquire the loan. My wife was very upset at --. She did not want her name on it at all, whatsoever.
+(Transcript p. 11, l. 11-17)
+Q. Is Brenda's signature on any of these three pages?
+A. No, it's not.
+Q. Why was that?
+A. She wouldn't -- she refused to sign the papers. She would not go down and sign the papers and get herself involved in it.
+Q. Why not?
+A. She didn't want the house involved in the -- in any such way.
+(Transcript p. 12, l. 15-25 and p. 13, l. 1-2)
+[8] In summary, on examination in chief Mr. Warren stated that his wife refused to sign the mortgage application.
+[9] On cross-examination of Mr. Warren the following exchange took place between Mr. Taylor, Counsel for Respondent, and Mr. Warren.
+Q. Your wife didn't want any part of that mortgage and you showed us at Tab A-1, which was your application for the mortgage with the CIBC, and I think you made a point of saying that nowhere on there did your wife sign that. But your wife ultimately did agree to a mortgage being placed on the property, didn't she?
+A. No, she did not.
+(Transcript p. 36, l 19-25)
+Q. She signed a mortgage didn't she?
+A. Which mortgage are you talking about?
+Q. The very mortgage I'm showing you.
+A. For the house or for the -
+Q. One for the registrar. Now, Mr. Warren, this document I've placed before you is a mortgage, which was registered at the land title office against your property in Lillooet, is it not?
+A. Yes it is.
+Q. And on the second page, both you and your wife have signed this mortgage, have you not?
+A. Yes, we did.
+Q. So ultimately your wife did agree to have the property mortgaged and to subject her ownership in it to the bank's mortgage, didn't she?
+A. Yeah.
+HIS HONOUR: Mr. Taylor, is this Exhibit R-1?
+MR. TAYLOR: I propose to enter it as an exhibit now, Your Honour.
+HIS HONOUR: Okay.
+EXHIBIT R-1: Mortgage against Lillooet property
+(Transcript p. 37, l 1-25)
+BY MR. TAYLOR:
+Q. So, Mr. Warren, although the $81,000 on this mortgage you say that you used for your business, the fact of the matter is both of you are on the hook for it, and your property was on the hook, and you were equally on the hook for this mortgage, weren't you?
+A. No, it was my mortgage. I used it for my equipment. She had to put her name on there, for the simple fact that at the time before we did this, it was in both our names and the banks would not go alone with one. They were just like a -- they wanted to get as many people and if they could put your name on it, they would.
+Q. So if the bank came to collect on this mortgage, your wife could say, "Oh, don't collect from me, even though I signed it. My husband used all the money for his business. I'm keeping my half of the property." That's what you believed?
+A. No, not in so many words.
+Q. Well, I just would like you to make clear exactly what extent -- to what extent your wife agreed to this mortgage. Because you say she didn't agree, and she didn't sign the application. The fact of the matter is she did sign this mortgage, so she was liable to the bank.
+A. Well, she did sign it, but it was after a great extent of arguing constantly for days about this, and she was very upset, ... (Transcript p. 38, l.1-25).
+[10] In summary, Mrs. Warren signed the mortgage document (Exhibit R-1) in spite of Mr. Warren's statement that she did not sign the mortgage application form.
+[11] After carefully examining the evidence quoted above, it is noted that the mortgage was registered against the Lillooet property. The property was jointly owned by the Appellant and Mr. Warren. Since the Appellant's interest in the property and the interest of Dennis Warren in the property were both subject to the mortgage. I reject the argument made by counsel for the Appellant that the Appellant's interest in the Lillooet property should be reduced by $33,500.00.
+[12] There will be no change to the Judgment that was issued on the 30th day of July 2002.
+Signed at Ottawa, Canada, this 21st day of May 2003.
+"L.M. Little"
+J.T.C.C.

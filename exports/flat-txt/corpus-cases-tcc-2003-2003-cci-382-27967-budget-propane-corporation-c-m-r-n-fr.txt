@@ -1,0 +1,146 @@
+Title: Budget Propane Corporation c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27967/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-382-27967-budget-propane-corporation-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2003-06-20
+
+# Budget Propane Corporation c. M.R.N.
+
+- Citation: 2003 CCI 382
+- Decision date: 2003-06-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1815, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Budget Propane Corporation c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-06-20
+Référence neutre
+2003 CCI 382
+Numéro de dossier
+2000-523(EI)
+Juges et Officiers taxateurs
+Norris Weisman
+Sujets
+Loi sur l'assurance-emploi
+Régime de pensions du Canada
+Contenu de la décision
+Dossier: 2000-525(CPP)
+ENTRE :
+BUDGET PROPANE CORPORATION,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+MORLEY RAYMER,
+intervenant.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de Budget Propane Corporation (2000‑523(EI)) le 29 avril 2003 à Toronto (Ontario).
+Devant : L’honorable juge suppléant N. Weisman
+Comparutions :
+Avocate de l’appelante :
+Me Samantha L. Callow
+Avocate de l’intimé :
+Me Andrea Jackett
+Pour l’intervenant :
+L’intervenant lui-même
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté, et la décision du ministre est confirmée, selon les motifs du jugement ci-joints.
+Signé à Toronto (Ontario) ce 20e jour de juin 2003.
+« N. Weisman »
+J.S.C.C.I.
+Dossier: 2000-523(EI)
+ENTRE :
+BUDGET PROPANE CORPORATION,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+MORLEY RAYMER,
+intervenant.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de Budget Propane Corporation (2000‑525(CPP)) le 29 avril 2003 à Toronto (Ontario).
+Devant : L’honorable juge suppléant N. Weisman
+Comparutions :
+Avocate de l’appelante :
+Me Samantha L. Callow
+Avocate de l’intimé :
+Me Andrea Jackett
+Pour l’intervenant :
+L’intervenant lui-même
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté, et la décision du ministre est confirmée, selon les motifs du jugement ci-joints.
+Signé à Toronto (Ontario) ce 20e jour de juin 2003.
+« N. Weisman »
+J.S.C.C.I.
+Référence: 2003CCI382
+Date: 20030620
+Dossiers: 2000-523(EI)
+2000-525(CPP)
+ENTRE :
+BUDGET PROPANE CORPORATION,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+MORLEY RAYMER,
+intervenant.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant Weisman, C.C.I.
+[1] L’intervenant, Morley Raymer (« M. Raymer ») a été engagé par l’appelante en tant que directeur général de la direction générale de son entreprise à Beaverton et dont les activités commerciales consistaient en la distribution de gaz propane, ainsi qu’en la vente et en l’entretien de matériel de chauffage au propane. L’intimé a rendu une décision selon laquelle M. Raymer avait été engagé en vertu d’un contrat de louage de services pendant la période du 19 novembre 1996 au 31 août 1998 et que, par conséquent, il occupait un emploi assurable et ouvrant droit à pension aux termes de l’alinéa 5(1)a) de la Loi sur l’assurance-emploi[1] et de l’alinéa 6(1)a) du Régime de pensions du Canada[2]. L’appelante interjette donc appel à l’encontre de cette décision.
+[2] Pour trancher cette question en litige, la relation globale entre les parties et l’ensemble des éléments qui entraient dans le cadre des opérations doivent être examinés afin de répondre à la question centrale ou fondamentale qui consiste à savoir si M. Raymer fournissait ses services à l’appelante en tant que personne exploitant une entreprise à son propre compte ou s’il les fournissait en sa qualité d’employé.
+[3] À cette fin, la preuve doit être examinée à la lumière du critère à quatre volets énoncé comme ligne directrice[3] dans l’affaire Wiebe Door Services Ltd. c. M.R.N. (C.A.F.)[4], et que confirment les arrêts 671122 Ontario Ltd. c. Sagaz Industries Canada Inc.,[5] et Precision Gutters Ltd. c. Canada (Le ministre du Revenu national - M.R.N.)[6]. Les quatre parties intégrantes qui composent ce critère sont le contrôle, la propriété des instruments de travail, les chances de bénéfices et les risques de pertes.
+Le contrôle :
+[4] Au départ, l’intention des parties consistait à engager M. Raymer en tant qu’entrepreneur indépendant en vertu d’un contrat d’entreprise pendant la période en cause. Une entente à cet égard a été conclue le 19 novembre 1996 et a été déposée en preuve sous la côte R-1 dans le cadre des présentes procédures. Selon cette entente, M. Raymer devait percevoir une « somme versée à titre d’acompte » au montant de 50 000 $ par année plus 10 p. 100 des bénéfices avant impôts. Il avait également été entendu que l’appelante lui rembourserait toutes les dépenses légitimes engagées dans le cadre des activités commerciales de l’entreprise et qu’il aurait droit à une allocation pour usage d’un véhicule automobile de 500 $ par mois. Il soumettait des factures deux fois par mois à l’égard desquelles il percevait et versait la taxe sur les produits et services (TPS).
+[5] Il a déménagé la direction générale dans le nouveau lieu d’affaires de l’entreprise et s’est occupé des activités commerciales de cette dernière qui consistaient notamment à embaucher du personnel de bureau, des livreurs de gaz propane et des entrepreneurs spécialisés en chauffage et en plomberie. Il était également responsable de coordonner des activités, tels que le recouvrement des créances, le transport par camion et la livraison de gaz propane, ainsi que de l’installation et la réparation de systèmes de chauffage et de plomberie. En tant que technicien autorisé, il inspectait les installations et négociait avec les clients. Il exerçait un pouvoir discrétionnaire concernant l’établissement des prix, conformément à des lignes directrices minimales et maximales qu’avaient établies l’appelante. Aucun horaire de travail n’avait été établi et il était libre d’aller et de venir comme bon lui semblait, sauf que ses services étaient requis lorsque les préposés à l’entretien et les livreurs de gaz propane en gros se présentaient au travail entre 7 h et 8 h 30. On pouvait s’attendre à ce que les livreurs reviennent avec leur camion pendant la journée et tard en soirée.
+[6] Pendant les douze à quatorze premiers mois de la période en cause, un contrôle de fait minimal était exercé sur M. Raymer. M. William Callow (« M. Callow »), le président de l’appelante, visitait la direction générale seulement une fois tous les trois mois et des conversations téléphoniques n’avaient lieu que toutes les deux semaines. Selon le témoignage de M. Raymer, [traduction] « je m’occupais des activités commerciales de l’entreprise sans réelle intervention de la part du propriétaire ».
+[7] Cependant, la situation a changé au cours des sept ou neuf derniers mois de la relation, lorsque M. Callow a eu vent de certaines rumeurs selon lesquelles M. Raymer [traduction] « ternissait la réputation de notre entreprise » et de ses nombreuses absences du lieu d’affaires de l’entreprise. M. Callow a donc engagé un comptable pour superviser les activités de l’entreprise et tenir des réunions auxquelles M. Raymer n’était pas convoqué. Au fil du temps, il a de plus en plus participé aux activités quotidiennes de l’entreprise. M. Raymer a attesté qu’il avait commencé à recevoir des appels de plus en plus fréquents sur son téléphone cellulaire de la part de M. Callow et que ce dernier [traduction] « exigeait et voulait que je l’écoute lorsqu’il téléphonait ».
+[8] Il avait été entendu que M. Raymer devait fournir ses services personnellement, ce qui indique habituellement que le travailleur est un employé, sauf s’il est hautement qualifié et qu’il possède une expertise. Dans un tel cas, l’exigence selon laquelle les services doivent être fournis personnellement ne permet pas de trancher la question en cause. Dans la présente affaire, M. Raymer ne possédait aucune spécialisation ni aucune expertise.
+[9] Selon le témoignage de M. Raymer que j’admets, en échange de la somme versée à titre d’acompte au montant de 50 000 $, l’appelante a acquise le droit d’exercer un contrôle sur lui pendant la période en cause. À cet égard, le droit stipule que le trait caractéristique d’un contrat de louage de services ne consiste pas dans le contrôle qu’exerce effectivement l’employeur sur son employé mais le pouvoir que possède l’employeur de contrôler la façon dont l’employé exécute son travail[7]. Il est difficile d’appliquer ce critère dans le cas de professionnels et de travailleurs hautement qualifiés qui possèdent des compétences bien supérieures à la capacité de leur employeur à les diriger[8]. Dans l’affaire en l’instance qui m’a été présentée, le critère habituel du contrôle s’applique. Une fois de plus, M. Raymer ne représentait pas un professionnel ou un travailleur hautement qualifié.
+[10] Je conclus que M. Callow avait le pouvoir d’exercer un contrôle sur M. Raymer pendant la période en cause, de même qu’il a exercé un contrôle de fait pendant les sept ou neuf derniers mois de leur relation. En conséquence, le facteur du contrôle indique que M. Raymer était un employé.
+La propriété des instruments de travail :
+[11] Il est admis que M. Raymer travaillait sur le lieu d’affaires de l’appelante, sauf lorsqu’il inspectait les installations ou rencontrait des clients. L’appelante lui fournissait tous les outils nécessaires, fournitures, équipement, bureaux et mobilier. Le facteur relatif aux instruments de travail indique également qu’il était un employé.
+Les chances de bénéfices :
+[12] En raison d’un droit contractuel qui prévoyait le versement de 10 p. 100 des bénéfices que générait la direction générale annuellement avant impôt, on serait porté à croire que M. Raymer avait manifestement une chance de tirer des bénéfices des activités commerciales et d’initiatives de l’entreprise. Cependant, cela est illusoire. La première année, M. Callow a radié toutes les dépenses engagées pour démarrer l’entreprise, écartant ainsi toute chance de générer des bénéfices. En fait, M. Callow a admis que l’entreprise n’a rapporté aucun profit avant l’exercice 2001. À titre de dédommagement, on a promis verbalement à M. Raymer une prime garantie de 10 000 $ à la clôture de l’exercice. En fait, cette prime de 10 000 $ a été retenue et n’a été versée à M. Raymer que lorsqu’il a signé une renonciation formelle réciproque déposée en preuve aux fins des présentes procédures sous la cote A-3, au moment de mettre fin à la relation le 31 août 1998.
+[13] La preuve diverge quant à savoir si on a incité M. Raymer à obtenir d’autres sources de revenus ou si on le lui a interdit. Selon le témoignage de M. Raymer, il devait être en disponibilité en tout temps, dans l’éventualité où des problèmes relatifs à la livraison ou à l’installation surviendraient, ce qui semble davantage crédible. Je suis convaincu qu’il était habituellement sur les lieux de travail à compter de 7 h lorsque les préposés à l’entretien se présentaient au travail et aucune preuve ne démontre qu’il a, par la suite, négligé d’exécuter ses fonctions en vue de travailler pour le compte d’une autre entreprise. À trois occasions, M. Raymer a généré des revenus supplémentaires en ayant cependant obtenu au préalable la permission de M. Callow. Il a donné un cours d’une durée d’une semaine au Georgian College pour lequel il a perçu une rémunération de 400 $ en tant qu’employé. À une autre occasion, il a formé le fils de M. Callow, Jamie, et plusieurs autres personnes sur le lieu d’affaires de l’appelante et celle-ci lui a versé une rémunération additionnelle de 1 000 $. Enfin, il a fourni des services de formation semblables sur le lieu d’affaires de l’un des distributeurs de gaz propane de l’appelante qui l’a rémunéré pour ses heures de travail. Par conséquent, je ne crois pas que M. Raymer avait une chance de générer des bénéfices dans le cadre de sa relation avec l’appelante. Ce facteur tend également à démontrer qu’il était un employé.
+Les risques de pertes :
+[14] Avec toutes les dépenses d’entreprise qu’assumait l’appelante, y compris une allocation mensuelle de 500 $ pour usage d’un véhicule automobile, il est clair que M. Raymer ne risquait pas de subir une perte financière dans le sens traditionnel du terme.
+[15] Dans l’affaire Wolf, la Cour a conclu qu’il était utile de développer le concept traditionnel afin de déterminer si le travailleur en cause dans cette affaire fournissait ses services en tant que personne exploitant une entreprise à son compte ou en qualité d’employé. La Cour fait une distinction entre les entrepreneurs indépendants qui choisissent d’accepter les risques associés à l’exploitation d’une entreprise en échange d’une mobilité, d’une autonomie, de revenus plus élevés et, prétendument, de la possibilité de déduire de leur revenu des dépenses déductibles, en vertu de la Loi de l’impôt sur le revenu[9]. Par contre, les employés ne prennent pas de risques et optent plutôt en faveur d’un filet de sécurité que prévoient des dispositions législatives, telles que la Loi sur l’assurance-emploi[10], de même qu’ils optent pour une assurance-maladie, un régime de pensions, une sécurité d’emploi, une protection syndicale, des cours de perfectionnement et des possibilités d’avancement[11].
+[16] Dans l’affaire en l’espèce, M. Raymer n’était manifestement pas une personne qui prend des risques. Il a cherché à obtenir la sécurité sous forme d’une somme versée à titre d’acompte au montant de 50 000 $ par année, de même que d’une prime garantie de 10 000 $. Toutes ses dépenses étaient prises en charge par l’appelante, y compris une allocation mensuelle de 500 $ pour couvrir les frais d’utilisation de son véhicule automobile. Il n’a pris aucun risque financier. En conséquence, ce facteur tend également à démontrer qu’il était un employé.
+[17] Bien que ces quatre critères indiquent que M. Raymer était un employé pendant la période en cause, d’autres faits pertinents doivent être examinés afin d’évaluer la relation globale qui existait entre les parties.
+[18] Il est évident que l’intention de l’appelante au départ consistait à engager M. Raymer à titre d’entrepreneur indépendant en vertu d’un contrat d’entreprise. Toutefois, le droit stipule clairement que cela ne permet pas de trancher la question en litige[12]. La qualification de la relation représente une question de droit parce que d’autres intérêts entrent en ligne de compte, tels que la responsabilité du fait d’autrui, les diverses lois sur l’emploi, les mesures disponibles dans le cas d’un congédiement injustifié, l’établissement de cotisations en matière d’impôt sur le revenu ou de taxe d’affaires, l’ordre de collocation dans le cas où un employeur devient insolvable ou les droits contractuels[13]. Les termes du contrat ne se verront accorder du poids que s’ils reflètent exactement la relation entre les parties ou dans une issue serrée lorsque l’application du critère composé de quatre parties intégrantes donne des résultats neutres[14]. Dans l’affaire en l’espèce, le contrat ne reflète pas exactement la relation entre les parties.
+[19] Dans l’affaire Wolf, on a accordé au travailleur quatre pourcent de ses revenus à titre de prime de vacances parce que l’échéancier du projet pour lequel il avait été engagé ne lui permettait pas de prendre des vacances, ce que la Cour a soutenu être conséquemment un facteur neutre dans les circonstances particulières de cette affaire. Toutefois, elle se distingue de l’affaire en l’espèce puisque M. Raymer a pris deux semaines de vacances avec sa famille, qu’il a facturé à l’appelante la période durant laquelle il a été absent et celle-ci l’a payé, ce qui démontre qu’il était un employé.
+[20] M. Raymer avait obtenu un numéro de TPS. Il percevait la TPS sur ses factures qu’il soumettait deux fois par mois et versait les montants correspondants, ce qui tend à démontrer qu’il était un entrepreneur indépendant. Cependant, à mon avis, cela reflète seulement l’intention de départ des parties et ne permet pas de trancher la question en litige. Ce même raisonnement s’applique au tiers-saisi signifié à l’appelante mais qui n’a pas été honoré parce que les parties considéraient que M. Raymer était un entrepreneur indépendant.
+[21] Après avoir examiné la relation globale entre les parties, je conclus que M. Raymer ne fournissait pas ses services de directeur général de l’entreprise de l’appelante en tant que personne exploitant une entreprise à son compte. Il les a fournis en sa qualité d’employé. L’appelante a omis de s’acquitter du fardeau qui lui incombait et qui consistait à démolir les hypothèses de fait énoncées dans la réponse à l’avis d’appel de l’intimé.
+[22] Par conséquent, les appels sont rejetés, et les décisions du ministre du Revenu national sont confirmées.
+Signé à Toronto (Ontario) ce 20e jour de juin 2003.
+« N. Weisman »
+J.S.C.C.I.
+[1] S.C. 1996, ch. 23.
+[2] L.R.C. 1985, ch. C-8.
+[3] Ranger c. Canada (ministre du Revenu national - M.R.N.), [1997] A.C.F. n° 891 (C.A.F.).
+[4] [1986] 3 C.F. 553 (87 DTC 5025 ).
+[5] [2001] 2 R.C.S. 983.
+[6] [2002] A.C.F. n° 771 (C.A.F.).
+[7] Gallant c. M.R.N. (C.A.F.), [1986] A.C.F. n° 330.
+[8] Voir Wolf c. Canada (C.A.), [2002] 4 C.F. 296.
+[9] L.R.C. (1985), ch. 1 (5e suppl.).
+[10] (précité)
+[11] Voir Wolf (précité).
+[12] Wiebe Door Services Ltd. (précité); Ready Mixed Concrete v. Minister of Pensions, [1968] 1 ALL E.R. 433 (Q.B.).
+[13] Sagaz Industries (précité)
+[14] Wolf (précité)

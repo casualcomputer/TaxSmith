@@ -1,0 +1,192 @@
+---
+title: "Poulin c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/22787/index.do"
+last_modified: "2005-02-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 48"
+citation2: ""
+neutral_citation: "2005 CCI 48"
+decision_date: "2005-02-23"
+language: "fr"
+item_id: "22787"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2237
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:13:07.313000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fe2c7c235e048fe89d914bf12403d77de8933c514becee47a4647038bed941fe"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Poulin c. M.R.N.
+
+- Citation: 2005 CCI 48
+- Decision date: 2005-02-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2237, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Poulin c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-02-23
+Référence neutre
+2005 CCI 48
+Numéro de dossier
+2004-1909(EI)
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi sur la sécurité de la vieillesse
+Contenu de la décision
+Dossier : 2004-1909(EI)
+ENTRE :
+SUZANNE POULIN,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+L'ÉCHO DE FRONTENAC INC.,
+intervenante.
+____________________________________________________________________
+Appel entendu le 3 novembre 2004 à Sherbrooke (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocat de l'intimé :
+Me Benoît Mandeville
+Représentant de l'intervenante :
+Alain Savoie
+____________________________________________________________________
+JUGEMENT
+L'appel est accueilli au motif que le travail exécuté par l'appelante pendant la période en litige est exclu des emplois assurables selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 23e jour de février 2005.
+Juge Bédard
+Référence : 2005CCI48
+Date : 20050223
+Dossier : 2004-1909(EI)
+ENTRE :
+SUZANNE POULIN,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+L'ÉCHO DE FRONTENAC INC.,
+intervenante.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Il s'agit d'un appel d'une détermination en vertu de laquelle l'intimé a décidé que le travail effectué par madame Suzanne Poulin lors de la période du 1er janvier 2002 au 29 mai 2003 pour le compte et le bénéfice de L'Écho de Frontenac inc. (le « payeur » ) satisfait aux exigences d'un contrat de louage de services, et cela, malgré le lien de dépendance qui existait entre les parties.
+[2] Pour justifier et expliquer sa détermination, l'intimé s'est appuyé sur les hypothèses de fait suivantes :
+6. Le ministre a déterminé que l'appelante exerçait un emploi auprès du payeur aux termes d'un contrat de louage de services, en s'appuyant sur les faits présumés suivants :
+a) Le payeur publie un hebdomadaire régional;
+b) En 2002, le payeur a eu un chiffre d'affaires d'environ 860 000 $;
+c) Il emploie 8 personnes dont un directeur général, un rédacteur en chef et un directeur des ventes;
+d) L'appelante est directrice générale et contrôleure du payeur;
+e) Elle est responsable des horaires et des paies du personnel, elle décide des achats, vérifie et autorise le paiement des comptes payables et supervise la facturation des clients et des comptes passés dus, elle représente l'entreprise auprès de la clientèle;
+f) Elle a près de 20 ans d'expérience au sein de l'entreprise à divers postes;
+g) Elle travaille généralement du lundi au vendredi de 9 h à 17 h;
+h) Elle travaille au bureau du payeur;
+i) Gaétan Poulin est l'unique administrateur du payeur;
+j) Gaétan Poulin se rend à tous les matins au bureau de payeur;
+k) Il prépare et vérifie les états financiers mensuels du payeur;
+l) Bien qu'ayant beaucoup de latitude dans son travail, l'appelante doit en référer à Gaétan Poulin pour les décisions importantes financièrement;
+m) Le payeur a toujours eu le droit de contrôler le travail de l'appelante;
+n) Le payeur fournit à l'appelante tout le matériel et l'équipement nécessaire à son travail;
+o) Durant la période en litige, l'appelante recevait un salaire de base de 605,00 $ par semaine;
+p) L'appelante recevait, en plus de son salaire hebdomadaire, un boni mensuel calculé en fonction des ventes effectuées;
+q) Elle bénéficiait de plus de l'usage d'une automobile appartenant au payeur, d'une valeur de 8 220 $ en 2002;
+r) En 2002, sa rémunération totale s'est élevée à 49 333 $;
+s) L'appelante n'a jamais cautionné le payeur pour des emprunts bancaires ou autres;
+t) Son travail est intégré à l'entreprise du payeur.
+7. L'appelante et le payeur sont des personnes liées au sens de la Loi de l'impôt sur le revenu car :
+a) Gaétan Poulin est l'actionnaire unique du payeur;
+b) L'appelante est la fille de Gaétan Poulin;
+c) L'appelante est liée à Gaétan Poulin qui contrôle le payeur.
+8. Le ministre a déterminé aussi que l'appelante et le payeur étaient réputés ne pas avoir de lien de dépendance entre eux dans le cadre de cet emploi car il a été convaincu qu'il était raisonnable de conclure que l'appelante et le payeur auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance, compte tenu des circonstances suivantes :
+a) Le directeur des ventes et le rédacteur en chef reçoivent aussi un boni mensuel calculé en fonction des ventes effectuées;
+b) Le directeur des ventes bénéficie aussi de l'usage d'une automobile appartenant au payeur;
+c) En 2002, la rémunération du rédacteur en chef s'est élevée à 50 225 $ et celle du directeur des ventes à 47 183 $;
+d) En 2002, la rémunération de l'appelante de 49 333 $ était raisonnable compte tenu des tâches accomplies;
+e) L'appelante décide elle-même de ses horaires de travail qui variaient selon les besoins du payeur;
+f) Elle peut travailler le soir ou les fins de semaine selon les besoins du payeur;
+g) Le nombre d'heures de travail qu'elle effectue peut occasionnellement varier de 30 à 45 heures par semaine;
+h) Compte tenu de l'expérience de l'appelante et de son poste, il est normal qu'elle puisse prendre les décisions courantes dans le cours normal des affaires sans en référer à l'administrateur du payeur;
+i) L'appelante travaille à l'année longue conformément aux activités de l'entreprise;
+j) Travaillant comme directrice générale, les tâches de l'appelante sont nécessaires à l'entreprise du payeur.
+[3] Tous les faits allégués aux paragraphes 6, 7 et 8 de la Réponse à l'avis d'appel furent admis, à l'exception de ceux allégués :
+i) aux alinéas 6g), 6l), 6m), 6n), 8d), 8e), 8f) et 8g), qui furent niés;
+ii) aux alinéas 6h), 6k), 6p), 6r) et 8a), qui furent aussi niés tels que rédigés;
+iii) à l'alinéa 6e), qui furent admis mais sujets à être complétés.
+[4] Il convient de souligner que le représentant de l'appelante a admis au début de l'audition que l'appelante exerçait un emploi auprès du payeur aux termes d'un contrat de louage de services.
+[5] Il convient de rappeler que l'intimé a déterminé que cet emploi était assurable puisqu'il n'était pas visé par l'alinéa 5(2)i) de la Loi sur l'assurance-emploi (la « Loi » ). En effet, madame Poulin et le payeur furent réputés, en vertu de l'alinéa 5(3)b) de la Loi, ne pas avoir de lien de dépendance entre eux dans le cadre de cet emploi, l'intimé ayant été convaincu qu'il était raisonnable de conclure, compte tenu de toutes les circonstances, qu'ils auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+[6] La Cour d'appel fédérale a défini à plusieurs reprises le rôle confié par la Loi à un juge de la Cour canadienne de l'impôt. Ce rôle ne permet pas à un juge de substituer sa décision discrétionnaire à celle du ministre du Revenu national (le « ministre » ), mais il emporte l'obligation de « vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et après cette vérification, [...] décider si la conclusion dont le ministre était « convaincu » paraît toujours raisonnable » [1].
+[7] En d'autres termes, avant de décider si la conclusion dont le ministre était convaincu me paraît toujours raisonnable, je dois, à la lumière de la preuve dont je dispose, vérifier si les allégations du ministre s'avèrent, malgré tout, bien fondées en tout ou en partie, compte tenu des facteurs que mentionne l'alinéa 5(3)b) de la Loi.
+[8] Il y a donc lieu de se demander si l'appelante et le payeur auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+[9] L'appelante avait le fardeau de démontrer que le ministre n'avait pas exercé son pouvoir discrétionnaire selon les principes applicables en la matière, c'est-à-dire de démontrer qu'il n'a pas examiné tous les éléments pertinents ou qu'il avait ignoré des éléments qui étaient pertinents. La preuve soumise par l'appelante a ciblé les aspects véritablement importants et pertinents pour déterminer si le lien de dépendance existant entre elle et le payeur avait influencé ou non le contrat de travail conclu entre eux. L'appelante et monsieur Gaétan Poulin, le père de l'appelante et le seul administrateur et actionnaire du payeur, ont témoigné. Leur témoignage était clair et m'est apparu très crédible. Je suis d'avis que leur témoignage a démontré très clairement que l'appelante avait joui pendant la période en cause de la majorité des droits et des privilèges normalement réservés aux propriétaires d'une entreprise. À cet égard, leur témoignage a révélé ceci :
+i) L'appelante déterminait elle-même la durée et la date de ses vacances, durée et date qui ne dépendaient que de ses besoins personnels et des occasions de voyage qui se présentaient à elle, contrairement à ce qui était le cas pour les autres employés du payeur. Elle avait bénéficié pendant les années 2002 et 2003 de congés payés équivalant à huit et à quatre semaines respectivement, alors que les autres employés du payeur avaient bénéficié de trois semaines de vacances payées pour chacune de ces années.
+ii) Les heures de travail de l'appelante n'étaient ni contrôlées, ni même comptabilisées, et ce, contrairement à ce qui était le cas pour les autres employés du payeur.
+iii) L'appelante pouvait faire varier ses heures de travail à sa guise. Elle pouvait s'absenter à tout moment et planifier son travail en fonction de ses préoccupations familiales et personnelles, et ce, indépendamment des besoins du payeur, puisqu'il lui était loisible pendant ses absences de confier la bonne marche de l'entreprise à des employés de confiance. Les heures hebdomadaires de travail de l'appelante variaient entre huit et soixante-quinze heures. Elle travaillait à sa guise, le jour, le soir ou la fin de semaine, et ce, à partir de sa résidence ou du siège social du payeur comme bon lui convenait. Elle pouvait s'absenter du travail soit pour suivre des cours d'art à l'Université de Sherbrooke, soit pour s'occuper de ses immeubles locatifs, soit pour participer strictement à des fins personnelles à des réunions d'organismes sans but lucratif ou encore pour s'adonner à ses passe-temps (voile et photographie). Les heures ainsi consacrées à ses activités personnelles n'étaient pas nécessairement reprises ultérieurement par l'appelante. Autrement dit, elle n'avait pas nécessairement à prendre toujours des bouchées doubles pour que le travail se fasse. Ainsi, elle pouvait déléguer son travail à des employés de confiance pendant qu'elle s'absentait. Somme toute, elle déterminait ses tâches.
+iv) Le travail de l'appelante n'était supervisé d'aucune façon par qui que ce soit. En fait, elle était l'âme dirigeante du payeur, puisque son père était, en pratique, à la retraite.
+v) Le père de l'appelante n'aurait jamais accordé à une personne non liée les mêmes responsabilités et la même liberté d'action.
+[10] Qu'en est-il de la rémunération de l'appelante? L'intimé a allégué, dans la Réponse à l'avis d'appel, que la rémunération de l'appelante était raisonnable compte tenu des tâches accomplies. Il me semble que l'intimé peut difficilement conclure ainsi à moins d'avoir devant lui des informations sur les salaires ou les conditions d'emploi comparables au sein de la même industrie ou d'une industrie connexe. En l'espèce, l'intimé n'avait pas de telles informations. Tout au plus, l'intimé a examiné la rémunération du rédacteur en chef et du directeur des ventes du payeur et a conclu que la rémunération de l'appelante était raisonnable en comparaison avec celle des deux autres cadres. Comment l'intimé pouvait-il établir une telle comparaison alors que les responsabilités et les tâches de l'appelante étaient totalement différentes de celles de ces deux personnes? De plus, bien que la rémunération globale de l'appelante ait été sensiblement la même que celle des deux autres cadres, il convient de souligner que les modalités servant à déterminer la rémunération de chacun de ces cadres étaient très différentes d'un cas à l'autre. La rémunération de l'appelante était fixe en pratique, alors que celle du directeur était essentiellement déterminée en fonction des ventes du payeur (15 pour 100 des ventes). Une partie importante de la rémunération du rédacteur en chef était aussi établie en fonction des ventes du payeur. Enfin, il convient de souligner que le père de l'appelante a témoigné qu'il aurait dû probablement verser à un directeur général non lié une rémunération plus élevée. En effet, il concevait difficilement qu'un directeur général non lié puisse accepter une rémunération moindre que celle reçue par ses subalternes.
+[11] En l'espèce, les faits présentés et pertinents ne justifiaient aucunement la détermination qu'un tiers aurait pu bénéficier d'un contrat de travail à peu près semblable. Conclure que l'appelante et le payeur auraient convenu entre eux d'un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance est tout simplement déraisonnable et tout à fait sans fondement. La prépondérance de la preuve démontre que les conditions de travail de l'appelante étaient beaucoup plus comparables à celles d'un propriétaire qu'à celles d'un employé.
+[12] Le travail de l'appelante étant assujetti aux dispositions de l'alinéa 5(2)i) de la Loi, il doit être exclu des emplois assurables, d'où la conclusion que l'appel est accueilli.
+Signé à Ottawa, Canada, ce 23e jour de février 2005.
+Juge Bédard
+RÉFÉRENCE :
+2005CCI48
+No DU DOSSIER DE LA COUR :
+2004-1909(EI)
+INTITULÉ DE LA CAUSE :
+Suzanne Poulin et M.R.N.
+LIEU DE L'AUDIENCE :
+Sherbrooke (Québec)
+DATE DE L'AUDIENCE :
+Le 3 novembre 2004
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Paul Bédard
+DATE DU JUGEMENT :
+Le 23 février 2005
+COMPARUTIONS :
+Pour l'appelante :
+L'appelante elle-même
+Pour l'intimé :
+Me Benoît Mandeville
+Pour l'intervenante :
+Alain Savoie (représentant)
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelante :
+Nom :
+Étude :
+Pour l'intimé :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+Pour l'intervenante :
+Nom :
+Étude :
+[1]
+Légaré c. Canada (ministre du Revenu national - M.R.N.), [1999] A.C.F. no 878 (Q.L.) au paragraphe 4.

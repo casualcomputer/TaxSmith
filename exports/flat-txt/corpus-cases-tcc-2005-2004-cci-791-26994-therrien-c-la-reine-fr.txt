@@ -1,0 +1,226 @@
+Title: Therrien c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26994/index.do
+Corpus path: corpus/cases/tcc/2005/2004-cci-791-26994-therrien-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2005-01-07
+
+# Therrien c. La Reine
+
+- Citation: 2004 CCI 791
+- Decision date: 2005-01-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 539, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Therrien c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-01-07
+Référence neutre
+2004 CCI 791
+Numéro de dossier
+2001-4618(IT)I
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2001-4618(IT)I
+ENTRE :
+DENIS THERRIEN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu sur preuve commune avec l'appel de Gérald Therrien (2001‑4619(IT)I) le 13 juillet 2004 à Sherbrooke (Québec)
+Devant : L'honorable juge B. Paris
+Comparutions :
+Avocat de l'appelant :
+Me Richard Généreux
+Avocate de l'intimée :
+Me Marie-Claude Landry
+JUGEMENT
+L'appel interjeté à l’encontre de la cotisation établie en vertu de la Loi de l'impôt sur le revenu dont l'avis est daté du 28 décembre 2001 et porte le numéro 18564 est rejeté selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 7e jour de janvier 2005.
+«B. Paris»
+Juge Paris
+Dossier : 2001-4619(IT)I
+ENTRE :
+GÉRALD THERRIEN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu sur preuve commune avec l'appel de Denis Therrien (2001‑4618(IT)I) le 13 juillet 2004 à Sherbrooke (Québec)
+Devant : L'honorable juge B. Paris
+Comparutions :
+Avocat de l'appelant :
+Me Richard Généreux
+Avocate de l'intimée :
+Me Marie-Claude Landry
+JUGEMENT
+L'appel interjeté à l’encontre de la cotisation établie en vertu de la Loi de l'impôt sur le revenu dont l'avis est daté du 28 décembre 2001 et porte le numéro 18561 est rejeté selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 7e jour de janvier 2005.
+«B. Paris»
+Juge Paris
+Référence : 2004CCI791
+Date : 20050107
+Dossier : 2001-4618(IT)I
+ENTRE :
+DENIS THERRIEN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+ET
+2001-4619(IT)I
+GÉRALD THERRIEN
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] Les deux appelants interjettent appel à l’encontre d’une cotisation établie par le ministre du Revenu national (le « ministre ») le 5 avril 2001, en vertu du paragraphe 160(2) de la Loi de l’impôt sur le revenu (la « Loi »)[1]. Le ministre a établi, au nom de chacun d’eux, une cotisation au montant de 9 500 $ relativement à des dividendes que Les Habitations Pierre Therrien Inc. (la « société ») leur a versés, au motif que la société Les Habitations avait une dette fiscale en vertu de la Loi au moment où elle a payé ces dividendes. Les appels sont entendus sur preuve commune.
+[2] Voici les questions en litige :
+1. Quel était le montant de la dette fiscale de la société, au moment où les dividendes ont été versés?
+2. La prétendue dette fiscale de la société a‑t‑elle été surévaluée en raison d’erreurs commises par le ministre en établissant la nouvelle cotisation de la société, relativement aux années d’imposition 1991 à 1994 relativement à la détermination du revenu et des dépenses et à l’application de pertes autres que pertes en capital reportées rétrospectivement de l’année d’imposition 1995?
+3. Le ministre est‑il lié par l’offre de règlement qu’il a proposée à la société de réduire le montant exigible dans le cadre des années en question, mais que la société a rejetée?
+4. Les appelants ont‑ils versé une contrepartie pour le paiement de dividendes?
+Requête préliminaire
+[3] L’avocat des appelants présente une requête préliminaire pour demander que les appels soient accueillis et que les cotisations soient annulées. Pour soutenir cette demande, il prétend que le ministre, dans une lettre datée le 9 octobre 2001 annexée à l’avis de ratification des cotisations de chaque appelant, a fait un aveu sur une question de fait, à savoir que la dette fiscale de la société avait été payée au complet et que l’obligation des appelants en vertu du paragraphe 160(1) de la Loi était éteinte. Il prétend aussi que l’intimée a admis ce fait au paragraphe 5 de la Réponse à l’avis d’appel.
+[4] Ladite lettre du 9 octobre 2001 est rédigée de la manière suivante :
+OBJET : Opposition concernant l'avis de cotisation
+du 5 avril 2001 portant le numéro 18564
+Monsieur,
+Nous vous informons que l'examen de l'opposition susmentionnée est terminé et tel que convenu récemment, nous confirmons par la présente la cotisation émise le 5 avril 2001 selon le paragraphe 165(3) de la Loi de l'impôt sur le revenu.
+Toutefois, puisque l'avis de cotisation susmentionné fut émis en vertu du paragraphe 160(2) de la Loi de l'impôt sur le revenu, relativement à une obligation établie en vertu du paragraphe 160(1) de la Loi, et que le paiement complet a été reçu, ce paiement a éteint votre obligation conformément au paragraphe 160(3) de la Loi.
+[5] Les appelants ont plaidé au paragraphe 5 de chacun des Avis d’appel que :
+Le ministre indique également par une lettre adressée à l'appelant en date du 9 octobre 2001 qu'il aurait reçu le paiement complet et que ce paiement aurait éteint la responsabilité de l'appelant conformément au paragraphe 160(3) de la Loi de l'impôt sur le revenu;
+[6] Au paragraphe 5 de chacune des Réponses à l’avis d’appel, l’intimée affirme :
+Il admet le paragraphe 5 de l'avis d'appel.
+[7] L'avocat des appelants invoque les doctrines de l'expectative légitime, de l’estoppel et de la fin de non-recevoir. Pourtant, il est clair que la doctrine de l’estoppel est inconnue en droit civil québécois et ne peut être appliquée dans cette province dans le cadre d’un litige. Je conclus, pour les motifs suivants, que les deux autres théories n’ont pas non plus d’application en l’espèce.
+[8] Tout d’abord, et contrairement aux prétentions de l’avocat des appelants, la preuve démontre que la représentation selon laquelle le paiement complet de la dette de la société avait été reçu par le ministre n’était qu’une simple erreur administrative. Jean‑Claude Fontaine, chef des appels de l’Agence des douanes et du revenu du Canada et auteur de la lettre, a témoigné qu’il s’est servi d'une lettre‑type erronée pour accompagner l’avis de ratification de la cotisation de la société. Les avis de ratification déclaraient que les cotisations de chaque appelant étaient conformes aux dispositions de la Loi. De plus, l'état de compte de la dette de la société déposé par les appelants (pièce A‑12) démontre clairement que la société devait encore, à cette date-là, 26 132,01 $ par rapport aux années d’imposition 1991 à 1994.
+[9] Aussi, je ne crois pas qu'il y ait eu aveu de la part de l'intimée dans la Réponse à l'avis d'appel sur le fait qu'il y aurait eu paiement de la dette et que ce paiement aurait éteint la responsabilité des appelants conformément au paragraphe 160(3) de la Loi. En fait, ce qu'admettait l'intimée, c'était plutôt le fait que le ministre avait effectivement adressé une lettre à chacun des appelants datée du 9 octobre 2001 et que cette lettre mentionnait ce que les appelants avançaient. En aucune circonstance peut-on interpréter l'aveu formulé par l'intimée selon le paragraphe 5 de chacun des Avis d'appel comme un aveu selon lequel le paiement complet de la dette avait été reçu et que ce paiement éteignait la responsabilité des appelants.
+[10] En tout état de cause, il est difficile de comprendre comment la théorie de l’expectative légitime pourrait s’appliquer en l’espèce. Pour mettre en contexte cette théorie, elle fait partie des règles d’équité procédurale et s’attache « à la conduite de l’autorité publique dans l’exercice d’un pouvoir discrétionnaire »[2]. Elle est du domaine de la procédure et ne crée pas des droits substantifs. Selon la Cour Suprême, la doctrine de l’expectative légitime :
+[...] accorde à une personne touchée par la décision d'un fonctionnaire public la possibilité de présenter des observations dans des circonstances où, autrement, elle n'aurait pas cette possibilité. La cour supplée à l'omission dans un cas où, par sa conduite, un fonctionnaire public a fait croire à quelqu'un qu'on ne toucherait pas à ses droits sans le consulter.
+et
+« dans les cas ou elle s’applique, elle peut faire naître le droit de présenter des observations ou d’être consulté. »[3]
+La théorie ne permet pas d’accorder des droits substantifs, ce qui a été confirmé à nouveau par la Cour Suprême dans l’affaire Mt. Sinaï.[4]
+[11] Il y a plusieurs raisons pour lesquelles cette théorie n’a pas d’application en l’espèce. Premièrement, l’acte de cotiser les appelants n’est pas de nature discrétionnaire, mais relève plutôt du devoir du ministre et la théorie ne peut pas aller à l’encontre de la Loi[5]. Deuxièmement, l’équité procédurale à l’égard d’une cotisation est assurée par les procédures prévues par la Loi qui permettent à tout contribuable de contester une cotisation. En faisant appel à cette Cour les appelants se sont prévalus de ces droits de procédure. Finalement, la théorie envisage les attentes légitimes de procédures équitables créées chez un citoyen par des actes de l’administration avant que la décision contestée ne soit prise. Il est illogique de penser que la représentation contenue dans la lettre du 9 octobre 2001, qui était postérieure à l’émission des cotisations, aurait pu créer une expectative chez les appelants relative à la procédure que suivrait le ministre en émettant les cotisations.
+[12] Bien que l’avocat des appelants ait aussi invoqué la doctrine des fins de non‑recevoir, il ne s’est pas référé aux éléments nécessaires à son application. Dans l'arrêt Banque Nationale du Canada c. Soucisse[6], au paragraphe 62, le juge Beetz cite la définition de fins de non-recevoir tel qu’elle a été élaborée par Lemerle (Traité des fins de non recevoir, Nantes, 1819, aux p. 2 et 3) :
+Les fins de non recevoir sont des exceptions péremptoires par le moyen desquelles on peut faire rejeter une demande sans entrer dans la discussion, et les exceptions péremptoires sont des motifs d'exclusion de l'action tellement puissants, qu'ils anéantissent cette action.
+[13] Le juge Beetz a aussi fait référence au paragraphe 59 à la description des fins de non-recevoir donnée par Pothier dans son Traité des obligations :
+Les fins de non recevoir contre les créanciers, sont certaines causes qui empêchent le créancier d’être écouté en justice pour exiger sa créance.
+[14] Comme nous l’avons déjà indiqué, l’avocat des appelants n’avait pas indiqué la raison qui empêcherait le ministre d’exiger la perception de la dette fiscale de la société, mais il semble qu’au soutien de cette demande, il allègue que la conduite des représentants du ministre en l’espèce allait à l’encontre de l’obligation qui leur incombait en vertu de l’article 1457 du Code civil du Québec[7] (anciennement, l’article 1053) et que cette violation donne ouverture à une fin de non-recevoir.
+[15] L’article 1457 est libellé de la façon suivante :
+Toute personne a le devoir de respecter les règles de conduite qui, suivant les circonstances, les usages ou la loi, s’imposent à elle, de manière à ne pas causer de préjudice à autrui.
+Elle est, lorsqu’elle est douée de raison et qu’elle manque à ce devoir, responsable du préjudice qu’elle cause par cette faute à autrui et tenue de réparer ce préjudice, qu’il soit corporel, moral ou matériel.
+Elle est aussi tenue, en certains cas, de réparer le préjudice causé à autrui par le fait ou la faute d’une autre personne ou par le fait des biens qu’elle a sous sa garde.
+[16] Pour réussir dans leur demande, les appelants doivent démontrer que le ministre ou que ses agents ont adopté un comportement fautif et qu’ils ont subi un dommage en conséquence de ce comportement. Même si je constatais la représentation dans la lettre du 9 octobre 2001 à l’effet que la dette de la société a été payée comme une représentation fautive, il manque toujours une preuve de dommage causé par cette représentation. Rien ne laisse croire que les appelants ont agi à leur détriment à cause de ce qu’il y avait dans la lettre. Le fait qu’ils ont poursuivi leurs appels devant la Cour indique le contraire.
+[17] Alors la requête préliminaire est rejetée.
+Quel était le montant de la dette fiscale de la société relativement aux années au cours desquelles elle a payé des dividendes aux appelants?
+[18] Les appelants contestent le montant de la dette fiscale que la société devait à l’intimée au moment où les dividendes ont été versés. L'avocat des appelants fait référence à l’arrêt Gestion Yvan Drouin Inc. c. Sa Majesté la Reine[8], qui aborde, en partie, la question de savoir sur quelle partie incombait le fardeau de démontrer le montant de la dette fiscale de l’auteur du transfert dans le cadre d’une cotisation établie en application de l’article 160. Voici ce qu’a déclaré la Cour au paragraphe 114 :
+Comme c'est le ministre qui exerce le recours contre un tiers pour recouvrer la dette fiscale qui lui est due par le débiteur fiscal, il m'apparaît tout à fait raisonnable que ce soit à lui qu'incombe la charge d'établir prima facie l'existence de la dette fiscale. Pour y arriver, le ministre a normalement en sa possession la déclaration de revenu du débiteur fiscal et, s'il a effectué une vérification, il peut détenir des copies des pièces justificatives ou de tout autre document pertinent à l'appui de sa cotisation. C'est donc lui qui est en meilleure position pour établir le montant de la dette fiscale. J'en viens donc à la conclusion que c'est au ministre qu'incombe généralement la charge de faire la preuve prima facie de la dette fiscale lorsqu'il y a une cotisation établie en vertu du paragraphe 160(1) de la Loi.
+[19] En l’espèce, il n’est pas nécessaire que je détermine à quelle partie incombe le fardeau de démontrer le montant de la dette fiscale de la société au moment des transferts. En effet, j’estime que je dispose d’une preuve considérable qui me permet d’établir que le montant de la dette au moment pertinent est celui qui figure au paragraphe 24 f) de la Réponse à l’avis d’appel, soit 6 889,48 $ d’impôt, 1 804,03 $ de pénalité et 11 741,71 $ d’intérêts.
+[20] L’intimée a produit l’état de compte des obligations fiscales, incluant les pénalités et les intérêts s’y rattachant, accumulées par la société en vertu de la Loi au cours des années d’imposition 1991 à 1994, jusqu’à la cotisation des appelants. L’intimée a produit aussi le rapport de vérification et le rapport sur opposition qui portent sur les nouvelles cotisations de la société, datées du 2 août 1996, pour les mêmes années d’imposition. Ces documents ne montrent pas seulement le montant de la dette fiscale, mais aussi le caractère des changements apportés au revenu déclaré par la société et qui ont provoqué l’augmentation de la dette fiscale. Ces éléments portant sur les changements du revenu de la société ont été corroborés par le témoignage de M. Sylvain Gardner, le vérificateur qui avait apporté ces changements à la suite de sa vérification. Je n’ai aucune raison de croire que les appelants auraient éprouvé quelque difficulté que ce soit à comprendre ou à obtenir des renseignements au sujet de la dette fiscale de la société, ou qu’ils aient été empêchés de quelque manière d’obtenir des renseignements au sujet de la société.
+[21] L’avocat des appelants a aussi laissé entendre que la cotisation établie au nom de chacun des appelants ne pouvait inclure, en vertu du paragraphe 160(2) de la Loi, que le montant des obligations exigibles au moment du versement de chaque dividende et que la cotisation des appelants ne pouvait comprendre les intérêts découlant de l'obligation fiscale de la société. Cependant, le paragraphe 160(1) prescrit clairement que le bénéficiaire d’un transfert de biens appartenant à un débiteur fiscal est responsable du « total des montants dont chacun représente un montant que l’auteur du transfert doit payer en vertu de la présente loi au cours de l’année d’imposition dans laquelle les biens ont été transférés ou d’une année d’imposition antérieure ou pour une de ces années […] ». Cela rend le bénéficiaire responsable des intérêts qui découlent de la dette sous-jacente jusqu’au moment où l’on effectue la cotisation en vertu de l’article 160. Dans la présente affaire, le montant d’impôt et d’intérêts que devait la société dépassait le montant des dividendes versés à chaque appelant au moment des cotisations émises sous le paragraphe 160(2) de la Loi.
+[22] On a fait valoir un autre argument, au sujet de la forme des avis de cotisation délivrés au nom des appelants. Chaque avis comportait, en annexe, une feuille intitulée « Détail de la cotisation – Pièce A » où le montant de la dette est établi à 6 889,48 $, le montant des intérêts à 2 610,52 $, pour un total de 9 500 $. Il a été admis que ce chiffre constituait une sous‑évaluation du montant de la dette fiscale de la société au moment de la cotisation. L’agent de perception, Owen Duguay, qui a préparé cet état de compte a témoigné qu’il n’avait inscrit que la somme des obligations de la société qui équivalait à la somme des dividendes transférés aux appelants, parce qu’il s’agissait du montant maximal qu’il pouvait cotiser en application du paragraphe 160(2) de la Loi.
+[23] Dans l’arrêt Barroso c. R.[9], (affirmé par la Cour d'appel fédérale 98 DTC 6605[10]), le juge Dussault aborde l’argument selon lequel une cotisation établie en application du paragraphe 160(2) de la Loi, qui ne mentionnait ni la ou les années d'imposition, ni les montants dus pour chacune des années pour lesquelles l’auteur du transfert était cotisé, devrait être annulée. Le juge n’a pas accepté cet argument et il a déclaré au paragraphe 7 :
+[...] le paragraphe 152(3) de la Loi précise qu'une cotisation inexacte ou incomplète n'a pas d'effet sur les responsabilités d'un contribuable à l'égard de l'impôt prévu par la Partie I de la Loi et le paragraphe 152(8) précise qu'une cotisation est réputée être valide et exécutoire nonobstant toute erreur, vide de forme ou omission dans cette cotisation ou dans toute procédure s'y rattachant en vertu de la Loi. Ces règles étant rappelées, j'estime que l'avis de cotisation contient les éléments essentiels qui doivent y figurer, soit le montant cotisé et la disposition législative invoquée au soutien*. Le fait que l'avis de cotisation ne contienne pas les détails de la dette fiscale du débiteur principal n'enlève aucun droit à l'appelante qui pouvait requérir les informations nécessaires pour contester possiblement certains éléments de cette dette à partir de laquelle sa propre responsabilité a été établie en vertu du paragraphe 160(1) de la Loi. Ces informations pouvaient très certainement être obtenues de l'intimée de façon à ce que l'appelante puisse avoir “une défense pleine et entière” pour reprendre l'expression employée
+[24] Dans la présente affaire, les avis contenaient tous les renseignements essentiels et nécessaires pour informer les appelants des cotisations établies à l’encontre de ces derniers. Il n’y a aucune preuve que les appelants aient été induits en erreur par cette méprise et cette dernière ne peut annuler les cotisations.
+Les nouvelles cotisations de la société comportaient‑elles des erreurs?
+[25] Les appelants contestent le montant de la dette fiscale de la société pour les années d’imposition telle que cotisée par le ministre pour les années fiscales 1991 à 1994
+[26] Premièrement les appelants allèguent que le ministre a commis une erreur en considérant certains dépôts effectués en 1991, 1992 et 1993, par Pierre Therrien le frère des appelants, dans son compte de banque personnel comme étant des revenus d’entreprise non déclarés de la société. Pierre Therrien était le fondateur, l’administrateur et le directeur des opérations de la société. Les appelants contestent aussi le rejet de certains montants qu’ils ont réclamés au nom de la société à titre de « dépenses de sous‑traitance » pour les années en question.
+[27] Les montants qui figurent dans la cotisation au titre de revenus non déclarés consistent en un chèque et en des montants liquides considérables déposés par Pierre Therrien dans son compte personnel. La preuve démontre qu’il a reçu un chèque de 8 000 $ en 1991 de la part d’un client de la société en contrepartie d’un travail effectué par la société dans la résidence de celui-ci et qu’il l’a déposé dans son compte personnel et que, de plus, ce montant n’a pas été déclaré au titre de revenu de la société. Il a aussi effectué des dépôts en argent liquide qui totalisaient 5 800 $, 17 925 $ et 6 200 $ dans son compte de banque personnel au cours des périodes qui correspondaient aux années d’imposition 1991, 1992 et 1993 de la société, respectivement. Ces sommes ont été déposées dans le cadre de 11 dépôts séparés constitués, la plupart du temps, de billets de 100 $. Cependant, il a aussi déposé plusieurs billets de 1 000 $ et quatre billets de 50 $.
+[28] Monsieur Sylvain Gardner, le vérificateur, a considéré le chèque et les dépôts en espèces comme des revenus non déclarés de la société.
+[29] Pierre Therrien a admis avoir déposé le chèque de 8 000 $ dans son compte personnel, mais a déclaré avoir utilisé ce capital pour payer des dépenses de la société qui n’ont jamais été réclamées lors du calcul du revenu. Il a ajouté que l’argent liquide lui appartenait personnellement, et qu’il ne s’agissait pas de revenus d’entreprise de la société. Il a affirmé avoir réalisé un profit de 88 000 $ lors de la vente de certains appartements qui lui appartenaient, qu’il avait gardé cet argent en espèces à la maison, et qu’il l’avait déposé dans son compte de banque pour payer les factures de la société et pour le verser dans le capital d’exploitation.
+[30] Deuxièmement, les appelants contestent le rejet des dépenses réclamées par la société à titre de « dépenses de sous‑traitance » au montant de 4 000 $ en 1991, 12 518 $ en 1992 et 6 175 $ en 1993.
+[31] Ces montants ont été payés par chèque à Pierre Therrien qui déclare les avoir utilisés pour payer des sous‑traitants et des fournisseurs. Il affirme avoir utilisé ces fonds pour payer certains sous‑traitants de la société qui insistaient d’être payés en espèces, ainsi que pour acquérir des fournitures utilisées par la société dans le cadre de ses opérations. Il déclare qu’au cours des années en question, la plupart des projets de la société avaient lieu loin du siège social de la société qui se situait dans les Cantons de l’Est. En raison de tous ses déplacements à des différents sites de travail, il était incapable de faire des arrangements de crédit dans les endroits où il achetait du matériel; par conséquent, il payait en espèces. Il a affirmé ne pas avoir réclamé les montants payés en espèces à titre de dépenses de la société, sauf lorsqu’on lui avait donné des reçus.
+[32] Pierre Therrien a produit aussi deux reçus où figuraient des montants payés en espèces à Construction Helgo et il a soutenu que le vérificateur n’avait pas accepté de considérer ce montant au titre de dépenses de la société. Cependant, M. Gardner a témoigné qu’après avoir révisé ses documents de travail de vérification, les deux montants avaient effectivement été accordés au titre de dépenses en faveur de la société.
+[33] L’avocat des appelants a fait valoir que les explications fournies par Pierre Therrien en ce qui concerne les dépôts dans son compte personnel et l’utilisation des montants qu’il avait reçus de la part de la société, étaient plausibles et que le vérificateur avait, sans aucun fondement, ajouté le prétendu revenu non déclaré et rejeté les dépenses de sous‑traitance. Il a aussi affirmé que les montants qui figuraient dans les reçus émis par Construction Helgo devaient être admis.
+[34] Malheureusement, je ne suis pas en mesure de convenir avec cette soumission. Le témoignage de Pierre Therrien, relativement à tous ces éléments, manque des précisions requises pour augmenter le poids de sa crédibilité. Pierre Therrien n’a pu se rappeler que du nom de trois sous‑traitants qu’il affirme avoir payés en espèces, et aucune de ces parties n’a été citée à témoigner. Il n’a fourni aucun autre détail des autres prétendus paiements en espèces à des fournisseurs ou à des sous‑traitants et il n’a produit aucune corroboration en la matière. De plus, l’explication selon laquelle il devait payer les fournitures en espèces parce que la société ne pouvait pas obtenir de crédit auprès de certains fournisseurs n’explique pas pourquoi il n’a pas demandé de reçus pour ces achats. En tout état de cause, aucun de ces reçus n’a été produit au tribunal.
+[35] Il n’y a pas non plus de preuve à l’appui ni de témoignages d’autres témoins corroborant l’explication de Pierre Therrien au sujet des dépôts en espèces. Je suis d’avis qu’il est très peu probable que Pierre Therrien ait gardé 88 000 $ en espèces chez lui, pendant plusieurs années, ou que les dépôts en espèces provenaient d’une source autre que du revenu d’entreprise de la société.
+[36] J’admets aussi le témoignage de M. Gardner au sujet des reçus émis par Construction Helgo. Son témoignage selon lequel ces montants figuraient dans ses documents de travail et qu’il avait, en fait, accordé ces montants à titre de dépenses en faveur de la société, n’a pas été contesté lors de son contre‑interrogatoire et l’on n’a pas présenté de registres de la société contredisant ses propos à ce sujet.
+[37] Selon les appelants, la troisième erreur dans les cotisations de la société est que le ministre a omis d’appliquer l’intégralité de la perte autre qu'une perte en capital subie par la société au cours de l’année d’imposition 1995, au revenu que la société avait réalisé au cours des années d’imposition 1991 à 1994, en dépit de la demande présentée à cet effet.
+[38] La preuve a démontré que, lorsque la société avait déposé sa déclaration fiscale initiale pour l’année se terminant le 31 août 1995, elle avait subi une perte autre qu’une perte en capital qui s’élevait à 24 434 $. Dans le cadre de cette déclaration, la société a déposé une demande selon le formulaire prescrit pour que le ministre applique une partie de la perte, soit un montant de 10 199 $, à l’année d’imposition 1992, ce qui laisse un solde de pertes de 14 235 $ pouvant être imputé à des exercices financiers ultérieurs. La preuve démontre que la perte a été reportée rétrospectivement, telle que demandée. Par la suite, le 2 août 1996, le ministre a émis de nouvelles cotisations au nom de la société pour ses exercices 1991 à 1994, et ces nouvelles cotisations ont eu pour effet d’augmenter les revenus de la société pour les années 1991, 1992 et 1993. Les appelants prétendent que la société avait déposé une nouvelle demande à la suite des nouvelles cotisations, afin que l’on applique le solde de sa perte autre qu’une perte en capital de 1995 aux années précédentes, mais que le ministre n’avait jamais acquiescé à cette demande. M. Gardner a témoigné n’avoir jamais reçu de demande à cet égard.
+[39] Pierre Therrien a témoigné que le comptable de la société, M. Daigneault, lui avait conseillé que la société demande au ministre de reporter rétrospectivement un montant supplémentaire de perte, et qu’il avait donné à M. Daigneault l’instruction de déposer la demande en son nom. Il n’a pas mentionné le moment où la demande avait été déposée, ni la manière dont elle l’avait été, et M. Pierre Therrien a dit que M. Daigneault était maintenant décédé.
+[40] L’avocat des appelants a fait valoir qu’il n’y avait pas de formulaire prescrit pour demander au ministre de reporter une perte rétrospectivement en application de l’article 111 de la Loi de l’impôt sur le revenu et que le ministre avait commis l’erreur de ne pas accorder cette demande. Cependant, il est clair, d’après le libellé du paragraphe 152(6) de la Loi que les demandes de report rétrospectif doivent être présentées dans un formulaire prescrit:
+Nouvelle cotisation en cas de nouvelles déductions. Lorsqu'un contribuable a produit la déclaration de revenu exigée par l'article 150 pour une année d'imposition et que, par la suite, une somme est demandée pour l'année par lui ou pour son compte à titre de :
+c) déduction […] en application de l'article 111, relativement à une perte subie pour une année d'imposition ultérieure;
+en présentant au ministre, au plus tard le jour où le contribuable est tenu, ou le serait s'il était tenu de payer de l'impôt en vertu de la présente partie pour cette année d'imposition ultérieure, de produire en vertu de l'article 150 une déclaration de revenu pour cette année d'imposition ultérieure, un formulaire prescrit modifiant la déclaration, le ministre doit fixer de nouveau l'impôt du contribuable pour toute année d'imposition pertinente (autre qu'une année d'imposition antérieure à l'année donnée) afin de tenir compte de la déduction
+Reassessment where certain deductions claimed. Where a taxpayer has filed for a particular taxation year the return of income required by section 150 and an amount is subsequently claimed by the taxpayer or on the taxpayer's behalf for the year as…
+(c) a deduction …under section 111 in respect of a loss for a subsequent taxation year.
+by filing with the Minister, on or before the day on or before which the taxpayer is, or would be if a tax under this Part were payable by the taxpayer for that subsequent taxation year, required by section 150 to file a return of income for that subsequent taxation year, a prescribed form amending the return, the Minister shall reassess the taxpayer's tax for any relevant taxation year (other than a taxation year preceding the particular taxation year) in order to take into account the deduction claimed.
+[41] Le formulaire prescrit pour déposer une telle demande est le formulaire T2A. Malheureusement, la preuve devant moi est insuffisante et elle ne me permet pas de conclure que la société a déposé sa demande de report de perte selon le formulaire prescrit.
+Est-ce que le ministre est lié par une offre de règlement antérieure?
+[42] La société a contesté les cotisations du 2 août 1996 et l’agent des appels chargé d’étudier les oppositions a affirmé au comptable de la société, M. Daigneault, qu’il annulerait les revenus non déclarés qui étaient pris en considération lors du calcul des nouvelles cotisations. De plus, les notes de l’agent des appels démontrent que cette détermination a effectivement été annulée par son superviseur et que l’on n’a pas effectué de modifications aux montants ajoutés au revenu des années d’imposition 1991, 1992 et 1993, au titre de revenus non déclarés. La société a interjeté appel devant cette Cour à l’encontre de ces cotisations, mais les appels ont été rejetés. Pierre Therrien affirme avoir été incapable de présenter la cause de la société parce que M. Daigneault était décédé et qu’il ne connaissait pas les détails des calculs comptables. De plus, il avait de nombreux problèmes personnels à ce moment et a fait une faillite personnelle.
+[43] L’avocat des appelants a fait valoir que la déclaration de l’agent des appels selon laquelle les revenus non déclarés seraient annulés constitue une promesse et que cette Cour devrait, en toute équité, exiger l’exécution de la promesse. Il n’a fourni aucune jurisprudence pour appuyer sa proposition.
+[44] Cette soumission n’est pas défendable. Il est bien établi en droit que cette Cour n’est pas un tribunal d’équité et qu’elle n’est en mesure d’ordonner que l’on apporte des modifications à des cotisations que lorsque ces modifications sont conformes à la Loi. En outre, les représentations faites par les agents du ministre ne lient pas le ministre lorsqu’elles ne sont pas conformes à la Loi. J’ai déjà déterminé que les appelants n’avaient pas démontré que le ministre avait commis une erreur lorsqu’il avait tenu compte des dépôts effectués dans le compte personnel de Pierre Therrien au titre de revenus de la société.
+Contrepartie versée pour les dividendes
+[45] Finalement, l’avocat des appelants fait valoir que ces derniers ont remis une contrepartie pour les dividendes que la société leur avait versés.
+[46] Les arguments à cet égard sont identiques pour chacun des appelants et se retrouvent au paragraphe 25 de chacun des Avis d'appel :
+25-L'appelant a donné une contrepartie au moins égale à la juste valeur marchande des dividendes reçus pour chacune des raisons suivantes:
+a) le dividende versé est en contrepartie de la jouissance du capital fourni par l'appelant à la société;
+b) à compter de la déclaration de chacun des dividendes, l'appelant a obtenu un droit d'action contre la société correspondant au montant des dividendes et ce droit d'action s'est éteint lorsque le dividende fut effectivement payé;
+c) l'appelant, ayant donné des services à la société à titre d'employé et d'administrateur et permis l'usage de ses biens, avait un droit d'action contre la société dont la valeur est égale au moins au montant des dividendes. L'appelant a renoncé à ses droits lors du versement des différents dividendes;
+d) si l'appelant n'avait pas droit au droit d'action mentionné à l'alinéa c), il avait donc un recours contre la société pour son enrichissement injustifié. L'appelant a renoncé à ses droits lors du versement des dividendes;
+e) l'appelant a assumé une réduction de la valeur de ses actions qui correspond au montant des dividendes versés par la société;
+[47] Tout d'abord il faut préciser que ni l'un ni l'autre des appelants n’a témoigné. De plus il n'y a aucun élément de preuve présenté quant aux montants que les appelants auraient payé pour leurs actions, quant aux services et à l'usage des biens dont on fait mention au paragraphe 25c), quant à la renonciation des droits contre la société. Alors il n'est pas nécessaire de considérer les arguments qui figurent aux paragraphes 25c) et d). En ce qui concerne la question de savoir si un actionnaire reçoit des dividendes en contrepartie de la jouissance du capital fourni par l'actionnaire, l'avocat des appelants a encore fait référence à l'affaire Gestion Yvan Drouin (supra) aux paragraphes 42 et 44 dans laquelle le juge Archambault s’est exprimé ainsi :
+J'ai mentionné plus haut que le mot « transfert » est d'une portée assez large pour comprendre un dividende versé à un actionnaire. Par contre, il n'est pas aussi clair qu'un dividende est un bien transféré sans aucune contrepartie par le cessionnaire. Une société qui désire exploiter une entreprise a besoin de capital pour lui permettre de financer ses opérations et de faire l'achat des immobilisations nécessaires à l'exploitation de cette entreprise. Une de ses sources de fonds est le capital‑actions fourni par les actionnaires; une autre, le financement par prêts. Pour intéresser un actionnaire, la société offre un rendement sous forme de dividendes sur les actions détenues par cet actionnaire. Dans les cas de certaines actions privilégiées, comme cela est le cas ici, le rendement peut même avoir été prévu d'avance.
+De façon générale, un investisseur ne placerait pas son argent dans une société sans la possibilité de partager dans ses bénéfices. C'est d'ailleurs en raison de cette possibilité qu'un tel investisseur peut déduire ses dépenses, notamment ses frais d'intérêt, dans le calcul de son revenu. Son argent est investi dans le but d'en tirer un revenu – les dividendes – tout comme c'est le cas de la personne qui prête son argent pour en tirer de l'intérêt.
+[48] Il faut noter que le juge Archambault, dans cette affaire, a parlé en termes généraux et que ses commentaires étaient de nature obiter dictum. Le juge reconnaît qu'il existe des décisions qui arrivent à la conclusion opposée, notamment Algoa Trust et 116488 Canada Inc. c. Sa Majesté la Reine[11], dans laquelle le juge Rip conclut ainsi à la page 410 :
+Lorsqu'une personne souscrit des actions d'une corporation, elle paie théoriquement l'acquisition d'une part de propriété de la corporation et reçoit des actions d'une catégorie du capital-actions de la corporation. L'actionnaire verse une contrepartie pour les actions elles-mêmes et non pour ce qu'elles peuvent rapporter. Le fait d'être propriétaire d'actions confère à l'actionnaire certains droits: le droit de voter en tant qu'actionnaire, le droit de participer au partage du capital en cas de liquidation de la corporation et le droit de recevoir des dividendes (cette énumération ne prétend pas être exhaustive). Lorsque l'actionnaire reçoit un dividende, ce n'est pas en raison d'une contrepartie quelconque qu'il a donnée à la corporation ni du fait que la corporation est tenue de payer pour l'investissement. Quand un actionnaire achète des actions, il n'achète pas un droit à un revenu. Un actionnaire reçoit un dividende uniquement parce que le droit de recevoir un dividende est inhérent à la possession d'actions.
+[49] Même si l’on peut dire qu'il était possible de fournir une contrepartie pour le paiement d'un dividende, il n'y a pas de preuve d'une telle contrepartie en l'espèce. En l’absence d’un droit contractuel de recevoir ces dividendes particuliers, j’estime que l’on ne peut pas dire que la société ait versé ces dividendes en contrepartie du capital‑actions que les appelants ont fourni. Puisqu’il a été démontré que les actions, dans ce cas, ne sont pas des actions préférentielles qui comportent le droit de recevoir des dividendes précis, je n’ai pas besoin d’aborder l’argument de l’avocat des appelants à cet égard.
+[50] De plus, il me semble que les appelants ont acquis les actions pour des motifs autres que la possibilité de recevoir les dividendes. Pierre Therrien a témoigné que ses frères, les appelants, étaient devenus actionnaires pour obtenir une carte d’apprenti, ce qui leur donnait automatiquement le droit de travailler dans les chantiers de la société.
+[51] Finalement, l’argument des appelants au sujet de la diminution de la valeur de leurs actions à la suite du paiement de dividendes, est fondamentalement vicié. Même si la valeur des actions des appelants a diminué à la suite du versement des dividendes (ce qui n’a pas été démontré ici) cela ne signifie pas que la société ait reçu une contrepartie en paiement des dividendes. Il n’a pas été démontré que la prétendue diminution de valeur des actions des appelants ait causé un enrichissement équivalent de la société.
+[52] Pour tous ces motifs les appels sont rejetés.
+Signé à Ottawa, Canada, ce 7e jour de janvier 2005.
+Juge Paris
+RÉFÉRENCE :
+2004CCI791
+No DU DOSSIER DE LA COUR :
+2001-4618(IT)I et 2001-4619(IT)I
+INTITULÉ DE LA CAUSE :
+Denis Therrien et SMQ et
+Gérald Therrien et SMQ
+LIEU DE L'AUDIENCE :
+Sherbrooke (Québec)
+DATE DE L'AUDIENCE :
+le 13 juillet 2004
+MOTIFS DE JUGEMENT PAR :
+L'honorable Juge B. Paris
+DATE DU JUGEMENT :
+Le 7 janvier 2005
+COMPARUTIONS :
+Pour les appelants :
+Me Richard Généreux
+Pour l'intimée :
+Me Marie Claude Landry
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour les appelants :
+Nom :
+Me Richard Généreux
+Étude :
+Généreux Côté
+Drummondville (Québec)
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L.R.C. 1985, ch. 1 (5e suppl.)
+[2] C. Roy, La théorie de l'expectative légitime en droit administratif. Cowansville, Québec, Yvon Blais, 1998, p. 6.
+[3] Renvoi relatif au Régime d'assistance publique du Canada [1991] 2 R.C.S. 525, 558.
+[4] [2001] 2 S.C.R. aux paragraphes 35 et 38.
+[5] Dhanjal c. Ministre de l'emploi et de l'immigration [1991] A.C.F. 808
+[6] [1981] 2 S.C.R. 339
+[7] L.Q. 1991 ch 64
+[8] [2000] A.C.I. no 872
+[9] 97 DTC 223
+[10] 98 DTC 6605
+[11] 93 DTC 405, confirmée par la Cour d'appel fédérale dans une décision non publiée, le 4 février 1998.

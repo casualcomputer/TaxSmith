@@ -1,0 +1,204 @@
+---
+title: "Ray v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29130/index.do"
+last_modified: "2009-03-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 140"
+citation2: ""
+neutral_citation: "2009 TCC 140"
+decision_date: "2009-03-06"
+language: "en"
+item_id: "29130"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6630
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:29:48.443000+00:00"
+cases_cited_count: 6
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4d7431dde97d3345d500e511358e29273ee864ed35d487a836c91882d7750ae7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ray v. The Queen
+
+- Citation: 2009 TCC 140
+- Decision date: 2009-03-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6630, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ray v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-03-06
+Neutral citation
+2009 TCC 140
+File numbers
+2004-2700(IT)G
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-2700(IT)G
+2006-432(IT)G
+BETWEEN:
+RHONDA RAY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 12-15, 2009, at Toronto, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Counsel for the Appellant:
+Patricia A. LeFebour
+Counsel for the Respondent:
+Brent E. Cuddy
+Catherine Letellier de St-Just
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2001, 2002 and 2003 taxation years are dismissed with costs.
+Signed at Ottawa, Canada, this 6th day of March 2009.
+“V.A. Miller”
+V.A. Miller, J.
+Citation: 2009TCC140
+Date: 20090306
+Docket: 2004-2700(IT)G
+2006-432(IT)G
+BETWEEN:
+RHONDA RAY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller, J.
+[1] The Appellant has appealed the reassessments of her 2001, 2002 and 2003 taxation years wherein the Minister of National Revenue (“the Minister”) disallowed a medical expense tax credit (“METC”) for the cost of vitamins, herbs, homeopathic remedies, organic and natural foods, health care products, bottled water, groceries and personal care products (the “Products”) which cost totalled $9,117, $12,070 and $10,339 respectively. A METC for the Products was disallowed on the basis that their purchase was not recorded by a pharmacist as required by paragraph 118.2(2)(n) of the Income Tax Act (“ITA”).
+[2] The issues in these appeals are whether:
+a) the Appellant is entitled to claim a METC for the Products;
+b) paragraph 118.2(2)(n) of the Act infringes the Appellant’s right to equality under section 15 of the Charter;
+c) paragraph 118.2(2)(n) of the Act infringes the Appellant’s right to security of the person under section 7 of the Charter.
+[3] In 2001, 2002 and 2003, the Appellant did receive a METC for medical expenses in the amounts of $1,869, $2,574 and $337, respectively.
+[4] The Appellant suffers from Chronic Fatigue and Immune Dysfunction Syndrome (“CFIDS”), Fibromyalgia Syndrome (“FMS”), and multiple chemical sensitivities (“MCS”). She was first diagnosed with these illnesses in the latter part of 1986 by Dr. Catherine Anne Mildon. It is not disputed that the Appellant has these illnesses nor that she has been under the care of a medical practitioner for over 20 years. During the years under appeal, Drs. Zazula and Koopmans attended to the Appellant. At present, Dr. Mildon is again her physician.
+[5] The Appellant explained that in 1986, Dr. Mildon prescribed a regime of products that she was to take in order to keep her disorders in abeyance and so that she could perform the activities of daily living. Her regime included organic foods, foods without pesticides, colours or dyes in them, and a regime of vitamins, herbs and homeopathic remedies. The Appellant has continued to take these substances as her prognosis is that she most likely will have CFIDS, FMS and MCS for the rest of her life.
+[6] In the years under appeal, the Products were purchased from the Appellant’s naturopathic practitioner and from health food stores. It was the Appellant’s evidence that the type and quality of the vitamins, herbs and homeopathic remedies that she purchased from her naturopathic practitioner were generally not available at a regular drugstore.
+[7] The Appellant stated that the Products she takes assists her in the following areas of treatment:
+1- antibacterial, antiviral
+2- antioxidants
+3- detoxification
+4- digestive support
+5- energy support
+6- immune support
+7- pain relief
+8- probiotics
+9- vitamins, minerals for nutritional and function support
+10- topical substances
+She explained which herbal remedies, minerals and vitamins she took for each of the categories numbered 1 to 7. It was her evidence that taking the regime of Products has helped to maintain her immune system so that she can live an almost normal life.
+[8] The Products were prescribed and /or overseen by her medical doctor and her naturopath practitioner.
+[9] In 2001, 2002 and 2003 the Appellant’s health improved and she was able to work in the family business, between 25-35 hours a week. However, her ability to work was and is directly related to her ingestion of the Products. She stated that if she stopped taking the regime of Products there would be a relapse and she would become bedridden and would be unable to work. In fact, the Appellant did stop taking the Products on one occasion to get ready for a blood test; and she noticed a brief deterioration in her health.
+[10] Dr. Mildon testified that she graduated from the University of Ottawa in 1969 as a medical doctor. She took residencies in internal medicine, respiratory diseases and anatomical pathology. She started to practice as a MD in 1970. From 1973 to 1982, while continuing her practice, she supervised and helped to write the protocol for bioavailability studies on many medications that were coming on the market as part of the Ontario drug program. She explained that bioavailability studies entail comparing a generic product with a like substance that has a trade mark. By 1982, Dr. Mildon was recognized as a clinical pharmacologist and a toxicologist. In 1984, she received her diploma in occupational health and safety. She described herself as a diagnostician and stated that she took all of these programs because she “wanted to be able to diagnose anything and everything that walked through (her) door”.
+[11] Dr. Mildon stated that she was the Appellant’s physician from 1986 until April, 1995. She prescribed the regime of Products which the Appellant started to ingest in 1986 and continued to ingest during the period under appeal. However, during 2001, 2002 and 2003 Dr. Mildon was not involved in the Appellant’s medical treatment (transcript p.107). She resumed treating the Appellant in February 2007.
+[12] On objection from counsel for the Respondent and rulings of the court, Counsel for the Appellant was not permitted to ask Dr. Mildon questions that would require an opinion. The basis for the ruling was that Dr. Mildon was not the Appellant’s treating physician during the relevant years and Dr. Mildon had not been presented or qualified as an expert witness. Counsel for the Appellant’s request to submit an expert report to the court at the hearing or to have the hearing adjourned so that an expert report could be prepared and filed was denied.
+[13] Rule 145(2) of the Tax Court of Canada Rules (General Procedure) reads as follows:
+(2) Unless otherwise directed by the Court, no evidence in chief of an expert witness shall be received at the hearing in respect of an issue unless,
+(a) the issue has been defined by the pleadings or by written agreement of the parties stating the issues,
+(b) a full statement of the proposed evidence in chief of the witness has been set out in an affidavit, the original of which has been filed and a copy of which has been served on all other parties, not less than thirty days before the commencement of the hearing; and
+(c) the witness is available at the hearing for cross-examination.
+[14] I found that to allow the report to be tendered during the hearing of the appeal would be prejudicial to the Respondent. These appeals were originally scheduled for July 2008 and at the request of the Appellant they had been adjourned to January 2009. As well, counsel for the Appellant was fully aware of Rule 145 as she did file an expert report in accordance with the rules for Dr. Harth.
+[15] Dr. Manfred Harth was accepted as an expert witness to give evidence with respect to Fibromyalgia Syndrome (FMS) and Chronic Fatigue Syndrome (CFIDS).
+[16] He described fibromyalgia as a condition of chronic pain associated with fatigue and a non-refreshing sleep. The pain is considered chronic if it has lasted more than three months; the pain must involve at least three separate regions of the body; and, the patient must have at least eleven out of eighteen tender points. He defined a tender point as a point which is painful when pressed. The tender points are described in terms of their surface anatomical location and were defined by the American College of Rheumatology.
+[17] Patients with FMS may have a number of associated problems, such as migraine, irritable bowel, irritable bladder and CFIDS. As well, mood disorders such as depression and anxiety are common in patients with FMS.
+[18] Dr. Harth stated that studies have shown that seventy-five to ninety per cent of patients with FMS are women. The cause of FMS is still unknown.
+[19] It was his evidence that the treatment of FMS is very expensive for both the public and private health care systems. The treatment for FMS involves both medicinal and non-medicinal modalities. He added that there was some evidence that “some in a group of treatments designated as ‘complementary and alternative medicine’ (CAM) may be useful”. He described the drugs that are used to treat FMS and those other drugs that show promise in the treatment of FMS. He said that there was clear evidence that exercise is important in improving the function of patients with FMS. It was his opinion that there are, at present, a number of treatments of proven efficacy, and several in the process of development.
+Issue (a) Whether the Appellant is entitled to claim a METC for the Products?
+[20] The particular provision of the Income Tax Act (the “Act”) which is at issue is paragraph 118.2(2)(n) which reads:
+(2) Medical expenses -- For the purposes of subsection (1), a medical expense of an individual is an amount paid
+(n) for drugs, medicaments or other preparations or substances (other than those described in paragraph (k)) manufactured, sold or represented for use in the diagnosis, treatment or prevention of a disease, disorder, abnormal physical state, or the symptoms thereof or in restoring, correcting or modifying an organic function, purchased for use by the patient as prescribed by a medical practitioner or dentist and as recorded by a pharmacist;
+[21] The Appellant had appealed the reassessment of her 1999 taxation year on the basis that the Minister had disallowed a METC for the cost of vitamins, herbs, organic and natural foods, and bottled water as their purchase was not recorded by a pharmacist. The Appellant’s appeal was allowed at the Tax Court of Canada (“TCC”). The appeal from the TCC decision was allowed by the Federal Court of Appeal (“FCA”) and leave was refused by the Supreme Court of Canada. In allowing the appeal from the TCC, the FCA held that the words “as recorded by a pharmacist” could not be ignored. Sharlow J.A. stated the following at paragraph 11:
+In my view, the Tax Court Judge erred in law when he concluded that the words "as recorded by a pharmacist' in paragraph 118.2(2)(n) could be ignored. I understand why he felt that those words represented an unjustifiable impediment to tax relief for Ms. Ray. Like the Tax Court Judge, I sympathize with Ms. Ray. However, it is not open to this Court, or the Tax Court, to disregard statutory requirements imposed by Parliament, even if they are difficult to rationalize on policy grounds. It is for Parliament alone to determine whether the words "as recorded by a pharmacist" should be removed from paragraph 118.2(2)(n)[1].
+[22] In the present appeal, as in the appeal before the FCA, the purchase of the Products was not recorded by a pharmacist.
+[23] In Ray, Sharlow J.A. described the rationale for the recording requirement in paragraph 118.2(2)(n) as follows:
+12 In my view, it is reasonable to infer that the recording requirement in paragraph 118.2(2)(n) is intended to ensure that tax relief is not available for the cost of medications purchased off the shelf. There are laws throughout Canada that govern the practice of pharmacy. Although the laws are not identical for each province and territory, they have common features. Generally, they prohibit a pharmacist from dispensing certain medications without a medical prescription, and they describe the records that a pharmacist is required to keep for medications dispensed by prescription, including information that identifies the prescribing person and the patient. There is no evidence that pharmacists anywhere in Canada are required to keep such records for the substances in issue in this case.[2]
+[24] Counsel for the Appellant has argued that both the TCC decision in Breger v. Canada[3]and recent provincial legislative initiatives have superseded the FCA decision in Ray.
+[25] In Breger, certain medicinal, nutritional and herbal supplements were prescribed by the Appellant, a medical doctor, for his wife. The medications were dispensed and recorded by a pharmacist. McArthur, J. agreed with the Appellant that the legislation governing pharmacists in Quebec required the pharmacist to record all medications prescribed by a medical doctor.
+[26] I disagree that the Breger decision has any application to the present appeal. During the relevant years, the Appellant was not a resident of Quebec; none of the Products were dispensed by a pharmacist or recorded by a pharmacist. In fact, it was the Appellant’s evidence that she did not purchase the Products from a pharmacy.
+[27] Counsel for the Appellant has referred to draft legislation that is before the legislature in New Brunswick (read first time on May 20, 2008) and the Pharmacists Profession Regulation (Alta. Reg. 129/2006) from Alberta which expand the role of pharmacists so that they can prescribe certain medications. Both the draft legislation and the regulations referred to by counsel are of no assistance to the Appellant.
+[28] Based on the FCA decision in Ray, which is directly applicable to the facts in the present appeal, the Appellant is not entitled to claim a METC for the Products.
+Issue (b) Whether paragraph 118.2(2)(n) of the Act infringes the Appellant’s right to equality under section 15 of the Charter?
+[29] Section 15 of the Canadian Charter of Rights and Freedoms (the "Charter") reads:
+Equality Rights
+15. (1) Every individual is equal before and under the law and has the right to the equal protection and equal benefit of the law without discrimination and, in particular, without discrimination based on race, national or ethnic origin, colour, religion, sex, age or mental or physical disability
+(2) Subsection (1) does not preclude any law, program or activity that has as its object the amelioration of conditions of disadvantaged individuals or groups including those that are disadvantaged because of race, national or ethnic origin, colour, religion, sex, age or mental or physical disability.
+[30] The Appellant is seeking that the METC be extended to cover the Products. She has suggested that this can be done while still preserving the integrity of paragraph 118.2(2)(n) by reading in the words “may be” prior to the words “recorded by a pharmacist”, so that the last phrase would read:
+… as prescribed by a medical practitioner or dentist and as may be recorded by a pharmacist;
+[31] The issue before me is not what the METC should provide but rather whether the Government of Canada’s failure to allow a METC for these Products amounted to an unequal and discriminatory denial of benefits under the Act, contrary to section 15 of the Charter[4].
+[32] The threshold requirement under section 15 of the Charter is that the Appellant must show that she is denied a benefit provided by the law[5]. The benefit sought in the present appeal, is a METC for the cost of vitamins, herbs, homeopathic remedies, organic and natural foods, health care products, bottled water, groceries and personal care products (the “Products”). This is a benefit that is not conferred on anyone else and is not a benefit provided by the law.
+[33] In Sharifa Ali and Rose Markel v. Her Majesty the Queen[6], the Appellants sought to claim a METC for the cost of certain herbs, vitamins and supplements. The Appellants in that case argued that the “recorded by a pharmacist” requirement in paragraph 118.2(2)(n) of the Act violated their rights under subsection 15(1) and section 7 of the Charter. In finding that subsection 15(1) had not been infringed, Ryer J.A. stated:
+19 In my view, it cannot be said that the non-inclusion of the cost of the Dietary Supplements in the definition of medical expenses in subsection 118.2(2) of the ITA, in general, or paragraph 118.2(2)(n) of the ITA, in particular, is inconsistent with the purpose and scheme of the METC legislation. Rather, the non-inclusion of that benefit is fully consistent with the purpose of only extending the benefit of the METC to a specific enumeration of medical expenses. Accordingly, I am of the view that the non-inclusion of the benefit claimed by the appellants from the legislation in question does not constitute discrimination by effect.
+20 Having reached the conclusion that the benefit sought by the appellants is not a benefit provided by the law and that the legislative choice not to provide such a benefit does not give rise to direct discrimination or discrimination by effect, I am of the view that the appellants' subsection 15(1) argument need not be further considered. In so concluding, I note that a similar conclusion was reached by the Supreme Court of Canada in Auton, at paragraph 47:
+[34] It is my opinion that the facts in the present appeal are indistinguishable from those in Ali.
+[35] Counsel for the Appellant argued that the FCA in Ali misplaced its focus on the Auton decision as in that case the parents were seeking a benefit to be created whereas in Ali, as in the present case, the METC is an existing benefit. Counsel asserted that the Appellant is excluded from the benefit on the basis of a personal characteristic as in Hislop v. Canada[7].
+[36] In the present appeals, the METC is similar to the legislation at issue in Auton in that it is a partial plan[8]. The Act does not explicitly provide for or deny the credit for the Products. The benefit that the Appellant is seeking is not offered to any taxpayers, regardless of their personal characteristics. She is seeking a benefit to be created.
+[37] The decision in Hislop is distinguishable from the present appeals. At issue in Hislop was a provision which limited the ability of same-sex survivors to obtain benefits where the deceased partner passed away prior to January 1, 1998. The Supreme Court found that the provision limiting the retroactivity of the benefits was discriminatory. In that case unlike the present appeals, the benefit already existed.
+[38] In conclusion, considering all of the above, I find that the Appellant’s subsection 15(1) Charter rights have not been infringed.
+Issue (c) Whether paragraph 118.2(2)(n) of the Act infringes the Appellant’s right to security of the person under section 7 of the Charter.
+[39] In Ali, the FCA discussed section 7 of the Charter as it applied to an income tax assessment as follows:
+21 In addition to their subsection 15(1) argument, the appellants contend that the reassessments that denied their METC claims in respect of the "off the shelf" Dietary Supplements have caused them anxiety or stress such that the issuance of those reassessments has led to a real or imminent deprivation of their life, liberty or security of the person, contrary to section 7 of the Charter. It would be a remarkable proposition if the demonstration of anxiety or stress at the prospect of having to pay income taxes were a sufficient basis upon which to be excused from having to pay such taxes. Moreover, there is no suggestion that the appellants cannot have access to the Dietary Supplements without the METC that they have claimed.
+22 In my view, the ability to resist an income tax assessment on the basis of section 7 of the Charter has been sufficiently dealt with by Justice Rothstein at paragraphs 29 and 30 of the decision of this Court in Mathew v. R., 2003 FCA 371 (F.C.A.), in which he stated:
+[29] I will accept that the power of reassessment of a taxpayer implicates the administration of justice. However, I do not accept that reassessments of taxpayers result in a deprivation of liberty or security of the person.
+[30] If there is a right at issue in the case of reassessments in income tax, it is an economic right. In Gosselin, McLachlin C.J.C., for the majority, observed that in Irwin Toy Ltd. v. Quebec (A.G.), [1989] 1 S.C.R. 927 at 1003, Dickson C.J.C., for the majority, left open the question of whether section 7 could operate to protect "economic rights fundamental to human...survival". However, there is no suggestion in Gosselin that section 7 is broad enough to encompass economic rights generally or, in particular, in respect of reassessments of income tax. I am, therefore, of the view that the appellants have not demonstrated a deprivation of any right protected by section 7 of the Charter.
+[Emphasis added.]
+[40] The statements in Ali are directly applicable to these appeals. There is no infringement of the Appellant’s rights under section 7 of the Charter.
+[41] The appeals are dismissed with costs.
+Signed at Ottawa, Canada, this 6th day of March 2009.
+“V.A. Miller”
+V.A. Miller, J.
+CITATION: 2009TCC140
+COURT FILE NO.: 2004-2700(IT)G
+2006-432(IT)G
+STYLE OF CAUSE: RHONDA RAY AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: January 12-15, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: March 6, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Patricia A. LeFebour
+Counsel for the Respondent:
+Brent E. Cuddy
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Patricia A. LeFebour
+Firm: Rochon, Genova LLP
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Her Majesty the Queen v. Rhonda Ray, 2004 FCA 1
+[2] Ibid at paragraph 12
+[3] [2007] T.C.J. No.137
+[4] Auton (Guardian ad litem of) v. British Columbia (Attorney General), 2004 SCC 78 at paragraph 2
+[5] Ibid, at paragraph 27
+[6] 2008 FCA 190
+[7] 2007 SCC 10
+[8] Ali v. The Queen, 2006 TCC 287 at paragraphs 116 to 119

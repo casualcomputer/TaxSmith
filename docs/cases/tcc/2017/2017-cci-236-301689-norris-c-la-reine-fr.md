@@ -1,0 +1,154 @@
+---
+title: "Norris c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/301689/index.do"
+last_modified: "2017-12-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 CCI 236"
+citation2: ""
+neutral_citation: "2017 CCI 236"
+decision_date: "2017-12-11"
+language: "fr"
+item_id: "301689"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7817
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:15:55.709000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "025029eb4ab0692133974aa003fba35162f7bb3cbaceca52d776b1a18a489c17"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Norris c. La Reine
+
+- Citation: 2017 CCI 236
+- Decision date: 2017-12-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7817, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Norris c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-12-11
+Référence neutre
+2017 CCI 236
+Numéro de dossier
+2016-4210(IT)I
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-4210(IT)I
+ENTRE :
+BRIAN L. NORRIS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus le 16 août 2017, à Nanaimo (Colombie-Britannique), et le 14 novembre 2017, par téléconférence
+Devant : L’honorable juge B. Paris
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Kayla Baldwin
+JUGEMENT MODIFIÉ
+Les appels des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2005, 2006, 2007 et 2008 sont accueillis en partie, sans dépens, conformément aux concessions faites par l’intimée dans les motifs modifiés du jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique), ce 11e jour de décembre 2017.
+« B. Paris »
+Le juge Paris
+Référence : 2017 CCI 236
+Date : 20171211
+Dossier : 2016-4210(IT)I
+ENTRE :
+BRIAN L. NORRIS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS MODIFIÉS DU JUGEMENT
+Le juge Paris
+[1] Il s’agit d’appels par la procédure informelle des nouvelles cotisations établies pour les années d’imposition 2005, 2006, 2007 et 2008 de l’appelant. L’appelant conteste l’inclusion dans son revenu des montants qu’il a reçus de sa société « Golden Hinde Cable Services Ltd. » (la « société ») à titre d’avantages conférés à un actionnaire pour les années d’imposition susmentionnées. Les montants inclus à titre d’avantages conférés à un actionnaire étaient de 63 808 $ en 2005, de 50 887 $ en 2006, de 51 524 $ en 2007 et de 30 730 $ en 2008.
+[2] L’appelant ne conteste pas avoir reçu ces montants de la société, mais il maintient qu’il les a reçus à titre de remboursements des dépenses d’entreprise qu’il a personnellement payées.
+[3] La disposition législative applicable est le paragraphe 15(1) de la Loi de l’impôt sur le revenu (la « Loi ») qui se lit comme suit :
+15. (1) Avantages aux actionnaires – La valeur de l’avantage qu’une société confère, à un moment donné d’une année d’imposition, à un actionnaire [...] :
+a)...
+b)...
+c)...
+d)...
+sauf dans la mesure où cette valeur est réputée en vertu de l’article 84 constituer un dividende.
+[4] Aucune des exceptions prévues aux alinéas 15(1)a) à d) ne s’applique à la situation de l’appelant en l’espèce.
+Faits [5] L’appelant était, en tout temps, l’unique actionnaire et administrateur de la société. Selon lui, la société a cessé ses activités à un certain moment en 2011.
+[6] L’appelant n’a pas produit de déclarations de revenus personnelles pour les années d’imposition en cause avant le 20 avril 2012, après que le ministre du Revenu national (le « ministre ») a établi des cotisations arbitraires pour ces années-là, en vertu du paragraphe 152(7) de la Loi.
+[7] Avant le 12 juin 2014, la société n’avait pas produit de déclarations de revenus pour ses années d’imposition se terminant le dernier jour de février 2006, 2007, 2008 et 2009. L’Agence du revenu du Canada (l’« ARC ») a par la suite effectué une vérification de la société et a déterminé que l’appelant avait fait des retraits en espèces importants du compte bancaire de la société tout au long des années 2005, 2006, 2007 et 2008, et que la société avait également effectué des versements sur la carte de crédit personnelle de l’appelant pendant ces années-là.
+[8] Les retraits en espèces totalisaient 44 388,75 $ en 2005, 45 988 $ en 2006, 42 699,95 $ en 2007 et 26 331 $ en 2008.
+[9] Les paiements relatifs à la carte de crédit totalisaient 23 644,09 $ en 2005, 4 898,70 $ en 2006, 8 827,23 $ en 2007 et 4 398,63 $ en 2008.
+[10] Une nouvelle cotisation a été établie à l’égard de l’appelant pour tenir compte de ces montants reçus à titre d’avantages lui étant conférés par la société en sa qualité d’actionnaire.
+[11] Le seul revenu d’emploi déclaré par l’appelant et provenant de la société était le montant de 4 225 $, en 2005. Il semble également qu’il ait reçu 23 813 $ en 2005, 2 023 $ en 2006 et 3 000 $ en 2008 à titre de revenus tirés de son REÉR.
+[12] Au cours de la vérification de la société, l’appelant a été invité à fournir des registres indiquant le montant des dépenses qu’il a dit avoir engagées pour la société. Il a remis au vérificateur trois sacs d’épicerie contenant des reçus non triés. Lorsqu’on lui a demandé de classer les reçus de façon un peu plus cohérente, il a répondu ne pas être en mesure de le faire. En contre-interrogatoire, l’appelant a admis que sa tenue de livres était [traduction] « déplorable ».
+[13] À l’audience, l’appelant a déclaré qu’il travaillait loin de chez lui, pour la société, 99 % du temps pendant les années en question, et qu’il payait ses dépenses de repas et de logement avec sa carte de crédit. Il a dit que la société le remboursait en payant ses factures de carte de crédit. Il a également déclaré qu’il faisait des retraits d’argent du compte bancaire de la société pour effectuer les versements hypothécaires sur sa maison et payer les frais de services publics et de véhicule automobile, parce qu’il utilisait une grande partie de sa maison et de la propriété entourant cette dernière à des fins professionnelles, tant pour son bureau que pour l’entreposage d’outils, d’équipement et de véhicules de travail. Il a déclaré de plus qu’il conservait un dossier de prêt à l’actionnaire, mais que ces renseignements [traduction] « n’étaient pas écrits ». L’appelant n’a pas pu produire aucun document et n’a donné aucun détail sur les dépenses qu’il prétend avoir engagées au nom de la société.
+Position de l’appelant [14] L’appelant a déclaré qu’il avait été intimidé pendant la procédure de vérification et d’opposition, et qu’il estimait ne pas avoir été traité équitablement. Il a soutenu ne pas avoir été en mesure de se préparer pour l’audience, parce que le vérificateur, l’agente des appels et l’avocat du ministère de la Justice n’avaient pas répondu, avant l’audience, à ses demandes d’explications sur les nouvelles cotisations. Il a également déclaré n’avoir reçu la copie des feuilles de travail de vérification qu’un mois avant l’audience.
+[15] L’agente des appels qui a traité l’opposition de l’appelant a cependant déclaré avoir remis les feuilles de travail de vérification à l’appelant à deux reprises (soit en janvier 2015 et en février 2016), et avoir tenté de fournir des explications à l’appelant sur les nouvelles cotisations, mais que ce dernier ne les comprenait pas. Elle lui a également mentionné qu’il devrait trier ses reçus et établir le lien entre les dépenses et les activités de la société. Elle a déclaré n’avoir rien reçu de l’appelant.
+Décision [16] Dans le cadre d’un appel interjeté à l’égard de nouvelles cotisations, le contribuable a le fardeau d’établir que les hypothèses de fait formulées par le ministre sont erronées.
+[17] Je conclus que l’appelant ne s’est pas acquitté de ce fardeau. Le témoignage qu’il a rendu relativement aux dépenses d’entreprise alléguées était vague et superficiel. Cette preuve était constituée principalement d’affirmations générales et très intéressées selon lesquelles l’appelant avait reçu les montants en cause à titre de remboursements des dépenses qu’il avait engagées au nom de la société, ainsi que d’excuses pour justifier son manque de préparation à l’audience. Il n’a fourni absolument aucun document à l’appui de son allégation selon laquelle les montants en cause étaient des remboursements des dépenses de la société qu’il avait payées. Je mets également en doute la fiabilité globale du témoignage de l’appelant, considérant que les plaintes qu’il a formulées sur le fait de ne pas avoir reçu d’explications quant aux nouvelles cotisations ni de copie des feuilles de travail de vérification en temps opportun avaient nettement été réfutées par l’agente des appels. Le témoignage de cette dernière a été corroboré par une lettre envoyée à l’appelant, dont une copie a été produite à l’audience. Je retiens le témoignage de l’agente des appels.
+[18] Je suis d’avis que les enseignements de la Cour d’appel fédérale dans l’arrêt Njenga c. Canada, [1996] A.C.F. no 1218 (QL), aux paragraphes 3 et 4, s’appliquent en l’espèce :
+[TRADUCTION]
+[3] Le système fiscal est fondé sur l’autocontrôle. Il est d’intérêt public que la charge de prouver le fondement des déductions et des réclamations repose sur le contribuable. Le juge de la Cour de l’impôt a tranché que les personnes comme la requérante doivent être en mesure de produire toutes les informations et justifications permettant d’appuyer les réclamations qu’elles font. Nous sommes d’accord avec cette conclusion. Mme Njenga, à titre de contribuable, a la responsabilité de justifier ses affaires personnelles d’une manière raisonnable. Des reçus écrits par elle-même et des allégations sans preuve ne sont pas suffisants.
+[4] Le problème du manque de justification est encore aggravé par le fait que le juge du procès, à qui il revient d’apprécier la crédibilité, a conclu que la requérante ne répondait pas aux exigences sur ce point.
+[19] À l’audience, l’avocate de l’intimée a admis que les montants de la cotisation établis à l’égard de l’appelant devraient être réduits de 375 $ pour son année d’imposition 2006, de 316 $ pour son année d’imposition 2007 et de 651 $ pour son année d’imposition 2008, selon les renseignements supplémentaires fournis par l’appelant. Les appels sont donc accueillis en partie pour refléter lesdites concessions.
+Signé à Vancouver (Colombie-Britannique), ce 11e jour de décembre 2017.
+« B. Paris »
+Le juge Paris
+RÉFÉRENCE :
+2017 CCI 236
+NO DU DOSSIER DE LA COUR :
+2016-4210(IT)I
+INTITULÉ :
+BRIAN L. NORRIS c. SA MAJESTÉ LA REINE
+LIEU ET DATE DE L’AUDIENCE :
+Nanaimo (Colombie-Britannique)
+Le 16 août 2017
+Téléconférence
+Le 14 novembre 2017
+MOTIFS MODIFIÉS DU JUGEMENT :
+L’honorable juge B. Paris
+DATE DU JUGEMENT :
+Le 11 décembre 2017
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Kayla Baldwin
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+S.O.
+Cabinet :
+S.O.
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

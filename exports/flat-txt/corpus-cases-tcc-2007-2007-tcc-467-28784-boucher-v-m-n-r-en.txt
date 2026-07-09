@@ -1,0 +1,162 @@
+Title: Boucher v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28784/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-467-28784-boucher-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2007-08-22
+
+# Boucher v. M.N.R.
+
+- Citation: 2007 TCC 467
+- Decision date: 2007-08-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1505, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Boucher v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-08-22
+Neutral citation
+2007 TCC 467
+File numbers
+2006-1654(EI)
+Judges and Taxing Officers
+Sylvio J. Savoie
+Subjects
+Canada Pension Plan
+Employment Insurance Act
+Decision Content
+Docket: 2006-1654(EI)
+BETWEEN:
+FERNAND BOUCHER,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+LES CONCIERGERIES DANIEL ENR.,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on June 11, 2007, at Bathurst, New Brunswick
+Before: The Honourable Deputy Justice S.J. Savoie
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Stéphanie Côté
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the Minister's decision is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Grand-Barachois, New Brunswick, Canada, this 22nd day of August 2007.
+"S.J. Savoie"
+Savoie D.J.
+Translation certified true
+on this 29th day of August 2007.
+Francie Gow, Translator
+Citation: 2007TCC467
+Date: 20070822
+Docket: 2006-1654(EI)
+BETWEEN:
+FERNAND BOUCHER,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE
+Respondent,
+and
+LES CONCIERGERIES DANIEL ENR.,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Savoie, D.J.
+[1] This appeal was heard at Bathurst, New Brunswick, on June 11, 2007.
+[2] This is an appeal from a decision by the Minister of National Revenue (the Minister) to the effect that the employment held by the Appellant with Daniel Boucher (the payer) during the period from September 11 to December 3, 2005 (the period at issue), was not insurable. After reviewing the Appellant's file, the Minister decided that the employment was excluded for employment insurance purposes, pursuant to paragraphs 5(2)(i) and 5(3)(b) of the Employment Insurance Act (the Act) and section 251 of the Income Tax Act.
+[3] The Minister's decision was based on the following assumptions of fact:
+[TRANSLATION]
+a) The payer was the sole proprietor of the business Les Conciergeries Daniel Enr. (the business), which he had been operating since March 1996; (admitted)
+b) The payer's business was located in Edmundston, New Brunswick, and provided janitorial services to various other businesses in that region; (admitted)
+c) The business also provided public transportation services and had a school bus transportation contract with the school district; (admitted)
+d) The payer operated his business year round, although the busiest months were during the spring and fall; (admitted)
+e) The payer employed approximately eight people during the busiest periods; (admitted)
+f) The payer and his spouse controlled the daily operations of the business; (admitted)
+g) The Appellant is the payer's father; (admitted)
+h) The Appellant was responsible for commercial building maintenance; his tasks included stripping and waxing floors, cleaning carpets, washing walls and windows and performing various maintenance and repair jobs as needed; (admitted)
+i) In addition to the tasks listed in subparagraph (h), on some occasions the Appellant was called upon to replace the payer in driving school buses; (admitted)
+j) The Appellant received $13.00 per hour, including vacation pay; (admitted)
+k) The average hourly wage of all the other employees of the payer was $8.00; (admitted)
+l) The Appellant had been hired to replace another employee; (denied)
+m) The employee that the Appellant replaced had been paid $8.00 per hour and had performed all the same tasks as the Appellant except for driving school buses; (denied)
+n) The Appellant was the only employee who was paid in cash; (admitted)
+o) All other employees were paid by cheque; (admitted)
+p) The Appellant and the other employees were listed in the payer's payroll; (admitted)
+q) The wages of all the other employees of the payer were recorded in the payer's cash disbursements journal; (denied)
+r) The Appellant's wages were not recorded in the payer's cash disbursements journal; (denied) and
+s) Every payday, the Appellant's wages were credited to the payer's capital account. (denied)
+[4] The Appellant was paid $12.48 per hour plus 4% vacation pay.
+[5] It has been established that the Appellant was hired to replace Carl Lavoie, who had suffered an injury. The latter had been paid $8.00 per hour to perform approximately the same tasks. It is true that the Appellant was responsible for additional tasks not performed by his predecessor, but, according to the evidence, not enough to justify such a large difference in salary. It also came to light that the payer had reported to the insurance officer that he was paying such high wages to his father so that the father [TRANSLATION] "could get bigger stamps".
+[6] At the hearing, the payer denied the Minister's assumptions of fact set out in paragraphs (q), (r) and (s). However, his testimony on this point was limited to an assertion that he did not recognize the terms used by the Minister, that he left all that up to his accountant, Ms. Cosgrove, and that she received her instructions from his spouse, Annick Boucher. It would have been useful to hear their versions during the hearing, but both were absent.
+[7] The evidence establishes that the Minister reviewed the documents provided by the payer in depth. These documents include accounts of the payer that contradict the Appellant's record of employment with respect to his remuneration. It has been proven that the Appellant reinvested in the business all the wages he was paid during the period at issue. In other words, it has been clearly demonstrated, with supporting documents, that the Appellant essentially bought his hours and wages and that in reality, he had worked for the payer for free. No evidence was produced by the Appellant to refute these damning facts, which were submitted by appeals officer Manon McGraw in her testimony and report, as well as in other pieces of evidence filed at the hearing, including those documents submitted to the Minister by the payer.
+[8] At the end of his analysis, the Minister outlined the issue in the following terms, in his Report on an appeal, CPT110 :
+[TRANSLATION]
+To determine whether the worker is employed under a contract of service, the total relationship between the worker and the payer must be reviewed. To determine nature of the working relationship, the central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. A list of factors has emerged from decided cases to help answer this central question. The relationship between the worker and payer will be analyzed in light of these factors.
+[9] With this question as a starting point, the appeals officer performed her analysis of the facts according to the criteria established in Wiebe Door Services Ltd v. Canada (Minister of National Revenue - M.N.R.) (F.C.A.), [1986] 3 F.C. 553, in which the Federal Court of Appeal drew on the following factors as described in Montreal v. Montreal Locomotive Works Ltd et al, [1947] 1 D.L.R. 161 (P.C.), namely, 1) control, 2) ownership of the tools, 3) chance of profit or risk of loss, and 4) integration. This is the process that has traditionally been used to determine whether the working relationship between the parties was such as to suggest the existence of a contract of service within the meaning of the Employment Insurance Act. Having completed the analysis, the appeals officer concluded that there did exist a contract of service.
+[10] Next, she conducted an analysis to determine whether the Appellant's employment should be excluded under the Income Tax Act and paragraphs 5(2)(i) and 5(3)(b) of the Act, on the basis that the parties were not dealing with each other at arm's length. At the end of the exercise, the Minister concluded that the Appellant's employment should be excluded.
+[11] I have decided to conduct this analysis differently.
+[12] This Court must determine whether the Appellant held insurable employment for the purposes of the Employment Insurance Act (the Act). The relevant provision is paragraph 5(1)(a) of the Act, which reads as follows:
+5(1) Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+[Emphasis added.]
+[13] The above-cited paragraph contains the definition of insurable employment. It is employment under a contract of service, namely, an employment contract. However, the Act does not spell out the constituent elements of such a contract.
+[14] A contract for services is a civil law concept found in the Civil Code of Québec (Civil Code). Consequently, the nature of the contract must be determined in accordance with the relevant provisions of that Code.
+[15] In a publication entitled, "Contract of Employment: Why Wiebe Door Services Ltd. Does Not Apply in Quebec and What Should Replace It", published by the Association de planification fiscale et financière (APFF) and the federal Department of Justice in The Harmonization of Federal Legislation with Quebec Civil Law and Canadian Bijuralism: Second Collection of Studies in Tax Law, Justice Pierre Archambault of this Court explains the steps that courts are to take for any period of employment subsequent to May 30, 2001, since the coming into force, on June 1, 2001, of section 8.1 of the amended Interpretation Act, R.S.C. 1985, c. I-21, when faced with a case such as the one at bar. Here is what Parliament has stated in this provision:
+Property and Civil Rights
+8.1 Both the common law and the civil law are equally authoritative and recognized sources of the law of property and civil rights in Canada and, unless otherwise provided by law, if in interpreting an enactment it is necessary to refer to a province’s rules, principles or concepts forming part of the law of property and civil rights, reference must be made to the rules, principles and concepts in force in the province at the time the enactment is being applied.
+[Emphasis added.]
+[16] It will be helpful to reproduce the relevant provisions of the Civil Code of Québec, which will serve to determine whether a contract of employment exists in Quebec and will distinguish such a contract from a contract of enterprise:
+Contract of employment
+2085 A contract of employment is a contract by which a person, the employee, undertakes for a limited period to do work for remuneration, according to the instructions and under the direction or control of another person, the employer.
+2086 A contract of employment is for a fixed term or an indeterminate term.
+Contract of enterprise or for services
+2098 A contract of enterprise or for services is a contract by which a person, the contractor or the provider of services, as the case may be, undertakes to carry out physical or intellectual work for another person, the client or to provide a service, for a price which the client binds himself to pay.
+2099 The contractor or the provider of services is free to choose the means of performing the contract and no relationship of subordination exists between the contractor or the provider of services and the client in respect of such performance.
+[Emphasis added.]
+[17] The provisions of the Civil Code reproduced above establish three essential conditions for the existence of an employment contract:
+(1) the employee's performance of work; (2) remuneration by the employer for that work; and (3) a relationship of subordination. The significant distinction between a contract of service and a contract of employment is the existence of a relationship of subordination—the fact that the employer has a power of direction or control over the worker.
+[18] The Appellant is asking this Court to overturn the Minister's decision, but according to the analysis of the collected evidence, in light of the established criteria, such an intervention is not justified.
+[19] The onus was on the Appellant to prove, on a balance of probabilities, that the facts relied on by the Minister were false. In this case, he has not discharged that onus.
+[20] Under the circumstances, it would be appropriate to cite Justice Pratte in Elia v. Canada (Minister of National Revenue - M.N.R.), [1998] F.C.J. No. 316:
+Contrary to what the judge believed, he therefore could have intervened and should have intervened if, as he asserted, the evidence established that the Minister's decision was unreasonable. However, it seems to us that the judge's assertion is also inaccurate and based on an error of law, since the judge did not take into account the well-settled rule that the allegations in the reply to the notice of appeal, in which the Minister states the facts on which he based his decision, must be assumed to be true as long as the appellant has not proved them false.
+[21] The evidence produced at the hearing points to the finding that an essential factor is missing for, on the one hand, a contract of service under paragraph 5(1)(a) of the Act and, on the other hand, a contract of employment under article 2085 of the Civil Code of Québec. This essential factor is the remuneration by the payer for the Appellant's work, since it has been clearly demonstrated that despite having a salary, the Appellant reimbursed all of his wages to the payer. Accordingly, there is neither a contract of employment under the Civil Code of Québec nor a contract of service under the Act, cited above.
+[22] This finding is a sad reflection on the conduct of the persons concerned, which represents little more than an attempt to circumvent the legitimate application of the objectives of the Act.
+[23] Accordingly, this Court must find that the Appellant did not hold insurable employment with the payer during the period at issue. In other words, the Appellant and the payer were not in an employment relationship within the meaning of the Civil Code of Québec.
+[24] The appeal is dismissed and the Minister's decision is confirmed.
+Signed at Grand-Barachois, New Brunswick, Canada, this 22nd day of August 2007.
+"S.J. Savoie"
+Savoie, D.J.
+Translation certified true
+on this 29th day of August 2007.
+Francie Gow, Translator
+CITATION: 2007TCC467
+COURT FILE NO.: 2006-1654(EI)
+STYLE OF CAUSE: FERNAND BOUCHER AND M.N.R. AND LES CONCIERGERIES DANIEL ENR.
+PLACE OF HEARING: Bathurst, New Brunswick
+DATE OF HEARING: June 11, 2007
+REASONS FOR JUDGMENT BY: The Honourable Deputy Justice S.J. Savoie
+DATE OF JUDGMENT: August 22, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Stéphanie Côté
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,163 @@
+---
+title: "Astley v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30867/index.do"
+last_modified: "2012-05-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 155"
+citation2: ""
+neutral_citation: "2012 TCC 155"
+decision_date: "2012-05-11"
+language: "en"
+item_id: "30867"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7379
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:25:35.971000+00:00"
+cases_cited_count: 1
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1f73d519dfaffc03d5b68b4ba80552e2ad89264931e72a35dfa2994f59ac5200"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Astley v. The Queen
+
+- Citation: 2012 TCC 155
+- Decision date: 2012-05-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7379, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Astley v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-05-11
+Neutral citation
+2012 TCC 155
+File numbers
+2011-2240(IT)I
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-2240(IT)I
+BETWEEN:
+JENNIFER L. ASTLEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on March 8, 2012, at Ottawa, Canada
+followed by written arguments submitted on
+March 30, 2012, April 13, 2012 and April 19, 2012
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Counsel for the Appellant:
+Peter F. Burnet
+Counsel for the Respondent:
+Serena Sial
+____________________________________________________________________
+JUDGMENT
+The Appellant’s appeal is dismissed, without costs.
+Signed at Halifax, Nova Scotia, this 11th day of May 2012.
+“Wyman W. Webb”
+Webb J.
+Citation: 2012TCC155
+Date: 20120511
+Docket: 2011-2240(IT)I
+BETWEEN:
+JENNIFER L. ASTLEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb J.
+[1] The issue in this appeal is whether the requirement to include a spouse’s income in determining whether a particular person is eligible for the Canada Child Tax Benefit (“CCTB”) is contrary to section 15 of the Canadian Charter of Rights and Freedoms (the “Charter”) if the two individuals are married but have not commenced to live together. Subsection 15(1) of the Charter provides as follows:
+15. (1) Every individual is equal before and under the law and has the right to the equal protection and equal benefit of the law without discrimination and, in particular, without discrimination based on race, national or ethnic origin, colour, religion, sex, age or mental or physical disability.
+[2] An individual’s CCTB for a particular month is, in accordance with the formula as set out in subsection 122.61(1) of the Income Tax Act (the “Act”), reduced by the amount of that individual’s adjusted income for the base taxation year for that month. For the first six months of any particular taxation year, the base taxation year is the second preceding taxation year and for the last six months of any particular taxation year, the base taxation year is the immediately preceding taxation year.
+[3] “Adjusted income” is defined in section 122.6 of the Act as follows:
+“adjusted income”, of an individual for a taxation year, means the total of all amounts each of which would be the income for the year of the individual or of the person who was the individual's cohabiting spouse or common-law partner at the end of the year if in computing that income no amount were
+(a) included
+(i) under paragraph 56(1)(q.1) or subsection 56(6),
+(ii) in respect of any gain from a disposition of property to which section 79 applies, or
+(iii) in respect of a gain described in subsection 40(3.21), or
+(b) deductible under paragraph 60(y) or (z);
+[4] In determining the Appellant’s adjusted income for any particular base taxation year, the income of the person who was her cohabiting spouse at the end of such year, would have to be added to her income. “Cohabiting spouse” is defined in section 122.6 of the Act as follows:
+“cohabiting spouse or common-law partner” of an individual at any time means the person who at that time is the individual's spouse or common-law partner and who is not at that time living separate and apart from the individual and, for the purpose of this definition, a person shall not be considered to be living separate and apart from an individual at any time unless they were living separate and apart at that time, because of a breakdown of their marriage or common-law partnership, for a period of at least 90 days that includes that time;
+[5] Therefore whether a person is a spouse or common-law partner of the particular individual, that person’s income must be included in determining the particular individual’s adjusted income. Since this requirement applies equally to individuals who are married and who are in a common-law partnership there is no basis for a claim that the definition of adjusted income discriminates between married couples and those in a common-law partnership and therefore contravenes section 15 of the Charter.
+[6] The Appellant’s argument, however, is based on the requirement that individuals in a common-law partnership must cohabit while individuals who are married do not need to cohabit to be found to be cohabiting spouses. For the purposes of the definition of “cohabiting spouse” it is not necessary that individuals who are married actually cohabit, provided that they are not living separate and apart as a result of a breakdown of their marriage. There is no stated requirement in this definition for individuals in a common-law partnership to actually cohabit to be “cohabiting common-law partners” (provided that they are not living separate and apart as a result of a breakdown of their common-law partnership). However, if they are not cohabiting, is there a common-law partnership?
+[7] A common-law partnership is defined in subsection 248(1) of the Act as follows:
+“common-law partnership” means the relationship between two persons who are common-law partners of each other;
+[8] A common-law partner is defined in subsection 248(1) of the Act as follows:
+“common-law partner”, with respect to a taxpayer at any time, means a person who cohabits at that time in a conjugal relationship with the taxpayer and
+(a) has so cohabited with the taxpayer for a continuous period of at least one year, or
+(b) would be the parent of a child of whom the taxpayer is a parent, if this Act were read without reference to paragraphs 252(1)(c) and (e) and subparagraph 252(2)(a)(iii),
+and, for the purposes of this definition, where at any time the taxpayer and the person cohabit in a conjugal relationship, they are, at any particular time after that time, deemed to be cohabiting in a conjugal relationship unless they were not cohabiting at the particular time for a period of at least 90 days that includes the particular time because of a breakdown of their conjugal relationship;
+(emphasis added)
+[9] The opening part of the definition of “common-law partner” provides that it applies to individuals who cohabit. The closing part also is only applicable where the individuals cohabit. As a result cohabitation is a requirement for individuals to be found to be in a common-law partnership. It is this requirement for cohabitation that must be met in order for a common-law partnership to exist and therefore for a common-law partner’s income to reduce the CCTB of one of the common-law partners that the Appellant emphasized in her argument that the definition of cohabiting spouse is contrary to section 15 of the Charter. The Appellant also emphasized that she and John Overton did not share in any expenses or income while they were living separate and apart. However, there is no requirement for any sharing of financial resources for two persons to be found to be in a common-law partnership. It also does not seem to me that a claim for discrimination under section 15 of the Charter could be based on whether financial resources are shared.
+[10] The Appellant (who was living in Canada) began communicating with John Overton (who was living in Great Britain) over the internet in 2003. They met a couple of years later and the relationship continued. In 2007 they decided to get married and were married on February 29, 2008. After the marriage ceremony John Overton returned to Great Britain so that his application to immigrate to Canada could be processed. His sponsor was the Appellant. While they expected the application to only take about eight months, it took over a year and he did not move to Canada until June of 2009 and became a permanent resident of Canada in September 2009. At the end of the base taxation year 2008, the Appellant and John Overton were married but they were not living together as he was still in the United Kingdom waiting for his immigration application to be approved.
+[11] In determining the Appellant’s entitlement to CCTB payments for the base taxation year 2008 (which would be the payments that she would have received from July 2009 to June 2010) and for the base taxation year 2009 (for the payments she received in July and August 2010), the Respondent added John Overton’s income for these base taxation years to the income of the Appellant and determined that she had been overpaid the CCTB for the months of June 2009 to August 2010.
+[12] In determining whether a cohabiting spouse’s income is included in a person’s adjusted income for a particular year, the question is whether that other person is a cohabiting spouse at the end of that particular year. In this case the question is whether John Overton was a cohabiting spouse at the end of 2008 and at the end of 2009. Based on the provisions of the Act, he was a cohabiting spouse at the end of each of these years as he was married to the Appellant and they were not living separate and apart as a result of a breakdown of their marriage.
+[13] The Appellant’s argument is that the definition of cohabiting spouse is based solely on whether they were married and not on whether they were cohabiting. The Appellant submits that based on the decision of the Supreme Court of Canada in Miron v. Trudel, [1995] 2 S.C.R. 418 that marital status is an analogous ground for the purposes of section 15 of the Charter. The issue in that case, as described by Justice McLachlin (as she then was) was as follows:
+119 McLACHLIN J.:-- This appeal requires us to decide whether exclusion of unmarried partners from accident benefits available to married partners violates the equality guarantees of the Canadian Charter of Rights and Freedoms. I conclude that it does.
+[14] The CCTB provisions, in relation to the requirement to include another person’s income in “adjusted income” of a particular person, apply equally whether the particular person is married to the other person or in a common-law partnership with the other person. Therefore no distinction is drawn between unmarried partners (who are in a common-law partnership) and married partners. The Appellant submits however that the distinction is that to be in a common-law partnership two individuals must cohabit but cohabitation is not necessary if the two individuals are married.
+[15] In Withler v. Canada (Attorney General), 2011 SCC 12, Chief Justice McLachlin and Justice Abella writing on behalf of the Supreme Court of Canada stated that:
+30 The jurisprudence establishes a two-part test for assessing a s. 15(1) claim: (1) does the law create a distinction that is based on an enumerated or analogous ground? and (2) does the distinction create a disadvantage by perpetuating prejudice or stereotyping? (See Kapp, at para. 17.)
+31 The two steps reflect the fact that not all distinctions are, in and of themselves, contrary to s. 15(1) of the Charter (Andrews; Law; Ermineskin Indian Band, at para. 188)….
+[16] In order to satisfy the first part of the test, the law must create a distinction. As noted above, no distinction is created in the provisions of the Act referred to above between married couples and those in a common-law partnership. In both situations the income of the spouse or common-law partner is to be included in determining the adjusted income of the particular person claiming the CCTB (provided that they are not living separate and apart because of a breakdown in their marriage or common-law partnership). There is, however, a distinction under the Act between married couples who do not live together (by choice or as a result of a legal impediment and not as a result of a breakdown of their marriage) and unmarried couples who do not live together. If the Appellant would not have married John Overton in February 2008, she would not have had to include his income in determining her adjusted income for her 2008 base taxation year since they did not start to live together until June 2009. Therefore her marital status alone resulted in the requirement to include John Overton’s income in determining her adjusted income for the 2008 base taxation year.
+[17] The Appellant’s argument is therefore that she is being discriminated against because she married John Overton in February 2008 but did not commence to live with him until June 2009. While marital status is an analogous ground, as noted above,
+Equality is not about sameness and s. 15(1) does not protect a right to identical treatment. Rather, it protects every person's equal right to be free from discrimination. Accordingly, in order to establish a violation of s. 15(1), a person "must show not only that he or she is not receiving equal treatment before and under the law or that the law has a differential impact on him or her in the protection or benefit accorded by law but, in addition, must show that the legislative impact of the law is discriminatory"
+[18] The Appellant and John Overton chose to be married. She then became his sponsor for his immigration application. Why should they be treated the same as a couple who are not married and who do not live together?
+[19] In Withler v. Canada (Attorney General), above, Chief Justice McLachlin and Justice Abella writing on behalf of the Supreme Court of Canada stated that:
+65 The analysis at the second step is an inquiry into whether the law works substantive inequality, by perpetuating disadvantage or prejudice, or by stereotyping in a way that does not correspond to actual characteristics or circumstances. At this step, comparison may bolster the contextual understanding of a claimant's place within a legislative scheme and society at large, and thus help to determine whether the impugned law or decision perpetuates disadvantage or stereotyping. The probative value of comparative evidence, viewed in this contextual sense, will depend on the circumstances. (See Andrea Wright, "Formulaic Comparisons: Stopping the Charter at the Statutory Human Rights Gate", in Fay Faraday, Margaret Denike and M. Kate Stephenson, eds., Making Equality Rights Real: Securing Substantive Equality under the Charter (2006), 409, at p. 432; Sophia Reibetanz Moreau, "Equality Rights and the Relevance of Comparator Groups" (2006), 5 J.L. & Equality 81; Pothier.)
+[20] There was no evidence of how the requirement for married couples, even if they do not live together, to combine their income for the purposes of the CCTB “perpetuates disadvantage or stereotyping” of married couples. In Schachtschneider v. The Queen, 93 DTC 5298[1], Justice Linden made the following comments:
+… Marital status, therefore, can properly be considered an analogous ground for the purposes of section 15….
+As I have indicated, the ground of discrimination -- marital status -- should not be confused with the group claiming discrimination -- married people. Thus, while marital status may be accepted as an analogous ground, in order to determine whether there has been discrimination based on that ground, we must examine the particular circumstances of the group of which the claimant is a member. In the case before us, the applicant claims to be discriminated against as a married person; however, it cannot be said that married persons have been socially, politically, or historically disadvantaged in Canada (R. v. Swain, supra, at p. 992). Rather, members of our society who are married may well have experienced some privilege and advantage as a result of their status. Married persons are not a discrete and insular minority, nor are they an independently disadvantaged group.
+[21] It does not seem to me that there is any basis for a claim that the requirement to include John Overton’s income with the Appellant’s income when they are married but not living together (which is not as a result of a breakdown of their marriage) results in discrimination against the Appellant as a married person.
+[22] As a result the Appellant’s appeal is dismissed, without costs.
+Signed at Halifax, Nova Scotia, this 11th day of May, 2012.
+“Wyman W. Webb”
+Webb J.
+CITATION: 2012TCC155
+COURT FILE NO.: 2011-2240(IT)I
+STYLE OF CAUSE: JENNIFER L. ASTLEY AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Canada
+DATE OF HEARING: March 8, 2012
+(Followed by written arguments submitted on March 30, 2012, April 13, 2012 and April 19, 2012)
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: May 11, 2012
+APPEARANCES:
+Counsel for the Appellant:
+Peter F. Brunet
+Counsel for the Respondent:
+Serena Sial
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Peter F. Brunet
+Firm: Jones, Horwitz, Bowles, Burnet
+Ottawa, Canada
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Leave to appeal to the Supreme Court of Canada was dismissed, ([1993] S.C.C.A. No. 335).

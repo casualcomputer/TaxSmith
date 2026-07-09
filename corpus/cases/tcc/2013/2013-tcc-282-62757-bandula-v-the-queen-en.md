@@ -1,0 +1,199 @@
+---
+title: "Bandula v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/62757/index.do"
+last_modified: "2013-09-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 TCC 282"
+citation2: ""
+neutral_citation: "2013 TCC 282"
+decision_date: "2013-09-12"
+language: "en"
+item_id: "62757"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6127
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:53:11.304000+00:00"
+cases_cited_count: 3
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "80e19736214caaeb65f634797187c222abd3623705c8e7c53dd27ebeae80ae27"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bandula v. The Queen
+
+- Citation: 2013 TCC 282
+- Decision date: 2013-09-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6127, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bandula v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-09-12
+Neutral citation
+2013 TCC 282
+File numbers
+2010-1476(IT)G
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2013 TCC 282
+Date: 20130927
+Dockets: 2010-1476(IT)G
+2010-1393(GST)I
+BETWEEN:
+SANDOR BANDULA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+FURTHER AMENDED REASONS FOR JUDGMENT
+Bocock J.
+I. Introduction
+[a.] Sandor Bandula, the Appellant, has admitted to understating his gross business income by approximately $72,073.80 and $40,077.38 in his tax returns filed concurrently for the 2002 and 2003 taxation years. Corresponding amounts of goods and services tax (“GST”) were also not included. During the reassessment process, the Minister of National Revenue (the “Minister”) disallowed certain claimed expenses, also for tax years 2002 and 2003. The Minister assessed the taxpayer outside the normal reassessment period by alleging a misrepresentation made by Mr. Bandula in the filing of his income tax returns. The Minister also alleges Mr. Bandula was grossly negligent. Therefore negligence penalties were imposed. Mr. Bandula appeals the disallowance of expenses and related GST input tax credits, the reassessments outside the normal period and the imposed penalties.
+II. Issues Before The Court
+a) Reassessment Outside Normal Period
+[1] The first issue before the Court is whether the reassessments (the “Statute-Barred Reassessments”) made outside the normal reassessment period are permitted pursuant to the relevant provisions of the Income Tax Act (the “Act”) and the Excise Tax Act (the “ETA”). The threshold needed to afford this statute barred reassessment occurs when a taxpayer commits misrepresentations attributable to neglect, carelessness or wilful default in filing the return within the meaning of s. 152(4) the Act.
+[2] There is a secondary issue in relation to the Statuted-Barred Reassessments. This issue relates to whether the GST reassessment for the 2002 reporting period was outside the normal reassessment period at all. The Appellant has conceded that the 2003 reassessment under the ETA was not outside the normal reassessment period.
+b) Disallowed Expenses
+[3] The second issue before the Court relates to the issue of certain disallowed expenses in respect of the Appellant’s business. The Appellant bears the onus of disproving the assumptions made in this regard by the Minister.
+c) Gross Negligence Penalty
+[4] The third and final issue is the imposition by the Minister of gross negligence penalties under the provisions of subsection 163(2) of the Act and section 285 of the ETA. For the purposes of subsection 163(2) and section 285, it is required that the Appellant knowingly or under circumstances amounting to gross negligence made or participated in, assented to or acquiesced in the making of a false statement or omission in his income tax return. In the present appeal, both provisions are either identically applicable or not.
+III. Relevant Facts Before The Court
+a) Nature of Appellant’s Business
+[5] Mr. Bandula operated a drywall construction business. This activity included framing, dry-walling, and the final preparation (priming for painting) of demising walls in various construction and renovation projects. Mr. Bandula was an immigrant from Hungary who came to Canada in 2000. He did not file tax returns in taxation years 2000 and 2001, but shortly after he commenced the dry-wall business. The Appellant spoke little or no English. Nonetheless, he entered into business utilizing the wiles of his trade and experiences as a drywaller.
+[6] At the outset, he rented various tools, utilized vehicles which were barely suitable for construction of this type. He relied heavily for support upon his common-law life partner, Ms. Racz. He worked long hours, utilized employees, sub-trades and friends (some also immigrants from Hungary) and managed to build a business which recruited and maintained a substantial stable of construction clients.
+[7] Ms. Racz, who also testified, undertook most of the external business communications, preparation of materials for tax returns, banking, payments and any other business activity that required someone to speak better English than that of Mr. Bandula. It became clear during the testimony of both that Ms. Racz speaks better English. In order to operate this business, it was necessary for Mr. Bandula to have at his disposal various tools of the trade: vehicles, storage space and to procure raw materials generally, to purchase supplies and equipment: gas, work clothing, cellular phones and otherwise to expend monies for the purposes of undertaking this business.
+[8] While it is clear that Mr. Bandula undertook all of the operational activities with respect to the dry wall business, it is equally clear that he neither understood nor undertook steps to keep anything approaching a logical or efficacious system for the retention, tracking and filing of business receipts, business expenses or invoicing. This job, not an enviable one given Mr. Bandula’s ignorance of its importance, fell to Ms. Racz, who during her credible testimony demonstrated that she did her best to try to track and record those receipts, invoices and expense vouchers which were sporadically and sparingly provided to her by Mr. Bandula.
+[9] There was little or no cross responsibility or accountability as between the operational duties undertaken by Mr. Bandula and the business and administration activities undertaken by Ms. Racz. The reasons for this will be dealt with in the analysis section below, but one can only ascribe a goodly portion of the confusion to the relative novelty of operating one’s business within a Canadian business structure and tax system with which neither Mr. Bandula nor Ms. Racz were familiar.
+[10] In the course of operating the dry-wall business, Mr. Bandula received payment by way of cheque and deposited those cheques for such jobs into one of three bank accounts. In some instances, he would render invoices for services provided and in other instances he would not. In most instances where invoices were rendered by Mr. Bandula, they were actually prepared by the more commercially oriented procurers of his services. Even then, it appears they were provided to the Appellant in order to create a paper invoice of the debt against which a construction company retaining his services would then pay. This process is in contrast to the lack of accounting records and organization related to Mr. Bandula’s own retainer and payment of his own sub-trades for which there were usually neither cheques nor invoices.
+[11] The logical consequence of failing to maintain such records is the present inability to produce invoices for various payments: sub-trades, expenses for the purposes of procuring tools of the trade: work clothing, gas, parking receipts and the like. The documentary evidence adduced relating to such items was not only incomplete, but, at best, represented samplings or occasional examples of expenses rather than actual vouchers and receipts cross-referenced to a list or ledger of expenses claimed in the tax returns filed on behalf of Mr. Bandula. Similarly, the ability to track his own sub-trade payments and the T-5018 (Statement of Contract Payments) was not present, since such records were also incomplete.
+[12] The Canada Revenue Agency (“CRA”), through its audit process, did allow certain expenses of Mr. Bandula in the years of 2002 and 2003, representing amounts of approximately $30,000.00 and $70,000.00, respectively. In doing so, the CRA did afford Mr. Bandula deductions for expenses where invoices existed, but disallowed them where neither invoices nor otherwise clear evidence existed of sums expended. However, there were also instances of certain allowed deductions without the insistence on the production of receipts or invoices provided the expenditure was reasonably possible to impute.
+[13] With respect to the claimed GST input tax credits relating to Mr. Bandula’s sub-trades, since no sub-trade invoices were produced with respect to such claimed payments, the Minister did not allow deductions for those input tax credits.
+b) Preparation of Tax Returns
+[14] Much testimony at trial was offered around the process involved by Mr. Bandula and Ms. Racz in the retainer of, and services provided by, an accounting firm and, in particular, an accountant, one Mr. Stubbington (the “Accountant”).
+[15] During that process, the Court finds that Mr. Bandula, through Ms. Racz, provided what each thought was the information that the Accountant required to complete the tax returns concurrently for 2002 and 2003. The Accountant requested additional information in the form of bank receipts and bank statements which were then provided. The Accountant directed his mind to the fact that three different bank accounts, some personal, were utilized for business purposes. There were both deposits and withdrawals made from all of these bank accounts which did not accord with the amount of the revenue and expense items which were supplied by the Appellant to the Accountant.
+[16] When the Accountant raised the irreconcilable amounts with Ms. Racz and Mr. Bandula, they indicated the discrepancy was likely due to amounts of cash received from relatives in Hungary and also attributable to an essentially cash business for which receipts and invoices were not necessarily available. At this point the Accountant rightfully directed Mr. Bandula and Ms. Racz to cease from the practice of not keeping invoices and receipts. He recommended they undertake a new approach which would require the retention of receipts, the production of invoices, consolidation of business bank accounts and other efficacious business operations. Thereafter, the Accountant appears to have nonetheless completed the tax returns with the information he had, pointing out, as best he could to Mr. Bandula and Ms. Racz, the error of their ways and submitting the tax returns to the CRA both in respect of the income tax and the GST returns for the relevant periods.
+c) Reassessment of Unreported Income
+[17] The sequence of events leading to the reassessment of the statue-barred years took an uncommon and dramatic departure from the usually mundane proceedings. A search warrant was executed at the Appellant’s house and at the Accountant’s office. Mr. Bandula was charged with Income Tax evasion. This impeded any real dialogue for a considerable period of time. In 2007, the Minister reassessed on the basis of unreported income which was discerned from the missing T-5018s, contact with other construction clients of Mr. Bandula’s and other similar investigations. The summary of the assessments related to the unreported income and disallowed business expenses and are presented below.
+Tax
+Year
+Reported
+Income
+Reassessed
+Unreported Income
+Disallowed
+Expenses (Additional Allowed)
+Net Income
+2002
+$64,656.25
+$51,673.62
+$20,400.24
+$78,960.29
+2003
+$63,091.39
+$86,323.29
+($46,245.71)
+$67,767.85
+d) Penalty Imposition
+[18] Penalties are not reflected in the chart above. At trial, an issue surrounding the calculation of penalties was raised. This issue is further discussed in the analysis section below, but it should be noted that the Respondent in submissions conceded that the penalties initially assessed were too high, and it was conceded these should be reduced to a lesser amount.
+e) Nature and List of Disallowed Business Expenses
+[19] In relation to the disallowed business expenses, the Appellant indicated that there were various amounts expended on account of various costs: tools, various collateral job materials, vehicles, gas, rental tools, rental of garage space, cellphones, food for workers, work clothing, subcontractor invoices, garage rental, business office expenses and parking. Mr. Bandula claims these were overlooked by the Minster. At trial, there was direct evidence by the Appellant regarding examples of these expenses, but there was no factual submission as to what the aggregate of those disallowed business expenses might have been in relation to the expenses allowed by the Minister on an item by item basis. A submission was not possible as to the amount of expenses documented through adduced receipts and vouchers nor was one possible to show what the difference may have been between the calculated expenses claimed and the disallowed expenses. This occurred because the invoices produced may have been accounted for by the Minister, but the state of the Appellant’s records prevented the Appellant from marshalling such an argument.
+IV. Submissions Of The Parties
+a) By the Appellant
+[20] The Appellant submitted that the CRA, during discussions with the Appellant, had suggested that the Minister was prepared to allow a greater deduction on account of business expenses if the Appellant would consent to the Statute-Barred Reassessments. It is also noted that the Appellant conceded that the amount of unreported gross revenue of the Appellant was not in dispute, but the Minister’s right to reassess for the Statute-Barred Reassessments remained so. Appellant’s counsel admitted that the Appellant had not kept proper receipts and vouchers, but that once the importance of doing so was raised by his accountant, the Appellant and Ms. Racz effectively adjusted and now keep proper books and records.
+[21] With respect to the disallowed input tax credits for the GST, the Appellant submitted that same was inappropriate since all of the subcontractors were in fact registrants, but had simply not filed their GST returns.
+[22] With respect to the Statute-Barred Reassessments, Appellant’s counsel indicated that Mr. Bandula had done everything that he could possibly be expected to do as an immigrant who barely spoke English. He delegated certain work to his life partner, who was responsible for the administrative books and records, retained the services of an accountant for the purposes of preparing income tax returns and in fact filed those income tax returns and paid tax on the basis of the income tax and GST returns. He legitimately did not believe that those returns were incorrect until the audit commenced with the execution of a search warrant at his house and charges were laid. This, in turn, prevented any appropriate understanding on his part of the usual process involved in a reassessment and instead placed the matter before the criminal courts.
+[23] As to the gross negligence penalty, Appellant’s counsel noted that the Appellant was as deficient in the keeping of expense receipts as he was in the keeping of records of cheques from payors and invoices from his own subcontractors. This occurred because the business was operating effectively within a cash economy. Similarly, when the Accountant provided the Appellant with the express need for additional information, the Appellant delivered it. When questions were again raised, answers were provided. It is offered that the critical element preventing the assessment of penalties is the clear evidence that neither the Appellant nor his life partner knew of any error based upon their knowledge and experience. The Appellant was of the reasonable belief that he had reasonably complied with requirements under the Act by retaining the Accountant, completing the tax returns and paying the calculated tax.
+b) By the Respondent
+[24] The Respondent stated that the Appellant had entirely failed to keep cogent records, statements from customers, cheques and invoices received and failed to maintain any consistency regarding deposits, credit card payments or other payment of expenses. Moreover, the use of the Accountant for the purposes of preparing tax returns cannot camouflage the fact that the materials provided to the Accountant were entirely insufficient for that Accountant to accurately ascertain the Appellant’s income taxes and GST. Additional material was requested and when it, in turn, was insufficient, an alternative explanation regarding the source of revenue as family gifts was offered to the Accountant. According to those instructions, the Accountant prepared, completed and filed the tax returns. Moreover, no evidence was offered with respect to the source of that infused money nor the actual transactions transferring same to the Appellant.
+[25] With respect to the alleged 2002 Statute-Barred Reassessment on GST, the Respondent has indicated that there is no defence since section 298 allows the reassessment on GST for a period of four years from the date which is the later of filing or the due date under the section 238 of the ETA. Since the later date was June 15, 2003, the 2007 reassessment was made within the normal reassessment period and is therefore not statue-barred in the first instance.
+[26] With respect to the issue of business expenses, the Respondent submits that the evidence of the Appellant and his life partner was incomplete at best. There was no attempt to quantify the expenses, but merely an attempt to calculate those expenses by using alternative methods and logic in relation to the business which amounted to asking the Court to guess. Moreover, some expenses were not deductible at all since they represented expenses of a personal nature. The suggestion that the amount of the expenses allowed by the Minister was insufficient belied the generous treatment provided by the CRA auditors who allowed more than they ought to have. This generosity of the Minister constitutes a potential windfall received by the Appellant without any reliable evidence for such expenses to have been considered. In relation to such business expenses, it must be remembered that the burden of proof is on the Appellant.
+[27] As to the Respondent’s submission on gross negligence penalty, the negligence of the Accountant even if it existed, was not proved and is inadmissible since this issue was not put in evidence nor submitted to the Accountant during testimony. Moreover, the admitted fact of the magnitude of the discrepancy in reporting gross business income, the loss of invoices and statements by the Appellant and the lack of bookkeeping efficacy all stand for the proposition that the Appellant was grossly negligent in the calculation and the operation of his accounting affairs and calculation of his tax.
+c) Onus Regarding Quantum of Penalty
+[28] At the close of reply submissions, Appellant’s counsel raised before the Court a challenge that the penalty under subsection 163(2) of the Act should fail. The basis of that challenge is the procedural omission by the Respondent of providing or leading evidence regarding the quantum and calculation of such penalty. The Court requested written submissions after the final hearing date on this issue. The parties provided submissions on both the procedural ability of the Appellant to raise this matter in final reply submissions and, more substantively, whether there was an undischarged onus on the Respondent to lead evidence regarding the quantum of the subsection 163(2) penalty.
+[29] The Court is satisfied that the Respondent would satisfy its onus in this regard, provided the Reply specifies the nature of the penalty and that the penalty is readily ascertainable from the Reply and the information contained in it. On this basis, the Court is satisfied that the Minster sufficiently pleaded the subsection 163(2) penalties and indicated how and why same would apply. Further, any deficiency in those pleadings or failure to lead evidence ought not to have been reserved by the Appellant until reply submissions: subsection 135(3) of the Court’s General Procedure Rules. Most importantly, the substantive issue of whether the Appellant was grossly negligent or was properly the subject of such penalties in the first instance will be assessed below.
+V. Analysis
+a) Reassessment Outside Normal Period
+[30] In reviewing the approach taken by the Appellant and his life partner in the conduct of this business for the period of 2002 and 2003, the Court finds factually that there was:
+a) a failure to retain invoices, expense vouchers and receipts,
+b) an inconsistency regarding the deposit of business proceeds and the withdrawal of business expenditures from a business bank account (multiple bank accounts were used); and
+c) a failure to comprehend the differences between business and personal expenses and the general lack of business acumen and skill deployed for the purposes of operating this business.
+[31] As such, these omissions resulted in a number of instances of neglect and carelessness in the filing of the return. For the reasons following, the Court easily concludes that an assessment outside the normal reassessment period is justifiable in this case and the Minister has met the burden. Factually, there is no contest or dispute before the Court regarding the quantitatively large difference between the amounts of gross income reported and the amount of gross income accurately reassessed and admitted by the Appellant. By any standard, this falls within the category of misrepresentation caused by negligence or carelessness and meets the threshold.
+[32] Quite apart from the gross business income issue, on the basis of the factual matters admitted by the Appellant and his life partner in testimony, there was no attempt (largely through ignorance) to keep material receipts in relation to any of the documents generated in the day-to-day operation of the business overseen by Mr. Bandula. This insouciance as to the importance of these documents demonstrated neglect and manifest carelessness in the financial accounts of the business. Such carelessness and neglect directly impacted and effected the misrepresentation on the income tax and GST returns. The Minister has discharged the onus in relation to the requirement of establishing that there have been factual misrepresentations as to income (conceded by the Appellant in testimony) and expenses (which were clearly evident before the Court) in relation to the filing of the returns.
+b) Disallowed Expenses
+i) Business Expenses
+[33] The contention by the Respondent that the Minister has generously allowed the deduction of expenses (which in the absence of receipts of invoices and vouchers would otherwise not be allowed) is a compelling argument in light of the evidence adduced at trial. It would be a compelling argument if there were an onus on the Respondent to establish such but the onus to demolish the assumptions with respect to the disallowed business expenses is and remains with the Appellant. The Appellant has failed factually to discharge that onus with respect to any isolated business item by providing a clear business purpose and/or actual receipt in relation to a specific expense item not otherwise allowed by the Minister. As an example of business expenses, namely motor vehicle expenses, no combination of actual receipts submitted at trial by the Appellant surpassed or equalled the allowed expenses that the Minister afforded the Appellant in respect of that expense item. This is similar to expenses for professional fees. In fact, the Minister in this particular category afforded the Appellant additional amounts above those claimed by Mr. Bandula in both 2002 and 2003.
+[34] Moreover, the evidence presented by the Appellant did not enable random or methodical cross-referencing of any heading of expenditure to that of invoices submitted and proved. A number of invoices submitted at trial in relation to motor vehicles, clothing, and other similar expenditures clearly included personal expense items related to either Ms. Racz or Mr. Bandula. Certain of these expenses offered as evidence were, in some cases, acknowledged to be personal in nature by the Appellant and Ms. Racz during testimony.
+[35] A simple review of the pleadings on the issue of expenditures speaks volumes. The expenditures as filed by the Appellant in 2002 were $67,769.82 and were reassessed by the Minister at $37,369.58 for a difference of $20,400.24. In the subsequent assessment of expenditures for the 2003 taxation year, the Appellant claimed $32,412.00. These expenses were reassessed upward by the Minister to $79,646.83, being an actual increase of $46,245.71 in expenditures allowed in the 2003 taxation year.
+[36] The invoices which were proffered as evidence of a sampling of expenditures by the Appellant were deficient. The Court cannot postulate, extrapolate or envisage what other reasonable quantum of business expenses might be deductible from income other than that allowed by the Minister, when that onus remains on the Appellant. That onus has simply not been met and the Minister’s assumptions have not been demolished as to deductible business expenses.
+ii) GST Input Tax Credits
+[37] As with business expenses, there are simply no invoices rendered in respect of sub-trades which reflect GST paid by Mr. Bandula to his sub-trades. In the absence of invoices, conforming cheque stubs or receipts from payees, there is no evidence upon which the Court may factually base a finding that payments to sub-trades included GST. As such, Mr. Bandula cannot be entitled to the GST input tax credits. This is the unfortunate price paid for conducting a cash-based, invoice-void and ledger-less business in a formalistic, rule-based and record-intensive age. The existence of the T-5018s (Statement of Contract Payments) and GST registrations numbers for certain of Mr. Bandula’s sub-trades may prove several things, but such evidence does not factually prove that Mr. Bandula calculated and paid GST to a third party in a sum certain in respect of a particular job or contract. Therefore, input tax credits are not quantifiable and cannot be allowed.
+c) Gross Negligence Penalty
+[38] On this particular issue, the Court finds this case factually unique. It involves the first filings of personal tax returns in respect of a business by a new immigrant within the Canadian tax system. The Court takes notice that not all new immigrants have the business initiative of Mr. Bandula and do not immediately undertake a business on one’s own to earn a living in one’s own enterprise and thereby employ other Canadians in doing so. This laudatory goal stands juxtaposition to a clear failure to appreciate (factually in the Court’s view through ignorance), the nature and the requirements of the system in providing one’s accountant with sufficient and suitable information for the filing of one’s tax returns.
+[39] In fact, Mr. Bandula, together with Ms. Racz, credibly indicated that they intended to assimilate into the Canadian business milieu. The Court believes this; it is as well an admirable goal. Curiously, by attempting to do this very thing, Mr. Bandula admittedly did not retain the services of an accountant who spoke his native tongue, but rather went to an accountant and a firm otherwise notable in the community. He retained those services in order to put his best foot forward and attempt to comply with the domestic tax system to which he now belonged.
+[40] Legally, the finding of misrepresentation in respect of the Statute-Barred Reassessments is a different test and must be separated from the issue of gross negligence. Factually the Court finds that the language challenges of the Appellant and his spouse played a perhaps greater role in the determination of the assessment of the gross negligence penalty than that which might otherwise be readily apparent: in terms of the Accountant’s communications with both the Appellant and Ms. Racz and in terms of the solid belief of the CRA that both parties (specifically the Appellant) spoke and understood English. These circumstances are in contrast to the observation of the Court (where both Mr. Bandula and Ms. Racz testified) of their ability to purport and connote understanding of a posed question and their reactive willingness to provide an answer prior to completely appreciating the full breadth of the question. This fact leaves the Court with a lack of conviction regarding actions which might otherwise amount to the requisite, critical intention regarding gross-negligence in this matter.
+[41] The actions (or omissions) of a taxpayer giving rise to a subsection 152(4) reassessment outside the normal reassessment period do not necessarily meet the threshold for the imposition of gross negligence penalties. Venne v The Queen, (1984), 84 DTC 6247 (FCTD) at pages 6256 – 6249 lays out the specific need to find a high degree of negligence and indifference to legal compliance.
+[42] In applying this clear distinction, Courts have always referenced the functional ability of the taxpayer in a novel situation to appreciate the nuance and substance of a potentially complicated business environment. This is evident in the case of Sandia Mountain Holdings Inc. v Canada, 2006 TCC 348, 2007 DTC 51, where Justice Hershfield states at paragraph 54:
+54 The basis of such finding also supports a finding of gross negligence which is the threshold test for imposing penalties under 163(2). That subsection imposes the penalties assessed on every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of a false statement or omission in a return, form, certificate, statement or answer filed or made in respect of a taxation year. Applying the test for what constitutes gross negligence as set out in Venne v. The Queen warrants finding that there has been gross negligence in this case. The test there sets out that gross negligence must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting or indifference as to whether the law is complied with or not. […]
+[43] Justice Boyle of this Court in Altamimi v Canada, 2007 TCC 553, [2008] 2 CTC 2001, provided further clarification around the issue of language comprehension and relative newness to the tax system in a business context at paragraph 45 [emphasis added]:
+45 […]It is the Crown’s position for the purposes of subsection 163(2) that the taxpayer, at least under circumstances that amounted to gross negligence, assented to the omissions in his return which resulted from his providing estimates of gross income and net income. I am satisfied on the evidence that the taxpayer participated in or assented to such an omission. I am also satisfied that under-reporting income earned from a business in these circumstances is also a false statement for purposes of subsection 163(2). However, the important question is whether the Crown has, through the evidence, proven on a balance of probability that the omission or false statement was made knowingly or under circumstances amounting to gross negligence in each of the years 2001 and 2002. [...].
+[...] In my view, it was not clearly unreasonable for Mr. Altamimi to rely on that advice for 2001, being the first year he was asked to provide an estimate of income from a business he was identifying and reporting in his return. I conclude that for 2002 it no longer remained reasonable for him to credibly rely on that advice, especially since the estimate he provided for 2002 was identical to the gross revenue estimated by him in his prior year. That confirms to me that for 2002 his estimate could not likely have been made with any reasonable degree of accuracy intended. For that reason, I am upholding the assessment of penalties for the 2002 taxation year. [...]
+[44] Based upon these authorities, it is the Court’s determination that the imposition of the gross negligence penalties in this particular case is not warranted for the following reasons:
+a) The extent to which ignorance of the system influenced decisions made by Mr. Bandula in the first two years of operating the dry-wall business given that he did not have the experience, knowledge, or insight to do so as regards appropriate record keeping, importance of ascertaining details regarding payments, vouchers, GST numbers and the like;
+b) Additionally, the consequences related to the difference between operating within a cash system, his former experience, versus a general Canadian recorded payment system, differences which do not excuse him from the need to properly reflect the transactions, but offer some mitigation as to the presence of any deliberate act of conceit or omission;
+c) The determination by the Accountant that it was not necessary in the case of Mr. Bandula and Ms. Racz to push move aggressively and further on the issue of ascertaining from them, given their novel situation, the nature and reasons as to why they did not have invoices, vouchers and receipts and records for the sub-trade payments and to connect those reasons with the ultimate compilation and preparation of the income tax returns and the GST returns; and,
+d) Lastly, the fact that the penalty assessment process followed by the CRA clearly assumed on its face that the Appellant read, understood and functioned in the English language.
+[45] If this Court were dealing with 2004 or subsequent taxation years (which followed in time the instructions and direction of the Accountant regarding the need for Mr. Bandula to revise his business practices) this Court would find that the Appellant was grossly negligent. Furthermore, in light of the factual circumstances and bona fides of both the taxpayer and his life partner that they have undertaken a strategy to amend and rectify their errors, which the Court finds were borne of ignorance and not male fides or intentional act, the Court is prepared in this instance to abide by its view that a penalty is not warranted because the finding of gross negligence cannot be substantiated nor comfortably fit within the facts before the Court. Therefore the penalties are vacated.
+[46] On the issue of costs, there shall be no order, given the mixed results in the cause.
+These Further Amended Reasons for Judgment are issued in substitution of the Reasons for Judgment dated September 12, 2013 in order to correct the minor typographical errors and stylistic changes underscored on pages 1, 5, 7, 8, 9, 10 and 13 hereof and the inadvertent omission of reference to the ETA double underscored on page 2 hereof.
+Signed at Ottawa, Canada, this 27th day of September 2013.
+“R.S. Bocock”
+Bocock J.
+CITATION: 2013 TCC 282
+COURT FILE NOS.: 2010-1476(IT)G
+2010-1393(GST)I
+STYLE OF CAUSE: SANDOR BANDULA AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATES OF HEARING: November 7 - 9, 2012; February 28, 2013
+FURTHER AMENDED REASONS
+FOR JUDGMENT BY: The Honourable Mr. Justice Randall S. Bocock
+DATE OF JUDGMENT: September 12, 2013
+DATE OF FURTHER AMENDED
+REASONS FOR JUDGMENT: September 27, 2013
+APPEARANCES:
+Counsel for the Appellant:
+Leigh Somerville Taylor
+Counsel for the Respondent:
+Darren Prevost
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Leigh Somerville Taylor
+Firm: Leigh Somerville Taylor
+Professional Corporation
+Toronto, Ontario
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

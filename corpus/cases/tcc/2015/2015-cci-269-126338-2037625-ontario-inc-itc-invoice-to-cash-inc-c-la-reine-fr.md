@@ -1,0 +1,240 @@
+---
+title: "2037625 Ontario Inc. (ITC Invoice to Cash Inc.) c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/126338/index.do"
+last_modified: "2015-10-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 CCI 269"
+citation2: ""
+neutral_citation: "2015 CCI 269"
+decision_date: "2015-10-30"
+language: "fr"
+item_id: "126338"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2708
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:19:39.838000+00:00"
+cases_cited_count: 11
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c0036c4a72ac63c640f99985de4f81ad8ea3453411dd0c7381a3766ac13faa3e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 2037625 Ontario Inc. (ITC Invoice to Cash Inc.) c. La Reine
+
+- Citation: 2015 CCI 269
+- Decision date: 2015-10-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2708, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+2037625 Ontario Inc. (ITC Invoice to Cash Inc.) c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-10-30
+Référence neutre
+2015 CCI 269
+Numéro de dossier
+2014-1702(IT)I
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Loi de l'impôt sur le revenu
+Notes
+Une correction fut apportée le 30 mai 2016
+Contenu de la décision
+Dossier : 2014-1702(IT)I
+ENTRE :
+2037625 ONTARIO INC. (anciennement ITC INVOICE TO CASH INC.),
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 26 novembre 2014 et les 21 et 22 avril 2015 à Toronto (Ontario)
+Devant l’honorable juge Diane Campbell
+Comparutions :
+Représentants de l’appelante :
+Todd S. Louie et Ryan Wagman
+Avocats de l’intimée :
+Me Aaron Tallon et Me Christopher Bartlett
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition terminée le 31 août 2008 est rejeté conformément aux motifs ci-joints.
+Étant donné que le présent appel a été instruit en vertu de la procédure informelle, je n’adjugerai pas les dépens.
+Signé à Ottawa, Canada, ce 30e jour d’octobre 2015.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 14e jour de décembre 2015
+Evelyne Swenne, traductrice-conseil
+Référence : 2015 CCI 269
+Date : 20151030
+Dossier : 2014-1702(IT)I
+ENTRE :
+2037625 ONTARIO INC. (anciennement ITC INVOICE TO CASH INC.),
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Campbell
+Introduction [1] L’appelante interjette appel d’un nouvel avis de cotisation pour l’année d’imposition 2008, par lequel le ministre du Revenu national (le « Ministre ») a réduit à zéro les crédits d’impôt à l’investissement (« CII ») demandés par l’appelante, qui se chiffraient à 32 425 $. Les CII découlent de la déduction par l’appelante de dépenses d’activités de recherche scientifique et de développement expérimental (« RS‑DE ») d’une valeur de 69 354 $.
+[2] Le montant en litige est supérieur à la limite de 25 000 $ admise pour les appels instruits en vertu de la procédure informelle. Toutefois, l’appelante a choisi de poursuivre sous le régime de la procédure informelle et de limiter le montant de l’appel à 25 000 $, conformément à l’article 17 des Règles de la Cour canadienne de l’impôt (procédure informelle).
+Les faits [3] L’appelante est une société fermée sous contrôle canadien qui a été constituée en société en décembre 2003. Son siège social est situé à Mississauga, en Ontario. Elle offre des services d’« affacturage » à ses entreprises clientes. L’« affacturage » est un terme qu’on utilise pour décrire un processus par lequel une entreprise vend ses comptes clients à une tierce partie. L’entreprise en tire des avantages, parce qu’elle reçoit sur-le-champ de l’argent comptant pour ses activités d’exploitation. La tierce partie, comme l’appelante, achète ces factures moyennant une remise et elle assume l’obligation de percevoir le solde des factures. L’appelante avance 90 % du montant de la facture à l’entreprise et elle conserve le solde de 10 % comme dépôt sur ses honoraires. L’appelante exige de l’entreprise 0,1 % du montant de la facture par jour, à compter de la date du paiement de la facture et jusqu’à ce que le client acquitte celle-ci. L’appelante remet au client le solde du dépôt sur ses honoraires à titre de remise (pièce A-2, T661, partie 2 : Technical Submission to CRA, page 2).
+[4] Étant donné que les services d’affacturage exigent beaucoup de main‑d’œuvre et nécessitent de faire le suivi d’un grand nombre de comptes de clients et de débiteurs, l’appelante a mis au point sa propre suite logicielle Factorsuite, qui met à la disposition des compagnies d’affacturage et de leurs clients commerciaux une solution intégrée de gestion des comptes. Ce projet a été nommé le projet d’optimisation de Factorsuite (le « projet »).
+[traduction] […] L’application Factorsuite a été conçue à l’aide de iFactum, qui fonctionne au moyen d’un serveur d’applications Java WebSphere d’IBM. […] Le langage de l’application a été sciemment choisi et élaboré pour permettre à l’application Factorsuite de fonctionner sur toute combinaison de plateforme matérielle et de système d’exploitation. […]
+(Pièce A-2, page 3.)
+La preuve [5] Danilo Caicedo, l’un des actionnaires de l’appelante, et Victor Sarmiento ont témoigné pour l’appelante en ce qui concerne les activités de RS‑DE qui ont été réalisées au cours de la période. Selon M. Caicedo, la conception de l’application Web Factorsuite avait deux objectifs : 1) offrir des services plus efficaces et moins coûteux concernant les facilités de crédit et l’affacturage des comptes clients pour mieux servir ses clients; 2) différencier l’appelante de ses concurrents (transcription du 26 novembre 2014, page 19). Cette application avait pour objet de réduire au minimum l’intervention humaine pour que l’exploitation soit plus économique et plus précise.
+[6] En 2008, l’appelante utilisait déjà un logiciel tiers existant, Factorsoft, et son prédécesseur, FactorPC. Ce logiciel offrait des fonctions élémentaires de moteur qui tenaient les comptes dans une base de données principale qui fonctionnait avec la technologie Factorsuite de l’appelante. Toutefois, il manquait au logiciel de nombreuses fonctions dont l’appelante avait besoin pour pouvoir améliorer la technologie afin de produire les résultats qu’elle recherchait. D’après la preuve que l’appelante a produite par l’entremise de ses deux témoins, Factorsuite exigeait que l’appelante intègre différents logiciels, dont Factorsoft et FactorPC, [traduction] « […] pour qu’ils s’intègrent avec diverses plateformes » (transcription du 26 novembre 2014, page 21). Le but consistait à intégrer totalement les calculs particuliers que contenaient les données de Factorsoft et de FactorPC à l’application Factorsuite de l’appelante, tout en assurant l’intégrité de ces calculs après l’intégration.
+[7] L’appelante devait également se pencher sur des problèmes possibles concernant un autre produit, le logiciel de télécopie que possédait sa cliente, ActFax. Le logiciel ActFax était conçu pour envoyer simultanément à de nombreuses personnes une télécopie unique qui contenait la même information. L’appelante voulait envoyer des télécopies différentes et originales à des destinataires différents tout en assurant l’intégrité de l’information et en conservant l’ordre dans lequel celle-ci était reçue. Pour y arriver, le logiciel ActFax devait également être intégré aux technologies Factorsuite de l’appelante [traduction] « […] pour expédier des télécopies originales à chaque destinataire » (transcription du 26 novembre 2014, page 31). Même si l’appelante a pris contact avec le fabricant de télécopieurs européen pour qu’il collabore au projet d’intégration, l’appelante a été avisée que ActFax n’était pas conçu et ne pouvait pas être adapté pour réaliser ses objectifs.
+[8] La nature des activités commerciales de l’appelante exigeait qu’elle livre aux clients de « l’information en temps réel » sur laquelle ceux-ci peuvent compter pour structurer leurs affaires courantes. Pour transmettre cette information, l’appelante se servait d’une technique de « mise en cache » que M. Caicedo a décrite comme suit :
+[traduction] R. Un cache est une mémoire temporaire, une mémoire locale, qu’un ordinateur a et où il conserve une certaine quantité d’information à la disponibilité de l’utilisateur qui peut en faire ce qu’il veut.
+(Transcription du 26 novembre 2014, page 53.)
+[9] M. Caicedo a déclaré sous serment que l’appelante voulait offrir à ses clients de l’information en temps réel de façon rapide en réduisant le temps nécessaire à la mise en cache.
+[10] M. Caicedo a également déclaré sous serment que le fournisseur du logiciel tiers, Bayside, qui était propriétaire des programmes Factorsoft et FactorPC, n’était pas désireux de communiquer l’information concernant les capacités et les processus en cause dans son logiciel privé ainsi que dans son stockage. Compte tenu de la réticence de Bayside à transmettre le code interne de son programme, si l’appelante voulait réussir son processus d’intégration, elle devait concevoir des solutions d’exploration des données qui lui permettraient [traduction] « de mettre adéquatement en correspondance le moteur Factorsoft existant et de l’interfacer avec le sien » (pièce A-2, page 4). M. Caicedo a expliqué qu’en explorant les données, l’appelante avait essentiellement accès aux données pour manipuler l’information afin de produire des rapports, de concevoir ses propres processus et de les intégrer avec d’autres (transcription du 26 novembre 2014, page 26). Si elle trouvait des données pertinentes dans différents logiciels et si elle pouvait les intégrer adéquatement, l’appelante avait pour objectif de les utiliser sur une base commune afin que sa propre application Factorsuite puisse fonctionner sur différentes plateformes. Voici comment s’est exprimé M. Caicedo au sujet de la mise en correspondance des données :
+[traduction] R. Pour être en mesure de faire interagir deux technologies, nous avions besoin d’une feuille de route. Y avait-il des données équivalentes du point A au point B? Nous pouvons faire établir la feuille de route pour les deux boîtes noires.
+(Transcription du 26 novembre 2014, page 26.)
+[11] Selon le témoignage de M. Caicedo, l’une des difficultés technologiques sous-jacentes consistait à réussir l’intégration de toutes ces technologies alors qu’il était difficile pour l’appelante de modifier réellement la technologie. Toutefois, il a expliqué que certains éléments pouvaient être intégrés à la technologie existante pour obtenir le résultat désiré. Étant donné que la technologie n’existait pas dans le domaine public, des hypothèses ont été formulées et des essais ont été réalisés par les employés ainsi que par une compagnie de l’extérieur dont les services avaient été retenus pour faire la programmation. À titre d’exemple de l’expérimentation entreprise par l’appelante, il a mentionné que cinq ou six méthodes différentes ont été utilisées pour tenter de réduire le temps de mise en cache et que des essais ont été réalisés pour chacune de ces méthodes.
+[12] Le deuxième témoin de l’appelante, Victor Sarmiento, qui a été qualifié à titre d’expert de la conception de logiciels, a étoffé le témoignage de M. Caicedo. La compagnie de M. Sarmiento, Highweb & Page Group Inc., a fait du travail dans le cadre du projet de l’appelante. Selon son témoignage, les techniques employées par l’appelante en vue d’établir une relation entre deux bases de données connues dépassaient l’exploration des données et la mise en correspondance des données; d’après son témoignage, l’appelante se livrait plutôt à l’exploration des processus :
+[traduction] R. […] Le problème ici et le défi ici, c’est que nous ne connaissions pas la base de données A du tout. Il s’agissait d’un logiciel privé d’une compagnie, et celle-ci n’a divulgué aucun détail du tout, pas seulement sur la base de données, mais aussi sur la logique métier mise en œuvre dans le logiciel qui traite cette base de données. Dans ce sens, il ne s’agit pas de mise en correspondance de données, ni d’exploration de données.
+(Transcription du 26 novembre 2014, page 89.)
+R. Ce que nous faisions à ce moment‑là, c’est que nous tentions d’acquérir des connaissances sur ce système en simulant des opérations par l’entremise de ces systèmes inconnus et en analysant les résultats pour tirer des conclusions sur ce que faisait ce système et sur la façon dont il était structuré. En tenant compte de cela, nous produisions essentiellement de multiples opérations et nous analysions non seulement les résultats, mais aussi tout l’historique des opérations qui sont stockées. De ce point de vue, à ce moment‑là (nous parlons de 2007), il n’y avait pas de nom pour cela. Ce n’est que récemment, en 2009, quand l’Institute of Electrical and Electronics Engineers a mis sur pied un groupe de travail chargé de développer ce type de technique, qui a été nommée exploration de processus et qui est un aspect différent. L’Institute of Electrical and Electronics Engineers a publié une déclaration de principes pour promouvoir le développement, l’évolution et l’adoption de l’exploration de processus. Ce document a été publié en 2011. Nous parlons d’une discipline que nous exercions déjà dans une certaine mesure en 2007, alors que l’Institute of Electrical and Electronics Engineers a travaillé pour mettre sur pied un groupe de travail deux ans plus tard, en 2009, avant de publier sa déclaration de principes en 2011.
+(Transcription du 26 novembre 2014, page 90.)
+[13] De l’avis de M. Sarmiento, l’appelante ne se livrait pas à la mise en correspondance ni à l’exploration de données dans le cadre de ce projet en particulier, mais elle tentait plutôt de découvrir l’enchaînement des opérations dans le système logiciel, qu’elle ne connaissait pas par ailleurs. D’après sa preuve, l’exploration de données est une pratique normale quand les bases de données originales et les sources des données sont connues, de telle sorte que l’information puisse être extraite afin d’être convertie. Si la source est inconnue, la difficulté technologique consiste à récupérer l’information de ce système, ce qui va au-delà de la conversion des données, selon son témoignage. Plus particulièrement, l’appelante ne pouvait pas [traduction] « mettre en correspondance ni explorer des données de Factorsoft sans connaître la structure de la base de données […] » (transcription du 26 novembre 2014, page 89). L’appelante n’avait pas accès au logiciel privé qui appartenait à Bayside ni à la logique métier mise en œuvre dans ce logiciel pour traiter les données. À cet égard, les activités de l’appelante allaient plus loin que la mise en correspondance de données et l’exploration de données. L’exploration de processus met en cause la découverte d’un champ de processus à l’intérieur d’un système d’information, alors qu’il n’existe aucune possibilité par ailleurs d’extraire l’information. Ce faisant, l’appelante tentait non seulement de comprendre la structure de la base de données elle-même, mais elle s’efforçait d’atteindre son but qui était d’interagir avec le système en entier (transcription du 26 novembre 2014, page 117).
+[14] En contre-interrogatoire, M. Sarmiento a convenu que l’appelante étudiait les fichiers journaux produits par le programme Factorsoft pour déterminer ce que faisaient les processus. Il a fait une analogie entre les fichiers journaux et un microscope, en ce sens qu’il s’agit dans les deux cas d’instruments scientifiques avec lesquels on fait plus que [traduction] « […] mettre l’œil au microscope » pour aborder les incertitudes (transcription du 26 novembre 2014, page 106). Quand l’avocat de l’intimée lui a demandé si l’analyse d’un fichier journal faisait simplement partie de la discipline de la programmation informatique et de la diligence raisonnable d’un programmeur, M. Sarmiento a affirmé que tout dépendait de l’origine du fichier journal et, s’il s’agissait d’un fichier journal Factorsoft :
+[traduction] R. Non, ils ne sont pas censés me le dire. Ils sont censés dire à l’équipe de soutien de Factorsoft ce qu’il se passe. Pour moi, c’est une difficulté.
+(Transcription du 26 novembre 2014, page 124.)
+[15] En ce qui concerne les problèmes touchant ActFax, M. Sarmiento a expliqué qu’il avait conçu des algorithmes et créé un système qui dissiperait l’incertitude technologique concernant la question des envois par télécopieur en trouvant [traduction] « l’équilibre entre le rendement, la fiabilité et la fidélité dans la production de ces transmissions par télécopieur » (transcription du 26 novembre 2014, page 125). Selon M. Sarmiento, la difficulté à cet égard consistait à maintenir l’exactitude des données et leur disponibilité en temps réel dans un environnement de rendement élevé. La conception d’algorithmes et leur mise en application étaient la première étape de la création du programme.
+[16] Leon Pellissero, témoin de l’intimée, a expliqué les étapes qu’il a franchies dans le processus de révision et la démarche qu’il a suivie pour arriver à la conclusion que l’appelante n’était pas admissible aux prestations pour activités de RS‑DE. On n’a pas réussi à contredire sa preuve en contre-interrogatoire.
+[17] Le Ministre a conclu que l’appelante ne s’était livrée à aucune activité de RS‑DE dans le cadre de son projet Factorsuite, car son travail n’a pas donné lieu à un progrès scientifique ou technologique. La question consiste à savoir si le Ministre a cotisé adéquatement l’appelante, c’est-à-dire à décider si l’appelante a engagé des dépenses admissibles de RS‑DE au cours de l’année d’imposition 2008 et si l’appelante a droit à un CII à l’égard de ces activités?
+Jurisprudence et analyse [18] Voici la définition des activités de RS‑DE qui figure au paragraphe 248(1) de la Loi de l’impôt sur le revenu (la « Loi ») :
+« activités de recherche scientifique et de développement expérimental » Investigation ou recherche systématique d’ordre scientifique ou technologique, effectuée par voie d’expérimentation ou d’analyse, c’est-à-dire :
+a) la recherche pure, à savoir les travaux entrepris pour l’avancement de la science sans aucune application pratique en vue;
+b) la recherche appliquée, à savoir les travaux entrepris pour l’avancement de la science avec application pratique en vue;
+c) le développement expérimental, à savoir les travaux entrepris dans l’intérêt du progrès technologique en vue de la création de nouveaux matériaux, dispositifs, produits ou procédés ou de l’amélioration, même légère, de ceux qui existent.
+Pour l’application de la présente définition à un contribuable, sont compris parmi les activités de recherche scientifique et de développement expérimental :
+d) les travaux entrepris par le contribuable ou pour son compte relativement aux travaux de génie, à la conception, à la recherche opérationnelle, à l’analyse mathématique, à la programmation informatique, à la collecte de données, aux essais et à la recherche psychologique, lorsque ces travaux sont proportionnels aux besoins des travaux visés aux alinéas a), b) ou c) qui sont entrepris au Canada par le contribuable ou pour son compte et servent à les appuyer directement.
+Ne constituent pas des activités de recherche scientifique et de développement expérimental les travaux relatifs aux activités suivantes :
+e) l’étude du marché et la promotion des ventes;
+f) le contrôle de la qualité ou la mise à l’essai normale des matériaux, dispositifs, produits ou procédés;
+g) la recherche dans les sciences sociales ou humaines;
+h) la prospection, l’exploration et le forage fait en vue de la découverte de minéraux, de pétrole ou de gaz naturel et leur production;
+i) la production commerciale d’un matériau, d’un dispositif ou d’un produit nouveau ou amélioré, et l’utilisation commerciale d’un procédé nouveau ou amélioré;
+j) les modifications de style;
+k) la collecte normale de données.
+[19] La décision de principe demeure celle qu’a rendue le juge Bowman dans l’affaire Northwest Hydraulic Consultants Ltd. c La Reine, 98 DTC 1839, laquelle a été confirmée par la Cour d’appel fédérale dans l’arrêt R I S‑Christie Ltd. c Canada, 99 DTC 5087, ainsi que dans l’arrêt C.W. Agencies Inc. c Canada, 2001 CAF 393, 2002 DTC 674. Au paragraphe 16, le juge Bowman énonce un certain nombre de critères qu’un contribuable doit remplir pour établir que les activités d’un projet doivent être considérées comme des activités de RS‑DE:
+[…]
+1. Existe-t-il un risque ou une incertitude technologique?
+[…]
+2. La personne qui prétend se livrer à de la RS & DE a-t-elle formulé des hypothèses visant expressément à réduire ou à éliminer cette incertitude technologique? […]
+[…]
+3. Les procédures adoptées sont-elles conformes aux principes établis et aux principes objectifs de la méthode scientifique, définis par l’observation scientifique systématique, la mesure et l’expérimentation ainsi que la formulation, la vérification et la modification d’hypothèses?
+[…]
+4. Le processus a-t-il abouti à un progrès technologique, c’est-à-dire à un progrès en ce qui concerne la compréhension générale?
+[…]
+5. La Loi et son règlement d’application ne le prévoient pas expressément, mais il semble évident qu’un compte rendu détaillé des hypothèses, des essais et des résultats, doive être fait, et ce, au fur et à mesure de l’avancement des travaux.
+[…]
+[20] Toujours au paragraphe 16 de ses motifs dans la décision Northwest Hydraulic, voici comment le juge Bowman a expliqué les termes « risque ou incertitude technologique » :
+[…]
+1. Existe-t-il un risque ou une incertitude technologique?
+a) Lorsqu’on parle de “ risque ou [d’]incertitude technologique ” dans ce contexte, on laisse implicitement entendre qu’il doit exister une incertitude quelconque qui ne peut pas être éliminée par les études techniques courantes ou par les procédures habituelles. Je ne parle pas du fait que dès qu’un problème est décelé, il peut exister un certain doute au sujet de la façon dont il sera réglé. Si la résolution du problème est raisonnablement prévisible à l’aide de la procédure habituelle ou des études techniques courantes, il n’y a pas d’incertitude technologique telle que cette expression est utilisée dans ce contexte.
+b) Qu’entend-on par “ études techniques courantes ”? C’est cette question (ainsi que celle qui se rapporte au progrès technologique) qui semble avoir divisé les experts plus que toute autre. En résumé, cela se rapporte aux techniques, aux procédures et aux données qui sont généralement accessibles aux spécialistes compétents dans le domaine.
+[…]
+[21] Dans le présent appel, il incombe à l’appelante de démontrer, par prépondérance des probabilités, que ces dépenses qu’elle a faites étaient destinées à des activités de RS‑DE qui ont été réalisées au cours de l’année d’imposition 2008. Pour les motifs ci-dessous, je ne suis pas convaincue que l’appelante s’est déchargée de son fardeau, parce que, compte tenu de la preuve qui a été produite, l’appelante n’a pas démontré que ses activités n’étaient rien de plus que des études techniques courantes ou des procédures normalisées.
+[22] Même si j’ai reconnu que M. Sarmiento était un témoin expert et si je n’ai pas reconnu le témoin de l’intimée, M. Pellissero, comme un expert, je préfère le témoignage de M. Pellissero, parce qu’il a été plus clair et, en fin de compte, plus convaincant.
+[23] Le projet Factorsuite de l’appelante était fondé sur trois objectifs technologiques. Premièrement, l’appelante cherchait à interfacer Factorsuite avec des logiciels tiers, FactorPC et Factorsoft, qui appartenaient à Bayside afin d’assurer la fonctionnalité et l’intégrité des calculs entre ces applications logicielles. Deuxièmement, l’appelante désirait maintenir cette fonctionnalité et cette intégrité à l’égard de son dispositif de télécopieur automatique, de manière à ce que des rapports personnalisés puissent être transmis efficacement et en temps réel aux clients. Troisièmement, l’appelante voulait atteindre [traduction] « l’interopérabilité et l’extensibilité » entre des applications logicielles d’affacturage existantes mais distinctes et la propre technologie Factorsuite de l’appelante afin que les données, qui comprenaient les soldes, les relevés de compte et les renseignements historiques sur les opérations, puissent être présentées aux clients instantanément, précisément et en sécurité (pièce A-2, pages 3 et 4).
+[24] Selon M. Caicedo, l’appelante a fait valoir qu’elle s’est livrée à de l’expérimentation systématique en se servant des techniques d’exploration des données et de mise en correspondance des données et, d’après le témoignage de M. Sarmiento, plus précisément de la technique de l’exploration des processus, afin d’optimiser la migration des données, tout en assurant une interopérabilité et une extensibilité parfaites entre des progiciels d’affacturage différents. Elle souhaitait aussi optimiser la synchronisation de l’aspect télécopieur pour assurer un rendement optimal en temps réel entre des logiciels d’affacturage différents. Elle affirme donc s’être livrée à des opérations hypothétiques dans un environnement de tests scientifiquement conçu.
+[25] M. Pellissero a énoncé trois incertitudes technologiques concernant les activités de l’appelante :
+[traduction] La première était la question de savoir comment obtenir l’information de – je devrais simplement mentionner FactorPC, qui était le prédécesseur – et la déplacer dans Factorsoft.
+Alors, la première incertitude technologique consistait à obtenir l’information de [Factorsoft] pour que Factorsuite, leur produit interne, fonctionne avec des choses et produise des résultats.
+C’était donc la première incertitude technologique.
+Comment déplacer les données de Factorsoft à Factorsuite?
+Leur deuxième prétendue incertitude technologique consistait à déterminer comment déplacer l’information de Factorsuite, leur propre produit, à ActFax, le produit tiers, pour envoyer des télécopies, parce qu’ils éprouvaient des ennuis à cet égard.
+Et la troisième incertitude technologique consistait à accélérer les interrogations et les requêtes qui produisent des rapports, parce que leur production de rapports était lente.
+Et là encore, cela viendrait normalement de leurs produits Factorsuite.
+(Transcription du 21 avril 2015, pages 67 et 68)
+[26] Ces incertitudes témoignent de celles que l’appelante a énumérées dans la pièce A-2 :
+1. Même si des efforts considérables ont été déployés pour faire de la recherche sur la question, l’équipe de conception n’a pas été en mesure de déterminer comment mettre en correspondance et explorer avec exactitude des données qui se trouvent dans Factorsoft sans connaître la structure de la base de données. […]
+2. ITC ne savait pas précisément comment assurer une interopérabilité harmonieuse et sûre entre le logiciel privé Factorsuite et la conception préexistante d’ActFax. […]
+3. ITC n’était pas certaine de la façon de simplifier la présentation des données dans des vues dynamiques pour offrir un rendement en temps réel sans compromettre la sécurité ni la précision. Il est devenu évident que l’expérimentation était le seul moyen d’obtenir cette information. […]
+(Pièce A-2, pages 5 et 6.)
+[27] La description par M. Pellissero des techniques employées, notamment l’exploration des données, la mise en correspondance des données, l’exploration des processus et la mise en cache, ressemble beaucoup aux descriptions qu’en ont faites les deux témoins de l’appelante. M. Pellissero a conclu qu’il n’existait aucune incertitude technologique à l’égard de la technologie et que les processus employés étaient des procédures courantes dont se servirait tout programmeur informatique compétent mettant en pratique les normes de l’industrie.
+[28] Selon M. Pellissero, à l’exception du logiciel Factorsuite de l’appelante, même si les structures des produits étaient inconnues, la plus grande difficulté consistait à obtenir l’information d’un produit et à la faire passer dans un autre produit. Toutefois, il a affirmé sous serment que ce problème pouvait être réglé en ayant recours à des techniques bien connues.
+[29] Le représentant de l’appelante, M. Louie, a fait valoir que les incertitudes étaient imputables à l’absence d’information au sujet de ces produits tiers, et non à la tâche de simplement déplacer l’information d’un programme à l’autre. Lorsqu’il a contre-interrogé M. Pellissero, il a formulé ses questions comme suit :
+[traduction] Q. […] Est-il possible que vous ayez fait abstraction du fait qu’au cours de son témoignage, le témoin Victor Sarmiento a clairement affirmé que la difficulté ne consistait pas à déplacer les données, mais plutôt à réussir l’interopérabilité et l’extensibilité entre ces deux plateformes dissemblables?
+(Transcription du 21 avril 2015, page 122.)
+Q. […] Alors, quand vous avez déterminé l’admissibilité, est‑il concevable que vous ayez fait abstraction du fait que l’information n’était pas disponible et qu’on ne pouvait même pas l’obtenir du fournisseur du logiciel?
+(Transcription du 21 avril 2015, page 125.)
+[30] Je vais examiner chaque incertitude séparément. En ce qui concerne la première incertitude alléguée, à savoir les efforts déployés pour tenter de comprendre la structure de données appartenant à un vendeur de logiciel tiers dans le but de la faire fonctionner en concordance avec sa propre application Factorsuite, M. Caicedo a déclaré sous serment qu’on utilisait les processus d’exploration des données et de mise en correspondance des données pour déterminer les données qui se trouvaient dans la base de données et leur structure. M. Sarmiento a qualifié la technique qui a été employée d’exploration des processus, lequel faisait appel à l’examen des journaux des événements pour trouver comment un programme fonctionne. Même si M. Sarmiento a cité un article publié à l’origine en 2011 et portant sur l’exploration des processus, l’appelante n’a pas produit l’article. Dans ses observations, le représentant de l’appelante a également indiqué que la technique de l’exploration des processus a pu exister dès 2008. Selon M. Pellissero, la technique existait en 2007 et on trouvait de la documentation à son sujet. Il ne peut pas y avoir d’incertitude technologique si la solution d’un problème est raisonnablement prévisible en faisant appel à des procédures normalisées et à des études techniques courantes (Northwest Hydraulic, au paragraphe 16). L’appelante n’a pas réussi à produire une preuve suffisante pour justifier sa théorie selon laquelle il existait une incertitude dans l’interopérabilité de Factorsoft et de Factorsuite et elle a omis de présenter une preuve pour décrire précisément le travail qui aurait été effectué afin d’accomplir un processus de cette nature. Les programmes tiers fonctionnaient sans problème apparent et, comme l’a expliqué M. Pellissero, [traduction] « […] cela nous dit que le langage de programmation était codé correctement au plan syntaxique et que la syntaxe sous‑jacente du programme était bonne et que la base de données a été produite en fonction de ce que la base de données fait, compte tenu de ses limites et de ses contraintes » (transcription du 21 avril 2015, page 77). En fait, la preuve n’établit pas clairement l’état des connaissances disponibles à ce moment‑là. À la lumière des faits, je serais portée à conclure que les techniques employées pour trouver l’information ou les données que contenaient les programmes inconnus et la façon dont elles pouvaient en fin de compte interagir avec le propre programme Factorsuite de l’appelante étaient des procédures normalisées que mettrait régulièrement en pratique un programmeur compétent.
+[31] Pour ce qui est de la deuxième incertitude alléguée par l’appelante, la composante du programme servant à l’envoi de télécopies, il appert de la preuve que les programmes qui sont conçus pour produire des rapports destinés aux clients et les envoyer efficacement et dans le bon ordre sont issus de travaux courants et de procédures normalisées que les programmeurs informatiques compétents exécutent. La solution de l’appelante nécessitait l’examen des données que les télécopies contenaient, puis la rédaction d’une procédure et la création d’un lieu d’attente d’où les télécopies pourraient être envoyées dans le bon ordre. La preuve ne démontre pas que cette procédure reposait sur une incertitude technologique.
+[32] Quant à la troisième incertitude, la nécessité de trouver un système qui produirait des rapports destinés aux clients en temps réel, l’appelante n’a pas réussi à me convaincre que les procédures de traitement des rapports, de leur mise en cache et de leur régénération de sorte que les rapports utilisés les plus fréquemment puissent être plus facilement accessibles, n’étaient pas simplement des procédures courantes qu’emploierait un programmeur compétent.
+[33] M. Caicedo a également déclaré sous serment qu’il y avait des problèmes, parce que les données dans l’application Factorsoft étaient en langage SQL, alors que les données dans sa version précédente, FactorPC, étaient en langage dBase IV et devaient être converties en langage SQL pour réussir à mettre les données en correspondance. Là encore, il s’agit d’une procédure courante dans la programmation informatique, et une conversion de cette nature est fréquemment jugée inadmissible à titre d’activité de RS‑DE, comme le précise la Circulaire d’information IC97-1. Même si je ne suis pas liée par une politique que l’Agence du revenu du Canada énonce dans ses circulaires, celles-ci ont été acceptées et suivies dans la jurisprudence comme lignes directrices sur l’admissibilité. Par exemple, dans la décision Zeuter Development Corporation c La Reine, 2006 CCI 597, 2007 DTC 41, cette circulaire a été citée pour déterminer si un nouveau produit créé par la société contribuable pour sa propre entreprise faisait appel à des techniques connues qui étaient inadmissibles à titre d’activités de RS‑DE. Dans l’affaire Zeuter, le projet portait sur un outil d’apprentissage en ligne qu’utiliseraient les élèves du secondaire. Voici comment s’est exprimé le juge Little au paragraphe 23 :
+[23] En résumé, les travaux entrepris par l’appelante constituent peut‑être un progrès pour elle, mais ils ne représentent pas un avancement de la technologie sous‑jacente. M. Slater a fait valoir que le progrès technologique réalisé consistait essentiellement dans la présentation d’information sous une forme que peuvent utiliser des élèves ou d’autres personnes. Cependant, il n’en a pas fait la preuve au regard de la définition de la RS&DE donnée dans la Loi. L’utilité du produit final n’est pas un facteur déterminant lorsqu’il s’agit de décider s’il y a un progrès technologique. La question qu’il faut se poser est plutôt de savoir quelle sorte de difficultés technologiques il a fallu surmonter lors du développement de cet outil, et l’appelante n’a fourni aucun élément de preuve pour démontrer qu’elle avait éprouvé une quelconque difficulté technologique qui ne pouvait être résolue à l’aide des études techniques courantes.
+[34] Dans l’arrêt Jentel Manufacturing Ltd c Canada, 2011 CAF 355, 2012 DTC 5031, la contribuable avait mis au point un système de rangement pour petites pièces portant le nom de Multi-Bins, lequel devait être utilisé dans les usines et les ateliers. Le travail effectué pour concevoir ce produit était « conforme à la norme de conception de produit » et ne représentait pas un véritable progrès technologique.
+[35] Dans la décision Hypercube Inc. c La Reine, 2015 CCI 65, 2015 DTC 1089, la juge Lamarre a conclu que la technique de « crawler » du contribuable était une pratique courante. Même si elle avait été mise au point pour accomplir de nouvelles choses, les outils de programmation étaient déjà disponibles dans le domaine. Ces décisions, et en particulier celle qui a été rendue dans l’affaire Hypercube, sont semblables au présent appel, en ce sens que des techniques bien connues ont été employées pour concevoir un logiciel dans le but de trouver les faiblesses de différents sites Web. Elles font également écho au témoignage de M. Sarmiento en ce qui concerne sa comparaison entre l’emploi de fichiers journaux dans la programmation informatique et de microscopes pour traquer le cancer. Le régime de RS‑DE exige davantage que simplement regarder dans un microscope pour faire de la recherche. Par exemple, il exigerait, dans l’exemple de M. Sarmiento sur l’examen de cellules cancéreuses, l’ajout d’une nouvelle substance dans les cellules cancéreuses sous un microscope ou le retrait d’un composant particulier ou l’amalgame de deux techniques différentes pour créer quelque chose de nouveau. Les méthodes de cette nature peuvent être qualifiées de progrès technologiques. Toutefois, si un nouveau produit est créé à l’aide de techniques bien connues, il ne peut être qualifié d’activité de RS‑DE, parce qu’il ne met en cause ni risque ni incertitude scientifique ou technologique. M. Louie a semblé reconnaître ce principe dans ses observations :
+[traduction] En fait, si un scientifique observe le comportement d’un organisme, il modifie un chromosome ou il ajoute des protéines.
+Et par son observation, on pourrait prétendre qu’il se sert d’une pratique normalisée en employant un microscope, une éprouvette, un brûleur Bunsen, peu importe les engins qu’il lui arrive d’utiliser.
+Mais qu’en serait-il si, par observation de cet organisme, un scientifique trouvait le remède pour le cancer.
+Parlons-nous toujours d’une pratique normalisée?
+(Transcription du 22 avril 2015, page 174.)
+Donc, même si un projet peut mener à un progrès important dans un domaine, il se peut qu’il n’y ait aucune incertitude scientifique ou technologique, comme l’a envisagé le juge Bowman dans la décision Northwest Hydraulic, lorsque l’élément d’incertitude est absent en raison du fait qu’une pratique normalisée a été employée, comme dans l’exemple d’un scientifique qui se sert d’un microscope pour guérir le cancer en ne faisant rien d’autre que d’observer les interactions parmi ces cellules cancéreuses sous le microscope. Un cas semblable ne serait pas qualifié d’activité de RS‑DE au sens de l’alinéa 248(1)c), car le scientifique a éliminé l’élément d’incertitude en employant uniquement la pratique normalisée et bien connue de l’observation au microscope.
+[36] En l’espèce, l’appelante a fait la preuve d’une amélioration au produit qui a été avantageuse pour la compagnie, mais la preuve était insuffisante pour que je vienne à la conclusion qu’il y a eu un progrès scientifique ou technologique. À elle seule, l’amélioration d’un produit n’est pas suffisante pour que le contribuable puisse se prévaloir des dispositions sur les activités de RS‑DE que contient la Loi. La preuve tend à confirmer ma conclusion selon laquelle l’appelante s’est servie d’outils de programmation disponibles pour atteindre ses objectifs, ces outils étaient connus dans le domaine et ils pouvaient être utilisés par des programmeurs informatiques compétents. Le fait que l’appelante a intégré tous les programmes était clairement un progrès pour la compagnie, mais il ne se qualifie pas comme un avancement de la technologie sous-jacente, étant donné que la technologie sous‑jacente de chacun des programmes, FactorPC, Factorsoft, Factorsuite et ActFax, ne causait aucun problème à ce moment-là. En dépit de l’explication approfondie du représentant de l’appelante, M. Louie, en ce qui concerne l’incertitude causée par le fait que les programmes tiers étaient inconnus, la preuve n’a pas réussi à démontrer qu’une nouvelle technologie a été lancée pour la surmonter ou, comme M. Louie l’a décrit, [traduction] « quel chromosome a été modifié ou quelle protéine a été ajoutée ». Selon la preuve, des outils de programmation bien connus et courants ont été employés pour concevoir et améliorer la méthode utilisée pour transmettre des rapports aux clients de manière efficace et rapide dans un environnement en temps réel.
+[37] Dans le présent appel, l’avancement technologique ne peut pas être l’interopérabilité ni l’extensibilité de programmes inconnus, étant donné qu’un très grand nombre de programmes interagissent partout tous les jours. Le fait que les produits tiers qui appartiennent à Bayside et ActFax étaient inconnus représentait une difficulté additionnelle pour l’appelante, mais il ne peut à lui seul constituer une incertitude technologique.
+[38] Dans la décision 1726437 Ontario Inc. s/n Airmax Technologies c La Reine, 2012 CCI 376, 2013 DTC 1008, le juge Hogan a conclu qu’une combinaison de différentes techniques peut constituer un progrès technologique. Toutefois, même si je conviens qu’un amalgame de techniques différentes peut mener à un progrès technologique, ce sera le cas seulement si on crée une nouvelle technique qui n’avait jamais été employée auparavant dans l’industrie en question. Sinon, l’utilisation individuelle de techniques, comme l’exploration, la mise en correspondance, l’exploration des processus ou la mise en cache, ne pourrait jamais aboutir à un progrès. Toutefois, ce n’est pas le cas en l’espèce et je continue de ne pas être convaincue par la preuve – ou par son absence, devrais-je dire – que l’exploration de processus était une nouvelle technique lorsque l’appelante l’a utilisée et que toutes les autres techniques employées n’étaient rien d’autre que les procédures normalisées qui existaient à l’époque.
+[39] Le représentant de l’appelante, M. Louie, a tenté de faire une distinction entre « l’exploration des processus » et la « technique ». À cet égard, il s’en est remis au témoignage de M. Sarmiento, dans lequel celui‑ci a affirmé que l’exploration des processus était une discipline qui faisait appel à une méthodologie employée dans la recherche, par opposition à une technique qui est présumée être un élément connu. Peu importe si l’exploration des processus est, en fait, une méthodologie ou une technique, l’intégration des programmes ou l’échange d’information entre deux programmes repose nécessairement sur certaines connaissances qui étaient déjà connues et ne donne donc pas lieu à des activités de RS‑DE, parce qu’il y a eu simplement un avancement du produit, ce qui est insuffisant pour être admissible comme activité de RS‑DE.
+[40] De plus, l’appelante n’a pas rempli l’obligation qu’elle avait de démontrer que des hypothèses visant à réduire ou à éliminer les incertitudes technologiques alléguées avaient été expressément formulées et mises à l’essai, qu’une investigation scientifique avait été réalisée et que des procédures avaient été adoptées, conformément à la méthode scientifique. Comme l’a statué la Cour d’appel fédérale dans l’arrêt C.W. Agencies Inc. c Canada, 2001 CAF 393, 2002 DTC 6740, au paragraphe 17, cela exige qu’« [u]n compte rendu détaillé des hypothèses vérifiées et des résultats [ait] été fait au fur et à mesure de l’avancement des travaux ». Rien dans la preuve ne permet de conclure que l’appelante a adopté cette démarche et aucune explication raisonnable n’a été donnée quant à son omission de le faire; pour ces motifs aussi, l’appel doit échouer. M. Caicedo et M. Sarmiento ont affirmé sous serment que l’appelante a formulé de multiples hypothèses pour rendre interopérables les programmes divergents. Par exemple, en ce qui concerne la deuxième incertitude au sujet des problèmes d’envoi par télécopieur, M. Caicedo a expliqué que l’hypothèse consistait à déterminer si l’appelante pouvait créer un fichier de texte en clair qui contiendrait toute l’information, laquelle pourrait être manipulée de manière à répondre aux besoins de l’appelante. Toutefois, aucune des hypothèses de l’appelante qui visaient expressément à réduire ou à éliminer les incertitudes alléguées ne s’appuyait sur une méthode de recherche scientifique et très peu de documentation justificative pour prouver les essais a été produite en preuve. On ne m’a présenté aucune preuve sur des questions particulières concernant le nombre d’essais effectués ou la nature des expériences, des modifications ou des résultats. En fait, certains des documents qui ont été produits contenaient des notes manuscrites qui n’avaient pas été rédigées en anglais et qui n’étaient pas traduites.
+[41] En terminant, le travail effectué par l’appelante dans le cadre du projet Factorsuite n’équivalait pas à une activité de RS‑DE, au sens du paragraphe 248(1) de la Loi, et le Ministre a refusé judicieusement la demande de l’appelante au titre des activités de RS‑DE. Par conséquent, les dépenses réclamées par l’appelante dans le cadre de ce projet ne sont pas des dépenses admissibles en vertu du paragraphe 127(9) et les CII pour l’année d’imposition 2008 ont été refusés à bon escient.
+[42] Pour ces motifs, l’appel est rejeté.
+[43] Étant donné que l’appel a été instruit en vertu de la procédure informelle, je n’adjugerai pas les dépens.
+Signé à Ottawa, Canada, ce 30e jour d’octobre 2015.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 14e jour de décembre 2015
+Evelyne Swenne, traductrice-conseil
+RÉFÉRENCE :
+2015 CCI 269
+No DU DOSSIER DE LA COUR :
+2014-1702(IT)I
+INTITULÉ :
+2037625 ONTARIO INC. (anciennement ITC INVOICE TO CASH INC.) et SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATES DE L’AUDIENCE :
+Le 26 novembre 2014 et les 21 et 22 avril 2015
+MOTIFS DU JUGEMENT :
+L’honorable juge Diane Campbell
+DATE DU JUGEMENT :
+Le 30 octobre 2015
+COMPARUTIONS :
+Représentants de l’appelante :
+Todd S. Louie et Ryan Wagman
+Avocats de l’intimée :
+Me Aaron Tallon et Me Christopher Bartlett
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada

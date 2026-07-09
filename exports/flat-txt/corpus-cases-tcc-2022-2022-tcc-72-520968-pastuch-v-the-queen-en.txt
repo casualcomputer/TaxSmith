@@ -1,0 +1,138 @@
+Title: Pastuch v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/520968/index.do
+Corpus path: corpus/cases/tcc/2022/2022-tcc-72-520968-pastuch-v-the-queen-en.md
+Document type: case_law
+Last modified: 2022-03-17
+
+# Pastuch v. The Queen
+
+- Citation: 2022 TCC 72
+- Decision date: 2022-03-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4494, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pastuch v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-03-17
+Neutral citation
+2022 TCC 72
+File numbers
+2013-2646(IT)G
+Judges and Taxing Officers
+David E. Graham
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-2646(IT)G
+BETWEEN:
+ALENA PASTUCH,
+Appellant (Applicant),
+and
+FINANCIAL AND CONSUMER AFFAIRS AUTHORITY OF SASKATCHEWAN,
+(Respondent);
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+ORDER AS TO COSTS
+Before: The Honourable Justice David E. Graham
+Participants:
+For the Appellant (Applicant):
+The Appellant (Applicant) herself
+Counsel for the (Respondent), Financial and Consumer Affairs Authority of Saskatchewan:
+Lauren J. Wihak
+Counsel for the Respondent, Her Majesty the Queen:
+Anne Jinnouchi
+ORDER
+Ms. Pastuch shall pay costs of $15,000 to the Financial and Consumer Affairs Authority of Saskatchewan immediately. No costs are awarded to any party in respect of submissions on costs.
+Signed at Ottawa, Canada, this 28th day of June 2022.
+“David E. Graham”
+Graham J.
+Citation: 2022 TCC 72
+Date: 20220628
+Docket: 2013-2646(IT)G
+BETWEEN:
+ALENA PASTUCH,
+Appellant (Applicant),
+and
+FINANCIAL AND CONSUMER AFFAIRS AUTHORITY OF SASKATCHEWAN,
+(Respondent);
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Graham J.
+[1] In my order dated March 16, 2022, I dismissed Ms. Pastuch’s motion to compel the Financial and Consumer Affairs Authority of Saskatchewan (the “FCAA”) to produce documents. I awarded costs to the FCAA. [1] I provided the parties with time to reach an agreement on costs, failing which the parties were to make written submissions regarding costs.
+A. Costs Requested
+[2] The FCAA is requesting costs of $15,000. The FCAA’s actual costs were just over $35,000. Ms. Pastuch argues that she should only have to pay costs in accordance with the Tariff.
+[3] Subsection 147(3) of the Tax Court of Canada Rules (General Procedure) sets out factors that the Court may consider in awarding costs. Because this was a motion involving a third party, many of the factors are not relevant. I will only consider the relevant factors.
+Result of the Proceeding
+[4] The FCAA was completely successful in defending Ms. Pastuch’s motion. While it was technically possible for the FCAA to have had mixed success, it was likely that it would either have been completely successful or completely unsuccessful. I have chosen to award costs to the FCAA because of its success. In the circumstances, its complete success is not a reason to award higher costs.
+Importance of the Issues
+[5] None of the issues in the motion were of importance to the development of tax law, to the public’s interest or to a broad number of people. I am not giving any weight to this factor.
+Complexity of the Issues
+[6] The issues in the motion were not complex. This argues for lower costs.
+Volume of Work
+[7] The amount of work involved in this motion was relatively normal. I am not giving any weight to this factor.
+Conduct Affecting the Duration of the Proceeding
+[8] This factor supports a higher costs order. In my Reasons for Order, I stated that my impression was that the motion was unnecessarily delayed by Ms. Pastuch’s consistent failure to meet filing deadlines. I warned her that, unless she was able to convince me that my impression is wrong, any decision that I was required to issue in respect of costs would reflect that view. Ms. Pastuch has failed to convince me. While I am not going to give significant weight to the delays caused by Ms. Pastuch’s failure to meet deadlines, I am going to give it some weight.
+Denial or Refusal to Admit
+[9] There was no evidence that would suggest that either party denied or refused to admit anything that should have been admitted. I am not giving any weight to this factor.
+Improper, Vexatious or Unnecessary Stages
+[10] This factor argues very strongly for a significant award of costs.
+[11] I dismissed the bulk of Ms. Pastuch’s motion on the basis of issue estoppel. Ms. Pastuch was clearly aware of the doctrine of issue estoppel as, well before the FCAA raised the issue in any serious way, she devoted two pages of her written submissions to explaining why she felt that the doctrine did not apply in her case. She now claims that these pages were written by a pro bono lawyer and that she did not understand them. I find that, even if they were written by someone else, she was still aware of the doctrine.
+[12] Regardless, whether she fully understood the doctrine or not, this is the fourth adjudicative body before which she has raised the same issue. She simply refuses to accept the outcome. In fact, most of her submissions on costs were attempts to re-argue the motion.
+[13] In addition, Ms. Pastuch made totally unsupported allegations that several employees or former employees of the FCAA have committed fraud against several adjudicative bodies. This Court has historically awarded higher costs where a party has, without any proof, made such allegations. Ms. Pastuch did not express any remorse for the allegations that she made. On the contrary, in her costs submissions she doubled down on her assertions of fraud.
+[14] As some of the employees against which Ms. Pastuch leveled these allegations worked in the FCAA’s in-house legal department, the FCAA felt that it needed to retain outside counsel. This was a completely appropriate decision. However, the result was that the FCAA’s legal expenses increased significantly. I find that Ms. Pastuch should bear a significant portion of that increased cost.
+Stages Taken Through Negligence, Mistake or Excessive Caution
+[15] There was no evidence that would suggest that any stage in the proceeding was taken through negligence, mistake or excessive caution.
+B. Summary
+[16] Considering all of the above factors and, in particular, the improper, vexatious and unnecessary nature of the motion and the unsupported allegations of fraud, I conclude that a significant award of costs is appropriate. Costs in accordance with the Tariff would be totally inappropriate. The costs award should more closely represent the FCAA’s actual costs.
+[17] The $15,000 in costs that the FCAA seeks represents less than 45% of its actual costs. In the circumstances, I find that this is an entirely reasonable amount to award to the FCAA. If anything, the FCAA has been generous in not seeking higher costs.
+[18] Based on all the foregoing, Ms. Pastuch shall pay fixed costs of $15,000 to the FCAA forthwith.
+[19] No costs are awarded to any party in respect of submissions on costs.
+C. Request to Reconsider
+[20] As set out above, Ms. Pastuch focused much of her submissions on re‑arguing the motion. She asked that I reconsider my decision on her motion. If Ms. Pastuch dislikes my decision, her recourse was to appeal it to the Federal Court of Appeal. I will not be reconsidering it.
+Signed at Ottawa, Canada, this 28th day of June 2022.
+“David E. Graham”
+Graham J.
+CITATION:
+2022 TCC 72
+COURT FILE NO.:
+2013-2646(IT)G
+STYLE OF CAUSE:
+ALENA PASTUCH v. FINANCIAL AND CONSUMER AFFAIRS AUTHORITY OF SASKATCHEWAN AND HER MAJESTY THE QUEEN
+DATE OF HEARING:
+Motion determined by written submissions
+REASONS FOR ORDER BY:
+The Honourable Justice David E. Graham
+DATE OF ORDER:
+June 28, 2022
+PARTICIPANTS:
+For the Appellant (Applicant):
+The Appellant (Applicant) herself
+Counsel for the (Respondent), Financial and Consumer Affairs Authority of Saskatchewan:
+Lauren J. Wihak
+Counsel for the Respondent, Her Majesty the Queen:
+Anne Jinnouchi
+COUNSEL OF RECORD:
+For the Appellant (Applicant):
+Name:
+BLANK
+Firm:
+BLANK
+For the (Respondent), Financial and Consumer Affairs Authority of Saskatchewan:
+Lauren J. Wihak
+McDougall Gauley LLP
+Regina, Saskatchewan
+For the Respondent, Her Majesty the Queen:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2022 TCC 36.

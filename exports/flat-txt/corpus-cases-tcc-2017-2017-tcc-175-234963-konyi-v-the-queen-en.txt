@@ -1,0 +1,246 @@
+Title: Konyi v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/234963/index.do
+Corpus path: corpus/cases/tcc/2017/2017-tcc-175-234963-konyi-v-the-queen-en.md
+Document type: case_law
+Last modified: 2017-09-08
+
+# Konyi v. The Queen
+
+- Citation: 2017 TCC 175
+- Decision date: 2017-09-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2198, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Konyi v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-09-08
+Neutral citation
+2017 TCC 175
+File numbers
+2012-3796(IT)G
+Judges and Taxing Officers
+Sylvain Ouimet
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-3796(IT)G
+BETWEEN:
+Faye Marie Konyi,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on March 15 and 16, 2017, at Vancouver, British Columbia.
+Before: The Honourable Justice Sylvain Ouimet
+Appearances:
+Counsel for the Appellant:
+John Drove
+Counsel for the Respondent:
+Laura Zumpano
+JUDGMENT
+The appeal from the assessment made under subsection 160(1) of the Income Tax Act, notice of which bears number 1456652, is allowed, with costs.
+Signed at Ottawa, Canada, this 8th day of September 2017.
+“Sylvain Ouimet”
+Ouimet J.
+Citation: 2017 TCC 175
+Date: 20170908
+Docket: 2012-3796(IT)G
+BETWEEN:
+Faye Marie Konyi,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Ouimet J.
+I. Introduction
+[1] This is an appeal from an assessment made by the Minister of National Revenue (the “Minister”) under section 160 of the Income Tax Act (the “ITA”). This assessment relates to a transfer of property between Mr. Theodore H. Konyi (“Mr. Konyi”) and Ms. Faye Marie Konyi (“Ms. Konyi”) that happened on October 31, 2006. The Minister found that Ms. Konyi and Mr. Konyi were jointly and severally liable for the payment of $405,778 on account of Mr. Konyi’s tax liability for the 1993 taxation year. The amount of $405,778 represents the fair market value of the property transferred to Ms. Konyi by Mr. Konyi.
+[2] Testifying for the Appellant, Ms. Konyi, at trial were Ms. Konyi herself and Mr. Konyi. The Respondent called no witnesses.
+II. Issue
+[3] The issue in this appeal is the following:
+Is Ms. Konyi jointly and severally liable with Mr. Konyi for the payment of $405,778 with respect to Mr. Konyi’s tax liability for his 1993 taxation year?
+[4] In answering this question, I will conduct an analysis to determine whether Ms. Konyi and Mr. Konyi entered into an agreement pursuant to which a fair market value consideration of $405,778 was given to Mr. Konyi for the property transferred on October 31, 2006. [1]
+III. Relevant Legislative Provision
+[5] The relevant provision of the ITA is as follows:
+160 (1) Tax liability re property transferred not at arm’s length — Where a person has, on or after May 1, 1951, transferred property, either directly or indirectly, by means of a trust or by any other means whatever, to
+(a) the person’s spouse or common-law partner or a person who has since become the person’s spouse or common- law partner,
+. . .
+(e) the transferee and transferor are jointly and severally, or solidarily, liable to pay under this Act an amount equal to the lesser of
+(i) the amount, if any, by which the fair market value of the property at the time it was transferred exceeds the fair market value at that time of the consideration given for the property, and
+(ii) the total of all amounts each of which is an amount that the transferor is liable to pay under this Act (including, for greater certainty, an amount that the transferor is liable to pay under this section, regardless of whether the Minister has made an assessment under subsection (2) for that amount) in or in respect of the taxation year in which the property was transferred or any preceding taxation year,
+. . .
+IV. Relevant Contextual Facts
+[6] Before October 31, 2006, Ms. Konyi and her spouse, Mr. Konyi, each owned 50 percent of a property located in Delta, British Columbia (the “Property”). On October 31, 2006, Mr. Konyi transferred his one-half interest in the Property (the “Transferred Property”) to Ms. Konyi for a fair market consideration of $402 000.
+[7] According to Ms. Konyi and Mr. Konyi, the registration of the Property in joint title on its acquisition in 1994 was an oversight on their part as they had initially intended the Property to be in Ms. Konyi’s name. Since the acquisition of the Property, a friend of Mr. Konyi who was an accountant had repeatedly urged them to transfer Mr. Konyi’s half-interest in the Property to Ms. Konyi in order to protect it from Mr. Konyi’s creditors. Ms. Konyi and Mr. Konyi stated at trial that it was an issue they had needed to address for a long time but that they procrastinated in doing so. In addition, Mr. Konyi’s friend had always specified that in order for the transfer to achieve its purpose, which was to protect the Property from Mr. Konyi’s creditors, it had to be done for a fair market value consideration. Ms. Konyi and Mr. Konyi both said that they had discussed the possibility of entering into an arrangement many times over the years and that they both knew that the transfer had to involve consideration in order to achieve its purpose.
+[8] In late 2005 or early 2006, Ms. Konyi and Mr. Konyi decided to undertake the transfer. At that time, Mr. Konyi considered that Ms. Konyi’s dividend income from the family trust and her investments would be such during the course of 2006 that Ms. Konyi could pay the fair market value consideration. At that time, Ms. Konyi was earning income through dividends from a family trust and other investments. The family trust’s source of income was Maxwell Mercantile. Mr. Konyi was the CEO of Maxwell Mercantile. Ms. Konyi and Mr. Konyi testified that, when they agreed to do the transfer, they entered into a verbal agreement pursuant to which the consideration to be given to Mr. Konyi would reflect the fair market value of the Transferred Property, which they knew was around $400,000. However, they did not know the exact amount at that time. They also agreed that the payment of the consideration should be completed by the end of 2006.
+[9] An appraisal by a bank dated October 5, 2006 showed the fair market value of the Transferred Property to be $750,000. At the time of the transfer, there was an outstanding mortgage on the Transferred Property of $345,000. Therefore, the net fair market value of the Transferred Property, according to the parties, was $402,000. [2]
+[10] Pursuant to the verbal agreement, between April 19 and May 31 2006 a number of payments were made before the transfer took place. The evidence adduced at trial established that the consideration given by Ms. Konyi to Mr. Konyi was paid in various instalments, as follows:
+Date (2006)
+Payer’s Account
+Payee’s Account
+Amount
+April 19
+Bank of Montreal
+(personal account)
+Royal Bank
+(joint account)
+$50,000
+May 2
+Bank of Montreal
+(personal account)
+Royal Bank
+(joint account) [3]
+$30,000
+May 5
+Bank of Montreal
+(personal account)
+Royal Bank
+(joint account) [4]
+$20,000
+May 16
+Bank of Montreal
+(personal account)
+Royal Bank
+(joint account)
+$18,000
+May 29
+Bank of Montreal
+(personal account)
+Royal Bank
+(joint account) [5]
+$60,000
+May 31
+Bank of Montreal
+(personal account)
+Royal Bank
+(joint account)
+$20,000
+December 6
+Envision Credit Union
+(personal line of credit) [6]
+Envision Credit Union
+(personal account)
+$100,000
+December 15
+Envision Credit Union
+(personal line of credit) [7]
+Envision Credit Union
+(personal account)
+$102,000
+$400,000
+[11] On October 31, 2006, in accordance with what they had previously agreed upon, Mr. Konyi transferred his half-interest in the Property to Ms. Konyi. The conveyancing documents registered in the land titles office indicate that the consideration for the transfer was $1. According to Ms. Konyi and Mr. Konyi, the lawyer handling the conveyance advised them to set the consideration for the Transferred Property at $1 in order to avoid the property transfer tax. The same lawyer was also representing the bank with respect to the transfer and therefore the bank had the same information as he did. Ms. Konyi and Mr. Konyi never informed the lawyer or the bank about the oral agreement between them or about the promissory note. They indicated at the hearing that they simply did not think it was worth mentioning.
+V. Positions of the Parties
+A. Ms. Konyi’s Position
+[12] Ms. Konyi submitted that she save Mr. Konyi fair market value consideration in exchange for the Transferred Property. Ms. Konyi testified that she entered into a verbal agreement with Mr. Konyi pursuant to which he made the transfer in exchange for a consideration representing the fair market value of the Transferred Property, that is, $402,000. That consideration was to be paid before the end of 2006.
+[13] Ms. Konyi alleged that, in addition to this agreement, there was a promissory note that was issued to Mr. Konyi in 2006. This promissory note stated that she owed Mr. Konyi $402,000 as consideration for the Transferred Property. The payment of $400,000, and not $402,000, was made in various instalments from April to December 2006.
+B. Respondent’s Position
+[14] The Respondent argued that, in the present case, the focus under subparagraph 160(1)(e)(i) is the time of the transfer and the consideration given by Ms. Konyi to Mr. Konyi on October 31, 2006. The Respondent argued that the consideration given by Ms. Konyi on that day was $1, the same amount as that shown in the land transfer documentation.
+[15] According to the Respondent, Ms. Konyi did not enter into any agreement with Mr. Konyi and no promissory note was issued on the date of the transfer.
+[16] In addition, the Respondent puts in issue whether there was any valid payment made by Ms. Konyi to Mr. Konyi relating to the Transferred Property.
+VI. Analysis
+[17] In Livingston, [8] the Federal Court of Appeal (the “FCA”) stated that four conditions must be met in order for section 160 of the ITA to be applicable. These conditions are as follows:
+(i) There must be a transfer of property.
+(ii) The parties must not be dealing at arm’s length.
+(iii) The transferor must be liable to pay tax under the ITA at the time of the transfer.
+(iv) The fair market value of the property transferred must exceed the fair market value of the consideration given by the transferee.
+[18] In this appeal, only the fourth condition is in dispute. As the fair market value of the Property was agreed upon by the parties, only the fair market value of the consideration given in exchange for the Transferred Property is at issue in this appeal.
+[19] In Logiudice v. The Queen, [9] this Court stated that, in order for section 160 of the ITA not to apply, the transferee must prove that the transfer was made pursuant to the terms of a genuine contractual arrangement. [10] In The Law of Contract in Canada, [11] G.H.L. Fridman explains that a contract can only arise if the parties intended to enter into a legal relation. Therefore, the parties must establish that they entered into an agreement:
+Agreement is at the basis of any legally enforceable contract. There must be a consensus ad idem. Without a meeting of the minds of the parties there can be no contrat.
+. . .
+Constantly reiterated in the judgments is the idea that the test of agreement for legal purposes is whether parties have indicated to the outside world, in the form of the objective reasonable bystander, their intention to contract and the terms of such contract.
+. . .
+Sometimes it is a simple matter to decide what the parties have manifested to each other, and consequently, whether they have agreed, and if so, upon what. [12]
+[20] In order for it to be possible to conclude that there was an agreement between Ms. Konyi and Mr. Konyi, the evidence had to show that they entered into an agreement that contained all the essential terms relating to the transfer of the Transferred Property, including the consideration to be paid and the terms of payment. The consideration did not necessarily have to be given at the time of the transfer; it could have been given at a future date. [13] This timing principle is consistent with the law of contracts in Canada, under which the consideration provided at the time the agreement is entered into or the promise given at that time to provide such consideration in the future constitutes genuine consideration:
+The point at issue here is that, if there is to be a valid, enforceable contract, the promises, or the promise and the act, must have been exchanged in return for each other. If something is done first and then there is a promise relating to such act or performance, the two are not tied together by the notion of agreement. One thing has not necessarily been done in consideration of the other. In consequence, anything promised as a result of the past performance of the act in question is simply promised gratuitously not in a binding contractual way. There is no mutuality between the act of performance and the subsequent promise from the recipient of the benefit of the act of performance. The detriment suffered by the performer of the act was not suffered in return for anything, or the promise of anything, from the other party. There may have been a hope of something; even, possibly, the expectation of something. But there was no promise of anything. . . . [14]
+[21] Pursuant to these principles, Ms. Konyi had to prove on the balance of probability that she entered into an agreement with Mr. Konyi under which she was required to pay a fair market value consideration for the Transferred Property either at the time of the transfer or at a future date.
+[22] Relying on what I believe to have been credible testimony by Mr. Konyi and Ms. Konyi, I find on the balance of probability that, at the time of the transfer, an agreement existed. Mr. Konyi and Ms. Konyi had agreed to transfer the Transferred Property in exchange for fair market value consideration to be paid before the end of 2006. Accordingly, they reached an agreement when they formed a mutual intention to enter into the agreement with each other, which agreement included all essential terms. [15]
+[23] The Respondent argued that no agreement was reached as Mr. Konyi and Ms. Konyi did not agree on all essential terms of their agreement. Specifically, there was no agreement with respect to terms of payment and the amount of the consideration.
+[24] With respect to terms of payment, the Respondent relies on the Madsen [16] decision, in which this Court concluded that the terms relating to payment were too vague and uncertain to be accepted as consideration within the meaning of subsection 160(1):
+28 I have carefully reviewed the evidence of the Appellant regarding the transfer by her husband of a one-half interest in the Lazy A Property in 1989 and I have concluded that the suggestion that she would pay her husband the fair market value of the Lazy A Property “when she had funds” was nothing more than a vague and uncertain promise with no specific terms. There was nothing in writing to confirm this arrangement and the document that was used to transfer the Property was not prepared by a lawyer. Furthermore, there was no evidence presented to the Court to confirm the Appellant's self-serving testimony. In my opinion the “vague promise” that the Appellant would pay her husband fair market value cannot be accepted as consideration sufficient to prevent the application of section 160.
+[25] The facts in the present appeal can be distinguished from those in Madsen. In Madsen, the taxpayer and her spouse vaguely agreed that consideration would be given when the taxpayer had the funds. In the present case, the terms of the agreement relating to payment are clear: the consideration was to be paid before the end of 2006.
+[26] As for the amount of the consideration, the Respondent argued that it was undetermined at the time that the verbal agreement was entered into as there was a lack of certainty as to what the amount was. I do not accept the Respondent’s contention. The agreement fixed the consideration at the “fair market value” of the Transferred Property, which I believe is a valid term of the agreement, as was determined in Barnabe Estate: [17]
+In my view, by fixing the consideration at “fair market value”, the price term was sufficiently clear to be accepted as a valid term of the contract. It is settled law that it is possible to have a binding agreement of purchase and sale where the price is set at the fair market value. The price need not be actually identified in a specific amount. In this connection, I refer to the remarks made by Major J., when rendering the unanimous judgment of the Supreme Court in Mitsui & Co. (Canada) Ltd. v. Royal Bank of Canada:
+The parties had previously agreed that the option exercise price was to be the “reasonable fair market value” of the helicopters. That price is not uncertain. It is not subject to further negotiation; it is not an “agreement to agree”. The price has been set to be the reasonable fair market value. As noted by the British Columbia Court of Appeal in Re Nishi, an option to purchase at “fair market value” is enforceable. This is not a situation where the price or some other material term of the option has yet to be agreed upon. The law recognizes that agreements to purchase property in the future at a “reasonable price” or at “fair market value” are valid and enforceable.
+[27] I also believe that Mr. Konyi’s accountant advised him to undertake the transfer of property for fair market value consideration and that Mr. Konyi and Ms. Konyi followed the advice that was given to them. Even though contemporaneous documentation indicates that the consideration provided was in the amount of $1, the evidence shows that this was not an accurate reflection of what was agreed to by the parties.
+[28] According to the evidence, payments were made by Ms. Konyi to Mr. Konyi. This supports the existence of an agreement between them. With respect to those payments by Ms. Konyi to Mr. Konyi, the Respondent emphasized the fact that most of the payments were deposited to their joint bank account. As for the use of a joint account into which to deposit the payments, the case law is clear in establishing that the existence of a joint bank account does not imply that the money in that account belongs to both holders of the account. Thus, in Obadia, [18] this Court stated the following:
+27 To begin with, it has been clearly established by the courts that the existence of a joint account does not make the co-signatories of the account joint owners of the money shown in the account. One should look instead at the original agreement made when the account was opened.
+28 The following comments by Phelan J. of the Quebec Superior Court in Desrosiers c. Laroche (Succession de) are quite clear on this point:
+A review of the authorities relating to the nature of joint bank accounts indicates that the existence of such an account is not, in itself, indicative that each co-depositor has a proprietary interest in the funds of the account. As noted by Perrault:
+[TRANSLATION]
+To determine the mutual rights of depositors reference must be made to the original agreement, the agreement concluded when the joint account was opened. Did they intend to make the sum of money so deposited their joint property? Did one of them intend to make the other depositor his agent or mandatary, whether for consideration or gratuitously? Did he or she intend a gift? In each case it is necessary to look at the intent of the parties and apply the general rules of the civil law on mandate, gift or a stipulation for a third party.
+And Falconbridge:
+The instructions given to the bank, however, are of course not conclusive of the actual title to the debt represented by the account.
+The presumption may be rebutted and the real ownership of the debt must be determined upon all the facts.
+It may turn out that the debt really belongs to the estate of the deceased depositor.
+. . .
+However in each jurisdiction it appears accepted that the proprietorship of the funds in a joint account must be determined upon the facts in each case and the intention of the parties in entering into the arrangement.
+29 It follows from the foregoing that in the instant case the money deposited in the joint account from the appellant's personal account is the appellant's property, as no agreement was entered in evidence establishing any special arrangement between the appellant and Mr. Obadia as to the ownership of this money when the joint account was opened and subsequently.
+[My emphasis.]
+[29] Before Ms. Konyi and Mr. Konyi entered into the verbal agreement, they had only joint bank accounts. When they entered into the verbal agreement, they decided that Ms. Konyi should open her own bank account at the Bank of Montreal, which she did on April 7, 2006. By doing so, she would be able to write cheques for amounts coming directly from her own income in order to pay Mr. Konyi pursuant to their agreement. The evidence is that every payment made by Ms. Konyi was made from her personal bank accounts. As for Mr. Konyi, prior to December 6, 2006, he did not have a personal bank account. Ms. Konyi and Mr. Konyi had been using a Royal Bank joint account. This bank account was primarily used for household expenses but was also used to support the different businesses that Mr. Konyi was involved in and to pay any obligations he might have. Therefore, every payment received by Mr. Konyi prior to December 2006 was deposited in this joint account. On December 6, 2006, Mr. Konyi opened a personal bank account at the Envision Credit Union. The payments he received as of December 2006 were deposited in this account.
+[30] The Respondent also submitted that only the $100,000 cheque dated December 6, 2006 had on it a notation that the payment was made in relation to the Transferred Property. Accordingly, the Respondent puts in issue the purpose of the other payments because the cheques did not have the same notation.
+[31] Mr. Konyi could not recall why, specifically, he put a notation on this particular cheque and not on other cheques issued for the same “partial house payment” purpose, but he explained that sometimes he thought of putting a notation on cheques and sometimes he did not. However, I do not make much of this as there is no requirement to put a notation on cheques. The fact that there was a “partial house payment” notation on one cheque and not on the others does not convince me that the other payments made by cheque were for some other purpose.
+[32] As for the purpose of these payments, Ms. Konyi and Mr. Konyi testified that all of them related specifically to the transfer of the Transferred Property and were issued pursuant to their agreement. In fact, according to Ms. Konyi, the only reason she would have written a personal cheque to Mr. Konyi would have been for the specific purpose of paying the consideration for the Transferred Property. Otherwise, Ms. Konyi testified, she would have transferred the funds directly from one account to the other without issuing a cheque to Mr. Konyi. The cheques were their method of recording the transaction and keeping track of the payments: the cheques made out in Mr. Konyi’s name were specifically for this transaction.
+[33] I found Ms. Konyi and Mr. Konyi to be credible witnesses and the evidence has convinced me that the payments at issue were made by Ms. Konyi to Mr. Konyi in accordance with their verbal agreement regarding the Transferred Property.
+[34] However, the total amount of money transferred by Ms. Konyi to Mr. Konyi was $400,000. Ms. Konyi admitted that there is a $2,000 discrepancy between the total amount paid to Mr. Konyi and the consideration agreed upon. She testified that she believed this discrepancy was based on a miscalculation. At trial, Mr. Konyi indicated that the amount of $402,000 had been paid to him by Ms. Konyi (he could not explain the $2,000 difference). The Respondent tried to undermine Ms. Konyi’s and Mr. Konyi’s credibility with this circumstantial evidence. I believe that it was an honest mistake on their part and it has not caused me to change my opinion with respect to their testimony; they were credible witnesses.
+[35] The Respondent also tried to question the credibility Ms. Konyi’s testimony by saying that she had had sufficient funds in the years prior to 2006, when they entered into the verbal agreement, to pay for the transfer, thereby implying that this was in contradiction to her previous statement that they had decided to go ahead with the transfer in 2006 because she would have sufficient funds at that time. The Respondent argued that if Ms. Konyi’s real intention had been to carry out the transfer in exchange for fair market value consideration, she could have done it long before she actually did so. Ms. Konyi testified that she required funds for other purposes such as to pay for stock purchases and other investments and to pay household expenses. I fail to see any contradiction in Ms. Konyi’s testimony on this point.
+[36] Finally, with respect to the promissory note that was lost and that Ms. Konyi and Mr. Konyi allegedly drafted and signed on the date of the transfer, the Respondent pointed out that it was curious that some of the documentation relating to the transfer was not lost, but that the promissory note was. The Respondent also pointed out that the promissory note drafted by the Konyis in 2012 to replace the first one once they realized it had gone missing makes no mention of any prior payments made, though the evidence suggests that a number of payments were in fact made before October 31, 2006. Moreover, the promissory note did not specify on what dates or in what form the payments were to be made, but it did indicate that the consideration was $402,000. While making a replica of the original promissory note might not have been the appropriate thing to do, I believe it was done simply because the original had been lost and not with the intent of misleading anyone. In any event, as I have concluded that there was an agreement between Ms. Konyi and Mr. Konyi, the existence or non-existence of a promissory note is not relevant, except as regards its use by the Respondent to undermine Ms. Konyi’s credibility, which it failed to do.
+VII. Conclusion
+[37] I have come to the conclusion that, on the balance of probability, an agreement existed between Ms. Konyi and Mr. Konyi in respect of the Transferred Property. Under the terms of the agreement, Mr. Konyi was to transfer his half‑interest in the Property in exchange for fair market value consideration before the end of 2006. I find that, pursuant to the terms of the agreement, fair market consideration was given to Mr. Konyi at the time of the transfer. Therefore, Ms. Konyi is not jointly and severally liable with Mr. Konyi under section 160 of the ITA for Mr. Konyi’s 1993 taxation year tax liability.
+[38] The appeal is allowed, with costs.
+Signed at Ottawa, Canada, this 8th day of September 2017.
+“Sylvain Ouimet”
+Ouimet J.
+CITATION:
+2017 TCC 175
+COURT FILE NO.:
+2012-3796(IT)G
+STYLE OF CAUSE:
+Faye Marie Konyi v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+March 15 and 16, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Sylvain Ouimet
+DATE OF JUDGMENT:
+September 8, 2017
+APPEARANCES:
+Counsel for the Appellant:
+John Drove
+Counsel for the Respondent:
+Laura Zumpano
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+John Drove
+Firm:
+John Drove Law Corporation
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] According to the pleadings in this appeal, at the time the transfer occurred the fair market value of the Property was $1,500,000 and the net equity in the Property was $811,558.20. As a result, for the purposes of subsection 160(1) of the ITA, the fair market value of the Transferred Property on October 31, 2006 was $405,779.10. However, at the hearing, the parties seemed to agree that the net equity in the Transferred Property was $402,000, as the fair market value of Mr. Konyi’s half interest in the Property was $750,000 and there was an outstanding mortgage on it of $345,000. The parties failed to explain to me the obvious discrepancy in the fair market value. Evidence of the bank’s appraisal as at October 5, 2006 was introduced at trial. This appraisal establishes the fair market value of the Property at $1,500,000. However, I have no supporting documentation regarding the outstanding mortgage at the time of the transfer. Whether the fair market value of the Transferred Property is $405,779.10 or $402,000 is of little relevance to this appeal because Ms. Konyi’s tax liability is in any case limited to a lesser amount. At the time of the transfer, Mr. Konyi was liable under the ITA for tax in respect of his 1993 taxation year. At trial, the parties agreed that Mr. Konyi’s tax liability for the 1993 taxation year was $162,757.19. Therefore, pursuant to subparagraph 160(1)(e)(ii) of the ITA, Ms. Konyi’s liability is limited to that amount.
+[2] See footnote 1
+[3] The testimonial and documentary evidence did not specifically confirm that the payment was deposited in this bank account; however, the evidence shows that the spouse had no personal bank account that the time, and it is most probable that this is where it was deposited.
+[4] Idem.
+[5] Idem.
+[6] Even though at that time it was Ms. Konyi’s personal line of credit, her spouse, as guarantor of that line of credit, remained personally liable for any outstanding amounts. The cheques drawn on from the Envision line of credit bore the names of both of them, even though the line of credit was a personal one. Ms. Konyi still had cheques from before the change from a joint account occurred and she used them to make the payments in December 2006. However, this does not alter the fact that the money came from the Appellant’s personal line of credit.
+[7] Idem.
+[8] The Queen v. Livingston, 2008 FCA 89 [Livingston].
+[9] Logiudice v. The Queen, 97 DTC 1462 (Tax Court of Canada).
+[10] Ibid., at p. 1466.
+[11] G.H.L. Fridman, The Law of Contract in Canada, 6th ed. (Toronto: Carswell, 2011).
+[12] Ibid., at pp. 13-15.
+[13] Allen v. The Queen, 2009 TCC 426, at paras 34 and 35.
+[14] Fridman, supra note 9, at p. 108.
+[15] See John D. McCamus, The Law of Contracts, 2nd ed. (Toronto: Irwin Law, 2012) at p. 31.
+[16] Madsen v. The Queen, 2005 TCC, 110, 2005 CarswellNat 589.
+[17] Barnabe Estate v. Canada, [1999] 4 F.C. 541, at para. 50; 1999 CarswellNat 1101, [1999] 4 C.T.C. 5, at para. 28.
+[18] Obadia v. R., [1998] 4 C.T.C. 2504, 98 DTC 1578 (Fr.).

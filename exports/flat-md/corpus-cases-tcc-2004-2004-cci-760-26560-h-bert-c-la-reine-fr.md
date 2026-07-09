@@ -1,0 +1,614 @@
+---
+title: "Hébert c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26560/index.do"
+last_modified: "2004-12-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 760"
+citation2: ""
+neutral_citation: "2004 CCI 760"
+decision_date: "2004-12-13"
+language: "fr"
+item_id: "26560"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3568
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:45:12.226000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2f5cadd67222315508198e663ad5cac26904912bbadc860ba6dc4f36d95630d0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hébert c. La Reine
+
+- Citation: 2004 CCI 760
+- Decision date: 2004-12-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3568, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hébert c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-12-13
+Référence neutre
+2004 CCI 760
+Numéro de dossier
+2001-2721(IT)G
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2001-2721(IT)G
+ENTRE :
+MICHEL HÉBERT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus avec les appels de 91633 Canada Ltée (2001-2720(IT)G)
+le 12 mai 2004 à Montréal (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Avocat de l'appelant :
+Me Serge Fournier
+Avocate de l'intimée :
+Me Nathalie Lessard
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1992, 1993, 1994, 1995 et 1996 sont rejetés, avec dépens, selon les motifs du jugement ci-joints.
+L'intimée a droit à la taxation d'un seul mémoire de frais.
+Signé à Québec (Québec), ce 13e jour de décembre 2004.
+« Paul Bédard »
+Juge Bédard
+Référence : 2004CCI760
+Date : 20041213
+Dossier : 2001-2721(IT)G
+ENTRE :
+MICHEL HÉBERT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+ET ENTRE
+Dossier : 2001-2720(IT)G
+91633 CANADA LTÉE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Il s'agit d'appels entendus conjointement en vertu de la procédure générale. Les années en litige sont les années d'imposition 1992 à 1996. La Société 91633 Canada Ltée (l' « appelante » ) exploitait des salles de jeux pendant les années en cause dans les villes de Laval, Sainte-Thérèse et Châteauguay. Monsieur Michel Hébert (l' « appelant » ) détenait directement ou indirectement la totalité des actions de l'appelante pendant ces années. Le litige portait principalement sur les dépenses liées à l'utilisation par l'appelant de véhicules de loisir de grande valeur et à caractère sportif que l'appelante possédait ou louait pendant les années en cause. Le ministre du Revenu national (le « ministre » ) a refusé à l'appelante toutes les dépenses réclamées dans le calcul de son revenu d'entreprise pour les années en cause à l'égard de ces véhicules de loisir pour les motifs suivants : ces dépenses n'avaient aucun lien avec l'entreprise, elles n'avaient pas été engagées dans le but de tirer un revenu de l'entreprise et elles constituaient en quelque sorte des dépenses de nature personnelle de l'appelant que l'appelante avait assumées. Par contre, les appelants ont soutenu essentiellement qu'en apposant la raison sociale ou la marque de commerce de l'appelante sur ces véhicules de loisir et en participant à divers salons, expositions et évènements à caractère sportif avec ces véhicules, ils voulaient atteindre les adeptes de ces activités et ainsi augmenter les revenus de l'appelante.
+[2] Par des nouvelles cotisations, le ministre a ajouté les montants de 36 280 $, 52 743 $, 109 213 $, 141 196 $ et 86 011 $ aux revenus de l'appelante pour ses années d'imposition 1992, 1993, 1994, 1995 et 1996 respectivement. Le sommaire des redressements causés par ces nouvelles cotisations se retrouve à l'annexe A ci-jointe. Par ces nouvelles cotisations, le ministre a imposé à l'appelante, en vertu du paragraphe 163(2) de la Loi de l'impôt sur le revenu (la « Loi » ), des pénalités de 6 339 $, 3 176 $ et 1 082 $ pour les années d'imposition se terminant les 31 octobre 1994, 1995 et 1996 respectivement.
+[3] Par des nouvelles cotisations, le ministre a ajouté les montants de 36 280 $, 58 057 $, 102 728 $, 107 532 $ et 83 466 $ aux revenus de l'appelant pour ses années d'imposition 1992, 1993, 1994, 1995 et 1996 respectivement. Le sommaire des redressements causés par ces nouvelles cotisations se retrouve à l'annexe B ci-jointe. Par ces nouvelles cotisations, le ministre a imposé à l'appelant, en vertu du paragraphe 163(2) de la Loi, des pénalités de 102 $, 1 099 $, 2 837 $ et 867 $ pour ses années d'imposition 1993 à 1996 respectivement.
+[4] L'appelante conteste le refus du ministre de lui accorder la déduction, dans le calcul du revenu tiré de son entreprise, des dépenses suivantes :
+1992
+1993
+1994
+1995
+1996
+Expositions et location
+36 280 $
+40 053 $
+37 560 $
+48 461 $
+26 212 $
+Amortissement de véhicules
+3 746 $
+11 362 $
+15 198 $
+20 032 $
+Assurances et alarmes
+424 $
+4 790 $
+2 521 $
+2 181 $
+Frais de déplacement
+8 520 $
+34 069 $
+7 040 $
+773 $
+Publicité
+2 530 $
+900 $
+2 967 $
+Frais d'intérêts
+1 676 $
+3 100 $
+4 433 $
+Main-d'oeuvre
+5 439 $
+Entretien et réparation d'équipement
+21 644 $
+Voyage
+11 337 $
+[5] L'appelant conteste l'ajout à son revenu des sommes suivantes que l'appelante avait réclamées à titre de dépenses :
+1992
+1993
+1994
+1995
+1996
+Expositions et location
+36 280 $
+40 053 $
+37 560 $
+48 461 $
+26 212 $
+Publicité
+2 529 $
+900 $
+2 967 $
+Amortissement de véhicules
+3 746 $
+11 362 $
+15 198 $
+20 032 $
+Assurances et alarmes
+424 $
+4 790 $
+2 521 $
+2 181 $
+Frais de déplacement
+8 520 $
+34 069 $
+773 $
+Frais d'intérêts
+1 676 $
+3 100 $
+4 433 $
+Entretien et réparation d'équipement
+1 644 $
+20 000 $
+Main-d'oeuvre
+5 439 $
+Voyage
+2 130 $
+9 207 $
+[6] L'appelante conteste la pénalité imposée par le ministre en vertu du paragraphe 163(2) de la Loi à l'égard des revenus non déclarés de 13 500 $ pour son année d'imposition 1995 et à l'égard des frais de voyage de 11 337 $ refusés par le ministre pour la même année. L'appelant conteste la pénalité imposée par le ministre en vertu du paragraphe 163(2) de la Loi à l'égard des frais de voyage de 11 337 $ refusés à l'appelante par le ministre pour l'année d'imposition 1995 et ajoutés au revenu de l'appelant pour les années d'imposition 1994 (2 130 $) et 1995 (9 207 $).
+[7] Les questions en litige sont donc les suivantes :
+i) Les dépenses réclamées par l'appelante ont-elle été engagées dans le but de tirer un revenu d'entreprise? Est-ce que ces dépenses constituaient des dépenses de nature personnelle de l'appelant?
+ii) Si les dépenses réclamées par l'appelante ont été engagées en vue de tirer un revenu d'entreprise, étaient-elles raisonnables?
+iii) L'intimée était-elle justifiée d'appliquer la pénalité prévue au paragraphe 163(2) de la Loi à l'égard des montants mentionnés au paragraphe précédent?
+iv) Est-ce que l'intimée était justifiée d'émettre à l'endroit de l'appelante des avis de nouvelle cotisation pour les années d'imposition se terminant le 31 octobre 1992 et le 31 octobre 1993 après la période normale de nouvelle cotisation applicable à ces années?
+v) Est-ce que l'intimée était justifiée d'émettre à l'endroit de l'appelant des avis de nouvelle cotisation pour les années d'imposition 1992 et 1993 après l'expiration de la période normale de nouvelle cotisation applicable à ces années?
+La preuve des appelants
+[8] La preuve des appelants reposait essentiellement sur le témoignage de l'appelant. De plus, à l'appui de leurs assertions, les appelants ont déposé en preuve les pièces suivantes : des photos de plusieurs véhicules de l'appelante et de l'appelant (pièces A-1 à A-5, A-7 et A-12), une photocopie d'un chèque fait à l'ordre de Richard Lacroix et tiré sur le compte bancaire de l'appelante ainsi qu'une photocopie d'un reçu pour le même montant (pièce A-6) et deux rapports d'expertise portant sur l'efficacité des moyens publicitaires employés par l'appelante (pièce A-9 et A-11). Monsieur Michel Davignon et monsieur Laurent Genest ont aussi témoigné à titre d'experts pour les appelants.
+[9] L'appelant était le président de l'appelante. L'appelante exploitait des salles de jeux mieux connues sous le nom « Amusement 222 » . L'appelant a affirmé que toutes les salles de jeux de l'appelante possédaient des jeux vidéo et des tables de billard et que certaines étaient dotées d'un bar. Il a expliqué que quelques-uns des jeux vidéo importés des États-Unis et du Japon étaient très sophistiqués et pouvaient coûter jusqu'à 90 000 $ chacun. La première salle de jeux exploitée par l'appelante avait ouvert ses portes en mai 1977. Cette salle était située au 222, boulevard Lévesque, à Laval, d'où l'appellation « Amusement 222 » .
+[10] L'appelant a aussi expliqué que la clientèle ciblée par l'appelante était la famille, puisque seulement 50 % de ses clients étaient âgés de moins de 25 ans. Son objectif était d'inciter les clients du parc d'attractions « La Ronde » à fréquenter les salles de jeux de l'appelante pendant les périodes où « La Ronde » était fermée. Selon l'appelant, l'appelante cherchait donc à inciter les gens de toutes les régions du Québec à fréquenter ses salles de jeux.
+[11] Dans le but d'atteindre les amateurs de véhicules de loisir, l'appelante avait fait l'acquisition de plusieurs de ces véhicules. L'appelant participait aux diverses expositions et activités organisées pour les amateurs de ces véhicules afin d'y distribuer des brochures et des coupons-rabais. Pendant les années en cause, l'appelante louait de l'appelant un bateau de course de marque Fountain (le « bateau » ) et possédait deux voitures de marque Dodge Viper (les « Viper » ), deux motomarines, deux motoneiges, une motocyclette de marque Harley-Davidson (la « Harley-Davidson » ), une voiture d'auto-cross et une voiture de modèle Formule 1600 Ford (la « Formule 1600 » ). L'appelante possédait également une voiture de marque Mercedes (la « Mercedes » ) et un véhicule utilitaire sport de marque Jeep Cherokee (la « Jeep » ).
+[12] L'appelant avait acheté le bateau en-bord de course en 1989 pour la somme de 200 000 $ et l'avait loué à l'appelante pendant les années en cause. Le bateau portait le nom « Amusement 222 » depuis 1989. Selon l'appelant, le bateau n'avait été utilisé que pendant 450 heures. L'appelant a témoigné qu'il n'avait jamais utilisé le bateau à des fins personnelles.
+[13] Sauf lorsqu'il était utilisé pour participer à des courses de bateaux mieux connues sous le nom « Poker Run » , le bateau était installé sur une remorque à la salle de jeux de Laval. L'appelant entreposait le bateau à compter du mois d'octobre. Durant les années en cause, le bateau aurait été vu à plusieurs endroits au Québec, dont Saint-Hyacinthe, Ville Lasalle, Mille-Îles, Québec et Trois-Rivières, en raison des activités auxquelles participait l'appelant. Dans son témoignage, l'appelant a affirmé qu'il utilisait aussi le bateau pour participer à deux courses par année, soit une à Montréal et une aux Mille-Îles[1]. Le bateau était également mis à l'eau pour des occasions spéciales telle la journée nautique organisée par les policiers de la région.
+[14] L'appelant a affirmé que l'appelante avait toujours les plus beaux véhicules de loisir et les plus gros kiosques lors des foires et des salons commerciaux. Selon l'appelant, sa participation à ces courses et expositions suscitait de l'intérêt, puisque les spectateurs s'interrogeaient sur la signification de l'inscription « Amusement 222 » qui apparaissait sur le bateau. En répondant à leurs questions, l'appelant pouvait ainsi renseigner les spectateurs sur les salles de jeux de l'appelante.
+[15] De 1989 à 2002, l'appelant possédait son propre bateau de loisir. Il a donc soutenu qu'il n'utilisait pas le bateau loué à l'appelante à des fins personnelles.
+[16] L'appelant a expliqué que la Viper avait eu un énorme succès lors de sa mise en marché en 1994. L'appelant avait jugé qu'il serait avantageux pour l'appelante de posséder une telle voiture afin d'attirer l'attention de clients potentiels. La Viper avait été exposée dans l'une des salles de jeux durant la période hivernale. L'appelant a affirmé avoir obtenu la Viper à un prix plus que compétitif, soit 74 000 $, ce qui en justifiait l'achat.
+[17] L'appelante avait apposé le logo « 222 » sur le capot de la Viper. Selon l'appelant, le public faisait référence aux salles de jeux de l'appelante comme étant les « 222 » (par exemple, le 222 à Laval). Pour cette raison, il n'était pas nécessaire d'identifier le véhicule davantage.
+[18] Selon l'appelant, la Viper allait partout où le bateau allait, puisque tous les véhicules de loisir de l'appelante se déplaçaient en même temps. Il s'agissait d'attraits importants, puisque les gens désiraient se faire photographier près de la Viper. La Viper servait également à recueillir des fonds pour des organisations de bienfaisance, telle la fondation « Rêve d'enfants » . L'appelant a témoigné qu'en échange de publicité, l'appelante avait prêté la Viper dans le cadre de la série télévisée « Omertà » , et au poste de radio CKOI et qu'il avait participé aux « Mardis cyclistes » de Lachine avec la Viper.
+[19] Après dix ans d'utilisation, l'appelant a affirmé que la Viper n'avait parcouru que 25 000 kilomètres. L'appelant a maintenu n'avoir jamais utilisé la Viper à des fins personnelles. Toutefois, l'appelant a reconnu qu'il rentrait chez lui avec la Viper lorsque les activités auxquelles il participait se terminaient à des heures tardives.
+[20] Les deux motomarines avaient été acquises par l'appelante en 1996. Lors de la vente de ces motomarines en juillet 2003, chacune avait été utilisée pendant quarante heures. Les motomarines étaient également vues partout où le bateau se rendait. On pouvait lire « Amusement 222 » sur les côtés inférieurs des motomarines.
+[21] Les deux motoneiges avaient été acquises par l'appelante en 1994. Elles étaient toutes deux identifiées « Amusement 222 » . L'appelant a expliqué que les motoneiges devaient servir à faire connaître les salles de jeux de l'appelante auprès des adeptes de sports d'hiver. Les motoneiges n'étaient pas utilisées pour faire des courses, d'où leur faible kilométrage à ce jour : environ 800 kilomètres pour une des motoneiges et 1 500 kilomètres pour l'autre.
+[22] La Harley-Davidson avait été acquise par l'appelante en 1993 en vue d'atteindre les amateurs de motocyclettes. Selon l'appelant, le kilométrage (1 100 km) fait depuis l'acquisition de la Harley-Davidson provenait de randonnées effectuées pour recueillir des fonds pour la fondation « Rêve d'enfants » . L'appelant a soutenu que la participation de l'appelante à ces évènements donnait à cette dernière une excellente publicité. La marque de commerce « 222 » apparaissait sur le réservoir d'essence de la Harley-Davidson. En plus d'être exposée devant certaines salles de jeux de l'appelante, la motocyclette était vue partout où l'appelant se rendait avec le bateau.
+[23] L'appelant n'a pu dire avec précision en quelle année la Formule 1600 avait été acquise. L'achat s'était fait entre 1993 et 1995. La Formule 1600 appartenait à l'appelante, mais elle était conduite par un pilote de la région de Châteauguay. L'appelant a expliqué que l'appelante avait en fin de compte vendu ce véhicule parce que les coûts d'entretien étaient trop élevés. Toutefois, l'appelant a maintenu que la Formule 1600 avait permis à l'appelante de se faire connaître davantage, puisque les courses auxquelles elle avait participé se tenaient notamment les dimanches tout juste avant des courses de Formule 1. L'appelant rencontrait les spectateurs aux paddocks[2] et pouvait ainsi les renseigner sur les salles de jeux de l'appelante.
+[24] L'appelante possédait également une voiture de marque Mercedes que l'appelant utilisait pour se déplacer dans l'exercice de ses fonctions. Cette voiture servait uniquement l'été, puisque l'appelante entreposait la Mercedes de la fin du mois de septembre jusqu'à la fin du mois d'avril. La Mercedes avait été acquise en 1991 et l'appelante la possédait toujours. Selon l'appelant, il était plus facile pour l'appelante d'obtenir du financement des institutions financières du fait que son président se déplaçait en Mercedes. De plus, l'appelant avait jugé que l'achat d'une Mercedes était un meilleur achat vu la valeur de revente de ce type de véhicule. La Mercedes ne portait pas d'inscription.
+[25] Pendant les années en cause, l'appelante possédait aussi un véhicule utilitaire sport de marque Jeep Cherokee. La Jeep servait aux déplacements de l'appelant lors de la période hivernale et elle portait une inscription. Notons qu'au tout début, l'appelante louait la Mercedes et la Jeep. Ce n'est que par la suite que l'appelante a acquis la Mercedes.
+[26] Pendant les années en cause, l'appelant a expliqué être personnellement propriétaire d'un véhicule utilitaire sport, d'une voiture sport de marque Cobra, d'un bateau de trente-quatre pieds comprenant deux chambres à coucher, de véhicules tout-terrain, d'une motodune et d'une motocyclette de marque Honda.
+[27] L'appelant a soutenu que l'achat de tous ces véhicules de loisir avait eu un effet considérable sur le chiffre d'affaires de l'appelante, qui est passé de 800 000 $ au début des années 1990 à plus ou moins 20 millions de dollars en 2002. L'appelant n'a toutefois pas consulté un professionnel en matière de publicité avant de faire l'achat de ces véhicules. L'appelante a également utilisé des méthodes publicitaires plus conventionnelles, telles des annonces publicitaires dans les journaux locaux et à la radio.
+[28] Le rapport d'expertise (pièce A-9) préparé par Gagné, Saya, Genest, Lacroix, comptables agréés (le « rapport Genest » ), avait pour but de démontrer l'efficacité des moyens publicitaires utilisés par l'appelante. Monsieur Genest, vérificateur externe de l'appelante, a témoigné pour les appelants à titre d'expert à l'égard de ce rapport. Sa première analyse, basée sur les revenus par pied carré, avait pour but de démontrer que la progression constante des recettes de « Groupe Amusement 222 » [3] était grâce à l'utilisation par l'appelante de ses véhicules publicitaires. Sa deuxième analyse, qui consistait à comparer les données du « Groupe Amusement 222 » à la moyenne de ce secteur d'activité avait pour but de démontrer que l'appelante et les membres de « Groupe Amusement 222 » se démarquaient de la moyenne du secteur d'activité quant aux recettes, au bénéfice net et à différents indicateurs financiers. La conclusion de monsieur Genest était que l'augmentation constante des recettes de « Groupe Amusement 222 » et ses rendements de beaucoup supérieurs à la moyenne du secteur d'activité résultaient de la stratégie publicitaire adoptée par l'appelante.
+[29] Le rapport d'expertise (pièce A-11) préparé par Chrono Communication Marketing et Stratégem (le « rapport Stratégem » ) avait pour but de démontrer que les activités publicitaires de l'appelante se comparaient à de l'affichage extérieur. Monsieur Davignon a témoigné à titre d'expert à l'égard de ce rapport. Il a soutenu que la valeur publicitaire de la présence de véhicules publicitaires lors d'un évènement était égale au coût d'un panneau publicitaire capable de rejoindre le même nombre de personnes que ceux qui assistaient à cet évènement. Sa conclusion était que la valeur publicitaire cumulative des véhicules publicitaires de l'appelante s'élevait à environ 130 000 $. Toutefois, il m'apparaît important de souligner que la plus grande partie de cette valeur (106 566 $) était liée à l'usage de la Viper et que, de ce montant, une somme de 104 400 $ correspondait à des mentions télévisuelles liées aux Mardis cyclistes de Lachine (87 400 $) aussi qu'à un placement de produit dans la série télévisée Omertà (170 004 $).
+Contre-interrogatoire de l'appelant
+[30] L'appelant a expliqué qu'il était le seul actionnaire de l'appelante jusqu'au 1er juillet 1993. À cette date, il avait disposé de ses actions en faveur de la société 2896761 Canada Inc., dont il était également le seul actionnaire. L'appelant était administrateur de l'appelante pendant les années en cause. L'appelante exploitait des salles de jeux pendant les années en cause à Laval, Sainte-Thérèse et Châteauguay. Il a témoigné qu'il détenait indirectement 50 p. 100 des actions de Centre Récréatif 222 Inc., qui exploitait une salle de jeux à Saint-Constant et 50 p. 100 de 2736900 Canada Inc. et de 3081788 Canada Inc. qui exploitaient sous la raison sociale « Amusement 222 Plus » , des salles de jeux à Longueuil et à Ville Lasalle. Il a ajouté que d'autres parties détenaient l'autre 50 p. 100 de ces sociétés.
+[31] L'appelant a également admis ne posséder qu'un seul des célèbres jeux vidéo importés des États-Unis. Toutefois, l'appelant a expliqué qu'il déplace ce jeu d'une salle à l'autre lorsque la machine n'est plus rentable à l'endroit où elle est installée.
+[32] Lorsqu'il fut questionné sur la question de savoir s'il y avait des bars dans les salles de jeux de l'appelante, l'appelant a répondu par l'affirmative. Pourtant, lors de son interrogatoire préalable, l'appelant avait affirmé le contraire[4]. Également, lors de son interrogatoire préalable, l'appelant avait affirmé que les jeunes de moins de 16 ans n'avaient pas accès aux salles de jeux de l'appelante. À l'audience, l'appelant a modifié son témoignage en affirmant que les jeunes de moins de 16 ans devaient être accompagnés d'un adulte pour jouer au billard[5].
+[33] L'appelant a précisé que l'entrepôt où l'appelante rangeait la Viper et la Mercedes pendant l'hiver était le garage de sa résidence personnelle[6]. L'appelant a également précisé que l'appelante possède maintenant deux Viper. La seconde était un modèle plus récent qui a été acheté en 1997 pour la somme de 87 000 $.
+[34] L'appelant a reconnu que c'est à la suite de la vérification par l'Agence des douanes et du revenu du Canada (l' « ADRC » ) que l'appelante a demandé un rapport d'expertise sur la pertinence de ses méthodes publicitaires et non avant.
+[35] L'avocate de l'intimée a questionné l'appelant quant à la pertinence d'avoir une garantie prolongée pour certains des véhicules de loisir telles les motoneiges et les motomarines, puisqu'elles ne devaient qu'être exposées. L'appelant a expliqué qu'au moment de l'achat de ces véhicules, il ne pouvait savoir que les véhicules serviraient aussi peu. Il a ajouté que la garantie prolongée pour les motomarines n'entraînait pas de frais additionnels pour l'appelante.
+[36] En contre-interrogatoire, l'appelant a affirmé ne pas se souvenir s'il avait participé au « Poker Run » à la baie Georgienne en 1994[7]. Pourtant, à l'interrogatoire préalable, l'appelant avait affirmé : « [...] J'ai été l'essayer puis peut-être que j'ai passé la fin de semaine à faire un « poker run » , quelque chose comme ça[8]. » Lorsque l'appelant fut confronté à cette déclaration antérieure, il a affirmé ne pas se souvenir des évènements, puisqu'il participait à deux à cinq courses annuellement[9]. Pourtant, l'appelant avait préalablement affirmé ne faire que deux courses par année avec ledit bateau[10]. Également, l'appelant avait affirmé à l'interrogatoire préalable[11] qu'il était le seul à conduire le bateau avant 2000. Après cette année, un dénommé Rousseau participait aux courses à sa place, car l'appelant avait eu un malaise cardiaque en 2000 et devait donc ralentir ses activités. Malgré cela, l'appelant a éventuellement admis que monsieur Rousseau conduisait le bateau bien avant 2000[12] et que lui-même avait participé à au moins une course avec le bateau après son malaise cardiaque[13].
+Témoignage de monsieur Lamarche
+[37] Raymond Lamarche a témoigné pour l'intimée. Monsieur Lamarche est gestionnaire de vérification au bureau des services fiscaux de Laval pour l'ADRC. À l'époque de la vérification, monsieur Lamarche était le chef d'équipe de madame Lise Gauthier, qui agissait comme vérificatrice des dossiers des appelants. Madame Gauthier était absente à l'audience pour des raisons médicales. Toutefois, monsieur Lamarche a affirmé qu'il avait eu une connaissance personnelle des dossiers des appelants.
+[38] Essentiellement, les dépenses réclamées par l'appelante avaient été refusées pour l'un ou l'autre des motifs suivants : absence de pièces justificatives ou dépenses jugées de nature personnelle. Par exemple, l'appelante réclamait les frais relatifs à la Mercedes, à la Jeep et à la Viper. L'ADRC a jugé déraisonnable l'utilisation de trois véhicules pour les multiples déplacements que cause le commerce de l'appelante. Puisque chacun de ces véhicules était utilisé à la fois pour les fins de l'entreprise et pour les fins personnelles de l'appelant, l'ADRC a permis la déduction d'un tiers des frais afférents à chacun de ces véhicules.
+[39] Monsieur Lamarche a résumé comme suit les cotisations des appelants. Les dépenses liées aux voyages en République dominicaine avaient été refusées faute de pièces justificatives. Les dépenses relatives au bateau ont été jugées de nature personnelle car l'appelant participait à des courses tenues loin des lieux d'affaires de l'appelante. Les dépenses relatives aux motomarines, aux motoneiges, à la Formule 1600, à la voiture d'auto-cross et à la motocyclette avaient été jugées des dépenses personnelles à défaut de preuve documentaire démontrant que ces véhicules avaient véritablement été exposés lors de foires commerciales, d'expositions et d'autres évènements de même nature. Également, les dépenses relatives à ces véhicules ont été jugées de nature personnelle car les véhicules ne portaient pas d'inscription suffisamment apparente et parce qu'ils comblaient une passion présente chez l'appelant. Les dépenses découlant des trois véhicules de tourisme ont été accordées en partie seulement puisqu'elles ont été jugées déraisonnables.
+[40] Monsieur Lamarche a également affirmé avoir assisté aux « Mardis cyclistes » à deux occasions en 1998 et au Grand Prix afin d'y observer les véhicules de l'appelante. Il a soutenu qu'il était difficile, sinon impossible, de voir l'inscription « Amusement 222 » ou simplement « 222 » sur les véhicules. Monsieur Lamarche a soutenu qu'aucune distribution de brochures n'avait eu lieu lors des « Mardis cyclistes » . Il a ajouté n'avoir entendu aucune mention de l'entreprise de l'appelante lors de ces évènements ni lors des bulletins de nouvelles les suivant. Enfin, monsieur Lamarche a regardé la série télévisée « Omertà » et il a affirmé qu'aucune publicité relative aux salles « Amusement 222 » n'était visible pendant l'émission ni lors du générique de celle-ci.
+[41] En contre-interrogatoire, monsieur Lamarche a néanmoins admis n'avoir jamais vu lui-même la Viper de couleur rouge, c'est-à-dire celle acquise en 1994, le bateau, les motomarines et les motoneiges. De surcroît, monsieur Lamarche a affirmé ne pas avoir vu la Formule 1600 aux paddocks puisqu'il n'avait pas accès à ces lieux. Enfin, monsieur Lamarche a reconnu que l'expertise présentée par l'appelante a été préparée à la suite de la vérification et ce, au su de l'ADRC. Cette dernière avait demandé à l'appelante de justifier de telles dépenses publicitaires à l'aide d'une expertise, ce que fit l'appelante.
+[42] L'intimée a déposé en juin le rapport d'expertise préparé par monsieur François Taschereau (pièce I-14), qui travaillait alors au cabinet de relations publiques National Inc. Monsieur Taschereau a également témoigné pour l'intimée. Les constatations et les conclusions de ce rapport et le témoignage de monsieur Taschereau pourraient se résumer ainsi :
+i) L'affichage de la raison sociale ou d'un logo ne constitue pas une façon acceptable d'accroître le chiffre d'affaires d'une entreprise, sauf dans des cas exceptionnels de marques très connues comme celle de Nike, où le logo peut suffire pour constituer un message. Ce rapport soulignait toutefois que la notoriété de ce logo s'était construite grâce à un effort publicitaire de grande envergure durant de nombreuses années.
+ii) La publicité ne se transforme pas nécessairement en notoriété si l'on ne sait pas dans quel secteur d'activité et à quel endroit la firme est en affaires. Ce rapport soulignait que seul un plan de commandite comportant d'autres volets (panneaux et dépliants, par exemple) que la présence de véhicules publicitaires aurait été susceptible de transformer la présentation du logo de l'appelante en notoriété susceptible d'accroître la fréquentation de ses salles de jeux.
+iii) Quant aux Mardis cyclistes de Lachine, monsieur Taschereau soulignait dans son rapport que le rapport de Stratégem était peu explicite à ce sujet, sauf pour y parler de mentions pendant les bulletins de nouvelles aux réseaux TVA, SRC, CFCF et RDS et que seuls des extraits des nouvelles en question lui auraient permis d'émettre une opinion à ce sujet.
+iv) Quant à la série de télévision « Omertà » , monsieur Taschereau a souligné que puisque le logo de l'appelante n'apparaissait pas sur la Viper, il s'agissait d'un placement de produit pour le fabriquant de l'automobile et non pas pour l'appelante. Monsieur Taschereau a témoigné que le visionnement d'une émission de la série télévisée Omertà lui avait permis de constater que le nom de l'appelante n'y apparaissait à aucun moment.
+v) Enfin, le rapport concluait qu'à l'exception de l'exposition des véhicules devant les salles de jeux de l'appelante, le rapport de Stratégem ne contenait pas les éléments nécessaires pour justifier les dépenses engagées par l'appelante.
+Analyse
+[43] La première question à laquelle je devrai répondre est la suivante : est-ce que les dépenses avaient été engagées ou effectuées par l'appelante dans le but de tirer un revenu de son entreprise? En effet, l'alinéa 18(1)a) de la Loi porte que, dans le calcul du revenu du contribuable tiré d'une entreprise ou d'un bien, les dépenses ne sont déductibles que dans la mesure où elles ont été engagées ou effectuées par le contribuable en vue de tirer un revenu de l'entreprise ou du bien. Dans l'affaire Symes c. Canada[14], la Cour suprême s'est exprimée ainsi sur cette disposition fiscale, à la page 738 :
+[...] je tiens à faire remarquer qu'à l'intérieur d'un régime fiscal orienté, au moins en partie, vers le maintien d'une équité verticale et horizontale (l'équité horizontale exige simplement que les « égaux » soient traités également; le terme « égaux » étant l'égalité quant à la capacité de payer et [TRADUCTION] « l'équité verticale exige simplement que l'incidence du fardeau fiscal repose davantage sur les riches que sur les pauvres » [...] on cherche à empêcher les déductions correspondant à des dépenses de consommation personnelle. Dans la mesure où un contribuable peut exercer un choix quant à son style de vie et conserver la même capacité de tirer un revenu ou de faire produire un revenu, on a tendance à considérer ces choix comme des décisions de consommation personnelle, et les dépenses qui en résultent, comme des dépenses personnelles.
+[44] On constate donc que le but de cette disposition fiscale est d'empêcher la déduction de dépenses engagées ou effectuées dans un but autre que de tirer un revenu de l'entreprise, et ce, pour assurer l'équité entre tous les contribuables canadiens. Il convient de souligner que cette intention initiale de tirer un revenu d'entreprise n'a pas besoin d'être le motif principal de la dépense. Une intention secondaire suffit.
+[45] Dans la même affaire[15], la Cour suprême a précisé comment le but devait être établi, à la page 736 :
+Comme dans d'autre domaine du droit, lorsqu'il faut établir l'objet ou l'intention des actes, on ne doit pas supposer que les tribunaux se fonderont seulement, en répondant à cette question, sur les déclarations du contribuable, ex post facto ou autrement, quant à l'objet subjectif d'une dépense donnée. Ils examineront plutôt comment l'objet se manifeste objectivement, et l'objet est en définitive une question de fait à trancher en tenant compte de toutes les circonstances. C'est pourquoi il n'est pas possible de formuler une liste fixe de circonstances qui permettront de prouver d'une façon objective que le contribuable visait à tirer un revenu ou à faire produire un revenu.
+[46] Dans l'affaire Corporation municipale des Cantons Unis de Stoneham et Tewkesbury c. Ouellet, le juge Beetz s'exprimait aussi à cet égard[16] :
+Dans une affaire civile où la règle est celle de la prépondérance de la preuve et des probabilités, quand la partie témoigne et qu'elle n'est pas crue, il est possible pour le juge du procès de considérer ses affirmations comme des dénégations et ses dénégations comme des aveux, compte tenu des contradictions, des hésitations, du temps que le témoin met à répondre, de sa mine, des preuves circonstancielles et de l'ensemble de la preuve. Les réponses du témoin tendent alors à établir le contraire de ce que le témoin voudrait que le juge croie.
+[47] Le fardeau de la preuve reposait sur les appelants. Ils devaient me convaincre que les dépenses effectuées par l'appelante ne constituaient pas en fait des dépenses de nature personnelle qu'elle avait effectuées pour le bénéfice de l'appelant. Ils devaient aussi me convaincre que l'appelante avait effectué des dépenses dans le but de tirer du revenu de son entreprise.
+[48] L'appréciation de la crédibilité de l'appelant a joué un rôle important dans ma décision, compte tenu de la quasi absence de preuve documentaire ou objective soumise en preuve par les appelants. Je tiens à souligner que j'ai accordé peu de valeur probante au témoignage de l'appelant. Lors de l'interrogatoire, l'appelant s'est contenté de faire des affirmations générales, non vérifiables et souvent invraisemblables. Lors du contre-interrogatoire, mené de façon très méthodique par l'avocate de l'intimée, les explications de l'appelant devenaient évasives, imprécises, ambiguës, élusives, équivoques, inintelligibles et laborieuses. Le contre-interrogatoire de l'appelant, notamment à l'égard du voyage ou des voyages d'affaires de ce dernier en République dominicaine[17] et de l'utilisation du bateau[18] et de la Viper[19], est très révélateur à cet égard. Ses hésitations, le temps qu'il mettait à répondre, sa mine et ses trous de mémoire n'ont qu'ajouté à mes doutes quant à sa crédibilité. Il aurait pu à plusieurs occasions étayer ses assertions par une preuve documentaire adéquate et sérieuse et par des témoignages indépendants et crédibles. J'en infère que cette preuve lui aurait été défavorable. De plus, l'appelant a modifié sa version des faits selon qu'il était en interrogatoire préalable, en interrogatoire principal ou en contre-interrogatoire[20]. Je note dans ces versions divergentes beaucoup plus que de simples précisions. J'ajouterai que la mémoire de l'appelant était très sélective dans les circonstances.
+[49] J'ai nettement eu l'impression que l'appelant tentait de masquer la vérité tout au long de son témoignage. Par exemple, lors de l'interrogatoire, l'appelant a expliqué que quelques-uns de ses jeux vidéo étaient uniques et que ces jeux pouvaient coûter jusqu'à 90 000 $ chacun. Toutefois, lors du contre-interrogatoire, j'apprenais que l'appelante ne possédait qu'un seul de ces jeux pendant les années en cause. L'appelant a expliqué qu'il ramenait la Viper à l'entrepôt après l'avoir utilisée à des fins d'affaires. À la suite du contre-interrogatoire, j'apprenais que l'entrepôt où l'appelant rangeait la Viper était en fait le garage de sa résidence personnelle.
+Dépenses liées aux véhicules de loisir
+[50] Rappelons que l'appelant a témoigné que l'appelante avait fait l'acquisition des véhicules de loisir sur lesquels le logo « 222 » ou la raison sociale « Amusement 222 » était affiché dans le but de piquer la curiosité des amateurs de ce genre de véhicules et ainsi de les attirer à ses salles de jeux. Pour ce faire, l'appelant a expliqué qu'il avait participé avec ces véhicules à de nombreux salons, expositions ou activités organisés pour de tels amateurs et qu'il avait distribué à ces derniers, dont la curiosité avait été piquée, des brochures pour les informer de la nature des activités de l'appelante et des coupons-rabais pour les encourager à fréquenter les salles de jeux de l'appelante.
+[51] Encore une fois, la preuve de l'appelante sur sa participation à différents évènements ne reposait que sur le témoignage de l'appelant, qui s'est contenté de faire des affirmations générales. Le témoignage de l'appelant n'était pas appuyé par quelque preuve documentaire que ce soit. À cet égard, j'aurais aimé prendre connaissance de ces brochures et des contrats qui liaient l'appelante aux promoteurs de ces évènements. Son témoignage était tout aussi silencieux quant au coût pour l'appelante des coupons-rabais ainsi distribués. De surcroît, monsieur Lamarche a témoigné s'être rendu à deux reprises au site des Mardis cyclistes sans pour autant y avoir vu l'appelant ou ses préposés distribuer des brochures ou des coupons-rabais.
+[52] Pour démontrer que la Viper avait été utilisée pour des fins d'affaires, l'appelant a témoigné qu'en échange de publicité, l'appelante avait prêté la Viper dans le cadre de série télévisée Omertà et à la station CKOI, et qu'il avait participé aux Mardis cyclistes de Lachine avec la Viper. Le témoignage de l'appelant à cet égard mérite d'être cité :
+Interrogatoire[21]
+Q. Est-ce que vous étiez payé pour prêter l'auto?
+R. Non. Nous autres on le faisait en échange qu'à quelque part dans le film, ils mettent notre nom. On le faisait pour un échange de publicité tout le temps.
+Q. Je comprends aussi que vous avez une entente ou des complicités avec la station de radio CKOI.
+R. Les ententes que j'avais avec CKOI, c'est qu'on se présentait pour eux autres sur leur site, où est-ce qu'ils avaient de besoin de nous puis on échangeait ça, nous autres, avec ... pour du temps d'antenne. Au lieu de payer trente (30) spots à 100 $ chaque, on changeait ça pour du temps avec CKOI. Un été complet, une autre auto, c'est une Prowler qui a été échangée; tout l'été elle a été prêtée pendant dix semaines, du mois de juin à aller au mois d'août, elle a été prêtée à CKOI pour du temps d'antenne, je pense que ça montait à une centaine de mille piastres si j'aurais dû payer. Je l'ai fait pendant 97, on l'a fait 98. On l'a fait avec la Viper aussi.
+Q. Pouvez-vous indiquer au Tribunal, je comprends également que la voiture participait à une activité connue comme « Les Rendez-vous cyclistes de Lachine » .
+R. C'est arrivé drôlement. J'ai été ... Ça c'est arrivé, un soir je passais par Lachine puis je suis arrivé aux Mardis Cyclistes. J'ai débarqué pour regarder la course de bateaux puis en fin du compte il y a un monsieur, monsieur Rossi qui s'occupe de ça, il est venu me voir puis il dit : « Moi, il dit, j'aimerais ça que cette auto-là soit en avant de mes cyclistes, que ça soit l'auto de tête. » Il dit : « Je suis sûr que moi, ça m'attirerait peut-être encore plus de monde. » Puis ça a commencé comme ça, j'ai dit : « Bien, j'ai dit, vous faites ça le mardi? » Il m'a dit oui. Il m'a dit qu'il en restait cinq ou six la première fois, puis j'ai commencé à faire les Mardis Cyclistes le mardi d'après. Puis après ça, j'ai fait ça en 94, 95, 96, 97, 98, 99. Je pense qu'on a fait jusqu'en 2000, 2001. 2002 que j'ai pas fait parce que monsieur Rossi a débarqué. Ça c'était en échange de publicité. Monsieur Rossi, à chaque tour qu'on faisait du ... c'était quatre rues qu'on faisait de course; moi j'étais en auto de tête en avant. C'est sûr que j'étais à deux cents (200) ou à trois cents pieds (300 pi), quatre cents pieds (400 pi), tout dépendant des choses. Je conduisais, on appelle ça un arbitre, la personne officielle de la course était toujours avec moi dans l'auto. Puis monsieur Rossi, à chaque fois qu'on passait, il y avait du monde dans les rues, annonçait que l'auto était commanditée de Amusement 222 de Lasalle, de Châteauguay, de Saint-Constant, puis il faisait toujours de la publicité pour celui d'alentour.
+Contre-interrogatoire[22]
+Q. Et vous nous avez dit qu'elle avait été prêtée pour l'émission Omerta.
+R. La 94, oui.
+Q. La 94, donc celle qui serait rouge.
+R. Oui.
+Q. Il est exact que vous personnellement vous ne l'avez pas visionné l'émission Omerta?
+R. Écoutez, j'ai peut-être regardé l'émission...
+Q. C'est peut-être ou c'est oui, ou c'est non?
+R. J'aime autant vous dire non parce que si c'est dix minutes, si c'est oui, c'est oui puis si c'est non, c'est non. J'ai peut-être ouvert une fois, regardé Omerta dix minutes, le temps que je me suis assis puis j'ai reparti.
+Q. Avec-vous déjà écouté l'émission pour vérifier qu'on voit bien le véhicule?
+R. Moi, non.
+Q. Vous, non. Et est-ce que vous avez... Est-ce qu'il est exact que dans l'émission, on ne voit pas de sigle 222 sur la voiture?
+R. Dans la télévision, non.
+Q. À votre connaissance...
+R. Non.
+Q. ... est-ce qu'elle s'en allait là lettrée, cette voiture-là? Est-ce que Omerta voulait que la personne qui conduisait ça ait l'air d'être un propriétaire de 222?
+R. Non. Le véhicule a été prêté au commencement de Omerta, ça a été le premier été de 94, je crois, Omerta, là. Puis ils s'en ont servi avec un échange, nous autres, de publicité. C'est que, après l'émission...
+Q. Votre échange de publicité était fait avec qui, là?
+R. Avec Omerta.
+Q. Omerta ou un poste de télévision, là?
+R. C'est Omerta.
+Q. Omerta?
+R. C'est les producteurs de Omerta.
+Q. Qui chez Omerta, quels producteurs? Avec qui vous avez contracté ça, cet échange-là?
+R. Aucune idée, Madame là, présentement là je ne me rappelle plus de ça.
+Q. Aucune idée?
+R. Non. Moi je sais que j'envoyais, s'ils demandaient l'auto à cinq heures (5 h) du matin, c'était un de mes employés qui partait avec l'auto parce que c'était l'heure que j'allais me coucher. Puis on doit avoir été cinq, six fois faire des choses, l'employé arrivait là le matin à six heures (6 h) puis il repartait des fois à midi (12 h); des fois il revenait à neuf heures (9 h), des fois il revenait à deux heures (2 h) l'après-midi parce que eux autres ils ont des séquences à filmer puis l'employé est obligé d'attendre.
+[...]
+Q. Au niveau des Mardis Cyclistes, on va le voir plus tard dans l'audition; votre rapport d'expertise révèle qu'il y aurait une valeur ou une mention télévisuelle de l'événement. Donc, c'est-à-dire que dans les bulletins de sport, on fait une mention des résultats du Mardi Cyclistes, et qu'on y verrait votre voiture, la Viper 94. Est-il exact que vous personnellement vous n'avez pas visionné ces bulletins de sport là?
+R. J'ai visionné, je l'ai vue à des reprises sur, qu'on voyait la course, la finale de la course puis que moi je tournais. Je voyais toujours de derrière ma chose. Je ne peux pas dire que la publicité était faite pour cette auto-là.
+Q. En quelle année vous auriez vu ça?
+R. Ah, Sainte-Anne! Je peux vous dire deux fois, trois fois par été dans des choses, puis je suis obligé de me fier sur des clients, des clients que je voyais, ils disaient : « Aye! On t'a vu dans les Mardis Cyclistes, on a vu juste le derrière de l'auto. » Moi, c'est des rapportés, là.
+Q. Donc, ils voient un derrière d'auto mais ils ne voient pas, donc, de sigle 222, là?
+R. J'ai pas demandé qu'est-ce qu'ils voyaient, là.
+Q. Bien, s'ils voient le derrière...
+R. Ils m'ont dit qu'ils ont vu la Viper 222.
+Q. Vous m'avez dit : « Ils ont dit qu'ils ont vu le derrière de l'auto. »
+R. Bien, le derrière de l'auto...
+Q. Parce que dans le derrière de l'auto, on voit le 222, Monsieur. On l'a vu sur la photo, là.
+R. Mais Madame, je ne peux pas vous parler pour eux autres. Moi je ne le sais pas. Ils m'ont dit qu'ils ont vu la Viper 222 puis je le sais que ma Viper 222, aux Mardis Cyclistes, elle était lettrée de derrière à droite, à gauche, je l'ai dit tout à l'heure. Puis je pense que dans son derrière, elle l'avait dans le centre aussi. Moi je vous dis, les clients m'ont rapporté ça. Je ne peux pas parler pour eux autres.
+[53] Encore une fois, lors de l'interrogatoire, l'appelant s'est contenté la plupart du temps de faire des affirmations générales. Lors du contre-interrogatoire, les explications de l'appelant étaient évasives et ambiguës. Le temps qu'il mettait à répondre n'a qu'ajouté à mes doutes quant à sa crédibilité. Il aurait pu appuyer ses assertions par une preuve documentaire sérieuse et par des témoignages indépendants et crédibles. Par exemple, il aurait pu déposer en preuve les contrats qui liaient l'appelante aux producteurs de la série télévisée Omertà et au poste de radio CKOI, des extraits de la série télévisée Omertà dans lesquels apparaissaient la Viper et le nom de l'appelante dans le générique et des extraits pertinents de bulletins de nouvelles sportives suivant les Mardis cyclistes. J'aurais aimé entendre le témoignage de monsieur Rossi, le responsable des Mardis cyclistes. Rien de tout ça n'a été fait. J'en infère que cette preuve aurait été défavorable aux appelants.
+[54] De surcroît, monsieur Lamarche, dont la crédibilité ne fait pas de doute, a affirmé avoir assisté en 1998 aux « Mardis cyclistes » à deux reprises afin d'y observer les véhicules de l'appelante. Il a témoigné qu'il était difficile, sinon impossible, de voir la raison sociale ou la marque de commerce de l'appelante sur ces véhicules. De plus, il a ajouté qu'il n'avait pas entendu, comme l'avait affirmé l'appelant, d'annonces lors de ces courses déclarant que la Viper était commanditée par Amusement 222. Enfin, il a affirmé qu'immédiatement après avoir assisté à ces courses, il avait visionné plusieurs bulletins de nouvelles sportives et ce, sur différentes chaînes de télévision, sans pour autant avoir vu la Viper[23] ou avoir entendu quelque mention que ce soit de l'appelante pendant ces bulletins de nouvelles. À l'égard de la série télévisée Omertà , monsieur Lamarche a témoigné que le visionnement d'une émission de cette série (dans laquelle la Viper apparaissait brièvement) lui avait permis de constater que le nom de l'appelante n'y apparaissait à aucun moment.
+Absence d'utilisation personnelle
+[55] L'avocat des appelants a soutenu que ses clients avaient fait la preuve que les véhicules de loisir de l'appelante n'avaient pas été utilisés par l'appelant à des fins personnelles. Il convient de souligner que cette preuve reposait uniquement sur le témoignage de l'appelant. Ainsi, l'appelant a fait état du faible kilométrage et des heures peu élevées d'utilisation des nombreux véhicules de loisir de l'appelante. D'une part, je n'ai vu aucune preuve matérielle et objective à l'appui de ces assertions. J'en déduis que cette preuve matérielle que l'appelante était en mesure de produire lui aurait été défavorable. D'autre part, la preuve matérielle de cette assertion aurait démontré tout au plus que les véhicules de loisir avaient peu servi, ce qui en dit peu sur la nature de l'utilisation que l'appelante en avait faite. L'appelant a aussi affirmé qu'il possédait personnellement des véhicules de loisir et qu'il n'avait pas besoin des véhicules de l'appelante pour son bénéfice personnel ou celui de sa famille. Cela pouvait aussi démontrer que l'appelante avait fait l'acquisition de tous ces véhicules pour assouvir la passion de l'appelant, qui était de posséder ce genre de véhicules et de fréquenter d'autres personnes qui partageaient la même passion.
+[56] La participation de l'appelant, notamment aux deux courses de type « Poker Run » , avec le bateau loué à l'appelante sur le lac Ontario et dans la baie Georgienne, son témoignage que c'est en se baladant avec la Viper de l'appelante qu'il avait rencontré par hasard pour la première fois monsieur Rossi, le responsable des Mardis cyclistes, et l'ampleur des réparations aux véhicules de la société qui, selon le témoignage de l'appelant, avaient peu servi puisqu'ils étaient surtout exposés lors de salons sont autant d'éléments qui me permettent de douter des assertions de l'appelant qu'il n'avait jamais utilisé les véhicules de loisir de l'appelante à des fins personnelles.
+Efficacité des moyens publicitaires utilisés par l'appelante
+[57] Rappelons que les appelants ont soutenu que leurs méthodes publicitaires innovatrices avaient porté fruit et avaient permis à l'appelante de se démarquer des concurrents. Ils ont déposé en preuve deux rapports d'expertise et ont fait témoigner messieurs Genest et Davignon à titre d'experts pour étayer leurs assertions.
+[58] D'abord, je tiens à souligner que j'accorde peu de valeur probante à ces deux rapports et aux témoignages de ces deux experts.
+[59] Premièrement, le rapport Genest et le témoignage de monsieur Genest selon lequel il y avait un lien de cause à effet entre la stratégie publicitaire de l'appelante et l'augmentation de son chiffre d'affaires ne m'ont pas convaincu. En effet, l'augmentation du chiffre d'affaires et de la rentabilité de l'appelante pouvaient être causées par plusieurs autres facteurs, dont l'augmentation des dépenses en immobilisations, l'achat judicieux de nouveaux jeux vidéo, l'agrandissement des salles, l'emplacement des salles de jeux et une bonne gestion. Seul un sondage fait par une firme crédible auprès des clients de l'appelante pouvait, à mon avis, établir, en l'espèce, l'existence du lien de cause à effet entre l'augmentation de l'achalandage des salles de jeux de l'appelante et sa stratégie publicitaire.
+[60] Deuxièmement, je suis aussi d'avis que le rapport Stratégem et le témoignage de monsieur Davignon avaient en l'espèce peu de valeur probante et ce, pour les motifs suivants :
+i) Premièrement, j'ai des doutes très sérieux quant à l'existence des faits et des renseignements à partir desquels le rapport Stratégem a établi la valeur publicitaire cumulative des véhicules de loisir. Rappelons que monsieur Taschereau avait établi cette valeur à partir des faits et des renseignements transmis par l'appelante et qu'il n'a pas lui-même validés, que les appelants n'ont apporté aucune preuve objective à cet égard et, enfin, que les témoignages crédibles de messieurs Lamarche et Taschereau ont jeté un doute très sérieux quant à l'existence des mentions télévisuelles (Mardis cyclistes et Omertà ) auxquelles était rattachée la majeure partie de cette valeur publicitaires.
+ii) Deuxièmement, j'endosse la conclusion de monsieur Taschereau, l'expert de l'intimée, selon laquelle l'affichage d'une raison sociale ou d'un logo ne pouvait constituer en soi un message susceptible d'accroître le chiffre d'affaires d'une entreprise, sauf dans des cas exceptionnels (par exemple Nike).
+[61] Les appelants ne m'ont absolument pas convaincu que la stratégie publicitaire avait porté fruit. En fait, je suis plutôt d'avis que la prétendue stratégie publicitaire de l'appelante avait pour but de camoufler les dépenses personnelles de l'appelant qui étaient assumées par l'appelante. Pourquoi l'appelante avait-elle assumé seule les frais très élevés d'une telle stratégie publicitaire qui, selon les appelants, avait eu des retombées positives sur toutes les salles de jeux incluant celles de Saint-Constant, de Longueuil et de Ville Lasalle, qui étaient détenues à parts égales par les appelants et les tiers? Pourquoi de tels frais n'avaient-ils pas été assumés en partie par les tiers? Je suis d'opinion que ce fait appuie la thèse de l'intimée à l'effet que les tiers ne voulaient pas payer pour les « jouets » de l'appelante.
+[62] De la preuve soumise, je conclus que l'appelante n'avait pas effectué ou engagé ces dépenses dans le but, même secondaire, de tirer un revenu de son entreprise. Je suis d'avis que l'appelante avait plutôt effectué ou engagé ces dépenses dans le but de permettre à l'appelant de se livrer à son « hobby » et ce, aux frais de l'appelante : l'appelant était un « tripeux » , pour employer l'expression de son avocat, qui aimait simplement posséder ce genre de véhicules et fréquenter ces évènements pour ainsi fréquenter d'autres « tripeux » . Il n'y a rien de répréhensible en soi d'avoir une telle passion; toutefois, l'appelant devait assouvir sa passion de ses deniers et non pas de ceux de l'appelante. Il convient de souligner que lorsque l'acquisition d'un bien a pour objet la satisfaction d'une passion personnelle, elle peut raisonnablement être considérée comme étant pour des fins personnelles même si comme tel le bien n'a pas été utilisé personnellement ou très peu. Que l'affichage du logo ou de la raison sociale de l'appelante sur ses véhicules de loisir ait eu un certain effet favorable (quoique très minime à mon avis) sur la fréquentation des salles ne prouve pas pour autant que l'appelante avait un but commercial. À mon avis, il faut faire une distinction entre un effet commercial et un but commercial. Je suis plutôt d'avis que l'affichage du logo ou de la raison sociale de l'appelante sur ses véhicules avait pour but de camoufler les dépenses personnelles de l'appelant. À mon avis, le ministre était en droit de refuser à l'appelante toutes les dépenses liées à ces véhicules de loisir et d'assujettir l'appelant à l'impôt sur les mêmes montants puisque ces dépenses constituaient des dépenses personnelles de l'appelant qui avaient été défrayées par l'appelante. Compte tenu de ma décision, je ne vois pas l'utilité de me prononcer sur le caractère raisonnable de ces dépenses.
+Voyage(s) en République dominicaine
+[63] Est-ce que les frais de voyage de 11 337 $ engagés par l'appelante à l'occasion d'un ou de deux voyages faits par l'appelant en République dominicaine étaient déductibles dans le calcul du revenu de l'appelante tiré de son entreprise pour l'année d'imposition 1995?
+Pièces justificatives
+[64] La page J-22 de la pièce I-4 (Relevé de compte Visa) démontrait que l'appelant avait effectué les dépenses suivantes :
+Montant
+Fournisseur Date
+i) 389 $ Vacances Air Canada 11 novembre 1994
+ii) 580,20 $ Edmond Elias-Hamaca 25 novembre 1994
+iii) 1 160,38 $ Edmond Elias-Hamaca 26 novembre 1994
+Sur cette pièce apparaissait l'inscription manuscrite suivante : « Voyage en République dominicaine au condo de Michel Hébert » .
+[65] La page J-23 de la pièce I-4 (Relevé de compte Visa) démontrait tout au plus que l'appelant avait acquitté sa facture Visa au montant de 7 674,70 $ et ce, le 31 mars 1995.
+[66] Enfin, la page J-24 de la pièce I-4 était un relevé de compte « American Express » adressé à monsieur Jean-Marie Robert, le gérant de banque de l'appelante. Ce relevé de compte indiquait que monsieur Robert avait acheté deux billets d'avion (de New-York à Santo Domingo, aller-retour) le 3 avril 1995. Le nom de l'appelant et celui de monsieur Robert apparaissaient à titre de passagers sur le relevé. Le montant de l'opération était de 1 532,58 $.
+[67] Les explications données par l'appelant quant à la preuve documentaire et quant au but de ce ou ces voyages, lors de l'interrogatoire par son avocat et du contre-interrogatoire par l'avocate de l'intimée, méritent d'être citées :
+Me Serge Fournier :[24]
+Q. Pouvez-vous indiquer au Tribunal pourquoi vous êtes allé en République Dominicaine?
+R. Je suis allé en République Dominicaine pour essayer de voir le marché qu'il y avait...
+Monsieur le Juge :
+Q. Seul ou avec d'autres?
+R. Avec mon directeur de banque.
+Q. Directeur de?
+R. De banque. Comme là, 11 337 $ pour le voyage, je ne pense pas que c'est à une seule occasion. Je croirais que c'est en deux occasions, là, ou... Parce que je n'ai jamais dépensé 11 000 $ dans un voyage. Parce qu'on avait les, ce qu'on appelle aujourd'hui les poker machines, ce qui appartient au gouvernement aujourd'hui, qu'est-ce qui était à nous avant 93. Et la fameuse bataille qu'on a eue, qu'ils nous disaient qu'on était... Eux autres étaient légaux, nous autres on était illégaux, les fameuses machines illégales. Le gouvernement nous a donné tant de temps pour les sortir. Nous autres on en avait beaucoup dans la compagnie, je crois qu'on en avait un quarante (40), cinquante (50). Puis on a été voir en République Dominicaine puis moi j'avais déjà, j'allais là à chaque année, je vais là depuis 1978 ou 1980, je vais en République Dominicaine une semaine par année en vacances. Puis j'avais rencontré du monde d'amusement là-bas. C'est un monsieur de New York puis il m'avait dit que peut-être que lui il voudrait vendre. Ça fait qu'on a été voir à New York pour voir la possibilité de...
+Q. Il voudrait... Excusez-moi.
+R. C'est parce que le monsieur il avait...
+Me Serge Fournier : Attendez, Monsieur Hébert.
+Monsieur le Juge :
+Q. Le monsieur de New York, vous l'avez rencontré en République Dominicaine?
+R. Oui, je l'avais rencontré en République Dominicaine.
+Q. Oui, puis il voulait vendre quoi?
+R. Lui il a des machines en République Dominicaine. Il avait des jeux vidéo d'installés un peu partout.
+Q. D'accord.
+R. Ça fait que de là, on en a profité pour le rencontrer. Puis moi, bien, je savais qu'il y avait certains villages comme à Puerto Plata, Sosua, Cabarete au nord, je connaissais le sud aussi, qu'il y avait beaucoup de canadiens. Puis je me disais que peut-être que ça allait être la chance de pouvoir emmener mes machines là puis commencer peut-être le travail là. Puis en fin du compte, c'était trop dur de pouvoir emmener nos machines là, les douanes puis tout ça, c'était... bien, en tout cas, je pense que, on s'est dit que c'était un trop gros problème de dédouaner, c'était une perte de temps. Fait qu'on a laissé tomber le projet. Puis les machines, il y en a beaucoup qui ont été brisées puis on en a encore.
+Me Nathalie Lessard :[25]
+Q. On va parler de votre voyage en République Dominicaine. J'essaie de trouver une des pièces justificatives. Alors, si vous voulez bien prendre la page J-22, dans I-7, le paquet...
+R. C'est ça.
+Q. ...avec un trombone, J-22.
+Monsieur le Juge : I-7?
+Me Nathalie Lessard : Dans... Oh pardon, c'est I-4. J-22.
+Q. Alors, parmi vos dépenses en République Dominicaine, il est exact que vous auriez des billets d'avion payés par Vacances Air Canada pour 389 $?
+R. Oui.
+Q. Sur votre relevé Visa également, on voit Edmond Elias Hamaca à Boca Chica, 580 $.
+R. Oui. Ça c'est l'hôtel Hamaca.
+Q. D'accord. Alors, là il y avait des annotations « Au condo de Michel Hébert » , mais vous n'avez pas de condo, vous m'avez dit, en République Dominicaine.
+R. C'est ça que je vous ai dit, ou dit au condo.
+Q. Et vous, vous nous dites que vous n'en avez pas.
+R. C'est ça, c'était à l'hôtel, ça.
+Q. Alors, vous me dites que vos réclamations c'est des hôtels?
+R. Oui, ça c'est l'hôtel, l'hôtel.
+Q. Et un billet d'avion ou deux? 389 $ ça doit être un billet d'avion, cette fois-là?
+R. Je ne le sais pas.
+Q. Ça c'est un relevé au douze (12) décembre 94 pour une dépense que je présume le onze (11) novembre, c'est 94 puisque votre relevé est en 94. 389 $ de mémoire en 94, est-ce que ça pouvait représenter plus qu'un billet, ça?
+R. Ça pouvait être un billet comme deux billets, comme... On a déjà descendu en République Dominicaine pour 129 $ aller-retour, on a déjà descendu pour 339 $. Aujourd'hui c'est 999 $, je ne le sais pas, Madame. J'en vois un, là.
+Q. Là, si vous prenez la page J-23, un autre relevé Visa celui-là en 95. On voit que la date du relevé c'est quatre (4) décembre 95, un montant de 7 674 $, ça fait partie de votre réclamation du voyage en République Dominicaine. Savez-vous de quoi c'est constitué, ce montant-là? Est-ce que c'étaient des hôtels, des avions, des restaurants?
+R. Il faudrait que je fasse venir un relevé. Je m'imagine que ça devait être l'hôtel. On ne voit pas rien, on voit « Thank You payment » c'est tout. On n'a pas la...
+Q. De mémoire, vous ne vous souvenez pas de détails?
+R. Ah non, la mémoire, non, non. Si ça a été payé, ça, c'est parce qu'il devait y avoir une location d'auto, il devait y avoir l'hôtel, il devait y avoir des restaurants. Ça devait être un total d'une semaine avec les billets d'avion dessus. On ne le voit pas.
+Q. D'accord. Maintenant, à J-24, on a un relevé de compte à l'intention de monsieur Jean-Marie Robert, vingt (20) avril 95, American Airlines, un billet pour passager Michel Hébert, un billet pour Jean-Marie Robert.
+R. Pour revenir.
+Q. Ça c'est pour ... C'est un billet retour seulement, ça?
+R. Je crois que c'est un retour seulement. On s'était fait voler notre passeport.
+Q. Mais l'aller a été payé quand là, par quoi?
+R. Hein?
+Q. L'aller a été payé comment?
+R. Si c'est un remboursement à Jean-Marie Robert, c'est que lui il a utilisé sa carte de crédit parce que la mienne elle devait être dépassée. On est partis pour une semaine puis on s'est fait voler à l'hôtel, on s'est fait voler nos passeports. On est obligés d'aller à l'ambassade canadienne puis on a resté là deux, trois jours de plus. Puis quand on descend en charter comme ça, si vous ne prenez pas l'avion sept jours après, vous venez de perdre vos billets. Puis on avait, lui c'est le directeur de banque ici; on n'avait pas à rester une semaine complète. Je pense que ça a pris trois jours puis on a eu notre passeport pour pouvoir s'en revenir. Et on a été obligés de prendre American Airlines pour s'en revenir puis lui, c'est un remboursement pour lui remettre son argent. Je ne pense pas que mon directeur ait à payer ça.
+Q. Vous nous avez dit que cette dépense-là réclamée, c'est parce que vous avez tenté d'ouvrir un...
+R. Je ne sais pas si c'est cette fois-là, mais... en tout cas, nos deux ensemble on s'est fait voler nos passeports. Je m'imagine que c'est cette fois-là.
+Q. Ça c'est les pièces qui ont été fournies pour justifier ce que vous nous avez abordé dans votre témoignage principal, un voyage en République qui serait pour affaires.
+R. Oui.
+[68] D'abord, l'appelant a témoigné sans grande assurance qu'il croyait avoir fait deux voyages en République dominicaine plutôt qu'un, compte tenu des montants en cause. Sa réponse à l'égard de la possession d'un condominium dans ce pays était ambiguë. Ses explications quant aux frais de 7 674,70 $ étaient évasives et laborieuses. Est-ce que la somme de 389 $ payée à Vacances Air Canada représentait un ou deux billets d'avion? Est-ce que monsieur Robert accompagnait l'appelant lors du premier voyage? Les réponses à ces deux questions étaient encore une fois ambiguës, évasives et élusives.
+[69] Selon les pièces justificatives, le premier voyage avait coûté 9 805 $ et le deuxième, 1 532 $. Comment expliquer le coût si peu élevé du deuxième voyage alors que monsieur Robert avait accompagné l'appelant? Qui a payé les frais d'avion (de Montréal à Santo Domingo) et les frais de séjour lors du deuxième voyage? Cet état de fait demeure inexpliqué et inexplicable.
+[70] Les explications de l'appelant quant à l'objectif de ce ou de ces voyages étaient toutes aussi imprécises, ambiguës et évasives. En effet, après un examen attentif de son témoignage à cet égard, je n'ai pu déterminer avec certitude si l'appelante voulait écouler en République dominicaine ses appareils de vidéo poker ou si elle cherchait plutôt à acheter à cet endroit une ou des salles de jeux, ou encore si elle cherchait avant tout à en établir une. L'appelant n'a même pas cru bon de nommer les personnes ou les entreprises qu'il avait rencontrées dans ce pays. De plus, aucune preuve documentaire qui aurait pu appuyer son témoignage quant aux démarches qu'il aurait entreprises à cet endroit ne fut soumise.
+[71] En résumé, l'appelant s'est contenté de faire des affirmations générales, non vérifiables et à plusieurs occasions invraisemblables à l'égard des frais de voyage. La plupart des explications qu'il a données à cet égard étaient ambiguës, élusives, équivoques, inintelligibles et laborieuses. Il aurait pu étayer ses assertions par des pièces justificatives adéquates et sérieuses et par un témoignage indépendant et crédible, dont celui de monsieur Robert. Il ne l'a pas fait. J'en infère que cette preuve lui aurait probablement été défavorable.
+Dépenses liées aux trois automobiles
+[72] Je rappelle que pendant les années en cause, l'appelante avait mis à la disposition de l'appelant trois automobiles (la Jeep, la Mercedes et la Viper). Le ministre avait reconnu qu'il était raisonnable que l'appelante mette à la disposition de son président une automobile pour les multiples déplacements que ses fonctions entraînaient. Toutefois, le ministre avait déterminé qu'il était déraisonnable que l'appelante mette trois automobiles à la disposition de son président. Les appelants avaient par ailleurs soutenu que les trois véhicules avaient été uniquement utilisés par son président pour des fins d'affaires. Le ministre avait donc déterminé que le pourcentage d'utilisation pour fins d'affaires de chacune de ces automobiles avait été de 33 p. 100. La question qui se pose est la suivante : est-ce qu'une société raisonnable aurait, dans les mêmes circonstances, mis à la disposition de son président trois automobiles, n'ayant à l'esprit que les intérêts commerciaux de la société? Je suis d'avis que non et je considère que la position du ministre en l'espèce était plus que généreuse.
+Autres dépenses
+[73] À mon avis, le ministre était en droit de refuser à l'appelante toutes les autres dépenses « autres que celles qui ont fait l'objet de mon analyse » et d'assujettir l'appelant à l'impôt sur les mêmes montants. En effet, les appelants, dois-je le rappeler, avaient le fardeau de démontrer, selon la prépondérance des probabilités, que le ministre avait tort sur ces points. Les appelants n'ont tout simplement fourni aucune explication à cet égard.
+Pénalités
+[74] Je rappelle que l'imposition de la pénalité prévue au paragraphe 163(2) de la Loi n'est litigieuse qu'en ce qui a trait à la somme de 13 500 $ ayant fait l'objet d'une appropriation par l'appelant et ajoutée aux revenus des appelants pour l'année d'imposition 1995 et aux frais de voyage en République dominicaine de 11 337 $.
+[75] Premièrement, compte tenu de mes conclusions que les frais de voyage en République dominicaine étaient de nature personnelle, je suis d'avis que le ministre était en droit d'imposer une telle pénalité.
+[76] Deuxièmement, quant à la pénalité sur la somme de 13 500 $, il convient de souligner que l'appelant a admis s'être approprié une somme de 13 500 $. Cette appropriation de fonds ajoutés aux revenus de l'appelant pour l'année d'imposition 1995 représentait des ventes non déclarées de l'appelante qui avaient été créditées au compte « Dû à l'actionnaire » au lieu d'être comptabilisées comme revenu d'entreprise. La preuve a révélé que c'était la seule fois qu'une somme en argent comptant avait été créditée au compte « Dû à l'actionnaire » au cours des années d'imposition en cause. L'appelant n'a fourni aucune explication quant à savoir pourquoi et comment il s'était approprié cette somme. Il a plaidé qu'une erreur administrative s'était glissée. Son témoignage, lors de l'interrogatoire par son avocat à ce sujet et du contre-interrogatoire par l'avocate de l'intimée, mérite d'être cité :
+Me Serge Fournier[26]
+Q. En 1995, Monsieur Hébert, il y a une somme de 13 500 $ qui a été déduite de vos avances, alors que c'était du revenu de la compagnie. Pouvez-vous expliquer au Tribunal ce que vous savez là-dessus?
+R. Moi je ne peux pas l'expliquer. Depuis qu'ils me l'ont dit en 97, en 98, j'essaie de trouver la solution, l'erreur qui s'est glissée. Je ne vois pas. Comme j'ai dit, je suis presque tout le temps sur la route, je rentre au bureau des fois une heure, des fois deux heures par jour; des fois je suis deux, trois jours sans aller. Je ne peux pas voir l'erreur qui a été faite si elle a été faite par mon bureau, si elle a été faite par la comptabilité; on ne peut pas voir. J'ai cherché des façons, je pensais à un moment donné que c'était un camion de la compagnie qu'on aurait vendu puis qu'on aurait rentré, mais là on voit que c'est en 95 puis ce camion-là, c'est en 92 qu'il a été fait. Fait que j'ai encore échoué. Je ne peux vraiment pas voir qu'est-ce qui s'est passé en 95, là, ça allait trop vite. Ça me demandait trop de temps.
+Me Nathalie Lessard[27]
+Q. Et vous nous avez dit dans votre témoignage principal que lorsque les personnes qui font ça au bureau ont des doutes, ils vous disent : « C'est quoi là que tu veux qui passe dans la compagnie? »
+R. Ils le demandent.
+Q. « C'est quoi que tu veux qui passe personnel? »
+R. Oui.
+Q. Et c'est à vous qu'ils demandent ça?
+R. Oui.
+Q. D'accord.
+R. Ils le demandent, quand ils ne sont pas sûrs d'eux autres mêmes.
+Il convient aussi de souligner qu'aucun employé travaillant dans la section de comptabilité de l'appelante n'est venu témoigner à cet égard.
+[77] Je suis d'avis que le ministre s'est acquitté de l'obligation qui reposait sur lui de démontrer qu'il était plus probable qu'il ne s'agissait pas en l'espèce d'une simple erreur administrative. Au contraire, le ministre a démontré, à mon avis, selon la prépondérance des probabilités, que l'appelant avait commis en l'espèce une faute lourde découlant de son aveuglement volontaire. Un employé de l'appelante aurait fait une erreur administrative qui n'aurait pas été découverte par l'appelante : l'explication m'apparaît trop facile compte tenu du montant en cause et du caractère unique de l'opération. De plus, l'ampleur des dépenses personnelles liées aux véhicules de loisir de l'appelante et des dépenses refusées à l'appelante que l'appelant a reconnues comme étant de nature personnelle m'a aussi amené à conclure qu'il était plus probable qu'improbable que l'appelant avait commis une faute lourde découlant de son aveuglement volontaire.
+Prescription
+[78] Est-ce à bon droit que le ministre a établi de nouvelles cotisations pour les années d'imposition se terminant le 31 octobre 1992 et le 31 octobre 1993 dans le cas de l'appelante et pour les années d'imposition 1992 et 1993 dans le cas de l'appelant, et ce, conformément au sous-alinéa 152(4)a)(i) de la Loi? L'avocat des appelants a reconnu que si mes conclusions étaient que les dépenses liées à l'utilisation des véhicules de loisir étaient de nature personnelle, la pénalité devait s'appliquer. Puisque j'ai précédemment conclu qu'il s'agissait de dépenses personnelles, l'établissement de ces nouvelles cotisations était justifié.
+[79] Pour ces motifs, les appels sont rejetés, avec dépens. Toutefois, l'intimée a droit à la taxation d'un seul mémoire de frais.
+Signé à Québec (Québec), ce 13e jour de décembre 2004.
+« Paul Bédard »
+Juge Bédard
+ANNEXE « A »
+1992
+1993
+1994
+1995
+1996
+Ventes additionnelles non déclarées :
+13 500 $
+Dépenses d'entretien d'équipement refusée
+673 $
+1 202 $
+21 644 $
+Dépense d'achat refusée
+2 417 $
+18 314 $
+Dépense d'entretien - local refusée
+143 $
+1 334 $
+Dépense de téléphone et d'électricité refusée
+9 864 $
+8 380 $
+7 431 $
+Dépense d'expositions et de location refusée :
+36 280 $
+40 053 $
+37 560 $
+48 461 $
+26 212 $
+Dépense de publicité refusée :
+3 595 $
+1 054 $
+2 967 $
+Dépense de frais de voyage refusée
+11 337 $
+Dépense de frais de déplacement refusée
+8 520 $
+34 824 $
+10 625 $
+1 035 $
+Dépense de frais de bureau refusée
+2 137 $
+257 $
+Dépense d'amortissement de véhicules refusée
+3 746 $
+11 362 $
+15 198 $
+20 032 $
+Dépense d'assurances et d'alarmes refusée
+424 $
+4 790 $
+2 994 $
+2 181 $
+Dépense de frais d'intérêts refusée
+1 677 $
+3 100 $
+4 434 $
+Dépense de frais de représentation
+171 $
+Dépense de taxes refusée
+5 440 $
+75 $
+Total des rajustements :
+36 280 $
+52 743 $
+109 213 $
+146 196 $
+86 011 $
+Pénalités appliquées selon le paragraphe 163(2) LIR
+2 329 $
+3 386 $
+12 943 $
+15 685 $
+12 523 $
+ANNEXE « B »
+1992
+1993
+1994
+1995
+1996
+Appropriation de fonds :
+13 500 $
+Dépenses personnelles payées par 91633 :
+Entretien et réparation - équipement
+1 644 $
+20 000 $
+Dépenses d'entretien de local
+507 $
+Téléphone et électricité
+766 $
+8 283 $
+7 884 $
+6 531 $
+Expositions et location matériel roulant :
+36 280 $
+40 053 $
+37 560 $
+48 459 $
+26 212 $
+Publicité
+2 529 $
+1 965 $
+2 967 $
+Dépense de main-d'oeuvre refusée
+5 440 $
+Frais de voyage
+2 130 $
+9 207 $
+Frais de déplacement
+8 555 $
+34 778 $
+1 035 $
+Frais de bureau
+1 984 $
+12 $
+Amortissement de véhicules
+3 746 $
+11 362 $
+15 198 $
+20 032 $
+Assurances et dépenses d'alarmes
+424 $
+4 790 $
+2 593 $
+2 181 $
+Intérêts pour financement
+1 677 $
+3 100 $
+4 433 $
+Frais de représentation
+171 $
+Taxes
+75 $
+Total des rajustements :
+36 280 $
+58 057 $
+102 728 $
+107 532 $
+83 466 $
+Pénalités appliquées :
+4 892 $
+7 703 $
+13 629 $
+14 267 $
+11 075 $
+RÉFÉRENCE :
+2004CCI760
+Nos DU DOSSIER DE LA COUR :
+2001-2721(IT)G, 2001-2720(IT)G
+INTITULÉ DE LA CAUSE :
+Michel Hébert et Sa Majesté la Reine et 91633 Canada Ltée et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+Le 12 mai 2004
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Paul Bédard
+DATE DU JUGEMENT :
+Le 13 décembre 2004
+COMPARUTIONS :
+Pour les appelants :
+Me Serge Fournier
+Pour l'intimée :
+Me Nathalie Lessard
+AVOCAT INSCRIT AUX DOSSIERS:
+Pour les appelants :
+Nom :
+Me Serge Fournier
+Étude :
+Brouillette Charpentier Fortin
+Montréal (Québec)
+Pour l'intimée:
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Page 20 de l'interrogatoire de l'appelant.
+[2] Les paddocks sont les endroits où les voitures reçoivent leurs préparatifs de dernière minute et où les gens peuvent voir les véhicules de près.
+[3] Pour les fins du rapport Genest, Groupe Amusement 222 comprenait les salles de jeux de l'appelante et les salles dans lesquelles l'appelant détenait directement ou indirectement une participation de 50 %.
+[4] Page 87 du contre-interrogatoire de l'appelant.
+[5] Pages 112 à 114 du contre-interrogatoire de l'appelant.
+[6] Page 123 du contre-interrogatoire de l'appelant.
+[7] Contre-interrogatoire de l'appelant à la page 225.
+[8] Contre-interrogatoire de l'appelant à la page 228.
+[9] Contre-interrogatoire de l'appelant à la page 217.
+[10] Interrogatoire de l'appelant aux pages 20, 23 et 24.
+[11] Contre-interrogatoire de l'appelant à la page 219.
+[12] Contre-interrogatoire de l'appelant à la page 217.
+[13] Contre-interrogatoire de l'appelant à la page 229.
+[14] [1993] 4 R.C.S. 695, [1993] A.C.S. no 131.
+[15] Symes, précitée.
+[16] [1979] 2 R.C.S. 172, aux pages 195 et 196.
+[17] Pages 233 à 243 du contre-interrogatoire de l'appelant.
+[18] Pages 206 à 232 du contre-interrogatoire de l'appelant.
+[19] Contre-interrogatoire de l'appelant aux pages 151 à 153 et 156 à 158.
+[20] Voir les paragraphes 31 et 35 des présents motifs.
+[21] Interrogatoire de l'appelant aux pages 32 à 34.
+[22] Pages 151 à 153 et pages 156 à 158 du contre-interrogatoire de l'appelant.
+[23] Sauf à une occasion où monsieur Lamarche a admis avoir entrevu la Viper : voir p. 7 de l'interrogatoire de monsieur Lamarche.
+[24] Pages 54 à 56 de l'interrogatoire de l'appelant.
+[25] Pages 232 à 236 du contre-interrogatoire de l'appelant.
+[26] Interrogatoire de l'appelant, pages 68 et 69.
+[27] Contre-interrogatoire de l'appelant, pages 129 et 130.

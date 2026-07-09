@@ -1,0 +1,153 @@
+Title: Cranston v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30094/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-414-30094-cranston-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-08-04
+
+# Cranston v. The Queen
+
+- Citation: 2010 TCC 414
+- Decision date: 2010-08-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7626, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cranston v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-08-04
+Neutral citation
+2010 TCC 414
+File numbers
+2007-4766(IT)G
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-4766(IT)G
+BETWEEN:
+ROBERT J. CRANSTON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on July 15, 2010, at London, Ontario,
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Ryan R. Hall
+____________________________________________________________________
+ORDER
+UPON motion by counsel for the respondent for an order quashing the appellant’s appeals in respect of the 1999, 2000 and 2001 taxation years;
+AND UPON reading the materials filed and hearing from the appellant and counsel for the respondent;
+IT IS ORDERED that the respondent's motion is granted. The appellant’s appeals for the 1999, 2000 and 2001 taxation years are quashed, with costs to the respondent.
+Signed at Ottawa, Canada, this 4th day of August 2010.
+“Lucie Lamarre”
+Lamarre J.
+Citation: 2010 TCC 414
+Date: 20100804
+Docket: 2007-4766(IT)G
+BETWEEN:
+ROBERT J. CRANSTON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Lamarre J.
+[1] The respondent brought a motion for an order quashing the appeals filed by the appellant before this Court with respect to reassessments made by the Minister of National Revenue (the “Minister”) for the 1999, 2000 and 2001 taxation years. The Respondent relies on paragraph 53(c) of the Tax Court of Canada Rules (General Procedure) (the “Rules”), which reads as follows:
+53. Striking out a Pleading or other Document – The Court may strike out or expunge all or part of a pleading or other document, with or without leave to amend, on the ground that the pleading or other document,
+. . .
+(c) is an abuse of the process of the Court.
+[2] The reassessments under appeal are based on the net worth analysis that was prepared by Steve Esseltine of the Canada Revenue Agency (“CRA”). As a consequence of that analysis, the Minister included in the appellant’s income unreported business income in the amounts of $136,241, $545,756 and $79,261 for the 1999, 2000 and 2001 taxation years respectively. He also assessed, for each of those years respectively, penalties against the Appellant in the amounts of $18,880, $79,404 and $7,351, pursuant to subsection 163(2) of the Income Tax Act (the “Act”), for knowingly, or under circumstances amounting to gross negligence, having made or participated in, assented to or acquiesced in, the making of a false statement or omission in reporting his income by failing to report the unreported business income with respect to which he was reassessed.
+[3] In the affidavit of Ifeanyi Nwachukwu (the “Affidavit”) attached to the notice of motion, it is stated at paragraphs 3(d) and following:
+3. d) that on November 7, 2006, in the Ontario Court of Justice in the matter of R. v. Robert Cranston, numbered 06 1828, Justice G.A. Pockele entered the following convictions of Mr. Cranston:
+i) three counts under paragraph 239(1)(a) of the Income Tax Act for having made, or participated in, assented to or acquiesced in the making of false or deceptive statements in a return made or required to have been made under the Act by failing to report the Unreported Income as net income from a business or a taxable source, and
+ii) three counts under paragraph 239(1)(d) of the Act for having willfully evaded or attempted to have evaded compliance with the Act or payment of taxes imposed by the Act by failing to report the Unreported Income as net income from a business or a taxable source;
+Attached hereto and marked Exhibits “A”, “B” and “C” to this my affidavit are true copies of the Information and related court materials, the transcript of Justice Pockele’s Reasons for Judgment and the transcript of the Proceedings on Sentencing (which include Justice Pockele’s Reasons for Sentence), respectively.
+e) that in so convicting Mr. Cranston, Justice Pockele made the following findings beyond a reasonable doubt:
+i) that Mr. Cranston did something that avoided or attempted to avoid paying tax, as “established through the income tax returns filed and the documentation, which shows his access, which Mr. Esseltine described as his net worth analysis – net worth statement, which I choose to find is a valid indicator of the monies in the hands of Mr. Cranston at that period of time.” (Exhibit “B”, page 22, lines 24 to 32, and page 23, lines 1 and 2);
+ii) that Mr. Cranston knew that there was a tax imposed by the Act, and specifically that “[d]ocumentation in his website and his business model demonstrates familiarity with the Income Tax Act.” (Exhibit “B”, page 23, lines 5 to 8);
+iii) that Mr. Cranston engaged in conduct for the purposes if [sic] avoiding or attempting to avoid the payment of income tax, such being “abundantly apparent from the transactions that were related to the Court in the evidence.” (Exhibit “B”, page 23, lines 10 to 15);
+iv) that the increase in Mr. Cranston’s net worth was attributable to a source of taxable income, the “Crown’s evidence here has shown that all of these various transactions are the source, from where the net worth springs. That is obvious and proven beyond a reasonable doubt.” (Exhibit “B”, page 23, lines 17 to 27);
+v) that there were no explanations of Mr. Cranston that are reasonably susceptible of being verified nor were any tendered by Mr. Cranston, and that the “prosecution has investigated all the available evidence. They have executed every search warrant. They have combed through every possible document to show linkage. Nothing else is there for them to check.” (Exhibit “B”, page 23, lines 29 to 32, and page 24, lines 1 to 6);
+vi) that the defendant did call defence witnesses, and that if there had been any rebuttal evidence to the prosecution’s evidence it was open to the defendant to present that to the Court (Exhibit “B”, page 22, lines 12 to 18);
+vii) that, with respect to the issue of whether the Crown was required to prove beyond a reasonable doubt the precise amount of Unreported Income to sustain the convictions, “in transactions such as these where the tax payer has operated and advocated a total atmosphere of deception, disguise and deceit, where he has done everything to provide no information whatsoever, the evidence the Crown presents to me satisfies me beyond a reasonable doubt because there is no contradictory evidence, whatsoever, to suggest these calculations are invalid.” [emphasis added] (Exhibit “B”, page 24, lines 24 to 32, and page 25, lines 1 to 9); and
+viii) that the evidence of Mr. Esseltine provides an “analysis of incomes and monies available [to Mr. Cranston], not a net worth as perhaps would be described in other litigation, but a document that satisfies to this Court beyond a reasonable doubt.” (Exhibit “B”, page 26, lines 2 to 7);
+f) that on January 16, 2007, Justice Pockele sentenced Mr. Cranston by
+i) conditionally staying the three counts under paragraph 239(1)(a) of the Income Tax Act (Exhibit “C”, page 52, lines 30 to 33); and
+ii) imposing a jail sentence of 14 months and a total fine of $200,000 on the three counts under paragraph 239(1)(d) of the Act (Exhibit “C”, page 64, lines 1 to 9, and page 54, line 21);
+g) that in the course of the sentencing proceedings, Justice Pockele made the following findings beyond a reasonable doubt:
+i) that “[e]ach of these charges outlines an amount of net income, a calculation of net income tax payable thereupon. They relate to three separate consecutive taxation years. I am going to begin by dealing with the question of a fine. The monetary fine that can be imposed for each of these three counts is a fine in the range of 50 to 200 percent of the tax owed. With calculation of the prosecution in this matter, that sum is around $209,000 – is the tax that is owed.” (Exhibit “C”, page 53, lines 3 to 15);
+ii) that “as to the amount that is alleged to be owed, I made findings of fact in the trial. The prosecution filed a document that was described as a net worth statement showing monies that flowed through Mr. Cranston’s hands and were enjoyed by him and were used to his benefit. While the document was titled a net worth statement, it wasn’t a pure net worth statement in accordance with acceptable accounting standards. That was critiqued by Mr. Hoare, a defence expert called on that issue. However, the statement filed by Mr. Esseltine was a – and I use the colloquial version – was a financial snapshot…of the monies that Mr. Cranston enjoyed, paying his day to day expenses and enabled him to enjoy such luxuries as the use or construction of an airplane…” (Exhibit “C”, page 53, lines 24 to 33, and page 54, lines 1 to 13);
+iii) that “the offence was not proven with the exactitude of a calculation made with an electronic calculator…the prosecution would ask me to deem the amount owed as being $209,000 and would ask that I impose a 100 percent fine, I am going to impose a total fine of $200,000. Count two, the fine will be $35,000. Count four, the fine will be $155,000 and count six will be $10,000…That comes – and it reflects the fact that the amount owed was not capable of being exactly calculated.” [emphasis added] (Exhibit “C”, page 54, lines 14 to 27);
+iv) that, in responding to defence counsel’s suggestion that Justice Pockele had not precisely determined the quantum of the unpaid taxes in his reasons for judgment, “there was one area that was about a $5000 potential problem one way or the other, and he was convicted on the amounts that were indicated in the information, but I think there was maybe an issue as to whether it was accurate within to that small range, but it wasn’t much more…I convicted him on the information as indicated, but we may be able to – with the 50 to 100 – 200 percent range, I think gives me some latitude in there.” [emphasis added] (Exhibit “C”, page 15, lines 18 to 33, and page 16, lines 1 to 8); and
+v) that in the course of the sentencing proceedings, Justice Pockele sought to confirm defence counsel’s position in respect of the quantum of the unpaid taxes and put to counsel that “I had your calculation of the unpaid tax at $202,689” whereas the Crown’s position was that the amount was $209,689 to which defence counsel conceded that “I was mistaken, my two is a nine” (Exhibit “C”, page 42, lines 29 to 33, and page 43, lines 1 to 10);
+h) that Mr. Cranston appealed the convictions and sentence to the Ontario Superior Court of Justice, appeal numbered 597;
+i) that the Ontario Superior Court of Justice dismissed Mr. Cranston’s appeal per the judgment of Justice R.J. Haines dated April 17, 2009. Attached hereto and marked Exhibit “D” to this my affidavit is a true copy of the Judgment of Justice R.J. Haines;
+j) that Mr. Cranston appealed his conviction on three grounds, including that Justice Pockele erred in
+i) allowing Mr. Esseltine to be qualified as an expert in accounting, and
+ii) convicting him on the basis of a “net worth” statement;
+(Exhibit “D”, paragraph 2);
+k) that Mr. Cranston did not appeal his conviction on the basis of there being any fresh evidence;
+l) that Justice R.J. Haines disturbed none of the findings of fact of the trial judge, and specifically found that “there was ample evidence to support his findings notwithstanding certain shortcomings in the net worth analysis.” (Exhibit “D”, paragraph 14); and
+m) that Justice R.J. Haines noted that despite the trial judge’s acceptance of the defence expert witness’s views that the net worth analysis was not a personal net worth (Exhibit “D”, paragraph 14), he did observe the following conclusions of the trial judge:
+The various documents for all practical purposes showed Mr. Cranston was, in the case of trusts, the first trustee and settler; in the case of the various corporate accounts was the individual in control of the accounts; in the event of trusts, he was also the beneficiary of the trust. For all practical purposes, Mr. Cranston was the person in control of all monies flowing into and out of these accounts.
+(Exhibit “D”, paragraph 20).
+[4] In court, counsel for the respondent argued that it would be an abuse of process for the appellant to relitigate by way of the present appeals the very same matters that have been decided in the criminal proceedings. Counsel relied on the doctrines of issue estoppel and abuse of process to ask this Court to exercise its discretion to estop or bar the appellant from relitigating matters that have already been judicially decided.
+[5] In Golden v. The Queen, 2008 TCC 173, 2008 DTC 3363, confirmed by the Federal Court of Appeal, 2009 FCA 86, 2009 DTC 5814, Boyle J. of this Court sets out the preconditions for the application of issue estoppel as follows, at paragraphs 20, 23, 24, and 25:
+[20] It is open to this Court to apply the doctrine of issue estoppel to prevent relitigation of matters already decided in another court proceeding. The Federal Court of Appeal has confirmed that issue estoppel can apply in a civil proceeding in the Tax Court where the issue estoppel is based on a conviction in a criminal case: Van Rooy v. M.N.R., 88 DTC 6323.
+. . .
+[23] The preconditions for the application of issue estoppel are:
+1. the earlier court decision must have decided the same question that is before this Court, and the question was fundamental to the earlier court’s decision;
+2. the earlier court decision must be final; and
+3. there must be a mutuality of parties in the proceedings, that is, the parties to the earlier judicial decision or their privies need be the same persons as the parties in this proceeding or their privies.
+[24] The doctrine of issue estoppel is not to be applied automatically or inflexibly once the preconditions are established. It remains for this Court to decide whether, as a matter of discretion, issue estoppel ought to be applied or if its application would be unfair in these particular circumstances.
+[25] The doctrine of issue estoppel should only be applied in a tax appeal in this Court in respect of a prior criminal tax evasion conviction in clear cases. It should not be applied indiscriminately once the preconditions are met. The Court should be satisfied that the issue of quantum in each particular taxation year was decided in the criminal proceedings.
+[6] Boyle J. also discusses abuse of process at paragraphs 29 and 30:
+[29] Abuse of process is also a doctrine that should only be applied in the Court’s discretion and requires a judicial balancing with a view to deciding a question of fairness. However, it differs somewhat from a consideration of the possible application of issue estoppel in that the consideration is focused on preserving the integrity of the adjudicative process more so than on the status, motive or rights of the parties.
+[30] Relitigation should be avoided unless it is in fact necessary to enhance the credibility and effectiveness of the adjudicative process. This could be the case where (1) the first proceeding is tainted by fraud or dishonesty; (2) fresh new evidence, previously unavailable, conclusively impeaches the original result; or (3) when fairness dictates that the original result should not be binding in the new context.
+[7] In counsel’s view, the issues decided in the prior criminal proceedings were in fact the same issues as those that are now being raised by the appellant in his Notice of Appeal herein. Indeed, the appellant argued in his pleadings before this Court that the statement of personal net worth has no grounds or facts to support its conclusions, that the assessments were made without an audit, without review and without investigation, and that there is no evidence of earned income in any of the schedules. In his response to a request for particulars, the appellant said that he did not earn any personal income and that the assets belonged to a corporation, not to him.
+[8] The Information whereby the charges were laid in the criminal proceedings (Exhibit A of the motion record), shows that the amounts of unreported income with regard to which Pockele J. of the Ontario Court of Justice convicted the appellant were the same as the amounts of unreported income at issue in the present appeals.
+[9] At pages 25-26 of his judgment, Pockele J. states that since no contrary evidence was adduced, the evidence presented by the Crown in the course of an eight-day trial satisfied him that the Minister’s calculations were valid:
+...But in transactions such as these where the tax payer has operated and advocated a total atmosphere of deception, disguise and deceit, where he has done everything to provide no information whatsoever, the evidence the Crown presents to me satisfies me beyond a reasonable doubt because there is no contradictory evidence, whatsoever, to suggest these calculations are invalid.
+I make the finding that the mens rea has been demonstrated through the actions of the accused, through the website and that the offence has been proven by the activities and the evidence that has been heard in this matter.
+While I have been making reference throughout this matter to the summaries of evidence provided by counsel, in this matter I have had the opportunity to review all of the evidence in this matter: The numerous witnesses who were called upon to testify, all of whom I accept their evidence as being entirely accurate; the evidence of Mr. Esseltine and the weight I give to those elements of his evidence, I integrate in this matter; the evidence of the citizens, Mrs. Calvo, Ms. Antolini; the evidence of Mooney (sic), Mahon, Bodo Grahl, Chris Gallant, Fayyez Ahmad who helped establish the source of incomes, the sale, Barb Dressel and Mr. Burt. All of these witnesses testified in this matter were of some assistance. Mr. Hoare’s evidence was helpful, but perhaps not particularly applicable to the unique situation in this prosecution. I would again describe Mr. Esseltine’s evidence in Court as providing an analysis of incomes and monies available, not a net worth as perhaps would be described in other litigation, but a document that satisfies to this Court beyond reasonable doubt.
+[10] Further, in his Reasons for Sentence, Pockele J. relied on the calculation of tax payable agreed upon by both defence counsel and the prosecution in that matter. He convicted the appellant on the basis of the amounts set forth in the Information laid in the criminal proceedings, which are the very same amounts as those that are at issue in the appeals before this Court.
+[11] The appellant unsuccessfully appealed his convictions to the Ontario Superior Court of Justice, which confirmed the Ontario Court’s decision on the basis that there was ample evidence to support Pockele J.’s findings.
+[12] In the motion herein, counsel for the respondent argued that the appellant did not present any fresh new evidence that would impeach the result arrived at by Pockele J. Further, counsel argued that it would not be unfair for this Court to exercise its discretion to apply the doctrines of issue estoppel or abuse of process. On the contrary, this Court’s not applying them would adversely affect the credibility and the integrity of the judicial system in that we might have a multiplicity of proceedings on a matter that has already been decided. There would also be the risk of divergent decisions of this Court and the Ontario Court of Justice.
+[13] I agree. The appellant stated at the end of the respondent’s presentation that he agreed with everything the Crown had stated. His Notice of Appeal raises no new issue; there is no new, previously unavailable evidence, and there is no allegation that the criminal proceedings were tainted by fraud or dishonesty. The appellant’s position before this Court is exactly the same as his position before the Ontario Court of Justice with respect to the same net worth analysis, and the latter court reached a conclusion based on the unreported amounts of income that are the basis of the assessments under appeal. In my view, this is a case in which the doctrines of issue estoppel or abuse of process may be applied, bearing in mind, however, that they should be applied very restrictively (see Neeb v. R., [1997] 2 C.T.C. 2343).
+[14] As for the penalties, they were assessed on the basis of the unreported income amounts with respect to which the appellant was convicted.
+[15] In Golden, Boyle J. stated at paragraph 49:
+I also find that issue estoppel applies to Mr. Golden with respect to the gross negligence penalty assessed in respect of the $34,000 of his undeclared income. Mr. Golden’s criminal mens rea and wilfulness was an integral and fundamental component of the jury’s guilty verdicts. Mens rea was established beyond a reasonable doubt. Proof of criminal mens rea beyond a reasonable doubt satisfies the onus on the Crown under the subsection 163(2) gross negligence penalties of the Income Tax Act to establish Mr. Golden’s under-reporting was wilful or in circumstances amounting to gross negligence.
+[16] Pockele J. came to a similar conclusion in entering the appellant’s convictions (see Affidavit, subparagraph 3(d)(i)).
+[17] For the reasons set out above, I will grant the motion and the appeals will be quashed, with costs to the respondent.
+Signed at Ottawa, Canada, this 4th day of August 2010.
+“Lucie Lamarre”
+Lamarre J.
+CITATION: 2010 TCC 414
+COURT FILE NO.: 2007-4766(IT)G
+STYLE OF CAUSE: ROBERT J. CRANSTON v. THE QUEEN
+PLACE OF HEARING: London, Ontario
+DATE OF HEARING: July 15, 2010
+REASONS FOR ORDER BY: The Honourable Justice Lucie Lamarre
+DATE OF ORDER: August 4, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Ryan R. Hall
+COUNSEL OF RECORD:
+For the Appellant: N/A
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

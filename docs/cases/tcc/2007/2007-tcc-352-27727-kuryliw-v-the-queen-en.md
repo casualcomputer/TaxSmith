@@ -1,0 +1,199 @@
+---
+title: "Kuryliw v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27727/index.do"
+last_modified: "2007-06-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 352"
+citation2: ""
+neutral_citation: "2007 TCC 352"
+decision_date: "2007-06-14"
+language: "en"
+item_id: "27727"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 478
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:01:18.501000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "80b7f1e01c9947279ce1b707315844c106b76226ca47d1a57b1478a49d5b1c4a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kuryliw v. The Queen
+
+- Citation: 2007 TCC 352
+- Decision date: 2007-06-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 478, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kuryliw v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-06-14
+Neutral citation
+2007 TCC 352
+File numbers
+2004-4339(IT)G
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-4339(IT)G
+BETWEEN:
+PETER KURYLIW,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on September 6, 2006, at Toronto, Ontario
+By: The Honourable Justice E.A. Bowie
+Appearances:
+Counsel for the Appellant:
+Damien R. Frost
+Counsel for the Respondent:
+Natalie Goulard
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income tax Act for the 2001 taxation year is allowed, with costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the appellant is not liable for tax on the amount of $220,000 represented by the bank drafts.
+Signed at Ottawa, Canada, this 14th day of June, 2007.
+“E.A. Bowie”
+Bowie J.
+Citation: 2007TCC352
+Date: 20070614
+Docket: 2004-4339(IT)G
+BETWEEN:
+PETER KURYLIW,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowie J.
+[1] This appeal is brought from an assessment for income tax for the taxation year 2001. The appellant was assessed tax on an income of $274,717; the appellant’s position is that his income for the year was $30,000. The assessment under appeal is made up of seven components:
+$16,396, being the aggregate of withdrawals and purchases from the account of 1473253 Ontario Inc. (the corporation) at the Bank of Montreal;
+$38,321, being the aggregate of withdrawals and purchases from the account of the corporation at the TD Canada Trust Bank;
+$70,000 bank draft from the account of the corporation at the Bank of Montreal payable to Comdex Foreign Exchange;
+$20,000 bank draft from the account of the corporation at the TD Canada Trust Bank payable to Toronto Mercantile Financial;
+$70,000 bank draft from the account of the corporation at the TD Canada Trust Bank payable to Comdex Foreign Exchange;
+$20,000 bank draft from the account of the corporation at the TD Canada Trust Bank payable to Toronto Mercantile Financial;
+$40,000 bank draft from the account of the corporation at the TD Canada Trust Bank payable to Toronto Mercantile Financial.
+[2] The theory by which the Minister of National Revenue arrived at the decision to assess the appellant in respect of these amounts will be best understood by setting out here the assumptions of fact that are pleaded in paragraph 25 of the respondent’s Reply to the Notice of Appeal.
+25. In assessing the appellant for the 2001 taxation year and in confirming that assessment, the Minister of National Revenue relied on the following assumptions of fact:
+a) The appellant was the sole shareholder and director of 1473253 Ontario Inc. o/a Yellowbusiness.ca (the “Corporation”)
+b) The Corporation targeted businesses and charities with a deceptive mailing scheme. Invoices that appeared to be from Bell Canada or the Yellowpages were mailed out asking recipients to submit payment for an internet directory.
+c) The appellant was charged with false or misleading representations under section 52 of the Competition Act, R.S.C. 1985, c. C-34, for his role in the mailing scheme. He pled guilty on May 28, 2002.
+d) The proceeds for the Corporation as a result of the deceptive mailings total approximately $409,000.
+e) The appellant had sole signing authority on the Corporation’s bank accounts: Bank of Montreal account #0368-1028431 (the “Bank of Montreal account”) and TD Bank account #1152-0308657 (the “TD account).
+f) The appellant used and allocated the corporation’s funds at his discretion.
+g) Personal expenditures of the Appellant were paid for using funds from the corporate bank accounts. Numerous cash withdrawals were also made from the corporate bank accounts.
+h) During the period of April 1, 2001 to December 31, 2001, purchases and withdrawals in the amount of $16,396.56 were made from the Bank of Montreal Account for the benefit of the Appellant.
+i) During the period of April 1, 2001 to December 31, 2001, purchases and withdrawals in the amount of $38,321.52 were made from the TD Bank account for the benefit of the appellant.
+j) The appellant also directed that certain payments be made by way of bank drafts. These bank drafts were purchased by the appellant from the Bank of Montreal Account and the TD Account and directed to various foreign exchange companies:
+Date
+Amount
+Transferred from
+Transferred to
+May 23/01
+$20,000
+TD account
+Toronto Mercantile Financial
+May 25/01
+$20,000
+TD account
+Toronto Mercantile Financial
+May 25/01
+$70,000
+TD account
+Comdex Foreign Exchange
+May 28/01
+$40,000
+TD account
+Toronto Mercantile Financial
+May 29/01
+$70.000
+Bank of Montreal account
+Comdex Foreign Exchange
+TOTAL
+$220,000
+[3] The appellant’s evidence was quite different. He stated that he was unemployed and awaiting trial on charges unrelated to these events when he was approached by one James Tetaka with a business proposition that he accepted. He was to be the “front man” for a corporation to be set up to carry on what he thought was to be a legitimate business. He understood that one Elliot Benlolo would put up the money to begin the business, and he and others would be the beneficial owners of the shares of the corporation. The appellant was to incorporate the business, open two bank accounts for it, and he was to be the person who acted for the company in all its dealings. He would also be the sole shareholder and director of the corporation. James Tetaka acted as an intermediary between Benlolo and the appellant, at least during the initial stages of the operation. Tetaka completed the forms to incorporate 1473253 Ontario Inc., and he provided the appellant with $1,000.00 to pay for the incorporation, and to make the initial deposits in the two bank accounts that he opened at the Bank of Montreal and TD Canada Trust. He also obtained post office boxes at four different local postal outlets.
+[4] The business to be conducted consisted of mailing what appeared to be an invoice for payment due to a large number of businesses with the intention of inducing them to think that they had subscribed to be listed in an internet business directory and that they were obliged to pay the invoice. In the event, many of them did exactly that. The financial arrangement, as the appellant described it, was that one Victor Serfaty provided a mailing list, for which he was to be paid $100,000 from the proceeds of the mail solicitation. After this and all the other expenses were paid the appellant would receive 10% of the profits from the enterprise.
+[5] The appellant arranged for office space and purchased computers and other supplies for the operation, but always, he said, on the instructions of Elliot Benlolo. The mailing was arranged through a commercial mailing service. When the responses to the mailing started to come in the appellant picked up the mail at the post office boxes, and he met with Elliot Benlolo, Victor Serfati, and James Tetaka to open it. Initially these meetings, he said, took place at a motel; later, when they had an office, they met there. He said that he took the proceeds to the bank and that, on the instructions of Elliot Benlolo, he purchased the five bank drafts referred to in paragraph 1 above, and he turned these over to Benlolo as he was told to do. He said that he did not know what Benlolo did with them.
+[6] In early June, 2001, the appellant was arrested and search warrants were executed at the corporation’s office. He and the corporation were charged with misleading advertising. As the result of a plea bargain, the appellant was fined $30,000 and ordered to wind up the company.
+[7] The appellant was cross-examined at some length as to the bank accounts. His was the only signature required on both accounts, and he had the only debit cards for the accounts. He said that he made withdrawals and used the debit cards to pay some expenses such as his automobile expenses and the charges for the motel rooms where they met to open the mail. He also said that he took some cash and used the debit cards to pay some personal expenses of his own, but only after getting Elliot Benlolo’s approval to do so. That seems to have changed after his conviction in May, 2002, when he started to treat the accounts as his own, but by then almost all the proceeds had been distributed. He said repeatedly on cross‑examination that he took no funds without Elliot Benlolo’s approval because the money in the accounts was not his, but belonged to the investors for whom he held the shares. He estimated that, with Elliot Benlolo’s approval, he took $30,000 for his own benefit as his share of the proceeds. The Minister contends that all the withdrawals and all the debit card expenditures from the two accounts in the corporation’s name were made by the Appellant for his own personal benefit, and therefore are taxable in his hands pursuant to subsection 15(1) of the Income Tax Act (the Act). The appellant was emphatic in his evidence that it was not he but the “investors” who put up the money who owned the shares. He did not use the word, but it was his position that he held the shares only as trustee for the investors. He was vague, however, as to who the real owners were; all he knew about that was that Elliot Benlolo gave him his instructions, and he followed them.
+[8] The Minister has assessed the appellant under subsection 15(1) of the Act in respect of the amounts withdrawn and the debit card purchases made from the two corporate bank accounts, and under subsection 56(2) in respect of the aggregate amount of the five bank drafts. Those provisions read as follows:
+15(1) Where at any time in a taxation year a benefit is conferred on a shareholder, or on a person in contemplation of the person becoming a shareholder, by a corporation otherwise than by
+[the exceptions are irrelevant in this case]
+the amount or value thereof shall, except to the extent that it is deemed by section 84 to be a dividend, be included in computing the income of the shareholder for the year.
+56(2) A payment or transfer of property made pursuant to the direction of, or with the concurrence of, a taxpayer to some other person for the benefit of the taxpayer or as a benefit that the taxpayer desired to have conferred on the other person …[irrelevant exception]… shall be included in computing the taxpayer's income to the extent that it would be if the payment or transfer had been made to the taxpayer.
+If I accept the appellant’s evidence as being truthful, then of course the appeal must succeed, because the only benefit to the appellant from the withdrawals and debit card purchases would have been the $30,000 that he accepts as being his income, and the payments or transfers made by way of the bank drafts would not have been made pursuant to his direction, but that of Elliot Benolo, and they would not have been made to benefit the appellant or someone upon whom he wished to confer a benefit.
+[9] In McKinnon v. Harris,[1] Meredith J.A. proposed five questions that the Court should address when considering a claim based entirely on parol evidence that property is held by one party in trust for another. They are:
+(i) is the claim supported by probability?
+(ii) is it supported by writing in any form?
+(iii) is it supported by any indisputable facts?
+(iv) is it supported by disinterested testimony?
+(v) is the parol evidence quite satisfactory and convincing?
+This guide has been followed by Cattanach J. of the Federal Court – Trial Division,[2] and by Rip J. (as he then was) in this Court.[3] I do not find the first question to be particularly helpful in the context of this case. It might seem improbable that Bonolo would simply have the shares of the corporation held by the appellant without any written evidence of the true ownership of them, if in fact he were the true owner, until one considers the illegality of the enterprise that the corporation was established to pursue. In that light the improbability is greatly diminished. Certainly, the answer to the second question is “no”, and that too may be attributed in large measure to the illegal nature of the business. There are neither indisputable facts nor any disinterested testimony that support the appellant’s contention that he was merely a nominee for others in the ownership of the shares. The only explanation offered for the appellant’s failure to call any of the other participants that he said took part in the scheme was, if I understood correctly, that they could not be expected to tell the truth. For the most part the appellant’s evidence was consistent, but without corroboration I do not find that it is convincing. At paragraph 25(h) and (i) of the Reply to the Notice of Appeal it is pleaded specifically that the various payments and withdrawals from the bank accounts amounting in the aggregate to $54,718.08 were made for the benefit of the appellant. Although the appellant denied this in his evidence (except as to the amount of $30,000), I am not satisfied by his evidence that this assumption was incorrect.
+[10] I turn now to consider the respondent’s contention that the appellant is liable to taxation under subsection 56(2) of the Act on the $220,000 aggregate amount of the bank drafts. In Neuman v. M.N.R.,[4] Iacobucci J. points out that there are four essentials that must be satisfied for the Minister to be entitled to assess under that subsection:
+32 In order for s. 56(2) to apply, four preconditions, each of which is detailed in the language of the s. 56(2) itself, must be present:
+(1) the payment must be to a person other than the reassessed taxpayer;
+(2) the allocation must be at the direction or with the concurrence of the reassessed taxpayer;
+(3) the payment must be for the benefit of the reassessed taxpayer or for the benefit of another person whom the reassessed taxpayer wished to benefit; and
+(4) the payment would have been included in the reassessed taxpayer’s income if it had been received by him or her.
+There is little in the evidence about the bank drafts. It is not in dispute that they were purchased by the appellant. He said that he bought them on the instructions of Benlolo, and he gave them to Benlolo, and that he does not know what happened to them after that. I do not find that evidence any more convincing than the other parts of his evidence. However, the only assumptions made by the Minister with respect to the drafts, although not rebutted by the appellant, fall short of fulfilling the requirements of subsection 56(2). The Minister assumed that:
+(a) the appellant directed that certain payments be made by way of the drafts;
+(b) the drafts were purchased by the appellant;
+(c) the drafts were directed to certain foreign exchange companies;
+[11] In paragraph 26(a) of the Reply to the Notice of Appeal the Deputy Attorney General of Canada has framed the issue to be decided as to the drafts in this way:
+Whether payments in the aggregate amount of $220,000 were made pursuant to the direction of the Appellant to some other persons as a benefit that the Appellant desired to have conferred on those other persons?
+None of these assumptions identifies either the appellant or another person on whom the appellant wished to confer a benefit as the proposed ultimate recipient of the funds. There is no evidence to establish that the foreign exchange companies were the intended recipients of a benefit, nor has that been assumed by the Minister in assessing. In effect, I am asked to infer that because the business of this corporation was an illegal one, the intention of the appellant in purchasing the drafts with the corporation’s funds must have been to confer a benefit on someone other than himself. Neither the Minister’s assumptions nor the evidence at trial, nor both together, establish that, nor is there a sound basis upon which to infer it. As Bowman C.J. has recently said,[5] it is not for the Court to fill the lacunae in either party’s case. If the Minister was not prepared to draw the inference that the appellant intended to benefit either the foreign exchange companies or some other person, and then to plead it as an assumption supporting the assessment, it is difficult to see why I should do so. I have no more evidence from which to draw that inference than the assessor had.
+[12] In the result, then, the appeal will be allowed and the assessment will be referred back to the Minister for reconsideration and reassessment on the basis that the appellant is not liable for tax on the amount of $220,000 represented by the bank drafts. The appellant has been successful as to approximately 80% of the amount in issue and so he should have his costs.
+Signed at Ottawa, Canada, this 14th day of June, 2007.
+“E.A. Bowie”
+Bowie J.
+CITATION: 2007TCC352
+COURT FILE NO.: 2004-4339(IT)G
+STYLE OF CAUSE: PETER KURYLIW and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: September 6, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice E.A. Bowie
+DATE OF JUDGMENT: June 14, 2007
+APPEARANCES:
+Counsel for the Appellant:
+Damien R. Frost
+Counsel for the Respondent:
+Natalie Goulard
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Damien R. Frost
+Firm: Lomer, Frost LLP
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [1909] 14 O.W.R. 876 @ 878.
+[2] Bouchard v. The Queen 83 DTC 5193.
+[3] Miconi v. M.N.R. 85 D.T.C. 696.
+[4] [1998] 1 S.C.R. 770 @ para. 32.
+[5] Francis v. The Queen, 2007TCC323.

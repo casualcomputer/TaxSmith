@@ -1,0 +1,148 @@
+---
+title: "Rapuano c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29142/index.do"
+last_modified: "2009-03-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 150"
+citation2: ""
+neutral_citation: "2009 CCI 150"
+decision_date: "2009-03-12"
+language: "fr"
+item_id: "29142"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6642
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:04:46.617000+00:00"
+cases_cited_count: 4
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e7974bbd709e1913d21832a51acc1615bc3a7f6c456ae22c1aa04c0ea7f14680"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Rapuano c. La Reine
+
+- Citation: 2009 CCI 150
+- Decision date: 2009-03-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6642, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rapuano c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-03-12
+Référence neutre
+2009 CCI 150
+Numéro de dossier
+2008-1384(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-1384(IT)I
+ENTRE :
+SALVATORE RAPUANO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 4 mars 2009, à Toronto (Ontario).
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Représentant de l’appelant :
+John A. Milewski
+Avocate de l’intimée :
+Me Sonia Singh
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre des cotisations établies à l’égard de l’appelant en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2004 et 2005 est rejeté.
+Signé à Toronto (Ontario), ce 12e jour de mars 2009.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 20e jour d’avril 2009.
+Alya Kaddour‑Lord, traductrice
+Référence : 2009CCI150
+Date : 20090312
+Dossier : 2008-1384(IT)I
+ENTRE :
+SALVATORE RAPUANO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] L’appelant, Salvatore Rapuano, interjette appel des cotisations d’impôt sur le revenu établies à son endroit pour les années d’imposition 2004 et 2005.
+[2] La question en litige porte sur les pertes locatives afférentes à la résidence principale de M. Rapuano que ce dernier a déduites dans le calcul de son revenu.
+[3] Dans les cotisations, la déduction des pertes subies par l’appelant a été refusée en totalité. M. Rapuano avait déduit de son revenu une somme de 2 769 $ pour l’année d’imposition 2004, et de 6 390 $ pour l’année d’imposition 2005.
+[4] En tout premier lieu, le ministre du Revenu national (le « ministre ») fait valoir que l’activité locative ne constituait pas une source de revenu pour M. Rapuano. Pour étayer sa position, l’avocate de l’intimée fait référence aux arrêts Stewart c. Canada, 2002 CSC 46, 2002 DTC 6969, et Jarquio c. Canada, 2003 CAF 80, 2003 DTC 5164.
+[5] Le représentant de M. Rapuano soutient que l’activité en cause constituait une source de revenu.
+[6] M. Rapuano et son épouse ont tous deux témoigné à l’audience. Ils me sont tous deux apparus comme des témoins crédibles, et je considère leur témoignage comme étant digne de foi.
+Le contexte
+[7] En 1995, les Rapuano ont acheté une maison de 3 000 pieds carrés comptant quatre chambres à coucher à Mississauga. Cette résidence comportait un sous‑sol avec entrée indépendante que l’appelant se proposait d’aménager et de louer.
+[8] En 1996, M. Rapuano a connu de graves problèmes de santé et n’a pas pu aménager le sous‑sol.
+[9] Après sa maladie, il est devenu difficile pour M. Rapuano de payer les dépenses afférentes à la maison. Aussi, M. Rapuano et son épouse ont décidé de demander un loyer modeste à leurs deux enfants qui habitaient chez eux. À partir de 2004, leur fils, qui vivait à leur domicile avec sa femme et ses trois enfants, a commencé à leur verser un loyer mensuel de 500 $. En 2005, après avoir fini ses études, leur fille a commencé à leur verser un loyer de 200 $ par mois.
+[10] D’après certains documents présentés par le ministre, le fils et la fille des Rapuano ont déclaré à l’Agence du revenu du Canada avoir versé à leurs deux parents le loyer pour 2005.
+[11] Dans ses déclarations de revenu pour 2004 et 2005, M. Rapuano a déduit de son revenu des pertes locatives.
+[12] Aux fins du calcul de ses pertes, en 2004, M. Rapuano a déduit de son revenu 50 % des dépenses afférentes à la maison à titre de frais découlant de l’activité locative; en 2005, il a déduit de son revenu 75 % des dépenses afférentes à la maison à ce même titre. Le reste des dépenses relatives à la maison ont été considérées comme personnelles.
+[13] La façon dont cette répartition au prorata a été effectuée ne ressort pas clairement de la preuve. Toutefois, les pourcentages semblent correspondre au nombre de chambres occupées par chacun des membres de la famille.
+Analyse
+[14] En de telles circonstances, il convient d’appliquer le principe que la Cour suprême du Canada a bien établi dans l’arrêt Stewart.
+[15] Essentiellement, le contribuable doit prouver qu’il avait l’intention de réaliser un profit en se livrant à l’activité en cause, ce qui doit être déterminé en fonction de facteurs tant subjectifs qu’objectifs. Le paragraphe 54 de l’arrêt Stewart est ainsi rédigé :
+[…] Outre le fait que, pour qu’une activité soit qualifiée de commerciale par nature, le contribuable doit avoir l’intention subjective de réaliser un profit, il faut aussi, tel que mentionné dans l’arrêt Moldowan, que cette détermination se fasse en fonction de divers facteurs objectifs. […]
+[16] En l’espèce, il ressort clairement des témoignages que les Rapuano n’avaient pas l’intention de tirer profit du loyer qu’ils demandaient à leurs enfants. Il s’agissait essentiellement d’un arrangement familial, un montant modeste étant demandé afin d’aider à payer les coûts d’entretien de la maison.
+[17] En l’espèce, bien qu’il ne soit pas nécessaire d’aller au‑delà des facteurs subjectifs, la présente conclusion repose sur des éléments de preuve objectifs, le plus significatif étant le montant modeste du loyer qui a été demandé.
+[18] Le représentant de l’appelant, M. Milewski, fait valoir que l’intention de profit est établie par le projet consistant à aménager et à louer le sous‑sol.
+[19] Je ne souscris pas à cet argument.
+[20] À l’origine, quand les Rapuano ont acheté la maison avec l’intention d’aménager et de louer le sous‑sol, il se peut bien qu’ils aient eu l’intention de se lancer dans une entreprise susceptible de générer un profit à l’avenir. Toutefois, leurs plans n’ont jamais été mis en œuvre et la maison n’a jamais constitué une source de revenu. Si leurs plans devaient se concrétiser à l’avenir, il se pourrait alors qu’une source de revenu apparaisse.
+[21] À la lumière des présentes conclusions, il n’est pas nécessaire d’examiner les arguments subsidiaires que le ministre a avancés.
+[22] L’appel est rejeté.
+Signé à Toronto (Ontario), ce 12e jour de mars 2009.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 20e jour d’avril 2009.
+Alya Kaddour‑Lord, traductrice
+RÉFÉRENCE : 2009CCI150
+NO DU DOSSIER DE LA COUR : 2008-1384(IT)I
+INTITULÉ : Salvatore Rapuano et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 4 mars 2009
+MOTIFS DU JUGEMENT : L’honorable juge J. Woods
+DATE DU JUGEMENT : Le 12 mars 2009
+COMPARUTIONS :
+Représentant de l’appelant :
+John A. Milewski
+Avocate de l’intimée :
+Me Sonia Singh
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : s.o.
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

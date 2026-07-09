@@ -1,0 +1,175 @@
+---
+title: "Labrecque v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30986/index.do"
+last_modified: "2012-10-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 339"
+citation2: ""
+neutral_citation: "2012 TCC 339"
+decision_date: "2012-10-16"
+language: "en"
+item_id: "30986"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4805
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:06:33.707000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d1b8dcf8b37383cc938ee506c0d3fd88aa31b1ea142a627c28e56083636bd606"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Labrecque v. The Queen
+
+- Citation: 2012 TCC 339
+- Decision date: 2012-10-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4805, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Labrecque v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-10-16
+Neutral citation
+2012 TCC 339
+File numbers
+2012-116(GST)I
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2012-116(GST)I
+BETWEEN:
+PIERRE LABRECQUE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on August 22, 2012, at Québec, Quebec
+Before: The Honourable Justice Paul Bédard
+Appearances:
+For the appellant
+The appellant himself
+Counsel for the respondent:
+Éric Labbé
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made in respect of the appellant under subsection 323(1) of the Excise Tax Act is allowed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, on this 16th day of October 2012.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 3rd day of December 2012
+Monica F. Chamberlain, Translator
+Citation: 2012 TCC 339
+Date: 20121016
+Docket: 2012-116(GST)I
+BETWEEN:
+PIERRE LABRECQUE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] This is an appeal from an assessment made in respect of the appellant under subsection 323(1) of the Excise Tax Act (the ETA). At issue is whether, as a director of 9197-6613 Québec Inc. (the corporation), the appellant is solidarily liable, together with the corporation, to pay $2,512.06, the amount of net tax the corporation failed to remit, interest and penalties.
+Appellant’s Position
+[2] The appellant acknowledges that he was a director of the corporation during the relevant period. However, the appellant claimed that he lost all administrative and decision-making power in the corporation to rather dangerous criminals. Consequently, he claims that given the lack of effective control over the corporation's affairs, he should not be subject to the application of section 323 ETA. In other words, the following question must be answered: does the lack of effective control over the corporation's affairs constitute, in itself, a defence that can be raised by a de jure director to avoid the application of section 323 ETA?
+[3] The appellant testified. As well, Matthieu Bourgeois (a Canada Revenue Agency (CRA) collections officer) and Jean‑Noël Lacroix testified in support of the respondent’s position.
+[4] The testimony of the appellant may be summarized as follows: I lost all control over the corporation's affairs to dangerous criminals, as they made it clear to me that I would suffer retaliation if I did not obey their orders. Given that the appellant's testimony essentially involved reiterating the facts set out in the sworn statement that he made to the Québec police, (a statement that described in particular the circumstances under which the criminals allegedly took control of the corporation and threatened him), it seems useful to me to reproduce it in its entirety. The statement reads as follows:
+[Translation]
+At a first meeting (July 2008) with Jean‑Noël Lacroix (Sarto), my partner, Michel Bruyère, and André Leclerc (in his words, the right-hand man of Jean‑Michel Lacroix), Michel Bruyère asked Lacroix for help finding $50,000.00 in financing for his share in the flea market "La Riposte Inc." because each partner had agreed to invest this amount. To obtain this amount, Michel Bruyère's wife had a house that once sold would provide Michel Bruyère with $50,000.00 to invest in the flea market. This house was located in Lac St‑Charles. Before this meeting I had never heard of Jean‑Noël Lacroix or any other member of his entourage. The first meeting took place at Lacroix's residence in the Lebourneuf sector in an expensive house, with a black Mercedes sports car in the driveway. That was when Lacroix offered to sell the house so Michel Bruyère could have his money from the proceeds of the sale to invest in the flea market. During this meeting, Lacroix told me that he was, in a manner of speaking, the biggest swindler and fraud-artist in Québec, that he got rich by defrauding Lamidor, heating experts and Sécurex. He had won his cases against the police and he was more powerful than the system. At the end of this meeting I told Bruyère that he was free to do as he pleased but as for me I did not want any problems with that guy, that I had the money to open the flea market alone and that if he couldn't find the money he needed under our agreement, I would find someone else, but out of respect for all the work Bruyère had done (contact, negotiations, effort to find a location for the market) I waited for him to finalize his negotiations with Jean‑Noël Lacroix.
+Following the withdrawal of Roland Bernier (investor) and the deadline for the guarantees required by the landlord that was fast approaching, Michel Bruyère made an agreement with Lacroix for him to sell his house to obtain his $50,000.00 to invest. Furthermore, during discussions about the terms of the agreement with the landlord for the flea market site, Lacroix offered to personally provide the bank guarantee required, specifically $100,000.00, an amount that was loaned for the period required, 180 days from the starting date of June 23, 2008, to the return of the keys to the premises. In addition to advancing Bruyère's $50,000.00 that he would recuperate with the sale of Bruyère's house. In Lacroix's own words, he told me that he did not have time for flea markets, that we had to take care of it ourselves because he was too busy with other projects (marketing, solar panels, heating, etc…).
+Once again I asked Bruyère are you sure you want to work with Lacroix because I don't need him and now that the deadline for opening the flea market is fast approaching I need the amounts promised as my $50,000.00 is already active in the T.D. Bank. Bruyère told me not to worry and if he had to do something to remove Lacroix from our agreement, he could do it, so I told him in front of Lacroix that he was the one who needed Lacroix and that as for me I had no business ties or loans with Jean‑Noël and that the money he borrowed from him was a personal loan. Jean‑Noël Lacroix gave me an uncertified cheque for $100,000.00 to cover the bank guarantee required by the landlord. This cheque dated July 2008 was made out to me personally and not to the landlord and was described as a temporary loan for six months. This cheque came from a numbered company called Léger Lavoie and we had to pay interest of $2,000.00 per month over the first 6 months starting in August 2008, an amount collected by Jacques Pelletier from the proceeds of the rent collected from the vendors at La Riposte flea market. To register the numbered company I had to use the accountant that Jean‑Noël Lacroix had chosen, Conrad Bouchard in Charlesbourg near 76th street.
+Then Jean‑Noël Lacroix indicated to me that everything should be in my name because of his reputation and his and Bruyère's insolvency, it would be preferable given my good name and good credit to not detract from the flea market. Starting in late July, Jean‑Noël Lacroix was increasingly present at La Riposte flea market with his bodyguards: André Leclerc and Jacques Pelletier. Moreover, he was often arrogant with new vendors, clients and suppliers. He also went into a rage when he found out that Michel Bruyère had lied to him about the number of stalls rented and from that point he took over the decisions about the flea market. He told me that he had never lost money in business and that he would not lose his $100,000.00 with Bruyère and me. I told him that the $100,000.00 deposit did not come from him and that Bruyère's $50,000.00 had not yet been deposited. He said that with my $50,000.00 already in the bank there was enough to start and that I would manage things so that it worked out. I voiced my opposition and he told me [Translation] "It is in your best interest to do what I tell you because if I lose my money it you could be paying a lot for a long time." I told Bruyère that I didn't like his threats and as he (Bruyère) had said: I can get him out of it and so do it and talk to him. Bruyère replied: [Translation] "You can't get rid of a guy like that so easily."
+Surprise, Jean‑Michel Lacroix just told me that Michel Bruyère agreed to buy back his shares in the flea market. (End of August, beginning Sept) This conversation took place in my booth at the back of the flea market. I told him that he did not have any shares because he did not invest any money in the flea market and that we were paying interest on the $100,000.00 loan. He told me that that it was non-negotiable and that now the price was $200,000 payable in the following manner: for the proper control of the site and collections Jack (Jacques Pelletier) would collect the payments and keep $800.00 per week for his salary and $5,000.00 per week to reimburse this debt. If things stayed quiet for the month, it would be reduced to $2,500.00/week. I categorically refused and he told me that I had nothing to say or decide, to shut up and stick to my CD and DVD shop otherwise things could change quickly and become very difficult for me and those close to me.
+Each time he threatened or blackmailed me, he was alone with me, but afterwards it was as if the guy who worked with or for him was aware of the discussions that I had had because he would say to me: [Translation] "we know Sarto, let us talk to him, we'll take care of things so it doesn't get worse, etc…" Moreover, Jean‑Noël Lacroix informed me that he now had a partner who owned 50% of his share: nicknamed the "Flo" Jean‑Judes or Eudes Faucher, full-patch member of the H.A. (Hells Angels).
+Lacroix explained to me that from then on the rent for the booths of these two boys (the twins), the booth of Faucher's mother, the booth of Max (protein products, vitamins for the gym), Marco Roberge's 666, another accommodation booth would be free. Jean‑Noël Lacroix then introduced me to a man named Yannick who came to the flea market 2 or 3 times with a collar and ring identifying him as a member of the Hells Angels.
+In January or February 2009, Michel Bruyère announced to me that he was quitting the flea market because that pressure was too much. He handed me the keys and left. I had to deal with those people until 2 weeks before the flea market closed. Before Michel Bruyère quit, I met at his request, at the Rascal restaurant in St‑Foy, two people that were supposed to help him solve the problem of removing Lacroix from the flea market but they couldn't do anything. At this meeting Mario "Banane" Auger and Demers were introduced to me. I told them that it was Bruyère's problem not mine. I got up and left.
+At another meeting at the St‑Hubert in Ancienne-Lorette with Jean‑Noël Lacroix Jacques Pelletier and Yannick, Yannick asked me why Bruyère had quit and if he was a liar. Lacroix had requested this meeting.
+Then at the last meeting with Jean‑Noël Lacroix, Jean‑Judes or Eudes Faucher, Yannick, myself and Marcel Boisin, it was agreed that, given that revenues were practically nonexistent and we were heading for bankruptcy, Jean‑Judes or Eudes Faucher said that it was finished but Lacroix tried to say that I had to pay right to the end but Faucher was insistent in saying that no, everything ended there, that I didn't have to keep paying, which didn't seem to please Lacroix.
+Later I saw Lacroix, Leclerc and Pelletier again as I opened a record and CD store at Galleries Charlesbourg and they work out there.
+In addition to the stress, financial losses, suffering under the Hells, loss of my credibility from being associated with those people, I still have to run into them today and live in fear of reprisals from them.
+In conclusion, the amounts that I and my business lost that were in my name
+Personal (investment, advance)
+approximately
+150,000.00
+Money collected by Pelletier
+for Lacroix, Faucher, etc…
+Rent:
+117,500.00
+Interest owing:
+12,000.00
+100,000.00
+50-50 approximately
+(Pelletier)
+1,600.00
+Salary Pelletier: approximately
+12,000.00
+These amounts are based on the weekly payments to Lacroix and Pelletier from the rent collected from our vendors at La Riposte flea market
+[5] Moreover, in his testimony, Mr. Lacroix essentially denied all the facts that the appellant stated about him.
+Analysis and Conclusion
+[6] The appellant's evidence regarding his loss of control over the business was based mainly on his testimony, which, I would repeat, was contradicted on every count by Mr. Lacroix's testimony. In the instant case, I accepted the appellant's version rather than that of Mr. Lacroix. Indeed, the appellant's testimony seemed credible to me. I saw the fear and dread in the appellant's eyes when he found out that Mr. Lacroix would be testifying. I would add that the comments that counsel for the respondent made during his argument regarding Mr. Lacroix's tax offences, Mr. Lacroix's appearance and his rather hazy explanations only added to my doubts about his credibility.
+[7] Now we must ask the following question: does the absence of effective control constitute, in itself, a defence that can be raised by a de jure director to avoid the application of section 323 ETA?
+[8] In my opinion, the Federal Court of Appeal's decision in Canada (Attorney General) v. McKinnon [2001], 2 F.C. 203 (FCA) clearly established that the simple fact that external constraints limit the discretion of a de jure director would not automatically exempt the director from any liability under subsection 323(1) of the ETA. This decision also indicates that this director who is subject to section 323 of the ETA can only be relieved of personal liability if he or she can establish that he or she exercised the care, diligence and skill that a reasonably prudent person in comparable circumstances would have exercised to prevent the corporation's failure to remit the goods and services tax (GST).
+[9] Thus, although it is insufficient in itself to exempt a director, the imposition of such external constraints on a director's exercise of discretion still remains, in my opinion, part of the circumstances that should be taken into consideration when analyzing the standard of reasonable care, diligence and skill.
+[10] This standard was recently re-examined by the Federal Court of Appeal in Buckingham v. The Queen, 2011 FCA 142. The Court stated that it was an objective standard as laid down by the Supreme Court of Canada in Peoples Department Stores (Trustee of) v. Wise, [2003] 3 S.C.R. 461. Justice Manville, writing for the Federal Court of Appeal, said the following about this standard:
+[38] This objective standard has set aside the common law principle that a director's management of a corporation is to be judged according to his own personal skills, knowledge, abilities and capacities: Peoples Department Stores at paras. 59 to 62. To say that the standard is objective makes it clear that the factual aspects of the circumstances surrounding the actions of the director are important as opposed to the subjective motivations of the directors: Peoples Department Stores at para. 63. The emergence of stricter standards puts pressure on corporations to improve the quality of board decisions through the establishment of good corporate governance rules: Peoples Department Stores at para. 64. Stricter standards also discourage the appointment of inactive directors chosen for show or who fail to discharge their duties as director by leaving decisions to the active directors. Consequently, a person who is appointed as a director must carry out the duties of that function on an active basis and will not be allowed to defend a claim for malfeasance in the discharge of his or her duties by relying on his or her own inaction: Kevin P. McGuinness, Canadian Business corporations Law, 2nd ed. (Markham, Ontario: LexisNexis Canada, 2007) at 11.9.
+[39] An objective standard does not however entail that the particular circumstances of a director are to be ignored. These circumstances must be taken into account, but must be considered against an objective "reasonably prudent person" standard. …
+…
+[52] Parliament did not require that directors be subject to an absolute liability for the remittances of their corporations. Consequently, Parliament has accepted that a corporation may, in certain circumstances, fail to effect remittances without its directors incurring liability. What is required is that the directors establish that they were specifically concerned with the tax remittances and that they exercised their duty of care, diligence and skill with a view to preventing a failure by the corporation to remit the concerned amounts.
+[11] Thus, the impossibility for a director de jure to exercise his or her discretion is part of the circumstances that should be taken into consideration when analyzing the objective standard of reasonable care, diligence and skill.
+[12] It should be recalled that each decision is closely tied to the facts of each case. Justice Rothstein considered it relevant to note in his concurring reasons in McKinnon, supra:
+1. … However, I wish to emphasize that whether the due diligence defence will be successful is fact-driven in each case, i.e. always comparing what the directors did to prevent the failure with what a reasonably prudent person would have done in comparable circumstances. …
+[13] In my opinion, the fact that no positive action was taken to attempt to prevent the failure to remit is not fatal if it has been determined that external constraints (such as psychological, economic and social control) were such that a reasonable person who was a victim of the same control would have done nothing.
+[14] In this case, the evidence disclosed that the appellant had not taken any positive action in order to prevent the failure to remit. When no positive action has been taken, we have to rely on Justice Rothstein's comments above stating that the due diligence defence is clearly fact-driven in each case. In my opinion, a reasonable person who was a victim of the intimidation that the appellant endured would have probably acted in the same way, specifically by completely distancing himself from the financial decisions of the corporation.
+[15] For these reasons, the appeal is allowed.
+Signed at Ottawa, Canada, on this 16th day of October 2011.
+" Paul Bédard"
+Bédard J.
+Translation certified true
+on this 3rd day of December 2012
+Monica F. Chamberlain, Translator
+CITATION: 2012 TCC 339
+COURT FILE NO.: 2012-116(GST)I
+STYLE OF CAUSE: PIERRE LABRECQUE AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: August 22, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: October 16, 2012
+APPEARANCES:
+For the appellant
+The appellant himself
+Counsel for the respondent:
+Éric Labbé
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,172 @@
+---
+title: "Sherrick c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29138/index.do"
+last_modified: "2009-03-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 148"
+citation2: ""
+neutral_citation: "2009 CCI 148"
+decision_date: "2009-03-12"
+language: "fr"
+item_id: "29138"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6638
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:05:00.202000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "01070c5d9753171ad70960d9ca2ee5b1b7237fe169d493ea3dbdd5f829382cd0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sherrick c. La Reine
+
+- Citation: 2009 CCI 148
+- Decision date: 2009-03-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6638, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sherrick c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-03-12
+Référence neutre
+2009 CCI 148
+Numéro de dossier
+2008-3041(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-3041(IT)I
+ENTRE :
+JOHN SHERRICK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appel entendu à Toronto (Ontario), le 5 mars 2009.
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Avocat de l’appelant :
+Me Nick Ranieri
+Avocate de l’intimée :
+Me Diana Aird
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2006 est rejeté.
+Signé à Toronto (Ontario), ce 12e jour de mars 2009.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 27e jour d’avril 2009.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2009CCI148
+Date : 20090312
+Dossier : 2008-3041(IT)I
+ENTRE :
+JOHN SHERRICK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] John Sherrick a interjeté appel pour contester la pénalité pour production tardive de 584,97 $ qui lui a été imposée en vertu du paragraphe 162(1) de la Loi de l’impôt sur le revenu (la « Loi ») pour l’année d’imposition 2006.
+[2] En l’espèce, la question en litige est simple : l’appelant a‑t‑il produit sa déclaration de revenus pour 2006 avant la date limite, à savoir le 15 juin 2007?
+[3] L’appelant est agent immobilier à commission, et il est tenu de produire sa déclaration de revenus annuelle au plus tard le 15 juin.
+[4] La conclusion du ministre du Revenu national (le « ministre ») voulant que la déclaration de revenus pour 2006 n’a pas été produite dans les délais impartis semble être fondée sur le cachet postal daté du 19 juin 2007 tamponné sur une enveloppe par Postes Canada et sur la date de réception, le 22 juin 1997, tamponnée par l’Agence du revenu du Canada (l’« ARC ») sur la déclaration de revenus.
+[5] L’appelant n’a pas produit lui‑même sa déclaration de revenus. C’est plutôt Taxperts Corp. (« Taxperts »), une entreprise spécialisée en préparation de déclarations fiscales, qui l’a fait pour lui.
+[6] Un avocat, qui est le directeur de Taxperts, a témoigné qu’à son avis, la déclaration de revenus de l’appelant avait probablement été remise en personne au bureau de Toronto de l’ARC l’après‑midi de la date limite. L’avocat a aussi conjecturé que l’enveloppe sur laquelle l’ARC avait fondé sa conclusion contenait d’autres documents ayant trait aux affaires de l’appelant, tel que des formulaires de l’impôt des non-résidents concernant des biens immeubles.
+[7] Le paragraphe 162(1) de la Loi est ainsi rédigé :
+162(1) Défaut de déclaration de revenu – Toute personne qui ne produit pas de déclaration de revenu pour une année d’imposition selon les modalités et dans le délai prévus au paragraphe 150(1) est passible d’une pénalité égale au total des montants suivants :
+a) 5 % de l’impôt payable pour l’année en vertu de la présente partie qui était impayé à la date où, au plus tard, la déclaration devait être produite;
+b) le produit de 1 % de cet impôt impayé par le nombre de mois entiers, jusqu’à concurrence de 12, compris dans la période commençant à la date où, au plus tard, la déclaration devait être produite et se terminant le jour où la déclaration est effectivement produite.
+[8] Pour trancher le présent appel, il faut décider laquelle de la position de l’appelante et de la position du ministre est la plus probable à la lumière de l’ensemble de la preuve. D’une part, si j’acceptais les observations de l’appelant, il me faudrait conclure que la déclaration de revenus a été produite à temps. D’autre part, si j’acceptais les hypothèses du ministre, il me faudrait conclure que la déclaration de revenus a été produite avec quelques jours de retard, et que la cotisation était donc justifiée. Le libellé strict du paragraphe 162(1) de la Loi n’accorde aucun délai de grâce.
+[9] Après avoir examiné l’ensemble de la preuve, j’ai conclu qu’elle appuyait davantage la position du ministre que celle de l’appelant.
+La position de l’appelant
+[10] Depuis plusieurs années, l’appelant a recours aux services de préparation de déclarations fiscales de Taxperts, et, plus particulièrement, aux services du directeur de cette société, William Howse. Me Howse est avocat plaideur et procureur.
+[11] L’appelant a témoigné s’être rendu au bureau de Me Howse le 15 juin 2007 pour signer sa déclaration de revenus. Après avoir signé sa déclaration, l’appelant l’a mise dans une enveloppe et a laissé l’enveloppe à Taxperts pour que celle‑ci l’envoie. L’appelant a affirmé se souvenir que lorsqu’il se trouvait dans le bureau de Me Howse, il avait parlé brièvement avec celui‑ci et un collègue travaillant dans le domaine de l’immobilier qui était là pour la même raison que lui.
+[12] Me Howse a aussi témoigné. La plus grande partie de son témoignage a servi à décrire le processus utilisé par Taxperts pour produire les déclarations de revenus, mais Me Howse a aussi affirmé se souvenir d’avoir discuté, le jour de la date limite de production, avec l’appelant et un de ses collègues travaillant dans le domaine de l’immobilier.
+[13] Me Howse a décrit dans le détail le processus suivi par Taxperts pour produire des centaines de déclarations de revenus dans les délais impartis afin d’éviter l’imposition de pénalités pour production tardive.
+[14] Selon le témoignage de Me Howse, la pratique habituelle veut que le gestionnaire du bureau dresse une liste de déclarations de revenus devant être produites auprès de l’ARC au plus tard le 15 juin. Bien que le gestionnaire du bureau n’ait pas témoigné, la liste qu’il avait dressée pour l’année d’imposition 2006 a été déposée en preuve. Le nom de l’appelant figure sur cette liste, ce qui voudrait dire, selon le témoignage de Me Howse, que la déclaration de revenus de l’appelant a probablement été remise à l’ARC vers la fin de l’après‑midi de la date limite de production.
+[15] Me Howse a aussi affirmé que bien que quelques clients de Taxperts se soient vu imposer des pénalités pour production tardive, toutes les cotisations à cet égard avaient été annulées par l’ARC, sauf celle qui a été établie à l’égard de l’appelant.
+La position du ministre
+[16] La position du ministre est fondée sur deux éléments : une enveloppe et le cachet tamponné sur la déclaration de revenus de l’appelant.
+[17] L’avocate de l’intimée a affirmé que lorsqu’on lui avait remis l’enveloppe, celle‑ci était agrafée à la déclaration de revenus de l’appelant. Des copies de l’enveloppe comportant un code de couleurs ont été fournies à la Cour.
+[18] L’enveloppe en question comporte les détails suivants : 1) elle est adressée au Bureau international des services fiscaux à Ottawa; 2) le nom de l’appelant y a été écrit à la main par Me Howse, sous l’empreinte d’oblitération; 3) l’empreinte d’affranchissement de Taxperts y indique la date du 15 juin 2006 (un an plus tôt); 4) le cachet postal de Postes Canada indique la date du « 07 06 19 ».
+[19] L’avocate de l’intimée au aussi déposé en preuve la page de signature de la déclaration de revenus de l’appelant. Cette page comporte deux cachets. Le premier indique « NCR Mailroom, #5, Jun 22, 2007 » ([TRADUCTION] « RCN, salle du courrier # 5, le 22 juin 2007 »). Il n’a pas été contesté que l’abréviation « NCR » signifie « National Capital Region » (la région de la capitale nationale). Le deuxième cachet est lui aussi daté du 22 juin 2007, et il indique « Recu, Agence du [sic] Revnu Canada, June 22, 2007, ITSO Penalty. »
+[20] La référence au sigle « ITSO » dans le cachet de pénalité n’a pas été mentionnée à l’audience. Si ce sigle renvoie à l’« International Tax Services Office » (le Bureau international des services fiscaux), il s’agirait d’un autre lien possible entre l’enveloppe (qui était adressée à ce bureau) et la déclaration de revenus de l’appelant. Cependant, aucun élément de preuve n’a été présenté quant à la signification du sigle « ITSO ». Il se peut que ce sigle renvoie à quelque chose d’autre, par exemple à l’« Income Tax Services Office » ([TRADUCTION] le « Bureau de services pour l’impôt sur le revenu »). Ainsi, je n’ai pas tenu compte de cette référence à l’« ITSO ».
+Analyse
+[21] À mon avis, c’est la position du ministre qui correspond le mieux aux éléments de preuve présentés à l’audience.
+[22] Si l’enveloppe déposée en preuve contenait la déclaration de revenus de l’appelant, il est impossible que cette déclaration ait été produite à temps, car le cachet postal tamponné sur l’enveloppe est daté du 19 juin, donc après la date limite.
+[23] Il faut donc déterminer si l’enveloppe contenait bel et bien la déclaration de revenus de l’appelant.
+[24] À première vue, les documents semblent montrer que c’est le cas. La déclaration a été tamponnée dans la région d’Ottawa, là où l’enveloppe était adressée. Le cachet de réception est daté du 22 juin 2007, ce qui concorde avec le cachet postal tamponné sur l’enveloppe qui indique le « 07 06 19 »; tous ceux qui étaient présents à l’audience ont supposé qu’il s’agissait là du 19 juin 2007.
+[25] Me Howse a affirmé qu’il n’aurait jamais utilisé l’enveloppe en question pour envoyer des déclarations de revenus, parce qu’elle était adressée au Bureau international des services fiscaux.
+[26] Il est possible que Taxperts n’envoie pas habituellement les déclarations de revenus au Bureau international des services fiscaux. Je tiens toutefois à souligner que l’enveloppe en question a manifestement été manipulée par Me Howse, car il y a inscrit le nom de l’appelant. À mon avis, Me Howse n’a pas fourni une explication suffisamment détaillée quant aux circonstances dans lesquelles l’enveloppe en question a probablement été utilisée. Me Howse a soutenu que l’enveloppe contenait probablement des formulaires de l’impôt des non‑résidents concernant l’appelant. Cette brève explication ne m’a pas convaincue. Je note aussi que l’appelant n’a jamais affirmé avoir produit de formulaire de l’impôt des non‑résidents.
+[27] Je tiens aussi à dire que certains détails concernant l’enveloppe en question semblent étranges. La date sur l’empreinte d’affranchissement de l’enveloppe est antérieure d’un an à celle sur le cachet postal. J’ai aussi remarqué que l’empreinte d’affranchissement est datée du 15 juin, une journée où Taxperts est probablement extrêmement occupée à envoyer les déclarations de revenus d’agents immobiliers canadiens. Il serait bizarre que des formulaires de l’impôt des non‑résidents soient envoyés cette journée‑là.
+[28] Lorsque l’appelant a témoigné, il a dit se souvenir clairement d’avoir mis sa déclaration de revenus dans une enveloppe plus petite que l’enveloppe déposée en preuve. J’ai tenu compte de ce témoignage, mais je ne suis pas d’avis qu’il est suffisant pour l’emporter sur les éléments de preuve présentés par l’intimée. Il est possible que la déclaration de revenus de l’appelant ait été retirée de la première enveloppe puis postée dans une enveloppe plus grande quelques jours plus tard.
+[29] Par conséquent, je conclus que l’ensemble de la preuve appuie davantage la position du ministre que celle de l’appelant. Il est possible que l’appelant ait signé sa déclaration de revenus le 15 juin, comme il l’a affirmé lors de son témoignage, mais l’ensemble de la preuve donne à penser que la déclaration de revenus de l’appelant n’est pas arrivée au bureau de Toronto de l’ARC cette journée‑là.
+[30] Avant de conclure, je tiens à dire qu’il est regrettable que personne ne soit venu témoigner au nom du ministre. Il aurait été utile que quelqu’un explique le processus de traitement des déclarations de revenus et d’imposition de pénalités.
+[31] Je me suis demandé si je devais tirer une conclusion défavorable du fait que le ministre n’a présenté aucun élément de preuve à ce sujet. En fin de compte, j’ai conclu que non. La position de l’appelant a changé à l’audience, et ce changement a surpris l’avocate de l’intimée. Il s’agit là d’un des aspects fâcheux de la procédure informelle, où les surprises sont monnaie courante. Dans les circonstances, je ne crois pas qu’il serait justifié de tirer une conclusion défavorable de cette absence de preuve.
+[32] Pour ces motifs, l’appel est rejeté.
+Signé à Toronto (Ontario), ce 12e jour de mars 2009.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 27e jour d’avril 2009.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2009CCI148
+No DU DOSSIER DE LA COUR :
+2008-3041(IT)I
+INTITULÉ :
+John Sherrick et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 5 mars 2009
+MOTIFS DU JUGEMENT :
+L’honorable juge J. Woods
+DATE DU JUGEMENT :
+Le 12 mars 2009
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Nick Ranieri
+Avocate de l’intimée :
+Me Diana Aird
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Nick Ranieri
+Cabinet :
+Nick Ranieri
+Toronto (Ontario)
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

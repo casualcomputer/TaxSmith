@@ -1,0 +1,259 @@
+---
+title: "Wentzell v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28069/index.do"
+last_modified: "2003-09-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 521"
+citation2: ""
+neutral_citation: "2003 TCC 521"
+decision_date: "2003-09-17"
+language: "en"
+item_id: "28069"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1589
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:43:23.242000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d31fd852368cedc268d67026c1072e917f21fae4f3119b9bb72bd02907c58551"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Wentzell v. M.N.R.
+
+- Citation: 2003 TCC 521
+- Decision date: 2003-09-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1589, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wentzell v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-09-17
+Neutral citation
+2003 TCC 521
+File numbers
+2003-122(EI)
+Judges and Taxing Officers
+Michael H. Porter
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2003-122(EI)
+BETWEEN:
+MARLENE WENTZELL,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 4, 2003 at Calgary, Alberta
+Before: The Honourable Michael H. Porter, Deputy Judge
+Appearances:
+Agent for the Appellant:
+Robert L. Wentzell
+Counsel for the Respondent:
+Galina M. Bining
+____________________________________________________________________
+JUDGMENT
+This appeal is dismissed and the decision of the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Calgary, Alberta, this 17th day of September 2003.
+"Michael H. Porter"
+Porter, D.J.
+Citation:2003TCC521
+Date:20030917
+Docket: 2003-122(EI)
+BETWEEN:
+MARLENE WENTZELL,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Porter, D.J.
+[1] This appeal was heard at Calgary, Alberta on the 4th of June, 2003. The Appellant, who was not present, was represented by her husband Robert Wentzell, who also gave evidence on her behalf. He was the sole witness.
+[2] The Appellant has appealed from the decision of the Minister of National Revenue (hereinafter called the "Minister") dated November 7, 2002, that her employment with Robert L. Wentzell & Associates Incorporated for the period April 22, 2001 to January 31, 2002 was not insurable under the Employment Insurance Act (the "EI Act") for the following reason:
+...You were not dealing with Robert L. Wentzell & Associates Incorporated at arm’s length and the Minister is not satisfied that you and Robert L. Wentzell & Associates Incorporated would have entered into a substantially similar contract of employment if you had been dealing with each other at arm’s length. Therefore, Marlene Wentzell was engaged in excluded employment.
+The decision was said to be issued pursuant to subsection 93(3) of the EI Act and was based on paragraph 5(2)(i) thereof.
+[3] The established facts reveal that Robert Wentzell ("Robert") at the material time owned 100% of the shareholding in Robert L. Wentzell & Associates Incorporated (the "Payor"), which was in the business of providing professional advice, cost benefit analysis, contract evaluation, dispute resolution and mediation for capital projects and programs. Robert was also at all material times, legally married to the Appellant. Thus, pursuant to the EI Act and subsection 251(1) of the Income Tax Act as related persons, they are in law deemed not to deal with each other at arm’s length. Accordingly, the employment in question is, subject to the exception contained in paragraph 5(3)(b) of the EI Act, categorized as excluded employment, that is to say it is not employment which triggers the payment of employment insurance benefits upon its termination. The Minister has determined that the employment does not fall within the exception and the Appellant has appealed from that decision.
+The Law
+[4] In the scheme established under the EI Act, Parliament has made provision for certain employment to be insurable, leading to the payment of benefits upon termination, and other employment which is “not included” and thus carrying no benefits upon termination. Employment arrangements made between persons, who are not dealing with each other at arm’s length, are categorized as not included. Brothers and corporations controlled by persons related to them are deemed not to be dealing with each other at arm’s length pursuant to subsection 251(1) of the Income Tax Act, which governs the situation. Quite clearly the original purpose of this legislation was to safeguard the system from having to pay out a multitude of benefits based on artificial or fictitious employment arrangements; see the comments of the Federal Court of Appeal in Paul v. The Minister of National Revenue, #A-223-86 unreported, where Hugessen J. said:
+We are all prepared to assume, as invited by appellant’s counsel, that paragraph 3(2)(c) of the Unemployment Insurance Act, 1971, and subsection 14(a) of the Unemployment Insurance Regulations have for at least one of their purposes the prevention of abuse of the Unemployment Insurance Fund through the creation of so-called “employer-employee” relationships between persons whose relationship is, in fact, quite different. That purpose finds obvious relevance and rational justification in the case of spouses who are living together in a marital relationship. But even if, as appellant would have us do, we must look only at spouses who are legally separated and may be dealing at arm’s length with one another, the nature of their relationship as spouses is such as, in our view, to justify excluding from the scheme of the Act the employment of one by the other.
+…
+We do not exclude the possibility that the provisions may have other purposes, such as a social policy decision to remove all employment within the family unit from the operation of the Unemployment Insurance Act, 1971, as was suggested by respondent’s counsel. (emphasis mine)
+[5] The harshness of this situation has however been tempered by paragraph 5(3)(b) of the EI Act, which provides for such employment between related persons deemed to be at arm’s length and thus in turn to be treated as insurable employment, if it meets all the other provisions, where the Minister is satisfied having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, that it is reasonable to conclude that they would have entered into a substantially similar contract if they had (in fact) been dealing with each other at arm’s length.
+[6] It may be helpful to reframe my understanding of this section. For people related to each other the gate is closed by the statute to any claim for employment benefits unless the Minister can be satisfied that in effect the employment arrangement is the same as that which unrelated persons, that is persons who are clearly at arm’s length, would have made. If it is a substantially similar contract of employment, Parliament has deemed it to be only fair that it should be included in the scheme. However, the Minister is the gatekeeper. Unless he is so satisfied the gate remains closed, the employment remains excepted and the employee is not eligible for benefits.
+[7] Subsection 93(3) of the EI Act deals with appeals to and the determination of questions by the Minister. It requires that:
+The Minister shall decide the appeal within a reasonable time after receiving it and shall notify the affected persons of the decision.
+[8] Thus, the Minister has no discretion whether or not to decide the question. He is required by law to do so. If he is not satisfied, the gate remains closed and the employee is not eligible. If however, he is satisfied, without more ado or any action on the part of the Minister (other than notification of the decision) the employee becomes eligible for benefits, provided he is otherwise qualified. It is not a discretionary power in the sense that if the Minister is satisfied he may then deem the employment to be insurable. He must “determine the question” and depending on that determination the law deems the employment to be either at arm’s length or not at arm’s length. In this sense the Minister has no discretion to exercise in the true sense of the word, for in making his decision he must act quasi-judicially and is not free to chose as he pleases. The various decisions of the Federal Court of Appeal on this issue reveal that the same test applies as to a myriad of other officials making quasi-judicial decisions in many different fields. See Tignish Auto Parts Inc. v. M.N.R., 185 N.R. 73, Ferme Émile Richard et Fils Inc. v. M.N.R., 178 N.R. 361, Attorney General of Canada and Jencan Ltd., (1997) 215 N.R. 352 and Her Majesty the Queen and Bayside Drive-in Ltd., (1997) 218 N.R. 150.
+[9] The function of this Court then, upon appeal, is to review the decision of the Minister and decide whether it was arrived at lawfully that is in accordance with the Act and with the principles of natural justice. In the case Her Majesty the Queen v. Bayside (supra), the Federal Court of Appeal laid out certain matters which should be considered by this Court when hearing these appeals. These were:
+(i) the Minister acted in bad faith or for an improper purpose or motive;
+(ii) the Minister failed to take into account all of the relevant circumstances as expressly required by paragraph 3(2)(c) of the Unemployment Insurance Act, now subsection 5(3) of the EI Act; or
+(iii) the Minister took into account an irrelevant factor.
+[10] The Court went on to say:
+It is only if the Minister made one or more of these reviewable errors that it can be said that his discretion was exercised in a manner contrary to law, and ... the Tax Court Judge would be justified in conducting his own assessment of the balance of probabilities as to whether the respondents would have entered into substantially similar contracts of service, if they had been at arm’s length.
+[11] I remind myself, when reviewing this case, that it is not for the Court to substitute its opinion of the evidence for that of the Minister. However, if his or her manner of arriving at the decision was unlawful in the context of the judgments set out above, those affected parts of the stated facts may be disregarded and I must then consider whether that which is left affords justifiable grounds for the decision. If those grounds, standing alone, are sufficient for the Minister to form a decision, albeit that the Court may not agree with it, the decision must stand. If on the other hand there is no basis left upon which the Minister might lawfully make such a decision, from an objective and reasonable point of view, then such decision may be struck down and the Court can consider the evidence before it on appeal and make its own decision.
+[12] In summary then, if there are sufficient facts before the Minister for his decision, it is his or her determination to make and if he or she is “not satisfied” it is not for this Court to substitute its view of those facts and say he or she should have been satisfied. Similarly, if he or she was satisfied it is not for this Court to substitute its view that he or she should not have been satisfied (an unlikely scenario in any event). Only if the decision is reached in an improper manner and it is unreasonable, from an objective point of view, on the basis of the facts which were properly before the Minister, may the Court interfere.
+[13] I am fortified in this approach by a number of decisions of various Courts of Appeal across the country and the Supreme Court of Canada in related decisions concerning the issue of various processes under the Criminal Code, which subsequently came to be reviewed by the Courts and are in my view analogous to the present situation. The standard of review of the validity of a search warrant was set out by Cory, J.A. (as he then was) in Times Square Book Store, Re (1985) 21 C.C.C. (3d) 503 (C.A.), where he said that it was not the role of the reviewing judge to look at or consider the authorization of a search warrant de novo and it was not open to the reviewing judge to substitute his or her own opinion for that of the issuing judge. Rather, on review, the first issue to be decided was whether or not there was evidence upon which a justice of the peace, acting judicially, could determine that a search warrant should be issued.
+[14] The Ontario Court of Appeal reiterated and expanded upon this point of view in R. v. Church of Scientology of Toronto and Zaharia (1987) 31 C.C.C. (3d) 449 C.A. leave to appeal refused. In suggesting that the reviewing Court look at the “totality of the circumstances” the Court said at 492:
+Obviously if there is not such evidence to provide a basis for such a belief (that a criminal offence had been committed) it cannot be said that in those circumstances the justice should be satisfied. There will, however, be cases where such evidence (showing reasonable grounds) does exist and the justice could be satisfied but where he or she is not satisfied and does not exercise his or her discretion in favour of issuing a search warrant. In these circumstances, the reviewing judge must not say that the justice should have been satisfied and should have issued the warrant.
+Similarly, if the justice in such circumstances says that he or she is satisfied and issues the warrant, the reviewing judge must not say that the justice should not have been so satisfied.
+[15] The Supreme Court of Canada endorsed this approach in R. v. Garofoli (1990) 2 S.C.R. 1421. The late Mr. Justice Sopinka, when dealing with the review of the issue of an authorization to wiretap, then said:
+While a judge exercising this relatively new power need not comply with the Wilson criteria, he should not review the authorization de novo. The correct approach is set out in the reasons of Martin J.A. in this appeal. He states,...
+If the trial judge concludes that, on the material before the authorizing judge, there was no basis upon which he could be satisfied that the pre‑conditions for the granting of the authorization exist, then, it seems to me that the trial judge is required to find that the search or seizure contravened s. 8 of the Charter.
+The reviewing judge does not substitute his or her view for that of the authorizing judge. If, based on the record which was before the authorizing judge as amplified on the review, the reviewing judge concludes that the authorizing judge could have granted the authorization, then he or she should not interfere. In this process, the existence of fraud, non-disclosure, misleading evidence and new evidence are all relevant, but, rather than being a prerequisite to review, their sole impact is to determine whether there continues to be any basis for the decision of the authorizing judge.
+[16] This approach appears to have been adopted by almost every appellate court in the country. (See R. v. Jackson (1983) 9 C.C.C. (3d) 125 (B.C. C.A.); R v. Conrad et al. (1989) 99 A.R. 197; 79 Alta. L.R.; (2d) 307; 51 C.C.C. (3d) 311 (C.A.); Hudon v. R. (1989) 74 Sask. R. 204 (C.A.); and R. v. Turcotte (1988) 60 Sask. R. 289; 39 C.C.C. (3d) 193 (C.A.); R. v. Borowski (1990) 66 Man. R. (2d) 49; 57 C.C.C. (3d) 87 (C.A.); Bâtiments Fafard Inc. et autres c. Canada et autres (1991) 41 Q.A.C. 254 (C.A.); Société Radio-Canada v. Nouveau-Brunswick (Procureur général) et autres (1991) 104 N.B.R. (2d) 1; 261 A.P.R. 1; 55 C.C.C. (3d) 133 (C.A.); R. v. Carroll and Barker (1989) 88 N.S.R. (2d) 165; 225 A.P.R. 165; 47 C.C.C. (3d) 263 (C.A.); R. v. MacFarlane (K.R.) (1993) 100 Nfld. & P.E.I.R. 302; 318 A.P.R. 302; 76 C.C.C. (3d) 54 (P.E.I. C.A.). It seems to me most relevant to a review of the Minister’s determination, which is itself a quasi judicial decision.
+Part I – Analysis of the Minister’s Decision
+[17] The Minister, in the Reply to the Notice of Appeal signed on his behalf, was said to have relied upon the following assumptions of fact (the agreement or disagreement of the Appellant I have placed in parenthesis):
+(a) the Payor's business provides professional advice, cost benefit analysis, contract evaluation, dispute resolution and mediation for capital projects and programs; (Agreed)
+(b) Robert Wentzell (hereinafter "the Shareholder") was the sole shareholder of the Payor; (Agreed)
+(c) the Appellant is the wife of the Shareholder; (Agreed)
+(d) the Appellant was hired as an administrative assistant and her duties included answering phones, dealing with clients, maintaining files, computer work, producing and proof reading reports, photocopying, purchasing office supplies, paper work, and maintaining the office; (Agreed)
+(e) the Appellant worked out of the Appellant's and Shareholder's home; (Disagreed. The work was done at and from the Payor’s office at the home.)
+(f) the Appellant earned a set annual wage of $26,500 per year; (Agreed)
+(g) the Appellant received the following payments from the Payor: (Agreed)
+Date
+Amount
+Description
+18/7/2001
+$5,000.00
+salary for second quarter 2001
+18/7/2001
+$5,000.00
+salary for first quarter 2001
+$10,000.00
+(2001 total)
+Date
+Amount
+Description
+13/3/2001
+$2,433.06
+salary Oct, Nov, Dec 2000
+22/1/2001
+$5,460.00
+salary 2000
+13/8/2000
+$11,600.00
+salary 2000
+14/4/2000
+$1,400.00
+temp advance
+24/3/2000
+$2,433.06
+salary Jan, Feb, Mar
+$23,326.12
+(2000 total)
+15/1/2000
+$2,433.06
+salary for fourth quater 1999
+21/12/1999
+$4,000.00
+1999
+$6,433.06
+(1999 Total)
+(h) the Payor issued the following T4s; (Agreed)
+Year
+Employee
+Earnings
+2001
+Appellant
+$26,500
+2000
+Appellant
+$26,500
+1999
+Appellant
+$17,000
+1999
+Shareholder
+$3,000
+(i) the Payor remitted the following amounts with respect to the Appellant: (Disagreed. The Appellant paid EI premiums in 1999 and 2000, plus additional premiums in 2001 over and above the $596.25.)
+CPP
+EI Tax
+2001
+$989.00
+$596.25 $3,500.00
+2000
+$897.00
+$1,873.76
+1999
+$472.50
+$2,322.76
+(j) the Appellant was the only employee of the Payor during the period under review; (Agreed. She was the only employee in Calgary. The Payor used an independent contractor to do similar work in Halifax, Nova Scotia.)
+(k) the Shareholder did not receive any income from the Payor during the period under review; (Agreed)
+(l) the Appellant did not have set hours and days of work; (Agreed. If Robert was not around, the Appellant would take messages and answer phones and faxes from clients.)
+(m) the Appellant's hours were determined by the tasks required to be completed; (Agreed)
+(n) the Appellant's hours were not recorded; (Agreed)
+(o) the Appellant was supervised by the Shareholder; (Agreed)
+(p) the Payor provided the tools and equipment required; (Agreed)
+(q) the Appellant did not have a chance of profit or risk of loss; (Agreed)
+(r) the Appellant has not assumed personal liability for the Payor; (Agreed)
+(s) the Appellant's employment was terminated when the Payor had no contracts; (Agreed)
+(t) due to confidentiality, the Payor would not have hired an unrelated person to perform services the Appellant performed; (Disagreed)
+(u) the Appellant provided services to the Payor prior to the 1999 year and she was not paid for these services; (Agreed)
+(v) the Payor and the Appellant did not deal with each other at arm's length;
+(w) the Minister considered all of the relevant facts that were available to him, including the remuneration paid, the terms and conditions, the duration, and the nature and importance of the work performed, and
+(x) the Minister was not satisfied that it was reasonable to conclude that the Payor and the Appellant would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+(v), (w) and (x) Disagreed. These are the decisions from which the Appellant has appealed.
+[18] Robert gave evidence on behalf of his wife, the Appellant, and I take it on behalf of his company, the Payor.
+[19] He provided documents to show that EI premiums had been paid in 1999, 2000 and 2001 in excess of $596.25 recorded by the Minister. I am quite satisfied that Robert is a man of integrity and is honest as the day is long. I have no hesitation in stating that I accept his evidence unequivocally and that I am well satisfied that such premiums were in fact paid as he claims. To the extent the Minister thought otherwise, he was wrong. I am not sure, however, that one can say that this is a relevant fact, because simple acceptance of the EI premiums by the Minister does not estop him from making the decision he did. It is simply an irrelevant factor to the issue at hand and to the extent the Minister took it in account, he should not have done so.
+[20] I also accept, with respect to item (j), that there were no other employees employed by the Payor in Calgary. However, he did engage a business agency to provide similar services to him under a contract for services in Halifax. He was clear, however, that these were independent contractors and thus, to that extent, the Minister was correct in saying that the Appellant was the only "employee".
+[21] With respect to items (l) and (m), Robert said that basically his wife stepped in when he went away, to accept telephone calls and faxes from clients or potential clients as they needed to talk to a person, not just leave messages. She also proofread his reports. There was no evidence given of the amount of time she spent doing this during the period in question. She did not record her hours of work or days of work. She worked when there was something to do, e.g. when Robert was away, and the Minister was correct in saying that she did not have set hours or days of work. Indeed, most of her work could be done from any telephone in the house and in fact, was done on her cell phone when calls were call forwarded from the office phone.
+[22] The last assumption with which the Appellant was said to disagree was item (t). Again, I accept the evidence given by Robert that he could have hired an unrelated person to do the work in question and would have done so if his wife had not been available. Again, the Minister was incorrect when he made this assumption of fact.
+[23] Robert specifically agreed with item (g) confirming that his wife’s annual salary was paid for the first and second quarters of 2001 on the 18th of July of that year. He said it was done this way because that is when he was paid by the client or clients. Likewise, he paid the October, November and December salary for the year 2000 on the 13th of March 2001. Although he also paid the business management office in Halifax the same way, he conceded that that was a contractual arrangement with an independent business and that he had no other employee whom he paid up to six months in arrears. In my view, this was a most relevant consideration for the Minister to take into account.
+[24] Robert, on behalf of his wife, has raised the question of fairness and whether it is fair that he should have to stack up on his own against 62,000 employees in the Federal Department of Justice. With respect, that is not the point. There is one counsel acting on behalf of the Minister and the Appellant could have had counsel in the same way.
+[25] Robert asked the question whether the opinion of employees at Human Resources Development Canada or at the Canada Customs and Revenue Agency are any more valuable than his own with as many years of business experience behind him. Again, that misses the point that the Minister, who acts through authorized officers, is charged by Parliament to consider whether an exception to the general rule should apply, that related people do not qualify for EI benefits in respect of employment taking place between them, before public funds are disbursed under the statute.
+[26] When I consider all of the evidence and the matters that the Minister took into account, even leaving out the items that were incorrect or taking into account the matters such as the payment of the EI premiums, I am overwhelmingly of the view that the Minister was entitled to lawfully and objectively come to the decision that he did. In particular, I note that no specific work or time was laid out in the evidence, the Appellant was basically on standby, she was paid up to six months after the event, she lived in the same house as the office but there is no evidence that she spent any time in that office, and there is simply no detailed evidence of what she did for her $26,500.00 per annum.
+[27] The Minister is charged in the statute with the responsibility to have regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and nature and importance of the work performed in order to decide if it is reasonable to conclude that the parties would have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length. The Minister decided it was not reasonable to so conclude. There is no evidence of bad faith here. Even taking out of the evidence matters which were wrong, he could, in my view, objectively and lawfully have arrived at that conclusion on the remaining evidence. Of particular note, in my view, is the fact that the operator of the business office in Halifax, although an independent contractor, was paid for what it did and the time it actually put into the work. The Appellant was not paid on that basis. The Minister was certainly entitled to come to the conclusion that if they had been dealing with each other at arm’s length, the remuneration arrangement would not have been set up like it was.
+[28] In the event, it is not necessary for me to review the evidence afresh. The decision of the Minister stands. In passing, though, I might add that I would not have had the slightest hesitation in coming to the same conclusion on the evidence before me.
+[29] In the event, the appeal is dismissed and the decision of the Minister is confirmed.
+Signed at Calgary, Alberta, this 17th day of September 2003.
+"Michael H. Porter"
+Porter, D.J.
+CITATION:
+2003TCC521
+COURT FILE NO.:
+2002-122(EI)
+STYLE OF CAUSE:
+Marlene Wentzell and M.N.R.
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+June 4, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Michael H. Porter, Deputy Judge
+DATE OF JUDGMENT:
+September 17, 2003
+APPEARANCES:
+Agent for the Appellant:
+Robert L. Wentzell
+Counsel for the Respondent:
+Galina M. Bining
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

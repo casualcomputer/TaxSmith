@@ -1,0 +1,358 @@
+Title: Sapi v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/181599/index.do
+Corpus path: corpus/cases/tcc/2016/2016-tcc-239-181599-sapi-v-the-queen-en.md
+Document type: case_law
+Last modified: 2016-10-24
+
+# Sapi v. The Queen
+
+- Citation: 2016 TCC 239
+- Decision date: 2016-10-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2982, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sapi v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-10-24
+Neutral citation
+2016 TCC 239
+File numbers
+2014-3005(IT)APP, 2014-3034(IT)APP, 2014-3252(IT)APP, 2014-3508(IT)APP
+Judges and Taxing Officers
+Henry A. Visser
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2014-3005(IT)APP
+BETWEEN:
+TERESA SAPI,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Application heard on common evidence with the Applications of:
+Anecito Calado v. Her Majesty the Queen (2014-3034(IT)APP),
+John Hastings v. Her Majesty the Queen (2014-3252(IT)APP)
+Timothy D’Souza v. Her Majesty the Queen (2014-3508(IT)APP)
+on December 15, 2015 at
+Toronto, Ontario
+By: The Honourable Justice Henry A. Visser
+Appearances:
+Agent for the Applicant:
+Robert Mattacchione
+Counsel for the Respondent:
+Christopher M. Bartlett
+ORDER
+UPON reading the Applicant’s Application for an order extending the time within which a Notice of Appeal may be filed with respect to the reassessment made under the Income Tax Act for the Applicant’s 2003 taxation year;
+AND UPON hearing from the parties;
+IT IS HEREBY ORDERED THAT the Application is dismissed, without costs.
+Signed at Vancouver, British Columbia, this 24th day of October 2016.
+“Henry A. Visser”
+Visser J.
+Docket: 2014-3034(IT)APP
+BETWEEN:
+ANECITO CALADO,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Application heard on common evidence with the Applications of:
+Teresa Sapi v. Her Majesty the Queen (2014-3005(IT)APP),
+John Hastings v. Her Majesty the Queen (2014-3252(IT)APP),
+Timothy D’Souza v. Her Majesty the Queen (2014-3508(IT)APP)
+on December 15, 2015 at
+Toronto, Ontario
+By: The Honourable Justice Henry A. Visser
+Appearances:
+Agent for the Applicant:
+Robert Mattacchione
+Counsel for the Respondent:
+Christopher M. Bartlett
+ORDER
+UPON reading the Applicant’s Application for an order extending the time within which a Notice of Appeal may be filed with respect to the reassessment made under the Income Tax Act for the Applicant’s 2002 taxation year;
+AND UPON hearing from the parties;
+IT IS HEREBY ORDERED THAT the Application is dismissed, without costs.
+Signed at Vancouver, British Columbia, this 24th day of October 2016.
+“Henry A. Visser”
+Visser J.
+Docket: 2014-3252(IT)APP
+BETWEEN:
+JOHN HASTINGS,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Application heard on common evidence with the Applications of:
+Teresa Sapi v. Her Majesty the Queen (2014-3005(IT)APP),
+Anecito Calado v. Her Majesty the Queen (2014-3034(IT)APP),
+Timothy D’Souza v. Her Majesty the Queen (2014-3508(IT)APP)
+on December 15, 2015 at
+Toronto, Ontario
+By: The Honourable Justice Henry A. Visser
+Appearances:
+Agent for the Applicant:
+Robert Mattacchione
+Counsel for the Respondent:
+Christopher M. Bartlett
+ORDER
+UPON reading the Applicant’s Application for an order extending the time within which a Notice of Appeal may be filed with respect to the reassessment made under the Income Tax Act for the Applicant’s 2001 taxation year;
+AND UPON hearing from the parties;
+IT IS HEREBY ORDERED THAT the Application is dismissed, without costs.
+Signed at Vancouver, British Columbia, this 24th day of October 2016.
+“Henry A. Visser”
+Visser J.
+Docket: 2014-3508(IT)APP
+BETWEEN:
+TIMOTHY D’SOUZA,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Application heard on common evidence with the Applications of:
+Teresa Sapi v. Her Majesty the Queen (2014-3005(IT)APP),
+Anecito Calado v. Her Majesty the Queen (2014-3034(IT)APP),
+John Hastings v. Her Majesty the Queen (2014-3252(IT)APP),
+on December 15, 2015 at
+Toronto, Ontario
+By: The Honourable Justice Henry A. Visser
+Appearances:
+Agent for the Applicant:
+Robert Mattacchione
+Counsel for the Respondent:
+Christopher M. Bartlett
+ORDER
+UPON reading the Applicant’s Application for an order extending the time within which a Notice of Appeal may be filed with respect to the reassessment made under the Income Tax Act for the Applicant’s 2002 and 2003 taxation years;
+AND UPON hearing from the parties;
+IT IS HEREBY ORDERED THAT the Application is dismissed, without costs.
+Signed at Vancouver, British Columbia, this 24th day of October 2016.
+“Henry A. Visser”
+Visser J.
+Docket: 2014-3005(IT)APP
+BETWEEN:
+TERESA SAPI,
+Applicant
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+And
+Docket: 2014-3034(IT)APP
+BETWEEN:
+ANECITO CALADO,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+And
+Docket: 2014-3252(IT)APP
+BETWEEN:
+JOHN HASTINGS,
+Applicant
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+And
+Docket: 2014-3508(IT)APP
+BETWEEN:
+TIMOTHY D’SOUZA,
+Applicant
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+VISSER, J.
+OVERVIEW: [1] Each of the four Applicants participated in a donation arrangement in one or more of the years 2001, 2002 and 2003, and claimed corresponding donation tax credits in those taxation years. The donation arrangement included the purchase and donation of various products, including comic books, pens, pencils, stationery and medical supplies, and was promulgated by Robert Mattacchione, the Applicants’ agent in these Applications, and one or more corporations with which he was affiliated. Each of the Applicants was reassessed by the Minister of National Revenue (the “Minister”) in respect of the donation arrangement, and each objected thereto. After a significant delay, each Applicant’s objection to those reassessments was confirmed by the Minister in 2014. Due to delays in filing a Notice of Appeal with this Court which were allegedly caused by Mr. Tony De Bartolo, a lawyer engaged by their agent, each of the Applicants filed an Application for an order extending the time to file a Notice of Appeal with this Court pursuant to section 167 of the Income Tax Act (Canada).[1] The four Applications were heard on common evidence.[2]
+ISSUES: [2] The sole issue in these Applications is whether each of the four Applicants should be granted an order extending the time to file a Notice of Appeal with this Court pursuant to section 167 of the Act in respect of the amounts in dispute pursuant to their participation in the donation arrangement.
+LAW and ANALYSIS: [3] Pursuant to subsection 169(1) of the Act, following the sending of a Notice of Confirmation by the Minister, each of the Applicants had 90 days[3] from the day the Notice had been sent to the Applicant by the Minister to file a Notice of Appeal with this Court. It is not disputed that each of the Applicants did not file a Notice of Appeal with this Court within this time limit. As such, each Applicant applied to this Court pursuant to section 167 of the Act for an order extending the time within which to file a Notice of Appeal. Section 167 of the Act more particularly provides as follows:
+167. (1) Extension of time to appeal — Where an appeal to the Tax Court of Canada has not been instituted by a taxpayer under section 169 within the time limited by that section for doing so, the taxpayer may make an application to the Court for an order extending the time within which the appeal may be instituted and the Court may make an order extending the time for appealing and may impose such terms as it deems just.
+(2) Contents of application — An application made under subsection (1) shall set out the reasons why the appeal was not instituted within the time limited by section 169 for doing so.
+(3) How application made — An application made under subsection (1) shall be made by filing in the Registry of the Tax Court of Canada, in accordance with the provisions of the Tax Court of Canada Act, three copies of the application accompanied by three copies of the notice of appeal.
+(4) Copy to Deputy Attorney General — The Tax Court of Canada shall send a copy of each application made under this section to the office of the Deputy Attorney General of Canada.
+(5) When order to be made — No order shall be made under this section unless
+(a) the application is made within one year after the expiration of the time limited by section 169 for appealing; and
+(b) the taxpayer demonstrates that
+(i) within the time otherwise limited by section 169 for appealing the taxpayer
+(A) was unable to act or to instruct another to act in the taxpayer's name, or
+(B) had a bona fide intention to appeal,
+(ii) given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application,
+(iii) the application was made as soon as circumstances permitted, and
+(iv) there are reasonable grounds for the appeal.
+[4] In this case, the parties have agreed that paragraph 167(5)(a) is not in issue as each of the four Applications was filed within the one year extended time limit. The parties have also agreed that subparagraph 167(5)(b)(iv) is not in issue on the basis that there are reasonable grounds for the underlying appeal of the donation arrangement. Thus, the only issues relate to the application of subparagraphs 167(5)(b)(i), (ii) and (iii) to these four Applications.
+[5] Pursuant to subsection 167(2), each of the Applications must “set out the reasons why the appeal was not instituted within the time limited by section 169 for doing so” In this respect, each of the four Applications was identically worded as follows:
+Agent had believed that the legal representative had filed an appeal for the appellant. However, the legal representative had not filed within the 90 days requirement, therefore the need to request to submit at this time.
+[6] Attached to each Application was a Notice of Appeal which was identical to the others except for the Appellant’s name and Social Insurance Number and the applicable taxation year. The Statement of Facts and Grounds for Appeal attached to each of the four Notices of Appeal was identically worded as set out in Schedule A, attached hereto.
+[7] The Minister opposed each of the Applications for an order extending the time to file a Notice of Appeal because each Applicant had
+“… not demonstrated that:
+a. he was unable to act or to instruct another to act within the time otherwise limited by the Act for so doing, as required by clause 167(5)(b)(i)(A) of the Act;
+b. he had a bona fide intention to appeal within the time otherwise limited by the Act for so doing, as required by clause 167(5)(b)(i)(B) of the Act;
+c. on the basis of the reasons set out in the Application and the circumstances of the case, it would be just and equitable to make an Order extending the time, within the meaning of subparagraph 167(5)(b)(ii) of the Act;
+d. the Application was made as soon as circumstances permitted, as required by subparagraph 167(5)(b)(iii) of the Act; and
+e. there are reasonable grounds for the appeal within the meaning of subparagraph 167(5)(b)(iv) of the Act.”[4]
+[8] The Minister did not call any witnesses at the hearing of this matter, but did submit an Affidavit from Christine Mah, an Officer in the Toronto Litigation Office of the Canada Revenue Agency (the “CRA”), in respect of each of the four Applications. Based on those Affidavits, but subject to an issue with respect to the applicable dates in Mr. Hastings’ Application as will be discussed further below, the relevant dates for each of the Applications are as follows:
+TAXPAYER
+TAX YEAR(s)
+DATE OF NOTICE OF REASSESSMENT
+CONFIRMA-TION DATE
+90 DAY DEADLINE
+APPLICATION FILING DATE
+# DAY(s) LATE
+Teresa Sapi
+2003
+March 8, 2007
+January 23, 2014
+April 23, 2014
+August 27, 1014
+126
+Anecito Calado
+2002
+April 20, 2006
+February 25, 2014
+May 26, 2014
+August 28, 2014
+94
+John Hastings
+2001
+July 19, 2004 & July 10, 2013
+June 2, 2014
+September 1, 2014
+September 5, 2014
+4
+Timothy D’Souza
+2002 & 2003
+April 7, 2006 & March 1, 2007
+June 16, 2014
+September 15, 2014
+October 1, 2014
+16
+[9] Teresa Sapi testified at the hearing of these Applications. I found her to be a credible witness. She also submitted some documentary evidence in support of her Application, which is included in Exhibit A-1. Ms. Sapi is an accountant who lives in Mississauga, Ontario and participated in the donation arrangement in 2003 and claimed a corresponding donation credit in her 2003 taxation year. Following the Minister’s reassessment, she objected to the reassessment on a timely basis. As she works in an accounting office, she utilized the assistance of Sonia Vaknin, a lawyer who is one of her colleagues that handles tax disputes. Ms. Vaknin in turn utilized the services of PAC Protection Corporation (“PAC”), a company affiliated in some way with Mr. Mattacchione and the donation arrangement in issue in the underlying tax appeals. Following the receipt of the Notice of Confirmation on January 23, 2014, Ms. Sapi provided the Notice of Confirmation to Ms. Vaknin who in turn emailed it to Donna DuSomme at PAC on the same date and asked her to “confirm next steps for this matter.”[5] Ms. Sapi further testified that she forwarded all mailings she received from the CRA relating to the donation arrangement under appeal promptly to Ms. Vaknin who in turn promptly forwarded the mail to PAC, who she understood was dealing with her appeal.
+[10] Ms. Sapi testified that she did not have any direct discussion with PAC and that she was not sure if PAC engaged a lawyer (or Mr. Tony De Bartolo in particular) to assist in the appeal, and that she became aware that her Notice of Appeal had not been filed when she received a notice from the CRA advising that her tax dispute was no longer under objection and that payment of the taxes under dispute was owing. She then immediately asked Ms. Vaknin to contact the CRA and PAC to determine what had happened. She subsequently filed this Application with the assistance of PAC. Ms. Sapi further testified that it was always her intention to appeal her reassessment following receipt of the Notice of Confirmation, but she is not sure why her Notice of Appeal was not filed on time. Ms. Sapi also testified that she had purchased a warranty from PAC in relation to the donation arrangement in 2005. While she was not sure what the warranty covered, she believed it covered taxes, interest and penalties if she was unsuccessful in her appeal.
+[11] Anecito Calado testified at the hearing of these Applications. I found him to be a credible witness. Mr. Calado is an electronic technician who lives in Mississauga, Ontario and participated in the donation arrangement in 2002 and claimed a corresponding donation credit in his 2002 taxation year. Following the Minister’s reassessment of his 2002 taxation year, he objected to the reassessment on a timely basis. He testified that when he received a letter from the CRA he would forward it to PAC almost immediately and they would handle it. He also testified that he mostly dealt with Donna DuSomme at PAC and that he trusted PAC to handle all of the tax matters, but that he was not aware of Mr. De Bartolo. He became aware that his Notice of Appeal had not been filed when the CRA sent him a letter indicating that he needed to pay the taxes owing pursuant to the reassessment under dispute, following which he contacted Ms. DuSomme at PAC and this Application was filed with this Court. Mr. Calado also testified that he had purchased a warranty from PAC in relation to the donation arrangement and that he believed it covered taxes, interest and penalties if he was unsuccessful in his appeal. While Mr. Calado did not fully comprehend all of the various correspondence sent to him by the CRA, based on his testimony it is my view that he had an intention to continue appealing his reassessment and forwarded any such correspondence promptly to PAC upon receipt as he relied on PAC to look after his appeal.
+[12] Timothy D’Souza testified at the hearing of these Applications. I found him to be a credible witness. Mr. D’Souza is a litho printer who lives in Mississauga, Ontario and participated in the donation arrangement in 2002 and 2003 and claimed a corresponding donation credit in his 2002 and 2003 taxation years. Following the Minister’s reassessment of his 2002 and 2003 taxation years, he objected to the reassessments of both taxation years. He testified that he was advised by his accountant and financial planner, Mr. Tony D’Souza, regarding his participation in the donation arrangement. He also testified that his spouse, Vivien D’Souza, looks after all of his financial affairs, and that she communicated with both PAC and Mr. Tony D’Souza regarding his appeal of the Minister’s reassessments of his 2002 and 2003 taxation years. Mr. D’Souza was not sure if he had purchased a warranty from PAC, but thought that PAC would either reimburse him or pay the amounts owing if he lost his appeal.
+[13] Vivien D’Souza, the spouse of Timothy D’Souza, also testified at the hearing of these Applications. I found her to be a credible witness. Ms. D’Souza is currently a postal worker who lives in Mississauga, Ontario. She previously had worked as a secretary and handled most of the paperwork for Mr. D’Souza and in particular with respect to his involvement in the donation arrangement and his appeal of the resulting reassessment in issue. Ms. D’Souza believes that she also participated in the donation arrangement. With respect to Mr. D’Souza’s reassessment, Ms. D’Souza testified that she communicated verbally and by email with Ms. DuSomme to get her advice and she would get Ms. DuSomme to fax any documents that needed to be signed by Mr. D’Souza. She would then tell Mr. D’Souza what Ms. DuSomme had said and get him to promptly sign the relevant documents. When they received Mr. D’Souza’s Notice of Confirmation from the CRA, she also forwarded it to Ms. DuSomme and relied on her to look after the appeal. She also testified that she did not know if a lawyer was involved in Mr. D’Souza’s appeal and that she and Mr. D’Souza had no dealings with Mr. De Bartolo, but that she put her trust in Ms. DuSomme as their professional adviser. Ms. D’Souza also testified that both she and Mr. D’Souza had purchased a warranty from PAC in relation to the donation arrangement and that it would cover expenses but that she did not know what parts the warranty covered.
+[14] Donna DuSomme, an accounting clerk with PAC, testified at the hearing of these Applications. I found her to be a credible witness. She assisted the Applicants with their Notices of Objections and appeals, and regularly dealt with them by email, facsimile and telephone. She also dealt with the Applicants’ accountants or financial advisors. She started working with PAC in approximately June 2013. Her position was previously occupied by Cheri Durst, who also provided instructions to her. With respect to the appeals of each Applicant’s Notice of Confirmation, she testified that she was advised by Ms. Durst that Mr. Tony De Bartolo, a lawyer, had been engaged by PAC to manage the process of filing each Notice of Appeal. She further testified that she would fax him each donor’s file, together with the donor’s Notice of Confirmation, and it was her understanding that he would then file the necessary Notice of Appeal with this Court. However, he never sent any correspondence that confirmed that he had filed any of the Notices of Appeal.
+[15] With respect to Ms. Sapi’s appeal, Ms. DuSomme testified that she received Ms. Sapi’s Notice of Confirmation by email on January 23, 2014,[6] that she sent it by facsimile to Mr. De Bartolo on January 29, 2014, that the facsimile cover sheets confirming this are set out at Tab 3 of Exhibit A-1, and that Mr. De Bartolo confirmed receipt of Ms. Sapi’s file by email on January 29, 2014, a copy of which is set out at Tab 4 of Exhibit A-1.
+[16] Ms. DuSomme testified that although she understood that Mr. De Bartolo was supposed to be filing all of the appeals, there was an influx of calls from donors wondering why they were being contacted by the CRA stating that they had an undisputed amount of tax that had to be paid. She testified that she believed she became aware of the failure to file Ms. Sapi’s appeal in late March or early April, 2014. However, by this time she was unable to reach Mr. De Bartolo by phone or email, despite numerous attempts to do so. She testified that PAC then tried to file the appeals on behalf of the Applicants. In this respect, she further testified that Cheri Durst filed an Application to Extend Time in respect of Ms. Sapi’s appeal with this Court on April 24, 2014, as evidenced by an email from the Registry of this Court on April 24, 2014 and set out at Tab 5 of Exhibit A-1. The reason for the Application to Extend Time as set out therein was “Confusion between the lawyer and the agent with regard to submission of appeal.” However, as set out at Tab 6 of Exhibit A-1, this Court advised Ms. Durst in a letter dated May 1, 2014 that additional information was required to file Ms. Sapi’s Application to Extend Time and Notice of Appeal. Ms. DuSomme testified that she then refiled Ms. Sapi’s Application to Extend Time and Notice of Appeal on August 27, 2014, which was accepted by this Court, but that she was not aware of what happened between May 1, 2014 and August 27, 2014 with respect to Ms. Sapi’s Application, or why there was a further delay in providing the additional information requested by this Court on May 1, 2014.[7] However, she testified that she did try to contact Mr. De Bartolo by facsimile on June 26, 2014[8] with respect to Ms. Sapi’s appeal, but that she did not get a response from him, and that she was of the view that Ms. Sapi’s Application to Extend Time was expedited as quickly as possible in the circumstances.
+[17] Ms. DuSomme testified that the issues with Mr. De Bartolo began in 2013 and continued into 2014, and that she became aware that Mr. De Bartolo removed himself from representing PAC and the Applicants in February 2015, when Mr. De Bartolo sent a letter to the Applicants advising that he was removing himself. I note, however, that a copy of this purported letter was not introduced into evidence by Ms. DuSomme or any of the Applicants, and that the only evidence submitted to this Court that purports to be from Mr. De Bartolo is an email that indicates he received two facsimiles relating to Ms. Sapi on January 29, 2014.[9] That email, however, does not indicate what action, if any, Mr. De Bartolo was intending to take with respect to Ms. Sapi’s appeal or the appeals of any of the other Applicants. I also note that Ms. DuSomme testified that PAC intentionally did not provide Mr. De Bartolo’s name to the Applicants because PAC was concerned about the legal costs that might result if donors contacted Mr. De Bartolo directly. Ms. DuSomme also testified that no other counsel was retained by PAC to assist in filing the Applicants’ appeals, even after PAC became aware of Mr. De Bartolo’s apparent failure to file the appeals in issue.
+[18] Ms. DuSomme also testified that PAC represented participants in the donor arrangement who purchased warranty insurance as well as those who participated in a defence fund, although she was not sure what the warranty covered. She testified that PAC also assisted other participants in the donor arrangement if they asked PAC for assistance, even if they had not purchased a warranty or were part of the defence fund.
+[19] Overall, Ms. DuSomme testified that the Applicants were timely in forwarding CRA documentation, including the Notices of Confirmation, to her and that she was timely in forwarding them to Mr. De Bartolo, and that it was only when CRA began contacting the Applicants about collection matters that the Applicants and she became aware of Mr. De Bartolo’s apparent failure to file the Applicants’ Notices of Appeal with this Court, after which she and PAC acted as promptly as they could considering the significant volume of appeals they were administering.
+[20] There was conflicting evidence as to when the Minister issued the Notice of Confirmation for John Hastings. Christine Mah’s Affidavit, and the Minister’s Reply, indicate that it was dated and mailed on June 2, 2014. John Hastings’ Application and his Notice of Appeal both indicate that the Notice of Confirmation was dated June 6, 2014. At tab 26 of Exhibit A-1, a signed copy of the Minister’s Notice of Confirmation which was sent to John Hastings is dated June 6, 2014. However, the fax cover sheet from John Hastings enclosing this Notice of Confirmation appears to be dated June 5, 2014. As the date on the Minister’s Notice of Confirmation which was sent to John Hastings is clearly dated June 6, 2014, I have determined, for the purposes of John Hastings’ Application, that it was dated and issued on that date. In any event, I note that it is not disputed that John Hastings was late in filing his Notice of Appeal, and it is my view that it is not material to the outcome of his Application whether he was one day or four days late in filing his Notice of Appeal together with his Application herein.
+[21] Based on the foregoing, Mr. Mattacchione has argued that all four Applications should be granted as each of the Applicants had a bona fide intention to appeal, each of the Applications were made as soon as circumstances permitted, and given the reasons set out in each of the Applications and the circumstances of each case, it would be just and equitable to grant each such Application. In particular, he argued that PAC was dealing with hundreds of individuals at the same time and CRA had an approach of confirming objections en masse which created a back-log at PAC. He also argued that PAC dealt with the issue created by Mr. De Bartolo’s failure to act as expeditiously as it could in the circumstances, considering the volume of appeals being handled by PAC. From an equitable perspective, Mr. Mattacchione argued that it would be equitable to grant these four Applications as the Applicants are hardworking everyday people and the consequences of the appeal are financially cumbersome to the Applicants, who are not wealthy people, and it would be unfortunate if the Applications and the resulting appeals were not allowed to proceed because of an error by PAC or Mr. De Bartolo. He also argued that the entity which sold warranty insurance to the Applicants (and many others involved in the donor arrangement) may not be able to afford a loss resulting from the approximately 130 individual donors who may lose their appeals based on these four lead case Applications.
+[22] The Applicants brought a number of cases to my attention in support of their position in this matter, including:
+(a) Mehta v. R., 2011 TCC 38;
+(b) 2749807 Canada Inc. v. R., 2004 TCC 457;
+(c) Euro Software Canada Mondial (ESCM) Inc. v. R., 2004 TCC 296;
+(d) Meer v. R., 2001 D.T.C. 648;
+(e) Gorenko v. R., 2002 D.T.C. 2025; and
+(f) Rock v. R., 2010 TCC 607.
+[23] Of these cases, Mr. Mattacchione referenced Mehta, where Justice Miller of this Court determined that it would be just and equitable to grant the requested application for an extension of time where the harm of disallowing the Application to the Appellant was greater than the harm to the Respondent, if the Application was allowed. With respect, however, while this may be a relevant factor, it is my view that this should not be a determinative factor in and of itself in each case, as the harm to an applicant of not granting an application to extend time is almost always greater than the harm to the Minister if an application to extend time is granted. In addition, it is my view that it is clear that Parliament, in drafting section 167 of the Act, did not intend that section 167 provide all appellants with an extended one year appeal period.
+[24] Mr. Mattacchione also referenced Gorenko, which dealt with an application for an extension of time where two lawyers, who had been tasked with preparing and filing an appeal, failed to do so due to a miscommunication between them. Upon discovering the problem, they remedied the situation within two days. In that case, Justice Lamarre Proulx of this Court noted the following at paragraphs 13 to 19:
+13 Counsel for the Applicant argued that the Applicant had acted with due diligence as well as Mr. Rose and Mr. Barbacki and that as soon as it was discovered by Mr. Rose's assistant that the Notice of Appeal had not been filed on time, it was acted upon. He stated that the evidence showed that the Applicant brought the Minister's confirmation as soon as he received it to his lawyer, Mr. Rose. The latter was much taken by his criminal law work particularly, by a substantial file concerning Mr. Gorenko with the Quebec Court Criminal Division, so he entrusted the matter to a lawyer acting within their premises. There may have been a misunderstanding between the lawyers that resulted in the exceeding of the time limit but that was not due to negligence on either part.
+14 Counsel for the Respondent base her case on Mr. Barbacki's behaviour. There was carelessness in Mr. Barbacki's behaviour in his handling of the case that had been confided to him. She referred to my decision in Di Modica v. Canada, [2001] T.C.J. No. 620 (Q.L.) at paragraph 16:
+[16] It is my view that an error by counsel can be a just and equitable reason for granting an extension of time if counsel otherwise exercised the reasonable diligence required of a lawyer. I do not think that the state of the law is such that counsel's negligence or carelessness can constitute a just and equitable reason for granting the requested extension within the meaning of subparagraph 166.2(5)(b)(ii) of the Act.
+15 Counsel for the Applicant replied that Mr. Rose was Mr. Gorenko's lawyer and not Mr. Barbacki. Mr. Rose was Mr. Barbacki's client.
+Conclusion
+16 The evidence has shown that the Applicant instructed his lawyer on time to file a Notice of Appeal and that Mr. Rose acted with a reasonable degree of diligence. He did not have time to file the Notices of Appeal himself so he retained a colleague to act on his behalf.
+17 That lawyer was entrusted with the filing of the appeal on time. He knew of the deadline. He filed the appeals for the companies on time, albeit on the last day or so according to his testimony. I accept that, as the lawyers suggested, there may have been a misunderstanding between them and that may have been the cause of the delay.
+18 I consider to be an important element in the present matter the fact that the Applicant's lawyer confirmed that the Applicant acted on time and that the lawyers testified to explain their omission. I consider also to be an important element the fact that as soon as the omission was found by Mr. Rose and his assistant, the application for extension of time was filed accompanied by a proposed Notice of Appeal.
+19 Although this case is not as straightforward as it should be, these cases seldom are, and in view of the fact that Mr. Gorenko and Mr. Rose showed a reasonable degree of diligence in the exercise of their rights and duties, the extension of time to file an appeal is granted. [Emphasis added]
+[25] I note that both lawyers testified in the Gorenko case, and Justice Lamarre Proulx determined that they both acted with a reasonable degree of diligence in the exercise of their duties. In contrast, it is my view that it is not clear that either PAC or Mr. De Bartolo acted with a reasonable degree of diligence in this case. I note that Mr. De Bartolo was not called or subpoenaed to testify as a witness, and there was no independent evidence, such as an engagement letter, to confirm that he was in fact retained to act on behalf of the Applicants or PAC, or any explanation as to why he did not act on a timely basis in filing the Appeals. I have drawn an adverse inference from his failure to testify and the Applicants’ failure to call or subpoena him as a witness. I also note that PAC has not adequately explained why it did not take more adequate measures to file the appeals within the stipulated 90 day time limit, such as engaging other counsel, despite the fact that each of the Applicants forwarded their Notice of Confirmations to PAC on a timely basis.
+[26] The Respondent argued that each of the Applications should be dismissed for the reasons set out in the Minister’s Reply, as noted above, and brought a number of cases to my attention in support of the Minister’s position in this matter, including:
+(a) Sampson v. R., 2012 TCC 156;
+(b) Hamilton v. R., 2013 TCC 192;
+(c) Bouganim v. R., 2010 TCC 560; and
+(d) Maria Di Modica v. R., 2002 D.T.C. 1290 (Eng.).
+[27] In this case, I agree with the Respondent that each of the Applications should be dismissed for the reasons that follow.
+[28] In making an Application under section 167 of the Act, an Applicant has the onus of establishing that each of the criteria set out in subsection 167(5) of the Act has been met. As noted in paragraph 3 of Dewey v. Canada, 2004 FCA 82, “a failure to meet any one of the conditions is fatal to the application.” In addition, as noted in paragraph 15 of Kolmar v. R., 2003 TCC 829,
+… Once the Minister sends a notice to the taxpayer that the assessment has been confirmed or the Minister has reassessed as a result of an objection, the taxpayer has 90 days from the mailing of the notice to appeal to the Court: subsection 169(1). [The taxpayer may also appeal an assessment if 90 days have elapsed after filing a notice of objection and the Minister has not notified the taxpayer that the Minister has vacated or confirmed the assessment or reassessment.] Within this 90 day period the taxpayer is to gather all his or her forces, assemble documentation, obtain legal advice, etc. to prepare a notice of appeal and actually file a notice of appeal. Section 167 is an exception to section 169. All conditions in subsection 167(5) must be fulfilled before an order can be made extending the time to appeal. The taxpayer must demonstrate, among other things, that he or she was unable to act or instruct another to act in the taxpayer's name or had a bona fide intention to appeal within the 90 day period but because of serious illness, accident or misfortune or due to one of those inevitable mishaps that occur in life, he or she could not act or instruct another or exercise his or her intention to file an appeal on time. If a taxpayer is late in filing a notice of appeal, the taxpayer must act with diligence to apply for an extension of time to appeal and file a notice of appeal. There is no comfort of one year to get ready to make an application. In enacting section 167, Parliament did not intend to extend by a year a taxpayer's right to appeal an assessment. Such an interpretation would render the delays in section 169 absolutely meaningless.
+[29] In Sampson, Justice Paris of this Court indicated at paragraph 4 that Mr. Sampson ““… simply said that whenever he received material from the Canada Revenue Agency, he forwarded it to OI Employee Leasing Inc. (OI), and that it was OI’s responsibility to take care of it.” Justice Paris further noted the following at paragraphs 7 and 8 of that case:
+7 However, I am not satisfied that Mr. Sampson has shown that he has met either of the conditions set out in paragraph 167(5)(b)(i), which requires that an applicant show either that he was unable to act or instruct another to act in his name, or that he had a bona fide intention to appeal within the time otherwise limited for appealing the reassessment (i.e. 90 days from the date of confirmation). There is no evidence before me to suggest that between August 14, 2008 and November 12, 2008, Mr. Sampson was unable to act or to instruct anyone else to act for him. Furthermore, Mr. Sampson has not shown that he had the intention to appeal within that period. There is no proof before me that he instructed OI to file an appeal on his behalf. His statement that he forwarded any materials he received from the CRA to OI, and expected OI to take care of things is insufficient to demonstrate a specific “bona fide” intention to appeal the reassessment during the relevant period. The application filed on December 23, 2008 on behalf of Mr. Sampson by OI sets out that a notice of appeal (presumably from the reassessments of the 2003, 2004 and 2005 taxation years) was submitted in May 2007 but that no filing fee or request to waive the filing fee was subsequently submitted. The application goes on to state that “[u]pon receiving another Notice of Confirmation for the 2006 taxation year and upon learning that a filing fee was no longer required, a new Notice of Appeal is being submitted”.
+8 It appears to me that Mr. Sampson chose not to appeal the reassessment before submitting his application on December 23, 2008 because he did not wish to pay the required filing fee or to request a waiver of the filing fee. In any event, he has not provided any evidence regarding what, if any, follow-up was done by him with OI after he forwarded the Notice of Confirmation for 2006 to OI. The onus in this application is on Mr. Sampson to show that he had a bona fide intention to appeal within 90 days of the confirmation of the reassessment, and in the absence of evidence as to what steps he took or attempted to take, (if any) through OI to appeal, that onus has not been met. [Emphasis added]
+[30] In Hamilton, Justice Miller dismissed Andrea Hamilton’s Application for an Extension of Time where Ms. Hamilton provided an Affidavit but did not attend at the hearing of her Application to testify. Given the conflicting reasons set out in the reasons and Ms. Hamilton’s Affidavit, Justice Miller determined that she could give no weight to the Affidavit. Counsel for the Respondent argues that Mr. Hastings failure to attend and testify is similarly fatal to his Application.
+[31] In Bouganim, Justice Favreau of this Court noted the following at paragraphs 2 and 24 through 26:
+2 The issue is whether the negligence of the lawyer, Victor A. Carbonneau, may be a just and equitable ground for granting the applications under subsection 305(5) of the ETA. The lawyer's mistake was admitted at the hearing.”
+…
+24 However, Mr. Carbonneau made several mistakes, including not filing the notices of appeal within the time allotted and not carrying out his mandate, not promptly informing his clients of that failure, not swiftly remedying the failure, and having asked Mr. Talarico to prepare the applications for an extension of time to appeal and the notices of appeal. Mr. Talarico did nothing, and Mr. Carbonneau was the one who prepared the first draft of the notice of appeal. All of these mistakes clearly amounted to negligence or carelessness on the part of Mr. Carbonneau and his associate.
+25 In Di Modica v. The Queen, 2001 CanLII 548, Justice Lamarre Proulx dismissed an application to extend the time for serving a notice of objection because the lawyers concerned had been negligent or careless. At paragraph 16 of her decision, she concluded as follows:
+It is my view that an error by counsel can be a just and equitable reason for granting an extension of time if counsel otherwise exercised the reasonable diligence required of a lawyer. I do not think that the state of the law is such that counsel's negligence or carelessness can constitute a just and equitable reason for granting the requested extension within the meaning of subparagraph 166.2(5)(b)(ii) of the Act.
+26 Given that Mr. Carbonneau was negligent or careless, the condition set out in subparagraph 305(5)(b)(ii) has not been met, as it does not seem that it would be just and equitable to grant the applications.
+[32] In Di Modica, Justice Lamarre Proulx also noted at paragraph 15 that
+… there is an admission in counsel's submissions that the lawyers were negligent, and none of the lawyers involved came to testify and explain his conduct and the chain of events in this case. As well, the result of that failure to testify is that there is no confirmation of the applicant's assertion that she had wanted to appeal the assessment within 90 days following that assessment.
+[33] In this case, it is my view that there was no evidence that each of the Applicants was unable to act or instruct another to act. To the contrary, there was evidence that each Applicant had instructed Ms. DuSomme and PAC to act during this time period. Therefore, it is my view that none of the Applicants has established that clause 167(5)(b)(i)(A) applies. However, an Applicant may still succeed if the Applicant establishes that he or she had a bona fide intention to appeal as set out in clause 167(5)(b)(i)(A) of the Act.
+[34] Based on all of the evidence, it is my view that Ms. Sapi has demonstrated that she had a bona fide intention to appeal within the 90 day time limit set out in section 169 of the Act. While there is some doubt about their understanding of the nature of these proceedings and their appeal, it is also my view that Mr. D’Souza and Mr. Calado have each established, on a balance of probabilities, that they each had a bona fide intention to appeal within the 90 day time limit set out in section 169 of the Act. As such, it is my view that each of these three Applicants have established that he or she had a bona fide intention to appeal within the 90 day time limit set out in section 169 of the Act and have therefore met the requirement of subparagraph 167(5)(b)(i). In this respect, based on their testimony, there is evidence that each of the Applicants forwarded the Notice of Confirmation to Ms. DuSomme at PAC promptly upon receipt with the expectation that PAC would continue to dispute their tax appeals, as it had been doing for some time. However, as in the Sampson case, there was little or no evidence that any of these three Applicants followed up with PAC after initially forwarding their Notice of Confirmation to PAC. As discussed further below, it is my view that this is a relevant factor in considering whether it is just and equitable to grant each of their respective Applications.
+[35] While John Hastings did not attend or testify at the hearing of these Applications, there is some evidence that he intended to continue appealing his reassessment. In this respect, I note that he sent the Notice of Confirmation which he received from the CRA to Ms. DuSomme by facsimile on or about June 5, 2014. A copy of this facsimile, together with the Notice of Confirmation, is set out at Tab 26 of Exhibit A-1. However, while the facsimile specifies that Mr. Hastings sent the Notice of Confirmation to Ms. DuSomme for review and comment, it is not clear if he intended to appeal or was thereby instructing PAC to file an appeal on his behalf. Given the probability that he had purchased warranty insurance from PAC, there is also a possibility that he was forwarding the Notice of Confirmation to PAC in respect of a warranty claim. He may also have simply been asking for advice for the purpose of determining whether he should continue with his appeal. There was also no evidence that Mr. Hasting followed up with PAC after he forwarded his Notice of Confirmation to PAC. Overall, it is my view that Mr. Hastings has not satisfied his onus of establishing that he had a bona fide intention to appeal within the 90 day time limit set out in section 169 of the Act. I am supported in my determination by the decision of Justice Paris in the Sampson case.
+[36] With respect to subparagraph 167(5)(b)(ii), the Respondent argues that the alleged negligence of Mr. De Bartolo, who did not testify, is not a just and equitable reason to grant the Applications in this case. The Respondent further argues that the Applicants did not adequately follow up once they had provided their Notice of Confirmation to PAC, and notes that Justice Tardif concluded in 2749807 (a case referenced by the Applicants) that relying on an allegedly qualified and competent person is not in itself an acceptable excuse to justify and explain a failure to act within the prescribed time. In this case, the Respondent argues that there is no evidence of follow-up after the Applicants forwarded their Notice of Confirmation to PAC. The Respondent also argues that the Applicants did not know Mr. De Bartolo, had never dealt with him directly, and in fact did not know he was purportedly acting on their behalf.
+[37] I agree with the Respondent. It is my view that the Applicants have not established that it would be just and equitable to grant their Applications given the reasons set out in their Applications and the circumstances of their cases. It is my view that the alleged failure of PAC and Mr. De Bartolo to file the Applicants’ appeals on a timely basis within the appeal period is not a just and equitable reason to grant the Applications in the circumstances of this case. While there is insufficient evidence in this case to establish that Mr. De Bartolo was negligent or careless, or that he even had been engaged to act on behalf of the Applicants, it is my view that the Applicants have not established that PAC or Mr. De Bartolo acted with reasonable diligence as required in the Di Modica case. PAC was purportedly engaged to assist the Applicants in filing their appeals. It failed to do so, and failed to properly engage counsel to assist it in doing so. There is no evidence that it actively monitored the status of the appeal filings on a case by case basis, or that it set in place procedures for doing so. There is also no evidence that it was properly staffed to handle the volume of appeals it took on or that it engaged a sufficient number of counsel, of which there are no shortage in Ontario or Canada, to assist it in filing and handling the appeals it had taken on.
+[38] I also note that the reasons set out in the Applications for Mr. Calado, Mr. Hastings and Mr. D’Souza are in my view not entirely truthful. It is clear that PAC and Ms. DuSomme were aware that there was a problem with the filing of donor’s appeals on or before April 24, 2014. The deadline for filing the Notice of Appeal for each of Mr. Calado, Mr. Hastings and Mr. D’Souza was well after that date. In addition, the Notice of Confirmation for each of Mr. Hastings and Mr. D’Souza was dated after that date. In my view, PAC and Mr. Calado, Mr. Hastings and Mr. D’Souza had ample time after April 24, 2014 to file their respective Notice of Appeal within the 90 day deadline, but failed to do so. Each of the four Applicants also failed to take adequate steps, if any, to follow-up with PAC to ensure their respective Notice of Appeal was filed on a timely basis.
+[39] I am supported in my view by the decision of Justice Lamarre Proulx in Di Modica, as previously noted, and by Carrier v. Canada, 2005 TCC 182, where an error by an applicant’s accountant in late filing a Notice of Objection was held not to meet the similar criteria set out in section 166.2 of the Act. I am also supported in my view by this Court’s decision in Kolmar, as previously noted.
+[40] With respect to subparagraphs 167(5)(b)(iii), it is my view that the Applicants have not met this criteria. Ms. Sapi, Mr. Calado, and Mr. D’Souza testified that they each forwarded their Notice of Confirmation to PAC on a timely basis. In addition, Mr. Hastings forwarded his Notice of Confirmation to PAC promptly upon receipt. As such, in my view each of the four Applicants and PAC had ample time to file their respective Notice of Appeal with this Court within the 90 day time limited for doing so pursuant to section 169 of the Act, and therefore in my view these Applications would not have been required in the circumstances of each of these cases had each of the Applicants and PAC exercised the degree of diligence required of each.
+[41] With respect to Ms. Sapi’s Application, the Respondent argues that there was not a sufficient explanation provided by PAC and Ms. Sapi as to why it was filed four months after the deadline. With respect to the other three Applications, the Respondent argues that PAC was aware of the purported issue with Mr. De Bartolo at least on April 24, 2014, which is well before the 90 day deadline arose in each of the other three Applications, and PAC and the other Applicants have not adequately explained the delay in filing those appeals given this awareness.
+[42] Mr. Mattacchione argued, in contrast, that PAC was simply an administrator and that the Applicants relied on both their own advisors and PAC over a long period of time, and that trust built up over time was the reason the Applicants may not have followed up with PAC, as there was no reason for them to follow-up given their past experience with the Notice of Objection process and other issues raised by the CRA during the entire process. He also argued that some of the Applicants admittedly had a limited understanding of the process, so had to rely on PAC or others for advice and assistance. He also argued that PAC had limited resources, namely Ms. DuSomme, to handle a large volume of appeals and applications.
+[43] I agree with the Respondent. In my view, the Applicants and PAC have not adequately established why their appeals were filed outside the 90 day time limit and why they were delayed beyond that time limit.
+[44] Overall, it is my view that each of the Applicants provided their respective Notice of Confirmation to PAC on a timely basis, and then simply trusted PAC to attend to their appeals without adequately following up with PAC to ensure their appeal was so filed. Unfortunately, their trust in PAC was misplaced, as PAC did not ensure their appeals were filed on a timely basis or take adequate steps in doing so. While PAC has attempted to deflect blame to Mr. De Bartolo, who did not testify, it is my view that any neglect or carelessness by either PAC or any counsel it engaged to file the appeals in question is not a just and equitable reason to grant these four Applications.
+CONCLUSION: [45] Based on all of the foregoing, each of the four Applications for an order extending the time within which an appeal may be instituted is dismissed, without costs.
+Signed at Vancouver, British Columbia, this 24th day of October 2016.
+“Henry A. Visser”
+Visser J.
+Schedule A Statement of facts: 1. The above-mentioned Taxpayer acquired several goods (hereinafter referred as the “Goods”) and donated the Goods to a registered Canadian Charity (referred as the “Charity”) qualified to issue charitable donation receipts under the Income Tax Act (Canada) (hereinafter referred as the “ITA”).
+2. The above-mentioned Taxpayer donated cash to a registered Charity qualified to issue charitable donation receipts under ITA.
+3. The Charity issued a charitable donation tax receipt to the Taxpayer in an amount equal to the appraised value of the Goods donated by the Taxpayer to that Charity.
+4. The Charity issued a charitable donation tax receipt to the Taxpayer in an amount equal to the Cash donated by the Taxpayer to that Charity.
+5. In computing the Taxpayer’s tax payable under Part I of the ITA, the Taxpayer deducted an amount in respect of the appraised value of the Goods and Cash donated by the Taxpayer to the Charity in accordance with the ITA (hereinafter, “Tax Credit”).
+6. The Canada Revenue Agency reassessed the Taxpayer to disallow the deduction of the Tax Credit (if applicable: “and assessed penalties”).
+Grounds for Appeal:
+7. The Goods were the Taxpayer’s personal use property within the meaning of the ITA.
+8. The Taxpayer’s donations of the Goods and Cash to Charity were gifts and were properly included in the computation of the Taxpayer’s “total charitable gifts”.
+9. In computing the Taxpayer’s tax payable, the taxpayer is entitled under the ITA to deduct the Tax Credit.
+10. The Taxpayer has not acted negligently nor committed any act which warrants the assessment of penalties (if applicable).
+11. The Taxpayer reserves its right to submit any additional document or arguments in support of the present notice of assessment or reassessment.
+CITATION:
+2016 TCC 239
+COURT FILE NO.:
+2014-3005(IT)APP
+2014-3034(IT)APP
+2014-3252(IT)APP
+2014-3508(IT)APP
+STYLE OF CAUSE:
+TERESA SAPI AND HER MAJESTY THE QUEEN
+And
+ANECITO CALADO AND HER MAJESTY THE QUEEN
+And
+JOHN HASTINGS AND HER MAJESTY THE QUEEN
+And
+TIMOTHY D’SOUZA AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+December 15, 2016
+REASONS FOR ORDER BY:
+The Honourable Justice Henry A. Visser
+DATE OF ORDER:
+October 24, 2016
+APPEARANCES:
+Agent for the Applicants:
+Robert Mattacchione
+Counsel for the Respondent:
+Christopher M. Bartlett
+COUNSEL OF RECORD:
+For the Applicant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Income Tax Act, R.S.C., 1985, c. 1 (5th Supp.).
+[2] There was a fifth Application for an extension of time to file a Notice of Appeal by Herripersaud Budwa, 2014-3016(IT)APP, which was scheduled to be heard along with these four Applications. That Application was adjourned on the day of the hearing for medical reasons. Together, the five Applications are lead cases and relate to a group of approximately 136 Applications for an extension of time to file a Notice of Appeal represented by the agent for these Applicants. These cases are a subset of a much larger number of appeals arising out of the donation arrangement in issue.
+[3] Subject to extension pursuant to section 26 of the Interpretation Act (Canada) where the deadline fell on a holiday.
+[4] See paragraphs 6, 6, 9 and 8 of the Minister’s Reply To An Application For An Extension of Time in Sapi, Calado, D’Souza and Hastings, respectively.
+[5] See Exhibit A-1, Tab 2. Both Teresa Sapi and Sonia Vaknin are copied on Marcia Niles’ January 23, 2014 email to Donna DuSomme at PAC enclosing Ms. Sapi’s January 23, 2014 Notice of Confirmation. Ms. Niles is Sonia Vaknin’s assistant.
+[6] Supra note 5.
+[7] See Exhibit A-1, Tab 8.
+[8] See Exhibit A-1, Tab 7.
+[9] See Exhibit A-1, Tab 4.

@@ -1,0 +1,182 @@
+Title: 9291-8002 Québec Inc. v. The King
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/520995/index.do
+Corpus path: corpus/cases/tcc/2022/2022-tcc-123-520995-9291-8002-qu-bec-inc-v-the-king-en.md
+Document type: case_law
+Last modified: 2022-10-27
+
+# 9291-8002 Québec Inc. v. The King
+
+- Citation: 2022 TCC 123
+- Decision date: 2022-10-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5797, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9291-8002 Québec Inc. v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-10-27
+Neutral citation
+2022 TCC 123
+File numbers
+2019-192(GST)G, 2019-3236(IT)G
+Judges and Taxing Officers
+Dominique Lafleur
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2019-192(GST)G
+BETWEEN:
+9291-8002 QUÉBEC INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Docket: 2019-3236(IT)G
+AND BETWEEN:
+MEHMET AKYOL,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Motion filed by written submissions at Ottawa, Canada
+Before: The Honourable Justice Dominique Lafleur
+Appearances:
+Counsel for the Appellants:
+Meghan Jones
+Counsel for the Respondent:
+Hubert-Martin Cap-Dorcelly
+ORDER
+UPON READING the Notice of Motion filed by the appellants. 9291-8002 Québec inc. and Mehmet Akyol, and dated August 2, 2022, for an order striking certain questions from the written examinations for discovery conducted by the respondent, documents filed in the record and the request that the motion be decided on the basis of written submissions without appearance by the parties;
+AND UPON READING the parties’ written submissions;
+THIS COURT ORDERS AS FOLLOWS:
+For the reasons attached, the motion is dismissed, with one set of costs to the respondent;
+Answers to written questions served on the appellants by the respondent will be served on the respondent no later than December 23, 2022;
+If necessary, an additional questionnaire will be served on the appellants no later than January 24, 2023;
+Responses to the supplemental questionnaire, if applicable, will be served on the respondent no later than February 24, 2023;
+The parties will communicate in writing with the Hearings Coordinator, no later than March 24, 2023, to inform the Court if the appeal at issue has been settled, if it is desirable to hold a settlement conference, or if a hearing date must be set. In the latter case, the parties must file a joint application before March 24, 2023, to set the time and place of hearing under section 123 of the Tax Court of Canada Rules (General Procedure).
+Signed at Ottawa, Canada, this 27th day of October 2022.
+“Dominique Lafleur”
+Lafleur J.
+Translation certified true
+on this 21st day of May 2024.
+François Brunet, Revisor
+Citation: 2022 TCC 123
+Date: 20221027
+Docket: 2019-192(GST)G
+BETWEEN:
+9291-8002 QUÉBEC INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Docket: 2019-3236(IT)G
+AND BETWEEN:
+MEHMET AKYOL,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR ORDER
+Lafleur J.
+I. The motion [1] The appellants, Mehmet Akyol (“Mr. Akyol”) and 9291-8002 Québec inc. (“the corporation”), filed a motion, notice of which is dated August 2, 2022, together with supporting documents, for an order striking certain questions from the respondent's written examinations for discovery of the appellants on the grounds that these questions are irrelevant, abusive and disproportionate to the amounts at issue in the appellants' appeals to this Court.
+[2] More specifically, the motion seeks the striking out of questions 10, 11, 12 (in part), 13, 14, 15, 17, 18, 19, 20, 22 (in part), 23, 24 and 25 of the examination for discovery of Mr. Akyol ("questions for Mr. Akyol") and questions 8, 9, 10, 11, 12, 13, 14, 15, 17, 18, 19 and 20 of the examination for discovery of 9291-8002 Québec inc. ("questions for 9291-8002 Québec inc.").
+[3] On May 10, 2022, the respondent agreed to withdraw the following questions from Mr. Akyol's written examination for discovery: questions 12(c), 12(e), 12(f), 12(j), 12(p), 12(t), 12(v), 12(w), 12(y), 12(aa), 22(a) iv, v, vi, vii and xiv, 22(c) i, ix and x; 22(e) i, ii, v and xi; 22(g) ii, v, vi, viii, xii, xiv and xviii; 22(i) i, iii, iv, x, xi, xii and xiv; 22(k) i, ii, iv, vi and viii, and 22(m) i, iii, iv, vi, viii and ix. These questions are no longer part of the questions for Mr. Akyol.
+[4] According to the respondent, the remaining questions are neither disproportionate nor abusive. They are relevant because they are related to the points at issue in the appeals. It is reasonable to believe that they may elicit information enabling the respondent to demonstrate the truth of the allegations of fact contained in the Replies to the Notices of Appeal and to provide a rationale for dismissal of the appeals. The respondent therefore asks this Court to dismiss the motion, with costs.
+[5] For the following reasons, the appeal is dismissed with one set of costs to the respondent.
+II. The relevant general principles [6] The scope of the examination for discovery is governed by section 95 of the Tax Court of Canada Rules (General Procedure) which provides:
+95 (1) A person examined for discovery shall answer, to the best of that person’s knowledge, information and belief, any proper question relevant to any matter in issue in the proceeding or to any matter made discoverable by subsection (3) and no question may be objected to on the ground that:
+95 (1) La personne interrogée au préalable répond, soit au mieux de sa connaissance directe, soit des renseignements qu’elle tient pour véridiques, aux questions pertinentes à une question en litige ou aux questions qui peuvent, aux termes du paragraphe (3), faire l’objet de l’interrogatoire préalable. Elle ne peut refuser de répondre pour les motifs suivants :
+(a) the information sought is evidence or hearsay,
+a) le renseignement demandé est un élément de preuve ou du ouï-dire;
+(b) the question constitutes cross-examination, unless the question is directed solely to the credibility of the witness, or
+b) la question constitue un contre-interrogatoire, à moins qu’elle ne vise uniquement la crédibilité du témoin;
+(c) the question constitutes cross-examination on the affidavit of documents of the party being examined.
+[My emphasis]
+c) la question constitue un contre-interrogatoire sur la déclaration sous serment de documents déposée par la partie interrogée.
+[Je souligne]
+[7] In Canada v. Lehigh Cement Limited, 2011 FCA 120, [2011] 2 F.C.R. F-19 (Lehigh Cement), at paragraph 34, the Federal Court of Appeal clarified what constitutes relevancy during an examination for discovery:
+[34] The jurisprudence establishes that a question is relevant when there is a reasonable likelihood that it might elicit information which may directly or indirectly enable the party seeking the answer to advance its case or to damage the case of its adversary, or which fairly might lead to a train of inquiry that may either advance the questioning party’s case or damage the case of its adversary. Whether this test is met will depend on the allegations the questioning party seeks to establish or refute. See Eurocopter at paragraph 10, Eli Lilly Canada Inc. v. Novopharm Ltd., 2008 FCA 287, 381 N.R. 93 at paragraph 61 to 64; Bristol-Myers Squibb Co. v. Apotex Inc.at paragraphs 30 to 33.
+[Emphasis added]
+[8] Recently, the Federal Court of Appeal affirmed this well-established principle in Canada v. Thompson, 2022 FCA 119, at paragraphs 30 and 31.
+[9] In addition, in Lehigh Cement at paragraph 24, the Federal Court of Appeal stated, "The scope of permissible discovery depends upon the factual and procedural context of the case, informed by an appreciation of the applicable legal principles."
+[10] The general purpose of examination for discovery is to render the trial process fairer and more efficient by allowing each party to inform itself of the other parties’ positions so as to define fully the issues between them (Lehigh Cement, at paragraph 30 and Canada v. CHR Investment Corporation, 2021 FCA 68). Thus, the judge hearing such a motion must adopt a broad interpretation regarding the questions that may be asked so as not to be unfair to the examining party.
+[11] In Kossow v. The Queen, 2008 TCC 422 (at paragraphs 50 and 60, and affirmed by 2009 FCA 83), this Court summarized the principles drawn from the case law, and I cite the relevant principles in this case:
+[50] . . . Chief Justice Bowman summarized the principles concerning relevancy of questions in an examination for discovery as:
+(a) Relevancy on discovery must be broadly and liberally construed and wide latitude should be given;
+(b) A motions judge should not second guess the discretion of counsel by examining minutely each question or asking counsel for the party being examined to justify each question or explain its relevancy;
+(c) The motions judge should not seek to impose his or her views of relevancy on the judge who hears the case by excluding questions that he or she may consider irrelevant but which, in the context of the evidence as a whole, the trial judge may consider relevant;
+(d) Patently irrelevant or abusive questions or questions designed to embarrass or harass the witness or delay the case should not be permitted.
+[60]
+1. The principles for relevancy were stated by Chief Justice Bowman and are reproduced at paragraph 50.
+2. The threshold test for relevancy on discovery is very low but it does not allow for a “fishing expedition”: Lubrizol Corp. v. Imperial Oil Ltd.
+3. It is proper to ask for the facts underlying an allegation as that is limited to fact-gathering. However, it is not proper to ask a witness the evidence that he has to support an allegation: Sandia Mountain Holdings Inc. v. The Queen.
+(. . .)
+9. It is proper to ask questions to ascertain the opposing party’s legal position: Six Nations of the Grand River Band v. Canada.
+[. . .]
+[12] In Burlington Resources Finance Company v. The Queen, 2015 TCC 71, at paragraphs 11 to 17, this Court summarized the principles of examination for discovery. These principles were also cited in Canadian Imperial Bank of Commerce v. The Queen, 2015 TCC 280 (Bank of Commerce), at paragraphs 14 to 17.
+[13] Thus, the relevancy of the questions asked during examinations for discovery should be construed liberally and the parties given wide latitude; yet, the questions are not to turn into a fishing expedition (Burlington at paragraph 11, Bank of Commerce at paragraph 18).
+[14] Discovery is limited by the pleadings to some extent because the matters in issue are defined by the pleadings and given the purposes of discovery (Bank of Commerce, at paragraph 18).
+[15] It is important to specify that the judge hearing a motion such as this one should not ask the examining party to justify each question or explain its relevancy and should not act as a substitute for the trial judge by seeking to impose his or her views on relevancy; however, patently irrelevant or abusive questions or questions designed to embarrass the witness or delay the case should not be permitted (Burlington at paragraph 12, citing Baxter v. The Queen 2004 TCC 636, at paragraph 13).
+III. Discussion [16] During the years at issue, Mr. Akyol was the sole shareholder of corporation 9291. Corporation 9291 operated a restaurant called Med Pizza and held a liquor licence. The restaurant included a dining room and provided take-out and delivery service.
+[17] Through alternative auditing methods (banking analysis and cost of goods sold ratio analysis), Revenu Québec, as agent of the Minister of National Revenue (the Minister), held that corporation 9291 had failed to report all sales from the operation of the restaurant for the taxation years ending October 31, 2014 and October 31, 2015. The reassessments increased the net Goods and Services Tax (GST) that corporation 9291 was required to remit pursuant to Part IX of the Excise Tax Act (R.S.C., 1985, c. E‑15) (the ETA) for failing to report sales of $90,361.27 for the taxation year ending October 31, 2014, and $98,459.35 for the taxation year ending October 31, 2015. In addition, the Minister assessed penalties of $2,339.24 under section 285 of the ETA. Corporation 9291 filed an appeal to our Court against these assessments.
+[18] Mr. Akyol's appeals pertain to the reassessments for the 2013, 2014 and 2015 taxation years. These reassessments added the following amounts to Mr. Akyol's income pursuant to subsection 15(1) of the Income Tax Act (R.S.C., 1985, c. 1 (5th Supp.)) (the ITA) as a benefit provided by corporation 9291 to the shareholder, and penalties were also assessed under subsection 163(2) of the ITA:
+i)for the 2013 taxation year: a total amount of $11,016 made up of unreported sales from the operation of the restaurant ($10,051) and the cost of operating a vehicle owned by corporation 9291 ($965);
+ii)for the 2014 taxation year: a total amount of $129,224 made up of unreported sales from the operation of the restaurant ($116,744) and the cost of operating a vehicle owned by corporation 9291 ($12,480);
+iii)for the 2015 taxation year: a total amount of $95,343 made up of unreported sales from the operation of the restaurant ($81,192) and the cost of operating a vehicle owned by corporation 9291 ($14,151).
+3.1 Questions for corporation 9291 [19] The questions for corporation 9291 pertain to its bank statements. More specifically, the respondent's questions have to do with the nature of and reason for certain money transfers sent to certain individuals, their role in the business, payments made by cheque to certain businesses, their connection with the business, and certain automatic transfers or withdrawals.
+[20] According to the appellants, the questions for corporation 9291 concerning its expenses are not relevant because the reassessments are based on an electronic comparison of sales according to the bank account and sales according to the SRM (or sales recording module). The appellants argue that the respondent cannot resume the audit at this stage of the trial. Finally, the number of questions is grossly disproportionate to the amounts at issue in these appeals.
+[21] The pertinent case law is well settled: the relevancy of questions in the examination for discovery must be broadly construed, giving the parties considerable latitude so as not to be unfair to the examining party.
+[22] I conclude that the questions for corporation 9291 are relevant given the issues and that corporation 9291 must answer these questions. It is reasonable to believe that the answers may elicit information enabling the respondent to establish the truth of the assumptions of fact on which the Minister relied in making the reassessments and to provide a rationale for the dismissal of the appeals filed by corporation 9291.
+[23] Indeed, as the respondent argues, the questions for corporation 9291 are designed to confirm or rebut the assumptions of fact in paragraphs 12(f) and (h) of the Reply to the Notice of Appeal, according to which corporation 9291 failed to report some earned income and failed to report all of their income for two consecutive years.
+[24] Penalties were assessed against corporation 9291 pursuant to section 285 of the ETA. Section 285 of the ETA provides that "[e]very person who knowingly, or under circumstances amounting to gross negligence, makes (. . .) a false statement or omission" is liable to a penalty. The burden of proving the facts justifying the assessment of the penalty is on the Minister (subsection 285.1(16) of the ETA). The respondent may therefore quite properly ask these questions and obtain answers.
+[25] I also find that the number of questions is not disproportionate to the amounts at issue. The case law is well settled: the respondent is entitled to ask questions pertaining to the facts justifying the assessment of penalties. At paragraph 19 of Sandia Mountain Holdings Inc. v. The Queen, 2005 TCC 65 [Sandia], this Court stated that in tax cases involving penalties, and more specifically misrepresentation, "questions into the circumstances of the misrepresentation are proper" on examination for discovery. This Court also clarified that, even if information had been sent to the Canada Revenue Agency auditor when the taxpayer was being audited, the respondent is entitled to ask for this information on examination for discovery. To conclude otherwise would place an unrealistic limitation on the respondent's examination of the taxpayer to the point that the respondent could obtain little, if any, information during examination (Sandia, at paragraph 19).
+[26] For these reasons, corporation 9291 must answer the questions it is being asked.
+3.2 Questions for Mr. Akyol [27] The questions for Mr. Akyol also pertain to corporation 9291's bank statements. Mr. Akyol was asked all the questions that corporation 9291 was asked.
+[28] Some questions sought to confirm the role of certain individuals who received bank transfers from corporation 9291. Other questions sought to confirm the role of other individuals who received bank transfers or cheques, and other questions sought to verify the nature of certain automatic transfers and withdrawals from corporation 9291's bank account.
+[29] As noted above, the Minister asserts that Mr. Akyol received a benefit from corporation 9291. Based on the assumptions of fact in paragraphs 11(z), (aa), (bb) and (cc) of the Reply to the Notice of Appeal, Mr. Akyol received a benefit from corporation 9291. The questions for Mr. Akyol are designed to confirm that the various automatic transfers and withdrawals from corporation 9291's bank account do not constitute a benefit provided by that corporation to Mr. Akyol.
+[30] In addition, did the Minister assess penalties under subsection 163(2) of the ITA? Under subsection 163(2), every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of a false statement or omission in a return filed or made in respect of a taxation year is liable to a penalty. The burden of establishing the facts justifying the assessment of a penalty is on the Minister, not the taxpayer. The questions for Mr. Akyol are designed to confirm or refute the assumptions of fact on which the Minister relied in assessing the penalties (i.e. that Mr. Akyol failed to report certain income during the years at issue).
+[31] I therefore conclude that the questions for Mr. Akyol are relevant given the issues and that Mr. Akyol must answer them. It is reasonable to believe that the answers may elicit information enabling the respondent to demonstrate the truth of the assumptions of fact on which the Minister relied in making the reassessments and to provide a rationale for the dismissal of the appeals.
+[32] For the same reasons as in the case of the questions for corporation 9291, I am also of the opinion that the number of questions is not disproportionate in the case of Mr. Akyol's examination for discovery.
+[33] For these reasons, Mr. Akyol must answer the questions he is being asked.
+IV. Conclusion [34] For these reasons, the motion is dismissed with one set of costs to the respondent.
+Signed at Ottawa, Canada, this 27th day of October 2022.
+“Dominique Lafleur”
+Lafleur J.
+Translation certified true
+on this 21st day of May 2024.
+François Brunet, Revisor
+CITATION:
+2022 TCC 123
+COURT FILE NOS.:
+2019-192(GST)G 2019-3236(IT)G
+STYLES OF CAUSE:
+9291-8002 QUÉBEC INC., MEHMET AKYOL AND THE KING
+PLACE OF HEARING:
+n/a
+DATE OF HEARING:
+n/a
+REASONS FOR ORDER BY:
+The Honourable Justice Dominique Lafleur
+DATE OF ORDER:
+October 27, 2022
+APPEARANCES:
+Counsel for the Appellants:
+Meghan Jones
+Counsel for the Respondent:
+Hubert-Martin Cap-Dorcelly
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+Meghan Jones
+Firm:
+Meghan Jones Avocate inc. Côte-St-Luc, QC
+For the Respondent:
+François Daigle Deputy Attorney General of Canada Ottawa, Canada

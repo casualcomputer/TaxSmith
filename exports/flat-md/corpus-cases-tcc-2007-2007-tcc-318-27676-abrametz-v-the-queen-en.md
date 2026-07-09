@@ -1,0 +1,318 @@
+---
+title: "Abrametz v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27676/index.do"
+last_modified: "2007-06-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 318"
+citation2: ""
+neutral_citation: "2007 TCC 318"
+decision_date: "2007-06-05"
+language: "en"
+item_id: "27676"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 497
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:03:13.283000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d2776f90a29c35bc66d7c34d987500353f52616a2a09016cd6814b54422e8bce"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Abrametz v. The Queen
+
+- Citation: 2007 TCC 318
+- Decision date: 2007-06-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 497, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Abrametz v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-06-05
+Neutral citation
+2007 TCC 318
+File numbers
+2000-2517(IT)G
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2000-2517(IT)G
+BETWEEN:
+PETER V. ABRAMETZ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 30, 2006 at Prince Albert, Saskatchewan
+Before: The Honourable Justice G. Sheridan
+Appearances:
+Counsel for the Appellant:
+James H.W. Sanderson
+Counsel for the Respondent:
+Lyle Bouvier
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 1996 and 1997 taxation years are dismissed, with costs to the Respondent in accordance with the attached Reasons for Judgment.
+Signed at Saskatoon, Saskatchewan, this 5th day of June, 2007.
+"G. Sheridan"
+Sheridan, J.
+Citation: 2007TCC318
+Date: 20070605
+Docket: 2000-2517(IT)G
+BETWEEN:
+PETER V. ABRAMETZ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] The Appellant, Peter V. Abrametz, is appealing the assessment of the Minister of National Revenue of his 1996 taxation year[1] The Minister disallowed the allowable business investment loss claimed by the Appellant in respect of his guarantee of amounts borrowed by Regent Plaza (1992) Inc. ("Regent"), a company in which he held shares.
+[2] According to the Appellant, he and Henri Paulhus, the other equal shareholder in Regent, were jointly and severally liable as guarantors of Regent's debts to an arm's length mortgagee (the "Bank"). When Regent defaulted on those debts, the Bank brought legal action to enforce the guarantee. Ultimately, the matter was settled before going to trial. The Appellant says that he met his obligations under the guarantee by transferring shares he held in another company, Placid Estates Holdings Inc. ("Placid"), to Mr. Paulhus after he (Mr. Paulhus) paid $490,000 to the Bank. As a result of these transactions, in his 1996 income tax return, the Appellant reported a capital gain of $249,999 in respect of the Placid share transfer. After applying an existing loss carry-forward to the capital gain, the Appellant claimed an allowable business investment loss to offset the rest of the gain.
+[3] Some of the Appellant's allegations are included in the undisputed portions of the Reply to the Notice of Appeal:
+17. In assessing the Appellant, and in confirming the assessments, the Minister relied on, inter alia, the following assumptions:
+a) The facts admitted or stated above.
+b) Placid was incorporated on July 29, 1991 in Regina, Saskatchewan. At that time the only directors and shareholders of the Corporation were the Appellant and Henri Paulhus ("Paulhus"), who each owned 50 voting shares of Placid. This shareholding continued until the Appellant was removed as a director and shareholder of Placid at some time subsequent to August 31, 1995 and prior to August 31, 1996. At this time, Paulhus became the sole shareholder and director of Placid.
+c) 598906 Saskatchewan Ltd. was incorporated on November 12, 1991 in Regina, Saskatchewan. The name of this corporation was changed to Regent Plaza (1992) Inc. on June 9, 1992, at which time the Appellant and Paulhus were Regent's only directors and shareholders.
+d) Annual returns for Regent were filed with the Corporations Branch in Regina, Saskatchewan for the years ending December 31, 1992, December 31, 1993; and December 31, 1994. On each annual return, signed by the Appellant, the Appellant and Paulhus are listed as the only directors and the only shareholders of Regent.
+e) The Appellant is a lawyer with training which would make him aware of the filing requirements of the Corporations Branch.
+f) Regent was struck from the list of corporations on the Register of the Saskatchewan Corporations Branch on April 30, 1996, pursuant to section 290(1)(a) of the Business Corporations Act, R.S.S., 1978, c. B-10, as amended.
+g) At all material times, Placid and Regent have been Canadian controlled private corporations.
+[4] All or portions of the remaining assumptions are in dispute:
+h) Regent did not have active business income at any material time, and was not at any material time a small business corporation within the meaning of section 248(1) of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), as amended (the "Act").
+i) The Appellant has not provided any documentation capable of supporting the claim that he was a guarantor of any or all of the debt of Regent.
+j) When Regent became insolvent, Northwest Trust Company and/or its successor the Canadian Western Bank ("the Bank") purportedly called the personal guaranty or guarantees provided in support of financing extended to Regent. In such case, regardless of whether the Appellant had provided a guarantee jointly and severally with Paulhus, the Bank was entitled to call upon Paulhus to pay the entire amount guaranteed.
+k) Paulhus paid any and all amounts collected by the Bank pursuant to a personal guaranty of the debt of Regent. The Appellant paid no amount to the Bank pursuant to a personal guaranty of the debt of Regent.
+l) An Indemnification Agreement was purportedly signed by the Appellant, Paulhus, Gary Gaudet, and Gordon Davis on June 23, 1992 ("the Indemnification Agreement") in which Gary Gaudet and Gordon Davis are identified as the Indemnitors. The Indemnification Agreement purported to partially indemnify Paulhus and the Appellant with respect to personal guarantees provided on behalf of Regent. The terms provided that the liability of each Indemnitor was limited to a pro rata share of principle guarantee of $500,000.00, with the pro rata share based on the shareholding of each Indemnitor.
+m) The Appellant undertook no legal obligation in consequence of the Indemnification Agreement.
+n) A second agreement was purportedly signed by the Appellant, Paulhus, Gaudet and Davis on January 22, 1996 ("the Payment Agreement") in which the Appellant, Gaudet, and Davis each agreed to pay Paulhus twenty-five percent of amounts previously expended by Paulhus in support of Regent ("the Paulhus Indebtedness").
+o) The Payment Agreement provides for the transfer of the Appellant's shares in Placid to Paulhus ("the Share Transfer) in payment of both the Appellant's and Davis' purported share of the Paulhus Indebtedness.
+p) Any consideration provided to the Appellant for the Payment Agreement was past consideration.
+q) If the Payment Agreement was of any legal consequence, which is not admitted herein, the Appellant's indebtedness to Paulhus was no more than $125,000.00.
+r) Any amounts paid by the Appellant in consequence of the Payment Agreement and the Share Transfer are on account of a debt owed to Paulhus. The Appellant paid no amounts to any creditor or creditors of Regent holding a personal guarantee from the Appellant.
+s) Any property transferred by the Appellant to Paulhus on account of a purported debt owed by Gordon Davis to Paulhus, was gratuitous and not a loss within the terms of sections 38 or 39 of the Act.
+t) In 1996, the Appellant did not dispose of a debt owed by a small business corporation within the terms of subsection 39(1)(c) and subsection 50(1) of the Act.
+u) In 1996, the Appellant was not required to honour a guarantee of the debt of a small business corporation within the terms of subsection 39(1)(c) and subsection 50(1) of the Act.
+v) The Appellant did not incur a business investment loss in the 1996 taxation year.
+…
+Legislation
+[5] To qualify for an allowable business investment loss, the Appellant has the onus of satisfying the criteria set out in the relevant provisions[2] of the Act:
+Subsection 39(12) Guarantees – For the purpose of paragraph 1(c), where
+(a) an amount, was paid by a taxpayer in respect of a debt of a corporation under an arrangement under which that taxpayer guaranteed the debt,
+(b) the amount was paid to a person with whom the taxpayer was dealing at arm's length, and
+(c) the corporation was a small business corporation
+(i) at the time the debt was incurred, and
+(ii) at any time in the 12 months before the time an amount first became payable by the taxpayer under the arrangement in respect of a debt of the corporation,
+that part of the amount that is owing to the taxpayer by the corporation shall be deemed to be a debt owing to the taxpayer by a small business corporation.
+[6] Subsection 248(1) defines a "small business corporation" as:
+at any particular time, means, subject to subsection 110.6(15), a particular corporation that is a Canadian-controlled private corporation all or substantially all of the fair market value of the assets of which at that time is attributable to assets that are
+(a) used principally in an active business carried on primarily in Canada by the particular corporation or by a corporation related to it,
+(b) shares of the capital stock or indebtedness of one or more small business corporations that are at that time connected with the particular corporation (within the meaning of subsection 186(4) on the assumption that the small business corporation is at that time a "payer corporation" within the meaning of that subsection), or
+(c) assets described in paragraphs (a) and (b),
+including, for the purposes of paragraph 39(1)(c), a corporation that was at any time in the 12 months preceding that time a small business corporation, and, for the purpose of this definition, the fair market value of a net income stabilization account shall be deemed to be nil;
+[7] The elements of subsection 39(12) were summarized in Armstrong v. Her Majesty the Queen as follows:
+[34] … Under subsection 39(12) of the Act, a payment made by a taxpayer under a guarantee of corporation debts is deemed to be a debt owing to the taxpayer by a small business corporation if:
+- the payment is made to an arm's length person; and
+- the corporation was a small business corporation both at the time the corporation's debt in respect of which the payment was made and incurred and at any time in the 12 months before the time any amount first became payable under the guarantee.
+[35] A small business corporation is defined in the Act, subsection 248(1), as a Canadian controlled private corporation which all or substantially all of the fair market value of its assets are used in active business carried on primarily in Canada. An active business carried on by the corporation is also defined in the Act under subsection 248(1) as any business carried on by the corporation.[3] [Emphasis added.]
+[8] As in all tax appeals, the Appellant has the onus of satisfying the Court on a balance of probabilities that the Minister's assumed facts are wrong. The Appellant testified at the hearing. I found him to be unforthcoming and evasive in the presentation of his evidence. Typical of his approach was the following exchange with counsel for the Respondent regarding the relatively straight-forward matter of when Regent last filed a corporate annual return:
+Q ... if I told you that Regent stopped filing its annual corporate returns in '94 would you agree or disagree with me?
+A Well, it filed its 1994 return.
+Q Right, and that's the last one it filed.
+A Give me -- 19 – I have the 1990 – is that 1995? I know it was struck in April of 1996, so the effect of that is that it wouldn't have filed its -- it would have filed its 1995 return and not its 1996 return. Struck in April of 1996, April 30th I believe.
+Q Do you have a copy of that return, Mr. Abrametz?
+A Of the 1995?
+Q Of 1995, Mr. Abrametz, 1995.
+A I do not have a copy of that.
+Q Mr. Abrametz, I put it to you that the last year that the corporate – corporation filed returns was for the 1994 year and, in fact, it was filed December 22nd, 1994. Do you agree or disagree with that?
+A There would not have been one filed in December of 1995 because it was struck in April of 1996, so I think that's correct.
+Q So 1994.
+A I think that's correct, in December of '94.
+Q So the evidence that we have is it was struck from the corporate records as it hasn't filed a return past 1994, okay? That's clear, right?
+A It was struck April 30th, 1996.
+Q Right, and it hadn't filed a return since '94.
+A The 1995 return.
+Q Hadn't filed a 1995 return.
+A That's correct.
+[9] He was equally evasive with regard to whether Regent had ever filed any income tax returns:
+Q And it [Regent] never reported any income to Revenue Canada?
+A It certainly didn't report any taxable income.
+Q Mr. Abrametz, did it file a T-2 corporate return?
+A I cannot answer that, I was not --
+Q You're the president of the company.
+A Actually I think Mr. Paulhus was president.
+Q Mr. Abrametz –
+A No, I guess I am, yeah. Yeah, we didn't -- I didn't file any returns. I was -- I was -- I didn't file any returns.
+Q You didn't file any corporate T-2, so it's safe to assume you never filed any returns to Revenue Canada, correct?
+A I think so.
+Q So never filed any corporate returns ever.
+A I have no knowledge of that. I didn't file any returns as president.
+Q So it didn't file any returns, did it, Mr. Abrametz?
+A Well --
+Q I mean you're the president of the company, Mr. Abrametz. Do you think that the secretary would be filing returns without you knowing it?
+A Well, we had a manager. Mr. Davis was the manager of the company. I wasn't managing it so --
+Q Who would be responsible for filing the corporate T-2s with respect to that corporation?
+A Well, I guess the secretary-treasurer I guess if you came down to it.
+Q And the president would know about this?
+A Well, not necessarily I guess, no. I mean all kinds of -- I wasn't there running the operation so --
+Q All right. So you have no evidence to demonstrate the corporation ever filed any returns.
+A I don't.
+Q And if I put it to you, you couldn't argue with me, could you?
+A I wouldn't argue with you about that, sir. I simply don't have that information, but I do know it didn't make any money and there's no taxable income.[4]
+[10] Similarly, as to whether Regent shares had ever been issued to two other individuals, the Appellant testified in his examination-in chief that:
+Q ... Mr. Abrametz, did other people become shareholders of Regent?
+A Yes. Mr. Paulhus and I started out the venture, but because neither of us were in a position to – to operate or run Regent Plaza, Mr. Davis, Gordon Davis joined as a shareholder for 25 percent of the company and Mr. Gaudet joined as a 25-percent shareholder.
+Q Now, were share certificates issued to those individuals?
+A It would – in Regent Plaza 2000 – 1992, they should have had share certificates, but it would not appear to my knowledge they were ever actually issued.[5]
+[11] Yet when asked about this on cross-examination, the Appellant (who is an experienced lawyer) became much less candid:
+Q ... Mr. Abrametz there were no shares issued to Mr. Davis and Mr. Gaudet from Regent, were there?
+A There were supposed to have been issued.
+Q Specific question with legal consequence as you're well aware. Were there shares issued to Mr. Davis and Mr. Gaudet from Regent?
+A It would appear that the annual returns as filed did not indicate the shares were issued.
+Q I'm going to ask it again. There were no – I'm going to put it to you, Mr. Abrametz, that no shares were issued by Regent to Garry Guadet and Mr. Davis.
+A I have the minute book. I have to look in the minute book to answer that question. May I? No. I'm sorry, it's not the right minute book. All I can tell you, sir, is that the annual returns as filed did not indicate that their shares were issued. That's all I can tell you, sir. Whether or not there were share certificates in the minute book, I cannot tell you.
+Q It's a pretty important detail, Mr. – Mr. Abrametz.
+A I'm sorry. That's the best I can do, sir.
+Q You're a corporate director of Regent.
+A Yes
+Q But you're unaware. You're unable to tell me that today.
+A I an only tell you, sir, that they were supposed to have share certificates, they were supposed to have shares, and we always dealt on the basis that they had shares, but, yes, in the annual returns as filed, it was not indicated on the annual returns that they had shares. That is correct, sir.[6]
+[12] In addition to the unconvincing nature of his testimony, the Appellant also failed to produce the sort of documentary evidence necessary to support even the most fundamental aspects of his claim. Of the documents the Appellant had disclosed prior to trial, those tendered were, at best, only indirectly related to the disputed issues. Other documents relied on by the Appellant were produced for the first time the morning of the hearing[7]. In the somewhat disorganized circumstances of the Appellant's conduct of his appeal[8], I admitted these documents over the objections of counsel for the Respondent.
+[13] I mention all of this, not to be unkind, but to show the extent to which the Appellant has failed to marshal the evidence necessary either to refute the assumptions upon which the Minister's assessment was based or to satisfy the subsection 39(12) criteria. In addition to the rigourous nature of its component parts, subsection 39(12) is written conjunctively which means that each of the legislative conditions must be fulfilled before eligibility is established.
+[14] Looking first at paragraph 39(12)(a), the allowable business investment loss must be " an amount … paid by a taxpayer in respect of a debt of a corporation under an arrangement under which that taxpayer guaranteed the debt". I accept the Appellant's evidence that he was named as one of two guarantors obliged under their agreement[9] with the Bank to guarantee Regent's debt. However, the Appellant and Mr. Paulhus were jointly and severally obligated; the Bank was entitled to choose its guarantor and seems to have selected Mr. Paulhus. There is insufficient evidence to show that the Appellant himself ever paid "an amount" under those guarantees or the quantum of that amount. As shown by the Appellant's own testimony, if indeed "an amount" was paid to the Bank in respect of Regent's debt, the more likely conclusion is that it was paid by the other guarantor, Mr. Paulhus, using a letter of credit[10] apparently approved for that purpose:
+A ... We had a meeting in January of 1996 to how to deal with Northwest Trust, Mr. Paulhus and I, and the meeting was that Mr. Paulhus and I – Mr. Paulhus would pay the indebtedness, I would transfer him the shares in Placid to get released from the – from the guarantees, and then we would go to our other people under the indemnification agreement, so that's what this reflects. You'll notice Mr. Davis signed in on the 5th of February. I think he was already gone to Red Deer. He wasn't even in Saskatchewan anymore, but Mr. Paulhus and I would have signed in or about the 22nd of January. That's Mr. Davis who signed it later at the end, the last one to sign it looks like.
+Q So we've heard sketchy evidence about payment, the payment, the payment to the bank.
+A You mean the 450,000 and the 40,000?
+Q Well, I – it's unclear as to how much was actually paid 'cause we don't have documentation of that.
+A Well, we have the reference to it, yes, the $450,000 secured by Mr. Paulhus' line of credit.
+Q Do we have documentation to support the fact that Mr. Paulhus paid that amount and what date the amount was paid?
+A Well, we have – yes. We have – we have Mr. – Mr. Grant Richards' letter of February the 1st which talks about that, yes, that's correct. It says:
+I have instructions from the Canadian Western Bank not to consent to minutes of settlement until I have received and they have approved the form of letter of credit, and Mr. Thornton has advised me that the Canadian Western Bank has received a satisfactory settlement in relation to the other action involving the line of credit.
+So yes, that was done.
+Q How –
+A How do I know?
+Q The payment, Mr. – Mr. Abrametz. The payment is very important, the payment of a debt.
+A That's correct.
+Q Do we have any documents to demonstrate the debt was paid? That's a very important piece of the puzzle.
+A Well, yes. We have the minutes of settlement which called for the payment, and we have –
+Q The minutes of settlement calling for the payment is prior to May 31st – or April 30, 1996 –
+A That's correct.
+Q -- in draft form, but do we have any documents? Clear simple question. Do you have any documentation to support the fact that the amount was paid? It's a yes or no question.
+A Yes.
+Q Do you have any documentation to support the fact that the amount was paid?
+A I have the documentation that supports what is contained in A-8 if that's what you mean, yes, and that is the minutes of settlement and the line of credit – the letter of credit. So I have that.
+Q I'll rephrase the question, Mr. Abrametz. I acknowledge that you have documentation to support the contemplation of the payment of a debt.
+A Yes.
+Q Do you have any documentation to support the amount was actually paid?
+A Only the letter of credit that was provided by Mr. Paulhus.
+Q Other than the document. So you have nothing to support that.
+A The letter of credit I have, yes.
+Q The letter of credit.
+A Yeah.
+Q 'Cause that's an important piece of the puzzle as well, Mr. Abrametz.
+A I have that, so if that's what you want to see, I have that. Yeah, it's right here.
+Q I'm going to have to take a minute to review the document 'cause I haven't seen this one. Okay. We have a letter of credit.
+A That's the one that was referred to in A-8, yes.
+Q Yes. It's saying that he's – I'll – we're going to enter this as an exhibit 'cause it's an important document, and we can review it together 'cause it's the first time that I've reviewed it, and I'm sure that you'll want to review it as well.
+...
+REGISTRAR: Okay. Thank you. R-2.
+EXHIBIT R-2:
+LETTER OF CREDIT DATED FEBRUARY 5, 1996.
+JUSTICE SHERIDAN: All right. Go ahead, counsel.
+Q Okay. Now, I've passed up the document to the Court, and I'm looking at a letter of credit in Mr. Paulhus' name with the Canadian Western Bank as a beneficiary for $450,000. Now, this letter of credit states that the line of credit may be drawn up no sooner than May 1st, '96, and no later than May 31st, 1996.
+A That's what it says.
+Q Right. So we – we have a letter that supports the fact that the amount was possibly paid between May 1st and May 31st, 1996.
+A Yes, as called for in the minutes of settlement, yes.
+Q And that amount is paid – supposedly paid by Mr. Henri Paulhus.
+A He was supposed to, yes.
+Q Important.
+A Well, I thought it was covered in the letter in the minutes of settlement, but, yes, it's important, and I don't deny it.
+Q You don't deny what?
+A That it's important.
+Q He was supposed to.
+A Yes.
+Q You don't know, and you can't sit there with any certainty that the amount was paid.
+A Well, but I do know. I mean because the – I was released by the – by the – by the Canadian Western Bank on my guarantees.
+Q And when did that occur?
+A By the minutes of settlement.
+Q So these draft minutes of settlement –
+A Yes.
+Q -- released you.
+A Yes.
+Q And –
+A I mean – well, I could comment, but I mean that's – if I wasn't released, they would have sued me or if they weren't paid, then I would still be sued and I'd have my shares.
+Q Right.
+A But I wasn't sued and I don't have my shares.
+Q Right. So we're assuming that the amount was paid. It's an assumption.
+A Well, it's – its' – I wasn't supposed to pay it, Mr. Paulhus was, so I can only say to you that we had an agreement he would pay it, and I believe it was paid and all the evidence I have it was paid because if it wasn't paid, then I would have been sued.[11]
+[15] In the normal course of things, proving the payment of a debt in a foreclosure action should be a fairly straightforward matter. Even allowing for the breakdown in good records keeping that may arise in the circumstances of a failing business, it strikes me as odd that the Appellant is without the corporate, banking or legal records to substantiate his claim. This lack, together with the weakness of the Appellant's testimony, leads to the inference that the Appellant did not pay "an amount … in respect of a debt of a corporation" within the meaning of paragraph 39(12)(a) of the that Act.
+[16] The next hurdle is paragraph 39(12)(b). This provision requires the Appellant to have paid that amount "to a person with whom the taxpayer was dealing at arm's length". The Appellant was clear that he did not transfer his Placid shares directly to the Bank in satisfaction of his obligations under the guarantee. His argument is, however, that Mr. Paulhus paid "an amount" on his behalf for which he was duly compensated by the Appellant with the Placid shares. Assuming for the sake of argument that the share transfer could have constituted payment pursuant to paragraph 39(12)(a), the difficulty is the Appellant's admission that the transfer was to Mr. Paulhus who, as the Appellant's fellow shareholder in Regent (and in Placid, for that matter), was not "at arm's length" as required by paragraph 39(12)(b). This becomes almost academic, however, in view of the lack of the documentation that would routinely accompany a share transfer such as photocopies of the original shares, share transfer certificates, the share registry or directors'/shareholders' resolutions regarding the transfer. Further, the Appellant testified that as part of the consideration for the transfer of the Placid shares to Mr. Paulhus, the Appellant was supposed to have received an apartment in one of the buildings owned by Placid. He stated, not without some rancour, that this had not been done, raising further doubts about the entire transaction. Finally, regarding the quantum of the "amount" in respect of Regent's debt, the Appellant was candid in his evidence that no formal valuation of the Placid shares was ever made. The Appellant testified that he relied upon "his accountant" for the values reported in his 1996 income tax return in respect of the capital gain and the allowable business investment loss. Under the law, however, it is the taxpayer who bears the ultimate responsibility for the accuracy of the information reported. Counsel for the Appellant submitted that if the Appellant's claim for an allowable business investment loss was dismissed, the capital gain reported ought to be adjusted. The difficulty is that the Minister is entitled to rely on the amount the Appellant himself reported in his income tax return, thus, if the amount was other than the $249,999 reported, the Appellant has the onus of so proving. No such evidence was presented. Whether the Appellant could, at this stage, prevail upon the Minister to consider a document to support a revised figure are not questions that can be resolved by this Court.
+[17] Turning now to paragraph 39(12)(c), the Appellant has the onus of showing that Regent was in "active business" at the time Regent's debt was incurred and during the 12 months an amount became payable under the guarantee. Given the findings above, a thorough analysis of this provision is not necessary. Briefly however, the Appellant described the business activities as a mix of tenant- and Regent-operated enterprises including a business center, muffin shop, and restaurant. The Appellant was clear that it was failing from its acquisition in June 1992[12]. It continued to flounder until the Bank moved on the guarantee by serving formal demands for payment[13] on the Appellant in October 1994. No corporate return was filed for Regent after 1994. No income tax returns were ever filed on behalf of Regent. No books and records to show the extent of Regent's business activities were put in evidence. All of this puts in doubt the Appellant's assertion that Regent was in "active business" during the relevant times.
+[18] Counsel for the Appellant submitted that had the Appellant sold his Placid shares and then paid the proceeds of the share disposition to the Bank in satisfaction of the Regent guarantee, the Appellant could have claimed an allowable business investment loss in respect of that amount. All things being equal, that analysis is quite likely correct. The difficulty is that this is not what happened. The case law is clear that the correctness of the assessment must be decided on what actually happened, not what might have been:
+[18] ...
+Bronfman Trust v. R., [1987] 1 S.C.R. 32 (S.C.C.), at pages 54 and 55:
+Before concluding, I wish to address one final argument raised by counsel for the Trust. It was submitted – and the Crown generously conceded – that the Trust would have obtained an interest deduction if it had sold assets to make the capital allocation and borrowed to replace them. Accordingly, it is argued, the Trust ought not to be precluded from an interest deduction merely because it achieved the same effect without the formalities of a sale and repurchase of assets. It would be sufficient answer to this submission to point to the principle that the courts must deal with what the taxpayer actually did, and not what he might have done: Matheson v. The Queen, 74 D.T.C. 6176 (F.C.T.D.), per Mahoney J., at p. 6179 ...
+Friedberg v. R., [1991] F.C.J. No. 1255 (Fed. C.A.), at pages 2 and 3:
+In tax law, form matters. A mere subjective intention, here as elsewhere in the tax field, is not by itself sufficient to alter the characterization of a transaction for tax purposes. If a taxpayer arranges his affairs in certain formal ways, enormous tax advantages can be obtained, even though the main reason for these arrangements may be to save tax (see The Queen v. Irving Oil 91 DTC 5106, per Mahoney, J.A.). If a taxpayer fails to take the correct formal steps, however, tax may have to be paid. If this were not so, Revenue Canada and the courts would be engaged in endless exercises to determine the true intentions behind certain transactions. Taxpayers and the Crown would seek to restructure dealings after the fact so as to take advantage of the tax law or to make taxpayers pay tax that they might otherwise not have to pay. While evidence of intention may be used by the Courts on occasion to clarify dealings, it is rarely determinative. In sum, evidence of subjective intention cannot be used to 'correct' documents which clearly point in a particular direction.[14]
+[19] For the reasons set out above, the Appellant has not shown that he disposed of a debt owed by a small business corporation so as to qualify for an allowable business investment loss; nor has he proven wrong the Minister's assumption that he did not incur a capital loss in respect of Regent. Finally, as mentioned above, the issue of spousal support in each of the 1996 and 1997 appeals was withdrawn at the commencement of the hearing. Accordingly, the Appellant's 1996 and 1997 appeals are dismissed, with costs to the Respondent.
+Signed at Saskatoon, Saskatchewan, this 5th day of June, 2007.
+"G. Sheridan"
+Sheridan, J.
+CITATION: 2007TCC318
+COURT FILE NO.: 2000-2517(IT)G
+STYLE OF CAUSE: PETER V. ABRAMETZ AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Prince Albert, Saskatchewan
+DATE OF HEARING: October 30, 2006
+REASONS FOR JUDGMENT BY: Justice G. Sheridan
+DATE OF JUDGMENT: June 5, 2007
+APPEARANCES:
+Counsel for the Appellant:
+James H. W. Sanderson
+Counsel for the Respondent:
+Lyle Bouvier
+COUNSEL OF RECORD:
+For the Appellant:
+Name: James H. W. Sanderson
+Firm: Sanderson, Balicki, Popescul
+Prince Albert, Saskatchewan
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The appeal of the 1997 taxation year in respect of the deductibility of certain spousal support payments and the issue of the spousal support paid in the 1996 taxation year were withdrawn by the Appellant at the commencement of the hearing.
+[2] See also paragraph 39(1)(c), subsection 50(1) and sections 38 and 40.
+[3] [1997] 2 C.T.C. 2615 at paragraphs 34 and 35.
+[4] Transcript page 81, lines 14–25 to page 84, lines 1-16.
+[5] Transcript page 43, lines 8-21.
+[6] Transcript page 64, lines 12-25 and page 65, lines 1-21.
+[7] Exhibit A-8 and A-9.
+[8] Counsel for the Appellant represented the Appellant only for the purposes of the hearing; prior to that time, the Appellant, a lawyer, had been representing himself.
+[9] Exhibit A-4.
+[10] Exhibit R-2.
+[11] Transcript page 73, lines 7–25 to page 76, lines 1- 24 and page 77, lines 10–25 to page 79, lines 1-15.
+[12] Transcript page 59, lines 23-24 and page 80, lines 9-11.
+[13] Exhibit A-5 and Exhibit A-6.
+[14] Beaulac v. Her Majesty the Queen, 2000 DTC 2218.

@@ -1,0 +1,157 @@
+Title: Cassidy v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30003/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-471-30003-cassidy-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-09-30
+
+# Cassidy v. The Queen
+
+- Citation: 2010 TCC 471
+- Decision date: 2010-09-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7682, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cassidy v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-09-30
+Neutral citation
+2010 TCC 471
+File numbers
+2008-630(IT)G
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-630(IT)G
+BETWEEN:
+WAYNE CASSIDY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on December 16, 2009, at London, Ontario.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the Appellant:
+David J. Thompson
+Counsel for the Respondent:
+Pascal Tétrault
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment dated September 28, 2006, made pursuant to the Income Tax Act, in respect of the Appellant's 2003 taxation year is allowed in part, without costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment in order to reduce the taxable capital gain included in the income of the Appellant from $500,000 to $433,000.
+Signed at Ottawa, Canada, this 30th day of September 2010.
+"Réal Favreau"
+Favreau J.
+Citation: 2010 TCC 471
+Date: 20100930
+Docket: 2008-630(IT)G
+BETWEEN:
+WAYNE CASSIDY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Favreau J.
+[1] The Appellant is appealing a reassessment made pursuant to the Income Tax Act, R.S.C. 1985 (5th Supp.), c. 1, as amended (the “Act”), for the 2003 taxation, whereby the Minister of National Revenue (the "Minister") included an amount of $1,000,000 as a capital gain realized by the Appellant upon the disposition of the portion of his real property that exceeded ½ hectare and did not constitute part of the "principal residence" of the Appellant.
+The Facts
+[2] The facts, which are not disputed, are set out as follows in the Agreed Statement of Facts submitted by the parties:
+1. The Appellant acquired an interest, as joint tenant, in real property described municipally as 524 Kains Road, London, Ontario, more particularly as described in registered instrument number 343703, registered in the County of Middlesex Land Registry on May 3, 1994 (the Property)[1], pursuant to an agreement of purchase and sale accepted by the vendor on March 28, 1994.[2]
+2. The Appellant acquired sole title to the Property by Transfer/Deed of Land registered on July 17, 1998 as instrument number 529061 in the County of Middlesex Land Registry.[3]
+3. The Appellant's adjusted cost base of the Property was $231,200.00
+4. The Property was comprised of approximately 2.43 hectares (approximately 6 acres) of land, a dwelling, a garage, a driveway providing access to the dwelling and garage, and unimproved land.
+5. The buildings on the Property consisted of a house (approximately 366 square meters) and annexed to the house was a breezeway (51 square meters) and a garage (161 square meters) (collectively referred to as the dwelling).[4]
+6. At the time of acquisition, the Property was zoned rural holding A2 by the City of London. The A2 zone is an agricultural zone intended to be applied in rural areas. The A2 zone permits a farm, a market garden, a specialty farm, a forestry use, a single family dwelling, a home occupation, an accessory use and existing farms. The minimum lot area under the A2 zone was 22 hectare (sic).
+7. During the mid-nineties, the City of London was experiencing growth and it was decided to open for development the westerly part of city known as the River Bend area. The City of London undertook a planning exercise to change the Official Plan regarding the westerly part of the City. The Property was located in that part of the city (sic).
+8. In the fall of 2002, the Appellant consulted Mr. Allan Patton, a lawyer from Patton Cormier & Associates regarding a rezoning application and a plan of subdivision application made by a land developer, Sifton Properties, for properties immediately adjacent and abutting the Property.
+9. On May 2, 2003, the Official Plan Amendment came into force changing the Official Plan designation of the area where the Property is located to Multi-Family, Medium Density Residential. The Multi-Family, Medium Density Residential anticipated the development of multiple-attached dwellings, low-rise apartment buildings, emergency care facilities, small-scale nursing homes and low density residential development such as single detached, semi-detached and duplex dwellings.
+10. The Official Plan's prior designation was Urban Reserve-Community Growth. This designation prevented premature development and the policy under such designation permitted a limited range of uses based on the nature of the existing uses.
+11. It was open for the Appellant to apply for the rezoning and subsequent subdivision of the Property on or after May 2, 2003. Such course of action was not taken by the Appellant.
+12. In the spring of 2003, Mr. Fritz Wagner, a real estate agent with J.J. Barnicke London Windsor Sarnia Ltd. made inquiries with the Appellant as to whether the Property was for sale. The Appellant referred Mr. Wagner to Mr. Patton who acted as agent for the Appellant in the sale of the Property.
+13. On May 23, 2003, the Appellant and Urban Properties Services (London) Inc. entered into an Agreement of Purchase and Sale regarding the Property (the Agreement).[5] Urban Properties Services (London) Inc. (Urban Properties) initially made the offer to purchase the Property from the Appellant with the residential zoning h*R6-2 in paragraph 4 of Schedule "A" of the Agreement. Mr. Patton's advice to the Appellant was not to accept the offer with the h*R6‑2 zoning requirement. Mr. Patton recommended that the h*R6-2 zone be replaced by the R6-5 zone to avoid delays and to prevent the inclusion of holding provisions by the City of London. It was agreed by the parties that the h*R6-2 zone be replaced by the Residential R6-5 zone in paragraph 4 of Schedule "A" of the Agreement.
+14. Urban Properties is a company carrying on the business of land development. Pursuant to the Agreement, Urban Properties retained experts, inter alia, archaeologists and geotechnical engineers to examine the physical characteristics of the Property. Urban Properties also applied to the City of London for a change of zoning of the Property to the R6-5 zone.
+15. During the month of August 2003, the General Manager of Planning and Development of the City of London recommended an amendment to the zoning by-laws to Residential R6-5 in respect of the Property and the granting of a demolition permit regarding the residential dwelling located on the property (sic).[6]
+16. During the month of August 2003, the City of London approved the subdivision of land located at the south of the Property.[7]
+17. The zoning by-law regarding the Property was changed to Residential R6-5 in October 2003. The Residential R6-5 zoning permits single detached, semi-detached, duplex, triplex, stacked townhouse and townhouse dwellings and apartment buildings. The minimum lot size under the R6-5 zone was 850 square meters (or 0.21 acres).
+18. Mr. Patton's role, inter alia, was to act for the Appellant by taking the necessary steps in order for the conditions of the Agreement to be met. As such Mr. Patton made inquiries with city officials and Urban Properties to alleviate obstacles to conclude the sale of the Property.
+19. The closing of the sale of the Property occurred on November 27, 2003[8] where the Appellant disposed of the Property by Transfer registered as instrument number ER258918 in the County of Middlesex Land Registry.[9]
+20. Shortly after the date of closing, the dwelling on the Property was demolished by Urban Properties (or a related party).
+21. The Appellant resided in the dwelling on the Property and occupied the Property as his personal residence during the period 1994 to 2003.
+22. The Appellant received proceeds of disposition in respect of the Property in the aggregate amount of $1,230,000. On November 27, 2003, the fair market value of the dwelling on the Property and the subjacent land (of ½ hectare) was $230,000. On November 27, 2003, the fair market value of the portion of the Property exceeding ½ hectare (the Excess) was $1,000,000.
+23. The Appellant incurred and paid legal costs of $53,608.67 and $75.78, and incurred and paid real estate commission costs of $39,483 in respect of the disposition of the Property.
+24. The Appellant incurred costs of $195.60 related to discharging the existing mortgage charge on the Property for purposes of sale.
+25. The Appellant realized a capital gain of $905,436.04 upon disposition of the Property.
+26. The Appellant did not report the disposition of the Property in his 2003 personal income tax return on the basis that the Property in its entirety qualified as his "principal residence" as that term is defined for purposes of the Income Tax Act, and consequently no portion of the gain was taxable.
+27. The Appellant was at all relevant times a resident of Canada for purposes of the Income Tax Act.
+28. The Appellant was reassessed, as reflected on a Notice of Reassessment dated September 28, 2006, in respect of the 2003 taxation year (the Reassessment).
+29. The Reassessment reflected the assumption that the Excess did not constitute part of the "principal residence" of the Appellant.
+30. The Reassessment reflected the assumption that $1,000,000 of the proceeds of disposition were attributable to the Excess.
+31. No portion of the Appellant's cost of the Property was allocated to the Excess.
+32. The Reassessment reflected a capital gain of $1,000,000 and a taxable capital gain of $500,000 as having been realized by the Appellant upon the disposition of [the] Excess.
+33. The Appellant on November 10, 2006 filed a Notice of Objection to the Reassessment.
+34. The Minister issued a Notice of Confirmation dated December 14, 2007 in respect of the reassessment.
+35. The Appellant subsequently timely filed a Notice of Appeal to this Honourable Court.
+36. It is agreed that the adjusted cost base of the Excess was $58,000, the costs of disposition allocable to the Excess was $76,000, and the capital gain realized by the Appellant in respect of the Excess was $866,000.
+37. The Parties agree that the Appeal should be allowed in any event to reduce the taxable capital gain included in the income of the Appellant from 500,000 to $433,000.
+The Issue
+[3] The issue is whether any land exceeding ½ hectare was part of the Appellant's principal residence under paragraph (e) of the definition of "principal residence" in section 54 of the Act.
+The Law
+[4] Paragraph 40(2)(b) of the Act exempts a taxpayer from paying capital gains tax on the disposition of a principal residence. To qualify for this favourable treatment, the Appellant's housing unit must meet the requirements of paragraph (e) of the definition of "principal residence" in section 54 of the Act. The relevant part of section 54 provides as follows:
+"principal residence" of a taxpayer for a taxation year means a particular property that is a housing unit, a leasehold interest in a housing unit . . . that is owned . . . in the year by the taxpayer, if
+. . .
+(e) the principal residence of a taxpayer for a taxation year shall be deemed to include . . . the land subjacent to the housing unit and such portion of any immediately contiguous land as can reasonably be regarded as contributing to the use and enjoyment of the housing unit as a residence, except that where the total area of the subjacent land and of that portion exceeds 1/2 hectare, the excess shall be deemed not to have contributed to the use and enjoyment of the housing unit as a residence unless the taxpayer establishes that it was necessary to such use and enjoyment . . .
+[5] Where the housing unit sits on more than ½ hectare, paragraph (e) of the definition deems the area in excess of that "not to have contributed to the use and enjoyment of the housing unit as a residence unless that taxpayer establishes that it was necessary to such use and enjoyment". In that event, the taxpayer will be exempted from capital gains tax on the amount of the land shown to be necessary for the use and enjoyment of the housing unit as a residence.
+[6] In claiming a capital gains tax exemption for land in excess of ½ hectare, the taxpayer faces the onerous task of establishing that the excess was "necessary" to the use and enjoyment of the housing unit as a residence.
+The Appellant's Position
+[7] The Appellant submits that the portion of the property exceeding ½ hectare was necessary to the use and enjoyment of that portion of the property comprising the housing unit and ½ hectare of subjacent land since he could not have acquired less than the whole of the property at the time of acquisition and was prohibited at all relevant times from disposing of any portion of the property less than the whole thereof. The position of the Appellant is that because the housing unit and the ½ hectare of subjacent land could not, at any relevant time, be separated from the portion of the property exceeding ½ hectare, that portion of the property was therefore necessary to the use and enjoyment of the housing unit and the ½ hectare of subjacent land.
+[8] The first question to consider is the time at which the determination must be made as to whether the land in excess of ½ hectare was necessary for the use and enjoyment of the property.
+[9] It is well established in the case law that the relevant moment for determining whether the land in excess of ½ hectare was necessary for the use and enjoyment of the property is the time of disposition or immediately before the disposition (Stuart Estate v. The Queen, 2003 DTC 329 (TCC), affirmed by 2004 DTC 6173 (FCA), The Queen v. Yates, 83 DTC 5158 (FCTD), affirmed by 86 DTC 6296 (FCA)).
+[10] The second point to consider is the actual use and enjoyment of the property. The property when acquired by the Appellant was farmland of approximately 6 acres entirely surrounded by other farmland. In his testimony, the Appellant admitted that he did not carry on any farming activities on his property and that the portion of the land in excess of ½ hectare was not really necessary for the use and enjoyment of his property; he said he used it in only a very limited way: for a garden in the summertime and for snowmobiling in winter.
+[11] At the time of acquisition, the property was zoned A2 (farming) and the minimum lot size was 22 hectares. The Appellant had no choice but to purchase the entire property (6 acres) if he wished to occupy his home. It was admitted by the Respondent that the Appellant was, from the time of acquisition, a legal non‑conforming owner.
+[12] The third and final point to consider is whether the Appellant was prohibited at all relevant times from disposing of any portion of the property less than the whole thereof, as argued by him.
+[13] In paragraph 11 of the Agreed Statement of Facts, there is a clear recognition that the Appellant could have applied for the rezoning and subsequent subdivision of the property from May 2, 2003 as a result of the coming into force of the official plan amendment changing the official plan designation of the area where the property is located to multi-family medium density residential. The Appellant did not take such a course of action, nor did he take the initiative with respect to the appropriate legal formalities for the rezoning and subsequent subdivision of the property. Instead, the Appellant entered into an agreement of purchase and sale with Urban Properties Services (London) Inc. on May 23, 2003, which was conditional until November 28, 2003 in order to allow the purchaser to rezone the subject property to Residential R6-5 zoning. The zoning by-law of the City of London changed the property's zoning to Residential R6-5 in October 2003, that is, within 5 months of the signing of the agreement. In my opinion, such a zoning change clearly demonstrates that the option was available to the Appellant to obtain rezoning by a fairly easy process and within a relatively short time frame and that the Appellant was not at any material time legally prohibited from subdividing his property and disposing of any portion thereof.
+[14] All of the area surrounding the property was under development at the time the Agreement of Purchase and Sale was entered into with Urban Properties Services (London) Inc. on May 23, 2003, and during the month of August 2003 the City of London approved the subdivision of land located to the south of the property and the General Manager of Planning and Development of the City of London recommended both a zoning by-law amendment making the zoning of the property Residential R6-5 and the granting of a demolition permit regarding the residential dwelling located on the property.
+[15] No evidence indicating that a subdivision of the property could not have been done after the official plan amendment came into force on May 2, 2003, was produced by the Appellant.
+[16] At the time of disposition on November 27, 2003, or immediately before the disposition, the minimum lot size in the area where the property was located was 850 square meters. At that time, the Appellant was not prohibited from subdividing his property and disposing of any portion thereof, but he was, of course, obliged to respect the terms and conditions of the purchase and sale agreement entered into on May 23, 2003.
+[17] Pursuant to paragraphs 36 and 37 of the Agreed Statement of Facts, the appeal is allowed in part, without costs, and the matter is referred back to the Minister for reconsideration and reassessment in order to reduce the taxable capital gain included in the income of the Appellant for his 2003 taxation year from $500,000 to $433,000.
+Signed at Ottawa, Canada, this 30th day of September 2010.
+"Réal Favreau"
+Favreau J.
+CITATION: 2010 TCC 471
+COURT FILE NO.: 2008-630(IT)G
+STYLE OF CAUSE: Wayne Cassidy v. Her Majesty the Queen
+PLACE OF HEARING: London, Ontario
+DATE OF HEARING: December 16, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: September 30, 2010
+APPEARANCES:
+Counsel for the Appellant:
+David J. Thompson
+Counsel for the Respondent:
+Pascal Tétrault
+COUNSEL OF RECORD:
+For the Appellant:
+Name: David J. Thompson
+Firm: Advocates LLP
+London, Ontario
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] At Tab 1 is the Survey with the Surveyor's Certificate regarding the Property.
+[2] At Tab 2 is the Agreement of Purchase and Sale between Wayne Cassidy and Sandra Balfour, purchaser, and Florence E.F. Cummings, vendor, dated March 28, 1994.
+[3] At Tab 3 is the Transfer/Deed of Land between Wayne Stephen Cassidy and Sandra Balfour, transferors, and Wayne Stephen Cassidy, Transferee, dated July 17, 1998.
+[4] At Tab 4 are the real estate listings of the Property prior to the acquisition by Wayne Stephen Cassidy and Sandra Balfour.
+[5] At Tab 5 is the Agreement of Purchase and Sale of the Property.
+[6] At Tab 6 is the Recommendation from the General Manager of the Planning Committee.
+[7] At Tab 7 is the Notice of Decision by the City of London dated August 20, 2003.
+[8] At Tab 8 is a letter dated March 22, 2004 from Elizabeth K. Cormier to Wayne Cassidy with enclosures.
+[9] At Tab 9 is the Transfer between Wayne Stephen Cassidy and 2035424 Ontario Inc. (an assignee of Urban Properties) dated November 27, 2003.

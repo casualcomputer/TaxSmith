@@ -1,0 +1,330 @@
+Title: St-Pierre c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/231655/index.do
+Corpus path: corpus/cases/tcc/2017/2017-cci-69-231655-st-pierre-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2017-06-01
+
+# St-Pierre c. La Reine
+
+- Citation: 2017 CCI 69
+- Decision date: 2017-06-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2135, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+St-Pierre c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-06-01
+Référence neutre
+2017 CCI 69
+Numéro de dossier
+2015-2158(IT)G
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2015-2158(IT)G
+ENTRE :
+MARC ST-PIERRE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 23 janvier 2017, à Québec (Québec)
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Avocat de l'appelant :
+Me Pierre Hémond
+Avocat de l'intimée :
+Me Alain Gareau
+JUGEMENT
+L’appel à l’encontre de la nouvelle cotisation datée du 30 avril 2013, établie en vertu de la partie I de la Loi de l’impôt sur le revenu pour l’année d’imposition 2009, est rejeté avec dépens conformément aux motifs du jugement ci-joint.
+Signé à Ottawa, Canada, ce 1er jour de juin 2017.
+« Réal Favreau »
+Juge Favreau
+Référence : 2017 CCI 69
+Date : 20170601
+Dossier : 2015-2158(IT)G
+ENTRE :
+MARC ST-PIERRE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit d’un appel à l’encontre d’une nouvelle cotisation datée du 30 avril 2013, établie par le ministre du Revenu national (le « ministre ») en vertu de la partie I de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.), telle que modifiée, (la « Loi »), pour l’année d’imposition 2009 de l’appelant.
+[2] En vertu de la nouvelle cotisation, le ministre a augmenté le revenu net de l’appelant d’un montant de 381 260 $ en invoquant le paragraphe 15(2) de la Loi et d’un montant de 4 228 $ en invoquant l’article 80.4 de la Loi.
+[3] Le litige découle d’une erreur dans le calcul du compte de dividendes en capital pour l’année 2008 de la société 2869-6474 Québec Inc. (« 2869 ») dont l’appelant était le seul actionnaire et le seul administrateur lors de la déclaration en date du 2 février 2008 d’un dividende en capital de 596,881 $ payable à l’appelant sans précision quant aux modalités et aux dates de paiement.
+Les faits
+[4] Les faits que le ministre a tenu pour acquis pour fixer l’impôt payable par l’appelant pour son année d’imposition 2009 sont relativement simples et ne sont pas contestés. Ces faits sont les suivants :
+a) Le 1er février 2008, 2869 a disposé d’actifs de son entreprise, dont des biens en immobilisation admissible pour une somme de 900 000 $.
+b) Le ou vers le 2 février 2008, les comptables de 2869 l’ont avisée que le solde de son compte de dividende en capital était alors de 596 881 $, suite à la disposition des actifs de la société incluant une somme de 450 000 $ représentant la moitié du produit de disposition de biens en immobilisation admissible.
+c) Le ou vers le 2 février 2008, les comptables de 2869 ont préparé, et l’administrateur unique a signé, une résolution de l’administrateur unique déclarant le versement d’un dividende en capital de 596 881 $ à l’appelant.
+d) L’appelant a reçu de 2869 les sommes de 86 567 $ le 31 décembre 2008, 381 260 $ le 31 décembre 2009 et de 40 000 $ le 31 décembre 2010.
+e) Le ou vers le 9 novembre 2011, le ministre a avisé 2869 que son solde du compte de dividende en capital au 2 février 2008 n’était que de 146 881 $ et non pas de 596 881 $.
+f) Ayant déclaré un dividende en capital de 450 000 $ au-delà du solde du compte de dividende en capital de la société, cette dernière était susceptible de se voir imposer en vertu de la Partie III de la Loi.
+g) Avisé de l’intention de l’appelant de déposer une requête en jugement déclaratoire auprès de la Cour supérieure du Québec, le ministre a informé la société 2869 qu’il n’établirait pas de cotisation à son encontre en vertu de la Partie III de la Loi.
+h) Le ou vers le 11 février 2013, l’appelant a déposé auprès de la Cour supérieure du Québec une requête en jugement déclaratoire visant à obtenir un jugement afin notamment d’annuler la résolution de l’administrateur unique et de déclarer comme nul [sic] et n’ayant jamais existé [sic] la totalité du dividende en capital.
+i) L’appelant, alors requérant, invoquait que le dividende en capital avait été déclaré et versé par erreur.
+j) Par jugement rendu le 6 janvier 2014, la Cour supérieure du Québec accueillait la requête de l’appelante [sic], annulait la résolution de l’administrateur unique datée du 2 février 2008 et déclarait que le dividende en capital de 596 881 $ était nul et réputé ne jamais avoir existé.
+k) De plus, la Cour supérieure du Québec ordonnait à l’appelant de restituer les montants totalisant 596 881 $.
+l) Le 31 décembre 2009, l’appelant a reçu de 2869 la somme de 381 260 $.
+m) Le 31 décembre 2009, l’appelant s’est endetté vis-à-vis de 2869 pour la même somme.
+n) Le 31 décembre 2008, l’appelant a reçu de 2869 la somme de 86 567 $.
+o) L’appelant n’a pas payé d’intérêts sur cette somme due à 2869 au cours de l’année 2009.
+p) Les intérêts au taux légal sur cette somme pour l’année d’imposition 2009 totalisent 4 228 $.
+[5] En plus des faits ci-dessus exposés le sous-procureur général du Canada a ajouté ce qui suit :
+a) Le ou vers le 22 février 2013, le procureur du ministre avisait le procureur de l’appelant qui avait déposé la requête en jugement déclaratoire de l’intention du ministre de cotiser l’appelant en vertu de la Partie I de la Loi et plus spécifiquement en vertu du paragraphe 15(2) et de l’article 80.4.
+b) Le 1er mars 2013, le procureur du ministre informait le procureur de l’appelant que même si la requête en jugement déclaratoire était accueillie, la réalité demeurait que l’appelant avait reçu de 2869 les sommes respectives de 86 67 $ le 31 décembre 2008, 381 260 $ le 31 décembre 2009 et de 40 000 $ le 31 décembre 2010.
+c) Le 15 mars 2013, le procureur du ministre confirmait l’intention de ce dernier de cotiser l’appelant en vertu de la Partie I de la Loi pour ses années d’imposition 2009 et 2010 tout en offrant à l’appelant la possibilité de renoncer à l’application de la période normale de nouvelle cotisation, quant à l’année d’imposition 2009, délai qui expirait le 20 mai 2013.
+d) L’appelant n’a pas renoncé à l’application de la période normale de nouvelle cotisation pour son année d’imposition 2009.
+[6] Le comptable de l’appelant et de la société 2869, monsieur Denys Bisson du cabinet Services Comptables 2000 a témoigné à l’audience et il a expliqué la source du problème. Suite à la vente d’actifs effectuée par la société 2869 le 1er février 2008, il a préparé la résolution de l’administrateur unique de la société 2869 en date du 2 février 2008 autorisant la société à exercer le choix concernant un dividende en capital en vertu du paragraphe 83(2) de la Loi pour un montant de 596 881 $. L’appelant a signé ladite résolution. Monsieur Bisson a préparé le choix concernant un dividende en capital en vertu du paragraphe 83(2), soit le formulaire T-2054, lequel formulaire a été produit auprès de l’Agence du Revenu du Canada (l’ « ARC ») après que l’appelant l’eût signé le 22 octobre 2008. Le formulaire produit indique que le montant total du dividende visé par le choix est de 596 881 $, que la date où le dividende devient payable est le 30 novembre 2008 et que le premier jour où une partie quelconque du dividende a été payée est également le 30 novembre 2008.
+[7] Le calcul du compte de dividendes en capital de la société 2869 n’a pas été effectué par monsieur Bisson mais plutôt par madame Brigitte Mailloux, une comptable-fiscaliste de la firme Fiscalité BM Inc., dont les services avaient été retenus par l’appelant et la société 2869 dans le cadre de la vente d’actifs. Madame Mailloux a témoigné à l’audience et elle a expliqué comment le compte de dividendes en capital de la société 2869 avait été calculé pour l’année d’imposition 2008. Elle a dit avoir utilisé le logiciel Taxprep 2008 pour calculer le compte de dividendes en capital de la société 2869. Malheureusement pour elle et pour l’appelant, le logiciel utilisé était déficient à l’égard des biens en immobilisation admissible. La partie non imposable du gain provenant de la disposition de biens en immobilisation admissible ne pouvait être portée au compte qu’à compter du 1er janvier de l’année suivant l’année de la disposition, soit à compter du 1er janvier 2009, et non pas dans l’année de la disposition comme l’a fait madame Mailloux. C’est donc dire qu’au 2 février 2008, le compte de dividendes en capital de la société 2869 n’était que de 146 881 $ plutôt que de 596 881 $, tel que calculé par madame Mailloux; la différence étant de 450 000 $ correspondant à la moitié du produit de disposition des biens en immobilisation admissible. La société 2869 a été informée de l’existence de ce problème, le 9 novembre 2011, suite à une lettre de l’ARC.
+[8] Le 22 mars 2012, madame Mailloux a produit pour le compte de la société 2869, une demande d’allègement auprès de l’ARC, afin de proposer une solution pour régler le problème sur une base administrative. La solution proposée comprenait les opérations suivantes :
+a) la modification du formulaire T-2054 du 22 octobre 2008 afin de :
+(i) corriger le calcul erroné du compte de dividendes en capital pour le ramener à 146 881 $ immédiatement avant la date à laquelle le dividende est devenu payable, soit au 2 février 2008, lequel montant devait figurer au formulaire comme étant le dividende en capital faisant l’objet du choix; et
+(ii) remplacer la date du 30 novembre 2008 comme étant la date à laquelle le dividende était payable par la date du 2 février 2008 qui est la date retenue par l’ARC;
+b) la modification de la résolution du 2 février 2008 afin d’indiquer que le montant faisant l’objet du choix était un montant de 146 881 $;
+c) la production d’un choix tardif en produisant le formulaire T-2054 pour le dividende payable le 1er janvier 2009 au montant de 428 060 $, lequel choix serait accompagné :
+(i) d’une résolution datée de 2012 indiquant que le choix est exercé en date du 1er janvier 2009; et
+(ii) du détail du compte de dividendes en capital;
+d) le paiement par la société 2869 de la pénalité pour production tardive du formulaire.
+[9] Par une lettre datée du 1er mai 2012, l’ARC a rejeté la demande d’allègement même si l’ARC a reconnu qu’il s’agissait d’une erreur involontaire commise par la comptable qui s’est fiée à l’historique du compte de dividendes en capital produit par un logiciel comptable. Par contre, l’ARC a reconnu qu’elle avait mis trop de temps (trois ans) à confirmer le solde du compte de dividendes en capital et a offert de renoncer aux intérêts et aux pénalités découlant de ce délai.
+[10] Suite à ce refus, la société 2869 a retenu les services de monsieur Raymond St‑Pierre, un vérificateur de l’ARC qui a pris sa retraite en 2008, pour essayer de trouver une solution au problème. Ce dernier a témoigné à l’audience et il a expliqué qu’il a préparé et a soumis, le 22 août 2012, une demande de révision de la décision au comité indépendant responsable de l’ARC en suggérant essentiellement la même proposition que celle soumise dans le cadre de la première demande d’allègement, avec comme alternative, une demande à la Cour supérieure du Québec de rendre caduque la résolution du 2 février 2008.
+[11] Par une lettre datée du 23 octobre 2012, monsieur Bernard Gagnon, directeur adjoint, division des déclarations des entreprises du Centre fiscal de Jonquière, a maintenu la décision de refuser la demande d’allègement et a confirmé que le choix basé sur la résolution du 2 février 2008 était valide.
+[12] Par des lettres datées du 13 novembre 2012 à l’ARC, monsieur Raymond St-Pierre a demandé de garder ouvert le dossier pendant le processus judiciaire de la rectification de la résolution du 2 février 2008, a informé l’ARC que ladite requête était en préparation et a demandé de recevoir une confirmation que l’ARC n’émettra aucun avis de cotisation advenant un jugement favorable. La réponse de l’ARC a été transmise par la lettre du 28 novembre 2012 dont il est fait mention au paragraphe 4g) ci-dessus.
+[13] Suite à la décision de la Cour supérieure du Québec, l’ARC a confirmé à la société 2869 que le choix effectué à l’égard du dividende payable au montant de 596 881 $ dû le 2 février 2008 ainsi la résolution de l’administrateur ont été annulés. La pénalité au montant de 375 $ pour production d’un choix tardif a été remboursée.
+[14] Suite à cette même décision de la Cour supérieure du Québec, monsieur Marc St-Pierre a versé à la société 2869, par un chèque daté du 13 octobre 2015, la somme de 539 157 $. La société 2869 a déposé le même jour ledit montant dans son compte d’épargne à terme à la Caisse Populaire Desjardins de Lévis et a souscrit un certificat de dépôt à terme de 540 000 $ d’une durée d’un an, mais rachetable en tout temps.
+[15] Le 15 octobre 2015, la société 2869 a adopté une résolution par laquelle elle a déclaré un dividende au montant total de 540 000 $ en faveur de monsieur Marc St-Pierre provenant de son compte de dividendes en capital, lequel dividende était payable à compter du 20 octobre 2015. Par cette même résolution, monsieur Marc St-Pierre était autorisé à faire le choix prévu par le paragraphe 83(2) de la Loi et par son équivalent québécois à l’effet que la totalité dudit dividende provienne de son compte de dividendes en capital.
+[16] Le 15 octobre 2015, madame Mailloux a produit le formulaire T-2054 montrant un montant total du dividende visé par le choix de 540 000 $, un compte de dividendes en capital au montant de 638 539 $, immédiatement avant la date où le dividende devient payable et la date du 20 octobre 2015 comme étant la date où le dividende devient payable.
+[17] L’ARC ne s’est pas prononcée jusqu’à ce jour sur la validité de ce nouveau choix.
+Questions en litige
+[18] Le ministre était-il justifié d’ajouter au revenu de l’appelant, pour son année d’imposition 2009, la somme de 381 260 $ en vertu du paragraphe 15(2) de la Loi ?
+[19] Le ministre était-il justifié d’ajouter au revenu de l’appelant, pour son année d’imposition 2009, la somme de 4 228 $ en vertu du paragraphe 80.4 de la Loi ?
+Position des parties
+A. Position de l’appelant
+[20] L’appelant soumet que le ministre a erronément cotisé l’appelant en fonction des paragraphes 15(2), 80.4(1), 152(8) et 152(9) de la Loi et soumet les arguments suivants :
+a) à la date de l’avis de nouvelle cotisation en litige, soit le 30 avril 2013, l’appelant n’avait contracté aucun prêt, ni n’avait aucune dette envers la société 2869 pour l’année d’imposition 2009. Au soutien de sa position, l’appelant invoque les éléments suivants :
+i) au moment où il a reçu la cotisation en litige, l’appelant n’avait jamais contracté dans le passé, ni prêt, ni dette auprès de la société 2869;
+ii) le jugement de la Cour supérieure du Québec rendu le 6 janvier 2014 indique clairement que l’appelant avait l’obligation de « restituer les montants qu’il a reçus à titre de dividendes en capital découlant de la résolution du 2 février 2008 avec intérêts au taux prescrit à l’article 80.4 de la Loi […] » et non pas sous toute autre forme que ce soit à titre de prêt ou de dette envers la société 2869;
+iii) l’intimée était mise en cause au dossier de la Cour supérieure du Québec et pouvait faire des représentations à l’effet que des sommes pouvaient être dues à la société 2869, autrement qu’à titre de remboursement des montants reçus à titre de dividendes en capital découlant de l’avis de cotisation du 30 avril 2013, mais elle a choisi de ne pas faire de telles représentations; et
+iv) subsidiairement, si les montants qui ont été reçus par l’appelant peuvent être considérés comme étant un prêt ou une dette contractée auprès de la société 2869, ceux-ci ne pouvaient être considérés comme tels, qu’à partir du 6 janvier 2014, soit à la date du jugement ordonnant la restitution des montants reçus.
+b) l’intimée ne peut considérer les montants reçus par l’appelant comme étant à la fois un dividende en capital déclaré à l’actionnaire comme étant excédentaire et à la fois à titre de montants versés à l’actionnaire à titre de prêt ou dette. À l’appui de sa position, l’appelant invoque les éléments suivants :
+i) dans le cadre d’une correspondance transmise à l’appelant et à la société 2869, le 28 novembre 2012, le ministre a confirmé qu’il n’émettra aucune cotisation relativement à l’impôt payable sur l’excédent du compte de dividendes en capital, et ce, dans la mesure où une requête de rectification de la résolution est présentée à la Cour et qu’un jugement favorable soit rendu en ce sens;
+ii) eu égard à l’engagement que le ministre a souscrit envers la société 2869, le ministre ne pouvait, avant même que le jugement ne soit rendu sur la requête, adopter une position contradictoire et modifier sa base d’imposition; et
+iii) le ministre ne peut à la fois qualifier les montants reçus à titre de dividendes en capital à l’appelant comme étant un dividende en capital excédentaire et prétendre tout à la fois que les montants versés à l’appelant constituent un prêt ou une dette dont il aurait bénéficié.
+c) le ministre s’est engagé lorsqu’il a confirmé à l’appelant qu’il ne sera pas cotisé si une requête était déposée en cour en vue de rectifier une résolution prévoyant l’octroi d’un dividende en capital. À l’appui de sa position, l’appelant invoque les éléments suivants :
+i) dans sa lettre du 28 novembre 2012, le ministre a indiqué qu’il ne cotisera pas l’appelant dans la mesure où une requête visant à corriger la résolution du 2 février 2008 concernant la déclaration d’un dividende en capital est déposée. Par conséquent, une transaction est intervenue, laquelle lie les parties; celle-ci étant conditionnelle à l’obtention d’une décision favorable de la Cour;
+ii) le ministre ne peut, de mauvaise foi, dans les semaines suivant la réception de la requête visant à corriger la déclaration du dividende en capital et avant même que la requête ne soit entendue et décidée, renier son engagement et considérer cette fois les montants reçus par l’appelant comme étant un prêt ou une dette pouvant justifier l’application du paragraphe 15(2) de la Loi;
+iii) en agissant ainsi, le ministre a trompé l’appelant, lui cachant qu’il s’apprêtait à modifier sa base d’imposition aussitôt qu’une requête serait déposée à la Cour;
+iv) le ministre a agi de manière abusive envers l’appelant, justifiant que des recours en dommages et intérêts lui sont réservés suite au jugement à être rendu en la présente affaire.
+d) l’intimée a mal interprété la décision de la Cour supérieure du Québec du 6 janvier 2014 et l’appelant invoque les éléments suivants à l’appui de sa position :
+i) la décision de la Cour supérieure du Québec du 6 janvier 2014 fait suite à une requête sur jugement déclaratoire pour que soit déclaré nul un dividende de 596 881 $ déclaré par la société 2869 au bénéfice de l’appelant, requête pour laquelle le procureur de l’intimée a consenti à jugement;
+ii) ladite décision annule, entre autres, la résolution du 2 février 2008 déclarant le dividende de même que les droits de l’appelant à réclamer le paiement dudit dividende comme étant nul et inexistant;
+iii) ladite décision ordonne également à l’appelant de restituer les sommes qu’il a reçues à titre de dividendes en capital découlant de la résolution du 2 février 2008, avec intérêts au taux prévu à l’article 80.4 de la Loi ;
+iv) il demeure que jusqu’à ce que la décision de la Cour soit rendue, les sommes reçues par l’appelant ne pouvait être considérées autrement qu’à titre de dividendes en capital;
+v) conformément à ce que la juge a ordonné dans sa décision, c’est uniquement après le 6 janvier 2014 que l’appelant avait l’obligation de rembourser les sommes reçues à titre de dividendes en capital à la société 2869; les sommes d’argent devant être remises à la société 2869 constituent en fait des sommes que l’appelant avait reçues à titre de dividendes en capital de la société 2869 et non des sommes qu’il a pu avoir reçues à tout autre titre, soit à titre de prêt ou d’une dette;
+vi) tel qu’il appert de la décision, la Cour ordonne l’enlèvement aux livres des minutes de la résolution de l’administrateur unique du 2 février 2008, laquelle ordonnance ne pouvait être faite avant le prononcé de la décision;
+vii) l’ordonnance de restitution découlant de l’annulation de la résolution du 2 février 2008 n’est exécutoire qu’à partir de la date de la décision, soit le 6 janvier 2014;
+viii) il découle de l’interprétation de ce qui précède et de la décision de la Cour, qu’aucune somme ne pouvait être due à titre de prêt ou autrement à la société 2869 avant que la décision ne soit rendue, soit le 6 janvier 2014, et, en conséquence, si la cotisation du ministre est bien fondée, ce qui est nié, toute somme due à ce titre ne pouvait être exigible qu’à compter du 6 janvier 2014.
+B. Position de l’intimée
+[21] L’intimée soutient que par l’effet de la décision de la Cour supérieure du Québec rendue le 6 janvier 2014, la résolution de l’administrateur unique du 2 février 2008 a été annulée et le dividende en capital de 596 881 $ a été déclaré nul et réputé ne jamais avoir existé. Par conséquent, ladite décision a eu un effet rétroactif au 2 février 2008 quant à l’acte juridique qu’est la résolution et quant à son objet qu’est la déclaration du dividende en capital.
+[22] L’intimée soutient que la décision de la Cour supérieure du Québec n’a pas eu pour effet d’annuler les faits juridiques suivants :
+- l’appelant a reçu de la société 2869, le 31 décembre 2008, la somme de 86 567 $;
+- l’appelant a reçu de la société 2869, le 31 décembre 2009, la somme de 381,260 $.
+[23] Concernant le versement de la somme de 86 567 $ le 31 décembre 2008 l’intimée invoque les éléments suivants :
+a) le dividende en capital qui a été annulé rétroactivement est réputé ne jamais avoir existé et, par conséquent, l’appelant a reçu indûment la somme de 86 567 $ de la société la société 2869; et
+b) au 31 décembre 2008, l’appelant s’est endetté vis-à-vis de la société 2869 pour une somme de 86 567 $; et
+c) les intérêts sur la somme de 86 567 $, selon le taux prescrit, représente une somme de 4 228 $, qui est réputée être un avantage accordé à l’appelant en vertu du paragraphe 15(9) de la Loi pour l’année d’imposition 2009 de l’appelant.
+[24] Concernant le versement de la somme de 381 260 $ le 31 décembre 2009, l’intimée invoque les éléments suivants :
+a) le dividende en capital qui a été annulé rétroactivement est réputé ne jamais avoir existé et, par conséquent, l’appelant a reçu indûment la somme de 381 260 $ de la société 2969; et
+b) au 31 décembre 2009, l’appelant s’est endetté envers la société 2869 pour une somme de 381 260 $, de sorte que le ministre était justifié d’ajouter cette somme au revenu de l’appelant, pour son année d’imposition 2009, en vertu du paragraphe 15(2) de la Loi.
+Le droit
+[25] Les dispositions pertinentes de la Loi aux fins du présent litige sont les suivantes : les paragraphes 15(2), 80.4(2) et (3), 83(2), (3) et (4), 89(1) (définition du « compte de dividendes en capital »), 184(2) et (3) et l’alinéa 20(1)(j). Ces dispositions sont reproduites en annexe au présent jugement.
+[26] La Loi vise à atteindre l’intégration fiscale entre les revenus gagnés par un particulier et ceux gagnés par l’entremise d’une société privée et qui sont, par la suite, versés à un particulier. Cet objectif est atteint par le concept du « compte de dividendes en capital » dont le résultat est de permettre à une société privée de verser un dividende libre d’impôt à son actionnaire à même son « compte de dividendes en capital » qui englobe certains montants non-imposables réalisés par la société.
+[27] Les règles de calcul du « compte de dividendes en capital » d’une société sont nombreuses et complexes. Le « compte de dividendes en capital » comprend les éléments suivants :
+a) la partie du gain en capital qui n’est pas imposable diminuée de la partie d’une perte en capital qui n’est pas déductible;
+b) la partie du revenu réalisé suite à la disposition d’une immobilisation admissible qui n’est pas imposable;
+c) le produit d’assurance-vie versé à la société à titre de bénéficiaire; et
+d) les dividendes versés à la société à même le compte de dividendes en capital d’une autre société.
+[28] Le calcul du « compte de dividendes en capital » s’effectue sur une base cumulative à partir du moment où la société a été créée (si elle a été créée après 1971) ou à compter du 31 décembre 1971 si elle a été créée antérieurement et ce, jusqu’au moment donné de sa détermination. Par conséquent, il faut soustraire du compte de dividendes en capital les dividendes versés à même ce compte depuis la création de la société. Le solde du compte de dividendes en capital ne peut être négatif, le solde étant alors de zéro.
+[29] Pour verser un dividende en capital à même son compte de dividendes en capital, la société doit produire un choix en vertu du paragraphe 83(2) de la Loi. Ce choix est effectué en produisant le formulaire approprié (le T-2054) au plus tard le premier des jours suivants :
+a) la date où le dividende devient payable, ou
+b) la date où le dividende est payé.
+[30] Le paragraphe 83(3) de la Loi permet la production en retard d’un choix par une société qui désire verser un dividende en capital, à certaines conditions dont le paiement d’une pénalité ne pouvant excéder 500 $ par année. Un choix tardif peut être produit jusqu’au moment où un dividende en capital est devenu payable par la société. Dans ce cas, le choix est réputé avoir été fait à la première des deux dates suivantes : soit la date où le dividende est devenu payable; soit la date où une partie du dividende a été versée.
+[31] Une société qui a fait le choix de verser un dividende en capital qui excède la partie du dividende qui est réputée être un dividende en capital doit payer, au moment du choix, un impôt en vertu de la partie III de la Loi, égal aux 3/5 du montant du dividende excédentaire.
+[32] Une société peut éviter le paiement de l’impôt de la partie III de la Loi si elle fait le choix dans les 90 jours suivant la date de l’avis de cotisation relatif à cet impôt. Dans ce cas, la partie excédentaire du dividende est réputée être un dividende imposable distinct qui est devenu payable immédiatement après le moment donné, lequel doit être inclus dans le calcul du revenu de l’actionnaire lorsqu’il est un actionnaire unique.
+[33] Lorsqu’une société consent un prêt à un actionnaire ou lorsqu’un actionnaire contracte une dette envers la société dans laquelle il détient des actions, le paragraphe 15(2) de la Loi prévoit que le montant du prêt ou de la dette doit être inclus dans le revenu de ce dernier pour l’année d’imposition au cours de laquelle le prêt est consenti ou la dette est contractée.
+[34] Lorsque le prêt ou la dette est remboursé, le montant du remboursement est déductible du revenu de l’actionnaire dans l’année du remboursement en vertu de l’alinéa 20(1)(j). Dans cette situation, le montant d’intérêt découlant de l’avantage imposable relatif aux intérêts sur tous les prêts et sur toutes les dettes calculés au taux prescrit pour la période de l’année où le prêt ou la dette était impayé, est annulé.
+Analyse
+[35] En principe, l’appelant a le droit de recevoir sous forme de dividendes en capital la partie non-imposable du gain réalisé par la société 2869 lors de la vente de ses actifs en 2008. Malheureusement pour lui, les erreurs commises par ses conseillers l’ont empêché d’obtenir le bénéfice des dispositions de la Loi relatives aux dividendes en capital. Les erreurs concernent notamment la résolution de la société 2869 en date du 2 février 2008, le calcul du compte de dividendes en capital pour l’année 2008 et la production du formulaire T-2054 en octobre 2008.
+A. La résolution du 2 février 2008
+[36] La résolution de l’administrateur unique de la société 2869 adoptée en date du 2 février 2008 et signée par monsieur Marc St-Pierre en tant que président et administrateur de ladite société stipule que la société exerce le choix concernant un dividende en capital en vertu du paragraphe 83(2) de la Loi pour un montant de 596 881 $.
+[37] Ladite résolution, qui a été préparée par les comptables de la société 2869, est déficiente à plusieurs égards. D’abord, parce que le montant du dividende excède de 450 000 le compte de dividendes en capital de la société 2869 en date du 2 février 2008 et, ensuite, parce que les modalités de paiement du dividende ne sont pas précisées.
+[38] Selon ce qui a été mis en preuve, aucune autre résolution de la société 2869 a autorisé le versement des dividendes au 31 décembre 2008, 2009 et 2010. Par conséquent, la résolution du 2 février 2008 est celle par laquelle le dividende au montant de 596 881 $ est devenu payable, et c’est à cette date, que le formulaire T-2054 devait être produit. Ces conclusions sont conformes à la position adoptée par l’ARC dans le dossier.
+B. Le formulaire T-2054 datée du 22 octobre 2008
+[39] La société 2869 a produit le formulaire T-2054 le 22 octobre 2008 lequel a été signé par monsieur Marc St-Pierre en tant que président. Ledit formulaire indique que le montant total du dividende visé par le choix est de 596 881 $, que le compte de dividendes en capital, immédiatement avant la date où le dividende devient payable s’élève à 596 881 $, que la date où le dividende devient payable est le 30 novembre 2008 et, finalement, que le premier jour où une partie du dividende a été payée est également le 30 novembre 2008.
+[40] Le formulaire T-2054 produit comporte de nombreuses erreurs. Le montant total du dividende visé par le choix n’était pas correct, le compte de dividendes en capital, immédiatement avant la date où le dividende devient payable, était également erroné et la date à laquelle une partie du dividende a été payée n’était pas le 30 novembre 2008 mais plutôt le 31 décembre 2008.
+C. Calcul du compte de dividendes en capital pour l’année d’imposition 2008
+[41] Le problème est de nature technique et provient principalement de la détermination du moment où la partie non imposable de la disposition de l’achalandage doit être ajoutée au compte de dividendes en capital. Selon la définition du compte de dividendes en capital au paragraphe 89(1) de la Loi, les ajouts au compte de dividendes en capital sont effectués « à un moment donné ». Parmi les éléments à ajouter, on retrouve les sommes découlant de l’alinéa 14(1)(b) de la Loi qui traite la disposition de biens en immobilisation admissible. Comme le montant calculé à l’alinéa 14(1)(b) de la Loi ne peut être connu qu’en fin d’année, l’inclusion au compte de dividendes en capital ne peut être effectuée que le jour suivant la fin de l’exercice financier en cours de la société. Dans le présent cas, le gain réalisé sur la vente de l’achalandage devait être inclus au compte de dividendes en capital au 1er janvier 2009.
+[42] L’historique du compte de dividendes en capital a été produit avec la déclaration de revenus pour l’année d’imposition 2008 de la société 2869. Le solde du compte au 31 décembre 2008, est de 574 941 $. L’écart entre le montant indiqué au formulaire T-2054 produit le 22 octobre 2008 et le montant de 574 941 $ au 31 décembre 2008 est dû à une perte en capital de 43 880 $ réalisée le 3 septembre 2008 sur la disposition de placements. En date du 31 décembre 2008, le montant de 450 000 $ a été inclus comme un revenu de l’année et le même montant a été ajouté à la cédule de continuité du compte de dividendes en capital, calculé à l’aide du logiciel Taxprep. La cédule de continuité n’aurait pas dû tenir compte de l’inclusion du montant de 450 000 $ en 2008, mais uniquement après la fin de l’exercice financier, soit le 1er janvier 2009.
+[43] L’ARC ne fournit pas de formulaire de calcul du compte de dividendes en capital et accepte les valeurs fournies par le logiciel Taxprep. Ce logiciel a été autorisé par l’ARC pour fins de préparation des déclarations de revenus des sociétés.
+[44] Dans une lettre datée du 1er mai 2012, l’ARC a indiqué à l’appelant et à la société 2869 qu’elle mettait en garde les utilisateurs de logiciels dans ses publications, à l’effet que l’utilisation de logiciels de même que toute omission ou inexactitude dans les renseignements fournis relèvent de la responsabilité de l’utilisateur et que l’ARC ne peut être tenue responsable si des erreurs de programmation ont des incidences sur le calcul des cotisations à payer.
+[45] Le bon montant du solde du compte de dividendes en capital de la société 2869 à chacune des dates suivantes était comme suit :
+le 2 février 2008 = 146 881 $
+le 22 octobre 2008 = 124 941 $
+le 31 décembre 2008 = 124 941 $
+le 1er janvier 2009 = 574 941 $
+le 31 décembre 2009 = 488 374 $
+le 31 décembre 2010 = 107 114 $
+[46] La société 2869 n’a jamais versé de dividendes en capital de façon excédentaire à son compte de dividendes en capital puisque le compte de dividendes en capital de la société a toujours été supérieur au montant de chacun des dividendes versés. Rappelons que le dividende versé au 31 décembre 2008 était de 86 567 $ alors que son compte était de 124 941 $, que le dividende versé au 31 décembre 2009 était de 381 260 $ alors que son compte était de 574 941 $ et que le dividende versé au 31 décembre 2010 était de 40 000 $ alors que son compte était de 107 114 $.
+La solution – La requête en jugement déclaratoire
+[47] Par une lettre datée du 9 novembre 2011 de l’ARC, l’appelant et la société 2869 ont été informés que le compte de dividendes en capital de la société a été mal calculé et que le compte de dividendes en capital excédait de 450 000 $ le compte de dividendes en capital avant la production du choix, soit le 22 octobre 2008. Selon l’ARC, l’excédent de 450 000 $ est assujetti à l’impôt de la partie III de la Loi à moins que l’actionnaire unique de la société 2869 accepte de l’imposer directement sur l’excédent.
+[48] L’appelant et la société 2869 ont produit le 20 mars et le 10 août 2012 des demandes d’allègement qui n’ont pas donné de résultats concrets. Par contre, par une lettre datée du 28 novembre 2012, l’ARC a informé l’appelant et la société 2869 qu’elle n’émettra pas de cotisation d’impôt en vertu de la partie III relativement à l’excédent du compte de dividendes en capital si une preuve de la requête de rectification de la résolution leur est fournie ainsi qu’une copie du jugement de la Cour une fois qu’il sera rendu. L’extrait suivant faisait également partie de cette lettre :
+Advenant un jugement de la Cour en votre faveur, l’ARC ne s’opposera pas à une rectification servant à corriger certaines erreurs effectuées au niveau du CDC. De même, l’ARC apportera les modifications au formulaire de choix T-2054 déjà produit et vous n’aurez pas à produire un nouveau formulaire reflétant les changements autorisés par la Cour.
+[49] Suite à la lettre du 28 novembre 2012 de l’ARC, l’appelant a retenu les services de Me Bernard Roy pour présenter une requête en jugement déclaratoire auprès de la Cour supérieure du Québec. La requête fut déposée le 11 février 2013 et le Procureur Général du Canada et l’Agence du revenu du Québec furent mis-en-cause pour que le jugement à être rendu leur soit opposable. La requête visait à :
+a) annuler la résolution de l’administrateur unique de la société 2869 du 2 février 2008;
+b) déclarer que le dividende de 596 881 $ est nul et réputé ne jamais avoir existé;
+c) déclarer que les droits de Marc St-Pierre de réclamer le montant du dividende de 596 881 $ sont nuls et inexistants;
+d) ordonner à Marc St-Pierre de restituer les montants qu’il a reçus à titre de dividendes en capital avec intérêts au taux prescrit prévu à l’article 80.4 de la Loi; et
+e) ordonner à la société de mettre à jour ses livres et dossiers en conformité du présent jugement, y compris l’enlèvement au livre des minutes de la résolution de l’administrateur unique du 2 février 2008 et d’une dette envers son actionnaire, un montant de 596 881 $.
+[50] L’audition de la requête a eu lieu le 18 décembre 2013 et le jugement fut rendu le 6 janvier 2014 par lequel :
+a) la requête fut accueillie;
+b) la résolution de l’administrateur unique de la société 2869 du 2 février 2008 fut annulée;
+c) le dividende au montant de 596 881 $ fut déclaré nul et n’avoir jamais existé;
+d) les droits de Marc St-Pierre de réclamer le paiement du dividende de 596 881 $ furent déclarés nuls et inexistants;
+e) Marc St-Pierre s’est vu ordonné de restituer les montants qu’il a reçus à titre de dividendes en capital avec intérêts au taux prescrit;
+f) la société 2869 s’est vu ordonner de mettre à jour ses livres et dossiers en conformité du présent jugement, sans limiter ce qui précède, de procéder à l’enlèvement au livre des minutes, de la résolution du 2 février 2008 et d’une dette envers son actionnaire au montant de 596 881 $; et
+g) Les mis-en-cause dans la requête pour jugement ont consenti à ce que jugement intervienne en accueillant la requête en jugement déclaratoire en septembre 2013.
+Les conséquences du jugement
+[51] La requête présentée à la Cour supérieure du Québec n’était pas une requête en rectification mais plutôt une requête en annulation d’une résolution déclarant un dividende en capital de 596 881 $.
+[52] En vertu du jugement du 6 janvier 2014, la résolution du 2 février 2008 a été annulée rétroactivement et le dividende au montant de 596 881 $ de même que les droits de Marc St-Pierre de réclamer le paiement dudit dividende ont été déclarés nuls et n’avoir jamais existés. Par contre, le jugement ne vient pas altérer rétroactivement la réalité qu’il y a eu paiement par la société 2869 à son actionnaire d’un montant de 381 260 $ en 2009.
+[53] L’obligation pour Marc St-Pierre de restituer les montants qu’il a reçus à titre de dividendes en capital a pris naissance seulement lors du jugement et est devenue exécutoire dans les 30 jours de la date du jugement sans avoir d’effet rétroactif. La restitution n’était naturellement pas possible avant la date du jugement.
+[54] La question à se poser à ce stade-ci est la suivante : est-ce-que les sommes reçues par l’appelant de la société 2869 peuvent être considérées comme des prêts consentis par ladite société à son actionnaire ou à des dettes contractées par l’actionnaire auprès de ladite société pouvant donner ouverture à l’application du paragraphe 15(2) de la Loi ?
+[55] La position de l’appelant est l’effet qu’il n’y avait pas de prêt à l’actionnaire ni de dettes contractées par l’actionnaire envers la société 2869 lors de l’établissement de la cotisation en date du 30 avril 2013 parce que le jugement de la Cour supérieure du Québec n’était pas alors rendu. De plus, le jugement du 6 janvier 2014 a ordonné à Marc St-Pierre de restituer les montants qu’il a reçus à titre de dividendes en capital découlant de la résolution du 2 février 2008 et non pas les montants reçus à titre de prêts ou de dettes envers la société 2869. Au 30 avril 2013, il n’y avait pas de créance liquide et exigible, ni de relation débiteur/créancière entre l’appelant et la société 2869; cette relation n’ayant été créée qu’à compter de la date du jugement ordonnant la restitution.
+[56] L’intimée prétend plutôt que le jugement du 6 janvier 2014 a annulé rétroactivement la résolution du 2 février 2008 de sorte que le dividende a été déclaré nul ab initio. L’appelant a, par conséquent, obtenu des sommes d’argent sans y avoir droit. Il y a donc eu enrichissement sans cause de la part de l’appelant.
+[57] Dans l’arrêt Lust c. Canada, 2007 CAF 62, la Cour d’appel fédérale a confirmé l’application du paragraphe 15(2) de la Loi dans une situation où il y a eu enrichissement sans cause et a défini de la façon suivante le concept d’enrichissement sans cause au paragraphe 14 :
+[…] Un enrichissement est sans cause lorsqu’il y a enrichissement du défendeur, l’appauvrissement correspondant du demandeur et l’absence de motif juridique justifiant l’enrichissement (voir Garland c. Consumers Gas Co., 2004 CSC 25, [2004] 1 R.C.S. 629 au paragraphe 30, 237 D.L.R. (4th) 385.
+[58] Le même concept se retrouve d’ailleurs à l’article 1493 du Code civil du Québec qui se lit comme suit :
+Art. 1493. Celui qui s’enrichit aux dépens d’autrui doit, jusqu’à concurrence de son enrichissement, indemniser ce dernier de son appauvrissement corréaltif s’il n’existe aucune justification à l’enrichissement ou à l’appauvrissement.
+[59] En résumé, je considère que l’appelant s’est endetté envers la société 2869 en raison d’un enrichissement sans cause ou injustifié correspondant aux montants qu’il a reçus de la société 2869.
+[60] Je considère de plus que la cotisation du 30 avril 2013 n’était pas une cotisation préventive ayant pour but de protéger les droits de l’ARC advenant le rejet de la requête en jugement déclaratoire comme le prétend l’appelant. À mon avis, la cotisation m’apparaît être fondée sur l’acceptation de la requête par la Cour en appliquant les effets des conclusions recherchées. D’ailleurs, le Procureur Général du Canada a consenti à jugement en septembre 2013, soit bien avant l’audition de la requête par la Cour.
+[61] Par ailleurs, l’appelant n’a pas fourni d’explications lors de l’audience sur les raisons qui ont motivé ses procureurs à présenter une requête en annulation plutôt qu’une requête en rectification comme l’avait suggéré l’ARC. L’avantage recherché par le jugement semble être la possibilité d’adopter une nouvelle résolution et de produire de nouveaux choix en vertu du paragraphe 83(2) de la Loi, ce qui fut fait le 15 octobre 2015.
+Abus du droit ou abus de procédure envers l’appelant
+[62] Dans sa réplique datée du 29 octobre 2015, le procureur de l’appelant a allégué que l’intimée a été de mauvaise foi en modifiant sa base d’imposition et en cotisant l’appelant en fonction de l’application du paragraphe 15(2) de la Loi et, dans l’avis d’opposition et lors de l’audition, il a fait référence à la théorie de la préclusion (« estoppel » en anglais), une forme de res judicata (« chose jugée »).
+[63] Avec respect, je ne suis pas d’accord avec les prétentions de l’appelant et de son procureur. Que la Cour ait ou non compétence d’annuler une cotisation établie après une vérification abusive ou un processus inéquitable, je ne crois pas que la façon dont l’ARC a traité le dossier de l’appelant puisse être qualifié de vérification abusive, de processus inéquitable ou d’abus de procédure.
+[64] Le seul reproche que l’on pourrait faire à l’endroit de l’ARC est qu’elle a pris trois ans pour effectuer la vérification du formulaire T-2054 produit par l’appelant et le calcul du compte de dividendes en capital de la société 2869 au 2 février 2008. Il s’agit d’un exercice fastidieux qui est fait manuellement et qui exige l’examen de toutes les déclarations de revenu de la société 2869 depuis sa fondation. De toute façon, même si la vérification avait été plus rapide, l’appelant aurait eu à faire face au même problème et à avoir recours aux tribunaux pour régler le problème.
+[65] Je note également que l’appelant n’a pas subi de préjudice causé par le délai dans le traitement de son dossier. Aucun dividende en capital excédentaire n’a été payé par la société 2869 au 31 décembre 2008, 2009 et 2010. Je ne sais pas si c’est par hasard ou si c’est parce que les conseillers de la société 2869 se sont aperçus de l’erreur et ont bien pris le soin de ne pas déclarer de dividendes en capital excédant le compte de dividendes en capital à chacune de ces dates. Si tel est le cas, lesdits conseillers auraient pu apporter les modifications nécessaires à la résolution et au calcul de l’historique du compte de dividendes en capital avant la fin de la vérification de l’ARC.
+[66] Malgré le rejet des deux demandes d’allègement, l’ARC a tout de même fait preuve d’ouverture en acceptant de ne pas cotiser la société 2869 et son actionnaire en vertu de la partie III de la Loi, qui est la sanction normale lorsqu’un dividende en capital excédentaire est déclaré ou versé, pour autant qu’une requête en rectification soit présentée à un tribunal compétent. Plutôt que de présenter une requête en rectification, les procureurs de l’appelant et de la société 2869 ont présenté une requête en annulation de la résolution du 2 février 2008, probablement influencés par la décision rendue en 2009 par la Cour supérieure du Québec dans l’affaire Félix & Norton International Inc. et Canada (Procureur général), 2009 QCCS 919. Les faits de cette décision sont très similaires à ceux du présent dossier, à l’exception du fait que dans ce cas, aucun dividende n’avait été versé suite à l’adoption de la résolution.
+[67] Il y a également lieu ici de rappeler qu’avant d’émettre la cotisation du 30 avril 2013, l’ARC a demandé, par une lettre datée du 15 mars 2013, au procureur de l’appelant si son client était disposé à signer une renonciation à l’application de la période normale de nouvelle cotisation (le formulaire T-2029) pour son année d’imposition 2009, relativement à une cotisation fondée sur le paragraphe 15(2) et l’article 80.4 de la Loi vu que le délai de prescription pour l’année d’imposition 2009 était le 20 mai 2013. L’ARC était alors prêt à ré-évaluer la pertinence d’établir une telle cotisation à la lumière du jugement de la Cour supérieure du Québec. Monsieur St-Pierre a refusé de renoncer à l’application de la période normale de nouvelle cotisation pour son année d’imposition 2009 et la cotisation a été établie le mois suivant.
+[68] L’ARC a informé le procureur de l’appelant dès le 1er mars 2013 qu’elle avait l’intention d’établir une nouvelle cotisation à l’appelant et lui a offert la possibilité de retarder l’établissement de la cotisation à une date postérieure au jugement de la Cour et de pouvoir discuter des conclusions du jugement. L’appelant a refusé l’offre en prétendant qu’il n’avait aucun impôt à payer. La cotisation a été établie en date du 30 avril 2013 et l’appelant a produit son avis d’opposition le 18 juillet 2013.
+[69] L’ARC a fait connaître à l’appelant le fondement de sa cotisation bien avant l’audition de la requête à la Cour et l’appelant a eu l’occasion d’ajuster ou de modifier sa requête pour tenir compte de la cotisation. Le procureur de l’appelant était sans doute satisfait que la requête en annulation était le bon moyen pour faire annuler la cotisation même si la restitution n’était pas possible avant la date du jugement.
+[70] Sur la base de ce qui précède, je ne suis pas convaincu que l’ARC a fait preuve de mauvaise foi, a enduit l’appelant en erreur, lui a tendu un piège ou a abusé de procédures injustifiées dans les circonstances.
+[71] Le concept de la préclusion est un concept de common law qui n’a pas son équivalent en droit civil du Québec. Le seul type de préclusion qui serait susceptible de nous intéresser dans le présent cas, si ce concept était applicable au Québec, serait la préclusion du fait du comportement des parties, plus précisément celui de l’ARC. Compte tenu des conclusions énoncées au paragraphe précédent, je ne vois pas comment la préclusion du fait du comportement de l’ARC pourrait s’appliquer dans les circonstances.
+[72] Pour ces raisons, l’appel est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 1er jour de juin 2017.
+« Réal Favreau »
+Juge Favreau
+Annexe
+Les dispositions pertinentes de la Loi de l’impôt sur le revenu, L.R.C. 1985, c. 1 (5e suppl.) sont les suivantes :
+15 (2) Dette d’un actionnaire — La personne ou la société de personnes — actionnaire d’une société donnée, personne ou société de personnes rattachée à un tel actionnaire ou associé d’une société de personnes, ou bénéficiaire d’une fiducie, qui est un tel actionnaire — qui, au cours d’une année d’imposition, obtient un prêt ou devient la débitrice de la société donnée, d’une autre société liée à celle-ci ou d’une société de personnes dont la société donnée ou une société liée à celle-ci est un associé est tenue d’inclure le montant du prêt ou de la dette dans le calcul de son revenu pour l’année. Le présent paragraphe ne s’applique pas aux sociétés résidant au Canada ni aux sociétés de personnes dont chacun des associés est une société résidant au Canada.
+80.4(2) Idem — Lorsqu’une personne (autre qu'une société résidant au Canada) ou une société de personnes (autre qu'une société de personnes dont chacun des associés est une société résidant au Canada) était :
+a) soit un actionnaire d'une société;
+b) soit rattachée à un actionnaire d'une société;
+c) soit un associé d'une société de personnes, ou un bénéficiaire d'une fiducie, qui était actionnaire d'une société;
+et que, à ce titre, la personne ou la société de personnes a reçu un prêt de la société, de toute autre société qui lui est liée ou d'une société de personnes dont la société ou toute autre société qui lui est liée est un associé, ou a par ailleurs contracté une dette en faveur de l'une d'elles, la personne ou la société de personnes est réputée avoir reçu, au cours d'une année d'imposition, un avantage égal à l'excédent éventuel du total visé à l'alinéa d) sur le montant visé à l'alinéa e) :
+d) le total des intérêts sur tous ces prêts et sur toutes ces dettes, calculés au taux prescrit sur chacun de ces prêts et chacune de ces dettes pour la période de l'année où le prêt ou la dette était impayé;
+e) le montant des intérêts pour l’année versés sur tous ces prêts ou toutes ces dettes au plus tard 30 jours après le dernier en date de la fin de l’année et du 31 décembre 1982.
+80.4(3) Non-application des par. (1) et (2) — Les paragraphes (1) et (2) ne s'appliquent pas à un prêt ou à une dette ou à une partie quelconque d'un prêt ou d'une dette qui :
+a) soit est assujetti à un taux d'intérêt qui n'est pas inférieur au taux dont auraient été convenues, compte tenu des circonstances (y compris les modalités du prêt ou de la dette), au moment où le prêt a été reçu ou la dette contractée, deux parties n'ayant entre elles aucun lien de dépendance, pourvu que :
+(i) d'une part, aucune partie n'ait reçu le prêt ou contracté la dette en vertu d'une charge ou d'un emploi ou en vertu de la qualité d'actionnaire d'une personne ou d'une société de personnes;
+(ii) d'autre part, l'activité d'entreprise habituelle du créancier ait compris le prêt d'argent,
+sauf si un montant est payé ou payable au cours d’une année d’imposition donnée au créancier à l’égard de l’intérêt sur le prêt ou la dette par une partie qui n’est pas le débiteur;
+b) soit a été inclus dans le calcul du revenu d'une personne ou d'une société de personnes en vertu de la présente partie.
+83(2) Dividende en capital — Lorsque, à un moment donné après 1971, un dividende devient payable par une société privée aux actionnaires d'une catégorie quelconque d'actions de son capital-actions et que la société fait un choix relativement au montant total du dividende, selon les modalités et le formulaire réglementaires, au plus tard au premier en date du moment donné et du premier jour où une partie du dividende a été payée, les règles suivantes s'appliquent :
+a) le dividende est réputé être un dividende en capital jusqu'à concurrence du montant du compte de dividendes en capital de la société immédiatement avant le moment donné;
+b) aucune partie du dividende n'est incluse dans le calcul du revenu des actionnaires de la société.
+83(3) Production en retard d’un choix — Lorsque, à un moment donné après 1974, un dividende est devenu payable par une société aux actionnaires d'une catégorie d'actions de son capital-actions et que le paragraphe (1) ou (2) se serait appliqué au dividende si le choix y mentionné avait été fait au plus tard à la date où le choix devait être fait en vertu de ce paragraphe, le choix est réputé avoir été fait au premier en date du moment donné et du premier jour du versement d'une partie du dividende dans le cas où :
+a) le choix est fait selon les modalités et le formulaire réglementaires;
+b) la société paye le montant estimatif de la pénalité relative au choix au moment où celui-ci est fait;
+c) les administrateurs ou toute autre personne qui a le droit de gérer la société ont autorisé au préalable l'exercice d'un choix.
+83(4) Pénalités pour choix tardif — Pour l'application du présent article, la pénalité relative au choix visé à l'alinéa (3)a) est égale au moins élevé des montants suivants :
+a) 1 % par année du montant du dividende qui y est visé pour chaque mois ou partie de mois de la période commençant au premier en date du moment où le dividende est devenu payable et du premier jour où une partie du dividende a été payée et se terminant le jour où le choix est fait;
+b) le produit de 500 $ et du rapport entre le nombre de mois ou de parties de mois dans la période visée à l'alinéa a) et 12.
+89(1) compte de dividendes en capital − S’agissant du compte de dividendes en capital d’une société, à un moment donné, l’excédent éventuel du total des montants suivants :
+a) l’excédent éventuel du total visé au sous-alinéa (i) sur le total visé au sous-alinéa (ii):
+(i) le total des montants dont chacun représente l’excédent éventuel :
+(A) d’un gain en capital − calculé compte non tenu des sous-alinéas 52(3)a)ii) et 53(1)b)(ii) − de la société provenant de la disposition (sauf celle qui constitue un don effectué après le 8 décembre 1997 qui n’est pas un don visé au paragraphe 110.1(1)) d’un bien au cours de la période commençant au début de sa première année d’imposition (ayant commencé après le moment où elle est devenue pour la dernière fois une société privée et s’étant terminée après 1971) et se terminant immédiatement avant le moment donné (appelée « période » à la présente définition),
+sur le total des montants suivants :
+(B) le gain en capital imposable de la société correspondant,
+(B.1) le gain en capital imposable de la société provenant d’une disposition au cours de la période, prévue au paragraphe 40(12),
+(C) la partie de l’excédent éventuel du montant calculé à la division (A) sur le montant calculé à la division (B), provenant de la disposition d’un bien par la société, qu’il est raisonnable de considérer comme s’étant accumulée pendant que le bien, ou un bien qui lui est substitué :
+(I) sauf dans le cas de la disposition d’un bien désigné, soit appartenait à une société — sauf une société privée, une société de placement, une société de placement hypothécaire ou une société de placement à capital variable —,
+(II) soit appartenait à une société contrôlée, directement ou indirectement, de quelque manière que ce soit, par une ou plusieurs personnes non-résidentes, si le bien est devenu, après le 26 novembre 1987, un bien d’une société privée sous contrôle canadien — autrement qu’à cause d’un changement de résidence d’un ou de plusieurs actionnaires de la société —,
+(III) soit appartenait à une société exonérée de l’impôt prévu à la présente partie sur son revenu imposable, si le bien est devenu, après le 26 novembre 1987, un bien d’une société privée qui n’était pas exonérée de l’impôt prévu à la présente partie sur son revenu imposable,
+(ii) le total des montants dont chacun représente l’excédent éventuel :
+(A) d’une perte en capital de la société − calculé compte non tenu des sous-alinéas 52(3)a)ii) et 53(1)b)(ii) − résultant de la disposition (sauf celle qui constitue un don effectué après le 8 décembre 1997 que n’est pas un don visé au paragraphe 110.1(1)) d’un bien au cours de cette période,
+sur le total des montants suivants :
+(B) la perte en capital déductible de la société correspondante,
+(C) la partie de l’excédent éventuel du montant calculé à la division (A) sur le montant calculé à la division (B), provenant de la disposition d’un bien par la société, qu’il est raisonnable de considérer comme s’étant accumulée pendant que le bien, ou un bien qui lui est substitué :
+(I) sauf dans le cas de la disposition d’un bien désigné, soit appartenait à une société — sauf une société privée, une société de placement, une société de placement hypothécaire ou une société de placement à capital variable —,
+(II) soit appartenait à une société contrôlée, directement ou indirectement, de quelque manière que ce soit, par une ou plusieurs personnes non-résidentes, si le bien est devenu, après le 26 novembre 1987, un bien d’une société privée sous contrôle canadien — autrement qu’à cause d’un changement de résidence d’un ou de plusieurs actionnaires de la société —,
+(III) soit appartenait à une société exonérée de l’impôt prévu à la présente partie sur son revenu imposable, si le bien est devenu, après le 26 novembre 1987, un bien d’une société privée qui n’était pas exonérée de l’impôt prévu à la présente partie sur son revenu imposable;
+b) les sommes dont chacune constitue une somme reçue par la société au cours de la période, à titre de dividende versé sur une action du capital-actions d’une autre société, somme qui, en vertu du paragraphe 83(2), n’a pas été incluse dans le calcul du revenu de la société;
+c) les sommes représentant chacune une somme qui était à inclure selon le présent alinéa, dans sa version applicable à une année d’imposition terminée avant le 28 février 2000,
+[…]
+c.2 ) l’excédent éventuel du montant suivant :
+(i) le total des montants représentant chacun un montant à inclure en application de l’alinéa 14(1)b) dans le calcul du revenu de la société, relativement à une entreprise qu’elle exploite, pour une année d’imposition comprise dans la période et se terminant après le 17 octobre 2000,
+sur le montant applicable suivant :
+(ii) si la société a établi qu’une somme est devenue une créance irrécouvrable au cours d’une année d’imposition comprise dans la période et se terminant après le 17 octobre 2000 et a déduit un montant au titre de cette somme en application du paragraphe 20(4.2), ou si elle a une perte en capital déductible pour une telle année par l’effet du paragraphe 20(4.3), le montant obtenu par la formule suivante :
+X + Y
+où :
+X représente la valeur de l’élément A de la formule figurant au paragraphe 20(4.2), déterminée relativement à la société pour la dernière année d’imposition semblable terminée dans la période,
+Y le tiers de la valeur de l’élément B de cette formule, déterminée relativement à la société pour cette dernière année d’imposition,
+(iii) dans les autres cas, zéro,
+[…]
+184(2) Impôt sur les excédents résultant d'un choix — La société qui fait un choix en vertu du paragraphe 83(2), 130.1(4) ou 131(1) relativement au montant total d'un dividende payable par elle sur des actions d'une catégorie de son capital-actions (appelé «dividende initial» au présent article) doit payer, au moment du choix, un impôt en vertu de la présente partie égal aux 3/5 de l'excédent du montant total du dividende initial sur la partie de celui-ci qui est réputée, par ce paragraphe, être un dividende en capital ou un dividende sur les gains en capital.
+184(3) Choix de considérer l'excédent comme un dividende distinct — Dans le cas où une société serait tenue, en l'absence du présent paragraphe, de payer, en vertu de la présente partie, à l'égard d'un dividende initial payable à un moment donné, un impôt au titre de l'excédent visé au paragraphe (2), les règles ci-après s'appliquent si la société en fait le choix selon les modalités réglementaires au plus tard le quatre-vingt-dixième jour suivant la date d'envoi de l'avis de cotisation relatif à l'impôt payable par ailleurs en vertu de la présente partie :
+a) la partie du dividende initial qui est réputée, par le paragraphe 83(2), 130.1(4) ou 131(1), être un dividende en capital ou un dividende sur les gains en capital, selon le cas, est réputée, pour l'application de la présente loi, être un dividende distinct qui est devenu payable au moment donné;
+b) la partie de l'excédent que la société a désignée dans son choix est réputée, pour l'application d'un choix concernant cette partie fait en vertu du paragraphe 83(2), 130.1(4) ou 131(1), et, si la société fait un tel choix, pour l'application de la présente loi, être un dividende distinct qui est devenu payable immédiatement après le moment donné;
+c) la partie de l'excédent qui excède la partie réputée, par l'alinéa b), être un dividende distinct pour l'application de la présente loi est réputée être un dividende imposable distinct qui est devenu payable au moment donné;
+d) chacune des personnes qui détenaient des actions émises de la catégorie d'actions du capital-actions de la société sur laquelle le dividende initial a été versé est réputée :
+(i) n'avoir reçu aucune partie du dividende initial,
+(ii) avoir reçu, au moment où un dividende distinct déterminé selon l'un des alinéas a) à c) est devenu payable, la proportion de ce dividende que représente le rapport entre le nombre d'actions de cette catégorie qu'elle détenait au moment donné et le nombre d'actions de cette catégorie qui étaient en circulation à ce moment; toutefois, pour l'application de la partie XIII, le dividende distinct est réputé être versé le jour où le choix prévu au présent paragraphe est fait.
+20(1)j) Remboursement d’un emprunt par un actionnaire — Remboursement d'un emprunt par un actionnaire la partie remboursée, au cours de l'année, par le contribuable, de quelque emprunt ou dette et incluse, en vertu du paragraphe 15(2), dans le calcul de son revenu pour une année d'imposition antérieure (sauf dans la mesure où le montant de l'emprunt ou de la dette était déductible du revenu du contribuable pour le calcul de son revenu imposable pour cette année d'imposition antérieure) s'il est établi par des événements postérieurs ou d'une autre façon que le remboursement n'a pas été effectué comme partie d'une série d'emprunts ou d'autres opérations et de remboursements;
+RÉFÉRENCE :
+2017 CCI 69
+Nº DU DOSSIER DE LA COUR :
+2015-2158(IT)G
+INTITULÉ DE LA CAUSE :
+Marc St-Pierre et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Québec (Québec)
+DATE DE L’AUDIENCE :
+le 23 janvier 2017
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Réal Favreau
+DATE DU JUGEMENT :
+le 1er juin 2017
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Pierre Hémond
+Avocat de l'intimée :
+Me Alain Gareau
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Me Pierre Hémond
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

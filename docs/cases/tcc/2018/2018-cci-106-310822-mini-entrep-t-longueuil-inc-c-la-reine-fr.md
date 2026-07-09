@@ -1,0 +1,247 @@
+---
+title: "Mini Entrepôt Longueuil Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/310822/index.do"
+last_modified: "2018-05-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 CCI 106"
+citation2: ""
+neutral_citation: "2018 CCI 106"
+decision_date: "2018-05-30"
+language: "fr"
+item_id: "310822"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4696
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:54:08.843000+00:00"
+cases_cited_count: 7
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e3b8264d4fab6a5c8d329bdf51a5e124cad0213b3d2c0e712132f3d8362d8dbd"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mini Entrepôt Longueuil Inc. c. La Reine
+
+- Citation: 2018 CCI 106
+- Decision date: 2018-05-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4696, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mini Entrepôt Longueuil Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-05-30
+Référence neutre
+2018 CCI 106
+Numéro de dossier
+2016-1692(IT)G
+Juges et Officiers taxateurs
+Dominique Lafleur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-1692(IT)G
+ENTRE :
+MINI ENTREPÔT LONGUEUIL INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 26 mars 2018, à Montréal (Québec)
+Devant : L’honorable juge Dominique Lafleur
+Comparutions :
+Avocat de l’appelante :
+Me Jacques Trudeau
+Avocat de l’intimée :
+Me Julien Dubé-Senécal
+JUGEMENT
+L’appel interjeté de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu (la « Loi ») pour l’année d’imposition se terminant le 30 avril 2012 est accueilli, sans frais, et l’affaire est déférée à la ministre du Revenu national pour nouvel examen et nouvelle cotisation selon les modalités du consentement accordé par l’intimée au début de l’audience du 26 mars 2018.
+L’appel interjeté des nouvelles cotisations établies en vertu de la Loi pour les années d’imposition se terminant les 30 avril 2013 et 30 avril 2014 est rejeté, avec dépens en faveur de l’intimée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, le 30e jour de mai 2018.
+« Dominique Lafleur »
+La juge Lafleur
+Référence : 2018 CCI 106
+Date : 20180530
+Dossier : 2016-1692(IT)G
+ENTRE :
+MINI ENTREPÔT LONGUEUIL INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lafleur
+I. CONTEXTE
+[1] La société Mini Entrepôt Longueuil Inc. (la « Société » ou l’« appelante ») fait appel de nouvelles cotisations établies par la ministre du Revenu national (la « ministre ») en vertu de la Loi de l’impôt sur le revenu (LRC (1985), ch. 1 (5e suppl.), telle que modifiée) (la « Loi ») pour les années d’imposition de la Société se terminant les 30 avril 2012, 30 avril 2013 et 30 avril 2014 et dont les avis sont datés du 28 octobre 2014. En vertu de ces nouvelles cotisations, la ministre a refusé la déduction accordée aux petites entreprises (la « DPE ») réclamée par la Société selon le paragraphe 125(1) de la Loi, au montant de 23 750 $, 28 974 $ et 39 335 $ respectivement, au motif que l’entreprise exploitée par la Société était une entreprise de placement déterminée au sens du paragraphe 125(7) de la Loi et conséquemment, la Société ne pouvait bénéficier de la DPE.
+[2] Au début de l’audience, l’intimée a avisé la Cour qu’il consentait à ce que la Cour rende jugement portant que la Société avait droit à la DPE pour l’année d’imposition se terminant le 30 avril 2012 au motif que le revenu de la Société pour cette année d’imposition provenait d’une entreprise exploitée activement et non pas d’une entreprise de placement déterminée.
+[3] Conséquemment, le différend devant la Cour ne portera que sur les années d’imposition de la Société se terminant les 30 avril 2013 et 30 avril 2014 (les « Années en litige »).
+[4] La Société est d’avis qu’elle a droit à la DPE sur le revenu tiré de son entreprise de location de mini-entrepôt en libre-service puisqu’elle a employé dans son entreprise plus de cinq employés à plein temps tout au long des Années en litige. Conséquemment, l’entreprise qu’elle exploite se qualifie d’entreprise exploitée activement et non pas d’entreprise de placement déterminée puisque les conditions prévues à l’alinéa a) de la définition de cette expression sont réunies.
+[5] Selon la ministre, puisque la Société n’a pas employé dans son entreprise plus de cinq employés à plein temps tout au long des Années en litige, l’entreprise exploitée par la Société se qualifie à titre d’entreprise de placement déterminée. Conséquemment, la Société ne peut réclamer la DPE à l’égard du revenu tiré de cette entreprise pour les Années en litige.
+II. LES DISPOSITIONS LÉGISLATIVES PERTINENTES
+[6] Les dispositions pertinentes de la Loi se lisent comme suit :
+125(1) Forme et production de la demande — La société qui est tout au long d’une année d’imposition une société privée sous contrôle canadien peut déduire de son impôt payable par ailleurs pour l’année en vertu de la présente partie une somme égale au produit de la multiplication du taux de la déduction pour petite entreprise qui lui est applicable pour l’année par la moins élevée des sommes suivantes :
+a) l’excédent éventuel du total des montants suivants :
+i) le total des sommes dont chacune est le montant de revenu de la société pour l’année provenant d’une entreprise exploitée activement au Canada, sauf l’une des sommes suivantes :
+[…]
+(7) Définitions — Les définitions qui suivent s’appliquent au présent article.
+[…]
+entreprise de placement déterminée Entreprise, sauf une entreprise exploitée par une caisse de crédit ou une entreprise de location de biens autres que des biens immeubles ou réels, dont le but principal est de tirer un revenu de biens, notamment des intérêts, des dividendes, des loyers et des redevances. Toutefois, sauf dans le cas où la société est une société à capital de risque de travailleurs visée par règlement au cours de l’année, l’entreprise exploitée par une société au cours d’une année d’imposition n’est pas une entreprise [de placement] déterminée si, selon le cas :
+a) la société emploie dans l’entreprise plus de cinq employés à plein temps tout au long de l’année;
+b) une autre société associée à la société lui fournit au cours de l’année, dans le cadre de l’exploitation active d’une entreprise, des services de gestion ou d’administration, des services financiers, des services d’entretien ou d’autres services semblables et il est raisonnable de considérer que la société aurait eu besoin de plus de cinq employés à plein temps si ces services ne lui avaient pas été fournis. (specified investment business)
+[…]
+entreprise exploitée activement Toute entreprise exploitée par une société, autre qu’une entreprise de placement déterminée ou une entreprise de prestation de services personnels mais y compris un projet comportant un risque ou une affaire de caractère commercial. (active business carried on by a corporation)
+[…]
+125(1) Small business deduction — There may be deducted from the tax otherwise payable under this Part for a taxation year by a corporation that was, throughout the taxation year, a Canadian-controlled private corporation, an amount equal to the corporation’s small business deduction rate for the taxation year multiplied by the least of
+(a) the amount, if any, by which the total of
+(i) the total of all amounts each of which is the amount of income of the corporation for the year from an active business carried on in Canada, other than an amount that is
+. . .
+(7) Definitions — In this section,
+active business carried on by a corporation means any business carried on by the corporation other than a specified investment business or a personal services business and includes an adventure or concern in the nature of trade; (entreprise exploitée activement)
+. . .
+specified investment business, carried on by a corporation in a taxation year, means a business (other than a business carried on by a credit union or a business of leasing property other than real or immovable property) the principal purpose of which is to derive income (including interest, dividends, rents and royalties) from property but, except where the corporation was a prescribed labour-sponsored venture capital corporation at any time in the year, does not include a business carried on by the corporation in the year where
+(a) the corporation employs in the business throughout the year more than 5 full-time employees, or
+(b) any other corporation associated with the corporation provides, in the course of carrying on an active business, managerial, administrative, financial, maintenance or other similar services to the corporation in the year and the corporation could reasonably be expected to require more than 5 full-time employees if those services had not been provided; (entreprise de placement déterminée)
+. . .
+[Non souligné dans l’original]
+[7] Dans les présents motifs, toute référence à une disposition législative est une référence à la Loi, sauf indication contraire.
+III. LA QUESTION EN LITIGE
+[8] Il n’est pas controversé en l’espèce que le but principal de l’entreprise exploitée par la Société pendant les Années en litige était de tirer un revenu de biens sous la forme de loyers perçus pour la location des espaces d’entreposage. La seule question en litige devant notre Cour est de déterminer si la Société employait dans son entreprise plus de cinq employés à plein temps tout au long des Années en litige. Si la Cour conclut que tel est le cas, la Société pourra réclamer la DPE sur le revenu tiré de l’entreprise, puisque le revenu sera considéré provenir d’une entreprise exploitée activement. Toutefois, si la Cour conclut que la Société n’employait pas dans son entreprise plus de cinq employés à plein temps tout au long des Années en litige, l’entreprise de la Société se qualifiera alors d’entreprise de placement déterminée et conséquemment, la Société ne pourra réclamer la DPE sur ce revenu.
+IV. LES FAITS
+[9] À l’audience, seul monsieur Denis Bienvenue, unique actionnaire et administrateur de la Société, a témoigné. Monsieur Bienvenue a témoigné que, pendant les Années en litige, la Société employait entre 10 et 15 personnes, toutes âgées entre 60 et 65 ans. Ces employés, dont la plupart recevaient un revenu de pension, étaient au service de la Société afin d’arrondir leurs fins de mois. Selon monsieur Bienvenue, ces personnes ne voulaient pas travailler 40 heures par semaine. Ainsi, la Société les employait pour 20 à 30 heures par semaine, en moyenne. Monsieur Bienvenue a également donné l’exemple d’une employée qui travaillait environ 25 heures par semaine puisqu’elle devait prendre soin de sa mère malade.
+[10] Monsieur Bienvenue a témoigné qu’il faisait preuve de souplesse en ce qui concerne les heures de travail des employés de la Société. Il a témoigné que la Société employait 3, 4 ou 5 personnes par année, ces personnes travaillant 30 heures ou plus par semaine, sans compter le contrôleur qui travaillait 30 heures par semaine, de même que lui-même qui travaillait plus de 30 heures par semaine.
+[11] Copies des livres de paies pour les Années en litige ont été produites à l’audience, sous les cotes A-1 et A-2. L’appelante et l’intimée ont également déposé conjointement les tableaux préparés par l’intimée sous les cotes I-2 (année d’imposition se terminant le 30 avril 2013, le « Tableau 2013 ») et I-3 (année d’imposition se terminant le 30 avril 2014, le « Tableau 2014 ») résumant les informations figurant dans les livres de paies et faisant état du nombre d’heures travaillées et payées à l’égard de chaque employé de la Société pour chaque mois des Années en litige. Ces tableaux indiquent qu’environ 12 000 heures de travail ont été travaillées et payées aux employés au cours de chaque Année en litige.
+[12] Monsieur Bienvenue a expliqué à la Cour que, durant les mois de janvier, février, mars et avril 2013, il a travaillé pour la Société environ 35 heures par semaine, bien que le Tableau 2013 indique qu’aucune heure de travail ne lui a été payée au cours de ces 4 mois. En effet, il n’a pas reçu de salaire pour cette période, mais plutôt des dividendes.
+V. THÈSES DES PARTIES
+1. Selon l’appelante
+[13] Selon l’appelante, le but visé par l’article 125 est d’octroyer la DPE à une société qui est suffisamment active. L’intimée avance une interprétation rigide de l’exception figurant à l’alinéa a) de la définition de l’expression entreprise de placement déterminée.
+[14] Il serait injuste de priver la Société de la DPE, compte tenu du choix qu’elle a fait d’offrir des emplois à un nombre plus élevé de personnes, travaillant moins d’heures par semaine. En l’espèce, compte tenu du nombre d’heures travaillées par les employés de la Société, soit en moyenne 12 000 heures par année, il est évident que la Société n’est pas inactive. De plus, ce nombre d’heures est beaucoup plus important que le nombre d’heures équivalant au travail de 5 employés travaillant 30 heures/semaine pendant 52 semaines, soit 7 800 heures. À cet égard, l’appelante fait remarquer que le critère voulant qu’un employé travaille au moins 30 heures/semaine pour être assimilé à un employé à plein temps n’a pas été discuté par la jurisprudence, mais n’est que le reflet de la position administrative de l’Agence du revenu du Canada (l’« ARC »).
+[15] Selon l’appelante, les notions de travail à temps plein et de travail à temps partiel doivent être définies en comparaison des autres travailleurs d’une même entité, ce qui est conforme aux recommandations de l’organisation internationale du travail (« OIT ») et à la jurisprudence Ben Raedarc Holdings Ltd c La Reine, 1997 CanLII 176 (CCI).
+[16] Finalement, l’appelante attire l’attention de notre Cour vers d’autres dispositions de la Loi dans lesquelles on retrouve les mots « plein temps », tels le crédit d’impôt pour frais de scolarité (al. 118.5(1)b)) et le crédit pour frais médicaux (al. 118.2(2)b)), et soutient que la même interprétation des mots « plein temps » doit être suivie aux fins de la DPE.
+2. Selon l’intimée
+[17] Vu l’objet de la disposition de la Loi, qui consiste à « veiller à ce que l’entreprise d’une société investissant dans des biens locatifs ne soit pas considérée comme exploitée « activement » sans que l’activité de cette entreprise justifie l’emploi de plus de cinq employés à plein temps » (Lerric Investments Corp c La Reine, 1999 CanLII 396 (CCI) au para 24 [Lerric]), et la jurisprudence qui enseigne que pour déterminer le nombre total d’employés à plein temps, le nombre d’employés à temps partiel ne peut être pris en compte (Lerric, supra para 16 et Huntly Investments Limited v The Queen, 2017 TCC 255, au para 64 [Huntly]), l’intimée soutient que la Société n’a pas employé dans son entreprise plus de cinq employés à plein temps tout au long des Années en litige. Selon l’intimée, cela ressort très clairement du Tableau 2013 et du Tableau 2014.
+[18] De plus, puisque la ministre tient pour acquis qu’« un emploi est à temps plein lorsque le nombre d’heures de travail hebdomadaire est supérieur ou égal à 30 heures » et que cette hypothèse de fait n’a pas été démolie par l’appelante, la Cour doit donc tenir pour acquis ce fait et conclure que ce chiffre est à prendre en compte pour rechercher si l’entreprise de la Société comptait plus de cinq employés à plein temps.
+[19] Également, selon l’intimée, la jurisprudence semble enseigner que, lorsque l’on compte 29 heures/semaine, cela résulte en un emploi à plein temps (Town Properties Ltd c La Reine, 2004 CCI 375 au para 6, doctrine confirmée en appel par l’arrêt Baker c Canada, 2005 CAF 185, [2005] ACF no 901 (QL) [Baker]).
+VI. DISCUSSION
+1. Hypothèses de la ministre
+[20] Avant d’entamer l’analyse, la Cour tient à préciser qu’elle rejette sans équivoque la thèse de l’intimée portant que, vu que l’appelante n’a pas démoli l’hypothèse de la ministre selon laquelle « [u]n emploi est à temps plein lorsque le nombre d’heures de travail hebdomadaire est supérieur ou égal à 30 heures », la Cour doit accepter ce fait et conclure qu’un emploi est à plein temps si le nombre d’heures de travail hebdomadaire est supérieur ou égal à 30.
+[21] Cette hypothèse n’est pas une hypothèse de fait mais plutôt une conclusion de droit qui n’a pas sa place dans l’énoncé des hypothèses de fait sur lesquelles la ministre s’est fondée pour émettre la cotisation. La question de savoir ce qui constitue un emploi à plein temps est une question à laquelle doit répondre notre Cour. Dans le cadre du présent appel, notre Cour doit rechercher si l’appelante a employé dans son entreprise plus de cinq employés à plein temps tout au long des Années en litige.
+[22] L’enseignement de la Cour d’appel fédérale professé à l’occasion de l’affaire Canada c Anchor Pointe Energy Ltée, 2003 CAF 294, [2003] ACF no 1045 (QL), est clair :
+[TRADUCTION]
+25 J’estime également que les déclarations ou conclusions juridiques n’ont pas leur place dans l’énoncé des hypothèses de fait du ministre. Il en découlerait pour le contribuable le fardeau de réfuter une déclaration ou conclusion juridique et, bien sûr, cela ne doit pas être. Le critère juridique à appliquer n’a pas à être prouvé par les parties comme s’il s’agissait d’un fait. Les parties doivent présenter leurs arguments relativement au critère juridique, mais c’est à la Cour qu’il incombe en bout de ligne de trancher les questions de droit.
+2. La DPE – généralité/objet de la DPE
+[23] L’article 125 contient les dispositions pertinentes en l’espèce. Plus précisément, le paragraphe 125(1) définit les règles de calcul de la DPE. Les définitions des diverses expressions que l’on trouve à l’article 125 se trouvent au paragraphe 125(7).
+[24] Le taux de la DPE n’est applicable qu’à l’égard du revenu d’une société provenant d’une « entreprise exploitée activement ». La définition d’« entreprise exploitée activement » exclut l’« entreprise de placement déterminée », soit une entreprise dont le but principal est de tirer un revenu de biens sauf si, notamment, la société emploie dans l’entreprise plus de cinq employés à plein temps tout au long de l’année. Ainsi, si la Cour conclut que l’appelante exploite une entreprise de placement déterminée, elle n’a pas droit à la DPE sur le revenu provenant de cette entreprise.
+[25] A l’occasion de l’affaire Lerric, supra, le juge Bowman, qui devait rechercher si l’appelante employait plus de cinq employés à plein temps dans son entreprise et donc avait droit à la DPE, observe à l’égard de l’objet de la DPE :
+[TRADUCTION]
+23 Quel est donc l’objet de la loi? Il semble que le concept d’entreprise de placement désignée ait été une réaction à certaines décisions des tribunaux assimilant à une entreprise exploitée activement presque toute entreprise commerciale d’une société, si peu activement qu’elle ait été exploitée et même lorsqu’elle était exploitée à contrat par des entrepreneurs indépendants, qui n’étaient pas des employés (voir, par exemple : The Queen v. Cadboro Bay Holdings Ltd.,77 DTC 5115 (C.F., 1re inst.); The Queen v. Rockmore Investments Ltd., 76 DTC 6157; E.S.G. Holdings Limited v. The Queen, 76 DTC 6158; The Queen v. M.R.T. Investments Ltd., 76 DTC 6158).
+24 Il en est résulté l’introduction du concept d’entreprise de placement désignée, dont le but était d’établir qu’ « activement » signifiait vraiment activement et qu’il importait que les tribunaux tiennent bien compte de ce terme de la Loi. Cette nouvelle disposition législative avait donc pour objet de veiller à ce que l’entreprise d’une société investissant dans des biens locatifs ne soit pas considérée comme exploitée « activement » sans que l’activité de cette entreprise justifie l’emploi de plus de cinq employés à plein temps.
+[26] La Cour d’appel fédérale, à l’occasion de l’affaire Lerric Investments Corp. c Canada, 2001 CAF 14, [2001] ACF no 239 (QL), a approuvé les observations du juge Bowman (para 6) et a ajouté :
+[TRADUCTION]
+9 L’article 125 établit une distinction entre les entreprises actives et les entreprises inactives. Seules les premières sont admissibles à la déduction accordée aux petites entreprises. Normalement, une entreprise dont les revenus proviennent principalement de biens est considérée comme une entreprise inactive et n’est donc pas admissible à la déduction. Le sous-alinéa 125(7)e)(i) prévoit une exception à cette règle et permet à une société qui tire un revenu de biens de se prévaloir de la déduction accordée aux petites entreprises si cette société est suffisamment active. Son nombre d'employés est un des indices qui permet de mesurer son degré d’activité. Ainsi que le juge Bowman l’a expliqué, l’obligation pour la société d’employer plus de cinq employés à plein temps sert simplement de critère visant à s’assurer qu’une société est suffisamment active pour avoir droit à la déduction.
+[27] La Cour d’appel fédérale, à l’occasion de l’affaire Baker, supra, a renouvelé cette approbation (para 11).
+[28] Ainsi, l’emploi de plus de cinq employés à plein temps tout au long de l’année d’imposition est le seuil minimal d’exploitation requis par le législateur afin qu’une société exploitant une entreprise dont le but principal est de gagner un revenu de biens puisse bénéficier de la DPE sur ce revenu.
+3. Entreprise de placement déterminée – emploi de plus de cinq employés à plein temps tout au long de l’année
+i) Les principes consacrés par la jurisprudence :
+[29] La jurisprudence enseigne qu’une société remplit le test de l’« emploi de plus de cinq employés à plein temps » si elle emploie cinq employés à plein temps ainsi qu’un employé à temps partiel (489599 B.C. Ltd c La Reine, 2008 CCI 332 aux para 17 et 18 [489599 B.C. Ltd]). Toutefois, afin de déterminer le nombre total d’employés à plein temps, le nombre d’employés à temps partiel ne peut être pris en compte (Lerric, supra para 16). Ainsi, l’emploi de nombreux employés à temps partiel ne peut répondre à l’obligation d’employer cinq personnes à plein temps (489599 B.C. Ltd, supra para 16).
+[30] La jurisprudence est donc constante : une société ne peut cumuler des employés à temps partiel pour créer une équivalence d’employés à plein temps. Récemment, dans la décision Huntly, supra para 64, le juge Paris observait :
+[TRADUCTION]
+64 […] Cependant, il est manifeste que, pour atteindre cinq employés à plein temps, l’on ne pouvait compter ou additionner les employés à temps partiel afin d’obtenir une équivalence d’emploi à plein temps : Lerric Investments Corp c. The Queen, [1999] 2 CTC 2714.
+[31] Dans l’affaire Baker, supra, la Cour d’appel fédérale a précisé la notion d’emploi à plein temps aux fins de la DPE et a conclu que cette notion s’opposait à la notion d’emploi à temps partiel; en outre, elle a précisé que le seuil d’au moins cinq employés à plein temps n’était pas d’application variable, subjective ou fonction du secteur d’activité ou du lieu d’exercice des activités. La Cour d’appel fédérale a conclu dans cette affaire qu’un emploi requérant 20 heures de travail par semaine ne constituait pas un emploi à plein temps :
+[TRADUCTION]
+13 Définir « emploi à plein temps » en fonction du nombre normal d’heures travaillées dans le secteur d’activité et au lieu où s’accomplit ce travail, tel que le propose la décision Ben Raedarc, précitée, va à l’encontre de l’esprit de la loi qui vise à poser pour condition un certain niveau minimum d’exploitation pour l’admissibilité à la déduction accordée aux petites entreprises. L’adoption de pareil critère reviendrait à instaurer des critères différents d’ « emploi à plein temps » d’un secteur d’activité à l’autre et d’une région à l’autre. L’article 125 s’appliquerait alors de façon variable et subjective, en violation du principe posant que les contribuables se trouvant dans les mêmes circonstances doivent être imposés de la même façon.
+14 Je partage la conclusion tirée par le juge Muldoon dans la décision Hughes and Co., précitée, en page 6517, que le concept d’emploi « à plein temps » dans la définition d’ « entreprise de placement déterminée » s’emploie par opposition à emploi « à temps partiel ». Cette distinction se rapporte à la considération générale que le législateur avait à l’esprit lorsqu’il posait pour condition un minimum de cinq employés à plein temps tout au long de l’année. Cette condition n’est remplie que si l’emploi est à plein temps, par opposition à l’emploi à temps partiel.
+15 Les employés de Town Properties travaillaient certes cinq jours par semaine et, à ce titre, avaient un emploi régulier, mais ils ne travaillaient pas le nombre normal d’heures par jour, semaine ou mois. En fait, leur travail de quatre heures par jour leur permettait d’occuper de façon relativement facile plus d’un emploi.
+16 L’avocat des appelants soutient qu’il est difficile de fixer un nombre précis pour les heures normales de travail de chaque jour. À son avis, une fourchette d’heures identifie mieux le nombre d’heures qui correspondent à ce concept. Il se peut qu’une fourchette étroite soit appropriée. Cependant, il n’est pas nécessaire d’élaborer sur ce point puisque, de toute façon, quatre heures de travail par jour se situe en-deça du nombre normal d’heures de travail quotidiennes.
+[Non souligné dans l’original]
+[32] Après avoir analysé la jurisprudence applicable et particulièrement la jurisprudence Baker, supra, le juge Paris dans la décision Huntly, supra, a proposé d’appliquer le critère suivant afin de déterminer si l’emploi en cause est à plein temps et notre Cour abonde dans ce sens :
+[TRADUCTION]
+67 Suivant la jurisprudence Baker de la Cour d'appel fédérale, le critère servant à déterminer si l'employé travaille à plein temps consiste notamment à rechercher si les employés ont travaillé pendant les heures de travail normales chaque jour, chaque semaine et chaque mois.
+[33] En ce qui concerne l’affaire Baker, supra, la Cour d’appel fédérale ne se prononce pas sur le nombre d’heures travaillées requis pour que l’emploi constitue un emploi à plein temps. Cependant, la Cour est d’avis que l’on peut tirer cinq enseignements de cet arrêt (para 9 à 16) :
+– Un employé à plein temps travaille un nombre normal d’heures par jour, semaine et mois;
+– Un emploi nécessitant 20 heures de travail par semaine ne constitue pas un emploi à plein temps;
+– Un emploi à plein temps se définit par opposition à un emploi à temps partiel;
+– Un employé qui travaille à temps partiel peut occuper de manière relativement facile plus d’un emploi;
+– Le nombre normal d’heures travaillées par jour, semaine et mois ne doit pas être examiné en fonction de la norme dans un secteur d’activité quelconque ou du lieu d’exercice de l’activité.
+[34] En outre, ainsi que la Loi le précise à l’alinéa a) de la définition d’« entreprise de placement déterminée », le critère de l’emploi d’au moins cinq employés à plein temps doit être respecté tout au long de l’année d’imposition de la société qui réclame la DPE à l’égard du revenu tiré d’une entreprise dont le but principal est de générer un revenu de biens.
+ii) Application des principes jurisprudentiels :
+[35] Selon l’appelante, puisque les mots « plein temps » sont utilisés dans le cadre du crédit d’impôt pour frais de scolarité (al. 118.5(1)b)) et du crédit d’impôt pour frais médicaux (al. 118.2(2)b)), ils appellent la même interprétation dans le cadre de la DPE.
+[36] Dans un premier temps, l’appelante cite la décision Robinson c La Reine, 2006 CCI 664 (para 4 et 8), laquelle porte sur le crédit pour frais de scolarité et sur le crédit pour frais d’études. Dans cette décision, la Cour a conclu que l’appelante était inscrite comme étudiante à plein temps à un établissement d’enseignement même s’il ressortait des faits qu’il n’y avait pas de constance dans les périodes consacrées aux études. Selon l’appelante, une analogie peut être constatée entre le milieu étudiant et le milieu du travail et elle ajoute :
+. . . il appert que la constance dans les heures consacrées aux études n’est pas un critère permettant de déterminer si une personne est considérée poursuivre des études à temps plein. Ainsi, la fluctuation des heures au fil des différents mois de l’année ne peut pas être considéré [sic] comme un facteur empêchant le respect de la notion de temps plein. . . .
+[37] De surcroît, l’appelante cite la position de l’ARC exposée dans le folio Soins de santé et soins médicaux S1-F1-C1 « Crédit d’impôt pour frais médicaux » (21 juin 2016), au no 1.32 et 1.33 :
+1.32 . . . Lorsque l’expression préposé à plein temps est utilisée, elle n’a pas pour objet de désigner un seul préposé s’occupant du patient de façon continue. Plusieurs préposés aux soins peuvent être employés au cours d’une période donnée, dans la mesure où il n’y a qu’un seul préposé aux soins à un moment donné.
+[38] Ainsi, selon l’appelante, aucun facteur fixe ne doit être utilisé pour déterminer ce qui constitue un emploi à plein temps. Selon l’appelante, les faits particuliers applicables à l’entreprise exploitée par la Société doivent être pris en compte et elle conclut ainsi : « Dans le cas sous étude, l’entreprise n’a pas des besoins à combler pour une période standard de 8 heures par jour. En effet, il y a une variation des horaires en fonction des besoins de l’entreprise et les employés sont appelés à combler les heures établies par l’employeur et requis par les opérations de ce type d’entreprise. »
+[39] De l’avis de la Cour, les arguments de l’appelante ne peuvent être retenus et ce, pour plusieurs raisons. Tout d’abord, l’analogie tirée par l’appelante des crédits mentionnés ci-dessus n’est pas pertinente, car les objectifs de ces dispositions ne sont pas les mêmes. Également, retenir l’interprétation de l’appelante amènerait cette Cour à rejeter la doctrine construite par la Cour d’appel fédérale de même que par notre Cour, exposée dans la section précédente. À l’occasion de l’affaire Baker, supra, la Cour d’appel fédérale a clairement rejeté la thèse voulant que le seuil d’au moins cinq employés à plein temps soit d’application variable, subjective ou fonction du secteur d’activités ou du lieu d’exercice des activités.
+[40] De plus, la formulation des dispositions législatives est différente. L’alinéa 118.5(1)b) prévoit que, « si, au cours de l’année, le particulier fréquente comme étudiant à plein temps une université », il a droit à un crédit (si les autres conditions sont remplies). En remplacement des mots soulignés ci-dessus, la version anglaise utilise l’expression « during the year ». L’alinéa a) de la définition d’« entreprise de placement déterminée » se lit ainsi : « la société emploie dans l’entreprise plus de cinq employés à plein temps tout au long de l’année ». La version anglaise se lit ainsi : « the corporation employs in the business throughout the year more than 5 full-time employees ». La Loi est claire : le nombre minimal d’employés doit être maintenu tout au long de l’année et non pas seulement au cours de l’année, contrairement en ce qui concerne les crédits d’impôt signalés par l’appelante.
+[41] Nul doute que l’on doit faire preuve d’une certaine souplesse vu les réalités du monde de l’emploi et des affaires. Cela dit, selon la doctrine professée par la Cour d’appel fédérale par la jurisprudence Baker, supra, pour qu’il y ait emploi à plein temps, l’intéressé doit travailler un nombre normal d’heures par jour, semaine et mois. De plus, ne sont pas pertinents la situation particulière de l’entreprise, le type d’entreprise en cause ou le lieu d’exercice de ses activités (Baker, supra para 13). De même, l’argument de l’appelante portant qu’il serait injuste de priver la Société de la DPE compte tenu du choix qu’elle a fait d’offrir des emplois à un nombre plus élevé de personnes, travaillant moins d’heures par semaine, ne saurait être retenu. Le fait que 12 000 heures soient travaillées annuellement dans l’entreprise de la Société, ce qui constitue un nombre d’heures beaucoup plus important que 7 800 heures (soit l’équivalant de cinq employés travaillant 30 heures/semaine pendant 52 semaines) n’est pas pertinent : il ne remplit pas le critère de l’exception de « l’emploi de plus de cinq employés à plein temps tout au long de l’année ». La jurisprudence enseigne clairement que l’emploi de nombreux employés à temps partiel ne répond pas à l’obligation d’employer cinq employés à plein temps. Le législateur a prévu une exception particulière à la définition d’entreprise de placement déterminée et cette exception doit être interprétée selon la jurisprudence exposée ci-dessus.
+[42] En procédant à l’examen du Tableau 2013 et du Tableau 2014 en fonction de la jurisprudence, la Cour conclut que, pour les Années en litige, la Société n’a pas employé dans son entreprise plus de cinq employés à plein temps tout au long de ces années et ainsi, l’entreprise exploitée par la Société est une entreprise de placement déterminée. La Société ne peut donc bénéficier de la DPE à l’égard du revenu tiré de son entreprise pour les Années en litige.
+Tableau 2013 – Année d’imposition 2013
+[43] Pour l’année d’imposition 2013, la Cour est d’avis que pendant les mois de septembre, octobre, novembre et décembre 2012, la Société n’a employé dans son entreprise que quatre employés à plein temps, soit les employés Côté C., Sauvé R., Roy N. et monsieur Bienvenue. Ces personnes ont travaillé généralement plus de 29 à 30 heures par semaine, soit plus de 128 heures par mois.
+[44] Plus spécifiquement, au cours du mois de septembre 2012, les autres employés qui ont travaillé pour l’entreprise ne peuvent clairement être considérés comme employés à plein temps, puisqu’ils ont travaillé en moyenne entre 16 heures et 25 heures par semaine, soit 109 heures (Bergeron D.), 97 heures (Boileau L.), 86 heures (Laforest T.), 68 heures (Lapointe D.) et 80 heures (Williston H.).
+[45] Au cours du mois d’octobre 2012, les autres employés qui ont travaillé pour l’entreprise ne peuvent clairement être considérés comme employés à plein temps, puisqu’ils ont travaillé en moyenne entre 19 heures et 23,5 heures par semaine, soit 81 heures (Bergeron D.), 101 heures (Boileau L.), 82 heures (Laforest T.), et 100 heures (Williston H.).
+[46] Au cours du mois de novembre 2012, les autres employés qui ont travaillé pour l’entreprise ne peuvent clairement être considérés comme employés à plein temps, puisqu’ils ont travaillé en moyenne entre 13,5 heures et 20 heures par semaine, soit 86 heures (Boileau L.), 58 heures (Laforest T.), et 73 heures (Williston H.). Quant à l’employé Bergeron D., il n’a travaillé que 24 heures au cours du mois.
+[47] Au cours du mois de décembre 2012, les autres employés qui ont travaillé pour l’entreprise ne peuvent clairement être considérés comme employés à plein temps, puisqu’ils ont travaillé en moyenne entre 13,5 heures et 21 heures par semaine, soit 90 heures (Boileau L.), 58 heures (Laforest T.), 64 heures (Lafrance G.) et 80 heures (Williston H.) au cours du mois.
+[48] La conclusion de notre Cour quant aux employés qui ne se qualifient pas d’employés à plein temps est également appuyée par l’examen du nombre d’heures travaillées par ces personnes tout au long de l’année d’imposition 2013. Ainsi, l’employé Williston H. a travaillé pendant toute l’année; toutefois, pendant 8 mois, il a travaillé 80 heures ou moins par mois – soit 18,6 heures ou moins par semaine. L’employé Laforest T., bien qu’ayant travaillé toute l’année, a travaillé 86 heures et moins par mois pendant 8 mois – soit 20 heures et moins par semaine. En ce qui concerne l’employé Boileau L., bien qu’ayant travaillé toute l’année, il y a six mois de l’année au cours desquels le nombre d’heures travaillées est de 101 heures et moins (soit septembre 2012 pour 97 heures, octobre 2012 pour 101 heures, novembre 2012 pour 86 heures, décembre 2012 pour 90 heures, février 2013 pour 83 heures et mars 2013 pour 48 heures). La Cour est d’avis que cet employé ne peut être considéré comme employé à plein temps compte tenu du nombre d’heures travaillées au cours de ces six mois de l’année. À cet égard, la Cour note que nul élément de preuve n’a été produit à l’audience quant aux raisons expliquant ces heures.
+[49] Ayant conclu qu’au cours des mois de septembre, octobre, novembre et décembre 2012, la Société n’employait que quatre employés à plein temps, la Société ne remplit donc pas les conditions d’avoir employé dans son entreprise plus de cinq employés à plein temps tout au long de l’année d’imposition 2013. La Société ne peut donc réclamer la DPE à l’égard de son revenu pour l’année d’imposition 2013, puisque l’entreprise exploitée par la Société est une entreprise de placement déterminée.
+[50] Compte tenu de cette conclusion, il n’est pas nécessaire pour notre Cour de répondre à la question de savoir si monsieur Bienvenue était employé à plein temps par la Société pour les mois de janvier à avril 2013, au motif qu’il n’a pas reçu de salaires mais plutôt des dividendes au cours de ces mois.
+Tableau 2014 – Année d’imposition 2014
+[51] Pour l’année d’imposition 2014, la Cour est d’avis que pendant les mois de janvier, février, mars et avril 2014, la Société n’a employé dans son entreprise que trois ou quatre employés à plein temps, soit les employés Côté C. et Sauvé R., de même que monsieur Bienvenue. Ces personnes ont travaillé généralement plus de 29 à 30 heures par semaine, soit plus de 125 à 130 heures par mois. Le quatrième employé à plein temps serait l’employé Boileau L., mais seulement pour le mois de janvier 2014 (128 heures, soit approximativement 29,8 heures par semaine) et possiblement pour le mois d’avril 2014 (122 heures, soit approximativement 28,4 heures par semaine), bien que la Cour n’ait pas à se prononcer à cet égard vu que le critère d’au moins cinq employés à plein temps n’est clairement pas rempli pour ces quatre mois.
+[52] Plus spécifiquement, au cours du mois de janvier 2014, en plus des employés Boileau L, Côté C., Sauvé R. et monsieur Bienvenue, considérés comme employés à plein temps, les autres employés qui ont travaillé pour l’entreprise ne peuvent clairement être considérés comme employés à plein temps, puisqu’ils ont travaillé en moyenne entre 12 heures et 20 heures par semaine, soit 67 heures (Laforest T.), 80 heures (Roy N.), 86 heures (Williston H.) et 53 heures (Wilson N.) au cours du mois. Ainsi, la Société n’a employé dans son entreprise que quatre employés à plein temps au cours du mois de janvier 2014.
+[53] Au cours du mois de février 2014, en plus des employés Côté C., Sauvé R., et monsieur Bienvenue, considérés comme employés à plein temps, les autres employés qui ont travaillé pour l’entreprise ne peuvent clairement être considérés comme employés à plein temps puisqu’ils ont travaillé en moyenne entre 14 heures et 22 heures par semaine, soit 96 heures (Laforest T.), 90 heures (Williston H.) et 60 heures (Wilson N.). En ce qui concerne l’employé Boileau L., aucune heure de travail n’a été effectuée au cours du mois de février 2014. Toutefois, même si l’on considérait le mois de février 2014 à titre de mois de vacances et que cet employé soit considéré comme employé à plein temps (bien qu’aucune preuve n’ait été soumise à l’audience à cet égard), il n’en demeure pas moins que la Société n’aurait employé dans son entreprise que quatre employés à plein temps au cours du mois de février 2014.
+[54] Au cours du mois de mars 2014, en plus des employés Côté C., Sauvé R., et monsieur Bienvenue, considérés comme employés à plein temps, les autres employés qui ont travaillé pour l’entreprise ne peuvent clairement être considérés comme employés à plein temps puisqu’ils ont travaillé en moyenne entre 14 heures et 23 heures par semaine, soit 67 heures (Laforest T.), 99 heures (Williston H.) et 60 heures (Wilson N.). En ce qui concerne l’employé Boileau L. qui a travaillé 94 heures au cours du mois, en appliquant le même raisonnement que pour le mois de février 2014 et en considérant que cet employé est un employé à plein temps, il n’en demeure pas moins que la Société n’aurait employé dans son entreprise que quatre employés à plein temps au cours du mois de mars 2014.
+[55] Au cours du mois d’avril 2014, en plus des employés Boileau L, Côté C., Sauvé R. et monsieur Bienvenue, considérés comme employés à plein temps, les autres employés qui ont travaillé pour l’entreprise ne peuvent clairement être considérés comme employés à plein temps, puisqu’ils ont travaillé en moyenne entre 10,5 heures et 20 heures par semaine, soit 45 heures (Laforest T.), 81 heures (Williston H.), 85 heures (Wilson N.) et 54 heures (Laroque M.) au cours du mois. Ainsi, la Société n’a employé dans son entreprise que quatre employés à plein temps au cours du mois d’avril 2014.
+[56] La conclusion de notre Cour quant aux employés qui ne se qualifient pas d’employés à plein temps est également appuyée par l’examen du nombre d’heures travaillées par ces personnes tout au long de l’année d’imposition 2014. Ainsi, l’employé Laroque M. n’a travaillé que 54 heures au cours de l’année, et ces 54 heures ont été effectuée au cours du mois d’avril 2014. L’employé Wilson N. n’a travaillé qu’une partie de l’année soit des mois de septembre 2013 au mois d’avril 2014; il a travaillé 90 heures et moins par mois, soit 20 heures et moins par semaine. L’employé Williston H. a travaillé pendant toute l’année; toutefois, pendant 8 mois, il a travaillé 90 heures ou moins par mois – soit 20 heures ou moins par semaine. L’employé Laforest T., bien qu’ayant travaillé toute l’année, a travaillé 83 heures et moins par mois pendant 7 mois – soit moins de 20 heures par semaine. L’employé Roy N., bien qu’étant considéré comme employé à plein temps au cours des mois de mai 2013 à décembre 2013, ne peut être considéré comme employé à plein temps pour les mois de janvier 2014 n’ayant travaillé que 80 heures soit 18,4 heures par semaine et n’ayant pas travaillé au cours des mois de février à avril 2014. Nul élément de preuve n’a été produit à l’audience quant aux raisons expliquant ces heures.
+[57] Ayant conclu qu’au cours des mois de janvier, février, mars et avril 2014, la Société n’employait que trois ou quatre employés à plein temps, la Société ne remplit donc pas les conditions d’avoir employé dans son entreprise plus de cinq employés à plein temps tout au long de l’année d’imposition 2014. La Société ne peut donc réclamer la DPE à l’égard de son revenu pour l’année d’imposition 2014, puisque l’entreprise exploitée par la Société est une entreprise de placement déterminée.
+VII. CONCLUSION
+[58] Pour ces motifs, pour les années d’imposition se terminant les 30 avril 2013 et 30 avril 2014, l’appel est rejeté, avec dépens en faveur de l’intimée.
+[59] L’appel interjeté de la nouvelle cotisation établie en vertu de la Loi pour l’année d’imposition se terminant le 30 avril 2012 est accueilli, sans frais, et l’affaire est déférée à la ministre du Revenu national pour nouvel examen et nouvelle cotisation selon les modalités du consentement accordé par l’intimée au début de l’audience.
+Signé à Ottawa, Canada, le 30e jour de mai 2018.
+« Dominique Lafleur »
+La juge Lafleur
+RÉFÉRENCE :
+2018 CCI 106
+NO DE DOSSIER DE LA COUR :
+2016-1692(IT)G
+INTITULÉ :
+MINI ENTREPÔT LONGUEUIL INC. ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Le 26 mars 2018
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge Dominique Lafleur
+DATE DU JUGEMENT :
+Le 30 mai 2018
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Jacques Trudeau
+Avocat de l’intimée :
+Me Julien Dubé-Senécal
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Jacques Trudeau
+Cabinet :
+Jacques Trudeau Avocat Inc.
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureur général du Canada
+Ottawa, Canada

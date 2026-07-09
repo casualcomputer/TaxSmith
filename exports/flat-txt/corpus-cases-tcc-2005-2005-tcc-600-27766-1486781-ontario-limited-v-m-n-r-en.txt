@@ -1,0 +1,162 @@
+Title: 1486781 Ontario Limited v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27766/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-600-27766-1486781-ontario-limited-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2005-09-08
+
+# 1486781 Ontario Limited v. M.N.R.
+
+- Citation: 2005 TCC 600
+- Decision date: 2005-09-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 319, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+1486781 Ontario Limited v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-09-08
+Neutral citation
+2005 TCC 600
+File numbers
+2004-785(EI), 2004-786(CPP)
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Canada Pension Plan
+Employment Insurance Act
+Decision Content
+Docket: 2004-785(EI)
+2004-786(CPP)
+BETWEEN:
+1486781 ONTARIO LIMITED c.o.b. BRANTFORD CHRISTIAN RADIO,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+MICHAEL DEAN HAJAS,
+Intervenor.
+____________________________________________________________________
+Appeals heard on July 7, 2005 at Kitchener, Ontario, by
+The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+Ross Pope
+Counsel for the Respondent:
+Marie-Eve Aubry
+For the Intervenor:
+The Intervenor himself
+____________________________________________________________________
+JUDGMENT
+The appeals pursuant to subsection 103(1) of the Employment Insurance Act and section 28 of the Canada Pension Plan are allowed and the decision of the Minister of National Revenue on the appeal made to him under section 92 of the Act and the determination of the Minister on the application made to him under section 27.1 of the Plan are varied on the basis that Michael Dean Hajas was engaged in insurable employment and pensionable employment with the Appellant for the period November 1, 2001 to June 30, 2002, within the meaning of paragraphs 5(1)(a) of the Act and 6(1)(a) of the Plan.
+Signed at Ottawa, Canada, this 8th day of September, 2005.
+"Campbell J. Miller"
+Miller J.
+Citation: 2005TCC600
+Date: 2005098
+Docket: 2004-785(EI)
+2004-786(CPP)
+BETWEEN:
+1486781 ONTARIO LIMITED c.o.b. BRANTFORD CHRISTIAN RADIO,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+MICHAEL DEAN HAJAS,
+Intervenor.
+REASONS FOR JUDGMENT
+Miller J.
+[1] 1486781 Ontario Limited, carrying on business as Brantford Christian Radio, appeals the ruling of the Minister of National Revenue (the Minister) that Michael Dean Hajas was engaged in insurable and pensionable employment pursuant to the Employment Insurance Act and the Canada Pension Plan for the period November 1, 2001 to December 20, 2002. Mr. Hajas intervened in support of the Respondent's position that he was an employee. The Appellant's position is that Mr. Hajas was an independent contractor.
+Facts
+[2] Mr. Anthony Schleifer testified on behalf of the Appellant. Mr. Schleifer earned his living as a real estate appraiser; he was also a minister of the Tabernacle Church. In October 2001 Mr. Schleifer, as an officer of the Appellant, had the Appellant successfully apply for a licence to operate a Christian radio station. Mr. Schleifer acknowledged that he knew nothing about running a radio station. As the station had no income at the outset, he sought volunteers to run the station out of the Sydenham United Church in Brantford.
+[3] Mr. Hajas acknowledged he was one of the volunteers in November and December 2001. He had considerable experience in the recording studio business, though had had a bad experience. In November 2001, he was barely getting by when Mrs. Schleifer offered help. It was evident that the Church became a significant part of Mr. Hajas' life. Mrs. Schleifer introduced Mr. Hajas to Steve Burchell at Sydenham Church. Mr. Burchell, who at times appeared to fulfil the role of station manager, was clearly impressed with Mr. Hajas' background. Mr. Burchell suggested to Mr. Schleifer that Mr. Hajas needed around $2,500 a month to work for the station. Mr. Hajas agreed however to an honorarium of $1,500 a month. As Mr. Hajas indicated, the work was not about the money; he believed in the Lord to get it done or he would never have otherwise agreed to such an amount.
+[4] The Appellant provided a computer and transmitter. Mr. Hajas brought considerable equipment, including mikes, speakers and amplifiers to the radio station. Mr. Schleifer estimated this equipment had a replacement cost of $40,000. Over time, Mr. Hajas felt more equipment was needed; he sold a digital equalizer to get sufficient money to buy some extra equipment such as a mixer and headphones.
+[5] Mr. Hajas would record, edit and also download programs off the net onto discs, provided by the Appellant. The Appellant had the final say in the subject matter, though had no expertise in the actual sound product, which was clearly Mr. Hajas' domain. Mr. Schleifer at some stage requested time sheets from Mr. Hajas, as he wanted to see if he was getting value for his money.
+[6] In March, the Appellant acquired a building in Brantford and the station was moved from the Church. Mr. Hajas provided studio furniture and added more equipment. Initially the recording studio was in a room over the garage, but due to conflicts with others and with a need for more space, Mr. Hajas moved the recording studio to the basement. He required more space if he was to record bands for example. Mr. Hajas and his father renovated the space, put in an alarm system and created a locked entrance directly to the outside, for which Mr. Hajas retained the keys. Mr. Hajas believed Mr. Schleifer had a set of keys, which Mr. Schleifer denied.
+[7] Mr. Hajas described some of the difficulties in working at the radio station: no policies or procedures, never knew who was in charge, a sense of mistrust, inability to attract advertising due to lack of transmission strength. He did acknowledge he would have to meet on air deadlines. He also attended weekly meetings for those who were involved with the station. He believed he was an employee required to report to Mr. Burchell or the sales manager.
+[8] Once the recording studio was established, Mr. Hajas appeared to start providing work to others: Eagle Worldwide Ministries was identified as one of his customers. Also around this time, Mr. Schleifer and Mr. Hajas agreed to a rental arrangement, whereby Mr. Hajas would pay 20% of his invoices to the station for rent. No one could recall with any certainty if any payment was actually ever made in this regard. Mr. Hajas was encouraged to seek additional work. He relied on the trade name of Monarch Productions to do so.
+[9] In December, Mr. Hajas and the radio station parted company. Mr. Hajas believed he was fired. Mr. Schleifer claims he advised Mr. Hajas his services were no longer required, though he could carry on his sound studio in the basement for others. Mr. Hajas moved out during the night taking all his equipment with him.
+Analysis
+[10] The issue of distinguishing an employee from an independent contractor has received considerable judicial scrutiny, including from the Supreme Court of Canada where Justice Major made the following statement in 671122 Ontario Ltd. v. Sagaz Industries Canada Inc.:[1]
+Although there is no universal test to determine whether a person is an employee or an independent contractor, I agree with MacGuigan J.A. that a persuasive approach to the issue is that taken by Cooke J. in Market Investigations, supra. The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker's activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker's opportunity for profit in the performance of his or her tasks.
+[11] The Federal Court of Appeal has, since Sagaz, introduced the concept of the parties' intention as a significant factor, though following Justice Noël's remarks in Wolf v. Canada,[2] perhaps more as a tie-breaking factor than a factor elevated to the status of the control factor, which was emphasized by Justice Major and which plays a significant role in the civil law jurisdiction of Québec. I intend to review this case considering the factors raised by the Supreme Court of Canada, as well as the factor of the nature of the organization itself. I do not intend to resort to relying upon the parties' intention, because the parties' intentions in this case are contrary to one another: Mr. Hajas intended the relationship to be employment; the Appellant intended this relationship to be that of an independent contractor. Their intentions are of no assistance. It is their actions, their behaviour and the circumstances that must be analyzed to make the distinction. In that regard, I will consider the facts as they pertain to each of the following factors:
+- control;
+- ownership of equipment;
+- hiring of help;
+- chance of profit and risk of loss;
+- freedom to work for others; and
+- nature of organization.
+Control
+[12] The elements of control that suggest an employment arrangement are:
+- the radio station had the final say on the content of the product that hit the air waves;
+- work was to be performed at the radio station premises;
+- the imposition of deadlines;
+- the requirement of time sheets;
+- the requirement that Mr. Hajas attend meetings; and
+- reporting to the station manager.
+The elements of control that suggest an independent contractor arrangement are:
+- Mr. Hajas controlled access to the sound studio after establishing his studio in the basement of the new building;
+- Mr. Hajas was in complete control of how he produced the sound product as Mr. Schleifer acknowledged he had no technical expertise.
+[13] Control of content and imposition of deadlines are the types of control that a radio station might exert over its workers whether they are employees or independent contractors. Especially with a radio station with an agenda to provide Christian broadcasting, it would be most unlikely the sound producer or editor would or should have any say in content.
+[14] Prior to the move to the basement of the new building, Mr. Hajas had to work in close proximity with others on the radio station's premises. Thereafter, however, my impression is that he controlled the operation of the sound studio in the basement.
+[15] On balance, I tip the control factor just slightly towards employment prior to establishing the basement sound studio, but thereafter I find Mr. Hajas had control more akin to that of an independent contractor.
+Ownership of equipment
+[16] Mr. Schleifer acknowledged that the radio station had very little in the way of technical equipment for the purposes of sound recording and production. It did provide however, the premises, as well as a computer and some of the sound equipment. Mr. Hajas provided the bulk of the sound production equipment; equipment with a replacement value of $40,000.
+[17] Upon moving into the basement he added further equipment, bought studio furniture, renovated the space with outdoor access and added an alarm system.
+[18] I find that the ownership of equipment certainly points to an independent contractor arrangement, once that Mr. Hajas was operating in the basement sound studio. Even prior to that this factor slightly favours the independent contractor position though is not determinative.
+Hiring of Help
+[19] Mr. Schleifer believed Mr. Hajas could hire help, though Mr. Hajas did not think he could. Mr. Hajas did occasionally have a volunteer assist him. This factor is not conclusive.
+Chance of Profit/Risk of Loss
+[20] Mr. Hajas paid his own expenses. He bought his own equipment. Later in the year he entered an arrangement to pay rent. He did face some risk of loss. On the flip-side, his remuneration from the Appellant was set. Any chance of maximizing profit was not from the arrangement with the radio station. It would have to be sought elsewhere. Notwithstanding Mr. Hajas' great faith, I believe he saw the light in this regard and moved towards the operation of an independent sound studio. The risk of loss in these circumstances points to an independent contractor, while the lack of chance of profit with the station suggests employment. Again, I find there was greater risk after the establishment of the basement sound studio.
+Ability to work for others
+[21] I find that Mr. Hajas was always able to work for others under the arrangement he had with the radio station, but it was not until after a few months with the station that he truly appreciated the possibilities of doing so. In this regard, he had the freedom of an independent contractor.
+Nature of the organization
+[22] I raise this as a factor as it does have some influence on determining what sort of arrangement existed. The Appellant is, in effect, a Christian-based radio station, steered by men of faith with no knowledge of how to run a radio station and little resources. They used "volunteers". They have no policies, procedures or frankly, business acumen in the operation of a radio station. They need a sound producer/editor and mercifully someone with excellent experience, his own equipment and a good deal of faith falls into their lap. The perfect package. They get him for a song - $1,500 a month. They do not consider him an employee – they do not make any source deductions. Unlikely they considered at all Mr. Hajas' status other than a devout Christian, with talent and equipment. Under the auspices of such an "organization", is Mr. Hajas to be considered an employee on payroll? The organization was loose, and, not surprisingly, the arrangement with Mr. Hajas was loose. In this light, I have some difficulty slotting Mr. Hajas into any formal contract, be it of service or for services. The nature of the beast suggests to me that he was retained in a flexible contract, one that perhaps could, and did, undergo a transition.
+[23] Before summarizing these findings, I should point out that the Respondent and Mr. Hajas conceded that for the last three months of the period in question, Mr. Hajas was indeed in business on his own account and the radio station was a customer. Mr. Hajas described his relationship with the station as going from a volunteer in November and December 2001 to an employee from January to September, and then to an independent contractor thereafter.
+[24] I have no difficulty agreeing with Mr. Hajas' and the Respondent's view of the last three months of Mr. Hajas' relationship with the radio station. During that period he was an independent contractor. But what about prior to that? As I have indicated, the looseness of the arrangement invites a movement from one form of legal relationship to another. While somewhat unusual, I am inclined to agree with Mr. Hajas that what may have started with the trappings of an employment deal, ultimately shifted to that of an independent contractor. There were sufficient factors in the first few months, that weighed in employment's favour, but the balance shifted to independent contractor when Mr. Hajas established the basement sound studio. The Respondent and Mr. Hajas put that shifting of the balance in October. The evidence was that the station acquired the building in March, and there was a proud opening in June. My understanding of the evidence was that Mr. Hajas established the sound studio and started relying on his own trade name earlier than October, likely closer to the grand opening. I find that Mr. Hajas was an employee for the period from November 2001 to and including June 2002, and was an independent contractor from July 2002 to December 20, 2002.
+[25] I refer the matter back to the Minister for reconsideration and reassessment on that basis.
+Signed at Ottawa, Canada, this 8th day of September, 2005.
+"Campbell J. Miller"
+Miller J.
+CITATION:
+2005TCC600
+COURT FILE NO.:
+2004-785(EI), 2004-786(CPP)
+STYLE OF CAUSE:
+1486781 Ontario Limited c.o.b. Brantford Christian Radio and
+The Minister of National Revenue and Michael Dean Hajas
+PLACE OF HEARING:
+Kitchener, Ontario
+DATE OF HEARING:
+July 7, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT:
+September 8, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Ross Pope
+Counsel for the Respondent:
+Marie-Eve Aubry
+For the Intervenor:
+The Intervenor himself
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Intervenor:
+Name:
+Michael Dean Hajas
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [2001] 2 S.C.R. 983.
+[2] [2002] 4 F.C. 396.

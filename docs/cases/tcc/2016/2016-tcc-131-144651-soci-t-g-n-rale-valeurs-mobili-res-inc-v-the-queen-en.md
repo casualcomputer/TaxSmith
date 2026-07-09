@@ -1,0 +1,321 @@
+---
+title: "Société générale valeurs mobilières inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/144651/index.do"
+last_modified: "2016-05-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 TCC 131"
+citation2: ""
+neutral_citation: "2016 TCC 131"
+decision_date: "2016-05-26"
+language: "en"
+item_id: "144651"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3088
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:50:22.612000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e065c8f6a684bdaa544fd4f383cd07b845fa98cbae91ae806eb0c9c13cc4f5f8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Société générale valeurs mobilières inc. v. The Queen
+
+- Citation: 2016 TCC 131
+- Decision date: 2016-05-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3088, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Société générale valeurs mobilières inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-05-26
+Neutral citation
+2016 TCC 131
+File numbers
+2013-4035(IT)G
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-4035(IT)G
+BETWEEN:
+SOCIÉTÉ GÉNÉRALE VALEURS MOBILIÈRES INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion heard on July 2nd, 2016,
+at Toronto, Ontario.
+Before: The Honourable Justice B. Paris
+Appearances:
+Counsel for the Appellant:
+Al Meghji
+Matias Milet
+Diana Yeung
+Counsel for the Respondent:
+Daniel Bourgeois
+Martin Beaudry
+ORDER
+Upon the respondent bringing a motion for determination, before hearing, of the following questions of law pursuant to subsection 58(1) of the Tax Court of Canada Rules (General Procedure):
+Where a Canadian resident taxpayer earns bond interest income arising in Brazil that may be taxed by Brazil under Article XI of Canada’s tax treaty with Brazil, and earns taxable income from other sources, is the amount of Canadian income tax that is referred to in Article XXII(2) of the treaty as being “appropriate to the income which may be taxed in Brazil”:
+a. equal to the Canadian income tax on the amount of such interest income that is or is deemed to be taxed in Brazil, which is a gross amount; and
+b. if the answer to a. is yes, what is the proper test for determining the Canadian income tax payable on the gross amount of income derived from Brazil;
+c. if the answer to a. is no, what is the proper test for determining which amounts of the Canadian resident taxpayer should be included and/or deducted from the gross income arising from sources in Brazil?
+And upon having heard the submissions of counsel and having read the materials filed;
+The motion is allowed and the above questions are answered as follows:
+Question 1: No. The amount of Canadian income tax referred to in the second sentence of Article XXII(2) of the Treaty as being “appropriate to the income which may be taxed in Brazil” is the actual Canadian income tax attributable the income taxed in Brazil, which is computed on the net income arising from Brazil.
+Question 2: Not applicable
+Question 3: The proper test for determining which amounts of the Canadian resident taxpayer should be included or deducted from the gross interest arising from sources in Brazil is that found in subsection 4(1) of the Income Tax Act.
+Costs on this motion are left to the discretion of the trial judge.
+Signed at Ottawa, Canada, this 26th day of May 2016.
+“B.Paris”
+Paris J.
+Citation: 2016 TCC 131
+Date: 20160526
+Docket: 2013-4035(IT)G
+BETWEEN:
+SOCIÉTÉ GÉNÉRALE VALEURS MOBILIÈRES INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Paris J.
+[1] The respondent has applied under subsection 58(1) of the Tax Court of Canada Rules (General Procedure) for a determination of the questions of law set out in paragraph 4, below. The questions were found to be appropriate for determination following a previous hearing.
+[2] The questions require the interpretation of Article XXII(2) of the Convention between the Government of Canada and the Government of the Federative Republic of Brazil for the Avoidance of Double Taxation with Respect to Taxes on Income (1984) (the “Treaty”)[1].
+[3] Article XXII(2) provides that Canada shall allow a foreign tax credit for the income tax paid or deemed paid in Brazil on income which may be taxed in Brazil, and sets out that the amount of the tax credit cannot exceed “that part of the income tax… which is appropriate to the income which may be taxed in Brazil.” At issue is the meaning to be attributed to this limitation.
+[4] Article XXII(2) reads in its entirety, as follows:
+(2) Unless the provisions of paragraph 4 or 5 apply, where a resident of Canada derives income which, in accordance with the provisions of this Convention, may be taxed in Brazil, Canada shall allow as a deduction from the tax on the income of that person, an amount equal to the income tax paid in Brazil, including business-income tax and non-business-income-tax. The deduction shall not, however, exceed that part of the income tax as computed before the deduction is given, which is appropriate to the income which may be taxed in Brazil.
+[5] The questions to be determined are as follows:
+Where a Canadian resident taxpayer earns bond interest income arising in Brazil that may be taxed by Brazil under Article XI of Canada’s tax treaty with Brazil, and earns taxable income from other sources, is the amount of Canadian income tax that is referred to in Article XXII(2) of the treaty as being “appropriate to the income which may be taxed in Brazil”:
+a. equal to the Canadian income tax on the amount of such interest income that is or is deemed to be taxed in Brazil, which is a gross amount; and
+b. if the answer to (a) is yes, what is the proper test for determining the Canadian income tax payable on the gross amount of income derived from Brazil;
+c. if the answer to (a) is no, what is the proper test for determining which amounts of the Canadian resident taxpayer should be included and/or deducted from the gross income arising from sources in Brazil?
+Facts [6] The facts agreed to by the parties for the purposes of this section 58 determination are as follows:
+1. A Canadian resident taxpayer earns bond interest income which arises in Brazil.
+2. That bond interest may be taxed by Brazil under Article XI of the Treaty.
+3. The taxpayer earns income from other sources that is taxable in Canada.
+4. The taxpayer is deemed by Article XXII(3) of the Treaty to have paid Brazilian tax equal to 20% of the gross bond interest arising in Brazil.
+Position of the Parties [7] The respondent maintains that the maximum foreign tax credit available to the taxpayer under Article XXII(2) of the Treaty is equal to the actual Canadian tax payable on the bond income arising in Brazil, which must take into account applicable expenses incurred by the taxpayer to earn the income. The respondent says that the deduction of the applicable expenses is implicit in the determination of Canadian income tax.
+[8] The appellant submits that the maximum foreign tax credit that Canada is required to allow under Article XXII(2) of the Treaty is equal to the Canadian tax rate multiplied by the gross amount of the Brazilian bond interest, without taking into account the expenses incurred to earn the interest.
+Interpretation of Tax Treaties [9] In Crown Forest Industries Ltd.v. Canada, [2] Iacobucci, J. speaking for the Court said that the paramount goal in interpreting a treaty is:
+. . . to find the meaning of the words in question. This process involves looking to the language used and the intentions of the parties.
+[10] This pronouncement echoes the general rule for the interpretation of a treaty, found in Article 31(1) of the Vienna Convention on the Law of Treaties[3] (the “Vienna Convention”), to which Canada is a signatory. That provision reads:
+1. A treaty shall be interpreted in good faith in accordance with the ordinary meaning to be given to the terms of the treaty in their context and in the light of its object and purpose.
+[11] Further guidance on the interpretation of tax treaties concluded by Canada is found in the Income Tax Convention Interpretation Act [4] (“ITCIA”). In particular, section 3 sets out that an undefined term in a tax treaty has the meaning it has for the purposes of the Income Tax Act [5] except to the extent otherwise required by the context. That provision reads:
+3. Notwithstanding the provisions of a convention or the Act giving the convention the force of law in Canada, it is hereby declared that the law of Canada is that, to the extent that a term in the convention is
+(a) not defined in the convention,
+(b) not fully defined in the convention, or
+(c) to be defined by reference to the laws of Canada,
+that term has, except to the extent that the context otherwise requires, the meaning it has for the purposes of the Income Tax Act, as amended from time to time, and not the meaning it had for the purposes of the Income Tax Act on the date the convention was entered into or given the force of law in Canada if, after that date, its meaning for the purposes of the Income Tax Act has changed.
+[12] Similar to section 3 of the ITCIA, Article III(2) of the Treaty provides that:
+2. As regards the application of this Convention by a Contracting State any term not otherwise defined shall, unless the context otherwise requires, have the meaning which it has under the laws of that Contracting State relating to the taxes which are the subject to this Convention.
+Analysis
+[13] Following the direction of the Supreme Court in Crown Forest and Article 31(1) of the Vienna Convention, I will proceed to consider the plain language of Article XXII(2) of the Treaty, its context and the intention of the drafters, in order to decide on the meaning of the phrase “that part of the income tax…which is appropriate to the income which may be taxed in Brazil”.
+Text
+[14] The text of the first sentence of Article XXII(2) is clear and its meaning is not in dispute between the parties. It provides for a Canadian foreign tax credit for income tax paid in Brazil. The second sentence of Article XXII(2) imposes an upper limit on the amount of the credit. It reads:
+The deduction shall not, however, exceed that part of the income tax as computed before the deduction is given, which is appropriate to the income which may be taxed in Brazil.
+[15] The parties agree that the words "income tax as computed before the deduction is given" in the second sentence of Article XXII(2) means the taxpayer’s Canadian income tax that is computed before the foreign tax credit is taken into account (the "Pre-credit Tax").
+[16] Next, it is clear that the phrase "income which may be taxed in Brazil" simply refers to the income which Brazil is entitled under the Treaty to tax. In the hypothetical fact situation in this case, Brazil may tax the gross bond interest income.[6]
+[17] The parties disagree, however, on the meaning of the phrase “that part of the income tax…which is appropriate to" which sets the limit of the foreign tax credit that Canada will allow under Article XXII(2).
+[18] The appellant maintains that the word "appropriate” in that phrase ordinarily means "specifically fitted or suitable, proper [to or for]”[7] or "especially suitable or compatible: fitting"[8].
+[19] The appellant maintains that by using these definitions, the plain meaning of the upper limit on the tax credit in Article XXII(2) is equal to the Pre-credit Tax that is especially fitted or suitable to the gross interest income which may be taxed in Brazil.
+[20] The appellant goes on to say:
+In the case of a Canadian resident taxpayer whose only Brazil source income is interest income (that is not earned in connection with a permanent establishment of the taxpayer in Brazil) and who has other Canadian source business income, the Canadian source business income is not part of the “income which may be taxed in Brazil”. It goes against the logic of this scheme to say that Brazil may not tax such income earned in Canada but, in applying the [Limitation in Article XXII2], portions of the other income from, or deductions incurred in, carrying on such business in Canada must be taken into account in identifying income which Brazil may tax.
+and that:
+… the amount of Canadian tax that corresponds to the gross interest income arising in Brazil is, based on the ordinary meaning of the terms used in Article XXII(2), the Canadian tax rate multiplied by such Brazilian Bond Interest. [9]
+(Emphasis added)
+[21] The respondent, on the other hand, argues that the word “appropriate” as used in Article XXII(2) contemplates a logical connection between, or apportionment of, the Canadian income tax payable by the taxpayer on the Brazil bond income and the total Canadian income tax paid by the taxpayer on its worldwide income.
+[22] The respondent points to the use of the word “correspondant” in the French version of the Treaty, used to translate “appropriate” in Article XXII(2) which The Petit Robert [10] defines as follows:
+CORRESPONDANT, ANTE,
+I. Adj. qui a un rapport avec qqch; qui y correspond*. V. Relatif. Les éléments correspondants de deux séries, de deux systèmes.
+[23] According to the Le Petit Larousse Illustré (2010)[11], “correspondant” means:
+1. CORRESPONDANT, E adj. Qui correspond à qcch. à qqn : qui est en relation de correspondance.
+[24] The Noronha’s Legal Dictionary (Portuguese-English English-Portuguese)[12] translates “correspondante” simply as the English adjective “correspondent”.
+[25] The respondent maintains that Article XXII(2) requires a logical connection or correlation between “that part of the income tax” and “the income which may be taxed in Brazil.”
+[26] In my view, the ordinary meaning of “appropriate” in this case is closer to the definition suggested by the respondent, and refers to a correspondence or logical connection between the part of the Canadian tax to be allowed as a credit and the Brazilian bond income. This interpretation is also borne out by the definition of “appropriate” found in The New Shorter Oxford English Dictionary[13] which includes the meaning “attached or belonging to”:
+1. Attached or belonging (to) as an attribute, quality, or right; peculiar (to) inherent, characteristic; specially suitable (for, to); proper, fitting.
+[27] It is also important to consider the French and Portuguese versions of Article XXII(2) of the Treaty for the purpose of interpreting a particular phrase found therein. Section 33 of the Vienna Convention, provides that, where a treaty has been authenticated in two or more languages, the text is equally authoritative in each language and the terms of the treaty are presumed to have the same meaning in each authentic text. Section 33 reads:
+1. When a treaty has been authenticated in two or more languages, the text is equally authoritative in each language, unless the treaty provides or the parties agree that, in case of divergence, a particular text shall prevail.
+2. A version of the treaty in a language other than one of those in which the text was authenticated shall be considered an authentic text only if the treaty so provides or the parties so agree.
+3. The terms of the treaty are presumed to have the same meaning in each authentic text.
+4. Except where a particular text prevails in accordance with paragraph 1, when a comparison of the authentic texts discloses a difference of meaning which the application of articles 31 and 32 does not remove, the meaning which best reconciles the texts, having regard to the object and purpose of the treaty, shall be adopted.
+[28] Furthermore, a Court should, as far as possible, attempt to ascertain the intention of the Treaty drafters by determining the common meaning of the versions, since each version is the expression of the same intention[14].
+[29] In this instance, I am satisfied that the English word “appropriate”, the French word “correspondant”, and the Portuguese word “correspondante” share the common meaning of “correlation between two things”.
+[30] In my view, this meaning is more precise than “especially fitted” or “suitable” and is less susceptible to determinations based on subjective considerations of what might be suitable or fitting in a particular situation.
+[31] I therefore agree with the respondent that the use of the word “appropriate” in Article XXII(2) contemplates a correlation between the Canadian income tax and the income from Brazil and that the “part of the income tax” referred to is the amount that corresponds to or is attributable to the Brazilian income.
+[32] Applying the plain meaning of “appropriate” in Article XXII(2), it follows that a determination must be made of the part of the Canadian income tax that relates or is attributable to the income from Brazil.
+[33] The starting point for the determination, as set out in Article XXII(2), is the computation of Canadian income tax payable by the taxpayer before the foreign tax credit is given. The next step requires the identification of what part of that Canadian tax, as computed, relates to or is attributable to the Brazilian income. Textually then, Article XXII(2) contemplates that for the purpose of the tax credit, the amount of income tax relating to the Brazilian income must form part of the Canadian tax otherwise payable by the taxpayer before the tax credit is applied.
+[34] The calculation of Canadian tax that relates to the Brazilian income would be made in accordance with the Income Tax Act. Under the Act, interest income such as the hypothetical bond interest in this case, is taxed on a net basis after deducting expenses incurred to earn that interest. Therefore, a textual interpretation of the phrase “that part of the income tax as computed before the deduction is given which is appropriate to the income which may be taxed in Brazil” leads to the conclusion that the foreign tax credit amount is limited to the actual Canadian tax the taxpayer would otherwise pay on the Brazilian income, and that, according to the Income Tax Act, the amount is calculated on net income.
+[35] The appellant’s contention that maximum credit is determined by simply multiplying the Canadian tax rate by the gross amount of the Brazilian Bond interest fails to take into account that the Canadian tax referred to in Article XXII(2) as “that part of the income tax as computed before the deduction is given” must mean the tax as computed under the Income Tax Act. While Brazil may tax gross interest income, Canadian tax is calculated on net interest income. This flows from the plain meaning of the phrase “income tax”, as it appears in the phrase “the income tax as computed before the deduction is given” in Article XXII(2) of the Treaty” and as it refers to Canadian income tax.
+[36] The appellant’s argument that this interpretation would affect the income which Brazil may tax, somehow requiring Brazil to allow deductions in respect of a taxpayer’s unrelated Canadian business activities, is unfounded. It is only the deduction of expenses in the calculation of Canadian income tax that is affected.
+Contextual Analysis
+[37] The appellant argues that the context of Article XXII(2) does not support a finding that the Canadian income tax that is “appropriate” to the gross interest income arising in Brazil is the actual Canadian tax payable, calculated after deducting expenses incurred to earn that income.
+[38] The appellant contends that the drafters of the Treaty made a deliberate choice to deal with the type of interest in this case as gross income without any deduction for related expenses.
+[39] Article XI(2) of the Treaty allows Brazil to tax “the gross amount of the interest” received by a company at a rate not exceeding 15%, and for the purposes of Article XXII(2), Article XXII(3) which deems Brazilian tax to have been paid at a rate of 20% of “the gross amount” of such interest income. The appellant contrasts this with Article VII(3) of the Treaty, where business profits of a Canadian resident attributable to a permanent establishment in Brazil are expressed to be net of deductible expenses.[15]
+[40] However, in my view, it does not follow from the fact that Brazil is permitted under the Treaty to tax certain interest on a gross basis that the drafters also intended to require that, for the purposes of Article XXII(2), Canadian tax on income arising in Brazil be calculated on the gross interest income as well. In fact, it is difficult to conceive of Canadian income tax being determined in this manner, since such a calculation would be contrary to the rules set out in the Income Tax Act relating to the determination of income. As the respondent points out, Canadian income tax is a function of taxable income, which is derived from the aggregate amount of income from different sources, as provided for in section 3 of the Act, after taking into account all permissible deductions.
+[41] Given that the reference to “income tax” in the phrase “that part of the income tax as computed before the deduction is given” in Article XXII(2) is a reference to Canadian income tax, it would undoubtedly been known to the drafters that Canadian income tax is calculated net of applicable expenses. In order to depart from this basic concept of Canadian tax law, clear language to that effect would have been required.
+[42] The appellant also argues that Canada’s general treaty-making practice is a relevant contextual factor to consider in determining the meaning of the limitation on the foreign tax credit provided by the Treaty. The appellant points out that the Treaty is the only one of Canada’s tax treaties which does not incorporate, by reference, the foreign tax credit rules found in its domestic legislation, which include subsections 4(3), 20(11), 20(12) and section 126 of the Income Tax Act. In all of Canada’s other treaties, the foreign tax credit that Canada is required to allow is made subject to these domestic foreign tax credit provisions.
+[43] The appellant says that, in the absence of a reference to Canada’s domestic legislation, the Treaty requires that the expenses incurred in Canada may not be allocated to foreign source income for the purpose of determining the tax credit on gross foreign income. The appellant says this conclusion is supported by two Supreme Court of Canada decisions, Interprovincial Pipe Line Company v. MNR[16], (“IPL1”) decided in 1959 and Interprovincial Pipe Line Company v. MNR[17], (“IPL2”) decided in 1968.
+[44] In IPL1 and IPL2, the taxpayer (the same in both cases) had borrowed money in Canada, some of which it used to earn interest income from sources in the U.S. The interest was subject to a 15% withholding tax in the U.S. on the gross amount of the income. At issue in both cases was whether the taxpayer was entitled to a foreign tax credit under subsection 41(1) of the Act (as it read then) based on the total U.S. tax paid on the gross interest income, with no offset for the borrowing expenses incurred in Canada to earn that income. Subsection 41(1) allowed a taxpayer resident in Canada to deduct from tax otherwise payable the lesser of (a) the income tax paid to the government of a foreign country, and (b) that proportion of the tax that the taxpayer’s income from sources in that country was of the taxpayer’s income for the year.
+[45] The Minister denied the credits on the basis that the taxpayer had no income from the U.S. within the meaning of subsection 41(1) because the interest it paid on amounts borrowed to earn that income equaled or exceeded the interest income earned.
+[46] In IPL1, the Supreme Court allowed the taxpayer’s appeal on the basis that the word “income” in subsection 41(1) meant “gross receipts” rather than “profit”. The Court held that the deduction given under the Act for interest was attributable to all sources of income and could not be related in part to any particular source. Therefore the Court did not regard the interest paid by the taxpayer as related to the U.S. source income for the purpose of calculating the foreign tax credit and therefore that the taxpayer was not required to take into account the expenses of earning that income.
+[47] In essence the decision turned on the fact that the Income Act as it read at that time did not require a separate computation of income from each source.
+[48] Subsequent to that decision, the Act was amended to provide, in subsections 139(1a) and (1b), that a taxpayer’s income from each source was to be computed on a separate basis and that deductions, to the extent they could reasonably be considered to relate to a particular source, were assumed to have been deducted in computing the income from that source, and that all deductions allowed in computing the income of a taxpayer were “deemed to be applicable either wholly or in part to a particular source or to sources in a particular place”. These rules are now found in section 4 of the Act.
+[49] In IPL2, the taxpayer challenged the effectiveness of those amendments for later tax years. In that case, the Supreme Court held that subsections 139(1a) and (1b) required that a portion of the total borrowing expense of the taxpayer in those years be offset against its U.S. source interest income. This resulted in the taxpayer having no income from the U.S. source for the purpose of subsection 41(1) and the claim for the foreign tax credits was denied.
+[50] The appellant here argues that since there is no express provision that mandates the application of section 4 of the Income Tax Act to the Treaty and no analogous provision in the Treaty, the foreign tax credit must be assumed to be determined without the allocation of expenses to the gross interest income, as was found to be the case in IPL1.
+[51] In my opinion, the IPL1 and IPL2 decisions do not assist the appellant. IPL2 stands for the proposition that a taxpayer’s income from each source is computed under the Act separately, net of any applicable deductions and that the gross income from a source in a particular location must be reduced by any deduction that may reasonably be regarded as applicable to that source. Tax is then computed on this net amount rather than on the gross amount of income. While the Treaty does not explicitly set out that Canadian tax be computed in this manner for the purposes of Article XXII(2), it is implicit in the phrase “income tax as computed before the deduction is given” which appears in Article XXII(2).
+[52] Since Article III(1) of the Treaty defines “tax” to mean “Brazilian tax or Canadian tax, as the context requires”, the reference to “income tax” in Article XXII(2) must be taken to refer to “Canadian income tax”, thereby importing the computational rules for determining income as set out in Part I of the Income Tax Act. The rules include those found in section 4.
+[53] This conclusion is not overridden in the Treaty by the choice to deal with interest such as that in this case as gross income. While the Treaty allows Brazil the right to tax the gross amount of that interest, there is nothing in the Treaty that suggests that Canada is obliged to do likewise.
+[54] Therefore, I find that a contextual analysis of Article XXII(2) also supports the respondent’s position that the limitation on the foreign tax credit in Article XXII(2) is equal to the actual Canadian tax payable on the Brazilian income, net of applicable deductions.
+Purpose
+[55] There is no doubt that the Treaty as a whole was entered into for the purpose stated in its preamble: “for the avoidance of double taxation on income.” The heading to Article XXII – “Methods for the Elimination of Double Taxation” – reiterates this purpose.
+[56] As pointed out by the appellant, Article XXII contains a tax sparing provision in Article XXII(3), which is also relevant in determining the purpose of Article XXII(2).
+[57] Tax sparing provides “for tax credits [by developed countries] for income sourced in developing countries which, by virtue of incentive legislation of the developing country, is not subject to the full rate of source taxation under local law.”[18] The developed country grants a tax credit not only for the tax actually paid but for the tax spared by the developing country.
+[58] The author Deborah Toaze described tax sparing as follows:
+Tax sparing is a mechanism whereby developed countries, such as Canada, recognize and preserve the benefits of tax incentives provided by developing countries to foreign investors. Developing countries often attempt to attract foreign investors with incentives in the form of reduced rates of taxation or, in some cases, the exemption of certain types of income from tax. In order to preserve the resultant investment revenues to the developing country, the country of residence of the investor (that is, the developed country) “spares” the tax that it would normally impose on the low-taxed or untaxed income earned by its resident abroad by granting foreign tax credits equal to, or possibly greater than, the tax that would otherwise have been exigible in the developing country. The theory is that if this “phantom” tax credit were not granted, the developing country incentive would be largely, if not wholly nullified.[19]
+[59] It is clear, then, that the purpose of tax sparing is to provide a form of economic aid to developing countries.
+[60] The tax sparing provision in Article XXII(3) of the Treaty operates by deeming Brazilian tax to always have been paid at the rate of 20% of the gross interest income arising in Brazil, and by Canada agreeing to grant a foreign tax credit determined in part on the basis of the tax deemed to have been paid by the Canadian resident taxpayer, whether or not the Brazilian tax is in fact paid.
+[61] The tax sparing provision in the Treaty is generous by the ordinary standard of Canada’s tax treaties. The rate at which tax is been deemed to be paid, 20%, exceeds the maximum rate of tax that Brazil may charge on interest not connected with a Brazilian permanent establishment that is paid to a Canadian resident company, which is set at 15% under Article XI(2) of the Treaty.
+[62] While the tax sparing provision in Article XXII(3) of the Treaty operates to preserve tax incentives adopted by Brazil, I disagree with the appellant’s contention that Canada and Brazil intended that this provision apply in an “as unrestricted manner as possible, the result of which would be to maximally encourage the lending of funds by Canadian enterprises to Brazil.” It appears to me that the tax sparing provision was intended to avoid neutralizing any tax incentive offered by Brazil on interest income, a result that was achieved by means of Canada’s agreement to forego any Canadian income tax on Brazilian interest income earned by a Canadian resident to which Article XXII(3) applies. It seems unlikely that the tax sparing provision was intended by either Canada or Brazil to operate to shelter not only Brazilian interest income from Canadian tax, but income from other sources unrelated to Brazil as well. This would be the effect of the appellant’s interpretation in cases where the Canadian resident taxpayer incurred expenses related to the interest income arising in Brazil. This goes beyond tax sparing and would amount to an additional independent incentive on Canada’s part to invest in Brazil. The appellant has failed to show that the drafters of the Treaty intended that the foreign tax credit available under Article XXII(2) would operate in this fashion. Again, it would take clear language to create an incentive of the nature suggested by the appellant, and such language is not present in this case.
+OECD Model Convention and Commentaries
+[63] The respondent relies on the 1977 OECD Model Double Taxation Convention on Income and on Capital (the “1977 OECD Model”)[20] and the Commentaries on Article 23B of the 1977 OECD Model to support its position that the purpose of Article XXII(2) of the Treaty was to provide a credit equal to the actual Canadian tax paid rather than what it referred to as a “full” credit for all Brazilian tax paid or deemed paid on the income arising in Brazil.
+[64] As a preliminary point, the appellant argues that it is not appropriate to consider the 1977 OECD Model and Commentaries because, according to Article 32 of the Vienna Convention, recourse to “supplementary means of interpretation” is only permissible in order to confirm the meaning of the terms in question as determined by a textual, contextual and purposive analysis or to establish the meaning where that analysis “leaves the meaning ambiguous or obscure” or “leads to a result which is manifestly absurd or unreasonable”. Second, the appellant says that since Brazil was not a member of the OECD prior to or at the time the Treaty was concluded, it is questionable to what extent Brazil and Canada could have intended the Treaty to be informed by an interpretation of language found in the 1977 OECD Model.
+[65] As pointed out by the respondent, however, the Supreme Court in Crown Forest found that accepted model conventions and official commentaries thereon may be referred to without the need to find an ambiguity in the text of the tax treaty. The Court wrote, at paragraph 44 of that decision:
+44 Clearly, the purpose of the Convention has significant relevance to how its provisions are to be interpreted. I agree with the intervener Government of the United States' submission that, in ascertaining these goals and intentions, a court may refer to extrinsic materials which form part of the legal context (these include accepted model conventions and official commentaries thereon) without the need first to find an ambiguity before turning to such materials.
+[66] The Supreme Court in Crown Forest also went on, at paragraph 55 of that decision, to observe that the 1977 OECD Model “has world-wide recognition as a basic document of reference in the negotiation, application and interpretation of multilateral or bilateral tax conventions” and was “of high persuasive value in terms of defining the parameters” of the tax treaty under consideration in that case.
+[67] Also, although Brazil is not an OECD member, the similarities between the language used in Article XXII(3) of the Treaty and that found in paragraph 23B of the 1977 OECD Model is evidence that the 1977 OECD Model was considered in drafting the Treaty.
+[68] The relevant portions of Article 23 B of the 1977 OECD Model read, in English and French, as follows:
+Article 23B
+CREDIT METHOD
+1. Where a resident of a Contracting State derives income … which, in accordance with the provisions of this Convention, may be taxed in the other Contracting state, the first-mentioned State shall allow:
+a) as a deduction from the tax on the income of that resident, an amount equal to the income tax paid in that other State;
+…
+Such deduction … shall not, however, exceed that part of the income tax …, as computed before the deduction is given, which is attributable, as the case may be, to the income … which may be taxed in that other State.
+…
+MÉTHODE D’IMPUTATION
+1. Lorsqu’un resident d’un État contractant reçoit des revenus … qui, conformément aux dispositions de la présente Convention, sont imposables dans l’autre État contractant, le premier État accorde :
+a) sur l’impôt qu’il perçoit sur les revenus de ce résident, une déduction d’un montant égal à l’impôt sur le revenu payé dans cet autre État ;
+…
+… cette déduction ne peut toutefois excéder la fraction de l’impôt sur le revenu …, calculé avant déduction, correspondant selon le cas aux revenus … imposables dans cet autre État.
+…
+[69] As I have already noted, Article XXII(2) of the Treaty uses language very similar to that found in Article 23B of the 1977 OECD Model. The limitation on the income tax credit in Article 23B, found in paragraph 1(b), uses the phrase “that part of the income tax… which is attributable…to the income…which may be taxed in that other state.”
+[70] I agree with the respondent that “attributable” as used in that phrase is equivalent to “appropriate” which is the word found in Article XXII(2) of the Treaty. The word “attribute” is defined in the Shorter New Oxford Dictionary[21] as “regard as belonging or appropriate to.” The French version of Article 23B of the 1977 OECD Model translates “appropriate” as “correspondant”, the same word that is used in the French version of Article XXII(2) of the Treaty.
+[71] In my view, it is reasonable to assume that both parties were aware of the genesis of that language and were also aware of the Commentaries relating to it. I find, therefore, that it is appropriate to consider the 1977 OECD Model and Commentaries in this case.
+[72] Article 23B of the 1977 OECD Model follows what is referred to in the Commentaries as the “ordinary credit” method of providing relief from double taxation in respect of income derived by a taxpayer residing in one state from the other contracting state. According to paragraph 57 of the Commentaries, under the ordinary credit method, the State of residence grants a deduction from its own tax equal to the tax paid in the other State but the deduction is restricted to the appropriate portion of its own tax. At paragraph 63 of the Commentaries, the limitation on the deduction is stated to be “normally computed as the tax on net income, i.e. on the income from [the State of source] less allowable deductions.” That paragraph, in its entirety reads:
+The maximum deduction is normally computed as the tax on net income, i.e. on the income from state [of source] less allowable deductions (specified or proportional) connected with such income (cf. paragraph 40 above). For such reason, the maximum deduction in many cases may be lower than the tax effectively paid in State [of source]. This may especially be true in the case where, for instance, a resident of State [of residence] deriving interest from State [of source] has borrowed funds from a third person to finance the interest-producing loan. As the interest due on such borrowed money may be offset against the interest derived from State [of source], the amount of net income subject to tax in State R may be very small, or there may even be no net income at all. . . .
+[73] The appellant argues that paragraph 63 of the Commentaries does not purport to prescribe a rule of general application; the use of the words “is normally computed as the tax on net income” suggests there are exceptions. However, no such exceptions are described in the Commentaries and there is no suggestion that the method espoused by the appellant for calculating the limitation – i.e. the Canadian tax rate multiplied by the gross Brazilian interest income – is such an exception.
+[74] On balance, I find then that the respondent’s interpretation of the limitation to the foreign tax credit provided for in Article XXII(2) is supported by the Commentaries.
+Conclusion: First Question
+[75] By a textual, contextual and purposive analysis, it appears to me that the limitation described in Article XXII(2) restricts the amount of the foreign tax credit that Canada is required to give to an amount equal to the actual Canadian income tax, which is calculated on the net interest income derived from Brazil. Therefore the answer to the first question is “no”, and it is not necessary to answer the second question.
+Third Question
+[76] The third question asks what the proper test is for determining which amounts of the Canadian resident taxpayer in the hypothetical fact situation in this case should be included in or deducted from the gross income arising from sources in Brazil to determine the Canadian income tax that is appropriate to the Brazil bond income.
+[77] At the hearing, the appellant made no submissions on the third question and took the position that submissions should be deferred until trial. The appellant relied on a statement by the respondent in its written submissions that the factual issues arising from the appellant’s appeal are best left to trial as implicit acceptance that the determination of the question should be deferred until the hearing of the appeal.
+[78] The respondent submits that it is not open to the appellant to ask that the determination of the third question be deferred because the appellant consented to the determination of all three of the questions and the Court ordered that all three be determined.
+[79] I agree with the respondent. The respondent’s written submissions cannot be interpreted as a request to defer the determination of the third question until trial, since the respondent also states in those submissions that “the questions raised in this application contemplate a simple hypothetical fact scenario which provides the required context for the interpretation of the [Treaty]”. [22]
+[80] Therefore, I will proceed to answer the third question on the basis of the hypothetical fact situation agreed to by the parties.
+[81] Having concluded that the amount of Canadian income tax that is referred to in the limitation in Article XXII(2) is the actual amount of Canadian income tax paid on the income which may be taxed in Brazil and that this would be the tax paid on the net income from Brazil, the Court is asked to determine how that net income is to be calculated.
+[82] The starting point for the determination of the maximum credit available is the Canadian income tax as computed before the credit is given.
+[83] The respondent submits that, since the terms “Canadian tax and Canadian income tax” are not defined in the Treaty, those terms would have the meaning they have for the purposes of the Income Tax Act, except to the extent that the context otherwise requires, as provided for in section 3(2) of the ITCIA.
+[84] As noted earlier in these reasons, the Treaty itself also sets out, in Article III(2) that “any term not otherwise defined shall, unless the context otherwise requires, have the meaning which it has under the laws of that contracting State relating to the taxes which are the subject of this Convention.”
+[85] The appellant, in its submissions relating to the first question to be determined, stated that there was no need to have recourse to computational rules in the Income Tax Act to clarify the meaning of Canadian income tax computed on a pre-credit basis.
+[86] However, Article II(2) of the Treaty specifies that the existing taxes to which the Treaty applies in the case of Canada are “the income taxes imposed by the Government of Canada”. Those would be the taxes imposed according to the Income Tax Act. I am not satisfied that the context in this case requires any other reading of the term “income tax” in Article XXII(2). Furthermore, as noted by Rip C.J. in Black v. The Queen, [23] the existence of a treaty does not oust the application of the provisions of the Act where there is no inconsistency between those provisions and the provisions of a treaty. I therefore infer that the drafters of the Treaty intended that Canadian income would be determined according to the domestic laws of Canada.
+[87] Therefore, I agree with the respondent’s submission that the drafters of the Treaty left it open to Canada to determine under its domestic law how the Pre‑credit tax is to be calculated. That calculation would include a determination of which expenses would be allowed as a deduction in determining the net income or which the tax is payable.
+[88] The applicable test for determining which expenses are relevant to income from a source in a particular place is found in subsection 4(1) of the Income Tax Act, which reads:
+4 (1) For the purposes of this Act,
+(a) a taxpayer’s income or loss for a taxation year from an office, employment, business, property or other source, or from sources in a particular place, is the taxpayer’s income or loss, as the case may be, computed in accordance with this Act on the assumption that the taxpayer had during the taxation year no income or loss except from that source or no income or loss except from those sources, as the case may be, and was allowed no deductions in computing the taxpayer’s income for the taxation year except such deductions as may reasonably be regarded as wholly applicable to that source or to those sources, as the case may be, and except such part of any other deductions as may reasonably be regarded as applicable thereto; and
+[89] Since the income derived from Brazil by the Canadian resident taxpayer in the hypothetical fact situation is from a source in a particular place, I agree with the respondent that the taxpayer would be required to compute income from that source as provided for in subsection 4(1) of the Income Tax Act, first on the assumption that the taxpayer had no income or loss except from source in Brazil, and second, that the taxpayer was allowed no deductions in computing income except those that may reasonably be regarded as wholly applicable to that source and except such part of any other deductions as may reasonably be regarded as applicable thereto.” The question of what deductions could be reasonably regarded as wholly applicable or applicable in part to that source would of course be a question of fact.
+Conclusion
+[90] For all of these reasons, the questions put by the respondent are answered as follows:
+[91] Question 1: No. The amount of Canadian income tax referred to in the second sentence of Article XXII(2) of the Treaty as being “appropriate to the income which may be taxed in Brazil” is the actual Canadian income tax attributable the income taxed in Brazil, which is computed on the net income arising from Brazil.
+[92] Question 2: Not applicable
+[93] Question 3: The proper test for determining which amounts of the Canadian resident taxpayer should be included or deducted from the gross interest arising from sources in Brazil is that found in subsection 4(1) of the Income Tax Act.
+[94] Costs on this motion are left to the discretion of the trial judge
+Signed at Ottawa, Canada this 26th day of May 2016.
+“B.Paris”
+Paris J.
+CITATION:
+2016 TCC 131
+COURT FILE NO.:
+2013-4035(IT)G
+STYLE OF CAUSE:
+SOCIÉTÉ GÉNÉRALE VALEURS MOBILIÈRES INC. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+July 2, 2016
+REASONS FOR ORDER BY:
+The Honourable Justice B. Paris
+DATE OF ORDER:
+May 26, 2016
+APPEARANCES:
+Counsel for the Appellant:
+Al Meghji
+Matias Milet
+Diana Yeung
+Counsel for the Respondent:
+Daniel Bourgeois
+Martin Beaudry
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Al Meghji
+Matias Milet
+Diana Yeung
+Firm:
+Osler, Hoskin & Harcourt LLP
+Toronto, Ontario
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 4 June 1984, Can TX 1984 No 11(entered into force 23 December 1985), and Canada-Brazil Income Tax Convention Act, 1984 S.C. 1985, c. 23 Part IV.
+[2] [1995] 2 S.C.R. 802, at para. 22.
+[3] 23 May 1969, Can TS 1980 No.37.
+[4] R.S.C., 1985, c. I-4.
+[5] R.S.C., 1985, c. 1 (5th Supp.).
+[6] Although it is not specified in the hypothetical fact situation, the taxpayer must be assumed to be a company, since Article XI(2) of the Treaty permits Brazil to tax the gross amount of interest income arising in Brazil and paid to a company resident in Canada. The relevant portions of Article XI read:
+1 Interest arising in a Contracting State and paid to a resident of the other Contracting State may be taxed in that other State.
+2 However, such interest may be taxed in the Contracting State in which it arises, and according to the law of that State, but if the recipient is a company which is the beneficial owner of the interest, the tax so charged shall not exceed:
+(a) 10 per cent of the gross amount of the interest arising in Brazil and paid to a resident of Canada in respect of a loan guaranteed or insured by the Export Development Corporation of Canada for a minimum period of 7 years;
+(b) 15 per cent in all other cases.
+[7] The Shorter Oxford English Dictionary on Historical Principles, 3rd ed, vol 1 (Oxford: Clarendon Press, 1955).
+[8] Merriam-Webster’s Collegiate Dictionary, 11th ed.
+[9] Appellant's Written Submissions, para 31-32.
+[10] Paris: Dictionnaires Le Robert, 1990.
+[11] Paris: Larousse, 2010.
+[12] 4th ed, Observador Legal Editora Ltda. 2000.
+[13] The Shorter Oxford English Dictionary on Historical Principles, vol 1 (Oxford: Clarendon Press, 1993).
+[14] Respondent’s Book of Authorities, tab 50. The Hon. Mr. Michel Bastarache, The Law of Bilingual Interpretation, Lexis Nexis, 2009 at p.15.
+[15] Article VII(3) reads:
+3 In the determination of the profits of a permanent establishment, there shall be allowed those deductible expenses which are incurred for the purposes of the permanent establishment including executive and general administrative expenses so incurred.
+[16] [1959] S.C.R. 763.
+[17] [1968] S.C.R. 498.
+[18] Ward, David A., " Canada's Tax Treaties" Can. Tax J., (1995), Vol.43, No. 5, p. 1719 at 1748.
+[19] Toaze, Deborah, "Tax Sparing: Good Intentions, Unintended Results", Can. Tax J. (2001), Vol. 49, No. 4 at pp. 880-1.
+[20] Organization for Economic Co-operation and Development, OECD Committee on Fiscal Affairs, Paris: OECD, 1977.
+[21] Supra, note 6.
+[22] Respondent’s written submissions, para 11-12.
+[23] 2014 TCC 12 at para 53.

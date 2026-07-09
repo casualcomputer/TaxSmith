@@ -1,0 +1,171 @@
+---
+title: "Naraine c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/110238/index.do"
+last_modified: "2015-04-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 CCI 104"
+citation2: ""
+neutral_citation: "2015 CCI 104"
+decision_date: "2015-04-28"
+language: "fr"
+item_id: "110238"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2648
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:34:54.165000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e89c31e3a68ac023a708297d5f774bf230261a865b0d0a26a9c5fb9a4ccdb2db"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Naraine c. La Reine
+
+- Citation: 2015 CCI 104
+- Decision date: 2015-04-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2648, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Naraine c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-04-28
+Référence neutre
+2015 CCI 104
+Numéro de dossier
+2013-2807(IT)G
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-2807(IT)G
+ENTRE :
+TOLASHWAR NARAINE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 8 décembre 2014, à Toronto (Ontario)
+Devant : L'honorable juge Diane Campbell
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Christian Cheong
+JUGEMENT
+L'appel interjeté à l'encontre d'une cotisation établie au titre de la Loi de l'impôt sur le revenu (la « Loi ») pour l'année d'imposition 2006 est accueilli, mais uniquement pour ce qui est d'accepter les concessions suivantes faites par l'intimée :
+1. Le montant à inclure dans le revenu de l'appelant est réduit à un montant révisé de 285 647,19 $.
+2. L'appelant est autorisé à déduire 16 700 $ à titre de frais juridiques suivant l'alinéa 60o.1) de la Loi.
+La cotisation est déférée au ministre pour nouvel examen et nouvelle cotisation conformément aux motifs du jugement ci-joints.
+Les dépens sont adjugés à l'intimée.
+Signé à Ottawa, Canada, ce 28e jour d'avril 2015.
+« Diane Campbell »
+La juge Campbell
+Traduction certifiée conforme
+ce 20e jour d'août 2015.
+Yves Bellefeuille, réviseur
+Référence : 2015 CCI 104
+Date : 20150428
+Dossier : 2013-2807(IT)G
+ENTRE :
+TOLASHWAR NARAINE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+La juge Campbell
+[1] Le présent appel concerne l'année d'imposition 2006 de l'appelant. Je dois trancher les deux questions suivantes :
+(1) La question de savoir si le ministre du Revenu national (le « ministre ») a inclus, à juste titre, certains montants dans le revenu de l'appelant.
+(2) Le montant que l'appelant peut déduire relativement à des frais juridiques.
+[2] Au début de l'audience, l'avocate de l'intimée a informé la Cour que le ministre concédait plusieurs montants relativement au présent appel. D'abord, le revenu de l'appelant en 2006 doit être réduit de 61 888 $ et, ensuite, le montant de 16 700 $ relatif aux frais juridiques est aussi concédé.
+[3] La cotisation initiale de l'appelant a été établie le 11 août 2008 et les montants suivants ont été inclus dans son revenu :
+Revenu de pension
+2 444 $
+Revenu d'intérêts
+248 863 $
+Autres revenus
+90 559 $
+[4] Le 8 juillet 2010, l'appelant a fait l'objet d'une nouvelle cotisation visant à inclure des montants liés à un revenu de location, mais aucun autre rajustement n'a été effectué relativement aux sommes à inclure dans le revenu.
+[5] L'appelant a travaillé pour la Ford Motor Company (« Ford ») jusqu'en 1985, lorsqu'il a été renvoyé. L'appelant a intenté une action auprès du Tribunal des droits de la personne de l'Ontario (le « Tribunal ») qui, malheureusement pour toutes les parties, a traîné pendant 21 ans devant un certain nombre de tribunaux et de cours. Finalement, l'appelant s'est vu adjuger et a reçu de Ford les montants suivants :
+a) des dommages‑intérêts généraux de 30 000 $;
+b) des intérêts antérieurs au jugement de 33 143,21 $ sur ces dommages‑intérêts généraux;
+c) des dommages‑intérêts particuliers de 90 559,04 $;
+d) des intérêts antérieurs au jugement de 100 047,27 $ sur ces dommages‑intérêts particuliers;
+e) des intérêts postérieurs au jugement de 115 673,30 $ sur les dommages‑intérêts généraux et les dommages‑intérêts particuliers.
+[6] D'après la décision de 2006 du Tribunal, au paragraphe 14 (recueil de jurisprudence et de doctrine de l'intimée, onglet 11), les montants susmentionnés faisaient l'objet d'une saisie‑arrêt de 16 700 $ à payer au cabinet d'avocats Koskie Minsky, qui a brièvement représenté l'appelant pendant une certaine période. Bien que ce soit Ford qui ait payé les frais juridiques de 16 700 $, ce montant a été déduit du montant total auquel l'appelant avait par ailleurs droit, et je suppose que c'est la raison pour laquelle l'intimée a concédé la totalité de ce montant dans le présent appel. Toutefois, l'appelant affirme qu'il a été représenté à certains moments par d'autres cabinets d'avocats au cours des années et qu'en fait, il a encaissé ses REÉR pour payer les honoraires et les frais.
+[7] L'intimée a fait valoir que, compte tenu de ses concessions, les montants suivants, qui s'élèvent au total à 285 647,19 $, devraient être compris dans le revenu de l'appelant :
+a) les dommages‑intérêts particuliers de 90 559,04 $, qui, selon l'intimée, constituent une allocation de retraite versée en remplacement du salaire perdu;
+b) les intérêts antérieurs au jugement de 100 047,27 $ sur les dommages‑intérêts particuliers;
+c) les intérêts postérieurs au jugement de 86 888 $ sur les dommages‑intérêts particuliers;
+d) un revenu de pension de 2 444,88 $ reçu de la Banque royale en 2006;
+e) un revenu de location net de 5 708 $.
+[8] Les concessions à ce sujet sont liées à la radiation des dommages‑intérêts généraux accordés et au rajustement des intérêts postérieurs au jugement à cet égard. Les montants figurant aux alinéas 7d) et e) ne sont pas en cause.
+[9] La première question qui se pose est de savoir si les dommages‑intérêts particuliers de 90 559 $ constituaient une allocation de retraite selon la définition figurant au paragraphe 248(1) de la Loi de l'impôt sur le revenu (la « Loi »). Les passages de cette définition pertinents au présent appel précisent qu'une somme reçue par un contribuable est considérée comme une allocation de retraite si elle est reçue « [...] à l'égard de la perte [...] d'une charge ou d'un emploi, qu'elle ait été reçue ou non à titre de dommages ou conformément à une ordonnance ou sur jugement d'un tribunal compétent » (non souligné dans l'original).
+[10] Je cite les paragraphes 20 et 21 de la décision Dunphy c. La Reine, 2009 CCI 619, dans laquelle la juge Sheridan a énoncé ce qui suit relativement au critère approprié à appliquer :
+[20] La jurisprudence établit clairement que l'emploi des mots « à l'égard de », dans la définition de l'« allocation de retraite », est de portée très générale.
+[21] Pour déterminer s'il existe un lien suffisant entre la perte d'un emploi et le paiement reçu, les tribunaux ont conclu que le critère à appliquer est le suivant : « S'il n'y avait pas eu perte d'emploi, la somme aurait-elle été reçue? ». Pour paraphraser l'ancien juge en chef Bowman dans la décision Stolte v. R, il s'agit de savoir ce à quoi se rapportait le paiement, la réponse dépend des faits propres à chaque affaire.
+[11] Il ressort clairement de la décision du Tribunal dans la présente affaire et de la preuve qui m'a été présentée que l'adjudication des 90 559 $ avait pour but d'indemniser l'appelant pour la perte de son revenu d'emploi et de ses avantages sociaux. Au paragraphe 50 de la décision du Tribunal, ce dernier a notamment ordonné à Ford de [TRADUCTION] « [...] payer à M. Naraine des dommages‑intérêts particuliers pour compenser la perte de revenus et d'avantages sociaux auxquels il aurait eu droit pendant la période allant de son congédiement chez Ford en août 1985 à son embauche chez General Motors au printemps 1987 ». Les autres montants de 20 000 $ et de 10 000 $ ont été adjugés à titre de dommages‑intérêts généraux afin de compenser la souffrance morale subie et ces montants n'ont pas été inclus dans le revenu. Comme ce montant est clairement un montant compensatoire pour la perte de revenu de l'appelant et des avantages sociaux s'y rattachant pendant la période allant de son licenciement chez Ford à son embauche chez General Motors, il a été inclus à juste titre dans le revenu de l'appelant pour l'année d'imposition 2006, conformément au sous‑alinéa 56(1)a)(ii) de la Loi.
+[12] En ce qui concerne les montants adjugés au titre des intérêts antérieurs et postérieurs au jugement sur le montant de 90 559 $, ils ont, eux aussi, été inclus à juste titre dans le revenu de l'appelant en tant que revenus d'intérêts suivant l'alinéa 12(1)c) de la Loi.
+[13] Bien que l'appelant ait demandé des frais juridiques additionnels, il lui incombe d'étayer cette demande à l'aide d'éléments de preuve qui permettraient d'accorder un montant supplémentaire, en sus des 16 700 $ concédés par l'intimée. Aucun élément de preuve documentaire n'a été présenté à l'appui de frais s'élevant à plus de 16 700 $. L'appelant a produit sous la cote A‑2 un document intitulé [TRADUCTION] « mandat », dans lequel il convenait de retenir les services du cabinet d'avocats Koskie Minsky pour sa plainte et de payer au cabinet le tarif horaire de 150 $ pour les services prévus. Toutefois, ce mandat ne comprend aucune disposition relativement à un montant précis payé supérieur aux 16 700 $ dont le Tribunal a ordonné la déduction du montant total accordé à l'appelant et le versement au cabinet Koskie Minsky. Par conséquent, même si l'appelant affirme qu'il a encaissé ses REÉR pour payer des frais juridiques, il n'a fourni aucune preuve qu'il a payé un montant supérieur aux 16 700 $ concédés.
+[14] En résumé, l'appel est accueilli afin d'autoriser les concessions suivantes faites par l'intimée :
+(1) Le montant à inclure dans le revenu de l'appelant est réduit à un montant révisé de 285 647,19 $, tel qu'il est mentionné au paragraphe 7 des présents motifs.
+(2) Le second montant qui est concédé se rapporte aux frais juridiques et s'élève à 16 700 $. L'appelant est autorisé à déduire ce montant à titre de frais juridiques, conformément à l'alinéa 60o.1) de la Loi.
+[15] L'appel est accueilli, en partie, mais seulement pour autoriser les concessions de l'intimée.
+[16] Les dépens sont adjugés à l'intimée.
+Signé à Ottawa, Canada, ce 28e jour d'avril 2015.
+« Diane Campbell »
+La juge Campbell
+Traduction certifiée conforme
+ce 20e jour d'août 2015.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE :
+2015 CCI 104
+NO DU DOSSIER DE LA COUR :
+2013-2807(IT)G
+INTITULÉ :
+TOLASHWAR NARAINE c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE :
+Toronto (Ontario)
+DATE DE L'AUDIENCE :
+Le 8 décembre 2014
+MOTIFS DU JUGEMENT :
+L'honorable juge Diane Campbell
+DATE DU JUGEMENT :
+Le 28 avril 2015
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Christian Cheong
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée :
+William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada

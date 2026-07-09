@@ -1,0 +1,517 @@
+Title: Preston Family Trust II c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/516219/index.do
+Corpus path: corpus/cases/tcc/2021/2021-cci-79-516219-preston-family-trust-ii-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2021-11-15
+
+# Preston Family Trust II c. La Reine
+
+- Citation: 2021 CCI 79
+- Decision date: 2021-11-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4478, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Preston Family Trust II c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2021-11-15
+Référence neutre
+2021 CCI 79
+Numéro de dossier
+2020-641(IT)G, 2020-642(IT)G, 2020‑643(IT)G
+Juges et Officiers taxateurs
+David E. Spiro
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2020-641(IT)G
+ENTRE :
+THE PRESTON FAMILY TRUST II,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête de la requérante tranchée sur observations écrites avec les requêtes déposées dans les dossiers John Preston – 2020-642(IT)G et Monika Preston – 2020-643(IT)G
+Devant : L’honorable juge David E. Spiro
+Participants :
+Avocats de la requérante :
+Me Yves St-Cyr et Me Jacob Yau
+Avocat de l’intimée :
+Me Rishma Bhimji
+ORDONNANCE MODIFIÉE
+VU la requête déposée par la requérante en radiation des sous-alinéas 10(h), 10(k), 10(1), 10(o), 10(w), 10(x), 10(y), 10(z), 10(aa), 10(bb), 10(hh), 10(ii), 10(jj), 10(kk), 10(ll), 10(mm), 10(nn), 10(oo), 10(pp), 10(qq), 10(rr), 10(ss) et 10(tt) de la réponse à l’avis d’appel, en application du paragraphe 53(1) des Règles de la Cour canadienne de l’impôt (procédure générale);
+APRÈS avoir lu les documents déposés au nom de la requérante à l’appui de la présente requête, ainsi que les documents déposés au nom de l’intimée;
+LA COUR ORDONNE que la mesure de redressement demandée soit accordée en partie, selon les conditions suivantes :
+l’intimée déposera et signifiera d’ici 30 jours une réponse modifiée, en conformité avec la présente ordonnance modifiée;
+les sous-alinéas 10(h), 10(k), 10(l), 10(o), 10(w), 10(x), 10(y), 10(z), 10(aa), 10(bb), 10(hh), 10(ii), 10(jj), 10(kk), 10(ll), 10(mm), 10(nn) et 10(qq) sont radiés du paragraphe de la réponse dans lequel sont énoncées les hypothèses, avec autorisation de les modifier afin qu’ils figurent dans la réponse modifiée à titre de moyens sur lesquels l’intimée entend se fonder;
+les sous-alinéas 10(oo) et 10(pp) sont radiés du paragraphe de la réponse dans lequel sont énoncées les hypothèses, avec autorisation de les modifier afin qu’ils soient ainsi rédigés :
+M. et Mme Preston n’ont pas perçu ni versé la retenue d’impôt de la partie XIII sur les dividendes imposables qu’ils ont reçus de l’appelante;
+M. et Mme Preston n’ont pas perçu ni versé la retenue d’impôt de la partie XIII sur les dividendes en capital qu’ils ont reçus de l’appelante;
+le sous-alinéa 10(rr) est radié du paragraphe de la réponse dans lequel sont énoncées les hypothèses, avec autorisation de le modifier afin qu’il soit ainsi rédigé :
+l’appelante n’a pas déduit ni retenu l’impôt de la partie XIII sur les dividendes imposables ou les dividendes en capital.
+les sous-alinéas 10(ss) et 10(tt) sont radiés du paragraphe de la réponse dans lequel sont énoncées les hypothèses, sans autorisation de les modifier;
+l’annexe A de la présente ordonnance modifiée expose les autres hypothèses de fait modifiées qui seront invoquées par l’intimée dans sa réponse modifiée;
+la requérante pourra déposer et signifier une réplique modifiée dans les 30 jours suivant la date à laquelle l’intimée aura signifié sa réponse modifiée;
+les dépens suivront l’issue de la cause.
+La présente ordonnance modifiée remplace l’ordonnance datée du 10 novembre 2021.
+Signé à Toronto (Ontario), ce 15e jour de novembre 2021.
+« David E. Spiro »
+Le juge Spiro
+Traduction certifiée conforme
+ce 2e jour d’août 2022.
+François Brunet, réviseur
+ANNEXE A DE L’ORDONNANCE
+2020-641(IT)G
+Au moment d’établir les nouvelles cotisations de l’appelante, le ministre s’est fondé, entre autres, sur les hypothèses de fait suivantes :
+L’appelante et ses bénéficiaires
+a)l’appelante était une fiducie non testamentaire;
+b)l’appelante était une fiducie irrévocable;
+c)l’appelante était constituée en Ontario;
+d)l’appelante était régie par les lois de l’Ontario;
+e)l’appelante a été constituée par Margaret Shorey, le 30 septembre 1993;
+f)l’appelante a été constituée conformément à un acte de constitution daté du 30 septembre 1993 (l’« acte de constitution »);
+g)Mme Shorey a constitué la fiducie par un apport de 100 actions ordinaires de J.W.S.P. Holdings Inc. (« Holdco »);
+h)M. Preston, Mme Preston et les deux enfants de M. Preston ne résident plus au Canada depuis le 1er octobre 1993;
+i)durant toute la période en question, M. Preston et Robert Green étaient les administrateurs de Holdco;
+j)durant toute la période en question, M. Green et Gilbert J. Weiss étaient les fiduciaires de l’appelante (les « fiduciaires »);
+k)les fiduciaires pouvaient verser et attribuer aux bénéficiaires toute partie du revenu annuel net tiré du capital de la fiducie;
+La distribution prélevée sur les capitaux propres de l’appelante
+l)en date du 25 septembre 2014, l’appelante détenait 100 actions ordinaires de Holdco et une participation de 95 % dans la North American Development LP (la « société de personnes »);
+m)le 25 septembre 2014, les fiduciaires ont décidé de distribuer les biens de l’appelante à parts égales entre M. Preston et Mme Preston, après l’annulation de la fiducie (la « résolution des fiduciaires »);
+n)conformément à la résolution des fiduciaires, M. et Mme Preston ont cédé leur participation au capital de l’appelante – 100 actions ordinaires de Holdco et une participation de 95 % dans la société de personnes (le « bien distribué ») – à une société à responsabilité illimitée (SRI);
+o)conformément au paragraphe 85(1) de la Loi de l’impôt sur le revenu (la « Loi »), M. et Mme Preston ont cédé leur participation au capital lié au bien distribué, chacun en échange de 100 actions ordinaires de la SRI (la « cession »);
+p)M. et Mme Preston étaient les seuls actionnaires de la SRI;
+q)le 25 septembre 2014, l’appelante a transféré à la SRI 100 actions ordinaires de Holdco et une participation de 95 % dans la société de personnes;
+r)conformément à la résolution des fiduciaires, tout transfert à la SRI serait au profit de M. et Mme Preston, à l’exclusion de tout autre bénéficiaire de l’appelante;
+Dividendes versés à M. et Mme Preston
+s)en 2014, dans le cadre de la réorganisation de la société, les actionnaires de Holdco ont signé une série de résolutions extraordinaires ayant pour effet d’augmenter de 23 900 000 $ le capital déclaré relatif aux actions ordinaires de Holdco;
+t)Holdco a choisi de considérer une partie (18 500 000 $) des dividendes réputés découler de la hausse du capital déclaré comme étant des dividendes en capital, en application du paragraphe 83(2) de la Loi (les « dividendes en capital »);
+u)le solde de l’augmentation du capital déclaré, soit 6 400 000 $, a été réputé être des dividendes imposables versés à l’appelante en application du paragraphe 84(1) de la Loi (les « dividendes imposables »);
+v)l’appelante a déclaré un revenu de dividendes de 6 400 000 $ sur le formulaire T3 de sa déclaration de revenus pour l’année 2014;
+w)l’appelante a attribué le revenu tiré des dividendes imposables à la SRI;
+Retenue de la partie XIII sur les dividendes versés à M. et Mme Preston
+x)M. et Mme Preston n’ont pas perçu ni versé la retenue d’impôt de la partie XIII sur les dividendes imposables qu’ils ont reçus de l’appelante;
+y)M. et Mme Preston n’ont pas perçu ni versé la retenue d’impôt de la partie XIII sur les dividendes en capital qu’ils ont reçus de l’appelante;
+z)l’appelante n’a pas déduit ni retenu l’impôt de la partie XIII sur les dividendes imposables ou les dividendes en capital.
+Dossier : 2020-642(IT)G
+ENTRE :
+JOHN PRESTON,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête du requérant tranchée sur observations écrites avec les requêtes déposées dans les dossiers Preston Family Trust II – 2020-641(IT)G et Monika Preston – 2020-643(IT)G
+Devant : L’honorable juge David E. Spiro
+Participants :
+Avocats de la requérante :
+Me Yves St-Cyr et Me Jacob Yau
+Avocat de l’intimée :
+Me Rishma Bhimji
+ORDONNANCE MODIFIÉE
+VU la requête déposée par le requérant en radiation des sous-alinéas 10(h), 10(k), 10(1), 10(o), 10(w), 10(x), 10(y), 10(z), 10(aa), 10(gg), 10(hh), 10(ii), 10(jj), 10(kk), 10(ll), 10(mm), 10(nn), 10(oo) et 10(pp) de la réponse à l’avis d’appel, en application du paragraphe 53(1) des Règles de la Cour canadienne de l’impôt (procédure générale);
+APRÈS avoir lu les documents déposés au nom du requérant à l’appui de la présente requête, ainsi que les documents déposés au nom de l’intimée;
+LA COUR ORDONNE que la mesure de redressement demandée soit accordée en partie, selon les conditions suivantes :
+1. l’intimée déposera et signifiera d’ici 30 jours une réponse modifiée, en conformité avec la présente ordonnance modifiée;
+les sous-alinéas 10(h), 10(k), 10(l), 10(o), 10(w), 10(x), 10(y), 10(z), 10(aa), 10(gg), 10(hh), 10(ii), 10(jj), 10(kk), 10(ll), 10(mm) et 10(pp) sont radiés du paragraphe de la réponse dans lequel sont énoncées les hypothèses, avec autorisation de les modifier afin qu’ils figurent dans la réponse modifiée à titre de moyens sur lesquels l’intimée entend se fonder;
+les sous-alinéas 10(nn) et 10(oo) sont radiés du paragraphe de la réponse dans lequel sont énoncées les hypothèses, avec autorisation de les modifier afin qu’ils soient ainsi rédigés :
+l’appelant et Mme Preston n’ont pas perçu ni versé la retenue d’impôt de la partie XIII sur les dividendes imposables qu’ils ont reçus de l’appelante;
+l’appelant et Mme Preston n’ont pas perçu ni versé la retenue d’impôt de la partie XIII sur les dividendes en capital qu’ils ont reçus de l’appelante;
+l’annexe A de la présente ordonnance modifiée énonce les autres hypothèses de fait modifiées qui seront invoquées par l’intimée dans sa réponse modifiée;
+le requérant pourra déposer et signifier une réplique modifiée dans les 30 jours suivant la date à laquelle l’intimée aura signifié sa réponse modifiée;
+les dépens suivront l’issue de la cause.
+La présente ordonnance modifiée remplace l’ordonnance datée du 10 novembre 2021.
+Signé à Toronto (Ontario), ce 15e jour de novembre 2021.
+« David E. Spiro »
+Le juge Spiro
+Traduction certifiée conforme
+ce 2e jour d’août 2022.
+François Brunet, réviseur
+ANNEXE A DE L’ORDONNANCE
+2020-642(IT)G
+Au moment d’établir les nouvelles cotisations de l’appelante, le ministre s’est fondé, entre autres, sur les hypothèses de fait suivantes :
+L’appelant à titre de bénéficiaire
+a)la fiducie était une fiducie non testamentaire;
+b)la fiducie était une fiducie irrévocable;
+c)la fiducie était établie en Ontario;
+d)la fiducie était régie par les lois de l’Ontario;
+e)la fiducie a été constituée par Margaret Shorey, le 30 septembre 1993;
+f)la fiducie a été constituée conformément à un acte de constitution daté du 30 septembre 1993 (l’« acte de constitution »);
+g)Mme Shorey a constitué la fiducie par un apport de 100 actions ordinaires de J.W.S.P. Holdings Inc. (« Holdco »);
+h)l’appelant, Mme Preston et les deux enfants de l’appelant ne résident plus au Canada depuis le 1er octobre 1993;
+i)durant toute la période en question, l’appelant et Robert Green étaient les administrateurs de Holdco;
+j)durant toute la période en question, M. Green et Gilbert J. Weiss étaient les fiduciaires de la fiducie (les « fiduciaires »);
+k)les fiduciaires pouvaient verser et attribuer aux bénéficiaires toute partie du revenu annuel net tiré du capital de la fiducie;
+La distribution prélevée sur les capitaux propres de la fiducie
+l)en date du 25 septembre 2014, la fiducie détenait 100 actions ordinaires de Holdco et une participation de 95 % dans la North American Development LP (la « société de personnes »);
+m)le 25 septembre 2014, les fiduciaires ont décidé de distribuer les biens de la fiducie à parts égales entre l’appelant et Mme Preston, après l’annulation de la fiducie (la « résolution des fiduciaires »);
+n)conformément à la résolution des fiduciaires, l’appelant et Mme Preston ont cédé leur participation au capital de la fiducie – 100 actions ordinaires de Holdco et une participation de 95 % dans la société de personnes (le « bien distribué ») – à une SRI;
+o)conformément au paragraphe 85(1) de la Loi, l’appelant et Mme Preston ont cédé leur participation au capital lié au bien distribué, chacun en échange de 100 actions ordinaires de la SRI (la « cession »);
+p)l’appelant et Mme Preston étaient les seuls actionnaires de la SRI;
+q)le 25 septembre 2014, la fiducie a transféré à la SRI 100 actions ordinaires de Holdco et une participation de 95 % dans la société de personnes;
+r)conformément à la résolution des fiduciaires, tout transfert à la SRI serait au profit de l’appelant et de Mme Preston, à l’exclusion de tout autre bénéficiaire de la fiducie;
+Dividendes versés à l’appelant
+s)en 2014, dans le cadre de la réorganisation de la société, les actionnaires de Holdco ont signé une série de résolutions extraordinaires ayant pour effet d’augmenter de 23 900 000 $ le capital déclaré relatif aux actions ordinaires de Holdco;
+t)Holdco a choisi de considérer une partie (18 500 000 $) des dividendes réputés découler de la hausse du capital déclaré comme étant des dividendes en capital, en application du paragraphe 83(2) de la Loi (les « dividendes en capital »);
+u)le solde de l’augmentation du capital déclaré, soit 6 400 000 $, a été réputé être des dividendes imposables versés à la fiducie en application du paragraphe 84(1) de la Loi (les « dividendes imposables »);
+v)la fiducie a déclaré un revenu de dividendes de 6 400 000 $ sur le formulaire T3 de sa déclaration de revenus pour l’année 2014;
+w)la fiducie a attribué le revenu tiré des dividendes imposables à la SRI;
+Retenue de la partie XIII sur les dividendes versés à l’appelant et à Mme Preston
+x)l’appelant et Mme Preston n’ont pas perçu ni versé la retenue d’impôt de la partie XIII sur les dividendes imposables qu’ils ont reçus de la fiducie;
+y)l’appelant et Mme Preston n’ont pas perçu ni versé la retenue d’impôt de la partie XIII sur les dividendes en capital qu’ils ont reçus de la fiducie.
+Dossier : 2020-643(IT)G
+ENTRE :
+MONIKA PRESTON,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête de la requérante tranchée sur observations écrites avec les requêtes déposées dans les dossiers The Preston Family Trust II – 2020-641(IT)G et John Preston – 2020-642(IT)G
+Devant : L’honorable juge David E. Spiro
+Participants :
+Avocats de la requérante :
+Me Yves St-Cyr et Me Jacob Yau
+Avocat de l’intimée :
+Me Rishma Bhimji
+ORDONNANCE MODIFIÉE
+VU la requête déposée par la requérante en radiation des sous-alinéas 10(h), 10(k), 10(1), 10(o), 10(w), 10(x), 10(y), 10(z), 10(aa), 10(gg), 10(hh), 10(ii), 10(jj), 10(kk), 10(ll), 10(mm), 10(nn), 10(oo) et 10(pp) de la réponse à l’avis d’appel, en application du paragraphe 53(1) des Règles de la Cour canadienne de l’impôt (procédure générale);
+APRÈS avoir lu les documents déposés au nom de l’intimée à l’appui de la présente requête, ainsi que les documents déposés au nom de la requérante;
+LA COUR ORDONNE que la mesure de redressement demandée soit accordée en partie, selon les conditions suivantes :
+l’intimée déposera et signifiera d’ici 30 jours une réponse modifiée, en conformité avec la présente ordonnance modifiée;
+les sous-alinéas 10(h), 10(k), 10(l), 10(o), 10(w), 10(x), 10(y), 10(z), 10(aa), 10(gg), 10(hh), 10(ii), 10(jj), 10(kk), 10(ll), 10(mm) et 10(pp) sont radiés du paragraphe de la réponse dans lequel sont énoncées les hypothèses, avec autorisation de les modifier afin qu’ils figurent dans la réponse modifiée à titre de moyens sur lesquels l’intimée entend se fonder;
+les sous-alinéas 10(nn) et 10(oo) sont radiés du paragraphe de la réponse dans lequel sont énoncées les hypothèses, avec autorisation de les modifier afin qu’ils soient ainsi rédigés :
+M. Preston et l’appelante n’ont pas perçu ni versé la retenue d’impôt de la partie XIII sur les dividendes imposables qu’ils ont reçus de l’appelante;
+M. Preston et l’appelante n’ont pas perçu ni versé la retenue d’impôt de la partie XIII sur les dividendes en capital qu’ils ont reçus de l’appelante;
+l’annexe A de la présente ordonnance modifiée énonce les autres hypothèses de fait modifiées qui seront invoquées par l’intimée dans sa réponse modifiée;
+la requérante pourra déposer et signifier une réplique modifiée dans les 30 jours suivant la date à laquelle l’intimée aura signifié sa réponse modifiée;
+les dépens suivront l’issue de la cause.
+La présente ordonnance modifiée remplace l’ordonnance datée du 10 novembre 2021.
+Signé à Toronto (Ontario), ce 15e jour de novembre 2021.
+« David E. Spiro »
+Le juge Spiro
+Traduction certifiée conforme
+ce 2e jour d’août 2022.
+François Brunet, réviseur
+ANNEXE A DE L’ORDONNANCE
+2020-643(IT)G
+Au moment d’établir les nouvelles cotisations de l’appelante, le ministre s’est fondé, entre autres, sur les hypothèses de fait suivantes :
+L’appelant à titre de bénéficiaire
+a)la fiducie était une fiducie non testamentaire;
+b)la fiducie était une fiducie irrévocable;
+c)la fiducie était établie en Ontario;
+d)la fiducie était régie par les lois de l’Ontario;
+e)la fiducie a été constituée par Margaret Shorey, le 30 septembre 1993;
+f)la fiducie a été constituée conformément à un acte de constitution daté du 30 septembre 1993 (l’« acte de constitution »);
+g)Mme Shorey a constitué la fiducie par un apport de 100 actions ordinaires de J.W.S.P. Holdings Inc. (« Holdco »);
+h)M. Preston, l’appelante et les deux enfants de M. Preston ne résident plus au Canada depuis le 1er octobre 1993;
+i)durant toute la période en question, M. Preston et Robert Green étaient les administrateurs de Holdco;
+j)durant toute la période en question, M. Green et Gilbert J. Weiss étaient les fiduciaires de la fiducie (les « fiduciaires »);
+k)les fiduciaires pouvaient verser et attribuer aux bénéficiaires toute partie du revenu annuel net tiré du capital de la fiducie;
+La distribution prélevée sur les capitaux propres de la fiducie
+l)en date du 25 septembre 2014, la fiducie détenait 100 actions ordinaires de Holdco et une participation de 95 % dans la North American Development LP (la « société de personnes »);
+m)le 25 septembre 2014, les fiduciaires ont décidé de distribuer les biens de la fiducie à parts égales entre M. Preston et l’appelante, après l’annulation de la fiducie (la « résolution des fiduciaires »);
+n)conformément à la résolution des fiduciaires, M. Preston et l’appelante ont cédé leur participation au capital de la fiducie – 100 actions ordinaires de Holdco et une participation de 95 % dans la société de personnes (le « bien distribué ») – à une SRI;
+o)conformément au paragraphe 85(1) de la Loi, M. Preston et l’appelante ont cédé leur participation au capital lié au bien distribué, chacun en échange de 100 actions ordinaires de la SRI (la « cession »);
+p)M. Preston et l’appelante étaient les seuls actionnaires de la SRI;
+q)le 25 septembre 2014, la fiducie a transféré à la SRI 100 actions ordinaires de Holdco et une participation de 95 % dans la société de personnes;
+r)conformément à la résolution des fiduciaires, tout transfert à la SRI serait au profit de M. Preston et de l’appelante, à l’exclusion de tout autre bénéficiaire de la fiducie;
+Dividendes versés à l’appelante
+s)en 2014, dans le cadre de la réorganisation de la société, les actionnaires de Holdco ont signé une série de résolutions extraordinaires ayant pour effet d’augmenter de 23 900 000 $ le capital déclaré relatif aux actions ordinaires de Holdco;
+t)Holdco a choisi de considérer une partie (18 500 000 $) des dividendes réputés découler de la hausse du capital déclaré comme étant des dividendes en capital, en application du paragraphe 83(2) de la Loi (les « dividendes en capital »);
+u)le solde de l’augmentation du capital déclaré, soit 6 400 000 $, a été réputé être des dividendes imposables versés à la fiducie en application du paragraphe 84(1) de la Loi (les « dividendes imposables »);
+v)la fiducie a déclaré un revenu de dividendes de 6 400 000 $ sur le formulaire T3 de sa déclaration de revenus pour l’année 2014;
+w)la fiducie a attribué le revenu tiré des dividendes imposables à la SRI;
+Retenue de la partie XIII sur les dividendes versés à l’appelant et à Mme Preston
+x)M. Preston et l’appelante n’ont pas perçu ni versé la retenue d’impôt de la partie XIII sur les dividendes imposables qu’ils ont reçus de la fiducie;
+y)M. Preston et l’appelante n’ont pas perçu ni versé la retenue d’impôt de la partie XIII sur les dividendes en capital qu’ils ont reçus de la fiducie;
+Référence : 2021 CCI 79
+Date : 20211110
+Dossier : 2020-641(IT)G
+ENTRE :
+THE PRESTON FAMILY TRUST II,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2020-642(IT)G
+ET ENTRE :
+JOHN PRESTON,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2020-643(IT)G
+ET ENTRE :
+MONIKA PRESTON,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DES ORDONNANCES
+Le juge Spiro
+I. Aperçu [1] Au moment d’établir l’impôt, les intérêts ou les pénalités à imposer aux termes de la Loi de l’impôt sur le revenu (la « Loi »)[1], le ministre du Revenu national (le « ministre ») peut formuler des conclusions ou des hypothèses de fait[2]. Le ministre peut également formuler des conclusions de droit ou des conclusions mélangées de droit et de fait. Cependant, seules les premières peuvent être invoquées à titre d’« hypothèses de fait » dans la réponse de l’intimée à un avis d’appel[1]. L.R.C. 1985, ch. 1 (5e suppl.).
+[2] Par voie de requêtes déposées par écrit, chacun des requérants demande à la Cour de radier certaines hypothèses que l’intimée a énoncées dans ses réponses à leurs avis d’appel[3], au motif qu’il ne s’agit pas de « conclusions ou [...] hypothèses de fait sur lesquelles le ministre s’est fondé en établissant sa cotisation » au sens de l’alinéa 49(1)d) des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles »)[4].
+[3] Je conclus que les requêtes des requérants peuvent être accueillies, mais pas de la manière dont ils l’espéraient. La plupart de leurs requêtes ont simplement donné lieu à un remaniement des réponses. Par conséquent, les dépens suivront l’issue de la cause.
+II. La question en litige dans les présents appels [4] La question en litige dans les présents appels est de savoir si la Loi autorise un régime fiscal particulier – c’est-à-dire un régime conçu pour éviter les conséquences fiscales de la disposition réputée à la juste valeur marchande, qui doit être faite des immobilisations d’une fiducie tous les 21 ans aux termes du paragraphe 104(4) de la Loi. Toutes les parties conviennent que les seuls bénéficiaires de la fiducie, du moins jusqu’à la mise en œuvre du régime, étaient des non-résidents.
+[5] Diverses stratégies visant à éviter les conséquences fiscales de la règle de la disposition réputée aux 21 ans ont été étudiées par la doctrine fiscale. Le transfert à imposition différée de biens de la fiducie à des bénéficiaires résidant au Canada est l’une des stratégies prévues par le paragraphe 107(2) de la Loi, mais elle ne peut toutefois pas s’appliquer aux non-résidents. En 2014, deux praticiens du droit ont présenté un aperçu des options de planification possibles lorsque les bénéficiaires sont des non-résidents :
+[traduction] Quelques options de planification sont possibles en ce qui concerne les bénéficiaires non-résidents. L’une de ces options consiste à distribuer les biens de la fiducie à une société qui réside au Canada et dont le bénéficiaire particulier non résident est directement ou indirectement un actionnaire. Le paragraphe 107(2) de la Loi ne peut être invoqué que si la fiducie distribue ses biens « à un contribuable qui était un de ses bénéficiaires ». Par conséquent, pour que les fiduciaires puissent utiliser cette option, la catégorie de bénéficiaires auxquels le capital peut être distribué doit comprendre des sociétés qui sont contrôlées par un ou plusieurs bénéficiaires particuliers qui font également partie de la catégorie des bénéficiaires de capital, ou des sociétés dont ces bénéficiaires sont les propriétaires (souvent désignés respectivement « sociétés bénéficiaires » et « bénéficiaires particuliers »).
+Un des avantages de la distribution des biens de la fiducie à une société bénéficiaire est qu’elle permet de conserver le contrôle des biens, tout en reportant l’impôt sur le revenu à payer sur les gains accumulés sur les biens de la fiducie jusqu’à ce que la société bénéficiaire vende les biens ou que les actionnaires disposent de leurs actions ou sont réputés l’avoir fait. Pour cette raison, il peut être avantageux d’avoir recours à une société bénéficiaire, même lorsque les biens sont distribués à un bénéficiaire particulier qui est résident canadien.
+Si l’acte de fiducie ne prévoit pas expressément la notion de sociétés bénéficiaires dans la catégorie des bénéficiaires de capital, se pose la question de savoir si les exigences du paragraphe 107(2) seront satisfaites. Les fiduciaires doivent déterminer si le libellé des dispositions de la Loi qui portent sur la disposition de biens autorise la distribution à une société qui est contrôlée par un bénéficiaire particulier ou qui appartient à ce bénéficiaire. Une des options proposées par Tim Youdan est de déterminer si le libellé général des dispositions sur la distribution prélevée sur les capitaux propres de la fiducie prévoit notamment le pouvoir de distribuer des biens à un bénéficiaire particulier ou « au profit » d’un tel bénéficiaire. Pour conclure qu’une société est elle-même un bénéficiaire, en tenant compte du fait que la distribution est faite « au profit » du bénéficiaire particulier, il faudrait que les fiduciaires se fondent sur la définition élargie de l’expression « droit de bénéficiaire », qui est prévue au paragraphe 248(25) et qui s’applique à la définition de « bénéficiaire » au paragraphe 108(1)[5].
+[6] Les appelants dans les présents appels sont une fiducie résidant au Canada (la « Preston Family Trust ») et deux bénéficiaires de cette fondation, John et Monika Preston qui ne sont pas résidents du Canada[6]. Juste avant le 21e anniversaire de la Preston Family Trust, John et Monika Preston sont devenus les seuls actionnaires d’une société à responsabilité illimitée (la « SRI ») de l’Alberta, à qui ils ont cédé leur participation au capital de la Preston Family Trust et à qui cette fiducie a transféré la totalité de ses immobilisations, constituées d’actions d’une société de portefeuille et d’une participation dans une société de personnes.
+[7] La thèse sur laquelle le ministre s’est fondé pour établir la cotisation est que la SRI n’est jamais devenue bénéficiaire de la Preston Family Trust et que John et Monika Preston ont continué d’en être les bénéficiaires, même après avoir cédé à la SIR leur participation au capital de cette fiducie. Selon cette thèse, les immobilisations de la fiducie ont en substance été distribuées à John et Monika Preston, et non à la SRI.
+[8] Le ministre a établi une cotisation au titre de l’impôt d’environ 12 millions de dollars à l’égard de la Preston Family Trust, aux termes de la partie I et de la partie XII.2 de la Loi, en se fondant sur la thèse portant que cette fiducie avait réalisé des gains tirés de la disposition, réputée avoir été faite à la juste valeur marchande, de ses immobilisations à des bénéficiaires qui n’étaient pas des résidents du Canada en 2014.
+[9] Le ministre a également établi des cotisations à l’égard de John et Monika Preston aux termes de la partie XIII de la Loi, relativement à certains dividendes (dividendes en capital et imposables) réputés leur avoir été versés par la société de portefeuille en 2014. Chacune de leurs cotisations au titre de l’impôt, établie en application de la partie XIII, totalisait environ deux millions de dollars.
+III. La thèse des requérants concernant les requêtes [10] Les requérants fondent leurs requêtes sur le paragraphe 53(1) des Règles qui prévoit ce qui suit :
+53(1) La Cour peut, de son propre chef ou à la demande d’une partie, radier un acte de procédure ou tout autre document ou en supprimer des passages, en tout ou en partie, avec ou sans autorisation de le modifier parce que l’acte ou le document :
+a) peut compromettre ou retarder l’instruction équitable de l’appel;
+b) est scandaleux, frivole ou vexatoire;
+c) constitue un recours abusif à la Cour;
+d) ne révèle aucun moyen raisonnable d’appel ou de contestation de l’appel.
+[11] Les requérants affirment que les sous-alinéas controversés énoncent des conclusions de droit ou des conclusions mélangées de droit et de fait et qu’il ne s’agit pas d’« hypothèses de fait sur lesquelles le ministre s’est fondé en établissant sa cotisation », comme l’exige l’alinéa 49(1)d) des Règles. Ces sous-alinéas doivent donc être radiés, vraisemblablement en application de l’alinéa 53(1)a) des Règles.
+IV. La thèse de l’intimée concernant les requêtes [12] L’intimée soutient que les sous-alinéas contestés (à l’exception de ceux décrits dans la partie H. ci-après) énoncent « les hypothèses de fait sur lesquelles le ministre s’est fondé en établissant sa cotisation » au sens de l’alinéa 49(1)d) des Règles et qu’ils figurent, comme il se doit, dans le paragraphe de chaque réponse dans lequel sont énoncées les « hypothèses ».
+V. Hypothèses de fait
+[13] Le paragraphe 49(1) des Règles énonce ce que la réponse doit indiquer :
+a) les faits admis [dans l’avis d’appel];
+b) les faits niés [dans l’avis d’appel];
+c) les faits que l’intimée ne connaît pas et qu’elle n’admet pas [dans l’avis d’appel];
+d) les conclusions ou les hypothèses de fait sur lesquelles le ministre s’est fondé en établissant sa cotisation;
+e) tout autre fait pertinent;
+f) les points en litige;
+g) les dispositions législatives invoquées;
+h) les moyens sur lesquels l’intimée entend se fonder;
+i) les conclusions recherchées[7].
+[14] Comme l’expose clairement le paragraphe 49(1) des Règles, la réponse comporte deux parties. Premièrement, les alinéas 49(1)a) à 49(1)e) des Règles exigent que l’intimée expose les faits. Cette première partie de la réponse comprend les faits admis et les faits niés par l’intimée, de même que les faits que l’intimée ne connaît pas et n’admet pas. Cela comprend les hypothèses de fait formulées par le ministre en établissant sa cotisation et tout autre fait pertinent invoqué par l’intimée à l’appui de la cotisation. Après avoir exposé tous les faits, l’intimée doit énoncer les points en litige (alinéa 49(1)f) des Règles).
+[15] Deuxièmement, les alinéas 49(1)g) et 49(1)h) des Règles exigent que l’intimée établisse un lien entre les faits et le texte législatif. Cette partie de la réponse énonce les dispositions législatives et les moyens sur lesquels l’intimée entend se fonder. Dans cette partie de la réponse, l’intimée a la possibilité d’exposer la manière dont le texte législatif s’applique aux faits invoqués dans la première partie de la réponse. L’intimée doit conclure la réponse en énonçant les conclusions recherchées (alinéa 49(1)i) des Règles).
+[16] Il serait peu logique de rédiger la réponse en présentant (a) un exposé des faits et du droit sous les « hypothèses » prévues à l’alinéa 49(1)d) des Règles, ainsi qu’un (b) énoncé des faits et du droit sous les « moyens » prévus à l’alinéa 49(1)h) des Règles. Comme l’a observé le juge en chef Rip à l’occasion de l’affaire Strother c. The Queen[8] :
+[traduction] [19] La forme de la réponse définie au paragraphe 49(1) des Règles cherche à éviter l’amalgamation des faits et du droit. Il faut d’abord exposer les faits, en application des alinéas 49(1)a)b)c) et e). L’alinéa 49(1)d) des Règles limite la réponse de l’intimée aux conclusions ou aux hypothèses de fait sur lesquelles le ministre s’est fondé pour établir sa cotisation; il s’agit uniquement des faits matériels. Les alinéas 49(1)f) à i) des Règles inclusivement confèrent à l’intimée le droit de plaider des questions décrites dans ces Règles. Cela se compare aux règles de pratique dans les provinces de common law, notamment l’Ontario et la Colombie-Britannique, ainsi que de la Cour fédérale, qui permettent de plaider des questions de droit si les fondements factuels ont été établis.
+[20] L’intimée soutient que l’article 49 des Règles ne fait qu’énoncer ce que la réponse doit comprendre et qu’il n’établit pas de structure précise. En d’autres termes, des conclusions de droit peuvent être intercalées dans les faits tout au long de la réponse, pour autant que les exigences de l’article 49 soient satisfaites. Retenir l’argument de l’intimée donnerait lieu à des actes de procédure incohérents et répétitifs, aussi difficiles et sources de frustration que ceux présentés dans le cadre de la présente requête.
+[17] Il incombe aux contribuables de réfuter, selon la prépondérance des probabilités, les hypothèses de fait – et seulement les hypothèses de fait – sur lesquelles le ministre s’est fondé pour établir la cotisation. Voilà pourquoi l’alinéa 49(1)d) des Règles exige que l’intimée expose, dans la première partie de sa réponse, « les conclusions ou les hypothèses de fait sur lesquelles le ministre s’est fondé en établissant sa cotisation ». En 2003, par l’arrêt Canada c. Anchor Pointe Energy Ltée[9], la Cour d’appel fédérale a avancé l’explication suivante :
+[23] Alléguer l’existence d’hypothèses confère comme avantage important à la Couronne de renverser le fardeau de preuve, de sorte que le contribuable doive réfuter les hypothèses du ministre. Les faits allégués comme hypothèses doivent être précis et exacts afin que le contribuable sache bien clairement ce qu’il lui faudra prouver[10].
+[18] Le contribuable n’a toutefois pas à aller plus loin et à réfuter les conclusions de droit ou les éléments juridiques des conclusions mélangées de droit et de fait du ministre. Comme l’a observé le président Thorson de la Cour de l’Échiquier dans l’affaire Goldman v. MNR[11] :
+[traduction] [...] Lorsque le contribuable conteste la validité factuelle d’une cotisation, il lui incombe de prouver que cette cotisation est erronée au regard des faits. Cependant, lorsque la validité de la cotisation est contestée au regard du droit, il n’est pas, à proprement parler, exact de dire qu’il incombe à l’appelant d’en établir la non-validité. En pareilles circonstances, le fardeau n’incombe en fait à aucune des deux parties, car, lorsque les faits ont été établis, il relève uniquement de la responsabilité de la cour de juger de la validité en droit de la cotisation. La cour doit trancher la question au regard du droit qui s’applique, sans tenir compte des observations des parties[12].
+[19] Dans l’arrêt Anchor Pointe, la Cour d’appel fédérale enseigne clairement que la Couronne ne peut énoncer des conclusions de droit sous le couvert d’hypothèses de fait :
+[25] J’estime également que les déclarations ou conclusions juridiques n’ont pas leur place dans l’énoncé des hypothèses de fait du ministre. Il en découlerait pour le contribuable le fardeau de réfuter une déclaration ou conclusion juridique et, bien sûr, cela ne doit pas être. Le critère juridique à appliquer n’a pas à être prouvé par les parties comme s’il s’agissait d’un fait. Les parties doivent présenter leurs arguments relativement au critère juridique, mais c’est à la Cour qu’il incombe en bout de ligne de trancher les questions de droit[13].
+[20] Pour la même raison, l’intimée ne peut énoncer une conclusion mélangée de droit et de fait à titre d’hypothèse de fait. Il est utile d’examiner la notion générale de « question mélangée de droit et de fait », telle qu’elle a été définie par le juge Iacobucci de la Cour suprême du Canada :
+En résumé, les questions de droit concernent la détermination du critère juridique applicable; les questions de fait portent sur ce qui s’est réellement passé entre les parties; et, enfin, les questions de droit et de fait consistent à déterminer si les faits satisfont au critère juridique. Un exemple simple permettra d’illustrer ces concepts. En droit de la responsabilité civile délictuelle, la question de savoir en quoi consiste la « négligence » est une question de droit. Celle de savoir si le défendeur a fait ceci ou cela est une question de fait. Une fois qu’il a été décidé que la norme applicable est la négligence, la question de savoir si le défendeur a respecté la norme de diligence appropriée est une question de droit et de fait. Toutefois, je reconnais que la distinction entre les questions de droit, d’une part, et celles de droit et de fait, d’autre part, est difficile à faire. Parfois, ce qui semble être une question de droit et de fait se révèle une question de droit, ou vice versa[14].
+[21] Dans l’arrêt Anchor Pointe, la Cour d’appel fédérale a expliqué le sens d’une « conclusion mixte de fait et de droit » à l’aide de l’exemple suivant :
+[8] En établissant de nouvelles cotisations, le ministre s’est fondé sur les hypothèses de fait suivantes :
+[...]
+z) Les données sismiques achetées par API, APII, APIII, APIV et APV ne sont pas admissibles au titre des frais d’exploration au Canada (« FEC ») au sens de l’alinéa 66.1(6)a) de la Loi de l’impôt sur le revenu (la « Loi »).
+[...]
+[26] [...] il serait plus exact de qualifier l’hypothèse formulée à l’alinéa 10z) de conclusion mixte de fait et de droit. La conclusion selon laquelle des données sismiques achetées ne sont pas admissibles au titre de FEC au sens de l’alinéa 66.1(6)a) requiert d’appliquer le droit aux faits. L’alinéa 66.1(6)a) énonce le critère à respecter pour qu’une déduction au titre de FEC soit admissible. Pour décider si l’achat de données sismiques en l’espèce satisfait à ce critère, il faut établir si les faits y satisfont ou non. Le ministre peut présumer les éléments de fait d’une conclusion mixte de fait et de droit. S’il souhaite le faire, toutefois, il devra extraire les éléments de fait présumés, de façon à ce que le contribuable sache exactement quelles hypothèses de fait il doit réfuter pour avoir gain de cause. Il ne convient pas que les faits présumés soient enfouis dans une conclusion mixte de fait et de droit[15].
+[22] En 2013, le même principe a été appliqué par une formation différente de la Cour d’appel fédérale à l’occasion de l’affaire Banque Canadienne Impériale de Commerce c. Canada[16] :
+[92] Il est bien établi que les conclusions de droit n’ont pas leur place dans l’énoncé des hypothèses de fait du ministre (Anchor Pointe (2003), au paragraphe 25), et que lorsque la cotisation faisant l’objet de l’appel est fondée sur une conclusion mélangée de fait et de droit, le ministre doit extraire les éléments de fait présumés et les énoncer en tant qu’hypothèses de fait (Anchor Pointe (2003) au paragraphe 26). Sa Majesté n’a pas respecté ces principes à de nombreux endroits de l’énoncé de ses hypothèses, et le juge n’a pas commis d’erreur en exigeant que les hypothèses soient révisées en conséquence[17].
+[23] Enfin, il n’appartient pas à la Cour d’extraire les faits enfouis dans une conclusion de droit et de fait – cette tâche incombe à l’intimée lorsqu’elle rédige sa réponse[18].
+VI. Les sous-alinéas controversés [24] J’énumérerai chacun des sous-alinéas controversés, tels qu’ils sont énoncés dans la réponse à l’avis d’appel de la Preston Family Trust. Mon raisonnement concernant la réponse à l’avis d’appel de la Preston Family Trust vaut également pour les deux autres réponses.
+A. John et Monika Preston ont continué d’être les bénéficiaires de la Preston Family Trust même après avoir cédé à la SRI leur participation au capital de cette fiducie familiale, et la SRI n’est jamais devenue une bénéficiaire de la fiducie familiale
+10. Au moment d’établir les nouvelles cotisations de l’appelante, le ministre s’est fondé, entre autres, sur les hypothèses de fait suivantes :
+[…]
+(h) durant toute la période en cause, les bénéficiaires de l’appelante étaient M. Preston, l’épouse de M. Preston (Mme Preston) et la descendance de M. Preston (collectivement, les « bénéficiaires »)[19];
+[…]
+(w) après la cession, M. et Mme Preston sont demeurés les bénéficiaires du revenu et du capital de l’appelante[20];
+[…]
+(aa) la SRI n’était pas une bénéficiaire de l’appelante[21];
+[…]
+(hh) la SRI n’était pas une bénéficiaire de l’appelante[22].
+[25] La thèse sur laquelle s’est fondé le ministre pour établir la cotisation, de même que celle de l’intimée en l’espèce, porte que John et Monika Preston ont continué d’être les bénéficiaires de la Preston Family Trust, même après avoir cédé à la SRI leur participation au capital de cette fiducie. Selon cette même thèse, la SRI n’est jamais devenue bénéficiaire de la Preston Family Trust. Chaque aspect de cette thèse reflète une conclusion mélangée de droit et de fait. De fait, l’intimée affirme que l’« observation » selon laquelle la SRI n’était pas une bénéficiaire est [traduction] « à la fois une hypothèse de fait et un argument juridique[23] ».
+[26] En plaidant des conclusions mélangées de droit et de fait comme étant des « hypothèses de fait sur lesquelles le ministre s’est fondé en établissant sa cotisation », l’intimée dit en quelque sorte aux appelants : « Il vous incombe de réfuter la thèse du ministre en l’espèce, notamment ses éléments de fait et de droit ». Or, comme nous l’avons vu précédemment, cela constitue un acte de procédure fautif – le contribuable n’a pas le fardeau de réfuter quelque élément juridique de la thèse du ministre.
+[27] Ces sous-alinéas seront radiés du paragraphe dans lequel sont énoncées les hypothèses, mais pourront figurer dans la réponse modifiée à titre de moyens sur lesquels l’intimée entend se fonder aux termes de l’alinéa 49(1)h) des Règles.
+B. Qui pourraient ou ne pourraient pas avoir été bénéficiaires de la Preston Family Trust
+10. Au moment d’établir les nouvelles cotisations de l’appelante, le ministre s’est fondé, entre autres, sur les hypothèses de fait suivantes :
+[…]
+(k) seules des personnes physiques pouvaient être les bénéficiaires de l’appelante[24];
+(l) les bénéficiaires de l’appelante ne pouvaient pas être des sociétés[25].
+[28] En d’autres termes, la loi limite les bénéficiaires potentiels de la Preston Family Trust à un certain groupe seulement. Il s’agit d’une conclusion mélangée de droit et de fait. Le fait de limiter l’application de cette conclusion de droit à la Preston Family Trust (les « bénéficiaires de l’appelante ») n’en fait pas une hypothèse de fait.
+[29] Ces sous-alinéas seront radiés du paragraphe énonçant les hypothèses, mais pourront figurer dans la réponse modifiée à titre de moyens sur lesquels l’intimée entend se fonder.
+C. L’étendue du pouvoir discrétionnaire des fiduciaires
+10. Au moment d’établir les nouvelles cotisations de l’appelante, le ministre s’est fondé, entre autres, sur les hypothèses de fait suivantes :
+[…]
+(o) les fiduciaires n’avaient pas le pouvoir discrétionnaire de modifier les termes de l’acte de la fiducie Preston ni d’ajouter de nouveaux bénéficiaires de l’appelante[26].
+[30] Dire que les fiduciaires de la Preston Family Trust avaient, ou n’avaient pas, le pouvoir discrétionnaire de modifier les termes de l’acte de la fiducie ou d’ajouter de nouveaux bénéficiaires de cette fiducie est une conclusion mélangée de droit et de fait.
+[31] Ce sous-alinéa sera radié du paragraphe énonçant les hypothèses, mais pourra figurer dans la réponse modifiée à titre de moyen sur lequel l’intimée entend se fonder.
+D. Utilisation de l’expression « versé [...] au profit de »
+10. Au moment d’établir les nouvelles cotisations de l’appelante, le ministre s’est fondé, entre autres, sur les hypothèses de fait suivantes :
+[…]
+(x) la SRI a reçu le bien distribué au profit de M. et Mme Preston; [27]
+[…]
+(ii) la SRI a reçu les dividendes imposables au profit de M. et Mme Preston[28];
+[…]
+(ll) la SRI a reçu les dividendes en capital au profit de M. et Mme Preston[29].
+[32] En droit fiscal canadien, le « propriétaire bénéficiaire » du revenu est assujetti à l’impôt sur ce revenu. Par exemple, si un créancier demande à un débiteur de verser des paiements d’intérêt à un tiers, ces paiements demeurent considérés comme un revenu du créancier aux fins de la Loi[30].
+[33] Ces sous-alinéas traduisent la conclusion du ministre selon laquelle John et Monika Preston, et non la SRI, étaient les « propriétaires bénéficiaires » du bien distribué de la Preston Family Trust. Il s’agit d’une conclusion mélangée de droit et de fait. Dans ce contexte, il convient de noter que l’intimée a fait valoir, à l’occasion de l’affaire Canada c. Prévost Car Inc.[31], que notre Cour avait fait une erreur de droit en donnant à l’expression « propriétaire bénéficiaire » le sens qu’a cette expression en common law, tout en faisant abstraction de son sens en droit civil et en droit international[32].
+[34] Ces sous-alinéas seront radiés du paragraphe énonçant les hypothèses, mais pourront figurer dans la réponse modifiée à titre de moyens sur lesquels l’intimée entend se fonder.
+E. Utilisation de certaines dispositions « déterminatives » de la Loi
+10. Au moment d’établir les nouvelles cotisations de l’appelante, le ministre s’est fondé, entre autres, sur les hypothèses de fait suivantes :
+[…]
+(y) l’appelante est réputée avoir distribué le bien distribué en faveur de M. et Mme Preston à sa juste valeur marchande (« JVM »)[33];
+(z) M. et Mme Preston sont réputés avoir reçu le bien distribué de l’appelante à sa JVM[34];
+[…]
+(jj) l’appelante est réputée avoir distribué les dividendes imposables à M. et Mme Preston[35];
+(kk) M. et Mme Preston sont réputés avoir reçu les dividendes imposables de l’appelante[36];
+[…]
+(mm) l’appelante est réputée avoir distribué les dividendes en capital à M. et Mme Preston[37];
+(nn) M. et Mme Preston sont réputés avoir reçu les dividendes en capital de l’appelante[38].
+[35] Comme l’a observé Ruth Sullivan dans Sullivan on the Construction of Statutes, 6e éd. (Markham: LexisNexis, 2014) une disposition déterminative crée une « fiction juridique » :
+[traduction] §4.106 Utilisation du mot « réputé » (ou « considéré » ou « est ») pour créer une fiction juridique.
+L’usage le plus important du mot « réputé » est de créer une fiction juridique; un fait donné « x » est déclaré être « y » ou doit être considéré comme étant « y » à certaines ou à toutes les fins. Une personne est réputée être célibataire même si elle est peut-être mariée; un avis est réputé être arrivé à une certaine date, sans qu’il soit tenu compte de la date réelle à laquelle il est arrivé; une disposition est réputée être entrée en vigueur à une certaine date, même si, en réalité, la loi n’était pas encore en vigueur à cette date. Bien que le législateur souverain ne puisse changer la réalité, il peut déclarer, à des fins juridiques, que la réalité doit être perçue différemment de ce qu’elle était ou de ce qu’elle est[39].
+[36] La description de l’effet des dispositions « déterminatives » de la Loi sur certains faits présumés constitue donc une conclusion mélangée de droit et de fait.
+[37] L’intimée soutient qu’il est utile de décrire, comme étant des hypothèses de fait, les effets des dispositions déterminatives de la Loi sur certains faits présumés, car cela donne aux appelants plus de précisions et un contexte plus détaillé[40]. C’est peut-être le cas, mais la conclusion formulée par le ministre après avoir appliqué les dispositions déterminatives de la Loi à certains faits présumés ne constitue pas, en soi, un fait présumé.
+[38] Ces sous-alinéas seront radiés du paragraphe énonçant les hypothèses, mais pourront figurer dans la réponse modifiée à titre de moyens sur lesquels l’intimée entend se fonder.
+F. Utilisation des expressions « juste valeur marchande », « prix de base rajusté », « gain en capital » et « gain en capital imposable »
+10. Au moment d’établir les nouvelles cotisations de l’appelante, le ministre s’est fondé, entre autres, sur les hypothèses de fait suivantes :
+[…]
+(bb) le 25 septembre 2014 :
+i) la juste valeur marchande (« JVM ») du bien distribué reçu par M. et Mme Preston était de 75 511 267 $, ce qui correspond à la somme de la JVM des actions de Holdco (67 979 759 $) et de la JVM de la participation dans la société de personnes (7 531 508 $);
+ii) le prix de base rajusté (« PBR ») du bien distribué reçu par M. et Mme Preston était de 25 046 400 $, ce qui correspond à la somme du PBR des actions de Holdco (24 900 100 $) et du PBR de la participation dans la société de personnes (146 300 $);
+iii) le gain en capital sur le bien distribué reçu par M. et Mme Preston était de 50 464 867 $, ce qui correspond à la somme du gain en capital sur les actions de Holdco (43 079 659 $) et du gain en capital sur la participation dans la société de personnes (7 385 208 $);
+iv) le gain en capital imposable sur le bien distribué reçu par M. et Mme Preston était de (25 232 433 $), ce qui correspond à la somme du gain en capital imposable sur les actions de Holdco (21 539 829 $) et du gain en capital imposable sur la participation dans la société de personnes (3 692 604 $).
+[39] La définition de « juste valeur marchande » qui est la plus souvent utilisée en matière fiscale est celle consacrée par le juge Cattanach à l’occasion de l’affaire Henderson Estate v. Canada (Minister of National Revenue)[41] :
+[traduction] La Loi ne donne aucune définition de l’expression « juste valeur marchande »; celle-ci a été définie de diverses façons, généralement selon ce qu’avait à l’esprit la personne cherchant à formuler la définition. Je ne crois pas nécessaire d’essayer de donner une définition précise de cette expression telle qu’employée dans la Loi; il suffit, me semble-t-il, de dire qu’il y a lieu de donner à ces mots leur sens ordinaire. Dans son sens courant, me semble-t-il, cette expression désigne le prix le plus élevé que le propriétaire d’un bien peut raisonnablement s’attendre à en tirer s’il le vend de façon normale et dans le cours ordinaire des affaires, le marché n’étant pas soumis à des tensions inhabituelles et étant constitué d’acheteurs disposés à acheter et des vendeurs disposés à vendre, qui n’ont entre eux aucun lien de dépendance et qui ne sont en aucune façon obligés d’acheter ou de vendre. J’ajouterais que cet exposé succinct de mon point de vue sur le sens à donner à l’expression « juste valeur marchande » comprend ce que j’estime être l’élément essentiel, soit un marché libre de toutes restrictions, où le prix est établi par le jeu de la loi de l’offre et de la demande entre des acheteurs et des vendeurs avertis et désireux d’acheter et de vendre. On voit que la définition donnée de l’expression « juste valeur marchande » vaut également pour l’expression « valeur marchande ». D’ailleurs, il n’est pas sûr que l’emploi du mot « juste » ajoute quoi que ce soit aux mots « valeur marchande »[42].
+[40] En appliquant le sens juridique de l’expression « juste valeur marchande » à certains faits présumés, le ministre a tiré une conclusion mélangée de droit et de fait. Il en va de même de sa conclusion concernant le « prix de base rajusté » des immobilisations distribuées par la Preston Family Trust. Selon l’article 54 de la Loi, le « prix de base rajusté » s’entend d’abord du « coût » de l’immobilisation pour le contribuable. Ce coût est ensuite rajusté en fonction des ajouts, des déductions et des nouveaux calculs, respectivement prévus aux paragraphes 53(1), 53(2) ainsi que 53(4) à 53(6) de la Loi. Le résultat net de ces rajustements prévus par la loi est le « prix de base rajusté ».
+[41] Le coût d’un bien est un fait et il est doit être plaidé comme une hypothèse de fait si le ministre a réellement présumé qu’il s’agissait d’un fait au moment d’établir la cotisation. En revanche, la conclusion formulée par le ministre, après avoir appliqué au coût de l’immobilisation les ajouts, déductions et nouveaux calculs prévus à l’article 53 de la Loi, ne constitue pas un fait.
+[42] L’intimée fait valoir qu’en tenant compte de la manière dont le ministre a appliqué le droit aux faits relatifs à la « juste valeur marchande » et au « prix de base rajusté », elle a tout simplement [traduction] « veillé à ce que la réponse explique correctement comment le ministre a établi la cotisation[43] ». La réponse doit expliquer comment le ministre a établi la cotisation, mais une explication de la manière dont le ministre a appliqué le droit aux faits présumés ne constitue pas, en soi, une hypothèse de fait. Il s’agit plutôt d’une conclusion mélangée de droit et de fait.
+[43] Ce sous-alinéa sera radié du paragraphe dans lequel sont énoncées les hypothèses, mais pourra être ajouté à titre de moyen sur lequel l’intimée entend se fonder.
+G. Calcul par le ministre de l’impôt à payer aux termes de la Loi
+10. Au moment d’établir les nouvelles cotisations de l’appelante, le ministre s’est fondé, entre autres, sur les hypothèses de fait suivantes :
+(qq) la retenue d’impôt au titre de la partie XIII, exigée à la fois de M. et de Mme Preston pour l’année d’imposition 2014, a été calculée en se basant sur les données suivantes : [44]
+Dividendes imposables
+6 400 000 $
+Dividendes en capital
+18 500 000 $
+Somme totale reçue de l’appelante
+24 900 000 $
+Parts égales (50 %) versées à John et à Monika Preston
+12 450 000 $
+Retenue d’impôt de la partie XIII (au taux de 15 %)
+1 867 500 $
+[44] Contrairement à ce soutient l’intimée, le calcul par le ministre de l’impôt exigible aux termes de la partie XIII de la Loi n’est pas une « hypothèse de fait » ni un « exposé des faits[45] ». Ce calcul représente le résultat, exprimé en dollars, de l’application par le ministre de la partie XIII de la Loi à certains faits présumés. Il ne peut être invoqué dans le paragraphe où sont énoncées les hypothèses de fait sur lesquelles s’est fondé le ministre pour établir la cotisation.
+[45] Le contenu de ce sous-alinéa sera radié du paragraphe énonçant les hypothèses, mais il pourra figurer dans la réponse modifiée à titre de moyen sur lequel l’intimée entend se fonder.
+H. Responsabilité à l’égard de l’impôt de la partie XIII selon la Loi
+10. Au moment d’établir les nouvelles cotisations de l’appelante, le ministre s’est fondé, entre autres, sur les hypothèses de fait suivantes :
+[…]
+(oo) il était de la responsabilité de M. et Mme Preston de retenir l’impôt de la partie XIII sur les dividendes imposables qu’ils ont reçus de l’appelante[46];
+(pp) il était de la responsabilité de M. et Mme Preston de retenir l’impôt de la partie XIII sur les dividendes en capital qu’ils ont reçus de l’appelante[47];
+[…]
+(rr) l’appelante était tenue de déduire ou de retenir l’impôt de la partie XIII exigible de M. et Mme Preston et de remettre cette somme à l’Agence du revenu du Canada;
+(ss) l’appelante était solidairement responsable de la retenue d’impôt prévue à la partie XIII à l’égard de M. et de Mme Preston;
+(tt) l’appelante est également devenue responsable d’une pénalité de 10 % sur l’impôt exigible au titre de la partie XIII.
+[46] Ces paragraphes exposent des conclusions mélangées de droit et de fait, car ils reflètent l’application par le ministre du droit aux faits. L’intimée a reconnu ce point et propose de modifier comme suit le libellé de ces paragraphes :
+10. Au moment d’établir les nouvelles cotisations de l’appelante, le ministre s’est fondé, entre autres, sur les hypothèses de fait suivantes :
+[…]
+(oo) M. et Mme Preston n’ont pas perçu ni versé la retenue d’impôt de la partie XIII sur les dividendes imposables qu’ils ont reçus de l’appelante[48];
+(pp) M. et Mme Preston n’ont pas perçu ni versé la retenue d’impôt de la partie XIII sur les dividendes en capital qu’ils ont reçus de l’appelante[49];
+[…]
+(rr) l’appelante n’a pas déduit ni retenu l’impôt exigible de M. et Mme Preston au titre de la partie XIII, ainsi qu’il est indiqué au paragraphe 10(qq) précité;
+(ss) [supprimé]
+(tt) [supprimé]
+[47] Les concessions faites par l’intimée sont retenues, à l’exception de la modification proposée du sous-alinéa 10(rr). Premièrement, ce sous-alinéa énonce toujours une conclusion mélangée de droit et de fait, car il présume que John et Monika Preston sont assujettis à l’impôt aux termes de la partie XIII. Deuxièmement, comme l’ancienne version du sous-alinéa 10(qq) n’énonce pas une hypothèse de fait, on ne peut y faire référence en ces termes dans la version modifiée du sous-alinéa 10(rr).
+[48] Le sous-alinéa 10(rr) sera donc modifié afin de mentionner uniquement les faits présumés par le ministre. L’intimée apportera les modifications suivantes :
+10. Au moment d’établir les nouvelles cotisations de l’appelante, le ministre s’est fondé, entre autres, sur les hypothèses de fait suivantes :
+[…]
+(rr) l’appelante n’a pas déduit ni retenu l’impôt de la partie XIII exigible sur les dividendes imposables ou les dividendes en capital.
+VII. Quelques observations en guise de conclusion [49] L’intimée a la possibilité, dans chaque réponse, d’expliquer pourquoi la cotisation en litige est justifiée en droit. Cette possibilité est prévue par l’alinéa 49(1)h) des Règles qui exige que chaque réponse comprenne les moyens sur lesquels l’intimée entend se fonder[50]. L’intimée ne peut invoquer des conclusions de droit ou des éléments juridiques de conclusions mélangées de droit et de fait dans le paragraphe énonçant les hypothèses, même si le ministre les avait à l’esprit lorsqu’il a établi la cotisation.
+[50] Si les hypothèses invoquées par l’intimée se limitent aux hypothèses de fait sur lesquelles s’est fondé le ministre pour établir la cotisation, les contribuables seront-ils pleinement informés de la position juridique de l’intimée avant l’instruction? Oui, bien sûr. Les moyens de fait opposés au contribuable (et qu’il incombe au contribuable de réfuter) doivent être présentés dans la partie de la réponse où sont énoncées les hypothèses de fait sur lesquelles le ministre s’est fondé pour établir la cotisation. Les éléments de droit opposés au contribuable (et que le contribuable n’a pas à réfuter) doivent être présentés dans la partie de la réponse où sont décrits les moyens sur lesquels l’intimée entend se fonder. Bien qu’il ne soit pas toujours possible de disjoindre aussi nettement les moyens de fait des moyens de droit, ceux qui rédigent les réponses au nom de l’intimée doivent tenter de le faire dans la mesure du possible, compte tenu des circonstances.
+[51] Enfin, les appelants seront tenus, lors de l’instruction, de prouver les allégations de fait invoquées dans leur avis d’appel dans la mesure où l’intimée ne les admet pas (ou n’est pas réputée les admettre conformément au paragraphe 49(2) des Règles)[51]. Les présentes requêtes ne modifient en rien cela. Le juge Bowman (tel était alors son titre) nous rappelle cela à l’occasion de l’affaire The Cadillac Fairview Corporation Limited v. The Queen[52] :
+[traduction] L’appelante affirmait que les paiements avaient été faits en application des garanties, mais cette allégation a été rejetée. L’avocat de l’appelante a fait valoir qu’il incombait au ministre d’établir que les paiements n’avaient pas été faits en application des garanties, puisque le ministre n’a pas plaidé que c’était ce qu’il « présumait ». S’il ne s’agit pas d’une pure question de droit, il s’agit tout au moins d’une question mélangée de droit et de fait. Quoi qu’il en soit, l’hypothèse de base qui a été formulée au moment d’établir la cotisation était que l’appelante n’avait pas droit à la déduction demandée pour perte en capital et qu’il lui incombait de prouver les divers éléments de droit donnant droit à la déduction demandée. Dans les appels en matière d’impôt sur le revenu, les questions portant sur le fardeau de la preuve et sur la recherche de ce que le ministre pourrait ou non avoir « présumé » occasionnent des pertes de temps considérables. Je ne crois pas que la jurisprudence Minister of National Revenue v. Pillsbury Holdings Ltd. [1964] C.T.C. 294, [1964] D.T.C. 5184, ait complètement modifié les règles ordinaires de pratique et les actes de procédure. La règle générale – et je ne vois aucune raison pour laquelle elle ne devrait pas s’appliquer dans les appels en matière d’impôt sur le revenu – est celle énoncée dans le traité d’Odgers, intitulé Principles of Pleading and Practice, 22e édition, à la page 532 :
+Le « fardeau de la preuve » désigne l’obligation pour une partie d’établir le bien-fondé de sa cause. Ce fardeau incombe à la partie A, chaque fois que celle-ci doit présenter des éléments de preuve ou qu’un jugement est prononcé à son encontre. En règle générale (mais pas toujours), le fardeau incombe à la partie qui, dans son acte de procédure, affirme la question en litige, car il est généralement impossible de prouver ce que l’on nie. La preuve incombe à celui qui affirme, et non à celui qui nie. C’est généralement, mais pas nécessairement, la partie qui soulève la première la question en litige qui fait l’affirmation. Par conséquent, il incombe généralement au requérant de démontrer chacun des faits invoqués dans la déclaration, et au défendeur de prouver tous les faits qu’il a plaidés par voie d’acquiescement et d’évitement, tels que la fraude, l’exécution, la renonciation, la résiliation, etc.
+VIII. Décision [52] L’intimée doit déposer et signifier des réponses modifiées dans un délai de 30 jours. Les hypothèses qui peuvent être formulées dans chacune de ces réponses modifiées sont énoncées dans une annexe jointe à chaque ordonnance[53].
+[53] Les requérants pourront déposer et signifier des répliques modifiées dans les 30 jours suivant la date de signification des réponses modifiées de l’intimée.
+[54] Les dépens suivront l’issue de la cause.
+Signé à Ottawa, Canada, ce 10e jour de novembre 2021.
+« David E. Spiro »
+Le juge Spiro
+Traduction certifiée conforme
+ce 2e jour d’août 2022.
+François Brunet, réviseur
+RÉFÉRENCE :
+2021 CCI 79
+NOS DES DOSSIERS DE LA COUR :
+2020-641(IT)G, 2020-642(IT)G et 2020‑643(IT)G
+INTITULÉ :
+THE PRESTON FAMILY TRUST II c. LA REINE
+JOHN PRESTON c. LA REINE
+MONIKA PRESTON c. LA REINE
+LIEU DE L’AUDIENCE :
+S.O.
+DATE DE L’AUDIENCE :
+Requêtes des requérants tranchées sur observations écrites
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge David E. Spiro
+DATE DES ORDONNANCES MODIFIÉES :
+Le 15 novembre 2021
+COMPARUTIONS :
+Avocats des requérants :
+Me Yves St-Cyr et Me Jacob Yau
+Avocat de l’intimée :
+Me Rishma Bhimji
+AVOCATS INSCRITS AU DOSSIER :
+Pour les requérants :
+Nom :
+Me Yves St-Cyr et Me Jacob Yau
+Cabinet :
+Dentons Canada S.E.N.C.R.L.
+Toronto (Ontario)
+Pour l’intimée :
+François Daigle Sous-procureur général du Canada Ottawa, Canada
+[2] Dire que le « ministre » formule les conclusions ou hypothèses de fait qui sous-tendent la cotisation relève de la fiction juridique. Le ministre agit par l’intermédiaire d’agents dûment autorisés de l’Agence du revenu du Canada qui formulent les conclusions ou hypothèses de fait au moment d’établir une cotisation. Cependant, par souci de commodité et de cohérence, nous disons que c’est le « ministre » qui le fait.
+[3] La Preston Family Trust demande à la Cour de radier 23 des 46 sous-alinéas du paragraphe dans lequel sont énoncées les hypothèses formulées par l’intimée dans sa réponse à son avis d’appel. John et Monika Preston demandent tous les deux à la Cour de radier 19 des 42 sous-alinéas du paragraphe dans lequel sont énoncées les hypothèses formulées par l’intimée dans sa réponse à leur avis d’appel.
+[4] DORS/90-688.
+[5] M. Elena Hoffstein et Corina S Weigl. « Overview of the Twenty One Year Rule – A Trust Lawyer’s Perspective », dans 2014 Ontario Tax Conference (Toronto: Canadian Tax Foundation, 2014), 7:1-62, p. 47. Cet extrait comprend un renvoi à un article de Tim Youdan, « Planning to Deal with the 21-Year Deemed Disposition Rule », paru dans 2008 Ontario Tax Conference (Toronto: Canadian Tax Foundation, 2008), 4:1-16.
+[6] Les deux enfants de John Preston étaient les autres bénéficiaires non résidents de la Preston Family Trust.
+[7] Le paragraphe 49(1) des Règles a été appliqué à tous les appels qui ont été interjetés auprès de notre Cour après le 31 décembre 1990. Avant cette date, les Règles n’exigeaient pas que la réponse énonce « les conclusions ou les hypothèses de fait sur lesquelles le ministre s’est fondé en établissant sa cotisation », même si elles y généralement, mais pas toujours, mentionnées.
+[8] 2011 TCC 251, par. 19 et 20.
+[9] 2003 CAF 294 [Anchor Pointe].
+[10] Ibid., par. 23. Lorsque la Cour d’appel fédérale parle de ce qu’il « faudra prouver », elle renvoie aux questions de fait que le contribuable doit établir. Dans l’arrêt Anchor Pointe, la Cour d’appel fédérale n’a pas donné à l’intimée carte blanche pour invoquer à titre d’hypothèses de fait tout – notamment des conclusions de droit et les éléments juridiques de conclusions mélangées de droit et de fait – ce que le ministre avait à l’esprit au moment d’établir la cotisation. Ces éléments doivent être plaidés ailleurs dans la réponse.
+[11] [1951] CTC 241, 51 DTC 519.
+[12] Ibid., p. 247, 248, 522 et 523.
+[13] Anchor Pointe, précité, note 9, par. 25.
+[14] Canada (Directeur des enquêtes et recherches) c. Southam Inc., [1997] 1 RCS 748, par. 35.
+[15] Anchor Pointe, précité, note 9, par. 8 et 26.
+[16] 2013 CAF 122 [Banque Canadienne Impériale de Commerce]. Dans Banque Canadienne Impériale de Commerce, le tribunal était formé des juges Evans, Sharlow et Stratas. Dans Anchor Pointe, le tribunal était constitué des juges Linden, Rothstein et Sexton.
+[17] Ibid., par. 92.
+[18] Gerbro Holdings Company c. La Reine, 2016 CCI 173, par. 68, conf. par 2018 CAF 197.
+[19] Réponse à l’avis d’appel de John Preston au sous-alinéa 10(h) [réponse à John Preston]. Réponse à l’avis d’appel de Monika Preston au sous-alinéa 10(h) [réponse à Monika Preston].
+[20] Réponse à John Preston au sous-alinéa 10(w). Réponse à Monika Preston au sous-alinéa 10(w).
+[21] Réponse à John Preston au sous-alinéa 10(aa). Réponse à Monika Preston au sous-alinéa 10(aa).
+[22] Réponse à John Preston au sous-alinéa 10(gg). Réponse à Monika Preston au sous-alinéa 10(gg).
+[23] Observations écrites de l’intimée, au paragraphe 7.
+[24] Réponse à John Preston au sous-alinéa 10(k). Réponse à Monika Preston au sous-alinéa 10(k).
+[25] Réponse à John Preston au sous-alinéa 10(l). Réponse à Monika Preston au sous-alinéa 10(l).
+[26] Réponse à John Preston au sous-alinéa 10(o). Réponse à Monika Preston au sous-alinéa 10(o).
+[27] Réponse à John Preston au sous-alinéa 10(x). Réponse à Monika Preston au sous-alinéa 10(x).
+[28] Réponse à John Preston au sous-alinéa 10(hh). Réponse à Monika Preston au sous-alinéa 10(hh).
+[29] Réponse à John Preston au sous-alinéa 10(kk). Réponse à Monika Preston au sous-alinéa 10(kk).
+[30] Voir Curragh Inc. v. The Queen, [1995] 1 CTC 2163, 94 DTC 1894.
+[31] 2009 CAF 57.
+[32] Ibid., par. 7.
+[33] Réponse à John Preston au sous-alinéa 10(y). Réponse à Monika Preston au sous-alinéa 10(y).
+[34] Réponse à John Preston au sous-alinéa 10(z). Réponse à Monika Preston au sous-alinéa 10(z).
+[35] Réponse à John Preston au sous-alinéa 10(ii). Réponse à Monika Preston au sous-alinéa 10(ii).
+[36] Réponse à John Preston au sous-alinéa 10(jj). Réponse à Monika Preston au sous-alinéa 10(jj).
+[37] Réponse à John Preston au sous-alinéa 10(ll). Réponse à Monika Preston au sous-alinéa 10(ll).
+[38] Réponse à John Preston au sous-alinéa 10(mm). Réponse à Monika Preston au sous-alinéa 10(mm).
+[39] Voir Canada (Procureur Général) c. Scarola, 2003 CAF 157, par. 19 à 21 et Sero c. Canada, 2004 CAF 6, par. 39 à 41.
+[40] Observations écrites de l’intimée, aux paragraphes 16 et 17.
+[41] [1973] CTC 636, 73 DTC 5471.
+[42] Ibid., p. 644 et 5476.
+[43] Observations écrites de l’intimée, au paragraphe 13.
+[44] Réponse à John Preston au sous-alinéa 10(pp). Réponse à Monika Preston au sous-alinéa 10(pp).
+[45] Observations écrites de l’intimée au paragraphe 23 et lettre de l’intimée datée du 8 novembre 2021.
+[46] Réponse à John Preston au sous-alinéa 10(nn). Réponse à Monika Preston au sous-alinéa 10(nn).
+[47] Réponse à John Preston au sous-alinéa 10(oo). Réponse à Monika Preston au sous-alinéa 10(oo).
+[48] Réponse à John Preston au sous-alinéa 10(nn). Réponse à Monika Preston au sous-alinéa 10(nn). La concession faite par l’intimée s’applique également à ces sous-alinéas.
+[49] Réponse à John Preston au sous-alinéa 10(oo). Réponse à Monika Preston au sous-alinéa 10(oo). La concession faite par l’intimée s’applique également à ces sous-alinéas.
+[50] On ne doit pas sous-estimer l’importance de la section « moyens » de la réponse. Voir, par exemple, l’arrêt Canada c. Pomeroy Acquireco Ltd., 2021 CAF 187, où la Cour d’appel fédérale a conclu que l’intimée avait le droit de déposer une réponse modifiée afin notamment d’ajouter l’argument du trompe-l’œil aux motifs que l’intimée entendait invoquer. La modification proposée est énoncée au paragraphe 17 de Pomeroy Acquireco Ltd. c. La Reine (2020 CCI 107).
+[51] Voir Eisbrenner c. Canada, 2020 CAF 93. Voir, plus précisément, les motifs formulés par la Cour d’appel fédérale au paragraphe 48 :
+En l’espèce, si, comme l’a prétendu M. Eisbrenner, les faits qu’il a invoqués dans son avis d’appel ne sont pas pertinents et que seules les hypothèses de fait formulées par le ministre le sont, pourquoi les Règles générales de la CCI disposeraient-elles que l’appelant doit énumérer les faits pertinents qui servent de fondement à son appel? Le fait qu’il soit précisé dans la formule 21(1)a) des Règles générales de la CCI que l’appelant doit, dans son avis d’appel, « [é]numérer les faits pertinents qui servent de fondement à l’appel » étaye la conclusion selon laquelle, dans une instance devant la Cour canadienne de l’impôt, le principe général portant que « [c]elui qui réclame l’exécution d’une obligation doit la prouver » s’applique encore. Il est tout à fait logique que l’appelant, qui se fonde sur plusieurs faits pertinents, ait le fardeau de les prouver. Étant donné que M. Eisbrenner et M. Morrison ont fait valoir qu’ils avaient la propriété des produits pharmaceutiques, le fardeau de le prouver selon la norme de preuve civile – la prépondérance des probabilités – doit leur incomber.
+[52] [1996] 2 CTC 2197, p. 2202, 97 DTC 405, p. 407, note de bas de page 2.
+[53] Plusieurs de ces hypothèses auraient pu être contestées avec succès par les requérants, mais elles ne l’ont pas été dans les présentes requêtes. Ces hypothèses que l’on peut qualifier de lacunaires seront accueillies, eu égard à l’importante observation formulée par la Cour d’appel fédérale au paragraphe 94 de l’arrêt Banque Canadienne Impériale de Commerce, précité, note 16, selon laquelle il est raisonnable, dans certains cas, de laisser en l’état un acte de procédure qui présente certaines lacunes. Il s’agit de l’un de ces cas.

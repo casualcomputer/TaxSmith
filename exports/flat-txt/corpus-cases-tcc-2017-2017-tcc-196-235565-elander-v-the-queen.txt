@@ -1,0 +1,136 @@
+Title: Elander v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/235565/index.do
+Corpus path: corpus/cases/tcc/2017/2017-tcc-196-235565-elander-v-the-queen.md
+Document type: case_law
+Last modified: 2017-09-28
+
+# Elander v. The Queen
+
+- Citation: 2017 TCC 196
+- Decision date: 2017-09-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2212, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Elander v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-09-28
+Neutral citation
+2017 TCC 196
+File numbers
+2011-3409(IT)G, 2011-3775(IT)I
+Judges and Taxing Officers
+Frank J. Pizzitelli
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-3409(IT)G
+BETWEEN:
+HEATHER ELANDER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeal of Heather Elander, 2011-3775(IT)I, on September 20, 2017,
+at Kelowna, British Columbia
+Before: The Honourable Justice F.J. Pizzitelli
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Whitney Dunn
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act with respect to the Notice of Assessment #1083997, dated July 9, 2010 is dismissed with costs to the Respondent.
+Signed at Ottawa, Canada, this 28th day of September 2017.
+“F.J. Pizzitelli”
+Pizzitelli J.
+Docket: 2011-3775(IT)I
+BETWEEN:
+HEATHER ELANDER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeal of Heather Elander, 2011-3409(IT)G, on September 20, 2017,
+at Kelowna, British Columbia
+Before: The Honourable Justice F.J. Pizzitelli
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Whitney Dunn
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act with respect to the Notice of Assessment #834186, dated January 6, 2010 is dismissed.
+Signed at Ottawa, Canada, this 28th day of September 2017.
+“F.J. Pizzitelli”
+Pizzitelli J.
+Citation: 2017 TCC 196
+Date: 20170928
+Dockets: 2011-3409(IT)G
+2011-3775(IT)I
+BETWEEN:
+HEATHER ELANDER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Pizzitelli J.
+[1] These two appeals under the Income Tax Act (the “ITA”) were heard at the same time and on common evidence. There is also before me an appeal under the Excise Tax Act ( the “ETA”) involving the same Appellant in file 2011‑3776(GST)I which the Appellant requested be heard separately and which was so heard and an oral decision rendered.
+[2] Both these income tax appeals deal with assessments against the Appellant for the transfer of property to her from her tax debtor husband, R. Elander, pursuant to subsection 160(1) of the ITA. In both appeals R. Elander, a lawyer, was a tax debtor owing more than $500,000.00 in taxes, penalties and interest assessed or reassessed in respect of the 1999, 2000 to 2005 inclusive and 2007 taxation years at the time he deposited funds in either the Appellant’s joint and several bank account with him or the Appellant’s own bank accounts. In appeal No. 2011-3409(IT)G, the Minister of National Revenue (the “Minister”) assumes the said tax debtor transferred funds to her totalling $61,960.71; $47,933.41 of which went to their joint bank account during the period from January, 2003 to January, 2007 and $14,027.30 of which went to the Appellant’s individual bank account during the period from November 1, 2007 to January 31, 2008, while he was a tax debtor. In appeal No. 2011-3775(IT)I, the Minister assumes he transferred funds totalling $9,285.00 between January, 2002 and May, 2003 to the Appellant’s individual bank account.
+[3] Subsection 160(1) of the ITA is a provision that places joint and several liability on a transferor and transferee of property where property is transferred by a transferor, who is liable to pay tax, and the transferee is a spouse. The amount of joint and several liability is generally the amount by which the fair market value of the property transferred exceeds the value of any consideration received at the time of the transfer but it cannot be more than the actual tax debt of the transferor. See Livingston v The Queen, 2008 FCA 89, 2008 DTC 6233.
+[4] It is also established law, not disputed by any of the parties, that a taxpayer assessed under such provision may generally dispute the transferor’s underlying tax liability.
+[5] It should be noted that the Appellant conceded at the beginning of the trial that she was not disputing the underlying assessments against her husband who did not appeal final reassessments against him. The Appellant’s only position taken at trial with respect to any over-assessment is that the Respondent over‑assessed her by $9,500.00 with respect to the 2011‑3409(IT)G appeal on the basis her husband immediately withdrew the funds he transferred on the same day to pay bills relating to her husband’s law practice. The Appellant also takes the position that in both income tax appeals there was consideration for the transfers. There was no dispute that she was married to the tax debtor and that he otherwise transferred funds to the bank accounts above referenced.
+[6] In dealing with the over-assessment issue of $9,500.00, the evidence of the Appellant’s husband, the tax debtor, is that on December 26, 2006 he received a cheque for $9,499.40 and deposited it into their joint bank account and on the same day withdrew $9,000.00 to pay his law firm bills and $500.00 for himself. Entries for these figures only, without further particulars, are evidenced on the bank statement tendered into evidence and the transaction record that shows a money order or draft was issued for $9,000.00 and cash received was $500.00.
+[7] There is no evidence other than the transferor’s oral evidence that he immediately used $9,000.00 of the transferred funds to pay his law firm bills. He testified he was having problems with the Canada Revenue Agency (the “CRA”) and wanted to avoid depositing his fees cheque in his law firm account for fear funds would not be accessible and so deposited them in the joint account and applied them to pay law firm bills. No copy of the money order or draft were put into evidence nor were details given as to who issued the cheque deposited or to whom was the draft or money ordered paid to and how one draft or money order would pay the plural bills. There is simply no evidence to corroborate the Appellant’s contention.
+[8] While the Respondent led no documentary evidence that would rebut the oral evidence of the Appellant’s witness, relying on cross-examination only, the Respondent elicited a great deal of convincing evidence that rendered the transferor’s credibility totally unreliable, which included evidence he was charged and convicted on 14 counts of mortgage fraud as a lawyer in Alberta and disbarred; was earlier cited and suspended from practice for four (4) months by the Law Society of Alberta for failure to keep proper records and provide requested information and that he repeatedly failed to provide requested general ledgers and financial information to the CRA during his audits leading to the unchallenged reassessments against him. I also found his testimony to be vague at trial. In these circumstances, I am not prepared to accept his testimony as credible on the issue without further corroborating evidence and none was tendered. Accordingly, it is not necessary for me to consider whether such funds could be said to be exempt from being transferred to the Appellant.
+[9] In Livingston above, the Federal Court of Appeal stated at paragraph 21:
+The deposit of funds into another person's account constitutes a transfer of property. To make the point more emphatically, the deposit of funds by Ms. Davies into the account of the respondent permitted the respondent to withdraw those funds herself anytime. The property transferred was the right to require the bank to release all the funds to the respondent….
+[10] Moreover, at paragraph 24 of Livingston, Sexton J.A stated:
+The trial judge emphasized in his reasons that the respondent ultimately received no monetary benefit. The respondent argues that this is a critical factor in considering whether there has been a transfer of property. In my opinion it is irrelevant whether or not the respondent ultimately received a "benefit." It does not matter that the funds went back to Ms. Davies. The respondent certainly received property at the time of transfer which is the relevant time for the purposes of subsection 160(1). That the money happened to go back to Ms. Davies in the end is not sufficient to reverse the triggering of the provision. As was stated by this Court in Heavyside, supra at paragraph 9:
+Once the conditions of subsection 160(1) are met... the transferee becomes personally liable to pay the tax determined under that subsection ... That liability arises at the moment of the transfer ... and is joint and several with that of the transferor. The Minister may "at any time" thereafter assess the transferee (subsection 160(2)) and the transferee's joint liability will only disappear with a payment made by her or by the transferor in accordance with subsection 160(3)). [Emphasis added.]
+[11] While having regard to the above provisions of the Livingston case, it is I suppose, possible to argue that in a situation where the transferee was not permitted or able to withdraw funds deposited into his or her account due to the fact they were immediately withdrawn after deposit for the transferor’s exclusive use would not fall within the rationale of the Federal Court of Appeal’s decision in Livingston above; but as I cannot find the Appellant’s position factually credible there is no need to address that issue here.
+[12] With respect to the Appellant’s main argument that she gave consideration for the multiple transfers of funds to her respective accounts in both tax appeals, I simply cannot agree. The Appellant’s position is that before she married her husband in 2003, they discussed financial contribution to living expenses including the payment of mortgages for the houses they would live in. The Appellant held sole title to the homes they occupied throughout the periods in question, first in Alberta then in British Columbia. The Appellant testified that her husband was starting a new practice of law and would need funds to do so, so it was agreed she would put all her earnings towards living expenses, the largest expense being the mortgage on the family home, and that he was to contribute $1,000.00 per month if able. The evidence the Appellant led was that he contributed far less than her each year and certainly less than her for the 2001 to 2004 years anyway when comparative deposits were submitted by the Appellant. In essence, the Appellant argues that the consideration given for his agreement to deposit $1,000.00 a month towards living expenses was her agreeing to deposit all her earnings towards such expenses.
+[13] Certainly, based on her earnings from 2001 to 2008 versus the transfers found to be made by her husband to her, she appears to have contributed over twice as much to family expenses. There was of course no evidence submitted as to what funds the husband may have directly contributed to the arrangement without going through the joint or her sole account. After all, he was reassessed a tax liability in excess of $500,000.00 for the same period so one can reasonably assume he had the means.
+[14] Regardless of the levels of different contributions however, the Federal Court of Appeal in Yates v The Queen, 2009 FCA 50, 2009 DTC 5062, made clear two important points: firstly, that the nature of expenses incurred with the transferred funds, such as household, mortgage or other family expenses are irrelevant to the determination of whether there was a transfer and secondly, that allowing a husband to live in the family residence is not considered the provision of consideration at fair market value.
+[15] As required in Livingston and Yates, there must be proof at the time of each transfer that consideration was given. There was no such proof here and merely agreeing in advance to pay more of the family living expenses than your spouse over a period of time, does not constitute giving fair market consideration at the time of each transfer.
+[16] Let me say that I can understand the concerns of the Appellant and even all still married couples, or formerly married couples, of having to deal with losing the benefit of prior transfers intended and used for family expenses during their marriage pursuant to moral and even legal obligations to support each other and children under provincial family laws; particularly when payments ordered by a Court between no longer married couples living separate and apart may be exempted when paid under subsection 160(4) of the ITA. Having to repay such amounts may be harsh in certain circumstances and spouses may be left to wonder why the need to preserve the value of existing assets of a taxpayer for collection by the CRA as the rationale for section 160 should take precedence over a family’s essential needs, but amendments to legislation including to section 160 are the purview of Parliament, not the Courts.
+[17] The appeals are dismissed with costs to the Respondent on the General procedure file only bearing Court File No. 2011-3409(IT)G.
+Signed at Ottawa, Canada, this 28th day of September 2017.
+“F.J. Pizzitelli”
+Pizzitelli J.
+CITATION:
+2017 TCC 196
+COURT FILE NOs.:
+2011-3409(IT)G
+2011-3775(IT)I
+STYLE OF CAUSE:
+HEATHER ELANDER AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Kelowna, British Columbia
+DATE OF HEARING:
+September 20, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice F.J. Pizzitelli
+DATE OF JUDGMENT:
+September 28, 2017
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Whitney Dunn
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+n/a
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

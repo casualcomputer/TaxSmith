@@ -1,0 +1,264 @@
+---
+title: "Gebhardt v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27407/index.do"
+last_modified: "2006-12-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 691"
+citation2: ""
+neutral_citation: "2006 TCC 691"
+decision_date: "2006-12-21"
+language: "en"
+item_id: "27407"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 229
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:26:41.263000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3e170618752f6c80fdfe55d6658599e010bec4cfeff6fba49a1859a4a2435d45"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gebhardt v. The Queen
+
+- Citation: 2006 TCC 691
+- Decision date: 2006-12-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 229, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gebhardt v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-12-21
+Neutral citation
+2006 TCC 691
+File numbers
+2006-478(IT)I
+Judges and Taxing Officers
+Terrence O'Connor
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-478(IT)I
+BETWEEN:
+KRISTA H. GEBHARDT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on December 14, 2006 at Kitchener, Ontario
+Before: The Honourable Justice T. O'Connor
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Ifeanyi Nwachukwu
+Ryan Hall
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2000 taxation year is allowed on the basis that the business loss to be allowed is $16,549 and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment accordingly.
+The appeals for the 2001 and 2002 taxation years are dismissed.
+The whole in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 21st day of December, 2006.
+"T. O'Connor"
+O'Connor, J.
+Citation: 2006TCC691
+Date: 20061221
+Docket: 2006-478(IT)I
+BETWEEN:
+KRISTA H. GEBHARDT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+O'Connor, J.
+[1] This appeal was heard in Kitchener, Ontario on December 14, 2006. It concerns the disallowance by the Minister of National Revenue ("Minister") of several claimed business losses of the Appellant in the years 2000, 2001 and 2002.
+[2] The basic facts are set forth in the following paragraphs of the Reply to the Notice of Appeal ("Reply"):
+10. In computing her income, the Appellant reported employment income in the amounts of $ 25,994, $ 19,939 and $ 49,842 for the 2000, 2001 and 2002 taxation years. She also claimed business losses in the amounts of $ 21,850, $ 8,953 and $16,613 respectively as follows:
+K's renovations
+Taxation year
+2000
+Gross business income reported
+$ -
+Less: business expenses claimed
+$ 21,850.00
+Net business loss
+$ (21,850.00)
+Krista's travel
+Taxation year
+2001
+Gross business income reported
+$ -
+Less: business expenses claimed
+$ (8,953.88)
+Net business loss
+$ (8,953.88)
+Krista's Family Affairs
+Taxation year
+2002
+Gross business income reported
+$ -
+Less: business expenses
+$ (16,613.00)
+Net business loss
+$ (16,613.00)
+11. By Notices of Assessment dated April 26, 2001, April 29, 2002 and April 7, 2003, the Minister initially assessed as filed the Appellant's income tax liability for the 2000, 2001 and 2002 taxation years respectively.
+12. By Notices of Reassessment dated April 1, 2004, the Minister reassessed the Appellant's income tax liability for the 2000, 2001 and 2002 taxation years by disallowing business expenses respectively in the amounts of $ 19,950, $ 8,479 and $ 15,938 as shown in the attached Schedule A.
+[Schedule A is as follows:]
+Taxation year 2000
+Expenses
+Claimed in income tax returns
+Vouched
+Disallowed
+Travel expense
+$ 1,950
+$ 279
+$ 1,950
+Motor Vehicle expense
+$ 4,350
+$ 2,883
+$ 3,350
+Other expense
+$ 14,650
+$ 14,397
+$ 14,650
+Total
+$ 19,950
+Taxation year 2001
+Motor vehicle expense
+$ 7,279
+$ 7,245
+$ 7,279
+Promotion/other expense
+$ 1,200
+$ 1,713
+$ 1,200
+Total
+$ 8,479
+Taxation year 2002
+Promotion/other expense
+$ 15,938
+$ 64,716
+$ 15,938
+13. The Appellant served on the Minister a Notice of Objection dated June 25, 2004 in regard to the Notices of Reassessment dated April 1, 2004 ...
+14. By Notice dated May 31, 2005, the Minister confirmed the Notices of Reassessment dated April 1, 2004.
+15. In confirming the Appellant's income tax liability for the 2000, 2001 and 2002 taxation years, the Minister made the following assumptions of fact:
+(a) the Appellant attempted to start an alleged renovating business in 2000 under the name of K's renovations;
+(b) the Appellant renovated her home during the year 2000;
+(c) the Appellant provided one receipt in the amount of $279 to support her travel expenses for the 2000 taxation year;
+(d) the Appellant claimed 33% of her total car costs plus an allowance based on a cents-per-kilometre basis as vehicle expenses for the year 2000;
+(e) the Appellant included kilometres incurred in 1999 in her claim as vehicle expenses during the year 2000;
+(f) the Appellant used her vehicle to travel from Toronto to Hamilton to go to her employment;
+(g) the other expenses claimed by the Appellant during the year 2000 included renovations costs of $ 7,325 and promotional items of $ 7,325;
+(h) the Appellant claimed hotel charges in the amount of $ 3,425 as other expenses for having to temporarily move out from her house during the 2000 taxation year;
+(i) the Appellant claimed fees for carpet for her home in the amount of $ 5,879 as other expenses during the 2000 taxation year;
+(j) the balance of the other expenses in the amount of $ 5,593 claimed in 2000 were for painters and receipt from Home Depot in relation to the renovation of the Appellant's home;
+(k) the Appellant attempted to start an alleged tour bus business in 2001 under the name of Krista's travel;
+(l) the Appellant only researched the possibility of operating a tour bus business during the year 2001;
+(m) the Appellant earned employment income from Hamilton City Bus and Great Canadian Coaches Line during the year 2001;
+(n) the Appellant claimed 33% of her total car costs plus an allowance based on a cents-per-kilometre basis for the year 2001;
+(o) the Appellant claimed travel costs to Vancouver, clothing, suitcase and miscellaneous expenses as other expenses for the 2001 taxation year;
+(p) the Appellant attempted to start an alleged counselling business in 2002 under the name of Krista's family affairs;
+(q) the other expenses claimed by the Appellant for the 2002 taxation year consisted in debts assumed of $ 11,000 and a "50% of house cost PIT" of $ 4,938;
+(r) a part of the debt assumed and claimed as other expenses for the 2002 taxation year by the Appellant was related to the refinancing of the Appellant's condominium;
+(s) ...
+[The Appellant's employment income is mentioned above in paragraph 10].
+(t) the Appellant did not report gross income or gross profit in her income tax returns for the 2000, 2001 and 2002 taxation years;
+(u) the disallowed expenses in ... Schedule A ... were not incurred for the purpose of gaining or producing income from a business or property for the 2000, 2001 and 2002 taxation years; and
+(v) the disallowed expenses in ... Schedule A were personal expenses of the Appellant.
+[3] The Appellant submitted numerous Exhibits as a package referred to as Exhibit A-1. Counsel for the Respondent filed six Exhibits (R-1 to R-6). Included in those six Exhibits were several business questionnaires relating to the Appellant's alleged activities in the years in question.
+[4] The Appellant's testimony in respect of the year 2000 was credible. She stated that she had started a new business in that year and pointed to various letters from Appeal Officers which confirmed that some form of business had been commenced. Her testimony was incomplete and not convincing as to years 2001 and 2002.
+[5] In her Notice of Appeal she states amongst other things as follows:
+... On January 1, 2000, I started K's Renovations my first quote was January 8, 2000 then February 24, April 8, May 5, May 19, and July 15, 2000 and as for the renovations to my home / model home where [sic] on going and did not complete till late fall. The sole purpose of that was I live in a Condo. Townhouse with 56 units if I could showcase my own unit the income potential was pretty good if I only did $3000.00 work in 20 units. There are several statements and references such as not being allowed to claim expenses until you made a profit? I was not told that by the accountant nor did I find anything supporting that statement, ...
+[6] The Appellant gave evidence of at least 9 quotes in the year 2000 of projects which she quoted on. Greater detail concerning these quotes is provided in a letter of Canada Customs and Revenue Agency dated April 6, 2005 referred to in the documentation which the Appellant submitted and which detailed the renovations as follows:
+2000 - K's Renovations
+Date
+Customer
+Quote
+Feb 24/00
+Hedy Kolpin
+$ 1,075
+Apr 8/00
+Paul & Sheri Bergoon
+$ 955
+May 5/00
+Linda Grant
+$ 3,200
+May 19/00
+Josee Zinger
+$ 2,795
+Jan 8/00
+Jeff Gronenback
+$ 550
+July 15/00
+Pam Compton
+$10,400
+Date
+Customer
+Invoice
+Payment arrangements
+May 31/00
+Linda Grant
+$ 500
+Florida condo
+June 24/00
+Josee Zinger
+$ 270
+Exchange of services
+No date
+Ann Hart
+$ 240
+Paid by cheque
+Total Gross Revenue
+$ 1,010
+1) Based on the review of the documentation, $1,010 should have been reported as gross revenue in 2000. Please confirm.
+[7] The Appellant acknowledges and admits that her Accountant should have included in income for 2000 the gross income of $1,010.
+[8] The Appellant has also given considerable evidence of items of various equipment and materials which were acquired with a view to commencing her renovation business.
+[9] With respect to her automobile expenses the Appellant explained that she charged those expenses as follows, mainly one-third personal, one-third personal business (i.e. going to and from her work as a bus driver) and one-third for her renovation business. I find as a fact that there was the commencement of a business with a view of a profit which occurred in 2000. The strongest evidence of this is the various quotes which the Appellant obtained. The business expenses she incurred involving the car related to posting ads in the various places she visited, attempting to get some business in the complex where she lived and various other matters.
+[10]After reviewing the various Exhibits submitted and hearing the Appellant's testimony, counsel for the Respondent suggested that in all of the circumstances it would be reasonable (and I agree with this submission) to allow business losses in the year 2000 to the extent of the expenses vouched and shown in Schedule A namely $279, $2,883 and $14,397 for a total of $17,559. There should also be added for the year 2000 the gross income of $1,010 which the Appellant acknowledges should have been declared. Thus the business loss to be allowed in 2000 will be $ 16,549 (i.e. $1,010 - $ 17,559) and the appeal for the year 2000 is allowed on that basis.
+[11]With respect to the years 2001 and 2002, I am not satisfied that any business was actively being pursued and consequently the appeals for those years are dismissed.
+Signed at Ottawa, Canada, this 21st day of December, 2006.
+"T. O'Connor"
+O'Connor J.
+CITATION: 2006TCC691
+COURT FILE NO.: 2006-478(IT)I
+STYLE OF CAUSE: KRISTA H. GEBHARDT AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Kitchener, Ontario
+DATE OF HEARING: December 14, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice T. O'Connor
+DATE OF JUDGMENT: December 21, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Ifeanyi Nwachukwu
+Ryan Hall
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

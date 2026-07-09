@@ -1,0 +1,157 @@
+---
+title: "Lanthier c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25285/index.do"
+last_modified: "2003-03-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 149"
+citation2: ""
+neutral_citation: "2003 CCI 149"
+decision_date: "2003-03-18"
+language: "fr"
+item_id: "25285"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2398
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:26:48.516000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "69786eee61134e1398696d35a6193e19346e19c9de6b78fb968173266b7f2a7d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lanthier c. La Reine
+
+- Citation: 2003 CCI 149
+- Decision date: 2003-03-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2398, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lanthier c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-03-18
+Référence neutre
+2003 CCI 149
+Numéro de dossier
+2002-1981(IT)I
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-1981(IT)I
+ENTRE :
+JEAN LANTHIER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 7 mars 2003 à Montréal (Québec).
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Marie-Claude Landry
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2000 est rejeté.
+Signé à Ottawa, Canada, ce 18e jour de mars 2003.
+« Lucie Lamarre »
+J.C.C.I.
+Référence : 2003CCI149
+Date : 20030318
+Dossier : 2002-1981(IT)I
+ENTRE :
+JEAN LANTHIER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre, C.C.I.
+[1] L'appelant conteste une cotisation par laquelle on lui a refusé une déduction d'un montant de 4 828 $ pour les frais judiciaires qu'il a engagés dans son année d'imposition 2000 dans le but de faire diminuer la pension alimentaire qu'il payait à son ancienne conjointe pour leurs enfants.
+[2] Son principal motif de contestation est qu'il ne trouve pas équitable que des frais judiciaires soient une dépense déductible pour la personne qui veut recouvrer une pension alimentaire et que les frais judiciaires engagés pour faire réduire une telle pension alimentaire ne soient pas déductibles. Les frais judiciaires engagés dans le but de faire réduire le montant d'une pension alimentaire ne sont pas déductibles aux termes de la Loi de l'impôt sur le revenu ( « Loi » ) puisqu'ils ne constituent pas une dépense faite dans le but de produire un revenu d'une entreprise ou d'un bien. Il s'agit de frais personnels ou de subsistance qui ne sont pas déductibles aux termes du paragraphe 9(1) et des alinéas 18(1)a) et 18(1)h) de la Loi.
+[3] Par ailleurs, une longue jurisprudence a établi que les frais judiciaires engagés pour mettre à exécution un droit déjà existant à une pension alimentaire ou pour contester une demande en réduction de pension alimentaire étaient déductibles (voir R. c. Burgess, [1982] 1 F.C. 849 (Q.L.) et Sabour c. Canada, [2001] A.C.I. no 783 (Q.L.), cette dernière décision reprenant un bon nombre de décisions rendues en ce sens; voir également le Bulletin d'interprétation IT-99R5 (Consolidé), Frais juridiques et comptables, en date du 5 décembre 2000).
+[4] Cette déduction serait permise en vertu de l'alinéa 18(1)a) de la Loi puisque les frais judiciaires seraient engagés par le bénéficiaire de la pension alimentaire en vue d'acquérir ou de tirer un revenu de biens. Le droit au soutien étant reconnu en droit familial et dans la Loi sur le divorce, il s'agirait d'un bien au sens de la définition élargie de ce terme au paragraphe 248(1) de la Loi.
+[5] De plus, une pension alimentaire tel que définie au paragraphe 56.1(4) de la Loi étant exclue de la notion de revenu exonéré que l'on retrouve au paragraphe 248(1) de la Loi, cette dépense ne serait pas interdite par l'application de l'alinéa 18(1)c) de la Loi.
+[6] Ces articles se lisent comme suit :
+ARTICLE 18: Exceptions d'ordre général.
+(1) Dans le calcul du revenu du contribuable tiré d'une entreprise ou d'un bien, les éléments suivants ne sont pas déductibles :
+418(1)a)3
+a) Restriction générale - les dépenses, sauf dans la mesure où elles ont été engagées ou effectuées par le contribuable en vue de tirer un revenu de l'entreprise ou du bien;
+418(1)c)3
+c) Restriction concernant le revenu exonéré - les dépenses, dans la mesure où il est raisonnable de les considérer comme engagées ou effectuées en vue de tirer un revenu exonéré ou à l'égard d'un bien dont le revenu serait exonéré;
+ARTICLE 56.1: [Pension alimentaire].
+456.1(4)3
+(4) Définitions. Les définitions qui suivent s'appliquent au présent article et à l'article 56.
+« pension alimentaire » - « pension alimentaire » Montant payable ou à recevoir à titre d'allocation périodique pour subvenir aux besoins du bénéficiaire, d'enfants de celui-ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas:
+a) le bénéficiaire est l'époux ou le conjoint de fait ou l'ex-époux ou l'ancien conjoint de fait du payeur et vit séparé de celui-ci pour cause d'échec de leur mariage ou union de fait et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent ou d'un accord écrit;
+b) le payeur est le père naturel ou la mère naturelle d'un enfant du bénéficiaire et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent rendue en conformité avec les lois d'une province.
+ARTICLE 248: Définitions.
+(1) Les définitions qui suivent s'appliquent à la présente loi.
+« biens » - « biens » Biens de toute nature, meubles ou immeubles, corporels ou incorporels, y compris, sans préjudice de la portée générale de ce qui précède :
+a) les droits de quelque nature qu'ils soient, les actions ou parts;
+b) à moins d'une intention contraire évidente, l'argent;
+c) les avoirs forestiers;
+d) les travaux en cours d'une entreprise qui est une profession libérale.
+« revenu exonéré » - « revenu exonéré » Les biens reçus ou acquis par une personne dans des circonstances faisant qu'ils ne sont pas inclus, par l'effet d'une disposition de la partie I, dans le calcul de son revenu. Ne sont pas un revenu exonéré le dividende sur une action et la pension alimentaire au sens du paragraphe 56.1(4).
+[7] La légitimité du droit à une déduction pour frais judiciaires pour le bénéficiaire de la pension alimentaire a été mise en doute par le juge Archambault de cette Cour dans l'affaire Bergeron c. Canada, [1999] A.C.I. no 510 (Q.L.). Selon le juge Archambault, il s'agit tout autant d'une dépense personnelle et de subsistance pour le bénéficiaire de la pension alimentaire que pour le payeur de cette même pension alimentaire. À son avis, il n'y a aucune disposition spécifique dans la Loi permettant la déduction des frais judiciaires, tant pour le payeur que pour le bénéficiaire de la pension alimentaire.
+[8] Dans l'affaire Sabour, précitée, le juge Bowie de cette Cour se prononce ainsi relativement à la position prise par le juge Archambault dans l'affaire Bergeron :
+¶ 10 Comme l'a indiqué le juge Archambault, le raisonnement qu'il a développé dans l'affaire Bergeron n'avait été spécifiquement étudié dans aucune des affaires précitées. Néanmoins, je crois qu'un courant jurisprudentiel bien établi de la part de cette cour et appuyé par la Cour d'appel fédérale devrait être suivi jusqu'à ce qu'il soit renversé par une cour supérieure ou jusqu'à ce que la Loi soit modifiée par le Parlement. Il n'est pas entièrement hors de propos, dans le cadre de cette conclusion, que la position du ministre, telle qu'exprimée dans le Bulletin d'interprétation IT-99R5, aux alinéas 17 à 20, soit que les frais judiciaires engagés pour obtenir une pension alimentaire d'un époux ou ex-époux sont déductibles, tant que les montants ne sont pas en capital, sur le fondement de l'affaire Burgess.
+[9] Ainsi, dans le cas présent, il est clair que l'appelant, étant le payeur de la pension alimentaire n'a pas droit de déduire ses frais judiciaires puisqu'il n'y a aucune disposition dans la Loi permettant la déduction de frais judiciaires engagés pour faire diminuer la pension alimentaire payable. De fait, il ne s'agit pas d'une dépense faite dans le but de tirer un revenu de biens.
+[10] Ce que demande l'appelant, c'est un traitement équitable pour tous. De la façon dont est construite la Loi, et si l'on suit le raisonnement du juge Archambault dans l'affaire Bergeron, personne ne devrait avoir le droit à ses frais judiciaires. Si tel est le cas, je suis d'accord avec le juge Bowie que seule une décision d'une cour supérieure ou une modification législative du Parlement pourrait remédier à une telle inéquité.
+[11] Une telle inéquité ne me permet pas toutefois d'accorder une déduction pour frais judiciaires à l'appelant, lequel est dans le cas présent le payeur de la pension alimentaire. S'il fallait trouver discriminatoire le texte législatif, qui selon la jurisprudence rend déductible les frais judiciaires pour le bénéficiaire de la pension alimentaire (dans la mesure où il ne s'agit pas pour ce bénéficiaire de faire établir un droit à la pension auquel cas il s'agirait d'une dépense de nature capitale, non déductible), cela aurait pour effet de rendre non déductible pour ce dernier les frais judiciaires dans tous les cas. Ceci n'aiderait pas nécessairement la cause de l'appelant qui n'aurait pas plus le droit de déduire ses frais judiciaires aux termes de la Loi.
+[12] Pour ces raisons, je ne peux accepter les prétentions de l'appelant pour lui donner un droit à une déduction qui n'est pas prévue par la Loi.
+[13] L'appel est rejeté.
+Signé à Ottawa, Canada, ce 18e jour de mars 2003.
+« Lucie Lamarre »
+J.C.C.I.
+RÉFÉRENCE :
+2003CCI149
+No DU DOSSIER DE LA COUR :
+2002-1981(IT)I
+INTITULÉ DE LA CAUSE :
+Jean Lanthier c. La Reine
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+le 7 mars 2003
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge Lucie Lamarre
+DATE DU JUGEMENT :
+le 18 mars 2003
+COMPARUTIONS :
+Pour l'appelant(e) :
+l'appelant lui-même
+Pour l'intimé(e) :
+Me Marie-Claude Landry
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant(e) :
+Nom :
+Étude :
+Pour l'intimé(e) :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

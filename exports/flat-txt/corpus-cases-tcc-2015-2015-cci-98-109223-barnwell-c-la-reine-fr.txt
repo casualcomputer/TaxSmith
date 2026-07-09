@@ -1,0 +1,299 @@
+Title: Barnwell c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/109223/index.do
+Corpus path: corpus/cases/tcc/2015/2015-cci-98-109223-barnwell-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2015-04-21
+
+# Barnwell c. La Reine
+
+- Citation: 2015 CCI 98
+- Decision date: 2015-04-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2869, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Barnwell c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-04-21
+Référence neutre
+2015 CCI 98
+Numéro de dossier
+2013-3552(IT)I
+Juges et Officiers taxateurs
+John R. Owen
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-3552(IT)I
+Entre :
+OSBORNE G. BARNWELL,
+appelant,
+et
+Sa Majesté la reine,
+intimée.
+[Traduction française officielle]
+Appel entendu le 8 janvier 2015, à Toronto (Ontario)
+Devant : L’honorable juge John R. Owen
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Rita Araujo
+JUGEMENT
+L’appel interjeté à l’encontre d’une cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2011 par un avis daté du 13 novembre 2012 est rejeté sans frais, conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 21e jour d’avril 2015.
+« J.R. Owen »
+Juge Owen
+Traduction certifiée conforme
+ce 29e jour de mai 2015.
+M.-C. Gervais
+Référence : 2015 CCI 98
+Date : 20150421
+Dossier : 2013-3552(IT)I
+Entre :
+OSBORNE G. BARNWELL,
+appelant,
+et
+Sa Majesté la reine,
+intimée.
+[Traduction française officielle]
+Motifs du jugement
+Le juge Owen
+[1] Il s’agit d’un appel interjeté par M. Osborne G. Barnwell à l’encontre d’une cotisation établie par un avis daté du 13 novembre 2012 à l’égard son année d’imposition 2011. Dans la cotisation, une déduction que demandait M. Barnwell, à savoir une perte déductible au titre d’un placement d’entreprise (la « PDTPE ») de 39 150 $, était refusée.
+[2] L’appelant est comptable général accrédité et avocat et il agissait pour son propre compte dans le présent appel. L’appelant lui-même ainsi que M. Nicholas Austin ont témoigné pour le compte de l’appelant. Au début de l’audience, l’appelant a informé la Cour qu’il révisait à la baisse la PDTPE qu’il demandait, à un montant de 36 500 $, en raison de prêts regroupés de 73 000 $.
+[3] L’appelant est natif de l’île de Saint‑Vincent et il est venu au Canada en 1974. Il a tout d’abord vécu à London (Ontario), mais a déménagé à Toronto en 1980[1]. En qualité de comptable général accrédité, il a travaillé à l’Agence du revenu du Canada à titre de vérificateur pendant plusieurs années avant de retourner étudier pour obtenir un diplôme en droit en vue de se spécialiser en droit fiscal[2]. L’appelant a été admis au barreau en 1993[3].
+[4] Dans son témoignage, l’appelant a déclaré qu’il avait rencontré M. Austin au début des années 1980[4]. M. Austin était également natif de l’île de Saint‑Vincent et les deux ont développé une relation. À ce moment-là, M. Austin exploitait une entreprise appelée Carib-Can, un éditeur de livres pour enfants situé sur la rue College à Toronto. L’appelant a déclaré que M. Austin était bien connu dans la collectivité caribéenne locale et qu’il se consacrait entièrement à son travail, qui le passionnait. Il a également déclaré que la relation s’était développée autour d’activités comme le bénévolat dans le cadre de programmes d’alphabétisation au conseil scolaire local.
+[5] À un certain moment au début des années 2000, M. Austin a fait savoir à l’appelant qu’il souhaitait publier une revue de voyages dont le public cible était les passagers sur les lignes aériennes commerciales. En 2004 ou vers ce moment‑là, M. Austin a demandé à l’appelant s’il voulait cosigner un prêt bancaire pour financer la nouvelle entreprise commerciale. La banque a finalement refusé d’accorder le prêt. Incapable de lever des fonds ailleurs, M. Austin s’est éventuellement adressé à l’appelant pour qu’il finance la nouvelle entreprise. À ce moment-là, M. Austin avait constitué une société appelée Whitesand Group of Companies Inc. L’appelant a déclaré ce qui suit :
+[traduction]
+[...] M. Austin a communiqué avec moi pour me demander de nouveau si je n’investirais pas dans son entreprise et, compte tenu de ma situation, de mes antécédents, je m’estime relativement béni et privilégié, alors je me suis dit que compte tenu de sa passion, compte tenu de son engagement, j’investirais dans l’entreprise Whitesand[5].
+[6] M. Austin a informé l’appelant que l’entreprise prendrait deux ou trois ans à bâtir, mais pas plus de trois ans. L’appelant a reconnu qu’il s’agissait d’une entreprise difficile et qu’il s’engageait pour plusieurs années, et a déclaré qu’il surveillerait l’évolution de M. Austin.
+[7] L’appelant a déclaré dans son témoignage qu’il n’avait pas conclu d’entente officielle avec M. Austin concernant les prêts. Toutefois, d’après ses souvenirs, chaque fois qu’il effectuait une avance de fonds, il demandait à M. Austin de se rendre à son bureau pour signer un billet à ordre[6]. L’appelant a présenté en preuve sous la cote A‑2 quatre billets à ordre non signés. Sur chaque billet, il était mentionné que le billet était signé, scellé et délivré à Toronto à une date donnée et le nom de M. Austin apparaissait sous la ligne de signature vierge. Les quatre dates sont le 31 août 2007, le 15 novembre 2007, le 29 avril 2008 et le 21 mai 2009.
+[8] L’appelant a également présenté en preuve, sous la cote A‑1, une copie papier caviardée du système informatique de son cabinet d’avocat précisant que les dernières modifications aux billets à ordre avaient été apportées aux dates figurant sur les billets. Sur la copie papier, chaque billet est intitulé [traduction] « BILLET À ORDRE nicholos » et est suivi de la date du billet.
+[9] Dans le corps du billet daté du 31 août 2007, il est déclaré ce qui suit :
+[traduction]
+Je, Nicholos Austin, de la Ville de Toronto, dans la province de l’Ontario, pour une contrepartie valable, promets par la présente de rembourser à Osborne G. Barnwell, avocat, la somme de 10 300 $.
+Le remboursement de ce montant doit commencer au plus tard quinze (15) mois suivant la date de signature de la présente entente. Le calendrier de remboursement précis sera établi à ce moment-là.
+[10] Dans le corps du billet daté du 15 novembre 2007, il est déclaré ce qui suit :
+[traduction]
+Je, Nicholos Austin, de la Ville de Toronto, dans la province de l’Ontario, pour une contrepartie valable, promets par la présente de rembourser à Osborne G. Barnwell, avocat, la somme de 16 000 $.
+Le remboursement de ce montant doit commencer au plus tard quinze (15) mois suivant la date de signature de la présente entente. Le calendrier de remboursement précis sera établi à ce moment-là.
+[11] Dans le corps du billet daté du 29 avril 2008, il est déclaré ce qui suit :
+[traduction]
+Je, Nicholos Austin, de la Ville de Toronto, dans la province de l’Ontario, pour une contrepartie valable, promets par la présente de rembourser à Osborne G. Barnwell, avocat, la somme de 65 000 $. Ce montant est constitué de prêts antérieurs de 40 000 $ et d’un montant de 25 000 $ remis ce jour.
+Le remboursement de ce montant doit commencer au plus tard le 30 juillet 2008.
+[12] Dans le corps du billet daté du 21 mai 2009, il est déclaré ce qui suit :
+[traduction]
+Je, Nicholos Austin, de la Ville de Toronto, dans la province de l’Ontario, pour une contrepartie valable, promets par la présente de rembourser à Osborne G. Barnwell, avocat, la somme de 80 000 $. Ce montant est constitué de prêts antérieurs de 71 000 $ plus les intérêts.
+[13] L’appelant a déclaré qu’à la période où M. Austin signait les billets, il savait que M. Austin avait constitué une société, une exigence pour obtenir des subventions. En ce qui concerne la mention des intérêts dans le billet du 21 mai 2009, l’appelant a expliqué qu’au moment où l’entente avait été conclue, il s’attendait à recevoir 15 % de tout contrat obtenu auprès d’une ligne aérienne pour la revue de voyages[7]. Cette entente n’a pas été consignée par écrit.
+[14] En mai 2009, les choses ne se déroulaient pas bien. L’appelant a décrit la situation ainsi :
+[traduction]
+Ainsi, en mai 2009, et j’y viendrai dans un moment, en mai 2009 les choses semblaient aller ici et là en raison d’un échec de -- il y a eu un échec en 2009 avec U.S. Air je crois, et je l’expliquerai. Alors, j’ai dit à Nicholas que, eh bien, si cela ne fonctionne pas, convenons du montant d’intérêts que tu me devras à l’égard de l’argent que je t’ai donné. Nous nous sommes donc entendus sur une somme de 9 000 $ en mai 2009. Voilà pourquoi vous voyez le montant d’intérêts. Mais, ce n’est pas parce que j’ai toujours cru qu’il me paierait des intérêts; compte tenu de la situation en mai 2009, il s’agissait d’un montant cumulatif[8].
+[15] L’appelant a présenté en preuve sou la cote A-3 une série de photocopies de chèques payés comportant différentes sommes et le talon d’un chèque certifié de 25 000 $. Le premier chèque de la série est daté du 29 juin 2007 et le dernier chèque est daté du 10 septembre 2010. Le talon du chèque certifié est daté du 29 avril 2008.
+[16] Parmi les 18 chèques ordinaires, quatre d’entre eux portent la mention « Whitesand », « magazine » ou « Whitesand magazine » sur la ligne de l’objet du chèque. Toutefois, tous les chèques ordinaires sont faits à l’ordre de Nicholos Austin, de Nicholas Austin ou de N. Austin et le talon du chèque certifié précise que le bénéficiaire est Nicholos Austin. Lorsqu’on lui a demandé pourquoi il en était ainsi, l’appelant a déclaré ce qui suit :
+[traduction]
+Parce qu’il était le signataire autorisé de -- voilà la façon dont je -- d’accord. Alors, Nicholas incarnait Whitesand, il était donc le signataire autorisé de Whitesand. Et c’était la façon dont il m’avait dit de faire les chèques, à son ordre, parce qu’il utilisait l’argent pour l’entreprise. Voilà pourquoi j’ai tenté de mettre ce que -- simplement un rappel de l’objet du prêt, l’entreprise Whitesand[9].
+[17] L’appelant a par la suite déclaré ce qui suit :
+[traduction]
+Il [M. Austin] est l’administrateur de Whitesand. Je savais qu’il en était ainsi. Encore une fois, c’est le genre de -- je dirais, Monsieur le juge, le genre de contexte factuel à l’époque. Donc, je savais qu’il avait constitué Whitesand en société. Je savais qu’il tentait d’obtenir de l’argent auprès du conseil des arts pour le compte de Whitesand pour l’entreprise de publication. Ma relation avec lui était donc -- c’est-à-dire la relation financière était fondée sur Whitesand[10].
+[18] Pour corroborer les montants des prêts, l’appelant a présenté en preuve sous la cote A‑5 une copie du journal général bancaire concernant son cabinet d’avocats. L’extrait fait état d’une série de prêts s’élevant à 75 600 $. Chaque inscription comprend une description du mode de paiement (chèque), une date, le nom du bénéficiaire (Nicholas Austin ou N. Austin), un numéro d’inscription, une explication (le mot [traduction] « Prêt » ou, dans un cas, [traduction] « Prêt à Nicholas Austin ») et un montant.
+[19] L’appelant a présenté des copies d’extraits de trois numéros de Whitesand magazine (pièce A-4) et a déclaré que les revues représentaient la seule preuve dont il disposait selon laquelle Whitesand Group of Companies Inc. exploitait activement une entreprise[11]. À la page 3 ou la page 4 de chaque numéro, M. Austin est identifié comme étant l’éditeur de la revue. Sur la même page apparaissent le nom, l’adresse, les renseignements concernant le site Web et les coordonnées de « Whitesand Group of Companies, Inc. ». Après s’être reporté à ces pages, l’appelant a déclaré ce qui suit :
+[traduction]
+En ce qui me concerne, Monsieur le juge, sous la gestion de Nicholas Austin, Whitesand produisait un produit, une revue comme il le souhaitait, pour aller à destination avec les touristes, sur le tourisme et ainsi de suite[12].
+[20] Dans son témoignage, l’appelant a témoigné que M. Austin avait cherché des occasions de distribuer la revue à d’importantes lignes aériennes, mais qu’en 2010, il était clair que les prêts ne seraient pas remboursés. Toutefois, en raison des communications soutenues qu’il avait avec M. Austin, il n’était pas nécessaire d’envoyer une mise en demeure à ce dernier[13].
+[21] En contre-interrogatoire, l’intimée a présenté en preuve une copie du profil de la société concernant Whitesand Group of Companies Inc. (pièce R‑2) publié par le ministère des Services gouvernementaux (Ontario). Selon le profil, M. Austin est administrateur et dirigeant[14] de la société depuis le 12 mai 2004 (la date de la constitution en société). Dans le profil, deux autres particuliers sont inscrits à titre d’administrateurs et dirigeants (le président et le trésorier) de la société à compter du 17 juillet 2005.
+[22] En contre-interrogatoire, l’appelant a déclaré qu’il estimait que M. Austin incarnait Whitesand, qu’il lui faisait implicitement confiance et qu’il n’avait donc pas senti le besoin d’appliquer le processus de diligence raisonnable. Il a aussi déclaré qu’il était en communication constante avec M. Austin et que, par conséquent, il n’avait pas eu besoin d’exiger le remboursement même après l’expiration des délais énoncés dans les trois premiers billets à ordre. Le témoignage révélait également que l’appelant avait peu ou pas de connaissances sur Whitesand en dehors de ce que M. Austin lui avait dit.
+[23] En ce qui concerne les inscriptions dans le grand livre, les chèques et les billets à ordre, l’appelant a reconnu qu’ils désignaient M. Austin comme étant le débiteur, mais il a répété sa position selon laquelle M. Austin était Whitesand :
+[traduction]
+[...] Nicholas Austin, encore une fois, je m’excuse de me répéter, Nicholas Austin était Whitesand. Nicholas Austin était propriétaire de Whitesand. Il incarnait Whitesand. M. Austin a constitué Whitesand en société dans le cadre des exigences en matière d’édition. C’était la société Whitesand de Nicholas Austin qui était exploitée, qui mettait au point une entreprise d’édition. Alors oui, je sais après le fait, je comprends vos préoccupations et je déclare simplement dans mon témoignage aujourd’hui que Nicholas Austin était Whitesand[15].
+[24] L’appelant a reconnu en contre-interrogatoire qu’il avait accordé des prêts à une autre société en 2010 et que, dans ce cas, les chèques étaient faits à l’ordre de la société, non à l’ordre d’un particulier. L’intimée a présenté les chèques en preuve sous la cote R‑1.
+[25] Dans son témoignage, M. Austin a déclaré qu’il avait tout d’abord rencontré l’appelant en 1994, lorsque ce dernier avait investi dans Carib-Can, qui avait publié un livre qui avait été vendu à un conseil scolaire local[16]. En ce qui concerne cet investissement, M. Austin a déclaré que son associée de ce moment-là avait remboursé sa moitié de l’investissement, mais qu’il n’avait pas remboursé sa propre moitié[17].
+[26] M. Austin a déclaré dans son témoignage qu’il avait quitté le Canada en 2000 et y était revenu en 2005. Il a déclaré que l’idée concernant Whitesand avait [traduction] « germé » alors qu’il se trouvait chez l’appelant avec une autre personne, qui était alors le directeur de la rédaction de la revue. M. Austin a décrit le lancement de la revue à l’occasion d’un événement à Yorkville.
+[27] M. Austin a déclaré dans son témoignage que 10 000 exemplaires de la revue avaient été imprimés en 2007 et que la revue avait été présentée à l’occasion de foires du livre à Toronto et à New York, de même qu’à différents symposiums dans le domaine immobilier. Il a décrit les pourparlers et les rencontres qui avaient eu lieu pendant plusieurs mois avec une importante ligne aérienne américaine concernant l’achat éventuel de 250 000 exemplaires du Whitesand magazine. Les rencontres avaient lieu à Miami. La ligne aérienne ne voulait pas fournir de financement initial pour les revues et n’a finalement pas acheté de revues. M. Austin a également mentionné le courriel d’un transporteur canadien manifestant un certain intérêt à l’égard de la revue, mais en fin de compte il n’y a eu aucune vente.
+[28] L’appelant a demandé à M. Austin d’expliquer les circonstances entourant l’émission des chèques à son ordre :
+[traduction]
+Q. Y a-t-il une raison pour laquelle -- comment se fait-il, Monsieur, que les chèques aient été faits à votre ordre, si vous pouvez vous en rappeler? Pouvez‑vous nous ramener à -- n’avez-vous jamais eu avec moi une conversation concernant la personne à l’ordre de laquelle le chèque devait être émis?
+R. Essentiellement, vous m’avez dit que je serais responsable, je suis responsable de l’argent lorsque Jo Lena et moi avons communiqué avec vous. Vous avez dit, je vous tiens responsable de tout ce que cela concerne. Alors, c’était ma responsabilité et par la suite vous m’avez fait signer des documents -- je ne les pas ici avec moi -- concernant les modalités de paiement et la façon dont cela serait payé, des choses que vous m’aviez mentionnées[18].
+[29] En ce qui concerne les billets à ordre, M. Austin a déclaré dans son témoignage qu’il avait signé les billets au cabinet d’avocats de l’appelant et qu’il reconnaissait que l’argent n’était pas des dons qui lui étaient faits, mais de l’argent qui devait être remboursé[19]. En ce qui concerne l’entente conclue avec l’appelant pour le remboursement, M. Austin a déclaré ce qui suit :
+[traduction]
+Q. Et quelles étaient vos -- pouvez-vous vous rappeler quelles étaient -- les modalités selon lesquelles vous alliez me rembourser?
+R. L’une d’elles était les modalités des ententes contractuelles. Si je concluais une entente contractuelle pour vendre des livres, vous savez, vous avez -- vous auriez essentiellement le remboursement de l’argent. Et il y avait un certain pourcentage, et je n’ai pas ici avec moi ce qu’était ce pourcentage. Et essentiellement -- si je peux être exact -- je peux -- je crois que c’est environ 15 %. Je ne me souviens pas très bien du chiffre, mais je sais qu’il y avait un pourcentage qui y était lié[20].
+[30] Dans son témoignage, M. Austin a déclaré que, peu après l’effondrement de Whitesand, il n’avait pas été en mesure de rembourser les gens à qui il devait de l’argent et qu’en raison de sa situation, les dossiers qu’il avait concernant Whitesand avaient été perdus ou détruits[21].
+[31] M. Austin a déclaré que les sommes qui lui avaient été avancées après 2009 n’étaient pas des prêts, mais étaient destinées à l’achat de publicité par l’appelant dans une autre publication de M. Austin. En entendant ce témoignage, l’appelant a immédiatement retiré ce montant de sa demande de PDTPE[22].
+[32] En contre‑interrogatoire, M. Austin a reconnu que son profil LinkedIn ne comportait aucune mention au sujet de Whitesand, mais qu’il y est mentionné qu’il était le propriétaire de « Festivals in Buffalo » de février 2008 à août 2014[23]. M. Austin a également reconnu ce qui suit : il ne possédait aucun élément de preuve documentaire montrant qu’il était l’unique actionnaire de Whitesand Group of Companies Inc.[24]; la société n’avait jamais produit de déclaration de revenus au Canada, mais avait produit une déclaration de TPS dans laquelle il était précisé qu’il n’y avait pas de revenus[25]; que la majorité des chèques que l’appelant avait faits à son ordre en 2007 avaient été déposés dans son compte bancaire personnel[26].
+[33] Lors de son réinterrogatoire, M. Austin a déclaré que les dépenses payées en 2009 étaient payées à partir de son compte bancaire personnel[27]. M. Austin a aussi déclaré qu’il était l’unique actionnaire de Whitesand Group of Companies Inc. et que, pendant la période où il exploitait Whitesand, il était un résident du Canada[28].
+[34] L’intimée a formulé plusieurs hypothèses de fait au paragraphe 9 de la réponse, notamment les suivantes :
+[traduction]
+n. l’appelant n’a jamais accordé un prêt de 78 300 $ à Whitesand;
+o. subsidiairement, si l’appelant a accordé un prêt de 78 300 $ à Whitesand, ce prêt n’a pas été accordé en vue de gagner un revenu;
+p. si un prêt a été accordé, il ne portait pas intérêt.
+I. La thèse de l’appelant [35] L’appelant a commencé son argumentation en faisant valoir ce qui suit :
+[traduction]
+Ainsi, il existe habituellement quatre principes directeurs qui sous‑tendent la déduction de la créance en tant que PDTPE. Manifestement, la dette doit avoir été contractée par l’appelant. La dette a été contractée en vue de gagner ou de produire un revenu; l’entreprise doit être une entreprise exploitée activement; l’entreprise doit être une SPCC, une société privée sous contrôle canadien. De plus, la créance doit être réalisée dans l’année de la demande de déduction[29].
+[36] L’appelant a soutenu que la preuve appuyait la conclusion selon laquelle Whitesand Group of Companies Inc. était une société privée sous contrôle canadien qui exploitait activement une entreprise au Canada. En ce qui a trait à l’hypothèse de fait à l’alinéa 9n. de la réponse, l’appelant a déclaré ce qui suit :
+[traduction]
+Un montant de 78 300 à Whitesand. Le prêt a été accordé à Whitesand. Selon mon témoignage, Monsieur le juge, et je soutiens que ce qui est important ici, en ce qui concerne la preuve, c’est d’apprécier la question de savoir si le témoin était crédible. Je n’ai aucun motif, aucune raison de faire une fausse déclaration à la Cour. Les fonds ont été versés à M. Austin. M. Austin était considéré comme étant Whitesand, et il a raison. Le point était qu’il était possible [sic] et il m’a dit de faire les chèques à son ordre, parce qu’il est le responsable. C’est aussi simple que cela. Le compte bancaire montre des activités. Il ne s’agit pas du niveau d’activités auquel une personne s’attendrait, compte tenu des prêts, mais les fonds étaient fonction des déclarations qui m’ont été faites à [sic] les chèques de M. Austin étaient faits en faveur de Whitesand[30].
+[37] L’appelant a cité la décision Sunatori c. La Reine, 2010 CCI 346, de la Cour canadienne de l’impôt, pour faire valoir qu’un prêt peut donner lieu à une PDTPE même s’il ne porte pas intérêt. Il a également cité l’arrêt Rich c. La Reine, 2003 CAF 38, [2003] 3 C.F. 493, de la Cour d’appel fédérale, pour faire valoir qu’il appartient au créancier d’établir honnêtement et raisonnablement si la dette est irrécouvrable et qu’il n’est pas nécessaire pour un créancier d’épuiser tous les recours de recouvrement possibles pour conclure qu’une créance est irrécouvrable.
+II. La thèse de l’intimée [38] L’avocate de l’intimée a fait valoir que l’arrêt Rich énumérait, au paragraphe 1, les exigences auxquelles il fallait satisfaire pour demander une PDTPE et a résumé ces exigences ainsi :
+[traduction]
+[...] Au paragraphe 1, la Cour d’appel fédérale énumère les exigences auxquelles il doit être satisfait et que mon collègue a mentionnées précédemment, à savoir : si la créance était due au contribuable par une société privée sous contrôle canadien; si la dette avait été contractée en vue de tirer un revenu; si la société privée sous contrôle canadien était une petite entreprise admissible au cours de l’année à l’égard de laquelle la PDTPE était demandée, et cela signifie si la société avait la totalité, ou presque, de ses éléments d’actif dans l’entreprise active au Canada[31].
+[39] De plus, l’avocate de l’intimée a souligné que, suivant la définition de « société exploitant une petite entreprise » figurant au paragraphe 248(1) de la Loi de l’impôt sur le revenu (la « LIR »), l’entreprise doit avoir été active au cours des 12 mois précédant la déduction de la perte.
+[40] L’intimée a soutenu que l’appelant n’avait satisfait à aucune des exigences décrites dans l’arrêt Rich et qui doivent l’être pour demander une PDTPE.
+III. Les règles législatives [41] L’alinéa 3d) de la LIR permet à un contribuable de déduire une PDTPE dans le calcul de son revenu. Cet alinéa est rédigé ainsi :
+3. Revenu pour l’année d’imposition – Pour déterminer le revenu d’un contribuable pour une année d’imposition, pour l’application de la présente partie, les calculs suivants sont à effectuer :
+[...]
+d) le calcul de l’excédent éventuel de l’excédent calculé selon l’alinéa c) sur le total des pertes subies par le contribuable pour l’année qui résultent d’une charge, d’un emploi, d’une entreprise ou d’un bien et des pertes déductibles au titre d’un placement d’entreprise subies par le contribuable pour l’année; […]
+[42] Selon l’alinéa 38c) de la LIR, la PDTPE d’un contribuable représente la moitié de la perte au titre d’un placement d’entreprise du contribuable pour l’année :
+38. Sens de gain en capital imposable et de perte en capital déductible – Pour l’application de la présente loi :
+[...]
+c) [perte déductible au titre d’un placement d’entreprise] – la perte déductible au titre d’un placement d’entreprise d’un contribuable, pour une année d’imposition, résultant de la disposition d’un bien est égale à la moitié de la perte au titre d’un placement d’entreprise que ce contribuable a subie, pour l’année, à la disposition du bien.
+[43] L’alinéa 39(1)c) de la LIR décrit ainsi la perte au titre d’un placement d’entreprise subie par un contribuable :
+c) une perte au titre d’un placement d’entreprise subie par un contribuable, pour une année d’imposition, résultant de la disposition d’un bien quelconque s’entend de l’excédent éventuel de la perte en capital que le contribuable a subie pour l’année résultant d’une disposition, après 1977 :
+(i) soit à laquelle le paragraphe 50(1) s’applique,
+(ii) soit en faveur d’une personne avec laquelle il n’avait aucun lien de dépendance,
+d’un bien qui est :
+(iii) soit une action du capital-actions d’une société exploitant une petite entreprise,
+(iv) soit une créance du contribuable sur une société privée sous contrôle canadien (sauf une créance, si le contribuable est une société, sur une société avec laquelle il a un lien de dépendance) qui est :
+(A) une société exploitant une petite entreprise,
+(B) un failli, au sens du paragraphe 128(3), qui était une société exploitant une petite entreprise au moment où il est devenu un failli pour la dernière fois,
+(C) une personne morale visée à l’article 6 de la Loi sur les liquidations qui était insolvable, au sens de cette loi, et qui était une société exploitant une petite entreprise au moment où une ordonnance de mise en liquidation a été rendue à son égard aux termes de cette loi,
+sur le total des montants suivants :
+(v) dans le cas d’une action visée au sous-alinéa (iii), le montant de l’augmentation, après 1977, en vertu de l’application du paragraphe 85(4), du prix de base rajusté, pour le contribuable, de l’action ou de toute action (appelée une « action de rechange » au présent sous-alinéa) pour laquelle l’action ou une action de rechange a été remplacée ou échangée,
+(vi) dans le cas d’une action visée au sous-alinéa (iii) et émise avant 1972 ou d’une action (appelée « action de remplacement » au présent sous‑alinéa et au sous‑alinéa (vii)) qui a remplacé cette action ou une action de remplacement ou qui a été échangée contre l’une ou l’autre, l’ensemble des montants dont chacun représente un montant reçu après 1971, mais avant la disposition de l’action ou lors de cette disposition, ou un montant à recevoir au moment de cette disposition, à titre de dividende imposable sur l’action ou sur toute autre action pour laquelle l’action est une action de remplacement, par :
+(A) le contribuable,
+(B) son époux ou conjoint de fait si le contribuable est un particulier,
+(C) une fiducie dont le contribuable ou son époux ou conjoint de fait était bénéficiaire;
+toutefois le présent sous-alinéa ne s’applique pas à une action ou action de remplacement acquise après 1971 auprès d’une personne avec qui le contribuable n’avait aucun lien de dépendance,
+(vii) dans le cas d’une action à laquelle le sous-alinéa (vi) s’applique et lorsque le contribuable est une fiducie visée à l’alinéa 104(4)a), le total des montants dont chacun est un montant reçu après 1971 ou recevable au moment de la disposition par l’auteur (au sens du paragraphe 108(1)) ou par l’époux ou conjoint de fait de l’auteur à titre de dividende imposable sur l’action ou sur toute autre action à l’égard de laquelle elle est une action de remplacement,
+(viii) le montant calculé à l’égard du contribuable en vertu du paragraphe (9) ou (10), selon le cas.
+[44] Le paragraphe 39(9) de la LIR vise le cas d’un contribuable qui est un particulier qui a demandé une déduction en vertu de l’article 110.6 de la LIR :
+(9) Déduction dans le calcul d’une perte au titre d’un placement d’entreprise – Le moindre des montants suivants doit être déduit dans le calcul de la perte au titre d’un placement d’entreprise qu’un contribuable qui est un particulier (à l’exception d’une fiducie) subit pour une année d’imposition à la disposition d’un bien donné :
+a) le montant qui correspondrait à la perte au titre d’un placement d’entreprise que le contribuable subirait pour l’année à la disposition du bien donné, compte non tenu du sous-alinéa (1)c)(viii);
+b) l’excédent éventuel du total des montants suivants :
+(i) le total des montants représentant chacun le double du montant que le contribuable a déduit en application de l’article 110.6 dans le calcul de son revenu imposable pour une année d’imposition antérieure qui :
+(A) soit s’est terminée avant 1988,
+(B) soit commence après le 17 octobre 2000,
+(i.1) le total des montants représentant chacun, selon le cas :
+(A) les 3/2 du montant déduit en application de l’article 110.6 dans le calcul du revenu imposable du contribuable pour une année d’imposition antérieure qui :
+(I) soit s’est terminée après 1987 et avant 1990,
+(II) soit a commencé après le 27 février 2000 et s’est terminée avant le 18 octobre 2000,
+(B) le produit de la multiplication de l’inverse de la fraction figurant à l’alinéa 38a) qui s’applique au contribuable pour chacune de ses années d’imposition qui comprend le 28 février 2000 ou le 18 octobre 2000 par le montant qu’il a déduit en application de l’article 110.6 dans le calcul de son revenu imposable pour cette année,
+(i.2) le total des montants représentant chacun les 4/3 du montant déduit en application de l’article 110.6 dans le calcul du revenu imposable du contribuable pour une année d’imposition antérieure terminée après 1989 et avant le 28 février 2000,
+sur :
+(ii) le total des montants dont chacun représente un montant que le contribuable a déduit en vertu de l’alinéa (1)c) à cause du sous‑alinéa (1)c)(viii) dans le calcul de la perte au titre d’un placement d’entreprise qu’il a subie :
+(A) soit à la disposition de biens au cours des années d’imposition antérieures à l’année,
+(B) soit à la disposition d’autres biens que le bien donné au cours de l’année;
+toutefois lorsqu’un montant donné est inclus, en application du sous‑alinéa 14(1)a)(v), dans le revenu du contribuable pour une année d’imposition qui s’est terminée après 1987 et avant 1990, la mention « 3/2 » au sous-alinéa (i.1) vaut mention de « 4/3 » pour ce qui est de la partie d’un montant qui est déduite en application de l’article 110.6 au titre du montant donné.
+[45] Selon le sous‑alinéa 40(2)g)(ii) de la LIR, la perte résultant de la disposition d’une créance est réputée nulle si la créance n’a pas été acquise en vue de tirer un revenu d’une entreprise ou d’un bien, ou en contrepartie de la disposition d’une immobilisation en faveur d’une personne avec qui le contribuable n’avait aucun lien de dépendance :
+g) [diverses pertes réputées nulles] est nulle la perte subie par un contribuable et résultant de la disposition d’un bien (à l’exclusion, pour ce qui est du calcul du surplus exonéré ou du déficit exonéré, du surplus hybride ou du déficit hybride et du surplus imposable ou du déficit imposable du contribuable relativement à un autre contribuable, dans le cas où le contribuable ou, si celui-ci est une société de personnes, son associé est une société étrangère affiliée de l’autre contribuable, d’un bien qui est un bien exclu, au sens du paragraphe 95(1), du contribuable ou le serait si celui-ci était une société étrangère affiliée de l’autre contribuable), dans la mesure où elle est :
+[...]
+(ii) une perte résultant de la disposition d’une créance ou d’un autre droit de recevoir une somme, sauf si la créance ou le droit a été acquis par le contribuable en vue de tirer un revenu (qui n’est pas un revenu exonéré) d’une entreprise ou d’un bien, ou en contrepartie de la disposition d’une immobilisation en faveur d’une personne avec qui le contribuable n’avait aucun lien de dépendance, […]
+[46] Le paragraphe 50(1) de la LIR est une disposition qui prévoit l’exercice d’un choix selon lequel le produit de la disposition d’une créance sera réputé nul dans certaines circonstances :
+50. Créances reconnues comme étant irrécouvrables et action d’une société en faillite – (1) Pour l’application de la présente sous-section, lorsque, selon le cas :
+a) un contribuable établit qu’une créance qui lui est due à la fin d’une année d’imposition (autre qu’une créance qui lui serait due du fait de la disposition d’un bien à usage personnel) s’est révélée être au cours de l’année une créance irrécouvrable;
+[...]
+le contribuable est réputé avoir disposé de la créance ou de l’action à la fin de l’année pour un produit nul et l’avoir acquise de nouveau immédiatement après la fin de l’année à un coût nul, à condition qu’il fasse un choix, dans sa déclaration de revenu pour l’année, pour que le présent paragraphe s’applique à la créance ou à l’action.
+[47] Le paragraphe 248(1) définit les expressions « entreprise exploitée activement » et « société exploitant une petite entreprise » pour l’application de la LIR :
+248. (1) Définitions – Les définitions qui suivent s’appliquent à la présente loi.
+« entreprise exploitée activement » Relativement à toute entreprise exploitée par un contribuable résidant au Canada, toute entreprise exploitée par le contribuable autre qu’une entreprise de placement déterminée ou une entreprise de prestation de services personnels.
+[...]
+« société exploitant une petite entreprise » Sous réserve du paragraphe 110.6(15), société privée sous contrôle canadien et dont la totalité, ou presque, de la juste valeur marchande des éléments d’actif est attribuable, à un moment donné, à des éléments qui sont :
+a) soit utilisés principalement dans une entreprise que la société ou une société qui lui est liée exploite activement principalement au Canada;
+b) soit constitués d’actions du capital-actions ou de dettes d’une ou de plusieurs sociétés exploitant une petite entreprise rattachées à la société au moment donné, au sens du paragraphe 186(4) selon l’hypothèse que les sociétés exploitant une petite entreprise sont, à ce moment, des sociétés payantes au sens de ce paragraphe;
+c) soit visés aux alinéas a) et b).
+Pour l’application de l’alinéa 39(1)c), est une société exploitant une petite entreprise la société qui était une telle société à un moment de la période de douze mois précédant le moment donné; par ailleurs, pour l’application de la présente définition, la juste valeur marchande d’un compte de stabilisation du revenu net est réputée nulle.
+IV. Analyse [48] Pour demander une PDTPE à l’égard d’une créance, il est nécessaire de remplir plusieurs conditions. Selon une de ces conditions qui se trouve dans la description de « perte au titre d’un placement d’entreprise » à l’alinéa 39(1)c), la créance doit être « une créance du contribuable sur une société privée sous contrôle canadien ».
+[49] En l’espèce, la preuve montre que l’appelant croyait sincèrement qu’il avançait des fonds à M. Austin en qualité d’alter ego de Whitesand Group of Companies Inc. pour que la société puisse poursuivre la publication de Whitesand magazine. Je ne mets pas en doute la croyance subjective de l’appelant à cet égard, mais, dans les éléments de preuve documentaire, il est clairement mentionné que le débiteur réel est M. Austin et non Whitesand Group of Companies Inc.
+[50] Les chèques par lesquels les avances ont été consenties sont tous des chèques à l’ordre de M. Austin personnellement. Les billets à ordre qui constatent la créance, et que M. Austin dit avoir signés au bureau de l’appelant, sont tous rédigés ainsi :
+[traduction]
+Je, Nicholos Austin, de la Ville de Toronto, dans la province de l’Ontario, pour une contrepartie valable, promets par la présente de rembourser à Osborne G. Barnwell, avocat [...]
+[51] De plus, le journal général bancaire du cabinet d’avocats de l’appelant décrit les sommes comme étant des prêts à M. Austin. Même si la ligne de l’objet sur l’un des chèques porte la mention « Whitesand » et que deux autres chèques portent la mention [traduction] « revue » (magazine) et qu’un autre porte la mention « Whitesand magazine », cela ne change rien au fait que le bénéficiaire désigné sur chacun des chèques est M. Austin. Il semble également ressortir du témoignage de M. Austin qu’il a déposé la majorité des chèques émis en 2007 dans son compte bancaire personnel.
+[52] M. Austin semble avoir compris que les sommes qui lui étaient avancées étaient des dettes qu’il devait personnellement. Il a déclaré ce qui suit à l’occasion de son interrogatoire principal :
+[traduction]
+R. Essentiellement, vous m’avez dit que je serais responsable, je suis responsable de l’argent lorsque Jo Lena et moi avons communiqué avec vous. Vous avez dit, je vous tiens responsable de tout ce que cela concerne. Alors, c’était ma responsabilité et par la suite vous m’avez fait signer des documents -- je ne les pas ici avec moi -- concernant les modalités de paiement et la façon dont cela serait payé, des choses que vous m’aviez mentionnées[32].
+[53] Il ressort clairement de la jurisprudence canadienne en matière d’impôt sur le revenu que, pour obtenir un résultat donné quant à l’impôt sur le revenu à l’égard d’une opération, la forme de l’opération a de l’importance. Dans l’arrêt Friedberg v. Minister of National Revenue, 135 N.R. 61[33], la Cour d’appel fédérale a déclaré ce qui suit au paragraphe 4 :
+En droit fiscal, la forme a de l’importance. Une simple intention subjective, en l’espèce comme dans d’autres instances en matière fiscale, ne suffit pas en soi à modifier la caractérisation d’une opération aux fins de l’impôt. Lorsqu’un contribuable prend certaines dispositions formelles à l’égard de ses affaires, il peut s’ensuivre d’importants avantages fiscaux, quand bien même ces dispositions seraient prises principalement dans le but d’éviter des impôts (voir La Reine c. Irving Oil 91 D.T.C. 5106, le juge Mahoney, J.C.A.). Toutefois, si un contribuable omet de prendre les mesures formelles appropriées, peut-être que des impôts devront être payés. S’il n’en était pas ainsi, Revenu Canada et les tribunaux se livreraient à des exercices interminables pour établir les intentions véritables derrière certaines opérations. Les contribuables et la Couronne chercheraient à restructurer des opérations après coup afin de profiter de la législation fiscale ou d’amener les contribuables à payer des impôts qu’ils pourraient autrement ne pas avoir à payer. Bien que la preuve de l’intention puisse parfois aider les tribunaux à clarifier des marchés, elle est rarement déterminante. En résumé, la preuve d’une intention subjective ne peut servir à « rectifier » des documents qui s’orientent clairement vers une direction précise.
+[54] La forme d’une opération doit être examinée selon le droit du ressort où l’opération est effectuée :
+46 Pour déterminer si une opération juridique sera reconnue aux fins de l’impôt, il faut examiner le droit du ressort où l’opération est effectuée. Souvent, cette décision sera prise sans l’aide de précédents traitant exactement de la même question et, par conséquent, l’effet d’une opération peut dépendre uniquement de l’application appropriée de principes généraux de common law et d’equity. Dans certains cas, la Cour de l’impôt devra interpréter les lois d’une province. Quant au ministre, il doit accepter les résultats juridiques qui découlent de l’application appropriée des principes de common law et d’equity, de même que l’interprétation des dispositions législatives. Ceci m’amène à la question de savoir si le ministre est lié par une ordonnance émise par une cour supérieure, ordonnance qui a ses origines dans l’interprétation et l’application des dispositions d’une loi provinciale[34].
+[55] Le contribuable n’est cependant pas tenu de respecter une norme de perfection :
+45 Il ne fait pas non plus de doute que les tribunaux insistent sur le respect des formalités d’origine juridique ou législative lorsque certains avantages fiscaux sont accordés. Je ne veux pas laisser entendre que la norme à respecter par le contribuable est une norme de « perfection ». Dans l’arrêt Stubard Investments Ltd. c. Canada (M.R.N.), [1984] 1 R.C.S. 536, la Cour suprême du Canada a reconnu que certaines irrégularités pouvaient n’avoir aucune conséquence. Dans cette affaire, on avait, notamment, omis de s’assurer que l’acquéreur de l’entreprise de l’appelante avait une licence en vertu de la Loi sur la taxe d’accise pour exploiter cette entreprise. Malgré cette omission, la Cour a statué que la convention d’achat‑vente de l’entreprise était complète et que le plan connexe en vue de réduire l’impôt était valide[35].
+[56] En l’espèce, l’appelant ne demande pas à la Cour de faire abstraction d’une simple lacune en ce qui concerne la forme de l’opération, mais plutôt de ne pas du tout tenir compte des mesures juridiques qui ont été prises dans les faits pour conclure les prêts en cause. Ces mesures comportaient l’émission de chèques par l’appelant à l’ordre de M. Austin et la signature par M. Austin de billets à ordre prouvant que la créance en cause était une créance due par M. Austin à l’appelant.
+[57] Dans son témoignage, l’appelant a déclaré que M. Austin était l’alter ego de Whitesand Group of Companies Inc., dans les faits la représentation physique de la société, et m’a pressé de prendre en compte les circonstances en jeu à ce moment‑là.
+[58] M. Austin était administrateur et dirigeant de Whitesand Group of Companies Inc. Toutefois, une société de l’Ontario est une entité juridique qui possède une personnalité juridique distincte de ses administrateurs, dirigeants et actionnaires[36]. Aucune mention au recto des chèques ou des billets à ordre ne donne à penser que M. Austin agissait en sa qualité d’administrateur ou de dirigeant de Whitesand Group of Companies Inc. lorsqu’il a reçu les chèques ou signé les billets à ordre. De plus, dans son témoignage, M. Austin n’a pas laissé entendre qu’il agissait en cette qualité. Il n’y avait aucun mandat, et M. Austin n’a pas laissé entendre dans son témoignage qu’il avait reçu les chèques en qualité de mandataire pour le compte de Whitesand Group of Companies Inc. D’ailleurs, comme je l’ai mentionné précédemment, M. Austin a déclaré avoir reconnu qu’il était personnellement responsable de la créance.
+[59] Dans les circonstances, la Cour ne peut tout simplement pas faire abstraction de la forme et la substance juridiques des opérations qui ont bel et bien eu lieu au profit de l’appréciation subjective de l’appelant des événements. Il ressort clairement des documents et du témoignage de M. Austin que les prêts à l’égard desquels l’appelant demande une PDTPE ont été accordés par l’appelant à M. Austin personnellement. En conséquence, les prêts n’ont pas créé « une créance du contribuable sur une société privée sous contrôle canadien » comme l’exige la description d’une perte au titre d’un placement d’entreprise à l’alinéa 39(1)c) de la LIR.
+[60] Pour les motifs qui précèdent, l’appel est rejeté sans frais.
+Signé à Ottawa, Canada, ce 21e jour d’avril 2015.
+« J.R. Owen »
+Juge Owen
+Traduction certifiée conforme
+ce 29e jour de mai 2015.
+M.-C. Gervais
+RÉFÉRENCE :
+2015 CCI 98
+No DU DOSSIER DE LA COUR :
+2013-3552(IT)I
+Intitulé :
+Osborne G. Barnwell et Sa Majesté la Reine
+Lieu de l’audience :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 8 janvier 2015
+Motifs du jugement :
+L’honorable juge John R. Owen
+DATE DU JUGEMENT :
+Le 21 avril 2015
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Rita Araujo
+Avocats inscrits au dossier :
+Pour l’appelant :
+Nom :
+s.o.
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Lignes 5 à 8 de la page 7 de la transcription.
+[2] Lignes 8 à 11 de la page 7 de la transcription.
+[3] Lignes 9 et 10 de la page 8 de la transcription.
+[4] Lignes 12 à 14 de la page 7 de la transcription.
+[5] Lignes 17 à 22 de la page 10 de la transcription.
+[6] Lignes 11 à 14 de la page 11 de la transcription.
+[7] Lignes 19 à 25 de la page 13 de la transcription.
+[8] Lignes 26 à 28 de la page 13 et lignes 1 à 7 de la page 14 de la transcription.
+[9] Lignes 24 à 28 de la page 15 et lignes 1 et 2 de la page 16 de la transcription. L’affirmation selon laquelle M. Austin a demandé que les chèques soient faits à son ordre est répétée par l’appelant en contre-interrogatoire à la ligne 17 de la page 42 de la transcription.
+[10] Lignes 14 à 22 de la page 16 de la transcription.
+[11] Lignes 22 à 28 de la page 23 et lignes 1 à 3 de la page 24 de la transcription.
+[12] Lignes 25 à 28 de la page 20 de la transcription.
+[13] Lignes 4 à 19 de la page 24 de la transcription.
+[14] Le titre de M. Austin était [traduction] « directeur général ».
+[15] Lignes 19 à 27 de la page 36 de la transcription.
+[16] Lignes 20 à 26 de la page 48 de la transcription. Cette date diffère de la date fournie par l’appelant, qui a déclaré dans son témoignage qu’il avait rencontré M. Austin pour la première fois dans les années 1980.
+[17] Lignes 9 à 13 de la page 49 de la transcription.
+[18] Lignes 7 à 19 de la page 53 de la transcription.
+[19] Lignes 27 et 28 de la page 53 et lignes 1 à 8 et 21 à 23 de la page 54 de la transcription.
+[20] Lignes 9 à 20 de la page 54 de la transcription.
+[21] Lignes 22 à 28 de la page 57 et lignes 1 à 28 de la page 58 de la transcription.
+[22] Lignes 1 à 28 des pages 66 et 67 et lignes 1 à 8 de la page 68 de la transcription.
+[23] Lignes 25 à 28 de la page 76 et lignes 1 à 9 de la page 77 de la transcription.
+[24] Lignes 10 à 24 de la page 77 de la transcription.
+[25] Lignes 25 à 28 de la page 77 et lignes 1 à 11 de la page 78 de la transcription.
+[26] Lignes 3 à 28 de la page 75 et lignes 1 à 14 de la page 76 de la transcription.
+[27] Lignes 23 à 28 de la page 79 et lignes 1 à 3 de la page 80 de la transcription.
+[28] Lignes 1 à 12 de la page 82 de la transcription.
+[29] Lignes 13 à 20 de la page 84 de la transcription.
+[30] Lignes 11 à 24 de la page 96 de la transcription.
+[31] Lignes 25 à 28 de la page 106 et lignes 1 à 6 de la page 107 de la transcription.
+[32] Lignes 12 à 19 de la page 53 de la transcription.
+[33] La Cour suprême du Canada a rejeté à l’audience l’appel interjeté par la Couronne sans aborder ce point : [1993] 4 R.C.S. 285.
+[34] Dale c. Canada, [1997] 3 C.F. 235, au paragraphe 46.
+[35] Dale, précité, au paragraphe 45.
+[36] Article 15 de la Loi sur les sociétés par actions, L.R.O. 1990, ch. B.16, et Salomon v. Salomon & Co., [1897] A.C. 22 (Chambre des lords).

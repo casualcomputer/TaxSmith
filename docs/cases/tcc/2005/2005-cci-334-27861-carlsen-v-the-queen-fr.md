@@ -1,0 +1,126 @@
+---
+title: "Carlsen v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27861/index.do"
+last_modified: "2005-05-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 334"
+citation2: ""
+neutral_citation: "2005 CCI 334"
+decision_date: "2005-05-13"
+language: "fr"
+item_id: "27861"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 336
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:54:42.720000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a57af6289670d49ec87a224458b00e53bdb9af3199428724bc6d0647bd3fa6c3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Carlsen v. The Queen
+
+- Citation: 2005 CCI 334
+- Decision date: 2005-05-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 336, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Carlsen v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-05-13
+Référence neutre
+2005 CCI 334
+Numéro de dossier
+2004-3941(IT)I
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2005CCI334
+Date : 20050513
+Dossier : 2004-3941(IT)I
+ENTRE :
+SANDRA CARLSEN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Pour l’appelante : l’appelante elle‑même Avocate de l’intimée : Me Fiona Mendoza
+____________________________________________________________________
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience à
+Vancouver (Colombie‑Britannique), le 24 février 2005.)
+Le juge McArthur
+[1] L’appel porte sur une détermination du ministre du Revenu national selon laquelle l’appelante n’avait pas droit à la prestation fiscale pour enfants qu’elle avait reçue pour les mois d’août, de septembre, d’octobre et de novembre 2003, parce que, pendant ces quatre mois, elle n’était pas un particulier admissible au sens de l’article 122.6 de la Loi de l’impôt sur le revenu (la « Loi ») pour ses trois jeunes enfants Ian, Michael et Emily, étant donné qu’elle n’était pas pendant cette période la personne qui assumait principalement la responsabilité pour le soin et l’éducation des enfants.
+[2] L’ex‑époux de l’appelante, que j’appellerai M. Carlsen, et l’appelante ont témoigné. J’estime que les parents sont tous les deux honnêtes et honorables. Je crois qu’ils sont des parents responsables qui font passer les intérêts de leurs enfants en premier. Ils avaient la garde partagée des trois enfants conformément à une ordonnance, et l’appelante a eu accès aux enfants à partir de la période allant du 17 août 2003 au 20 août 2003, puis du dimanche au mercredi chaque semaine par la suite. Les parties ont respecté cet horaire de façon très rigoureuse. Ils semblent avoir collaboré avec maturité pour le bien des enfants.
+[3] M. Carlsen avait accès aux enfants lorsque l’appelante n’y avait pas accès, et, en fait, il avait accès aux enfants un jour de plus par semaine que l’appelante. Le ministre a conclu que, pour les mois de juillet 2003 et de juin 2004 de l’année de base 2002, l’appelante a assumé principalement la responsabilité pour le soin et l’éducation des enfants aux fins de la prestation fiscale pour enfants, et que, pour la période allant du mois d’août 2003 au mois de mai 2004, M. Carlsen a assumé principalement la responsabilité pour le soin et l’éducation des enfants aux fins de la prestation.
+[4] Dans la décision Canada c. Marshall[1], le juge Stone a mentionné ce qui suit :
+[…] la Loi prévoit qu’un seul des deux parents est un « particulier admissible » aux fins d’admissibilité aux avantages. L’article ne prévoit aucun partage proportionnel entre deux parents qui prétendent être des parents admissibles. Seul le Parlement peut prévoir le partage proportionnel des avantages, mais il ne l’a pas fait.
+De plus, le passage suivant provient de la décision Matte c. Canada[2], où le juge Strayer de la Cour d’appel fédérale a indiqué ce qui suit :
+Il importe de noter que cette définition envisage clairement que le « particulier admissible » peut de temps en temps changer, dans la mesure où, au moment pertinent, il est le principal responsable en sa qualité de fournisseur de soins. C’est ce qu’indiquent les mots « à un moment donné, […] personne qui […] à ce moment […] » figurant au début de la définition.
+La formule utilisée pour calculer le montant des prestations payables se trouve au paragraphe 122.6(1) de la Loi et elle est fondée sur le remboursement présumé d’un paiement en trop théorique d’impôt sur le revenu. Ce paiement en trop, selon le paragraphe 122.61(1) est réputé être fait au cours d’un mois où la personne devant recevoir les prestations était un particulier admissible au début du mois. Le juge Strayer a ajouté ce qui suit :
+Selon nous, cela veut dire que la période minimale, aux fins du paiement de prestations, est d’un mois et qu’un mois de prestations doit être versé à quiconque était le particulier admissible au début du mois, c’est‑à‑dire à la personne qui était principalement responsable du soin et [de] l’éducation de l’enfant ou des enfants à ce moment‑là.
+[5] Il serait négligent de ma part de ne pas mentionner que j’ai trouvé que l’appréciation des faits effectuée par l’avocate de l’intimée était juste. Selon elle, ce qui a fait pencher la balance en faveur de M. Carlsen n’était pas le fait qu’il avait la garde des enfants un jour de plus par semaine que l’appelante. L’avocate s’est fondée sur le raisonnement de la juge Lamarre Proulx dans l’affaire Robitaille c. Canada[3] où elle a dit ce qui suit :
+Pour obtenir une décision contraire à cette détermination, selon les règles de la preuve en litige fiscal depuis longtemps établies, il appartenait à l’appelante de faire la preuve que c’était elle qui s’occupait principalement des enfants à charge admissibles. Or, son témoignage était à l’effet que le partage était égal. Devant cette absence de preuve et le tribunal étant lié par la décision de la Cour d’appel fédérale […] qui a affirmé qu’un seul des deux parents peut être un particulier admissible, la détermination du Ministre doit être maintenue.
+[6] Malgré ce qui précède, le ministre avait en fait divisé les prestations également : elles étaient versées pour six mois à l’appelante et pour six mois à M. Carlsen. Je ne vois aucune raison de modifier cette entente et je conclus que l’appelante avait droit aux prestations pour les mois d’août et de septembre 2003 seulement.
+Signé à Ottawa, Canada, ce 13e jour de mai 2005.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme ce 18e jour d’octobre 2005.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE :
+2005CCI334
+NO DU DOSSIER DE LA COUR :
+2004-3941(IT)I
+INTITULÉ DE LA CAUSE :
+Sandra Carlsen c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 24 février 2005
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge C.H. McArthur
+DATE DU JUGEMENT MODIFIÉ :
+Le 7 avril 2005
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Fiona Mendoza
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Nom :
+S/O
+Étude :
+S/O
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] [1996] A.C.F. no 431
+[2] 2003 C.A.F. 19, au par. 7
+[3] [1997] A.C.I. no 6.

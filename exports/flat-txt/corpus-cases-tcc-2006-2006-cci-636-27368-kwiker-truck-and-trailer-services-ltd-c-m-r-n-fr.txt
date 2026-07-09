@@ -1,0 +1,182 @@
+Title: Kwiker Truck and Trailer Services Ltd. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27368/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-636-27368-kwiker-truck-and-trailer-services-ltd-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2006-11-20
+
+# Kwiker Truck and Trailer Services Ltd. c. M.R.N.
+
+- Citation: 2006 CCI 636
+- Decision date: 2006-11-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 160, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kwiker Truck and Trailer Services Ltd. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-11-20
+Référence neutre
+2006 CCI 636
+Numéro de dossier
+2005-3869(EI)
+Juges et Officiers taxateurs
+Alexander A. Sarchuk
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossiers : 2005-3869(EI)
+2005-3870(CPP)
+ENTRE :
+KWIKER TRUCK AND TRAILER SERVICES LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+__________________________________________________________________
+Appels entendus le 29 août 2006 à Toronto (Ontario)
+Devant : L’honorable juge A.A. Sarchuk
+Comparutions :
+Représentant de l’appelante :
+Joel Hoffman
+Représentant de l’intimé :
+Kelly Foote (étudiant en droit)
+__________________________________________________________________
+JUGEMENT
+Les appels interjetés en application du paragraphe 103(1) de la Loi sur l’assurance‑emploi (la « Loi ») et de l’article 28 du Régime de pensions du Canada (le « Régime ») sont rejetés, et les décisions rendues par le ministre du Revenu national sur les appels portés devant lui en vertu de l’article 91 de la Loi et de l’article 27 du Régime sont confirmées.
+Signé à Toronto (Ontario), ce 20e jour de novembre 2006.
+« A.A. Sarchuk »
+Juge suppléant Sarchuk
+Traduction certifiée conforme
+ce 12e jour de juin 2007.
+Jean David Robert, traducteur
+Référence : 2006CCI636
+Date : 20061120
+Dossiers : 2005-3869(EI)
+2005-3870(CPP)
+ENTRE :
+KWIKER TRUCK AND TRAILER SERVICES LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Sarchuk
+[1] Le 3 août 2005, le ministre du Revenu national (le « ministre ») a informé l’appelante qu’il avait été décidé que Ronald Steeves exerçait (i) un emploi assurable au sens de l’alinéa 5(1)a) de la Loi sur l’assurance‑emploi auprès d’elle pendant la période du 1er janvier 2004 au 8 octobre 2004, et qu’il exerçait (ii) un emploi ouvrant droit à pension au sens de l’alinéa 6(1)a) du Régime de pensions du Canada pendant la période en question. L’appelante a contesté les décisions du ministre et elle les a portées en appel devant la Cour le 31 octobre 2005.
+[2] Les activités de l’appelante consistent principalement à faire réparer des camions et des remorques par des mécaniciens itinérants. James Dinner est l’unique actionnaire de l’appelante, ainsi que son directeur général et administrateur. Son épouse, Haling Dinner, était directrice générale adjointe et, pendant la période pertinente, elle gérait le bureau de l’appelante.
+[3] Monsieur Dinner a témoigné qu’il était titulaire de trois certificats de compétence à titre de mécanicien d’automobiles, de technicien à l’entretien et à la réparation d’automobiles et de mécanicien de camions et d’autocars. En 1998, il fréquentait l’Université de Toronto [traduction] « pour devenir enseignant » et il est maintenant titulaire d’une carte de compétence de l’Ordre des enseignantes et des enseignants de l’Ontario en matière de technologie des transports. Pour le remplacer pendant la période au cours de laquelle il était aux études[1], l’appelante a dû embaucher un [traduction] « sous‑traitant » qui était autorisé à effectuer des réparations mécaniques générales, la réparation de bris se rapportant aux systèmes d’alimentation en carburant et de freinage pneumatique et d’autres [traduction] « bris simples ». À cette fin, l’appelante a embauché l’entreprise A‑1 Truck and Trailer Service (ci‑après « A‑1 »), qui, selon le témoignage de M. Dinner, appartenait à M. Steeves, qui avait un certificat de compétence à titre de mécanicien de remorque. Bien qu’aucun contrat écrit exposant le service à fournir n’ait été signé, M. Dinner a allégué qu’il y avait une entente selon laquelle A‑1 serait appelée à [traduction] « effectuer des travaux que je ne pouvais pas accomplir ». De plus, il a dit que l’entente prévoyait notamment qu’un camion serait fourni par l’appelante parce que M. Steeves n’en possédait pas, et, comme l’appelante en avait un [traduction] « en réserve », le camion a été loué à A‑1 au prix de 700 $ par semaine. En outre, un grand nombre d’installations fixes boulonnées ont été fournies avec le camion de même que du petit outillage, une radio avec émetteur‑récepteur, un téléphone cellulaire et une [traduction] « carte pour l’essence ». La valeur estimée de cet outillage et de ce camion était d’environ 80 000 $. En plus de ce qui précède, l’appelante assumait les coûts de l’assurance responsabilité liée aux services fournis.
+[4] M. Dinner a aussi témoigné que le taux horaire payé à A‑1 pour les services qu’elle fournissait était fonction du taux courant que touchaient les autres sous‑traitants sur le marché, c’est‑à‑dire 40 $. Selon son témoignage, ce montant a été réduit compte tenu du fait que l’appelante fournissait le camion et qu’elle payait les coûts du carburant. Il a dit qu’il était nécessaire [traduction] « d’ajouter les coûts de la location de la voiture et du carburant à son taux horaire pour obtenir un chiffre en dollars qui était environ égal au taux courant pour d’autres sous‑traitants sur le marché ». Il a soutenu que cette formule de calcul avait été établie et convenue dans le cours de leur négociation en 1998 et qu’elle avait amené M. Steeves à accepter un taux horaire de 25 $. Selon M. Dinner, en vertu de cette entente, M. Steeves fournissait ses propres outils. Il n’était pas tenu de se présenter au travail tous les matins pour se faire confier des affectations, et aucun contrôle ou supervision n’était exercé sur la façon dont il effectuait les réparations de camions qui lui étaient assignées. M. Dinner a également fait observer que, pendant toute la période pertinente, M. Steeves avait le droit de [traduction] « recruter ses propres clients ».
+[5] La description que M. Steeves a faite de l’entente était quelque peu différente. Il a dit que, lorsqu’il avait commencé à travailler pour l’appelante en 1998, il était payé à un taux de 20 $ l’heure, qui était passé quelques années plus tard à 25 $ l’heure. Il a nié l’affirmation selon laquelle ils se seraient entendus sur une quelconque réduction du taux horaire et, à la question de savoir s’il était tenu de payer 700 $ par semaine pour la location du camion et des outils, il a répondu : [traduction] « Je n’ai jamais rien payé. » M. Steeves n’a pas contesté que les chèques avaient été faits à l’ordre d’A‑1 ni que M. Dinner avait suggéré qu’il dût s’ouvrir un compte commercial. En fait, M. Steeves a dit que, par suite de leur discussion initiale, [traduction] « Jim m’a donné l’impression que j’allais créer ma propre entreprise, que je pourrais me prévaloir de nombreuses déductions fiscales et que je ferais beaucoup d’argent. J’ai gagné de l’argent, mais je n’ai pas eu droit à des déductions fiscales du fait de considérer que j’exploitais une entreprise. » Aux questions suivantes posées par l’avocat de l’intimé, M. Steeves a répondu ce qui suit :
+[traduction]
+Q. Qui a eu l’idée de créer cette entreprise?
+R. Jim Dinner.
+Q. M. Dinner a témoigné que vous payiez la location du camion et de certains outils environ 700 $ par semaine.
+R. C’est faux.
+Q. Est‑ce qu’il y avait des déductions d’impôt que vous pouviez demander pour les 700 $ par semaine?
+R. Je ne savais même pas qu’il y avait 700 $ par semaine qui étaient retranchés de mon salaire.
+[6] Dans le cours du contre‑interrogatoire, M. Steeves a répondu ce qui suit aux questions suivantes qui lui ont été posées :
+[traduction]
+Q. Selon un témoignage présenté antérieurement, à cette réunion, il avait été discuté du fait que vous toucheriez une rémunération brute, de laquelle serait déduite la somme que vous deviez payer pour avoir l’usage du camion de la société, ce qui donnerait comme résultat votre rémunération nette. Est-ce que c’est exact? Est‑ce que vous vous en souvenez?
+R. Non, c’est inexact.
+Q. Qu’est‑ce qui est exact?
+R. Nous avons discuté d’un salaire de 20 $ et du fait que j’utiliserais son fourgon stationné dans l’entrée de garage pour exécuter les réparations sur la route, et c’est à peu près tout.
+[7] M. Steeves a affirmé qu’il était tenu d’accomplir à la fois [traduction] « des réparations sur la route et au garage », et il a ajouté ce qui suit : [traduction] « La plupart des matins, je m’arrêtais en passant à la maison, où était situé leur bureau, et c’était mon point de départ pour me rendre aux endroits où il y avait des travaux à accomplir, son épouse me disait où je devais aller. » Il a aussi dit qu’il recevait des appels de service pendant qu’il était sur la route et qu’au besoin il retournait au garage pour travailler. Lorsqu’il terminait une réparation, son habitude était de [traduction] « consigner mes travaux quotidiens sur une feuille de papier, puis, à la fin de la journée, je remettais la description de mes travaux à Jim à son domicile ou je la laissais dans sa boîte aux lettres. Jim établissait une facture pour les travaux et l’expédiait. » Il est acquis aux débats que les sommes facturées aux clients étaient déterminées uniquement par l’appelante.
+Observations de l’appelante
+[8] Le représentant de l’appelante a soutenu que M. Steeves travaillait de façon autonome dans le cadre défini. Plus précisément, il n’était pas supervisé, il était libre de travailler pour le compte d’autres personnes, il avait le droit de refuser d’accomplir ou de terminer une réparation et, pendant toute la période pertinente, il fournissait son propre outillage, dans lequel il avait investi beaucoup d’argent. De plus, M. Steeves n’était pas tenu d’accomplir lui‑même les travaux et il avait le droit d’embaucher une personne qualifiée pour faire le travail au besoin. En outre, aucun contrôle n’était exercé par l’appelante puisque [traduction] « A‑1 Truck and Trailer Service pouvait se présenter ou non au travail à sa discrétion ». Le représentant de l’appelante a aussi fait observer qu’[traduction] « il n’y avait aucun avantage social ni protection, rien de ce genre n’a été fourni » à A‑1 ou à M. Steeves.
+[9] Quant à l’entente conclue par l’appelante et M. Steeves, il a été fait mention d’une série de documents décrits par le représentant de l’appelante comme étant des [traduction] « relevés de factures et de la documentation à l’appui soumis par M. Steeves pour cinq périodes en 2004 »[2]. La première page de chaque pièce faisait état de [traduction] « la comptabilité interne [de M. Dinner] effectuée par mon comptable ». Des photocopies de chèques établis par l’appelante à l’ordre d’A‑1 pour les services qu’elle avait rendus pendant cette période ont été reproduites à la deuxième page, et le reste des pages était constitué de registres quotidiens de M. Steeves concernant les appels auxquels il avait répondu, les services qu’il avait rendus et le temps qu’il avait consacré à l’accomplissement des réparations nécessaires.
+[10] Le représentant de l’appelante a invoqué le calcul figurant sur la première page de chaque [traduction] « relevé de facture », qui, selon ses observations, confirmait le fait que [traduction] « ma cliente payait un salaire brut et en déduisait les frais d’exploitation », faisant ainsi passer les 40 $ l’heure qui avaient été convenus à 25 $ l’heure, et le fait qu’A‑1 [traduction] « recevait seulement un chèque net ». Le représentant de l’appelante a décrit ces factures comme [traduction] « un document interne établi par ma cliente dans lequel elle évaluait pour ses propres besoins le montant total prévu de ces frais particuliers pour toute période donnée » et il a ajouté : [traduction] « [C]es chiffres représentent la récupération qui est effectuée auprès de l’appelante. En d’autres mots, ma cliente payait une somme brute et en déduisait les frais d’exploitation. Ma cliente recevait toujours seulement un chèque net. Je veux dire A‑1 recevait seulement un chèque net. »
+[11] L’appelante soutient qu’A‑1 était une entrepreneuse indépendante dans laquelle M. Steeves avait une mise de capital d’environ 9 000 $, représentant les outils dont il avait besoin pour accomplir les réparations requises. De plus, le représentant de l’appelante a soutenu qu’A‑1 avait [traduction] « établi une présence commerciale en maintenant son compte d’affaires ouvert et en n’avisant jamais ma cliente de son statut, ou d’un changement de statut ». Par conséquent, compte tenu des faits portés à la connaissance de la Cour, et en application des critères exposés dans l’arrêt Wiebe Door Services Ltd. c. M.R.N.[3] et la décision Blues Trucking Inc. c. M.R.N.[4], on ne peut que conclure que [traduction] « pendant toute la période au cours de laquelle Ron fournissait ses services, il le faisait dans le cadre d’un contrat d’entreprise ».
+Observations de l’intimé
+[12] Le représentant de l’intimé soutient que, pendant toute la période pertinente, M. Steeves était un employé de Kwiker Truck and Trailer Services Ltd. (ci‑après « Kwiker »), le payeur, et non un entrepreneur indépendant. Il a soutenu que, si l’on applique les critères exposés dans l’arrêt Wiebe Door et ceux qui ont été énoncés par la Cour suprême du Canada dans l’arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc.[5], il apparaît que, malgré la description faite par M. Dinner de la relation de travail existant entre M. Steeves et Kwiker, la preuve démontre que M. Steeves a été engagé pour accomplir des fonctions déterminées en tant qu’employé. Plus précisément, M. Steeves avait peu de contrôle sur ses heures de travail, et les services qu’il fournissait étaient au cœur des activités de Kwiker, c’est‑à‑dire la réparation [traduction] « d’urgence de camions et de remorques lorsqu’ils tombaient en panne ». Le représentant de l’intimé a fait valoir que ces faits établissent l’existence d’une intégration importante dans les affaires de Kwiker.
+[13] Dans ses observations, le représentant de l’intimé a aussi renvoyé à une lettre de l’appelante adressée [traduction] « à qui de droit », datée du 15 juillet 2004 et signée par Halina Dinner, directrice de bureau[6]. Cette lettre énonçait ce qui suit :
+[traduction]
+La présente vise à confirmer que Ron Steeves est un employé de notre société et qu’il l’est depuis juin 1998.
+M. Steeves a demandé que nous confirmions que son taux horaire est de 25 $ et qu’il est payé pour un minimum de 40 heures par semaine. Il effectue régulièrement des heures supplémentaires.
+Pour de plus amples renseignements, veuillez communiquer avec moi au 416‑684‑1048.
+Le représentant de l’intimé a fait observer que M. Steeves avait reconnu la lettre et qu’il avait témoigné qu’il l’avait reçue et qu’il avait demandé que celle‑ci lui soit envoyée afin qu’il puisse demander un emprunt bancaire.
+[14] Compte tenu des faits exposés ci‑dessus, le représentant de l’intimé a soutenu que l’appelante n’avait pas démontré que l’intimé avait décidé à tort que M. Steeves était, pendant toute la période pertinente, un employé de l’appelante.
+Conclusion
+[15] Le litige dont est saisie la Cour porte sur la question de savoir si M. Steeves était un [traduction] « employé ou un entrepreneur indépendant ». Cette question a été examinée plusieurs fois au cours des dernières années, et il y a eu un changement important quant aux critères appropriés et à la manière dont ils doivent être appliqués. Ce développement a été analysé exhaustivement par le juge Major dans l’arrêt Sagaz, où il a dit ce qui suit en insistant sur les commentaires formulés par le juge MacGuigan dans l’arrêt Wiebe Door :
+[46] À mon avis, aucun critère universel ne permet de déterminer, de façon concluante, si une personne est un employé ou un entrepreneur indépendant. Lord Denning a affirmé, dans l'arrêt Stevenson Jordan, précité, qu'il peut être impossible d'établir une définition précise de la distinction (p. 111) et, de la même façon, Fleming signale que [traduction] « devant les nombreuses variables des relations de travail en constante mutation, aucun critère ne semble permettre d'apporter une réponse toujours claire et acceptable » (p. 416). Je partage en outre l'opinion du juge MacGuigan lorsqu'il affirme – en citant Atiyah, op. cit., p. 38, dans l'arrêt Wiebe Door, p. 563 – qu'il faut toujours déterminer quelle relation globale les parties entretiennent entre elles :
+[traduction] [N]ous doutons fortement qu'il soit encore utile de chercher à établir un critère unique permettant d'identifier les contrats de louage de services [...] La meilleure chose à faire est d'étudier tous les facteurs qui ont été considérés dans ces causes comme des facteurs influant sur la nature du lien unissant les parties. De toute évidence, ces facteurs ne s'appliquent pas dans tous les cas et n'ont pas toujours la même importance. De la même façon, il n'est pas possible de trouver une formule magique permettant de déterminer quels facteurs devraient être tenus pour déterminants dans une situation donnée.
+[47] Bien qu'aucun critère universel ne permette de déterminer si une personne est un employé ou un entrepreneur indépendant, je conviens avec le juge MacGuigan que la démarche suivie par le juge Cooke dans la décision Market Investigations, précitée, est convaincante. La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l'employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s'il engage lui-même ses assistants, quelle est l'étendue de ses risques financiers, jusqu'à quel point il est responsable des mises de fonds et de la gestion et jusqu'à quel point il peut tirer profit de l'exécution de ses tâches.
+[48] Ces facteurs, il est bon de le répéter, ne sont pas exhaustifs et il n'y a pas de manière préétablie de les appliquer. Leur importance relative respective dépend des circonstances et des faits particuliers de l'affaire.
+[16] La question en litige en l’espèce est de savoir si les services fournis à Kwiker par M. Steeves pendant la période de janvier 2004 à octobre 2004 ont été fournis par lui en tant que personne travaillant à son compte. Cependant, il y avait des éléments de preuve selon lesquels, au moment d’établir leur relation, en 1998, ils avaient tous deux envisagé la constitution d’A‑1 en société en vue de l’exploitation d’une entreprise. Il est acquis aux débats que M. Steeves a initialement témoigné de l’intérêt pour la suggestion de M. Dinner selon laquelle il serait pratique pour lui de constituer A‑1 en société. La décision de M. Steeves de procéder ainsi était fondée dans une grande mesure sur l’offre faite par M. Dinner de l’aider. La preuve indique clairement que M. Steeves n’avait qu’une compréhension minime des exigences devant être remplies pour la constitution d’A‑1 en société, et elle démontre qu’il ne comprenait pas ce que cela impliquait et ce qui devait être fait. Par exemple, dans le cours du contre‑interrogatoire, l’échange suivant a eu lieu :
+[traduction]
+Q. Aviez-vous votre propre clientèle?
+R. Non.
+Q. Exécutiez-vous des travaux dans vos heures libres?
+R. Non.
+Q. Initialement, dans votre témoignage, vous avez déclaré que vous considériez que l’entreprise non constituée en société était en réalité un stratagème en raison du fait que vous ne l’exploitiez pas comme une entreprise. Est-ce que c’est exact[7]?
+R. Que voulez‑vous dire?
+Q. Puisqu’il ne s’agissait pas d’une entreprise en exploitation, pourquoi prendre la peine de l’inscrire?
+R. On m’a demandé d’ouvrir un compte d’affaires.
+Q. Mais vous ne l’avez pas traité comme un compte d’affaires, est-ce que c’est exact?
+R. Selon ma compréhension des choses, on allait me montrer comment créer et exploiter une entreprise, mais ça ne s’est jamais produit.
+Q. Mon client a déclaré qu’il vous avait approché à ce même sujet.
+R. À quel sujet?
+Q. Il a tenté de vous aider à créer votre propre entreprise.
+R. Oui.
+M. Steeves a décrit ainsi sa perception de sa relation avec M. Dinner :
+[traduction]
+Je ne lui ai pas parlé. Il a demandé que je crée une entreprise pour que j’aie des déductions fiscales. Il devait me montrer comment lancer mon entreprise, comment effectuer les travaux d’écriture et comment établir des factures et il allait m’expliquer ce dont j’avais besoin. Rien de tout cela n’a été fait.
+M. Steeves ne conteste pas qu’initialement il croyait avoir créé l’entreprise. Il affirme ce qui suit :
+[traduction]
+R. Je l’ai créée lorsque j’ai commencé à travailler pour le compte de Jim. Au départ, j’exploitais une entreprise, mais j’ai fini par ne pas exploiter une entreprise.
+Q. Si vous avez fini par ne pas exploiter une entreprise, qu’est‑ce qui a changé? Si au départ vous exploitiez une entreprise et que vous avez fini par ne pas exploiter une entreprise, qu’est-ce qui a changé?
+R. Je suis devenu un employé de Jim.
+Et la relation est devenue, dans ses propres mots :
+[traduction]
+[…] un travail ordinaire, aller à un travail ordinaire, voilà ce que c’est devenu.
+[17] Le témoignage de la mère de M. Steeves est lui aussi instructif. Bien qu’elle ne soit pas comptable, elle [traduction] « remplit les déclarations d’autres personnes » depuis plusieurs années. Après que M. Steeves a été embauché par l’appelante, sa mère lui a suggéré de retenir les services d’un comptable parce qu’elle [traduction] « croyait qu’il allait avoir une entreprise ». Cependant, le comptable a avisé M. Steeves qu’il n’y avait rien [traduction] « qu’il pouvait déduire », et, par conséquent, sa mère a consenti à remplir ses déclarations. Elle a dit que c’est à ce moment‑là que la somme reçue de Kwiker pour 1998 et 1999 avait été déclarée comme un [traduction] « montant brut comme si M. Steeves exploitait une entreprise ou qu’il travaillait pour son compte » et elle a ajouté que [traduction] « le montant était le même pour les deux, pour le brut et le net, parce qu’il n’avait pas de déductions à faire ». À la question de savoir pourquoi il ne pouvait demander aucune déduction, elle a répondu ce qui suit :
+[traduction]
+R. Parce que seul Jim pouvait se prévaloir de toutes les déductions.
+Q. Est-ce que vous êtes en train de dire que toutes les dépenses engagées ont été assumées par Jim?
+R. Toutes.
+Q. Votre fils n’a effectué lui‑même aucune dépense?
+R. Non.
+Elle a témoigné qu’après les deux premières années la manière dont le revenu de son fils était déclaré a été examinée plus attentivement, et que, par la suite, pour toutes les années subséquentes, le revenu qu’il a gagné auprès de Kwiker a été déclaré en tant que revenu gagné.
+[18] Il y a plusieurs facteurs qui m’ont porté à conclure que la prétention de l’appelante selon laquelle M. Steeves était un entrepreneur indépendant doit être rejetée. D’abord, rien ne prouve que, à un moment donné pendant la période de plus de six ans au cours de laquelle M. Steeves a travaillé pour le compte de l’appelante, il a conclu un contrat avec quelque concurrent que ce soit ou qu’il a offert ses services sur le marché comme un entrepreneur indépendant travaillant dans le même secteur d’activité que Kwiker. De plus, il n’y a aucune preuve à l’appui de l’allégation de l’appelante selon laquelle M. Steeves s’exposait à un risque financier dans le cadre de l’emploi qu’il exerçait auprès de Kwiker. En fait, comme l’a reconnu M. Dinner, Kwiker était tenue de [traduction] « souscrire une assurance responsabilité à deux volets en cas d’accident. Si une personne venait nous voir, cette assurance responsabilité couvrait aussi les sous‑traitants et tout employé que j’avais à ce moment‑là. Je devais faire des réparations sur certains types de véhicules. Il est raisonnable que j’aie une telle assurance responsabilité. » En revanche, M. Steeves n’avait pas d’assurance responsabilité professionnelle, dont il aurait manifestement eu besoin s’il exploitait sa propre entreprise.
+[19] Bien que le représentant de l’appelante ait beaucoup insisté sur l’entente qui aurait été conclue à l’égard du véhicule, il n’y a aucun doute qu’il s’agissait d’un engin spécialisé conçu pour répondre aux besoins de la clientèle de Kwiker. En l’espèce, il est difficile de comprendre le raisonnement de l’appelante concernant la [traduction] « location d’outillage ». Outre le fait que M. Steeves ait nié qu’une telle entente existait, il est également avéré qu’on ne lui a jamais fourni de relevé de compte pour les frais de location qui lui auraient été facturés et qu’il n’a jamais déduit ce montant en tant que dépense d’entreprise.
+[20] De plus, M. Steeves ne choisissait pas l’ordre dans lequel il servait les clients de l’appelante, et Kwiker savait en tout temps où était M. Steeves et quels clients il servait. Un tel degré de contrôle est habituellement exercé à l’égard d’un employé et non d’un entrepreneur indépendant. Le critère de la propriété des instruments de travail favorise également la thèse selon laquelle M. Steeves était un employé et non un entrepreneur indépendant. Les seuls instruments de travail pertinents qui appartenaient à M. Steeves étaient des outils à main. Par contre, sans l’outillage spécialisé fourni par l’appelante, les tâches n’auraient pas pu être accomplies. Finalement, quant à la question des chances de bénéfice et des risques de perte, aucune preuve portée à la connaissance de la Cour ne permet de conclure qu’il y avait un risque de perte quelconque pour M. Steeves dans le cadre de son emploi.
+[21] Il n’est pas possible, compte tenu des faits portés à la connaissance de la Cour, de conclure que M. Steeves travaillait pour son compte. M. Steeves ne courait aucun risque financier, il n’avait aucune responsabilité à l’égard des mises de fonds et de la gestion et il ne pouvait pas tirer profit de l’exécution de ses tâches. L’affirmation sur laquelle a insisté l’appelante selon laquelle M. Steeves se faisait facturer 700 $ par semaine pour la location du camion est douteuse. Si cela avait été le cas, il aurait été logique pour M. Steeves ou A‑1 d’insister sur une facture pour pouvoir établir l’existence des frais d’exploitation de l’entreprise. Leur omission de demander des factures est compatible avec le témoignage de M. Steeves selon lequel il n’a jamais reçu l’aide qui lui avait été promise à l’égard de la création de son entreprise.
+[22] Pour les motifs présentés ci‑dessus, j’ai conclu que M. Steeves était un employé et non un entrepreneur indépendant. Par conséquent, les appels sont rejetés.
+Signé à Toronto (Ontario), ce 20e jour de novembre 2006.
+« A.A. Sarchuk »
+Juge suppléant Sarchuk
+Traduction certifiée conforme
+ce 12e jour de juin 2007.
+Jean David Robert, traducteur
+RÉFÉRENCE : 2006CCI636
+Nos DES DOSSIERS DE LA COUR : 2005-3869(EI) et 2005-3870(CPP)
+INTITULÉ : Kwiker Truck and Trailer Services Ltd. et le M.R.N.
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 29 août 2006
+MOTIFS DU JUGEMENT : L’honorable juge A.A. Sarchuk
+DATE DU JUGEMENT : Le 20 novembre 2006
+COMPARUTIONS :
+Représentant de l’appelante :
+Joel Hoffman
+Représentant de l’intimé :
+Kelly Foote (étudiant en droit)
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : s.o.
+Cabinet : s.o.
+Pour l’intimé : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Bien que la preuve ne soit pas totalement claire, il semblerait que, pendant l’année en cause, M. Dinner n’était plus un étudiant, mais qu’il enseignait en fait de 8 h à 14 h, cinq jours par semaine.
+[2] Pièces A‑2 à A‑6.
+[3] 87 DTC 5025 (C.A.F.).
+[4] 98‑898(UI), 98‑899(UI), 98‑135(CPP) et 98‑136(CPP).
+[5] [2001] 2 R.C.S. 983.
+[6] Pièce R-2.
+[7] M. Steeves n’a jamais décrit l’entreprise comme un stratagème.

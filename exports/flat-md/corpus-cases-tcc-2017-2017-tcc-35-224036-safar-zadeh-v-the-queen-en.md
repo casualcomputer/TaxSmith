@@ -1,0 +1,209 @@
+---
+title: "Safar-Zadeh v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/224036/index.do"
+last_modified: "2017-03-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 TCC 35"
+citation2: ""
+neutral_citation: "2017 TCC 35"
+decision_date: "2017-03-07"
+language: "en"
+item_id: "224036"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2263
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:27:32.506000+00:00"
+cases_cited_count: 0
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "eb99752ab9266bd4ea7a632bc1da3d3675029d797c5e3900ca3449d317c110d2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Safar-Zadeh v. The Queen
+
+- Citation: 2017 TCC 35
+- Decision date: 2017-03-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2263, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Safar-Zadeh v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-03-07
+Neutral citation
+2017 TCC 35
+File numbers
+2016-642(GST)I
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2016-642(GST)I
+BETWEEN:
+NAHID SAFAR-ZADEH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on 8 December 2016, at Toronto, Ontario.
+Before: The Honourable Justice Gaston Jorré
+Appearances:
+Counsel for the Appellant:
+Bryan A. Rowe
+Counsel for the Respondent:
+Judy Michaely
+JUDGMENT
+In accordance with the attached reasons for judgment, the appeal from the assessment made under the Excise Tax Act, notice of which is dated 8 November 2013 and in which the Minister of National Revenue denied the Appellant’s claim for a new housing rebate in respect of the property at 161 Shirrick Drive in Richmond Hill, Ontario, is dismissed without costs.
+Signed at Ottawa, Canada, this 7th day of March 2017.
+“Gaston Jorré”
+Jorré J.
+Citation: 2017 TCC 35
+Date: 20170307
+Docket: 2016-642(GST)I
+BETWEEN:
+NAHID SAFAR-ZADEH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Jorré J.
+[1] The Appellant applied for a Goods and Services Tax/Harmonized Sales Tax new housing rebate in respect of a house at 161 Shirrick Drive in Richmond Hill. The Minister of National Revenue denied the rebate.
+[2] The issue in this appeal is whether, at the time the Appellant signed the agreement to purchase, she was purchasing the house with the intention of using it as her family’s primary place of residence. [1]
+[3] The Respondent assessed on the basis that the Appellant and her family did not intend to use 161 Shirrick as their principal residence at the time the Appellant purchased the property and that they did not reside at 161 Shirrick Drive.
+[4] This case turns on its facts and on credibility. It is well‑established that, when it is necessary to determine intention, one must consider not only the individual’s stated intention but also all the surrounding factual circumstances.
+[5] The Appellant testified, as did her husband, her brother‑in‑law, Ebrahim, and another brother‑in‑law, Yusuf.
+[6] The Appellant signed the agreement of purchase and sale with respect to the 161 Shirrick Drive property on 27 June 2011. At that time the lot was empty and the house was to be built. The closing took place on or about 21 November 2012.
+[7] The rebate application was made on 2 January 2013 and the notice of assessment denying the rebate was dated 8 November 2013.
+[8] The Appellant and her family lived at 215 Shirrick Drive during the two or three years prior to the closing in November 2012. The property at 215 Shirrick is about 200 or 210 meters from 161 Shirrick. The properties are at opposite ends of the same block.
+[9] The purchase price set out in the agreement of 27 June 2011 was $501,490 and the Appellant had to make three deposit payments totalling $40,000. The last instalment payment was to be made by 4 November 2011.
+[10] These instalment payments were made by her brother‑in‑law, Ebrahim.
+[11] The Appellant testified that the house cost them about $500,000 and that they spent about $50,000 on further improvements, for a total of around $550,000. [2] The amount of approximately $50,000 was borrowed on a joint line of credit of her husband and Ebrahim.
+[12] The house at 161 Shirrick was sold by the Appellant about five or six months after the 21 November 2012 closing for $625,000.
+[13] In 2010, 2011, 2012 and 2013 the Appellant and her husband reported, approximately, the following amounts of gross income: $34,000, $14,500, $16,400 and $13,125. [3]
+[14] The Appellant testified that around the time of the purchase agreement the family was looking for a new house different from their existing one with a new kitchen and a bigger backyard.
+[15] The Appellant stated that she was excited because the new house would have the kitchen she wanted as well as certain other features. The property at 161 Shirrick was near their old house and, as a result, still close to the school of their older child. It was also close to the school that the Appellant herself was attending at the time.
+[16] According to the Appellant, when the purchase of the new house at 161 Shirrick closed, the family moved slowly into the new house.
+[17] They did some additional work on the new house over the course of the first month. This included fixing up the basement and some light fixtures.
+[18] The move was mostly carried out by family members although they did hire some non‑family members to move some heavier items. The non‑family members were paid in cash and the Appellant has no receipts for the move.
+[19] They did not sell their old house.
+[20] The Appellant’s husband explained that, at the time, the Appellant’s brother‑in‑law, Yusuf, was looking for a home for himself and his girlfriend to move to and so they offered to rent the house to Yusuf. He accepted and they rented the house to him.
+[21] Because the brother‑in‑law was in no hurry to move in quickly they were able to move out slowly. The brother‑in‑law moved into their old house with his girlfriend and paid them $1,800 a month in cash. This gave the family some extra income.
+[22] In the course of the first month in the house at 161 Shirrick the Appellant noticed problems. This upset her and made her sad because she wanted to live in the house.
+[23] Specifically, she noticed the noise coming from Yonge Street as well as the bright light at night coming from Yonge Street. Yonge Street is about 20 feet away from the house.
+[24] The Appellant was not aware of the noise prior to moving. The noise had an effect on the ability of the children to sleep. Indeed the school which her older child attended phoned to say that the child was falling asleep in class.
+[25] Not only was there the noise but there was also a safety issue for their children. Twice, their younger child, born in 2010, ran out towards Yonge Street. There was no fence and luckily one of the parents was able to stop the daughter.
+[26] The Appellant testified that because of the noise and the safety issue, the Appellant and her husband spoke for two or three months about moving out again and in January or February decided that they could not stay there because of the safety issue. [4]
+[27] They spoke to her brother‑in‑law, Yusuf, who rented their old house and explained that they had to move back. Yusuf was not happy but because of the safety issue he agreed to move.
+[28] Yusuf moved out, the family moved back to their old house at the other end of the block and the Appellant put up the new house for sale. Their move back to 215 Shirrick was facilitated by the fact that some of their possessions had been left in the garage at 215 Shirrick when they moved to 161 Shirrick.
+[29] The new house was sold within about six months of the date on which the Appellant became the owner, 21 November 2012.
+[30] She explained that there was some pressure to sell the house because their income was not sufficient to pay the mortgage.
+[31] The Appellant testified that she listed 161 Shirrick Drive for sale in January 2013. They were in the house for two or three months before moving back to 215 Shirrick.
+[32] She used the proceeds of sale to pay back her brother‑in‑law, Ebrahim, the $40,000 in deposits he paid, to pay back the amount borrowed on her husband and Ebrahim’s joint line of credit and to pay the real estate commission on the sale. [5]
+[33] The Appellant also stated that there was no profit left after making these repayments. [6]
+[34] The Appellant and her husband both testified that they never notified any government agency or credit card company of their change of address. This was because they were not at 161 Shirrick that long and could pick up any mail from Yusuf. The husband did receive some utility bills at 161 Shirrick but he did not keep any of them.
+[35] Whereas the old house at 215 Shirrick was both in the Appellant’s name and her husband’s name, the new house at 161 Shirrick was only in her name. The Appellant had no explanation for this.
+[36] In cross‑examination the Appellant stated that she never went to look at the lot at 161 Shirrick before they purchased it. She just looked at it on the map. She was too busy with the children and her studies.
+[37] Much of the testimony of the Appellant’s husband confirmed statements by the Appellant. In addition to some of the husband’s evidence set out above, the Appellant’s husband also said the following.
+[38] When Yusuf left 215 Shirrick he went back to live where he lived before.
+[39] The Appellant’s husband did go to look at the property before they purchased it. He was aware that there was no barrier or fence but the city was supposed to build either a fence or barrier. [7]
+[40] He never thought of possible safety issues for the children before they moved and he never thought of building a fence or a barrier on the property at 161 Shirrick.
+[41] The Appellant’s husband also stated that their old house at 215 Shirrick was far from the new house at 161 Shirrick and that it is very hard to imagine what a house that you see on paper will actually be like once it is built.
+[42] The Appellant’s brother‑in‑law, Ebrahim, testified. He is a tailor who has shops in three locations and he is also a part‑time real estate agent.
+[43] Ebrahim paid the $40,000 in deposits required under the agreement of purchase on behalf of the Appellant. Approximately $30,000 of those funds came from money he had saved and the other $10,000 came from a line of credit. He did not charge the Appellant any interest on the loaned money and did not mind paying the interest on the funds used from the line of credit.
+[44] It was also understood that the Appellant and her husband were to repay him the loaned money bit by bit over time. There was no set time for repayment.
+[45] While he was not involved in the purchase of 161 Shirrick, he did act as the Appellant’s agent for the sale. There was a 3.5% commission; 1% of the commission was for him whereas the other 2.5% was for the agent acting on behalf of the buyers. His commission was $6,250.
+[46] The Appellant’s brother‑in‑law, Yusuf, testified that he and his girlfriend decided to live together. The Appellant approached him and stated that they were thinking of renting out the property at 215 Shirrick and offered to rent it to him. He accepted and rented 215 Shirrick and moved in there with his girlfriend. The rent was $1,800 a month which he paid in cash and the rent was all inclusive.
+[47] He lived at 215 Shirrick for approximately three to four months.
+[48] Although he did not know when he would leave 215 Shirrick before moving in, he expected that he would be there for a while.
+[49] He did not notify any government agency of a change of address. He had no utility bills for 215 Shirrick because the rent was all inclusive and he never notified any government agency of a change of address to 215 Shirrick. He did not change his driver’s licence because he was too busy.
+[50] He did not have to notify any credit card companies of a change of address because he did not have any credit cards; his credit was bad.
+[51] Yusuf was not happy when he had to move out but concluded he had to move out and let the Appellant and her family come back to 215 Shirrick for the safety of his niece and nephew given “. . . the way they explained it to me what was going on in that neighbourhood”. [8]
+[52] Moving out also led to his breaking up with his girlfriend and he moved back to where he was living before, his parents’ house.
+[53] I do not accept substantial portions of the evidence of the Appellant and her witnesses and, as a consequence, I do not accept that the Appellant and her family moved into 161 Shirrick; I also do not accept that the Appellant bought 161 Shirrick with the intention of using it as the family’s principal place of residence.
+[54] The considerations set out below, when considered collectively, make the Appellant’s evidence quite unlikely.
+[55] It seems unlikely that the Appellant would have been unaware of a noise issue before closing if she intended to move to the house.
+[56] Going to see the site of a new house before signing the agreement of purchase and sale and going to inspect the site from time to time during the construction of a house is common behaviour. This is even more likely given that the new house was at the other end of the block only 200 to 210 meters away, perhaps a three‑minute walk. It seems even more likely given that the Appellant stated that she was excited about the new house.
+[57] In visiting the site, it is hard to conceive that she would not have noticed the noise from Yonge Street, particularly given that street noise is more noticeable outside a house than inside it. [9]
+[58] Not being conscious of the noise beforehand also seems unlikely given that the Appellant’s brother‑in‑law Ebrahim was a part‑time real estate agent. One expects real estate agents to be aware of the advantages and disadvantages of particular locations and one would expect him to point out factors such as the noise level. This would be particularly true because he would want his brother and sister‑in‑law to be happy in their new house and because he had a personal stake given that he was loaning them $40,000 for an indefinite period to make the down payment.
+[59] I also have difficulty with the Appellant being surprised by the safety issue for their small child. This was their second child and the parents could not have been unaware of the risks of a three‑year old running off. [10] One would expect the parents to make a fence a priority. It is unlikely this would not have been foreseen. [11]
+[60] Neither the Appellant nor her husband nor Yusuf, who moved into their old house, notified any government agency of their move, including the Ontario Health Insurance Plan and the Ministry of Transport of Ontario, with respect to driver’s licences. They also failed to provide any documents showing their new address at 161 Shirrick or, in Yusuf’s case, at 215 Shirrick.
+[61] It is well‑known that one has to notify government agencies, particularly for one’s OHIP card and one’s driver’s licence. Indeed, for a driver’s licence in Ontario there is a statutory requirement to notify within six days; for OHIP the requirement is to notify within 30 days. [12]
+[62] If the Appellant and her husband and Yusuf moved as they stated they did, it is unlikely that they would all have failed to notify any government agency, particularly with respect to their driver’s licence and their OHIP card. People care a great deal about their health coverage and their ability to drive. It is also unlikely that none of them would have a single document that would corroborate the move by showing their address.
+[63] In 2010, the year before the agreement of purchase and sale of 161 Shirrick, the Appellant and her husband reported, approximately, gross income of $34,000. In 2011, the year of the agreement of purchase and sale, the Appellant and her husband reported, approximately, gross income of $14,500. In 2012, the year the Appellant closed the purchase of 161 Shirrick the Appellant and her husband reported, approximately, gross income of $16,400. In 2013, the Appellant and her husband reported, approximately, gross income of $13,125.
+[64] The Appellant and her husband could not have had much in savings as they were obliged to borrow the entire $40,000 in deposits from Ebrahim. It is hard to imagine how they, a family of two adults and two children, could afford to buy a house for about $500,000 and then spend $50,000 on additional work with an income of $34,000 let alone an income of $16,400, particularly when they had no plan to sell their old house at 215 Shirrick.
+[65] While Ebrahim did not charge them interest, they would still have had to pay substantial mortgage interest on an amount of the order of $450,000.
+[66] While the $1,800 a month in rent paid by Yusuf would help the Appellant and her husband, the actual amount available for them to help pay for the new house would be less since his rent was all inclusive and would have to cover heat, electricity, water, insurance and property taxes for 161 Shirrick. Whatever was left over could help, but the Appellant and her husband faced substantial additional costs in their new home; a mortgage with a $450,000 principal could easily result in mortgage payments of $1,000 per month or more.
+[67] Given the relatively low gross income reported by the Appellant and her husband, it is unlikely that the new home at 161 Shirrick was financially manageable for them.
+[68] When Yusuf testified about his moving out of 215 Shirrick he stated that he felt he had to move out for the safety of his niece and nephew given “. . . the way they explained it to me what was going on in that neighbourhood”. [13] (My emphasis.) The quoted passage is odd. At the time Yusuf would have been asked to move out, he was living at the other end of the block; as such it is strange to refer to “that neighbourhood”.
+[69] The terminology Yusuf used is more consistent with living in another neighbourhood than with living at the other end of the block. [14]
+[70] For all these reasons, I am not persuaded that the Appellant bought the property at 161 Shirrick with the intention of using it as the family’s principal place of residence. Accordingly, the appeal is dismissed without costs.
+Signed at Ottawa, Canada, this 7th day of March 2017.
+“Gaston Jorré”
+Jorré J.
+CITATION:
+2017 TCC 35
+COURT FILE NO.:
+2016-642(GST)I
+STYLE OF CAUSE:
+NAHID SAFAR-ZADEH v. THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+8 December 2016
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Gaston Jorré
+DATE OF JUDGMENT:
+7 March 2017
+APPEARANCES:
+Counsel for the Appellant:
+Bryan A. Rowe
+Counsel for the Respondent:
+Judy Michaely
+COUNSEL OF RECORD:
+For the Appellant:
+Bryan A. Rowe
+Firm:
+Morra Caruso Law
+Stouffville, Ontario
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] This requirement is contained in paragraph 254(2)(b) of the Excise Tax Act which reads as follows:
+at the time the . . . individual becomes liable . . . under an agreement of purchase and sale of the . . . unit entered into between the builder and the . . . individual, the . . . individual is acquiring the . . . unit for use as the primary place of residence of the . . . individual or a relation of the . . . individual,
+[2] $500,000 seems to be more or less in the correct range when one adds in GST/HST and then deducts the new housing rebate claimed. See the fourth and fifth pages at Tab 1 of Exhibit A-1.
+[3] See assumption 6f) in the Minister’s reply to the notice of appeal. This assumption was not challenged.
+[4] Although at one point the Appellant spoke of deciding in January or February that they could not stay, as set out below she later testified that she listed the house in January.
+[5] None of the witnesses made mention of paying back the mortgage but presumably the proceeds of sale were also used for that purpose. As set out above, the Appellant did speak of the pressure of mortgage payments.
+[6] Based on the evidence, I find this statement hard to understand. The Appellant’s costs were about $500,000 for the house, $50,000 for improvements and the 3.5% commission on the sale price of $625,000, an amount of just under $22,000 for a total of about $575,000. Mathematically, there has to be a gain of about $50,000.
+[7] Apparently that was done much later.
+[8] This statement is at about 11:36-11:37 a.m. in the audio recording.
+[9] In late November when the purchase closed and in the following months when the windows would mostly be shut, noise levels inside the house would be lower than during warmer months when windows would often be open.
+[10] The evidence did not disclose the day and month of birth in 2010 of the youngest child so the child might have been two years old on 21 November 2012 but would have turned three no later than 31 December.
+[11] The Appellant testified that she was upset and sad when she noticed the problems with the new house. In that context one might have expected the Appellant and her husband to spend some effort to examine whether there were ways of mitigating the problems such as having a fence built for the backyard to eliminate the safety issue, buying heavy curtains to block the light and exploring whether there were options to mitigate noise such as triple glazing. There does not appear to have been much effort to do so.
+When one looks near the bottom of the fifth page at Tab 1 of Exhibit A-1 there is an item “fencing” which suggests that the builder did offer fencing as an option.
+[12] For a driver’s licence this requirement is found in subsection 9(2) of the Highway Traffic Act, R.S.O. 1990, c. H.8; for OHIP the requirement is found in subsection 11(3) of the Health Insurance Act, R.S.O. 1990, c. H.6.
+[13] “They” was a reference to his brother and sister‑in‑law.
+[14] It is also surprising that he refers to the necessity for the move as resulting from “what was going on”; this is a peculiar way to refer to two straightforward problems, noise and the risk of a child running out to the street in the absence of a fence.

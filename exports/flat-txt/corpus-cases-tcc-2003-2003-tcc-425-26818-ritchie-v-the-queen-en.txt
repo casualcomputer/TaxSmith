@@ -1,0 +1,130 @@
+Title: Ritchie v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26818/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-425-26818-ritchie-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-06-26
+
+# Ritchie v. The Queen
+
+- Citation: 2003 TCC 425
+- Decision date: 2003-06-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 689, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ritchie v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-06-26
+Neutral citation
+2003 TCC 425
+File numbers
+2002-3898(IT)I
+Judges and Taxing Officers
+Joe E. Hershfield
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-3898(IT)I
+BETWEEN:
+ROBERT G. RITCHIE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard and judgment rendered orally on June 13, 2003
+at Winnipeg, Manitoba
+Before: The Honourable Judge J.E. Hershfield
+Appearances:
+Agent for the Appellant:
+Nori Rubert
+Counsel for the Respondent:
+Derwin Petri (Student-at-Law)
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2000 taxation year is allowed, with costs, and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Toronto, Canada, this 26th day of June 2003.
+"J.E. Hershfield"
+J.T.C.C.
+Citation: 2003TCC425
+Date: 20030626
+Docket: 2002-3898(IT)I
+BETWEEN:
+ROBERT G. RITCHIE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Hershfield, J.T.C.C.
+[1] The appeal was dismissed from the Bench on June 13, 2003 with oral reasons. However, the parties were reminded that the judgment was not final until signed.[1] The reminder was given following a discussion of my findings in respect of certain coming into force provisions of the Income Tax Act ("the Act").
+[2] In the year under appeal, 2000, the Appellant claimed a non-refundable tax credit for the equivalent-to-spouse amount under paragraph 118(1)(b) of the Act. The Minister denied his claim pursuant to subsection 118(5) on the basis that the Appellant was required to pay a "support amount" (as defined in subsection 56.1(4) of the Act) to his spouse in the subject year and on the basis that at least one of two further conditions for the application of subsection 118(5) had been met. Such conditions are set out in paragraphs (a) and (b) of subsection 118(5) which reads as follows:
+(5) No amount may be deducted under subsection (1) in computing an individual's tax payable under this Part for a taxation year in respect of a person where the individual is required to pay a support amount (as defined in subsection 56.1(4)) to the individual's spouse or former spouse in respect of the person and the individual
+(a) lives separate and apart from the spouse or common-law partner or former spouse or common-law partner throughout the year because of the breakdown of their marriage or common-law partnership; or
+(b) claims a deduction for the year because of section 60 in respect of a support amount paid to the spouse or common-law partner or former spouse or common-law partner.
+[3] It is clear on the facts of the case that the condition in paragraph (a) has been met. The Appellant and his spouse were living separate and apart due to marriage breakdown at least since May 1996 when they entered into a written separation agreement. The agreement provided for support payments for the children of the marriage. However, the agreement provided that the Appellant would not claim a deduction for the support payments. Condition (b) then has not met. Still, subsection 118(5) seems to apply as condition (a) is met provided the Appellant was required to pay a "support amount" in the subject year. As will be noted later in these Reasons there will be no "support amount" unless the parties are living separate and apart by reason of marriage breakdown which at first glance seems to make the condition in paragraph 118(5)(a) redundant. The difference however is that the latter condition limiting access to the equivalent-to-spouse amount must be met throughout the year whereas a "support amount" can come into being in respect of a part of a year where the parties are living separate and apart for part of the year.
+[4] Before examining the question as to whether a "support amount" (a defined term introduced in the Act in 1997) is payable in this case, I note two peculiarities in this case. Firstly, we seem to have a "support amount" in this case as defined in subsection 56.1(4) even though the support payments were required under a 1996 agreement in respect of which there is no "commencement day". Under a somewhat complicated formula in paragraph 56(1)(b) "commencement day" is generally only relevant in computing a "child support amount", not a "support amount". However there is a transitional coming into force provision that addresses this. The second peculiarity of this case is the affect of the 1997 amendment to subsection 118(5) that occurred at the same time the definition of "support amount" was introduced into the Act. Subsection 118(5), of course, has its own coming into force provision but it does not have a transitional measure applicable in this case to the year 2000 in respect of support payments made under a 1996 separation agreement.
+[5] Before considering the transitional provisions of the relevant sections, consider the following paragraph in the 1996 separation agreement:
+3. CHILD SUPPORT:
+The husband shall pay to the wife child support for the support of the said children, in the total sum of $250.00 per month, payable on the 1st day of each and every month, commencing on the 1st day of June, 1996. The parties agree that the husband shall not be entitled to deduct the said child support payments and the wife shall not be required to claim the said child support payments as income, for Income Tax purposes.
+[6] The first line of this paragraph sets out a support payment that meets a number of tests applicable in a number of contexts. For example, it is a periodic payment under a written agreement. On its face it is an allowance with discretion as to use. This latter point was put in issue by the Appellant. The Appellant's argument, supported by the evidence, was that he agreed to the support payments intending and believing it would be used for specific extraordinary expenses for his children (swimming and dance lessons and certain tuition fees). Supporting his position there is, for example, correspondence evidencing her claim for additional, specific expenses of the type he had agreed to support. There is evidence that some of these expenses were paid directly by the Appellant. There were court records indicating that specific expense claims needed resolution. There is a Consent Order in 2002 confirming the Appellant's obligation, prospectively at least, to pay for specific extraordinary expenses for the maintenance of the children in lieu of the monthly payments. On the other hand, the evidence also underscored that his intentions and beliefs may not have defined his legal obligations under the 1996 agreement. On the face of the agreement he could not pay less than the agreed amount regardless of how the money was spent. On the face of the agreement he could not obtain an accounting or a refund if his support payments exceeded or were not used for the extraordinary expenses he intended to support. Of course these are hypothetical examples as there is no evidence that such situations arose. The Appellant's spouse incurred all, and more, of the extraordinary expenses he had intended to support. However in this case, where the extraordinary expenses were higher than his support payments, it appears he could not be held to account. In fact when asked by his spouse's lawyer to account, in equity, for more expenses, he appears to have acted on his legal right not to do so and made only such additional contributions as he felt able to make. Conceivably, the $250.00 per month was intended as a cap in respect of his obligation to support these specific, extraordinary expenses.
+[7] I also note that the Appellant's spouse testified at the trial on behalf of the Respondent. Her testimony supported the clear language of the first line of paragraph 3 of the agreement. She believed she had discretion as to use of the support payments.
+[8] The second line of paragraph 3 of the separation agreement contradicts the effect under the Act of the first line of the agreement as the Act read in 1996. If the first line is taken on its face, the support payments are deductible by the payer and must be included in the income of the recipient. While the Appellant has agreed not to claim a deduction (which may be binding on him as a matter of contract law) that does not mean that under the Act he was not entitled to the deductions. The question that arises however is whether I should draw an inference from the second line that it was intended to reflect, regardless of the first line, that the payments were tainted by the tacit but understood disqualifying condition that the support payments were for specific, extraordinary expenses. While ordinarily this would be an untenable stretch given the clear language of the first line of paragraph 3 of the agreement, there may be circumstances where the intentions of the parties as to their respective tax treatment may tip the balance in determining whether an express provision in an agreement means what it purports to mean. As it turns out I do not have to decide this point as the appeal must be allowed for other reasons regardless of the outcome of this question.
+[9] I will now turn to the transitional provisions respecting the sections of the Act that bear to the outcome of this case. I am faced with the following situation. In 1996 an agreement was entered into with a provision that the Appellant would not deduct the support payments. At that time subsection 118(5) read as follows:
+(5) Where an individual in computing the individual's income for a taxation year is entitled to a deduction under paragraph 60(b), (c) or (c.1) in respect of a payment for the maintenance of a spouse or child, the spouse or child shall, for the purposes of this section (other than the definition "qualified pension income" in subsection (7)) be deemed not to be the spouse or child of the individual. (emphasis added)
+[10] Under this provision it seems that the Appellant may have been entitled to a deduction under paragraph 60(b) of the Act as it then read and in that case he would not be eligible to claim the equivalent-to-spouse amount. This of course depends on whether the support payments were an allowance with discretion as to use.
+[11] Subsection 118(5) was amended by S.C. 1997, c. 25, s. 25(8) applicable to the 1997 and subsequent years. Under this coming into force provision, new subsection 118(5), cited above at paragraph 3 of these Reasons, applies notwithstanding that this is a 1996 agreement.[2] Under the new provision there must be a "support amount" which is defined as follows:
+"support amount" - means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and
+(a) the recipient is the spouse or common-law partner or former spouse or common-law partner of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage or common-law partnership and the amount is receivable under an order of a competent tribunal or under a written agreement; or
+(b) the payer is a natural parent of a child of the recipient and the amount is receivable under an order made by a competent tribunal in accordance with the laws of a province.
+[12] This definition of "support amount" was added, applicable after 1996, by S.C. 1997, c. 25, s. 9(6) but the coming into force provision was amended effective April 25, 1997 by S.C. 1998, c. 19, s. 307(1) as follows[3]:
+(8) Subsection (6) applies after 1996, except that
+(a) a support amount, as defined in subsection 56.1(4) of the Act, as enacted by subsection (6), does not include an amount
+(i) that was received under a decree, order or judgment of a competent tribunal, or under a written agreement, that does not have a commencement day (within the meaning assigned by that subsection 56.1(4)), and
+(ii) that if paid and received would, but for this Act, not be included in computing the income of the recipient of the amount;
+[13] Since there is no "commencement day" for the 1996 agreement,[4] there is no "support amount" in this case. This means that subsection 118(5) cannot apply to prevent the equivalent-to-spouse claim and the appeal must thereby be allowed.
+[14] This finding is based on a construction of this transitional provision to the effect that there are two situations where there will be no "support amount": firstly, there will be no "support amount" where payments are made under an old agreement that has not been brought into the new system by virtue of having a "commencement day"; secondly, there will be no "support amount" where payments received under an old agreement would not be included in the income of the recipient (i.e. the payments would have failed to meet a required condition such as being periodic or having discretion as to use). In either case there will be no "support amount".[5] At the hearing I suggested the "and" between subparagraphs (i) and (ii) in the above transitional provision meant that both (i) and (ii) had to be met for there not to be a "support amount". I am now of a different view. There is no "support amount" in this case for the purposes of subsection 118(5). The transitional provisions for the amendments to the Act preserve the status quo for old agreements.[6]
+[15] Accordingly the appeal is allowed with costs.
+Signed at Toronto, Canada, this 26th day of June 2003.
+"J.E. Hershfield"
+J.T.C.C.
+CITATION:
+2003TCC425
+COURT FILE NO.:
+2002-3898(IT)I
+STYLE OF CAUSE:
+Robert G. Ritchie and
+Her Majesty the Queen
+PLACE OF HEARING:
+Winnipeg, Manitoba
+DATE OF HEARING:
+June 13, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Judge J.E. Hershfield
+DATE OF JUDGMENT:
+June 26, 2003
+APPEARANCES:
+Agent for the Appellant:
+Nori Rubert
+Counsel for the Respondent:
+Derwin Petri (Student-at-Law)
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Shairp v. M.N.R., 87 DTC 5206; affirmed 88 DTC 6484 (FCA); Chadwick Estate v. Canada, [1994] 1 C.T.C. 2628
+[2] I note that the current version of the Act reflects further amendments to this subsection. These further amendments have transitional provisions but same do not bear to the issues in the case at bar. The further amendments deal with common law partners.
+[3] The 1998 amendment added subparagraph (a)(i). The 1997 amendment just excluded from "support amount" the amount referred to in subparagraph (a)(ii).
+[4] It was not in dispute that there were no elections or intervening written agreements or court orders respecting the support payments made in 2000 pursuant to the 1996 agreement. Accordingly there could be "no commencement day" as defined in subsection 56.1(4) of the Act.
+[5] The 1998 amendment of the coming into force provision referred to in note 3 above tends to support this construction.
+[6] Interestingly, in this peculiar case, there is a potential anomaly in respect of maintaining the status quo for claiming the equivalent-to-spouse credit. Under the amended subsection 118(5), the Appellant would not be disallowed the equivalent-to-spouse credit by virtue of an entitlement to deduct the support payments (if he had such entitlement) since he did not claim the deduction pursuant to his agreement. Under the amended subsection 118(5) the disallowance of the equivalent-to-spouse credit only applies if a claim is made for a deduction whether on not there was an entitlement.

@@ -1,0 +1,128 @@
+Title: Stojak c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28085/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-565-28085-stojak-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2003-08-14
+
+# Stojak c. M.R.N.
+
+- Citation: 2003 CCI 565
+- Decision date: 2003-08-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1670, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Stojak c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-08-14
+Référence neutre
+2003 CCI 565
+Numéro de dossier
+2003-117(CPP)
+Juges et Officiers taxateurs
+Michael J. Bonner
+Sujets
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2003‑117(CPP)
+ENTRE :
+DIANNE STOJAK,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 19 juin 2003 à Vancouver (Colombie‑Britannique)
+Devant : L’honorable juge Michael J. Bonner
+Comparutions
+Représentante de l’appelante :
+L’appelante elle‑même
+Avocat de l’intimé :
+Me Raj Grewal
+____________________________________________________________________
+JUGEMENT
+L’appel sera accueilli et la question sera déférée au ministre du Revenu national pour nouvelle cotisation en conséquence.
+Signé à Ottawa, Canada, ce 14e jour d’août 2003.
+« Michael J. Bonner »
+Juge Bonner
+Traduction certifiée conforme
+ce 26e jour de janvier 2004.
+Louise-Marie Leblanc, traductrice
+Référence : 2003CCI565
+Date : 20030814
+Dossier : 2003‑117(CPP)
+ENTRE :
+DIANNE STOJAK,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bonner
+[1] Faxit Communications Inc. (Faxit) a interjeté appel à l’encontre de la cotisation du ministre du Revenu national (le « ministre ») en vertu de l’article 27.1[1] du Régime de pensions du Canada, la cotisation résultant d’une évaluation effectuée en se fondant sur l’hypothèse selon laquelle Dianne Stojak avait été embauchée par Faxit aux termes d’un contrat de louage de services pendant les années 2000, 2001 et 2002. Le ministre a confirmé l’évaluation. L’appelante a alors interjeté le présent appel en vertu de l’article 28 du Régime de pensions du Canada en tant que personne visée par la décision du ministre. L’unique point en litige consiste à savoir si l’appelante avait été embauchée par Faxit aux termes d’un contrat de louage de services ou, comme elle le prétend, si elle travaillait pour Faxit comme consultante en vertu d’un contrat d’entreprise.
+[2] Voici la position de l’appelante exprimée dans son Avis d’appel :
+[Traduction]
+Je n’ai jamais travaillé pour Faxit Communications Inc. à titre d’employée embauchée aux termes d’un contrat d’entreprise (sic) [« contract for services » dans la version anglaise] au sein de cette organisation. J’ai effectué des travaux facturés pour Faxit Communications aux termes d’un contrat d’entreprise [« contract for hire » dans la version anglaise] obtenu par l’entremise de mon entreprise d’enseignement et de consultation en gestion, DS Educational Services. J’ai donc inscrit ce revenu à titre de revenu provenant d’un travail indépendant.
+Depuis 1999, j’exploite une entreprise d’enseignement et de consultation en gestion et j’ai effectué des travaux facturés dans le cadre d’un contrat d’entreprise avec un bon nombre d’entreprises, d’organismes et d’organisations professionnelles. Le revenu provenant de ces travaux a été déclaré comme revenu d’un travail indépendant, et toutes les sommes d’argent dues à l’ADRC ont été déclarées dans les déclarations de revenu remplies. Je possède le plein contrôle de mon travail, j’établis mes heures de travail et les jours d’ouverture et j’effectue mon travail sans supervision. Je possède mon propre équipement et les éléments de technologie nécessaires pour accomplir le travail de consultante et je suis l’unique responsable de mes profits ou de mes pertes. Je suis l’unique propriétaire de l’entreprise d’enseignement et de consultation en gestion DS Educational Services et j’exploite cette entreprise à mon bureau situé dans mon domicile.
+[3] Selon l’intimé, l’appelante occupait un emploi ouvrant droit à pension pour Faxit aux termes d’un contrat de louage de services. Cette décision était fondée sur les hypothèses de fait suivantes :
+[Traduction]
+a) Faxit a été incorporée en personne morale en octobre 1997 et constitue une entreprise de publicité;
+b) Pat Stojak détient l’ensemble des actions de Faxit;
+c) Pat Stojak occupait le poste de président de Faxit;
+d) Pat Stojak est le conjoint de l’appelante;
+e) Pat Stojak accomplissait des tâches de gestion et d’administration financière pour Faxit;
+f) l’appelante effectuait des tâches de gestion et d’administration financière pour Faxit au besoin ou lorsque Pat Stojak était absent;
+g) en plus de ses tâches de gestion, l’appelante formait les nouveaux employés de Faxit;
+h) Faxit vendait des services de publicité aux clients;
+i) Faxit diffusait la publicité de ses clients par télécopieur dans une base de données de numéros de télécopieurs;
+j) Faxit établissait les tarifs qui sont exigés de ses clients;
+k) Faxit embauchait d’autres travailleurs pour vendre de la publicité à des clients potentiels et pour entrer la publicité du client dans la base de données électronique de Faxit aux fins de diffusion;
+l) Faxit payait à l’appelante une rémunération mensuelle fixe;
+m) l’appelante accomplissait ses tâches pour Faxit dans les locaux d’affaires de Faxit et dans un bureau situé à son domicile;
+n) l’appelante détenait une procuration de signature pour le compte bancaire de Faxit;
+o) l’appelante devait présenter un rapport de ses tâches de gestion à Faxit;
+p) l’appelante n’a engagé aucune dépense dans l’exécution de ses tâches pour Faxit;
+q) Faxit devait retenir des contributions de la rémunération payée à l’appelante.
+Il n’y a pas eu de contestation importante aux hypothèses établies aux paragraphes a) à d) et h) à k). Je remarque que la pertinence de l’hypothèse j) n’est pas claire et que le paragraphe q) est fondé sur une conclusion qui constitue véritablement un point en litige.
+[4] L’appelante ainsi que son conjoint, Patrick Thomas Stojak, ont témoigné pendant l’audition de l’appel.
+[5] Selon le témoignage de l’appelante, elle exploite une entreprise, DS Educational Services, fournissait des services de gestion et de consultation à plusieurs clients dont Faxit. Elle a préparé ses déclarations de revenu et de dépenses pour les années 1999, 2000 et 2001. Les revenus déclarés sur ces relevés provenaient uniquement de services de consultation. Les montants étaient 6 560,60 $, 15 055 $ et 19 580 $ respectivement. L’appelante a présenté beaucoup de documents qui semblent être des factures et des relevés de paiement préparés selon les activités accomplies sous le nom DS Educational Services. Des clients effectuaient les paiements à l’intention de DS Educational Services, y compris le College of Dental Hygienists of British Columbia, la University of British Columbia et la Dental Hygienists Association. Les factures portaient l’en‑tête de DS Educational Services et étaient envoyées à Faxit Communications Ltd. Elles visaient le paiement de services administratifs, techniques et de formation, facturés à des taux de 50 $, de 75 $ et de 35 $ l’heure respectivement.
+[6] Selon l’appelante, Faxit exploitait une entreprise de diffusion de publicité pour le compte de ses clients. Cette tâche était accomplie en entrant la publicité fournie par le client dans ses ordinateurs et en diffusant les messages publicitaires dans sa base de données de numéros de télécopieurs.
+[7] L’appelante a témoigné que son travail pour Faxit comprenait l’établissement de systèmes de gestion des communications et l’analyse organisationnelle. Le travail était accompli aux termes d’un contrat oral entre l’appelante et Faxit. L’appelante n’a pas indiqué la date d’établissement du contrat ni n’a fourni de détails quant aux négociations ou au moment où elles avaient eu lieu. Le travail effectué pour Faxit générait des revenus qui variaient entre 20 000 $ et 24 000 $ pour une période de deux ans à deux ans et demi. L’appelante affirme que le tarif qu’elle exigeait à Faxit variait d’un mois à l’autre selon le nombre d’heures de travail. Elle a affirmé que Faxit ne lui offrait aucun avantage tel que des congés de maladie, des vacances payées ou une assurance.
+[8] L’appelante a déclaré qu’elle avait terminé une maîtrise en éducation à la University of Victoria en novembre 2000. Elle s’était spécialisée en gestion et en administration. Elle considérait son éducation comme un « outil » fourni pour exécuter son contrat avec Faxit.
+[9] L’appelante a déclaré avoir embauché et congédié des employés dans le cadre des activités de l’entreprise DS. Elle a indiqué qu’elle exploitait l’entreprise à partir d’un bureau situé dans son domicile. Elle a précisé qu’elle effectuait 90 p. 100 du travail lié à l’entreprise Faxit à partir de son bureau. Elle a prétendu qu’elle payait pour les fournitures utilisées dans le cadre du travail accompli et a présenté des reçus de caisses enregistreuses et d’autres documents représentant des paiements pour des fournitures de bureau.
+[10] L’appelante a soutenu qu’elle décidait des heures de travail consacrées à Faxit. Elle a indiqué que le nombre d’heures de travail par semaine variait de deux à vingt heures. Elle a présenté un horaire indiquant que ses études ne lui laissaient guère de temps pour travailler pour DS selon un horaire régulier établi.
+[11] L’appelante a également présenté des factures indiquant qu’elle avait acheté de l’équipement de bureau qui, selon elle, était utilisé dans le cadre de l’exploitation de son entreprise.
+[12] La nature du travail pour lequel Faxit avait embauché l’appelante est décrite dans des termes plutôt ambigus. L’appelante affirme avoir effectué une analyse et une évaluation de l’organisation et indique qu’elle avait établi des systèmes de gestion des communications. Elle a examiné ce qui pouvait être fait pour améliorer le fonctionnement de l’entreprise. La description du travail sur les factures envoyées par DS à Faxit est également formulée dans des termes énigmatiques. L’appelante a affirmé qu’elle [Traduction] « jouait un certain rôle visant » à s’assurer que les employés comprenaient les recommandations qu’elle avait formulées. Elle prétendait qu’elle n’avait participé d’aucune autre façon à la formation des employés. De plus, elle affirmait avoir mis en œuvre des systèmes visant à gérer l’encaissement des créances. Les recommandations de l’appelante, dont aucune n’a été présentée, constituaient le produit qu’elle devait apparemment fournir pour Faxit. Elle indique que Faxit ne produisait aucun rapport parce que c’était elle et non Faxit qui possédait l’expertise en analyse organisationnelle. L’appelante nie avoir participé à la gestion des activités de Faxit.
+[13] Le conjoint de l’appelante, Patrick Thomas Stojak, a également témoigné. Il a confirmé que l’appelante avait été embauchée par Faxit aux termes d’un contrat oral. Il a indiqué que le contrat stipulait que l’appelante devait accomplir certaines tâches. M. Stojak a décrit la nature du travail comme une structuration de l’organisation et des services de formation et il a ajouté que son travail avait permis un meilleur encaissement des créances. Il a indiqué que, bien qu’il ait été en dehors de la ville, il continuait à gérer les activités de Faxit par téléphone et par courrier électronique.
+[14] M. Stojak a déclaré que l’appelante n’était pas obligée de pointer l’heure et qu’elle avait le droit de travailler pour d’autres entreprises. Il a insisté que Faxit ne lui avait jamais offert un emploi.
+[15] M. Stojak a témoigné un peu vaguement quant au fait que l’appelante devait fournir ses recommandations à Faxit. Il a indiqué que les recommandations étaient [Traduction] « pour la plupart verbales ».
+[16] M. Stojak a indiqué qu’il discutait de la facturation avec l’appelante et que, lorsqu’ils s’entendaient sur un montant, l’appelante devait envoyer une facture à l’entreprise. Il a affirmé que l’appelante facturait ses heures de travail.
+[17] J’ai conclu, non sans hésiter, que le témoignage de l’appelante et de Patrick Stojak étaient en principe honnêtes bien que la manière de témoigner de l’appelante ait semblé parfois évasive. J’ai conclu que la réticence apparente de l’appelante à répondre aux questions constituait un désir de répéter sa position aussi souvent que possible et non une réticence à dire la vérité.
+[18] La description générale des contrats de louage de services et des contrats d’entreprise que l’on trouve dans les motifs du président Jackett dans l’affaire Alexander c. M.R.N., [1970] R.C. de l'É. 138 (70 DTC 6006) à la page 148 (p. 6011 dans DTC) offre un aperçu qui peut nous être utile dans la présente situation :
+[…] D'une part, un contrat de louage de services est un contrat en vertu duquel une partie accepte d'effectuer pour une autre un certain travail très précis, stipulé au contrat. Un contrat de travail n'envisage ordinairement pas l'exécution d'un travail particulier mais stipule ordinairement que le préposé offre ses services au commettant pour une certaine période de temps. Un contrat de louage de services envisage ordinairement, par contre, l'exécution d'un travail ou d'une tâche nettement délimitée et n'exige ordinairement pas que le contractant exécute personnellement quelque chose. […]
+[19] Dans l’affaire 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] 2 R.C.S. 983, on a examiné la jurisprudence s’appuyant sur les différences entre les deux types de contrat. Le juge Major, parlant au nom de la Cour, a indiqué qu’il approuvait le critère composé de quatre parties intégrantes établi dans les motifs du jugement du juge d’appel MacGuigan, dans l’affaire Wiebe Door Services, [1986] 3 C.F. 553 ([1986] 2 C.T.C. 200). À la page 1005 de la décision Sagaz, le juge Major s’est exprimé ainsi :
+Bien qu'aucun critère universel ne permette de déterminer si une personne est un employé ou un entrepreneur indépendant, je conviens avec le juge MacGuigan que la démarche suivie par le juge Cooke dans la décision Market Investigations, précitée, est convaincante. La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l'employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s'il engage lui-même ses assistants, quelle est l'étendue de ses risques financiers, jusqu'à quel point il est responsable des mises de fonds et de la gestion et jusqu'à quel point il peut tirer profit de l'exécution de ses tâches.
+Ces facteurs, il est bon de le répéter, ne sont pas exhaustifs et il n'y a pas de manière préétablie de les appliquer. Leur importance relative respective dépend des circonstances et des faits particuliers de l'affaire.
+[20] Dans l’affaire en l’espèce, une grande partie de la difficulté vient du fait que le travail accompli par l’appelante pour Faxit était effectué selon une description plutôt vague d’une entente orale entre personnes ayant un lien de dépendance entre elles. Selon l’essentiel des arguments de l’appelante, Faxit ne l’a pas embauchée pour qu’elle offre ses services à Faxit pour une période définie, mais plutôt afin d’examiner, d’analyser et de fournir un produit sous forme de recommandations sur les différents aspects des activités commerciales de Faxit. Je remarque que le travail de nature analytique de l’appelante pouvait être effectué aussi rapidement par une personne ayant été embauchée à titre d’employé que par un entrepreneur autonome.
+[21] L’intimé a supposé que Faxit payait l’appelante un tarif mensuel fixe. Ce n’était pas le cas. L’appelante facturait Faxit tous les mois. Les factures indiquaient le nombre d’heures de travail pour chacune des trois catégories, et on appliquait le tarif respectif à chacune de ces catégories. Pour ce qui est du temps de travail, la facturation correspond tout à fait au travail d’un entrepreneur autonome.
+[22] La preuve n’indique pas que Faxit avait un contrôle quelconque sur la méthode de travail de l’appelante. Cette dernière possède un diplôme dans un domaine qui semble avoir une certaine relation avec le genre de travail que Faxit lui aurait demandé de faire selon ses dires. La preuve n’indique pas que M. Stojak ou que qui que ce soit d’autre à Faxit possédait une expertise dans ce domaine. Dans de telles circonstances, il semble improbable que Faxit aurait voulu une clause contractuelle lui permettant de contrôler la méthode de travail. Bien que l’absence de droit de contrôle sur la méthode de travail indique qu’il s’agit d’un contrat d’entreprise, le critère n’a plus autant d’importance dans des affaires comme celle‑ci où le travailleur possède une expertise que ne possède aucune des personnes l’ayant embauchée.
+[23] Le fait que le travailleur était propriétaire et utilisait des outils et de l’équipement nécessaires pour accomplir son travail semble appuyer la conclusion voulant que la travailleuse soit une entrepreneure autonome. Dans l’affaire en l’espèce, l’appelante a présenté des documents indiquant qu’elle avait acheté de l’équipement, y compris un scanner, un graveur de CD et un classeur. Elle travaillait pour Faxit en général à partir d’un bureau situé dans son domicile et utilisait un ordinateur qui lui appartenait entièrement ou en partie. Elle utilisait des fournitures qu’elle avait achetées. Tous ces faits étayent la conclusion selon laquelle elle travaillait pour Faxit à titre d’entrepreneure autonome.
+[24] Je souligne que l’appelante a déclaré, dans son témoignage, qu’elle avait embauché un assistant et qu’elle l’avait ensuite congédié. Malheureusement, l’appelante n’a pas indiqué, dans son témoignage, si l’assistant avait participé, d’une façon ou d’une autre, au travail de consultation pour Faxit. En raison de l’ambiguïté du témoignage, il est impossible d’appliquer cet élément de l’ensemble du critère.
+[25] Dans une certaine mesure, le fait que l’appelante exploitait une entreprise de consultation à son compte et que les factures envoyées à Faxit portait en en‑tête le nom de son entreprise appuie sa position. Le contrat semble avoir été élaboré au cours de l’opération de cette entreprise de consultation dont l’appelante était propriétaire. Il n’y a pas de raison apparente pour laquelle une personne exploitant une entreprise de consultation devrait accepter de travailler comme employée dans le même domaine d’activité.
+[26] Le degré de risque financier pris par l’appelante dans les circonstances de l’affaire qui nous occupe ne semble pas avoir été bien important. Après tout, elle recevait une rémunération horaire pour un travail qui ne semble pas avoir entraîné de coût différentiel. Néanmoins, lorsque l’on examine le travail effectué pour Faxit comme faisant partie intégrante de l’ensemble de l’activité de consultation, il est clair qu’il existait au moins une certaine mesure de risque financier que ne rencontre pas normalement un employé. Lorsque l’on examine les circonstances sous tous leurs aspects, il est, selon moi, évident qu’il ne s’agit pas d’une situation où l’appelante a mis ses services à la disposition de Faxit. Il s’agit plutôt d’une situation où l’appelante a accepté d’accomplir certaines tâches pour Faxit dans le cadre de sa propre entreprise à titre d’entrepreneure autonome. Pour utiliser les termes de l’arrêt Sagaz, l’appelante travaillait pour Faxit en tant que personne en affaire à son propre compte.
+[27] Je conclus que l’appel doit être accueilli. L’affaire sera déférée au ministre pour nouvelle cotisation en conséquence.
+Signé à Ottawa, Canada, ce 14e jour d’août 2003.
+« Michael J. Bonner »
+Juge Bonner
+Traduction certifiée conforme
+ce 26e jour de janvier 2004.
+Louise-Marie Leblanc, traductrice
+[1] Selon la Réponse à l’avis d’appel, l’appel interjeté à l’encontre de la décision du ministre avait été présenté en vertu de l’article 27 du Régime de pensions du Canada.

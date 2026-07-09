@@ -1,0 +1,346 @@
+---
+title: "Exemption for Vacation Properties: Manual Place-search Instructions"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/uhtn14/exemption-vacation-properties-manual-place-search-instructions.html
+last_modified: 2023-03-27
+---
+# Exemption for Vacation Properties: Manual Place-search Instructions
+
+### Update on underused housing tax filing requirements
+
+On March 26, 2026, [Budget 2025 Implementation Act, No. 1](https://www.parl.ca/DocumentViewer/en/45-1/bill/C-15/royal-assent), which proposed changes to the *Underused Housing Tax Act*, [received royal assent](https://www.canada.ca/en/department-finance/news/2026/03/legislation-passes-to-implement-budget-2025-canada-strong.html).
+
+**Affected owners do not need to file a return or pay the underused housing tax (UHT) for 2025 and subsequent calendar years.**
+
+Please note the requirement to file a UHT return and pay the tax still applies to the 2022, 2023, and 2024 calendar years.
+
+Underused Housing Tax Notice UHTN14
+
+March 2023
+
+This notice supplements [Underused Housing Tax Notice UHTN5, Exemption for Vacation Properties](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/uhtn5.html).
+
+The Canada Revenue Agency (CRA) created the [Underused housing tax vacation property designation tool](https://apps.cra-arc.gc.ca/ebci/sres/ext/pub/ntrUhtExpnTl?request_locale=en_CA) to help affected owners who are individuals to make an informed decision on whether their residential property is located in an eligible area of Canada for purposes of the vacation property exemption. Where an individual is unable to make a determination using the Underused housing tax vacation property designation tool, this notice provides the instructions and steps to conduct a manual place search.
+
+Except as otherwise noted, all statutory references in this publication are to the provisions of the Underused Housing Tax Act (UHTA) and its regulations. The information in this publication does not replace the law found in the UHTA and its regulations.
+
+## Table of Contents
+
+- [Introduction](#toc0)
+
+- [Definitions](#toc1)
+
+- [When is a manual place search necessary](#toc2)
+
+- [Steps to prepare the GeoSearch interactive mapping application](#toc3)
+
+- [Steps for conducting a place search](#toc4)
+
+- [Steps for determining if an area is a specified census agglomeration](#toc5)
+
+- [Examples](#toc6)
+
+- [Keeping records](#toc7)
+
+## Introduction
+
+Paragraph 6(7)(m) of the [Underused Housing Tax Act](https://laws-lois.justice.gc.ca/eng/acts/u-0.5/index.html) (UHTA) (together with section 2 of the [Underused Housing Tax Regulations](https://laws-lois.justice.gc.ca/eng/regulations/SOR-2022-19116/page-1.html#h-1386781)) provides an exemption for residential properties located in prescribed areas that meet prescribed conditions. This exemption is commonly known as the vacation property exemption.
+
+Whether a residential property is located in a prescribed area of Canada for purposes of the vacation property exemption is based on geographic areas that are established by Statistics Canada as a result of taking a census of Canada’s population. Statistics Canada produces and maintains various lists, tables and maps with respect to these geographic areas. Although the CRA is responsible for the administration of the UHTA and its regulations, the CRA has no authority over Statistics Canada’s lists, tables and maps.
+
+## Definitions
+
+Generally, a **prescribed area** is an area that is any of the following:
+
+- outside both a census metropolitan area and a census agglomeration
+
+- inside a census agglomeration that is not a specified census agglomeration
+
+- inside a census metropolitan area or specified census agglomeration, but outside a population centre that is part of such an area or agglomeration
+
+In this notice, we use the term **eligible area** to refer to a prescribed area.
+
+Census metropolitan areas, census agglomerations and population centres are statistical areas defined by Statistics Canada.
+
+A **census metropolitan area** is an area formed by one or more adjacent municipalities centred on a population centre. A census metropolitan area has a total population of at least 100,000 residents, of which 50,000 or more residents live in the core population centre.
+
+A **census agglomeration** is an area formed by one or more adjacent municipalities centred on a population centre. A census agglomeration has at least 10,000 residents living in the core population centre.
+
+For purposes of the vacation property exemption, a **specified census agglomeration** is a census agglomeration that has a total population of at least 30,000 residents.
+
+A **population centre** is an area that has a population of at least 1,000 residents and a population density of 400 persons or more per square kilometre.
+
+## When is a manual place search necessary
+
+The CRA has developed an online tool that will help you determine if your residential property is located in an eligible area of Canada for the purposes of the vacation property exemption. It is important for you to perform this verification each year before claiming the vacation property exemption on your return. To use this tool, go to [Underused housing tax vacation property designation tool](https://apps.cra-arc.gc.ca/ebci/sres/ext/pub/ntrUhtExpnTl?request_locale=en_CA).
+
+In rare situations, the CRA’s [Underused housing tax vacation property designation tool](https://apps.cra-arc.gc.ca/ebci/sres/ext/pub/ntrUhtExpnTl?request_locale=en_CA) will be unable to determine whether your residential property is located in an eligible area for purposes of the vacation property exemption. In such situations, you will have to conduct a visual inspection of the Statistics Canada’s [GeoSearch](https://www12.statcan.gc.ca/census-recensement/2021/geo/maps-cartes/geosearch-georecherche/index2021-eng.cfm?client=census&language=EN&DGUID=2021A000011124) map to determine whether your residential property is located in an eligible area.
+
+If your residential property is not located inside a population centre, then your residential property is located in an eligible area for purposes of the vacation property exemption.
+
+If your residential property is located inside a population centre, you must determine whether the population centre is inside a census metropolitan area or inside a specified census agglomeration. If the population centre is inside a census metropolitan area or inside a specified census agglomeration, your residential property is not located in an eligible area for purposes of the vacation property exemption. If the population centre is inside a census agglomeration that is not a specified census agglomeration, your residential property is located in an eligible area for purposes of the vacation property exemption.
+
+If you determine that your residential property is located in an eligible area of Canada using the Statistics Canada’s [GeoSearch](https://www12.statcan.gc.ca/census-recensement/2021/geo/maps-cartes/geosearch-georecherche/index2021-eng.cfm?client=census&language=EN&DGUID=2021A000011124) map, we recommend that you print the page and keep it with your records.
+
+The information in this notice relies on someone using visual perception of the Statistics Canada’s [GeoSearch](https://www12.statcan.gc.ca/census-recensement/2021/geo/maps-cartes/geosearch-georecherche/index2021-eng.cfm?client=census&language=EN&DGUID=2021A000011124) map. If you need help to use the Statistics Canada’s GeoSearch map for purposes of the vacation property exemption, please contact the CRA and a representative can assist you.
+
+Please be advised that it is the affected property owner’s responsibility to determine whether their property is located in an eligible area for the purposes of the vacation property exemption. The CRA cannot make that determination for the affected property owner.
+
+## Steps to prepare the GeoSearch interactive mapping application
+
+### Step 1
+
+Open the Statistics Canada’s [GeoSearch](https://www12.statcan.gc.ca/census-recensement/2021/geo/maps-cartes/geosearch-georecherche/index2021-eng.cfm?client=census&language=EN&DGUID=2021A000011124) interactive mapping application in your web browser. Once the application is open, a map of Canada appears. Above the map, is a search field with filter buttons.
+
+The search field, which is located at the top left corner, allows you to enter a place name or postal code. It is circled in red in the image below. Do not enter anything in the search field at this time.
+
+### Step 2
+
+To the right of the search field, there are buttons that provide filter options for the search. Hover your cursor over each button for an explanation of the filter option.
+
+The **Vintage options** drop-down box allows you to select the year of the Census geographic reference period. It is circled in red in the image below. Ensure the year 2021 appears in the drop-down box. If the year 2021 does not automatically appear, click on the drop-down box and select 2021 from the list of years.
+
+If you are conducting a manual place search for any of the five calendar years from 2022 to 2026, ensure the year 2021 appears in the drop-down box.
+
+The next national census of population will be conducted in 2026. The results of that census likely will be released within the first few months of 2027. In the future, if you are conducting a manual place search for any of the five calendar years from 2027 to 2031, you will have to ensure the year 2026 appears in the drop-down box.
+
+### Step 3
+
+To the right of the search field, find the **Options and preferences** button. It is circled in red in the image below. This button is used to define search criteria, related geographies and preferences.
+
+### Step 4
+
+Click on the **Options and preferences** button. This will open a pop-up window with three tabs that will overlay the map of Canada. Under the **Search** tab, which is circled in red in the image below, ensure a check mark appears in only the **Place Names (Place)** box.
+
+If check marks appear in other boxes, click on each of the other boxes to make the check mark disappear.
+
+### Step 5
+
+Click on the **Related geography** tab, which is circled in red in the image below. Ensure check marks appear in only the following two boxes:
+
+- Census metropolitan areas or census agglomerations (CMACA)
+
+- Population centres (POPCTR)
+
+If check marks appear in other boxes, click on each of the other boxes to make the check mark disappear.
+
+### Step 6
+
+Click on the **Preferences** tab, which is circled in red in the image below. The following two options will appear:
+
+- Zoom automatically to the selected geographic area
+
+- Enable/Disable additional geographic areas drop-down list
+
+Ensure that both of these options are selected and that the word **On** appears in the **Results based on specific name and geographic reference period** drop-down box, which is circled in gold in the image below.
+
+### Step 7
+
+Click on the **OK** button at the bottom right corner of the pop-up window to save your options and preferences. The button is circled in red in the image below.
+
+### Step 8
+
+After clicking the **OK** button, the pop-up window closes and the map of Canada reappears. In the bottom right corner, below the map, is the **Additional geographic areas** drop-down box, which allows you to overlay another geographic level on the GeoSearch map. It is circled in red in the image below. This feature was enabled in Step 6.
+
+### Step 9
+
+Click on the **Additional geographic areas** drop-down box and select **Population centres (POPCTR)**, which is circled in red in the image below.
+
+All of the population centres in Canada now appear as orange dots on the GeoSearch map.
+
+## Steps for conducting a place search
+
+### Step 10
+
+At the top left corner, above the map, in the search field that indicates **Place name or postal code**, enter the name of the locality, such as the community, village, hamlet, town or city where your residential property is located. The search field is circled in red in the image below.
+
+### Step 11
+
+As you enter the name of the locality in the search field, a list of results will start to generate below the search field. Depending on the name you enter and how common that name is, you might see the words **More choices** at the bottom of the list. If, at first, you do not see the name of the place where your residential property is located, click on **More choices**.
+
+### Step 12
+
+Click on the applicable place generated in the list of results below the search field. The GeoSearch map should reposition to the vicinity where your residential property is located.
+
+### Step 13
+
+To the left of the map, a **Related Geography for**window will appear. It is circled in red in the image below.
+
+If the place you selected in Step 12 is inside a census metropolitan area or a census agglomeration, the **Related Geography** **for** window will display a bullet called **Census metropolitan areas or census agglomerations**. The name of the census metropolitan area or census agglomeration will appear below the bullet.
+
+Names of census metropolitan areas are followed by **[CMA]** and names of census agglomerations are followed by **[CA]**.
+
+If the place you selected in Step 12 is inside or near a population centre, the **Related Geography for** window will display a bullet called **Population centres**. The names of the population centres or the names of any nearby population centres will appear below the bullet.
+
+### Step 14
+
+If the place you selected in Step 12 is inside a census metropolitan area or a specified census agglomeration, you should conduct a visual inspection of the GeoSearch map to confirm whether your residential property is located inside or outside a population centre.
+
+To begin such an inspection, place your cursor on the GeoSearch map and click on your mouse. While your mouse is still in the clicked position, drag the GeoSearch map so that the vicinity where your residential property is located appears near the middle of your screen.
+
+Use your mouse (or click on the **Zoom in** or **+** button on the left side of the GeoSearch map) to adjust the size of the map on your screen. Continue to zoom in until street names appear on the GeoSearch map.
+
+Find the street on which your residential property is located, then find the location of your residential property on the street. If needed, reposition the GeoSearch map on your screen.
+
+### Step 15
+
+If your residential property is located inside a population centre, it will be inside an area that is enclosed by an orange border on the GeoSearch map. The orange border outlines the boundary of the population centre.
+
+Your residential property is not located in an eligible area for purposes of the vacation property exemption if both of the following conditions are met:
+
+- your residential property is inside a population centre
+
+- the population centre is inside a census metropolitan area or inside a specified census agglomeration (steps 16 to 18 explain how to determine if an area is a specified census agglomeration)
+
+In any other case, your residential property is located in an eligible area for purposes of the vacation property exemption.
+
+## Steps for determining if an area is a specified census agglomeration
+
+### Step 16
+
+As explained in Step 13, if the place you selected in Step 12 is inside a census agglomeration, the **Related Geography** **for** window will display a bullet called **Census metropolitan areas or census agglomerations**. The name of the census agglomeration will appear below the bullet followed by **[CA]**.
+
+### Step 17
+
+Click on the name of the census agglomeration in the **Related Geography** **for** window. This should open a table below the GeoSearch map with the title **Results for [name of census agglomeration], [name of province] – 2021 Census only**. The first item in the table should be a link called **Census Profile, 2021 Census of Population**.
+
+### Step 18
+
+Click on the link **Census Profile, 2021 Census of Population**. This should open a new window with the title **Census Profile, 2021 Census of Population**. The first item in the table should be the total population of the census agglomeration for the 2021 Census.
+
+If the total population of the census agglomeration for the 2021 Census is 30,000 or more residents, the census agglomeration is a specified census agglomeration for purposes of the vacation property exemption.
+
+Examples 3 and 4 show how to determine if an area is a specified census agglomeration.
+
+## Examples
+
+Your residential property is located in the town of Lunenburg, Nova Scotia. Following the instructions in Steps 10 to 12, the Statistics Canada’s GeoSearch interactive mapping application displays a map of Lunenburg, Nova Scotia, which is outlined in orange in the image below.
+
+In the bottom right corner, below the map, the **Additional geographic areas** drop-down box displays **Population centres (POPCTR)**.
+
+To the left of the map, is the **Related Geography for** window. It includes the bullet called **Population centres** followed by the name Lunenburg but it does not include the bullet called **Census metropolitan areas or census agglomerations**. As explained in Step 13, this tells you that the town of Lunenburg is outside both a census metropolitan area and a census agglomeration. Consequently, you do not have to follow the instructions in Step 14. The **Related Geography for** window is circled in red in the image below.
+
+As explained in Step 15, a residential property is not located in an eligible area for purposes of the vacation property exemption if both of the following conditions are met:
+
+- the residential property is inside a population centre
+
+- the population centre is inside a census metropolitan area or inside a specified census agglomeration
+
+Your residential property in the town of Lunenburg is located in an eligible area for purposes of the vacation property exemption because, in this case, one or more of the conditions is not met. Even though your residential property is located inside a population centre, the population centre is not inside a census metropolitan area or inside a specified census agglomeration.
+
+Your residential property is located on Beechwood Avenue in the Crystal Beach area of the town of Fort Erie, Ontario. Following the instructions in Steps 10 to 12, the Statistics Canada’s GeoSearch interactive mapping application displays a map of Fort Erie and surrounding areas, which are outlined in orange in the image below.
+
+In the bottom right corner, below the map, the **Additional geographic areas** drop-down box displays **Population centres (POPCTR)**.
+
+To the left of the map, is the **Related Geography** **for** window. It is circled in red in the image below and it includes the following bullets:
+
+- **Census metropolitan areas or census agglomerations** followed by the name **St. Catharines – Niagara [CMA]**
+
+- **Population centres** followed by the names **Crystal Beach, Fort Erie**and**Stevensville**
+
+As explained in Step 13, this tells you that the town of Fort Erie is inside the census metropolitan area named St. Catharines – Niagara, and that there are three population centres inside that portion of the census metropolitan area:
+
+- Crystal Beach
+
+- Fort Erie
+
+- Stevensville
+
+As explained in Step 14, you should conduct a visual inspection of the three population centres to confirm whether your residential property is located inside or outside a population centre. Since your residential property is located on Beechwood Avenue in the Crystal Beach area of the town of Fort Erie, start your inspection with the population centre named Crystal Beach.
+
+In the **Related Geography for** window, click on the population centre named Crystal Beach, which is circled in red in the image below. The population centre of Crystal Beach will appear on the map outlined by an orange border, as in the image below.
+
+Following the instructions in Step 14, zoom in until you locate Beechwood Avenue and its surrounding area on the map, which is outlined in orange in the image below.
+
+Continue to zoom in until you locate your residential property on the map. Beechwood Avenue appears inside an area enclosed by an orange border that outlines the population centre named Crystal Beach.
+
+As explained in Step 15, your residential property on Beechwood Avenue in the Crystal Beach area of the town of Fort Erie is not located in an eligible area for purposes of the vacation property exemption because both of the following conditions are met:
+
+- your residential property is inside a population centre
+
+- the population centre is inside a census metropolitan area
+
+Your residential property is located in the town of Canmore, Alberta. Following the instructions in Steps 10 to 12, the Statistics Canada’s GeoSearch interactive mapping application displays a map of Canmore, Alberta, which is outlined in orange in the image below.
+
+In the bottom right corner, below the map, the **Additional geographic areas** drop-down box displays **Population centres (POPCTR)**.
+
+To the left of the map, is the **Related Geography for** window. It is circled in red in the image below and it includes the following bullets:
+
+- **Census metropolitan areas or census agglomerations** followed by the name **Canmore [CA]**
+
+- **Population centres** followed by the name **Canmore**
+
+As explained in Step 13, this tells you that the town of Canmore is inside the census agglomeration named Canmore, and that there is one population centre inside the census agglomeration (that is, Canmore).
+
+Following the instructions in Steps 16 to 18, a table with the title **Results for Canmore [Census agglomeration], Alberta – 2021 Census only** opens below the map. Click on the link in the table called **Census Profile, 2021 Census of Population**, which is circled in red in the image below.
+
+A new window opens and displays a profile table with the title **Census Profile, 2021 Census of Population**. The table indicates that the census agglomeration named Canmore has a total population of 15,990 residents. The census agglomeration of Canmore is not a specified census agglomeration because it does not have a total population of 30,000 or more residents.
+
+As explained in Step 15, a residential property is not located in an eligible area for purposes of the vacation property exemption if both of the following conditions are met:
+
+- the residential property is inside a population centre
+
+- the population centre is inside a census metropolitan area or inside a specified census agglomeration
+
+Your residential property in the town of Canmore is located in an eligible area for purposes of the vacation property exemption because, in this case, one or more of the conditions is not met. Even though your residential property is located inside a population centre, the population centre is not inside a census metropolitan area or inside a specified census agglomeration.
+
+Your residential property is located on rue du Havre in the town of Rivière-du-Loup, Quebec. Following the instructions in Steps 10 to 12, the Statistics Canada’s GeoSearch interactive mapping application displays a map of Rivière-du-Loup, Quebec, which is outlined in orange in the image below.
+
+In the bottom right corner, below the map, the **Additional geographic areas** drop-down box displays **Population centres (POPCTR)**.
+
+To the left of the map, is the **Related Geography for** window. It is circled in red in the image below and it includes the following bullets:
+
+- **Census metropolitan areas or census agglomerations** followed by the name **Rivière-du-Loup [CA]**
+
+- **Population centres** followed by the name **Rivière-du-Loup**
+
+As explained in Step 13, this tells you that the town of Rivière-du-Loup is inside the census agglomeration named Rivière-du-Loup, and that there is one population centre inside the census agglomeration (that is, Rivière-du-Loup).
+
+Following the instructions in Steps 16 to 18, a table with the title **Results for Rivière-du-Loup [Census agglomeration], Quebec – 2021 Census only** opens below the map. Click on the link in the table called **Census Profile, 2021 Census of Population**, which is circled in red in the image below.
+
+A new window opens and displays a profile table with the title **Census Profile, 2021 Census of Population**. The table indicates that the census agglomeration named Rivière-du-Loup has a total population of 30,025 residents. The census agglomeration of Rivière-du-Loup is a specified census agglomeration because it has a total population of 30,000 or more residents.
+
+Your residential property is located on rue du Havre in the town of Rivière-du-Loup. As explained in Step 14, you should conduct a visual inspection of the population centre to confirm whether your residential property is located inside or outside the population centre.
+
+To the left of the map, in the **Related Geography for** window, click on the population centre named Rivière-du-Loup, which is circled in red in the image below. The population centre of Rivière-du-Loup will appear on the map outlined by an orange border, as in the image below.
+
+Zoom in until you locate rue du Havre and its surrounding area on the map. It appears inside an area enclosed by an orange border that outlines the population centre named Rivière-du-Loup, as in the image below.
+
+Continue to zoom in until you locate your residential property on the map. The map will display residential addresses on rue du Havre.
+
+As explained in Step 15, your residential property on rue du Havre in the town of Rivière-du-Loup is not located in an eligible area for purposes of the vacation property exemption because both of the following conditions are met:
+
+- your residential property is inside a population centre
+
+- the population centre is inside a specified census agglomeration
+
+## Keeping records
+
+Every affected owner of a residential property must keep records to enable the determination of their obligations and liabilities under the UHTA. Generally, you must keep the records for six years from the end of the year to which they relate.
+
+If you do not have adequate records to support that your ownership of a residential property is exempt from the underused housing tax for a calendar year, the CRA may disallow your exemption.
+
+## Further information
+
+For all technical publications related to the UHTA, go to [Underused housing tax technical information](https://www.canada.ca/en/services/taxes/excise-taxes-duties-and-levies/underused-housing-tax/underused-housing-tax-technical-information.html).
+
+For general enquiries about the underused housing tax, call the applicable telephone number:
+
+- if you are calling about a residential property that is owned by an individual and you are calling from:
+
+    - within Canada or the United States, call **1‑800‑959‑8281**
+
+    - outside Canada and the United States, call **613‑940‑8495** (collect calls accepted)
+
+- if you are calling about a residential property that is owned by a corporation and you are calling from:
+
+    - within Canada or the United States, call **1‑800‑959‑5525**
+
+    - outside Canada and the United States, call **613‑940‑8497** (collect calls accepted)
+
+To request a ruling or an interpretation related to the application of the underused housing tax, write to:
+
+GST/HST Rulings Directorate Canada Revenue Agency Place de Ville Tower A 5th floor 320 Queen St Ottawa ON K1A 0L5 Canada
+
+Fax: **1‑418‑566‑0319**
+
+Refer to [GST/HST Memorandum 1-4, Excise and GST/HST Rulings and Interpretations Service](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/1-4.html) , which explains the rulings and interpretations service offered by the Canada Revenue Agency.

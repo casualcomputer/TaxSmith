@@ -1,0 +1,159 @@
+---
+title: "Bragg-Smith v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30881/index.do"
+last_modified: "2012-07-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 252"
+citation2: ""
+neutral_citation: "2012 TCC 252"
+decision_date: "2012-07-12"
+language: "en"
+item_id: "30881"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7412
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:16:58.999000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1c0d94ea419609c8853c02a2153eda0e1e6ba87ddadd79c4f0775b1959d27354"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bragg-Smith v. The Queen
+
+- Citation: 2012 TCC 252
+- Decision date: 2012-07-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7412, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bragg-Smith v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-07-12
+Neutral citation
+2012 TCC 252
+File numbers
+2009-3124(IT)G
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-3124(IT)G
+BETWEEN:
+SYLVIA IMOLA BRAGG-SMITH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 1, 2012, at Toronto, Ontario.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Counsel for the Appellant:
+Herbert Arnold
+Counsel for the Respondent:
+Ryan Gellings
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to an assessment made pursuant to section 160 of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), as amended, dated August 22, 2008, is allowed and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached reasons for judgment. Each party is to bear her own costs.
+Signed at Ottawa, Canada, this 12th day of July 2012.
+“Robert J. Hogan”
+Hogan J.
+Citation: 2012TCC252
+Date: 20120712
+Docket: 2009-3124(IT)G
+BETWEEN:
+SYLVIA IMOLA BRAGG-SMITH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Hogan J.
+Introduction
+[1] This appeal is from an assessment made by the Minister of National Revenue (the “Minister”) against Sylvia Imola Bragg-Smith (the “Appellant”) under subsection 160(1) of the Income Tax Act (Canada) (the “ITA”).
+[2] The issue is whether the Appellant is liable to pay $43,157 on account of her father’s income tax liability as a result of the assignment to her by her father of an identical amount owed to him that was subsequently paid to the Appellant (the “Payment”).
+[3] The Appellant acknowledges that she received the Payment at the direction of her father but she also alleges that she paid the sum of $31,762.50 owed to a creditor by her father. That creditor had supplied the goods that were the object of the transaction that gave rise to the Payment.
+[4] As a result, according to the Appellant, the assessment should be reduced to $11,394.50, being the excess of the Payment received by her over the amount she paid as consideration for the Payment.
+[5] The Respondent alleges that the Appellant did not make a legally enforceable promise to pay her father’s creditor the sum of $31,762.50. The amount was payable by the Appellant to the creditor because of a moral obligation owed to her father. According to the Respondent, the case law establishes that a moral obligation does not constitute “consideration” for transferred property within the meaning of subsection 160(1) of the ITA.
+Factual Background
+[6] Timothy Bragg-Smith, the Appellant’s father, operated a scrap metal business known as “Auro Metals Environmental”. By 2007, Mr. Bragg‑Smith owed approximately $487,000 in taxes, interest and penalties in respect of prior taxation years.
+[7] On or about June 13, 2007, Cameron Habisreutinger, a Canada Revenue Agency (the “CRA”) collections officer, commenced collection actions against Mr. Bragg‑Smith. Mr. Habisreutinger testified that he sent to Mr. Bragg‑Smith’s customers and the financial institutions that handled his banking arrangements information requirements for third-party payment of his tax account. He also issued, in March of 2008, an information requirement to one of those financial institutions, the CIBC.
+[8] As a result of that request, Mr. Habisreutinger discovered that the Appellant had opened a US dollar account with the CIBC to receive the Payment from Umicore Optical Materials USA, Inc. (“Umicore Optical”), a US corporation that acquired approximately 113 kilograms of germanium contained in optical scrap/sludge (the “germanium”). The shipment was arranged on or around September 10, 2007 by the Appellant’s father and the optical scrap/sludge was shipped from Canada. An amount of $43,200 represented the first payment out of a total sales price of $68,077.74 for the germanium.
+[9] According to the Appellant, her father had arranged to supply Umicore Optical with approximately 175 kilograms of optical scrap/sludge at a unit cost of $600 per kilogram, for a total purchase price of $105,000.[1] The terms and conditions of the transaction provided that the optical scrap/sludge was to be processed by Umicore Optical to determine the exact amount of germanium contained in the waste material. After processing, the quantity supplied worked out to approximately 113.5 kilograms of germanium for a total amount owed by Umicore Optical of $68,077.44. The purchase price was to be paid in two instalments of $43,200 and $24,877.74 respectively.
+[10] The Appellant’s father directed Umicore Optical to pay the first instalment into a US dollar bank account opened by the Appellant in the name of Auro Metals ENV., a business name registered to the Appellant.
+[11] According to the Appellant, her father purchased the optical scrap/sludge from Elcan Optical Technology (“Elcan Optical”), one of the few Canadian corporations dealing with optical waste. He owed them $31,762.50 on account of the purchase price for the waste material. The Appellant alleges that she agreed to pay the amount owed to Elcan Optical as a condition of the transaction with her father. A bank draft in the amount of $31,762.50 drawn on the Appellant’s CIBC US dollar account and payable to Elcan Optical was produced as Exhibit R‑1, Tab 16. This amount was paid three days after the Appellant had deposited the Payment in her US dollar account.
+Analysis
+[12] Subsection 160(1) of the ITA reads as follows:
+Tax liability re property transferred not at arm’s length
+160.(1) Where a person has, on or after May 1, 1951, transferred property, either directly or indirectly, by means of a trust or by any other means whatever, to
+(a) the person’s spouse or common-law partner or a person who has since become the person’s spouse or common-law partner,
+(b) a person who was under 18 years of age, or
+(c) a person with whom the person was not dealing at arm’s length.
+the following rules apply:
+(d) the transferee and transferor are jointly and severally liable to pay a part of the transferor’s tax under this Part for each taxation year equal to the amount by which the tax for the year is greater than it would have been if it were not for the operation of sections 74.1 to 75.1 of this Act and section 74 of the Income Tax Act, chapter 148 of the Revised Statutes of Canada, 1952, in respect of any income from, or gain from the disposition of, the property so transferred or property substituted therefor, and
+(e) the transferee and transferor are jointly and severally liable to pay under this Act an amount equal to the lesser of
+(i) the amount, if any, by which the fair market value of the property at the time it was transferred exceeds the fair market value at that time of the consideration given for the property, and
+(ii) the total of all amounts each of which is an amount that the transferor is liable to pay under this Act in or in respect of the taxation year in which the property was transferred or any preceding taxation year,
+but nothing in this subsection shall be deemed to limit the liability of the transferor under any other provision of this Act.
+The purpose of subsection 160(1) is to prevent a taxpayer from avoiding the payment of tax by the transfer of property to a non-arm’s length person that the taxpayer chooses to benefit. In many cases, the taxpayer continues to derive benefit from the property. For example, in the absence of this provision, a husband could transfer his interest in the family home to his wife rather than forfeit it as a result of collection proceedings instituted by the CRA. The couple could thus continue to reside in the premises. Subsection 160(1) discourages such transfers by making the transferee jointly and severally liable with the transferor for tax owing by the transferor up to the amount by which the fair market value of the transferred property exceeds the fair market value of the consideration paid for the property.
+[13] In light of the documentary evidence produced by the Respondent, the Respondent acknowledges that the Appellant paid Elcan Optical $31,762 on account of an amount owed to that entity by her father. However the Respondent denies that this constitutes consideration for the Payment received by the Appellant from Umicore Optical at the direction of her father.
+[14] First, the Respondent alleges that there is no documentary evidence establishing the terms of the agreement between the Appellant and her father. According to the Appellant, the agreement with her father was an oral undertaking.
+[15] Furthermore, the Respondent submits that the Court should not accept the Appellant’s testimony on the terms and conditions of the transaction without independent third-party corroboration because her version of the facts surrounding the transaction differs significantly from her testimony on discovery. The Respondent points out that on discovery the Appellant claimed that she and her father had agreed to carry on a scrap metal business together. According to the Appellant’s discovery testimony, the transaction under review was the first transaction carried out by the daughter-father business partners.
+[16] The Appellant now concedes that her father was the sole active participant in the transaction. He arranged for the purchase and delivery of the goods to Umicore Optical. He was present at Umicore Optical’s facility when the optical scrap/sludge was processed and the germanium recovered. He sent banking instructions to Umicore Optical to ensure that payment was made into his daughter’s bank account. All of this was done because Mr. Bragg-Smith’s bank accounts were frozen as a result of the collection activity undertaken by the CRA. Therefore, the Respondent argues, I should attach no credibility to the Appellant’s testimony given at trial.
+[17] I do not agree with the Respondent that I should accord no credibility to the Appellant’s testimony. Her testimony is corroborated by independent documentary evidence. The Respondent produced a copy of the bank draft made payable to Elcan Optical. The bank statements from the Appellant’s account show that the CIBC drew the funds for the bank draft from the Appellant’s bank account. The Payment to Elcan Optical was made on November 26, 2007, three days after the Appellant received the Payment from Umicore Optical. A reasonable inference can be drawn that she had agreed to pay this debt as part of her agreement with her father and that she waited for clearance with respect to the funds deposited into her account before making the Payment to Elcan Optical. This evidence corroborates the Appellant’s testimony on this point. As a result, as a factual finding I conclude that the Appellant made verbally a legally enforceable promise to pay Elcan Optical the sum of $31,672 as consideration for the transfer of the Payment to her.
+[18] The Respondent, in her written submissions, alleges that the amount paid to Elcan Optical does not constitute “consideration” within the meaning of subsection 160(1) of the ITA for the following reasons:
+17. The Federal Court of Appeal has held that a transferee paying a transferor’s bills is only valid consideration where the transferee has made a legally enforceable promise to pay”.[2] For instance, in Raphael v. R., the transferor operated a number of jewellery stores that suffered during the recession of the early 1990’s and ultimately went bankrupt.
+18. At the time, the transferor had money in his RRSP plan and wanted to use that money so that he could honour some of his debts and thus have the possibility of continuing to carry on the jewellery business. However, he knew that if the monies were deposited into an account in his name they could be garnished. In order to avoid this happening, and still to accomplish his plan, the transferor transferred the funds into the transferee’s bank account. The transferee, was the transferor’s wife. She agreed to pay the money out of her account on instructions from the transferor. The transferee was subsequently assessed under section 160(1) of the Act.
+19. One of the transferee’s arguments before the Federal Court of Appeal was that she had given valid consideration in the form of her promise to pay out monies only on the transferor’s direction.[3] The Court rejected the transferee’s argument. In his oral reasons, Justice Sexton noted that if the transferee had made a legally enforceable promise to pay out monies only on the transferor’s direction to his creditors in amounts equal to the monies transferred, it might have constituted sufficient consideration in order to avoid the application of section 160(1).
+20. Justice Sexton contrasted a moral obligation to pay with a legally enforceable obligation to pay. He ultimately found that the transferee had not made a legally enforceable promise to pay the transferor’s bills. He based this determination on the fact that the transferor could not force the transferee to pay his bills and that if there was a legally enforceable obligation on the transferee, he could have compelled such payment.[4]
+[19] I note that the facts of the Raphael decision are very different than the facts of this appeal. In Raphael the amounts transferred to the transferee were part of the transferor’s savings. In the instant case, the Payment resulted from the completion of a sale where goods sourced from Elcan Optical were sold to Umicore Optical. As a condition of the sale, Elcan Optical was entitled to receive the price negotiated with the Appellant’s father.
+[20] The transaction was completed and the Appellant remains liable for tax to the extent of the amount of the profit from that transaction, being the difference between the amount of the Payment and the amount paid by her to Elcan Optical. Secondly and more importantly, it is clear from the above-quoted reasons of Justice Sexton that the evidence in Raphael showed that there was no legally enforceable promise to pay that was given by the transferee as consideration for the transfer by the transferor of his property. In the instant case, however, the evidence shows on a balance of probabilities that the Appellant verbally agreed to pay the amount owed to Elcan Optical as consideration for the receipt of the payment.
+[21] For all of these reasons, the appeal is allowed and the matter is referred back to the Minister for reconsideration and reassessment in accordance with the terms of the above reasons for judgment.
+Signed at Ottawa, Canada, this 12th day of July 2012.
+“Robert J. Hogan”
+Hogan J.
+CITATION: 2012TCC252
+COURT FILE NO.: 2009-3124(IT)G
+STYLE OF CAUSE: SYLVIA IMOLA BRAGG-SMITH v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: May 1, 2012
+REASONS FOR ORDER BY: The Honourable Justice Robert J. Hogan
+DATE OF ORDER: July 12, 2012
+APPEARANCES:
+Counsel for the Appellant:
+Herbert Arnold
+Counsel for the Respondent:
+Ryan Gellings
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Herbert Arnold
+Firm: Arnold Foster LLP
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The Purchase Order was produced as Exhibit R-1, Tab 7.
+[2] Raphael v. The Queen, 2002 FCA 23 para. 10.
+[3] Ibid., at para. 9.
+[4] Ibid., at para. 10.

@@ -1,0 +1,162 @@
+Title: Kaur v. The King
+Source: https://norma.lexum.com/tcc-cci/decisions/en/item/521455/index.do
+Corpus path: corpus/cases/tcc/2025/2025-tcc-88-521455-kaur-v-the-king.md
+Document type: case_law
+Last modified: 2025-06-17
+
+# Kaur v. The King
+
+- Citation: 2025 TCC 88
+- Decision date: 2025-06-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5419, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kaur v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2025-06-17
+Neutral citation
+2025 TCC 88
+File numbers
+2024-2084(IT)I
+Judges and Taxing Officers
+David E. Spiro
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2024-2084(IT)I
+BETWEEN:
+GURJEET KAUR,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on May 7, 2025, at Edmonton, Alberta
+Before: The Honourable Justice David E. Spiro
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Ramneek Kaur Sidhu
+JUDGMENT
+The appeal of a redetermination by the Minister of National Revenue (the “Minister”) dated August 18, 2023, for the 2020 base taxation year denying the Appellant’s eligibility for the Canada Child Benefit under section 122.6 of the Income Tax Act in respect of each of her two children for the months of March, April, May, and June 2022 is dismissed without costs.
+The appeal of a redetermination by the Minister dated August 18, 2023, for the 2021 base taxation year is dismissed without costs.
+Signed this 17th day of June 2025.
+“David E. Spiro”
+Spiro J.
+Citation: 2025 TCC 88
+Date: 20250617
+Docket: 2024-2084(IT)I
+BETWEEN:
+GURJEET KAUR,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Spiro J.
+[1] The Appellant, Ms. Gurjeet Kaur, appeals a redetermination of her eligibility for the Canada Child Benefit (the “CCB”) under section 122.6 of the Income Tax Act (the “Act”) for each of her two children for the months of March, April, May, and June 2022. The base taxation year in respect of those months was 2020.[1]
+[2] Ms. Kaur is a team manager at an Edmonton branch of one of Canada’s largest banks. Her specialty is small business banking. She and her spouse, an engineer, were married in 2011. His name is Gurjeet Singh. They had two children together.
+[3] Although the marriage was troubled for some time, it broke down irrevocably on February 8, 2022, when Mr. Singh moved out, taking both their children and their belongings with him. [2] At the time, their daughter was five and their son was three.
+[4] In March, 2022, Ms. Kaur agreed to an Interim Without Prejudice Consent Parenting Order (the “Interim Consent Parenting Order”). That Order was issued by Justice Susan Bercov of the Court of Queen’s Bench of Alberta on March 26, 2022 (Exhibit A-3 at pages 5-6). Ms. Kaur was the Applicant and Mr. Singh the Respondent. The Order read:
+IT IS HEREBY ORDERED THAT:
+1. The children shall continue to remain in the interim care of the Respondent father.
+2. The Applicant shall release the passports of the children which are in her possession to her counsel for safe-keeping.
+3. The Applicant mother shall have parenting time on an interim without prejudice basis, every weekend from 6:00 p.m. on Friday to Sunday 5:00 p.m. commencing from 6:00 p.m. on March 4, 2022.
+4. The mother shall have parenting time every Wednesday from 5:00 p.m. to 7:00 p.m.
+[Emphasis added]
+[5] Ms. Kaur asserted that the terms of the Interim Consent Parenting Order were “forced” upon her.[3] I do not agree. Both parties had the benefit of their own independent legal advice. Although Ms. Kaur was clearly unhappy with the terms of the Interim Consent Parenting Order, she willingly agreed to them so that she could see her children again.
+[6] On June 29, 2022, Justice Gaylene Kendell of the Court of Queen’s Bench of Alberta issued a Consent Interim Parenting Order effective July 8, 2022, which continues in effect (Exhibit A-3 at pages 7-13). Under that subsequent Order, each of the parents would “enjoy an equal amount of parenting time with the children” (para 3). As of July 2022, the Minister considered that each parent qualified as an “eligible individual” as a “shared-custody parent” for purposes of the CCB.
+The Issue [7] The only issue in this appeal is whether Ms. Kaur is eligible for the CCB for each of the children for the months of March, April, May, and June 2022, during which time the Interim Consent Parenting Order was in effect.
+The Appellant’s Position [8] Ms. Kaur contends that she was eligible for the CCB for each child for those four months because she was the parent who primarily fulfilled the responsibility for the care and upbringing of each child during that time.[4] She argued that she had been the parent who primarily fulfilled the responsibility for the care and upbringing of each of the children during the marriage and that she continued in that role during the months of March, April, May, and June 2022. For example, she bought car seats and clothing for the children, attended parent/teacher meetings at their schools, took them to the doctor’s office, etc.
+[9] Ms. Kaur asserted that the quality of care that she provided to the children while they were with her every weekend was superior to the quantity of care that Mr. Singh provided to the children while they were with him every week. More on that later.
+The Crown’s Position [10] The Crown contends Ms. Kaur was not eligible for the CCB for each child for the four months at issue as she was not the parent who primarily fulfilled the responsibility for the care and upbringing of each of the children during those months as required by subparagraph 122.6(b)(i) of the Act.
+The Law [11] Under section 122.6 of the Act, an “eligible individual” may receive the CCB with respect to their child (who is called a “qualified dependant”). Such an individual is defined, in relevant part, as:
+… a person who …
+(a) resides with the qualified dependant, [and]
+(b) is a parent of the qualified dependant who
+(i) is the parent who primarily fulfils the responsibility for the care and upbringing of the qualified dependant and who is not a shared-custody parent in respect of the qualified dependant, …
+[Emphasis added]
+[12] Paragraph (f) of section 122.6 provides that where a child resides with their female parent, the parent who primarily fulfils the responsibility for the care and upbringing of the child is presumed to be the female parent. This is not a deeming provision. It is merely a presumption.
+[13] Ms. Kaur placed a great deal of reliance on that presumption. However, in light of my findings on the “care and upbringing” factors in section 6302 of the Income Tax Regulations (the “Regulations”) as a whole, that presumption has been rebutted.[5]
+[14] Paragraph (h) of section 122.6 provides that prescribed factors shall be considered in determining what constitutes “care and upbringing”. Those factors are prescribed by section 6302 of the Regulations:
+For the purposes of paragraph (h) of the definition eligible individual in section 122.6 of the Act, the following factors are to be considered in determining what constitutes care and upbringing of a qualified dependant:
+(a) the supervision of the daily activities and needs of the qualified dependant;
+(b) the maintenance of a secure environment in which the qualified dependant resides;
+(c) the arrangement of, and transportation to, medical care at regular intervals and as required for the qualified dependant;
+(d) the arrangement of, participation in, and transportation to, educational, recreational, athletic or similar activities in respect of the qualified dependant;
+(e) the attendance to the needs of the qualified dependant when the qualified dependant is ill or otherwise in need of the attendance of another person;
+(f) the attendance to the hygienic needs of the qualified dependant on a regular basis;
+(g) the provision, generally, of guidance and companionship to the qualified dependant; and
+(h) the existence of a court order in respect of the qualified dependant that is valid in the jurisdiction in which the qualified dependant resides.
+Analysis [15] As directed by section 122.6 of the Act, the factors listed in section 6302 of the Regulations must be reviewed in order to determine who was primarily responsible for the care and upbringing of each child during the four months at issue. It is important to bear in mind, as noted by this Court in Grimard v The Queen, that “the quantitative aspect is indeed very important.”[6]
+[16] Those factors, taken together, demonstrate on a balance of probabilities that Mr. Singh was the parent who was primarily responsible for the care and upbringing of each of the children during the four months at issue. The statutory presumption that the female parent primarily fulfilled the responsibility for the care and upbringing of the children was rebutted by the totality of the evidence.
+1. Supervising the Daily Activities and Needs of the Children [17] As a result of the Interim Consent Parenting Order, Mr. Singh was responsible for supervising the daily activities and needs of the children starting each week on Sunday evening at 5:00 p.m., all day and night Monday, all day and night Tuesday, all day and night Wednesday (except for two hours in the evening), all day and night Thursday, and all-day Friday until 6:00 p.m.
+[18] As a result of the Interim Consent Parenting Order, Ms. Kaur was responsible for supervising the daily activities and needs of the children starting each week on Friday evening at 6:00 p.m., all day and night Saturday, and all‑day Sunday until 5:00 p.m.
+2. Maintaining a Secure Environment in Which the Children Resided [19] As a result of the Interim Consent Parenting Order, Mr. Singh was responsible for maintaining a secure environment in which the children resided starting each week on Sunday evening at 5:00 p.m., all day and night Monday, all day and night Tuesday, all day and night Wednesday (except for two hours in the evening), all day and night Thursday, and all-day Friday until 6:00 p.m.
+[20] As a result of the Interim Consent Parenting Order, Ms. Kaur was responsible for maintaining a secure environment in which the children resided starting each week on Friday evening at 6:00 p.m., all day and night Saturday, and all-day Sunday until 5:00 p.m.
+3. Arranging Medical Care for the Children [21] As a result of the Interim Consent Parenting Order, Mr. Singh was responsible for the arrangement of, and transportation to, medical care at regular intervals and as required for the children starting each week on Sunday evening at 5:00 p.m., all day and night Monday, all day and night Tuesday, all day and night Wednesday (except for two hours in the evening), all day and night Thursday, and all-day Friday until 6:00 p.m.
+[22] As a result of the Interim Consent Parenting Order, Ms. Kaur was responsible for the arrangement of, and transportation to, medical care at regular intervals and as required for the children starting each week on Friday evening at 6:00 p.m., all day and night Saturday, and all-day Sunday until 5:00 p.m.
+4. Arranging Educational, Recreational, and Athletic Activities for the Children [23] As a result of the Interim Consent Parenting Order, Mr. Singh was responsible for the arrangement of, participation in, and transportation to, educational, recreational, athletic or similar activities in respect of the children starting each week on Sunday evening at 5:00 p.m., all day and night Monday, all day and night Tuesday, all day and night Wednesday (except for two hours in the evening), all day and night Thursday, and all-day Friday until 6:00 p.m.
+[24] As a result of the Interim Consent Parenting Order, Ms. Kaur was responsible for the arrangement of, participation in, and transportation to, educational, recreational, athletic or similar activities in respect of the children starting each week on Friday evening at 6:00 p.m., all day and night Saturday, and all-day Sunday until 5:00 p.m.
+5. Attending to the Needs of an Ill Child [25] As a result of the Interim Consent Parenting Order, Mr. Singh was responsible for attending to the needs of the children when the children were ill or otherwise in need of the attendance of another person starting each week on Sunday evening at 5:00 p.m., all day and night Monday, all day and night Tuesday, all day and night Wednesday (except for two hours in the evening), all day and night Thursday, and all-day Friday until 6:00 p.m.
+[26] As a result of the Interim Consent Parenting Order, Ms. Kaur was responsible for attending to the needs of the children when the children were ill or otherwise in need of the attendance of another person starting each week on Friday evening at 6:00 p.m., all day and night Saturday, and all-day Sunday until 5:00 p.m.
+6. Attending to the Hygienic Needs of the Children [27] As a result of the Interim Consent Parenting Order, Mr. Singh was responsible for attending to the hygienic needs of the children on a regular basis starting each week on Sunday evening at 5:00 p.m., all day and night Monday, all day and night Tuesday, all day and night Wednesday (except for two hours in the evening), all day and night Thursday, and all-day Friday until 6:00 p.m.
+[28] As a result of the Interim Consent Parenting Order, Ms. Kaur was responsible for attending to the hygienic needs of the children on a regular basis starting each week on Friday evening at 6:00 p.m., all day and night Saturday, and all-day Sunday until 5:00 p.m.
+7. Providing Guidance and Companionship to the Children [29] As a result of the Interim Consent Parenting Order, Mr. Singh was responsible for providing guidance and companionship to the children starting each week on Sunday evening at 5:00 p.m., all day and night Monday, all day and night Tuesday, all day and night Wednesday (except for two hours in the evening), all day and night Thursday, and all-day Friday until 6:00 p.m.
+[30] As a result of the Interim Consent Parenting Order, Ms. Kaur was responsible for providing guidance and companionship to the children starting each week on Friday evening at 6:00 p.m., all day and night Saturday, and all-day Sunday until 5:00 p.m.
+8. The Existence of a Court Order [31] The Interim Consent Parenting Order issued by the Court of Queen’s Bench of Alberta on March 26, 2022, made it clear that the children would “continue to remain in the interim care” of Mr. Singh. Both parents agreed to, and abided by, that Order. The Court of Queen’s Bench of Alberta clearly intended Mr. Singh to have greater responsibility for, and rights to the care of, the children than Ms. Kaur while that Order was in effect.
+The Appellant’s Argument [32] Ms. Kaur relied heavily on the decision of Justice Tardif of this Court in Bergeron v The Queen, 2006 TCC 81. In that appeal, custody of a child (Caroline) had been granted to her mother by court order. After Christmas vacation, and contrary to the terms of the court order, Caroline’s father refused to return the child to her mother. Caroline ended up staying at her father’s home for three months.[7] The Minister denied the CCB[8] to the mother for that period on the basis that the father was “residing” with Caroline within the meaning of paragraph 122.6(a) of the Act. [9] This Court had no hesitation finding that the father was not “residing” with Caroline during that period as it was unlawful for him to do so. The appeal was allowed.
+[33] Ms. Kaur’s reliance on Bergeron is misplaced. Here, the children did not reside unlawfully with Mr. Singh in March, April, May, and June of 2022. On the contrary, the children resided with their father during those months pursuant to the Interim Consent Parenting Order issued by the Court of Queen’s Bench of Alberta on March 26, 2022. Bergeron simply has no application here.
+[34] Ms. Kaur also argued that because the quality of care that she provided to the children was superior to the quantity of care provided by Mr. Singh, she was the parent who primarily fulfilled the responsibility for the care and upbringing of each of the children. In a remarkably similar set of circumstances, this Court has held otherwise:
+[12] In the within appeal, there is no doubt the appellant was extremely concerned about the ongoing welfare of her children and that she expended a great deal of time and energy in maintaining close contact during the period under appeal even though she resided in a community 180 kilometres from where her children were living with their father. She spent a great deal of time with them and they stayed with her at her residence in Dawson Creek three weekends a month - weather permitting - and for longer periods during a long weekend and over the Christmas holiday. She remained involved with their schooling, recreation and other related activities and was still concerned with arranging their counselling and/or communicating with the family physician. She also expended her own funds in connection with activities of the children carried out in Tumbler Ridge and attended events there even though the trip from Dawson Creek and back involved at least a three-hour drive under good road conditions. However, when one examines the criteria set forth in Regulation 6302, there is no doubt that the father of the children - Bradley Walsh - provided the primary residence for the children, as designated by the Court Order - Exhibit A-1. In addition, he was primarily responsible for the maintenance of a secure environment in which the children resided and would have been required to carry out the supervision of the daily activities of the children and to attend to their hygienic needs on a regular basis as well as arrange for the transportation to school and athletic and other activities as contemplated by the wording of the Regulations taken as a whole. The children spent the majority of their time with their father and the provision of the Act relates to a quantitative measurement of time rather than a qualitative assessment of the capabilities of both parents in carrying out certain functions set forth in Regulation 6302. Certainly, the appellant was an important part of the ongoing process of caring for the children and they were very fortunate to have had such a dedicated mother despite the difficulties posed by her economic situation and the distance from the site of her employment and residence from Tumbler Ridge. She is to be commended for her efforts in obtaining additional education which permitted her to secure employment suitable for caring for her children on a permanent basis. However, on the evidence, I cannot find the Minister was incorrect in determining that Bradley Walsh - the appellant's husband - during the period under appeal was the eligible individual pursuant to section 122.6 of the Act.[10]
+[Emphasis added]
+Conclusion [35] The factors prescribed in Regulation 6302, taken as a whole, make it clear that Ms. Kaur did not qualify as an “eligible individual” under section 122.6 of the Act in respect of each of the children during the months of March, April, May, and June 2022 as she was not the parent who primarily fulfilled the responsibility for the care and upbringing of the children during each of those months.
+[36] I must, therefore, dismiss her appeal. That, however, should not be taken as a negative reflection on the quality of care that she provided to the children when they resided with her.
+Signed this 17th day of June 2025.
+“David E. Spiro”
+Spiro J.
+CITATION:
+2025 TCC 88
+COURT FILE NO.:
+2024-2084(IT)I
+STYLE OF CAUSE:
+GURJEET KAUR AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Edmonton, Alberta
+DATE OF HEARING:
+May 7, 2025
+REASONS FOR JUDGMENT BY:
+The Honourable Justice David E. Spiro
+DATE OF JUDGMENT:
+June 17, 2025
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Ramneek Kaur Sidhu
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+n/a
+Firm:
+n/a
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] Ms. Kaur also appealed a redetermination in respect of her 2021 base taxation year which relates to the six months starting July 2022. As there is no dispute between her and the Minister of National Revenue (the “Minister”) regarding her eligibility for the CCB as a “shared-custody parent” for the six months starting July 2022, I dismissed her appeal of the Minister’s redetermination in respect of her 2021 base taxation year.
+[2] At the hearing, Ms. Kaur produced a copy of a report prepared by an officer of the Edmonton Police Service (the “EPS”) dated February 10, 2022 (Exhibit A-1). She called the EPS to the house after returning from work on February 8, 2022, to find her spouse and two children missing. The EPS officer explained to Ms. Kaur that her spouse did not necessarily need her consent to take the children out of the house (para 3). After visiting the children, the EPS officer concluded:
+5. The children themselves appeared to be in good spirits and health. Despite the clutter of having just moved into the apartment there appeared to be no issues within the suite. After I departed I contacted [Ms. Kaur] and informed her that the children were safe and well. I confirmed with her that she should seek immediate legal aid and contact the family courts to make arrangements for a custody order.
+[3] For example, see page 37 of the transcript, lines 14-15.
+[4] Although her Notice of Appeal mentions the 40% test, which is relevant only to a “shared-custody parent”, Ms. Kaur chose to put her appeal exclusively on the basis that she qualified as an “eligible individual” who is not a “shared-custody parent” (see the transcript, page 5, lines 3-10 and page 8, lines 27-28). In any event, by her own admission, she would have fallen far short of the 40% test.
+[5] Crown counsel suggested to me that this presumption was inapplicable in light of paragraph 6301(1)(d) of the Regulations as she asserted that Mr. Singh also filed for the CCB for each of the children for the same months. In the absence of evidence of such a filing, the presumption must apply (see paragraphs 29-31 of D’Elia v The Queen, 2012 TCC 180). But that presumption was rebutted, on a balance of probabilities, by the totality of the evidence.
+[6] 2008 TCC 98, para 12.
+[7] Para 5.
+[8] To be accurate, it was the predecessor to the CCB.
+[9] Para 7. Although the “resides with” requirement is not at issue here, the problem of one parent having been deprived of their custody of a child contrary to court order affects both the fulfilment of the “resides with” requirement in paragraph 122.6(a) of the Act and the fulfilment of the “primarily fulfils the responsibility for the care and upbringing” requirement in subparagraph 122.6(b)(i) of the Act.
+[10] Walsh v The Queen, 2001 CanLII 634 (TCC). See also Picard v The Queen, 2005 TCC 509 at para 15.

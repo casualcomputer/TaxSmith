@@ -1,0 +1,162 @@
+---
+title: "Chitalia v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/301241/index.do"
+last_modified: "2017-11-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 TCC 227"
+citation2: ""
+neutral_citation: "2017 TCC 227"
+decision_date: "2017-11-16"
+language: "en"
+item_id: "301241"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7803
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:06:45.348000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4c2ba72a37e80acc857395b54e67062e8630c971c8e1dea49b345c1361e3a80e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Chitalia v. The Queen
+
+- Citation: 2017 TCC 227
+- Decision date: 2017-11-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7803, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chitalia v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-11-16
+Neutral citation
+2017 TCC 227
+File numbers
+2016-2813(IT)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-2813(IT)I
+BETWEEN:
+JIGNESH P. CHITALIA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on October 13, 2017
+at Toronto, Ontario.
+Before: The Honourable Justice B. Paris
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Stephanie Hodge
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2012 taxation year is dismissed, and costs are awarded to the Appellant, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 16th day of November 2017.
+“B.Paris”
+Paris J.
+Citation: 2017 TCC 227
+Date: 20171116
+Docket: 2016-2813(IT)I
+BETWEEN:
+JIGNESH P. CHITALIA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Paris J.
+[1] Mr. Chitalia is appealing the inclusion of $5529 in his income as an amount received from his Registered Retirement Savings Plan (“RRSP”) in his 2012 taxation year. Mr. Chitalia withdrew the amount from his RRSP under the Home Buyers’ Plan (“HBP”) in order to purchase a condominium unit for himself and his family in Mississauga, Ontario.
+[2] Where certain conditions set out in section 146.01 of the Income Tax Act (the “Act”) are met, a withdrawal made under the HBP will qualify as an “excluded withdrawal” and is not required to be included in an individual’s income, as would otherwise be the case pursuant to subsection 146(8) of the Act.
+[3] The Minister of National Revenue reassessed Mr. Chitalia to include the RRSP withdrawal in his income on the basis that the withdrawal was not an “excluded withdrawal” pursuant to subsection 146.01 of the Act.
+[4] An “excluded withdrawal” is defined in the Act to include an “eligible amount”, which is made up of either a “regular eligible amount” or a “supplemental eligible amount” (which is not relevant here). An RRSP withdrawal will qualify as a “regular eligible amount” if the individual did not acquire the qualifying home more than 30 days before the date of the withdrawal.
+[5] Finally for the purposes of the HBP, paragraph 146.01(2)(b) deems an individual to have acquired a condominium unit on the day the individual becomes entitled to immediate vacant possession of the unit.
+[6] The effect of these provisions is that, where an individual purchases a condominium unit, an RRSP withdrawal under the HBP will only be excluded from the individual’s income if the withdrawal is made no more than 30 days after the individual became entitled to immediate vacant possession of the unit.
+[7] The relevant provisions of the Act read as follows:
+146(8) Benefits [and withdrawals] taxable – There shall be included in computing a taxpayer’s income for a taxation year the total of all amounts received by the taxpayer in the year as benefits out of or under registered retirement savings plans, other than excluded withdrawals (as defined in subsection 146.01(1) or 146.02(1)) of the taxpayer and amounts that are included under paragraph (12)(b) in computing the taxpayer’s income.
+146.01(1) Definitions – In this section,
+“eligible amount” of an individual is a regular eligible amount or supplemental eligible amount of the individual;
+“excluded withdrawal” of an individual means
+(a) an eligible amount received by the individual,
+“regular eligible amount” of an individual means an amount received at a particular time by the individual as a benefit out of or under a registered retirement savings plan if
+…
+(d) neither the individual nor the individual’s spouse or common-law partner acquired the qualifying home more than 30 days before the particular time,
+…
+(2) Special rules – For the purposes of this section,
+…
+(b) where an individual agrees to acquire a condominium unit, the individual shall be deemed to have acquired it on the day the individual is entitled to immediate vacant possession of it;
+[8] The facts of this case are straightforward.
+[9] On September 27, 2011 Mr. Chitalia and his spouse entered into an agreement to purchase a condominium unit that was to be constructed. The purchase had an interim closing date of November 3, 2011 and a final closing date of January 20, 2012.
+[10] Mr. Chitalia and his spouse became entitled to vacant possession and occupancy of the condominium unit on the interim closing date and moved in immediately after that date.
+[11] The final closing of the sale took place as scheduled on January 20, 2012.
+[12] Mr. Chitalia withdrew $5,529 from his RRSP at Questrade on January 12, 2012 under the HBP.
+[13] In order to make the withdrawal, he filled out the form provided by the Canada Revenue Agency entitled “Home Buyers’ Plan - Request to Withdraw Funds from an RRSP.” The instructions at the top of the form include the statement: “Answer the questions in Part A of Area 1 to determine if you are eligible to make a withdrawal from your RRSP under the HBP.”
+[14] Question 6 in Part A of Area 1 on the form reads:
+Has the person who is buying or building the qualifying home or his or her spouse or common law partner owned the home more than 30 days before receiving this withdrawal?
+[15] The form indicates that if the applicant answers “No” to Question 6, he or she is eligible to make the withdrawal under the HBP. Mr. Chitalia answered no to this question because the purchase of the unit was not scheduled to complete until January 20, 2012.
+[16] However, since Mr. Chitalia and his spouse became entitled to immediate vacant possession of the condominium unit on November 3, 2011, they were deemed by paragraph 146.01(2)(b) of the Act to have acquired the condominium unit on that date, which was more than 30 days before the RRSP withdrawal was made.
+[17] Clearly, Question 6 on the withdrawal form is misleading in that it fails to refer to the deemed acquisition date for condominium units that is provided for in paragraph 146.01(2)(b). In fact, there is no reference to a deemed acquisition date anywhere on that form. A taxpayer reading that form would have no way of knowing about the special rule relating to the deemed acquisition date and that it would differ from the date of ownership, as that term is commonly understood.
+[18] Mr. Chitalia concedes that the RRSP withdrawal does not qualify as an “excluded withdrawal” but argues that he should not be required to include it in his income because he was misled by the withdrawal form as to when he could withdraw the funds from his RRSP in order for it to qualify as an “excluded withdrawal”.
+[19] He points out that he reviewed the withdrawal form before making the withdrawal and relied on the information provided in the form concerning his eligibility to make a tax-free withdrawal from his RRSP. Based on his reading of that form, he waited to make the withdrawal to ensure that it fell within 30 days of the completion date of the purchase of the condominium unit. He considered that he did not own the condominium until the closing date.
+[20] Unfortunately for Mr. Chitalia, the Court cannot give effect to a form drafted by the Canada Revenue Agency (the “CRA”) if that form conflicts with the provisions of the Act. The wording of the Act must prevail.
+[21] In a somewhat analogous situation, the Federal Court of Appeal has held in the case of Klassen v. The Queen, 2007 FCA 339, that no relief could be granted by the Court on the basis that the taxpayer had received erroneous advice from the CRA. At paragraph 27 of that decision, the Court said:
+Finally, I see no basis in the appellant’s contention that the assessment should be varied based on an officially induced error. It is trite law that the relief granted by the courts in an appeal against a reassessment under ITA must be based on the law. If in fact the appellant was misled through negligence, some other remedy may be available. However, no relief can be granted on this basis in the context of a tax appeal.
+[22] The wording of the relevant portions of subsections 146.01(1) and (2) to which I have referred are clear and unambiguous with the result that the RRSP withdrawal made by Mr. Chitalia is not an “excluded withdrawal” under the Act and must be included in his income in 2012.
+[23] The appeal must, therefore, be dismissed.
+[24] Given the inequity of this result, Mr. Chitalia may wish to consider applying for a remission of tax pursuant to subsection 23(2) of the Financial Administration Act, R.S.C. 1985, c. F-11. The CRA should also revise the wording of the HPB withdrawal form to alert new condominium unit buyers to the deemed acquisition date as provided for in paragraph 146.01(2)(b).
+[25] Costs are awarded to Mr. Chitalia.
+Signed at Ottawa, Canada this 16th day of November 2017.
+“B.Paris”
+Paris J.
+CITATION:
+2017 TCC 227
+COURT FILE NO.:
+2016-2813(IT)I
+STYLE OF CAUSE:
+JIGNESH P. CHITALIA AND HER MAJESTY THE QUEEN
+PLACE AND DATE OF HEARING:
+Toronto, Ontario
+October 13, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Paris
+DATE OF JUDGMENT:
+November 16, 2017
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Stephanie Hodge
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

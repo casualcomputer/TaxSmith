@@ -1,0 +1,173 @@
+Title: Martin c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/66840/index.do
+Corpus path: corpus/cases/tcc/2014/2014-cci-50-66840-martin-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2014-02-14
+
+# Martin c. La Reine
+
+- Citation: 2014 CCI 50
+- Decision date: 2014-02-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5953, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Martin c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-02-14
+Référence neutre
+2014 CCI 50
+Numéro de dossier
+2011-1635(IT)G
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-1635(IT)G
+ENTRE :
+ELEANOR MARTIN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Adjudication des dépens concernant le jugement et les motifs du jugement rendus le 4 février 2013.
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Pour l’appelante :
+Me David Piccolo
+M. Jonathan Crangle (stagiaire)
+Avocat de l’intimée :
+Me Stan W. McDonald
+____________________________________________________________________
+ORDONNANCE
+Après avoir reçu les observations écrites et après avoir entendu les parties au sujet des dépens en l’espèce;
+LA COUR ORDONNE QUE :
+Les dépens fixés, comme cela est précisé dans les motifs ci‑joints, soient payables par l’intimée à l’appelante de la manière suivante :
+a) Le total des dépens, y compris les débours, sont fixés à 10 635 $ et sont payables à l’appelante.
+b) L’appelante a également droit à ses dépens, fixés à 700 $, au titre des observations et de l’audience sur les dépens, conformément au tarif.
+Signé à Ottawa, Canada, ce 13e jour de février 2014.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 30e jour de mai 2014.
+Mario Lagacé, jurilinguiste
+Référence : 2014 CCI 50
+Date : 20140213
+Dossier : 2011-1635(IT)G
+ENTRE :
+ELEANOR MARTIN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Boyle
+[1] Dans les motifs que j’ai prononcés à l’égard du jugement dans lequel j’ai entièrement accueilli l’appel interjeté par Mme Martin, j’ai accordé un délai de 30 jours aux parties pour qu’elles puissent présenter des observations sur les dépens, et j’ai demandé des renseignements précis concernant les dépens, à savoir (i) le montant réel des frais juridiques engagés par l’appelante et (ii) la date à laquelle l’intimée a su qu’un agent de l’Agence du revenu du Canada (l’« ARC ») avait en effet induit les Martin en erreur en leur donnant des renseignements différents des conclusions que l’agent avait effectivement tirées et qu’il avait consignées par écrit. La décision que j’ai rendue dans l’appel interjeté par Mme Martin n’a pas fait l’objet d’un recours.
+[2] Mme Martin avait fait l’objet d’une cotisation établie au titre de l’article 160 de la Loi de l’impôt sur le revenu (la « Loi ») relativement à la dette fiscale de son défunt époux. Le montant en litige était d’environ 175 000 $. À l’époque de sa mort, le Dr Martin contestait certains montants de la cotisation d’impôt qui avait été établie à son égard. La cotisation concernant la succession et la cotisation connexe concernant Mme Martin ont toutes les deux fait l’objet d’un appel devant la Cour et ont été mises au rôle ensemble en vue d’une audience de trois jours que j’ai menée à Toronto. Après le début de l’audience concernant les deux cotisations, les parties sont parvenues à un règlement relativement à l’appel portant sur la cotisation établie à l’égard de la succession, lequel règlement a été versé au dossier. Par la suite, l’audience a continué seulement à l’égard de l’appel interjeté par Mme Martin[1].
+[3] La succession et l’appelante ont toutes les deux été représentées par le même avocat. L’audience n’a pas duré toute une journée. Les parties s’étaient entendues à l’avance sur un exposé conjoint partiel des faits. L’appelante a été seule à témoigner. L’intimée a produit en preuve un recueil de documents avec le consentement de l’appelante.
+[4] L’appelante a eu gain de cause à l’audience au sujet de sa position selon laquelle, au moment où le Dr Martin avait effectué le transfert en sa faveur dont il est question, elle avait fourni une contrepartie beaucoup plus importante que le montant du transfert sous la forme de services qu’elle avait fournis au Dr Martin dans l’exercice de sa profession et sous la forme de locaux dont elle était propriétaire et qu’elle avait mis à la disposition du Dr Martin pour qu’il y pratique la médecine.
+[5] Dans une vérification qui avait eu lieu un peu plus tôt concernant le cabinet du Dr Martin, l’ARC avait expressément reconnu le caractère valable de la contrepartie représentée par les services fournis par Mme Martin et par les locaux à usage professionnel dont elle était propriétaire à 25 %. Cette conclusion a été communiquée par écrit aux Martin. Toutefois, l’appelante a témoigné que, au même moment, l’agent de l’ARC les avait avisés qu’à l’avenir l’ARC n’accepterait plus de déduction concernant quelque montant que ce soit versé à Mme Martin. Après cela, dans les années ultérieures visées dans le présent appel, Mme Martin n’a pas été rémunérée pour les mêmes services, ou elle a reçu une rémunération considérablement réduite, et elle n’a reçu aucun loyer relativement aux locaux à usage professionnel. Comme je l’ai précisé dans les motifs que j’ai rendus, le salaire réduit traduisait sans aucun doute la recherche d’un équilibre entre la déclaration erronée de l’ARC selon laquelle rien ne serait déductible, et les affirmations du comptable des Martin selon lesquelles l’ARC était dans l’erreur à cet égard. À l’audience, il a été révélé que l’ARC, au cours de son examen concernant l’opposition formée par Mme Martin, au moins quatre ans et demi avant l’audience, avait reconnu que la version des faits de Mme Martin relativement à la communication orale faite par l’ARC au cours de la vérification antérieure était en fait correcte et que l’ARC avait consigné cela dans le rapport sur l’opposition. C’est pour cette raison que la Cour a demandé aux parties de présenter des observations, et de fournir des renseignements, concernant les dépens.
+[6] Les observations écrites des parties ont été reçues et elles ont fait l’objet d’une conférence téléphonique. L’appelante a ensuite fourni d’autres observations écrites ainsi que des documents justificatifs.
+[7] Les contribuables ont demandé qu’on leur accorde des dépens sur la base procureur‑client ou des dépens fixes selon l’article 147 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles ») ou que les dépens soient fixés selon le tarif B pour une instance de la catégorie C.
+[8] L’intimée soutient que l’appelante ne devrait se voir accorder des dépens que conformément au tarif B pour une instance de la catégorie C.
+[9] Les honoraires d’avocat ont été établis à 4 800 $ selon le tarif. Les débours demandés par l’appelante concernent le droit de dépôt de 550 $ relatif à l’avis d’appel et des frais de 84,23 $ pour la photocopie et la reliure du recueil de documents de l’appelante.
+[10] Les honoraires de l’avocat qui a représenté l’appelante et la succession devant la Cour étaient de 9 250 $ (avant la TVH/TPS) pour la période allant de la préparation et du dépôt de l’avis d’appel jusqu’au prononcé du jugement. Ce montant n’a pas été consigné séparément ni réparti entre les deux contribuables. Les parties ont convenu qu’une répartition à parts égales serait appropriée. Par conséquent, les honoraires réels pour l’appelante étaient de 4 625 $, plus la TVH/TPS.
+[11] Avant le dépôt de l’avis d’appel, les Martin avaient été représentés par le cabinet Thorsteinssons au stade de l’opposition du litige en question et pendant plusieurs mois après la ratification. Les honoraires du cabinet Thorsteinssons, consignés et facturés séparément pour Mme Martin, au cours de la période allant de mars 2006 à octobre 2008, étaient d’environ 54 000 $ (taxe incluse). La Cour a été avisée que le cabinet Thorsteinssons avait radié des honoraires supplémentaires d’environ 85 000 $ pour du temps consigné, mais non facturé. La raison pour laquelle ces honoraires n’ont pas été facturés n’a pas été précisée.
+[12] Les Martin étaient représentés par le cabinet d’avocats McInnes Cooper au stade de la vérification et de l’enquête du litige. Les honoraires versés à ce cabinet, qui ont également été consignés et facturés séparément pour Mme Martin, au cours de la période allant de juillet 2005 à mars 2006, étaient d’environ 12 000 $ (taxe incluse).
+[13] La Cour a posé la question de savoir quelle était la date (avant le rapport de juin 2008 concernant l’opposition) à laquelle l’ARC avait su qu’un de ses agents avait effectivement induit les Martin en erreur en leur donnant des renseignements qui étaient totalement incompatibles avec les conclusions écrites qu’il avait tirées au stade de la vérification au sujet même de montants à payer à Mme Martin en tant que dépenses du cabinet de dermatologie du Dr Martin. La Cour a été avisée que cette date se situait entre l’établissement de la nouvelle cotisation de septembre 2006 et l’élaboration du rapport de juin 2008 concernant l’opposition, et que, par souci d’efficacité, les parties étaient d’accord pour utiliser la date de juillet 2007 à cet égard.
+La méthode adoptée par la Cour concernant les dépens
+[14] La question concernant les règles de droit en matière de dépens a fait couler beaucoup d’encre à la Cour[2]. En l’espèce, je me contenterai de faire un résumé. L’article 147 des Règles est également reproduit en annexe.
+1) La Cour a compétence pour adjuger des dépens sur la base procureur‑client. En règle générale, les dépens sur la base procureur‑client ne sont accordés que dans des cas appropriés, c’est‑à‑dire s’il y a eu conduite répréhensible, scandaleuse ou outrageante d’une partie. Même en pareilles circonstances, une adjudication de dépens sur la base procureur‑client n’est pas systématique, et la décision à cet égard demeure discrétionnaire.
+2) La Cour dispose d’un large pouvoir discrétionnaire dans la fixation des dépens, à condition que ce pouvoir discrétionnaire soit toujours exercé avec prudence, et non pas de manière arbitraire, et selon des principes établis et après audition des parties.
+3) La méthode adoptée par la Cour pour fixer les dépens devrait être compensatoire et contributive, et non punitive ou extravagante. La question qu’il faut se poser est la suivante : quelle serait la contribution appropriée de la partie déboutée aux dépens de la partie ayant eu gain de cause dans l’appel où la position de cette dernière l’a emporté?
+4) La Cour n’est pas tenue de se conformer au tarif en l’absence de circonstances inhabituelles ou exceptionnelles d’inconduite. La Cour devrait toujours suivre une méthode fondée sur des principes pour établir la contribution appropriée de la partie déboutée aux dépens de la partie ayant eu gain de cause dans les circonstances particulières de l’instance. Il s’agit notamment de prendre en compte et de soupeser tous les facteurs pertinents, y compris ceux énumérés dans les Règles, qui se rapportent aux circonstances particulières de l’affaire.
+5) Les actes posés par une partie et les événements antérieurs au commencement de la procédure judiciaire peuvent, dans des circonstances appropriées, être pris en compte dans l’adjudication des dépens.
+6) Les frais réels de la partie ayant eu gain de cause peuvent être considérés dans des situations appropriées. Il peut en être de même pour les frais réels, approximatifs ou estimés de la partie déboutée.
+Analyse et conclusion
+[15] Comme on peut le constater, les honoraires réels de l’avocat de l’appelante pour la préparation et le dépôt de l’avis d’appel ainsi que pour la poursuite de l’instance jusqu’au jugement sont de 4 625 $ plus la TVH/TPS. Les honoraires de l’avocat calculés selon le tarif seraient de 4 800 $. En l’absence d’autres facteurs pertinents, tout le monde devrait être satisfait si les dépens étaient simplement fixés conformément au tarif. Il convient également de noter en l’espèce que le tarif de la Cour peut être à la fois crédible et valable dans de nombreux cas types, même dans ceux où on a recours aux services d’avocats très compétents et très professionnels, et dans un grand centre (bien qu’en l’espèce, l’efficacité de l’audience ait indubitablement été améliorée par le travail important fait par l’ancien avocat au stade de l’opposition et à celui de l’après-ratification).
+[16] Toutefois, j’ai fait les observations suivantes dans les motifs du jugement que j’ai rendus relativement à l’appel interjeté par Mme Martin, au paragraphe 21 :
+[21] Comme je l’ai mentionné précédemment, la correspondance envoyée par l’ARC au Dr Martin et à l’appelante en ce qui a trait à l’issue, en 1994, de la vérification précédente relative aux années 1990 à 1992 est source de sérieuses préoccupations. Il y a un décalage scandaleux entre les communications écrites de l’ARC concernant ce qui pouvait constituer un salaire raisonnable acceptable à verser à Mme Martin, s’il n’y avait pas de lien de dépendance, pour le travail qu’elle a fourni au cabinet de dermatologie de son mari, et les propos que le vérificateur de l’ARC a tenus — l’ARC le confirme maintenant — aux Martin. Il ne s’agit pas d’un cas dans lequel un vérificateur de l’ARC a écrit quelque chose d’erroné ou a formulé quelque chose de façon inexacte. Il semble qu’on ne peut pas y voir autre chose qu’une volonté d’induire en erreur. De tels agissements de la part de fonctionnaires sont tout à fait inexcusables. La Cour est très étonnée de voir que, dans les circonstances, l’ARC a continué d’avancer avec autant de vigueur contre Mme Martin ses arguments fondés sur l’article 160, étant donné que la tromperie se rapportait précisément à la question la plus importante en l’espèce, soit celle de la valeur des services fournis par Mme Martin au cabinet de son mari. La Cour a retenu la version des faits de Mme Martin, selon laquelle, en 1994, le vérificateur leur a dit, relativement à l’issue des vérifications menées tant à son égard qu’à l’égard de son mari, que ce dernier ne pouvait plus déduire quelque partie que ce soit de quelque salaire que ce soit qu’il déciderait de payer à l’appelante. L’ARC a depuis reconnu par écrit que c’était bel et bien ce qui leur avait été dit, nonobstant ce que le même vérificateur avait écrit. D’après l’appelante, c’est ce qui l’a conduite à continuer à travailler pour son mari, mais sans être payée, pendant les années qui ont précédé les années pendant lesquelles son mari avait un arriéré fiscal et au cours desquelles elle a reçu de lui des transferts, ainsi qu’à accepter de recevoir un salaire bien inférieur pour certaines de ces dernières années, après que le comptable qui s’occupait de la comptabilité d’entreprise pour son mari les a informés qu’en fait un salaire raisonnable pouvait à bon droit être déduit et que cela avait toujours été le cas. J’accepte entièrement cette explication et je crois que, dans l’ensemble, elle renforce la crédibilité de Mme Martin.
+Je suis toujours essentiellement de cet avis. La situation susmentionnée demeure très décevante et je suis encore très surpris que l’appel interjeté par Mme Martin soit passé à l’étape de l’audience – en effet, les valeurs monétaires que j’ai établies étaient entièrement compatibles avec celles établies par l’ARC dans sa vérification antérieure, mais récente.
+[17] Toutefois, il ne me paraît pas tout à fait évident que les communications trompeuses et erronées que l’ARC a eues avec les Martin justifient une adjudication de dépens sur la base procureur-client, même s’il est certain que les contribuables canadiens au service desquels se trouve l’ARC les considéreraient comme répréhensibles, scandaleuses et outrageantes. Il se peut fort bien que ce soit le cas, mais je n’ai rien entendu du vérificateur concerné de l’ARC ni de son collègue ni de l’agent des appels qui a établi que la version des faits de Mme Martin correspondait bel et bien à ce qui s’était passé. Bien qu’il soit extrêmement difficile dans les circonstances d’imaginer comment les actes de l’agent auraient pu être accidentels, involontaires ou innocents, je préférerais exercer le pouvoir discrétionnaire dont je dispose pour accorder des dépens sur la base procureur-client seulement dans les cas les plus clairs, et pour cette seule raison, je ne l’exerce pas en l’espèce. Cette position ne devrait pas être interprétée comme un commentaire sur le seuil à franchir pour qu’un acte réponde au critère de la conduite répréhensible, scandaleuse ou outrageante ou comme une indication sur ce seuil.
+[18] Néanmoins, je suis convaincu qu’il s’agit d’un facteur pertinent dans l’adjudication des dépens, et je fixe des dépens supérieurs à ceux prévus au tarif, qui ne seraient ni appropriés ni satisfaisants en l’espèce.
+[19] La déclaration écrite de l’ancien vérificateur de l’ARC et ses mises en garde ou menaces verbales ne peuvent pas être vraies et exactes dans les deux cas. L’agent des appels dans la présente instance a établi que la communication orale inexacte avait effectivement été faite. Cette communication a été faite à un moment où l’auteur savait pertinemment qu’elle était inexacte et qu’elle n’était pas conforme à la manière dont l’ARC appliquerait la loi, étant donné qu’il venait de consigner la démarche appropriée à l’issue d’une vérification litigieuse à l’égard des faits inchangés concernant les Martin. Cette communication orale inexacte est directement attribuable au fait que Mme Martin n’a pas été rémunérée pour ses précieux services ni n’a été payée pour l’utilisation des locaux destinés à un usage professionnel dont elle était propriétaire. Les questions concernant les services non rémunérés et le loyer non payé étaient des questions clés dans la résolution du litige dont j’étais saisi.
+[20] Le fait de ne pas recevoir de salaire pour un certain nombre d’années, et de recevoir un salaire très réduit pour d’autres, aurait eu des conséquences financières négatives sur les fonds du REER et les prestations du RPC de Mme Martin tout au long de sa retraite. Tels sont les résultats, malgré le fait que Mme Martin ait eu entièrement gain de cause devant la Cour. C’est ce qui justifie que la question litigieuse et le montant étaient d’autant plus importants pour elle. En outre, le Dr Martin aurait payé plus d’impôt en raison du fait qu’il ne pouvait pas demander les déductions auxquelles il avait droit, parce qu’on lui avait dit que les montants en question n’étaient pas déductibles et qu’ils ne le seraient plus.
+[21] Dans la décision Jolly Farmer Products Inc. c. La Reine, 2008 CCI 693, que j’ai rendue en matière de dépens, j’ai formulé les observations suivantes dans ma conclusion :
+[26] Il y a peut-être des arguments et des cas que l’Agence du revenu du Canada devrait tout simplement abandonner. La Couronne n’est pas une partie privée. Lorsqu’elle établit une nouvelle cotisation à l’égard d’un contribuable et qu’elle ne réussit pas à régler l’opposition de celui-ci, la Couronne oblige son citoyen/contribuable à s’adresser aux tribunaux. Lorsque la thèse de la Couronne est dénuée d’un certain fondement raisonnable et qu’elle est, dans les faits, entièrement rejetée, il est tout naturel que la Couronne soit consciente qu’elle poursuit l’instance au risque d’être condamnée à des dépens plus élevés que ceux prévus au tarif, si elle est déboutée. La Couronne n’est pas une partie privée et les affaires fiscales ne sont pas des différends similaires à ceux qui opposent deux Canadiens entre eux. En effet, il s’agit du gouvernement qui poursuit l’un de ses citoyens. Bien souvent, la Couronne perdra sa cause parce qu’elle n’avait pas entièrement connaissance, avant l’audience, de la preuve présentée par le contribuable ou n’était pas en mesure d’en apprécier sa crédibilité, ou parce qu’elle ne pouvait entièrement saisir la thèse qu’il avançait. Il arrivera que la Couronne fasse valoir, sans succès, des arguments nouveaux. Aucune de ces situations ne paraît exister en l’espèce. Les faits essentiels ne semblent pas avoir été contestés et un des administrateurs de la contribuable a fait l’objet d’un interrogatoire approfondi. Comme il a été mentionné précédemment, la première lettre d’offre de règlement envoyée par la contribuable comprenait une analyse détaillée de sa thèse juridique.
+Les observations ci‑dessus sont également appropriées et sont des facteurs pertinents en l’espèce[3].
+[22] Un facteur pertinent connexe, mais distinct, dans la fixation des dépens en l’espèce est que l’intimée a, avant l’audience, reconnu les services non rémunérés rendus par Mme Martin dans les années au cours desquelles les transferts en question avaient été faits par le Dr Martin en faveur de Mme Martin, mais a refusé de reconnaître comme contrepartie les services rendus, mais non rémunérés, dans les années précédentes. Cette distinction ne reposait sur aucun fondement juridique ni rationnel et, même lorsqu’on lui a demandé de s’expliquer, l’avocat de l’intimée n’avait aucun argument à présenter. Si l’intimée avait été cohérente ou rationnelle à cet égard lors de l’établissement de la nouvelle cotisation pour Mme Martin et si elle avait reconnu cette contrepartie accumulée dans les années précédentes, cela aurait considérablement réduit le montant de la cotisation établie au titre de l’article 160 de la Loi à l’égard de Mme Martin. Il s’agit d’un facteur dont il faut tenir compte dans l’adjudication des dépens qui est semblable aux facteurs énoncés aux alinéas 147(3)g), h) et i) des Règles.
+[23] L’ARC savait que Mme Martin disait la vérité au sujet de ce que l’ancien vérificateur de l’ARC avait dit aux Martin, étant donné que l’agent des appels concerné dans la présente instance avait précisément établi cela au cours de l’examen concernant l’opposition de Mme Martin. Après cette date, que les parties et la Cour ont supposé à cet égard être située en juillet 2007, Mme Martin a versé des honoraires d’environ 21 000 $ au cabinet Thorsteinssons au stade de l’opposition et pour plusieurs mois après l’établissement du rapport sur l’opposition et de la nouvelle cotisation subséquente ayant été à l’origine du présent appel (je ne vois absolument pas en quoi le temps consigné, mais jamais facturé à Mme Martin, est pertinent en l’espèce).
+[24] La présente affaire est tout à fait inhabituelle, difficile et, espérons‑le, exceptionnelle. En l’espèce, le total des dépens, y compris les débours, payables à l’appelante est fixé à 10 635 $.
+[25] L’appelante a également droit à ses dépens, fixés conformément au tarif à 700 $, au titre des observations et de l’audience sur les dépens.
+Signé à Ottawa, Canada, ce 13e jour de février 2014.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 30e jour de mai 2014.
+Mario Lagacé, jurilinguiste
+ANNEXE
+FRAIS ET DÉPENS
+RÈGLES GÉNÉRALES
+147(1) La Cour peut fixer les frais et dépens, les répartir et désigner les personnes qui doivent les supporter.
+(2) Des dépens peuvent être adjugés à la Couronne ou contre elle.
+(3) En exerçant sa discrétion conformément au paragraphe (1), la Cour peut tenir compte :
+a) du résultat de l’instance;
+b) des sommes en cause;
+c) de l’importance des questions en litige;
+d) de toute offre de règlement présentée par écrit;
+e) de la charge de travail;
+f) de la complexité des questions en litige;
+g) de la conduite d’une partie qui aurait abrégé ou prolongé inutilement la durée de l’instance;
+h) de la dénégation d’un fait par une partie ou de sa négligence ou de son refus de l’admettre, lorsque ce fait aurait dû être admis;
+i) de la question de savoir si une étape de l’instance,
+(i) était inappropriée, vexatoire ou inutile,
+(ii) a été accomplie de manière négligente, par erreur ou avec trop de circonspection;
+j) de toute autre question pouvant influer sur la détermination des dépens.
+(4) La Cour peut fixer la totalité ou partie des dépens en tenant compte ou non du tarif B de l’annexe II et peut adjuger une somme globale au lieu ou en sus des dépens taxés.
+(5) Nonobstant toute autre disposition des présentes règles, la Cour peut, à sa discrétion :
+a) adjuger ou refuser d’adjuger les dépens à l’égard d’une question ou d’une partie de l’instance particulière;
+b) adjuger l’ensemble ou un pourcentage des dépens taxés jusqu’à et y compris une certaine étape de l’instance;
+c) adjuger la totalité ou partie des dépens sur une base procureur-client.
+(6) La Cour peut, dans toute instance, donner des directives à l’officier taxateur, notamment en vue :
+a) d’accorder des sommes supplémentaires à celles prévues pour les postes mentionnés au tarif B de l’annexe II;
+b) de tenir compte des services rendus ou des débours effectués qui ne sont pas inclus dans le tarif B de l’annexe II;
+c) de permettre à l’officier taxateur de prendre en considération, pour la taxation des dépens, des facteurs autres que ceux précisés à l’article 154.
+(7) Une partie peut :
+a) dans les trente jours suivant la date à laquelle elle a pris connaissance du jugement;
+b) après que la Cour a décidé du jugement à prononcer, au moment de la présentation de la requête pour jugement,
+que le jugement règle ou non la question des dépens, demander à la Cour que des directives soient données à l’officier taxateur à l’égard des questions visées au présent article ou aux articles 148 à 152 ou qu’elle reconsidère son adjudication des dépens.
+RÉFÉRENCE : 2014 CCI 50
+No DU DOSSIER DE LA COUR : 2011-1635(IT)G
+INTITULÉ : ELEANOR MARTIN c.
+LA REINE
+MOTIFS DE L’ORDONNANCE : L’honorable juge Patrick Boyle
+DATE DE L’ORDONNANCE : Le 13 février 2014
+COMPARUTIONS :
+Pour l’appelante :
+Me David Piccolo
+M. Jonathan Crangle (stagiaire)
+Avocat de l’intimée :
+Me Stan W. McDonald
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : David Piccolo
+Jonathan Crangle (stagiaire)
+Cabinet : TaxChambers LLP
+155, avenue University, bureau 1230
+Toronto (Ontario) M5H 3B7
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Il n’y avait eu aucune offre de règlement à l’égard de l’appel interjeté par Mme Martin.
+[2] Voir par exemple les arrêts Canada c. Lau, 2004 CAF 10 et Canada c. Landry, 2010 CAF 135, rendus par la Cour d’appel fédérale et les décisions Velcro Canada Inc. c. La Reine, 2012 CCI 273, General Electric Capital Canada Inc. c. R., 2010 CCI 490, Blackburn Radio Inc. c. La Reine, 2013 CCI 98, Sommerer v. The Queen, 2007‑2583(IT)G (14 juillet 2011, non publiée) rendues par la Cour et, plus récemment, les motifs que j’ai rendus dans la décision Spruce Credit Union c. La Reine, 2014 CCI 42.
+[3] Dans la décision Walsh c. La Reine, 2010 CCI 125, la juge Sheridan a aussi considéré ces observations comme un facteur pertinent dans l’adjudication des dépens.

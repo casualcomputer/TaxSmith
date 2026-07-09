@@ -1,0 +1,459 @@
+---
+title: "Georgeson Shareholder Communication Canada Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/421499/index.do"
+last_modified: "2019-09-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 TCC 148"
+citation2: ""
+neutral_citation: "2019 TCC 148"
+decision_date: "2019-09-04"
+language: "en"
+item_id: "421499"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4192
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T12:04:08.513000+00:00"
+cases_cited_count: 13
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f83cc59b5a4ad441e5b96abfae1b4ab0869800aa4f81a5f570bc4d4e0e49eed2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Georgeson Shareholder Communication Canada Inc. v. The Queen
+
+- Citation: 2019 TCC 148
+- Decision date: 2019-09-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4192, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Georgeson Shareholder Communication Canada Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-09-04
+Neutral citation
+2019 TCC 148
+File numbers
+2016-2675(GST)G
+Judges and Taxing Officers
+Sylvain Ouimet
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2016-2675(GST)G
+BETWEEN:
+GEORGESON SHAREHOLDER
+COMMUNICATION CANADA INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion heard on September 6, 2018 at Toronto, Ontario and on January 10 and 11, 2019, at Vancouver, British Columbia
+Before: The Honourable Justice Sylvain Ouimet
+Appearances:
+Counsel for the Appellant:
+David Douglas Roberson
+Thomas Brook
+Counsel for the Respondent:
+Margaret McCabe
+AMENDED ORDER
+[This Amended Order is issued in substitution of
+the Order dated September 4, 2019.]
+The motion is dismissed, with costs.
+Signed at Ottawa, Canada, this 1st day of November 2019.
+“Sylvain Ouimet”
+Justice Ouimet
+Citation: 2019 TCC 148
+Date:20190904
+Docket: 2016-2675(GST)G
+BETWEEN:
+GEORGESON SHAREHOLDER
+COMMUNICATION CANADA INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Ouimet J.
+I. INTRODUCTION
+[1] These reasons address a motion made by the Appellant, Georgeson Shareholder Communication Canada Inc. (hereinafter referred to as the “Applicant”), pursuant to section 170.1 of the Tax Court of Canada Rules (General Procedure) (the “Rules”) [1] .
+[2] In its motion, the Applicant seeks the following:
+a) A judgment allowing its appeal and vacating the assessments made by the Minister of National Revenue (the "Minister") with respect to its reporting periods beginning on or after November 1, 2012 and ending on or before September 30. The Applicant is seeking to obtain such a judgment on the basis of admissions made by the Respondent in her pleadings and during examination for discovery.
+b) An order granting:
+1. Costs in its favour in respect of both the motion and the appeal.
+2. Such other and further relief as is fair and equitable under the circumstances.
+[3] Section 170.1 of the Rules states that a party may apply for judgment at any stage of a proceeding and in respect of any matter without waiting for the determination of any other question between the parties. Such application can be based on admissions made in the pleadings or in other documents filed in the Tax Court of Canada (the “TCC”). The application can also be based on admissions made during the course of an examination of the other party.
+[4] Section 170.1 of the Rules reads as follows:
+170.1 A party may, at any stage of a proceeding, apply for judgment in respect of any matter
+(a) upon any admission in the pleadings or other documents filed in the Court, or in the examination of another party, or
+(b) in respect of which the only evidence consists of documents and such affidavits as are necessary to prove the execution or identity of the documents,
+without waiting for the determination of any other question between the parties.
+[5] The issue in the Applicant’s appeal before the TCC is whether commissions it received as part of its asset reunification business were from the exempt supply of financial services as defined in subsection 123(1) of the Excise Tax Act [2] (the “ETA”).
+II. ISSUES
+[6] The issues are the following:
+1. Whether pursuant to section 170.1 of the Rules a party may obtain a judgment on admissions if only one issue is raised in the Notice of Appeal filed in the TCC;
+2. What principles are applicable to a motion for a judgment on admissions made pursuant to section 170.1 of the Rules; and
+3. Whether this is an appropriate case in which to grant the motion for a judgment on admissions made pursuant to section 170.1 of the Rules.
+III. THE RELEVANT LEGISLATIVE PROVISIONS
+[7] The key applicable provisions are:
+Tax Court of Canada Act
+Rules
+20 (1) Subject to the approval of the Governor in Council, rules for regulating the pleadings, practice and procedure in the Court shall be made by the rules committee.
+Tax Court of Canada Rules (General Procedure)
+Interpretation
+4 (1) These rules shall be liberally construed to secure the just, most expeditious and least expensive determination of every proceeding on its merits.
+(2) Where matters are not provided for in these rules, the practice shall be determined by the Court, either on a motion for directions or after the event if no such motion has been made.
+Question of Law, Fact or Mixed Law and Fact
+58 (1) On application by a party, the Court may grant an order that a question of law, fact or mixed law and fact raised in a pleading or a question as to the admissibility of any evidence be determined before the hearing.
+(2) On the application, the Court may grant an order if it appears that the determination of the question before the hearing may dispose of all or part of the proceeding or result in a substantially shorter hearing or a substantial saving of costs.
+(3) An order that is granted under subsection (1) shall
+(a) state the question to be determined before the hearing;
+(b) give directions relating to the determination of the question, including directions as to the evidence to be given — orally or otherwise — and as to the service and filing of documents;
+(c) fix time limits for the service and filing of a factum consisting of a concise statement of facts and law;
+(d) fix the time and place for the hearing of the question; and
+(e) give any other direction that the Court considers appropriate.
+Judgments on Admissions or Certain Documentary Evidence
+170.1 A party may, at any stage of a proceeding, apply for judgment in respect of any matter
+(a) upon any admission in the pleadings or other documents filed in the Court, or in the examination of another party, or
+(b) in respect of which the only evidence consists of documents and such affidavits as are necessary to prove the execution or identity of the documents,
+without waiting for the determination of any other question between the parties.
+Federal Court Rules
+(C.R.C. 1978, c. 663)
+Former Rule 341
+341 A party may, at any stage of a proceeding, apply for judgment in respect of any matter
+(a) upon any admission in the pleadings or other documents filed in the Court, or in the examination of another party, or
+(b) in respect of which the only evidence consists of documents and such affidavits as are necessary to prove the execution or identity of such documents,
+without waiting for the determination of any other question between the parties.
+Rules of Civil Procedure (Ontario)
+General
+20.04 (1) Revoked: O. Reg. 438/08, s. 13 (1).
+…
+Powers
+(2.1) In determining under clause (2) (a) whether there is a genuine issue requiring a trial, the court shall consider the evidence submitted by the parties and, if the determination is being made by a judge, the judge may exercise any of the following powers for the purpose, unless it is in the interest of justice for such powers to be exercised only at a trial:
+1. Weighing the evidence.
+2. Evaluating the credibility of a deponent.
+3. Drawing any reasonable inference from the evidence. O. Reg. 438/08, s. 13 (3).
+Oral Evidence (Mini-Trial)
+(2.2) A judge may, for the purposes of exercising any of the powers set out in subrule (2.1), order that oral evidence be presented by one or more parties, with or without time limits on its presentation. O. Reg. 438/08, s. 13 (3).
+Rule 51.06
+51.06 (1) Where an admission of the truth of a fact or the authenticity of a document is made,
+(a) in an affidavit filed by a party;
+(b) in the examination for discovery of a party or a person examined for discovery on behalf of a party; or
+(c) by a party on any other examination under oath or affirmation in or out of court,
+any party may make a motion to a judge in the same or another proceeding for such order as the party may be entitled to on the admission without waiting for the determination of any other question between the parties, and the judge may make such order as is just. R.R.O. 1990, Reg. 194, r. 51.06 (1).
+(2) Where an admission of the truth of a fact or the authenticity of a document is made by a party in a pleading or is made or deemed to be made by a party in response to a request to admit, any party may make a motion in the same proceeding to a judge for such order as the party may be entitled to on the admission without waiting for the determination of any question between the parties, and the judge may make such order as is just. R.R.O. 1990, Reg. 194, r. 51.06 (2).
+Excise Tax Act
+Definitions
+123 (1) In section 121, this Part and Schedules V to X,
+commercial activity of a person means
+(a) a business carried on by the person (other than a business carried on without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent to which the business involves the making of exempt supplies by the person,
+exempt supply means a supply included in Schedule V
+financial instrument means
+(a) a debt security,
+(b) an equity security,
+(c) an insurance policy,
+(d) an interest in a partnership, a trust or the estate of a deceased individual, or any right in respect of such an interest,
+(e) a precious metal,
+(f) an option or a contract for the future supply of a commodity, where the option or contract is traded on a recognized commodity exchange,
+(g) a prescribed instrument,
+(h) a guarantee, an acceptance or an indemnity in respect of anything described in paragraph (a), (b), (d), (e) or (g), or
+(i) an option or a contract for the future supply of money or anything described in any of paragraphs (a) to (h);
+financial service means
+(d) the issue, granting, allotment, acceptance, endorsement, renewal, processing, variation, transfer of ownership or repayment of a financial instrument,
+(f) the payment or receipt of money as dividends (other than patronage dividends), interest, principal, benefits or any similar payment or receipt of money in respect of a financial instrument,
+but does not include
+(r.4) a service (other than a prescribed service) that is preparatory to the provision or the potential provision of a service referred to in any of paragraphs (a) to (i) and (l), or that is provided in conjunction with a service referred to in any of those paragraphs, and that is
+(i) a service of collecting, collating or providing information, or
+(ii) a market research, product design, document preparation, document processing, customer assistance, promotional or advertising service or a similar service,
+recipient of a supply of property or a service means
+(a) where consideration for the supply is payable under an agreement for the supply, the person who is liable under the agreement to pay that consideration,
+(b) where paragraph (a) does not apply and consideration is payable for the supply, the person who is liable to pay that consideration
+and any reference to a person to whom a supply is made shall be read as a reference to the recipient of the supply;
+taxable supply means a supply that is made in the course of a commercial activity;
+Imposition of goods and services tax
+165 (1) Subject to this Part, every recipient of a taxable supply made in Canada shall pay to Her Majesty in right of Canada tax in respect of the supply calculated at the rate of 5% on the value of the consideration for the supply.
+Tax in participating province
+(2) Subject to this Part, every recipient of a taxable supply made in a participating province shall pay to Her Majesty in right of Canada, in addition to the tax imposed by subsection ( 1), tax in respect of the supply calculated at the tax rate for that province on the value of the consideration for the supply.
+SCHEDULE V
+Exempt Supplies
+PART VII
+Financial Services
+1 A supply of a financial service that is not included in Part IX of Schedule VI.
+2 A supply deemed under subsection 150(1) of the Act to be a supply of a financial service.
+IV. THE FACTS
+[8] The Applicant seeks to obtain a judgment allowing the appeal on the basis of admissions made by the Respondent in her pleadings and during examination for discovery. These admissions were originally described in a document drafted by the Applicant and entitled “Applicant’s/Appellant’s Admitted Facts in Support of its Motion under Section 170.1 of the Tax Court of Canada (General Procedure)”. The said document was filed at the beginning of the hearing. During the course of the hearing, the Respondent confirmed some, but not all of the alleged admissions. After discussions between the parties, the Applicant drafted and proceeded to file an amended version of the document, in which the admissions agreed upon by the parties were stated. These admissions are summarized below.
+A. Context
+[9] The Applicant is a corporation formed under the laws of the province of Ontario and has its head office in Toronto, Ontario. Its business consists of two businesses: a “proxy solicitation” business and an “asset reunification” business.
+[10] The Applicant’s appeal to the TCC is in relation to its asset reunification business. The Minister assessed the Applicant under section 296 of the ETA in respect of its goods and services tax/harmonized sales tax (“GST/HST”) for the reporting periods beginning on or after November 1, 2012 and ending on or before September 30, 2013.
+[11] In assessing the Applicant, the Minister increased the net tax owed by the Applicant for the assessed periods on the basis that the Applicant failed to charge and collect GST/HST on payments (commissions) it received from clients located in Canada in conducting its asset reunification business. The Minister determined that the commissions were paid with respect to services that were taxable supplies.
+[12] Consequently, the only issue raised by the Applicant in its appeal to the TCC is whether it was required to charge and collect GST/HST for these services.
+B. The Applicant’s Asset Reunification Business
+[13] The only source of revenue for the Applicant’s asset reunification business was commissions for services rendered.
+[14] The Applicant’s clients were shareholders that had unclaimed shares or cash distributions or dividends derived from such shares (the “Share Entitlements”). The Applicant’s asset reunification business consisted of locating these shareholders and acting on their behalf to arrange for the transfer of their Share Entitlements. In exchange for this service, the Applicant charged a commission that generally equalled 15 percent of the value of the Share Entitlements transferred to a shareholder.
+[15] In order to carry on its asset reunification business, the Applicant entered into two distinct agreements. First, the Applicant entered into an agreement with the share issuer (the “Program Agreement”). Second, the Applicant entered into an agreement with the shareholders. This agreement was detailed on a claim card (the “Claim Card”) that was signed by the shareholders. After it was signed, the Claim Card became the agreement between the Applicant and a shareholder.
+1) The Program Agreement
+[16] Under the Program Agreement, an issuer had to provide the Applicant with a list of shareholders that had not claimed their Share Entitlements. The issuer also had to provide additional information that might be useful to the Applicant in order to contact the shareholders. As for the Applicant, it agreed to keep the information obtained from the issuer confidential and to make its best efforts to contact the shareholders whose names appeared on the list. The Applicant was also required to provide the issuer with updates in the form of a report. The report informed the issuer with respect to the shareholders that to that point had been contacted by the Applicant.
+[17] Under the Program Agreement, the Applicant had the right to contact shareholders by sending them a letter (the “Program Letter”) together with a Claim Card.
+[18] The Program Letter bore the name of the issuer and explained to the shareholder the following:
+1. The transactions in which the issuer was involved that gave rise to the Share Entitlements;
+2. The specific Share Entitlements that were available to the shareholder;
+3. The availability of the Applicant to act on the shareholder’s behalf to arrange for the transfer of the Share Entitlements;
+4. That having the Applicant act on the shareholder’s behalf was entirely voluntary;
+5. A commission of up to 15% of the value of the Share Entitlement would be charged by the Applicant for acting on the shareholder’s behalf and;
+6. How to proceed with retaining the Applicant to act on the shareholder’s behalf.
+[19] Once a Program Letter together with a Claim Card had been sent out to all shareholders on the list provided by an issuer, if the Applicant identified any shareholder that did not respond or in respect of whom it had received a non-delivery notice (a “non-responding shareholder”), the Applicant undertook research to determine the correct address. In order to accomplish this task, the Applicant used online search engines, phone directories and its own proprietary database to try to locate such shareholders (the “search activities”).
+[20] If a non-responding shareholder was located or, in the case of a deceased shareholder, the appropriate legal representative of the non-responding shareholder’s estate, the Applicant resent the Program Letter and the Claim Card using the contact information obtained through the search activities.
+[21] In the event that a shareholder decided to contact the Applicant’s client or its agent directly, after receiving the Program Letter and the Claim Card, the shareholder was entitled to the full value of his or her Share Entitlements but the Applicant was not entitled to the commission or to the reimbursement of any expenses it had incurred in respect of that shareholder’s recovery of his or her Share Entitlements.
+[22] Preparation of the Program Letters and the Claim Cards, conducting the search activities, contacting shareholders, mailing the Program Letters and the Claim Cards and providing status updates to the issuers were all business activities that were carried on by the Applicant under the terms of the agreement.
+[23] Under that agreement, the Applicant provided its services to the issuer without remuneration or compensation. The only remuneration received by the Applicant was the commission paid after a Claim Card was signed and Share Entitlements were transferred.
+2) The Claim Card
+[24] When a shareholder decided to use the Applicant’s services by having the Applicant act on his or her behalf, the shareholder had to complete and sign the Claim Card and return it to the Applicant. The signed Claim Card constituted an agreement between the Applicant and a shareholder. Under this agreement, the shareholder attested that he or she was the rightful owner of the Share Entitlements and agreed to have the Applicant act on his or her behalf to arrange for the transfer of the Share Entitlements in return for the payment of a commission.
+[25] The commission charged by the Applicant was up to 15 percent of the value of the Share Entitlements. A shareholder could direct either that the commission be deducted from the cash amount that he or she was to receive as a result of the transfer of his or her Share Entitlements or that it be paid by the sale of a portion of the shares that were otherwise issuable to the shareholder.
+[26] A Claim Card included on its back a lost share certificate indemnity bond. If a shareholder was not able to produce a share certificate certifying that shareholder’s ownership of the shares, the Applicant charged the shareholder an additional 5% commission pursuant to the terms of the lost share certificate indemnity bond. This commission was requested from the shareholder to cover the cost of having the Share Entitlements insured under the Applicant’s blanket lost share certificate indemnity bond printed on the Claim Card. The bond was backed by the Travelers Guarantee Company of Canada. The commission was charged solely for coverage of the risk associated with a situation where, in order to obtain Share Entitlements, a person falsely claimed to have lost his or her share certificate and where the true shareholder later made a valid claim for the Share Entitlements.
+[27] The transfer of the Share Entitlements to the shareholder could be completed by a transfer of the shares, by a sale of the shares or by a transfer of a dividend. In the case of a transfer of shares, the shareholder would submit his or her share certificates to the Applicant and instruct the Applicant to direct the issuer, or its agent, to issue a portion of the shares directly to the Applicant. The Applicant would also be instructed to sell a portion of the shares in order to cover the cost of the Applicant’s commission. As for the Applicant, it had to instruct the issuer or its agent to issue new share certificates to the shareholder for the number of new shares that the shareholder was entitled to, less the shares issued to the Applicant to cover the cost of the commission.
+[28] In the case of a sale of shares or a transfer of a dividend, the shareholder would instruct the Applicant to direct the issuer, or its agent, to issue a cash payment equal to the value of the Share Entitlements directly to the Applicant, and the Applicant would then issue to the shareholder a payment equal to the shareholder’s Share Entitlements less the commission payable to the Applicant.
+[29] Where shareholders had Share Entitlements, the issuer, or its agent, upon receipt of the Applicant’s directions, would issue all such shares to the Applicant. The portion of such shares that was equal in value to the amount of the commission was issued to the Applicant in the name of the Applicant. The remaining shares were issued to the Applicant in the name of the shareholder.
+[30] After receiving such shares, the Applicant would send the shareholder’s shares directly to the shareholder, in the form of a share certificate (or, if done electronically, as a direct registration statement).
+V. POSITIONS OF THE PARTIES
+A- Applicant’s Position
+1) Scope of Application of Section 170.1 of the Rules
+[31] The Applicant submitted that section 170.1 of the Rules is not limited to rendering judgments on admissions only where there are multiple issues in appeal (i.e. limited to only disposing of part of the issues). Therefore, even though there is only one issue in this appeal, the Applicant submitted that the Court could still render a judgment on admissions.
+[32] The Applicant’s position is based on a statement made by this Court in the Potash Corporation of Saskatchewan Inc. v. The Queen, [3] decision where the Court stated the following:
+. . . It seems to me that Rule 170.1 is better saved for a case in which there is one (or more) simple question of fact which might be answered by admissions in the pleadings or on discovery which, in turn, might permit a final disposition through hearing argument on the applicable law. [4]
+[Emphasis added]
+[33] As will be explained later, this first question arose because of the phrase “without waiting for the determination of any other question between the parties” in section 170.1 of the Rules.
+2) Principles Applicable to Motion for Judgment on Admissions Pursuant to Section 170.1 of the Rules
+[34] In its written submissions, the Applicant argued that the seven principles summarized by the Ontario Superior Court of Justice in the Treats Inc. v. Richter, Usher and Vineberg [5] decision were adopted by this Court in the Potash decision. Therefore, according to the Applicant, these principles are applicable to a decision on a motion for judgment on admissions brought pursuant to section 170.1 of the Rules. These principles are the following:
+1. The admission must be clear and definite;
+2. The admission must be of such facts as show that the party is clearly entitled to the order asked for;
+3. The rule does not apply where there is any serious question of law to be argued;
+4. The rule does not apply where there is a serious question of fact outstanding;
+5. The motion is based on admission and proof of facts is not permitted;
+6. The motion should be granted only in a clear case and much care must be taken not to take away the right of trial on viva voce evidence; and
+7. To succeed on its application, the applicant must show that there is a clear admission on the face of which it is impossible for the other party to succeed.
+[35] Furthermore, the Applicant submitted that these principles were satisfied in the present case and proceeded to demonstrate how. [6]
+[36] In its oral submissions, the Applicant presented an alternate position with respect to the applicable principles. The Applicant submitted that, in light of the Supreme Court of Canada decision in Hryniak v. Mauldin [7] , the seven principles established in Treats and supposedly followed by this Court in Potash no longer constitute the proper test for the purpose of the application of section 170.1 of the Rules.
+[37] According to counsel for the Applicant, the principles discussed in Treats should be revisited in such a way as to satisfy the imperatives and principles described in the Hryniak decision and in the context of the section 4 of the Rules. Section 4 states that the Rules shall be liberally construed to secure the just, most expeditious and least expensive determination of every proceeding on its merits.
+[38] Consequently, the Applicant submitted, only four principles are applicable and they are as follows:
+1. The admission must be clear and definite.
+2. The admission must be of such facts as show that the party is clearly entitled to the order asked for.
+3. The rule does not apply where there is a serious question of fact outstanding.
+4. The motion must be based on admissions, and proof of facts is not permitted. [8]
+3) Application of the Principles to the Applicant’s Motion
+[39] The Applicant submitted that, regardless of the principles applied, the admissions were sufficient for this Court to allow its motion and grant a judgment on admissions.
+[40] According to the Applicant, the key admissions made by the Respondent are the following:
+- The Applicant made two separate supplies in carrying on its asset reunification business. The first, a supply of services, was made to the issuers pursuant to the Program Agreement. The second, also a supply of services, was made to shareholders under the terms of the Claim Card. [9]
+- The only revenue that the Applicant received under either agreement consisted of the commissions paid by the shareholders under the terms of the Claim Card.
+- The Applicant was paid solely in exchange for acting on the shareholder's behalf to arrange for the transfer of their Share Entitlements. [10]
+- In acting for the shareholders, the Applicant provided the following services:
+1. Arranging for the issuance, granting, allotment . . . and transfer of ownership . . . of shares;
+2. Arranging for the exchange, payment, issue, receipt or transfer of money; and
+3. Arranging for the payment or receipt of money as dividends. [11]
+[41] In conclusion, the Applicant submitted that all of the services it provided and for which it received payments were provided pursuant to the Claim Card and were clearly "financial services" as defined in the ETA, which made them an exempt supply.
+B- Respondent’s Position
+1) Scope of Application of Section 170.1 of the Rules
+[42] The Respondent, agreeing with the position taken by the Applicant, also submitted that, under section 170.1 of the Rules, it is possible to obtain a judgment on admission where there is only one issue in an appeal to this Court.
+2) Principles Applicable to Motion for Judgment on Admissions Pursuant to Section 170.1 of the Rules
+[43] The Respondent submitted that, in order for section 170.1 of the Rules to apply, the seven principles listed in the Treats decision had to be respected. In this regard, the Respondent submitted that this Court implicitly relied on those principles in order to render its decision in the Potash case.
+[44] Turning to the Applicant’s comments on Hryniak and its possible application to the present case, the Respondent submitted that it did not apply here because the comments made in that case only apply to summary judgments. The Respondent submitted that the judgment on admissions regime is completely different and exists for different purposes than the summary judgment regime, and on that basis, the Hryniak decision is inapplicable.
+3) Application of the Principles to the Applicant’s Motion
+[45] The Respondent submitted that this case is not an appropriate one for a judgment on admissions because the principles that must be respected in order for such a judgment to be rendered have not in fact been respected.
+[46] According to the Respondent, only the first principle listed in the Treats decision has been respected. Specifically, the Respondent submitted that in the present case the admissions do not sufficiently cover all of the requisite elements in order for the issue to be disposed of without a trial.
+[47] The Respondent also submitted that the law with respect to financial services is not sufficiently clear to allow of a judgment on admissions, and that there is a serious question of law to be argued.
+[48] The Respondent further submitted that there is also a serious question of fact outstanding. The Respondent stated that, in order to render a decision on the issue in the appeal, the Court needed further evidence on how the Applicant conducted its asset reunification business on a day-to-day basis. The Respondent believes that such evidence is crucial in determining whether the Applicant provides "financial services" as defined in subsection 123(1) of the ETA. [12]
+[49] The Respondent stated that, should this matter proceed to trial, she intends to call employees of the Applicant as witnesses to testify as to how the Applicant operated on a day-to-day basis. The Respondent submitted that their evidence is necessary and crucial in order for this Court to determine whether the Applicant provided "financial services". [13]
+VI. ANALYSIS
+A. Scope of Application of Section 170.1 of the Rules
+[50] The first question this Court must answer is whether the application of section 170.1 of the Rules is limited to rendering judgments on admissions where there are multiple issues in an appeal and only some of those issues are subject to the judgment on admissions.
+[51] According to the parties, the following comment made by this Court in Spencer v. The Queen. [14] raises doubt as to the intended scope of section 170.1 of the Rules:
+It is questionable in my view whether Rule 170.1 is an appropriate means of obtaining judgment in an Income Tax appeal in this court. Its purpose appears to be to permit the court to grant what are sometimes called “pro tanto” judgments in cases in which two or more separate issues are raised and the respondent is prepared to consent to judgment on one issue so that a reassessment giving relief on that issue can be issued and the parties could proceed to litigate the other issues. [15]
+[52] At the hearing, both parties agreed that the Court did not provide any support for the above statement. The Applicant submitted that the Court was only speculating in obiter. [16] The parties did however acknowledge that, considering the wording of section 170.1 of the Rules, and more specifically the use of the words “without waiting for the determination of any other question between the parties”, there is some merit to the contention that section 170.1 of the Rules only applies where there are two or more questions needing to be resolved in an appeal.
+[53] Nonetheless, both parties submitted that section 170.1 of the Rules is not limited to rendering judgments on admissions where there are multiple issues in an appeal.
+[54] It is impossible to determine whether the Court was speculating when it commented in the Spencer decision that the purpose of section 170.1 of the Rules appeared to be to permit the court to grant “pro tanto” judgments in cases in which two or more separate issues are raised in an appeal and where the respondent is prepared to consent to judgment on one issue.
+[55] While the Court believes that the use of the words “without waiting for the determination of any other question between the parties” could be interpreted as meaning that section 170.1 of the Rules only applies where there are two or more issues in an appeal before this Court, the Court also believes that these words could equally denote that applications under section 170.1 of the Rules are to proceed rapidly and without delay.
+[56] As stated by the Supreme Court of Canada (the “SCC”) in the Trustco Mortgage Co. v. Canada [17] decision, it has been long established as a matter of statutory interpretation that "the words of an Act are to be read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament". [18]
+[57] Rules and regulations are also to be interpreted using the “modern approach” to statutory interpretation, keeping in mind the enabling statute. [19]
+[58] In the present case, since the words of section 170.1 of the Rules are capable of two meanings, the Court must first turn to Parliament’s intention in order to determine which interpretation to adopt. [20]
+[59] The Rules are adopted by a rules committee and are subject to the approval of the Governor in Council. [21] Unlike deliberations in the House of Commons or Senate, there is no public debate from which the drafter’s intent may be drawn. It is therefore very difficult to determine the intent of the drafter with respect to section 170.1 of the Rules in the absence of other sources of information in that regard.
+[60] However, the Federal Court Rules [22] had a provision that was virtually identical to section 170.1 of the Rules until it was replaced following an extensive revision of the Federal Court Rules in 1998-99. [23] Federal Court Rule 341 (“Rule 341”) read as follows:
+Rule 341. A party may, at any stage of a proceeding, apply for judgment in respect of any matter
+(a) upon any admission in the pleadings or other documents filed in the Court, or in the examination of another party, or
+(b) in respect of which the only evidence consists of documents and such affidavits as are necessary to prove the execution or [identity] of such documents,without waiting for the determination of any other question between the parties. [24]
+[61] The scope of application of Rule 341 was first discussed by the Federal Court of Appeal (the “FCA”) in the R. v. Gary Bowl Limited [25] decision. In that decision, the FCA held that former Rule 341 could be used to render a judgment completely disposing of a matter. The FCA addressed this issue in the following terms:
+The wording of Rule 341 is somewhat different from that of the earlier Exchequer Court Rule 256B(2) and similar Rules which have been in effect in England and other common law jurisdictions for many years but the object of the Rule does not appear to me to differ in any essential respect from that of the other similar Rules. In my opinion the application of Rule 341 is not confined to situations in which several causes of action are involved in a proceeding and the admissions warrant judgment on some of them but not on others and I do not think the observations of Jackett P., in the Libby-Owens-Ford Glass case should be read as limiting the rule to such situations.
+The English counterpart of Rule 341 was commented on by Jessel, M.R. in Thorp v. Holdsworth [[1876], 3 Ch. D. 637], in the following terms at page 640:
+The 11th rule of Order XL. enables the Plaintiff or Defendant to get rid of so much of the action as to which there is no controversy. That is the meaning of it. It may be that the whole issue may not be in controversy, and thereupon either party may be entitled to move on admissions of fact in the pleadings.
+In Gilbert v. Smith [[1876], 2 Ch. D. 686], Mellish L.J. discussed the same Rule as follows at page 688:
+I think that rule 11 of Order XL. was framed for the express purpose, that if there was no dispute between the parties, and if there was on the pleadings such an admission as to make it plain that the Plaintiff was entitled to a particular order, he should be able to obtain that order at once upon motion. It must, however, be such an admission of facts as would shew that the Plaintiff is clearly entitled to the order asked for, whether it be in the nature of a decree, or a judgment, or anything else. The rule was not meant to apply when there is any serious question of law to be argued. But if there is an admission on the pleadings which clearly entitles the Plaintiff to an order, then the intention was that he should not have to wait, but might at once obtain any order which could have been made on an original hearing of the action.In that case the only cause of action was for partition of lands and the claim was for partition and an order for necessary inquiries. The plaintiff's title having been admitted the order for the inquiries was made under the rule. [26]
+[Emphasis added.]
+[62] The FCA then proceeded to render a judgment on the matter on the basis of the application for judgment on admissions. Since there was only one issue, the judgment completely disposed of the matter.
+[63] In conclusion, this Court has determined that the reasoning in the Gary Bowl decision is persuasive and should be followed. The Court accordingly believes that a party can apply for a judgment on admissions pursuant to section 170.1 of the Rules when there is only one issue in appeal.
+B. Principles Applicable to Motion for Judgment on Admissions Pursuant to Section 170.1 of the Rules
+[64] Section 170.1 of the Rules has never been the subject of an extensive study by this Court since its adoption in May 1999. The parties relied on this Court’s decision in Potash to import principles developed by the Ontario courts with respect to their own rule on judgements on admissions. Both parties argued that the principles stated in the Potash decision were applicable. That being said, the Applicant also submitted, as an alternative position, that some of these principles should no longer be applied either because they are redundant or because of the SCC decision in Hryniak.
+[65] The parties drew to the Court’s attention paragraph 21 of the Potash [27] decision, where the seven applicable principles as established by the Ontario Superior Court in the Treats decision are summarized. Paragraph 21 reads as follows:
+[21] Counsel for the Respondent relied on a decision of the Ontario Superior Court of Justice in which Kiteley J. considered a rule similar to our Rule 170.1: Treats Inc. v. Richter, Usher and al, [2001] O.J. No. 1188. Justice Kiteley referred to two earlier decisions (Sigroum, 1985 [Sigroum Office Management v. Milanis, 1985 CarswellOnt 525 (Ont. Dist. Ct.)] and Plainsman Developments, 1982 [Plainsman Developments Ltd. v. Builders Contract Management Ltd., 1982 CarswellSask 432 (Sask. Q.B.)]) as establishing seven principles which are applicable to a motion for judgment on admissions. The seven principles were summarized by Justice Kiteley as follows:
+The admission must be clear and definite (Landergan v. Feast (1886) 55 L.T. Ch. 505);
+The admission must be of such facts as show that the party is clearly entitled to the order asked for (Gilbert v. Smith (1876), 2 Ch. D.686);
+The rule does not apply where there is any serious question of law to be argued (Adcock v. Algoma Steel Corporation, [1968 CanLII 337 (Ont. HC)], [1968] 2 O.R. 647);
+The rule does not apply where there is a serious question of fact outstanding (Ellis v McQueen [1967 CanLII 247 (Ont. H.C.], [1967] 2 O.R. 399);
+The motion is based on admissions and proof of facts is not permitted (Toronto v. Schein (1980), 19 C.P.C. 195);
+The motion should be granted only on a clear case and much care must be taken not to take away the right of trial on viva voce evidence (Cook v. Lemieu (1885) 10 P.R. 577);
+To succeed on this application, the applicant must show that there is a clear admission on the face of which it is impossible for the defendants to succeed.
+[66] On reading paragraph 21, the Court can only come to the conclusion that this Court was summarizing the Respondent’s position and nothing more. The Court used the words “Counsel for the Respondent relied on a decision . . .” and further stated (in paragraph 22) that the case involved “complex issues of law”, which made it inappropriate for a judgment on admissions to be rendered. The Court went on to reject the application, without clearly accepting the seven principles summarized in the Treats decision. Furthermore, at paragraph 22, the Court added that the rule “is better saved for a case in which there is one (or more) simple question of fact”:
+[22] There are so many complex issues of law concerning the interpretation and application of both the Saskatchewan Mineral Taxation Act and paragraph 12(1)(x) of the federal Income Tax Act that it is not appropriate to seek a judgment under Rule 170.1. It seems to me that Rule 170.1 is better saved for a case in which there is one (or more) simple question of fact which might be answered by admissions in the pleadings or on discovery which, in turn, might permit a final disposition through hearing argument on the applicable law. [28]
+[Emphasis added.]
+[67] Given all of this, it cannot be concluded that this Court has adopted the principles enumerated in Treats.
+[68] With respect to the applicable principles, the Gary Bowl decision is very useful and, as such, should be followed. In this decision, without listing the principles applicable to an application made pursuant to former Rule 341, the FCA provided guidance with respect to the application of the Rule. On that issue, the FCA stated the following:
+The rule is, however, limited, as the passages I have quoted appear to me to indicate, to situations where as a result of admissions etc., there is nothing in controversy either in the action as a whole or in a particular part or parts of it. Even when all the necessary facts have been admitted but the legal result of them is still in controversy the Rule is not appropriate if the legal question is a serious or fairly arguable one. The Rule as I understand it cannot properly be invoked as an alternative to setting down for determination before trial under Rule 474 a point of law that arises on the pleadings. Under that Rule it is for the Court to determine whether a point of law which is in controversy should be dealt with before trial or not and a party is not entitled to circumvent the exercise of that discretion by bringing a motion for judgment on admissions and seeking to have the point argued and determined on the hearing of that motion. On the other hand when the material facts are clearly admitted and the result of the application of the law to them is not in doubt so that it is apparent that a plaintiff is entitled ex debito justitiae to the relief which he claims in the action or that a defendant is entitled to judgment dismissing the action against him, as the case may be, a motion under Rule 341 is an appropriate procedure to obtain such relief immediately in lieu of allowing the action to proceed to a trial which in the end can have no other result. [29]
+[Emphasis added.]
+[69] As previously mentioned, the words used in former Rule 341 are virtually identical to those used in section 170.1 of the Rules. This makes any guidance provided by the FCA on the application of Rule 341 very persuasive in the determination of the scope of the application of section 170.1 of the Rules.
+[70] On the basis of the above statement of the FCA, this Court has concluded that the application of section 170.1 of the Rules is limited to situations where, as a result of the admissions, there is nothing in controversy in the appeal before the TCC.
+[71] This implies that there is no controversy as to the applicable law, as to the application of the law to the material facts and as to the material fact themselves. If there is an argument to be made regarding any of these points, and that argument is fairly arguable, this is sufficient in order to come to the conclusion that there is something in controversy in the case. This includes, for example, a situation where the law is not settled on a specific issue. Another example is where there are unclear admissions or admissions that are insufficient to demonstrate that the applicant in a particular case is clearly entitled to the requested judgment.
+[72] With respect to the latter, the Court adds that, in order for facts to be clearly admitted, the admissions must be precise. This is particularly important because, under section 170.1 of the Rules, it is not possible to adduce any evidence aside from the admissions or the limited documentary evidence permitted by the provision. The Court must therefore exercise much care, as a judgment rendered on admissions pursuant to section 170.1 effectively takes away the right of a party to a trial on viva voce evidence. Consequently, there should not be any ambiguities with respect to facts that are admitted, since the Court cannot ask for any clarification from the author of an alleged admission.
+[73] The Court believes that, if there is controversy in the case, the use of subsection 58(1), and not of section 170.1, of the Rule is appropriate.
+[74] Subsection 58(1) of the Rules reads as follows:
+58 (1) On application by a party, the Court may grant an order that a question of law, fact or mixed law and fact raised in a pleading or a question as to the admissibility of any evidence be determined before the hearing.
+[Emphasis added.]
+[75] Since there is a specific provision in the Rules that specifically allows a party to apply to have a question of fact or law, mixed fact and law determined before a hearing, that provision should be used for the determination of such questions. It is noteworthy that under subsection 58(1) of the Rule, the Court has the discretion to allow the application or not, which is not the case for application for judgment on admissions under section 170.1 of the Rules.
+[76] The situation in the present case is similar to the one that the FCA had to deal with in Gary Bowl. Indeed, in the passage cited at paragraph 68 above (and reproduced again in part below for ease of reference), the FCA contemplated exactly this type of situation:
+. . . The Rule as I understand it cannot properly be invoked as an alternative to setting down for determination before trial under Rule 474 a point of law that arises on the pleadings. Under that Rule it is for the Court to determine whether a point of law which is in controversy should be dealt with before trial or not and a party is not entitled to circumvent the exercise of that discretion by bringing a motion for judgment on admissions and seeking to have the point argued and determined on the hearing of that motion . . . [30]
+[Emphasis added.]
+[77] The FCA made it clear that a party could not properly invoke former Rule 341 to obtain a judgment on admission as an alternative to setting the matter down for determination before trial under Rule 474. The FCA also made it clear that a party was not entitled to circumvent the exercise of the Court’s discretion under Rule 474 by bringing a motion for judgment on admissions and seeking to have the point of law argued and determined on the hearing of such a motion.
+[78] At the time, Rule 474 read as follows:
+RULE 474. (l) The Court may, upon application, if it deems it expedient so to do,
+(a) determine any question of law that may be relevant to the decision of a matter, or
+(b) determine any question as to the admissibility of any evidence (including any document or other exhibit),
+and any such determination shall be final and conclusive for the purposes of the action subject to being varied upon appeal.
+(2) Upon application, the Court may give directions as to the case upon which a question to be decided under paragraph (1) shall be argued.
+[79] Therefore, a party in a TCC proceeding should not be entitled to circumvent the exercise of the Court’s discretion under subsection 58(1) of the Rules by bringing a motion for judgment on admissions and seeking to have a question of law, fact or mixed law and fact argued and determined on the hearing of such a motion.
+[80] Finally, with respect to the impact of the Hryniak decision on the principles applicable to motions for judgment on admissions pursuant to section 170.1 of the Rules, in the Manitoba v. Canada [31] decision, the FCA cautioned that “[c]are must be taken not to import the pronouncements in Hryniak uncritically, thereby improperly amending” the subject matter of rules of the courts. [32] This Court believes that it is in this light that Hryniak must be considered. Also, it cannot be ignored that in the Hryniak decision, the SCC was discussing a specific provision of the Ontario Rules of Civil Procedure and put much emphasis on the new “fact-finding powers” found in Rule 20.04 thereof, which include weighing the evidence, evaluating the credibility of a deponent and drawing any reasonable inference from the evidence. It should be noted that a judge may, for the purposes of exercising any of these powers, order that oral evidence be presented by one or more parties, with or without time limits on its presentation (“mini-trial”). This is not possible under section 170.1 of the Rules.
+[81] It is also important to remember that in the Hryniak decision (at paragraph 49), the SCC stated the following:
+There will be no genuine issue requiring a trial when the judge is able to reach a fair and just determination on the merits on a motion for summary judgment. This will be the case when the process (1) allows the judge to make the necessary findings of fact, (2) allows the judge to apply the law to the facts, and (3) is a proportionate, more expeditious and less expensive means to achieve a just result.
+[82] That being said, the Court is satisfied that, if there is nothing in controversy as discussed in paragraphs 70 to 72 above, there will be no genuine issue requiring a trial. Therefore, the Court will be able to reach a fair and just determination on the merits on an applicant’s motion for judgment on admissions, including making the necessary findings of fact and applying the law to the facts. In such case, a judgment on admissions will be a proportionate, more expeditious and less expensive means to achieve a just result and the principles described in Hryniak will have been respected.
+C. Application of the Principles to the Applicant’s Motion
+1. Is There Any Controversy in the Appeal Before the TCC.
+[83] It has been agreed by the parties that there is only one issue raised by the Applicant in its appeal. That issue is whether the Applicant was required to charge and collect GST on the commissions it received as payment for the services it rendered to shareholders while conducting its asset reunification business. The narrow issue is whether these services, i.e., the supply, was a “financial service” as defined in the ETA.
+[84] The parties submitted that the applicable law includes the decision of the SCC in Calgary (City) v. Canada, [33] the FCA decisions in Great-West Life Assurance Co. v. Canada [34] and in Global Cash Access (Canada) Inc. v. Canada [35] as well as the TCC decisions in Canadian Imperial Bank of Commerce v. The Queen [36] , Global Cash Access (Canada) Inc. v. The Queen [37] and Great-West Life Assurance Company v. The Queen [38] .
+[85] The analytic framework for determining whether a supply constitutes a “financial service”, as applied by the FCA in both the Great-West Life decision and the Global Cash Access decision, applies here.
+[86] In those decisions, the FCA stated that, in determining whether a supply is a "financial service," there are two questions to be answered. Adapted to the facts of this case, these questions are as follows:
+1. What does an interpretation of the contracts between the parties show to have been the services provided by the Applicant to the shareholders?
+2. Did the supply fall within the statutory definition of "financial service"? [39]
+[87] With respect to the first question, the FCA further stated the following:
+The first question is simply to determine what services were provided for the consideration received. At this stage, the services should include all services and not just the predominant elements. This is clear in Global Cash in which the first step included some services that were not predominant elements (i.e. clerical services and access to premises) (Global Cash, paragraphs 27, 37 and 38). [40]
+[Emphasis added.]
+[88] With respect to the second question, the FCA stated:
+The difficult part of the analysis comes at the second step. It requires a determination as to whether the supply is included in the definition of "financial service." As part of this exercise, it is necessary to determine the predominant elements of the supply if it is a single compound supply. It is only the predominant elements that are taken into account in applying the inclusions and exclusions in the "financial service" definition. [41]
+[Emphasis added.]
+[89] Going back to the first question to be answered, the Court must first identify all of the constituent elements of the supply. This is where the first point of controversy in this case appears. This is because the parties do not agree as to whether the Applicant was providing a single supply or two supplies when it conducted its asset reunification business.
+[90] The Respondent’s position is that the services the Applicant was providing to the shareholders were composed of elements (services) provided by the Applicant pursuant to the Program Agreement and to the Claim Card. The Respondent submitted that all the services provided by the Applicant pursuant to the Program Agreement and the Claim Card were constituent elements of a single supply since these services were provided as an intertwined, interrelated and integral whole and therefore constituted a single overall supply.
+[91] The Applicant’s position is that it was providing a single supply but that it comprised only elements (services) provided pursuant to the Claim Card. The Applicant submitted that it was clear from the admissions that the predominant element of the supply was arranging for the transfer of the Share Entitlements. In the Applicant’s view, the agreement with the shareholder is restricted to the Claim Card, which specifically stated that the shareholder wished to be assisted by the Applicant in recovering his or her Share Entitlements. According to the Applicant, this is sufficient for the Court to conclude that the shareholders clearly paid a commission for that service only. Therefore, the constituent elements of the supply are limited to the services provided under the Claim Card.
+[92] Furthermore, the Applicant submitted to the Court that the rule of “past consideration is no consideration” applies to this case. [42] The Applicant argued that the services provided to the issuers pursuant to the Program Agreement, and therefore before a Claim Card was signed, were past consideration. As such, these services could not form part of the agreement between the Applicant and the shareholders.
+[93] The key decision on whether a particular set of facts reveals a single or multiple supplies is the SCC decision in Calgary.In that decision, the SCC provided guidance on the applicable principles in determining whether a single supply or multiple supplies have been made.The SCC endorsed the principles summarized by this Court in O.A. Brown Ltd. v. Canada. [43] These principles can be briefly stated as follows:
+The question of whether two elements constitute a single supply or two or multiple supplies requires an analysis of the true nature of the transactions, and that is a question of fact to be determined with a generous application of common sense. [44]
+The test is whether, in substance and reality, the alleged separate supply is an integral part or component of the overall supply. [45] Specifically, in applying the test, one must examine the true nature of the transaction to determine the tax consequences and one should look also at the degree to which the services alleged to constitute a single supply are interconnected, the extent of their interdependence and intertwining, and finally whether each is an integral part or component of a composite whole. [46]
+[94] Considering the applicable law, the admissions and the positions taken by the parties with respect to the constituent elements (services) of the supply made by the Applicant, the Court has concluded that there is controversy in this case.
+[95] Specifically, we are in a situation where the law is not settled on a specific issue which is at the centre of the case before the TCC. To the Court’s knowledge, the courts have not yet determined whether, for the purpose of the application of the ETA, the constituent elements (services) of a supply made under a contract between a supplier of a service and a recipient could be considered as part of a single supply made to another recipient. Therefore, there is an argument to be made by the parties on this issue.In fact, the positions already taken by the parties on the issue clearly indicate that this is the case.
+[96] Finally, because of the positions taken by the parties on that same issue, the relevant facts cannot be identified. It is therefore impossible to determine whether the admissions are sufficient for the Court to render a judgment on admissions.
+[97] This is sufficient for the Court to come to the conclusion that a trial should take place, and the Court will not render a judgment on admissions pursuant to section 170.1 of the Rules.
+[98] The motion is dismissed, with costs.
+Signed at Ottawa, Canada, this 4th day of September 2019.
+“Sylvain Ouimet”
+Ouimet J.
+CITATION:
+2019 TCC 148
+COURT FILE NO.:
+2016-2675(GST)G
+STYLE OF CAUSE:
+GEORGESON SHAREHOLDER COMMUNICATION CANADA INC. V. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario and Vancouver, British Columbia
+DATE OF HEARING:
+September 6, 2018, January 10 and 11, 2019
+REASONS FOR ORDER BY:
+The Honourable Justice Sylvain Ouimet
+DATE OF ORDER:
+September 4, 2019
+APPEARANCES:
+Counsel for the Applicant:
+David Douglas Robertson
+Thomas Brook
+Counsel for the Respondent:
+Margaret McCabe
+COUNSEL OF RECORD:
+For the Applicant:
+Name:
+David Douglas Robertson
+Thomas Brook
+Firm:
+EY Law LLP
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Tax Court of Canada Rules (General Procedure), SOR/90-688a.
+[2] R.S.C. 1985, c. E-15, as amended.
+[3] Potash Corporation of Saskatchewan Inc. v. The Queen, 2003 TCC 588 (Potash).
+[4] Ibid., at para. 22.
+[5] Treats Inc. v. Richter, Usher and Vineberg, [2001] O.J. No. 1188 (On), 104 A.C.W.S. (3d) 289 (Treats).
+[6] Applicant’s Written Submissions, paras. 52 to 69.
+[7] Hryniak v. Mauldin, 2014 SCC 7, [2014] 1 S.C.R. 87 (Hryniak).
+[8] Transcript of Proceedings, September 6, 2018, at pp. 124-27.
+[9] Applicant’s/Appellant’s Written Submissions, para. 5.
+[10] Applicant’s/Appellant’s Written Submissions, para. 6.
+[11] Applicant’s/Appellant’s Written Submissions, para. 7.
+[12] Respondent’s Written Submissions, para. 26.
+[13] Respondent’s Written Submissions, para. 27.
+[14] Spencer v. The Queen, 2001 DTC. 964, [2001] 4 C.T.C. 2640 (Spencer).
+[15] Ibid. at p. 966 DTC, pp. 2643-44 C.T.C.
+[16] Transcript of Proceedings, September 6, 2018, at p. 42, lines 15-18 and 27-28, and p. 43.
+[17] Canada Trustco Mortgage Co. v. Canada, 2005 SCC 54, [2005] 2 S.C.R. 601 (Trustco).
+[18] Ibid., at para. 10. See also 65302 British Columbia Ltd. V. Canada, [1999] 3 S.C.R. 804, at para. 50.
+[19] Bristol-Myers Squibb Co. v. Canada (Attorney General), 2005 SCC 26, [2005] 1 S.C.R. 533, at paras. 98-99.
+[20] Ibid.
+[21] Tax Court of Canada Act, R.S.C. 1985, c. T-2, s. 20(1).
+[22] SOR/98-106.
+[23] Rule 341 was replaced by Rule 213, which, at the time, read as follows:
+Summary Judgment
+213. (1) Where available to plaintiff – A plaintiff may, after the defendant has filed a defence, or earlier with leave of the Court, and at any time before the time and place for trial are fixed, bring a motion for summary judgment on all or part of the claim set out in the statement of claim. (2) Where available to defendant – A defendant may, after serving and filing a defence and at any time before the time and place for trial are fixed, bring a motion for summary judgment dismissing all or part of the claim set out in the statement of claim
+[24] Federal Court Rules, C.R.C. 1978, c. 663, Rule 341.
+[25] R. v. Gary Bowl Limited, [1974] 2 F.C. 146, [1974] C.T.C. 457 (CAF) (Gary Bowl). See also The Queen v. Bowater Mersey Paper Co., [1987] 2 C.T.C. 159, [1987] F.C.J. No. 427 (QL) (CAF), Bandag Inc. v. Vulcan Equipment Co. Ltd., [1977] 2 F.C. 397, [1977] F.C.J. 49 (QL) (FCTD), Diamond Shamrock Corp. v. Hooker Chemicals & Plastics Corp., [1982] F.C.J. No. 521 (QL), 66 C.P.R. (2d) 145 (FCTD) and Canadian Parks and Wilderness Society v. Canada (Minister of the Environment), [1992] F.C.J. No. 553 (QL), 34 A.C.W.S. (3d) 618 (FCTD).
+[26] Gary Bowl, supra, at pp. 147-48.
+[27] Potash, supra, at para. 21.
+[28] Potash, supra, at para. 22.
+[29] Gary Bowl, supra, at pp. 148-49.
+[30] Gary Bowl, supra, at p. 149.
+[31] Manitoba v. Canada, 2015 FCA 57.
+[32] Ibid., at para. 13. This passage is cited in Cougar Helicopters Inc. v. The Queen, 2017 TCC 126, at para. 41.
+[33] Calgary (City) v. Canada, 2012 SCC 20, [2012] 1 S.C.R. 689 (Calgary).
+[34] Great-West Life Assurance Co. v. Canada, 2016 FCA 316 (Great-West Life).
+[35] Global Cash Access (Canada) Inc. v. Canada, 2013 FCA 269 (Global Cash Access).
+[36] Canadian Imperial Bank of Commerce v. The Queen, 2012 TCC 237.
+[37] Global Cash Access (Canada) Inc. v. The Queen, 2012 TCC 173.
+[38] Great-West Life Assurance Company v. The Queen, 2015 TCC 225.
+[39] Great-West Life, supra, at para. 46; Global Cash Access, supra, at para. 26.
+[40] Great-West Life, supra, at para. 47.
+[41] Great-West Life, supra, at para. 48.
+[42] The Applicant cited, among other decisions, Eastwood v. Kenyon, 11 Ad. E. 438, 113 Er.482.
+[43] O.A. Brown Ltd. v. Canada, [1995] T.C.J. No. 678 (QL), [1995] G.S.T.C. 40. (O.A. Brown)
+[44] See also Gin Max Enterprises Inc. v. The Queen, 2007 TCC 223.
+[45] Calgary, supra, at para. 35.
+[46] Mercantile Contracts Ltd. v. Customs & Excise Commissioners, File No. LON/88/786, U.K. (unreported), cited by Judge Rip in O.A. Brown.

@@ -1,0 +1,171 @@
+---
+title: "Woodland Insurance Ltd. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26744/index.do"
+last_modified: "2005-06-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 385"
+citation2: ""
+neutral_citation: "2005 CCI 385"
+decision_date: "2005-06-17"
+language: "fr"
+item_id: "26744"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3459
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:49:29.219000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "013d796b0f45871b36fe927d37a318caf01113ec0decc8c6795eedddfe2216fa"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Woodland Insurance Ltd. v. M.N.R.
+
+- Citation: 2005 CCI 385
+- Decision date: 2005-06-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3459, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Woodland Insurance Ltd. v. M.N.R.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-06-17
+Référence neutre
+2005 CCI 385
+Numéro de dossier
+2004-2983(EI)
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossiers : 2004-2983(EI)
+2004-2984(CPP)
+ENTRE :
+WOODLAND INSURANCE LTD.,
+appelante,
+Et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+Et
+CHRISTOPHER McCURDY,
+Intervenant.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus le 22 février 2005 à London (Ontario).
+Devant : L'honorable juge E.A. Bowie
+Comparutions :
+Avocat de l'appelante :
+Christian F. Specht
+Avocat de l'intimé :
+Charles M. Camirand
+Pour l'intervenant :
+L'intervenant lui-même
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi et de l'article 28 du Régime de pensions du Canada sont rejetés et la décision rendue par le ministre du Revenu national au sujet des appels portés devant lui en vertu de l'article 91 de la Loi et de l'article 27 du Régime est confirmée.
+Signé à Ottawa, Canada, ce 17e jour de juin 2005.
+"E.A. Bowie"
+Le juge Bowie
+Traduction certifiée conforme
+ce 8e jour de novembre 2005.
+Joanne Robert, traductrice
+Référence : 2005CCI385
+Date : 20050617
+Dossiers : 2004-2983(EI), 2004-2984(CPP)
+ENTRE :
+WOODLAND INSURANCE LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+CHRISTOPER McCURDY,
+intervenant.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bowie
+[1] L'appelante (Woodland) est une compagnie autorisée qui exploite une entreprise de courtage d'assurances en vertu de la Loi sur les assurances de l'Ontario. Chris McCurdy a travaillé comme vendeur au service de la compagnie durant la période allant du 1er décembre 2001 au 28 novembre 2003. Au terme de son emploi, Développement des ressources humaines Canada a demandé qu'une décision soit rendue en vertu de l'article 90 de la Loi sur l'assurance-emploi[1] (la Loi) et de l'article 26.1 du Régime de pensions du Canada[2] (le Régime) pour s'assurer que l'emploi était assurable et qu'il ouvrait droit à pension. Il a été statué que l'intéressé a été embauché aux termes d'un contrat de louage de services et que l'emploi était par conséquent assurable en vertu de la Loi et ouvrait droit à pension en vertu du Régime. Cette décision a été portée en appel devant le ministre en vertu de l'article 91 de la Loi et de l'article 27 du Régime. Le ministre a confirmé la décision le 27 avril 2004. Pour les motifs qui suivent, j'estime qu'il a eu raison de le faire.
+[2] L'entreprise exploitée par Woodland consiste à vendre des polices d'assurance I.A.R.D. et à assurer le service. Steven Specht est venu témoigner. Il est un administrateur de la société et, au cours de la période en cause, c'est lui qui s'occupait de la gestion courante de l'entreprise. M. McCurdy et un certain M. Stan Sawicki étaient vendeurs, et ils formaient, avec une réceptionniste, le personnel de l'entreprise. M. Specht est courtier d'assurances depuis plus de 20 ans, et il supervise l'entreprise de courtage et les courtiers au service de la compagnie. Il a signé, au nom de Woodland, les contrats passés avec M. Sawicki et M. McCurdy. J'élaborerai un peu plus loin sur les dispositions particulières du contrat écrit passé entre l'appelante et M. McCurdy.
+[3] M. Sawicki a témoigné pour l'appelante. Pendant la période en question, il a gagné sa vie principalement comme agent d'assurance-vie. Il a déclaré sous serment que c'est parce qu'il désirait pouvoir offrir des produits d'assurances I.A.R.D à ses clients ayant souscrit une assurance-vie qu'il s'était joint à Woodland pour y travailler à temps partiel. Il a continué à consacrer la majeure partie de son temps à la vente d'assurance-vie. M. Specht et lui ont tous deux témoigné assez longuement au sujet de la relation de travail entre M. Sawicki et Woodland. Un dossier de documents présenté en preuve après accord des parties contenait les contrats écrits passés par Woodland avec M. Sawicki et M. McCurdy. Il appert qu'ils sont présentés sur le même formulaire imprimé. Je crois que l'appelante a produit cette preuve en supposant que si elle démontrait que M. Sawicki travaillait en vertu d'un contrat d'entreprise, elle pourrait établir que c'était également en vertu de cette relation que M. McCurdy travaillait pour Woodland. Cette supposition n'est aucunement valide. La situation de M. Sawicki et celle de M. McCurdy étaient complètement différentes. M. McCurdy a été embauché en vue de vendre à temps plein de l'assurance I.A.R.D. pour le compte de l'appelante; M. Sawicki consacrait une petite partie de son temps à la vente d'assurances I.A.R.D. à un bassin existant de clients qui n'avait rien à voir avec l'entreprise de Woodland, tout en exerçant séparément son activité principale en tant qu'agent d'assurance-vie. Selon la preuve soumise, les dispositions du contrat écrit entre Woodland et M. Sawicki n'étaient pas appliquées, et il se pourrait fort bien qu'après analyse de la relation entre les deux, le contrat se révèle être un contrat d'entreprise. Toutefois, cela ne constitue pas du tout une preuve de la relation contractuelle entre M. McCurdy et Woodland; cette relation doit être déterminée compte tenu des faits en cause.
+[4] Voyons maintenant les dispositions du contrat de M. McCurdy. Comme je l'ai mentionné, il y a entente écrite. Il s'agit d'un formulaire préparé, de toute évidence par un avocat, dans le but d'être utilisé par Woodland pour tous ses vendeurs. Il décrit M. McCurdy comme étant « l'employé » , mais M. Specht a déclaré qu'il s'agissait d'une erreur de la part de l'avocat. Quelques lignes plus loin, voici ce qui est précisé :
+[TRADUCTION]
+ET ATTENDU que la compagnie désire continuer de retenir les services du producteur [M. McCurdy] comme représentant, en tant qu'entrepreneur indépendant, et que les parties souhaitent conclure une entente confirmant les dispositions du contrat.
+Nous trouvons le paragraphe qui suit sous la rubrique [TRADUCTION] Contestation du statut, ce qui dénote quelque peu d'incohérence :
+[TRADUCTION]
+16.1 Dans la mesure où le producteur [M. McCurdy] est réputé être un employé en vertu de la Loi sur les normes d'emploi, le producteur [M. McCurdy] reconnaît et convient que la fraction des commissions à laquelle il a droit est répartie de la façon suivante : 92,4 p. 100 pour la rémunération des services, 3,7 p. 100 pour les indemnités de jour férié et 3,9 p. 100 pour la paie de vacances. La compagnie arrête et convient que le producteur [M. McCurdy] aura droit à seulement deux semaines de vacances payées (auxquelles s'ajoutent les congés autorisés non payés, tel que convenu) et qu'il ne travaillera pas les jours fériés.
+Cela équivaut bien sûr, pour l'appelante, à reconnaître deux vérités allant de soi : d'abord, que l'appelante et ses vendeurs ne peuvent pas se soustraire à l'application des lois en matière de prestations sociales, et deuxièmement que la relation existant entre eux est une question qui est régie par les lois générales de la province de l'Ontario[3], tel qu'il a été établi dans de nombreux arrêts, qui ont débouché sur la décision rendue par la Cour suprême du Canada dans l'affaire 671122 Ontario Ltd. c. Sagaz Industries Canada Inc.[4]
+[5] Je ne pense pas que les précisions que j'ai reproduites ci-dessus seront de quelque utilité dans cette affaire. Les autres dispositions de l'entente seront par contre utiles puisqu'elles permettent grandement de définir les droits et obligations qui régissent leur relation. Je n'ai pas l'intention de reproduire le contrat en entier. Les paragraphes 4.1 à 4.8 précisent avec moult détails les obligations de M. McCurdy, et prévoient que celui-ci doit travailler à temps plein pour l'appelante, fournir au besoin une preuve de maladie dans les cas où il est incapable de travailler et respecter « toutes les procédures administratives » . Il est tenu de payer ses propres dépenses, et il est responsable des mauvaises créances découlant des comptes gérés par lui. La disposition sur les vacances au paragraphe 7.1 établit ce qui suit :
+[TRADUCTION]
+7.1 Les parties espèrent et souhaitent que le producteur [M. McCurdy] prennent des congés annuels convenables d'une durée maximale de quatre semaines par année, en sus des jours fériés habituels, pourvu que tout congé ou absence du bureau ne dépasse pas 30 jours consécutifs et pourvu également que le producteur [M. McCurdy]...n'ait pas droit, à titre d'entrepreneur indépendant, à une indemnité de congés payés.
+[6] Le « livre de commerce » , c'est-à-dire les listes de clients qui regroupent les clients existants de l'entreprise et les clients recrutés par M. McCurdy, est déclaré propriété exclusive de l'appelante. L'entente prévoit une clause de non-concurrence détaillée. M. Specht a déclaré que les dispositions de l'entente n'étaient pas appliquées; M. McCurdy n'a pas contesté cette affirmation, mais il a indiqué qu'il se sentait tenu de s'efforcer, et qu'il s'efforçait bel et bien de se conformer aux dispositions de l'entente. Quoi qu'il en soit, ce qui importe aux fins de ces appels, c'est que l'appelante avait le droit d'exercer une supervision et un contrôle très étroits sur M. McCurdy dans l'accomplissement de son travail, non seulement quant à ce qu'il faisait, mais aussi quant à la manière dont il s'y prenait. Cet état de choses milite à coup sûr en faveur de la conclusion selon laquelle M. McCurdy était un employé plutôt qu'un entrepreneur indépendant.
+[7] Comme pour tous les vendeurs payés à commission, le revenu de M. McCurdy était fonction, dans une large mesure, du temps et des efforts qu'il consacrait à son travail. Se répercutaient également sur ce revenu le niveau de ses dépenses et la mesure dans laquelle les clients faisaient défaut de paiement, parce qu'en vertu des dispositions du contrat, les manquements lui étaient imputés. Tous ces facteurs amènent à conclure qu'il était un entepreneur plutôt qu'un employé. Toutefois, le fait que les nouveaux clients qu'il recrutait devenait des clients de l'appelante, et non les siens, vient, dans une large mesure, y faire contrepoids. Il a déclaré sous serment qu'après que l'appelante eut mis fin à son emploi, il a travaillé pour un autre bureau et quand il souscrivait des assurances pour d'anciens clients, il devait prendre soin d'obtenir un déclaration écrite selon laquelle ces clients l'avait pressenti pour contracter une assurance. Les relations d'affaires qu'il a établies pendant qu'il était à l'emploi de l'appelante était pour une grande part dans l'intérêt à long terme de celle-ci, et non dans le sien.
+[8] Je ne crois pas que la propriété des outils soit un facteur très important dans l'affaire qui nous occupe. L'appelante s'est servie de son automobile, bien sûr, mais il n'a fait aucun investissement dans des outils destinés précisément à accomplir le travail. Il a utilisé un ordinateur et un bureau qui lui étaient fournis par l'appelante. Si tant est qu'il s'agisse d'un facteur, il incite à conclure que le contrat était un contrat de louage de services.
+[9] Le fait d'inclure dans le contrat écrit des termes visant à établir que le contrat d'entreprise plutôt qu'un contrat de louage de services n'est pas un facteur auquel j'accorderais du poids. Il ne s'agit pas d'une affaire s'apparentant à l'affaire Moose Jaw Kinsmen Flying Fins c. M.R.N.[5], où les deux parties désiraient à juste titre que la relation soit celle d'un entrepreneur indépendant. Dans l'affaire qui nous occupe, les termes ont été insérés par les avocats de l'appelante, probablement pour éviter que l'appelante soit tenue de verser des cotisations en vertu du Régime de pensions du Canada et de la Loi sur l'assurance-emploi, et de se conformer aux exigences de la Loi sur les normes d'emploi. Le contrat n'a réellement été signé qu'environ un an après l'entrée en fonction de M. McCurdy chez l'appelante et, à ce moment, la relation avait déjà été établie. Aucune preuve ne laisse croire que la nature de la relation a été modifiée en profondeur par le document écrit, même si c'est ce que je devrais conclure si je devais entériner les termes du contrat qui prétendent faire jouer à M. McCurdy un rôle d'entrepreneur indépendant. Il est vrai que l'employé a versé des cotisations au Régime à titre de travailleur indépendant, mais je suppose qu'il l'a fait parce que son employeur lui a dit que c'était ce qu'il devait faire. En tant qu'employé subalterne, il n'était guère en mesure d'insister trop sur ce point. Son emploi chez l'appelante n'a pas duré très longtemps; je suis certain qu'il aurait duré encore moins longtemps s'il n'avait pas fait ce que M. Specht lui disait de faire.
+[10] Je dois ajouter ce qui suit. De nombreuses preuves de différends de diverses natures entre M. Specht et M. McCurdy ont été entendues au cours du procès. L'une avait trait à une prime non payée sur une police que M. McCurdy avait vendue, et ce peut avoir été l'incident qui a en fin de compte entraîné la fin de leur relation; une autre avait trait à une introduction par effraction et à un vol dans les locaux de l'appelante. Une autre encore concernait le fait que l'appelante avait construit une terrasse en bois au cours de la période d'emploi de l'intéressé auprès de l'appelante. À mon avis, aucune de ces preuves n'est concluante quant à n'importe quel point pertinent. Elles révèlent en revanche un certain degré d'hostilité entre M. Specht et M. McCurdy, et j'ai soigneusement soupesé les preuves soumises par chacun d'eux en tenant compte de cette situation. Il y a très peu de contradiction directe entre leurs témoignages quant aux questions qui revêtent de l'importance, mais là où il y en a, je retiens de préférence le témoignage de M. McCurdy. Il a été livré avec calme et il sonnait juste. J'ai eu la nette impression que chaque fois que M. Specht en avait l'occasion, il témoignait de façon à faire du tort à M. McCurdy.
+[11] En appliquant le critère à quatre volets bien connu approuvé par la Cour suprême du Canada dans l'arrêt Sagaz[6], je conclus que le contrat était un contrat de louage de services. On obtient le même résultat si l'on pose la question qui a été formulée par le juge Cooke dans l'affaire Market Investigations Ltd. v. Minister of Social Security[7], et qui a ultérieurement été approuvée par le Conseil privé,[8] ainsi que par la Cour suprême du Canada dans l'arrêt Sagaz : « La personne qui s'est engagée à accomplir ces tâches les accomplit-elle en tant que personne à son compte? » Les faits qui m'ont été soumis dictent inexorablement une réponse négative.
+[12] Les appels sont rejetés.
+Signé à Ottawa, Canada, ce 17e jour de juin 2005.
+"E.A.Bowie"
+Le juge Bowie
+Traduction certifiée conforme
+ce 8e jour de novembre 2005.
+Joanne Robert, traductrice
+RÉFÉRENCE :
+2005CCI385
+Nos DES DOSSIERS DE LA COUR :
+2004-2983(EI), 2004-2984(CPP)
+INTITULÉ DE LA CAUSE :
+Woodland Insurance Ltd. et le ministre du Revenu national et Christopher McCurdy
+LIEU DE L'AUDIENCE :
+London (Ontario)
+DATE DE L'AUDIENCE :
+22 février 2005
+MOTIFS DU JUGEMENT PAR :
+L'honorable juge E.A. Bowie
+DATE DU JUGEMENT :
+17 juin 2005
+COMPARUTIONS :
+Avocat de l'appelante :
+Christian F. Specht
+Avocat de l'intimé :
+Charles M. Camirand
+Pour l'intervenant :
+L'intervenant lui-même
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante :
+Nom :
+Christian F. Specht
+Cabinet :
+Christian F. Specht
+Pour l'intimé :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L.C. 1996, ch. 23.
+[2] L.R.C. 1985, ch. C-8.
+[3] Se reporter auCode civil du Québec, L.Q. 1991, ch. 64, art. 2085 et 2098.
+[4] [2001] 2 R.C.S. 983.
+[5] [1988] 2 C.T.C. 2377 (C.A.F.).
+[6] précité
+[7] [1968] 3 All E.R. 732, pages 737 et 738.
+[8] Lee Ting Sang Chung Chi-Keung,[1990] 2 A.C. 374.

@@ -1,0 +1,140 @@
+Title: Hoare v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27599/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-292-27599-hoare-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-01-11
+
+# Hoare v. The Queen
+
+- Citation: 2007 TCC 292
+- Decision date: 2007-01-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 485, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hoare v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-01-11
+Neutral citation
+2007 TCC 292
+File numbers
+2004-3729(IT)G
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-3729(IT)G
+BETWEEN:
+DAVID HOARE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 11, 2007, at Toronto, Ontario.
+Before: The Honourable Gerald J. Rip, Associate Chief Justice
+Appearances:
+Counsel for the Appellant:
+David W. Chodikoff
+Counsel for the Respondent:
+Donna Dorosh
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2002 taxation year is allowed, with costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that amounts paid to Ms. Heather McGrath during the period September 1, 2002 to December 31, 2002 were medical expenses contemplated by paragraph 118.2(2)(l.91) of the Act.
+Signed at Ottawa, Canada, this 15th day of May 2007.
+"Gerald J. Rip"
+Rip A.C.J.
+Citation: 2007TCC292
+Date: 20070515
+Docket: 2004-3729(IT)G
+BETWEEN:
+DAVID HOARE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Rip, A.C.J.
+[1] David Hoare appeals from an income tax reassessment for 2002 in which the Minister of National Revenue ("Minister") denied the appellant’s claim for a medical expense credit for amounts related to the education of the appellant’s two sons, James and William (aged 13 and 15 in 2002), who suffer from severe learning disabilities. The Minister assessed on the basis that the amounts are not deductible in computing the appellant's non-refundable tax credits pursuant to subsection 118.2(2) of the Income Tax Act ("Act").
+[2] In or about 1996, James and William were diagnosed with severe learning disabilities, including language and motor dyspraxia. In subsequent testing, the boys were further diagnosed with cerebellar developmental delay and dyslexia. Around this same time, the appellant and his family moved to Moncton from England and the boys were enrolled in a local public school for the 1996/1997 school year. Unfortunately the boys did not thrive in this environment.
+[3] For the 1997/1998 school year, the appellant’s spouse tried to "home‑school" the children. This attempt was also unsuccessful.
+[4] Having determined that there was no existing special needs facility within a reasonable proximity to home, the appellant and his spouse then decided to send their sons to a special needs school in England for two years. However, by 2000, they concluded that it was in the best interest of the children that they live at home in Moncton.
+[5] For lack of practical local alternatives, the appellant established a dedicated facility in his home for his sons, referred to as the "School" in the notice of appeal. The School consisted of two dedicated rooms furnished with, among other things, appropriate furniture and equipment, special computers and software. Mr. Hoare also hired a qualified arm’s length teacher, Ms. Heather McGrath.
+[6] Ms. McGrath had responded to the advertisement placed by the Hoares in June 1999 for a "FULL TIME TEACHER". Ms. McGrath holds a Bachelor of Education degree from the University of New Brunswick, where she specialized in elementary education and special education. She also has experience working with children with learning disabilities, behavioural difficulties, autism and other mental challenges.
+[7] The appellant incurred additional expenses related to the assessment of the boys and the remediation program at the Dyslexia, Dyspraxia and Attention Treatment ("DDAT") Centre in Kenilworth, United Kingdom ("Kenilworth Clinic") in 2002.[1]
+[8] In filing his 2002 tax return, the appellant claimed $73,945 as medical expenses related to the special needs schooling of his sons. He says that he is entitled to a medical expense credit under section 118.2 of the Act for amounts paid relating to the engagement of Ms. McGrath for the "School". The appellant argues that the expenses related to the full-time private tutoring of the boys constituted medical expenses as described in paragraph 118.2(2)(l.91) or in the alternative, as described in paragraph 118.2(2)(e) of the Act. He also claims the expenses incurred for his children at the Kenilworth Clinic as medical expenses pursuant to subparagraph 118.2(2)(a).
+[9] In the Minister's view, the expenses were not amounts paid for tutoring services that are supplementary to the primary education of the boys as described in paragraph 118.2(2)(l.91) of the Act. Further, the Minister denied the claim on the basis that the expenses are not eligible medical expenses because the full-time private tutoring of the boys at home is not an amount paid for care, or the care and training at a school or institution or other place as described in paragraph 118.2(2)(e) of the Act. The Minister reassessed the appellant and disallowed $67,601 of expenses.
+[10] The parties have agreed that only the expenses related to the private tutoring salary paid to Ms. McGrath ($52,840), the employer’s contribution to Canada pension plan ("CPP") and employment insurance ("EI") related to Ms. McGrath’s salary ($2,874) and the remediation program at the Kenilworth Clinic ($2,209), for a total of $57,923, are now in issue.[2] In the notice of appeal, the first two expenses are referred to in the appeal as "school-related expenses" and the other as the "clinic-related expenses".
+[11] There are three issues to consider in this appeal:
+(a) Is the appellant entitled to a medical expense credit under paragraph 118.2(2)(l.91) for the private tutoring expenses and employer’s contribution to CPP and EI as related to Ms. McGrath’s salary?
+(b) In the alternative, is the appellant entitled to a medical expense credit under paragraph 118.2(2)(e) of the Act for the private tutoring expenses and employer’s contribution to CPP and EI as related to Ms. McGrath’s salary?
+(c) Is the appellant entitled to a medical expense credit under paragraph 118.2(2)(a) of the Act for the amounts related to the assessment and remediation program at the Kenilworth Clinic?
+[12] During argument appellant’s counsel also attempted to raise an issue regarding the accommodations and travel costs incurred with respect to the Kenilworth Clinic under paragraphs 118.2(2)(g) and (h) of the Act. However, as this submission was not raised until rebuttal I did not allow counsel to proceed.
+Tutoring Services
+[13] Paragraph 118.2(2)(l.91) of the Act permits a medical expense credit for tutoring services as follows:
+For the purposes of subsection (1), a medical expense of an individual is an amount paid
+[…]
+(l.91) [tutoring services] -- as remuneration for tutoring services that are rendered to, and are supplementary to the primary education of, the patient who
+(i) has a learning disability or a mental impairment, and
+(ii) has been certified in writing by a medical practitioner to be a person who, because of that disability or impairment, requires those services,
+if the payment is made to a person ordinarily engaged in the business of providing such services to individuals who are not related to the payee.
+[14] There is no dispute as to whether the appellant paid the amounts. The respondent agrees that the children suffer from a learning disability or mental impairment. Moreover, there does not appear to be any dispute as to whether the amounts were paid to an unrelated person ordinarily engaged in the business of providing such services. Thus the only remaining questions are 1) whether the tutoring services were rendered to and "supplementary to the primary education" of the children and 2) whether the children’s disability has been satisfactorily "certified".
+[15] Mr. Hoare was not successful in finding any assistance in the Moncton area. However, he discovered that the North Island Distance Education School ("NIDES"), part of the British Columbia public school system, offered programs for his children. The appellant investigated what NIDES had to offer and registered the boys with NIDES.
+[16] Appellant’s counsel did not clearly identify the primary and supplementary components of the children’s education but attempted to submit a combination of the following arguments: Ms. McGrath and the home-school were supplementary to the inadequacy of the public school system; the primary education was the NIDES which was the insufficient public school system and then needed to be supplemented by other programs; and finally, Ms. McGrath supervised and assisted with the self-study programs.
+[17] The respondent simply argues that Ms. McGrath provided the children’s primary source of education at the School.
+[18] The respondent’s denial of the medical expense credit focuses on the fact that James and William were not enrolled as full-time students in any educational institution in Canada but were instead home-schooled and only enrolled in certain courses offered by the NIDES. This position focuses on the location of the schooling as the primary consideration. In my view, in interpreting the phrase "supplementary to the primary education", the focus should be on the education provided and the function performed by Ms. McGrath in this particular case.
+[19] Therefore, in order to meet this branch of the statutory test, I must find as a matter of fact that Ms. McGrath did not provide the primary education for the children but, instead facilitated and supplemented the various distance learning and special needs education packages obtained by the Hoares and that she further provided the supervision required by the children’s disabilities. There is no evidence to indicate that the distance learning package required the supervision of a qualified teacher. The appellant's view is that the distance learning program from the NIDES provided the basic curriculum for the months from September to December 2002 inclusive.
+[20] At the home school, lessons ran from 8:30am to 4pm with one hour for lunch and 2 hours of homework each day. While Ms. McGrath decided how much time would be dedicated to each program, taught her own lessons to the children and provide report cards of their progress, it was her testimony that she followed the programs from NIDES and approximately 75 per cent of the time was consumed with the NIDES distance learning program. Once assignments were completed by the boys with the assistance of Ms. McGrath, the assignments were submitted to the teachers at NIDES for evaluation. Moreover, every couple of weeks she would contact NIDES instructors regarding the assignments.
+[21] Other programs such as the DDAT and SMT System were used in conjunction with the NIDES curriculum to improve the children’s motor and reading skills.
+[22] The children’s curriculum at the home school was designed by the appellant’s spouse and approved by the New Brunswick Ministry of Education via the district school board. Based on her experience and training in psychology, the appellant’s spouse chose the NIDES program as it offered a credible, well‑structured independent study program, it delivered distance education and provided for special needs as part of the public school system in British Columbia. The children were enrolled in NIDES' Science, Home Economics and Business courses. Materials were provided by NIDES, assignments were submitted weekly or biweekly to NIDES instructors and a test was to administer with each module. Once or twice a week the children had contact with a NIDES teacher by either email or telephone.
+[23] The NIDES teachers would send lessons to Ms. McGrath for her to teach during the period from September to December 2002. She taught these lessons as well as lessons she developed on her own and from other self study courses or products. The other programs such as the DDAT program and SMT System, which the appellant purchased, were used in conjunction with the NIDES curriculum, and for the most part these programs all appear to be self-study courses. While Ms. McGrath did teach her own lessons to the children, approximately 75 per cent of the time was consumed by the NIDES distance learning. Finally, it is significant to note that once assignments were completed by the boys with the assistance of Ms. McGrath, they were submitted to the teachers at NIDES for evaluation.
+[24] In sum, the evidence indicates that three-quarters of the children’s education was provided by external sources, most specifically NIDES, and should sufficiently support a finding that NIDES was the primary education for the children. Any independent programming offered by Ms. McGrath would therefore have been supplementary to the NIDES courses and could only have constituted a quarter of the children’s education for the fall 2002 school term from September to December.
+[25] Regarding the second requirement, the certification by a medical practitioner in paragraph 118.2(2)(l.91) is rather onerous: it must be in writing; it must be written by a medical practitioner; it must identify the disability and impairment; and it must state that the person requires those services on account of that disability.
+[26] While there is no case law that deals with this particular provision, the certification requirement as related to the medical expense credit under paragraphs 118.2(2)(e) and 118.2(2)(d) of the Act was decided by the Federal Court of Appeal in The Queen v. Title Estate.[3] In Title Estate, the taxpayer lived in a nursing home because he suffered from a heart condition and bad memory, and for that reason often neglected to take his medication. The taxpayer’s estate sought to claim a medical expense credit in relation to his nursing home fees. The Tax Court Judge had allowed the taxpayer’s appeal on the basis of a certificate by an appropriately qualified person that stated:
+This person requires a supervised setting since January 31, 1995 due to medical illness. This person requires a 24 hour companion.
+In reversing that decision, the Court of Appeal held that the note above was insufficient and stated:
+In our view, a certificate under paragraph 118.2(2)(e) must at least specify the mental or physical handicap from which the patient suffers, and the equipment, facilities or personnel that the patient requires in order to obtain the care or training needed to deal with that handicap. The certificates in this case are simply too vague to meet that requirement.
+[27] The Court of Appeal also noted that the certification requirements for the purposes of each paragraph under subsection 118.2(2) of the Act are not identical. The Court determined (at paragraph 5 of its reasons) that the note was also not specific enough for the purposes of paragraph 118.2(2)(d) because it did not state that the patient lacks normal mental capacity. Moreover, unlike paragraph 118.2(2)(l.91), paragraph 118.2(2)(e) does not specify that the certificate need be in writing.
+[28] In the case at bar, the Hoares’ family doctor, Dr. W.G. Chesser provided a signed letter stating that he had diagnosed both children as dyslexic and summarized the various medical, psychological, and speech language assessments performed on the boys. The letter concludes:
+This is a permanent condition and it is recommended that both children receive special needs education provided either at a specialist school for dyslexics or with an individual special needs tutor.
+[29] Despite the respondent’s contention that there was no certification stating that the children required one-on-one private education, the letter written by Dr. Chesser, a qualified medical practitioner, should be sufficient for the purposes of paragraph 118.2(2)(l.91) because it stipulates that the children suffer from a particular disability and recommends (but does not "require") an individual special needs tutor. This provision should be interpreted compassionately and in favour of Mr. Hoare. It is probable that Dr. Chesser wrote the letter without knowledge of the wording of paragraph 118.2(l.91) of the Act, let alone knowledge of the provision itself. In wording the letter, Dr. Chesser's intention was to direct the appellant to a course of action. I believe I can take judicial notice that physicians and other professionals normally recommend a course of action, even when they believe such action is required. On the facts before me I find that Dr. Chesser was informing the appellant and his wife that their sons' conditions required a special needs education.
+Kenilworth Clinic Expenses
+[30] Paragraph 118.2(2)(a) of the Act permits a medical expense credit for medical and dental services as follows:
+(2) For the purposes of subsection (1), a medical expense of an individual is an amount paid
+(a) to a medical practitioner, dentist or nurse or a public or licensed private hospital in respect of medical or dental services provided to a person (in this subsection referred to as the "patient") who is the individual, the individual's spouse or common-law partner or a dependant of the individual (within the meaning assigned by subsection 118(6)) in the taxation year in which the expense was incurred;
+[31] "Medical practitioner" is defined in 118.4(2) of the Act as follows:
+For the purposes of sections 63, 118.2, 118.3 and 118.6, a reference to an audiologist, dentist, medical doctor, medical practitioner, nurse, occupational therapist, optometrist, pharmacist, physiotherapist, psychologist or speech-language pathologist is a reference to a person authorized to practise as such, . . .
+[32] The appellant did not make any submissions in respect of the fees paid to the Kenilworth Clinic. The respondent argues that the expense for the remediation program at the clinic did not meet the requirements of paragraph 118.2(2)(a) because fees were not paid to a "medical practitioner" or other enumerated party as defined in subsection 118.4(2) of the Act. On this issue, the appeal fails.
+[33] The requirements of paragraph 118.2(2)(l.91) have been satisfied. The appeal is allowed. The appellant shall be entitled to costs.
+Signed at Ottawa, Canada, this 15th day of May 2007.
+"Gerald J. Rip"
+Rip A.C.J.
+CITATION: 2007TCC292
+COURT FILE NO.: 2004-3729(IT)G
+STYLE OF CAUSE: DAVID HOARE v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: January 11, 2007
+REASONS FOR JUDGMENT BY: The Honourable Gerald J. Rip, Associate Chief Justice
+DATE OF JUDGMENT: May 15, 2007
+APPEARANCES:
+Counsel for the Appellant:
+David W. Chodikoff
+Counsel for the Respondent:
+Donna Dorosh
+COUNSEL OF RECORD:
+For the Appellant:
+Name: David W. Chodikoff
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The Kenilworth Clinic originated in the United Kingdom and in later years, Mr. Hoare sent his children to the clinic in Boston.
+[2] Expenses also claimed as medical expenses but not in dispute in this appeal: Betacom notebook computer ($2,300), Scanner with maintenance agreement ($1,962) Salary to D. Shaw ($4,210), Employer’s contribution to CPP and EI related to the salary to D. Shaw $271), Accommodation expenses (Kenilworth, UK) ($507), Simultaneous multisensory teaching (“SMT”) training sessions ($428) and other expenses ($6,344).
+[3] 2001 DTC 5236, 2001 FCA 106.

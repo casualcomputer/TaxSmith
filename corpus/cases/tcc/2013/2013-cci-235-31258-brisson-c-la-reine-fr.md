@@ -1,0 +1,212 @@
+---
+title: "Brisson c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31258/index.do"
+last_modified: "2013-07-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 235"
+citation2: ""
+neutral_citation: "2013 CCI 235"
+decision_date: "2013-07-29"
+language: "fr"
+item_id: "31258"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5100
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:10:17.889000+00:00"
+cases_cited_count: 4
+cases_citing_count: 7
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a52cf0008d6239c268dfca204afd104e6ba6356e272dc3ea07ae9c535633bdc2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Brisson c. La Reine
+
+- Citation: 2013 CCI 235
+- Decision date: 2013-07-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5100, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Brisson c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-07-29
+Référence neutre
+2013 CCI 235
+Numéro de dossier
+2012-1161(IT)G
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-1161(IT)G
+ENTRE :
+LUCIE F. BRISSON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de Jacques J. Brisson (2012‑2039(IT)G), le 26 juin 2013, à Ottawa (Ontario).
+Devant : L'honorable juge Valerie Miller
+Comparutions :
+Pour l'appelante :
+L'appelante elle‑même
+Avocats de l'intimée :
+Me Paul Klippenstein
+Me Martin Beaudry
+________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2008 est rejeté.
+Les dépens sont adjugés à l'intimée.
+Signé à Halifax (Nouvelle‑Écosse), ce 29e jour de juillet 2013.
+« V. A. Miller »
+Le juge V. A. Miller
+Traduction certifiée conforme
+ce 30e jour d'octobre 2013.
+Yves Bellefeuille, réviseur
+Dossier : 2012-2039(IT)G
+ENTRE :
+JACQUES J. BRISSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de Lucie F. Brisson (2012‑1161(IT)G), le 26 juin 2013, à Ottawa (Ontario).
+Devant : L'honorable juge Valerie Miller
+Comparutions :
+Pour l'appelant :
+L'appelant lui‑même
+Avocats de l'intimée :
+Me Paul Klippenstein
+Me Martin Beaudry
+________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu à l'égard de l'appelant pour l'année d'imposition 2008 est accueilli, sans dépens, et l'affaire est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte du fait que les pénalités pour faute lourde doivent être réduites à 120 948,70 $.
+Signé à Halifax (Nouvelle‑Écosse), ce 29e jour de juillet 2013.
+« V. A. Miller »
+Le juge V. A. Miller
+Traduction certifiée conforme
+ce 30e jour d'octobre 2013.
+Yves Bellefeuille, réviseur
+Référence : 2013 CCI 235
+Date : 20130729
+Dossier : 2012-1161(IT)G
+ENTRE :
+LUCIE F. BRISSON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2012-2039(IT)G
+ET ENTRE :
+JACQUES J. BRISSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge V. A. Miller
+[1] Les appelants, Jacques et Lucie Brisson, qui sont époux, ont consenti à ce que leurs appels soient entendus sur preuve commune.
+[2] La seule question qui se pose dans chacun des appels est de savoir si c'est à juste titre que le ministre du Revenu national (le « ministre ») a imposé des pénalités pour faute lourde à chacun des appelants pour leur année d'imposition 2008.
+[3] Au début de l'audience, l'avocat de l'intimée a informé la Cour que le montant de la pénalité imposée à M. Brisson devrait être ramené de 127 567,06 $ à 120 948,70 $.
+Les faits
+Monsieur Brisson
+[4] Monsieur Brisson est au service de Minto Communities Inc. (« Minto ») depuis plusieurs années. C'est à titre de directeur adjoint de la production qu'il a commencé à travailler pour Minto; en 2000, il est devenu vice‑président de la construction pour les résidences basses, poste qu'il occupe toujours.
+[5] Dans ses fonctions, M. Brisson supervise 12 employés. Il relève du premier vice‑président de Minto, lequel relève directement des propriétaires de Minto.
+[6] En 2008, M. Brisson a déclaré qu'il avait reçu de Minto un revenu d'emploi de 256 300 $ (feuillet T4).
+[7] Avant 2008, M. Brisson avait toujours préparé lui‑même sa déclaration de revenus et celle de son épouse. Lors de son témoignage, il a indiqué qu'il avait préparé sa propre déclaration de revenus pendant quelque 35 ans et qu'au cours des dix dernières années, il avait eu recours à un logiciel.
+[8] Monsieur Brisson a affirmé qu'à l'hiver 2009, il avait décidé de chercher quelqu'un à qui il pourrait confier la préparation de sa déclaration de revenus. C'est un ami qui lui a recommandé Fiscal Arbitrators. Il n'a pas expliqué son choix et n'a donné aucune précision concernant cet ami. Je lui ai demandé de décrire la nature de sa relation avec cet « ami », mais il n'a pu répondre. Toutefois, j'ai bien remarqué que son attitude a changé sensiblement lorsque je lui ai posé la question.
+[9] Monsieur Brisson a rencontré Philipe Joanisse, du groupe Fiscal Arbitrators. Celui‑ci lui a expliqué que les employés de Fiscal Arbitrators étaient des spécialistes de l'impôt. Il a dit que Larry Watts, employé du bureau de Toronto, était comptable et qu'il avait travaillé pour l'Agence du revenu du Canada (l'« ARC »).
+[10] Toutefois, M. Brisson a reconnu que M. Joanisse ne possédait pas d'agrément en comptabilité, pas plus qu'il n'avait dit être comptable. M. Brisson n'a jamais rencontré Larry Watts et n'a demandé aucun renseignement au sujet de Fiscal Arbitrators.
+[11] Monsieur Brisson affirme que M. Joanisse lui avait demandé d'apporter son feuillet T4 pour 2008 ainsi que ses avis de cotisation pour les années 2005 à 2007. Après examen des documents, Fiscal Arbitrators pourrait décider s'il était opportun de préparer pour lui sa déclaration de revenus de 2008.
+[12] En avril 2009, M. Brisson a de nouveau rencontré M. Joanisse, qui lui a dit que le groupe Fiscal Arbitrators s'occuperait de sa déclaration de revenus de 2008. Il lui a également recommandé de produire de nouvelles déclarations pour les années 2005, 2006 et 2007. Selon les calculs auxquels était arrivé le groupe Fiscal Arbitrators, M. Brisson recevrait un remboursement. M. Brisson a accepté de verser 20 p. 100 des sommes qu'il se verrait rembourser à Fiscal Arbitrators en guise d'honoraires; en outre, il verserait 40 p. 100 des sommes remboursées à Frieslander Financial Inc. en vue de l'achat de lingots d'or et de valeurs mobilières du secteur de l'énergie. Je suppose que Frieslander Financial Inc. est une société contrôlée par Fiscal Arbitrators ou par ses dirigeants.
+[13] Monsieur Brisson a déclaré qu'il avait signé sa déclaration de 2008, mais que le groupe Fiscal Arbitrators s'était chargé de sa mise à la poste. Il a dit ne pas avoir lu sa déclaration. Toutefois, après examen des documents produits par M. Brisson (pièce A‑1, onglet 1, page 3), je suis arrivée à la conclusion qu'il avait lui‑même posté sa déclaration de 2008. Dans une lettre du 16 mai 2009 adressée à M. Brisson, Fiscal Arbitrators disait joindre deux copies de sa déclaration de revenus de 2008. On l'invitait à signer la déclaration en inscrivant [TRADUCTION] « par » devant sa signature et à l'envoyer à l'ARC en y joignant une demande de report rétrospectif de pertes. On lui demandait aussi d'examiner la déclaration [TRADUCTION] « avec minutie avant de la soumettre afin de s'assurer qu'elle était à la fois exacte et complète ». Étaient également joints à la lettre une [TRADUCTION] « liste de contrôle des données fiscales » et un [TRADUCTION] « état des résultats des activités de mandataire ». Des cases de la liste de contrôle étaient cochées et M. Brisson a signé l'état des résultats des activités de mandataire (voir la pièce R‑1, onglet 1.1).
+[14] Cet « état des résultats des activités de mandataire » a été joint à la déclaration de revenus de 2008 produite par M. Brisson. Ce formulaire comprenait un calcul de la perte qu'il avait subie à titre de mandataire et dont il demandait la déduction; cette perte s'élevait à 876 260 $. J'ai examiné le formulaire et j'avais l'intention d'en résumer le contenu, mais l'exercice défie toute logique : M. Brisson prétend être le mandant du mandataire JACQUES BRISSON.
+[15] Dans sa déclaration de 2008, M. Brisson a déclaré la perte subie à titre de mandataire en tant que perte d'entreprise. Les revenus qu'il avait tirés de son emploi, de dividendes et de placements totalisaient 258 822,09 $ et il avait déduit ces revenus de la perte d'entreprise de 876 260,10 $. Il demandait le report rétrospectif d'une perte de 617 438 $, répartie en montants de 206 738 $, de 182 836 $ et de 227 864 $, aux années d'imposition 2005, 2006 et 2007, respectivement.
+[16] Monsieur Brisson peut s'estimer chanceux de n'avoir jamais reçu les remboursements demandés, car il aurait dû remettre 60 p. 100 de ces sommes à Fiscal Arbitrators. L'avis de cotisation établi le 26 mars 2010 relativement à son année d'imposition 2008 l'informait que la perte dont il avait demandé la déduction à titre de mandataire et le report rétrospectif de pertes lui étaient refusés, et qu'une pénalité pour faute lourde lui était imposée en vertu du paragraphe 163(2) de la Loi de l'impôt sur le revenu.
+Madame Brisson
+[17] Madame Brisson travaille comme infirmière autorisée depuis 1977. Elle a obtenu son diplôme du Collège Algonquin en 1977; quelque temps plus tard, elle a obtenu un diplôme de l'Université d'Ottawa.
+[18] Elle a déclaré que son mari et elle avaient été dirigés vers Fiscal Arbitrators par un ami. En réponse à la question que je lui ai adressée, elle a indiqué que l'ami en question n'avait pas recours aux services de Fiscal Arbitrators pour préparer sa propre déclaration de revenus.
+[19] Madame Brisson n'avait jamais entendu parler de Fiscal Arbitrators : elle ne savait pas s'ils détenaient un titre professionnel et ne leur a pas demandé si c'était le cas. D'après ce qui est écrit dans son avis d'appel, elle n'a jamais rencontré d'employé de Fiscal Arbitrators. Elle a confié à Fiscal Arbitrators la préparation de sa déclaration de revenus de 2008 et a signé celle‑ci en se fondant sur les renseignements que lui avait fournis son mari.
+[20] Dans sa déclaration de 2008, elle a déclaré un revenu d'emploi de 66 779 $ et une perte d'entreprise de 232 677,40 $. Un [TRADUCTION] « état des résultats des activités de mandataire » était joint à la déclaration pour montrer le calcul de la perte d'entreprise. Mme Brisson a demandé qu'une perte de 165 898,40 $, répartie en montants de 54 630 $, de 56 790 $ et de 57 245 $, soit reportée rétrospectivement aux années d'imposition 2005, 2006 et 2007, respectivement. Au total, elle a reçu des remboursements de 46 147 $ et les pertes dont elle avait demandé la déduction pour les années d'imposition 2005, 2006, 2007 et 2008 réduisaient à zéro l'impôt qu'elle devait payer.
+[21] Pour l'établissement de sa déclaration de revenus de 2008, Mme Brisson a versé à Lawrence Watt des honoraires représentant 20 p. 100 des sommes reçues en remboursement (9 229,63 $). Elle a également remis 18 459,28 $ à Frieslander Financial Inc. pour l'achat de lingots d'or et de valeurs mobilières du secteur de l'énergie.
+[22] Lorsque l'ARC a communiqué avec eux une première fois, en 2009, au sujet de leurs déclarations de revenus de 2008, les appelants ont eu recours à des lettres types fournies par Fiscal Arbitrators pour répondre aux questions qui leur étaient posées. S'il faut en croire son témoignage, ce n'est qu'en 2010, après avoir reçu des explications d'un agent de recouvrement de l'ARC, que M. Brisson a compris que les méthodes de Fiscal Arbitrators étaient frauduleuses. Depuis, sa femme et lui ont produit de nouvelles déclarations de revenus pour 2008 en plus de fournir leur entière collaboration à l'ARC.
+Le droit
+[23] Le paragraphe 163(2) de la Loi de l'impôt sur le revenu (la « LIR ») autorise l'imposition de pénalités pour faute lourde en ces termes :
+163(2) Faux énoncés ou omissions — Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d'imposition pour l'application de la présente loi, ou y participe, y consent ou y acquiesce est passible d'une pénalité égale, sans être inférieure à 100 $, à 50 % du total des montants suivants : [...]
+[24] Selon le paragraphe 163(3) de la LIR, « le ministre a la charge d'établir les faits qui justifient l'imposition de la pénalité ». Par conséquent, l'intimée doit prouver (1) que les appelants ont fait un faux énoncé ou une omission dans leurs déclarations de revenus de 2008, (2) que le faux énoncé ou l'omission a été fait sciemment ou dans des circonstances équivalant à faute lourde.
+[25] La jurisprudence s'intéressant à l'application du paragraphe 163(2) abonde. S'il est vrai que chaque décision est intimement liée aux faits particuliers de l'espèce, les tribunaux ont quand même pu en dégager quelques grands principes.
+[26] Le passage suivant, tiré de la décision Venne c. La Reine, [1984] A.C.F. no 314 (QL) (C.F. 1re inst.), a été cité et mentionné dans de nombreuses décisions de la Cour canadienne de l'impôt et de la Cour d'appel fédérale et demeure, à ce jour, la définition de référence de la faute lourde :
+La « faute lourde » doit être interprétée comme un cas de négligence plus grave qu'un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la loi.
+[27] Par ailleurs, dans l'arrêt Procureur général du Canada c. Villeneuve, 2004 CAF 20, la Cour d'appel fédérale a conclu que l'expression « faute lourde » pouvait englober l'aveuglement volontaire en plus de l'acte intentionnel et de l'intention coupable. Au paragraphe 6 des motifs, le juge Létourneau s'est exprimé en ces termes :
+Avec égards, je crois que la juge a omis de considérer la notion de faute lourde qui peut découler d'un aveuglement volontaire de son auteur. Même l'intention coupable qui, souvent, prend la forme de la connaissance de l'un ou de plusieurs des éléments constitutifs du geste reproché peut s'établir par une preuve d'aveuglement volontaire. En pareil cas, l'auteur du geste, bien qu'il n'ait pas de connaissance actuelle de l'élément reproché, se voit imputer la connaissance de cet élément.
+[28] Depuis l'arrêt Villeneuve, il est bien établi qu'il n'est pas nécessaire de démontrer que le contribuable avait réellement connaissance de la négligence du comptable pour conclure qu'il y a eu faute lourde : Brochu c. La Reine, 2011 CCI 75, au paragraphe 20. De fait, il peut y avoir faute lourde lorsque le contribuable fait aveuglément confiance à la personne qui remplit sa déclaration de revenus, comme l'a relevé le juge Bédard dans un jugement récent, Laplante c. La Reine, 2008 CCI 335 :
+15 De toute façon, je suis d'avis que la négligence de l'appelant (soit le fait de ne pas examiner du tout ses déclarations de revenus avant de les signer) était assez grave pour justifier l'épithète « lourde » qui est quelque peu péjoratif. L'attitude de l'appelant était si cavalière en l'espèce qu'elle traduisait une indifférence totale au respect de la Loi. L'appelant n'a‑t‑il pas admis que, s'il avait examiné ses déclarations de revenus avant de les signer, il aurait nécessairement décelé les nombreux faux énoncés qui y apparaissaient, énoncés qui auraient été faits par [son comptable]? L'appelant ne peut pas se dégager ici de sa responsabilité en pointant du doigt son comptable. En tentant de se soustraire ainsi à toute responsabilité à l'égard de ses déclarations de revenus, l'appelant se trouve à rejeter négligemment du revers de la main les responsabilités, les devoirs ou les obligations que lui impose la Loi. En l'espèce, la Loi imposait au minimum à l'appelant l'obligation de jeter un coup d'oeil sur ses déclarations de revenus avant de les signer, d'autant plus qu'en l'espèce il a admis que cet examen rapide lui aurait permis de déceler les faux énoncés que son comptable avait faits.
+[29] L'ancien juge en chef Bowman a examiné quelques-uns des facteurs qu'il convient de prendre en compte pour décider si l'imposition de pénalités pour faute lourde est justifiée. Dans le jugement DeCosta c. La Reine, 2005 CCI 545, il déclare :
+11 Pour établir la distinction entre la faute « ordinaire » ou la négligence et la faute « lourde », il faut examiner plusieurs facteurs. Un de ces facteurs est bien entendu l'importance de l'omission relative au revenu déclaré. Il y a aussi la faculté du contribuable de découvrir l'erreur, ainsi que le niveau d'instruction du contribuable et son intelligence apparente. Il n'existe aucun facteur qui soit prédominant. Il faut accorder à chacun des facteurs le poids qu'il convient dans le contexte de l'ensemble de la preuve.
+Analyse
+[30] Monsieur Brisson a affirmé qu'il n'y avait ni omission ni faux énoncé dans sa déclaration de 2008. Or, son témoignage est contredit par la preuve. Celle‑ci démontre qu'il a déclaré une perte d'entreprise de 876 260,10 $ alors qu'en contre‑interrogatoire, il a reconnu ne pas avoir d'entreprise et ne pas avoir subi la perte déclarée. C'est précisément ce genre de faux énoncé que le paragraphe 163(2) vise à pénaliser et à décourager.
+[31] La portée du faux énoncé de M. Brisson est énorme. En 2008, M. Brisson a gagné un revenu d'emploi de 256 300,05 $ et des revenus de placement de 2 522,06 $. Après avoir déduit sa prétendue perte d'entreprise, M. Brisson a déclaré une perte autre qu'en capital de 617 437,99 $ dont il a demandé le report rétrospectif aux années d'imposition 2005, 2006 et 2007. Pour 2008, il a demandé un remboursement de 104 548,58 $, et il a demandé d'autres remboursements pour 2005, 2006 et 2007. Si l'ARC s'était fondée sur la déclaration de revenus produite par M. Brisson pour l'établissement des cotisations, celui‑ci n'aurait eu aucun impôt à payer pour 2005, 2006, 2007 et 2008.
+[32] Monsieur Brisson a fait valoir qu'il n'avait aucune formation en comptabilité et qu'il ne comprenait pas la terminologie employée par Fiscal Arbitrators. Au départ, c'est en tant que charpentier qu'il avait été embauché par Minto. Cette dernière ne l'a pas engagé pour ses talents d'administrateur. Tout cela est peut‑être vrai, mais à mon sens, il a forcément dû étendre ses compétences en administration en travaillant pour Minto. Les responsabilités et les obligations de reddition qui lui incombent en tant que vice‑président de cette société sont considérables. Il est responsable de la qualité du travail des personnes qu'il supervise et doit s'assurer qu'elles respectent les codes du bâtiment applicables aux habitations construites. Il rend indirectement des comptes aux propriétaires de Minto. De 2005 à 2008, M. Brisson était lui‑même propriétaire d'immeubles d'habitation locatifs. En 2008, il possédait neuf immeubles locatifs. Il assurait lui‑même la gestion de ces immeubles, négociant les baux avec les locataires et faisant la tenue des livres. Il n'en est pas à ses débuts dans le monde des affaires.
+[33] Monsieur Brisson connaissait le régime fiscal. Il a produit lui‑même ses déclarations de revenus pendant 35 ans. En 2005, en 2006 et en 2007, ses revenus d'emploi ont été de 220 667 $, de 201 886 $ et de 236 986 $. Au cours de ces années, il n'a jamais reçu plus de 9 417,86 $ en remboursement. Lorsque Fiscal Arbitrators lui a appris qu'il avait droit à un remboursement de 104 548,58 $ (soit près de la moitié de son revenu d'emploi), M. Brisson aurait dû demander l'avis d'un autre professionnel. La preuve montre qu'il n'a consulté personne d'autre. Il n'a pas non plus demandé conseil à l'ARC.
+[34] Monsieur Brisson prétend que Fiscal Arbitrators lui avait dit avoir calculé son remboursement au moyen d'une méthode semblable à celle des REÉR. Il recevrait un remboursement et devrait remettre 40 p. 100 de la somme pour l'achat de lingots d'or et de valeurs mobilières du secteur de l'énergie. L'achat lui permettrait d'obtenir une déduction comme dans le cas d'un REÉR. Or, M. Brisson connaissait le programme de REÉR, car il avait déduit des sommes au titre d'un REÉR en 2006 et en 2007. Il savait donc qu'il fallait d'abord verser des sommes dans un REÉR avant de les déduire de son revenu.
+[35] Étant donné que M. Brisson avait une expérience du monde des affaires et qu'il avait produit lui‑même ses déclarations de revenus pendant 35 ans, et vu l'importance des faux énoncés faits dans sa déclaration de 2008, j'ai conclu qu'il était conscient de la fausseté des sommes inscrites dans sa déclaration et j'estime que les pénalités qui lui ont été imposées pour faute lourde l'ont été à juste titre.
+[36] Monsieur Brisson a dit ne pas avoir lu sa déclaration de 2008 avant de la signer, mais d'après les pièces qu'il a lui‑même produites, on lui avait demandé de bien l'examiner, et j'ai conclu qu'il l'a fait. Si M. Brisson ignorait réellement tout du fait qu'il était engagé dans une escroquerie envers le fisc, c'est qu'il s'est maintenu dans un état d'aveuglement volontaire. Il était disposé à signer sa déclaration de revenus et à prendre part à la supercherie en échange d'un remboursement de tout l'impôt qu'il avait payé pour les années 2005 à 2008.
+[37] Madame Brisson est instruite. Elle a admis qu'elle n'avait pas d'entreprise et que la perte d'entreprise qu'elle avait inscrite dans sa déclaration de 2008 était fictive. Elle ne comprenait rien aux calculs de Fiscal Arbitrators et n'a pas demandé à qui que ce soit de les lui expliquer. Elle a tenu pour acquis que Fiscal Arbitrators employait des professionnels, mais elle ne les avait pas rencontrés et n'avait pas cherché à se renseigner. Elle dit s'en être remise à son mari. Toutefois, à mon sens, Mme Brisson avait l'obligation de vérifier l'exactitude de sa propre déclaration de revenus avant de la signer et de la mettre à la poste. Au moment de signer sa déclaration de revenus, Mme Brisson savait qu'elle n'avait pas subi de perte d'entreprise. Elle n'avait pas même d'entreprise. Néanmoins, elle a apposé sa signature sur la déclaration, attestant de ce fait que les renseignements qui y figuraient étaient exacts, complets et révélaient la totalité de ses revenus.
+[38] Madame Brisson étant une personne instruite, j'en conclus, vu la portée du faux énoncé contenu dans sa déclaration de 2008, qu'elle a fait ce faux énoncé sciemment et que c'est à juste titre qu'elle s'est elle aussi vu imposer des pénalités pour faute lourde.
+[39] L'appel de M. Brisson est accueilli et l'affaire est déférée au ministre pour nouvel examen et nouvelle cotisation en tenant compte du fait que les pénalités pour faute lourde doivent être réduites à 120 948,70 $.
+[40] L'appel de Mme Brisson est rejeté.
+[41] Un seul mémoire de frais est adjugé à l'intimée.
+Signé à Halifax (Nouvelle‑Écosse), ce 29e jour de juillet 2013.
+« V. A. Miller »
+Le juge V. A. Miller
+Traduction certifiée conforme
+ce 30e jour d'octobre 2013.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2013 CCI 235
+Nos DES DOSSIERS DE LA COUR : 2012-1161(IT)G
+2012-2039(IT)G
+INTITULÉS : Lucie F. Brisson c. Sa Majesté la Reine
+Jacques J. Brisson c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Ottawa (Ontario)
+DATE DE L'AUDIENCE : Le 26 juin 2013
+MOTIFS DU JUGEMENT : L'honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 29 juillet 2013
+COMPARUTIONS :
+Pour les appelants :
+Les appelants eux-mêmes
+Avocats de l'intimée :
+Me Paul Klippenstein
+Me Martin Beaudry
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom : s.o.
+Cabinet :
+Pour l'intimée : William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada

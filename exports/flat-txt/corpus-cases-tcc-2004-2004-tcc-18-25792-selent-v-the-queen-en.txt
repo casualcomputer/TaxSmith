@@ -1,0 +1,122 @@
+Title: Selent v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25792/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-18-25792-selent-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-01-08
+
+# Selent v. The Queen
+
+- Citation: 2004 TCC 18
+- Decision date: 2004-01-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3802, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Selent v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-01-08
+Neutral citation
+2004 TCC 18
+File numbers
+2003-2614(IT)I
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-2614(IT)I
+BETWEEN:
+DAVID H. SELENT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 28, 2003 at Nanaimo, British Columbia
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Shawna Cruz
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2001 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Saskatoon, Saskatchewan this 8th day of January, 2004.
+"D.W. Beaubier"
+Beaubier, J.
+Citation: 2004TCC18
+Date: 20040108
+Docket: 2003-2614(IT)I
+BETWEEN:
+DAVID H. SELENT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+REASONS FOR JUDGMENT
+Beaubier, J.
+[1] This appeal pursuant to the Informal Procedure was heard at Nanaimo, British Columbia on November 28, 2003. The Appellant was the only witness.
+[2] Paragraphs 3 to 9 inclusive of the Reply to the Notice of Appeal outline the disputes. They read:
+3. In computing taxes payable for the taxation year, the Appellant claimed medical expenses of $13,845.03.
+4. The Minister of National Revenue (the "Minister") initially assessed the Appellant for the 2001 taxation year on May 2, 2002 as filed by the Appellant.
+5. The Minister reassessed the Appellant on February 21, 2003 and reduced the medical expenses to $8,000.35, thereby disallowing 5,844.68 (the "Amount").
+6. In response to a Notice of Objection filed by the Appellant, the Minister confirmed the assessment for the 2001 taxation year.
+7. In so confirming for the 2001 taxation year, the Minister relied on the following assumptions of fact:
+a) the Appellant claimed medical expenses of $13,845.03 in 2001, the deductible portion of which was $12,167.03;
+b) the Amount was disallowed in the 2001 taxation year;
+c) the Amount consisted of expenses incurred in 2001 in respect of vitamins, herbal remedies, supplements, etc;
+d) the Amount was not paid in respect of drugs, medicaments or other preparations or substances manufactured, sold or represented for use in the diagnosis, treatment or prevention of a disease, disorder, abnormal physical state, or the symptoms thereof or in restoring, correcting or modifying an organic function, purchased for use by the Appellant as prescribed by a medical practitioner or dentist and as recorded by a pharmacist; and
+e) the Amount was not paid in respect of medical expenses as described in subsection 118.2(2) of the Income Tax Act ( the "Act").
+B. ISSUE TO BE DECIDED
+8. The issue is whether the Appellant is entitled to deduct the Amount as medical expenses in the 2001 taxation year.
+C. STATUTORY PROVISIONS RELIED ON
+9. He relies on section 118.2 of the Act and on section 5700 of the Regulations, as amended for the 2001 taxation year.
+[3] Assumptions 7 a), b) and c) were not refuted by the evidence.
+[4] Assumption 7 e) is dependent upon the validity of assumption 7 d) which the Appellant disputed.
+[5] Paragraph 118.2(2)(n) of the Income Tax Act (the "Act") allows a claim:
+118.2(2)
+...
+(n) for drugs, medicaments or other preparations or substances (other than those described in paragraph (k)) manufactured, sold or represented for use in the diagnosis, treatment or prevention of a disease, disorder, abnormal physical state, or the symptoms thereof or in restoring, correcting or modifying an organic function, purchased for use by the patient as prescribed by a medical practitioner or dentist and as recorded by a pharmacist;
+[6] In particular, the Appellant submitted Exhibit A-4, a letter dated July 11, 2003 (approximately 18 months after the year in question) by Erika Gregory, a qualified, licensed pharmacist which "recorded" the items described in assumption 7 d) which the Appellant purchased from his naturopathic physician, Dr. Ingrid Pincott. At the end of this letter, Ms. Gregory specifically wrote:
+"Disclaimer: I did not prepare, dispense or supply any of the items listed above. None of these items was supplied from a licensed pharmacy. I was not involved at all in the treatment of this individual." (Namely, the Appellant).
+[7] The Appellant argued that Exhibit A-4 constituted a record and met the provisions of paragraph 118.2(2)(n). However the Court does not accept this argument. The use of the word "recorded" in paragraph (n) is in the past tense and is used conjunctively in the paragraph. The meaning is, therefore, that together, at the appropriate times the items must be prescribed by a medical practitioner and conjunctively recorded by a pharmacist as part of the prescription process ending in the taxation year in question.
+[8] That did not happen in this case. The Appellant purchased the items from his naturopathic physician.
+[9] For this reason, the appeal is dismissed.
+Signed at Saskatoon, Saskatchewan, this 8th day of January, 2004.
+"D.W. Beaubier"
+Beaubier, J.
+CITATION:
+2004TCC18
+COURT FILE NO.:
+2003-2614(IT)I
+STYLE OF CAUSE:
+David Selent v. The Queen
+PLACE OF HEARING:
+Nanaimo, British Columbia
+DATE OF HEARING:
+November 28, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Beaubier
+DATE OF JUDGMENT:
+January 8, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Shawna Cruz
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,508 @@
+---
+title: "Resolving your dispute: Objection rights under the Income Tax Act"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p148/p148-resolving-your-dispute-objection-appeal-rights-under-income-tax-act.html
+last_modified: 2025-05-22
+---
+# Resolving your dispute: Objection rights under the Income Tax Act
+
+P148(E) Rev. 25
+
+Our publications and personalized correspondence are available in braille, large print, e-text, or MP3 for those who have a visual impairment. For more information, go to **[canada.ca/cra-multiple-formats](https://www.canada.ca/en/revenue-agency/services/forms-publications/help-forms-publications/about-multiple-formats.html)** or call **1-800-959-5525**.
+
+This guide uses plain language to explain the most common tax situations. It does not replace the law.
+
+La version française de ce guide est intitulée Vos droits d’opposition et d’appel selon la Loi de l’impôt sur le revenu.
+
+## Table of contents
+
+- [Is this publication for you?](#_Toc312911594)
+
+- [Appeals Branch mandate](#_Toc312911595)
+
+- [Before filing an objection](#_Toc312911596)
+
+- [Filing an objection](#_Toc312911597)
+
+    - [Why do you file?](#_Toc312911598)
+
+    - [Limitations on your right to object](#_Toc312911599)
+
+    - [Situations where you cannot file an objection](#_Toc312911600)
+
+    - [Objections that may be invalid](#_Toc312911601)
+
+    - [When can you file?](#_Toc312911602)
+
+          - [Individuals](#_Toc312911603)
+
+          - [Corporations](#_Toc312911604)
+
+          - [Time limit for requesting an extension](#_Toc312911605)
+
+          - [Conditions for an extension](#_Toc312911606)
+
+    - [How do you file?](#_Toc312911607)
+
+          - [What information should you include with your objection?](#toc15)
+
+- [Once you have filed your objection](#_Toc312911608)
+
+    - [Reviewing your objection](#_Toc312911609)
+
+          - [Documents that you have the right to request](#_Toc312911610)
+
+          - [Documents that you cannot request](#_Toc312911611)
+
+          - [Making the decision](#_Toc312911612)
+
+- [Appealing to the courts](#_Toc312911613)
+
+- [Appealing to the Tax Court of Canada](#_Toc312911614)
+
+    - [Time limit](#_Toc312911615)
+
+- [Appealing to the Federal Court of Appeal](#_Toc312911616)
+
+- [Appealing to the Supreme Court of Canada](#_Toc312911617)
+
+- [Disputed amounts](#_Toc312911618)
+
+    - [Collection procedures](#_Toc312911616)
+
+    - [Refund of amounts in dispute](#toc28)
+
+    - [Payment to the CRA](#toc29)
+
+          - [If you cannot pay your tax debt](#toc30)
+
+- [Do you need more information?](#_Toc312911618)
+
+    - [Forms & publications](#toc32)
+
+    - [TTY users](#_Toc312911620)
+
+- [Appendix A – Sample objection letter](#_Toc312911626)
+
+- [Appendix B – Contact information for Appeals](#_Toc312911627)
+
+## Is this publication for you?
+
+You are entitled to fair treatment in all your dealings with the CRA. One of the most important features of this fair treatment is the right to a formal review of your income tax assessment or determination. Our declaration called Taxpayer Bill of Rights affirms this right.
+
+In this publication, we outline what you can do if you object to your income tax assessment or determination and would like to formally dispute it. If you do not understand your assessment, see the section “Before filing an objection for more information”.
+
+This publication deals only with objections under the Income Tax Act (ITA) and provides information on how to appeal a CRA decision on such an objection. For information on other objections and appeals, see the section “Appealing to the courts”.
+
+You can also request copies of these documents by calling us at **1-800-959-8281**.
+
+This publication is only a guide. For more detailed and technical information, see the Income Tax Act, the Tax Court of Canada Act, and the Federal Courts Act.
+
+For more information about resolving disputes, go to canada.ca/cra-objections-appeals.
+
+In this publication, any reference to assessments also includes reassessments, and any reference to determinations also includes redeterminations. In addition, rights of objection and appeal that apply to assessments and reassessments also apply to determinations and redeterminations, such as:
+
+- Canada Child Benefit
+
+- GST/HST credit
+
+- Disability tax credit
+
+- loss determinations
+
+## Appeals Branch mandate
+
+The Appeals Branch mandate is to deliver high quality, timely, and impartial recourse services.
+
+Our skilled workforce will conduct a fair, complete, and impartial review, and actively engage in dialogue with taxpayers.
+
+In cases where litigation becomes necessary, we will collaborate with the Department of Justice in the conduct of court cases.
+
+A responsive redress process promotes voluntary compliance and fosters trust in the integrity of the CRA.
+
+## Before filing an objection
+
+Many misunderstandings arise from miscommunication or a lack of information. That's why we say: Talk to us. Before you send an objection or appeal a CRA decision, call the number listed on your notice of assessment or go to [canada.ca/cra-contact](https://www.canada.ca/en/revenue-agency/corporate/contact-information.html) to contact us for an explanation of your notice.
+
+If you disagree with your assessment, we strongly recommend that you first call or write to us to discuss the matter. Many disputes are resolved this way.
+
+If you want to correct errors or give the CRA information you didn't previously report, go to:
+
+- [T1 personal income tax return](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/change-your-return.html)
+
+- [T2 corporate tax returns](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/corporations.html), and select “After you file your corporation income tax return,” and see ”Reassessments – Adjusting your T2 return”
+
+- T3 Trust return: to make changes to a trust return you must complete Form T3-ADJ, T3 Adjustment Request and send it to us
+
+You should be aware that there are time limits to when you can file an objection. For more information, see the section “When can you file?”.
+
+If you want to provide service feedback by submitting a service compliment, suggestion, or complaint, go to [Service Complaints](https://www.canada.ca/en/revenue-agency/services/make-a-service-complaint.html).
+
+## Filing an objection
+
+### Why do you file?
+
+If you think we have misinterpreted the facts or applied the law incorrectly, you have the right to object to:
+
+- income tax assessments, reassessments and determinations indicating taxes or amounts owed
+
+- determinations or redeterminations such as the goods and services tax / harmonized sales tax (GST/HST) credit, the Canada Child Benefit (CCB), the disability tax credit (DTC), registered charities, and loss determinations
+
+Filing an objection is the first step in the **formal**process of resolving a dispute. After you file an objection, the CRA will impartially review it.
+
+### Limitations on your right to object
+
+In most cases, you can object to any item in an assessment or determination. However, in a few situations, you can only object to the matter that caused the assessment or determination. The CRA will tell you if limitations apply.
+
+### Situations where you cannot file an objection
+
+The following list outlines items that cannot be objected to. In addition, objections that are not considered part of the assessment of tax, penalty and interest cannot be accepted.
+
+- Registered Retirement Savings Plan (RRSP) and/or Tax-Free Savings Account (TFSA) room statement
+
+- Carryforward balances
+
+- T2 accounts – statute barred refund
+
+- Other accounts – statute barred refund
+
+- Home Buyers Plan (HBP) balances
+
+- Refund Interest
+
+- Tax Deducted at source
+
+- CPP/EI refunds
+
+- Old Age Security (OAS) recovery tax
+
+- Refundable Quebec abatement
+
+- Set-offs (internal or external)
+
+- Reassessments processed under the Taxpayer Relief provisions
+
+- Statements of Account
+
+### Objections that may be invalid
+
+Objections that have the following issues **may** be considered invalid:
+
+- nil assessment
+
+- accounting issues (this does not include objections to assessed penalties and interest)
+
+- pension adjustments (PA)
+
+    - the CRA uses NORA (Notice of Reassessment) forms to advise taxpayers of a PA
+
+    - the communication of a revised PA amount via a NORA does not constitute a reassessment
+
+    - a PA amount cannot be objected to as it is not an amount assessed or determined under the ITA
+
+- late filed objections (filed beyond the time limit for filing an objection)
+
+- early filed objections (filed prior to the issuance of the Notice of assessment or determination)
+
+These lists are not exhaustive.
+
+If you received a reassessment after filing an objection, this will cancel your original objection. However, you can file an objection to the new reassessment. The Appeals Branch will inform you of your rights if this happens to you
+
+The income tax objections decision tree is a tool to help you identify issues that may impact your objection.
+
+Go to [File an objection](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/complaints-disputes/file-objection-cppei-appeal-minister.html), then choose between [File an Income Tax Objection](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/complaints-disputes/file-objection-cppei-appeal-minister/income-tax-decision-tree.html) or [File a GST/HST objection](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/complaints-disputes/file-objection-cppei-appeal-minister/gst-hst-decision-tree.html) to access the decision tree that applies to your situation.
+
+### When can you file?
+
+You should file your objection as soon as possible; however, for more information, see the specific sections below for Individuals and Corporations.
+
+### Individuals
+
+If you are an individual (other than a trust) or a graduated rate estate, the time limit for filing an objection is the latest of the following two dates:
+
+- one year after the tax filing deadline for the return
+
+- 90 days from the date of your notice of assessment or determination (excluding loss determinations)
+
+In every other case, including loss determinations, or an assessment of taxes in respect of over-contributions to a registered retirement savings plan (RRSP) or tax free savings account (TFSA), you have to file an objection **within 90 days** from the date of your notice of assessment or determination.
+
+### Corporations
+
+- The time limit for corporations to file an objection is 90 days from the date of the notice of assessment or determination
+
+### Time limit for requesting an extension
+
+- If you did not file your objection on time because you tried to resolve your issue with the CRA office responsible for issuing your assessment or determination, or because of circumstances beyond your control, you can apply for a time extension. You can do this at the same time you file your notice of objection.
+
+- You can apply for an extension by using the [My Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals.html) or [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html) online services, or by writing to the Chief of Appeals at the Appeals Intake Centre listed in [Appendix B](#_Toc312911627). You have to provide the facts and reasons why you did not file your objection on time, and enclose your objection.
+
+#### Conditions for an extension
+
+To get an extension, you have to show the following:
+
+Apply as soon as possible, but no later than one year after the date you had to file the objection.
+
+- within the objection period:
+
+    - you could not object or have someone else object for you; or
+
+    - you intended to object
+
+- it would be fair to grant your application
+
+- you applied as soon as you could
+
+The Chief of Appeals or another authorized officer can grant or refuse an extension. We will notify you in writing of the decision.
+
+If we grant you an extension, your objection is considered to be filed on the day we send you the extension decision notice.
+
+#### What you can do if your extension request is refused or delayed
+
+If we refuse your application for extension, you can apply to the Tax Court of Canada for further consideration. The Court has to receive your application within 90 days of the day we sent you our refusal notice.
+
+You can also apply to the Court if we do not give you a decision within 90 days of the day you filed your application for extension.
+
+To apply, you must provide three copies of each of the following documents:
+
+- the application you sent to the Chief of Appeals
+
+- your objection
+
+- our refusal decision notice (if we have issued one)
+
+Send these copies by using the Tax Court of Canada's Online Filing System, accessible through its website, by fax, or by mail to the Registry of a Tax Court of Canada office. For more information, see the section “Appealing to the Tax Court of Canada”.
+
+### How do you file?
+
+While your objection will be considered filed if submitted using any of the following options, submitting your objection through one of the Canada Revenue Agency’s secure portals will ensure it is received and assigned to an appeals officer sooner:
+
+- **CRA secure portals**To file an objection online, log into [My Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals.html) for individuals, or [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html) for your corporation and payroll accounts, and select “Register my formal dispute” (notice of objection). When you register online, you will automatically receive a case number that you need to include when submitting documents. To submit supporting documents online, go to [Submit Documents Online](https://www.canada.ca/en/revenue-agency/services/e-services/submit-documents-online.html). You can also have your authorized representative file an objection on your behalf. Representatives can log in to [Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/represent-a-client/about-represent-a-client.html) and select “Register my formal dispute” (notice of objection). Your objection will be sent directly to the CRA for validation and review.
+
+- **By mail or fax**To file an objection by mail or fax, print and complete [Form T400A, Objection – Income Tax Act](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t400a.html), and mail or fax it to the Chief of Appeals at your Appeals Intake Centre ([see Appendix B](#_Toc312911627)). To get a Form T400A, go to [Forms and Publications](https://www.canada.ca/en/revenue-agency/services/forms-publications.html) or call 1-800-959-8281. You can also mail or fax a signed letter clearly outlining the facts and reasons for your objection. For an example of an income tax objection letter, see [Appendix A](#_Toc312911626).
+
+#### What information should you include with your objection?
+
+Include the following information when you file an objection:
+
+- your name and complete mailing address
+
+- a telephone number where we can reach you during the day
+
+- the date of your notice of assessment
+
+- the tax year of the assessment
+
+- your social insurance number, business number, trust account number or other account number (sub-ledger, etc.)
+
+- the relevant facts and reasons for your objection
+
+- copies of all documents that support your objection
+
+- the name and address of your authorized representative (if applicable)
+
+In order for the CRA to make a decision, large corporations must:
+
+- describe each issue
+
+- specify the amount of relief sought for each issue
+
+- provide the facts and reasons they have relied on
+
+The objection must be signed and dated. An authorized officer must sign for a corporation or trust.
+
+If you are objecting to more than one assessment, you must file a separate notice of objection for each disputed assessment. If the facts and reasons for the objections are identical for more than one assessment, this may be indicated on each notice of objection, and one statement of facts may be submitted. However, if you are submitting an objection online, you can submit more than one at a time.
+
+If you are filing a paper form, make sure to include a copy of your notice(s) of assessment or determination as it will help us process your objection.
+
+Your objection will take longer to resolve if the CRA has to ask you for missing information. Make sure you send us all relevant information as early in the process as possible so that we can process your objection in an efficient manner.
+
+If you did not provide information during an audit or in response to a request from the CRA and are instead providing it as part of your objection, your information may be sent back to the area responsible for issuing your assessment or determination for a second review.
+
+## Once you have filed your objection
+
+Once we receive your objection, we will provide you with a case number. Ensure you include this case number in all future correspondence related to this objection.
+
+If your objection is not considered valid, the CRA will send you a letter with an explanation of why your objection cannot be accepted.
+
+### Reviewing your objection
+
+We will review your objection and, if necessary, contact you or your representative to discuss the matter. To ensure that you or your representative understand the reasons for the assessment and to provide an open exchange of information, we can send you any of the documents listed below that are related to the issue(s) in dispute. In addition, we inform you of any discussions we have had with representatives from the assessing area about your disputed assessment.
+
+### Documents that you have the right to request
+
+The following list indicates the type of information that is generally available to you. This list is not exhaustive, as information in each file may vary.
+
+- Copies of your tax returns
+
+- Reports prepared by an auditor to support your assessment
+
+- Working papers prepared by an auditor that are relevant to the issues in your dispute
+
+- Records of discussions between an appeals officer and an auditor regarding your assessment
+
+- Copies of court decisions and relevant sections of legislation relied on by an auditor to support your assessment
+
+- Valuations relied on by an auditor to determine your assessment
+
+- Information obtained from a third party with whom you are doing business, such as sales invoices, purchase orders, cancelled cheques
+
+### Documents that you cannot request
+
+Your right to have information held in confidence is one of the underlying principles of the Canadian tax system. We strictly guard that right.
+
+To protect sensitive information regarding other individuals and businesses and to maintain the integrity of the tax system, the following information must remain confidential and cannot be provided to you:
+
+- personal information relating to another person
+
+- information from a third party obtained on the expectation that the information would remain confidential
+
+- information subject to solicitor/client privilege, such as legal opinions and referrals for legal opinions, including the submissions made in support of the referral
+
+- confidential information obtained from other federal departments, provincial or municipal governments, and treaty partners
+
+- our audit techniques, limits, tolerances, and specific tests, the disclosure of which would prejudice the results or future use
+
+- independent review reports on appraisals or valuations
+
+- referrals to and responses from other CRA branches
+
+- documentation related to ongoing or planned investigations
+
+- any other reports or documents prepared by the CRA prior to the disposition of a notice of objection before the objection has been resolved
+
+- any other document that could prejudice the CRA's position
+
+- computer access codes
+
+### Making the decision
+
+After considering all the facts, the CRA will make the final decision about your assessment. If we agree with you in whole or in part, we will adjust your tax return and send you a notice of reassessment or redetermination. However, if we disagree, we will send you a notice to confirm the assessment or determination was correct.
+
+## Appealing to the courts
+
+This section contains information on how to appeal to the various courts in Canada.
+
+For information on other objections and appeals, go to:
+
+- [File an objection](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/complaints-disputes/file-objection-cppei-appeal-minister.html) and see “Types of objections”
+
+- [31-0 GST/HST Memorandum 31, Objections and Appeals](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/31-0.html)
+
+- [P133 Your appeal rights - Canada Pension Plan and Employment Insurance Coverage](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p133.html)
+
+- [RC4443-3 Appealing GST/HST Assessments to the Tax Court of Canada](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4443-3.html)
+
+## Appealing to the Tax Court of Canada
+
+If you do not agree with our decision on your objection, you can appeal to the Tax Court of Canada.
+
+The Tax Court of Canada is an independent court of law that regularly conducts hearings in major centres across Canada.
+
+### Time limit
+
+The Tax Court of Canada has to receive your notice of appeal within 90 days of the date we send our decision (a notice of reassessment or a notice of confirmation) on your objection.
+
+You can also appeal to the Court if we do not give you a decision on your objection within 90 days of the day you filed it.
+
+For more information on appealing to the Tax Court of Canada, see [canada.ca/cra-publication-rc4443-2](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4443-2.html), or go to, [canada.ca/cra-appeals-court](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/complaints-disputes/file-appeal-in-court.html).
+
+## Appealing to the Federal Court of Appeal
+
+You can appeal a judgment of the Tax Court of Canada to the Federal Court of Appeal. You have to file the appeal within 30 days of the final judgment from the Tax Court. The months of July and August are excluded from the 30-day calculation.
+
+The Federal Courts Act restricts the grounds for an appeal from a judgment heard under the Informal Procedure by the Tax Court.
+
+For more information, visit **canada.ca/federal-court**.
+
+## Appealing to the Supreme Court of Canada
+
+You can appeal a judgment of the Federal Court of Appeal to the Supreme Court of Canada. However, you first have to request the Supreme Court's permission. To request the Court's permission, you have to file an application for leave to appeal within 60 days of the date of the Federal Court of Appeal's judgment. The month of July is excluded from the 60 day calculation.
+
+For more information, visit [Supreme Court of Canada](https://www.scc-csc.ca/).
+
+## Disputed amounts
+
+### Collection procedures
+
+If you file an objection, we normally postpone collection action on amounts in dispute until 90 days after we send our decision to you.
+
+For some situations we will not postpone collection action on disputed amounts, such as for taxes you had to withhold and remit, and in other circumstances that are specified in legislation, such as when an amount is in jeopardy. If your assessment is in respect of an amount claimed as a charitable donation tax credit or deduction in relation to a tax shelter, we will postpone collection action on 50% of the amount in dispute.
+
+Once the CRA makes a decision on your objection, you must pay any remaining amounts you owe, including taxes, penalties, and interest. If you are a large corporation, you have to pay 50% of the disputed amount when you file your notice of objection. Once the CRA makes a decision on your objection, you must pay any remaining amounts you owe, including taxes, penalties, and interest.
+
+In most cases, interest charges still apply to an amount owing while it is in dispute. Making full or partial payment of the total amount owing will contribute to reducing the amount of interest charged.
+
+If you file an appeal to the Tax Court of Canada, we normally postpone collection action on amounts in dispute until the Court mails its decision or you withdraw your appeal.
+
+If you lose your appeal to the Tax Court of Canada, we will resume collection action even if you appeal the Court’s decision. However, we will accept security for payment while your appeal is outstanding.
+
+For more information, go to [View and download publications](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications.html) and see IC98-1R8, Tax Collections policies.
+
+### Refund of amounts in dispute
+
+If you filed an objection, you can ask the CRA to refund the amount in dispute if:
+
+- you already paid your amounts owing
+
+- you have not received a decision on your objection within 120 days
+
+Refunds for objections related to charitable donation tax credits or large corporations are limited to 50% of the amount in dispute. A request for a refund can be:
+
+- included with your objection, or
+
+- made in writing by you or your representative
+
+If you are sending your request separately from your objection, be sure to include the case number that was assigned to you and send it to the Chief of Appeals at the address listed in [Appendix B](#_Toc312911627).
+
+### Payments to the CRA
+
+To make a payment to the CRA for personal income taxes, business taxes, or some government programs, go to [Payments to the CRA](https://www.canada.ca/en/revenue-agency/services/payments/payments-cra.html).
+
+#### If you cannot pay your tax debt
+
+If you cannot pay the full amount you owe, you may be able to make a payment arrangement. If you owe money, it’s up to you to contact the CRA to resolve your situation and avoid paying more interest on what you owe. For more information, go to [canada.ca/cra-collections](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/when-you-money-collections-cra.html).
+
+In some circumstances, you may ask for relief from penalties and interest, and reduce the amount you owe. For more information, go to [Cancel or waive penalties or interest](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/complaints-disputes/cancel-waive-penalties-interest.html).
+
+## Do you need more information?
+
+If you have filed an objection and would like more information on its status, contact the Appeals Intake Centre listed in [Appendix B](#_Toc312911627).
+
+For information on income tax objections processing times, go to [Processing times and complexity levels](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/complaints-disputes/complexity-level-processing-time.html).
+
+### Forms and publications
+
+To get any forms or publications, go to canada.ca/cra-forms-publications or call **1-800-959-8281**.
+
+### Teletypewriter (TTY) users
+
+TTY users can call **1-800-665-0354** for bilingual assistance during regular business hours.
+
+## Appendix A – Objection letter
+
+Dear Sir or Madam:
+
+I object to the reassessment of my 2020 income tax return. Please find enclosed a copy of my June 15, 2021, notice of reassessment.
+
+In July 2020, I moved from Vancouver to Edmundston, N.B. to start a new job. I claimed the moving expenses on my 2020 return and attached Form T1-M, Moving Expenses Deduction.
+
+As my T1-M form indicates, I drove to Edmundston with my family. In my claim for transportation costs, I included the following costs of a side trip to Banff:
+
+The Canada Revenue Agency disallowed this part of my claim.
+
+Originally, I intended to take a day trip from Calgary to Banff. However, my car overheated on the way, and I had to stay overnight for radiator repairs. Since I could not control this situation, I think you should allow this cost as a moving expense. At the very least, you should let me claim the $443.75 car repair.
+
+I would be pleased to discuss this matter with you.
+
+Enclosure
+
+## Appendix B – Contact information for Appeals Intake Centre
+
+### By Mail:
+
+Chief of Appeals Appeals Intake Centre 1050 Notre Dame Avenue Sudbury ON P3A 5C1
+
+### Fax:
+
+- Eastern Appeals Intake Centre (NL to ON):Local: 705-670-6649 Toll-free: 1-866-443-4955
+
+- Western Appeals Intake Centre (MB to BC, and Territories):Local: 604-587-2672 Toll-free: 1-866-489-6832

@@ -1,0 +1,138 @@
+Title: Sinclair c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29939/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-418-29939-sinclair-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-08-13
+
+# Sinclair c. La Reine
+
+- Citation: 2010 CCI 418
+- Decision date: 2010-08-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6485, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sinclair c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-08-13
+Référence neutre
+2010 CCI 418
+Numéro de dossier
+2010-34(IT)I
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-34(IT)I
+ENTRE :
+BRIAN G. SINCLAIR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 8 juillet 2010 à Toronto (Ontario).
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Représentant de l’appelant :
+M. Greg M. Leclair
+Avocate de l’intimée :
+Me Diana Aird
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2004, 2005 et 2006 est rejeté conformément aux motifs du jugement ci‑joints.
+Signé à Halifax (Nouvelle‑Écosse), ce 13e jour d’août 2010.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 5e jour d’octobre 2010.
+Espérance Mabushi, M.A.Trad. Jur.
+Référence : 2010 CCI 418
+Date : 20100813
+Dossier : 2010-34(IT)I
+ENTRE :
+BRIAN G. SINCLAIR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge V.A. Miller
+[1] L’appelant a interjeté appel à l’encontre de la nouvelle cotisation établie pour ses années d’imposition 2004, 2005 et 2006. La question en litige est de savoir si les activités de théâtre de l’appelant constituent une source de revenu.
+[2] Pendant les années visées par l’appel, l’appelant a déclaré des revenus d’entreprise, des frais, des pertes d’entreprise et des revenus d’emploi de la manière suivante :
+2004
+2005
+2006
+Revenus d’entreprise
+723,50 $
+826,00 $
+1 015,00 $
+Frais
+35 461,12 $
+39 436,37 $
+42 523,55 $
+Pertes d’entreprise
+(34 737,62 $)
+(38 610,37 $)
+(41 508,55 $)
+Revenus d’emploi
+76 569,00 $
+79 899,00 $
+80 886,00 $
+[3] L’appelant a déclaré qu’il est acteur, dramaturge et producteur. Il a suivi une formation de théâtre de trois ans à l’École nationale de théâtre du Canada. Il a obtenu son diplôme en 1970. Après l’obtention de son diplôme, l’appelant a travaillé avec différents groupes en tant qu’acteur, mais au cours des années 1970 il a dû recourir à une autre profession [traduction] « pour soutenir son théâtre ». Cette profession était un travail d’enseignement que l’appelant a décrit comme étant une subvention lui ayant permis de soutenir ses activités de théâtre.
+[4] Pendant les années visées par l’appel, l’appelant était enseignant à temps plein au Simcoe County District School Board où il était professeur d’art dramatique et d’anglais.
+[5] L’appelant a décrit les diverses activités qu’il a entreprises afin de poursuivre sa carrière d’acteur, de dramaturge et de producteur.
+a) En 1997, il a écrit une pièce de théâtre solo à propos de la vie de Vincent van Gogh, laquelle il devait produire, mais l’acteur qui devait jouer le rôle de van Gogh a abandonné au dernier moment. L’appelant a [traduction] « retrouvé l’acteur en lui » et a présenté la pièce à Buffalo. Il a gagné 2 000 $. Il avait l’intention de faire une tournée, mais, pour des raisons non expliquées à la Cour, il n’a pas pu concrétiser ses projets.
+b) En 1999, il a monté une pièce intitulée [traduction] « Lettres d’amour ». L’actrice qui jouait avec lui est tombée malade et il n’y a plus eu de représentation depuis lors. L’appelant n’était pas certain du montant que cette pièce lui avait rapporté.
+c) En 2001, il a écrit une pièce de théâtre en trois actes au sujet de l’insurrection irlandaise de Pâques 1916. Il en a récolté 400 $. Il s’est rendu compte qu’il ne pouvait pas prendre tout le matériel dont il avait besoin dans sa remorque pour partir en tournée. Il a alors réalisé un enregistrement sonore de la pièce sur CD. Les CD vendus étaient au nombre de 50, mais l’appelant n’a rien tiré de la vente. Il espère maintenant qu’à la veille du 100e anniversaire de cette rébellion, il y aura une demande pour ce CD de la part de la diaspora irlandaise.
+d) Il a trois scénarios à la maison dont il a envoyé copie à tous les théâtres aux États‑Unis et au Canada, mais jusqu’à présent, il n’a pas reçu de réponses positives.
+e) En 2003 ou en 2004, il a commencé à écrire des pièces de théâtre à propos d’Ernest Hemmingway. Il s’est produit dans ces pièces à Key West, à Cuba et en Espagne. Son interprétation à Key West ne lui a pas rapporté de l’argent, mais il s’est fait beaucoup de publicité; en Espagne, ses frais d’environ 3 000 $ ont été payés pour lui.
+[6] L’appelant a expliqué qu’au cours de la période visée par le présent appel, il ne s’attendait pas à tirer un revenu de ses activités, étant donné que c’était à ce moment‑là qu’il écrivait ses pièces à propos d’Ernest Hemmingway. Il a fait tout le travail de recherche, de composition et de création nécessaire à la réalisation de pièces d’un haut calibre artistique qui lui assureraient des revenus futurs.
+[7] Certains des frais dont la déduction est demandée par l’appelant concernaient la publicité, les intérêts sur sa ligne de crédit, l’entretien et les réparations, les repas et le divertissement, les frais afférents à un véhicule à moteur, le loyer, les frais d’entreposage et les frais de déplacement. En 2004, l’appelant a acheté un nouveau véhicule dont il se servait pour transporter les accessoires utilisés dans ses pièces de théâtre. Il a loué un théâtre à Key West où il pouvait donner des représentations.
+[8] Les pertes dont la déduction est demandée ne peuvent être déduites que si l’appelant avait une source de revenu. Dans Stewart c. R, 2002 CSC 46, la Cour suprême du Canada a résumé le critère à appliquer pour décider s’il existe une source de revenu de la manière suivante, au paragraphe 60 :
+En résumé, la question de savoir si le contribuable a ou non une source de revenu doit être tranchée en fonction de la commercialité de l’activité en cause. Lorsque l’activité ne comporte aucun aspect personnel et qu’elle est manifestement commerciale, il n’est pas nécessaire de pousser l’examen plus loin. Lorsque l’activité peut être qualifiée de personnelle, il faut alors déterminer si cette activité est ou non exercée d’une manière suffisamment commerciale pour constituer une source de revenu.
+[9] Lorsque l’activité est clairement de nature commerciale, il n’est pas nécessaire d’analyser les décisions commerciales du contribuable[1]. Dans des cas pareils, il existe forcément une source de revenu. Toutefois, pour déterminer si une source de revenu existe, l’intention subjective du contribuable de réaliser un profit n’est pas suffisante. Il doit être tenu compte de plusieurs autres facteurs objectifs. Le paragraphe 54 de l’arrêt Stewart donne les précisions suivantes :
+Cela oblige le contribuable à établir que son intention prédominante était de tirer profit de l’activité et que cette activité a été exercée conformément à des normes objectives de comportement d’homme d’affaires sérieux.
+[10] En l’espèce, l’activité n’était pas commerciale et on n’y trouvait pas le comportement d’homme d’affaires sérieux. Il ressort de la preuve que lorsque l’appelant s’est rendu à Key West pour une représentation de sa pièce à propos d’Ernest Hemingway, il faisait don de son temps. Il n’a pas tiré d’argent de ses activités. C’est la Key West Art & Historical Society qui a bénéficié de la vente de billets de ses représentations. Lorsque l’avocate de l’intimée a interrogé l’appelant à ce sujet, ce dernier a répondu que [traduction] « j’aurais aimé me faire payer, mais il n’y avait personne pour me payer ». Toutefois, l’appelant a payé un technicien pour qu’il l’accompagne à Key West; il a réglé tous les frais du technicien et les frais de repas des personnes qui l’ont aidé à Key West. L’appelant a déclaré que, pour toutes les périodes où il a considéré qu’il était au travail, il a demandé la déduction des frais engagés relativement à ces périodes.
+[11] Bien que l’appelant n’ait pas tiré d’argent de ses représentations à Key West, il a continué à participer aux festivals d’Hemingway et a engagé des frais relativement à ses voyages et à ses représentations.
+[12] Lors du contre‑interrogatoire, il est devenu évident que l’appelant n’avait tiré aucun revenu de ses activités artistiques en 2004, en 2005 et en 2006. Tous les montants déclarés à titre de revenu constituaient des frais qui avaient été payés pour lui, c.‑à‑d. des paiements en nature.
+[13] Au stade de la vérification, l’appelant a préparé un plan d’affaires. D’après ses projections, en 2008, il devait gagner 10 000 $ et ses frais s’élèveraient à 8 641 $. Il a déclaré que ses projets n’avaient pas abouti, mais qu’il était bien animé des meilleures intentions.
+[14] Il n’y avait absolument aucun comportement d’homme d’affaires sérieux si le but de l’activité en cause était la recherche de profit. L’appelant n’a pas établi qu’il avait une source de revenu. En fait, il n’a même pas démontré qu’il avait l’intention subjective de réaliser un profit. L’appelant a prouvé qu’il est davantage intéressé à faire de la recherche qu’à réaliser la vente d’un produit.
+[15] L’appel est rejeté.
+Signé à Halifax (Nouvelle‑Écosse), ce 13e jour d’août 2010.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 5e jour d’octobre 2010.
+Espérance Mabushi, M.A.Trad. Jur.
+RÉFÉRENCE : 2010 CCI 418
+NO DU DOSSIER DE LA COUR : 2010-34(IT)I
+INTITULÉ : BRIAN G. SINCLAIR
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 8 juillet 2010
+MOTIFS DU JUGEMENT : L’honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 13 août 2010
+COMPARUTIONS :
+Représentant de l’appelant :
+M. Greg M. Leclair
+Avocate de l’intimée :
+Me Diana Aird
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan,
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Stewart c. R., 2002 CSC 46 au paragraphe 53

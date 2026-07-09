@@ -1,0 +1,170 @@
+---
+title: "Rouimi v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/407502/index.do"
+last_modified: "2019-06-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 TCC 126"
+citation2: ""
+neutral_citation: "2019 TCC 126"
+decision_date: "2019-06-03"
+language: "en"
+item_id: "407502"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4369
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T12:10:42.073000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b6f7aabc52b21ec9edbbac6417db79509ed32416ef600730056c633f83f6a3dc"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Rouimi v. The Queen
+
+- Citation: 2019 TCC 126
+- Decision date: 2019-06-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4369, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rouimi v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-06-03
+Neutral citation
+2019 TCC 126
+File numbers
+2009-564(IT)G
+Judges and Taxing Officers
+Johanne D’Auray
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-564(IT)G
+BETWEEN:
+ALBERT ROUIMI,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Motion to set aside judgment scheduled for hearing on November 3, 2015, May 26, 2016, and April 23, 2019, at Montréal, Quebec.
+Before: The Honourable Justice Johanne D’Auray
+Appearances:
+For the applicant:
+No one appeared
+Counsel for the respondent:
+Emmanuel Jilwan
+JUDGMENT
+Subsequent to the applicant’s failure to appear, the respondent’s motion is granted, and the applicant’s motion to set aside the judgment is dismissed.
+Costs in the amount of five hundred dollars ($500) are awarded to the respondent.
+Signed at Hamilton, Ontario, Canada, this 3rd day of June 2019.
+“Johanne D’Auray”
+D’Auray J.
+Translation certified true
+on this 10th day of February 2020.
+François Brunet, Revisor
+Citation: 2019 CCI 126
+Date: 20190603
+Docket: 2009-564(IT)G
+BETWEEN:
+ALBERT ROUIMI,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+D’Auray J.
+[1] Subsequent to the applicant’s failure to appear at the hearing, the respondent filed a motion under rule 140 of the Tax Court of Canada Rules (General Procedure) (the “Rules”) asking the Court to dismiss the motion to set aside the judgment filed by the applicant with this Court on February 5, 2015.
+I. Facts
+[2] On December 17, 2007, the Minister of National Revenue (the “Minister”) reassessed the applicant, Albert Rouimi, for taxation years 2001 through 2006.
+[3] In response to these reassessments dated December 17, 2007, the applicant submitted notices of objection to the Minister. On November 24, 2008, the Minister confirmed all the notices of reassessment.
+[4] On January 18, 2009, Dany S. Perras, counsel of record for the applicant pursuant to rule 31 of the Rules, filed a notice of appeal for the applicant.
+[5] On April 24, 2009, Annick Provencher, counsel for the respondent, filed a response to the notice of appeal.
+[6] On May 21, 2009, Mr. Perras filed a reply to the respondent’s response to the notice of appeal.
+[7] On July 8, 2009, Mr. Perras advised the Court and the respondent that he had begun practising with the firm Spiegel Sohmer and would be continuing to represent the applicant.
+[8] On July 8, 2009, Mr. Perras forwarded an offer of settlement (the “offer”) to the respondent.
+[9] On October 19, 2009, the respondent submitted a counter-offer (the “counter-offer”) to the offer from Mr. Perras.
+[10] On October 27, 2009, Mr. Perras informed the respondent that he rejected the counter-offer and made a counter-offer.
+[11] On October 29, 2009, Ms. Provencher for the respondent advised Mr. Perras that his counter-offer of October 27, 2009, was rejected.
+[12] On November 30, 2010, Mr. Perras advised Ms. Provencher that he agreed to settle the applicant’s appeals pursuant to the respondent’s counter-offer of October 19, 2009. The consent to judgment was signed by Mr. Perras for the applicant and by Ms. Provencher for the respondent and filed with this Court on November 30, 2010.
+[13] On December 1, 2010, Archambault J. rendered judgment in accordance with the consent to judgment allowing the appeals for tax years 2001 to 2003 and upholding the reassessments for years 2004 to 2006.
+[14] On May 7, 2014, the Conseil de discipline du Barreau du Québec suspended Mr. Perras for a minimum of 10 years. As of that date, the applicant decided to represent himself.
+[15] On February 5, 2015, the applicant filed a motion to set aside the judgment on the ground that the judgment dated December 1, 2010, was invalid in that he had never authorized his counsel, Mr. Perras, to consent to judgment.
+[16] On February 20, 2015, the respondent argued that the motion filed by the applicant did not comply with the Rules, specifically subrule 66(2) and rule 67.
+[17] On March 10, 2015, the Court informed the applicant that he had to file a new motion in accordance with the Rules accompanied by a supporting affidavit.
+[18] On April 20, 2015, the applicant asked this Court to extend the deadline for filing his motion to set aside the judgment. The Court granted the request and set a new deadline of May 15, 2015.
+[19] On June 15, 2015, Lamarre J.C.A. scheduled the motion to set aside the judgment for November 3, 2015, before the Tax Court of Canada at Montréal.
+[20] On November 3, 2015, the applicant appeared before the Court. He did not have any evidence to show that he had not authorized Mr. Perras to settle his case. The Court adjourned the matter so that the applicant could contact Mr. Perras to obtain documentary evidence.
+[21] Accordingly, on November 30, 2015, the Court issued an order adjourning the hearing of November 3 and ordered that the hearing of the motion continue on Thursday, May 26, 2016, before the Tax Court of Canada at Montréal.
+[22] On May 26, 2016, at the calling of the roll, Édith Fortin advised that she was the new counsel for the applicant and requested an adjournment to prepare the case.
+[23] On June 14, 2016, the Court issued an order in which it adjourned the motion to set aside the judgment to September 2016.
+[24] On June 15, 2017, the Court ordered that the hearing continue on Wednesday, November 29, 2017, before the Tax Court of Canada at Montréal.
+[25] On November 13, 2017, or shortly before the hearing scheduled for November 29, 2017, Ms. Fortin asked the Court to adjourn the motion for health reasons. She requested that the hearing be adjourned until she recovered in order to represent the applicant.
+[26] On November 14, 2017, the respondent confirmed that it did not object to adjournment of the hearing.
+[27] On November 17, 2017, the Court granted Ms. Fortin’s request to adjourn. The hearing was suspended for a period of three months, after which time, Ms. Fortin was to confirm whether the applicant wished to continue pursuing his motion to set aside the judgment.
+[28] On April 16, 2018, the law firm Veilleux informed the Court in a letter dated April 13, 2017, that Ms. Fortin was no longer able to represent the applicant due to health problems and that Veilleux was also no longer able to represent him. As of that date, the applicant began representing himself.
+[29] On July 5, 2018, the Court informed the applicant that his motion would be scheduled for the next available hearing at Montréal.
+[30] On October 12, 2018, the Court ordered that the hearing of the motion to set aside the judgment be peremptorily scheduled for Tuesday, April 23, 2019, before the Tax Court of Canada at Montréal.
+[31] On April 23, 2019, at the calling of the roll, the clerk called the applicant’s docket twice, once at 9:34 a.m., and again at 9:58 a.m. The applicant was not present, and no one was present on his behalf.
+[32] The Court record shows that the applicant was duly advised by registered letter on October 15, 2018, from the clerk of this Court that his motion was set down for hearing on April 23, 2019, at 9:30 a.m. at 30 McGill Street, Montréal.
+[33] The Court record contains documentary evidence that the applicant received and directly signed to acknowledge receipt of the notice of hearing delivered by Canada Post.
+[34] In the light of the applicant’s failure to appear, the Court:
+a) Grants the respondent’s motion, and
+b) Dismisses the applicant’s motion to set aside the judgment.
+[35] Additionally, insofar as the applicant never advised the Court of his absence and in light of the requests to adjourn in this matter, costs in the amount of five hundred dollars ($500) are awarded to the respondent.
+Signed at Hamilton, Ontario, this 3rd day of June 2019.
+“Johanne D’Auray”
+D’Auray J.
+Translation certified true
+on this 10th day of February 2020.
+François Brunet, Revisor
+CITATION:
+2019 TCC 126
+DOCKET:
+2009-564(IT)G
+STYLE OF CAUSE:
+ALBERT ROUIMI v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+November 3, 2015, May 26, 2016, and April 23, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Johanne D’Auray
+DATE OF JUDGMENT:
+June 3, 2019
+APPEARANCES:
+For the applicant:
+No one appeared
+Counsel for the respondent:
+Emmanuel Jilwan
+COUNSEL OF RECORD:
+For the applicant:
+Name:
+[BLANK]
+Firm:
+[BLANK]
+For the respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

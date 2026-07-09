@@ -1,0 +1,309 @@
+---
+title: "Perron-Ali v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/493042/index.do"
+last_modified: "2021-02-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2021 TCC 6"
+citation2: ""
+neutral_citation: "2021 TCC 6"
+decision_date: "2021-02-12"
+language: "en"
+item_id: "493042"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4636
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T11:24:00.034000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0915553f84a37a647e91eece2ae917fc392207ea4cdcf2173cbd8cf859c67aa2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Perron-Ali v. The Queen
+
+- Citation: 2021 TCC 6
+- Decision date: 2021-02-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4636, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Perron-Ali v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2021-02-12
+Neutral citation
+2021 TCC 6
+File numbers
+2016-1194(IT)I, 2016-1200(IT)I
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-1194(IT)I
+BETWEEN:
+DARLA PERRON-ALI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on December 11, 2019, at Toronto, Ontario and continuation of appeal heard by video conference on October 8, 2020.
+Before: The Honourable Justice Gaston Jorré, Deputy Judge
+Appearances:
+Agent for the Appellant:
+Marshall B. Sone
+Counsel for the Respondent:
+Colin McArthur
+JUDGMENT
+In accordance with the attached Reasons for Judgment:
+The appeal with respect to the 2010 taxation year is dismissed;
+The appeal in respect of 2011 is allowed if both James Ali and Darla Perron-Ali make a request in writing, sent to counsel for the Respondent by registered mail no later than 16 April 2021, that an eligible capital expenditure in an amount not exceeding $1,834.25 be deducted in computing the income of their joint business. If such a request is made:
+The Respondent shall reconsider and reassess the Appellant’s 2011 taxation year to allow the joint business to deduct the requested amount not exceeding $1,834.25; no other changes shall be made.
+If no such request is made, the appeal of the 2011 taxation year is dismissed and there shall be no reassessment of the Appellant’s 2011 taxation year.
+There is no order as to costs.
+Signed at Ottawa, Canada, this 12th day of February 2021.
+“G. Jorré”
+Jorré D.J.
+Docket: 2016-1200(IT)I
+BETWEEN:
+JAMES T. ALI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on December 11, 2019, at Toronto, Ontario and continuation of appeal heard by video conference on October 8, 2020.
+Before: The Honourable Justice Gaston Jorré, Deputy Judge
+Appearances:
+Agent for the Appellant:
+Marshall B. Sone
+Counsel for the Respondent:
+Colin McArthur
+JUDGMENT
+In accordance with the attached Reasons for Judgment:
+The appeal with respect to the 2010 taxation year is dismissed;
+The appeal in respect of 2011 is allowed if both James Ali and Darla Perron-Ali make a request in writing, sent to counsel for the Respondent by registered mail no later than 16 April 2021, that an eligible capital expenditure not exceeding $1,834.25 be deducted in computing the income of their joint business. If such a request is made:
+The Respondent shall reconsider and reassess the Appellant’s 2011 taxation year to allow the joint business to deduct the requested amount not exceeding $1,834.25; no other changes shall be made.
+If no such request is made, the appeal of the 2011 taxation year is dismissed and there shall be no reassessment of the Appellant’s 2011 taxation year.
+The Appeal for the 2012 taxation year is allowed and the reassessment is sent back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to the rental loss of $10,893 claimed on his return.
+There is no order as to costs.
+Signed at Ottawa, Canada, this 12th day of February 2021.
+“G. Jorré”
+Jorré D.J.
+Citation: 2021 TCC 6
+Date: 2021 02 12
+Docket: 2016-1194(IT)I
+BETWEEN:
+DARLA PERRON-ALI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2016-1200(IT)I
+AND BETWEEN:
+JAMES T. ALI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Jorré D.J.
+Introduction
+[1] In reassessing the Appellants, the Minister made the following changes.
+[2] In respect of Mrs. Perron-Ali:
+employment expenses in the 2010 taxation year were denied;
+expenses in respect of a consulting business which is her business alone were denied in the 2011 taxation year; and,
+her share (50%) of a loss in respect of a business she had together with Mr. Ali was denied in the 2011 taxation year.
+[3] The vast majority of the claim for the 2010 employment expenses, the portion for motor vehicle costs, was withdrawn after the presentation of the evidence at the beginning of argument. [1] However, a small portion of those expenses remain in dispute.
+[4] In respect of Mr. Ali:
+employment expenses in the 2010 taxation year were denied;
+his share (50%) of a loss in respect of a business he hadtogether with Mrs. Perron-Ali was denied in the 2011 taxation year; and,
+a rental losses claimed was denied in 2012 taxation year.
+[5] At the opening of the hearing, the Respondent conceded the 2012 rental losses. [2]
+[6] I shall deal with the facts and the analysis for each of the issues relevant to one individual in turn and then with the business loss claimed in respect of the common business of both Appellants.
+Mrs. Perron-Ali’s 2010 Employment Expenses
+[7] Darla was employed as an autism consultant in both 2010 and 2011 by the Hamilton Health Sciences Corporation.
+[8] She traveled to a variety of places in the course of her work. In 2010 she claimed $7,191 in employment expenses as a deduction on line 229 of her income tax return.
+[9] All but $780 of the claimed amount was for motor vehicle expenses. The T-777 form included with the return [3] indicated that she drove 41,050 kilometres of which 35,960 was for employment. Put another way, her filing claimed that over 85% of her kilometers driven were for employment. [4]
+[10] The $780 was described as a telecommunication expenses.
+[11] No log or other similar detailed record of kilometers driven for work was provided and no corroborating documents such as bills or receipts were provided for either the automobile expenses or the telecommunications expenses.
+[12] The evidence also showed that the Appellant did receive a reimbursement at the rate of 44 cents per kilometre for work kilometres driven from her employer. [5] The Appellant did not include this reimbursement in her 2010 tax return. [6]
+[13] In her 2011 income tax return. [7] Mrs. Perron-Ali claimed no amount for employment expenses although she was still employed by Hamilton Health Services.
+[14] There are a number of requirements that must be met before an employee may claim employment expenses. [8]
+[15] One of those requirements is a properly filed out T-2200 form signed by the employer. That condition is mandatory and is clearly set out in Subsection 8(10) of the Income Tax Act. [9] This requirement has been in existence for a very long time.
+[16] No such form was produced here.
+[17] The absence of a T-2200 form alone requires that the 2010 employment expense claim be denied.
+[18] While there may be rare, exceptional circumstances, where a claim for employment expenses might succeed in the absence of a T-2200, this is clearly not such a case. [10]
+Mrs. Perron-Ali’s 2011 Consulting Business Expenses
+[19] In 2011, Mrs. Perron-Ali claimed expenses of $943.43 in relation to a consulting business.
+[20] Although the business appears to have started in 2000 [11] , no income or expenses were reported in the 2010 income tax return with respect to the business.
+[21] In the 2011 income tax return no income was reported for the business and $947.43 in motor vehicle expenses were claimed, resulting in a loss of $947.43. The expenses were for 5,000 km of 35,000 total km driven [12] .
+[22] There is very limited evidence in respect of this consulting business and the expenditures in relation thereto.
+[23] A taxpayer claiming expenses is best placed to show why the expenses were incurred, how they relate to a business and the quantum of the expenses. Under section 230 of the Income Tax Act an individual is required to keep the relevant books and records for a period of, generally, six years and longer when there is an objection or appeal.
+[24] As a result, an individual should be able to provide some detail about the operations of the business and its expenditure. No logbook, or detailed record of kilometers driven, and no receipts were presented
+[25] According to the Appellant’s testimony changes in government programs which provided free services for parents had resulted in the Appellant losing business and the Appellant’s activity in 2011 consisted of giving free presentations and workshops in an effort to get herself known so as to generate new business. [13] There was no information as when, where and to whom these sessions were given.
+[26] No books or records for the business were presented.
+[27] There was little evidence about the start of the business, the history of the business or of what happened in subsequent years.
+[28] The very general statements of the Appellant are simply not sufficient to establish the overall quantum of the automobile expenses or to establish the business use of the automobile.
+[29] As a result the Appellant has not demonstrated that she is entitled to claim the $947.43 in expenses. [14]
+Mr. Ali’s Employment Expenses in 2010
+[30] In 2010 and 2011, Mr. Ali was employed as a social worker by the District School Board of Niagara. In the course of his work he went to different schools of the Board. In 2010, he claimed employment expenses of $14,720. In 2011, he did not claim any employment expenses.
+[31] Of the total amount, $780 was described as telecommunications expenses and the rest were motor vehicle expenses. The motor vehicle expenses were shown as representing 28,000 km out of 34,000 km driven.
+[32] A T-2200 was produced. Remarkably, in spite of the fact that the form is required by the Income Tax Act and was previously requested of the Appellant by the Canada Revenue Agency during earlier stages, it appears that efforts to obtain it were left to the last possible moment given that the form was signed on the 10th of December 2019, the day before the first day of hearing, three weeks short of nine years after the end of the tax year in question.
+[33] The T-2200 shows that the Appellant was required to travel within the Niagara region between school board worksites, that he was paid 46 cents per kilometer for work travel and that he received a total of $1,736.64 to pay for kilometers traveled and for cell phone usage. [15]
+[34] The T-2200 also says that there were no other expenses that the employee was required to pay for which the employee would not receive any allowance or repayment. It also states that the $1,736.64 is included in the Appellant’s T-4 slip. [16]
+[35] Notwithstanding that statement, it is clear that the $1,736.64 was not included in the Appellant’s income. [17]
+[36] No receipts were produced and no logbook or other detailed contemporaneous record of the kilometers driven was produced.
+[37] However, the Appellant did introduce Exhibit A-10, a document that he prepared using Google maps that shows the distance, one way, in kilometers from his home to all the different schools in the school district. He did not go to all the schools however. Each year he would be assigned to a certain geographic area within the Board’s territory and he would go to some of those schools.
+[38] No employment contract and no other document setting out the terms and conditions of employment was produced apart from the T-2200 and one policy page from the Board about the reimbursement rate for kilometers driven. [18] Given that the employer was a school board and given that the Appellant was in a unionised position [19] one would expect to find that the terms of employment were clearly spelled out in readily available documentation.
+[39] Before I continue, it is worth recalling two basic and well know principles:
+i) While travel between different work sites may be deductible, the journey to and from work is not normally deductible; [20]
+ii) There may only be deducted from employment income such portion of expenses allowed by the Income Tax Act as are wholly applicable to the particular employment or such part as may reasonably be regarded as applicable to the particular employment. [21]
+[40] Given that 46 cents per kilometer is a reasonable rate per kilometer in that year, to succeed the Appellant would have to show that he was unreasonably denied reimbursement of a material number of work related kilometers.
+[41] There was no direct explanation of the basis for the claim of 28,000 work kilometers. However, it is perhaps implicit in the following testimony by the Appellant [22] :
+Q. This is mileage expense.
+A. So, there is a policy within the District School Board of Niagara at the time. I'm assuming it remains as of today as well. But the policy was that we had to deduct mileage from our home to the office that we were assigned to return.
+So, essentially, if I'm calculating my mileage from my home address to my office at the time, return, I was at, I think, approximately negative 140 kilometres.
+And then, wherever we travelled within the Board, we can collect mileage from that office to wherever we happened to be going that day, whether, again, it was schools or agencies. And if there was a positive balance, then we can collect a stipend. But more often than that, we weren't able to collect a mileage stipend because of the policy that was in place.
+[42] We do not know how many days in the year the Appellant worked for the school board but 28,000 kilometres divided by 140 would 200 round trips. If the Appellant was not required to be present at any board offices or schools during school holidays then 200 round trips to go to work might be the right order of magnitude.
+[43] In any event, while the evidence does not allow a conclusion as to any specific number, what is clear from the quoted passage is that most, perhaps all, of the claimed 28,000 km was simply driving to and from work, a non-deductible personal expenditure.
+[44] The absence of detailed evidence from a log or similar record causes enormous difficulty because one would need to look at the pattern of travel 1) to establish what was, so to speak, the normal journey (or journeys) to work as opposed to something outside the standard journey [23] and 2) then establish what was and was not potentially deductible. One would then have to compare those potentially deductible kilometres plus kilometres of work travel during the work day with the reimbursed kilometres. If there was a marked difference then potentially there could be a claim for the excess work kilometres not reimbursed.
+[45] Given the absence of detailed evidence of work kilometres driven there is no basis to conclude that the employer unreasonably refused to pay a material number of work related kilometres driven. It follows that the claim for automobile expenses must fail. [24]
+[46] As to the telecommunications expenses, it is clear from the T-2200 form that the employer did pay the Appellant an amount in relation to the mobile phone, although what that amount was, is not clear. [25]
+[47] The mobile phone expense claim falls under paragraph 8(1)(i) of the Income Tax Act.
+[48] To claim an amount for the mobile phone, the Appellant would have to first establish either what portion of the expense is wholly applicable to the particular employment or what portion may reasonably be regarded as applicable to the particular employment. [26] To do so, requires some evidence of what exactly is being paid for and what use is being made of the phone, for example, to what extent is it being used for personal purposes and to what is it being used for work purposes. The mere fact that someone has a mobile phone and makes some use of it for work purposes does not in itself make the entire monthly cost of the phone deductible.
+[49] Second, having established the properly deductible amount, the amount would then have to be compared to the reimbursement to see what amount remained deductible from the Appellant’s income. [27]
+[50] The Appellant has not shown that there is a deductible amount of mobile phone costs above the amount that was reimbursed.
+[51] Accordingly, the claim for telecommunications expenses must fail.
+The Loss Claimed in Respect of the Joint Business of the Appellants in 2011
+[52] In 2011, the Appellants reported a business loss with respect to a business that each had a 50% interest in. On the T-2125 form included with their tax returns the business was described as “Real Estate Property Management”. The business showed a net loss of $38,541 with the result that each Appellant had a loss of half of that. In addition. Mr. Ali had an additional amount that he claimed in relation to this business; this additional amount related to automobile expenses and increased his loss from the business by $1,575.56.
+[53] The evidence on the expenses of this business was most unsatisfactory. The expenses in issue total about $40,000 and yet except for two invoices relating to the biggest item claimed there were no books, records, receipts or other documents to support the claim. The biggest expense claimed was $34,938 paid to Tigrent Canada Learning Inc.
+[54] The testimony as to the nature of the business and its evolution was very general in circumstances where one would expect the Appellants to be able to provide more detail.
+[55] As to the expenses, other than the amount paid to Tigrent, not only is there a lack of documentation but there is no testimony to show how those expenses relate to the business and how they were computed. The Appellants have not demonstrated that these amounts are deductible as to either their nature or their quantum. [28]
+[56] As a result, I will focus on the deductibility of the payments to Tigrent.
+[57] Based on the testimony of the Appellants I am satisfied that at some point in 2011 they decided to start a business in addition to their then existing employment. However, 2011 was very much an early start-up phase.
+[58] They first went to a free weekend course offered by Tigrent. [29] It is not clear if their interest in some sort of real estate business predated the course or came about as a result of that first course. In February of that year, they signed up and paid for certain courses. Later in April, they signed up for some coaching and two assessments. [30]
+[59] The first invoice for $28,148.35 describes the purchases as: [31]
+CN Rich Dad Cash Flow Certificate w/ Mentor – RU
+CN Rich Dad Cash Flow Certificate w/ Mentor – Advanced Training
+CN Rich Dad Cash Flow Certificate w/ Mentor - Advanced Training
+CN Rich Dad Cash Flow Certificate w/ Mentor - Advanced Training
+CN Rich Dad Cash Flow Certificate w/ Mentor - Mentor
+CN Rich Dad Cash Flow Certificate w/ Mentor – Software.
+[60] The second invoice for $5,789 describes the purchases as:
+CN Rich Dad Real Estate Coaching 12 Sessions
+CN Windslow Assessment
+CN Windslow Assessment.
+[61] The Appellants attended some intensive three-day weekend training sessions that focused on different strategies for investing and dealing in real estate. It is not clear from the evidence how many of these courses there were but I infer that there were probably four. It is also unclear how the mentoring part worked although it appears that, at least once, they drove around the Hamilton area with a mentor and discussed what to look for in properties. They also received some software. The coaching sessions were done over the phone.
+[62] Surprisingly, the amounts paid to Tigrent were claimed as “Other costs” in Part 4, “Cost of Goods Sold and Gross Profit”, of the T2125 form, the “Statement of Business or Professional Activities”. They do not form part of the cost of goods sold. [32]
+[63] The only activity of this business in 2011 can be described as education. It is only in 2012 that they began to seriously look at acquiring properties. [33]
+[64] What exactly would this business consist of? They wanted to have rental properties and rent to own properties. They eventually had “Fifteen plus [properties] at different times.” It appears that some of these properties were acquired with other people and the properties were not always in the name of the Appellants. [34]
+[65] While I accept that the Appellants became engaged in an economic activity relating to real estate, there was no specific evidence as to what properties were bought and what properties were later sold although the testimony that “Fifteen plus [properties] at different times.” suggests that there was a certain amount of buying and selling. There is no evidence as to the precise arrangements in cases where the Appellants names were not on title. In their testimony, the Appellants did not state that they managed properties for others on a fee for service basis. [35]
+[66] The payments to Tigrent for training, mentoring and coaching are in the nature of an educational expense. Such expenses are of a capital nature and are not normally deductible. They are also often of a personal nature. [36]
+[67] While the law has made a distinction where someone in business is simply maintaining or somewhat extending existing knowledge and skills by, for example, taking a continuing education course within their existing field, that distinction has no application here given that the Appellants were not previously involved in real estate; there backgrounds were in autism counseling and social work, respectively.
+[68] Even if the amount paid to Tigrent is a capital expenditure, a portion of it may be gradually deducted over time if the expenditure falls within the definition of an eligible capital expenditure. [37] If this were the case, it could give rise to a deduction of up to $1,834.25 in the 2011 year. [38]
+[69] Here the payments to Tigrent have the characteristics of an eligible capital expenditure since they are of a capital nature, are not otherwise deductible [39] and are not of a nature excluded by the definition of an eligible capital expenditure. [40]
+[70] Accordingly, the Appellants may, if they so choose, ask for the deduction of an amount not exceeding $1,834.25 in respect of their joint business in the 2011 taxation year. [41] The 2011 appeals will be allowed to that extent only. If they choose to do so, the practical effect will that each Appellant will have a loss of half that amount which can be deducted against their other income.
+Conclusion
+[71] For the reasons set out above:
+The appeals of Darla Perron-Ali and of James Ali in respect of 2010 are dismissed.
+There shall be no change to the assessment of Darla Perron-Ali with respect to her own consulting business in the 2011 taxation year.
+The appeals of Darla Perron-Ali and of James Ali in respect of the joint business in 2011 are allowed if the Appellants make a request in writing, sent to counsel for the Respondent by registered mail no later than 16 April 2021, that an eligible capital expenditure not exceeding $1,834.25 be deducted in computing the income of their joint business. If such a request is made:
+The Respondent shall reconsider and reassess the Appellants 2011 taxation years to allow the joint business to deduct the requested amount not exceeding $1,834.25; no other changes shall be made.
+If no such request is made then the appeals are dismissed and there shall be no reassessment of the Appellants 2011 taxation years.
+The Appeal of Mr. James Ali’s 2012 taxation year shall be allowed but only to allow the deduction of the rental loss of $10,893 conceded by the Respondent.
+[72] There will be no order as to costs.
+Signed at Ottawa, Canada, this 12th day of February 2021.
+“G. Jorré”
+Jorré D.J.
+CITATION:
+2021 TCC 6
+COURT FILE NO.:
+2016-1194(IT)I; 2016-1200(IT)I
+STYLE OF CAUSE:
+DARLA PERRON-ALI AND HER MAJESTY THE QUEEN; JAMES T. ALI AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+December 11, 2019 and October 8, 2020 [42]
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Gaston Jorré, Deputy Judge
+DATE OF JUDGMENT:
+TRANSCRIPT RECEIVED:
+February 12, 2021
+January 6, 2020
+APPEARANCES:
+Agent for the Appellant:
+Marshall B. Sone
+Counsel for the Respondent:
+Colin McArthur
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Blank
+Firm:
+Blank
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Transcript, page 145 and 146.
+[2] Transcript, page 5
+[3] Exhibit A-2
+[4] Although the motor vehicle expenses were conceded after the completion of evidence that evidence is relevant to the overall assessment of Mrs. Perron-Ali’s evidence and to the question whether there was a reasonable basis for the employer not issuing a T2200 form.
+[5] This is clear from the Appellant’s testimony. In addition, Sinisa Medic, a witness called by the Appellant, confirmed that the practice of the Hamilton Health Sciences Corporation was to pay work kilometers driven; this is also confirmed by the corporate policy set out in Exhibit A-1.
+[6] If she was taking the position that the amount paid by her employer was not a reasonable amount it should have been included on line 11 of the T-777 Auto form filed where she calculated her expenses. Of course, under the Income Tax Act where a taxpayer receives a reasonable amount then that amount received is not taxable and no amount of expenses may be claimed.
+[7] See Exhibit A-2.
+[8] Those requirements are summarized in paragraphs 8 to 18 inclusive of the reasons in Chao v. The Queen 2018 TCC 72.
+[9] The subsection reads: an amount otherwise deductible for a taxation year under paragraph (1)(c), (f), (h) or (h.1) or subparagraph (1)(i)(ii) or (iii) by a taxpayer shall not be deducted unless a prescribed form, signed by the taxpayer's employer certifying that the conditions set out in the applicable provision were met in the year in respect of the taxpayer, is filed with the taxpayer's return of income for the year.
+[10] Such exceptional circumstances would require an Appellant to show that it was impossible for that person to obtain a T-2200. For example, an Appellant would have to show that they made careful, diligent and timely efforts to obtain the form and that, where an employer refused to fill out a form, the employer acted unreasonably in doing so. This is discussed in more detail in Chao v. The Queen 2018 TCC 72 at paragraphs 83 to 102. There do not appear to have been diligent efforts here. The only clear efforts to obtain the T2200 appear to have been in the 10 days or so prior to the hearing, see Exhibit R-2; apart from that the Appellant was uncertain if she had made prior efforts, see pages 52-53 of the transcript. This is surprising given that the form is a requirement for the deduction and given that the Appellant had her return prepared and one would expect her to have been advised at that time to get the form right away. Further, it is surprising given that the CRA requested the form, along with many other things, in a letter addressed to her dated 18 January 2016, see Exhibit R-3. Further, there was no attempt to show the employer was unreasonable in failing to provide the form because it was reimbursing an unreasonably low portion of actual work related kilometers driven. The evidentiary base to attempt to do so was entirely missing. Absent any specific details of the kilometers driven to show that they were in fact work related and absent any information as to the number of kilometers reimbursed there is simply no basis on which the Appellant could have shown that the employer was acting unreasonably. On the contrary, the evidence is that the employer paid required employment expenses and, as a result, it was not unreasonable not to provide the form. With respect to the mobile phone expenses, such a deduction is allowed only if the employee is required to pay for the expense, see paragraph 8(1)(i) of the Income Tax Act. No such obligation was demonstrated and, apart from any issue of quantum, that portion of the claim must fail for that reason alone. Of course, if the employer does not require the mobile phone then it is not unreasonable for the employer to refuse to issue the form in respect of those expenses. Finally I would note that, if any of the claimed kilometres were in relation to going to and from work, it is well established that such travel is personal and not deductible.
+[11] See the first page of Exhibit R-1.
+[12] Exhibit A-4.
+[13] Transcript, page 67.
+[14] After the Appellant filed a Notice of Objection, on 18 January 2016 the CRA wrote to the Appellant - and sent a copy to her representative – and asked her to provide a fair amount of documentation and other information including filling out two questionnaires. This letter is Exhibit R-3. What is interesting about this is that much of what is requested is documentation and information that might, perhaps, have assisted the Appellant at Trial. However, it appears that the Appellant never responded to the request, see Exhibit R-4.
+[15] See Exhibit A-8, pages 1 and 2, the T2200. It is clear from the note added at Question 5 that because source documentation is unavailable the employer is unable to provide a breakdown between the amount paid for motor vehicle kilometers and the amount paid for mobile phone usage.
+[16] See page 1 of the T2200 at questions 6 and 7 as well as page 2 at question 9 near the bottom of that question.
+[17] This is evident from the following: The first page attached to the T-2200, the third page of Exhibit A-8, is some sort of print out with respect to the Appellant in 2010 year with the school board and shows such things as gross pay, net pay and various withholdings. It shows gross pay as $74,698.35. However, the fourth page of Exhibit A-8 has a copy of the Appellant’s T4; in the box for employment income, box 14, it shows an amount of $72,961.71, an amount that is exactly $1,736.64 less than $74,698.35. For some reason, the employment income reported on line 101 of the income tax return is lower, $2,475.73 less; it is not apparent why this is different from the T-4.
+[18] Both are found in Exhibit A-8.
+[19] See box 44 on the T4 included in Exhibit A-8.
+[20] See, for example: Barry v. Canada 2014 FCA 280 (CanLII) where the Federal Court of Appeal says at paragraph 15: “Travel expenses incurred by a taxpayer travelling between his home and place of employment are generally considered to be personal expenses. They are not generally travelling costs encountered in the course of a taxpayer’s employment duties.”
+[21] This is found in the opening words of section 8(1) of the Income Tax Act that read as follows: In computing a taxpayer's income for a taxation year from an office or employment, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto.
+[22] Found at page 91 of the Transcript.
+[23] This is in what was done in Chrapko v. Minister of National Revenue, [1988] F.C.J. No. 908 (Fed. C.A.). There the Federal Court of Appeal dealt with the appeal of an employee of the Ontario Jockey Club who lived in Niagara Falls and worked 75% of the time in Toronto, at either the Woodbine or the Greenwood race track, and 25% of the time at the race track in Fort Erie. Fort Erie is a fair distance from Toronto but much closer to Niagara Falls than Toronto. Mr. Chrapko claimed his travel expenses to go to work at all three locations. The Federal Court of Appeal did not allow the Appellant to claim the cost of going to work at either of the two Toronto race tracks but did allow the cost of travelling from home to the Fort Erie race track. Although both were in Toronto, there was a fair distance between the Woodbine and Greenwood race tracks.
+[24] It may also be that if in any given year the Appellant was going between schools within a particular area of the school board then the situation is not different from that of Mr. Chrapko in Chrapko v. Minister of National Revenue, [1988] F.C.J. No. 908 (Fed. C.A.), insofar as he was travelling to both the Woodbine and Greenwood race tracks. See previous footnote.
+[25] See questions 5, 6 and 7 on the first page of the T-2200 form contained in Exhibit A-8.
+[26] This requirement stems from the opening words of section 8(1) of the Income Tax Act.
+[27] See the closing line of paragraph 8(1)(i) of the Income Tax Act which requires the deduction of any reimbursement.
+[28] These amounts are claimed in Part 5 and in Part 6 of the T2125 form. For example, the largest amount in these other expenses was an amount of $2,025 for telephone and utilities on line 9220 of the T2125 form. Given what was said at the hearing about the activity in the year, see below, it is hard to imagine that there would be significant telephone expenses and it is hard to conceive that there were any utility expenses other than for utilities at home. To the extent that any portion of the home was used in relation to the business, given that use of the home expenses cannot increase a loss (see paragraph 18(12)(b)of the Income Tax Act), no amount for home use was deductible and as a result no utility expense would be deductible. The automobile expenses are the second biggest item but apart from testimony that one of the training sessions was in Mississauga there is nothing to show how many kilometres were driven for the purposes of this business.
+[29] See page 75 of the Transcript.
+[30] On the basis of their testimony and the invoices in Exhibit A-5, I accept that they did pay for the courses.
+[31] Apparently CN stands for Canada or Canadian; at some point Mr Ali was told that Tigrent was the subsidiary of an American company called Rich Dad Education.
+[32] The claim belongs elsewhere near the bottom of Part 5 of the form.
+[33] See page 74 of the Transcript.
+[34] See pages 41, 44 and 79 of the Transcript.
+[35] I cannot help but observe that if in preparing for trial the Appellants had sought to provide in court some of the information that the CRA had sought at the objection stage but was apparently never provided to the CRA that information might have been useful to them in this appeal. See Exhibits R-3, R-4, R-7 and R-8. Of course, it is also possible that it might not have been helpful.
+[36] See paragraphs 18(1)(b) and (h) of the Income Tax Act.
+[37] Pursuant to paragraph 20(1)(b) of the Income Tax Act, as it then read. Eligible capital expenditure is defined section 14 of the Income Tax Act, as it then read.
+[38] I.e. $34,938 * 75% of the cost * 7% of the balance of eligible capital expenditures in the eligible capital account in accordance with the Income Tax Act. Given that the only activities of the business in 2011 were of an educational nature, had I been satisfied of the nature and quantum of the other expenditures made apart from the payments to Tigrent they also would have been capital in nature since they could only relate to the training activity with the result that they could not be a current expense; however, they could potentially have been eligible for treatment as an eligible capital expenditure in so far as they were all incidental to the training.
+[39] Subject to the exceptions described in the definition of an eligible capital expenditure, none of which apply here.
+[40] See (a) to (f) of the definition of eligible capital expenditure in section 14. Another requirement is that there be an ongoing business. I did ask myself if there was such a business and if it had started in 2011. Whatever the precise nature of the economic activity there was nothing to suggest it was a hobby or something with a personal element rather than a business. As to whether it had started, I am satisfied that in committing $28,148 in February 2011 and a further $5,789 in April 2011, together with the related time and effort, they were showing a serious commitment to the business and the business began at that time.
+[41] The deduction in Section 18(1)(b), as it then read, is not an automatic one; as a result of the words “such amount as the taxpayer claims”, it is a permissive deduction.
+[42] The continuation of this matter was delayed by the Covid19 pandemic.

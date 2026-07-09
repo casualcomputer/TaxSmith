@@ -1,0 +1,460 @@
+---
+title: "Deans Knight Income Corporation v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/367585/index.do"
+last_modified: "2019-04-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 TCC 76"
+citation2: ""
+neutral_citation: "2019 TCC 76"
+decision_date: "2019-04-05"
+language: "en"
+item_id: "367585"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4327
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T12:16:09.443000+00:00"
+cases_cited_count: 7
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "771f2f5cf24678de3477b18e0a7f16c55b969090396b0d105090965331363db1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Deans Knight Income Corporation v. The Queen
+
+- Citation: 2019 TCC 76
+- Decision date: 2019-04-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4327, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Deans Knight Income Corporation v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-04-05
+Neutral citation
+2019 TCC 76
+File numbers
+2014-4148(IT)G
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2014-4148(IT)G
+BETWEEN:
+DEANS KNIGHT INCOME CORPORATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on February 13, 14, 15, 16, 19 and 20, 2018
+at Vancouver, British Columbia
+Before: The Honourable Justice B. Paris
+Appearances:
+Counsel for the Appellant:
+J. Kelly Hannan
+Heather DiGregorio
+Darian Khan
+Counsel for the Respondent:
+Robert Carvalho
+Perry Derksen
+Shannon Currie
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2009, 2010, 2011 and 2012 taxation years are allowed, in accordance with the attached Reasons for Judgment.
+The parties will have 30 days from the date of this judgment to arrive at an agreement on costs, failing which they are directed to file their written submissions on costs within 60 days of the date of this judgment. Such submissions shall not exceed 15 pages.
+Signed at Vancouver, British Columbia, this 5th day of April 2019.
+“B.Paris”
+Paris J.
+Citation: 2019 TCC 76
+Date: 20190405
+Docket: 2014-4148(IT)G
+BETWEEN:
+DEANS KNIGHT INCOME CORPORATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Paris J.
+[1] This appeal involves the deduction by the Appellant of accumulated and unclaimed non-capital losses, scientific research and experimental development expenditures (“SRED”) and investment tax credits (“ITCs”) (together the “Tax Attributes”) subsequent to a series of transactions carried out in 2008 and 2009. The transactions were designed to move all of the Appellant’s assets and liabilities into a new corporation and to use the Appellant’s remaining corporate shell to raise money through an initial public offering (“IPO”) to fund a new business whose profits would be sheltered by the Tax Attributes. Tax practitioners refer to this type of arrangement as a “recapitalization and restart transaction”.
+[2] The transactions in issue were set up by an intermediary, Matco Capital Ltd. (“Matco”), a venture capital company. Matco also made a significant investment in the Appellant with the expectation that it would earn a profit from its investment as a result of the transactions that were undertaken.
+Issues
+[3] The first issue to be decided is whether Matco, in the course of the transactions, obtained an option to purchase the majority of the voting shares of the Appellant, and thereby acquired control of the Appellant pursuant to subsection 256(8) and paragraph 251(5)(b) of the Income Tax Act. (the “Act”) [1] If an acquisition of control occurred, the Appellant would be precluded from deducting the Tax Attributes pursuant to subsections 111(5), 37(6.1) and 127(9.1) of the Act, which I will refer to collectively as the tax attribute streaming restrictions.
+[4] In the alternative, the Respondent takes the position that the general anti-avoidance rule in section 245 of the Act (the “GAAR”) applies to deny the deduction of the Tax Attributes.
+Facts
+[5] The parties filed a Partial Statement of Agreed Facts at the hearing. In addition, the Appellant called five witnesses, including David Goold, CFO of the Appellant between 2004 and 2010, and Alan Ross, managing director of Matco and senior tax lawyer at Bennett Jones LLP in Calgary.
+[6] The Appellant was incorporated in 1985 and originally carried on the business of mineral exploration. In 1992, it ceased that activity and began carrying on a drug research and nutritional food additive business.
+[7] The Appellant’s shares were listed on the Toronto Stock Exchange in 1999 and on the NASDAQ Stock Market in 2000.
+[8] In 2007, the Appellant began experiencing cash flow problems following disappointing results in a clinical trial of a drug it was developing. Its share price dropped and, as a result, it faced a possible NASDAQ delisting.
+[9] In light of these difficulties, the Appellant, with the assistance of advisers at PricewaterhouseCooper (“PwC”), began investigating the possibility of realizing some value from its Tax Attributes. Given the problems it was facing, the Appellant considered it unlikely that it would be able to use the Tax Attributes at any future point. The amount of the Tax Attributes was approximately $90 million.
+[10] In May 2007, Goold told the Appellant’s board of directors about the possibility of reorganizing the Appellant in order to realize a value of between 4 and 4.5 cents on the dollar for its Tax Attributes, for a total of between $3.5 million and $4 million. According to the minutes of that meeting, Goold advised the directors that the reorganization would involve the transfer of all existing assets and liabilities of the Appellant to a new corporation with the same shareholders as the Appellant, and the takeover of the Appellant itself – which at that point would essentially be a shell corporation with the Tax Attributes - by another taxable Canadian entity which would be able to use the Attributes.
+[11] The Appellant’s financial problems continued to worsen and by November 2007 it had six months of cash left.
+[12] On November 9, 2007, Goold reported to the board of directors that the Appellant had received two proposals regarding the possible tax reorganization of the Appellant, including one from Matco. The minutes of the November 9, 2007 Board meeting show that Matco intended “to roll the acquired company into an oil and gas venture which Matco has already targeted…and will take a fee plus an interest in the oil and gas company.”
+[13] On November 13, 2007 Matco and the Appellant executed a letter of intent (the “November LOI”) which included the following terms:
+- Matco would pay the Appellant $4 million by way of purchasing a $2.9 million convertible debenture in the Appellant and by payment of an additional $1.1 million (as described below) within a year.
+- To the extent the Tax Attributes were over $92 million or under $90 million, there would be an adjustment to the price using a ratio of $0.0414 per dollar.
+- The convertible debenture held by Matco would be convertible into 35% of the voting shares and all of the non-voting shares of the Appellant, which together would represent 77.78% of all of the issued and outstanding shares.
+- The existing assets and liabilities of the Appellant would be transferred to a new company (“Newco”), the shares of which would be owned by the present shareholders of the Appellant. Newco would become the parent of the Appellant.
+- Newco would be guaranteed an opportunity to sell its Remaining Shares of the Appellant for minimum proceeds of $1.1 million within one year.
+[14] In December 2007, Matco advised Goold that it would not be proceeding with the proposal. Ross testified that the oil and gas transaction it was working on fell apart and the Tax Attributes were no longer required. Matco also advised the Appellant that it would be open to pursuing an alternative transaction in 2008.
+[15] In early 2008, the Appellant carried out a plan of arrangement pursuant to which a new company, 0813361 B.C. Ltd. (“Newco”) was incorporated and all outstanding common shares, options and warrants of the Appellant were exchanged for common shares options and warrants of Newco on an eight to one basis.
+[16] Newco was incorporated on January 10, 2008 and the plan of arrangement closed on February 27, 2008. As a result of the share exchange, the Appellant became a wholly owned subsidiary of Newco and the shares of Newco began trading on the TSX and NASDAQ in substitution for the common shares of the Appellant.
+[17] According to a Management Information Circular of the Appellant dated January 14, 2008, the reorganization was being undertaken in part to facilitate the Appellant’s compliance with the NASDAQ minimum bid-price listing standards. The Circular also stated that:
+Management of [the Appellant] believes that, in addition to achieving NASDAQ minimum bid-price listing standards, this structure will provide greater flexibility and enable Forbes to accommodate and capitalize on certain financing opportunities that may arise in the future.
+[18] Both Ross and Goold testified that negotiations between Matco and the Appellant began again in January 2008, but that they had not reached any agreement when the plan of arrangement was carried out.
+[19] On March 4, 2008, Matco and the Appellant entered into another letter of intent (the “March LOI”) which contained terms that were substantially similar to the November LOI. The March LOI provided that:
+- Newco would receive $3.8 million from the purchase by Matco of a convertible debenture issued by the Appellant for $3 million (convertible into 35% of the voting shares and 100% of the non-voting shares of the Appellant, representing 79% of the equity shares of the Appellant) and an additional amount of $800,000 within one year. The amounts were subject to adjustment based on the amount of the Tax Attributes.
+- All of the existing assets of the Appellant and the amount paid by Matco for the debenture would be transferred to Newco and Newco would assume all of the liabilities of the Appellant (the “Spinning Out Transaction”).
+[20] The March LOI provided that the proceeds to be received by the Appellant would be adjusted upwards or downwards by 4.2 cents for every dollar that the Tax Attributes were more or less than $90.8 million.
+[21] On March 19, 2008 Matco, the Appellant and Newco entered into an agreement (the “Investment Agreement”) as outlined in the March LOI. Matco agreed to purchase a debenture for $3 million, later adjusted to $2.96 million, convertible into 35% of the voting common shares and 100% of the non-voting common shares of the Appellant (the “Convertible Debenture”), and the Appellant agreed to complete the Spinning Out Transaction and not to do anything that would destroy the value of its Tax Attributes.
+[22] Under the Investment Agreement, Matco guaranteed that Newco could sell its remaining shares (“the “Remaining Shares”) of the Appellant for a minimum of $800,000 (the “Guaranteed Amount”). However, the Agreement provided that Newco would not be obliged to sell its shares of the Appellant to Matco at any time. The Remaining Shares made up 65% of the voting shares of the Appellant.
+[23] According to the Investment Agreement, Matco would have one year to present a “Corporate Opportunity” to the Appellant and Newco. Ross described a Corporate Opportunity as a business opportunity that would be suitable for the Appellant to commence, involving a new business and management team. This was to be the business that would generate profits against which the Tax Attributes would be deducted. If Newco rejected a Corporate Opportunity presented to it by Matco, Matco would be relieved from the payment of the Guaranteed Amount.
+[24] In the event that Newco or the Appellant took any steps that gave rise to an acquisition of control of the Appellant or Newco, Matco would no longer be required to pay the Guaranteed Amount and Newco would be required to re purchase the Convertible Debenture from Matco and pay an additional $1 million to Matco.
+[25] The Investment Agreement also stated that, other than as contemplated by the Agreement, Newco and the Appellant could not, without the consent of Matco take any of the following actions:
+- issue any shares, options, warrants, calls, conversion privileges or rights of any kind to acquire any shares of the Appellant
+- sell, transfer, pledge, encumber or dispose of or agree to sell, transfer, pledge, encumber or dispose of any shares of, or any options, warrants, calls, conversion privileges or rights of any kind to acquire any shares of the Appellant,
+- change or amend the Appellant’s constating documents or by-laws,
+- split, combine or reclassify any outstanding shares of the Appellant;
+- redeem or purchase any shares of the Appellant,
+- reorganize, amalgamate or merge the Appellant,
+- take any action or make any commitment with respect to, or in contemplation of, any complete or partial liquidation, dissolution or other winding-up of the Appellant,
+- declare and/or pay dividends or reduce the capital of the Appellant,
+- take any action that would or may give rise to a change of control of Newco or the Appellant,
+- enter into, assign, terminate or amend any contract or agreement in respect of the Appellant,
+- create any encumbrance on any of the assets of the Appellant,
+- in respect of the Appellant, create, incur, guarantee, or assume any indebtedness for borrowed money or otherwise become liable or responsible for the obligations of any other person,
+- in respect of the Appellant, make any loans, advances, or capital contributions to, or investments in, any other person,
+- change in any respect any of the accounting principles or practices used by Newco or the Appellant, except for any change required by reason of a concurrent change in GAAP; and
+- engage in any activity other than examining and pursuing opportunities relating to the further $800,000 commitment made by Matco.
+[26] Immediately prior to the execution of the Investment Agreement, 1250280 Alberta Ltd. (“125”), a holding company wholly-owned by Ross, purchased 100 shares of the Appellant from Newco for $10. One of the purposes of having 125 acquire the shares of the Appellant was to ensure that the Investment Agreement would not constitute a unanimous shareholder agreement, since 125 was not a party to the Investment Agreement.
+[27] On May 9, 2008:
+- Newco purchased the Appellant’s assets in exchange for a promissory note to the Appellant and the assumption of the Appellant’s liabilities.
+- Matco subscribed for the Convertible Debenture in the principal amount of $2,960,000.
+- The Appellant transferred the $2,960,000 and assigned the promissory note to a subsidiary of Newco.
+- All but one of the directors of the Appellant resigned, and Goold and Ross were elected directors.
+[28] During the summer and fall of 2009, Matco took steps to find a business that could use the Appellant’s Tax Attributes.
+[29] In December 2008, Matco learned that Deans Knight Capital Management (“DKCM”), a mutual fund management company, was interested in starting a business investing in high-yield debt instruments. DKCM saw an opportunity in high-yield bonds, which were selling at low prices because of the financial crisis. DKCM determined that it would be more suitable for its purposes to set up the investment through a corporation rather than as a mutual fund, in order to ensure that the investors’ capital would be locked up for a sufficient period of time.
+[30] DKCM intended to raise money for the investments by means of an initial public offering (“IPO”) and to pay returns to investors as the debt instruments paid returns or were redeemed.
+[31] In December 2008, Matco proposed that DKCM use the Appellant as the corporate vehicle for the intended IPO and DKCM decided to use the Appellant rather than a newly incorporated company because of the availability of the Tax Attributes. In submissions to the B.C. Securities Commission, DKCM stated that it expected that the Tax Attributes would shelter the majority of the portfolio income and capital gains for the entire five years the Appellant was projected to operate.
+[32] Matco presented the DKCM proposal to the Appellant as the “Corporate Opportunity” pursuant to the Investment Agreement. Both Goold and Ross testified that the board of directors of the Appellant discussed the proposal, did some investigation into DKCM’s background, and then approved the proposal.
+[33] On December 19, 2008, DKCM and the Appellant entered into a letter of intent to have the Appellant undergo a recapitalization and reorganization to become a dividend paying investment company to capitalize on the availability of the Tax Attributes. The letter of intent included the following conditions:
+- The Appellant would have at least $95 million in deductible amounts (for income tax purposes) available to be used against income earned by the corporation in Canada;
+- DKCM would be appointed to manage the Appellant;
+- Four of the five directors of the Appellant would be appointed by DKCM;
+- The Appellant would agree to be used in a $100 million minimum public offering (the “IPO”), the proceeds of which would be used to purchase corporate debt securities that would generate income and gains that could be sheltered by the Tax Attributes.
+- The pricing of the IPO would be done in a manner to attribute a net asset value of $5 million to the existing common shares of the Appellant.
+[34] In early 2009, the Appellant engaged investment dealers to prepare the IPO.
+[35] On February 5, 2009, the President of DKCM became a director of the Appellant, and the Appellant’s name was changed to its current name, Deans Knight Income Corporation.
+[36] On March 18, 2009, immediately prior to the IPO, Matco converted its debenture into 35% of the voting shares and 100% of the non-voting shares of the Appellant. It also obtained an exception to the six month post-IPO lock-up period to enable it to purchase the Remaining Shares from Newco prior to the expiry of the one year Guarantee Period on April 30, 2009.
+[37] Also on March 18, 2009, Ross and four nominees of DKCM were appointed as the directors of the Appellant, and three officers of DKCM were appointed as officers of the Appellant.
+[38] The IPO closed on March 18, 2009 and 10,036,890 common shares were issued at $10 per share for proceeds of $100,368,900. As a result, Matco’s shares of the Appellant were valued at $4,148,000.
+[39] On April 16, 2009, Matco, through a related corporation, made an offer to Newco to purchase the Remaining Shares at the Guaranteed Amount. Newco accepted the offer on April 20, 2009.
+[40] Goold testified that Newco accepted the offer despite the discount to the IPO price because it needed the money for its own operations and because Newco’s board believed that the share price might go down before the end of the lock-up period.
+[41] The Appellant’s high-yield bond investment business proved successful and over the first four years it paid regular dividends to its shareholders. In the fifth year of the business, the Appellant began to wind up operations, as initially contemplated.
+[42] In filing its income tax return for the taxation year ending December 31, 2009, the Appellant claimed a terminal loss in the amount of $1,961,758 from its taxation years ending December 31, 2007 and preceding years.
+[43] In filing its income tax returns for the taxation years ending December 31, 2009 to December 31, 2012 and in computing its income, the Appellant claimed non-capital losses and SRED expenditures from its taxation years ending December 31, 2007 and preceding years as follows:
+Non-capital loss
+SRED
+December 31, 2009
+$26,968,031
+Nil
+December 31, 2010
+$21,491,406
+$937,370
+December 31, 2011
+Nil
+$5,943,668
+December 31, 2012
+Nil
+$9,382,189
+[44] By notices dated July 16, 2014, the Minister of National Revenue (the “Minister”) reassessed the 2009 to 2012 taxation years of the Appellant to disallow the claimed Tax Attributes and Terminal Loss.
+Did the Appellant obtain a right to acquire the majority of the voting shares of
+the Appellant?
+[45] The first issue to be decided is whether Matco obtained a right under the Investment Agreement to acquire the majority of the voting shares of the Appellant, thereby acquiring control of the Appellant pursuant to subsection 256(8) and paragraph 251(5)(b) of the Act.
+[46] Subsection 256(8) provides that where a person acquires a right referred to in paragraph 251(5)(b) (a “251 Right”), and it can reasonably be considered that a main purpose of acquiring that right was to avoid the limitations on the deduction of certain Tax Attributes, including those at issue in this case, the taxpayer will be deemed to be in the same position in relation to the control of the corporation as if the right had been exercised when it was acquired, including for the purposes of determining whether there has been an acquisition of control. If an acquisition of control results, the taxpayer is prevented from claiming those tax attributes subject to any exception provided for in the Tax Attributes streaming rules.
+[47] During the years in issue subsection 256(8) read as follows:
+Where at any time a taxpayer acquires a right referred to in paragraph 251(5)(b) in respect of a share and it can reasonably be concluded that one of the main purposes of the acquisition is
+(a) to avoid any limitation on the deductibility of any non-capital loss, net capital loss, farm loss or any expense or other amount referred to in subsection 66(11), 66.5(3) or 66.7(10) or (11),
+(b) to avoid the application of subsection 10(10) or 13(24), paragraph 37(1)(h) or subsection 55(2) or 66(11.4) or (11.5), paragraph 88(1)(c.3) or subsection 111(4), (5.1), (5.2) or (5.3), 181.1(7) or 190.1(6),
+(c) to avoid the application of paragraph (j) or (k) of the definition “investment tax credit” in subsection 127(9),
+(d) to avoid the application of section 251.1, or
+(e) to affect the application of section 80,
+the taxpayer is deemed to be in the same position in relation to the control of the corporation as if the right were immediate and absolute and as if the taxpayer had exercised the right at that time for the purpose of determining whether control of a corporation has been acquired for the purposes of subsections 10(10) and 13(24), section 37, subsections 55(2), 66(11), (11.4) and (11.5), 66.5(3), 66.7(10) and (11), section 80, paragraph 80.04(4)(h), subparagraph 88(1)(c)(vi), paragraph 88(1)(c.3), sections 111 and 127 and subsections 181.1(7), 190.1(6) and 249(4), and in determining for the purpose of section 251.1 whether a corporation is controlled by any person or group of persons.
+[48] The material portions of paragraph 251(5)(b) for the purposes of this argument read as follows:
+(b) … a right under a contract, in equity or otherwise, either immediately or in the future and either absolutely or contingently,
+(i) to, or to acquire, shares of the capital stock of a corporation …
+[49] The Respondent submits that under the Investment Agreement Matco obtained the right to acquire all of voting shares of the Appellant from Newco minus the 100 shares owned by 125. Since a right to acquire shares is a right that falls within paragraph 251(5)(b) of the Act, and since, according to the Respondent, Matco acquired the right for the purpose of circumventing the tax attribute streaming restrictions, subsection 256(8) would apply to deem Matco to have exercised the right, resulting in an acquisition of control of the Appellant. As a result, the Appellant would be precluded from deducting the Tax Attributes.
+[50] Under the Convertible Debenture provided for in the Investment Agreement, Matco had the option to acquire 35% of the voting shares and 100% of the non-voting shares of the Appellant, through the exercise of its conversion right.
+[51] In addition, the Respondent says that the Investment Agreement gave Matco the right (which the Respondent refers to as the “Residual Right”) to acquire the Remaining Shares in exchange for the Guaranteed Amount.
+[52] In the Respondent’s submission, one of Matco’s main purposes in acquiring the Convertible Debenture and the Residual Right was to avoid the limitations on the deduction of the Tax Attributes.
+[53] Since the Appellant does not dispute that the Convertible Debenture gave Matco the right to acquire shares of the Appellant, I will only deal with the Respondent’s argument concerning the so called Residual Right.
+[54] The Respondent says that, it was fundamental to the deal between Matco, Newco and the Appellant and that it was clearly intended by all that Matco would acquire the Remaining Shares pursuant to the Residual Right. Counsel says that the true nature, purpose or effect of the Residual Right was a right to acquire shares of the Appellant and that any terms of the Investment Agreement that would suggest otherwise were mere “window dressing”. Counsel also says that Matco needed to secure a right to the Remaining Shares of the Appellant in order for it to receive the increase in value of the Appellant occasioned by Matco finding a third party to utilize the Tax Attributes.
+[55] The Respondent submits that there was no possibility of Matco not acquiring the Remaining Shares, given that it would be liable to pay the Guaranteed Amount whether or not it purchased the shares. Likewise, the Appellant would have to agree to sell the shares in order to receive the Guaranteed Amount and since Matco had to approve any sale by the Appellant of its shares to a third party, Matco had complete control over any sale.
+[56] Furthermore, the Respondent says that the subsequent conduct of the parties demonstrated that the Residual Right was treated by them as an option, since Newco sold the Remaining Shares to Matco for less than it would have been able to obtain if it had waited until the end of the post-IPO lock-up period to sell them. Also, Newco did not seek to obtain an exemption for its shares from the lock-up period, and took no part in the negotiations with DKCM over the amount at which the existing shares of the Appellant would be valued.
+[57] For the reasons that follow, I find that on a proper construction of the Investment Agreement, Matco did not have a right to acquire the Remaining Shares.
+[58] Under the terms of the Investment Agreement, Matco was obliged to present a “Sale Opportunity” in respect of the Remaining Shares of the Appellant to Newco within the year following the closing of the Investment Agreement, and Matco guaranteed a minimum price to the Appellant of $800,000 for those shares (subject to certain adjustments). In the event that Matco did not present a Sale Opportunity or Partial Sale Opportunity as required, it would still be liable to pay the Guaranteed Amount. If Newco did not accept a Sale Opportunity, Matco’s liability to pay the Guaranteed Amount terminated.
+[59] The Investment Agreement specifically provided that Newco was not required to sell any of the Remaining Shares prior to or during the Guarantee Period or at any other time. Section 5.8 of the Investment Agreement reads as follows:
+5.8 [Newco] shall not be required to sell any of the Remaining Shares prior to or during the Guarantee Period or at any other time.
+[60] The Respondent has not shown that this term was a sham or inconsistent with any other rights in the Agreement or with the Agreement read as a whole.
+[61] First, the Investment Agreement did not give Matco complete control over the sale of the Remaining Shares and Newco was not required to obtain Matco’s consent for a sale, as alleged by the Respondent. The relevant part of paragraph 6.1(b) of the Investment Agreement sets out that:
+Other than as contemplated by this Agreement (including pursuant to the Reorganization, a Sale Opportunity, a Partial Sale Opportunity or a Corporate Opportunity), [Newco] shall not, and to the extent applicable shall cause [the Appellant] not to, without the prior written consent of Matco acting reasonably,
+…
+… sell, transfer, pledge, encumber or dispose of or agree to sell, transfer, pledge, encumber or dispose of any shares of, or any options, warrants, calls, conversion privileges or rights of any kind to acquire any shares of [the Appellant.]
+[62] A “Sale Opportunity” is defined in the Investment Agreement generally as a transaction that would result in the sale of the Remaining Shares to one or more arm’s-length third parties. Nothing in the Investment Agreement requires that Matco be the party presenting a Sale Opportunity. The Investment Agreement also appears to contemplate the possibility of a sale of the Remaining Shares (or some of those shares) to a third party, without the need for Matco’s consent, since according to paragraph 6.1(b) of the Agreement, the requirement to obtain Matco’s consent does not apply to situations contemplated by the Agreement, including a Sale Opportunity. It is inaccurate, then, to say that any sale of the Appellant’s shares would require Matco’s consent and it cannot be said that Matco had complete control over any sale by Newco of the Remaining Shares.
+[63] I find that the Respondent’s reliance on what it called the “economics of the transaction” is in effect an attempt to recharacterize the legal relationships of the parties based on what it views as the substance of the Investment Agreement. This is not permitted. This principle is set out by the Supreme Court of Canada in Shell Canada Ltd. v. Canada.
+…absent a specific provision of the Act to the contrary or a finding that they are a sham, the taxpayer’s legal relationships must be respected in tax cases. Recharacterization is only permissible if the label attached by the taxpayer to the particular transaction does not properly reflect its actual legal effect (citations omitted.) [2]
+[64] Also, the Respondent’s position that it was the intention of all parties to the Investment Agreement that Matco would acquire the Remaining Shares was not consistent with the testimony of both Ross and Goold. In particular, Goold said that there was no understanding by Newco or the Appellant that Matco would always purchase the shares. Furthermore he said that it was Newco’s choice to sell the Remaining Shares to Matco, and that, although the board of Newco understood that it could choose to wait until the lock-up period expired to sell its shares, the decision was made to accept Matco’s offer in April 2009 because Newco needed the money for its operations and was concerned about the possibility of a decline in value of those shares if held until the end of the lock-up period. I accept Goold’s testimony on this point. He has no interest in the outcome of these proceedings and his recollection of the events surrounding Matco’s offer to purchase the shares and the board’s decision to sell was clear and uncontradicted. I therefore find him to be a credible witness. It is also plausible that Newco preferred to sell its shares sooner rather than later, given the shaky state of the financial markets in 2009.
+[65] Furthermore, I find nothing to support the contention that Matco could only profit from the monetization of the Appellant’s Tax Attributes if it acquired the Remaining Shares. After the conversion of the Convertible Debenture for which it paid $2.96 million, Matco held 35% of the voting shares and 100% of the non-voting shares, and those shares were given a value of over $4 million in the IPO. Clearly Matco earned a significant profit without acquiring the Remaining Shares. I would also note that the additional profit it stood to make by acquiring the Remaining Shares was only approximately $200,000. In my view, Matco was careful to structure the transactions to not create any right to acquire the Remaining Shares in order to avoid an acquisition of control under the Act. It is more likely than not that it preferred to give up some of the upside in order to achieve this goal.
+[66] I therefore find that Matco did not acquire a 251 Right in respect of the Remaining Shares and therefore did not acquire control of the Appellant.
+GAAR
+[67] In a GAAR analysis, three questions must be addressed. Was there a tax benefit? If so, were the transactions that gave rise to that benefit avoidance transactions, and if so, were those transactions abusive? [3]
+[68] The following transactions were assumed by the Minister to be avoidance transactions (the “Avoidance Transactions”) within the meaning of subsection 245(3) of the Act:
+- The Appellant’s adoption of a strategy related to the “Realization of Tax Loss Value,” in order to sell its Tax Attributes.
+- Matco’s offer to issue a Convertible Debenture to the Appellant.
+- The Investment Agreement between Matco and the Appellant to restructure the Appellant.
+- The incorporation of Newco.
+- The distribution of Newco shares to the existing shareholders of the Appellant.
+- The sale of the Appellant’s assets (at a loss) to Newco.
+- The issuance of the Convertible Debenture between Matco and the Appellant.
+- The conversion of the Convertible Debenture by Matco.
+- Matco’s purchase of all of the shares of the Appellant held by Newco after the IPO closed.
+- The application of the non-capital losses and terminal losses and the deduction of the SRED expenditures incurred by the Appellant in the years 2009 to 2012.
+[69] The term “tax benefit” is defined in subsection 245(1) of the Act as:
+…a reduction, avoidance or deferral of tax or other amount payable under this Act or an increase in a refund of tax or other amount under this Act and includes a reduction, avoidance or deferral of tax or other amount that would be payable under this Act but for a tax treaty or an increase in a refund of tax or other amount under this Act as a result of a tax treaty;
+[70] The Appellant submitted that none of the transactions alleged by the Respondent to give rise to the tax benefit resulted in the Appellant claiming the Tax Attributes, and that the tax benefit in this case only arose by virtue of the Appellant carrying on business after the close of the IPO. It was argued that, had the Appellant not had any income from its post-IPO business, it would not have been able to claim the Tax Attributes. The Appellant said that the income earning activities could not be considered as part of the series of transactions, and that, while the Tax Attributes were preserved by the series of transactions, their preservation does not constitute a reduction, deferral or avoidance of tax. The Appellant relies on the following excerpt from Copthorne:
+In the agreed statement of facts, the parties agreed that the sale of VHHC Holdings to Big City, and the subsequent amalgamation of VHHC Holdings with Copthorne I to form Copthorne II were part of a series of transactions. However, these transactions themselves did not result in a tax benefit. The tax benefit was only realized when Copthorne III redeemed its shares without its shareholder incurring an immediate tax liability. Thus, it is necessary to decide whether the redemption transaction is part of the series of transactions which included the sale of VHHC Holdings to Big City and the subsequent amalgamation of Copthorne I and VHHC Holdings. [4]
+[71] In the Appellant’s view, the preservation of the Tax Attributes in this case, like the preservation of PUC by the first series of transactions in Copthorne, did not result in the Appellant realizing a tax benefit.
+[72] Finally, the Appellant stresses that the Tax Attributes arose as a result of carrying on its own business in years prior to the IPO and that no new Tax Attributes were created by the alleged avoidance transactions.
+[73] I find no merit in the Appellant’s submissions regarding the tax benefit. It is clear that the transactions in issue resulted in a reduction of tax to the Appellant through the claiming of the Tax Attributes in the years in issue. As the Supreme Court noted in Canada Trustco, “[i]f a deduction against taxable income is claimed, the existence of a tax benefit is clear, since a deduction results in a reduction of tax.” [5]
+[74] It is not necessary for the avoidance transactions to include the claiming of the tax benefit, as suggested by the Appellant. The tax benefit must simply result directly or indirectly from the avoidance transaction or transactions.
+[75] The argument that the tax benefit resulted from the income earned after the IPO rather than from the alleged avoidance transactions fails to recognize that without the existence of those transactions, none of the Tax Attributes would have been available to claim against the post-IPO income. Therefore, it follows that the Tax Attribute deductions resulted from the alleged avoidance transactions.
+[76] One way to establish that a tax benefit exists is by comparison with an alternative arrangement that could reasonably have been undertaken. This is set out by the Supreme Court in Copthorne:
+As found in Trustco, the existence of a tax benefit can be established by comparison of the taxpayer’s situation with an alternative arrangement (para. 20). If a comparison approach is used, the alternative arrangement must be one that “might reasonably have been carried out but for the existence of the tax benefit” (D. G. Duff, et al., Canadian Income Tax Law (3rd ed. 2009), at p. 187). By considering what a corporation would have done if it did not stand to gain from the tax benefit, this test attempts to isolate the effect of the tax benefit from the non-tax purpose of the taxpayer. [6]
+[77] In this case, an appropriate comparator would be the use of a new corporation by DKCM to carry on the investment business. This was contemplated by DKCM but rejected in favour of using the Appellant only because of existence of the Tax Attributes. This shows clearly that there was a tax benefit as a result of the transactions in issue.
+[78] Turning to the issue of whether the transactions relied upon by the Respondent were avoidance transactions, the Appellant takes the position that all of the impugned transactions were carried out primarily for a bona fide business purpose.
+[79] The Appellant points to the evidence showing that from late 2006 into 2007 it was attempting to raise new financing and to pursue new business opportunities and that the plan to raise money from its Tax Attributes must be considered in this context. It entered into the Investment Agreement and DKCM LOI and took all necessary steps to reorganize and recapitalize itself in furtherance of its intention to start a new business.
+[80] The Respondent argues that the Appellant did not raise the argument that the transactions were carried out primarily for a non-tax purpose in its Notice of Appeal and pleaded no facts to support it and therefore is precluded from raising it.
+[81] I agree with the Respondent. The record shows that the Appellant brought an application shortly before the hearing of the appeal for leave to amend its Notice of Appeal to add the argument and plead additional facts in support, but the application was dismissed. That decision was not appealed. Therefore, given the Appellant’s failure to plead this argument and any necessary material facts, it is not now open to the Appellant to take the position that the alleged avoidance transactions were entered into primarily for a non-tax purpose.
+[82] However, if it had been necessary to decide the question, I would have found that the Appellant did not rebut the assumptions made by the Respondent concerning the Appellant’s purpose in entering into the transactions.
+[83] The evidence shows beyond a doubt that the Appellant’s primary purpose in entering into the Investment Agreement and restructuring itself and all related transactions was to carry out a “monetization” of the Tax Attributes. Goold’s testimony in this regard was clear and was fully supported by the contemporaneous documentation. While the Appellant argued that the purpose of raising funds was a non-tax purpose, it is clear that those transactions would not have been undertaken but for the tax purpose. The means by which the Appellant raised funds was through the “monetization” of its Tax Attributes, and it is obvious that the reduction of tax was the primary reason for carrying out the transactions.
+[84] The next question to be determined is whether the Avoidance Transactions amounted to abusive tax avoidance under subsection 245(4) of the Act.
+[85] Under subsection 245(4), the Court must apply a two stage analysis. First, it must undertake a textual and purposive analysis of the provisions giving rise to the tax benefit in order to determine the object, spirit and purpose of those provisions. Second, it must decide whether the impugned transaction or transactions frustrate or defeat the object spirit or purpose of the provisions in issue. In Copthorne the Supreme Court stated that:
+69 In order to determine whether a transaction is an abuse or misuse of the Act, a court must first determine the “object, spirit or purpose of the provisions . . . that are relied on for the tax benefit, having regard to the scheme of the Act, the relevant provisions and permissible extrinsic aids” (Trustco, at para. 55). The object, spirit or purpose of the provisions has been referred to as the “legislative rationale that underlies specific or interrelated provisions of the Act” (V. Krishna, The Fundamentals of Income Tax Law (2009), at p. 818).
+70 The object, spirit or purpose can be identified by applying the same interpretive approach employed by this Court in all questions of statutory interpretation — a “unified textual, contextual and purposive approach” (Trustco, at para. 47; Lipson v. Canada, 2009 SCC 1 (CanLII), [2009] 1 S.C.R. 3, at para. 26). While the approach is the same as in all statutory interpretation, the analysis seeks to determine a different aspect of the statute than in other cases. In a traditional statutory interpretation approach the court applies the textual, contextual and purposive analysis to determine what the words of the statute mean. In a GAAR analysis the textual, contextual and purposive analysis is employed to determine the object, spirit or purpose of a provision. Here the meaning of the words of the statute may be clear enough. The search is for the rationale that underlies the words that may not be captured by the bare meaning of the words themselves. However, determining the rationale of the relevant provisions of the Act should not be conflated with a value judgment of what is right or wrong nor with theories about what tax law ought to be or ought to do. [7]
+[86] The provisions engaged in this case are paragraphs 111(1)(a) and 37(1)(a) and subsection 127(9) of the Act, which allow for the carryover of non-capital losses, SRED expenditures and ITCs, as well as the tax attribute streaming restrictions in subsections 111(5), 37(6.1) and 127(9.1), and certain provisions of the Act relating to control, including subsection 256(8) and paragraph 251(5)(b).
+[87] In these reasons, I propose to determine the object, spirit and purpose of paragraph 111(1)(a) and subsection 111(5). Given the similar nature of the way in which the non-capital loss, SRED and ITC streaming restrictions in subsection 111(5), subsections 37(6.1) and 127(9.1) operate to deny carryovers or deductions where there is an acquisition of control by a person or group of persons, I will conduct the analysis only with regard to subsection 111(5) and apply the results to the other tax attribute streaming restrictions. This is consistent with the way in which the case was argued by the parties, as well. I will also consider the object, spirit and purpose of subsection 256(8) and paragraph 251(5)(b) for the purposes of the Respondent’s second argument.
+[88] The Appellant argues that the analysis of the policy with respect to the carryover of losses in paragraph 111(1)(a) of the Act shows that the general rule is to allow the offset of non-capital losses against profits without restriction. The Appellant also says that the Respondent has not shown that the Act contains a clear policy that prevents a taxpayer from realizing on the value of its Tax Attributes in a way that does not fall within any of the specific anti-avoidance rules.
+[89] The Appellant also submits that Parliament only intended to deny loss carryovers under subsection 111(5) where there has been an acquisition of de jure control, meaning that the person or persons having “absolute control” over the direction of the corporation have changed. Accordingly, the purpose of subsection 111(5) is to “restrict the deductibility of a taxpayer’s losses where a person, or a group of persons, has achieved an ownership level that allows them to control how the taxpayer conducts its business”.
+[90] The Appellant maintains that it did not engage in loss trading by engaging in the transactions in issue and that no other party at any point acquired effective control over it. Under the Investment Agreement, Matco obligated itself to assist the Appellant with the commencement of a new business that would enable the Appellant to utilize its accumulated Tax Attributes. The new business that the Appellant began was successful and carried on operations with economic substance, and generated real economic activity. The Appellant says that the process it followed in setting itself up to conduct that new business did not offend any policy in the Act and in fact aligns with the intention of Parliament to encourage corporate turn arounds by allowing for the carrying forward of losses except where an acquisition of control has occurred.
+[91] The Respondent, on the other hand, says that this case represents a true loss trading transaction and that the overall result is the same as a straight loss purchase. The Respondent maintains that the avoidance transactions were structured to circumvent the loss streaming rules, and as such, clearly frustrate the purpose of those rules and the general policy of the Act, read as a whole, against loss trading.
+[92] The Respondent says that the general policy in the Act against loss trading is subject only to certain limited and express exceptions for transfers within a related corporate group or where the loss business is rehabilitated. The Respondent says that the transfer of losses between the Appellant’s former business and its high-yield bond investment business does not fit within the object, spirit or purpose of those express exceptions.
+[93] The Respondent further submits that the avoidance transactions amounted to an abuse of subsection 256(8) and paragraph 251(5)(b) of the Act. Counsel argues that subsection 256(8) is an anti-avoidance provision designed to extend the acquisition of control rules in cases of tax attribute trading, to take into account situations in which a taxpayer has effective control over shares but not ownership of those shares. The Respondent says that Matco technically avoided acquiring a 251 Right to the Remaining Shares but still had effective control over them, thereby abusing the object, spirit and purpose of subsection 256(8).
+Object, spirit or purpose of paragraph 111(1)(a) and subsection 111(5)
+[94] Paragraph 111(1)(a) permits a taxpayer to deduct non-capital losses from the preceding 20 years and the following three years against taxable income in the year.
+[95] Paragraph 111(1)(a) read as follows at the material times:
+111 (1) For the purpose of computing the taxable income of a taxpayer for a taxation year, there may be deducted such portion as the taxpayer may claim of the taxpayer’s
+(a) non-capital losses for the 20 taxation years immediately preceding and the 3 taxation years immediately following the year;
+[96] Paragraph 111(1)(a) is part of the regime in the Act relating to the deductibility of losses. Section 111 sets out rules in respect of several types of losses including non-capital losses.
+[97] Over the years, the policy permitting the carryover of losses has become more permissive:
+The tax system first had a brief carryover period during which a loss from a business could offset only income from that business. Over time, the legislative scheme has been amended to expand the carryover period and allow losses to offset any income. …Beginning in 1942, the Income War Tax Act provided a one-year carry forward period for business losses that allowed an offset against income from the same business, and then, from 1958 on, against a loss from any business of the taxpayer. Starting in 1972, a business loss could be offset against a taxpayer’s income from any source commencing in 1972 with the enactment of section 111 footnote. The carryover periods have been extended several times since 1972. [8]
+[98] As it currently reads, paragraph 111(1)(a) places no limit on the type of income against which the losses can be offset, nor does it require that the taxpayer to continue to carry on the same business as the business from which the losses arose. This is indicative, as the Appellant notes, of a policy that generally allows a taxpayer to apply losses from one source of income against income from another.
+[99] The object, spirit or purpose of this provision is to provide relief to taxpayers who have suffered losses, given that the government, through income tax, shares in the income of a taxpayer.
+[100] Subsection 111(5) restricts a corporation’s ability to deduct non-capital and farm losses after an acquisition of control of the corporation by a person or group of persons. Losses continue to be deductible where the corporation continues to carry on for profit or with a reasonable expectation of profit the business that gave rise to the losses, and the losses may only be used to offset income from that business and, in certain circumstances, from a similar business.
+[101] Subsection 111(5) reads as follows:
+Where, at any time, control of a corporation has been acquired by a person or group of persons, no amount in respect of its non-capital loss or farm loss for a taxation year ending before that time is deductible by the corporation for a taxation year ending after that time and no amount in respect of its non-capital loss or farm loss for a taxation year ending after that time is deductible by the corporation for a taxation year ending before that time except that
+(a) such portion of the corporation’s non-capital loss or farm loss, as the case may be, for a taxation year ending before that time as may reasonably be regarded as its loss from carrying on a business and, where a business was carried on by the corporation in that year, such portion of the non-capital loss as may reasonably be regarded as being in respect of an amount deductible under paragraph 110(1)(k) in computing its taxable income for the year is deductible by the corporation for a particular taxation year ending after that time
+(i) only if that business was carried on by the corporation for profit or with a reasonable expectation of profit throughout the particular year, and
+(ii) only to the extent of the total of the corporation’s income for the particular year from that business and, where properties were sold, leased, rented or developed or services rendered in the course of carrying on that business before that time, from any other business substantially all the income of which was derived from the sale, leasing, rental or development, as the case may be, of similar properties or the rendering of similar services and
+(b) such portion of the corporation’s non-capital loss or farm loss, as the case may be, for a taxation year ending after that time as may reasonably be regarded as its loss from carrying on a business and, where a business was carried on by the corporation in that year, such portion of the non-capital loss as may be reasonably be regarded as being in respect of an amount deductible under paragraph 110(1)(k) in computing its taxable income for the year is deductible by the corporation for a particular year ending before that time
+(i) only if throughout the taxation year and in the particular year that business was carried on by the corporation for profit or with a reasonable expectation of profit, and
+(ii) only to the extent of the corporation’s income for the particular year from that business and, where properties were sold, leased, rented or developed or services rendered in the course of carrying on that business before that time, from any other business substantially all the income of which was derived from the sale, leasing, rental or development, as the case may be, of similar properties or the rendering of similar services.
+[102] The restriction on loss carryovers in subsection 111(5) is triggered when “control of a corporation has been acquired by a person or group of persons”.
+[103] The acquisition of control test is the means by which Parliament has determined that a loss has notionally been transferred to an unrelated party. While the Respondent contends that in the context of the GAAR the control aspect of subsection 111(5) is not an important part of its object, spirit and purpose, I disagree. The Federal Court of Appeal has pointed out that “the notion of control is central to the working of subsection 111(5)”. [9] As, such, the test is relevant to the analysis of the object, spirit and purpose of that provision. To ignore it would amount to reading out the test, which is not permitted in interpreting legislation.
+[104] The word “control” in the Act has long been held to mean de jure control. In Duha Printers (Western) Ltd. v. Canada, Iacobucci J. wrote:
+35 It has been well recognized that, under the Income Tax Act, “control” of a corporation normally refers to de jure control and not de facto control. This Court has repeatedly cited with approval the following test, set out by Jackett P. in Buckerfield’s, supra, at p. 507:
+Many approaches might conceivably be adopted in applying the word “control” in a statute such as the Income Tax Act to a corporation. It might, for example, refer to control by “management”, where management and the board of directors are separate, or it might refer to control by the board of directors. . . . The word “control” might conceivably refer to de facto control by one or more shareholders whether or not they hold a majority of shares. I am of the view, however, that in Section 39 of the Income Tax Act [the former section dealing with associated companies], the word “controlled” contemplates the right of control that rests in ownership of such a number of shares as carries with it the right to a majority of the votes in the election of the board of directors. [Emphasis added.]
+Cases in which this Court has applied the foregoing test have included, inter alia, Dworkin Furs, supra, and Vina-Rug (Canada) Ltd. v. Minister of National Revenue, [1968] S.C.R. 193. [10]
+[105] Subsection 111(5) will only apply if control is acquired by “a person or group of persons”. The phrase “group of persons” is not defined in the Act but the Federal Court of Appeal in Silicon Graphics Ltd. v. Canada held that “simple ownership of a mathematical majority of shares by a random aggregation of shareholders in a widely held corporation … without a common connection does not constitute de jure control as that term has been defined in the case law.” [11]
+[106] Subsection 111(5) is part of group of specific rules in subsections 111(4) to (5.3) that limit the carry-forward of non-capital losses, net capital losses, farm losses and unrealized losses on capital, depreciable and eligible capital property owned by the corporation and on doubtful debts. The application of these provisions is triggered by an acquisition of control of the taxpayer corporation by a person or group of persons.
+[107] The forerunner to subsection 111(5), subsection 27(5), was added to the Act in 1958. It prevented losses from being carried over by a corporation to a future year where more than 50% of the share capital of the corporation had been acquired by a person or persons who did not, at the end of the preceding year, own any shares in the capital stock of the corporation (the “aggregate-change-in-shareholdings test”). This provision was added at the same time the Act was amended to permit the use of losses to offset income from any other business carried on by the taxpayer.
+[108] In 1963, the Act was amended to add paragraph 27(5)(a) which provided that no loss carryovers would be permitted where “control of the corporation [was] acquired …by a person or persons who did not, at the end of [the] preceding year, control the corporation.”
+[109] In 1972, subsection 27(5) was replaced by subsection 111(5), which still limited carryovers in the case of an acquisition of control and required the same business in which the loss was sustained continue to be carried on, but allowed the loss carryovers to be offset against a taxpayer’s income from any source. Notably, the aggregate-change-in-shareholdings test was not brought forward into subsection 111(5).
+[110] Beginning in 1981 and continuing until 1987, new rules were introduced to tighten the carryover restrictions in certain respects, including a requirement that the loss business be carried on by the corporation for a profit or with a reasonable expectation of profit. The amount of the deduction was also restricted to the income generated from that business and other similar businesses. Since 1987, subsection 111(5) has remained mostly unchanged.
+[111] Provisions have been introduced in the Act that deem de jure control to exist or not to exist in particular circumstances, and to create a different standard of control of a corporation for certain purposes of the Act.
+[112] Subsection 256(8), discussed earlier in these reasons, expands the concept of de jure control beyond a determination based strictly on the ownership of the voting shares of a corporation by extending the circumstance in which an acquisition of control is considered to have occurred. It is aimed at preventing tax attribute trading in situations where a taxpayer seeks to use certain rights in relation to voting shares to avoid an acquisition of control.
+[113] Again, subsection 256(8) provides that where a person acquires a right listed in paragraph 251(5)(b) and one of the main purposes for acquiring the right was to avoid the application of the loss streaming rules as well as certain other provisions, the taxpayer is deemed to be in the same position in relation to the control of the corporation as if the right had been exercised when it was acquired.
+[114] For the years in issue, the following rights were included in paragraph 251(5)(b):
+- a right to shares;
+- a right to acquire shares;
+- a right to control the voting rights of shares;
+- a right to cause a corporation to redeem shares owned by other shareholders;
+- a right to cause a corporation to acquire shares owned by other shareholders;
+- a right to cause a corporation to cancel shares owned by other shareholders;
+- a right to voting rights in respect of shares;
+- a right to acquire voting rights in respect of shares;
+- a right to control voting rights in respect of shares; and
+- a right to cause the reduction of voting rights in respect of shares owned by other shareholders.
+[115] Subsection 256(8) is thus intended to allow the Minister to look beyond the share registry of the corporation to determine who in substance has control over the voting rights in respect of the shares of a corporation and thus effective control of the corporation.
+[116] Another contextual element to be considered is the de facto control test in subsection 256(5.1), which expands the factors that can be taken into account in determining control of a corporation for certain purposes in the Act. Subsection 256(5.1) was introduced into the Act in 1987, and provides that, (subject to certain exceptions not relevant in this case):
+…where the expression "controlled, directly or indirectly, in any manner whatever," is used in the Act, a corporation shall be considered to be so controlled by another corporation, a person or a group of persons…at any time where…the controller has any direct or indirect influence that, if exercised, would result in control in fact of the corporation..."
+[117] Along with the enactment of subsection 256(5.1), a number of provisions of the Act were amended so that the de facto control test would apply to those provisions. However, it was not adopted for the purposes of subsection 111(5).
+[118] At the heart of the de facto control test is, once again, the notion of control of affairs of a corporation through control over the board of directors. In McGillivray Restaurant Ltd. v. Canada, Ryer J.A. stated that:
+De facto control, like de jure control, is concerned with control over the board of directors and not with control of the day-to-day operations of the corporation or its business. Paragraph 256(1)(b) and subsection 256(5.1) specifically refer to control of a corporation and not to control of the corporation’s business or operations. [12]
+[119] Referring to the Court’s earlier decision in Silicon Graphics Ltd. v. Canada, Ryer J.A. reiterated that:
+in order for there to be a finding of de facto control, a person or group of persons must have the clear right and ability to effect a significant change in the board of directors or the powers of the board of directors or to influence in a very direct way the shareholders who would otherwise have the ability to elect the board of directors. [13]
+[120] Thus, the de jure and de facto control tests are differentiated only by the breadth of factors that can be looked at to determine who has ultimate control over the board of directors.
+[121] The Appellant argued that the introduction of section 256.1 into the Act in 2013 should also be considered part of the relevant context of subsection 111(5) for the years in issue.
+[122] Section 256.1 deems an acquisition of control of a corporation to occur for the purposes of certain sections of the Act, including subsection 111(5), when the value of the interest held by a person or group of persons in the corporation increases to more than 75% of the value of the outstanding shares of the corporation.
+[123] The Appellant maintains that this represented a change to the law and, as such, previous to the enactment of section 256.1 there was no policy in the Act that the acquisition of a substantial economic interest in a corporation was sufficient to trigger an acquisition of control for the purposes of subsection 111(5).
+[124] It is not necessary for me to address this submission, however, in light of the comments of the Federal Court of Appeal in Oxford Properties Ltd. v. Canada concerning the effect of subsequent amendments to the Act in a statutory interpretation exercise. In that decision, Noël C.J.A. wrote:
+Whether an amendment clarifies the prior law or alters it turns on the construction of the prior law and the amendment itself. As explained, the Interpretation Act prevents any conclusion from being drawn as to the legal effect of a new enactment on the prior law on the sole basis that Parliament adopted it. Keeping this limitation in mind, the only way to assess the impact of a subsequent amendment on the prior law is to first determine the legal effect of the law as it stood beforehand and then determine whether the subsequent amendment alters it or clarifies it. [14]
+[125] Finally, subsection 256(7) contains rules deeming control to have been acquired in certain circumstances and not to have been acquired in others. It deals with situations involving transfers of shares between related persons and reorganizations within a group of related corporations, as well as amalgamations and reverse takeovers. These circumstances:
+reflect the intention that a dilution of control, or a loss of control by a person or group of persons to an undefined group, will not be considered offensive except in certain contexts, such as an amalgamation or a reverse takeover. In these circumstances only, wide shareholder bases are consolidated for the purpose of determining control. [15]
+[126] Moving now to purpose, it is clear that subsection 111(5) was enacted to prevent tax loss trading. The restriction on the use of losses is subject to limited exceptions relating to the rehabilitation of the loss business and to the transfer of losses between corporations under common control.
+[127] Subsection 111(5) reflects the general policy in the Act against loss trading between arm’s length parties. In Mathew v. Canada, the Supreme Court of Canada held that “the general policy of the Income Tax Act is to prohibit the transfer of losses between taxpayers, subject to specific exceptions” and that “under such exceptions, Parliament intended to promote a particular purpose concerning a distinct relationship between the transferor and the transferee under specifically described circumstances.” [16]
+[128] It has been suggested that the reason underpinning the choice to deny loss carryovers after an acquisition of control is that after the acquisition of control, the corporation can be likened to a new taxpayer because it has different shareholders.
+[129] This view has been expressed as follows:
+First and foremost, the carryover of losses following a change of control is not generally supported in tax policy terms. Normally, one taxpayer cannot avail himself of another taxpayer’s losses. In the case of an artificial entity such as a corporation, when its control changes it is essentially regarded as a new taxpayer, because different shareholders then become entitled indirectly to enjoy the benefits of its financial success. [17]
+[130] Another author puts it this way:
+It follows that losses should not normally be claimed by the corporation after a significant change of shareholders, on the basis that the former shareholders, who bore the economic costs of the losses, are no longer participants in the corporation's affairs. [18]
+[131] Despite the tax policy basis for using a substantial change in equity investment test to restrict loss carryovers, though, this kind of test was removed from the predecessor section to subsection 111(5) in 1972 and a similar test in subsection 256.1 was not included until 2013. This gives rise to an inference that Parliament did not intend to target substantial equity acquisitions in a loss corporation as a basis for restricting the carryover of its losses.
+[132] It appears that Parliament’s aim in choosing the de jure control test was to achieve certainty and predictability. This was the conclusion of Iacobucci J. in Duha,:
+…At the outset, it is important to bear in mind the distinction between the tests of de jure and de facto control developed by the courts. In my view, the de jure standard was chosen because in some respects it is a relevant and relatively certain and predictable concept to employ in determining control. In general terms, de jure refers to those legal sources that determine control: namely, the corporation’s governing statute and its constitutional documents, including the articles of incorporation and by-laws. The de facto concept was rejected because it involves ascertaining control in fact, which can lead to a myriad of indicators which may exist apart from these sources. See, for example, F. Iacobucci and D. L. Johnston, “The Private or Closely-held Corporation”, in J. S. Ziegel, ed., Studies in Canadian Company Law (1973), vol. 2, 68, at pp. 108-12. [19]
+[133] Iacobucci J. also made the point that the acquisition of control test was a means of determining effective or ultimate control of a corporation:
+…However, it must be recognized at the outset that this test is really an attempt to ascertain who is in effective control of the affairs and fortunes of the corporation. That is, although the directors generally have, by operation of the corporate law statute governing the corporation, the formal right to direct the management of the corporation, the majority shareholder enjoys the indirect exercise of this control through his or her ability to elect the board of directors. Thus, it is in reality the majority shareholder, not the directors per se, who is in effective control of the corporation. This was expressly recognized by Jackett P. when setting out the test in Buckerfield's. Indeed, the very authority cited for the test was the following dictum of Viscount Simon, L.C., in British American Tobacco Co. v. Inland Revenue Commissioners, [1943] 1 All E.R. 13, at p. 15:
+The owners of the majority of the voting power in a company are the persons who are in effective control of its affairs and fortunes. [Emphasis added.] [20]
+[134] It has been suggested that the acquisition of control test in subsection 111(5) is a reasonable marker between situations where the corporation is a free actor in a transaction and when it is only a passive participant whose actions can be manipulated by a new person or group of persons in order to utilize the losses or Tax Attributes of the corporation for their own benefit. [21] I agree with this analysis and find that the object, spirit and purpose of subsection 111(5) is to target manipulation of losses of a corporation by a new person or group of persons, through effective control over the corporation’s actions.
+Object, Spirit and Purpose of Subsection 256(8)
+[135] As seen earlier in these reasons, subsection 256(8), expands the concept of control of a corporation to ensure that a person with effective control over a majority of the share voting rights of a corporation will be considered to control the corporation. Its tax avoidance purpose is apparent from the text of the provision. Section 256 includes other rules that expand the concept of control for various purposes in the Act, as well.
+[136] Again, subsection 256(8) deems a person with a right which is listed in paragraph 251(5)(b) to be in the same position relative to control as if the right was exercised when acquired, if one of the main purposes of acquiring the right was to avoid the application of limitations on deductibility of certain amounts, including non-capital losses or to avoid the application of certain sections.
+[137] Paragraph 251(5)(b) lists rights to acquire shares, or to acquire or control the voting rights over shares, and to rights to cause the corporation to redeem or cancel any other shareholder's shares and applies to rights “under a contract, in equity or otherwise, either immediately or in the future and either absolutely or contingently.” The exceptions made in paragraph 251(5)(b) for rights exercisable only at death, bankruptcy or permanent disability underline its tax avoidance purpose.
+[138] It is apparent that, by extending the test for control to include consideration of rights under paragraph 251(5)(b), Parliament intended to use effective control over shares, as opposed to actual ownership of shares as the appropriate yardstick for control in instances of tax avoidance, including tax attribute trading. The object, spirit or purpose of subsection 256(8), then, is to prevent a taxpayer from circumventing the listed avoidance provisions by acquiring control over shares or share voting rights in order to achieve effective control of the corporation.
+Abuse: Factual Context
+[139] The second step in the analysis under subsection 245(4) is to examine the factual context of a case in order to determine whether the avoidance transaction defeats or frustrates the object, spirit or purpose of the provisions that were relied on. Where a taxpayer has relied on a series of transactions to obtain the tax benefit, the entire factual context of the series must be examined. Abusive tax avoidance will exist if it cannot reasonably be concluded that the resulting tax benefit is consistent with the object, spirit or purpose of the provisions relied upon by the taxpayer. [22]
+[140] Abusive tax avoidance will be found where the transaction achieves an outcome the statutory provision was intended to prevent, defeats the underlying rationale of the provision, or circumvents the provision in a manner that frustrates or defeats its object, spirit or purpose. One or more of these might apply in a given case. [23]
+[141] The Respondent submits first that the avoidance transactions amount to abusive tax avoidance because they achieve an outcome that the general policy of the Act seeks to prevent: the trading of Tax Attributes between unrelated taxpayers. The Respondent says that there is no difference in substance between the result that was achieved in this case and the result of a takeover of the Appellant by another corporation in order to use its Tax Attributes.
+[142] While there is no doubt that a policy against loss trading exists in the Act, it cannot be automatically inferred from this general policy that subsection 111(5) must be read as preventing the Appellant from using the Tax Attributes. As noted by the Supreme Court of Canada in Mathew, a general policy is “but one consideration to be taken into account in determining Parliament’s intention” with respect to a particular provision or provisions of the Act.” [24] The Court also said in Canada Trustco that “[t]he courts cannot search for an overriding policy of the Act that is not based on a unified, textual, contextual and purposive interpretation of the specific provisions in issue.” [25]
+[143] As I have already found, the interpretation of the applicable provisions show that, in the context of a corporation, Parliament has chosen a particular mechanism, an acquisition of control, to be used to identify when a tax attribute is considered to be transferred to an unrelated taxpayer and has made that mechanism an integral part of the loss-streaming rules. That element cannot be read out of the abuse analysis under the guise of a general policy argument. The intent of the test is to determine whether there has been an acquisition of effective control of the corporation, not whether there has been a substantial change in its shareholders or management.
+[144] The issue, then, is whether despite there being no actual acquisition of de jure control by Matco, Matco acquired effective control of the Appellant such that the object, spirit and purpose of subsection 111(5) and the related tax attribute streaming restrictions was circumvented.
+[145] The Respondent argues that it is not necessary to show that the avoidance transactions resulted in the transfer of a loss or other Tax Attributes between different taxpayers, only that they were effectively transferred to an unrelated taxpayer because those associated with the corporation before and after the transactions were completely different.
+[146] The Respondent submits that the following factors demonstrate that the Tax Attributes have effectively been transferred. I will consider whether these factors show an acquisition of effective control of the Appellant as a result of the transactions.
+- After the transactions at issue, the company was owned by entirely different shareholders than those that formerly owned the medical research business.
+- After the transactions at issue, the company was run and managed by people not formerly involved in the medical research business.
+- After the transactions at issue, the medical research business was no longer being carried on by the loss company (having been transferred to a different corporation).
+- After the transactions at issue, the medical research business continued in a different corporation owned by the same shareholders as owned it previously and managed by the same former managers.
+- After the transactions at issue, the company carried on an entirely different business unrelated to the loss business.
+- After the transactions at issue, the company bore no resemblance to the loss company - none of its former assets or liabilities and not even its name.
+[147] In my view, none of these factors are relevant. A change of management, business activity, assets and liabilities and name are not markers of a change of effective control of a corporation under the common law and the change of shareholders that came about as a result of the IPO did not result in a change of effective control because presumably there was no common link between the post-IPO shareholders. The Respondent did not allege that the post IPO shareholders were a “group of persons” within the object, spirit or purpose of subsection 111(5) and its argument was premised on Matco, rather than the post‑IPO shareholders, having acquired control over the Appellant. Also, the Respondent has not argued that the IPO formed part of the Avoidance Transactions.
+[148] Furthermore, as the Appellant points out, changes of management, business activity, assets and liabilities and name do not offend the policy of paragraph 111(1)(a), which places no restriction in that regard on carrying over losses.
+[149] The Respondent has failed to show, then, that these factors are relevant to the determination of whether Matco gained effective control over the business and affairs of the Appellant as a result of the avoidance transactions.
+[150] In my view, there was no attempt here by Matco, Newco and the Appellant to disguise what rights Matco had in respect of the Appellant. Matco simply had no effective control of the Appellant and it did not need to have effective control in order to make the tax plan work.
+[151] The use of the Appellant’s Tax Attributes against income from the investment business could have been achieved even if the Investment Agreement had not been entered into. The Appellant on its own could have arranged with DKCM to raise funds by means of the IPO and to carry on the investment business without the assistance and participation of Matco. To this extent, the transactions agreed to in the DKCM LOI were not dependent on the Investment Agreement. The tax avoidance in this case was achieved essentially because the IPO did not result in an acquisition of control, since the new shareholders were not connected in any way and therefore did not constitute a “group of persons” for the purposes of subsection 111(5). I would again underline the fact that the Respondent has not alleged that the IPO was part of the series of transactions resulted in abusive tax avoidance.
+[152] The Respondent acknowledges that Matco acted as a facilitator in this case and that it did not use the Tax Attributes for itself. The Appellant participated freely in the transactions that resulted in the use of the Tax Attributes against the investment business income, and it was not necessary for Matco to acquire control of the Appellant in order to achieve the desired tax consequences.
+[153] I do not propose to address the Respondent’s submissions that the avoidance transactions circumvent subsection 111(5) in a manner that frustrates or defeats its purpose because there was no rehabilitation of the Appellant’s loss business and no transfer of a loss within a related corporate group, since the Appellant is not alleging that the loss business of appellant was continued or that Matco or DCKM were under common control. The Appellant’s position is predicated on there having been no acquisition of control of the Appellant within the object, spirit or purpose of subsection 111(5).
+[154] I conclude for these reasons that the Avoidance Transactions did not amount to an abuse of the tax attribute streaming restrictions in subsection 111(5) and subsections 37(6.1) and 127(9.1).
+[155] The Respondent also submits that the avoidance transactions run afoul of the policy in the Act relating to the expanded de jure control test set out in subsection 256(8) because the Investment Agreement gave Matco effective control over the voting rights in respect of all of the Appellant’s shares, including the Remaining Shares (except the shares owned by 125 Co) and that Matco, Newco and the Appellant intended at all times that Matco would acquire the Remaining Shares from Newco. The Respondent argues that the circumstances therefore indicate that Matco had effective control over the voting rights of those shares prior to the IPO, such that subsection 256(8) and the Streaming Rules were artificially circumvented.
+[156] In particular, the Respondent submits that the Investment Agreement gave Matco effective control over all of the shares, including the Remaining Shares, prior to the IPO because:
+- After the execution of the Investment Agreement, the Appellant could do nothing other than facilitate Matco’s search for a Corporate Opportunity.
+- Newco could not sell or agree to sell or otherwise deal with its shares of the Appellant without Matco’s consent.
+- The only “sale opportunities” that could be brought to Newco were those that Matco brought.
+- Matco itself could be the “Sale Opportunity”.
+- If there were no other sale opportunities, Matco would either have to pay the guaranteed amount and get nothing or offer to purchase the Remaining Shares itself for the Guaranteed Amount. If Newco refused to sell to Matco, it would not get the Guaranteed Amount.
+[157] For the purposes of this argument, it is only necessary to consider the facts relating to any control Matco had over the Remaining Shares, since it is not disputed it had a right to acquire shares by virtue of the Convertible Debenture. However, I do not believe that the evidence supports the Respondent’s contention that Matco had effective control over the Remaining Shares of the Appellant.
+[158] I have already found that Newco did not require Matco’s consent for any sale of the Remaining Shares.
+[159] I also find that the Investment Agreement did not provide that only Matco could present a Sale Opportunity to Newco. That term is not included in the definition of “Sale Opportunity” and does not appear anywhere else in the Agreement.
+[160] Finally, I am unable to see how the restriction placed on the Appellant’s activities by the Investment Agreement would amount to control over the shares of the Appellant. The Respondent did not elaborate on this point.
+[161] The Respondent also argues that the following circumstances confirm that the Appellant, Newco and Matco intended and acted as though Matco had effective control over the Remaining Shares of the Appellant:
+- Newco appeared unconcerned with the corporate opportunity or any “upside”, i.e. Newco acted as though Matco would end up owning the Remaining Shares.
+- Matco negotiated and executed the Deans Knight Letter of Intent without the input of Newco and with no evidence of any concerns on the part of Newco.
+- The Lock-Up Agreement was amended to provide for only one permitted transaction during the escrow period – the sale by Newco of the Remaining Shares to Matco.
+- Newco agreed to sell the Remaining Shares to Matco for $200,000 less than their value and without any negotiation.
+[162] I will start with the last of these points. It is not accurate to say that the value of the Remaining Shares was higher than what Matco paid for them in April 2009. The shares were subject to the lock-up provision and could not be sold within six months of the IPO. Goold stated that Newco’s board of directors was concerned that the price of the Remaining Shares could go down in that time. There was a risk to the Appellant in holding the shares until the end of the lock up period and that risk would have affected their value at the time it sold them to Matco.
+[163] Also, the reason the exception from the lock-up agreement was sought was because Matco would have been obliged to pay the Guaranteed Amount if the Appellant did not have an opportunity to sell the Remaining Shares before April 30, 2009. It is true that the exception could have been drafted in such a way as to allow the Appellant to sell to anyone, but the important point is that the Appellant was not required to sell the Remaining Shares by virtue of the exception. In other words, the fact that the exception was limited to a sale to Matco does not show that the parties always intended that Matco would purchase the Remaining Shares. In fact, the testimony of Goold shows that Newco considered it had the right to hold on to the Remaining Shares beyond the Guarantee Period.
+[164] As I indicated earlier in these reasons, I accept Goold’s testimony that Newco believed it had the choice whether to accept Matco’s offer for the Remaining Shares or not. He said that Newco accepted the offer, even though it represented a discount to the IPO price, because Newco needed the money for its operations.
+[165] I also do not believe it can be said that Newco was indifferent to the terms of the Corporate Opportunity. The fact that its interests were aligned with Matco’s would have offered some guarantee that Matco would seek to maximize the return to both Newco and itself under the proposal. As it turned out, the value accruing to Newco’s shares under that proposal was potentially higher than the Guaranteed Amount, and provided a viable alternative to a sale to Matco for the Guaranteed Amount.
+[166] Therefore, the circumstances referred to by the Respondent do not, in my view, indicate that Matco had effective control over the majority of the voting shares of the Appellant prior to the IPO and I find that the Avoidance Transactions do not amount to abuse of subsection 256(8) and paragraph 251(5)(b) of the Act.
+Conclusion
+[167] For all of these reasons, the appeal is allowed.
+[168] The parties will have 30 days from the date of this judgment to arrive at an agreement on costs, failing which they are directed to file their written submissions on costs within 60 days of the date of this judgment. Such submissions shall not exceed 15 pages.
+Signed at Vancouver, British Columbia, this 5th day of April 2019.
+“B.Paris”
+Paris J.
+CITATION:
+2019 TCC 76
+COURT FILE NO.:
+2014-4148(IT)G
+STYLE OF CAUSE:
+DEANS KNIGHT INCOME CORPORATION AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATES OF HEARING:
+February 13, 14, 15, 16, 19 and 20, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Paris
+DATE OF JUDGMENT:
+April 5, 2019
+APPEARANCES:
+Counsel for the Appellant:
+J. Kelly Hannan
+Heather DiGregorio
+Darian Khan
+Counsel for the Respondent:
+Robert Carvalho
+Perry Derksen
+Shannon Currie
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+J. Kelly Hannan
+Heather DiGregorio
+Darian Khan
+Firm:
+Burnet, Duckworth & Palmer LLP
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] R.S.C., 1985, c. 1 (5th Supp.).
+[2] Shell Canada Ltd. v. Canada, [1999] 3 SCR 622 at paragraph 39.
+[3] Copthorne Holdings Ltd. v. Canada, 2011 SCC 63, at paragraph 33, citing Canada Trustco Mortgage Co. v. Canada, 2005 SCC 54, at paragraphs 18, 21 and 36.
+[4] Copthorne, supra note 3 at paragraph 42.
+[5] Canada Trustco, supra note 3 at paragraph 20.
+[6] Copthorne, supra note 3 at paragraph 35.
+[7] Copthorne, supra note 3 at paragraphs 69 and 70.
+[8] John Burghardt and Sarah Chiu, "Loss is Just a Four-Letter Word: Policy, Practice and Proposals" CTF, 2013 Conference Report, 14:1-43 at 14:7.
+[9] Canada v. Duha Printers (Western) Ltd., [1996] 50 DTC 6323 (FCA) at paragraph 4.
+[10] Duha Printers (Western) Ltd. v. Canada, [1998] 1 SCR 795 at paragraphs 35 and 36.
+[11] Silicon Graphics Ltd. v. Canada, 2002 FCA 260 at paragraph 36.
+[12] McGillivray Restaurant Ltd. v. Canada, 2016 FCA 99 at paragraph 46.
+[13] Ibid at paragraph 35.
+[14] Oxford Properties Ltd. v. Canada, 2018 FCA 30 at paragraph 86.
+[15] M. Munoz, "Loss Utilization in Arm's-Length Business Combinations", Canadian Tax Journal (2009) Vol. 547 No. 3, pp.660-698 at p. 692.
+[16] Mathew v. Canada, 2005 SCC 55 at paragraph 49.
+[17] W.J. Strain, D.A. Dodge, V. Peters, "Tax Simplification: The Elusive Goal", 1988 Conference Report, CTF, p. 4:1 at p. 4-52.
+[18] A. Nijhawan, "When Is "Loss Trading Permissible? A Purposive Analysis of Subsection 111(5)" Conference Report, CTF, p. 9:1-26 at p. 9:5.
+[19] Duha, supra note 10 at paragraph 58.
+[20] Ibid at paragraph 36.
+[21] M. Munoz, "Loss Utilization in Arm's-Length Business Combinations", Canadian Tax Journal (2009) Vol. 547 No. 3, pp.660-698 at p. 694.
+[22] Copthorne , supra note 3 at paragraph 70, Canada Trustco, supra note 3 at paragraph 66.
+[23] Lipson v. Canada, 2009 SCC 1 at paragraph 40.
+[24] Canada Trustco, supra note 3 at paragraph 49.
+[25] Ibid, at paragraph 41.

@@ -1,0 +1,161 @@
+Title: Stevenson c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/343634/index.do
+Corpus path: corpus/cases/tcc/2018/2018-cci-176-343634-stevenson-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2018-08-29
+
+# Stevenson c. La Reine
+
+- Citation: 2018 CCI 176
+- Decision date: 2018-08-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4920, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Stevenson c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-08-29
+Référence neutre
+2018 CCI 176
+Numéro de dossier
+2017-3726(IT)I
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2017-3726(IT)I
+ENTRE :
+IAN STEVENSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 26 juin 2018, à Calgary (Alberta)
+Devant : L’honorable juge Randall S. Bocock
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Aminollah Sabzevari
+JUGEMENT
+CONFORMÉMENT aux motifs du jugement ci-joints, l’appel interjeté à l’égard de l’avis de confirmation daté du 20 juin 2017 établi en vertu de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1, dans sa version modifiée, pour l’année d’imposition 2014 est, par les présentes, rejeté sans dépens.
+Signé à Toronto (Ontario), ce 29e jour d’août 2018.
+« R.S. Bocock »
+Le juge Bocock
+Référence : 2018 CCI 176
+Date : 20180829
+Dossier : 2017-3726(IT)I
+ENTRE :
+IAN STEVENSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bocock
+I. Introduction et faits
+[1] L’appelant, Ian Stevenson, interjette appel de la décision du ministre du Revenu national (le « Ministre ») de rejeter une déduction pour des crédits d’impôt non remboursables réclamés lors de l’année d’imposition 2014. Ces crédits se rapportaient à son enfant, pour qui M. Stevenson a réclamé la somme de 11 138 $ comme personne entièrement à charge ainsi que 2 255 $ comme personne à charge admissible (les « déductions pour personne à charge ») en vertu de la Loi de l’impôt sur le revenu, L.R.C. 1985, ch. 1, telle que modifiée (la « Loi »).
+[2] Les faits non contestés sont les suivants :
+1) M. Stevenson et son épouse ont reçu leur jugement de divorce le 4 septembre 2014.
+2) Ils avaient un enfant issu du mariage âgé de moins de 18 ans.
+3) Ils ont réglé toutes les questions en suspens concernant la pension alimentaire, la garde conjointe (partage des responsabilités parentales), les soins et l’éducation de l’enfant; toutes ces dispositions étant énoncées dans un accord de règlement conjugal daté du 27 mars 2012 (« l’Accord »).
+4) La Cour a utilisé l’Accord, et y a fait référence, dans le jugement de divorce, et compte tenu du revenu annuel de chacun des conjoints, M. Stevenson a été tenu de verser une pension alimentaire pour enfant de 387 $ par mois pour les mois pertinents de 2014.
+5) Plus précisément, les extraits pertinents de l’Accord sont libellés ainsi (nous avons souligné et rendu anonymes certains passages) [traduction] :
+PARTIE III – PENSION ALIMENTAIRE POUR ENFANT
+10. Revenus actuels selon les Lignes directrices
+10.1. La conjointe et Ian acceptent, aux fins du calcul de la pension alimentaire pour enfant, que le revenu selon les Lignes directrices de Ian est de 52 660 $ et que celui de la conjointe est de 87 714 $ au moment de la signature du présent Accord.
+11. Pension alimentaire de base pour enfant
+11.1. Ian versera à la conjointe la somme de 321 $ par mois à titre de pension alimentaire pour l’enfant, le 1er jour de chaque mois à compter du 1er mai 2011.
+11.2. Les parties reconnaissent et conviennent que le montant susmentionné de pension alimentaire pour enfant est basé sur la différence entre leurs montants respectifs de pension alimentaire pour enfant indiqués au paragraphe 3, et qu’ils ont employé une méthode raisonnable pour déterminer le montant de pension alimentaire pour enfant qui sera versé compte tenu de leur horaire de garde partagée.
+[…]
+14. Modalités concernant l’impôt sur le revenu
+14.1. Les parties partageront en parts égales les avantages fiscaux liés à l’enfant, y compris, mais sans s’y limiter, la prestation fiscale pour enfants, la prestation universelle pour la garde d’enfants, le crédit d’impôt pour personne à charge admissible, la déduction pour frais de garde d’enfants, et tout autre avantage fiscal associé aux soins de l’enfant, comme l’autorise l’Agence du revenu du Canada.
+14.2. Plus précisément, et tant que l’autorise l’Agence du revenu du Canada :
+14.2.1. Déduction pour personne à charge admissible : Ian réclamera la déduction pour l’enfant pour toutes les années paires, et la conjointe réclamera la déduction pour l’enfant pour toutes les années impaires.
+14.2.2. Montant pour un enfant né après 1990 : Ian réclamera la déduction pour l’enfant pour toutes les années paires, et la conjointe réclamera la déduction pour l’enfant pour toutes les années impaires.
+14.2.3. Crédits d’impôt pour la condition physique : Ian réclamera la déduction pour l’enfant pour toutes les années paires, et la conjointe réclamera la déduction pour l’enfant pour toutes les années impaires.
+14.2.4. Frais de garderie de jour/frais de garde : chaque partie payera ses propres frais de garde, et les réclamera pour son propre compte.
+14.2.5. Prestation universelle pour la garde d’enfants : la conjointe réclamera cette prestation; les fonds seront utilisés aux fins des dépenses pour l’enfant indiquées au paragraphe 7, avant les contributions des parents.
+6) Les paragraphes pertinents du jugement de divorce sont libellés ainsi :
+[traduction] La Cour a examiné la requête en divorce et l’affidavit de la demanderesse, et a été informée de ce qui suit :
+LES PARTIES ont conclu un accord de règlement conjugal en date du 27 mars 2012, qui prévoit les modalités au chapitre de la garde, des responsabilités parentales, de la pension alimentaire pour enfant et de la pension alimentaire matrimoniale.
+Le revenu du DÉFENDEUR [IAN] selon les Lignes directrices est de 109 067 $.
+Le revenu de la DÉFENDERESSE selon les Lignes directrices est de 66 530 $.
+[…]
+Pension alimentaire pour enfant
+15. Considérant que l’article 9 des Lignes directrices fédérales sur les pensions alimentaires pour enfants s’applique, la pension alimentaire pour enfant devra être payée comme suit :
+a. Le défendeur versera à la demanderesse un montant de 949 $ par mois à titre de pension alimentaire pour l’enfant;
+b. La demanderesse versera au défendeur un montant de 562 $ par mois à titre de pension alimentaire pour l’enfant; et
+c. Le défendeur peut déduire de son paiement le montant de pension alimentaire pour enfant payable par la demanderesse, pour ainsi en arriver à un montant net de 387 $ par mois à titre de pension alimentaire pour enfant qu’il devra payer à la demanderesse.
+16. Le défendeur versera la pension alimentaire pour enfant susmentionnée le 1er jour de chaque mois, à compter du 1er juillet 2014, jusqu’à ce que la question de la pension alimentaire pour enfant soit révisée ou que l’enfant ne corresponde plus à la définition d’un enfant issu du mariage.
+[…]
+Déductions fiscales pour l’enfant issu du mariage
+23. Les parties partageront en parts égales les avantages fiscaux liés à l’enfant issu du mariage, y compris, mais sans s’y limiter, la prestation fiscale pour enfants, le crédit d’impôt pour personne à charge admissible, la déduction pour frais de garde d’enfants, et tout autre avantage fiscal pour les soins de l’enfant issu du mariage, comme l’autorise l’Agence du revenu du Canada.
+II. Observations des parties
+[3] M. Stevenson a indiqué que, malgré le stress encouru, son ex-femme et lui-même ont réglé à l’amiable toutes les questions maritales en suspens. Des avocats ont préparé tous les documents, introduit les procédures judiciaires et se sont assurés que toutes les particularités respectaient les volontés des parties et la loi. M. Stevenson a sincèrement témoigné qu’il avait été le seul à verser des paiements en 2014, et qu’il avait retranché le paiement selon les Lignes directrices fédérales sur les pensions (les « Lignes directrices ») de son ex-femme de son propre paiement.
+Appelant
+[4] M. Stevenson fait valoir que son appel devrait être accueilli pour les motifs suivants :
+1. Le système est complexe et le recours à un paiement « net » pour simplifier le processus ne devrait pas s’opposer à l’intention claire des parties et au bénéfice commun accordé par la Loi.
+2. Les propres lignes directrices de l’Agence du revenu du Canada (« ARC ») donnent un exemple qui reflète en tout point sa situation :
+Exemple 1 :
+Michel et Chloé partagent la garde de leur enfant Noémie. Noémie passe 50 % de son temps avec Michel et l’autre 50 % avec Chloé. L’ordonnance du tribunal prévoit que Michel doit payer 200 $ par mois à Chloé et que Chloé doit payer 100 $ par mois à Michel. Pour des raisons pratiques, Michel accepte que Chloé ne lui remette pas de chèque mensuel. Il lui versera tout simplement 100 $ par mois. De cette façon, ils remplissent tous les deux leurs obligations alimentaires.
+Michel et Chloé acceptent que Michel demande le montant pour une personne à charge admissible à la ligne 305 de l’annexe 1. S’ils ne s’étaient pas entendus, aucun des deux n’aurait pu demander le montant à la ligne 305 pour Noémie.
+3. Les avocats mandatés par chacun des deux conjoints ont suivi les Lignes directrices de l’ARC lors de la rédaction de l’accord et de la requête en divorce; ces deux documents obligeaient, de manière cumulative, les deux conjoints à payer, mais leur permettaient pour des raisons pratiques de ne verser qu’un seul paiement; et
+4. La décision Lawson c. La Reine, 2017 CCI 131 permet d’affirmer que la présence d’obligations mutuelles de payer suffit pour faire intervenir la déductibilité en application du paragraphe 118(5.1), bien qu’il n’y ait qu’un paiement d’une seule partie.
+Intimée
+[5] L’intimée fait valoir que les décisions Harder c. La Reine, 2016 CCI 197 et, plus précisément, Leinweber c. La Reine, 2016 CCI 253 permettent d’appuyer le rejet de l’appel. Premièrement, la décision Lawson ne s’applique pas puisque les éléments de preuve présentés à la Cour différaient, selon les faits, de simples obligations payables en application des Lignes directrices. Les faits en l’espèce diffèrent de ceux des autres décisions, où le paiement net représentait un surplus mathématique dû par une partie à l’autre après avoir soustrait le paiement non rajusté le plus élevé selon les Lignes directrices de l’autre paiement. Il s’agit de deux obligations, mais d’un seul paiement : Harder, au paragraphe 8. Deuxièmement, M. Stevenson n’avait aucune discrétion dans la manière d’utiliser ledit paiement de pension alimentaire comme bon lui semblait. La discrétion dans le présent appel revenait uniquement à son ex-femme : Leinweber, au paragraphe 18.
+III. Analyse et décision
+[6] L’unique question qui se pose dans le présent appel est de savoir si M. Stevenson est, dans les faits, le seul conjoint à payer le « montant de pension alimentaire » qui relève des Lignes directrices au sens du paragraphe 118(5). Si tel est le cas, sa situation ne lui permet pas d’invoquer l’exception prévue au paragraphe 118(5.1). Il n’aurait alors pas droit aux déductions pour personnes à charge.
+[7] Les extraits pertinents des dispositions de la Loi énoncent ce qui suit (non souligné dans l’original) :
+Pension alimentaire
+118(5) Aucun montant n’est déductible en application du paragraphe (1) relativement à une personne dans le calcul de l’impôt payable par un particulier en vertu de la présente partie pour une année d’imposition si le particulier, d’une part, est tenu de payer une pension alimentaire au sens du paragraphe 56.1(4) à son époux ou conjoint de fait ou ex-époux ou ancien conjoint de fait pour la personne et, d’autre part, selon le cas :
+a) vit séparé de son époux ou conjoint de fait ou ex-époux ou ancien conjoint de fait tout au long de l’année pour cause d’échec de leur mariage ou union de fait;
+Non-application du par. (5)
+118(5.1) À supposer que la présente loi s’applique compte non tenu du présent paragraphe, dans le cas où personne n’a droit, par le seul effet du paragraphe (5), à la déduction prévue aux alinéas (1)b) ou b.1) pour une année d’imposition relativement à un enfant, le paragraphe (5) ne s’applique pas relativement à l’enfant pour l’année en cause.
+[8] Quant à la jurisprudence dans son ensemble, notre Cour et la Cour d’appel fédérale ont interprété les paragraphes précités sans trop de divergence. La logique de base veut que le recours aux Lignes directrices fédérales constitue un point de départ qui évolue, selon d’autres considérations, vers une entente entre les conjoints concernant un « montant de pension alimentaire » définitif. Une simple compensation n’a pas pour effet de rendre chaque valeur distincte en un montant de pension alimentaire en vertu de la Loi : Contino c. Leonelli-Contino, 2005 CSC 63, au paragraphe 32. Dans le présent appel, les calculs prévus aux paragraphes 10 et 11 de l’accord et aux paragraphes 15 et 16 du jugement de divorce présentent une fonction mathématique qui reflète entièrement une compensation entre deux obligations qui se solde en un seul paiement.
+[9] Les faits n’étaient pas les mêmes dans Lawson. Le juge Miller a décrit trois facteurs factuels qui lui ont permis de retenir un témoignage oral pour l’aider à interpréter l’entente verbale des parties. Plus précisément, le paragraphe 28 résume le processus entrepris (non souligné dans l’original) :
+[28] À mon avis, cette interprétation ne constitue pas une modification du contrat, mais plutôt une clarification par les deux parties au contrat et qui ont rédigé ledit contrat. J’accepte également le témoignage de M. Lawson lorsqu’il affirme que le respect rigoureux des Lignes directrices ne représenterait pas simplement une différence de 100 $, mais qu’un autre facteur était en jeu, à savoir la conséquence de la reconnaissance par Mme Lawson des frais de déplacement de M. Lawson. Enfin, j’admets également que le libellé du procès-verbal de règlement, jugé acceptable par l’ARC, ne reflète pas ce que les Lawson ont compris d’entrée de jeu. Bref, lorsqu’un couple divorcé s’appuie sur un commentaire de l’ARC suggérant qu’il suffit qu’un seul chèque soit émis, pour des raisons de facilité, lorsque le couple rédige son accord dans le but d’établir les exigences réciproques en matière de versement de pension alimentaire, lorsque les versements nets ne sont pas fondés uniquement sur les Lignes directrices, mais qu’ils représentent l’obligation d’une partie à assumer une part des frais de déplacement de l’autre partie, et lorsqu’un accord écrit subséquent est accepté par l’ARC sans toutefois que ledit accord ne modifie un arrangement convenu au préalable, je suis disposé à conclure que l’accord de séparation crée deux obligations et qu’il ne constitue pas seulement un moyen de calculer la pension alimentaire de l’une des parties. En conséquence, je suis disposé à accueillir l’appel au motif que leur accord de séparation crée deux obligations de verser une pension alimentaire, ce qui met en vigueur l’alinéa 118(5.1) de la Loi et permet à M. Lawson de réclamer des crédits d’impôt.
+[10] La conjointe de M. Stevenson n’était pas tenue en application de l’accord, ou autrement, de verser à ce dernier un montant pour le soutien des enfants sous forme de pension alimentaire : Cunningham c. La Reine, 2012 CCI 279, au paragraphe 14. Aucun paiement unilatéral n’a été fait par Mme Stevenson à M. Stevenson sur la base de tout autre facteur ou toute autre valeur allant outre les Lignes directrices ou s’écartant de celles-ci. De plus, la pension alimentaire versée uniquement et unilatéralement par M. Stevenson n’est pas obscurcie par les deux valeurs des Lignes directrices relevant de fonctions mathématiques : Verones c. Canada, 2013 CAF 69, au paragraphe 6. De même, le paragraphe 118(5.1) freine et prévient la perte du montant admissible, mais seulement lorsque les deux parents paient effectivement à l’autre parent une pension alimentaire pour enfant : Verones, précitée, au paragraphe 9.
+[11] Il doit y avoir une exigence à l’égard de chaque parent de payer, de manière obligatoire, un montant indiqué dans une ordonnance judiciaire ou dans une entente officielle, accompagnée d’une preuve concluante du paiement effectif. L’exception vise les montants supplémentaires qui sont payés ou les dépenses qui sont créditées par le conjoint bénéficiaire et qui ont une incidence sur le montant payé au-delà des valeurs des Lignes directrices. Comme il a été mentionné, tels ne sont pas les faits dans les appels de M. Stevenson. Aucun paiement n’a été versé par Mme Stevenson pendant la garde partagée : Rabb c. Sa Majesté la Reine, 2006 CCI 140. Il n’y a pas eu de paiements réels dans les deux directions : Ochitwa c. La Reine, 2014 CCI 263. Enfin, il n’y avait aucun écart par rapport aux valeurs des Lignes directrices : Lawson, précité, au paragraphe 28.
+[12] Même si le bulletin, maintenant retiré, de l’ARC a guidé les avocats des parties, l’absence d’un écart par rapport aux montants des Lignes directrices n’aura pas pour effet de créer deux paiements réels ou factuels découlant de deux valeurs. Pour ce motif, l’appel est rejeté sans dépens.
+Signé à Toronto (Ontario), ce 29e jour d’août 2018.
+« R.S. Bocock »
+Le juge Bocock
+RÉFÉRENCE :
+2018 CCI 176
+No DU DOSSIER DE LA COUR :
+2017-3726(IT)I
+INTITULÉ :
+IAN STEVENSON c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Calgary (Alberta)
+DATE DE L’AUDIENCE :
+Le 26 juin 2018
+MOTIFS DU JUGEMENT :
+L’honorable juge Randall S. Bocock
+DATE DU JUGEMENT :
+29 août 2018
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Aminollah Sabzevari
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

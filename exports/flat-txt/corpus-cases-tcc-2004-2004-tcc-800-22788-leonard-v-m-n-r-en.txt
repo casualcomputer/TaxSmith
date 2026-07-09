@@ -1,0 +1,112 @@
+Title: Leonard v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/22788/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-800-22788-leonard-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2004-12-09
+
+# Leonard v. M.N.R.
+
+- Citation: 2004 TCC 800
+- Decision date: 2004-12-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2238, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Leonard v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-12-09
+Neutral citation
+2004 TCC 800
+File numbers
+2003-4096(EI)
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2003-4096(EI)
+BETWEEN:
+STEPHEN C. LEONARD,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Appeal heard on September 30, 2004 at St. Catharines, Ontario
+Before: The Honourable Justice G. Sheridan
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+John R. Shipley
+JUDGMENT
+The appeal is dismissed and the Minister's decision is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 9th day of December 2004.
+"G. Sheridan"
+Sheridan, J.
+Citation: 2004-TCC800
+Date: 20041209
+Docket: 2003-4096(EI)
+BETWEEN:
+STEPHEN C. LEONARD,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] The appeal pursuant to subsection 103(1) of the Employment Insurance Act is dismissed and the decision of the Minister of National Revenue, on the appeal made to him under section 93 of that Act, is confirmed.
+[2] The Appellant, Stephen Leonard, worked for Royal Windows and Doors for the period April 5 to May 7, 2002. His duties were to make sales calls on “leads” that had been identified by Royal and which were provided to Mr. Leonard each day in a computer print out[1] containing the names and addresses of potential customers. According to the terms of his employment[2], he was paid a weekly salary of $400 plus commissions on sales according to a formula.
+[3] The only issue in this appeal is the determination of the number of hours of insurable employment Mr. Leonard worked during his period of employment. By letter dated August 13, 2003, the Minister of National Revenue informed Mr. Leonard that it had been determined that he had accumulated 161 hours and that in calculating this number, the Minister had relied on section 10 of the Employment Insurance Regulations.[3] Mr. Leonard disagreed with this determination. He was of the view that his insurable hours ought to be determined according to the number of hours he actually worked which, according to him, totalled some 227 hours. Mr. Leonard represented himself and testified on his own behalf at the hearing. In his opening remarks, he insisted that his purpose in appealing was not to collect any employment insurance benefits to which he might be entitled but rather, to see justice done. Mr. Leonard was given to oratorical statements on this theme throughout the hearing.
+[4] Counsel for the Respondent took the position that the Minister had properly determined the number of insurable hours under subsection 10(4) of the Employment Insurance Regulations and further, that the Court was precluded by that subsection from taking into account any evidence Mr. Leonard might have of the number of hours actually worked. In rejecting this latter point, I am guided by the words of Bowman, A.C.J. in Chisholm v. M.N.R.[4]:
+[15] Finally, I come to section 10 of the Regulations. It is a regulation authorized by section 55 of the EI Act to provide some assistance in determining how many hours have been worked by an employee in cases where there is doubt or lack of agreement between the employer and the employee or difficulty in determining the number of hours worked. It clearly is not intended to displace clear evidence of the type that we have here of the number of hours actually worked. To say that the rules set out in section 10 of the Regulations could prevail against the true facts would be to put a strained and artificial construction on this subordinate legislation that would take it far beyond what section 55 of the EI Act intended or authorized. Indeed subsections (4) and (5) of section 10 are premised upon the actual number of hours not being known or ascertainable, or upon there being no evidence of excess hours. That is demonstrably not the case here.
+[16] I have found the decisions of Bonner J. in Franke v. Canada, [1999] T.C.J. 645, and of Weisman D.J. in McKenna v. Canada, [1999] T.C.J. 816, and Bylow v. Canada, [2000] T.C.J. 187, and of Beaubier J. in Redvers Activity Centre Inc. v. Canada, [2000] T.C.J. 414, of great assistance. They support the broad, and in my view, common sense conclusion that where there is evidence of the number of hours actually worked there is no need to have recourse to any other method.
+Accordingly, it is open for Mr. Leonard to prove, if he is able to do so, the number of hours actually worked and for the Court to consider that evidence in determining the number of insurable hours.
+[5] The starting point is section 10 of the Employment Insurance Regulations which reads:
+10. (1) Where a person's earnings are not paid on an hourly basis but the employer provides evidence of the number of hours that the person actually worked in the period of employment and for which the person was remunerated, the person is deemed to have worked that number of hours in insurable employment.
+(2) Except where subsection (1) and section 9.1 apply, if the employer cannot establish with certainty the actual number of hours of work performed by a worker or by a group of workers and for which they were remunerated, the employer and the worker or group of workers may, subject to subsection (3) and as is reasonable in the circumstances, agree on the number of hours of work that would normally be required to gain the earnings referred to in subsection (1), and, where they do so, each worker is deemed to have worked that number of hours in insurable employment.
+(3) Where the number of hours agreed to by the employer and the worker or group of workers under subsection (2) is not reasonable or no agreement can be reached, each worker is deemed to have worked the number of hours in insurable employment established by the Minister of National Revenue, based on an examination of the terms and conditions of the employment and a comparison with the number of hours normally worked by workers performing similar tasks or functions in similar occupations and industries.
+(4) Except where subsection (1) and section 9.1 apply, where a person's actual hours of insurable employment in the period of employment are not known or ascertainable by the employer, the person, subject to subsection (5), is deemed to have worked, during the period of employment, the number of hours in insurable employment obtained by dividing the total earnings for the period of employment by the minimum wage applicable, on January 1 of the year in which the earnings were payable, in the province where the work was performed.
+(5) In the absence of evidence indicating that overtime or excess hours were worked, the maximum number of hours of insurable employment which a person is deemed to have worked where the number of hours is calculated in accordance with subsection (4) is seven hours per day up to an overall maximum of 35 hours per week.
+[6] Mr. Leonard was not paid on an hourly basis nor was there any evidence provided by the employer, Royal, before the Court. Accordingly, subsection 10(4) is the governing provision. Mr. Leonard testified that he had actually worked approximately 227 hours and tendered as evidence in support of this proposition two documents: Exhibit A-2, a 2002 calendar showing hand-written notations for each of the days of the period of employment; and Exhibit A-3, a bundle of the “lead” lists for most of the days from April 8 to May 6, 2002. Mr. Leonard relied on the calendar as proof of the fact that he had kept a record of the hours he actually worked during this time. On cross-examination, however, he admitted what he had failed to bring to the Court's attention in his direct evidence: that he had made these notations on the calendar long after the fact and based only on the information in the Exhibit A-3, the “lead” lists. An examination of the “lead lists” reveals that they are not time sheets in which are recorded the actual hours worked on each of the days in question. They are computer print outs prepared by Royal and intended as instructions for Mr. Leonard’s use in the field each day. The only “hours” shown in Exhibit A-3 are the hours during which it was recommended that Mr. Leonard call on certain customers. In many instances, in the space provided for this information, there appears only the word “None”.
+[7] In view of Mr. Leonard's lack of candour regarding what conclusions the Court ought to draw from these documents together with their own lack of utility in supporting the claims made, I am unable to conclude that there is any “clear evidence”[5] of the hours Mr. Leonard actually worked. Further, even if I were inclined to accept the “lead” lists as proof of the hours worked, on even the most generous estimation of hours worked based on the vague information contained on the print outs, the total falls short of the 227 hours alleged by Mr. Leonard. Given the above findings, there is also no evidence “indicating that overtime or excess hours were worked” as contemplated by subsection 10(5). Accordingly, the Minister was correct to calculate the number of insurable hours in accordance with the formula in subsection 10(4) of the Employment Insurance Regulations. The appeal is dismissed.
+Signed at Ottawa, Canada, this 9th day of December 2004.
+"G. Sheridan"
+Sheridan, J.
+CITATION:
+2004TCC800
+COURT FILE NO.:
+2003-4096(EI)
+STYLE OF CAUSE:
+Stephen C. Leonard and M.N.R.
+PLACE OF HEARING:
+St. Catharines, Ontario
+DATE OF HEARING:
+September 30, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice G. Sheridan
+DATE OF JUDGMENT:
+December 9, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+John R. Shipley
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit A-3.
+[2] Exhibit A-1.
+[3] SOR/96-332
+[4] [2001] T.C.J. No. 238
+[5] Chisholm, supra.

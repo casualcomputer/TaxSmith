@@ -1,0 +1,159 @@
+---
+title: "Johnston c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30313/index.do"
+last_modified: "2011-04-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 222"
+citation2: ""
+neutral_citation: "2011 CCI 222"
+decision_date: "2011-04-20"
+language: "fr"
+item_id: "30313"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 8081
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:55:34.962000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1e118bb1fabc9f9ef429f59d8c9676b048633c7c6c60bc82f25a29abfe1906d9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Johnston c. M.R.N.
+
+- Citation: 2011 CCI 222
+- Decision date: 2011-04-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8081, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Johnston c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-04-20
+Référence neutre
+2011 CCI 222
+Numéro de dossier
+2010-3585(EI)
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2010-3585(EI)
+ENTRE :
+KIM JOHNSTON,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE] ____________________________________________________________________
+Appel entendu le 12 avril 2011 à Edmonton (Alberta).
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Pour l’intimé :
+Me Marla Teeling
+M. Kurtis Streeper (stagiaire en droit)
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la décision du ministre du Revenu national rendue en vertu de la Loi sur l’assurance‑emploi et selon laquelle l’appelant n’exerçait pas un emploi assurable auprès de Jay Dee Aviation Maintenance Inc. pendant les périodes allant du 10 février au 31 octobre 2008 et du 1er mai au 23 novembre 2009 est rejeté, et la décision est confirmée.
+Signé à Ottawa (Ontario), ce 20e jour d’avril 2011.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 30e jour de mai 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+Référence : 2011 CCI 222
+Date : 20110420
+Dossier : 2010-3585(EI)
+ENTRE :
+KIM JOHNSTON,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] Dans le présent appel, interjeté en vertu de la Loi sur l’assurance‑emploi (la « LAE »), Kim Johnston conteste la décision du ministre du Revenu national (le « ministre ») selon laquelle il n’exerçait pas un emploi assurable auprès de Jay Dee Aviation Maintenance Inc. (le « payeur »).
+[2] Les périodes en cause sont celles allant du 10 février au 31 octobre 2008 et du 1er mai au 23 novembre 2009.
+[3] Le père de l’appelant, John Johnston, est l’unique actionnaire du payeur. À cause de cette relation, l’appelant est réputé ne pas exercer un emploi assurable, à moins que le ministre ne soit convaincu que les parties auraient conclu entre elles un contrat de travail à peu près semblable si elles n’avaient pas eu de lien de dépendance.
+[4] Le ministre n’était pas convaincu que cette exigence avait été remplie et avait conclu que l’emploi n’était pas assurable.
+[5] La disposition pertinente, à savoir l’alinéa 5(3)b) de la LAE, est ainsi libellée :
+5(3) Pour l’application de l’alinéa (2)i) :
+[…]
+b) l’employeur et l’employé, lorsqu’ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[6] Compte tenu du fait que la loi confère au ministre un certain pouvoir discrétionnaire pour déterminer si le contrat de travail répond à ce critère, la Cour a un droit d’intervention limité.
+[7] La question essentielle est de savoir si la conclusion du ministre est raisonnable, si l’on tient compte de la preuve présentée à l’audience, notamment : Légaré v. MNR, [1999] A.C.F. no 878 (CAF), au paragraphe 4. Le passage pertinent de cet arrêt est reproduit ci‑après :
+[4] La Loi confie au ministre le soin de faire une détermination à partir de la conviction à laquelle son examen du dossier peut le conduire. L’expression utilisée introduit une sorte d’élément de subjectivité et on a pu parler de pouvoir discrétionnaire du ministre, mais la qualification ne devrait pas faire oublier qu’il s’agit sans doute d’un pouvoir dont l’exercice doit se fonder pleinement et exclusivement sur une appréciation objective des faits connus ou supposés. Et la détermination du ministre n’est pas sans appel. La Loi accorde, en effet, à la Cour canadienne de l’impôt le pouvoir de la réviser sur la base de ce que pourra révéler une enquête conduite, là, en présence de tous les intéressés. La Cour n’est pas chargée de faire la détermination au même titre que le ministre et, en ce sens, elle ne saurait substituer purement et simplement son appréciation à celle du ministre: c’est ce qui relève du pouvoir dit discrétionnaire du ministre. Mais la Cour doit vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et après cette vérification, elle doit décider si la conclusion dont le ministre était « convaincu » paraît toujours raisonnable.
+Application à l’affaire en cause
+[8] Le père de l’appelant est un mécanicien d’avions qui exploite sa propre entreprise par l’intermédiaire du payeur depuis 1978. Il s’agit d’une petite entreprise et le père intervient dans tous les aspects de l’exploitation de l’entreprise.
+[9] L’appelant a commencé à travailler auprès du payeur comme apprenti mécanicien alors qu’il achevait ses études secondaires. Il a continué à travailler pour l’entreprise pendant une dizaine d’années.
+[10] Le présent appel concerne des périodes en 2008 et en 2009 pendant lesquelles l’appelant a travaillé auprès du payeur.
+[11] À l’audience, l’appelant a témoigné pour son propre compte tandis que son père a été appelé comme témoin par l’intimé.
+[12] Il est pertinent pour le présent appel de souligner que la relation de travail était difficile. Il a été inévitablement mis fin à la relation de travail à deux reprises au cours des périodes en cause. Il a été mis fin à l’emploi la première fois aux environs du 31 octobre 2008, l’emploi a repris en 2009 et il y a été encore mis fin aux environs du 23 novembre 2009. Le père et le fils ne s’étaient plus adressé la parole depuis la dernière cessation d’emploi jusqu’à ce que l’appelant mène un contre‑interrogatoire à l’égard de son père à l’audience.
+[13] La conclusion du ministre selon laquelle les modalités d’emploi étaient celles d’un emploi où les parties avaient un lien de dépendance semble être fondée sur trois principaux facteurs : le taux de rémunération était excessif, l’appelant était autorisé à continuer de travailler pour le payeur même si son rendement était inférieur aux normes, et le payeur réservait à l’appelant un traitement de faveur en lui payant ses outils et ses cours de formation.
+[14] L’appelant a réussi à réfuter la supposition du ministre en ce qui concerne le taux de rémunération.
+[15] La rémunération de l’appelant était de 26 $ l’heure pendant les périodes en cause. La conclusion du ministre selon laquelle cette rémunération était excessive était fondée sur le principe selon lequel la rémunération des mécaniciens d’avions dans une relation où les parties n’ont pas de lien de dépendance serait rajustée à la baisse pour les périodes où l’entreprise tournait au ralenti pendant l’hiver.
+[16] Le problème qui se pose au sujet de cette supposition est que le payeur ne tournait jamais au ralenti. L’entreprise était occupée pendant toute l’année.
+[17] Dans son témoignage, le père a vaguement fait allusion au fait que le taux de rémunération était élevé. Au vu du peu d’éléments de preuve dont je dispose, je conclus que la rémunération était dans les limites du raisonnable compte tenu de l’expérience de l’appelant.
+[18] Le ministre a supposé que l’appelant avait bénéficié d’un traitement de faveur parce qu’il arrivait régulièrement en retard, partait du travail tôt, s’occupait de ses affaires personnelles pendant les heures de travail, prenait beaucoup de temps pour déjeuner et refusait de suivre les instructions données. Il a été également supposé que l’appelant n’avait pas été remplacé lorsqu’il avait été mis fin à son emploi.
+[19] Le témoignage du père confirme toutes les suppositions ci‑dessus, sauf la dernière.
+[20] L’appelant avait, comme on pouvait s’y attendre, un point de vue différent sur ces questions. D’après son témoignage, l’appelant n’avait pas profité de sa relation personnelle avec le payeur pour arriver en retard au travail ou prendre beaucoup de temps pour déjeuner à moins d’un déjeuner d’affaires, il ne prenait de congé qu’avec une autorisation préalable, ne s’occupait pas de ses affaires personnelles pendant les heures de travail, suivait toutes les instructions raisonnables, et toute mauvaise conduite de sa part était due au comportement abusif de son père.
+[21] Dans le contexte d’un témoignage livré par deux personnes où chacune se sent fortement lésée par l’autre, il est impossible de connaître la situation réelle. Le simple bon sens amènerait à penser que la vérité réside quelque part entre les deux. Il est probable que le père s’attendait à ce que l’appelant travaille selon des modalités d’emploi strictes et que l’appelant avait un point de vue légèrement différent de ce que devraient être les modalités d’emploi.
+[22] En l’espèce, je ne peux pas dire que le ministre a eu tort de considérer ce facteur pour déterminer si les modalités d’emploi étaient celles d’une relation où les parties avaient ou non un lien de dépendance.
+[23] Enfin, le ministre a supposé que l’appelant avait reçu un traitement de faveur par le fait que le payeur avait payé ses frais de formation et ses outils. J’accepte le fait que cela ne ferait pas en général partie d’un contrat de travail où l’employeur et le mécanicien n’auraient pas de lien de dépendance.
+[24] L’appelant soutient que ce facteur n’est pas pertinent parce que son père avait par le passé facturé des articles personnels au payeur.
+[25] Je ne souscris pas à l’argument de l’appelant sur cette question. Le fait est qu’il s’agit là d’articles personnels. À l’exception d’une formation suivie au Texas, les outils et les cours de formation étaient payés par l’employeur à titre d’avantage indirect accordé à l’appelant. Ils ne témoignent pas de l’existence d’une relation d’emploi dans laquelle les parties n’ont pas de lien de dépendance.
+[26] Où cela nous amène‑t‑il? À mon avis, il s’agit d’un cas limite et la décision du ministre était raisonnable. Comme je dois faire preuve de déférence, je conclus que la décision du ministre doit être confirmée.
+[27] J’ai déjà fait des observations sur le fait qu’il est difficile pour les personnes qui travaillent pour des membres de leur famille d’exercer un emploi assurable. La raison réside dans le fait que la relation personnelle se reflète presque inévitablement, d’une certaine manière, dans la relation d’emploi. Je conclus que tel a été le cas en l’espèce.
+[28] L’appel est rejeté et la décision du ministre est confirmée.
+Signé à Ottawa (Ontario), ce 20e jour d’avril 2011.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 30e jour de mai 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+RÉFÉRENCE : 2011 CCI 222
+No DU DOSSIER DE LA COUR : 2010-3585(EI)
+INTITULÉ : KIM JOHNSTON
+c.
+LE MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE : Edmonton (Alberta)
+DATE DE L’AUDIENCE : Le 12 avril 2011
+MOTIFS DU JUGEMENT : L’honorable juge J.M. Woods
+DATE DU JUGEMENT : Le 20 avril 2011
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Pour l’intimé :
+Me Marla Teeling
+Kurtis Streeper (stagiaire en droit)
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : s/o
+Cabinet :
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Ontario

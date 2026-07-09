@@ -1,0 +1,273 @@
+---
+title: "Russell v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/144723/index.do"
+last_modified: "2016-06-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 TCC 143"
+citation2: ""
+neutral_citation: "2016 TCC 143"
+decision_date: "2016-06-23"
+language: "en"
+item_id: "144723"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3096
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:47:17.393000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "67c638e2fd6f1d582c551bbcf00010304a8fb279e32cf7b5b18b728d016ba8a0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Russell v. M.N.R.
+
+- Citation: 2016 TCC 143
+- Decision date: 2016-06-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3096, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Russell v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-06-23
+Neutral citation
+2016 TCC 143
+File numbers
+2015-150(EI)
+Judges and Taxing Officers
+Henry A. Visser
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2015-150(EI)
+2015-238(CPP)
+BETWEEN:
+KEVIN RUSSELL,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+MOUNT ALLISON UNIVERSITY,
+Intervenor.
+Appeals heard on October 6, 2015, at Miramichi, New Brunswick.
+Before: The Honourable Justice Henry A. Visser
+Appearances:
+For the Appellant:
+For the Intervenor:
+The Appellant himself
+Paul Harquail
+Counsel for the Respondent:
+Martin Hickey
+AMENDED JUDGMENT
+The appeals from the assessments made under the Employment Insurance Act and the Canada Pension Plan are dismissed, without costs, and the decisions of the Minister of National Revenue are confirmed in accordance with the attached Reasons for Judgment.
+This Amended Judgment is issued in substitution of the Judgment dated June 2, 2016.
+Signed at Ottawa, Canada, this 23rd day of June 2016.
+“Henry A. Visser”
+Visser J.
+Citation: 2016 TCC 143
+Date: 20160602
+Docket: 2015-150(EI)
+2015-238(CPP)
+BETWEEN:
+KEVIN RUSSELL,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+MOUNT ALLISON UNIVERSITY,
+Intervenor.
+REASONS FOR JUDGMENT
+Visser J.
+[1] In 2013, Kevin Russell was an undergraduate student at Mount Allison University (the “University”) in Sackville, New Brunswick, and was enrolled in the Bachelor of Science (Honours) program in Chemistry. In order to complete his Honours degree, Mr. Russell was required to undertake research and write a thesis. To that end, he asked Maria Victoria Meli, PhD (“Dr. Meli”), an assistant professor in the Department of Chemistry and Biochemistry at the University, if she would supervise his Honours research. At her suggestion, he also sought “employment” in the summer of 2013 with the University to undertake research in her lab. In that respect, he applied for, and obtained, an Undergraduate Student Research Award (a “USRA”) from the University, which was funded in part by the Natural Sciences and Engineering Research Council of Canada (“NSERC”) and covered the period from May 6, 2013 to August 23, 2013 (the “Period”). Mr. Russell subsequently applied for Employment Insurance benefits with Service Canada, which requested a corresponding ruling on the insurability and pensionability of the Appellant’s employment with the University during the Period pursuant to the Employment Insurance Act[1] (the “EIA”) and the Canada Pension Plan[2] (the “CPP”), respectively. Following the May 29, 2014 determination (the “First Ruling”) of the Minister of National Revenue (the “Minister”) that the employment was insurable and pensionable, the University appealed to the Minister. In a decision dated October 22, 2014 (the “Second Ruling”), the Minister overturned the First Ruling and ruled that the employment was not insurable or pensionable for the purposes of the EIA and the CPP. The Appellant has appealed the Minister’s Second Ruling to this Court. The appeals were heard together on common evidence. The University was an Intervenor in these appeals.
+ISSUES [2] The sole issue in this appeal is whether the Appellant was employed in “insurable employment” and “pensionable employment” with the University during the Period for the purposes of paragraph 5(1)(a) of the EIA and paragraph 6(1)(a) of the CPP, respectively.
+[3] In the EIA appeal, the Minister relied on numerous assumptions of fact, which were set out in paragraph 8 of the Minster’s Reply to the Notice of Appeal (the “EI Reply”), in determining that the Appellant’s employment was not insurable. These assumptions of fact are reproduced in Schedule A, attached hereto.[3] While many of these assumptions of fact are not in issue and were supported by the evidence presented at the hearing of this matter, Mr. Russell disagrees with a number of these assumptions of fact, and it is thus necessary to carefully review the evidence presented in these appeals.
+[4] The University is located in Sackville, New Brunswick, and in 2013 offered five undergraduate degree programs and the services of a research office.
+[5] Mr. Russell testified and submitted evidence in the hearing of these appeals. I found him to be a credible witness. He did not call any other witnesses.
+[6] At the time of the hearing of these appeals, Mr. Russell resided in Miramichi, New Brunswick and was unemployed. As noted above, in 2013 Mr. Russell was an undergraduate student at the University and was enrolled in the Honours Bachelor of Science program in Chemistry. He completed his third year in the spring of 2013, and was entering his fourth and final year in the fall of 2013. He graduated in the spring of 2014. He had worked full time in the summer of each of 2010, 2011, and 2012, and stated that he was able to obtain employment insurance benefits during the parts of the year when he was not working full time and was attending University.
+[7] Mr. Russell “worked” on the following three distinct occasions at the University in 2013 and 2014:
+(a) he worked in Dr. Meli’s research lab during the Period, was paid $6,250 under the NSERC USRA and was issued a T4A in respect thereof by the University;[4]
+(b) he worked as a teaching assistant from September 2013 to December 2013, was paid $308.88 and was issued a T4 in respect thereof by the University;[5] and
+(c) following his graduation in the spring of 2014, he worked as a paid research assistant for several months for Dr. Meli and was issued a T4 in respect thereof by the University.
+[8] Of these three time periods, only the first (being the Period) is in issue in these appeals. All three parties to these appeals agree that Mr. Russell was an employee of the University during the other two time periods. While the third time period was not in issue in these appeals, it is important to note that the work Mr. Russell undertook during that time period was a continuation of the research he undertook during the Period and was for the purpose of working towards a joint publication of the results of his research with Dr. Meli.
+[9] The Intervenor called two witnesses in these appeals, namely Mr. David Bruce, the Director of the Office of Research Services at the University, and Dr. Meli. I found both of them to be credible witnesses.
+[10] The Respondent did not call any witnesses or present any evidence, and relied substantially on the witnesses and evidence submitted by the Intervenor in these appeals.
+LAW AND ANALYSIS [11] All three parties to these appeals are substantially in agreement as to the law that applies in these appeals. Mr. Russell, however, disagrees with the Respondent and the Intervenor both as to the applicable facts and as to the application of the appropriate legal test to the facts in these appeals.
+[12] Paragraph 5(1)(a) of the EIA defines “insurable employment” as follows:
+5 (1) Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+[13] Subsection 6(1) of the CPP defines “pensionable employment” for the purposes of the CPP as follows:
+6 (1) Pensionable employment is
+(a) employment in Canada that is not excepted employment;
+(b) employment in Canada under Her Majesty in right of Canada that is not excepted employment; or
+(c) employment included in pensionable employment by a regulation made under section 7.
+[14] In addition, subsection 2(1) of the CPP defines “employment” for the purposes of the CPP as follows:
+employment means the state of being employed under an express or implied contract of service or apprenticeship, and includes the tenure of an office;
+[15] This case is not one of employee versus independent contractor. Rather, it is one of employee versus financial assistance provided to a student.[6] In this respect, I note that there have been numerous cases that have considered the status of amounts paid by universities to students in respect of research activities. Most of these cases relate to amounts paid to postdoctoral fellows, doctoral students and masters students. In Rizak v Minister of National Revenue,[7] Justice Graham reviewed the law applicable to these types of cases. In that case, Mr. Rizak was a doctoral student and during the time in issue was a graduate research assistant, was paid an annual stipend of $21,000, and was not considered an employee by the University of British Columbia (“UBC”). Mr. Rizak also worked for UBC in the same lab in time periods both before and after the period in issue, and the parties agreed that he was an employee during those other time periods. In reviewing the case law as it then stood and determining that Mr. Rizak was an employee of UBC during the time period under appeal, Justice Graham noted the following at paragraphs 25 and 26:
+25 In Caropreso v. R., 2012 TCC 212 (T.C.C. [Informal Procedure]), Justice Woods was also asked to consider whether a postdoctoral fellow was an employee. She acknowledged that the case law on the issue was divided. She then set out what she believed was the appropriate test that should be applied in determining whether a taxpayer has received funding as a student or been compensated as an employee. At paragraph 20 she stated:
+The root of the difficulty is that payments to postdoctoral research fellows often have dual elements. The payments further the education of research fellows and they also provide compensation for work performed. If the payments are received by virtue of employment, this takes precedence. However, in making this determination, it is relevant to consider the dominant characteristic of the payments, whether it is compensation for work or student assistance.
+[emphasis added]
+26 I agree with Justice Woods' conclusions. In my view, the test that she uses is equally applicable to doctoral students and I adopt it for the purposes of this Appeal.
+[16] While Mr. Russell was an undergraduate student during the Period, and not a doctoral student as Mr. Rizak was, it is my view that the dominant characteristic test set out by Justice Graham in Rizak should also be applied to undergraduate students and is applicable for the purposes of these appeals. I am also of the view that the same test applies to both the CPP and the EIA matters under appeal.
+[17] I note that all three parties argued that this test, as set out by Justice Graham in Rizak, should apply in this case. They disagree, however, as to the outcome of the application of that test to the facts of these appeals. Mr. Russell argues that his case is essentially the same as the Rizak case, and that the same outcome should apply. The Respondent and the Intervenor argue that the Rizak case should be distinguished, as the facts in these appeals are different. It is therefore necessary to consider the specific facts of these appeals in light of the dominant characteristic test set out in Rizak.
+[18] In applying the Rizak dominant characteristic test to this case, it is helpful to review the following summary of the applicable case law set out by Justice Graham at paragraphs 28 to 32 of Rizak:[8]
+28 Graduate students are in a very different situation than postdoctoral fellows. Graduate students have not yet obtained their degrees. Their primary reason for being at a university is to obtain their degrees. For those graduate students who choose to work as graduate research assistants, their work is geared, at least in part, towards that end. Therefore, it is important to review how the Court has dealt with cases involving graduate students.
+29 In Hammell v. Minister of National Revenue, [1994] T.C.J. No. 921 (T.C.C.), a masters student was interested in researching fish epidemiology. The university did not have a professor who specialized in fish epidemiology but it did have a professor who specialized in fish pathology and one who specialized in epidemiology (though not of fish). Those professors agreed to jointly supervise the student's research. The research was not connected to any research that the professors were doing. The student applied to the university for an annual stipend of $20,000. He was granted the stipend based on the fact that what he was hoping to achieve in his studies in general meshed with the university's goals. Not all masters students received stipends. While the student did a lot of work in the department's laboratories to assist with other people's studies, that work was done on a voluntary basis. He was not required to do the work. He did it purely to gain experience in his field and to advance his prospects of ultimately being asked to join the faculty at the university. The Court held that the student was not engaged in insurable employment.
+30 A similar result occurred in Hospital for Sick Children v. Minister of National Revenue, [1993] T.C.J. No. 388 (T.C.C.), a case involving a masters student. At paragraph 65 of that decision, Justice Christie stated:
+The evidence shows that it was accepted by Dr. Riordan and the [student] that the former was not vested with any real authority to specify the work to be done by her. This was decided by arriving at a consensus. He said that there was no instruction or direction involved. It is an academic process whereby some agreement is reached on the subject of the research. The [student] specifically stated that Dr. Riordan could not obligate her with reference to areas in which to do research. Changes that occurred in the focus of the [student]'s research came about at her instigation. Nor did Dr. Riordan have control over the manner in which the [student] conducted her research. When asked if he could tell her what techniques to use, she replied, no he could only make suggestions in that regard. His evidence is to the same effect. In contrast he said with reference to the technicians that he designed the experiments and he analyzed the results. . . .
+31 That decision was followed in Nabet c. Ministre du Revenu national, [1999] T.C.J. No. 79 (T.C.C.), a case involving a doctoral student, where Justice Lamarre Proulx found the student not to be an employee. She stated at paragraph 13:
+The case at bar is similar to The Hospital for Sick Children case, supra, and it is my view that that decision properly sets out the law regarding the legal status of a student paid out of research funds: there is no insurable employment if the student is paid for research done as part of a work program the student has drawn up himself or herself; although a professor may have helped the student establish the work program, that program remains the student's program and serves the student's purposes; the student controls the use of his or her time; the professor is there to give advice; the work is done for the student's benefit; no services are provided to an employer.
+32 A different conclusion was reached in Charron v. Minister of National Revenue, [1994] T.C.J. No. 47 (T.C.C.). In that case Justice Archambault found that a masters student was an employee. Like Mr. Rizak, the appellant in Charron began work before her period of studies began. At paragraph 10, Justice Archambault stated:
+. . . The evidence established that the appellant provided her services to the payer and that, in providing her services, she received instructions on the work to be done and the way in which it was to be done. She was not free to choose which experiments to do: it was Dr. Moss who decided on the procedure to be followed. . . .
+[19] Based on the test as set out in Rizak, it is necessary to determine whether the dominant characteristic of the amount received by Mr. Russell for the “work” he undertook in Dr. Meli’s research lab during the Period was compensation for work or student assistance. This will allow the Court to answer the question of whether the agreement between the University and Mr. Russell was a contract of employment or an agreement of financial assistance regarding continuing studies. In undertaking this analysis, it is my view that it is also instructive to consider the legal form used by the parties. For example, an arrangement that in substance is the same from a business or economic perspective may legally be formed in different manners.
+[20] Further to his testimony and that of Dr. Meli, Mr. Russell argued that:
+(a) it was his intention to obtain insurable and pensionable employment for the summer of 2013, and that is what he understood he had obtained at the University;
+(b) his work in Dr. Meli’s lab during the Period was the same as, or very similar to, that of other students who were treated as employees by the University;
+(c) during the Period, there were four Honours students working in Dr. Meli’s lab, two of whom were funded by Dr. Meli’s research grant and two of whom were funded by NSERC USRA grants;
+(d) the two Honours students who were funded by Dr. Meli’s grant were treated as employees by the University, and the other two were treated as award recipients, even though there was no material difference between the work undertaken by the four of them;
+(e) the research project he worked on was one he selected from a number of topics suggested by Dr. Meli and was related to research Dr. Meli was undertaking, and his research was undertaken under her supervision and instruction;
+(f) the work he undertook in 2014 for Dr. Meli, for which he was considered to be an employee, was a continuation of the work he undertook in 2013 during the Period and was for the purpose of tying up loose ends and to prepare it for publication;
+(g) he was told that he could be paid as an employee or under an NSERC USRA, and that the NSERC USRA was just another avenue to be paid;
+(h) he applied for an NSERC USRA as encouraged by Dr. Meli to save her lab funding;
+(i) during the Period, he submitted progress reports, met deadlines, discussed research methods and results with Dr. Meli, and generally worked from 8:30 a.m. to 4:30 p.m. each weekday (totalling 35 hours per week);
+(j) if he was absent from work, he had to let Dr. Meli know and make arrangements to make up lost time; and
+(k) he was not advised by the University that the NSERC USRA was not insurable employment for EI purposes.
+[21] As previously noted, while the Respondent and the University agree that the test set out by Justice Graham in Rizak applies in this case, they argue that this case should be distinguished from Rizak based on the facts. In particular, they argue that the dominant characteristic of the payments made to Mr. Russell by the University during the Period was that of financial assistance provided to an Honours student, and that this case is more similar to Bekhor v Minister of National Revenue,[9] where the relationship was found to be that of an advanced student and professor, and not an employee and employer. For the reasons that follow, I agree.
+[22] In this case, based on all of the evidence, it is my view that there was a dual element to the work undertaken by Mr. Russell in Dr. Meli’s lab during the Period. His work related to and furthered the Honours thesis he was required to complete in his fourth year at the University. However, with the assistance of Dr. Meli, he had chosen a research project that was congruent with Dr. Meli’s general research program, and there was therefore a hope on the part of Dr. Meli that his research would also eventually benefit her ongoing research. Dr. Meli, however, testified that the short term purpose of Mr. Russell’s research during the Period was to further his Honours thesis, which he submitted in the spring of 2014. Based on all of the evidence, it is my view that the dominant characteristic of the payments to Mr. Russell is that of financial assistance to an Honours student working on his thesis, and that any benefit to Dr. Meli or the University was secondary.
+[23] In terms of the legal form of the relationship between the parties, it is also clear that Mr. Russell applied for, and was granted, an NSERC USRA which was funded in part by NSERC and in part by the University.[10] The process of applying for and obtaining an NSERC USRA at the University, and the resulting legal relationship, are very different than in the case of an employee. The University must administer the NSERC USRA in accordance with the criteria set out by NSERC, and pays recipient students such as Mr. Russell through its accounts payable department, not through its payroll department, as it does not consider award recipients to be employees.
+[24] Based on the foregoing, it is my view that there was not a contract of service between Mr. Russell and the University (or Dr. Meli) in respect of the payments made during the Period under appeal. Rather, Mr. Russell applied for and obtained financial assistance for his thesis research in the form of an NSERC USRA.
+[25] In the Rizak case, I note that Mr. Rizak’s work for Dr. Wang was governed by the terms of Dr. Wang’s grant, he was paid a stipend by the University from Dr. Wang’s grant, and the amount of the stipend was determined and varied by Dr. Wang. In contrast, Mr. Russell applied for, and was awarded, an NSERC USRA in his own name based on his own research proposal. It is my view that this case is distinguishable from the Rizak case.
+[26] While the income tax treatment of the NSERC USRA was not in issue in these appeals, I note that student awards may be exempt from income tax pursuant to paragraph 56(1)(n) and subsection 56(3) of the Income Tax Act,[11] provided that an amount received “in respect of, in the course of or by virtue of an office or employment” is taxable as employment income. In this case, the University issued a T4A to Mr. Russell, which included both the amount of the NSERC USRA and his scholarships. In this respect, I note that Mr. Russell testified that he did not report his NSERC USRA earnings (reflected on the T4A issued to him by the University) as employment income in his 2013 income tax return filed with the Minister and did not pay any income tax thereon. Thus, it is my view that both the University and Mr. Russell reported the NSERC USRA payments for income tax purposes on the basis that they were not employment income, but were student awards. This is consistent with my determination herein.
+CONCLUSION [27] Based on all of the foregoing, it is my view that there was no contract of service between the University and Mr. Russell during the Period, and that therefore he was not employed by the University during the Period in either “insurable employment” or “pensionable employment”. Accordingly, the decisions of the Minister under appeal herein are confirmed and the appeals are dismissed, without costs.
+Signed at Ottawa, Canada, this 2nd day of June 2016.
+“Henry A. Visser”
+Visser J.
+Schedule A
+Excerpt from Respondent’s Reply in File 2015-150(EI) – Assumptions of Fact
+Assumptions
+8. In determining that the Appellant was not engaged in insurable employment with the Payer for the Period, the Minister relied on the following assumptions of fact:
+The Payer
+(a) the Payer was a university that operated under the authority of the Mount Allison University Act, 1993, of the Legislative Assembly of the Province of New Brunswick;
+(b) the Payer offered five undergraduate degree programs, and the services of a research office;
+(c) the Payer’s university campus was located at Sackville, New Brunswick;
+The Appellant
+(d) the Appellant was enrolled as an undergraduate student with the Payer in their Bachelor of Science program with an Honours, major in chemistry;
+(e) the Appellant contacted Dr. Vicki Meli (“Dr. Meli”) to request supervision for his Honours thesis, in the fall of 2012;
+(f) the Payer held an information session for students interested in applying for the Summer Student Research Awards which included the Undergraduate Student Research Awards ("USRA") funded by the Natural Sciences and Engineering Research Council of Canada ("NSERC"), in January 2013;
+(g) the NSERC's goals for the USRA were:
+i. to stimulate student interest in research in the natural sciences and engineering;
+ii. to encourage students to undertake graduate studies and pursue a research career in these fields; and
+iii. to provide financial support , through the academic setting of host universities, for students to gain research work experience that complemented their studies;
+(h) (the work funded by the USRA could be used as part of course work or an Honours thesis in an undergraduate program;
+(i) a student who was awarded an USRA was required to do their work under the supervision of a faculty member who held an active NSERC research grant;
+(j) an USRA had a value of $4,500 for a tenure of 16-weeks on a full-time basis;
+(k) host universities were required to supplement the USRA by at least 25% of its value using other sources, such as university funds, NSERC grants, or any other research funds;
+(l) the NSERC would not reimburse a host university for any period during which a student worked part-time, or took vacation leave, during the tenure of 16-weeks;
+(m) the NSERC allocated an annual quota of USRAs to each eligible host university;
+(n) the NSERC delegated the USRA application process, and the selection process to these host universities;
+(o) the host universities selected students for the awards based on their assessments of the students’ academic records and research aptitudes within the objectives of the USRA and the guidelines provided by the NSERC;
+(p) a student could apply for a USRA at a university other than the one at which they were enrolled as a student;
+(q) a student who was awarded a USRA at a university other than the one which they were enrolled could apply to the NSERC for a travel allowance in addition to their USRA;
+(r) the Appellant applied to the Payer for a NSERC USRA Summer Undergraduate Award in January 2013;
+(s) the Appellant's application included:
+i. the Appellant's written Proposal for his research project in nanotechnology;
+ii. the Appellant's written Statement of Preparation ;
+iii. Dr. Meli's Certification Letter; and
+iv. Dr. Meli's Reference Letter;
+(t) the Appellant chose the subject of his research project largely on his own;
+(u) the Appellant prepared his Proposal largely on his own;
+(v) the Appellant was offered a NSERC USRA for the tenable period from May 6, 2013 to August 23, 2013 by letter dated February 15, 2013;
+(w) the Appellant accepted the USRA by email on March 5, 2013;
+(x) the Appellant was required to submit a report of the research accomplished, to the Dean's Office, by September 13, 2013, which would be provided to the funders of the award;
+(y) the Appellant had finished the 3rd year of his four-year undergraduate program when he began his USRA funded research;
+(z) the Appellant worked the hours of his choice;
+(aa) the Appellant met the general stipulations of the USRA to be devote himself to his project for a maximum of 35 hours a week;
+(bb) the Appellant chose his own methods to conduct research ;
+(cc) he Appellant chose the timing of his work;
+(dd) the Appellant could pursue his own ideas or experiments;
+(ee) Dr. Meli provided the Appellant with mentorship and guidance ;
+(ff) the Appellant performed his work at laboratories located on the Payer's campus;
+(gg) the Payer owned and maintained all the tools, equipment, and materials in the laboratories;
+(hh) the Appellant had access to, and use of, the laboratories, tools, equipment, and materials as an enrolled student;
+(ii) the research from the Appellant's work was his property;
+(jj) the Appellant used the research from his work to complete his Honours thesis for his undergraduate program;
+(kk) the Appellant completed his Honours thesis in the academic year 2013/2014;
+(ll) the Appellant graduated from his undergraduate program in May 2014;
+(mm) the Appellant's award was for $1,562.50 per tenable month, for a total of $6,250.00 for the Period, which was inclusive of the $4,500 from NSERC;
+(nn) the Appellant and Dr. Meli signed a pay advice, by the 10th of each month, to attest to the benefactors who contributed funds for the Appellant's award, that:
+i. the Appellant worked on the project each month;
+ii. the Appellant did his work responsibly;
+iii. the Appellant worked under Dr. Meli's supervision and consulted with her regularly; and
+iv. the Appellant did not have other conflicting activities that diminished or restricted the Appellant from his work on the project;
+(oo) the Payer paid the Appellant $1,562.50 for each of May, June, July, and August of 2013, after receipt of a duly signed pay advice;
+(pp) the Payer did not take any deductions from their award payments to the Appellant;
+(qq) the Payer provided the Appellant with a T4A slip for the 2013 year, which reported the amount of $10,250.00, which was the total of:
+i. $6,250.00 paid under the NSERC USRA Summer Undergraduate Award; and
+ii. $4,000.00 for an entrance scholarship received by the Appellant, from the Payer, which was paid to him at $2,000 per semester for a total of $16,000 over 4 years;
+(rr) the Payer paid the Appellant $308.88 for his services as a teaching assistant from September 2013 to December 2013;
+(ss) the Payer provided the Appellant with a T4 slip for the 2013 year in the amount of $308.88 with a deduction of $5.82 for Employment Insurance premiums;
+(tt) the Appellant was not in receipt of a NSERC USRA in 2014;
+(uu) the Appellant's intent was that he was the Payer's employee; and
+(vv) the Payer's intent was that there was an academic relationship and not an employment relationship in regards to the Appellant's USRA funded research during the Period.
+CITATION:
+2016 TCC 143
+COURT FILE NO.:
+2015-150(EI), 2015-238(CPP)
+STYLE OF CAUSE:
+KEVIN RUSSELL AND M.N.R. AND MOUNT ALLISON UNIVERSITY
+PLACE OF HEARING:
+Miramichi, New Brunswick
+DATE OF HEARING:
+October 6, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Henry A. Visser
+DATE OF AMENDED JUDGMENT:
+June 23, 2016
+APPEARANCES:
+For the Appellant:
+For the Intervenor:
+The Appellant himself
+Paul Harquail
+Counsel for the Respondent:
+Martin Hickey
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Martin Hickey
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] S.C. 1996, c. 23, as amended.
+[2] R.S.C. 1985, c. C-8, as amended.
+[3] See also the Minister’s similar assumptions of fact set out in paragraph 7 of the Minister’s Reply to the Notice of Appeal in the corresponding CPP appeal (the “CPP Reply”).
+[4] See Exhibit R-3. The T4A was for $10,250, being $6,250 for the award plus $4,000 in undergraduate scholarships.
+[5] See Exhibit R-1, Tab 3.
+[6] See Hospital for Sick Children v Canada (Minister of National Revenue - M.N.R.), [1993] T.C.J. No. 388, and Bekhor v Canada (Minister of National Revenue - M.N.R.), [2005 T.C.J. No. 314], at para 26: “The question at issue is not whether the agreement between the parties is a contract of employment or a contract for services (employee versus independent contractor status), but whether it is a contract of employment or an agreement of financial assistance regarding continuing studies (employee versus student or postgraduate student status).”
+[7] 2013 TCC 273.
+[8] Ibid.
+[9] Supra footnote 6.
+[10] The total NSERC USRA obtained by Mr. Russell was $6,250, of which NSERC funded $4,500 and the University funded $1,750.
+[11] R.S.C. 1985, c. 1 (5th Supp.).

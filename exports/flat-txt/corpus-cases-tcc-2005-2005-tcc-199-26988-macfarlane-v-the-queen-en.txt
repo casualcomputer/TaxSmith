@@ -1,0 +1,133 @@
+Title: MacFarlane v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26988/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-199-26988-macfarlane-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-04-12
+
+# MacFarlane v. The Queen
+
+- Citation: 2005 TCC 199
+- Decision date: 2005-04-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 533, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+MacFarlane v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-04-12
+Neutral citation
+2005 TCC 199
+File numbers
+2004-4658(IT)APP
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-4658(IT)APP
+BETWEEN:
+DIXON MACFARLANE,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application heard on March 7, 2005, at Fredericton, New Brunswick
+Before: The Honourable Justice François Angers
+Appearances:
+Agents for the Applicant:
+Stanley Allen
+Andrew D. Lenehan (C.A.)
+Counsel for the Respondent:
+Christa MacKinnon
+____________________________________________________________________
+ORDER
+The application for an Order extending the time within which a Notice of Objection to the Notices of Reassessment made under the Income Tax Act for the 1999, 2000 and 2001 taxation years may be served is dismissed in accordance with the attached Reasons for Order.
+Signed at Montreal, Quebec, this 12th day of April 2005.
+“François Angers”
+Angers, J.
+Citation: 2005TCC199
+Date: 20050412
+Docket: 2004-4658(IT)APP
+BETWEEN:
+DIXON MACFARLANE,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Angers, J.
+[1] This is an application dated November 24, 2004, for an Order extending the time within which the applicant may serve a Notice of Objection regarding his 1999, 2000 and 2001 taxation years. A similar request dated August 26, 2004, was made to the Minister of National Revenue (the “Minister”) and was refused in October 2004.
+[2] The applicant was notified by Notices of Assessment dated May 23, 2000, May 10, 2001, and May 16, 2002, respectively that his 1999, 2000 and 2001 tax returns had been assessed by the Minister. On September 10, 2002, by Notices of Reassessments, the Minister informed the applicant that a reassessment for the same three taxation years had been made.
+[3] Upon receiving the last Notice of Reassessment, the applicant met with his accountant and provided him with various documents. On November 2, 2002, the applicant’s accountant forwarded these documents to the auditor involved in the case and was informed by the auditor that he would review the documents and get back to him. Not having heard from the auditor, the accountant contacted him in mid-February 2003. The auditor reiterated that he would examine the documents. Three days later, the accountant was informed that no changes would be made. The documents were returned to the accountant later in that month. The accountant admitted that he was aware of the 90-day period but did not serve on the Minister a Notice of Objection within that time.
+[4] The accountant testified that on March 12, 2003, he had prepared Notices of Objection for each taxation year in issue, signed by him and the applicant, together with a letter dated March 15, 2003, requesting an extension of time to file the Notices of Objection. Both the letter and the notices were sent by regular mail around that date to the Appeals Section of the Canada Customs and Revenue Agency (“CCRA”) in Saint John, New Brunswick. March 15, 2003, was a Saturday and the accountant explained that it was common for him to sign letters on a Saturday during income tax time.
+[5] The accountant further testified that from his experience, it takes between six to ten months before an appeals officer makes contact to start the process. Therefore, this period of silence did not surprise him. In June 2003, he was informed by the applicant’s wife that she had not heard anything from the CCRA. He assumed all was well and that he would eventually hear from them.
+[6] On August 26, 2004, the accountant was informed that the Notices of Objection that he had mailed in March 2003 were never received by the CCRA. Upon learning that fact, the accountant sent the Minister another application, on behalf of the applicant, for an extension of time. It is that last application that was refused in October 2004. The applicant now seeks relief from our Court under section 166.2 of the Income Tax Act (the “Act”).
+[7] The Respondent filed the affidavit of Karen Sceviour, a litigation officer in a designated appeals office at the CCRA to support their opposition to the application. The affidavit confirmed the date of the Notices of Reassessments referred to above and further stated that a careful examination and search of the records showed that the applicant had not served the Minister with a Notice of Objection within the time allowed by subsection 165(1) nor with an application to extend the time for serving the said Notice within the time allowed by paragraph 166.1(7)(a) of the Income Tax Act.
+[8] The relevant sections, subsections and paragraphs of the Act are 165(1), 165(2), 166.1(1), 166.1(3), 166.1(7), 166.2(1) and 166.2(5) which read as follows:
+Objections to assessment.
+165(1) A taxpayer who objects to an assessment under this Part may serve on the Minister a notice of objection, in writing, setting out the reasons for the objection and all relevant facts,
+(a) where the assessment is in respect of the taxpayer for a taxation year and the taxpayer is an individual (other than a trust) or a testamentary trust, on or before the later of
+(i) the day that is one year after the taxpayer's filing-due date for the year, and
+(ii) the day that is 90 days after the day of mailing of the notice of assessment; and
+(b) in any other case, on or before the day that is 90 days after the day of mailing of the notice of assessment.
+165(2) Service. A notice of objection under this section shall be served by being addressed to the Chief of Appeals in a District Office or a Taxation Centre of the Canada Customs and Revenue Agency and delivered or mailed to that Office or Centre.
+Extension of time by Minister.
+166.1 (1) Where no notice of objection to an assessment has been served under section 165, nor any request under subsection 245(6) made, within the time limited by those provisions for doing so, the taxpayer may apply to the Minister to extend the time for serving the notice of objection or making the request.
+How application made.
+166.1(3) An application under subsection (1) shall be made by being addressed to the Chief of Appeals in a District Office or a Taxation Centre of the Canada Customs and Revenue Agency and delivered or mailed to that Office or Centre, accompanied by a copy of the notice of objection or a copy of the request, as the case may be.
+When order to be made.
+166.1(7) No application shall be granted under this section unless
+(a) the application is made within one year after the expiration of the time otherwise limited by this Act for serving a notice of objection or making a request, as the case may be; and
+(b) the taxpayer demonstrates that
+(i) within the time otherwise limited by this Act for serving such a notice or making such a request, as the case may be, the taxpayer
+(A) was unable to act or to instruct another to act in the taxpayer's name, or
+(B) had a bona fide intention to object to the assessment or make the request,
+(ii) given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application, and
+(iii) the application was made as soon as circumstances permitted.
+Extension of time by Tax Court.
+166.2(1) A taxpayer who has made an application under subsection 166.1 may apply to the Tax Court of Canada to have the application granted after either
+(a) the Minister has refused the application, or
+(b) 90 days have elapsed after service of the application under subsection 166.1(1) and the Minister has not notified the taxpayer of the Minister's decision,
+but no application under this section may be made after the expiration of 90 days after the day on which notification of the decision was mailed to the taxpayer.
+When application to be granted.
+166.2(5) No application shall be granted under this section unless
+(a) the application was made under subsection 166.1(1) within one year after the expiration of the time otherwise limited by this Act for serving a notice of objection or making a request, as the case may be; and
+(b) the taxpayer demonstrates that
+(i) within the time otherwise limited by this Act for serving such a notice or making such a request, as the case may be, the taxpayer
+(A) was unable to act or to instruct another to act in the taxpayer's name, or
+(B) had a bona fide intention to object to the assessment or make the request,
+(ii) given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application, and
+(iii) the application was made under subsection 166.1(1) as soon as circumstances permitted.
+[9] There is no dispute in this application that the Notices of Reassessment dated September 10, 2002, were received by the applicant and that no Notices of Objection were served within the 90 days after the date of mailing. The applicant therefore had to apply to the Minister to extend the time for serving the Notices of objection (s. 166.1). He did so on March 15, 2003, but did not follow up on his application. The applicant could have followed up on that application by making a further application to this court to have it granted on the basis that the Minister had not notified him of his decision after 90 days had elapsed. He, instead, made another application on August 26, 2004, and was notified in October 2004 that his second application had been refused by the Minister. It is that refusal that the Applicant now seeks an extension of time.
+[10] The application for an extension of time made to the Minister on August 26, 2004, is clearly beyond the time provided for in paragraph 166.1(7)(a) and subsection 166.2(5)(a) of the Act. In such a case, neither the Minister nor this Court is able to grant such an application. (See Carlson v. Canada, [2002] F.C.J. No. 573 (F.C.A.)).
+[11] The application is therefore dismissed.
+Signed at Ottawa, Canada, this 12th day of April 2005.
+“François Angers”
+Angers, J.
+CITATION: 2005TCC199
+COURT FILE NO.: 2004-4658(IT)APP
+STYLE OF CAUSE: Dixon MacFarlane and the Queen
+PLACE OF HEARING: Fredericton, New Brunswick
+DATE OF HEARING: March 7, 2005
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: April 12, 2005
+APPEARANCES:
+Agents for the Applicant:
+Stanley Allen
+Andrew D. Lenehan (C.A.)
+Counsel for the Respondent:
+Christa MacKinnon
+COUNSEL OF RECORD:
+For the Applicant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

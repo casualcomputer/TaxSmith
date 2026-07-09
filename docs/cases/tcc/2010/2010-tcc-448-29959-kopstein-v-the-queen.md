@@ -1,0 +1,555 @@
+---
+title: "Kopstein v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29959/index.do"
+last_modified: "2010-08-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 448"
+citation2: ""
+neutral_citation: "2010 TCC 448"
+decision_date: "2010-08-27"
+language: "en"
+item_id: "29959"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6444
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:03:37.072000+00:00"
+cases_cited_count: 22
+cases_citing_count: 8
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2de5cbe70d61f5adf9d1c3f04f5e6602e3f5efb8c2190ca0e58fbef3d1f027a5"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kopstein v. The Queen
+
+- Citation: 2010 TCC 448
+- Decision date: 2010-08-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6444, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kopstein v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-08-27
+Neutral citation
+2010 TCC 448
+File numbers
+2008-2468(IT)G
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-2468(IT)G
+BETWEEN:
+ROBERT ALAN KOPSTEIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard together with the motion of William Sirett (2008‑2590(IT)G) on March 20, 2009, at Vancouver, British Columbia.
+Before: The Honourable Justice Gaston Jorré
+Appearances:
+Counsel for the appellant:
+Robert Alan Kopstein
+Jasmine Sidhu
+Counsel for the respondent:
+David I. Besler
+____________________________________________________________________
+ORDER
+Upon motion made by the appellant;
+And upon hearing the submissions of the parties;
+In accordance with the attached reasons for order, the motion is allowed in part and it is ordered that:
+(a) subparagraphs 18(c) and 18(g) of the amended reply be struck;
+(b) the time to file an answer will be extended to 45 days after this order;
+(c) the respondent shall file and serve on the appellant a list of documents pursuant to Rule 82 on condition that the appellant also file and serve a list of documents on the respondent pursuant to Rule 82. The lists are to be filed and served on the opposing party no later than 75 days after the last day on which the appellant may file an answer.
+In all other respects the motion is denied.
+Costs will be in the cause.
+Signed at Ottawa, Ontario, this 27th day of August 2010.
+“Gaston Jorré”
+Jorré J.
+Docket: 2008-2590(IT)G
+BETWEEN:
+WILLIAM SIRETT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard together with the motion of Robert Alan Kopstein (2008‑2468(IT)G) on March 20, 2009, at Vancouver, British Columbia.
+Before: The Honourable Justice Gaston Jorré
+Appearances:
+Counsel for the appellant:
+Robert Alan Kopstein
+Jasmine Sidhu
+Counsel for the respondent:
+David I. Besler
+____________________________________________________________________
+ORDER
+Upon motion made by the appellant;
+And upon hearing the submissions of the parties;
+In accordance with the attached reasons for order, the motion is allowed in part and it is ordered that:
+(a) subparagraphs 18(c) and 18(g) of the amended reply be struck;
+(b) the time to file an answer will be extended to 45 days after this order;
+(c) the respondent shall file and serve on the appellant a list of documents pursuant to Rule 82 on condition that the appellant also file and serve a list of documents on the respondent pursuant to Rule 82. The lists are to be filed and served on the opposing party no later than 75 days after the last day on which the appellant may file an answer.
+In all other respects the motion is denied.
+Costs will be in the cause.
+Signed at Ottawa, Ontario, this 27th day of August 2010.
+“Gaston Jorré”
+Jorré J.
+Citation: 2010 TCC 448
+Date: 20100827
+Dockets: 2008-2468(IT)G
+2008-2590(IT)G
+BETWEEN:
+ROBERT ALAN KOPSTEIN,
+WILLIAM SIRETT,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Jorré J.
+Introduction
+The motions
+[1] The parties are in agreement that the issues in the motion in the Sirett appeal are in substance the same as in the Kopstein case and that the only difference relates to paragraph numbering. Accordingly these reasons will simply deal with the Kopstein appeal. I will make brief reference at the end of these reasons to the Sirett appeal.
+[2] The appellant has brought a motion seeking the following:
+(a) that certain portions of the amended reply to the notice of appeal be struck;
+(b) that the time to file an answer to the amended reply be extended;
+(c) that:
+(i) the respondent be ordered to produce the assessor for examination with respect to the assumptions of fact set out in the amended reply and
+(ii) that the respondent be ordered to produce the documents relating to the assumptions of fact made prior to the filing of the answer; and
+(d) that the respondent produce a full list of documents pursuant to section 82 of the Rules.[1]
+Nature of the appeal
+[3] It will be useful to very briefly and generally set out the nature of the dispute as alleged in the pleadings.
+[4] The appellant acquired certain non-exclusive limited use licenses relating to software for trading in securities and entered into other agreements with companies in the Trafalgar Group of Companies. The companies in the Trafalgar Group are incorporated in various countries; it is alleged that they do not deal with each other at arm’s length.
+[5] In computing his income the appellant claimed capital cost allowance in respect of the licenses acquired as well as certain amounts in respect of fees paid pursuant to the agreements for maintenance, modifications and enhancements of the software.
+[6] In reassessing the appellant, the Minister of National Revenue (Minister) disallowed these deductions.
+[7] The appellant and the respondent respectively set out the issues as follows:
+Appellant
+(a) whether the Appellant’s investment in the Licenses was a “tax shelter” as defined in subsection 237.1(1) of the Act;
+(b) whether the Appellant’s investment in the Licenses was a “tax shelter investment” as defined in subsection 1100(20.2) of the Regulations;
+(c) whether the Appellant acquired the Licenses for the purpose of gaining or producing income from a business or property;
+(d) whether the 1999 Note and the 2000 Note are a “limited recourse amount” as defined in subsection 143.2(1);
+(e) whether section 67 applies;
+(f) whether the Appellant’s obligation under the 1999 Note and the 2000 Note was a “contingent liability”;
+(g) whether the Appellant’s income tax returns for the 2000 and 2001 taxation years were filed in a timely manner in accordance with subparagraph 150(1)(d)(ii) of the Act; and
+(h) whether the Appellant acted with due diligence in respect of the filing of his returns for the 2000 and 2001 taxation years.
+Respondent
+i) Whether the Minister has correctly assessed the Appellant’s liability for penalties and interest;
+ii) Whether the Appellant’s investments in the Trafalgar computer software program was an investment in an unregistered tax shelter;
+iii) Whether the 1999 Promissory Note or the 2000 Promissory Note are contingent liabilities, limited recourse amounts, or cause at risk adjustments;
+iv) Whether the Trafalgar I/T Program was a “computer software tax shelter property” as defined in the Income Tax Regulations;
+v) Whether the Appellant acquired his interests in the Trafalgar computer software programs for the purpose of gaining or producing income from a business; and
+vi) Whether the amounts claimed as Appellant’s investment in the Trafalgar computer software programs were unreasonable in the circumstances.
+Applicable Rules
+[8] Rule 49(1) requires that every reply state, among other things:
+49(1) . . .
+(d) the findings or assumptions of fact made by the Minister when making the assessment,
+(e) any other material fact,
+. . .
+[9] Rule 51(1) states:
+51(1) The effect of a document or the purport of a conversation, if material, shall be pleaded as briefly as possible, but the precise words of the document or conversation need not be pleaded unless those words are themselves material.
+[10] Rule 53 states:
+53 The Court may strike out or expunge all or part of a pleading or other document, with or without leave to amend, on the ground that the pleading or other document,
+(a) may prejudice or delay the fair hearing of the action,
+(b) is scandalous, frivolous or vexatious, or
+(c) is an abuse of the process of the Court.
+General nature of the appellant’s challenge to certain paragraphs of the amended reply
+[11] The appellant seeks to strike certain portions of the amended reply to the notice of appeal on the grounds that:[2]
+(a) they allege evidence rather than material facts;[3]
+(b) they are conclusions of law;
+(c) they are mixed conclusions of fact and law;
+(d) they are allegations of fact about third parties solely within the Minister's knowledge; or
+(e) in the case of subparagraphs 19(b) and (c) of the amended reply, they are inconsistent with certain of the assumptions in paragraph 18.
+[12] The appellant referred me to Zelinski v. The Queen, 2002 DTC 1204 (TCC). Two passages are of interest:
+4 The purpose of pleadings is to define the issues in dispute between the parties for the purposes of production, discovery and trial. What is required of a party pleading is to set forth a concise statement of the material facts upon which she relies. Material facts are those facts which, if established at the trial, will tend to show that the party pleading is entitled to the relief sought. Amendments to pleadings should generally be permitted . . . as the purpose of the Rules is to ensure, so far as possible, a fair trial of the real issues in dispute between the parties.
+5 The applicable principle is stated in Holmsted and Watson:
+This is the rule of pleading: all of the other pleading rules are essentially corollaries or qualifications to this basic rule that the pleader must state the material facts relied upon for his or her claim or defence. The rule involves four separate elements: (1) every pleading must state facts, not mere conclusions of law; (2) it must state material facts and not include facts which are immaterial; (3) it must state facts and not the evidence by which they are to be proved; (4) it must state facts concisely in a summary form.
+[Footnotes omitted.]
+[13] The appellant also put great weight on Foss v. The Queen, 2007 TCC 201, a case where the respondent pleaded a great many detailed assumptions. The appellant particularly stressed paragraphs 9, 10 and 11:[4]
+9 The only obvious rationale for this approach to the drawing of pleadings is that the Minister (or more correctly her counsel) then takes the position at trial that every fact that is pleaded to have been assumed when assessing, whether material or simply evidentiary, and every conclusion of mixed fact and law included in the pleading as an assumption, becomes a fact established for purposes of the trial, unless the taxpayer is able to disprove it. This, in my view, is a gross distortion of what was decided by the Supreme Court in Anderson Logging and Johnston. The taxpayer is the party who has initiated the challenge to the status quo, which is the validity of the assessment, and so it is for him to “… demolish the basic fact on which the taxation rested.” To do this the taxpayer needs, and so is entitled to have pleaded, “… full [disclosure] of the precise findings of fact and conclusions of law which have given rise to the controversy [assessment].” When Rand J. used the expression “precise findings of fact” he surely did not mean the whole gamut of evidence that led the assessor to his factual conclusions, but simply the material facts of the case, which is to say those facts that, if true, justify the Minister in making the assessment on her understanding of the law. The rationale for this is often said to be that it is the taxpayer who best knows his own affairs. This derives from the following passage from the judgment of Duff J., as he then was, in Anderson Logging at page 50:
+First, as to the contention on the point of onus. If, on an appeal to the judge of the Court of Revision, it appears that, on the true facts, the application of the pertinent enactment is doubtful, it would, on principle, seem that the Crown must fail. That seems to be necessarily involved in the principle according to which statutes imposing a burden upon the subject have, by inveterate practice, been interpreted and administered. But, as concerns the inquiry into the facts, the appellant is in the same position as any other appellant. He must shew that the impeached assessment is an assessment which ought not to have been made; that is to say, he must establish facts upon which it can be affirmatively asserted that the assessment was not authorized by the taxing statute, or which bring the matter into such a state of doubt that, on the principles alluded to, the liability of the appellant must be negatived. The true facts may be established, of course, by direct evidence or by probable inference. The appellant may adduce facts constituting a prima facie case which remains unanswered; but in considering whether this has been done it is important not to forget, if it be so, that the facts are, in a special degree if not exclusively, within the appellant's cognizance; although this last is a consideration which, for obvious reasons, must not be pressed too far.
+(Emphasis added)
+The concluding words that I have italicized are often overlooked. There are cases, of course, where all the facts are (or should be) within the taxpayer’s particular knowledge. An example is the case where it is simply the revenues and the expenses of a business that are in dispute. Anderson Logging itself was such a case — the issue being whether a sale of timber limits was effected by the taxpayer in the course of its business, or was the realization of an investment. So too was Johnston, where the only factual issue between the parties was whether the taxpayer supported his wife in the taxation year. It was simply as to those material facts that the judgments in those two cases placed the onus of proof on the taxpayers.
+10 The iniquity inherent in the practice of pleading vast swaths of evidence as assumptions of fact that underlie the assessment under appeal is that it purports to establish as true all the evidence pleaded that the taxpayer cannot disprove. It is this that Duff J. cautioned against in the concluding part of the passage from his judgment in Anderson Logging that I have quoted above. The present case is an outstanding example of one where the assumptions pleaded relate, to a very large extent, to matters which may very well be quite outside the appellant’s knowledge. . . .
+11 The purpose of pleadings is to define the issues between the parties for the purposes of discovery, both documentary and testamentary, and trial. That requires no more than a statement of the “precise findings of fact” that underpin the assessment. It is potentially prejudicial to the appellant to plead more — certainly to plead more by way of assumptions of fact. The appellant is, of course, entitled to particulars of the evidence that the Crown intends to lead at trial, but these are properly obtained on discovery, not disguised as material facts as to which the Crown at trial may claim a presumption of truth. . . .
+[Footnotes omitted.][5]
+I will discuss the rules for pleadings below including those with respect to material facts.
+Pleadings
+General considerations
+[14] It will be useful to consider further some of the rules that apply to pleadings.
+[15] The following are some of the rules:
+(a) A party should not plead evidence as opposed to facts.
+(b) A party should not plead irrelevant facts.
+(c) In a tax case the respondent should plead “the precise findings of fact and rulings of law which have given rise to the controversy” (often referred to as the Minister’s assumptions or as the basis of the assessment). [6]
+(d) A party cannot simply plead a mixed conclusion of fact and law but must also plead the underlying facts.[7]
+Material facts and facts particularly within the Minister's knowledge will be discussed further below.
+[16] It is worth remembering that there are invariably exceptions to most of these rules and it is very important to keep in mind the specific circumstances of each case in applying these rules.[8]
+[17] I would also note that I do not understand Foss as suggesting that one should not examine each part of the pleading that a party seeks to have struck in terms of the specific rules of pleading.
+[18] Some cases may by their nature involve many and complicated facts and issues; in such cases, it is not surprising if the pleadings are longer.
+Not always easy to categorize statements in pleadings
+[19] It is useful to first consider some of the different kinds of allegations or statements that may be contained in a pleading:[9]
+(a) evidence of facts,
+(b) irrelevant facts,
+(c) relevant but immaterial facts or, stated differently, relevant facts which are not material facts (facts which may lead to an inference of a material fact),[10]
+(d) material facts,
+(e) mixed conclusions of fact and law,
+(f) conclusions of law and,
+(g) in tax cases, there will usually be the Minister’s “assumptions” or, stated differently, basis of the assessment.
+While an irrelevant fact would certainly not be a material fact, for clarity in the discussion below, I wish to emphasize that when I am referring to immaterial facts I am only referring to relevant facts that are not material facts.
+[20] In some circumstances, the distinction between categories may be relatively straightforward; often, it will be quite difficult. This is well recognized:
+Algoma Central Corporation v. The Queen, 2009 TCC 314:
+23 . . . In many instances it may be a very fine line that separates that which is fact from that which is evidence. . . .
+Niagara Helicopters Limited v. The Queen, 2003 TCC 4:
+8 Whether an allegation is irrelevant is something that the trial judge is in a position to determine in the context of all of the evidence at trial. It is inappropriate on a preliminary motion for a motions judge, who has heard no evidence, to decide that an allegation is irrelevant thereby depriving a party of the opportunity of putting the matter before the judge who presides the trial and letting him or her put such weight on it as may be appropriate.
+Odgers on Civil Court Actions, 24th edition by Simon Goulding (London, Sweet and Maxwell, 1996), pages 155 and 156:
+7.12 It is obvious, then, that the question whether a particular fact is or is not material depends mainly on the special circumstances of the particular case. It is a question which it is not always easy to answer, and yet it is a very important one: the result of the case often depends on the ruling of the judge at the trial that it is or is not necessary that a particular fact should be proved. Sometimes it is material to allege and prove that the defendant was aware of certain facts; at other times it is sufficient to aver that he did some act, without inquiring into the state of his mind. In some cases the defendant’s intention is material, in a few cases his motives. . . . No general rule can be laid down.
+The following quotation relates to Rule 25.06(1) of the Rules of Civil Procedure of Ontario:
+25.06(1) Every pleading shall contain a concise statement of the material facts on which the party relies for the claim or defence, but not the evidence by which those facts are to be proved.
+In Jourdain v. Ontario, 2008 CanLII 35684 (ON S.C.), Shaw J. says:
+37 As noted by Master McLeod in City of Toronto v. MFP Financial Services Ltd. (2005), 17 C.P.C. (6th) 338 (Ont. S.C.J.) at para. 15, the distinction between material facts, particulars, and evidence is not a “bright line”. He points out that there will be situations where the minimum level of fact disclosure may require a pleading of material facts that might also be regarded as evidence. In this regard, Rule 25.06(8) requires that where intent is alleged, the pleading must contain full particulars of the allegations. The full particulars must set out precisely what the wrongful act is and the when, what, by whom and to whom of the relevant circumstances. See Balanyk v. University of Toronto, [1999] O.J. No. 2162 (S.C.J.) at para. 28.
+[Emphasis added.]
+[21] The appellant argued that the determination of whether a fact was a material fact should be distinguished from the situation where a motions judge must determine whether a particular fact is a relevant fact and that the case law in respect of a motions judge determining relevance should not be applied to a determination of materiality. However, in practice, I do not see that it is any easier to determine whether or not a relevant fact is a material fact than to determine whether or not a particular fact is a relevant fact.
+[22] In general, the trial judge will be better placed than the motions judge to determine the category of an allegation, whether it is fact or evidence, whether it is relevant or irrelevant or whether it is material or immaterial.[11]
+[23] Accordingly, a motions judge should be very cautious about categorizing an allegation and deciding to strike part of a pleading as a result. Unless it is clear-cut, it is generally appropriate to leave questions as to the category of an allegation and, as discussed below, the consequences that may arise to the trial judge.
+Material facts
+[24] A material fact may be established:
+(a) by evidence directly or
+(b) by inferences made from other facts (sometimes referred to as secondary facts), relevant but immaterial facts, which are in turn established by evidence.
+[25] Depending on the circumstances of a particular case, it may be that a given material fact could be established by evidence directly or by evidence of the other relevant but immaterial facts. For example, supposing in a tort action relating to a hunting accident a material fact alleged is that A shot B in circumstances where A and B did not see each other. It may be that the fact will be established by evidence; this would be the case if, for example, Y will testify that he (i) was standing where he could see both A and B, (ii) saw A aim his rifle, (iii) heard a gunshot and (iv) saw B fall.
+[26] On the other hand, it may be that no one saw the accident directly and that the plaintiff will establish, among others facts, the fact that (i) A and B were in the same general area at the same time and that (ii) the bullet removed from B’s shoulder was fired by A’s rifle. In this case, the plaintiff will be asking the trier of fact to infer that A shot B not directly from the evidence of a witness, but from other relevant immaterial facts; these other immaterial facts might be established by various means including witnesses as to the location of A and B and evidence such as, for example, in the case of the origin of the bullet, an expert ballistics report.
+[27] Odgers discusses the question: what is a material fact? Some of the historical context of the development of the rules regarding the pleading of material facts is also explained:
+What facts are material?
+7.10 “The word ‘material’ means necessary for the purpose of formulating a complete cause of action, and if any one ‘material’ fact is omitted, the statement of claim is bad” (per Scott L.J. in Bruce v. Odhams Press Ltd). The same principle applies to defences.
+7.11 Facts which are not necessary to establish either a cause of action or the defence to it are not, speaking generally, “material” within the meaning of Order 18, r. 7, and should, therefore, be omitted from the pleading unless it is clear that evidence will have to be given of them at the trial. All statements which need not be proved should be omitted.
+7.12 It is obvious, then, that the question whether a particular fact is or is not material depends mainly on the special circumstances of the particular case. It is a question which it is not always easy to answer, and yet it is a very important one: the result of the case often depends on the ruling of the judge at the trial that it is or is not necessary that a particular fact should be proved. Sometimes it is material to allege and prove that the defendant was aware of a certain fact; at other times it is sufficient to aver that he did some act, without inquiring into the state of his mind. In some cases the defendant’s intention is material: in a few cases his motives. The pleader must apply his knowledge of the law, and his common sense, to the facts stated in his instructions, and decide for himself which he must plead and which he may safely omit. Precedents may afford him some assistance; but in the end he must rely on his own judgment. No general rule can be laid down.
+7.13 In early days, when the courts were very strict, they punished either party who pleaded immaterial facts: for if his opponent pleaded to immaterial facts, and issue was joined thereon, they compelled the party who had alleged such facts to prove them literally, although they were immaterial; otherwise he failed in his action. He had himself raised the issue, so he must prove it or take the consequences.
+7.14 Subsequently, however, the courts adopted a far better method of preventing the parties from raising immaterial issues. They declared that “immaterial allegations were not traversable,” e.g. neither party was allowed to plead to any immaterial matter in his opponent’s pleading, but must treat it as surplusage and leave it alone. Thus no issue could be raised on it; and the party pleading it was no longer bound to prove it at the trial.
+7.15 And now the courts never compel either party to prove at the trial more than the substance of his pleading, even though his opponent may have expressly traversed some immaterial averment contained in it lest by the operation of Order 18, r. 13(1), it should be taken to be admitted.
+7.16 If there is doubt whether a particular fact is or is not material, the safer course is for it to be pleaded. If you think you can prove it. For if it is omitted, and it is held to be material, no evidence can be given of that fact at the trial, unless the judge will give leave to amend, and such leave may be upon terms as to payment of costs.
+. . .
+7.44 The fact in issue between the parties is the factum probandum, the fact to be proved, and therefore the fact to be alleged. It is unnecessary to tell the other side how it is proposed to prove that fact; such matters are merely evidence, facta probantia, facts by means of which one proves the fact in issue. Such facts will be relevant at the trial, but they are not material facts for pleading purposes.
+7.45 This was always a clear rule of the common law. “Evidence shall never be pleaded, because it tends to prove matter in fact, and therefore the matter in fact shall be pleaded.”
+7.46 In the Court of Chancery, however, this rule was never observed: the pleadings there were lengthy narratives which sometimes became intolerably prolix. They stated the evidence on which the party proposed to rely in full detail, with copious extracts from the material documents. They were more like lengthy affidavits than modern pleadings.
+7.47 This was partly due to the nature of the matters with which equity courts had to deal; for even now an equitable defence or reply is pleaded in the Queen’s Bench Division somewhat more in detail than is usual in the case of ordinary legal defences or replies. Moreover, it is not always easy to decide what are the facts to be proved, and what is only evidence of those facts. The question is often one of degree. “There are many cases in which facts and evidence are so mixed up as to be almost indistinguishable.” Usually though the line is reasonably clear between the fact in issue and the evidence by which that fact would be proved, and the courts have been content to affirm the principle without trying to elaborate the distinction further.
+[Footnotes omitted.]
+[28] It is clear from the historical context set out in paragraph 7.47 of Odgers that the rule as applied in England was not an absolute one.
+[29] It is also clear from the historical context set out in paragraphs 7.13 to 7.15 of Odgers that pleading immaterial facts once had significant effects that are no longer applicable. Consequently, although unduly and unnecessarily long pleadings should not be encouraged, there is less reason than was once the case to be concerned with a party pleading relevant facts that are not material facts.[12]
+[30] Indeed, Rule 47(2), which applies to all pleadings, says:
+47 . . .
+(2) Where it is convenient to do so, particulars may be set out in a separate document attached as a schedule to the pleading.[13]
+Given that it is clear that particulars go beyond the material facts,[14] this means that the Rules contemplate parties pleading facts other than material facts.
+Is it improper to include relevant facts that are not material facts in the assumptions?
+[31] There remains the question: is it improper to plead relevant but immaterial facts as assumptions? With respect to this there are a number of matters to consider.
+[32] First, there is the well-established duty on the Minister to fully disclose to the taxpayer the precise findings of fact which have given rise to the controversy and as Bowman A.C.J. (as he then was) said in Mungovan v. The Queen, 2001 DTC 691 (TCC), at paragraph 10:
+10 Assumptions are not quite like pleadings in an ordinary lawsuit. They are more in the nature of particulars of the facts on which the Minister acted in assessing. It is essential that they be complete and truthful. . . .
+Although it was dealing with a different point, whether the onus should be shifted, in that context the Federal Court of Appeal in Kossow v. Canada, 2009 FCA 83, appears to approve this quotation.[15]
+[33] The “assumptions” or basis of the assessment play a special role in tax appeals. The ultimate issue in a tax appeal is whether the Minister has correctly assessed the amount of tax, interest and penalties, if any. One of the functions of pleading the basis of the assessment is to inform the taxpayer of the case he has to meet. One of the effects of pleading assumptions is to narrow what is at issue and what the taxpayer has to prove.[16]
+[34] Thus, for example, if an individual runs a business as a proprietorship and the basis of the assessment relates solely to a claimed deduction for medical expenses, it will be unnecessary for the appellant taxpayer to make any proof regarding all the other elements which went into the ultimate calculation of his liability for tax. The appellant will not have to deal with his business revenues or expenses or with any other matter that entered into the computation of his tax.
+[35] Second, although Rule 49(1)(d), unlike Rule 49(1)(e), does not contain the word “material”, in Globtek Inc. v. The Queen,[17] Bowie J., who was quite conscious of the absence of the word “material”, stated that:
+4 . . . [i]t is material facts, and only material facts, that sub-rules 49(d) and (e) mandate.
+[36] I note, however, that, as mentioned above, Rule 47(2) envisages parties pleading particulars that may well include relevant but not material facts. I also note that the French text of Rule 49(1)(e) refers to “fait pertinent” which is closer in meaning to “relevant fact” than to “material fact”.[18]
+[37] Third, as previously discussed there are circumstances where it is very difficult to determine what the material facts are as opposed to the relevant but immaterial facts.
+[38] Let us take as an example a case where one of the issues is whether someone was a resident of Canada. Although this is primarily a question of fact, it is accepted that it is a mixed question of fact and law. Accordingly, one cannot simply assume that X is a resident of Canada. The Minister may have concluded and assumed that X was a resident because he owned a house in Canada, his spouse and children remained in Canada and lived in the house owned by X, he was employed by a company headquartered in Canada who had employed him in Canada for 10 years prior to his being asked to take the overseas position, he returned to Canada every summer for his vacation and every Christmas as well as maintaining his golf club membership and two bank accounts in Canada, etc.[19]
+[39] All the Minister’s reasons in the preceding example are facts that potentially lead to the conclusion of fact and law. None of these individual facts look like material facts by themselves. For example, the fact that X was a member of a golf club is clearly not by itself a material fact.
+[40] There is no fixed set of the above facts that are the essential elements, the material facts, relevant to the issue and yet, presumably, some subset of these facts is essential.
+[41] In this example, are some of the alleged facts not essential to the legal conclusion, and therefore relevant, but not material? Perhaps, but there is no way of determining in advance which are or are not material. In such a case, if any of the alleged facts enumerated happen to be relevant but immaterial, I cannot see how such a determination, assuming it is possible to make such a determination, could be made by anyone other than the trial judge.[20]
+[42] Fourth, as previously noted in a case where there is a mixed conclusion of fact and law, such as in the residence example above, the underlying facts, some of which may be relevant but not material facts, must be pleaded.[21]
+[43] Perhaps the discussion above is the wrong way of analyzing the example regarding residence; it may be that the better way of looking at the example is the following: all possible indicia that might lead to the conclusion that a person was a resident of Canada are material facts; the immaterial facts are only those other relevant facts that are not in themselves indicia of residence but which could lead to an inference of one or more of the indicia of residence. If this is the right way of looking at the situation then the material facts as to residence remain, potentially, quite extensive and, again, the borderline between a material and a relevant but immaterial fact may remain a grey one indeed.
+[44] Fifth, it is not apparent to me that it is necessarily in the taxpayer’s interest that the Minister be precluded from including in the section outlining the basis of the assessment assumptions regarding relevant but immaterial facts. On the contrary, in many circumstances it will be to the appellant’s advantage.[22]
+[45] There may be more than one possible set of secondary facts which can lead to the same inference of a material fact. In such a case, if the Minister includes in the assumptions the secondary facts assumed, the practical effect will be to limit the case the taxpayer has to make and to simplify the litigation process.
+[46] For example, suppose the Minister has made an assessment using an alternative estimation technique such as the net worth method. When using this technique, the Minister will determine a person’s assets and liabilities at year end and then compare the resulting net worth with the person’s net worth the following year. To estimate income the Minister will then make a number of adjustments including taking account of income reported, gifts, capital gains and many other matters.
+[47] In such an assessment there could be quite an extensive debate as to exactly which facts are material facts and which facts are secondary facts. However, it is clear that each asset or each liability as determined at year end is a secondary fact since they are added or subtracted to come up with an inference of fact, the individual’s net worth at year end. For the sake of discussion, I will assume that an individual’s net worth at year end is material fact.[23]
+[48] It is well accepted in this Court that when the net worth method is used, the Minister’s reply should include the full net worth statements including the assets and liabilities at year end and all the adjustments made in estimating an individual’s income. This necessarily includes immaterial facts.
+[49] To do otherwise would complicate enormously the task of an appellant since he would have to build up from the beginning any challenge to the Minister’s calculation of his net worth at the end of every year. Under the existing practice, the requirement of including all the assets and all the liabilities (secondary, relevant but immaterial, facts) simplifies enormously the appellant’s task as well as the entire proceeding since the appellant can focus his case simply on correcting errors in the assets and liabilities rather than having to establish each and every asset and liability.[24]
+[50] Given these considerations, particularly the duty to disclose assumptions, the comments of Bowman A.C.J. (as he then was) in Mungovan and the fact that there are clearly cases where parties are expected to plead relevant but immaterial facts, while pleadings should not be unduly and unnecessarily long, in my view there is no general prohibition against pleading assumptions consisting of relevant facts that are not material facts.[25]
+[51] Although it is not always explicitly expressed in argument, the question of onus probably lies at the heart of most debates regarding the pleading of the Minister’s assumptions or basis for the assessment. There may be cases where it is unfair to place on an appellant the onus of disputing certain assumptions. The key question in such circumstances is not whether such facts can be pleaded as assumptions based or whether they are material facts or relevant facts that are not material facts. The key question is whether the circumstances are such that the onus should not be on a taxpayer.
+[52] That question will arise in the following section.
+Allegations of fact solely within the Minister’s knowledge
+[53] The appellant argues that certain paragraphs or subparagraphs should be struck because they are allegations of fact about third parties solely within the Minister’s knowledge.
+[54] I would first observe that, generally speaking, the Minister does not have direct knowledge of the actions of an appellant or of other parties. What information he has is usually gathered during an audit by speaking to various persons and obtaining and examining various documents. Only occasionally does the Minister have direct knowledge of his own of a relevant fact; for example, he would have knowledge of his officers filing a certificate pursuant to the provisions of paragraph 227.1(2)(a) of the Income Tax Act (ITA) for the purposes of a director’s liability assessment.
+[55] Normally in a situation involving third party dealings all the circumstances will have to be considered before any decision is made regarding shifting the onus of proof.
+[56] In Kossow v. The Queen, 2008 TCC 422, V.A. Miller J. faced a very similar question. Among the motions before V.A. Miller J. was a motion for an order directing that the respondent bear the burden of proof with respect to certain paragraphs or subparagraphs of the reply. In that case the reply was 37 pages in length and there were some 138 pleaded assumptions,[26] many of which related to third parties. The appellant sought an order to shift the burden of proof with respect to allegations relating to third parties and their dealings with each other. V.A. Miller J. stated:
+45 The decision of whether the onus of proof should be shifted to the Minister for certain of the assumptions of fact is a decision that should be made by the trial judge. The following portions from Mungovan v. The Queen [2001 DTC 691] are relevant to this motion:
+10 Assumptions are not quite like pleadings in an ordinary lawsuit. They are more in the nature of particulars of the facts on which the Minister acted in assessing. It is essential that they be complete and truthful. The conventional wisdom is they cast an onus upon an appellant and as Mr. Mungovan observes with some considerable justification they may force him to endeavour to disprove facts that are not within his knowledge. Superficially this may be true, but this is a matter that can be explored on discovery. The trial judge is in a far better position than a judge hearing a preliminary motion to consider what effect should be given to these assumptions. The trial judge may consider them irrelevant. He or she might also decide to cast upon the respondent the onus of proving them. The rule in M.N.R. v. Pillsbury Holdings Ltd., 64 DTC 5184, is a rule of general application but it is not engraved in stone.
+12 It is entirely possible, as Mr. Mungovan points out, that some of the impugned assumptions are irrelevant. This is a matter for the trial judge to determine after the evidence has been presented. It is not a matter that can or should be determined on a preliminary motion to strike. It may well be that the paragraphs contain allegations that lie exclusively within the respondent's knowledge. It is a matter for the trial judge to determine whether the onus should be cast upon the respondent to establish them.
+14 The trial judge may well decide that the Crown has some onus that goes beyond the mere recitation of a bald assumption. The weight to be put on these paragraphs is a matter for the trial judge, as is the onus of proof. This is not, however, a reason for striking the paragraphs before trial.
+For these reasons, the motion to shift the onus of proof to the Minister is dismissed.
+[57] The Federal Court of Appeal,[27] in dismissing the appeal, stated:
+23 Having the benefit of all the evidence, the trial judge will be able to appreciate the fairness of the assumptions and provide the necessary relief should it turn out that they work unfairly to the detriment of the appellant: see Canada v. Anchor Pointe Energy Ltd., 2007 FCA 188, at paragraph 36; Transocean Offshore Ltd. v. Canada, 2005 FCA 104, at paragraph 35. I agree with the judge that it is premature to shift the onus of proof.
+[58] Accordingly, generally speaking it is premature for a motions judge to determine whether the onus should be shifted with respect to the assumptions relating to the actions of, or dealings between, third parties. The trial judge will usually be best placed to decide whether there should be any shift in onus.[28]
+[59] Furthermore, it follows that the question is not whether to strike assumptions regarding third parties; it is whether the onus should shift with regard to those assumptions.
+[60] This is an opportune place to mention a different point raised by the appellant with respect to assumptions related to third parties. Where there are assumptions related to the actions of third parties, the reply must show how those assumptions relate to the assessment in issue.[29] This is a question of relevance. In determining whether the reply complies with this, one must look at the reply as a whole.
+Conclusions of law or mixed conclusions of fact and law
+[61] It is clear that the factual underpinnings to conclusions of law or mixed conclusions of fact and law should normally be pleaded.
+Rule 53 — striking pleadings or any portion thereof
+[62] It is quite clear on its face that section 53 sets a fairly high threshold before all or part of a pleading will be struck. A pleading or portion thereof may be struck where it:
+53 . . .
+(a) may prejudice or delay the fair hearing of the action,
+(b) is scandalous, frivolous or vexatious, or
+(c) is an abuse of the process of the Court.
+This high threshold is well recognized in the following statement by Bowman C.J. in Gould v. The Queen, 2005 TCC 556:
+23 Generally speaking, the striking out of portions of a pleading under section 53 of the Rules should be reserved for only the most plain and obvious cases. Matters of weight and relevancy are best determined by the trial judge who will have heard all of the evidence. Frequently the significance of a piece of evidence will not become clear until the end of a case. I repeat what was said in Niagara Helicopters Limited v. The Queen, 2003 DTC 513 at 514-515:
+6 It is in my view premature at this stage of the proceedings to determine that facts which counsel for the appellant considers to be a relevant and necessary part of the appellant's case are irrelevant. The authorities are undisputed that it is only where it is clear and obvious that a pleading is scandalous, frivolous or vexatious or an abuse of the process of the court that it may be struck out. (Hunt v. Carey Canada Inc., [1990] 2 S.C.R. 959 at 980; Erasmus et al. v. The Queen, 91 DTC 5415 at 5416).
+This is recognized in other decisions of this Court.[30], [31]
+Striking pleadings for failure to include information
+[63] In contrast to circumstances where, it is argued, something should not be in the pleading, an additional consideration arises in the application of Rule 53 where it is alleged that a party has failed to include something in a pleading, as is the case here, where it is argued that certain parts of the reply should be struck because of a failure to plead the factual underpinnings of mixed conclusions of fact and law.
+[64] In such a case where the complaint is a failure to include something in the pleading, it is also necessary in applying Rule 53 to consider whether the trial process is better served:
+(a) by a motion to strike and, if it is successful, in all likelihood, a motion to amend the reply which may well be successful
+or
+(b) by a demand for particulars followed by a motion for particulars, if necessary.
+[65] Depending on the circumstances, sometimes the more appropriate course of action may be to demand particulars in which case a motion to strike may be dismissed.[32]
+Summary
+[66] To summarize, in general:
+(a) evidence should not be pleaded;
+(b) irrelevant facts should not be pleaded;
+(c) with respect to pleadings generally, Rule 49(1)(e) and Form 21(1)(a) (notice of appeal) of the Rules mandate the pleading of material facts;
+(d) the rule against pleading relevant facts that are not material facts no longer has the force, or the consequences, that it had historically and, as demonstrated by Rule 47(2), it is permissible to plead relevant facts that are not material facts;
+(e) with respect to assumptions,
+(i) the rules mandate that the material facts should be pleaded,
+(ii) there is no general rule against pleading relevant facts assumed that are not material facts,
+(iii) there are some circumstances where the inclusion of relevant but immaterial facts is required,[33]
+(iv) factual allegations underpinning conclusions of law or mixed conclusions of fact and law should be pleaded,
+(v) assumptions relating to the actions of, or dealings between, third parties may be pleaded, and
+(vi) it must be clear from the reply that the actions of third parties relate to the assessment in issue;
+(f) generally the trial judge will be better placed than the motions judge to determine what category an allegation falls into and, unless the matter is clear-cut, such a determination should normally be left to the trial judge;
+(g) generally the trial judge will be better placed than the motions judge to determine whether it is appropriate to shift the onus with respect to any assumptions relating to actions of, or dealings between, third parties and, unless the matter is clear-cut, such a determination should normally be left to the trial judge; and
+(h) the threshold for striking all or part of a pleading under Rule 53 is a high one.
+Of course, there will always be exceptions where the particular circumstances of a case and the principles and objectives underlying the litigation process in a tax context require a different solution.
+[67] In assessing whether it is appropriate to strike a paragraph of a pleading one must bear in mind the practical effect of the paragraph.
+[68] In this context one must bear in mind that an invalid or irrelevant assumption does not cast an onus upon an appellant just because it was pleaded. For example, if on discovery it turns out that an assumption was never made then there is no onus on the appellant to disprove it; if the respondent wishes to rely on that particular fact, the respondent will have to prove it. Similarly, if what is pleaded as an assumption of fact is simply a conclusion of law and no underlying facts for that conclusion of law have been assumed elsewhere then there is no obligation on an appellant to disprove that.
+[69] Similarly, if it turns out that an alleged assumption is irrelevant, an appellant’s failure to disprove it is of no consequence and it may safely be ignored.[34]
+Specific subparagraphs the appellant seeks to have struck[35]
+[70] With the above considerations in mind, I turn to the specific portions of the amended reply in issue. The Court wishes to thank both parties for their written submissions. The appellant consolidated his original submission with his reply submission[36] and, accordingly, I have simply worked from the appellant’s reply submission.[37]
+[71] In a number of cases the appellant seeks to have portions of the amended reply struck on the grounds that they are allegations of fact other than material facts. With respect to the portions that the appellant seeks to have struck for that reason, I will simply say that in the absence of a general prohibition against pleading relevant facts that are not material facts, in the absence of a general prohibition against including such facts in the assumptions and given that I do not see any unusual circumstances which would make it appropriate for me to strike any relevant but immaterial allegation that is in issue, nothing shall be struck for those reasons.[38] (In addition, I would note that in many cases it is not clear-cut whether or not the particular fact alleged is or is not a material fact.)
+[72] I do not intend to deal with this argument again in dealing with the specific paragraph or subparagraphs in issue.
+Subparagraphs 18(a) to (n) plus part of (o)
+[73] With respect to the above-noted subparagraphs, the appellant’s arguments for striking may be summarized as follows:
+(a) the facts alleged relate to activities of third parties outside the appellant’s knowledge;
+(b) the facts alleged have not been related to the appellant as required by Canada v. Status-One Investments Inc., 2005 FCA 119; and
+(c) they are not material facts.
+[74] With respect to the first of these grounds, the real question is whether the onus should be shifted, not whether subparagraphs should be struck. Considering the pleadings, I see nothing here that would justify diverging from the general rule that this question is best left to the trial judge.
+[75] With respect to the second ground, later in the amended reply it is alleged that the appellant had dealings with companies referred to as TCL, TSA and TTL and that the appellant entered into transactions with these companies in relation to computer software. In the challenged subparagraphs it is alleged that these companies are related and marketed investment vehicles relating to computer software. It is further alleged that the companies did not deal at arm’s length and that there were certain terms to these transactions, terms which applied to the transaction which the appellant entered into.
+[76] As a general proposition, I cannot accept the appellant’s argument; the allegations in question deal with the parties with whom the appellant was investing and with the type of investment made. For example, I entirely fail to see how it can be said that the terms of the transactions described in subparagraphs (l), (m) and (n), terms which are alleged to apply to the appellant,[39] could be said to be irrelevant to the appellant.
+[77] However, with respect to subparagraph (g), I fail to see how the fact that an investment made in the software in a particular manner was registered as a “tax shelter” and was acknowledged to be a “tax shelter” is related to the issues in the appellant’s appeal where the investment was allegedly made by the appellant in a different manner.
+[78] With respect to subparagraph (c), I fail to see how the name of the chairman and CEO of the Trafalgar Group has any relevance to the issues under appeal.
+[79] Subparagraphs (c) and (g) will be struck.
+Subparagraphs 18(u)(xii), (aa), (bb), (dd)[40] and (vv)
+[80] The essence of the appellant’s position with respect to these subparagraphs is that they plead conclusions of law. The respondent says that these subparagraphs are properly pleaded and fall within Rule 51(1).
+[81] While some of the wording looks like it could be a conclusion of law, most of the subparagraphs could well be a summary of the terms of the contract or “the effect of a document”. Without the documents, which are not before the Court at this stage, it is impossible to tell with certainty whether the subparagraphs go beyond Rule 51(1) and contain conclusions of law.
+[82] I am not prepared to strike these subparagraphs for two further reasons. First, the trial judge will see the documents and be better placed to decide whether any of these subparagraphs are conclusions of law rather than a summary of the terms of the agreement; if the trial judge concludes that any are conclusions of law, then the statement will not, of course, result in any onus on the appellant. Secondly, and more importantly, as a practical matter, once in evidence the agreements will speak for themselves and it will not matter what any party alleged they say; the trier of fact will be able to read them and decide what they say as well as decide what their legal effects are.
+Subparagraph 18(y)
+[83] First, the appellant asserts that this subparagraph is not a material fact. Secondly the appellant asserts that it is a conclusion of law.
+[84] As to the second ground, I disagree. On its face, this subparagraph does not appear to be a conclusion of law or a summary of the terms of the contract. What it appears to be is an allegation of an intention, a fact. There is no reason to strike this subparagraph.
+Subparagraph 18(z)
+[85] The appellant argues that the 1999 promissory note contains no such term and that therefore this is a conclusion of law. It may be; however, without seeing the note and the other agreements one simply cannot tell.
+[86] If at trial it turns out to be the case that there is no such term and this turns out to be a conclusion of law, then the subparagraph will not cast any onus on the respondent. Again, as I said earlier, in practice once the agreements are in evidence they will speak for themselves and what was pleaded about them will no longer matter. There is no reason to strike this subparagraph.
+Part of subparagraph 18(rr)
+[87] The appellant’s objection is that the subparagraph concludes that the arrangement described did not constitute the payment of interest, a conclusion of law. The appellant would not object if subparagraph (rr) said “TTL used the Service Provider Monthly Fee payable to the Appellant to offset the interest payable by the Appellant”.
+[88] While the opening words of the subparagraph could conceivably be read in the way that the appellant suggests, I am satisfied that the more natural reading is simply as a factual allegation regarding the mode of payment, given the portion of the text not disputed by the appellant. There is no reason to strike this subparagraph. The trial judge will be perfectly capable of dealing with this.
+Part of subparagraph 18(tt)
+[89] The appellant does not object to “[t]he Appellant did not participate in any trading” but takes the position that the remainder of (tt) is a mixed conclusion of fact and law based on the respondent’s interpretation of the legal effects of the documents. The respondent argues that the remainder is not based on any legal analysis.
+[90] If this statement about liability or risk was a conclusion drawn from a legal analysis of the agreements, it would be problematic.
+[91] However, read by itself and in the context of the whole pleading, I do not see how it can be a conclusion of law regarding the agreements in issue. It appears to be no more than a statement that the appellant did not trade in securities and (accordingly) has no liabilities or risk in respect to trading in securities.
+[92] There is no basis to strike this subparagraph.
+Subparagraph 18(ww)
+[93] The appellant argues that this is a conclusion of law based on the respondent’s interpretation of documents. I cannot agree; this is clearly an allegation of the parties’ intention, a fact.
+Subparagraphs 18(xx), (yy) and (zz)
+[94] The appellant argues that these are conclusions of law rather than a concise summary of the terms of an agreement. Again, either could be true and the Court does not have the documents before it.
+[95] What I said in paragraph 82 above is equally applicable here.
+[96] The appellant also argues with respect to subparagraph (yy) that it is a paraphrase of subsection 143.2(2) of the ITA and should be struck out as a conclusion of law. Subparagraph (yy) is more a combination of an allegation of fact and a mixed conclusion of fact and law. To the extent that it is, the key question is whether or not the underlying facts assumed have been set out; if they have not, no onus is cast on the appellant. However, reading the amended reply as a whole, I am not convinced that the respondent has failed to set out the underlying facts.[41]
+[97] There is no reason to strike these subparagraphs.
+Subparagraph 18(hhh)
+[98] The appellant argues that this is an impermissible conclusion of law.
+[99] The appellant also argues “. . . that the Respondent’s assertion that the intention of the parties is not consistent with the documents is based upon a conclusion of law . . .” as to the legal effects of the documents or a conclusion of law that the documents do not create valid and binding obligations.[42]
+[100] I do not agree. This is an allegation of intention or objective, a fact. There is no reason to strike the subparagraph.
+Subparagraphs 18(kkk) and (lll)
+[101] With respect to subparagraph (kkk), the appellant asks that it, or in the alternative, that the word “fictitious”, be struck on the basis that it presupposes that the agreements did not create valid and binding legal obligations.
+[102] With respect to subparagraph (lll), the appellant asks that it, or in the alternative, the word “excessive”, be struck on the grounds that it is for this Court to determine whether the amounts are excessive.
+[103] While I agree that an assumption cannot be determinative of something to be decided by the Court, I cannot agree with the appellant. Both subparagraphs allege an objective or intention. The assumed fact that there was an objective of creating losses is not determinative of whether there are binding legal obligations. Similarly the assumed objective in (lll)[43] does not determine whether or not the CCA claims were reasonable. There is no reason to strike these subparagraphs.
+Subparagraph 18(nnn) and part of subparagraph 18(ppp)
+[104] The appellant challenges the words “it was simply window dressing to provide him with immediate, significant tax savings” in subparagraph (ppp)[44] on the basis that they suggest that as a matter of law the agreements with respect to the licenses in question did not create valid and binding legal obligations which would be a conclusion of law. It is clear, particularly when one reads subparagraphs (nnn) and (ooo), that (ppp) is a statement of the appellant’s purpose or objective; the validity of the agreements will no doubt turn on the interpretation of those agreements once produced at trial.
+[105] Having said that, I am not convinced that the words “window dressing” add anything useful; however, I do not think they meet the threshold of Rule 53 and the two words may safely be ignored.
+[106] The appellant also asserts that subparagraphs (nnn) and (ppp) are improper because they allege an intention inconsistent with the wording of the agreements and under the parol evidence rule the respondent will have to adduce evidence at trial in support of her contention. I am unaware of any rule that results in assumptions being limited by the parol evidence rule.
+[107] There is no reason to strike any part of either of these subparagraphs.
+Subparagraphs 18(sss) and (ttt)
+[108] The appellant says that subparagraph (sss) should be struck for three reasons.
+[109] First, it is argued that whether there was a “representation or statement” is a question of law or a mixed question of fact and law and that not all communication constitutes a representation or statement for the purposes of section 237.1 of the ITA. The appellant did not cite any authority for this and, in examining section 237.1, I am unable to see why whether there was a statement or a representation is a question of law or a mixed question of fact and law rather than a question of fact.[45]
+[110] There are other elements required in the definition of the tax shelter but they do not affect what is a representation or a statement.
+[111] Second, the appellant argues that subparagraph (sss) should be struck because it involves allegations about third parties particularly within the knowledge of the respondent. In essence, the appellant makes the same argument with respect to subparagraph (ttt). For the reasons set out above, the issue that arises as a result of this is whether the onus should shift, a question for the trial judge.
+[112] Third, the appellant submits that subparagraph (sss) has not been shown to be relevant in so far as this allegation has not been connected to the appellant. However, the issues in this case make it relevant whether or not certain kinds of representations have been made to others and not just the appellant and, accordingly, this is a relevant allegation.[46]
+[113] There is no reason to strike any of these subparagraphs.
+Paragraph 19
+[114] The appellant raises a variety of arguments against this paragraph. Some of them may be rapidly disposed of on the basis that paragraph 19 does not state the basis of the assessment or the assumptions of the Minister. Accordingly, there is no presumption of validity of paragraph 19. This paragraph consists of allegations that the Minister must prove.
+[115] The appellant also argues that these are inconsistent allegations contrary to Rule 51(2). It is not at all evident how subparagraphs 19(b) and (c) are inconsistent with the rest of the pleading. Subparagraph 18(aaa) assumes that the fair market value of the 1999 license and the 2000 license was no more than $1,000 per $50,000 purchase price. An alleged fair market value of 2% of the purchase price is not inconsistent with the description “nominal value”.
+[116] With respect to subparagraph 19(a), Rule 51(2) states:
+51 . . .
+(2) A party may make inconsistent allegations in a pleading where the pleading makes it clear that they are being pleaded in the alternative.
+[117] Subparagraph 19(a) is inconsistent with subparagraph 18(sss) in so far as it begins with “[r]epresentations or statements were proposed to be made” instead of “[r]epresentations or statements were made . . .". However, while the words “in the alternative” could have been added, it is clear that if representations were made they were not proposed to be made and that they are in the alternative. This does not constitute a basis for striking under Rule 53.
+[118] Finally, with respect to subparagraph 19(a), the appellant makes the same argument as his first argument with respect to subparagraph 18(sss). For the same reasons as I explained above, I do not accept that argument.
+Examination of the auditor prior to answer and production of documents relating to the assumptions prior to the answer
+[119] The appellant has withdrawn this part of the motion.
+Extension of time to file an answer
+[120] The respondent[47] does not contest this request and I see no reason not to extend the time for the appellant. The appellant shall have 45 days from the order to file an answer if he desires to do so.
+Full list pursuant to Rule 82
+[121] The respondent opposes the production of a full list and submits that the appellant only seeks to put the respondent to greater cost and trouble. The respondent also argues that if a full list were ordered, she should also receive a full list. The appellant argues that he needs full disclosure given the issues and the nature of the case in order to assist him in advancing his case.
+[122] Granting a full list is not automatic; there must be a basis for it. It must be borne in mind as well that in practice one party can and often does obtain documents from the other party that were not on the other party’s Rule 81 list at the oral examination for discovery. In this case no lists of documents have been exchanged yet.
+[123] However, in the circumstances including the nature of the issues, and the fact that the Minister may have third party information that the appellant does not possess, it is appropriate to order that the respondent produce a full list of documents pursuant to Rule 82.
+[124] It is also appropriate to order that the production by the respondent be made conditional on the appellant producing a list to the respondent pursuant to Rule 82.
+[125] Although not in the motion, the appellant also sought in his original written submissions an order that the respondent provide copies. I do not see any reason to do so here. Normally parties are able to make arrangements among themselves with respect to copies and I trust that will be the case here. Failing agreement between the parties, Rule 85 sets out the parties’ obligation.
+Conclusion
+[126] Accordingly, the Court will order that:
+(a) subparagraphs 18(c) and 18(g) of the amended reply be struck;
+(b) the time to file an answer will be extended to 45 days after this order;
+(c) the respondent shall file and serve on the appellant a list of documents pursuant to Rule 82 on condition that the appellant also file and serve a list of documents on the respondent pursuant to Rule 82. The lists are to be filed and served on the opposing party no later than 75 days after the last day on which the appellant may file an answer.
+[127] Both parties sought costs. In the circumstances costs will be in the cause.
+Sirett appeal
+[128] A similar order will be issued in the Sirett appeal.
+Signed at Ottawa, Ontario, this 27th day of August 2010.
+“Gaston Jorré”
+Jorré J.
+CITATION: 2010 TCC 448
+COURT FILE NOS.: 2008-2468(IT)G, 2008-2590(IT)G
+STYLE OF CAUSES: ROBERT ALAN KOPSTEIN v. HER MAJESTY THE QUEEN, WILLIAM SIRETT v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: March 20, 2009
+REASONS FOR ORDER BY: The Honourable Justice Gaston Jorré
+DATE OF ORDER: August 27, 2010
+APPEARANCES:
+Counsel for the appellants:
+Robert Alan Kopstein
+Jasmine Sidhu
+Counsel for the respondent:
+David I. Besler
+COUNSEL OF RECORD:
+For the appellants:
+Name: Robert Alan Kopstein
+Firm: Blake, Cassels & Graydon
+Vancouver, British Columbia
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] All references to the Rules in these reasons are to the Tax Court of Canada Rules (General Procedure) unless otherwise stated.
+I should note the following: the amended reply and the notice of motion were filed a day apart with the result that as a practical matter, they overlapped. Consequently, the motion refers to the “reply” rather than the amended reply. However, nothing turns on this and it is clear that what is in issue is the amended reply.
+[2] See the notice of motion at paragraphs 2 and 3 under the heading "grounds for the motion".
+[3] More specifically the appellant objected that some of the paragraphs or subparagraphs in question consist of “evidence that the Respondent will have to adduce to establish the material facts relied on by the assessor . . .”. I am not aware of any rule or principle that requires the respondent to adduce evidence to establish the findings or assumptions of fact made by the Minister. Of course, during the trial, if faced with evidence brought forward by an appellant challenging the assumptions made the Minister, the respondent may well find that she needs to lead evidence in support of her position on the facts justifying the assessment. However, there is no initial obligation on the respondent to bring evidence in support of assumptions of fact.
+[4] The motion to strike portions of the reply in Foss was dismissed on other grounds and the particular paragraphs cited are in obiter.
+[5] Bowie J. also stated in paragraph 12 that:
+12 In general procedure cases the appellant has the benefit of discovery through which he may obtain particulars of the evidence that the respondent may lead at trial to prove the material facts pleaded. I would not want what I have said above to be taken as necessarily governing the rules of pleading in informal cases, where there are no discoveries, and other considerations may apply.
+[6] The “assumptions” have been referred to in a variety of ways. This is the formulation articulated by Rand J. in Johnston v. M.N.R., [1948] S.C.R. 486, at paragraph 9:
+9 . . . It must, of course, be assumed that the Crown, as is its duty, has fully disclosed to the taxpayer the precise findings of fact and rulings of law which have given rise to the controversy. . . .
+(See also paragraph 7 of Johnston.)
+This obligation can be met by disclosing such findings in reassessing or in responding to a notice of objection even before the matter gets to court; see Hillsdale Shopping Centre Ltd. v. Canada, [1981] F.C.J. No. 544 (QL) at paragraph 22. Rule 49(1)(d) should nonetheless be complied with.
+[7] See Canada v. Anchor Pointe Energy Ltd., 2003 FCA 294, at paragraph 26:
+26 However, the assumption in paragraph 10(z) can be more correctly described as a conclusion of mixed fact and law. A conclusion that seismic data purchased does not qualify as CEE within the meaning of paragraph 66.1(6)(a) involves the application of the law to the facts. Paragraph 66.1(6)(a) sets out the test to be met for a CEE deduction. Whether the purchase of the seismic data in this case meets that test involves determining whether or not the facts meet the test. The Minister may assume the factual components of a conclusion of mixed fact and law. However, if he wishes to do so, he should extricate the factual components that are being assumed so that the taxpayer is told exactly what factual assumptions it must demolish in order to succeed. It is unsatisfactory that the assumed facts be buried in the conclusion of mixed fact and law.
+[8] For example, it is accepted that whether or not a person is a resident of Canada is a mixed question of fact and law. If an appellant filed his income tax return on the basis that he was a resident and the Minister did not question that, it cannot be objectionable for the Minister to simply accept the filing position and assume that the appellant was a resident without having ever addressed his mind to the underlying facts; in such a circumstance it would make no sense to put the onus on the Minister to prove the appellant was a resident if on appeal the appellant’s position was that he was a non-resident. I am satisfied that Canada v. Anchor Pointe, 2003 FCA 294, did not contemplate such an unusual circumstance where an assumption of a mixed conclusion of fact and law was based on accepting the taxpayer’s filing position.
+Although one might think such an example is academic, in 935475 Ontario Limited v. The Queen, 2009 TCC 196 (at paragraphs 39 to 41), the appellant sought to have the words "capital asset" and "and was therefore a capital debt" struck from certain alleged assumptions of fact on the basis that these were conclusions of law or mixed conclusions of fact and law and no underlying assumptions of fact were disclosed in the pleading even though the assumption simply reflected the basis on which the appellant had filed his return.
+[9] This is not intended to be exhaustive. There may be other kinds of statements. For example, a pleading may contain allegations of what might be described as “background facts”. While an alleged background fact may not, strictly speaking, be relevant to the issues, if it is related to the context of the case, it is acceptable to include it and lead evidence about it. For example, in a tax case about a business it would not be objectionable to include a brief statement about the nature of the business even if it has no relevance to the issue. Of course, such background must be kept within reasonable bounds.
+[10] Arguably, “relevant facts that are not material facts” may include more than just relevant facts which may lead to an inference of a material fact. Depending on how one views relevant facts resulting in a mixed conclusion of fact and law it may be more appropriate to think of “relevant facts that are not material facts” as relevant facts which may lead to an inference of a material fact or to a mixed conclusion of fact and law. See the discussion below at paragraphs 37 to 43.
+[11] Also, as discussed below, the trial judge will normally be better placed to decide whether in the particular circumstances of the case a different approach is required with respect to one of the rules of pleading.
+[12] Indeed, in England the current Civil Procedure Rules no longer use the term “material facts”. Rule 16.4 states:
+16.4(1) Particulars of claim must include –
+(a) a concise statement of the facts on which the claimant relies;
+Under those rules, an action begins with a claim form. A party must either include particulars of claim in the claim form or send it separately to the other party.
+In the example above with the hunting accident, if there is no direct witness it is hard to see how pleading the relevant but immaterial facts that the plaintiff proposes to prove in order to ask the trier of fact to infer that A shot B causes any harm to the defendant or how it harms or delays the overall trial process.
+[13] The French text reads: "(2) Le cas échéant, les détails peuvent être exposés dans un document distinct, annexé à l’acte de procédure."
+[14] Dionisio v. Popular, 2007 CanLII 52975 (ON S.C.):
+24 Particulars are additional details that enhance the material facts, but are not so detailed as to amount to evidence: Copland v. Commodore (1985), 3 C.P.C. (2d) 77 (Ont. Master) at pp. 80-1, affd. (1985), 3 C.P.C. (2d) 77n (Ont. H.C.J.). Particulars have the effect of providing details that narrow the generality of pleadings: Mexican Northern Power Co. v. Pearson (1913), 25 O.L.R. 422 (Master). The function of particulars is to define the issues to allow a defendant to respond intelligently to the claim: International Nickel Co. v. Travelers Indemnity Co. [1962] O.R. No. 56 (Ont. C.A.); Blatt Holdings Ltd. v. Traders General Insurance Co. (2001), 6 C.P.C. (5th) 174 (Ont. S.C.J.). There is a limit to the role of particulars because to provide too much detail is to commit the vice of pleading evidence.
+[15] In Kossow, the FCA appears to approve the following statements:
+21 At paragraph 45 of her reasons from judgment, she quotes the following excerpt from Bowman A.C.J.T.C.C. in Mungovan v. The Queen, 2001 TCC 568 [2001-568(IT)G, 2001 DTC 691], at paragraphs 10, 12 and 14:
+10 Assumptions are not quite like pleadings in an ordinary lawsuit. They are more in the nature of particulars of the facts on which the Minister acted in assessing. It is essential that they be complete and truthful. The conventional wisdom is they cast an onus upon an appellant and as Mr. Mungovan observes with some considerable justification they may force him to endeavour to disprove facts that are not within his knowledge. Superficially this may be true, but this is a matter that can be explored on discovery. The trial judge is in a far better position than a judge hearing a preliminary motion to consider what effect should be given to these assumptions. The trial judge may consider them irrelevant. He or she might also decide to cast upon the respondent the onus of proving them. The rule in M.N.R. v. Pillsbury Holdings Ltd., 64 DTC 5184, is a rule of general application but it is not engraved in stone. …
+…
+12 It is entirely possible, as Mr. Mungovan points out, that some of the impugned assumptions are irrelevant. This is a matter for the trial judge to determine after the evidence has been presented. It is not a matter that can or should be determined on a preliminary motion to strike. It may well be that the paragraphs contain allegations that lie exclusively within the respondent's knowledge. It is a matter for the trial judge to determine whether the onus should be cast upon the respondent to establish them. …
+…
+14 The trial judge may well decide that the Crown has some onus that goes beyond the mere recitation of a bald assumption. The weight to be put on these paragraphs is a matter for the trial judge, as is the onus of proof. This is not, however, a reason for striking the paragraphs before trial.
+[Emphasis added]
+22 In a subsequent case bearing much similarity with the appellant’s case, Gould v. The Queen, 2005 TCC 556, at paragraphs 21 and 22, Chief Justice Bowman wrote:
+21 With respect, I am unable to ascribe to either the Status-One decision or the case which it followed, The Queen v. Global Communications Limited, 97 DTC 5194, the effect contended for by counsel for the appellant. A central component in the assessment which disallowed the charitable donations is the existence of a “scheme” in which it is alleged that the appellant participated and which enabled the participants to obtain what the Crown sees as artificial or inflated charitable tax credits. It of necessity involved third parties and if the existence of a scheme is essential to the Crown’s case it should be able to plead and prove all of the components of the scheme. To say, as the appellant does, that Global and Status-One preclude any reference to third party transactions unless the appellant knows of or is privy to those transactions goes too far. If the existence of a scheme is germane to the disallowance it cannot be ignored whether or not the Minister assumed that the appellant knew about or was a party to the third party transactions that, according to the Reply, were an integral part of the scheme. If any of the facts assumed are truly within only the Crown’s knowledge the Crown probably has the onus of proving them although this is ultimately for the trial judge to decide.
+22 I might observe that the complaint that is usually made is that the Crown has not pleaded all of the material assumptions or has not pleaded assumptions that assist the appellant. Here the reverse is true. The appellant is complaining that too many assumptions are pleaded. It would seem to me that if an assessment is based on assumptions that are irrelevant, contradictory or illogical, as the appellant alleges, this could arguably form a cogent basis for attacking the assessment. If those assumptions are removed from the Reply the appellant has deprived himself of one of the weapons in his arsenal. Why he would wish to do so escapes me. There is a danger that one can, in getting too engrossed in technical minutiae, lose sight of the substantial tactical advantage of forcing the Crown to live with its own pleadings. There is much to be said for the venerable rule about not educating your opponent.
+[Emphasis added]
+. . .
+[16] In addition, if in the reply the respondent alleges further facts — facts which were not assumed in the course of the assessment process — in support of the assessment and brings forward evidence of these facts, then the appellant my find that it is desirable to lead evidence in response.
+[17] 2005 TCC 727. See also Foss, 2007 TCC 201, at paragraph 6.
+[18] “Fait pertinent” is also used for “material fact” in the French language version of Form 21(1)(a) in Schedule I of the Rules. Rule 174 of the Federal Court Rules uses the term “faits substantiels” for material fact in the English text. In Ontario, Rule 25.06 of the Rules of Civil Procedure uses “faits pertinents" for material fact. While I do not propose to examine this, the further question arises as to what impact, if any, results from the fact that as a national court this Court must apply its rules of pleading in both common law and civil law jurisdictions with different histories and practices regarding civil procedure.
+[19] I note that in this example each of the immaterial, or secondary facts, is quite distinct from the evidence that would prove each of the secondary facts.
+[20] Consider paragraph 7.12 of Odgers cited above.
+[21] See Canada v. Anchor Pointe, 2003 FCA 294, at paragraph 26 (quoted in footnote 7 above).
+[22] Consider Gould v. The Queen, 2005 TCC 556, at paragraph 22, where Bowman C.J. wrote:
+22 I might observe that the complaint that is usually made is that the Crown has not pleaded all of the material assumptions or has not pleaded assumptions that assist the appellant. Here the reverse is true. The appellant is complaining that too many assumptions are pleaded. It would seem to me that if an assessment is based on assumptions that are irrelevant, contradictory or illogical, as the appellant alleges, this could arguably form a cogent basis for attacking the assessment. If those assumptions are removed from the Reply the appellant has deprived himself of one of the weapons in his arsenal. Why he would wish to do so escapes me. There is a danger that one can, in getting too engrossed in technical minutiae, lose sight of the substantial tactical advantage of forcing the Crown to live with its own pleadings. There is much to be said for the venerable rule about not educating your opponent.
+[23] One could argue that the net worth at year end is a secondary fact leading to an inference of fact, the change in net worth during a year, but for the purposes of the discussion it is not necessary or useful to determine what facts in a net worth are or are not material facts.
+[24] Consider also a tax appeal where the issue was whether the expenditure claimed for a dinner was incurred for the purpose of earning income from a business and the material fact assumed by the Minister was that the expenditure was a personal expenditure. Suppose, as well, that the Minister went on to plead in the assumptions that the sole purpose of the dinner was to celebrate the birthday of the appellant’s spouse and all the attendees were family members.
+To disprove the assumption that the claimed expenditure was a personal expenditure the appellant would no doubt bring some evidence as to who was there and what the purpose of the dinner was. The appellant might do this by testifying and by also leading some evidence to corroborate his testimony. The additional immaterial assumptions alleged do not change that.
+However, the additional assumptions have the benefit of immediately alerting the appellant to the fact that the Minister is not taking the position that the claimed dinner expenditure was personal for some other reason(s), such as, for example, that the expenditure was in fact made not to pay for dinner but to pay for something else that was personal.
+While it is true that an appellant could find this out at discovery, it is hard to see how the additional relevant but not material facts could add to the appellant’s burden. The effect of the additional assumptions in this example may be to simplify and expedite matters.
+Perhaps the characterization of the expenditure as personal while predominantly factual is a mixed question of fact and law; if so, then, absent special circumstances, the underlying factual assumptions must be disclosed and it is not sufficient to set out only the assumption that the expenditure was personal.
+[25] There is another consideration. In the informal procedure, there is no documentary discovery or oral examination for discovery. It is an expedited procedure where the appellant files a notice of appeal, the respondent files her reply and the next step is to go directly to trial. Rule 6 of the Tax Court of Canada Rules (Informal Procedure) sets out the requirements for a reply. In Rules 6(1)(d) and (e) of the informal procedure, the wording is the same as in Rules 49(1)(d) and (e) of the general procedure. Given the absence of discovery in the informal procedure, it is highly desirable that replies in that procedure should set out fully the basis for the assessment.
+[26] See paragraph 33 of the decision.
+[27] 2009 FCA 83.
+[28] Taking into account the particular facts of the case, the principles and objectives of evidence and civil procedure and the nature of tax litigation.
+[29] Canada v. Status-One Investments Inc., 2005 FCA 119, paragraphs 24 and 25. It is interesting that in Status-One the respondent subsequently moved to amend its reply and was allowed to amend its reply. The amended reply added assumptions which appear to have cured the original defect. See 2005 TCC 766 and 2007 FCA 193. In applying Status-One, one must bear in mind the comments of Bowman C.J. with respect to pleading in Gould v. Queen, 2005 TCC 556, in the last few lines of paragraph 21 – the paragraph is quoted by the FCA in paragraph 22 of Kossow (see footnote 15 above).
+[30] Among other similar statements:
+4 . . . There are many cases in which the matter has been considered both in this court and the Federal Court of Appeal. It is not necessary to quote from them all as the principles are well established.
+(a) The facts as alleged in the impugned pleading must be taken as true subject to the limitations stated in Operation Dismantle Inc. v. Canada, [1985] 1 S.C.R. 441 at 455. It is not open to a party attacking a pleading under Rule 53 to challenge assertions of fact.
+(b) To strike out a pleading or part of a pleading under Rule 53 it must be plain and obvious that the position has no hope of succeeding. The test is a stringent one and the power to strike out a pleading must be exercised with great care.
+(c) A motions judge should avoid usurping the function of the trial judge in making determinations of fact or relevancy. Such matters should be left to the judge who hears the evidence.
+(d) Rule 53 and not Rule 58, is the appropriate rule on a motion to strike.
+(Bowman C.J. in Sentinel Hill Productions (1999) Corporation v. The Queen, 2007 TCC 742)
+*****
+6 It is in my view premature at this stage of the proceedings to determine that facts which counsel for the appellant considers to be a relevant and necessary part of the appellant's case are irrelevant. The authorities are undisputed that it is only where it is clear and obvious that a pleading is scandalous, frivolous or vexatious or an abuse of the process of the court that it may be struck out. (Hunt v. Carey Canada Inc., [1990] 2 S.C.R. 959 at 980; Erasmus et al. v. The Queen, 91 DTC 5415 at 5416).
+7 It is by no means clear and obvious that the impugned paragraphs are scandalous, vexatious or frivolous or an abuse of this court's process. The remedy of striking out portions of pleadings on such grounds is reserved for the most obvious of cases, such, for example, as Davitt v. The Queen, 2001 DTC 702.
+8 Whether an allegation is irrelevant is something that the trial judge is in a position to determine in the context of all of the evidence at trial. It is inappropriate on a preliminary motion for a motions judge, who has heard no evidence, to decide that an allegation is irrelevant thereby depriving a party of the opportunity of putting the matter before the judge who presides the trial and letting him or her put such weight on it as may be appropriate.
+(Bowman C.J. in Niagara Helicopters Limited v. The Queen, 2003 TCC 4)
+*****
+2 The threshold for applying section 53 is high. It is not to be applied unless the issue raised in the notice of appeal clearly has no merit. The outcome must be "plain and obvious" and the result "beyond reasonable doubt:" . . .
+(Woods J. in Main Rehabilitation Co. Ltd. v. The Queen, 2003 TCC 454)
+*****
+23 . . . In many instances it may be a very fine line that separates that which is fact from that which is evidence. . . .
+. . .
+26 . . . A motions Judge must be vigilant of expunging portions of a pleading which one party wishes to place before the Judge that will hear the appeal. A motion is a preliminary step where evidence respecting weight and relevancy are not presented. The Court must be careful in a motion to strike that allegations which a party wants to place before the presiding Judge are not inappropriately removed thereby depriving that party of the right to argue that the allegation is relevant in light of all of the evidence presented during the hearing.
+(Campbell J. in Algoma Central Corporation v. The Queen, 2009 TCC 314)
+[31] See also paragraph 38 of Jourdain v. Ontario, 2008 CanLII 35684 (ON S.C.):
+38 While pleadings must not offend the Rules, it is well established that counsel may frame their pleadings as they deem advisable and this right should not be lightly infringed by the court. The inclusion of unnecessary detail or excessive verbosity in a pleading is not of itself a reason for striking out a pleading. It is incumbent upon the party seeking to strike out pleadings to show that he or she is prejudiced or embarrassed by the pleading or that a fair trial will be delayed by the irregularity. See City of Toronto v. British American Oil Company Limited, [1949] O.R. 143 (Ont. C.A.).
+[32] In Fredericton Housing Ltd. v. The Queen, [1973] F.C. 681 (FCA), the complaint was that the material facts of an allegation were not set out. In the particular circumstances the Federal Court of Appeal concluded that while the were grounds for asking for particulars there was no basis for striking out the allegation:
+8 The first ground for the appeal is that the allegations in the body of the Statement of Claim do not comply with Rule 408(1), which reads as follows:
+Rule 408. (1) Every pleading must contain a precise statement of the material facts on which the party pleading relies.
+The part of the memorandum that indicates the precise ground on this aspect of the matter reads as follows:
+In the Statement of Claim there is a single allegation that the defendant sold “an 80 acre parcel of land” and that the profit from such sale was income from a business or venture in nature of trade. The material facts on which this allegation is based are not set out.
+On this point, we did not find it necessary to call on the respondent. At most, as I read this complaint, it is a ground for demanding particulars. I cannot see any ground for striking out the Statement of Claim in the complaint as so formulated.
+[33] In an assessment using the “net worth” method, for example.
+[34] See, for example, this paragraph of Gould, 2005 TCC 556:
+17 The appellant objects to paragraph 26 of the Reply on the basis that it alleges that Mr. Gould’s charitable donations in other years were smaller than in 2000. I agree that the point is of questionable relevance. It does not, however, warrant a pre-trial motion. The trial judge is no doubt capable of ignoring it if he or she considers it irrelevant. Trial judges are, after all, supposed to be able to ignore irrelevancies.
+[35] The appellant abandoned his motion with respect to subparagraphs 18(s)(i) to (v), 18(u)(i) to (xi), 18(uu), 18(ccc) to (eee), 18(iii), 18(mmm) and 18(nnn) — see paragraphs 97, 129, 134, 140 and 143 of the appellant's written submissions filed on the 19 May 2009.
+[36] See paragraph 1 of the appellant’s reply submission.
+[37] Unless otherwise stated.
+[38] I would add that except where mentioned below it is not clear-cut that any of the subparagraphs in issue were allegations of irrelevant facts.
+[39] Given subparagraphs (f) and (o).
+[40] Although the notice of motion originally challenged only the words “[t]hat software purportedly generates instructions for trading investments”, based on subparagraph 27(g) of the appellant’s original submissions I am proceeding on the basis that the entire subparagraph is challenged.
+[41] Had I concluded that there was a lack of underlying facts at this stage of the proceedings I would have had to consider whether striking was appropriate or not for the reasons set out in paragraphs 63 to 65 above.
+[42] The appellant also invokes the parol evidence rule; I am unaware of any authority limiting what may be assumed based on the parol evidence rule.
+[43] That it is an objective is reflected in the use of the future subjunctive. Subparagraph (lll) also has to be read taking into account the pleading as a whole including the immediately preceding subparagraph.
+[44] See subparagraph 1(a)(viii) of the motion.
+[45] Again, had I concluded that there was a lack of underlying facts the question would have arisen whether striking was appropriate or not for the reasons set out in paragraphs 63 to 65 above.
+[46] See Canada v. Baxter, 2007 FCA 172, where Evans J.A. says:
+64 The disposition of the present appeal is based on the fact that representations were made by or on behalf of the promoter to prospective investors. Whether a representation was made to Mr. Baxter himself is not material for determining on the facts of this case if the property was a “tax shelter” within the definition at section 237.1 of the ITA. I agree with this.
+[47] Paragraph 68 of the respondent's written submissions filed on 20 April 2009.

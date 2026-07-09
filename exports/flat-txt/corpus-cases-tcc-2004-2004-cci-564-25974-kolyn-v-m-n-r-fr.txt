@@ -1,0 +1,299 @@
+Title: Kolyn v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25974/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-564-25974-kolyn-v-m-n-r-fr.md
+Document type: case_law
+Last modified: 2004-09-02
+
+# Kolyn v. M.N.R.
+
+- Citation: 2004 CCI 564
+- Decision date: 2004-09-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3772, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kolyn v. M.N.R.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-09-02
+Référence neutre
+2004 CCI 564
+Numéro de dossier
+2002-4573(EI)
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2002-4573(EI)
+ENTRE :
+PHILIP KOLYN,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+J.W. FERGUSON S/N BRACEBRIDGE TAXI SERVICES,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Philip Kolyn (2002-4574(CPP)) et de Nancy Kolyn (2003-312(EI) et 2003-313(CPP)) à Toronto (Ontario), le 12 août 2004.
+Devant : L'honorable L.M. Little
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimé :
+Me Jeremy Streeter
+Pour l'intervenante :
+Personne n'a comparu
+____________________________________________________________________
+JUGEMENT
+L'appel est accueilli, sans qu'aucuns dépens ne soient adjugés, selon les motifs de jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique), ce 2e jour de septembre 2004.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 1er jour d'avril 2005.
+Jacques Deschênes, traducteur
+Dossier : 2002-4574(CPP)
+ENTRE :
+PHILIP KOLYN,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+J.W. FERGUSON S/N BRACEBRIDGE TAXI SERVICES,
+intervenante.
+[TRADUCTION FRANCAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Philip Kolyn (2002-4573(EI)) et de Nancy Kolyn (2003-312(EI) et 2003-313(CPP)) à Toronto (Ontario), le 12 août 2004.
+Devant : L'honorable L.M. Little
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimé :
+Me Jeremy Streeter
+Pour l'intervenante :
+Personne n'a comparu
+____________________________________________________________________
+JUGEMENT
+L'appel est accueilli, sans qu'aucuns dépens ne soient adjugés, selon les motifs de jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique), ce 2e jour de septembre 2004.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 1er jour d'avril 2005.
+Jacques Deschênes, traducteur
+Dossier : 2003-312(EI)
+ENTRE :
+NANCY KOLYN,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+J.W. FERGUSON S/N BRACEBRIDGE TAXI SERVICES,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Philip Kolyn (2002-4573(EI) et 2002-4574(CPP)) et de Nancy Kolyn (2003-313(CPP)) à Toronto (Ontario), le 12 août 2004.
+Devant : L'honorable L.M. Little
+Comparutions :
+Représentant de l'appelante :
+M. Ray Kolyn
+Avocat de l'intimé :
+Me Jeremy Streeter
+Pour l'intervenante :
+Personne n'a comparu
+____________________________________________________________________
+JUGEMENT
+L'appel est accueilli, sans qu'aucuns dépens ne soient adjugés, selon les motifs de jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique), ce 2e jour de septembre 2004.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 1er jour d'avril 2005.
+Jacques Deschênes, traducteur
+Dossier : 2003-313(CPP)
+ENTRE :
+NANCY KOLYN,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+J.W. FERGUSON S/N BRACEBRIDGE TAXI SERVICES,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Philip Kolyn (2002-4573(EI) et 2002-4574(CPP)) et de Nancy Kolyn (2003-312(EI))
+à Toronto (Ontario), le 12 août 2004.
+Devant : L'honorable L.M. Little
+Comparutions :
+Représentant de l'appelante :
+M. Ray Kolyn
+Avocat de l'intimé :
+Me Jeremy Streeter
+Pour l'intervenante :
+Personne n'a comparu
+____________________________________________________________________
+JUGEMENT
+L'appel est accueilli, sans qu'aucuns dépens ne soient adjugés, selon les motifs de jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique), ce 2e jour de septembre 2004.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 1er jour d'avril 2005.
+Jacques Deschênes, traducteur
+.
+Référence : 2004CCI564
+Date : 20040902
+Dossiers : 2002-4573(EI)
+2002-4574(CPP)
+2003-312(EI)
+2003-313(CPP)
+ENTRE :
+PHILIP KOLYN et
+NANCY KOLYN,
+appelants,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+J.W. FERGUSON S/N BRACEBRIDGE TAXI SERVICES,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Little
+A. EXPOSÉ DES FAITS
+[1] J.W. Ferguson Services Ltd. (le « payeur » ) exploite un service de taxi à Bracebridge (Ontario). Cette entreprise est exploitée sous le nom de Bracebridge Taxi Services.
+[2] Pendant la période allant du 4 février 2000 au 24 octobre 2001, l'appelant Philip Kolyn conduisait un taxi pour le payeur.
+[3] Pendant la période allant du 29 septembre 2000 au 3 mars 2002, l'appelante Nancy Kolyn conduisait un taxi pour le payeur.
+[4] Le payeur est titulaire d'un permis d'exploitation de taxi, du taxi ainsi que de l'enseigne et du compteur qui est dans le taxi, de la station de taxis, des services de radio-taxis ainsi que du matériel et des fournitures de bureau.
+[5] Pendant les périodes susmentionnées, c'était le répartiteur du payeur qui envoyait chacun des appelants fournir les services de taxi aux clients (les « clients » ).
+[6] Chacun des appelants recevait toutes les sommes dues par les clients. Le prix de la course exigé des clients était celui qui était indiqué sur le compteur, dans le taxi; le prix pouvait également être fondé sur un tarif fixe établi par le payeur pour un trajet précis.
+[7] Chacun des appelants remettait au payeur 50 p. 100 des sommes reçues des clients. (Nota : Sur le montant de 50 p. 100 qui leur revenait, les appelants devaient déduire la taxe sur les produits et services (la « TPS » ) ainsi que les cotisations d'assurance-emploi et remettre ces montants au payeur.)
+[8] Chacun des appelants devait également payer l'essence qu'il utilisait lorsqu'il conduisait le taxi du payeur.
+[9] Le payeur payait toutes les autres dépenses engagées à l'égard du taxi, notamment les assurances, l'huile, l'entretien régulier et les réparations ainsi que le lavage régulier du taxi.
+[10] Le payeur préparait un calendrier de quatre semaines pour chacun des appelants et des autres conducteurs. Ce calendrier indiquait les jours et heures de travail qui devaient obligatoirement être effectués ainsi que les périodes de disponibilité pour chacun des appelants.
+[11] Le payeur a congédié l'appelant Philip Kolyn le 24 octobre 2001.
+[12] L'appelante Nancy Kolyn a démissionné le 3 mars 2002.
+[13] À la suite de la cessation de son emploi, l'appelant Philip Kolyn a demandé des prestations en vertu de la Loi sur l'assurance-emploi, lesquelles lui ont initialement été refusées.
+[14] Par une lettre en date du 28 août 2002, le ministre du Revenu national (le « ministre » ) a informé l'appelant Philip Kolyn qu'il n'était pas employé aux termes d'un contrat de louage de services conformément à l'alinéa 5(1)a) de la Loi sur l'assurance-emploi. Le ministre a en outre informé l'appelant que l'arrangement qu'il avait conclu avec le payeur donnait lieu à un emploi assurable puisqu'il fournissait au payeur des services de chauffeur de taxi et qu'il exerçait donc un emploi assurable conformément à l'alinéa 6e) du Règlement sur l'assurance-emploi.
+[15] Par une lettre en date du 28 août 2002, le ministre a informé l'appelant Philip Kolyn et le payeur qu'il avait été conclu que l'appelant n'était pas employé aux termes d'un contrat de louage de services conformément à l'alinéa 6(1)a) du Régime de pensions du Canada (le « Régime » ).
+[16] Par une lettre en date du 23 décembre 2002, le ministre a informé l'appelante Nancy Kolyn qu'elle était employée aux termes d'un contrat de louage de services conformément à l'alinéa 5(1)a) de la Loi sur l'assurance-emploi. Le ministre a en outre informé l'appelante que l'arrangement qu'elle avait conclu avec le payeur donnait lieu à un emploi assurable puisqu'elle fournissait au payeur des services de chauffeur de taxi et qu'elle exerçait donc un emploi assurable conformément à l'alinéa 6e) du Règlement sur l'assurance-emploi.
+[17] Par une lettre en date du 23 décembre 2002, l'intimé a informé l'appelante Nancy Kolyn et le payeur qu'il avait été conclu que l'appelante n'était pas employée aux termes d'un contrat de louage de services conformément à l'alinéa 6(1)a) du Régime.
+B. QUESTIONS À TRANCHER
+[18] Il s'agit de trancher les questions ci-après énoncées :
+a) Les appelants exerçaient-ils auprès du payeur, pendant les périodes en question, un emploi assurable au sens de l'alinéa 5(1)a) de la Loi sur l'assurance-emploi?
+b) Les appelants exerçaient-ils auprès du payeur, pendant les périodes en question, un emploi ouvrant à droit à pension au sens de l'alinéa 6(1)a) du Régime de pensions du Canada?
+C. ANALYSE
+[19] La Loi sur l'assurance-emploi est rédigée comme suit :
+5. (1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) l'emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d'un contrat de louage de services ou d'apprentissage exprès ou tacite, écrit ou verbal, que l'employé reçoive sa rémunération de l'employeur ou d'une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[...]
+(2) N'est pas un emploi assurable :
+a) l'emploi occasionnel à des fins autres que celles de l'activité professionnelle ou de l'entreprise de l'employeur;
+[20] Le Régime de pensions du Canada prévoit ce qui suit :
+6. (1) Ouvrent doit à pension les emplois suivants :
+a) l'emploi au Canada qui n'est pas un emploi excepté;
+[...]
+(2) Sont exceptés les emplois suivants :
+[...]
+b) l'emploi d'une nature fortuite, qui n'est pas lié à l'objet du commerce ou de l'entreprise de l'employeur;
+Existait-il un contrat de louage de services entre les appelants et le payeur ?
+[21] Il s'agit en premier lieu de savoir si les appelants étaient employés « aux termes d'un contrat de louage de services exprès ou tacite » . Ce n'est que si les appelants étaient régis par un contrat de louage de services qu'ils exerçaient un « emploi assurable » et un « emploi ouvrant droit à pension » .
+[22] Les tribunaux judiciaires ont examiné à maintes reprises ce qui constitue un « contrat de louage de services » , lorsqu'ils cherchaient à distinguer pareil contrat d'un « contrat d'entreprise » . En d'autres termes, la Cour doit décider si les appelants étaient des employés du payeur ou s'ils étaient plutôt des entrepreneurs indépendants.
+[23] Il faut examiner ce qui, de l'avis des tribunaux, constitue un contrat de louage de services. Les tribunaux ont élaboré un critère qui met l'accent sur l'ensemble de la relation existant entre les parties, leur analyse étant axée sur quatre éléments :
+- le degré de contrôle et de supervision;
+- la propriété des instruments de travail;
+- les chances de bénéfice;
+- les risques de perte.
+[24] Ce critère a été énoncé par la Cour d'appel fédérale dans l'arrêt Wiebe Door Services Ltd. c. MRN[1]; il a été accepté et sa portée a été élargie dans des arrêts ultérieurs. La Cour suprême du Canada a également examiné la question dans l'arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc.[2]. Au nom de la Cour, le juge Major a dit ce qui suit :
+Bien qu'aucun critère universel ne permette de déterminer si une personne est un employé ou un entrepreneur indépendant, je conviens avec le juge MacGuigan que la démarche suivie par le juge Cooke dans la décision Market Investigations, précitée, est convaincante. La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l'employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s'il engage lui-même ses assistants, quelle est l'étendue de ses risques financiers, jusqu'à quel point il est responsable des mises de fonds et de la gestion et jusqu'à quel point il peut tirer profit de l'exécution de ses tâches[3].
+[25] En conséquence, le juge Major considérait que la question centrale à trancher était de savoir « si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte » ou si elle les fournit en sa qualité d'employé.
+[26] La Cour d'appel fédérale a déjà fait remarquer qu'il faut adopter une approche holistique en examinant les quatre éléments :
+[...] nous considérons les critères comme des subordonnés utiles pour peser tous les faits relatifs à l'entreprise de la requérante. C'est maintenant l'approche appropriée et préférable pour la très bonne raison que dans une cause donnée, et celle-ci peut très bien en être une, un ou plusieurs des critères peuvent être peu ou pas applicables. Pour rendre une décision, il faut donc considérer l'ensemble de la preuve en tenant compte des critères qui peuvent être appliqués et donner à toute la preuve le poids que les circonstances peuvent exiger[4].
+De même, le juge Major a dit ce qui suit dans l'arrêt Sagaz :
+Ces facteurs, il est bon de le répéter, ne sont pas exhaustifs et il n'y a pas de manière préétablie de les appliquer. Leur importance relative respective dépend des circonstances et des faits particuliers de l'affaire[5].
+[27] Avant d'appliquer les faits de la présente affaire aux principes susmentionnés, il faut noter que la décision du ministre selon laquelle l'emploi du travailleur est régi par un contrat de louage de services est assujettie à un examen indépendant de la part de la Cour de l'impôt[6]. Il n'est pas nécessaire de faire preuve de retenue à l'égard de la décision du ministre.
+[28] Comme il en a ci-dessus été fait mention, le critère énoncé dans l'arrêt Wiebe Door peut être divisé en quatre éléments :
+Le contrôle
+[29] Voici ce que le juge MacGuigan a dit dans l'arrêt Wiebe Door :
+En common law, le critère traditionnel qui confirme l'existence d'une relation employeur-employé est le critère du contrôle, que le baron Bramwell a défini dans Regina v. Walker (1858), 27 L.J.M.C. 207, à la page 208 :
+[TRADUCTION] À mon sens, la différence entre une relation commettant-préposé et une relation mandant-mandataire est la suivante : un mandant a le droit d'indiquer au mandataire ce qu'il doit faire, mais le commettant a non seulement ce droit, mais aussi celui de dire comment la chose doit être faite[7].
+[30] En d'autres termes, l'élément crucial du « contrôle » se rapporte à la capacité de l'employeur d'exercer un contrôle sur la façon dont l'employé s'acquitte de son travail; par conséquent, l'accent n'est pas mis sur le contrôle que l'employeur exerçait de fait sur l'employé. Ainsi, cette capacité comprend le pouvoir de fixer les heures de travail, de définir les services à fournir et de décider du travail à accomplir au cours d'une journée donnée[8].
+[31] Chacun des appelants a témoigné être assujetti au contrôle du payeur. Les appelants ont dit qu'ils se présentaient au travail au bureau du payeur conformément au calendrier mensuel préparé par celui-ci. Les appelants ont également témoigné qu'ils allaient chercher les clients selon les instructions données par le répartiteur du payeur. Les appelants ont également affirmé qu'à Bracebridge, moins de 5 p. 100 de tous les clients hélaient le taxi dans la rue. Dans ces conditions, comment peut-on dire que les appelants avaient le droit d'exercer un contrôle sur la façon dont le travail était accompli? Il est clair que le payeur fixait les heures de travail des appelants et que le payeur décidait de ce qui devait être fait par chacun des appelants au cours d'une journée donnée.
+[32] J'ai conclu que, selon le critère du contrôle, les appelants étaient clairement assujettis au contrôle du payeur.
+La propriété des instruments de travail
+[33] Le payeur était propriétaire du taxi, il était titulaire du permis d'exploitation; l'enseigne du taxi, le matériel de bureau et les fournitures, le matériel utilisé par le répartiteur, le compteur et la radio ainsi que toutes les fournitures et pièces d'équipement lui appartenaient. Les appelants remettaient au payeur 50 p. 100 des sommes qu'ils recevaient par suite de l'utilisation du taxi. Ils payaient également l'essence qui était consommée pendant leur poste. Les appelants percevaient et versaient également la TPS qui était payée par le client et ils remettaient au payeur le montant des cotisations à verser au titre de l'assurance-emploi. Le payeur payait les primes d'assurance, l'huile ainsi que les réparations et l'entretien du taxi. Le ministre a adopté la position selon laquelle les appelants louaient le véhicule du payeur.
+[34] À mon avis, l'arrangement que le payeur imposait aux appelants pour retenir leurs services n'était pas un contrat de location, mais il s'agissait plutôt d'un genre de contrat d'emploi dans le cadre duquel les appelants versaient au payeur une commission correspondant à 50 p. 100 des sommes reçues, moins les retenues précisées. Je conclus donc que le payeur était propriétaire des « instruments de travail » qui étaient utilisés dans ce cas-ci.
+Les chances de bénéfice et les risques de perte
+[35] Dans une relation employeur-employé, c'est l'employeur qui peut réaliser des bénéfices, l'employé de son côté n'assumant aucun risque financier.
+[36] En l'espèce, les appelants et le payeur partageaient les recettes brutes moitié-moitié (déduction faite des retenues susmentionnées) et le payeur payait les frais d'entretien et de réparation du véhicule ainsi que les primes d'assurance. Les appelants n'engageaient pas de dépenses personnellement, sauf pour l'essence. Selon cet arrangement, on ne peut pas dire que les appelants risquaient de subir des pertes.
+L'intégration
+[37] Dans l'arrêt Canada v. Rouselle et al., le juge Hugessen a fait les remarques suivantes au sujet du critère d'intégration :
+[25] Le juge n'a pas mentionné comme tel le facteur « intégration » . Évidemment à la lumière de la jurisprudence citée ci-dessus, il n'était pas indispensable qu'il en parle. Toutefois, s'il l'avait considéré, il est évident que, vu du point de vue des employés, ceux-ci n'étaient intégrés d'aucune façon dans l'entreprise de l'employeur.
+[26] Leurs allées et venues, leurs heures et même leurs semaines de travail n'étaient d'aucune manière intégrées ni coordonnées avec les opérations de la compagnie qui les payait. Leur travail bien que fait pour l'entreprise de la compagnie n'en faisait pas une partie intégrante mais y était purement accessoire[9].
+En d'autres termes, la question est la suivante :
+[TRADUCTION] Les remarques de lord Wright, du lord juge Denning et des juges de la Cour suprême des États-Unis laissent à entendre que le critère fondamental à appliquer est celui-ci : « La personne qui s'est engagée à accomplir ces tâches les accomplit-elle en tant que personne dans les affaires à son compte » [10].
+[38] Compte tenu de la preuve qui a été présentée, les appelants ne fournissaient pas leurs services au payeur à titre de personnes exploitant une entreprise à leur compte.
+Conclusion
+[39] Selon la preuve, le payeur exerçait un contrôle sur les appelants, il était propriétaire des instruments de travail, il avait des chances de réaliser des bénéfices, il risquait de subir des pertes et les appelants étaient intégrés à l'entreprise du payeur. J'ai donc tiré les conclusions suivantes :
+1. Chacun des appelants exerçait auprès du payeur, pendant les périodes en question, un emploi assurable au sens de l'alinéa 5(1)a) de la Loi sur l'assurance-emploi;
+2. Chacun des appelants exerçait auprès du payeur, pendant les périodes en question, un emploi ouvrant droit à pension au sens de l'alinéa 6(1)a) du Régime de pensions du Canada.
+[40] Les appels sont accueillis sans qu'aucuns dépens ne soient adjugés.
+Signé à Vancouver (Colombie-Britannique), ce 2e jour de septembre 2004.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 1er jour d'avril 2005.
+Jacques Deschênes, traducteur
+RÉFÉRENCE :
+2004CCI564
+Nos DES DOSSIERS DE LA COUR :
+2002-4573(EI), 2002-4574(CPP)
+2003-312(EI), 2003-313(CPP)
+INTITULÉ :
+Philip Kolyn et Nancy Kolyn
+et le Ministre du Revenu national et J.W. Ferguson
+s/n Bracebridge Taxi Services
+LIEU DE L'AUDIENCE :
+Toronto (Ontario)
+DATE DE L'AUDIENCE :
+Le 12 août 2004
+MOTIFS DU JUGEMENT :
+L'honorable L.M. Little
+DATE DU JUGEMENT :
+Le 2 septembre 2004
+COMPARUTIONS :
+Représentant des appelants :
+M. Ray Kolyn
+Avocat de l'intimé :
+Pour l'intervenante :
+Me Jeremy Streeter
+Personne n'a comparu
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Cabinet :
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] [1986] 3 C.F. 553, 70 N.R. 214, [1986] 2 C.T.C. 200, 87 DTC 5025 (C.A.F.).
+[2] [2001] 2 R.C.S. 983, 204 D.L.R. (4th) 542.
+[3] Sagaz, précité.
+[4] Moose Jaw Kinsmen Flying Fins Inc. v. M.N.R., [1988] 2 C.T.C. 2377 (C.A.F.); 88 DTC 6099, à la page 6100).
+[5] Sagaz, au paragraphe 48.
+[6] M.N.R. v. Jencan (1997), 215 N.R. 352, 2 Admin L.R. (2d) 152 (C.A.F.), au paragraphe 24. Cité avec approbation dans Candor Enterprises Ltd. v. Canada (M.N.R.) (2000), 264 N.R. 149 (C.A.F.).
+[7] Wiebe Door, à la page 5027, cité dans DTC.
+[8] Voir Caron v. M.N.R. (1987), 78 N.R. 13 (C.A.F.).
+[9] (1990), 124 N.R. 339 (C.A.F.), à la page 347.
+[10] Le juge MacGuigan cite en les approuvant les remarques du juge Cooke dans Market Investigations Ltd. v. Minister of Social Security, [1968] 23 All E.R. 732, à la page 737.

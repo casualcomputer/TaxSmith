@@ -1,0 +1,152 @@
+Title: Clearwater Seafoods Holdings Trust v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30820/index.do
+Corpus path: corpus/cases/tcc/2012/2012-tcc-186-30820-clearwater-seafoods-holdings-trust-v-the-queen-en.md
+Document type: case_law
+Last modified: 2012-06-01
+
+# Clearwater Seafoods Holdings Trust v. The Queen
+
+- Citation: 2012 TCC 186
+- Decision date: 2012-06-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7533, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Clearwater Seafoods Holdings Trust v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-06-01
+Neutral citation
+2012 TCC 186
+File numbers
+2011-2015(IT)G
+Judges and Taxing Officers
+Steven K. D'Arcy
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-2015(IT)G
+BETWEEN:
+CLEARWATER SEAFOODS HOLDINGS TRUST,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on February 27, 2012 at Halifax, Nova Scotia.
+Before: The Honourable Justice Steven K. D'Arcy
+Appearances:
+Counsel for the Applicant:
+Bruce S. Russell
+Counsel for the Respondent:
+Melanie Petrunia
+____________________________________________________________________
+ORDER
+UPON motion by counsel for the Appellant for a directive allowing the appellant in the appeal to be changed to Clearwater Seafoods Incorporated, pursuant to section 29 of the Tax Court of Canada Rules (General Procedure);
+In accordance with the attached Reasons for Order,
+THIS COURT orders that:
+1. The motion is dismissed without costs;
+2. If the Respondent believes that the Court should dismiss the appeal, the appropriate motion must be filed within 30 days of this Order; and,
+3. If the Respondent does not file such a motion, the parties shall submit to the Court a mutually agreeable timetable, in writing, within 45 days of the date of this Order.
+Signed at Antigonish, Nova Scotia, this 1st day of June 2012.
+“S. D’Arcy”
+D'Arcy J.
+Citation: 2012TCC186
+Date: 20120601
+Docket: 2011-2015(IT)G
+BETWEEN:
+CLEARWATER SEAFOODS HOLDINGS TRUST,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+D'Arcy J.
+[1] The Appellant, Clearwater Seafoods Holdings Trust (the “Trust”), has brought a motion for a direction by the Court, pursuant to section 29 of the Tax Court of Canada Rules (General Procedure), to allow the appellant in the appeal to be changed to Clearwater Seafoods Incorporated (“Seafoods Inc.”).
+[2] The issue raised by the motion arises where a corporation has, in the course of the implementation of a plan of arrangement, acquired the assets and assumed the liabilities of an income trust. The issue is whether the corporation may become the appellant in an appeal commenced by the income trust prior to the implementation of the plan of arrangement.
+[3] It is the Appellant’s position that Seafoods Inc., as the successor in title and interest to the Trust, should be entitled to replace the Trust as the Appellant in this appeal. Counsel for the Appellant argued that “[ . . . ] the requested Rule 29 direction is consistent with the objective of Parliament and the federal Department of Finance to facilitate the conversion of income trusts to public corporations on a time sensitive and tax-neutral basis.”[1]
+[4] It is the Respondent’s position that Seafoods Inc. cannot take the place of the Trust as the Appellant in the appeal. She argues that a taxpayer cannot transfer an income tax liability. In addition, the Respondent argues that the Appellant in this appeal was terminated and, as a result, no longer has the legal capacity to proceed in the appeal.
+Summary of Facts
+[5] The Trust filed an appeal with the Court on June 10, 2011 in respect of reassessments issued for its 2002 and 2003 taxation years.
+[6] The reassessments increased the income tax payable by the Trust. The Trust has not paid the additional taxes assessed by the Minister.
+[7] The Trust was involved in a plan of arrangement that was drawn up under section 192 of the Canada Business Corporations Act[2] and whose implementation was completed on October 2, 2011 (the “Plan of Arrangement”).
+[8] The parties did not inform the Court of what the actual activities of the Trust had been prior to the execution of the Plan of Arrangement. Article 2.5 of the Declaration of Trust states that the Trust is a limited purpose trust. Article 4.1 of the Declaration of Trust sets out the trust’s purposes, which appear to relate primarily to the purchase and holding of securities and the holding of cash.
+[9] Prior to the implementation of the Plan of Arrangement, all of the units of the Trust were held by Clearwater Seafoods Income Fund (the “Fund”), an unincorporated open-ended investment trust governed by the laws of Ontario.
+[10] As a result of changes in the taxation of income trusts, the Fund and the Trust (together with certain investors in the Fund) entered into the Plan of Arrangement. The purpose of the plan was to convert the income trust into a corporation.
+[11] On October 2, 2011, in the course of implementing the Plan of Arrangement, Seafoods Inc. acquired all of the units of the Fund, and all of the unit holders of the Fund became shareholders of Seafoods Inc. Immediately following this step, the following occurred:
+- the Trust distributed all of its assets to the Fund and the Fund assumed all of the liabilities of the Trust; and,
+- the Fund then distributed all of its assets to Seafoods Inc. and Seafoods Inc. assumed all of the liabilities of the Fund.
+[12] The Plan of Arrangement states that after the Trust distributes its assets to the Fund and the Fund assumes all of the liabilities of the Trust, “[ . . . ] the Trust will be dissolved in accordance with applicable law and the [Trust’s] Declaration of Trust.”[3]
+[13] Article 14 of the Trust’s Declaration of Trust contains the procedures for the termination of the Trust.
+The Law
+[14] Section 29 of the Tax Court of Canada Rules (General Procedure) reads as follows:
+(1) Where at any stage of a proceeding the interest or liability of a person who is a party to a proceeding in the Court is transferred or transmitted to another person by assignment, bankruptcy, death or other means, no other proceedings shall be instituted until the Registrar is notified of the transfer or transmission and the particulars of it.
+(2) On receipt of the notice and particulars referred to in subsection (1) the Registrar shall consult with the parties regarding the circumstances under which the proceeding shall continue and he shall report on these consultations to the Chief Justice.
+(3) The Chief Justice or a judge designated by him to deal with the matter may direct the continuation of the proceeding or give such other direction as is just.
+[15] The issue I must address is whether the Appellant transferred or transmitted to Seafoods Inc., by assignment, bankruptcy, death or other means, its interest in the appeal or its liability in respect of the subject matter of the appeal.
+[16] In order to make this determination, the Court must look to the common law and any relevant statutory provisions. Section 29 does not itself provide authority for the assignment or devolution of an interest in a proceeding.
+[17] I will first consider the relevant provisions of the Income Tax Act[4] (the “Act”).
+[18] The liability to pay income tax is a statutory liability. Income tax is levied under the Act on the taxable income of a person.[5]
+[19] As a result, a person who earns taxable income is the taxpayer in respect of such income, that is, the person liable to pay the income tax.[6] This liability arises the moment the income is earned, regardless of when the Canada Revenue Agency issues an assessment.[7]
+[20] As Justice Sharlow noted in Garron Family Trust (Trustee of) v. Canada [appeal by Fundy Settlement(Trustee of)], 2010 FCA 309, 2010 DTC 5189, at paragraph 5, “[ . . . ] a taxpayer may be an individual, a corporation or a trust. Although a trust is not a person as a matter of law, the Income Tax Act treats the trust for income tax purposes as though it were an individual.”
+[21] It is the taxpayer that is assessed under section 152 of the Act and it is the taxpayer that has the right to file a notice of objection under section 165 of the Act. Further, it is the taxpayer who has the right, after serving the notice of objection, to appeal the assessment (or reassessment) to this Court.
+[22] In the present appeal, the Minister assessed the Trust in respect of taxable income allegedly earned by the Trust. Further, it was the Trust that filed the notice of objection and the appeal to this Court.
+[23] Counsel for the Appellant did not take me to any provisions in the Act that would allow the Trust to assign its appeal rights to a third party, such as Seafoods Inc., nor I am aware of any such provisions.
+[24] Counsel for the Appellant confirmed that the Trust, the Fund and Seafoods Inc. relied upon the provisions of section 88.1 of the Act to avoid tax on the transfer of the assets of the Trust to the Fund and the subsequent transfer of the assets of the Fund to Seafoods Inc.
+[25] Counsel for the Appellant did not argue that section 88.1 of the Act resulted in Seafoods Inc. being a continuation of the Trust or that the section provided for the transfer of the Trust’s appeal rights to Seafoods Inc. In fact, counsel for the Appellant acknowledged that section 88.1 incorporates the winding-up provisions contained in subsection 88(1) of the Act.
+[26] In summary, it is my view that the assignment/assumption of any potential tax debt of the Trust does not result in Seafoods Inc. acquiring the rights of an appellant in this appeal. As discussed previously, the Minister assessed the Trust and it was the Trust that exercised its appeal rights by filing the appeal to this Court. There are no provisions in the Act that allow the Trust to substitute Seafoods Inc. as the Appellant in this appeal.
+[27] I will next consider the common law.
+[28] Article 2.2 of a Conveyance and Assumption Agreement between the Trust and the Fund states the following:
+The Fund hereby assumes undertakes to pay and discharge and to indemnify and save harmless the Trust in respect thereof, all of the outstanding debts, obligations, liabilities, contracts and engagements of the Trust of every nature and kind, and liability for all taxes, interest or penalties that have been assessed or may properly be assessed against the Trust under the Income Tax Act (Canada).[8]
+[29] In my view, an agreement by which a party assumes another party’s tax liability cannot be binding on the Minister.
+[30] In The Law of Contracts in Canada[9], Fridman distinguishes the assignment of the burdens or liabilities under a contract from the assignment of the benefits of a contract. Regarding the former, he writes:[10]
+In strict speech, as well as in point of law, it is incorrect to talk of the assignment of the liabilities or burdens placed upon a contracting party by a contract. As was clearly stated in National Trust Co. v. Mead, a party to a contract may assign rights but not liabilities so as to relieve himself of a contractual obligation. The party obliged under a contract is always under that personal obligation to perform, and will be liable should performance not occur. [ . . . ]
+[Footnotes excluded.]
+[31] In National Trust Co. v. Mead,[11] Wilson J. wrote the following:
+The common law has long recognized that while one may be free to assign contractual benefits to a third party, the same cannot be said of contractual obligations. This principle results from the fusion of two fundamental principles of contract law: 1) that parties are able to make bargains with the parties of their own choice (freedom of contract); and 2) that parties do not have to discharge contractual obligations that they had no part in creating (privity of contract). [ . . . ]
+[32] That Seafoods Inc. may now have the legal obligation, as between itself and the Trust, to pay any income tax debt of the Trust does not change the fact that any such debt is still owed by the Trust to the Crown. Further, the assumption/assignment of any such debt does not result in the transfer by the Trust of its rights of appeal in respect of the relevant assessments.
+[33] For the foregoing reasons, the motion is dismissed without costs.
+[34] There is one other issue raised by the parties. During her argument, counsel for the Respondent stated that the Trust has been terminated. Counsel for the Appellant noted that if the Court dismisses the appeal on the basis that the Trust has been terminated, then the Minister will be required to issue a third party assessment under subsection 160(1) of the Act, “thereby causing the substantive dispute to return to square one.”
+[35] The difficulty I have with these arguments is that the issue of whether the appeal should be dismissed or discontinued is not before the Court.
+[36] Further, it is not possible, on the basis of the limited evidence before me, to determine whether the Trust has standing to complete the appeal. In addition, before making such a determination, the Court must address certain legal issues not raised by the parties during the hearing of this motion. For example, in light of the Federal Court Trial Division’s decision in 460354 Ontario Inc. et al. v. The Queen, 92 DTC 6536, the parties must address, in my view, the question of whether, in the fact situation here, the Court should deny a taxpayer its right of appeal in respect of a validly issued assessment.
+[37] If the Respondent believes that the Court should dismiss the appeal, then she must file the appropriate motion within 30 days of the date of the Order herein. If the Respondent does not file such a motion, the parties shall submit to the Court a mutually agreeable timetable, in writing, within 45 days of the date of the Order herein.
+Signed at Antigonish, Nova Scotia, this 1st day of June 2012.
+“S. D’Arcy”
+D'Arcy J.
+CITATION: 2012TCC186
+COURT FILE NO.: 2011-2015(IT)G
+STYLE OF CAUSE: CLEARWATER SEAFOODS HOLDINGS TRUST v. THE QUEEN
+PLACE OF HEARING: Halifax, Nova Scotia
+DATE OF HEARING: February 27, 2012
+REASONS FOR ORDER BY: The Honourable Justice Steven K. D'Arcy
+DATE OF ORDER AND
+REASONS FOR ORDER: June 1, 2012
+APPEARANCES:
+Counsel for the Applicant:
+Bruce S. Russell
+Counsel for the Respondent:
+Melanie Petrunia
+COUNSEL OF RECORD:
+For the Applicant:
+Name: Bruce S. Russell
+Firm: McInnes Cooper
+Halifax, Nova Scotia
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Appellant’s Written Submissions, para.11.
+[2] R.S.C. 1985, c. C-44.
+[3] Paragraph 3.1(j) of the Plan of Arrangement filed as Schedule A to the Amended and Restated Arrangement Agreement contained in Exhibit B to the Affidavit of Robert Wight.
+[4] R.S.C. 1985, c. 1 (5th Supp.).
+[5] See subsection 2(1) of the Income Tax Act.
+[6] “Taxpayer” is defined in subsection 248(1) of the Income Tax Act to include “any person whether or not liable to pay tax”. It may include a person assessed tax in respect of an amount that was not income to that person, as in the case of a person assessed under subsection 160(1) [see Gaucher v. The Queen, 2000 DTC 6678 (FCA)].
+[7] See The Queen v. Simard-Beaudry Inc., [1971] F.C. 396 (FC – TD)
+[8] Exhibit B to the Affidavit of Robert Wight.
+[9] G.H.L Fridman, The Law of Contract in Canada, 5th ed. (Toronto: Thomson Carswell, 2006), p. 175.
+[10] Ibid., p. 694.
+[11] [1990] 2 S.C.R. 410 , at p. 426.

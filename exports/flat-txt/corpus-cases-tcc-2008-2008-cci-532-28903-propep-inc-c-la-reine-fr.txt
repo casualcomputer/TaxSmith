@@ -1,0 +1,339 @@
+Title: Propep Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28903/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-532-28903-propep-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-10-01
+
+# Propep Inc. c. La Reine
+
+- Citation: 2008 CCI 532
+- Decision date: 2008-10-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1411, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Propep Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-10-01
+Référence neutre
+2008 CCI 532
+Numéro de dossier
+2007-1882(IT)G
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-1882(IT)G
+ENTRE :
+PROPEP INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 9 septembre 2008, à Montréal (Québec).
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Avocats de l'appelante :
+Me Serge Racine
+Me Stéphane Larochelle
+Avocat de l'intimée :
+Me Benoit Mandeville
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l’impôt sur le revenu (LIR) pour les années d’imposition 1999 à 2003 inclusivement sont admis, avec dépens en faveur de l’appelante, et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations sur la base que l’appelante peut réclamer le montant de déduction accordée aux petites entreprises auquel elle a droit aux termes de la LIR, sans tenir compte du plafond des affaires des sociétés par actions Pépinière Abbotsford Inc. et Centre du Jardinage Abbotsford Inc., au cours des années en litige.
+Signé à Montréal, Québec, ce 1er jour d'octobre 2008.
+« Lucie Lamarre »
+Juge Lamarre
+Référence : 2008 CCI 532
+Date : 20081001
+Dossier : 2007-1882(IT)G
+ENTRE :
+PROPEP INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] L’appelante en appelle de cotisations établies par le ministre du Revenu national (ministre), par lesquelles on lui a refusé en totalité ou en partie, la déduction accordée aux petites entreprises (DPE) qu’elle avait réclamée en vertu du paragraphe 125(1) de la Loi de l’impôt sur le revenu (LIR) pour les années d’imposition 1999 à 2003 inclusivement. Le ministre a refusé cette déduction à l’appelante au motif qu’elle était associée aux sociétés par actions Pépinière Abbotsford Inc. (Pépinière) et Centre du Jardinage Abbotsford Inc. (Centre du Jardinage), répartissant ainsi le plafond des affaires entre les trois sociétés, et réduisant par le fait même la DPE réclamée par l’appelante.
+Question en litige
+[2] La question en litige se résume à savoir si l’appelante était, au cours des années en litige, associée aux deux autres sociétés, tel que le prétend le ministre, par application de l’article 256 de la LIR.
+Dispositions législatives
+[3] Ce sont l’alinéa 256(1)c), le sous‑alinéa 256(1.2)f)(ii) et le paragraphe 256(1.3) de la LIR qui sont déterminants dans le présent litige. Je reproduis les passages pertinents de ces dispositions législatives :
+256.(1) Sociétés associées – Pour l’application de la présente loi, deux sociétés sont associées l’une à l’autre au cours d’une année d’imposition si, à un moment donné de l’année :
+[...]
+c) la personne qui contrôle l’une des deux sociétés, directement ou indirectement de quelque manière que ce soit, est liée à la personne qui contrôle l’autre société, directement ou indirectement, de quelque manière que ce soit, et cette personne est propriétaire d’au moins 25% des actions émises d’une catégorie, non exclue, du capital-actions de chaque société;
+256(1.2) Précisions sur les notions de contrôle et de propriété des actions – Pour l’application du présent paragraphe et des paragraphes (1), (1.1) et (1.3) à (5) :
+[...]
+f) les actions du capital-actions d’une société dont une fiducie est à un moment donné propriétaire ou réputée propriétaire en application du présent paragraphe :
+[...]
+(ii) sont réputées, […], être la propriété à ce moment de chaque bénéficiaire dont la part sur le revenu ou le capital accumulés de la fiducie est conditionnelle au fait qu’une personne exerce ou n’exerce pas un pouvoir discrétionnaire,
+256.(1.3) Parents présumés propriétaires des actions des enfants – Les actions du capital-actions d’une société dont un enfant de moins de 18 ans est propriétaire à un moment donné sont réputées être la propriété à ce moment du père ou de la mère de l’enfant pour ce qui est de déterminer si la société est associée à ce moment à une autre société dont le père ou la mère ou un groupe de personnes dont le père ou la mère est membre a le contrôle, directement ou indirectement, de quelque manière que ce soit, sauf si, compte tenu des circonstances, il est raisonnable de considérer que l’enfant gère les affaires de la société sans subir, dans une large mesure, l’influence de son père ou de sa mère.
+Entente partielle sur les faits
+[4] Les parties ont produit une entente partielle sur les faits qui est reproduite au long ci-après.
+Entente partielle sur les faits
+Les parties s’entendent sur les faits suivants aux seules fins du présent appel et sans préjudice à leur droit de faire la démonstration, lors de l’audience de cet appel, de faits supplémentaires qui ne sont pas incompatibles avec les faits mentionnés dans la présente entente :
+1. Le siège social de l'appelante est situé au 605, rue Principale à St‑Paul d'Abbotsford dans la province de Québec.
+2. Le 29 mai 2002, l'appelante fut informée par lettre de l'intention du ministre du Revenu national (le Ministre) d'établir de nouvelles cotisations pour les années d'imposition 1999 à 2001 aux fins de refuser, en totalité ou en partie, la déduction des montants réclamés par l'appelante en vertu de l'article 125 de la LIR sur la base que celle‑ci était associée aux sociétés par actions Pépinière Abbotsford inc. et Centre du Jardinage Abbotsford inc. Dans le cadre de cette dernière lettre, l'appelante fut informée de la possibilité de présenter une convention en vertu de laquelle le « plafond des affaires » était réparti entre l'appelante et les sociétés par actions avec lesquelles elle était prétendument associée.
+3. Le 8 août 2003, l'appelante fut informée de la décision du Ministre d'établir de nouvelles cotisations pour les années d'imposition 1999 à 2003 aux fins de refuser, en totalité ou en partie, la déduction des montants réclamés par l'appelante en vertu de l'article 125 de la LIR sur la base que celle‑ci était associée aux sociétés par actions Pépinière Abbotsford inc. et Centre du Jardinage Abbotsford inc. et en tenant compte des conventions déjà présentées par la société par actions Pépinière Abbotsford inc. et en vertu desquelles le « plafond des affaires » était réparti entre elle et les sociétés par actions avec lesquelles elle était prétendument associée.
+4. Le 6 septembre 2002, l'appelante a renoncé, sur formulaire prescrit, à l'application de la période normale de cotisation pour l'année d'imposition se terminant le 31 janvier 1999.
+5. Par avis de nouvelle cotisation datés du 19 novembre 2003, le Ministre a refusé à l'appelante la déduction des montants suivants réclamés par l'appelante en vertu du paragraphe 125(1) de la LIR dans le calcul de son impôt à payer en vertu de la partie I de cette dernière loi :
+Année d'imposition
+Montant refusé de DPE
+1999
+28 088 $
+2000
+27 430 $
+2001
+25 087 $
+2002
+25 322 $
+6. Par avis de nouvelle cotisation du 25 mai 2004, le Ministre a refusé à l'appelante la déduction d'un montant de 32 340 $ réclamé par l'appelante en vertu du paragraphe 125(1) de la LIR dans le calcul de son impôt à payer en vertu de la partie I de cette dernière loi pour l'année d'imposition 2003.
+7. Par avis de ratification daté du 22 janvier 2007, le Ministre a ratifié les nouvelles cotisations datées du 19 novembre 2003 et du 25 mai 2004 mentionnées aux paragraphes 5 et 6 de la présente entente.
+8. Les exercices financiers de l'appelante sont du 1er février au 31 janvier de l'année suivante.
+9. Durant toute la période en litige, la totalité des actions votantes du capital‑actions de l'appelante était la propriété de la société par actions 9059‑3179 Québec inc.
+10. Durant toute la période en litige, la totalité des actions du capital‑actions de la société 9059‑3179 Québec inc. faisait partie du patrimoine fiduciaire de la Fiducie Propep.
+11. Fiducie Propep a été constituée le 27 janvier 1998 par monsieur Serge M. Racine.
+12. Durant toute la période en litige, les fiduciaires de Fiducie Propep étaient messieurs Pierre Paquette et Pierre Choquette.
+13. Messieurs Pierre Paquette et Pierre Choquette ne sont pas des personnes liées au sens du paragraphe 251(2) de la LIR.
+14. La clause 2.1.1 de l'acte constitutif de Fiducie Propep prévoit que l'expression « bénéficiaire » a la signification suivante aux fins de l'application de cet acte :
+« Pour le capital et pour le revenu : Bénéficiaire de 1er rang : la compagnie 9059‑3179 Québec Inc., jusqu'à sa liquidation; Bénéficiaire de 2e rang : Pierre‑Marc Paquette, né le 01‑07‑1986 ».
+15. Monsieur Pierre‑Marc Paquette est né le 1er juillet 1986 et est le fils de monsieur Pierre Paquette.
+16. La clause 4.1 de l'acte constitutif de Fiducie Propep prévoit ce qui suit :
+« Les Fiduciaires doivent détenir le capital de la fiducie jusqu'au moment de sa liquidation. Il peut verser en tout temps aux Bénéficiaires, ou à l'un d'eux, une partie ou la totalité des revenus nets annuels de la fiducie dans les proportions qu'il établira à son entière discrétion. Les Fiduciaires ont de plus à leur entière discrétion et en tout temps, le pouvoir de distribuer aux Bénéficiaires, tout ou partie de capital de la fiducie. Les Fiduciaires doivent accumuler et ajouter au capital de la fiducie tous les revenus nets en provenant qui n'ont pas été distribués dans l'année ou dans les trois (3) mois suivants la fin de l'année de la fiducie. »
+17. Durant toute la période en litige, monsieur Pierre Paquette était propriétaire d'actions votantes (80 actions de catégorie A conférant un droit de vote par action et 29 actions de catégorie J conférant 100 droits de vote par action) du capital‑actions de la société par actions Pépinière Abbotsford inc. lui conférant 29,6% des droits de vote lors de l'élection du conseil d'administration de cette dernière société.
+18. Durant toute la période en litige, la société par actions 3101‑3469 Québec inc. était propriétaire d'actions votantes (51 actions de catégorie J conférant 100 droits de vote par action) du capital‑actions de la société par actions Pépinière Abbotsford inc. lui conférant 50,6% des droits de vote lors de l'élection du conseil d'administration de cette dernière société.
+19. Durant toute la période en litige, la totalité des actions du capital‑actions de la société par actions 3101‑3469 Québec inc. était la propriété de monsieur Jean‑Claude Paquette.
+20. Monsieur Jean‑Claude Paquette est le père de monsieur Pierre Paquette et le grand‑père de monsieur Pierre‑Marc Paquette.
+21. Durant toute la période en litige, la société par actions 9034‑4946 Québec inc. était propriétaire d'actions votantes (20 actions de catégorie J conférant 100 droits de vote par action) du capital‑actions de la société par actions Pépinière Abbotsford inc. lui conférant 19,8% des droits de vote lors de l'élection du conseil d'administration de cette dernière société.
+22. Durant toute la période en litige, la société par actions 9034‑4946 Québec inc. était contrôlée par une ou plusieurs personnes non liées à messieurs Pierre Paquette et Jean‑Claude Paquette et aux sociétés par actions 9059‑3179 Québec inc. et 3101‑3469 Québec inc.
+23. Durant toute la période en litige, la totalité des actions de la société par actions Centre du Jardinage Abbotsford inc. était la propriété de la société par actions Pépinière Abbotsford inc.
+24. Les annexes 1 et 2 à la présente entente[1], faisant partie intégrante de celle‑ci, représentent de façon schématique l'actionnariat de l'appelante et des sociétés par actions Pépinière Abbotsford inc. et Centre du Jardinage Abbotsford inc. durant la période en litige.
+25. L'appelante a tiré les revenus d'entreprise exploitée activement au Canada et les revenus imposables suivants au cours des années d'imposition 1999 à 2003 :
+Année d'imposition
+REEA
+Revenu imposable
+1999
+198 917 $
+177 331 $
+2000
+171 436 $
+173 835 $
+2001
+170 265 $
+170 265 $
+2002
+158 262 $
+158 262 $
+2003
+228 922 $
+228 922 $
+26. L'appelante a réclamé la déduction des montants suivants en vertu du paragraphe 125(1) de la LIR dans le calcul de son impôt à payer en vertu de la partie I de cette même loi pour les années d'imposition en litige :
+Année d'imposition
+DPE réclamée
+1999
+28 373 $
+2000
+27 430 $
+2001
+27 242 $
+2002
+25 322 $
+2003
+32 340 $
+27. Les exercices financiers de la société par actions Pépinière Abbotsford inc. sont du 1er novembre au 31 octobre de l'année suivante.
+28. La société par actions Pépinière Abbotsford inc. a tiré les revenus d'entreprise exploitée activement au Canada et les revenus imposables suivants au cours des années d'imposition 1999 à 2003 :
+Année d'imposition
+REEA
+Revenu imposable
+1999
+166 777 $
+166 777 $
+2000
+292 657 $
+292 657 $
+2001
+158 770 $
+158 770 $
+2002
+254 293 $
+254 293 $
+2003
+249 969 $
+249 969 $
+29. Les exercices financiers de la société par actions Centre du Jardinage Abbotsford inc. sont du 1er novembre au 31 octobre de l'année suivante.
+30. La société par actions Centre du Jardinage Abbotsford inc. a tiré les revenus d'entreprise exploitée activement au Canada et les revenus imposables suivants au cours des années d'imposition 1999 à 2003 :
+Année d'imposition
+REEA
+Revenu imposable
+1999
+31 442 $
+31 442 $
+2000
+495 $
+495 $
+2001
+27 762 $
+27 762 $
+2002
+33 124 $
+33 124 $
+2003
+97 577 $
+97 577 $
+31. La société par actions Pépinière Abbotsford inc. a présenté au Ministre des conventions, selon le formulaire prescrit, conformément au paragraphe 125(3) de la LIR en vertu desquelles cette dernière société par actions et la société par actions Centre du Jardinage Abbotsford inc. se partageait le « plafond des affaires » de la façon suivante :
+Année d'imposition
+Pépinière
+Abbotsford inc.
+Centre du Jardinage
+Abbotsford inc.
+1999
+168 558 $
+31 442 $
+2000
+199 500 $
+500 $
+2001
+172 200 $
+27 800 $
+2002
+200 000 $
+0 $
+2003
+220 822 $
+0 $
+32. Aucune révision auxdites conventions ou nouvelle convention n'a été présentée au ministre du Revenu national.
+Remarque préliminaire
+[5] En remarque préliminaire, l’avocat de l’intimée a résumé le litige aux deux questions suivantes auxquelles il faut répondre :
+1) Pierre-Marc Paquette, enfant mineur de Pierre Paquette, était-il bénéficiaire de la fiducie Propep (fiducie) au cours des années en litige?
+2) Dans l’affirmative, est-ce que sa part en tant que bénéficiaire de la fiducie était conditionnelle à un pouvoir discrétionnaire?
+[6] De l’avis de l’intimée, Pierre-Marc Paquette était bénéficiaire de la fiducie et remplissait toutes les conditions prévues au sous-alinéa 256(1.2)f)(ii) de la LIR pour être réputé propriétaire des actions comportant droit de vote du capital-actions de la société par actions 9059-3179 Québec Inc. (9059), dont les actions étaient détenues par la fiducie. Étant donné que Pierre-Marc Paquette est le fils de Pierre Paquette et que durant la période en litige, il était âgé de moins de 18 ans, l’intimée soutient que Pierre Paquette était réputé par l’application du paragraphe 256(1.3) de la LIR être le propriétaire des actions donnant droit de vote du capital-actions de 9059.
+[7] Puisque selon l’intimée, Pierre Paquette est réputé contrôler 9059, laquelle contrôle l’appelante, il fait donc partie du groupe de personnes qui contrôle Pépinière, laquelle contrôle Centre du Jardinage. En effet, Pépinière est détenue à 50,6% par 3101-3469 Quebec Inc. (3101) qui elle-même est contrôlée à 100% par Jean-Claude Paquette, le père de Pierre Paquette. Ce dernier est donc lié à 3101 qui contrôle Pépinière et puisqu’il possède au moins 25% des actions de Pépinière[2], cela fait en sorte que Pépinière, Centre du Jardinage, Propep Inc. (l’appelante) et 9059 sont des sociétés associées aux termes de l’alinéa 256(1)c) de la LIR.
+[8] De son côté, l’appelante soutient qu’elle n’était pas associée à Pépinière et à Centre du Jardinage au cours des années en litige, aux termes de l’alinéa 256(1)c) de la LIR, parce que Pierre-Marc Paquette n’était tout simplement pas un bénéficiaire de la fiducie à cette époque et, par ricochet, son père ne pouvait être réputé propriétaire des actions de 9059 détenues par la fiducie. De ce seul fait, l’alinéa 256(1)c) ne trouve plus application.
+Faits additionnels
+[9] L’appelante a fait témoigner M. Pierre Choquette, le vice-président exécutif de Pépinière et de l’appelante, de même que l’un des co-fiduciaires de la fiducie. Il a expliqué que l’appelante avait été créée pour exploiter une entreprise dans le domaine des produits ineptes, soit l’entretien des espaces verts et la distribution de paillis de sol. Pépinière exploite tout ce qui est relié aux produits vivants, soit la culture de végétaux (les plantes) et leur commercialisation. L’idée de séparer ces deux entreprises avait pour but de répartir les risques financiers rattachés aux divers produits et services offerts, au lieu de les combiner au sein d’une seule société.
+[10] Pépinière a été fondée en 1962 par Jean-Claude Paquette, le père de Pierre et Clément Paquette; ces deux derniers avaient des parts équivalentes dans cette société. L’appelante a été fondée en 1983.
+[11] Clément Paquette a quitté Pépinière en 1995 et Pierre Choquette a acheté une part dans cette dernière société (20%) en janvier 1996, après négociation avec Pierre Paquette, pour la somme de 500 000 $. Pierre Choquette possède une maîtrise en administration des affaires (MBA) et est comptable agréé.
+[12] Avant d’investir dans Pépinière, M. Choquette était cadre supérieur dans un centre hospitalier et avait cumulé des responsabilités financières et administratives. Compte tenu de son expérience et de la confiance que lui donne la famille Paquette, il s’occupe également de l’administration générale et du volet financier, de même que du marketing et de la bonne gestion de l’appelante. C’est lui qui signe la majorité des chèques au nom de l’appelante et il agit comme co-fiduciaire de la fiducie avec Pierre Paquette.
+[13] Tel que mentionné dans l’entente partielle sur les faits, l’acte de fiducie prévoit deux ordres de bénéficiaires. La société de gestion 9059 en est le bénéficiaire de premier rang jusqu’à sa liquidation et Pierre-Marc Paquette en est le bénéficiaire de deuxième rang. M. Choquette a expliqué que 9059 avait d’abord été créée dans le but d’isoler les entreprises afin de restreindre les risques financiers. On a choisi de désigner 9059 comme bénéficiaire de premier rang de la fiducie afin de conserver le contrôle sur l’appelante.
+[14] De fait, le retrait de Clément Paquette de Pépinière ne s’était pas fait sans heurts. La disposition par ce dernier de ses actions comportant un droit de vote avait engendré des coûts importants pour ladite société, et ce, malgré l’existence d’une convention des actionnaires.
+[15] Je comprends du témoignage de M. Choquette, que l’on ne voulait pas revivre les mêmes risques financiers avec Pierre-Marc Paquette, qui était mineur au moment de la création de la fiducie en janvier 1998. Pierre-Marc était alors âgé de 12 ans et je lis entre les lignes qu’on ne pouvait prévoir alors quel serait le comportement de Pierre-Marc dans le futur vis-à-vis l’entreprise familiale, d’où son titre de bénéficiaire de deuxième rang.
+Arguments de l’appelante
+[16] Tel que mentionné précédemment, l’appelante soutient simplement que Pierre-Marc Paquette n’était pas bénéficiaire de la fiducie au cours des années en litige. Si tel fut le cas, ni lui ni son père ne pouvaient être réputés propriétaires des actions de 9059, et en conséquence, ni cette dernière ni l’appelante ne devaient être considérées associées aux deux autres sociétés Pépinière et Centre du Jardinage. L’appelante aurait donc droit au plein montant réclamé pour la DPE et ne serait pas limitée par le plafond des affaires des deux autres sociétés Pépinière et Centre du Jardinage.
+[17] La question à résoudre est donc de déterminer si Pierre-Marc Paquette était bénéficiaire de la fiducie au cours des années en litige.
+[18] Selon l’acte de fiducie, 9059 est le bénéficiaire de premier rang jusqu’à sa liquidation et Pierre-Marc Paquette est le bénéficiaire de deuxième rang. Le Code civil du Québec (C.c.Q.), qui est la législation provinciale applicable en l’instance, prévoit qu’il peut y avoir deux ordres de bénéficiaires et qu’une personne morale ne peut être bénéficiaire pour une période excédant 100 ans. L’appelante se réfère aux articles 1271 et 1272 du C.c.Q. ainsi qu’aux commentaires du ministre de la Justice comme suit :
+Art. 1271. La fiducie personnelle constituée au bénéfice de plusieurs personnes successivement ne peut comprendre plus de deux ordres de bénéficiaires des fruits et revenus, outre celui du bénéficiaire du capital; elle est sans effet à l'égard des ordres subséquents qui y seraient visés.
+Les accroissements, entre les cobénéficiaires des fruits et revenus d'un même ordre, ont lieu de la même façon qu'entre cogrevés du même ordre en matière de substitution.
+Commentaire
+Cet article présente, ainsi que l’article qui suit, les règles relatives à la durée de la fiducie personnelle constituée pour le bénéfice de plusieurs personnes successivement. Ces règles sont conformes à la solution retenue par la jurisprudence, qui applique dans ce cas les règles propres à la substitution.
+Art. 1272. Le droit du bénéficiaire du premier ordre s'ouvre au plus tard à l'expiration des cent ans qui suivent la constitution de la fiducie, même si un terme plus long a été stipulé. Celui des bénéficiaires des ordres subséquents peut s'ouvrir postérieurement, mais au profit des seuls bénéficiaires qui ont la qualité requise pour recevoir à l'expiration des cent ans qui suivent la constitution de la fiducie.
+Les personnes morales ne peuvent jamais être bénéficiaires pour une période excédant cent ans, même si un terme plus long a été stipulé.
+Commentaire
+Cet article nouveau complète le précédent, en prévoyant d’autres règles de durée de la fiducie personnelle, constituée pour le bénéfice de plusieurs personnes successivement.
+Le premier alinéa prévoit des règles dont l’effet combiné limite la durée maximale de la fiducie personnelle à environ deux cents ans. Cette durée accorde suffisamment de flexibilité pour que, dans les circonstances ordinaires – fiducie en faveur du conjoint, puis des enfants, puis des petits-enfants – les bénéficiaires puissent être déterminés sans difficultés.
+Le second alinéa énonce une règle qui s’avère nécessaire, car le jeu normal de la durée de vie d’une personne, sur la base duquel les règles du premier alinéa ont été établies, est faussé en présence d’une personne morale, dont l’existence peut être perpétuelle. La règle prévue permet, dans ce cas, d’éviter de prolonger la durée de cette fiducie au-délà de ce qui paraissait souhaitable en l’espèce.
+[19] Par ailleurs, les articles 1279 et 1280 du C.c.Q. indiquent ce qui suit :
+Art. 1279. Le bénéficiaire d'une fiducie constituée à titre gratuit doit avoir les qualités requises pour recevoir par donation ou par testament à l'ouverture de son droit.
+S'il y a plusieurs bénéficiaires du même ordre, il suffit que l'un d'eux ait ces qualités pour préserver le droit des autres bénéficiaires, s'ils s'en prévalent.
+Art. 1280. Le bénéficiaire d'une fiducie doit, pour recevoir, remplir les conditions requises par l'acte constitutif.
+Commentaire
+Cet article subordonne le droit de recevoir du bénéficiaire au respect des conditions exigées par l’acte constitutif, au-delà des qualités requises pour recevoir par donation ou par testament.
+Ces conditions peuvent être diverses quant à leur nature, mais elles doivent ne pas contrevenir à l’ordre public.
+[…]
+[20] L’appelante pose alors la question à savoir, quelle est la nature du droit de Pierre-Marc Paquette compte tenu du fait que c’est la société 9059 qui est bénéficiaire de premier rang jusqu’à sa liquidation. Selon l’appelante, le droit de Pierre-Marc au revenu et au capital de la fiducie ne naîtra qu’à la liquidation de 9059, pas avant. C’est un droit qui est conditionnel à l’arrivée d’un événement futur et incertain. Il ne s’agit pas d’un droit qui naîtra de façon certaine à l’échéance d’un terme. L’appelante fait la distinction entre l’obligation conditionnelle qui fait naître le droit seulement lors de la réalisation de la condition et l’obligation à terme qui fait naître le droit dès le moment de la création de l’obligation, dans ce cas-ci, la création de l’acte de fiducie, mais qui suspend l’exécution jusqu’à l’arrivée du terme.
+[21] L’appelante se réfère aux articles 1497, 1506, 1507 et 1508 du C.c.Q., qui se lisent comme suit :
+Art. 1497. L'obligation est conditionnelle lorsqu'on la fait dépendre d'un événement futur et incertain, soit en suspendant sa naissance jusqu'à ce que l'événement arrive ou qu'il devienne certain qu'il n'arrivera pas, soit en subordonnant son extinction au fait que l'événement arrive ou n'arrive pas.
+Art. 1506. La condition accomplie a, entre les parties et à l'égard des tiers, un effet rétroactif au jour où le débiteur s'est obligé sous condition.
+Art. 1507. La condition suspensive accomplie oblige le débiteur à exécuter l'obligation, comme si celle-ci avait existé depuis le jour où il s'est obligé sous telle condition.
+[…]
+Art. 1508. L'obligation est à terme suspensif lorsque son exigibilité seule est suspendue jusqu'à l'arrivée d'un événement futur et certain.
+[22] Selon l’appelante, le droit de Pierre-Marc Paquette de devenir bénéficiaire de la fiducie est conditionnel à la liquidation de 9059, qui est un événement incertain de son vivant. En effet, une personne morale a une vie perpétuelle et le C.c.Q. en limite la durée à 100 ans en tant que bénéficiaire. Selon l’acte de fiducie, 9059 est le bénéficiaire de premier rang, prenant ainsi avantage de son droit avant celui de Pierre-Marc Paquette, lequel devra attendre la liquidation pour devenir lui-même bénéficiaire. Le droit de premier rang de 9059 peut, en théorie, exister 100 ans et, dans une telle hypothèse, Pierre-Marc ne deviendrait jamais bénéficiaire puisqu’il faudrait qu’il atteigne l’âge de 112 ans, événement plus qu’improbable. Il s’agit donc d’un événement incertain du vivant de Pierre-Marc et donc non pas d’un événement futur et certain, faisant naître son droit comme bénéficiaire dès la création de la fiducie, mais plutôt d’un droit éventuel qui naîtra au moment où la condition se réalisera, si jamais elle se réalise.
+[23] Ainsi, selon l’appelante, le droit de Pierre-Marc Paquette d’être un bénéficiaire de la fiducie n’était pas né au moment de la création de cette dernière, et n’était pas encore né au cours des périodes en litige, puisque 9059 en était encore le bénéficiaire de premier rang. En conséquence, la discrétion attribuée aux fiduciaires quant à la répartition du revenu et du capital par l’acte de fiducie ne pouvait être exercée en faveur de Pierre-Marc Paquette. Ce dernier, n’étant pas un bénéficiaire de la fiducie au sens du C.c.Q., l’appelante conclut que le sous-alinéa 256(1.2)f)(ii) et le paragraphe 256(1.3) de la LIR ne pouvaient s’appliquer pour réputer Pierre-Marc Paquette et, par ricochet, son père Pierre Paquette, propriétaires des actions de 9059.
+Arguments de l’intimée
+[24] L’avocat de l’intimée se réfère tout d’abord au sens commun donné au terme bénéficiaire. Dans son cahier des autorités, il fait référence à plusieurs définitions que l’on retrouve dans divers dictionnaires :
+« beneficiary »: […] A person entitled to benefit from a trust or will
+Dukelow, Daphne A., The Dictionary of Canadian Law, Third Edition, Thomson Carswell, 2004;
+« beneficiary »: 1. A person for whose benefit property is held in trust; […] 2. A person to whom another is in a fiduciary relation, whether the relation is one of agency, guardianship, or trust.
+Garner, Bryan A., Black’s Law Dictionary, Eight Edition, Thomson West, 2004;
+« bénéficiaire » 3. En matière de fiducie, personne que le constituant veut avantager, dans l’acte constitutif qui représente sa volonté, par l’attribution des biens qui sont détenus et administrés en fiducie par le fiduciaire.
+Reid, Hubert, Dictionnaire de droit québécois et canadien, 3e édition, Wilson & Lafleur Ltée, 2004;
+« beneficiary » : […] one for whose benefit a trust is created; one for whose benefit a trustee, an executor, etc., holds the property.
+The Canadian Law Dictionary, Toronto, Law and Business Publication (Canada) Inc., 1980;
+« beneficiary » : 1. The person having the beneficial enjoyment of property rather than the legal possession – for example, the person for the benefit of whom a trust is created, or, in other words, the CESTUI QUE TRUST [see trust] in a trust relationship.
+Yogis, John A., Canadian Law Dictionary, Barron’s Educational Series, Inc., 1983.
+[25] Ainsi, l’intimée soutient qu’un bénéficiaire d’une fiducie, par définition, est une personne que le constituant veut avantager, dans l’acte de fiducie.
+[26] Or, selon l’avocat de l’intimée, il ressort de l’acte de fiducie, que même si Pierre-Marc Paquette est un bénéficiaire de deuxième rang, il est clairement une personne que le constituant voulait avantager. D’ailleurs, à la lecture du paragraphe 4.1 de l’acte de fiducie, reproduit au paragraphe 16 de l’entente partielle sur les faits, on donne le pouvoir au fiduciaire de verser en tout temps aux bénéficiaires ou à l’un d’eux, une partie ou la totalité des revenus nets annuels de la fiducie dans les proportions qu’il pourra établir à son entière discrétion. De même, les fiduciaires ont à leur entière discrétion et en tout temps le pouvoir de distribuer aux bénéficiaires, tout ou partie du capital de la fiducie. Ainsi, l’acte de fiducie donne la discrétion au ou aux fiduciaire(s) de distribuer les revenus ou le capital, non pas à un seul bénéficiaire mais aux bénéficiaires de la fiducie. L’avocat de l’intimée en conclut que le fiduciaire a un pouvoir discrétionnaire quant à la distribution du revenu et du capital, en tout temps, tant pour le bénéficiaire de premier rang que pour le bénéficiaire de deuxième rang, soit Pierre-Marc Paquette.
+[27] Par ailleurs, l’avocat de l’intimée se réfère également aux articles 1265 et 1267 du C.c.Q.
+Art. 1265. L'acceptation de la fiducie dessaisit le constituant des biens, charge le fiduciaire de veiller à leur affectation et à l'administration du patrimoine fiduciaire et suffit pour rendre certain le droit du bénéficiaire.
+Commentaire
+L’irrévocabilité, que consacre l’acceptation du fiduciaire, du droit du bénéficiaire aux avantages que lui confère la fiducie, demeure évidemment tributaire de l’existence du bénéficiaire lors de l’ouverture de son droit. Elle n’empêche pas, par ailleurs, le bénéficiaire de renoncer ultérieurement à s’en prévaloir.
+Art. 1267. La fiducie personnelle est constituée à titre gratuit, dans le but de procurer un avantage à une personne déterminée ou qui peut l'être.
+[28] L’avocat de l’intimée souligne que le bénéficiaire est la personne qu’a voulu avantager le constituant et l’auteur du transfert prévoit le moment de l’ouverture de son droit. Même si son droit s’ouvre ultérieurement, ce droit sera irrévocable si au moment de l’ouverture, la personne qu’on a voulu avantager remplit toutes les conditions. De plus, les articles 1271 et 1272 du C.c.Q. cités par l’appelante, prévoient la possibilité de nommer des bénéficiaires successifs. Il n’en demeure pas moins, selon l’intimée, que les bénéficiaires de deuxième rang sont des bénéficiaires au sens du C.c.Q., la différence étant que leur droit s’ouvrira ultérieurement. Dans le cas qui nous préoccupe, même si la société 9059 a en théorie une vie perpétuelle, elle ne peut, en vertu du droit civil, être bénéficiaire plus de cent ans. Il s’agit d’une durée déterminée et il ne s’agit pas d’un événement futur incertain, tel que soutenu par l’appelante.
+[29] L’avocat de l’intimée se réfère également aux articles 1275 et 1287, alinéa 1, du C.c.Q. :
+Art. 1275. Le constituant ou le bénéficiaire peut être fiduciaire, mais il doit agir conjointement avec un fiduciaire qui n'est ni constituant ni bénéficiaire.
+Art. 1287. L'administration de la fiducie est soumise à la surveillance du constituant ou de ses héritiers, s'il est décédé, et du bénéficiaire, même éventuel.
+[...]
+Ces articles donnent le droit aux bénéficiaires éventuels d’avoir un droit de regard sur l’administration de la fiducie.[3]
+[30] En conclusion, l’avocat de l’intimée soumet que Pierre-Marc Paquette est un bénéficiaire au sens du C.c.Q. et du sous‑alinéa 256(1.2)f)(ii) de la LIR, et ce, même si l’on veut prétendre que son droit ne s’ouvrira qu’à la liquidation de 9059.
+[31] Par ailleurs, il ressort clairement de l’acte de fiducie que sa part du revenu est conditionnelle à l’exercice du pouvoir discrétionnaire que peut exercer le fiduciaire en tout temps. Si le fiduciaire décide de ne rien verser au bénéficiaire de premier rang, les revenus s’accumuleront au profit du bénéficiaire de deuxième rang, Pierre-Marc Paquette. En conséquence, toutes les conditions du sous-alinéa 256(1.2)f)(ii) sont remplies, faisant en sorte que le paragraphe 256(1.3) s’applique. L’appelante est donc associée aux autres sociétés aux termes de l’alinéa 256(1)c) de la LIR.
+Analyse
+[32] Les articles 1271 et 1272 du C.c.Q. parlent de fiducies pouvant être constituées au bénéfice de plusieurs personnes successivement, ne pouvant comprendre plus de deux ordres de bénéficiaires des fruits et revenus, outre celui du bénéficiaire du capital. À l’article 1279 du C.c.Q., on parle d’une situation où il y aurait plusieurs bénéficiaires du même ordre.
+[33] Ici, l’acte de fiducie fait référence au bénéficiaire de premier rang et au bénéficiaire de deuxième rang. Compte tenu des circonstances de la création de la fiducie dont je vais traiter ci‑après, il me semble logique de dire que l’on ait voulu créer deux catégories de bénéficiaires de façon successive. Aussi, le bénéficiaire de deuxième rang doit attendre la liquidation du bénéficiaire de premier rang avant que son droit ne s’ouvre.
+[34] À mon avis, le témoignage de M. Choquette est très éclairant quant au choix précis des bénéficiaires de la fiducie. Il a expliqué que le départ de Clément Paquette de Pépinière en 1995 avait engendré des coûts importants pour cette dernière. La fiducie a été créée en 1998 pour contrôler indirectement, par le biais de 9059, l’appelante, dont l’âme dirigeante est Pierre Paquette, le frère de Clément Paquette. Même si Pierre Paquette voulait ultimement avantager son fils Pierre‑Marc, il ressort implicitement des propos de M. Choquette que toute entreprise familiale peut connaître ses différends malgré toute bonne intention de vouloir conserver le patrimoine dans la famille.
+[35] Pierre Paquette a dû tirer une leçon du départ de son frère Clément. Pour sa propre entreprise, soit l’appelante, Pierre Paquette a choisi de transférer toutes les actions de contrôle à 9059, conservant pour lui-même des actions privilégiées lui donnant droit à des dividendes prioritaires (les actions de catégorie B de l’appelante). (Voir annexe 2 de l'entente partielle sur les faits et la pièce A‑1, volume 3, onglet 31.) Quant à 9059, il a choisi la fiducie comme titulaire de toutes les actions de contrôle, de catégorie A. Le capital-actions autorisé de 9059 prévoit, par ailleurs, la possibilité d’émettre plusieurs autres catégories d’actions privilégiées donnant droit à des dividendes, de même que des actions donnant une pluralité de droits de vote (pièce A-1, volume 3, onglet 32).
+[36] En créant la fiducie, on a pris soin de désigner 9059 comme bénéficiaire de premier rang jusqu’à sa liquidation. Cette façon de faire ne va pas à l’encontre du droit civil, ni du droit corporatif.[4]
+[37] M. Choquette a précisé lors de son témoignage qu’on avait agi ainsi afin de garder le contrôle. Ceci se comprend très bien. Si Pierre-Marc Paquette, alors âgé de 12 ans, ne montrait aucun intérêt dans l’entreprise dans le futur, ou évoluait de façon à mettre en péril la bonne administration ou les finances de l’appelante, ce que ni Pierre Paquette, ni Pierre Choquette, ne pouvait prédire au moment de la création de la fiducie, on se laissait la possibilité de conserver le patrimoine de la fiducie dans 9059, sans que Pierre-Marc Paquette n’ait droit à aucun revenu ni au capital de la fiducie. De fait, les fiducies discrétionnaires sont fréquemment mises sur pied pour détenir les actions ordinaires d'une société après un gel successoral. Si ces actions ont une plus‑value potentielle, le constituant peut hésiter à transférer directement à ses enfants ou à d'autres bénéficiaires du gel, des biens dont la valeur est susceptible d'augmenter[5].
+[38] L’avocat de l’intimée soutient qu’au bout de 100 ans, 9059 ne pourra plus être bénéficiaire. Peut-être, mais dans 100 ans, Pierre-Marc sera fort probablement décédé et dans l’hypothèse où, dans l'intervalle, Pierre Paquette et Pierre Choquette ne voudraient plus avantager Pierre-Marc, l’acte de fiducie leur donne la possibilité de liquider la fiducie, remettant ainsi le capital à 9059, le seul bénéficiaire de premier rang[6].
+[39] C’est pourquoi, je crois comme l’appelante, que la structure même de l’acte de fiducie, faisait en sorte que Pierre-Marc Paquette n’avait qu’un droit éventuel aux revenus et au capital de la fiducie, ce droit étant conditionnel à la liquidation de 9059.
+[40] Le droit de Pierre‑Marc Paquette d’être bénéficiaire de la fiducie conditionnellement à la liquidation de 9059, ne dépend pas d'un événement certain car personne ne pouvait prédire au moment de la création de la fiducie si cela se produirait. La seule certitude est que 9059 ne pourra plus être bénéficiaire dans 100 ans, mais il est tout à fait incertain que la liquidation de 9059 arrivera du vivant de Pierre-Marc Paquette. En ce sens, je suis d'accord avec l'avocat de l'appelante qu'on a affaire à une obligation conditionnelle et non à terme et le droit de Pierre‑Marc ne s’ouvrira que lors de la liquidation de 9059, pas avant[7].
+[41] L’avocat de l’intimée soutient que l’acceptation par le fiduciaire des biens de la fiducie a eu pour effet de rendre certain le droit de tout bénéficiaire désigné, aux termes de l’article 1265 du C.c.Q. Il faut mettre un bémol à cette affirmation. Si le droit d’un bénéficiaire est attaché à une condition, il faut attendre que cette condition se réalise pour que ce bénéficiaire puisse prétendre à son droit. La certitude de l’article 1265 du C.c.Q. n’empêche donc pas la caducité du droit du bénéficiaire selon les termes de l’acte constitutif[8].
+[42] Par ailleurs, le fait que l’article 1287 du C.c.Q. soumette l’administration de la fiducie à la surveillance d’un bénéficiaire, même éventuel, ne lui donne pas un droit de recevoir un revenu ou du capital de la fiducie. Il s'agit d'un droit limité qui lui permet de poursuivre le fiduciaire en justice s'il refuse d'exercer sa discrétion ou s'il ne l'exerce pas de façon adéquate[9]. Ce droit de surveillance ne rend pas ce bénéficiaire éventuel un bénéficiaire au sens des dispositions législatives de la LIR visant la définition des sociétés par actions associées. Si l’on avait voulu couvrir les bénéficiaires éventuels, on aurait utilisé l’expression « droit de bénéficiaire » qui est utilisée ailleurs dans la LIR (articles 104 à 108) et qui est d’ailleurs définie au paragraphe 248(25) de la LIR.
+[43] Quant à l’argument de l’avocat de l’intimée que l’acte de fiducie fait référence à la discrétion du ou des fiduciaires de distribuer les revenus ou le capital aux bénéficiaires, ou à l’un d’eux, je ne crois pas que cette formulation vienne changer quoi que ce soit à l’intention de désigner des bénéficiaires successifs. Tel que mentionné par l’avocat de l’appelante, l’acte de fiducie parle aussi de descendants des bénéficiaires. Ainsi, si jamais 9059 est liquidée, Pierre-Marc deviendra alors bénéficiaire et pourrait à son tour avoir des descendants qui pourraient également être bénéficiaires. Si tel est le cas, les fiduciaires pourront à leur discrétion distribuer les revenus et le capital à un ou tous les bénéficiaires existants à ce moment.
+[44] Pour la période en litige, la discrétion donnée aux fiduciaires ne s’appliquait que pour l’unique bénéficiaire de la fiducie, soit 9059.
+[45] Je conclus donc que, durant cette période, Pierre-Marc Paquette n’était pas bénéficiaire de la fiducie aux termes du sous-alinéa 256(1.2)f)(ii) de la LIR, et qu’en conséquence, son père Pierre Paquette, ne l’était pas non plus, par application du paragraphe 256(1.3) de la LIR.
+[46] Pour ces motifs, je suis d’avis d’accueillir les appels et de retourner les cotisations au ministre pour reconsidération et recotisation sur la base que l’appelante peut réclamer le montant de la DPE auquel elle a droit aux termes de la LIR, sans tenir compte du plafond des affaires de Pépinière et Centre du Jardinage, au cours des années en litige.
+[47] Le tout avec dépens en faveur de l’appelante.
+Signé à Montréal, Québec, ce 1er jour d octobre 2008.
+« Lucie Lamarre »
+Juge Lamarre
+ANNEXE A
+ANNEXE B
+RÉFÉRENCE : 2008 CCI 532
+Nº DU DOSSIER DE LA COUR : 2007-1882(IT)G
+INTITULÉ DE LA CAUSE : PROPEP INC.
+c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 9 septembre 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge Lucie Lamarre
+DATE DU JUGEMENT : le 1er octobre 2008
+COMPARUTIONS :
+Avocats de l'appelante :
+Me Serge Racine
+Me Stéphane Larochelle
+Avocat de l'intimée :
+Me Benoit Mandeville
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom : Me Serge Racine
+Cabinet : Séguin, Racine Avocats Ltée
+Laval (Québec)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Ces annexes sont reproduits à la fin des présents motifs.
+[2] Voir paragraphe 17 de l’entente partielle sur les faits.
+[3] Voir Jacques BEAULNE, Droit des fiducies, 2e édition, Montréal, Wilson & Lafleur, 2005, pp. 179-249, pp. 186 et 187.
+[4] Voir l’article de Luc Pariseau et al., Congrès APFF 98, « Panel sur les fiducies − Structures particulières utilisant une fiducie », pages 7:19 à 7:32.
+[5] Voir l'article de Marilyn Piccini Roy, « Fiducie discrétionnaire et droit civil » dans « Planification fiscale personnelle » (2003), vol. 51, no 4 Canadian Tax Journal, 1690-1735 à la page 1708 qui réfère à Charles P. Marquette, « Gel successoral et fiducie », article dans la chronique Planification fiscale personnelle (2002), vol. 50, no 1, Revue fiscale canadienne 360‑86.
+[6] Voir sous-paragraphe 2.1.3.2 de l’acte de fiducie, pièce A-1, volume 3, onglet 37. Il n'est pas certain qu'en droit québécois, l'existence d'une telle clause soit légale. Certains auteurs ne s'accordent pas sur ce sujet (voir l'article de Marilyn Piccini Roy, précité, sur le chapitre du pouvoir de mettre fin à la fiducie, aux pages 1725‑1727). À tout événement, cette clause dans l'acte de fiducie est un autre indicateur que l'auteur du transfert ne désirait pas avantager Pierre‑Marc Paquette avant la liquidation de 9059, ce qui n'en faisait pas un bénéficiaire tant et aussi longtemps que 9059 existerait.
+[7] Voir Dame Thoreson v. Nat. Trust Co. Ltd., [1955] B.R. 298, plus particulièrement à la page 306. Voir également Jean-Louis Baudoin et Pierre-Gabriel Jobin, Les Obligations, 5ième édition, Les Éditions Yvon Blais Inc., 1998, pages 451 à 468.
+[8] Voir l’article de Jacques Beaulne, précité, pp. 228 et 229, paragraphes 251 et 252.
+[9] Voir l’article de Marilyn Piccini Roy, précité, au chapitre sur la distinction entre la faculté d'élire et le pouvoir fiduciaire, pp. 1715‑1716.

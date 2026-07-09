@@ -1,0 +1,218 @@
+Title: Papiers Cascades Cabano Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26518/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-396-26518-papiers-cascades-cabano-inc-c-la-reine-en.md
+Document type: case_law
+Last modified: 2005-06-20
+
+# Papiers Cascades Cabano Inc. c. La Reine
+
+- Citation: 2005 TCC 396
+- Decision date: 2005-06-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3201, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Papiers Cascades Cabano Inc. c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-06-20
+Neutral citation
+2005 TCC 396
+File numbers
+2003-1762(IT)G
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-1762(IT)G
+BETWEEN:
+PAPIERS CASCADES CABANO INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on January 25, 2005, in Montréal, Quebec
+Before: The Honourable Justice Louise Lamarre Proulx
+Appearances:
+Counsel for the Appellant:
+Pierre Barsalou
+Josée Pelletier
+Counsel for the Respondent:
+Pierre Cossette
+Annick Provencher
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 1996 taxation year is allowed, with costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 20th day of June 2005.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Citation: 2005TCC396
+Date: 20050620
+Docket: 2003-1762(IT)G
+BETWEEN:
+PAPIERS CASCADES CABANO INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre Proulx J.
+[1] This appeal concerns the 1996 taxation year. The issue is whether, for purposes of computing the investment tax credit (hereinafter referred to as "ITC") set out in subsection 127(5) of the Income Tax Act (the "Act") and defined in subsection 127(9) of the Act, a taxpayer must consider, for purposes of paragraph (c) of the definition, the ITC amounts deducted in the years prior to the year in question or those that should have been deducted under the Act.
+[2] The relevant portion of the definition of "investment tax credit" for purposes of this case reads as follows:
+"investment tax credit" of a taxpayer at the end of a taxation year means the amount, if any, by which the total of
+(a) the total of all amounts each of which is the specified percentage of the capital cost to the taxpayer of certified property or qualified property acquired by the taxpayer in the year,
+. . .
+(c) the total of all amounts each of which is an amount determined under paragraph (a), (a.1) or (b) in respect of the taxpayer for any of the 10 taxation years immediately preceding or the 3 taxation years immediately following the year,
+. . .
+exceeds the total of
+(f) the total of all amounts each of which is an amount deducted under subsection (5) from the tax otherwise payable under this Part by the taxpayer for a preceding taxation year in respect of property acquired, or an expenditure incurred, in the year or in any of the 10 taxation years immediately preceding or the 2 taxation years immediately following the year, or in respect of the taxpayer's SR & ED qualified expenditure pool at the end of such a year,
+. . .
+[3] According to the Minister of National Revenue (the "Minister"), the amounts that must be included for purposes of paragraph (c) of the definition of an ITC are the amounts that should have been claimed in accordance with the Act. According to the Appellant, what must be included are the amounts claimed that were assessed in previous years.
+[4] An Agreement on Facts (the "Agreement") was filed before the hearing. Paragraphs 1 to 38 involve documents, the authenticity of which was recognized. The facts on which the parties agreed are set out at paragraphs 30 to 59 as follows:
+[TRANSLATION]
+39. The Appellant is a corporation operating in the pulp and paper industry.
+40. The Appellant's taxation year ends on December 31 of each year.
+41. In the course of the 1993, 1994, 1995, and 1996 taxation years, the Appellant incurred various operating and scientific research and experimental development expenditures that qualified for investment tax credits (hereinafter "ITC").
+42. In those years, the Appellant consequently deducted some ITC amounts.
+43. When conducting an audit of the Appellant's affairs, the Minister reviewed the eligibility of certain expenditures or property in respect of an ITC for the 1993 to 1996 taxation years, as defined in subsection 127(9) of the Income Tax Act, as set out in the tables enclosed with this agreement as Annex A, and forming an integral part thereof.
+44. Following denial of the latter expenditures relating to some class 1 and class 43 property, as set out in Annex A, the Minister recomputed the ITC balances at the end of each of the taxation years from 1993 to 1996.
+45. According to the Minister's new computation, the ITC balance at the end of the 1995 taxation year is a negative ITC of $206,364:
+Credits
+Start of Year
+Credits
+Accumulated
+Throughout Year
+Amounts
+Deducted
+Credit Balances
+End of Year
+1993
+$5,563,804
+$512,225
+$396,093
+$5,679,936
+1994
+$5,679,936
+$505,268
+$2,319,692
+$3,865,512
+1995
+$3,865,512
+$404,069
+$4,475,945
+$(206,364)
+46. Since the 1993 and 1994 taxation years were statute-barred at the start of the audit, on November 15, 1999, the Minister issued reassessment notices on March 26, 2001, for the 1993 and 1994 years, without amendment, but with the following indication:
+We have revised the T2 statement further to an audit. Where necessary, we have adjusted the subsequent years for carry-forward balances, interest and the balance due date.
+47. The 1995 taxation year was not statute-barred at the start of the audit but was so on March 26, 2001. No reassessment notice was issued for the 1995 taxation year.
+48. On March 26, 2001, CCRA issued a reassessment for the Appellant's 1996 taxation year in order to consider the negative balance of $206,364 as the ITC balance at the end of 1995 and as the opening balance for 1996 for the computation of the ITC for 1996.
+49. In the same notice of assessment, the Minister also corrected the amounts that qualified for an ITC in 1996 to establish the following amounts, in accordance with the enclosed table in Annex A:
+Qualified Expenditures
+R & D Expenditures
+$14,975.00
+Property - Class 1
+$1,390,283.00
+Property - Class 43
+$3,516,490.00
+50. The Appellant does not challenge the fact that the Minister was justified, insofar as the relevant years were not otherwise statute-barred, in denying qualification of the property, described in Annex A, in computing the ITC for the 1993 to 1996 taxation years.
+51. According to the Minister's computations, the qualified ITC amount for the 1996 taxation year was increased to the following, as set out in Annex B herein enclosed and forming an integral part thereof:
+ITC for the Year
+R & D Expenditures
+$2,995.00
+Qualified Property
+$490,677.00
+$493,672.00
+52. According to the Minister's computations, the ITC amount that the Appellant could deduct for the 1996 taxation year, and which was granted is as follows:
+Credits
+Start of Year
+Credits Accumulated
+Throughout
+Year
+Amounts
+Deducted
+Credit Balances
+End of Year
+1996
+($206,364)
+$493,672
+$287,308
+nil
+53. The Appellant objected to the notices of reassessment for 1993, 1994 and 1996 via Notices of Objection dated April 26, 2001.
+54. As part of the Appellant's objection, Jocelyn Cliche prepared the computation schedules of continuation of the Appellant's investment tax credits for 1993 to 1996, as they appear in said schedules enclosed herein as Annex C and forming an integral part thereof.
+55. On February 12, 2003, the Minister confirmed the assessment of March 26, 2001, in respect of the Appellant's 1996 taxation year.
+56. The Notice of Confirmation indicates the following:
+[TRANSLATION]
+Having reviewed the reasons set out in your objection and all of the relevant facts, the Minister of National Revenue hereby confirms the noted assessment, declaring it to be in accordance with the provisions of the Income Tax Act for the following reasons:
+A taxpayer's ITC amount at the end of a taxation year is computed on a continuous annual basis.
+Subsection 127(9) of the Act defines the method of computing a taxpayer's ITC at the end of a given year. Under paragraph (c) of that definition, the opening ITC balance for 1996 was correctly assessed based on the qualified property for each of the three previous years.
+57. In a letter dated December 15, 1999, the Appellant asked Revenue Canada to enter an amount of $500,000 in class 43, in computing the investment tax credit for the Appellant's 1996 taxation year.
+58. The Appellant had failed to enter this amount for the 1996 taxation year and no request regarding that amount was made to Revenue Canada prior to December 15, 1999.
+59. This $500,000 amount was erroneously considered in the computation of the Appellant's investment tax credit for the 1996 taxation year.
+[5] Paragraphs 57 to 59 of the Agreement will be analyzed at the end of these reasons as an alternative issue, for the purposes of an alternative argument by the Respondent.
+Main Issue
+[6] I shall briefly summarize the facts at issue. As mentioned in paragraph 44 of the Agreement, some expenditures relating to certain property were not considered qualified for ITC purposes. As mentioned in paragraph 45 of the Agreement, there was an excessively high ITC amount claimed for the 1993 to 1995 taxation years in the amount of $206,364, that is, $110,000, $63,000 and $32,000 for each of those years respectively. As mentioned in paragraphs 46 to 48 of the Agreement, the ITCs were not corrected via reassessments in the years at issue because they fell outside the normal assessment period. For the purpose of computing the amount of the ITC for the 1996 taxation year, the Minister included ITC amounts as they should have been claimed by the Appellant under paragraph (c) of the definition and included the ITC amounts as they were in fact claimed by the Appellant under paragraph (f). Consequently, the opening balance for the 1996 taxation year was an amount owing of $206,364.
+Arguments
+[7] Counsel for the Appellant argues that the term "exceeds" in the definition for investment tax credit can only mean a positive amount.
+[8] As regards paragraph (c) of the definition for ITC at subsection 127(9) of the Act, counsel for the Appellant argues that once the normal assessment period has passed, the amount that must be entered in paragraph (c) is the amount the taxpayer entered for those years.
+[9] Counsel refers to the Federal Court of Appeal decision in Lor-Wes Contracting Ltd. v. The Queen, [1986] 1 F.C. 346. He refers specifically to pages 355 and 356, where the Court states that the ITC is an incentive and support to investments. Therefore, counsel pleads in favour of fiscal security because uncertainty is negative.
+[10] Counsel refers to Dussault J.'s decision of this Court in 170635 Canada Ltée v. M.N.R., 93 DTC 1120, specifically at page 1138:
+The Minister has no power to assess a taxpayer in the year of his choice when he did not do so for the year in which he was required to do it under specific legislative rules. Allowing him to do this would be to give him a legislative power or discretion which he does not have. If he has failed to make an assessment in accordance with the provisions of the Act and it is now too late to do so under the rules laid down in subsection 152(4) of the Act, he cannot attempt to correct this error by making method changes which the Act does not authorize. . . .
+[11] Counsel for the Respondent recalls that taxation years 1993 to 1995 are statute-barred and that the Minister cannot issue reassessments for those years. However, he argues that the Minister is correct to consider, for purposes of paragraph (c) of the definition, the lesser ITC amounts to which the taxpayer was entitled based on the expenditures that qualified.
+[12] In this respect, counsel for the Respondent refers to case law on investment tax credit balances, loss carry-overs and the computation of undepreciated capital cost.
+[13] He cites a decision handed down by Bowman J. of this Court in Coastal Construction and Excavating Ltd. v. Canada, [1996] T.C.J. No. 1102 (Q.L.):
+23 Finally, the appellant contends that because the Minister, in prior years, had treated the operation as a "facility" as defined in the RDIA he was not entitled to change the investment tax credit carry-forward from those admittedly statute-barred years to affect the taxable income of a year that was not statute-barred to conform to his view that the property was qualified and not certified. This interpretation would involve a conclusion that a determination of the balance of a carry-forward of investment tax credits for a statute-barred year was tantamount to an assessment. I do not read section 152 of the Income Tax Act as supporting such a conclusion. The Minister is obliged to assess in accordance with the law. If he assesses a prior year incorrectly and that year becomes statute-barred this will prevent his reassessing tax for that year, but it does not prevent his correcting the error in a year that is not statute-barred, even though it involves adjusting carry-forward balances from previous years, whether they be loss carry-forwards or balances of investment tax credits. New St. James Limited. v. M.N.R., 66 DTC 5241; Allcann Wood Suppliers Inc. v. The Queen, 94 DTC 1475. No question of estoppel arises: Goldstein v. The Queen, 96 DTC 1029.
+[14] Therefore, counsel argues that nothing precludes the Minister from correcting the mistake in a year that is not statute-barred, even if this involves adjusting carry-forward balances from previous years, whether they be loss carry-forwards or investment tax credit balances.
+[15] Counsel also gives the example of an adjustment that can be made with regard to undepreciated capital cost as stated in Gaouette v. Canada, [2002] T.C.J. No. 168 (Q.L.), at paragraphs 20 to 22:
+20 Counsel for the appellant raised the issue of the calculation of depreciation in which periods prior to the normal assessment period were considered. The Minister's auditor reorganized the CCA schedules starting in 1989; she allowed certain capital expenditures and disallowed others because they were not supported by invoices or had not been incurred for business purposes.
+21 Counsel for the appellant argued that the auditor could not remake the schedules for the years prior to the normal assessment period: the capital expenditures have already been allowed by the Minister and can no longer be disallowed.
+22 In my view, the principles that apply in computing the losses for the years prior to the normal assessment period also apply to the calculation of depreciable property. In the calculation of losses, the courts have determined that the Minister may not assess for the previous years but may redo the calculations for those years: New St.James Limited v. M.N.R., 64 DTC 121; Coastal Construction and Excavating Ltd. v. Canada, [1996] T.C.J. No. 1102. In conclusion, the capital costs of depreciable property and the purpose of their acquisition may be revised even if that property was acquired during periods prior to the normal assessment period.
+[16] Counsel states that in Bradley v. Canada, [1998] F.C.J. No. 868 (Q.L.), the Federal Court of Appeal holds the same position. That Court decided that if, in a given year, gifts made in previous years are claimed and have become statute-barred, the computation of those gifts for the given year must be corrected and made in compliance with the Act.
+[17] Counsel for the Respondent also argues that with regard to the phrase "amount deducted under subsection (5)" in paragraph (f) of the definition for ITC, case law has clearly stated that deductions claimed and obtained had to be considered, not only those claimed under the Act.
+Analysis and Conclusion
+[18] I agree with the analysis made by counsel for the Respondent regarding amounts to consider for the purposes of paragraph (f) of the definition for ITC, so I will not discuss it any further.
+[19] I do not share the same opinion with regard to the amounts to include in paragraph (c) of the definition for ITC.
+[20] An ITC may be claimed as a deduction from tax payable for a taxation year or it may be carried forward for one of the 10 taxation years preceding or three taxation years immediately following the year. If the ITC is claimed, it becomes an amount that has been considered in the assessment for the taxation year. An assessment is presumed valid. It can only be corrected via another assessment.
+[21] The Respondent's position amounts to asserting that a taxpayer may have to pay back in a subsequent year an ITC that he or she claimed as a deduction from tax payable for a year and that was considered in the assessment for that year.
+[22] This is not the case for a loss carry-forward, an ITC carry-forward, or computation of undepreciated capital cost. These are not elements that were considered in the assessment for a given year.
+[23] Case law to which counsel for the Respondent referred relates to amounts that have not been assessed. This is specifically noted in Coastal Construction and Excavating Ltd. (supra). While this is not expressly stated in other cases, the description of facts and the legal analysis clearly indicate it. To rule otherwise would be to counter the provisions set out in subsection 152(4) of the Act regarding the normal assessment period.
+[24] One must bear in mind that [translation] ". . . the Act is interpreted as a whole, every one of its elements must be considered as a logical part of an overall system that the Act forms. . . .", Pierre-André Côté, Interprétation des Lois, 3rd ed., Les Éditions Thémis, Montréal 1999, pp. 387 and 388.
+[25] While the dispute does not directly involve the quantum and the nature of qualified expenditures and property, I may add that the qualified expenditures and property that were considered in computing the ITC claimed as a deduction from tax payable are also elements of an assessment up to the amount used to establish the ITC claimed as a deduction.
+Alternative Issue
+[26] The amended Reply to the Notice of Appeal states another issue on which I am asked to rule if I accept the Appellant's position regarding ITCs. The facts are described at paragraphs 57 to 59 of the Agreement.
+Arguments
+[27] The Respondent argues that, in 1996, the Appellant was only entitled to an ITC deduction of $443,672, instead of the $493,672 claimed, because $500,000 was erroneously added to the class 43 property for that year; thus an ITC of $50,000 was granted, contrary to the provisions of paragraph (m) of the definition for ITC under subsection 127(9) of the Act.
+[28] The Appellant did not submit to the Minister a prescribed form containing the information regarding the $500,000 on or before the day that is one year after the filing-due date applicable for the year in question pursuant to paragraph 127(9)(m) for the ITC definition. It was claimed in 1999 as part of the audit.
+[29] Counsel for the Respondent then describes the other facts of that untimely claim:
+[TRANSLATION]
+39. The Appellant's taxation year ends on December 31 of every year.
+40. According to the definition of "filing-due date" in subsection 248(1) and paragraph 150(1)(a) of the Income Tax Act, the Appellant's filing-due date for its 1996 taxation year was June 30, 1997.
+41. On June 30, 1998, no request regarding the $500,000 amount in class 43 was made by the Appellant in respect of computing the ITC for its 1996 taxation year.
+42. In a letter dated December 15, 1999, the Appellant asked Revenue Canada to enter an amount of $500,000 in class 43, in computing the ITC for its 1996 taxation year.
+[30] Counsel for the Respondent requests a reduction in the disputed ITC amount from the ITC amount that was allowed not in accordance with the Act. He refers to subsection 152(9) of the Act, which reads as follows:
+152(9) Alternative basis for assessment - The Minister may advance an alternative argument in support of an assessment at any time after the normal reassessment period unless, on an appeal under this Act
+(a) there is relevant evidence that the taxpayer is no longer able to adduce without the leave of the court; and
+(b) it is not appropriate in the circumstances for the court to order that the evidence be adduced.
+[31] Counsel argues that an alternative ground in support of an assessment is acceptable insofar as the tax amount of the assessment is not increased. An appeal addresses the issue of whether or not the tax amount is too high. Courts allow parties to invoke any other ground in support of their position. He relies on the following decisions: The Queen v. Bowater Mersey Paper Company Limited, 87 DTC 5382 and Canada v. Loewen [2004] 4 F.C.R. 3.
+[32] Counsel for the Respondent is not asking the Court to accept this ground if I otherwise dismiss the Appellant's appeal because it would involve an increase in the amount of the assessment.
+[33] Counsel for the Appellant argues that the 1996 taxation year was assessed. It was the subject of an objection. It was confirmed. The Respondent cannot support the assessment on the basis of a completely different fact. This is not a new argument as set out in subsection 152(9) of the Act.
+Analysis and Conclusion
+[34] I believe that in Petro-Canada v. Canada, [2004] F.C.J. No. 734 (Q.L.), the Federal Court of Appeal ruled on this kind of argument by asserting that the Court cannot do indirectly what it cannot do directly. Allowing that which is sought would have this effect. Counsel did state that I could not allow the Respondent's request unless I were to allow the Appellant's appeal; otherwise, this would result in increasing the assessment amount, which I cannot do. The Federal Court of Appeal clearly stated that this cannot be done:
+65 The Judge declined to give effect to the consent judgment, which would have increased Petro-Canada's deductions for scientific research and experimental development expenses by approximately $700,000. He reasoned that, because Petro-Canada had been allowed a deduction for renounced Canadian exploration expenses that exceeded its entitlement by much more than $700,000, and the ultimate issue before him was the correctness of the assessment under appeal, he could do nothing more than dismiss the appeal. He could not order the Minister to reassess in accordance with his reasons, because that would have increased the tax payable, which is not a permissible outcome in an income tax appeal (refer to Harris, cited above).
+. . .
+68 The Judge was correct when he concluded that Petro-Canada had been allowed a deduction that exceeded its entitlement. The only implication of that conclusion was that the Judge could not grant Petro-Canada the remedy it sought, which was an increased deduction for the cost of the seismic data. The Judge was precluded by Harris from requiring the Minister to reduce the deduction because, in effect, that would allow the Crown to appeal the assessment.
+69 However, the Judge refused to require the Minister to give effect to the consent judgment. Refusing Petro-Canada's rightful claim to the deduction for scientific research and experimental development had the same effect as an order allowing that claim but reducing Petro-Canada's seismic expense deduction by the same amount. It is as though the Judge had allowed, in part, the Crown's appeal of the seismic data deduction. The Judge was doing indirectly what he could not have done directly. In my view, the Judge erred in failing to give effect to the consent judgment.
+Overall Conclusion
+[35] With regard to the first issue, that is, the amounts to include under paragraph (c) of the definition of an ITC at subsection 127(9) of the Act, in respect of the total of all amounts each of which is an amount determined under paragraph (a), (a.1) or (b) in respect of the taxpayer for any of the 10 taxation years immediately preceding or the 3 taxation years immediately following the year, when these amounts were deducted from tax otherwise payable by a taxpayer, these are the amounts that must be entered because they were assessed. The only way to change them is through reassessments for the years in question. The provisions of subsection 152(4) of the Act apply to those amounts.
+[36] As regards the second issue, which was an alternative argument for the Respondent, the Court cannot do indirectly what it cannot do directly. The ITC in the amount of $50,000 was not at issue at the time of assessment. The Minister cannot appeal from his own assessment.
+[37] The appeal is consequently allowed with costs.
+Signed at Ottawa, Canada, this 20th day of June 2005.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.

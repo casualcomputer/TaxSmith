@@ -1,0 +1,120 @@
+Title: Goulet c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31235/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-225-31235-goulet-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2013-07-09
+
+# Goulet c. La Reine
+
+- Citation: 2013 CCI 225
+- Decision date: 2013-07-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5140, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Goulet c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-07-09
+Référence neutre
+2013 CCI 225
+Numéro de dossier
+2012-2016(GST)I
+Juges et Officiers taxateurs
+David E. Graham
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2012-2016(GST)I
+ENTRE :
+MARK GOULET,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 20 juin 2013, à London (Ontario).
+Devant : L’honorable juge David E. Graham
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Tamara Watters
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en vertu de la partie IX de la Loi sur la taxe d’accise, dont l’avis est daté du 27 juin 2011, est rejeté.
+Signé à Winnipeg (Manitoba), ce 9e jour de juillet 2013.
+« David E. Graham »
+Juge Graham
+Traduction certifiée conforme
+ce 7e jour d’août 2013.
+M.-C. Gervais
+Référence : 2013 CCI 225
+Date : 20130709
+Dossier : 2012-2016(GST)I
+ENTRE :
+MARK GOULET,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Graham
+[1] En 2010, Mark Goulet a fait des rénovations à sa résidence et l’a agrandie. Pour ces travaux, il a présenté une demande de remboursement pour habitation neuve en application de l’article 256 de la Loi sur la taxe d’accise. Le ministre du Revenu national a refusé sa demande de remboursement. M. Goulet a fait appel de ce refus. La valeur du remboursement possible n’est pas en cause.
+Les faits :
+[2] M. Goulet a été le seul à témoigner. Je l’ai jugé crédible.
+[3] M. Goulet a acquis sa demeure en 2005. Avant les rénovations, il s’agissait d’une maison d’un étage et demi dont le sous-sol n’était pas fini. Au rez‑de‑chaussée, on trouvait la cuisine, le salon, la salle à manger, la salle de bains et la chambre principale. À l’étage, il y avait deux chambres à coucher. Au total, le rez‑de‑chaussée et l’étage avaient une superficie d’environ 1 100 pieds carrés. La maison et le garage étaient contigus et l'on entrait dans ce dernier par une porte située dans la cuisine.
+[4] En 2010, en plus de rénover la maison existante, M. Goulet a construit une adjonction à l’arrière de la résidence. Le garage a été démoli et a fait place à une adjonction de deux niveaux dotée d’un sous-sol non fini. La superficie du rez‑de‑chaussée et de l’étage de cette adjonction totalisait quelque 1 000 pieds carrés. Au rez-de-chaussée, M. Goulet a aménagé une grande pièce avec un poêle à bois et, à l’étage, une chambre à coucher principale, dotée d’une salle de bains communicante et d’une vaste penderie. Le garage n’a pas été remplacé.
+[5] Pour les besoins de cette adjonction, la porte menant de la cuisine à ce qui avait été le garage a été agrandie, permettant ainsi une meilleure communication avec la nouvelle grande pièce. L’agrandissement a nécessité quelques modifications corrélatives au mur et au plafond de la cuisine, mais le reste de la pièce est demeuré intact. Les armoires, l’évier, la plomberie et les planchers sont restés les mêmes.
+[6] Le salon et la salle à manger n’ont subi aucune modification matérielle, mais les pièces sont devenues un coin salle à manger. La salle de bains existante n’a pas été modifiée. Les fenêtres et la porte de la chambre principale ont été remplacées et la pièce elle-même est devenue une salle de jeu, tout en demeurant par ailleurs inchangée.
+[7] Les modifications apportées à l’étage du bâtiment existant ont été plus importantes. Afin de le relier à l’adjonction, il a fallu ajouter un nouveau couloir partant du haut de l’escalier existant, qui était situé à l’extrémité opposée de la maison. L’ajout du couloir a exigé la modification des murs et du plafond de la cage d’escalier et du palier existants et le déplacement d’un mur d’une des chambres à coucher. Ce raccord avec l’adjonction a aussi permis de monter une partie du toit du bâtiment existant et, par le fait même, de hausser le plafond des chambres. Ces changements ont entraîné d’importants travaux de pose de cloisons sèches et de remplacement de revêtements de sol, ainsi que des modifications extérieures au toit. La taille et la configuration des chambres à coucher de l’étage existant ont été modifiées. L’une d’elles a conservé sa fonction. L’autre a été convertie en bureau après les rénovations.
+[8] Pour relier le sous-sol existant à l’adjonction, il a fallu retirer une partie de la fondation de la résidence et remplacer l’escalier menant au sous-sol par un escalier plus long se rendant jusqu’à la nouvelle partie.
+[9] En ce qui concerne le système électrique de la résidence, le seul changement digne de mention a été le remplacement de la boîte à fusibles par un panneau de disjoncteurs.
+[10] Des changements ont également été apportés à l’extérieur de la maison. Le parement d’aluminium a fait place à un parement avec couvre‑joints. L’isolation de la maison a été entièrement refaite. On a ajouté un nouveau pignon par souci d’esthétique. L’adjonction a été dotée d’une véranda couverte qui courait le long de trois de ses murs. À l’avant de la maison, une petite terrasse en bois dotée de marches s’est substituée à l’ancien escalier de ciment. La fosse septique et le champ d’épandage ont également été refaits, car ils n’étaient plus conformes aux règlements municipaux. Enfin, on a ajouté de nouveaux éléments d’aménagement paysager.
+Analyse :
+[11] Le paragraphe 256(2) de la Loi sur la taxe d’accise énonce les conditions à remplir pour pouvoir présenter une demande de remboursement pour habitation neuve. La seule condition en litige ici est celle figurant à l’alinéa 256(2)a) :
+(2) Le ministre verse un remboursement à un particulier dans le cas où, à la fois :
+a) le particulier, […] par un intermédiaire, construit un immeuble d’habitation — immeuble d’habitation à logement unique […] — ou y fait des rénovations majeures, pour qu’il lui serve de résidence habituelle […]
+[Non souligné dans l’original.]
+[12] Nul ne conteste que, avant les changements comme après, la maison de M. Goulet était un immeuble d’habitation lui servant de résidence habituelle. L’unique question soulevée dans le présent appel est de savoir si cet immeuble d’habitation a été construit ou a fait l’objet de rénovations majeures en 2010.
+[13] Il importe de souligner que l’alinéa 256(2)a) ne précise pas que le remboursement s’applique à une adjonction construite pour venir s’ajouter à l’immeuble d’habitation. Dans la décision Erickson v. The Queen, 2001 CarswellNat 92, la Cour a étudié à fond la façon dont il convenait de traiter une annexe. Je souscris à l’analyse du juge Hershfield, qui mérite d’être reproduite ici :
+14 À l’appui de son allégation selon laquelle l’appelant n’a pas construit un immeuble d’habitation (un nouvel immeuble d’habitation), l’intimée soutient qu’une annexe peut être un immeuble d’habitation nouvellement construit uniquement si le logement préexistant est intégré à une annexe qui est d’une taille et d’une proportion telles qu’il est impossible de la considérer comme une simple annexe à la maison existante. L’annexe doit atteindre une proportion telle qu’en réalité le logement préexistant devient lui-même un ajout. J’adhère à cette position. Le critère, ainsi que je le formulerais, correspondrait alors à la question de savoir si la résidence préexistante a été intégrée à une nouvelle résidence ou si une annexe a été intégrée à une résidence préexistante. La première (mais non la seconde) pourrait être qualifiée de construction d’un (nouvel) immeuble d’habitation. Je crois que le critère ainsi exprimé, à savoir si un projet de construction d’habitations peut à juste titre être considéré comme la construction d’un nouvel immeuble, par opposition à la rénovation d’un immeuble existant auquel on a ajouté quelque chose, correspond aux conditions de la Loi en ce qui concerne la détermination d’une construction ouvrant droit au remboursement pour habitations neuves. […] Je ne souscris toutefois pas à l’idée qu’une annexe, qu’il s’agisse d’une construction en hauteur ou en largeur, qui ne fait que doubler la superficie d’une maison constitue une construction qui suffit à créer un nouvel immeuble d’habitation, même si le caractère de la maison est ainsi transformé. Le changement de caractère d’une maison est non seulement un critère vague et subjectif, mais il s’agit également d’un critère que la Loi ne considère pas comme un facteur ouvrant droit à un remboursement. Le fait d’affirmer que la transformation d’un bungalow en une maison à deux étages peut modifier le caractère de l’ancienne résidence ne suffit pas. Le caractère d’une maison peut facilement être changé par une variété de rénovations. Le changement des lignes de toiture, l’élargissement et l’ajout de fenêtres ou la réfection de la finition extérieure d’une maison, passant, par exemple, du stuc à la brique et à la pierre, pourraient très bien modifier le caractère d’une maison. Toutefois, de telles modifications ne justifieraient pas la formulation d’une conclusion selon laquelle un nouvel immeuble d’habitation aurait vu le jour. De même, les modifications apportées à la superficie habitable peuvent modifier le caractère d’une maison en ce qui a trait à la manière dont elle fonctionne, mais, encore là, le changement de caractère peut ne pas suffire pour étayer la conclusion selon laquelle de telles modifications ont transformé une structure préexistante en un nouvel immeuble d’habitation.
+15 Soulignons que l’alinéa 256(2)a) ne fait aucune référence aux annexes. Il en a été conclu que les « annexes » en soi n’ouvraient pas droit à des remboursements. Soulignons également que la Cour d’appel fédérale a, dans l’affaire Syned, déclaré que les dispositions relatives au remboursement de la TPS pour habitations neuves constituaient une exception limitée et taillée sur mesure à l’application de la TPS à des services imposables pour ce qui est de la construction d’une maison et des rénovations faites à une maison. Comme les annexes ne sont pas mentionnées dans les dispositions relatives au remboursement et comme nous devons considérer ces dispositions comme des exceptions particulières à l’application de la TPS, je dois conclure qu’une annexe ne donnera pas droit à un remboursement, à moins qu’elle n’intègre (absorbe) un bâtiment préexistant à un tel point que l’annexe constitue essentiellement les nouveaux locaux d’habitation, et que le bâtiment préexistant, ayant cessé d’exister en tant que logement, soit essentiellement réduit à une dimension relativement mineure de ce nouveau bâtiment. Si les rénovations qui sont expressément visées par la Loi doivent être importantes au point que tout le bâtiment préexistant doit être presque refait afin d’ouvrir droit à un remboursement, les annexes, qui ne font l’objet d’aucune disposition expresse de la Loi, devraient sans doute (à supposer même qu’on en tienne compte) être encore plus importantes. Une annexe qui double la superficie par l’ajout de quelques chambres d’un côté ou de l’autre n’ouvrira pas droit à un remboursement par l’application de ces critères, même si le caractère de la résidence a été modifié au cours du processus.
+[Non souligné dans l’original; notes en fin de texte omises.]
+[14] M. Goulet avance qu’il a droit au remboursement pour habitation neuve pour deux raisons. Premièrement, il prétend que la maison existante a fait l’objet de rénovations majeures. Je ne suis pas d’accord. Le terme « rénovations majeures » est défini au paragraphe 123(1) de la Loi sur la taxe d’accise :
+« rénovations majeures » Fait l’objet de rénovations majeures le bâtiment qui est rénové ou transformé au point où la totalité, ou presque, du bâtiment qui existait immédiatement avant les travaux, exception faite des fondations, des murs extérieurs, des murs intérieurs de soutien, des planchers, du toit et des escaliers, a été enlevée ou remplacée, dans le cas où, après l’achèvement des travaux, le bâtiment constitue un immeuble d’habitation ou fait partie d’un tel immeuble.
+[15] Bien que de nombreux changements aient été apportés à la résidence existante, celle-ci n’a pas fait l’objet de rénovations majeures. Selon la définition, il faut essentiellement que la maison existante ait été refaite. Il est clair que la maison de M. Goulet ne l’a pas été. Bien que la destination de certaines pièces de la maison existante ait changé, aucune pièce n’a été enlevée ou remplacée. Le salon, la salle à manger et la salle de bains n’ont pas subi la moindre modification. Les changements apportés à la chambre principale n’ont pas mené à son enlèvement ou à son remplacement. La porte menant de la cuisine à ce qui, d’un garage, est devenu une grande pièce a été enlevée et remplacée, mais la cuisine elle-même ne l’a pas été. Les chambres à l’étage ont été modifiées, mais on ne pourrait affirmer qu’elles ont été enlevées ou remplacées. L’escalier menant au sous-sol a été changé, mais le sous-sol n’est toujours pas fini.
+[16] Le fondement du deuxième argument de M. Goulet n’était pas tout à fait clair. Il a invoqué les mêmes affaires que l’intimée, mais j’ignore s’il voulait faire valoir que l’agrandissement de sa maison respectait le critère établi dans la décision Erickson pour une adjonction ou s’il soutenait qu’il n’était pas nécessaire de respecter le critère de la décision Erickson parce qu’il avait effectué des rénovations majeures à la résidence existante et qu’en conséquence, l’adjonction constituait forcément l’un des aspects de ces rénovations. Il est impossible de donner raison à M. Goulet pour l’un ou l’autre moyen. Comme cela a été mentionné précédemment, la résidence existante n’a pas fait l’objet de rénovations majeures. De plus, il ne fait pas de doute que l’adjonction ne respectait pas le critère établi dans la décision Erickson. L’adjonction n’a pas intégré la maison préexistante de M. Goulet à un tel point qu’elle constitue essentiellement les nouveaux locaux d’habitation et que le bâtiment préexistant soit essentiellement réduit à une dimension relativement mineure du tout. Il est évident que la maison préexistante (qui continue de remplir certaines fonctions, étant donné qu’on y trouve la cuisine, deux des trois chambres à coucher et la seule salle de bains indépendante) joue encore un rôle de premier plan au sein de l’ensemble de l’habitation.
+[17] Compte tenu de tout ce qui précède, l’appel est rejeté.
+Signé à Winnipeg (Manitoba), ce 9e jour de juillet 2013.
+« David E. Graham »
+Juge Graham
+Traduction certifiée conforme
+ce 7e jour d’août 2013.
+M.-C. Gervais
+RÉFÉRENCE : 2013 CCI 225
+No DU DOSSIER DE LA COUR : 2012-2016(GST)I
+INTITULÉ : MARK GOULET c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : London (Ontario)
+DATE DE L’AUDIENCE : Le 20 juin 2013
+MOTIFS DU JUGEMENT : L’honorable juge David E. Graham
+DATE DU JUGEMENT : Le 9 juillet 2013
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Tamara Watters
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : s.o.
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada

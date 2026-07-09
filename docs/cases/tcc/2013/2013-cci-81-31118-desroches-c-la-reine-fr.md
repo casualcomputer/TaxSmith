@@ -1,0 +1,263 @@
+---
+title: "Desroches c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31118/index.do"
+last_modified: "2013-03-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 81"
+citation2: ""
+neutral_citation: "2013 CCI 81"
+decision_date: "2013-03-13"
+language: "fr"
+item_id: "31118"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4767
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:25:57.088000+00:00"
+cases_cited_count: 6
+cases_citing_count: 9
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b0ad27fd3c5c739fd65eb4134d476a5949b76678535e02439ac22bad511aeecf"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Desroches c. La Reine
+
+- Citation: 2013 CCI 81
+- Decision date: 2013-03-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4767, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Desroches c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-03-13
+Référence neutre
+2013 CCI 81
+Numéro de dossier
+2011-1370(IT)G
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-1370(IT)G
+ENTRE :
+BERNARD DESROCHES,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu les 29 et 30 août 2012, à New Carlisle (Québec)
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Avocat de l'intimée :
+Me Marie-France Dompierre
+____________________________________________________________________
+JUGEMENT
+L’appel à l’encontre des nouvelles cotisations établies en date du 29 juin 2009 en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2005 et 2006 est rejeté avec dépens conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 13e jour de mars 2013.
+« Réal Favreau »
+Juge Favreau
+Référence : 2013 CCI 81
+Date : 20130313
+Dossier : 2011-1370(IT)G
+ENTRE :
+BERNARD DESROCHES,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit d’un appel à l’encontre de nouvelles cotisations établies en date du 29 juin 2009 en vertu de la Loi de l’impôt sur le revenu, L.R.C. (1985) ch. 1 (5e Suppl.), telle que modifiée (ci-après la « Loi ») concernant les années d’imposition 2005 et 2006 de l’appelant.
+[2] Par les nouvelles cotisations datées du 29 juin 2009, le ministre du Revenu national (ci-après le « ministre ») a ajouté les montants suivants au revenu de l’appelant :
+2005
+2006
+Revenu net selon le contribuable
+9 535 $
+9 760 $
+Ajouter « revenu d’entreprise »
+175 500 $
+175 500 $
+Ajouter « autre revenu »
+9 535 $
+9 760 $
+Diminuer « revenu d’aide sociale »
+9 535 $
+9 760 $
+Diminuer « déductions cotisations
+RPC/RRQ pour travail indépendant
+ou autres revenus
+1 861 $
+1 910 $
+Diminuer « déductions cotisations
+RPAP pour revenu d’un travail
+Indépendant
+182 $
+Revenu net selon l’Agence du
+Revenu du Canada
+183 174 $
+183 168 $
+[3] Le ministre a également appliqué la pénalité prévue au paragraphe 163(2) de la Loi à l’égard des revenus non déclarés, soit 16 822,56 $ pour l’année 2005 et 16 713,40 $ pour l’année 2006.
+[4] En établissant les cotisations en litige, le ministre a tenu pour acquis les faits suivants énoncés au paragraphe 11 de la Réponse à l’avis d’appel :
+a) Les enquêteurs de l’escouade régionale d’enquête de la Sûreté du Québec de Pabos ont mené un projet intitulé « Palais ». (admis)
+b) Le groupe visé par la Sûreté du Québec comprenait plusieurs individus dont l’appelant. (admis)
+c) L’appelant a été identifié comme l’un des vendeurs importants de substances illégales du réseau. (nié)
+d) Le 30 mai 2007, la Sûreté du Québec a déposé des accusations contre l’appelant pour trafic de substance en vertu de l’article 5(1) de la Loi règlementant certaines drogues et autres substances. (nié car une seule accusation a été maintenue)
+e) L’appelant a plaidé coupable à ses (sic) accusations. (admis seulement à l’égard d’un (1) demi gramme de cocaïne vendu à un agent d’infiltration ce qui lui a valu une peine d’un jour de prison)
+f) L’appelant a pendant plusieurs années fait la vente de cocaïne dans la région de la Gaspésie. (nié pendant les années 2005 et 2006)
+g) L’appelant a transigé des quantités variant de 2 à 3 onces de cocaïne par semaine pendant les années d’imposition 2005 et 2006. (nié)
+h) Selon le rapport d’enquête obtenu par la vérificatrice du Ministère du revenu du Québec, un (1) once équivaut à 28 grammes. Le prix de vente minimal établi par l’appelant est de 2 240 $ l’once ou 80 $ le gramme et le prix d’achat est de 1 450 $ l’once ou 51 $ le gramme. (nié car ces valeurs ne sont pas exactes)
+i) Selon le rapport d’enquête obtenu par la vérificatrice du Ministère du revenu du Québec, avec une quantité de 28 grammes l’appelant pouvait fabriquer 35 grammes de cocaïne en procédant à une méthode de « coupe ». (nié)
+j) Le vérificateur de l’intimée a établi les revenus nets d’entreprise non déclarés en se basant sur les données recueillis par la vérificatrice du ministère du Revenu du (sic) Québec et le calcul suivant :
+1er janvier au
+2 décembre 2005
+1er janvier au
+2 décembre 2006
+Vente
+364 000 $
+364 000 $
+Achat
+188 500 $
+188 500 $
+Revenus nets
+d’entreprise
+175 500 $
+175 500 $
+[5] Afin de déterminer que l’appelant a fait une présentation erronée des faits par intention, négligence ou omission volontaire en produisant ses déclarations de revenu et pour cotiser l’appelant en dehors de la période normale de nouvelle cotisation et lui imposer la pénalité prévue au paragraphe 163(2) de la Loi pour les années d’imposition 2005 et 2006, le ministre s’est appuyé sur les faits suivants énoncés au paragraphe 12 de la Réponse à l’avis d’appel :
+a) Tous les faits allégués au paragraphe 11.
+b) Les revenus non déclarés de l’appelant sont importants en lien avec ses revenus déclarés.
+c) L’appelant ne pouvait ignorer ces montants.
+d) L’appelant avait été avisé par le Ministre du revenu du Québec des répercussions dans ses déclarations d’impôt, il était en mesure de savoir qu’il devait produire des déclarations de revenu appropriées et aurait pu entreprendre des démarches pour apporter les corrections nécessaires à ses déclarations pour les années d’imposition 2005 et 2006. (nié)
+e) L’appelant n’a entrepris aucune démarche afin de corriger ses déclarations de revenu pour les années en litige. (pas de corrections à apporter à ses déclarations de revenu)
+[6] L’appelant a témoigné à l’audience et il a contesté l’exactitude des hypothèses de fait énoncées par le ministre aux alinéas c), d), e), f), g), h), i) et j) du paragraphe 11 de la Réponse à l’avis d’appel.
+[7] L’appelant a nié l’alinéa c) et il a allégué ne pas avoir été accusé de trafic de stupéfiants pendant les années d’imposition visées par les cotisations en litige. Selon lui, la seule accusation pour laquelle il a plaidé coupable, contrairement à ce que suggère l’alinéa e), serait pour un événement survenu en 2007 pour la vente d’un (1) demi gramme de cocaïne à un agent d’infiltration. À cet égard, l’appelant a reçu en mars 2008 une sentence d’un (1) jour de prison et de trois (3) ans de probation après qu’il ait fait dix (10) mois de détention préventive jusqu’à son procès parce qu’il n’a pu payer sa caution de 1 000 $.
+[8] Concernant les alinéas f) et g), l’appelant a nié avoir été impliqué dans la vente de cocaïne en Gaspésie pendant les années 2005 et 2006 puisqu’il demeurait alors à Drummondville. Selon son témoignage, il aurait quitté Grande-Rivière le 15 août 2005 pour ne revenir en Gaspésie que vers le mois de septembre de 2006. Au soutien de son témoignage, l’appelant produit en liasse les pièces A-1 et A-4 comprenant de nombreux documents confirmant sa résidence dans la région de Drummondville entre le mois d’octobre 2005 et le mois d’août de 2006, soit des confirmations d’adresses pour l’aide sociale, des déclarations mensuelles pour la sécurité du revenu du Québec, ses déclarations de revenu fédérale et québécoise pour l’année 2005, un avis de cotisation de Revenu Québec pour l’année d’imposition 2005, une police d’assurance‑automobile du Québec accompagné d’un avis de prélèvement bancaire automatique, un certificat d’assurance, un certificat d’immatriculation, des relevés de cartes de crédit et des factures pour un téléphone cellulaire.
+[9] Concernant les alinéas h) et i), l’appelant a contesté la validité du prix de vente minimal de 2 240 $ l’once ou 80 $ du gramme de cocaïne et le prix d’achat payé par l’appelant de 1 450 $ l’once ou 51 $ du gramme. L’appelant a de plus nié qu’avec une quantité de 28 grammes, il pouvait fabriquer 35 grammes de cocaïne en procédant à une méthode de « coupe ». L’appelant a reconnu avoir essayé sans succès à une ou deux occasions seulement la méthode de « coupe » avec un (1) gramme ou un (1) demi gramme de cocaïne.
+[10] Pour établir le fait qu’il était un bon père de famille et le fait qu’il résidait dans la région de Drummondville en 2005 et 2006, l’appelant a appelé comme témoins sa conjointe actuelle, Diane Dufault, et ses deux filles, Stéphanie Cyr Dufault et Melody Cyr Dufault.
+[11] Diane Dufault a dit qu’elle avait rencontré l’appelant à Drummondville après que sa fille Melody ait fréquenté Sébastien, le fils de l’appelant. Elle a affirmé qu’elle a demeuré avec l’appelant à Drummondville et qu’elle ne l’a jamais vu consommer ou vendre des drogues en 2005 ou 2006 au bar Le Triangle d’Or à Paspébiac. Elle a fourni la même réponse à l’égard du fils de l’appelant. Lors de son déménagement en Gaspésie au mois de septembre 2006, elle a eu un accident d’automobile à St-Siméon. Elle s’est alors fracturée une vertèbre ce qui l’a empêchée d’occuper un emploi jusqu’au 14 octobre 2008.
+[12] Stéphanie Cyr Dufault a affirmé qu’elle vivait dans la ville de Québec depuis l’âge de 18 ans et, qu’au cours des années 2005 et 2006, elle venait visiter sa mère à Drummondville au moins une fois par mois. De plus, elle a affirmé n’avoir jamais vu l’appelant être en état d’ébriété ou en état de consommation de drogues.
+[13] Melody Cyr Dufault a affirmé, qu’en 2005 et 2006, elle demeurait chez sa mère dans la région de Drummondville alors qu’elle fréquentait Sébastien, le fils de l’appelant. Elle a déclaré qu’à cette époque, l’appelant était très présent dans sa vie et qu’elle le voyait très souvent. Elle a même affirmé qu’elle considérait l’appelant comme son père et qu’elle ne l’a jamais vu consommer, ni vendre des drogues. Elle a déménagé en Gaspésie en 2006 avec le fils de l’appelant. En attendant de se trouver un appartement, le couple est demeuré un mois chez Eric Maldemay, un des suspects visés par l’opération Palais, suite à des plaintes pour séquestration, voies de fait et menaces de mort. Au début de l’année 2007, une perquisition policière a eu lieu à son domicile laquelle s’est apparemment avérée être infructueuse. Elle s’est séparée de Sébastien en 2008.
+[14] Les hypothèses de fait retenues par le ministre sont essentiellement fondées sur les informations fournies par l'appelant lui-même à un agent d'infiltration de la Sûreté du Québec ayant trait aux activités de trafic de stupéfiants auxquelles il s'adonnait.
+[15] Le 31 mars 2007, l'appelant a dit à l'agent d'infiltration que cela faisait au moins deux (2) ans qu'il achetait sa cocaïne auprès du même fournisseur, Eric Maldemay. Il a aussi décrit les quantités de cocaïne qu'il trafiquait ainsi que le prix de ses achats de cocaïne et le prix auquel la cocaïne était vendue à ses clients.
+[16] L'agent d'infiltration a témoigné à l'audience sous le code d'identification SQ A1002 et il a déposé en liasse sous les cotes I-1 et I-2 les notes qu'il a prises suite aux communications et rencontres qu'il a eues avec l'appelant, les membres de sa famille et avec Eric Maldemay de janvier à avril 2007.
+[17] Il y a lieu de reproduire ici certains extraits des notes de l'agent d'infiltration relatant la tenue d'une rencontre ayant eu lieu le 31 mars 2007 au restaurant Le Rendez-Vous à Bonaventure :
+Je lui ai demandé s'il accepterait de prendre sa cocaïne de moi. […] Il m'a dit qu'il la prenait déjà de Eric Maldemay depuis plusieurs années. Je lui ai demandé combien il la payait. Il m'a dit qu'Eric lui faisait à 1 450$ l'onze (sic). Je lui ait (sic) dit que je pouvais lui avoir moins chère (sic) que ça. Je lui ai demandé combien il en passait par semaine. Il m'a dit qu'il en passait plus de 2 par semaine, presque 3 onces par semaine s'il faisait une moyenne de l'année. Il m'a dit que ça faisait au moins 2 ans, qu'il avait toujours pris sa cocaïne d'Éric […] Il ne paye pas la cocaïne sur réception de son once. Il reçoit son once, la coupe un peu, la prépare pour la vente. Une fois qu'il a vendu pour 1 450 $ de cocaïne, il va payer Éric, et le reste de la cocaïne vendue devient un profit clair. Il m'a dit qu'il vendait 40$ le ½ gramme ou 80$ le gramme. 1 once coupée lui donne environ 35 grammes + ou -. Il dit que l'été il y a énormément de clients au bar et que c'est une grosse saison pour lui.
+[Pièce I-1, pages 34 et 35]
+[18] Lors de son témoignage, l'agent d'infiltration a relaté plusieurs faits ayant trait aux activités de l'appelant et des membres de sa famille. Parmi les faits les plus importants, il y a lieu de mentionner les suivants :
+a) la conjointe de l'appelant l’accompagnait souvent au bar Le Triangle D'Or où il vendait la cocaïne. C'est d'ailleurs elle qui transportait la drogue dans son sac à main. Voici comment l'agent d'infiltration a décrit dans ses notes l'achat d'un (1) demi gramme de cocaïne auprès de l'appelant le 25 avril 2007 :
+J'ai demandé au sujet s'il avait ses affaires avec lui. Il m'a répondu qu'il en avait […]. J'ai dit au sujet de me suivre aux toilettes. Le sujet s'est immédiatement tourné vers sa conjointe et lui a montré le chiffre 1 en utilisant son index. Diane a alors fouillé dans son sac à main. Le sujet Desroches attendait tout près de Diane. Pendant ce temps, je me suis rendu à la salle de toilette pour hommes. Environ 1 minute plus tard, le sujet Desroches est entré dans la salle de toilette, il a fermé la porte et a fait face au lavabo. Je lui ai remis 2 billets de $20. Le sujet a sorti un sachet de la poche poitrine gauche de sa chemise […]. Il m'a remit (sic) le sachet que j'ai placé dans la poche arrière gauche de mon pantalon jeans bleu.
+[Pièce I-2, pages 41, 42 et 43]
+b) lorsque l'appelant ne pouvait être au bar pour vendre ses stupéfiants, c'était son fils, Sébastien qui le remplaçait;
+c) la conjointe de l'appelant et sa fille Melody ont effectué un voyage à Montréal pour prendre livraison de 2 paquets (2 kilos de stupéfiants);
+d) l'appelant faisait la collecte pour Éric Maldemay et l'appelant disait que c'était ce qu'il aimait le plus faire dans tout ce qu'il faisait;
+e) l'appelant a indiqué à l'agent d'infiltration qu'il était important de se faire un alibi pour que les gens puissent confirmer qu'ils étaient présents à cet endroit dans l'après-midi (pièce I-2, pages 36 et 37).
+[19] Selon l'agent d'infiltration, l'appelant lui a toujours dit la vérité et tout ce qu'il lui a dit entre les mois de janvier à avril 2007 était vérifiable. Selon lui, l'appelant vendait à l'été 2006 des stupéfiants au bar Le Triangle D'Or. L'appelant était un gros vendeur de drogues de la région.
+Analyse
+[20] En vertu du paragraphe 152(8) de la Loi, les cotisations et nouvelles cotisations établies par le ministre sont réputées être valides et exécutoires malgré toute erreur, tout vice de forme ou toute omission dans ces cotisations ou nouvelles cotisations ou dans toute procédure s'y rattachant. Le paragraphe 152(8) de la Loi se lit comme suit:
+152(8) Sous réserve des modifications qui peuvent y être apportées ou de son annulation lors d'une opposition ou d'un appel fait en vertu de la présente partie et sous réserve d'une nouvelle cotisation, une cotisation est réputée être valide et exécutoire malgré toute erreur, tout vice de forme ou toute omission dans cette cotisation ou dans toute procédure s'y rattachant en vertu de la présente loi.
+[21] Un contribuable qui loge un appel à cette Cour à l'encontre d'une cotisation ou d'une nouvelle cotisation établie avant l'expiration de la période normale de nouvelle cotisation applicable au contribuable a le fardeau de démontrer par une preuve prima facie que les présomptions de fait sur lesquelles le ministre s'est basé pour établir sa cotisation ou sa nouvelle cotisation sont erronées. Dans l'arrêt Amiante Spec Inc. c. Canada, 2009 CAF 139, [2009] A.C.F. no 603 (QL), la Cour d'appel fédérale a expliqué qu'une preuve prima facie est :
+[23] … celle qui est « étayée par des éléments de preuve qui créent un tel degré de probabilité en sa faveur que la Cour doit l'accepter si elle y ajoute foi, à moins qu'elle ne soit contredite ou que le contraire ne soit prouvé. Une preuve prima facie n'est pas la même chose qu'une preuve concluante, qui exclut la possibilité que toute conclusion autre que celle établie par cette preuve soit vraie » (Stewart c. Canada, [2000] T.C.J. No. 53 au paragraphe 23).
+[22] Lorsqu'un contribuable réussit à « démolir » les présomptions de fait sur lesquelles le ministre s'est fondé pour établir sa cotisation ou sa nouvelle cotisation, le fardeau de la preuve est renversé et il incombe alors au ministre de réfuter la preuve prima facie faite par l'appelant et de prouver ses présomptions. La juge L'Heureux-Dubé de la Cour suprême du Canada a exprimé ce principe de la façon suivante dans l'arrêt Hickman Motors Ltd. c. Canada, [1997] 2 R.C.S. 336, à la page 379:
+Lorsque l'appelant a « démoli » les présomptions du ministre, le « fardeau de la preuve […] passe […] au ministre qui doit réfuter la preuve prima facie » faite par l'appelant et prouver les présomptions […].
+[23] Lorsqu'une cotisation ou nouvelle cotisation est établie après l'expiration de la période normale de nouvelle cotisation applicable au contribuable pour l'année, il incombe alors au ministre d'établir que le contribuable ou la personne produisant la déclaration soit, a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement sous le régime de la présente Loi.
+[24] Les nouvelles cotisations visées par le présent appel ont été établies en vertu du paragraphe 152(4) de la Loi dont la partie pertinente aux fins du présent litige est la suivante :
+(4) Le ministre peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire concernant l'impôt pour une année d'imposition, ainsi que les intérêts ou les pénalités, qui sont payables par un contribuable en vertu de la présente partie ou donner avis par écrit qu'aucun impôt n'est payable pour l'année à toute personne qui a produit une déclaration de revenu pour une année d'imposition. Pareille cotisation ne peut être établie après l'expiration de la période normale de nouvelle cotisation applicable au contribuable pour l'année que dans les cas suivants :
+a) le contribuable ou la personne produisant la déclaration :
+(i) soit a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement sous le régime de la présente loi,
+[25] Dans le cas d'un contribuable qui est un particulier, la période normale de nouvelle cotisation est de trois ans suivant la date d'envoi d'un avis de première cotisation en vertu de la partie I de la Loi. Le paragraphe 152(3.1) de la Loi édicte ce qui suit :
+Pour l'application des paragraphes (4), (4.01), (4.2), (4.3), (5) et (9), la période normale de nouvelle cotisation applicable à un contribuable pour une année d'imposition s'étend sur les périodes suivantes :
+a) quatre ans suivant soit la date d’envoi d’un avis de première cotisation en vertu de la présente partie le concernant pour l'année, soit, si elle est antérieure, la date d'envoi d'une première notification portant qu'aucun impôt n'est payable par lui pour l'année, si, à la fin de l'année, le contribuable est une fiducie de fonds commun de placement ou une société privée sous contrôle canadien;
+b) trois ans suivant celle de ces dates qui est antérieure à l'autre, dans les autres cas.
+[26] En vertu des nouvelles cotisations établies en date du 29 juin 2009, le ministre a appliqué la pénalité prévue au paragraphe 163(2) de la Loi, dont la partie précédant l'alinéa a) se lit comme suit :
+Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d'imposition pour l'application de la présente loi, ou y participe, y consent ou y acquiesce est passible d'une pénalité égale, sans être inférieure à 100 $, à 50% du total des montants suivants :
+[…]
+[27] Le paragraphe 163(3) de la Loi impose au ministre le fardeau de prouver les circonstances justifiant l'imposition d'une pénalité pour toute faute lourde. Le paragraphe 163(3) de la Loi se lit comme suit :
+Dans tout appel interjeté, en vertu de la présente loi, au sujet d'une pénalité imposée par le ministre en vertu du présent article ou de l'article 163.2, le ministre a la charge d'établir les faits qui justifient l'imposition de la pénalité.
+[28] Dans l'arrêt Venne c. Canada, [1984] A.C.F. no 314 (C.F. 1re inst.), le juge Strayer a précisé ce que l'on doit entendre par l'expression « faute lourde » :
+[…] La faute « lourde » doit être interprétée comme un cas de négligence plus grave qu'un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la Loi. […]
+[29] L'appelant a « démoli » les présomptions retenues par le ministre à l'effet qu'il était impliqué dans la vente de cocaïne dans la région de la Gaspésie pendant la période visée par les nouvelles cotisations du 29 juin 2009 en présentant une preuve testimoniale et documentaire à l'effet qu'il résidait à compter du 15 août 2005 à Drummondville, soit pendant une partie de la période visée par les nouvelles cotisations. Par contre, le ministre a réfuté la preuve de l'appelant par le témoignage de l'agent d'infiltration qui a rapporté des aveux faits par l'appelant. Dans les circonstances, il y a lieu de considérer si l'aveu extrajudiciaire de l'appelant est admissible en preuve.
+L’aveu extrajudiciaire est-il admissible en preuve?
+[30] En matière criminelle, des déclarations inculpatoires faites à un agent double lorsque l’accusé croit que l’agent est un criminel sont admissibles en preuve (R. c. Grandinetti, 2005 CSC 5)
+[31] En matière civile, les auteurs Jean-Claude Royer et Sophie Lavallée mentionnent au paragraphe 793 de l’ouvrage intitulé « La preuve civile, » 4e ed., Cowansville, Éditions Yvon Blais, 2008, (ci-après « La preuve civile ») « [qu’il] est imprudent [pour un tribunal] de refuser une déclaration extrajudiciaire émanant d’une partie au litige et offerte en preuve pour la partie adverse. »
+[32] La Loi sur la Cour canadienne de l’impôt et les Règles de la Cour canadienne de l’impôt (procédure générale) ne traitent pas de la question de l’aveu. Par conséquent, il faut s’en remettre à l’article 40 de la Loi sur la preuve au Canada qui édicte ce qui suit :
+40 Dans toutes les procédures qui relèvent de l’autorité législative du Parlement du Canada, les lois sur la preuve qui sont en vigueur dans la province où ces procédures sont exercées, y compris les lois relatives à la preuve de la signification d’un mandat, d’une sommation, d’une assignation ou d’une autre pièce, s’appliquent à ces procédures, sauf la présente loi et les autres lois fédérales.
+[33] Comme l’appel de Monsieur Desroches a été logé dans la province de Québec, l’article 40 de la Loi sur la preuve au Canada fait en sorte que les règles de preuve applicables sont celles prévues au Code civil du Québec (« C.c.Q. »).
+[34] L’aveu est défini à l’article 2850 du C.c.Q comme étant « la reconnaissance d’un fait de nature à produire des conséquences juridiques contre son auteur ».
+[35] Une distinction existe entre l’aveu judiciaire et l’aveu extrajudiciaire. Un aveu judiciaire est celui qui est fait dans l’instance même où il sert de moyen de preuve alors qu’un aveu extrajudiciaire est celui qui est fait en dehors de ladite instance (voir le paragraphe 643 de l’ouvrage de Léo Ducharme intitulé « Précis de la preuve, » 6e éd., Montréal, Wilson & Lafleur Ltée, 2005 (ci-après le « Précis de la preuve »). Pour être admissible en preuve, l’aveu extrajudiciaire doit être prouvé (voir La preuve civile, supra, paragraphe 862).
+[36] Les propos tenus par l’appelant lors de ses rencontres avec l’agent d’infiltration constituent indéniablement un aveu extrajudiciaire au sens du C.c.Q. L’appelant a clairement indiqué qu’il achetait de la cocaïne auprès du même fournisseur depuis au moins deux (2) ans et il a décrit les quantités de drogue qu’il trafiquait ainsi que son coût d’achat et son prix de vente. De telles déclarations peuvent entraîner des conséquences juridiques importantes, telles que des accusations criminelles ou comme c’est le cas en l’espèce, des cotisations fiscales.
+[37] Selon l’article 2867 du C.c.Q., l’aveu extrajudiciaire « se prouve par les moyens recevables pour prouver le fait qui en est l’objet ». Ainsi « une déclaration extrajudiciaire verbale doit être prouvée par le témoignage de l’auteur de la déclaration ou par une personne qui en a eu personnellement connaissance (voir La preuve civile, supra, paragraphe 770).
+[38] Lors de l’audience, la déclaration extrajudiciaire verbale de l’appelant a été prouvée par le témoignage de l’agent d’infiltration à qui l’appelant a fourni des informations quant à ses activités de trafic de drogues. Par conséquent, le témoignage de l’agent d’infiltration est admissible en preuve parce qu’il a fait une déclaration sur des faits dont il a eu personnellement connaissance.
+[39] En droit civil québécois, l’aveu extrajudiciaire doit avoir été allégué dans les actes de procédure, soit lors de la requête introductive d’instance ou de la défense (voir La preuve civile, supra, paragraphe 862). Dans la présente instance, l’aveu extrajudiciaire n’a pas été allégué dans les actes de procédure mais comme l’article 40 de la Loi sur la preuve au Canada vise à rendre les règles de preuve en droit civil québécois le droit supplétif devant cette Cour et non le droit de la procédure, cette Cour n’est pas liée par cette exigence puisqu’elle est purement de nature procédurale. Dans l’arrêt Commission scolaire de Victoriaville c. La Reine, 2002 CanLII 61082 (CCI), le juge Archambault a conclu essentiellement dans le même sens :
+[48] [. . .] Lorsqu’un appel devant cette Cour est interjeté au Québec, ce sont les règles de preuve du Québec qui doivent être appliquées avec la rigueur habituelle des cours de justice du Québec.
+[49] Il faut par contre donner la primauté aux règles de preuve contenues dans la LPC, dans les Règles et, le cas échéant, dans les autres règles adoptées en vertu de la LCCI. Dans ces cas, ce sont les principes de common law qui devraient constituer le droit supplétif. Si on tient compte des règles sur l’administration de la preuve énoncées dans la LPC et du paragraphe 4(2) des Règles, qui dit qu’en cas de silence des Règles, la pratique applicable doit être déterminée par la Cour sur requête, les dispositions du Code de procédure civile ne seront pas généralement applicables ou seront rarement applicables devant cette Cour.
+[40] Dans l’arrêt Vincent c. La Reine, 2005 CCI 330, le juge Archambault a de nouveau considéré le droit de la preuve québécois applicable à un aveu extrajudiciaire et, nulle part dans sa décision, il n’a été question de l’obligation d’alléguer l’aveu extrajudiciaire dans les actes de procédure. Notons toutefois, que dans ce cas, l’aveu avait été expressément allégué par le ministre dans ses présomptions énoncées dans la Réponse à l’avis d’appel.
+[41] L’article 2852 du C. c. Q. édicte les règles quant à la force probante d’un aveu en ces termes :
+Art. 2852. L’aveu fait par une partie au litige, ou par un mandataire autorisé à cette fin, fait preuve contre elle, s’il est fait au cours de l’instance où il est invoqué. Il ne peut être révoqué, à moins qu’on ne prouve qu’il a été la suite d’une erreur de fait.
+La force probante de tout autre aveu est laissée à l’appréciation du tribunal.
+[42] Même si, selon l’article 2852 du C.c.Q., la force probante d’un aveu extrajudiciaire est laissée à l’appréciation du tribunal, la doctrine enseigne qu’il y a une présomption de vérité qui s’attache à toute déclaration extrajudiciaire par laquelle une personne reconnaît un fait contraire à ses intérêts et qu’un tribunal ne peut écarter un aveu extrajudiciaire sans raison valable. Le professeur Léo Ducharme dans son « Précis de la preuve » supra, paragraphes 755 à 757, a formulé les commentaires suivants à ce sujet :
+[…] L’article 2852 C.c.Q. établit en effet une distinction très nette entre la force probante de l’aveu judiciaire et celle de l’aveu extrajudiciaire. […]
+[…] un tribunal ne peut écarter l’aveu extrajudiciaire d’une partie sans raison valable, vu la présomption de vérité qui s’attache à toute déclaration par laquelle une personne reconnaît un fait contraire à ses intérêts. Il est normal que, dans ces conditions, une partie soit liée par l’aveu qu’elle a fait, à moins qu’elle ne démontre pourquoi le tribunal ne devrait pas y ajouter foi.
+[43] Dans « La preuve civile » supra, les auteurs ont formulés les commentaires suivants concernant la validité de l’aveu au paragraphe 874 :
+En matière civile, l’aveu est présumé libre et volontaire. Celui qui attaque sa validité doit établir une cause de nullité par une preuve prépondérante. Aussi, les tribunaux civils acceptent des aveux qui ne peuvent être utilisés en droit criminel. L’admission doit toutefois être faite librement. Un aveu doit constituer une authentique reconnaissance d’un fait et non simplement un moyen d’acheter la paix, d’éviter une publicité défavorable ou d’autres inconvénients.
+[44] L’aveu extrajudiciaire faite par l’appelant est probante aux fins du présent litige et doit être admis en preuve compte tenu (a) du contexte dans lequel il a été fait, (b) de la preuve mise de l’avant par l’appelant qui n’a pas démontré pourquoi la Cour ne devait pas « ajouter foi » au témoignage de l’agent d’infiltration et (c) du fait que les témoignages de l’appelant, de sa conjointe et des deux filles de sa conjointe n’étaient pas crédibles à plusieurs égards.
+Crédibilité des témoignages des témoins de l’appelant
+[45] Je ne doute pas que l’appelant ait séjourné à Drummondville entre le mois d’octobre 2005 et le mois d’août 2006. La preuve documentaire produite par l’appelant est suffisante pour établir ce fait. Par contre, l’appelant n’a pas clairement exprimé les raisons de son séjour à Drummondville, ni expliqué s’il avait établie sa résidence permanente à Drummondville. De plus, il n’a pas fourni d’explications concernant les raisons pour lesquelles il est retourné vivre en Gaspésie moins d’une année après son déménagement à Drummondville. La date exacte du retour de l’appelant en Gaspésie en 2006 n’a pas été précisée. Il en est de même pour la date exacte du retour en Gaspésie du fils de l’appelant qui vendait des stupéfiants au bar Le Triangle d’Or lorsque son père ne pouvait y être. (voir les notes de l’agent d’infiltration produites comme Pièce I-2).
+[46] Le témoignage de l’appelant est à tout autre égard totalement non crédible. Ses déclarations à l’effet qu’il n’a jamais consommé de drogues ni bu d’alcool ont été contredites par l’agent d’infiltration qui a dit avoir vu de la marijuana sur la table de la cuisine à la résidence de l’appelant et à qui l’appelant a déclaré qu’il avait pris une « cuite» la veille d’une rencontre avec ce dernier. La déclaration de l’appelant à l’effet qu’il n’a jamais fréquenté le monde illicite est également fausse car ce dernier a reconnu devant l’agent d’infiltration qu’il faisait la « collecte » pour son fournisseur, Éric Maldemay, et qu’un client lui devait 5 000 $ pour une dette de drogues (voir les notes de l’agent d’infiltration produites comme Pièce I-1)
+[47] Le témoignage de la conjointe de l’appelant n’est absolument pas crédible. Elle a en effet affirmé que son conjoint ne buvait pas d’alcool et qu’elle ne l’avait jamais vu en possession de cocaïne alors qu’en réalité, selon les notes de l’agent d’infiltration elle l’accompagnait souvent son conjoint au bar Le Triangle d’Or et transportait la drogue dans son sac à main. Elle remettait à son conjoint les sachets de drogue pour que ce dernier puisse effectuer les transactions avec ses clients dans les toilettes du bar. C’est d’ailleurs de cette façon que s’est déroulé la transaction par laquelle l’agent d’infiltration a acheté de l’appelant un (1) demi gramme de cocaïne le 25 avril 2007.
+[48] Le témoignage de Stéphanie Dufault ne peut être retenu car elle a elle-même été condamnée au mois de février 2007 à onze (11) mois de prison pour trafic de cocaïne et de marijuana et pour possession de marijuana pour des infractions commises en 2005.
+[49] Le témoignage de Melody Dufault ne peut non plus être retenu car elle savait très bien que son conjoint, le fils de l’appelant, faisait le trafic de cocaïne. Lorsque le couple a déménagé en Gaspésie, ils ont été hébergés par Éric Maldemay en attendant de se trouver un appartement. De plus, elle a été vue par l’agent d’infiltration au bar Le Triangle d’Or en compagnie de son conjoint.
+L’appelant a même déclaré à l’agent d'infiltration que sa conjointe et sa fille avaient effectué un voyage à Montréal pour ramener deux (2) paquets (kilos) de stupéfiants. Le domicile de Melody Dufault a d'ailleurs fait l'objet d'une perquisition policière au début de l'année 2007.
+La vente de la cocaïne est une activité commerciale
+[50] Il est bien établi en jurisprudence québécoise et canadienne qu'un contribuable est assujetti à l'impôt quelque soit la source de son revenu, y compris son revenu de sources illégales (voir à ce sujet les arrêts Armeni c. Agence du Revenu du Québec, 2012 QCCQ 11807; Robitaille c. Québec (Sous-ministre du Revenu), 2010 QCCQ 9283; Ouellette c. la Reine, 2010 G.S.T.C. 111 (Cour canadienne de l'impôt); Everton Brown c. La Reine, 2012 CCI 251.
+[51] Il est également bien établi en droit fiscal canadien, que le ministre peut utiliser des méthodes de rechange pour déterminer le revenu d'un contribuable lorsque celui-ci ne produit pas de déclarations de revenu ou ne tient pas de livres et de registres comptables fiables qui peuvent être examinés lors d'une vérification effectuée par l'Agence du Revenu du Canada.
+[52] Il appert de la jurisprudence que la détermination de la valeur de la cocaïne par des méthodes alternatives de vérification est une question de fait qui dépend notamment du degré de pureté de la cocaïne lors de l'achat, du degré de pureté de la cocaïne lors de la vente, du prix d'achat et de revente de la cocaïne, du pourcentage de profit soutiré par le contribuable en tenant compte notamment du niveau où est situé le contribuable dans l'organigramme de l'organisation. Pour déterminer la valeur de la cocaïne, les autorités fiscales ont recours à des rapports d'expertises, à des témoins experts, à des ententes partielles sur les faits et à des admissions faites par le contribuable. C'est d'ailleurs cette dernière méthode qui a été retenue par le ministre dans le dossier de l'appelant.
+[53] Dans l'arrêt Robitaille, précité, la Cour du Québec a retenu, qu'en 2004, le prix d'achat d'un kilogramme de cocaïne était de 38 000 $ alors que le prix de vente était d'au moins 1 750 $ l'once.
+[54] En l'espèce, le prix d'achat et le prix de vente, tels qu'établis par l'appelant, sont de 1 450 $ l'onze à l'achat et de 2 240 $ l'once à la vente. Ces données m'apparaissent être raisonnables par rapport aux valeurs utilisées dans l'arrêt Robitaille précité. La « coupe » à 25% de la cocaïne lors de la mise en sachets semble être une pratique courante dans le trafic de stupéfiants.
+Cotisation en dehors de la période normale de nouvelle cotisation et pénalités
+[55] Le fait pour l'appelant de ne pas avoir déclaré son revenu et ses dépenses provenant de ses activités de vente de cocaïne constitue un degré important de négligence correspondant à une action délibérée de sa part et à une indifférence au respect de la Loi. Par conséquent, l'appelant a fait une présentation erronée des faits par négligence justifiant la nouvelle cotisation du ministre en dehors de la période normale de nouvelle cotisation à l'égard de l'année d'imposition 2005 et l'appelant a commis une faute lourde lors de la présentation de ses déclarations de revenu pour les années d'imposition 2005 et 2006, justifiant ainsi l'application de la pénalité prévue au paragraphe 163(2) de la Loi.
+[56] Pour ces raisons, l’appel de l'appelant à l'encontre des nouvelles cotisations établies à l'égard des années d'imposition en litige est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 13e jour de mars 2013.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE : 2013 CCI 81
+Nº DU DOSSIER DE LA COUR : 2011-1370(IT)G
+INTITULÉ DE LA CAUSE : BERNARD DESROCHES ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : New Carlisle (Québec)
+DATE DE L’AUDIENCE : les 29 et 30 août 2012
+MOTIFS DU JUGEMENT PAR : L'honorable juge Réal Favreau
+DATE DU JUGEMENT : le 13 mars 2013
+COMPARUTIONS :
+Pour l'appelant :
+l'appelant lui-même
+Avocat de l'intimée :
+Me Marie-France Dompierre
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

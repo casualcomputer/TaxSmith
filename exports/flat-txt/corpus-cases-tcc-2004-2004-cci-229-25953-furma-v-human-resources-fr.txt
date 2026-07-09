@@ -1,0 +1,156 @@
+Title: Furma v. Human Resources
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25953/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-229-25953-furma-v-human-resources-fr.md
+Document type: case_law
+Last modified: 2004-03-19
+
+# Furma v. Human Resources
+
+- Citation: 2004 CCI 229
+- Decision date: 2004-03-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3720, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Furma v. Human Resources
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-03-19
+Référence neutre
+2004 CCI 229
+Numéro de dossier
+2002-4497(OAS)
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi sur la sécurité de la vieillesse
+Contenu de la décision
+AFFAIRE intéressant un renvoi effectué en vertu du paragraphe 28(2) de la loi sur la sécurité de la vieillesse, l.r.c. 1985, ch. O-9, dans sa forme modifiée
+Dossier : 2002-4497(OAS)
+ENTRE :
+BALJINDER FURMA,
+appelant,
+et
+LE MINISTRE DU DÉVELOPPEMENT
+DES RESSOURCES HUMAINES CANADA,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Renvoi entendu sur preuve commune avec le renvoi de Mukhtiar Furma (2002-4498(OAS)) à Toronto (Ontario), le 15 décembre 2003.
+Devant : L'honorable E.A. Bowie, juge
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimé :
+Me John Grant
+____________________________________________________________________
+DÉCISION
+ATTENDU qu'une question portant sur l'application de l'article 126.01 de la Loi de l'impôt sur le revenu au revenu de Baljinder Furma pour l'année d'imposition 2000 a été renvoyée à la présente cour par un tribunal constitué pour rendre une décision en vertu du Régime de pensions du Canada et en matière de sécurité de la vieillesse;
+Après avoir entendu la preuve de Baljinder Furma et après avoir lu les pièces qui ont été produites;
+Après avoir entendu l'appelant et l'avocat de l'intimé;
+LA COUR STATUE que Baljinder Furma était tenu, en vertu des dispositions du paragraphe 126.01(4) de la Loi de l'impôt sur le revenu, d'inclure un montant de 855 $ dans son revenu pour l'année d'imposition 2000; le commissaire des tribunaux de révision sera informé de cette décision.
+Signé à Ottawa, Canada, ce 19e jour de mars 2004.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 1er jour d'avril 2005.
+Jacques Deschênes, traducteur
+AFFAIRE intéressant un renvoi effectué en vertu du paragraphe 28(2) de la loi sur la sécurité de la vieillesse, l.r.c. 1985, ch. O-9, dans sa forme modifiée
+Dossier : 2002-4498(OAS)
+ENTRE :
+MUKHTIAR FURMA,
+appelante,
+et
+LE MINISTRE DU DÉVELOPPEMENT
+DES RESSOURCES HUMAINES CANADA,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Renvoi entendu sur preuve commune avec le renvoi de Baljinder Furma (2002-4497(OAS)) à Toronto (Ontario), le 15 décembre 2003.
+Devant : L'honorable E.A. Bowie, juge
+Comparutions :
+Représentant de l'appelante :
+M. Baljinder Furma
+Avocat de l'intimé :
+Me John Grant
+____________________________________________________________________
+DÉCISION
+ATTENDU qu'une question portant sur l'application de l'article 126.01 de la Loi de l'impôt sur le revenu au revenu de Mukhtiar Furma pour l'année d'imposition 2000 a été renvoyée à la présente cour par un tribunal constitué pour rendre une décision en vertu du Régime de pensions du Canada et en matière de sécurité de la vieillesse;
+Après avoir entendu la preuve de Baljinder Furma et après avoir lu les pièces qui ont été produites;
+Après avoir entendu le représentant de l'appelante et l'avocat de l'intimé;
+LA COUR STATUE que Mukhtiar Furma était tenue, en vertu des dispositions du paragraphe 126.01(4) de la Loi de l'impôt sur le revenu, d'inclure un montant de 1 200 $ dans son revenu pour l'année d'imposition 2000; le commissaire des tribunaux de révision sera informé de cette décision.
+Signé à Ottawa, Canada, ce 19e jour de mars 2004.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 1er jour d'avril 2005.
+Jacques Deschênes, traducteur
+AFFAIRE intéressant un renvoi effectué en vertu du paragraphe 28(2) de la loi sur la sécurité de la vieillesse, l.r.c. 1985, ch. O-9, dans sa forme modifiée
+Référence : 2004CCI229
+Date : 20040319
+Dossier : 2002-4497(OAS)
+ENTRE :
+BALJINDER FURMA,
+appelant,
+et
+LE MINISTRE DU DÉVELOPPEMENT
+DES RESSOURCES HUMAINES CANADA,
+intimé;
+Dossier : 2002-4498(OAS)
+ET ENTRE :
+MUKHTIAR FURMA,
+appelante,
+et
+LE MINISTRE DU DÉVELOPPEMENT
+DES RESSOURCES HUMAINES CANADA,
+intimé.
+[TRADUCTION FRANCAISE OFFICIELLE]
+MOTIFS DE LA DÉCISION
+Le juge Bowie
+[1] La Cour a été saisie de cette affaire au moyen d'un renvoi effectué en vertu du paragraphe 28(2) de la Loi sur la sécurité de la vieillesse[1] (la « LSV » ). Cette disposition prévoit que lorsqu'est soulevée devant un tribunal de révision une question relative au revenu de l'auteur d'une demande, en ce qui concerne les prestations, cette question est renvoyée à la présente cour. C'est ce qui est arrivé en l'espèce. Les appelants, qui sont mariés l'un à l'autre, ont demandé le supplément de revenu garanti en vertu de la LSV. Le ministre a refusé les demandes pour le motif que les revenus combinés des appelants pour l'année 2000 excédaient le montant déterminant au-delà duquel aucun supplément n'est payable. Il est reconnu que le revenu des appelants excédait le montant déterminant uniquement parce que certains montants retirés de leurs régimes enregistrés d'épargne-retraite (les « REER » ) avaient été inclus. Les appelants affirment que les sommes retirées n'auraient pas dû être incluses dans le calcul de leurs revenus. Les appelants, s'ils ont raison, ont droit aux suppléments qu'ils ont demandés. Leurs appels ont été entendus sur preuve commune; M. Furma agissait à titre de représentant de sa femme.
+[2] Le litige a pris naissance dans les circonstances ci-après énoncées. Les appelants ont acheté une maison en 1998. Pour ce faire, ils ont tous deux retiré certains montants de leurs REER en vertu des dispositions du régime d'accession à la propriété qui figurent à l'article 146.01 de la Loi de l'impôt sur le revenu (la « LIR » ). Cette disposition permet au contribuable de retirer un montant d'un REER afin d'acheter une maison. À condition d'être effectué conformément aux règles fort complexes énoncées dans cette disposition, le retrait peut être accompli sans conséquences fiscales défavorables. L'une de ces règles est que le montant retiré doit être remboursé au moyen de 15 versements annuels égaux, à compter de la deuxième année qui suit l'année dans laquelle le retrait a été effectué[2]. Si cette condition est respectée, le montant retiré ne devient pas un revenu entre les mains du contribuable. C'est ce qui est prévu au paragraphe 146.01(3) de la LIR. Le paragraphe 146.01(4) prévoit que, dans la mesure où le montant retiré n'est pas remboursé selon ce calendrier, il est inclus dans le revenu.
+[3] M. Furma a soutenu que sa femme et lui ne devraient pas être imposés à l'égard des montants qu'ils n'ont pas remboursés en l'an 2000 parce qu'à ce moment-là, ils avaient plus de 70 ans et que leurs REER étaient arrivés à échéance, comme l'exige l'alinéa 146(2)b.4) de la LIR. Malheureusement, je ne puis souscrire à cet argument. Le régime d'accession à la propriété crée des problèmes spéciaux pour les contribuables qui effectuent un retrait afin d'acheter une maison lorsqu'ils ont plus de 55 ans; ces problèmes sont exacerbés au fur et à mesure que le contribuable avance en âge parce que celui-ci dispose d'un moins grand nombre d'années pour procéder au remboursement avant que le REER n'arrive à échéance et qu'il devient impossible de rembourser la somme.
+[4] La conséquence de l'omission de rembourser un montant retiré dans le cadre du régime d'accession à la propriété est énoncée au paragraphe 146.01(4) de la LIR :
+4) Est inclus dans le calcul du revenu d'un particulier pour une année d'imposition donnée comprise dans sa période de participation le montant obtenu par la formule suivante :
+(A - B - C) / (15 - D) - E où :
+où :
+A représente :
+a) zéro, si, selon le cas :
+(i) le particulier est décédé ou a cessé de résider au Canada au cours de l'année donnée,
+(ii) la date de clôture relative à un montant admissible reçu par le particulier tombe dans l'année donnée,
+b) le total des montants admissibles que le particulier a reçus au cours des années d'imposition antérieures comprises dans la période, dans les autres cas;
+B a) zéro, si la date de clôture relative à un montant admissible reçu par le particulier fait partie de l'année d'imposition précédente,
+b) le total des montants dont chacun est indiqué par le particulier en application du paragraphe (3) pour une année d'imposition antérieure comprise dans la période, dans les autres cas;
+C le total des montants dont chacun est inclus en application du présent paragraphe ou du paragraphe (5) dans le calcul du revenu du particulier pour une année d'imposition antérieure comprise dans la période;
+D représente le moins élevé de 14 et du nombre d'années d'imposition du particulier ayant pris fin au cours de la période qui commence à la date suivante et se termine au début de l'année donnée :
+a) le 1er janvier 1995, si la date de clôture relative à un montant admissible reçu par le particulier est antérieure à 1995,
+b) le 1er janvier de la première année civile commençant après la date de clôture relative à un montant admissible reçu par le particulier, dans les autres cas;
+E a) le total des montants dont chacun est indiqué par le particulier en application du paragraphe (3) pour l'année donnée ou pour une année d'imposition antérieure comprise dans la période, si la date de clôture relative à un montant admissible reçu par le particulier fait partie de l'année d'imposition précédente,
+b) le montant que le particulier a indiqué en application du paragraphe (3) pour l'année donnée, dans les autres cas.
+[5] D'une façon générale, cette disposition a pour effet de prévoir que, si le contribuable omet d'effectuer le remboursement minimum qu'il est tenu de faire dans une année suivant un retrait, et avant que le remboursement soit effectué, le montant qui aurait dû être remboursé, mais qui ne l'a pas été, est inclus dans le revenu du contribuable pour cette année-là. Aucune exception n'est prévue dans le cas d'un contribuable dont le REER arrive à échéance avant que le remboursement soit effectué. M. Furma a raison de dire que sa femme et lui ne pouvaient pas rembourser le montant après que leurs régimes sont arrivés à échéance; toutefois, cela ne leur permet pas d'échapper aux conséquences défavorables du paragraphe 146.01(4). Les dispositions de ce paragraphe sont rédigées d'une façon incompréhensible, mais ce résultat n'aurait pas dû surprendre les appelants. Ils ont chacun reçu un état de compte à l'égard du régime d'accession à la propriété au mois de décembre 1999[3]. Ces états les informaient des paiements annuels minimaux qu'ils devraient faire, à compter de l'an 2000. Une feuille de questions et de réponses intitulée [TRADUCTION] « Renseignements généraux » était jointe à chacun de ces états; la question et la réponse suivantes y figurent :
+[TRADUCTION]
+Qu'arrive-t-il lorsque vous atteignez l'âge de 69 ans en 1999?
+Vous avez jusqu'au 31 décembre 1999 pour effectuer un remboursement. Par la suite, chaque année, vous devrez inclure dans votre revenu un montant égal au montant qui aurait constitué votre remboursement annuel. Si vous remboursez plus que le montant requis, cela réduira le montant que vous devrez inclure dans le revenu dans les années futures.
+[6] La somme retirée par Mukhtiar Furma s'élève à 18 006 $ et celle que Baljinder Furma a retirée s'élève à 12 831 $. Dans chaque cas, aucun remboursement n'avait été effectué, de sorte que les appelants sont tenus d'inclure chaque année dans leur revenu les montants suivants :
+Mukhtiar Furma
+18 006 $ ÷ 15
+1 200 $
+Baljinder Furma
+12 831 $ ÷ 15
+855 $
+Les appelants, le commissaire des tribunaux de révision et le ministre seront informés en conséquence, conformément à l'article 44 du Règlement sur la sécurité de la vieillesse. Comme le prévoit l'article 45, aucune ordonnance ne sera rendue au sujet des dépens.
+Signé à Ottawa, Canada, ce 19e jour de mars 2004.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 1er jour d'avril 2005.
+Jacques Deschênes, traducteur
+[1] L.R.C. 1985, ch. O-9, dans sa forme modifiée.
+[2] Le contribuable peut à son gré rembourser des sommes additionnelles.
+[3]
+Pièces A-1 et A-2.

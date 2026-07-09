@@ -1,0 +1,249 @@
+Title: 9196-7448 Québec inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/229680/index.do
+Corpus path: corpus/cases/tcc/2017/2017-tcc-50-229680-9196-7448-qu-bec-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2017-03-30
+
+# 9196-7448 Québec inc. v. The Queen
+
+- Citation: 2017 TCC 50
+- Decision date: 2017-03-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2294, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9196-7448 Québec inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-03-30
+Neutral citation
+2017 TCC 50
+File numbers
+2013-3697(IT)G, 2013-3699(IT)G
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-3697(IT)G
+BETWEEN:
+9196-7448 QUÉBEC INC.,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Before: The Honourable Justice Robert J. Hogan
+Counsel for the appellant:
+André Lareau
+Bobby Doyon
+Counsel for the respondent:
+Benoit Mandeville
+ORDER ON COSTS
+Upon motion by the applicant for an order pursuant to section 147 of the Tax Court of Canada Rules (General Procedure) (the “Rules”) for costs in excess of those to which it is entitled under Schedule II, Tariff B (the “Tariff”) of the Rules;
+Upon the applicant’s request that this motion be disposed of by the Court upon consideration of written submissions of counsel;
+Upon the respondent opposing that motion;
+Upon reading the written submissions of both parties;
+THE COURT MAKES THE FOLLOWING ORDER:
+The costs set out in Schedule II, Tariff B of the Tax Court of Canada Rules (General Procedure) are awarded to the appellant and Jean‑Marc Landry in accordance with the attached Reasons for Order;
+Disbursements shall be taxed in the usual manner.
+Signed at Ottawa, Canada, this 30th day of March 2017.
+“Robert J. Hogan”
+Hogan J.
+Translation certified true
+on this 20th day of March 2018.
+Janine Anderson, Revisor
+Docket: 2013-3699(IT)G
+BETWEEN:
+JEAN-MARC LANDRY,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Before: The Honourable Justice Robert J. Hogan
+Counsel for the appellant:
+André Lareau
+Bobby Doyon
+Counsel for the respondent:
+Benoit Mandeville
+ORDER ON COSTS
+Upon motion by the applicant for an order pursuant to section 147 of the Tax Court of Canada Rules (General Procedure) (the “Rules”) for costs in excess of those to which he is entitled under Schedule II, Tariff B (the “Tariff”) of the Rules;
+Upon the applicant’s request that this motion be disposed of by the Court upon consideration of written submissions of counsel;
+Upon the respondent opposing that motion;
+Upon reading the written submissions of both parties;
+THE COURT MAKES THE FOLLOWING ORDER:
+The costs set out in Schedule II, Tariff B of the Tax Court of Canada Rules (General Procedure) are awarded to the appellant and 9196-7448 Québec inc. in accordance with the attached Reasons for Order;
+Disbursements shall be taxed in the usual manner.
+Signed at Ottawa, Canada, this 30th day of March 2017.
+“Robert J. Hogan”
+Hogan J.
+Translation certified true
+on this 20th day of March 2018.
+Janine Anderson, Revisor
+Citation: 2017 TCC 50
+Date: 20170330
+Docket: 2013-3697(IT)G
+BETWEEN:
+9196-7448 QUÉBEC INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2013-3699(IT)G
+BETWEEN:
+JEAN-MARC LANDRY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR ORDER
+Hogan J.
+I. Introduction
+[1] The judgments delivered orally on May 18, 2016, were in favour of the appellants, Jean-Marc Landry and 9196-7448 Québec inc., and costs were awarded to them. [1] It must be noted that at the start of the hearing 9196‑7448 Québec inc. abandoned its position on the characterization of the disputed expenses as eligible capital expenditures. Thus, 9196-7448 Québec inc. was only successful in the second issue debated in its appeal.
+[2] Following that favourable outcome, the appellants, Jean-Marc Landry and 9196-7448 Québec inc., are together claiming as costs all amounts disbursed throughout the proceedings, totalling $83,490.65. The appellants rely on the factors set out in subsection 147(3) of the Tax Court of Canada Rules (General Procedure) [2] (the “Rules”). Alternatively, the appellants raise the application of subsection 147(3.1) of the Rules, arguing that offers of settlement that were as favourable as or more favourable than the outcome of the proceeding for the respondent were submitted to the respondent at the appropriate time. [3]
+II. ANALYSIS
+A. THE TIME GIVEN TO SUBMIT A REQUEST FOR AN INCREASED COSTS AWARD
+[3] Following the arguments, counsel for the appellants inquired about how his clients could claim increased costs. I therefore explained the process, stating that I allow a certain period of time for the parties to try to agree on the matter, failing which they must make written submissions of no more than five pages. [4] Following that explanation, counsel stated the following, indicating that he understood:
+[TRANSLATION]
+OK, Your Honour. I understand and I thank you for hearing me. [5]
+[4] I also indicated the following in my judgments dated May 18, 2016:
+[TRANSLATION]
+The parties have until June 17, 2016, to agree on costs, failing which they may appeal to the Court by filing written submissions of no more than five pages.
+[5] I therefore gave the parties 30 days to make written submissions if they could not reach an agreement in that time, which was the same as set out in subsection 147(7) of the Rules.
+[6] In the hope of reaching an agreement regarding the awarding of costs, counsel for the appellants spoke to counsel for the respondent on the same day as the judgments. The respondent’s position was clearly expressed on that day, both orally and in writing. Indeed, the respondent was of the opinion that there was no justification for awarding costs in excess of those set out in Schedule II, Tariff B of the Rules and stated that she would object to any request for increased costs. On that date, counsel for the respondent asked counsel for the opposing parties to indicate, as soon as possible, whether they planned on requesting increased costs.
+[7] It was not until October 4, 2016, more than four months after the judgments and the exchanges of communications between the parties regarding costs, that counsel for the appellants contacted the opposing party. That communication was in the form of a letter proposing a possible middle ground regarding the amount of the costs and advising the respondent that, if it were not accepted, the appellants would go before the Court to have the matter of costs settled.
+[8] On October 17, 2016, the respondent sent a letter to counsel for the appellants, again expressing her refusal to give the appellants increased costs. In that letter, the respondent stated that the request was out of time because the appellants had not respected the deadline set out in my judgments and in subsection 147(7) of the Rules.
+[9] It was not until December 1, 2016, that the appellants filed their written submissions, more than six months after receiving the judgments. The respondent’s reply was submitted on December 13, 2016.
+[10] At no time did the appellants try to explain or justify the delay between the date of the judgments and the filing of their written submissions stating in particular that the directives given regarding costs did not indicate a limitation period and that since the context in this case is [TRANSLATION] “quite different”, subsection 147(7) of the Rules cannot apply.
+[11] However, the application of subsection 147(7) of the Rules cannot automatically be set aside, despite the scope of the discretion regarding costs conferred on me by the Rules.
+[12] As the awarding of costs under section 147 of the Rules is an exercise of the judge’s highly discretionary power, the judge must at least exercise it in accordance with the established principles, including those in section 147 of the Rules. [6]
+[13] In this context, where the request was submitted out of time, to allow the appellants’ request I must be satisfied (1) that it is appropriate to grant the appellants an extension of time, and (2) that the awarding of increased or substantial costs is appropriate in this case.
+[14] In Atcon Construction, [7] the factors deemed to justify the refusal to grant an extension of time for requesting an increased costs award are similar to those to be considered in the context of the case at hand. In Atcon Construction, Judge Rip stated the following with respect to the consideration of the factors:
+18 The appellant has not produced a just reason for failing to comply with the Rules. This is not a case where the request for costs is complicated, the appellant had experienced counsel, the Rules were not new at the time of the Court’s judgment, there is no evidence that the appellant intended to file its application on time and the respondent has not conceded that she will not be prejudiced by the granting of the extension.
+[15] In the case at hand, no application for an extension of time was made and no justification was given to show the merits of such an application.
+[16] In Bibby, [8] Bowie J. was presented with an application brought pursuant to subsection 147(7) of the Rules but outside the time limitation set out in that subsection. Bowie J. noted that no application for an extension of time was filed and that, under the circumstances, no evidence justified an extension of time.
+[17] As I have not been presented with any other justification, I cannot reasonably conclude that the appellants actually intended to make the request before me on time. Had they wanted to do so, they could have filed it the day after the judgment, as the respondent advised the appellants on the day of the judgment that she categorically refused to give any costs in excess of those set forth in Schedule II, Tariff B of the Rules. The respondent’s position was communicated unequivocally, both orally and in writing.
+[18] This conclusion is consistent with McKenzie, [9] in which Boyle J. concluded that it was not appropriate to grant an extension of time in a situation that was very similar to the case at hand. Indeed, although Boyle J. had told the appellant that she had to make written submissions within 30 days of the judgment, she made her request for increased costs out of time. For that reason, Boyle J. refused to award increased costs.
+[19] In light of the above, I am of the opinion that this case is not a situation in which it is appropriate to allow an application for an extension of time.
+[20] Lastly, even if the request for an increased costs award had been made within the prescribed time, I am of the opinion that the circumstances would not justify the awarding of costs in excess of those set out in Schedule II, Tariff B of the Rules for the following reasons.
+B. FACTORS TO BE CONSIDERED IN AWARDING INCREASED COSTS
+[21] The parties agree that this Court enjoys broad discretionary power in awarding costs. As I indicated in the Reasons for Order in Rio Tinto Alcan Inc. v. The Queen, 2016 TCC 258, that discretion must be exercised on a principled basis, giving proper weight to the factors listed in section 147 of the Rules and such other factors as produce a just result.
+[22] I will now apply the factors listed in subsection 147(3) of the Rules that are relevant in this case.
+(1) The result of the proceeding
+[23] The result in favour of the appellants supports increased costs.
+(2) The amounts in issue
+[24] The appeals were related to notices of assessment to add $366,843.75 to Jean-Marc Landry’s income as a shareholder benefit and to disallow the deduction of $366,843.75 by 9196-7448 Québec inc. The appellants argue that the significance of that amount must be assessed not in absolute terms, but in relative terms. I agree with the appellants regarding the required analysis, but do not agree, however, with their conclusion.
+[25] In the specific context of this case and given the transaction that gave rise to the appeals, a total of $6,066,436 was transferred to the appellants’ patrimony through the sale of shares. In that context, $366,843.75 seems quite minimal and is an argument in favour of the respondent’s position, who claims that only the costs set out in the tariff in Schedule II of the Rules should be awarded to the appellants.
+(3) The importance of the issues
+[26] The issues were not important enough to support a conclusion that increased costs must be awarded. Indeed, the dispute was related to the characterization of expenditures incurred as part of a specific transaction and to their allocation between the parties.
+(4) Offers of settlement
+[27] The evidence shows that there were numerous offers and counter-offers of settlement by both parties to the proceeding. I therefore see a real intent on both sides to settle, given the continuous communication and the good faith that characterized the relations between the parties.
+[28] Later in my reasons, I will look more specifically at the effect of the refusal of an offer of settlement as a result of the application of subsections 147(3.1) to 147(3.8) of the Rules.
+[29] Regarding the factors listed in subsection 147(3) to be considered, I feel that the existence of offers and counter-offers of settlement is an argument in favour of the respondent’s position. The offers of settlement on which the appellants rely are not the types of offers that are likely to be considered for the application of subsection 147(3) of the Rules.
+(5) Volume of work
+[30] The volume of work in this proceeding does not seem to have been particularly heavy. The challenged reassessments were made in May 2012, and the proceeding concluded with the judgments in May 2016.
+[31] It is important to note again that there is no unusual behaviour that could justify consideration of the work carried out during the audit and objection stages in the awarding of increased costs in this case. Thus, regardless of the volume of the work conducted during the audit and objection stages, only the work actually related to the proceeding can be considered in the application of the “volume of work” criterion. [10]
+[32] Regarding the volume of work related to the appeals, while a three-day hearing was initially planned, the proceeding ended after only one hearing day. An oral judgment was rendered no more than two days later.
+[33] The light volume of work does not favour awarding increased costs.
+(6) The complexity of the issues
+[34] The issues, as acknowledged by the appellants, are not [TRANSLATION] “extraordinarily complex”. [11] The appellants nonetheless allege that the context, namely the “boomerang” clause or “shotgun” clause and the fiscal restructuring, in addition to the large number of entities and stakeholders involved, have brought an additional element of complexity to the proceeding.
+[35] With respect, nothing in the elements listed by the appellants reveals a high degree of complexity or justifies increased costs.
+(7) The conduct of any party that tended to lengthen unnecessarily the duration of the proceeding
+[36] Nothing in this case justifies the awarding of increased costs. The evidence shows that there was constant cooperation between the parties and neither the hearing nor the hearing preparation was inefficient. [12] Moreover, the respondent did not even object to the appellants’ application for an extension of time, which could have resulted in the dismissal of the appeals.
+[37] This factor also favours rejecting the request for increased costs.
+C. OFFERS OF SETTLEMENT
+[38] In the alternative, the appellants cite provisions regarding the awarding of substantial indemnity costs (plus disbursements and applicable taxes) when there has been an offer at least as favourable as the outcome of the appeals. Those provisions read as follows:
+147 (3.1) Unless otherwise ordered by the Court, if an appellant makes an offer of settlement and obtains a judgment as favourable as or more favourable than the terms of the offer of settlement, the appellant is entitled to party and party costs to the date of service of the offer and substantial indemnity costs after that date, as determined by the Court, plus reasonable disbursements and applicable taxes.
+. . .
+(3.3) Subsections (3.1) and (3.2) do not apply unless the offer of settlement
+(a) is in writing;
+(b) is served no earlier than 30 days after the close of pleadings and at least 90 days before the commencement of the hearing;
+(c) is not withdrawn; and
+(d) does not expire earlier than 30 days before the commencement of the hearing.
+(3.4) A party who is relying on subsection (3.1) or (3.2) has the burden of proving that
+(a) there is a relationship between the terms of the offer of settlement and the judgment; and
+(b) the judgment is as favourable as or more favourable than the terms of the offer of settlement, or as favourable or less favourable, as the case may be.
+(3.5) For the purposes of this section, substantial indemnity costs means 80% of solicitor and client costs.
+(3.6) In ascertaining whether the judgment granted is as favourable as or more favourable than the offer of settlement for the purposes of applying subsection (3.1) or as favourable as or less favourable than the offer of settlement for the purposes of applying subsection (3.2), the Court shall not have regard to costs awarded in the judgment or that would otherwise be awarded, if an offer of settlement does not provide for the settlement of the issue of costs.
+[39] In support of their claim, the appellants cite five offers of settlement that they submitted to the respondent. Those offers were dated February 18, 2013, December 23, 2014, February 13, 2015, May 9, 2016, and May 10, 2016.
+[40] Only the offers dated December 23, 2014 and February 13, 2015, could possibly have given rise to the awarding of substantial indemnity costs under subsection 147(3.1) of the Rules. Indeed, only those two offers were submitted at the appropriate time.
+[41] It is important to mention that the existence of an offer of settlement made in accordance with the Rules does not automatically result in substantial indemnity costs. It is important to ensure that the offer was more than just a monetary compromise and had a factual and legal basis.
+[42] In CIBC World Markets Inc. [13] (at para 14), Stratas J.A. stated that paragraph 147(3)(d) is aimed at “encouraging parties to make offers of settlement and to treat them seriously. An unaccepted offer can trigger adverse costs consequences if, in light of the Court’s decision, it turns out that the offer should have been accepted.” In my opinion, this reflection also applies to subsection 147(3.1), which, when the decision in CIBC World Markets Inc. was rendered, was not in force and only paragraph 147(3)(d) addressed the effect of the rejection of a valid offer on costs. Stratas J.A. also limited such an effect to offers proposing the appropriate application of the law to the facts:
+15 Implicit in this is an important pre-condition: only offers that, as a matter of law, could have been accepted can trigger costs consequences. If, due to some legal disability, a party could not have accepted an offer, adverse costs consequences should not be visited upon that party.
+[43] The Court must therefore refuse the application of subsection 147(3.1) of the Rules if it concludes that the acceptance of an offer of settlement by the Minister of National Revenue would require him to issue a reassessment that could not be supported on the facts and the law. [14] In other words, an offer of settlement can only be taken into consideration in the awarding of costs if it is legally justifiable.
+[44] In the case at hand, it appears that, according to the offers of settlement attached to the appellants’ written representations, any offer they submitted to the respondent was conditional on its acceptance for both related appeals, namely that of Jean-Marc Landry and that of 9196-7448 Québec inc.
+[45] The dispute primarily concerned the treatment of the amount paid by 9196‑7448 Québec inc. as fees relating to the transaction that occurred following the triggering of the shotgun clause, while the obligation had been initially contracted by Jean-Marc Landry.
+[46] The company 9196-7448 Québec inc. had deducted that amount as an eligible capital expenditure, but at the start of the hearing, the appellants abandoned the position that it was such an expenditure. There was therefore no question of characterizing that amount as anything other than a capital expenditure.
+[47] The respondent submits that the offer dated December 23, 2014, was not founded in law and that she therefore could not accept it. While 9196-7448 Québec inc. had deducted the entire amount in dispute as an eligible capital expenditure, that offer provided that only 88% of the amount would be treated as an eligible capital expenditure. The proposed compromise was to attribute 12% of the amount in dispute to Jean-Marc Landry.
+[48] In her response to the notice of appeal in 9196-7448 Québec inc.’s case, the respondent alleged that the amount in dispute was not an “eligible capital expenditure” as defined in subsection 14(5) of the Income Tax Act [15] (the “Act”) and therefore could not be deducted under paragraph 20(1)(b) of the Act. It is on that point of law, applied to the facts in this dispute, that the respondent relies to claim that she could not legitimately accept the offer of settlement dated December 23, 2014. The disputed expense cannot be characterized as an eligible capital expenditure for the simple reason that the expense was not incurred for the purpose of earning income from a business. The purpose of the sale of the shares held by 9196-7448 Québec inc. was to give effect to a shotgun clause. The transaction in this case resulted in a capital gain. The inability to support the opposite position is particularly evident in the fact that the appellants abandoned that position at the start of the hearing. The lack of a legal basis for the characterization given by the appellants is, on its own, sufficient to support the conclusion that the respondent could not reasonably accept the offer. [16] That offer therefore cannot result in the awarding of substantial indemnity costs.
+[49] The respondent argues that the offer dated February 13, 2015, was not acceptable either, but she did not justify that allegation. The offer dated February 13, 2015, was a counter-offer following an offer of settlement from the respondent. The counter‑offer was again based on the characterization of a portion of the disputed amount of $366,843.75 as an eligible capital expenditure.
+[50] The offer submitted by the respondent on January 14, 2015, proposed reducing 9196-7448 Québec inc.’s capital gain by $366,843.75 (reducing its taxable capital gain by $183,422) and attributing it to Jean-Marc Landry, increasing his capital gain accordingly (increasing his taxable capital gain by $183,422). The offer was therefore a new allocation between the appellants of the capital amounts resulting from the transaction, an allocation that the Crown felt accurately reflected the transaction.
+[51] The appellants’ counter-offer, however, characterized the taxable capital gain of $183,422 allocated to Jean-Marc Landry in the Crown’s offer as a taxable dividend paid. It is difficult to conclude that partially converting a capital gain of $366,843.75 into a dividend paid of $183,422 is an acceptable offer in fact and in law.
+[52] The decision in favour of the appellants is based on the reallocation of the capital expenditure, not on the characterization of that expenditure, as characterization is a question that does not allow for half-measures. The respondent’s offer seems to be based on allocation, but the counter-offer adds an element of characterization, which simply cannot be acceptable in this case. There is nothing that would have allowed the Minister to make an assessment otherwise than by characterizing the amounts as a capital expenditure.
+III. CONCLUSION
+[53] In light of the above, the appellants submitted their request for an increased costs award out of time. Moreover, there is nothing in this case to justify the awarding of increased costs. Consequently, only the fees and expenses set out in Schedule II, Tariff B of the Rules are awarded to the appellants.
+Signed at Ottawa, Canada, this 30th day of March 2017.
+“Robert J. Hogan”
+Hogan J.
+Translation certified true
+on this 20th day of March 2018.
+Janine Anderson, Revisor
+CITATION:
+2017 TCC 50
+COURT FILE NO.:
+2013-3697(IT)G
+2013-3699(IT)G
+STYLE OF CAUSE:
+9196-7448 QUÉBEC INC. v. THE QUEEN
+JEAN-MARC LANDRY v. THE QUEEN
+PLACE OF HEARING:
+Quebec City, Quebec
+DATE OF HEARING:
+May 16 and 18, 2016
+REASONS FOR ORDER BY:
+The Honourable Justice Robert J. Hogan
+DATE OF ORDER:
+March 30, 2017
+APPEARANCES:
+Counsel for the appellant:
+André Lareau
+Bobby Doyon
+Counsel for the respondent:
+Benoit Mandeville
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+André Lareau
+Bobby Doyon
+Firm:
+[BLANK / EN BLANC]
+For the respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] I gave the parties until June 17, 2016, to reach an agreement on costs, failing which they were to make written representations. However, it was not until December 1, 2016, more than six months after the judgment on the merits, that the appellants submitted their request for increased costs in this case.
+[2] SOR/90-688a.
+[3] At first glance, the costs claimed by the appellants seem exaggerated. Indeed, the amounts claimed include costs related to periods prior to the appeals in question (e.g. costs incurred during the objection process), related to the dispute with Revenu Québec, related to the representation concerning a request for a loss determination, or related to a request for [TRANSLATION] “relief from their failure to respect the deadline”, which was exclusively attributable to the appellants.
+In that regard, the appellants argued that their accountant and tax expert, Maxim Poulin, billed them a total of $18,476.48 over a period of 5 years. As there are no details concerning Mr. Poulin’s invoicing, it is difficult for me to appropriately apportion that amount and determine what was actually related to the disputes for all of the processes from the preparation of the notices of appeal, filed on or about September 30, 2013, to the end of the proceedings. Since the firm Joli-Cœur Lacasse S.E.N.C.R.L. has represented the appellants since the objections stage, it is unlikely that a significant portion of Mr. Poulin’s work was related to the disputes themselves. It seems more likely that Mr. Poulin’s work was related to what preceded case preparation, particularly in relation to the audit.
+It is also appropriate to dismiss at least any invoices from the firm Joli-Cœur Lacasse S.E.N.C.R.L. prior to receipt of the objection decision. As the objection decision was handed down on July 2, 2013, the invoices that are not to be considered for costs purposes total $11,575.87.
+Consequently, the amount in respect of which the appellants can claim costs remains undetermined at this time, but it is certainly less than $53,438.30.
+[4] Transcript of the hearing held on May 16, 2016, at p. 143: [TRANSLATION] “Normally, I render a judgment and then give you 10 days to agree on costs, failing which, you . . . you send me a submission of no more than five pages regarding costs.”
+[5] Transcript of the hearing held on May 16, 2016, at p. 44, lines 1–2.
+[6] Rules, subsection 147(3); R. v. Lau, 2004 FCA 10.
+[7] Atcon Construction Inc. v. The Queen, 2003 TCC 174, 2003 DTC 373.
+[8] Bibby v. The Queen, 2010 TCC 111, 2010 DTC 1108.
+[9] McKenzie v. The Queen, 2012 TCC 329.
+[10] Paragraph 2 and footnote 2, supra.
+[11] Appellants’ written submissions dated December 1, 2016, at p. 4.
+[12] Supra, footnote 2.
+[13] CIBC World Markets Inc. v. The Queen, 2012 FCA 3.
+[14] CIBC World Markets Inc., at para 20.
+[15] R.S.C. 1985, c. 1 (5th Supp.).
+[16] Transalta Corp. v. The Queen, 2013 FCA 285.

@@ -1,0 +1,106 @@
+---
+title: "Chandna v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29220/index.do"
+last_modified: "2009-04-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 230"
+citation2: ""
+neutral_citation: "2009 TCC 230"
+decision_date: "2009-04-01"
+language: "en"
+item_id: "29220"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7021
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:24:49.807000+00:00"
+cases_cited_count: 1
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a0c3910f44e1771249abecd295b37b5ca7b5c78181b01f9d90e991c21e1228f0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Chandna v. The Queen
+
+- Citation: 2009 TCC 230
+- Decision date: 2009-04-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7021, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chandna v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-04-01
+Neutral citation
+2009 TCC 230
+File numbers
+2008-3369(GST)I
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Citation: 2009 TCC 230
+Date: 20090508
+Docket: 2008-3369(GST)I
+BETWEEN:
+JASMEET CHANDNA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Edited from the transcript of Reasons for Judgment delivered orally from the Bench on April 2, 2009 in Calgary, Alberta)
+Campbell J.
+[1] The Appellant purchased a residential condominium unit on January 30, 2007, from two individuals, Robert Nagata and Shane Bosch. These individuals acquired the unit from Gateway Macleod Limited, the builder of the complex which contained this unit; however, they never actually occupied it. After the unit was constructed, the Appellant was the first occupant. The Appellant paid $240,000 for the unit which according to the purchase contract “includes any applicable GST”.
+[2] The Appellant applied for the new housing rebate, which the Minister of National Revenue (the “Minister”) denied by Notice of Assessment dated August 17, 2007.
+[3] The rebate application, Exhibit R-1, did not contain a fully completed section (d) nor did it contain the signature of the purported builder of the unit. This is the first problem with the Appellant’s rebate application. It did not contain the necessary information which is prescribed by subsection 262(1) of the Excise Tax Act (the “Act”). That subsection does contain the word “shall” when it references that the rebate application is to be made in a prescribed form containing prescribed information.
+[4] Respondent counsel pointed out the opposing views taken in the cases of Tremblay v. The Queen, [2001] G.S.T.C. 64 and Helsi Construction Management Inc., [2001] G.S.T.C. 39 (TCC) aff’d 2002 FCA 358. I would agree with the reasoning of the former Chief Justice Bowman in Helsi. GST provisions are generally quite technical and where the word “shall” is utilized, as in subsection 262(1), the application of the provision must be considered mandatory as opposed to directory. However, even if the Appellant could get past this hurdle, she faces other problems in this appeal.
+[5] The second problem which the Appellant has in obtaining this rebate is that the vendors of the unit are excluded from the definition of “builder” contained in subsection 123(1) of the Act. The Appellant failed to prove that these vendors acquired and disposed of the unit in the course of a business or an adventure in the nature of trade as required under paragraph 123(1)(f).
+[6] The evidence that was submitted on this was, for the most part, hearsay evidence to which I can assign very little weight. The Appellant has the onus of proof and accordingly must adduce sufficient facts to overcome the assumptions relied on by the Minister. Since the appropriate factual evidence has not been adduced and was not before me, I must conclude that the unit was not acquired from the builder and as such it is exempt from tax pursuant to subsection 123(1) and section 2, Part I of Schedule V of the Act.
+[7] In addition, the agreement of purchase and sale contract did not specifically state that GST was being paid, and there was no actual breakdown of the price to show any specific amount in respect to GST.
+[8] The agreement stated, in a generic way, that the purchase price included any applicable GST but this was a form contract with information slotted into the appropriate spaces. The GST reference was a part of the general format of that contract. This wording alone is not sufficient to show tax was collected or collectible on the sale and, therefore, the Minister cannot pay the rebate claimed by the Appellant under subsection 254(2) of the Act.
+[9] In summary, as the Appellant did not adduce sufficient evidence to show that she acquired the unit from a builder pursuant to subsection 123(1) of the Act and also failed to submit a rebate application in prescribed form containing prescribed information, the Minister has properly disallowed the amount which the Appellant claimed as a new housing rebate.
+[10] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 8th day of May 2009.
+“Diane Campbell”
+Campbell J.
+CITATION: 2009 TCC 230
+COURT FILE NO.: 2008-3369(GST)I
+STYLE OF CAUSE: Jasmeet Chandna and
+Her Majesty The Queen
+PLACE OF HEARING: Calgary, Alberta
+DATE OF HEARING: April 1, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Diane Campbell
+DATE OF ORAL JUDGMENT: April 2, 2009
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Robert Neilson
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

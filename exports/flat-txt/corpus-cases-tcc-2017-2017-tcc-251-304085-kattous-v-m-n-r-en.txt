@@ -1,0 +1,201 @@
+Title: Kattous v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/304085/index.do
+Corpus path: corpus/cases/tcc/2017/2017-tcc-251-304085-kattous-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2017-12-19
+
+# Kattous v. M.N.R.
+
+- Citation: 2017 TCC 251
+- Decision date: 2017-12-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7934, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kattous v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-12-19
+Neutral citation
+2017 TCC 251
+File numbers
+2016-2456(EI)
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2016-2456(EI)
+BETWEEN:
+FARID KATTOUS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+9250-1469 QUÉBEC INC.,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard and decision delivered from the bench
+on October 6, 2017, at Montréal, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+For the Appellant:
+The appellant himself
+Counsel for the Respondent:
+Mounes Ayadi
+Counsel for the Intervener:
+Yannick Derome
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act is allowed and the decision made by the Minister is set aside, in that the work performed by the appellant on behalf of and for the benefit of the intervener constituted a contract of service and, as a result, insurable employment, in accordance with the following reasons for judgment.
+Signed at Ottawa, Canada, this 19th day of December 2017.
+“Alain Tardif”
+Tardif J.
+Citation: 2017 TCC 251
+Date: 20171219
+Docket: 2016-2456(EI)
+BETWEEN:
+FARID KATTOUS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+9250-1469 QUÉBEC INC.,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Decision delivered from the bench on
+October 6, 2017, in Montréal, Quebec.
+Tardif J.
+[1] This is an appeal of a determination in which the respondent found that the work performed by the appellant on behalf of and for the benefit of the intervener from January 1, 2014 to November 1, 2014, had not been done as part of a contract of service, but instead as a self-employed worker.
+[2] After reading the response to the notice of appeal, the respondent limited her analysis to a single aspect, namely the work, which consisted of transporting employees to the intervener’s workplace.
+[3] However, the notice of appeal identified and affected all the work performed by the appellant on behalf of and for the benefit of the intervener during the period in dispute, which extends from January 1, 2014 to November 1 of the same year.
+[4] The intervener, 9250-1469 Québec Inc., operates in the staff placement business for various companies that require temporary employees. In particular, this was for companies that manufactured pillows, produced floral arrangements, and lastly, slaughtered chickens.
+[5] In the response to the notice of appeal, we can see the following:
+[translation]
+8. To arrive at her decision, the respondent assumed the following facts:
+The payor
+(a) the payor was a corporation that offered staff placement services;
+(b) the sole shareholder in the payor was Rochdi Elahamar;
+(c) the payor was licensed on August 22, 2011;
+The appellant
+(d) the appellant and the payor had reached a verbal agreement in Laval, Québec;
+(e) the appellant was hired as an employee in 2013;
+(f) when the appellant was the payor’s employee, he packaged flowers;
+(g) by the end of November 2013, the payor had granted a mandate to the appellant, but as a self-employed worker;
+(h) the appellant’s work consisted of transporting employees who did not have a car to the workplaces of the payor’s clients;
+(i) the appellant transported employees to their work sites during both mornings and evenings;
+(j) the appellant used his personal vehicle;
+(k) the appellant paid the operating costs of his vehicle;
+(l) the appellant was completely free to accept or refuse work;
+(m) the appellant was not accountable to the payor;
+(n) the appellant was free to leave at any time;
+(o) the appellant gave time to the payor based on his own availability;
+(p) the appellant was free to use his own methods for work and performing it;
+(q) the appellant did not receive any benefits;
+(r) the appellant did not receive vacation time;
+(s) the appellant supplied his own work tools;
+(t) the appellant and the payor had agreed upon a fixed daily rate for the appellant’s earnings during the verbal agreement;
+(u) the appellant was paid $50 per day;
+(v) the appellant was paid by cheque;
+(w) the appellant received a cheque from the payor in May 2014 in the amount of $550;
+(x) after January 2014, the appellant was no longer working for the payor;
+(y) the appellant had left the country to go to Tunisia from February 20, 2014 to April 10, 2014, and later from August 5, 2014 to October 2, 2014;
+(z) no deductions had been taken from the amount paid to the appellant; and
+(aa) the payor had sent the appellant a T4A for the work performed in 2014.
+[6] Thus, the assumptions of fact to support the determination being appealed essentially cover the work performed as a transporter of employees to the intervener’s workplaces. The work in question was paid by cheque; however, the evidence refers to one single cheque in the amount of $550.
+[7] The agreement for transporting people established pay at $50 per day. As a result, it appeared that the appellant made 11 trips, suggesting that the appellant would have been paid in cash for other trips. On the one hand, I recall that the period at issue was 10 months long, and on the other hand, there is only reference to one single cheque.
+[8] When asked by the Court to admit to, deny, or ignore the facts that were alleged in support of the determination, the appellant admitted to the majority of the assumptions of fact; at first glance in this case, the appellant’s admissions validated the basis of the determination that he was challenging.
+[9] However, the appellant was quick to explain that that was a marginal and very secondary aspect of the work performed on behalf of and for the benefit of the intervener during the period in dispute. He also explained and justified in a very clear manner why that work was secondary and very occasional. He insisted on the fact that his notice of appeal did not identify that work, but rather the work that he had performed in 2013, which had continued in 2014 according to the same parameters and under the same conditions.
+[10] He therefore insisted on the fact that the analysis had to focus on the actual work performed on behalf of and for the benefit of the intervener regarding the slaughter of chickens, floral arrangements, and the manufacture of pillowcases.
+[11] In fact, the appellant testified as to the nature of the work behind his notice of appeal. This was work related to the flower business, the manufacture of pillows, and the slaughter of chickens. The explanations provided by the appellant were also consistent and coherent with his statements during the investigations that led to the determination.
+[12] According to the intervener, the respondent shared the same position, i.e. that the appellant worked as a self-employed worker by using his own car to transport the intervener’s workers during the period at issue.
+[13] In such a context, can the Court proceed with an analysis of the merits of the determination? I respond in the affirmative because on the one hand, the notice of appeal identifies the whole period from January to November 1, 2014, and on the other hand, does not affect the transportation of people.
+[14] The respondent clearly and obviously erred by deciding without either reason or valid grounds to consider a minuscule portion of the work performed by the appellant. It appears that, with a wave of the hand, the respondent had first dismissed all the appellant’s explanations and statements, and second, had taken the intervener’s version for granted, in an atmosphere of great tension between the appellant and the intervener. It was clear and obvious to me that when writing her response to the notice of appeal, the respondent only took the intervener’s view for granted and completely obscured the appellant’s version without reason.
+[15] At the hearing, both the intervener and the respondent maintained that the appellant did not work as an employee, but essentially as a self-employed worker who transported the intervener’s employees, in accordance with a verbal agreement to which the appellant admitted spontaneously and directly.
+[16] Essentially, the appellant admitted to that aspect of the record, but was quick to state and demonstrate that the purpose of his appeal had nothing to do with that marginal, unimportant and occasional job as a transporter, for which the short duration was established by a single cheque.
+[17] In addition, the appellant stated that he had done essentially the same job in 2013, which had been determined to be insurable, to which the intervener had also admitted.
+[18] Did this job end in December 2013 or did it continue in 2014?
+[19] The evidence highlights two theories and two completely contradictory versions.
+[20] First, the appellant explained that he had worked during the period at issue from January to November 1, 2014 for the intervener at three different companies: one that manufactured pillowcases, where he had the same responsibilities as other employees; another involved floral arrangements; and lastly, one where chickens were slaughtered. He also admitted and acknowledged reaching a verbal agreement to occasionally transport co-workers at his expense using his personal vehicle at a rate of $50 per day.
+[21] He explained that the respondent’s claims, which were shared by the intervener, were unfounded for the very simple reason that he had no interest in that; he in fact explained that the respondent’s version was unreasonable, even far-fetched. He explained that that version was such that the transportation of the workers was done starting at a metro station, where he picked up passengers to drive them to the slaughterhouse in northern Montréal.
+[22] The appellant explained that the intervener and respondent’s version was totally absurd, since it would have in fact caused him to lose money, something that he allegedly never accepted. He also stated that that version discredited itself.
+[23] The appellant maintained that he had agreed to make two round trips for a set rate of $50; for him, this was going to the place where he himself performed the same work as his passengers. The agreed $50 was then added to the pay for the work that he performed as an employee.
+[24] The respondent’s theory discredits itself; in fact, both possible interpretations are completely unreasonable.
+[25] The result of the first interpretation would be that the appellant would have had to make four trips for $50 and not two: one round trip to drive the workers in the morning and a round trip in the evening to pick up his passengers.
+[26] The result of the second interpretation would be that he would have to go to his passengers’ places of work and would have to wait the whole day to bring them back in the evening.
+[27] Both interpretations would have had to deal with a completely unacceptable reality: never knowing the precise time of the return trips, since the workers finished work at times that varied greatly.
+[28] In the facts, the $50 per day proved to be interesting in that he used his own vehicle and transported co-workers; at the end of the day, he brought them to the starting point, thus completing a round trip for $50, while the respondent’s version was such that he would have had to ensure that he made two round trips, meaning four trips and not two.
+[29] As for the rarity of the trips, the appellant explained that his involvement was only necessary when there were too many workers in relation to the usual routine, in which the intervener generally took care of transporting workers and by which the appellant thus explained the small number of trips made.
+[30] The appellant explained the type of work that he performed for the intervener; he also stated that he was always paid by the intervener, most of the time in cash. In support of his claims, the appellant argued that he had received pay that he had reported to the Canada Revenue Agency. He also filed documents stating that he had received amounts that correspond to his claims.
+[31] He stated that the intervener’s business was managed in a nebulous manner in that there were various entities that exchanged operations and activities. Generally speaking, cash was the way that salaries were paid.
+[32] For her part, the respondent maintained and repeated that the appellant’s claims had to be set aside on the grounds that there was no proof of payment for the work performed. However, the respondent accepted and acknowledged the reality of cash payment for work by self-employed workers. That evidence was deficient and incomplete, to the point that it must be set aside.
+[33] In fact, the only proof of payment for transporting people is a cheque in the amount of $550 representing 11 round trips over a 10-month period (January 2014 to November 2014).
+[34] For matters of insurability, the burden of proof falls to the person who is challenging the determination of insurability.
+[35] In this case, in support of the appeal, the appellant testified at great length and produced a certain number of documents that were often imprecise and incomplete, but were consistent and reasonable, decisively validating his theory.
+[36] For their part, the respondent and intervener submitted as their only evidence the testimony of the intervener’s representative and various documents that were just as imprecise and incomplete as those of the appellant, but was not determining for the respondent’s theory, which relied essentially on non-credible evidence.
+[37] Thus, we are dealing with completely contradictory evidence. Although the appellant was not represented by counsel, the evidence showed that he had very good command of his file. In addition, he appeared to be very skillful and effective during the cross-examination of the intervener.
+[38] The appellant stated with conviction and resolve that his job as a transporter had been completely secondary, marginal, and performed on an occasional basis. For that job, he acknowledged being paid by a cheque for $550, which represented a total of 11 trips.
+[39] However, the period identified by the determination is from January 1, 2014 to November 1, 2014. Clearly, during a similarly long period, there may have been several types of work and a multitude of legal relationships, which must be analyzed and assessed, given the period at issue referenced by the notice of appeal.
+[40] However, the job that was identified by the intervener and the respondent only affects one very isolated aspect that was done at the same time as his real job. In fact, according to the evidence submitted by the appellant in accordance with his notice of appeal, nearly all the work performed during the period at issue had nothing at all to do with transporting people, which essentially proved to be a very small surplus, adding to his typical and current workload.
+[41] However, the respondent and the intervener maintained that the appellant’s work during the period at issue had essentially been that of transporter-driver, even though only one cheque had been paid in compensation.
+[42] The respondent argues that most of them had been done using cheques, but submitted only one cheque as evidence; the intervener maintains that very often, payment was in cash. However, when the appellant claims to have been paid in cash, the respondent doubts his explanation. The respondent therefore supports her theory with a fact that she had used to discredit the appellant’s theory.
+[43] From these two contradictory versions, the issue on record essentially becomes one of credibility. Before assessing the case in that light, it seems important to me to make a specification as to the Court’s ability to rule on the nature of the work that had been hidden from the analysis in a biased manner, which had stood out from the response to the notice of appeal, even though the appellant had clearly expressed, explained, and described the nature of the work that he had performed on behalf of and for the benefit of the intervener during the investigation that had preceded the formal determination. The respondent relied only on the intervener’s version and from the start assumed for no reason that the appellant was lying or fabricating, in a context of great tension between the parties to the disputed contract of service.
+[44] The appellant testified at great length and in a very precise, even very nuanced manner; I did not note any contradictions. The explanations were reasonable and consistent. In addition, the cross-examination of the intervener by the appellant himself clearly highlighted contradictions, half-truths, inconsistencies, and several aberrations.
+[45] The behaviour and attitude of the intervener’s representative was shaped by a profound resentment of the appellant. His responses were incomplete and confused; for several questions, he simply refused to answer. The appellant’s skill, perspicacity, and tenacity with the intervener allowed for several aberrations and contradictions to be highlighted.
+[46] For example, he first stated that he knew nothing regarding a corporation with whom the appellant had had relationships and communications; however, the cross-examination led by the appellant revealed that said corporation shared the same business address as the intervener and the person responsible was a friend and was related to the intervener.
+[47] When questioned about the method for paying the amounts owing to the appellant, the intervener’s representative had first indicated that he paid by cheque. Faced with the appellant’s insistence, he ended up admitting that he also paid in cash, adding that this was completely legal; when trapped by a written item, the intervener’s representative maintained that it was a stolen document that had a forged signature on it, but did not give any further explanations.
+[48] For his part, the appellant testified in a simple, clear, consistent, and reasonable manner. In addition, some documents validated his theory, although the figures do not completely match his reported total earnings.
+[49] According to the respondent’s and intervener’s theory or version, the appellant would have had to report employment income that was much greater than what was assigned by the respondent. To justify her interpretation, the respondent put forward that the income could have come from another source.
+[50] The appellant explained that he had in fact transported workers who were in fact co-workers. He picked up passengers and went to the work sites. Everyone, including the appellant, completed their work day; at the end of the day, the appellant finished his shift at the same time as his co-worker passengers and went back to the starting point in the morning, in return for $50, an amount that was added to his pay as an employee. The trips in question were essentially occasional.
+[51] This explanation is simple, clear, and consistent, while being reasonable, characteristics that are totally absent from the respondent’s evidence.
+[52] Both the testimonial evidence and the documentary evidence validate the appellant’s theory. As for the respondent’s evidence, which consisted mainly of the testimony from the intervener’s representative, it is not credible and was flimsy, relying mainly on theories and speculations, and was shaped by profound resentment for the appellant.
+[53] The appellant discharged the burden of proof that fell to him, in that a very decisive amount of the evidence validated the position expressed in his notice of appeal.
+[54] The respondent clearly and obviously conducted her analysis in a biased manner in that she essentially espoused the intervener’s theory, which relied on contradictions, inconsistencies, and explanations that were not credible.
+[55] For all these reasons, I am satisfied that the principal work performed by the appellant on behalf of and for the benefit of the intervener for the period at issue (January 1, 2014 to November 1, 2014) was a genuine contract of service. As for the very secondary and even marginal job that consisted of transporting workers on behalf of the intervener, that work was performed as a self-employed worker. For that work, the appellant admitted to receiving $550, which represented 11 round trips over a period of nearly 10 months.
+Signed at Ottawa, Canada, this 19th day of December 2017.
+“Alain Tardif”
+Tardif J.
+CITATION:
+2017 TCC 251
+COURT FILE NO.:
+2016-2456(EI)
+STYLE OF CAUSE:
+FARID KATTOUS v. M.N.R. and
+9250‑1469 QUÉBEC INC.
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+October 6, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Alain Tardif
+DATE OF JUDGMENT:
+December 19, 2017
+APPEARANCES:
+Counsel for the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Mounes Ayadi
+Counsel for the Intervener:
+Yannick Derome
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+[BLANK / EN BLANC]
+Firm:
+[BLANK / EN BLANC]
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+For the Intervener:
+Yannick Derome
+Firm:
+Derome Avocats
+Montréal, Quebec

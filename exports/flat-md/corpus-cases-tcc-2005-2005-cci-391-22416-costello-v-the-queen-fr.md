@@ -1,0 +1,130 @@
+---
+title: "Costello v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/22416/index.do"
+last_modified: "2005-06-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 391"
+citation2: ""
+neutral_citation: "2005 CCI 391"
+decision_date: "2005-06-17"
+language: "fr"
+item_id: "22416"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2273
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:49:05.587000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f1c852b968b4c0f9f271e55ee6e5c50f364df65f88d38aa896c50afd344f3901"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Costello v. The Queen
+
+- Citation: 2005 CCI 391
+- Decision date: 2005-06-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2273, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Costello v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-06-17
+Référence neutre
+2005 CCI 391
+Numéro de dossier
+2004-640(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-640(IT)I
+ENTRE :
+CHARLES COSTELLO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 9 juin 2005, à St. Catharines (Ontario)
+Devant : L'honorable juge G. Sheridan
+Comparutions :
+Représentant de l'appelant :
+Allen Crosgrey
+Avocate de l'intimée :
+Me Marie-Eve Aubry
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'égard de la cotisation établie aux termes de la Loi de l'impôt sur le revenu pour l'année d'imposition 2002 est rejeté, conformément aux motifs de jugement ci-joints.
+Signé à Ottawa (Canada) ce 17e jour de juin 2005.
+« G. Sheridan »
+Le juge Sheridan
+Traduction certifiée conforme
+ce 14e jour de décembre 2005.
+Joanne Robert, traductrice
+Référence : 2005CCI391
+Date : 20050617
+Dossier : 2004-640(IT)I
+ENTRE :
+CHARLES COSTELLO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Sheridan
+[1] L'appelant, Charles Costello, interjette appel de la cotisation établie pour l'année d'imposition 2002, dans laquelle le ministre du Revenu national refuse la déduction des paiements de pension alimentaire demandée pour cette année d'imposition. Il n'est pas contesté que M. Costello a payé une somme forfaitaire de 22 500 $ à son ex-épouse en 2002. La question est de savoir si cette somme est déductible comme « pension alimentaire » , au sens où l'entend le paragraphe 56.1(4) de la Loi de l'impôt sur le revenu :
+« pension alimentaire » Montant payable ou à recevoir à titre d'allocation périodique pour subvenir aux besoins du bénéficiaire, d'enfants de celui-ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas :
+a) le bénéficiaire est l'époux ou le conjoint de fait ou l'ex-époux ou l'ancien conjoint de fait du payeur et vit séparé de celui-ci pour cause d'échec de leur mariage ou union de fait et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent ou d'un accord écrit;
+b) le payeur est légalement le père ou la mère d'un enfant du bénéficiaire et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent rendue en conformité avec les lois d'une province.
+[2] Pour déterminer si la somme payée par M. Costello répond aux critères prévus par la loi, il est nécessaire d'examiner les circonstances relatives à son paiement. M. Costello et son ex-épouse se sont séparés en 1998. Aux termes d'une ordonnance de la Cour supérieure de justice d'Ontario[1] datée du 8 mars 2001, M. Costello a été tenu de payer, entre autres, une pension alimentaire provisoire de 600 $ par mois à son ex-épouse. M. Costello a pris du retard dans ses paiements. Entre-temps, la procédure de divorce s'est avérée être une affaire acrimonieuse. Pour résoudre les questions faisant obstacle au divorce, un règlement amiable[2] daté du 17 septembre 2002 a été établi. Le document a été rédigé par l'avocat de l'ex-épouse de M. Costello; il s'agit d'un document manuscrit dans lequel des passages ont été ajoutés, d'autres, rayés. Néanmoins, il fait état des modalités qui ont été convenues par les parties et qui ont par la suite été incluses dans une ordonnance de la Cour supérieure de justice d'Ontario[3], rendue sur consentement et datée du 30 septembre 2002. Le paragraphe 1 est libellé comme suit : [TRADUCTION] « [...] le répondant paiera à la requérante la somme de 22 500 $ en règlement complet de l'arriéré de pension alimentaire pour conjoint, d'une pension alimentaire future pour conjoint et de dépens. » Le paragraphe 7 stipule qu'au 17 septembre 2002, [TRADUCTION] « [...] tout arriéré au titre de la pension alimentaire sera éliminé. »
+[3] Le représentant de M. Costello a fait valoir que les 22 500 $ payés par M. Costello représentaient un arriéré d'environ 14 000 $ fondé sur les sommes périodiques payables aux termes de l'ordonnance du 8 mars 2001 ainsi que les dépens. Bien que la nature périodique des paiements ne change pas simplement parce que les paiements ne sont pas effectués à temps[4], il incombe au contribuable d'établir que les paiements périodiques en question ont été intégrés dans le paiement forfaitaire. J'accepte la position de la Couronne selon laquelle il n'y a aucun élément de preuve qui indique le montant exact de l'arriéré au 17 septembre 2002, et qu'il est difficile de savoir, d'après le témoignage de M. Costello, quels « dépens » sont visés; selon le règlement amiable[5] et l'ordonnance de consentement[6] du 30 septembre 2002, une ordonnance ne serait pas rendue relativement aux dépens.
+[4] Il ressort de la preuve documentaire que M. Costello a payé les 22 500 $ en règlement complet de l'arriéré (quel qu'en ait été le montant) et de toute obligation future de verser une pension alimentaire pour conjoint, des modalités que M. Costello a qualifiées d' « ultimatum » . Il a produit la pièce A-3 pour prouver le fait qu'il a transféré 22 500 $ à son ex-épouse à 11 h 3 le 20 septembre 2002. De son propre aveu, s'il n'avait pas payé cette somme au plus tard à midi le 20 septembre 2002, le divorce n'aurait pas eu lieu, une issue que M. Costello voulait à tout prix éviter à l'époque.
+[5] À l'appui de son argument selon lequel les 22 500 $ ne constituaient pas une « allocation périodique » , l'avocate de l'intimée a invoqué les facteurs énumérés par la Cour d'appel fédérale dans l'arrêt The Queen v. McKimmon[7], qui peuvent aider à déterminer si un paiement forfaitaire a un caractère de revenu ou de capital :
+1. L'intervalle auquel les paiements sont effectués.
+2. Le montant des paiements par rapport au revenu et au niveau de vie du débiteur et du bénéficiaire.
+3. Les paiements portent-ils intérêt avant leur date d'échéance?
+4. Les sommes en question peuvent-elles être payées par anticipation au gré du débiteur ou peuvent-elles être exigibles immédiatement à titre de pénalité au gré du bénéficiaire en cas de défaut de paiement.
+5. Les paiements permettent-ils au bénéficiaire d'accumuler un capital important?
+6. Les paiements sont-ils censés continuer pendant une période indéfinie ou être d'une durée fixe?
+7. Les paiements convenus peuvent-ils être cédés et l'obligation de payer subsiste-t-elle même après la mort du débiteur ou du bénéficiaire?
+8. Les paiements sont-ils censés libérer le débiteur de toute obligation future de verser une pension alimentaire?
+[6] Bien que cette liste ne soit pas exhaustive, elle fournit un cadre permettant d'examiner les circonstances d'un cas particulier. Dans la présente affaire, il n'est pas contesté que les 22 500 $ constituent un paiement unique. La somme devait être payée au plus tard à un moment fixe - soit à midi, trois jours seulement après la signature du règlement amiable - faute de quoi l'entente conclue aurait été frappée de nullité[8]. Le paiement que M. Costello a effectué a libéré celui-ci de toute obligation future de verser une pension alimentaire pour conjoint. La somme était importante par rapport à la rémunération de M. Costello, soit environ 75 % de son revenu pour l'année - en fait, la somme était si importante que M. Costello a dû emprunter des fonds pour s'acquitter de ses obligations. De façon semblable, cette somme a certainement permis à l'ex-épouse de M. Costello d'accumuler un certain capital.
+[7] Compte tenu des éléments de preuve qui m'ont été présentés, je ne peux conclure que les 22 500 $ constituent une « allocation périodique » au sens du paragraphe 56.1(4) de la Loi de l'impôt sur le revenu. Par conséquent, il ne s'agit pas d'une « pension alimentaire » , et la somme ne peut être déduite du revenu de M. Costello pour 2002 en vertu de l'alinéa 60b). L'appel est rejeté.
+Signé à Ottawa (Canada) ce 17e jour de juin 2005.
+« G. Sheridan »
+Le juge Sheridan
+Traduction certifiée conforme
+ce 14e jour de décembre 2005.
+Joanne Robert, traductrice
+[1]Pièce A-1
+[2]Pièce A-2
+[3]Pièce A-4
+[4] R. v. Sills (1984), 85 DTC 5096; Cour fédérale du Canada
+[5]Pièce A-2, paragraphe 13
+[6]Pièce A-4, paragraphe 10
+[7]90 DTC 6088
+[8] Pièce A-2, paragraphe 9

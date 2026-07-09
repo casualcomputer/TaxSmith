@@ -1,0 +1,265 @@
+Title: Donald L. Mancell Personal Law Corporation c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28888/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-521-28888-donald-l-mancell-personal-law-corporation-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2008-09-18
+
+# Donald L. Mancell Personal Law Corporation c. M.R.N.
+
+- Citation: 2008 CCI 521
+- Decision date: 2008-09-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1331, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Donald L. Mancell Personal Law Corporation c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-09-18
+Référence neutre
+2008 CCI 521
+Numéro de dossier
+2007-2041(CPP)
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2007-2041(CPP)
+ENTRE :
+DONALD L. MANCELL PERSONAL LAW CORPORATION,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+DONALD MANCELL,
+intervenant.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de JKBC Holdings Ltd. (2007‑2042(CPP)) le 11 août 2008, à Nanaimo (Colombie‑Britannique).
+Devant : L'honorable juge B. Paris
+Comparutions :
+Représentant de l'appelante :
+Me Donald Mancell
+Avocate de l'intimé :
+Me Christa Akey
+Pour l'intervenant :
+L'intervenant lui‑même
+________________________________________________________________
+JUGEMENT
+L'appel interjeté en vertu du paragraphe 28(1) du Régime de pensions du Canada à l'encontre de la décision rendue par le ministre du Revenu national le 16 février 2007 est accueilli, et la décision en cause est modifiée conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 18e jour de septembre 2008.
+« B. Paris »
+Le juge Paris
+Traduction certifiée conforme
+ce 2e jour d'avril 2009.
+Yves Bellefeuille, réviseur
+Dossier : 2007-2042(CPP)
+ENTRE :
+JKBC HOLDINGS LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+DONALD MANCELL et KATHRYN MANCELL,
+intervenants.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de Donald L. Mancell Personal Law Corporation (2007‑2041(CPP)) le 11 août 2008, à Nanaimo (Colombie‑Britannique).
+Devant : L'honorable juge B. Paris
+Comparutions :
+Représentant de l'appelante :
+Me Donald Mancell
+Avocate de l'intimé :
+Me Christa Akey
+Représentant des intervenants :
+Me Donald Mancell
+________________________________________________________________
+JUGEMENT
+L'appel interjeté en vertu du paragraphe 28(1) du Régime de pensions du Canada à l'encontre de la décision rendue par le ministre du Revenu national le 16 février 2007 est accueilli, et la décision en cause est modifiée conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 18e jour de septembre 2008.
+« B. Paris »
+Le juge Paris
+Traduction certifiée conforme
+ce 2e jour d'avril 2009.
+Yves Bellefeuille, réviseur
+Référence : 2008 CCI 521
+Date : 20080918
+Dossier : 2007-2041(CPP)
+ENTRE :
+DONALD L. MANCELL PERSONAL LAW CORPORATION,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+DONALD MANCELL,
+intervenant.
+Dossier : 2007-2042(CPP)
+ET ENTRE :
+JKBC HOLDINGS LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+DONALD MANCELL et KATHRYN MANCELL,
+intervenants.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] La société Donald L. Mancell Personal Law Corporation (« Law Corporation ») interjette appel de la décision rendue à son égard concernant le Régime de pensions du Canada (le « Régime ») relativement aux services que lui a fournis l'intervenant, Donald Mancell, en 2002, en 2003 et en 2004.
+[2] La société JKBC Holdings Ltd. (« JKBC ») interjette appel de la décision rendue à son égard concernant le Régime relativement aux services que lui ont fournis les intervenants, Donald et Kathryn Mancell, pendant les mêmes années.
+[3] Les questions en litige dans les présents appels sont de savoir si Donald Mancell exerçait un emploi ouvrant droit à pension pour Law Corporation, et si Donald et Kathryn Mancell exerçaient des emplois ouvrant droit à pension pour JKBC, au sens du paragraphe 6(1) du Régime. Les appelantes et les intervenants soutiennent que les Mancell n'ont jamais été des employés des sociétés, mais qu'ils étaient des entrepreneurs indépendants engagés en vertu de contrats d'entreprise.
+[4] À la demande des parties, les appels ont été entendus sur preuve commune. Maître Mancell a agi à titre de représentant pour les appelantes, et pour lui‑même et son épouse en tant qu'intervenants.
+[5] Les faits sur lesquels le ministre du Revenu national (le « ministre ») s'est fondé pour rendre ses décisions à l'égard des appelantes sont énumérés dans les réponses aux avis d'appel; ils sont reproduits ci‑dessous :
+[TRADUCTION]
+Law Corporation :
+9a) l'appelante a été constituée en personne morale dans la province de la Colombie‑Britannique en 1991; (admis)
+b) le travailleur a constitué l'appelante en personne morale afin qu'elle soit propriétaire d'un cabinet d'avocats; (admis)
+c) le travailleur était administrateur et dirigeant de l'appelante et le propriétaire unique des actions avec droit de vote de l'appelante; (admis)
+d) le travailleur a vendu le cabinet d'avocats en 1997; (admis)
+e) avant et après la vente du cabinet d'avocats effectuée en 1997, l'appelante était propriétaire d'un complexe d'une superficie de plus de 5 000 pieds carrés à Port Hardy, en Colombie‑Britannique; (admis)
+f) les responsabilités du travailleur consistaient notamment à fournir des conseils d'investissement relativement aux réparations et à l'entretien des immeubles, à fixer le montant des loyers et à mener des inspections des lieux; (admis)
+g) le travailleur gérait les affaires courantes de l'appelante;
+h) le travailleur s'acquittait de ses fonctions depuis un bureau installé à son domicile, à Comox, en Colombie‑Britannique;
+i) la rémunération du travailleur était constituée d'avances payées par l'appelante, et ses honoraires étaient déterminés en fin d'année, en fonction du rendement;
+j) le travailleur et son épouse détenaient tous deux le pouvoir de signature à l'égard du compte en banque de l'appelante; (admis)
+k) le travailleur décidait de ses propres jours et heures de travail; (admis)
+l) les montants payés par l'appelante au travailleur étaient des honoraires de gestion et des salaires;
+m) le travailleur a fourni ses propres instruments et son propre équipement pour remplir ses fonctions; (admis)
+n) le travailleur devait fournir ses services en personne;
+o) le travailleur n'a pas engagé de dépenses dans l'accomplissement de ses fonctions;
+p) le travailleur ne partageait pas les possibilités de réaliser des bénéfices ou les risques de perte de l'appelante;
+q) dans ses déclarations de revenus, le travailleur n'a pas demandé la déduction de frais personnels engagés lors de la prestation de ses services à l'appelante;
+r) dans les déclarations de revenus des sociétés de l'appelante, les montants versés au travailleur ont été comptabilisés en tant que salaires ou honoraires de gestion;
+s) le travailleur n'était pas un entrepreneur autonome;
+JKBC :
+9a) l'appelante a été constituée en personne morale dans la province de l'Alberta le 8 août 1996; (admis)
+b) l'appelante possède deux immeubles d'habitation, de 26 et de 22 unités respectivement, à Edmonton, en Alberta; (admis)
+c) les actions avec droit de vote de l'appelante appartiennent en parts égales aux travailleurs; (admis)
+d) les travailleurs sont administrateurs et actionnaires de l'appelante; (admis)
+e) Me Mancell est un dirigeant de l'appelante; (admis)
+f) pendant la période visée par l'appel, les travailleurs résidaient à Comox, en Colombie‑Britannique; (admis)
+g) les travailleurs donnaient des conseils d'investissement relativement aux réparations et à l'entretien des immeubles, fixaient le montant des loyers et menaient des inspections des lieux; (admis)
+h) les travailleurs formulaient des directives ou des recommandations à l'intention de l'appelante et des gestionnaires immobiliers relativement à l'entretien et aux réparations; (admis)
+i) les travailleurs étaient responsables de la gestion des affaires courantes de l'appelante et de la prise de toute décision commerciale;
+j) Me Mancell a fourni quelques services juridiques à l'appelante relativement aux expulsions; (admis)
+k) les immeubles d'habitation de l'appelante sont gérés professionnellement par Peter Miller, à Edmonton;
+l) les travailleurs ont reçu des avances sur les profits générés par l'appelante, mais le montant final était fixé à la fin de l'exercice de la société;
+m) les travailleurs n'ont jamais effectué de travail à titre gratuit pour l'appelante;
+n) les montants versés aux travailleurs par l'appelante étaient des honoraires de gestion et des salaires;
+o) les travailleurs devaient fournir leurs services en personne;
+p) les travailleurs n'ont pas engagé de dépenses dans l'accomplissement de leurs fonctions;
+q) dans leurs déclarations de revenus, les travailleurs n'ont pas demandé la déduction de frais personnels engagés lors de la prestation de leurs services à l'appelante;
+r) dans les déclarations de revenus des sociétés de l'appelante, les montants versés aux travailleurs ont été comptabilisés en tant qu'honoraires de gestion;
+s) les travailleurs n'étaient pas des entrepreneurs autonomes.
+Law Corporation
+[6] Law Corporation était propriétaire d'un bien locatif à Port Hardy, en Colombie‑Britannique, à trois heures et demie de route de la résidence des Mancell à Comox, en Colombie‑Britannique. Le bien comprenait six locaux commerciaux, un appartement et un bureau. Le bureau était loué par un avocat, Me Grier, qui assumait également les fonctions de concierge de l'immeuble en échange d'un loyer réduit. Maître Grier s'occupait des affaires courantes ainsi que des problèmes avec les locataires, et contactait Me Mancell si celui‑ci avait à agir d'une quelconque manière.
+[7] Maître Mancell a déclaré que son rôle dans la bonne marche de l'immeuble pouvait se comparer à celui d'un gestionnaire immobilier. Il trouvait des locataires, organisait tous les travaux de réparation et se chargeait des formalités administratives. La plupart des réparations étaient effectuées par des entrepreneurs, même s'il arrivait parfois à Me Mancell d'effectuer une partie du travail lui‑même avec ses propres outils. Il a déclaré qu'il visitait l'immeuble à quelques reprises chaque année.
+[8] Law Corporation a payé à Me Mancell les montants suivants :
+2002 :
+17 000 $
+2003 :
+22 000 $
+2004 :
+26 500 $
+Les montants versés étaient à peu près égaux aux profits générés par Law Corporation. Les paiements étaient effectués au fur et à mesure que Law Corporation recevait de l'argent.
+[9] Maître Mancell a déclaré qu'il effectuait la majorité de son travail pour Law Corporation à partir de son bureau à domicile, à Comox. Toute dépense engagée pour le travail accompli pour la société était facturée à celle‑ci, mais Me Mancell a ajouté qu'il ne facturait pas l'utilisation de son bureau. Il ne se considérait pas comme un employé, et il a affirmé qu'étant donné que la seule activité de Law Corporation consistait à gagner des revenus de location, la société n'avait pas besoin d'employés.
+[10] Il n'avait pas de contrat écrit avec Law Corporation et ne lui envoyait pas de factures pour le travail accompli. Il a dit qu'il ne facturait pas la TPS sur ses services étant donné que la société aurait pu demander un crédit de taxe sur les intrants pour la TPS qu'il aurait pu facturer, et que cela serait revenu au même. Il pensait que la société comptabilisait les montants qu'elle lui versait en tant qu'honoraires de gestion dans ses états financiers.
+[11] Pendant les périodes en cause, Me Mancell s'est absenté au moins deux fois pour faire des voyages prolongés aux États‑Unis et au Mexique en compagnie de son épouse et de ses enfants. Il a continué de surveiller l'immeuble de Port Hardy du mieux qu'il pouvait, en communiquant avec Me Grier par courrier électronique. Un ami et associé des Mancell, Peter Miller, pouvait conseiller Me Grier et signer des chèques pour les travaux à effectuer.
+JKBC
+[12] Maître et madame Mancell étaient les administrateurs de JKBC et en détenaient les actions avec leurs enfants. JKBC possédait deux immeubles d'habitation à Edmonton, lesquels étaient gérés par M. Miller. Ce dernier possédait également quelques immeubles d'habitation à Edmonton, et c'est lui qui a convaincu les Mancell d'y acheter des biens immobiliers.
+[13] La société de M. Miller facturait à JKBC des honoraires correspondant à 3 % des revenus de location bruts de cette dernière en échange des services de gestion immobilière qu'elle lui fournissait. Il y avait également des concierges rémunérés par JKBC sur place, dans les deux immeubles. Les concierges et M. Miller (par le truchement de sa société) prenaient les décisions courantes touchant les immeubles locatifs, tandis que Me Mancell se chargeait des décisions majeures ayant trait aux réparations et au montant des loyers.
+[14] Monsieur Miller et Me Mancell se rendaient à Edmonton environ deux fois par an, et y passaient environ trois jours à la fois à inspecter les immeubles, à dresser la liste des travaux requis et à recruter des entrepreneurs pour effectuer les travaux. Ils se renseignaient également sur l'état du marché locatif et immobilier à Edmonton. Maître Mancell se rendait occasionnellement à Edmonton pour les mêmes raisons. Madame Mancell ne l'accompagnait apparemment pas, mais on la consultait sur certaines questions liées à l'exploitation des biens locatifs, plus particulièrement sur la décoration des immeubles.
+[15] Maître et madame Mancell étaient rémunérés par JKBC tous les mois, et Me Mancell touchait des sommes additionnelles calculées en fonction des profits générés et des fonds dont la société disposait. Il a déclaré que, sur une période de deux ans, il était déjà arrivé à quelques reprises que son épouse et lui ne touchent pas de paiement parce que la société ne disposait pas d'argent. Toutefois, les photocopies des chèques faits par JKBC à l'ordre de Me et Mme Mancell et déposés en preuve (pièce A‑8) montraient qu'il n'y avait eu qu'un seul mois (janvier 2002) pendant lequel aucune somme n'avait été versée. Si on se fie à ces chèques, les totaux des montants reçus par Me et Mme Mancell étaient les suivants :
+Chèques faits à l'ordre de M. et Mme Mancell
+Chèques faits à l'ordre de M. Mancell
+2002
+14 000 $
+106 000 $
+2003
+55 000 $
+32 000 $
+2004
+56 000 $
+33 000 $
+[16] Au cours du contre‑interrogatoire, Me Mancell a dit que son épouse et lui avaient déclaré avoir reçu les montants suivants de JKBC :
+Kathryn Mancell
+Donald Mancell
+2002
+22 300 $
+37 000 $
+2003
+—
+28 000 $
+2004
+34 500 $
+34 500 $
+[17] Aucune explication n'a été donnée relativement aux différences constatées entre les montants versés par JKBC et les montants déclarés.
+Les arguments des parties
+[18] Maître Mancell a fait référence aux quatre facteurs fréquemment cités dans la jurisprudence pertinente relative à la question de savoir si une personne est engagée en vertu d'un contrat de louage de services ou d'un contrat d'entreprise : le contrôle, la propriété des instruments de travail, les chances de bénéfice et les risques de perte, et l'intégration du travailleur à l'entreprise qui lui verse une rémunération.
+[19] Maître Mancell a prétendu que ni son épouse ni lui n'ont reçu de directives de la part des appelantes au sujet de l'exécution de leurs tâches, qu'ils décidaient de leurs propres horaires de travail, et qu'ils ont même fait de longs voyages pendant la période où ils géraient les biens immobiliers de Law Corporation et de JKBC. Ils fournissaient leur propre bureau, même si une grande partie de leurs autres dépenses leur étaient remboursées. Ils ne s'occupaient pas de la gestion courante des biens locatifs, et leur travail ne leur prenait pas beaucoup de temps.
+[20] Maître Mancell a prétendu que l'analyse des facteurs pertinents montrait clairement que Mme Mancell et lui étaient des entrepreneurs indépendants.
+[21] L'avocate de l'intimé a déclaré que les tâches effectuées par Me et Mme Mancell étaient à juste titre considérées comme les fonctions d'un administrateur de personne morale, et non celles d'un entrepreneur indépendant. Elle a déclaré que dans la mesure où les administrateurs d'une personne morale sont visés par la définition de « fonctionnaire » donnée à l'article 2 du Régime, et où les fonctionnaires sont visés par la définition du terme « employé » donnée au même article, la Cour devrait conclure que Me et Mme Mancell étaient tous deux des employés de JKBC, et que Me Mancell était un employé de Law Corporation, et ce, du fait qu'ils étaient des administrateurs de ces sociétés.
+[22] L'avocate de l'intimé a fait valoir à titre subsidiaire que l'analyse des quatre éléments auxquels Me Mancell a renvoyé étayait également une telle conclusion.
+[23] Elle a prétendu que même si les sociétés n'exerçaient aucun contrôle sur le travail de Me et de Mme Mancell, elles n'en conservaient pas moins le pouvoir d'exercer un contrôle, ce qui constituait le facteur décisif selon la Cour d'appel fédérale dans l'arrêt Canada (Procureur général) c. Groupe Desmarais Pinsonneault & Avard inc., 2002 CAF 144.
+[24] L'avocate de l'intimé a aussi déclaré que les appelantes fournissaient en fait la plupart des instruments dont les Mancell avaient besoin pour accomplir leur travail en leur remboursant les dépenses engagées dans l'exercice de leurs fonctions. Elle a également soutenu qu'il n'y avait aucune chance de bénéfice ou risque de perte parce que même si le montant de leur rémunération avait pu fluctuer, Me et Mme Mancell avaient toujours été payés.
+[25] Finalement, l'avocate de l'intimé a dit qu'il n'y avait aucun élément de preuve corroborant le témoignage de Me Mancell selon lequel tant les appelantes que Me et Mme Mancell souhaitaient que les Mancell soient des entrepreneurs indépendants. Aucun accord écrit n'a été conclu et aucune TPS n'a été facturée aux appelantes. L'avocate de l'intimé a également soutenu que le fait que les montants versés aient été comptabilisés comme « honoraires de gestion » indiquait qu'on était en présence d'une relation employeur‑employé.
+Analyse
+[26] J'examinerai d'abord les observations de l'intimé selon lesquelles Me et Mme Mancell étaient des employés parce qu'ils étaient les administrateurs des appelantes.
+[27] Les définitions des termes « fonctionnaire » et « employé » énoncées à l'article 2 du Régime sont ainsi rédigées :
+« fonction » ou « charge » Le poste qu'occupe un particulier, lui donnant droit à un traitement ou à une rémunération déterminée ou constatable. Sont visés par la présente définition une charge judiciaire, la charge de ministre, de lieutenant‑gouverneur, de membre du Sénat ou de la Chambre des communes, de membre d'une assemblée législative ou d'un conseil législatif ou exécutif et toute autre charge dont le titulaire est élu par vote populaire ou est élu ou nommé à titre de représentant, y compris le poste d'administrateur de personne morale; « fonctionnaire » s'entend d'une personne détenant une telle fonction ou charge.
+« employé » Est assimilé à un employé tout fonctionnaire.
+[28] Pour que le poste d'administrateur entre dans la définition de « fonctionnaire » reproduite ci‑dessus, l'administrateur doit avoir « droit à un traitement ou à une rémunération déterminée ou constatable » en échange de ses services. En l'espèce, aucune preuve ne laisse penser que les montants versés à Me et à Mme Mancell par les appelantes étaient liés aux activités auxquelles ils se sont livrés en leur qualité d'administrateurs, et le ministre n'a formulé aucune hypothèse en ce sens quand il a procédé aux décisions. Je ne suis pas convaincu que les administrateurs des deux sociétés appelantes avaient droit à un traitement déterminé ou constatable, et, par conséquent, le premier argument de l'intimé ne peut être accueilli.
+[29] Je ne suis pas non plus convaincu que le travail effectué par Me et Mme Mancell, pour lequel ils étaient payés, correspondait au travail habituellement accompli par un administrateur de personne morale. Une grande partie des tâches accomplies semblent avoir davantage relevé du travail d'un gestionnaire immobilier que d'un administrateur.
+[30] Par conséquent, il est nécessaire d'effectuer une analyse des composantes de la relation liant les appelantes d'une part, et Me et Mme Mancell d'autre part, en suivant la démarche prescrite dans l'arrêt Wiebe Door Services Ltd. c. M.R.N., [1986] 3 C.F. 553 (C.A.F.), et approuvée par la Cour suprême dans l'arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., 2001 CSC 59. En l'espèce, les facteurs pertinents sont le contrôle que les appelantes exerçaient sur les activités des Mancell, la propriété des instruments de travail, et les chances de profit et risques de pertes associés aux activités du couple.
+[31] Je conviens avec l'avocate de l'intimé qu'il est difficile de déterminer le degré de contrôle qu'une société exerce sur un travailleur quand celui‑ci est soit le seul administrateur, soit l'un des deux administrateurs de la société en question. Toutefois, en l'espèce, la preuve montre que les Mancell n'avaient pas à travailler selon un horaire fixe et qu'ils n'étaient pas responsables de la gestion des affaires courantes. Ils prenaient des vacances (parfois longues) quand ils le souhaitaient, et ils s'arrangeaient alors pour que quelqu'un (M. Miller) les remplace et assume leurs responsabilités en leur absence. À cet égard, le facteur du contrôle indique qu'on se trouvait en présence d'un contrat d'entreprise.
+[32] Dans la mesure où les dépenses liées à l'utilisation du bureau à domicile des Mancell n'étaient pas remboursées, le deuxième facteur décrit dans l'arrêt Wiebe Door, soit la propriété des instruments de travail utilisés, fait également pencher la balance en faveur d'un contrat d'entreprise.
+[33] Je conclus également que les Mancell avaient des chances substantielles de faire des bénéfices, étant donné que la plupart des bénéfices des appelantes, si ce n'est leur intégralité, leur étaient versés conformément aux arrangements de travail qu'ils avaient conclus. Dans une certaine mesure, ces profits dépendaient des décisions prises au sujet du montant des loyers et des dépenses engagées pour l'exploitation des biens locatifs.
+[34] Il semble aussi que les Mancell aient pu avoir un léger risque de pertes dans l'exercice de leurs fonctions pour les appelantes. On m'a donné à entendre que les Mancell n'étaient payés que lorsque l'exploitation des biens locatifs des appelantes générait des profits. Si les activités des appelantes n'étaient pas rentables, les Mancell continuaient quand même d'assumer seuls les coûts du bureau à domicile.
+[35] Bien que l'intention des parties au sujet de leur relation puisse s'avérer pertinente dans des affaires de ce genre, la preuve concernant l'intention des parties n'est pas très claire en l'espèce. L'explication que Me Mancell a donnée pour justifier son omission de facturer la TPS sur ses honoraires de gestion n'est pas très convaincante, et il est également surprenant que les arrangements contractuels entre les appelantes et les Mancell n'aient pas été couchés sur papier. Considérant le lien de dépendance qui existe entre les parties et les importantes sommes d'argent versées, on se serait attendu à ce que certains documents aient été rédigés. J'en déduis que le statut des Mancell auprès des appelantes n'a pas fait l'objet de profondes réflexions.
+[36] À la lumière de l'analyse qui précède, je conclus que l'ensemble des facteurs pertinents étaye la position des appelantes voulant que les Mancell aient été engagés en vertu de contrats d'entreprise. En tirant une telle conclusion, j'accorde la plus grande importance à l'absence de supervision ou de contrôle de la part des appelantes sur le travail des Mancell, laquelle absence constitue un indice très convaincant de l'existence d'un contrat d'entreprise.
+[37] Les appels sont par conséquent accueillis.
+Signé à Ottawa, Canada, ce 18e jour de septembre 2008.
+« B. Paris »
+Le juge Paris
+Traduction certifiée conforme
+ce 2e jour d'avril 2009.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE :
+2008CCI521
+NOS DES DOSSIERS DE LA COUR :
+2007-2041(CPP) et 2007-2042(CPP)
+INTITULÉS :
+Donald L. Mancell Personal Law Corporation c. Le ministre du Revenu national;
+JKBC Holdings Ltd. c. Le ministre du Revenu national
+LIEU DE L'AUDIENCE :
+Nanaimo (Colombie‑Britannique)
+DATE DE L'AUDIENCE :
+Le 11 août 2008
+MOTIFS DU JUGEMENT :
+L'honorable juge B. Paris
+DATE DU JUGEMENT :
+Le 18 septembre 2008
+COMPARUTIONS :
+Représentant des appelantes :
+M. Donald Mancell
+Avocate de l'intimé :
+Me Christa Akey
+Représentant des intervenants :
+M. Donald Mancell
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelantes :
+Nom :
+Cabinet :
+Pour l'intimé : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,131 @@
+Title: Knee c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28906/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-560-28906-knee-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2008-10-02
+
+# Knee c. M.R.N.
+
+- Citation: 2008 CCI 560
+- Decision date: 2008-10-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1414, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Knee c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-10-02
+Référence neutre
+2008 CCI 560
+Numéro de dossier
+2005-3109(EI)
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2005-3109(EI)
+ENTRE :
+BERNICE MARY KNEE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+M.E.R. SALES & SERVICES LTD.,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 26 septembre 2008,
+à Gander (Terre-Neuve-et-Labrador)
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Avocat de l’appelante :
+Me Archibald R. Bonnell
+Avocat de l’intimé :
+Me Toks C. Omisade
+Avocat de l’intervenante :
+Me Archibald R. Bonnell
+____________________________________________________________________
+JUGEMENT L’appel interjeté par l’appelante en application de la Loi sur l’assurance‑emploi (la « Loi ») à l’encontre de la décision de l’intimé selon laquelle l’emploi qu’exerçait l’appelante auprès de l’intervenante pendant la période du 21 décembre 2003 au 24 décembre 2004 n’était pas assurable au sens de l’article 5 de la Loi est rejeté, sans dépens.
+Signé à Halifax (Nouvelle‑Écosse), ce 2e jour d’octobre 2008.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 6e jour de novembre 2008
+Hélène Tremblay, traductrice
+Référence : 2008CCI560
+Date : 20081002
+Dossier : 2005-3109(EI)
+ENTRE :
+BERNICE MARY KNEE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+M.E.R. SALES & SERVICES LTD.,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] La question à trancher dans le présent appel est de savoir s’il était raisonnable de la part de l’intimé de conclure que l’emploi qu’exerçait l’appelante auprès de l’intervenante pendant la période du 21 décembre 2003 au 24 décembre 2004 n’était pas assurable aux fins de la Loi sur l’assurance‑emploi (la « Loi »).
+[2] Le paragraphe 5(2) de la Loi prévoit en partie ce qui suit :
+N’est pas un emploi assurable :
+[...]
+i) l’emploi dans le cadre duquel l’employeur et l’employé ont entre eux un lien de dépendance.
+[3] Le paragraphe 5(3) de la Loi prévoit ce qui suit :
+(3) Pour l’application de l’alinéa (2)i),
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l’impôt sur le revenu;
+b) l’employeur et l’employé, lorsqu’ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[4] Il est difficile d’établir qui étaient les actionnaires de l’intervenante. La réponse à l’avis d’appel contient une hypothèse de fait selon laquelle William Knee (le conjoint de l’appelante) détenait 50 % des actions de l’intervenante et que le reste était détenu par Audrey Knee, qui était la conjointe de William Knee jusqu’à ce qu’elle décède il y a de cela plusieurs années. William Knee a témoigné et a affirmé qu’il y avait trois actionnaires et qu’il s’agissait‑là d’une exigence prévue dans les statuts et règlements établis par l’intervenante lorsqu’elle a été constituée en société. Ces trois actionnaires étaient William Knee, Audrey Knee et l’avocat qui avait constitué l’intervenante en société. Vraisemblablement, l’avocat détenait ses actions en fiducie pour William Knee. Audrey Knee n’avait pas de testament lorsqu’elle est décédée et ses actions n’ont été transférées à personne. William Knee ne savait pas combien d’actions chaque personne détenait, mais il a affirmé qu’il détenait une participation majoritaire. L’intimé n’a pas contesté ce point. Je conclus donc que William Knee détenait une participation majoritaire dans l’intervenante et que, par conséquent, l’appelante et l’intervenante étaient liées aux fins de la Loi de l’impôt sur le revenu en raison des dispositions prévues à l’alinéa 251(2)b) de cette loi, et qu’elles avaient entre elles un lien de dépendance selon l’alinéa 251(1)a) de cette même loi. Par conséquent, la question à trancher en l’espèce est de savoir s’il était raisonnable de la part du ministre du Revenu national de conclure que l’appelante et l’intervenante n’auraient pas conclu entre elles un contrat de travail à peu près semblable pour la période en cause si elles n’avaient pas eu de lien de dépendance.
+[5] Dans la décision Porter c. M.N.R., 2005 CCI 364, la juge Campbell a examiné des décisions de la Cour et de la Cour d’appel fédérale concernant le rôle que joue la Cour dans ce type d’appels. Au paragraphe 13 de sa décision, la juge Campbell a affirmé ce qui suit :
+En résumé, le rôle de la Cour consiste à vérifier l’existence et l’exactitude des faits sur lesquels le ministre se fonde, à examiner tous les faits mis en preuve devant elle, notamment tout nouveau fait, et à décider ensuite si la décision du ministre paraît toujours « raisonnable » à la lumière des conclusions de fait tirées par la Cour. Elle doit accorder une certaine déférence au ministre dans le cadre de cet exercice.
+[6] L’intervenante exploite une entreprise de travaux électriques, mécaniques et de réfrigération. Les principaux clients de l’intervenante sont la société Atlantic Wholesalers, des usines de transformation du poisson et des usines de transformation de baies. L’intervenante faisait aussi des travaux de câblage dans des maisons et de réparation de camions réfrigérés.
+[7] Par le passé, l’appelante avait principalement travaillé dans des magasins de détail. Avant de marier William Knee, elle a travaillé pendant 25 ans ou plus dans une épicerie et une mercerie. Parmi les tâches qu’elle devait accomplir, elle était chargée de faire les retenues sur les paies des employés. De plus, elle a suivi un cours de tenue de livres lorsqu’elle habitait à Labrador City.
+[8] Lorsque l’appelante a marié William Knee, en 1998, c’était un commis comptable de l’extérieur qui s’occupait de la tenue des livres pour l’intervenante. L’appelante a pris cette tâche en charge et faisait la tenue des livres quotidienne pour l’intervenante. Au départ, elle n’était pas payée pour son travail. Il en a été ainsi pendant environ un an et demi. Elle est ensuite devenue une employée de l’intervenante en janvier 2000. Pendant la période d’emploi en cause, elle recevait 600 $ la quinzaine, et ce, jusqu’à la semaine se terminant le 23 avril 2004, alors qu’elle a commencé à recevoir 700 $ la quinzaine. Ces montants comprennent une paie de vacances. Ils étaient établis en partant du principe qu’elle travaillait six heures par jour, cinq jours par semaine. Elle était donc payée 10 $ l’heure jusqu’au 23 avril 2004, lorsqu’elle a commencé à recevoir 11,67 $ l’heure.
+[9] Elle a décrit ses tâches comme étant des tâches générales de tenue des livres, ce qui comprenait l’établissement des chèques de paie des employés et des chèques à l’intention des fournisseurs ainsi que l’établissement des déclarations de TVH. Elle a changé la période de déclaration de l’intervenante. Donc, au lieu d’établir une déclaration par année, elle établissait maintenant une déclaration par trimestre. L’appelante s’occupait aussi des opérations bancaires de l’intervenante. William Knee et elle ont tous deux confirmé qu’elle faisait parfois des courses pour l’intervenante, comme aller chercher des pièces ou, à une occasion, aller porter du Fréon à William Knee alors qu’il travaillait à un endroit éloigné. Toutefois, rien n’indique que cette livraison de Fréon a eu lieu pendant la période d’emploi en cause. De plus, l’appelante travaillait avec William Knee lorsqu’il devait préparer une soumission pour un appel d’offres.
+[10] L’appelante a affirmé que selon elle, elle a bel et bien travaillé six heures par jour, cinq jours par semaine pendant la période en cause. Toutefois, elle n’a pas approuvé l’hypothèse formulée par l’intimé voulant qu’elle était chargée d’établir en moyenne 30 chèques par mois, y compris ses propres chèques de paie à la quinzaine et les chèques de paie hebdomadaires pour les autres employés, d’effectuer les paiements à l’intention d’au plus 20 fournisseurs et d’établir les factures pour en moyenne 12 clients par mois. Elle a affirmé qu’elle se rendait à la banque environ une à deux fois par semaine pour déposer de l’argent, ce qui donne un total d’environ six visites à la banque par mois. L’appelante n’était pas en mesure de préciser combien de temps elle consacrait à chacune de ces tâches. Même s’il est possible qu’elle ait travaillé six heures par jour, cinq jours par semaine, il n’en demeure pas moins que la question à trancher est de savoir si l’appelante et l’intervenante auraient conclu entre elles un contrat de travail à peu près semblable si elles n’avaient pas eu de lien de dépendance.
+[11] L’appelante a expliqué que sa journée débutait le matin, avant que William Knee ne se rende sur les lieux de travail. Pendant le jour, elle répondait au téléphone pour l’intervenante, mais elle ne faisait que transmettre les messages à William Knee. Il importe aussi de souligner que les factures de l’intervenante portaient un numéro de téléphone cellulaire, ce qui veut donc dire que les clients pouvaient communiquer directement avec William Knee grâce à son téléphone cellulaire. L’appelante rencontrait aussi William Knee à son retour du travail. Cependant, le seul élément de témoignage qui rend compte de l’heure à laquelle il revenait du travail se trouve dans la réponse à une question posée par l’avocat de l’appelante. La question concernait l’heure à laquelle William Knee était rentré du travail la veille de l’audience. Il a répondu qu’il n’était rentré que très tard le soir. Si l’appelante n’arrivait à la maison que très tard, on peut se poser la question de savoir s’il restait assez de temps à l’appelante pour travailler ses six heures par jour.
+[12] Une copie de la liste des employés et des montants qui leurs étaient payés en 2003 et en 2004 a été produite en preuve. L’horaire indique qu’il y avait deux employés en décembre 2003, soit l’appelante et John Shearing, mais l’appelante était la seule employée pendant la dernière semaine de décembre. Pendant les quatre premiers mois de 2004, l’appelante était la seule employée. Pour ce qui est des mois de mai, juin et juillet de l’année 2004, il y avait deux employés, soit l’appelante et Garry Goodyear. Pendant une semaine en août, il y avait trois employés, soit l’appelante, Garry Goodyear et John Nichol, et pour le reste du mois d’août, il n’y avait que deux employés, soit l’appelante et Garry Goodyear. Pendant le mois de septembre, pendant deux semaines d’octobre et pendant trois semaines de novembre, l’appelante était la seule employée. Pour ce qui est du reste de l’année, à tout moment, il n’y avait que deux employés, c’est‑à‑dire l’appelante et soit Stirling Knee, soit Melissa Baker. L’appelante est la seule personne ayant travaillé auprès de l’intervenante pendant toute la période du 21 décembre 2003 au 24 décembre 2004.
+[13] Par conséquent, pendant un total d’environ six mois de la période de douze mois débutant le 21 décembre 2003 et se terminant le 24 décembre 2004, l’intervenante n’avait qu’une seule employée. Il s’agissait de l’appelante, qui s’occupait de la tenue des livres. Pourquoi une société qui exploite une entreprise de travaux électriques, mécaniques et de réfrigération compterait‑elle une commis comptable comme seule employée? Ceci soulève un certain doute quant à savoir si l’intervenante et l’appelante auraient conclu entre elles un contrat de travail à peu près semblable si elles n’avaient pas eu de lien de dépendance. Il semble déraisonnable que pendant un total d’environ six mois dans une année, une société qui exploite une entreprise de travaux électriques, mécaniques et de réfrigération n’ait qu’une seule employée et que cette employée soit une commis comptable qui ne connaît rien des travaux électriques, mécaniques et de réfrigération.
+[14] De plus, le fait que l’appelante était payée pour travailler six heures par jour, cinq jours par semaine pendant toute la période soulève la question de savoir si l’intervenante aurait aussi payé une personne avec laquelle elle n’avait aucun lien de dépendance qui aurait exécuté les mêmes tâches qu’exécutait l’appelante selon le même horaire et à la même fréquence que celle‑ci. Comme on l’a déjà souligné, l’appelante établissait en moyenne 30 chèques par mois, y compris les chèques de paie et les chèques à l’intention des fournisseurs. L’intervenante faisait affaire avec tout au plus 20 fournisseurs. L’appelante établissait aussi les factures à l’intention d’environ 12 clients par mois. De plus, elle faisait les dépôts bancaires une ou deux fois par semaine.
+[15] Si on suppose que l’appelante passait en moyenne une heure à établir chaque chèque – opération qui comprenait la recherche de l’information nécessaire pour les remplir – et deux heures à établir chaque facture, le nombre d’heures consacrées à ces deux activités serait donc 54 heures par mois. De plus, si on suppose que l’appelante allait faire des dépôts bancaires six fois par mois et qu’elle consacrait une heure à cette tâche, ceci ne fait qu’ajouter six heures par mois, ce qui donne un total de 60 heures par mois. Elle était payée pour 120 heures de travail par mois, ce qui veut donc dire qu’il lui restait 60 heures par mois pour faire des courses et, chaque trois mois, produire la déclaration de TVH. On peut aussi déduire que l’établissement des chèques devait prendre moins de temps dans les périodes au cours desquelles l’appelante était la seule employée.
+[16] De surcroît, l’appelante a continué de travailler sans rémunération auprès de l’intervenante après qu’elle ait cessé d’être une employée. Ceci vient également jeter un doute à savoir si l’appelante et l’intervenante auraient conclu entre elles un contrat de travail à peu près semblable si elles n’avaient pas eu de lien de dépendance.
+[17] Par conséquent, à mon avis, les faits présentés en l’espèce ne permettent pas de conclure qu’il était déraisonnable de la part du ministre de déduire que l’appelante et l’intervenante n’auraient pas conclu entre elles un contrat de travail à peu près semblable si elles n’avaient pas eu de lien de dépendance.
+[18] Il y a un autre élément qu’aucune des deux parties n’a souligné. Il s’agit de la date de cessation d’emploi. Étant donné que la période d’emploi en cause se termine le 24 décembre 2004 et que l’appelante a affirmé avoir été mise à pied en décembre 2004, l’emploi de celle‑ci a donc vraisemblablement cessé en date du 24 décembre 2004 (soit la veille de Noël). La durée de l’emploi est un facteur dont il faut tenir compte en application de l’alinéa 5(3)b) de la Loi. Ceci peut comprendre la date de cessation d’emploi. L’intervenante aurait‑elle mis un terme à l’emploi de l’appelante la veille de Noël si elle avait entretenu avec elle une relation sans lien de dépendance? Il ne s’agit pas là d’une date de cessation d’emploi plausible dans le cas d’un employé qui n’a pas de lien de dépendance avec son employeur et qui n’a pas été mis à pied après avoir commis une quelconque mauvaise action.
+[19] William Knee a affirmé que l’appelante a été mise à pied parce que l’intervenante avait subi des pertes de 22 000 $ relativement à un contrat. Bien qu’il s’agit‑là d’une bonne raison de réduire l’effectif, le fait que la mise à pied a eu lieu la veille de Noël porte à croire que la durée du contrat de travail aurait été différente si l’intervenante et l’appelante n’avaient pas eu de lien de dépendance. On peut donc se demander si William Knee et l’appelante n’accordaient aucune importance à cette date parce qu’ils s’attendaient à ce que les prestations d’assurance‑emploi soient envoyées à la même résidence que l’était le salaire de l’appelante. Aussi, si les prestations avaient été envoyées à une autre résidence (ce qui serait le cas si l’employé n’avait pas de lien de dépendance avec l’intervenante) la date de cessation d’emploi (et par le fait même, la durée de l’emploi) aurait‑elle été la même?
+[20] Par conséquent, l’appel interjeté en application de Loi à l’encontre de la décision de l’intimé selon laquelle l’emploi exercé par l’appelante auprès de l’intervenante pendant la période du 21 décembre 2003 au 24 décembre 2004 n’était pas assurable au sens de l’article 5 de la Loi est rejeté, sans dépens.
+Signé à Halifax (Nouvelle‑Écosse), ce 2e jour d’octobre 2008.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 6e jour de novembre 2008
+Hélène Tremblay, traductrice
+RÉFÉRENCE : 2008CCI560
+N° DE DOSSIER : 2005-3109(EI)
+INTITULÉ : BERNICE MARY KNEE ET M.R.N. ET M.E.R. SALES & SERVICES LTD.
+LIEU DE L’AUDIENCE : Gander (Terre-Neuve-et-Labrador)
+DATE DE L’AUDIENCE : Le 26 septembre 2008
+MOTIFS DU JUGEMENT PAR : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 2 octobre 2008
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Archibald Bonnell
+Avocat de l’intimé :
+Me Toks Omisade
+Avocat de l’intervenante :
+Me Archibald Bonnell
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Me Archibald Bonnell
+Cabinet : Archibald Bonnell Law Office
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

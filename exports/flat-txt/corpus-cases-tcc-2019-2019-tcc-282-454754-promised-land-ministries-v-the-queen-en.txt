@@ -1,0 +1,195 @@
+Title: Promised Land Ministries v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/454754/index.do
+Corpus path: corpus/cases/tcc/2019/2019-tcc-282-454754-promised-land-ministries-v-the-queen-en.md
+Document type: case_law
+Last modified: 2019-12-13
+
+# Promised Land Ministries v. The Queen
+
+- Citation: 2019 TCC 282
+- Decision date: 2019-12-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4295, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Promised Land Ministries v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-12-13
+Neutral citation
+2019 TCC 282
+File numbers
+2015-4620(IT)G
+Judges and Taxing Officers
+Kathleen T. Lyons
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2015-4620(IT)G
+BETWEEN:
+PROMISED LAND MINISTRIES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Written Submissions on Costs
+By: The Honourable Justice K. Lyons
+Counsel for the Appellant:
+Robert Neilson
+Counsel for the Respondent:
+Wendy Bridges
+ORDER
+Upon reading the parties’ submissions on costs;
+It is ordered that the respondent is awarded costs in the lump sum amount of $3,000 in lieu of taxed costs, and disbursements in the amount of $285.59 in accordance with the attached Reasons for Order.
+Signed at Edmonton, Alberta, this 13th day of December, 2019.
+“K. Lyons”
+Lyons J.
+Citation 2019 TCC 282
+Date: 20191213
+Docket: 2015-4620(IT)G
+BETWEEN:
+PROMISED LAND MINISTRIES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+[1] The respondent was successful in the appeal brought by Promised Land Ministries (“PLM”) and seeks from PLM costs in the amount of $5,475, computed in accordance with Schedule II, Tariff B (“Tariff”), and disbursements. The respondent’s position is the costs are reasonable having regard to certain factors and the jurisprudence supporting amounts in excess of the Tariff. [1] PLM asserts a nominal cost award is warranted or, alternatively, a fraction of Tariff costs not exceeding 50%. The essence of PLM’s submissions is it is a small charity and will have difficulty paying, it is unable to deduct legal fees and expenses incurred to pursue its appeal and the respondent ought to have conceded the donation receipts aspect (“donation receipts”) before hearing the appeal. [2]
+[2] The appeal centred on whether the decision of the Minister of National Revenue, pursuant to subsection 188.2(2) of the Income Tax Act (the “Act”), to suspend PLM’s charitable receipting privileges and qualified-donee status for one year was reasonable (the “Suspension”) and the reasonableness of the consequence imposed.
+[3] PLM provided spiritual guidance and teachings locally and overseas. In 2009, it executed a Compliance Agreement (the “Agreement”) with Canada Revenue Agency (“CRA”) in which PLM agreed it would maintain adequate books and records pursuant to subsections 230(2) and 230(4) of the Act (the “subsections”) and implement corrective measures as it had failed to produce documentation to support its overseas expenditures for 2007. After a desk audit of its 2011 and 2012 taxation years, the Minister issued the Suspension, effective January 21, 2015, as a result of PLM’s failure to provide the requested books and records to substantiate (mostly overseas) expenditures and because of its failure to implement the corrective measures agreed to. [3]
+I. Principles for costs awards
+[4] A successful party is generally entitled to costs. A costs award should contribute to and partially compensate for the successful party’s costs of pursuing the appeal based on what is appropriate in the circumstances; it is not intended to be punitive to the losing party. [4]
+[5] Though the Court can consider the amounts of costs set out in the Tariff, these amounts are not determinative. If these are found to be unsatisfactory, the Court has the discretion to award costs beyond Tariff; exceptional circumstances are not needed to set aside Tariff. [5]
+[6] It is well established that the Tax Court has a broad discretionary power to award costs, or not, as supported by the language in section 147 of the Tax Court of Canada Rules (General Procedure) (the “Rules”) attached as Appendix A to these reasons. This discretion must be exercised on a principled basis. [6]
+[7] Subsection 147(1) of the Rules provides that the Court may determine the amount of the costs of all parties involved in the proceeding, the allocation of same and the persons required to pay them. To assist the Court in determining whether it ought to exercise its discretionary power under that subsection, this Court may consider the factors set out in subsection 147(3) of the Rules. The amounts and complexity of the issues alone may not be a reason for departing from costs in the Tariff. [7] Amongst other things, subsection 147(5) provides the Court with the discretion to award or refuse costs in respect of a particular issue or part of a proceeding or a percentage of taxed costs.
+[8] Under subsection 147(4) of the Rules, the Court may fix costs, partially or wholly, with or without reference to the Tariff, and it may award a lump sum in lieu of or in addition to any taxed costs after consideration of the amounts at issue, the complexity and the importance of those issues, the work generated and a party’s success. [8]
+[9] In considering section 147 of the Rules, are costs warranted in the circumstances of the present case? If so, on what basis?
+II. Analysis
+[10] As noted, the factors in paragraphs 147(3) (a) to (j) of the Rules assist in making such determination. In the present case, factors in paragraphs 147(3)(a), (c),(e),(f) and (g) were addressed primarily by the respondent. [9] She submits that her success in the appeal and the importance and complexity of the issues, would normally support an increase cost award such that the costs sought, based on Tariff, are inherently reasonable.
+Result of the proceeding - paragraph 147(3)(a)
+[11] The respondent was wholly successful on both issues in the appeal. For this factor, I find that the result favours a costs award favouring the respondent.
+Importance of the Issues – paragraph 147(3)(c)
+[12] The respondent notes in her submissions that the determination of the issues in the present appeal provides important guidance to other charities and the Minister on the range and reasonableness of responses to a charity’s failure to maintain adequate books and records. The reasonableness of the Minister’s actions and responses in the face of a charity’s failure to follow the statutory rules, is of import to - and helps protect - the public and the fisc. As I noted in the Judgment, registered charities enjoy a special status and have advantages over unregistered organizations. Until the Judgment, most jurisprudence dealt with revocation of a registered charity’s registration, whereas the present case considered a suspension of receipting privileges and qualified-donee status under subsection 188.2(2) of the Act and consideration of the consequence imposed in the context of the graduated step approach.
+[13] I find that this factor favours an appropriate award of costs in favour of the respondent and would justify an increase over Tariff.
+Volume of work – paragraph 147(3)(e)
+[14] The litigation steps were in the ordinary range even though PLM had produced evidence regarding donation receipts were found to be largely irrelevant to the issues in the appeal. Parties exchanged lists of documents, completed written examination for discovery and called four ordinary witnesses over the two-day hearing of the appeal. I find that the volume of work for the respondent was a factor but not a driving one and would not merit a larger costs award for the respondent in excess of Tariff.
+Complexity of issues – paragraph 147(3)(f)
+[15] The respondent submits that there is an inherent complexity to considerations of reasonableness. I agree. The Court was required to evaluate the reasonableness of the Minister’s determination that PLM failed to maintain adequate books and records and the reasonableness of the consequence imposed. There was little judicial guidance on the consequence chosen by the Minister.
+[16] I find that this factor justifies an appropriate costs award in favour of the respondent and would support an increase over Tariff.
+Conduct of any party that tended to shorten or to lengthen unnecessarily the duration of the proceeding - paragraph 147(3)(g)
+[17] The Court’s comments in the Judgment that evidence relating to the donations receipting system was largely irrelevant to the appeal was highlighted by the respondent in support of her submission on costs that PLM’s conduct unnecessarily lengthened the duration of the hearing. She points to the volume of documentary evidence PLM adduced in that regard and suggests that this could justify an increase over Tariff. [10]
+[18] PLM, in turn, countered that at all times the respondent took the position that PLM’s books and records were inadequate, on the basis that, inter alia, “The list of official donation receipts issued during the audit period did not report all of the cancelled official donation receipts or identify the receipts issued to replace the cancelled receipts.”
+[19] As noted by PLM, that basis forms the first part (“first part”) of a five-part answer given by the CRA auditor in response to question 4 b. of the examination for discovery. That answer and excerpts of some of the auditor’s other responses are in Appendix 1 to the Judgment (the “Appendix”). Question 4 b. asks, “What are all the ways the respondent says the books and records maintained by PLM were not proper…” for the purpose of the subsections. That was predicated on paragraph 8 of the Reply which merely says that the Suspension was issued to PLM on the basis that it failed to maintain proper books and records as required by the subsections.
+[20] A few years before the discovery, the auditor sent the letter dated May 27, 2014 to PLM (“May letter”) in which he had used virtually the same language in point 1 - regarding donation receipts - as the language he used in the first part of his discovery response. [11] Point 1 is one of five points under the subheading “Failure to maintain adequate books and records.” [12] However, the auditor does not rely on point 1 for his conclusion under that subheading. Rather, he concludes “it is our position that the Organization [PLM] failed to maintain adequate books and records” because of PLM’s failure to provide any information as to its expenditures and despite PLM’s previous commitment under the Agreement to take corrective measures as to the substantiation of overseas expenditures. That position aligns with paragraph 8 of the Reply.
+[21] Confirmation of the respondent’s position can be further gleaned from CRA Appeals branch correspondence in May 2015 in stating that: [13]
+The Notice of Suspension was issued as a result of the Organization’s failure to provide books and records to support certain reported expenditures as requested during the audit. As a result, the Office Audit Officer was unable to verify the reported information and determine whether books and records were adequately maintained. The objection was not accompanied by any further documentation to support these expenditures.
+The failure to maintain adequate books and records was an issue in the previous audit. Given the present findings, the Organization has failed to implement corrective measures to maintain adequate books and records as stated in the Compliance Agreement. [Emphasis added]
+[22] Given the respondent’s position was clearly based on expenditures, it explains, in my view, why there is no hint in the parties’ pleadings that the donations receipts aspect was placed in dispute between the parties. The pleadings reveal that no facts were pled nor submissions made in that regard. [14]
+[23] Undoubtedly, CRA was concerned about donations receipts at the outset of and during the audit. However, the foregoing establishes that at some point in 2014 CRA was no longer interested in donations receipts and by May 2015, it is made clear that expenditures aspect was the basis for the issuance of the Suspension in January 2015. Consequently, I have difficulty with PLM’s submissions that at all times the respondent’s position included donations receipts and that the respondent ought to have conceded the donations receipts aspect before the hearing of the appeal.
+[24] That said, I recognize that the auditor’s first part of the answer in the Appendix conceivably generated some confusion, at least from PLM’s perspective. It may well be that the first part of the answer was made through inadvertence or by virtue of a misunderstanding as to what was asked but it ought to have been made clearer by the respondent given her position that was advanced to that point and might have somewhat reduced part of PLM’s document production. Notwithstanding the respondent’s submission to the contrary, I find that this factor would not favour a costs award in her favour let alone that it could justify an increase in a costs award.
+[25] There is no evidence of conduct, by either party, as described in paragraphs 145(3)(h) and (i) of the Rules.
+Any other matter relevant to the question of costs - paragraph 147(3)(j)
+[26] Having regard to the principles on costs awards, I reject PLM’s submission that as a small charity it will have difficulty paying and it will be unable to deduct such costs award. In my view, these are not appropriate factors to be taken into account in a costs award which are normally designed to contribute to the cost incurred by the successful party in respect of the proceeding. [15]
+III. Conclusion
+[27] I have carefully considered each of the factors above. In weighing the factors, I have concluded that in the circumstances an award to the respondent of a lump sum in lieu of taxed costs is appropriate. In my view, the result of the proceeding, the importance of the issues, the complexity of the issues and the possible confusion generated warrant a lump sum costs award of $3,000 to the respondent plus disbursements of $285.59 for a total of $3,285.59.
+Signed at Edmonton, Alberta this 13th day of December 2019.
+“K. Lyons”
+Lyons J.
+APPENDIX A
+Costs
+General Principles
+147 (1) The Court may determine the amount of the costs of all parties involved in any proceeding, the allocation of those costs and the persons required to pay them.
+(2) Costs may be awarded to or against the Crown.
+(3) In exercising its discretionary power pursuant to subsection (1) the Court may consider,
+(a) the result of the proceeding,
+(b) the amounts in issue,
+(c) the importance of the issues,
+(d) any offer of settlement made in writing,
+(e) the volume of work,
+(f) the complexity of the issues,
+(g) the conduct of any party that tended to shorten or to lengthen unnecessarily the duration of the proceeding,
+(h) the denial or the neglect or refusal of any party to admit anything that should have been admitted,
+(i) whether any stage in the proceedings was,
+(i) improper, vexatious, or unnecessary, or
+(ii) taken through negligence, mistake or excessive caution,
+(i.1) whether the expense required to have an expert witness give evidence was justified given
+(i) the nature of the proceeding, its public significance and any need to clarify the law,
+(ii) the number, complexity or technical nature of the issues in dispute, or
+(iii) the amount in dispute; and
+(j) any other matter relevant to the question of costs.
+(3.1) Unless otherwise ordered by the Court, if an appellant makes an offer of settlement and obtains a judgment as favourable as or more favourable than the terms of the offer of settlement, the appellant is entitled to party and party costs to the date of service of the offer and substantial indemnity costs after that date, as determined by the Court, plus reasonable disbursements and applicable taxes.
+(3.2) Unless otherwise ordered by the Court, if a respondent makes an offer of settlement and the appellant obtains a judgment as favourable as or less favourable than the terms of the offer of settlement or fails to obtain judgment, the respondent is entitled to party and party costs to the date of service of the offer and substantial indemnity costs after that date, as determined by the Court, plus reasonable disbursements and applicable taxes.
+(3.3) Subsections (3.1) and (3.2) do not apply unless the offer of settlement
+(a) is in writing;
+(b) is served no earlier than 30 days after the close of pleadings and at least 90 days before the commencement of the hearing;
+(c) is not withdrawn; and
+(d) does not expire earlier than 30 days before the commencement of the hearing.
+(3.4) A party who is relying on subsection (3.1) or (3.2) has the burden of proving that
+(a) there is a relationship between the terms of the offer of settlement and the judgment; and
+(b) the judgment is as favourable as or more favourable than the terms of the offer of settlement, or as favourable or less favourable, as the case may be.
+(3.5) For the purposes of this section, substantial indemnity costs means 80% of solicitor and client costs.
+(3.6) In ascertaining whether the judgment granted is as favourable as or more favourable than the offer of settlement for the purposes of applying subsection (3.1) or as favourable as or less favourable than the offer of settlement for the purposes of applying subsection (3.2), the Court shall not have regard to costs awarded in the judgment or that would otherwise be awarded, if an offer of settlement does not provide for the settlement of the issue of costs.
+(3.7) For greater certainty, if an offer of settlement that does not provide for the settlement of the issue of costs is accepted, a party to the offer may apply to the Court for an order determining the amount of costs.
+(3.8) No communication respecting an offer of settlement shall be made to the Court, other than to a judge in a litigation process conference who is not the judge at the hearing, until all of the issues, other than costs, have been determined.
+(4) The Court may fix all or part of the costs with or without reference to Schedule II, Tariff B and, further, it may award a lump sum in lieu of or in addition to any taxed costs.
+(5) Notwithstanding any other provision in these rules, the Court has the discretionary power,
+(a) to award or refuse costs in respect of a particular issue or part of a proceeding,
+(b) to award a percentage of taxed costs or award taxed costs up to and for a particular stage of a proceeding, or
+(c) to award all or part of the costs on a solicitor and client basis.
+(6) The Court may give directions to the taxing officer and, without limiting the generality of the foregoing, the Court in any particular proceeding may give directions,
+(a) respecting increases over the amounts specified for the items in Schedule II, Tariff B,
+(b) respecting services rendered or disbursements incurred that are not included in Schedule II, Tariff B, and
+(c) to permit the taxing officer to consider factors other than those specified in section 154 when the costs are taxed.
+(7) Any party may,
+(a) within thirty days after the party has knowledge of the judgment, or
+(b) after the Court has reached a conclusion as to the judgment to be pronounced, at the time of the return of the motion for judgment,
+whether or not the judgment included any direction concerning costs, apply to the Court to request that directions be given to the taxing officer respecting any matter referred to in this section or in sections 148 to 152 or that the Court reconsider its award of costs.
+CITATION:
+COURT FILE NO.:
+2015-4620(IT)G
+STYLE OF CAUSE:
+PROMISED LAND MINISTRIES and HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Edmonton, Alberta
+DATE OF HEARING:
+November 14 and 15, 2018
+REASONS FOR ORDER BY:
+The Honourable Justice K. Lyons
+DATE OF ORDER:
+December 13, 2019
+APPEARANCES:
+Counsel for the Appellant:
+Robert Neilson
+Counsel for the Respondent:
+Wendy Bridges
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Robert Neilson
+Firm:
+Felesky Flynn LLP
+Edmonton, Alberta
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Class B proceeding and disbursements total $285.59.
+[2] It asserts it cannot deduct a costs award pursuant to paragraph 60(o) of the Income Tax Act unlike taxpayers. The donation receipts are for donations PLM received.
+[3] Exhibits A3 and A8, CRA letters from the Compliance Division (audit) and the Appeals Branch to PLM of May 27, 2014 and May 6, 2015, respectively. Reply, paragraph 8.
+[4] Mariano et al v The Queen, 2016 DTC 1146. In Martin v The Queen, 2014 DTC 1072 at para 14, Justice Boyle noted that the proper question is what is the appropriate contribution to the successful party’s costs of pursuing the appeal in which his or her position prevailed.
+[5] Velcro Canada Inc v R, 2012 TCC 273 at para 10.
+[6] FCA decisions in Lau v The Queen, 2004 GSTC 5 at para 5 (FCA), and Landry v The Queen, 2010 DTC 106 at paragraphs 22 and 54 (FCA).
+[7] Jolly Farmer Products Inc. v The Queen, 2008 TCC 693. The decision in Spruce Credit Union v The Queen, 2014 TCC 42, provides a synopsis of costs principles that have emerged in the jurisprudence. See also Ivesco Canada Ltd v The Queen, 2015 TCC 92.
+[8] Blackburn Radio Inc. v The Queen, 2013 TCC 98.
+[9] Paragraphs 147(3) (b), (d) and (i.1) of the Rules are not applicable because no amount of federal tax was in issue, no written settlement offers were made and no expert fees were incurred thus will not be addressed.
+[10] The respondent emphasized in her submissions during the hearing that the Suspension was premised on PLM’s failure to maintain or produce documentation to substantiate expenditures for its activities overseas. She pointed to PLM’s letter of March 5, 2014 sent to CRA in which PLM provided information regarding the donation receipts and said that that, or information provided shortly after, satisfied CRA’s concerns. The auditor had testified that follow up to the Agreement was the purpose and main direction of the audit focussed on documentation to substantiate such expenditures, whereas the remainder of the issues (including donations receipts) involved only minor errors/concerns.
+[11] At some point in his testimony, he described the contents of the May letter as a summary of his findings during the audit.
+[12] Three of the other four points pertain to mostly overseas expenses.
+[13] Exhibit A8.
+[14] Facts pled by PLM indicate it has been a registered charity for income tax purposes since 1991, it is a local congregational church and it undertakes charitable works within and outside Canada. Finally, the steps taken in the objections process are chronicled commencing with the issuance of the Suspension. In a cursory manner, PLM then says the reason for such Suspension was the inadequacy of PLM’s books and records pursuant to the requirements in the subsections and alleges the CRA officials erred by failing to inspect its books and records. Facts pled by the respondent comprise those relating to the issuance of the Suspension; the Agreement and the commitment made, CRA’s requests to and responses from PLM; PLM’s failure to maintain adequate books and records with respect to certain aspects of its operations in the 2011 and 2012 taxation years articulated as mission expenses for Africa and Europe (including travel) and vehicle expenses. Submissions consisted of the contravention by PLM of the requirements in the subsections and it breached the Agreement.
+[15] Leger v The Queen, [1999] 4 CTC 260 (FCTD).

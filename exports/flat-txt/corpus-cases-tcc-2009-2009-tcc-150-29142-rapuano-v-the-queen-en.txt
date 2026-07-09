@@ -1,0 +1,112 @@
+Title: Rapuano v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29142/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-150-29142-rapuano-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-03-12
+
+# Rapuano v. The Queen
+
+- Citation: 2009 TCC 150
+- Decision date: 2009-03-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6642, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rapuano v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-03-12
+Neutral citation
+2009 TCC 150
+File numbers
+2008-1384(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-1384(IT)I
+BETWEEN:
+SALVATORE RAPUANO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on March 4, 2009 at Toronto, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+Agent for the Appellant:
+John A. Milewski
+Counsel for the Respondent:
+Sonia Singh
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to assessments made under the Income Tax Act for the 2004 and 2005 taxation years is dismissed.
+Signed at Toronto, Ontario this 12th day of March 2009.
+“J. Woods”
+Woods J.
+Citation: 2009 TCC 150
+Date: 20090312
+Docket: 2008-1384(IT)I
+BETWEEN:
+SALVATORE RAPUANO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] The appellant, Salvatore Rapuano, has instituted this appeal in respect of income tax assessments for the 2004 and 2005 taxation years.
+[2] The issue concerns rental losses in respect of Mr. Rapuano’s principal residence that were deducted by him in computing income.
+[3] In the assessments, the losses were disallowed in their entirety. The amounts that were claimed are $2,769 for the 2004 taxation year and $6,390 for the 2005 taxation year.
+[4] The Minister submits, first and foremost, that the rental activity was not a source of income to Mr. Rapuano. In support of this position, counsel refers to Stewart v. The Queen, 2002 SCC 46, 2002 DTC 6969 and Jarquio v. The Queen, 2003 FCA 80, 2003 DTC 5164.
+[5] The representative for Mr. Rapuano submits that the activity was a source of income.
+[6] Mr. Rapuano and his wife both testified at the hearing. They were both credible witnesses and I accept their testimony as reliable.
+Background
+[7] The Rapuano’s purchased a 3,000 square foot, four bedroom home in Mississauga in 1995. It had a walk out basement that they proposed to fix up and rent.
+[8] In 1996, Mr. Rapuano was hit with a serious medical condition before the basement was renovated.
+[9] After the illness, it became difficult for the Rapuano’s to keep up with the expenses of the home. Accordingly, they decided to collect a modest rent from their two children who lived with them. The son, who lived in the home with his wife and three children, started paying monthly rent in the amount of $500 beginning in 2004. The daughter starting paying rent in the amount of $200 per month in 2005 after she finished school.
+[10] According to documents submitted by the Minister, the son and daughter had represented to the Canada Revenue Agency that the rent for 2005 was paid to both parents.
+[11] In his income tax returns for 2004 and 2005, Mr. Rapuano claimed a deduction for rental losses.
+[12] For purposes of computing the losses, in 2004 Mr. Rapuano claimed 50 percent of the home expenses as being related to the rental operation, and in 2005 he claimed 75 percent of the home expenses as being related to the rental operation. The remaining home expenses were treated as personal.
+[13] It is not clear from the evidence how this pro-ration was determined. However, the percentages do seem to coincide with the number of bedrooms used by each of the family members.
+Analysis
+[14] The principle to be applied in circumstances such as these is well-established by the Supreme Court of Canada in the Stewart decision.
+[15] Essentially, the taxpayer must establish that he has a profit motive in respect of the activity, and this must be determined based on subjective and objective factors. As stated in Stewart, at para. 54:
+[…] Although in order for an activity to be classified as commercial in nature, the taxpayer must have the subjective intention to profit, in addition, as stated in Moldowan, this determination should be made by looking at a variety of objective factors. […]
+[16] In this case, the evidence is clear that the Rapuano’s did not intend to earn a profit from the rent charged to their children. It was essentially a family arrangement with a modest amount being charged to help defray the costs of maintaining the home.
+[17] Although it is not necessary to look beyond subjective factors in this case, this conclusion is supported by the objective evidence, the most important being the modest amount of rent that was charged.
+[18] The representative of the appellant, Mr. Milewski, submits that a profit motive is established from the plan to fix up and rent the basement.
+[19] I disagree with this submission.
+[20] When the residence was originally acquired with the intent of fixing up the basement and renting it out, the Rapuano’s may well have had an intent to embark on a profit-making venture in the future. But these plans were never implemented and the property never became a source of income. If these plans are implemented in future, then an income source could arise at that time.
+[21] In light of these conclusions, it is not necessary that I consider the alternative arguments of the Minister.
+[22] The appeal will be dismissed.
+Signed at Toronto, Ontario this 12th day of March 2009.
+“J. Woods”
+Woods J.
+CITATION: 2009 TCC 150
+COURT FILE NO.: 2008-1384(IT)I
+STYLE OF CAUSE: SALVATORE RAPUANO and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: March 4, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice J. Woods
+DATE OF JUDGMENT: March 12, 2009
+APPEARANCES:
+Agent for the Appellant:
+John A. Milewski
+Counsel for the Respondent:
+Sonia Singh
+COUNSEL OF RECORD:
+For the Appellant:
+Name: n/a
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,130 @@
+---
+title: "Deschamps c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/71770/index.do"
+last_modified: "2014-05-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 181"
+citation2: ""
+neutral_citation: "2014 CCI 181"
+decision_date: "2014-05-28"
+language: "fr"
+item_id: "71770"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5338
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:55:14.337000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8f8944c4e91eaa92ef54fc300b6e3db08142bbc267792c41ac86686b59cf8023"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Deschamps c. La Reine
+
+- Citation: 2014 CCI 181
+- Decision date: 2014-05-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5338, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Deschamps c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-05-28
+Référence neutre
+2014 CCI 181
+Numéro de dossier
+2012-2198(GST)I
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2012-2198(GST)I
+ENTRE :
+SYLVAIN DESCHAMPS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 3 mars 2014, à Ottawa, Canada.
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Nicolas C. Ammerlaan
+____________________________________________________________________
+JUGEMENT
+L’appel des cotisations établies en vertu de la partie IX de la Loi sur la taxe d’accise relativement à la taxe sur les produits et services pour les périodes allant du 1er octobre 2004 au 31 décembre 2004 et du 1er octobre 2005 au 31 décembre 2005 est rejeté, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 28e jour de mai 2014.
+« Paul Bédard »
+Juge Bédard
+Référence : 2014 CCI 181
+Date : 20140528
+Dossier : 2012-2198(GST)I
+ENTRE :
+SYLVAIN DESCHAMPS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] L’appelant appelle de deux cotisations datées du 16 juin 2009 établies en vertu de la partie IX de la Loi sur la taxe d’accise (la « LTA »), dont une vise la période du 1er octobre 2004 au 31 décembre 2004 et l’autre vise la période du 1er octobre 2005 au 31 décembre 2005 (les « périodes visées »).
+Le témoignage de l’appelant
+[2] En 2004 et 2005, l’appelant était un ouvrier de construction autonome. Au cours du premier trimestre de l’année 2004, l’appelant a rendu des services à la société Durabuilt Construction (« Durabuilt »). Durabuilt avait exigé qu’il détienne un numéro d’inscription pour la taxe sur les produits et services (« TPS »). L’appelant s’est conformé à l’exigence de Durabuilt et a obtenu son numéro d’inscription pour la TPS. L’appelant a rempli et produit une première déclaration de taxe nette pour ce premier trimestre dans laquelle apparaissaient la TPS perçue ainsi que les crédits de taxe sur les intrants (« CTI ») réclamés. Par la suite, l’appelant a rendu des services à une autre société, laquelle n’aurait pas exigé qu’il détienne un numéro d’inscription pour la TPS. À partir de ce moment, l’appelant a rempli et produit des déclarations de taxe nette indiquant qu’il n’avait pas perçu de TPS. L’appelant a expliqué avoir procédé ainsi conformément aux recommandations d’un employé de l’Agence du revenu du Québec (« ARQ »).
+[3] Par ailleurs, la preuve a révélé que :
+i) pendant les périodes visées, l’appelant était un inscrit en vertu de la partie IX de la LTA. L’enregistrement a été annulé le 31 septembre 2006;
+ii) pendant la période allant du 1er avril 2004 au 31 décembre 2004, l’appelant a déclaré des revenus de 22 237 $ provenant d’une activité commerciale taxable;
+iii) pendant la période allant du 1er janvier 2005 au 31 décembre 2005, l’appelant a déclaré des revenus de 36 881 $ provenant d’une activité commerciale taxable;
+iv) toutes les fournitures effectuées par l’appelant dans le cadre des activités commerciales qu’il a exercées pendant les périodes visées constituaient des fournitures taxables;
+v) pour déterminer le montant de TPS que l’appelant a perçu ou était tenu de percevoir pour les périodes visées, le montant des fournitures taxables effectuées par l’appelant a été établi selon les revenus déclarés par l’appelant dans ses déclarations de revenus. En l’espèce, le ministre a utilisé la méthode rapide afin d’établir les montants dus par l’appelant. Je souligne que la méthode rapide constitue une méthode simple par laquelle les petites entreprises calculent la TPS qu’elles doivent verser au lieu de relever la taxe perçue sur les ventes et la taxe payée sur les achats, comme le veut le système de la TPS habituel; en vertu de la méthode rapide, l’inscrit calcule la taxe nette qu’il doit verser simplement en multipliant le total des fournitures taxables effectuées au Canada, TPS comprise, par un taux de remise prescrit pour la méthode rapide.
+La thèse de l’appelant
+[4] Essentiellement, l’appelant ne conteste pas les hypothèses de fait sur lesquelles le ministre s’est fondé pour établir la cotisation. Il est d’avis que je devrais faire droit à son appel parce qu’il ne comprenait pas le régime de la LTA et parce qu’il avait été mal informé par l’ARQ. Enfin, l’appelant soutient que l’utilisation de la méthode rapide par le ministre pour déterminer le montant de taxe nette à remettre pour les périodes visées lui avait été défavorable.
+Analyse et conclusion
+[5] En l’espèce, toutes les fournitures effectuées par l’appelant dans le cadre des activités commerciales de l’entreprise qu’il a exploitée pendant les périodes visées constituaient des fournitures taxables pour lesquelles la TPS était payable par les acquéreurs à l’appelant, qui devait la percevoir. Il a omis de percevoir la TPS de 2 624,87 $ payable par les acquéreurs, ce qu’il devait faire en vertu des articles 165 et 221 de la LTA. Ce montant de TPS payable n’a pas été inclus par l’appelant dans le calcul de la taxe nette qu’il a déclarée au ministre pour les périodes visées, ce qu’il devait faire en vertu des articles 221, 225 et 228 de la LTA. L’ignorance de l’appelant quant au fonctionnement de la LTA ne constitue pas un motif valable pour accueillir son appel. Le fait qu’un fonctionnaire de l’ARQ ait induit l’appelant en erreur ne peut être retenu par la Cour et n’est pas un motif valable pour accueillir son appel. En effet, la Cour est tenue d’appliquer les dispositions de la LTA adoptées par le Parlement, et non pas l’interprétation que les fonctionnaires y donnent. Si l’appelant a été réellement induit en erreur par un fonctionnaire de l’ARQ, la Cour ne peut rien faire d’autre que de conseiller à l’appelant d’intenter une action contre les représentants de l’ARQ qui l’auraient induit en erreur s’il estime qu’ils l’ont poussé à prendre des décisions qui lui ont été préjudiciables. J’ajouterais que, dans la situation où un contribuable a été induit en erreur, le ministre pourrait peut‑être exercer son pouvoir discrétionnaire et renoncer aux intérêts imposés en vertu d’une demande d’allègement. Enfin, je dois conclure que la méthode rapide utilisée par le ministre n’a pas été défavorable à l’appelant, puisque ce dernier n’a fourni aucune preuve à cet égard.
+[6] Par ailleurs, je souligne que l’appelant n’a pas contesté les intérêts et les pénalités établies en vertu de l’article 280 de la LTA.
+[7] Pour ces motifs, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 28e jour de mai 2014.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE : 2014 CCI 181
+Nº DU DOSSIER DE LA COUR : 2012-2198(GST)I
+INTITULÉ DE LA CAUSE : SYLVAIN DESCHAMPS c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Ottawa, Canada
+DATE DE L’AUDIENCE : le 3 mars 2014
+MOTIFS DU JUGEMENT PAR : L'honorable juge Paul Bédard
+DATE DU JUGEMENT : le 28 mai 2014
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui‑même
+Avocat de l'intimée :
+Me Nicolas C. Ammerlaan
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

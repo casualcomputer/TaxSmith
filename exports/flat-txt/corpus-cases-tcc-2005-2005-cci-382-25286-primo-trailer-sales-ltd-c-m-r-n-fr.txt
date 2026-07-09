@@ -1,0 +1,132 @@
+Title: Primo Trailer Sales Ltd. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25286/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-382-25286-primo-trailer-sales-ltd-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2005-06-10
+
+# Primo Trailer Sales Ltd. c. M.R.N.
+
+- Citation: 2005 CCI 382
+- Decision date: 2005-06-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2399, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Primo Trailer Sales Ltd. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-06-10
+Référence neutre
+2005 CCI 382
+Numéro de dossier
+2004-3345(EI)
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossiers : 2004-3345(EI)
+2004-3346(EI)
+ENTRE :
+PRIMO TRAILER SALES LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appels entendus le 31 mai 2005 à Ottawa (Ontario).
+Devant : L’honorable juge Lucie Lamarre
+Comparutions :
+Avocat de l’appelante :
+Me Deryk W. Coward
+Avocate de l’intimé :
+Me Geneviève Léveillé
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés aux termes du paragraphe 103(1) de la Loi sur l’assurance‑emploi sont admis, et les décisions rendues par le ministre du Revenu national en date du 20 mai 2004, pour la période allant du 1er janvier 2003 au 28 janvier 2004 (numéro du greffe 2004‑3345(EI)) et pour la période allant du 1er janvier 2003 au 8 janvier 2004 (numéro du greffe 2004-3346(EI)), sont modifiées conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 10e jour de juin 2005.
+« Lucie Lamarre »
+La juge Lamarre
+Traduction certifiée conforme
+ce 13e jour de décembre 2005
+Joanne Robert, traductrice
+Référence : 2005CCI382
+Date : 20050610
+Dossiers : 2004-3345(EI)
+2004-3346(EI)
+ENTRE :
+PRIMO TRAILER SALES LTD.,
+appelante,
+Et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Rendus oralement à Ottawa (Ontario), le 1er juin 2005.)
+La juge Lamarre
+[1] Ces appels sont interjetés à l’encontre de décisions par lesquelles le ministre du Revenu national (le « ministre ») a établi que Chris Milosek et Michel Mirabelli exerçaient un emploi assurable auprès de l’appelante pendant la période allant du 1er janvier 2003 au 28 janvier 2004 dans un cas, et du 1er janvier 2003 au 8 janvier 2004 dans l’autre cas. Le fondement de la détermination est qu’ils n’avaient ni l’un ni l’autre de lien de dépendance avec l’appelante au sens de l’alinéa 5(2)i) de la Loi sur l’assurance‑emploi (la « Loi sur l’AE »).
+[2] L’actionnaire contrôlant de l’appelante était Alex Milosek jusqu’à son décès en septembre 2003. Les actions majoritaires ont à ce moment été transférées à l’épouse d’Alex Milosek, Norma Milosek. Chris Milosek est le fils d’Alex et de Norma, et Michel Mirabelli est marié à leur fille, Alison, depuis août 2002.
+[3] En 1989, Alex Milosek a constitué une société qui exerçait des activités d’entreposage et des activités immobilières. En 1991, la société s’est en outre lancée dans la vente et l’entretien de remorques. En 2001, la société a été scindée en deux personnes morales, Primo Development (entreposage et immobilier) et Primo Trailer Sales Ltd.
+[4] C’est principalement Alex Milosek qui dirigeait les deux entreprises jusqu’à ce qu’il soit atteint de cancer en août 2002. Son fils Chris Milosek est à ce moment devenu président par intérim, et il a été nommé président de l’appelante au décès de son père en septembre 2003. Chris était alors âgé de 29 ans et il travaillait pour l’entreprise de son père depuis l’âge de 14 ou 15 ans. Au début, il accomplissait des travaux divers les samedis et durant l’été. Il a terminé ses études universitaires en 1996 et obtenu un diplôme en économique et en psychologie. Par la suite, il a commencé à travailler à temps plein pour l’entreprise de son père, dans le secteur chargé de la vente de remorques. Il était précisément responsable de la vente au détail des produits Bombardier. En 2001, après la scission, il était rémunéré par Primo Trailer Sales Ltd. En 2002, il a commencé à accomplir certaines tâches pour Primo Development. Une personne agissait à titre de gestionnaire intérimaire de cette société, mais Chris était mis au fait de la situation financière de la société par son père. En août 2002, lorsque son père est tombé malade, Chris a commencé à s’occuper des activités courantes de Primo Trailer Sales Ltd. Il a pris la décision de mettre fin à la vente de motoneiges de la gamme Bombardier. Il est alors devenu entièrement responsable de Primo Trailer Sales Ltd. Il a commencé à s’occuper de la comptabilité, du paiement des comptes et de la perception des comptes clients. Il se chargeait de la publicité à partir de chez lui. Il traitait avec les fournisseurs et s’occupait généralement de l’aspect gestion de l’entreprise. Il organisait des foires commerciales, ce qui occupait une grande partie de son temps. Il a également commencé à en faire plus pour Primo Development. Il s’est chargé de la gestion des activités immobilières, en renégociant les hypothèques et en renouvelant les baux. Il était également responsable de l’orientation future des entreprises et s’occupait des questions juridiques, financières et bancaires. Il accomplissait aussi à l’occasion des travaux manuels.
+[5] Chris exerçait les pouvoirs de signer. Au cours de la période qui a débuté en août 2002, bien que ses responsabilités se soient considérablement accrues, il n’a pas demandé ni ne s’est accordé de hausse appréciable du salaire qu’il recevait de Primo Trailer Sales. Il estimait qu’il ne convenait pas de le faire durant la maladie de son père ou même après son décès en septembre 2003. Il a pris cette décision dans l’intérêt supérieur de la société.
+[6] Au cours de la même période, a‑t‑il dit, il travaillait de 60 à 70 heures par semaine. La rémunération de son travail pour Primo Trailer Sales Ltd. est passée de 900 $ par semaine à 1 000 $ par semaine. À la fin de 2002, il a aussi commencé à toucher une rémunération pour le travail accompli pour Primo Development. Quand son père est décédé en septembre 2003, il recevait 1 400 $ aux deux semaines pour le travail effectué pour cette société. Sa rémunération lui était versée au complet par Primo Trailer Sales Ltd., étant donné que c’était plus pratique d’un point de vue comptable, et une conciliation des comptes de Primo Trailer Sales Ltd. et de Primo Development était par la suite effectuée. Chris Milosek a indiqué qu’il était rétribué insuffisamment pour le travail qu’il accomplissait et qu’il aurait dû toucher environ 1 000 $ de plus par semaine. Mais, a‑t‑il ajouté, il désirait maintenir son salaire à ce niveau parce que les sociétés n’avaient pas les moyens de payer davantage.
+[7] Dans un questionnaire qu’il a rempli pour le ministre, il a indiqué que certaines semaines, il travaillait 40 heures, et d’autres 70 heures (pièce R‑2, question 18.a.). Il a fait remarquer au cours de son témoignage que ses heures de travail étaient en moyenne bien supérieures à 40. Il a mentionné qu’il n’avait jamais vraiment calculé ses heures.
+[8] Dans le questionnaire, il a indiqué qu’il touchait une rémunération de 6 800 $ par mois sans préciser que cette rémunération provenait de deux sociétés. Il a également mentionné que son taux de rémunération était fixé par lui, sa mère et une autre personne du nom de Santiago Rios.
+[9] Il appert que Santiago Rios travaillait pour Primo Trailer Sales Ltd. seulement et qu’il accomplissait à peu près le même travail que Chris. Santiago se concentrait davantage sur les opérations quotidiennes. Il exerçait lui aussi les pouvoirs de signer. Santiago recevait, tout comme Chris, un salaire de 1 000 $ par semaine pour le travail qu’il effectuait pour Primo Trailer Sales. Santiago et Chris bénéficiaient tous deux d’un régime de soins médicaux offert par l’appelante. Ils travaillaient tous deux selon un horaire flexible. En bout de ligne cependant, selon ce que Chris a dit, c’est lui qui était responsable des deux sociétés étant donné qu’il avait une obligation envers sa mère et sa sœur. En fait, sa mère, qui était diététiste et qui s’était retrouvée la principale actionnaire des sociétés après le décès de son mari, ne désirait pas se mêler aux affaires. Chris la tenait au courant des décisions importantes, et il peut même les avoir arrêtées en consultation avec elle, mais celle-ci n’y prenait pas une part directe. Santiago n’intervenait pas dans les décisions concernant l’avenir de Primo Trailer Sales. Même si, en 2003, Chris n’assumait aucune responsabilité personnelle relativement aux entreprises, la situation a changé en 2004 quand il a formé une nouvelle société, la sienne propre, à laquelle l’actif et le passif des entreprises ont été transférés.
+[10] Michel Mirabelli, pour sa part, travaille pour l’appelante depuis 1998 à titre de représentant commercial. Il a marié la sœur de Chris, Alison, en août 2002. Après être devenu un membre de la famille, il s’est vu remettre les clés de l’entreprise, il a été placé sur appel aux fins du système d’alarme, il a obtenu les pouvoirs de signer, il a fait des achats, il a commandé des produits, il a fixé des prix, il a reçu des paiements, il a effectué des opérations bancaires, il s’est vu octroyer une carte de crédit pour la société, il a pu utiliser les véhicules de la société, il a eu accès au prix de revient des unités et il a engagé certaines dépenses qui ne lui ont pas été remboursées. Deux autres représentants commerciaux travaillaient avec lui. Ni l’un ni l’autre ne bénéficiaient des mêmes droits. Ils n’occupaient pas une charge de confiance comme Michel Mirabelli.
+[11] Michel Mirabelli accomplissait aussi de longues heures de travail après être devenu un membre de la famille. Il a dit qu’il travaillait en moyenne de 55 à 60 heures par semaine alors que les autres représentants travaillaient 40 heures par semaine. Dans le questionnaire qu’il a rempli pour le ministre, il a indiqué qu’il travaillait tous les jours, sauf le jeudi et le dimanche. Il a expliqué qu’il travaillait très souvent pendant ses jours de congé. Les feuilles de temps déposées en preuve (pièce R-4) indiquent moins d’heures. Il a déclaré sous serment qu’il n’avait pas indiqué toutes les heures étant donné qu’il avait maintenant un intérêt direct dans la société. Il a aussi indiqué que les feuilles de temps étaient remplies aux deux semaines et qu’elles n’étaient pas entièrement exactes. Il a également déclaré sous serment qu’il touchait 15 $ ou 16 $ de l’heure, alors qu’il a inscrit 13,50 $ de l’heure dans le questionnaire. Il a expliqué qu’il n’avait mis que quelques minutes à remplir ce questionnaire et que, selon ce qu’il avait compris, il devait indiquer le salaire d’un représentant ordinaire. Dans son cas, il touchait davantage à cause de son surcroît de responsabilités. Il bénéficiait aussi d’un régime de soins médicaux, tout comme les deux autres représentants.
+[12] Du point de vue de l’intimé, Chris et Michel étaient en mesure de fournir une information complète à l’agent des appels quand ils ont rempli les questionnaires. Ils ne l’ont pas fait; ils ont fourni des renseignements qui sont, d’après ce qu’ils affirment aujourd’hui, inexacts. L’intimé soutient qu’il y a des différences entre les heures de travail indiquées dans le témoignage présenté et celles inscrites dans les documents produits. Chris, pour sa part, n’a pas cru nécessaire de clarifier l’ambiguïté qu’il a causée dans le questionnaire en omettant de mentionner l’existence de deux personnes morales différentes. De l’avis de l’intimé, cela porte atteinte à la crédibilité des témoins. L’intimé soutient que Chris avait droit aux mêmes avantages que les autres dans la société. Il a été nommé président non pas parce qu’il était le fils de l’ancien président, mais en raison de ses compétences. Le travail de Chris était tout aussi essentiel à l’entreprise que celui de Santiago. Ils se partageaient des fonctions semblables. Chris recevait une rémunération pour les fonctions supplémentaires qu’il remplissait (voir la pièce [R-5]).
+[13] Pour ce qui est de Michel Mirabelli, l’intimé estime que sa rémunération correspond à la norme pour le poste qu’il occupe. L’intimé ne croit pas que Michel Mirabelli travaillait un plus grand nombre d’heures que qu’il a inscrit sur ses feuilles de temps (pièce R-4).
+Analyse
+[14] Selon la jurisprudence (Légaré c. Canada, [1999] A.C.F. no 878 (Q.L.), Pérusse c. Canada, [2000] A.C.F. no 310 (Q.L.) et Denis c. Canada, [2004] A.C.F. no 400 (Q.L.), par exemple), cette Cour doit vérifier si les faits retenus par le ministre sont réels et s’ils ont été appréciés correctement compte tenu du contexte où ils sont survenus, c’est‑à‑dire qu’elle doit examiner tous les faits présentés en preuve et décider si la conclusion du ministre paraît toujours raisonnable.
+[15] En vertu de l’alinéa 5(3)b) de la Loi sur l’AE, des personnes liées sont réputées ne pas avoir de lien de dépendance si le ministre est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment les éléments analysés par le ministre — c’est‑à‑dire la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli — qu’elles auraient conclu entre elles un contrat de travail à peu près semblable si elles n’avaient pas eu de lien de dépendance.
+[16] En l’espèce, il est à mon avis évident que, si Chris Milosek et Michel Mirabelli n’avaient pas été liés à l’employeur, ils n’auraient pas conclu un contrat de travail à peu près semblable. C’est en raison de sa situation en tant que membre de la famille que Chris Milosek est devenu président par intérim, puis président en titre de l’appelante, assumant finalement la responsabilité exclusive de l’entreprise, dont il portait le poids sur ses épaules. C’est aussi en raison de sa situation en tant que membre de la famille que Michel Mirabelli en est venu à occuper un poste de confiance, comportant des responsabilités beaucoup plus importantes que celles des autres représentants commerciaux.
+[17] Même si Chris Milosek et Santiago Rios travaillaient tous deux en étroite collaboration, c’est Chris qui décidait en fin de compte, après discussion avec sa mère (l’actionnaire principale), de l’avenir de l’entreprise. C’est lui qui a mis fin à l’entente avec Bombardier et c’est lui qui a négocié les prêts, pour ne donner que deux exemples, et même s’il n’assumait pas encore de responsabilité personnelle en 2003, il était conscient que la situation était temporaire parce qu’il savait fort bien que son père avait exprimé le désir qu’il prenne la relève aux commandes de l’entreprise. Chris avait été formé dans ce but. En fait, toutes les responsabilités ont été transférées à Chris Milosek en 2004, à la suite du décès de son père.
+[18] Michel Mirabelli, pour sa part, était traité exactement comme tous les autres employés, jusqu’à ce qu’il soit admis dans la famille à la suite de son mariage avec la fille du propriétaire. Aussitôt, ses responsabilités ont augmenté considérablement parce qu’il occupait un poste de confiance.
+[19] Bien que les éléments analysés par le ministre soient pertinents, ce ne sont que des indices permettant de déterminer si des personnes liées à l’employeur peuvent avoir droit à l’assurance‑emploi. Toutes les circonstances doivent être examinées à fond.
+[20] Le ministre a ici tenté de s’en prendre à la crédibilité des témoins en montrant les différences existant entre les réponses faites dans les questionnaires et les explications données au procès. L’intimé a aussi tenté d’interpréter les feuilles de temps d’une manière qui lui permette d’étayer sa décision.
+[21] Je ne partage pas le point de vue de l’intimé. J’estime que les deux témoins sont crédibles. Au procès, ils ont décrit la situation de fait réelle. Je conviens avec l’intimé que les questionnaires ne sont pas toujours clairs, qu’ils sont imprécis et que, lorsque les gens les remplissent, ils ne leur accordent pas tant d’importance étant donné qu’ils consentent à les remplir pendant qu’ils sont occupés à faire leur propre travail. Je ne crois pas qu’il leur incombe d’appeler les fonctionnaires du ministre pour obtenir des éclaircissements au sujet des questionnaires. À mon avis, la responsabilité qui leur incombe se borne à répondre à ces questionnaires au mieux de leur connaissance et de leur entendement.
+[22] J’accepte les explications données au procès par Chris Milosek et Michel Mirabelli. J’estime que ce sont des témoins fiables. Je n’ai perçu aucune mauvaise foi dans leur témoignage. Ils ont témoigné de façon sincère et ils m’ont convaincue.
+[23] Pour toutes ces raisons, en ce qui touche le contexte où les faits mis en preuve sont survenus, je conclus que la conclusion du ministre n’est pas raisonnable dans les circonstances.
+[24] Les appels sont admis.
+Signé à Ottawa, Canada, ce 10e jour de juin 2005.
+« Lucie Lamarre »
+La juge Lamarre
+Traduction certifiée conforme
+ce 13e jour de décembre 2005
+Joanne Robert, traductrice
+RÉFÉRENCE :
+2005CCI382
+Nos DES DOSSIERS DE LA COUR :
+2004-3345(EI) et 2004-3346(EI)
+INTITULÉ DE LA CAUSE:
+Primo Trailer Sales Ltd. c. M.R.N.
+LIEU DE L’AUDIENCE :
+Ottawa (Ontario)
+DATE DE L’AUDIENCE :
+31 mai 2005
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge Lucie Lamarre
+DATE DU JUGEMENT :
+10 juin 2005
+COMPARUTIONS :
+Avocat de l’appelante :
+Deryk W. Coward
+Avocate de l’intimé :
+Geneviève Léveillé
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelante :
+Nom :
+Deryk W. Coward
+Cabinet :
+D'Arcy & Deacon
+Pour l’intimé :
+John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

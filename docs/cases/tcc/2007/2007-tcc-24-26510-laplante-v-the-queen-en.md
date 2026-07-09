@@ -1,0 +1,161 @@
+---
+title: "Laplante v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26510/index.do"
+last_modified: "2007-01-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 24"
+citation2: ""
+neutral_citation: "2007 TCC 24"
+decision_date: "2007-01-17"
+language: "en"
+item_id: "26510"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3258
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:28:44.790000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9f001d9369648e04be5e1f752d105e523aa2b2e7efb52e34131d7728fd09cd1b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Laplante v. The Queen
+
+- Citation: 2007 TCC 24
+- Decision date: 2007-01-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3258, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Laplante v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-01-17
+Neutral citation
+2007 TCC 24
+File numbers
+2005-240(IT)G
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-240(IT)G
+BETWEEN:
+YVON LAPLANTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on October 13, 2006, at Québec, Quebec.
+Before: The Honourable Justice Louise Lamarre Proulx
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Simon-Nicolas Crépin
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1999 and 2000 taxation years are dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 17th day of January 2007.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Translation certified true
+on this 1st day of August 2007.
+Brian McCordick, Translator
+Citation: 2007TCC24
+Date: 20070117
+Docket: 2005-240(IT)G
+BETWEEN:
+YVON LAPLANTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre Proulx J.
+[1] These appeals pertain to the 1999 and 2000 taxation years.
+[2] $20,413 and $24,838 in unreported income was added to the Appellant's income for the taxation years in issue. Penalties under subsection 163(2) of the Income Tax Act ("the Act") were imposed on $14,317.08 in 1999, and $24,469.17 in 2000.
+[3] The issue is whether the Minister of National Revenue ("the Minister") properly included, in computing the Appellant's income for each of the years in issue, the additional amounts referred to above.
+[4] The facts on which the Minister relied in making his reassessments are set out in paragraph 9 of the Reply to the Notice of Appeal:
+[TRANSLATION]
+9. In making the reassessments for the 1999 and 2000 taxation year and confirming the points concerning the additional income, the Minister took the same facts into account, namely:
+(a) The Appellant is a contractor-electrician and operates his business under the name Yvon Laplante Enr.
+(b) During an audit of the years in issue, several unexplained deposits into the Appellant's personal bank accounts were identified.
+(c) The business' account number at the Bank of Nova Scotia is 10041 00320 18.
+(d) The Appellant has two personal bank accounts: account #10041 06656 22 at Scotiabank, and account #29051 at the Caisse populaire de Beauport.
+(e) Several times during the audit, the Appellant's wife said that she deposited customers' cheques into the Appellant's personal accounts and hers.
+(f) The Appellant's explanations regarding these deposits are not supported by any documentary evidence.
+(g) These amounts, which were deposited into the Appellant's bank accounts, are actually unreported income from the operation of his business and were appropriated by being deposited into his personal bank account.
+(h) On April 1, 2003, the Appellant signed a form in which he waived the application of the reassessment period for the 1999 taxation year.
+10. By imposing penalties for the 1999 and 2000 taxation years, the Minister relied on the same assumptions of fact, that is to say:
+(i) The facts set out in subparagraphs (a) to (h) of this Reply to the Notice of Appeal.
+[5] The Notice of Appeal explains the source of the additional amounts as follows:
+[TRANSLATION]
+. . .
+In my opinion, these amounts represent deposits from withdrawals made under the name Diane Fournier and transfer [sic] from the personal account . . .
+[6] The unexplained deposits into the personal bank accounts are described in Exhibit I‑1, volume 2, tab 5. They are cash deposits.
+[7] Diane Fournier is the Appellant's wife. The Appellant is a contractor‑electrician. He has been engaged in this occupation since 1984. Ms. Fournier does the bookkeeping for the business. Each month, she submits the books to Jean‑Pierre Hardy, the business's external accountant.
+[8] During her testimony, Ms. Fournier tried to explain the source of the unexplained deposits. She spoke about the repayment of a loan that had been made to her sister; deposits of cash amounts that were withdrawn upon cashing cheques that her husband's business had issued to her; and deposits of cash rent payments in respect of their rental properties.
+[9] At page 118 of the transcript, Kathleen Drew, the auditor, explains the extent to which the Appellant cooperated with her:
+[TRANSLATION]
+[544] Q. … What was the nature of your first contact with the Appellant [September 2002]?
+R. He simply referred me to Mr. Hardy, his accountant.
+[545] Q. Okay. Ms. Drew, could you please describe to the Court the sort of cooperation that Mr. Hardy or Mr. Laplante provided in terms of obtaining information throughout the audit?
+R. It took a long time. I had trouble obtaining documents. There were delays on top of delays. It was like a game of hot potato between Mr. Laplante and Mr. Hardy. I only obtained the documents in January 2003.
+[10] The auditor states that, during the audit, she asked Ms. Fournier about personal loans, and she replied that there were none.
+[11] As for the explanation regarding cash rental payments, the auditor found that there would have to be far more rental income than that reported on the income tax return. The discrepancy would amount to $9,000.
+[12] As far as the cheques issued by the business to Ms. Fournier are concerned, the auditor found that the full amounts thereof were deposited into the personal bank account and that there were no cash withdrawals.
+[13] The appeals officer also discussed the difficulties and the lengthy waits for answers.
+Analysis and conclusion
+[14] The Respondent submits that the only plausible source of unexplained deposits is income from the business.
+[15] It would be difficult for me to come to any other conclusion. The explanations provided by Ms. Fournier, the Appellant's wife, with respect to the unexplained cash deposits into the personal accounts, are not at all persuasive. They are not supported by evidence. During the audit phase, no mention was made of any loan repayment by a relative. No witnesses came to corroborate the assertion on this subject at the hearing. As for the argument regarding the rental income, it is not valid because it would require the rental income to be higher than the reported amount. The business's accountant rejected the argument during the appeals phase. The explanation alleging that cash withdrawals were made upon cashing cheques issued by the business to Ms. Fournier, and that the amounts thereby withdrawn were then deposited into the accounts in dispute, cannot be accepted either, since there is no evidence of cash withdrawals from the accounts into which the cheques were deposited.
+[16] Consequently, the appeals are dismissed, with costs. However, as the Respondent noted in the Reply to the Notice of Appeal, the aggregate of all amounts in issue is less than $50,000, and therefore, the proceedings should be considered Class A proceedings, not Class B proceedings.
+Signed at Ottawa, Canada, this 17th day of January 2007.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Translation certified true
+on this 1st day of August 2007.
+Brian McCordick, Translator
+CITATION: 2007TCC24
+COURT FILE NO.: 2005-240(IT)G
+STYLE OF CAUSE: YVON LAPLANTE v.
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: October 13, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice Louise Lamarre Proulx
+DATE OF JUDGMENT: January 17, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Simon-Nicolas Crépin
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

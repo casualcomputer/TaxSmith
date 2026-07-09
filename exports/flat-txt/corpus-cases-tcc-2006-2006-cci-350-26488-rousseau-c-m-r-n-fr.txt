@@ -1,0 +1,199 @@
+Title: Rousseau c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26488/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-350-26488-rousseau-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2006-06-30
+
+# Rousseau c. M.R.N.
+
+- Citation: 2006 CCI 350
+- Decision date: 2006-06-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3236, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rousseau c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-06-30
+Référence neutre
+2006 CCI 350
+Numéro de dossier
+2005-1741(EI)
+Juges et Officiers taxateurs
+Sylvio J. Savoie
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossiers : 2005-1741(EI)
+ENTRE :
+STEVE ROUSSEAU,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 31 mars 2006, à Québec (Québec)
+Devant : L'honorable S.J. Savoie, juge suppléant
+Comparutions :
+Représentant de l'appelant :
+Gaston Sylvain
+Avocat de l'intimé :
+Me Michel Lamarre
+________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le Ministre est confirmée selon les motifs du jugement ci-joints.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 30e jour de juin 2006.
+« S.J. Savoie »
+Juge suppléant Savoie
+Référence : 2006CCI350
+Date : 20060630
+Dossier : 2005-1741(EI)
+ENTRE :
+STEVE ROUSSEAU,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+MOTIFS DU JUGEMENT
+Le juge suppléant Savoie
+[1] Il s'agit d'un appel portant sur l'assurabilité de l'emploi de l'appelant lorsqu'au service de Gilles Rousseau, le payeur, pour les périodes allant du 15 juin au 30 octobre 1998, du 14 juin au 12 novembre 1999, du 3 juillet au 13 octobre 2000 et du 13 au 27 septembre 2002, les périodes en litige.
+[2] Le 17 janvier 2005, le ministre du Revenu national (le « ministre » ) a informé l'appelant de sa décision selon laquelle il n'occupait pas un emploi assurable pendant les périodes en litige. En rendant sa décision, le ministre s'est appuyé sur les faits présumés suivants :
+7) Le ministre a déterminé que l'appelant et le payeur avaient un lien de dépendance entre eux dans le cadre de l'emploi. En effet, le ministre a été convaincu qu'il n'était pas raisonnable de conclure que l'appelant et le payeur auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eux de lien de dépendance, compte tenu des circonstances suivantes :
+a) depuis 1993, le payeur exploitait une ferme apicole de 48 ruches;
+b) en 1998, le payeur a décidé d'exploiter une entreprise de culture maraîchère et de petits fruits sur une superficie de 3 hectares;
+c) le 17 août 1998, le payeur a enregistré la raison sociale « Ferme horticole Rousseau » ;
+d) le payeur était l'unique propriétaire de l'entreprise;
+e) le payeur vendait ses fruits et légumes à des marchés d'alimentation locaux, Metro, IGA et Provigo;
+f) l'appelant avait complété un cours en horticulture en 1996;
+g) en 1998, l'appelant a été embauché comme travailleur agricole par le payeur;
+h) les tâches de l'appelant consistaient à la plantation des semis, à préparer le terrain pour la plantation, à s'occuper de la production des fruits et des légumes, à faire l'entretien de la machinerie, à livrer les légumes, à aider à l'exploitation des ruches et à la production de miel;
+i) le payeur n'imposait pas d'horaire de travail à l'appelant;
+j) les heures de travail réelles de l'appelant n'étaient pas contrôlées par le payeur;
+k) le 4 mars 2004, dans une déclaration signée au DRHC, le payeur déclarait que c'était l'appelant qui était le patron, le payeur lui laissait carte blanche et la liberté de prendre toutes les décisions concernant les cultures maraîchères;
+l) le 4 mars 2004, dans une déclaration signée au DRHC, le payeur déclarait qu'il a parti l'entreprise dans le but d'aider l'appelant;
+m) l'appelant était inscrit au journal des salaires du payeur pour des semaines de 43 heures;
+n) de 1998 à 2000, l'appelant recevait une rémunération de 440,23 $ pour 43 heures de travail, soit 10,24 $ de l'heure;
+o) année après année, l'entreprise du payeur déclarait les pertes suivantes :
+Années
+Revenus Nets
+Pertes
+1998
+11 489 $
+- 8 750 $
+1999
+14 055 $
+- 8 750 $
+2000
+6 362 $
+- 8 750 $
+2001
+4 579 $
+- 4 152 $
+2002
+9 800 $
+- 50 $
+p) compte tenu des revenus générés par l'entreprise, de l'importance des pertes annuelles et de l'importance de la dépense salariale, il est déraisonnable de croire qu'un travailleur non lié aurait été rémunéré au taux horaire de l'appelant;
+q) en 2001, l'appelant n'était pas inscrit au journal des salaires du payeur;
+r) le 2 novembre 1998, le payeur remettait à l'appelant un relevé d'emploi qui indiquait comme premier jour de travail le 15 juin 1998 et comme dernier jour de travail le 30 octobre 1998, et qui indiquait 860 heures assurables et 8 806,40 $ comme rémunération assurable;
+s) le 15 novembre 1999, le payeur remettait à l'appelant un relevé d'emploi qui indiquait comme premier jour de travail le 14 juin 1999 et comme dernier jour de travail le 12 novembre 1999, et qui indiquait 946 heures assurables et 9 687,04 $ comme rémunération assurable;
+t) le 16 octobre 2000, le payeur remettait à l'appelant un relevé d'emploi qui indiquait comme premier jour de travail le 3 juillet 2000 et comme dernier jour de travail le 13 octobre 2000, et qui indiquait 645 heures assurables et 6 604,80 $ comme rémunération assurable;
+u) le 30 septembre 2002, le payeur remettait à l'appelant un relevé d'emploi qui indiquait comme premier jour de travail le 13 septembre 2002 et comme dernier jour de travail le 27 septembre 2002, et qui indiquait 71 heures assurables et 639,00 $ comme rémunération assurable;
+v) l'appelant commençait les semis de tomates à la mi-mars et le repiquage des plants 6 semaines plus tard;
+w) avant la plantation, en mai, l'appelant sarclait, hersait avec le tracteur et étendait l'engrais sur les terrains d'exploitation;
+x) également en mai, l'appelant nettoyait et préparait les ruches;
+y) le 21 avril 2004, dans une déclaration signée au DRHC, l'appelant déclarait : « C'est sûr que je rendais des services à l'entreprise de façon bénévole parce que l'entreprise n'avait pas toujours les moyens de me payer. » ;
+z) l'appelant était inscrit au journal des salaires pour le premier jour où il recevait une rémunération et non pas le premier jour de travail;
+aa) le 21 avril 2004, dans une déclaration signée au DRHC, l'appelant déclarait : « Je n'ai jamais déclaré le travail fait à l'entreprise pendant mes périodes de chômage parce que je n'étais pas payé. Je ne considérais pas ce travail comme du travail. » ;
+bb) les relevés d'emploi de l'appelant ne sont pas conformes à la réalité quant au nombre d'heures travaillées ni quant aux périodes travaillées;
+cc) une personne, sans lien de dépendance, n'aurait pas eu ni une rémunération, ni une durée, ni des modalités d'emploi similaires à l'appelant.
+[3] L'appelant a admis tous les faits présumés du ministre sauf ceux énoncés aux alinéas 7.b), h), i), j), k), l), m), p), r), s), t), u), y), aa), bb) et cc).
+[4] Il faut signaler, au départ, que la preuve de l'appelant n'a pas réussi à prouver la fausseté d'aucun des faits présumés du ministre.
+[5] L'appelant a admis dans sa déclaration et lors de son témoignage qu'il fait du travail bénévole pour le payeur, chaque printemps, de mars à juin ou juillet pour préparer les semences.
+[6] L'appelant et le payeur ont tous les deux témoigné à l'audition. Malheureusement, cet exercice n'aura servi qu'à fortifier la thèse et la décision du ministre. À maintes reprises, ils ont contredit leur déclaration statutaire. Souvent, leur mémoire leur a fait défaut. Fréquemment, ils n'ont pas su répondre aux questions pertinentes qu'on leur posait.
+[7] Le ministre a déterminé que l'emploi de l'appelant n'était pas assurable en vertu de l'alinéa 5(2)i) et le paragraphe 5(3) de la Loi sur l'assurance emploi (la « Loi » ), puisqu'il a été convaincu qu'il n'était pas raisonnable de conclure, compte tenu de toutes les circonstances, que l'appelant et le payeur auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance. Il convient de reproduire un extrait de la Loi applicable au litige devant la Cour.
+5. (1) Sous réserves du paragraphe (2), est un emploi assurable :
+(2) N'est pas un emploi assurable :
+i) l'emploi dans le cadre duquel l'employeur et l'employé ont entre eux un lien de dépendance.
+(3) Pour l'application de l'alinéa (2)i) :
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l'impôt sur le revenu;
+b) l'employeur et l'employé, lorsqu'ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu'il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d'emploi ainsi que la durée, la nature et l'importance du travail accompli, qu'ils auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+[8] Il s'agit donc d'analyser l'exercice accompli par le ministre conformément au mandat que lui a confié le Législateur à l'alinéa 5(3)b) de la Loi qui vise à déterminer si l'emploi de l'appelant est exclu des emplois assurables en raison du lien de dépendance entre lui et le payeur.
+RÉTRIBUTION VERSÉE
+[9] Pendant la période de 1998 à 2000, l'appelant a été rémunéré au salaire de 440,32 $ par semaine, pour 43 heures de travail, soit au taux horaire de 10,24 $. L'appelant et le payeur ont affirmé que l'appelant était rémunéré à un tel taux en raison de ses compétences compte tenu de ses connaissances en apiculture. On a aussi expliqué qu'il existait une véritable pénurie de main-d'oeuvre dans ce domaine. Ceci a fait dire au ministre qu'il avait peine à concilier ce salaire avec celui qui a été versé à l'appelant en 2002, c'est-à-dire 319,50 $ par semaine pour 35 heures de travail, soit un taux horaire de 9,12 $. Par ailleurs, il a été établi que le taux horaire versé à l'appelant par d'autres payeurs non liés, s'établissait à 9,00 $ en 2001 et 9,36 $ en 2002.
+[10] À l'audition, l'appelant a admis les revenus et les pertes du payeur pour les années 1998 à 2002, énoncés au paragraphe 7 o) de la réponse à l'avis d'appel, dont les données sont reproduites dans le tableau ci-dessous :
+Années
+Revenus Nets
+Pertes
+1998
+11 489 $
+- 8 750 $
+1999
+14 055 $
+- 8 750 $
+2000
+6 362 $
+- 8 750 $
+2001
+4 579 $
+- 4 152 $
+2002
+9 800 $
+- 50 $
+[11] La preuve a démontré que les pertes subies par l'entreprise étaient plus lourdes que celles indiquées dans les déclarations de revenu, en raison des restrictions règlementaires sur les montants de pertes qu'il était permis de déduire. Ainsi, les documents produits à l'audition par le ministre ont démontré que les pertes réelles encourues par le payeur en 1998 se chiffraient à 20 956,68 $, à 17 450,24 $ en 1999 et à 23 360,45 $ en 2000.
+[12] Compte tenu du faible revenu généré par l'entreprise, des pertes annuelles, et de l'importance de la dépense salariale dans les pertes annuelles, le ministre a jugé qu'il était déraisonnable de croire qu'un travailleur non lié aurait été rémunéré à un tel taux horaire pour 43 heures de travail par semaine.
+MODALITÉS D'EMPLOI
+[13] Lors de son témoignage, Gilles Rousseau a déclaré qu'il avait travaillé à temps plein, pour un autre employeur de 1993 à 1996 et qu'il s'occupait de sa production apicole, après son travail et durant les fins de semaine. Il a ajouté que son fils, Steve, a suivi un cours en horticulture qu'il a terminé en 1996. Il a alors décidé d'ajouter la culture maraîchère à sa production apicole en 1997 et d'engager son fils pour s'occuper de la production. De plus, il avait l'intention de remettre à son fils cette entreprise si celle-ci avait réussi.
+[14] En 1997, le payeur a emprunté 40 000 $ afin d'acheter de la machinerie, d'augmenter son nombre de ruches et de payer le salaire de Steve. Il possédait également une marge de crédit de 6 800 $ qui a servi également à payer le salaire de l'appelant de 1997 à 2000. De 1998 à 2000, l'entreprise agricole du payeur générait des revenus annuels variant de 6 362 $ à 14 055 $ et a déclaré des pertes d'entreprise annuelles de 8 750 $. De 1997 à 2000, le payeur vendait ses fruits et ses légumes à des marchés d'alimentation locaux. Au cours des périodes en litige, l'appelant s'occupait de la production de fruits et de légumes, de l'entretien de la machinerie, de la livraison des légumes, des ruches et de la production de miel, des travaux de préparation à la culture, et de ceux de fins de saison. Dans sa déclaration statutaire du 21 avril 2004, l'appelant déclarait qu'il rendait des services à l'entreprise de façon bénévole parce que celle-ci n'avait pas toujours les moyens de le payer mais, en guise de compensation, il demeurait chez ses parents sans payer de pension.
+[15] Il a été établi que le payeur n'imposait à l'appelant aucun horaire de travail. Par ailleurs, les heures de travail réelles de l'appelant n'étaient pas contrôlées par le payeur. Le payeur a déclaré le 4 mars 2004 au DRHC que c'était l'appelant qui était le patron. Il a ajouté qu'il laissait à son fils, l'appelant, carte blanche et la liberté de prendre toutes les décisions concernant la culture maraîchère. Dans cette même déclaration statutaire, le payeur déclarait qu'il avait démarré l'entreprise dans le but d'aider son fils.
+[16] Il a été démontré que pendant la période des semences, soit de mars à juin, l'appelant a travaillé bénévolement pour le payeur. D'ailleurs, l'appelant a admis l'alinéa 7.v) de la réponse à l'avis d'appel, qui se lit comme suit :
+7.v) L'appelant commençait les semis de tomates à la mi-mars et le repiquage des plants 6 semaines plus tard.
+[17] Les relevés d'emploi émis à l'appelant par le payeur indiquaient des périodes d'emploi à partir du mois de juin. Lorsque les enquêteurs ont questionné le payeur concernant ses pertes d'entreprise et le faible revenu, celui-ci a affirmé que c'est uniquement pour aider à son fils qu'il l'a fait. Après son examen, le ministre a conclu qu'il s'agissait là de modalités d'emploi déraisonnables qui n'auraient pas été offertes à un étranger dans les mêmes circonstances.
+NATURE ET IMPORTANCE DU TRAVAIL
+[18] Les tâches confiées à l'appelant étaient intégrées aux activités du payeur. Cependant, il est curieux de constater que lorsqu'à l'emploi d'un autre employeur en 2002, Gilles Rousseau a quand même produit et vendu des légumes pour un montant de près de 3 000 $, alors qu'en 2000, l'appelant était rémunéré pour 43 heures par semaine durant 15 semaines et que le payeur ne vendait que pour 5 630,00 $ de légumes.
+[19] Le ministre a considéré que le faible revenu du payeur et les pertes annuelles importantes subies par celui-ci à partir de 1997 ne pouvaient justifier l'embauche d'un travailleur non lié dans les mêmes circonstances.
+DURÉE DE L'EMPLOI
+[20] Dans sa déclaration statutaire du 21 avril 2004, l'appelant a déclaré que sa mère inscrivait le premier jour de travail payé sur le relevé d'emploi et non le premier jour réel de travail. Les faits sont par la suite venus confirmer cette affirmation puisqu'il a été établi que les travaux débutaient en mars et nécessitaient de 15 à 20 heures de travail par semaine dès la sortie des ruches, généralement en mai.
+[21] En 1997, la période d'emploi rémunérée de l'appelant a débuté la première semaine de juin pour se terminer la deuxième semaine de novembre, pour totaliser 23 semaines. C'est la période visée dans la première demande de prestations d'assurance-emploi. Les revenus agricoles totalisaient 4 994,00 $ et la perte nette encourue était de 8 750,00 $. En 1998, la période d'emploi, selon le relevé, a débuté la deuxième semaine de juin pour se terminer la dernière semaine d'octobre, ce qui représentait 20 semaines d'emploi. Cette année-là, les revenus agricoles ont totalisé 11 489,00 $, soit 8 638,88 $ représentant le produit de la vente de légumes, 2 315,00 $ représentant le produit de la vente de fruits et 536,50 $ représentant le produit de la vente de miel, alors que la perte nette s'établissait à 8 750,00 $ et que l'appelant, pour sa part, a touché un salaire de 9 834,79 $. En 1999, la période d'emploi rémunérée de l'appelant a débuté la deuxième semaine de juin pour se terminer la deuxième semaine de novembre pour totaliser 22 semaines d'emploi alors que les revenus agricoles ont totalisé 14 055,00 $, soit 10 475,21 $, représentant le produit de la vente de légumes, 2 928,00 $, représentant le produit de la vente de fruits et 652,04 $, qui représentait le produit de la vente de miel, alors que la perte nette s'établissait à 8 750,00 $ et l'appelant a touché un salaire totalisant 10 715,43 $. En 2000, la période d'emploi rémunérée de l'appelant a débuté la première semaine de juillet pour se terminer la deuxième semaine d'octobre pour un total de 15 semaines d'emploi. Durant cette année, les revenus agricoles ont totalisé 6 362,00 $, soit 5 630,41 $ pour la vente de légumes, 0 $ comme produit de la vente de fruits et 732,24 $ comme produit de la vente de miel, alors que la perte nette s'établissait à 8 750,00 $, alors que l'appelant a touché un salaire totalisant 7 262,89 $. En 2001, l'appelant a été à l'emploi d'un autre payeur à partir de mai jusqu'à août. Par la suite, il est retourné aux études. Cette année-là, les revenus agricoles du payeur étaient de 4 579,00 $ alors que la perte s'établissait à 4 152,00$. Le 13 septembre 2002, l'appelant a déposé une demande de prestations suite à sa mise à pied de son emploi pour Équipement G. Comeau Inc. Il a été avisé qu'il lui manquait des heures assurables pour se qualifier aux dites prestations. En octobre 2002, il a présenté un nouveau relevé d'emploi pour deux semaines de travail au service du payeur Gilles Rousseau. En 2002, les revenus agricoles du payeur se chiffraient à 9 800,00 $, soit 2 975,71 $ comme produit de la vente de légumes, 0 $ comme produit de la vente de fruits et 6 825,00 $ comme produit de la vente de miel alors que la perte nette s'établissait à 50,00 $. Le payeur a affirmé qu'il a engagé son fils parce qu'il a été malade et hospitalisé; cependant on a établi que son transport par ambulance avait eu lieu le 11 novembre 2002.
+[22] De l'avis de cette Cour, le ministre a exercé à bon droit son pouvoir discrétionnaire qui lui est conféré en vertu du paragraphe 5(3) de la Loi.
+[23] L'appelant avait le fardeau de prouver la fausseté des présomptions du ministre. Il ne l'a pas fait.
+[24] Dans ces circonstances, il convient de citer le passage du juge Pratte dans l'arrêt Elia c. Canada (ministre du Revenu national - M.R.N.), [1998] A.C.F. No 316, qui statuait ce qui suit :
+Le juge, contrairement à ce qu'il a cru, aurait donc pu intervenir et aurait dû intervenir si, comme il l'a affirmé, la preuve révélait que la décision du Ministre était déraisonnable. Mais cette affirmation du juge nous paraît, elle aussi, inexacte et fondée sur une erreur de droit puisque le juge n'a pas tenu compte de la règle bien établie selon laquelle les allégations de la réponse à l'avis d'appel, où le Ministre énonce les faits sur lesquels il a fondé sa décision, doivent être tenus pour avérer aussi longtemps que l'appelant n'en a pas prouvé la fausseté.
+[25] Cette Cour n'a aucune raison d'intervenir dans cette décision du ministre.
+[26] En conséquence, l'appel est rejeté et la décision rendue par le ministre est confirmée.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 30e jour de juin 2006.
+« S.J. Savoie »
+Juge suppléant Savoie
+RÉFÉRENCE :
+2006CCI350
+No DU DOSSIER DE LA COUR :
+2005-1741EI)
+INTITULÉ DE LA CAUSE :
+Steve Rousseau et M.R.N.
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE DE L'AUDIENCE :
+Le 31 mars 2006
+MOTIFS DE JUGEMENT PAR :
+L'honorable S.J. Savoie,
+juge suppléant
+DATE DU JUGEMENT :
+Le 30 juin 2006
+COMPARUTIONS :
+Pour l'appelant :
+Gaston Sylvain
+Pour l'intimé :
+Me Michel Lamarre
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelant :
+Nom :
+Étude :
+Pour l'intimé :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

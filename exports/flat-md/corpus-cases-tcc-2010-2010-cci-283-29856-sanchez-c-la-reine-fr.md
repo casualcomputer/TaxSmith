@@ -1,0 +1,324 @@
+---
+title: "Sanchez c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29856/index.do"
+last_modified: "2010-06-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 283"
+citation2: ""
+neutral_citation: "2010 CCI 283"
+decision_date: "2010-06-17"
+language: "fr"
+item_id: "29856"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6413
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:53:10.470000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "50dbf2a10f954b3af36d8604ffa7c9489973840fdeeded4c41756d50b8038e67"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sanchez c. La Reine
+
+- Citation: 2010 CCI 283
+- Decision date: 2010-06-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6413, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sanchez c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-06-17
+Référence neutre
+2010 CCI 283
+Numéro de dossier
+2008-3811(IT)G
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-3811(IT)G
+ENTRE :
+MIGUEL SANCHEZ,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+9065-7420 Québec Inc. (2008-397(IT)G)
+le 18 janvier 2010, à Québec (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Représentant de l'appelant :
+Marc Gaucher
+Avocate de l'intimée :
+Me Christina Ham
+____________________________________________________________________
+JUGEMENT
+L’appel des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2003, 2004 et 2005 est rejeté, avec dépens en faveur de l'intimée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 17e jour de juin 2010.
+« Alain Tardif »
+Juge Tardif
+Dossier : 2008-397(IT)G
+ENTRE :
+9065-7420 QUÉBEC INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+Miguel Sanchez (2008-3811(IT)G)
+le 18 janvier 2010, à Québec (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Représentant de l'appelante :
+Marc Gaucher
+Avocate de l'intimée :
+Me Christina Ham
+____________________________________________________________________
+JUGEMENT
+L’appel des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2002, 2003, 2004 et 2005 est rejeté, avec dépens en faveur de l'intimée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 17e jour de juin 2010.
+« Alain Tardif »
+Juge Tardif
+Référence : 2010 CCI 283
+Date : 20100617
+Dossiers : 2008-3811(IT)G
+2008-397(IT)G
+ENTRE :
+MIGUEL SANCHEZ,
+9065-7420 QUÉBEC INC.
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s’agit de deux appels où les parties ont convenu de procéder au moyen d’une preuve commune.
+[2] D’entrée de jeu, le représentant des appelants a, dans l’ensemble, reconnu que les faits tenus pour acquis et les calculs inhérents étaient assez exacts limitant ainsi sa preuve à des explications relatives à la source des fonds estimés dans le cadre de l’établissement des cotisations.
+[3] Au soutien des cotisations dont il est fait appel, l’intimée a tenu pour acquis plusieurs faits. Les faits en question sont reproduits dans les réponses aux avis d’appel.
+Miguel Sanchez (2008-3811(IT)G)
+11. Pour fixer l’impôt payable par l’appelante pour les années d’imposition 2003, 2004 et 2005, le ministre a tenu pour acquis les faits suivants :
+a) l’appelant est l’actionnaire majoritaire de la compagnie 9065-7420 Québec Inc. (la « compagnie »);
+b) la compagnie, opérant sous la raison sociale « Sports Bazar », est une boutique d’articles de sports spécialisée dans la vente de vélos, skis planche à neige, patins, vêtements et accessoires;
+c) la compagnie offre aussi des services de réparations et de locations d’équipements;
+d) la fin de l’année fiscale de la compagnie est le 30 juin;
+Avantage à l’actionnaire
+e) l’appelant participe activement aux opérations de la compagnie;
+f) les livres et les registres maintenus par la compagnie étaient inadéquats pendant la période en litige;
+g) la compagnie a omis de déclarer des revenus provenant de ventes de tapis roulants et de réparations de vélos pendant la période en litige;
+h) constatant que les revenus déclarés par l’appelant étaient faibles, le ministre a procédé avec une vérification par la méthode de l’écart par avoir net de ce dernier;
+i) suite à une vérification de l’appelant par la méthode de l’écart par avoir net, le ministre a établi que ce dernier a omis de déclarer des revenus, tel qu’il appert des tableaux que l’on retrouve à l’Annexe A ci-jointe, pour faire partie intégrante de la présente réponse à l’avis d’appel;
+j) comme la compagnie est la source de revenus principale de l’appelant, les revenus non déclarés déterminés par la méthode de l’écart de l’avoir net ont été assimilés à un avantage à l’actionnaire en provenance de la compagnie;
+Perte au titre d’un placement d’entreprise
+k) l’appelant a réclamé une perte au titre d’un placement d’entreprise d’un montant de 67 594 $, à l’égard de mille (1000) actions de la compagnie 9110-8068 Québec Inc. et une créance envers cette même compagnie, pour l’année d’imposition 2003;
+l) l’appelant n’avait pas une créance d’un montant de 29 046 $ envers la compagnie 9110-8068 Québec Inc.
+12. Pour imposer à l’appelant la pénalité prévue au paragraphe 163(2) de la Loi de l’impôt sur le revenu, le ministre s’est appuyé sur les faits suivants :
+a) les faits énoncés aux alinéas a) à j) du paragraphe 11 de la présente;
+b) le montant des revenus non déclarés par l’appelante est très important par rapport au montant des revenus déclarés pour les années d’imposition 2003, 2004 et 2005, le tout tel qu’étayé ci-dessous :
+2003
+2004
+2005
+Revenus totaux déclarés
+25 706 $
+18 118 $
+(132 $)
+Revenus non déclarés
+66 994 $
+26 532 $
+9 691 $
+c) les ventes effectuées par la compagnie n’ont pas toutes été facturées de façon adéquate et elles étaient souvent payées en argent comptant;
+d) les livres et les registres maintenus par la compagnie étaient inadéquats pendant la période en litige, entre autres, il n’y avait aucun suivi de l’inventaire;
+e) l’appelant a signé ses déclarations de revenus pour les années d’imposition 2003 et 2004;
+f) l’appelant connaissait l’existence de revenus qu’il ne déclarait pas.
+9065-7420 Québec Inc. (2008-397(IT)G)
+10. Pour fixer l’impôt payable par l’appelante pour les années d’imposition 2002, 2003, 2004 et 2005, le ministre du Revenu national a tenu pour acquis les faits suivants :
+a) l’appelante, opérant sous la raison sociale « Sports Bazar », est une boutique d’articles de sports spécialisée dans la vente de vélos, skis planches à neige, patins, vêtements et accessoires;
+b) la compagnie offre aussi des services de réparations et de locations d’équipements;
+c) Miguel Sanchez est l’actionnaire majoritaire de l’appelante;
+d) la fin de l’année fiscale de l’appelante est le 30 juin;
+e) Miguel Sanchez participait activement aux opérations de l’appelante;
+f) les livres et les registres maintenus par l’appelante étaient inadéquats pendant la période en litige;
+g) l’appelante a omis de déclarer des revenus provenant de ventes de tapis roulants et de réparations de vélos pendant la période en litige;
+h) constatant que les revenus déclarés par Miguel Sanchez étaient faibles, le ministre a procédé avec une vérification par la méthode de l’écart par avoir net de ce dernier;
+i) suite à une vérification de Miguel Sanchez par la méthode de l’écart par avoir net, le ministre a établi que ce dernier a omis de déclarer des revenus, tel qu’il appert des tableaux que l’on retrouve à l’Annexe A ci-jointe, pour faire partie intégrante de la présente réponse à l’avis d’appel;
+j) les revenus non déclarés déterminés par la vérification par la méthode de l’écart par avoir net de Miguel Sanchez ont été attribués à l’appelante au prorata des années fiscales de cette dernière, le tout tel qu’étayé ci-dessous :
+2003
+2004
+2005
+Revenus déclarés
+(58 943 $)
+30 154 $
+25 540 $
+Revenus non déclarés
+46 845 $
+18 957 $
+22 862 $
+Revenus révisés
+(12 098 $)
+49 111 $
+48 402 $
+k) un montant de 441 $ réclamé à titre de dépenses pour l’année d’imposition 2005 a été réclamé en double par l’appelante et donc, refusé par le ministre;
+l) la perte autre qu’en capital de l’appelante pour l’année d’imposition 2003 a été réduite suite à l’ajout des revenus non déclarés par l’appelante, ainsi la perte reportée à l’année d’imposition 2002 a été révisée à 5 400 $;
+m) suite à la réduction de la perte autre qu’en capital de l’appelante pour l’année d’imposition 2003, les soldes des pertes autres qu’en capital pour les années d’imposition 2004 et 2005 ont été révisés à zéro.
+11. Pour imposer à l’appelante la pénalité prévue au paragraphe 163(2) de la Loi de l’impôt sur le revenu, le ministre s’est appuyé sur les faits suivants :
+a) les faits énoncés aux alinéas a) à m) du paragraphe 10 de la présente;
+b) le montant des revenus non déclarés par l’appelante sont très important par rapport aux montants de revenus déclarés pour les années d’imposition 2003, 2004 et 2005, le tout tel qu’étayé ci-dessous :
+2003
+2004
+2005
+Revenus déclarés
+(58 943 $)
+30 154 $
+25 540 $
+Revenus non déclarés
+46 845 $
+18 957 $
+22 862 $
+c) les ventes effectuées par l’appelante n’ont pas toutes été facturées de façon adéquate et elles étaient souvent payées en argent comptant;
+d) les livres et les registres maintenus par l’appelante étaient inadéquats pendant la période en litige, entre autres, il n’y avait aucun suivi de l’inventaire de l’appelante;
+e) l’appelante connaissait l’existence de revenus qu’elle ne déclarait pas.
+[4] Dans les réponses aux avis d’appel, l’intimée a indiqué que les questions en litige étaient les suivantes :
+Miguel Sanchez (2008-3811(IT)G)
+a) si le ministre a dûment inclus dans les revenus de l’appelant pour les années d’imposition 2003, 2004 et 2005 les montants de 52 441 $, 26 531 $ et 9 691 $ respectivement;
+b) si le ministre a dûment refusé la perte au titre d’un placement d’entreprise de 29 046 $, et en conséquence, a dûment refusé la perte déductible au titre d’un placement d’entreprise de 14 523 $ pour l’année d’imposition 2003;
+c) si le ministre a dûment imposé la pénalité prévue au paragraphe 162(3) de la Loi de l’impôt sur le revenu pour les années d’imposition 2003, 2004 et 2005. par rapport aux revenus non déclarés par l’appelant.
+9065-7420 Québec Inc. (2008-397(IT)G)
+a) si le ministre a dûment inclus dans les revenus de l’appelante pour les années d’imposition 2003, 2004 et 2005 les montants de 46 845 $, 18 957 $ et 22 862 $, respectivement;
+b) si le ministre a dûment refusé les dépenses réclamées par l’appelante au montant de 441 $ pour l’année d’imposition 2005;
+c) si le ministre a dûment révisé les pertes autres qu’en capital pour les années d’imposition 2002, 2004 et 2005;
+d) si le ministre a dûment imposé la pénalité prévue au paragraphe 162(3) de la Loi de l’impôt sur le revenu pour les années d’imposition 2003, 2004 et 2005, par rapport aux revenus non déclarés par l’appelante.
+[5] Les appelants ont affirmé avoir déclaré la totalité de leurs revenus. Ils ont ajouté que les écarts constatés s’expliqueraient premièrement par le train de vie très modeste de l’appelant, ses besoins personnels se limitant à très peu de choses, et deuxièmement, par l’importation de sommes très importantes par monsieur Sanchez et les membres de sa famille vivant en France.
+[6] L’appelant, son père, son gestionnaire, Jean-Claude Putseys et le comptable, Steve Lapierre, C.G.A., chargé de la comptabilité de l’entreprise et aussi de celle de l’appelant personnellement ont témoigné.
+[7] Le père de l’appelant a longuement expliqué le contexte familial et fait l’historique de la carrière de cyclisme de son fils. Le père étant lui-même cycliste de haut niveau, son fils a, dès son tout jeune âge, manifesté un très grand intérêt pour ce sport très exigeant. Très doué, très déterminé, son fils est vite devenu un champion de cette discipline sportive exigeante et il a commencé à participer aux épreuves de cyclisme dès l’âge de 13 ans.
+[8] Il participait ainsi régulièrement à de très nombreuses courses et compétitions un peu partout en Europe, mais principalement en Espagne où sa famille avait deux appartements.
+[9] L’appelant et son père ont indiqué qu’il touchait régulièrement des bourses importantes, lesquelles lui étaient toujours payées en argent comptant; jamais il ne recevait de chèques. Tant l’appelant que son père ont souligné qu’en Europe, les us et coutumes sont fort différents de ceux du Canada.
+[10] Le père a expliqué que son fils était très sobre, son seul centre d’intérêt étant le cyclisme; presque tout l’argent gagné qui lui était payé comptant était déposé dans un coffre-fort qu’il avait lui-même fabriqué étant mécanicien de formation.
+[11] Selon l’appelant et son père, les cyclistes sont très bien rémunérés en Europe contrairement à ce qui se passe en Amérique du Nord. À l’âge de 18 ans, il a dû faire son service militaire; très rapidement, il en a été exclu pour des motifs de santé. Il a dès lors repris la compétition avec encore plus de succès qu’avant, passant au rang des professionnels.
+[12] Pour expliquer et valider la passion de son fils en matière de cyclisme, le père de l’appelant a affirmé que Miguel avait peu de succès avec les filles étant donné le peu de temps qu’il leur consacrait.
+[13] Le père a expliqué que son fils avait accumulé des sommes fort importantes dans le coffre-fort. Ses besoins étaient modestes et, souvent, ses frais de séjour étaient pris en charge par les promoteurs de l’évènement ou par des compagnies commanditaires.
+[14] Le père a également affirmé que des vélos très dispendieux étaient fournis tout à fait gratuitement à son fils, le père ne lui ayant payé que son premier vélo.
+[15] Il a expliqué que son fils habitait en Espagne lorsqu’il coursait. Les deux appartements que la famille possédait se trouvaient dans ce pays.
+[16] Le père de l’appelant a répété souvent que son fils possédait des sommes importantes et qu’il faisait souvent des prêts aux membres de sa famille ainsi qu’à des amis. Ces opérations étaient toujours faites en argent comptant.
+[17] Le père a aussi indiqué que les deux appartements que la famille possédait en Espagne et dont elle avait hérité avaient besoin d’importantes rénovations et que l’appelant s’était chargé de les payer.
+[18] Le père de l’appelant a également affirmé que son fils, qui vivait très modestement en France, lui avait offert deux automobiles neuves. Selon son père, l’appelant conservait d’importantes sommes d’argent liquide dans le coffre-fort de sa résidence; ce dernier était généreux à l’endroit de tous les membres de la famille.
+[19] Le père de l’appelant a également fait mention d’un prêt obtenu à un taux avantageux auprès d’une Banque où travaillait son beau-frère. Appelé à donner plus de détails, les choses se sont compliquées au point d’affirmer qu’il s’agissait plutôt de dépôts pour l’obtention de crédits spéciaux lors de l’achat d’une résidence.
+[20] La preuve a aussi établie que l’appelant avait exploité une petite entreprise en Belgique qui n’aurait pas connu le succès souhaité, laissant même entendre que l’expérience s’était avérée un échec.
+[21] À un moment donné, il a rencontré une Canadienne et les choses ont progressé très rapidement; ils se sont mariés après quelques mois de fréquentation. Devenus parents de 3 enfants, son épouse a choisi de revenir au Québec (Canada). Le couple s’est donc installé au Québec. L’appelant s’est alors investi dans un commerce de produits qu’il connait bien, c’est-à-dire les vélos.
+[22] L’appelant a indiqué que les relations avec son épouse s’étaient détériorées au point où ils ont mis un terme à leur union. À ce sujet, il a affirmé qu’il organisait ses affaires financières pour que son ex-épouse en sache le moins possible, craignant qu’elle dépasse la mesure dans ses demandes de pension alimentaire. L’appelant a expliqué comment il en était arrivé à faire l’acquisition d’un deuxième commerce dont la vocation était aussi la vente de vélos. Il a soutenu qu’il croyait ainsi pouvoir augmenter le chiffre d’affaires du commerce.
+[23] Après que l’appelant ait choisi de venir s’établir au Québec avec sa famille, son père a expliqué qu’il venait régulièrement le visiter, soit tous les ans avec sa conjointe, à l’exception de deux ou trois années. Chaque fois, il apportait des sommes substantielles à son fils sans cependant jamais dépasser la limite permise de 10 000 $ canadien par personne. Il a indiqué qu’il s’agissait de devises canadiennes obtenues à un bureau de change de son voisinage en France où il habitait.
+[24] Tout ce qui touche les nombreuses opérations de change à un comptoir de son voisinage effectuées par lui et un autre de ses fils, frère de l’appelant, a été expliqué d’une façon un peu confuse.
+[25] Aucun reçu, récépissé ou de documents validant l’une quelconque des opérations au cours desquelles le père aurait dans un premier temps, obtenu des devises canadiennes auprès d’un bureau de change et, dans un deuxième temps, importées avec sa conjointe d’importantes sommes d’argent comptant lors de leurs visites annuelles au Canada.
+[26] Encore là, le père de l’appelant n’a pas été très précis. Il a expliqué que lui et son épouse venaient souvent au Québec, étant donné qu’ils bénéficiaient d’avantages considérables avec la compagnie aérienne pour laquelle leur fille travaillait. En ce qui concerne ces nombreux voyages, il n’a jamais précisé les dates où ils ont eu lieu, ni les sommes importées, se contentant d’indiquer qu’elles ne dépassaient jamais 10 000 $ par personne.
+[27] Monsieur Jean-Claude Putseys, se présentant comme gestionnaire ayant déjà exploité sa propre entreprise, a expliqué que l’appelant avait retenu ses services comme gestionnaire de la société appelante. Il a affirmé que l’appelant avait de la difficulté à se concentrer sur la gestion de son entreprise. Il a aussi expliqué que l’appelant semblait toujours absent et que son esprit semblait essentiellement préoccupé par le vélo et la compétition.
+[28] Monsieur Putseys a affirmé que la gestion était boiteuse au point où il avait dû faire des mises de fonds avec son propre argent. Il a indiqué qu’il arrivait assez souvent qu’il doive faire un dépôt étant donné que le commerce ne générait pas suffisamment de revenus pour couvrir les dépenses. En pareille situation, il en parlait à l’appelant qui, le plus souvent, lui remettait l’argent comptant nécessaire sans préciser d’où il provenait.
+[29] La vérificatrice a également témoigné. Étant donné l’admission que les écarts constatés et les calculs ne faisaient pas l’objet d’une contestation, son témoignage a été très bref.
+[30] Elle a expliqué avoir demandé à l’appelant s’il avait reçu ou obtenu des sommes d’argent provenant d’une autre source que l’entreprise qu’il exploitait. De son côté, elle a découvert que l’appelant avait vendu des appareils d’entraînement au comptant. D’autre part, l’appelant lui a indiqué qu’il avait de l’argent dans un coffre-fort à l’étranger. Elle a affirmé avoir voulu en savoir plus mais a indiqué y avoir renoncé lorsque l’appelant avait été peu loquace étant même agressif sur ce sujet.
+Analyse
+[31] Le récit du père est truffé de généralités qui ne nous permettent pas de faire des calculs quant à l’importance des montants accumulés. À titre d’exemple, il a été dit que l’appelant avait participé à de nombreuses courses dès l’âge de 13 ans et qu’il avait gagné souvent, commençant ainsi à accumuler des économies dès ce jeune âge.
+[32] Lors de la plaidoirie, le représentant de l’appelant a affirmé à la Cour que l’appelant avait commencé à récolter de l’argent dès l’âge de 13 ans et que la somme accumulée qui dépassait 200 000 $ représentait en fait une moyenne inférieure à 20 000 $ par année.
+[33] Il ne suffit pas d’affirmer, de prétendre ou de soutenir que, dès l’âge de 13 ans, un adolescent remporte des courses de cyclisme qui lui permettent d’empocher annuellement des sommes de 20 000 $ et plus, il faut étayer une telle allégation au moyen d’une preuve convaincante.
+[34] Or, est-il possible en Europe, ce qui n’est manifestement pas possible ailleurs, de gagner de l’argent comme cycliste lorsqu’une personne est amateur? Est-il possible de devenir un athlète professionnel avant d’atteindre la majorité? Ce sont là des questions fort légitimes qui ont été occultées ou qui sont demeurées sans réponse.
+[35] Globalement, la preuve et les explications au sujet de la provenance d’une somme de plus de 200 000 $ gardée dans un coffre-fort chez les parents de l’appelant ne sont ni claires, ni cohérentes.
+[36] Souscrire aux prétentions des appelants équivaudrait à récompenser la partie qui a le plus d’imagination et de talent à fabriquer toutes sortes d’hypothèses pour expliquer et justifier des écarts à l’origine des cotisations fiscales.
+[37] Les appelants voudraient voir leurs appels accueillis pour les motifs que monsieur Sanchez a des problèmes de concentration, qu’il n’a pas de qualités de gestionnaire, qu’il a grandi dans un milieu où les coutumes sont différentes et que, de toute façon, il n’a pas pu gagner les revenus qui lui sont attribués parce que le domaine dans lequel il exploite son entreprise en est un où la compétition est féroce. La toile de fond de tout cela est le fait que l’appelant, peu scolarisé, est un athlète de très haut niveau ayant gagné des sommes importantes.
+[38] La Cour a de la sympathie pour les appelants et elle est convaincue que ceux-ci auraient obtenu gain de cause si le fardeau de preuve requis avait été celui qui s’applique en matière pénale, soit une preuve hors de tout doute raisonnable.
+[39] En l’espèce, le fardeau de la preuve est celui de la prépondérance; l’évaluation de la preuve est un exercice difficile qui doit être guidé plus par le raisonnement que par l’intuition; en d’autres termes, il est essentiel de valider tout réflexe essentiellement intuitif, particulièrement si la conclusion intuitive ne s’appuie sur aucun élément de preuve.
+[40] Une preuve peut reposer essentiellement sur des témoignages et être crédible au point de justifier une conclusion cohérente. Une telle preuve doit cependant être claire, précise, détaillée, nuancée et surtout raisonnable.
+[41] Lorsqu’un témoignage est plutôt vague, voire confus, sur un sujet particulier, mais surtout sur un sujet inhabituel, il est important de recourir à des références fiables et crédibles.
+[42] En l’espèce, l’appelant a soutenu que le fardeau de la preuve lui incombant ne s’étendait pas à l’obligation de démontrer quand, comment et pourquoi il avait accumulé des sommes très importantes dans le coffre-fort construit dans la maison de son père. Il s’est limité à prétendre que le coffre-fort recélait beaucoup d’argent sans préciser le montant ni le détail quant aux montants et dates où il avait gagné les courses de vélo.
+[43] Je ne partage pas l’opinion des appelants quant à l’étendue du fardeau de la preuve; souscrire à une telle opinion aurait pour effet de mener à des aberrations.
+[44] Ainsi, une personne de 18 ans gagnant 50 000 $ à la loterie pourrait déclarer le même montant des dizaines de fois lors de sa vie active. Chaque fois qu’il aurait à expliquer ou à justifier un écart entre ses revenus et ses dépenses, il pourrait exhiber le chèque de Loto-Québec.
+[45] En l’espèce, il n’y a même pas l’équivalent d’un chèque et les appelants sont d’avis que la Cour devrait tenir pour acquis que le coffre-fort, situé dans la résidence des parents de monsieur Sanchez en France, est toujours bien garni.
+[46] Certains éléments de fait me semblent avoir été très bien établis, à savoir notamment que l’appelant était un athlète accompli ayant eu beaucoup de succès.
+[47] D’autres éléments, cependant, soulèvent des questions et étayent plutôt une conclusion à l’effet que les explications sont douteuses au point qu’il faille les écarter et conclure qu’il s’agit là d’explications déraisonnables et non crédibles.
+[48] Il n’est jamais facile d’évaluer la crédibilité d’une personne; malheureusement, il n’existe pas de recette magique ou fiable de manière absolue. La raisonnabilité est généralement de mise mais elle ne suffit pas.
+[49] Mon approche a toujours été de quantifier des éléments disponibles pour en arriver à une conclusion fondée sur de la prépondérance.
+[50] En l’espèce, je répète éprouver de la sympathie pour les appelants. Les qualités athlétiques de l’appelant et ses nombreuses victoires en Europe ne sont pas en cause bien qu’une meilleure preuve eut été préférable.
+[51] A-t-il vraiment économisé près de 200 000 $ déposés en espèces dans un coffre-fort chez ses parents? Répondre par l’affirmative serait un acte de foi qui ne repose pas sur grand-chose.
+[52] De plus, cette allégation doit être examinée en fonction des explications des appelants. Or la preuve a établi ce qui suit :
+· L’appelant est une personne généreuse qui n’hésite pas à prêter sans intérêts à ses amis et aux membres de sa famille élargie.
+· L’appelant a offert deux véhicules neufs à son père qui n’a manifestement pas de revenus importants.
+· L’appelant a payé les frais de réparation de deux appartements, propriétés de sa famille à la suite du décès de parents.
+· L’appelant a exploité sans succès un commerce qu’il a dû fermer en Belgique.
+· L’appelant est marié et est père de trois enfants; l’appelant et sa famille ont immigré au Canada; l’appelant a mis sur pied ou acquis un commerce; l’appelant a fait l’acquisition du commerce d’un compétiteur.
+· L’appelant a affirmé qu’il faisait tout en son pouvoir pour réduire l’appétit financier de son ex-épouse qui avait la garde des trois enfants, ce qui est fort surprenant pour quelqu’un qui s’attribue des qualités relatives a de profonde préoccupation pour sa famille. Faut-il comprendre que ses propres enfants sont exclu de ce qu’il considère sa famille?
+· L’appelant a affirmé que la famille était ce qu’il y avait de plus important et que jamais il n’avait mis en doute la gestion des sommes importantes se trouvant dans le coffre-fort.
+· L’appelant n’a jamais indiqué ce que contenait précisément le coffre-fort à des moments précis.
+· L’appelant est devenu agressif lorsque la vérificatrice a voulu en savoir un peu plus sur le contenu du coffre-fort.
+· Il y a une absence totale de preuve documentaire quant aux montants importés par ses parents.
+· Il y a une absence de preuve écrite relativement aux opérations qui auraient été effectuées aux comptoirs de change.
+· Il y a une absence de preuve circonstancielle quant aux dates de dépôt des sommes importées avec les dates de séjour de ses parents.
+· Le montant des sommes importées, soit 10 000 $, est conforme aux restrictions prévues par la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes, L.C. 2000 ch. 17, par. 12(1).
+· L’amélioration notable de la situation financière de l’appelant coïncide avec la venue du gestionnaire.
+· L’appelant a admis avoir fait des ventes au comptant non divulguées au comptable de l’entreprise.
+[53] En d’autres termes, la preuve a aussi fait ressortir ce qui suit :
+a) incohérences dans le témoignage du père;
+b) la mémoire sélective de l’appelant;
+c) remarques et observations à l’effet que tout était fait pour cacher à son ex-épouse les choses ayant trait à ses finances personnelles;
+d) incohérences de l’appelant relativement à son sens poussé de la famille vis-à-vis son attitude face à ses trois enfants;
+e) absence de données fiables concernant le contenu du coffre-fort;
+f) réactions démesurées et agressives aux questions de la vérificatrice touchant l’importance des sommes importées de l’étranger;
+g) absence totale de suivi concernant le contenu du coffre-fort;
+h) explications culturelles;
+i) minceur de la preuve documentaire fournie par les appelants.
+[54] Je reprends un passage de la décision que je rendais dans l’affaire Ruest c. Canada, [1999] A.C.I. No 586, au paragraphe 27 :
+Pour convaincre le Tribunal, il devait, au moyen d’une preuve prépondérante, établir la vraisemblance, la raisonnabilité, la justesse et la cohérence de ses prétentions. Il ne suffisait pas de critiquer et soulever certains griefs mineurs pour conclure que tout balançait, grâce au montant reçu à un certain moment donné.
+[55] Au départ, les explications étaient pour le moins assez particulières. En pareille situation, il devenait impératif pour les appelants de soumettre une preuve circonstancielle d’une bonne et raisonnable qualité s’ils ne pouvaient pas fournir une preuve directe.
+[56] À cet égard, pourquoi seul le père de l’appelant a témoigné et non sa mère, qui, aux dires de l’appelant, était plus méthodique, meilleure administratrice et plus disciplinée.
+[57] Le principal témoin des appelants a témoigné; Le père de l’appelant a été le principal témoin; il a soumis des réponses et explications plutôt vagues et confuses, et ce, bien qu’il semblait assez à l’aise; Il pouvait compter sur l’aide d’un interprète lui permettant de comprendre mais aussi de répondre, et ce, tout en ayant une bonne connaissance du français au point où il lui arrivait de répondre aux questions qui lui étaient posées avant même que l’interprète ait terminé de les traduire.
+[58] L’examen de la preuve n’a pas permis à la Cour de découvrir des documents étayant des dépôts en argent importants, ni aucun reçu ou récépissé d’échange, ni aucune copie de déclarations aux douanes. L’ensemble de cette preuve documentaire n’était pas disponible, mais il me semble que les appelants auraient dû dénicher au moins quelques pièces justificatives.
+[59] Le fardeau de la preuve qui incombait à l’appelant ne consistait pas simplement comme en matière pénale à faire valoir des hypothèses au sujet de la provenance de certains fonds, mais à démontrer selon la prépondérance des probabilités la véracité de sa version des faits.
+[60] Au Canada, le système fiscal est fondé sur le principe de l’autocotisation conformément à des lois certes complexes mais cependant précises. Lorsqu’une personne choisi de s’installer au Canada, elle doit accepter cette réalité et s’y conformer au même titre que tous les canadiens.
+[61] Les explications quant aux us et coutumes, quant à la culture et aux habitudes du pays d’origine d’un contribuable ne sont ni une explication ni une excuse pour éviter de se conformer aux lois fiscales du Canada.
+[62] Tous les contribuables canadiens sont susceptibles de faire l’objet d’une vérification fiscale et de divulguer d’une manière fiable et raisonnable les renseignements intéressant le fisc.
+[63] En l’espèce, pourquoi l’appelant n’a-t-il pas amené avec lui, au Canada, l’argent qu’il possédait en Europe? Il venait s’établir au Canada avec sa famille, il avait nécessairement besoin de fonds et il savait très bien qu’il ne pourrait vivre de la course à vélo comme en Europe, selon son propre témoignage. Pourquoi n’a-t-il pas au moins calculé le montant de ses avoirs placés dans le coffre-fort? Pourquoi son père a-t-il emprunté de l’argent en 2000 puisqu’il avait accès au contenu bien garni du coffre-fort?
+[64] Le représentant des appelants demande à la Cour de ne pas tenir compte de la confusion et des incohérences dont souffrait sa preuve au motif que la différence de culture et la sympathie militent en faveur de la thèse des appelants. Or, la responsabilité de la Cour est d’abord et avant tout de faire en sorte que les personnes assujetties aux lois fiscales les respectent.
+[65] Pour se soustraire à une cotisation établie par la méthode de l’avoir net, il ne suffit pas de soumettre une histoire ayant des allures de vraisemblance et ayant pour but d’expliquer tous les écarts entre les revenus et les avoirs nets. Un alibi est un moyen de défense très valide, encore faut-il qu’il soit établi et prouvé de manière convaincante et déterminante.
+[66] Les appels sont rejetés avec dépens en faveur de l’intimée.
+Signé à Ottawa, Canada, ce 17e jour de juin 2010.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2010 CCI 283
+Nº DU DOSSIER DE LA COUR : 2008-3811(IT)G
+INTITULÉ DE LA CAUSE : MIGUEL SANCHEZ c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Québec (Québec)
+DATE DE L’AUDIENCE : le 18 janvier 2010
+MOTIFS DU JUGEMENT PAR : L'honorable juge Alain Tardif
+DATE DU JUGEMENT : le 17 juin 2010
+COMPARUTIONS :
+Représentant des appelants :
+Marc Gaucher
+Avocate de l'intimée :
+Me Christina Ham
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

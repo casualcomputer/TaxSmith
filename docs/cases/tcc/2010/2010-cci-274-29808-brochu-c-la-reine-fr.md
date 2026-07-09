@@ -1,0 +1,129 @@
+---
+title: "Brochu c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29808/index.do"
+last_modified: "2010-05-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 274"
+citation2: ""
+neutral_citation: "2010 CCI 274"
+decision_date: "2010-05-18"
+language: "fr"
+item_id: "29808"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6614
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:58:53.435000+00:00"
+cases_cited_count: 6
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7091d8c52c26afddf39b90c30e341e7b780a748681b9760082ad15c7f55531dd"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Brochu c. La Reine
+
+- Citation: 2010 CCI 274
+- Decision date: 2010-05-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6614, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Brochu c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-05-18
+Référence neutre
+2010 CCI 274
+Numéro de dossier
+2009-721(IT)I
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-721(IT)I
+ENTRE :
+JEAN‑B. BROCHU,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 7 avril 2010, à Timmins (Ontario).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Jonathan Charron
+____________________________________________________________________
+JUGEMENT
+Les appels des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2004 et 2005 sont rejetés selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 18e jour de mai 2010.
+« Patrick Boyle »
+Juge Boyle
+Référence : 2010 CCI 274
+Date : 20100518
+Dossier : 2009-721(IT)I
+ENTRE :
+JEAN‑B. BROCHU,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Boyle
+[1] Soutenant qu’en sa qualité d’employé il a le droit de déduire ses frais d’automobile dans la mesure où ils sont liés à son travail, M. Brochu a interjeté appel, sous le régime de la procédure informelle de la Cour, des nouvelles cotisations établies à son égard pour les années d’imposition 2004 et 2005.
+[2] M. Brochu est conducteur d’équipement lourd et travaille pour Abitibi Bowater Inc. (« Abitibi ») dans la région d’Iroquois Falls. L’hiver, pendant plusieurs mois, il se présente au travail au début de la semaine à un camp forestier situé à environ 190 kilomètres de sa résidence à Smooth Rock Falls et regagne son domicile le vendredi. Conformément à la convention collective, Abitibi lui verse un montant de 20 $ chaque semaine pour couvrir en partie ses frais de déplacement. Abitibi ne fournit pas d’autre moyen de transport pour se rendre au camp d’hiver.
+[3] Pour le reste de l’année, M. Brochu se présente quotidiennement au travail au Stimson Depot d’Abitibi ou se rend en voiture au stationnement et point de rassemblement d’Abitibi à Cochrane, où il prend une navette d’Abitibi pour se rendre à un camp forestier « voyageur ». Le point de rassemblement à Cochrane est à environ 60 kilomètres de sa résidence à Smooth Rock Falls. Presque tous les jours, M. Brochu se rend en voiture jusqu’au point de rassemblement, et ce, peu importe qu’il doive travailler au Stimson Depot ou à un camp « voyageur ». Abitibi attribue les tâches chaque semaine et, généralement, elles s’accomplissent au même endroit tous les jours pour une période de un à trois mois. On ne s’écarte de cette routine qu’occasionnellement. Les rares fois où M. Brochu travaille à plus d’un endroit dans la même journée, Abitibi lui fournit le transport la plupart du temps, et ce n’est qu’exceptionnellement qu’il a besoin d’utiliser sa propre voiture dans ces cas-là. Conformément à la convention collective, Abitibi verse à M. Brochu 8 $ par jour pour couvrir en partie ses frais de déplacements quotidiens.
+[4] Au Stimson Depot, Abitibi a un établissement permanent composé d’un garage comportant trois postes de réparation, d’un entrepôt et de quelques bureaux.
+[5] À Cochrane, le point de rassemblement consiste en un grand parc de stationnement équipé de prises électriques pour les véhicules d’Abitibi et pour ceux de ses employés, ainsi que d’un réservoir de carburant. Cet emplacement est entretenu et utilisé tout au long de l’année.
+[6] M. Brochu a demandé à Abitibi de lui fournir un formulaire T2200 signé, mais cela lui a été refusé. Il a réitéré sa demande à plusieurs reprises avec l’aide de son comptable et de son délégué syndical, mais Abitibi refusait toujours.
+[7] M. Brochu soutient que l’allocation pour l’usage d’une automobile que lui versait son employeur était exceptionnellement petite et que, par conséquent, il devrait pouvoir déduire ses frais réels d’automobile dans la mesure où ils dépassent le montant de l’allocation. Ce point de vue serait conforme aux motifs donnés par l’ancien juge en chef Bowman au paragraphe 8 de la décision Henry c. La Reine, 2007 CCI 451, 2007 DTC 1410, et à ceux de la Cour dans la décision Landry c. La Reine, 2007 CCI 383, 2007 DTC 1396 (confirmée par la Cour d’appel fédérale, 2009 CAF 174, 2009 DTC 5123), pourvu que M. Brochu réponde à toutes les autres exigences de l’alinéa 8(1)h.1).
+[8] La règle générale veut que ni les employés ni les travailleurs indépendants n’aient droit à la déduction des frais afférents à un véhicule à moteur liés aux déplacements effectués pour aller au travail et en revenir. Les exceptions sont précises et limitées. La seule déduction dont M. Brochu pourrait éventuellement bénéficier serait celle prévue par l’alinéa 8(1)h.1). Cette déduction est assujettie à plusieurs conditions obligatoires. Premièrement, l’employé doit être tenu, selon les conditions de son emploi, de se rendre à un lieu de travail situé ailleurs qu’au lieu d’affaires de son employeur ou à différents endroits. Deuxièmement, l’employé doit être obligé de supporter les frais de ces déplacements. Troisièmement, selon le paragraphe 8(10), l’employeur doit attester sur le formulaire T2200 que ces conditions sont remplies.
+[9] Le camp d’hiver, les camps « voyageurs » et le Stimson Depot sont manifestement tous des lieux d’affaires d’Abitibi. Au camp d’hiver, il y a des bureaux, des salles de bains, des habitations et un réfectoire en plus de toutes les autres choses qui sont nécessaires pour faire fonctionner un camp forestier pendant plusieurs mois. Le lieu d’affaires d’Abitibi ne se limite pas à son bureau principal à Iroquois Falls. Le point de rassemblement de Cochrane est certes un lieu d’affaires simple et non conventionnel, mais M. Brochu s’y présentait chaque jour pendant la majeure partie de l’année pour prendre la navette d’Abitibi afin de se rendre au lieu de travail auquel il était affecté.
+[10] M. Brochu a très rarement utilisé sa propre automobile à des fins liées au travail autres que celle de se rendre au travail et de regagner son domicile chaque jour, ou, durant l’hiver, chaque semaine. Il prenait donc son véhicule uniquement pour se rendre au point de rassemblement à Cochrane et en revenir, sauf lorsqu’il travaillait au camp d’hiver. Il travaillait chaque jour dans un des lieux d’affaires de son employeur et ce n’est qu’à titre exceptionnel qu’il travaillait à plus d’un endroit au cours d’une journée, et ce n’est encore que plus rarement qu’il devait utiliser son propre véhicule pour se rendre à un autre lieu d’affaires. Pour ce motif, les appels de M. Brochu doivent être rejetés.
+[11] Je tiens également à faire remarquer que le libellé du paragraphe 8(10) exige un formulaire T2200 dûment rempli et signé et qu’un tel formulaire n’a pas été fourni à M. Brochu. Bien qu’il soit possible que dans des circonstances exceptionnelles, on puisse obtenir une déduction fondée sur l’alinéa 8(1)h.1) si l’employeur a refusé sans motif valable de remplir et de signer le formulaire T2200 ou s’il n’a pas pu le faire, il est évident que tel n’est pas le cas en l’espèce. Selon le témoignage d’un cadre d’Abitibi, Abitibi n’a pas rempli et signé un formulaire T2200 dans le cas de M. Brochu parce qu’elle ne croyait pas que M. Brochu remplissait les conditions requises et parce qu’elle avait obtenu auparavant de l’Agence du revenu du Canada (l’« ARC ») un avis écrit selon lequel l’ARC estimait que les employés d’Abitibi qui se trouvaient dans des circonstances pareils à celles de M. Brochu n’avaient pas droit à la déduction. La Cour est arrivée à la même conclusion. En l’espèce, l’absence du formulaire T2200 commande le rejet des appels.
+[12] Pour conclure, je tiens à ajouter que l’ARC a établi à l’égard de M. Brochu une nouvelle cotisation excluant de son revenu, en vertu du sous‑alinéa 6(1)b)(vii.1), la totalité de l’allocation de déplacement qu’il avait reçue d’Abitibi pour chacune des années en cause, même si M. Brochu pensait que l’allocation était déraisonnablement petite. La Cour ne se prononce pas sur la question de savoir si le sous‑alinéa 6(1)b)(vii.1) autorise l’exclusion d’une allocation de déplacement qui n’est pas raisonnable, mais se borne à rappeler les observations de la Cour dans les décisions Henry et Landry précitées, observations selon lesquelles une allocation qui est déraisonnablement petite ne peut être exclue en vertu du sous‑alinéa 6(1)b)(vii.1) et par conséquent, une déduction pourrait être accordée en vertu de l’alinéa 8(1)h.1) dans des circonstances qui satisfont aux conditions requises. De même, la Cour n’a pas à se prononcer sur la question de savoir si, dans les circonstances de la présente affaire, les allocations de déplacement versées par Abitibi étaient déraisonnablement petites, raisonnables, ou déraisonnablement élevées, étant donné que, quelle que soit la conclusion, cela ne permettrait pas à M. Brochu d’obtenir gain de cause.
+[13] Monsieur Brochu affirme avoir reçu de son comptable et de l’ARC, en réponse à ses demandes de renseignements initiales, un avis qui lui était favorable. Voilà qui est malheureux, mais, en l’espèce, pareil avis n’empêche pas l’intimée d’exiger que la Cour applique la loi correctement.
+[14] Les appels sont rejetés.
+Signé à Ottawa, Canada, ce 18e jour de mai 2010.
+« Patrick Boyle »
+Juge Boyle
+RÉFÉRENCE : 2010 CCI 274
+Nº DU DOSSIER DE LA COUR : 2009-721(IT)I
+INTITULÉ DE LA CAUSE: JEAN‑B. BROCHU c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Timmins, Ontario
+DATE DE L’AUDIENCE : Le 7 avril 2010
+MOTIFS DU JUGEMENT PAR : L’honorable juge Patrick Boyle
+DATE DU JUGEMENT : Le 18 mai 2010
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate d l’intimée :
+Me Jonathan Charron
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,501 @@
+---
+title: "Manhue c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/309062/index.do"
+last_modified: "2018-04-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 CCI 71"
+citation2: ""
+neutral_citation: "2018 CCI 71"
+decision_date: "2018-04-17"
+language: "fr"
+item_id: "309062"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7465
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:57:36.822000+00:00"
+cases_cited_count: 36
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "673476310d3bdbb91f353ed147731adf1217de8f6c415b26b0165a04c246809f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Manhue c. La Reine
+
+- Citation: 2018 CCI 71
+- Decision date: 2018-04-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7465, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Manhue c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-04-17
+Référence neutre
+2018 CCI 71
+Numéro de dossier
+2013-605(IT)G
+Juges et Officiers taxateurs
+Don R. Sommerfeldt
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013‑605(IT)G
+ENTRE :
+NICHOLAS MANHUE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 26 septembre 2016 et le 8 septembre 2017, à Toronto (Ontario)
+Devant : L'honorable juge Don R. Sommerfeldt
+Comparutions :
+Avocat de l'appelant :
+Me Archie B. Palinka
+Avocat de l'intimée :
+Me Christian Cheong
+JUGEMENT
+L'appel à l'encontre de la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu à l'égard de l'année d'imposition 2009 est rejeté, sans dépens.
+Signé à Ottawa, Canada, ce 17e jour d'avril 2018.
+« Don R. Sommerfeldt »
+Le juge Sommerfeldt
+Référence : 2018 CCI 71
+Date : 20180417
+Dossier : 2013‑605(IT)G
+ENTRE :
+NICHOLAS MANHUE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Sommerfeldt
+I. INTRODUCTION
+[1] Les présents motifs ont trait à l'appel interjeté par Nicholas Manhue à l'encontre d'une cotisation (la « cotisation ») visant son année d'imposition 2009 selon l'avis de cotisation du 30 décembre 2010 établi par l'Agence du revenu du Canada (l'« ARC ») au nom du ministre du Revenu national (le « ministre »). La déclaration de revenus de 2009 de M. Manhue avait été préparée par un représentant d'une organisation appelée Fiscal Arbitrators. Cette déclaration indiquait une perte d'entreprise équivalente à environ la somme de son revenu de 2006 à 2009. Selon la cotisation, le ministre a refusé la perte d'entreprise et a également imposé une pénalité de 32 633,91 $ en application du paragraphe 163(2) de la Loi de l'impôt sur le revenu (la « LIR ») [1] . M. Manhue ne s'est pas opposé au refus de la perte d'entreprise ni au montant de l'impôt sur le revenu établi par la cotisation, et il n'a pas interjeté appel à l'égard de ces montants, mais il s'est opposé à l'imposition de la pénalité et en a interjeté appel.
+II. LA QUESTION EN LITIGE
+[2] La Cour doit décider si M. Manhue est redevable d'une pénalité en application du paragraphe 163(2) de la LIR. En conséquence, il faut décider si M. Manhue a sciemment, ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans sa déclaration de revenus de 2009 et dans des documents connexes, ou y a participé, y a consenti ou y a acquiescé.
+III. LES FAITS
+A. Survol
+[3] M. Manhue a immigré au Canada de la Jamaïque lorsqu'il était âgé de 15 ans. Il a étudié à une école secondaire en Ontario et a obtenu son diplôme d'études secondaires [2] .
+[4] M. Manhue était et est un travailleur consciencieux. Il a eu divers emplois d'été pendant qu'il était à l'école. De plus, pendant une année alors qu'il fréquentait l'école secondaire, il travaillait le quart de nuit à une boulangerie, se présentant au travail tous les soirs à 23 h et travaillant jusqu'à 7 h le lendemain, heure à laquelle il se rendait chez lui, prenait une douche et se rendait à l'école. De 1988 jusqu'à la date de l'audience, M. Manhue était au service de General Motors, à Oshawa [3] .
+[5] Depuis qu'il travaille, M. Manhue a produit une déclaration de revenus chaque année. Au fil des ans, ces déclarations de revenus ont été préparées par divers préparateurs qu'il a embauchés [4] . Lorsque M. Manhue devait préparer sa déclaration de revenus de 2009, un collègue lui a recommandé Reuel McGann, qui représentait Fiscal Arbitrators [5] .
+[6] En contre‑interrogatoire, M. Manhue a expliqué la manière dont il a appris l'existence de Fiscal Arbitrators :
+[TRADUCTION]
+Q. Comment êtes‑vous venu à faire affaire avec Fiscal Arbitrators?
+R. Un de mes collègues me les a recommandés parce qu'il avait fait affaire avec eux pendant deux ans. Nous en discutions au travail et il a dit : « Oui, ils ont préparé mes déclarations et j'ai obtenu de bons remboursements sans problème. » Il a donc fixé une rencontre à Scarborough à proximité de la maison de sa sœur et nous nous sommes rencontrés là, et nous avons rencontré M. McGann. Il y avait M. McGann, moi, sa sœur et l'époux de sa sœur.
+Q. Il vous a dit qu'il a obtenu de bons remboursements. Est‑ce qu'il vous a expliqué comment il a pu —
+R. Non. Il a dit que cet arbitrage avait fait quelque chose, quoi que ce soit, et qu'il avait obtenu un bon remboursement. Et ce n'était pas — on n'a pas fait de vérification ou quoi que ce soit. Il était —
+Q. Est‑ce qu'il vous a dit le montant qu'il a obtenu?
+R. Non, il ne m'a pas dit un montant. Non [6] .
+Même si ce n'est pas évident, il semble que, lorsque M. Manhue utilisait l'expression « un bon remboursement », il renvoyait à des remboursements d'impôt [7] .
+[7] M. Manhue en est venu à faire confiance à M. McGann et à Fiscal Arbitrators, même si M. McGann n'avait pas décrit ses titres de compétence [8] . D'une part, il semble que la confiance de M. Manhue était fondée sur le fait que M. McGann s'était présenté à la rencontre à Scarborough avec un complet et une serviette [9] . De plus, M. Manhue semble avoir fait confiance à la recommandation de son ami, tel que cela est expliqué dans l'échange suivant :
+[TRADUCTION]
+Q. Qu'est‑ce que votre ami vous a dit, ou votre collègue; qu'est‑ce qu'il vous a dit au sujet de ce programme, le cas échéant?
+R. Pas grand‑chose. Tout ce qu'il a dit était « Ils sont bons », et qu'il avait préparé sa déclaration de revenus pendant deux ans consécutifs et qu'il n'a éprouvé aucun problème [10] .
+[8] Il semble que M. Manhue trouvait que le nom « Fiscal Arbitrators » était impressionnant. Par exemple, il a affirmé ce qui suit :
+[TRADUCTION]
+En allant avec eux, ma connaissance est que lorsque j'entends des noms comme « arbitres » ou « arbitres fiscaux » ou le terme « fiscal », je croyais qu'ils étaient des professionnels [11] .
+[9] Après avoir rencontré M. McGann, M. Manhue a décidé de recourir aux services de Fiscal Arbitrators. Il a donné à M. McGann un chèque de 500 $ (soit une partie des frais de préparation de la déclaration de revenus) [12] et a donné à Fiscal Arbitrators des copies de ses feuillets T4 de 2006 à 2009. Fiscal Arbitrators a préparé la déclaration de revenus de 2009 de M. Manhue et la lui a acheminée par courrier afin qu'il la signe et la produise auprès de l'ARC. La déclaration de revenus lui a été envoyée en double, avec un ensemble de directives intitulé [TRADUCTION] « Liste de contrôle fiscal » [13] .
+[10] En plus de fournir à M. Manhue deux copies de sa déclaration de revenus de 2009 [14] , Fiscal Arbitrators lui a également envoyé les formulaires « État des résultats des activités d'une entreprise ou d'une profession libérale » (formulaire T2125) [15] et « Demande de report rétrospectif d'une perte » (formulaire T1A) [16] , ainsi que la liste de contrôle susmentionnée et une enveloppe pour envoyer à l'ARC la déclaration signée et les documents à l'appui par la poste [17] . M. Manhue n'a pas examiné chaque page de sa déclaration de revenus. Il est plutôt passé à la page de signature, l'a regardée rapidement et l'a signée [18] . Il a également signé la « Demande de report rétrospectif d'une perte » sans l'examiner [19] .
+[11] Lorsque l'ARC a examiné la déclaration de revenus de 2009 de M. Manhue, elle a conclu que la perte d'entreprise déclarée ne semblait pas être légitime. En conséquence, l'ARC a établi la cotisation, qui refusait la perte et imposait une pénalité en application du paragraphe 163(2) de la LIR. M. Manhue s'est ensuite opposé, l'ARC a ratifié la cotisation, et M. Manhue, avec l'aide de Fiscal Arbitrators, a interjeté appel.
+B. Le témoignage de Reuel McGann
+[12] M. McGann a rencontré M. Manhue deux fois, une fois à la maison de la sœur du collègue de M. Manhue et ensuite dans un parc de stationnement à proximité de l'intersection de Victoria Park (sans doute l'avenue Victoria Park) et d'une autre rue appelée, à différents moments, Ellesmere (sans doute le chemin Ellesmere) [20] , la 401 (sans doute l'autoroute 401) [21] , et Birchmount (sans doute le chemin Birchmount) [22] .
+[13] Durant son témoignage, M. McGann était défensif et évasif, et il était difficile de l'amener à donner une réponse claire. Me Palinka, l'avocat de M. Manhue, s'est efforcé d'obtenir que M. McGann reconnaisse que M. Manhue l'avait appelé ou l'avait rencontré pour obtenir des éclaircissements au sujet des renseignements dans sa déclaration de revenus et les formulaires connexes. À un moment, il semblait que M. McGann reconnaissait qu'une telle conversation avait eu lieu :
+[TRADUCTION]
+Q. [...] si je vous disais que selon le témoignage de M. Manhue, il avait des questions au sujet de l'ensemble du processus, de sa signature, des chiffres figurant au document, et qu'il vous avait appelé et que vous aviez dit : « Suis simplement le — suis simplement la liste de contrôle, fais ce qui est indiqué à la liste de contrôle », souscririez‑vous à cet énoncé?
+R. Oui [23] .
+Lorsque Me Palinka a ensuite posé une question de suivi en vue de confirmer que M. McGann avait donné de tels conseils à M. Manhue, M. McGann a donné une longue réponse décousue qui ne répondait pas à la question [24] . Quelques minutes plus tard au cours de l'interrogatoire, M. McGann semblait s'éloigner de sa reconnaissance qu'il avait eu une conversation avec M. Manhue au sujet des questions de celui‑ci concernant la signature de la déclaration de revenus :
+[TRADUCTION]
+Q. [...] Il [M. Manhue] vous a appelé, il vous a posé ces questions, et il a ensuite fait un suivi et a dit : « Écoute, je dois te rencontrer, et nous allons — tu dois m'expliquer comment faire. » Et que votre réponse à ce moment‑là était la suivante : « Écoute, fais simplement ce qui est indiqué à la liste de contrôle, fais ça, c'est ce que j'ai fait, ça a fonctionné, suis simplement la liste de contrôle. » Que vous avez rejeté que vous — que vous l'avez assuré que cela était correct. Souscririez‑vous à cet énoncé?
+R. Désolé, je ne m'en souviens pas [25] .
+[14] Les échanges qui précèdent sont intéressants pour deux raisons. En premier lieu, ils illustrent le manque de fiabilité du témoignage de M. McGann. En deuxième lieu, après avoir entendu le témoignage de M. Manhue, qui a été donné après celui de M. McGann, je ne suis pas convaincu que M. Manhue a réellement communiqué avec M. McGann pour lui poser des questions au sujet de la signature de la déclaration de revenus. M. Manhue a décrit le processus de signature de sa déclaration comme suit :
+[TRADUCTION]
+R. [...] Donc, lorsque je reçois la trousse [contenant la déclaration de revenus et les formulaires connexes], je dois — étaient‑ils satisfaits? Je n'ai qu'à chercher le mot « par », où ils ont indiqué que je devais signer, et j'ai signé. Je la remets, je la plie, et je l'envoie.
+Q. D'accord. Vous souvenez‑vous si vous l'avez signé dès que vous l'avez reçue? Ou avez‑vous appelé quelqu'un ou —
+R. Non. Lorsque je l'ai reçue, je l'ai ouverte et j'ai vérifié la liste de contrôle. Et j'ai ensuite tourné la page et c'est là que je l'ai signée [26] .
+En conséquence, il semble que M. Manhue ne constatait aucun besoin de discuter avec M. McGann ou de le rencontrer au sujet de la signature de la déclaration de revenus.
+[15] Lorsqu'il a interrogé M. McGann, Me Palinka a éprouvé des difficultés à établir si M. McGann avait rencontré M. Manhue une deuxième fois et, dans l'affirmative, la raison pour laquelle ils s'étaient rencontrés. Lorsque Me Palinka a interrogé M. McGann au sujet d'une telle rencontre, qui aurait eu lieu dans un parc de stationnement à proximité de l'intersection de Victoria Park et d'Ellesmere, M. McGann a d'abord répondu qu'il ne se souvenait pas s'il y avait rencontré M. Manhue, mais qu'il supposait qu'il l'avait fait [27] . Quelques minutes plus tard pendant son témoignage, il a reconnu avoir rencontré M. Manhue dans un parc de stationnement à l'intersection de l'avenue Victoria Park et du chemin Ellesmere [28] , et lorsque Me Palinka l'a ensuite interrogé de nouveau à ce sujet, M. McGann a continué de reconnaître l'avoir fait [29] . Tel que je l'ai indiqué ci‑dessus, Me Palinka a tenté sans succès d'obtenir un autre aveu de M. McGann selon lequel la deuxième rencontre avait pour but de régler les questions de M. Manhue au sujet de la signature de la déclaration de revenus.
+[16] Lorsque M. Manhue a témoigné, il a déclaré que sa deuxième rencontre avec M. McGann avait eu lieu un certain temps après avoir reçu une lettre de l'ARC du 9 juin 2010 et un questionnaire sur l'entreprise dans lesquels l'ARC demandait des renseignements et des documents relatifs à la perte d'entreprise nette indiquée par M. Manhue dans sa déclaration de revenus de 2009 [30] . M. Manhue a acheminé la lettre et le questionnaire à Fiscal Arbitrators. Ensuite, M. Manhue a rencontré M. McGann dans un parc de stationnement près d'un magasin de beignes situé à l'intersection de l'avenue Victoria Park et de l'autoroute 401. M. McGann a donné à M. Manhue une lettre du 14 juin 2014 qu'il devait acheminer à l'ARC [31] .
+[17] Après avoir tenu compte des témoignages de M. McGann et de M. Manhue, je suis d'avis que la deuxième rencontre entre eux a eu lieu afin que Fiscal Arbitrators et M. Manhue répondent aux demandes de renseignements de l'ARC concernant la déclaration de revenus de 2009, que M. Manhue avait déjà produite. Rien dans la preuve n'indique que M. Manhue avait appelé ou rencontré M. McGann avant de signer et de produire la déclaration afin de poser des questions concernant la signature et la production.
+C. Le témoignage de Lawrence Watts
+[18] Le premier jour de l'audition du présent appel, Me Palinka a déclaré qu'il souhaitait faire témoigner Lawrence (Larry) Watts, qui était le fondateur principal de Fiscal Arbitrators. M. Watts était alors incarcéré, après avoir été reconnu coupable de fraude et condamné à une peine d'emprisonnement de six ans dans un pénitencier fédéral [32] . Après le premier jour de l'audience, il y a eu un long retard pendant lequel Me Palinka s'est efforcé de trouver M. Watts au sein du système pénitencier et de prendre les dispositions nécessaires pour qu'il témoigne par visioconférence. Après avoir pris de telles mesures et quelques semaines à peine avant la reprise de l'audience, M. Watts a été libéré du pénitencier en libération conditionnelle, ce qui exigeait que de nouvelles mesures soient prises pour qu'il témoigne à la reprise de l'audience.
+[19] Le témoignage de M. Watts n'était ni utile ni nuisible à la thèse de M. Manhue. M. Watts a déclaré qu'il n'avait jamais vu M. Manhue avant le deuxième jour de l'audience, c'est‑à‑dire le 8 septembre 2017 [33] , et qu'il n'avait jamais parlé à M. Manhue [34] . M. Watts n'était pas au courant auparavant de l'allégation selon laquelle Fiscal Arbitrators avait préparé la déclaration de revenus de 2009 de M. Manhue [35] . M. Watts a expliqué que, lorsque Fiscal Arbitrators était exploitée, il avait des dossiers numériques et des dossiers sur papier de ses clients et des déclarations de revenus qu'elle préparait. Toutefois, tous ces dossiers avaient été saisis et retenus par l'ARC, de sorte qu'il lui était impossible de déterminer si M. Manhue avait été un client de Fiscal Arbitrators [36] . M. Watts ne savait pas s'il avait préparé personnellement la déclaration de revenus de 2009 de M. Manhue [37] , ni s'il avait reçu le chèque de 500 $ payable à [TRADUCTION] « Lawrence Watts, fiduciaire » que M. Manhue avait donné à M. McGann [38] . En fait, M. Watts a refusé de reconnaître que Fiscal Arbitrators avait préparé la déclaration de revenus de 2009 de M. Manhue [39] . Bref, M. Watts a déclaré qu'il [TRADUCTION] « n'avait aucune connaissance à son égard », c'est‑à‑dire M. Manhue [40] .
+[20] M. Watts a expliqué que Fiscal Arbitrators utilisait un processus à deux étapes pour obtenir les frais de ses clients. Des honoraires immédiats de 500 $ devaient être payés au moment de l'embauche de Fiscal Arbitrators. De plus, Fiscal Arbitrators recevait un pourcentage de tout remboursement que le client obtenait [41] . Tel que cela a été indiqué ci‑dessus, M. Watts a indiqué qu'il ne savait pas s'il avait reçu le chèque de 500 $ de M. Manhue [42] .
+[21] M. Watts a déclaré qu'il ne se souvenait pas et, par conséquent, qu'il ne savait pas s'il y avait un document à l'appui de la perte d'entreprise nette de 263 351,82 $ indiquée dans la déclaration de revenus de 2009 de M. Manhue [43] . M. Watts ne savait pas qu'une nouvelle cotisation avait été établie à l'égard de M. Manhue et qu'une pénalité avait été imposée [44] . Il a refusé de reconnaître que M. Manhue lui avait fait confiance pour préparer de manière exacte sa déclaration de revenus de 2009 [45] .
+[22] Lors du contre‑interrogatoire, M. Watts a déclaré qu'il n'avait empêché personne, y compris M. Manhue, d'examiner la déclaration de revenus préparée par Fiscal Arbitrators, quoique M. Watts ait ajouté qu'il n'avait pas été déterminé que la déclaration de revenus de 2009 de M. Manhue avait été préparée par Fiscal Arbitrators [46] .
+IV. ANALYSE
+A. Les dispositions légales
+[23] Puisque M. Manhue ne conteste pas le montant de la pénalité, pour le présent appel, la partie pertinente du paragraphe 163(2) de la LIR est la suivante :
+163(2) Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse [...] rempli, produit ou présenté, selon le cas, pour une année d'imposition pour l'application de la présente loi, ou y participe, y consent ou y acquiesce est passible d'une pénalité [...]
+[24] Le paragraphe 163(3) de la LIR impose au ministre la charge de la preuve relativement à cette pénalité :
+163(3) Dans tout appel interjeté, en vertu de la présente loi, au sujet d'une pénalité imposée par le ministre en vertu du présent article [...] le ministre a la charge d'établir les faits qui justifient l'imposition de la pénalité.
+B. Les faux énoncés
+[25] Aux lignes 162 et 135, respectivement, à la page 2 de sa déclaration de revenus de 2009, M. Manhue a déclaré un revenu d'entreprise brut de 86 757,09 $ et une perte d'entreprise nette de 263 351,82 $ [47] . Puisque M. Manhue n'avait jamais exploité une entreprise [48] , ces énoncés dans sa déclaration de revenus étaient faux.
+[26] Joint à la déclaration de revenus de 2009 de M. Manhue était un « État des résultats des activités d'une entreprise ou d'une profession libérale » (formulaire T2125), qui indiquait un revenu brut d'entreprise, décrit comme [TRADUCTION] « RECETTES EN TANT QUE MANDATAIRE », de 86 757,09 $, et des dépenses, décrites comme [TRADUCTION] « MONTANT AU MANDANT DU MANDATAIRE », de 350 108,91 $, ce qui entraîne une perte d'entreprise nette de 263 351,82 $ [49] . Puisque M. Manhue n'avait pas d'entreprise, ces énoncés étaient également faux.
+[27] Jointe à sa déclaration de revenus de 2009 était une « Demande de report rétrospectif d'une perte » (formulaire T1A), qui indiquait une perte d'entreprise de 263 351,82 $ et qui demandait que 190 687,32 $ soient reportés rétrospectivement aux trois années d'imposition précédentes comme suit [50] :
+2006
+52 272,32 $
+2007
+56 431,00 $
+2008
+81 984,00 $
+[EN BLANC]
+190 687,32 $
+Puisque M. Manhue n'avait ni d'entreprise ni de perte d'entreprise nette, la « Demande de report rétrospectif d'une perte » contenait un faux énoncé.
+C. Les arrêts récents
+[28] Dans sa décision récente dans l'affaire Wynter [51] , la Cour d'appel fédérale a discuté des deux exigences au paragraphe 163(2) de la LIR, c'est‑à‑dire la connaissance ou la faute lourde, et du rapport entre ces exigences et l'aveuglement volontaire. Voici certains des principes clés énoncés dans cette décision :
+[12] La distinction entre la faute lourde — établie par une appréciation objective du comportement du contribuable — et l'ignorance volontaire (également appelée « aveuglement volontaire ») — établie par renvoi à l'état d'esprit subjectif du contribuable — ne date pas d'hier. [...]
+[13] Un contribuable fait preuve d'ignorance volontaire lorsqu'il prend conscience de la nécessité de se renseigner, mais refuse de le faire parce qu'il ne veut pas connaître la vérité ou qu'il évite soigneusement de la connaître. Il s'agit de la notion de l'ignorance délibérée [...] Dans ces circonstances, la doctrine de l'ignorance volontaire impute une connaissance au contribuable [...] L'ignorance volontaire est la doctrine ou le mécanisme par lequel l'élément de connaissance requis aux termes du paragraphe 163(2) est établi.
+[16] [...] le droit imputera une connaissance au contribuable qui, dans des circonstances qui lui commandent de se renseigner sur sa situation fiscale, décide de ne pas le faire. L'élément de connaissance est établi par la décision du contribuable de ne pas se renseigner, et non par la conclusion d'une intention de tromper.
+[17] [...] l'ignorance volontaire repose sur la conclusion selon laquelle le contribuable a délibérément décidé de ne pas se renseigner afin d'éviter de vérifier ce qui pourrait être une vérité gênante. L'élément factuel essentiel consiste en une conclusion d'« ignorance délibérée », étant donné que cette expression « suggère l'idée d'[TRADUCTION] « un processus réel de suppression des soupçons » » [...]
+[18] La faute lourde se distingue de l'ignorance volontaire. Elle se manifeste lorsque la conduite d'un contribuable se situe considérablement en deçà de la conduite à laquelle on est en droit de s'attendre de la part d'un contribuable raisonnable. En termes simples, alors que le contribuable volontairement ignorant savait, le contribuable coupable d'une faute lourde aurait dû savoir.
+[19] La faute lourde nécessite un plus haut degré de négligence que la simple absence de diligence raisonnable. Elle correspond à un écart marqué ou important par rapport à la conduite à laquelle on est en droit de s'attendre. Elle va au‑delà de l'inattention ou des fausses déclarations. [...]
+Lorsqu'il détermine les pénalités pour faute lourde, le ministre doit prouver l'existence d'un degré important de négligence qui correspond à une action délibérée, une indifférence au respect de la loi. [...]
+[20] [...] la faute lourde et l'ignorance volontaire, malgré leur différence sur le plan conceptuel, peuvent se recouper dans une certaine mesure lorsqu'elles sont appliquées. Un contribuable qui ferme les yeux sur la véracité et l'exactitude des renseignements fournis dans sa déclaration de revenus est volontairement ignorant et commet également une faute lourde. Le contraire n'est toutefois pas forcément vrai. Le contribuable qui commet une faute lourde n'est pas nécessairement volontairement ignorant [52] . [...]
+D. L'exigence de la connaissance (« sciemment »)
+[29] Rien dans la preuve n'indique que M. Manhue savait réellement que sa déclaration de revenus de 2009, que son « État des résultats des activités d'une entreprise ou d'une profession libérale » ou que sa « Demande de report rétrospectif d'une perte » contenait de faux énoncés. En conséquence, il faut décider si M. Manhue a fait preuve d'aveuglement volontaire. S'il est jugé avoir fait preuve d'aveuglement volontaire, M. Manhue est réputé avoir eu connaissance des faux énoncés.
+E. L'aveuglement volontaire (la connaissance réputée)
+[30] Dans l'affaire Torres, le juge C. Miller a énoncé divers principes qu'il faut appliquer pour décider si un contribuable a fait preuve d'aveuglement volontaire :
+a) La connaissance d'un faux énoncé peut être déduite d'un aveuglement volontaire.
+b) La notion d'aveuglement volontaire peut être appliquée aux pénalités pour faute lourde prévues par le paragraphe 163(2) de la [LIR] [...]
+c) Pour savoir s'il y a eu ou non aveuglement volontaire, il faut tenir compte du niveau d'instruction et d'expérience du contribuable.
+d) Pour conclure à un aveuglement volontaire, il doit y avoir eu nécessité de s'informer, ou soupçon d'une telle nécessité.
+e) Les facteurs laissant supposer la nécessité de s'informer avant la production d'une déclaration, ou faisant apparaître « des feux rouges clairs », [...] comprennent ce qui suit :
+(i) l'importance de l'avantage ou de l'omission;
+(ii) le caractère flagrant du faux énoncé et la facilité avec laquelle il peut être décelé;
+(iii) l'absence, dans la déclaration elle‑même, d'une attestation du spécialiste qui a établi la déclaration;
+(iv) les demandes inusitées du spécialiste;
+(v) le fait que le spécialiste était auparavant inconnu du contribuable;
+(vi) les explications inintelligibles du spécialiste;
+(vii) le point de savoir si d'autres personnes ont eu recours au spécialiste ou ont fait des mises en garde à l'encontre de ce dernier, ou le point de savoir si le contribuable lui-même hésite à s'en ouvrir à d'autres.
+f) Le dernier critère de l'aveuglement volontaire est le fait que le contribuable ne s'enquiert pas auprès du spécialiste pour comprendre la déclaration de revenus, ni ne s'enquiert aucunement auprès d'un tiers, ou auprès de l'ARC elle‑même [53] .
+Je passe maintenant à l'examen des principes énoncés ci‑dessus dans le présent appel.
+(1) Le niveau d'instruction et d'expérience
+[31] Tel que cela a été indiqué ci‑dessus, M. Manhue a immigré au Canada de la Jamaïque lorsqu'il était âgé de 15 ans. Il a suivi des études secondaires au Canada pendant quatre ou cinq ans et a obtenu son diplôme d'études secondaires en 1980 [54] . Après ses études secondaires, M. Manhue s'est inscrit à un programme menant à un diplôme en conception industrielle au collège Centennial, mais il a cessé de suivre ses cours après le premier semestre, pour des raisons financières [55] .
+[32] Tel que cela a été indiqué ci‑dessus, pour décider si un contribuable a fait preuve d'aveuglement volontaire, le tribunal doit tenir compte du niveau d'instruction et d'expérience du contribuable. Cela laisse entendre qu'en deçà d'un certain niveau d'instruction et d'expérience, il ne serait pas approprié de conclure que le contribuable avait fait preuve d'aveuglement volontaire. Toutefois, je n'ai connaissance d'aucune décision qui a exprimé ce à quoi correspondrait ce niveau. Dans l'affaire Torres, le juge C. Miller a fait l'énoncé suivant :
+Je me demande comment un particulier, quel que soit son niveau d'instruction, qui a travaillé au Canada, payé des impôts au Canada et profité des avantages de la vie au Canada, peut sans se questionner souscrire à un procédé par lequel il demande la déduction de pertes d'entreprise fictives [56] [...]
+[Souligné dans l'original.]
+L'énoncé qui précède m'indique que, dans le cas de contribuables qui ont déclaré des pertes d'entreprise fictives, le critère de l'instruction et de l'expérience ne doit pas être établi très haut.
+[33] Afin de déterminer si M. Manhue avait le niveau d'instruction et d'expérience requis en 2010, lorsqu'il a signé sa déclaration de revenus de 2009, j'ai tenu compte d'un certain nombre d'autres affaires mettant en cause Fiscal Arbitrators concernant des contribuables dont le niveau d'instruction était inférieur à un programme collégial ou universitaire comptant plusieurs années. Certaines de ces affaires sont résumées ci‑dessous, d'abord celles dans lesquelles les pénalités imposées en application du paragraphe 163(2) de la LIR ont été confirmées et ensuite les affaires dans lesquelles ces pénalités ont été annulées.
+a) Pénalités confirmées
+[34] Les affaires concernant Fiscal Arbitrators dans lesquelles des pénalités imposées en application du paragraphe 163(2) ont été confirmées même si le contribuable n'avait pas complété un programme universitaire ou collégial comptant plusieurs années comprennent les décisions suivantes :
+a) Dans l'affaire Chénard, le contribuable n'avait pas terminé son secondaire IV et travaillait depuis l'âge de 16 ans [57] .
+b) Dans l'affaire Torres, qui portait sur six contribuables, un contribuable, Ansel Hyatali, avait terminé sa 12e année et avait un certificat de soudage [58] .
+c) Dans l'affaire Chartrand, le contribuable avait terminé sa 11e année [59] .
+d) Dans l'affaire Spurvey, une des contribuables détenait un diplôme d'études secondaires et était une infirmière auxiliaire autorisée, et l'autre contribuable avait terminé sa 11e année et était un homme de métier possédant une formation et une certification se rapportant à quatre métiers différents, même s'il n'avait jamais travaillé dans ces domaines, travaillant plutôt chez Canadian Tire [60] .
+e) Dans la décision Maynard, un des contribuables avait terminé sa 12e année à la Trinité et avait ensuite suivi des cours de dessin technique au collège Centennial, en Ontario, et l'autre contribuable avait terminé sa 12e année à la Trinité et a ensuite suivi des cours de comptabilité au collège Durham, en Ontario. Le juge de première instance a indiqué que les deux contribuables détenaient l'équivalent d'un diplôme d'études secondaires au Canada et qu'ils avaient ensuite suivi des cours de niveau postsecondaire [61] .
+f) Dans l'affaire Ramlal, le contribuable avait fréquenté l'école secondaire à Trinité‑et‑Tobago jusqu'à l'âge de 16 ans, se rendant à la 5e année du secondaire, qui serait l'équivalent de la 12e année scolaire au Canada [62] .
+g) Dans la décision Daszkiewicz, le contribuable avait fait ses études en Pologne et avait fréquenté une école de formation professionnelle dans ce pays [63] .
+h) Dans l'affaire Sledge, le contribuable avait obtenu son diplôme d'études secondaires aux États‑Unis, mais il n'avait pas fréquenté l'université [64] .
+i) Dans l'affaire Wynter, la contribuable avait terminé la sixième année en Jamaïque, ce qui semble correspondre à la 10e année au Canada [65] .
+j) Dans la décision De Gennaro, le contribuable avait terminé le secondaire et avait fait des études universitaires pendant deux ans et demi, mais il n'avait apparemment pas terminé le programme donnant droit à un diplôme [66] .
+k) Dans la décision Mayne, le contribuable avait étudié jusqu'à la onzième année. Même s'il n'avait jamais terminé ses études secondaires, il était retourné aux études pour améliorer ses connaissances en mathématiques et en anglais. Il a également étudié l'électronique au collège George Brown et a suivi un cours menant à l'obtention d'un certificat en micro‑informatique [67] .
+l) Dans l'affaire Hogg, le contribuable avait 12 ans de scolarité et travaillait à une fonderie [68] .
+m) Dans la décision Romaker, le contribuable avait terminé la 13e année [69] .
+n) Dans l'affaire Peck, le contribuable avait terminé le secondaire et avait suivi avec succès un cours collégial de cinq mois donnant droit à un certificat de technicien de laboratoire [70] .
+[35] Dans chacune de ces décisions, la Cour a confirmé les pénalités imposées en application du paragraphe 163(2) de la LIR. En conséquence, la Cour n'a conclu, dans aucune de ces affaires, que le niveau d'instruction et d'expérience du contribuable était tel qu'il ne serait pas approprié de confirmer la pénalité qui avait été imposée.
+b) Pénalités non confirmées
+[36] Plusieurs affaires concernant des contribuables qui avaient un niveau d'instruction limité et qui n'étaient pas, en fin de compte, tenus de payer les pénalités en application du paragraphe 163(2) de la LIR sont résumées ci‑dessous :
+a) Dans l'affaire Lavoie, un des contribuables avait terminé sa 6e année et l'autre contribuable avait terminé son secondaire 1. Ils avaient tous deux une connaissance très limitée de l'anglais, langue dans laquelle les documents de promotion de Fiscal Arbitrators étaient présentés, dans laquelle la réunion d'information avait été menée et dans laquelle les déclarations de revenus avaient été préparées [71] .
+b) Dans l'affaire Anderson, le contribuable avait suivi des études jusqu'à la neuvième année, qu'il a échouée. Il a quitté l'école à 15 ans et a commencé à travailler [72] .
+c) Dans l'affaire Kajtor, la contribuable avait arrêté ses études au niveau secondaire en Roumanie avant d'immigrer au Canada [73] .
+[37] Je suis d'avis que le niveau d'instruction de M. Manhue est considérablement plus élevé que celui des contribuables dans les affaires Lavoie et Anderson et qu'il est semblable à celui de la contribuable dans la décision Kajtor. En outre, tel que cela est indiqué ci‑dessus, les contribuables dans Lavoie avaient une compréhension très limitée de la langue anglaise, soit la langue des documents de promotion, de la réunion d'information et des déclarations de revenus. Dans l'affaire Anderson, la Cour a conclu qu'il n'y avait aucun « feu rouge » auquel le contribuable avait fermé les yeux [74] . Dans la décision Kajtor, la contribuable, un membre de la famille et un ami avaient posé plusieurs questions au sujet du programme fiscal et du promoteur en question, et avait notamment fait un ou plusieurs appels à l'ARC et une vérification des antécédents [75] .
+[38] M. Manhue avait une compréhension de base d'une entreprise et du principe du revenu [76] . De plus, M. Manhue a reconnu que, lorsqu'il avait signé sa déclaration de revenus de 2009, il a lu l'énoncé immédiatement au-dessus de la ligne de signature indiquant qu'il attestait que les renseignements donnés dans la déclaration et dans tous les documents annexés étaient exacts, complets et révélaient la totalité de ses revenus, et l'énoncé en dessous de sa signature qui indiquait : « Faire une fausse déclaration constitue une infraction grave » [77] . M. Manhue n'a indiqué en aucun temps au cours de son témoignage qu'il ne comprenait pas les énoncés figurant au‑dessus et en dessous de la ligne de signature de sa déclaration de revenus.
+[39] Je suis d'avis que le niveau d'instruction et d'expérience de M. Manhue n'était pas si faible qu'il ne comprenait pas l'exigence de produire une déclaration de revenus véridique et exacte.
+(2) Le soupçon ou la nécessité de s'informer
+[40] Pour les années d'imposition avant 2009, M. Manhue payait habituellement des honoraires de 60 $ à 100 $ pour la préparation d'une déclaration de revenus [78] . En ce qui concerne les années d'imposition avant 2009, le montant moyen du remboursement d'impôt sur le revenu que M. Manhue recevait était de 700 $ à 800 $ [79] .
+[41] Les honoraires que M. Manhue devait payer à Fiscal Arbitrators pour la préparation de sa déclaration de revenus de 2009 s'élevaient à 500 $, plus 10 % de tout remboursement obtenu [80] . Pendant son réinterrogatoire, M. Manhue a expliqué la raison pour laquelle il était disposé à payer plus à Fiscal Arbitrators qu'à ses spécialistes en déclarations antérieurs :
+[TRADUCTION]
+Q. Pourquoi étiez‑vous disposé à payer plus d'argent à eux [Fiscal Arbitrators]? Croyez‑vous qu'ils étaient meilleurs et qu'ils en ferait plus pour vous aider? Ou avaient‑ils —
+R. Non. Selon ce que mon ami avait dit, il avait un gros remboursement. Et c'est la raison pour laquelle j'ai payé 500 $. J'ai dit : « D'accord. Si je vais obtenir un remboursement comme le tien, ça ne me dérange pas de payer 500 $ [81] . »
+[42] L'échange suivant en contre‑interrogatoire soulève la question de savoir si M. Manhue avait eu un soupçon qu'il devrait s'informer au sujet de Fiscal Arbitrators :
+[TRADUCTION]
+Q. Avez‑vous vu le montant du — avez‑vous vu le montant du remboursement que vous recevriez?
+R. Je suis sûr — oui, je suis assez sûr que je l'ai vu, oui.
+Q. Vous êtes‑vous demandé comment vous aviez droit à ce montant?
+R. J'y ai pensé, mais comme je l'ai dit, ces gens — j'estimais qu'ils étaient des professionnels. Ils devaient donc savoir ce qu'ils faisaient.
+Q. Vous ne leur avez donc pas demandé d'explication?
+R. Je — non, Monsieur [82] .
+[43] Le fait qu'il y avait une augmentation considérable des honoraires que M. Manhue devait payer pour la préparation de sa déclaration de revenus de 2009 par rapport aux montants payés les années antérieures et qu'il y avait une augmentation considérable du remboursement prévu aurait dû créer un soupçon chez M. Manhue, l'incitant à demander pourquoi et comment les honoraires et le remboursement pouvaient augmenter de manière aussi radicale. En fait, le commentaire donné dans l'échange qui précède ([TRADUCTION] « J'y ai pensé, mais [...] ») indique que M. Manhue avait probablement un soupçon. Toutefois, si j'ai tort et si M. Manhue n'avait pas réellement un soupçon et n'avait pas constaté la nécessité de s'informer, j'examinerai s'il existait des avertissements qui auraient dû l'avertir d'une telle nécessité.
+(3) Les avertissements
+a) L'importance de l'avantage
+[44] À la page 2 de sa déclaration de revenus de 2009, M. Manhue a déclaré des revenus d'emploi selon son feuillet T4 de 68 677,17 $, d'autres revenus d'emploi de 3 057,79 $, des prestations d'assurance‑emploi et d'autres prestations de 1 788 $, un revenu d'entreprise brut de 86 757,09 $ et une perte d'entreprise nette de 263 351,82 $ [83] . Par conséquent, le revenu d'entreprise brut déclaré par M. Manhue était supérieur à l'ensemble de tous les autres éléments de revenu qu'il a déclarés. La perte d'entreprise nette qu'il a déclarée était si importante qu'elle annulait tous les revenus qu'il avait déclarés pour 2009 et qu'il restait une perte qu'on pouvait reporter rétrospectivement sur trois ans afin d'annuler tous les revenus de 2006, de 2007 et de 2008. Si l'ARC n'avait pas découvert que la perte d'entreprise nette était fictive, tout l'impôt sur le revenu retenu à la source de sa rémunération et tout l'impôt sur le revenu qu'il avait par ailleurs à payer pour les quatre années d'imposition en cause lui aurait été remboursé.
+[45] Dans la décision Chénard, le juge Bédard a formulé le commentaire suivant concernant un contribuable qui avait embauché Fiscal Arbitrators pour produire des demandes de redressement pour huit années d'imposition antérieures afin de déclarer des pertes d'entreprise nettes dont les montants suffisaient à entraîner un remboursement d'impôt pour chacune de ces années :
+[...] Ces pertes auraient permis à l'appelant de recevoir un remboursement complet de tous les montants d'impôts payés au cours des années en question [...] L'ampleur des pertes d'entreprise déclarées est ici un facteur accablant dans la mesure où, même avec un très faible niveau d'instruction et même sans aucune compréhension de notre système fiscal, une personne raisonnable aurait pu aisément douter de la légitimité de ces pertes [84] .
+On pourrait en dire autant de M. Manhue et des pertes qu'il a déclarées.
+b) Le caractère flagrant et la facilité avec laquelle on pouvait déceler le faux énoncé
+[46] La page 2 de la déclaration de revenus de 2009 de M. Manhue contenait six entrées sous le titre « revenu total »; les autres lignes de la section étaient en blanc. Voici les six entrées et les numéros de ligne applicables [85] :
+Ligne
+Description
+Montant
+[EN BLANC]
+[EN BLANC]
+[EN BLANC]
+101
+Revenus d'emploi
+68 677,17
+104
+Autres revenus d'emploi
+3 057,79
+119
+Prestations d'assurance‑emploi et autres prestations
+1 788,00
+162
+Revenus d'entreprise — Bruts
+86 757,09
+135
+Revenus d'entreprise — Nets
+– 263 351,82
+150
+Voici votre revenu total
+– 189 828,86
+Les six entrées qui précèdent apparaissent à la page 2 de la déclaration, de sorte que chaque montant est facilement visible et identifiable. M. Manhue savait qu'il n'avait pas exploité d'entreprise en 2009 [86] et, par conséquent, les entrées figurant à la page 2 de la déclaration indiquant un revenu d'entreprise brut et une perte d'entreprise nette auraient été flagrantes et tout à fait évidentes. De plus, l'« État des résultats des activités d'une entreprise ou d'une profession libérale » (qui comprend les entrées [TRADUCTION] « RECETTES EN TANT QUE MANDATAIRE » et « MONTANT AU MANDANT DU MANDATAIRE ») qui a probablement été produit avec la déclaration aurait été bien en vue et facile à voir. En conséquence, les faux énoncés dans la déclaration de revenus de 2009 de M. Manhue étaient flagrants et faciles à déceler [87] .
+c) L'attestation du spécialiste en déclarations
+[47] La case 490 de la page de signature de la déclaration de revenus de 2009 de M. Manhue contient des espaces pour indiquer le nom, l'adresse et le numéro de téléphone du professionnel de l'impôt qui a établi la déclaration. Ces renseignements n'ont pas été fournis par M. McGann ou par Fiscal Arbitrators [88] . La case 490 figure immédiatement à la droite de la ligne où M. Manhue a signé la déclaration.
+[48] Il semble que M. Manhue a constaté que la case 490 avait été laissée en blanc dans sa déclaration de revenus de 2009. Lorsqu'il a été interrogé en contre‑interrogatoire quant à savoir s'il s'était demandé pourquoi la case avait été laissée en blanc, il a répondu que la case correspondante avait été laissée en blanc dans toutes ses déclarations de revenus antérieures et que cela était donc habituel pour lui [89] .
+d) Les demandes inusitées du spécialiste en déclarations
+[49] M. McGann et Fiscal Arbitrators ont présenté plusieurs demandes inhabituelles à M. Manhue, notamment :
+a) M. McGann avait dit à M. Manhue que les honoraires de Fiscal Arbitrators pour la préparation de sa déclaration de revenus de 2009 s'élevaient à 500 $ plus 10 % de tout remboursement reçu [90] . En ce qui concerne le paiement de 500 $, M. McGann a demandé que M. Manhue lui donne un chèque payable à [TRADUCTION] « Lawrence Watts, fiduciaire » [91] .
+b) M. McGann a demandé que M. Manhue fournisse non seulement son feuillet T4 pour 2009, mais également ses feuillets T4 pour 2006, 2007 et 2008 [92] .
+c) Lorsque M. Manhue a reçu sa déclaration de revenus de 2009 de Fiscal Arbitrators, une liste de contrôle y était jointe [93] . Vers le début de la liste de contrôle, en dessous de l'intertitre [TRADUCTION] « Signatures requises », on indique ce qui suit : [TRADUCTION] « Mettre le mot « par : » avant toutes les signatures [94] . » Malgré cette directive, lorsque M. Manhue est passé à la page de signature de sa déclaration de revenus et de sa « Demande de report rétrospectif d'une perte », il a constaté que le terme [TRADUCTION] « par : » avait déjà été écrit par une autre personne [95] .
+d) L'une des directives figurant à la liste de contrôle était : [TRADUCTION] « Exiger que toutes les demandes de renseignements de l'ARC soient faites par écrit. » Cette directive a été expliquée à la fin de la liste de contrôle où l'énoncé suivant figure :
+[TRADUCTION]
+Veuillez noter que si vous recevez des demandes de renseignements orales de l'ARC, votre seule réponse devrait être de leur demander de vous faire parvenir ces demandes par écrit. Toute demande de renseignements écrite provenant de l'ARC devrait être acheminée à Fiscal Arbitrators en vue de vous aider à rédiger une réponse appropriée [96] .
+M. Manhue a indiqué que selon ce qu'il comprenait, la directive qui précède signifiait qu'il ne devait pas discuter directement avec l'ARC [97] .
+[50] Même si chacune de ces demandes pouvait sembler assez inoffensive pour certains observateurs, il est également possible qu'elles pussent sembler assez étranges, surtout dans leur ensemble, pour d'autres observateurs. Toutefois, comme M. Manhue n'indique pas qu'il avait estimé que ces demandes étaient inhabituelles de sorte qu'il devait s'informer davantage, je n'accorde aucun poids à ces demandes.
+e) Le spécialiste en déclarations était antérieurement inconnu du contribuable
+[51] Avant 2009, M. Manhue avait toujours embauché une personne pour préparer sa déclaration de revenus annuelle. En général, il embauchait une personne qui vivait dans son voisinage à ce moment‑là; parfois, à l'occasion, il recourait aux services d'un spécialiste en déclarations qui lui avait été recommandé par un de ses collègues [98] . Lorsqu'il était temps de préparer sa déclaration de revenus de 2009, M. Manhue a suivi la recommandation d'un ami au travail, qui lui a présenté M. McGann et Fiscal Arbitrators [99] . Tel que cela a été indiqué ci‑dessus, avant 2009, M. Manhue payait habituellement des honoraires de 60 $ à 100 $ pour la préparation de sa déclaration de revenus annuelle. Pour 2009, Fiscal Arbitrators a exigé des honoraires immédiats de 500 $ plus un pourcentage de tout remboursement d'impôt obtenu.
+f) Les explications inintelligibles du spécialiste
+[52] Dans son témoignage, M. Manhue n'a indiqué aucune explication inintelligible que M. McGann lui aurait donnée. À la rencontre à laquelle M. Manhue a assisté à la maison de la sœur de son ami, M. McGann a expliqué la façon dont Fiscal Arbitrators préparait les déclarations [100] , mais M. Manhue n'a pas résumé pour la Cour les explications de M. McGann.
+g) La conduite d'autres personnes, les mises en garde et l'hésitation
+[53] Il n'y a aucune preuve qui suggère que M. Manhue avait connaissance que quelqu'un avait refusé d'engager Fiscal Arbitrators, qu'on l'avait mis en garde de ne pas le faire lui‑même, ou qu'il hésitait à parler de Fiscal Arbitrators. Au contraire, l'ami de M. Manhue au travail lui avait déclaré qu'il avait utilisé Fiscal Arbitrators pendant deux ans sans aucun problème [101] .
+(4) Les questions afin de comprendre la déclaration de revenus
+[54] M. Manhue n'a pas effectué de recherches sur les antécédents de M. McGann pour vérifier s'il était comptable ou si les autres employés de Fiscal Arbitrators avaient des titres de compétence quelconques [102] . Lorsque M. Manhue a reçu la déclaration de revenus de 2009 pour signature, il n'a pas demandé d'explication en ce qui concerne le remboursement d'impôt indiqué, bien qu'il se soit demandé comment il pouvait avoir droit à un remboursement si important [103] . Étant donné que M. Manhue n'avait pas regardé la page 2 de sa déclaration de revenus, il ne savait pas qu'il déclarait une perte d'entreprise nette de 263 351,81 $, et il n'a donc posé aucune question à ce sujet [104] .
+[55] Il semble que M. Manhue ait regardé la première page de l'« État des résultats des activités d'une entreprise ou d'une profession libérale » [105] qui accompagnait sa déclaration de revenus de 2009. Il a indiqué que [TRADUCTION] « cela n'avait aucun sens avec tous les chiffres là‑dessus »; toutefois, il n'a demandé à personne d'expliquer ce que signifiaient le document ou les chiffres [106] . Vers la fin du contre‑interrogatoire, M. Manhue a reconnu que, bien qu'il ne comprît pas le mécanisme de ce que faisait Fiscal Arbitrators de sorte qu'il puisse obtenir un remboursement d'impôt, il n'a pas tenté d'en obtenir des éclaircissements [107] .
+(5) Résumé
+[56] Certains des avertissements décrits dans l'affaire Torres n'étaient pas présents dans la situation de M. Manhue. Par exemple, les spécialistes en déclarations antérieurs n'avaient pas rempli la case 490 dans les déclarations qu'ils avaient préparées pour lui, de sorte que M. Manhue n'a rien vu d'anormal dans le fait que Fiscal Arbitrators ait laissé la case 490 en blanc dans la déclaration de revenus de 2009. De même, il n'y a aucune preuve précise qui indique que M. Manhue ait trouvé qu'une des demandes de Fiscal Arbitrators était particulièrement inhabituelle ou qu'une des explications données par Fiscal Arbitrators était inintelligible. Il n'y avait rien dans le comportement des amis et des collègues de M. Manhue qui aurait pu l'avertir d'une préoccupation concernant Fiscal Arbitrators, et personne ne l'avait averti de ne pas engager Fiscal Arbitrators.
+[57] D'autre part, il y avait plusieurs avertissements perceptibles qui auraient pu ou auraient dû mettre en garde M. Manhue. Après avoir discuté avec son ami au travail, M. Manhue avait compris que son ami avait obtenu des remboursements importants d'impôt sur le revenu, et M. Manhue espérait en obtenir lui‑même. Bien que M. Manhue ait par le passé payé des frais relativement modestes chaque année pour la préparation de sa déclaration de revenus, il était prêt à payer des frais initiaux approximativement cinq à huit fois plus élevés que ce qu'il avait payé auparavant, ainsi qu'un pourcentage de tout remboursement obtenu, dans l'espoir d'obtenir un remboursement important comme celui obtenu par son ami. M. Manhue ne comprenait pas le mécanisme par lequel il obtiendrait un remboursement d'impôt, mais il n'a pas demandé d'éclaircissements [108] . Lorsque M. Manhue a regardé la première page de l'« État des résultats des activités d'une entreprise ou d'une profession libérale », il ne comprenait rien de tous les chiffres qui étaient indiqués, mais il n'a demandé à personne d'expliquer ce que signifiaient le document ou les chiffres [109] . Lorsque M. Manhue a regardé rapidement la déclaration de revenus de 2009, avant de la signer, il s'est demandé comment il avait droit à un tel remboursement, mais il n'a pas demandé d'explication [110] . Il semble qu'il refoulait un soupçon [111] .
+[58] M. Manhue était conscient qu'il obtiendrait un remboursement de l'impôt sur le revenu qu'il avait payé de 2006 à 2008 et l'impôt retenu à la source pour 2009 [112] . Cela constituerait un avantage fiscal d'une importance considérable. Les entrées à la page 2 de la déclaration de revenus de M. Manhue pour 2009 qui ont servi à faciliter la demande des remboursements importants pour ces quatre années d'imposition étaient flagrantes et faciles à découvrir par toute personne qui aurait choisi d'examiner cette page attentivement.
+[59] Lorsque M. Watts a témoigné, il a indiqué que, une fois que Fiscal Arbitrators avait préparé une déclaration de revenus pour un client et envoyé la déclaration au client, il ne savait pas ce que le client faisait de la déclaration et, en particulier, il ne savait pas si le client envoyait la déclaration à l'ARC [113] . Lors de l'interrogatoire principal, on a demandé à M. Manhue s'il avait entendu cette affirmation lors du témoignage de M. Watts et s'il avait même envisagé qu'il ne devrait pas déposer la déclaration que Fiscal Arbitrators lui avait envoyée. M. Manhue a répondu :
+[TRADUCTION]
+Je ne vois pas pourquoi pas. À ma connaissance, je vous paie pour un service, et je vous paie ce montant pour faire mes impôts. Donc, et une fois que cela me revient rempli, la seule chose que je dois faire est de le signer et de l'envoyer parce que vous autres, vous êtes professionnels; c'est ce que je comprends [114] .
+[Non souligné dans l'original.]
+En affirmant qu'il ne devait que signer et envoyer la déclaration de revenus remplie par Fiscal Arbitrators, M. Manhue reconnaissait, dans un certain sens, qu'il ne souhaitait pas savoir ce que la déclaration indiquait. Essentiellement, il a fait preuve d'ignorance délibérée et a délibérément choisi de ne pas poser de questions [115] . Cela constitue un aveuglement volontaire en raison duquel la connaissance des faux énoncés dans la déclaration de revenus peut être imputée à M. Manhue.
+F. L'exigence de la « faute lourde »
+[60] Le paragraphe 163(2) de la LIR peut s'appliquer lorsqu'un contribuable fait un faux énoncé dans des circonstances équivalant à faute lourde. La Cour d'appel fédérale a indiqué que la faute lourde nécessite un plus haut degré de négligence que la simple absence de diligence raisonnable [116] . La conduite reprochée doit inclure un degré élevé de négligence correspondant à une action délibérée ou à une indifférence quant au respect de la loi [117] .
+[61] En matière de droit des délits, certains tribunaux ont affirmé que le terme « faute lourde » ne peut être défini de manière précise [118] . Il est décrit comme [TRADUCTION] « une faute très grave » [119] ou comme une conduite représentant un [TRADUCTION] « écart très marqué de la façon dont les personnes responsables et raisonnables se comportent habituellement [...] » [120] .
+[62] Pour conclure à la négligence en droit des délits, le défendeur doit avoir un devoir de diligence envers le demandeur. En droit fiscal, l'analyse de la faute lourde comprend également l'examen d'un devoir, mais d'une nature différente. En raison du système fiscal canadien fondé sur l'autodéclaration et d'autocotisation, les contribuables ont le devoir de s'assurer que leurs revenus et leurs dépenses sont déclarés correctement [121] . La Cour suprême du Canada l'exprime ainsi :
+[49] [...] Le processus de perception des impôts repose principalement sur l'autocotisation et l'autodéclaration [...]
+[51] Il découle des caractéristiques fondamentales de l'autocotisation et de l'autodéclaration que le succès de l'application du régime fiscal repose avant tout sur la franchise du contribuable. [...] « Le système d'imposition dépend entièrement de l'intégrité du contribuable qui déclare et évalue son revenu. Pour que le système fonctionne, les déclarations doivent être remplies honnêtement [122] . »
+Ainsi, M. Manhue, comme tout contribuable canadien, était assujetti à une obligation de déclarer ses revenus et ses dépenses d'une manière exacte et honnête.
+[63] Comme il a été indiqué plus haut, l'aveuglement volontaire peut mener à la conclusion qu'il y a faute lourde [123] . L'un des motifs pour lesquels il peut y avoir un certain chevauchement entre l'aveuglement volontaire et la faute lourde est que trois des facteurs pris en compte dans la décision Torres lors de la détermination de l'aveuglement volontaire sont également des facteurs à prendre en compte lors de la détermination de la faute lourde :
+Pour établir la distinction entre la faute « ordinaire » ou la négligence et la faute « lourde », il faut examiner plusieurs facteurs. Un de ces facteurs est bien entendu l'importance de l'omission relative au revenu déclaré. Il y a aussi la faculté du contribuable de découvrir l'erreur, ainsi que le niveau d'instruction du contribuable et son intelligence apparente. Il n'existe aucun facteur qui soit prédominant. Il faut accorder à chacun des facteurs le poids qu'il convient dans le contexte de l'ensemble de la preuve [124] .
+G. La norme de conduite
+[64] En droit des délits, l'analyse de la négligence exige un examen de la norme de la « personne raisonnable ». En droit fiscal, comme l'a énoncé le juge Owen, la norme objective à laquelle il faut comparer la conduite du contribuable est celle dont on s'attendrait d'une personne raisonnable dans les mêmes circonstances que le contribuable [125] . Comme cela a été indiqué ci‑dessus, dans une autre affaire concernant Fiscal Arbitrators, le juge Bédard a déclaré que « même avec un très faible niveau d'instruction et même sans aucune compréhension de notre système fiscal, une personne raisonnable aurait pu aisément douter de la légitimité de ces pertes [indiquées par Fiscal Arbitrators] » [126] .
+[65] La jurisprudence enseigne qu'un contribuable qui signe une déclaration de revenus sans d'abord l'examiner commet une faute lourde [127] . Le juge Bowie a déclaré ce qui suit :
+[...] pour ce qui est des pénalités pour faute lourde imposées à l'appelant en vertu de la Loi de l'impôt sur le revenu, l'appelant a lui‑même clairement affirmé au début de son témoignage qu'il n'avait jamais porté attention aux revenus et aux dépenses indiqués dans les déclarations pour les quatre années en cause lorsqu'il les signait. [...] l'appelant était quand même tenu d'examiner ses déclarations de revenus avant de les signer et de les produire auprès du ministre. La déclaration que le contribuable fait lorsqu'il signe sa déclaration de revenus est ainsi rédigée :
+J'atteste que les renseignements donnés dans cette déclaration et dans tous les documents annexés sont exacts, complets et révèlent la totalité de mes revenus [...]
+Le fait de signer une déclaration de revenus et de faire, par le fait même, la déclaration précitée sans même vérifier le contenu de la déclaration [...] constitue, à lui seul, une faute lourde qui justifie l'imposition des pénalités [128] .
+[66] Pendant son interrogatoire principal, lorsqu'il expliquait les étapes qu'il a suivies après avoir reçu sa déclaration de revenus remplie de Fiscal Arbitrators, M. Manhue a déclaré ce qui suit :
+[TRADUCTION]
+Et ceci [la liste de contrôle, c'est‑à‑dire la pièce A‑2] était au début, et elle indique les étapes à suivre lorsqu'on la reçoit. Et lorsque je l'ai ouvert, c'est ce que j'ai fait. Je ne l'ai pas examiné page par page parce que ça avait ça d'épaisseur [...] Je n'ai qu'à chercher le mot « par », où ils ont indiqué que je devais signer, et j'ai signé. Je la remets, je la plie, et je l'envoie [129] .
+De même, M. Manhue a signé la « Demande de report rétrospectif d'une perte » sans d'abord l'examiner [130] . Selon la jurisprudence qui précède, le fait que M. Manhue n'ait pas examiné sa déclaration de revenus de 2009 et la « Demande de report rétrospectif d'une perte » avant de les signer signale une faute lourde.
+[67] M. Manhue a fait beaucoup confiance à Fiscal Arbitrators, ce qu'il a expliqué comme suit :
+[TRADUCTION]
+À ma connaissance, je fais confiance à ces organisations et j'estimais que c'était la raison pour laquelle je payais l'argent, parce qu'ils sont des professionnels. Je ne connais rien au sujet de la production de déclarations de revenus ni des lois fiscales ou rien de ce genre. J'ai donc fait confiance à ces personnes [131] .
+En raison de la confiance qu'il avait envers Fiscal Arbitrators, M. Manhue n'a pas examiné sa déclaration de revenus ni la « Demande de report rétrospectif d'une perte » avant de les signer et il n'a pas non plus pris de mesures pour confirmer que les renseignements figurant dans ces documents étaient exacts et complets [132] .
+[68] Dans Lauzon, le juge suppléant Masse a reconnu que dans certaines situations, le fait de faire confiance à un conseiller peut faire en sorte qu'on ne peut conclure à l'aveuglement volontaire [133] . Toutefois, il a ensuite ajouté une restriction importante :
+[...] la jurisprudence foisonne de décisions où les contribuables n'ont pas réussi à se soustraire aux pénalités pour faute lourde parce qu'ils ont fait aveuglément confiance à leur spécialiste en déclarations de revenus sans au moins prendre quelques mesures pour vérifier l'exactitude des renseignements qui figuraient dans leurs déclarations de revenus. Indépendamment de l'aveuglement volontaire, les contribuables qui ne prennent aucune mesure pour vérifier l'intégralité et l'exactitude des renseignements inscrits dans leurs déclarations de revenus s'exposent à des pénalités pour faute lourde [134] .
+Comme le contribuable dans l'affaire Lauzon [135] , M. Manhue a eu une confiance excessive en Fiscal Arbitrators et n'a exercé aucun effort pour vérifier l'exactitude de sa déclaration de revenus avant de la signer et de la produire auprès de l'ARC. En conséquence, M. Manhue ne s'est pas acquitté de son obligation de s'assurer que ses revenus et ses dépenses pour 2009 étaient déclarés avec exactitude.
+V. CONCLUSION
+[69] Pour ces motifs, j'ai conclu que les exigences correspondant aux termes « sciemment » et « faute lourde » prévues au paragraphe 163(2) de la LIR ont toutes deux été remplies. L'appel est donc rejeté.
+[70] Au cours des dernières années, en raison du ralentissement dans le secteur de l'automobile, la situation financière de M. Manhue n'a pas été forte. Pendant son témoignage, il a indiqué que dernièrement, il suivait un cycle selon lequel il travaillait pendant quelques mois et était ensuite mis à pied pendant quelques mois avant d'être rappelé au travail. En conséquence, je prévois qu'il sera difficile pour M. Manhue de payer la pénalité imposée en vertu du paragraphe 163(2) de la LIR, ainsi que les intérêts à payer. Par conséquent, en exerçant le pouvoir discrétionnaire qui m'est conféré par le paragraphe 147(1) et l'alinéa 147(3)j) des Règles de la Cour canadienne de l'impôt (procédure générale) (les « Règles »), j'ai décidé qu'il n'est pas approprié de condamner M. Manhue aux dépens [136] .
+Signé à Ottawa, Canada, ce 17e jour d'avril 2018.
+« Don R. Sommerfeldt »
+Le juge Sommerfeldt
+RÉFÉRENCE :
+2018 CCI 71
+NO DU DOSSIER DE LA COUR :
+2013-605(IT)G
+INTITULÉ :
+NICHOLAS MANHUE ET SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE :
+Toronto (Ontario)
+DATES DE L'AUDIENCE :
+Le 26 septembre 2016 et le 8 septembre 2017
+MOTIFS DU JUGEMENT :
+L'honorable juge Don R. Sommerfeldt
+DATE DU JUGEMENT :
+Le 17 avril 2018
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Archie B. Palinka
+Avocat de l'intimée :
+Me Christian Cheong
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Archie B. Palinka
+Cabinet :
+Régime de services juridiques Unifor
+Pour l'intimée :
+Nathalie G. Drouin
+Sous‑procureure générale du Canada
+Ottawa, Canada
+[1] Loi de l'impôt sur le revenu, L.R.C. 1985, ch. 1 (5e supplément), dans sa version modifiée.
+[2] Transcription du 8 septembre 2017, de la p. 99, ligne 25, à la p. 100, ligne 6.
+[3] Ibid., de la p. 100, ligne 6, à la p. 101, ligne 17.
+[4] Ibid., de la p. 101, ligne 18, à la p. 102, ligne 11. Dans le reste des présents motifs, j'utiliserai l'expression « spécialiste en déclarations » plutôt que « préparateur ».
+[5] Ibid., p. 104, lignes 1 à 12.
+[6] Ibid., de la p. 143, ligne 15, à la p. 144, ligne 4.
+[7] Ailleurs, M. Manhue a déclaré : [TRADUCTION] « Selon ce que mon ami a dit, il avait obtenu un remboursement considérable. » Ibid., p. 161, lignes 19 et 20.
+[8] Ibid., p. 104, lignes 22 à 25.
+[9] Ibid., p. 104, lignes 25 et 26.
+[10] Ibid., de la p. 104, ligne 28, à la p. 105, ligne 5.
+[11] Ibid., p. 118, lignes 17 à 19; voir également p. 141, lignes 8 à 11, et p. 150, lignes 12 à 17.
+[12] Pièce A‑5.
+[13] Transcription du 8 septembre 2017, de la p. 114, ligne 1, à la p. 118, ligne 14, et pièce A‑2.
+[14] Pièce A‑6, onglet 2.
+[15] Pièce A‑6, onglet 1.
+[16] Pièce A‑6, onglet 3.
+[17] Transcription du 8 septembre 2017, p. 119, lignes 1 à 20.
+[18] Ibid., p. 118, lignes 15 à 23, et p. 147, lignes 10 à 14.
+[19] Ibid., de la p. 150, ligne 28, à la p. 151, ligne 6.
+[20] Transcription du 26 septembre 2016, p. 128, lignes 8 à 16, et p. 133, lignes 5 à 27.
+[21] Transcription du 8 septembre 2017, p. 129, lignes 8 à 10.
+[22] Transcription du 26 septembre 2016, p. 132, ligne 17.
+[23] Ibid., p. 129, lignes 21 à 27.
+[24] Ibid., de la p. 129, ligne 28, à la p. 130, ligne 14.
+[25] Ibid., p. 134, lignes 1 à 9.
+[26] Transcription du 8 septembre 2017, p. 118, lignes 19 à 28.
+[27] Transcription du 26 septembre 2016, p. 128, lignes 8 à 16.
+[28] Ibid., p. 133, lignes 6 à 27. En décrivant l'emplacement du parc de stationnement, pendant cet échange, Me Palinka a mentionné « Victoria Trail ». Toutefois, en raison de tous les autres renvois dans le témoignage de M. McGann et de M. Manhue, j'estime qu'il s'agissait probablement de Victoria Park, plutôt que Victoria Trail.
+[29] Ibid., p. 138, lignes 15 à 20. Lorsqu'il a posé la question à ce stade de l'échange, Me Palinka a mentionné Victoria Trail et Victoria Park.
+[30] Pièce A‑6, onglet 4, et transcription du 8 septembre 2017, de la p. 125, ligne 3, à la p. 129, ligne 9.
+[31] Pièce A‑6, onglet 5, et transcription du 8 septembre 2017, de la p. 127, ligne 10, à la page 129, ligne 28.
+[32] R. v. Watts, 2016 ONSC 4843, pièce A-4.
+[33] Transcription du 8 septembre 2017, p. 91, lignes 25 à 27; voir également de la p. 139, ligne 27, à la p. 140, ligne 2.
+[34] Ibid., p. 89, lignes 21 à 23, et p. 91, lignes 16 à 26.
+[35] Ibid., p. 41, lignes 24 à 28, et p. 80, lignes 24 à 28.
+[36] Ibid., p. 77, lignes 17 à 20, et de la p. 81, ligne 9, à la p. 82, ligne 4.
+[37] Ibid., p. 77, lignes 8 à 16.
+[38] Ibid., de la p. 72, ligne 19, à la p. 73, ligne 5. Voir la pièce A‑5.
+[39] Transcription du 8 septembre 2017, p. 80, lignes 24 à 28, et de la p. 89, ligne 27, à la p. 90, ligne 1.
+[40] Ibid., p. 89, lignes 2 et 3.
+[41] Ibid., de la p. 46, ligne 17, à la p. 49, ligne 15, p. 68, lignes 16 à 24, et de la p. 74, ligne 25, à la p. 75, ligne 17.
+[42] Ibid., de la p. 72, ligne 19, à la p. 73, ligne 5.
+[43] Ibid., p. 80, lignes 13 à 23.
+[44] Ibid., p. 86, lignes 4 à 8.
+[45] Ibid., p. 87, lignes 16 à 22.
+[46] Ibid., de la p. 89, ligne 24, à la p. 90, ligne 6.
+[47] Pièce A‑6, onglet 2.
+[48] Transcription du 8 septembre 2017, p. 142, lignes 2 à 4, p. 146, lignes 11 à 13, et p. 152, lignes 16 à 19.
+[49] Pièce A‑6, onglet 1.
+[50] Pièce A‑6, onglet 3.
+[51] Wynter c. La Reine, 2017 CAF 195.
+[52] Ibid., aux paragraphes 12 et 13 et 16 à 20. En ce qui concerne certains des énoncés faits aux paragraphes 13 et 17 de l'extrait qui précède tiré de l'arrêt Wynter, le juge Rennie a renvoyé à R. c. Briscoe, 2010 CSC 13, [2010] 1 R.C.S. 411, aux paragraphes 21, 23 et 24, et à Sansregret c. La Reine, [1985] 1 R.C.S. 570, au paragraphes 24, et en ce qui concerne certains des énoncés formulés au paragraphe 19 de l'extrait, le juge Rennie a renvoyé à Zsoldos c. Procureur général, 2004 CAF 338, au paragraphe 21, et à Venne c. La Reine, [1984] A.C.F. no 314 (QL) (C.F. 1re inst.).
+[53] Torres c. La Reine, 2013 CCI 380, paragraphe 65, conf. sub nom. Strachan c. La Reine, 2015 CAF 60.
+[54] Transcription du 8 septembre 2017, de la p. 99, ligne 22, à la page 100, ligne 6.
+[55] Ibid., de la p. 162, ligne 20, à la p. 163, ligne 12.
+[56] Torres, précité à la note 53, au paragraphe 77.
+[57] Chénard c. La Reine, 2012 CCI 211, à l'alinéa 7b).
+[58] Torres, précité à la note 53, au paragraphe 49.
+[59] Chartrand c. La Reine, 2015 CCI 298, aux paragraphes 3 et 25.
+[60] Spurvey c. La Reine, 2015 CCI 300, aux paragraphes 4 et 5.
+[61] Maynard c. La Reine, 2016 CCI 21, aux paragraphes 3, 4 et 33; conf. par 2016 CAF 251.
+[62] Ramlal c. La Reine, 2016 CCI 26, au paragraphe 2.
+[63] Daszkiewicz c. La Reine, 2016 CCI 44, au paragraphe 2.
+[64] Sledge c. La Reine, 2016 CCI 100, au paragraphe 2.
+[65] Wynter c. La Reine, 2016 CCI 103, aux paragraphes 5 et 18, conf. par 2017 CAF 195.
+[66] De Gennaro c. La Reine, 2016 CCI 108, aux paragraphes 9 et 64.
+[67] Mayne c. La Reine, 2016 CCI 212, au paragraphe 2.
+[68] Hogg c. La Reine, 2017 CCI 231, au paragraphe 6.
+[69] Romaker c. La Reine, 2017 CCI 241, aux paragraphes 2 et 27.
+[70] Peck c. La Reine, 2018 CCI 52, au paragraphe 5.
+[71] Lavoie c. La Reine, 2015 CCI 228, aux paragraphes 17 et 23 à 25.
+[72] Anderson c. La Reine, 2016 CCI 93, aux paragraphes 5 et 6.
+[73] Kajtor c. La Reine, 2018 CCI 6, aux paragraphes 4 et 10.
+[74] Anderson, précité à la note 72, au paragraphe 93.
+[75] Kajtor, précité à la note 73, aux paragraphes 5, 18, 20, 36, 37, 40 à 42 et 45.
+[76] Transcription du 8 septembre 2017, de la p. 146, ligne 23, à la p. 147, ligne 3.
+[77] Ibid., de la p. 148, ligne 21, à la p. 149, ligne 4.
+[78] Ibid., de la p. 142, ligne 5, à la p. 143, ligne 7, et de la p. 145, ligne 26, à la p. 146, ligne 1.
+[79] Ibid., p. 148, lignes 3 à 6.
+[80] Ibid.., de la p. 46, ligne 17, à la p. 47, ligne 9, p. 49, lignes 9 à 15, p. 108, lignes 3 à 19, de la p. 113, ligne 26, à la p. 114, ligne 4, p. 145, lignes 23 à 25, et p. 161, ligne 120; transcription du 26 septembre 2016, de la p. 111, ligne 13, à la p. 112, ligne 19, et p. 116, lignes 24 à 27. M. McGann n'était pas sûr que le pourcentage stipulé était de 10 %.
+[81] Ibid., p. 161, lignes 16 à 22.
+[82] Ibid., p. 147, lignes 15 à 26.
+[83] Pièce A‑6, onglet 2, p. 2.
+[84] Chénard, précité à la note 57, au paragraphe 21.
+[85] Pièce A‑6, onglet 2, p. 4 (il s'agit du numéro de la page de la pièce et non de la déclaration).
+[86] Transcription du 8 septembre 2017, p. 142, lignes 2 à 4, p. 146, lignes 11 à 13, p. 150, ligne 6, et p. 152, lignes 18 et 19.
+[87] Pour un examen du sens du mot « flagrant », voir Rowe c. La Reine, 2017 CCI 122, au paragraphe 23, note de bas de page 27.
+[88] Pièce A‑6, onglet 2, page 19. Voir également la transcription du 8 septembre 2017, p. 149, lignes 8 à 14.
+[89] Ibid., p. 149, lignes 15 à 22.
+[90] Ibid., p. 108, lignes 3 à 5, et transcription du 26 septembre 2016, p. 112, lignes 5 à 17, et p. 116, lignes 24 à 27.
+[91] Transcription du 8 septembre 2017, de la p. 106, ligne 19, à la p. 108, ligne 16, et pièce A‑5.
+[92] Ibid., p. 151, lignes 7 à 11, et p. 162, lignes 5 à 11.
+[93] Pièce A‑2.
+[94] Ibid., voir également la transcription du 8 septembre 2017, de la p. 119, ligne 25, à la p. 120, ligne 5.
+[95] Ibid., de la p. 114, ligne 21, à la p. 115, ligne 9, et p. 117, lignes 7 à 17.
+[96] Pièce A‑2.
+[97] Transcription du 8 septembre 2017, p. 123, lignes 5 à 11.
+[98] Ibid., de la p. 101, ligne 21, à la p. 103, ligne 28, et p. 142, lignes 5 à 8.
+[99] Ibid., p. 104, lignes 1 à 19.
+[100] Ibid., p. 104, lignes 8 à 27.
+[101] Ibid., p. 104, lignes 5 à 7, et p. 140, lignes 5 à 9.
+[102] Ibid., p. 144, lignes 5 à 14.
+[103] Ibid., p. 147, lignes 19 à 26.
+[104] Ibid., de la p. 149, ligne 28, à la p. 150, ligne 11.
+[105] Pièce A‑6, onglet 1.
+[106] Transcription du 8 septembre 2017, de la p. 151, ligne 19, à la p. 152, ligne 1.
+[107] Ibid., p. 159, lignes 5 à 15.
+[108] Ibid., p. 159, lignes 5 à 15.
+[109] Ibid., de la p. 151, ligne 19, à la p. 152, ligne 1.
+[110] Ibid., p. 147, lignes 19 à 26.
+[111] Wynter, précité à la note 51, au paragraphe 17.
+[112] Ibid., p. 151, lignes 7 à 11.
+[113] Ibid., p. 76, lignes 3 à 5 et 12 à 15, p. 90, lignes 7 à 12, p. 93, lignes 4 à 12, p. 94, lignes 4 à 8, p. 95, lignes 10 à 25, p. 96, lignes 7 à 22, et p. 97, lignes 22 à 26. Lors de l'interrogatoire principal de M. Manhue, Me Palinka, en résumant ce dont il se rappelait du témoignage de M. Watts, a rendu ce témoignage plus précis en indiquant que M. Watts avait affirmé que, lorsqu'il a envoyé les documents pour la déclaration de revenus de 2009 à M. Manhue, il ne savait pas et ne s'intéressait pas à ce que M. Manhue en ferait : ibid., de la p. 123, ligne 23, à la p. 124, ligne 4. Je n'ai pu trouver dans la transcription que M. Watts ait fait un tel commentaire en ce qui concerne M. Manhue en particulier. Au contraire, j'ai trouvé que M. Watts avait refusé à plusieurs occasions de reconnaître que Fiscal Arbitrators avait préparé la déclaration de revenus de 2009 de M. Manhue. Les déclarations de M. Watts auxquelles renvoie la présente note de bas de page ont toutes été faites dans un contexte général, plutôt qu'à propos de M. Manhue en particulier. Toutefois, je ne crois pas qu'il y ait une quelconque importance au fait que Me Palinka, en posant la question susmentionnée à M. Manhue, ait cru que M. Watts avait témoigné au sujet de M. Manhue en particulier plutôt que de donner une réponse générale.
+[114] Ibid., p. 124, lignes 7 à 12.
+[115] Wynter, précité à la note 51, aux paragraphes 13, 16 et 17.
+[116] Ibid., au paragraphe 19, et Melman c. La Reine, 2017 CAF 83, au paragraphe 4.
+[117] Melman, précité à la note 116, au paragraphe 4; Wynter, précité à la note 51, au paragraphe 19; Venne c. La Reine, [1984] A.C.F. no 314 (QL) (C.F. 1re inst.).
+[118] Lewis N. Klar, Tort Law, 5e éd. (Toronto, Thomson Carswell, 2012), p. 372, qui renvoie à Holland c. City of Toronto, [1927] R.C.S. 242. Voir également Occhino v. Winnipeg (City) (1988), 51 D.L.R. (4th) 546 (C.A. Man.), à la p. 548.
+[119] Allen M. Linden and Bruce Feldthusen, Canadian Tort Law, 10e éd. (Toronto, LexisNexis Canada Inc., 2015), p. 199, qui renvoie à Kingston (City) c. Drennan (1897), 27 R.C.S. 46, à la p. 60, et Studer c. Cowper, [1951] R.C.S. 450, à la page 455.
+[120] Klar, précité à la note 118, p. 373, qui renvoie à McCulloch c. Murray, [1942] R.C.S. 141, à la p. 145.
+[121] Janovsky c. La Reine, 2013 CCI 140, au paragraphe 24; voir également R. c McKinlay Transport Ltd., [1990] 1 R.C.S. 627, à la p. 636.
+[122] R. c. Jarvis, 2002 CSC 73, [2002] 3 R.C.S. 757, aux paragraphes 49 et 51. Le passage entre guillemets au paragraphe 51 de Jarvis est tiré de Knox Contracting Limited c. Canada, [1990] 2 R.C.S. 338, à la page 350.
+[123] Wynter, précité à la note 51, au paragraphe 20; voir également Lauzon c. La Reine, 2016 CAF 298, au paragraphe 8, et Strachan, précité à la note 53, au paragraphe 4.
+[124] DeCosta c. La Reine, 2005 CCI 545, au paragraphe 11. Bien que DeCosta ait indiqué que l'instruction et l'intelligence apparente d'un contribuable sont pertinentes dans la détermination de la faute lourde, dans Peck, précité à la note 70, au paragraphe 51, le juge Owen a indiqué que le fait que le critère de la faute lourde soit un critère objectif fait que les caractéristiques personnelles du contribuable ne sont pertinentes que si le contribuable établit qu'il ne pouvait comprendre le danger qu'il n'a pu éviter.
+[125] Peck, précité à la note 70, au paragraphe 55.
+[126] Chénard, précité à la note 57, au paragraphe 21. Voir le paragraphe 45 ci‑dessus.
+[127] Hogg, précité à la note 68, au paragraphe 20; Lauzon c. La Reine, 2016 CCI 71, au paragraphe 32, conf. par la C.A.F., précité à la note 123; Atutornu c. La Reine, 2014 CCI 174, aux paragraphes 12 et 21; Bhatti c. La Reine, 2013 CCI 143, aux paragraphes 23 et 30; Gélinas c. La Reine, 2009 CCI 136, au paragraphe 11; Laplante c. La Reine, 2008 CCI 335, au paragraphe 15.
+[128] Brown c. La Reine, 2009 CCI 28, au paragraphe 20.
+[129] Transcription du 8 septembre 2017, p. 118, lignes 13 à 16 et 20 à 23; voir également p. 147, lignes 10 à 14, et p. 150, lignes 10 et 11.
+[130] Ibid., de la p. 150, ligne 28, à la p. 151, ligne 6.
+[131] Ibid., p. 138, lignes 24 à 28, voir également p. 141, lignes 6 à 13, p. 149, lignes 4 à 6, et p. 151, lignes 16 à 18.
+[132] Ibid., p. 149, lignes 4 à 6, et p. 151, lignes 16 à 18.
+[133] Lauzon (C.C.I.), précité à la note 127, au paragraphe 33; conf. par la C.A.F., précité à la note 123.
+[134] Ibid. (C.C.I.), au paragraphe 34. Voir également Chartrand, précité à la note 59, aux paragraphes 39 à 47, et Brochu c. La Reine, 2011 CCI 75, au paragraphe 22.
+[135] Lauzon (C.C.I.), précité à la note 127, au paragraphe 45; conf. par la C.A.F., précité à la note 123.
+[136] Voir Torres, précité à la note 53, au paragraphe 78, conf. par Strachan, précité à la note 53. Le fait que j'ai décidé de ne pas condamner M. Manhue aux dépens n'indique pas la façon dont je pourrais exercer mon pouvoir discrétionnaire en vertu du paragraphe 147(1) des Règles dans des affaires futures concernant des contribuables qui ont recouru aux services de Fiscal Arbitrators ou de spécialistes en déclarations semblables.

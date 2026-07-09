@@ -1,0 +1,171 @@
+---
+title: "Pal v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26242/index.do"
+last_modified: "2004-07-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 495"
+citation2: ""
+neutral_citation: "2004 CCI 495"
+decision_date: "2004-07-13"
+language: "fr"
+item_id: "26242"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4039
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:14:45.473000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3e5ed41ce71455293ac5c5dc00b80bcb2448c2302c8a7739ebdbfabec4f4f040"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Pal v. The Queen
+
+- Citation: 2004 CCI 495
+- Decision date: 2004-07-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4039, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pal v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-07-13
+Référence neutre
+2004 CCI 495
+Numéro de dossier
+2001-751(IT)I
+Juges et Officiers taxateurs
+Michael J. Bonner
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2001-751(IT)I
+ENTRE :
+SATYA PAL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE] ____________________________________________________________________
+Appel entendu avec l'appel de Satya Pal (2001-333(GST)I) à Toronto (Ontario),
+les 14 et 15 mars 2002 et le 6 avril 2004.
+Devant : L'honorable M.J. Bonner
+Comparutions :
+Avocat de l'appelant :
+Me James P. McReynolds
+Avocat de l'intimée :
+Me John Grant
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1994, 1995 et 1996 sont rejetés.
+Signé à Ottawa, Canada, ce 13e jour de juillet 2004.
+« M.J. Bonner »
+Juge Bonner
+Traduction certifiée conforme
+ce 17e jour de décembre 2004.
+Jacques Deschênes, traducteur
+Référence : 2004CCI495
+Date : 20040713
+Dossier : 2001-751(IT)I
+ENTRE :
+SATYA PAL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bonner
+[1] Il s'agit d'un appel d'une cotisation établie en vertu de la Loi de l'impôt sur le revenu (la « Loi » ) pour les années d'imposition 1994, 1995 et 1996. L'appel a été entendu par la présente cour; il a été rejeté par un jugement en date du 22 mars 2002. Les motifs du jugement ont été prononcés oralement.
+[2] L'appelant a ensuite présenté une demande de contrôle judiciaire devant la Cour d'appel fédérale. Le résultat de cette instance et les motifs de la Cour d'appel fédérale sont résumés dans le passage suivant des motifs du jugement :
+Le juge de la Cour de l'impôt, les avocats et les parties paraissent tous avoir oublié la pièce A-6, un affidavit dans lequel M. Sehmi a fait état du montant du loyer annuel qu'il avait payé pendant ces années-là pour le permis de taxi du demandeur.
+Nous sommes tous convaincus qu'il s'agit là d'une erreur qui donne lieu à un manquement à l'équité procédurale et à la justice naturelle.
+La présente demande de contrôle judiciaire sera accueillie et l'affaire sera renvoyée au juge de la Cour de l'impôt pour qu'il rende une nouvelle décision en prenant en considération la pièce A-6, dont il n'a tenu aucun compte bien qu'elle ait été dûment versée au dossier.
+[3] À la suite de cette décision, une autre audience a été tenue par la présente cour. À l'audience, les parties ont eu la possibilité de présenter des éléments de preuve supplémentaires. L'appelant a cité Pritpal Singh Sehmi, l'auteur de l'affidavit mentionné dans les motifs de la Cour d'appel.
+[4] L'appel interjeté devant la présente cour se rapportait à des cotisations fondées sur la valeur nette. L'historique de l'affaire est expliqué comme suit dans les motifs antérieurs prononcés par la présente cour :
+L'appelant interjette appel de cotisations d'impôt établies à l'égard des années d'imposition 1994, 1995 et 1996 et des pénalités imposées en application du paragraphe 163(2). Durant ces années, l'appelant tirait un revenu de la location d'un taxi dont il était propriétaire. S'il ne pouvait que louer le taxi, c'était parce qu'il avait subi, lors d'un accident d'automobile, des blessures qui l'empêchaient de conduire le taxi lui-même [...]
+Initialement, l'appelant avait produit ses déclarations de revenus des années visées par l'appel par voie électronique. Il avait déclaré les revenus suivants : 3 997 $ en 1994, 7 403 $ en 1995 et 20 848 $ en 1996.
+Revenu Canada avait effectué une enquête sur les affaires financières de l'appelant après avoir découvert que ce dernier avait, en vue de gonfler les crédits de taxe sur les intrants, déduit des dépenses personnelles.
+Il était évident que le revenu de l'appelant ne pouvait être calculé directement. Ce dernier n'avait apparemment pas tenu de registres financiers fiables qui auraient permis de calculer directement son revenu. Il n'a d'ailleurs produit aucun registre à l'audience. Revenu Canada avait donc établi une cotisation suivant l'avoir net.
+[5] Les passages suivants de l'avis d'appel ont été admis par l'intimée :
+[traduction]
+a) L'appelant est titulaire d'un permis l'autorisant à exploiter un taxi à l'Aéroport international de Toronto, le taxi portant la plaque d'immatriculation de taxi de Mississauga numéro 25 et la plaque numéro 443 du ministère des Transports.
+et
+b) Au mois de septembre 1992, M. Pritpal Singh Sehmi a conclu avec l'appelant un contrat de location qui prévoyait que M. Sehmi louerait le permis d'exploitation du taxi de l'appelant pour la somme mensuelle de 1 200 $ et que cette somme pouvait être modifiée de gré à gré.
+[6] Les allégations suivantes figurant dans l'avis d'appel étaient contestées :
+[traduction]
+L'appelant a continué à recevoir une somme mensuelle de 1 200 $ à l'égard de la location en 1993, en 1994, en 1995 et jusqu'au mois d'août 1996 inclus. L'appelant et M. Sehmi ont convenu de la somme mensuelle de 1 200 $, et ce, malgré les ententes conclues par écrit les 1er janvier 1994, 23 août 1994 et 1er janvier 1995. La somme mensuelle de 1 200 $ a continué à être versée étant donné que M. Sehmi était atteint d'une déficience partielle qui l'empêchait de travailler à plein temps.
+Le contrat de location a été modifié, la modification devant prendre effet le 1er septembre 1996, en vue de prévoir le paiement d'une somme mensuelle de 2 340 $ au titre de la location, mais étant donné que M. Sehmi était atteint d'une déficience continue, il a été convenu que la somme à verser pour la location serait de 1 170 $.
+Le montant total reçu par M. Pal pour la location du permis s'élevait à 14 400 $ pour l'année 1994, à 14 400 $ pour l'année 1995 et à 14 280 $ pour l'année 1996.
+À part le revenu tiré de la location du permis, M. Pal ne tirait aucun autre revenu d'entreprise pendant les années d'imposition 1994, 1995 et 1996.
+[7] L'affidavit de M. Sehmi est un document qui en soi suscite des questions de crédibilité, car il donne à entendre que M. Sehmi a conclu avec l'appelant plusieurs ententes écrites prévoyant le paiement de certaines sommes à l'appelant, lesquelles n'ont pas été versées. Ce document est en partie ainsi libellé :
+[traduction]
+4. Au mois de septembre 1992, je suis allé voir M. Pal à l'hôpital général de Mississauga. À ce moment-là, je lui ai présenté un contrat de location m'autorisant à louer sa plaque d'immatriculation de taxi de la ville de Mississauga no 25 et son permis no 443 du ministère des Transports (le « permis » ). Je me suis entendu avec M. Pal pour lui verser une somme mensuelle de 1 200 $ à compter du mois de septembre 1992.
+5. J'ai continué à louer le permis et j'ai continué à verser la somme mensuelle de 1 200 $.
+6. Le 1er janvier 1994, j'ai conclu avec M. Pal une entente en vue de proroger la durée du contrat de location et de payer la somme de 1 500 $. D'autres ententes ont été conclues, notamment le 23 août 1994, le 20 décembre 1994 et le 13 septembre 1996. Toutefois, même si nous avions signé d'autres ententes, j'ai continué à verser à M. Pal une somme mensuelle de 1 200 $.
+7. La somme mensuelle de 1 200 $ a continué à être versée même pendant la période où je ne pouvais pas conduire à plein temps, et M. Pal avait convenu de réduire à 600 $ par mois la somme à verser à l'égard de la location.
+8. Au mois de septembre 1996, nous avons convenu d'un nouveau contrat de location, un versement mensuel de 2 340 $ devant être effectué. Toutefois, étant donné que je travaillais uniquement à temps partiel, nous avons convenu que la somme à verser devait être de 1 170 $.
+9. J'ai versé en tout à M. Pal un montant de 14 400 $ en 1994, de 14 400 $ en 1995 et de 14 280 $ en 1996.
+10. J'établis cet affidavit à l'appui d'un appel interjeté par M. Pal à l'encontre de cotisations fiscales.
+Il n'a jamais été contesté que le document était pertinent. Il s'agissait de savoir s'il fallait lui accorder du poids.
+[8] M. Sehmi n'a pas été cité comme témoin lors de la première audience qui a eu lieu devant la présente cour. L'avocat qui représentait l'appelant a alors déclaré que M. Sehmi ne pouvait pas comparaître, sans préciser pourquoi. M. Sehmi n'était donc pas disponible pour être contre-interrogé au sujet de son affidavit. L'avocat de l'appelant n'a pas demandé d'ajournement afin de permettre à M. Sehmi de témoigner en personne. Dans ces conditions, même si l'avocat de l'intimée ne s'est pas opposé à l'affidavit, j'estimais qu'il n'était pas prudent de s'appuyer sur le document.
+[9] Comme il en a été fait mention au paragraphe 3 de ces motifs, M. Sehmi a témoigné lors de la seconde audience. Pendant l'interrogatoire principal, il a confirmé ce qui était déclaré dans l'affidavit. Comme on peut s'y attendre, il a été contre-interrogé au sujet des différences entre les montants qu'il avait convenu par écrit de payer et les montants qu'il affirmait avoir en fait payés. Il n'a pas pu offrir d'explication logique. À un moment donné pendant le contre-interrogatoire, il a déclaré qu'il se mêlait. À un autre moment, lorsqu'on lui a directement demandé combien d'argent il avait versé à l'appelant, il a répondu qu'il ne le savait pas, qu'il devait vérifier ses documents et qu'il ne les avait pas en sa possession. À mon avis, M. Sehmi n'était pas un témoin crédible. Il n'a donc rien fait pour avancer la cause de l'appelant. Le revenu de l'appelant ne peut pas être mesuré directement.
+[10] Par conséquent, malgré la seconde audience, la position énoncée au paragraphe 10 des motifs que j'ai prononcés le 15 mars 2002, demeure la même :
+Il incombait à l'appelant d'établir, selon la prépondérance des probabilités, que les calculs du revenu effectués par le ministre étaient inexacts. Il s'agit d'une charge dont il est relativement facile de s'acquitter dans les cas où le ministre s'est fondé sur des calculs faits suivant la méthode de l'avoir net, étant donné l'imprécision inhérente à cette méthode. Toutefois, le contribuable doit produire, pour s'acquitter de la charge de la preuve, certains éléments de preuve crédibles faisant état d'erreurs dans les chiffres obtenus. L'appelant n'a en l'espèce produit aucun élément de preuve à cet égard.
+[11] L'appel est rejeté.
+Signé à Ottawa, Canada, ce 13e jour juillet de 2004.
+« M.J. Bonner »
+Juge Bonner
+Traduction certifiée conforme
+ce 17e jour de décembre 2004.
+Jacques Deschênes, traducteur
+RÉFÉRENCE :
+2004CCI495
+No DU DOSSIER DE LA COUR :
+2001-751(IT)I
+INTITULÉ :
+Satya Pal et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Toronto (Ontario)
+DATE DE L'AUDIENCE :
+Le 6 avril 2004
+MOTIFS DU JUGEMENT :
+L'honorable M.J. Bonner
+DATE DU JUGEMENT :
+Le 13 juillet 2004
+COMPARUTIONS :
+Avocat de l'appelant :
+Me James P. McReynolds
+Avocat de l'intimée :
+Me John Grant
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+James P. McReynolds
+Cabinet :
+Solmon Rothbart Goodman
+Toronto (Ontario)
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

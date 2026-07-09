@@ -1,0 +1,103 @@
+Title: Matrix Management Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28597/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-201-28597-matrix-management-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-04-11
+
+# Matrix Management Inc. v. The Queen
+
+- Citation: 2008 TCC 201
+- Decision date: 2008-04-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1064, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Matrix Management Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-04-11
+Neutral citation
+2008 TCC 201
+File numbers
+2007-4053(IT)I
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-4053(IT)I
+BETWEEN:
+MATRIX MANAGEMENT INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on March 31, 2008, at Fredericton, New Brunswick.
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Agent for the Appellant:
+Gerald David Webster
+Counsel for the Respondent:
+Martin Hickey and Kendrick Douglas
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act with respect to the Appellant’s 2005 taxation year is dismissed, without costs.
+Signed at Halifax, Nova Scotia, this 11th day of April 2008.
+“Wyman W. Webb”
+Webb J.
+Citation: 2008TCC201
+Date: 20080411
+Docket: 2007-4053(IT)I
+BETWEEN:
+MATRIX MANAGEMENT INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb J.
+[1] The Appellant was assessed a penalty pursuant to subsection 162(1) of the Income Tax Act ("Act") on the basis that the Appellant did not file its tax return for its taxation year ending September 30, 2005 as and when required by subsection 150(1) of the Act. The Appellant has appealed the assessment of this penalty. The Appellant does not dispute the amount of taxes owing for that taxation year.
+[2] The only witness that testified for the Appellant was Gerald Webster, who is the President of the Appellant. Gerald Webster testified that the tax return for the Appellant for its taxation year ending September 30, 2005 was prepared by the Appellant’s accounting firm and then delivered by this accounting firm to the offices of the Canada Revenue Agency (“CRA”) in Saint John, New Brunswick before the end of March 2006 (which would have been within the six month filing deadline for this return).
+[3] Gerald Webster stated that this tax return was delivered with other tax returns prepared by the accounting firm including the tax returns for Gerald Webster and his spouse, and the tax return for an affiliated company. Presumably the delivery of these returns was arranged by the accounting firm. Two of these returns were processed (the one for Gerald Webster's spouse and the one for the affiliated company) and the other two (the one for the Appellant and the one for Gerald Webster) were not processed. The Appellant and Gerald Webster later received notice that the CRA was stating that these had not been filed.
+[4] The difficulty in this case is the lack of evidence from the Appellant of the filing of the return. The Collections Officer for the CRA testified and she stated that there is no record of the filing of the tax return for the Appellant until March 2007. She also testified that as of a few days before the hearing the outstanding tax liability of the Appellant for its taxation year ending September 30, 2005 had not been paid.
+[5] The Appellant did not call the accountant as a witness, nor did the Appellant produce any statements made by the accountant to confirm the filing of the tax return. The only evidence provided by the Appellant was by a person who did not personally file the tax return. Gerald Webster could, in fact, only say that it was his understanding that the tax return had been filed as he was not the person who filed the tax return. Gerald Webster stated that he personally did not file the tax return, yet he did not call, as a witness, the person whom he said did file the tax return.
+[6] In Kennedy v. M.N.R., [1989] 2 C.T.C. 2121, 89 DTC 611, Justice Taylor stated that:
+12 In the nature of things, human beings and even machines being what they are, — something less than perfect — there is clearly always the possibility that the kind of event alleged by this appellant can take place — an income tax return deposited in a proper postal box — and ever being seen or heard of again. As properly pointed out by counsel for the appellant in this matter, the determination of a dispute about mailing, then may be a point of credibility. Taken to its extreme on one side, that could mean that there would be no way for an appellant to prove he had mailed a tax return. Taken to its other extreme, the Court could be asked to simply accept as sufficient that the appellant swears that he had indeed mailed the return. Clearly, neither of these extremities is totally satisfactory. However, from the hearing, the court had before it certain representations which do help to reach a decision. As noted earlier, the testimony of Mr. Boyce and that of Mrs. Gauthier, while not directly relevant to the critical question are important.
+13 First we should deal with the following evidence directly related to the mailing transaction:
+(1) The testimony of Mr. Kennedy that the return had been filed.
+(2) The corroborating testimony of Mrs. Kennedy that the return had been filed.
+14 I am not aware of jurisprudence which would warrant this Court acceding to the taxpayer's appeal based solely on his own representation that the return had been mailed (although such evidence should not be taken lightly) when there is no record of either receipt or return of the documents. The corroborating testimony of Mrs. Kennedy has considerable persuasive effect, since it provides the evidence of two witnesses regarding the same act — mailing the return. It is a point for serious thought, whether this simple unshaken testimony of two or more persons under circumstances such as these before the Court, should be sufficient to discharge the burden of proof on a taxpayer. I would certainly lean heavily in that direction if the surrounding circumstances and external evidence, no matter how limited, supported their contention. However, in this appeal, I am not called upon to make that determination, as I see it, because what little relevant other evidence we do have, points the other way. That does not mean Mr. and Mrs. Kennedy may not be right in their contention or assumption that the return was mailed, or at least that they believe that they are right. It simply means that in my view that result — mailing the return — does not flow easily from the situation surrounding the return and the cheque.
+[7] In that case Justice Taylor had the testimony of the individuals who stated that they were the ones who mailed the tax returns. In this case, there was no evidence from the person whom Gerald Webster identified as the one who filed the tax return.
+[8] The Appellant argued that there is a due diligence defence to the imposition of the penalty under subsection 162(1) of the Act. Justice Bowman in Pillar Oilfield Projects Ltd. v. The Queen, [1993] G.S.T.C. 49, held that a taxpayer could avoid liability for an administrative penalty imposed under the Excise Tax Act if the taxpayer could “establish that he or she was without fault and acted with due diligence”. This due diligence defence was also held to be applicable to penalties arising under section 162 of the Act in Ford v. The Queen, [1994] 2 C.T.C. 2395, 95 DTC. 848; Bennett v. The Queen, [1995] 2 C.T.C. 2308, 96 DTC 1630; Stuart Estate v. The Queen, [2003] 3 C.T.C. 2232, 2003 DTC 329, and Bateman v. The Queen, [2007] 2 C.T.C. 2020, 2007 DTC.156.
+[9] However, as noted by Justice Bowman in Pillar Oilfield Projects Ltd.:
+As stated above innocent good faith in the making of unintentional errors is not tantamount to due diligence. That defence requires affirmative proof that all reasonable care was exercised to ensure that errors not be made.
+[10] In this case, the Appellant has failed to lead the evidence that would be required to establish due diligence on the part of the Appellant. As noted above the only evidence introduced by the Appellant was the testimony of a person who did not personally file the tax return. The accountant, whom Gerald Webster identified as the person who prepared and filed the return, did not testify nor was there any statement or documentation from that accountant. The evidence was not sufficient to establish due diligence on the part of the Appellant.
+[11] The appeal is dismissed, without costs.
+Signed at Halifax, Nova Scotia, this 11th day of April 2008.
+“Wyman W. Webb”
+Webb J.
+CITATION: 2008TCC201
+COURT FILE NO.: 2007-4053(IT)I
+STYLE OF CAUSE: MATRIX MANAGEMENT INC. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Fredericton, New Brunswick
+DATE OF HEARING: March 31, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: April 11, 2008
+APPEARANCES:
+Agent for the Appellant:
+Gerald David Webster
+Counsel for the Respondent:
+Martin Hickey and Kendrick Douglas
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

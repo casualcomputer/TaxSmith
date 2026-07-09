@@ -1,0 +1,263 @@
+Title: Bhullar v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26165/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-596-26165-bhullar-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2004-09-02
+
+# Bhullar v. M.N.R.
+
+- Citation: 2004 TCC 596
+- Decision date: 2004-09-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3963, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bhullar v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-09-02
+Neutral citation
+2004 TCC 596
+File numbers
+2002-4714(EI), 2002-4715(CPP)
+Judges and Taxing Officers
+Murray A. Mogan
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2002-4714(EI) and 2002-4715(CPP)
+2003-208(CPP) and 2003-209(EI)
+BETWEEN:
+JASVIR BHULLAR and
+KULDEEP S. BAHNIWAL o/a SUN VALLEY ORCHARD,
+Appellants,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeals heard on January 13 and 14, 2004, at Kelowna, British Columbia,
+By: The Honourable Justice M.A. Mogan
+Appearances:
+Counsel for the Appellants:
+Richard D. Covell
+Counsel for the Respondent:
+Shawna Cruz
+____________________________________________________________________
+JUDGMENT
+The appeals pursuant to subsection 103(1) of the Employment Insurance Act and section 28 of the Canada Pension Plan are allowed and the decisions of the Minister of National Revenue on the appeals made to him under section 92 of the Act and the determinations of the Minister on the applications made to him under section 27.1 of the Plan are varied on the basis that Jasvir Bhullar was an employee of Kuldeep S. Bahniwal, operating as Sun Valley Orchard, engaged in insurable employment under a contract of service from July 15, 2001 to October 25, 2001.
+Signed at Ottawa, Canada, this 2nd day of September, 2004.
+"M.A. Mogan"
+Mogan J.
+Docket: 2002-4716(EI) and 2002-4717(CPP)
+2003-215(CPP) and 2003-216(EI)
+BETWEEN:
+ASSA SINGH BHULLAR
+and NAVJOT BAHNIWAL,
+Appellants,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeals heard on January 13 and 14, 2004, at Kelowna, British Columbia,
+By: The Honourable Justice M.A. Mogan
+Appearances:
+Counsel for the Appellants:
+Richard D. Covell
+Counsel for the Respondent:
+Shawna Cruz
+____________________________________________________________________
+JUDGMENT
+The appeals pursuant to subsection 103(1) of the Employment Insurance Act and section 28 of the Canada Pension Plan are dismissed and the decisions of the Minister of National Revenue on the appeals made to him under section 92 of the Act and the determinations of the Minister on the applications made to him under section 27.1 of the Plan are confirmed on the basis that Navjot Bahniwal was not an employee of Assa Singh Bhullar in the period July 1, 2001 to October 20, 2001.
+Signed at Ottawa, Canada, this 2nd day of September, 2004.
+"M.A. Mogan"
+Mogan J.
+Docket: 2003-206(EI) and 2003-214(EI)
+BETWEEN:
+KULDEEP S. BAHNIWAL o/a SUN VALLEY
+ORCHARD and NAVJOT BAHNIWAL,
+Appellants,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeals heard on January 13 and 14, 2004, at Kelowna, British Columbia,
+By: The Honourable Justice M.A. Mogan
+Appearances:
+Counsel for the Appellants:
+Richard D. Covell
+Counsel for the Respondent:
+Shawna Cruz
+____________________________________________________________________
+JUDGMENT
+The appeals pursuant to subsection 103(1) of the Employment Insurance Act and section 28 of the Canada Pension Plan are dismissed and the decisions of the Minister of National Revenue on the appeals made to him under section 92 of the Act and the determinations of the Minister on the applications made to him under section 27.1 of the Plan are confirmed on the basis that the employment of Navjot Bahniwal by Kuldeep S. Bahniwal, operating as Sun Valley Orchard, in the period March 4, 2001 to June 30, 2001 was not insurable employment.
+Signed at Ottawa, Canada, this 2nd day of September, 2004.
+"M.A. Mogan"
+Mogan J.
+Citation: 2004TCC596
+Date: 20040902
+Docket: 2002-4714(EI)
+2002-4715(CPP)
+BETWEEN:
+JASVIR BHULLAR,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Docket: 2003-208(CPP)
+2003-209(EI)
+AND BETWEEN:
+KULDEEP S. BAHNIWAL
+o/a SUN VALLEY ORCHARD,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Docket: 2002-4716(EI)
+2002-4717(CPP)
+AND BETWEEN:
+ASSA SINGH BHULLAR,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Docket: 2003-215(CPP)
+2003-216(EI)
+AND BETWEEN:
+NAVJOT BAHNIWAL,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Docket: 2003-206(EI)
+AND BETWEEN:
+KULDEEP S. BAHNIWAL
+o/a SUN VALLEY ORCHARD,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Docket: 2003-214(EI)
+AND BETWEEN:
+NAVJOT BAHNIWAL,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Mogan J.
+[1] Six appeals under the Employment Insurance Act ("EI Act") and four related appeals under the Canada Pension Plan ("CPP") were heard over a two-day period at Kelowna, British Columbia in January 2004. One counsel, Richard D. Covell, represented all Appellants; and one counsel, Shawna Cruz, represented the Minister of National Revenue ("MNR"), the Respondent in all cases. As will appear from the description below, the appeals were grouped around three basic issues.
+[2] Two of the Appellants are Jasvir Bhullar and her husband Assa Singh Bhullar. The other two appellants are Kuldeep Bahniwal and his daughter, Navjot Bahniwal. Because certain family names are the same, for convenience I shall refer to the wife and husband as "Jasvir" and "Assa", respectively. And I shall refer to the father and daughter as "Kuldeep" and "Navjot", respectively. The first issue is whether Jasvir was employed by Kuldeep in insurable employment during the period July 15 to October 25, 2001. The Court File Numbers involved in the first issue are 2002-4714(EI) and 2002-4715(CPP) in which Jasvir is the Appellant and 2003-208(CPP) and 2003-209(EI) in which Kuldeep operating as Sun Valley Orchard is the Appellant.
+[3] The second issue is whether Navjot was employed by Assa in insurable employment during the period July 1 to October 20, 2001. The Court File Numbers involved in the second issue are 2002-4716(EI) and 2002-4717(CPP) in which Assa is the Appellant; and 2003-215(CPP) and 2003-216(EI) in which Navjot is the Appellant.
+[4] The third issue is whether Navjot was employed in insurable employment by Kuldeep during the period March 4 to June 30, 2001 accepting the fact that they do not deal with each other at arm's length. The Court File Numbers involved in the third issue are 2003-206(EI) in which Kuldeep operating as Sun Valley Orchard is the Appellant and 2003-214(EI) in which Navjot is the Appellant. At the hearing, evidence was presented on the first and second issues together because of the Respondent's claim that there was an "exchange of work or services" within the meaning of the EI Act. Evidence was then presented on the third issue separately. Because I have concluded that there was no "exchange of work or services", I shall consider the first issue alone. I will then consider the second and third issues together because Navjot is the principal Appellant in both.
+First Issue - Was Jasvir employed by Kuldeep during
+the period July 15 to October 25, 2001?
+[5] Jasvir claims that she was employed by Kuldeep during the period in question and Kuldeep makes the same claim. The MNR denies that there was such employment and further states that, if Jasvir was employed by Kuldeep, then her employment was part of an exchange of services between Kuldeep and Assa respecting the services of Jasvir and Navjot. In the pleadings, the Respondent relies on the assumed fact that Assa and Kuldeep were close friends in 2001.
+[6] Kuldeep was the first witness to testify. He was born in the Punjab area of India in 1959 and came to Canada in 1981 at the age of 22. He went directly to the Okanagan Valley as a farm labourer in 1981 and became a citizen of Canada in 1985. He has operated an orchard since 1991 either as a tenant or as an owner. He started on leased land but purchased 10.2 acres in 1993. He operates under the name "Sun Valley Orchard" and his principal crops are cherries, apricots, apples and vegetables. The busiest working time is March to October. In March, he and his helpers prune and clean up around his 800 trees, and they plant vegetables. In May, June and July, they thin the apple trees to produce better apples.
+[7] In 2001, Kuldeep purchased an additional 12 acres and so he was farming 22 acres from and after 2001. His land is near Oliver, a small community on B.C. Highway 97 about 40 kilometres south of Penticton. His father also has a 10.2-acre orchard near Oliver. Kuldeep stated that he actually lives in the town of Oliver, about a five-minute drive from his orchard. Jasvir and Assa live in Penticton but Assa's orchard is at Kaleden, about five kilometres south of Penticton and 35 kilometres north of Oliver. Jasvir testified and explained that she travelled south from Penticton to Oliver to work at Kuldeep's orchard. She said that she worked for Kuldeep each year from 1993 to 2001.
+[8] Assa was born in India in 1963 and came to Canada in 1990 when he was 27. He married Jasvir in 1992, the year she came to Canada. They both worked for Kuldeep in 1993 but, in 1994, Assa leased 25 acres of land to farm himself and did not work for Kuldeep after 1993. Jasvir and Assa have two children born in 1993 and 1995. Assa's mother looks after the children while Jasvir works. Jasvir stated in evidence that Assa leases his land from "white people" and, if he lost his lease, he would have to find other work but she had regular income each year from 1993 to 2001 working for Kuldeep.
+[9] There are a number of documents which support Jasvir's claim that she was employed by Kuldeep over a period of years. Exhibit A-2 is a T4 slip issued by Sun Valley Farm to Jasvir showing that she earned $6,296 in 1993. Exhibit A-3 is a T4 slip issued by Sun Valley Orchard to Jasvir showing that she earned $1,173 in 1994. Exhibit A-4 is a Record of Employment ("ROE") issued by Sun Valley Orchards to Jasvir showing that she worked 13 weeks in 1995 and earned $7,731. Exhibit A-5 is an ROE issued by Sun Valley Orchards to Jasvir showing that she worked 16 weeks in 1996 and earned $9,639. Exhibit A-6 is an ROE issued by Sun Valley Orchards to Jasvir showing that she worked from July 15 to October 25, 2001 and earned $7,170. And finally, Exhibit R-2 is a timesheet for Jasvir for 2001 showing her hours worked, gross earnings and source deductions. Her gross earnings ($7,170) in Exhibit R-2 is consistent with the amount shown in Exhibit A-6. Her net earnings ($6,731.56) in Exhibit R-2 is consistent with the total of the cheques and cash receipts listed in paragraph 11 below.
+[10] Jasvir claims that she worked for Kuldeep's father in June 2001 before she went to work for Kuldeep himself. Exhibit A-1 is an informal power of attorney dated May 14, 2001 granted by Surain Bahniwal (father of Kuldeep) to Kuldeep with respect to the operation of Surain's farm. Exhibit A-7 is a photocopy of two receipts dated June 15 and July 1, 2001, respectively, signed by Jasvir acknowledging cash ($400 and $914.08) received from Surain, and indicating that Jasvir was seeking employment in June 2001. Exhibit A-16 is a handwritten record of Jasvir's hours at Surain's farm in June 2001. The hours and total amount of wages ($1,314.08) in Exhibit A-16 are consistent with the total cash received in Exhibit A-7.
+[11] Exhibits A-8 to A-13 are either cheques or cash receipts (as indicated in the table below) showing six occasions when Jasvir received money from Kuldeep in the period July to November 2001.
+A-8
+Cash receipt
+July 29
+$1,300.00
+A-9
+Cash receipt
+August 31
+1,318.76
+A-10
+Cheque
+September 30
+1,980.47
+A-11
+Cheque
+October 24
+1,200.00
+A-12
+Cash receipt
+October 25
+500.00
+A-13
+Cheque
+November 20
+432.33
+Two of the cheques (A-10 and A-11) were cashed on November 8, 2001 and the third cheque (A-13) was cashed on November 23, 2001. Kuldeep explained that whether he sells his fruits and vegetables to wholesalers or the Co-op, they pay him on a delayed basis. As a consequence, he sometimes has to ask his workers to defer cashing his cheques until he has been paid by the wholesalers or Co-op. This is what happened in the case of Exhibits A-10 and A-11. Kuldeep was asked about Exhibit A-13 (cheque dated November 20) and stated that it must have been some kind of catch-up payment because it was issued almost four weeks after Jasvir's last day at work (October 25) and it was for a precise amount ($432.33) unlike Exhibits A-11 and A-12.
+[12] Jasvir did not work for Kuldeep in 2002 or 2003 but she did work for Surain Bahniwal (Kuldeep's father) from September 8 to October 12, 2002. Exhibit A-14 is a handwritten record of Jasvir's hours from September 8 to October 12 in Kuldeep's writing as administrator (see Exhibit A-1) of his father's farm. Exhibit A-15 is an ROE issued by Surain Bahniwal to Jasvir for the period September/October 2002 but apparently signed by Kuldeep as administrator.
+[13] In paragraphs 9 and 11 above, a number of documentary exhibits are described which support Jasvir's claim that she worked for Kuldeep during the period July 15 to October 25, 2001. Those documents demonstrate a pattern of Jasvir working for Kuldeep over a period of years from 1993 to 1996 and in 2001. Jasvir stated under oath (through a Court translator) that she also worked for Kuldeep in the years 1997 to 2000; that she was laid off each year at the end of the farm season (usually October); and that in all years 1993 to 2000 she claimed and was granted unemployment benefits under the UI/EI system. I accept her oral testimony because it is consistent with the documents.
+[14] The Respondent denied that Jasvir worked for Kuldeep in 2001 and, alternatively, stated that if she did so work, there was an exchange of services with respect to Jasvir and Navjot. The Respondent assumed that Kuldeep and Assa were close friends. Both Kuldeep and Assa testified that they knew each other but were not close friends. They maintain that they are part of a large community of 300 to 400 Punjab families who operate orchards in the Penticton/Kaleden/Oliver area of the Okanagan Valley. I accept their evidence on this point and find that Jasvir was employed by Kuldeep in insurable employment during the period July 15 to October 25, 2001. The appeals of Jasvir and Kuldeep are allowed for the period July 15 to October 25, 2001.
+Second Issue - Was Navjot employed by Assa during
+the period July 1 to October 20, 2001?
+Third Issue - Was Navjot engaged in insurable
+employment by Kuldeep during
+the period March 4 to June 30, 2001?
+[15] As the principal Appellant in the second and third issues, Navjot claims that she was employed by her father (Kuldeep) from March 4 to June 30, 2001; and that she was employed by Assa from July 1 to October 20, 2001. With respect to the earlier period (March to June 2001), the Respondent claims that Navjot was not employed by Kuldeep and, if she was so employed, then her employment by Kuldeep was excluded by paragraph 5(2)(i) of the EI Act because, as father and daughter, they did not deal with each other at arm's length. With respect to the later period (July to October 2001), the Respondent claims that Navjot was not employed by Assa and, if she was so employed, then her employment constituted an exchange of services within the meaning of paragraph 5(2)(g) of the EI Act. The relevant provisions of the EI Act are as follows:
+5(1) Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+(b) ...
+5(2) Insurable employment does not include
+(a) ...
+(g) employment that constitutes an exchange of work or services;
+(h) ...
+(i) employment if the employer and employee are not dealing with each other at arm's length.
+5(3) For the purposes of paragraph (2)(i),
+(a) the question of whether persons are not dealing with each other at arm's length shall be determined in accordance with the Income Tax Act; and
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm's length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[16] Navjot's evidence is that she worked in her father's orchard from March 4 to June 30, 2001 while she was finishing Grade 12 high school at Oliver. Her work was orchard labour, raking up around the trees and pulling weeds. She worked after school and on weekends at a rate of $10 per hour. She concluded that orchard labour was hard work and so she called Assa to see if she could work in the fruit stand at his farm near Kaleden. Assa agreed to hire Navjot. She started to work in the fruit stand on July 1, 2001 and continued until late October. I will consider Navjot's two work periods in chronological order.
+[17] There is no doubt that Kuldeep and Navjot, as father and daughter, do not deal with each other at arm's length. Accordingly, Navjot's employment by Kuldeep starts off as excluded from insurable employment under paragraph 5(2)(i) of the EI Act. In order to consider the non-arm's length question, I will leave aside the Respondent's alternative claims (i) that Navjot did not work the 540 hours shown on the ROE issued to her by Kuldeep; and (ii) that Navjot and Kuldeep entered into an arrangement to qualify for EI benefits to which she would otherwise not be entitled. See paragraphs 5(j), (q) and (r) in the Respondent's Reply in Court File 2003-214(EI).
+[18] Navjot's claim with respect to the period March 4 to June 30, 2001 was heard as the second phase of the hearing with its own exhibits. In this sense, both Kuldeep and Navjot testified twice. Kuldeep entered as Exhibits A-1, A-2, A-3 and A-4 his handwritten record of Navjot's hours worked each day from March 4 to June 30. According to those exhibits, she worked about two or three hours each school day and about eight or nine hours on weekends. He stated that he recorded her hours day-by-day as she worked and that Exhibits A-1 to A-4 were contemporary records. He also stated that Navjot was laid off on June 30 because he had no more work but he then hired Jasvir on July 15 who worked right through to October 25.
+[19] Exhibit A-5 is an ROE issued by Kuldeep to Navjot showing 540 hours worked from March 4 to June 30. Kuldeep signed the ROE on November 3, 2001. He stated that he delayed issuing the ROE because he might have called her back to work. Exhibit A-6 is a cheque from Kuldeep to Navjot dated October 24, 2001 in the amount of $4,941.80. Navjot stated that she did not want to be paid on a regular basis like each month or every two weeks because she wanted only one big payment. She could not explain why the cheque was issued on October 24 as opposed to a date closer to June 30 when she last worked for her father.
+[20] Brian Lundgren testified as a witness for the Respondent. He investigates EI claims for Human Resources Development Canada ("HRDC"). He stated that Navjot's claim was brought to his attention because she was a first-time claimant for EI benefits and she had worked for her father. From Mr. Lundgren's experience (four years) investigating EI claims in the Okanagan Valley, he concluded that most owners of 10-acre farms did not hire workers in March, April or May but waited until June, July and later months when there were crops to be harvested. He interviewed Kuldeep, Navjot, Assa and Jasvir. When Mr. Lundgren interviewed Kuldeep in December 2001, he was given a copy of Exhibit R-1, the daily timesheet for Navjot, but he was not given the backup pages which became Exhibits A-1 to A-4 in these cases. He concluded that there were issues of fact for Revenue Canada to resolve.
+[21] Navjot's only payment for wages from Kuldeep was the cheque for $4,941.80 issued on October 24, 2001. Confining myself to the non-arm's length question under paragraphs 5(2)(i) and 5(3)(b), I conclude that an arm's length employee would not wait and would not be expected to wait three months plus 24 days for wages which were earned over the four-month period from March to June.
+[22] Having regard to all the circumstances of Navjot's claimed employment by Kuldeep in the period March to June 2001, and in particular the long delay in the payment of wages, it is not reasonable to conclude that an arm's length employee would have entered into a substantially similar contract of employment. There is not sufficient evidence to persuade me that the Minister exercised his/her discretion under paragraph 5(3)(b) in a manner contrary to law with respect to the claimed employment of Navjot by Kuldeep from March 4 to June 30, 2001. The appeals of Navjot and Kuldeep are dismissed for the period March 4 to June 30, 2001.
+[23] Navjot's second claim is that she was employed by Assa from July 1 to October 20, 2001. Her evidence is that, after working for her father, she concluded that orchard labour was hard work and, when the school year ended, she looked for easier work at Assa's fruit stand at his farm. She claims that she worked for Assa for three months and 20 days from July 1 to October 20, 2001. Assa testified in support of Navjot's claim.
+[24] The Appellants (Navjot and Assa) entered certain documents in support of her claim. Exhibit A-18 is an ROE issued by Assa to Navjot showing her first day worked and last day worked (July 1 and October 20); and showing her total earnings at $10,020. Exhibit A-19 is a summary in Assa's handwriting showing the number of hours Navjot worked on a weekly basis. Exhibits A-18 and A-19 do not show the hours worked each day. In ordinary circumstances, the employer records the hours worked each day. Navjot stated that she did not keep track of her hours. I would contrast Exhibit A-19 with Exhibits A-14 and A-16 on which Kuldeep recorded the hours which Jasvir worked each day at Surain Bahniwal's farm in September/October 2002 and in June 2001, respectively. Also, Exhibit R-2 is Kuldeep's payroll record showing the hours which Jasvir worked each day from July 15 to October 25, 2001. Why could Assa not produce a daily timesheet (like Exhibit R-2) for Navjot when her entitlement to EI benefits was challenged in the winter of 2001/2002? Exhibit R-6 (Navjot's Questionnaire) was dated May 9, 2002 proving that she had already been denied or challenged with respect to her EI benefits.
+[25] Assa stated that in 2001 he was farming 40 acres at Kaleden which he had under lease. Also in 2001, Assa had four or five workers who helped him farm the 40 acres and each was paid $10 per hour. He would have needed a daily timesheet like Exhibit R-2 for each worker to record the hours worked each day, the total hours for a particular pay period (probably weekly), the gross earnings, the source deductions (if any) and the net amount payable to each worker. An employer will ordinarily retain those daily timesheets - a basic payroll record - for at least a year, first, to support the T4 Revenue Canada slips which are issued to all employees at the end of the year, and second, to prove the amount entered as "wages" in the statement of earnings for the farm operation.
+[26] Assa's personal appeals in this Court (Court Files 2002-4716(EI) and 2002-4717(CPP)) are in support of Navjot's personal appeals (Court Files 2003-215(CPP) and 2003-216(EI)) in which she claims that she was employed by Assa in 2001 and is therefore entitled to unemployment benefits after being laid off on October 20, 2001. Assa was a significant witness in the hearing of these appeals. His failure to produce daily timesheets for Navjot causes me to question whether Navjot ever worked for Assa in 2001.
+[27] There are many aspects of Navjot's second claim (i.e. that she was employed by Assa from July to October 2001) which do not have a true ring. I will describe a few of those aspects.
+(a) Although I do not attach much weight to Exhibit A-19 (a one-page summary of Navjot's hours worked on a weekly basis), that exhibit indicates that she (age 19) worked about 10 hours every single day from July 1 to August 4 and from August 19 to September 22. Most young people would want at least one or two recreational days in a five-week period.
+(b) She gave up orchard labour at her father's farm at Oliver in order to do easier work (the fruit stand) at Assa's farm at Kaleden about 35 kilometres north of Oliver. Navjot did not have her own car and so her parents (usually her mother) drove her to work at Assa's fruit stand and picked her up after work. Some members of Navjot's family would have to travel about 140 kilometres each day just to deliver her to work at Kaleden and to bring her home. If Exhibit A-19 is believable (and I doubt that it is), Navjot's family drove more than 4,500 kilometres in her first five weeks of work (July 1 to August 4) just to take her to work and bring her home.
+(c) Exhibit R-7 was introduced through Navjot showing that she enrolled in a special course at Oliver Secondary School to upgrade her Grade 12 English. The course started September 4, 2001 and ended January 28, 2002. In the odd-number weeks, her lessons were each day from 8:35 a.m. to 9:55 a.m. In the even-number weeks, her lessons were each day from 10:05 a.m. to 11:35 a.m. According to Exhibit A-19, Navjot worked 69 hours, 71 hours and 70 hours in the weeks ending September 8, 15 and 22, respectively. When asked how she could work about 10 hours each day at Kaleden and go to school in Oliver each morning Monday to Friday, Navjot stated that, in the two odd-number weeks (ending September 8 and 22) when her lesson ended at 9:55 a.m., her mother would drive her up to Kaleden after school and pick her up about 10 hours later. And in the one even-number week (ending September 15) when her lessons were mid-morning starting at 10:05 a.m., her mother would take her up to Kaleden before school; bring her back to Oliver for her lesson; take her back to Kaleden for the rest of the day; and then bring her home in the evening. Navjot's explanation is simply not believable. Her mother would be making multiple trips to Kaleden in the week September 8 to 15. Also, no one explained how Assa operated the fruit stand when Navjot was at school.
+(d) If working the fruit stand was easier work than orchard labour, why did Navjot earn the same wage as Assa's other workers? At first blush, the amount $10,020 (see Exhibit A-18) seems like a relatively high labour overhead to operate a fruit stand by the side of a highway from July 1 to October 20, 2001.
+(e) Exhibit A-23 proves that the two cheques which Assa issued to Navjot (see Exhibit A-20) were cashed on November 13 and November 21, but there is no documentary evidence to prove who cashed the cheques; in whose account were the cheques deposited; and whether there were any payments out of the account soon after the deposits. There are no documents to prove when Assa remitted the source deductions for Navjot.
+(f) Exhibit R-4 and the oral testimony of John Sladen (a commercial bee keeper appearing under subpoena) prove that when Mr. Sladen delivered honey to Assa's fruit stand ("Red Haven") on July 3, 2001, the receipt for the honey was signed by Assa's wife Jasvir. According to Exhibit A-19 (a questionable document), Navjot worked 10 hours at the fruit stand on July 3, 2001. Also, Assa had testified that he needed Navjot to work at the fruit stand because Jasvir did not speak good English.
+[28] Having regard to all the surrounding circumstances, Navjot's claim that she was employed by Assa from July 1 to October 20, 2001 is not credible and, in particular, is not supported by any genuine objective documents. To the extent that Assa and Kuldeep testified in support of Navjot's claim, I do not believe them. At the commencement of the hearing, Respondent's counsel moved to exclude the Appellants as witnesses until they had testified. Appellants' counsel objected insisting upon their right, as litigants, to remain in Court. I upheld the objection of Appellants' counsel but expressed the caution that the weight to be attached to the evidence of subsequent witnesses may be affected by their continued presence in Court through the proceedings. All of the Appellants remained in Court throughout.
+[29] Navjot was the last Appellant to testify. She was 21 years old at the time of the hearing and speaks excellent English. She had heard the testimony of Assa and her father, Kuldeep. She knew what she had to say in order to be consistent with their prior testimony and she said it. I concluded that she was not a believable witness. The appeals of Navjot and Assa are dismissed for the period July 1 to October 20, 2001.
+Signed at Ottawa, Canada, this 2nd day of September, 2004.
+"M.A. Mogan"
+Mogan J.
+CITATION:
+2004TCC596
+COURT FILE NOS.:
+2002-4714(EI), 2002-4715(CPP), 2003-208(CPP), 2003-209(EI), 2002-4716(EI),
+2002-4717(CPP), 2003-215(CPP), 2003-216(EI), 2003-206(EI) and 2003-214(EI)
+STYLE OF CAUSE:
+Jasvir Bhullar, Kuldeep S. Bahniwal, o/a Sun Valley Orchard, Assa Singh Bhullar, Navjot Bahniwal and The Minister of National Revenue
+PLACE OF HEARING:
+Kelowna, British Columbia
+DATE OF HEARING:
+January 13 and 14, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice M.A. Mogan
+DATE OF JUDGMENT:
+September 2, 2004
+APPEARANCES:
+Counsel for the Appellants:
+Richard D. Covell
+Counsel for the Respondent:
+Shawna Cruz
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+Richard D. Covell
+Firm:
+Pearce Covell
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

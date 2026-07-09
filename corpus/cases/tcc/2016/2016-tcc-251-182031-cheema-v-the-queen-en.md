@@ -1,0 +1,274 @@
+---
+title: "Cheema v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/182031/index.do"
+last_modified: "2016-11-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 TCC 251"
+citation2: ""
+neutral_citation: "2016 TCC 251"
+decision_date: "2016-11-04"
+language: "en"
+item_id: "182031"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2995
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:37:34.097000+00:00"
+cases_cited_count: 12
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f3979df17569c5e0367cffeac3cc8fb822d631fdbd45f9b31881d1027ea18132"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Cheema v. The Queen
+
+- Citation: 2016 TCC 251
+- Decision date: 2016-11-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2995, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cheema v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-11-04
+Neutral citation
+2016 TCC 251
+File numbers
+2015-5407(GST)I
+Judges and Taxing Officers
+Guy R. Smith
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2015-5407(GST)I
+BETWEEN:
+MOHAMMAD N. CHEEMA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on May 2, 2016, at Toronto, Ontario.
+Before: The Honourable Justice Guy R. Smith
+Appearances:
+Counsel for the Appellant:
+John L. Ennis
+Counsel for the Respondent:
+Amit Ummat
+JUDGMENT
+The appeal from the reassessment made under Part IX of the Excise Tax Act is allowed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 4th day of November 2016.
+“Guy Smith”
+Smith J.
+Citation: 2016 TCC 251
+Date: 20161104
+Docket: 2015-5407(GST)I
+BETWEEN:
+MOHAMMAD N. CHEEMA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Smith J.
+[1] The Minister of National Revenue (the “Minister”) reassessed Mohammad N. Cheema (the “Appellant”) to deny his application for a New Housing Rebate (“NHR”) in the amount of $24,000 with respect to the purchase of a property located at 364 Stanton Avenue, Vaughan, Ontario (the “Property”).
+[2] The Minister takes the position that the Appellant has not met the necessary preconditions for the NHR as one of the co-purchasers did not intend to occupy the Property as his primary place of residence when the Agreement of Purchase and Sale was signed and did not occupy the residence after closing, contrary to the requirements of paragraphs 254(2)(b) and (g) of the Excise Tax Act[1] (“ETA”).
+[3] The Appellant maintains that the co-purchaser in question signed the Agreement of Purchase and Sale for the purpose of facilitating the mortgage financing and acquired legal title on closing as bare trustee for the Appellant and his spouse as beneficial owners, as confirmed by a written trust declaration.
+[4] The issue in this appeal is whether the expression “particular individual” excludes someone who signs an agreement of purchase and sale and acquires legal title to a new residence as agent or bare trustee of the beneficial owners?
+[5] For reasons set out below, the appeal is allowed on the basis that the co-purchaser was an agent and trustee of the Appellant and his spouse.
+The Facts [6] The material facts are not in dispute. On March 26, 2012, the Appellant and a certain Doctor Din Mohammed Akbari (“Dr. Akbari”) entered into an Agreement of Purchase and Sale for the purchase of a new residential property.
+[7] The Appellant explained that he had sought the help of Dr. Akbari, who was a friend, to assist with the mortgage financing by co‑signing the application for credit. They were approved by the lender and both later signed the Agreement of Purchase and Sale with the builder, Mosaik Pinewest Inc.
+[8] According to the Appellant, it was understood from the beginning that Dr. Akbari would have no real interest in the Property. In other words, he would hold legal title in trust for the Appellant and his spouse as beneficial owners and following the date of closing, they would occupy the Property as their primary residence.
+[9] Dr. Akbari readily admitted that he had no intention of occupying the Property as his primary residence and that he did not do so after the date of closing. He confirmed that he did not contribute to the down‑payment and that, following the date of closing, he did not make any payment towards the mortgage, property taxes, insurance or utilities expenses. All such costs were borne by the Appellant.
+[10] The transaction closed on July 26, 2013. In accordance with instructions given to the builder, the Appellant and his spouse acquired an undivided 99% interest in the Property and Dr. Akbari acquired an undivided 1% interest.
+[11] The Appellant and his spouse immediately took possession of the Property.
+[12] On the date of closing, the parties signed a trust declaration (the “Trust Declaration”) in which Dr. Akbari was described as the “Trustee” and the Appellant and his spouse were described as the “Beneficiary”.
+[13] Dr. Akbari acknowledged that the Appellant and his spouse were the beneficial owners of the Property and that he was holding the 1% interest in trust for them as beneficial owners and that he would convey that interest on demand.
+[14] The Trust Declaration confirmed that all expenditures in relation to the Property would be borne by the Appellant and his spouse and included a covenant that they would indemnify “the trustee against all costs, damages, expenses, claims, proceedings and demands in respect of the Property”.
+[15] During cross‑examination, the Appellant acknowledged that a copy of the Trust Declaration had not been provided to the mortgage lender and, given the date of preparation, it is likely that it was also not provided to the builder.
+[16] According to the Appellant, Dr. Akbari later conveyed his 1% interest to the Appellant’s son who had been approved by the mortgage lender.
+[17] I would emphasize that there was no issue of credibility and that I have no difficulty believing the version of the facts put forward by the Appellant, as corroborated by Dr. Akbari. In particular, I have no doubt that the Trust Declaration signed on the date of closing, accurately reflects and confirms the intention of the parties prior to the signing of the Agreement of Purchase and Sale.
+[18] The issue is what consequences flow from that document.
+Position of the Appellant [19] The Appellant takes the position that Dr. Akbari held the undivided 1% interest in the Property in trust for the Appellant and his spouse as beneficial owners. In other words, although he held legal title to the Property, the Appellant and his spouse were the sole beneficial owners and Dr. Akbari was a bare trustee.
+[20] He argues that this is plain and obvious from a reading of the Trust Declaration.
+[21] The Appellant argues that he alone was the “particular individual” for purposes of paragraphs 254(2)(a) and (b) of the ETA and that Dr. Akbari cannot be said to be a “particular individual” since he was a mere nominee. If Dr. Akbari was not a “particular individual” for purposes of paragraphs 254(2)(a) and (b) of the ETA, it follows that he was not required to occupy the premises pursuant to paragraph 254(2)(g) of the ETA. That condition was satisfied when the Appellant and his spouse occupied the Property as their primary place of residence after closing.
+[22] The Appellant also points out that the terms of the Trust Declaration were later implemented when Dr. Akbari conveyed his 1% interest to his son. He argues moreover that there was no need to provide a copy of the Trust Declaration to the mortgage lender or the builder and that nothing turns on this.
+[23] In essence, the Appellant argues that he has satisfied all the necessary conditions set out in subsection 254(2) of the ETA and that he is entitled to the NHR.
+The Respondent’s Position [24] The Minister’s position is that Dr. Akbari signed the Agreement of Purchase and Sale and as such he is a “particular individual” for purposes of subsection 254(2) of the ETA. Since he admits that he never intended to occupy the Property as his primary place of residence and did not do so following the date of closing, the preconditions have not been met and the Appellant is not entitled to the NHR.
+[25] The Minister also points to subsection 262(3) of the ETA which provides that if a supply is made to two or more individuals, the reference in subsection 254(2) of the ETA to a particular individual must be read as a reference to all of those individuals as a group even though only one of those individuals may apply for the rebate. In other words, it is argued that all the individuals must satisfy the rebate conditions.
+[26] The Minister argues that the Trust Declaration changes nothing. As a signatory to the Agreement of Purchase and Sale, Dr. Akbari was a particular individual and as such was required to occupy the Property pursuant to paragraph 254(2)(g) of the ETA.
+[27] Further and in the alternative, the Minister argues that the arrangement with Dr. Akbari is not a trust and that, in any event, the ETA does not allow the use of a trust.
+I. The Law [28] The statutory framework for the NHR is set out in Part IX, Division VI of the ETA dealing with “Rebates”. Subsection 254(2) provides as follows:
+254(2) New housing rebate — Where
+(a) a builder of a single unit residential complex or a residential condominium unit makes a taxable supply by way of sale of the complex or unit to a particular individual,
+(b) at the time the particular individual becomes liable or assumes liability under an agreement of purchase and sale of the complex or unit entered into between the builder and the particular individual, the particular individual is acquiring the complex or unit for use as the primary place of residence of the particular individual or a relation of the particular individual,
+(c) the total (in this subsection referred to as the “total consideration”) of all amounts, each of which is the consideration payable for the supply to the particular individual of the complex or unit or for any other taxable supply to the particular individual of an interest in the complex or unit, is less than $450,000,
+(d) the particular individual has paid all of the tax under Division II payable in respect of the supply of the complex or unit and in respect of any other supply to the individual of an interest in the complex or unit (the total of which tax under subsection 165(1) is referred to in this subsection as the “total tax paid by the particular individual”),
+(e) ownership of the complex or unit is transferred to the particular individual after the construction or substantial renovation thereof is substantially completed,
+(f) after the construction or substantial renovation is substantially completed and before possession of the complex or unit is given to the particular individual under the agreement of purchase and sale of the complex or unit
+(i) in the case of a single unit residential complex, the complex was not occupied by any individual as a place of residence or lodging, and
+(ii) in the case of a residential condominium unit, the unit was not occupied by an individual as a place of residence or lodging unless, throughout the time the complex or unit was so occupied, it was occupied as a place of residence by an individual, or a relation of an individual, who was at the time of that occupancy a purchaser of the unit under an agreement of purchase and sale of the unit, and
+(g) either
+(i) the first individual to occupy the complex or unit as a place of residence at any time after substantial completion of the construction or renovation is
+(A) in the case of a single unit residential complex, the particular individual or a relation of the particular individual, and
+(B) in the case of a residential condominium unit, an individual, or a relation of an individual, who was at that time a purchaser of the unit under an agreement of purchase and sale of the unit, or
+(ii) the particular individual makes an exempt supply by way of sale of the complex or unit and ownership thereof is transferred to the recipient of the supply before the complex or unit is occupied by any individual as a place of residence or lodging,
+the Minister shall, subject to subsection (3), pay a rebate to the particular individual equal to
+(h) where the total consideration is not more than $350,000, an amount equal to the lesser of $6,300 and 36% of the total tax paid by the particular individual, and
+(i) where the total consideration is more than $350,000 but less than $450,000, the amount determined by the formula
+A × [($450,000 - B)/$100,000]
+Where
+A
+is the lesser of $6,300 and 36% of the total tax paid by the particular individual, and
+B
+is the total consideration.
+[29] Subsection 262(3) of the ETA provides that if a supply is made to two or more individuals, the reference “to a particular individual shall be read as references to all of those individuals as a group but only one of those individuals may apply for the rebate”. The purpose of this provision is to avoid multiple rebate applications where more than one individual is involved in the purchase of a property.[2]
+[30] While the expression “particular individual” is not a defined term, subsection 123(1) of the ETA does contain a definition of “individual” and “person” as follows:
+“individual” means a natural person;
+“person” means an individual, a partnership, a corporation, the estate of a deceased individual, a trust, or a body that is a society, union, club, association, commission or other organization of any kind;
+[31] The ETA does not contain a definition of “bare trust” although, as will be seen below, it does refer to agents or representatives. Subsection 123(1) of the ETA also provides a definition of “personal trust”,[3] but this refers to an inter vivos or testamentary trust.
+[32] I will add parenthetically that although the Income Tax Act [4] (the “ITA”) also does not contain a definition of “bare trust”, subsection 104(1) of the ITA located in Subdivision K, dealing with “Trusts and Beneficiaries”, provides that, for the purposes thereof, “a trust is deemed not to include an arrangement under which the trust can reasonably be considered to act as agent for all the beneficiaries under the trust”. As will be seen below, an agency relationship is another way of describing a bare trust.
+[33] Numerous provisions of the ETA, notably subsection 168(5) which deals with the timing for the payment of GST on the taxable supply of real property by way of sale, refer to a “recipient” but not to a “particular individual”. The former expression is defined in subsection 123(1) as follows:
+“recipient” of a supply of property or a service means:
+(a) where consideration for the supply is payable under an agreement for the supply, the person who is liable under the agreement to pay that consideration,
+(b) where paragraph (a) does not apply and consideration is payable for the supply, the person who is liable to pay that consideration, and
+(c) where no consideration is payable for the supply,
+(i) in the case of a supply of property by way of sale, the person to whom the property is delivered or made available,
+(ii) in the case of a supply of property otherwise than by way of sale, the person to whom possession or use of the property is given or made available, and
+(iii) in the case of a supply of a service, the person to whom the service is rendered,
+and any reference to a person to whom a supply is made shall be read as a reference to the recipient of the supply.
+[34] I now turn to the case law. With few exceptions, the decisions of the Tax Court of Canada have consistently held that the NHR must be denied where a third party co‑signs an agreement of purchase and sale, including situations where they do so to assist with mortgage financing, but do not occupy the premises after closing: Davidson v. The Queen,[5] Goyer v. The Queen,[6] Sharp v. The Queen,[7] Al‑Hossain v. The Queen,[8] Henao v. The Queen,[9] and Malik v. The Queen.[10]
+[35] Only a few decisions have dealt with an application for the NHR where it was argued that a third party was an agent or trustee of the “particular individual” who ultimately occupied the new residence. In Rochefort v. The Queen,[11] a third party was registered on title to assist with the mortgage financing, though he was not a party to the agreement of purchase and sale. Justice Miller found that the third party was really a trustee and provided the following analysis:
+[21] From a policy perspective, the Rocheforts are clearly who the rebate is meant to benefit, as they are the buyers of the property, the ones liable for the GST, and they took possession of the property after substantial completion to reside in it as their primary residence.
+(…)
+[24] I conclude that in these circumstances, Mr. Fontaine agreed to hold title solely for the benefit of the Rocheforts, and, as a trustee of the property, was required to convey title to the Rocheforts on demand, or to any third party at their request. That, I find, was the deal and satisfies me Mrs. Rochefort was a beneficial owner.
+[36] However, in Sharp v. the Queen,[12] Justice Miller found that he was unable to accommodate an appellant whose business colleague had signed the agreement of purchase and sale to assist with financing. He concluded as follows:
+[25] (…) On the facts as I find them, I am unable to conclude there is a trust, agency or financing arrangement that would somehow remove Mr. Da Silva as a “particular individual” for purposes of the rebate. This is unfortunate given the intentions of the Parties. I must, however, dismiss the Appeal.
+[37] The existence of a trust was also discussed in the case of Javaid v. The Queen,[13] where a third party was added to an existing agreement of purchase and sale by way of an amending agreement to assist with the mortgage financing. The third party also signed a Declaration of Trust and Undertaking but in the end, decided not to proceed with the transaction and therefor never acquired title or took possession. Justice Woods (as she then was) refused to accept the Minister’s argument that the third party (a certain Mr. Zia) was a “particular individual” who had to occupy the premises on closing for purposes of the NHR. Her analysis was as follows:
+[22] It is the position of the Crown that Mr. Zia must satisfy the rebate conditions as a “particular individual” under s. 254(2)(a). The Crown submits that Mr. Zia was supplied the property when he signed the agreement of purchase and sale (section 133), and he was a “recipient,” as defined, because he was liable for the consideration under the agreement. It does not matter that Mr. Zia backed out of the deal before closing, it is submitted.
+[23] The problem that I have with this submission is that Mr. Zia was only acting in the capacity as an agent in signing the agreement of purchase and sale. This is clear on the evidence as the agency arrangement was documented in a Declaration of Trust and Undertaking.
+[24] Counsel for Mr. Javaid referred me to an administrative position of the Canada Revenue Agency which states that an agent is not a recipient (GST/HST Memorandum 8.1). The relevant part of the Memorandum is reproduced below.
+69. Even though the agent may appear to be the recipient of the supply as the agent is identified on the invoice as the customer, it is the principal who is ultimately liable to pay the consideration thereby making the principal the recipient of the supply.
+[25] Further, the rebate provisions would not make sense if an agent who signed an agreement of purchase and sale was required to comply with the occupancy requirements of the rebate provision. I would be loath to support the position of the Crown on this point unless the legislation is very clear, which it is not.
+[My Emphasis.]
+[38] Since Mr. Zia had changed his mind prior to closing and had not actually acquired title, Justice Woods was not required to determine whether there had been “a taxable supply by way of sale” to a third party who acts as agent. She concluded as follows:
+[35] It is not necessary that I decide this point because of my finding that Mr. Zia was only acting as an agent. This issue can be left for another day.
+[36] In the result, I would conclude that Mr. Zia is not a “particular individual” for purposes of s. 254(2)(a), and he is not required to comply with the rebate conditions.
+[39] It is clear that the language used in subsection 254(2) of the ETA does not specifically exclude “a trust, agency or financing arrangement” (as described in Sharp, supra, paragraph 25) from the meaning of “particular individual”. There are no words to that effect.
+[40] I should add that GST/HST Memorandum 8.1 published by the Canada Revenue Agency (the “CRA”) contains a reference to “agents or representatives” (as noted above, in Javaid, supra, at paragraph 24) in the context of a registrant’s ability to claim ITC’s incurred by an agent or representative. Although this does not refer to the rebate provisions set out in Division VI of the ETA, it nonetheless supports the notion that agency relationships are recognized by the CRA.
+II. Was there an agency or bare trust relationship? [41] The concept of a bare trust as an agency relationship is well established. The essential components were discussed in Canpar Developments Inc. v. The Queen,[14] at paragraph 8:
+[8] (…) Three criteria must be met in order to establish a valid trust. These are certainty of intention, certainty of subject matter and certainty of objects. It must be clear that the settlor of a trust intended that the property transferred to the trustee be held in trust as a binding obligation. The property that is the subject of the trust and the beneficiaries of the trust must be identifiable, and the interest the beneficiaries in the trust property must be defined.
+[42] In Pecore v Pecore,[15] the Supreme Court of Canada addressed the meaning of beneficial ownership and acknowledged that the distinction between legal and beneficial ownership was one that emerged from equity considerations:
+[4] (…) Equity, however, recognizes a distinction between legal and beneficial ownership. The beneficial owner of property has been described as “[t]he real owner of property even though it is in someone else's name”: Csak v. Aumon (1990), 69 D.L.R. (4th) 567 (Ont. H.C.J.), at p. 570. (…)
+[43] In De Mond v The Queen,[16] Justice Lamarre (as she then was) explored the meaning of a bare trust:
+[22] Counsel also referred to the definitions of “bare trust” given by two authors. Professor Waters defines a bare trust as follows:
+The usually accepted meaning of the term “bare,” “naked” or simple trust is a trust where the trustee or trustees hold property without any further duty to perform except to convey it to the beneficiary or beneficiaries upon demand.44 It is of course true that so long as a trustee holds property on trust he always retains his legal duties, namely, to exercise reasonable care over the property, either by maintaining it or by investing it; he cannot divest himself of these duties. The reference, however, is to duties which the settlor has enumerated. For example, the settlor may have required that the beneficiary be maintained until he reaches the age of majority, when he is entitled to call for capital and income. The trustee is then bare or naked of these active duties decreed by the settlor. If the trustee possesses his legal duties only for the purpose of guarding the property, prior to conveyance to the beneficiary, those duties are said to be passive.
+44. Or as directed by the beneficiaries, i.e., in favour of a third party. Every fiduciary, which includes an agent holding the title to property for principal, is a bare trustee of the property he holds for another.
+- Waters, Law of Trusts in Canada (1984), at p. 27.
+[23] In the same vein, Professor Oosterhoff defines the bare trust concept as follows:
+The bare trust: A trust exists whenever title to property is vested in one person to be held for the benefit of another. The trustee is subjected to a variety of duties, some imposed by equity, such as making the property productive and exercising reasonable care over it; other duties are imposed by the creator of the trust, such as applying the income for the maintenance of minors. When the trustee no longer has active duties to perform (that is, duties imposed by the creator of the trust), except to convey the trust property to the beneficiaries upon demand, the trust is said to be a bare, naked, simple or dry trust. At that point the duties imposed upon the trustee by equity are regarded as passive duties.
+- A.H. Oosterhoff, Text, Commentary and Cases on Trusts (1992), at p. 13.
+[24] Counsel stated that the appellant, as the beneficiary, could call on himself in his capacity as trustee to convey the property to himself at any time, and she therefore concluded that his trust is a bare trust. Further, the Declaration of Trust does not provide that the trustee of the husband's trust has powers or obligations which are beyond what the normal legal duties of a trustee would be. The appellant's only function as a trustee was to hold legal title to the property for himself as a beneficiary. Finally, it is clear from the Declaration of Trust that the appellant is the sole beneficiary of the husband's trust and that he has the power of revocation at any time.
+(…)
+[36] (…) it has also been stated that a bare trustee is a person who holds property in trust at the absolute disposal and for the absolute benefit of the beneficiaries (see Halsbury's Laws of England, 4th ed., volume 48, paragraph 641, and The Queen v. Robinson et al., 98 D.T.C. 6232 (F.C.A.)).
+[My Emphasis.]
+[44] Justice Lamarre then compared bare trustees and agents:
+[37] Bare trustees have also been compared to agents. The existence of a bare trust will be disregarded for income tax purposes where the bare trustee holds property as a mere agent or for the beneficial owner. In Trident Holdings Ltd. v. Danand Investments Ltd., 64 O.R. (2d) 65 (Ont. C.A.), Mr. Justice Morden, speaking for the Ontario Court of Appeal, made the distinction between an ordinary trust and a bare trust. He reproduced the following passages from Scott, The Law of Trusts, 4th ed. (1987):
+An agent acts for, and on behalf of, his principal and subject to his control; a trustee as such is not subject to the control of his beneficiary, although he is under a duty to deal with the trust property for the latter's benefit in accordance with the terms of the trust, and can be compelled by the beneficiary to perform this duty. The agent owes a duty of obedience to his principal; a trustee is under a duty to conform to the terms of the trust [Vol. 1, p. 88].
+A person may be both agent of and trustee for another. If he undertakes to act on behalf of the other and subject to his control he is an agent; but if he is vested with the title to property that he holds for his principal, he is also a trustee. In such a case, however, it is the agency relation that predominates, and the principles of agency, rather than the principles of trust, are applicable [Vol. 1, p. 95].
+[38] Mr. Justice Morden also quoted with approval from an article by M.C. Cullity, "Liability of Beneficiaries — A Rejoinder", (1985‑86), 7 Estates & Trusts Quarterly 35, at p. 36:
+It is quite clear that in many situations trustees will also be agents. This occurs, for example, in the familiar case of investments held by an investment dealer as nominee or in the case of land held by a nominee corporation. In such cases, the trust relationship that arises by virtue of the separation of legal and equitable ownership is often described as a bare trust and for tax and some other purposes it is quite understandably ignored.
+The distinguishing characteristic of the bare trust is that the trustee has no independent powers, discretions or responsibilities. His only responsibility is to carry out the instructions of his principals --- the beneficiaries. If he does not have to accept instructions, if he has any significant independent powers or responsibilities, he is not a bare trustee.
+[My Emphasis.]
+[45] In Avotus Corporation v. The Queen,[17] Justice Paris heard an appeal where an agency agreement had been executed. In finding that an agency relationship existed, he held that:
+[51] However, where a written agency agreement exists and it is not alleged that the agreement is a sham; one does not need to examine the conduct of the parties in order to confirm the existence of their agreement. It is only in the absence of a written agreement that the conduct of the parties must be examined for the purpose of determining whether an agency agreement may be implied.
+[46] In this instance, the Trust Declaration was prepared contemporaneously with the closing of the transaction and has been submitted as evidence. There is no allegation of a sham. As such, it is not necessary for this Court to make any further enquiries into the conduct of the parties or the existence of the bare trust.[18]
+III. Analysis and conclusion [47] As indicated by the Federal Court of Appeal in Sneyd v. The Queen,[19] the ETA is a general taxing statute the purpose of which is to raise government revenues and the rebate provisions are limited exceptions to that general purpose. On that basis, I am of the view that subsection 254(2) of the ETA should be narrowly construed notwithstanding that its purpose is to provide a benefit to taxpayers by ensuring “that the GST does not pose a barrier to affordable housing by effectively lowering the tax rate on most newly constructed homes (…)”.[20]
+[48] Indeed, as the case law noted above has abundantly demonstrated, there will be obvious cases where the NHR must be denied, particularly where the Court is unable to conclude with any amount of certainty whether the parties intended to distinguish between legal and beneficial ownership. In such cases, “a supportive third party funder” (Rochefort, supra, at paragraph 26), may be just that — and not an agent or trustee. It is certainly not the role of the Court to re‑characterize legal relationships on a ex post facto basis.[21]
+[49] At the same time, as stated by Chief Justice Bowman (as he then was), “in interpreting any legislation, including the GST provisions of the ETA (…) it is important to follow an approach that, where possible, achieves a sensible, practical and common sense result (…) and one that is consonant with the scheme of the Act (…)”: United Parcel Service Canada Ltd. v. R.[22]
+[50] On the facts of this case, there is no doubt that Dr. Akbari assumed a certain risk by signing the Agreement of Purchase and Sale and the mortgage. But he was clearly a man of means and he agreed to assume those risks. From a legal point of view, the question is what was his relationship with the Appellant?
+[51] On this issue, I find that the Appellant’s testimony was clear, unambiguous and unequivocal. His intention was to purchase a new residence that he and his family would then occupy as their primary place of residence and he sought the assistance of Dr. Akbari to achieve that objective.
+[52] While it is unlikely that the parties were fully cognizant of the distinction between legal and beneficial ownership, it is clear to me that they had a general understanding of what they wanted to achieve and that they relied on their legal advisors to give legal meaning to that intention.
+[53] While it is clear, as noted above, that Dr. Akbari assumed legal obligations vis‑à‑vis third parties including the builder and the mortgage lender, I find that his intention was only to assist the Appellant with the purchase. He had no interest per se in the Property itself. He acted as an agent or trustee. While the failure to disclose a trust relationship might raise an evidentiary problem in some instances, I find that it is not necessarily inconsistent with an intention to create a trust.
+[54] The notion of a bare trust as an agency relationship is not an obscure or arcane concept of law. On the contrary, it is well known and well established, at least in the common law jurisdictions. In this instance, it was also clearly documented. For tax purposes, a bare trust is considered a non-entity in the sense that a beneficiary as principal, is considered to deal directly with property through the trustee as agent or nominee: Leowiski (A.D.) v. Canada[23], La Guercia Investments Ltd. v. Canada[24] and S.E.R. Contracting Ltd. v. R.[25].
+[55] Since I have concluded that Dr. Akbari was a bare trustee and that only the Appellant was a “particular individual” for the purposes of subsection 254(2) of the ETA, it necessarily follows that the Appellant was also the person “who was liable under the agreement to pay the consideration” for the purpose of the definition of a “recipient”. The fact that the builder may have had a legal recourse against Dr. Akbari for the consideration changes nothing to the notion that it is the Appellant, as legal and beneficial owner, who was ultimately liable for the consideration under the terms of the Trust Declaration.
+[56] As noted above (Pecore, supra), the distinction between legal and beneficial ownership is one that arises out of equity. While the Minister has argued that the subject provision does not allow the use of bare trusts, I am of the view that there are good reasons to conclude that the statutory language also does not exclude it.
+[57] In the end, for the purposes of all the conditions set out in subsection 254(2) of the ETA, Dr. Akbari was merely a conduit or agent of the Appellant and his spouse. The Appellant is therefore entitled to the NHR.
+[58] For all the foregoing reasons, the appeal is allowed.
+Signed at Ottawa, Canada, this 4th day of November 2016.
+“Guy Smith”
+Smith J.
+____________________________
+1 R.S.C., 1985, c. E-15.
+2 CANADA, Department of Finance, Technical Notes Relating to the Excise Tax Act, May 1990, s. 262.
+3 Vallée v. The Queen, 2004 TCC 320 — A family trust under Quebec Law is not a particular individual.
+4 R.S.C., 1985, c. 1 (5th Supp.).
+5 [2002] G.S.T.C. 25.
+6 2010 TCC 511.
+7 2014 TCC 323.
+8 2014 TCC 379.
+9 2015 TCC 81.
+10 2015 TCC 83.
+11 2014 TCC 34.
+12 2014 TCC 323.
+13 2015 TCC 94.
+14 2011 TCC 353.
+15 2007 SCC 17.
+16 [1999] 4 C.T.C. 2007.
+17 2006 TCC 505.
+18 It is not necessary to address the concerns that might arise (in dealing with oral or undocumented arrangements) as a result of the Ontario Statute of Frauds, section 9 of which provides that “all declarations or creations of trusts or confidences of any lands” shall be in writing “or else they are void and of no effect”.
+19 [2000] G.S.T.C. 46, par. 13.
+20 CANADA, Department of Finance, Technical Notes Relating to the Excise Tax Act, May 1990, s. 254-256.
+21 Henao, supra, at paragraph 35. See also Erb v. The Queen, 2000 D.T.C. 1402, at paragraph 26, and The Queen v. Friedberg, 92 D.T.C. 6031 at page 6032.
+22 2006 TCC 450.
+23 [1996] G.S.T.C. 55.
+24 [1996] G.S.T.C. 87.
+25 [2006] G.S.T.C. 2.
+CITATION:
+2016 TCC 251
+COURT FILE NO.:
+2015-5407(GST)I
+STYLE OF CAUSE:
+MOHAMMAD N. CHEEMA v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+May 2, 2016
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Guy R. Smith
+DATE OF JUDGMENT:
+November 4, 2016
+APPEARANCES:
+Counsel for the Appellant:
+John L. Ennis
+Counsel for the Respondent:
+Amit Ummat
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+John L. Ennis
+Firm:
+Nanda & Associates
+Mississauga, Ontario
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

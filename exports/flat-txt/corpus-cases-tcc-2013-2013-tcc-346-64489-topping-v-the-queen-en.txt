@@ -1,0 +1,106 @@
+Title: Topping v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/64489/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-346-64489-topping-v-the-queen-en.md
+Document type: case_law
+Last modified: 2013-10-30
+
+# Topping v. The Queen
+
+- Citation: 2013 TCC 346
+- Decision date: 2013-10-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5938, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Topping v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-10-30
+Neutral citation
+2013 TCC 346
+File numbers
+2012-4583(IT)APP
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-4583(IT)APP
+BETWEEN:
+ROBERT TOPPING,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application heard on October 11, 2013 at Windsor, Ontario
+By: The Honourable Justice Judith M. Woods
+Appearances:
+For the Applicant:
+The Applicant himself
+Counsel for the Respondent:
+Shane Aikat
+____________________________________________________________________
+ORDER
+Upon application for an Order extending the time to serve a notice of objection to assessments made under the Income Tax Act for taxation years from 2007 to 2010, inclusive, the application is dismissed.
+Signed at Toronto, Ontario this 30th day of October 2013.
+“J. M. Woods”
+Woods J.
+Citation: 2013 TCC 346
+Date: 20131030
+Docket: 2012-4583(IT)APP
+BETWEEN:
+ROBERT TOPPING,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Woods J.
+[1] Robert Topping has brought an application to extend the time for serving a notice of objection to assessments made under the Income Tax Act for taxation years from 2007 to 2010, inclusive.
+[2] The Crown submits that the application should be dismissed because Mr. Topping did not satisfy the legislative requirement set out in s. 166.2(5)(a) of the Act. This provision requires that, as a condition for this Court to grant an extension of time, the taxpayer must have previously applied to the Minister of National Revenue for an extension within the time prescribed.
+[3] The relevant provisions are reproduced below.
+166.2 (5) When application to be granted - No application shall be granted under this section unless
+(a) the application was made under subsection 166.1(1) within one year after the expiration of the time otherwise limited by this Act for serving a notice of objection or making a request, as the case may be; and
+[…]
+166.1 (1) Extension of time [to object] by Minister - Where no notice of objection to an assessment has been served under section 165, nor any request under subsection 245(6) made, within the time limited by those provisions for doing so, the taxpayer may apply to the Minister to extend the time for serving the notice of objection or making the request.
+[…]
+(7) When order to be made - No application shall be granted under this section unless
+(a) the application is made within one year after the expiration of the time otherwise limited by this Act for serving a notice of objection or making a request, as the case may be; and
+[…]
+[4] With respect to the 2010 taxation year, Mr. Topping acknowledges that he did not apply to the Minister with respect to this assessment, which was issued on October 29, 2012. Accordingly, the application for this year should be dismissed. Mr. Topping was advised at the hearing that it was not too late to file an application with the Minister for the 2010 taxation year, and that the deadline for doing so was fast approaching.
+[5] With respect to taxation years from 2007 to 2009, the only correspondence that was received by the Minister within the deadline was a letter dated October 17, 2010 (the “October letter”).
+[6] The October letter was addressed simply to “Revenue Canada” without an address. The purpose of this letter is not entirely clear on its face. It stated that the assessments are being appealed, that Mr. Topping is working with his accountant and that they will keep them informed. Mr. Topping testified that the letter was sent to an official in the audit division with whom he had been dealing.
+[7] The question in this case is whether the October letter should be considered as an application to extend time to serve a notice of objection.
+[8] It is appropriate to consider this issue generously in favour of the taxpayer, but I have concluded that the October letter is so deficient that it cannot reasonably be considered as an application to the Minister for an extension of time for purposes of s. 166.1 of the Act.
+[9] First, an application to extend time is to be sent to the Chief of Appeals, who is in the Appeals Division. The October letter was sent to the audit division which is a different division of the Canada Revenue Agency (CRA). Further, the October letter does not clearly indicate that it is intended as an application to extend time, or even as a notice of objection. In such circumstances, the October letter cannot reasonably be interpreted as complying with s. 166.1 of the Act: Pereira v The Queen, 2008 FCA 264.
+[10] Mr. Topping submits that neither his accountant nor the CRA provided him with sufficient guidance as to how to make an objection. Unfortunately for Mr. Topping, the legislative requirements regarding applications to extend time are strict and this Court is not able to ignore them, even on grounds that the CRA is to blame.
+[11] The application will be dismissed.
+Signed at Toronto, Ontario this 30th day of October 2013.
+“J. M. Woods”
+Woods J.
+CITATION: 2013 TCC 346
+COURT FILE NO.: 2012-4583(IT)APP
+STYLE OF CAUSE: ROBERT TOPPING and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Windsor, Ontario
+DATE OF HEARING: October 11, 2013
+REASONS FOR ORDER BY: The Honourable Justice J.M. Woods
+DATE OF ORDER: October 30, 2013
+APPEARANCES:
+For the Applicant:
+The Applicant himself
+Counsel for the Respondent:
+Shane Aikat
+COUNSEL OF RECORD:
+For the Applicant:
+Name: n/a
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Ontario

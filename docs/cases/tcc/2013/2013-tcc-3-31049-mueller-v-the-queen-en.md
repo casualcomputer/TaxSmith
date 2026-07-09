@@ -1,0 +1,173 @@
+---
+title: "Mueller v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31049/index.do"
+last_modified: "2013-01-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 TCC 3"
+citation2: ""
+neutral_citation: "2013 TCC 3"
+decision_date: "2013-01-08"
+language: "en"
+item_id: "31049"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4872
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:23:06.618000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f1131691e0cb9e8d3334dcd9c4bbdf0436b05af09a7032326bc26986fbc38e39"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mueller v. The Queen
+
+- Citation: 2013 TCC 3
+- Decision date: 2013-01-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4872, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mueller v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-01-08
+Neutral citation
+2013 TCC 3
+File numbers
+2012-1403(IT)I, 2012-1404(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-1403(IT)I
+BETWEEN:
+KELLY MUELLER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Brittany Mueller (2012-1404(IT)I) on December 5, 2012 at Toronto, Ontario
+By: The Honourable Justice J.M. Woods
+Appearances:
+Agent for the Appellant:
+Kathryn Mueller
+Counsel for the Respondent:
+Nicole Walton (student-at-law)
+Rishma Bhimji
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to an assessment made under the Income Tax Act for the 2010 taxation year is dismissed.
+Signed at Ottawa, Ontario this 8th day of January 2013.
+“J. M. Woods”
+Woods J.
+Docket: 2012-1404(IT)I
+BETWEEN:
+BRITTANY MUELLER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Kelly Mueller (2012-1403(IT)I) on December 5, 2012 at Toronto, Ontario
+By: The Honourable Justice J.M. Woods
+Appearances:
+Agent for the Appellant:
+Kathryn Mueller
+Counsel for the Respondent:
+Nicole Walton (student-at-law)
+Rishma Bhimji
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to an assessment made under the Income Tax Act for the 2010 taxation year is dismissed.
+Signed at Ottawa, Ontario this 8th day of January 2013.
+“J. M. Woods”
+Woods J.
+Citation: 2013 TCC 3
+Date: 20130108
+Docket: 2012-1403(IT)I
+BETWEEN:
+KELLY MUELLER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2012-1404(IT)I
+AND BETWEEN:
+BRITTANY MUELLER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] The appellants, Kelly and Brittany Mueller, borrowed money under a special student line of credit offered by the Bank of Montreal. The issue is whether interest paid on these loans is eligible for the student loan tax credit provided under section 118.62 of the Income Tax Act.
+[2] The appeals relate to reassessments for the 2010 taxation year. The amount of interest at issue is $2,885 for Kelly Mueller and $2,001 for Brittany Mueller.
+[3] Section 118.62 is reproduced below.
+118.62. Credit for interest on student loan - For the purpose of computing an individual's tax payable under this Part for a taxation year, there may be deducted the amount determined by the formula
+A x B
+where
+A is the appropriate percentage for the year; and
+B is the total of all amounts (other than any amount paid on account of or in satisfaction of a judgement) each of which is an amount of interest paid in the year (or in any of the five preceding taxation years that are after 1997, to the extent that it was not included in computing a deduction under this section for any other taxation year) by the individual or a person related to the individual on a loan made to, or other amount owing by, the individual under the Canada Student Loans Act, the Canada Student Financial Assistance Act or a law of a province governing the granting of financial assistance to students at the post-secondary school level.
+[4] The appellants, who are sisters, were represented at the hearing by their mother, Kathryn Mueller.
+Background facts
+[5] For purposes of financing their college education, the appellants each took out a line of credit with The Bank of Montreal under a program designed especially for students. The appellants were previously denied student loans offered under the federal government’s student loan program because their parents’ income was too high.
+[6] The program offered by The Bank of Montreal was called the Student Line of Credit. Under the promotional material for the program, the Bank represented that the interest rate was lower than for student loans, and that no principal repayments were required until one year after graduation. The maximum amount that could be borrowed was $45,000.
+[7] Kathryn Mueller testified that she was informed by someone at the Bank that the loans were tax deductible. This is not referenced in the Bank’s promotional material that was entered into evidence and no one from the Bank was called to testify.
+Analysis
+[8] The tax relief for interest on student loans in section 118.62 of the Act is designed to apply to loans that are provided under legislation aimed at providing financial assistance to students at the post-secondary level.
+[9] The difficulty in this case is the requirement that the loans be provided under one of the following: “the Canada Student Loans Act, the Canada Student Financial Assistance Act or a law of a province governing the granting of financial assistance to students.”
+[10] In the notices of appeal, the appellants acknowledge that the loans were not eligible under any government program. This is fatal to their claim.
+[11] The appellants suggest that that the loans must be sanctioned under some legislation because the Bank is a federally-regulated institution. This argument does not assist the appellants. The only federal statutes that qualify for purposes of the tax credit are the Canada Student Loans Act and the Canada Student Financial Assistance Act. Neither of these statutes applies to the loans at issue.
+[12] Since the loans do not satisfy the conditions set out in section 118.62 of the Act, there is no relief that this Court can give.
+[13] Finally, I would comment that in reaching this conclusion I was troubled that the Crown’s Replies did not satisfactorily address all of the requirements of section 118.62 because they made no mention of provincial legislation. If the loans were provided under a law of a province, they might have qualified for the credit. Although the Replies should have been more complete, I am satisfied that the appellants were not prejudiced by this omission since they acknowledged in the notices of appeal that the loans were not under any government program.
+[14] The appeals will be dismissed.
+Signed at Ottawa, Ontario this 8th day of January 2013.
+“J. M. Woods”
+Woods J.
+CITATION: 2013 TCC 3
+COURT FILE NOS.: 2012-1403(IT)I and
+2012-1404(IT)I
+STYLE OF CAUSE: KELLY MUELLER v.
+HER MAJESTY THE QUEEN and
+BRITTANY MUELLER v.
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: December 5, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice J.M. Woods
+DATE OF JUDGMENTS: January 8, 2013
+APPEARANCES:
+Agent for the Appellants:
+Kathryn Mueller
+Counsel for the Respondent:
+Nicole Walton (student-at-law)
+Rishma Bhimji
+COUNSEL OF RECORD:
+For the Appellant:
+Name: n/a
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,362 @@
+Title: Metrobec Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/312134/index.do
+Corpus path: corpus/cases/tcc/2018/2018-cci-115-312134-metrobec-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2018-06-22
+
+# Metrobec Inc. c. La Reine
+
+- Citation: 2018 CCI 115
+- Decision date: 2018-06-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5053, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Metrobec Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-06-22
+Référence neutre
+2018 CCI 115
+Numéro de dossier
+2017-2735(GST)G
+Juges et Officiers taxateurs
+Johanne D’Auray
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2017-2735(GST)G
+ENTRE :
+SA MAJESTÉ LA REINE,
+Requérante/Intimée,
+et
+METROBEC INC.,
+Intimée/Appelante,
+ET ENTRE :
+METROBEC INC.,
+Requérante/Appelante,
+et
+SA MAJESTÉ LA REINE,
+Intimée.
+Requêtes entendues le 12 mars 2018 à Montréal (Québec).
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Avocats de l’appelante :
+Me Michel Beauchamp
+Me Kim Belair
+Avocat de l’intimée :
+Me Antoine Lamarre
+ORDONNANCE
+VU la requête de la requérante/intimée déposée le 8 décembre 2017 afin d’obtenir :
+Une ordonnance en vertu de l’article 53 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles ») radiant les paragraphes 7, 32, 34, 35, 48, 49, 50, 51, 52, 53, 54, 60, 68, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 82, 83, 84, 85, 86, 87, 88, 89, 93, 94, 96, 99, 100, 101, 103, 105, 106, 107, 108, et 109 de l’avis d’appel;
+Une ordonnance en vertu de l’article 12 des Règles, autorisant l’intimée à déposer la réponse à l’avis d’appel au greffe dans les 30 jours suivant la délivrance de l’ordonnance demandée en vertu du paragraphe 1 ou, à titre subsidiaire, d’une ordonnance rejetant cette requête;
+ET VU la déclaration sous serment de Nicolas Cornelius Ammerlaan;
+ET VU la requête de la requérante/appelante déposée le 12 janvier 2018 et de la requête modifiée déposée le 15 janvier 2018 ainsi que de la requête remodifiée déposée le 21 février 2018 afin d’obtenir :
+Une ordonnance à l’encontre de l’intimée la déclarant forclose de produire une réponse étant donné son défaut de déposer sa réponse dans le délai prévu à l’article 44(1) des Règles;
+Une ordonnance indiquant que les allégations de fait énoncées dans l’avis d’appel sont réputées vraies aux fins de l’appel conformément à l’article 44(2) des Règles;
+Une condamnation à l’encontre de l’intimée aux frais et aux dépens;
+Subsidiairement, une ordonnance à l’encontre de l’intimée l’enjoignant à transmettre à l’appelante, en même temps que sa réponse, une copie du rapport de vérification de Metrobec inc. non caviardée ainsi qu’une copie de tous les rapports de vérification des fournisseurs qui seraient allégués dans sa réponse et plus généralement, une copie de tous les documents allégués.
+ET VU la déclaration assermentée de Caroline Desrosiers;
+ET après avoir entendu les représentations des parties;
+La requête de la requérante/intimée est accueillie conformément aux motifs de l’ordonnance ci-joints.
+Les demandes énoncées aux paragraphes 1, 2 et 3 de l’avis de requête remodifiée de la requérante/appelante sont rejetées.
+La requérante/appelante doit déposer un avis d’appel modifié conforme aux motifs de l’ordonnance ci-joints, dans les trente jours suivant la date de cette ordonnance.
+La requérante/intimée doit déposer une réponse à l’avis d’appel modifié dans les trente jours suivant la signification de l’avis d’appel modifié par la requérante/appelante.
+Une téléconférence sera organisée par la Cour après le dépôt de l’avis d’appel modifié et de la réponse à l’avis d’appel modifié pour traiter de la demande de la requérante/appelante énoncée au paragraphe 4 de la requête remodifiée.
+Les frais suivront l’issue de l’appel.
+Signé à Ottawa, Canada, ce 22e jour de juin 2018.
+« Johanne D’Auray »
+Juge D’Auray
+Référence : 2018 CCI 115
+Date : 20180622
+Dossier : 2017-2735(GST)G
+ENTRE :
+SA MAJESTÉ LA REINE,
+Requérante/Intimée,
+et
+METROBEC INC.,
+Intimée/Appelante,
+ET ENTRE :
+METROBEC INC.,
+Requérante/Appelante,
+et
+SA MAJESTÉ LA REINE,
+Intimée.
+MOTIFS DE L’ORDONNANCE
+La juge D’Auray
+I. CONTEXTE
+[1] Chacune des parties a déposé une requête auprès de cette Cour.
+[2] Les motifs de l’ordonnance traitent des deux requêtes. Ainsi pour ne pas confondre les parties et pour faciliter la lecture de ces motifs, je réfèrerai à Metrobec Inc. à titre d’appelante et Sa Majesté la Reine à titre d’intimée.
+[3] Dans un premier temps, l’intimée a déposé une requête en radiation de certains paragraphes de l’avis d’appel de l’appelante, en vertu de l’article 53 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles »). Dans sa requête, l’intimée demande également une prolongation du délai imparti pour produire une réponse à l’avis d’appel en vertu de l’article 12 des Règles.
+[4] Dans un deuxième temps, l’appelante a déposé une requête demandant à la Cour de déclarer forclose la production de la réponse à l’avis d’appel, car selon l’appelante, l’intimée n’a pas respecté les délais pour déposer une requête. Par conséquent, l’appelante demande vertu de l’article 44 des Règles de déclarer que tous les faits énoncés à l’avis d’appel soient réputés vrais, et d’adjuger en faveur de l’appelante des frais et dépens en vertu de l’article 147 des Règles.
+[5] Subsidiairement l’appelante demande, si je permettais à l’intimée de déposer sa requête en radiation et de déposer une réponse à l’avis d’appel, de forcer l’intimée à lui fournir une copie de ses rapports de vérification non caviardée et les rapports de vérification des fournisseurs qui seront allégués dans la réponse à l’avis d’appel de l’intimée ainsi qu’une copie de tous les documents allégués dans la réponse à l’avis d’appel.
+[6] Lors de l’audience, j’ai commencé avec la requête de l’intimée. La requête de l’intimée règle en grande partie la requête déposée par l’appelante. Cependant, lors de l’audience je n’ai pas traité de la demande subsidiaire de l’appelante. Les parties se sont entendues pour attendre mon ordonnance avant de continuer avec la demande subsidiaire de l’appelante.
+[7] Je vais donc traiter de la requête en prolongation de délai et en forclusion. Subséquemment, je traiterai de la requête en radiation de paragraphes de l’avis d’appel.
+II. FAITS
+[8] Le 22 juin 2017, l’appelante a déposé un avis d’appel auprès de cette Cour.
+[9] Le 13 juillet 2017, l’avis d’appel a été signifié à l’intimée.
+[10] Le 8 septembre 2017, l’intimée a sollicité le consentement de l’appelante pour prolonger le délai pour déposer la réponse à l’avis d’appel au 1er décembre 2017.
+[11] Le 11 septembre 2017, l’appelante a consenti à la demande de prolongation.
+[12] Le 29 novembre 2017, l’intimée a demandé de nouveau à l’appelante une prolongation de délai pour déposer la réponse à l’avis d’appel, soit jusqu’au 8 décembre 2017.
+[13] Le 30 novembre 2017, l’appelante a de nouveau consenti à la demande.
+[14] Le 8 décembre 2017, l’intimée a déposé auprès de cette Cour, une requête en radiation de certains paragraphes de l’avis d’appel et en prolongation du délai pour déposer une réponse à l’avis d’appel.
+[15] Le 21 février 2018, l’appelante a déposé auprès de cette Cour, une requête remodifiée en forclusion du dépôt de la réponse à l’avis d’appel. L’appelante demande aussi que les frais et dépens soient adjugés à l’encontre de l’intimée.
+[16] La question en litige qui devra être déterminée par le juge qui présidera l’audience est de savoir si dans le cadre de fausses factures, l’appelante peut dans le calcul de sa taxe nette réclamer des crédits de taxe sur les intrants. De plus, le juge présidant l’audience devra déterminer si la ministre pouvait établir une cotisation hors délai et si la ministre a correctement imposé des pénalités en vertu de l’article 285 de la Loi sur la taxe d’accise (la « LTA »).
+A. REQUÊTE EN PROLONGATION ET REQUÊTE EN FORCLUSION
+(1) Dispositions applicables
+[17] Les dispositions pertinentes des Règles sont les suivantes :
+9. La Cour peut, en tout temps, dispenser de l’observation de toute règle si l’intérêt de la justice l’exige.
+12 (1) La Cour peut, par directive, prolonger ou abréger le délai imparti par les présentes règles ou par une directive, à des conditions appropriées.
+(2) La requête qui vise à obtenir la prolongation d’un délai peut être présentée avant ou après l’expiration du délai.
+(3) Le délai imparti par les présentes règles pour la signification, le dépôt ou la remise d’un document peut être prolongé ou abrégé par consentement donné par écrit.
+44 (1) La réponse à l’avis d’appel doit être déposée au greffe dans les 60 jours suivant la signification de l’avis d’appel, à moins que :
+a) l’appelant ne consente, avant ou après l’expiration de ce délai, au dépôt de la réponse dans un délai déterminé suivant l’expiration de celui‑ci;
+b) la Cour ne permette, sur demande présentée avant ou après l’expiration de ce délai, le dépôt de la réponse dans un délai déterminé suivant l’expiration de celui-ci.
+(2) Si la réponse n’est pas déposée dans le délai applicable prévu au paragraphe (1), les allégations de fait énoncées dans l’avis d’appel sont réputées vraies aux fins de l’appel.
+(3) La réponse doit être signifiée :
+a) soit dans les cinq jours suivant l’expiration du délai de 60 jours prescrit au paragraphe (1);
+b) soit dans le délai imparti aux termes d’un consentement accordé par l’appelant en vertu du paragraphe (1);
+c) soit dans le délai imparti aux termes d’une prolongation de délai accordée par la Cour en vertu du paragraphe (1).
+(4) Le paragraphe 12(3) ne s’applique pas au présent article et la présomption établie au paragraphe (2) est une présomption réfutable.
+147 (1) La Cour peut fixer les frais et dépens, les répartir et désigner les personnes qui doivent les supporter.
+(2) Des dépens peuvent être adjugés à la Couronne ou contre elle.
+(3) En exerçant sa discrétion conformément au paragraphe (1), la Cour peut tenir compte :
+a) du résultat de l’instance;
+b) des sommes en cause;
+c) de l’importance des questions en litige;
+d) de toute offre de règlement présentée par écrit;
+e) de la charge de travail;
+f) de la complexité des questions en litige;
+g) de la conduite d’une partie qui aurait abrégé ou prolongé inutilement la durée de l’instance;
+h) de la dénégation d’un fait par une partie ou de sa négligence ou de son refus de l’admettre, lorsque ce fait aurait dû être admis;
+i) de la question de savoir si une étape de l’instance,
+(i) était inappropriée, vexatoire ou inutile,
+(ii) a été accomplie de manière négligente, par erreur ou avec trop de circonspection;
+i.1) de la question de savoir si les dépenses engagées pour la déposition d’un témoin expert étaient justifiées compte tenu de l’un ou l’autre des facteurs suivants :
+(i) la nature du litige, son importance pour le public et la nécessité de clarifier le droit,
+(ii) le nombre, la complexité ou la nature des questions en litige,
+(iii) la somme en litige;
+j) de toute autre question pouvant influer sur la détermination des dépens.
+[…]
+(4) La Cour peut fixer la totalité ou partie des dépens en tenant compte ou non du tarif B de l’annexe II et peut adjuger une somme globale au lieu ou en sus des dépens taxés.
+(5) Nonobstant toute autre disposition des présentes règles, la Cour peut, à sa discrétion :
+a) adjuger ou refuser d’adjuger les dépens à l’égard d’une question ou d’une partie de l’instance particulière;
+b) adjuger l’ensemble ou un pourcentage des dépens taxés jusqu’à et y compris une certaine étape de l’instance;
+c) adjuger la totalité ou partie des dépens sur une base procureur-client.
+[…]
+III. POSITION DES PARTIES
+[18] L’appelante allègue que son avis d’appel ne comporte rien qui ait pu porter préjudice à l’intimée ou de nature à l’empêcher de produire une réponse à l’avis d’appel dans le délai de 60 jours, et ce, même sans faire entendre la requête en radiation préalablement. L’appelante soutient que l’intimée n’a aucune raison valable justifiant le dépôt de la réponse à l’avis d’appel en dehors du délai prescrit.
+[19] L’appelante soutient qu’elle n’a jamais consenti à une prolongation de délai pour la production d’une requête en radiation d’allégations. L’appelante soutient avoir consenti à deux reprises à ce que l’intimée dépose sa réponse à l’avis d’appel, soit la première fois jusqu’au 1er décembre 2017 et la deuxième fois jusqu’au 8 décembre 2017. Si l’appelante avait su que le 8 décembre 2017, l’intimée aurait déposé une requête en radiation de certains paragraphes de son avis d’appel, elle soutient qu’elle aurait décliné les demandes de prolongation de délai de l’intimée pour produire une réponse à l’avis d’appel. L’appelante soutient qu’elle n’a pas consenti à ce qu’une requête en radiation soit déposée hors délai. Elle fait donc valoir que la requête de l’intimée est irrecevable, car déposée hors délai.
+[20] Par conséquent, l’appelante demande que l’intimée soit déclarée forclose de produire une réponse à l’avis d’appel pour avoir omis de déposer sa réponse le 8 décembre 2017 et que les allégations de faits énoncées dans l’avis d’appel soient réputées vraies.
+[21] Au surplus, l’appelante demande à la Cour de condamner l’intimée à payer les frais et dépens, car cette dernière aurait agi tardivement, prolongeant inutilement la durée de l’instance sans le consentement de l’appelante ou de la Cour, et aurait abusé de la bonne foi des avocats de l’appelante au moyen de prétextes trompeurs.
+[22] L’intimée soutient qu’il est juste et équitable et qu’il est dans l’intérêt de la justice de lui accorder une prolongation de délai pour déposer une réponse à l’avis d’appel. L’avocat de l’intimée soutient qu’il n’a pas fait preuve de mauvaise foi. Dès qu’il s’est mis à la préparation de la réponse à l’avis d’appel, il a constaté des allégations superflues ou non pertinentes à l’avis d’appel et que le nombre de ces allégations, superflues ou non pertinentes, était trop élevé pour qu’il en fasse fi.
+IV. ANALYSE JURIDIQUE
+[23] Pour déterminer si la Cour doit accorder une demande en prolongation de délai au sens de l’article 12 des Règles, plusieurs jugements de notre Cour [1] se fondent sur les critères suivants énoncés par la Cour d’appel fédérale dans la décision Hennelly [2] :
+Le critère approprié est de savoir si le demandeur a démontré :
+1. une intention constante de poursuivre sa demande;
+2. que la demande est bien fondée;
+3. que le défendeur ne subit pas de préjudice en raison du délai; et
+4. qu’il existe une explication raisonnable justifiant le délai.
+[24] Dans l’arrêt Larkman, le juge Stratas explique ces facteurs comme suit [3] :
+Ces principes orientent la Cour et l’aident à déterminer si l’octroi d’une prorogation de délai est dans l’intérêt de la justice (Grewal, ci-dessus, aux pages 277 et 278). L’importance de chacun de ces facteurs dépend des circonstances de l’espèce. De plus, il n’est pas nécessaire de répondre aux quatre questions en faveur du requérant. Ainsi, "une explication parfaitement convaincante justifiant le retard peut entraîner une réponse positive même si les arguments appuyant la contestation du jugement paraissent faibles et, de la même façon, une très bonne cause peut contrebalancer une justification du retard moins convaincante" (Grewal, à la page 282). Dans certains cas, surtout dans ceux qui sortent de l’ordinaire, d’autres questions peuvent s’avérer pertinentes. La considération primordiale est celle de savoir si l’octroi d’une prorogation de délai serait dans l’intérêt de la justice (voir, de façon générale, l’arrêt Grewal, aux pages 278 et 279; Canada (Ministre du Développement des ressources humaines) c. Hogervorst, 2007 CAF 41, au paragraphe 33; Huard c. Canada (Procureur général), 2007 CF 195, 89 Admin LR (4th) 1).
+[Je souligne.]
+[25] Si j’applique les critères de la décision Hennelly et les principes énoncés dans la décision Larkman aux faits en l’espèce [4] , je constate premièrement, que les faits dénotent une intention claire de l’intimée de poursuivre l’appel et de déposer une réponse à l’avis d’appel. Les demandes répétées de l’intimée à l’appelante visant à obtenir son consentement pour prolonger le délai le prouvent indubitablement.
+[26] Deuxièmement, il ressort de l’avis d’appel que la ministre a refusé certains crédits de taxe sur les intrants car les numéros de TPS des inscrits affichés sur certaines factures étaient invalides ou bien annulés. Ainsi, la cotisation de la ministre n’est pas sans mérite.
+[27] Troisièmement, l’appelante fait valoir que son avis d’appel ne comporte rien qui aurait pu porter préjudice à l’intimée. Le test pour une prolongation de délai n’est pas de savoir si l’avis d’appel tel que rédigé aurait pu porter préjudice à l’intimée. Le test est de déterminer si l’appelante a subi un préjudice en raison du retard ou subirait un préjudice si j’octroyais la prolongation demandée.
+[28] À l’audience, l’appelante n’a fait aucune preuve d’un tel préjudice. Au contraire, l’appelante a consenti aux demandes de prolongation de délai pour déposer la réponse à l’avis d’appel. De plus, la simple perte du bénéfice de ne pas avoir à réfuter les hypothèses de la ministre n’est pas un préjudice suffisant pour ne pas accorder une prolongation de délai. Autrement, la Cour ne pourrait jamais prolonger le délai sur une demande formulée après son expiration, cela irait à l’encontre des Règles qui permettent une telle prolongation de délai [5] .
+[29] Quatrièmement, l’avocat de l’intimée a expliqué à la Cour que le retard dans le traitement du présent dossier était dû à la surcharge de travail occasionnée par la grève des juristes du gouvernement du Québec. Il m’apparaitrait insensé de conclure que l’explication du retard n’est pas raisonnable lorsque le retard découle de l’exercice d’un droit fondamental et constitutionnel [6] .
+[30] La grève a commencé le 24 octobre 2016 pour se terminer le 1er mars 2017. En septembre-novembre 2017 lors des demandes de prolongation de délai, tel que mentionné par l’avocat de l’intimée, il y avait du travail de rattrapage à faire dans les dossiers. Lors des demandes de prolongation de délai, l’avocat de l’intimée n’avait pas commencé à travailler sur la réponse à l’avis d’appel. Dès qu’il a commencé à préparer la réponse à l’avis d’appel, il a constaté que certains paragraphes étaient non pertinents et qu’une requête en radiation d’allégations s’imposait. Je suis d’avis que l’explication de l’intimée justifiant le délai est plausible et raisonnable.
+[31] Ainsi, les quatre critères énoncés dans la décision Hennelly, sont satisfaits. Je suis aussi d’avis que forclore l’intimée de déposer une réponse à l’avis d’appel nuirait au bon déroulement de l’audience de l’appel [7] . En effet, la cotisation en litige n’est pas sans mérite. Dans les circonstances en l’espèce, soit de fausses factures, il est de l’intérêt de la justice que la position de l’intimée soit étalée dans une réponse à l’avis d’appel.
+[32] Par conséquent, la requête de l’intimée demandant une prolongation pour déposer une réponse à l’avis d’appel est accordée.
+[33] L’appelante demande également à la Cour de déclarer que tous les faits énoncés à l’avis d’appel soient réputés vrais en vertu de l’article 44 des Règles. Effectivement, le paragraphe 44(2) des Règles peut créer une présomption réfutable de véracité de ces allégations en vertu du paragraphe 44(4) des Règles.
+[34] Toutefois, puisque j’ai déjà déterminé que l’octroi d’une prolongation de délai pour déposer la réponse était dans l’intérêt de la justice, le paragraphe 44(2) des Règles ne peut plus trouver application en raison de l’alinéa 44(1)b). En effet, dans l’arrêt Interior Savings Credit Union, le juge Noël (tel était alors son titre) de la Cour d’appel fédérale déclare ce qui suit [8] :
+Comme l’a fait remarquer le juge Paris dans la décision Telus Communications (Edmonton) Inc. c. La Reine (no 2), [2003] G.S.T.C. 183-1 (aux paragraphes 5 et 6) :
+L’allusion, dans le paragraphe 44(2), au "délai applicable prévu au paragraphe (1)" se rapporte à l’une des trois périodes suivantes : les 60 jours suivant la signification de l’avis d’appel, la période précisée dans le consentement de l’appelant ou la période permise par la Cour pour le dépôt de la réponse.
+Cela signifie que le paragraphe 44(2) ne s’applique que si une réponse est produite en dehors de la période de 60 jours et si l’appelant ne consent pas, ou si aucune ordonnance de la Cour ne prolonge cette période. Étant donné l’ordonnance que j’ai rendue pour prolonger la période du dépôt de la réponse, le paragraphe 44(2) ne s’applique pas.
+Je souscris à l’interprétation que fait le juge Paris du paragraphe 44(2). Puisque, en l’espèce, le juge Little a prorogé le délai dans lequel la réponse pouvait être déposée, il ne pouvait pas rendre d’ordonnance portant que les allégations de fait énoncées dans l’avis d’appel étaient réputées vraies.
+[Je souligne.]
+[35] Par ailleurs, l’appelante plaide que le dépôt de la requête en radiation de l’intimée est hors délai, puisqu’elle n’a jamais consenti à une prolongation de délai pour le dépôt d’une requête en radiation d’allégations. Cette position est non fondée. D’une part, le paragraphe 12(2) et l’alinéa 44(1)b) des Règles reconnaissent qu’une requête en radiation et en prolongation de délai pour déposer une réponse à l’avis d’appel peut être déposée après l’expiration du délai prescrit. D’autre part, il n’existe aucun délai à l’intérieur duquel une requête en radiation doit être déposée, sous réserve de l’article 8 des Règles. Cette dernière disposition sera discutée dans la prochaine section.
+V. REQUÊTE EN RADIATION DE PARAGRAPHES DE L’AVIS D’APPEL
+A. DISPOSITIONS PERTINENTES
+[36] Les dispositions pertinentes des Règles sont les suivantes :
+7. L’inobservation des présentes règles constitue une irrégularité et n’est pas cause de nullité de l’instance ni d’une mesure prise, d’un document donné ou d’une directive rendue dans le cadre de celle-ci. La Cour peut :
+a) soit autoriser les modifications ou accorder les conclusions recherchées, à des conditions appropriées, afin d’assurer une résolution équitable des véritables questions en litige;
+b) soit annuler l’instance ou une mesure prise, un document donné ou une directive rendue dans le cadre de celle-ci, en tout ou en partie, seulement si cela est nécessaire dans l’intérêt de la justice.
+8 La requête qui vise à contester, pour cause d’irrégularité, une instance ou une mesure prise, un document donné ou une directive rendue dans le cadre de celle-ci, ne peut être présentée, sauf avec l’autorisation de la Cour :
+a) après l’expiration d’un délai raisonnable après que l’auteur de la requête a pris ou aurait raisonnablement dû prendre connaissance de l’irrégularité, ou
+b) si l’auteur de la requête a pris une autre mesure dans le cadre de l’instance après avoir pris connaissance de l’irrégularité.
+21 (1) Toute instance régie par la procédure générale prévue dans la Loi s’introduit par dépôt au greffe d’un acte introductif d’instance établi selon l’une des formules suivantes :
+a) formule 21(1)a) en cas d’appel formé contre une cotisation établie en application de la Loi de l’impôt sur le revenu, de la Loi de l’impôt sur les revenus pétroliers, de la Loi sur la taxe d’accise, de la Loi sur les douanes, de la Loi sur le droit pour la sécurité des passagers du transport aérien, de la Loi de 2001 sur l’accise ou de la Loi de 2006 sur les droits d’exportation de produits de bois d’œuvre; […]
+48 L’avis d’appel doit se conformer aux formules 21(1)a), d), e) ou f).
+53 (1) La Cour peut, de son propre chef ou à la demande d’une partie, radier un acte de procédure ou tout autre document ou en supprimer des passages, en tout ou en partie, avec ou sans autorisation de le modifier parce que l’acte ou le document :
+a) peut compromettre ou retarder l’instruction équitable de l’appel;
+b) est scandaleux, frivole ou vexatoire;
+c) constitue un recours abusif à la Cour;
+d) ne révèle aucun moyen raisonnable d’appel ou de contestation de l’appel.
+(2) Aucune preuve n’est admissible à l’égard d’une demande présentée en vertu de l’alinéa (1)d).
+(3) À la demande de l’intimé, la Cour peut casser un appel si :
+a) elle n’a pas compétence sur l’objet de l’appel;
+b) une condition préalable pour interjeter appel n’a pas été satisfaite;
+c) l’appelant n’a pas la capacité juridique d’introduire ou de continuer l’instance.
+FORMULE 21(1)a)
+[…]
+c) Énumérer les faits pertinents qui servent de fondement à l’appel;
+d) Préciser les points en litige;
+e) Mentionner les dispositions législatives sur lesquelles l’appel est fondé;
+f) Énoncer les moyens sur lesquels l’appelant entend se fonder;
+g) Indiquer les conclusions recherchées;
+h) La date de l’avis.
+[…]
+VI. POSITION DES PARTIES
+[37] L’intimée soutient que la Cour devrait supprimer ce qui suit de l’avis d’appel :
+a) les paragraphes 7, 32, 34, 35, 48, 49, 50, 51, 52, 53, 54, 60, 68, 70, 71 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 93, 94, 96, 99, 100, 101, 103, 105, 106, 107, 108 et 109, car ils ne respectent pas la formule 21(1)a) des Règles. Elle soutient que certaines allégations ne sont pas des faits pertinents et que tous les faits doivent se retrouver dans une section intitulée « Faits » ;
+b) les paragraphes 32, 34, 35, 48, 49, 50, 51, 52, 53, 54, 70, 71, 88, 89, 93, 94, 96, 99, 100, 101, 105, 106 et 107, car ils sont de nature argumentative ou interprétative et ne révèlent aucun fait malgré qu’ils soient énumérés dans la section « Statements of Facts ». Il s’agit, selon l’intimée, de conclusions de droit n’ayant aucune valeur probante ;
+c) les paragraphes 7, 54, 60, 68, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84 et 85, car ils ne révèlent aucun moyen raisonnable d’appel ;
+d) les paragraphes 60, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86 et 106, car ils ne sont pas pertinents était donné qu’ils réfèrent aux agissements de la ministre en établissant la cotisation alors que le litige est de savoir si le montant de taxe nette réclamé dans la cotisation est conforme à la LTA;
+e) les paragraphes 68, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 101, 103, 108 et 109, car ils ne sont pas pertinents étant donné qu’ils réfèrent à un présumé devoir d’information de la ministre alors que le litige est de savoir si le montant de taxe nette réclamé dans la cotisation est conforme à la LTA.
+[38] L’appelante soutient d’abord que l’intimée ne peut présenter sa requête pour radiation sans l’autorisation de la Cour en vertu de l’article 8 des Règles étant donné que cette requête est présentée après l’expiration d’un délai raisonnable à l’intérieur duquel l’intimée aurait raisonnablement dû prendre connaissance des irrégularités.
+[39] L’appelante soutient ensuite que les allégations dans son avis d’appel sont généralement des faits pertinents, ou à tout le moins, ne sont pas des faits impertinents de façon manifeste ou évidente. Il serait alors, selon elle, plus approprié de déférer la question de la pertinence au juge du procès.
+[40] Selon l’appelante, certaines allégations de l’avis d’appel sont de la même nature que les faits qui seront allégués par l’intimée dans sa réponse à l’avis d’appel. L’appelante fait valoir qu’elle s’est vue contrainte d’interpréter la position de l’intimée puisque cette dernière ne lui a pas fourni tous les renseignements pertinents.
+[41] L’appelante soutient aussi que certaines des allégations à l’avis d’appel sont pertinentes et servent à mettre le litige en contexte. À cet effet, l’appelante soutient que certaines des allégations ont pour objet de déterminer si la ministre pouvait établir une cotisation à l’égard d’une année prescrite, de déterminer le bien-fondé des pénalités établies en vertu de l’article 285 de la LTA et afin d’établir les dépens. Elle fait également valoir que l’insertion d’une allégation dans la mauvaise rubrique de l’avis d’appel ne devrait pas être fatal, eu égard au principe de la préséance du fond sur la forme.
+VII. ANALYSE JURIDIQUE
+A. Admissibilité de la requête
+[42] L’article 8 des Règles prévoit qu’une requête visant à contester un document contenant une irrégularité ne peut être présentée par une partie, qu’avec permission de la Cour dans ces deux circonstances :
+a) après l’expiration d’un délai raisonnable après que l’auteur de la requête a pris ou aurait raisonnablement dû prendre connaissance de l’irrégularité, ou
+b) si l’auteur de la requête a pris une autre mesure dans le cadre de l’instance après connaissance de l’irrégularité.
+[43] Il est clair qu’en l’espèce, l’intimée n’a pas pris une autre mesure dans le cadre de l’instance après la connaissance de l’irrégularité. Je dois donc déterminer si l’intimée a présenté sa requête dans un délai raisonnable selon le paragraphe 8 a) des Règles. Si tel est le cas, l’intimée n’avait pas à demander la permission de la Cour pour déposer sa requête en radiation.
+[44] Dans l’arrêt Kossow, la Cour d’appel fédérale conclut que la juge de première instance n’avait pas commis d’erreur dans l’exercice de son pouvoir discrétionnaire en rejetant la requête en radiation déposée deux ans et demi suivant la prise de connaissance des irrégularités [9] .
+[45] Le juge en chef Bowman (tel qu’il était alors) dans la cause Gould c La Reine, mentionne que le requérant avait agi avec la célérité nécessaire en déposant sa requête dans un délai d’environ un mois [10] . Il explique par ailleurs la pertinence du pouvoir discrétionnaire comme suit [11] :
+L’avocat de l’appelant est dans un dilemme en raison de cet article. Il a présenté une requête pour contester la Réponse avec la célérité nécessaire. S’il avait tardé à le faire, il aurait pu devoir composer avec la disposition de l’article 8 concernant une nouvelle mesure. Pourtant, je ne peux m’empêcher de penser que, s’il y a une valeur aux objections à cette réponse quelque peu écrasante, la contestation à cette étape-ci est prématurée et pourrait peut-être être plus opportune à une étape ultérieure de la procédure. C’est pour cette raison que l’article 8 des Règles accorde à la Cour le pouvoir discrétionnaire de permettre à une partie de présenter une requête à l’encontre d’un acte de procédure à une étape ultérieure de la procédure.
+[46] Dans l’affaire Sandia Mountains, le juge Miller conclut qu’un délai de quatorze mois s’écoulant entre la production de l’acte de procédure contesté et le dépôt de la requête en radiation était trop long pour se voir accorder l’autorisation de la Cour [12] .
+[47] Dans l’arrêt Hawkes [13] , le juge Strayer, au nom de la majorité de la Cour d’appel fédérale, a décidé que le juge de première instance n’avait pas exercé son pouvoir discrétionnaire de façon erronée en accueillant une requête de l’intimée déposée un an après la réponse à l’avis d’appel.
+[48] À la lumière de ces décisions, je suis d’avis que l’intimée a déposé sa requête en radiation de certains paragraphes de l’avis d’appel dans un délai raisonnable. En effet, l’intimée a déposé la requête en radiation dans le délai consenti pour déposer la réponse à l’avis d’appel, soit moins de cinq mois suivant la signification de l’avis d’appel.
+[49] Par conséquent, dans le cas en l’espèce, l’intimée n’avait pas à obtenir l’autorisation de la Cour pour déposer une requête en radiation. Toutefois, même si j’avais tort, j’exercerais mon pouvoir discrétionnaire pour permettre la requête en radiation compte tenu des circonstances du cas présent.
+B. Radiation des allégations
+[50] Il m’apparaît utile de faire une revue des principes applicables avant de commencer mon analyse portant sur les paragraphes dont l’intimée demande la radiation.
+[51] La Cour suprême du Canada, dans l’arrêt Imperial Tobacco, affirme ce qui suit concernant le critère applicable à la radiation d’actes de procédure pour absence de cause d’action [14] :
+Les parties conviennent du critère applicable à la radiation d’une demande pour absence de cause d’action raisonnable en vertu de l’al. 19(24)(a) des Supreme Court Rules de la Colombie-Britannique. La Cour a réitéré ce critère à maintes reprises : l’action ne sera rejetée que s’il est évident et manifeste, dans l’hypothèse où les faits allégués seraient avérés, que la déclaration ne révèle aucune cause d’action raisonnable : Succession Odhavji c. Woodhouse, 2003 CSC 69, [2003] 3 R.C.S. 263, au par. 15; Hunt c. Carey Canada Inc., [1990] 2 R.C.S. 959, à la p. 980. Autrement dit, la demande doit n’avoir aucune possibilité raisonnable d’être accueillie. Sinon, il faut lui laisser suivre son cours : voir généralement Syl Apps Secure Treatment Centre c. B.D., 2007 CSC 38, [2007] 3 R.C.S. 83; Succession Odhavji; Hunt; Procureur Général du Canada c. Inuit Tapirisat of Canada, [1980] 2 R.C.S. 735.
+[…]
+Le tribunal doit plutôt se demander si, dans l’hypothèse où les faits allégués seraient avérés, il est raisonnablement possible que l’action soit accueillie. L’approche doit être généreuse et permettre, dans la mesure du possible, l’instruction de toute demande inédite, mais soutenable.
+[Je souligne.]
+[52] Dans la décision Gramiak c La Reine où le contribuable invoque l’article 53 des Règles pour faire radier certains passages de la réponse de l’intimée, le juge en chef Rossiter cite ces propos du juge en chef Bowman (tel qu’il était alors) [15] :
+Le critère du caractère "évident et manifeste" est reconnu de façon générale et depuis longtemps dans la jurisprudence canadienne comme celui qui s’applique aux requêtes en radiation. Dans la décision Sentinel Hill Productions (1999) Corporation, Robert Strother c. La Reine, 2007 CCI 742, le juge en chef Bowman a fait un survol utile des principes qui régissent l’application de l’article 53 des Règles :
+[TRADUCTION]
+[4] J’énoncerai en premier lieu les principes qui, selon moi, doivent s’appliquer dans une requête en radiation fondée sur l’article 53 des Règles. La question a été examinée dans de nombreuses décisions de la Cour et de la Cour d’appel fédérale. Il n’est pas nécessaire de les citer toutes étant donné que les principes sont bien établis.
+a) Les faits allégués dans l’acte de procédure contesté doivent être considérés comme exacts sous réserve des limites énoncées dans l’arrêt Operation Dismantle Inc. c. Canada, [1985] 1 R.C.S. 441, à la page 455. Il n’est pas loisible à la partie qui attaque un acte de procédure en vertu de l’article 53 des Règles de contester des assertions de fait.
+b) Pour qu’un acte de procédure soit radié, en tout ou en partie, en vertu de l’article 53 des Règles, il doit être évident et manifeste que la position qui est prise n’a aucune chance de succès. Il s’agit d’un critère rigoureux, et il faut faire preuve d’énormément de prudence en exerçant le pouvoir conféré en matière de radiation d’un acte de procédure.
+c) Le juge des requêtes doit éviter d’usurper les fonctions du juge du procès en tirant des conclusions de fait ou en se prononçant sur la pertinence. Il faut laisser de telles questions à l’appréciation du juge qui entend la preuve.
+d) C’est l’article 53 des Règles, et non l’article 58, qu’il faut appliquer dans le cadre d’une requête en radiation.
+[53] Le bon forum doit être également saisi. La Cour ne peut accorder des remèdes qui outrepassent sa compétence. À ce sujet, dans JP Morgan Asset Management (Canada) Inc. c La Reine, le juge Stratas de la Cour d’appel fédérale s’exprime ainsi [16] :
+En appel, la Cour canadienne de l’impôt n’a pas compétence pour annuler une cotisation établie sur la base d’une conduite fautive du ministre, tel un abus de pouvoir ou un manquement à l’équité, ayant donné lieu à la cotisation: Ereiser c. Canada, 2013 CAF 20, au paragraphe 38; Roitman, précité, au paragraphe 21; Main Rehabilitation Co. Ltd., précité, au paragraphe 6; Bolton c. Canada, [1996] A.C.F. no 820 (C.A.) (QL); Ginsberg c. Canada, [1996] 3 C.F. 334 (C.A.); Burrows [page593] c. La Reine, 2005 CCI 761; Hardtke c. La Reine, 2005 CCI 263. Si une cotisation est bien fondée au regard des faits et du droit, le contribuable doit payer l’impôt.
+[54] Un fait qui soutient un moyen d’appel pour lequel la Cour n’a pas compétence soulève du même coup la question de la pertinence. En effet, les allégations dans un acte de procédure doivent être des faits pertinents. Dans l’arrêt Beima, la Cour d’appel fédérale cite avec approbation les commentaires du juge Bowie sur cette question [17] :
+Dans la décision Zelinski c. La Reine, [2001] A.C.I. no 774, 2001 CanLII 406, le juge Bowie apporte la précision suivante :
+4 L’acte de procédure a pour but de définir les questions faisant l’objet du litige entre les parties aux fins de production et de communication préalable ainsi qu’en prévision du procès. Il incombe aux parties de présenter un exposé concis des faits pertinents sur lesquels elles se fondent. Les faits pertinents sont ceux qui, dans l’éventualité où ils sont établis au cours du procès, concourront à démontrer que la partie ayant déposé l’acte de procédure a droit au redressement demandé. De façon générale, il convient que la modification d’un acte de procédure soit autorisée, dans la mesure où cela n’est pas préjudiciable à l’autre partie - qui n’a pas droit à une contrepartie sous forme de dépens ou sous une autre forme -, les Règles visant à assurer, dans la mesure du possible, un procès équitable portant sur les vraies questions en litige entre les parties.
+5 Le principe applicable est formulé ainsi par Holmsted et Watson [Ontario Civil Procedure, vol. 3, p. 25-20 à 25-21.] :
+[traduction]
+Il s’agit de la grande règle en matière d’actes de procédure; toutes les autres règles sont essentiellement des règles accessoires ou des réserves à cette règle de base selon laquelle le plaideur doit exposer les faits pertinents sur lesquels il fonde sa demande ou sa défense. La règle comporte quatre composantes distinctes : (1) chaque acte de procédure doit exposer des faits et non pas simplement des conclusions de droit; (2) il doit exposer les faits pertinents et ne pas contenir de faits dénués de pertinence; (3) il doit exposer des faits, non les éléments de preuve qui serviront à étayer ces faits; (4) il doit exposer les faits avec concision.
+[Je souligne.]
+[55] De plus, tel qu’énoncé par la Cour dans la décision Heron c La Reine [18] , une allégation dans une procédure sera déterminée non pertinente seulement si, au premier abord il ne fait aucun doute que l’allégation est non pertinente, dans le doute, il sera plus sage de ne pas radier l’allégation:
+When a party states that the allegation is not relevant, the "irrelevancy must be quite clear and, so to speak, apparent at the first glance. It is not enough that on considerable argument it may appear that they do not afford a defence."
+[56] De plus, selon la Cour d’appel fédérale, il est fondamental que les actes de procédures contiennent des « material facts », en opposition à des allégations de faits non suffisamment précises ou à des simples conclusions de droit, à défaut de quoi ils ne rempliraient pas leur rôle de cerner les questions en litige [19] . Les conclusions de droit ne constituent donc pas des « material facts » [20] .
+[57] Par ailleurs, l’article 48 des Règles oblige un contribuable qui veut interjeter un appel à se conformer strictement à la formule 21(1)a). Dans l’affaire Kondur, la juge Miller indique ce qui suit [21] :
+L’article 48 des Règles exige que l’avis d’appel se conforme à la formule 21(1)a), qui, à son tour, dispose que l’avis d’appel doit énumérer les faits pertinents qui servent de fondement à l’appel, préciser les points en litige, mentionner les dispositions législatives sur lesquelles l’appel est fondé, énoncer les moyens sur lesquels l’appelant entend se fonder et indiquer les conclusions recherchées. Ces consignes sont de rigueur. […]
+Selon la procédure générale, l’avis d’appel, ou toute version modifiée de celui-ci, doit obligatoirement contenir tous les renseignements prescrits à la formule 21(1)a) : Okoroze c. La Reine, 2012 CCI 360. Il ne s’agit pas que d’une simple formalité. Ces exigences visent à s’assurer que les points en litige sont définis de façon appropriée pour la communication préalable et l’instruction, de façon à ce que l’intimée sache à quels arguments elle doit répondre : Bibby c. La Reine, 2009 CCI 588.
+[Je souligne.]
+[58] De l’avis du juge en chef Rip (tel qu’il était alors), le respect de la structure d’un acte de procédure prévue par les Règles a aussi son importance [22] :
+The respondent argues that Rule 49 merely sets out what must be included and does not establish a specific structure. In other words, so long as the requirements of Rule 49 are met, it is possible to intersperse conclusions of law with the facts throughout. To accept the respondent’s argument would lead to incoherent, repetitious pleadings as difficult and frustrating as the ones faced with under this motion.
+[Je souligne.]
+[59] Par exemple, un argument de droit doit clairement être identifié comme tel en l’énonçant dans la section appropriée [23] .
+[60] À la lumière de ces principes, je vais analyser et rendre ma décision sur chacun des paragraphes de l’avis d’appel remis en cause par l’intimée.
+[61] Paragraphe 7 : Il doit être radié, car il ne s’agit pas de faits pertinents et la Cour n’a pas compétence pour juger des agissements de la ministre.
+[62] Paragraphe 32 : Il doit être préservé. Il s’agit d’une allégation factuelle. L’allégation n’est pas impertinente de façon claire, manifeste ou évidente. Il est plus sage de laisser le juge du procès de juger de sa pertinence. De plus, cette allégation peut s’avérer pertinente à l’égard de la réouverture de l’année prescrite et de la pénalité pour faute lourde.
+[63] Paragraphe 34 : Les références à la « QST » doivent être radiées, car la Cour n’a pas la compétence en matière de TVQ. De plus, le mot « properly » doit être radié. C’est la Cour qui décidera si l’appelante a correctement payé le bon montant de TPS. Le reste du paragraphe doit être préservé, il s’agit d’une allégation factuelle.
+[64] Paragraphe 35 : Il doit être radié. Il ne s’agit pas de faits qui assistent le juge à déterminer si la cotisation est correcte en faits et en droit, mais d’un semblant de conclusion juridique.
+[65] Paragraphe 48 : Le paragraphe doit être préservé; le paragraphe a une base factuelle suffisante.
+[66] Paragraphes 49 à 51 : Ils doivent être radiés. Il ne s’agit pas de faits; les paragraphes sont argumentatifs. Ces paragraphes énoncent des conclusions juridiques. De plus, certains de ces paragraphes présument ce que sera la position de l’intimée. Ces paragraphes sont très mal rédigés. Si l’appelante veut amender ces paragraphes afin d’étayer des faits, elle pourra le faire, mais tels quels ces paragraphes ne peuvent être préservés.
+[67] Paragraphe 52 : Il doit être radié. Ce paragraphe traite de la TVQ. La Cour n’a pas compétence sur la TVQ.
+[68] Paragraphes 53 et 54 : Tels quels, ces paragraphes doivent être radiés. Ces paragraphes sont argumentatifs. Cela étant dit, l’appelante peut amender ces paragraphes afin de plaider des faits pertinents, sans étayer sa perception de la position de l’intimée. Il va de soi que la référence à la TVQ dans ce paragraphe doit être radiée; la Cour n’ayant pas compétence quant à la TVQ.
+[69] Paragraphe 60 : Il doit être radié, les faits allégués ne sont pas pertinents au litige.
+[70] Paragraphe 68 : Il doit être préservé, car il s’agit d’une allégation factuelle à l’égard des crédits de taxe sur les intrants réclamés par l’appelante et accordés par l’intimée. Ce n’est donc pas impertinent de façon claire, manifeste ou évidente. Il est plus sage de laisser au juge du procès le soin de juger de sa pertinence.
+[71] Paragraphes 70 et 71 : Dans ces paragraphes, les allégations de l’appelante portent sur les actions de l’intimée. Tels que rédigés, ces paragraphes doivent être radiés. Cependant, l’appelante peut amender ces paragraphes afin d’étayer des faits et en évitant d’argumenter.
+[72] Paragraphes 72 et 73 : Dans ces paragraphes, l’appelante allègue ce que sera la position de l’intimée en se fiant sur le rapport de vérification. Tels que rédigés, ces paragraphes doivent être radiés, cependant l’appelante peut modifier ces paragraphes afin d’étayer les faits entourant les transactions.
+[73] Paragraphes 74 à 86: Ils doivent être radiés, car il ne s’agit pas de faits pertinents au présent litige. La Cour n’a pas compétence pour juger des agissements de la ministre ni pour obliger la ministre à remettre des documents à la partie appelante.
+[74] Paragraphes 87 et 88: Tels que rédigés ces paragraphes doivent être radiés. Ces paragraphes sont argumentatifs et de plus, l’appelante allègue ce que sera la position de l’intimée. Cependant, l’appelante peut amender ces paragraphes pour y étayer les faits entourant les transactions.
+[75] Paragraphe 89 : Il doit être radié, car il est argumentatif et interprétatif.
+[76] Paragraphes 93 et 94 : Ils doivent être radiés, car ils sont argumentatifs et interprétatifs, et portent sur une question de preuve.
+[77] Paragraphe 96 : Sauf pour les mots, « there is no way », la première partie de la phrase jusqu’au mot « suppliers » inclusivement doit être préservée, car elle ne contient pas un fait impertinent de façon claire, manifeste ou évidente. La deuxième partie de la phrase commençant par « therefore » doit être radiée, le paragraphe est argumentatif ou une conclusion juridique.
+[78] Paragraphe 99 : Il doit être préservé, car il s’agit d’une allégation factuelle.
+[79] Paragraphe 100 : Il doit être préservé, car il s’agit d’une allégation factuelle. Cette allégation n’est pas impertinente de façon claire, manifeste ou évidente considérant la réouverture de l’année prescrite et l’imposition des pénalités. Il est plus sage de laisser au juge du procès le soin de juger de sa pertinence. Cependant, la référence à la TVQ doit être radiée, la Cour n’ayant pas compétence quant à la TVQ.
+[80] Paragraphes 101 et 103 : Ils doivent être radiés. Dans ces paragraphes l’appelante reproche à la ministre de ne pas lui avoir fourni la preuve et les faits sur lesquels la ministre s’est appuyé afin d’établir une cotisation hors délai et l’imposition des pénalités en vertu de l’article 285 de la LTA. Le « duty to inform » de la ministre n’est pas de la compétence de cette Cour.
+[81] Paragraphe 105 : Tel que rédigé, il s’agit d’une conclusion juridique. Le paragraphe peut être préservé, cependant les mots « properly » « rightly » doivent être radiés afin que le paragraphe perde la facette argumentative. Au surplus, la référence à la TVQ doit être radiée; la Cour n’a pas compétence quant à la TVQ.
+[82] Paragraphe 106 : Il doit être radié, car il s’agit d’une conclusion juridique. De plus, la première partie du paragraphe relativement à la diligence est redondante.
+[83] Paragraphe 107 : Ce paragraphe se retrouve dans la mauvaise section de l’avis d’appel. Ce paragraphe devrait se retrouver dans la section des « Arguments ». Si elle le juge nécessaire, l’appelante peut ajouter ce paragraphe dans la section « Arguments » de l’avis d’appel. Ainsi, ce paragraphe doit cependant être radié de la section des « Faits » de l’avis d’appel.
+[84] Paragraphes 108 et 109: Ils doivent être radiés, car ces paragraphes portent sur les questions en litige et le « duty to inform » de la ministre.
+VIII. CONCLUSION
+[85] La requête de l’intimée est accueillie conformément aux motifs de l’ordonnance ci-dessus. Les demandes énoncées aux paragraphes 1, 2 et 3 à la requête remodifiée de l’appelante sont conséquemment rejetées.
+[86] L’appelante doit déposer un avis d’appel modifié conforme aux motifs de cette ordonnance, dans les trente jours suivant la date de cette ordonnance.
+[87] L’intimée doit déposer une réponse à l’avis d’appel modifié dans les trente jours suivant la signification de l’avis d’appel modifié par l’appelante.
+[88] Une téléconférence sera organisée par la Cour après le dépôt de l’avis d’appel modifié et la réponse à l’avis d’appel modifié pour traiter de la demande énoncée au paragraphe 4 de la requête remodifiée de l’appelante.
+[89] Les frais suivront l’issue de l’appel.
+Signé à Ottawa, Canada, ce 22e jour de juin 2018.
+« Johanne D’Auray »
+Juge D’Auray
+RÉFÉRENCE :
+2018 CCI 115
+Nº DU DOSSIER DE LA COUR :
+2017-2735(GST)G
+INTITULÉ DE LA CAUSE :
+METROBEC INC. c LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Le 12 mars 2018
+MOTIFS DE L’ORDONNANCE PAR :
+L’honorable juge Johanne D’Auray
+DATE DE L’ORDONNANCE :
+Le 22 juin 2018
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Michel Beauchamp
+Me Kim Belair
+Avocat de l’intimée :
+Me Antoine Lamarre
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelante:
+Nom :
+Me Michel Beauchamp
+Me Kim Belair
+Cabinet :
+Michel Beauchamp, avocat
+CD Légal inc.
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Cobuzzi c La Reine, 2017 CCI 27, par 31 ; Nicholls c La Reine, 2011 CCI 40, par 19 ; Telus Communications (Edmonton) Inc. c La Reine, 2003 CCI 853, par 13.
+[2] La Reine c Hennelly, [1999] ACF no 846, par 3.
+[3] La Reine c Larkman, 2012 CAF 204, par 62.
+[4] Cobuzzi c La Reine, 2017 CCI 27, par 36-37. Le juge Jorré considère que la demande, au sens des deux premiers critères d’Hennelly, est la demande de prolongation de délai. Je suis en désaccord avec lui, car une telle interprétation nous mène à un raisonnement circulaire. En effet, les quatre critères visent justement à vérifier si la demande de prolongation de délai est bien fondée. Je crois que dans le contexte d’une cotisation, la « demande » est la réponse à l’avis d’appel ou la volonté de poursuivre le litige sur le fond.
+[5] Telus Communications (Edmonton) Inc. c La Reine, 2003 CCI 853, par 26.
+[6] Saskatchewan Federation of Labour c Saskatchewan, 2015 CSC 4.
+[7] Cobuzzi c La Reine, 2017 CCI 27, par 48.
+[8] La Reine c Interior Savings Credit Union, 2007 CAF 151, par 37 et 38.
+[9] Kossow c La Reine, 2009 CAF 83, par 16 à 18. (Autorisation d’en appeler à la CSC refusée : [2014] SCCA no 85.)
+[10] Gould c La Reine, 2005 CCI 556, par 2 et 25. (Selon le dossier de la Cour, la requête a été déposée le 13 mai 2005).
+[11] Id., par 25.
+[12] Sandia Mountain Holdings Inc. c La Reine, 2005 CCI 136, par 4, 5 et 6.
+[13] Hawkes c La Reine, [1996] ACF no 1694, par 5.
+[14] La Reine c Imperial Tobacco Canada Ltée, 2011 CSC 42, par 17 à 21.
+[15] Gramiak c La Reine, 2013 CCI 383, par 30. (Décision confirmée par Gramiak c La Reine, 2015 FCA 40).
+[16] JP Morgan Asset Management (Canada) Inc. c La Reine, 2013 CAF 250, par 83.
+[17] Beima c Canada, 2016 CAF 205, par 17.
+[18] Heron c La Reine, 2017 TCC 71, par 12, confirmé par Heron c La Reine, 2017 FCA 229.
+[19] Mancuso c La Reine, 2015 CAF 227, par 17.
+[20] Simon c La Reine, 2011 CAF 6, par 9.
+[21] Kondur c La Reine, 2015 CCI 318, par 17 à 19.
+[22] Strother c La Reine, 2011 TCC 251, par 20.
+[23] O’Dwyer c La Reine, 2012 TCC 261, par 38.

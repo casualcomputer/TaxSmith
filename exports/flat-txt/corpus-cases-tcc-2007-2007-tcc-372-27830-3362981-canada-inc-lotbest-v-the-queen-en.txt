@@ -1,0 +1,138 @@
+Title: 3362981 Canada Inc. (Lotbest) v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27830/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-372-27830-3362981-canada-inc-lotbest-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-08-09
+
+# 3362981 Canada Inc. (Lotbest) v. The Queen
+
+- Citation: 2007 TCC 372
+- Decision date: 2007-08-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 370, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+3362981 Canada Inc. (Lotbest) v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-08-09
+Neutral citation
+2007 TCC 372
+File numbers
+2005-4026(GST)APP
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2005-4026(GST)APP
+BETWEEN:
+3362981 CANADA INC. (LOTBEST),
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Application heard on May 11, 2007, at Montréal, Quebec.
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Counsel for the Appellant:
+Jean-Paul Gagnon
+Counsel for the Respondent:
+Kim Marcil
+____________________________________________________________________
+ORDER
+Upon the application filed seeking an order extending the time for filing a notice of objection to GST assessment number GG201068, made by the Minister of National Revenue under the Excise Tax Act, on November 12, 2004, pertaining to the period from October 1, 2000, to December 31, 2003;
+And upon the allegations by the parties;
+The application is dismissed in accordance with the attached Reasons for Order.
+Signed at Ottawa, Canada, this 9th day of August 2007.
+“Paul Bédard”
+Bédard J.
+Translation certified true
+on this 28th day of October, 2007.
+Gibson Boyd, Translator
+Citation: 2007TCC372
+Date: 20070809
+Docket: 2005-4026(GST)APP
+BETWEEN:
+3362981 CANADA INC. (LOTBEST),
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR ORDER
+Bédard J.
+[1] This is an application for extension of time to file a notice of objection to an assessment under subsection 304(1) of the Excise Tax Act (the Act).
+[2] The issue is whether the accountant’s negligence can make it just and equitable to accept the application under subparagraph 304(5)(b)(ii) of the Act.
+[3] The following facts are admitted:
+· the assessment is dated November 12, 2004;
+· the time prescribed by subsection 301(1.1) of the Act ended on February 10, 2005;
+· on or about April 19, 2005, the Applicant sent a notice of objection to the Quebec Minister of Revenue (the Minister);
+· on May 6, 2005, the Minister informed the Applicant that the notice of objection was inadmissible as it had been filed after the prescribed time;
+· on June 3, 2005, 213 days after the notice of assessment was sent, the Applicant sent the Minister an application to extend the time for giving notice of its objection;
+· on October 14, 2005, the Minister notified the Applicant of his refusal to grant an extension of time on the ground that the Applicant had not demonstrated its inability to act before expiry of the prescribed 90-day period for objecting, as set out in paragraph 304(5)(b) of the Act;
+· on November 7, 2005, the Applicant filed with this Court, within the prescribed time, an application to extend the time for serving notice of its objection under subsection 304(2) of the Act.
+[4] Only the Applicant’s president, Serge Cadorette, and Ehab Rafla testified in this matter.
+[5] The application for extension of time filed with the Court by the Applicant contains the following allegations:
+[TRANSLATION]
+19. Following this audit, on or about November 12, 2004, the Applicant received a notice of assessment bearing the number GG201068 pertaining to the GST (hereinafter the “GST Assessment”).
+20. The Applicant never received a notice of assessment pertaining to the TVQ. (It should be noted that the undersigned attorneys first received copy of said Notice of TAQ assessment on May 31, 2005.)
+21. During the month of November 2004, Mr. Cadorette delivered the GST Assessment to Mr. Rafla, asking him to do whatever was necessary to contest it.
+22. Each time he went to the offices of Loon & Partners after that to hand over correspondence received from the tax authorities, Mr. Cadorette asked Mr. Rafla if everything was under control, which was confirmed by Mr. Rafla.
+23. On or about February 22, 2005, while he was preparing for a one-month trip to the Congo, Mr. Cadorette received, at his residence, a letter from the MRQ’s Centre de perception fiscale asking for payment of a debt owed by the Applicant.
+24. As usual, Mr. Cadorette gave this letter to Mr. Rafla, asking him what it was about. Mr. Rafla told him he would take care of it.
+25. It was explained to Mr. Cadorette that such a letter was not abnormal, even in the case of a Notice of Objection being filed given that the Notices of Assessment pertaining to the GST and the TVQ are payable even when there is an objection.
+26. Mr. Cadorette therefore focussed on preparing his trip (obtaining visas, vaccination, preparing documentation to bring for the contract, etc.).
+27. Prior to his departure at the end of March, Mr. Cadorette again checked with Mr. Rafla that everything was in order with the tax authorities, to which Mr. Rafla answered in the affirmative, as usual.
+28. While Mr. Cadorette was in the Congo, the office of Mr. Rafla filed a Notice of Objection against the GST assessment, on or about April 19, 2005, in which a TVQ debt was also mentioned (referring to the SAA), although no notice of assessment had been received with regard to this.
+29. Mr. Cadorette came back from the Congo in the second week of May 2005.
+30. He was indisposed with a virus or a bug that he had caught there and was accompanied by the Vice Minister of Congo who came to pursue negotiations with him.
+31. On top of everything, when he collected the Applicant’s mail on or about May 20, 2005, he noticed that the MRQ, via letter dated May 6, 2005, had refused the letter of objection filed by his accountants in April 2005, under pretext that it had been filed late.
+32. Mr. Cadorette then contacted Mr. Rafla, who referred him to the undersigned attorneys on or about May 20, 2005.
+33. Between medical visits to treat the illness that he had contracted in the Congo and his obligations to the Vice‑Minister of Congo (who left Canada on May 22, 2005), Mr. Cadorette met with the undersigned attorneys.
+34. The undersigned attorneys advised Mr. Cadorette that it was necessary for the Applicant to apply for an extension of time to object to the GST assessment, obtain the relevant information pertaining to the issuance of a notice of TVQ assessment and apply for an extension of time to object to this assessment if the time to file an objection had also expired, which was very likely the case.
+35. The Applicant, through Mr. Cadorette, immediately instructed the undersigned attorneys to obtain the necessary information and file said Applications for extension of time pertaining to the GST assessment as well as the Notice of Assessment that had probably already been issued in respect of the TVQ.
+36. The undersigned attorneys therefore contacted the representatives of the MRQ and learned that the Notice of TVQ Assessment number 9900061 had been issued on November 24, 2004 (hereinafter the “TVQ Assessment”), after receiving a copy by fax on May 31, 2005 (copy attached).
+37. Once they had obtained all of the information from the MRQ and Mr. Cadorette, the undersigned attorneys prepared this Application for Extension of Time.
+[6] Mr. Ehab Rafla, whose name is mentioned at least seven times in the allegations of the application for extension of time filed with the Court and whose credibility need not be put in doubt in this matter, testified that he had no knowledge of the above-mentioned facts alleged in the application for extension of time, since he had not worked for the Applicant’s accountants since the end of June 2004. Thus, contrary to what is alleged in the application, Mr. Rafla is not the person to whom Mr. Cadorette delivered the assessment of November 12, 2004. Nor was Mr. Rafla the person with whom Mr. Cadorette had followed up on this assessment. I will point out immediately that Mr. Rafla’s testimony, which contradicts the essential of the allegations in the application for extension of time, left me with serious doubts as to the credibility of Mr. Cadorette.
+[7] The testimony of Mr. Cadorette, which I would qualify as no less than evasive, ambiguous, elusive, equivocal and often unintelligible, revealed little, except that he allegedly delivered the notice of assessment, within the time prescribed by the Act to make an objection, not to Mr. Rafla, as alleged in the application for extension of time, but rather to an employee or a partner of the firm Loon & Partners whom he did not identify. In addition, he testified that he had not instructed Mr. Rafla as alleged in his application for extension of time, but rather Mr. Lotfi, a partner of the firm Loon & Partners, to object to the assessment on behalf of the Applicant, and did so within the time prescribed by the Act. It should be pointed out that Mr. Cadorette’s testimony was silent as to the circumstances surrounding the forwarding of the Notice of Assessment and concerning the circumstances that allegedly resulted in the Applicant’s accountants not objecting to the assessment within the time prescribed by the Act. I will point out that no employee or associate of the firm Loon & Partners came to testify and explain their conduct or the events of this matter, with the exception of one ex-employee, Mr. Rafla, who, I repeat, simply denied the allegations from the application for extension of time filed by the Applicant with the Court. The circumstances of the alleged error of the firm Loon & Partners will forever remain a mystery.
+Position of the Applicant
+[8] Counsel for the Applicant argued that the Applicant had acted diligently and that it should not be punished for the deficiencies of its accountants, whom it had instructed to object to the assessment, doing so within the time prescribed by the Act. Counsel for the Applicant argued that the accountants’ deficiencies made it impossible for them to act for their client and that their error therefore makes it just and equitable to allow the application for extension of time.
+Analysis and conclusion
+[9] In order for the application to be granted, the Applicant had to convince me of the following:
+(i) It acted diligently, in that it had at least forwarded the notice of assessment to its accountants within the time prescribed by the Act to object to this assessment. It also had to convince me that it had indeed instructed its accountants to object to the assessment.
+(ii) The error of its accountants, who did not object to the assessment within the prescribed time, was not caused by their negligence or laxity. In other words, the Appellant had to convince me that its accountants committed an error while at the same time having exercised the normal diligence of an accountant.
+[10] In this case, the Applicant did not convince me that Mr. Cadorette had indeed forwarded the notice of assessment to its accountants and that it had instructed them to object to the assessment on behalf of the Applicant within the time prescribed by the Act. In addition, the Applicant did not provide any evidence with regard to the circumstances surrounding the alleged error of the firm Loon & Partners. I note that the Applicant had to prove that the error of its accountants was not caused by their laxity or negligence.
+[11] For these reasons, the application is dismissed.
+Signed at Ottawa, Canada, this 9th day of August, 2007.
+“Paul Bédard”
+Bédard J.
+Translation certified true
+on this 28th day of October, 2007.
+Gibson Boyd, Translator
+CITATION: 2007TCC372
+COURT FILE NUMBER: 2005-4026(GST)APP
+STYLE OF CAUSE: 3362981 CANADA INC. (LOTBEST) AND HER MAJESTY
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: May 11, 2007
+REASONS FOR ORDER BY: The Honourable Justice Bédard
+DATE OF ORDER: August 9, 2007
+APPEARANCES:
+Counsel for the Appellant:
+Jean-Paul Gagnon
+Counsel for the Respondent:
+Kim Marcil
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Jean-Paul Gagnon
+City: Montréal, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

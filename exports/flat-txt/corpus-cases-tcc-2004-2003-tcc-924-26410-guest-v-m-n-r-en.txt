@@ -1,0 +1,187 @@
+Title: Guest v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26410/index.do
+Corpus path: corpus/cases/tcc/2004/2003-tcc-924-26410-guest-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2004-02-11
+
+# Guest v. M.N.R.
+
+- Citation: 2003 TCC 924
+- Decision date: 2004-02-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3357, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Guest v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-02-11
+Neutral citation
+2003 TCC 924
+File numbers
+2003-1761(EI)
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2003-1761(EI)
+BETWEEN:
+CLAIRE F. GUEST,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+ROGER SKIDMORE,
+Intervenor.
+____________________________________________________________________
+Appeal heard on November 26, 2003 at Nanaimo, British Columbia
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Stacey Michael Repas
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Kelowna, British Columbia, this 11th day of February, 2004.
+"D.W. Beaubier"
+Beaubier, J.
+Citation: 2003TCC924
+Date: 20040211
+Docket: 2003-1761(EI)
+BETWEEN:
+CLAIRE F. GUEST,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+ROGER SKIDMORE,
+Intervenor.
+____________________________________________________________________
+REASONS FOR JUDGMENT
+Beaubier, J.
+[1] This appeal was heard at Nanaimo, British Columbia on November 26, 2003. The Appellant was the only witness.
+[2] The matters in dispute are set out in paragraphs 5 to 12 inclusive of the Reply to the Notice of Appeal. They read:
+5. On November 22, 2002 the Minister of National Revenue (the "Minister") issued two rulings determining that the Appellant was not employed in insurable employment pursuant to the fishing regulations during the periods from April 22, 1999 to June 30, 1999 and May 1, 2002 to July 5, 2002 (the "Periods").
+6. The Appellant appealed the rulings by letters dated December 7, 2002.
+7. In response to the Appellant's appeal of the rulings under section 91 of the Employment Insurance Act, S.C. 1996 c.23 (the "Act"), the Respondent determined that the Appellant was not employed in insurable employment during the Periods.
+8. In determining that the Appellant was not employed in insurable employment during the Periods, the Respondent relied on the following assumptions of fact:
+a) the Appellant is the common-law spouse of Roger Skidmore ("Skidmore");
+b) Skidmore owns a fishing vessel and a commercial prawn fish license;
+c) the Appellant has worked aboard Skidmore's fishing vessel since 1987;
+d) the Appellant and Skidmore have reported the income from Skidmore's fishing business on a 50/50 basis in their tax returns since at least 1997;
+e) the Appellant shared the costs of all fuel, bait, nets, and any and all other costs associated with prawn fishing;
+f) the Appellant worked 7 days per week during the Periods;
+g) the Appellant was not providing services pursuant to a contract of service;
+h) the Appellant was a self employed person involved in the fishing industry;
+i) Skidmore issued the Appellant a record of employment for the 2002 taxation year showing insurable earnings of $46,589.43 based on prawn sales to the general public;
+j) Skidmore issued the Appellant a record of employment for the 1999 taxation year showing insurable earnings of $31,003.50 based on prawn sales to the general public;
+k) the prawns caught and sold by the Appellant and Skidmore to the general public during the Periods, were sold from the government wharf in Comox, B.C, from their home, and were delivered personally to customers;
+l) the Appellant and Skidmore did not issue receipts recording the sale of prawns;
+m) the sale of prawns to the public was generally in amounts of one or two pounds at a time; and
+n) the proceeds from the sale of prawns to the public does not qualify as insurable earnings.
+B. ISSUES TO BE DECIDED
+9. The issue is whether the Appellant was employed in insurable employment during the Periods.
+C. STATUTORY PROVISIONS RELIED ON
+10. He relies on paragraph 5(1)(a) and subsection 2(1) of the Act, and subsection 1(1), sections 2 and 5 of the Employment Insurance (Fishing) Regulations.
+D. GROUNDS RELIED ON AND RELIEF SOUGHT
+11. He respectfully submits that the Appellant was not employed in insurable employment with Skidmore during the Period as she was not engaged under a contract of service within the meaning of paragraph 5(1)(a) of the Act.
+12. He further submits that the earnings paid to the Appellant are not insurable earnings based on the interpretation and definitions as set out in section 1 of the Employment Insurance (Fishing) Regulations.
+[3] Assumptions 8 b), c), d), f), i), j), k) and m) were not refuted by the evidence.
+[4] With respect to the remaining assumptions:
+8 a)
+The Appellant and Skidmore are and were legally married at all material times.
+8 e)
+The evidence is that Skidmore paid for the nets; the remainder of this assumption was not refuted.
+8 g)
+During the periods in question, in 1999 the Appellant and Skidmore's incomes were divided between them almost 50 per cent to each from fishing; in 2002, due to sales of prawns to the public, Skidmore's income was about $15,000 and the Appellant's income was about $40,000.
+8 h)
+The Appellant is deaf. She was a lawyer until her deafness forced her to join her husband in the fishing business. She testified that on the boat she acted as skipper, fished, operated the navigation equipment, did the logs, sorted the catch and "tailed" the catch for freezing.
+8 i)
+Represents the Respondent's position in this appeal. The Appellant admitted that since she began fishing her income has gone back into Skidmore's boat, but there is no evidence as to whether this was by loan or by gift. The title to the boat and fishing equipment is Skidmore's. Her entitlement is her rights as a wife; unless that is exercised in a matrimonial action, the legal title is and remains Skidmore's.
+8 l)
+This refers to the Appellant's and Skidmore's sale of prawns to the public from the Department of Transport's wharf in Comox, British Columbia. If asked for receipts, they gave a receipt, otherwise, they did not issue receipts. The Appellant recorded sales, but due to her hearing problem, she seldom sold to the public; rather she did all the behind the counter work for sale to the public and Skidmore and their daughter conducted the actual sales.
+8 n)
+Depends on the interpretation of the Employment Insurance (Fishing) Regulations), sections 1, 2 and 3(1), (2) and (3). They read:
+1. (1) The definitions in this subsection apply in these Regulations.
+"Act" means the Employment Insurance Act.
+"buyer" means a person who buys a catch for the purpose of reselling it, either in the form in which it was caught or after processing, and not for the purpose of using it as food, feed or bait.
+"catch" means any natural product or by-product of the sea, or of any other body of water, caught or taken by a crew and includes fresh fish, cured fish, Irish moss, kelp and whales, but does not include fish scales or seals, and
+(a) where only a portion of a catch is delivered to a buyer, means the portion delivered; and
+(b) where more than one catch or portion of a catch is delivered to a buyer at one time, means the catches or portions that are delivered.
+"crew" means a group of fishers who generally engage in making a catch together or who have actually engaged in making a catch together and, in the case of a single fisher, "crew" or "member of a crew", as the case may be, means that single fisher.
+"cured fish" means the following fish and fish products:
+(a) salted groundfish, smoked herring, pickled mackerel, pickled turbot, pickled herring, pickled and salted alewives, pickled trout and other pickled fish products; and
+(b) cod oil and cod livers.
+"employer" means a person included by section 3 as the employer of a fisher.
+"fisher" means a self-employed person engaged in fishing and includes a person engaged, other than under a contract of service or for their own or another person's sport,
+(a) in making a catch;
+(b) in any work incidental to making or handling a catch, whether the work consists of loading, unloading, transporting or curing the catch made by the crew of which the person is a member, or of preparing, repairing, dismantling or laying-up the fishing vessel or fishing gear used by that crew in making or handling the catch, where the person engaged in any such incidental work is also engaged in making the catch; or
+(c) in the construction of a fishing vessel for their own use or for the use of a crew of which the person is a member in making a catch.
+"fishing gear" means any specialized equipment, other than hand tools or clothing, used by a crew exclusively in making a catch.
+"fresh fish" means fish that is not cured fish.
+"major attachment claimant" means a claimant who qualifies to receive benefits and has $3,760* or more of insurable earnings from employment as a fisher in their qualifying period.
+"minimum wage", in respect of the earnings of a fisher from the catch of a crew, means the minimum wage in effect in the province where the fisher resides on January 1 of the year in which the catch is sold.
+"minor attachment claimant" means a claimant who qualifies to receive benefits and has less than $3,760* of insurable earnings from employment as a fisher in their qualifying period.
+(* SOR 2001-74, section 1 changed the amounts to $3,760 from $4,200. S.C. 2001, c. 5, s. 14 deemed the change to have come in force on December 31, 2000.
+(2) An employer who is engaged in work incidental to a catch that is generally performed on shore shall not, at any time, be regarded as a member of the crew that made the catch.
+2. A person who is a fisher shall be included as an insured person and, subject to these Regulations, the Act and any regulations made under the Act apply to that person with such modifications as the circumstances require.
+3. (1) For the purposes of the Act and any regulations made under the Act, the employer of a fisher shall be any person included as such by this section.
+(2) Where a catch is delivered in Canada to a buyer or to a buyer's agent by a member of the crew that made the catch, the buyer shall be considered to be the employer of all fishers who are members of that crew and who share in the proceeds from the sale of the catch.
+(3) Where a catch is delivered by a member of the crew that made the catch to a person who is not considered by virtue of subsection (2) to be the employer and the gross returns from the sale of the catch are paid to the head fisher of the crew, or if there is no head fisher, to the agent for selling the catch of the crew,
+(a) in the case of a head fisher, the head fisher shall be considered to be the employer for all the other fishers who are members of the crew; and
+(b) in the case of an agent,
+(i) if the agent is a member of the crew, the agent shall be considered to be the employer of all the other fishers who are members of the crew, and
+(ii) if the agent is not a member of the crew, the agent shall be considered to be the employer of all the fishers who are members of the crew.
+(4) Where there is a common agent acting at the same time for both the crew and a buyer, that agent shall
+(a) if the agent is a member of the crew, be considered to be the employer of all the other fishers who are members of the crew; and
+(b) if the agent is not a member of the crew, be considered to be the employer of all the fishers who are members of the crew.
+(5) An agent referred to in subsection (4) has the right to recover from the buyer the employer’s premiums paid by the agent.
+[5] The parties have raised two issues in this appeal:
+1. Is the Appellant an entrepreneur and not an employee?
+2. Are sales to the general public, from the wharf in Comox, sales of the "catch" to a "buyer" with particular attention to subsection 3(3) of the Regulations?
+[6] By the definitions, in section 1 a "fisher" is a person engaged in, working incidental to, or working constructing a vessel used in making a "catch". A "catch" is, in this case, fish or prawns sold to a "buyer". A "buyer" is not a consumer, rather a "buyer" is a retailer or wholesaler who sells what he purchased from the "fisher" to others.
+[7] The Appellant admitted that, while some of the 10 or 20 pound sales of prawns from the wharf may be suspect, the sales of prawns from the wharf were to consumers, usually in 1 or 2 pound amounts.
+[8] The Appellant argued for a generous interpretation of these sections and pointed out possible working anomalies arising from their wording as described in paragraph [6] hereof. But the wording is clear and the Court adopts paragraph [6] as the meaning of the sections. For these reasons, the Appellant is not a "fisher" and Mr. Skidmore is not a "fisher" with respect to the sale of prawns from the wharf in Comox, despite the fact that they organized their affairs based upon oral instructions which they received from Employment Insurance personnel.
+[9] There is not enough evidence before the Court for the Court to determine if the Appellant was otherwise employed by Skidmore in a normal employer – employee relationship. Thus, the concepts contained in assumptions 8 d), e), g) and n) which, raised together, indicate a non-employee or joint venture relationship were not refuted.
+[10] The issues are determined in favour of the Respondent.
+[11] For these reasons, the appeal is dismissed.
+Signed at Kelowna, British Columbia, this 11th day of February, 2004.
+"D.W. Beaubier"
+Beaubier, J.
+CITATION:
+2003TCC924
+COURT FILE NO.:
+2003-1761(EI)
+STYLE OF CAUSE:
+Claire F. Guest v. MNR
+PLACE OF HEARING:
+Nanaimo, British Columbia
+DATE OF HEARING:
+November 26, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Beaubier
+DATE OF JUDGMENT:
+February 11, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Stacey Michael Repas
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

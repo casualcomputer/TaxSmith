@@ -1,0 +1,125 @@
+Title: Boucher c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27217/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-439-27217-boucher-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2006-08-10
+
+# Boucher c. La Reine
+
+- Citation: 2006 CCI 439
+- Decision date: 2006-08-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 823, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Boucher c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-08-10
+Référence neutre
+2006 CCI 439
+Numéro de dossier
+2005-4265(IT)I
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-4265(IT)I
+ENTRE :
+GÉRALD BOUCHER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 7 juillet 2006, à Québec (Québec)
+Devant : L'honorable juge François Angers
+Comparutions :
+Représentant de l'appelant :
+Georges Bégin
+Avocat de l'intimée :
+Me Alain Gareau
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu à l'égard des années d'imposition 2000, 2001, 2002 et 2003 sont rejetés selon les motifs du jugement ci-joints.
+Signé à Edmundston (Nouveau-Brunswick), ce 10e jour d'août 2006.
+Juge Angers
+Référence : 2006 CCI439
+Date : 20060810
+Dossier : 2005-4265(IT)I
+ENTRE :
+GÉRALD BOUCHER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] L'appelant porte en appel deux nouvelles cotisations, soit l'une datée du 28 juillet 2003 et l'autre datée du 28 janvier 2005. Dans la première cotisation, les revenus d'emploi de l'appelant ont été majorés de 5 989 $ pour l'année d'imposition 2000 et de 6 026 $ pour l'année d'imposition 2001 et, dans la deuxième cotisation, ses revenus d'emploi ont été majorés de 6 443 $ pour l'année d'imposition 2002 et de 1 890 $ pour l'année d'imposition 2003. Les deux nouvelles cotisations ont été ratifiées par le ministre du Revenu national le 1er décembre 2005. Les revenus d'emploi additionnels ont été établis afin de tenir compte de l'avantage relatif à l'utilisation d'une automobile fournie à l'appelant par son employeur.
+[2] Durant les années en question, l'appelant était l'unique actionnaire et employé de la société « Les Éditions Atlas Inc. » (ci-après « société » ). Cette société mettait à la disposition de l'appelant une automobile. Le kilométrage annuel de ce véhicule était d'environ 15 000 kilomètres. Durant les années en question, l'appelant était lui aussi propriétaire d'une voiture particulière. Selon l'appelant, le kilométrage annuel moyen de cette voiture n'était que d'environ 3 000 kilomètres et une partie de cette distance a été parcourue pour le compte de la société.
+[3] La société publie sur une base annuelle dans la région de Québec un petit livre intitulé « Le Passe-Partout, services et bonne chère » . Le petit livre contient des annonces publicitaires et des coupons-rabais donnant droit à des réductions substantielles dans certains restaurants et bistrots.
+[4] L'appelant et son représentant à l'audience ont reconnu que l'automobile de la société a été utilisée à des fins personnelles durant les années d'imposition en question. L'appelant a parlé d'une proportion de 9% alors que son représentant l'a évalué à environ 5%. Chose certaine, tous les deux ont reconnu que l'automobile en question était à la disposition de l'appelant. Ce dernier avait donc le droit de s'en servir à des fins personnelles. Les frais pour droit d'usage d'une automobile sont prévus à l'alinéa 6(1)e) et au paragraphe 6(2) de la Loi de l'impôt sur le revenu (la « Loi » ) et ces dispositions se lisent comme suit :
+e) Frais pour droit d'usage d'une automobile -- lorsque son employeur ou une personne liée à son employeur a mis au cours de l'année une automobile à sa disposition (ou à la disposition d'une personne qui lui est liée), l'excédent éventuel de la somme visée au sous-alinéa (i) sur le total visé au sous-alinéa (ii) :
+(i) la somme qui représente les frais raisonnables pour droit d'usage de l'automobile pendant le nombre de jours de l'année où elle était ainsi à sa disposition,
+(ii) le total des sommes dont chacune représente une somme (autre qu'une dépense liée au fonctionnement de l'automobile) payée au cours de l'année à l'employeur ou à la personne liée à l'employeur par le contribuable ou par la personne qui lui est liée pour l'usage de l'automobile;
+6(2) Frais raisonnables pour droit d'usage d'une automobile - Pour l'application de l'alinéa (1)e), la somme qui représente les frais raisonnables pour droit d'usage d'une automobile pendant le nombre total de jours d'une année d'imposition durant lesquels l'employeur d'un contribuable ou une personne liée à l'employeur a mis l'automobile à la disposition du contribuable ou d'une personne qui lui est liée est réputée égale au montant calculé selon la formule suivante :
+A/B × [(2 % × (C × D) + 2/3 × (E - F)]
+où
+A représente :
+a) le nombre de kilomètres parcourus par l'automobile, autrement que dans l'accomplissement des fonctions de la charge ou de l'emploi du contribuable, pendant le nombre de jours ci-dessus ou, s'il est moins élevé, le montant représenté par l'élément B, si, à la fois :
+(i) l'employeur ou la personne liée à celui-ci exige du contribuable qu'il utilise l'automobile dans l'accomplissement des fonctions de sa charge ou de son emploi,
+(ii) la distance parcourue par l'automobile pendant le nombre de jours ci-dessus est parcourue principalement dans l'accomplissement de ces fonctions;
+b) le montant représenté par l'élément B, dans les autres cas;
+B le produit de 1 667 par le quotient de la division, par 30, du nombre de jours ci-dessus, ce quotient étant, s'il est supérieur à un, arrondi, le cas échéant, au nombre entier le plus proche, les résultats ayant cinq au plus en première décimale l'étant à l'entier inférieur;
+C le coût de l'automobile pour l'employeur ou pour la personne qui lui est liée si l'un ou l'autre est propriétaire de l'automobile à un moment de l'année;
+D le quotient de la division, par 30, du nombre de jours où l'employeur ou la personne qui lui est liée est propriétaire de l'automobile, compris dans le nombre total de jours ci-dessus, ce quotient étant, s'il est supérieur à un, arrondi, le cas échéant, au nombre entier le plus proche, les résultats ayant cinq au plus en première décimale l'étant à l'entier inférieur;
+E le total des montants qu'il est raisonnable de considérer comme payables à un bailleur par l'employeur ou par la personne qui lui est liée, pour la location de l'automobile, pendant le nombre de jours où l'automobile est louée à l'employeur ou à la personne qui lui est liée, compris dans le nombre total de jours ci-dessus;
+F la partie du total représenté par l'élément E qu'il est raisonnable de considérer comme payable au bailleur au titre de tout ou partie du coût, pour celui-ci, de l'assurance :
+a) contre la perte de l'automobile ou les dommages à celle-ci;
+b) pour la responsabilité qui peut découler de son utilisation ou de son fonctionnement.
+[5] Ces deux dispositions ont fait l'objet d'une analyse par le juge Robertson de la Cour d'appel fédérale dans l'arrêt Adams c. R., [1998] 3 C.F. 365, 98 D.T.C 6266. Aux paragraphes 14, 15 et 17 de cette décision, le juge Robertson conclut que ce qui est exigé pour leur application, c'est que l'employé ait le droit d'utiliser l'automobile pour usage personnel. On peut atténuer les conséquences rigoureuses de leur application par l'exception « pour usage personnel minimal » qui a été greffée au paragraphe 6(2). Les passages pertinents de ces paragraphes se lisent comme suit :
+[14] Dans ce contexte, il est manifeste que l'alinéa 6(1)e) comme le paragraphe 6(2) ne se préoccupent absolument pas du fait qu'un employé ait ou non utilisé la voiture de son employeur. L'alinéa 6(1)e) ne fait aucune référence aux fins pour lesquelles l'automobile a été mise à sa disposition et, en particulier, ne fait plus du tout référence à l'usage personnel qu'il en fait. [. . .]
+[15] [. . . ] C'est l'usage réel qui a de l'importance, et non pas la question de savoir si un employé peut utiliser sans restriction ou exclusivement l'automobile de son employeur. Il est également important de noter que l'usage réel ne devient pertinent que dans le contexte de l'exception pour usage personnel minimal formulée au paragraphe 6(2).
+[. . . ]
+[17] En résumé, la formulation large utilisée dans les deux versions de l'alinéa 6(1)e), jumelée à son historique législatif, appuie la position du ministre. En toute déférence, l'usage non restreint ou exclusif de l'automobile d'un employeur n'est pas une condition préalable à l'imposition des frais pour droit d'usage. L'usage réel n'est pas non plus requis, que ce soit à des fins personnelles ou à des fins commerciales. Ce qui est exigé, c'est qu'un employeur ait mis une automobile à la disposition d'un employé et, corrélativement, que cet employé ait eu le droit d'utiliser l'automobile. Cette conclusion n'est que logique puisque le paragraphe 6(2) suppose qu'un employé a fait un usage personnel de l'automobile de son employeur, peu importe qu'il en soit ainsi. À mon avis, les dispositions relatives aux frais pour droit d'usage ont été soigneusement rédigées afin d'en favoriser la certitude, au détriment de la souplesse. Cela dit, les conséquences rigoureuses qui découlent d'une disposition créant une présomption sont atténuées par l'exception "pour usage personnel minimal" qui a été greffée au paragraphe 6(2) par suite de la décision cette Cour dans Harman. C'est à ce moment que l'usage réel et les fins pour lesquelles l'automobile a été mise à la disposition de l'employé deviennent des facteurs pertinents.
+[6] Il y a donc une présomption que, dès qu'un droit d'usage d'une automobile est accordé, 12 000 kilomètres ont été parcourus par année à des fins personnelles. Cette présomption peut être renversée par une preuve claire et expresse de l'utilisation réelle en terme de kilomètres comme l'expliquait le juge Tardif dans la décision Tremblay c. R., 2000 D.T.C. 2414. Dans cette même décision, le juge Tardif citait un extrait d'un jugement du juge Dussault dans la décision Lavigueur c. Le ministre du Revenu national, 91 D.T.C. 445 sur cette obligation de présenter une preuve et de le faire de façon précise. Voici l'extrait :
+Ainsi, l'appelant admet avoir eu l'automobile à sa disposition le soir et les fins de semaines mais affirme ne pas s'en être servi à des fins personnelles sinon exceptionnellement. Il affirme d'ailleurs qu'il possédait une autre automobile à cet effet, laquelle, bien que plus modeste et plus âgée, suffisait amplement aux besoins restreints de sortie le soir ou les fins de semaine. L'appelant est cependant peu précis quant au kilométrage total parcouru pour fins d'affaires; il dit qu'il peut s'agir de 40,000 à 60,000 kilomètres par année mais qu'il n'a tenu aucun registre à cet égard.
+[. . . ]
+De façon à contrôler l'avantage résultant de l'utilisation pour fins personnelles d'une automobile appartenant à un employeur ou que celui-ci a louée, le législateur a donc cru opportun d'établir une présomption qu'il y a utilisation pour fins personnelles pour 1,000 kilomètres par mois ou 12,000 kilomètres par année aussitôt qu'un employeur met une automobile à la disposition d'un employé. Cette présomption peut être réfutée par l'employé et la Loi lui fait l'obligation de le faire de façon précise, 'selon le formulaire prescrit' lorsque l'utilisation pour fins personnelles est moindre. Dans un tel cas, l'application de la formule arithmétique du paragraphe 6(2) a pour effet de réduire proportionnellement le montant à inclure dans le revenu de l'employé. Si un employé ne se conforme pas à cette obligation que lui impose la Loi, comment peut-il prétendre par la suite que le ministère du Revenu national n'est pas fondé d'inclure dans son revenu la somme prévue au paragraphe 6(2) de la Loi et résultant de l'application de la présomption qui y est établie?
+[7] En l'espèce, l'appelant n'a pas tenu un registre de ses déplacements à des fins d'affaires pouvant permettre un calcul précis du kilométrage et de l'usage de l'automobile à des fins personnelles. L'appelant a toutefois tenté d'établir un tel registre en se fondant sur une liste des clients de la société qu'il a visités en 2003-2004 et en calculant la distance entre le lieu d'affaires des clients et celui de la société au moyen du site Mapquest que l'on trouve sur l'Internet. Selon cette information, la distance parcourue pour un aller-retour chez les clients de la société totalise 3 860 kilomètres. L'appelant estime qu'il visite les clients quatre fois par année en moyenne pour un kilométrage total de 15 440 kilomètres par année. Un des clients de la société a d'ailleurs témoigné qu'il rencontrait l'appelant 6 à 7 fois par année. Il a cependant reconnu qu'il se considérait comme étant un client difficile et qu'il n'avait aucune idée du nombre de visites effectuées par l'appelant chez ses autres clients ni du nombre de clients qu'il a à visiter. En contre-interrogatoire, il a même réduit son estimation des visites chez lui de 6 à 7 fois par année à 5 à 6 fois par année.
+[8] L'appelant allègue qu'il se rend en Beauce environ 6 fois par année pour l'impression du petit livre, qu'il se rend à Montréal environ 2 fois par année et, à l'occasion, qu'il rencontre les graphistes retenus par la société. Ces déplacements ajoutent plus de 2 000 kilomètres à l'estimation que l'appelant a faite au paragraphe précédent.
+[9] Par ailleurs, l'appelant a produit des factures de réparation de l'automobile de la société sur une période allant du 18 novembre 1999 au 11 mars 2002. Le nombre de kilomètres indiqué donne un total de 31 026 kilomètres sur une période de 27 mois, soit 1 149 kilomètres par mois. Sur 12 mois, la moyenne est de 13 788 kilomètres. L'appelant fait un calcul semblable pour sa voiture personnelle puisqu'elle est parfois utilisée à des fins d'affaires. Le kilométrage annuel de sa voiture est de 3 240 kilomètres. Le total pour les deux voitures est de 17 028 kilomètres par année. Selon l'appelant, la distance annuelle moyenne qui a été parcourue à des fins d'affaires et qui a été calculée au moyen de Mapquest correspond à 91% du kilométrage annuel total.
+[10] L'appelant a déposé ses agendas de même que des copies de contrats pour l'année 2001 qui démontrent que les contrats étaient signés par les clients à l'occasion de visites qu'il a effectuées chez eux. Cependant, les agendas ne précisent pas s'il s'agit de déplacements effectués par l'appelant, sauf qu'ils indiquent l'heure d'un rendez-vous. Certaines pages de rendez-vous indiquent que l'appelant pouvait rencontrer plusieurs personnes dans une seule journée (j'en ai compté jusqu'à dix dans une journée) et d'autres (plusieurs) n'indiquent aucun rendez-vous.
+[11] L'appelant soutient ne pas avoir utilisé l'automobile à des fins personnelles aussi souvent que le prétend le ministre puisqu'il voyageait souvent à l'extérieur du pays. Pour ce qui est de sa voiture personnelle, il soutient qu'il l'utilisait durant toute l'année. À l'appui de cette dernière prétention, il a déposé des factures de réparation pour sa voiture, mais elles remontent à 1990, 1991 et 1998. Il y en a même une qui a été facturée à la société.
+[12] Il ne fait aucun doute que les estimations d'usage personnel par rapport à l'usage d'affaires faites par l'appelant sont peu fiables et sont loin d'être précises. La prémisse sur laquelle l'appelant établit son pourcentage moyen de kilométrage annuel, soit celui de 4 visites par client ayant signé un contrat, sur une base aller-retour, n'est pas vraisemblable. Il ne peut s'agir, dans tous les cas, de visites incluant un aller-retour pour chaque client. Les agendas déposés en preuve nous démontrent effectivement des rendez-vous successifs qui nous permettent de déduire que l'appelant a visité plus d'un client par sortie.
+[13] J'ai examiné au hasard deux contrats signés le 11 mai 2001. Un examen des agendas de l'appelant couvrent la période de signature de ces contrats m'a permis de constater que, pour un des contrats, une seule visite est indiquée, soit celle du 11 mai 2001, la date où le contrat a été signé. On a, par ailleurs, contacté par téléphone le client à trois reprises, soit le 17 avril, le 1er et le 8 mai 2001. Pour ce qui est du deuxième contrat, il y aurait eu trois rendez-vous, soit les 3 et 7 mai et le jour de la signature du contrat. Cela représente une moyenne de deux rendez-vous par client, ce qui, à mon avis, me semble plus réaliste puisqu'il y a des clients qui ne signent qu'un renouvellement et que plus d'un client est parfois vu à l'occasion de la même sortie. Cet exercice me permet de conclure que l'usage personnel de l'automobile de la société par l'appelant serait de beaucoup supérieur à l'estimation qu'il en a faite. À mon avis, l'estimation faite par le Ministre, qui a évalué que l'usage personnel se situe à 25% est plus près de la réalité.
+[14] Les factures de réparation sur lesquelles est indiqué le kilométrage ne nous fournissent qu'une moyenne par année et non pas le kilométrage précis de chaque année. Il est donc difficile d'établir quelque chose de précis qui puisse permettre de conclure que toutes ces données reflètent la réalité. Au contraire, il ne s'agit que de preuves circonstancielles et imprécises qui ne sont pas conformes aux exigences de la Loi.
+[15] L'appelant n'a pas réussi à s'acquitter du fardeau de la preuve. Pour ces motifs, les cotisations sont maintenues et les appels sont rejetés.
+Signé à Edmundston (Nouveau-Brunswick), ce 10e jour d'août 2006.
+« François Angers »
+Juge Angers
+RÉFÉRENCE : 2006 CCI439
+N º DU DOSSIER DE LA COUR : 2005-4265(IT)I
+INTITULÉ DE LA CAUSE : Gérald Boucher et Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Québec (Québec)
+DATE DE L'AUDIENCE : le 7 juillet 2006
+MOTIFS DU JUGEMENT PAR : L'honorable juge François Angers
+DATE DU JUGEMENT : le 10 d'août 2006
+COMPARUTIONS :
+Représentant de l'appelant :
+Georges Bégin
+Avocat de l'intimée :
+Me Alain Gareau
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Étude :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

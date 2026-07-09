@@ -1,0 +1,543 @@
+Title: John Doe v. The King
+Source: https://norma.lexum.com/tcc-cci/decisions/en/item/521576/index.do
+Corpus path: corpus/cases/tcc/2026/2026-tcc-17-521576-john-doe-v-the-king.md
+Document type: case_law
+Last modified: 2026-01-22
+
+# John Doe v. The King
+
+- Citation: 2026 TCC 17
+- Decision date: 2026-01-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5623, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+John Doe v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2026-01-22
+Neutral citation
+2026 TCC 17
+File numbers
+2013-954(IT)G, 2015-3261(IT)G, 2019-3239(IT)G, 2019-4191(IT)G
+Judges and Taxing Officers
+Sylvain Ouimet
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 2013-954(IT)G
+2015-3261(IT)G
+2019-3239(IT)G
+2019-4191(IT)G
+BETWEEN:
+JOHN DOE,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Status hearing held on June 9 and November 25, 2025, at Vancouver, British Columbia.
+Before: The Honourable Justice Sylvain Ouimet
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Nadine Taylor Pickering
+ORDER
+In accordance with the attached Reasons, the Court concludes that:
+1-John Doe is under a legal disability.
+2-Pursuant to section 29.1 and subsections 30(1) and 30(3) of the Tax Court of Canada Rules (General Procedure), John Doe must be represented by counsel for the purposes of his appeals.
+Signed at Ottawa, Canada, this 22nd day of January 2026.
+“Sylvain Ouimet”
+Ouimet J.
+TABLE OF CONTENTS
+I. INTRODUCTION 1
+A. John Doe’s Appeals to the Tax Court of Canada 1
+B. The Court’s Concerns 3
+C. This Court’s Order of May 31, 2023 10
+D. The PGT’s Answer 15
+E. New Option Available to the Court—Hearing of June 9, 2025 16
+II. THE ISSUE 16
+III. THE RELEVANT LEGISLATIVE PROVISIONS 16
+IV. THE FACTS 22
+A. Dr. Rana’s Testimony 22
+(1) Bipolar Affective Disorder 22
+(2) Issuance of a Certificate Under the Mental Health Act 24
+(3) John Doe’s Diagnosis and Medical Condition 26
+B. John Doe’s Testimony 31
+V. HMTK’S POSITION 31
+VI. DISCUSSION 35
+A. The Law 36
+(1) Determining Whether a Taxpayer is Under a legal Disability Under the Tax Court Rules 36
+(a) Implied Jurisdiction of the Tax Court of Canada to Determine Whether a Taxpayer is Under a Legal Disability Pursuant to the Tax Court Rules 36
+(b) Rules Applying to an Appeal Before the Tax Court of Canada When a Taxpayer is Under a Legal Disability 37
+(c) Rules Applying to Proceedings Before the Supreme Court of British Columbia When a Person is Under a Legal Disability 38
+B. Analysis 39
+VII. CONCLUSION 41
+Citation: 2026 TCC 17
+Date: 20260122
+Dockets: 2013-954(IT)G
+2015-3261(IT)G
+2019-3239(IT)G
+2019-4191(IT)G
+BETWEEN:
+JOHN DOE,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR ORDER
+Ouimet J.
+I. INTRODUCTION A. John Doe’s Appeals to the Tax Court of Canada [1] John Doe worked for RBC Dominion Securities in Vancouver, British Columbia, until July 9, 2015.[1]
+[2] On June 30, 2006, the Minister assessed John Doe’s 2005 taxation year.
+[3] On July 6, 2007, the Minister assessed John Doe’s 2006 taxation year.
+[4] On June 8, 2009, the Minister reassessed John Doe’s 2005 and 2006 taxation years. The Minister disallowed business expenses of $69,600.00 and employment expenses of $281,413.78 for the 2005 taxation year. The Minister also disallowed business expenses of $75,875.48 and employment expenses of $273,011.57 for the 2006 taxation year.
+[5] On August 28, 2009, after John Doe filed a Notice of Objection, the Minister reassessed his 2005 and 2006 taxation years to allow additional employment expenses totaling $125,005.10.[2]
+[6] On July 28, 2011, the Minister assessed John Doe’s 2009 taxation year pursuant to subsection 152(7) of the Income Tax Act (the “ITA”) on the basis that he had not filed an income tax return for that taxation year. The Minister assessed John Doe for owing federal and provincial taxes, penalties and arrears totalling $124,850.55.
+[7] On May 3, 2012, the Minister assessed John Doe’s 2010 taxation year pursuant to subsection 152(7) of the ITA on the basis that he had not filed an income tax return for that taxation year. The Minister assessed John Doe for owing federal and provincial taxes, penalties and arrears totalling $117,759.90.
+[8] On November 15, 2013, the Minister assessed John Doe’s 2011 taxation year pursuant to subsection 152(7) of the ITA on the basis that he had not filed an income tax return for that taxation year. The Minister assessed John Doe for owing federal and provincial taxes, penalties and arrears totalling $112,107.35.
+[9] On December 13, 2013, John Doe filed a Notice of Appeal in respect of his 2005 and 2006 taxation years.[3]
+[10] On February 14, 2014, John Doe filed a Notice of Objection in respect of the November 15, 2013, assessment. He also sought to object to the July 28, 2011, and May 3, 2012, assessments.
+[11] On July 16, 2015, John Doe filed a Notice of Appeal in respect of his 2009, 2010 and 2011 taxation years.[4]
+[12] On January 5, 2016, HMTK has filed a motion to quash John Doe’s appeal in respect of the 2009, 2010, and 2011 assessments. With respect to the 2009 and 2010 assessments, HMTK submits that the appeal was filed outside the applicable limitation period. Regarding the 2011 assessment, HMTK submits that the appeal should be quashed on the ground that John Doe failed to file a Notice of Objection with the Minister prior to filing his Notice of Appeal.
+[13] On August 30, 2019, John Doe filed a Notice of Appeal in respect of his 2014 taxation year. [5] The notice of appeal does not provide any details on the issue(s) in dispute or the facts that John Doe intends to rely on.
+[14] On November 6, 2019, HMTK filed a Motion for Particulars with respect to the Notice of Appeal for the 2014 taxation year.
+[15] On November 21, 2019, John Doe filed a Notice of Appeal in respect of his 2015 and 2016 taxation years.[6] The notice of appeal does not provide any details on the issue(s) in dispute or the facts that John Doe intends to rely on.
+[16] On February 11, 2020, HMTK filed a Motion for Particulars with respect to the Notices of Appeal for the 2015 and 2016 taxation years.
+[17] Since 2016, the Court has adjourned the hearing of John Doe’s appeals as well as the hearing of motions in relation to his appeals. While managing John Doe’s appeals, the Court has received numerous letters in support of adjournment requests, including from Dr. Babra Rana (“Dr. Rana”), John Doe’s psychiatrist. These requests were granted because they were made for medical reasons. According to the letters, John Doe was not well enough to attend a hearing. The contents of the letters led the Court to believe that John Doe would eventually recover and be able to represent himself in his appeals.
+B. The Court’s Concerns [18] Pursuant to section 29.1 and subsections 30(1) and 30(3) of the Tax Court of Rules, a taxpayer under a legal disability must be represented by counsel in any proceeding before the Court, unless the Court orders otherwise.
+[19] Based on the content of the letters received by the Court in support of the adjournment requests and John Doe’s behaviour during court hearings, the Court has reasons to believe that John Doe might be under a legal disability.
+[20] Over the years, the letters allowed the Court to gradually obtain more details on the nature and severity of John Doe’s condition and on the impact that it might have on his ability to carry on his appeals. Despite the numerous adjournment requests, the Court was able to hold several status hearings over the years. At the Court’s request, the hearings were held in person, and John Doe always appeared except when he could not because he was hospitalized. When he did appear, John Doe’s participation was minimal and, at times, he was barely responsive. In recent years, letters sent by this Court to John Doe were returned unclaimed, and he did not reply to this Court’s e-mails.
+[21] Other facts support the Court’s suspicion that John Doe might be under a legal disability. These facts are the following:
+John Doe has struggled with his mental health since at least 2012.[7]Since March 2013, John Doe has been receiving treatment for bipolar affective disorder from Dr. Rana, a psychiatrist at the Burnaby Mental Health and Substance Use Services Section of the Burnaby Hospital.[8]
+Since 2013, John Doe has been an involuntary patient under the Mental Health Act[9]of British Columbia.
+John Doe lives in the community, but since 2012, he has been hospitalized several times at the Burnaby Mental Health and Substance Use Services Section of the Burnaby Hospital.[10]
+In January 2016, counsel for HMTK informed the Court that John Doe had left her a voicemail indicating that he had been under the influence of medicine and had sent her a completed “Notification to Involuntary Patient of Rights under the Mental Health Act” form dated December 24, 2015.[11]
+During a hearing, John Doe repeatedly told the Court that he was mentally disabled and on extended leave from the Burnaby Mental Health and Substance Use Services Section. He described his condition as “bipolar”, “crazy” and “mania” and told the Court that he had been admitted to a mental hospital at least five times since 2012 for his mental illnesses.
+Since 2013, John Doe has instituted four appeals with this Court. The progress of John Doe’s appeals has seen numerous adjournment requests for medical reasons. Most of the adjournment requests for medical reasons were made by Dr. Rana or by a member of her team at the Burnaby Mental Health and Substance Use Services Section of the Burnaby Hospital. The content of these letters raised concerns; here are some examples:
+1-On February 19, 2016, in support of an adjournment request, John Doe provided the Court with a letter from Dr. Rana and Wendy Isley (“Ms. Isley”), Case Manager at Burnaby Mental Health and Substance Use Services, which stated:
+We are writing at the request of the above-named client. He has been hospitalized from Dec. 1/15 until Dec. 18/15 and then released on extended leave. He is now being closely followed and monitored at our outpatient department every two weeks. His condition is not yet at his baseline; and we recommend that he have a further three-month adjournment from any court or legal procedure.[12]
+2-On May 20, 2016, in support of an adjournment request, John Doe provided a letter from Dr. Rana and Ms. Isley, which stated:
+John Doe been [sic] followed by us for several years now, regarding his BiPolar Affective Disorder. He has had difficulty adjusting to his medications causing decreased concentration and focus; and increased hours of sleep to 14 per night. Once he is up he remains sedated for much of the day. He also has decreased motivation and is very anxious. This leaves him little time or ability to attend to his affairs regarding preparation for his pending court case related to his lawsuit with the Canada Revenue Agency.
+We have requested one extension; and now we are supporting our client’s request to extend same again due to his current cognitive/mental status. We have also commenced a recent medication change; which will increase the time required for him to stabilize even more.[13]
+3-On June 28, 2016, Ms. Isley wrote to the Court on behalf of Dr. Rana. In her letter, she explained in general terms that John Doe may never recover to the point where he could handle his legal affairs. She stated the following:
+John Doe has been followed by us since early March of 2013. He has had a severe mental illness, since 2012, and possible [sic] prior to that but his first known hospitalization was in 2012. Since then, he has not had any reasonable period of time when he was well. Due to his impaired judgement, and very poor insight, he has also stopped his medications at times. As a result he has had repeated hospitalizations and subsequently he has not been able to handle his affairs as his condition severely impairs his judgement, motivation, energy and insight.
+John Doe was seen this afternoon, and we are very concerned about his mental health and well being. He is at risk of possible self-harm. We are unable to provide you with a date that this client will be able to retain counsel as he has no income and is still unwell. Would it be possible for a complete adjournment of this case.[14]
+4-On August 30, 2016, the Court wrote to Dr. Rana to inform her that the Court was unable to order a complete adjournment as requested and asked Dr. Rana if John Doe was under a legal disability.[15] On September 6, 2016, in answer to the Court’s question, Dr. Rana replied as follows:
+John Doe is a person with a mental illness which is cyclical in nature and can recur. During times of recurrence, John Doe’s functioning has been greatly impaired; requiring several hospitalizations during the past three to four years. These have caused him financial hardship.
+John Doe may have suffered with this illness for quite some time prior to being diagnosed. This illness frequently causes people to demonstrate poor financial judgement, which often leads them to have significant debts.
+I am not clear on what is meant by legally disabled. John Doe is currently handling his own affairs. He has disclosed that he has no income at this time; and cannot afford to retain counsel.
+John Doe would be able to give instructions to counsel when he is well, but he would not be able to give instructions to counsel when he is not well.
+John Doe continues to have residual symptoms, and is under significant stress; both of which leave him vulnerable to relapsing.[16]
+5-On January 13, 2017, in support of an adjournment request, Dr. Rana wrote to the Court to state the following:
+At this time, John Doe continues to be mentally ill. Due to his mental illness John Doe has memory problems, and his judgment is very poor. He is sleeping long hours; and his energy is low. His mood has been depressed with increased anxiety. In addition to this he has very limited money and no income with which to obtain legal assistance.
+Even if he were to obtain Legal Advice or Legal Aid, his thought processing is slowed and disorganized. Overall, at this time I cannot advise as to how long before his condition improves, or if it will improve.[17]
+6-On April 3, 2017, in support of a 12-month adjournment request, Dr. Rana wrote to the Court to state the following:
+It is to my understanding that John Doe has his next hearing on May 30th 2017. This is a letter outlining John Doe’s [sic] mental health diagnosis and the limitations he is currently facing at this stage in his recovery.
+John Doe is suffering from a diagnosis of bipolar disorder, where he is in the early stages of recovery. Due to the number of hospitalizations he has had, the amount of time required for him to stabilize is much greater than if he has had only one acute episode.
+At this point, John Doe continues to suffer with residual symptoms including poor concentration, decreased energy and slowed thought process. These symptoms impact his ability to focus on what he wants to achieve and significantly decrease his motivation.
+John Doe is not at his baseline functioning at this point in time and his current legal affairs are increasing his stress and vulnerabilities to a relapse. After discussion with John Doe, it is my recommendation that he would benefit from 12 months to focus on his own recovery before adequately representing himself in court, as he has declined options for alternative representation. Please consider a 12-month delay in proceeding with this hearing for John Doe to progress in his recovery.
+I am willing to attend his hearing and further answer questions regarding his mental health diagnosis and functional ability at this time if needed.[18]
+7-On June 19, 2018, in support of a six-month adjournment request, Dr. Rana wrote to the Court to state the following:
+John Doe is suffering from a diagnosis of bipolar disorder. While John Doe’s condition has improved over the past year, he continues to suffer with residual symptoms, such as impaired concentration, social isolation, and sleep disturbances. In particular, John Doe is significantly distressed by the upcoming Status Hearing, and reports losing sleep, increased anxiety, and poor concentration. His ability to tolerate stress is significantly reduced by his diagnosis, and he remains vulnerable to a relapse.
+It is my recommendation that John Doe would benefit from a further six‑month deferral on his appeal in order to continue to work on improving his wellness and mental health.[19]
+8-On June 19, 2018, Dr. Rana wrote to counsel for HMTK to request a six-month adjournment. This letter was forwarded to the Court and states the following:
+John Doe is suffering from a diagnosis of bipolar disorder. While John Doe’s condition has improved over the past year, he continues to suffer with residual symptoms, such as impaired concentration, social isolation, and sleep disturbances. In particular, John Doe is significantly distressed by the upcoming Status Hearing, and reports losing sleep, increased anxiety, and poor concentration. His ability to tolerate stress is significantly reduced by his diagnosis, and he remains vulnerable to a relapse.
+It is my recommendation that John Doe would benefit from a further six-month deferral on his appeal in order to continue to work on improving his wellness and mental health.[20]
+9-On May 31, 2019, Dr. Rana wrote to the Court to state the following:
+John Doe has a diagnosis of bipolar disorder. While John Doe’s condition has improved with medication management and case management, he continues to be symptomatic, experiencing difficulty with concentration, disorganized thinking, anxiety, low mood, poor insight, and social isolation. John Doe was last hospitalized in December of 2015, and remains an involuntary patient of the hospital on Extended Leave under the Mental Health Act. John Doe’s certificate under the Mental Health Act was most recently renewed on April 26, 2019. John Doe remains vulnerable to relapse, especially given his multiple psychosocial stressors and his current limited insight into his illness.
+John Doe’s diagnosis and current active symptoms are significant contributing factors in his recent failure to appear in Court.[21]
+10- On January 22, 2020, Marnie Smith, a social worker at the Burnaby Hospital, wrote to the Court regarding John Doe’s absence from the status hearing:
+The purpose of this letter is to confirm that John Doe … has been admitted to Burnaby Hospital since January 13, 2020 for treatment of a medical condition.
+I have been informed by [John Doe] that he had a court date scheduled for January 16, 2020 that he unfortunately had to miss due to his admission to hospital. Any assistance you could provide John Doe in rescheduling his court date would be greatly appreciated.[22]
+11- On April 4, 2022, Dr. Rana wrote to the Court regarding an upcoming status hearing:
+This letter is behalf [sic] of John Doe. He is unable to participate in the upcoming court proceedings on May 9, 2022 due to mental health concerns.[23]
+During the May 9, 2022 status hearing, John Doe appeared generally unable to understand or participate in the court proceedings. The Court observed that John Doe remained seated in the same position from approximately 9:30 a.m., when the hearing began, until 1:30 p.m., when the hearing concluded.
+[22] John Doe’s appeals have not moved forward for more than ten years, and they now must for the good administration of justice. Because the Court can no longer continue to grant adjournments for medical reasons, it has become necessary to determine whether John Doe is under a legal disability for his appeals to go forward.
+C. This Court’s Order of May 31, 2023 [23] Before May 31, 2023, the Court has concluded that the determination of whether John Doe is under a legal disability under the Tax Court Rules had to be made according to the law of the province of British Columbia. After a review of the relevant case law from the province of British Columbia, the Court concluded that in British Columbia, a taxpayer is under a legal disability pursuant to the Tax Court Rules if the taxpayer has a mental disorder that requires treatment and if the disorder seriously impairs the person’s ability to react appropriately to the person’s environment or to associate with others. Given the nature of this question, the Court concluded that it needed an opinion of a medical professional to answer it. The Court also concluded that it had the implied jurisdiction and therefore the power to obtain an opinion of a medical professional to answer this question. The Court’s conclusions were communicated orally to counsel for HMTK during a Status Hearing, and counsel expressed agreement.
+[24] Consequently, on June 9, 2022, counsel for HMTK took the first of two steps to obtain the necessary medical opinion at the Court’s request. First, counsel sent a letter to Dr. Rana. The letter contained a summary of the steps that Dr. Rana had agreed to take during the status hearing of May 9, 2022. During the hearing, Dr. Rana told the Court that she would do the following:
+-Speak to John Doe’s brother, his only known family member, to see if he could assist with hiring a lawyer for John Doe for his appeals.
+-Have her office look into completing an assessment of John Doe to determine whether he is incompetent.[24]
+[25] In the letter, counsel for HMTK also asked Dr. Rana whether she or her office had made a referral to the Public Guardian and Trustee of British Columbia (“PGT”) in respect of John Doe. If a referral had not been made, counsel asked Dr. Rana whether she or her office intended to make a referral, and if not, the reason why.[25]
+[26] In June 2022, counsel for HMTK received a voicemail from Dr. Rana. In the voicemail, Dr. Rana stated that she had tried to have a psychiatrist from her hospital perform a confidential assessment of John Doe, but that nobody was available. She indicated that the assessment would have to be done privately. She suggested that the Minister hire a private psychiatrist to do the assessment.[26]
+[27] On June 29, 2022, counsel for HMTK left a voicemail for Dr. Rana in which she stated the following:
+-She asked if there was somebody at Burnaby Mental Health who could be made available to do the assessment at some point.
+-She asked whether Dr. Rana could contact someone at another location to do the confidential assessment.
+-She asked whether Dr. Rana had contacted John Doe’s brother.
+-She asked Dr. Rana to provide the Court with updates on the foregoing.[27]
+[28] On July 19, 2022, counsel for HMTK received a letter. In the letter, Dr. Rana wrote:
+I tried to arrange for psychiatrist [sic] to see him for competency assessment [sic] at Burnaby Psychiatric Services. Unfortunately, we do not provide this service and therefore it will not be available to John Doe. It has been suggested that he can be seen by a private psychiatrist to do the capacity assessment. His family physician can refer him to private psychiatrist [sic] to obtain recommended assessment.
+We attempted to contact his brother regarding hiring a lawyer for John Doe, and he agreed to the same. The case manager talked to John Doe’s brother and I have advised her to send the information regarding her conversation to [sic] John Doe’s brother to you.[28]
+[29] On July 25, 2022, counsel for HMTK took the second step. A legal assistant helping counsel contacted Dr. Rana’s office to obtain the telephone number of John Doe’s brother.[29]
+[30] On August 3, 2022, counsel for HMTK called John Doe’s brother numerous times, but there was no answer each time.[30] Counsel for HMTK left a voicemail in which she asked him to attend John Doe’s status hearing on September 13, 2022. Counsel also asked him whether he had retained the services of a lawyer or had a psychiatric consult done by a private psychiatrist for a competency assessment, as Dr. Rana had requested of him. Counsel left follow-up voicemails on August 22 and September 2, 2022. She called him again on September 6, 2022, but did not leave a voicemail.[31]
+[31] On September 6, 2022, the legal assistant spoke with Dr. Rana’s assistant about whether Dr. Rana was aware of any actions taken by John Doe’s brother. Dr. Rana’s assistant informed her that she had just spoken to John Doe’s case manager and that the case manager would call counsel for HMTK. To the Court’s knowledge, counsel for HMTK has not received a call back from John Doe’s case manager.[32]
+[32] On September 13, 2022, a status hearing took place. John Doe was present, and he was by himself. He told the Court that his brother would not help him and that he wanted to retain counsel, but he did not have any money. He also told the Court that he would like to get a psychiatric evaluation but that he did not know how to proceed and questioned whether he would be able to pay for it.[33]
+[33] Given that the two steps taken by counsel for HMTK to obtain a medical opinion were unsuccessful, the Court concluded that it had no other choice than to issue an order (issued on May 31, 2023) in which three options to obtain a medical opinion would be identified. Given the powers of the Court and its limitations, instructions to counsel would also be provided in the order to assist the Court with these options.
+[34] The three options identified by the Court in the Order to obtain a medical opinion were the following:
+1-Issue an order in which John Doe is ordered to provide a medical report advising whether John Doe is under a legal disability.
+2-Issue an order to appoint a lawyer as an amicus curiae to represent John Doe. Afterwards, request that the amicus curiae obtain a medical report advising whether John Doe is under a legal disability; or
+3-Issue an order in which counsel for HMTK is ordered to notify the PGT to allow the PGT to determine whether it will represent John Doe. If the PGTdetermines that it will represent John Doe, order the PGTto obtain a medical report advising whether John Doe is under a legal disability.
+[35] In the Order, the Court concluded that the first option was not appropriate in the circumstances. The Court concluded that it would not be fair to John Doe for numerous reasons, including his medical condition. As for the second option, the Court concluded that, based on the jurisprudence, appointing a lawyer as an amicus curiae could be done, but only in rare and exceptional circumstances and only if certain conditions were met, including having considered the availability of alternatives to appointing an amicus curiae. Because of this, the Court has concluded that it is too early to proceed with this option.
+[36] The Court concluded that, while pursuing the third option might create more delay, given the information available to the Court, it was the appropriate option to pursue at that stage. Furthermore, the Court concluded that it was necessary to report the situation to the PGT based on the following:
+In British Columbia, the PGT is the default statutory representative of a person declared to be under a legal disability. Section 32 of the Adult Guardianship Act sets out the process for appointing a statutory property guardian.
+The PGT can act as an adult’s statutory property guardian under the Adult Guardianship Act. As statutory property guardian, the PGT may make decisions regarding an adult’s financial affairs.[34] The expression “financial affairs” is defined in section 1 of the Adult Guardianship Act and, pursuant to that definition, an adult’s financial affairs includes the adult’s legal affairs.[35]
+Under subsection 32(5) of the Adult Guardianship Act, the PGT becomes the statutory property guardian when a certificate of incapability is issued.
+Pursuant to section 32 of the Adult Guardianship Act, an adult assessment is a four-step process. In step one, after being notified, the PGT may request that a qualified health care provider assess the adult’s incapability.[36] In step two, the qualified health care provider assesses the adult to determine whether he or she is incapable of managing his or her legal affairs. If this is the case, the qualified health care provider may report the adult’s incapability to a health authority designate.[37] In step three, if the health authority designate issues a certificate of incapability, the health authority designate will forward the certificate to the PGT.[38] In step four, if the PGT is forwarded a certificate, it becomes the adult’s statutory property guardian as of the date on which the certificate of incapability was signed by the health authority designate. Afterwards, the PGT will be able to make decisions regarding the adult’s legal affairs.[39]
+Pursuant to paragraph 32(1)(a) of the Adult Guardianship Act, a health care provider who believes that an adult is incapable of managing his or her financial affairs can request that a qualified health care provider assess the adult’s incapability.
+Dr. Rana, John Doe’s psychiatrist, could not or was not willing to notify the PGT.
+Pursuant to paragraph 32(1)(b) of the Adult Guardianship Act, a person who believes that a person is incapable of managing his legal affairs can notify the PGT of their belief, and the PGT may then request a qualified health care provider to assess the adult’s incapability.
+To the Court’s knowledge, John Doe does not have any family member or any other person that could notify the PGT of the Court’s belief that he might be incapable of managing his legal affairs.
+[37] The Court ordered counsel for HMTK to serve the PGT, by registered mail, a redacted and an unredacted copy of the Order and, if required by the PGT, to file the necessary referral form.
+D. The PGT’s Answer [38] At the Court’s request, counsel for HMTK notified the PGT. The PGT requested that the appropriate forms be filed, and counsel complied. On January 22, 2024, the PGT wrote to counsel that, after having completed its review, the PGT had determined that it could not be of assistance to John Doe and would not be taking any further steps in John Doe’s matter.
+[39] Given the circumstances, and after reconsideration, the Court determined that it would not be appropriate to order the PGT to obtain a medical report advising whether John Doe is under legal disability.
+E. New Option Available to the Court—Hearing of June 9, 2025 [40] Given the decision of the PGT, the Court was left with the third option, that is, to appoint a lawyer as an amicus curiae. Because of the exceptional nature of such an appointment and the necessity of considering the available alternative, the Court suggested to counsel for HMTK to subpoena Dr. Rana and have her testify at a hearing in which counsel would try to have Dr. Rana provide evidence that would hopefully allow the Court to determine whether John Doe was under a legal disability. Counsel accepted the Court’s suggestion, a subpoena was issued to Dr. Rana, and a hearing was scheduled for June 9, 2025, following which these reasons were written.
+II. THE ISSUE [41] The issue is as follows:
+● Whether John Doe is under a legal disability.
+III. THE RELEVANT LEGISLATIVE PROVISIONS [42] The relevant statutory provisions are as follows:
+Tax Court of Canada Rules (General Procedure), SOR/90-688a
+Proceeding on Behalf of Party Under Legal Disability
+29.1 Unless the Court orders otherwise, the representative of a party under a legal disability shall institute or continue a proceeding on behalf of that party.
+Representation by Counsel
+30(1) Subject to subsection (3), a party to a proceeding who is an individual may act in person or be represented by counsel.
+(2) Where a party to a proceeding is not an individual, that party shall be represented by counsel except with leave of the Court and on any conditions that it may determine.
+(3) Unless the Court orders otherwise, a person who is the representative of a party under a legal disability in a proceeding shall be represented by counsel, except where that person is also counsel acting in such a capacity.
+Supreme Court Civil Rules, BC Reg 168/2009
+Rule 20-2 — Persons under Disability
+1. Interpretation
+(1) In this rule, “committee” means the committee, appointed under the Patients Property Act, of the estate of a patient.
+Start of proceedings by person under disability
+(2) A proceeding brought by or against a person under legal disability must be started or defended by the person’s litigation guardian.
+Role of litigation guardian
+(3) Unless a rule otherwise provides, anything that is required or authorized by these Supreme Court Civil Rules to be done by or invoked against a party under disability must
+(a) be done on the party’s behalf by the party’s litigation guardian, or
+(b) be invoked against the party by invoking the same against the party’s litigation guardian.
+Lawyer must be involved
+(4) A litigation guardian must act by a lawyer unless the litigation guardian is the Public Guardian and Trustee.
+Litigation guardian
+(5) Unless the court otherwise orders or an enactment otherwise provides, a person ordinarily resident in British Columbia may be a litigation guardian of a person under disability without being appointed by the court.
+Committee as litigation guardian
+(6) If a person is appointed committee, that person must be the litigation guardian of the patient in any proceeding unless the court otherwise orders.
+Consent of litigation guardian
+(7) Before the name of a person is used in a proceeding as a litigation guardian, that person’s consent, signed by the person or the person’s lawyer, must be filed, unless the person
+(a) has been appointed by the court, or
+(b) is the litigation guardian under section 35 (1) of the Representation Agreement Act of a party to that proceeding.
+Certificate of fitness
+(8) Unless a committee has been appointed, the lawyer for a person under disability, before acting in a proceeding, must, unless subrule (9) applies, file a certificate that the lawyer knows or believes that
+(a) the person to whom the certificate relates is an infant or mentally incompetent person, giving the grounds of that knowledge or belief, and if the person to whom the certificate relates is a mentally incompetent person, that a committee has not been appointed for the person, and
+(b) the proposed litigation guardian of the person under disability has no interest in the proceeding adverse to that person.
+Certificate for a litigation guardian
+(9) The lawyer for a person who, under section 35 (1) of the Representation Agreement Act, has a litigation guardian must, before acting in a proceeding to which the person is a party, file a certificate certifying that the lawyer knows or believes that
+(a) the person has entered into a representation agreement,
+(b) the litigation guardian is a representative under that representation agreement and is authorized under section 7 (1) (d) of the Representation Agreement Act in relation to the proceeding, and
+(c) the litigation guardian has no interest in the proceeding adverse to the person.
+Party becoming incompetent
+(10) If a party to a proceeding becomes a mentally incompetent person, the court must appoint a litigation guardian for the party unless
+(a) a committee has been appointed for the party, or
+(b) the party has a litigation guardian under section 35 (1) of the Representation Agreement Act.
+Removal of litigation guardian
+(11) If it is in the interest of a party who is under disability, the court may remove, appoint or substitute a litigation guardian.
+…
+Patients Property Act, RSBC 1996, c 349
+1 In this Act:
+“committee” means the following persons:
+(a) a person appointed as committee under section 6 (1);
+(b) the Public Guardian and Trustee under section 6 (3);
+(c) a statutory property guardian under Part 2.1 of the Adult Guardianship Act;
+…
+Adult Guardianship Act, RSBC 1996, c 6
+Part 1 — Introductory Provisions
+Definitions
+1 In this Act:
+…
+“financial affairs” includes an adult’s business and property, and the conduct of the adult’s legal affairs;
+…
+“statutory property guardian” means a person who, under Part 2.1, may make decisions regarding an adult’s financial affairs.
+…
+Part 2.1 — Statutory Property Guardians
+Obtaining a statutory property guardian
+32 (1) If a person has reason to believe that an adult may be incapable of managing the adult’s financial affairs, the person may
+(a) if the person is a health care provider, request a qualified health care provider to assess the adult’s incapability, or
+(b) in any case, notify the Public Guardian and Trustee of the person’s belief, and the Public Guardian and Trustee may request a qualified health care provider to assess the adult’s incapability.
+(2) If, after assessing the adult according to prescribed procedures, the qualified health care provider determines that the adult is incapable of managing that adult’s financial affairs, the qualified health care provider may, using the prescribed form, report the adult’s incapability to a health authority designate.
+(3) If a health authority designate receives a report under subsection (2) of an adult’s incapability, the health authority designate may issue a certificate of incapability in respect of the adult, if satisfied that, based on the report and any additional information the designate receives,
+(a) the adult needs to make decisions about the adult’s financial affairs,
+(b) the adult is incapable of making those decisions,
+(c) the adult needs, and will benefit from, the assistance and protection of a statutory property guardian,
+(d) the needs of the adult would not be sufficiently met by alternative means of assistance, and
+(e) either
+(i) the adult has not granted power over all of the adult’s financial affairs to an attorney under an enduring power of attorney, or
+(ii) an attorney has been granted power as described in subparagraph (i) but is not complying with the attorney’s duties under the Power of Attorney Act or the enduring power of attorney, as applicable.
+(3.1) A health authority designate must not issue a certificate of incapability unless the health authority designate has first
+(a) consulted with the Public Guardian and Trustee,
+(b) notified the adult, and, if contact information is known to the health authority designate, the adult’s spouse or a near relative of the adult, of the intention to issue the certificate and the reasons for issuing it, and
+(c) given each person who received notice under paragraph (b) a reasonable opportunity to respond.
+(3.2) Despite subsection (3.1) (b), notification need not be given to the adult, to another person referred to in that subsection, or to either the adult or another person referred to in that subsection, if the health authority designate has reason to believe that notification may result in
+(a) serious physical or mental harm to the adult, or
+(b) significant damage or loss to the adult’s property.
+(4) If the health authority designate issues a certificate of incapability, the health authority designate must do all of the following:
+(a) forward the certificate to the Public Guardian and Trustee;
+(b) advise the adult, and, if contact information is known to the health authority designate, the adult’s spouse or a near relative of the adult, that a certificate of incapability in respect of the adult has been issued, and provide each of them with a copy of the certificate.
+(5) The Public Guardian and Trustee is the adult’s statutory property guardian as of the date on which the certificate of incapability was signed by the health authority designate who issued it.
+(6) [Repealed 2014-9-1.]
+(7) This section does not apply if the adult has a committee, appointed under the Patients Property Act, responsible for managing the adult’s affairs.
+IV. THE FACTS A. Dr. Rana’s Testimony [43] Dr. Rana is a psychiatrist and has been a Fellow of the Royal College of Physicians and Surgeons of Canada since 1993. She works at the Burnaby Mental Health and Substance Use Services Section of the Burnaby Hospital and collaborates with Vancouver Mental Health. In addition, Dr. Rana maintains a private practice at the Kensington Medical Clinic. She has been John Doe’s psychiatrist since March 2013. John Doe is a patient of the Burnaby Mental Health and Substance Use Services Section.[40]
+(1) Bipolar Affective Disorder [44] Dr. Rana’s testimony on bipolar affective disorder can be summarized as follows:
+Individuals with bipolar affective disorder usually have episodes of mood instability, which can be described as the “manic state” and the “depressive state”. During these episodes, people get either very depressed or become extremely elevated in their mood; they are on a “high”.[41] Dr. Rana describes symptoms of bipolar affective disorder as generally being the following:
+-During a manic episode, individuals often display grandiose thinking, believing they can accomplish things others cannot. Their thoughts race, and they engage in excessive and unrealistic planning. They are typically hyperactive, sleep very little, have multiple activities underway at once and talk excessively. They also may engage in behaviours that are completely out of character. For instance, they might spend money irresponsibly, gamble excessively, appear nude in public and even exhibit aggressive behaviour.
+-When they experience a depressive episode, their mood becomes extremely low. They may have suicidal thoughts, sleep excessively or struggle with insomnia and lose interest in everyday activities. Motivation is often absent, energy levels are very low, and they may experience poor concentration and memory difficulties. Social withdrawal and isolation are also common.[42]
+After an individual with bipolar affective disorder has experienced more than two episodes, long-term medication is typically prescribed. Discontinuing medication after multiple episodes significantly increases the risk of recurrence, as the relapse rate is very high. For this reason, once a person has had two or more episodes, physicians generally recommend continuing medication indefinitely to maintain stability and prevent future episodes.[43]
+Medication for bipolar affective disorder is prescribed primarily to stabilize mood and reduce the occurrence of manic, hypomanic and depressive episodes. While medication significantly lowers the risk of severe episodes, it does not guarantee complete symptom elimination or full functional recovery for every individual. Many patients, once treated and compliant with medication, can lead successful lives and work in demanding professions such as nursing, law and other fields. However, some individuals become chronically ill, particularly when repeated episodes have caused lasting brain changes. In such cases, even when relatively stable, they do not experience extreme highs or lows, but they may continue to exhibit residual symptoms that impair their ability to function effectively.[44]
+Individuals with bipolar affective disorder can maintain healthy relationships and interact positively with friends, family or a significant other when they are stable and adherent to their medication. However, when they are not stable, they often experience significant difficulties in sustaining these relationships.[45]
+Individuals diagnosed with bipolar disorder may become suicidal during a manic episode. They can also become impulsive and engage in activities that lead to serious financial consequences. Common behaviours include excessive gambling, spending money they do not have and making unrealistic plans or business deals. These decisions are typically made without considering the consequences, and the individual may later realize the impact of their actions.[46]
+(2) Issuance of a Certificate Under the Mental Health Act [45] Dr. Rana’s testimony on the issuance of a certificate under the Mental Health Act can be summarized as follows:
+A certificate for involuntary admission is typically issued when an individual exhibits behaviour that is significantly disruptive or raises concerns about potential self-harm or harm to others. The process may be initiated upon receipt of information from a family member, neighbour or other concerned party reporting such behaviour to the hospital. Following this, a psychiatric assessment is conducted. If, during the evaluation, the psychiatrist determines that the individual requires hospitalization for their safety or the safety of others, the psychiatrist can issue a certificate.
+Once the individual has been admitted to the hospital under a certificate, a psychiatrist will conduct an examination. If necessary, the psychiatrist will complete Form 20, as prescribed by the Mental Health Act for the initial period of involuntary hospitalization. Within 48 hours, a second examination must be conducted by a different physician. With the second assessment, a second psychiatrist will determine if a continued hospitalization under the certificate is required.
+After the second certificate is issued, the individual may remain hospitalized involuntarily for another month. Continued hospitalization requires periodic reassessment and renewal of certificates. After the first month, the patient must be re-examined. If criteria are still met, a new certificate is issued for another three months of hospitalization. Thereafter, each renewal authorizes hospitalization for six months. Each renewal requires an assessment by a psychiatrist.[47]
+Under the Mental Health Act, a certificate is required for an individual to be either kept in a hospital setting or maintained in the community on extended leave. Patients on extended leave remain under the care and responsibility of the hospital. They are required to comply with all conditions of their treatment plan, which typically includes the following:
+-Attending scheduled appointments at the hospital or designated clinic,
+-Receiving prescribed medications as directed, and
+-Adhering to all clinical instructions provided by their treatment team.[48]
+Non-compliance with these conditions may result in the patient being returned to the hospital for inpatient care until their condition stabilizes and they are able to meet the requirements of their treatment plan.[49]
+Pursuant to the Mental Health Act, three categories of certificates can be issued for individuals with bipolar affective disorder such as John Doe. These categories are the following:
+1-Patients under certificate in the hospital. These are individuals who are involuntarily admitted and physically detained in a hospital setting under a valid certificate.
+2-Patients under certificate in the community (Extended Leave). These are individuals who remain under hospital care while residing in the community. They are subject to a treatment plan and must comply with all prescribed conditions, including attending appointments and taking medications.
+3-Individuals not under a certificate. These are individuals who are not subject to involuntary admission or extended leave and therefore are not legally required to follow a treatment plan under the Mental Health Act.[50]
+To admit an individual under a certificate of extended leave, a physician must complete Form 4 (now Form 4.1). This form requires the physician to confirm that the individual has a disorder of the mind requiring treatment and to affirm that the disorder seriously impairs the person’s ability to react appropriately to their environment or to associate with others. In addition, the physician must provide a written justification explaining why extended, rather than full hospitalization is clinically appropriate for the individual.[51]
+Extended leave certificates are typically issued for individuals who demonstrate noncompliance with treatment or have a history of repeated hospitalizations. These individuals do not believe they have a mental illness requiring treatment. As a result, they often discontinue their medication, which significantly increases the likelihood of relapse.[52]
+(3) John Doe’s Diagnosis and Medical Condition [46] Dr. Rana’s testimony on John Doe’s diagnosis and medical condition can be summarized as follows:
+John Doe was diagnosed with bipolar affective disorder in March 2013, before Dr. Rana became his psychiatrist. His diagnosis has not changed since 2013.[53]
+Dr. Rana stated that John Doe is chronically ill. He cannot function normally despite taking medication.[54]
+Dr. Rana testified that, when John Does is manic, he is psychotic. On one occasion, a few years ago, John Doe jumped from the balcony because he believed he could fly. Dr. Rana stated that this was a psychotic event. However, she had a feeling that he might have wanted to commit suicide, but she cannot be sure of it.[55]
+John Doe has been involuntarily admitted to hospitals on multiple occasions under certificates. John Doe was admitted under a certificate in 2012, in February 2013, in August 2013, twice in May 2014, in December 2015 and in January 2020. John Doe has also been on extended leave certificates multiple times. He was most likely on extended leave between 2015 and 2020.[56]
+John Doe has been on a certificate of extended leave because of his history. He has been non-compliant with his medications on multiple occasions and hospitalized several times. Sometimes, he was so disruptive in the community that the police were called.[57]
+John Doe’s certificate of extended leave lapsed in 2022 and was not renewed. Although the certificate expired, he still meets the criteria under the Mental Health Act. He is a person with a disorder of the mind that requires treatment and that seriously impairs his ability to react appropriately to his environment or to associate with others. The reason the extended leave was not renewed is that he was attending scheduled appointments and receiving daily witnessed medication. Currently, Dr. Rana observes more symptoms of lack of motivation and social withdrawal, rather than manic behaviour, aggression or risk to self or others. Joh Doe appears stable in terms of mood but remains disengaged from community activities.[58]
+The reason why John Doe is not currently under a certificate was that, at the present time, while he does have a serious mental disorder, lacks insight and is not functioning well, he is not causing harm to himself or others. For this reason, he does not meet the immediate criteria for a certificate to be issued.[59]
+John Doe is on a daily witnessed medication regimen, meaning a pharmacy staff member visits his residence each day to administer the medication and confirm that it has been swallowed. This consistent supervision ensures adherence to treatment and is a key factor in the decision not to renew his certificate after 2022.[60]
+John Doe most likely has impaired judgment.
+In 2020, an occupational therapist conducted a functional assessment, which revealed that John Doe’s home was extremely cluttered and dirty, with indications of hoarding behaviour. Following this, efforts were made to help John Doe set small goals to clean his house, but these goals were never achieved, and the house remained unclean.[61]
+An assessment was performed in 2020, which evaluates cognitive functions such as memory, attention and concentration. John Doe scored 22 out of 30, indicating mild cognitive impairment and suggesting that his brain is not functioning optimally. A higher score reflects better cognitive performance, with a score of 30 out of 30 considered normal.[62]
+Dr. Rana’s team has been unsuccessful in engaging John Doe in meaningful activities. As a next step, she has referred him to the Assertive Community Treatment (“ACT”) team, which provides intensive hands-on support by visiting clients in their homes and actively involving them in daily activities. Additionally, a new occupational therapy assessment has been requested, but it has not yet been completed.[63]
+John Doe may still be driving, and generally, Dr. Rana would not intervene unless there is a significant safety concern.[64]
+John Doe resides in a house owned by his ex-wife. Dr. Rana has never met his ex-wife and does not know the circumstances that led to him living in that residence. Neither an occupational therapist nor anyone on her team at the hospital is involved in managing his financial obligations, such as paying bills for internet or heating. She is unaware whether he pays rent to his ex-wife.[65]
+She is aware that he receives money from the government. Her team generally does not get involved in a patient’s financial matters. However, intervention may occur if there are concerns such as the patient being manic and spending money inappropriately, or if there is a risk that the patient could get into serious financial trouble. Otherwise, the team does not intervene in financial issues.[66]
+Usually, a case manager handles a patient’s living situation. However, the case manager would consult her if there were concerns, such as the patient being at risk of homelessness. She has spoken to John Doe’s brother in the past to obtain information, such as how he is doing and whether there are any safety concerns or indications that he is not doing well. Sometimes John Doe’s brother contacts the case manager directly. As a psychiatrist, she typically does not deal with these matters, as they fall primarily under the case manager’s responsibilities. She was shown photographs of his living situation by the occupational therapist who conducted the functional assessment. She described the washroom as “so filthy dirty” and noted that the overall condition of the house “was really bad.”[67]
+Dr. Rana was asked whether John Doe would be able to give instructions to a lawyer if one were to be retained for him. Dr. Rana stated that, to know the answer, John Doe will need to have a cognitive assessment done to determine “his concentration, his memory, how much he understands, his comprehension.”[68] This would need to be done “by a psychologist who do [sic] a proper assessment of his cognitive functions.” Dr. Rana stated that there is no psychologist with Burnaby Psych Services. Dr. Rana stated that she did not think John Doe would arrange a psychologist for himself, as he “has no motivation. He doesn’t do anything.” Therefore, Dr. Rana stated that “we need to arrange something” for him “to have a proper psychological assessment done to know what his cognitive functions are and whether he able [sic] to process information and all that kind of stuff.” After a “neuro psych assessment” is done, Dr. Rana agreed with Justice Ouimet that “a psychologist would be able to tell this court if he's able to give instructions, pay the bill, understand if the bills are accurate”.[69]
+In her experience, if a patient has dementia for example, and does not have anyone to manage their finances, her team will involve the PGT. However, in his case, she confirmed that she has not involved the PGT.[70]
+She explained that she is unable to provide a definitive answer regarding John Doe’s capabilities because, during office visits, he only responds to very basic questions and does not spontaneously engage in conversation or provide detailed information. This makes it difficult to assess his functional abilities. Dr. Rana emphasized the significant deterioration she has observed in his mental state, noting the contrast between his previous role as a vice president at a bank and his current inability to manage basic self-care, such as personal hygiene.[71]
+If the results of the psychological assessment indicate that John Doe can manage his own appeals and represent himself, she would be able to recommend appropriate accommodations to the Court.[72]
+He is currently relatively stable, meaning he does not have all the symptoms of mania or depression, because of taking his medication. However, he is not functioning because he is isolated, and his house is a mess. He does not do anything. He watches television and stays in his bed.[73]
+John Doe writes books on finances that make no sense.
+John Doe does not get engaged in any sort of activities. He is not functioning.[74]
+She does not think that his prognosis for the future is that good.[75]
+When she was asked whether she believed John Doe could represent himself, she stated that it is a “possibility” but emphasized that she cannot provide a definitive opinion without the results of a neuropsychological and cognitive assessment conducted by a psychologist, which would determine “how his brain is working.”[76]
+John Doe stated that he has a driver’s licence and that he drives. John Doe said that he pays utility bills on his computer using his Visa card. John Doe stated that he goes to the grocery store to buy groceries, cooks for himself, and pays for groceries with his Visa card.[77]
+John Doe stated that he sets reminders on his iPhone for when he must go to Court or to medical appointments.[78]
+B. John Doe’s Testimony V. HMTK’S POSITION [47] Counsel for HMTK’s submissions can be summarized as follows:
+While John Doe has a mental illness, it does not necessarily mean that he is under a legal disability. He is no longer under certification under the Mental Health Act, but even when he was, that too did not mean that he was under a legal disability. Having heard Dr. Rana’s testimony, counsel submits the Court can now determine whether John Doe is a mentally incompetent person. If the Court concludes that he is a mentally incompetent person, it will mean that he is under a legal disability.[79]
+The onus is on John Doe to demonstrate a sufficient lack of mental capacity. An adult is presumed capable unless proven otherwise. The specific wording of the Adult Guardianship Act, section 3, “Presumption of capability” is as follows:
+(1) Until the contrary is demonstrated, every adult is presumed to be capable of making decisions about the adult’s personal care, health care and financial affairs.
+(2) An adult’s way of communicating with others is not grounds for deciding that he or she is incapable of making decisions about anything referred to in subsection (1).[80]
+The testimonial evidence must be reviewed considering numerous factors, and in undertaking this, the testimony of Dr. Rana should be highly regarded. Dr. Rana has been John Doe’s psychiatrist for over a decade. She sees him regularly and is in the best objective position to provide in-depth information and details about his current and ongoing mental health.[81]
+The Court should take into consideration certain factors to determine whether John Doe is under a legal disability. These factors are derived from the Mental Health Act and various court decisions. A consideration of these factors will lead to the determination of whether John Doe is under a legal disability.[82]
+The approach taken by the Courts is to make a global assessment of John Doe’s ability to conduct his appeals. The jurisprudence suggests numerous factors to take into consideration to reach the determination of whether a person is under a legal disability. The Court can consider these factors by asking the following questions:
+1. Is John Doe’s ability to associate with others impaired?
+2. Is John Doe significantly impaired in his ability to conduct his affairs in his own home?
+3. Is John Doe significantly impaired in his ability to react appropriately in his community, i.e., outside of his home?
+4. Can John Doe conduct his litigation?
+5. Does John Doe understand what he has appealed?
+6. Can John Doe exercise judgment respecting the issues under appeal and possible settlement?
+7. Could John Doe understand legal advice if it was given, and could he instruct counsel and understand the possible results of his instructions?
+8. Does John Doe understand the judge’s role and HMTK’s role?
+9. Does John Doe understand what it would mean if his appeal was dismissed or if it was allowed?
+10. Is John Doe’s appearance, demeanour, testimony and ability to travel to the hearings indicative of a finding of mental competence or mental incompetence?
+11. Is there persuasive medical or psychological evidence to prove that John Doe lacks the capacity to continue with his appeals?[83]
+The factors listed above are derived from the Mental Health Act and various court decisions. A consideration of these factors will lead to the determination of whether John Doe is under a legal disability.[84]
+Rule 20-2 of the British Columbia Supreme Court Civil Rules (“BC SCCR”) is in respect of “Persons under Disability”. The Rule has been affirmed by various decisions as a complete code respecting commencement and conduct of proceedings for persons under disability. However, recently, the BC SCCR has been described as “procedural and not a complete code that would oust the potential exercise of the court’s inherent jurisdiction” in situations that those rules do not contemplate.[85]
+Further to paragraph 20-2(8)(a) of the BC SCCR, a “mentally incompetent person” is a person under “legal disability”. The BC Interpretation Act states that a “mentally incompetent person” is “a person with a mental disorder as defined in section 1 of the Mental Health Act”.[86]
+The definition of a “person with a mental disorder” in section 1 of the Mental Health Act is a “person who has a disorder of the mind that requires treatment and seriously impairs the person’s ability to react appropriately to the person's environment or to associate with others”:
+The “person’s environment” contemplates “the larger community of which the person is a part and in which the person interacts with others. It is not the environment of the court system and process alone”.[87]
+The Supreme Court of British Columbia (“BCSC”) has stated that the overarching test for “legal disability” is “whether a person is significantly impaired in their ability to conduct their affairs in the broader environment of their community”.[88]
+The “person’s environment” and the “broader environment” imply that it is important to consider the person’s day-to-day affairs, inside and outside the home.
+The British Columbia Court of Appeal confirmed that under existing jurisprudence, “legal disability” means that the person is not capable of conducting litigation, exercising judgment in relation to the claims in issue and possible settlement or instructing counsel.[89]
+More specifically, the BCSC frequently looks to the 1994 Wirtanen case, which identified a non-exhaustive list of factors to consider in the determination of legal disability:
+- Is the plaintiff cognizant of the facts giving rise to the cause of action? For example, is the plaintiff aware that there was a motor vehicle accident, that she was injured and may be able to sue and collect money?
+- Does the plaintiff understand the nature and purpose of the proceedings, including the respective roles of judge, jury and counsel?
+- Does the plaintiff comprehend the personal import of the proceedings? Is she able to form a rational judgment about the effect of the action on her interests? Specifically, she must be able to understand what costs mean and comprehend enough of the information provided to her to appreciate the consequences of winning and losing.
+- Is the plaintiff able to comprehend legal advice being given to her? Is she able to instruct counsel and make critical decisions on counsel’s advice?[90]
+The Ontario Court of Appeal has reviewed “potential indicators of the capacity to commence a proceeding” in light of a person’s mental capacity and possible litigation disability. Those indicators (or factors) should be relevant in deciding whether John Doe has the capacity to continue his proceedings. They include whether the person appreciates the consequences and effects of his choices or decisions, understands the nature of his litigation, would be able to “choose and keep counsel” or would be able to “represent himself”, and can “distinguish between the relevant and irrelevant issues”.[91]
+The person would “usually require persuasive medical or psychological evidence to prove that they lacked the capacity to commence the proceeding.” The Ontario Court of Appeal also suggested “other indicators of capacity,” such as the potential litigant’s appearance, demeanour and testimony, “ability to travel, instruct counsel, swear affidavits and make decisions affecting legal rights”.[92]
+VI. DISCUSSION A. The Law (1) Determining Whether a Taxpayer is Under a legal Disability Under the Tax Court Rules (a) Implied Jurisdiction of the Tax Court of Canada to Determine Whether a Taxpayer is Under a Legal Disability Pursuant to the Tax Court Rules [48] This Court is of the opinion that it has the implied jurisdiction by necessary implication to determine whether a taxpayer is under a legal disability pursuant to the Tax Court Rules. In Canada v Dow Chemical Canada ULC,[93] the Federal Court of Appeal described the Tax Court of Canada’s jurisdiction by necessary implication as follows:
+In Windsor (City) v. Canadian Transit Co., 2016 SCC 54, at paragraph 33, the Supreme Court of Canada found that the Federal Court does not have any inherent jurisdiction, but rather only the jurisdiction conferred on it by statute. Since the Tax Court is also a statutory court, this finding applies equally to the Tax Court. …
+Although the Tax Court does not have any inherent jurisdiction, it does have an implied jurisdiction by necessary implication. In R. v. Cunningham, 2010 SCC 10, at paragraph 19, the Supreme Court of Canada confirmed that statutory courts have an implied jurisdiction by necessary implication to carry out the functions of a court. Since the Tax Court is a statutory court, it also has this implied jurisdiction. Therefore, “… the powers conferred by an enabling statute are construed to include not only those expressly granted but also, by implication, all powers which are practically necessary for the accomplishment of the object intended to be secured by the statutory regime …” (ATCO Gas and Pipelines Ltd. v. Alberta (Energy and Utilities Board), 2006 SCC 4, at paragraph 51).[94]
+[Emphasis added.]
+[49] Consequently, even if this Court does not have the inherent jurisdiction of superior courts, that is, the authority to control its process, prevent abuses of process and ensure that the machinery of the court functions in an orderly and effective manner, this Court has the implied jurisdiction by necessary implication to carry out the functions of a court. Therefore, this Court can decide on whether a taxpayer is under a legal disability under the Tax Court Rules.
+(b) Rules Applying to an Appeal Before the Tax Court of Canada When a Taxpayer is Under a Legal Disability [50] Pursuant to section 29.1 of the Tax Court Rules, the representative of a party under a legal disability shall institute or continue a proceeding on behalf of that party. Therefore, a taxpayer under a legal disability must have a representative for any proceeding before this Court. Section 29.1 reads as follows:
+29.1 Unless the Court orders otherwise, the representative of a party under a legal disability shall institute or continue a proceeding on behalf of that party.
+[51] Pursuant to subsections 30(1) and 30(3) of the Tax Court Rules, a party to a proceeding who is an individual may act in person or be represented by counsel. Unless the Court orders otherwise, a person who is the representative of a party under a legal disability in a proceeding shall be represented by counsel, except where that person is also counsel acting in such a capacity. Consequently, a taxpayer under a legal disability cannot appear or represent themselves in any proceeding before this Court, unless the Court orders otherwise.
+[52] Section 30 reads as follows:
+30(1) Subject to subsection (3), a party to a proceeding who is an individual may act in person or be represented by counsel.
+(2) Where a party to a proceeding is not an individual, that party shall be represented by counsel except with leave of the Court and on any conditions that it may determine.
+(3) Unless the Court orders otherwise, a person who is the representative of a party under a legal disability in a proceeding shall be represented by counsel, except where that person is also counsel acting in such a capacity.
+[53] After a review of the jurisprudence under section 29.1 of the Tax Court Rules, it appears that this Court has not previously encountered a situation like that of John Doe. If it has, no written reasons have been issued to my knowledge.
+[54] In cases where the Tax Court Rules and the case law do not provide the necessary direction, such as in this case, this Court has turned to local rules of civil procedure for guidance.[95] John Doe resides in the province of British Columbia, and his appeals are scheduled to be heard in British Columbia.
+[55] Consequently, the Court has concluded that the determination of whether John Doe is under a legal disability under the Tax Court Rules must be made according to the law of the province of British Columbia.
+(c) Rules Applying to Proceedings Before the Supreme Court of British Columbia When a Person is Under a Legal Disability [56] British Columbia’s Supreme Court Civil Rules (the “BC Rules”),[96] contain a rule that is very similar to section 29.1 and subsection 30(3) of the Tax Court Rules. Rule 20-2 of the BC Rules governs proceedings instituted or carried on by a person under “legal disability”. Pursuant to Rule 20-2(8)(a) of the BC Rules, section 29 of the Interpretation Act,[97] and section 1 of the Mental Health Act,[98] a person under a “legal disability” is a “person with a mental disorder”, meaning a person who has a disorder of the mind that requires treatment and seriously impairs the person’s ability to react appropriately to the person’s environment or to associate with others.
+[57] In Rai v Rai,[99] the Supreme Court of British Columbia stated the following on the subject:
+I note that Rule 20-2(2) of the Supreme Court Civil Rules, B.C. Reg. 168/2009 restricts the appointment of a litigation guardian to those suffering from a legal disability. The court has inherent jurisdiction to order a medical examination for the purposes of Rule 20-2: Boury v. Iten, 2019 BCCA 81 (B.C. C.A.) at para. 65.
+According to Rule 20-2(8)(a), persons under legal disability are infants or “mentally incompetent” persons. The phrase “mentally incompetent person” is defined in the Interpretation Act, R.S.B.C. 1996, c. 238, s. 29, to mean “a person with a mental disorder as defined by s. 1 in the Mental Health Act”.
+The following definition appears in the Mental Health Act, R.S.B.C. 1996, c. 288:
+“person with a mental disorder” means a person who has a disorder of the mind that requires treatment and seriously impairs the person’s ability to react appropriately to the person’s environment, or to associate with others.[100]
+[58] Consequently, if an appeal is heard in British Columbia, for the Court to conclude that a taxpayer is under a legal disability pursuant to the Tax Court Rules, it must determine whether the individual has a mental disorder, whether that disorder requires treatment and, if so, whether the disorder seriously impairs the person’s ability to respond appropriately to their environment or to associate with others. If the Court is presented with such evidence, the taxpayer will be under a legal disability under the Tax Court Rules and, therefore, must be represented by counsel.
+B. Analysis [59] As stated above, this Court must conclude that a taxpayer is under a legal disability pursuant to the Tax Court Rules if the individual has a mental disorder, the disorder requires treatment and the disorder seriously impairs the person’s ability to react appropriately to the person’s environment or to associate with others.
+[60] The evidence is that John Doe has a mental disorder that requires treatment and that the disorder seriously impairs his ability to react appropriately to his environment or to associate with others.
+[61] In her testimony, Dr. Rana stated that, while John Doe’s certificate of extended leave had lapsed in 2022 and was not renewed, she believes that he has a disorder of the mind requiring treatment and that his condition seriously impairs his functioning. Furthermore, the evidence is that John Doe is significantly impaired in his ability to conduct his affairs and that he does not have the mental capacity to commence a proceeding. The factors taken into consideration by this Court to come to this conclusion are the following:
+-John Doe is chronically ill. He cannot function normally despite taking medication.
+-John Doe has been involuntarily admitted to hospitals on multiple occasions under certificates.
+-John Does is manic and psychotic.
+-John Doe is mildly cognitively impaired.
+-John Doe has been under a certificate of extended leave because he has been taking his medication. John Doe is currently on a daily witnessed medication regimen, meaning a pharmacy staff member visits his residence each day to administer the medication and confirm that it has been swallowed.
+-According to Dr. Rana, currently, John Doe lacks motivation, and he is socially withdrawn. While he is stable, he remains disengaged from community activities.[101]
+-John Doe’s home was extremely cluttered and dirty, with indications of hoarding behaviour. He is unable to keep his house clean.
+-John Doe is currently unable to manage his basic self-care, such as personal hygiene.
+-Dr. Rana does not know whether John Doe is able to give instructions to counsel.
+-Dr. Rana stated that John Doe does not get engaged in any sort of activities and that he is not functioning.
+-Dr. Rana does not think that his prognosis for the future is good.
+VII. CONCLUSION [62] The Court has concluded that John Doe is a person who has a disorder of the mind that requires treatment and seriously impairs his ability to react appropriately to his environment and to associate with others.
+[63] The Court has also concluded that John Doe is significantly impaired in his ability to conduct his affairs and that he does not have the mental capacity to commence a proceeding.
+[64] Consequently, John Doe is a party under a legal disability for the purposes of the Tax Court Rules, and pursuant to section 29.1 and subsections 30(1) and 30(3) of the Tax Court Rules, John Doe must be represented by counsel for the purposes of his appeals.
+Signed at Ottawa, Canada, this 22nd day of January 2026.
+“Sylvain Ouimet”
+Ouimet J.
+CITATION:
+2026 TCC 17
+COURT FILE NOS.:
+2013-954(IT)G, 2015-3261(IT)G, 2019‑3239(IT)G, 2019-4191(IT)G
+STYLE OF CAUSE:
+JOHN DOE v
+HIS MAJESTY THE KING
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+June 9 and November 25, 2025
+REASONS FOR ORDER BY:
+The Honourable Justice Sylvain Ouimet
+DATE OF ORDER:
+January 22, 2026
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Nadine Taylor Pickering
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] Letter from John Doe to Jodi Gibson, Hearings Coordinator (12 July 2015).
+[2] The Minister allowed previously disallowed employment expenses in the amount of $30,600.45 and $94,408.65 in the 2005 and 2006 taxation years, respectively.
+[3] Docket: 2013-954(IT)G.
+[4] Docket: 2015-3261(IT)G.
+[5] Docket: 2019-3239(IT)G.
+[6] Docket: 2019-4191(IT)G.
+[7] Letter from Dr. Rana and Ms. Isley, Burnaby Mental Health and Substance Use Services, to Jodi Gibson, Hearings Coordinator (28 June 2016).
+[8] Letter from Dr. Rana and Ms. Isley, Burnaby Mental Health and Substance Use Services, to Jodi Gibson, Hearings Coordinator (28 June 2016), and Letter from Dr. Rana and Ms. Isley (15 April 2016), attached to the Letter from John Doe to the Court (20 May 2016).
+[9] RSBC 1996, c 288
+[10] Letter from Dr. Rana and Ms. Isley, Burnaby Mental Health and Substance Use Services, to Jodi Gibson, Hearings Coordinator (28 June 2016).
+[11] Letter from Ms. Fairbridge to Jodi Gibson (22 January 2016).
+[12] Letter from Dr. Rana and Ms. Isley (19 February 2016), attached to the letter from John Doe to the Court (19 February 2016).
+[13] Letter from Dr. Rana and Ms. Isley (15 April 2016), attached to the letter from John Doe to the Court (20 May 2016).
+[14] Letter from Dr. Rana and Ms. Isley to Jodi Gibson (28 June 2016).
+[15] Letter from Dominique Lamoureux to Dr. Rana and Ms. Isley (30 August 2016).
+[16] Letter from Dr. Rana to the Court (6 September 2016).
+[17] Letter from Dr. Rana to the Court (13 January 2017).
+[18] Letter from Dr. Rana to the Court (3 April 2017).
+[19] Letter from Dr. Rana to Ms. Taylor Pickering (19 June 2018).
+[20] Letter from Dr. Rana to Ms. Taylor Pickering (19 June 2018).
+[21] Letter from Dr. Rana to Ayesha Dawood, Registry Officer (31 May 2019).
+[22] Letter from Marnie Smith, Registered Social Worker, to the Court (22 January 2020).
+[23] Letter from Dr. Rana to the Court (4 April 2022).
+[24] Letter from Ms. Taylor Pickering to Dr. Rana (9 June 2022), attached as Ex. A to the Affidavit of Ms. Joan Toth, Legal Assistant (14 September 2022).
+[25] Letter from Ms. Taylor Pickering to Dr. Rana (9 June 2022), attached as Ex. A to the Affidavit of Ms. Toth (12 September 2022).
+[26] Affidavit of Ms. Toth (12 September 2022) at para 4.
+[27] Affidavit of Ms. Toth (12 September 2022) at para 5.
+[28] Letter from Dr. Rana to Ms. Taylor Pickering (18 July 2022), attached as Ex. C to the Affidavit of Ms. Toth (12 September 2022).
+[29] Affidavit of Ms. Toth (12 September 2022) at para 8.
+[30] Affidavit of Ms. Toth (12 September 2022) at para 9.
+[31] Affidavit of Ms. Toth (12 September 2022) at para 9.
+[32] Affidavit of Ms. Toth (12 September 2022) at para 11.
+[33] Status Hearing Transcript (13 September 2022), page 21, lines 9–20; page 30, lines 10–14; page 33, lines 1–6.
+[34] Adult Guardianship Act, s 1, “statutory property guardian”.
+[35] Adult Guardianship Act, s 1, “financial affairs”.
+[36] Adult Guardianship Act, s 32(1).
+[37] Adult Guardianship Act, s 32(2).
+[38] Adult Guardianship Act, ss 32(3) and 32(4).
+[39] Adult Guardianship Act, s 32(5).
+[40] Transcript of proceeding dated June 9, 2025, page 13.
+[41] Transcript of proceeding dated June 9, 2025, page 16.
+[42] Transcript of proceeding dated June 9, 2025, pages 16–17.
+[43] Transcript of proceeding dated June 9, 2025, page 18.
+[44] Transcript of proceeding dated June 9, 2025, page 18–21.
+[45] Transcript of proceeding dated June 9, 2025, page 19.
+[46] Transcript of proceeding dated June 9, 2025, page 19.
+[47] Transcript of proceeding dated June 9, 2025, pages 29–30.
+[48] Transcript of proceeding dated June 9, 2025, page 13.
+[49] Transcript of proceeding dated June 9, 2025, page 13.
+[50] Transcript of proceeding dated June 9, 2025, page 31.
+[51] Transcript of proceeding dated June 9, 2025, pages 39–40.
+[52] Transcript of proceeding dated June 9, 2025, pages 50–51.
+[53] Transcript of proceeding dated June 9, 2025, pages 15–16.
+[54] Transcript of proceeding dated June 9, 2025, page 22.
+[55] Transcript of proceeding dated June 9, 2025, page 23.
+[56] Transcript of proceeding dated June 9, 2025, pages 32 and 35–39.
+[57] Transcript of proceeding dated June 9, 2025, pages 26, 32, 35–39.
+[58] Transcript of proceeding dated June 9, 2025, pages 39 and 54.
+[59] Transcript of proceeding dated June 9, 2025, pages 54–55.
+[60] Transcript of proceeding dated June 9, 2025, page 55.
+[61] Transcript of proceeding dated June 9, 2025, page 57.
+[62] Transcript of proceeding dated June 9, 2025, pages 57–58.
+[63] Transcript of proceeding dated June 9, 2025, page 56.
+[64] Transcript of proceeding dated June 9, 2025, pages 64–65.
+[65] Transcript of proceeding dated June 9, 2025, page 77.
+[66] Transcript of proceeding dated June 9, 2025, page 76.
+[67] Transcript of proceeding dated June 9, 2025, pages 78–80.
+[68] Transcript of proceeding dated June 9, 2025, page 82.
+[69] Transcript of proceeding dated June 9, 2025, pages 85–86.
+[70] Transcript of proceeding dated June 9, 2025, page 87.
+[71] Transcript of proceeding dated June 9, 2025, page 104.
+[72] Transcript of proceeding dated June 9, 2025, page 106.
+[73] Transcript of proceeding dated June 9, 2025, page 24.
+[74] Transcript of proceeding dated June 9, 2025, page 24.
+[75] Transcript of proceeding dated June 9, 2025, pages 59–60.
+[76] Transcript of proceeding dated June 9, 2025, page 102.
+[77] Transcript of proceeding dated June 9, 2025, pages 116–18.
+[78] Transcript of proceeding dated June 9, 2025, page 120.
+[79] Respondent’s Written Submission Regarding Legal Disability, paras 1–2.
+[80] Respondent’s Written Submission Regarding Legal Disability, para 3.
+[81] Respondent’s Written Submission Regarding Legal Disability, para 4.
+[82] Respondent’s Written Submission Regarding Legal Disability, para 6.
+[83] Respondent’s Written Submission Regarding Legal Disability, para 5.
+[84] Respondent’s Written Submission Regarding Legal Disability, para 6.
+[85] Respondent’s Written Submission Regarding Legal Disability, para 7.
+[86] Respondent’s Written Submission Regarding Legal Disability, para 8.
+[87] Respondent’s Written Submission Regarding Legal Disability, para 9.
+[88] Respondent’s Written Submission Regarding Legal Disability, para 10.
+[89] Respondent’s Written Submission Regarding Legal Disability, para 11.
+[90] Respondent’s Written Submission Regarding Legal Disability, para 12.
+[91] Respondent’s Written Submission Regarding Legal Disability, para 13.
+[92] Respondent’s Written Submission Regarding Legal Disability, para 14.
+[93] Canada v Dow Chemical Canada ULC, 2022 FCA 70 [Dow Chemical].
+[94] Dow Chemical at paras 79–80.
+[95] See, for example, Merchant Law Group v Canada, 2008 TCC 49 at para 7.
+[96] BC Reg 168/2009.
+[97] RSBC 1996, c 238.
+[98] RSBC 1996, c 288.
+[99] Rai v Rai, 2019 BCSC 606.
+[100] Ibid at paras 3–5.
+[101] Transcript of proceeding dated June 9, 2025, page 54.

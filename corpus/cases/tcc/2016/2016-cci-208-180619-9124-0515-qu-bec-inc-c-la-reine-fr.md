@@ -1,0 +1,227 @@
+---
+title: "9124-0515 Québec Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/180619/index.do"
+last_modified: "2016-04-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 CCI 208"
+citation2: ""
+neutral_citation: "2016 CCI 208"
+decision_date: "2016-04-19"
+language: "fr"
+item_id: "180619"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2894
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:04:57.747000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "84a05c9049809dcc3b187d3cc08bd922e10115d59c5ba04f8acf8bbbcadeaa7f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 9124-0515 Québec Inc. c. La Reine
+
+- Citation: 2016 CCI 208
+- Decision date: 2016-04-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2894, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9124-0515 Québec Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-04-19
+Référence neutre
+2016 CCI 208
+Numéro de dossier
+2014-84(GST)I
+Juges et Officiers taxateurs
+Guy R. Smith
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2014-84(GST)I
+ENTRE :
+9124-0515 QUÉBEC INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 19 avril 2016, à Montréal (Québec).
+Devant : L'honorable juge Guy R. Smith
+Comparutions :
+Avocat de l'appelante :
+Me Michael Heller
+Avocat de l'intimée :
+Me Christian Lemay
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Partie IX de la Loi sur la taxe d’accise, dont l’avis est daté du 16 novembre 2012 portant le numéro 1021881, pour la période du 1er mai 2012 au 31 juillet 2012 est rejeté, sans frais, selon les motifs du jugement ci joints.
+Signé à Winnipeg, Manitoba, ce 23e jour de septembre 2016.
+« Guy Smith »
+Juge Smith
+Référence : 2016 CCI 208
+Date : 20160923
+Dossier : 2014-84(GST)I
+ENTRE :
+9124-0515 QUÉBEC INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Smith
+[1] La société 9124‑0515 Québec Inc. (l’« appelante »), aussi connue sous la dénomination sociale « Gestion Brière & Fils », interjette appel d’une cotisation établie en vertu de la Loi sur la taxe d’assise[1] (la « LTA ») selon laquelle le ministre du revenu du Canada (le « ministre ») lui a refusé un crédit de taxe sur les intrants (le « CTI ») au montant de 14 025,07 $ suite à l’achat d’un véhicule récréatif (le « motorisé ») d’une valeur de 310 000 $.
+[2] L’avis de cotisation est daté du 16 novembre 2012 et la période visée est du 1er mai au 31 juillet 2012.
+[3] Le ministre prétend que l’appelante ne peux réclamer le CTI en question puisque le motorisé n’a pas été acquis par l’appelante en vue d’être utilisé principalement dans le cadre de ses activités commerciales, contrairement à l’alinéa 199(2)a) de la LTA.
+[4] Dans l’alternative, le ministre prétend que l’appelante ne peux réclamer le CTI puisqu’il s’agit d’un véhicule récréatif qui a été acquis exclusivement pour la consommation et l’utilisation personnelle de son actionnaire principal, et que ce dernier n’a pas versé une contrepartie égale à la juste valeur marchande, contrairement aux alinéas 170(1)b) et c) de la LTA.
+[5] L’appelante pour sa part maintient que le motorisé a été acquis dans le cadre normal de ses activités commerciales comme société de gestion de biens meubles et immeubles, qu’il a servi notamment au développement d’affaires et à la prospection par des sociétés liées, et que, lorsqu’il a servi aux fins personnelles de son actionnaire principal, l’utilisation ou la location était à la juste valeur marchande.
+[6] L’audience a été entendue le 19 avril 2016, selon la procédure informelle.
+[7] Pour les motifs qui suivent, je suis d’avis que l’appel doit être rejeté.
+I. Sommaire des faits [8] Selon monsieur Éric Brière, l’appelante est une société de gestion de biens meubles et immeubles qui détient notamment un parc immobilier, des véhicules à moteur et des équipements de plomberie qu’elle loue à des tiers et à des sociétés liées, dont Plomberie Brière Inc. et Robert et Cie Ltée. Elle possède aussi quelques véhicules à usage personnel (Mercedes et BMW).
+[9] Les actions de l’appelante, de Plomberie Brière Inc. et de Robert et Cie Ltée. sont détenues à 100 % par monsieur Brière qui est aussi le président et directeur général.
+[10] Le 2 juillet 2012, l’appelante a fait l’acquisition d’un motorisé de marque Itasca, année 2012, modèle Ellipse pour la somme de 310 000 $. Le contrat de vente tenait compte d’un véhicule récréatif donné en échange d’une valeur de 32 400 $.
+[11] Le 5 juillet 2012, soit quelques jours après ladite transaction, monsieur Brière a cédé à l’appelante une roulotte à sellette, c’est‑à‑dire un « fifth wheel », de marque Caméo pour la somme de 35 000 $. Selon monsieur Brière, ce véhicule avait été acquis en 2004 et lui avait servi uniquement à des fins personnelles, notamment pour « les campings du Québec » et les voyages en Floride.
+[12] Selon monsieur Brière, il avait conçu l’idée de se servir du nouveau motorisé comme bureau ambulant pour faire du développement d’affaires pour ses compagnies liées et de la prospection. Entre‑temps, le motorisé a aussi servi à des fins personnelles pour lequel il a été facturé.
+[13] L’appelante a déposé en preuve une série de factures démontrant qu’elle facturait monsieur Brière et ses compagnies liées au taux de 2 000 $ plus taxe pour chaque semaine d’utilisation. Ce dernier a reconnu qu’il n’avait jamais acquitté aucune de ces factures et que le tout était réglé par une écriture comptable et notamment par la déclaration d’un dividende en fin d’année.
+[14] Pendant la période de 24 mois qui a suivi la date d’acquisition, monsieur Brière a été facturé pour 17 semaines d’utilisation personnelle tandis que les compagnies liées ont été facturées pour environ dix semaines. Selon le registre de kilométrage qui couvre seulement 13 mois, monsieur Brière a fait un voyage de 3 392 km à Myrtle Beach en Virginie pendant l’été 2012, un second voyage de 5 284 km pour se rendre en Floride ou il a laissé le motorisé de la fin décembre au début de mars 2012 et finalement, un voyage de 12 295 km de neuf semaines pendant l’été 2013 pour se rendre dans l’Ouest canadien, notamment en Alberta et en Colombie‑Britannique en passant par les États‑Unis.
+[15] Selon le registre de kilométrage, le motorisé a aussi servi pour environ 30 déplacements durant cette période, la grande majorité étant pour un jour dans la région de Granby et Sherbrooke.
+[16] Monsieur Brière maintient que le voyage dans l’Ouest canadien pendant l’été 2013 était dans le but de faire de la prospection et du dépistage de terrain pour ses clients et ses compagnies liés. Selon lui, le motorisé était organisé pour recevoir les clients. Il y avait un ordinateur, une imprimante et de l’équipement audio‑visuel pour faire des présentations. Il prétend qu’il y avait une remorque sur laquelle il transportait des modèles de ce qu’il pouvait fabriquer. Il a décrit son motorisé comme étant un « show‑room », équipé pour recevoir les clients.
+[17] Il maintient que ses efforts ont éventuellement porté fruit et soumet à l’appui une série de factures pour des services rendus en Colombie‑Britannique par Plomberie Brière Inc. à Mécan Hydro (du 20 septembre 2013 au 13 octobre 2013) et en Alberta à Industries de Moulage Polymax Inc. (du 3 septembre 2014 au 10 juin 2015). Ces factures suggèrent que Plomberie Brière Inc. a fourni du matériel, de l’équipement et de la main-d’œuvre pendant les périodes indiquées.
+[18] Plomberie Brière Inc. aurait de plus entrepris des démarches pour obtenir une certification auprès des autorités en Alberta au cours de 2014 et 2015. Tout en maintenant qu’il a toujours un bureau en Alberta, il explique que la chute du pétrole et le ralentissement économique qui a suivi, fait en sorte qu’il n’est plus vraiment présent dans l’Ouest canadien.
+[19] Monsieur Brière a aussi fait valoir qu’il avait pu faire du développement d’affaires en commanditant un certain Andrew Ranger qui participait à des courses d’auto NASCAR qui ont eu lieu à Edmonton au courant de l’été 2013. Le motorisé était stationné sur le site de l’activité et monsieur Ranger y est resté pour la durée de l’évènement plutôt que de prendre une chambre d’hôtel. Cette commandite aurait offert à monsieur Brière un accès privilégié aux évènements.
+[20] Le ministre pour sa part, a fait valoir que le véhicule récréatif qui a servi à monsieur Brière pour des fins personnelles pendant huit ans, a été donné en échange pour le motorisé en question, ce qui suggère nécessairement une continuité dans l’utilisation personnelle. Il note par ailleurs que la valeur d’échange, c’est‑à‑dire la valeur acceptée par le vendeur du nouveau motorisé, était différente du prix de vente de monsieur Brière à l’appelante, et ce, pour des raisons non expliqués.
+[21] Le ministre observe que le motorisé a surtout servi à des fins personnelles pendant les premiers douze mois et met en doute notamment que le voyage dans l’Ouest canadien était pour des fins d’affaires en notant que monsieur Brière était accompagné de son épouse et de son fils, et qu’il a seulement eu trois rencontres d’affaires. Il fait valoir de plus que l’exécution des contrats dans l’Ouest canadien en 2013 et 2014, tel qu’identifié ci‑haut, était pour des clients existants de la région de Granby.
+[22] Pour la question de la commandite, le ministre a fait valoir qu’il s’agissait plutôt d’un passe‑temps et d’une démarche personnelle de monsieur Brière.
+[23] Finalement, madame Johanne Hébert de la compagnie VR St‑Cyr, une compagnie de location de véhicules récréatifs a témoigné pour l’intimée. Elle reconnaissait le motorisé en question et a indiqué que ce genre de véhicule se louait du 1er septembre au 15 juin au taux de 4 500 $ par semaine et pour les mois de juillet et août, pour 5 000 $ par semaine plus les taxes.
+II. Le droit applicable [24] Le paragraphe 169(1) de la LTA énonce la règle générale pour le calcul d’un CTI en établissant les conditions qui doivent être satisfaites pour permettre à un inscrit de réclamer un CTI, notamment que le bien ou le service acquis doit servir aux fins de sa consommation, son utilisation ou sa fourniture dans le cadre de ses « activités commerciales » dont la notion est définie au paragraphe 123(1) de la LTA :
+« activité commerciale » Constituent des activités commerciales exercées par une personne :
+a) l’exploitation d’une entreprise (à l’exception d’une entreprise exploitée sans attente raisonnable de profit par un particulier, une fiducie personnelle ou une société de personnes dont l’ensemble des associés sont des particuliers), sauf dans la mesure où l’entreprise comporte la réalisation par la personne de fournitures exonérées;
+b) les projets à risque et les affaires de caractère commercial (à l'exception de quelque projet ou affaire qu'entreprend, sans attente raisonnable de profit, un particulier, une fiducie personnelle ou une société de personnes dont l'ensemble des associés sont des particuliers), sauf dans la mesure où le projet ou l'affaire comporte la réalisation par la personne de fournitures exonérées;
+c) la réalisation de fournitures, sauf des fournitures exonérées, d’immeubles appartenant à la personne, y compris les actes qu’elle accomplit dans le cadre ou à l’occasion des fournitures. (commercial activity).
+[Mon soulignement.]
+[25] La notion d’entreprise est aussi définie au paragraphe 123(1) de la LTA :
+« entreprise » Sont compris parmi les entreprises les commerces, les industries, les professions et toutes affaires quelconques avec ou sans but lucratif, ainsi que les activités exercées de façon régulière ou continue qui comportent la fourniture de biens par bail, licence ou accord semblable. En sont exclus les charges et les emplois. (business)
+[26] Le paragraphe 170(1) de la LTA impose ensuite des restrictions en prévoyant que le calcul du CTI n’inclut pas la taxe payable relativement à certains biens ou services. Cette disposition prévoit entre autres que :
+170(1) Le calcul du crédit de taxe sur les intrants d’un inscrit n’inclut pas de montant au titre de la taxe payable par celui-ci relativement aux biens ou services suivants :
+a) …
+a.1) …
+b) le bien ou le service acquis, importé ou transféré dans une province participante au cours d’une période de déclaration de l’inscrit, ou antérieurement, exclusivement pour la consommation ou l’utilisation personnelles — appelées « avantage » au présent alinéa — au cours de cette période, soit d’un particulier qui est le cadre ou le salarié de l’inscrit — ou qui a accepté ou a cessé de l’être — , soit d’un autre particulier lié à un tel particulier, sauf si, selon le cas :
+(i) l’inscrit a effectué, au profit de l’un de ces particuliers, une fourniture taxable du bien ou du service pour une contrepartie, qui devient due au cours de cette période, égale à la juste valeur marchande du bien ou du service au moment où la contrepartie devient due,
+(ii) aucun montant n’étant payable par le particulier pour l’avantage, aucun montant n’est inclus en application de l’article 6 de la Loi de l’impôt sur le revenu relativement à l’avantage dans le calcul de son revenu aux fins de cette loi;
+c) le bien fourni par bail, licence ou accord semblable au cours de la période de déclaration de l’inscrit, ou avant, principalement pour la consommation ou l’utilisation personnelles d’un des particuliers suivants au cours de cette période, sauf si l’inscrit a effectué au cours de cette période, au profit d’un tel particulier, une fourniture taxable du bien pour une contrepartie, qui devient due au cours de cette période, égale à la juste valeur marchande de la fourniture au moment où la contrepartie devient due :
+(i) si l’inscrit est un particulier, lui-même ou un autre particulier qui lui est lié,
+(ii) s’il est une société de personnes, le particulier qui en est un associé ou un autre particulier qui est le salarié, le cadre ou l’actionnaire de l’associé ou qui est lié à celui-ci,
+(iii) s’il est une personne morale, le particulier qui est son actionnaire ou un autre particulier qui est lié à celui-ci,
+(iv) s’il est une fiducie, le particulier qui est son bénéficiaire ou un autre particulier qui est lié à celui-ci.
+[Mes soulignements.]
+[27] Dans ExxonMobil Canada Ltd. c. R.[2], la Cour d’appel fédérale a repris comme suit les critères d’applications de l’alinéa 170(1)b) de la LTA.
+38. En vertu de l'alinéa 170(1)b), aucun CTI ne peut être demandé relativement à des biens ou services acquis « exclusivement pour la consommation ou l'utilisation personnelle » d'un employé (l'avantage), à moins que l'employé n'ait payé une contrepartie adéquate ou que l'avantage doive être, pour toute autre raison, être inclus dans le revenu en vertu de l'article 6 de la LIR (autrement dit, s'il ne constitue pas un avantage imposable).
+[Mon soulignement.]
+[28] Donc si le bien a été acquis, au cours de la période de déclaration de l’inscrit, « exclusivement pour la consommation ou l’utilisation personnelle » d’un particulier qui est un « cadre » ou un « salarié » de l’inscrit, ce particulier doit avoir payé à l’inscrit « une contrepartie adéquate » et aucun montant au terme de l’article 6 de la Loi de l’impôt sur le revenu[3] (la « LIR ») ne doit être inclus au revenu de ce particulier.
+[29] Dans l’alternative, l’alinéa 170(1)c) de la LTA prévoit une situation ou le bien en question est « fourni par bail (…) principalement pour la consommation ou l’utilisation personnelle » d’un cadre ou d’un actionnaire de l’inscrit. Suivant la formulation de cette disposition, aucun CTI ne peut être réclamé « sauf si l’inscrit a effectué une fourniture taxable du bien pour une contrepartie, qui devient due au cours de cette période, égale à la juste valeur marchande (…) ».
+[30] Le paragraphe 199(2) de la LTA prévoit que :
+199(2) Les règles suivantes s’appliquent à l’inscrit qui acquiert, importe ou transfère dans une province participante un bien meuble à utiliser comme immobilisation :
+a) la taxe payable par lui relativement à l’acquisition, à l’importation ou au transfert du bien n’est incluse dans le calcul de son crédit de taxe sur les intrants pour une période de déclaration que si le bien est acquis, importé ou transféré, selon le cas, en vue d’être utilisé principalement dans le cadre de ses activités commerciales;
+b) pour l’application de la présente partie, il est réputé avoir acquis, importé ou transféré le bien pour l’utiliser exclusivement dans le cadre de ses activités commerciales s’il l’a acquis, importé ou transféré, selon le cas, pour l’utiliser principalement dans ce cadre.
+[Mes soulignements.]
+[31] Dans Foote c. La Reine[4], le juge Angers présente un exposé détaillé de la jurisprudence portant sur l'interprétation du terme « principalement » :
+11. Les tribunaux se sont déjà penchés, dans des décisions antérieures, sur la question du sens à attribuer au mot « principalement ». Dans la décision Mid‑West Feed Ltd. v. M.N.R., 87 D.T.C. 394, le juge en chef Couture (tel était alors son titre), de la Cour canadienne de l'impôt, a conclu que le mot « principalement » signifie plus de 50 p. 100 de l'utilisation totale de l'actif. Dans l'arrêt Mother's Pizza Parlour (London) Ltd. v. The Queen, 88 D.T.C. 6397, le juge Pratte, de la Cour d'appel fédérale, a dit que, lorsque différentes parties du même bâtiment sont utilisées en permanence pour ce que l'on considère comme deux fins différentes, le facteur le plus important, lorsqu'il s'agit de déterminer la fin pour laquelle le bâtiment est principalement utilisé, est la superficie, dans le bâtiment, qui est utilisée pour chacune de ces deux fins.
+12. En l'espèce, l'appelante utilise deux habitations de l'immeuble à trois étages pour gagner un revenu locatif. Je puis fort bien comprendre que, pour l'appelante, l'objet du projet était la construction d'une résidence personnelle, mais je ne puis omettre de tenir compte de l'autre utilisation de l'immeuble. Il convient peut-être néanmoins de procéder à une appréciation qualitative. Dans l'arrêt Burger King Restaurants of Canada Inc. v. The Queen, 2000 D.T.C. 6061, la Cour d'appel fédérale a dit que la preuve qualitative doit être suffisamment convaincante et doit pouvoir être analysée de façon à amener la cour à modifier le résultat du critère quantitatif. L'appelante a peut-être investi plus d'argent dans sa propre habitation, mais la preuve ne suffit pas à permettre à la présente cour d'analyser une telle possibilité et de conclure que la preuve qualitative modifie le résultat du critère quantitatif. [...]
+[Mes soulignements.]
+[32] La présence des mots « en vue d’être utilisé » au paragraphe 199(2) de la LTA présuppose une intention au jour de l’acquisition. À cet effet, les tribunaux ont analysé l’utilisation réelle du bien afin de valider l’intention initiale de l’inscrit. Dans la décision Coburn Realty Ltd. c. R.[5], la Cour devait déterminer si les appelantes avaient droit à un CTI suite à l’acquisition d’un véhicule et d’un bateau en application du paragraphe 199(2) de la LTA. Le juge en chef Bowman (tel était alors son titre) a émis le commentaire suivant :
+9. L'extrait du paragraphe 199(2) où il est indiqué « [...] en vue d'être utilisé principalement dans le cadre de ses activités commerciales » renferme des notions de but ou d'intention. La version anglaise de la disposition est compatible avec cette interprétation :
+[...] for use primarily in commercial activities [...].
+10. Les énoncés que fait le contribuable de ses buts et de ses intentions ne sont pas nécessairement et toujours le fondement le plus fiable sur lequel une question de ce genre peut être tranchée. L'utilisation réelle du bien constitue souvent la meilleure preuve du but de l'acquisition. Dans la décision 510628 Ontario Ltd. v. R., [2000] G.S.T.C. 58, 2000 G.T.C. 877 (T.C.C. [Informal Procedure]), il est indiqué ce qui suit :
+[11] Il y a lieu de noter que l'expression « en vue d'être utilisé [...] » nécessite la détermination de l'objet de l'acquisition, non de l'utilisation réelle. Néanmoins, je crois qu'en pratique, si un bien est utilisé en fait principalement à des fins commerciales, il est raisonnable d'inférer qu'il a été acquis à ces fins.
+11. Je me penche donc sur l'utilisation réelle du bateau. M. Coburn a témoigné que le bateau était utilisé pour recevoir des clients et récompenser ses vendeurs. Il a fait savoir que l'appelante cherchait à étendre ses activités à l'exploitation du marché immobilier de la région du chalet. J'accepte le fait qu'il voulait étendre les activités commerciales de l'appelante, mais je ne suis pas convaincu que le bateau était utilisé ou qu'il avait été acquis en vue d'être utilisé principalement dans le cadre des activités commerciales de l'appelante. Bien que j'estime que le bateau avait probablement été utilisé à des fins commerciales de temps à autre, les éléments de preuve relatifs à l'utilisation réelle du bateau n'appuient pas la conclusion selon laquelle il a été acquis en vue d'être utilisé principalement dans le cadre des activités commerciales de l'appelante.
+12. En règle générale, il est considéré que le terme «principalement» équivaut à une proportion de plus de 50 %. Toutefois, le problème qui se pose est celui de savoir à quoi il faut appliquer le 51 %. Faut-il l'appliquer à la durée de l'utilisation du bateau, au nombre de sorties en bateau, à la distance parcourue, au nombre de passagers, à la durée du voyage, à la valeur des affaires conclues ou au nombre de visites de terrains qui pourraient être vendus? Tous ces facteurs peuvent être pertinents et ils permettent de constater qu'il est difficile d'appliquer un critère mécanique à la situation. Il s'agit, en fin de compte, d'une question de jugement et de bon sens.
+13. L'appelante a présenté en preuve un certain nombre de pages qu'elle décrit comme étant un registre qu'elle a établi à la fin de la saison suivant les conseils de son comptable. M. Coburn a dit que le registre a été [traduction] « reconstitué », mais cela n'est pas exact. Si une chose a été « reconstituée », il va de soi qu'elle existait déjà et pouvait être « reconstituée ». Il est impossible de reconstituer quelque chose qui n'existait pas. Il est plus juste de dire que le registre a été établi ex post facto ou après coup.
+[…]
+15. En résumé, il me semble que ce bateau très cher était utilisé principalement pour recevoir la famille et les amis. Il y avait peut-être un élément commercial, mais des clients n'étaient à bord qu'au cours de trois voyages et, sur les quelque 70 agents qui travaillaient pour l'appelante, il n'y en a qu'environ quatre qui ont été invités sur le bateau, le passager le plus fréquent étant Mardi Friesz, l'épouse de M. Coburn.
+16. Bien que j'accepte le fait que l'accomplissement d'un but commercial puisse comprendre un élément de plaisance, comme c'était sans doute le cas dans la présente affaire, je ne pense pas que la preuve présentée en l'espèce, y compris le registre établi après la fin de la saison, permet d'établir que le bateau avait été acquis dans le but central d'être utilisé principalement dans le cadre des activités commerciales de l'appelante. Aucun élément de preuve ne démontre que les agents qui gagnaient beaucoup d'argent étaient récompensés par une croisière en bateau ou que le bateau servait à accueillir d'éventuels clients ou à montrer à ceux-ci des chalets ou des maisons le long du fleuve St. Laurent.
+17. Dans l'éventualité où l'utilisation du bateau à des fins commerciales accroît au point où il peut être affirmé que cette utilisation constitue l'utilisation principale du bateau, l'appelante pourra obtenir un certain allègement dans une année ultérieure en vertu du paragraphe 199(3) de la Loi. Ce n'était pas le cas en 2003. Il aurait fallu que la preuve soit plus convaincante et exhaustive que celle qui a été présentée.
+[Mes soulignements.]
+[33] Dans 9180‑2801 Québec Inc. c. R.[6], la juge Lamarre (tel était alors son titre) devait déterminer si l’appelante avait droit de réclamer les CTI sur l’achat d’un véhicule qui était supposément utilisé par l’actionnaire dans une proportion de 60 % à des fins commerciales :
+11. […] Le test imposé par le paragraphe 199(2) de la LTA, en tant que tel, ne précise pas une période d'évaluation. Cette disposition législative exige que le véhicule ait été acquis en vue d'être utilisé principalement pour des fins commerciales. Il fallait donc que l'appelante démontre que telle était l'intention au moment de l'acquisition.
+[Mon soulignement.]
+[34] En appliquant le raisonnement de la décision Coburn, la Cour a rejeté la demande de CTI de l’appelante. La juge s’est exprimé ainsi :
+13. Dans la présente instance, la preuve ne démontre pas que selon l'utilisation réelle du véhicule automobile, l'intention au départ était de l'utiliser principalement pour des fins commerciales. L'appelante ne m'a pas apporté non plus de preuve suffisante établissant qu'au moment de l'acquisition, le but premier de cet achat était tel. En fait, si l'on regarde attentivement l'utilisation du véhicule dans le mois suivant l'achat, celui‑ci n'a été utilisé à toutes fins pratiques qu'à des fins personnelles. Par la suite, ce ne sont que dans les mois d'avril, mai et octobre 2009 que l'utilisation pour fins d'affaires a nettement dépassé l'utilisation personnelle. Dans tous les autres mois, à l'exception du mois de novembre où l'utilisation commerciale a légèrement dépassé l'usage personnel, ce dernier usage prédominait (voir le sommaire du registre des déplacements, pièce I-1, onglet 6).
+[Mes soulignements.]
+III. Analyse [35] Le témoignage de monsieur Brière confirme aux yeux de la Cour qu’il est un homme d’affaires dynamique et qu’il a connu un certain succès comme entrepreneur. Mais là n’est pas la question.
+[36] Il s’agit de revoir l’ensemble de la preuve afin de déterminer si, lors des périodes d’utilisation personnelle du motorisé, monsieur Brière a versé une contrepartie égale à la juste valeur marchande. Dans l’alternative, il s’agit de déterminer si l’appelante a acquis le motorisé en vue d’être utilisé principalement dans le cadre de ses activités commerciales.
+[37] Dans ce contexte, il est difficile de faire abstraction du fait, qu’au moment de l’acquisition du motorisé, monsieur Brière possédait déjà un véhicule récréatif qui lui a servi à des fins purement personnelles pendant près de huit ans. Il a admis que ce véhicule n’avait jamais servi à des fins commerciales et qu’il n’avait jamais été loué à ses compagnies liées.
+[38] Or, ce véhicule a été donné en échange lors de l’achat par l’appelante du motorisé en question mais la cession de monsieur Brière n’a été effectuée que quelques jours plus tard. De plus, la valeur d’échange était de 33 400 $ alors que l’acte de vente de monsieur Brière à l’appelante, daté quelques jours plus tard, était de 35 000 $. Aucune explication n’a été offerte pour la différence de prix.
+[39] Quant à l’utilisation du motorisé dans les douze mois qui ont suivis la date d’acquisition, l’appelante a remis un registre de kilométrage au ministre vers la fin septembre 2013, soit plusieurs mois après la demande du ministre. Ce délai, soulève des doutes quant à l’authenticité du registre et donne la nette impression qu’il a été confectionné de mémoire après les faits.
+[40] En présumant l’authenticité du registre pour les fins de cette analyse, j’arrive à la conclusion que le motorisé a surtout servi à des fins personnelles pendant la période de douze mois suivant la date d’acquisition. En fait, presque 70 % des déplacements étaient pour des fins personnelles et aucune explication a été offerte pour les multiples déplacements d’un jour entre le siège social et les villes avoisinantes pour visiter des « clients » pendant cette même période.
+[41] En plus d’avoir servi pour un voyage personnel d’environ quatre semaines presque immédiatement après la date d’acquisition, le motorisé a été stationné dans un parc de véhicules récréatifs en Floride à la disposition de monsieur Brière et de sa famille pour une période de presque dix semaines pendant l’hiver.
+[42] Le motorisé aurait ensuite servi pendant presque neuf semaines (été 2013) pour un voyage dans l’Ouest canadien d’environ 12 295 km en passant par les États‑Unis. Monsieur Brière était accompagné de sa conjointe et de son fils. Je suis loin d’être convaincu que ce voyage était pour des fins d’affaires étant donné la présence de sa famille et le peu de rencontres d’affaires qui ont eu lieu. De plus, la commandite de Andrew Ranger laisse croire que monsieur Brière poursuivait plutôt ses intérêts personnels ou son « hobby » pour les courses d’auto du genre NASCAR. De toute façon, il n’est pas nécessaire pour les fins de ce litige, que la Cour arrive à une conclusion définitive quant à l’utilisation du motorisé pendant l’été 2013.
+[43] L’appelante prétend qu’elle a droit au CTI suite à l’achat du motorisé soit en vertu de l’alinéa 170(1)b) ou c) de la LTA. Or, l’application de ces dispositions est problématique pour plusieurs raisons.
+[44] L’alinéa 170(1)b) de la LTA suppose dans un premier temps que le bien en question a été acquis par l’inscrit « exclusivement pour la consommation ou l’utilisation personnelle » d’un particulier qui est un cadre ou un salarié de l’inscrit. Or l’appelante prétend plutôt le contraire et maintient que le motorisé a été acquis dans le cadre de ses activités commerciales comme société de gestion de biens meubles et immeubles. Il y a donc une contradiction flagrante.
+[45] L’application de l’alinéa 170(1)c) de la LTA est également problématique puisque même si l’appelante a fourni le motorisé « par bail » pour la consommation ou l’utilisation de monsieur Brière pendant les semaines pour lesquelles il a été facturé, je suis loin d’être convaincu qu’il y a eu une fourniture taxable pour une contrepartie égale à la juste valeur marchande du bien. À cet effet, je préfère le témoignage de madame Hébert de la compagnie VR St‑Cyr puisqu’elle n’avait aucun intérêt dans cette affaire. Je conclus donc que la fourniture taxable était pour contrepartie nettement inférieure à la juste valeur marchande.
+[46] Étant donné ma conclusion quant à l’intention de l’appelante au moment de l’acquisition du motorisé, je suis d’avis qu’elle n’a pas droit au CTI pour la période en question puisque le motorisé a surtout servi aux fins personnelles de son actionnaire principal. Je suis donc d’avis que le motorisé n’a pas été acquis par l’appelante « en vue d’être utilisé principalement dans le cadre de ses activités commerciales » au sens de l’alinéa 199(2)a) de la LTA.
+[47] Je vais ajouter finalement que je n’écarte pas la possibilité que monsieur Brière a conçu l’idée de se servir du nouveau motorisé comme bureau ambulant pour faire du développement d’affaires pour ses compagnies liées et de la prospection, notamment dans l’Ouest canadien. Ceci dit, je suis d’avis que cette idée était tout au plus embryonnaire au moment de l’achat du motorisé.
+IV. Conclusion [48] Pour conclure, je suis d’accord avec l’analyse de l’intimée que l’appelante n’a pas droit au CTI puisque le motorisé a été acquis exclusivement pour la consommation ou l’utilisation personnelle de monsieur Brière et que ce dernier n’a pas versé une contrepartie adéquate (et il n’y a aucune preuve à savoir s’il a ou non déclaré un avantage en vertu de l’article 6 de la LIR) au sens de l’alinéa 170(1)b) de la LTA.
+[49] Deuxièmement, si j’accepte les prétentions de l’appelante que le bien a été fourni par bail au sens de l’alinéa 170(1)c) de la LTA, je suis aussi d’accord avec l’analyse de l’intimée que l’appelante n’a pas droit au CTI puisque monsieur Brière n’a pas versé une contrepartie égale à la juste valeur marchande.
+[50] Étant donné que j’ai conclu que le motorisé a été acquis exclusivement ou tout au moins principalement pour la consommation ou l’utilisation personnelle de monsieur Brière, il va de soi que je rejette l’argument de l’appelante que le motorisé a été acquis dans le cadre normal de ses activités commerciales comme société de gestion de biens meubles et immeubles ou que le motorisé a été acquis « en vue d’être utilisé principalement dans le cadre de ses activités commerciales » au sens de l’alinéa 199(2)a) de la LTA.
+[51] J’arrive à ces conclusions, ayant fait une analyse quantitative (en jetant un regard sur le registre de kilométrages et les semaines d’utilisation personnelle) de même qu’une analyse qualitative tenant compte de l’utilisation de l’ancien véhicule récréatif immédiatement avant l’acquisition du motorisé en question.
+[52] L’intimée a déposé en preuve une brochure avec des photos du motorisé en question. Il est clair qu’il s’agit d’un véhicule récréatif de luxe dont la rentabilité économique n’est possible que si la location est faite pour une contrepartie égale à la juste valeur marchande, ce qui n’a pas été le cas.
+[53] L’appelante avait le fardeau de la preuve. Elle devait convaincre la Cour sur la prépondérance des probabilités que le motorisé a servi ou a été loué à monsieur Brière pour une contrepartie adéquate ou qu’il a été acquis dans le cadre de ses activités commerciales pendant la période visée, soit du 1er mai au 31 juillet 2012. Je suis d’avis que l’appelante n’a pas renversé ce fardeau.
+[54] Pour les motifs qui précèdent, l’appel est rejeté sans dépens.
+Signé à Winnipeg, Manitoba, ce 23e jour de septembre 2016.
+« Guy Smith »
+Juge Smith
+RÉFÉRENCE :
+2016 CCI 208
+Nº DU DOSSIER DE LA COUR :
+2014-84(GST)I
+INTITULÉ DE LA CAUSE :
+9124-0515 QUÉBEC INC. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Le 19 avril 2016
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Guy R. Smith
+DATE DU JUGEMENT :
+Le 23 septembre 2016
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Michael Heller
+Avocat de l'intimée :
+Me Christian Lemay
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom :
+Me Michael Heller
+Cabinet :
+Heller et Associés
+Montréal, Québec
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L.R.C. (1985), ch. E-15, telle que modifiée.
+[2] 2010 CAF 1.
+[3] L.R.C. (1985), ch. 1 (5e suppl.).
+[4] 2007 CCI 46 [procédure informelle].
+[5] 2006 CCI 245 [procédure informelle].
+[6] 2011 CCI 129 [procédure informelle].

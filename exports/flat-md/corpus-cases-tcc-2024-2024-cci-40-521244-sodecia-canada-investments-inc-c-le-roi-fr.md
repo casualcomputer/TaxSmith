@@ -1,0 +1,225 @@
+---
+title: "Sodecia Canada Investments Inc. c. Le Roi"
+source: "https://norma.lexum.com/tcc-cci/decisions/fr/item/521244/index.do"
+last_modified: "2024-03-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2024 CCI 40"
+citation2: ""
+neutral_citation: "2024 CCI 40"
+decision_date: "2024-03-27"
+language: "fr"
+item_id: "521244"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5516
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2025-11-08T09:19:08.617000+00:00"
+cases_cited_count: 5
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b91b84fbde125c0645bbd18234b9e10c66c11a33da3d4d07f6150278a83c54cb"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sodecia Canada Investments Inc. c. Le Roi
+
+- Citation: 2024 CCI 40
+- Decision date: 2024-03-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5516, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sodecia Canada Investments Inc. c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2024-03-27
+Référence neutre
+2024 CCI 40
+Numéro de dossier
+2022-3160(IT)G
+Juges et Officiers taxateurs
+Guy R. Smith
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2022-3160(IT)G
+ENTRE :
+SODECIA CANADA INVESTMENTS INC.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[traduction française officielle]
+Requête présentée par l’intimé pour faire radier l’avis d’appel en vertu de l’alinéa 53(1)d) des Règles de la Cour canadienne de l’impôt (procédure générale) entendue à Toronto (Ontario), le 8 janvier 2024.
+Devant : l’honorable juge Guy R. Smith
+Comparutions :
+Avocat de l’appelante :
+Me John Sorensen
+Avocat de l’intimé :
+Me Brent E. Cuddy
+ORDONNANCE
+Conformément aux motifs de l’ordonnance ci-joints, l’appel interjeté à l’encontre de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2013 de l’appelante est par les présentes annulé, avec dépens en faveur de l’intimé.
+Signé à Ottawa (Ontario), ce 27ᵉ jour de mars 2024.
+« Guy R. Smith »
+Le juge Smith
+Traduction certifiée conforme
+ce 29e jour de septembre 2025.
+Guillaume Chénard, jurilinguiste principal
+Référence : 2024 CCI 40
+Date : 20240327
+Dossier : 2022-3160(IT)G
+ENTRE :
+SODECIA CANADA INVESTMENTS INC.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[traduction française officielle]
+MOTIFS DE L’ORDONNANCE
+Le juge Smith
+I. Aperçu [1] Il s’agit d’une requête présentée par l’intimé pour faire annuler l’appel d’une cotisation établie par le ministre du Revenu national (le « ministre ») en vertu de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.) (la « Loi »).
+[2] L’avis de cotisation est daté du 8 juin 2017 et porte sur l’année d’imposition 2013 de l’appelante (la « cotisation »). L’intimé soutient que l’appelante n’a pas rempli une condition préalable essentielle au dépôt d’un appel, car elle n’a pas signifié d’avis d’opposition dans les délais prévus par la Loi.
+[3] L’intimé soutient, par conséquent, que l’avis d’appel [traduction] « ne révèle aucun moyen raisonnable d’appel » et qu’il devrait être annulé, en se fondant sur l’alinéa 53(1)d) des Règles de la Cour canadienne de l’impôt (procédure générale).
+[4] L’appelante soutient que, même si la cotisation est datée du 8 juin 2017, l’Agence du revenu du Canada (« ARC ») a omis de l’envoyer par la poste à ce moment-là et qu’une copie a seulement été envoyée par la poste, à la demande de son représentant autorisé, le 6 juin 2022.
+[5] L’appelante soutient donc que la date exacte de l’envoi postal de la cotisation est le 6 juin 2022 et qu’elle a rapidement signifié un avis d’opposition. Par conséquent, la Cour est régulièrement saisie de l’appel et celui-ci doit être entendu sur le fond.
+[6] Pour les motifs qui suivent, la Cour conclut que l’appel devrait être annulé parce que l’appelante a reçu ou est réputée avoir reçu la cotisation le 8 juin 2017. L’appel est donc hors délai.
+II. Questions en litige [7] La question au cœur de cette requête est de savoir si l’appelante a reçu ou est réputée avoir reçu la cotisation le 8 juin 2017. Si la Cour conclut par l’affirmative, la requête doit être accueillie et l’appel annulé.
+[8] Autrement, si la Cour conclut que la cotisation a été envoyée par la poste à l’appelante le 6 juin 2022 et qu’un avis d’opposition a été signifié le 27 juin 2022, la requête doit être rejetée.
+III. Dispositions législatives applicables [9] Les dispositions législatives suivantes s’appliquent au présent appel :
+152(8) Présomption de validité de la cotisation – Sous réserve des modifications qui peuvent y être apportées ou de son annulation lors d’une opposition ou d’un appel fait en vertu de la présente partie et sous réserve d’une nouvelle cotisation, une cotisation est réputée être valide et exécutoire malgré toute erreur, tout vice de forme ou toute omission dans cette cotisation ou dans toute procédure s’y rattachant en vertu de la présente loi.
+[10] Les paragraphes 244(10), (14) et (15) figurent à la partie XV de la Loi, intitulée Administration et exécution, sous le sous-titre Procédure et preuve :
+244(10) Preuve de l’absence d’appel – Un affidavit d’un fonctionnaire de l’Agence du revenu du Canada, souscrit en présence d’un commissaire ou d’une autre personne autorisée à recevoir les affidavits, indiquant qu’il a la charge des registres appropriés, qu’il a connaissance de la pratique de l’Agence et qu’un examen des registres démontre qu’un avis de cotisation pour une année d’imposition donnée ou qu’un avis de détermination a été expédié par la poste ou autrement communiqué à un contribuable, un jour particulier, en conformité avec la présente loi, et qu’après avoir fait un examen attentif des registres et y avoir pratiqué des recherches il lui a été impossible de constater qu’un avis d’opposition ou d’appel concernant la cotisation ou la détermination ou qu’une demande visée au paragraphe 245(6), selon le cas, a été reçu dans le délai imparti à cette fin, doit être reçu comme preuve, sauf preuve contraire, des énonciations qui y sont renfermées.
+[…]
+244(14) Date d’envoi ou de mise à la poste – Pour l’application de la présente loi, la date d’envoi ou de mise à la poste d’un avis ou d’une notification, visés aux paragraphes 149.1(6.3), 152(3.1), 165(3) ou 166.1(5), ou d’un avis de cotisation ou de détermination est présumée être la date à laquelle cet avis ou cette notification a été envoyé par voie électronique ou posté, selon le cas.
+[…]
+244(15) Date d’établissement de la cotisation – Lorsqu’un avis de cotisation ou un avis portant qu’un montant a été déterminé a été envoyé par le ministre comme le prévoit la présente loi, la cotisation est réputée avoir été établie et le montant, déterminé à la date d’envoi de l’avis.
+[…]
+[11] L’article 248 figure à la partie XVII de la Loi, intitulée Interprétation, et contient un certain nombre de définitions, dont la suivante :
+248(7) Date de réception – Pour l’application de la présente loi :
+a) tout envoi en première classe ou l’équivalent, sauf une somme remise ou payée qui est visée à l’alinéa b), est réputé reçu par le destinataire le jour de sa mise à la poste; […]
+IV. Faits en cause [12] En guise de contexte, l’appelante était une non-résidente du Canada ayant un bureau à London, en Ontario. Le 17 avril 2013, elle a racheté 30 % de ses actions détenues par une société du Delaware et a retenu l’impôt au taux de 5 %.
+[13] Le 8 juin 2017, le ministre a établi une cotisation à l’égard de l’appelante totalisant 609 193 $ (y compris les pénalités et les intérêts) au motif que le taux de retenue approprié était de 15 %. L’avis d’appel déposé en l’espèce comporte d’autres détails.
+(1) Preuve de l’intimé [14] À l’appui de sa requête en annulation de l’appel, l’intimé a soumis trois affidavits préparés conformément au paragraphe 244(10) de la Loi. Tous les déposants ont été appelés à témoigner à l’audience.
+A – Michele Nguyen [15] Mme Nguyen était une agente du Bureau des litiges de Toronto de l’ARC. Elle a affirmé avoir une connaissance appropriée des dossiers et des pratiques de l’ARC et avoir examiné les dossiers précis concernant l’appelante.
+[16] Elle a fait référence à une base de données utilisée pour stocker toute la correspondance électronique envoyée aux contribuables dans un système appelé [traduction] « Correspondance sortante d’entreprise / Historique de la correspondance d’entreprise » ou « HCE ». Ce système indiquait que le ministre avait établi une cotisation à l’égard de l’appelante, alors connue sous le nom de Sodecia Canada Inc., pour l’année d’imposition 2013 au moyen d’un avis de cotisation daté du 8 juin 2017.
+[17] Une reproduction de la cotisation, intitulé « Avis de cotisation des non‑résidents », a été jointe à son affidavit. L’adresse postale était le 300, chemin Sovereign, London (Ontario).
+[18] Mme Nguyen a expliqué que l’ARC avait l’habitude de stocker les renseignements sur les contribuables, y compris l’historique des adresses, dans un ordinateur central et que sa recherche de ces dossiers a confirmé que l’adresse postale de l’appelante à compter du 19 décembre 2011 était le 300, chemin Sovereign, London (Ontario), mais qu’elle a été changée pour le 425, chemin Sovereign, London (Ontario), à compter du 9 juin 2020.
+[19] Les dossiers de l’ARC indiquaient que l’appelante n’avait pas déposé d’avis d’opposition à la cotisation, mais qu’elle prétendait l’avoir fait le 27 juin 2022. Dans une lettre datée du 31 août 2022, l’ARC a indiqué que le prétendu avis d’opposition ne pouvait pas être accepté puisqu’il n’avait pas été déposé dans les 90 jours suivant la date d’établissement de la cotisation.
+B – Grant Hutter [20] Comme il l’a indiqué dans son affidavit, M. Hutter s’est décrit comme un [traduction] « agent de programmes de la Section du soutien au système et des retenues à la source des non-résidents (les « RSNR »), Division des systèmes de la gestion des créances, Division de la technologie et des systèmes d’entreprise, Direction de la technologie et des renseignements d’entreprise de la Direction générale des recouvrements et de la vérification » de l’ARC. En raison de ses fonctions, il avait une connaissance personnelle de la façon dont l’ARC tenait à jour un rapport sommaire quotidien de la correspondance sortante automatisée d’entreprise (la « CSA ») des RSNR relatif à un avis de cotisation.
+[21] Il a fourni une explication détaillée des diverses étapes de la préparation et de l’impression du sommaire de la CSA des RSNR, qui ont mené à la création d’un rapport dont les dates d’exécution des cycles et le numéro de cycle correspondaient à la date d’envoi de l’avis de cotisation.
+[22] M. Hutter a expliqué plus particulièrement que le rapport sommaire de la CSA des RSNR était stocké de façon électronique dans un fichier Excel à des fins de référence ultérieure et qu’il avait consulté un tel rapport pour confirmer que la date de traitement était le 6 juin 2017, soit deux jours ouvrables avant la date réelle de la cotisation.
+[23] À la suite de ses recherches, il a été en mesure de déterminer que la cotisation avait été envoyée à partir du sommaire de la CSA des RSNR, soit le cycle de lots 1927 qui s’est déroulé le 6 juin 2017, avec une date d’avis du 8 juin 2017. Il a joint un rapport d’impression informatique dont le numéro de cycle était surligné et qui indiquait qu’il n’y avait pas d’erreur dans le cycle.
+[24] M. Hutter a également consulté ce qu’il a appelé le [traduction] « rapport quotidien de Summerside » pour l’année d’imposition 2013 imprimé faisant partie d’un fichier fourni à Summerside pour le cycle 1927. Il a expliqué que la quantité de tâches et la quantité totale de tâches ont été rapprochées du sommaire de la CSA des RSNR à des fins de continuité.
+C – Joanne Myers [25] Mme Myers a expliqué qu’elle était gestionnaire intérimaire de la [traduction] « Division de l’impression-courrier » au Centre fiscal situé à Summerside, à l’Île-du-Prince-Édouard, qu’elle était responsable des dossiers envoyés par la poste par la Division de l’impression-courrier et qu’elle connaissait les pratiques de l’ARC. Elle avait également examiné les dossiers électroniques imprimés de l’appelante dans le cadre de la cotisation pour l’année d’imposition 2013.
+[26] Elle a expliqué que l’ARC suivait un ensemble de procédures pour communiquer par écrit avec les contribuables et que l’une de ces procédures comprenait l’utilisation de deux centres d’« impression-courrier », l’un situé à Summerside à l’Île-du-Prince-Édouard, et l’autre, à Sudbury, en Ontario.
+[27] Mme Myers a expliqué que tous les renseignements devant figurer dans un avis de cotisation étaient formatés par voie électronique au moyen d’un processus automatisé et que les données étaient transmises par voie électronique à la Section de l’impression-courrier pour impression. Elle a indiqué que les avis de cotisation sont envoyés par la poste aux contribuables au plus tard trois jours ouvrables après la réception du fichier d’impression par le centre d’impression‑courrier.
+[28] Le centre d’impression-courrier était chargé d’imprimer les avis de cotisation, de les insérer dans des enveloppes et de les préparer en vue de leur collecte par Postes Canada. Les petites tâches de moins de 100 avis étaient insérées manuellement dans des enveloppes, tandis que les tâches plus importantes étaient effectuées au moyen d’une inséreuse à haute vitesse qui pliait mécaniquement les avis et les insérait dans des enveloppes.
+[29] Elle a expliqué que des [traduction] « rapports de contrôle » étaient préparés avec un [traduction] « bon de travail » pour surveiller et équilibrer les documents à imprimer et pour servir de contrepoids afin de réduire au minimum les risques. En outre, l’ARC a conservé un [traduction] « Rapport électronique d’envoi postal quotidien » indiquant les tâches quotidiennes d’envoi postal reçues, imprimées et postées.
+[30] Mme Myers a indiqué qu’elle avait examiné le [traduction] « Rapport électronique des envois postaux quotidiens » et la [traduction] « Déclaration électronique de Postes Canada » applicable de l’envoi postal et qu’elle avait conclu que les procédures appropriées avaient été suivies pour le cycle de la CSA 1927.
+[31] Elle a conclu en indiquant que le fichier imprimé contenant l’avis de cotisation de l’appelante daté du 8 juin 2017 a été reçu au centre d’impression‑courrier le 7 juin 2017 et remis à Postes Canada pour envoi le 8 juin 2017.
+(2) Preuve de l’appelante [32] Dans son dossier de réponse à la requête, l’appelante a présenté deux affidavits. Les deux déposantes ont témoigné ainsi qu’un ancien employé.
+A – Shirley Quick [33] Mme Quick a travaillé comme adjointe aux ressources humaines pour une société apparentée connue sous le nom de Sodecia Automotive London Inc. (« Sodecia »).
+[34] L’appelante et Sodecia ont partagé un espace de bureaux loué dans un immeuble industriel situé au 300, chemin Sovereign, à London, en Ontario, jusqu’en août 2017.
+[35] En juillet 2017, les bureaux et les bureaux de direction ont été déplacés temporairement au 2530, promenade Innovation, jusqu’en octobre 2017, puis au 425, chemin Sovereign, à London, en Ontario, de façon permanente.
+[36] Mme Quick a indiqué qu’elle avait aidé à emballer et à trier les fichiers du 300, chemin Sovereign, au 2530, promenade Innovation, puis au 425, chemin Sovereign. Pour autant qu’elle s’en souvienne, aucun renseignement financier ou fiscal n’a été supprimé des fichiers au fur et à mesure qu’ils ont été déplacés. Tous ces documents ont été entreposés dans des boîtes-classeurs ou déplacés dans des meubles‑classeurs verrouillés.
+[37] Elle s’occupait également de tout le courrier entrant au 300, chemin Sovereign. Le facteur entrait dans le hall par la porte d’entrée de l’immeuble et frappait sur une fenêtre en regardant dans le bureau. Si elle était présente, le courrier lui était remis. Si personne ne répondait, le courrier était laissé sur le seuil dans le hall à l’extérieur du bureau.
+[38] Elle avait l’habitude de remettre toute correspondance entrante de l’ARC à Wilma Luesink, contrôleuse de Sodecia. Mme Luesink a cessé de travailler pour Sodecia le 6 octobre 2017 et n’a pas déménagé à l’emplacement permanent du 425, chemin Sovereign.
+[39] Mme Quick a expliqué qu’il y avait un meuble‑classeur double avec quatre tiroirs, dont une partie était utilisée par Mme Luesink. Le premier tiroir était utilisé pour conserver les dossiers de l’entreprise et le deuxième tiroir, pour les dossiers fiscaux.
+[40] Mme Quick a indiqué qu’en 2023, elle a effectué une recherche dans ce meuble‑classeur en retirant tous les fichiers. Elle a été en mesure de trouver un fichier contenant des documents fiscaux qu’elle a fourni à Jose Antunes, le directeur de la comptabilité et de la fiscalité de Sodecia et de l’appelante.
+[41] Elle a conclu en disant qu’elle ne se souvenait pas d’un avis de cotisation adressé à l’appelante en juin 2017 et qu’elle n’a pas été en mesure d’en trouver un lorsqu’elle a effectué sa recherche dans les fichiers de Sodecia en 2023.
+B – Wilma Luesink [42] Mme Luesink a travaillé pour Sodecia de 1999 à octobre 2017. Au cours de la période en cause, elle travaillait comme [traduction] « comptable principale » et était responsable de toutes les questions financières, y compris le paiement des factures, de la déclaration de fin de mois, des états financiers ainsi que des prestations de soins de santé et de soins dentaires et de la paie pour plus de 100 employés. Elle n’avait pas de formation officielle et avait initialement travaillé dans le domaine des [traduction] « comptes créditeurs ».
+[43] Tout le courrier entrant concernant la TPS/TVH ou l’impôt lui était remis. La correspondance de l’ARC était ouverte et rangée dans le meuble‑classeur ou envoyée au directeur des finances ou encore une copie numérisée était envoyée au bureau américain. Elle ne s’occupait pas directement des questions fiscales.
+[44] Les bureaux de direction étaient situés à l’extérieur du hall principal et les installations de production étaient situées à l’arrière de l’immeuble. Elle a confirmé le témoignage de Mme Quick sur la façon dont le courrier était livré par le facteur, ajoutant qu’il n’y avait pas de réceptionniste pendant la période en cause. Elle a notamment confirmé que le courrier pouvait être laissé sur le seuil situé dans le hall, à l’extérieur du bureau.
+[45] Elle a également corroboré le témoignage de Mme Quick, indiquant qu’elle avait utilisé un meuble‑classeur situé à l’extérieur de son bureau dans un espace où se trouvaient aussi les postes de travail et les cubicules d’autres employés. Elle avait utilisé les deux tiroirs du haut de ce meuble‑classeur et le courrier de l’ARC était déposé dans le deuxième tiroir.
+[46] Mme Luesink était au courant du différend concernant une cotisation relative à l’année d’imposition 2013 de l’appelante, mais elle ne se souvenait pas précisément d’avoir vu l’avis de cotisation. Elle n’a pu que fournir ses souvenirs de la façon dont l’entreprise traitait le courrier entrant, y compris la correspondance de l’ARC.
+[47] Elle a confirmé que son équipe avait déménagé au 2530, promenade Innovation, en août 2017 et que le meuble‑classeur contenant les divers dossiers, y compris toute correspondance de l’ARC, avait été déplacé à cet endroit temporaire et placé près de son bureau.
+[48] Elle n’avait aucune connaissance de la manière dont les dossiers ont été traités après son départ.
+C – Jose Antunes [49] M. Antunes assumait le rôle de directeur de la comptabilité et de la fiscalité de Sodecia et de l’appelante en mai 2020, mais son bureau était situé dans l’État du Michigan, aux États-Unis. Il a confirmé que l’appelante n’avait pas réussi à trouver l’avis de cotisation et que l’ARC l’avait envoyé par la poste en juin 2022.
+[50] Bien qu’il ait été au courant des divers déménagements, il n’avait aucune connaissance personnelle de la pratique de manutention du courrier au 300, chemin Sovereign.
+[51] Il a exprimé le point de vue selon lequel l’avis de cotisation était important et que Mme Quick ou Mme Luesink, la contrôleuse à l’époque, en aurait reconnu l’importance s’il avait été envoyé par la poste au 300, chemin Sovereign, en juin 2017.
+[52] M. Antunes a souligné que la cotisation était adressée à l’appelante au 300, chemin Sovereign, mais que la lettre de l’ARC refusant d’accepter le prétendu avis d’opposition de juin 2022 était adressée au 425, chemin Sovereign.
+[53] Son affidavit comprenait des statuts modifiés datés du 17 avril 2017 selon lesquels « Sodecia Canada Inc. » a changé son nom pour « Sodecia Canada Investments Inc. ».
+V. Analyse et discussion [54] Comme il a été mentionné dans l’arrêt Canada (Revenu national) c. ConocoPhilips Canada Resource Corp., 2014 CAF 297 (« ConocoPhilips »), l’issue de la présente requête est d’une importance particulière pour l’appelante parce qu’une cotisation est réputée valide et exécutoire à moins qu’elle ne soit modifiée ou annulée en appel, comme le prévoit le paragraphe 158(2).
+[55] La signification d’un avis d’opposition valide « est une condition préalable à l’introduction d’un appel ». S’il n’y a aucune preuve d’un avis d’opposition valide, l’appel devrait être annulé, car la Cour n’a pas compétence pour « proroger le délai par souci d’équité » : Bormann c. Canada, 2006 CAF 83 (par. 3 à 6).
+[56] Lorsqu’un contribuable soutient qu’il n’a pas reçu un avis de cotisation, la Cour doit prendre en considération l’« ensemble de la preuve au dossier et [tenir] compte de la présomption énoncée au paragraphe 244(14) de la Loi (à savoir que la date de la mise à la poste d’un avis de nouvelle cotisation est présumée être la date à laquelle cet avis a été posté) » (ConocoPhilips, par. 8).
+[57] En l’espèce, les deux parties conviennent qu’un cadre analytique approprié, comportant un critère en quatre étapes, a été décrit par le juge Graham dans l’affaire Mpamugo c. HMTQ, 2016 CCI 215 (« Mpamugo ») (par. 6) (conf. par 2017 CAF 136).
+[58] La première étape consiste à affirmer que l’avis de cotisation n’a pas du tout été envoyé par la poste ou n’a pas été envoyé à la bonne adresse.
+[59] La deuxième étape exige que le ministre prouve, selon la prépondérance des probabilités, que l’avis de cotisation a été envoyé par la poste. Si le ministre est en mesure de le faire, il est alors présumé que l’envoi postal a eu lieu à la date énoncée dans l’avis de cotisation.
+[60] L’utilisation du mot « présumée » au paragraphe 244(14) donne lieu à une présomption réfutable. Dans le cadre de la troisième étape, le contribuable peut produire des éléments de preuve afin de prouver que l’avis a, en fait, été envoyé par la poste à une autre date ou à une mauvaise adresse. Le juge Graham a ensuite expliqué la quatrième étape comme suit :
+4e étape : Une fois établie la date de l’envoi postal (soit par la présomption, soit par la preuve indiquant une autre date), la cotisation est réputée avoir été établie à cette date (paragraphe 244(15)) et l’avis de cotisation est réputé avoir été reçu à cette date (paragraphe 248(7)). Ces dispositions déterminatives ne sont pas réfutables […]
+[61] Afin de prouver l’envoi postal, le ministre peut se fonder sur un affidavit préparé conformément au paragraphe 244(10) lorsqu’un agent de l’ARC atteste qu’il est responsable des dossiers appropriés et qu’il a connaissance des pratiques de l’ARC et indique qu’il a examiné les dossiers d’un contribuable donné et que ces dossiers démontrent qu’un avis de cotisation a été envoyé. En l’absence de toute preuve contraire, un tel affidavit peut suffire à prouver l’envoi postal : (Mpamugo, par. 12).
+[62] Si le ministre n’est pas en mesure de se fonder sur un tel affidavit, il doit présenter des éléments de preuve pour « démontrer qu’il est plus probable qu’improbable que l’avis ait été posté » et, « [s]i la Couronne peut produire un élément de preuve dont il ressort que l’envoi postal a bel et bien été effectué, et qu’aucun élément de preuve crédible n’est présenté pour le contredire, la conclusion devrait être que la Couronne a prouvé l’envoi postal » (Mpamugo, par. 13).
+[63] Dans la décision Barrington Lane Developments Limited c. La Reine, 2010 CCI 388, la contribuable avait fait valoir que la preuve de l’envoi postal était insuffisante. Le juge Pizzitelli a examiné le témoignage de deux employés de l’ARC qui ont décrit le processus de mise à la poste, y compris le téléchargement électronique des renseignements aux fins de l’établissement de la cotisation, le transfert de ces renseignements à un centre d’impression et de courrier au Canada, avec un journal contenant la date d’expédition, un numéro de suivi, le nom du contribuable et un numéro de cycle faisant référence au lot d’avis envoyés ce jour‑là.
+[64] En fin de compte, le juge Pizzitelli s’est dit satisfait de la preuve et a conclu que « les processus détaillés et documentés se rapportant au téléchargement électronique, à l’impression et à l’envoi des avis de cotisation ou de nouvelle cotisation constituent, selon la prépondérance des probabilités, une preuve prima facie qu’ils ont été mis à la poste » (par. 11).
+[65] En l’espèce, la Couronne a présenté l’affidavit de Mme Nguyen, établi sous serment conformément au paragraphe 244(10). Cette dernière a également témoigné et confirmé qu’elle avait consulté les dossiers de l’ARC contenant toute la correspondance envoyée à l’appelante ou provenant de celle-ci, y compris la cotisation. De son analyse de ces dossiers, elle a pu confirmer que la cotisation avait été envoyée par la poste le 8 juin 2017 et qu’un avis d’opposition n’avait pas été déposé en temps opportun.
+[66] Les imprimés d’ordinateur joints à l’affidavit de Mme Nguyen indiquent que le courrier sortant de l’ARC adressé à l’appelante au 300, chemin Sovereign, a été retourné. L’adresse a été mise à jour au 425, chemin Sovereign, à compter du 9 juin 2020, mais ce changement semble avoir été fait à l’interne par l’examen croisé des dossiers. Rien n’indiquait que l’appelante avait fourni un avis de changement d’adresse avant cette date, malgré la preuve selon laquelle elle a déménagé au 425, chemin Sovereign, en octobre 2017.
+[67] Ce changement d’adresse aurait expliqué pourquoi la cotisation avait été envoyée à l’appelante au 300, chemin Sovereign, mais la lettre de [traduction] « refus », décrite dans l’affidavit de M. Antunes, était adressée au 425, chemin Sovereign.
+[68] De plus, la Cour souligne que l’avis de cotisation était adressé à « Sodecia Canada Inc. », mais que la lettre d’accompagnement contenant le prétendu avis d’opposition du 27 juin 2022 informait l’ARC que l’appelante avait changé son nom pour « Sodecia Canada Investments Inc. » à compter du 7 avril 2017. Cette question n’a pas été abordée, et aucune explication n’a été fournie pour justifier un écart de plus de cinq ans.
+[69] M. Hutter a fourni une explication détaillée de la préparation des avis de cotisation des non-résidents, du processus de téléchargement de ces renseignements dans un fichier Excel à envoyer à un centre de courrier avec la date d’exécution du cycle et le numéro de cycle qui correspondaient à la date d’envoi de l’avis de cotisation. Il a également pu recouper ces renseignements avec les dossiers du centre de courrier.
+[70] De même, Mme Myers a fourni une explication détaillée de la réception des renseignements qui ont été communiqués par voie électronique à la Section du système d’impression‑courrier de Summerside, à l’Île-du-Prince-Édouard, où elle travaillait. Elle a également contre-vérifié ces renseignements avec le rapport d’envoi quotidien et la déclaration électronique de Postes Canada.
+[71] Il n’est pas nécessaire de répéter leurs témoignages plus en détail, et je n’ai pas l’intention de le faire. La Cour conclut que la preuve des témoins de l’intimé était à la fois crédible et convaincante et qu’elle n’a pas été ébranlée par le contre‑interrogatoire.
+[72] Par conséquent, la Cour conclut qu’il est plus probable qu’improbable que la cotisation a été envoyée et que le ministre a établi, selon la prépondérance des probabilités, qu’elle a été postée à l’appelante le 8 juin 2017.
+[73] Je passe à l’analyse de la preuve produite par l’appelante.
+[74] La Cour partage l’avis de l’intimé selon lequel la preuve de l’appelante comporte des lacunes. Premièrement, le courrier livré au 300, chemin Sovereign, pouvait être laissé sans surveillance dans le hall d’entrée accessible à quiconque entrait dans l’immeuble.
+[75] Deuxièmement, Mme Quick a indiqué qu’elle ne se souvenait pas de l’avis de cotisation, mais cela n’est pas surprenant puisque toute la correspondance de l’ARC était remise à Mme Luesink. Rien n’indiquait que Mme Quick ouvrait même les enveloppes.
+[76] Le témoignage de Mme Luesink soulève des préoccupations semblables. Si la correspondance de l’ARC contenait un avis de cotisation, il ne s’agissait pas d’une [traduction] « mesure de suivi » ou d’une autre facture à payer dans le cadre de ses activités quotidiennes. Comme elle ne participait pas directement aux opérations fiscales, elle devait seulement déterminer à qui la correspondance devait être remise. Selon son témoignage, elle fournissait l’enveloppe au directeur des finances ou en envoyait une copie numérisée au bureau américain. La façon dont cette décision était prise n’était pas claire, mais la Cour peut raisonnablement conclure que le directeur des finances, en tant que supérieur de Mme Luesink, décidait de ce qui devait être fait.
+[77] Aucun des témoins n’a fourni d’information sur le directeur des finances ou sur l’endroit où se trouvait son bureau. La Cour peut raisonnablement conclure qu’il était situé dans le même immeuble, dans les « bureaux de direction ». Dans l’affirmative, l’enveloppe contenant l’avis de cotisation aurait probablement été remise directement à cette personne et Mme Luesink n’avait pas besoin d’en inclure une copie dans son fichier d’impôt.
+[78] Le fait que Mme Quick a effectué une recherche dans le meuble‑classeur en 2023 et a déterminé que la cotisation ne se trouvait pas dans le fichier d’impôt ne semble pas surprenant parce qu’elle n’avait aucune incidence directe sur les fonctions de Mme Luesink.
+[79] Afin de mettre les choses en contexte, Mme Quick et Mme Luesink ont travaillé pour la société exploitante connue sous le nom de Sodecia Automotive London Inc. et non directement ou seulement indirectement pour l’appelante. Même si elles avaient reçu l’avis de cotisation en juin 2017, la Cour peut raisonnablement conclure que cela ne les préoccupait pas beaucoup parce que l’avis était adressé à l’appelante et non à leur employeur direct.
+[80] De plus, Sodecia et l’appelante étaient en train de déménager du 300, chemin Sovereign, à un endroit temporaire en juillet 2017. Cela soulève la possibilité que l’enveloppe contenant la cotisation ait simplement été mise de côté pour être traitée à un moment donné et qu’elle ait probablement été égarée ou oubliée.
+[81] En fin de compte, la preuve n’est pas concluante. La Cour conclut que l’appelante n’a pas réfuté la présomption selon laquelle l’avis de cotisation a été envoyé par la poste le 8 juin 2017.
+VI. Conclusion [82] Puisque la Cour a conclu que l’avis de cotisation « a été envoyé par le ministre », une lecture appropriée du paragraphe 244(15) est que « la cotisation est réputée avoir été établie […] à la date d’envoi de l’avis », soit le 8 juin 2017. Une conclusion semblable découle du paragraphe 248(7).
+[83] Pour les motifs qui précèdent, l’appel est rejeté avec dépens en faveur de l’intimé.
+Signé à Ottawa (Ontario), ce 27e jour de mars 2024.
+« Guy R. Smith »
+Le juge Smith
+Traduction certifiée conforme
+ce 29e jour de septembre 2025.
+Guillaume Chénard, jurilinguiste principal
+RÉFÉRENCE :
+2024 CCI 40
+NO DU DOSSIER DE LA COUR :
+2022-3160(IT)G
+INTITULÉ :
+SODECIA CANADA INVESTMENTS INC. c. SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 8 janvier 2024
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Guy R. Smith
+DATE DE L’ORDONNANCE :
+Le 27 mars 2024
+COMPARUTIONS :
+Avocat de l’appelante :
+Me John Sorensen
+Avocat de l’intimé :
+Me Brent E. Cuddy
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me John Sorensen
+Cabinet :
+Gowling WLG (Canada) S.E.N.C.R.L., s.r.l.
+Toronto (Ontario)
+Pour l’intimé :
+Shalene Curtis-Micallef
+Sous-procureure générale du Canada
+Ottawa, Canada

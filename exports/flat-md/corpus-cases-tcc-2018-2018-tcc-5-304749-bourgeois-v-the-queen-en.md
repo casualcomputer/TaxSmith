@@ -1,0 +1,255 @@
+---
+title: "Bourgeois v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/304749/index.do"
+last_modified: "2018-01-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 TCC 5"
+citation2: ""
+neutral_citation: "2018 TCC 5"
+decision_date: "2018-01-05"
+language: "en"
+item_id: "304749"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7273
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:55:56.526000+00:00"
+cases_cited_count: 8
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "729376d607a1ecd8d4dbafed8746e59d5e8f862f280469bc79ebcc743c263f50"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bourgeois v. The Queen
+
+- Citation: 2018 TCC 5
+- Decision date: 2018-01-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7273, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bourgeois v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-01-05
+Neutral citation
+2018 TCC 5
+File numbers
+2016-1770(IT)G
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-1770(IT)G
+BETWEEN:
+NADINE BOURGEOIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on October 4, 2017, at Montréal, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel for the appellant:
+Marc-Antoine Deschamps
+Counsel for the respondent:
+Mounes Ayadi
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act is dismissed, with costs to the respondent, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 5th day of January 2018.
+“Alain Tardif”
+Tardif J.
+Translation certified true
+on this 3rd day of September 2020.
+François Brunet, Revisor
+Citation: 2018 TCC 5
+Date: 20180105
+Docket: 2016-1770(IT)G
+BETWEEN:
+NADINE BOURGEOIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal from an assessment made under section 160 of the Income Tax Act (ITA). All the facts giving rise to the assessment under appeal have been admitted by the appellant.
+[2] On October 24, 2000, the appellant’s father gifted her two condos, the total value of which was $153,000.
+[3] In 2006, specifically, on April 19, the transferor, the appellant’s father, received a notice of reassessment for the 2000 taxation year (the year of the transfer) for $116,972.21.
+[4] The assessment in question was made up of the following components: $50,816.51 in income tax owing, a gross negligence penalty (subsection 163(2) of the ITA) of $21,653.81 and $44,592.89 in interest.
+[5] On September 22, 2009, that is, just over 40 months later, the transferor made an assignment of his property in a personal bankruptcy.
+[6] Five years later, specifically on June 9, 2014, the Canada Revenue Agency issued a notice of assessment to the appellant under section 160 of the ITA, thereby making her jointly and severally liable for her father’s tax debt to the respondent. Thus, the assessment issued to the appellant is within the following context:
+– Gift and transfer: October 24, 2000
+– Assessment of the donor, who is the transferor: April 19, 2006
+– Taxation year of the assessment: 2000
+– Bankruptcy of the property donor: September 22, 2009
+– Assessment of the appellant: June 9, 2014
+It can thus be concluded that the notice of assessment issued to the appellant was made 13 years after 2000, which was the year that gave rise to the assessment; almost eight years after the assessment issued to the transferor; and almost six years after the bankruptcy of the donor, who is also the transferor.
+[7] All the elements required for section 160 of the ITA to apply have been admitted; I am referring in particular to the following requirements:
+(1) The transferor’s income tax debt
+(2) Transfer between two persons not at arm’s length
+(3) Absence of consideration
+(4) Fair market value of the property transferred
+(5) Acceptance without consideration by the transferee, the appellant.
+The appellant chose to challenge the notice of assessment made against her and not to challenge the merits of the assessment issued to her father, the transferor, in 2006.
+[8] That is the essence of the facts clearly established by admission. The dispute mainly centres on the issue of the time elapsed. Indeed, on its face, a considerable period of time elapsed between the taxation year in question that gave rise to the transferor’s file, namely, 2000 and the notice of assessment issued to the appellant in 2014. Thus, in 2014 the transferee would be liable for a tax debt relating to the 2000 taxation year.
+[9] In such a context, the initial inclination is evidently to analyze the case under section 222 of the ITA regarding the limitation period for collecting a tax debt. Indeed, the appellant argued that the notice of assessment made against her should be vacated on the ground that the ten-year limitation period should apply.
+[10] In the alternative, the appellant argued that, should her arguments relating to the limitation period be dismissed, she was not a tax debtor for the portion of her father’s assessment relating to the gross negligence penalty and related interest under section 160 of the ITA.
+[11] To that end, the appellant’s Notice of Appeal was, on the whole, rather general in that it essentially stated that the appellant could not be assessed for the gross negligence penalty under section 160.
+[12] During her submissions, the appellant argued that the burden of proof should be on the respondent for the gross negligence penalty under subsection 163(2) of the ITA, failing which the notice of assessment made against the appellant should be amended by setting aside the gross negligence penalty and related interest.
+[13] With respect to the basic argument relating to the limitation period provided for in section 222 of the ITA, the appellant submits that the ten-year limitation period for collecting the tax debt began at the time of the transfer, that is, on October 24, 2000.
+[14] In support of her argument, the appellant noted that the joint liability provided for in section 160 arose at the time of the transfer: Heavyside v. Canada, [1996] FCJ No. 1608 (QL), at paragraph 10; Ingrao v. M.N.R., [1989] 1 CTC 2052, at paragraph 15.
+[15] Since the transfer date was October 24, 2000, the appellant inferred that the ten-year limitation period had expired by the time she received her notice of assessment on June 9, 2014.
+[16] However, as the appellant acknowledges, this position is prima facie contrary to the existing case law, which has already answered the question of a time-barred assessment made under section 160. Specifically, it has already been found that an assessment made under section 160 cannot be time-barred: Canada v. Addison & Leyen Ltd., 2007 SCC 33, at paragraph 9.
+[17] Nevertheless, the appellant submits that this issue should be revisited given the amendments and clarifications made to section 222.
+[18] For her part, the respondent submits that those amendments had no impact on the Minister’s power to assess under section 160. Section 222 provides the limitation period regarding the collection of a tax debt.
+[19] Thus, according to the respondent, section 222 would apply only as of the time the appellant was assessed under section 160, namely, on June 9, 2014. As a result, the limitation period for collecting the debt would not have elapsed. In other words, the calculations for the limitation period under section 222 must be made on two levels, the first being the assessment issued against the transferor of the property, and the second being the assessment made against the transferee who received the property without any consideration under section 160.
+[20] The lengthy delays between the arising of the tax debt and the assessment issued to the appellant require that sections 160 and 222 of the ITA be examined together in the light of the general principles governing limitations.
+[21] The Supreme Court of Canada has recognized three rationales underlying limitations: certainty, evidentiary and diligence: M.(K.) v. M.(H.), [1992] 3 SCR 6, at page 29. Those rationales were also applied to tax law in Markevich v. Canada, 2003 SCC 9, at paragraphs 18 to 21. In that decision, the Supreme Court summarized each rationale at paragraph 19:
+. . . The certainty rationale recognizes that, with the passage of time, an individual “should be secure in his reasonable expectation that he will not be held to account for ancient obligations”: M. (K.), supra, at p. 29. The evidentiary rationale recognizes the desire to preclude claims where the evidence used to support that claim has grown stale. The diligence rationale encourages claimants “to act diligently and not ‘sleep on their rights’”: M. (K.) supra, at p. 30.
+[22] When the Markevich decision was decided, the ITA was silent on the limitation period for collecting tax debts. The Supreme Court had held that the Crown Liability and Proceedings Act was suppletive and thus recognized a ten-year limitation period for collecting a tax debt.
+[23] That holding went against the position of the Crown, which had argued that there was no limitation period for collecting a tax debt.
+[24] On this issue, the Supreme Court considered the following, at paragraph 20 of Markevich:
+. . . If the Minister makes no effort to collect a tax debt for an extended period, at a certain point a taxpayer may reasonably come to expect that he or she will not be called to account for the liability, and may conduct his or her affairs in reliance on that expectation. As well, a limitation period encourages the Minister to act diligently in pursuing the collection of tax debts. In the light of the significant effect that collection of tax debts has upon the financial security of Canadian citizens, it is contrary to the public interest for the department to sleep on its rights in enforcing collection. It is evident that the rationales which justify the existence of limitation periods apply to the collection of tax debts.
+The doctrine propounded by the Supreme Court in Markevich is unambiguous: it is fundamental for the smooth operation of the tax system that the collection of tax debt be subject to limitation rules in order to allow all citizens to be aware of the parameters required for sound planning.
+[25] That doctrine must be qualified, however. Specifically, Markevich was decided at a time where tax law did not provide for limitation rules for actions to collect tax debt.
+[26] Parliament amended section 222 to address this deficiency. In addition, the judgment restricted the analysis of the limitation for the collection of debt established after the notice of assessment had not been challenged.
+[27] The appellant argues that the collection of a tax debt is independent from the assessment and that, as a result, the limitation period should begin to run even if there was no notice of assessment. In other words, the taxation year subject to a notice of assessment should be the starting point for calculating the limitation period. In this case, the appellant argues that the limitation period should have begun running in 2000.
+[28] It is still important to consider the application of the rationales reaffirmed in Markevich. However, the analysis of those rationales must be carried out based on the doctrine of Markevich, supra, at paragraph 16. It is therefore necessary to conduct the joint analysis of sections 160 and 222 based on the rationales.
+[29] The Minister’s power to assess under section 160 cannot be time-barred. This rule flows not only from the wording of the section, but also from a review of the case law on this issue. The simplicity and clarity of the wording are such that there can be no room for interpretation.
+[30] Subsection 160(2) reads as follows:
+(2) The Minister may at any time assess a taxpayer in respect of any amount payable because of this section, and the provisions of this Division (including, for greater certainty, the provisions in respect of interest payable) apply, with any modifications that the circumstances require, in respect of an assessment made under this section as though it had been made under section 152 in respect of taxes payable under this Part.
+[Emphasis added]
+[31] The case law has also affirmed the clarity and simplicity of the wording regarding the time period for assessing. The Supreme Court ruled very clearly that “[t]he Minister can assess a taxpayer at any time [under section 160]”: Addison & Leyen, supra, at paragraph 9.
+[32] The issue of the limitation period with respect to section 160 was raised in Addison & Leyen. In that case, the Supreme Court had to determine whether a seemingly unreasonable delay in the Minister’s exercise of his power to assess under section 160 was subject to judicial review. The Supreme Court held that, in a judicial review proceeding, it is not possible to run counter to the clear wording of the ITA; it thereby overturned the majority decision of the Federal Court of Appeal and upheld the dissent.
+[33] In Addison & Leyen Ltd. v. Canada, 2006 FCA 107, Rothstein J., dissenting, who was then sitting on the Federal Court of Appeal, explained the following at paragraph 88:
+Parliament has said that the Minister may assess at any time. There is no other applicable condition. The effect of the decision of the majority is to read into subsection 160(2) a condition that the Minister may assess at any time unless for example, his delay is too lengthy or the taxpayer exercised due diligence or there is prejudice to the taxpayer. The Income Tax Act contains limitation periods and due diligence and other defences when Parliament considers that to be appropriate. It did not do so in subsection 160(2). The Court must take the statute as it finds it. It is not permissible to read into a statutory provision a condition that places a limitation on what Parliament has expressly provided in the words it has used.
+[Emphasis added]
+[34] Thus, the respondent argues that the Minister was entitled to assess the appellant under section 160 because this power to assess cannot be time-barred.
+[35] In Addison & Leyen, it was held that the taxpayer could not apply for judicial review and rely on common law principles to derogate from section 160.
+[36] However, both Rothstein J. in his dissent and the Supreme Court in a unanimous judgment recognized that the application of section 160 could be affected by another provision of the ITA.
+[37] Since the issue of the impact of section 222 on the application of section 160 was not raised at the time, it should be considered whether the amendment of the provisions in section 222 can affect the application of section 160.
+[38] The appellant submits that the new section 222 provides for a scheme that places a time limit on the Minister’s power to collect. According to the appellant, the power to collect is separate from the power to assess and, as a result, subsection 160(2) would not apply when the collection of a tax debt is time-barred under section 222.
+[39] At first glance, it seems clear that the amendments to section 222 affect the application of section 160. However, in the light of the undisputed facts, the limitation period for the collection of the tax debt from the transferor had not run out, and, consequently, the respondent could assess the appellant under section 160 of the ITA.
+[40] Section 222 is found in Part XV of the ITA, entitled “Administration and Enforcement”, while section 160 is found in Part 1, “Income Tax”. This layout is neither trivial nor incidental. The tax system is administered in two separate stages, namely, assessment and collection.
+[41] Subsection 222(3) limits the Minister’s exercise of his power to assess:
+(3) The Minister may not commence an action to collect a tax debt after the end of the limitation period for the collection of the tax debt.
+[42] “Action” is defined in subsection 222(1):
+action means an action to collect a tax debt of a taxpayer and includes a proceeding in a court and anything done by the Minister under subsection 129(2), 131(3), 132(2) or 164(2), section 203 or any provision of this Part.
+[43] The appellant argued that an assessment made under subsection 160 constitutes an action to collect and therefore must be time-barred when section 222 applies.
+[44] In support of her position, the appellant referred to several cases holding that the object of section 160 is to recover an outstanding tax debt from a third party: Wannan v. Canada, 2003 FCA 423, at paragraph 3; Addison & Leyen (FCA), supra, at paragraph 71.
+[45] Although the ultimate objective is to recover an outstanding tax debt, section 160 provides for an independent assessment mechanism. Thus, the Minister cannot collect a tax debt under section 160 if the conditions for the validity of the assessment are absent: Addison & Leyen (FCA), supra, at paragraph 92.
+[46] Those conditions do not limit the Minister’s power to collect; rather, they are intended to determine the relevance of a reassessment. An assessment made under section 160 does not constitute a collection action under Part XV. Indeed, subsection 222(3) of the ITA has nothing to do with the respondent’s power to assess.
+[47] A tax debt is also defined in subsection 222(1):
+tax debt means any amount payable by a taxpayer under this Act.
+[48] The definition uses the indefinite article “a” instead of the definite article “the”, thereby choosing not to limit the application of the provision.
+[49] The appellant noted that section 160 does not create a new debt but instead adds a new debtor to the existing tax debt: Algoa Trust v. Canada, [1998] TCJ No. 292 (QL), at paragraph 3.
+[50] Since the tax debt assessed under section 160 is the same as the original debt and the wording of the ITA does not define the taxpayer, subsection 222(3) applies to any debt collection action, even if the debtor is not the same.
+[51] If the collection of the debt was time-barred, then it would be futile to commence an action under section 160 given that the original debt of the transferor could not be collected since the limitation period had been reached. Such an interpretation must, however, be qualified or even limited.
+[52] Indeed, that conclusion would be contrary a case decided by the Federal Court of Appeal, Heavyside, supra. In that case, it was held that a person could not avoid the application of section 160 when the holder of the original debt had declared bankruptcy: Heavyside, supra, at paragraph 12.
+[53] The Federal Court of Appeal thus explained that a tax debt was not extinguished as a result of the tax debtor’s bankruptcy with respect to the application of section 160 of the ITA.
+[54] The legal issues raised in this case differ from those in Heavyside. In Heavyside, a provision of the Bankruptcy Act was cited to prevent the application of section 160. The Federal Court of Appeal dismissed the argument at paragraph 14.
+To allow the respondent to escape her tax liability in the present case because of her husband's discharge from bankruptcy would be to allow what Parliament precisely sought to prevent by the adoption of section 160.
+Consequently, for section 160 to apply, it is essential that the tax debt survive the bankruptcy of the holder of the original debt.
+[55] The same conclusion cannot be reached in this case. When a tax debt is extinguished under section 222, it cannot be revived based on the provisions in section 160.
+[56] Assessing a debt whose collection is time-barred would be contrary to the intention of Parliament. The amendments to section 222 created a legislative framework that allows taxpayers to be reasonably certain that they will no longer be liable for old obligations and that a claim cannot be based on stale evidence. The Minister must be diligent in collecting outstanding tax debts.
+[57] An interpretation of section 160 that disregards the limitation period for collecting a tax debt would have the effect of restoring the Minister’s power to collect, when that power is non-existent on the basis of the limitation period.
+[58] Accordingly, the issue that then arises pertains on the moment when the limitation period began to run. To that end, subsection 222(4) must be referred to:
+(4) The limitation period for the collection of a tax debt of a taxpayer
+(a) begins
+(i) if a notice of assessment, or a notice referred to in subsection 226(1), in respect of the tax debt is sent to or served on the taxpayer, after March 3, 2004, on the day that is 90 days after the day on which the last one of those notices is sent or served, and
+(ii) if subparagraph (i) does not apply and the tax debt was payable on March 4, 2004, or would have been payable on that date but for a limitation period that otherwise applied to the collection of the tax debt, on March 4, 2004; and
+b) ends, subject to subsection (8), on the day that is 10 years after the day on which it begins.
+[59] The appellant submits that subparagraph (ii) applies in this case. If that is the case, the appellant argues that the debt was payable at the time of the transfer, namely, on October 24, 2000. Since the appellant was assessed on June 9, 2014, she submits that the collection of the debt was time-barred. This interpretation must be rejected for the following reasons:
+– First, subparagraph (ii) refers to the point at which the debt was payable. The original debt became payable only when the appellant’s father received his notice of reassessment, that is, on April 19, 2006. Although the appellant’s liability arose as of the time of the transfer pursuant to subsection 152(3) of the ITA, the fact remains that the tax debt was not due and payable before the notice of assessment was issued: see subsection 156(1) and section 158 of the ITA.
+– Second, subparagraph (ii) applies only if subparagraph (i) does not, as stated in the clause introducing subparagraph (ii). However, because a notice of assessment in respect of the debt was sent after March 3, 2004, subparagraph (i) necessarily applies in this case because it takes precedence over subparagraph (ii).
+[60] The limitation period for collecting the appellant’s tax debt therefore began to run on April 19, 2006. Accordingly, the limitation period for collecting the debt had not run out when the appellant’s assessment was made under section 160, on June 9, 2014. As a result, since the limitation argument is inadmissible or unfounded, the assessment made against the appellant is well-founded.
+[61] Furthermore, the limitation period for the collection started to run again when the Minister assessed the appellant under section 160. Paragraph 222(5)(c) dictates that conclusion. Indeed, it is clearly provided that the limitation period starts to run again when an assessment is made under subsection 160(2).
+[62] This interpretation of section 222 is also consistent with the phrase “at any time” used in subsection 160(2). From the moment a debt is established under section 160, the Minister therefore has ten years to collect the debt.
+[63] However, the ten-year limitation period can vary. Subsection 222(8) provided that the limitation period may vary or be suspended, among other things, when the taxpayer challenges the Minister’s assessment.
+[64] In addition, subsection 222(5) lists a series of actions that may be commenced by the Minister to cancel the previous count and thereby restart the ten-year limitation period.
+[65] Indeed, as long as the Minister is acting diligently to collect the outstanding debt, it appears that section 222 provides sufficient leeway that should not have any effect on the application of section 160.
+[66] In Addison & Leyen (FCA), Rothstein J. addressed the interpretation of section 160 justifying the existence of a perpetual obligation, at paragraph 90:
+Like the majority, I too am discomforted that a statutory obligation may, in theory, exist in perpetuity, even if that is not a practical likelihood. Where the words of a statute may be construed either to result in a perpetual obligation or not, the interpretation that rejects the perpetual obligation would normally reflect the most likely intent of Parliament (see Burton (Her Majesty’s Collector of Taxes) v. Mellham Limited, [2006] UKHL 6, per Lord Walker of Gestingthorpe). However, where such alternative construction cannot be placed on the words used by Parliament, the Court is bound by the text of the words Parliament used. That is the case with the words “at any time”.
+[67] Rothstein J.’s conclusion must now be qualified in the light of the interpretation given to section 222. From the moment the collection of a tax debt is time‑barred, it will be unnecessary for the Minister to assess a third party under section 160 because the debt can no longer be collected.
+[68] This interpretation, while restrictive as to the scope of the phrase “at any time”, is consistent when sections 160 and 222 are considered together in the light of the rationales justifying the limitation period.
+[69] Had Parliament intended to exclude section 160 from the application of section 222, it would have done so clearly and explicitly by preventing the collection of tax debts under section 160 from being time-barred.
+[70] The appellant accepted the Minister’s assumptions of fact. At paragraph 20(k)(ii) of the Reply to the Notice of Appeal, the Minister made the assumption that the tax debt of the respondent’s father included a penalty of $21,562.81. The fact that the appellant did not challenge the Minister’s assumption means that the onus of proving that the assessment is invalid is on the appellant.
+[71] The appellant admitted all of the facts set out in the Reply to the Notice of Appeal, including the validity of the assessment made against the transferor; she raised the issue of the burden of proof in her oral arguments.
+[72] The appellant cites Gestion Yvan Drouin Inc. v. Canada, [2000] TCJ No. 872 (QL), in support of her position that the onus of proving the original debt falls on the Minister. Archambault J. explained the following at paragraph 114:
+Since it is the Minister who takes measures against a third party to recover the tax owed to him by the tax debtor, it seems entirely reasonable to me that it should be incumbent on the Minister to provide prima facie evidence of the existence of the tax liability. To do this, the Minister usually has in his possession the tax debtor's tax return and, if he has carried out an audit, he may have copies of the source documents or other relevant documents supporting his assessment. He is therefore the one who is in the best position to establish the quantum of the tax liability. I thus conclude that the onus of providing prima facie evidence of the tax liability where an assessment has been made under subsection 160(1) of the Act generally falls on the Minister.
+[Emphasis added]
+[73] On the basis of this comment, the subsequent case law has recognized that the onus of proving assessments made under section 160 may sometimes fall on the Minister in certain situations: Beaudry v. The Queen, 2003 TCC 464; Ellis v. The Queen, 2015 TCC 285.
+[74] The scope of the applicability of this exception appears to generate some controversy in the case law. On this subject, Paris J. identified cases in which the onus of proving the original assessment falls on the Minister in Mignardi v. The Queen, 2013 TCC 67 (this judgment in an informal proceeding was cited with approval by Lamarre A.C.J., in Arsenault v. The Queen, 2015 TCC 179), at paragraph 41:
+I return now to the proposition that appears to flow from the Gestion Yvan Drouin Inc. case that the Minister bears the onus to prove the underlying tax liability in every appeal from a derivative liability assessment under subsection 160(1) or section 227.1 of the ITA or sections 323 or 325 of the ETA. I agree with respondent’s counsel that such a conclusion is inconsistent with the decisions of the Supreme Court and Federal Court of Appeal to which I have referred. It is only where the facts concerning the underlying tax debt are exclusively or peculiarly within the knowledge of the Minister that the burden will be shifted. Each case will turn on its own facts. Although there may be situations where the tax liability of the original tax debtor is something that is solely within the knowledge of the Crown, more often a taxpayer will have access to that information from the original tax debtor. . . .
+[Emphasis added]
+To meet the test propounded by Paris J., it therefore seems necessary that the appellant not have access to the information required to challenge the assessment, which has not been established in this case.
+[75] We must then turn to the particular facts of this case to determine who should bear the onus of proving the original assessment.
+[76] Two factors support the appellant’s position. First, the original assessment includes a penalty for gross negligence on the part of the transferor. Had the appellant’s father challenged the original assessment, the onus would have fallen on the Minister.
+[77] The transfer occurred in 2000, that is, the year subject to the original assessment made in 2006 and 14 years before the assessment issued to the appellant. It is therefore possible that some of the evidence is now stale. These two factors suggest that the appellant may not be able to properly challenge the assessment, so the onus should fall on the Minister. However, the evidence on this point remains incomplete.
+[78] At first glance, it may seem unreasonable to subject a transferee to a gross negligence penalty imposed on the transferor. However, on the one hand, it cannot be ignored that the transfer of property was made below the fair market value of the property transferred, and they are often even made for free, which is the case in this file.
+[79] On the other hand, the tax debt issued under section 160 of the ITA essentially affects the value or part thereof that is not subject to a consideration. Consequently, an assessment made under section 160 would be void if the transfer had been made for consideration equal to the fair market value of the property transferred.
+[80] In other words, the transferee is exposed to the debt of the transferor to the extent of the benefit received without consideration. When the fair market value of the property transferred is fully assumed by the transferee, there cannot be an assessment under section 160 of the ITA.
+[81] Parliament has provided that a person assessed under section 160 of the ITA may challenge all or part of the tax debt assessed against the transferor. If the individual decides not to do so, he or she must assume the debt to the extent of the enrichment of his or her wealth.
+[82] A tax debt assessed under section 160 of the ITA does not impoverish the transferee since the assessment cannot exceed the benefit received from the transferor, the first tax debtor. Consequently, contrary to what one may think at first glance, persons assessed under section 160 of the ITA do not suffer any financial loss.
+[83] In this case, the appellant chose not to challenge the merits of the assessment that was first made against her father for the 2000 taxation year but issued on April 19, 2006. The respondent could not proceed with the collection of the debt until the assessment became formal and final, except through a safeguard and debt protection measure.
+[84] The appellant’s main argument would have the effect of preventing the respondent from making an assessment under section 160 of the ITA in many cases. Indeed, it is very easy to imagine a case where an assessment would be made after the expiry of the three-year period. After discharging the burden of proof on him or her, thereby validating the merits of the assessment, the person assessed could rely on a wide range of appeals, all of which would extend over a very long period that would potentially exceed the ten-year limitation period.
+[85] On this assumption, a tax debtor could choose a whole range of initiatives, the ultimate objective of which would be to prevent a reassessment under section 160. Such an assumption appears to me to constitute an additional argument to discredit the appellant’s argument.
+[86] For all of these reasons, the appeal is dismissed with costs to the respondent.
+Signed at Ottawa, Canada, this 5th day of January 2018.
+“Alain Tardif”
+Tardif J.
+Translation certified true
+on this 3rd day of September 2020.
+François Brunet, Revisor
+CITATION:
+2018 TCC 5
+COURT FILE NO.:
+2016-1770(IT)G
+STYLE OF CAUSE:
+NADINE BOURGEOIS v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+October 4, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Alain Tardif
+DATE OF JUDGMENT:
+January 5, 2018
+APPEARANCES:
+Counsel for the appellant:
+Marc-Antoine Deschamps
+Counsel for the respondent:
+Mounes Ayadi
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Marc-Antoine Deschamps
+Firm:
+Morency, société d’avocats
+Montréal, Quebec
+For the respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

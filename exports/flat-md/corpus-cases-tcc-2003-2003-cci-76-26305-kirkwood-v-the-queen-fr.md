@@ -1,0 +1,195 @@
+---
+title: "Kirkwood v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26305/index.do"
+last_modified: "2003-03-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 76"
+citation2: ""
+neutral_citation: "2003 CCI 76"
+decision_date: "2003-03-14"
+language: "fr"
+item_id: "26305"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3317
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:27:44.069000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "26c24ba90cf3020381a5048a854ffc37f44308b603bd6af857713c3b5fba56ab"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kirkwood v. The Queen
+
+- Citation: 2003 CCI 76
+- Decision date: 2003-03-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3317, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kirkwood v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-03-14
+Référence neutre
+2003 CCI 76
+Numéro de dossier
+2000-530(IT)G
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2000-530(IT)G
+ENTRE :
+PETER KIRKWOOD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+_______________________________________________________________
+Appel entendu sur preuve commune avec l'appel de Peter Kirkwood Holdings Limited (2000-531(IT)G), le 16 septembre 2002, à London (Ontario).
+Devant : L'honorable juge L. M. Little
+Comparutions :
+Avocat de l'appelant :
+Me Graeme J. Sperryn
+Avocat de l'intimée :
+Me Daniel Bourgeois
+_______________________________________________________________
+JUGEMENT
+L'appel à l'encontre de la cotisation établie en vertu de la Loi de l'impôt sur le revenu (la « Loi » ) pour l'année d'imposition 1990 est admis, sans dépens, et de nouvelles cotisations doivent être établies en tenant compte des termes des motifs du jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique), ce 14e jour de mars 2003.
+« L. M. Little »
+J.C.C.I.
+Traduction certifiée conforme
+ce 28e jour de janvier 2005.
+Yves Bellefeuille, réviseur
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2000-531(IT)G
+ENTRE :
+PETER KIRKWOOD HOLDINGS LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+_______________________________________________________________
+Appel entendu sur preuve commune avec l'appel de Peter Kirkwood (2000-530(IT)G), le 16 septembre 2002, à London (Ontario).
+Devant : L'honorable juge L. M. Little
+Comparutions :
+Avocat de l'appelante :
+Me Graeme J. Sperryn
+Avocat de l'intimée :
+Me Daniel Bourgeois
+_______________________________________________________________
+JUGEMENT
+L'appel à l'encontre de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1990 est admis, sans dépens, et de nouvelles cotisations doivent être établies en tenant compte des termes des motifs du jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique), ce 14e jour de mars 2003.
+« L. M. Little »
+J.C.C.I.
+Traduction certifiée conforme
+ce 28e jour de janvier 2005.
+Yves Bellefeuille, réviseur
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence : 2003CCI76
+Date : 20030314
+Dossiers : 2000-530(IT)G
+2000-531(IT)G
+ENTRE :
+PETER KIRKWOOD,
+PETER KIRKWOOD HOLDINGS LIMITED,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Little, C.C.I.
+A. FAITS :
+[1] Les appels ont été entendus à London (Ontario) sur preuve commune.
+[2] Au début de l'audience, les parties ont déposé un exposé conjoint partiel des faits convenus, qui se lit comme suit :
+[TRADUCTION]
+1. L'appelant Peter Kirkwood est un résident canadien résidant au 15, chemin Cherokee, à London (Ontario), et était, pendant toute la période pertinente, président, administrateur et unique actionnaire de Peter Kirkwood Holdings Limited ( « Holdings » ).
+2. L'appelante Peter Kirkwood Holdings Limited ( « Holdings » ) est une société ontarienne constituée en personne morale le 30 mai 1990.
+3. En septembre 1990 ou vers ce mois, Kirkwood Roussy Insurance Inc. ( « KR Insurance » ) a vendu son volume d'affaires, constitué de clients d'assurance (le « volume d'affaires » ), à Rowlands Insurance Limited ( « Rowlands » ) et a cessé ses activités commerciales.
+4. Au moment de la vente du volume d'affaires par KR Insurance à Rowlands, Peter Kirkwood Holdings Limited ( « Holdings » ) détenait la totalité des actions émises et en circulation de KR Insurance, KR Insurance étant ainsi une filiale en propriété exclusive de Holdings.
+5. Le 28 décembre 1990 ou vers cette date, l'administrateur de KR Insurance a adopté une résolution déclarant un dividende en capital de 94 000 $, prélevé sur son compte de dividende en capital et payable à son unique actionnaire, Holdings. Le formulaire T2054, servant à faire un choix en vertu du paragraphe 83(2) de la Loi de l'impôt sur le revenu, a été préparé et déposé avec une copie certifiée de ladite résolution requise en vertu de l'alinéa 2101b) du Règlement de l'impôt sur le revenu.
+6. Le 28 décembre 1990, l'administrateur de Holdings a adopté une résolution déclarant un dividende en capital de 94 000 $ payable à son unique actionnaire, Peter Kirkwood. Le formulaire T2054, servant à faire un choix en vertu du paragraphe 83(2) de la Loi de l'impôt sur le revenu, a été préparé et déposé avec une copie certifiée de ladite résolution requise en vertu de l'alinéa 2101b) du Règlement de l'impôt sur le revenu.
+7. Le 31 décembre 1990, un chèque de 94 000 $ payable à Holdings a été tiré sur le compte de banque de KR Insurance. Le même jour, un chèque de 94 000 $ payable à Peter Kirkwood a été tiré sur le compte de banque de Holdings. Le même jour, soit le 31 décembre 1990, un chèque de 94 000 $ payable à KR Insurance a été tiré sur le compte de banque personnel de Peter Kirkwood. Les trois chèques ont été présentés ensemble à la banque.
+8. L'exercice de KR Insurance se terminait le 30 septembre. L'exercice de Holdings se terminait le 30 septembre.
+9. À des fins comptables, le chèque payable à KR Insurance par Peter Kirkwood a été imputé à la dette de l'appelant Peter Kirkwood envers KR Insurance, laquelle excédait 94 000 $ le 31 décembre 1990.
+10. Le 10 octobre 1995 ou vers cette date, le ministre a établi une nouvelle cotisation (une cotisation) à l'égard de KR Insurance pour l'exercice terminé le 30 septembre 1991, par laquelle il établissait les montants d'impôt dus à 50 068,25 $, plus les intérêts et les pénalités.
+11. Dans la cotisation de 1991, le ministre a refusé la déduction par KR Insurance de créances irrécouvrables au montant de 48 000 $.
+12. Le 16 décembre 1998, le ministre a établi des avis de nouvelle cotisation à l'égard des deux appelants en vertu de l'article 160 de la Loi de l'impôt sur le revenu (la « Loi » ) au montant de 94 000 $ chacun.
+B. QUESTIONS
+[3] Les questions en litige sont de savoir :
+a) si chacun des appelants est solidairement responsable de l'impôt en vertu de l'article 160 de la Loi de l'impôt sur le revenu (la « Loi » );
+b) si KR Insurance ( « KRI » ) peut déduire une créance irrécouvrable de 48 000 $ lors du calcul de son obligation fiscale pour l'année d'imposition 1991.
+C. ANALYSE
+[4] L'article 160 de la Loi se lit comme suit :
+160(1) Lorsqu'une personne a, depuis le 1er mai 1951, transféré des biens, directement ou indirectement, au moyen d'une fiducie ou de toute autre façon,
+a) à son conjoint ou à une personne devenue depuis son conjoint,
+b) à une personne qui était âgée de moins de 18 ans, ou
+c) à une personne avec laquelle elle avait un lien de dépendance,
+les règles suivantes s'appliquent :
+d) le bénéficiaire et l'auteur du transfert sont conjointement et solidairement responsables du paiement d'une partie de l'impôt de l'auteur du transfert en vertu de la présente Partie pour chaque année d'imposition, égale à l'excédent de l'impôt pour l'année sur ce que cet impôt aurait été sans l'application des articles 74 à 75.1 à l'égard de tout revenu tiré des biens ainsi transférés ou des biens y substitués ou à l'égard de tout gain tiré de la disposition de tels biens, et
+e) le bénéficiaire et l'auteur du transfert sont conjointement et solidairement responsables du paiement en vertu de la présente loi d'un montant égal au moins élevé des deux montants suivants :
+(i) la fraction, si fraction il y a, de la juste valeur marchande des biens à la date du transfert qui est en sus de la juste valeur marchande à cette date de la contrepartie donnée pour le bien, et
+(ii) le total des montants dont chacun représente un montant que l'auteur du transfert doit payer en vertu de la présente loi au cours de l'année d'imposition dans laquelle les biens ont été transférés ou d'une année d'imposition antérieure ou pour une de ces années,
+mais aucune disposition du présent paragraphe n'est réputée limiter la responsabilité de l'auteur du transfert en vertu de toute autre disposition de la présente loi.
+[5] L'article 160 prévoit essentiellement que si un contribuable a une dette fiscale et qu'il transfère des biens à une personne avec qui il a un lien de dépendance, le ministre peut établir une nouvelle cotisation à l'égard du bénéficiaire afin de recouvrer l'impôt dû par l'auteur du transfert, mais seulement jusqu'à concurrence de la valeur maximale du montant qui a été transféré.
+[6] Afin de déterminer si l'article 160 s'applique en l'espèce, nous devons considérer les questions suivantes :
+a) Il y a-t-il eu transfert de biens par KRI et, le cas échéant, à qui?
+b) KRI avait-elle une dette fiscale au moment du transfert de biens?
+c) S'il y a eu transfert de biens, l'auteur du transfert avait-il un lien de dépendance avec le bénéficiaire?
+[7] En ce qui a trait à la question de savoir s'il y a eu transfert de biens par KRI, l'avocat des appelants a soutenu que le transfert des chèques en question n'était rien de plus que du « brassage de papiers » , où un chèque en compensait un autre et que, par conséquent, rien ne s'est réellement produit qui puisse être considéré comme un transfert.
+[8] L'avocat des appelants a également souligné que l'insuffisance de fonds dans les comptes de KRI et de Holdings indique que les dividendes déclarés ne pouvaient être réalisés.
+[9] En raison de l'insuffisance de fonds dans les comptes de banque de KRI et de Holdings, l'avocat des appelants a argué que l'opération n'avait « aucune valeur » . L'avocat des appelants a spécifiquement souligné que puisqu'il n'y avait pas de fonds dans les comptes de banque de KRI et de Holdings, il ne pouvait y avoir transfert de fonds.
+[10] Les faits énoncés précédemment indiquent que KRI a vendu son volume d'affaires en 1990 pour la somme de 390 000 $. Les fonds reçus de la vente ont été portés au compte de dividende en capital de KRI et sont devenus les fonds à partir desquels le dividende a été versé. Monsieur Kirkwood a affirmé que ses comptables avaient établi que la somme de 94 000 $ était le montant qui devait être déclaré à titre de dividende en capital.
+[11] À mon avis, il s'ensuit que le dividende avait en fait une certaine valeur. Je ne retiens pas l'argument des appelants qu'il n'y avait aucune valeur lorsque le dividende en capital a été déclaré par KRI.
+[12] L'avocat de l'intimée a également soutenu que toute responsabilité imposée en vertu de l'article 160 de la Loi doit être réduite par la juste valeur marchande de toute contrepartie donnée pour le transfert. Je suis d'avis qu'aucune contrepartie n'a été versée pour le transfert de fonds.
+[13] Il y a eu trois transferts de fonds en l'espèce :
+1. Monsieur Kirkwood a déposé la somme de 94 000 $ au compte de banque de KRI;
+2. KRI a transféré la somme de 94 000 $ au compte de banque de Holdings;
+3. Holdings a transféré la somme de 94 000 $ à M. Kirkwood.
+[14] Monsieur Kirkwood détenait la totalité des actions de Holdings, et Holdings détenait la totalité des actions de KRI. Il s'ensuit, par conséquent, que M. Kirkwood avait un lien de dépendance avec KRI et Holdings. (Voir l'article 251 de la Loi.)
+[15] Selon l'analyse de l'opération qui précède, je conclus qu'il y a eu transfert au sens de l'article 160 de la Loi.
+[16] Nous devons ensuite déterminer si KRI avait une dette fiscale afin de déterminer si l'article 160 s'applique. Selon l'avis de ratification établi par le ministre le 30 novembre 1999, une nouvelle cotisation a été établie à l'égard de KRI le 10 octobre 1995 et l'impôt, les intérêts et les pénalités s'établissaient comme suit :
+Impôt fédéral 50 068,25 $
+Intérêts 49 758,20 $
+Pénalités 8 511,60 $
+[17] Lors de l'audience, l'avocat des appelants a soutenu que M. Kirkwood ne devrait pas être assujetti à l'impôt en vertu de l'article 160 en raison de l'argument sur l'effet de « cascade » dont il a été question dans d'autres affaires. L'avocat des appelants s'est reporté à l'affaire Nanini c. La Reine, C.C.I., no 92-2366(IT)G, 13 juin 1994, [1994] A.C.I. no 426, où le juge Tremblay a conclu que l'application automatique de l'article 160 aux bénéficiaires d'un transfert de biens après que ces biens aient passé par un autre bénéficiaire crée un effet de « cascade » et que l'article 160 ne devrait pas s'appliquer au deuxième bénéficiaire.
+[18] J'ai également examiné l'affaire Jurak c. La Reine, 2002 D.T.C. 1236. Dans cette affaire, le juge Lamarre Proulx de la Cour canadienne de l'impôt n'a pas suivi la décision du juge Tremblay dans l'affaire Nanini. Elle écrivait ce qui suit, au paragraphe 38 :
+Malgré toute la déférence que j'ai pour le savant juge Tremblay, je ne peux le suivre dans sa décision Nanini (supra). Cette interprétation n'a pas été reprise par les juges de cette Cour. Le bénéficiaire d'un transfert peut devenir lui-même l'auteur d'un transfert sujet à l'application du paragraphe 160(1) de la Loi si au moment du deuxième transfert, il est lui-même débiteur fiscal soit de son propre chef ou en tant que débiteur solidaire avec le premier auteur.
+[19] Je suis d'avis que le juge Lamarre Proulx, dans l'affaire Jurak, a correctement interprété l'article 160 et je ne crois pas que M. Kirkwood puisse éviter l'obligation fiscale en vertu de l'article 160 en se fondant sur l'argument de l'effet de cascade.
+[20] J'ai également pris en compte l'argument avancé par l'avocat des appelants selon lequel KRI aurait le droit de déduire une créance irrécouvrable lors du calcul de son revenu pour l'année d'imposition 1991.
+[21] À l'audience, l'avocat des appelants, Me Graeme Sperryn, a déclaré que, en ce qui a trait aux créances irrécouvrables de KRI, il ne pouvait fournir une preuve qu'à l'égard de créances irrécouvrables totalisant 19 800 $ (et non 48 000 $, tel qu'il est indiqué dans l'avis d'appel). (Voir la page 39 des transcriptions.)
+[22] Monsieur Kirkwood a témoigné que le montant de 19 800 $ correspondait à la radiation par KRI d'un compte débiteur. À mon avis, KRI devrait pouvoir déduire une créance irrécouvrable de 19 800 $ lors du calcul de son revenu pour l'année d'imposition 1991.
+[23] Une justification pour les nouvelles cotisations établies à l'égard de KRI se trouve dans l'affaire Thorsteinson c.M.R.N., C.R.I., no 79-79, 28 avril 1980, 80 D.T.C. 1369, où la Commission a conclu qu'un contribuable à l'égard duquel une nouvelle cotisation avait été établie en vertu de l'article 160 avait le droit de demander à la Commission de se pencher sur la nouvelle cotisation sous-jacente ayant donné lieu à la nouvelle cotisation établie en vertu de l'article 160.
+[24] Les appels des appelants sont admis, sans dépens, et le ministre doit établir une nouvelle cotisation à l'égard de KRI pour l'année d'imposition 1991 en tenant compte du fait qu'elle a le droit de déduire une créance irrécouvrable de 19 800 $. Le ministre doit également établir une nouvelle cotisation à l'égard des appelants en tenant compte de la réduction de l'obligation fiscale.
+[25] Pour établir le montant de l'impôt payable par M. Kirkwood et Holdings en vertu de l'article 160, le ministre doit tenir compte du fait que la nouvelle cotisation établie en vertu de l'article 160 ne crée pas une dette fiscale et que, par conséquent, les nouvelles cotisations à l'égard de M. Kirkwood et de Holdings ne devraient pas
+comprendre les intérêts après la date du transfert (voir l'affaire Algoa Trust c. La Reine, C.C.I., no 96-1186(IT)G, 23 février 1998, 98 D.T.C. 1614).
+Signé à Vancouver (Colombie-Britannique), ce 14e jour de mars 2003.
+« L. M. Little »
+J.C.C.I.
+Traduction certifiée conforme
+ce 28e jour de janvier 2005.
+Yves Bellefeuille, réviseur

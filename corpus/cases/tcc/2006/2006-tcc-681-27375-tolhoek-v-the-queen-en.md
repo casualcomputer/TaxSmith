@@ -1,0 +1,333 @@
+---
+title: "Tolhoek v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27375/index.do"
+last_modified: "2006-12-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 681"
+citation2: ""
+neutral_citation: "2006 TCC 681"
+decision_date: "2006-12-15"
+language: "en"
+item_id: "27375"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 132
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:27:50.852000+00:00"
+cases_cited_count: 2
+cases_citing_count: 7
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "eeca5c03dd2a43f7f0310c1099ad79c9a0babc30dd59718e3e98e4558f1cecf0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Tolhoek v. The Queen
+
+- Citation: 2006 TCC 681
+- Decision date: 2006-12-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 132, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tolhoek v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-12-15
+Neutral citation
+2006 TCC 681
+File numbers
+2005-310(IT)I
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-310(IT)I
+BETWEEN:
+BERT TOLHOEK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 2 and 3, 2005 and February 16 and 17, 2006 at Toronto, Ontario
+Before: The Honourable Justice Diane Campbell
+Appearances:
+Counsel for the Appellant:
+Clifford L. Rand
+David C. Muha
+Counsel for the Respondent:
+Patricia Lee
+Bobby Sood
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 1997 taxation year is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Halifax, Nova Scotia, this 15th day of December 2006.
+"Diane Campbell"
+Campbell J.
+Citation: 2006TCC681
+Date: 20061215
+Docket: 2005-310(IT)I
+BETWEEN:
+BERT TOLHOEK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+CampbellJ.
+Introduction
+[1] This appeal concerns a reassessment by the Minister of National Revenue (the "Minister") for the 1997 taxation year and raises issues concerning limited-recourse financing and the Minister's power to reassess beyond the normal limitation period when dealing with tax shelter investments.
+[2] In brief, the Appellant invested in a computer software tax shelter designed to take advantage of a favourable 100% capital cost allowance. Amongst a medley of business entities and a complex series of transactions, the Appellant purchased an interest in a limited partnership that owned software, with a combination of cash and indebtedness. The Appellant then claimed the entire amount of the investment (cash and a pro rata share of a promissory note) as a deduction in his 1997 income tax return.
+[3] The software related to the trading of financial futures and had been paid for by the partnership with a promissory note equal to the purchase price. Units of the partnership were then sold to investors who assumed pro rata shares of the debt. The vendor of the software had guaranteed that the software was capable of generating revenue which, at minimum, would satisfy the principal owing on the promissory note before it became due. A mechanism was also included in the agreement to pay the interest owing on the promissory note.
+[4] The Appellant received a Notice of Assessment by the Minister on May 18, 1998. By Notice of Reassessment dated November 24, 2003, the Minister reassessed the Appellant and reduced the Appellant's loss deduction, in respect of his investment in the Icon Capital Limited Partnership ("ICON"), to $15,000.00, the cash portion of his investment.
+[5] The Minister relied on section 143.2 of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), as amended, (the "Act") to deem certain amounts of the indebtedness (both principal and interest) to be limited-recourse amounts and reassessed the Appellant after the normal reassessment period had expired.
+Facts
+[6] The facts in this appeal, while numerous and complicated, are mostly undisputed. As it is central to a determination of the issues, I will briefly summarize the factual background of this appeal as follows:
+I) Icon Capital Limited Partnership ("ICON")
+a. On December 30, 1996, ICON was a limited partnership between the initial limited partner, Edward K. Furtak, and the general partner, ICLP Management Inc., a corporation owned or controlled by Greg Coleman.
+b. ICON was registered as a tax shelter pursuant to the requirements of the Act.
+c. ICON purchased 100% of the software, "S & P Index" with a promissory note in the amount of $20,000,000.00, dated December 30, 1996 (the "Acquisition Note" or the "Note"). The Note bore interest at 5% per annum (payable annually) and was due in full on December 1, 2006.
+d. The vendor of the software was Trafalgar Capital, which was a subsidiary of the company that had developed the software, Trafalgar Research. Both corporate entities were controlled by Edward K. Furtak.
+e. The S & P Index software consisted of a bundle of computer programs designed to produce trading signals relating to various financial futures markets.
+II) The Offering
+f. An Offering Memorandum, dated May 30, 1997, set out an offering of limited partnership units in ICON for a maximum of $20,000,000.00, at $1,000.00 per unit. For each unit, 30% was payable in cash, in three instalments, within six months of closing, and 70% by assumption of a pro rata share of the Note.
+g. The Offering Memorandum further stipulated that ICON had acquired 100% of the S & P Index software from Trafalgar Capital and included a copy of the Acquisition Note and an "Amended Software Agreement" dated May 30, 1997.
+h. Among the representations and warranties, subclause 4.01(k) of the Amended Software Agreement stated that the Computer Programs were capable of generating at least 500 Trading Reports per year, per $250,000.00 in trading funds. The Agreement further guaranteed an average annual revenue of no less than 12% on leveraged trading funds between the date of the Agreement (May 30, 1997) and the date the Note became due (December 1, 2006). This revenue was intended to satisfy the whole of the principal owing under the Note.
+III) The Appellant's Purchase
+i. On the advice of his financial advisor, the Appellant purchased 50 units in ICON for $50,000.00.
+j. Pursuant to the terms of the Offering, the purchase price was paid with a combination of cash and by the assumption of a pro rata share of the Note. The Appellant was to provide three cash payments totalling $15,000.00: one on closing in December 1997, one on April 15, 1998 and one on July 15, 1998. In addition, the Appellant executed an Assumption Agreement in which he agreed to pay Trafalgar Capital, as the vendor of the software, $35,000.00 for the balance of his subscription on June 30, 1997. This amount represented his pro rata share of the Note.
+IV) ICAP (Bermuda) Limited Partnership ("ICAP") and
+TheTrading Fund
+k. The Offering Memorandum indicated that ICON would license the computer programs to ICAP (Bermuda) Limited Partnership ("ICAP") which, in turn, would use the computer programs to trade the "Trading Fund".
+l. ICAP was a limited partnership formed pursuant to the laws of Bermuda, on October 31, 1997, by Trafalgar Capital (the General Partner), Trafalgar Research, and ICON.
+m. The Trading Fund was pledged by Trafalgar Research and consisted of the cash amounts raised from the sale of the ICON partnership units.
+n. As the General Partner of ICAP, Trafalgar Capital was to invest the Trading Fund in accordance with the signals generated by the S & P Index computer programs.
+o. ICAP was to pay $20.00 US to ICON for each Trading Report generated by the software. The Agreement had guaranteed that the software would generate a minimum number of reports. These payments were to be treated as distributions to the partners and were intended to satisfy the annual interest owing to Trafalgar Capital on the Note which had been assumed pro rata by the partners.
+V) December 31, 1997
+p. The Closing of the ICON Offering took place in late 1997.
+q. For the year ended December 31, 1997, ICON's financial statements indicated that limited partnership units were issued for $14,880,000.00, and computer software had been acquired for $14,880,000.00. This amount represented a 74.5% interest in the S & P Index for consideration of $4,464,000.00 (cash) and $10,416,000.00 (the Partnership's Acquisition Note which had been assumed by the partners on a pro rata basis).
+r. In computing income for tax purposes, for the period ending December 31, 1997, ICON claimed 100% capital cost allowance for the acquisition of the S & P Index software at a cost of $14,880,000.00.
+[7] In reassessing the Appellant, the Minister was not satisfied that there were bona fide arrangements for repayment of the principal owing on the Note or the interest. The Minister was also not satisfied that the interest on the Note had been paid by the limited partners. As a result, the Minister concluded that the indebtedness pursuant to the Note was limited-recourse for purposes of section 143.2 of the Act. The following assumptions relied upon by the Minister were expressly denied by the Appellant:
+[Assumptions by the Minister relating to the arrangements to repay the indebtedness]
+nn) The indebtedness under the Acquisition Note was unsecured, the principal sum was not due and payable for 10 years and was subject to an interest rate of only five percent (5%) per annum, and the Note was subject to, inter alia, the warranty of Trafalgar Capital that the S & P Index software would generate an average annual return of no less than 12% on leveraged trading funds;
+oo) Trafalgar Capital could not transfer, assign, pledge or otherwise encumber the indebtedness under the Note without the express written consent of its maker, which consent could be unreasonably withheld;
+pp) The interest of the limited partner in the Partnership including the obligations under the Note were transferable by the limited partner;
+qq) The limited partners expected that they would not have to pay any amounts on account of interest out of their own funds, regardless of the actual revenues or profits of the Partnership;
+rr) Any arrangement requiring Trafalgar Capital or Trafalgar Research to provide funds sufficient to meet the obligation to pay interest was not a bona fide commercial arrangement, including any warranty or guarantee of minimum trading report fees;
+ss) The arrangements for repayment for the Acquisition Note and all interest on the indebtedness were not bona fide.
+[Assumptions by the Minister relating to the payment of interest on the Note]
+ff) The limited partners of the Partnership, including the Appellant, did not pay all interest owing under the Acquisition Note, which liability had been assumed by the limited partners, in respect of any of the 1997, 1998, 1999 or 2000 indebtedness;
+gg) None of the limited partners directly paid any amounts on account of interest out of their own funds, rather in each of the years, the Partnership claimed that it paid the interest out of revenues as distributions to the limited partners;
+hh) The Partnership never had revenues in any of the years sufficient to pay all interest owing by the limited partners;
+ii) In early 1998 and 2000, funds were transferred to the Partnership, apparently by Trafalgar Research, and immediately wired back to the Partnership and were represented as payments of interest on the Acquisition Note for the year just ended;
+jj) The funds transferred to the Partnership and wired back by the Partnership were not revenues earned by the Partnership or in respect of revenues of the Partnership, nor amounts which the Partnership was owed, nor were these amounts paid by the debtors, the limited partners, in respect of their indebtedness under the Acquisition Note;
+kk) The contractual arrangements did not require that Trafalgar Capital and/or Trafalgar Research transfer or provide funds to the Icon Partnership or the limited partners sufficient to pay all interest on their indebtedness;
+ll) With respect to interest owing under the Acquisition Note for 1998, no funds were paid, rather the amount was credited via a journal entry;
+mm) The Partnership reported nil revenues for the year 2000 and no distributions to the limited partners.
+[8] Further, the Minister stated that information available in Bermuda was required to assist in determining whether the indebtedness of ICON's limited partners was limited-recourse for purposes of section 143.2, and that this information was not provided to the Canada Revenue Agency (the "CRA") as requested. The Minister was therefore not satisfied that the indebtedness was not limited-recourse for the purposes of the section.
+Issues
+[9] Although the facts in this case are complex, the issues, I believe, are straightforward. They are:
+(1) Was the amount of the Appellant's unpaid indebtedness under the Acquisition Note properly deemed to be a limited-recourse amount pursuant to subsection 143.2(7)?
+(2) Does the deeming rule in subsection 143.2(13) "Information Located Outside Canada" apply?
+(3) Was the Minister entitled to reassess outside the normal limitation period pursuant to subsection 143.2(15)?
+(4) Was the Appellant's at-risk amount under subsections 96(2.1) and (2.2) reduced by the limited-recourse debt of the Appellant, pursuant to subsection 143.2(6)?
+(5) Was withholding tax owing under Part XIII of the Act?
+[10] In paragraph 14 of the Further Amended Reply, the Minister also raised an issue in respect of subsection 143.2(8). However, this argument was not pursued at the hearing. Accordingly, I will not deal with it here.
+[11] Regarding Issue (4), subsection 143.2(6) is at the heart of section 143.2. However, I do not need to go into any weighty discussion of subsection 143.2(6) because I believe that my determinations pertaining to 143.2(7) and 143.2(13) will effectively decide this question. Suffice it to say that, pursuant to this provision, where either subsection 143.2(7) or (13) apply, the amount of a taxpayer's expenditure in respect of his investment in the tax shelter scheme is reduced by the deemed limited-recourse debt.
+[12] Regarding Issue (5), withholding tax was not addressed in submissions by either counsel at trial and I will therefore make no findings in this respect.
+[13] Consequently, in the order in which I intend to deal with them, three issues remain.
+Analysis
+(1) Was the amount of the Appellant's unpaid indebtedness under the Acquisition Note properly deemed to be a limited-recourse amount pursuant to subsection 143.2(7)?
+[14] Subsection 143.2(7) deems the unpaid principal of certain long term debt to be a limited-recourse amount unless the stipulated exceptions apply. It states:
+(7) Repayment of indebtedness - For the purpose of this section, the unpaid principal of indebtedness is deemed to be a limited-recourse amount unless
+(a) bona fide arrangements, evidenced in writing, were made, at the time the indebtedness arose, for repayment by the debtor of the indebtedness and all interest on the indebtedness within a reasonable period not exceeding 10 years; and
+(b) interest is payable at least annually, at a rate equal to or greater than the lesser of
+(i) the prescribed rate of interest in effect at the time the indebtedness arose, and
+(ii) the prescribed rate of interest applicable from time to time during the term of the indebtedness,
+and is paid in respect of the indebtedness by the debtor no later than 60 days after the end of each taxation year of the debtor that ends in the period.
+[15] As denoted by the word "and" between paragraphs (a) and (b), subsection 143.2(7) sets out two conditions to be met. I will address each condition separately.
+(a) bona fide arrangements
+[16] The Appellant argued that arrangements are bona fide for the purposes of this provision if there is a genuine intention to repay. In the Appellant's view, evidence is present on the face of the Note, signed on December 30, 1996, to satisfy the purposes of paragraph 143.2(7)(a). The Appellant further submitted that neither legal enforceability nor indicia of commerciality are relevant to this analysis. The Appellant proposed that a vendor take-back mortgage on a rental property, with a guarantee by the vendor that the property would generate a certain amount of funds, could be considered a benchmark for evaluating the present scheme. The Appellant maintained that even if the flow of money was essentially circular, the source of the funds used to pay principal and/or interest is irrelevant to the inquiry.
+[17] The Respondent contended that there were no bona fide arrangements for repayment of the indebtedness by the ICON partners. According to the Respondent, a taxpayer is required to satisfy five constituent elements of paragraph 143.2(7)(a):
+1. bona fide arrangements;
+2. evidenced in writing;
+3. made at the time the indebtedness arose;
+4. made for the purposes of repayment of debt and all interest; and
+5. that the arrangements were made within a reasonable period, no longer than 10 years.
+[18] The Respondent relied on the proposition set out in Deckelbaum v. M.N.R., 82 DTC 1636 at page 1638:
+... An arrangement is an accord or agreement between parties and where the purpose of that arrangement is the conscious avoidance of income tax otherwise payable, it behooves the parties affected to be meticulous in the extreme. The more so when the term "arrangement" in this relevant section is qualified by the flashing red light "bona fide" - a term which, simply because it lacks precision, should be approached with the greatest of caution.
+The Respondent also cited Peringieri v. M.N.R., 93 DTC 158, in which Rip J. (now Associate Chief Justice Rip) described bona fide arrangements as being "genuine", "good faith" arrangements.
+[19] The Respondent proposed a two-step analysis to determine if the requirements of paragraph 143.2(7)(a) regarding bona fide arrangements had been fulfilled: first, the terms of the arrangement should be identified, and second, the indicia of bona fides should be examined in order to determine if a genuine, good faith arrangement existed. Upon examination of the terms of the agreements, alongside the indicia of bona fides, the Respondent concluded that there was no genuine liability among the parties. The scheme provided a mechanism to create a circular flow of funds that did not constitute payment for the purposes of the provision.
+[20] Despite able argument, I find the Appellant's approach to be problematic for several reasons. The Appellant stated that the evidence of bona fide arrangements is plain on the face of the Note, which is simply untrue. Moreover, the defence of the Appellant's position is defined in the negative in many ways. The Appellant repeatedly indicated that all of the indicia of bona fides referred to by the Respondent are irrelevant. In my view, the Appellant dismissed a number of legitimate areas of concern as being simply irrelevant.
+[21] Black's Law Dictionary defines bona fide as follows:
+adj. 1. Made in good faith; without fraud or deceit. 2. Sincere; genuine.
+In the end, the existence of bona fide arrangements is a question of fact and I believe the Respondent's approach to determining whether there are bona fide arrangements in place to repay the debt, pursuant to paragraph 143.2(7), to be the appropriate one.
+[22] The term "arrangements" as used in the provision implies a multiplicity of considerations. Upon reviewing the facts, if a crucial aspect of the set of arrangements is not bona fide, it may be fatal to the entire scheme. If the combination of concerns, when the evidence is considered together, tends to indicate that on the whole the "arrangements" are not bona fide, this too should be fatal to the scheme. An examination of the range of indicia raised by the Respondent tends to make the entire scheme appear less than bona fide and it is insufficient for the Appellant to suggest that the numerous problems with this scheme can be addressed by simply labelling them all as irrelevant.
+[23] The Appellant's analogy between this tax shelter and a vendor take-back mortgage is only partly applicable. Whatever the reason for offering a vendor take-back mortgage in a real estate transaction, it reflects the respective bargaining positions of the parties and the market conditions at the time of the sale. For example, the buyer may be risk-adverse and the seller may be willing to accept more onerous terms because the market is weak.
+[24] The transaction in this appeal however is a registered tax shelter. These shelters are often financed with debt without genuine arrangements for repayment, with individuals potentially buying into a tax shelter with minimum cash, while enjoying disproportionate large losses and corresponding credits. The Appellant has compared a business opportunity, in which there are reciprocal obligations, to a tax shelter, which is set apart in the Act as being a particular type of investment opportunity for which specific rules apply to counter potential abuses.
+[25] Section 143.2 is meant to address one of these particular abuses: debt without recourse. Although the Appellant referred to irregular business practices as almost the norm in these types of arrangements, it is my view that if deals are amended without written documentation, if parties engage in sloppy business practice, and if this all looks suspect in the absence of evidence or explanation to the contrary, they should never be regarded as the norm. Together, these factors lead me to conclude that the arrangements here fall short of being characterized as bona fide.
+Evidence of Bona Fides on the Face of the Note Itself
+[26] While the Appellant submitted that the most compelling evidence of the nature of the arrangement is found in the Acquisition Note, I believe that this approach would ignore the details contained in other documents relevant to this transaction. For example, Article 5.05 of the Amended Software Agreement states that if the software does not generate a 12% return on leveraged trading funds annually, ICON can replace the Board of Directors of Trafalgar Capital.
+[27] Additionally, the Note includes an acceleration clause, in the event of default by ICON, that permits Trafalgar Capital to demand immediate payment. However this clause would probably never be triggered: in the event ICON did not pay sufficient funds to meet its obligations to Trafalgar Capital, ICON could simply "take over" the Board of Directors of Trafalgar Capital. In addition to a circular flow of funds here, there is essentially a circular order to the recourse that the debtor and creditor have against each other. One could argue that ICON could "take over" Trafalgar Capital if it did not generate sufficient revenue to pay its debt to Trafalgar Capital prior to Trafalgar Capital invoking this acceleration clause. This is a critical consideration that exists beyond the terms of the Note.
+[28] The terms of the Note, including the dates of maturity, the amount of the offering, the amending documents and what those amending documents purported to do, were confusing. There is uncertainty surrounding the total amount of money raised by the offering of units. The documentary evidence indicates that ICON raised less than the $20 million referred to in the Offering Memorandum. The documentary evidence was comprised of copies of the general ledger and financial statements. Source documents would have offered more compelling evidence. In addition some 20% of subscribers to ICON defaulted in their contributions and the evidence suggests that many others did not make their full contributions before the closing of the offering. Therefore the amount of the final offering is not only indeterminate but the period when the final amount was confirmed is unknown. Therefore, the amount of interest owing at any given time was also affected.
+[29] I also have the following concerns with the amending documents: if the Acquisition Note was subject to the Software Agreement, and the "incorrect" Software Agreement is referred to, then uncertainty surrounding the correct terms of reference for the entire arrangement remains. This makes it more difficult to determine whether the arrangements, some of which are uncertain, are bona fide. The Appellant's argument, that the written terms of the deal alone support the assertion that there were bona fide intentions to repay, is neither self-evident nor satisfactory. It is simply logical to examine the surrounding details. If paragraph 143.2(7)(a) is to be satisfied, those additional relevant details must support and reinforce the written terms of the arrangement.
+Jurisprudence in Relation to Bona Fide Arrangements:
+[30] I find the Appellant's reliance on case law dealing with subsection 15(2) problematic. Although there is a presumption of consistent expression, which, as a basic principle of statutory interpretation, requires giving the same words the same meaning throughout a statute, the weight afforded to this presumption varies because words in a statute may have different meanings depending on the context in which they are used (Barrie Public Utilities v. Canada Cable Television Association, [2001] 4 F.C. 237, 2001 FCA 236). The realities of legislative drafting can affect this presumption.
+[31] The Appellant has relied on the decision in Davidson v. The Queen, [1999] 3 C.T.C. 2159 (T.C.C.) where Justice Bowie determined that the source of funds used to make payments was irrelevant. However, section 15 was changed shortly after that decision. As well, the fact that subsection 15(2), considered in Davidson, was not in the Act at the same time as the tax shelter provisions undermines the Appellant's argument for applying the same approach or even a similar approach to both provisions.
+[32] Section 15, dealing with shareholder benefits, is located in Division B titled "Computation of Income" under subdivision b, "Income or Loss from Business or Property". Section 14 of the Interpretation Act, R.S. 1985, c. I-21 does not specifically exclude headings and titles, and as such, these elements form part of the interpretative context of the Act. Investments in income earning businesses or properties would ordinarily be dealt with in subdivision b of Division B, the same division in which section 15 is located. It is therefore reasonable to conclude that references to "bona fide arrangements" throughout Division B should receive consistent interpretation. However, section 143.2 is found in Part I, Division F, titled "Special Rules Applicable in Certain Circumstances".
+[33] In this appeal, reference to "bona fide arrangements" is located in a provision dealing with unique investments that government is particularly concerned with - tax shelters. This provision has been located in a "special" Division titled "Special Rules Applicable in Certain Circumstances". I believe it is reasonable to conclude that the phrasing within this "Special" division of the Act dealing with "certain circumstances" should not be interpreted in accordance with interpretations applied in other parts of the Act.
+[34] Examining various indicia and evidentiary requirements is essential to establishing the total relationship between the parties respecting their obligation to repay a debt. This is the appropriate approach to interpretation of this provision. Although there may be differences between "arrangements" and "contracts", I believe that you either have a meaningful, binding agreement between parties that means something to them or you do not. If the evidence does not support the existence of a legally binding agreement, then ultimately it is going to be on a collision course with the limited-recourse debt rules.
+[35] The purpose of the relevant provisions is to combat abusive tax shelters. It is simply unreasonable to suggest that Parliament enacted this legislation with the intent of leaving such a gaping hole. The provision does not lend itself to an interpretation that would essentially exempt parties who are not bound to repay their indebtedness with respect to a tax shelter. The point of the section is to target limited-recourse debt. Even if one were to accept the Appellant's contention that bona fide arrangements can be something less than contractually and commercially binding, I believe they must encompass the requisite elements that will identify them as being genuine and made in good faith (as stated by Rip J. in Peringieri, supra). As such, proof on a viable evidentiary basis is required.
+Other Indicia of Bona Fide Arrangements:
+[36] The Respondent suggested a number of other indicia that should be examined to assist in determining whether bona fide arrangements for repayment were in place. There were 99 limited partners who resided in a different country from those who were in charge of the scheme, yet the partners provided no security or collateral. The documentation before the Court is slightly unclear and most of the key financial data is not supported by source documentation. The principal amount under the Note was not due until the end of the 10-year term. On June 30, 2006, the debtors exercised their option and took over the Board of Trafalgar Capital shortly before the Note matured on December 1, 2006. Furthermore, the fact that Mr. Furtak was on both sides of the deal, at least initially, casts doubt on the borrower/lender relationship. The debt was not transferable by Trafalgar Capital. Lastly, there was no genuine risk of loss, because the debtor had strong recourse against the creditor in the event that the creditor failed to live up to the revenue guarantee.
+[37] Alone, a guarantee of revenue is not troubling. However, the interaction between the revenue guarantee, the recourse of ICON against Trafalgar Capital, and the ramifications for the repayment of the debt, casts the veracity of the intent to repay in some jeopardy.
+[38] On its own, a circular flow of funds is not particularly troubling either, if it exists in circumstances where the transaction is bona fide. However this is not a particularly useful indicator for determining bona fides when Trafalgar Capital had assurances that any money transferred to ICON would be returned to it immediately. The transfer of any amount of money was made with either very little risk or none at all. Although any one of these indicia alone may not be sufficient to tip the scales, when considered together, the transactions between ICON, the Bermuda LP, and Trafalgar Capital, can be characterized as less than bona fide.
+[39] In addition, the Respondent made an interesting and valid point with respect to the retention of approximately 25% of the S & P Index software by Trafalgar Capital. There was nothing in the evidence to suggest that Trafalgar Capital did not have the right to continue using that portion of the software which it did not sell to ICON. I am left with the same question the Respondent posed: if Trafalgar Capital sold 75% of a software package that can be copied indefinitely without diminishing the property value, why did it have to pay to use the software when it still had the use of about 25% of the program?
+[40] On reviewing all of the facts, particularly the circular flow of money and the inconsistencies in the evidence presented, I must conclude that the arrangements were not bona fide. I believe the approach put forth by the Appellant would in effect defeat the very purpose of the legislation. Without being over simplistic, the phrase "bona fide arrangement" in the context of tax shelters cannot be resolved in favour of a taxpayer simply by having an investor come to Court and asking the Court to accept that there was an honest intention to repay the debt. A bona fide arrangement must encompass more than this. Such an arrangement should readily be seen to be binding upon the parties; it should be prima facie obvious. Despite extensive evidence, I was left with questions concerning the specific terms of the transaction. I therefore conclude that the nature of the transaction between the parties was not a bona fide arrangement as required by paragraph 143.2(7)(a).
+(b) interest paid
+[41] From the wording of the provision, it is clear that there are two major requirements of paragraph 143.2(7)(b): interest must be payable at least annually at a prescribed rate, and paid no later than 60 days after the end of each taxation year of the debtor that ends in the period. If I am correct in my conclusion with respect to paragraph 143.2(7)(a) - that there were no bona fide arrangements - it begs the question if interest was ever really payable. Even if I am wrong with respect to the bona fides of the arrangements, the conjunctive test in this subsection, requiring both conditions set out in paragraphs 143.2(7)(a) and 143.2(7)(b) to be satisfied, permits the entire question to be settled by the final determination as to whether interest was actually paid.
+[42] The Appellant maintained that interest was paid annually at a prescribed rate and presented witness testimony and financial statements in support of this position. The Appellant submitted that the deal was structured so that income earned by ICON from the trading reports would be treated as a distribution to the partners and that these payments would be re-directed to pay interest owing to Trafalgar Capital. According to the Appellant's witnesses, interest was either paid in full each year or paid by way of off-setting journal entries in 1998.
+[43] The Respondent submitted that interest payments could not be determined because the Appellant had provided inconsistent evidence documenting the amount of the principal owing under the Note, the revenues earned by ICON, and the amounts actually paid by the partners in the course of both the audit and at trial.
+[44] The Respondent further asserted that this provision required payment, not credit. Even if offsetting entries could be considered payment, the Respondent argued that they would not be available here because Trafalgar Capital did not owe money to either ICON or to each partner. ICAP had committed to pay the trading report fees, not Trafalgar Capital. Furthermore, the Respondent denied that sufficient revenues had been generated to satisfy the interest owing, leveraged trading funds or not.
+[45] Both the Appellant and the Respondent agreed that interest was payable at least annually and that there was a prescribed rate of interest. Therefore the heart of the dispute is whether interest was paid within 60 days. Contrary to what the Appellant proposed, in order to adequately resolve this issue I must examine whether interest was actually paid at all and, if interest was paid, whether it was the correct amount.
+[46] I believe that it is critical that interest was paid pursuant to a "bona fide arrangement". As I concluded under paragraph 143.2(7)(a), I do not find circular flow of money, in itself, to be offensive provided the indicia of bona fides are otherwise present; nor do I have a problem with the off-setting journal entries which were completed in 1998. The authorities are compelling and the decision of Bonner J. in Armstrong v. Canada (Minister of National Revenue, M.N.R.), (1987) 88 DTC 1015, has been cited with approval in many cases.
+[47] Certainly when I look at each of these taxation years, and in particular 1997, funds did flow and payment-like events occurred within the time limit prescribed in paragraph 143.2(7)(b). However that alone does not resolve the matter and the question becomes "whether these payment-like events constitute a payment of interest such that paragraph 143.2(7)(b) is satisfied?" Simply offering proof of a circular flow of money, with little else, will be insufficient to make a scheme bone fide. It is proof of nothing and, in fact, when this is the only thing offered, I believe the scheme demands closer scrutiny in light of the tax shelter provisions. Again, I have difficulty determining with certainty what the specific terms of the arrangement actually were. Where the evidence is unclear as to what the specific principal amount of indebtedness is, it is difficult, if not impossible, to determine the correct amount of interest required to be paid in each year.
+[48] Both Mr. Coleman and Mr. Furtak testified generally about the interest payment but they were unable to offer a precise calculation of the $700,000.00 payment in 1997 (Transcript, pages 362, 365, 493 and 494). Mr. Tolhoek was also unable to give any evidence respecting his payment obligations including the interest rate, quantum of interest, or the dates that payments were made. The Appellant submitted that Audited Financial Statements and Statements of Partnership Income prove that sufficient revenue was earned and interest paid. However these documents are not source documents and the financial statements for 1999 and 2000 were completed at the lowest level of assurance and compiled without verification of the information.
+[49] There is also inconsistent evidence respecting the amount of the principal owing under the Note, the revenues earned by ICON, and the cash amounts originally paid by the partners. We know from the evidence that the principal of the Note was reduced when the total offering could not be completed. However, I do not know when it was amended and I was not provided with the amended note. Although the oral evidence is that it was reduced to $14.88 million, only some of the testimony seemed to confirm this amount.
+[50] The nature of the revenue guarantee is also questionable. Article 4.01(k) is a critical provision in this scheme but it does not speak of "leveraged" trading fund in the calculation of the number of trading reports. The relationship between the revenue and the trading reports and the amount of the trading fund is unclear - was it leveraged or not? Similarly, was it based on some notional trading fund or an actual fund? Different representations were made to the auditor during the audit in respect of the reports being computed on the basis of leverage. There were also inconsistencies within the documentation in respect of whether "leveraged" meant a ratio greater than 4:1 or no greater than 4:1. Neither of these variations exactly matched Mr. Coleman's testimony.
+[51] All of these factors make it impossible to determine with any certainty the precise amount of interest owing in any year. The records of Trafalgar Capital were not put into evidence. These records together with relevant source documents may have gone a long way to resolving some of these uncertainties but without them, I am left with amounts that cannot be properly reconciled. In the end, I am unable to conclude that interest was paid pursuant to a bona fide arrangement.
+[52] The deeming provisions set out in the various subsections of section 143.2 operate independently. Having found that the Appellant's indebtedness was appropriately deemed a limited-recourse amount pursuant to subsection 143.2(7), it seems unnecessary for me to consider if subsection 143.2(13) might also apply. However, in the event I am wrong in respect of this issue, I will also examine the application of subsection 143.2(13).
+(2) Does subsection 143.2(13) "Information Located Outside Canada" apply?
+[53] Subsection 143.2(13) states:
+Information located outside Canada − For the purpose of this section, where it can reasonably be considered that information relating to indebtedness that relates to a taxpayer's expenditure is available outside Canada and the Minister is not satisfied that the unpaid principal of the indebtedness is not a limited-recourse amount, the unpaid principal of the indebtedness relating to the taxpayer's expenditure is deemed to be a limited-recourse amount relating to the expenditure unless
+(a) the information is provided to the Minister; or
+(b) the information is located in a country with which the Government of Canada has entered into a tax convention or agreement that has the force of law in Canada and includes a provision under which the Minister can obtain the information.
+[54] Simply put, subsection 143.2(13) deems an amount to be limited-recourse debt when relevant information is located outside Canada and is either not available or not provided to the Minister. The inquiry in this regard is, again, factual. The provision does not specify who must provide this information but presumably the onus must be with the taxpayer.
+[55] The Appellant argued that it was unclear what information the Minister was requesting and noted that correspondence from the CRA did not mention subsection 143.2(13). Further, the Appellant insisted that the information had been requested from ICON instead of the Appellant. Additionally, the Appellant claimed that the CRA had neither highlighted the importance of their request nor was the request communicated to the Appellant.
+[56] The Respondent stated that the auditor's request for source documentation and information, believed to be located in Bermuda, was not complied with. The Respondent insisted that the provision is fairly broad and provides that a debt will be deemed a limited-recourse debt where the Minister reasonably believes that information relevant to a taxpayer's tax shelter expenditure is available outside Canada, and where the Minister is not satisfied that the unpaid principal of the indebtedness is not a limited-recourse amount.
+[57] Based on the evidence, where the key players, partnerships and corporations are based in Bermuda and where funds are flowing between Bermuda and Canada, it can be safely assumed that information regarding the Appellant's investment was located outside Canada. The Respondent therefore submitted that the debt was properly deemed a limited-recourse amount pursuant to subsection 143.2(13) of the Act.
+[58] Ultimately, it does not appear from the wording of the provision that there is any leeway for the taxpayer who simply claims he cannot access the required information. The banking records of a party to a tax shelter arrangement would certainly relate to indebtedness and would therefore be connected to the taxpayer's expenditure.
+[59] In this appeal, Trafalgar Capital is a party to the arrangement and its banking records are integral to the issue. The auditor specifically requested this information but it was not provided. I do not accept the Appellant's submission that ICON was unable to ascertain the exact information that the Minister required. The documentary evidence contains clear requests from the auditor for information concerning trading accounts (R-1, Vol. II, Tabs 5 and 7) and clear responses from ICON expressing an inability to provide certain items (R-1, Vol. II, Tabs 6 and 8). In correspondence from ICON to the auditor (A-1, Tab 8), it was suggested that the requested information was already available to the Minister in the form of Monthly Activity Reports and Month-End Statements together with Monthly Partnership Reports. However these were not the requested source documents.
+[60] Moreover, given the absence of evidence explaining why Trafalgar Capital did not simply comply with the auditor's request and provide the information, I can only speculate as to the reasons for this non-compliance. These companies and partnerships are closely inter-related. The Appellant's two witnesses, Mr. Furtak and Mr. Coleman, are the key players in this scheme and Mr. Furtak was, in fact, initially a party on both sides of the transaction. For ICON to simply state that Trafalgar Capital was not complying with this request casts suspicion on the nature of the refusal. Banking documents should have been readily available to comply with the auditor's request and certainly I am at liberty to draw an adverse inference as a result of the failure to provide this information. This is not to imply that other financial information forms are unreliable pieces of evidence, but where the bona fides of a transaction or set of transactions is at issue, it is reasonable to expect production of original and supporting source documentation, and not summaries or compilations completed by the parties to the impugned transaction.
+[61] The Appellant argued that the Minister should have provided clearer notification of the request for information directly to the Appellant, because the other partners would not necessarily care if the Appellant bore the brunt of the reassessment when the auditor did not receive sufficient information. However, clearly if ICON was being audited, the outcome of this audit was going to have an impact on all the partners.
+[62] Although I have some sympathy for Mr. Tolhoek, and I recognize that the Appellant in this appeal may not necessarily have been in a position to oblige Trafalgar Capital to comply with the Minister's request, one must remember that he invested in a software tax shelter principally located (or at least with strong connections) to Bermuda. Special rules apply to tax shelters and if the partners and promoters fail to present information existing outside Canada and requested by the Minister, unfortunately, it is the taxpayer who bears the burden of those consequences.
+[63] Finally, I do not believe, as the Appellant has suggested, that the Minister is precluded from relying on subsection 143.2(13) at a later date simply because his conclusions respecting the reassessment did not specifically reference this provision. All of the events leading up to the reassessment confirm that the auditor was directing his mind to the requirements of this provision and that his requests for information were largely ignored. Thus, I conclude that the Minister appropriately deemed the indebtedness to be limited-recourse pursuant to subsection 143.2(13).
+(3) Was the Minister entitled to reassess outside the normal limitation period pursuant to subsection 143.2(15)?
+[64] Subsection 143.2(15) reads as follows:
+(15) Assessments − Notwithstanding subsections 152(4) to (5), such assessments, determinations and redeterminations may be made as are necessary to give effect to this section.
+(15) Cotisations. Malgré les paragraphes 152(4) à (5), le ministre peut établir les cotisations voulues et déterminer ou déterminer de nouveau les montants voulus pour l'application du présent article.
+[65] The Appellant argued that, in respect of his 1997 taxation year, the normal reassessment period expired on May 14, 2001, pursuant to subsection 152(3.1) of the Act; therefore, reassessment by the Minister approximately two and one-half years afterward was statute-barred.
+[66] The Appellant maintained that subsection 143.2(15) should not apply here because it was not "necessary" for the Minister to have reassessed beyond the normal limitation period, and characterized the phrase "as are necessary" contained in this provision as substantially limiting the Minister's ability to reassess outside the limitation period.
+[67] The Appellant submitted, first, that all the necessary facts underlying the assessment were known by the Minister prior to the expiration of the normal reassessment period. The Appellant argued that the purpose of this provision is to grant the Minister additional time to reassess when facts occur subsequent to the expiration of the normal period and that this subsection was not intended to compensate the Minister for missing the deadline due to a shortage of auditors, for example.
+[68] Second, the Appellant reasoned that had Parliament intended to authorize unrestricted reach for the Minister to reassess, the appropriate wording would have been used. The Appellant compared this subsection to several other provisions in the Act which allow for reassessment beyond the normal limitation period, and concluded that the phrase "as are necessary" was far more restrictive than other wording available to Parliament.
+[69] Third, the Appellant contended that the rationale behind limitation periods demands that the Minister proceed with due dispatch and without unreasonable delay. Relying on The Queen v. Markevich, [2003] 1 S.C.R. 94, the Appellant submitted that the Supreme Court has clearly identified the strong policy rationale for limitation periods and it would therefore be draconian if the Minister could reassess years after the deadline as he saw fit.
+[70] The Appellant suggested that from the wording of the subsection, it would be reasonable to expect the Minister to proceed with due dispatch and that any unreasonable delay should work against the Minister. The Appellant also referred to the Federal Court of Appeal decision in Ginsberg v. Canada, [1996] 3 F.C. 334, which addressed the interpretation of "all due dispatch" and argued that a delay that prima facie indicates that the Minister failed to act on a timely basis, places the onus with the Minister to prove the delay was reasonable. Where limitation periods are suspended, the Minister is still obliged to work in a diligent manner without unnecessary delay.
+[71] Finally, the Appellant proposed that the English version of the provision best represents the purpose and appropriate interpretation of subsection 143.2(15). According to the Appellant, the fact that the words "as are necessary" are not included in the French version, suggests that the provision should be read in a limitative fashion, particularly in light of his submissions regarding due dispatch and reasonable periods for Ministerial action.
+[72] According to the Respondent, the meaning of the provision may be discerned from a plain reading of the text of subsection 143.2(15), and the phrase "as are necessary" merely restricts the extent or nature of the reassessment and not the ability to reassess.
+[73] The tax shelter regime is unique in the Act and the Respondent argued that the Minister may find it necessary to make adjustments after the expiration of the limitation period. The ability to reassess under subsection 143.2(15) should not be based on the timing of events relative to the normal reassessment period. The Respondent contended that even if there was a limitation on the reassessment time-frame, the Minister's ability to reassess is not foreclosed until all relevant events have occurred. Reporting under section 143.2 does not require each partner in a partnership arrangement to report, on an annual basis, the interest he or she has paid, or not paid. Therefore, it is reasonable to allow the Minister to reassess at some point when the events are completed.
+[74] The Respondent submitted that the rule deeming a debt to be limited recourse was triggered by the failure to provide complete information as requested during the audit, as previously discussed.
+[75] Moreover, the Respondent asserted that the requirement for this subsection stems from the statutory context of section 143.2. The broad wording of subsection 143.2(15) is aimed at perceived widespread abuse in the system and supports the view that the Minister must be in a position to monitor transactions and enforce the terms of the Act in such circumstances.
+[76] With respect to the Appellant's second argument, the Respondent stressed that because the tax shelter rules are distinct and specific, it is difficult to compare subsection 143.2(15) to other provisions in the Act.
+[77] Finally, the Respondent also compared the English and French versions of this provision, and argued that the omission of the phrase "as are necessary" supports the proposition that there is no restriction on the ability to reassess in the context of the tax shelter regime of the Act.
+[78] To date, subsection 143.2(15) has not been judicially considered and while I must engage in the exercise of statutory interpretation without the benefit of jurisprudence, the recent decision of The Queen v. Canada Trustco Mortgage Company, [2005] 2 S.C.R. 601, at paragraphs 10-11, has instructed courts to undertake a unified textual, contextual and purposive approach to statutory interpretation "to find a meaning that is harmonious with the Act as a whole."
+Textual analysis
+[79] Both parties to this appeal placed the meaning and scope of the phrase "as are necessary" at the heart of this issue. The Appellant argued that the qualifier applied to the performance of the reassessment and that it was not "necessary" for the Minister to have reassessed beyond the expiration of the limitation period when all the facts were available prior to that expiration. The Respondent argued that the wording of subsection 143.2(15) is aimed at perceived widespread abuse in the system and should be broadly interpreted.
+[80] "Necessary" is defined in the Canadian Oxford Dictionary as:
+adj. 1 requiring to be done, achieved, etc.; requisite, essential.
+from Latin necessarius
+Black's Law Dictionary provides the following definition of "necessarius":
+adj. [Latin] 1. Necessary; essential. 2. unavoidable; obligatory; compelling.
+However, this issue is not so easily resolved. The wording of subsection 143.2(15) is neither precise nor certain and is clearly open to more than one interpretation.
+[81] Both parties also noted that the phrase "as are necessary" was absent from the French version of the subsection. The Appellant proposed that the English version of the provision best represents the purpose and appropriate interpretation of subsection 143.2(15) and suggested that the provision should be read in a limitative fashion. The Respondent argued that the omission of the phrase "as are necessary" supports the proposition that there is no restriction on the ability to reassess in the context of tax shelter regime of the Act and that the French version should be preferred.
+[82] In my opinion, while the French version may not have the phrase "as are necessary", it does employ the adjective "voulu,ue(s)" which is defined in Le Petit Robert de la langue française as:
+1 Exigé, requis par les circonstances
+2 Délibéré, volontaire.
+translation:
+1 as necessary or as demanded, as required by the circumstances
+2 deliberate or resolute, voluntary.
+[83] Thus, looking at the first definition, I see no significant difference between the two versions: the English version permits the Minister to make assessments "as are necessary" to give effect to the section, while the French version permits the Minister to make assessments "as required by the circumstances" to give effect to the section. Contrary to the submissions by both counsel, I conclude that the two versions have essentially the same meaning.
+[84] I would also add that it is unduly narrow and restrictive to look at the words "as are necessary" in isolation. The provision clearly states that the Minister's power to reassess is in relation to what is necessary or required "to give effect to this section". In the context of section 143.2, Parliament reserved a reassessment power to the Minister, beyond the "normal" power, that specifically targets tax shelter investments. As such, the plain meaning of "necessary" cannot be the dominant interpretative factor and I must look to the context and purpose of the legislation for guidance.
+[85] The Supreme Court of Canada in CanadaTrustco, supra, at paragraph 54 stated:
+In interpreting the provisions of the Income Tax Act, the statutory language must be respected and should be interpreted according to its well-established legal meaning. In some cases, a contextual and purposive interpretation may add nuance to the well-established legal meaning of the statutory language.
+I would note that, in this case, the context and purpose are integral to the proper interpretation of this provision.
+Contextual Analysis:
+[86] Driedger and Sullivan (Construction of Statutes, 4th ed., Butterworths, Toronto, 2002 at pages 261-262) lists a number of contextual factors which are relevant to the interpretation of legislation. The factors are:
+· the immediate context of the words or the provision in which they appear;
+· any adjacent or closely related provisions;
+· the Act as a whole;
+· related legislation;
+· the common law;
+· international law; and
+· the external context or the historical setting in which the provision was enacted.
+[87] The wording of the provision indicates that the right to reassess is qualified by the phrase "as are necessary" - or "as required" in the French version - but there is no additional qualification that either impliedly or expressly constrains the Minister's ability. In my view, these words represent a slender restriction on the Minister's judgment and discretion when deciding to reassess a tax shelter investment.
+[88] Also relevant to this analysis is the context of related provisions within the Act as a whole. The Appellant submitted that the words of subsection 143.2(15) do not support an unrestricted ability to reassess because if Parliament had wished to grant such a right, it would have used appropriate wording. In support of this position, the Appellant referenced subsections 74.2(4), 49(4), 159(3) and 160(2). I do not believe the wording in subsections 74.2(4) or 49(4) assist the Appellant's argument. While the two remaining provisions do grant a very broad right to reassess, the Appellant neglected to point out that when Parliament wishes to encourage the Minister to act promptly in dealing with taxpayers, the statute also tends to use very specific wording. The Appellant's comparison of subsection 143.2(15) to other provisions is only partially correct. The power to reassess may not be as explicit as in subsections 159(3) and 160(2) but it is also not temporally qualified in the manner that many other provisions are.
+[89] In a number of provisions in the Act, the Minister is required to act with "due dispatch". There is no clear encouragement for the Minister to reassess pursuant to subsection 143.2(15) on a timely basis. Even if the requirement to proceed "with all due dispatch" is somehow implied in a reading of subsection 143.2(15), that does not imply a specific time limit under this provision. The Federal Court of Appeal in Agazarian v. Canada, 2004 FCA 32 stated at paragraph 13 the following concerning subsection 152(1):
+One notes that while subsection 152(1) confers upon the Minister the power (and the obligation) to assess the taxpayer's income, and to do so with due dispatch, it does not prescribe a time within which the Minister must exercise that power.
+The timelines for reassessment prescribed at subsections 152(4) and (5) are clearly irrelevant to subsection 143.2(15). These general limitation periods were suspended because the area of tax shelters is often confusing and complicated and, given the life-span of such investments, the Minister frequently requires more time to properly ascertain whether an inappropriate tax scheme is being conducted.
+[90] With respect to extrinsic interpretative aids, section 143.2 was added to the Act in 1998. This section was first introduced in draft form in December 1994, at which time it was described by the accompanying press release as a response to abusive tax shelter arrangements (Respondent's Book of Authorities, Tab 2-A). According to the Backgrounder, also found in Tab 2-A, these measures were introduced to ensure that investors' deductions were limited to funds that were "fully at risk". The provision targeted particular "abusive" arrangements which circumvented the application of the "at-risk rules" in subsections 96(2.1) and (2.7), and allowed taxpayers to deduct amounts in excess of the cost of their investments that were actually "at risk".
+Purposive Analysis:
+[91] Purpose can often be deduced from the text of the provision itself but, in this case, the correct interpretation of the text on its own is problematic. The text of the legislation provides insufficient evidence of legislative purpose to adequately assist in this analysis. Furthermore, this provision has neither been judicially considered nor discussed in any depth by government commentary, or by legal scholars, authors or analysts. However, the purpose of a provision may also be considered in light of the nature of the mischief it is meant to address.
+[92] Section 143.2 was intended to target abusive tax shelter structures largely financed by debt and its purpose is to "grind down" the cost of tax shelters to the money genuinely invested. This provision grants broad discretionary powers to the Minister in order to identify and combat abuses using tax shelters. Envisaging a time-frame of 10 years plus 60 days, and a triggering event potentially occurring at any point within that time, Parliament has reserved the right for the Minister to reassess outside the normal reassessment period.
+[93] The administrative reality is that normal reassessment periods vary among taxpayers within the same tax shelter; the same set of facts may become available to the Minister at a point in time that may be beyond the limitation period for one taxpayer but not another. This would translate to some taxpayers within the same tax shelter being subject to reassessment while others are not. On the whole, I believe the Respondent's approach is more consonant with what Parliament has intended.
+[94] I conclude that the Minister is entitled to reassess the Appellant beyond the normal reassessment period pursuant to subsection 143.2(15). I believe logic and common sense must, in the end, play some role in my findings. As such, it becomes obvious that the power to reassess under subsection 143.2(15) cannot be defined by considerations revolving around the timing and availability of particular facts and information to the Minister. The statutory context of section 143.2 anticipates that it may be necessary for the Minister to make such reassessments after the normal limitation periods.
+[95] The phrase "as is necessary" should be considered in light of the purpose of the section, and thus "necessary" in subsection 143.2(15) does not refer to what is "necessary" in order to perform a reassessment. Instead, the provision grants discretionary power to the Minister to reassess beyond the limitation period in order to fulfil the purpose of the section and combat abusive tax shelters.
+[96] Having determined that the Appellant's indebtedness was appropriately deemed a limited-recourse amount, it seems only sensible that the Minister may reassess in order to give effect to the section as a whole. At a glance this may appear to be circular logic, but it is trite law that liability for tax flows from the operation of the Act, and not any assessment or reassessment, see R. v. Simard-Beaudry Inc., [1971] F.C. 396 (T.D.) at 403, Noël A.C.J. and Wesbrook Management Ltd. v. R., (sub nom. R v. Wesbrook Management Ltd.) 96 DTC 6590 (F.C.A.). Similarly, it is the statute that deems an amount to be limited-recourse under the tax shelter rules and not the reassessment by the Minister, regardless of when the reassessment took place.
+Conclusion
+[97] I find that the indebtedness of the Acquisition Note should be deemed a limited-recourse amount because it was not subject to a bona fide arrangement [paragraph 143.2(7)(a)] and the interest was not paid within 60-days [paragraph 143.2(7)(b)].
+[98] The deeming provision contained in subsection 143.2(13) also applies to eliminate the Appellant's deductions in respect of the unpaid debt.
+[99] Finally, I must conclude that the Minister is granted broad powers to reassess beyond the normal reassessment period pursuant to subsection 143.2(15). The words "as are necessary" do not imply that the Minister must comply with the limitations set out in subsections 152(4) and (5), rather the provision is broadly worded to combat potential abuse by tax shelters, in concert with, and in the context of, the deeming provisions contained in section 143.2. Accordingly, I find the reassessment is not statute-barred.
+[100] For these reasons, the appeal is dismissed with costs.
+Signed at Halifax, Nova Scotia, this 15th day of December 2006.
+"Diane Campbell"
+Campbell J.
+CITATION:
+2006TCC681
+COURT FILE NO.:
+2005-310(IT)I
+STYLE OF CAUSE:
+Bert Tolhoek and
+Her Majesty the Queen
+PLACE OF HEARING
+Toronto, Ontario
+DATE OF HEARING
+November 2 and 3 2005 and
+February 16 and 17, 2006
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Diane Campbell
+DATE OF JUDGMENT
+December 15, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Clifford L. Rand and
+David C. Muha
+Counsel for the Respondent:
+Patricia Lee and
+Bobby Sood
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+Stikeman Elliott LLP
+Toronto, Ontario
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

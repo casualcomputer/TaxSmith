@@ -1,0 +1,168 @@
+Title: Kids Count Consultants Corporation Ltd. o/a Sylvan Learning Centre Brampton v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26847/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-99-26847-kids-count-consultants-corporation-ltd-o-a-sylvan-learning-centre-brampton-v-m-n-fr.md
+Document type: case_law
+Last modified: 2005-02-02
+
+# Kids Count Consultants Corporation Ltd. o/a Sylvan Learning Centre Brampton v. M.N.R.
+
+- Citation: 2005 CCI 99
+- Decision date: 2005-02-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 653, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kids Count Consultants Corporation Ltd. o/a Sylvan Learning Centre Brampton v. M.N.R.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-02-02
+Référence neutre
+2005 CCI 99
+Numéro de dossier
+2003-2354(EI)
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossiers : 2003-2354(EI)
+2003-2361(CPP)
+ENTRE :
+KIDS COUNT CONSULTANTS CORPORATION LTD.
+s/n SYLVAN LEARNING CENTRE BRAMPTON,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus à Toronto (Ontario), le 3 novembre 2004.
+Devant : L'honorable juge C.H. McArthur
+Comparutions :
+Représentant de l'appelante :
+M. H. Goran Skalin
+Avocats de l'intimé :
+Mes H. Annette Evans et
+Jeremy Streeter
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés conformément au paragraphe 103(1) de la Loi sur l'assurance-emploi et à l'article 28 du Régime de pensions du Canada sont accueillis, la décision que le ministre du Revenu national a rendue à la suite de l'appel interjeté en vertu de l'article 92 de la Loi est annulée et la décision que le ministre a prise à l'égard de la demande qui lui avait été faite en vertu de l'article 27.1 du Régime est annulée pour le motif que les travailleurs désignés à l'annexe « A » ci-jointe n'exerçaient pas un emploi assurable ou un emploi ouvrant droit à pension auprès de l'appelante pendant la période allant du 1er mars 2001 au 31 octobre 2002.
+Signé à Ottawa, Canada, ce 2e jour de février 2005.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 1er jour de novembre 2005.
+Sara Tasset
+Référence : 2005CCI99
+Date : 20050202
+Dossiers : 2003-2354(EI)
+2003-2361(CPP)
+ENTRE :
+KIDS COUNT CONSULTANTS CORPORATION LTD.
+s/n SYLVAN LEARNING CENTRE BRAMPTON,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge McArthur
+[1] Ces appels, qui ont été interjetés en vertu de la Loi sur l'assurance-emploi et du Régime de pensions du Canada, découlent de décisions du ministre du Revenu national (le « ministre » ) selon lesquelles 22 enseignants (les « travailleurs » ) avaient exercé auprès de l'appelante un emploi ouvrant droit à pension et un emploi assurable du 1er mars 2001 au 31 octobre 2002 (la « période » ).
+[2] Vingt-cinq travailleurs sont désignés à l'appendice « A » de la réponse à l'avis d'appel. De ce nombre, trois d'entre eux, Maise Jean Green, Nina Powlette et Calvin Preddie, ne sont pas parties à cet appel. Je crois que Mmes Green et Powlette sont arrivées à un règlement avec l'intimé; par un jugement en date du 24 septembre 2003, l'appel interjeté par M. Preddie a été accueilli et il a été conclu que M. Preddie n'était pas un employé de l'appelante.
+[3] La situation est inhabituelle en ce sens que j'ai à rendre une décision au sujet de la question de savoir si l'emploi de 22 travailleurs ouvre droit à pension et est assurable et qu'aucun d'entre eux n'était présent à l'audience ou n'a témoigné à l'audience. Ces travailleurs offraient des séances de tutorat dans des matières liées aux études à des élèves, du niveau élémentaire jusqu'au niveau universitaire. Hugh Cullaton, agent des appels auprès du ministre, a fait remplir un questionnaire détaillé à certains enseignants. D'après les réponses qu'il a reçues, M. Cullaton a conclu que les enseignants étaient des employés. M. Cullaton n'a jamais rencontré ces travailleurs et l'appelante n'a pas eu l'occasion de les contre-interroger au sujet de leurs réponses. M. Cullaton a effectué une recherche approfondie, à laquelle j'accorde une importance restreinte.
+[4] Avant d'examiner la question, il peut être utile de faire brièvement l'historique de l'affaire. Goran Skalin et sa femme, Johanna Skalin, ont témoigné pour l'appelante, alors que M. Cullaton et une ancienne employée de l'appelante, Marlene Dos Santos, ont témoigné pour l'intimé.
+[5] Goran et Johanna Skalin sont propriétaires-exploitants de l'appelante (Sylvan). Johanna Skalin comptait 22 années d'expérience dans le domaine de l'enseignement avant de devenir directrice des études chez Sylvan. Goran Skalin avait de l'expérience dans les affaires avant de devenir directeur des opérations générales. Sylvan est une franchise dont la société mère est située aux États-Unis. Les Skalin ont investi plus de 500 000 $ dans leur franchise. Au fil des ans, Sylvan a fait face à de graves difficultés financières. Marlene Dos Santos a témoigné d'une façon impressionnante; elle était bien informée au sujet des activités quotidiennes, de l'embauchage des enseignants et de la méthode d'enseignement de Sylvan. On a mis fin à son emploi à cause des difficultés financières auxquelles l'appelante faisait face, mais elle a fait l'éloge du système Sylvan et des avantages qu'en retiraient les élèves. Mme Dos Santos témoignait pour l'intimé; la façon dont il avait été mis fin à son emploi la décevait, mais elle a malgré tout ajouté ne jamais avoir eu de meilleur emploi. J'infère qu'elle était fort satisfaite de participer à un système d'enseignement dont les élèves tiraient fortement parti.
+[6] Sylvan attirait des élèves à de nombreux niveaux, notamment des élèves qui avaient des troubles d'apprentissage et des élèves doués. Les élèves avaient leurs propres reliures individuelles et recevaient une attention individuelle; il n'y avait jamais plus de trois élèves par séance, et les séances avaient habituellement lieu en début de soirée ou le samedi. En général, les enseignants étaient des éducateurs à la retraite, qui connaissaient fort bien le programme d'études traditionnel à l'égard duquel leurs élèves avaient besoin de tutorat.
+[7] L'intimé a notamment plaidé les hypothèses de fait suivantes :
+[traduction]
+6. En arrivant à sa décision, l'intimé s'est fondé sur les hypothèses de fait suivantes :
+a) l'appelante offre des séances de tutorat dans diverses matières liées aux études à des jeunes du niveau élémentaire jusqu'au niveau universitaire, ci-après appelés les « élèves » ;
+b) l'appelante exploite son entreprise à titre de franchise, et le franchiseur, ci-après appelé le « franchiseur » , est une société située aux États-Unis;
+c) pendant la période pertinente, Johann Skalin et son mari, H. Goran Skalin, étaient les actionnaires de l'appelante et contrôlaient plus de 40 p. 100 des actions de l'appelante;
+d) les travailleurs étaient embauchés par l'appelante à titre d'instructeurs dispensant des séances de tutorat aux élèves;
+e) les tâches des travailleurs étaient accomplies dans les locaux de l'appelante;
+f) les travailleurs étaient rémunérés à l'heure par l'appelante, ce taux étant basé sur l'expérience et la formation des travailleurs;
+g) le taux de rémunération des travailleurs était fixé par l'appelante;
+h) les travailleurs enregistraient les heures qu'ils travaillaient, qu'ils soumettaient ensuite à l'appelante;
+i) les travailleurs fournissaient principalement leurs services à temps partiel;
+j) les services étaient fournis par les travailleurs pour une période indéfinie;
+k) les travailleurs fournissaient leurs services personnellement à l'appelante, et tout suppléant devait être approuvé par l'appelante;
+l) les travailleurs étaient tenus de suivre le programme d'apprentissage Sylvan tel qu'il avait été élaboré par le franchiseur;
+m) l'appelante fournissait aux travailleurs un lieu de travail ainsi que le matériel nécessaire, notamment les livres, le papier et les stylos;
+n) l'appelante payait le franchiseur pour utiliser les marques de commerce Sylvan et pour utiliser les systèmes et le matériel d'enseignement;
+o) l'appelante était tenue d'acheter les programmes mis à jour et améliorés du franchiseur, dont le coût s'élevait à plusieurs milliers de dollars;
+p) le taux horaire exigé des élèves, lequel s'élevait à environ 45 $ l'heure, était fixé et recouvré par l'appelante;
+q) les travailleurs n'engageaient pas de dépenses dans l'exercice de leurs fonctions, sauf pour assurer leur propre transport afin de se rendre aux locaux de l'appelante et en revenir;
+r) l'appelante n'effectuait pas de retenues au titre de l'assurance-emploi sur la rémunération des travailleurs.
+La plupart de ces faits sont plus ou moins exacts; pourtant, un grand nombre d'entre eux ne sont pas pertinents ou n'étayent pas la position prise par l'intimé plutôt que celle de l'appelante. Les hypothèses 6a), b), c), d), h), i), j) étayent la position prise par l'appelante et les hypothèses l), n), q) et r) sont neutres.
+[8] Les hypothèses suivantes, tirées de l'avis d'appel, sont exactes :
+[traduction]
+a) Les enseignants embauchés par Sylvan sont des experts ayant une excellente formation et une grande expérience, qui ont des compétences spéciales à titre d'éducateurs. Sylvan ne possède pas l'expertise voulue dans tous les domaines précis d'enseignement et les enseignants ne peuvent donc pas être supervisés par les directeurs de Sylvan;
+b) Le matériel et les méthodes utilisés par Sylvan ne sont pas toujours disponibles. Au centre Sylvan, à Brampton, cela est expressément le cas pour les matières suivantes : mathématiques supérieures canadiennes (qui sont différentes de la version américaine); calcul intégral; statistique; sciences; biologie; français; espagnol et allemand. Un pourcentage fort élevé des élèves de Sylvan, à Brampton, ont été identifiés comme ayant divers troubles d'apprentissage pour lesquels aucun programme Sylvan précis n'est disponible et les demandeurs doivent s'en remettre à des conseillers pédagogiques choisis afin de fournir leur expertise. Les conseillers dans les matières spécialisées susmentionnées fournissent leur propre matériel et leur propre plan de leçon sans être rémunérés. Tous les conseillers planifient leur travail sur une base horaire au moyen d'une évaluation professionnelle du progrès accompli par l'élève, et les adaptations nécessaires sont alors effectuées compte tenu du progrès accompli et du point jusqu'auquel l'élève maîtrise la matière en cause;
+c) Sylvan fournit de l'aide à des élèves de tous les groupes d'âge et dont les aptitudes sont fort différentes, certains pouvant avoir de graves difficultés d'apprentissage, alors que d'autres sont fort doués; un grand nombre d'entre eux n'ont pas réussi à obtenir de l'aide ailleurs;
+d) La composition du groupe d'élèves varie continuellement et elle est imprévisible; il en va de même pour les besoins en ce qui concerne les enseignants qui possèdent une expertise pertinente;
+e) Tous les enseignants travaillant pour Sylvan à Brampton ont des compétences spécialisées et dispensent les cours sans supervision et sans intervention de la part des demandeurs, qui n'ont pas les compétences voulues pour le faire. Compte tenu de l'expertise des enseignants, certains élèves de Sylvan, à Brampton, qui n'ont pas pu obtenir de l'aide à Toronto se rendent à Brampton une ou deux fois par semaine.
+[9] Calvin Preddie était un enseignant embauché par Sylvan qui a interjeté appel de la décision du ministre selon laquelle il était un employé plutôt qu'un enseignant travaillant à son propre compte. J'ai entendu cet appel et, au mois de septembre 2003, j'ai conclu que M. Preddie avait les compétences voulues et qu'il n'avait pas à faire l'objet d'un contrôle. Le montant de sa rémunération avait été fixé de gré à gré et les deux parties ont qualifié la relation de relation avec un entrepreneur indépendant. Tous les enseignants embauchés par Sylvan sont fort compétents et ils sont choisis selon leur expertise et leur personnalité, comme cela a été le cas pour M. Preddie. Les faits pertinents qui existaient dans l'affaire Preddie c. La Reine[1] s'appliquent en général à tous les enseignants embauchés par le centre Sylvan, à Brampton.
+[10] Selon la position prise par l'intimé, les travailleurs exerçaient auprès de l'appelante, pendant la période, un emploi assurable, au sens de l'alinéa 5(1)a) de la Loi et un emploi ouvrant droit à pension au sens de l'alinéa 6(1)a) du Régime, étant donné qu'il existait un contrat de louage de services entre les travailleurs et l'appelante.
+La position de l'appelante
+[11] Selon la position prise par l'appelante, les enseignants sont embauchés à titre de conseillers pédagogiques travaillant à leur propre compte en vertu de contrats-cadres ou autres genres d'ententes en vue de fournir leurs services (i) [traduction] « sur disponibilité » et (ii) [traduction] « au besoin » . Un grand nombre d'enseignants fournissent des services de tutorat et d'autres services ailleurs et il se peut que, de temps en temps, ils ne soient pas disponibles. Les enseignants sont tenus de signer une entente de confidentialité et le fait qu'ils peuvent fournir leurs services ailleurs n'a donc pas grande importance. Les enseignants exigent des frais pour leurs services, lesquels sont de toute évidence négociables. L'enseignant qui exige des frais trop élevés risque de toute évidence de perdre le contrat ou d'obtenir un moins grand nombre d'heures.
+Analyse
+[12] La question de savoir si les travailleurs étaient employés en vertu d'un contrat de louage de services ou d'un contrat d'entreprise a probablement été débattue devant la Cour plus que toute autre question. Il y a des décisions dans les deux sens. Les arrêts Wiebe Door Services Ltd. c. M.R.N.[2] et 671122 Ontario Ltd. c. Sagaz[3] sont ceux qui sont le plus souvent mentionnés.
+[13] Ce qui est unique en l'espèce, c'est qu'aucun des travailleurs n'a témoigné, sauf M. et Mme Skalin. L'intimé s'appuie sur les questionnaires exhaustifs que l'Agence du revenu du Canada[4] a envoyés par la poste à 25 travailleurs, dont 13 ont répondu. Le témoin de l'intimé, M. Cullaton, a expliqué les résultats de son sondage et la façon dont il avait appliqué les critères énoncés dans l'arrêt Wiebe Door aux réponses des 13 travailleurs : (i) le degré de contrôle exercé par l'employeur sur les activités du travailleur entre toujours en ligne de compte; (ii) la question de savoir si le travailleur embauche ses propres aides; (iii) le degré de risque financier assumé par le travailleur; (iv) le degré de responsabilité assumé par le travailleur quant aux capitaux engagés et à la gestion; et (v) la possibilité pour le travailleur de réaliser des bénéfices dans l'exécution de ses tâches. Ces critères sont brièvement résumés comme suit : (i) le contrôle; (ii) la propriété des instruments de travail; (iii) les chances de bénéfice; (iv) les risques de perte; et (v) l'intégration.
+[14] La pièce R-3 renferme un examen général des recherches effectuées par M. Cullaton. Les critères ont été appliqués aux réponses obtenues dans les 13 questionnaires et M. Cullaton a notamment conclu ce qui suit :
+[traduction]
+(i) Le contrôle[5] :
+[...] Eu égard à ces faits, il est raisonnable de conclure que, compte tenu de la nature d'un contrat de franchisage, le payeur recevait des directives au sujet de la façon dont le programme du « Système Sylvan » devait être mis en oeuvre, et il serait par ailleurs raisonnable de s'attendre à ce qu'il oblige ses instructeurs ou tuteurs à se conformer à ces directives.
+Le critère du contrôle indique l'existence d'un contrat de louage de services. Cette conclusion est étayée par une décision passablement récente (décision de la Cour de l'impôt en date du 8 juin 2001), The Learning Loft Ltd. c. M.R.N., dans laquelle le juge G.J. Rip a dit ce qui suit, lorsqu'il a décidé que les tuteurs travaillaient à leur propre compte :
+Selon ce que la preuve révèle et ce que dicte le bon sens, c'est l'appelante qui assortissait l'élève et la travailleuse; une fois la relation établie, elle disparaissait du tableau. Elle exigeait des frais de la tutrice en échange de ce service. Toutefois, c'est la tutrice qui déterminait (avec l'élève à qui elle allait offrir l'enseignement) quelle matière allait être enseignée, comment et à quel moment et à quel endroit l'enseignement allait être dispensé. Ces décisions n'étaient pas celles de l'appelante. Il n'y avait pas de relation employeur-employé entre la travailleuse et l'appelante. [...]
+Dans ce cas-ci, le payeur fixait le taux horaire payé par les clients et recouvrait cet argent; il décidait du ratio tuteur/élève; il décidait de ce qui serait enseigné et des modalités d'enseignement compte tenu du système Sylvan; il fixait les heures d'enseignement en fonction de la disponibilité du client et de celle du tuteur, et il fournissait les locaux dans lesquels les séances avaient lieu.
+(ii) La propriété des instruments de travail :
+- les instruments de travail étaient composés uniquement de manuels, de papier, de stylos et ainsi de suite. La majorité des répondants ont déclaré que ce matériel était fourni par le payeur; il en allait de même pour le local dans lequel les séances avaient lieu. Le payeur s'occupait également de l'évaluation et des « instructions » initiales relatives aux leçons, conformément au système Sylvan;
+- les travailleurs offraient de leur côté leur formation et leur expérience dans le domaine de l'enseignement;
+- selon les faits énoncés au nos 21 et 57, le payeur et deux travailleurs seulement ont déclaré que les travailleurs fournissaient eux-mêmes une partie du matériel d'enseignement;
+Le critère de la propriété des instruments de travail et en particulier la détention d'un permis par le payeur en tant que centre d'apprentissage Sylvan indiquent l'existence d'un contrat de louage de services.
+(iii) Les chances de bénéfice et (iv) les risques de perte :
+- les travailleurs étaient tous rémunérés à l'heure pour le temps pendant lequel ils agissaient comme tuteurs et le temps consacré à la préparation du compte rendu ultérieur. Comme il en est fait mention sous le titre Contrôle, les travailleurs pouvaient décider du nombre de fois qu'ils acceptaient de fournir leurs services au payeur, mais cela indiquait davantage leur disponibilité, compte tenu de leurs horaires personnels. La plupart des travailleurs travaillaient à temps partiel seulement;
+- tous les travailleurs sauf deux ont déclaré qu'ils n'étaient pas obligés d'avoir leur propre bureau. Si la plupart des travailleurs considéraient qu'un bureau à domicile n'était pas nécessaire, il n'est pas déraisonnable de conclure que la décision de tenir un bureau à domicile découlait d'un choix personnel plutôt que d'une exigence de l'emploi. Selon le fait énoncé au no 25, le payeur estimait que le taux de rémunération horaire des travailleurs comprenait l'utilisation par les travailleurs d'un poste de travail, dans les locaux de l'entreprise;
+- la majorité des travailleurs ont déclaré que leurs seules dépenses se rapportaient au transport par autobus ou au véhicule utilisé pour se rendre au lieu d'affaires du payeur;
+- le payeur était responsable des créances irrécouvrables, il réglait les plaintes des clients et il se chargeait d'effectuer la réévaluation dont il avait été convenu au préalable après 36 leçons;
+(v) Intégration
+- selon les déclarations et les documents du payeur, le centre d'apprentissage Sylvan recrutait les clients, évaluait les compétences; « nos enseignants certifiés spécialement formés offrent un programme adapté à chaque élève » . Le taux horaire du payeur était en moyenne de 45 $. Le taux horaire le plus commun accordé aux instructeurs était de 15 $. L'entreprise du payeur intégrait toutes les phases du système Sylvan et, par conséquent, les services fournis par les travailleurs faisaient partie intégrante de l'entreprise du payeur;
+- le payeur a fait remarquer qu'un certain nombre de travailleurs étaient des employés de divers conseils scolaires. Cela n'indique pas une personne qui exploite « une entreprise pour son propre compte » . Comme il en a ci-dessus été fait mention, à part leur propre perfectionnement personnel, les travailleurs n'avaient rien investi dans une « entreprise » . Il est reconnu qu'au moins un tuteur possédait ses propres cartes d'affaires, mais c'était l'exception plutôt que la norme et un grand nombre de travailleurs n'en possédaient pas. La carte d'affaires du travailleur indiquait qu'il fournissait également d'autres services en matière de ressources humaines. Toutefois, il n'était pas nécessaire de posséder des cartes d'affaires afin de fournir des services au payeur, et il n'était pas nécessaire que les travailleurs exploitent leur propre entreprise. Les travailleurs étaient rémunérés pour les trois ou quatre postes de travail qu'ils effectuaient aussi souvent qu'ils le voulaient ou aussi souvent qu'il fallait avoir recours à leurs services. S'ils faisaient du tutorat à leur propre compte, ce n'était pas sous le nom Sylvan et le système Sylvan n'était pas utilisé. Les travailleurs, comme le travailleur no 19, qui exploitaient leur propre « entreprise » , pouvaient fort bien travailler à leur propre compte pour les services qu'ils fournissaient à leurs propres élèves, mais en ce qui concerne les élèves de Sylvan auxquels ils enseignaient, ils fournissaient leurs services en vertu d'un contrat de louage de services.
+Le critère de l'intégration indique l'existence d'un contrat de louage de services.
+La décision de l'intimé était fondée sur les éléments susmentionnés.
+[15] Dans l'appel Preddie susmentionné, j'ai conclu que M. Preddie exploitait une entreprise à son propre compte; il n'est pas nécessaire de citer cet appel, mais une bonne partie de l'analyse et des critères énoncés dans l'arrêt Sagaz s'appliquent également dans ce cas-ci.
+[16] Comme le juge Bowman l'a dit dans la décision Academy of Artisans c. M.R.N.[6], on risque de trop utiliser les cinq éléments, en oubliant de déterminer la nature véritable de la relation dans son ensemble. Selon ce qu'a dit le juge Major dans l'arrêt Sagaz, il faut répondre à la question : « À qui appartient l'entreprise? » Les 22 enseignants en cause sont inclus. Il s'agissait d'éducateurs à la retraite qui avaient probablement tous fait partie du système des écoles publiques et qui enseignaient lorsqu'ils le voulaient le soir et le samedi en utilisant leur propre expertise selon la méthode personnalisée Sylvan. Ils enseignaient ce qu'ils voulaient, lorsqu'ils le voulaient et de la façon dont ils le voulaient. Il s'agissait de leur entreprise, exploitée sous l'égide de la méthode Sylvan.
+[17] Étant donné que j'ai cru le témoignage de M. et de Mme Skalin et que j'ai accepté l'application des critères énoncés dans la décision Preddie, je conclus que les travailleurs n'exerçaient pas auprès de l'appelante un emploi assurable ou un emploi ouvrant droit à pension étant donné qu'aucun contrat de louage de services n'avait été conclu entre les travailleurs et l'appelante. La situation des Skalin n'a pas été examinée à fond, mais il est clair que leur emploi est exclu en vertu du paragraphe 5(2) de la Loi.
+[18] Les appels sont accueillis.
+Signé à Ottawa, Canada, ce 2e jour de février 2005.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 1er jour de novembre 2005.
+Sara Tasset
+APPENDICE « A »
+Nasreen Ahmed Kalpesh Lad
+Jamie Charlebois Jennifer Mota
+Nuruddin Chherawala Miguel Pereira
+Joan Chong Sandra Polito
+Carol Christmas Nina Powlette
+Fay Davidson Calvin Preddie
+Alda Elhalwagy Anita Serpe
+Fahima Elhalwagy Susan Tesar
+Harriet Finlay Stephen Wickett
+Wynford Godard Anita Wong
+Maise Jean Green H. Goran Skalin
+Mike Guest Johanna Skalin
+Dellorene Hall
+[1] [2003] A.C.I. no 788.
+[2] [1986] 3 C.F. 553 (C.A.F.).
+[3] [2001] 2 R.C.S. 983.
+[4] Pièce R-4.
+[5] Pièce R-3, page 10.
+[6] [2001] A.C.I. no 241.

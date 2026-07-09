@@ -1,0 +1,231 @@
+---
+title: "Cathelle Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27224/index.do"
+last_modified: "2005-06-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 360"
+citation2: ""
+neutral_citation: "2005 TCC 360"
+decision_date: "2005-06-01"
+language: "en"
+item_id: "27224"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 830
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:40:40.964000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3ba6b9c668d16064cdb724ccf075b0d88d479488c0252e3a02283a92c7708ba9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Cathelle Inc. v. The Queen
+
+- Citation: 2005 TCC 360
+- Decision date: 2005-06-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 830, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cathelle Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-06-01
+Neutral citation
+2005 TCC 360
+File numbers
+2002-353(IT)G
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-353(IT)G
+BETWEEN:
+CATHELLE INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+__________________________________________________________________
+Appeal heard on November 18, 2004, at Montreal, Quebec.
+Before: The Honourable Justice Louise Lamarre Proulx
+Appearances:
+Counsel for the Appellant:
+Louis-Frédérick Côté
+Counsel for the Respondent:
+Bernard Fontaine
+__________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 1995 taxation year is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 1st day of June 2005.
+"Louise Lamarre Proulx"
+Lamarre Proulx, J.
+Citation: 2005TCC360
+Date: 20050601
+Docket: 2002-353(IT)G
+BETWEEN:
+CATHELLE INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Lamarre Proulx, J.
+[1] This appeal with respect to the appellant's 1995 taxation year concerns an amount of $499,145 that the appellant wishes to deduct as a business expense. In the respondent's view, this amount is a capital loss. It appeared in the appellant's books under the heading "Loan Account to an American Subsidiary, Cathelle U.S.A.".
+[2] The appellant, relying on the decision rendered by Judge Bowie of this Court in Williams Gold Refining Co. of Canada Ltd. v. The Queen, 2000 DTC 1829, argues that it is entitled to deduct the loans on the basis of the principle enunciated in paragraph 17 of that judgment. Paragraph 17 reads in part as follows:
+It is well established that a taxpayer may, in the computation of profit, deduct amounts that it has paid gratuitously to, or for the benefit of, another, where the payment has been made for the purpose of increasing the profitability of the taxpayer's own business, by creating or preserving a market for its product, for example. . . .
+[3] At the outset of the hearing, ten documents were produced as Exhibits A-1 to A-10.
+[4] There were also admissions made regarding the Reply to the Amended Notice of Appeal: subparagraphs 16 a) to 16 e), 16 g), 16 h) and 16 n) were admitted. These subparagraphs read as follows:
+a) The Appellant Cathelle inc. was a business corporation incorporated under the Canada Business Corporations Act;
+b) The Appellant had a subsidiary company in the United States (Cathelle U.S.);
+c) The Appellant made interest-free advances in the amount of $499,145 to Cathelle U.S.;
+d) In 1995, Cathelle U.S. became insolvent;
+e) The Appellant made journal entries after the end of the 1995 taxation year by which it claimed the amount of $499,145 as a loss on bad debt from its subsidiary company and decreased its loan receivable from Cathelle U.S. by the same amount;
+. . .
+g) From the Appellant's financial records it appears that the loans it made to Cathelle U.S. never ceased to increase since 1988, to reach $499,145 in September, 1995 and in the 1988 year it was already in the amount of $63,238;
+h) In its return of income for the 1995 taxation year, the Appellant sought to deduct the amount of $499,145 as a bad debt;
+. . .
+n) The amount owed by Cathelle U.S. to the Appellant has been indicated as follows in its audited financial statements between 1988 and 1995:
+1988
+$63,238
+1989
+$58,485
+1990
+$98,449
+1991
+$184,861
+1992
+$251,253
+1994
+$473,146
+1995
+$0
+($499,145 written off)
+[5] Mr. Jeffrey Caplan, the appellant's president, testified. He explained that the appellant's business is the wholesale distribution of electrical fixtures and components. He stated that from 1988 to 1996 he was vice-president, but in fact was performing mostly the same functions as he does now. He became the appellant's president in 1996. He stated that in 1987 the appellant wanted to expand into the U.S.and, for that purpose, Cathelle U.S., a subsidiary, was created in that year. It carried on the same business as the appellant.
+[6] Mr. Caplan explained the business advantages that having an American subsidiary brought or could have brought. It gave the appellant the opportunity to buy directly from American manufacturers, thus bypassing their Canadian subsidiaries. It would have given exposure to two markets: the Canadian market and the U.S.market, which is ten times the size of the Canadian market. The joint purchasing of both companies would have evolved into a large importing appellant's business and produced high volume rebates. The exchange rate also gave the some opportunity for benefit, as products could be sold in the United States at a competitive price. Doing business in the U.S. through its subsidiary gave the appellant the opportunity to get to know and do business with vendors in the U.S.As a matter of fact, the appellant still does business with them in Canada, as vendors or as clients.
+[7] Mr. Caplan explained what happened with the receivables owed by Cathelle U.S.to Cathelle Canada. For a while, the Canadian company invoiced the American company, and in the normal course of things, payments were made. But, as time went on, it got more difficult for the U.S.company to pay all its debts. So in order to keep the transactions going and also to keep the bookkeeping of the Canadian company in order, money supplied to the U.S. company was shown on the books as loans.
+[8] The appellant chose to lend money in order to be able to show in its books that Cathelle U.S. had paid it for the receivables. Mr. Caplan stated that the bank would not have wanted to see numerous receivables owed by the subsidiary to the appellant. He had to show the bank his schedule of receivables on a monthly basis and he preferred to offset the amounts owing by the subsidiary by loaning it the money. The loan schedule would not have to be shown to the bank as frequently.
+[9] The appellant also had to advance moneys to maintain a good relationship with the U.S.suppliers. This good relationship was of the utmost importance to the appellant. Certain commitments, although not in writing, had to be made to the suppliers of Cathelle U.S., as it was a new corporation.
+[10] In summary, Mr. Caplan affirmed that the loans were mostly made to offset receivables owed by the U.S. subsidiary to the appellant and to pay the U.S.suppliers, with a view to maintaining the appellant's good business reputation. He also stated that these loans may have been used for salaries, rent or furniture.
+[11] Mr. Caplan produced, among the documents in Exhibit A-5, a summary of the purchases made by Cathelle U.S. as compared with total purchases made by the appellant and Cathelle U.S.This summary was made in the year 2000 from a reconstitution of the corporate accounts. It shows that 63% of total purchases from August 1993 to October 1995 were from suppliers common to the appellant and the subsidiary.
+[12] Exhibit A-4 is an excerpt from the general ledger showing all the loans from the Appellant to Cathelle U.S. from October 1987. This excerpt is entitled "Loan Cathelle U.S.A.". It shows that at the end of fiscal year 1988 the outstanding loan amount was $63,237.70 and at the end of fiscal year 1995, $499,145.32. On September 30, 1995, the appellant decided to write off the debt. Mr. Caplan stated that he was unable to produce a schedule of the receivables owed by the U.S.subsidiary to the appellant.
+[13] Mr. Charles Jacobs, chartered accountant, also testified for the appellant. The firm in which he is a partner has acted as auditor for the appellant since 1988. He explained that the fiscal year of the subsidiary ended September 30. In 1995, it had ceased its operations; at that point there was no chance of recovering anything on the loan and, as a consequence, the appellant wrote it off.
+[14] The witness stated that to have done otherwise would have inflated the appellant's assets. It had not been done earlier because the subsidiary was still in business.
+[15] In the notice of objection (Exhibit A-2), the loan amount was claimed as a deduction under subparagraph 20(1)(p)(ii) of the Income Tax Act (the "Act"), on the basis that loans were an integral part of the appellant's business operations.
+[16] For the year 1996, an amount of $57,539, had previously been disallowed. This amount related to amounts that were paid directly by the appellant to U.S.suppliers in order to keep a good relationship with these suppliers. Indeed, in Exhibit A-5 there is a series of cheques made by the appellant to pay third parties directly on behalf of its subsidiary. The amount of $57,539 was subsequently allowed by the Minister of National Revenue (the "Minister").
+Arguments
+[17] Counsel for the appellant reminded the Court that the subsidiary's business was in the same field as the appellant's and the subsidiary dealt with mostly the same suppliers. These suppliers had to be paid by the appellant if it wanted to maintain a good business relationship with them. There had been positive business benefits from the subsidiary's venture and more were expected had it proved successful as anticipated.
+[18] Counsel for the appellant noted that the case law had evolved and that this explained why the appellant's position had changed. Counsel submitted that the loan expense had been incurred for the purpose of gaining or producing income from a business or property as was found to be the case in Williams (supra). The expense had been incurred to improve the appellant's profitability. In Williams, there were three categories of expenses. Counsel stated that it was the third that was of interest for the appellant. It is described as follows:
+[15] The third category consists of amounts which were owed to the Appellant by Hollowforms as the result of transactions between Hollowforms and third parties, for which payment was made to those third parties by the Appellant on behalf of Hollowforms. These amounts are set out in the lower half of Appendix "A". It is not at all clear from the evidence whether these liabilities of Hollowforms arose from contracts entered into on its behalf by the Appellant as its agent, or by the employees of the Appellant while they were serving Hollowforms. I doubt that any of the people involved ever gave a thought to that question. In either event, however, the debt to the third party supplier is the debt of Hollowforms, and the discharge of those debts by the Appellant is properly characterized as a loan from the Appellant to Hollowforms, and not as a supply of goods or services. The amounts making up this category cannot therefore be characterized as revenues, and have not been included in the computation of the Appellant's income. They do not qualify for the deduction under paragraph 20(1)(p).
+[19] Counsel based his case on paragraph 17 of the above-mentioned decision. I quote it in full:
+[17] It is well established that a taxpayer may, in the computation of profit, deduct amounts that it has paid gratuitously to, or for the benefit of, another, where the payment has been made for the purpose of increasing the profitability of the taxpayer's own business, by creating or preserving a market for its product, for example. This may be seen in such cases as The Queen v. F. H. Jones Tobacco Sales Co. Ltd. [[1997] F.C. 825, 73 DTC 5577], where the taxpayer, Jones, guaranteed certain loans for a customer in return for the customer's undertaking to continue buying its raw materials from Jones in the future. The customer became insolvent, and Jones was required to honour the guarantees. Noël, A.C.J. held that the amount that Jones was required to pay was not deductible under the predecessor of paragraph 20(1)(p) of the Act, but that it was nevertheless deductible as an amount expended by Jones for the purpose of gaining or producing income from its own business. The Queen v. Lavigueur and Paco Corporation v. The Queen are other examples of the application of this principal [sic].
+[20] Counsel for the respondent first distinguished Jones Tobacco (supra), stating that in that case, the taxpayer had guaranteed the customer's loans in exchange for the customer's undertaking to buy the taxpayer's raw materials. In the case at bar, there is no such specific contractual relationship.
+[21] Counsel for the respondent stated that the Supreme Court of Canada decision in Stewart & Morrison Ltd. v. M.N.R., [1974] S.C.R. 477 was indeed similar to the case at bar. The Supreme Court had concluded that the fact that the money provided was used by the subsidiary to pay its operating expenses and was lost in a losing cause did not change the nature of the advances. Counsel also referred to the decision by Strayer J. of the Federal Court Trial Division in Morflot Freightliners Limited v. The Queen, 89 DTC 5182.
+Analysis and conclusion
+[22] This is a matter in which the Court has to determine whether an outlay or expense is made or incurred on account of income or on account of capital. The appellant wants to deduct as an outlay on account of income loans made over a period of approximately 8 years, that is, from 1987 to 1995, and totalling $499,145. The loans were made to a U.S.subsidiary of the appellant.
+[23] Facts very similar to those in the case at bar were examined and ruled upon by the Supreme Court of Canada in Stewart & Morrison (supra). I quote from that decision at pages 478-479:
+The facts were dealt with in great detail in the reasons delivered in the Exchequer Court. I adopt the summary of the facts made at the conclusion of his reasons by the learned trial judge. They are as follows:
+The evidence adds up to this, as I appreciate it. The respondent decided that an American subsidiary, to be wholly owned by the respondent, would be incorporated and would carry on business in the United States and be a source of income and profit for the respondent. The subsidiary would carry on business as a separate American company in its own name and right, but it would, to use Stewart's words, be "master-minded" by its parent company and their affairs would be closely related and managed. The subsidiary needed capital, but had none. The respondent would supply, or arrange to supply, the needed capital. It arranged and guaranteed a bank loan direct to the subsidiary and also made direct advances of money to enable it to get started and continue to operate. The advances were treated by both companies and by their auditors, and in the respective books and accounts, as loans from the respondent. Book entries do not necessarily denote the true nature of transactions, but I think that the advances in question were correctly treated as loans. The fact that the money so provided was used by the subsidiary to pay its operating expenses, and was lost in a losing cause, does not determine or change its nature of money lent by the respondent to the subsidiary.
+In my opinion, the advances were outlays by the respondent of a capital nature, so far as it is concerned, the deduction of which is prohibited by section 12(1)(b) of the Act and the appeal may be disposed of on that finding alone.
+The learned trial judge has correctly characterized these dealings between the parent company and its American subsidiary. The parent company provided working capital to its subsidiary by way of loans. These loans were the only working capital the American subsidiary ever had with the exception of the sum of $1,000 invested by Stewart & Morrison Limited for the acquisition of all of the issued share capital of its subsidiary. The money was lost and the losses were capital losses to Stewart & Morrison Limited. The deduction of these losses has been rightly found to be prohibited by s. 12(1)(b) of the Income Tax Act.
+We are not concerned in this appeal with what the result would have been if the appellant taxpayer had chosen to open its own branch office in New York. For reasons of its own, it did not choose to operate in this way. It financed a subsidiary and lost its money.
+The case of L. Berman & Co. Ltd. v. M.N.R. [[1961] C.T.C. 237], relied upon by the appellant in this case, is, in my opinion, not in point. In the Berman case the taxpayer made voluntary payments to strangers, i.e., the suppliers of its subsidiary, for the purpose of protecting its own goodwill from harm because the subsidiary had defaulted on its obligations. The basis of the decision in the Exchequer Court was this:
+It paid the amounts because it had been doing business with the suppliers and was going to continue to do business with them. The payments were made by it for its own purposes and their amounts never became debts of United to the appellant (Berman).
+[24] In a nutshell, the arguments put forward in Steward & Morrison were, as in the case at bar, that the subsidiary would be profitable for the parent company and that the money provided as loans was used by the subsidiary to pay its operating expenses. The advances were nonetheless found to be outlays of a capital nature, as what the parent company did was to provide working capital to its subsidiary by way of loans. It was also noted that contrary to what had happened in L. Berman & Co. Ltd. (supra), payments were not made by the taxpayer to the suppliers of its subsidiary.
+[25] The amounts that in 1996 were paid directly by the appellant herein to its subsidiary's suppliers were allowed by the Minister as stated in paragraph 16 of these reasons.
+[26] On the same point, it must also be noted that in Williams, there was evidence that the amounts characterized as loans were related to specific expenses paid for the sister company. There was evidence of intercompany billings and of costs paid by the appellant on behalf of the other company. I quote Appendix "A" referred to in paragraphs 9 and 15 of that decision:
+Appendix "A"
+Williams Gold Refining Co. of Canada Limited v. Her Majesty the Queen
+The accumulated intercompany Liability for years ended 8/31/90, 91, 92, 93 is as follows:
+1.) Expenses incurred by the Appellant and rebilled to Hollowforms:
+Wages and Benefits
+$234,708.08
+Building and Equipment
+Repairs
+10,425.85
+Small Tools
+17,180.31
+Utilities and Telephone
+22,866.12
+Insurance
+6,425.40
+Convention Booths and costs
+1,913.27
+Travel
+1,771.06
+Office Equipment Rent
+1,883.44
+Total
+$297,173.53
+2.) Costs paid by the Appellant on behalf of Hollowforms:
+Raw Materials
+$208,016.66
+Supplies
+53,331.67
+Advertising and Promotion
+14,376.23
+Supplier Carrying Costs
+1,244.37
+Sales Commissions
+373.28
+Association/Professional Fees
+4,565.33
+Third Party Rent
+2,300.00
+Provincial Sales and Federal
+Excise Tax
+6,700.81
+Capital Assets
+22,666.66
+Cash Repayments
+(2,415.50)
+Total:
+$311,159.51
+Total Amounts Included in Bad Debt Expense
+$608,333.04
+[27] There is no such evidence in the present case. The loans by the appellant to its subsidiary were made for the purpose of providing it with working capital, as in Stewart & Morrison Ltd. (supra). They were not made within the circumstances previously described in Williams. Although they were made for a successful purpose, their loss is a capital loss.
+[28] I adopt the words of Strayer J. in Morflot Freightliners (supra), at pages 5184-85: . . . Normally payments made by a parent company to a subsidiary to help finance the operations of a subsidiary are regarded as capital payments. . . . It has frequently been said in cases of this nature that one must try to characterize a situation from a practical business point of view to determine the intent with which the money was provided. . . . I believe the critical distinction here is as between the preservation of an enduring asset on the one hand and the expenditure of money for direct and more immediate gaining of profit through sales, or, as in this case, the earning of commissions. . . . Even though, as in the present case, the continuing successful existence of the subsidiary would have a substantial bearing on the success of the parent and in this sense might be said to be related to the production of income from the plaintiff's business, this does not alter the fact that the money advanced to the subsidiary was to obtain an advantage of an enduring nature and this made it a capital expenditure.
+[29] The appeal must be dismissed.
+Signed at Ottawa, Canada, this 1st day of June, 2005.
+"Louise Lamarre Proulx"
+Lamarre Proulx, J.
+CITATION: 2005TCC360
+COURT FILE NO.: 2002-353(IT)G
+STYLE OF CAUSE: Cathelle Inc. and The Queen
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: November 18, 2004
+REASONS FOR JUDGEMENT BY: The Hon. Justice Louise Lamarre Proulx
+DATE OF JUDGMENT: June 1, 2005
+APPEARANCES:
+Agent for the Appellant:
+Louis-Frédérick Côté
+Counsel for the Respondent:
+Bernard Fontaine
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Louis-Frédérick Côté
+Firm: Mendelsohn Rosentzveig Shacter
+Montreal, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

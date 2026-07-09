@@ -1,0 +1,817 @@
+Title: Beaudry v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28444/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-17-28444-beaudry-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-01-30
+
+# Beaudry v. The Queen
+
+- Citation: 2008 TCC 17
+- Decision date: 2008-01-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1177, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Beaudry v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-01-30
+Neutral citation
+2008 TCC 17
+File numbers
+2000-2049(IT)G
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2000-2049(IT)G
+BETWEEN:
+YVES BEAUDRY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+James Bullock (2000-2026(IT)G),
+Christopher Herten-Greaven (2000-2039(IT)G),
+Raphaël Evanson (2000-2044(IT)G),
+Oleg Romar (2000-2045(IT)G),
+Martin Tyler (2000-2056(IT)G),
+David Elkins (2000-2069(IT)G),
+James W. McClintock, Executor of the
+Estate of John P. McClintock (2000-1189(IT)G)
+on April 3, 4, 5, 6, 7, 10, 11, 12 and 13, 2006,
+and September 25, 26, 27, 28 and 29, 2006,
+at Montreal, Quebec.
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellant:
+Yves St-Cyr and
+Dominic Belley
+Counsel for the Respondent:
+Guy Laperrière, Janie Payette
+and Susan Shaughnessy
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessments made under the Income Tax Act in respect of the 1985, 1986, 1987, 1988, 1989 and 1990 taxation years is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 30th day of January 2008.
+"François Angers"
+Angers J.
+Translation certified true
+on this 28th day of May 2010.
+Erich Klein, Revisor
+Docket: 2000-2026(IT)G
+BETWEEN:
+JAMES BULLOCK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Yves Beaudry (2000-2049(IT)G),
+Christopher Herten-Greaven (2000-2039(IT)G),
+Raphaël Evanson (2000-2044(IT)G),
+Oleg Romar (2000-2045(IT)G),
+Martin Tyler (2000-2056(IT)G),
+David Elkins (2000-2069(IT)G),
+James W. McClintock, Executor of the
+Estate of John P. McClintock (2000-1189(IT)G)
+on April 3, 4, 5, 6, 7, 10, 11, 12 and 13, 2006,
+and September 25, 26, 27, 28 and 29, 2006,
+at Montreal, Quebec.
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellant:
+Yves St-Cyr and
+Dominic Belley
+Counsel for the Respondent:
+Guy Laperrière, Janie Payette
+and Susan Shaughnessy
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessments made under the Income Tax Act in respect of the 1985, 1986, 1987, 1988, 1989 and 1990 taxation years is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 30th day of January 2008.
+"François Angers"
+Angers J.
+Translation certified true
+on this 28th day of May 2010.
+Erich Klein, Revisor
+Docket: 2000-2039(IT)G
+BETWEEN:
+CHRISTOPHER HERTEN-GREAVEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Yves Beaudry (2000-2049(IT)G),
+James Bullock (2000-2026(IT)G),
+Raphaël Evanson (2000-2044(IT)G),
+Oleg Romar (2000-2045(IT)G),
+Martin Tyler (2000-2056(IT)G),
+David Elkins (2000-2069(IT)G),
+James W. McClintock, Executor of the
+Estate of John P. McClintock (2000-1189(IT)G)
+on April 3, 4, 5, 6, 7, 10, 11, 12 and 13, 2006,
+and September 25, 26, 27, 28 and 29, 2006,
+at Montreal, Quebec.
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellant:
+Yves St-Cyr and
+Dominic Belley
+Counsel for the Respondent:
+Guy Laperrière, Janie Payette
+and Susan Shaughnessy
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessments made under the Income Tax Act in respect of the 1985, 1986, 1987, 1988, 1989 and 1990 taxation years is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 30th day of January 2008.
+"François Angers"
+Angers J.
+Translation certified true
+on this 28th day of May 2010.
+Erich Klein, Revisor
+Docket: 2000-2044(IT)G
+BETWEEN:
+RAPHAËL EVANSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Yves Beaudry (2000-2049(IT)G),
+James Bullock (2000-2026(IT)G),
+Christopher Herten-Greaven (2000-2039(IT)G),
+Oleg Romar (2000-2045(IT)G),
+Martin Tyler (2000-2056(IT)G),
+David Elkins (2000-2069(IT)G),
+James W. McClintock, Executor of the
+Estate of John P. McClintock (2000-1189(IT)G)
+on April 3, 4, 5, 6, 7, 10, 11, 12 and 13, 2006,
+and September 25, 26, 27, 28 and 29, 2006,
+at Montreal, Quebec.
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellant:
+Yves St-Cyr and
+Dominic Belley
+Counsel for the Respondent:
+Guy Laperrière, Janie Payette
+and Susan Shaughnessy
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessments made under the Income Tax Act in respect of the 1985, 1986, 1987, 1988, 1989 and 1990 taxation years is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 30th day of January 2008.
+"François Angers"
+Angers J.
+Translation certified true
+on this 28th day of May 2010.
+Erich Klein, Revisor
+Docket: 2000-2045(IT)G
+BETWEEN:
+OLEG ROMAR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Yves Beaudry (2000-2049(IT)G),
+James Bullock (2000-2026(IT)G),
+Christopher Herten-Greaven (2000-2039(IT)G),
+Raphaël Evanson (2000-2044(IT)G),
+Martin Tyler (2000-2056(IT)G),
+David Elkins (2000-2069(IT)G),
+James W. McClintock, Executor of the
+Estate of John P. McClintock (2000-1189(IT)G)
+on April 3, 4, 5, 6, 7, 10, 11, 12 and 13, 2006,
+and September 25, 26, 27, 28 and 29, 2006,
+at Montreal, Quebec.
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellant:
+Yves St-Cyr and
+Dominic Belley
+Counsel for the Respondent:
+Guy Laperrière, Janie Payette
+and Susan Shaughnessy
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessments made under the Income Tax Act in respect of the 1985, 1986, 1987, 1988, 1989 and 1990 taxation years is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 30th day of January 2008.
+"François Angers"
+Angers J.
+Translation certified true
+on this 28th day of May 2010.
+Erich Klein, Revisor
+Docket: 2000-2056(IT)G
+BETWEEN:
+MARTIN TYLER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Yves Beaudry (2000-2049(IT)G),
+James Bullock (2000-2026(IT)G),
+Christopher Herten-Greaven (2000-2039(IT)G),
+Raphaël Evanson (2000-2044(IT)G),
+Oleg Romar (2000-2045(IT)G),
+David Elkins (2000-2069(IT)G),
+James W. McClintock, Executor of the
+Estate of John P. McClintock (2000-1189(IT)G)
+on April 3, 4, 5, 6, 7, 10, 11, 12 and 13, 2006,
+and September 25, 26, 27, 28 and 29, 2006,
+at Montreal, Quebec.
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellant:
+Yves St-Cyr and
+Dominic Belley
+Counsel for the Respondent:
+Guy Laperrière, Janie Payette
+and Susan Shaughnessy
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessments made under the Income Tax Act in respect of the 1985, 1986, 1987, 1988, 1989 and 1990 taxation years is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 30th day of January 2008.
+"François Angers"
+Angers J.
+Translation certified true
+on this 28th day of May 2010.
+Erich Klein, Revisor
+Docket: 2000-2069(IT)G
+BETWEEN:
+DAVID ELKINS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Yves Beaudry (2000-2049(IT)G),
+James Bullock (2000-2026(IT)G),
+Christopher Herten-Greaven (2000-2039(IT)G),
+Raphaël Evanson (2000-2044(IT)G),
+Oleg Romar (2000-2045(IT)G),
+Martin Tyler (2000-2056(IT)G),
+James W. McClintock, Executor of the
+Estate of John P. McClintock (2000-1189(IT)G)
+on April 3, 4, 5, 6, 7, 10, 11, 12 and 13, 2006,
+and September 25, 26, 27, 28 and 29, 2006,
+at Montreal, Quebec.
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellant:
+Yves St-Cyr and
+Dominic Belley
+Counsel for the Respondent:
+Guy Laperrière, Janie Payette
+and Susan Shaughnessy
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessments made under the Income Tax Act in respect of the 1985, 1986, 1987, 1988, 1989 and 1990 taxation years is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 30th day of January 2008.
+"François Angers"
+Angers J.
+Translation certified true
+on this 28th day of May 2010.
+Erich Klein, Revisor
+Docket: 2000-1189(IT)G
+BETWEEN:
+JAMES W. McCLINTOCK, EXECUTOR OF THE
+ESTATE OF JOHN P. McCLINTOCK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Yves Beaudry (2000-2049(IT)G),
+James Bullock (2000-2026(IT)G),
+Christopher Herten-Greaven (2000-2039(IT)G),
+Raphaël Evanson (2000-2044(IT)G),
+Oleg Romar (2000-2045(IT)G),
+Martin Tyler (2000-2056(IT)G),
+David Elkins (2000-2069(IT)G)
+on April 3, 4, 5, 6, 7, 10, 11, 12 and 13, 2006,
+and September 25, 26, 27, 28 and 29, 2006,
+at Montreal, Quebec.
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellant:
+Yves St-Cyr and
+Dominic Belley
+Counsel for the Respondent:
+Guy Laperrière, Janie Payette
+and Susan Shaughnessy
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessments made under the Income Tax Act in respect of the 1985, 1986, 1987, 1988, 1989 and 1990 taxation years is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 30th day of January 2008.
+"François Angers"
+Angers J.
+Translation certified true
+on this 28th day of May 2010.
+Erich Klein, Revisor
+Citation: 2008TCC17
+Date: 20080130
+Dockets: 2000-2049(IT)G, 2000-2026(IT)G,
+2000-2039(IT)G, 2000-2044(IT)G, 2000-2045(IT)G,
+2000-2056(IT)G, 2000-2069(IT)G, 2000-1189(IT)G
+BETWEEN:
+YVES BEAUDRY, JAMES BULLOCK,
+CHRISTOPHER HERTEN-GREAVEN, RAPHAËL EVANSON,
+OLEG ROMAR, MARTIN TYLER, DAVID ELKINS,
+JAMES W. McCLINTOCK, EXECUTOR OF THE ESTATE
+OF JOHN P. McCLINTOCK,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers J.
+[1] These appeals, which were heard on common evidence, are from assessments under the Income Tax Act ("the Act"), whereby the Minister of National Revenue ("the Minister") disallowed business losses which had been claimed by the Appellants in respect of their interests in the CMRA and/or CMRA 2 partnerships, and losses from one or both of those partnerships carried over by certain appellants. The taxation years in issue are those from 1985 to 1990. Some of the Appellants also claimed deductions in respect of carrying charges for one or both of the partnerships (as the case may be), and the Minister disallowed those deductions.
+[2] The issues, stated in general terms, are as follows. To what deductions are the Appellants entitled, in computing their income for the 1985 and 1986 taxation years, for losses related to the CMRA and CMRA 2 partnerships? Are those for whom the situation arises entitled, in computing their taxable income for subsequent years, to a deduction with respect to a carry-over of non‑capital losses from one or both partnerships, and to a deduction for carrying charges related to the acquisition of shares in the CMRA and CMRA 2 partnerships?
+[3] In the 1985 and 1986 taxation years, two partnerships, Canadian Medical Research Associates (CMRA) and Canadian Medical Research Associates #2 (CMRA 2), were formed under the laws of Ontario for the purpose of engaging, on their own account, in various scientific research activities in the field of monoclonal antibodies.
+CMRA
+[4] CMRA was formed on July 16, 1985, by Corporation Planagex Ltée (Planagex) and Investmed R.B. Inc. (Investmed). Both of these firms of financial and tax advisors were controlled by CMRA's promoters, namely the Appellants Oleg Romar and Yves Beaudry. The CMRA partnership contract refers to an issue price of $1.00 per partnership share. Under the terms of clause 4.2 of that contract, 24.528% of this price was payable in Canadian funds upon the issuance or acquisition of shares, and 75.472% took the form of a promissory note, payable in four equal annual instalments commencing in the seventh year and ending in the tenth year after the issuance of the shares. The four annual instalments were payable in Brazilian funds, and the amount, payable in cruzeiros, was fixed at the exchange rate in effect on the date of issuance of the partnership shares, that is to say, the rate in effect when the shares were issued in 1985. Simple interest at a rate of 11.5% was payable with each of the four annual instalments.
+[5] In the course of its fiscal year which ended December 31, 1985, CMRA received C$18,199,908 in total from its members. It also received from its members promissory notes for a total of 369,199,023,074 Brazilian cruzeiros, payable from the seventh to the tenth year following their issuance and bearing interest at a rate of 11.5%. During the same fiscal year, CMRA paid Investmed C$4,199,750, which is 23.08% of the amount in Canadian funds that CMRA received from its members as subscription, administration and other fees.
+CMRA 2
+[6] The CMRA 2 partnership was formed on February 25, 1986, also under the laws of Ontario, by the same promoters as those who had formed CMRA. The partnership contract specifies an issue price of $1.00 per share, and, under clause 4.2 of the contract, the price of each share was payable in the same manner as with CMRA, that is: 24.528% in Canadian funds, and the balance, 75.472%, in the form of promissory notes, each of which was payable, in Brazilian funds, in four equal annual instalments commencing in the seventh year and ending in the tenth year following the issuance of the partnership shares, and the amount, payable in cruzeiros, was fixed at the exchange rate in effect on the date of issue of the shares in 1986. Simple interest at a rate of 11% was payable with each of the four annual instalments.
+[7] CMRA 2's fiscal year ended on December 31, 1986. In the course of that year, CMRA 2 received a total of $19,050,413 in Canadian funds from its members. It received from them as well 612,358,624 cruzeiros worth of promissory notes payable 7‑10 years later with interest at a rate of 11%. CMRA 2 paid Techmed 23.08% of the Canadian funds received, which amounted to $4,396,010.
+[8] During their respective fiscal years, both partnerships entered into scientific research and experimental development (SR&ED) contracts with Coral Sociedade Brasilieira De Pesquisas & Desenvolvimento ("Coral"), a corporation controlled by Texas businessman Allen F. Campbell through a Dutch company that he controlled. The object was to have Coral set up and direct research activities at its laboratory in Cambridge, England, and at another laboratory in Brazil.
+[9] Thus, the funds invested in CMRA and CMRA 2 were to be used for Coral's research. CMRA's contract was entered into on July 16, 1985, and CMRA 2's contract was entered into on February 25, 1986.
+CMRA's contract
+[10] CMRA's contract provided that Coral was to conduct research in the field of monoclonal antibodies that was to result in 57 products, each consisting of a conjugate of a murine monoclonal antibody and an enzyme that combine specifically in either an immunological or immunochemical manner with a designated antigen. Coral was to put forth its best efforts to complete the research work by December 31, 1985. The price per product was 7,990,867,500 cruzeiros, and the total price for the 57 products was 455,479,447,500 cruzeiros. The price, according to Schedule B to the contract, was payable in cruzeiros and was split into two components: 20% in cash, payable in cruzeiros upon completion of the work in 1985, and 80% consisting of four annual instalments payable in cruzeiros commencing seven years after the end of the work, with simple interest at 11.5%. The exchange rate applicable to the payments under the contract was the rate in effect on the date that the contract was signed.
+[11] The contract between CMRA and Coral also contained a clause providing for a possible reduction of the number of products that would have to be produced and, in February 1986, the number of products was indeed reduced, from 57 to 40, and the contract price was adjusted accordingly.
+[12] In the course of its fiscal year 1985, CMRA paid Coral C$350,000 for each product, that is to say, C$14,000,158 in total, by cheque issued to Coral and transferred to Coral's Canadian bank account. During the same fiscal year, CMRA issued 18 notes to Coral, denominated in Brazilian currency, in connection with the 40 Coral projects. Based on the exchange rates in effect at the time of the transactions between CMRA and Coral in 1985, the Canadian-dollar equivalent of the principal amount of 369,199,023,074 cruzeiros was C$56,000,623, which amounts to C$1,400,000 for each of the 40 projects.
+[13] In its financial statements for the period from July 16 to December 31, 1985, CMRA entered an expense of C$70,000,781 with respect to the contract signed with Coral. CMRA relied not only on the C$14,000,158 in cash payments to Coral, but also on the principal amount of the term notes denominated in Brazilian currency and signed by CMRA in favour of Coral, in the amount of 369,199,023,074 cruzeiros, which it converted into C$56,000,623 based on the exchange rate in effect on the date of the transaction with Coral.
+[14] There was no inflation adjustment and no monetary or exchange‑rate adjustment with respect to the 18 term notes denominated in Brazilian currency, signed by CMRA in favour of Coral. Investmed specified that, with regard to the amounts that CMRA owed Coral, Coral had agreed to waive joint and several liability, to divide its claims, and to limit its remedy against each partner to the amount that the partner owed the partnership.
+[15] On March 7, 1986, trustees Ernst Nigg and Christian Rusck notified CMRA that the 18 notes in Brazilian currency issued to Coral had been assigned to Medical Research Trust (MRT). It should be mentioned that Coral and MRT made no demand for payment on the 18 term notes, and in fact CMRA and its members did not pay anything on those 18 notes.
+[16] On the same date that the contract between CMRA and Coral was signed, the parties entered into a hedge agreement intended to protect CMRA and its members in the event that Brazil's currency should appreciate. CMRA paid C$1.00 in consideration therefor. There was no similar contract in place to protect Coral from any depreciation of the currency.
+CMRA 2's contract
+[17] The contract between CMRA 2 and Coral involved 120 projects that were to be completed by December 31, 1986. The price per product was 13,157,894,737 cruzeiros, for a total of 1,578,947,368,421 cruzeiros. The conditions regarding payment were the same as those set out in the CMRA contract, except for the interest rate, which was 11%.
+[18] The initial project, whose object was to obtain monoclonal antibodies that react with human leukocyte antigens and human blood group antigens, was later changed. In early 1987, CMRA 2 decided to abandon the 60 human blood group antigen projects after determining that Coral was unable to carry them out. On March 24, 1987, the parties agreed that the contract would involve 42 projects. As part of this transaction, CMRA 2 accepted the work done by Coral under the contract and obtained the rights, title and interest in and to the 42 human leukocyte antigen projects. The agreement dated March 24, 1987, defines the products obtained by CMRA 2 as follows:
+The parties acknowledge and agree that the products in Exhibit 1 are supernatants which reacted at least once with an identified HLS-specificity each of which requires additional work to become a monoclonal antibody with reproducible activity produced by a stable hybridoma, said monoclonal antibody to combine specifically in an immunological manner with an identified HLA-specificity.
+[19] On March 15, 1986, CMRA 2 notified Coral that it was aware that Brazil had abolished the cruzeiro, and confirmed that it would be performing its obligations under its contract with Coral on the basis of the new Brazilian currency, namely the cruzado.
+[20] Over the course of its fiscal year ended December 31, 1986, CMRA 2 paid Coral C$14,654,404, which amounted to roughly C$350,000 for each of the 42 projects. CMRA also issued notes in Brazilian currency payable to Coral in respect of the 42 projects, the total amount of the notes being 612,358,624 cruzados.
+[21] In its financial statements for the period from February 25 to December 31, 1986, CMRA 2 entered a research expense of C$73,272,012 in respect of the service contract entered into with Coral on February 25, 1986. In order to arrive at this amount, CMRA 2 did the same thing as CMRA: it entered the initial amount paid in cash as well as the value of the Brazilian-currency term notes converted into Canadian dollars based on the exchange rate in effect on the date of the transactions entered into with Coral.
+[22] Like the CMRA notes, the 13 CMRA 2 term notes contained no inflation adjustment formula, no monetary adjustment formula and no exchange rate adjustment formula. In a Notice of Opportunity dated July 28, 1986, Techmed specified that if CMRA 2 defaulted on the payment of the total fees it owed to Coral under their contract, Coral would have a remedy against the partnership's assets. The notice also specified that, in such an event, Coral's remedy against any given partner would be limited to that partner's debt to the partnership.
+[23] Like the CMRA term notes, the CMRA 2 term notes were assigned to MRT, but no demand was made, and CMRA 2 and its members did not pay anything on the 13 term notes. The parties also signed a hedge agreement like the one with CMRA, intended to protect CMRA 2 and its members in the event that the Brazilian currency should appreciate, but there was no contract to protect Coral from a depreciation of the currency. On June 17, 1986, Coral agreed, regarding the hedge agreement, that in view of Brazil's currency reform, the contract was to be read as though it referred to cruzados.
+[24] Before CMRA and CMRA 2’s contracts with Coral were signed, the partnerships' promoters did not approach any firms other than Coral in connection with the performance of the work contemplated in the contracts.
+[25] In the wake of all these events, a corporation named Les Associés de Recherche Médicale Canadienne Inc. (ARMC Inc.) was incorporated under the Quebec Companies Act. The incorporators were the Appellant Oleg Romar, the Appellant Yves Beaudry, and one other person. An offer of exchange was made to the members of CMRA and CMRA 2, which involved the conversion of their partnership shares into common shares of ARMC Inc. The purpose of ARMC Inc. was to develop products based on research done by Coral.
+[26] The ultimate objective of that research was to develop diagnostic test kits. ARMC Inc. sold the cell lines to Laval University for the specific purpose of developing such test kits for commercialization. The research activities were carried out at Coral's Cambridge laboratories; no activities took place at the Brazilian laboratories. In light of the outcome of these activities, CMRA and CMRA 2 claimed SR&ED expenses in excess of C$143,272,793, thereby giving rise to losses in an equal amount for 1985 and 1986.
+[27] The Appellants posted non-capital losses (NCLs) and claimed carrying charges associated with their investment, as well as NCL carry-overs to other taxation years.
+[28] By notice of assessment dated February 17, 2000, the Canada Revenue Agency disallowed practically all of the amounts deducted by the Appellants and some 600 other partners. Settlements were reached in all cases other than the Appellants'.
+[29] Now that we have reviewed the facts of the case, the main issues can be summarized as follows:
+1. Do the expenses claimed by the Appellants constitute SR&ED expenses within the meaning of section 37 of the Act and section 2900 of the Income Tax Regulations ("the Regulations")?
+2. Do the financial statements of the CMRA and CMRA 2 partnerships reflect the partnerships' actual profits?
+(a) Was an expense actually incurred with respect to the term notes negotiated between CMRA and CMRA 2?
+(b) Were the SR&ED expenses claimed by the Appellants reasonable within the meaning of section 67 of the Act?
+3. If the deductions claimed were allowed, would they have the effect of unduly or artificially reducing the Appellants' income as contemplated by subsection 245(1) as it read at the time?
+[30] Here, in very succinct terms, is what the Respondent submits. The shares in the CMRA and CMRA 2 partnerships were sold and presented as tax shelters. The two partnerships had no clear and specific business plan based on commercial and scientific practice. The expenses incurred by the partners are not reasonable expenses within the meaning of section 67 of the Act, as regards the work done by Coral.
+[31] The Respondent argues that the promoters and the partners in CMRA and CMRA 2 knew of the reputation of the Brazilian cruzeiro and wanted to profit from the situation by setting up tax shelters, which is why the contracts with Coral contained no monetary adjustment clause, and so the members of the two partnerships did not have to repay the true value of the debt that they had contracted.
+[32] The Respondent further submits that the financial statements of the partnerships in question were not prepared in accordance with generally accepted accounting principles (GAAP), that the value of the notes should have been discounted to reflect the depreciation of the Brazilian currency and that the losses claimed were not actually incurred. In the Respondent’s submission, the objective of the members of both partnerships was purely tax-related: to claim losses that were created virtually through the depreciation of the Brazilian currency, and thus subsection 245(1) of the Act applies.
+[33] For their part, the Appellants submit that the work done by the Coral laboratory meets the criteria with respect to SR&ED. In the alternative, they submit that their expenses were nonetheless incurred in the operation of their business and are therefore deductible under paragraph 18(1)(a) of the Act. They maintain that, in the circumstances, the expenses were reasonable within the meaning of section 67 of the Act. Lastly, they submit that the former subsection 245(1) of the Act does not apply in the case at bar because the deductions do not unduly or artificially reduce the partnerships' income.
+[34] Each of the parties called expert witnesses to testify concerning SR&ED, the Brazilian economy at the time, and the GAAP in relation to the partnerships' financial statements. There were also 16 witnesses who testified regarding the facts.
+[35] Do the expenses claimed constitute SR&ED expenses within the meaning of section 37 of the Act and section 2900 of the Regulations?
+The provisions applicable to the years 1985-1986 are as follows:
+37. Scientific research and experimental development
+(1) Where a taxpayer files with his return of income under this Part for a taxation year a prescribed form containing prescribed information, carried on a business in Canada and made expenditures in respect of scientific research and experimental development in the year, there may be deducted in computing his income for the year the amount, if any, by which the aggregate of
+(a) such amounts as may be claimed by the taxpayer not exceeding all expenditures of a current nature made in Canada by the taxpayer in the year or in any previous taxation year ending after 1973
+(i) on scientific research and experimental development related to the business and directly undertaken by or on behalf of the taxpayer,
+(ii) by payments to an approved association that undertakes scientific research and experimental development related to the class of business of the taxpayer,
+(iii) by payments to an approved university, college, research institute or other similar institution to be used for scientific research and experimental development related to the class of business of the taxpayer,
+(iv) by payments to a corporation resident in Canada and exempt from tax under paragraph 149(1)(j), or
+(v) by payments to a corporation resident in Canada for scientific research and experimental development related to the business of the taxpayer;
+(b) such amount as may be claimed by the taxpayer not exceeding the lesser of
+(i) the expenditures of a capital nature made in Canada (by acquiring property other than land) in the year and any previous year ending after 1958 on scientific research and experimental development relating to the business and directly undertaken by or on behalf of the taxpayer, and
+(ii) the undepreciated capital cost to the taxpayer of the property so acquired as of the end of the taxation year (before making any deduction under this paragraph in computing the income of the taxpayer for the taxation year),
+(c) . . .
+(c.1) all amounts included by virtue of paragraph 12(1)(v) in computing the taxpayer's income for any previous taxation year,
+exceeds the aggregate of
+(d) all amounts paid to him in the year or in any previous taxation year ending after 1973 under an Appropriation Act and on terms and conditions described in paragraph (c),
+(e) that portion of the aggregate of all amounts deducted under subsection 127(5) in computing the tax otherwise payable by the taxpayer under this Part for the year or any previous taxation year that may reasonably be attributed to expenditures of a current nature made in Canada in the year or in any previous taxation year that were qualified expenditures in respect of scientific research and experimental development within the meaning of paragraph 127(10.1)(c),
+(f) all amounts deducted by virtue of this subsection and paragraph 20(1)(t) in computing the taxpayer's income for any preceding taxation year, except amounts described in subsection (6), and
+(g) the aggregate of all amounts each of which is an amount equal to twice the amount claimed under subparagraph 194(2)(a)(ii) by the taxpayer for the year or any preceding taxation year.
+(2) Research outside Canada – There may be deducted in computing the income for a taxation year of a taxpayer who carried on business in Canada and made expenditures in the year in respect of scientific research and experimental development carried on outside Canada, all such expenditures of a current nature made in the year
+(a) on scientific research and experimental development related to the business and directly undertaken by or on behalf of the taxpayer, or
+(b) by payments to an approved association, university, college, research institute or other similar institution to be used for scientific research and experimental development related to the class of business of the taxpayer.
+(3) . . .
+(4) Deductions – No deduction may be made under this section in respect of an expenditure made to acquire rights in, or arising out of, scientific research and experimental development.
+(5) Idem – Where in respect of an expenditure on scientific research and experimental development made by a taxpayer in a taxation year an amount is deductible under this section and under section 110, no deduction may be made in respect of the expenditure under section 110 in computing the taxable income of the taxpayer for any taxation year.
+(6) Expenditures of a capital nature – An amount claimed under paragraph (1)(b) in computing a deduction under that subsection shall, for the purpose of section 13, be deemed to be an amount allowed to the taxpayer in respect of the property acquired by the expenditures under regulations made under paragraph 20(1)(a), and for that purpose the property acquired by the expenditures shall be deemed to be of a separate prescribed class.
+(7) Definitions – In this section,
+(a) . . .
+(b) "Scientific research and experimental development" - "scientific research and experimental development" has the meaning given to that expression by regulation;
+(c) [Expenditures on scientific research and experimental development] – references to expenditures on or in respect of scientific research and experimental development
+(i) where the references occur in subsection (2), include only
+(A) expenditures each of which was an expenditure incurred for and all or substantially all of which was attributable to the prosecution of scientific research and experimental development, and
+(B) expenditures of a current nature that were directly attributable, as determined by regulation, to the prosecution of scientific research and experimental development, and
+(ii) where the references occur other than in subsection (2), include only
+(A) expenditures each of which was an expenditure incurred for and all or substantially all of which was attributable to the prosecution, or to the provision of premises, facilities or equipment for the prosecution, of scientific research and experimental development in Canada, and
+(B) expenditures of a current nature that were directly attributable, as determined by regulation, to the prosecution, or to the provision of premises, facilities or equipment for the prosecution, of scientific research and experimental development in Canada; and
+(d) [References to scientific research and experimental development] – references to scientific research and experimental development relating to a business or class of business include any scientific research and experimental development that may lead to or facilitate an extension of that business or, as the case may be, business of that class.
+[36] Under section 37, expenses incurred to prosecute SR&ED may be deducted in computing a taxpayer’s income from a business carried on actively. The definition of scientific research is contained in section 2900 of the Regulations:
+Part XXIX
+Scientific Research
+Interpretation
+2900. For the purposes of this Part and paragraphs 37(7)(b) and 37.1(5)(e) of the Act, "scientific research" means systematic investigation or search carried out in a field of science or technology by means of experiment or analysis, that is to say,
+(a) basic research, namely, work undertaken for the advancement of scientific knowledge without a specific practical application in view,
+(b) applied research, namely, work undertaken for the advancement of scientific knowledge with a specific practical application in view, or
+(c) development, namely, use of the results of basic or applied research for the purpose of creating new, or improving existing, materials, devices, products or processes,
+and, where such activities are undertaken directly in support of activities described in paragraph (a), (b) or (c), includes activities with respect to engineering or design, operations research, mathematical analysis or computer programming and psychological research, but does not include activities with respect to
+(d) market research or sales promotion;
+(e) quality control or routine testing of materials, devices or products;
+(f) research in the social sciences or the humanities;
+(g) prospecting, exploring or drilling for or producing minerals, petroleum or natural gas;
+(h) the commercial production of a new or improved material, device or product or the commercial use of a new or improved process;
+(i) style changes; or
+(j) routine data collection.
+[37] In addition, a body of case law concerning SR&ED has been developed. In R I S - Christie Ltd. v. Canada, [1996] T.C.J. No. 1056, Judge Sarchuk of this Court considered the concept of SR&ED with respect to the 1982 and 1983 taxation years. The appellant had submitted as follows:
+Appellant's Submissions
+11 Pursuant to paragraphs 37(7)(b) and 37.1(5)(e) of the Act scientific research has the meaning given to that expression by Regulation 2900. The Appellant relies on the evidence of Dorcich and that of Littlejohn whose expert opinion was that the work conducted by 541185 was scientific research and experimental development. Their testimony and a review of the proposal and the synopsis provide ample support that 541185 followed a formalized, scientific methodology and engaged in "systematic investigation or research carried out in the field of science or technology by means of experiment or analysis". More specifically, it conducted applied research with respect to the electro-heating elements of the panel and the adhesives and other materials to be used therein and engaged in the collection of technical information and literature with respect to marketed concrete forming systems that went beyond routine data collection. It was also engaged in extensive development activities in which it analyzed and reviewed existing materials and products to develop the panel. Thus the work performed by it involved a real technical uncertainty, resulted in a new product and the product was developed by using an organized and systematic approach. Furthermore, the research undertaken by 541185 included activities "with respect to engineering and design" as evidenced by its work with respect to the structural, engineering and electrical design aspects of the panel. This included the building of prototypes, the existence of which was confirmed by the testimony of Dorcich, McCabe and Turner.
+12 The Appellant asserts that it has met the Department of National Revenue's technical guidelines as to what constitutes scientific research and development for the purpose of subsection 2900(1) of the Regulations in that it has satisfied the criteria of scientific or technological advancement; scientific or technological uncertainty; and scientific and technical content.
+[38] Judge Sarchuk also took account of Information Circular 86-4R3 in analyzing the appellant's activities. The following are the general criteria set out in that circular:
+2.9 General criteria
+2.10 Essential tests that must be met before any activity can be considered scientific research and experimental development include the criterion of scientific or technological advancement; the criterion of scientific or technological uncertainty; and the criterion of scientific and technical content.
+2.10.1 The criterion of scientific or technological advancement is as follows:
+· The search carried out in the scientific research and experimental development activity must generate information that advances our understanding of scientific relations or technologies. In a business context, this means that when a new or improved product or process is created, it must embody a scientific or technological advancement in order to be eligible.
+2.10.2 The criterion of scientific or technological uncertainty is as follows:
+· Whether or not a given result or objective can be achieved, and/or how to achieve it, is not known or determined on the basis of generally available scientific or technological knowledge or experience. This criterion implies that we cannot know the outcome of a project, or the route by which it will be carried out without removing the technological or scientific uncertainty through a program of scientific research or experimental development. Specifically, scientific or technological uncertainty may occur in either of two ways:
+° it may be uncertain whether the goals can be achieved at all; or
+° the taxpayer may be fairly confident that the goals can be achieved, but may be uncertain which of several alternatives (i.e., paths, routes, approaches, equipment configurations, system architectures, circuit techniques, etc.) will either work at all, or be feasible to meet the desired specifications or cost targets, or both of these.
+· The scientific or technological uncertainty, rather than the economic or financial risk, is important in characterizing scientific research and experimental development -- and, hence, eligible activities.
+· Sometimes there is little doubt that a product or process can be produced to meet technological objectives when cost targets are no object. In commercial reality, however, a reasonable cost target is always an objective, and attempting to achieve a particular cost target can at times create a technological challenge which needs to be resolved. A technological uncertainty may thus arise that is imposed by economic considerations. Otherwise, the more general question of the commercial viability of the product or process is not relevant to whether or not a technological uncertainty is present and, hence, to whether a project is eligible or ineligible.
+· This criterion applies equally to work on new or existing processes or products. The description of technological uncertainty contained in this subsection applies wherever the text of this circular refers to the criterion.
+2.10.3 The criterion of scientific and technical content is as follows:
+· The scientific research and experimental development activity must incorporate a systematic investigation going from hypothesis formulation, through testing by experimentation or analysis, to the statement of logical conclusions. Such experimentation can include work on the evolution of prototypes or models. In a business context, this means that the objectives of the scientific research and experimental development projects must be clearly stated at an early stage in the project's evolution. In addition, the method of experimentation or analysis by which the scientific or technological uncertainties are to be addressed must be clearly set out. Finally, the results of the succeeding scientific research and experimental development efforts have to be properly identified. The need for a systematic program of investigation does not preclude ideas that result from intuitive processes. Such ideas are hypotheses, however, and must still be tested through a systematic program before they can be accepted.
+· Qualified personnel having relevant experience in science, technology, or engineering are responsible for directing or performing the work.
+[39] It is also entirely appropriate to refer to the decision in C.W. Agencies Inc. v. Canada, [2000] T.C.J. No. 558, in which Judge Bonner reviews the state of the case law concerning the criteria applicable with respect to SR&ED and reiterated the principles regarding the role of expert witnesses in cases of this kind. I reproduce hereunder paragraphs 36 and 37 of that decision:
+37 In Northwest the Court went on to identify three basic criteria which apply to the determination of the question whether SR&ED has taken place in a particular case. They are scientific or technological uncertainty, scientific or technological content and scientific or technological advancement. The Court explained those three elements or criteria in language which is well worth repeating:
+1. Is there a technological risk or uncertainty?
+(a) Implicit in the term "technological risk or uncertainty" in this context is the requirement that it be a type of uncertainty that cannot be removed by routine engineering or standard procedures. I am not talking about the fact that whenever a problem is identified there may be some doubt concerning the way in which it will be solved. If the resolution of the problem is reasonably predictable using standard procedure or routine engineering there is no technological uncertainty as used in this context.
+(b) What is "routine engineering"? It is this question, (as well as that relating to technological advancement) that appears to have divided the experts more than any other. Briefly it describes techniques, procedures and data that are generally accessible to competent professionals in the field.
+2. Did the person claiming to be doing SR&ED formulate hypotheses specifically aimed at reducing or eliminating that technological uncertainty? This involves a five stage process:
+(a) the observation of the subject matter of the problem;
+(b) the formulation of a clear objective;
+(c) the identification and articulation of the technological uncertainty;
+(d) the formulation of an hypothesis or hypotheses designed to reduce or eliminate the uncertainty;
+(e) the methodical and systematic testing of the hypotheses.
+It is important to recognize that although a technological uncertainty must be identified at the outset an integral part of SR&ED is the identification of new technological uncertainties as the research progresses and the use of the scientific method, including intuition, creativity and sometimes genius in uncovering, recognizing and resolving the new uncertainties.
+3. Did the procedures adopted accord with established and objective principles of scientific method, characterized by trained and systematic observation, measurement and experiment, and the formulation, testing and modification of hypotheses?
+(a) It is important to recognize that although the above methodology describes the essential aspects of SR&ED, intuitive creativity and even genius may play a crucial role in the process for the purposes of the definition of SR&ED. These elements must however operate within the total discipline of the scientific method.
+(b) What may appear routine and obvious after the event may not have been before the work was undertaken. What distinguishes routine activity from the methods required by the definition of SR&ED in section 2900 of the Regulations is not solely the adherence to systematic routines, but the adoption of the entire scientific method described above, with a view to removing a technological uncertainty through the formulation and testing of innovative and untested hypotheses.
+4. Did the process result in a technological advance, that is to say an advancement in the general understanding?
+(a) By general I mean something that is known to, or, at all events, available to persons knowledgeable in the field. I am not referring to a piece of knowledge that may be known to someone somewhere. The scientific community is large, and publishes in many languages. A technological advance in Canada does not cease to be one merely because there is a theoretical possibility that a researcher in, say, China, may have made the same advance but his or her work is not generally known.
+(b) the rejection after testing of an hypothesis is nonetheless an advance in this it eliminates one hitherto untested hypothesis. Much scientific research involves doing just that. The fact that the initial objective is not achieved invalidates neither the hypothesis formed nor the methods used. On the contrary it is possible that the very failure reinforces the measure of the technological uncertainty.
+5. Although the Income Tax Act and the Regulations do not say so explicitly, it seems self-evident that a detailed record of the hypotheses, tests and results be kept, and that it be kept as the work progresses.
+38 The role of expert witnesses in cases such as this was discussed by the Federal Court of Appeal in RIS Christie Ltd. v. The Queen. At paragraph 12, Robertson J.A., speaking for the Court, stated:
+What constitutes scientific research for the purposes of the Act is either a question of law or a question of mixed law and fact to be determined by the Tax Court of Canada, not expert witnesses, as is too frequently assumed by counsel for both taxpayers and the Minister. An expert may assist the court in evaluating technical evidence and seek to persuade it that the research objective did not or could not lead to a technological advancement. But, at the end of the day, the expert's role is limited to providing the court with a set of prescription glasses through which technical information may be viewed before being analyzed and weighed by the trial judge. Undoubtedly, each opposing expert witness will attempt to ensure that its focal specifications are adopted by the court. However, it is the prerogative of the trial judge to prefer one prescription over another.
+[40] The Appellants in the case at bar submit that Coral's activities were applied research because the work was undertaken for the advancement of scientific knowledge with specific practical applications in view. They argue that the evidence that has been adduced shows that the investments in applied research served to produce monoclonal antibodies that could ultimately be used to develop diagnostic kits intended to test for certain diseases or infections.
+[41] Hence, the first question that must be asked is whether Coral's activities contributed to the advancement of science and technology. More specifically, did Coral's activities result in the creation of a new product or process or the improvement of an existing product or process?
+[42] In the case at bar, the parties relied on the concept of the usefulness of the products. The Appellants, for their part, argue that Coral's research did contribute to the advancement of science because, at that time (1985–1986), there was no diagnostic test for the viruses, parasites and proteins that were the subjects of the CMRA and CMRA 2 projects. In support of this contention, they note that the cell lines were sold to Laval University. The Respondent, for her part, argues that Coral was involved not in scientific research, but, rather, in monoclonal antibody production, as their experts Drs. Roger Kennett, Michael Norgard and Bernard Brodeur testified.
+[43] The director of Coral's laboratory in Cambridge confirmed the statements of the Respondent's three expert witnesses; he said that Coral was not doing what he called "early stage research". He added that "what we were doing was taking a technique in order to make a product" or "using a tool to produce a product which was labelled as research."
+[44] Dr. Roger Kennett is a professor of biology at Wheaton College in Texas. He prepared on behalf of the Respondent four expert reports regarding CMRA and CMRA 2, the purpose of which was to evaluate the SR&ED work that was done, determine whether the final products could be commercialized, and assess the cost of producing monoclonal antibodies. Dr. Kennett stated that as far as viral, peptide and parasite antigens are concerned, the technology was known to the scientific community at the time and did not warrant further research. According to Dr. Kennett, the Coral projects did not contribute to the advancement of science in any way. In his view, Coral's work solely consisted in producing monoclonal antibodies, with no regard to their specificity or antigen sensitivity. There was no SR or ED in the ARMC and ARMC 2 projects since the procedures, protocols and hypotheses proposed by Coral had not been verified through experiments or analyses that would have led to a logical conclusion. However, he did acknowledge that even if certain products exist on the market, some companies will continue to do research on them in order to develop similar products or products with certain distinguishing features.
+[45] The CMRA and CMRA 2 project nonetheless aroused interest in scientific circles. In the course of her testimony, Francine Décary, President and CEO of Hema-Québec, stated that in 1988, when she was the medical director of transfusion services with the Red Cross, she was approached by CMRA to work on a project entitled "Production d’anticorps monoclonaux humains anti-HLA" (Production of anti-HLA human monoclonal antibodies). The goal was to pursue the work initiated by Coral, which consisted in developing technology to produce ten or so anti-HLA human monoclonal antibodies. Her interest stemmed from the fact that at the time (and even today), there were no anti-HLA monoclonal antibodies derived from human samples. The project, which was to have taken two years and cost C$677,000, never got off the ground; the witness was not aware of the reasons for this, nor did she know what had become of the antibody producing cells that had been supplied.
+[46] Ghislaine Martin, a special advisor at Laval University, testified that the university purchased type I and type II herpes simplex cell lines from ARMC in 1993, as well as Entamoeba histolytica cell lines in 1999.
+[47] Dr. Michel Pagé, a professor of biochemistry at Laval University, provided testimony regarding the various contracts for the purchase of cell lines that the university signed with ARMC with a view to developing test kits for cytomegalovirus and herpes simplex types I and II. He indicated that the Entamoeba histolytica cell lines purchased in 1991 cost C$470,000. However, he did not believe that the cytomegalovirus and herpes simplex kits had ultimately generated any income.
+[48] For reasons of quantification, specificity and sensitivity, Dr. Pagé produced, as part of this research, other cell lines with those acquired from CMRA. The witness explained that the technique he was using required cell lines in addition to those provided by ARMC and that he had had to carry out a considerable amount of additional research with the ARMC cell lines in order to obtain a marketable product. He did indicate, however, that all the required cell lines ultimately produced the antibodies they were supposed to produce.
+[49] In light of this evidence, the answer to the question asked could arguably be that CMRA and CMRA 2's projects did contribute to the advancement of science in the sense that the projects involved the development of new products or the improvement of existing products.
+[50] The second question that must be asked is whether there was scientific or technological uncertainty regarding the activities in which Coral was engaged. What must be determined is whether Coral, upon commencing its work, knew the probability of attaining its goals or a given result, or how it would achieve the goals or result.
+[51] The Appellants submit that this criterion is met in the case at bar because some of CMRA and CMRA 2's projects were successful and others were not. From the testimony given by the witnesses, it can be seen that in 1985–1986, there was considerable enthusiasm for the type of research that Coral was doing. Dr. Kennett admitted that research on monoclonal antibodies involved risk and the Appellants infer from this admission that uncertainty has been demonstrated. According to Dr. Kennett, one is not always certain that the results hoped for will be achieved. In my opinion, it was therefore impossible for Coral to know which projects would ultimately be successful.
+[52] Neither the probability of attaining objectives nor the manner in which they might be attained can be known or determined in advance on the basis of the state of scientific or technological knowledge. It can therefore be said that Coral cannot have known the outcome of the project or how to carry it out, and thus, there was technological uncertainty as to whether antibodies could be produced for all the viruses, parasites and other organisms for which Coral was attempting to develop antibodies.
+[53] Thirdly, it must be asked whether Coral's activities had scientific and technical content. I come back to the decision in C.W. Agencies, supra, in which Judge Bonner reiterated the three fundamental criteria set out in Northwest and the five‑step process intended to eliminate such technological uncertainty:
+(a) the observation of the subject matter of the problem;
+(b) the formulation of a clear objective;
+(c) the identification and articulation of the technological uncertainty;
+(d) the formulation of an hypothesis or hypotheses designed to reduce or eliminate the uncertainty; and
+(e) the methodical and systematic testing of the hypotheses.
+[54] The Appellants submit that Coral's activities met this third criterion because, according to the testimony, Coral's laboratory staff was qualified, hypotheses were formulated (despite the fact that the scientists did not all agree on their validity; they did point out, however, that an inexact hypothesis nonetheless advances science), and there were laboratory log books. They submit that the criterion is met where there is a systematic investigation of the hypotheses or tests, with experimentation, analysis and conclusions.
+[55] The Respondent, for her part, rejects this argument, in view of the clear depositions of her expert witnesses.
+[56] Dr. Bernard Brodeur is a biotechnology consultant and retired Laval University professor. During the period in question, he headed the diagnostic reagents division of the Laboratory Centre for Disease Control (Health Canada) in Ottawa. He was appointed as the scientific expert for findings and opinions regarding the work being carried out at the Coral laboratory for CMRA and CMRA 2.
+[57] The mission that he was given by the Canada Revenue Agency in December 1987 was to evaluate the nature, extent and quality of the research activities reported by the Coral laboratories with respect to two different programs, namely the production of murine monoclonal antibodies capable of combating bacteria antigens, virus antigens, parasite antigens and certain human protein antigens, and the production of human monoclonal antibodies capable of combating human leukocyte and blood group antigens, the objective, in both cases, being to create diagnostic kits for the detection of diseases. He therefore prepared expert reports on the CMRA and CMRA 2 projects.
+[58] In his expert reports, Dr. Brodeur indicated that Coral had the capacity to culture cells capable of producing antibodies, but that it did not have the microbiology laboratory facilities needed to work with human pathogens in order to validate its results; these pathogens were essential to developing research projects in which infections would be followed in a live animal. That step constitutes the validation of the results. According to Dr. Brodeur, Coral had sought to compensate for this deficiency by turning to other, less accurate solutions in which the antibodies created were not always capable of recognizing the specific antigen. In his testimony, he indicated to the Court that, in his view, the procedures, protocols and hypotheses proposed by Coral were not verified through experiments or analyses that might have led to a logical conclusion. He asserted, in his expert capacity, that specificity and affinity are essential for antibodies as they must be able to recognize the target antigen with a high degree of accuracy, since a disease can comprise several antigen groups, in very limited quantities, which can sometimes be broken down into several different types. He further maintained that the laboratory personnel were indeed producing antibodies but were not aware of the properties of these antibodies, since none of them knew the exact type of antigen with which the antibodies produced could react.
+[59] Dr. Brodeur observed the following anomalies with respect to Coral:
+1. the absence of an animal research facility to perform the immunization tests;
+2. a lack of microbiology expertise;
+3. an error in the antigen screening method used;
+4. the purification and conjugation methods (conjugation of antibodies with a chemical molecule to create a detector antibody, which is essential for establishing diagnostic tests) were consistent with current standards;
+5. certain conjugations, even where there were very weak sensitivity findings, were considered by Coral to be successful, and the project was then viewed as completed;
+6. there was no evidence of on-site clinical assessments;
+7. there was a lack of project management, since Coral limited itself to the production of large quantities of antibodies in a rather hit-or-miss fashion, and was not seeking to discover specific monoclonal antibodies capable of detecting specific diseases;
+8. Coral never discovered antibodies that were ready for clinical trials since characterization was markedly lacking;
+9. when Coral encountered an obstacle in its research, the project would simply be abandoned;
+10. there was only one specialist in monoclonal antibodies (Bruce Wright); the other laboratory staff members were merely assistants; Robert Mason was an immunology expert.
+[60] The witness concluded from all of the above that Coral was not engaged in research, but rather, was on a fishing expedition in which routine and very quick methods were used.
+[61] As for the laboratory log books, Dr. Kennett stated that they did not meet industry standards and would not have been sufficient to secure a patent. In fact, the evidence shows that the log books contained, rather, summary information that simply indicated whether a given project had been successful or not. In my opinion, it would appear that Coral's activities were devoid of any scientific content. There is no evidence to suggest that Coral had formulated any hypotheses with respect to the success or lack of success of its research activities.
+[62] Still, on his first visit to Cambridge on July 19, 1985, Dr. Norgard had observed that the laboratory was adequate, that its personnel was qualified, that research activities were underway and that mice were being used in the laboratory. However, he also observed, as did Dr. Brodeur, that the "screening panels" were unsatisfactory. In his second report, he concluded that the great majority of Coral's projects had no scientific merit. He based this conclusion on the fact that the antibodies obtained were incapable of identifying specific antigens for a specific species of pathogen and could only provide a very summary diagnosis, which would have been of no value in the type of diagnostic kit required. He even referred to the work as a waste of resources.
+[63] Reproduced below are the findings contained in his report with respect to the fundamental reason for such research projects:
+. . . my opinion is that the overwhelming majority of these really were formulated on the basis of oversights, erroneous hypotheses, I think they use misleading rationales, there was certainly ignorance of relevant diagnostic issues and all the very superficial considerations of the scientific approaches, not to mention the lack of scientific rigor because again many of these projects there was a little activity and they suddenly terminated, there was no good faith effort in really trying to show a genuine attempt to carry them out. I think that the CMRA partners did not do the customary due diligence in selecting these kinds of projects that lacked scientific merit, lacked of diagnostic rationales. And I don't even think that the Coral activities represented bona fide scientific research. They only wanted to project an image of scientific credibility [page 59].
+[64] Dr. Norgard also produced a rebuttal to the report of Dr. Pradip Banerjee, the Appellant's expert, which he criticizes for not having considered the utility of the monoclonal antibodies, their raison d'être, why they were needed, and their practical application. Moreover, he states that the report provides no breakdown of the figures on which the expert relied. In Dr. Norgard's opinion, the development of antibodies represents in fact only 10% of the production costs of a diagnostic kit, and he states that C$1.75 million is unreasonable under the circumstances.
+[65] As we have seen, Dr. Kennett found with respect to CMRA that there was no SR&ED because the procedures, protocols and hypotheses proposed by Coral were not verified by experiments or analyses that would have led to a logical conclusion. He expressed the same view about CMRA 2. He found that the work carried out consisted solely in producing antibodies, not to mention the fact that the quantities produced were small and chemically useless. He briefly commented on the following situations with regard to CMRA 2:
+1. in 1986, there were already standardized protocols for producing antibodies from mouse cells;
+2. for reasons of technical difficulty, it was not a good idea to use human cells to produce antibodies; mouse cells would have been good enough;
+3. at the time, it was not possible to produce antibodies of each category, because that would have required more time;
+4. the contract with CMRA 2 led to no scientific innovation.
+[66] In light of the evidence adduced by the Respondent, I am unable to conclude, on a balance of probabilities, that Coral's activities in relation to either the CMRA or the CMRA 2 project had scientific content. Thus, I find that Coral's work for CMRA and CMRA 2 did not truly constitute SR&ED.
+Question 2A
+[67] Since the Respondent admitted that CMRA and CMRA 2 operated a business, we must now ask whether an expense was truly incurred with respect to the term notes issued by CMRA to Coral and by CMRA 2 to Coral. In the Respondent’s alternative submission, CMRA and CMRA 2 did not report their profits in the manner that most accurately reflected their business in accordance with the GAAP that prevailed at the time.
+[68] As we have seen, under the terms of payment set out in the contract between CMRA and Coral dated July 16, 1985, the fees were payable in Brazilian cruzeiros at 7,990,867,500 cruzeiros per product, for a total of 455,479,447,500 cruzeiros for the 57 products contemplated in the contract. Twenty per cent of that amount was payable in cash before December 31, 1985 – which percentage was paid in Canadian currency – and 80% was payable in the form of a term note payable in four equal annual instalments in Brazilian currency, commencing in the seventh year, that is to say, in 1992, 1993, 1994 and 1995, at the exchange rate in effect on the date that the shares were issued in 1985, plus simple interest at a rate of 11.5% on each of the four instalments.
+[69] Under the terms of payment set out in the contract dated February 25, 1986, between CMRA 2 and Coral, the fees were payable in Brazilian funds at 13,157,894,737 cruzeiros per product, for a total of 1,578,947,368,421 cruzeiros for the 120 products referred to in the initial contract, and were payable in the same manner as that specified in the previous year's contract, except that the interest rate was 11%.
+[70] It should also be noted that both of the contracts in question contained an adjustment clause stating that the amounts payable in Brazilian funds represented the equivalent of C$1,750,000 per project on the effective date of the contracts, namely July 16, 1985 and January 2, 1986, respectively. The adjustment clause also provided that the amounts in Brazilian currency were also to correspond to C$1,750,000 on the date set by the contracts for the payment of the 20% in cash. However, the clause excluded any other adjustment for the payments under the term notes. Thus, the clause protected Coral against any depreciation of the Brazilian currency between the date of the contracts and the date of the cash payment (the 20%).
+[71] At the time, it was known that the Brazilian currency was undergoing rapid devaluations and that inflation was on the rise. The testimony, and in particular the expert testimony, makes this clear.
+[72] CMRA and CMRA 2 reported cash payments to Coral, in Canadian funds, totalling $14,000,158 and $14,654,404, in their respective fiscal years. In addition, both partnerships reported more than $70 million in research expenses in their respective financial statements. The expenses include the $14 million in cash payments in Canadian funds, but they also include the principal on the Brazilian-currency term notes, converted into Canadian funds at the exchange rate in effect on the date that each note was subscribed in 1985 and 1986. It is in this manner that CMRA entered C$70 million in research expenses in its financial statements for 1985, and CMRA 2 entered C$73 million in such expenses in its financial statements for 1986.
+[73] The Respondent's position on the issue of whether the amounts deducted with respect to the demand notes, namely C$56 million for CMRA and C$58 million for CMRA 2, is that they were not expenses that were paid or incurred, but were instead contingent liabilities that were uncertain, and that were, indeed, entirely unlikely to arise under the circumstances. As for the Appellants, their position is that in order for an expense to be deductible, it must be incurred for the purpose of gaining or producing income from a business or property. Thus, they submit that, to the extent that the expense was incurred, it can be deducted.
+[74] At the time that the relevant facts arose, subparagraph 18(1)(a) of the Act read as follows:
+18.(1) General limitations
+In computing the income of a taxpayer from a business or property no deduction shall be made in respect of
+(a) General limitation - an outlay or expense except to the extent that it was made or incurred by the taxpayer for the purpose of gaining or producing income from the business or property;
+18.(1) Exceptions d’ordre général
+Dans le calcul du revenu du contribuable tiré d'une entreprise ou d'un bien, les éléments suivants ne sont pas déductibles :
+a) Idem. – un débours ou une dépense sauf dans la mesure où ce débours ou cette dépense a été fait ou engagé par le contribuable en vue de tirer un revenu de l'entreprise ou du bien;
+[Emphasis added.]
+That subparagraph now reads:
+18.(1) General limitations
+In computing the income of a taxpayer from a business or property no deduction shall be made in respect of
+(a) General limitation - an outlay or expense except to the extent that it was made or incurred by the taxpayer for the purpose of gaining or producing income from the business or property;
+18.(1) Exceptions d’ordre général
+Dans le calcul du revenu du contribuable tiré d'une entreprise ou d'un bien, les éléments suivants ne sont pas déductibles :
+a) Restriction générale - les dépenses, sauf dans la mesure où elles ont été engagées ou effectuées par le contribuable en vue de tirer un revenu de l'entreprise ou du bien.
+[75] Since the French verbs "faire" and "effectuer" have the same meaning, the recent case law is relevant to the former French version of the provision. The Grand Robert de la langue française gives the following definitions:
+EFFECTUER v. tr.
+1. Mettre à effet, à exécution. Þ Accomplir, tenir.
+2. Mener à bien, faire, exécuter (une opération complexe ou délicate, technique, etc.). Þ Accomplir, faire, réaliser.
+FAIT, FAITE adj. Þ Faire
+FAIRE v. tr.
+. . .
+2. Effectuer (une opération, un travail); s’occuper à qqch. Þ Effectuer, exécuter, opérer . . .
+[76] The concept of an incurred expense has been considered in a number of decisions, and what must be remembered is that there must be an obligation to pay money in order for an expense to be incurred (see the decisions in The Queen v. Burns, [1984] 2 F.C. 218 (F.C.A.) and Newfoundland Light & Power Co. Ltd. v. The Queen, 90 DTC 5166 (F.C.A.)) and the expense is incurred in the year that the liability comes into existence. Madam Justice Sharlow of the Federal Court of Appeal made the following comments on this question in Wawang Forest Products Ltd. v. Canada, [2001] F.C.J. No. 449:
+30 Desjardins J.A. added obiter dicta to the effect that the amounts could not be recognized for tax purposes in the absence of proof that third party claims had been satisfied, because until that was done the quantum of the liability was uncertain. She also relied on the fact that part of the amount claimed had not been paid. I must respectfully disagree with these comments. In my view, a legal obligation to pay an amount may exist even if there is some risk that the actual payment may be set off against potential counterclaims. Similarly, the fact that a liability remains unpaid does not mean that it never came into existence. For these reasons, I reject the argument of the Crown in this case that the taxpayers' contractual right of setoff for trespass penalties, or the fact that some of the holdbacks remained unpaid in 1994, proves that the holdbacks were contingent liabilities in the years under appeal.
+[77] With respect to the question of contingent liabilities, which was raised by the Respondent herein the following remarks by Madam Justice Sharlow in Wawang, supra, shed light on the appropriate test and its application:
+11 The generally accepted test for determining whether a liability is contingent comes from Winter and Others (Executors of Sir Arthur Munro Sutherland (deceased)) v. Inland Revenue Commissioners, [1963] A.C. 235 (H.L.), in which Lord Guest said this (at page 262):
+I should define a contingency as an event which may or may not occur and a contingent liability as a liability which depends for its existence upon an event which may or may not happen.
+12 The same understanding of the meaning of "contingency" underlies many tax decisions in this Court and other courts, including Harlequin Enterprises Limited v. The Queen, [1977] 2 F.C. 579, [1974] C.T.C. 838, 74 D.T.C. 6634 (F.C.A.), Mandel v. The Queen, [1979] 1 F.C. 560, [1978] C.T.C. 780, 78 D.T.C. 6518 (F.C.A.), Perini Estate v. Canada, (1982), 40 N.R. 74, [1982] C.T.C. 74, 82 D.T.C. 6080 (F.C.A.), and Canadian Pacific Limited v. Ontario (Minister of Revenue), [1998] 41 O.R. (3d) 606, 114 O.A.C. 217, [2000] C.T.C. 331, 99 D.T.C. 5286 (Ont. C.A.).
+13 The Winter test has become confused by some obiter dicta in Samuel F. Investments Limited v. M.N.R., [1998] 1 C.T.C. 2181, 88 D.T.C. 1106 (T.C.C.), one of the cases cited by counsel for the Crown in this appeal. In that case the Tax Court Judge relied on Winter in concluding that a certain obligation was contingent. In my view, he reached the correct conclusion on the facts. However, in his reasons for decision he said this:
+My understanding is that a liability to make a payment is contingent if the terms of its creation include uncertainty in respect of any of these three things: (1) whether the payment will be made; (2) the amount payable; or (3) the time by which payment shall be made.
+14 It is fair to say that these three uncertainties may be characteristic of contingent liabilities in some circumstances. However, the Crown argues in this case that the existence of these three uncertainties are [sic] now the test for determining whether a liability is contingent. In support of its position, counsel for the Crown cites Barbican Properties Inc. v. Canada, [1996] 2 C.T.C. 2615, 97 D.T.C. 122 (T.C.C.), affirmed, [1997] 1 C.T.C. 2383, 97 D.T.C. 5008 (F.C.A.). In my view, that case does not stand for the proposition for which the Crown cites it. The Tax Court Judge in Barbican did recite the three uncertainties from Samuel F. Investments, but only after he had already concluded that the liability in issue was contingent because its existence depended upon the occurrence of a contingent event. In other words, the liabilities in Barbican were contingent in accordance with the definition in Winter and also met the three uncertainties stated in the Samuel F. Investments case. This Court endorsed his reasons. However, I cannot accept that the Tax Court Judge or this Court intended to replace the Winter test for contingent liabilities with a different one based on Samuel F. Investments.
+15 The "three uncertainties" listed in Samuel F. Investments cannot by themselves determine whether a liability is contingent. For example, with respect to the uncertainty as to payment, a taxpayer may incur an obligation at a time when it is in financial difficulty, with the result that there is a significant risk of non-payment. But that uncertainty cannot mean that the obligation was never incurred. Similarly, an obligation to pay a certain amount does not become a contingent obligation merely because events may occur that result in a reduction in the quantum of the liability (see, for example, Canadian Pacific, cited above). Nor does a legal obligation to pay an amount become contingent merely because payment may be postponed in certain events or no date is stipulated for payment. Parties are entitled to rely on the ordinary contract law principle that payment for services must be made within a reasonable time.
+16 Returning to the Winter test, the correct question to ask, in determining whether a legal obligation is contingent at a particular point in time, is whether the legal obligation has come into existence at that time, or whether no obligation will come into existence until the occurrence of an event that may not occur. For example, Winter establishes that where tax is payable on the gain realized on the sale of an asset, the obligation to pay the tax is a contingent liability unless the asset is sold. An obligation to pay an amount equal to a percentage of earned revenues is a contingent obligation unless the revenues are earned (Mandel, cited above). An obligation to pay a management bonus if the money is available is a contingent obligation unless the money is available (The Queen v. Ken and Ray's Collins Bay Supermarket, [1975] C.T.C. 504, 75 D.T.C. 5346 (F.C.T.D.), confirmed without written reasons (F.C.A.), leave to appeal to the Supreme Court of Canada refused: [1978] 1 S.C.R. ix).
+[78] Here, then, is the right question to ask in the case at bar in order to decide whether a liability is contingent: Did the legal obligation to pay the notes exist at the precise moment that they were signed, or would it come into existence only if an uncertain event occurred? The Respondent submits that the test has been met because the Appellants knew, upon negotiating the research contracts, that the Brazilian currency would depreciate and that the notes would be worthless at the time that they would become payable.
+[79] In support of this submission, the Respondent cites Global Communications Ltd. v. Canada, [1999] F.C.J. No. 966, a decision of the Federal Court of Appeal concerning such contingent liabilities, in which it was held that an expense that might never be incurred could not be deducted. In Global Communications, the Court held that the notes were contingent liabilities because payment on the notes was due only if licensing revenue was generated, and the generation of such revenue was an uncertain event.
+[80] In McLarty v. Canada, [2006] F.C.J. No. 656, the Federal Court of Appeal was faced with this issue again, and came to the opposite conclusion in considering whether notes gave rise to a contingent liability as regards their payment. The Court stated, in relevant part:
+31. A determination of whether an expense has been incurred or if the obligation is merely a contingent liability is a question of mixed fact and law. Consequently, the applicable standard of review is that of palpable and overriding error. General Motors of Canada Ltd. v. The Queen, 2004 FCA 370 at para. 14.
+32. If the Note had only required repayment provided there were revenues from the licensing of the Data or from the drilling program, then the Note may well have been contingent. However, section 7 of the Note stated:
+7. If the indebtedness created hereby either with respect to principal or interest remains in whole or in part unpaid as of December 31, 1999, the Noteholder will appoint an independent trustee to sell for cash only:
+a. the Technical Assets; and
+b. an undivided 20% of the undersigned's Participating Interest in Petroleum Rights acquired by the Joint Venture pursuant to the Drilling Program.
+The proceeds of the sale will be allocated as follows:
+a. Technical Assets:
+i. 60% (net of commissions, if any) to the Noteholder as a reduction of amounts owing by the undersigned under this promissory note; and
+ii. 40% (net commissions, if any) to the undersigned;
+b. an undivided 20% of the undersigned's Participating Interest in Petroleum Rights acquired by the Joint Venture pursuant to the Drilling Program:
+100% to the Noteholder as a reduction of amounts owing by the undersigned under this promissory note, allocated firstly as to interest and the remainder as to principal.
+Any balance owing by the undersigned on this note after the allocation of the proceeds of the sale as described above will be forgiven by the Noteholder and the undersigned will have no further liability under this promissory note.
+33. Indeed, the TCC's analysis of the contingent nature of the respondent's obligation turned on this final aspect of the Note. In the mind of the TCC judge, the Note was contingent if there was some uncertainty if the Data could be sold. According to McLarty at para. 49:
+Ultimately, to determine whether the Appellant's Note is a contingent liability it is necessary to look at the surrounding facts. The ongoing market for quality seismic data, and relative rarity of such quality (especially at the time the Venture Data was purchased) leads me to the determination that the Venture Data could be sold. I find that at the time the Appellant purchased his interest in the Venture Data there was no contingent liability because the Venture Data was required to be and could be sold upon default.
+34. It is not clear to me that it was necessary to consider whether the Data could be sold. It seems to me that one could determine whether the Note was contingent, simply by reading it.
+35. In Wawang at paras. 13, 15 and 16, this court stated the following about the nature of a contingent obligation:
+para. 13 The Winter test has become confused by some obiter dicta in Samuel F. Investments Limited v. M.N.R., [1988] 1 C.T.C. 2181, 88 D.T.C. 1106 (T.C.C.) . . . In that case the Tax Court Judge relied on Winter in concluding that a certain obligation was contingent. In my view, he reached the correct conclusion on the facts. However, in his reasons for decision he said this:
+My understanding is that a liability to make a payment is contingent if the terms of its creation include uncertainty in respect of any of these three things: (1) whether the payment will be made; (2) the amount payable; or (3) the time by which payment shall be made.
+. . .
+para 15 The "three uncertainties" listed in Samuel F. Investments cannot by themselves determine whether a liability is contingent. For example, with respect to the uncertainty as to payment, a taxpayer may incur an obligation at a time when it is in financial difficulty, with the result that there is a significant risk of non-payment. But that uncertainty cannot mean that the obligation was never incurred. Similarly, an obligation to pay a certain amount does not become a contingent obligation merely because events may occur that result in a reduction in the quantum of the liability (see, for example, Canadian Pacific, cited above). Nor does a legal obligation to pay an amount become contingent merely because payment may be postponed in certain events or no date is stipulated for payment. Parties are entitled to rely on the ordinary contract law principle that payment for services must be made within a reasonable time.
+para. 16 Returning to the Winter test, the correct question to ask, in determining whether a legal obligation is contingent at a particular point in time, is whether the legal obligation has come into existence at that time, or whether no obligation will come into existence until the occurrence of an event that may not occur. . . .
+36. In this instance, a plain reading of the Note reveals that the respondent's liability was not contingent. Instead, his legal obligation came into existence when the Note was signed.
+37. The terms of the Note themselves reveal that the respondent's liability did not depend on the occurrence of an uncertain event. The Note dictated that the respondent was obliged to pay the noteholder if there were revenues from the licensing of the Data or from the drilling program. Even if there were no such revenues, the respondent was not free from any legal obligations. According to the Note, if the debt remained unsatisfied by December 31, 1999, the noteholder could appoint an independent trustee to sell the Data and part of the respondent's interest in any petroleum rights acquired by the Joint Venture. In other words, regardless of whether the Data or drilling program generated revenues, the respondent was obliged to surrender property for the benefit of the noteholder.
+38. My conclusion that section 7 of the Note results in its being an absolute obligation is sustained by Frederick W. Hill v. The Queen, 2002 DTC 1749 (T.C.C.). In that case, the TCC considered whether interest amounts in relation to a limited recourse mortgage were contingent liabilities. Even though the mortgagee could not seek any deficiency under the mortgage from the mortgagor, the TCC found no contingency. After all, the mortgagee could always take possession of or sell the land.
+39. The appellant objects to these lines of reasoning by pointing to Global Communications. It is true that the structure of the note in that case seems similar to that of the Note in the present one. The Global Communications note obliged the taxpayer to pay the noteholder, if and when received, a percentage of net revenues from the sale or licensing of the taxpayer's seismic data and a percentage of net oil and gas revenues. Recourse under the Global Communications note was also limited to the liquidation of the seismic data and any oil and gas leases held when the note matured. Unfortunately, the court in Global Communications did not appear to consider this final aspect of the note before it in determining that the note represented a contingent liability. Therefore, this case is not of particular assistance in the present one.
+40. In conclusion, then, the court below reached the right result when it equated the Note with an incurred expense.
+[81] The actual thrust of these remarks is that where payments are contingent on revenues, the fact that there is a provision for fulfilling the obligations by some other means does not cause the payment to be an uncertain event.
+[82] In the case at bar, are there contingent liabilities with respect to payment to Coral by CMRA and CMRA 2 under the term notes? Is payment contingent upon the occurrence of an uncertain event?
+[83] Each party called expert witnesses. The Appellant called John Williamson, an economist with considerable experience in international monetary issues. The purpose of his report was to state his opinion as to whether the Brazilian cruzeiro had the potential for rapid inflation in 1985 and 1986. He addressed several matters in his report, including the historical profile of Brazilian currency after World War II. He stated that Brazil had faced repeated waves of inflation and monetary devaluation since the end of the 1950s. He reviewed the three schools of thought on solving Brazil's inflation problem and the various measures taken by the Brazilian government in the 1980s. His conclusion was that, in 1985 and 1986, it was impossible to predict that very high inflation in Brazil would be inevitable. In his view, it was not possible to predict hyperinflation at that time, because that phenomenon depended on the country's political system and on the effect of stabilization programs. Consequently, he could not have predicted that the Brazilian currency would depreciate greatly in relation to the Canadian dollar within 7-10 years. I must note that the reasons that prompted this witness to make that assertion were not expressly stated, though the witness did allude to various recovery plans that were implemented.
+[84] The witness also submitted a rebuttal to the reports prepared by the Respondent's experts, Dr. William Cline and Dr. James W. Hoag. Dr. Cline holds a doctorate in economics. He has taught in Brazil and worked for the country's Ministry of Planning. From 1981 to 1989, he published a number of articles on Latin America's economy and wrote several on the Brazilian economy in particular. He prepared an expert report for CMRA, an expert report for CMRA 2, a rebuttal of Mr. Williamson's report, and a comment in that regard dated March 22, 2006.
+[85] Dr. Cline testified as to the fair market value of the notes in 1985 for CMRA and in 1986 for CMRA 2. In order to address this issue, he had to assess the anticipated inflation rate in Brazil for the ten years following the issuance of the notes. In his view, the financial community was clearly predicting a marked and constant depreciation of the Brazilian currency in relation to the Canadian currency. He relied on historical Brazilian data from 1959 to 1985 and asserted that there were warning signs regarding the success of Brazil's recovery plan. Dr. Cline testified that unless this anticipated depreciation of Brazil's currency was offset by high interest rates on the notes, which it was not, it would necessarily cause a considerable reduction in the fair market value of the notes in relation to their face value.
+[86] The witness's conclusion regarding the actual value of the CMRA notes was as follows: "My assessment is that the fair market value of those notes when they were signed was less than one tenth of one cent on the dollar." This assessment was based on the fact that one had to consider the variations in the exchange rate for the Brazilian currency in relation to that for the Canadian currency over the years. In this regard, he stated:
+The central premise of my study is that, to anticipate what the future exchange rate would be between the Brazilian currency and the Canadian currency, it was necessary to take account of a differential inflation. And that because Brazilian inflation was expected to be much higher than Canadian inflation, it was necessary, for a period stretching ten years, to systematically strip out the loss of value that would occur for the Canadians year after year because of higher inflation in Brazil than in Canada. The premise of this in fact is so formal that it's called, in Economics, the Purchasing Power Parody Theorem. And this theorem holds precisely that you can expect one currency to depreciate relative to another currency at a rate that equals the difference between inflation in the first country and the inflation in the second country.
+[87] With respect to the CMRA 2 notes, he stated: "My estimate is that at the time they were signed, in aggregate, these notes were worth seven point seven cents on the dollar." His reasoning consisted of the same argument as that put forward with respect to CMRA, except that the inflation rate was reduced from 250% to 50% for CMRA 2. In both cases, the witness maintained that the term notes did not constitute standard business practice. This is because they did not have an indexation mechanism to offset inflation. The witness said that the lack of indexation was contrary to business practice at that time because no one wanted to run the risk of having their projects go up in smoke due to inflation. The interest rate stipulated in the notes did not reflect the reality of Brazil's financial market because, according to statistics, the country's interest rate at the time was excessively high.
+[88] Dr. James Hoag was qualified as an expert in financial economics. He has been a professor of finance and economics at several U.S. universities. He taught Ph.D.-level courses in Brazil in 1983. His considerable work experience in finance included working as an advisor to Brazil's Rio de Janeiro stock exchange.
+[89] Dr. Hoag's mandate was to analyze the financial aspect of CMRA and CMRA 2, and, in particular, the value of the notes on the date that they were signed. In his reports, he found that the value of the notes upon their issuance was nil. He also prepared a rebuttal to Mr. Williamson's report, entitled "The Reasonableness of a Decision to Incur a Long-Term Liability in Brazilian Cruzeiros in 1985‑1986."
+[90] The relevant facts to which Dr. Hoag referred were the lack of monetary indexation clauses to offset the devaluation of Brazil's currency, the interest rates and the currency in which the notes were denominated (CMRA: cruzeiros at 11.5%; and CMRA 2: cruzados at 11%) and the fact that interest was not compound, which reduced the value of the notes to the holder.
+[91] The witness reviewed the methods ordinarily used with various types of financial loans, and applied one of them. He stated that all these methods should yield more or less similar results. In addition, he said that business practices in Brazil were adapted to inflation; financial agents had developed several practices to counter the effects of inflation, namely:
+· The simplest method for short-term transactions (less than three months) was to guess what inflation would be on the date that the contractual obligations were undertaken, and make adjustments accordingly.
+· In most international transactions, obligations would be expressly stated to be in a stable foreign currency such as the U.S. dollar.
+· Where bank interest was involved, the banks added a certain percentage to the exchange rate (e.g. the U.S. dollar exchange rate) in effect during the month in order to take into account the interest earned.
+· For the prices of certain specific products and services, the Brazilian government implemented price indexation tables starting in 1950.
+· As for notes, the witness asserted that they are ALWAYS indexed in Brazil. They were indexed according to the exchange rate for a given foreign currency or according to an official price index, depending on the sector to which the promissory notes related.
+[92] The witness asserted that, in Brazil, three-month transactions are considered short-term transactions, three- to six-month transactions are considered medium‑term, and those longer than six months are considered long-term. In the case of long-term transactions, the witness stated, the monetary obligations stipulated in the agreements normally include mechanisms for monetary correction or indexation by reference to a foreign currency.
+[93] As for interest rates, the Brazilian government rate in late 1985 was 250% for deposits up to three months, as compared to 7-9% in North America. After the introduction of the cruzado in 1986, government interest rates plunged from 300% to 25%, but climbed back to 110% in January of the following year. In the market, short-term lenders' interest rates were 25 to 30% higher than the government rate. The witness noted that, in Brazil, from 1985 to January 1987, there were no short- or long-term loans on which the interest rate was lower than 50%. In 1985, the market interest rates varied from 250 to 275% for short-term loans and in 1986, they ranged from 55 to 60% for such loans. The witness added that he had not seen any ten-year loans during that period. Ten-year loans were not standard business practice, especially if they did not have an indexation formula to counter inflation. He cited the following reasons for this:
+1. Inflation caused a continuous loss of value.
+2. Inflation bit into the interest that the lender expected to earn.
+3. Indexation was a form of protection against inflation.
+[94] With respect to the indexation of interest rates, the witness stated:
+The Brazilians, those clever people, developed a mechanism in all their financial contracts to hedge against inflation. It was a free hedge, everyone wrote it into their contracts. The one that didn't is the one that lost in that transaction.
+[95] Of all the Brazilian contracts that the witness studied over the years, the CMRA and CMRA 2 research contracts were the only ones without a monetary indexation clause.
+[96] I found Dr. Hoag’s testimony to be the most credible, relevant and impartial. Given the data collected with regard to the issue of the depreciation of Brazil's currency, it is difficult to believe that the Appellants would not have known in 1985 and 1986 that the currency would depreciate to such an extent that it would cost them nothing to pay their notes seven to ten years later. In my opinion, it was easy to predict that hyperinflation would continue, along with the depreciation of Brazil's currency.
+[97] However, it must be asked whether the fact that it was easy to predict in 1985 and 1986 that the Brazilian currency would have depreciated seven to ten years later made the payment under the notes an uncertain future event. In my opinion, the nature of the obligation was to pay an amount in Brazilian currency starting in 1992. The amount of money, whatever it was, had to be paid and that was not uncertain. What was uncertain was rather the amount that the Appellants would have to pay on maturity, not the actual obligation, and thus, the obligation was not a contingent liability.
+[98] Alternatively, the Respondent argues that CMRA and CMRA 2 did not present their earnings in a manner that provided the most accurate picture of their affairs, in accordance with then-prevailing GAAP.
+[99] Doug Cameron worked as an accountant for the firm of Clarkson Gordon in the 1980s. He was responsible for auditing CMRA's financial statements as at December 31, 1985. However, his firm refused to work on CMRA's tax files. In fact, it expressed the opinion that it would not recommend to its clients that they invest in CMRA unless they were prepared to face assessments by Revenue Canada (Exhibit R‑40, Tab I‑33).
+[100] The document at Tab I‑50 of Exhibit R‑40 contains the audited financial statements of CMRA as at December 31, 1985. The C$70 million expense is entered therein as a scientific research expense; it consists of the $14 million payable immediately and the $56 million payable in the form of notes denominated in Brazilian cruzeiros. The exchange rate utilized to arrive at the C$56 million was the rate in effect on December 31, 1985.
+[101] In 1986, CMRA 2 called upon Clarkson Gordon once again, this time for an accounting opinion regarding the sale of CMRA 2's partnership shares. The witness said that this was when his firm realized that the 11% interest rate was clearly insufficient because the debts were payable in Brazilian currency. The firm had therefore overstated the value of the research expenses and the value of the notes in the financial statements that it had prepared. The witness stated:
+In particular, we were concerned that the notes payable denominated in cruzeiros bore an interest rate of approximately 11%, as I recall. However, we became aware very shortly after issuing this report that the normal rate of interest that one would incur in order to ... upon a cruzeiros-denominated obligation, would be many multiples of 11%.
+The consequence of that was that we felt that the value of the notes was overstated in these financial statements, the value of the notes and the research expense was overstated in these financial statements by a significant amount.
+[102] The letter of February 27, 1986 (Exhibit R-40, Tab I-246) actually expresses this concern, and reveals that Clarkson Gordon had just learned that the standard interest rate for a three-month loan in Brazil was already 225%. The firm was thus very concerned about the fact that CMRA and CMRA 2's financial statements were not consistent with GAAP. In fact, Clarkson Gordon obtained from the accounting firm of Peat Marwick an opinion that the financial statements were incorrect and that the value of the notes should be lowered in order to take account of the inadequate interest rate. In subsequent correspondence (Exhibit R‑40, Tab I‑294), the witness Cameron wrote that the research expenses that his firm had taken into account in Canadian dollars in the 1985 financial statements did not accurately reflect the real value of the transaction. On March 14, 1986, Clarkson Gordon withdrew CMRA's financial statements as at December 31, 1985.
+[103] This resulted, at trial, in what I would characterize as a war between two accounting experts with respect to the GAAP applicable to CMRA and CMRA 2's financial statements at the relevant time.
+[104] Denis Hérard testified for the Appellants on this subject. He has been an accountant for 23 years and was qualified as an expert on auditing. His mandate was in fact to prepare a rebuttal to the accounting opinion of Allan Wiener, the Respondent's expert. The two questions that he considered were as follows: [TRANSLATION] "In what amount — and thus, on what basis of valuation — should the research and development expenses be entered in CMRA and CMRA 2's financial statements, and how should the conversion into Canadian dollars of the notes in question, and of the notes receivable denominated in Brazilian currency, be accounted for?"
+[105] According to Mr. Hérard, the GAAP at the time called for the use of the original cost, not the present value, of the SR&ED expenses, in the sense that the value should not be discounted. The original cost was defined as the amount paid out on the date that the contract was signed. Thus, in his view, CMRA and CMRA 2's sole obligation was to use the original cost as the measurement of the SR&ED expenses. However, Mr. Hérard did not attempt to determine the original cost of the notes. He was content to use the amounts shown in the partnerships' audited financial statements. In his opinion, the amounts in question were payable, or were to become payable, upon the signing of the contracts.
+[106] As for accounting for the conversion of the notes into Canadian dollars, he stated that, in a highly inflationary economy, the GAAP suggest using the temporal method, in which the basis of valuation of the notes is established in Canadian dollars and the conversion into that currency is to be done at the exchange rate in effect on the closing date of each financial statement. He went on to state that the current exchange rate method is only recommended where independent foreign entities are involved, which is not the case with CMRA and CMRA 2. Mr. Hérard concluded as follows:
+[TRANSLATION]
+. . . in the present case, the gain resulting from the conversion into Canadian dollars, in 1985 and 1986, of the note payable in Brazilian currency was to be amortized over a 7-10 year period, which was the term of the note. The loss resulting from the conversion into Canadian dollars, in 1985 and 1986, of the note receivable in Brazilian currency was likewise to be amortized over a 7-10 year period, which was the term of the note receivable. Since the amount of the note payable was exactly the same as the amount of the note receivable, the gain resulting from the conversion of the note was exactly equal to the loss resulting from the conversion of the note receivable. Thus, there was no gain or loss on conversion of currency to be amortized. And that is exactly what was done in CMRA and CMRA-2's financial statements. [p. 220 - p. 537]
+[107] He concludes that the financial statements of CMRA and CMRA 2 as at December 31, 1985 and December 31, 1986 are consistent with the GAAP applicable at that time.
+[108] On cross-examination, Mr. Hérard said that he was not aware that Clarkson Gordon had withdrawn the audited financial statements which he had used in preparing his report. He had assumed, without making any further inquiry, that the SR&ED expenses reported in the financial statements had been based on the original cost. In his opinion, they reflected the original cost because it was indicated in the financial statements that they had been prepared in accordance with Canadian GAAP and there was no note stating that other valuation principles had been used. Moreover, the witness did not consider whether the promissory notes in question complied with standard business practices.
+[109] The Respondent, for her part, called Allan Wiener as a witness. He has been an accountant since 1966 and is a member of the Canadian, Quebec and Ontario institutes of chartered accountants. He has supervised the publication of a number of articles on accounting. He was asked for his opinion on the relevant GAAP applicable to the SR&ED expenses taken into account in CMRA and CMRA 2's financial statements for 1985 and 1986. He specified that the research expenses must be determined according to their original cost, which must be ascertained in accordance with GAAP and on the basis of the consideration paid by CMRA and CMRA 2 to Coral, since it consists of deferred payments, to be made seven to ten years in the future, in Brazilian currency, plus simple interest at 11% and 11.5%.
+[110] The witness noted that the GAAP that he applied in his report were those in effect in 1985 and 1986. Since the CICA Handbook was silent as to how to enter deferred-payment transactions, the witness consulted certain publications, notably one by the American Ross M. Skinner, entitled "Accounting Principles: A Canadian Viewpoint" (1972), the relevant excerpt from which is at page 48:
+In transactions where payment is not called for within a short period of time after performance it is clear that fair measurement of the amount of the transaction requires that the payments provided for under the contract be discounted, unless a reasonable rate of interest is provided for in the contract. [emphasis added by author].
+Thus, while this concept of discounting delayed payment transactions is obviously economically sound, it has complications in practice. Since most business transactions do not involve abnormal payment delays there may be a tendency in practice to ignore the discount factor implicit in the occasional transactions involving delayed payments.
+The error in this has recently been recognized in APB Opinion No. 21, entitled "Interest on Receivables and Payables".
+In Canada, there has been no equivalent official recommendation. In its absence, occasional examples may be encountered of delayed payment amounts being recorded of face value rather than fair value. The practice, however, should no longer be regarded as generally accepted.
+[111] According to the witness, these comments apply to Canadian GAAP even though the publication is American.
+[112] The witness continued his testimony by reiterating that in order to determine the cost of the SR&ED, one had to look at the consideration paid for the SR&ED, having regard to the interest rate. More specifically, what must be determined is whether the interest rates stipulated in the notes in question were reasonable under the circumstances. In order to make this determination, the witness said, one must first consider the compensation paid to Coral for the use of its money. In other words, he would seek to analyze what fair and adequate compensation would be.
+[113] To do this, the witness relied on the report of Dr. Cline, who testified that the interest rate on short-term loans rose from 200% in December 1985 to 355% in January 1986. However, in his opinion, an interest rate of 175% is more conservative, and more faithfully reflects fair and adequate compensation for the notes issued by CMRA. He used a rate of 160% for CMRA 2.
+[114] Exhibits R‑46 and R‑47 compare compound interest at 175% and simple interest at 11.5%. The two tables show that with compound interest at 175% the promissory notes attain their true theoretical value upon maturity.
+[115] Accordingly, the witness was of the opinion that CMRA's financial statements as at December 31, 1985 should only have reported overall research costs of approximately C$14,034,157, not C$70,000,000. The amount of $14,034,157 consists of the 20% of the research costs that the CMRA partners paid in cash in 1985, plus the value of the notes, which, at maturity, would have been $34,062 according to the witness's assessment using a discount rate of 175%.
+[116] A similar calculation was done for CMRA 2's financial statements. Its statements should have shown overall research costs of C$14,707,926, consisting of $14,654,404, which comprises the 20% plus a balance of $53,522, representing the value of the notes at maturity when the discount rate of 160% is applied.
+[117] On cross-examination, the witness reiterated that in cases where the CICA Handbook was silent, it was accepted practice at the time to rely on American accounting practices and standards. He noted that, according to Skinner, payments with a long-term due date were to be discounted unless reasonable interest rates were stipulated.
+[118] Mr. Weiner also stated that, according to excerpts from the Mercantile Gazette, the interest rates were known at the time, and it would have been easy for CMRA, CMRA 2 and Coral to stipulate a much more reasonable interest rate.
+[119] On analyzing all the circumstances surrounding the financial statements, it is very clear to me that the amounts used and entered in CMRA and CMRA 2's financial statements do not reflect the real amount that they invested in the research. In light of the evidence as a whole, the notes that CMRA and CMRA 2 issued are worth much less than the amounts entered, due to the use of the hyperinflationary Brazilian currency and an unreasonable interest rate. I agree with the expert Mr. Weiner's finding that where the payment is deferred and the interest rate is not reasonable, one simply cannot claim that the amount in the contract corresponds to the historical or original cost and enter the amount in the financial statements on that basis.
+[120] I also accept Mr. Weiner's view that the original or historical cost does not exclude the idea of "fair value". Here, the price paid was not all in cash (given the notes that were issued) and the research in question had no known commercial value, so it was necessary to determine the fair value of the consideration in order to determine cost.
+[121] In my opinion, CMRA and CMRA 2's financial statements were not prepared in accordance with the GAAP applicable at the time. I accept Mr. Weiner's testimony as the most plausible under the circumstances. In the case at bar, one needed to do more than simply enter the unaudited original cost of the notes. I agree that in cases where the CICA Handbook was silent, it was reasonable at that time to rely on American accounting standards and practices to fill the void and that, given the situation in the present case, one had to discount the value of the payments with a long-term due date unless the interest rates stipulated were reasonable, which they were not in the instant case.
+Question 2B
+Section 67 of the Act
+[122] We must now consider whether the SR&ED expenses claimed by the Appellants were reasonable within the meaning of section 67 of the Act. In the relevant taxation years, that provision read as follows:
+Section 67: General limitation re expenses
+In computing income, no deduction shall be made in respect of an outlay or expense in respect of which any amount is otherwise deductible under this Act, except to the extent that the outlay or expense was reasonable in the circumstances.
+[123] In Hammill v. Canada, [2005] F.C.J. No. 1197, the Federal Court of Appeal provided further explanation concerning the consequences of the application of section 67 where an expense is held not to be reasonable. The relevant part of the judgment reads as follows:
+49 The appellant points out that this provision contemplates an outlay or expense that has been incurred for the purpose of earning income within the meaning of paragraph 18(1)(a), and allows the Minister to disallow that part of the expenditure which can be shown to be unreasonable. In other words, the provision does not allow for a qualitative review of the expenditure since the expenditure must have been made to earn income to begin with. What is contemplated is a quantitative review of the expenditure.
+50 Indeed, the judicial pronouncements on section 67 to date have treated the issue arising under that provision as one of magnitude or quantum (see Mohamad, supra; Garbco Ltd. v. M.N.R., 68 DTC 5210). The appellant submits that the following passage from Vern Krishna, The Fundamentals of Canadian Income Tax, 3rd edition, properly illustrates the scope and purpose of section 67 (page 312):
+The word "reasonable" [in section 67] would appear to relate primarily to the size or the amount of the deductions claimed or quantified and not to the type of the expense. "The purpose of the rule is to prevent taxpayers from artificially reducing income by deducting inordinately high expenses", ...
+51 I agree that this statement accurately reflects how section 67 has been applied by the courts to date. However, the Supreme Court in Stewart, supra, commented on the application of section 67 and signalled that it could have a broader application. It will be recalled that in Stewart, the Supreme Court dealt away with the "reasonable expectation of profit" test as a means of ascertaining the existence of a source of income. The Court recognized that this test had been devised to counter abuses, but held that it had no statutory foundation and created more problems than it resolved.
+52 In devising the "recommended approach", the Supreme Court identified section 67 as the statutory means of controlling excessive or unwarranted expenditures once a source of income is found to exist. It said at paragraph 57:
+... If the deductibility of a particular expense is in question, then it is not the existence of a source of income which ought to be questioned, but the relationship between that expense and the source to which it is purported to relate. The fact that an expense is found to be a personal or living expense does not affect the characterization of the source of income to which the taxpayer attempts to allocate the expense, it simply means that the expense cannot be attributed to the source of income in question. As well, if, in the circumstances, the expense is unreasonable in relation to the source of income, then s. 67 of the Act provides a mechanism to reduce or eliminate the amount of the expense. Again, however, excessive or unreasonable expenses have no bearing on the characterization of a particular activity as a source of income. [emphasis added]
+53 The choice of words (reduce or eliminate) is not accidental. The Supreme Court was setting-up [sic] section 67 as the proper means of testing the reasonableness of an expense once a business has been found to exist. It was doing so after having explained that at the first level of inquiry (i.e. the existence of a source of income and the relationship between an expense and that source) courts ought not to second guess the business judgment of the taxpayer (Stewart, supra, paragraphs 55, 56 and 57). Section 67 was identified as the statutory authority pursuant to which an inquiry could be made as to the reasonableness of an expense. In my view, the Supreme Court in Stewart acknowledged that there is no inherent limit to the application of section 67, and that in the appropriate circumstances, it can be used to deny the whole of an expense, if it is shown to be unreasonable.
+54 In this case, the Tax Court Judge attempted to identify what part of the "selling" expenses could be viewed as reasonable in the circumstances. He noted that neither counsel could indicate any cut off point. He went on the hold that the actions of the appellant were the same throughout and concluded that the expenditures were unreasonable from beginning to end. In my view, this is a conclusion that was open to him why [sic] regard is had to the evidence.
+[Emphasis added.]
+[124] The same decision lays down the principle that if it is held that the expenses claimed by the appellants are unreasonable under the circumstances, the expenses are to be disallowed in their entirety.
+[125] It must also be remembered that, in determining whether an expense is reasonable, one must be careful not to substitute one's own judgment for the business judgment of the parties, as the Federal Court of Appeal cautioned in Keeping v. Queen, [2001] F.C.J. No. 899. The relevant passage from that decision is as follows:
+5 With respect, I am of the opinion that the analysis conducted by the Tax Court Judge amounted to second-guessing the business acumen of the appellant which is not the place of the Courts. As stated in Mastri v. Canada (Attorney General), [1998] 1 F.C. 66 (C.A.), at paragraph 12:
+In summary, the decision of this Court in Tonn does not purport to alter the law as stated in Moldowan. Tonn simply affirms the common-sense understanding that it is not the place of the courts to second-guess the business acumen of a taxpayer whose commercial venture turns out to be less profitable than anticipated.
+In basing his decision on profit margins, potential market opportunities and costs, as well as the appellant's approach to operating his distributorship, the Tax Court Judge was second-guessing the business acumen of the appellant. In doing so, the Tax Court Judge erred in law.
+[Emphasis added.]
+[126] The test under consideration in Keeping was reasonable expectation of profit. The Appellants point out, however, that, in Ankrah v. The Queen, [2003] T.C.J. 422, Justice Woods of this Court held that the above comments could equally be applied to the test of the reasonableness of an expense. Justice Woods stated in that regard:
+Section 67
+32 The Crown submits that it was unreasonable for Mr. Ankrah to incur large expenditures after the business had incurred losses for several years. It was suggested that instead of spending large sums of money on recruits, the same result could have been achieved by personal training.
+33 The difficulty with the Crown's position is that supplants the business judgment of the taxpayer. Mr. Justice Rothstein commented on this in another Amway case, Keeping v. R., [2001] 3 C.T.C. 120 (F.C.A.), at paragraph 5:
+With respect, I am of the opinion that the analysis conducted by the Tax Court Judge, [1999] T.C.J. No. 277, amounted to second-guessing the business acumen of the appellant which is not the place of the Courts. As stated in Mastri v. R. (1997), [1998] 1 F.C. 66 (Fed. C.A.), at paragraph 12:
+In summary, the decision of this Court in Tonn does not purport to alter the law as stated in Moldowan. Tonn simply affirms the common-sense understanding that it is not the place of the courts to second-guess the business acumen of a taxpayer whose commercial venture turns out to be less profitable than anticipated.
+In basing his decision on profit margins, potential market opportunities and costs, as well as the appellant's approach to operating his distributorship, the Tax Court Judge was second-guessing the business acumen of the appellant. In doing so, the Tax Court Judge erred in law.
+This comment was made in the context of the REOP doctrine but I see no reason why it should not also apply in the context of section 67.
+34 The phrase in section 67 "reasonable in the circumstances" is broad but I do not believe that it should apply to reduce expenses based on poor business judgment. Section 67 is commonly applied to reduce the quantum of expenses in cases where the taxpayer is motivated partly by something other than business reasons, such as a payment of salaries to family members. This was described by Mr. Justice Cattanach in the case of Gabco Limited v. M.N.R., 68 D.T.C. 5210 (Ex. Ct.) at page 5216 as follows:
+It is not a question of the Minister or this Court substituting its judgment for what is a reasonable amount to pay, but rather a case of the Minister or the Court coming to the conclusion that no reasonable business man would have contracted to pay such an amount having only the business consideration of the appellant in mind.
+35 Mr. Ankrah arguably has exercised bad judgment in incurring these expenses. However, the expenses were incurred with an honest belief that they would eventually lead to profits and I do not believe that section 67 should be applied in these circumstances.
+36 Mr. Ankrah has incurred significant losses from the Amway distributorship over many years. If the deduction of those losses is not an appropriate tax result, it is a matter for Parliament to address. I note that section 31 of the Act was enacted in 1988 to address a concern with farming losses.
+[Emphasis added.]
+[127] In Safety Boss Ltd. v. Canada, [2000] T.C.J. No. 18, Judge Bowman (as he then was) relied on an excerpt from the decision of Justice Cattanach in Gabco Ltd. v. M.N.R. with respect to the criteria to be applied in deciding whether an expense is reasonable having regard to the circumstances. At paragraph 52, Judge Bowman stated:
+52 There have been numerous cases on the question of the reasonableness of expenses. Essentially the determination is one of fact. I shall refer to only one that sets out the principle and that has been frequently cited: Gabco Ltd. v. M.N.R., 68 DTC 5210. At page 5216 Cattanach J. said:
+It is not a question of the Minister or this Court substituting its judgment for what is a reasonable amount to pay, but rather a case of the Minister or the Court coming to the conclusion that no reasonable business man would have contracted to pay such an amount having only the business consideration of the appellant in mind. I do not think that in making the arrangement he did with his brother Robert that Jules would be restricted to the consideration of the service of Robert to the appellant in his first three months of employment being strictly commensurate with the pay he would receive. I do think that Jules was entitled to have other considerations present in his mind at the time of Robert's engagement such as future benefits to the appellant which he obviously did.
+[Emphasis added.]
+[128] Thus, the question in the case at bar is whether a businessperson would have contracted to pay Coral $1.75 million per monoclonal antibody having only the business interests of the CMRA and CMRA 2 partners in mind. As Judge Bowman noted, this is a question of fact.
+[129] The Appellants' evidence on this issue consists essentially of the testimony of their expert witness Dr. Pradip Banerjee, presented in the report by P.A. Consulting Group. The Appellants submit that if the Court decides to second‑guess the Appellants' business decisions, it will be running counter to the well-settled case law principle that neither the Respondent nor the Court should substitute its own judgment for business decisions made by taxpayers.
+[130] I agree that the case law encourages caution, as opposed to the total rejection of an assessment of whether an expense is reasonable. If the Minister were submitting that the expense could have been avoided through some other measure, as was the case in Ankrah, then he would be attempting to substitute his own judgment for that of the Appellants. However, in the case at bar, the Minister submits that the expense was not reasonable having regard to the circumstances. In my opinion, he is not thereby trying to substitute his judgment for that of the Appellants.
+[131] The Respondent submits that for the following reasons the expense was unreasonable having regard to the circumstances:
+1. The evidence showed that a few of the antibodies produced were later sold for an average of $700,000 each.
+2. No valid comparability study was done to prove that $1.75 million was a reasonable price to pay.
+3. When Dr. Gold testified that the costs of producing human monoclonal antibodies are "limitless" he was not doing so as an expert witness and he acknowledged that he had no expertise in the field of monoclonal antibodies.
+4. The fact that only 20% of the price was paid when the research began and that it was used for the research raises doubts about the 80% balance.
+5. The contract provided that Coral was to work on 57 projects, but the number was reduced to 40 without any adjustment to the total price.
+[132] The Respondent also pointed to the fact that CMRA did not have ownership of the cell lines under its contract with Coral. However, the contract was amended in order to eliminate this anomaly when it came to the Appellants' attention. I do not believe that this anomaly is an important factor in the present analysis.
+[133] The Appellants' expert witness on this issue holds a doctorate in pharmaceutical sciences and an M.B.A. The Appellants mandated him to prepare an expert report looking at two very specific questions: whether the price paid by the Appellants for the research on antibodies was reasonable or not, and whether such research could have been done in Canada. With regard to the second question, he concluded that CMRA and CMRA 2 had no choice but to have their research done outside Canada owing to a lack of funding and resources in Canada.
+[134] The witness prepared a report for each partnership. In his testimony, he said that he had assessed the reasonableness of the investment, not the reasonableness of the production costs, and that this is why he concluded that the expense was reasonable under the circumstances. He also stated that the price paid was reasonable because a purchaser is always prepared to pay more than the actual cost for such an innovative project, since the purchaser can hope to carry out many other projects thereafter.
+[135] The witness also relied on the fact that the Appellants had had very thorough verifications done before investing. He relied as well on the report by Fritzsche Pambianchi in stating that the price asked by Coral was not unreasonable. According to the antibodies market assessment report, that market was promising. Using similar partnerships for comparison, he arrived at a price of $1.24 million per antibody, and at the price of $1.7 million using the price-profit ratio method.
+[136] However, the cross-examination of this witness disclosed the following:
+1. The average cost to develop a monoclonal antibody to the point of production of a marketable diagnostic kit is in the range of $640,000 to $1,330,000 and the cost of developing the antibody itself is only one-third of the total cost.
+2. The price of $1.75 million paid by CMRA and CMRA 2 was much higher than the actual cost of developing the antibodies.
+3. The evidence that he used points of comparison to assess the reasonableness of the expense is not conclusive, so the results of the comparison are questionable.
+4. There were no data from the financial statements and no specifics regarding the CMRA and CMRA 2 scientific projects.
+5. The evaluation by the firm of Fritzsche Pambianchi (Tab 6, Exhibit A‑5) bears a date that is subsequent to his report. One wonders, then, how the witness could have based his assessment of the reasonableness of the price paid to Coral on an evaluation that did not yet exist.
+6. On page 8 of the Fritzsche Pambianchi evaluation it is stated that the evaluation was intended only to be a pro forma evaluation without any legal impact on the cost of developing the products. According to the report, each cell line cost between $30,000 and $50,000 to develop.
+[137] The Respondent, for her part, submits that the cost was not reasonable at the time of the audit, basing that contention on the estimate done by a team of experts assembled by Wayne Kirkey, a tax avoidance case coordinator with Revenue Canada at the time. Mr. Kirkey had brought together three biotechnology experts to look into the CMRA research projects, and, according to their monoclonal antibody production cost estimates, an average cost of $62,000 per project was to be expected. As for the CMRA 2 research projects, the group of experts determined the figure to be $138,000 per project.
+[138] The experts Kennett, Brodeur and Norgard testified with regard thereto at the hearing. What emerges from their testimony is that one must also take the production costs and profit margin into account — that is to say, the commercial value of the product as well as the production costs — in determining whether the expense is reasonable. Dr. Kennett is one of those who admit to taking the profit margin into account with regard to costs for research projects. He concluded that the price of $1.7 million paid for each research project was unreasonable because, in his view, each project could have been carried out for between $55,000 and $75,000, including all direct and indirect costs. He added that in 1985 his university could have produced any of the monoclonal antibodies in question for $45,000 each, and that when so many research projects are being carried on at the same time, each project costs less than would normally be the case because the protocols are repeated, resulting in lower production costs.
+[139] Lastly, the expert witness Dr. Kennett submitted a rebuttal report in response to the report of Dr. Banerjee and his group, PA Consulting Group. He criticized that report for not having considered the utility of the monoclonal antibodies, their raison d’être, why they were needed, and their practical application. He added that the report did not provide a breakdown of the numbers on which those experts relied. In his opinion, the development of the antibodies represents in fact only 10% of the cost of producing a test kit, and he concluded, as stated above, that the amount of $1.7 million is unreasonable under the circumstances.
+[140] As for Dr. Brodeur, he stated that the costs were not correctly determined, for the simple reason that they did not take into account the number of hours spent on each project or the resources utilized for each of the projects, which were very different. This tends to confirm the position that, instead of being based on actual production costs, the prices were set without regard to the nature of the antibodies in question or the value of the work.
+[141] In his rebuttal to Dr. Banerjee's report, Dr. Norgard states that Dr. Banerjee's report is too vague and is flawed because it does not take account of several elements such as the need for, and the utility, raison d’être and practical application of, the monoclonal antibodies. He is also in disagreement regarding the concepts of "niche products", "speed to market" and "delivery systems" put forward by Dr. Banerjee, because he does not believe that there will be a viable market for the products developed by Coral. Furthermore, he rejects Dr. Banerjee’s potential sales projections for the antibodies. The other points that Dr. Norgard disputes can be summarized as follows:
+1. The figures that Dr. Banerjee uses for the purpose of cost comparisons with other similar businesses are meaningless because they are not broken down.
+2. With regard to the test kits, the costs associated with research on antibodies generally represent only 10% of the total cost of putting a kit on the market, not the 30% that Dr. Banerjee indicates in his report.
+3. The estimate of $1.7 million for research on each monoclonal antibody is an overestimate because that is not the cost of the work that was truly necessary; moreover, the same antibodies, of better quality, cost only a fraction of the price of Coral's. For example, the witness refers to the University of Texas Southwestern Medical Center, where he works and where a monoclonal antibody can be produced for as little as $3,400 on cell lines of 20 to 30 species.
+[142] In view of these considerations, I can only conclude that the evidence does not support the Appellants' argument that the price paid in the case at bar was reasonable having regard to the circumstances. In my opinion, the Appellants have not discharged their onus of proof. Their expert's evidence was greatly discredited by the Respondent's experts and by his own testimony on cross-examination.
+[143] It is impossible to conclude in the present case that a businessperson would have embarked on such a project without the assurance that the actual cost of his or her involvement would be limited to his or her initial outlay, namely 20% of the price of CMRA and CMRA 2's contracts with Coral. In my opinion, none of the Appellants expected to pay anything more than that initial outlay. In my opinion, there was never any question of the research costs actually exceeding the initial outlay. Thus, I cannot conclude that the price was reasonable under the circumstances, and I must therefore disallow in their entirety the expenses incurred by the Appellants.
+Subsection 245(1) of the Act
+[144] My above-stated conclusion is sufficient to dispose of the instant appeals; however, I will consider whether these deductions, if allowed, would unduly or artificially reduce the Appellants' income within the meaning of subsection 245(1) of the Act, which read as follows at the relevant time:
+245(1) Artificial transactions
+(1) In computing income for the purposes of this Act, no deduction may be made in respect of a disbursement or expense made or incurred in respect of a transaction or operation that, if allowed, would unduly or artificially reduce the income.
+[145] The relevant factors in assessing whether the deductions claimed by CMRA and CMRA 2 did in fact unduly or artificially reduce net income were developed by the Federal Court of Appeal in Canada v. Fording Coal Ltd., [1996] 1 F.C. 518, and reiterated by that Court in Novopharm Limited v. Canada, 2003 FCA 112, as follows:
+24 The learned Tax Court Judge had regard to the factors established by this Court in Canada v. Fording Coal Ltd. (C.A.), [1996] 1 F.C. 518 and adopted in Canada v. Central Supply Company (1972) Ltd. (C.A.), [1997] 3 F.C. 674, in assessing whether Novopharm's deductions unduly or artificially reduced income for purposes of subsection 245(1). The factors are:
+1. would the deduction, if permitted, be contrary to the object and spirit of the Income Tax Act;
+2. are the transactions giving rise to the deductions made in accordance with normal business practice; and
+3. were the transactions entered into for bona fide business purposes?
+Applying the Fording approach, the Tax Court Judge concluded that Novopharm's appeal failed under subsection 245(1).
+[146] In Ludco Enterprises Ltd. v. Canada, [1999] F.C.J. No. 402, the Federal Court of Appeal considered the application of former subsection 245(1) of the Act in the following terms:
+Does subsection 245(1) of the Act apply to the appellants because they may have incurred expenses in an operation that unduly or artificially reduced their income?
+104 The respondent argues that the interest deductions the appellants claimed for their investments in Justinian and Augustus artificially reduced their income. At the time, the applicable provision read:
+S. 245. (1) In computing income for the purposes of this Act, no deduction may be made in respect of a disbursement or expense made or incurred in respect of a transaction or operation that, if allowed, would unduly or artificially reduce the income.
+Art. 245. (1) Dans le calcul du revenu aux fins de la présente loi, aucune déduction ne peut être faite à l'égard d'un débours fait ou d'une dépense faite ou engagée, relativement à une affaire ou opération qui, si elle était permise, réduirait indûment ou de façon factice le revenu.
+105 In my view, the respondent's argument is unsound. As this Court mentioned in Canada v. Fording Coal Ltd., the undue or artificial nature of the reduction of income is what has to be examined, not the artificiality of the transaction with which the expense is associated. In this regard, incidentally, there was nothing artificial about the transaction as such, and the parties agree on that.
+106 According to the case law, there are three factors involved in the application of subsection 245(1), and I am of the view that the deduction the appellants claimed comes within the parameters of those three factors.
+107 First, the interest deduction is in keeping with the object and spirit of subparagraph 20(1)(c)(i), which as I have already mentioned, relates to the acquisition of capital with a view to earning income therefrom.
+108 Second, the loan the appellants took out is in accordance with normal business practice relating to the acquisition of shares or debt securities. In fact, it often happens that the purchase of these assets by taxpayers is financed by bank loans and the assets given as security. For example, every year at this time, one need only observe the frenzy surrounding investment in registered retirement savings plans and the advertising about the financing available for that purpose. This is an incentive Parliament intended to provide.
+109 Third, the loan the appellants took out had a bona fide business purpose. In fact, the borrowed amounts were used to purchase shares in Justinian and Augustus corporations. These companies generated profits and, as is often the case in such matters, they in part distributed those profits in the form of dividends to their shareholders and in part capitalized those profits. The evidence shows that the dividends the appellants received were within the range of dividend amounts paid by Canadian companies listed on the Toronto Stock Exchange. (I note that a number of companies pay dividends of less than 1% and that well-established companies at the time were not paying or for a time did not pay any dividends. For example, the evidence shows that Can-Am Manac has not paid any dividends since 1991 and that MacKenzie Financial Corporation paid its first dividends after 18 years in operation, which Cascade has never done since being created over 30 years ago, despite having sales of $2.27 billion.)
+[Emphasis added.]
+[147] It is therefore important to answer the three questions formulated in the case law in order to determine whether the consequences referred to in subsection 245(1) would exist in the case at bar. I would note that the fundamental principle is that a taxpayer may organize his affairs in such a manner as to pay the least tax possible, as the Federal Court of Appeal held in Ludco Enterprises Ltd., supra:
+62 Justinian and Augustus corporations were thus conceived, and their operations planned, in light of Canadian income tax laws to allow their shareholders to minimize their payment of taxes owing to Revenue Canada as a result of their investments. I hasten to add that by the respondent’s own admission, the tax planning that led to the creation of these two companies, and their operations, were perfectly lawful, the transactions that took place were not a sham, the dividends were actually paid to the appellants and taxed by Revenue Canada and the appellants, being in no way involved in the management of these companies, dealt with them at arm’s length. Moreover, it is a well-known principle in Canadian tax law that a taxpayer may, by taking advantage of the provisions of the Act, arrange his or her affairs to pay—and with the sole aim of paying—the least amount of income tax. In fact, the Revenue Canada Declaration of Taxpayer Rights, a copy of which is on the back cover of the General Income Tax and Benefit Guide provided to the taxpayer each year, states:
+You are entitled to arrange your affairs to pay the least amount of tax the law allows.
+In short, the clever plan proposed for Justinian and Augustus shareholders was the result of lawful legal planning. As a result, however clever and perhaps even irksome to some, that planning must not colour the legal analysis and interpretation of the right to deduct interest under subparagraph 20(1)(c)(i) of the Act.
+[Emphasis added.]
+[148] Would the deductions, if allowed, be contrary to the object and spirit of the Act? The object and spirit of the Act's provisions concerning SR&ED were enunciated by Judge Bowman (as he then was) in Consoltex Inc. v. Canada, [1997] T.C.J. No. 134, at paragraph 79:
+79 In a case of this type where complex provisions of the Act are involved there is a danger that one may become entangled in technicalities and lose sight of the forest by too minute an examination of the bark on the trees. If one takes a couple of steps back and seeks to determine what the scientific research provisions of the Act are designed to accomplish, it is clear that they should be interpreted in a manner that encourages scientific research in this country. To whittle away at those provisions defeats that object. It is not, after all, as if a taxpayer who incurs current scientific research expenses is being given a double deduction or one that it would not otherwise have. The appellant would have been able to deduct these expenses even if section 37 did not exist. All it is getting is the incentive of an investment tax credit. All expenditures, whether capital or current, that give rise to ITCs are deductible one way or another in computing income, either currently or over time, and all of them, one way or another, result, or are intended to result in or the production of income. It runs counter to the entire philosophy of fiscal incentives, whether in the form of SR & ED allowances or ITCs, to say that if the expenditures giving rise to the incentives result, actually or potentially, in income they should be watered down.
+[Emphasis added.]
+[149] Thus, the intent of the provisions is to encourage taxpayers to invest in research and development. Do the deductions that have been claimed defeat that purpose or object?
+[150] The Respondent submits that, in the case at bar, no rational objective would be achieved by allowing the deductions with respect to the notes, that is to say, the $56 million expense for one partnership and the $58 million expense for the other. Counsel for the Respondent submit that the structure of these contracts ran counter to the object of the provisions, because the notes did not serve to finance the research, since they were only repayable seven to ten years later. In addition, relying essentially on the experts' testimony, counsel argue that the economic evidence shows that the deductions claimed did not reflect the actual value of the notes at the time that they became payable. In other words, the value of the consideration actually given by the two partnerships, determined on the date that it was actually quantified, is far less than the amount of the deductions.
+[151] For their part, the Appellants submit that the Respondent would never have jumped to such conclusions if the notes had been repayable in a foreign currency, in U.S. dollars for example. They argue that, in any event, if the notes had been kept until maturity and repaid in valueless Brazilian currency, the Appellants would have realized a taxable gain on a liability, so the amounts would not have escaped taxation. They add that it is the Respondent, through her fault and conduct, who is depriving herself of the amounts that she could have collected as a result of transactions.
+[152] Although the Appellants said that their investment was not motivated by tax benefits, and that they invested because the research on monoclonal antibodies was an innovative project at the time, the fact remains that the structure of the contracts made it impossible for Coral to use the amounts in question for research to be conducted in 1985 or 1986. In addition, according to the economic evidence adduced, the value of the consideration paid by CMRA and CMRA 2, determined on the date that it was actually quantified, is far lower than the amount of the deductions. Thus, there is a clear disproportion between the actual value of the notes and the amount of the deduction. The absence of an adjustment clause in case of depreciation of the Brazilian currency is another relevant factor.
+[153] In my opinion, granting the deductions to the Appellants would run counter to the object and spirit of the Act under the circumstances. Coral's activities were organized and conducted so as to give rise to deductions that were excessive, unreasonable and abnormal, and that were therefore inconsistent with the object and spirit of the Act, which is to encourage taxpayers to invest in research. The Appellants set up research projects, but the great majority of the deductions that they claim have no connection with that research.
+[154] One must also ask oneself whether the transactions with respect to which the deductions were claimed were carried out in accordance with normal business practice. The Respondent's experts' testimony is categorical: the promissory notes in issue were not negotiated in accordance with normal business practice. The main basis for this assertion is that the simple interest rates of 11% and 11.5% on the notes are much lower than the interest rates in effect at that time in Brazil, which varied between 50% and 275% depending on the term of the loan.
+[155] According to the expert witness Dr. Hoag, the Brazilian business community developed a number of practices to protect itself against the effects of inflation. He said that promissory notes in Brazil are always indexed to the exchange rate for a given foreign currency or to an official price index, depending on the sector of the economy in which the notes are issued. This is particularly the case for long-term transactions. Monetary liabilities normally include correction formulas. The conclusion that Dr. Hoag draws from this is that a ten‑year loan, especially one without a formula for indexation to inflation, was not normal business practice. Indeed, inflation results in a continuous loss of value, thereby eating into the interest that the lender expects to earn, and indexation is a means of protecting against inflation. Dr. Hoag also points out that Brazilian law had provided for automatic indexation for all contracts in existence upon the coming into effect of the Cruzado-Plan in January 1986, provided that the contracts contained a monetary indexation clause. He concludes that no one, at the time, would have wanted to hold notes of the kind in issue.
+[156] With respect to the promissory notes' lack of an indexation formula, the expert witness Dr. Cline asserts that this was contrary to business practice at the time, because no one wanted to run the risk of having their projects go up in smoke due to inflation. Dr. Cline says as well that the interest rates stipulated in the promissory notes in the case at bar do not reflect the reality of Brazil's financial market, which is discussed above.
+[157] The Appellants, through the expert Williamson, maintain that even though the transactions were not standard practice, parties are not forbidden to be innovative, and the parties in the case at bar were not bound by standard practice. The question that I must answer here is precisely whether the transactions, in particular as regards the terms of the promissory notes, were in accordance with normal business practice. In my opinion, the Appellants have not succeeded in satisfying me, on a balance of probabilities, that the terms and structure of the promissory notes were consistent with normal business practice in 1985 and 1986.
+[158] The last question is whether the transactions in issue had a bona fide business purpose. The Respondent points out that the value of the notes, namely 80% of the contract or debt, did not serve to fund the research work, because the notes were only repayable 7-10 years later, and thus, the promissory notes were not negotiated for the same business purpose as the contracts between Coral on the one hand and CMRA and CMRA 2 on the other. Coral had to complete its work by December 31 of the relevant years.
+[159] The Respondent further contends that the Appellants' argument that a trust was created for the benefit of the employees, and that the trust was administering Coral's promissory notes, does not hold water because 80% of the value of the research contract is too high a percentage, and because, moreover, none of Coral's employees received any money from the trust.
+[160] The Respondent also argues that there was no bona fide business purpose for using Brazilian currency, since Coral had no significant activities in Brazil as the research was being done at a laboratory in England. Why, then, was Brazilian currency used? The Respondent goes even further, casting doubt on the need to use Brazilian currency for transactions between the partners and CMRA and CMRA 2.
+[161] I accept the Respondent's arguments and find, on the whole of the evidence, that the promissory notes in issue had no bona fide business purpose. Consequently, I am of the opinion that subsection 245(1) should be applied because the deductions claimed unduly or artificially reduce the Appellants' income.
+[162] For all these reasons, the appeals are dismissed, with costs.
+Signed at Ottawa, Canada, this 30th day of January 2008.
+"François Angers"
+Angers J.
+Translation certified true
+on this 28th day of May 2010.
+Erich Klein, Revisor
+CITATION: 2008TCC17
+COURT FILE NOS.: 2000-2049(IT)G, 2000-2026(IT)G,
+2000-2039(IT)G, 2000-2044(IT)G,
+2000-2045(IT)G, 2000-2056(IT)G,
+2000-2069(IT)G), 2000-1189(IT)G)
+STYLES OF CAUSE: Yves Beaudry v. Her Majesty the Queen
+James Bullock v. Her Majesty the Queen
+Christopher Herten-Greaven v. HMTQ
+Raphaël Evanson v. Her Majesty the Queen
+Oleg Romar v. Her Majesty the Queen
+Martin Tyler v. Her Majesty the Queen
+David Elkins v. Her Majesty the Queen
+James W. McClintock, Executor of the Estate of John P. McClintock v. HMTQ
+PLACE OF HEARING: Montreal, Quebec
+DATES OF HEARING: April 3, 4, 5, 6, 7, 10, 11, 12 and 13, and
+September 25, 26, 27, 28 and 29, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: January 30, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Yves St-Cyr and Dominic Belley
+Counsel for the Respondent:
+Guy Lapierre, Janie Payette and Susan Shaughnessy
+COUNSEL OF RECORD:
+For the Appellants:
+Name: Yves St-Cyr and Dominic Belley
+Firm: Ogilvy Renault
+City: Montreal, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

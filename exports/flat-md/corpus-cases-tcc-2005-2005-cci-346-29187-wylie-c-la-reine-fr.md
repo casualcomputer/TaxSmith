@@ -1,0 +1,140 @@
+---
+title: "Wylie c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29187/index.do"
+last_modified: "2005-09-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 346"
+citation2: ""
+neutral_citation: "2005 CCI 346"
+decision_date: "2005-09-26"
+language: "fr"
+item_id: "29187"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6683
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:29:32.862000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6fc9a97d2be4624f322e1c90c05298b897ecb9eafbcfb8d6dffe7eca639667e2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Wylie c. La Reine
+
+- Citation: 2005 CCI 346
+- Decision date: 2005-09-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6683, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wylie c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-09-26
+Référence neutre
+2005 CCI 346
+Numéro de dossier
+2004-2781(GST)I
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2004-2781(GST)I
+ENTRE :
+NANCY J. WYLIE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 9 février et le 21 septembre 2005 à Toronto (Ontario)
+Devant : L’honorable juge Gerald J. Rip
+Comparutions :
+Représentant de l’appelante :
+M. Stephen J. Wylie
+Avocat de l’intimée :
+Me Jonathon Penney
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en application de la Partie IX de la Loi sur la taxe d’accise en date du 22 septembre 2003 et portant le numéro 0887‑00184219‑1 est accueilli sans frais, compte tenu du fait que Mme Wylie a payé 2 244,76 dollars de taxe sur les produits et services.
+L’intitulé de la cause est modifié en radiant le nom de Stephen J. Wylie à titre d’appelant.
+Signé à Ottawa, Canada, ce 26e jour de septembre 2005.
+« Gerald J. Rip »
+Juge Rip
+Traduction certifiée conforme
+ce 26e jour de mars 2009.
+Christian Laroche, LL.B.
+Réviseur
+Référence : 2005CCI346
+Date : 20050926
+Dossier : 2004-2781(GST)I
+ENTRE :
+NANCY J. WYLIE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Rip
+[1] Dans le présent appel, interjeté par Nancy J. Wylie, à l’encontre d’une cotisation établie en application de la Partie IX de la Loi sur la taxe d’accise (la « Loi »), le point en litige est de savoir si Mme Wylie a droit au « remboursement pour habitations neuves » (le « remboursement ») de 5 770,38 dollars, conformément à l’alinéa 256(2)c) de la Loi.
+[2] M. Stephen Wylie, époux de l’appelante, a témoigné en son nom.
+[3] Le 23 mai 2003, Mme Wylie a pris possession d’une maison achetée de Ray Bibeau and Laverne Curtis, société connue sous le nom de Bayshore Builders Brechin (« Bayshore Builders »). Bayshore Builders a été enregistrée aux fins de la Taxe sur les produits et services (la « TPS ») le 19 septembre 2003.
+[4] M. Wylie a rappelé que le prix annoncé de la maison comprenait la TPS. Il a produit une copie de la publicité annonçant la maison; la maison était offerte au prix de 294 900 dollars. Il a aussi déclaré que le vendeur lui avait dit que la TPS était incluse dans le prix annoncé.
+[5] L’appelante a rempli une réclamation de remboursement de 5 770,38 dollars le 28 mai 2003. L’intimée déclare que la réclamation de remboursement incluait un montant d’au moins 4 786,58 dollars qui n’a jamais été payé au ministre par Bayshore Builders ou par Mme Wylie. Le ministre a réduit le remboursement à 983,80 dollars.
+[6] M. Wylie a déclaré que son épouse et lui avaient versé à Bayshore Builders un total de 203 500 dollars pour leur maison et a soutenu qu’ils avaient droit à un remboursement du montant réclamé. Il a déclaré que le fait que Bayshore Builders ait omis de payer la TPS n’était pas sa faute mais celle du ministre. Pour lui, le prix annoncé de la maison incluait la TPS et, par conséquent, ce qu’il a payé incluait la TPS.
+[7] M. Wylie a produit une copie du relevé du grand livre de fiducie de son avocat concernant l’achat de la maison. Le relevé du grand livre inclut un paiement à « Switzer Tim – Br Mart » de 38 564 dollars. Mais l’avocat n’a fourni aucun reçu ni aucun autre détail.
+[8] Lors de l’instruction, le 9 février 2005, il était évident que M. et Mme Wylie étaient incapables de produire une preuve régulière pour attester de leur droit de réclamer un remboursement total. Je n’ai pas rendu jugement à l’époque et ai demandé à Mme Wylie de communiquer avec son avocat, Me Gregory Mulligan, du cabinet d’avocats Bourne, Jenkins & Mulligan à Orillia, en Ontario, pour vérifier si le paiement fait à Switzer’s Tim‑Br Mart correspondait à l’achat de fournitures taxables (TPS). L’audience a repris le 21 septembre 2005.
+[9] Mme Wylie a écrit à ce propos à Me Mulligan et elle lui a mentionné qu’elle avait besoin de cette information [TRADUCTION] « pour recevoir un remboursement de TPS sur l’achat d’une nouvelle maison ». Me Mulligan lui a télécopié une autre copie [TRADUCTION] « du relevé de notre grand livre de fiducie indiquant le montant payé à Switzer en votre nom, à faire parvenir à la Cour canadienne de l’impôt, au besoin ».
+[10] Il n’est fait aucunement mention de l’achat de fournitures taxables dans le compte du grand livre de fiducie de l’avocat, seul un montant payé à « Switzer Tim – Br Mart ». Mais, après discussion, Me Penny, avocat de l’intimée, a attiré mon attention sur des factures mensuelles adressées par Switzer à Bayshore Builders, jointes à l’affidavit de Me Mulligan, lequel ventile les montants de TPS par mois à raison de 987,03 dollars, 973,55 dollars et 284,18 dollars pour les mois d’août, de septembre et de novembre respectivement, soit pour un total de 2 244,76 dollars[1].
+[11] Je crois que, même si Me Mulligan n’a pas été contre‑interrogé sur son affidavit, en m’appuyant sur le témoignage de M. Wylie, nous avons la preuve qu’au moins 2 244,76 dollars de l’argent versé par Mme Wylie à Baysore Builders correspondait à de la TPS. L’appel est accueilli sur cette base.
+[12] L’intitulé de la cause sera modifié pour radier le nom de Stephen J. Wylie à titre d’appelant.
+Signé à Ottawa, Canada, ce 26e jour de septembre 2005.
+« Gerald J. Rip »
+Juge Rip
+Traduction certifiée conforme
+ce 26e jour de mars 2009.
+Christian Laroche, LL.B.
+Réviseur
+RÉFÉRENCE : 2005CCI346
+No DE DOSSIER DE LA COUR : 2004-2781(GST)I
+INTITULÉ : NANCY J. WYLIE ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATES DE L’AUDIENCE : Les 9 février et 21 septembre 2005
+MOTIFS DE JUGEMENT : L’honorable juge Gerald J. Rip
+DATE DU JUGEMENT : Le 26 septembre 2005
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Stephen J. Wylie
+Avocat de l’intimée :
+Me Jonathon Penney
+AVOCATS INSCRITS
+AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Ontario)
+[1] Lors de l’instruction, j’ai « arrondi » le montant à 2 246 dollars. Le montant exact est de 2 244,76 dollars.

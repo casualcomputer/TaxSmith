@@ -1,0 +1,168 @@
+---
+title: "Worldwide School Search and Relocation Services Inc. (Educational Connections) c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30785/index.do"
+last_modified: "2012-04-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 137"
+citation2: ""
+neutral_citation: "2012 CCI 137"
+decision_date: "2012-04-26"
+language: "fr"
+item_id: "30785"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7588
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:40:19.738000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d79d8a5df98ddcffd2e5f027f85a19b572474dc7f12e764df6d6eed79afbc686"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Worldwide School Search and Relocation Services Inc. (Educational Connections) c. M.R.N.
+
+- Citation: 2012 CCI 137
+- Decision date: 2012-04-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7588, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Worldwide School Search and Relocation Services Inc. (Educational Connections) c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-04-26
+Référence neutre
+2012 CCI 137
+Numéro de dossier
+2011-593(CPP)
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Régime de pensions du Canada
+Contenu de la décision
+Dossiers : 2011-593(CPP)
+2011-597(EI)
+ENTRE :
+WORLDWIDE SCHOOL SEARCH AND RELOCATION SERVICES INC., faisant affaire sous le nom d’EDUCATIONAL CONNECTIONS,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 7 mars 2012, à Toronto (Ontario)
+Devant : L’honorable juge J.M. Woods
+Comparutions :
+Avocats de l’appelante :
+Me David A. Whitten
+Me Cédric P. Lamarche
+Avocat de l’intimé :
+Me Stephen Oakey
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre des cotisations établies en vertu de la Loi sur l’assurance-emploi et du Régime de pensions du Canada relativement à l’engagement d’Amelia Woo au cours de l’année 2008 est accueilli et les cotisations sont annulées.
+Chaque partie assumera ses propres dépens.
+La Cour ordonne au greffe de modifier l’intitulé afin qu’il soit conforme au présent jugement.
+Signé à Ottawa (Ontario), ce 26e jour d’avril 2012.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 5e jour de juin 2012.
+Marie‑Christine Gervais
+Référence : 2012 CCI 137
+Date : 20120426
+Dossiers : 2011-593(CPP)
+2011-597(EI)
+ENTRE :
+WORLDWIDE SCHOOL SEARCH AND RELOCATION SERVICES INC., faisant affaire sous le nom d’EDUCATIONAL CONNECTIONS,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] L’appelante, Worldwide School Search and Relocation Services Inc. (« Worldwide »), fait appel des cotisations établies en vertu de la Loi sur l’assurance‑emploi et du Régime de pensions du Canada relativement au travail accompli par Amelia Woo au cours de l’année 2008. Il s’agit en l’espèce de déterminer si Mme Woo a travaillé comme évaluatrice pédagogique à titre d’employée ou d’entrepreneure indépendante.
+[2] Les activités de Worldwide consistent à administrer des tests et à procéder à des évaluations en vue de détecter de possibles troubles d’apprentissage chez les sujets. La société est la propriété de Bill Ford, psychologue, et de son épouse, Louise Ford.
+[3] Worldwide retient les services d’évaluateurs pour l’aider dans cette tâche. Ces évaluateurs administrent des tests et rédigent des rapports d’évaluation en collaboration avec M. Ford. Il s’agit normalement de professionnels qualifiés dotés de diplômes d’études supérieures dans ce domaine spécialisé.
+[4] Les conditions d’engagement des évaluateurs sont stipulées dans un contrat écrit : il y est prévu que les évaluateurs sont engagés à titre de conseillers indépendants. Les conditions de l’entente sont souples : Worldwide n’est pas tenue de fournir du travail et les conseillers ne sont pas tenus d’accepter plus de deux tâches par mois. Il ne fait pas de doute que les évaluateurs sont autorisés à offrir leurs services ailleurs, ce que font certains d’entre eux.
+[5] Mme Woo a été engagée comme évaluatrice en 2008, alors qu’elle était inscrite à un programme d’études supérieures dans ce domaine. Elle connaissait déjà bon nombre des tests qu’elle devait administrer, mais n’avait pas d’expérience de travail. En effet, elle n’avait pas encore effectué de stage, ce qui lui aurait permis d’acquérir une certaine expérience pratique de travail. Worldwide offre de la formation sur les tests que les évaluateurs ne connaissent pas.
+[6] Mme Woo a accepté de travailler pour Worldwide en partie pour apprendre les rouages de la profession auprès de M. Ford, ce dernier s’étant engagé à lui servir de mentor. Elle avait le sentiment que leur rapport en était un de mentor à stagiaire.
+Procédure d’évaluation
+[7] Il est indiqué de décrire ici les étapes à suivre pour fournir une évaluation au client.
+[8] En premier lieu, M. Ford rencontre le client afin d’obtenir des renseignements généraux et de prendre des dispositions pour la tenue de l’évaluation. Il peut ainsi se faire une première opinion au sujet des tests appropriés, mais l’évaluateur a aussi son mot à dire lorsque vient le temps de décider des tests qui seront véritablement administrés.
+[9] Ensuite, le gestionnaire de bureau fixe un rendez-vous avec le client pour l’administration des tests. Il communique avec des évaluateurs qu’il choisit selon leur spécialité et leur disponibilité.
+[10] Les tests sont administrés dans les locaux de Worldwide, en milieu contrôlé, afin de garantir la validité des résultats. Six heures sont généralement nécessaires pour la tenue des tests, mais leur durée peut varier selon les circonstances. Par la suite, l’évaluateur procède au calcul des résultats des tests.
+[11] L’évaluateur discute ensuite des résultats avec M. Ford (et peut-être d’autres évaluateurs). On s’entend sur un diagnostic.
+[12] Un rapport est alors rédigé à partir des commentaires de M. Ford et de l’évaluateur. Ce dernier procède à la rédaction d’une première ébauche, que révise ensuite M. Ford. Au besoin, celui-ci apporte lui-même des changements ou demande à l’évaluateur de le faire. À la fin du processus, M. Ford appose sa signature sur le rapport ou bien le gestionnaire de bureau le fait en son nom. Dans le rapport, une ligne est prévue pour recevoir la signature de l’évaluateur, mais il arrive que ce dernier ne le signe pas. En règle générale, les rapports de Mme Woo ne portaient pas sa signature.
+Analyse
+[13] Les principes de droit qui doivent être appliqués dans un cas comme celui-ci sont bien connus. Essentiellement, il nous faut déterminer si Mme Woo exploitait une entreprise pour son propre compte. Les facteurs énoncés dans Wiebe Door, soit le contrôle, la possibilité de profit, le risque de perte et la propriété des instruments de travail, sont au nombre de ceux qu’il y a lieu d’examiner. Par ailleurs, si les parties ont l’intention commune d’établir une relation employeur‑employé, ou encore une relation fondée sur la situation d’entrepreneur indépendant, cette intention sera respectée si la relation concorde avec celle‑ci. (TBT Personnel Services Inc. c. La Reine, 2011 CAF 256.)
+[14] En l’espèce, l’un des éléments importants à considérer concerne la faculté de Worldwide de contrôler la façon dont Mme Woo s’acquittait de ses tâches.
+[15] J’estime que Worldwide ne disposait que d’un contrôle restreint. Les rapports remis aux clients sont de toute évidence le fruit de la contribution conjointe de deux professionnels. M. Ford et Mme Woo contribuaient tous deux aux rapports et à l’établissement du diagnostic; en outre, les espaces réservés aux signatures signalent aux clients qu’il s’agit d’un rapport conjoint, que celui-ci porte ou non la signature de Mme Woo.
+[16] L’intimé fait valoir avec insistance que Worldwide avait la capacité d’exercer un contrôle considérable sur le travail de Mme Woo. À mon sens, une telle affirmation traduit une méconnaissance de la nature de l’engagement.
+[17] Worldwide engage des professionnels à qui elle confie l’exécution de tâches pour lesquelles ils sont formés. Si les évaluateurs étaient tout simplement assujettis au contrôle de Worldwide, ils se trouveraient en conflit par rapport à leurs obligations professionnelles.
+[18] De plus, les évaluateurs savent qu’ils sont présentés comme coauteurs des rapports. Ils sont donc tenus, sur le plan professionnel, de s’assurer qu’ils sont d’accord avec les conclusions de l’évaluation.
+[19] Je reconnais sans hésitation que Mme Woo passait par une phase d’apprentissage et qu’elle s’en remettait aux opinions de M. Ford. C’est le cas de tout professionnel dépourvu d’expérience pratique. Il n’en demeure pas moins qu’elle est assujettie à certaines obligations sur le plan professionnel.
+[20] Il est compréhensible que Mme Woo se soit rangée aux opinions d’une personne d’expérience, mais il existe une différence entre la retenue de l’un et l’exercice d’un contrôle par l’autre. À mon sens, si Mme Woo a pensé qu’elle était placée sous le contrôle de M. Ford, c’est qu’elle a mal compris le rôle qui lui incombait en tant que professionnelle.
+[21] Mme Woo a dit n’avoir apporté qu’une mince contribution à la rédaction des rapports, ajoutant que la tournure des phrases lui était en grande partie suggérée par M. Ford. Elle a aussi précisé qu’elle n’était pas autorisée à rédiger les rapports à son domicile.
+[22] D’après la preuve testimoniale, M. Ford mettait à la disposition des évaluateurs des modèles de rapports illustrant le style rédactionnel qu’il privilégiait. Il faut y voir des suggestions plutôt qu’un moyen de dicter la façon dont les rapports devraient être rédigés. En outre, les tests étaient administrés par les évaluateurs. Il est par conséquent illogique de prétendre que M. Ford dictait le contenu des rapports.
+[23] L’interdiction d’apporter les rapports chez soi était nécessaire compte tenu du caractère confidentiel des rapports. La preuve indique que les évaluateurs sont maintenant autorisés à rédiger les rapports à domicile en raison de l’amélioration des dispositifs de sécurité informatique.
+[24] La flexibilité des ententes conclues et la faculté des évaluateurs d’accepter ou de refuser une tâche sont de solides arguments à l’appui de la thèse voulant que Mme Woo ait été engagée à titre d’entrepreneure indépendante. Mme Woo est tout bonnement une professionnelle dont les services ont été retenus de manière informelle pour l’exécution d’une tâche donnée au moment de son choix. Le critère du contrôle fait pencher la balance du côté de la relation d’entrepreneur indépendant.
+[25] Quant à la question de la propriété des instruments de travail, les évaluateurs utilisaient des outils qui étaient tous fournis par Worldwide. Celle-ci fournissait des salles insonorisées, les tests, les ordinateurs et les ouvrages de référence. Certains évaluateurs utilisaient aussi des tests qui leur appartenaient.
+[26] L’intimé avance que l’utilisation des outils est une considération importante en l’espèce. Je n’adhère pas à ce point de vue.
+[27] Rien n’interdisait à Worldwide d’engager des entrepreneurs indépendants pour qu’ils procèdent à des évaluations pour ses clients, dans ses locaux et au moyen de ses outils. Il est fréquent de retenir les services de professionnels en vertu de conditions semblables et à titre d’entrepreneurs indépendants. La propriété des instruments de travail n’est pas un facteur important en l’espèce.
+[28] Pour ce qui est des profits et des pertes, c’est un fait admis que les conseillers indépendants pouvaient exercer un certain contrôle sur la réalisation de profits en raison de la méthode de fixation de leurs honoraires. Ils étaient en effet payés selon un taux horaire établi en fonction du temps qu’ils mettaient pour administrer les tests. Le profit peut varier selon l’efficacité avec laquelle l’évaluateur rédige ses rapports.
+[29] Selon moi, le critère du profit est neutre est ne constitue pas un facteur important.
+[30] À mon sens, le risque de perte n’est pas non plus un facteur important. Sur ce point, la preuve est peu abondante et je ne suis pas convaincue qu’elle est digne de foi. Bien que la possibilité de faire l’objet de poursuites existe, rien dans la preuve n’indique que les évaluateurs ont l’habitude de souscrire une assurance responsabilité civile. Je ne suis pas convaincue que ce risque est perçu comme majeur.
+[31] Enfin, je crois qu’il y a lieu de tenir compte de l’intention. Sur ce point, le témoignage de Mme Woo n’est pas tout à fait clair. Comme elle a signé un contrat écrit précisant qu’elle était engagée à titre de conseillère indépendante et qu’elle savait qu’aucune retenue à la source ne serait effectuée, on peut penser que Mme Woo avait compris et accepté le fait qu’elle n’était pas une employée.
+[32] Dans son témoignage, Mme Woo a dit ne pas comprendre intégralement les tenants et les aboutissants de la qualité de conseillère indépendante. Il est déplorable que Worldwide ne lui ait pas donné d’explications approfondies à ce sujet; néanmoins, l’intention exprimée traduit, à mon sens, une volonté d’établir une relation d’entrepreneur indépendant.
+[33] Par conséquent, je conclus que Mme Woo, au cours de l’année 2008, a été engagée par Worldwide à titre d’entrepreneure indépendante et non d’employée. L’appel est accueilli et les cotisations sont annulées.
+[34] Chaque partie assumera ses propres dépens.
+Signé à Ottawa (Ontario), ce 26e jour d’avril 2012.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 5e jour de juin 2012.
+Marie-Christine Gervais
+RÉFÉRENCE : 2012 CCI 137
+No DES DOSSIERS DE LA COUR : 2011-593(CPP) et
+2011-597(EI)
+INTITUTLÉ : WORLDWIDE SCHOOL SEARCH AND RELOCATION SERVICES INC., faisant affaire sous le nom d’EDUCATIONAL CONNECTIONS c.
+LE MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 7 mars 2012
+MOTIFS DU JUGEMENT : L’honorable juge J.M. Woods
+DATE DU JUGEMENT : Le 26 avril 2012
+COMPARUTIONS :
+Avocats de l’appelante :
+Me David A. Whitten
+Me Cédric P. Lamarche
+Avocat de l’intimé :
+Me Stephen Oakey
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : David A. Whitten
+Cabinet : Whitten & Lublin L.L.P.
+Toronto (Ontario)
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa (Ontario)

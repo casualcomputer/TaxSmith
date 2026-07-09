@@ -1,0 +1,86 @@
+Title: Cohl v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26829/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-467-26829-cohl-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2005-07-22
+
+# Cohl v. The Queen
+
+- Citation: 2005 CCI 467
+- Decision date: 2005-07-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 700, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cohl v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-07-22
+Référence neutre
+2005 CCI 467
+Numéro de dossier
+96-2512(IT)G
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 96-2512(IT)G
+Référence : 2005CCI467
+Date : 20050722
+ENTRE :
+MICHAEL COHL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue par voie de conférence téléphonique le 19 juillet 2005.
+Devant : L'honorable juge D. W. Beaubier
+Comparutions :
+Avocat de l'appelant :
+Me George E. H. Cadman, c.r.
+Avocats de l'intimée :
+Me S. Patricia Lee, Me Eric Noble,
+Me Robert Carvalho et Me Gavin Laird
+____________________________________________________________________
+MOTIFS DE L'ORDONNANCE ET ORDONNANCE
+[1] Cette requête de l'intimée vise :
+1. une ordonnance pour que l'appelant se renseigne sur :
+a) les registres que possède John Perkins concernant les calculs qu'il a faits relativement à ce que l'appelant pouvait tirer de son investissement dans la société Claridge;
+b) le souvenir que John Perkins a de toute analyse ou enquête qu'il a faite concernant la société Claridge pour le compte de l'appelant;
+c) les renseignements ou registres que possède John Perkins relativement à une opération ultérieure effectuée pour le compte des investisseurs de la société Claridge et toute enquête ou analyse qu'il a faite à cet égard;
+d) la durée des négociations se rapportant à l'investissement dans l'entreprise de l'appelant par la société John Labatt Limitée qui a donné lieu à des gains en 1987 et en 1988;
+2. une ordonnance pour que l'appelant demande les documents de John Perkins relativement aux points 1a), c) et d).
+Etc.
+[2] La requête est présentée conformément aux règles 95 et 110. Le paragraphe 95(2) et la règle 110 sont libellés comme suit :
+95. (2) Avant l'interrogatoire préalable, la personne interrogée doit faire toutes les recherches raisonnables portant sur les points en litige auprès de tous les dirigeants, préposés, agents et employés, passés ou présents, au Canada ou à l'étranger; si cela est nécessaire, la personne interrogée au préalable peut être tenue de se renseigner davantage et, à cette fin, l'interrogatoire préalable peut être ajourné.
+110. Si une personne ne se présente pas à l'heure, à la date et au lieu fixés pour un interrogatoire dans l'avis de convocation ou le subpoena, ou à l'heure, à la date et au lieu convenus par les parties, ou qu'elle refuse de prêter serment ou de faire une affirmation solennelle, de répondre à une question légitime, de produire un document ou un objet qu'elle est tenue de produire ou de se conformer à une directive rendue en application de l'article 108, la Cour peut :
+a) en cas d'objection jugée injustifiée à une question, ordonner ou permettre à la personne interrogée de se présenter à nouveau, à ses propres frais, pour répondre à la question, auquel cas elle doit répondre aussi aux autres questions légitimes qui découlent de sa réponse;
+b) rejeter ou accueillir l'appel, selon le cas, si cette personne est une partie ou, dans le cas d'un interrogatoire préalable, une personne interrogée à la place ou au nom d'une partie;
+c) radier, en totalité ou en partie, la déposition de cette personne, y compris une déclaration sous serment faite par cette personne;
+d) ordonner à toute partie ou à toute autre personne de payer sans délai et personnellement les dépens de la requête, ceux qui ont été engagés inutilement et ceux de la poursuite de l'interrogatoire.
+L'avocat de l'appelant a affirmé que le paragraphe 95(3) s'applique. Celui-ci est libellé comme suit :
+95. (3) Une partie qui interroge au préalable peut obtenir la divulgation de l'opinion et des conclusions de l'expert engagé par la partie interrogée, ou en son nom, sur une question en litige dans l'instance ainsi que ses nom et adresse. Toutefois, la partie interrogée n'est pas tenue de divulguer le renseignement demandé, ni les nom et adresse de l'expert, si :
+a) l'opinion et les conclusions de l'expert sur une question en litige dans l'instance ont été formulées uniquement en prévision d'une poursuite envisagée ou en cours;
+b) la partie interrogée s'engage à ne pas appeler l'expert à témoigner à l'audience.
+La Cour juge que John Perkins n'est pas un expert relativement à ces aspects du présent appel. Selon la preuve, il est un simple témoin et un agent de l'appelant relativement à ces questions. Son opinion d'expert n'est pas demandée; la question est plutôt de savoir ce qu'il a fait lorsqu'il a été engagé à titre d'agent de l'appelant relativement aux opérations en litige dans son appel ou aux questions se rapportant aux pratiques commerciales ou d'investissement de l'appelant ou de M. Perkins ou à leurs intentions d'investissement possible.
+[3] Tout ce qui est demandé est que l'appelant fasse ces recherches et produise ces registres s'il peut les obtenir. Ce sont là des demandes raisonnables visant des recherches raisonnables puisqu'elles vont au coeur de la question en litige dans le présent appel, et le tout est conforme au paragraphe 95(2), qui décrit les obligations de l'appelant relativement à son interrogatoire préalable. Ces recherches sont importantes pour l'intimée parce que l'appelant est lié par les réponses qu'il aura données lors de l'interrogatoire préalable. Le paragraphe 95(2) n'exige toutefois pas que l'appelant demande les documents de tierces parties.
+[4] L'avocat de l'appelant s'est opposé à la demande de l'intimée visant les documents de M. Perkins. Encore une fois, si M. Perkins est disposé à donner les documents à l'appelant, celui-ci doit les produire; la question de savoir si cela se produira dépend de M. Perkins. De toute manière, l'appelant ne s'oppose pas à ce que l'intimée traite directement avec M. Perkins.
+[5] En ce qui concerne le libellé particulier de cet avis de requête daté du 7 juillet 2005, la Cour ordonne ce qui suit :
+1. L'ordonnance demandée au paragraphe 1 est libellée tel que prévu parce qu'elle propose des recherches raisonnables que l'appelant devrait entreprendre auprès de son agent, M. Perkins, conformément au paragraphe 95(2). En particulier, l'alinéa c) se rapporte au degré et au temps relatifs consacrés par M. Perkins à des recherches concernant des investissements; l'alinéa d) concerne l'intention que l'appelant peut avoir eue quant à l'acquisition de la société Claridge.
+2. Le paragraphe 2 prévoit simplement que l'appelant se renseigne auprès de M. Perkins et produise ce que ce dernier lui aura donné. L'avocat de l'appelant a accepté de faire ces recherches, mais a refusé de demander la production des documents de M. Perkins. Le refus est compréhensible pour bien des raisons, car il s'agit des documents de M. Perkins, et, compte tenu des circonstances de la présente cause et de la relation de M. Perkins avec celle-ci et l'appelant, le raisonnement de l'avocat de l'appelant est valide. Le paragraphe 95(2) n'exige pas que l'appelant demande les documents de M. Perkins et l'objection de l'avocat de l'appelant à cet égard est valide. L'ordonnance demandée au paragraphe 2 est refusée.
+3. En raison des résultats mixtes de cette requête, il est ordonné à l'appelant de se présenter de nouveau à l'interrogatoire préalable pour se conformer à cette ordonnance. L'interrogatoire préalable doit avoir lieu, chaque partie devant payer ses propres dépenses.
+[6] Les dépens suivront l'issue de l'affaire.
+Signé à Saskatoon (Saskatchewan), ce 22e jour de juillet 2005.
+« D. W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 12e jour de juin 2006.
+Mario Lagacé, jurilinguiste

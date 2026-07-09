@@ -1,0 +1,146 @@
+---
+title: "Haynes c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31201/index.do"
+last_modified: "2013-05-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 185"
+citation2: ""
+neutral_citation: "2013 CCI 185"
+decision_date: "2013-05-14"
+language: "fr"
+item_id: "31201"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5041
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:18:40.117000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "dc438ae0f0bb18634702539a41c693d688b9674bf4dda2633cb5a2841e143e70"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Haynes c. La Reine
+
+- Citation: 2013 CCI 185
+- Decision date: 2013-05-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5041, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Haynes c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-05-14
+Référence neutre
+2013 CCI 185
+Numéro de dossier
+2013-303(IT)G
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2013 CCI 185
+Date : 20130612
+Dossier : 2013-303(IT)G
+ENTRE :
+KIRK HAYNES,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS MODIFIÉS DE L’ORDONNANCE
+(Les présents motifs sont modifiés aux seules fins de l’ajout d’une référence. Aucune modification n’a été apportée au texte même des motifs.)
+La juge Woods
+[1] Le ministère public demande à la Cour, par voie de requête :
+[traduction]
+1. de rendre, en vertu de l’alinéa 58(1)b) des Règles, une ordonnance radiant l’avis d’appel au motif qu’il ne révèle aucun moyen raisonnable d’appel;
+2. à titre subsidiaire, de rendre, en vertu de l’alinéa 53b) des Règles, une ordonnance radiant l’avis d’appel au motif qu’il est scandaleux, frivole ou vexatoire;
+3. à titre subsidiaire, de rendre, en vertu de l’alinéa 53c) des Règles, une ordonnance radiant l’avis d’appel au motif qu’il constitue un recours abusif;
+4. à titre subsidiaire, de rendre, en vertu de l’article 169 de la Loi, une ordonnance radiant l’avis d’appel au motif qu’il a été introduit en dehors du délai imparti;
+5. à titre plus subsidiaire encore, de rendre une ordonnance enjoignant à l’appelant de demander à ce que le délai imparti pour le dépôt de l’avis d’appel soit prorogé en conformité avec les Règles et accordant à l’intimée 60 jours à compter de la signification de l’avis d’appel pour déposer une réponse;
+6. à titre subsidiaire, de rendre, conformément à l’alinéa 44(1)b) des Règles, une ordonnance fixant le délai imparti pour le dépôt de la réponse à l’avis d’appel à 60 jours à compter du prononcé de la décision relative à la présente requête;
+7. de lui adjuger les dépens de la présente requête.
+[2] Il convient dans un premier temps de se demander si l’appel a été introduit hors délai.
+[3] Aux termes du paragraphe 169(1) de la Loi de l’impôt sur le revenu, l’appel doit être interjeté dans les 90 jours suivant l’envoi de l’avis de ratification. Cette disposition est ainsi libellée :
+169. (1) Appel - Lorsqu’un contribuable a signifié un avis d’opposition à une cotisation, prévu à l’article 165, il peut interjeter appel auprès de la Cour canadienne de l’impôt pour faire annuler ou modifier la cotisation :
+a) après que le ministre a ratifié la cotisation ou procédé à une nouvelle cotisation;
+b) après l’expiration des 90 jours qui suivent la signification de l’avis d’opposition sans que le ministre ait notifié au contribuable le fait qu’il a annulé ou ratifié la cotisation ou procédé à une nouvelle cotisation;
+toutefois, nul appel prévu au présent article ne peut être interjeté après l’expiration des 90 jours qui suivent la date où avis a été envoyé au contribuable, en vertu de l’article 165, portant que le ministre a ratifié la cotisation ou procédé à une nouvelle cotisation.
+[Non souligné dans l’original.]
+[4] D’après ce qui est mentionné dans l’avis d’appel, l’avis de ratification portait la date du 19 octobre 2012. Selon la Loi, il s’agit de la date présumée de l’envoi, à condition toutefois que l’avis ait bel et bien été envoyé. Personne ne conteste ici le fait que l’avis a été envoyé; d’ailleurs, on y a répondu au moyen de l’avis d’appel déposé à la Cour le 22 janvier 2013. En revanche, il semble que M. Haynes ait déposé l’avis d’appel quelques jours après l’expiration du délai imparti de 90 jours.
+[5] Dans les observations écrites qu’il a présentées à l’audience, M. Haynes soutient que la Cour devrait considérer que l’avis d’appel a été déposé à temps pour les raisons suivantes :
+a) l’alinéa 11b) des Règles de la Cour canadienne de l’impôt prévoit que la période de congé de décembre doit être exclue de la computation des délais;
+b) la Cour a compétence, suivant le paragraphe 12(1) des Règles, pour confirmer la validité de l’avis d’appel.
+[6] Les dispositions qui précèdent ne sont d’aucune aide pour ce qui est de la possibilité de proroger le délai de 90 jours prévu dans la Loi, puisqu’elles ne s’appliquent qu’à l’égard des Règles ou d’une directive. Elles n’ont pas pour effet de modifier les délais prévus par le législateur au titre de la Loi, et on ne peut y recourir à cette fin.
+[7] Le libellé de ces dispositions des Règles ne laisse planer aucun doute quant à leur application restreinte. En voici le texte :
+Computation des délais
+11. À moins que le contexte n’indique une intention contraire, la computation des délais impartis par les présentes règles ou par une directive a lieu selon les dispositions suivantes :
+a) […];
+b) la période commençant le 21 décembre dans une année donnée et se terminant le 7 janvier de l’année suivante doit être exclue.
+Prolongation ou abrègement des délais
+12. (1) La Cour peut, par directive, prolonger ou abréger le délai imparti par les présentes règles ou par une directive, à des conditions appropriées.
+[8] Le délai prévu à l’article 169 de la Loi est de rigueur et on a raté l’échéance de quelques jours. Par conséquent, l’appel sera annulé.
+[9] Cependant, la question n’est pas pour autant réglée, puisque le délai dont dispose M. Haynes pour demander la prorogation du délai d’appel n’a pas expiré. La demande de prorogation peut être présentée en vertu de l’article 167 de la Loi, qui prévoit ce qui suit :
+167. (1) Prorogation du délai d’appel - Le contribuable qui n’a pas interjeté appel en application de l’article 169 dans le délai imparti peut présenter à la Cour canadienne de l’impôt une demande de prorogation du délai pour interjeter appel. La Cour peut faire droit à la demande et imposer les conditions qu’elle estime justes.
+(2) Contenu de la demande - La demande doit indiquer les raisons pour lesquelles l’appel n’a pas été interjeté dans le délai imparti.
+(3) Modalités - La demande, accompagnée de trois exemplaires de l’avis d’appel, est déposée en trois exemplaires au greffe de la Cour canadienne de l’impôt conformément à la Loi sur la Cour canadienne de l’impôt.
+(4) Copie au sous‑procureur général - La Cour canadienne de l’impôt envoie une copie de la demande au bureau du sous‑procureur général du Canada.
+(5) Acceptation de la demande - Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande a été présentée dans l’année suivant l’expiration du délai imparti en vertu de l’article 169 pour interjeter appel;
+b) le contribuable démontre ce qui suit :
+(i) dans le délai par ailleurs imparti pour interjeter appel, il n’a pu ni agir ni charger quelqu’un d’agir en son nom, ou il avait véritablement l’intention d’interjeter appel,
+(ii) compte tenu des raisons indiquées dans la demande et des circonstances de l’espèce, il est juste et équitable de faire droit à la demande,
+(iii) la demande a été présentée dès que les circonstances le permettaient,
+(iv) l’appel est raisonnablement fondé.
+[10] L’article 167 énonce plusieurs conditions devant être remplies pour que la Cour puisse accéder à une demande de prorogation de délai. Signalons notamment que M. Haynes doit démontrer qu’il est juste et équitable de faire droit à la demande et que son appel est raisonnablement fondé.
+[11] L’avis d’appel précédemment déposé par M. Haynes comporte plusieurs vices graves qui nuisent au respect des conditions. À l’audience, je lui ai suggéré de joindre à sa demande de prorogation de délai un avis d’appel modifié.
+[12] Pour ce qui est des dépens de la requête, il convient de les adjuger à l’intimée. L’avis d’appel déposé à la Cour comporte de nombreuses lacunes manifestes, l’une étant que son dépôt a été effectué hors délai sans qu’aucune prorogation ne soit demandée. Même si le ministère public a fait l’énumération de ces vices dans son avis de requête, l’appelant n’a rien fait pour y remédier avant l’audience. Des dépens d’un montant de 350 $ sont donc adjugés à l’intimée relativement à la présente requête. Ces dépens doivent être versés à l’intimée au plus tard le 10 juin 2013.
+[13] Les parties ont accepté que l’audition de la requête en prorogation de délai ait lieu à Edmonton au cours de la première semaine de juillet. La Cour ordonne au greffier de fixer la date de l’audience au 5 juillet 2013 à 13 h, laquelle audience aura lieu à la condition que la requête soit déposée au plus tard le 10 juin 2013.
+Les présents motifs modifiés de l’ordonnance remplacent les motifs de l’ordonnance datés du 17 mai 2013.
+Signé à Ottawa, Ontario, ce 12e jour de juin 2013.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 16e jour d’août 2013.
+Mario Lagacé, jurilinguiste
+No DU DOSSIER DE LA COUR : 2013-303(IT)G
+INTITULÉ : KIRK HAYNES et
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Fort McMurray (Alberta)
+DATE DE L’AUDIENCE : Le 14 mai 2013
+MOTIFS DE L’ORDONNANCE : L’honorable juge J.M. Woods
+DATE DES MOTIFS MODIFIÉS
+DE L’ORDONNANCE : Le 12 juin 2013
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Robert Neilson
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : s.o.
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Ontario

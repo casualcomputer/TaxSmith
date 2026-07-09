@@ -1,0 +1,205 @@
+---
+title: "Burton c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/367194/index.do"
+last_modified: "2019-03-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 CCI 67"
+citation2: ""
+neutral_citation: "2019 CCI 67"
+decision_date: "2019-03-29"
+language: "fr"
+item_id: "367194"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4321
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T18:22:38.787000+00:00"
+cases_cited_count: 5
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "983cbe9e0eda32f22395b97f7511d2b527c566b7b2f588a09af54d172107e04a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Burton c. La Reine
+
+- Citation: 2019 CCI 67
+- Decision date: 2019-03-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4321, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Burton c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-03-29
+Référence neutre
+2019 CCI 67
+Numéro de dossier
+2016-1091(IT)I
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-1091(IT)I
+ENTRE :
+GREGORY P. BURTON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 5 octobre 2017, à Kelowna (Colombie-Britannique)
+Devant : L’honorable juge Randall S. Bocock
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Jamie Hansen
+JUGEMENT
+CONFORMÉMENT aux motifs du jugement ci-joints, l’appel relatif à la nouvelle cotisation établie au titre de la Loi de l’impôt sur le revenu pour l’année d’imposition 2013 est rejeté, sans dépens.
+Signé à Toronto, Canada, ce 29e jour de mars 2019.
+« R.S. Bocock »
+Le juge Bocock
+Référence : 2019 CCI 67
+Date : 20190328
+Dossier : 2016-1091(IT)I
+ENTRE :
+GREGORY P. BURTON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bocock
+Introduction
+[1] L’appel concerne la déduction possible des paiements de pension alimentaire versés à un conjoint par l’autre, ce dernier en étant séparé ou divorcé. Ce tribunal a déjà eu à se pencher sur de nombreux litiges traitant de situations similaires. Dans le présent appel, l’enjeu critique est le suivant : les conditions régissant les versements entre les conjoints séparés ou divorcés respectent-elles les dispositions très précises de la législation portant sur la déduction de ces paiements?
+[2] Cette législation, soit les paragraphes 56.1(4) et 60.1(3) de la Loi de l’impôt sur le revenu, L.R.C. 1985, c.1 (la « Loi »), s’exprime ainsi (nous avons souligné les termes importants) :
+56.1(4)
+[...]
+pension alimentaire Montant payable ou à recevoir à titre d’allocation
+périodique pour subvenir aux besoins du bénéficiaire,
+et
+le bénéficiaire est l’époux ou le conjoint de fait ou l’ex-époux ou l’ancien conjoint de fait du payeur et
+le montant est à recevoir aux termes de l’ordonnance d’un tribunal compétent ou
+d’un accord écrit;
+60.1(3) Pour l’application du présent article et de l’article 60, lorsqu’un accord écrit ou l’ordonnance d’un tribunal compétent, établi à un moment d’une année d’imposition, prévoit qu’un montant payé avant ce moment et au cours de l’année ou de l’année d’imposition précédente est considéré comme payé et reçu au titre de l’accord ou de l’ordonnance, les présomptions suivantes s’appliquent :
+(a) le montant est réputé avoir été payé au titre de l’accord ou de l’ordonnance;
+[3] L’appelant, M. Burton, a versé divers paiements à sa conjointe au cours de l’année d’imposition 2013. À cet égard, il a, comme le mentionne le présent appel, déduit des paiements de pension alimentaire s’élevant à 23 281 $ et a réclamé une déduction pour paiements de pension alimentaire de 5 120 $. Il a également versé une pension alimentaire en 2014 et en 2015.
+[4] Le ministre a accordé une déduction pour l’année d’imposition 2014 et pour 2015, mais l’a refusée pour 2013. Les parties conviennent que l’accord de séparation définitif est finalement entré en vigueur le 1er mai 2015. Le ministre se fonde sur ce fait pour conclure que les années 2015 et 2014 sont respectivement « l’année» et « l’année d’imposition précédente » dont il est question au paragraphe 60.1(2). Par déduction et par supposition, les sommes versées en 2013 ont été payées avant cette période.
+[5] M. Burton et son ex-épouse ont tous les deux engagé des avocats pour mener les négociations en vue d’un accord comprenant une pension alimentaire matrimoniale. Comme il est mentionné, la conclusion de cet arrangement a été longue à venir. Tout au long du processus, des lettres ont été échangées. Les fondements initiaux de l’accord définitif se retrouvent dans deux lettres rédigées par les avocats des parties. Voici un résumé de leurs passages pertinents :
+(i) Lettre de l’avocat de M. Burton, datée du 6 décembre 2013
+[traduction]
+Nous sommes les avocats de Gregory Burton. Notre client partage, avec le vôtre, le désir de régler ce litige par entente mutuelle, si la chose est possible, et nous a donné le mandat de répondre ainsi à votre proposition.
+[...]
+Pension alimentaire matrimoniale
+Sauf entente à l’effet contraire entre les parties dans l’accord de séparation, le versement de la pension alimentaire matrimoniale commencera après la vente de la résidence familiale;
+Jusqu’au 21 août 2018, M. Burton versera une prestation alimentaire matrimoniale de 1 877 $ par mois, ce qui représente la partie inférieure de la fourchette figurant dans les Lignes directrices facultatives en matière de pensions alimentaires pour époux (LDFPAÉ), pour un revenu de 151 710 $. (Vous trouverez ci-joint le calcul fait grâce au logiciel DivorceMate.)
+Les paiements de pension alimentaire matrimoniale sont examinés uniquement dans les circonstances suivantes et seul leur montant peut être révisé :
+o M. Burton perd son emploi ou cesse de recevoir une prime de projet avant le 21 août 2018;
+o Mme Burton commence à recevoir un revenu d’emploi supérieur à 40 000 $ par année avant le 21 août 2018;
+o Mme Burton prend mari ou cohabite avec un nouveau partenaire avant le 21 août 2018;
+Mme Burton cesse d’avoir droit à une prestation alimentaire matrimoniale après le 21 août 2018;
+Les parties concluent une entente préalable de pension alimentaire, au besoin en retenant les services d’experts-comptables, afin d’établir le traitement fiscal des paiements versés par M. Burton pour le compte de Mme Burton depuis leur séparation.
+[...]
+On notera que cette proposition est faite uniquement afin de faciliter la conclusion d’un accord exécutoire entre les parties. Il ne s’agit pas d’une offre que l’on peut accepter et il n’y aura aucun accord exécutoire entre les parties tant qu’elles n’auront pas conclu un accord de séparation officiel.
+Je vous prierais de me faire savoir aussitôt que possible si ce qui précède est acceptable pour votre cliente. J’attends votre réponse avec impatience.
+(ii) Lettre de l’avocat de l’ex-épouse, datée du 7 janvier 2014
+[traduction]
+Nous avons bien reçu votre lettre du 6 décembre 2013; j’ai maintenant eu l’occasion d’en discuter avec ma cliente. Voici les instructions que j’ai reçues :
+Je n’ai pas encore de certitude sur l’importance capitale de la date de séparation. Ma cliente m’a dit qu’ils ont rencontré un conseiller matrimonial en septembre, dans le but d’empêcher la rupture de leur mariage. Quoi qu’il arrive, cela pourrait ne pas être un problème si tout se réglait;
+Je vous remercie de m’avoir renseigné sur le revenu de M. Burton. J’apprécierais de recevoir les déclarations de revenus après leur soumission, ainsi qu’un relevé de rémunération final pour 2013 avec cumul annuel;
+[...]
+Arrangements concernant la tutelle et les tâches parentales
+[...]
+4. Nous sommes d’accord en principe, mais des problèmes de logistique sont possibles; nous devrions d’abord en discuter;
+5. Temps octroyé par M. Burton aux tâches parentales :
+a. Nous sommes d’accord en principe, mais cela dépend de l’horaire de travail de M. Burton. Nous devons le connaître en détail avant d’approuver la version définitive de cette clause. Nous considérons qu’un préavis de 48 heures constituerait le minimum acceptable;
+b. Nous sommes d’accord, quoique, vu l’échéancier habituel du congé des Fêtes, nous ne pouvons garantir que le jour de Noël sera compris une année et que, l’année suivante, ce sera le lendemain de Noël. Nous pourrions convenir que le congé soit divisé en deux en alternance, mais que certaines années le début de la seconde moitié commence après le lendemain de Noël;
+c. Nous sommes d’accord;
+d. Compte tenu de l’échéancier ci-dessus, je ne crois pas qu’il soit possible de diviser d’autres congés en deux, en raison de l’horaire de travail de votre client;
+[...]
+Pension alimentaire pour enfants :
+8. Nous devons avoir une confirmation au sujet du revenu de votre client. Veuillez vous reporter à nos observations à la section « Entente provisoire » ci-dessous.
+[...]
+12 d) Je ne suis pas convaincu que cela soit réalisable. Voulez-vous dire que Mme Burton devrait obtenir une approbation écrite avant d’emmener un enfant chez le dentiste? Si tel est le cas, nous ne sommes pas d’accord;
+13. Nous ne sommes pas d’accord – les REEE doivent être des régimes conjoints;
+Déménagement :
+14. Une limite de 100 km est impossible à appliquer. Si ma cliente devait déménager, ce serait soit à Victoria (C.-B.) (environ 350 km), soit dans la région du Lower Mainland (environ 200 km). Dans chaque cas, votre client bénéficierait d’un horaire plus facile pour ses tâches parentales, parce qu’on trouve un aéroport important (c’est-à-dire de bien plus grande envergure que celui de Powell River) dans chaque région. En fait, je ne connais guère d’endroits où il faut plus de temps pour rejoindre la région intérieure que de Powell River.
+Pension alimentaire matrimoniale
+15. Nous sommes d’accord;
+16. Il faut ici aussi obtenir une confirmation du revenu. Je ne suis pas certain que cela autoriserait l’utilisation de la partie inférieure de la fourchette, puisque ma cliente a des enfants en bas âge, qu’elle doit se recycler et qu’elle est demeurée à la maison tout au long de son mariage. Il me semble que le milieu de la fourchette serait plus approprié;
+17. Examen :
+a. Nous sommes d’accord, à la condition que ces changements échappent au contrôle de M. Burton et qu’il ait la charge de la preuve;
+b. Nous sommes d’accord.
+c. Nous sommes d’accord en ce qui concerne le mariage; pour la cohabitation, il faudrait ajouter, pour le déclenchement d’un nouvel examen, la phrase suivante : « vit dans une relation de cohabitation maritale depuis deux ans »;
+18 Cinq ans représente la période la moins longue qui soit acceptable. Je proposerais plutôt sept ans, compte tenu du nombre de nouveaux examens déjà convenus;
+19. Nous sommes d’accord – nous devrons toutefois discuter du montant des paiements et de la proportion qui irait à Mme Burton; de plus, il faudrait en soustraire la pension alimentaire pour enfants et le solde constituerait la pension alimentaire matrimoniale; de toute évidence, nous devrons en parler entre nous, mais nous donnons notre accord de principe;
+[...]
+Entente provisoire :
+[...]
+23. Nous ne sommes pas d’accord.
+24. Nous ne sommes pas d’accord;
+[...]
+J’attends avec impatience l’information que vous devez nous transmettre, afin que nous puissions poursuivre notre collaboration en vue d’un règlement final.
+[6] Pendant l’audition de la preuve, M. Burton a prétendu que l’on pouvait, par déduction, conclure que les deux lettres des avocats, prises ensemble et cumulativement, constituaient une « entente écrite » conclue dès l’année civile 2014. Cette hypothèse pourrait être appliquée aux paiements faits durant l’année d’imposition 2013 et celle-ci deviendrait l’« année précédente » voulue et nécessaire.
+[7] Pendant l’audience, certains ont exprimé l’opinion qu’il y aurait peut-être une preuve documentaire supplémentaire pouvant donner un meilleur éclairage sur la possibilité qu’une entente écrite ait été conclue en 2014 et la mieux soutenir. Si cela se réalisait, l’année d’imposition 2013 serait l’année « précédente ». Les avocats de l’intimée ont convenu de reporter leurs observations jusqu’à ce que la recherche entreprise par M. Burton soit terminée. Les événements se sont ensuite enchaînés. Le tribunal et les parties ont finalement convenu que l’affaire devait être réglée. M. Burton a finalement cessé de présenter de nouvelles allégations, malgré les encouragements de la Cour. Celle-ci rend maintenant sa décision sur la base de la preuve et des observations faites à l’audience et des observations écrites faites ensuite par l’intimée.
+[8] Récemment, dans une affaire semblable, la présente Cour a examiné la jurisprudence traitant de la documentation ou de la preuve nécessaire pour conclure qu’une entente écrite a bel et bien été conclue. Dans l’affaire Ryan c. Sa Majesté la Reine, 2018 CCI 257, la Cour a fait certaines déclarations au sujet de l’ampleur des arguments qu’elle est prête à considérer, lorsqu’on veut prouver qu’un accord de séparation ou une entente de pension alimentaire a bien été conclu, quand une exécution partielle a par la suite eu lieu et qu’on s’entend toujours sur les modalités. Voici plus précisément les passages en question :
+[8] [...] Dans le contexte d’une entente, une simple confirmation de paiement avec une date d’entrée en vigueur rétrospective ne suffit pas en l’absence d’une mention précise du paiement préalable et d’une caractérisation des montants comme ayant été payés et reçus en vertu de l’entente : Nagy v. The Queen, 2003 CCI 282, aux paragraphes 6, 7 et 8.
+[9] Une entente qui doit être conclue rétroactivement ne peut pas remonter plus loin que l’année en cours ou l’année qui a précédé sa création, et même alors, l’intention des deux parties de permettre la déduction du montant pour conjoint doit être claire : Witzke c. Sa Majesté la Reine, 2008 CCI 596, aux paragraphes 7 et 16.
+[10] Toutefois, l’existence d’un accord écrit ne doit pas nécessairement reposer sur des structures formalistes; en même temps, la preuve de son existence doit être davantage que de simples chèques et reçus indiquant le paiement : Connor c. Sa Majesté la Reine, 2009 CCI 319, au paragraphe 16, renvoyant lui-même à Fortune c. Sa Majesté la Reine, 2007 CCI 20.
+[9] Malheureusement, dans le cas de M. Burton, la Cour est incapable de passer le gué. Les lettres des avocats, considérées dans leur ensemble, laissent le lecteur fréquemment songeur : où trouve-t-on, dans cet échange, une acceptation authentique des conditions de la pension alimentaire matrimoniale?
+[10] Dans ces lettres, des passages explicites appuient l’opinion voulant que l’échange n’a donné lieu à aucun accord écrit obligeant les parties. Premièrement, dans la lettre de l’avocat de M. Burton, il est clair, selon l’avant-dernier paragraphe, que la proposition présentée entièrement dans la missive ne constitue pas une offre que l’on pourrait accepter et rendre exécutoire « tant que les parties n’auront pas conclu un accord de séparation officiel ». Sur cette seule base, l’acceptation unilatérale de l’avocat de Mme Burton n’aurait pu se concrétiser en un accord écrit et exécutoire en l’absence d’un « accord de séparation officiel ». La présence de l’expression « aucun accord exécutoire » dans le dernier paragraphe de la lettre de l’avocat de M. Burton exclut en soi cette possibilité.
+[11] Deuxièmement, toutes ces réflexions sont de nature hypothétique. L’avocat de Mme Burton avait jusque-là carrément refusé au moins six autres conditions. Par ailleurs, dans ses réponses, il demandait un supplément de renseignements financiers et autres. Cela s’est vérifié non seulement dans d’autres sections de la réponse, mais aussi de façon manifeste dans au moins quatre éléments différents portant sur la pension alimentaire matrimoniale, à savoir les paragraphes 16, 18 et 19 et l’alinéa 17a).
+[12] Comme il a été dit, on a accordé à M. Burton plus de temps pour lui permettre de trouver des éléments de preuve supplémentaires de la conclusion d’une entente écrite obligeant les parties dans la période qui a suivi l’échange de lettres entre les avocats et avant le 31 décembre 2014. Il n’y a pas réussi. La Cour ne peut donc conclure qu’une entente écrite créant l’obligation de payer une pension alimentaire existait au cours de l’année d’imposition 2014 et qu’on pouvait y lier l’année d’imposition 2013 comme « année précédente » aux termes du paragraphe 60.1(2). Par conséquent, les paiements versés en 2013 n’étaient pas des paiements de pension alimentaire selon les dispositions déterminatives du paragraphe 56.1(4). Pour ces motifs, l’appel est rejeté sans dépens.
+Signé à Toronto, Canada, ce 29e jour de mars 2019.
+« R.S. Bocock »
+Le juge Bocock
+RÉFÉRENCE :
+2019 CCI 67
+NO DU DOSSIER DE LA COUR :
+2016-1091(IT)I
+INTITULÉ :
+GREGORY P. BURTON c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Kelowna (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 5 octobre 2017
+MOTIFS DU JUGEMENT :
+L’honorable juge Randall S. Bocock
+DATE DU JUGEMENT :
+Le 29 mars 2019
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Jamie Hansen
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

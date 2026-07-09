@@ -1,0 +1,152 @@
+---
+title: "Blackburn c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/24965/index.do"
+last_modified: "2006-06-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 332"
+citation2: ""
+neutral_citation: "2006 CCI 332"
+decision_date: "2006-06-09"
+language: "fr"
+item_id: "24965"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2516
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:33:15.637000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f317dd66c70b02e2f306e36909e382666641c0f1dab8e015897d2c183e3b5e7c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Blackburn c. La Reine
+
+- Citation: 2006 CCI 332
+- Decision date: 2006-06-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2516, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Blackburn c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-06-09
+Référence neutre
+2006 CCI 332
+Numéro de dossier
+2005-4249(IT)I
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-4249(IT)I
+ENTRE :
+MEICHLAND BLACKBURN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+________________________________________________________________
+Appels entendus le 6 juin 2006, à Windsor (Ontario)
+Devant : l'honorable juge Campbell J. Miller
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Gatien Fournier
+________________________________________________________________
+[TRADUCTION FRANÇAISE OFFICIELLE]
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2001 et 2002 sont rejetés.
+Signé à Ottawa, Canada, ce 9e jour de juin 2006.
+« Campbell J. Miller »
+Le juge Miller
+Traduction certifiée conforme
+ce 18e jour d'août 2006.
+Yves Bellefeuille, réviseur
+Référence : 2006CCI332
+Date : 20060609
+Dossier : 2005-4249(IT)I
+ENTRE :
+MEICHLAND BLACKBURN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Miller
+[1] Monsieur Meichland Blackburn est un ancien agent de police du service policier Niagara Regional Police Service. En 1997, il a été accusé de conduite dangereuse. En juillet 2002, il a été déclaré coupable de cette infraction. Dans ses déclarations de revenus des années 2001 et 2002, M. Blackburn a déduit des frais juridiques de 4 500 $ et de 10 500 $ respectivement relativement à cette affaire criminelle. Lors du procès, M. Blackburn a augmenté le montant de sa déduction pour frais juridiques; il a également soutenu qu'une partie de ces frais augmentés était liée aux enquêtes internes du Niagara Regional Police Service menées en vertu de la Loi sur les services policiers. J'ai conclu que M. Blackburn n'a pas été en mesure de prouver que le paiement des frais juridiques réclamés à l'origine s'était fait dans le cadre des exigences de déductibilité de l'alinéa 8(1)b) de la Loi de l'impôt sur le revenu (la « Loi »). En outre, en ce qui a trait à la déduction des frais juridiques relatifs à l'enquête menée par le Niagara Regional Police Service, M. Blackburn n'a pas apporté la preuve de leur paiement.
+Faits
+[2] En 1997, M. Blackburn était membre du Niagara Regional Police Service. En octobre 1997, on l'a accusé de conduite dangereuse (l'« affaire Cobourg »). En décembre 1997, on a retiré M. Blackburn de l'équipe de la patrouille et on l'a affecté à des tâches de bureau, sans que cela soit lié à cette accusation. Il continuait à recevoir son salaire. En 1998, M. Blackburn a également été accusé d'infractions liées à une autre affaire (l'« affaire Hamilton »).
+[3] En avril 1999, M. Blackburn a été déclaré coupable dans le cadre de l'affaire Cobourg. En août 1999, on l'a suspendu, sans salaire, du Niagara Regional Police Service. En novembre 1999, il a été condamné à 30 jours d'emprisonnement. Il a interjeté appel de cette condamnation. En juillet 2000, la condamnation a été annulée et la tenue d'un nouveau procès a été ordonnée. Monsieur Blackburn a reçu son arriéré de salaire. En 2000, il a déduit des frais juridiques relativement à cette affaire, mais l'Agence du revenu du Canada lui a refusé cette déduction. Il a fait appel de cette cotisation et, dans une décision datée du 24 février 2004, le juge Bowie a fait droit à la déduction pour la partie des frais relative à l'appel, mais pas pour la partie des frais relative au procès.
+[4] En février 2001, M. Blackburn fut acquitté des accusations portées contre lui dans l'affaire Hamilton. Au début de l'année 2002, la Couronne a fait tenir un nouveau procès pour conduite dangereuse dans le cadre de l'affaire Cobourg. Le 12 juillet 2002 ou vers cette date, la Cour a déclaré M. Blackburn coupable de cette infraction. En novembre 2002, il a été condamné à 30 jours d'emprisonnement. Il a interjeté appel de la condamnation et de la peine qui lui avait été infligée. Le 5 décembre 2002, le Niagara Regional Police Service a congédié M. Blackburn.
+[5] Ces affaires ont sapé les forces de M. Blackburn car, de septembre 1998 à juillet 2002, il a travaillé à mi-temps, comme la convention collective le lui permettait, en alléguant que son état de santé ne lui permettait pas de travailler à temps plein. En juillet 2002, M. Blackburn a fourni au Niagara Regional Police Service un certificat médical indiquant que son état de santé était déficient. Peu de temps après cela, également en juillet 2002, peu avant qu'il ne soit déclaré coupable dans l'affaire Cobourg, le Niagara Regional Police Service a mis M. Blackburn en congé de maladie, sans paye.
+[6] Parallèlement aux affaires criminelles, le Niagara Regional Police Service menait sa propre enquête disciplinaire en vertu de la Loi sur les services policiers. Monsieur Blackburn soutient qu'on cherchait à le congédier en se servant de cette procédure.
+[7] Pour justifier sa déduction de frais juridiques en 2001, M. Blackburn a fourni :
+(i) une lettre du cabinet d'avocats Pinkofsky qui confirme les paiements de 2 725 $ en janvier 2001 et de 275 $ en mars 2001;
+(ii) une lettre de Me Donald McLeod qui confirme le paiement de 4 000 $ pour [TRADUCTION] « préparer le procès et y plaider »;
+(iii) le témoignage oral du paiement de 3 000 $ à Me Osier pour qu'il représente l'appelant dans l'affaire Hamilton;
+(iv) le témoignage oral du paiement de 2 500 $ à Me Guiste pour qu'il représente l'appelant dans l'affaire relative à l'enquête de police interne menée en vertu de la Loi sur les services policiers.
+[8] Pour justifier sa déduction de frais juridiques de 2002, M. Blackburn a fourni :
+(i) une lettre du cabinet d'avocats Pinkofsky qui confirme le paiement de 3 000 $ en novembre 2002 pour des conseils et la demande de mise en liberté sous caution, et aussi le paiement d'un acompte de 6 420 $ en décembre 2002, qui a été affecté à des factures présentées en 2003;
+(ii) le témoignage oral du paiement de 5 000 $ à Me Guiste en 2002 pour qu'il représente l'appelant dans les accusations relatives à l'enquête de police interne menée en vertu de la Loi sur les services policiers.
+Analyse
+[9] L'alinéa 8(1)b) de la Loi de l'impôt sur le revenu est la disposition pertinente en la matière et il est libellé comme suit :
+8(1) Sont déductibles dans le calcul du revenu d'un contribuable tiré, pour une année d'imposition, d'une charge ou d'un emploi ceux des éléments suivants qui se rapportent entièrement à cette source de revenus, ou la partie des éléments suivants qu'il est raisonnable de considérer comme s'y rapportant :
+[…]
+b) les sommes payées par le contribuable au cours de l'année au titre des frais judiciaires ou extrajudiciaires qu'il a engagés pour recouvrer le traitement ou salaire qui lui est dû par son employeur ou ancien employeur ou pour établir un droit à ceux-ci;
+Il est utile de réexaminer la décision du juge Bowie portant sur l'année d'imposition 2000 de M. Blackburn. En se basant sur la décision de la Cour d'appel fédérale dans la cause Blagdon c. Canada[1], le juge Bowie a conclu que, comme aucun salaire n'était dû à M. Blackburn au moment du procès, la demande de déduction des frais juridiques en vertu de l'alinéa 8(1)b) devait donc être rejetée. Toutefois, en ce qui a trait aux frais d'appel, le juge Bowie est parvenu à la conclusion suivante[2] :
+[7] Cependant, la nature des honoraires versés à l'avocat engagé pour l'appel est d'un autre ordre. Après le prononcé de la peine, l'appelant a perdu un revenu précisément à cause de la peine. La seule solution était de faire annuler la condamnation et la peine, ce qu'il a fait. Il a ainsi récupéré automatiquement le salaire qu'il avait perdu. Il n'y a pas eu d'audience et nul besoin d'en tenir une en vertu de la Loi sur les services policiers. L'annulation de la condamnation a eu pour effet d'établir un droit au traitement ou au salaire qui lui était dû.
+[8] Il peut sembler facile de penser que le raisonnement dans la cause Blagdon s'applique aussi aux honoraires payés pour l'appel. Aucun arriéré de salaire n'était « dû » à M. Blackburn jusqu'à ce qu'il gagne son appel et que sa condamnation soit annulée. Cependant, en lisant dans son contexte toute l'expression « pour établir un droit » au « traitement ou salaire qui lui était dû », on doit comprendre qu'elle couvre les situations dans lesquelles le traitement ou le salaire devient dû au contribuable à cause du litige (ou autres services juridiques) qui a donné lieu aux frais. Établir un droit, c'est lui donner une existence; or, si le salaire était dû avant la prestation des services juridiques, on ne peut pas dire que ce sont les services qui ont donné naissance au droit. Sur le plan grammatical, le membre de phrase doit inclure l'application du droit existant au traitement et au salaire dû, et aussi établir ce droit au traitement ou au salaire (lui donner une existence), qui devient alors dû au contribuable. Dans la présente cause, l'appel a eu pour effet d'établir ce droit au salaire. Donc, les honoraires rattachés à l'appel tombent sous la définition de la déduction admissible.
+[10] Monsieur Blackburn allègue qu'en se fondant sur la décision Blagdon en tant que précédent jurisprudentiel, le juge Bowie n'a pas établi de distinction entre un fonctionnaire tel qu'un agent de police et les autres employés tels que M. Blagdon. Selon M. Blackburn, les agents de police sont dans une situation particulière; en effet, leur salaire fait l'objet d'une protection légale, de sorte qu'ils ne perdent pas leur salaire lorsqu'ils sont confrontés à des accusations criminelles. Monsieur Blackburn ne m'a pas convaincu que la différence a un quelconque effet sur l'application de l'alinéa 8(1)b) de la Loi. Si M. Blackburn continue à recevoir son salaire, quelle qu'en soit la raison, l'alinéa 8(1)b) ne s'applique pas. En 2001, M. Blackburn a continué à recevoir son salaire de policier pendant toute l'année. Aucuns frais liés à l'affaire criminelle n'ont été engagés pour faire valoir son droit existant au salaire, puisqu'il continuait à recevoir son salaire. Parallèlement, aucuns frais de cette nature n'ont été engagés pour donner une existence au droit à un salaire : il avait ce droit et il l'exerçait.
+[11] En ce qui a trait aux honoraires que M. Blackburn prétend avoir payés à Me Guiste en 2001 relativement à l'enquête interne menée en vertu de la Loi sur les services policiers, l'appelant n'a apporté aucune preuve pour étayer ses allégations qu'il a versé 2 500 $ à Me Guiste, ni pour démontrer que ce paiement a été effectué en raison de cette enquête. Même si M. Blackburn avait été en mesure de prouver ce paiement, il aurait fait face au même dilemme qu'en ce qui concerne les honoraires liés à l'affaire criminelle, puisqu'en 2001 son salaire lui a été versé. Est-ce que le champ d'application de l'alinéa 8(1)b) recouvre des honoraires payés à un avocat pour qu'il représente son client dans le cadre d'accusations internes pouvant mener à un congédiement? Si on adopte le raisonnement du juge Bowie, ce ne serait pas le cas. Contrairement à l'aboutissement de l'appel, qui a donné à M. Blackburn le droit au paiement de son arriéré de salaire, c'est‑à‑dire à un montant qui lui était dû, un aboutissement favorable dans le cadre de l'enquête de police interne aurait permis à M. Blackburn de conserver son emploi et lui aurait donné droit à un salaire à l'avenir. Je dis ceci de façon incidente seulement, parce que j'ai conclu qu'il n'est pas prouvé qu'un tel paiement a été versé à Me Guiste pour ce travail.
+[12] J'examine maintenant l'année 2002. En 2002, M. Blackburn n'a pas reçu de salaire du Niagara Regional Police Service de la mi‑juillet jusqu'à son congédiement en décembre. Toutefois, cela n'était pas dû à la condamnation criminelle, mais au fait qu'on l'avait mis en congé de maladie, sans solde, peu avant la condamnation. Bien que M. Blackburn ait suggéré que je pourrais peut-être tirer la conclusion que le Niagara Regional Police Service avait en fait prévu la condamnation et que c'est cela qui avait en réalité motivé la suspension de sa paye, je ne suis pas prêt à tirer une telle conclusion sans avoir plus de preuve. Il résulte de cette conclusion que les frais juridiques engagés par M. Blackburn pour interjeter appel de sa condamnation criminelle ne permettraient pas d'établir un droit à un tel salaire, comme cela fut le cas dans la décision rendue par le juge Bowie. Toutefois, je n'ai pas besoin de me fonder sur ce raisonnement-là, car en analysant les honoraires déduits par M. Blackburn en 2002, il est évident que le paiement de 3 000 $ effectué au cabinet Pinkofsky n'était pas lié à un appel, mais plutôt à la demande de mise en liberté sous caution. Il est également évident que le montant de 6 240 $ payé au cabinet Pinkofsky en 2002 était un acompte et que ce n'est qu'en 2003 que ce montant a été affecté au paiement de factures. Enfin, M. Blackburn n'a pas prouvé qu'il avait payé 5 000 $ à Me Guiste pour le travail effectué relativement à la Loi sur les services policiers.
+[13] Pour ces raisons, M. Blackburn n'a pas été en mesure d'établir la déductibilité des frais juridiques en vertu de l'alinéa 8(1)b) de la Loi en 2001 ou en 2002 et ses appels sont donc rejetés.
+Signé à Ottawa, Canada, ce 9e jour de juin 2006.
+« Campbell J. Miller »
+Le juge Miller
+Traduction certifiée conforme
+ce 18e jour d'août 2006.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2006CCI332
+NUMÉRO DU DOSSIER DE LA COUR : 2005-4249(IT)I
+INTITULÉ DE LA CAUSE : Meichland Blackburn et Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Windsor (Ontario)
+DATE DE L'AUDIENCE : le 6 juin 2006
+MOTIFS DU JUGEMENT PAR : l'honorable juge Campbell J. Miller
+DATE DU JUGEMENT : le 9 juin 2006
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Gatien Fournier
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom : s.o.
+Étude : s.o.
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 2003 D.T.C. 5491, n° A-132-02, 9 juin 2003, 2003 CAF 269
+[2] 2004 D.T.C. 2409 à la page 2411, n° 2002-2250(IT)I, 24 février 2004.

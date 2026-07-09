@@ -1,0 +1,312 @@
+---
+title: "Tomyk c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30373/index.do"
+last_modified: "2011-05-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 283"
+citation2: ""
+neutral_citation: "2011 CCI 283"
+decision_date: "2011-05-31"
+language: "fr"
+item_id: "30373"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7891
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:50:40.208000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6079c897ed651157ed7a3d0e004de670dd3f1693c1e4f6a004c0a49ae47f12a2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Tomyk c. M.R.N.
+
+- Citation: 2011 CCI 283
+- Decision date: 2011-05-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7891, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tomyk c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-05-31
+Référence neutre
+2011 CCI 283
+Numéro de dossier
+2010-3834(EI)
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2010-3834(EI)
+ENTRE :
+GREG TOMYK,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 3 mai 2011 à Vancouver (Colombie‑Britannique).
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Jonathan Wittig
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la décision du ministre du Revenu national rendue le 3 novembre 2010 est accueilli, et la décision est modifiée afin de tenir compte du fait que l’appelant avait accumulé 632 heures d’emploi assurable pour l’application de la Loi sur l’assurance‑emploi pendant la période du 2 novembre 2009 au 19 février 2010.
+Signé à Halifax (Nouvelle-Écosse), ce 31e jour de mai 2011.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 18e jour de juillet 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+Référence : 2011 CCI 283
+Date : 20110531
+Dossier : 2010-3834(EI)
+ENTRE :
+GREG TOMYK,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] La question en litige porte sur le nombre d’heures d’emploi assurable de l’appelant pour l’application de la Loi sur l’assurance‑emploi (la « LAE ») pendant la période du 2 novembre 2009 au 19 novembre 2010.
+[2] L’appelant était employé par Natureland Products Ltd., une société de production et de commercialisation de boissons biologiques. L’appelant a commencé à travailler le 2 novembre 2009 et a été congédié le 19 février 2010. Le contrat de travail que l’appelant avait signé stipulait ce qui suit :
+[traduction]
+[v]os heures de travail seront de 9 h à 17 h.
+[3] Le contrat de travail stipulait également ce qui suit :
+[traduction]
+3. Votre rémunération et vos prestations sont constituées notamment par :
+a) Un salaire annuel fixe d’au moins 35 000 $, qui est sujet à une révision annuelle. Le salaire sera payable par versements bimensuels.
+[4] L’ appelant a établi le nombre de ses heures d’emploi assurable de la manière suivante :
+8 heures / jour x 5 jours / semaine x 16 semaines = 640 heures
+[5] Dans la réponse, il est déclaré que l’employeur a établi que le nombre d’heures travaillées par l’appelant était de 7,5 heures par jour, que l’appelant n’avait pas été rémunéré pour le congé du 11 novembre (étant donné que l’appelant n’avait pas encore travaillé pendant 30 jours à ce moment‑là) et qu’il n’avait pas été rémunéré pour 3,75 heures le 10 janvier 2010 (ce jour‑là, l’appelant était rentré à la maison parce qu’il était malade). Le nombre d’heures d’emploi assurable établi par l’employeur était donc de 588.75[1], ce qui signifierait, compte tenu des dispositions de l’alinéa 10.2b) du Règlement sur l’assurance‑emploi (le « Règlement »), que le nombre d’heures assurables serait de 589 heures.
+[6] Le nombre d’heures d’emploi assurable est pertinent pour l’application de l’article 7 de la LAE afin d’établir si une personne donnée est admissible aux prestations au titre de la LAE, et pour l’application de l’article 12 de la LAE pour déterminer le nombre maximal de semaines pendant lesquelles des prestations peuvent être versées. Dans chaque cas, le nombre d’heures assurables exigé dépendra du taux régional de chômage. Aucune des deux parties n’a expliqué pourquoi le nombre d’heures était important ni quel était le nombre d’heures pertinent en l’espèce.
+[7] L’article 55 de la LAE prévoit ce qui suit :
+55 (1) La Commission peut, avec l’agrément du gouverneur en conseil, prendre des règlements concernant l’établissement du nombre d’heures d’emploi assurable d’une personne et, notamment, prévoyant que les personnes dont la rémunération est versée sur une base autre que l’heure sont réputées avoir le nombre d’heures d’emploi assurable établi conformément aux règlements.
+[8] Les articles 10 et 10.1 du Règlement prévoient ce qui suit :
+10 (1) Lorsque la rémunération d’une personne est versée sur une base autre que l’heure et que l’employeur fournit la preuve du nombre d’heures effectivement travaillées par elle au cours de la période d’emploi et pour lesquelles elle a été rétribuée, celle-ci est réputée avoir travaillé ce nombre d’heures d’emploi assurable.
+(2) Sauf dans les cas où le paragraphe (1) et l’article 9.1 s’appliquent, si l’employeur ne peut établir avec certitude le nombre d’heures de travail effectivement accomplies par un travailleur ou un groupe de travailleurs et pour lesquelles ils ont été remunérés, l’employeur et le travailleur ou le groupe de travailleurs peuvent, sous réserve du paragraphe (3) et si cela est raisonnable dans les circonstances, décider de concert que ce nombre est égal au nombre correspondant normalement à la rémunération visée au paragraphe (1), auquel cas chaque travailleur est réputé avoir travaillé ce nombre d’heures d’emploi assurable.
+(3) Lorsque le nombre d’heures convenu par l’employeur et le travailleur ou le groupe de travailleurs conformément au paragraphe (2) n’est pas raisonnable ou qu’ils ne parviennent pas à une entente, chaque travailleur est réputé avoir travaillé le nombre d’heures d’emploi assurable établi par le ministre du Revenu national d’après l’examen des conditions d’emploi et la comparaison avec le nombre d’heures de travail normalement accomplies par les travailleurs s’acquittant de tâches ou de fonctions analogues dans des professions ou des secteurs d’activité similaires.
+(4) Sauf dans les cas où le paragraphe (1) et l’article 9.1 s’appliquent, lorsque l’employeur ne peut établir avec certitude ni ne connaît le nombre réel d’heures d’emploi assurable accumulées par une personne pendant sa période d’emploi, la personne est réputée, sous réserve du paragraphe (5), avoir travaillé au cours de la période d’emploi le nombre d’heures d’emploi assurable obtenu par division de la rémunération totale pour cette période par le salaire minimum, en vigueur au 1er janvier de l’année dans laquelle la rémunération était payable, dans la province où le travail a été accompli.
+(5) En l’absence de preuve des heures travaillées en temps supplémentaire ou en surplus de l’horaire régulier, le nombre maximum d’heures d’emploi assurable qu’une personne est réputée avoir travaillées d’après le calcul prévu au paragraphe (4) est de 7 heures par jour sans dépasser 35 heures par semaine.
+(6) Les paragraphes (1) à (5) s’appliquent sous réserve de l’article 10.1.
+10.01 (1) Si, aux termes de son contrat de travail, une personne est tenue par son employeur de demeurer disponible pendant une certaine période de temps dans l’éventualité où ses services seraient requis, les heures comprises dans cette période sont réputées être des heures d’emploi assurable si la personne est payée pour ces heures à un taux de rémunération équivalent ou supérieur au taux qu’elle aurait touché si elle avait effectivement travaillé durant cette période.
+(2) Malgré le paragraphe (1), si, aux termes du contrat de travail, l’employeur exige d’une personne qu’elle soit présente sur les lieux de travail en attendant que ses services soient requis, ces heures d’attente sont réputées être des heures d’emploi assurable si elles sont rémunérées.
+10.1 (1) Lorsqu’un assuré est rétribué par l’employeur pour une période de congé payé, il est réputé avoir exercé un emploi assurable pendant le nombre d’heures qu’il aurait normalement travaillées et pour lesquelles il aurait normalement été rétribué durant cette période.
+(2) Lorsqu’un assuré est rétribué par l’employeur pour une période de congé par un paiement forfaitaire déterminé sans égard à la durée de la période, il est réputé avoir exercé un emploi assurable pendant le moins élevé des nombres d’heures suivants :
+a) le nombre d’heures qu’il aurait normalement travaillées et pour lesquelles il aurait normalement été rétribué durant cette période;
+b) le nombre d’heures obtenu par division du montant du paiement forfaitaire par le taux normal de salaire horaire.
+(3) Lorsqu’un assuré est rétribué par l’employeur pour un jour non ouvrable, il est réputé avoir exercé un emploi assurable pendant le nombre d’heures suivant :
+a) s’il travaille ce jour-là, le plus élevé du nombre d’heures travaillées ce jour-là ou du nombre d’heures qu’il aurait normalement travaillées ce jour-là;
+b) s’il ne travaille pas ce jour-là, le nombre d’heures qu’il aurait normalement travaillées ce jour-là.
+[9] L’appelant n’a pas mentionné ces dispositions, mais a plutôt produit des extraits du site Web de Service Canada. La question concernant le nombre d’heures assurables qu’une personne a travaillé sera tranchée conformément aux dispositions de la LAE et du Règlement, et non selon le site Web de Service Canada. Plus précisément, le paragraphe 10(1) du Règlement prévoit que lorsque la rémunération d’un employé est versée sur une base autre que l’heure, l’employé est réputé avoir travaillé le nombre d’heures qu’il a effectivement travaillées et pour lesquelles il a été rétribué, à condition que l’employeur fournisse la preuve d’un tel nombre d’heures travaillées.
+[10] Par lettre datée du 30 avril 2010, de l’Agence du revenu du Canada (l’« ARC »), l’appelant a reçu une décision qui disposait notamment ce qui suit :
+[traduction]
+En vertu du paragraphe 10(2) du Règlement sur l’assurance‑emploi, nous avons établi vos heures assurables à 589 pour la période visée.
+[11] Le paragraphe 10(2) du Règlement est ainsi libellé:
+(2) Sauf dans les cas où le paragraphe (1) et l’article 9.1 s’appliquent, si l’employeur ne peut établir avec certitude le nombre d’heures de travail effectivement accomplies par un travailleur ou un groupe de travailleurs et pour lesquelles ils ont été remunérés, l’employeur et le travailleur ou le groupe de travailleurs peuvent, sous réserve du paragraphe (3) et si cela est raisonnable dans les circonstances, décider de concert que ce nombre est égal au nombre correspondant normalement à la rémunération visée au paragraphe (1), auquel cas chaque travailleur est réputé avoir travaillé ce nombre d’heures d’emploi assurable.
+[Non souligné dans l’original.]
+[12] Il semble évident qu’il n’y a pas eu d’entente entre l’employeur et l’appelant relativement au nombre d’heures, et, par conséquent, il ne semble exister aucun fondement qui justifie qu’une décision ait été prise en vertu du paragraphe 10(2) du Règlement. Aucune explication n’a été fournie concernant ce renvoi au paragraphe 10(2) du Règlement.
+[13] L’appelant a porté cette décision en appel en vertu de l’article 91 de la LAE. La décision du ministre du Revenu national (le « ministre ») était contenue dans une lettre de l’ARC datée du 3 novembre 2010. Dans cette lettre, il est déclaré en partie ce qui suit :
+[traduction]
+À la suite d’un examen exhaustif et impartial de tous les renseignements concernant l’appel, il a été établi que vous aviez accumulé 589 heures d’emploi assurable pour la période en question.
+La présente décision vous est communiquée en application du paragraphe 93(3) de la Loi sur l’assurance‑emploi, et est fondée sur le paragraphe 10(2) du Règlement sur l’assurance‑emploi.
+[14] Étant donné que l’appelant portait la décision en appel relativement au nombre d’heures d’emploi assurable qu’il avait accumulées, il aurait dû être évident qu’il n’y avait pas eu d’entente entre l’employeur et l’appelant quant au nombre d’heures. Toutefois, il est clairement précisé dans la lettre que la décision est fondée sur le paragraphe 10(2) du Règlement. Il n’existe aucun fondement qui justifie qu’une décision ait été prise en vertu du paragraphe 10(2) du Règlement.
+[15] Dans la réponse, il est encore une fois fait mention du paragraphe 10(2) du Règlement comme étant l’une des deux dispositions du Règlement sur lesquelles se fonde l’intimé. L’unique autre disposition du Règlement contenue dans le passage qui mentionne les dispositions législatives invoquées est le paragraphe 10(1) du Règlement.
+[16] Étant donné que, manifestement, il n’y a pas eu d’entente entre l’appelant et son employeur à l’égard du nombre d’heures, il n’y a pas lieu, en l’espèce, d’établir le nombre d’heures en vertu du paragraphe 10(2) du Règlement.
+[17] L’intimé a également invoqué le paragraphe 10(1) du Règlement dans la réponse. Cette disposition prévoit ce qui suit :
+10 (1) Lorsque la rémunération d’une personne est versée sur une base autre que l’heure et que l’employeur fournit la preuve du nombre d’heures effectivement travaillées par elle au cours de la période d’emploi et pour lesquelles elle a été rétribuée, celle-ci est réputée avoir travaillé ce nombre d’heures d’emploi assurable.
+[Non souligné dans l’original.]
+[18] En l’espèce, il est évident que la rémunération de l’appelant a été versée sur une base autre que l’heure. Il était stipulé dans l’entente que l’appelant devait recevoir un salaire annuel, et, Barry Seims, qui était le comptable de l’employeur, a déclaré ce qui suit lors de son contre‑interrogatoire :
+[traduction]
+Q Ainsi, vous êtes d’accord pour dire que je n’étais pas un employé rémunéré à l’heure?
+R Non, vous étiez rémunéré sur une base annuelle, votre rémunération était versée sur une base bimensuelle.
+Q J’étais donc un employé à salaire fixe?
+R Oui.
+[19] Pour se prévaloir du paragraphe 10(1) du Règlement afin d’établir le nombre d’heures assurables travaillées par l’appelant, l’employeur doit fournir une preuve. Il s’agit ici, en ce qui concerne l’établissement du nombre d’heures, d’un fondement différent de celui invoqué dans la décision de l’ARC et dans celle du ministre. Il me semble qu’en l’espèce, la preuve qui serait exigée du ministre doit être une preuve présentée à l’audience. Étant donné que le fardeau de la preuve incombe à l’employeur, il me semble que l’intimé ne peut pas satisfaire à cette exigence en émettant simplement des hypothèses de fait dans la réponse. L’employeur devra fournir une preuve à l’audience pour établir le nombre réel d’heures travaillées.
+[20] Une des raisons pour lesquelles il existe une différence entre le nombre d’heures établi par l’employeur et celui établi par l’appelant réside dans le fait que ce dernier a utilisé 8 heures par jour comme nombre d’heures travaillées alors que l’employeur a utilisé 7,5 heures par jour, la différence d’une demi‑heure représentant la pause déjeuner.
+[21] Les deux parties on invoqué l’article 32 de la Employment Standards Act (Colombie‑Britannique) qui prévoit ce qui suit:
+[traduction]
+32 (1) L’employeur veille à ce que :
+a) nul employé ne travaille pendant plus de cinq heures consécutives sans avoir de pause‑repas;
+b) chaque pause‑repas dure au moins une demi‑heure.
+(2) L’employeur qui exige qu’un employé travaille ou soit disponible pour travailler pendant une pause‑repas est tenu de considérer la pause‑repas comme du temps travaillé par l’employé.
+[22] L’appelant a affirmé qu’il devait être disponible pour travailler pendant ses pauses déjeuner. Lors du contre‑interrogatoire, l’appelant a déclaré ce qui suit :
+[traduction]
+Q D’accord. Vous déclarez à présent que vous travailliez pendant votre pause déjeuner.
+R Je déclare – Je déclare que nous étions – nous travaillions pendant notre pause déjeuner et nos périodes de repos. Les trente minutes n’étaient pas prises en dehors du travail. Vous étiez à votre bureau et vous deviez répondre au téléphone. Si quelqu’un avait besoin de quelque chose, vous deviez mettre votre sandwich de côté.
+Q Et pouviez‑vous récupérer ce temps plus tard, si vous étiez – si vous étiez à votre bureau et que le téléphone sonnait, est-ce que vous pouviez prendre votre déjeuner plus tard dans la journée?
+R Je ne pense pas.
+Q Vous ne le pensez pas. N’avez-vous jamais posé de questions à ce sujet?
+R L’employeur l’aurait en quelque sorte vu d’un mauvais oeil.
+Q L’employeur le voyait d’un mauvais oeil.
+R Oui.
+Q Et –
+R L’employeur voyait d’un mauvais oeil que nous prenions notre repas dans la cuisine.
+[23] Le seul témoin appelé par l’intimé est Barry Seims, un comptable agréé. L’employeur de l’appelant était son client et, en plus des services comptables qu’il fournissait à l’employeur, il s’occupait aussi de certaines questions ayant trait aux ressources humaines. En ce qui concerne la question de savoir si l’appelant bénéficiait d’une pause déjeuner, les propos suivants ont été échangés lors de son interrogatoire principal :
+[traduction]
+Q À la première page, au point 2, le contrat stipule ce qui suit :
+[traduction]
+« Vos heures de travail seront de 9 h à 17 h. En outre, pendant ces heures, vous devez consacrer cent pour cent de votre temps de travail et de votre attention personnelle à l’exécution des tâches susmentionnées, »
+et cetera.
+Pourriez‑vous expliquer à la Cour ce que cela signifie?
+R Eh bien, ce que nous essayions d’obtenir en prévoyant cela dans le contrat, c’était que la personne ne travaille pas pour quelqu’un d’autre, ou fasse le travail de quelqu’un d’autre – qu’elle ait un deuxième emploi en même temps qu’elle travaillait pour la société.
+Q Quelle est votre interprétation de l’expression « heures de travail »?
+R Eh bien, nous avions la période standard de 9 h à 17 h pour cet employé et c’était son – il était tenu de se présenter au travail à 9 h le matin, et de partir à 17 h à la fin de la journée.
+Q Le contrat ne prévoit pas de pause déjeuner.
+R Mm-hmm.
+Q Est‑ce que M. Tomyk avait une pause déjeuner?
+R Oui, tout le monde dans la société prenait une pause déjeuner. C’était à un moment ou à un autre de la journée. Nous suivions les règles du code du travail selon lesquelles vous devez accorder à une personne une pause déjeuner d’une demi‑heure chaque jour.
+Q Vous dites à présent que chacun prenait une pause à un moment ou à un autre.
+R Oui. Oui.
+Q Y avait‑il-- est‑ce que le moment de prendre le repas variait pour les gens?
+R Oui, ce n’est pas une grande société et elle ne compte pas beaucoup de gens, alors il fallait une certaine flexibilité, et cela semblait aussi convenir aux gens – si une personne devait travailler de 12 h à 13 h, elle prenait sa pause déjeuner plus tard dans la journée, quelques fois aussi tard que 14 h. Mais tout le monde avait une pause déjeuner.
+Q Et était-il stipulé qu’il s’agissait d’une pause déjeuner non rémunérée?
+R Je ne pense pas en fait l’avoir exprimé de cette façon, à l’exception du fait que les bulletins de paie, je pense, montrent le nombre d’heures rémunérées. Il ressortait bien clairement du bulletin de paie le nombre d’heures pour lesquelles chaque employé était rémunéré.
+Q Et cette politique concernant la pause déjeuner, est-ce qu’elle était exprimée quelque part par écrit, si elle ne l’est pas dans ce document?
+R Il y avait des notes de service qui avaient été communiquées au fil des ans, qui expliquaient la politique de la société en matière de pauses déjeuner et de temps additionnel passé au travail.
+Q Et M. Tomyk aurait reçu ces notes de service?
+R Oui, il devrait avoir reçu des copies de ces notes de service dans son guide de l’emploi.
+Q Guide de l’emploi. Quand est‑ce qu’un guide de l’emploi lui aurait été remis?
+R Il lui aurait été remis le premier jour de son emploi auprès de la société.
+Q Est‑ce que ce guide est remis à chaque employé?
+R Oui.
+Q Toutes les conditions d’emploi ne sont donc pas contenues dans ce document?
+R Non, il y a bien d’autres questions qui ne sont pas abordées ici. Le moment de prendre des vacances, par exemple, et d’autres questions comme celle‑là. Qu’en est‑il si vous devez travailler pendant un week-end ou un soir, ou lors d’un événement spécial, en particulier en tant que vendeur, et comment prendre un congé à la place si vous avez consacré du temps additionnel à un événement. Ce genre de questions ne sont pas vraiement abordées ici dans ce contrat.
+Q Mais ces questions seraient abordées dans le guide de l’emploi?
+R Oui, elles devraient l’être.
+[24] Aucun guide de l’emploi n’a été produit en preuve. Dans l’ouvrage intitulé Law of Evidence in Canada, troisième édition, dont sont coauteurs les juges Lederman, Bryant et Fuerst de la Cour supérieure de justice de l’Ontario, il est déclaré ce qui suit, à la page 377 :
+[traduction]
+§6.449 Dans les affaires civiles, il est possible de tirer une déduction défavorable lorsque, en l’absence d’explication, une partie à un litige ne témoigne pas ou omet de fournir une preuve par affidavit dans le cadre d’une demande ou omet de convoquer un témoin qui a connaissance des faits en litige et devrait être disposé à aider cette partie. De la même façon, il est possible de tirer une déduction défavorable à une partie lorsque celle-ci ne convoque pas un témoin important sur lequel elle exerce un contrôle exclusif et ne fournit aucune explication à ce sujet. Une telle omission constitue une admission implicite que le témoignage du témoin absent serait contraire à la partie en cause ou du moins ne la favoriserait pas*.
+§6.450 Une déduction défavorable devrait être tirée seulement après l’établissement d’une preuve prima facie par la partie sur laquelle repose le fardeau de la preuve*.
+(*indique un renvoi à une note de bas de page qui se trouve dans le texte original, mais qui n’a pas été inclus.)
+[25] Il me semble que la situation décrite ci‑dessus peut aussi s’appliquer à un défaut de production d’un document sur lequel un témoin appelé par une partie exerce le contrôle. Comme il a été déjà souligné, en application du paragraphe 10(1) du Règlement, la question est de savoir le nombre d’heures établies en fonction de la preuve fournie par l’employeur. Il me semble qu’il est possible de tirer une déduction défavorable du défaut de l’employeur de fournir une copie du guide de l’emploi, alors que la disposition particulière du Règlement sur laquelle l’intimé se fonde exige que l’employeur fournisse une preuve. La déduction défavorable que je tire est que le guide de l’emploi exigerait des travailleurs (y compris l’appelant) qu’ils demeurent sur les lieux de travail pendant leur pause déjeuner, et qu’ils soient disponibles pour travailler durant cette pause.
+[26] Le paragraphe 10.01(2) du Règlement prévoit ce qui suit :
+(2) Malgré le paragraphe (1), si, aux termes du contrat de travail, l’employeur exige d’une personne qu’elle soit présente sur les lieux de travail en attendant que ses services soient requis, ces heures d’attente sont réputées être des heures d’emploi assurable si elles sont rémunérées.
+[27] L’appelant recevait un salaire annuel de 35 000 $, et, par conséquent, il était rémunéré pour tout le temps où sa présence sur les lieux de travail était exigée. Il me semble que l’appelant devait être présent sur les lieux de travail chaque jour de 9 h à 17 h. Ainsi que l’a déclaré M. Seims :
+[traduction]
+il était tenu de se présenter au travail à 9 h le matin, et de partir à 17 h à la fin de la journée.
+[28] L’appelant était donc rémunéré pour les pauses déjeuner et, par suite de la déduction défavorable que j’ai tirée, il était tenu d’être présent sur les lieux de travail pendant ces pauses en attendant que ses services soient requis.
+[29] Il convient aussi de noter qu’on n’a pas posé à M. Seims la question de savoir si l’appelant était tenu d’être présent sur les lieux de travail pendant ses pauses déjeuner en attendant que ses services soient requis pendant de telles périodes. Toujours au cours du contre‑interrogatoire, M. Barry Seims a déclaré ce qui suit :
+[traduction]
+Q Et vous avez mentionné le fait que les gens prenaient des pauses déjeuner au travail?
+R Oui.
+Q Où avez‑vous vu ces gens prendre leurs pauses déjeuner?
+R Je venais souvent au bureau plus tard en après‑midi. Je n’arrivais habituellement au bureau que dans l’après‑midi, mais, souvent, à mon arrivée, d’autres employés n’étaient pas au bureau, et quand je demandais où ils étaient, on me répondait qu’ils prenaient la pause déjeuner.
+Q Avez-vous déjà vu des employés prendre leur repas dans leur bureau?
+R Je pense que j’en ai vu quelques-uns, oui.
+[30] Étant donné qu’il a vu des personnes prendre leur repas dans leur bureau, cela donne à penser qu’il était exigé des employés qu’ils soient présents sur les lieux de travail en attendant que leurs services soient requis pendant les pauses déjeuner. De même, Barry Seims était un comptable externe qui, comme il l’a déclaré, n’arrivait sur les lieux de travail qu’en après‑midi. L’employeur n’a pas établi le fait qu’il n’aurait pas été exigé de l’appelant qu’il reste sur les lieux de travail en attendant que ses services soient requis pendant les pauses déjeuner. Il aurait fallu inclure dans le nombre d’heures assurables le temps consacré aux pauses déjeuner (une demi‑heure par jour).
+[31] Les deux autres questions en litige, selon la réponse, portent sur le congé du 11 novembre et sur un moment où, comme il est déclaré dans la réponse, l’appelant est rentré à la maison parce qu’il était malade. L’unique élément de preuve présenté relativement à ces questions était une copie de ce qui semble être des bulletins de paie. Un des bulletins de paie mentionne que la période de paie va du 31 octobre 2009 au 13 novembre 2009 et que les heures sont au nombre de 67,50. Un autre bulletin de paie est pour la période du 12 décembre 2009 jusqu’à une date illisible en 2010. Il est mentionné sur ce bulletin un nombre d’heures de 71,25. Les autres bulletins font état de 75 heures.
+[32] Voici l’explication fournie par Barry Seims relativement au nombre d’heures :
+[traduction]
+Q Pouvez‑vous expliquer à la Cour les heures consignées et le taux horaire?
+R Eh bien, ce qui se passait, c’est que Mary‑anna prenait le contrat que j’avais préparé, qui faisait état du salaire annuel, et divisait le salaire annuel par le nombre d’heures pour obtenir le taux horaire, et le consignait alors comme tel pour la liste de paie, le système de gestion de la paie de Ceridian, qui est une entreprise externe qui offre des services de paie.
+[33] La seule explication du changement d’heures concernant les deux bulletins de paie se trouve dans la réponse. Au paragraphe 6 de la réponse, il est déclaré ce qui suit :
+[traduction]
+6. Pour établir que l’appelant avait accumulé 589 heures d’emploi assurable auprès du payeur pendant la période, le ministre s’est fondé sur les hypothèses de fait suivantes :
+[…]
+t) l’appelant n’a pas été rémunéré pour le 11 novembre 2009 parce qu’il avait travaillé pour le payeur pendant moins de 30 jours;
+u) l’appelant n’a pas été rémunéré pour 3,75 heures pour la période de paie se terminant le 10 janvier 2010, étant donné que, pendant cette période de paie, il était rentré à la maison au cours d’une journée parce qu’il était malade.
+[34] Comme il a été déjà mentionné, pour établir le nombre d’heures en vertu du paragraphe 10(1) du Règlement, l’employeur doit fournir des éléments de preuve. Ces déclarations contenues au paragraphe 6 de la réponse ne constituent pas des éléments de preuve. Les seules questions qui ont été posées à l’un et l’autre des témoins relativement à ces deux points étaient les suivantes, et elles ont été posées au cours du contre‑interrogatoire de l’appelant :
+[traduction]
+Q D’accord. Monsieur le juge a fait observer plus tôt qu’il y avait une différence dans le calcul, qu’il subsistait un écart entre le nombre d’heures, 600 contre 589. Si vous regardez dans la réponse, il est énoncé que vous n’avez pas été rémunéré pour les jours fériés, parce que vous étiez encore en période d’essai. Est‑ce exact?
+R Où est‑ce que vous êtes rendu?
+Q Je suis au point o) de la réponse. Je vais revérifier ici. Je m’excuse. Il s’agit du point t) à la page 4.
+R Un employé horaire ne serait pas rémunéré pour un congé férié.
+Q D’accord, c’est donc cela votre réponse, simplement qu’un employé horaire –
+R Je suis un employé salarié.
+Q Il n’est pas contesté que vous étiez un employé salarié.
+R D’accord.
+[35] La Employment Standards Act (Colombie‑Britannique) prévoit ce qui suit :
+[traduction]
+1 (1) Les définitions qui suivent s’appliquent à la présente loi :
+« jour férié » S’entend de l’un ou l’autre des jours suivants :
+1. le jour de l’An;
+2. le Vendredi saint;
+3. la fête de la Reine;
+4. la fête du Canada;
+5. la British Columbia Day;
+6. la fête du Travail;
+7. le jour d’Action de grâces;
+8. le jour du Souvenir;
+9. le jour de Noël;
+10. tout jour prescrit comme férié par règlement.
+[…]
+44 L’employeur est tenu de se conformer aux articles 45 ou 46 à l’égard d’un employé qu’il a employé pendant au moins 30 jours civils avant le jour férié, et qui remplit l’une des conditions suivantes :
+a) il a travaillé ou il a gagné un salaire pendant 15 jours des 30 jours civils précédant le congé férié;
+b) il a travaillé selon une entente de calcul de la moyenne en vertu de l’article 37 à un moment quelconque pendant la période de 30 jours civils.
+45 (1) L’employé qui obtient un jour de congé le jour férié, ou qui obtient un jour de congé en substitution du jour férié en vertu de l’article 48 doit recevoir une somme au moins égale au salaire journalier moyen obtenu selon la formule suivante :
+somme payée ÷ nombre de jours travaillés
+où
+la somme payée représente la somme payée ou payable à l’employé pour le travail effectué pendant la période de 30 jours civils précédant le jour férié ou le salaire gagné pendant cette période, y compris la paie de vacances qui est payée ou payable pour toute journée de vacances prise pendant cette période, déduction faite de toutes sommes payées ou payables au titre d’heures supplémentaires;
+les jours travaillés représentent le nombre de jours travaillés par l’employé ou au cours desquels l’employé a gagné un salaire pendant cette période de 30 jours civils.
+(2) Le salaire journalier moyen prévu au paragraphe (1) s’applique indépendamment du fait que le jour férié tombe un jour de congé normalement prévu pour l’employé.
+46 L’employé qui travaille un jour de congé doit être rémunéré pour cette journée de la manière suivante :
+a) une fois et demie le salaire normal de l’employé pour la période de temps travaillé jusqu’à concurrence de 12 heures;
+b) le double du salaire normal de l’employé pour toute période de temps travaillée au-delà de 12 heures;
+c) le salaire journalier moyen obtenu selon la formule contenue au paragraphe 45(1).
+[36] Étant donné que l’appelant a commencé à travailler le 2 novembre 2009, au jour du Souvenir, il ne travaillait pas encore depuis 30 jours, et, par conséquent, il n’y avait pas d’exigence que l’appelant soit rémunéré en vertu de la Labour Standards Act. Il me semble que, selon la prépondérance des probabilités, l’appelant n’a pas travaillé le 11 novembre, et, comme son chèque de paie pour la période incluant le 11 novembre comportait un montant inférieur à celui des chèques de paie pour les autres périodes de paie, il est fort probable qu’il n’ait pas été rémunéré pour ce jour férié. Par conséquent, les heures de ce jour férié ne devraient pas être incluses dans les heures assurables.
+[37] La dernière question concerne une réduction de 3,75 heures qui, comme il est énoncé dans la réponse, concerne la journée du 10 janvier 2010 et qui a été faite parce que l’appelant est rentré à la maison pour cause de maladie. Toutefois, le seul élément de preuve produit relativement à cette question était le chèque de paie dont la période est illisible, et qui fait état de 71,25 heures. Il ne s’agit pas d’une preuve qui établit que l’appelant n’a pas travaillé chaque jour pendant cette période, de 9 h à 17 h. Il s’agit d’une preuve qui établit que sa rémunération était réduite pendant cette période, mais il ne s’agit pas d’une preuve qui établit qu’il avait travaillé un nombre d’heures réduit. Il n’était pas rémunéré à l’heure, et l’employeur aurait donc dû fournir une explication quant au montant réduit de ce chèque de paie. La preuve n’est pas établie par le simple fait d’énoncer une hypothèse de fait dans la réponse. Aucun élément de preuve n’a été fourni pour justifier cette rémunération réduite pour cette période, et l’employeur n’a donc pas fourni de preuve au soutien de cette réduction du nombre d’heures assurables.
+[38] En conséquence, les 8 heures du 11 novembre 2009 seront déduites du nombre d’heures établi par l’appelant, et l’appel interjeté à l’encontre de la décision de l’intimé rendue le 3 novembre 2010 est accueilli. La décision est modifiée afin de tenir compte du fait que l’appelant avait accumulé 632 heures d’emploi assurable pour l’application de la LAE pendant la période du 2 novembre 2009 au 19 février 2010.
+Signé à Halifax (Nouvelle‑Écosse), ce 31e jour de mai 2011.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 18e jour de juillet 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+RÉFÉRENCE : 2011 CCI 283
+No DU DOSSIER DE LA COUR : 2010-3834(EI)
+INTITULÉ : GREG TOMYK
+c.
+LE MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE : Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE : Le 3 mai 2011
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 31 mai 2011
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimé :
+Me Jonathan Wittig
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1]7,5 heures / jour x 5 jours / semaine x 16 semaines =
+600
+Moins : 7,5 heures pour le 11 novembre 2009
+(7,5)
+Moins : 3,75 heures pour le 10 janvier 2010
+(3,75)
+Total :
+588,75

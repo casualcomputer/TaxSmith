@@ -1,0 +1,123 @@
+Title: Demers c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29921/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-402-29921-demers-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-07-28
+
+# Demers c. La Reine
+
+- Citation: 2010 CCI 402
+- Decision date: 2010-07-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6470, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Demers c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-07-28
+Référence neutre
+2010 CCI 402
+Numéro de dossier
+2009-3589(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-3589(IT)I
+ENTRE :
+MARC DEMERS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 22 juin 2010, à Montréal (Québec)
+Devant : L’honorable juge G. A. Sheridan
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Simon-Nicolas Crépin
+____________________________________________________________________
+JUGEMENT
+L’appel formé contre la nouvelle cotisation établie au titre de la Loi de l’impôt sur le revenu pour l’année d’imposition 2006 est rejeté, conformément aux motifs ci‑annexés.
+Signé à Ottawa, Canada, ce 28e jour de juillet 2010.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 8e jour de septembre 2010.
+Christian Laroche, LL.B.
+Juriste-traducteur et traducteur-conseil
+Référence : 2010CCI402
+Date : 20100728
+Dossier : 2009-3589(IT)I
+ENTRE :
+MARC DEMERS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] Le point soulevé dans le présent appel, qui s’est déroulé selon la procédure informelle, est de savoir si l’appelant, Marc Demers, a le droit de déduire pour son année d’imposition 2006 une perte déductible au titre d’un placement d’entreprise (PDTPE) se chiffrant à 37 000 $. M. Demers s’est représenté lui-même à l’audience, durant laquelle il a été l’unique témoin. Il était crédible dans la preuve qu’il a produite, et bien organisé dans ses observations. La difficulté est que sa réclamation au titre d’une PDTPE ne saurait se justifier d’après la Loi de l’impôt sur le revenu.
+[2] M. Demers a admis toutes les hypothèses de fait sur lesquelles s’est fondé le ministre dans sa nouvelle cotisation :
+a) le 10 février 2003, par voie de transfert, conformément à l’article 147.3 de la Loi de l’impôt sur le revenu, L.R.C. 1985 (5e suppl.), ch.1, et modifications (la Loi), l’appelant a transféré, du Régime de retraite de la Société de transport de Montréal (ci-après le Régime) la somme de 55 000 $ vers un Régime enregistré d’épargne-retraite (ci-après le REER) autogéré;
+b) la somme ainsi transférée était détenue en fiducie par CTI Capital Inc., et le REER a acquis 55 000 actions ordinaires de la Coopérative de producteurs de bois précieux Québec Forestales (ci-après la Coop);
+c) le 31 juillet 2003, par voie de transfert, conformément au paragraphe 146(16) de la Loi, l’appelant a transféré, du Compte de retraite immobilisé (ci-après le CRI) de la Caisse d’économie des employés de la STCUM, la somme de 19 000 $ vers le REER;
+d) la somme ainsi transférée était détenue en fiducie par CTI Capital Inc., et le REER a acquis 19 000 actions ordinaires de la Coop;
+e) l’appelant était le bénéficiaire du REER;
+f) durant les années d’imposition au cours desquelles l’appelant avait versé des cotisations au Régime et au CRI, il avait pu déduire lesdites cotisations de son revenu;
+g) d’après l’état soumis par le fiduciaire CTI Capital Inc. au 31 octobre 2006, la juste valeur marchande de l’investissement dans le REER de l’appelant pour la Coop était NÉANT.[1]
+[3] Il se trouve que l’intégralité de la somme de 74 000 $ transférée au REER autogéré détenu en fiducie par CTI Capital Inc. a finalement été perdue. M. Demers voudrait pouvoir déduire la moitié de cette somme en vertu de l’alinéa 38c) de la Loi.
+[4] M. Demers fait valoir que la somme de 74 000 $ devrait être déductible en tant que PDTPE, parce que les fonds transférés à CTI Capital Inc. en fiducie étaient en réalité considérés comme son propre bien. D’abord, la source des 74 000 $ était son emploi; cette somme était également décrite, dans les relevés de CTI Capital Inc., comme « votre portefeuille de titres »[2]. Pour montrer davantage le caractère personnel de son intérêt, il a produit comme preuve une assignation à comparaître délivrée à lui-même par la Commission des valeurs mobilières du Québec le 28 août 2003[3]. La preuve sur ce point n’est pas claire, mais il semble que, en 2003, il y a eu un genre d’enquête provinciale portant sur les placements faits dans la Coopérative de producteurs de bois précieux Québec Forestales (la Coop). La procédure au cours de laquelle l’assignation à comparaître avait été délivrée fut finalement annulée, mais, dans l’assignation, il était ordonné à M. Demers de présenter à l’enquête divers documents intéressant ses placements dans la Coop. M. Demers a fait valoir que, puisque l’assignation avait été délivrée à lui-même plutôt qu’à CTI Capital Inc., il fallait en conclure que les placements étaient ses placements personnels.
+[5] M. Demers s’est aussi fondé sur le fait que, en 2002 et 2003, Revenu Québec avait accepté de déduire les sommes qu’il avait investies dans la Coop[4] et avait admis en 2006 sa déduction de 37 000 $ au titre d’une PDTPE[5].
+[6] Selon le ministre, M. Demers ne peut déduire aucun montant, parce que la somme de 74 000 $ était détenue en son nom par CTI Capital Inc. en fiducie; ainsi, la fiducie pourrait sans doute déduire une PDTPE[6], mais M. Demers ne le pourrait pas à titre personnel. L’avocat de l’intimée a fait valoir aussi que le seul cas où un contribuable pourrait personnellement déduire une PDTPE est le cas prévu par le paragraphe 146(6), mais cette disposition ne s’applique pas à M. Demers, parce que les fonds transférés à CTI Capital Inc. en fiducie n’étaient pas un « placement non admissible » au sens du paragraphe 146(1) de la Loi. M. Demers a admis les hypothèses dans lesquelles ces sommes sont désignées comme fonds d’un « régime enregistré d’épargne-retraite ». Un « régime enregistré d’épargne-retraite » englobe la définition de « régime d’épargne-retraite », qui figure dans le paragraphe 146(1) :
+a) Contrat conclu entre un particulier et une personne titulaire d’une licence ou par ailleurs autorisée par la législation fédérale ou provinciale à exploiter au Canada un commerce de rentes aux termes duquel, contre le paiement par le particulier ou son conjoint d’une somme périodique ou autre au titre du contrat, un revenu de retraite est prévu pour le particulier à compter de l’échéance;
+b) arrangement selon lequel un particulier ou son conjoint verse, selon le cas :
+(i) en fiducie à une société titulaire d’une licence ou par ailleurs autorisée par la législation fédérale ou provinciale à exploiter au Canada une entreprise consistant à offrir ses services au public en tant que fiduciaire, un montant périodique ou autre, à titre d’apport en vertu de la fiducie, […]
+[7] Finalement, le ministre a fait valoir qu’une déduction pour cotisation à un REER avait déjà été accordée à M. Demers pour les diverses sommes composant les 74 000 $ investis et ultérieurement perdus; il y aurait double emploi s’il était autorisé encore une fois à déduire cette somme en tant que PDTPE.
+Analyse
+[8] La preuve produite n’autorise pas la Cour à modifier la nouvelle cotisation établie par le ministre. M. Demers a reconnu que la somme de 74 000 $ avait été transférée à CTI Capital Inc. en fiducie. À ce titre, même si M. Demers était le bénéficiaire des fonds investis, c’est la fiducie qui en était le propriétaire. Ni la description des placements dans les relevés de CTI Capital Inc. ni l’assignation à comparaître délivrée à M. Demers ne changent rien à cela. L’assignation à comparaître n’est d’ailleurs pas convaincante; on a beaucoup de mal à voir dans quelles circonstances elle a été délivrée ou quelles fins le témoignage de M. Demers était censé servir. Quoi qu’il en soit, il n’en est rien sorti qui intéresse le présent appel.
+[9] S’agissant des autres arguments de M. Demers, le ministre fédéral du Revenu national n’est pas lié par la cotisation établie par Revenu Québec. Il a pour mandat d’établir de nouvelles cotisations en se fondant sur la Loi de l’impôt sur le revenu. Quant à l’argument complémentaire de M. Demers selon lequel la Loi ne l’empêche nulle part de déduire une PDTPE, la question n’est pas de savoir si la déduction est interdite, mais plutôt de savoir s’il est en mesure de répondre aux critères autorisant une telle déduction. Il lui est impossible de répondre aux critères en question, puisque ce n’est pas son bien qui a été l’objet d’une disposition ainsi que le requiert l’alinéa 39(1)c); par conséquent, l’appel doit être rejeté.
+Signé à Ottawa, Canada, ce 28e jour de juillet 2010.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 8e jour de septembre 2010.
+Christian Laroche, LL.B.
+Juriste-traducteur et traducteur-conseil
+RÉFÉRENCE : 2010CCI402
+N° DU DOSSIER DE LA COUR : 2009-3589(IT)I
+INTITULÉ : MARC DEMERS ET
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 22 juin 2010
+MOTIFS DU JUGEMENT : L’honorable juge G. A. Sheridan
+DATE DU JUGEMENT : Le 28 juillet 2010
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Simon-Nicolas Crépin
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Réponse à l’avis d’appel, paragraphe 10.
+[2] Pièce A-1.
+[3] Pièce A-4.
+[4] Pièce A-3.
+[5] Pièce A-2.
+[6] Selon le paragraphe 104(2), une fiducie est réputée être un particulier aux fins de la Loi de l’impôt sur le revenu.

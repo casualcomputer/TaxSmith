@@ -1,0 +1,178 @@
+Title: St-Pierre c. M.R.N
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26826/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-115-26826-st-pierre-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2003-03-19
+
+# St-Pierre c. M.R.N
+
+- Citation: 2003 CCI 115
+- Decision date: 2003-03-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 697, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+St-Pierre c. M.R.N
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-03-19
+Référence neutre
+2003 CCI 115
+Numéro de dossier
+2002-1282(EI)
+Juges et Officiers taxateurs
+Jerome F. Somers
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2002-1282(EI)
+ENTRE :
+DIANE ST-PIERRE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 31 janvier 2003 à Québec (Québec)
+Devant : L'honorable juge suppléant J.F. Somers
+Comparutions :
+Avocat de l'appelante :
+Me Jérôme Carrier
+Avocate de l'intimé :
+Me Marie-Claude Landry
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le Ministre est confirmée selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 19e jour de mars 2003.
+« J.F. Somers »
+J.S.C.C.I.
+Référence : 2003CCI115
+Date : 20030319
+Dossier : 2002-1282(EI)
+ENTRE :
+DIANE ST-PIERRE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge suppléant Somers, C.C.I.
+[1] Cet appel a été entendu à Québec (Québec) le 31 janvier 2003.
+[2] L'appelante interjette appel de la décision du ministre du Revenu national (le « Ministre » ) selon laquelle l'emploi exercé auprès d'Alain Morel, le payeur, au cours des périodes en cause, soit du 16 juin au 8 novembre 1997, du 29 juin au 18 septembre 1998, du 28 juin au 10 septembre 1999, du 11 juin au 15 septembre 2000 et du 14 juin au 14 septembre 2001, n'était pas assurable au motif que cet emploi ne rencontrait pas les exigences d'un contrat de louage de services; il n'y avait donc pas de relation employeur-employée entre elle et le payeur.
+[3] Le paragraphe 5(1) de la Loi sur l'assurance-emploi ( la « Loi » ) se lit en partie comme suit :
+5.(1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) un emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d'un contrat de louage de services ou d'apprentissage exprès ou tacite, écrit ou verbal, que l'employé reçoive sa rémunération de l'employeur ou d'une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[...]
+[4] Le fardeau de la preuve incombe à l'appelante. Cette dernière se doit d'établir, selon la prépondérance de la preuve, que la décision du Ministre est mal fondée en fait et en droit. Chaque cas est un cas d'espèce.
+[5] En rendant sa décision, le Ministre s'est fondé sur les présomptions de fait suivantes énoncées au paragraphe 5 de la Réponse à l'avis d'appel, lesquelles ont été admises ou niées par l'appelante :
+a) en 1997, le payeur avait acheté de son père le Motel le Pellerin; (admis)
+b) le payeur est l'unique propriétaire de l'entreprise; (admis)
+c) le motel comportait 7 chambres de 2 lits; (admis)
+d) l'entreprise du payeur était active de la fin mai à la fin septembre de chaque année; (admis)
+e) durant les années en litige, l'exploitation du Motel entraînait des pertes à chaque année (admis)
+Année Revenus Bruts Pertes
+1997 10 747 $ 5 681 $
+1998 18 967 $ 3 061 $
+1999 19 566 $ 4 122 $
+2000 29 702 $ 3 133 $
+2001 23 189 $ 3 385 $
+f) l'appelante était l'amie du payeur depuis 1995; (admis)
+g) durant les années en litige, l'appelante et le payeur demeuraient au Motel et partageaient le même logement; (admis)
+h) le 4 mars 2002, le payeur déclarait à un représentant de l'intimé qu'il avait acheté l'entreprise pour créer un emploi à l'appelante; (nié)
+i) l'appelante avait été embauchée comme gérante et femme de chambre; (admis)
+j) les tâches de l'appelante consistaient à prendre les réservations, à louer les chambres, à faire le ménage des chambres et à s'occuper de la buanderie; (admis)
+k) durant les périodes en litige, l'appelante recevait un salaire horaire de 7,00 $ en 1997, de 7,42 $ en 1998, de 7,75 $ et 8,64 $ en 1999, de 13,58 $ en 2000 et de 12,48 $ en 2001; (admis)
+l) l'augmentation de salaire de l'appelante n'était pas justifiée compte tenu de ses tâches; (nié)
+m) le 9 novembre 1997, le payeur émettait un relevé d'emploi à l'appelante pour la période débutant le 16 juin 1997 et se terminant le 8 novembre 1997 et qui indiquait 924 heures assurables et une rémunération assurable totale de 320,80 $ par semaine; (admis)
+n) le 21 septembre 1998, le payeur émettait un relevé d'emploi à l'appelante pour la période débutant le 29 juin 1998 et se terminant le 18 septembre 1998 et qui indiquait 552 heures assurables et une rémunération assurable totale de 4 114,41 $; (admis)
+o) le 15 septembre 1999, le payeur émettait un relevé d'emploi à l'appelante pour la période débutant le 28 juin 1999 et se terminant le 10 septembre 1999 et qui indiquait 500 heures assurables et une rémunération assurable totale de 4 371,32 $; (admis)
+p) le 18 septembre 2000, le payeur émettait un relevé d'emploi à l'appelante pour la période débutant le 11 juin 2000 et se terminant le 15 septembre 2000 et qui indiquait 560 heures assurables et une rémunération assurable totale de 7 909,72 $; (admis)
+q) le 15 septembre 2001, le payeur émettait un relevé d'emploi à l'appelante pour la période débutant le 11 juin 2001 et se terminant le 14 septembre 2001 et qui indiquait 560 heures assurables et une rémunération assurable totale de 6 988,00 $; (admis)
+r) les relevés d'emploi ne sont pas conformes à la réalité quant aux heures travaillées et quant aux périodes travaillées de l'appelante; (nié)
+s) l'appelante rendait des services au payeur avant et après les périodes en litige; (nié)
+t) le 15 novembre 2001, l'appelante dans sa déclaration à un représentant du DRHC déclarait qu'elle remplaçait et faisait les ménages d'une façon bénévole avant et après les périodes de travail indiquées sur ses relevés d'emploi; (nié)
+u) le 15 novembre 2001, le payeur dans sa déclaration à un représentant du DRHC déclarait qu'il arrivait que l'appelante travaille avant et après ses périodes de travail inscrites sur ses relevés d'emploi; (nié)
+v) le 3 décembre 2001, le payeur dans sa déclaration à un représentant de l'intimé déclarait que l'appelante continuait à rendre des services avant et après ses périodes de travail de façon bénévole; (nié)
+w) le 5 décembre 2001, l'appelante dans sa déclaration à un représentant de l'intimé déclarait qu'elle continuait à rendre des services avant et après ses périodes de travail de façon bénévole; (nié)
+x) le 4 mars 2002, le payeur dans sa déclaration à un représentant de l'intimé déclarait qu'il avait fait travailler l'appelante en 1997 jusqu'au 8 novembre pour lui permettre d'avoir assez d'heures pour se qualifier à l'assurance-emploi; (nié)
+y) le payeur et l'appelante ont conclu un arrangement afin de qualifier l'appelante à recevoir des prestations d'assurance-emploi tout en continuant à rendre des services pour le payeur. (nié)
+[6] En 1997, le payeur a acheté de son père un motel de 7 chambres de 2 lits, Motel le Pellerin, dont il est l'unique propriétaire.
+[7] L'entreprise du payeur était active de la fin mai à la fin septembre de chaque année. Durant les années 1997 à 2001, soit les périodes en cause, l'entreprise a enregistré des pertes d'exploitation tel qu'il appert au sous-paragraphe 5e) ci-dessus.
+[8] L'appelante était l'amie du payeur depuis 1995 et le couple demeurait au motel et partageait le même logement. L'appelante avait été embauchée à titre de gérante et femme de chambre. Ses tâches consistaient à prendre les réservations, louer les chambres, faire le ménage des chambres et s'occuper de la buanderie. Durant les périodes en cause, l'appelante recevait un salaire horaire de 7 $ en 1997, 7,42 $ en 1998, 7,75 $ et 8,64 $ en 1999, 13,58 $ en 2000 et 12,48 $ en 2001.
+[9] L'appelante a reconnu la véracité du contenu des relevés d'emploi tel qu'allégué aux sous-paragraphes 5m) à q) ci-haut.
+[10] Le payeur, Alain Morel, a déclaré que le motel consistait en des cabines aménagées pour l'hébergement seulement et que le bureau de la réception était situé dans la résidence qu'il partageait avec l'appelante.
+[11] Durant les périodes en cause, le payeur travaillait à Val Cartier, il était militaire. Selon son témoignage, il revenait au motel une ou deux fois par semaine; il pouvait donc contrôler les heures de travail de l'appelante.
+[12] Le motel était ouvert durant la période estivale. Le payeur décidait du salaire horaire de l'appelante et cette dernière était payée par chèque. Le début et la fin des périodes de travail de l'appelante étaient déterminés d'après les besoins de l'entreprise.
+[13] L'appelante a affirmé qu'elle a travaillé pour le payeur pendant les périodes en cause et que son salaire horaire, tel qu'allégué au sous-paragraphe 5k) ci-haut, était déterminé par le payeur. Selon elle, le payeur revenait au motel à toutes les fins de semaine et vérifiait, à ce moment, le travail qu'elle avait exécuté durant la semaine. L'appelante a admis qu'elle avait rendu des services au payeur hors les périodes en cause sans être rémunérée.
+[14] L'appelante reconnaît qu'elle a reçu une augmentation de salaire en 1999 et en 2000 mais déclare qu'elle ne connaît pas la raison pour cette augmentation. Le payeur a déclaré à la Cour lui avoir donné cette augmentation car il était moins présent au motel donc les responsabilités de l'appelante s'étaient par ce fait même accrues.
+[15] Des photocopies de fiches de clients du motel ont été déposées sous les cotes I-2 à I-6 et l'appelante reconnaît les avoir complétées. Un tableau déposé sous la cote I-7 démontre les semaines pour lesquelles l'appelante a reçu un salaire durant les périodes en cause. Ce tableau démontre également que l'appelante a travaillé pour le payeur hors les périodes en cause.
+[16] Le Ministre a basé sa décision sur l'alinéa 5(1)a) de la Loi et non sur l'alinéa 5(2)i). Le fait que l'appelante et le payeur étaient amis depuis 1995 et partageaient le même logement ne nous permet pas de conclure qu'il existait un lien de dépendance entre eux en vertu de la Loi. Le lien de dépendance de fait ne se présume pas, la preuve doit en être faite. Donc, avec raison, le Ministre s'est basé sur l'alinéa 5(1)a) de la Loi. Le Ministre admet que l'appelante a rendu des services au payeur mais ceux-ci n'étaient pas rendus en vertu d'un véritable contrat de louage de services.
+[17] Selon son témoignage à la Cour, le payeur a admis avoir acheté le motel dans le but de créer des emplois. Il a affirmé qu'il avait embauché l'appelante car cette dernière était sans emploi et, de plus, qu'il voulait investir dans cette entreprise. Le payeur travaillait à Val Cartier et revenait au motel à toutes les fins de semaine; il y avait donc un certain contrôle sur le travail de l'appelante. Le degré de contrôle est un des critères nécessaires pour déterminer si un travail est exécuté dans le cadre d'un contrat de louage de services. Dans la cause sous étude, bien qu'il y avait un certain contrôle, la Cour doit se demander s'il existait un véritable contrat de louage de services.
+[18] L'entreprise avait une vocation touristique. La preuve a démontré que l'entreprise était active de la fin mai à la fin septembre de chaque année et que les mois de juillet et août étaient les plus achalandés. Tel qu'allégué au paragraphe 5e) de la Réponse à l'avis d'appel, l'entreprise était déficitaire pendant les périodes en litige et cette présomption a été admise.
+[19] L'appelante était rémunérée selon un taux horaire déterminé par le payeur. En ce qui concerne les augmentations de salaire de l'appelante, le payeur a déclaré que celles-ci étaient justifiées puisqu'il travaillait à l'extérieur et que par ce fait même les responsabilités de l'appelante s'étaient accrues. Les relevés d'emploi de l'appelante pour 2000 et 2001 indiquent que cette dernière agissait à titre de gérante du motel alors que rien dans la preuve ne prouve que ses responsabilités durant ces années étaient plus grandes; le seul fait d'indiquer, sur les relevés d'emploi, le mot « gérante » dans la case intitulée « profession » ne fait pas de l'appelante une gérante.
+[20] Un tableau déposé sous la cote I-10 démontre que le payeur était en période de chômage pendant plusieurs semaines au cours des années 1997 à 2001. La Cour se doit de noter que le payeur, lors de son témoignage, a déclaré que les responsabilités de l'appelante s'étaient accrues au fil des ans puisqu'il n'était pas présent à l'entreprise durant la semaine alors que le tableau démontre qu'il était sur les lieux pendant plusieurs semaines durant les périodes en cause.
+[21] Le payeur reconnaît que pour l'année 1997 l'appelante avait besoin de 910 heures d'emploi assurable pour se qualifier aux prestations d'assurance-emploi. Pour la période de 1997 le relevé d'emploi (pièce I-1) démontre que l'appelante a travaillé jusqu'au 8 novembre alors que les activités de l'entreprise se terminent vers la fin septembre. Selon le tableau (pièce I-10), le payeur était en période de chômage pour plusieurs semaines entre octobre et novembre de cette même année.
+[22] L'appelante a expliqué à M. Yvon Comtois de l'Agence des douanes et du revenu du Canada, qu'elle avait travaillé jusqu'au 8 novembre 1997 car le payeur avait fait des rénovations au motel et qu'elle a dû par la suite faire le ménage sans être rémunérée.
+[23] Pour les années 1998 à 2001, l'appelante, selon les relevés d'emploi (pièce I-1) a travaillé entre 500 et 560 heures; ce nombre dépasse de très peu le nombre d'heures requises pour se qualifier aux prestations d'assurance-emploi. Il n'y a rien de répréhensible à travailler le nombre d'heures suffisantes pour se qualifier aux prestations d'assurance-emploi, mais la Cour se doit d'en examiner de très près les raisons.
+[24] Dans son rapport sur un appel (pièce I-9), Yvon Comtois, quant au salaire payé à l'appelante, déclare :
+D'ailleurs, ce salaire pour une préposée à l'accueil et au ménage des chambres n'est aucunement raisonnable et dépasse les salaires payés dans ce domaine d'activité et pour ce genre d'emploi. D'après le guide de salaire de l'institut de l'information sur le marché du travail, le salaire varie de 7,50 $ à 8,16 $ de l'heure tout dépendant des entreprises.
+[25] Selon la preuve cette conclusion n'est pas raisonnable puisqu'il n'a pas vérifié la moyenne de salaire pour une « gérante » car il ne croyait pas que l'appelante occupait réellement un tel poste.
+[26] L'appelante et le payeur ont admis aux enquêteurs et à la Cour que l'appelante a travaillé bénévolement pour l'entreprise du payeur. De plus, les documents déposés en preuve indiquent que l'appelante s'occupait du motel alors qu'elle n'apparaît pas au livre de paie. L'appelante n'était pas obligée de rendre des services bénévolement au payeur surtout qu'elle payait un loyer de 300 $ au payeur. Le travail de bénévolat démontre qu'il n'existait pas de véritable contrat de louage de services.
+[27] Dans la cause Thibeault c. Canada (ministre du Revenu national - M.R.N.), [1998] A.C.I. no 690, le juge Tardif de cette Cour s'exprime ainsi aux paragraphes 26 et 29 de sa décision en date du 14 août 1998 :
+Le régime d'assurance-chômage est une mesure sociale dont l'objectif est de soutenir ceux et celles qui perdent leur véritable emploi. Il ne s'agit carrément pas d'une mesure où il suffit de payer des cotisations durant une certaine période de l'année pour avoir droit automatiquement aux bénéfices.
+Certes, il n'est ni illégal, ni répréhensible d'organiser ses affaires pour profiter de la mesure sociale qu'est le régime de l'assurance-chômage, à la condition expresse que rien ne soit maquillé, déguisé ou organisé et que la venue des bénéfices surviennent à la suite d'événements sur lesquels le bénéficiaire n'a pas le contrôle. Lorsque l'importance du salaire ne correspond pas à la valeur économique des services rendus, lorsque les débuts et les fins des périodes s'avèrent coïncider avec la fin de la période de paiement et la durée de la période de travail coïncidant à son tour, avec le nombre de semaines requises pour se qualifier à nouveau, cela a pour effet de soulever des doutes très sérieux sur la vraisemblance du contrat de travail. Lorsque les hasards sont nombreux et exagérés, cela risque de créer une présomption à l'effet que les parties ont convenu d'un arrangement artificiel pour permettre aux parties de profiter des bénéfices.
+Cette décision du juge Tardif a été confirmée par le juge Desjardins de la Cour d'appel fédérale qui s'est exprimée ainsi dans son jugement en date du 15 juin 2000 :
+Le juge de la Cour canadienne de l'impôt s'est correctement interrogé sur la question de savoir s'il existait un emploi véritable entre le prestataire et la Coopérative forestière de Girardville durant la période allant du 4 mai au 10 juillet 1992...
+[28] Dans la cause Laverdière c. Canada (ministre du Revenu national - M.R.N.), [1999] A.C.I. no 124, le juge Tardif de cette Cour s'est exprimé en ces termes :
+Cette appréciation est d'ailleurs valable pour toutes les périodes en litige ayant trait aux deux appelants. Les modalités d'un véritable contrat de louage de services doivent s'articuler autour de la prestation de travail à accomplir, d'un mécanisme permettant de contrôler l'exécution du travail et finalement, d'une rétribution correspondant essentiellement à la qualité et la quantité du travail exécuté.
+[...]
+Tout contrat de travail prévoyant des particularités est généralement opposable aux seules parties contractantes et ne lie en rien les tiers, dont l'intimé.
+Il en est ainsi au niveau de toute entente ou arrangement dont le but et objectif est d'étaler ou cumuler la rémunération due ou être due de manière à tirer avantage des dispositions de la Loi. Toute planification ou entente qui maquille ou altère les faits relatifs à la rétribution, dans le but de maximiser les bénéfices de la Loi, disqualifie le contrat de louage de services.
+La Loi n'assure que les véritables contrats de louage de services; un contrat de travail dont la rétribution n'est pas fonction de la période d'exécution du travail ne peut être définie comme un véritable contrat de louage de services. Il s'agit d'une entente ou d'un arrangement qui discrédite la qualité d'un véritable contrat de louage à ce qu'il associe des éléments étrangers à la réalité contractuelle exigée par la Loi.
+[29] La preuve a démontré que le but recherché par le payeur et l'appelante était de permettre à cette dernière de bénéficier au maximum des avantages de la Loi. D'ailleurs, une des raisons pour lesquelles le payeur a acheté le motel était de procurer un emploi à l'appelante.
+[30] Les modalités d'emploi démontrent que le payeur et l'appelante ont conclu un arrangement afin de qualifier cette dernière aux prestations d'assurance-emploi. La preuve a démontré que l'appelante a continué à rendre des services au payeur avant et après les périodes en cause sans être rémunérée.
+[31] À la lumière de la preuve et de la jurisprudence consultée, l'appelante n'occupait pas un emploi assurable pendant les périodes en cause puisqu'il ne rencontrait pas les exigences d'un véritable contrat de louage de services.
+[32] En conséquence, l'appel est rejeté et la décision rendue par le Ministre est confirmée.
+Signé à Ottawa, Canada, ce 19e jour de mars 2003.
+« J.F. Somers »
+J.S.C.C.I.
+Jurisprudence consultée
+Wiebe Door Services Ltd. c. Canada (ministre du Revenu national - M.R.N.), [1986] 3 C.F. 553;
+Thibeault c. Canada (ministre du Revenu national - M.R.N.), [1998] A.C.I. no 690;
+Coopérative forestière de Girardville et M.R.N., Cour d'appel fédérale, dossier A-587-98;
+Laverdière c. Canada (ministre du Revenu national - M.R.N.), [1999] A.C.I. no 124.
+RÉFÉRENCE :
+2003CCI115
+No DU DOSSIER DE LA COUR :
+2002-1282(EI)
+INTITULÉ DE LA CAUSE :
+Diane St-Pierre et M.R.N.
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE DE L'AUDIENCE :
+le 31 janvier 2003
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge suppléant J.F. Somers
+DATE DU JUGEMENT :
+Le 19 mars 2003
+COMPARUTIONS :
+Pour l'appelante :
+Me Jérôme Carrier
+Pour l'intimé :
+Me Marie-Claude Landry
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelante :
+Nom :
+Me Jérôme Carrier
+Étude :
+Rochon, Belzile, Carrier, Auger
+Québec (Québec)
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

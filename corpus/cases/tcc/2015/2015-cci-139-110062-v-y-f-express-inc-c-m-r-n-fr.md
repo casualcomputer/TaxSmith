@@ -1,0 +1,318 @@
+---
+title: "V.Y.F. Express inc. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/110062/index.do"
+last_modified: "2015-06-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 CCI 139"
+citation2: ""
+neutral_citation: "2015 CCI 139"
+decision_date: "2015-06-08"
+language: "fr"
+item_id: "110062"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2834
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:31:34.042000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "16051c293657a5504c96f8c69b01ff71a3b583420afe89202c82cdf7c85c6922"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# V.Y.F. Express inc. c. M.R.N.
+
+- Citation: 2015 CCI 139
+- Decision date: 2015-06-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2834, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+V.Y.F. Express inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-06-08
+Référence neutre
+2015 CCI 139
+Numéro de dossier
+2013-4159(EI), 2013-4160(EI), 2013-4165(EI)
+Juges et Officiers taxateurs
+Johanne D’Auray
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2013-4159(EI)
+ENTRE :
+V.Y.F. EXPRESS INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+Appel entendu sur preuve commune avec les appels de
+V.Y.F. Express inc. 2013-4160(EI) et Vipro inc. 2013‑4165(EI), le 20 février 2015, à Montréal (Québec).
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Avocat de l’appelante :
+Me Jean-François Brouillard
+Maxime Bessette, stagiaire en droit
+Avocat de l’intimé :
+Me Emmanuel Jilwan
+JUGEMENT
+L’appel en vertu du paragraphe 103(1) de la Loi sur l’assurance-emploi (la « Loi ») est accueilli et la décision rendue par le ministre du Revenu national en date du 30 août 2013 est annulée, considérant que madame Francine Vincent Allard, la travailleuse, n’occupait pas un emploi assurable en vertu de l’alinéa 5(1)a) de la Loi, lorsqu’au service de l’appelante, pour la période du 1er janvier 2012 au 13 février 2013.
+Signé à Ottawa, Canada, ce 8e jour de juin 2015.
+« Johanne D’Auray »
+Juge D’Auray
+Dossier : 2013-4160(EI)
+ENTRE :
+V.Y.F. EXPRESS INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+Appel entendu sur preuve commune avec les appels de
+V.Y.F. Express inc. 2013-4159(EI) et Vipro inc. 2013‑4165(EI), le 20 février 2015, à Montréal (Québec).
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Avocat de l’appelante :
+Me Jean-François Brouillard
+Maxime Bessette, stagiaire en droit
+Avocat de l’intimé :
+Me Emmanuel Jilwan
+JUGEMENT
+L’appel en vertu du paragraphe 103(1) de la Loi sur l’assurance-emploi (la « Loi ») est accueilli et la décision rendue par le ministre du Revenu national en date du 30 août 2013 est annulée, considérant que monsieur Yvon Vincent, le travailleur, n’occupait pas un emploi assurable en vertu de l’alinéa 5(1)a) de la Loi, lorsqu’au service de l’appelante, pour la période du 1er janvier 2012 au 13 février 2013.
+Signé à Ottawa, Canada, ce 8e jour de juin 2015.
+« Johanne D’Auray »
+Juge D’Auray
+Dossier : 2013-4165(EI)
+ENTRE :
+VIPRO INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+Appel entendu sur preuve commune avec les appels de
+V.Y.F. Express inc. 2013-4159(EI) et V.Y.F. Express inc. 2013‑4160(EI), le 20 février 2015, à Montréal (Québec).
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Avocat de l’appelante :
+Me Jean-François Brouillard
+Maxime Bessette, stagiaire en droit
+Avocat de l’intimé :
+Me Emmanuel Jilwan
+JUGEMENT
+L’appel en vertu du paragraphe 103(1) de la Loi sur l’assurance-emploi (la « Loi ») est accueilli et la décision rendue par le ministre du Revenu national en date du 30 août 2013 est annulée, considérant que monsieur Jasmin Allard, le travailleur, n’occupait pas un emploi assurable en vertu de l’alinéa 5(1)a) de la Loi, lorsqu’au service de l’appelante, pour la période du 1er janvier 2012 au 6 mars 2013.
+Signé à Ottawa, Canada, ce 8e jour de juin 2015.
+« Johanne D’auray »
+Juge D’Auray
+Référence : 2015 CCI 139
+Date : 20150608
+Dossier : 2013-4159(EI)
+Dossier : 2013-4160(EI)
+ENTRE :
+V.Y.F. EXPRESS INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+Dossier : 2013-4165(EI)
+ENTRE :
+VIPRO INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+La juge D’Auray
+Contexte
+[1] Il s’agit d’appels interjetés par les sociétés V.Y.F. Express Inc. (« VYF ») et Vipro Inc. (« Vipro ») à l’encontre des décisions par lesquelles le ministre du Revenu national (le « ministre ») a conclu que madame Francine Vincent Allard (« Francine »)[1] son frère, monsieur Yvon Vincent (« Yvon ») exerçaient des emplois assurables au sein de la société VYF durant la période du 1er janvier 2012 au 13 février 2013 et que monsieur Jasmin Allard (« Jasmin ») exerçait, selon le ministre, un emploi assurable au sein de Vipro durant la période du 1er janvier 2012 au 6 mars 2013.
+[2] Les dossiers de VYF et de Vipro ont été entendus sur preuve commune.
+[3] Le ministre soutient que VYF et Francine et que VYF et Yvon étaient liés par un contrat de louage de services en vertu de l’alinéa 5(1)a) de la Loi sur l’assurance emploi (la « Loi »).
+[4] Le ministre soutient également que Vipro et Jasmin étaient liés par un contrat de louage de services en vertu de l’alinéa 5(1)a) de la Loi.
+[5] L’article 5(1)a) de la Loi énonce ce qui suit :
+5. (1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) l’emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d’un contrat de louage de services ou d’apprentissage exprès ou tacite, écrit ou verbal, que l’employé reçoive sa rémunération de l’employeur ou d’une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[6] Malgré que les emplois de Francine, Yvon et Jasmin soient exclus en vertu du sous-alinéa 5(2)i) de la Loi à la lumière des liens de dépendance qui les lient aux sociétés VYF et Vipro, le ministre fait valoir que dans ces dossiers le sous alinéa 5(3)b) de la Loi s’applique. Selon le ministre, il était raisonnable de conclure, compte tenu de toutes les circonstances que Francine, Yvon et Jasmin auraient conclu des contrats de travail à peu près semblables avec leurs employeurs, s’ils n’avaient pas eu de lien de dépendance. Les sous-alinéas 5(2)i) et 5(3)b) énoncent ce qui suit :
+5(2) N’est pas un emploi assurable :
+i) l’emploi dans le cadre duquel l’employeur et l’employé ont entre eux un lien de dépendance.
+5(3) Pour l’application de l’alinéa (2)i) :
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l’impôt sur le revenu;
+b) l’employeur et l’employé, lorsqu’ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[Je souligne.]
+[7] VYF et Vipro soutiennent que les emplois de Francine, Yvon et Jasmin sont exclus des emplois assurables en vertu de l’alinéa 5(2)i) de la Loi et que l’alinéa 5(3)b) de la Loi ne s’applique pas. Elles font valoir :
+a) que le ministre a omis de considérer des faits pertinents;
+b) que le ministre a mal perçu certains faits, en s’appuyant sur des facteurs non pertinents, inexacts ou ambigus.
+[8] Le juge Bowie a noté dans la décision Birkland c Canada (Ministre du Revenu national – MRN), 2005 CCI 291, [2005] ACI no 195, que le libellé de l’alinéa 5(3)b) a occasionné certaines difficultés d’interprétation. Il décrit les principes que la Cour doit appliquer en se référant aux décisions Légaré et Denis de la Cour d’appel fédérale. Le juge Bowie écrit ce qui suit :
+[4] Il est suffisant, à cette étape-ci, de décrire simplement ce qu’est, à mon avis, l’état actuel du droit. Je me fonde principalement à cet égard sur le paragraphe 4 de l’arrêt Légaré (reproduit ci-dessus) et sur l’extrait suivant du jugement rendu par le juge en chef Richard, auquel ont souscrit les juges Létourneau et Noël, dans l’affaire Denis c. Canada.
+5 Le rôle du juge de la Cour canadienne de l’impôt dans un appel d’une détermination du ministre sur les dispositions d’exclusion contenues aux paragraphes 5(2) et (3) de la Loi est de s’enquérir de tous les faits auprès des parties et les témoins appelés pour la première fois à s’expliquer sous serment et de se demander si la conclusion du ministre paraît toujours raisonnable. Toutefois, le juge ne doit pas substituer sa propre opinion à celle du ministre lorsqu’il n’y a pas de faits nouveaux et que rien ne permet de penser que les faits connus ont été mal perçus (voir Pérusse c. Canada (ministre du Revenu national - M.R.N.), 2000 A.C.F. no 310, 10 mars 2000).
+[9] Après avoir analysé toute la preuve aux dossiers incluant les témoignages de Francine, Yvon et Jasmin, je suis d’avis que la décision du ministre n’est pas raisonnable en l’espèce. Je suis d’avis qu’en décidant comme il l’a fait, le ministre a mal perçu les faits et il a également omis de tenir compte de faits pertinents. Je suis aussi d’avis que si le ministre n’avait pas mal perçu les faits et omis des faits pertinents, il n’aurait pas rendu la décision qu’il a rendue, car cette décision n’est pas raisonnable, eu égard aux circonstances.
+Faits [10] Je vais d’abord expliquer les liens de dépendance entre les parties impliquées au litige.
+a) Francine Vincent Allard est la sœur d’Yvon Vincent, la conjointe d’Ange-Albert Allard et la mère de Jasmin Allard.
+b) Yvon Vincent est le frère de Francine et le beau-frère d’Ange-Albert Allard et l’oncle de Jasmin.
+c) Jasmin Allard est le fils de Francine et d’Ange-Albert Allard et le neveu d’Yvon.
+[11] Ange-Albert Allard opère la société Animat qui fabrique et vend des tapis interlock en caoutchouc provenant de pneus recyclés.
+[12] Animat opère surtout dans le secteur agricole. Les tapis en caoutchouc servent à donner du confort aux animaux, dont les vaches laitières.
+[13] Ange-Albert Allard demande à Yvon de se lancer en affaires à titre de sous-traitant pour Animat.
+[14] Ne voulant pas se lancer en affaires seul, Yvon demande à sa sœur, Francine, de se joindre à lui. Ainsi, en 1998, Francine et Yvon fondent la société VYF. Ils investissent chacun 5 000 $. Ils sont les seuls administrateurs et détiennent chacun 50 % du capital-actions de VYF.
+[15] Francine utilise une partie de sa résidence principale pour les opérations de VYF.
+[16] En 2000, plus d’espace est requis et VYF loue le demi-sous-sol d’une résidence pour ses opérations.
+[17] Dans les premières années d’opération de VYF, malgré que Francine travaille plusieurs heures, elle ne reçoit aucun salaire de VYF. Tel qu’elle l’a expliqué lors de son témoignage, elle pouvait se permettre de ne pas recevoir un revenu puisque le salaire de son conjoint, Ange-Albert Allard, suffisait à leurs besoins. Cependant, Yvon recevait de VYF 600 $ par semaine. Le salaire d’Yvon avait été déterminé en fonction de ses besoins financiers et non pas en vertu des profits de VYF.
+[18] Les affaires de VYF vont plutôt bien. Ainsi en 2002 ou en 2003, VYF achète un terrain et construit un édifice pour ses opérations. Francine et Yvon ont d’ailleurs cautionné les prêts que VYF a contractés auprès de la Caisse populaire Desjardins pour l’achat du terrain et la construction de l’édifice.
+[19] C’est aussi lors de l’achat du terrain et de l’édifice que VYF cesse d’être sous-traitant pour Animat et commence à vendre directement les produits fabriqués par Animat.
+[20] De son côté, au début des années 2000, Jasmin fonde la société Vipro avec son père, Ange-Albert Allard, et un autre associé. Bien qu’Ange-Albert soit actionnaire de Vipro, ce dernier ne s’implique pas dans les opérations de Vipro.
+[21] Vipro récupère les résidus de poulet pour les transformer en engrais destiné à la vente dans le secteur des produits agricoles.
+[22] Vers la fin de l’année 2003, l’associé de Jasmin décède. Jasmin se retrouve seul pour opérer Vipro. VYF décide donc d’intégrer Vipro à ses opérations. Cela étant dit, les deux sociétés continuent leurs opérations. L’intégration se fait par la redistribution des actions de VYF et Vipro, soit :
+VYF
+Vipro
+Francine Vincent
+16.67 %
+16.67%
+Ange-Albert Allard
+16.67 %
+16.67%
+Yvon Vincent
+33.33 %
+33.33%
+Jasmin Allard
+33.33%
+33.33 %
+[23] Selon les témoignages de Francine, Yvon et Jasmin, les actions de VYF et Vipro ont été partagées afin que les deux jeunes actionnaires, Yvon et Jasmin, détiennent chacun 50 % des actions lorsque Francine et Ange-Albert prendront leur retraite.
+[24] Francine, Yvon et Jasmin sont administrateurs de VYF et de Vipro.
+[25] La rémunération d’Yvon, Francine et Jasmin est établie en fonction de leurs besoins financiers et non pas en vertu des profits des sociétés. À cet effet, ils ont tous indiqué lors de leurs témoignages qu’ils préféraient réinvestir dans les sociétés plutôt que d’augmenter leurs salaires. Pour eux, il est important que les sociétés prospèrent. À cet effet, ils ne se sont pas versé des bonis ni des dividendes.
+[26] Durant la période en litige, soit du 1er janvier 2102 au 13 février 2013, la rémunération annuelle versée était la suivante :
+Francine
+72 800 $
+Yvon
+82 700 $
+Jasmin
+80 600 $
+[27] Lors de l’audience, Francine, Yvon et Jasmin ont témoigné que leur rémunération a été la même pendant plusieurs années et qu’à la date de l’audience, leur rémunération n’avait pas été modifiée.
+[28] Bien que Francine et Yvon travaillent pour VYF et Vipro, ils ne reçoivent aucune rémunération de Vipro. Quant à Jasmin, bien qu’il travaille pour VYF et Vipro, il ne reçoit aucune rémunération de VYF.
+[29] Francine est responsable des ressources humaines pour VYF et Vipro. VYF a environ 75 employés et Vipro a environ 16 employés. Francine s’occupe aussi de faire le suivi avec les clients et si nécessaire, avec les installateurs.
+[30] Yvon s’occupe des ventes, du marketing et de la distribution pour VYF et Vipro. Il exerce aussi d’autres tâches si nécessaire.
+[31] Jasmin est responsable des opérations et tout ce qui a trait aux matelas en caoutchouc pour les animaux. Il fait aussi de l’installation de tapis pour les animaux pour VYF. Il continue aussi à fabriquer de l’engrais dans le cadre des opérations de Vipro.
+[32] Francine et Yvon ont tous deux témoigné qu’ils travaillaient de longues heures. Par exemple, Francine travaille de 7 h à 18 h. De plus, elle travaille les fins de semaine. Comme elle se considère propriétaire de VYF et Vipro, elle indique qu’elle est disponible en tout temps.
+[33] Quant à Yvon, il indique que ses horaires sont variables. Il commence souvent à travailler à 5 h du matin et s’il y a un problème de chargement, peu importe quand, le matin, le soir ou la nuit, c’est lui qu’on appelle. Il travaille de 50 à 70 heures par semaine.
+[34] Jasmin indique aussi que ses horaires de travail sont variables. Il mentionne qu’il travaille jusqu’à ce que le travail soit terminé. Par exemple, la journée avant l’audience il avait travaillé de 5 h à 24 h.
+[35] Francine, Yvon et Jasmin n’ont jamais reçu de rémunération pour des heures supplémentaires de VYF et Vipro, alors que leurs autres employés sont payés pour les heures supplémentaires effectuées.
+[36] Quant aux vacances, Francine, Yvon et Jasmin ont chacun six semaines de vacances. VYF et Vipro ferment deux semaines pendant le congé de Noël et durant les deux semaines de vacances de la construction au Québec. Ils ne se demandent jamais la permission entre eux pour prendre des vacances. Ils ont tous indiqué qu’ils étaient toujours disponibles durant leurs vacances. De plus, ils en profitent pour participer aux foires agricoles, car c’est l’occasion de rencontrer leurs clients et de trouver de nouveaux clients.
+[37] Francine et Jasmin adhèrent à l’assurance collective fournie par les sociétés. Yvon n’y adhère pas.
+[38] Francine, Yvon et Jasmin peuvent individuellement signer les chèques de VYF et Vipro sans qu’un cosignataire soit requis.
+[39] Ils ont aussi tous témoigné qu’ils prennent les décisions qui s’imposent dans leurs domaines respectifs de travail, sans avoir à se consulter au préalable.
+[40] Les réunions des administrateurs ressemblent davantage à des conseils de famille. C’est lors des repas qu’ils discutent des orientations des sociétés. Ils ne votent jamais et leurs discussions et décisions ne sont pas confirmées par écrit.
+[41] Francine, Yvon et Jasmin ont indiqué qu’ils n’ont jamais voulu qu’une personne qui n’est pas de leur famille immédiate se joigne à eux. Pour eux, il est important que leurs entreprises restent des entreprises familiales.
+[42] En 2012, VYF et Vipro ont acheté un nouvel édifice. À cet égard, Francine, Yvon, Ange-Albert et Jasmin ont cautionné les prêts contractés par VYF et Vipro pour environ deux millions de dollars. Ils sont aussi responsables des soldes non payés relativement aux cartes de crédit corporatives qu’utilisent certains des employés de VYF et Vipro.
+[43] Le ministre s’est appuyé sur les faits suivants pour déterminer qu’il y avait un contrat de service entre les sociétés, Francine, Yvon et Jasmin :
+a) le travailleur était rémunéré aux deux semaines, au même titre que les autres employés de l’appelante;
+b) le salaire du travailleur était déterminé par les actionnaires de l’appelante;
+c) le salaire versé par l’appelante au travailleur est comparable à ce qui est offert sur le marché de l’emploi pour ce type de travail, selon les informations publiées par Emploi Québec;
+d) la rémunération du travailleur était raisonnable et aurait été à peu près semblable, n’eût été du lien de dépendance entre l’appelante et le travailleur;
+e) le travailleur œuvrait pour l’appelante, non seulement à titre d’employé, mais également comme administrateur et actionnaire;
+f) les tâches effectuées par le travailleur étaient nécessaires et essentielles aux opérations de l’appelante;
+g) à titre de cadre, le travailleur assumait les responsabilités communément rencontrées dans ce genre de fonction;
+h) les heures travaillées par le travailleur n’étaient pas déraisonnables, compte tenu des fonctions qu’il occupait auprès de l’appelante;
+i) le travailleur bénéficiait de l’assurance-groupe de l’appelante, au même titre que les autres employés;
+j) le travailleur était à l’emploi de l’appelante à longueur d’année, comme l’exigeaient ses activités;
+k) l’expertise et les compétences acquises par le travailleur au fil des années étaient pertinentes et semblables à ce qu’un employé sans lien de dépendance aurait dû posséder pour occuper les mêmes fonctions;
+l) les modalités et conditions d’emploi, la durée du travail, ainsi que la nature et l’importance du travail du travailleur sont semblables à celles qui auraient prévalu dans le cadre d’une relation sans lien de dépendance.
+[44] Madame Laroche est l’agente des décisions à l’agence du Revenu du Canada (l’« ARC »). Elle a examiné les dossiers de VYF et Vipro. Lors de son témoignage, elle a indiqué avoir communiqué par téléphone avec Francine et Jasmin. Elle a dit avoir posé des questions à Francine et à Jasmin conformément à un questionnaire préétabli. Elle a noté les réponses données par ces derniers. Quant à Yvon, elle s’est fiée sur les propos de Francine et Jasmin pour rendre sa décision. Madame Laroche n’a pas expliqué pourquoi elle n’a pas communiqué avec Yvon. Les questionnaires avec les réponses écrites par madame Laroche n’ont pas été déposés en preuve.
+[45] Durant son témoignage, madame Laroche a indiqué que les heures travaillées par Francine, Yvon et Jasmin lui semblaient raisonnables eu égard qu’ils travaillaient pour leurs sociétés.
+[46] Madame Laroche a aussi déposé en preuve des documents d’Emploi Québec qui indiquent que le revenu annuel moyen pour du temps plein quant à un directeur des ressources humaines était 58 000 $ en 2005 dans le centre du Québec et de 74 000 $ dans l’ensemble du Québec. Dans ce même document, on note un salaire horaire pour un directeur des ressources humaines au Québec pour les années 2010 et 2012 comme suit :
+Salaire horaire au Québec (2010-2012)
+Premier quartile (ou tranche inférieure)
+entre 24,00 $ et 25,99 $
+Médian
+entre 32,00 $ et 33,99 $
+Troisième quartile (ou tranche supérieure)
+entre 44,00 $ et 45,99 $
+[47] Toujours selon des documents d’Emploi Québec déposés en preuve par madame Laroche, le revenu annuel moyen pour du temps plein quant à un directeur des ventes, du marketing et de la publicité était de 65 000 $ en 2005 dans le centre du Québec et de 76 000 $ dans l’ensemble du Québec. Selon le document d’Emploi Québec, on note un salaire horaire pour un directeur des ventes et du marketing au Québec pour les années 2010 et 2012 comme suit :
+Salaire horaire au Québec (2010-2012)
+Premier quartile (ou tranche inférieure)
+entre 22,00 $ et 23,99 $
+Médian
+entre 30,00 $ et 31,99 $
+Troisième quartile (ou tranche supérieure)
+entre 42,00 $ et 43,99 $
+[48] Madame Laroche indique n’avoir analysé aucun autre élément que la rémunération, les conditions de travail, la durée de l’emploi et si l’emploi était intégré à l’entreprise soit, l’importance du travail accompli.
+[49] Selon madame Laroche, à la lumière des critères examinés, il était raisonnable pour le ministre de conclure, compte tenu de toutes les circonstances, que VYF et Francine, VYF et Yvon ainsi que Vipro et Jasmin auraient conclu des contrats de travail à peu près semblables s’ils n’avaient pas eu de lien de dépendance.
+Analyse [50] Je suis d’avis que la décision du ministre n’est pas raisonnable, car il a mal perçu et omis des faits déterminants dans les présents dossiers.
+[51] D’abord, l’intimé n’a pas tenu compte que Francine, Yvon et Jasmin et VYF et Vipro ne font qu’un. La preuve révèle que Francine, Yvon et Jasmin sont les âmes dirigeantes des sociétés. Les décisions des sociétés sont prises en vertu des intérêts économiques de leur famille. De plus, leurs intérêts économiques sont inextricablement liés à ceux des sociétés. À cet effet, Francine, Yvon et Jasmin ont cautionné personnellement les prêts contractés par VYF et Vipro pour environ deux millions de dollars. Ils ont aussi cautionné les soldes impayés des cartes de crédit corporatives qu’utilisent les employés de VYF et Vipro.
+[52] À mon avis, sans lien de dépendance avec les sociétés, Francine, Yvon et Jasmin ne prendraient pas de tels risques financiers. Par exemple, le risque financier de Francine est très élevé sachant qu’elle ne détient que 16.67 % des actions dans les sociétés. De plus, Francine, Yvon et Jasmin ne s’engageraient pas autant envers les sociétés en travaillant sans compter leurs heures. Ils n’auraient donc pas conclu un contrat de travail semblable avec des sociétés avec lesquelles il n’y a pas de lien de dépendance.
+[53] Les sociétés sont gérées par Francine, Yvon et Jasmin comme si ces derniers étaient les propriétaires des biens de la société. La vision est commune, soit la prospérité des sociétés afin de s’assurer qu’à la retraite de Francine, les actions de cette dernière et de son conjoint Ange-Albert Allard soient distribuées entre Yvon et Jasmin. Les décisions de la société sont prises oralement lors de repas familiaux. Les longues heures travaillées, l’engagement constant envers les sociétés et les risques financiers ne seraient pas assumés par Francine, Yvon et Jasmin sans les liens de dépendance avec les sociétés.
+[54] Dès l’incorporation de VYF en 1998, la rémunération a été versée en fonction des besoins financiers de Francine et d’Yvon. Cette façon de faire a continué afin que la société prospère. Il est clair que sans les liens de dépendance avec les sociétés Francine, Yvon et Jasmin n’auraient pas accepté que les salaires ne soient pas déterminés en vertu des lois du marché.
+[55] Je suis aussi d’avis qu’il n’était pas raisonnable pour le ministre de conclure que Francine, Yvon et Jasmin acceptent d’être disponibles 24 heures/7jours, de travailler de 60 à 70 heures par semaine et de répondre à toute urgence en tout temps sans recevoir aucune rémunération pour les heures supplémentaires.
+[56] Bien que les documents d’Emploi Québec déposés par l’intimé ont une valeur probante limitée, car on ne connaît pas les assises de ces documents, il est intéressant de noter que le revenu annuel moyen en vertu de ces documents quant à un directeur des ressources humaines était en 2005 entre 58 000 $ et 74 000 $ par année. Cependant, selon ce même document, on constate que le salaire horaire d’un directeur en ressources humaines est de 44 $ à 45,99 $ pour l’année 2012, soit l’année en litige. Si on tenait pour acquis que Francine travaillait 50 heures par semaine en 2012, selon ce document son salaire devrait se situer entre 114 400 $ et 119 548$. Si on faisait le même calcul pour une semaine de travail de 60 heures, le salaire de Francine devrait se situer entre 137 280 $ et 143 468 $, ce qui est passablement supérieur au salaire de 72 800 $ reçu par Francine en 2012[2].
+[57] Toujours selon les documents d’Emploi Québec, un directeur des ventes, du marketing et de la publicité gagnait en 2005 un salaire moyen annuel de 65 000 $ dans le centre du Québec et 76 000 $ dans l’ensemble du Québec. Cependant, le document indique que le salaire horaire était au troisième quartile entre 42,00 $ et 43,99 $ en 2012. En vertu de ce document, le salaire d’Yvon devrait se situer en 2012 entre 109 200 $ et 114 348 $ pour 50 heures et entre 131 040 $ et 137 228 $ pour 60 heures, ce qui est également supérieur à ce qu’Yvon recevait, soit 82 700 $[3].
+[58] D’ailleurs, à cet effet Francine, Yvon et Jasmin ont indiqué lors de leurs témoignages qu’ils n’accepteraient pas de travailler avec une rémunération et des conditions de travail semblables pour un autre employeur. Ils ont aussi indiqué qu’ils n’accepteraient pas qu’une personne qui ne fait pas partie du clan familial se joigne aux sociétés.
+[59] Le ministre a aussi conclu qu’il existait un lien de subordination entre VYF et Francine, VYF et Yvon ainsi que Vipro et Jasmin. Je suis d’avis que la preuve a démontré le contraire. Francine, Yvon et Jasmin prennent des décisions dans leur domaine respectif sans consulter les autres administrateurs. L’autorisation des autres administrateurs n’est pas requise quant à leurs congés, leurs horaires de travail et leurs vacances. Bien entendu, ils s’avisent d’avance des congés qu’ils prendront, ce qui est à mon avis une question de courtoisie et d’organisation de travail, mais cela ne crée pas pour autant un lien de subordination.
+[60] À la lumière de mes motifs, je n’ai pas à décider sur l’objectif précis de l’alinéa 3(2)i) de la Loi, je tiens tout de même à adopter les commentaires énoncés dans plusieurs décisions quant à l’alinéa 3(2)i) de la Loi.
+[61] À cet effet, je tiens à réitérer les commentaires de la juge Woods dans la décision C&B Woodcraft Ltd c Le ministre du Revenu national, 2004 CCI 477. Elle écrit aux paragraphes 7 à 13 de ses motifs de jugement ce qui suit :
+[7] Le texte législatif permettant de déterminer si une personne liée à l’employeur exerce un emploi assurable n’est pas facile à comprendre. Une question qui s’est posée est de savoir si le pouvoir décisionnel que possède le ministre en vertu de ces dispositions est final ainsi que de savoir quel est le rôle de la Cour de l’impôt lorsqu’elle examine ces décisions. Une autre question sur laquelle on s’est attardé moins longtemps est de savoir comment la législation s’applique à une personne qui ne veut pas être assujettie au régime d’assurance emploi. Je ferai quelques remarques sur ce point avant d’examiner les faits de la présente affaire.
+[8] Si les alinéas 5(2)i) et (3)b) sont interprétés à la lettre, une personne qui est liée à l’employeur est réputée ne pas exercer un emploi assurable; l’employé et l’employeur ne sont pas tenus de verser des cotisations et l’employé n’a pas droit à des prestations – à moins que le ministre ne soit convaincu que les modalités d’emploi sont celles qui existeraient en l’absence d’un lien de dépendance. Le ministre prend habituellement cette décision lorsqu’une personne présente une demande de prestations d’emploi. Toutefois, dans ce cas-ci, le ministre a pris sa décision dans le contexte de l’obligation de verser des cotisations. L’alinéa 5(3)b) prévoit-il ce genre de décision de la part du ministre?
+[9] À ce jour, la présente cour a reconnu, quoiqu’avec réticence, que le ministre est autorisé à prendre une décision, en vertu de l’alinéa 5(3)b), en vue d’exiger le paiement de cotisations. La loi est considérée comme ayant une portée suffisamment générale selon une interprétation stricte pour conférer ce pouvoir au ministre : voir Hoobanoff Logging Ltd. c. M.R.N., [1999] A.C.I. 856 (C.C.I.). Le passage suivant est tiré de la décision rendue par le juge suppléant Porter :
+Je suis d’avis que la loi lui permet d’agir ainsi dans les circonstances appropriées, mais que cela ne va pas vraiment dans le sens des modifications qui ont été apportées à la Loi sur l’assurance chômage en 1990, lorsque ce pouvoir discrétionnaire a été proposé pour la première fois [...]
+Néanmoins, sur le plan de l’interprétation littérale du droit, je suis convaincue que le ministre a effectivement le pouvoir légal d’agir ainsi.
+(Paragraphes 11 et 12)
+[10] L’historique législatif donne à entendre que l’alinéa 5(3)b) a été édicté afin d’accorder une réparation, de façon qu’une personne ne se voie pas refuser des prestations d’emploi à moins que le refus ne puisse être justifié pour une raison autre que la relation existant entre les parties. Avant que l’alinéa 5(3)b) ait été édicté en 1990, une personne qui était employée par un conjoint était tout simplement exclue du régime d’assurance emploi. Dans l’arrêt Canada c. Druken, [1989] 2 C.F. 24 (C.A.F.), il a été statué que cette exclusion était discriminatoire et contraire à la Loi sur les droits de la personne. La disposition a donc été radiée et jugée inopérante. L’arrêt Druken a entraîné la modification de la législation peu de temps après. La nouvelle disposition, maintenant alinéa 5(3)b), fait en sorte qu’une personne ne se voie pas refuser des prestations d’emploi si les modalités d’emploi sont à peu près semblables à celles qui s’appliqueraient en l’absence d’un lien de dépendance.
+[11] Lorsque l’historique législatif et les dispositions législatives sont examinés ensemble, il semble que, dans ce régime, les personnes liées à leur employeur ne soient pas admissibles à l’assurance-emploi à moins de pouvoir convaincre le ministre qu’elles doivent y avoir droit compte tenu du critère relatif à l’absence de lien de dépendance qui est prévue à l’alinéa 5(3)b). Si tel est le régime législatif, les alinéas 5(2)i) et 5(3)b) ne doivent pas être interprétés, selon l’approche dite moderne qui s’applique en matière d’interprétation de la loi, d’une façon que le législateur n’a pas prévue. Je doute donc que l’alinéa 5(3)b) confère au ministre le pouvoir d’exiger qu’une personne qui est liée à l’employeur verse des cotisations d’assurance emploi.
+[12] Ce pouvoir ministériel ne ressort pas clairement du texte de la loi; de plus, puisqu’il est en partie de nature discrétionnaire, il s’agit d’un pouvoir passablement inéquitable dans un système d’autocotisation. Les gens doivent décider s’ils verseront des cotisations et risquer que le ministre refuse de leur verser des prestations. D’autre part, dans le cas où les cotisations ne seraient pas versées, le ministre peut exiger rétroactivement de telles cotisations.
+[13] Pour ces motifs, il n’est pas clair, selon moi, que le législateur ait voulu que le ministre possède le type de pouvoir qui a été exercé dans ce cas-ci. Toutefois, je n’ai pas à tirer de conclusion sur ce point, et ce, à cause de la conclusion à laquelle je suis arrivée eu égard aux faits particuliers de l’espèce.
+Disposition [62] Par conséquent, les décisions prises par le ministre déclarant assurables les emplois de Francine Vincent Allard, Yvon Vincent et Jasmin Allard sont annulées. Je déclare que les emplois de ces derniers ne sont pas des emplois assurables.
+[63] Les appels sont accueillis.
+Signé à Ottawa, Canada, ce 8e jour de juin 2015.
+« Johanne D’Auray »
+Juge D’Auray
+RÉFÉRENCE :
+2015 CCI 139
+Nº DU DOSSIER DE LA COUR :
+2013-4159(EI)
+2013-4160(EI)
+2013-4165(EI)
+INTITULÉ DE LA CAUSE :
+V.Y.F. EXPRESS INC. c LE MINISTRE DU REVENU NATIONAL
+VIPRO INC. c LE MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Le 20 février 2015
+MOTIFS DE JUGEMENT PAR :
+L’honorable juge Johanne D’Auray
+DATE DU JUGEMENT :
+Le 8 juin 2015
+COMPARUTIONS :
+Avocat des appelantes :
+Me Jean-François Brouillard
+Maxime Bessette, stagiaire en droit
+Avocat de l’intimé :
+Me Emmanuel Jilwan
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante:
+Nom :
+Me Jean-François Brouillard
+Maxime Bessette, stagiaire en droit
+Cabinet :
+Cain Lamarre Casgrain Wells
+Pour l’intimé :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pour faciliter et alléger la lecture de mes motifs et pour éviter une confusion entre les travailleurs, je réfère dans mes motifs à leurs prénoms.
+[2] Même si j’utilisais le taux horaire médian à 32,00 $ et 33,99 $ comme taux horaire, les salaires reçus de Francine sont inférieurs à ceux de l’industrie.
+[3] Même si j’utilisais le taux horaire médian, les salaires reçus par Yvon sont inférieurs à ceux de l’industrie.

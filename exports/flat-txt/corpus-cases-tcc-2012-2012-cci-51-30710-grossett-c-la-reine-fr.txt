@@ -1,0 +1,116 @@
+Title: Grossett c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30710/index.do
+Corpus path: corpus/cases/tcc/2012/2012-cci-51-30710-grossett-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2012-01-19
+
+# Grossett c. La Reine
+
+- Citation: 2012 CCI 51
+- Decision date: 2012-01-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7513, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Grossett c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-01-19
+Référence neutre
+2012 CCI 51
+Numéro de dossier
+2008-1720(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-1720(IT)I
+ENTRE :
+JAMES O. GROSSETT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue le 19 janvier 2012, à Toronto (Ontario)
+Devant : L’honorable juge J.M. Woods
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Ernesto Caceres
+____________________________________________________________________
+ORDONNANCE
+Étant donné la requête déposée par l’appelant en vue d’obtenir une ordonnance annulant un jugement rendu par la Cour le 26 avril 2011, par lequel la Cour a rejeté un appel interjeté à l’encontre des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2002, 2003, 2004, 2005 et 2006;
+LA COUR ORDONNE que la requête soit accueillie et que le jugement soit annulé.
+LA COUR ORDONNE EN OUTRE que l’instruction de l’appel devant notre Cour ait lieu au Centre de la magistrature fédérale, situé au 180, rue Queen Ouest, 6e étage, Toronto (Ontario), à compter de 9 h 30, le 28 mars 2012, pour une durée estimative de trois (3) jours.
+Les parties assumeront leurs propres dépens relativement à la présente requête.
+Signé à Toronto (Ontario), ce 14e jour de février 2012.
+« J.W. Woods »
+La juge Woods
+Référence : 2012 CCI 51
+Date : 20120214
+Dossier : 2008-1720(IT)I
+ENTRE :
+JAMES O. GROSSETT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+La juge Woods
+[1] Par cette requête, l’appelant, James Grossett, demande la reprise d’un appel ayant été rejeté après que l’appelant eut omis de comparaître à une audience sur l’état de l’instance. Ce jugement avait été rendu par le juge en chef adjoint Rossiter, le 26 avril 2011.
+[2] L’appel concerne les nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu à l’égard des années d’imposition 2002 à 2006, inclusivement.
+[3] L’intimée s’oppose à la requête au motif que la demande n’a pas été présentée dès que les circonstances le permettaient. L’avocat soutient qu’il a parlé à l’appelant en mai 2011 pour l’informer du jugement. Il semble toutefois que l’appelant ait attendu jusqu’en août 2011 avant de prendre des mesures pour faire annuler le jugement. L’appelant a déposé auprès de la Cour une lettre datée du 15 avril 2011, dans laquelle il demandait l’annulation du jugement; cependant, pour des motifs que l’appelant n’a pu expliquer de manière satisfaisante, la Cour n’a reçu la lettre que le 15 août 2011.
+[4] L’intimée s’étant opposée à la demande, la Cour a ordonné que le traitement de la demande se fasse par voie de requête instruite par la Cour. L’appelant a donc déposé un avis de requête le 10 janvier 2012.
+[5] L’intimée cite l’article 18.21 de la Loi sur la Cour canadienne de l’impôt, qui est reproduit ci-après.
+Défaut de comparution
+18.21 (1) Sauf si elle est d’avis que les circonstances justifient que l’appel soit entendu à une date ultérieure, la Cour est tenue, à la demande de l’intimé et ce, que l’appelant en ait été avisé ou non, d’ordonner le rejet de l’appel si ce dernier ne comparaît pas à la date fixée pour l’audition ou n’obtient pas un ajournement.
+Reprise
+(2) L’appelant dont l’appel a été rejeté peut demander qu’il soit repris et que l’ordonnance de rejet soit annulée.
+Ordonnance de reprise
+(3) La Cour peut annuler l’ordonnance de rejet si les conditions suivantes sont réunies :
+a) compte tenu de toutes les circonstances, il n’était pas raisonnable de s’attendre à ce que l’appelant soit présent à l’audition;
+b) l’appelant a présenté sa demande d’annulation dès que cela a été possible, compte tenu des circonstances, mais dans tous les cas au plus tard cent quatre-vingts jours suivant la date de l’envoi par la poste de l’ordonnance rejetant son appel.
+[6] Je conviens avec l’intimée que l’appelant aurait pu présenter plus tôt sa demande visant à faire annuler le jugement. Cependant, cela ne rend pas la requête irrecevable.
+[7] Le paragraphe 18.21(3) de la Loi de la Cour canadienne de l’impôt autorise la Cour à annuler une ordonnance rejetant un appel si deux conditions sont satisfaites. L’une de ces conditions est que la demande d’annulation soit présentée dès que possible, compte tenu des circonstances.
+[8] Le problème vient du fait que cette disposition ne s’applique pas à un rejet consécutif au défaut de comparaître à une audience sur l’état de l’instance. Elle ne s’applique que dans les cas où l’appelant omet de comparaître à l’audition de l’appel. Les audiences sur l’état de l’instance sont des procédures préliminaires qui n’ont généralement pas lieu dans le cadre d’appels instruits selon une procédure informelle. Il n’est pas étonnant qu’aucune disposition législative particulière ne s’applique en l’espèce.
+[9] Par conséquent, en l’absence de disposition législative applicable, la requête devrait être examinée en regard d’un principe plus général, en se demandant s’il serait juste et équitable d’annuler le jugement compte tenu de toutes les circonstances, y compris le moment où la demande a été présentée. Je suis d’avis que la prépondérance de la preuve en l’espèce penche en faveur de l’annulation du jugement.
+[10] Premièrement, même si l’appelant aurait pu agir plus tôt, le délai n’est pas démesuré.
+[11] Deuxièmement, il semble que l’appelant pourrait ne pas avoir reçu l’avis d’audience sur l’état de l’instance, ni le jugement proprement dit. Ces documents ont en effet été retournés au greffe, en tant que courrier non distribuable. L’avocat de l’intimée a été informé de ce fait pour la première fois lors de l’audience.
+[12] Troisièmement, l’intimée me demande de tenir compte du fait que l’appel est sans fondement. Son avocat fait valoir que ces appels sont comparables à plusieurs autres rejetés par notre Cour, qui portaient sur des reçus de dons dont les montants avaient été gonflés. Il semble qu’un des auteurs ait plaidé coupable à une accusation au pénal liée au stratagème : Scott c. La Reine, 2010 CCI 237, 2010 DTC 1172, au paragraphe 17.
+[13] L’avis d’appel déposé par l’appelant laisse croire que les reçus de dons sont valides. La véracité de cette allégation ne pourra être établie qu’à la lumière de la preuve qui sera dûment présentée durant l’audition de l’appel. Je suis d’avis qu’il n’est pas approprié de conclure que l’appel est sans fondement.
+[14] Quatrièmement, il semble que la reprise de l’appel ne causerait pas de préjudice important à l’intimée. L’avocat de l’intimée m’a informée que des appels semblables ont été inscrits au rôle pour une audition de trois jours devant débuter le 28 mars 2012. Le présent appel pourrait être inscrit au rôle pour audition au même moment.
+[15] Pour ces motifs, je conclus que le jugement rejetant les appels doit être annulé. L’audience relative à l’appel débutera le 28 mars 2012.
+[16] Aucuns dépens ne sont adjugés.
+Signé à Toronto (Ontario), ce 14e jour de février 2012.
+« J.M. Woods »
+La juge Woods
+RÉFÉRENCE : 2012 CCI 51
+NO DU DOSSIER DE LA COUR : 2008-1720(IT)I
+INTITULÉ : JAMES O. GROSSETT c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 19 janvier 2012
+MOTIFS DE L’ORDONNANCE : L’honorable juge J.M. Woods
+DATE DE L’ORDONNANCE : Le 14 février 2012
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Ernesto Caceres
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa (Ontario)

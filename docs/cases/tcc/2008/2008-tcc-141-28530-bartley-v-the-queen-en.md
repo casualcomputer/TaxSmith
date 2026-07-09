@@ -1,0 +1,146 @@
+---
+title: "Bartley v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28530/index.do"
+last_modified: "2008-03-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 141"
+citation2: ""
+neutral_citation: "2008 TCC 141"
+decision_date: "2008-03-07"
+language: "en"
+item_id: "28530"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1259
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:27:19.463000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ebfce6e71dba7c7e1a833bb4a8c31ea2323d6b47cced0d5890d29e4eb1eb256f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bartley v. The Queen
+
+- Citation: 2008 TCC 141
+- Decision date: 2008-03-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1259, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bartley v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-03-07
+Neutral citation
+2008 TCC 141
+File numbers
+2006-3303(IT)I
+Judges and Taxing Officers
+Eugene P. Rossiter
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-3303(IT)I
+BETWEEN:
+BRIAN BARTLEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 6, 2007 at London, Ontario
+Before: The Honourable Justice E. P. Rossiter
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Roger Leclaire
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2004 taxation year is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 7th day of March, 2008.
+"E. P. Rossiter"
+Rossiter, J.
+Citation: 2008TCC141
+Date: 20080307
+Docket: 2006-3303(IT)I
+BETWEEN:
+BRIAN BARTLEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Rossiter, J.
+Introduction/Background
+[1] The Appellant is an employee of Dow Chemical Canada Inc. (“Dow”) and the father of eight children. In 2004, three of his children were attending university and they each received an award of $3,000 from Dow’s “Higher Education Award Program” (“HEAP”) in partial reimbursement of their tuition fees. The Canada Revenue Agency (“CRA”) included the $9,000 in the income of the Appellant on the basis that the award was a taxable benefit under paragraph 6(1)(a) of the Income Tax Act (the “Act”). The taxpayer has appealed and submits that the HEAP award is scholarship income to his daughters.
+Issue
+[2] The issue in this appeal is whether the $9,000 paid to the Appellant’s children by Dow was an employment benefit to the Appellant that is to be included in the Appellant’s income by virtue of paragraph 6(1)(a) of the Act.
+Facts
+[3] In 2004, the Appellant was an engineer employed by Dow. He is married and the father of eight children, three of whom were attending university in 2004. Each of the university attendees was in receipt of $3,000 from HEAP paid directly to them in the form of a cheque from Dow. Alysia Bartley (Alysia), age 23, was attending Lakehead University; Carolyn Bartley (Carolyn), age 21 and Johanna Bartley (Johanna), age 19 were attending Wilfrid Laurier University (collectively, “the children”).
+[4] The particulars of HEAP are fully described in the “Benefits Guide Higher Education Award Program (HEAP) for Employees of Dow Chemical Canada Inc.” (the “Guide”). Some highlights of HEAP are described as follows:
+1. HEAP was established for the purpose of recognizing the scholastic achievement of children of eligible employees, as well as retired, expatriated and deceased employees, and to provide financial assistance as a means of encouraging them to undertake post-secondary education.
+2. HEAP is an annual reimbursement program that covers base tuition for post-secondary university studies for up to 100 students each year. The program covers the student’s full tuition, to a maximum of $3,000 per school year.
+3. In order to qualify for an award, the student must be the child of a current, disabled, retired or deceased employee of Dow and must attend an approved university, college or institute. The student must have an average of 70% in the graduating year of high school. If there are more than 100 qualified applicants in any given year, the awards will be distributed based on the highest averages of the applicants.
+4. Provided that the student maintains good academic standing, the award can be renewed annually, for a maximum of four awards.
+5. The employer, Dow, has the right to modify or terminate the Program or any part of the Program without prior notification to the employees or the recipients.
+[5] As a result of an audit conducted by CRA in 2004, payments made to students are treated as taxable income to the employees.
+[6] In addition to the HEAP award, the children were each awarded other scholarships. They also each received loans from the Canada-Ontario Integrated Student Loan Program (OISLP). The children used the scholarship and loan money as well as money from their personal savings to pay for their tuition and other expenses. The Appellant reached into his pocket on occasion to help his children out with their education and in 2004 he probably helped all three children.
+Position of the Appellant
+[7] The Appellant submits that the scholarships:
+1. Were not a benefit received or enjoyed by the Appellant and therefore are not income as contemplated in paragraph 6(1)(a) of the Act;
+2. Were not payments by an employer to an employee as contemplated in subsection 6(3) of the Act;
+3. Were not a benefit conferred on a person as contemplated in section 246(1) of the Act;
+4. Were on account of a scholarship, bursary or prize for achievement in the field of endeavour ordinarily carried on by the respective children as provided in paragraph 56(1)(n) of the Act;
+5. If the scholarships funds were income to the Appellant then the funds should be excluded from the Appellant's income because they meet the requirements of subparagraph 6(1)(b)(ix) of the Act.
+[8] Finally the Appellant argued that if all other arguments fail, then I should consider decision of Rip, J. (as he then was) in Detchon v. Canada, [1995] T.C.J. No. 1342, that:
+[60] ... If it was the practice of Revenue Canada not to enforce its published policy and therefore gave some comfort to taxpayers like the appellants, the Minister should recommend, pursuant to the Financial Administration Act, remission of the tax and interest assessed on the benefits.
+Position of the Respondent
+[9] The Respondent takes the position that the scholarships were benefits to the Appellant pursuant to paragraph 6(1)(a) or subsection 56(2) of the Act because, but for the Appellant's employment status, the dependents could not apply for the scholarship and would not be eligible for the scholarships. The Respondent submits that these benefits were no different than any other benefits the Appellant was entitled to in the course of employment, whether it be medical coverage, dental coverage, prescription coverage or pension fund credits.
+[10] The Respondent also argues, that in any event, these scholarships are not scholarships as defined in paragraph 56(1)(n) because there was not a fixed number of scholarships available; the scholarships are not truly based on the scholastic records of the applicants since the threshold is only 70%; there is no real evaluation or selection process; and/or there was not any real committee doing an evaluation or selection of the applicants for the scholarships.
+Law and Analysis
+[11] I have had occasion to consider whether the HEAP awards are a taxable benefit in my judgment of even date in John DiMaria v. Her Majesty The Queen (2006-1400(IT)G). In DiMaria I determined that the awards were not a benefit received or enjoyed by the Appellant. I also addressed whether the award was a scholarship within the meaning of paragraph 56(1)(n) and whether the award should be included in the Appellant’s income by virtue of subsections 6(3) or 246(1). Given that the case at bar deals with the same award program as DiMaria, I adopt my comments of that decision and will not repeat them here.
+[12] I conclude that nothing was received or enjoyed by the Appellant in relation to the HEAP award to his children and as result the monies in question are not taxable in the hands of the Appellant. I also find that the amounts qualify as scholarships to the children within the meaning of paragraph 56(1)(n) of the Act and that subsections 6(3) and 256(1) of the Act have no application to the facts of this case.
+[13] I do think that this case is a stronger illustration than DiMaria of the policy arguments that support the finding that the amounts should be taxable in the hands of the children. Here we have a father of eight, who has three children attending university at the same time. The children all qualified at one point or another for government loans through the OISLP. Each of the children wrote a letter, entered as exhibits, confirming that she had qualified for a loan. Carolyn included in her letter that the administrators of the OISLP view the HEAP award as scholarship income to the student and that her loan eligibility was reduced by $3,000 accordingly. I include reference to these letters only to add to my Reasons in DiMaria wherein I wrote that if Parliament, in its wisdom, does decide that employer-provided scholarships ought to be taxed in the hands of the parent, factors such as the income of the parent and the number of dependents, and how these relate to federal and provincial loan and bursary programs, should be considered to ensure Parliament will be achieving its objectives – whether it be to increase the tax burden of certain parents or provide some financial relief to taxpayers of the future – the student.
+[14] This appeal is allowed. The Appellant shall have his costs which are fixed in the amount of $500. Because I have found for the Appellant, there is no need to address his alternative arguments concerning subparagraph 6(1)(b)(ix) and Rip J.’s comments in Detchon. I refer the matter back to the Minister for reconsideration and reassessment based upon the foregoing.
+Signed at Ottawa, Canada, this 7th day of March, 2008.
+"E. P. Rossiter"
+Rossiter, J.
+CITATION: 2008TCC141
+COURT FILE NO.: 2006-3303(IT)I
+STYLE OF CAUSE: BRIAN BARTLEY AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: London, Ontario
+DATE OF HEARING: June 6, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice E. P. Rossiter
+DATE OF JUDGMENT: March 7, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Roger Leclaire
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

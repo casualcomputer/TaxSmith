@@ -1,0 +1,182 @@
+Title: Beach Place Ventures Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/362078/index.do
+Corpus path: corpus/cases/tcc/2019/2019-tcc-24-362078-beach-place-ventures-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2019-01-29
+
+# Beach Place Ventures Ltd. v. The Queen
+
+- Citation: 2019 TCC 24
+- Decision date: 2019-01-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4345, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Beach Place Ventures Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-01-29
+Neutral citation
+2019 TCC 24
+File numbers
+2017-514(EI), 2017-516(CPP)
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Canada Pension Plan
+Notes
+A correction was made on February 22, 2019.
+Decision Content
+Docket: 2017-514(EI)
+2017-516(CPP)
+BETWEEN:
+BEACH PLACE VENTURES LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+ALI ABADI-ASBFROUSHANI
+Intervenor.
+Appeal heard on December 5 and 6, 2018, at Vancouver, BC.
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+Counsel for the Appellant:
+Shaun Ramdin
+Taylor Clarke
+Counsel for the Respondent:
+For the Intervenor:
+Spencer Landsiedel
+The Intervenor himself
+AMENDED JUDGMENT
+The appeal from the decision dated November 8, 2016 made by the Minister under the Employment Insurance Act, SC., 1996, c.23, as amended, and the Canada Pension Plan RSC., 1985, c. C-8, as amended, for the reporting period from January 24, 2015 to January 1, 2016, is allowed, without costs, and the decision of the Minister of National Revenue is vacated in accordance with the attached Reasons for Judgment.
+The amended judgment and amended Reasons for Judgment are issued in substitution for the Judgment and Reasons for Judgment dated January 29, 2019.
+Signed at Ottawa, Canada, Canada, this 20th day of February, 2019.
+“R.S. Bocock”
+Bocock J.
+Citation: 2019 TCC 24
+Date: 20190220
+Dockets: 2017-514(EI)
+2017-516(CPP)
+BETWEEN:
+BEACH PLACE VENTURES LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+And
+ALI ABADI-ASBFROUSHANI
+Intervenor.
+AMENDED REASONS FOR JUDGMENT
+Bocock J.
+I. FACTUAL BACKGROUND
+[1] The intervenor (“Mr. Abadi”) was a taxicab driver for hire from 2008 through 2013. During that period, he agreed with the appellant (“Beach Place”) that he was an independent contractor. He filed his tax return that way; each year he declared his gross business income, deducted his expenses, remitted GST and paid tax on his net business income. In 2014, he had a revelation: Mr. Abadi and Beach Place had been wrong. Mr. Abadi became certain he was an employee of Beach Place or its parent, Black Top Cabs. He was not in business on his own account. He was engaged under a contract of service. Therefore, in 2014 and 2015, he recorded his income as employment income.
+[2] When Mr. Abadi left Black Top in 2015, the CRA investigated and made a determination that Mr. Abadi was an employee of Beach Place engaged in employment. His remuneration was pensionable and earnings insurable. As such, Beach Place was assessed by the Minister for unremitted Canada Pension Plan contributions and employment insurance premiums. Beach Place disagrees and has appealed the Minister’s determination.
+[3] The appeal took two days of hearing. Four taxi drivers, including Mr. Abadi, testified. The fifth witness was the general manager of Beach Place and Black Top Cabs. After such testimony, it became clear to the Court that no person merely hailing a cab on the streets of Vancouver, unfamiliar with the taxi industry in that city, would appreciate the nuances of the business structures involved in such operations.
+[4] The regulatory structure alone involves all three levels of government. The city of Vancouver, through its Public Transportation Department, regulates taxi fares, the number of operators and general codes of compliance. The British Columbia Government licences the drivers through chauffer licence accreditation and vehicle safety checks. The Federal Government maintains certain transportation safety regulations concerning operation at hours for drivers through the National Safety Code.
+[5] The ownership and deployment of the taxis is not simple either. The vehicles used as taxis are owned by taxi drivers. Notionally, each owner purchases one-half of a daily 12 hour shift: the daytime or the nighttime slot. These owners operate the vehicles themselves for certain days of the week. They hire or sub-let one-half day slots to other taxi drivers should owners choose not to drive. The taxi leases may be by the day, week, month or year. The rates are the subject of negotiation between the taxi owner and the lessee. Similarly, a lessee has no restrictions on further sub-leasing provided the sub-lessee is a licensed taxi driver and so recorded on the Beach Place list. There are in excess of 500 taxi drivers on the list of Beach Place/Black Top. Of that number, there are approximately 260 owners. Some own multiples shares of cars. Taxi owners comprise the shareholders of Black Top. As well, the owners are the stakeholders who determine the default half-day hire rate for taxis which a lessee pays an owner (the “Daily Tariff”). The Daily Tariff may be altered upon agreement between any owner, lessee or sub-lessee at the relevant time of vehicle hire.
+[6] Beach Place, on behalf of Black Top (in turn owned by the taxi owners/lessors), is the central clearing house or repository at which drivers pick up the leased vehicles, obtained keys and stationery (receipts and daily log sheets) and, at the end of the 12-hour shift, drop off their vouchers, credit and debit receipts and log sheets. Should a taxi driver not have a direct business relationship with an owner or sub-lessor for a hired vehicle, then she or he may simply call Beach Place, make a request for a vehicle for an upcoming shift and, if available, receive an owner or sub-lessor’s vehicle rentable at the Daily Tariff.
+[7] Similarly, Beach Place, acts as a financial clearing house for reconciling the taxi hire fares, whether the Daily Tariff or a longer rate or amended rate. Beach Place maintains an account for each person on the taxi driver roster. Generally, each taxi driver turns in his fare sheet and record at the end of the shift. If the driver is not an owner, all credit cards, debit card and corporate account vouchers are handed in at the end of the shift (the “receipts”). The driver keeps all cash receipts; the cash receipts are not delivered to the owner, sub-lessor or Beach Place. From the non-cash receipts, the Daily Tariff or negotiated vehicle hire rate is deducted. This rental rate is paid to the owner by Beach Place, by crediting the owner’s account. The balance of the net receipts is then credited to the taxi driver who first turned in the receipts. A payment for such balance is made by cheque normally on the 15th and last day of the month. Should the owner or sub-lessor have departed from the Daily Tariff or other deducted amount, then the owner or sub-lessor will pay the taxi driver the balance due at a later date, usually the end of the month. Should the daily receipts be less than the Daily Tariff or applicable taxi hire rate, the taxi driver must supplement the receipts to cover the rental fee.
+[8] The operating costs of Beach Place and Black Top are met through an assessment at the end of the month levied against the owners and sub-lessors. The costs re-covered are insurance, dispatch fees, equipment, repairs and salaries and wages of the office, administrative and dispatch employees.
+[9] Three layers of governmental rules must be enforced. This falls to Beach Place. Owners, sub-lessors, taxi drivers are required to comply with sophisticated and detailed rules. All drivers risk sanction or suspension from the dispatch frequency should they violate the rules. These rules range from how to cue for a fare, acceptable times for fare pick-up, anti-poaching rules, radio use and safety concerns.
+[10] All of the taxi driver witnesses, including Mr. Abadi, at some point had leased a vehicle from another driver and had leased a vehicle to another driver. For Mr. Abadi, both situations occurred during the month of August 2015, when an owner operator colleague went to Europe. The monthly hire fee was negotiated directly between Mr. Abadi and the owner. Mr. Abadi drove the taxi himself certain days and sub-let it other days to other drivers. Remarkably, there seems to have been little dispute among drivers, owners, sub-lessors and Beach Place concerning money. Given the variety of rates, number of parties and side-deals, this lack of dispute is a testament to the strength of custom, mutuality and efficiency within this virtual organisation.
+II. THE LEGAL TEST and MINISTER’S POSITION
+[11] The Minister asserts that Mr. Abadi was not engaged in a business on his own account. To discern this legally, firstly one must apply the two stage test outlined and confirmed in the case of Connor Homes [1] . Secondly, was the original intention confirmed when upheld against the lens of the objective reality?
+[12] On the facts of this case, the Minister submits the Mr. Abadi and Beach Place had no common intention at the outset. Mr. Abadi felt compelled to file his tax returns as self-employed from 2008 to 2013 because he wanted to earn income. As a further testament to this fact, Mr. Abadi has since moved to a competitor where an actual agreement confirming self-employment was signed. Again, Mr. Abadi has done so under self-proclaimed duress in order to earn income.
+[13] Moving to the factors to be considered, the Minister asserts that control, equipment, responsibility and management, right to the hire replacement workers all militate towards a contract of service or employment. Only profit and loss suggests a contract for services or distinct business of Mr. Abadi.
+[14] As examples of control, Mr. Abadi had to comply with the considerable rules, regulations and protocols concerning the operation of the taxi and provision of services. He had to attend at the dispatch office to pick up the vehicle, stationery and keys. He had to return the vehicle and the cash envelope (ironically despite its name containing no cash) to the dispatch office at the end of the shift. He had to attend a one-half day training session when he started.
+[15] In terms of sanction for non-compliance, the discipline code (“Code 6”) was arbitrary. The documentation between co-owners, vendors and sellers, allowed Beach Place to discipline drivers by removing them from the list (effectively dismissing them). The Daily Tariff was set by the board of directors (owner’s representatives). Certain fares from large corporate clients had to be accepted. Zones were established by dispatch committees without input from Mr. Abadi.
+[16] As to equipment, Beach Place had control of the vehicles at its dispatch office, the trip meter and computer with GPS. These were the only pieces of equipment. The Minister further asserts that there was no investment by Mr. Abadi into the business or any business. He did not have business cards, did not advertise and could not undertake a business relationship with certain corporate voucher/account holders. In short, the Minister assets on balance the relevant factors indicate a contract of service.
+III. THE LAW
+a) The statutory provisions
+[17] The Court turns now to the statutory provisions upon which the Minister relies. Firstly, as to the Canada Pension Plan, the provisions are as follows:
+Definitions
+2 (1) in this Act,
+“Employee” includes an officer;
+“Employer” means a person liable to pay salary, wages or other remuneration in relation to employment, and, in relation to an officer, includes the person from whom the officer receives their remuneration;
+Pensionable employment
+6 (1) Pensionable employment is
+a) Employment in Canada that is not excepted employment
+8.1 (1) Every person by whom the remuneration of an employee for services performed in pensionable employment is paid either wholly or in part is, for the purpose of calculating the employee’s contributory salary and wages, maintaining records and filing returns, and paying, deducting and remitting the contributions payable thereon under the Act and the Regulations, deemed to be an employer of that employee in addition to the actual employer of that employee.
+[18] Secondly, the Employment Insurance Act (“EI Act”) provides as follows:
+Types of insurable employment
+5 (1) Subject to subsection (2), insurable employment is
+(d) employment included by regulations made under subsection (4) or (5)
+Regulations to include employment
+(4) The Commission may, with the approval of the Governor in Council, make regulations for including in insurable employment:
+(c) employment that is not employment under a contract of service if it appears to the Commission that the terms and conditions of service of, and the nature of the work performed by, persons employed in that employment are similar to the terms and conditions of service of, and the nature of the work performed by, persons employed under a contract of service.
+Employment Insurance Regulations
+6 Employment in any of the following employments, unless it is excluded from insurable employment by any provision of these Regulations, is included in insurable employment:
+(e) employment of a person as a driver of a taxi, commercial bus, school bus or any other vehicle that is used by a business or public authority for carrying passengers, where the person is not the owner of more than 50 per cent of the vehicle or the owner or operator of the business or the operator of the public authority
+Insurable Earnings and Collection of Premiums Regulations
+Passenger Vehicle Operators
+9 (1) Every owner or operator of a business or public authority that employs a person or persons in employment described in paragraph 6(e) of the Employment Insurance Regulations shall, for the purposes of maintaining records, calculating insurable earnings and paying the premiums payable on those insurable earnings under the Act and these Regulations, be deemed to be the employer of every such person whose employment under that paragraph.
+b) The authorities
+[19] The application of the two stage inquiry provided for in Connor Homes, which itself directs the consideration of the Wiebe Door [2] factors needed to answer the central question in Sagaz [3] , is the course this Court shall follow. However, that analysis may be shortened slightly in this appeal. There is clear and unequivocal jurisprudence on the topic of taxis, taxi drivers and the taxi industry in the very same city: Vancouver. The Federal Court of Appeal examined almost identical facts in Yellow Cab [4] . Yellow Cab distinguished and effectively overruled Skyline Cabs [5] . While not slavishly bound by such a decision where the inquiry is factual in nature, where a party wishes a different outcome on similar facts, some argument supporting the distinguishing of the facts upon which these authorities are based is needed [6] . Respondent’s counsel offered little such argument. Speaking directly to the gist of the critical issue in Sagaz, Justice Sexton stated at paragraph 31 of Yellow Cab:
+31. Referring back to the central question articulated by Major J. in Sagaz, I conclude that the lease-operators are in business on their own account. I also find that Hamlyn J. erred in considering only the factor of control to the exclusion of other relevant factors. The lease-operators are in the business of providing taxicabs to the public and therefore are the operators of the taxicab business within the meaning of s. 6(e). Meanwhile, Yellow Cab is in the business of providing administrative services to the taxicab business including providing taxicab support services in the form of dispatching, bookkeeping, branding and marketing.
+IV. ANALYSIS
+[20] In this appeal, the Court cannot but sense that the Minister was distracted in the analysis of whether Mr. Abadi was engaged at all by Beach Place, rather than vice versa. The purpose of a business is to make a profit. Profit is the quantum remaining after deducting costs from revenue. It is not the basis upon which one calculates wages for employment. The Court even remains uncertain as to whether Mr. Abadi was a worker (never mind employee) as between Beach Place/Black Top, on one hand, and the owners, on the other, or frankly of either. He was certainly the service provider to any fare who hired him to transport them from location A to B on the streets of Vancouver.
+[21] The alternative and more likely view, based upon the prevalent facts, is that Mr. Abadi engaged the services of Beach Place, Black Top and the taxi owner to support his taxi business. The comparative size of these corporate organizations versus the industrious drivers should not confuse the observer. Each day, week or month, Mr. Abadi procured a taxi. It was fully equipped. He hired it from the owner. The owner required Mr. Abadi to use his front office and back office at Beach Place to effect pick-up, payment, repair and operation. Control, rules, regulations and safeguards were in place as conditions of use for this valuable piece of rented equipment. There were also considerable supports and ancillary services: dispatch, repair and accounting services. Such services applied to and assisted everyone: drivers, owners, lesser and lessors alike. Such services were purchased with one, negotiated, flat, fixed fee. It was paid from the non-cash receipts, after and not before the shift. The lease fee also constituted, aside from gas, an investment or outlay Mr. Abadi made in his business to procure the means of production: the taxi vehicle.
+[22] While this infrastructure and virtual organization may have been a bit confusing, the economics of Mr. Abadi’s business were simple. The process was this. Mr. Abadi obtained a chauffeur’s licence and passed a criminal record check. He then approached Beach Place and was placed on the “list”. He found an owner lessor from whom to lease a taxi. Sometimes he did it directly. Sometimes he simply availed himself of the vehicle match list at the Beach Place dispatch office. If he did not negotiate the rate, the default Daily Tariff would apply. While that amount could be manipulated by him through negotiation, the methodology of profit calculation was clear and unchanging. At the end of each day, week, month or year, Mr. Abadi calculated all revenue receipts: cash which he kept and charges from credit/debit cards and vouchers which he remitted to Beach Place who tallied same and credited him his due. He then deducted his all-inclusive lease payments and fuel costs and determined his profit (or loss). He did this from 2008-2013. During that period, he also remitted the GST and claimed ITC’s. Then, without a single alteration in the details underpinning this arrangement and calculation, Mr. Abadi changed his mind. He was instead now an employee of Beach Place/Black Top. As a result of that and the ensuing investigation, so did the Minister.
+[23] With this factual backdrop, the Court undertakes its analysis. Firstly, there was an original common intention for 7 years among all concerned, including Mr. Abadi. His later recanting of that intention does not alter the fact that he reported income from self-employment, deducted his business expenses and paid GST for 7 years. Further, absolutely nothing changed between the commencement of his relationship and cusp of the subject period. Nonetheless, onto the objective reality.
+[24] The main assertion of control by the Respondent relates to the discipline code, dispatch directions and supervision. Of important note is the fact that all such controls applied to every driver when driving: owner, lessee or sub-lessee alike. Those rules were administrative directions to enhance efficiency, safety, dependability and fares; in short, their existence raised revenue and reduced costs, all to the direct pecuniary benefit of the drivers and not Beach Place. This is not typical of an employer/employee relationship. The requirement to hand over vehicles at Beach Place’s office was again applicable to even the owners of the taxis who, unless they arranged otherwise, would pick-up the keys, log sheets and taxi’s at such premises. Again, efficiency and centrality seem to figure prominently in all drivers using this forum most of the time.
+[25] On the issue of ownership of tools, these were in fact rented from the owners and not supplied by the appellant. Further, the rental format could be manipulated to vary a cost input to the benefit of Mr. Abadi and no one else.
+[26] Opportunity to profit and exposure to loss is manifest. Mr. Abadi was the sole and only person whose profit or loss was unknown, variable and determinable by his operation of the taxi each day. Beach Place was paid by the owner. The owner was paid a fixed rental fee for Mr. Abadi’s lease of the taxi, but Mr. Abadi’s revenue was variable and mainly in his control. The Court cannot overstate how central this point is to identifying whose taxi business it was and who bore the risk of loss and chance to profit from his undertaking; it was primarily Mr. Abadi.
+[27] On the issue of investment, Mr. Abadi invested each day in his business through the rental of equipment for his sole and exclusive use: the fully equipped taxi.
+[28] Lastly, Mr. Abadi could and did sub-lease the rented taxi to others. This did not require the approval of Beach Place. It did require compliance with the licensing and accreditation process which Beach Place monitored on behalf of the owners. Again, this is a much a term of effective sub-leasing as supervision or control of workers. In any event, the fact remains, he could sub-contract.
+[29] On the more nuanced issue of the applicability of subsection 6(e) of the EI Act in the employment insurance context of taxi drivers, the Court identifies and endorses the position taken in Yellow Cab, where Justice Sexton again writes:
+39. This does not mean, as the Respondent contends, that s. 6(e) "was enacted to include in insurable employment the services of taxidrivers operating as independent contractors" nor does it mean that the Commission has deemed all taxidrivers to be in insurable employment. To the contrary, s. 6(e) expressly excludes taxidrivers that own or operate their own business from being deemed to be in insurable employment.
+45. The Respondent's interpretation of s. 6(e) would lead to the following inconsistency: when the lease-operators hire drivers, they are independent operators but the minute the lease-operator slips behind the wheel of the taxicab, the lease-operators' identity changes from that of independent operator to that of employee. Such an absurdity cannot have been intended by this legislation. If the legislation is interpreted as I have already suggested, no inconsistency arises. When the lease-operators drive the taxicabs themselves, they are working for themselves. Hence, they are self-employed and in business on their own account. Although a liberal interpretation of s. 6(e) is to be favoured, the Court cannot use that policy as an excuse to create absurdities in its application.
+Mr. Abadi was such a lease-operator. There are no distinguishing facts before the Court which justify a departure from the sound and logical analysis of Justice Sexton.
+[30] Accordingly, for the reasons stated above, the appeal is allowed. Mr. Abadi was engaged in his own business during the period January 24, 2015 to January 1, 2016. He was not an employee of Beach Place/Black Top engaged in a contract of service yielding insurable or pensionable income. Given the nature of the appeal and the subject rules to CPP and EI appeals, there shall be no costs.
+The amended judgment and amended Reasons for Judgment are issued in substitution for the Judgment and Reasons for Judgment dated January 29, 2019.
+Signed at Ottawa, Canada, Canada, this 20th day of February, 2019.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2019 TCC 24
+COURT FILE NOS:
+2017-514(EI) 2017-516 (CPP)
+STYLE OF CAUSE:
+BEACH PLACE VENTURES LTD. AND THE MINISTER OF NATIONAL REVENUE AND ALI ABADI-ASBFROUSHANI
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+December 5 and 6, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF JUDGMENT:
+DATE OF AMENDED JUDGMENT AND REASONS FOR JUDGMENT:
+January 29, 2019
+February 20, 2019
+APPEARANCES:
+Counsel for the Appellant:
+Shaun Ramdin
+Taylor Clarke
+Counsel for the Respondent:
+For the Intervenor:
+Spencer Landsiedel
+The Intervenor himself
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Shaun Ramdin
+Taylor Clarke
+Firm:
+Gall Legge Grant & Munroe LLP
+Vancouver, British Columbia
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 1392644 Ontario Inc. o/a Connor Homes v MNR, 2013 FCA 85 at paragraphs 39-40.
+[2] Wiebe Door Services Ltd v MNR [1986] 3 FC 533
+[3] 671122 Ontario Ltd v Sagaz Industries [2001] 2 SCR 983
+[4] Yellow Cab Co. v MNR, 2002 FCA 294
+[5] Canada (A.G) v Skyline Cabs (1982) Ltd. [1986] FCJ No. 335 (FCA)
+[6] Connor Homes, supra at para 20

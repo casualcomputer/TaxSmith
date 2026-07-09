@@ -1,0 +1,144 @@
+Title: 1338664 Ontario Limited v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29032/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-350-29032-1338664-ontario-limited-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-06-12
+
+# 1338664 Ontario Limited v. The Queen
+
+- Citation: 2008 TCC 350
+- Decision date: 2008-06-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6841, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+1338664 Ontario Limited v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-06-12
+Neutral citation
+2008 TCC 350
+File numbers
+2006-2517(IT)G
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-2517(IT)G
+BETWEEN:
+1338664 ONTARIO LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on December 10 and 11, 2007 at Toronto, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+Counsel for the Appellant:
+Richard G. Fitzsimmons
+Olivier Leger
+Counsel for the Respondent:
+Jenny P. Mboutsiadis
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to assessments made under the Income Tax Act for the 2001 and 2002 taxation years is allowed, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that one-half of the net gains from securities’ transactions for each year are on income account and the balance are on capital account.
+There is no order as to costs.
+Signed at Ottawa, Canada this 12th day of June 2008.
+“J. Woods”
+Woods J.
+Citation: 2008TCC350
+Date: 20080612
+Docket: 2006-2517(IT)G
+BETWEEN:
+1338664 ONTARIO LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] The issue in this appeal is whether a family-owned corporation was correct to report gains and losses from securities’ transactions on capital as opposed to income account.
+[2] In its returns of income for taxation years ended May 31, 2001 and 2002, the appellant, 1338664 Ontario Limited, reported capital gains in excess of capital losses from securities’ transactions in the amounts of $341,750 and $511,640, respectively. Both amounts have been reassessed as business income.
+[3] The assumptions relied on by the Minister of National Revenue in making the assessments, as set out in the reply, are reproduced below.
+10. In so reassessing the Appellant, and also in confirming the reassessment, the Minister proceeded upon the same assumptions of fact as follows:
+a) the Appellant was incorporated in February, 1999, and reported to be in the business of flooring and carpeting work, with its fiscal year ending May 31st;
+b) the Appellant’s sole shareholder for the year ending May 31, 2001, was the Gus George Family Trust;
+c) for the year ending May 31, 2002, the Appellant’s sole shareholder was Gus George;
+d) at all material times, Gus George was the Appellant’s President and sole employee;
+e) Gus George, having had traded actively in securities in his personal capacity, was very experienced and knowledgeable in stock markets;
+f) the Appellant ceased all its flooring and carpeting activities in its 2000 fiscal year, and no such activities were conducted in its 2001 and 2002 taxation years;
+g) for its 2001 and 2002 taxation years, the Appellant’s only activity was in buying and selling securities;
+h) for its 2001 and 2002 taxation years, 100 per cent of the Appellant’s revenue was generated from its securities transactions;
+i) the Appellant conducted its own research, and provided instructions to its brokers at the Toronto-Dominion Evergreen Investment Services (the “TD”) and the Canadian Imperial Bank of Commerce Wood Gundy (the “CIBC”) to buy and sell publicly traded securities;
+j) for its fiscal year 2001, the Appellant had securities trading accounts with TD in both Canadian and United States (“US”) funds, and it added another securities trading account in Canadian funds with CIBC in its 2002 fiscal year;
+k) the Appellant conducted 207 and 324 securities sale transactions in its 2001 and 2002 taxation years respectively;
+l) in the 2001 fiscal year, the Appellant disposed of 272,900 share in Canadian currency where 100 per cent of those securities were owned for less than 30 days, and 69 per cent of which were owned for less than 7 days;
+m) in the 2001 fiscal year, the Appellant disposed of 1,141,870 shares in US currency where 65 per cent of those securities were owned for less than 30 days;
+n) in the 2002 fiscal year, the Appellant disposed of 761,420 shares in Canadian currency where 81 per cent of those securities were owned for less than 30 days, and 44 per cent of the shares sold from the TD account and 80 per cent of the shares sold from the CIBC account were owned for less than 7 days;
+o) in the 2002 fiscal year, the Appellant disposed of 1,275,671 shares in US currency where 64 per cent of those securities were owned for less than 30 days;
+p) the proceeds from the Appellant’s securities transactions exceed their costs in amounts of not less than $341,750.00 and $511,640.00 for its 2001 and 2002 taxation years respectively; and
+q) In the 2001 and 2002 taxation years, the Appellant did not hold its securities with a long term view for dividend distribution but to gain from the quick purchase and sale of those securities.
+Analysis
+[4] It is the position of the respondent that the appellant’s net gains derived from securities’ transactions are income from a business, and are required to be included in computing income under section 3 of the Income Tax Act.
+[5] In general terms, the test for determining whether securities’ transactions constitute a business is whether the taxpayer is engaged in a scheme for profit‑making or whether there is merely an enhancement of value: Irrigation Industries Ltd. v. M.N.R., 62 DTC 1131 (SCC); Hawa v. The Queen, 2006 TCC 612, 2007 DTC 28.
+[6] To the same effect, in Salt v. Chamberlain, 53 TC 143 the English Chancery Division suggested that for share transactions to constitute a trade, “something” must be provided by the trade to earn the income. At page 152:
+[…] The matter is usefully summarised in the speeches of Lord Wilberforce and Lord Simon of Glaisdale in Ransom v. Higgs 50 TC 1, at pages 88 and 95. Lord Wilberforce says this, at page 88:
+“ ‘Trade’ cannot be precisely defined, but certain characteristics can be identified which trade normally has. Equally some indicia can be found which prevent a profit from being regarded as the profit of a trade. Sometimes the question whether an activity is to be found to be a trade becomes a matter of degree, of frequency, of organisation, even of intention, and in such cases it is for the fact-finding body to decide on the evidence whether a line is passed.”
+He goes on to say:
+“Trade involves, normally, the exchange of goods or of services for reward – not of all services, since some qualify as a profession or employment or vocation, but there must be something which the trade offers to provide by way of business. […]
+[Emphasis added; footnotes omitted]
+[7] It is a matter of degree as to whether share trading activity has crossed the line from passive investing to being a business. The difficulty often lies in determining where the line should be drawn.
+[8] Counsel for the appellant, citing Canadian, United Kingdom and United States’ jurisprudence, suggests that securities’ transactions are generally presumed to be on capital account. This may be the law in the United Kingdom and the United States, but the matter has not yet been settled in Canada (Robertson v. The Queen, 98 DTC 6227 (FCA), at note 18). I would also note that the application of such a presumption in Canada could have very harsh consequences for a taxpayer, depending on the circumstances, because the tax relief for capital losses under the Income Tax Act is quite limited.
+[9] The application of some sort of presumption, though, can be helpful in promoting certainty where the legislation does not provide much guidance. In circumstances such as these, I think it is useful to bear in mind the principle which is often described as “the tie goes to the taxpayer.” This catchy phrase implies that the principle only applies where the facts are extremely close to the line, but Estey J.’s famous pronouncement from Johns‑Manville Canada Inc. v. The Queen, 85 DTC 5373 (SCC) suggests a wider application. His comment reads as follows, at page 5384:
+[…] Such a determination is, furthermore, consistent with another basic concept in tax law that where the taxing statute is not explicit, reasonable uncertainty or factual ambiguity resulting from lack of explicitness in the statute should be resolved in favour of the taxpayer.
+[10] I turn now to the facts of the present case.
+[11] Mr. George originally began investing in the stock market in his own name but the activity was transferred to a family-owned corporation on the advice of his accountant.
+[12] I would describe Mr. George as a savvy investor, who uses both margin accounts and short sales as part of his strategy.
+[13] The majority of the securities acquired by the appellant during the relevant period were held for less than 30 days, and often the hold period was less than one week. Mr. George testified that he was not focused on the length of the hold period, but on making a profit. He said that his strategy was to hold a security until it rose eight to ten percent and he was prepared to hold it up to one year. The fact is, though, that in many cases the gains were made within one week.
+[14] My impression is that Mr. George is a relatively sophisticated investor, but he is also casual investor, in the sense that he has made no real study of the stock market and he relies to a great extent on recommendations from friends and acquaintances who are not in the brokerage industry.
+[15] Based on the assumptions of the Minister, the number of securities’ transactions undertaken by the appellant appears to be exceptionally high, 207 and 324 respectively during the two taxation years at issue. However, these figures give a markedly false impression of “busy-ness.”
+[16] The appellant submits that the Minister’s calculations overstate the actual number of trades because it was often necessary for a single trade order to be completed through several transactions. This makes sense, and although it would have been preferable for the evidence to be corroborated by an independent witness, I will accept it.
+[17] The appellant suggests that a more probative calculation would be the number of corporations whose securities were sold on a average monthly basis, which is four. This appears to be a reasonable approach, based on my cursory review of the trading summaries that were entered into evidence.
+[18] As for the time spent on this activity, Mr. George testified that he spent very little time on a daily basis, as his main occupation was as owner of a renovation business. He said he relied on the recommendations of others and did not spend much time researching himself. He did not read newspapers, but he did make use of chat lines on the internet to obtain information about some companies.
+[19] Counsel for the respondent submits that Mr. George spent significantly more time on this activity than he admitted, and she invited me to make this finding based on the large management fees that he received from the appellant.
+[20] I do not agree with this submission. It would not be necessary for Mr. George to spend much time on this activity if he depended on the recommendations of others. Further, I do not think that the size of the management fees implies anything about the time spent. This may simply have been an efficient way for the appellant to distribute the stock market gains to Mr. George. It is perhaps conceivable that the family trust, which was the sole shareholder of the corporation for the 2001 taxation year, could have complained if the fees paid to Mr. George were excessive, but there was no evidence or argument on this point.
+[21] Counsel for the respondent also submits that the short hold periods are themselves conclusive evidence of a business-like approach. The short hold periods may tend to point in this direction, but I think it is important to have specific evidence as to how the profits were actually made. As suggested in Salt v. Chamberlain, for trading activity to be a business, “something” of a business-like nature should be contributed by the taxpayer. What was the “something” in this case?
+[22] Mr. George’s testimony on this point was vague. He stated that he sometimes bought shares of a corporation shortly before its financial statements were released, and that in a very few instances he purchased shares on the strength of takeover rumours. He said, though, that it was mostly “gut feeling.”
+[23] This evidence is in my view unsatisfactory. Mr. George may not have applied a rigourous methodology to the trading activity, but the names of the corporations in which the appellant invested did not fall from the sky.
+[24] It would have been helpful to have more detailed evidence as to how the securities were selected. On what basis did Mr. George apply a gut feel? I invited Mr. George at the end of his testimony to provide further detail on this but he did not shed much light. The respondent, though, should bear part of the blame because this evidence went virtually unchallenged on cross-examination.
+[25] In the circumstances, the solution that I propose to adopt, which is admittedly arbitrary, is to consider that shares held for extremely short hold periods were likely earned from the application of a business-like strategy and that shares held for a longer period were not. An example of a business-like approach would be research as to when financial statements are about to be released. It does not matter whether the research was undertaken by Mr. George, his broker, or an acquaintance. It is the fact of a business-like approach being taken that is important.
+[26] I have concluded that it is appropriate in this case to apportion the gains on a 50/50 basis between income and capital. There is not a satisfactory rationale for this breakdown, except that it does appear to be a rough division of securities held for less than one week.
+[27] In the result, the appeal will be allowed, and the assessments will be referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that one-half of the net gains from securities’ transactions are on income account and the balance are on capital account.
+[29] In light of the divided success, there will be no order as to costs.
+Signed at Ottawa, Canada this 12th day of June 2008.
+“J. Woods”
+Woods J.
+CITATION: 2008TCC350
+COURT FILE NO.: 2006-2517(IT)G
+STYLE OF CAUSE: 1338664 ONTARIO LIMITED AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: December 10 and 11, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Woods
+DATE OF JUDGMENT: June 12, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Richard G. Fitzsimmons
+Olivier Leger
+Counsel for the Respondent:
+Jenny P. Mboutsiadis
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Richard G. Fitzsimmons
+Firm: Fitzsimmons & Company
+Toronto, Ontario
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

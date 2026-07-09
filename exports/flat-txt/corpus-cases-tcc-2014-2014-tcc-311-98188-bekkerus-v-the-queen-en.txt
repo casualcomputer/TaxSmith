@@ -1,0 +1,169 @@
+Title: Bekkerus v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/98188/index.do
+Corpus path: corpus/cases/tcc/2014/2014-tcc-311-98188-bekkerus-v-the-queen-en.md
+Document type: case_law
+Last modified: 2014-10-20
+
+# Bekkerus v. The Queen
+
+- Citation: 2014 TCC 311
+- Decision date: 2014-10-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5274, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bekkerus v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-10-20
+Neutral citation
+2014 TCC 311
+File numbers
+2014-1137(IT)I, 2014-1489(IT)I
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2014-1137(IT)I
+BETWEEN:
+DESIREE BEKKERUS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeal of
+Roseann Bekkerus, 2014-1489(IT)I
+on October 6, 2014, at Winnipeg, Manitoba
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+Agent for the Appellants:
+Chris Shannon
+Counsel for the Respondent:
+Larissa Benham
+AMENDED JUDGMENT
+In accordance with the common reasons for judgment attached, the appeal from assessment number 2062173 dated January 23, 2013 made under section 160 Income Tax Act is hereby dismissed.
+This Judgment is issued in substitution for the Judgment
+dated October 20, 2014
+Signed at Ottawa, Ontario, this 3rd day of December 2014.
+“R.S. Bocock”
+Bocock J.
+Docket: 2014-1489(IT)I
+BETWEEN:
+ROSEANN BEKKERUS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeal of
+Desiree Bekkerus, 2014-1137(IT)I on
+October 6, 2014, at Winnipeg, Manitoba
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+Agent for the Appellants:
+Chris Shannon
+Counsel for the Respondent:
+Larissa Benham
+AMENDED JUDGMENT
+In accordance with the common reasons for judgment attached, the appeal from assessment number 2182705 dated April 16, 2013 made under section 160 of the Income Tax Act is hereby dismissed.
+This Judgment is issued in substitution for the Judgment
+dated October 20, 2014
+Signed at Ottawa, Ontario, this 3rd day of December 2014.
+“R.S. Bocock”
+Bocock J.
+Citation: 2014 TCC 311
+Date: 20141020
+Docket: 2014-1137(IT)I
+BETWEEN:
+DESIREE BEKKERUS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2014-1489(IT)I
+AND BETWEEN:
+ROSEANN BEKKERUS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+COMMON REASONS FOR JUDGMENT
+Bocock J.
+I. Introduction [1] These two appeals involve the transfer of two items of property by a son and husband to his mother, Roseann, and to his spouse, Desiree, respectively. The Minister of National Revenue (the “Minister”) raised an assessment against the mother and the spouse because in each relevant tax year (stretching from 2005 to 2011), the son owed outstanding income taxes. Generally, in such cases, Appellants challenge components of the statutory framework of subsection 160(1) of the Income Tax Act (the “Act”). In this present case, that would otherwise be: the underlying validity of the son’s tax liability, the nature of the relationship between the son and his mother or his spouse and, most usually, the fair market value of the property transferred or the amount of value (or consideration) paid by the recipient for the transferred asset.
+[2] Specifically, in these two matters before the Court, the basis of the appeals as tendered by the Appellant’s agent is a singular legal argument of general application: the Act fails to describe a taxpayer as a person who gains her livelihood in the private sector.
+II. Some Additional Facts [3] As mentioned, there are no facts in dispute. Roseann and Desiree Bekkerus are the wife and mother, respectively, of Rick Bekkerus. In 2005, Rick transferred his 2002 Harley-Davidson motorcycle (the “Harley”) to Desiree for no consideration. At that time he owed approximately $206,000 to the Minister for income taxes assessed. In 2011, Rick transferred his 2011 Lexus RX450H (the “Lexus”) to Roseann for no consideration. At that time he owed the Minister in excess of $3,000,000 for income taxes assessed. At the respective time of transfer, the Harley had an assumed fair market value of $19,000 and the Lexus had an assumed fair market value of $51,500. The Minister raised assessments equal to the fair market values of the Harley and the Lexus, respectively, against Desiree and Roseann, again respectively, as transferees under section 160 of the Act.
+III. Preliminary Issues [4] The Appellants did not appear at the hearing, but were represented by an agent. In open court at the outset of the hearing and in response to the Court’s direct questions, the agent, Mr. Chris Shannon, confirmed by representation several things: his authority granted by both Appellants to act on their behalf, Roseann Bekkerus’ election to proceed under the Court’s Informal Procedure and her concurrent waiver of appeal rights in excess of the $25,000 jurisdiction limited under the Tax Court of Canada Rules (Informal Procedure) ( SOR /90-688b), and his receipt, as agent, of the Appellants’ instructions to proceed in both their absences. These reasons are delivered in writing in light of the Appellants’ absences.
+[5] The agent, Mr. Shannon, also advised the Court at the outset that the Appellants would call no evidence to dispute the underlying assessments, relationship of transferor and transferees, the fair market value of the transferred property or the absence of consideration.
+IV. Legal argument of the Appellants [6] No evidence was called by the Appellants and affidavits of an appeals officer, nonetheless present in Court should cross examination be sought, had been filed in advance of the hearing describing the underlying assessments, relationship, transfers, fair market value and lack of consideration. Accordingly, the Court proceeded to hear legal submissions since no facts or assumption made or adduced by the Respondent were disputed.
+[7] The Appellants’ agent raised the following succinct, and to this Court at least, novel legal argument as the basis for the appeal. The Tax Court of Canada is not a Court of inherent jurisdiction, but a statutory Court created by Parliament. The Court has statutory authority to decide the validity of assessments raised by the Minister against taxpayers. Taxpayers, throughout the Act, are never defined or described as persons who “gain their livelihood in the private sector”. The conclusion proffered is that on such basis, the Respondent has failed to prove, “beyond a reasonable doubt”, that Roseann or Desiree are taxpayers and therefore owe the assessed section 160 taxes.
+[8] While strictly speaking, submissions contained within a notice of appeal do not constitute per se submissions in Court, in this matter, they do assist in providing some additional needed flesh to the skeletal argument above. The Court notes the following excerpts from the identical legal argument contained in the notice of appeal for both Appellants:
+a. To have a liability under the Income Tax Act R.S.C. 1985, 5th Suppl, two essential elements must attach to a person.
+b. Resident: One must be a resident within the meaning of the Act i.e. one must reside on the lands that her Majesty the Queen in Right of Canada either owns, or has a right to dispose of OR falls within the meaning of section 250(1), (2), (3).
+c. Taxable Income: To have taxable income, one must have a taxable profit or gain or be employed within the meaning of section 248, “employed”.
+d. If the Income Tax Act R.S.C. 1985, 5th Suppl spoke uniformly to every man, woman and person (i.e. Corporations) there would be no need to identify civil servants and their positions as office or employment.
+e. There is no mention of any private man or woman gaining a livelihood in the private sector.
+f. The Appellants have no obligation or are compelled to any performance pursuant to the Income Tax Act R.S.C. 1985, 5th Suppl as evidenced in case law and legislation.
+g. Canadian custom and convention has only made provisions for the abrogation of private sector human and civil rights in the presence of war. Because of the excessive abuse in the past, the Parliament of Canada repealed the War Measures Act and currently has no legislative instrument to unilaterally compel any performance of the private sector to the Income War Tax Act, 1917 as amended.
+[9] The submissions additionally contend, within the above context, that the Appellants have never “resided” on federal lands or been governmental employees and have never performed a function for government or held office or employment for profit.
+V. Decision [10] For two different reasons, the appeals cannot succeed and are dismissed: firstly, section 160 does not require Desiree or Roseann to be a taxpayer and, secondly, the Constitution Act, 1867, 1867 (UK) 30 & 31 Victoria, c. 3 ascribes to Parliament clear, broad and enumerated powers of taxation of all Canadians and in conjunction with the Act itself, does not limit the assessment of such taxes to government employees, office holders or residents of federal lands.
+VI. Analysis [11] The relevant provisions of section 160 provides as follows:
+160. (1) Where a person has, […], transferred property, […] to
+(a) the person’s spouse […],
+(b) […] or
+(c) a person with whom the person was not dealing at arm’s length, the following rules apply:
+(d) the transferee and transferor are jointly and severally, or solidarily, liable to pay a part of the transferor’s tax under this Part […] equal to the amount by which the tax for the year is greater […]
+(e) the transferee and transferor are jointly and severally, […], liable to pay under this Act an amount equal to the lesser of
+(i) the amount, […], by which the fair market value of the property at the time it was transferred exceeds the fair market value at that time of the consideration given for the property, […]
+(ii) the total of all amounts each of which is an amount that the transferor is liable to pay under this Act […] in or in respect of the taxation year in which the property was transferred or any preceding taxation year,
+[…]
+[12] Contained within section 160 is the notion that the transferor, Rick Bekkerus, must owe the tax in the first instance. The Appellants do not challenge this. Just as the Appellants’ agent said he can detect no reference to a “person who gains their livelihood in the private sector” as a taxpayer, nowhere within subsection 160(1), which creates joint and several liability for the transferees, Roseann and Desiree, is there a reference, requirement or condition that a transferee be a taxpayer or, for that matter, a resident or earner of income from any source. Since the expressed legal and factual criteria for raising the subsection 160(1) assessments have not been challenged by the advanced argument, but have been admitted, the assessments stand on the basis of what the Federal Court of Appeal has called “the clear meaning of the words of subsection 160(1)” defining such criteria”: Livington v R, 2008 FCA 89 at paragraph 17.
+VII. Scope of Taxation under the Act [13] While the Court recognizes that determination of the second issue is unneeded in light of its determination above, the legal argument was prominently central to the Appellants’ appeals and therefore it will be addressed despite being moot.
+[14] Subsection 91(3) of the Constitution Act , 1867 provides as follows:
+Legislative Authority of Parliament of Canada
+91. It shall be lawful for the Queen, by and with the Advice and Consent of the Senate and House of Commons, to make Laws for the Peace, Order, and good Government of Canada, in relation to all Matters not coming within the Classes of Subjects by this Act assigned exclusively to the Legislatures of the Provinces; and for greater Certainty, but not so as to restrict the Generality of the foregoing Terms of this Section, it is hereby declared that (notwithstanding anything in this Act) the exclusive Legislative Authority of the Parliament of Canada extends to all Matters coming within the Classes of Subjects next hereinafter enumerated; that is to say,
+[…]
+3. The raising of Money by any Mode or System of Taxation.
+[15] These are broad, far-reaching and manifest powers of taxation and include what historically are described as direct and indirect powers to tax.
+[16] The Act, itself, is arguably the pre-eminent and paramount taxing legislation in Canada. In direct challenge to the assertion of the agent for the Appellants that neither Desiree nor Roseann are taxpayers stands the very definition of “taxpayer” within the interpretation and definition of subsection 248(1) of the Act. That definition states: “taxpayer includes any person whether or not liable to pay tax” (emphasis added). “Person” is not defined within the Act, is to be given its ordinary meaning and, in any event, it was not contended in argument that the Appellants were not persons.
+[17] Therefore, even if subsection 160(1) referred to a “taxpayer” rather than a “transferee”, the argument that the Appellants are not taxpayers because they are not defined as such is untenable. Whatever reasons, exemptions or statutory omissions may exonerate the Appellants from other liability for tax, the constitutional powers afforded by Parliament and the clear and plainly obvious definition of “taxpayer” within the Act (which includes any person irrespective of liability to pay tax) renders the Appellants “taxpayers” under the Act.
+[18] As stated, for these reasons, the appeals are dismissed.
+Signed at Ottawa, Ontario, this 20th day of October 2014.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2014 TCC 211
+COURT FILE NO.:
+2014-1137(IT)I
+2014-1489(IT)I
+STYLE OF CAUSE:
+DESIREE BEKKERUS
+ROSEANN BEKKERUS
+AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Winnipeg, Manitoba
+DATE OF HEARING:
+October 6, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF JUDGMENT:
+October 20th, 2014
+APPEARANCES:
+Agent for the Appellants:
+Chris Shannon
+Counsel for the Respondent:
+Larissa Benham
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Chris Shannon
+Firm:
+N/A
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

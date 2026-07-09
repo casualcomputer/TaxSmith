@@ -1,0 +1,178 @@
+---
+title: "Diamond D. Construction v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/109432/index.do"
+last_modified: "2015-05-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 TCC 110"
+citation2: ""
+neutral_citation: "2015 TCC 110"
+decision_date: "2015-05-14"
+language: "en"
+item_id: "109432"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2809
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:22:27.785000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a22bb62849e7a43165b3547527c467859fb1b01372c8cbc8fdd5f3d0229aaf13"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Diamond D. Construction v. M.N.R.
+
+- Citation: 2015 TCC 110
+- Decision date: 2015-05-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2809, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Diamond D. Construction v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-05-14
+Neutral citation
+2015 TCC 110
+File numbers
+2014 3359(EI), 2014-3360(CPP)
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Canada Pension Plan
+Decision Content
+Docket: 2014-3360(CPP)
+2014-3359(EI)
+BETWEEN:
+DIAMOND D CONSTRUCTION LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Appeals heard on April 9, 2015, at Edmonton, Alberta
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Agent for the Appellant:
+Michael Manko
+Counsel for the Respondent:
+Jeff Watson
+JUDGMENT
+The Appeals pursuant to subsection 103(1) of the Employment Insurance Act and section 28 of the Canada Pension Plan are dismissed.
+Signed at Ottawa, Canada, this 5th day of May 2015.
+“Campbell J. Miller”
+C. Miller J.
+Citation: 2015 TCC 110
+Date: 20150514
+Docket: 2014-3360(CPP)
+2014-3359(EI)
+BETWEEN:
+DIAMOND D CONSTRUCTION LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+C. Miller J.
+[1] In 2011 and 2012, the Appellant, Diamond D Construction Ltd. (“Diamond”) was in the business of framing houses. It had been incorporated in 2006. Mr. Parrish Danwich was the sole owner of Diamond. Mr. Danwich hired a friend, Mr. Joey Mercia, in February 2010 to work for Diamond. Mr. Mercia worked off and on at Diamond throughout 2011 and 2012. Mr. Danwich claims Mr. Mercia was in an independent contractor arrangement while working at Diamond in 2011 and 2012. Mr. Mercia claims he was an employee. By letter dated June 20, 2013, the Government advised Diamond and Mr. Mercia that Mr. Mercia was an employee for purposes of the Canada Pension Plan (“CPP”) and Employment Insurance (“EI”) legislation. Diamond appealed to the Minister of National Revenue (the “Minister”). The Minister confirmed the ruling by letter dated June 20, 2014 (the “Decision”).
+[2] Yet again, I have an employee versus an independent contractor case where credibility rears its unfortunate head. I will start by presenting facts that appear to be consistent from both Mr. Danwich’s and Mr. Mercia’s evidence, or at least evidence not contradicted by the other.
+[3] In 2009, both Mr. Danwich and Mr. Mercia worked as employees for Vandalay Construction (“Vandalay”), a company in the business of building hotels and restaurants. Mr. Petrisor, a former foreman at Vandalay, testified that he hired Mr. Mercia, who was a neighbour at the time, as a carpenter’s helper, which included some framing. Mr. Danwich himself was a framer. Mr. Petrisor confirmed that, as employees, Mr. Danwich and Mr. Mercia would have worked from 8:00 a.m. until 4:30 p.m. Monday through Friday, and were paid by the company every second Friday. Their paystubs would have shown the usual payroll source deductions.
+[4] In 2010, Diamond got its own framing work, and it hired Mr. Mercia by way of a verbal agreement between Mr. Danwich and Mr. Mercia. Mr. Mercia worked off and on for Diamond in the years 2010, 2011, 2012 and 2013. For 2011 and 2012, the years in question, Mr. Mercia worked for Diamond mainly in the summer. His job was as a framer, primarily laying floors and putting up walls. He often missed days of work. Mr. Mercia also continued to work for Vandalay, though during the winter months.
+[5] Mr. Danwich kept track of Mr. Mercia’s hours in a daytimer and would have Diamond pay Mr. Mercia when Diamond itself got paid by the customer. Mr. Mercia started in 2010 at $15 an hour and by 2012 was earning $21 an hour from Diamond. No deductions were taken from the payments. Mr. Mercia did not have a GST number in 2011 or 2012. No GST was charged or paid in 2011 or 2012. Diamond looked after payments vis-à-vis Mr. Mercia to Worker’s Compensation Board in accordance with Worker’s Compensation Board requirements.
+[6] Diamond had several jobs in each of 2011 and 2012 with different named contractors. While Mr. Mercia provided some of his own tools (a pouch, hammer, belt, and string), Diamond provided the major tools including saws, nailers, zoom boom and sawzalls.
+[7] If Mr. Mercia made a mistake it was up to him to fix it.
+[8] I will now go over the discrepancies in the evidence of Mr. Danwich and Mr. Mercia.
+1. Mr. Mercia claims to have started work at Diamond with virtually no experience as a framer and had to learn on the job, thus was only paid $15 an hour to start. Mr. Danwich claims he and Mr. Mercia worked together at Vandalay, both doing framing work. Mr. Petrisor’s view was that, although Mr. Mercia was hired at Vandalay as a carpenter’s helper he did perform some framing work in that capacity. I take Mr. Petrisor’s independent view as likely the most accurate and find that Mr. Mercia did some framing with Vandalay before working for Diamond, but not to the extent that he was an experienced framer.
+2. Mr. Danwich claims Mr. Mercia knew he was being hired as an independent contractor as Mr. Danwich discussed with him what that meant when he was hired. Mr. Mercia claims he never fully appreciated the distinction: he simply worked and got paid and never felt he was running his own business. Mr. Mercia never questioned the lack of source deductions nor requested a T4 from Diamond, presuming this would all be looked after by Money Mart where he cashed his cheques and sought assistance with tax returns. I conclude that Mr. Mercia was prepared to go along with Mr. Danwich’s approach, without any inquiry. I find that he knew at the outset he was being treated differently at Diamond than he was at Vandalay, though I also conclude that he may not have fully appreciated what in fact he was agreeing to. He appears to have paid little attention to detail.
+3. Mr. Danwich claims that Diamond and Mr. Mercia entered written agreements on a job-by-job basis, setting out the independent contract arrangement agreed to verbally. Six such contracts were introduced as evidence at trial. The last phrase of each agreement reads:
+“In Witness Whereof the Parties hereto have caused this Agreement to be executed by their duly authorized representatives, effective as of the day and year first above written.”
+Although I have carefully scrutinized the agreement, I could find no “day and year first above written”.
+Each agreement is signed and dated by Mr. Danwich for Diamond and Mr. Mercia. The first agreement is dated June 28, 2011, the second September 20, 2011, the third October 19, 2011 (though Mr. Mercia’s date looks like it originally was October 19, 2010 and then 2011 scratched over), the fourth November 14, 2011 (Mr. Danwich’s date shows November 14, 2011 while Mr. Mercia’s shows November 14, 2010), the fifth May 28, 2012 (Mr. Mercia’s again looks like the 2012 is scratched over something different), and the sixth June 25, 2012.
+Mr. Mercia claims he was presented with all six contracts at the same time though asked to insert different dates. This seems most likely. I believe Mr. Danwich was attempting to do all he could to demonstrate an independent contractor arrangement. In these circumstances, I give these agreements no weight, other than to raise some suspicion as to Mr. Danwich’s forthrightness.
+4. Mr. Danwich claims Mr. Mercia could simply come and go as he pleased, and that he did. He often did not show up for work and would also decline jobs. There was no restriction on holidays. There were no set hours: Mr. Danwich submitted a summary of Mr. Mercia’s hours worked in 2012 showing days ranged from two to eleven and a half hours in a day with no consistency of 8:00 a.m. to 4:30 p.m., but showing starting times from 6:30 a.m. to 1:00 p.m., although the average appears to be between 8:00 a.m. or 9:00 a.m. Mr. Danwich did not produce his daytimer, from which this summary was taken.
+Mr. Mercia claims hours were set by Diamond, including when to take a lunch break. He would only miss work if he was sick and he never declined a job.
+So, wherein lies the truth? On balance, I find the work hours were not as definite as Mr. Mercia maintains. The hours recorded by Mr. Danwich reflect a flexible schedule, but I also conclude it was a schedule set by Mr. Danwich.
+Mr. Petrisor did confirm that Mr. Mercia was not particularly reliable. Mr. Danwich’s summary of Mr. Mercia’s hours for 2012 shows him working 35 days from May 28 to August 3. There was a ten day period, July 13 to the 23 where, according to Mr. Danwich, Mr. Mercia worked just two hours.
+Mr. Mercia provided no evidence of the cause of so many sick days. I conclude, as did Mr. Petrisor, that Mr. Mercia was somewhat unreliable.
+5. Mr. Danwich claims Mr. Mercia provided a template for invoices and then they would make up invoices together. Mr. Danwich submitted copies of several invoices dated in 2011 and 2012. When these were shown to Mr. Mercia at trial, Mr. Mercia denied having ever seen them. No GST was charged on the invoices. Mr. Danwich also presented two invoices that were more in the form of an actual invoice on an invoice form dated in 2013. These two Mr. Mercia did recognize. Each of them showed a deduction for tool rental and one showed a charge for fixing a mistake.
+Again, I see this as a case of Mr. Danwich attempting to paper over what he believed to be an independent contractor arrangement. I do not believe Mr. Mercia prepared and submitted invoices in 2011 and 2012. They have no probative value to prove the intention of an independent contractor arrangement by Mr. Mercia.
+6. With respect to the 2013 invoices showing a deduction for tool rental from the amount owed to Mr. Mercia, Mr. Mercia’s position was that while this appeared on the invoice, money was never in fact deducted from his pay for tool rental. Regardless of what the truth might be in this regard, it pertains to 2013, which was not a year in issue before me. There was one invoice in 2012 that indicated a tool rental charge, but as I have indicated earlier, I put no credence on these invoices.
+7. Mr. Danwich claims Mr. Mercia could hire his own replacement workers and did so in 2010, though Mr. Danwich did acknowledge that when Mr. Mercia did not show up for work it was usually Mr. Danwich who simply did the work. Mr. Mercia claims he could not and did not hire replacement workers.
+There is some agreement between Mr. Danwich and Mr. Mercia that in 2011 and 2012 Mr. Mercia did not in fact hire replacement workers. Could he have done so? The onus is on the Appellant to rebut the Respondent’s assumption that Mr. Mercia could not hire replacement workers in 2011 and 2012. I am left thinking maybe he could, maybe he could not: in other words, the Appellant has been unable to tip the balance to satisfy me Mr. Mercia could hire replacement workers.
+8. Mr. Danwich and Mr. Mercia agree that Mr. Mercia had to fix any mistakes he made. They disagree, however, on who bore the cost. Mr. Danwich claims Mr. Mercia would be charged for fixing mistakes.
+Mr. Mercia claims he never had time deducted for fixing mistakes. While it is difficult to determine exactly what happened I am swayed by the fact that, while the invoices (which I find Mr. Danwich prepared) have no probative value as far as proving Mr. Mercia intended an independent contractor relationship, they suggest there were no deductions for time spent on fixing mistakes. I conclude, on balance, Diamond bore such responsibility.
+Was Mr. Mercia an employee or independent contractor of Diamond in 2011 and 2012?
+[9] Diamond’s agent argued at the outset that the decision by the Government was based on facts in 2010 and therefore the assessment is simply wrong. He wished to introduce a report of the Government in this connection. I found it was not necessary as I had heard all the facts pertaining to 2011 to 2012 and have no intention on relying on the 2010 circumstances or being swayed one way or the other by the Government report.
+[10] Jurisprudence has set guidelines in working through an analysis of this issue. The Supreme Court of Canada in the case of 671122 Ontario Ltd. v Sagaz Industries Canada Inc.[1] indicated that control is always a significant factor. The Court should also look at the traditional ownership of tools, chance of profit and risk of loss and any other relevant factors. Over the last few years, the Federal Court of Appeal has added a gloss on this approach requiring a first step of determining whether there is a mutual intention of both sides as to the form of working relationship, and, if so, addressing the traditional factors through the prism of that intention.
+[11] It is hard enough to classify the working relationship following this two‑step traditional approach where there is some consistency as to the facts and there are sufficient detailed explanations of those facts to be analyzed, but where, as here, there is no such consistency, there is some shading of the truth on both sides, there are documents that cannot be relied upon and there is an overall lack of detail, the analysis, while not futile, rests more on shifting sands than solid ground.
+[12] Diamond seemed to have the impression, at the outset, that if it chose to call the relationship one of independent contractor, and did not make source deductions, then it would be one of independent contractor. I believe it realized later that there was more to the determination of independent contractor and therefore took steps to paper it accordingly.
+[13] I conclude that the worker, Mr. Mercia, never addressed his mind to the legality of the working relationship. He worked at Diamond and got paid by the hour: that was the extent of his view.
+[14] To be clear, the EI and CPP legislation is not voluntary. One does not choose to opt in or out. Source deductions and GST charges, for example, flow out of the true nature of the relationship, rather than being determinative of that relationship. At best they go to the issue of intention. Even then, intention is a tricky concept as it pertains to the independent contractor versus employee issue, as the question always arises whether the intention was simply not to make source deductions or to have an independent contractor relationship. The answer to that depends very much on the circumstances, but is fraught with danger in being misinterpreted.
+[15] With that introduction, how best, following the jurisprudence, to clarify this very loose arrangement for EI and CPP purposes? First, was there any mutual intention that this relationship be one of an independent contractor nature? I find Diamond and Mr. Mercia intended, at the time of Mr. Mercia’s hiring, the following:
+- That Mr. Mercia would be paid by the hour.
+- That there would be no source deductions.
+- That Mr. Mercia would be paid only for time when he actually showed up for work.
+- Mr. Mercia would be paid after Diamond was itself paid for a job.
+[16] Mr. Mercia’s intention ran no deeper than that. Mr Danwich testified that he explained to Mr. Mercia that as an independent contractor he could set his own hours and “write off stuff”. Mr. Mercia testified he never thought he was running a framing business. I am not satisfied that Mr. Mercia fully appreciated the significance in not having source deductions taken away from his pay.
+[17] Given the mutual understanding of the few factors listed above and the divergent views in what that actually meant vis-à-vis the distinction between employment and independent contractor, I find there is insufficient proof of a mutual intention that Mr. Mercia was hired as an independent contractor. This leads to resorting to the traditional analysis of an objective view of the factors of control, ownership of tools, chance of profit and risk of loss and any other relevant factors.
+[18] I am going to leave discussion of control to the end of my analysis, dealing with the other factors first.
+Ownership of tools [19] Mr. Mercia had some minor tools but it was the Appellant who provided the major tools necessary to do the work. Mr. Danwich claims to have charged Mr. Mercia for renting tools, and produced two invoices in 2012 to that effect. Mr. Mercia had never seen such invoices though did acknowledge the two invoices in 2013 that showed tool rental charges. He testified however that he never actually had to pay such charges. I find Mr. Danwich has attempted to paper an independent contractor arrangement by creating such invoices (and, after the fact, independent contractor agreements). This raises a suspicion in my mind as to the accuracy of such documents and, on balance, I am not prepared to accept that they truly reflect what occurred. I conclude the Appellant owned the major tools necessary for Mr. Mercia to carry out his duties: an arrangement that suggests employment.
+Chance of profit – risk of loss [20] The only possibility of risk of loss would be Mr. Mercia having to pay to fix mistakes. Again, the testimony differed on this point. Mr. Mercia acknowledged he would have to fix his mistakes but he was never docked pay for it. Mr. Danwich pointed to a 2013 invoice which indicated an amount was deducted for fixing a mistake. As I have already indicated, I have little confidence in the veracity of such invoices. Further, this particular invoice is for a year not in dispute. On balance, I have not been persuaded that Mr. Mercia was charged for fixing mistakes. There was no risk of loss.
+[21] With respect to chance of profit as an hourly paid worker, Mr. Mercia would earn more if he worked more. This is not what is normally meant by chance of profit. He did not work elsewhere at the same time. He did not quote a fee on a job‑by‑job basis. He worked an hour and was paid an hour.
+[22] These factors suggest employment.
+Control [23] I now turn to the factor of control. Diamond emphasizes that Mr. Mercia could and did come and go as he pleased and that behaviour clearly demonstrates he was not an employee. This must be put in context of the overall arrangement. Mr. Danwich hired Mr. Mercia, his friend at the time, in a very loose arrangement. Mr. Mercia had been a carpenter’s assistant briefly, but I find he was not an experienced framer, a trade which he learned working primarily for Diamond.
+[24] Mr. Danwich would pay Mr. Mercia for the hours he showed up. I find that it was Diamond that set the rate, starting at a lower amount given Mr. Mercia’s inexperience. Diamond also determined when Mr. Mercia would be paid. Mr. Mercia may not have been the most reliable worker, whether for reasons of illness or discontent or disinterest in working any particular day, but that did not seem to matter to the Appellant.
+[25] Details are sketchy at best as to what control the Appellant had over Mr. Mercia while physically at work: Mr. Mercia suggests he had to abide by the Appellant’s schedule for coffee breaks and lunch times for example.
+[26] An employee is not normally at liberty to show up for work or not, unless due to illness or with legitimate reason. There is an expectation he report to work. Mr. Danwich seems not to have had this expectation, but rather was satisfied when his friend, Mr. Mercia, showed for work to put him to work. I agree with Mr. Mercia that he was not operating his own business.
+[27] Apart from missing work, Mr. Mercia does not appear to have had any control over the working arrangement in which the Appellant set the terms, effectively provided on the job training and remained responsible for the work. Further, I have not been satisfied, on balance, the worker could hire replacement workers but did have to perform the work personally. Diamond has simply not proven, on balance, it had so little control over Mr. Mercia that Mr. Mercia was in business on his own account. He was not.
+[28] Looking at the control factor in conjunction with my findings on the other factors, I conclude that Mr. Mercia’s relationship with the Appellant was that of an employee. The Appeals are dismissed.
+This Amended Reasons for Judgment is issued in substitution of the Reasons for Judgment dated May 5, 2015.
+Signed at Ottawa, Canada, this 14th day of May 2015.
+“Campbell J. Miller”
+C. Miller J.
+CITATION:
+2015 TCC 110
+COURT FILE NO.:
+2014-3360(CPP), 2014-3359(EI)
+STYLE OF CAUSE:
+DIAMOND D CONSTRUCTION LTD. AND THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING:
+Edmonton, Alberta
+DATE OF HEARING:
+April 9, 2015
+AMENDED REASONS FOR JUDGMENT BY:
+The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT:
+May 5, 2015
+APPEARANCES:
+Agent for the Appellant:
+Michael Manko
+Counsel for the Respondent:
+Jeff Watson
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+n/a
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2001 SCC 59.

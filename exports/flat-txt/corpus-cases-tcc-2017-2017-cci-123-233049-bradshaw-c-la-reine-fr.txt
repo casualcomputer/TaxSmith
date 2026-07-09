@@ -1,0 +1,213 @@
+Title: Bradshaw c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/233049/index.do
+Corpus path: corpus/cases/tcc/2017/2017-cci-123-233049-bradshaw-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2017-06-27
+
+# Bradshaw c. La Reine
+
+- Citation: 2017 CCI 123
+- Decision date: 2017-06-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2106, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bradshaw c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-06-27
+Référence neutre
+2017 CCI 123
+Numéro de dossier
+2012-4256(IT)G, 2014-2909(IT)G, 2015-883(IT)G
+Juges et Officiers taxateurs
+Steven K. D'Arcy
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 2012-4256(IT)G
+2014-2909(IT)G
+2015-883(IT)G
+ENTRE :
+WARREN BRADSHAW,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus sur preuve commune le 8 décembre 2016
+à Hamilton (Ontario)
+Devant : L’honorable juge Steven K. D’Arcy
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Dominique Gallant
+JUGEMENT
+Conformément aux motifs du jugement ci-joints :
+1. Les appels interjetés à l’encontre des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2008, 2009, 2010 et 2011 de l’appelant sont rejetés.
+2. Les dépens sont adjugés à l’intimée.
+Signé à Antigonish (Nouvelle‑Écosse), ce 27e jour de juin 2017.
+« S. D’Arcy »
+Le juge D’Arcy
+Traduction certifiée conforme
+ce 18e jour de septembre 2018.
+Mario Lagacé, jurilinguiste
+Référence : 2017 CCI 123
+Date : 20170627
+Dossiers : 2012-4256(IT)G
+2014-2909(IT)G
+2015-883(IT)G
+ENTRE :
+WARREN BRADSHAW,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge D’Arcy
+[1] Les trois appels dont la Cour est saisie se rapportent aux années d’imposition 2008, 2009, 2010 et 2011 de l’appelant. La Cour a entendu les appels sur preuve commune.
+[2] Dans chacune des déclarations de revenus qu’il a produites pour les années en cause, l’appelant a déclaré avoir subi une perte provenant d’une entreprise :
+- année d’imposition 2008 : perte de 946 479 $
+- année d’imposition 2009 : perte de 16 537 $
+- année d’imposition 2010 : perte de 222 198 $
+- année d’imposition 2011 : perte de 268 916 $
+[3] Pour l’année d’imposition 2008, la perte d’entreprise que l’appelant aurait subie est indiquée dans un formulaire intitulé [TRADUCTION] « État des résultats des activités d’un mandataire » (l’« état des résultats des activités d’un mandataire »), qui fait partie de la déclaration de revenus produite pour cette année-là. L’appelant a annexé à sa déclaration de revenus pour les années d’imposition 2009, 2010 et 2011 le formulaire T2125 de l’ARC intitulé « État des résultats des activités d’une entreprise ou d’une profession libérale » (pour les années 2009 et 2010) et le formulaire intitulé « État des résultats des activités d’une entreprise » (pour l’année 2011). Pour chacune de ces années, il est indiqué dans le formulaire en question que les principaux produits ou services offerts par la prétendue entreprise de l’appelant sont des services de [TRADUCTION] « mandataire ».
+[4] L’appelant a demandé la déduction des pertes d’entreprise après avoir participé à un séminaire et reçu des conseils de la part d’un certain M. Larry Watts. L’appelant a dit que M. Watts travaillait pour une entité connue sous le nom de Fiscal Arbitrators.
+[5] L’appelant a joint à sa déclaration de revenus pour 2008 une demande signée en vue du report rétrospectif d’une perte. Plus précisément, il a demandé que 922 600 $ provenant de la perte d’entreprise déclarée dans sa déclaration de revenus pour 2008 soient reportés sur les années d’imposition 2005, 2006 et 2007.
+[6] Au moyen d’un certain nombre de cotisations et de nouvelles cotisations, le ministre a rejeté l’ensemble des déductions demandées par l’appelant au titre des pertes d’entreprise. Il n’a pas traité la demande de report rétrospectif de la perte de 922 600 $. Le ministre a également imposé à l’appelant des pénalités pour faute lourde.
+[7] Dans tous ses avis d’appel concernant les années d’imposition en question, l’appelant conteste l’imposition de la pénalité pour faute lourde.
+[8] Dans ses avis d’appel concernant les années d’imposition 2009, 2010 et 2011, l’appelant semble également contester le refus de la déduction des pertes d’entreprise. En contre-interrogatoire, l’appelant a déclaré qu’il maintenait toujours qu’il avait subi une perte d’entreprise au cours de chacune des années en cause.
+[9] En outre, le ministre a refusé la déduction de certaines pertes locatives demandée par l’appelant dans les déclarations de revenus qu’il a produites pour les années d’imposition 2009 et 2011.
+[10] L’appelant n’a pas présenté de preuve principale.
+[11] L’intimée a appelé deux témoins : Mme Kim Robinson (une agente des appels de l’ARC) et l’appelant.
+[12] À mon avis, Mme Robinson était un témoin crédible, alors que l’appelant ne l’était pas. Dans la plupart des cas, l’appelant n’a pas répondu aux questions posées par l’avocate de l’intimée ou bien il a fourni une réponse évasive. À de nombreuses reprises, il a répondu ceci : [TRADUCTION] « Il faudrait que j’examine les documents pour m’en souvenir », ou quelque chose de semblable.
+[13] Par exemple, lors de son interrogatoire de l’appelant, l’avocate de l’intimée a présenté à l’appelant l’état des résultats des activités d’un mandataire qu’il avait annexé à sa déclaration de revenus pour 2008. Ce document indique des revenus de 31 519,77 $ (y compris un poste s’élevant à 21 364,67 $) et deux postes de dépenses : une dépense de 954 119,77 $ décrite comme un [TRADUCTION] « montant versé au mandant en contrepartie de la main-d’œuvre » et une dépense de 23 878,61 $ décrite comme des [TRADUCTION] « sommes perçues à titre de mandataire d’un mandant et déclarées par des tiers ».
+[14] Voici un extrait des propos échangés entre l’avocate et l’appelant en ce qui a trait à l’état des résultats des activités d’un mandataire :
+[TRADUCTION]
+Q. Savez-vous d’où viennent ces chiffres, celui de 21 364 $ et les autres?
+R. Il faudrait que j’examine les documents pour m’en souvenir.
+Q. D’accord. Je vais simplement vous poser des questions au sujet du gros montant. Il y a un montant de 954 119,77 $ ici. C’est écrit : [TRADUCTION] « Montant versé au mandant en contrepartie de la main-d’œuvre ». Savez-vous ce que cela signifie?
+R. Il faudrait que j’examine les documents pour m’en souvenir.
+Q. D’accord. Ce document laisse entendre que vous avez subi une perte nette de 949 000 $ et quelques en 2008. Avez-vous perdu 946 000 $ en 2008?
+R. Il faudrait que j’examine les documents pour m’en souvenir.
+Q. Il me semble que perdre près d’un million de dollars, c’est une chose dont une personne devrait se souvenir, non?
+R. Eh bien, pour certaines personnes, oui. Mais moi, je-- eh bien, il faudrait que j’examine les documents pour m’en souvenir. Ça fait huit ans.
+[15] Il ne s’agit là qu’un des nombreux exemples où l’appelant n’a pas répondu aux questions posées par l’avocate au sujet de ses déclarations de revenus ou a fourni une réponse évasive. Je n’admets pas que quelqu’un aussi intelligent que l’appelant soit incapable de se souvenir de la raison pour laquelle il a demandé la déduction d’une dépense d’environ 954 000 $ dans sa déclaration de revenus. Sa conduite lors de l’interrogatoire mené par l’avocate de l’intimée a détruit sa crédibilité.
+I. La déductibilité des pertes d’entreprise
+[16] Je me pencherai d’abord sur la déduction demandée au titre des pertes d’entreprise.
+[17] La réponse présentée pour chacune des années en cause, sauf l’année 2008, indique que, lorsqu’il a établi la cotisation de l’appelant, le ministre a émis les hypothèses qui suivent relativement aux pertes d’entreprise déclarées par l’appelant :
+[TRADUCTION]
+- L’appelant n’exploitait pas une entreprise offrant des services de mandataire, en fait il n’exploitait aucune entreprise.
+- L’entreprise alléguée de l’appelant n’était pas une source de revenus.
+- L’appelant n’a engagé aucune dépense liée à son entreprise alléguée.
+[18] Comme je l’ai déjà mentionné, l’appelant a refusé de présenter une preuve principale.
+[19] Autrement dit, l’appelant n’a présenté aucun élément de preuve pour réfuter les hypothèses du ministre. Il a tenté de déposer un affidavit, mais je ne lui ai pas permis de le faire, puisqu’il était présent à l’audience. Il est bien établi que les parties devraient présenter leurs éléments de preuve de vive voix. Cette façon de faire permet à la partie adverse de contre-interroger le témoin et au juge d’apprécier la crédibilité du témoin. C’est particulièrement vrai dans des cas comme celui-ci, lorsque la crédibilité de l’appelant est remise en question et que les éléments de preuve sont contestés.
+[20] À la fin de l’interrogatoire de l’appelant par l’intimée, j’ai permis à l’appelant de témoigner de vive voix en lisant son affidavit. J’ai ensuite donné à l’avocate de l’intimée la possibilité de contre-interroger l’appelant. Je reconnais qu’il est inhabituel de permettre à l’appelant de témoigner pour la première fois après que l’intimée a présenté ses témoins, mais je voulais donner à l’appelant toutes les occasions de présenter sa preuve. Par ailleurs, l’intimée n’a subi aucun préjudice, puisque je lui ai donné la possibilité de contre-interroger l’appelant sur son témoignage.
+[21] Le témoignage de vive voix de l’appelant relevait de l’argumentation. L’appelant a affirmé qu’il estimait avoir le droit de structurer ses affaires de façon à payer le moins d’impôt possible, et il a fait valoir son droit d’exploiter une entreprise et de n’être imposé que sur les profits nets de cette entreprise.
+[22] Je souscris à ses commentaires. Par contre, là n’est pas la question. La question sur laquelle la Cour doit statuer relativement aux années d’imposition 2009, 2010 et 2011 est de savoir si, dans les faits, l’appelant exploitait une entreprise. En établissant la cotisation à l’égard de l’appelant, le ministre a supposé que l’appelant n’avait pas exploité une entreprise. L’appelant n’a fourni à la Cour aucun élément de preuve pour réfuter cette hypothèse.
+[23] Au moyen de son interrogatoire de Mme Robinson et de l’appelant, l’intimée a présenté des éléments de preuve pour appuyer les hypothèses du ministre.
+[24] Par exemple, la pièce R-1 est la déclaration de revenus de l’appelant pour 2008. Comme je l’ai déjà mentionné, l’appelant a joint à cette déclaration un état des résultats des activités d’un mandataire, qui montre une perte de 946 479 $. L’appelant a déduit cette perte dans sa déclaration de revenus pour 2008.
+[25] Lorsque l’avocate de l’intimée l’a interrogé, l’appelant a déclaré qu’il avait préparé l’état des résultats des activités d’un mandataire avec l’aide d’un certain M. Watts. Il a ensuite mentionné ce qui suit au sujet de la nature de la prétendue entreprise offrant des services de mandataire :
+[TRADUCTION]
+Q. [...] Avez-vous examiné—alors, vous dites que vous avez préparé cet état des résultats des activités d’un mandataire avec M. Watts. Savez-vous ce que cela signifie? Par exemple, dans ce document, il est indiqué [TRADUCTION] « mandataire de services d’une entreprise ». Savez-vous ce que cela signifie?
+R. Le mandataire de services d’une entreprise, c’est moi.
+Q. Vous êtes mandataire?
+R. Oui.
+Q. Mandataire de quoi?
+R. D’une entreprise. Je suis une entreprise.
+Q. Vous êtes une entreprise? Que faites-vous?
+R. Je suis un mandataire. Le gouvernement de l’Ontario m’a donné la permission d’en être un.
+Q. De quelle façon?
+R. Est-ce que je peux vous donner un document?
+Q. Non, juste votre explication. Que comprenez‑vous ou comment l’expliquez-vous?
+R. À mes yeux, c’est juste pour exploiter mes affaires.
+Q. Vos affaires personnelles?
+R. Mes affaires personnelles ou professionnelles [1] .
+[26] Dans une lettre adressée à l’Agence du revenu du Canada et datée du 31 mai 2010, l’appelant a expliqué ainsi ce prétendu mandat :
+[TRADUCTION]
+Les conditions du mandat privé entre la personne douée du libre arbitre communément appelée Warren, de la famille Bradshaw, qui est le mandant, le bénéficiaire cotisant et la véritable partie intéressée de l’entité/la personne/la fiducie fictive appelée WARREN BRADSHAW, laquelle, par nécessité, est mandataire commerciale du mandant, ne sont pas sujettes à examen par un tiers, et, par conséquent, les transactions privées entre le mandant et la mandataire ne peuvent être divulguées à l’Agence du revenu du Canada (l’« ARC »), à vous, Debbie Thorne (« DT »), ni à tout autre agent de l’ARC.
+[27] L’appelant fait valoir que, de 2008 à 2011, il a exploité une entreprise agissant comme son propre mandataire et il a subi pendant la même période des pertes totalisant près de 1,5 million de dollars. Les pertes semblent être fondées sur les montants qu’il s’est versés. Par exemple, la déclaration de revenus de l’appelant pour 2010 est accompagnée d’un T5 sommaire délivré par l’appelant, censé démontrer qu’il s’est versé des intérêts de 222 198,79 $. Ces intérêts auraient ensuite été déduits au titre d’une perte d’entreprise dans sa déclaration de revenus.
+[28] L’argument de l’appelant selon lequel il a exploité une entreprise par laquelle il s’offrait à lui-même des services de mandataire est insensé; il n’existait aucune entreprise. La déduction par l’appelant de près de 1,5 million de dollars de pertes d’entreprise liées à une entreprise fictive n’était qu’une tentative plutôt brouillonne d’éviter le paiement d’impôts.
+II. Les pénalités pour faute lourde
+[29] Les dispositions liminaires du paragraphe 163(2) de la Loi de l’impôt sur le revenu énoncent ce qui suit :
+Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d’imposition pour l’application de la présente loi, ou y participe, y consent ou y acquiesce est passible d’une pénalité égale, sans être inférieure à 100 $, à 50 % du total des montants suivants [...]
+[30] Les dispositions liminaires indiquent deux conditions qui doivent être remplies si l’imposition par le ministre d’une pénalité au titre du paragraphe 163(2) de la Loi de l’impôt sur le revenu doit être maintenue.
+[31] Premièrement, l’appelant doit avoir fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse ou y avoir participé, consenti ou acquiescé.
+[32] Deuxièmement, le faux énoncé ou l’omission doit avoir été fait par l’appelant sciemment ou dans des circonstances équivalant à faute lourde, ou l’appelant doit avoir participé, consenti ou acquiescé à ce faux énoncé ou à cette omission sciemment ou dans des circonstances équivalant à faute lourde.
+[33] Aux termes du paragraphe 163(3) de la Loi de l’impôt sur le revenu, il incombe au ministre d’établir les faits qui justifient l’imposition d’une pénalité prévue au paragraphe 163(2).
+[34] L’appelant a examiné et signé toutes les déclarations de revenus produites pour les années en cause. Dans chacune de ces déclarations, l’appelant a déduit une perte provenant d’une entreprise offrant des services de mandataire. Dans les faits, cette entreprise n’existait pas. L’explication fournie par l’appelant au sujet de la prétendue entreprise, que j’ai déjà analysée, est absurde.
+[35] En outre, l’appelant sait ce qui constitue une entreprise. Il travaille dans une entreprise familiale depuis longtemps.
+[36] Dans les faits, la première condition énoncée au paragraphe 163(2) est remplie.
+[37] En signant et en produisant ses déclarations de revenus pour 2008, 2009, 2010 et 2011, ainsi que la demande de report rétrospectif d’une perte, l’appelant a fait un faux énoncé dans une déclaration et un formulaire, y a participé, y a consenti ou y a acquiescé.
+[38] Je dois maintenant déterminer si les faux énoncés ont été faits sciemment ou dans des circonstances équivalant à faute lourde. Cette détermination doit être faite en date de la signature par l’appelant des déclarations de revenus et de la demande de report rétrospectif des pertes provenant de la prétendue entreprise offrant des services de mandataire.
+[39] J’examinerai d’abord la question de savoir si les faux énoncés ont été faits par l’appelant dans des circonstances équivalant à faute lourde.
+[40] L’expression « faute lourde » qui figure au paragraphe 163(2) a fait l’objet d’un examen dans la décision Venne c. Canada, [1984] ACF no 314, 84 DTC 6247 (CF 1re inst.), qui a été largement adoptée. Dans cette décision, le juge Strayer a écrit :
+[...] La « faute lourde » doit être interprétée comme un cas de négligence plus grave qu’un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la Loi. [...]
+[41] Comme l’indique la décision Venne, une constatation de « faute lourde » exige un degré important de négligence. L’existence (ou la non-existence) d’un degré important de négligence est déterminée en fonction de la norme objective de la personne raisonnable placée dans les mêmes circonstances que la personne visée par la pénalité, et non pas en fonction des caractéristiques ou des croyances subjectives de cette personne.
+[42] La norme objective n’est assouplie que s’il est établi que la personne est incapable de comprendre le devoir de ne pas faire un faux énoncé ou une omission dans une déclaration [2] .
+[43] Il ressort clairement de la preuve dont je dispose que l’appelant est capable de comprendre son devoir de ne pas faire un faux énoncé ou une omission dans une déclaration. Il est intelligent, et il sait très bien qu’il doit produire ses déclarations de revenus et déclarer son revenu réel.
+[44] Il appartient donc à l’intimée d’établir, selon la prépondérance des probabilités, les faits qui conduisent à la conclusion que les faux énoncés figurant dans les déclarations de revenus pour 2008, 2009, 2010 et 2011 de l’appelant constituaient un écart si marqué et important par rapport à la conduite d’une personne raisonnable dans les mêmes circonstances qu’ils équivalaient à une faute lourde.
+[45] L’intimée a établi ces faits.
+[46] À mon avis, une personne raisonnable à qui l’on présenterait un plan comme celui que Fiscal Arbitrators a présenté à l’appelant se rendrait tout de suite compte qu’il y a un grave problème avec le plan. Une personne raisonnable se rendrait compte que les pertes d’entreprise ne se matérialisent pas par magie et que l’appelant n’est pas une [TRADUCTION] « entité/personne/fiducie fictive ».
+[47] La description du plan fiscal donnée à l’appelant par M. Watts, pour le compte de Fiscal Arbitrators, avant que l’appelant produise ses déclarations de revenus était manifestement absurde, et une personne raisonnable ne l’accepterait pas et ne produirait pas une déclaration sur le fondement d’une explication si absurde.
+[48] Cette constatation suffit à elle seule pour conclure que la conduite de l’appelant constitue un écart si marqué et important par rapport à la conduite d’une personne raisonnable qu’elle équivaut à une faute lourde.
+[49] D’autres facteurs appuient cette conclusion.
+[50] Une personne raisonnable se voyant proposer un tel stratagème aurait demandé conseil à un comptable professionnel ou à un avocat, surtout étant donné que les montants en question s’élèvent à près de 1,5 million de dollars. L’appelant a déclaré lors de son témoignage qu’il n’avait pas demandé conseil à son ancien comptable ni à aucun autre professionnel.
+[51] L’ampleur des pertes déduites par l’appelant comparativement à ses revenus passés éveillerait des soupçons importants chez une personne raisonnable. La pièce R-19 montre que la perte déduite par l’appelant dans sa déclaration de revenus pour 2008 aurait éliminé l’impôt qu’il aurait par ailleurs payé en 2008, ainsi que tout ou presque tout l’impôt payé en 2005, 2006 et 2007.
+[52] À mon avis, compte tenu des éléments de preuve dont je dispose, le fait que l’appelant a signé et produit ses déclarations de revenus pour 2008, 2009, 2010 et 2011 et demandé le report rétrospectif d’une perte constitue un écart si marqué et important par rapport à la conduite d’une personne raisonnable placée dans les mêmes circonstances qu’il équivaut à une faute lourde, ainsi qu’il est expliqué dans la décision Venne.
+[53] Par conséquent, les faux énoncés faits par l’appelant dans ses déclarations de revenus pour 2008, 2009, 2010 et 2011 au sujet des pertes d’entreprise fictives et dans la demande de report rétrospectif d’une perte ont été faits dans des circonstances équivalant à faute lourde.
+III. Autres questions
+[54] Je ne suis pas certain si l’appelant conteste la décision du ministre de refuser la déduction des pertes locatives qu’il a demandée dans ses déclarations de revenus pour 2009 et 2011. Toutefois, l’appelant n’a présenté aucun élément de preuve à cet égard.
+[55] Lors de son témoignage, l’appelant a affirmé ce qui suit :
+[TRADUCTION]
+Le déposant estime que les droits qu’il tire de l’alinéa 6(2)b) et [du paragraphe 15(1)] de la Charte des droits et libertés ont été restreints, puisque la ministre a omis de tenir compte, dans son application de la Loi de l’impôt sur le revenu, du droit de l’appelant de gagner sa vie et du droit au même bénéfice de la loi.
+[56] L’appelant n’a présenté aucun autre argument ou élément de preuve pour étayer ses allégations.
+[57] L’alinéa 6(2)b) de la Charte canadienne des droits et libertés dispose que tout citoyen canadien a le droit de gagner sa vie dans toute province. Le paragraphe 15(1) garantit à tous les Canadiens et Canadiennes l’égalité devant la loi, l’égalité de bénéfice et la protection égale de la loi, sans discrimination.
+[58] Il n’y a aucune violation des droits garantis à l’appelant par l’alinéa 6(2)b) et le paragraphe 15(1) lorsque le ministre s’acquitte de son obligation légale d’établir une cotisation à l’égard de l’appelant relativement à son défaut de payer ses impôts, attribuable à la déduction de pertes provenant d’une entreprise fictive.
+[59] Pour les motifs qui précèdent, les appels sont rejetés avec dépens en faveur de l’intimée.
+Signé à Antigonish (Nouvelle‑Écosse), ce 27e jour du mois de juin 2017.
+« S. D’Arcy »
+Le juge D’Arcy
+Traduction certifiée conforme
+ce 18e jour de septembre 2018.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2017 CCI 123
+No DU DOSSIER DE LA COUR :
+2012-4256(IT)G
+2014-2909(IT)G
+2015-883(IT)G
+INTITULÉ :
+Warren Bradshaw c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Hamilton (Ontario)
+DATE DE L’AUDIENCE :
+Le 8 décembre 2016
+MOTIFS DU JUGEMENT :
+L’honorable juge Steven K. D’Arcy
+DATE DU JUGEMENT :
+Le 27 juin 2017
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Dominique Gallant
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+s. o.
+Cabinet :
+s. o.
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Transcription, page 40.
+[2] Voir la décision De Gennaro c. La Reine, 2016 CCI 108, aux paragraphes 62 et 63.

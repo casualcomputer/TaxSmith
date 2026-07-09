@@ -1,0 +1,205 @@
+Title: Ince-Mercer c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29558/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-594-29558-ince-mercer-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2009-08-25
+
+# Ince-Mercer c. M.R.N.
+
+- Citation: 2009 CCI 594
+- Decision date: 2009-08-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6328, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ince-Mercer c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-08-25
+Référence neutre
+2009 CCI 594
+Numéro de dossier
+2007-4979(EI), 2007-4980(CPP), 2007-4981(EI), 2007-4982(CPP)
+Juges et Officiers taxateurs
+Norris Weisman
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Référence : 2009 CCI 594
+Dossiers : 2007-4979(EI)
+2007-4980(CPP)
+ENTRE :
+ESAN INCE-MERCER,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+ALLAN S. BLOTT
+intervenant.
+ET ENTRE :
+Dossiers : 2007-4981(EI)
+2007-4982(CPP)
+ALLAN S. BLOTT,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+ESAN INCE-MERCER
+intervenant.
+[TRADUCTION FRANÇAISE]
+CERTIFICATION DE LA TRANSCRIPTION DES
+MOTIFS DU JUGEMENT
+Je requiers que la transcription certifiée ci-jointe des motifs du jugement que j’ai rendus oralement à l’audience, à Toronto (Ontario), le 25 août 2009, soit déposée.
+« N. Weisman »
+Juge Weisman
+Signé à Toronto (Ontario), ce 26e jour de novembre 2009.
+Nº des dossiers de la Cour : 2007-4979(EI);
+2007-4980(CPP).
+COUR CANADIENNE DE L’IMPÔT
+DANS RE : la Loi sur l’assurance-emploi et le Régime de pensions du Canada
+ENTRE :
+ESAN INCE-MERCER
+appelant
+– et –
+LE MINISTRE DU REVENU NATIONAL
+intimé
+– et –
+ALLAN S. BLOTT
+intervenant
+Nº des dossiers de la Cour : 2007-4981(EI);
+2007-4982(CPP).
+ALLAN S. BLOTT
+appelant
+– et –
+LE MINISTRE DU REVENU NATIONAL
+intimé
+– et –
+ESAN INCE-MERCER
+intervenant
+MOTIFS RENDUS ORALEMENT PAR M. LE JUGE WEISMAN
+dans les bureaux du Service administratif des tribunaux judiciaires, salle d’audience 6C,
+Centre judiciaire fédéral, 180, rue Queen ouest,
+Toronto (Ontario),
+le mardi 25 août 2009, à 14 h 28.
+COMPARUTIONS :
+Me John D. Buote pour les appelants et les intervenants
+Me Hong Ky (Eric) Luu pour l’intimé
+Également présents :
+M. Roberto Colombo Greffier
+M. Robert Lee Greffier
+A.S.A.P. Reporting Services Inc. © 2009
+200, rue Elgin, bureau 1105 130, rue King ouest, bureau 1800
+Ottawa (Ottawa) K2P 1L5 Toronto (Ontario) M5X 1E3
+613-564-2727 416-861-8720
+Toronto (Ontario),
+--- Les motifs du jugement ont été rendus oralement le mardi 25 août 2009 à 14 h 28.
+LE GREFFIER : La Cour reprend l’audience.
+LE JUGE WEISMAN : J’ai entendu quatre appels, deux par M. Esan Ince-Mercer et deux par l’avocat, M. Allan Blott, contre les décisions de l’intimé ministre du Revenu national que l’appelant-intervenant, Esan Ince-Mercer, était employé par l’entremise d’un contrat de service tout en étant engagé par ou dans le cabinet d’avocat de M. Blott au cours de la période faisant l’objet du contrôle, soit du 1er janvier 2006 au 16 mai 2007 et que, selon M. Blott, des cotisations d’assurance-emploi et des cotisations au Régime de pensions du Canada étaient dues à l’égard des services fournis dans le cadre de cet emploi.
+Chaque appelant est intervenu dans la procédure de l’autre appelant. Ils étaient mutuellement d’accord pour dire que le ministre avait tort parce que, selon eux, M. Esan Ince-Mercer était un sous-traitant ou entrepreneur indépendant pour M. Blott au cours de la période à l’examen.
+Afin de résoudre cette question, qui a été caractérisée de diverses manières dans la jurisprudence comme étant « fondamentale », « centrale » et « importante », il faut tenir compte de la pleine relation des parties et de la force du plan opérationnel dans son ensemble. À cette fin, la preuve dans la présente affaire est assujettie au critère à quatre volets établis à titre de lignes directrices par Lord Wright dans Montréal (ville) c. Montreal Locomotive Works Ltd., [1947] 1 Dominion Law Reports 161, qui a été adopté par le juge MacGuigan dans Wiebe Door Services Ltd. v. M.N.R., 87 DTC 5025.
+Les quatre lignes directrices sont : le contrôle de l’employeur sur le travailleur; si le travailleur ou l’employeur possèdent les instruments de travail prioritaires aux fonctions du travailleur; les chances de bénéfices du travailleur; et enfin, les risques de perte du travailleur ou de la travailleuse en faisant affaire avec l’employeur.
+Bien que le critère à quatre volets dans Wiebe Door comprenne quatre lignes directrices, je suis tombé sur une complication parce qu’en lisant la réponse du ministre à l’avis d’appel, je me posais la question de savoir si les suppositions qui y étaient exposées au paragraphe 7 étaient suffisamment claires pour que les appelants puissent comprendre l’affaire qu’ils devaient établir.
+Il y a des arrêts qui instruisent qu’il y a bien longtemps que les procès par embuscade et par surprise ne se font plus et que l’appelant ou le contribuable a le droit de connaître l’affaire qu’il doit établir. C’était une question qui m’a préoccupée dans la présente affaire, à laquelle j’ai fait allusion en conséquence.
+Plus précisément, comme je l’ai présenté à l’avocat du ministre, les déclarations simples ou les suppositions qui se retrouvent aux paragraphes 7(e) et 7(m) dont le premier traite du salaire fixe de M.Ince-Mercer et le second traite de ses dépenses, ont soulevé à mon esprit la question de leur insuffisance.
+J’ai porté à l’attention de l’avocat la décision du juge L’Heureux-Dubé dans Hickman Motors Ltd. c. The Queen, [1997] 2 S.C.R. 336, dans laquelle il incombe à l’appelant de réfuter les hypothèses contenues dans l’avis d’appel des appelants, mais rien de plus.
+Exposant premièrement l’élément du contrôle, l’avocat pour les appelants, qui est évidemment bien instruit lui-même en droit sur cette question, a parlé de la subordination, ce qui à mon avis est excellent étant donné que je trouve personnellement que le concept de subordination est un instrument utile que nous avons commencé à importer du Code civil du Québec dans les compétences de common law, soit plus précisément l’article 2099, qui définit les sous-traitants indépendants comme n’ayant pas de relation de subordonné avec les payeurs.
+Réciproquement, si un travailleur est un employé, une relation de subordonné doit exister entre lui et le payeur.
+Dans toutes les affaires que j’ai entendues, y compris celle d’aujourd’hui, j’ai trouvé utile de penser non seulement en termes de contrôle, mais aussi en termes de subordination. J’ai beaucoup apprécié le fait que l’avocat ait soulevé ce concept.
+La preuve montre que, pendant la période faisant l’objet du contrôle, du 1er janvier 2006 au 16 mai 2007,M.Ince-Mercer était une personne qui venait d’être admise au barreau après avoir terminé son stage au cabinet de M.Blott. C’est là qu’il a décidé de se spécialiser dans les affaires de lésion corporelle. La preuve indique qu’il a fait ce travail principalement pour le bureau de M. Blott, mais également à la maison, où il avait un bureau et où il travaillait tard en soirée.
+Parfois, il allait au bureau de M. Blott à midi, ce qui me convainc que M. Blott ne forçait pas M. Ince-Mercer à utiliser une horloge-poinçon et qu’il n’avait pas un contrôle strict sur ses allées et venues. Ce facteur particulier tend à indiquer qu’il n’avait pas un contrôle strict sur M. Ince-Mercer.
+Selon moi, les clients de M. Blott voyaient M. Blott. Il signait le mandat de représentation et déléguait ensuite le dossier à M. Ince-Mercer qui s’occupait de la paperasse comme la délivrance des brefs et la préparation des plaidoiries. J’accepte le fait que le travail qu’effectuait M. Ince-Mercer sur le dossier constituait 80 pour cent du temps et de l’effort requis.
+D’un autre côté, M. Ince-Mercer travaillait pour le cabinet et les clients de M. Blott. Les grandes décisions revenaient à M. Blott de même que les procédures aussi importantes que la fin d’un procès civil ou d’une action en justice potentielle, comme les conférences de médiation et de règlement, ainsi qu’à de rares occasions à l’instruction elle-même.
+La position des appelants est que M. Blott a sous-traité 80 pour cent des services de M. Ince-Mercer en vertu d’un contrat d’entreprise, distinct d’un contrat de louages de services.
+La preuve indiquait qu’ils avaient discuté d’un plan ultime, qui n’avait pas encore été soumis par écrit, mais qui établissait que M. Blott, ayant quelque 30 années d’expérience, envisageait la possibilité de prendre sa retraite en fait pour une deuxième fois, et que M. Ince-Mercer prendrait en charge le cabinet.
+Je me suis intéressé à cet élément de preuve en particulier à cause de la décision de mon frère le juge Bowie dans Woodland Insurance Ltd. c. le ministre Revenu national, [2005] A.C.I. no 276. Cette affaire était très intéressante parce qu’elle traitait d’un vendeur qui avait travaillé très fort pour retenir une clientèle et développer l’entreprise de la personne pour qui il travaillait. Étant donné que l’entreprise était en développement, la question était à savoir s’il était ou non un sous-traitant.
+Le juge Bowie a déclaré quelque chose que je trouve très sensé. Il a dit que, si quelqu’un développait une entreprise et était par conséquent considéré comme étant un contractant indépendant, il doit être en train de développer sa propre entreprise, pas celle de quelqu’un d’autre. Bien sûr, il est évident pourquoi cela aurait un intérêt pour moi dans la présente affaire, puisque M. Ince-Mercer était en train de développer la clientèle de M. Blott et son entreprise. Il n’y a aucune preuve qu’il avait ses propres clients. En fait, il a dit à la barre des témoins que ces derniers étaient les clients de M. Blott, et que c’était son cabinet et qu’il avait la compétence ultime de prendre les grandes décisions.
+Je dirais que cela est contraire à l’argument selon lequel M. Ince-Mercer était un contractant indépendant, mais dans ces cas il y a toujours des preuves qui vont des deux côtés. Comme nous le reconnaissons tous, il s’agit de décider de quel côté va pencher l’affaire en ce qui concerne la prépondérance des probabilités.
+J’ai eu du mal à accorder une très grande crédibilité à l’argument qu’un néophyte dans la pratique du droit qui travaille pour un homme ayant 30 ans d’expérience n’avait pas une relation de subordonné avec lui, mais avait une relation de contractant indépendant.
+J’ai été impressionné par l’avocat des appelants, mais il y avait un élément pour lequel mon point de vue de la loi différait du sien. L’argument de l’avocat était que M. Blott n’avait pas le contrôle de facto de 80 pour cent du travail effectué dans les dossiers. Mais la loi ne dit pas que le contrôle de facto est ce qui est important. La loi dit que c’est le droit de contrôler qui est important; de jure plutôt que de facto.
+Vous trouverez cela dans bon nombre d’affaires. Si vous voulez lire un sommaire de ces affaires, veuillez consulter Logitek Technology Ltd. c. le ministre du Revenu national, 2008 CCI 331. C’est une de mes propres décisions rendue le 6 mai 2008, no du dossier de la Cour 2006–2748(CPP).
+J’étais intéressé par le droit de M. Blott à contrôler M. Ince-Mercer. Nous avons une situation où il s’agit du cabinet de M. Blott, des clients de M. Blott, dans laquelle il a entièrement investi financièrement, où sa réputation est en cause et dont la responsabilité et les risques lui appartiennent. Il est sûr que, dans ces circonstances, il a le droit de contrôler. En fait, lorsqu’on lui a posé la question, il a admis qu’il avait le droit de contrôler et de dicter à M. Ince-Mercer, non seulement ce qu’il avait à faire, mais également comment le faire.
+J’ajouterais ici une parenthèse pour dire que la loi est tellement technique et traite de telles distinctions subtiles qu’il y a des cas où elle fait la distinction d’un payeur qui a le droit de dicter ce qu’il faut faire, mais non comment le faire. Mais en l’espèce, lorsqu’il est établi que M. Blott a le droit de dicter à la fois ce que doit faire M. Ince-Mercer et comment il doit le faire, cela indique clairement un droit de contrôle important, ce qui indique que le travailleur est un employé.
+Exposant d’abord la présentation de l’avocat sur la subordination, encore une fois, je trouverais très difficile de croire que M. Ince-Mercer, tout juste sorti de l’école, ne serait pas un subordonné de l’homme qui a 30 ans d’expérience et pour qui il travaille dans son cabinet avec toutes les responsabilités mentionnées ci-dessus. Je n’étais pas vraiment convaincu que cela était son investissement et sa clientèle et qu’ils avaient une relation d’égal à égal ou qu’ils travaillaient au même niveau. C’est une situation évidente de subordonné traitant avec un supérieur.
+Le facteur du contrôle indique que, pendant la période faisant l’objet du contrôle, M. Ince-Mercer était un employé.
+Exposant les instruments, la conclusion est à mon avis également évidente de même. Les employés ont des bureaux et des ordinateurs à la maison et font du travail à la maison. Ils ont des véhicules afin d’aller au travail, ils ont des ordinateurs. Mais en l’espèce, il y avait tellement d’outils dont M. Ince-Mercer avait besoin pour faire son travail et qui étaient fournis par M. Blott qu’il était très évident pour le facteur des outils que ces derniers étaient fournis par le payeur, indiquant que le travailleur était un employé.
+Si cela vous intéresse, le motif de la loi a développé un intérêt dans la propriété des outils, selon l’American Restatement, celui qui possède les outils contrôle comment ces outils seront utilisés.
+Au cas où je n’aurais pas été suffisamment précis dans le genre de choses qui ont été fournies par M. Blott, nous pouvons citer tout, soit d’un bureau, de parajuristes, de commis juridiques, d’étudiants, une bibliothèque, une réceptionniste, des formulaires; et la liste est longue.
+Le critère à quatre volets exposé dans Montréal locomotive et dans Wiebe Door ne sert qu’à confirmer en droit l’entière relation entre les parties. La preuve qu’il était planifié qu’un jour M. Ince-Mercer deviendrait propriétaire était vague. Ce pourrait être de l’espoir, mais qui n’avait pas été mis par écrit et qui n’était pas une chose dont je pourrais tenir compte sérieusement en tant qu’élément de preuve; M. Ince-Mercer n’a réellement en aucune manière un droit de propriété dans cette entreprise de M. Blott, même si cela était dans un avenir proche. Encore une fois, je fais référence à la décision du juge Bowie sur la pertinence.
+À nouveau, nous avons M. Ince-Mercer qui nous dit très clairement qu’ils étaient les clients de M. Blott. Ce n’était pas vraiment sa propre clientèle qu’il aurait lui-même retenue; il travaillait pour les clients de M. Blott.
+La preuve me mène à un portait très évident sur l’actualité que ce que nous avons en l’espèce quand on s’y penche de manière objective, ce qui est mon rôle, est une personne dont le travail et dont la spécialité est de travailler sur les plaidoiries dans le secteur des lésions corporelles. Il est un néophyte tout juste sorti de l’école. Même s’il peut avoir fait 80 pour cent du travail dans les dossiers ou y aurait passé 80 pour cent du temps – je ne suis vraiment pas sûr lequel est réellement nécessaire pour terminer un dossier – mais c’était M. Blott qui avait saisi le client et le mandat de représentation et qui entrait en jeu pour le règlement, la médiation et au procès.
+Je me suis trouvé à me demander s’il pouvait être soutenu qu’un certain pourcentage du dossier était sous-traité à un parajuriste. Il y a effectivement un point où l’argument sur lequel s’appuient réellement les appelants commence à perdre de sa force et de son effet.
+Les indications en ce qui a trait aux outils et au contrôle sont claires; elles sont toutes les deux indicatives du fait que M. Ince-Mercer était un employé pendant la période faisant l’objet du contrôle.
+J’ai réservé mes commentaires sur les bénéfices et les pertes pour la fin, et je vais réellement en parler dans un autre ordre parce que la preuve est claire qu’avec un salaire fixe de 1 000 $ par mois, M. Ince-Mercer n’avait aucune chance de bénéfices. Une nouvelle fois, ce n’était pas son entreprise qu’il développait, c’était celle de M. Blott.
+De même, concernant ses dépenses, j’accepte le fait qu’il avait l’adhésion au barreau et les frais d’assurance d’erreurs et omissions, et ceux de son bureau à domicile et de son ordinateur à domicile et de son véhicule, mais il n’y a aucune preuve que cela constitue un risque de perte dans le sens des dépenses d’entreprise qui dépassent le revenu d’affaires.
+Je reviendrai sur cette question quant à savoir si ces deux facteurs dans Wiebe Door, la possibilité de profits et le risque de pertes, sont suffisants pour plaider clairement les hypothèses selon lesquelles les deux appelants connaissaient l’affaire qu’ils devaient établir.
+J’ai décidé que oui, ils étaient suffisamment et clairement plaidés dans l’hypothèse pour un certain nombre de motifs; le premier est que les deux appelants étaient représentés par un avocat très compétent qui connaissait très bien la loi dans ce secteur et qu’il n’y avait aucune plainte qu’il ne connaissait pas l’affaire qu’ils devaient établir en ce qui a trait à la possibilité de profits et au risque de pertes. En fait, c’est moi qui ai soulevé la question et personne d’autre.
+Au risque de me répéter, il n’y avait aucun argument selon lequel les appelants n’étaient pas prêts à aborder ces questions.
+La relation entière entre les parties est claire; elle indique que M. Ince-Mercer était employé dans le cadre d’un contrat de louage de services. Les quatre facteurs établis dans Wiebe Door l’indiquent tous.
+L’avocat a cité la décision dans Royal Winnipeg Ballet c. le ministre du Revenu national, 2004 CCI 390, qui souligne d’ailleurs l’importance de l’intention mutuelle des parties, que je suis prêt à accepter à titre d’exemple que l’intention mutuelle est que M. Ince-Mercer serait un sous-traitant. Mais si vous lisez la décision dans Wolf c. le ministre du Revenu national, 92 D.T.C. 1858, avec le Royal Winnipeg Ballet, il devient évident que, bien qu’il y ait des déclarations différentes de juges différents, l’intention des parties présentée dans Royal Winnipeg Ballet n’est pertinente que si le critère des quatre volets établis dans Wiebe Door produit des résultats non conclusifs. Les résultats sont tellement conclusifs en l’espèce que l’intention mutuelle n’a pas prévalu.
+C’est une règle de droit bien connue qu’il incombe aux appelants de réfuter les hypothèses que contient la réponse du ministre à leur avis d’appel au paragraphe 7. L’avocat était d’accord à juste titre avec la plupart d’entre elles à l’exception de 7b), c), k), n), o), q), r), s) et v).
+En commençant par 7b), j’ai conclu que le travailleur avait en effet été engagé. Sous 7c), je reconnais que les deux parties ont travaillé sur des dossiers de lésions corporelles. Mais ce qui est important, c’est que 20 pour cent du travail a été fait par M. Blott est ce que j’appellerai le 20 pour cent clé parce qu’il comprend la responsabilité principale en ce qui a trait au règlement, à la médiation et aux procès. Je dirais que M. Ince-Mercer, qui a fait la paperasse, avait un rôle subordonné dans ces secteurs de responsabilité.
+Le paragraphe 7k) était vrai, mais comme je l’ai déjà dit, ce facteur du travailleur qui a son bureau à domicile et des dépenses n’est pas inhabituel parmi des employés.
+Au paragraphe 7n), j’accepte la position de l’appelant selon laquelle les dossiers ne lui étaient pas attribués et que le travailleur M. Ince-Mercer avait le droit de les refuser. Ce qui est très intéressant est que cela est cité dans un certain nombre d’affaires, dont celle de Precision Gutters Ltd. c. le ministre du Revenu national, [2002] ACI 771, au paragraphe 27. Il est dit, et je cite :
+« [...] Selon moi, la capacité de négocier les modalités d’un contrat suppose une chance de bénéfice et un risque de perte de la même manière que permettre à une personne d’accepter ou de refuser du travail suppose une chance de bénéfice et un risque de perte. »
+J’étais bien sûr très intéressé quand j’ai entendu M. Ince-Mercer avait le droit de refuser de travailler sur des dossiers. J’étais encore plus intéressé d’entendre ses motifs. Ses motifs, sans exception, n’avaient réellement rien à voir avec l’indépendance par opposition à la subordination. Ce n’est pas le cas – par exemple pour tout autre métier – un plombier qui dit « je refuse de travailler dans cette maison ». Cela, c’est l’indépendance. Mais dans l’affaire de M. Ince-Mercer, j’ai appris qu’en harmonie avec les normes les plus élevées de la profession juridique, ses motifs étaient que [traduction] « je suis déjà à capacité alors je ne peux pas réellement faire le meilleur travail qu’il faut » ou [traduction] « ce n’est pas mon secteur d’expertise et, par conséquent, je refuse de le prendre. » Je fais une distinction entre le droit de refuser de M. Ince-Mercer et le genre de droit de refuser qui se retrouve dans les affaires comme celle de Precision Gutters, et qui ne menait pas à la conclusion qu’il était un sous-traitant.
+L’hypothèse 7o) a été évidemment démolie. Ce qui motive M. Ince-Mercer est les périodes de limitations juridiques, les règles et règlements du Barreau du Haut-Canada, les besoins du client et les exigences de chacune des affaires. Ce sont ces motivations qui ont déterminé ses priorités et ses échéanciers, ce n’est pas le payeur.
+Le paragraphe 7q) est vrai, et j’accepte le fait que le formulaire sur lequel M. Blott a mis son nom était pro forma. Mais le formulaire auquel le formulaire en question était en pièce jointe, notamment les plaidoiries, je ne l’accepte certainement pas. Je suis bien convaincu que quiconque qui a 30 ans d’expérience reverrait soigneusement tout document d’importance que produirait son bureau, en particulier ceux qu’il devait certifier pour la cour, juste à titre de garantie de bon avocat, et aussi étant la personne à qui possède l’entreprise et qui tient à ses clients.
+Le paragraphe 7r) qui traite de qui a la responsabilité de résoudre les plaintes des clients, aborde un monde qui ne concerne pas réellement l’industrie juridique; il ne s’agit pas ici d’une personne qui fabrique des poignées de porte. Comme M. Blot l’a indiqué, il a de la difficulté à s’y identifier dans son contexte, et donc je n’y donne aucun poids réel.
+De même pour le paragraphe 7s), qui traite du travail qui doit être refait. Je sais pourquoi il est là; il a été placé là parce que, si quelqu’un peint un mur et ne fait pas du bon travail et qu’il doit repeindre le mur, s’il est un sous-traitant indépendant, il doit le faire à temps perdu et à ses propres frais. S’il est un employé, son salaire est toujours payé tandis qu’il refait la peinture du mur. Cela n’est pas pertinent au sujet de l’espèce devant nous, et je ne sais pas vraiment pourquoi il a été ajouté dans ces hypothèses.
+Cela m’amène au paragraphe 7v), les services personnels. J’ai également conclu que celui-là n’était pas non plus probatoire. C’est parce que dans des cas comme dans Ready Mixed Concrete c. the Minister of Pensions, 1968 1 All-England Reports 443 and la division du banc de la Reine. La Cour dit que :
+« La liberté de faire un travail, de ses propres mains ou par l’entremise d’une autre personne, est incompatible avec un contrat de louage de services [...] »
+Cela est normalement très utile pour décider qui est un employé et qui est un contractant indépendant. Malheureusement, rien en droit n’est entièrement simple parce que, si je cite l’exemple d’un médecin, sûrement que vous voulez que votre médecin s’occupe de votre opération et il est évidemment un contractant indépendant. Je comparerais une personne de l’expertise de M. Ince-Mercer à un médecin qui indiquerait, même si vous voulez que ce soit lui qui fasse le travail lui-même, cela n’enlève pas le fait qu’il pourrait être un travailleur indépendant.
+Mais en l’espèce, il n’était pas probatoire parce qu’il est accepté par qui que soit qui fait appel à des services juridiques qu’il y a des parajuristes, qu’il y a des recherchistes, qu’il y a d’autres personnes qui participeront à la gestion de votre dossier. La preuve ne prouve pas le bien-fondé que M. Ince-Mercer avait à effectuer ses services personnellement et, même si elle le faisait, ce n’est pas nécessairement probatoire.
+Il incombe à l’appelant, comme je l’ai dit, de réfuter les hypothèses contenues dans la réponse du ministre sur l’avis d’appels des appelants, et certaines hypothèses ont été réfutées avec succès. Mais la jurisprudence dans la décision de la Cour d’appel fédérale dans Canada (Procureur général) c. Jencan Ltd., [1997] ACF no 876, indique que, si les hypothèses restantes qui n’ont pas été réfutées sont suffisantes pour appuyer la décision du ministre, elles suffisent. Ils n’ont pas à réfuter toutes les hypothèses.
+En l’espèce, il est très évident qu’il y a suffisamment d’hypothèses qui restent pour appuyer les décisions du ministre.
+J’ai examiné tous les faits avec les parties et le témoignage des témoins présentés au nom des deux appelants, aucun n’ayant été présenté au nom du ministre, pour témoigner sous serment pour la première fois. J’ai conclu qu’aucun fait nouveau et rien indiquant que des faits que laisse entendre ou sur lesquels s’appuie le ministre étaient irréels ou évalués incorrectement ou avaient été incompris. Je peux conclure qu’il n’y a aucune affaire dans laquelle M. Ince-Mercer se serait engagé à son propre compte.
+Les conclusions du ministre sont objectivement raisonnables. Dans le résultat, les appels, tous les quatre, seront rejetés et les quatre décisions du ministre seront confirmées.
+Messieurs, je vous remercie tous les deux de votre aide. Je vais comparaître de nouveau à 9 h 30 demain matin.
+LE GREFFIER : Merci monsieur. La Cour est ajournée.
+--- L'extrait est alors conclu à 17 h 09.
+JE CERTIFIE PAR LA PRÉSENTE QUE j’ai, au meilleur
+de mes compétences et de ma capacité, transcrit de manière exacte les dispositions précédentes.
+_______________________
+Robert Lee, sténographe judiciaire certifié
+RÉFÉRENCE :
+2009 CCI 594
+Nº DES DOSSIERS DE LA COUR :
+2007-4979(EI); 2007-4980(CPP)
+2007-4981(EI); 2007-4982(CPP)
+INTITULÉS :
+Esan Ince-Mercer
+et le ministre du Revenu national et Allan S. Blott
+ET
+Allan S. Blott
+et le ministre du Revenu national et Esan Ince-Mercer
+LIEU DE L’AUDIENCE :
+Toronto (Ontario),
+DATE DE L’AUDIENCE :
+Le 25 août 2009
+MOTIFS DU JUGEMENT :
+L’honorable juge N. Weisman, juge suppléant
+DATE DU JUGEMENT RENDU ORALEMENT :
+Le 25 août 2009
+COMPARUTIONS :
+Avocat pour les appelants :
+Me John David Buote
+Avocat pour l’intimée :
+Me Hong Ky (Eric) Luu
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+John David Buote
+Cabinet :
+J.D. Buote & Associates
+Brampton (Ontario)
+Pour l’intimé :
+John H. Sims, Q.C.
+Sous procureur général du Canada
+Ottawa, Canada

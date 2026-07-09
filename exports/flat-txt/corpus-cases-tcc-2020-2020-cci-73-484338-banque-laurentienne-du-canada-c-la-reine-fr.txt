@@ -1,0 +1,450 @@
+Title: Banque Laurentienne du Canada c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/484338/index.do
+Corpus path: corpus/cases/tcc/2020/2020-cci-73-484338-banque-laurentienne-du-canada-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2020-08-21
+
+# Banque Laurentienne du Canada c. La Reine
+
+- Citation: 2020 CCI 73
+- Decision date: 2020-08-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4553, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Banque Laurentienne du Canada c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2020-08-21
+Référence neutre
+2020 CCI 73
+Numéro de dossier
+2016-4706(IT)G
+Juges et Officiers taxateurs
+Sylvain Ouimet
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-4706(IT)G
+ENTRE :
+BANQUE LAURENTIENNE DU CANADA,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu les 5 et 8 avril 2019, à Montréal (Québec).
+Devant : L'honorable juge Sylvain Ouimet
+Comparutions :
+Avocats de l'appelant :
+Me Wilfrid Lefebvre
+Me Jonathan Lafrance
+Avocat de l'intimée :
+Me Michel Lamarre
+JUGEMENT
+L’appel des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2012, 2013 et 2014 est accueilli, avec dépens, selon les motifs ci-joints.
+Signé à Ottawa, Canada, ce 21e jour d’août 2020.
+« Sylvain Ouimet »
+Juge Ouimet
+Référence : 2020 CCI 73
+Date : 20200821
+Dossier : 2016-4706(IT)G
+ENTRE :
+BANQUE LAURENTIENNE DU CANADA,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Ouimet
+I. INTRODUCTION
+[1] La Banque Laurentienne du Canada (« Banque Laurentienne ») interjette appel de trois cotisations établies le 7 janvier 2016 par le ministre du Revenu national (le « ministre ») [1] . Lesdites cotisations concernent les années d’imposition de la Banque Laurentienne se terminant le 31 octobre 2012, 2013 et 2014 (« années en litige ») [2] . Par ces cotisations, le ministre a refusé à la Banque Laurentienne des déductions de 960 000 $ dans le calcul de son revenu pour chacune des années en litige [3] . Ces déductions ont été réclamées en vertu de l’alinéa 20(1)e) de la Loi de l’impôt sur le revenu (« LIR ») et se rapportent à des paiements d’honoraires de transaction effectués par la Banque Laurentienne en vertu de conventions de souscription d’actions.
+[2] Pour chacune des années en litige, les déductions réclamées représentent vingt pour cent (20 %) d’une somme totale de 4 800 000 $, soit le total des honoraires de transaction payés par la Banque Laurentienne à la Caisse de dépôt et placement du Québec (« CDPQ ») et au Fonds de solidarité des travailleurs du Québec (« FSTQ ») en vertu de conventions de souscription d’actions datées du 6 juin 2012 (« conventions de souscription ») [4] . Conformément aux conventions de souscription, la Banque Laurentienne a payé des honoraires de 3 999 999,56 $ à la CDPQ et de 799 999,56 $ au FSTQ [5] . Selon le sous-alinéa 20(1)e)(iii) de la LIR, le montant déductible du revenu d’un contribuable au titre de dépenses engagées dans le cadre d’une émission d’actions, est limité à 20% par année d’imposition.
+[3] Le ministre a refusé les déductions demandées par la Banque Laurentienne au motif que les honoraires de transaction payés en vertu des conventions de souscription ne pouvaient pas être qualifiés de « dépenses engagées » dans le cadre d’une émission d’actions au sens de l’alinéa 20(1)e) de la LIR, et ce, pour les motifs suivants :
+1- La CDPQ et le FSTQ n'ont pas rendu de services à la Banque Laurentienne en contrepartie des honoraires de transaction leur ayant été payés [6] .
+2- La CDPQ et le FSTQ n’ont pas agi à titre de vendeurs, mandataires ou courtiers en valeurs mobilières auprès de la Banque Laurentienne [7] .
+3- Les sommes de 3 999 999,56 $ et de 799 999,56 $ payées par la Banque Laurentienne à la CDPQ et au FSTQ respectivement constituaient dans les faits des escomptes octroyés par la Banque Laurentienne sur le prix de souscription de ses actions [8] .
+[4] Subsidiairement, l’intimée a soutenu que les déductions demandées par la Banque Laurentienne devaient être refusées pour le motif suivant :
+Les honoraires de transaction de 3 999 999,56 $ et de 799 999,56 $ étaient déraisonnables compte tenu des circonstances. Par conséquent, suivant l'article 67 de la LIR [9] , ces sommes ne pouvaient pas être déduites dans le calcul du revenu de la Banque Laurentienne.
+[5] Les personnes suivantes ont témoigné pour l’appelante lors de l’audience :
+- Stéphane Lanthier, vice-président, fiscalité à la Banque Laurentienne.
+- François Boudreault, vice-président, placements privés pour l’Amérique du Nord et pour l’Amérique latine à la CDPQ.
+[6] L’intimée n’a présenté aucun témoin lors de l’audience.
+II. QUESTION EN LITIGE
+[7] La question en litige est la suivante :
+Est-ce à bon droit que le ministre a refusé une déduction de 960 000 $ dans le calcul du revenu de la Banque Laurentienne pour chacune des années en litige ?
+[8] Afin de répondre à cette question, la Cour devra répondre aux quatre questions suivantes :
+a) Est-ce que la Banque Laurentienne a engagé des dépenses de 3 999 999,56 $ et de 799 999,56 $ ?
+b) Est-ce que ces dépenses ont été engagées dans le cadre d’une émission d’actions ?
+c) Est-ce que honoraires de transaction de 3 999 999,56 $ payés par la Banque Laurentienne à la CDPQ étaient raisonnables dans les circonstances ?
+d) Est-ce-que les honoraires de transaction de 799 999,56 $payés par la Banque Laurentienne au FSTQ étaient raisonnables dans les circonstances ?
+III. LES DISPOSITIONS LÉGISLATIVES PERTINENTES
+[9] Les dispositions législatives pertinentes sont les suivantes :
+Loi de l’impôt sur le revenu, L.R.C. 1985, ch. 1 (5e supp.)
+PARTIE I - Impôt sur le revenu
+SECTION B - Calcul du revenu
+SOUS-SECTION B - Revenu ou perte provenant d’une entreprise ou d’un bien
+Revenu
+9 (1) Sous réserve des autres dispositions de la présente partie, le revenu qu’un contribuable tire d’une entreprise ou d’un bien pour une année d’imposition est le bénéfice qu’il en tire pour cette année.
+[…]
+Déductions
+Exceptions d’ordre général
+18 (1) Dans le calcul du revenu du contribuable tiré d’une entreprise ou d’un bien, les éléments suivants ne sont pas déductibles :
+[…]
+Dépense ou perte en capital
+b) une dépense en capital, une perte en capital ou un remplacement de capital, un paiement à titre de capital ou une provision pour amortissement, désuétude ou épuisement, sauf ce qui est expressément permis par la présente partie;
+[…]
+Déductions admises dans le calcul du revenu tiré d’une entreprise ou d’un bien
+20 (1) Malgré les alinéas 18(1)a), b) et h), sont déductibles dans le calcul du revenu tiré par un contribuable d’une entreprise ou d’un bien pour une année d’imposition celles des sommes suivantes qui se rapportent entièrement à cette source de revenus ou la partie des sommes suivantes qu’il est raisonnable de considérer comme si y rapportant :
+[…]
+Frais d’émission ou de vente d’actions, d’unités ou de participations et frais d’emprunt
+e) la partie d’un montant (sauf un montant exclu) qui n’est pas déductible par ailleurs dans le calcul du revenu du contribuable et qui est une dépense engagée au cours de l’année ou d’une année d’imposition antérieure :
+(i) soit dans le cadre d’une émission ou vente d’unités du contribuable, si celui-ci est une fiducie d’investissement à participation unitaire, ou de participations dans une société de personnes ou un syndicat par cette société de personnes ou ce syndicat, ou encore d’actions du capital-actions du contribuable,
+[…]
+(y compris les commissions, honoraires et autres montants payés ou payables au titre de services rendus par une personne en tant que vendeur, mandataire ou courtier en valeurs dans le cadre de l’émission, de la vente ou de l’emprunt) égale au moins élevé des montants suivants :
+(iii) le produit de 20 % de la dépense et du rapport entre le nombre de jours de l’année et 365,
+(iv) l’excédent éventuel de la dépense sur le total des montants déductibles par le contribuable au titre de la dépense dans le calcul de son revenu pour les années d’imposition antérieures;
+toutefois :
+(iv.1) montant exclu s’entend des montants suivants :
+(A) un montant payé ou payable au titre du principal d’une créance ou des intérêts afférents à une créance,
+(B) un montant qui est conditionnel à l’utilisation de biens ou qui dépend de la production en provenant,
+(C) un montant calculé en fonction des recettes, des bénéfices, du flux de trésorerie, du prix des marchandises ou d’un critère semblable ou en fonction des dividendes versés ou payables aux actionnaires d’une catégorie d’actions du capital-actions d’une société,
+[…]
+SOUS-SECTION F - Règles relatives au calcul du revenu
+Restriction générale relative aux dépenses
+67 Dans le calcul du revenu, aucune déduction ne peut être faite relativement à une dépense à l’égard de laquelle une somme est déductible par ailleurs en vertu de la présente loi, sauf dans la mesure où cette dépense était raisonnable dans les circonstances.
+Loi d’interprétation, L.R.C. 1985, ch. I-21
+Règles d’interprétation
+Propriété et droits civils
+Tradition bijuridique et application du droit provincial
+8.1 Le droit civil et la common law font pareillement autorité et sont tous deux sources de droit en matière de propriété et de droits civils au Canada et, s’il est nécessaire de recourir à des règles, principes ou notions appartenant au domaine de la propriété et des droits civils en vue d’assurer l’application d’un texte dans une province, il faut, sauf règle de droit s’y opposant, avoir recours aux règles, principes et notions en vigueur dans cette province au moment de l’application du texte.
+Code civil du Québec, RLRQ, ch. CCQ-1991
+LIVRE CINQUIÈME – Des obligations
+TITRE PREMIER – Des obligations en général
+CHAPITRE DEUXIÈME – Du contrat
+SECTION IV – De l’interprétation du contrat
+1425. Dans l’interprétation du contrat, on doit rechercher quelle a été la commune intention des parties plutôt que de s’arrêter au sens littéral des termes utilisés.
+1426. On tient compte, dans l’interprétation du contrat, de sa nature, des circonstances dans lesquelles il a été conclu, de l’interprétation que les parties lui ont déjà donnée ou qu’il peut avoir reçue, ainsi que des usages.
+1427. Les clauses s’interprètent les unes par les autres, en donnant à chacune le sens qui résulte de l’ensemble du contrat.
+1428. Une clause s’entend dans le sens qui lui confère quelque effet plutôt que dans celui qui n’en produit aucun.
+1429. Les termes susceptibles de deux sens doivent être pris dans le sens qui convient le plus à la matière du contrat.
+1430. La clause destinée à écarter tout doute sur l’application du contrat à un cas particulier ne restreint pas la portée du contrat par ailleurs conçu en termes généraux.
+1431. Les clauses d’un contrat, même si elles sont énoncées en termes généraux, comprennent seulement ce sur quoi il paraît que les parties se sont proposé de contracter.
+1432. Dans le doute, le contrat s’interprète en faveur de celui qui a contracté l’obligation et contre celui qui l’a stipulée. Dans tous les cas, il s’interprète en faveur de l’adhérent ou du consommateur.
+LIVRE SEPTIÈME – De la preuve
+TITRE DEUXIÈME – Des moyens de preuve
+CHAPITRE DEUXIÈME – Du témoignage
+2843. Le témoignage est la déclaration par laquelle une personne relate les faits dont elle a eu personnellement connaissance ou par laquelle un expert donne son avis.
+Il doit, pour faire preuve, être contenu dans une déposition faite à l’instance, sauf du consentement des parties ou dans les cas prévus par la loi
+TITRE TROISIÈME – De la recevabilité des éléments et des moyens de preuve
+CHAPITRE DEUXIÈME – Des moyens de preuve
+2864. La preuve par témoignage est admise lorsqu’il s’agit d’interpréter un écrit, de compléter un écrit manifestement incomplet ou d’attaquer la validité de l’acte juridique qu’il constate.
+CHAPITRE TROISIÈME – De certaines déclarations
+2869. . La déclaration d’une personne qui ne témoigne pas à l’instance ou celle d’un témoin faite antérieurement à l’instance est admise à titre de témoignage si les parties y consentent; est aussi admise à titre de témoignage la déclaration qui respecte les exigences prévues par le présent chapitre ou par la loi.
+Loi sur les banques, L.C. 1991, ch. 46
+PARTIE X – Capital, liquidités et capacité à absorber des pertes
+Capital et liquidités suffisants
+485 (1) La Banque Laurentienne est tenue de maintenir, pour son fonctionnement, un capital suffisant ainsi que des formes de liquidité suffisantes et appropriées, et de se conformer à tous les règlements relatifs à cette exigence.
+Loi sur la preuve au Canada, L.R.C. 1985, ch. C-5
+PARTIE I
+Lois provinciales concernant la preuve
+Mode d’application
+40 Dans toutes les procédures qui relèvent de l’autorité législative du Parlement du Canada, les lois sur la preuve qui sont en vigueur dans la province où ces procédures sont exercées, y compris les lois relatives à la preuve de la signification d’un mandat, d’une sommation, d’une assignation ou d’une autre pièce s’appliquent à ces procédures, sauf la présente loi et les autres lois fédérales.
+IV. LES FAITS
+A. Le contexte
+[10] La Banque Laurentienne est une société constituée en vertu de la Loi sur les banques [10] . Au cours de l’année 2012, la Banque Laurentienne a entamé des démarches afin qu’une de ses filiales, B2B Trust, acquière une entreprise nommée AGF Trust.
+[11] Selon les témoignages entendus lors de l’audience, avant que la transaction n’eût lieu, la Banque Laurentienne savait que l’acquisition d’AGF Trust par B2B Trust aurait pour effet de faire diminuer le niveau de son capital au-dessous des limites permises par la Loi sur les banques [11] . En prévision de l’acquisition d’AGF Trust, la Banque Laurentienne a donc pris la décision d’émettre des actions ordinaires afin d’augmenter le niveau de son capital [12] .
+[12] Le 1er juin 2012, la CDPQ a fait parvenir une lettre d’intention à la Banque Laurentienne afin de lui faire part de son intérêt à souscrire à des reçus de souscription dans le cadre de l’acquisition d’AGF Trust par B2B Trust [13] . Dans cette lettre, la CDPQ dit avoir l’intention, au moyen d’un placement privé, de souscrire à 100 000 000 $ de reçus de souscription afin que cette somme soit utilisée « pour les fins de bonifier le capital réglementaire requis de la Banque [Laurentienne] » [14] . Cette transaction était conditionnelle à l’acquisition d’AGF Trust par B2B Trust à des conditions acceptables pour la CDPQ [15] . Le prix de chacun des reçus de souscription devait être égal au cours moyen pondéré des actions ordinaires de la Banque Laurentienne se négociant sur la Bourse de Toronto pour la période de cinq jours d’ouverture du marché se terminant le 31 mai 2012 [16] . La Banque Laurentienne a consenti à un escompte de deux pour cent (2 %) sur ce prix [17] . Lesdits reçus de souscription devaient être convertis en actions ordinaires de la Banque Laurentienne au moment de la clôture de la transaction entre B2B Trust et de AGF Trust sur la base d’une action ordinaire de la Banque Laurentienne pour chaque reçu de souscription [18] . Le montant total de la souscription devait être déposé en fidéicommis par la CDPQ à la date prévue dans la convention de souscription et être conservée en fidéicommis jusqu’à la clôture de la transaction, c’est-à-dire jusqu’à l’acquisition d’AGF Trust par B2B Trust [19] .
+[13] Si l’on tient compte du rabais de deux pour cent (2 %), la CDPQ a donc fait part de son intention d’acheter pour 100 000 000 $ d’actions ordinaires de la Banque Laurentienne au prix de 41.85 $ l’action [20] .
+[14] La souscription était conditionnée par la négociation et à la signature d’une convention de souscription. La convention devait notamment inclure des dispositions correspondant à certaines conditions énoncées dans le document intitulé « Sommaire des termes et conditions » joint à la lettre d’intention. Selon ces conditions, la souscription de la CDPQ était conditionnelle au remboursement par la Banque Laurentienne de certains frais et certaines dépenses devant être engagés par la CDPQ en lien avec la souscription. La Banque Laurentienne devait rembourser à la CDPQ les honoraires et frais raisonnables de ses conseillers juridiques jusqu’à concurrence de 100 000 $. La Banque Laurentienne devait aussi payer à la CDPQ des honoraires de transaction de quatre pour cent (4 %) du montant total de la souscription (soit 100 000 000 $), et ce, à la clôture de la transaction [21] .
+[15] Le 4 juin 2012, le FSTQ a fait parvenir une lettre d’intention à la Banque Laurentienne afin de lui faire part de son intérêt à souscrire à des reçus de souscription dans le cadre de l’acquisition d’AGF Trust par B2B Trust. Dans sa lettre, le FSTQ a dit avoir l’intention, au moyen d’un placement privé, de souscrire à 20 000 000 $ de reçus de souscription, ceci étant conditionnelle à l’acquisition d’AGF Trust par B2B Trust [22] . Le prix de chacun des reçus de souscription devait être égal au cours moyen pondéré en fonction du volume des actions ordinaires de la Banque Laurentienne se négociant sur la Bourse de Toronto pour la période de cinq jours d’ouverture du marché se terminant le 31 mai 2012, avec un escompte de deux pour cent (2 %) [23] . Lesdits reçus de souscription devaient être convertis en actions ordinaires de la Banque Laurentienne au moment de la clôture de la transaction entre B2B Trust et AGF Trust, et ce, sur la base d’une action ordinaire de la Banque Laurentienne pour chaque reçu de souscription [24] . Le montant total de la souscription devait être déposé en fidéicommis par la CDPQ à la date prévue dans la convention de souscription et être conservé en fidéicommis jusqu’à la clôture de la transaction [25] .
+[16] Si l’on tient compte de l’escompte de deux pour cent (2 %), le FSTQ avait l’intention d’acheter pour 20 000 000 $ d’actions ordinaires de la Banque Laurentienne au prix de 41 85 $ l’action [26] .
+[17] Comme dans le cas de la CDPQ, la souscription du FSTQ était conditionnelle à la négociation et à la signature d’une convention de souscription. La convention devait notamment inclure des dispositions correspondant à certaines conditions énoncées dans un document également intitulé « Sommaire des termes et conditions » joint à la lettre d’intention. Le FSTQ mentionne expressément dans sa lettre qu’il connaissait l’existence du placement privé de 100 000 000 $ que la CDPQ avait l’intention de faire au moyen de reçus de souscription et qu’il accepte, sous réserve de certaines modalités décrites dans la lettre, que les conditions de son éventuelle souscription soient les mêmes que celles convenues avec la CDPQ [27] .
+[18] Selon ces conditions, la souscription du FSTQ était conditionnelle au remboursement par la Banque Laurentienne de certains frais et certaines dépenses devant être engagés par le FSTQ en lien avec la souscription. La Banque Laurentienne devait rembourser au FSTQ cinquante pour cent (50 %) des honoraires et frais raisonnables de ses conseillers juridiques, et ce, jusqu’à concurrence de 30 000 $ [28] . La Banque Laurentienne devait aussi payer au FSTQ des honoraires de transaction de quatre pour cent (4 %) du montant total de la souscription (soit 20 000 000 $), et ce, à la clôture de la transaction [29] .
+[19] Le 4 juin 2012, la Banque Laurentienne a avisé la Bourse de Toronto des placements privés, au prix de 41 85 $ pour chacun des reçus de souscription, envisagés par la CDPQ et par le FSTQ [30] .
+[20] Le 6 juin 2012, une convention de souscription a été signée entre la CDPQ et la Banque Laurentienne pour la souscription par la CDPQ à 2 389 486 reçus de souscription à un prix unitaire de 41,85 $ pour un total de 99 999 989,10 $ [31] . Le même jour, une convention de souscription a été signée entre le FSTQ et la Banque Laurentienne pour la souscription par le FSTQ à 477 897 reçus de souscription à un prix unitaire de 41 85 $, pour un total de 19 999 989,45 $ [32] .
+[21] Toujours le 6 juin 2012, B2B Trust a conclu une convention d’achat d’actions avec AGF Management Limited relativement à l’acquisition de toutes les actions émises et en circulation d’AGF Trust [33] .
+[22] Le 12 juin 2012, la Banque Laurentienne a conclu une convention de reçus de souscription avec la CDPQ et la Société de Fiducie Computershare du Canada (« Société Computershare »). Cette dernière devait agir en qualité d’agent chargé de la tenue des registres et d'agent de transfert relativement aux reçus de souscription. Elle devait aussi agir à titre d’agent d’entiercement et de dépositaire à l’égard de l’ensemble des fonds qui devaient être détenus en main tierce et de mandataire pour le compte des porteurs de reçus de souscription et de la Banque Laurentienne [34] . Le même jour, la Banque Laurentienne a conclu une convention de reçus de souscription avec le FSTQ et la Société Computershare aux mêmes fins [35] .
+[23] Le 1er août 2012, B2B Trust a procédé à l’acquisition des actions d’AGF Trust [36] .
+[24] Le 1er août 2012 également, à la clôture de la transaction d’achat d’AGF Trust par B2B Trust, et tel qu’il était prévu dans les conventions de souscription et les conventions de reçus de souscription, la Banque Laurentienne a émis 2 389 486 actions ordinaires en faveur de la CDPQ et 477 897 actions ordinaires en faveur du FSTQ au prix de 41 85 $ par action [37] . Le même jour, la Banque Laurentienne a payé par virement bancaire la somme de 3 999 999 56 $ à la CDPQ et la somme de 799 9999 56 $ au FSTQ à titre d’honoraires de transaction [38] .
+B. Les témoignages
+1. Stéphane Lanthier
+[25] M. Lanthier détient une maîtrise en fiscalité obtenue de l’École des hautes études commerciales de Montréal et a le titre professionnel de comptable professionnel agréé (CPA). Il exerçait les fonctions de vice-président, fiscalité à la Banque Laurentienne durant les années en litige et exerce toujours ces mêmes fonctions. Durant lesdites années, l’équipe de M. Lanthier était chargée de préparer les déclarations de revenus de la Banque Laurentienne sous sa supervision et il en était le signataire.
+[26] Selon le témoignage de M. Lanthier, l’acquisition d’AGF Trust par B2B Trust aurait eu pour effet de faire diminuer le niveau de capital de la Banque Laurentienne au-dessous du seuil minimal requis par la Loi sur les banques [39] . Par conséquent, la Banque Laurentienne a dû trouver les capitaux nécessaires afin d’être en mesure de financer cette acquisition. Comme la Banque Laurentienne avait récemment procédé à une émission publique d’actions, le département de trésorerie de la banque a décidé qu’il était préférable de ne pas procéder à une nouvelle émission publique d’actions. L’option retenue par le département a été de procéder à une émission d’actions ordinaires, mais cette fois-ci de les offrir sur le marché en tant que « placement privé ».
+[27] Selon les explications fournies par M. Lanthier, un placement privé tel que celui fait par la CDPQ est un investissement fait au moyen d’une acquisition d’actions qui ne sont pas offertes dans le cadre d’une émission publique [40] . M. Lanthier a expliqué à la Cour la différence entre une situation où des actions sont émises en vue d’être vendues au public par l’intermédiaire d’un « preneur ferme », par exemple un regroupement de banques, et une situation où les actions sont émises en vue d’être vendues directement à l’investisseur dans le cadre d’un placement privé. Selon lui, il y a une différence au niveau du risque encouru par le preneur ferme car, théoriquement, il s’engage à acheter les actions dans le but de les revendre. Cependant, dans les faits, le risque encouru est faible puisque le preneur ferme s’est normalement assuré d’avoir trouvé des acheteurs avant de s’engager à les acheter lui-même [41] .
+[28] Questionné par l’avocat de l’appelante concernant l’escompte de deux pour cent (2 %) consenti par la Banque Laurentienne à la CDPQ et au FSTQ, M. Lanthier a tout d’abord indiqué qu’il s’agissait d’une pratique du marché. Toujours selon lui, le but d’offrir un escompte était d’attirer un investisseur puisque l’escompte n’est pas disponible lorsque l’on achète des actions sur le marché secondaire. M. Lanthier a aussi expliqué qu’un escompte permet de réduire le risque encouru par l’acheteur advenant une diminution du cours de l’action entre le moment de la signature de la convention de souscription et le moment de la conversion des reçus de souscription en actions [42] . Quant au pourcentage du rabais, M. Lanthier a ajouté qu’il est possible d’offrir un escompte de plus de deux pour cent (2 %), mais que cela aurait un effet négatif sur le marché. De plus, M. Lanthier a expliqué qu’étant inscrite à la Bourse de Toronto, la Banque Laurentienne devait respecter certaines règles quant à l’escompte maximal qu’elle pouvait octroyer, et qu’offrir un escompte de plus de quinze pour cent (15 %) par exemple, risquait d’être problématique [43] .
+[29] M. Lanthier a ensuite été questionné sur le sujet des honoraires de transaction. Selon lui, pour la Banque Laurentienne, cela « faisait plein de sens de payer des honoraires pour obtenir le financement et le capital nécessaire ». Quant aux raisons pour lesquelles c’était le cas, il a dit que l’acquisition d’actions de la Banque Laurentienne par la CDPQ et le FSTQ envoyait un message positif et fort sur le marché concernant l’acquisition d’AGF Trust parce que ces investissements sous forme d’achat d’actions sont effectués après une vérification diligente. Cette vérification diligente envoie comme message au public qu’il s’agit d’une bonne acquisition. M. Lanthier a qualifié ceci de « goodwill », de valeur ajoutée, ce qui allait au-delà de la simple obtention des capitaux. De plus, selon lui, un « placement privé » était avantageux pour la Banque Laurentienne puisqu’il n’implique pas l’émission d’un prospectus et parce que le processus de vérification diligente est plus rapide [44] .
+[30] Quant aux honoraires de transaction, M. Lanthier a confirmé qu’ils ont été payés à la clôture de la transaction. Dans le cas de la CDPQ, un virement bancaire a été effectué dans son compte à la Banque Royale. Dans le cas du FSTQ, puisqu’il était client de la Banque Laurentienne, les honoraires ont été versés directement dans son compte à la Banque Laurentienne. Selon M. Lanthier, le paiement relatif à la souscription d’actions et le versement des honoraires représentaient deux transactions distinctes dans le cadre desquelles, d’une part, la Banque Laurentienne a encaissé le produit de l’émission des actions ordinaires et, d’autre part, elle a payé les honoraires par virements bancaires [45] .
+[31] En ce qui a trait au traitement comptable des honoraires de transaction, M. Lanthier a dit avoir suivi les règles comptables applicables. La Banque Laurentienne a donc réduit son capital-actions ordinaire du montant des honoraires de transaction. Selon M. Lanthier, les honoraires devaient être portés en diminution du poste des actions ordinaires. Par conséquent, ils ne se trouvaient pas dans l’état des résultats puisqu’ils devaient être présentés au bilan en diminution du capital-actions. M. Lanthier a confirmé que les honoraires de transaction ont été traités comme une dépense en capital par la Banque Laurentienne et qu’il s’agit du même traitement comptable que s’ils avaient été payés à un « preneur ferme » [46] .
+[32] Finalement, dans le cadre de son contre-interrogatoire, M. Lanthier a été interrogé sur la source de ses connaissances relatives aux taux de rabais sur le prix des actions et au taux des honoraires de transaction normalement accordés dans ce type de transaction. M. Lanthier a tout d’abord dit qu’il n’avait pas participé aux négociations concernant les conventions de souscription. Il a dit avoir obtenu l’information du directeur des finances (CFO) de la Banque Laurentienne, soit M. Michel Lauzon, et du personnel travaillant au département de la trésorerie. Cette information, il l’a obtenue aux fins de sa préparation en vue de son témoignage dans le cadre de l’audience en l’espèce. Sa connaissance des taux normalement convenus dans ce type de transactions ne provient donc pas d’une connaissance acquise personnellement par M. Lanthier, mais de conversations avec les personnes susmentionnées [47] . Contre-interrogé sur les honoraires de transaction payés à la CDPQ, M. Lanthier a dit qu’il y avait eu une discussion à leur sujet lors d’une conversation téléphonique avec des collègues. Toujours pendant son contre-interrogatoire, un engagement pris lors de l’interrogatoire préalable de M. Lanthier a été déposé en preuve. Cet engagement fait état du fait que, contrairement aux transactions intervenues avec la CDPQ et le FSTQ, dans le cas d’une transaction récente avec un « preneur ferme », les frais et débours étaient à la charge du « preneur ferme » alors que les honoraires de transaction étaient les mêmes, soit quatre pour cent (4 %) [48] .
+[33] La CDPQ et le FSTQ ont fait part de leur intérêt respectif pour de tels placements. Selon M. Lanthier, le FSTQ aurait exigé et obtenu, à une exception près, les mêmes conditions que celles consenties à la CDPQ.
+2. François Boudreault
+[34] En 2012, M. Boudreault occupait le poste de directeur, investissements à la CDPQ. Dans le cadre de ses fonctions, M. Boudreault était responsable des investissements de la CDPQ dans le secteur financier au Québec, aux États-Unis et en Europe. Au moment de l’audition de cet appel, M. Boudreault était le responsable pour la CDPQ des « investissements directs » pour l’Amérique du Nord et pour l’Amérique latine. M. Boudreault est détenteur d’une maîtrise avec spécialisation en finances obtenue de l’École des hautes études commerciales de Montréal. Il est également un analyste financier agréé (CFA).
+[35] M. Boudreault a affirmé que la Banque Laurentienne a communiqué avec la CDPQ, dans le cadre de l’acquisition d’AGF Trust par B2B Trust, afin d’obtenir du financement en vue de procéder à cette acquisition [49] . La CDPQ considérait sa participation au financement de cette acquisition comme un investissement. M. Boudreault était le responsable de l’équipe qui a procédé à l’analyse qui était requise pour ce type d’investissement, et il a participé aux négociations ayant mené à la signature de la convention de souscription avec la CDPQ [50] . Il est celui qui a signé ladite convention au nom de la CDPQ. La personne qui représentait la Banque Laurentienne lors de ces négociations était M. Lauzon.
+[36] M. Boudreault a expliqué qu’après que la Banque Laurentienne eut pris contact avec elle, la CDPQ a fait parvenir à la Banque Laurentienne une lettre d’intérêt indiquant qu’elle était intéressée à accorder un financement de 100 000 000$ [51] . Les conditions d’une éventuelle convention de souscription à des actions de la Banque Laurentienne étaient résumées dans cette lettre. Ces conditions avaient été négociées préalablement par les parties. Les honoraires de transaction, ainsi que le rabais qui a été consenti par la Banque Laurentienne, ont fait l’objet de négociations. M. Boudreault a expliqué que le point de départ de la négociation des conditions de la convention de souscription a été les transactions comparables antérieures auxquelles avait participé la Banque Laurentienne [52] . Plus précisément, les conditions des émissions extérieures d’actions qu’avait faites la Banque Laurentienne ont été analysées, lesquelles émissions comprenaient une ayant eu lieu quelques mois auparavant [53] . Lors de cette dernière émission, la Banque Laurentienne avait consenti un escompte de deux pour cent (2 %) et payé des honoraires de transaction de quatre pour cent (4 %). M. Boudreault a expliqué que cette information était publique puisque l’on peut la trouver dans des prospectus. M. Boudreault a ajouté que certains courtiers pouvaient aussi posséder ce type d’information. M. Boudreault n’a cependant pas précisé si, en l’occurrence, des courtiers avaient été contactés afin d’obtenir une telle information.
+[37] M. Boudreault a aussi dit qu’il considérait qu’un escompte de deux pour cent (2 %) était raisonnable dans le cadre de l’émission d’actions d’une compagnie publique lors d’un financement public ou privé. De plus, selon lui, un escompte de deux pour cent (2 %) est le taux habituellement consenti par les émetteurs dans ces cas.
+[38] Quant aux honoraires de transaction de quatre pour cent (4 %), M. Boudreault a affirmé que le taux a été négocié sur la base d’une analyse des transactions comparables effectuée par son équipe. Les honoraires de transaction habituellement payés dans le cadre de financements de 100 000 000 $ ont été considérés, mais pas uniquement les financements effectués au moyen d’émissions d’actions. Selon M. Boudreault, les honoraires de transaction sont des frais « pour se financer dans le marché », soit des frais de financement [54] . Il a ajouté en contre-interrogatoire que la CDPQ offrait à la Banque Laurentienne un service de financement qui comportait certaines caractéristiques qui avaient « beaucoup de valeur ». M. Boudreault a dit qu’ayant acheté les actions de la Banque Laurentienne pour son propre compte, la CDPQ offrait à la Banque Laurentienne de la certitude pour ce qui est de l’exécution de la transaction. Elle offrait un placement privé qui est plus rapide et moins cher qu’un financement fait auprès d’un preneur ferme. De plus, un financement de ce type de la part de la CDPQ pouvait donner un signal positif sur le marché parce que la CDPQ devenait à la suite de l’acquisition d’AGF Trust, l’actionnaire le plus important de la Banque Laurentienne [55] .
+[39] Dans le cadre de son contre-interrogatoire, M. Boudreault a aussi confirmé que, lors de l’analyse des transactions comparables, le fait que la CDPQ soit défiscalisée et que, par conséquent, elle ne paie pas d’impôts sur les honoraires de transaction à recevoir n’avait pas été pris en compte pour négocier le taux des honoraires. M. Boudreault n’a pas pu confirmer si les transactions qui ont été considérées comme des transactions comparables par son équipe comprenaient ou non des transactions avec des preneurs fermes. M. Boudreault n’a pas non plus été en mesure d’expliquer pourquoi le même pourcentage d’honoraires de transaction avait été consenti par la Banque Laurentienne au FSTQ alors que celui-ci a investi un montant bien moindre. Les honoraires ont été traités par la CDPQ comme un revenu sur le plan comptable selon des vérifications que M. Boudreault aurait faites auprès de ses collègues.
+V. ANALYSE
+[40] Suivant le libellé de l’alinéa 20(1)e) et du sous-alinéa 20(1)e)(i) de la LIR, la partie d’un montant (sauf un montant exclu) qui n’est pas déductible par ailleurs dans le calcul du revenu qu’un contribuable tire d’une entreprise et qui est une dépense engagée au cours de l’année ou d’une année d’imposition antérieure est déductible si la dépense a été engagée dans le cadre d’une émission d’actions du capital-actions d’un contribuable.
+[41] Les passages pertinents de l’alinéa 20(1)e) de la LIR sont les suivants :
+Déductions admises dans le calcul du revenu tiré d’une entreprise ou d’un bien
+20 (1) Malgré les alinéas 18(1)a), b) et h), sont déductibles dans le calcul du revenu tiré par un contribuable d’une entreprise ou d’un bien pour une année d’imposition celles des sommes suivantes qui se rapportent entièrement à cette source de revenus ou la partie des sommes suivantes qu’il est raisonnable de considérer comme s’y rapportant :
+[…]
+Frais d’émission ou de vente d’actions, d’unités ou de participations et frais d’emprunt
+e) la partie d’un montant (sauf un montant exclu) qui n’est pas déductible par ailleurs dans le calcul du revenu du contribuable et qui est une dépense engagée au cours de l’année ou d’une année d’imposition antérieure :
+(i) soit dans le cadre d’une émission ou vente d’unités du contribuable, si celui-ci est une fiducie d’investissement à participation unitaire, ou de participations dans une société de personnes ou un syndicat par cette société de personnes ou ce syndicat, ou encore d’actions du capital-actions du contribuable,
+[…]
+(y compris les commissions, honoraires et autres montants payés ou payables au titre de services rendus par une personne en tant que vendeur, mandataire ou courtier en valeurs dans le cadre de l’émission, de la vente ou de l’emprunt) égale au moins élevé des montants suivants : […]
+[42] Par conséquent, une dépense engagée dans le cadre d’une émission d’actions du capital-actions d’un contribuable est déductible en vertu de l’alinéa 20(1)e) de la LIR si les conditions suivantes sont remplies :
+1. Une dépense doit avoir été engagée;
+2. La dépense doit avoir été engagée « dans le cadre » d’une émission d’actions du capital-actions d’un contribuable;
+3. La dépense doit avoir été engagée au cours de l’année ou d’une année d’imposition antérieure;
+4. La déduction demandée ne doit pas être un « montant exclu » au sens du sous-alinéa 20(1)e)iv.1 de la LIR;
+5. La dépense ne doit pas être déductible en vertu d’une autre disposition de la LIR.
+[43] Seules les deux premières conditions sont en litige dans la présente affaire.
+A. Est-ce que la Banque Laurentienne a engagé des dépenses de 3 999 999,56 $ et de 799 999,56 $ ?
+[44] Afin que l’on puisse obtenir une déduction en vertu de l’alinéa 20(1)e) de la LIR, une dépense doit tout d’abord avoir été engagée.
+[45] Dans la décision R. c. Burns [56] , la Cour d’appel fédérale a conclu que, pour qu’une dépense ait été engagée par un contribuable, celui-ci doit avoir eu l’obligation de verser la somme d'argent. La Cour d’appel fédérale a dit ce qui suit à ce sujet :
+À notre avis, une dépense, au sens de l'alinéa 18(1)a) de la Loi de l'impôt sur le revenu [S.R.C. 1952, chap. 148 (mod. par S.C. 1970-71-72, chap. 63, art. 1)] est une obligation de payer une somme d'argent. Une dépense ne peut être engagée par un contribuable qui n'est pas obligé de verser une somme d'argent à quelqu'un d'autre. Contrairement à ce qui a été décidé par la Division de première instance, l'obligation de faire quelque chose qui peut, dans l'avenir, entraîner la nécessité de verser une somme d'argent ne constitue pas une dépense. [57]
+[Je souligne.]
+[46] La Cour ne voit aucune raison de pas appliquer ce raisonnement à l’alinéa 20(1)e) de la LIR. Par conséquent, pour qu’une dépense soit déductible en vertu de cette disposition, il suffit donc qu’une obligation de verser une somme d’argent existe.
+[47] La clause 15 des conventions de souscription intervenues entre la Banque Laurentienne et la CDPQ et le FSTQ sont identiques. Elles sont ainsi conçues :
+HONORAIRES
+La Banque [Laurentienne] s’engage à payer au Souscripteur des honoraires de transaction équivalant à 4 % du Prix de souscription et payable[s] à la Clôture de la Transaction sous-jacente. [58]
+[48] Il est clair qu’en vertu de ces clauses, la Banque Laurentienne avait l’obligation de payer à la CDPQ et au FSTQ, des honoraires de transaction équivalant à quatre pour cent (4 %) du prix de souscription des actions. De plus, la preuve indique que des sommes équivalant à ce pourcentage ont été effectivement versées par la Banque Laurentienne à la CDPQ et au FSTQ au moment de la clôture de la transaction, soit lors de l’achat d’AGF Trust par B2B Trust.
+[49] Compte tenu de ceci, la Cour conclut que la Banque Laurentienne avait l’obligation de payer à la CDPQ et au FSTQ des honoraires de transaction équivalant à quatre pour cent (4 %) du prix de souscription des actions. Par conséquent, la Banque Laurentienne a engagé des dépenses d’honoraires de transaction équivalant à ce pourcentage, soit les sommes de 3 999 999,56 $ et de 799 999,56 $.
+B. Est-ce que ces dépenses ont été engagées dans le cadre d’une émission d’actions ?
+1. Détermination du motif pour lequel les sommes de 3 999 999,56 $ et de 799 999,56 $ ont été engagées par la Banque Laurentienne
+[50] En premier lieu, il est nécessaire de déterminer pour quel motif les sommes de 3 999 999,56 $ et de 799 999,56 $ ont été engagées par la Banque Laurentienne puisque l’alinéa 20(1)e) de la LIR ne permet la déduction d’une dépense que dans la mesure où elle a été engagée « dans le cadre » d’une émission d’actions.
+[51] Tel qu’il a été mentionné précédemment, selon la preuve présentée lors de l’audience, la Banque Laurentienne a versé à la CDPQ et au FSTQ des honoraires de transaction en vertu de la clause 15 de leur convention de souscription respective. Cependant, à la lecture de ces clauses, il est impossible de déterminer pour quel motif les honoraires de transaction ont été payés. Il s’avère donc nécessaire d’appliquer les règles juridiques en matière d’interprétation des contrats.
+[52] Aux termes de l’article 8.1 de la Loi d’interprétation [59] , en vue d’assurer l’application de la LIR dans la province de Québec, s’il est nécessaire de recourir à des règles, principes ou notions appartenant au domaine de la propriété et des droits civils, notre Cour doit avoir recours aux règles, principes et notions en vigueur au Québec. Par conséquent, puisque dans la présente affaire les conventions de souscription ont été signées dans la province de Québec, la Cour doit appliquer les articles 1425 et suivant du Code civil du Québec (« C.c.Q. ») afin d’interpréter ces ententes.
+[53] Selon l’article 1425 C.c.Q., afin d’interpréter un contrat, la Cour doit rechercher quelle a été la commune intention des parties plutôt que de s’arrêter au sens littéral des termes utilisés. En effet, en droit civil québécois, un contrat s’interprète d’abord et avant tout en fonction de l’intention des parties [60] .
+[54] Il est à noter que l’usage des termes « honoraires de transaction » dans les conventions de souscription ne saurait lier les parties s’il ne reflète pas leur intention commune quant à leur signification. La Cour suprême du Canada a d’ailleurs rejeté l’argument selon lequel une mauvaise transcription de l’intention des parties dans le contrat écrit lie celles-ci [61] .
+[55] Lorsque la Cour doit d’interpréter un écrit afin de rechercher l’intention commune des parties, une preuve par témoignage est admissible en vertu de l’article 2864 du C.c.Q., qui prévoit ce qui suit :
+2864. La preuve par témoignage est admise lorsqu'il s'agit d'interpréter un écrit, de compléter un écrit manifestement incomplet ou d'attaquer la validité de l'acte juridique qu'il constate.
+[56] Le seul témoin entendu par la Cour qui avait une connaissance personnelle de la raison pour laquelle la CDPQ a reçu des honoraires de transaction est M. Boudreault. M. Boudreault a participé aux négociations relatives à la clause 15 de la convention de souscription signée par la CDPQ. Il est donc le seul témoin qui a pu éclairer la Cour sur l’intention des parties relativement aux services rendus par la CDPQ en contrepartie du paiement des honoraires de transaction. Or, selon le témoignage de M. Boudreault, les honoraires de transaction ont été payés pour deux services. Premièrement, la CDPQ offrait à la Banque Laurentienne un service de financement. M. Boudreault a confirmé que les honoraires de transaction étaient en fait des frais « pour se financer dans le marché », soit des frais de financement [62] .
+[57] Deuxièmement, toujours selon M. Boudreault, un financement de type « placement privé » tel que celui offert par la CDPQ donnait un signal positif sur le marché parce la CDPQ devenait, à la suite de l’acquisition d’AGF Trust, l’actionnaire le plus important de la Banque Laurentienne. Ainsi, la CDPQ a rendu un service additionnel à la Banque Laurentienne.
+[58] Selon l’avocat de l’intimée, le contenu du témoignage de M. Boudreault n’est pas suffisant pour permettre à la Cour de conclure que des services ont été rendus. La Cour n’est pas de cet avis. Il n’y a rien dans la preuve présentée lors de l’audience qui permet de mettre en doute la véracité du témoignage de M. Boudreault à ce sujet. Son témoignage était crédible et n’a pas été contredit.
+[59] Dans ce contexte, la Cour considère que le témoignage de M. Boudreault est suffisant pour établir l’intention des parties. Son témoignage est donc suffisant pour réfuter l’hypothèse de fait du ministre selon laquelle la CDPQ n’aurait pas rendu de service à la Banque Laurentienne. Il est aussi suffisant pour réfuter l’hypothèse de fait du ministre selon laquelle que le paiement des honoraires de transaction a la CDPQ a été fait à titre d’escompte sur le prix de souscription des actions de la Banque Laurentienne. Sur la foi de ce témoignage, la Cour arrive à la conclusion que, selon la prépondérance de la preuve, la Banque Laurentienne a payé à la CDPQ des honoraires de transaction pour un service de financement ainsi que pour un service qui a été décrit par M. Boudreault comme étant l’envoi d’un signal positif sur le marché.
+[60] Quant aux honoraires de transaction payés au FSTQ, la Cour arrive à la même conclusion que dans le cas de la CDPQ quant au service de financement rendu par cette dernière à la Banque Laurentienne. La Cour est donc d’avis que la preuve est suffisante pour lui permette de conclure que l’hypothèse de fait du ministre selon laquelle la FSTQ n’aurait pas rendu de service à la Banque Laurentienne a été réfutée. Selon la prépondérance de la preuve, la Banque Laurentienne a payé au FSTQ des honoraires de transaction pour un service de financement.
+[61] Cependant, pour en arriver à cette conclusion, la Cour n’a pas retenu le témoignage de M. Lanthier puisqu’il n’avait pas une connaissance personnelle des raisons pour lesquelles des honoraires de transaction ont été payés au FSTQ. La Cour a uniquement retenu le fait que les conventions de souscription ont toutes deux comme objet l’obtention de capitaux afin de financer l’acquisition d’AGF Trust et qu’elles sont, en plus, pratiquement identiques dans leur ensemble. À cet égard, la Cour a aussi donné une importance certaine au contenu des lettres d’intention des 1er et 4 juin 2012 que la CDPQ et le FSTQ ont respectivement fait parvenir à la Banque Laurentienne et dans lesquelles ils ont fait part à celle-ci de leur intérêt à souscrire à des reçus de souscription dans le cadre de l’acquisition d’AGF Trust par B2B Trust.
+[62] Ces faits sont suffisants pour permettre à la Cour de conclure que le FSTQ a lui aussi offert un service de financement à la Banque Laurentienne. Par conséquent, comme dans le cas de la CDPQ, la Cour conclut que l’appelante a réfuté l’hypothèse de fait du ministre selon laquelle le FSTQ n’a pas rendu de service à la Banque Laurentienne et celle selon laquelle le paiement des honoraires de transaction a été fait à titre d’escompte sur le prix de vente des actions.
+[63] Quant au témoignage de M. Lanthier sur ce sujet, selon l’article 40 de la Loi sur la preuve au Canada, L.R.C. 1985, ch. C-5, en matière de preuve c’est le droit du Québec qui s’applique dans les procédures exercées au Québec qui relèvent de l’autorité législative du Parlement du Canada [63] . Or, aux termes de l’article 2843 du C.c.Q., un témoignage est la déclaration par laquelle une personne relate les faits dont elle a eu personnellement connaissance ou par laquelle un expert donne son avis. Ce n’était pas le cas de M. Lanthier. Par conséquent, l’article 2869 du C.c.Q. trouve application. Suivant cet article, la déclaration d’une personne qui ne témoigne pas à l’instance ou celle d’un témoin faite antérieurement à l’instance n’est admise à titre de témoignage que si les parties y consentent. Étant donné qu’elle a formulé une objection, l’intimée n’a pas donné son consentement à l’admission en preuve des déclarations des collègues de M. Lanthier, déclarations qu’ils lui ont faites antérieurement à l’audience. Aucun desdits collègues n’a témoigné lors de l’audience.
+[64] Dans la décision Hardy [64] , la Cour d’appel fédérale a énoncé les principes applicables à ce type de déclaration comme suit :
+14 Contrairement à la common law et au droit criminel où la Cour peut en principe soulever d'office l'irrecevabilité d'une preuve, ceci n'est pas toujours le cas au Québec. Le législateur québécois a expressément prévu la recevabilité d'une déclaration extrajudiciaire lorsque les parties y consentent (article 2869 du Code civil du Québec, R.L.R.Q., c. CCQ-1991) (C.c.Q.). Or, une partie qui omet de s'objecter à la preuve d'une déclaration extrajudiciaire consent ou est réputée consentir à sa production. Dans Lorrain c. St-Pierre, 2014 QCCA 1793 aux paragraphes 30-31, la Cour d'appel du Québec a clairement indiqué qu'un juge ne peut déclarer dans son jugement que le témoignage relativement à des échanges entre un témoin et un tiers est irrecevable pour cause de ouï-dire en l'absence d'une objection soulevée à l'audience. Bien entendu, comme l'indique la Cour d'appel du Québec dans 9055-6473 Québec inc. c. Montréal Auto Prix, 2006 QCCA 627 au paragraphe 41, même si en l'absence d'une objection cette preuve est recevable, sa force probante peut être faible. Elle dépendra des autres éléments de preuve, entre autres, ceux qui la corroborent.
+[Je souligne.]
+[65] Finalement, puisqu’une grande portion des observations de l’avocat de l’intimée et, par conséquent, du temps d’audience a été consacrée à l’hypothèse de fait du ministre selon laquelle les paiements d’honoraires de transaction étaient dans les faits des paiements relatifs à des escomptes, la Cour doit revenir sur le sujet. Selon l’avocat de l’intimée, cette hypothèse était plausible pour les raisons suivantes :
+1- La Banque Laurentienne ne pouvait pas consentir un escompte de 6 %.Ceci aurait envoyé un message défavorable sur le marché puisque le taux usuel d’escompte consenti dans le cadre de ce type de transaction était de 2 % [65] .
+2- Le jour de la clôture de la transaction, soit l’achat d’AGF Trust par B2B Trust, la Banque Laurentienne n’a en fait reçu pour les actions émises que 96 000 000 $ de la CDPQ et 19 200 000 $ du FSTQ.Les actions auraient donc été vendues pour ces sommes, c’est-à-dire avec un escompte de 6 %.Par conséquent, le fait que la Banque Laurentienne ait payé les honoraires de transaction le même jour que celui où elle a reçu de la CDPQ et du FSTQ les paiements du prix des actions est significatif [66] .
+3- En ce qui concerne leur traitement comptable, les honoraires de transaction ont servi à réduire le capital-actions de la Banque Laurentienne et n’ont donc pas affecté son état des résultats [67] .
+[66] Après examen de l’ensemble de la preuve, la Cour conclut que celle-ci ne permet pas de soutenir l’hypothèse de l’intimée. D’abord, il n’y a aucune preuve à l’appui de l’hypothèse selon laquelle les parties ont décidé d’inclure dans les conventions de souscription la clause 15 afin de pouvoir consentir à la CDPQ et au FSTQ un escompte supplémentaire de quatre pour cent (4 %) sur le prix d’émission des actions. Il n’y a pas non plus de preuve tendant à établir que les parties avaient agi ainsi afin de ne pas envoyer un message qui pourrait être perçu défavorablement par les marchés financiers.
+[67] Quant au deuxième point, soit le fait que, le jour de la clôture de la transaction, la Banque Laurentienne n’a en réalité reçu pour les actions émises que 96 000 000 $ de la CDPQ et 19 200 000 $ du FSTQ, cela ne permet pas à la Cour de conclure que les actions ont donc été vendues à ces prix, soit avec un escompte de 6 %. Il n’y a pas de preuve que c’est à cette fin que la transaction a été structurée ainsi. Le fait que la Banque Laurentienne ait reçu le paiement du prix des actions de la CDPQ et du FSTQ le même jour qu’elle a payé par virement bancaire les honoraires de transaction n’est pas significatif en soi [68] . M. Lanthier a d’ailleurs dit dans son témoignage qu’il s’agissait de deux transactions distinctes. En plaidant ceci, l’intimée demande à la Cour de s’intéresser à la réalité économique de la transaction. Or, la Cour suprême du Canada s’est déjà clairement exprimée sur le sujet dans l’arrêt Shell Canada Ltée c. Canada [69] , comme suit:
+39 Notre Cour a statué à maintes reprises que les tribunaux doivent tenir compte de la réalité économique qui sous-tend l’opération et ne pas se sentir liés par la forme juridique apparente de celle‑ci: Bronfman Trust, précité, aux pp. 52 et 53, le juge en chef Dickson; Tennant, précité, au par. 26, le juge Iacobucci. Cependant, deux précisions à tout le moins doivent être apportées. Premièrement, notre Cour n’a jamais statué que la réalité économique d’une situation pouvait justifier une nouvelle qualification des rapports juridiques véritables établis par le contribuable. Au contraire, nous avons décidé qu’en l’absence d’une disposition expresse contraire de la Loi ou d’une conclusion selon laquelle l’opération en cause est un trompe‑l’œil, les rapports juridiques établis par le contribuable doivent être respectés en matière fiscale. Une nouvelle qualification n’est possible que lorsque la désignation de l’opération par le contribuable ne reflète pas convenablement ses effets juridiques véritables: Continental Bank Leasing Corp. c. Canada, [1998] 2 R.C.S. 298, au par. 21, le juge Bastarache.
+[Je souligne.]
+[68] Puisque l’avocat de l’intimée a clairement indiqué à la Cour qu’il ne soutenait pas que le paiement des honoraires de transaction constituait une simulation, le terme utilisée dans le C.c.Q pour décrire un trompe-l’œil, la Cour doit respecter les rapports juridiques établis entre les parties, et cela vaut notamment pour l’effet juridique de la clause 15 des conventions de souscription [70] . Cette clause a trait aux honoraires de transaction et la Cour a déjà conclu qu’elle concerne, dans les deux cas, à tout le moins un service de financement.
+[69] Quant au troisième point, il n’a pas été retenu par la Cour non plus. Compte tenu de la preuve, il semble qu’il n’y ait rien d’inhabituel à ce que les honoraires de transaction servent à réduire le capital-actions d’un contribuable. Dans son témoignage, M. Lanthier a dit que ceci respectait les principes comptables généralement reconnus. L’avocat de l’intimée n’a pas tenté de démontrer que cette affirmation était fausse et les principes comptables généralement reconnus n’ont pas fait l’objet d’observations ni n’ont été déposés en preuve. De plus, la qualification des honoraires de transaction du point de vue comptable n’empêche pas qu’une autre qualification soit faite du point de vue fiscal [71] .
+2. Interprétation et sens de l’expression « dans le cadre »
+a) Historique législatif de l’alinéa 20(1)e) de la LIR
+[70] Pour avoir droit à une déduction en vertu de l’alinéa 20(1)e) de la LIR, dans le calcul du revenu tiré d’une entreprise, une dépense doit avoir été engagée « dans le cadre » d’une émission ou d’une vente d’actions du capital-actions d’un contribuable. Dans la présente affaire, la Cour doit déterminer si des honoraires de transaction payés en vertu d’une entente de souscription d’actions peuvent être considérés comme une dépense ayant été engagée dans le cadre d’une émission d’actions du capital-actions d’un contribuable.
+[71] Tout d’abord, il convient d’examiner l’historique législatif de l’alinéa 20(1)e) de la LIR. Avant 1988, l’expression « in the course of issuing or selling […] shares of the capital stock of the taxpayer […] » utilisée en langue anglaise avait comme équivalent français « à l’occasion de l’émission ou de la vente […] d’actions du capital-actions du contribuable […] ».
+[72] En 1988, l’alinéa 20(1)(e) de la LIR a été modifié [72] . Entre autres modifications, les mots « à l’occasion de l’émission ou de la vente […] d’actions du capital-actions du contribuable […] » ont été remplacés par les mots suivants : « dans le cadre d’une émission ou vente […] d’actions du capital-actions du contribuable […] ». Dans la version anglaise, l’expression « in the course of issuing or selling […] shares of the capital stock of the taxpayer […] » a été remplacée par « in the course of an issuance or sale of […] of shares of the capital stock of the taxpayer […] ». Cette modification n’a donc aucun impact en l’espèce puisque les mots « in the course of » n’ont pas été modifiés.
+[73] Compte tenu du fait que les mots « in the course of » n’ont pas été modifiés dans la version anglaise de la disposition alors que, dans la version française de la disposition, leur équivalent « à l’occasion de » a été remplacé par les mots « dans le cadre », la Cour en vient donc à la conclusion que les mots « à l’occasion de » et « dans le cadre » ont la même signification dans ce contexte.
+b) Interprétation donnée par les tribunaux à l’expression « dans le cadre » et son incidence lors de l’application de l’alinéa 20(1)e) de la LIR
+[74] La LIR ne définit pas l’expression « dans le cadre ». Cependant, dans l’arrêt Ministre du Revenu national c. Yonge-Eglinton Building Ltd. [73] , la Cour d’appel fédérale s’est penchée sur la signification à donner à l’expression « in the course of », expression qui, tel qu’il a été mentionné précédemment, avait comme équivalent français par « à l’occasion de ». Cette dernière expression se trouvait à l’époque à l’alinéa 11(1)cb) de la LIR, disposition qu’a remplacé l’alinéa 20(1)e) de la LIR à la suite de la réforme fiscale de 1972. Le passage pertinent de l’arrêt Yonge-Eglinton Building est le suivant :
+[…] L’argument du Ministre selon lequel la dépense doit être engagée à l’époque où les actions sont émises ou vendues ou la somme empruntée pour l’être « à l’occasion de » l’émission ou la vente ou l’emprunt, me semble soumettre à un critère vague et incertain la question de savoir si l’on peut déduire ces dépenses. Cet argument serait indéfendable s’il voulait dire que la dépense doit être engagée dans l’année d’imposition de l’émission [ou] de la vente ou de l’emprunt et comme il est impossible de savoir ce que recouvre l’expression « à l’époque », il me semble que ce soit également indéfendable sur cette base. Le critère applicable, à mon sens, est de déterminer si la dépense, quelle que soit l’année d’imposition où elle s’est produite, résulte de l’émission, de la vente d’actions ou de l’emprunt d’argent. Il se peut qu’il ne soit pas toujours facile de décider si une dépense résulte de telles circonstances, mais il me semble que l’expression « à l’occasion de » à l’article 11(1)cb) ne se rapporte pas à l’époque où les dépenses ont été engagées; elle est utilisée dans le sens de « relativement à », « résultant de » ou « imputable à » et se rapporte au mode d’exécution ou à ce qui doit être fait pour réaliser l’émission ou la vente ou l’emprunt pour lesquels ou relativement auxquels les dépenses ont été engagées. Ainsi, à mon avis, les montants ici en question résultant de l’emprunt contracté pour financer la construction de l’immeuble de l’intimée relèvent de l’article 11(1)cb)(ii) en tant que dépenses engagées dans l’année à l’occasion d’emprunt d’argent, etc. Il faut donc décider si elles en sont exclues en tant que commissions ou bonis au sens de l’article 11(1)cb)(iii). Personne n’a soutenu que l’article 11(1)cb)(iv) les excluait en tant que paiements à titre ou au titre d’intérêt. [74]
+[Je souligne.]
+[75] Les tribunaux ont cité cette décision à de nombreuses reprises par la suite et l’expression « dans le cadre » a fait l’objet d’une interprétation qui lui donne un sens relativement large [75] . La Cour est d’avis qu’aux fins de l’application de l’alinéa 20(1)e) de la LIR, le sens approprié à donner à l’expression « dans le cadre » est celui qui lui a été donné dans la décision Yonge-Eglinton Building [76] , soit « relativement à », « résultant de » ou « imputable à ».
+[76] Compte tenu de ceci, une dépense engagée dans le cadre d’une émission d’actions pourrait être déductible en vertu de l’alinéa 20(1)(e) de la LIR dans la mesure où la preuve démontre que la dépense a été engagée par le contribuable « relativement à » l’émission d’actions de son capital-actions ou qu’il s’agit d’une dépense « résultant de » cette émission ou « imputable à » celle-ci. Ces expressions sont donc interchangeables.
+3. Est-ce-que les honoraires de transaction versés à la CDPQ et au FSTQ sont des sommes engagées par la Banque Laurentienne dans le cadre de l’émission d’actions de son capital-actions ?
+[77] L’intimée a soutenu que seuls les honoraires payés ou payables au titre de services rendus par une personne en tant que vendeur, mandataire ou courtier en valeurs dans le cadre de l’émission d’actions peuvent donner droit à une déduction en vertu de l’alinéa 20(1)e). Par conséquent, selon l’intimée, un contribuable ne pourrait pas demander une déduction pour des honoraires de transaction payés en vertu d’une convention de souscription d’actions. De plus, un contribuable ne pourrait pas demander la déduction lorsque les honoraires de transaction ont été payés à la personne en faveur de qui les actions ont été émises puisque cette personne n’a alors aucun rôle d’intermédiaire.
+[78] Tout d’abord, il convient donc de déterminer si l’alinéa 20(1)e) de la LIR permet uniquement la déduction d’honoraires payés ou payables au titre de services rendus par une personne en tant que vendeur, mandataire ou courtier en valeurs dans le cadre d’une émission d’actions.
+[79] Jusqu’en 1979, un contribuable pouvait déduire les dépenses, à l’exception d’une « commission ou gratification » payée à un vendeur, agent ou courtier, engagées à l’occasion d’une émission ou d’une vente d’actions [77] . En 1979, la loi a été modifiée afin de permettre la déduction d’une « commission, des honoraires ou toute autre somme payés ou payables pour services rendus […] par une personne à titre de vendeur, d’agent ou de courtier en valeurs mobilières au cours de l’émission ou de la vente […] [d’]actions » [78] . Ceci n’a pas pour effet de limiter les dépenses déductibles à celles mentionnées. D’ailleurs, la Cour est d’avis que l’utilisation des termes « y compris » à l’alinéa 20(1)e) de la LIR indique de façon claire qu’il ne s’agit pas d’une énumération exhaustive. Par conséquent, la Cour est d’avis que les dépenses engagées donnant droit à une déduction en vertu de l’alinéa 20(1)e) de la LIR ne se limitent pas aux honoraires et aux autres montants payés ou payables au titre de services rendus par une personne en tant que vendeur, mandataire ou courtier en valeurs dans le cadre de l’émission, de la vente ou de l’emprunt.
+[80] L’intimée a aussi soutenu dans sa Réponse amendée à l’avis d’appel que les sommes de 3 999 999,56 $ et de 799 999,56 $ versées respectivement à la CDPQ et au FSTQ par la Banque Laurentienne ne l'avaient pas été dans le cadre d’une émission d'actions, mais avaient plutôt été versées lors de l’émission de reçus de souscription dans le cadre de l'achat d'AGF par une filiale de la Banque Laurentienne, soit B2B Trust. Lors de l’audience, l’avocat de l’intimée n’en a pas dit davantage sur le sujet et n’en a pas abordé les notions de « convention de souscription d’actions » et d’« émission d’actions ».
+[81] Quoique, selon la preuve soumise lors de l’audience, il soit vrai que la Banque Laurentienne a engagé les sommes en vertu de conventions de souscription d’actions dans le cadre de l'achat d'AGF par une de ses filiales, cela n’implique pas nécessairement que lesdites sommes n’ont pas été engagées dans le cadre d’une émission d’actions de la Banque Laurentienne. Dans le cas présent, la Cour conclut que les sommes de 3 999 999,56 $ et de 799 999,56 $ versées respectivement à la CDPQ et au FSTQ par la Banque Laurentienne ont été engagées dans le cadre d’une émission d'actions. La Cour en arrive à cette conclusion après avoir considéré les éléments suivants :
+1- La Cour conclut au paragraphe 79 des présents motifs qu’une dépense engagée dans le cadre d’une émission d’actions pourrait être déductible en vertu de l’alinéa 20(1)(e) de la LIR dans la mesure où la preuve démontre que la dépense a été engagée par le contribuable « relativement à » l’émission d’actions de son capital-actions ou qu’il s’agit d’une dépense « résultant de » cette émission ou « imputable à » celle-ci.
+2- La Cour conclut aux paragraphes 61 et 62 des présents motifs que la CDPQ et le FSTQ ont reçu des honoraires de transaction en contrepartie de services de financement.
+3- La preuve démontre que la CDPQ et le FSTQ ont souscrit à des reçus de souscription de la Banque Laurentienne dans le cadre de l’acquisition d’AGF Trust, et ce, afin de permettre à la Banque Laurentienne de disposer des capitaux nécessaires pour procéder à cette acquisition. Les conventions de souscription stipulent expressément que le souscripteur souscrit irrévocablement et inconditionnellement à des reçus de souscription représentant chacun le droit, à certaines conditions, de recevoir une action de la Banque Laurentienne. Lesdits reçus de souscription ont été convertis en actions ordinaires de la Banque Laurentienne, au moment de l’acquisition d’AGF Trust, sur la base d’une action ordinaire de la Banque Laurentienne pour chaque reçu de souscription.
+4- Le Dictionnaire Larousse (en ligne) définit le mot « souscription » comme suit : « […] Participation à une augmentation de capital en numéraire d'une société faisant appel à l'épargne publique ou à une émission d'obligations. » [79] Quant au dictionnaire Le Petit Robert (2018), il donne la définition suivante de « souscrire à » : « […] S’engager à fournir une somme pour sa part.[…] Souscrire à un emprunt, à une émission d’actions d’une société. » [80] Le Black’s Law Dictionary quant à lui donne la définition suivante de « subscription » : « […] A written contract to purchase newly issued shares of stock or bonds. […] » [81] .
+5- Les auteurs Maurice Martel et Paul Martel, dans l’ouvrage intitulé La société par actions au Québec : les aspects juridiques, définissent la « souscription » comme étant le premier élément d’un contrat d’acquisition d’actions, soit leur acquisition directement auprès d’une société. Selon les auteurs, le deuxième élément du contrat d’acquisition est l’émission des actions visées par la souscription [82] .
+[82] Les éléments énumérés ci-dessus sont suffisants pour permettre à la Cour de conclure qu’il existait un lien direct entre les conventions de souscription auxquelles la CDPQ, le FSTQ et la Banque Laurentienne étaient parties et l’émission d’actions de la Banque Laurentienne. La Cour conclut ainsi que la preuve démontre que les dépenses engagées par la Banque Laurentienne en vertu des conventions de souscription étaient imputables à une émission d’actions de son capital-actions et donc que ces dépenses ont été engagées dans le cadre d’une émission d'actions.
+C. Est-ce que les honoraires de transaction payés par la Banque Laurentienne à la CSDQ étaient raisonnables dans les circonstances ?
+[83] Aux termes de l’article 67 de la LIR, une dépense n’est déductible du revenu d’un contribuable que dans la mesure où elle est raisonnable dans les circonstances. L’article 67 de la LIR est ainsi rédigé :
+67 Dans le calcul du revenu, aucune déduction ne peut être faite relativement à une dépense à l’égard de laquelle une somme est déductible par ailleurs en vertu de la présente loi, sauf dans la mesure où cette dépense était raisonnable dans les circonstances.
+[84] La notion de dépense raisonnable a été définie comme suit dans la décision Gabco Ltd. v. Minister of National Revenue [83] :
+[TRADUCTION]
+Il ne s'agit pas pour le ministre ou pour la Cour de substituer son jugement quant à ce qui constitue une somme raisonnable à payer, mais il s'agit plutôt pour le ministre ou la Cour d'arriver à la conclusion, en n'ayant présent à l'esprit que les considérations commerciales de l'appelante, […] qu'aucun homme d'affaires raisonnable ne se serait engagé à payer une telle somme.
+[Je souligne.]
+[85] Dans Petro-Canada c. La Reine [84] , la Cour d’appel fédérale a donné certaines indications quant à la façon dont le caractère raisonnable d'une dépense doit être évalué :
+63 L'article 67 a été étudié par la Cour d'appel fédérale dans l'arrêt Mohammad c. Canada (C.A.), [1998] 1 C.F. 165, [1997] 3 C.T.C. 321, 97 D.T.C. 5503. Il s'agissait de la déductibilité d'intérêts payés par une personne sur un emprunt qui avait servi à financer la totalité du prix d'achat d'un bien locatif. S'exprimant pour la Cour, le juge Robertson avait écrit, au paragraphe 28 :
+[28] Quand on évalue le caractère raisonnable d'une dépense, on mesure ce caractère raisonnable en termes de grandeur ou de quantum. Bien qu'une telle décision puisse faire intervenir un élément d'appréciation subjective de la part du juge des faits, il faut toujours rechercher un élément objectif. Quand on traite des dépenses d'intérêt, la tâche peut être objectivée assez facilement. Par exemple, le ministre aurait pu contester le montant des intérêts payés sur le prêt de 25 000 $, si le contribuable avait accepté de payer des intérêts excédant les taux du marché. Le caractère raisonnable des frais d'intérêt peut donc être mesuré objectivement, c'est-à-dire par rapport aux taux du marché. [...]
+[64] Comme la valeur, le caractère raisonnable est une question de fait. En l'espèce, c'est un fait sur lequel le juge n'a tiré aucune conclusion. Sans doute est-il vrai, comme on l'a vu dans l'affaire Mohammad, que le fait de payer la juste valeur marchande de quelque chose est à première vue raisonnable, mais il m'est impossible de me ranger à l'avis de la Couronne pour qui il en découle que le fait de payer davantage que la juste valeur marchande est nécessairement déraisonnable. Il peut y avoir des cas où la décision de payer quelque chose davantage que sa juste valeur marchande est une décision raisonnable. Compte tenu du critère exposé dans l'arrêt Gabco, je ne suis pas persuadé que la présente affaire se prête à l'application de l'article 67.
+[Je souligne.]
+[86] Finalement, dans l’arrêt Hammill c. La Reine [85] , la Cour d’appel fédérale a précisé que le pouvoir des tribunaux n’est pas limité à la réduction de dépenses excessives et que la totalité d’une dépense peut être considérée comme complètement déraisonnable en l’absence de preuves permettant d’établir la somme qui est raisonnable dans les circonstances. Le passage pertinent de cet arrêt est le suivant :
+[53] […] À mon sens, la Cour suprême a établi dans Stewart qu'il'existe pas de limite intrinsèque à l'application de l'article 67 et que, lorsque les circonstances le justifient, celui-ci peut être invoqué pour refuser la déduction de la totalité d'une dépense, si son caractère déraisonnable est établi.
+[54] Dans la présente espèce, le juge de la CCI a essayé d'établir quelle partie des dépenses [TRADUCTION] « de vente » pouvait être considérée comme raisonnable dans les circonstances. Il a fait observer qu'aucun des deux avocats ne pouvait fixer de seuil à cet égard. Ayant ensuite constaté que la conduite de l'appelant avait été la même tout au long de l'affaire, il a conclu que les dépenses avaient été déraisonnables du début à la fin. Il lui était à mon sens permis de tirer cette conclusion eu égard à la preuve.
+[Je souligne.]
+[87] Dans les présents motifs, la Cour a déjà conclu que les honoraires de transaction ont été payés à la CDPQ pour un service de financement ainsi que pour un service qui a été décrit comme étant l’envoi d’un signal positif sur le marché. Il s’agit donc de déterminer si, eu égard aux circonstances, le paiement d’une somme de 3 999 999,56 $ était raisonnable pour ces services.
+[88] L’intimée a soutenu que les honoraires de transaction payés à la CDPQ n’étaient pas raisonnables eu égard aux circonstances. Les faits qui ont été présumés par le ministre afin d’appuyer cette position sont les suivants :
+L'engagement de la Banque Laurentienne de rembourser les frais et dépenses engagés par la CDPQ dans le cadre de la souscription [86] .
+La CDPQ a eu droit au remboursement de ses frais juridiques jusqu'à concurrence d'un certain plafond [87] .
+La CDPQ a fait un placement privé [88] .
+La CDPQ a acquis les actions d'une banque à charte, en l’occurrence la Banque Laurentienne, visée par une réglementation et dont les actions sont cotées en bourse [89] .
+[89] Même si les faits ci-dessus se sont avérés véridiques, ils ne permettent en rien de conclure que les honoraires de transaction étaient déraisonnables dans les circonstances. En fait, aucune explication n’a été donnée par l’avocat de l’intimée quant à l’impact de ces faits sur le caractère raisonnable des honoraires de transaction. L’avocat de l’intimée a plutôt soutenu que les honoraires étaient déraisonnables parce que la Banque Laurentienne n’avait rien reçu en contrepartie [90] .
+[90] Le montant de cette dépense n'a pas été remis en question par l’avocat de l’intimée, mais il l’a tout de même considéré comme entièrement déraisonnable. Il n’a pas proposé un pourcentage d’honoraires de transaction qu’il considérerait comme raisonnable.
+[91] Quant à l’appelante, elle considère que le pourcentage des honoraires de transaction payés (4 %) était raisonnable puisqu’il était issu de négociations entre parties sans lien de dépendance et qu’il est comparable aux honoraires de transaction qui avaient été payés dans des transactions comparables à l’époque [91] . En fait, selon le témoignage de M. Boudreault, le pourcentage d’honoraires payé par la Banque Laurentienne était identique à celui payé dans les transactions jugées comparables par son équipe [92] .
+[92] Lorsque dans une réponse à un avis d’appel, comme c’est le cas en l’espèce, l’intimée soulève des moyens de droit et des hypothèses de fait qui ne sont pas celles du ministre, c’est sur ce dernier que repose le fardeau de la preuve. La Cour d’appel fédérale l’a d’ailleurs précisé dans l’arrêt Canada c. Loewen [93] dont le passage pertinent est le suivant :
+[8] Les hypothèses de fait du ministre qui sont énoncées dans les actes de procédure de Sa Majesté sont tenues pour avérées à moins qu'elles ne soient réfutées ou qu'il ne soit démontré que le ministre n'a pas formulé les hypothèses qu'on lui impute. Il incombe au contribuable de démontrer que les hypothèses du ministre sont fausses ou encore que celui-ci ne les a jamais formulées. Il est par ailleurs loisible au contribuable d'invoquer des arguments pour tenter d'établir que, même si les faits présumés sont véridiques, ils ne justifient pas en droit la cotisation qui a été établie (Johnston v. Minister of National Revenue, [1948] R.C.S. 486; Minister of National Revenue v. Pillsbury Holdings Ltd., [1965] 1 R.C.É.
+[9] Sa Majesté est tenue de s'assurer que le paragraphe dans lequel les hypothèses sont formulées est clair et exact. Ainsi, Sa Majesté ne peut affirmer que le ministre a tenu pour acquis, lorsqu'il a établi la cotisation, qu'une voiture déterminée était de couleur verte tout en affirmant en même temps que cette voiture était rouge, parce qu'il est impossible que le ministre ait formulé ces deux hypothèses en même temps (Brewster, NC c. La Reine, [1976] C.T.C. 107 (C.F. 1re inst.)).
+[10] Il n'est pas non plus loisible à Sa Majesté de plaider que le ministre a retenu une certaine hypothèse lorsqu'il a établi la cotisation, alors qu'en fait cette hypothèse n'a été formulée que par la suite lorsque, par exemple, le ministre a confirmé la cotisation à la suite d'un avis d'opposition. Sa Majesté peut toutefois plaider que le ministre a, lorsqu'il a établi la nouvelle cotisation, retenu une hypothèse qui n'avait pas été formulée lorsque la première cotisation a été établie (Anchor Pointe Energy Ltd. c. Canada, 2003 D.T.C. 5512 (C.A.F.)).
+11 Les contraintes imposées au ministre lorsqu'il invoque des hypothèses n'empêchent cependant pas Sa Majesté de soulever, ailleurs dans la réponse, des allégations de fait et des moyens de droit qui sont étrangers au fondement de la cotisation. Si Sa Majesté allègue un fait qui ne fait pas partie des faits présumés par le ministre, la charge de la preuve repose sur elle. Ce principe est bien expliqué dans la décision Schultz c. Canada, [1996] 1 C.F. 423 (C.A.), autorisation d'appel à la C.S.C. refusée, [1996] A.C.S.C. no 4.
+[Je souligne.]
+[93] Le fardeau de démontrer que la somme de 3 999 999,56 $ n’était pas raisonnable dans les circonstances reposait donc sur l’intimée et non sur l’appelante.
+[94] Selon le témoignage de M. Boudreault, après une étude des transactions comparables faite par son équipe, on a conclu que les services fournis par la CDPQ avaient une valeur correspondant à quatre pour cent (4 %) du montant de la souscription, soit 3 999 999,56 $. M. Boudreault était un témoin qui témoignait sur des faits dont il avait lui-même connaissance et il ne témoignait pas en tant que témoin expert. Il n’a donc soumis aucun rapport d’expert dans lequel les transactions comparables auraient fait l’objet d’une analyse. Aucune transaction comparable qui a été étudiée par son équipe n’a été soumise en preuve.
+[95] L’intimée n’a pas présenté de preuve quant à la proportion des honoraires de transaction qui serait attribuable à chacun des services rendus par la CDPQ. Elle n’a pas non plus soumis de preuve quant à la valeur de chacun de ses services.
+[96] Habituellement, quand la valeur d’un ou plusieurs services est remise en question, le témoignage d’un ou plusieurs experts est nécessaire afin de permettre à la Cour de déterminer la valeur de chacun des services fournis. Une étude de transactions comparables est aussi habituellement nécessaire, surtout lorsque l’intimée prétend que certains termes d’une transaction sont déraisonnables. Ceci s’avère utile aussi afin de permettre à la Cour d’apporter, au besoin, à un taux par ailleurs déraisonnable, les ajustements nécessaires.
+[97] Or, l’intimée n’a rien fait de cela. En tout cas, elle n’a soumis aucune preuve établissant que ce type d’analyse a été faite soit par le ministre, soit à sa demande.
+[98] Étant donné que M. Boudreault ne témoignait pas en tant qu’expert et qu’il n’a pas personnellement procédé à l’analyse des transactions comparables, la Cour voit mal comment on peut lui reprocher de ne pas avoir été en mesure d’expliquer pourquoi un investisseur qualifié de « preneur ferme » et un investisseur effectuant un investissement dans le cadre d’un placement privé recevraient le même pourcentage d’honoraires de transaction alors que la preuve établit qu’ils n’offrent pas les mêmes services [94] . Pour les mêmes raisons, le fait qu’il n’ait pas pu expliquer pourquoi un investisseur privé investissant 100 000 000 $ et un autre investissant 20 000 000 $ recevraient le même pourcentage d’honoraire de transaction n’est pas significatif.
+[99] Au final, la Cour doit déterminer si, selon la prépondérance de la preuve, le taux d’honoraires de transaction de quatre pour cent (4 %) était raisonnable dans les circonstances. L’intimée n’ayant pas démontré que ce taux n’était pas raisonnable dans les circonstances, et compte tenu du fait qu’elle avait le fardeau de la preuve, la Cour conclut que le taux d’honoraires de transaction de quatre pour cent (4 %) payé par la Banque Laurentienne à la CDPQ était raisonnable dans les circonstances. Par conséquent, la somme de 3 999 999,56 $ était raisonnable dans les circonstances.
+D. Est-ce que les honoraires de transaction payés par la Banque Laurentienne au FSTQ étaient raisonnables dans les circonstances ?
+[100] La Cour a déjà conclu que les honoraires de transaction ont été payés au FSTQ pour un service de financement. Il s’agit donc de déterminer si, eu égard aux circonstances, le paiement d’une somme et de 799 999,56 $ était raisonnable pour ce service.
+[101] Comme dans le cas des honoraires de transaction payés à la CDPQ, le fardeau de démontrer que la somme de 799 999,56 $ n’était pas raisonnable dans les circonstances reposait sur l’intimée et non sur l’appelante.
+[102] L’intimée n’a pas présenté de preuve quant à la valeur du service de financement rendu par le FSTQ.
+[103] Par conséquent, la Cour conclut que le taux d’honoraires de transaction de quatre pour cent (4 %) était raisonnable dans les circonstances étant donné que l’intimée n’a pas démontré que ce taux n’était pas raisonnable dans les circonstances. La somme de 799 999,56 $ était donc raisonnable dans les circonstances.
+VI. CONCLUSION
+[104] Pour ces raisons, l’appel est accueilli avec dépens. Les trois cotisations établies par le ministre le 7 janvier 2016 relativement aux années d’imposition de la Banque Laurentienne se terminant respectivement le 31 octobre 2012, 2013 et 2014 sont renvoyées au ministre pour nouvel examen et nouvelle cotisation en fonction de ce qui suit :
+1- Les honoraires de transaction de 3 999 999,56 $ payés par la Banque Laurentienne à la CDPQ sont déductibles en vertu de l’alinéa 20(1)e) de la LIR;
+2- Les honoraires de transaction de 799 999,56 $ payés par la Banque Laurentienne au FSTQ sont déductibles en vertu de l’alinéa 20(1)e) de la LIR.
+Signé à Ottawa, Canada, ce 21e jour d’août 2020.
+« Sylvain Ouimet »
+Juge Ouimet
+RÉFÉRENCE :
+2020 CCI 73
+Nº DU DOSSIER DE LA COUR :
+2016-4706(IT)G
+INTITULÉ DE LA CAUSE :
+BANQUE LAURENTIENNE DU CANADA c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATES DE L’AUDIENCE :
+Les 5 et 8 avril 2019
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Sylvain Ouimet
+DATE DU JUGEMENT :
+Le 21 août 2020
+COMPARUTIONS :
+Avocats de l'appelant :
+Me Wilfrid Lefebvre
+Me Jonathan Lafrance
+Avocat de l'intimée :
+Me Michel Lamarre
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant:
+Nom :
+Me Wilfrid Lefebvre
+Me Jonathan Lafrance
+Cabinet :
+Norton Rose Fulbright Canada, S.E.N.C.R.L., s.r.l.
+Montréal (Québec)
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Entente partielle sur les faits, par. 1.
+[2] Ibid.
+[3] Ibid. par. 24 et 25.
+[4] Ibid. par. 13, 14, 20, 22 et 24.
+[5] Ibid. par. 20 et 22.
+[6] Réponse amendée à l’avis d’appel, par. 27s).
+[7] Ibid., par. 27t).
+[8] Ibid., par. 27u).
+[9] Ibid., par. 28d).
+[10] Loi sur les banques, L.C. 1991, ch. 46. Entente partielle sur les faits, par. 3.
+[11] Transcription de l’audience tenue à la Cour canadienne de l’impôt, le 5 avril 2019 (« transcription de l’audience du 5 avril 2019 »), p. 78-81.
+[12] Entente sur les faits – Documents, onglet 3.
+[13] Entente partielle sur les faits, par. 4. Entente sur les faits – Documents, onglet 2.
+[14] Entente partielle sur les faits, par. 6a). Entente sur les faits – Documents, onglet 2, p. 1.
+[15] Entente partielle sur les faits, par. 6b). Entente sur les faits – Documents, onglet 2.
+[16] Entente partielle sur les faits, par. 6c). Entente sur les faits – Documents, onglet 2.
+[17] Entente partielle sur les faits, par. 6c). Entente sur les faits - Documents, onglet 2. Il est à noter que, dans les faits, il s’agit d’un escompte de 1,59 % étant donné la fluctuation de la valeur des actions sur le marché entre le 1er et le 4 juin. Le prix d’acquisition de 41,85 $ par reçu de souscription, quant à lui, n’a pas changé : Entente sur les faits – Documents, onglet 5, lettre adressée à M. Minier (Bourse de Toronto) et formulaire 11, Notice of Private Placement, datés du 4 juin 2012.
+[18] Entente partielle sur les faits, par. 6d). Entente sur les faits – Documents, onglet 2.
+[19] Entente sur les faits – Documents, onglet 2.
+[20] Entente partielle sur les faits, par. 6c). Entente sur les faits – Documents, onglet 2.
+[21] Entente partielle sur les faits, par. 6f). Entente sur les faits - Documents, onglet 2, « Sommaire des termes et conditions », p. 2.
+[22] Entente partielle sur les faits, par. 10a) et b). Entente sur les faits – Documents, onglet 4.
+[23] Entente partielle sur les faits, par. 10c). Entente sur les faits – Documents, onglet 4.
+[24] Entente partielle sur les faits, par. 10d). Entente sur les faits – Documents, onglet 4.
+[25] Entente sur les faits – Documents, onglet 4.
+[26] Entente partielle sur les faits, par. 10c). Entente sur les faits – Documents, onglet 4.
+[27] Entente sur les faits – Documents, onglet 4.
+[28] Entente partielle sur les faits, par. 10e). Entente sur les faits – Documents, onglet 4.
+[29] Entente partielle sur les faits, par. 10f). Entente sur les faits – Documents, onglet 4.
+[30] Entente partielle sur les faits, par. 12. Entente sur les faits – Documents, onglet 5.
+[31] Entente partielle sur les faits, par. 13. Entente sur les faits – Documents, onglet 6.
+[32] Entente partielle sur les faits, par. 14. Entente sur les faits – Documents, onglet 7.
+[33] Entente partielle sur les faits, par. 15. Entente sur les faits – Documents, onglet 6, annexe B.
+[34] Entente partielle sur les faits, par. 16. Entente sur les faits – Documents, onglet 8.
+[35] Entente partielle sur les faits, par. 17. Entente sur les faits – Documents, onglet 9.
+[36] Entente partielle sur les faits, par. 18.
+[37] Ibid., par. 19.
+[38] Entente partielle sur les faits, par. 20 et 22. Entente sur les faits – Documents, onglets 10 et 12.
+[39] Transcription de l’audience du 5 avril 2019, pp. 80, 150 et 151.
+[40] Transcription de l’audience du 5 avril 2019, p. 80.
+[41] Ibid., pp. 80, 83 et 140.
+[42] Ibid., pp. 90 et 91.
+[43] Ibid., pp. 91 et 92.
+[44] Ibid., pp. 92-103.
+[45] Ibid., p. 100.
+[46] Ibid., pp. 114 et 115.
+[47] Ibid., pp. 185 et 186.
+[48] Pièce I-2, engagement n°4 de l’interrogatoire préalable de M. Lanthier.
+[49] Transcription de l’audience du 5 avril 2019, p. 194.
+[50] Transcription de l’audience du 5 avril 2019, p. 195.
+[51] Ibid., p. 196 et 215.
+[52] Ibid., pp. 231-233.
+[53] Ibid., pp. 198, 199, 209-211, 216, 217, 233 et 234.
+[54] Ibid., p. 204.
+[55] Ibid., pp. 212 et 213.
+[56] [1984] 2 C.F. 218 (C.A.).
+[57] Ibid., p. 2.8.
+[58] Entente sur les faits – Documents, onglet 6, p. 21 et onglet 7, p. 21.
+[59] L.R.C. 1985, ch. I-21.
+[60] Grimard c. Canada, 2009 CAF 47, par. 32, [2009] 4 R.C.F. 592.
+[61] Québec (Agence du revenu) c. Services Environnementaux AES inc., 2013 CSC 65, par. 52, [2013] 3 R.C.S. 838.
+[62] Transcription de l’audience du 5 avril 2019, p. 204.
+[63] Ministre du Revenu national c. Hardy, 2018 CAF 103, par. 13.
+[64] Ibid.
+[65] Transcription de l’audience tenue à la Cour canadienne de l’impôt, le 8 avril 2019, (« transcription de l’audience du 8 avril 2019 »), pp. 39-41.
+[66] Ibid., pp. 39-41 et 79-81.
+[67] Ibid., pp. 35 et 36.
+[68] Singleton c. Canada, 2001 CSC 61, par. 33 et 34, [2001] 2 R.C.S. 1046.
+[69] [1999] 3 R.C.S. 622.
+[70] Transcription de l’audience du 5 avril 2019, p. 67.
+[71] Canderel Ltée c. Canada, [1998] 1 R.C.S. 147, p. 174. Voir aussi : Valiant Cleaning Technology Inc. c. La Reine, 2008 CCI 637, par. 23.
+[72] Loi de l’impôt sur le revenu, L.R.C. 1985, ch. 1. (5e supp.), al. 20(1)(e), modifiée par L.C. 1988, ch. 55, par . 12(2).
+[73] [1974] 1 C.F. 637 (C.A.).
+[74] Ibid., pp. 644 et 645.
+[75] General Motors du Canada Ltd. c. La Reine, 2008 CCI 117 (conf. par 2009 CAF 114, [2010] 2 R.C.F. 344 ).
+[76] Ministre du Revenu national c. Yonge-Eglinton Building Ltd., note 74 ci-dessus.
+[77] Loi de l’impôt sur le revenu, S.C. 1970-71-72, c. 63, al. 20(1)e) (Cahier d’autorités de l’appelante, onglet 3).
+[78] Loi modifiant le droit statutaire relatif à l’impôt sur le revenu et modifiant le Régime de pensions du Canada, S.C. 1979, ch. 5, art. 7 (Cahier d’autorités de l’appelante, onglet 4).
+[79] Le Dictionnaire Larousse (en ligne : www.larousse.fr), subverbo « souscription ».
+[80] Le Petit Robert, 2018, subverbo « souscrire »
+[81] 11e éd. (2019), subverbo « subscription »
+[82] Maurice Martel et Paul Martel, La société par actions au Québec : Les aspects juridiques, vol. 1, Montréal, Wilson & Lafleur, Martel ltée, 1976, feuilles mobiles, à jour en mai 2010, par. 14-3, 14-14, 14-15 et 14-54.
+[83] [1968] 2 R.C.É. 511, p. 522.
+[84] 2004 CAF 158.
+[85] 2005 CAF 252.
+[86] Réponse amendée à l’avis d’appel, par. 28d)(i).
+[87] Ibid., par. 28d)(ii).
+[88] Ibid., par. 28d)(iii).
+[89] Ibid., par. 28d)(iv).
+[90] Transcription de l’audience du 8 avril 2019, pp. 90 et 91.
+[91] Ibid., pp. 21 et 22.
+[92] Transcription de l’audience du 5 avril 2019, pp. 202 et 203.
+[93] 2004 CAF 146, [2004] 4 R.C.F.3
+[94] Transcription de l’audience du 5 avril 2019, pp. 179-180.

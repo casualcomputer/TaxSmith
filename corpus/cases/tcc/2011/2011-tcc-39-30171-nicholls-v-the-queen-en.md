@@ -1,0 +1,186 @@
+---
+title: "Nicholls v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30171/index.do"
+last_modified: "2011-01-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 39"
+citation2: ""
+neutral_citation: "2011 TCC 39"
+decision_date: "2011-01-21"
+language: "en"
+item_id: "30171"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7814
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:56:40.065000+00:00"
+cases_cited_count: 2
+cases_citing_count: 7
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "645c84192fa9f18daa84be6e8fe6ee0ebde9f4949823e3133ae22a5a476ccd48"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Nicholls v. The Queen
+
+- Citation: 2011 TCC 39
+- Decision date: 2011-01-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7814, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Nicholls v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-01-21
+Neutral citation
+2011 TCC 39
+File numbers
+2010-2433(IT)APP
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-2433(IT)APP
+BETWEEN:
+PATRICK NICHOLLS,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application heard on December 13, 2010 at Toronto, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+For the Applicant:
+The Applicant himself
+Counsel for the Respondent:
+Iris S. Kingston
+Ricky Y.M. Tang
+____________________________________________________________________
+ORDER
+Upon reading the application for an Order extending the time within which to file a Notice of Appeal to the reassessments made under the Income Tax Act for the 1992, 1993 and 1994 years and the assessments made under the Income Tax Act for the1990, 1991 and 1995 taxation years;
+And upon hearing the Applicant and counsel for the Respondent;
+The application is dismissed.
+Signed at Ottawa, Canada, this 21st day of January 2011.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2011TCC39
+Date: 20110121
+Docket: 2010-2433(IT)APP
+BETWEEN:
+PATRICK NICHOLLS,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+V.A. Miller J.
+[1] On June 21, 2010, Mr. Nicholls filed a Notice of Appeal for his 1990, 1991, 1992, 1993, 1994 and 1995 taxation years in which he wrote the following:
+A. Reasons for the appeal. These assessments are a nullity as there is no proof of sending according to subsection 244(5) of the Income Tax Act.
+B. Statement of relevant facts in support of the appeal. An effectively extinguished tax debt revived without proof of issuance or sending, a procedure necessary to authorize collection.
+As a nullity has no value, I ELECT to have the informal procedure under the Act apply to this appeal and for this purpose I elect, in accordance with section 17, to limit the appeal to $12,000 as being the aggregate of all amounts in issue in this appeal or, where the amount in issue is a loss, to limit the amount of that loss to $24,000.
+[2] On the cover sheet for the Notice of Appeal, Mr. Nicholls wrote that the “Date of Reassessment” was November 10, 2005. The Notice of Appeal was changed by the court to an application to extend the time to file an appeal under the Informal Procedure.
+[3] The Respondent has opposed the application for extension of time on the basis that notices of objection were not served for the years in issue and the application was not made within one year after the expiration of the time otherwise limited by the Income Tax Act (the “Act”) for instituting an appeal. In support, the Respondent filed the affidavit of Bruce Costigan, Litigation Officer with the Canada Revenue Agency (CRA). In his affidavit, Mr. Costigan summarized the discussions between the Applicant and the officers in the Collections Division of CRA with respect to the Applicant’s tax debt for the years in issue. These discussions took place from July 11, 1994 to June 15, 1999. At no time in these discussions did the Applicant say that he had not received the notices of assessment for his 1990 to 1995 taxation years. The records of these conversations disclose that the Applicant’s main concern was the amount of his tax debt for the years in issue. On June 15, 1999, the Applicant informed the CRA Collections Division that he intended to file his 1998 income tax return which would reflect a loss he could carry-back to clear his outstanding tax balance. Also included in the affidavit were letters which the CRA had sent to the Applicant with respect to various requests he had made for the years in question. These letters were dated from November 10, 2005 to June 19, 2008.
+[4] The Applicant filed a motion on October 11, 2010 in which he requested that this court vacate the assessments and reassessments for the 1990 to 1995 taxation years on the basis that they were nullities as there was no proof they were sent. He relied on several decisions to support his position that an assessment is not complete, and is therefore not valid, unless a notice is sent to the taxpayer[1].
+[5] On December 3, 2010, the Respondent filed a Reply to the Applicant’s Motion and a Cross-Motion in which the Respondent again requested that the application for extension of time be dismissed as the Applicant did not file notices of objection for the years 1990 to 1995, inclusive. The Respondent submitted a second affidavit of Mr. Costigan in which he described the mailing practices and procedures of CRA as they related to the Applicant. He stated:
+iv) CRA mailing practices and procedures as they relate to the Applicant
+19. I am informed by Marie Josee-Gagne, A/Manager, Initial Returns Processing Section, Processing Division, Individual Returns Directorate, and believe it to be true that:
+a. income tax assessments are processed electronically in our computer system and the information is released electronically to the Media Services Print Shop of the Electronic and Print Media Directorate in a Daily Assessing Schedule (DAS) for printing of the Notices of Assessment and that the date of the notice is post dated to the date of mailing;
+b. The Applicant’s assessments for the 1990 to 1995 taxation years were sent to the Print Shop as follows:
+i. The applicant’s Notice of Assessment for the 1990 taxation year was released in DAS 70 with the notice postdated to October 4, 1993
+ii. The applicant’s Notice of Assessment for the 1991 taxation year was released in DAS 33 with the notice postdated to June 7, 1993
+iii. The applicant’s Notice of Assessment for the 1992 taxation year was released in DAS 43 with the notice postdated to July 5, 1993
+iv. The applicant’s Notices of Assessment for the 1993, 1994 and 1995 taxation years were released in DAS 61 with the notices postdated to December 16, 1996
+c. The system does not provide the DAS for the Notices of Reassessment.
+d. Notices of Reassessment are processed in the same manner as Notices of Assessment and were released in a DAS.
+20. I am informed by Bruce Gilbert, Project Management and Client Services Section, Business Integration Division, Electronic and Print Media Directorate, and believe it to be true that:
+a. the information released by the Initial Returns Processing Section in DAS is downloaded for printing and the Notices of Assessment are printed with the date of the notice post dated to the date of mailing;
+b. the printed Notices of Assessment are inserted in individual envelopes;
+c. the inserters keep a tally sheet of the total number of printed notices for mailing;
+d. all envelopes are placed in bins for pickup by Canada Post for mailing on the date of the notice, and;
+e. before the Notices of Assessment are placed in the bin for pickup by Canada Post, the computerized count on the inserters is matched with the expected count stored in the DAS and if both counts are not the same the print job is cancelled, the printed notices destroyed, and the print job is redone;
+f. the counts were accurate for each of the DAS associated the Applicant’s above-noted Notices of Assessment.
+[6] The Applicant filed a further motion on December 8, 2010 reiterating the request that he made in his motion dated October 11, 2010.
+[7] The Applicant’s 1990 to 1995 taxation years were assessed as follows:
+Year
+Assessment
+Reassessment
+1990
+October 4, 1993
+1991
+June 7, 1993
+1992
+July 5, 1993
+March 17, 1994
+1993
+December 16, 1996
+September 29, 1997
+1994
+December 16, 1996
+September 29, 1997
+1995
+December 16, 1996
+[8] The Applicant’s 1992 taxation year was reassessed to include unreported interest income. His 1993 and 1994 taxation years were reassessed, at his request, to allow a non-capital loss carry back from his 1996 taxation year.
+[9] By November 10, 2005, the Applicant’s total tax debt for the 1991, 1992, 1993, 1994 and 1995 tax years was $265,068.56 and the Applicant questioned whether the CRA had the right to collect the tax debt in light of the decision in Markevich v. Canada (2003)[2]. The Applicant was informed that the Income Tax Act[3] had been amended and as a result of this amendment he continued to be liable for the full amount of the tax debt.
+[10] The Applicant later requested that his 1995 taxation year be reassessed. On March 28, 2008, the CRA informed him that it could not reassess his 1995 year as it was beyond the 10 calendar years allowed by subsection 152(4.2) of the Act. On April 28, 2008, the Applicant brought an application for judicial review of this decision. The application for judicial review was dismissed by Barnes, J. of the Federal Court and his decision was affirmed by the Federal Court of Appeal on January 27, 2010.
+[11] Electronic copies of the Applicant’s 1991 to 1995 assessments and reassessments were included as an exhibit to Mr. Costigan’s second affidavit. These copies had been printed from the CRA database on January 25, 2007, at the request of the Applicant[4], and attached to the affidavit which he had filed with the Federal Court. The Applicant’s affidavit was sworn by him on May 8, 2008.
+[12] After a review of all the evidence and the submissions made by the parties, I have concluded that the Applicant’s motions and application for extension of time must be dismissed. I have concluded that the Respondent has submitted sufficient evidence to show that the notices of assessment and reassessment were issued and sent to the Applicant.
+[13] It is my opinion that Mr. Costigan’s description of the mailing practices and procedures as they relate to the Applicant has established on a balance of probability that the notices of assessment for the 1990 to 1995 taxation years were issued by CRA and were mailed on the dates listed in paragraph 7 above[5]. The CRA could not provide the details for the Daily Assessing Schedule (DAS) for printing the notices of reassessment for the 1992, 1993 and 1994 taxation years. However, Mr. Costigan stated that the notices of reassessment were processed in the same manner as the notices of assessment and were released in a DAS. I find that, in the circumstances, this is sufficient evidence. The evidence has shown that the Applicant requested the reassessment of his 1993 and 1994 taxation years. If these reassessments were not issued and sent, surely the Applicant would have questioned the Collections Officers with CRA at an earlier date. He has waited thirteen years to ask the CRA to prove that it sent the notices. He has not suggested in any of his correspondence with the CRA that he had not been assessed for his 1990 to 1995 taxation years.
+[14] Although I do not have to decide the point, when the whole of the evidence is taken into consideration, I have concluded that it is implausible that the Applicant did not receive the notices of assessment and reassessment for the years in question. The Federal Court of Appeal has stated in Aztec Industries Inc. v. R.[6] that where a taxpayer alleges that he did not receive a notice of assessment and that no such assessment was issued, the onus is on the Minister to prove that the notice was sent. That situation does not exist in this application.
+[15] First, the Applicant did not allege in his notice of appeal or his motions that he did not receive the notices of assessment or reassessment. He has alleged that there is no proof of sending the assessments and reassessments. It was only in response to counsel for the Respondent’s argument, at the hearing of the application, that the Applicant stated that he did not receive the assessments in issue. The Minister only has the onus to prove that the assessments were sent if the Applicant alleges that he has not received the assessments and that allegation is credible. I find that it is not plausible that the Applicant did not receive nine notices of assessment and reassessment. He discussed his tax debt with CRA officials over a period of 14 years and he never suggested that he had not received the notices of assessment and reassessment in question. The Applicant wrote to the CRA to have his 1995 taxation year reassessed.
+[16] Neither the Applicant nor counsel for the Respondent addressed the statements in the purported Notice of Appeal filed by the Applicant. However, it appears from the statements made by the Applicant, that it is his belief that the Minister must issue notices of assessment to revive the tax debt for the 1990 to 1995 taxation years. That belief is incorrect. The limitation period for collecting the tax debt for these years has been extended by the amendment of section 222 of the Act.
+[17] For all of these reasons, the Applicant’s motions are dismissed. The Applicant has admitted that he never filed notices of objection for the 1990, 1991, 1992, 1993, 1994 and 1995 taxation years. This application was filed with the court beyond the one year and 90 day limitation period that is allowed in section 167 of the Act. The relevant portion of that section reads:
+167. (1) Where an appeal to the Tax Court of Canada has not been instituted by a taxpayer under section 169 within the time limited by that section for doing so, the taxpayer may make an application to the Court for an order extending the time within which the appeal may be instituted and the Court may make an order extending the time for appealing and may impose such terms as it deems just.
+(5) No order shall be made under this section unless
+(a) the application is made within one year after the expiration of the time limited by section 169 for appealing;
+[18] Subsection 167(5) of the Act is mandatory[7]. The application for extension of time to file a notice of appeal is dismissed.
+Signed at Ottawa, Canada, this 21st day of January 2011.
+“V.A. Miller”
+V.A. Miller J.
+CITATION: 2011TCC39
+COURT FILE NO.: 2010-2433(IT)APP
+STYLE OF CAUSE: PATRICK NICHOLLS AND
+THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: December 13, 2010
+REASONS FOR ORDER BY: The Honourable Justice Valerie Miller
+DATE OF ORDER: January 21, 2011
+APPEARANCES:
+For the Applicant:
+The Applicant himself
+Counsel for the Respondent:
+Iris S. Kingston
+Ricky Y.M. Tang
+COUNSEL OF RECORD:
+For the Applicant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Massarotto v. The Queen, [2000] G.S.T.C. 19 (TCC); Kovacevic v. R. {2002} G.S.T.C. 89
+[2] [2003] SCC 9
+[3] Section 222
+[4] Applicant’s written submissions paragraph T.
+[5] Abraham v. The Queen, 2004 TCC 380
+[6] (1995), 95 D.T.C. 5235 (FCA)
+[7] Carlson v. R., 2002 FCA 145

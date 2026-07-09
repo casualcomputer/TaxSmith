@@ -1,0 +1,133 @@
+Title: Giroux v. Canada (Human Resources and Skills Development)
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30966/index.do
+Corpus path: corpus/cases/tcc/2012/2012-tcc-340-30966-giroux-v-canada-human-resources-and-skills-development-en.md
+Document type: case_law
+Last modified: 2012-09-27
+
+# Giroux v. Canada (Human Resources and Skills Development)
+
+- Citation: 2012 TCC 340
+- Decision date: 2012-09-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4840, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Giroux v. Canada (Human Resources and Skills Development)
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-09-27
+Neutral citation
+2012 TCC 340
+File numbers
+2011-3103(OAS)
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Old Age Security Act
+Decision Content
+Docket: 2011-3103(OAS)
+BETWEEN:
+CLÉMENT GIROUX,
+Appellant,
+and
+THE MINISTER OF HUMAN RESOURCES AND
+SKILLS DEVELOPMENT CANADA
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on August 23, 2012, at Québec, Quebec
+Before: The Honourable Justice Paul Bédard
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Stéphanie Côté
+____________________________________________________________________
+JUDGMENT
+The appeal from the decision of the Minister of Human Resources and Skills Development concerning the determination of income for the Income Supplement under subsection 28(2) of the Old Age Security Act, R.S.C., 1985, c. O-9, is dismissed, and the decision is confirmed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, on this 27th day of September 2012.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 9th day of November 2012
+Margarita Gorbounova, Translator
+Citation: 2012 TCC 340
+Date: 20120927
+Docket: 2011-3103(OAS)
+BETWEEN:
+CLÉMENT GIROUX,
+Appellant,
+and
+THE MINISTER OF HUMAN RESOURCES AND
+SKILLS DEVELOPMENT CANADA
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] The appellant is appealing from the respondent's decision dated April 29, 2011, confirming that the amounts of the Guaranteed Income Supplement (GIS) to which the appellant was entitled for the payment period from July 2010 to July 2011, had to be calculated taking into account the amounts he had received from the Commission de la santé et de la sécurité du travail (CSST) in 2009.
+[2] The facts are as follows:
+(a) The appellant has been receiving an old age pension and the GIS since December 2005, the month following his 65th birthday;
+(b) On March 29, 2010, the appellant filed a renewal application for the GIS for the July 2010 to June 2011 payment period;
+(c) The GIS amounts for that payment period are based on income for the base calendar year for that period, namely, 2009;
+(d) In his renewal application, the appellant indicated that his income would be made up of only a payment of $391.81 per year from the Régie des rentes du Québec (RRQ);
+(e) The GIS that was paid to the appellant from July 2010 to November 2010 was calculated based on this information;
+(f) However, the Minister of Human Resources and Skills Development (the Minister) received from the Canada Revenue Agency (the Agency) data on the appellant's combined income that did not match the appellant's statements in his GIS renewal application;
+(g) On November 2, 2010, the appellant and his spouse provided copies of their 2009 tax returns at the Minister's request;
+(h) The Minister recalculated the GIS based on the information in the tax returns for 2009;
+(i) Thus, the appellant's combined income for 2009, based on which the GIS amounts he is entitled to for the July 2010 to June 2011 payment period were determined, is as follows:
+RRQ
+$4,683.00
+CSST compensation
+$4,147.68
+Business loss
+($720.99)
+Spousal income for 2009
+$890.96
+Combined income
+$9,022.65
+(j) The appellant was in an industrial accident in 1970. The accident left permanent damage and resulted in a permanent partial disability of 16%. Following the accident, the appellant started receiving a monthly pension in accordance with section 38(2) of the Workers' Compensation Act (WCA). The provision read as follows:
+38 (2) In the case of permanent partial disability, the worker is entitled, for life, to a payment provided for in subsection 1 according to the degree of his or her disability.
+(k) After the coming into force of the Act respecting industrial accidents and occupational diseases (AIAOD), which replaced the WCA in 1985, the CSST gave the appellant the option to continue receiving his monthly pension or to receive a lump sum, in this case of $44,400, in settlement of the remaining amount. The appellant then chose to continue receiving his monthly pension.
+Issue
+[3] Whether the compensation received by the appellant from the CSST in 2009 should be part of the appellant's income for the purposes of calculating the GIS amounts he is entitled to for the payment period from July 2010 to June 2011.
+The appellant's argument
+[4] The appellant essentially argues that the nature of the amount he receives is as follows: [Translation] "it is capital (that is received in the form of a monthly pension), and not compensation or income replacement."
+Analysis and conclusion
+[5] The GIS amount to which a claimant is entitled for a given payment period is based on his or her income or combined income, as the case may be, for a base calendar year. In the appellant's case, the GIS amount to which he is entitled for the July 2010 to June 2011 payment period is based on his combined income for 2009.
+[6] Section 2 of the Old Age Security Act (OASA) defines income as income computed in accordance with the Income Tax Act (ITA), subject to certain deductions (listed in section 2 of the OASA).
+[7] In 2009, the appellant received a total amount of $4,147.68 from the CSST.
+[8] The CSST pays compensation set out in the AIAOD, which replaced the WCA on August 19, 1985, only in cases where a worker has sustained an employment injury following an industrial accident or an occupational disease. The compensation received under the AIAOD (and previously the WCA), regardless of its form (life annuity or lump sum) must, in my opinion, be included in the recipient's income in accordance with paragraph 56(1)(v) of the ITA, which provides that compensation received under such acts as the AIAOD and previously the WCA must be included in computing income. Paragraph 56(1)(v) reads as follows:
+56. (1) Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year,
+(v) compensation received under an employees' or workers' compensation law of Canada or a province in respect of an injury, a disability or death;
+In this case, the appellant received such compensation. I reiterate that the form of the compensation is irrelevant. I would add that the fact that this compensation is not taxable because it is deductible under subparagraph 110(1)(f)(ii) of the ITA has no impact on this issue since a recipient's GIS is calculated based on his or her income (or combined income), not based on taxable income (or combined taxable income), as determined by this Court in Dupuis v. The Minister of Human Resources and Skills Development Canada, 2011 TCC 485 (CanLII). Finally, I am of the view that no deductions listed in the definition of "income" in section 2 of the OASA apply to compensation paid by the CSST. Accordingly, the Minister was correct to consider the compensation received by the appellant from the CSST in 2009 to be part of his combined income for the purpose of calculating the GIS amounts to which he is entitled for the July 2010 to June 2011 payment period.
+[9] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, on this 27th day of September 2012.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 13th day of November 2012
+Margarita Gorbounova, Translator
+CITATION: 2012 TCC 340
+COURT FILE NO.: 2011-3103(OAS)
+STYLE OF CAUSE: CLÉMENT GIROUX AND M.H.R.S.D.C.
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: August 23, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: September 27, 2012
+APPEARANCES
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Stéphanie Côté
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

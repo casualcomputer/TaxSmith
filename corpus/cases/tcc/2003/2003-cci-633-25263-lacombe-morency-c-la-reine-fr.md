@@ -1,0 +1,168 @@
+---
+title: "Lacombe Morency c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25263/index.do"
+last_modified: "2003-10-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 633"
+citation2: ""
+neutral_citation: "2003 CCI 633"
+decision_date: "2003-10-15"
+language: "fr"
+item_id: "25263"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2392
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:39:37.511000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5ec2115e9314c285b2c24cbe582abbd2def26b0dcd15ba2307189bbe9acd061d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lacombe Morency c. La Reine
+
+- Citation: 2003 CCI 633
+- Decision date: 2003-10-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2392, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lacombe Morency c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-10-15
+Référence neutre
+2003 CCI 633
+Numéro de dossier
+2002-457(IT)I
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-457(IT)I
+ENTRE :
+CLAIRE LACOMBE MORENCY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 14 mai 2003 à Québec (Québec)
+Devant : L'honorable juge François Angers
+Comparutions :
+Avocat de l'appelante :
+Me Daniel Bourgeois
+Avocate de l'intimée :
+Me Julie David
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu à l'égard de l'année d'imposition 1998 est rejeté, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 15e jour d'octobre 2003.
+« François Angers »
+Juge Angers
+Référence : 2003CCI633
+Date : 20031015
+Dossier : 2002-457(IT)I
+ENTRE :
+CLAIRE LACOMBE MORENCY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Il s'agit d'un appel d'une cotisation visant l'année d'imposition 1998 de l'appelante. Cette dernière n'a pas déclaré dans ses revenus de l'année en litige une somme de 5 284 $ inscrite sur un T4A établi par le Gouvernement du Québec. Le ministre du Revenu national ( « le ministre » ) a donc établi à l'égard de l'appelante une cotisation qui ajoutait cette somme à ses revenus. Il s'agit donc de déterminer si le ministre était justifié en incluant ce montant dans le calcul du revenu net de l'appelante. Est-ce que cet argent a été remis à l'appelante à titre d'indemnité versé pour cause de discrimination ou s'agit-il d'un revenu tiré d'une charge ou d'un emploi et devant être inclus dans son revenu?
+[2] L'appelante est présentement conseillère en révision linguistique. Elle est employée par le Gouvernement du Québec depuis 1974 mais a occupé différents postes au sein de différents ministères au cours des années. Dans l'année d'imposition en litige, elle a travaillé à la fois pour la Régie des rentes du Québec et le ministère de la Sécurité publique, emplois pour lesquels elle a reçu des T4 séparés.
+[3] Durant les années pertinentes, l'appelante était membre du Syndicat de Professionnels du Gouvernement du Québec (SPGQ). Le 9 avril 1981, le SPGQ déposait auprès de la Commission des droits de la personne une plainte officielle au nom des femmes professionnelles appartenant à six corps d'emploi de la fonction publique du Québec. Le motif de la plainte était la discrimination sexuelle du fait que, pour un travail de valeur équivalente, ces femmes ne bénéficiaient pas d'un salaire égal à celui de corps d'emploi comparables.
+[4] Le 19 juin 1997, la Commission des droits de la personne et des droits de la jeunesse déclarait la plainte fondée en ce qui concerne le corps d'emploi dont l'appelante était membre, puisque la preuve avait démontré la prépondérance féminine dans ce corps d'emploi et la discrimination salariale subie jusqu'en 1990, date de l'entrée en vigueur d'une nouvelle convention collective pour 1990-1991. La Commission a invité les parties à régler leur différend à l'amiable et, le 23 mars 1998, il y a eu un « règlement et quittance finale » . Je reviendrai au libellé du règlement plus tard dans mes motifs.
+[5] Pour bien comprendre le dénouement qui a mené au règlement de la plainte, je vais reproduire le résumé des événements qu'a fait la Commission dans sa résolution :
+LA PLAINTE
+Le Syndicat des professionnelles et professionnels du Gouvernement du Québec (SPGQ) a porté plainte pour et au nom des femmes occupant des emplois appartenant aux six corps d'emploi professionnels suivants : agente et agent d'information (104), agente et agent culturel (107), bibliothécaire (112), traductrice et traducteur (125), travailleuse sociale et travailleur social (126), diététiste (127).
+Le Syndicat alléguait que les femmes de ces corps d'emploi, regroupés dans les deux dernières échelles salariales professionnelles et accomplissant un travail équivalent à celui d'autres corps d'emploi professionnels mieux rémunérés, étaient victimes de discrimination salariale en raison de leur sexe, contrairement aux articles 10 et 19 de la Charte des droits et libertés de la personne (L.R.Q. chapitre C.-12).
+Cent cinquante-six plaignantes appartenant à ces différents corps d'emploi ont donné une autorisation écrite à leur Syndicat pour le dépôt de la plainte.
+Le 25 mars 1991, le Syndicat des professionnelles et professionnels du Gouvernement du Québec (SPGQ) retirait sa plainte à la suite de la signature d'une convention collective qui intégrait les correctifs salariaux découlant des « résultats des travaux conjoints d'évaluation des emplois et [prenant en considération] la preuve soumise devant la Commission » (lettre du président du SPGQ 25 mars 1991).
+Des plaignantes, qui avaient signé individuellement des plaintes à l'appui de la demande d'enquête du SPGQ en 1981, ont cependant demandé la poursuite de l'enquête. Elles ont été suivies par d'autres femmes, membres des corps d'emploi faisant l'objet de l'enquête.
+La Commission constate que la demande du Syndicat plaignant initiée en 1981 s'est effectivement concrétisée, après de multiples compléments d'information, en juin 1985 par la décision sur la recevabilité de [la] plainte. Ayant avisé la partie mise en cause et requis des documents pertinents à la plainte, la Commission a nommé, en janvier 1987, un enquêteur dont récusation a alors été demandée par la partie plaignante. La nomination subséquente de l'enquêtrice, Me Trudeau-Bérard, a permis en juin 1987 de commencer l'enquête.
+La Commission a pris acte de l'entente intervenue entre le SPGQ et le Conseil du trésor sur une nouvelle structure salariale implantée en vertu de l'adoption de la convention collective de travail en janvier 1991, rétroactive au premier janvier 1990. Cette entente a permis le règlement d'une partie du dossier d'enquête, ne réglant pas cependant toutes les réclamations des femmes qui ont demandé de poursuivre l'enquête. Des questions d'ordre technique et procédural, souvent indépendante [sic] de la volonté de la Commission, ont allongé un processus d'enquête en soi fort exigeant.
+OBJET DE L'ENQUÊTE
+La Commission a fait enquête sur les six corps d'emploi mentionnés dans la plainte. Elle a investigué les faits allégués dans la demande ou dévoilés au cours de l'enquête concernant l'application des articles 10 (sexe), 16 (classification d'emploi) et 19 (équivalence salariale) de la Charte des droits et libertés de la personne. À ces fins, elle a examiné notamment les questions suivantes : la prépondérance féminine des six corps d'emploi visés par la plainte; s'il y avait un écart salarial entre les corps d'emploi dits à prépondérance féminine et les autres corps d'emploi à prépondérance masculine; la valeur des différents corps d'emploi et également s'il y avait de la discrimination systémique dans la structure salariale sous enquête.
+Le Conseil du trésor, responsable de la gestion des ressources humaines, de la rémunération et de la négociation des conventions collectives dans tous les secteurs gouvernementaux, a agi pour le compte du Gouvernement du Québec, mis en cause dans cette enquête.
+[6] La position de l'avocat de l'appelante est que la compensation reçue par sa cliente a été payée à la suite d'une violation de droits garantis par la Charte des droits et libertés de la personne, L.R.Q., chapitre C-12, ( « la Charte » ) et se rapportait à une discrimination salariale pratiquée en raison du sexe. Il demande à la Cour de regarder la nature du dédommagement et le fait qu'il a été le résultat d'une discrimination sexuelle dont l'existence a été établie par la Commission des droits de la personne et des droits de la jeunesse du Québec. L'appelant a obtenu le montant en question non pas en raison de son contrat d'emploi mais parce qu'elle a été victime de discrimination.
+[7] Il ajoute à ces arguments que l'article 49 de la Charte prévoit la réparation d'un préjudice occasionné par la discrimination en conférant à la victime le droit d'obtenir la cessation de l'atteinte à ses droits et la réparation du préjudice moral ou matériel qui en résulte. À cet égard, l'avocat a insisté sur le préjudice moral. La Commission est, selon la documentation déposée, celle qui a payé la compensation, de sorte qu'au fond il s'agit non pas d'un problème de nature salariale mais plutôt d'un cas de discrimination donnant lieu à un dédommagement. Le montant reçu par l'appelante ne remplace pas, selon son avocat, un revenu d'emploi qu'elle aurait dû recevoir. Le calcul utilisé dans la documentation soumise a servi à évaluer le préjudice. L'argent en question n'est donc pas imposable car, dès l'origine, l'objet du paiement était de dédommager l'appelante. Il ne s'agit pas non plus d'une allocation de retraite.
+[8] De son côté, l'avocat de l'intimée soutient que la somme touchée par l'appelante a été calculée en fonction des jours travaillés et non sur la base d'un préjudice moral évalué à la suite des inconvénients, de l'angoisse ou de l'humiliation qu'elle aura pu subir. Il ne s'agit pas ici d'une perte d'emploi ni de dommages-intérêts généraux, car il n'y a aucune preuve établissant que c'est l'un ou l'autre. Il ne peut donc s'agir que d'une perte de revenus d'emploi faisant l'objet d'un réajustement effectué par entente des parties concernées, à la suite d'une conclusion par la Commission que l'appelante a été victime de discrimination salariale en raison de son sexe. Il s'agit en conséquence d'un revenu qui est imposable en vertu du paragraphe 5(1) la Loi de l'impôt sur le revenu ( « la Loi » ).
+[9] La question en litige est donc de savoir s'il est justifié que le ministre inclue dans le calcul du revenu net de l'appelante pour l'année d'imposition 1998 le montant de 5 284 $ que cette dernière a reçu par suite du règlement de la plainte et qui est indiqué sur le T4A de 1998 (pièce A-7) établi par le Gouvernement du Québec.
+[10] Je reproduis ici les paragraphes 5(1) et (2) de la Loi de même que son alinéa 6(1)a) :
+5(1) Revenu tiré d'une charge ou d'un emploi - Sous réserve des autres dispositions de la présente partie, le revenu d'un contribuable, pour une année d'imposition, tiré d'une charge ou d'un emploi est le traitement, le salaire et toute autre rémunération, y compris les gratifications, que le contribuable a reçus au cours de l'année
+5(2) Perte résultant d'une charge ou d'un emploi - La perte subie par un contribuable au cours d'une année d'imposition au titre d'une charge ou d'un emploi est constituée par le montant de sa perte subie au cours de cette année au titre de cette charge ou de cet emploi, calculée par l'application, avec les adaptations nécessaires, des dispositions de la présente loi afférentes au calcul du revenu tiré de cette charge ou de cet emploi.
+6(1) Éléments à inclure à titre de revenu tiré d'une charge ou d'un emploi - Sont à inclure dans le calcul du revenu d'un contribuable tiré, pour une année d'imposition, d'une charge ou d'un emploi, ceux des éléments suivants qui sont applicables :
+a) Valeur des avantages - la valeur de la pension, du logement et autres avantages quelconques qu'il a reçus ou dont il a joui au cours de l'année au titre, dans l'occupation ou en vertu d'une charge ou d'un emploi, à l'exception des avantages suivants :
+[...]
+[11] L'appelante et les autres plaignantes ont obtenu une déclaration de la Commission que leur plainte alléguant qu'elles étaient victimes de discrimination salariale en raison de leur sexe était fondée pour la période allant jusqu'au mois de janvier 1990. La documentation déposée en preuve démontre que la plainte, qui visait les années antérieures à janvier 1990 remontait jusqu'au 9 avril 1981, a été retirée par le syndicat puisqu'une nouvelle convention collective conclue entre le syndicat et le Gouvernement du Québec incluait des correctifs salariaux. La plainte était basée sur les dispositions des articles 10 et 19 de la Charte des droits et libertés de la personne, qui se lisent comme suit :
+10 Toute personne a droit à la reconnaissance et à l'exercice, en pleine égalité, des droits et libertés de la personne, sans distinction, exclusion ou préférence fondée sur la race, la couleur, le sexe, la grossesse, l'orientation sexuelle, l'état civil, l'âge sauf dans la mesure prévue par la loi, la religion, les convictions politiques, la langue, l'origine ethnique ou nationale, la condition sociale, le handicap ou l'utilisation d'un moyen pour pallier ce handicap.
+Il y a discrimination lorsqu'une telle distinction, exclusion ou préférence a pour effet de détruire ou de compromettre ce droit.
+19 Tout employeur doit, sans discrimination, accorder un traitement ou un salaire égal aux membres de son personnel qui accomplissent un travail équivalent au même endroit.
+Il n'y a pas de discrimination si une différence de traitement ou de salaire est fondée sur l'expérience, l'ancienneté, la durée du service, l'évaluation au mérite, la quantité de production ou le temps supplémentaire, si ces critères sont communs à tous les membres du personnel.
+Les ajustements salariaux ainsi qu'un programme d'équité salariale sont, eu égard à la discrimination fondée sur le sexe, réputés non discriminatoires, s'ils sont établis conformément à la Loi sur l'équité salariale ( chapitre E-12.001).
+[12] Une fois qu'il est reconnu qu'une telle plainte est fondée, l'article 49 de la Charte prévoit que la victime peut obtenir réparation du préjudice moral ou matériel qui est résulté de la discrimination.
+49 Une atteinte illicite à un droit ou à une liberté reconnu par la présente Charte confère à la victime le droit d'obtenir la cessation de cette atteinte et la réparation du préjudice moral ou matériel qui en résulte.
+[13] Dans sa résolution, la Commission a mandaté madame Louise Caron-Hardy pour amener les parties à régler leur différend, et un règlement à l'amiable a été signé le 23 mars 1998 (pièce A-6). Les parties à ce règlement sont le Collectif de la plainte représenté par son conseil d'administration, le Conseil du Trésor, qui représente le Gouvernement du Québec, soit l'employeur, et la Commission.
+[14] Sans reproduire ce document, je crois qu'il est important de noter que l'employeur s'est engagé à verser à la Commission une somme de 1 300 000 $ dans le but de la faire distribuer à toutes les personnes, dont l'appelante, qui avaient été touchées durant la période entre le 9 avril 1981 et le 31 décembre 1989, et cela devait se faire selon la durée de leur séjour au sein des corps d'emplois visés, c'est-à-dire, plus précisément, selon le nombre de jours ouvrables. Cette somme a donc été repartie entre les personnes touchées (incluant l'appelante) au prorata du nombre de jours ouvrables pendant lesquels elles ont été dans des corps d'emploi visés par la plainte. Il faut noter que le Collectif de la plainte, qui représentait l'appelante, et le Conseil du Trésor étaient d'accord pour dire que les sommes versées devaient être déclarées comme un revenu aux autorités fiscales appropriées.
+[15] Sur cette dernière question, il faut souligner que l'assujettissement à l'impôt est établi par les dispositions de la Loi et non par ce dont les parties à une entente peuvent convenir. (Voir Smerchanski c. M.R.N., [1974] 1CF554, 74 DTC 6197.)
+[16] En l'espèce, il s'agit d'une décision rendue dans un litige entre un employeur et ses employés. La responsabilité de l'employeur a été reconnue par la Commission et le règlement définitif du préjudice a été négocié entre les parties concernées. Il ne s'agit donc pas d'un cas de cessation d'emploi où un employé poursuit son employeur pour congédiement injustifié ou encore, ayant quitté son emploi, l'employé reçoit des allocations de retraite. La jurisprudence sur l'imposition des sommes reçues en règlement de ce genre de litiges est quand même pertinente en l'espèce (voir Mendes-Roux c. Canada, [1997] A.C.I no 1287 (Q.L.). La distinction entre les dommages-intérêts dits spéciaux et les dommages-intérêts dits généraux y est traitée, de même que la question de l'imposition de telles sommes. Selon, la règle générale, les dommages-intérêts spéciaux sont ceux de nature tangible et pécuniaire, tels les salaires ou avantages sociaux perdus, et sont imposables, alors que les dommages-intérêts généraux sont ceux reliés à la douleur, à la souffrance physique et psychologique, et sont non imposables. C'est donc dire que les dommages-intérêts imposables sont ceux reliés au travail de l'employé, soit ceux versés pour perte de salaire ou de bénéfices, alors que sont non imposables les dommages-intérêts auxquels l'employé n'a pas eu droit en raison de son travail.
+[17] Il faut donc en l'espèce se demander si la somme perçue par l'appelante est liée à son emploi. L'appelante doit établir la véritable nature du paiement reçu. A-t-elle été dédommagée d'un préjudice moral ou d'une perte matérielle?
+[18] La preuve présentée au procès, et plus précisément le règlement du 23 mars 1998, révèle que le Conseil du Trésor, représentant le Gouvernement du Québec, est l'employeur des personnes plaignantes, y compris l'appelante. Les fonds ayant servi au règlement provenaient de l'employeur et ont été versés à la Commission conformément à l'entente afin d'être distribués aux personnes plaignantes par l'entremise de la Commission et selon une formule précise, soit au prorata du nombre de jours ouvrables pour chacune des personnes visées. La Commission les a donc versés pour et au nom de l'employeur. La compensation reçue était rendue possible parce que la Commission avait reconnu que les personnes plaignantes étaient victimes de discrimination salariale contrairement aux articles 10 et 19 de la Charte. À mon avis, la somme ainsi accordée en compensation d'une discrimination salariale, même si cette somme semble minimale comparativement au redressement établi par la convention collective de 1990, devait servir à compenser la perte de salaire subies par les personnes touchées. Il n'y a en l'espèce aucune preuve que la compensation était destinée à réparer un préjudice moral.
+[19] Pour ces motifs, je conclus que la somme en question a été accordée relativement à l'emploi de l'appelante dans le but de réparer un préjudice résultant d'une discrimination salariale. Cette somme a donc été tirée de son emploi et est en conséquence imposable en vertu du paragraphe 5(1) de la Loi.
+Signé à Ottawa, Canada, ce 15e jour d'octobre 2003.
+« François Angers »
+Juge Angers
+RÉFÉRENCE :
+2003CCI633
+No DU DOSSIER DE LA COUR :
+2002-457(IT)I
+INTITULÉ DE LA CAUSE :
+Claire Lacombe Morency et
+Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE DE L'AUDIENCE :
+le 4 mai 2003
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge François Angers
+DATE DU JUGEMENT :
+le 15 octobre 2003
+COMPARUTIONS :
+Pour l'appelant(e) :
+Me Daniel Bourgeois
+Pour l'intimé(e) :
+Me Julie David
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant(e) :
+Nom :
+Me Daniel Bourgeois
+Étude :
+Pothier Delisle, S.E.N.C.
+Sainte-Foy (Québec)
+Pour l'intimé(e) :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

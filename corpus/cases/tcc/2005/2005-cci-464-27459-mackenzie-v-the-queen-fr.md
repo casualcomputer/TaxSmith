@@ -1,0 +1,151 @@
+---
+title: "MacKenzie v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27459/index.do"
+last_modified: "2005-08-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 464"
+citation2: ""
+neutral_citation: "2005 CCI 464"
+decision_date: "2005-08-08"
+language: "fr"
+item_id: "27459"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 215
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:40:46.731000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5ee44f1cd2c41346d922833a08963732f4f7c85d6d98caa861be4960d2ef5fa0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# MacKenzie v. The Queen
+
+- Citation: 2005 CCI 464
+- Decision date: 2005-08-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 215, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+MacKenzie v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-08-08
+Référence neutre
+2005 CCI 464
+Numéro de dossier
+2004-4322(IT)I
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-4322(IT)I
+ENTRE :
+WILLIAM MacKENZIE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 20 juillet 2005 à Winnipeg (Manitoba).
+Devant : L'honorable juge L.M. Little
+Comparutions :
+Représentant de l'appelant :
+Steve Dmyterko
+Avocat de l'intimée :
+Me Julien Bédard
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année 2003 est rejeté sans dépens, selon les motifs de jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique) ce 8e jour d'août 2005.
+« L.M. Little »
+Le juge Little
+Traduction certifiée conforme
+ce 17e jour de février 2006.
+Joanne Robert, traductrice
+Référence : 2005CCI464
+Date : 20050808
+Dossier : 2004-4322(IT)I
+ENTRE :
+WILLIAM MacKENZIE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Little
+A. FAITS :
+[1] L'appelant a travaillé pour la Compagnie des chemins de fer nationaux du Canada (le CN) pendant 39 ans. Au cours de ses 20 dernières années de service, l'appelant a été chef de train de marchandises et de voyageurs.
+[2] L'appelant a pris sa retraite en janvier 2005.
+[3] Pendant l'année d'imposition 2003, l'appelant a travaillé comme chef d'un train exploité par le CN. Dans son parcours habituel, l'appelant assurait la liaison entre Winnipeg (Manitoba) et Sioux Lookout (Ontario). D'après ses dossiers, l'appelant a été absent de chez lui pendant 116 jours au cours de l'année d'imposition 2003 parce qu'il voyageait entre Winnipeg et Sioux Lookout.
+[4] Lorsque l'appelant voyageait dans l'exercice de ses fonctions, il devait payer lui-même ses repas.
+[5] À Sioux Lookout, l'appelant passait la nuit dans un pavillon-dortoir que le CN mettait à la disposition de ses employés à titre gratuit.
+[6] Quand l'appelant a établi sa déclaration de revenus pour l'année d'imposition 2003, il a indiqué des frais de repas de 45 $ par jour (trois repas x 15 $), soit 5 220 $ au total, pour les 116 jours au cours desquels il avait été à l'extérieur de Winnipeg. Il a ensuite réduit le montant de 5 220 $ de 50% pour le ramener à 2 610 $.
+[7] Le 10 mai 2004, le ministre du Revenu national (le ministre) a établi une cotisation pour la déclaration de 2003 de l'appelant; il a accepté la déclaration telle quelle.
+[8] Le 2 juin 2004, l'appelant a déposé un avis d'opposition pour l'année d'imposition 2003. Dans cet avis d'opposition, l'appelant indiquait qu'il devrait pouvoir demander une déduction équivalant à 48 $ par jour pour couvrir les frais de repas engagés lorsqu'il voyageait dans l'exercice de ses fonctions.
+B. QUESTIONS :
+[9] Les questions à trancher sont les suivantes :
+a) l'appelant a-t-il droit à un montant plus élevé que la déduction pour frais de repas de 2 610 $ qu'il a demandée à l'origine?
+b) y a-t-il des droits conférés à l'appelant par la Charte canadienne des droits et libertés qui ont été niés ou violés?
+C. ANALYSE ET CONCLUSION :
+[10] Conformément à l'alinéa 8(1)g) de la Loi de l'impôt sur le revenu (la Loi), les employés d'entreprises de transport peuvent déduire leurs frais de repas et de logement dans le calcul de leur revenu pour l'année à condition de ne pas avoir reçu de remboursement de leur employeur. Cependant, le montant déductible est limité par l'application du paragraphe 67.1(1) de la Loi.
+[11] Le paragraphe 8(1) de la Loi prévoit ce qui suit :
+8. (1) Sont déductibles dans le calcul du revenu d'un contribuable tiré, pour une année d'imposition, d'une charge ou d'un emploi ceux des éléments suivants qui se rapportent entièrement à cette source de revenus, ou la partie des éléments suivants qu'il est raisonnable de considérer comme s'y rapportant :
+[...]
+g) lorsque le contribuable a été employé par une personne dont la principale activité d'entreprise était le transport de voyageurs, de marchandises, ou de voyageurs et marchandises et que les fonctions de son emploi l'obligeaient régulièrement :
+(i) d'une part, à voyager à l'extérieur de la municipalité dans laquelle était situé l'établissement de son employeur où il devait se présenter pour son travail, et, le cas échéant, hors de la région métropolitaine où était situé cet établissement, dans des véhicules utilisés par l'employeur pour transporter les voyageurs ou marchandises,
+(ii) d'autre part, pendant qu'il était ainsi absent de cette municipalité et région métropolitaine, à engager des frais pour ses repas et son logement,
+les sommes qu'il a ainsi déboursées au cours de l'année, dans la mesure où il n'a pas le droit d'être remboursé à cet égard.
+[12] Le paragraphe 67.1(1) de la Loi est libellé comme suit :
+67.1(1) Pour l'application de la présente loi, sauf des articles 62, 63 et 118.2, un montant payé ou payable pour des aliments, des boissons ou des divertissements pris par des personnes est réputé correspondre à 50 % du moins élevé du montant réellement payé ou payable et du montant qui serait raisonnable dans les circonstances.
+[13] Selon la circulaire d'information 73-21R8 (pièce R-1), les contribuables qui veulent demander une déduction pour frais de repas peuvent utiliser la méthode détaillée ou la méthode simplifiée pour calculer la déduction. Un contribuable qui opte pour la méthode détaillée doit tenir un registre de tous les repas pris et de tous les paiements effectués pour le logement, ainsi que des pièces justificatives pour étayer les frais engagés. Si le contribuable tient de tels registres, le ministre lui accorde une déduction selon le plein montant payé, dans la mesure où le montant est raisonnable, comme l'exige le paragraphe 67.1(1). D'après la circulaire, les contribuables qui ne veulent pas tenir de registres détaillés peuvent calculer le montant de la déduction selon le nombre de repas qu'ils ont pris au cours de l'année lorsqu'ils voyageaient dans l'exercice de leurs fonctions. Le ministre accorde à ces contribuables une déduction fondée sur un montant hypothétique de 11 $ par repas, juqu'à concurrence de trois repas par jour. (Remarque : selon le témoignage de l'appelant, le montant de 11 $ par repas est passé à 15 $ par repas en 2003.)
+[14] En l'espèce, l'appelant a produit sa déclaration de revenus sans registres détaillés ni pièces justificatives. Il a tout simplement demandé 45 $ par jour (3 x 15 $) pour ses repas.
+[15] L'appelant n'a pas demandé de déduction pour frais de logement, car le CN ne faisait pas payer ses employés pour l'utilisation du pavillon-dortoir.
+[16] L'appelant a témoigné que, lorsqu'il était chef du train assurant la liaison entre Winnipeg et Sioux Lookout, il apportait un goûter dans le train et il prenait souvent un repas à un restaurant de Sioux Lookout. Quant au fait que l'appelant apportait son goûter dans le train, je m'appuie sur le passage suivant de la circulaire d'information :
+Montants déductibles pour les repas
+8. La partie admissible du coût d'un repas peut être déduite seulement si des frais ont effectivement été payés pour le repas. Règle générale, les alinéas 8(1)e), 8(1)g) et 8(1)h) de la Loi de l'impôt sur le revenu ne permettent aucune déduction pour les repas consommés par une personne qui, même si elle est admissible en application de l'un ou l'autre de ces alinéas, n'engage pas vraiment une dépense pour son repas mais apporte plutôt des aliments de la maison au travail.
+[17] À l'audience, le représentant de l'appelant, M. Dmyterko, a déposé une copie d'une directive diffusée par le ministre le 1er octobre 2002 (pièce A-1). Dans cette directive, il est précisé que, lorsque des fonctionnaires de l'Agence du revenu du Canada (l'ARC) doivent se déplacer dans l'exercice de leurs fonctions, ils peuvent demander une indemnité de 69,75 $ par jour. Ce montant est ventilé comme suit dans la directive :
+Toutes les provinces
+Petit-déjeuner
+10,95 $
+Déjeuner
+10,85 $
+Dîner
+30,45 $
+Frais accessoires
+17,50 $
+[18] Selon M. Dmyterko, les employés comme l'appelant devraient avoir droit à des indemnités de repas semblables à celles que peuvent demander les employés de l'ARC. À cet égard, je reprends les commentaires formulés par mon collègue, l'honorable juge Bowie, au paragraphe 13 de son jugement dans l'affaire Kasaboski c. Canada, [2005] A.C.I. no 245, à savoir :
+[13] M. Velle n'a fourni aucune justification pour l'argument selon lequel les routiers devraient se voir accorder les déductions pour les repas et autres dépenses selon les taux établis pour les indemnités dont n'ont pas à rendre compte les fonctionnaires en service commandé pour le gouvernement du Canada; il a seulement dit qu'il considérait que cela était juste. Je n'ai pas le pouvoir d'accorder des déductions qui ne sont pas prévues par le Parlement simplement parce que je pense qu'elles sont justes. La Loi est très précise quant aux montants qui peuvent être déduits. Lorsqu'ils sont lus ensemble, l'alinéa 8(1)g) et le paragraphe 67.1(1) permettent simplement ceci : la moitié du montant réellement payé pour les repas et le logement, dans la mesure, toujours, où un montant raisonnable a été dépensé. [...] Les indemnités versées aux fonctionnaires sont établies comme condition de leur emploi. Elles ne présentent absolument aucun intérêt pour la présente cause, sauf comme critère possible de ce qui est raisonnable pour l'application de l'article 67.1, et elles ne peuvent certainement pas établir un droit à une déduction du revenu qui n'est pas prévue par la Loi.
+[19] Je suis d'accord avec le juge Bowie.
+[20] Après un examen attentif des arguments de l'appelant et compte tenu du fait que l'appelant apportait un goûter dans le train et qu'il ne prenait pas tous ses repas au restaurant quand il voyageait dans l'exercice de ses fonctions, j'ai déterminé que le ministre avait agi de façon raisonnable en lui accordant une déduction de 45 $ par jour pour ses repas.
+[21] Si l'appelant est convaincu qu'il a dépensé plus de 45 $ par jour pour ses repas alors qu'il voyageait dans l'exercice de ses fonctions, il aurait dû conserver les reçus des montants réellement dépensés.
+[22] De plus, j'ai déterminé qu'en l'espèce, les droits de l'appelant selon la Charte canadienne des droits et libertés n'ont pas été violés.
+[23] L'appel est rejeté sans dépens.
+Signé à Vancouver (Colombie-Britannique) ce 8e jour d'août 2005.
+« L.M. Little »
+Le juge Little
+Traduction certifiée conforme
+ce 17e jour de février 2006.
+Joanne Robert, traductrice

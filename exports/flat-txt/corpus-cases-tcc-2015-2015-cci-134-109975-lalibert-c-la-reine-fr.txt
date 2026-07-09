@@ -1,0 +1,236 @@
+Title: Laliberté c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/109975/index.do
+Corpus path: corpus/cases/tcc/2015/2015-cci-134-109975-lalibert-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2015-06-02
+
+# Laliberté c. La Reine
+
+- Citation: 2015 CCI 134
+- Decision date: 2015-06-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2829, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Laliberté c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-06-02
+Référence neutre
+2015 CCI 134
+Numéro de dossier
+2012-4718(IT)I, 2012-4719(IT)G
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-4718(IT)I
+ENTRE :
+Jenny Laliberté,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu sur preuve commune avec l’appel d’Angie Laliberté (2012-4719(IT)G), le 21 janvier 2015, à Montréal (Québec).
+Devant : L'honorable juge en chef adjointe Lucie Lamarre
+Comparutions :
+Avocats de l'appelante :
+Me Gilles Doré
+Me Victor Chauvelot
+Avocat de l'intimée :
+Me Emmanuel Jilwan
+JUGEMENT
+L'appel de la cotisation établie en vertu du paragraphe 160(1) de la Loi de l'impôt sur le revenu, dont l'avis est daté du 17 août 2011 et porte le numéro 1473382, est rejeté, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 2e de juin 2015.
+« Lucie Lamarre »
+Juge en chef adjointe Lamarre
+Dossier : 2012-4719(IT)G
+ENTRE :
+Angie Laliberté,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu sur preuve commune avec l’appel de Jenny Laliberté (2012-4718(IT)I), le 21 janvier 2015, à Montréal (Québec).
+Devant : L'honorable juge en chef adjointe Lucie Lamarre
+Comparutions :
+Avocats de l'appelante :
+Me Gilles Doré
+Me Victor Chauvelot
+Avocat de l'intimée :
+Me Emmanuel Jilwan
+JUGEMENT
+L'appel de la cotisation établie en vertu du paragraphe 160(1) de la Loi de l'impôt sur le revenu, dont l'avis est daté du 17 août 2011 et porte le numéro 1473370, est rejeté, avec dépens, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 2e jour de juin 2015.
+« Lucie Lamarre »
+Juge en chef adjointe Lamarre
+Référence : 2015 CCI 134
+Date : 20150602
+Dossier : 2012-4718(IT)I
+ENTRE :
+Jenny Laliberté,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+Dossier : 2012-4719(IT)G
+ENTRE :
+Angie Laliberté,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge en chef adjointe Lamarre
+Introduction [1] Les appelantes en appellent de cotisations établies le 17 août 2011 par le ministre du Revenu national (ministre) en vertu de l’article 160 de la Loi de l’impôt sur le revenu (LIR). Cet article se lit en partie comme suit :
+Loi de l’impôt sur le revenu
+160. (1) Transfert de biens entre personnes ayant un lien de dépendance — Lorsqu’une personne a, depuis le 1er mai 1951, transféré des biens, directement ou indirectement, au moyen d’une fiducie ou de toute autre façon à l’une des personnes suivantes :
+a) son époux ou conjoint de fait ou une personne devenue depuis son époux ou conjoint de fait;
+b) une personne qui était âgée de moins de 18 ans;
+c) une personne avec laquelle elle avait un lien de dépendance,
+les règles suivantes s’appliquent :
+d) le bénéficiaire et l’auteur du transfert sont solidairement responsables du paiement d’une partie de l’impôt de l’auteur du transfert en vertu de la présente partie pour chaque année d’imposition égale à l’excédent de l’impôt pour l’année sur ce que cet impôt aurait été sans l’application des articles 74.1 à 75.1 de la présente loi et de l’article 74 de la Loi de l’impôt sur le revenu, chapitre 148 des Statuts revisés du Canada de 1952, à l’égard de tout revenu tiré des biens ainsi transférés ou des biens y substitués ou à l’égard de tout gain tiré de la disposition de tels biens;
+e) le bénéficiaire et l’auteur du transfert sont solidairement responsables du paiement en vertu de la présente loi d’un montant égal au moins élevé des montants suivants :
+(i) l’excédent éventuel de la juste valeur marchande des biens au moment du transfert sur la juste valeur marchande à ce moment de la contrepartie donnée pour le bien,
+(ii) le total des montants représentant chacun un montant que l’auteur du transfert doit payer en vertu de la présente loi (notamment un montant ayant ou non fait l’objet d’une cotisation en application du paragraphe (2) qu’il doit payer en vertu du présent article) au cours de l’année d’imposition où les biens ont été transférés ou d’une année d’imposition antérieure ou pour une de ces années.
+Toutefois, le présent paragraphe n’a pas pour effet de limiter la responsabilité de l’auteur du transfert en vertu de quelque autre disposition de la présente loi ni celle du bénéficiaire du transfert quant aux intérêts dont il est redevable en vertu de la présente loi sur une cotisation établie à l’égard du montant qu’il doit payer par l’effet du présent paragraphe.
+[…]
+(4) Règles concernant les transferts à un époux ou conjoint de fait — Malgré le paragraphe (1), lorsqu’un contribuable a transféré un bien à son époux ou conjoint de fait en vertu d’une ordonnance ou d’un jugement d’un tribunal compétent ou en vertu d’un accord écrit de séparation et que, au moment du transfert, le contribuable et son époux ou conjoint de fait vivaient séparément par suite de la rupture de leur mariage ou union de fait, les règles suivantes s’appliquent :
+a) relativement à un bien ainsi transféré après le 15 février 1984:
+(i) l’époux ou conjoint de fait ne peut être tenu, en vertu du paragraphe (1), de payer un montant relatif au revenu provenant du bien transféré ou du bien qui y est substitué ou un montant relatif au gain provenant de la disposition du bien transféré ou du bien qui y est substitué,
+(ii) pour l’application de l’alinéa (1)e), la juste valeur marchande du bien au moment du transfert est réputée être nulle;
+b) relativement à un bien ainsi transféré avant le 16 février 1984, lorsque l’époux ou conjoint de fait serait, sans le présent alinéa, tenu de payer un montant en application de la présente loi en vertu du paragraphe (1), il est réputé s’être acquitté de son obligation relativement à ce montant le 16 février 1984;
+aucune disposition du présent paragraphe n’a toutefois pour effet de réduire les obligations du contribuable en vertu d’une autre disposition de la présente loi.
+Faits et remarques préliminaires [2] Les appelantes sont les filles de monsieur Bertrand Joyal, et elles sont donc des personnes liées en vertu de l’alinéa 251(2)a) de la LIR.
+[3] Monsieur Joyal est un prévenu incarcéré depuis avril 2009. Il a été précédemment incarcéré de 1987 à 1990 et de mars 2001 à octobre 2005.
+[4] Le 15 janvier 2015, j’ai signé une ordonnance l’autorisant à venir témoigner à l’audition des présents appels. J’ai accepté en cour, à la demande de l’avocat des appelantes, qui agit également comme avocat pour Bertrand Joyal, que le témoignage de ce dernier soit protégé en vertu de l’article 5 de la Loi sur la preuve au Canada.
+[5] Bertrand Joyal est redevable envers le ministre d’une dette fiscale totalisant environ 74 000 $ découlant de cotisations établies pour les années 1998, 1999, 2000, 2001, 2002, 2003 et 2006.
+[6] Bertrand Joyal est le dernier d’une famille de sept enfants issus de Simone Leblanc et de Paul-Émile Joyal (les parents), tous deux décédés en même temps dans un accident d’automobile survenu le 21 juillet 2005.
+[7] Par testament, les parents ont tout légué à leurs sept enfants en parts égales.
+[8] Bertrand Joyal et son frère Robert Joyal étaient les liquidateurs de la succession.
+[9] Le 21 mars 2006, Angie Laliberté a déposé dans son compte bancaire un chèque de 23 000 $ émis par la Succession Paul-Émile Joyal (la Succession) à l’ordre de Bertrand Joyal et endossé par ce dernier.
+[10] Le 21 juillet 2006, la Succession a émis un chèque de 7 500 $ au nom de Bertrand Joyal. Ce chèque a été endossé par ce dernier de même que par Jenny Laliberté et les fonds ont été déposés par cette dernière dans son compte bancaire personnel.
+[11] Le ministre a considéré que Bertrand Joyal a transféré ces sommes d’argent à ses deux filles sans contrepartie de ces dernières.
+[12] En conséquence, le ministre soutient que les appelantes sont solidairement responsables de la dette fiscale de leur père pour le montant qu’elles ont respectivement reçu de ce dernier, aux termes de l’alinéa 160(1)e) de la LIR.
+[13] Dans leurs avis d’opposition présentés au ministre (pièces I-1 et I-2) de même que dans leurs avis d’appel, les appelantes ont soutenu comme seul argument que Bertrand Joyal n’a jamais été le bénéficiaire ou le propriétaire légitime de l’héritage de ses parents, mais a simplement servi de « transit » pour que l’héritage puisse être remis à ses filles conformément au vœu exprimé par ses parents de leur vivant. Il n’y aurait donc pas eu transfert.
+[14] Dans un affidavit signé le 24 juillet 2012 (pièce I-3), Robert Joyal reconnaît que le testament de ses parents prévoyait qu’en cas de décès simultanés tous leurs avoirs iraient en parts égales à leurs sept enfants. Il ajoute que ses parents avaient toutefois exprimé le souhait que leurs enfants partagent leur héritage avec leurs petits-enfants et, « plus particulièrement, [qu’ils fassent] en sorte que leurs terres à bois et élevage de wapitis restent dans la famille et soient perpétués par certains de leurs petits enfants » (pièce I-3, par. 6-7). Il ajoute qu’à sa connaissance c’est « [son] frère Bertrand qui a respecté ce vœu en facilitant l’achat et l’exploitation par ses deux filles de ces entreprises à même l’héritage » (par. 8).
+[15] Lors de l’audience, l’avocat des appelantes a fait entendre les deux appelantes, leur père Bertrand Joyal, de même que leur tante Aline Joyal. Il est ressorti de sa preuve qu’il entendait soulever un deuxième argument, jamais soulevé jusque-là, à savoir que les appelantes avaient versé une contrepartie au moins égale à l’argent reçu de leur père.
+[16] L’avocat de l’intimée a voulu s’opposer à cette preuve au motif qu’il était pris au dépourvu et que les appelantes n’avaient pu être interrogées au préalable sur cette question. L’avocat des appelantes a rétorqué qu’il avait fait part à l’avocate représentant l’intimée précédemment de son intention de procéder ainsi. Il a également mentionné qu’il avait le droit de présenter une telle preuve puisque l’un des motifs du ministre à la base des deux cotisations est précisément que les appelantes n’ont pas donné de contrepartie.
+[17] J’ai laissé les appelantes faire leur preuve. J’estime que les appelantes pouvaient soulever ce nouvel argument à l’audience puisque, d’une part, l’avocat des appelantes avait avisé l’ancienne avocate de l’intimée de son intention, ce qui n’est pas nié par l’avocat de l’intimée. D’autre part, l’un des appels est régi par la procédure informelle (il n’y a pas d’interrogatoire préalable prévu dans le cas de cette procédure) et l’autre appel est régi par la procédure générale, mais je n’ai pas d’indications que le montant d’impôt en jeu est suffisamment élevé pour donner automatiquement le droit de procéder à un interrogatoire sans l’accord des deux parties (paragraphe 17.3(1) de la Loi sur la Cour canadienne de l’impôt).
+Faits ressortis de l’audience [18] Les grands-parents étaient agriculteurs et ils ont vendu leur terre agricole en 1978. Ils ont conservé une terre à bois sur laquelle ils élevaient des wapitis pour leur plaisir. Bertrand Joyal s’occupait de l’entretien de cette terre avec ses parents avant d’être incarcéré en 2001. Par la suite, ses filles ont aidé leurs grands‑parents pour corder le bois.
+[19] Selon Bertrand Joyal, ses parents ont toujours voulu que la terre reste dans la famille, et plus particulièrement, ils auraient favorisé ses filles (les appelantes), qui y ont passé beaucoup de temps.
+[20] Après 1994, Bertrand Joyal a eu deux autres enfants, issus d’une autre union.
+[21] Il ressort du témoignage de ce dernier que les deux appelantes allaient voir leur père en prison régulièrement, généralement de façon hebdomadaire. Elles lui apportaient de l’argent pour la cantine. Selon Bertrand Joyal, elles lui remettaient 75 $ par semaine.
+[22] Il a également mentionné qu’Angie s’occupait, pendant son incarcération, des maisons desquelles il tirait un revenu de location. Elle encaissait les revenus de loyer et faisait les paiements hypothécaires. Elle pouvait s’occuper à l’occasion de certaines tâches reliées à la location de ces maisons.
+[23] Quant à Jenny, elle se serait occupée de façon régulière des enfants issus de sa deuxième union.
+[24] Bertrand Joyal parlait à ses filles presque quotidiennement au téléphone à frais virés, lesquels frais étaient, semble-t-il, assumés par les appelantes.
+[25] Bertrand Joyal a mentionné qu’il s’était engagé verbalement auprès d’elles à les dédommager un jour pour les services qu’elles lui rendaient. Il soutient que c’est ce qu’il a fait en leur remettant sa part de l’héritage de ses parents.
+[26] En contre-interrogatoire, Bertrand Joyal a reconnu que ses filles n’étaient pas désignées comme héritières dans le testament de ses parents. Il a également mentionné que ses filles avaient constitué en 2006 une société, y injectant l’argent qu’il leur avait cédé de l’héritage, et cette société a par la suite racheté la terre de la succession.
+[27] Bertrand Joyal a reconnu qu’il n’a jamais tenu un état de compte de ce qu’il estimait devoir à ses filles pour les services rendus.
+[28] Angie est assistante dentaire et travaille dans une clinique depuis 2005. À compter de 2002, elle dit être allée voir son père régulièrement en prison avec sa sœur Jenny et ses demi-frère et demi-sœur. Elle confirme s’être occupée, à compter de 2001, de la location des maisons pour son père, alors qu’elle était âgée de 16 ans (elle a dit qu’elle avait 9 ans en 1994). Elle s’occupait de percevoir les loyers, payer les hypothèques, les taxes et l’électricité. Elle aurait pris en charge tous les problèmes des locataires. Puisqu’elle avait une voiture, elle s’occupait, de plus, d’emmener son demi-frère à ses joutes de hockey. Par ailleurs, durant toute cette période où son père était incarcéré, et à la demande de ce dernier, elle allait également, si possible, passer tous les week-ends à corder du bois et à nourrir les bêtes sur la terre pour aider ses grands‑parents. En plus de toutes ces tâches, elle allait à l’école et travaillait dans un dépanneur.
+[29] Elle dit qu’elle n’a jamais calculé le montant auquel elle avait droit pour tous les services rendus, mais conclut que cela dépassait certainement la somme de 23 000 $ que lui a remis son père.
+[30] Lors de sa sortie de prison, Bertrand Joyal serait revenu travailler à temps plein sur la terre. Il recevait un salaire de la société constituée par ses filles. Il habitait alors avec Angie.
+[31] Les maisons desquelles il tirait un revenu de location auraient été vendues par suite de sa réincarcération en 2009.
+[32] Angie confirme que son père lui a toujours dit qu’elle serait récompensée pour les services qu’elle avait rendus. Apparemment, il mentionnait ceci dans ses cartes de Noël.
+[33] En contre-interrogatoire, elle a dit ne pas avoir de copies des factures établissant les frais de téléphone qu’elle aurait assumés pendant l’incarcération de son père. Elle n’avait pas non plus de documents écrits mentionnant que son père s’était engagé à dédommager ses filles pour les services rendus.
+[34] Elle a dit qu’il n’y avait pas d’employés à temps plein sur la terre pendant l’emprisonnement de son père et qu’elle-même travaillait à temps plein ailleurs. Ils se sont départis des animaux depuis.
+[35] De son côté, Jenny Laliberté est assistante technique en pharmacie. Elle a terminé son diplôme d’études professionnelles en 2006 et elle travaille depuis dans son domaine. Elle dit qu’à la demande de son père, au cours de la période où son père s’est retrouvé en prison, elle s’est occupée de nourrir ses demi-frère et demi-sœur, de même que de faire le lavage, ainsi que l’entretien du terrain de la maison où habitaient les enfants. Elle les aurait gardés tous les week-ends sans être payée. Quand elle a eu sa propre voiture à l’âge de 17 ans, elle allait voir régulièrement son père en prison avec les autres enfants. Elle n’a jamais fait le calcul, mais considère que l’argent reçu de son père n’excède pas le montant qu’il lui devait pour les services qu’elle lui aurait rendus. Elle a également mentionné que son père lui avait dit (entre autres dans ses cartes de Noël, qu’elle n’avait pas, elle non plus, avec elle) qu’elle serait dédommagée un jour pour ses services.
+[36] En contre-interrogatoire, elle a reconnu que c’était la mère des enfants de la deuxième union de son père qui recevait les prestations fiscales pour enfants pour ses enfants. Elle-même n’a jamais réclamé un salaire de la mère, qui, selon Jenny, n’avait pas les moyens de la payer.
+[37] Elle a également reconnu qu’il n’y avait pas eu de dispositions légales qui avaient été prises par ses grands-parents, par testament ou autrement, pour qu’elle et sa sœur héritent de leur patrimoine ou pour que la terre leur revienne à elles.
+[38] Quant à Aline Joyal, la sœur de Bertrand et de Robert Joyal, elle a simplement dit que son père lui avait dit avant son accident mortel qu’Angie en avait beaucoup sur les épaules et qu’il espérait que son fils Bertrand la récompenserait un jour.
+[39] Madame Odette Lefebvre, l’agente des appels pour l’Agence du revenu du Canada (ARC) qui a traité l’opposition des appelantes, a témoigné pour dire que jamais on n’a porté à son attention le fait que l’argent de l’héritage avait été remis aux appelantes pour les dédommager des services qu’elles auraient rendus à leur père. En d’autres termes, aucun argument n’avait été soulevé quant à une contrepartie qui aurait été donnée par les appelantes en échange de l’argent reçu de leur père. Le seul argument soulevé était que la volonté des défunts était de léguer directement la part de Bertrand Joyal à ses filles. Elle a jugé qu’il n’y avait pas d’éléments dans le document soumis pour lui permettre de conclure dans ce sens et elle a confirmé les cotisations établies en vertu de l’article 160 de la LIR.
+Arguments des parties [40] L’avocat des appelantes a soutenu que l’héritage que Bertrand Joyal a reçu de ses parents lui était dévolu à titre d’aliments insaisissables et que, s’il avait voulu éluder le paiement de sa dette fiscale, il aurait pu se prévaloir du caractère insaisissable de cet héritage. Il n’a rien soumis pour appuyer cet argument.
+[41] Les appelantes soutiennent également qu’elles ont reçu un mandat verbal de leur père d’exécuter les services qu’elles ont rendus et qu’il y avait engagement verbal de les dédommager tant pour les services rendus que pour les débours engagés par elles pour son compte. Ce mandat aurait été défini au fur et à mesure que les gestes auraient été posés. Selon l’avocat des appelantes, leurs témoignages n’ont pas été ébranlés en contre-interrogatoire et font foi de la réalité des événements. Selon lui, la crédibilité des témoignages n’a pas été remise en question. Il considère donc que la preuve a été faite que les appelantes avaient donné une contrepartie en échange des sommes reçues.
+[42] Les appelantes soutiennent finalement que ces sommes leur ont été versées pour exaucer le vœu de leurs grands-parents que la terre passe dans leur patrimoine. Leur père ne leur aurait donc pas transféré ces sommes, qui leur auraient plutôt été transmises directement de la succession.
+[43] L’intimée, de son côté, soutient qu’il n’y a aucune disposition dans le testament faisant des appelantes les bénéficiaires de la succession et qu’il y a eu en conséquence transfert d’argent par Bertrand Joyal, l’un des héritiers de la succession, en faveur de ses filles.
+[44] Quant à la question de la contrepartie qui aurait été donnée par les appelantes, l’avocat de l’intimée soutient que leur crédibilité est entachée du seul fait de n’avoir jamais soulevé cet argument auparavant. C’est la première fois que l’on invoque la question du mandat. Selon lui, si cela avait été réaliste, les appelantes n’auraient pas attendu le procès avant de l’invoquer. Cette thèse est d’autant moins crédible qu’elles n’ont soumis aucune pièce justificative pour appuyer une entente verbale qu’il qualifie de floue et de non quantifiée. Selon lui, les témoignages avaient un caractère purement intéressé et il faut en tirer une inférence négative. Il conclut, en s’appuyant sur l’affaire Logiudice c. Canada, [1997] A.C.I. no 742 (QL), au paragraphe 16, que les appelantes n’ont pas fait la démonstration d’une véritable entente contractuelle.
+[45] Quant aux services rendus par les appelantes pour le soin des enfants issus de la deuxième union de leur père, l’intimée a cité l’arrêt Yates c. Canada, 2009 CAF 50, [2010] 1R.C.F. 436, [2009] A.C.F. no 207 (QL), pour soutenir que, si les paiements faits par un conjoint à l’autre pour satisfaire à son obligation de subvenir aux besoins de sa famille ne sont pas une contrepartie au sens de l’article 160 de la LIR, le même raisonnement s’applique aux paiements faits aux filles de Bertrand Joyal pour subvenir aux besoins de leurs demi-frère et demi‑sœur.
+Analyse [46] S’il est vrai qu’un témoignage crédible ne nécessite aucun document d’appui pour établir un point (Hickman Motors Ltd. c. Canada, [1997] 2 R.C.S. 336, par. 87), encore faut-il être convaincu de la crédibilité des témoignages entendus en cour. Les appelantes devaient présenter une preuve prima facie que les hypothèses du ministre prises en compte pour établir les cotisations étaient erronées.
+[47] Dans l'arrêt Amiante Spec Inc. c. Canada, 2009 CAF 139, [2009] A.C.F. no 603 (QL), la Cour a expliqué comme suit, au paragraphe 23, ce qu'est une preuve prima facie :
+Une preuve prima facie est celle qui est « étayée par des éléments de preuve qui créent un tel degré de probabilité en sa faveur que la Cour doit l’accepter si elle y ajoute foi, à moins qu’elle ne soit contredite ou que le contraire ne soit prouvé. Une preuve prima facie n’est pas la même chose qu’une preuve concluante, qui exclut la possibilité que toute conclusion autre que celle établie par cette preuve soit vraie » (Stewart c. Canada, [2000] T.C.J. No. 53 au paragraphe 23).
+[48] En l’espèce, le ministre a tenu pour acquis que Bertrand Joyal a transféré le produit de son héritage aux appelantes sans que celles-ci ne lui donnent aucune contrepartie.
+[49] Je suis d’avis que les appelantes n’ont pas établi par une preuve prima facie que ces allégations du ministre sont erronées.
+Transfert du produit de l’héritage [50] Quant à la question du transfert de l’héritage, les témoins des appelantes ont tous reconnu que les dispositions testamentaires ne prévoyaient aucunement que les appelantes étaient bénéficiaires de la succession. Les appelantes elles‑mêmes, dans leurs avis d’appel, à l’alinéa 6 iv, le confirment :
+6. Souhaitant rétablir les faits par le présent pourvoi, l’Appelante expose respectueusement ce qui suit;
+[…]
+iv. L’Appelante n’étant pas légataire testamentaire de la succession, le chèque fut d’abord émis à l’ordre de monsieur Bertrand Joyal, lui-même légataire universel, puis fut endossé par celui-ci afin que l’héritage puisse être remis, le tout tel qu’il appert de la pièce P5.
+[51] Selon le droit civil québécois, la succession d’une personne s’ouvre par son décès et elle est dévolue suivant les prescriptions de la loi, à moins que le défunt n’ait, par ses dispositions testamentaires, réglé autrement la dévolution de ses biens (art. 613 du Code civil du Québec (CcQ)).
+[52] Le successible a le droit d’accepter la succession ou d’y renoncer (art. 630 CcQ). L’acceptation est expresse ou tacite. Elle est expresse quand le successible prend formellement le titre ou la qualité d’héritier; elle est tacite quand le successible fait un acte qui suppose nécessairement son intention d’accepter (art. 637 CcQ).
+[53] La renonciation, par contre, ne peut être tacite. Elle doit être expresse et prendre la forme d’un acte notarié en minute ou se faire par déclaration judiciaire dont il est donné acte (art. 646 CcQ).
+[54] Par ailleurs, l’acceptation confirme la transmission qui s’est opérée de plein droit au moment du décès (art. 645 CcQ).
+[55] En l’instance, il n’y a aucune preuve que Bertrand Joyal a renoncé à sa part de la succession de ses parents et qu’il n’a jamais été le bénéficiaire ou le propriétaire légitime de l’héritage de ses parents. Au contraire, la succession, dont il était l’un des liquidateurs, a tiré deux chèques à son nom. En endossant ces chèques et en les remettant ensuite à ses filles, il faisait un acte qui supposait nécessairement son intention d’accepter. En agissant ainsi, il confirmait la transmission de sa part de l’héritage par ses parents en sa faveur, laquelle s’est opérée au moment du décès, tel qu’il est prévu à l’article 645 du CcQ.
+[56] En cédant ensuite sa part de l’héritage à ses filles, Bertrand Joyal leur a donc transféré ces sommes d’argent. Il y a eu transfert au sens de l’article 160 de la LIR (voir Banks c. Canada, 2011 CCI 415, [2011] G.S.T.C. 130 où la Cour a jugé que le fait d’endosser un chèque constituait un transfert, au sens de l’article 160 de la LIR, en faveur de la personne qui recevait ce chèque endossé).
+[57] De fait, les appelantes ont déposé le montant des chèques endossés par leur père dans leur compte bancaire personnel et ont ensuite investi ces montants dans une société qu’elles ont constituée dans le but de racheter la terre à bois de la succession des grands‑parents. La preuve ne révèle pas que Bertrand Joyal ait conservé un droit sur ce patrimoine et que ses filles aient agi comme son mandataire. Au contraire, il ressort des témoignages que, lorsqu’il est retourné travailler sur la ferme après sa sortie de prison, il recevait un salaire que lui versait la société. La preuve révèle également que Bertrand Joyal avait vraiment eu l’intention de remettre ces sommes aux appelantes à leur bénéfice personnel et de leur céder le droit d’en disposer librement.
+[58] J’estime donc que, les chèques ayant été remis aux appelantes, il y a eu appauvrissement du patrimoine de Bertrand Joyal et enrichissement de celui des appelantes. Il y a eu transfert de biens au sens de l’article 160 de la LIR (voir La Reine c. 9101-2310 Québec Inc., 2013 CAF 241, 2013 DTC 5170, par. 55-61; La Reine c. Lemire, 2013 CAF 242, 2013 DTC 5171, par. 30).
+Insaisissabilité [59] Quant à l’argument que l’héritage reçu par Bertrand Joyal avait un caractère insaisissable et que le fisc n’avait aucune prise là-dessus, même après que cet héritage eut été transféré à ses filles, cet argument ne tient pas.
+[60] L’insaisissabilité dont semblent se prévaloir les appelantes serait prévue au paragraphe 553(4) du Code de procédure civile du Québec (CpcQ). Je reproduis ci‑après les dispositions pertinentes de l’article 553 CpcQ :
+Chapitre C-25
+Code de procédure civile
+Section III
+Des choses qui ne peuvent être saisies
+[…]
+553. Sont insaisissables:
+[…]
+3. Les biens donnés ou légués sous condition d'insaisissabilité; néanmoins, ces biens peuvent être saisis à la poursuite des créanciers postérieurs à la donation ou à l'ouverture du legs, avec la permission du juge et pour la portion qu'il détermine;
+4. Les aliments accordés en justice, de même que les sommes données ou léguées à titre d'aliments, encore que le titre qui les a constituées ne les ait pas déclarées insaisissables.
+[…]
+[61] En édictant l’article 160 de la LIR, le législateur n’a pas assujetti le ministre aux règles d’insaisissabilité édictées par les provinces, comme il l’a fait au paragraphe 225(5) de la LIR, tel qu’il se lisait alors :
+Loi de l’impôt sur le revenu
+225. (1) Saisie des biens meubles — Lorsqu’une personne n’a pas payé un montant exigible en vertu de la présente loi, le ministre peut lui donner un avis au moins 30 jours avant qu’il procède, par lettre recommandée à la dernière adresse connue de cette personne, de son intention d’ordonner la saisie et la vente des biens meubles de cette personne; si, au terme des 30 jours, la personne est encore en défaut de paiement, le ministre peut délivrer un certificat de défaut et ordonner la saisie des biens meubles de cette personne.
+[…]
+(5) Insaisissabilité — Les biens meubles de toute personne en défaut qui seraient insaisissables malgré un bref d’exécution décerné par une cour supérieure de la province dans laquelle la saisie est opérée sont exempts de saisie en vertu du présent article.
+[62] Il semble donc que, lorsque le législateur fédéral désire assujettir ses mesures de recouvrement aux règles d’insaisissabilité édictées par les provinces, il le fait de façon expresse (voir Bouchard c. Canada (Procureur général), 2009 CAF 321, 2009 DTC 5183, par. 18‑20).
+[63] De plus, la preuve révèle que les appelantes ont investi l’héritage de leur père dans une société. Étant donné que cet investissement constitue un remploi, le caractère insaisissable de l’héritage ne tient plus, tel qu’il a été décidé dans l’affaire 6149812 Canada Inc. c. La Reine, 2009 CCI 442, 2009 DTC 1285. De fait, cette interprétation restrictive est reprise par la Cour d’appel fédérale dans Gauthier (Succession) c. La Reine, 2010 CAF 228, 2010 DTC 5147 au paragraphe 10, qui évoque que l’insaisissabilité est l’exception plutôt que la norme :
+La Cour suprême dans Poulin [c. Serge Morency & associés Inc., [1999] 3 R.C.S. 351] s’en remet aux articles 2644 et 2645 du C.c.Q. pour énoncer le principe selon lequel la saisissabilité est la règle et l’insaisissabilité est l’exception (Poulin, paragraphe 18). Plus précisément, la Cour indique que (idem) :
+Les dispositions dérogeant à ce principe doivent être interprétées de façon restrictive : […]. De plus, étant donné [qu’elles] affectent les droits des créanciers, on est en droit de s’attendre à ce qu’elles soient formulées en des termes clairs et précis.
+[64] Ainsi, en l’absence de termes clairs, les appelantes ne peuvent invoquer l’insaisissabilité de la somme reçue pour contrecarrer l’application de l’article 160 de la LIR.
+Contrepartie [65] Je suis d’accord avec l’avocat de l’intimée que le fait de soulever si tardivement l’argument que Bertrand Joyal a donné un mandat à ses filles de lui rendre des services, pour lesquels elles auraient été dédommagées, nuit à la crédibilité de leurs prétentions. De plus, il m’apparaît invraisemblable que ces deux jeunes filles encore aux études aient eu à accomplir toutes les tâches qu’elles disent avoir exécutées.
+[66] Angie travaillait dans un dépanneur tout en étudiant pour devenir assistante dentaire. Il est difficile de croire qu’en sus de cela elle se soit occupée de toute la gestion des maisons louées et du transport de son demi-frère pour ses activités sportives et qu’elle soit aussi allée à chaque week-end s’occuper de corder le bois. Angie a dit qu’elle avait 9 ans en 1994, et avait donc entre 16 ans et 20 ans au cours de la période où son père a été incarcéré pour la deuxième fois (2001‑2005). Elle aurait fait tout ceci en plus d’avancer elle-même 75 $ par semaine à son père, qu’elle allait voir hebdomadairement en prison. Elle aurait aussi payé les appels téléphoniques à frais virés, qu’elle a elle-même qualifiés de dispendieux, et elle payait elle‑même son essence.
+[67] Toute cette histoire ne me convainc pas. Non seulement il n’est pas crédible qu’elle ait eu l’argent nécessaire pour couvrir les dépenses de son père en sus des siennes, mais elle était une étudiante, bien jeune pour accepter de faire toutes ces tâches.
+[68] Quant à Jenny, qui est plus jeune qu’Angie, la preuve n’est pas plus crédible. Il est bien difficile de croire qu’elle devait assumer la responsabilité de deux jeunes enfants, alors qu’elle aussi était aux études. De plus, ces enfants avaient une mère qui recevait les prestations fiscales pour l’entretien de ses enfants.
+[69] Compte tenu de la force peu probante que j’accorde à ces témoignages, il aurait fallu que les appelantes étayent leurs affirmations avec une preuve plus solide, comme par exemple des comptes rendus plus détaillés de leurs activités ou des états bancaires montrant les entrées et les retraits faits dans leurs comptes personnels, pour établir qu’elles remettaient de l’argent qui leur appartenait à leur père. Le témoignage de la mère des jeunes enfants aurait peut-être aussi aidé leur cause.
+[70] Je suis d’avis que leurs seuls témoignages, de même que celui de leur père, ne créent pas un tel degré de probabilité en leur faveur pour que je leur accorde foi, en ce qu’ils étaient peu probables et étaient intéressés. Je suis d’accord avec l’intimée que les appelantes n’ont pas fait la preuve d’une réelle entente contractuelle avec leur père.
+[71] Dans ce contexte, elles n’ont pas fait la démonstration prima facie que l'hypothèse du ministre voulant qu’elles n'aient donné aucune contrepartie en échange de l’argent que leur a transféré leur père, était erronée. Compte tenu de ma conclusion, il ne m’est pas nécessaire d’aborder la question de l’application de l’arrêt Yates, cité par l’intimée dans son argumentation.
+[72] Les cotisations établies en vertu de l’article 160 de la LIR sont donc bien fondées.
+Décision [73] Les appels sont rejetés.
+Signé à Ottawa, Canada, ce 2e jour de juin 2015.
+« Lucie Lamarre »
+Juge en chef adjointe Lamarre
+RÉFÉRENCE :
+2015 CCI 134
+NºS DES DOSSIERS DE LA COUR :
+2012-4718(IT)I et 2012-4719(IT)G
+INTITULÉS DES CAUSES :
+Jenny Laliberté c. LA REINE et ANGIE LALIBERTÉ c. LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Le 21 janvier 2015
+MOTIFS DE JUGEMENT PAR :
+L'honorable Lucie Lamarre, juge en chef adjointe
+DATE DU JUGEMENT :
+Le 2 juin 2015
+COMPARUTIONS :
+Avocats des appelantes :
+Me Gilles Doré
+Me Victor Chauvelot
+Avocat de l'intimée :
+Me Emmanuel Jilwan
+AVOCATS INSCRIT AU DOSSIER :
+Pour les appelantes:
+Nom :
+Me Gilles Doré
+Me Victor Chauvelot
+Cabinet :
+Mes Gilles Doré et Victor Chauvelot, avocats, Outremont, Québec
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

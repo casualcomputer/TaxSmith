@@ -1,0 +1,230 @@
+Title: Hatt c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/111396/index.do
+Corpus path: corpus/cases/tcc/2015/2015-cci-207-111396-hatt-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2015-08-19
+
+# Hatt c. La Reine
+
+- Citation: 2015 CCI 207
+- Decision date: 2015-08-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2630, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hatt c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-08-19
+Référence neutre
+2015 CCI 207
+Numéro de dossier
+2013-2904(IT)I
+Juges et Officiers taxateurs
+Steven K. D'Arcy
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013‑2904(IT)I
+ENTRE :
+JANET HATT,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu les 14 novembre 2013 et 3 septembre 2014 à Yarmouth (Nouvelle‑Écosse) et observations écrites déposées le 30 octobre 2014 et le 5 janvier 2015.
+Devant : L’honorable juge Steven K. D’Arcy
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocats de l’intimée :
+Me Marcel Prevost
+Me Emma Baasch
+JUGEMENT
+Conformément aux motifs du jugement ci‑joints, l’appel interjeté à l’égard de la nouvelle cotisation établie sous le régime de la Loi de l’impôt sur le revenu relativement à l’année d’imposition 2010 est accueilli et la nouvelle cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation au motif que l’appelante avait le droit de déduire une perte autre qu’en capital de 20 302 $ dans le calcul de son revenu imposable pour 2010.
+La Cour accorde à l’appelante des dépens de 500 $, plus les débours.
+Signé à Antigonish (Nouvelle‑Écosse) ce 19e jour d’août 2015.
+« S. D’Arcy »
+Juge D’Arcy
+Traduction certifiée conforme
+ce 8e jour d’octobre 2015.
+S. Tasset
+Référence : 2015 CCI 207
+Date : 20150819
+Dossier : 2013‑2904(IT)I
+ENTRE :
+JANET HATT,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge D’Arcy
+[1] La question dans cet appel est de savoir si l’appelante a le droit de déduire pour son année d’imposition 2010 une perte autre qu’en capital résultant d’un emploi.
+Résumé des faits [2] Le gouvernement du Canada a eu l’appelante à son service de juillet 1978 à octobre 2007. Celle‑ci a travaillé dans divers ministères et organismes, à savoir le Bureau du vérificateur général, Travaux publics et Services gouvernementaux Canada et Citoyenneté et Immigration Canada.
+[3] Du 26 juillet 2003 au 18 octobre 2007, date de sa retraite, elle a été en congé non payé. Pendant cette période, elle était au service d’un organisme international à l’étranger.
+[4] Elle a quitté le Canada en 2003 et n’y est pas revenue avant mars 2010. Les deux parties conviennent que, pendant cette période, l’appelante était une non‑résidente du Canada pour l’application de la Loi de l’impôt sur le revenu (ci‑après la « Loi »).
+[5] En 2007, l’appelante a reçu les deux paiements suivants du gouvernement fédéral à sa retraite :
+− Un paiement de 2 497,44 $ en crédits inutilisés de congé annuel (ci‑après le « revenu de congé annuel de 2 497,44 $ »)[1];
+− Une indemnité de cessation d’emploi de 43 255 $ aussi appelée allocation de retraite (ci‑après l’« allocation de retraite de 43 255 $ »).
+[6] L’appelante a versé dans son régime de pension agréé des cotisations de 22 384 $ à l’égard de cette allocation de retraite de 43 255 $ (ci‑après le « paiement de 22 384 $ au RPA »). Elle a expliqué avoir effectué ce paiement pour que les années qu’elle passerait en congé non payé comptent dans le calcul de sa pension annuelle[2].
+[7] Le gouvernement fédéral a produit par la suite deux feuillets d’information pour les deux paiements en question. Le premier était un T4 faisant état du revenu de congé annuel de 2 497,44 $ et du paiement au RPA de 22 384 $. Le second était un T4A faisant état de l’allocation de retraite de 43 255 $ et d’une retenue d’impôt sur le revenu de 6 261,47 $[3].
+[8] Ayant examiné le T4 et le T4A, l’appelante a pensé que le gouvernement fédéral n’avait pas retenu le bon montant d’impôt sur son allocation de retraite de 43 255 $. C’est pourquoi elle a produit, pendant qu’elle était une non‑résidente du Canada, pour son année d’imposition 2007 une déclaration de revenus faisant état du revenu de congé annuel de 2 497,44 $, de l’allocation de retraite de 43 255 $ et du revenu de pension reçu par elle en 2007 après son passage à la retraite. Elle a aussi déclaré le paiement de 22 384 $ au RPA et la retenue d’impôt sur le revenu de 6 261,47 $ sur l’allocation de retraite de 43 255 $[4].
+[9] Le ministre a produit par la suite trois avis de cotisation distincts pour ces éléments de la déclaration de revenus de l’appelante en 2007.
+[10] Le premier avis de cotisation est daté du 30 avril 2009 et fait état d’un solde nul (ci‑après la « cotisation faisant état d’un solde nul »). Il fait état de ce qui suit pour l’année d’imposition 2007 de l’appelante :
+− Revenu total : 2 497 $
+− Déductions du revenu total : 22 799 $
+− Revenu net : 0
+− Revenu imposable : 0
+− Montant versé en trop au RPC : 123,62 $[5].
+[11] La preuve dont je suis saisi et que les parties acceptent est que les 2 497 $ représentent un revenu tiré d’un emploi, qu’il s’agit du revenu de congé annuel du même montant et que les 22 799 $, sont quant à eux des montants pouvant être déduits de ce revenu d’emploi en vertu du paragraphe 8(1) de la Loi. Les 22 799 $ comprennent les 22 384 $ du paiement au RPA et 415 $ en cotisations syndicales et professionnelles annuelles et autres cotisations semblables[6].
+[12] L’avis de cotisation faisant état d’un solde nul s’accompagne de deux pages d’observations écrites sous le titre « Explication des changements et autres renseignements importants ». Voici une de ces observations : [traduction] « Nos dossiers montrent que vous avez des pertes autres qu’en capital inutilisées pouvant être reportées sur d’autres années. Le montant pouvant être reporté sur d’autres années est de 20 302 $[7] ». Cette somme correspond à la différence entre le revenu total (2 497 $) et les déductions sur ce revenu total (22 799 $) dont fait état l’avis de cotisation.
+[13] Le deuxième avis de cotisation est daté du 22 juillet 2009. Il s’agit d’une cotisation établie en vertu de la partie XIII de la Loi de l’impôt sur le revenu (ci‑après la « cotisation de la partie XIII »). Plus précisément, cet avis fait état d’un impôt de la partie XIII de 10 814 $ sur l’allocation de retraite de 43 255 $ (25 % x 43 255,57 $). Le compte de l’appelante est alors crédité de la retenue d’impôt de 6 261,47 $ du « payeur canadien », à savoir le gouvernement du Canada[8].
+[14] Aussi daté du 22 juillet 2009, le troisième avis de cotisation applique l’impôt de la partie XIII au revenu de pension reçu par l’appelante en 2007[9].
+[15] L’appelante n’est pas d’accord avec le ministre sur la façon de calculer l’impôt de la partie XIII sur l’allocation de retraite de 43 255 $. Elle juge que celui‑ci aurait dû prélever cet impôt sur un montant correspondant à la différence entre les 43 255 $ de l’allocation de retraite et les 22 384 $ du paiement au RPA. Il reste qu’elle n’a pas déposé d’avis d’opposition à cette cotisation de la partie XIII.
+[16] J’ai expliqué à l’appelante pendant l’audition de son appel que, dans les circonstances, la cotisation de la partie XIII n’est pas une question dont la Cour est régulièrement saisie. Comme elle n’a pas déposé d’avis d’opposition et que le ministre n’a pas établi de nouvelle cotisation, l’appelante et le ministre sont liés par la cotisation.
+[17] L’appelante est revenue au Canada le 4 mars 2010, redevenant résidente du Canada le même jour. Dans sa déclaration de revenus pour l’année d’imposition 2010, elle a demandé une déduction de 22 384 $. Elle a expliqué à la Cour qu’elle ne savait pas au juste à quelle ligne de la déclaration demander cette déduction. Elle a décidé de demander la déduction à la ligne 207 comme déduction au titre d’un régime de pension agréé. Elle a joint une lettre où elle priait l’Agence du revenu du Canada (ci‑après « ARC ») d’examiner sa déclaration et de voir si elle avait demandé la déduction à la bonne ligne.
+[18] Quand il a établi sa cotisation du 23 juin 2011, le ministre a accepté la déduction de 22 384 $. Le 6 octobre 2011, il a établi une nouvelle cotisation selon laquelle cette déduction était en fin de compte refusée.
+[19] L’appelante a déposé un avis d’opposition.
+[20] Le 10 juillet 2012, M. Dylan Dinardo, agent des appels de l’ARC, a envoyé à l’appelante une lettre disant qu’elle ne se verrait pas accorder une déduction pour toute la somme de 22 384 $, mais qu’elle aurait droit à 20 302 $ en report prospectif de la perte autre qu’en capital qu’elle avait subie en 2007. M. Dinardo a ainsi expliqué ce report prospectif de 20 302 $ :
+[traduction]
+Les cotisations au RPA de 22 384 $ que vous avez versées dans l’année d’imposition 2007 ont été déduites dans votre déclaration de revenus T1 de la même année. En 2007, votre revenu total était de 2 497 $. Vos déductions totales s’élevaient à 22 799 $, ce qui comprenait 22 384 $ en cotisations au RPA et 415 $ en cotisations syndicales et professionnelles et autres cotisations semblables. Une fois votre revenu imposable ramené à 0 $, vous disposiez de 20 302 $ en pertes autres qu’en capital inutilisées pouvant être reportées sur d’autres années. C’est pourquoi la Division des appels vous accorde, en vertu de l’alinéa 111(1)a) de la Loi de l’impôt sur le revenu, une perte autre qu’en capital de 20 302 $ à la ligne 252 de votre déclaration de revenus T1 de 2010, ce qui ramène votre revenu imposable à 11 164 $[10].
+[21] Le 24 août 2012, l’appelante a écrit à M. Dinardo en disant accepter la position de l’ARC. Elle croyait que le ministre produirait une nouvelle cotisation permettant une déduction de 20 302 $ pour son année d’imposition 2010.
+[22] Toutefois, elle devait recevoir de M. Dinardo le 7 septembre 2012 une nouvelle lettre disant que l’ARC s’était ravisée et avait conclu que l’appelante n’avait droit ni à une déduction en report prospectif d’une perte autre qu’en capital ni à d’autres déductions pour son année d’imposition 2010.
+[23] La nouvelle position de l’ARC était la suivante :
+[traduction]
+Après réexamen, il a été déterminé que vos cotisations inutilisées à un RPA de 20 302 $ pour l’année d’imposition 2007 ne pouvaient pas être converties en perte autre qu’en capital à déduire dans votre déclaration de revenus et de prestations T1 de 2010. L’alinéa 147.2(4)a) de la Loi de l’impôt sur le revenu dit […]
+La Division des appels est d’avis que les cotisations d’un employé doivent se faire dans l’année à l’égard de laquelle il est réputé y avoir déduction. Les cotisations pour services passés ne peuvent pas faire l’objet d’un report prospectif ni être converties en perte autre qu’en capital pouvant être appliquée en réduction du revenu imposable dans une année ultérieure[11].
+[24] Le ministre a par la suite ratifié la nouvelle cotisation du 6 octobre 2011.
+[25] La seule question dont la Cour est saisie est celle de savoir si l’appelante a droit à une déduction pour report prospectif de perte autre qu’en capital de 20 302 $ dans le calcul de son revenu imposable de 2010.
+Position de l’appelante [26] L’appelante a fait valoir que, selon la définition de perte autre qu’une perte en capital au paragraphe 111(8) de la Loi, ce type de perte est calculé selon une formule. La valeur qui entre en jeu dans sa situation est sa perte résultant d’un emploi pour l’année en question.
+[27] Le paragraphe 5(2) énonce les règles fondamentales applicables en cas de perte résultant d’un emploi. L’article 6 précise les montants à inclure à titre de revenu tiré d’un emploi et l’article 8, les déductions permises aux fins du calcul du revenu tiré d’un emploi par un contribuable pour une année d’imposition.
+[28] L’application de ces dispositions a pour résultat que l’appelante a subi en 2007 une perte autre qu’en capital résultant de son emploi au montant de 20 302 $. Cette somme est le paiement de congé annuel de 2 497 $, moins les 22 384 $ du paiement au RPA et les 415 $ de la déduction pour cotisations syndicales.
+[29] Le paragraphe 111(1)a) permet un report prospectif de la perte autre qu’en capital de 20 302 $ sur une période de 20 ans.
+Position de l’intimée [30] L’intimée a fait valoir qu’il n’y avait aucune perte autre qu’en capital dont pouvait disposer l’appelante pour un report prospectif de l’année d’imposition 2007 à l’année d’imposition 2010.
+[31] Les avocats de l’intimée ont reconnu dans leur argumentation à l’audience que le ministre avait conclu que, en 2007, l’appelante avait un revenu tiré d’un emploi de 2 497 $ au titre de la partie I de la Loi et des déductions de 22 799 $ applicables à ce revenu d’emploi en vertu du paragraphe 8(1). Ils ont cependant soutenu que le paiement de 22 384 $ au RPA autorisé comme déduction au titre de l’alinéa 8(1)m) ne pouvait pas servir en 2007 à calculer une perte autre qu’en capital résultant d’un emploi au titre de l’article 111.
+[32] L’intimée a fait valoir que la déduction de 22 799 $ permise en 2010 venait de cotisations à un régime de pension agréé et devait être traitée selon les limites prescrites s’appliquant à une telle déduction.
+[33] L’intimée a soutenu que la déduction de cotisations aux RPA était seulement permise en application de l’alinéa 8(1)m). En raison du libellé de cet alinéa, les critères du paragraphe 147.2(4) s’appliquent à une telle déduction.
+[34] Un de ces critères est que seuls les montants représentant les cotisations que le particulier verse à un régime de pension agréé dans une année peuvent être déduits cette année‑là. Le paragraphe 147.2(4) ne permet pas de report prospectif des cotisations aux régimes de pension agréés.
+[35] L’intimée était d’avis qu’il fallait s’en tenir à la limite imposée au paragraphe 147.2(4), sans quoi l’intention du législateur serait déjouée par la déductibilité de pertes autres qu’en capital en vertu de l’article 111. L’emploi de la locution « dans l’année » prévient d’emblée toute déduction dans les années à venir. Si la déduction était possible sans que cette limitation temporelle s’applique, cette partie de l’article n’aurait plus aucun sens.
+[36] Pour ce qui est du fait que la cotisation faisant état d’un solde nul précisait que l’appelante avait des pertes autres qu’en capital inutilisées, l’intimée soutient qu’il s’agissait d’une erreur de représentation juridique de la nature de cette déduction pour 2007. Une telle erreur ne pouvait lier l’État. Les avocats se sont appuyés sur les observations du juge en chef adjoint Bowman (tel était alors son titre) dans la décision Moulton v. R., [2002] C.T.C. 2395 au paragraphe 11, selon lesquelles « un juge ne peut être lié par les interprétations erronées du ministère. Toute autre conclusion aboutirait à un manque de cohérence et à de la confusion ».
+Décision de la Cour [37] J’accepte l’argument de l’intimée selon lequel la Cour n’est pas liée par les interprétations du ministère. Ainsi, les mentions d’une perte autre qu’en capital de 20 302 $ de l’appelante dans l’avis de cotisation faisant état d’un solde nul et la lettre de M. Dinardo du 10 juillet 2012 ne lient pas la Cour.
+[38] Par ailleurs, je n’accepte pas l’argument de l’intimée selon lequel le paiement de 22 384 $ au RPA que le ministre a autorisé comme déduction en 2007 en vertu de l’alinéa 8(1)m) ne devrait pas servir au calcul d’une perte autre qu’en capital résultant de l’emploi de l’appelante.
+[39] Pour que le contribuable puisse établir son revenu pour une année d’imposition au titre de l’article 3, il doit calculer en application de l’alinéa 3d) ses pertes résultant d’une charge ou d’un emploi.
+[40] Le paragraphe 5(2) de la Loi s’énonce ainsi :
+La perte subie par un contribuable au cours d’une année d’imposition au titre d’une charge ou d’un emploi est constituée par le montant de sa perte subie au cours de cette année au titre de cette charge ou de cet emploi, calculée par l’application, avec les adaptations nécessaires, des dispositions de la présente loi afférentes au calcul du revenu tiré de cette charge ou de cet emploi.
+[41] Le ministre a conclu, ainsi qu’en témoigne la cotisation faisant état d’un solde nul, que l’appelante avait un revenu d’emploi de 2 497 $ et des déductions admissibles sur ce revenu de 22 799 $ en vertu du paragraphe 8(1).
+[42] Sont compris dans ces 22 799 $ de déductions les 22 384 $ du paiement au RPA que le ministre a jugés déductibles en vertu de l’alinéa 8(1)m). Je conviens avec les avocats de l’intimée que, si le ministre a conclu que cette dernière somme était déductible en vertu de l’alinéa 8(1)m), l’intimée a aussi conclu que les critères du paragraphe 147.2(4) étaient dûment pris en compte. L’annexe A aux présents motifs de jugement présente le libellé des dispositions en question.
+[43] Une fois que le ministre a permis à l’appelante une déduction pour le paiement de 22 384 $ au RPA en vertu de l’alinéa 8(1)m), ce montant doit servir, pour l’application du paragraphe 5(2), au calcul de sa perte résultant d’un emploi pour l’année d’imposition en question. Ni l’alinéa 8(1)m) ni l’alinéa 147.2(4)a) n’ont un libellé propre à exclure le paiement de 22 384 $ au RPA du calcul de la perte de l’appelante au titre d’un emploi.
+[44] L’application du paragraphe 5(2) au revenu d’emploi et aux déductions connexes donnerait lieu pour l’appelante à une perte résultant d’un emploi de 20 302 $ dans son année d’imposition 2007.
+[45] La perte autre qu’en capital dont disposait l’appelante en 2010 est calculée conformément à l’alinéa 111(1)a) et aux paragraphes 111(8) et (9). Les parties qui nous intéressent dans ces dispositions sont présentées à l’annexe A.
+[46] Le paragraphe 111(9) énonce les règles de calcul d’une perte autre qu’en capital d’un non‑résident. Il permet à celui‑ci de prendre en compte une perte autre qu’en capital résultant d’une charge ou d’un emploi seulement si les fonctions en question sont exercées au Canada. L’intimée n’a pas fait valoir, ni dans son argumentation verbale ni dans ses observations écrites déposées après la conclusion de l’audition, que ces dispositions avaient pour effet d’empêcher la création d’une perte autre qu’en capital pour l’année d’imposition 2007 de l’appelante. Je suppose en outre que, quand le ministre a inclus le revenu d’emploi de 2 497 $ dans le revenu de partie I de l’appelante pour 2007, l’intimée a conclu que, pour l’application du paragraphe 115(1), ce revenu était tiré d’un emploi exercé par cette dernière au Canada.
+[47] Le paragraphe 111(8) définit une perte autre qu’en capital d’un contribuable pour une année d’imposition comme un montant établi d’après la formule (A+B)‑(D+D.1+D.2). La perte résultant d’un emploi pour l’année est comprise dans l’élément A. Comme la seule source de revenu visée par la cotisation du ministre était l’emploi de l’appelante au gouvernement du Canada, les autres parties de la formule ne s’appliquent pas au calcul de la perte autre qu’en capital de l’appelante pour son année d’imposition 2007.
+[48] Selon la définition au paragraphe 111(8), l’appelante a subi une perte autre qu’en capital résultant d’un emploi de 20 302 $ dans son année d’imposition 2007. En vertu de l’alinéa 111(1)a), une telle perte peut faire l’objet d’un report prospectif et être appliquée en réduction du revenu imposable de l’intéressée en 2010.
+[49] Pour les motifs qui précèdent, l’appel est accueilli et la nouvelle cotisation en question est renvoyée au ministre du Revenu national pour réexamen et nouvelle cotisation au motif que l’appelante avait le droit de déduire une perte autre qu’en capital de 20 302 $ dans le calcul de son revenu imposable pour 2010. La Cour accorde l’appelante des dépens de 500 $, plus les débours.
+Signé à Antigonish (Nouvelle‑Écosse) ce 19e jour d’août 2015.
+« S. D’Arcy »
+Juge D’Arcy
+Traduction certifiée conforme
+ce 8e jour d’octobre 2015.
+S. Tasset
+Annexe A
+8(1) Sont déductibles dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi ceux des éléments suivants qui se rapportent entièrement à cette source de revenus, ou la partie des éléments suivants qu’il est raisonnable de considérer comme s’y rapportant :
+[...]
+m) le montant que le contribuable peut déduire en application du paragraphe 147.2(4) dans le calcul de son revenu pour l’année au titre des cotisations versées à des régimes de pension agréés;
+[...]
+111(1) Pour le calcul du revenu imposable d’un contribuable pour une année d’imposition, peuvent être déduites les sommes appropriées suivantes :
+a) ses pertes autres que des pertes en capital subies au cours des 20 années d’imposition précédentes et des 3 années d’imposition suivantes;
+111(8) Les définitions qui suivent s’appliquent au présent article.
+[...]
+« perte autre qu’une perte en capital » La perte autre qu’une perte en capital d’un contribuable pour une année d’imposition correspond, à un moment donné, au montant obtenu par la formule suivante :
+(A + B) ‑ (D + D.1 + D.2)
+où :
+A représente le montant obtenu par la formule suivante :
+E ‑ F
+où :
+E représente le total des sommes représentant chacune :
+a) la perte que le contribuable a subie pour l’année relativement à une charge, à un emploi, à une entreprise ou à un bien,
+a.1) une somme déductible en application de l’alinéa 104(6)a.4) dans le calcul du revenu du contribuable pour l’année,
+b) une somme déduite en application de l’alinéa (1)b) ou de l’article 110.6 dans le calcul de son revenu imposable pour l’année ou une somme déductible en application de l’un des alinéas 110(1)d) à d.3), f), g), j) et k), de l’article 112 et des paragraphes 113(1) et 138(6) dans le calcul de son revenu imposable pour l’année,
+c) si le moment donné est antérieur à la onzième année d’imposition postérieure du contribuable, sa perte déductible au titre d’un placement d’entreprise pour l’année,
+F la fraction calculée selon l’alinéa 3c) à l’égard du contribuable pour l’année;
+B le montant déterminé à l’égard du contribuable pour l’année selon l’article 110.5 ou le sous‑alinéa 115(1)a)(vii),
+D le montant qui constituerait sa perte agricole pour l’année, si le montant représenté par l’élément B dans la formule figurant à la définition de « perte agricole » au présent paragraphe était zéro,
+D.1 le total des montants déduits en application du paragraphe (10) relativement au contribuable pour l’année,
+D.2 le total des montants à appliquer en réduction de la perte autre qu’une perte en capital du contribuable pour l’année par l’effet de l’article 80;
+[...]
+111(9) Au présent article, la perte autre qu’une perte en capital, la perte en capital nette, la perte agricole restreinte, la perte agricole et la perte comme commanditaire subies par un contribuable pour une année d’imposition pendant laquelle il ne résidait pas au Canada sont calculées comme si :
+a) pendant la partie de l’année tout au long de laquelle le contribuable était un non‑résident, si l’article 114 s’applique à lui pour l’année,
+b) tout au long de l’année, dans les autres cas,
+le seul revenu du contribuable était celui visé à l’un des sous‑alinéas 115(1)a)(i) à (vi), ses seuls gains en capital imposables, seules pertes en capital déductibles et seules pertes déductibles au titre de placements d’entreprise résultaient de la disposition de biens canadiens imposables (sauf des biens protégés par traité) et ses seules autres pertes étaient des pertes résultant des fonctions d’une charge ou d’un emploi qu’il exerce au Canada et d’entreprises (sauf des entreprises protégées par traité) qu’il y exploite.
+147.2(4) Un particulier peut déduire dans le calcul de son revenu pour une année d’imposition se terminant après 1990 le total des montants suivants :
+a) les cotisations (sauf celles visées par règlement) qu’il verse au cours de l’année à un régime de pension agréé et qui soit se rapportent à une période postérieure à 1989, soit sont des cotisations admissibles visées par règlement, dans la mesure ou il les verse conformément au régime tel qu’il est agréé;
+b) le moins élevé des montants suivants :
+(i) l’excédent éventuel du montant visé à la division (A) sur le montant visé à la division (B) :
+(A) les cotisations, sauf les cotisations facultatives ou les cotisations visées par règlement, qu’il a versées, au cours de l’année ou d’une année d’imposition antérieure mais après 1945, à un régime de pension agréé pour une année donnée antérieure à 1990, si l’année donnée est comprise, en tout ou en partie, dans les services admissibles que le particulier a accomplis dans le cadre du régime et si :
+(I) dans le cas de cotisations que le particulier a versées avant le 28 mars 1988 ou est tenu de verser en conformité avec une convention écrite conclue avant cette date, il ne cotisait pas au régime au cours de l’année donnée,
+(II) dans les autres cas, il ne cotisait à aucun régime de pension agréé au cours de l’année donnée,
+(B) les montants déduits dans le calcul du revenu du particulier pour une année d’imposition antérieure au titre des cotisations incluses dans le montant calculé à la division (A),
+(ii) 3 500 $,
+(iii) le montant calculé selon la formule suivante :
+(3 500 $ × Y) ‑ Z
+où :
+Y représente le nombre d’années civiles antérieures à 1990 dont chacune correspond :
+(A) soit à une année – au cours de laquelle le particulier ne cotisait à aucun régime de pension agréé – comprise, en tout ou en partie, dans les services admissibles qu’il a accomplis dans le cadre d’un régime de pension agréé auquel il a versé un cotisation incluse dans le montant calculé à la division (i)(A),
+(B) soit à une année – au cours de laquelle il ne cotisait pas à un régime de pension agréé – comprise, en tout ou en partie, dans les services admissibles qu’il a accomplis dans le cadre du régime auquel il a versé avant le 28 mars 1988, ou est tenu de verser en conformité avec une convention écrite conclue avant cette date, une cotisation incluse dans le montant calculé à la division (i)(A),
+Z les montants déduits dans le calcul du revenu du particulier pour une année d’imposition antérieure :
+(A) soit au titre des cotisations incluses dans le montant calculé à la division (i)(A),
+(B) soit, dans le cas où l’année antérieure est antérieure à 1987, au titre des cotisations facultatives versées pour une année visée à l’élément Y, en application du sous‑alinéa 8(1)m)(ii) dans sa version applicable à cette année antérieure;
+c) le moins élevé des montants suivants :
+(i) l’excédent éventuel du montant visé à la division (A) sur le montant visé à la division (B) :
+(A) les cotisations – sauf les cotisations facultatives, les cotisations visées par règlement ou les cotisations incluses dans le total calculé à la division b)(i)(A)) – que le particulier a versées, au cours de l’année ou d’une année d’imposition antérieure mais après 1962, à un régime de pension agréé pour une année donnée antérieure à 1990 qui est comprise, en tout ou en partie, dans les services admissibles qu’il a accomplis dans le cadre du régime,
+(B) les montants déduits dans le calcul du revenu du particulier pour une année d’imposition antérieure au titre des cotisations incluses dans le montant calculé à la division (A),
+(ii) l’excédent éventuel de 3 500 $ sur le total des montants déduits en application des alinéas a) et b) dans le calcul du revenu du particulier pour l’année.
+RÉFÉRENCE :
+2015 CCI 207
+No DU DOSSIER DE LA COUR :
+2013‑2904(IT)I
+INTITULÉ :
+JANET HATT c. LA REINE
+LIEU DE L’AUDIENCE :
+Yarmouth (Nouvelle‑Écosse)
+DATES DE L’AUDIENCE :
+Le 14 novembre 2013 et le 3 septembre 2014
+MOTIFS DU JUGEMENT :
+L’honorable juge Steven K. D’Arcy
+DATE DU JUGEMENT :
+Le 19 août 2015
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle‑même
+Avocats de l’intimée :
+Me Marcel Prevost
+Me Emma Baasch
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+S.O.
+Cabinet :
+S.O.
+Pour l’intimée :
+William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Pièce A‑1; transcription, page 9, témoignage de Janet Hatt.
+[2] Transcription, pages 10 et 30, témoignage de Janet Hatt; pièces A‑2 et A‑3.
+[3] Pièce A‑3.
+[4] Transcription, page 12, témoignage de Janet Hatt.
+[5] Pièce A‑4.
+[6] Pièces A‑7, A‑4 et A‑3.
+[7] Pièce A‑4, page 2.
+[8] Pièce A‑5.
+[9] Pièce A‑6.
+[10] Pièce A‑7.
+[11] Pièce A‑9.

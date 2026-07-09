@@ -1,0 +1,150 @@
+---
+title: "Benitah v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26413/index.do"
+last_modified: "2003-02-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 8"
+citation2: ""
+neutral_citation: "2003 TCC 8"
+decision_date: "2003-02-03"
+language: "en"
+item_id: "26413"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3263
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:34:55.393000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "918ab107f92c88e962e7f56ffceae37a35d11ea3e6ca3e2a1d83c1367d99a942"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Benitah v. The Queen
+
+- Citation: 2003 TCC 8
+- Decision date: 2003-02-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3263, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Benitah v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-02-03
+Neutral citation
+2003 TCC 8
+File numbers
+2001-4266(IT)I
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2003TCC8
+Date: 20030203
+Docket: 2001-4266(IT)I
+BETWEEN:
+JACOB BENITAH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+_______________________________________________________________
+Appeals heard on January 24, 2003 at Toronto, Ontario
+Before: The Honourable D.G.H. Bowman, Associate Chief Judge
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Michael Appavoo, Esq.
+Joel Oliphant, Esq.
+_______________________________________________________________
+JUDGMENT
+It is ordered that the appeals from reassessments made under the Income Tax Act for the 1994, 1995 and 1996 taxation years be allowed and the reassessments be vacated.
+Signed at Vancouver, Canada, this 3rd day of February 2003.
+"D.G.H. Bowman"
+A.C.J.
+Citation: 2003TCC8
+Date: 20030203
+Docket: 2001-4266(IT)I
+BETWEEN:
+JACOB BENITAH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowman, A.C.J.
+[1] These appeals are from reassessments for the appellant's 1994, 1995 and 1996 taxation years. They involve the denial of tax credits in respect of charitable donations allegedly made to the Or Hamaarav Sephardic Congregation in the amounts of $2,200, $1,900 and $3,000.
+[2] The reassessments were made outside the three-year "normal reassessment period". Accordingly, to justify the reopening of these statute-barred years the respondent has the onus of establishing that the appellant made misrepresentations that were attributable to neglect, carelessness or wilful default.
+[3] Also, penalties were imposed under subsection 163(2) of the Income Tax Act and the Minister has the additional burden of establishing that the appellant made false statements or omissions in his returns "knowingly or under circumstances amounting to gross negligence".
+[4] The appellant's appeals are one of many that the judges of this court have heard in recent months involving charitable receipts issued by the Or Hamaarav Sephardic Congregation founded by Rabbi Leon Edery.
+[5] Rabbi Edery came to Canada from Morocco in 1967. He founded a synagogue at 2939 Bathurst Street, North York, and a charter was granted in 1971 to the Or Hamaarav Sephardic Congregation.
+[6] The moving force behind this congregation was Rabbi Edery. He was particularly interested in newcomers to Canada and was concerned to ensure that Jewish children obtained a proper Jewish education.
+[7] He raised money for a Hebrew school and in 1983 he obtained a second charter, the Abarbanel S. Learning Centre, a day care centre for Jewish children.
+[8] In 1985 the building in which the day care centre was located was lost through foreclosure and it became difficult to raise money and so he embarked upon a scheme which, however laudable his objectives, was quite illegal. It involved giving receipts for charitable donations far in excess of the amount actually given. This was accomplished in one of two ways: either the full amount shown on the charitable receipt would be given and between 80% and 90% would be returned to the donor or the donor would give only 10% to 20% of the amount shown on the receipt.
+[9] In 1996 Rabbi Edery founded a further organization, Mincha Gedolah Synagogue. He was the only person authorized to issue charitable receipts on behalf of the three organizations mentioned above.
+[10] The fundraising that I described above was done generally through fundraisers, one of whom was one Meier Cohen (now deceased).
+[11] Rabbi Edery's practice of issuing inflated charitable receipts came to light when the CCRA (or Revenue Canada) began examining the returns of the clients of a tax preparer, one Jacob Abacassis. The unusually large charitable donations and business losses claimed by his clients caught the attention of the tax authorities. Both Mr. Abacassis and Rabbi Edery were charged criminally under section 239 of the Income Tax Act. Mr. Abacassis pleaded guilty. Rabbi Edery fought the charges but he was convicted by Judge Rebecca Chamail and sentenced to pay a fine of $32,000, a year of house arrest and 240 hours of community service. The charters of the charities were also revoked.
+[12] The pattern of giving inflated receipts was clearly established by Rabbi Edery. Since Mr. Benitah did not deal directly with Rabbi Edery but gave the money to and received the receipts from Mr. Cohen, Rabbi Edery could not testify of his own knowledge that Mr. Benitah was involved in the scheme or that he gave only a fraction of the amount shown on the charitable receipts. The amounts allegedly given ($2,200, $1,900 and $3,000 in the three years) are somewhat large in relation to his rather modest income, but they are not impossible given that the appellant was single and lived with his parents. His charitable gifts to other charities were much smaller.
+[13] All this leads me to be a little sceptical but skepticism and proof are not the same thing.
+[14] The respondent called Mr. Benitah. Under section 146 of the Tax Court of Canada Rules (General Procedure) counsel would be entitled to cross-examine the opposing party. Under the informal procedure no similar rule exists although I should have thought that in appropriate circumstances the presiding judge could, in the informal rules, permit cross-examination of a witness who is an opposing party, even if that witness is not found to be adverse within the meaning of section 9 of the Canada Evidence Act.
+[15] Counsel for the respondent asked the appellant if he received anything back from the amounts he gave Mr. Cohen and he stated unequivocally that he did not. The matter was not pursued and the appellant's evidence was not impeached.
+[16] However sceptical I may be, given the pattern established by Rabbi Edery of giving inflated receipts, I do not think that the respondent is now in a position to deny the evidence of its own witness. In short, I think the respondent is stuck with the appellant's answer.
+[17] Calling the opposing party is fraught with danger. If the Crown decides to call the appellant as its witness and establish that the appellant has made a misrepresentation or has engaged in a scheme involving fraudulent charitable receipts, it should do more than ask the appellant whether he submitted phoney receipts or received something back. One could hardly expect from such a witness a last minute confession. The Crown must be ready to impeach its own witness. If it cannot or does not it must live with its own witness' answer.
+[18] The appeals are allowed. I propose to vacate the assessments of tax, interest and penalties rather than refer the matter back to the Minister of National Revenue for reconsideration and reassessment because the assessments are statute-barred and therefore invalid and the respondent has not established facts that would justify reassessing outside the normal reassessment period contemplated by section 152 of the Income Tax Act. The effect will be to restore the prior assessments.
+[19] The appeals are allowed and the reassessments for 1994, 1995 and 1996 are vacated.
+Signed at Vancouver, Canada, this 3rd day of February 2003.
+"D.G.H. Bowman"
+A.C.J.
+CITATION:
+2003TCC8
+COURT FILE NO.:
+2001-4266(IT)I
+STYLE OF CAUSE:
+Between Jacob Benitah and
+Her Majesty The Queen
+PLACE OF HEARING
+Toronto, Ontario
+DATE OF HEARING
+January 24, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable D.G.H. Bowman
+Associate Chief Judge
+DATE OF JUDGMENT
+February 3, 2003
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Michael Appavoo, Esq.
+Joel Oliphant, Esq.
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+--
+Firm:
+--
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

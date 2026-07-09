@@ -1,0 +1,301 @@
+Title: Quentin c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29402/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-461-29402-quentin-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-09-15
+
+# Quentin c. La Reine
+
+- Citation: 2009 CCI 461
+- Decision date: 2009-09-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6983, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Quentin c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-09-15
+Référence neutre
+2009 CCI 461
+Numéro de dossier
+2008-173(IT)I
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-173(IT)I
+ENTRE :
+DENIS QUENTIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+9117-4508 Québec inc. (2008-174(IT)I),
+le 6 juillet 2009, à Rimouski (Québec).
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Avocat de l'intimée :
+Me Vlad Zolia
+____________________________________________________________________
+JUGEMENT
+L’appel à l’encontre des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2002, 2003 et 2004 est accueilli, et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 15e jour de septembre 2009.
+« Paul Bédard »
+Juge Bédard
+Dossier : 2008-174(IT)I
+ENTRE :
+9117-4508 QUÉBEC INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+Denis Quentin (2008-173(IT)I),
+le 6 juillet 2009, à Rimouski (Québec).
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Représentant de l'appelante :
+Denis Quentin
+Avocat de l'intimée :
+Me Vlad Zolia
+____________________________________________________________________
+JUGEMENT
+L’appel à l’encontre des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2003 et 2004 est accueilli, et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 15e jour de septembre 2009.
+« Paul Bédard »
+Juge Bédard
+Référence : 2009 CCI 461
+Date : 20090915
+Dossiers : 2008-173(IT)I
+2008-174(IT)I
+ENTRE :
+DENIS QUENTIN et
+9117-4508 QUÉBEC INC.,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Il s’agit d’appels entendus sur preuve commune. L’appelant en appelle de nouvelles cotisations établies à son égard pour les années d’imposition 2002, 2003 et 2004, tandis que l’appelante en appelle de nouvelles cotisations établies à son égard pour les années d’imposition 2003 et 2004.
+[2] Le 8 septembre 2006, le ministre du Revenu national (le « ministre ») a établi à l’égard de l’appelant de nouvelles cotisations pour les années d’imposition 2002, 2003 et 2004. En établissant les nouvelles cotisations, le ministre a déterminé, en utilisant la méthode de l’avoir net, que l’appelant avait des revenus non déclarés de 53 671 $ en 2002, de 25 433 $ en 2003 et de 4 301 $ en 2004, selon les détails fournis aux annexes 1, 2 et 3 ci-jointes, et il a imposé, pour chacune de ces années, une pénalité selon le paragraphe 163(2) de la Loi de l’impôt sur le revenu (la « Loi »). En réponse à l’opposition signifiée par l’appelant à l’encontre des nouvelles cotisations du 8 septembre 2006, le ministre a :
+a) établi une nouvelle cotisation le 27 août 2007 pour l’année d’imposition 2002 :
+i) réduisant de 19 860 $ le revenu ajouté antérieurement;
+ii) réduisant la pénalité en vertu du paragraphe 163(2) de la Loi en conséquence;
+b) ratifié les nouvelles cotisations du 8 septembre 2006 pour les années d’imposition 2003 et 2004, et ce, le 27 août 2007.
+[3] Le 16 août 2006, le ministre a établi à l’égard de l’appelante de nouvelles cotisations pour les années d’imposition 2003 et 2004. En établissant les nouvelles cotisations, le ministre a déterminé, en utilisant la méthode de l’avoir net, que l’appelante avait des revenus non déclarés de 56 225 $ en 2003 et de 27 179 $ en 2004, selon les détails fournis aux annexes 1, 2 et 3 ci-jointes, et il a imposé, pour chacune de ces années, une pénalité selon le paragraphe 163(2) de la Loi. Le 29 août 2006, le ministre a établi de nouvelles cotisations pour les années d’imposition 2003 et 2004, corrigeant les pénalités antérieurement imposées à l’appelante pour ces années d’imposition. En réponse à l’opposition signifiée par l’appelante à l’encontre des nouvelles cotisations du 29 août 2006, le ministre a :
+a) établi une nouvelle cotisation le 1er août 2007 pour l’année d’imposition 2003 :
+i) réduisant de 19 860 $ le revenu ajouté antérieurement;
+ii) réduisant la pénalité en vertu du paragraphe 163(2) de la Loi en conséquence;
+b) ratifié la nouvelle cotisation du 29 août 2006 pour l’année d’imposition 2004, et ce, le 1er août 2007.
+[4] En ce qui concerne l’appelant, pour établir les nouvelles cotisations faisant l’objet du présent litige, le ministre a tenu notamment pour acquis les faits suivants énoncés au paragraphe 8 de la Réponse à l’avis d’appel dans le dossier 2008‑173(IT)I :
+a) Au cours des années d’imposition en litige, l’appelant était l’unique actionnaire de la société 9117-4508 Québec inc. (ci-après, la « Société »); (admis)
+b) La Société exploitait une cantine; (admis)
+c) Selon le « Registraire des entreprises – système CIDREQ », la Société a été constitué le 6 juin 2002; (admis)
+d) L’exercice financier de la Société se terminait les 31 mars de chaque année; (admis)
+e) La Société et l’appelant ont fait l’objet d’une vérification par le Ministre; (admis)
+Avantage conféré à l’appelant
+f) Dans ses déclarations de revenu pour ses années d’imposition 2002, 2003 et 2004, l’appelant a déclaré les revenus suivants : (admis)
+DESCRIPTION
+2002
+2003
+2004
+Revenus d’emploi
+2 839 $
+0 $
+4 992 $
+Prestations
+d’assurance-emploi
+6 117 $
+s/o
+s/o
+TOTAL
+8 956 $
+0 $
+4 992 $
+g) Dans ses déclarations de revenu pour ses années d’imposition 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000 et 2001, l’appelant a déclaré les revenus totaux suivants : (admis)
+ANNÉE
+REVENU
+TOTAL
+1991
+6 149 $
+1992
+9 795 $
+1993
+10 570 $
+1994
+23 426 $
+1995
+13 380 $
+1996
+14 659 $
+1997
+11 363 $
+1998
+8 231 $
+1999
+12 824 $
+2000
+17 319 $
+2001
+17 567 $
+h) Dans ses déclarations de revenu pour les années d’imposition 2003 et 2004, la Société a déclaré les pertes nettes suivantes : (admis)
+2003
+2004
+(8 818 $)
+(10 802 $)
+i) Au cours de sa vérification, la vérificatrice du Ministre (ci-après, la « vérificatrice ») a constaté que, concernant le contrôle interne :
+i) Toutes les ventes de la Société étaient faites en argent comptant; (admis)
+ii) Toutes les opérations (ventes, dépôts, paiements de factures) étaient faites par l’appelant; (admis)
+iii) L’appelant effectuait également la comptabilité de la Société; (admis)
+iv) Il n’y avait aucun registre, ni aucune comptabilité pour les comptes du bilan; (nié)
+v) Il n’y avait aucune comptabilité pour le compte « sommes dues à l’actionnaire »; (nié)
+vi) L’actionnaire indiquait lui-même à son comptable, le solde des « sommes dues à l’actionnaire »; (admis)
+vii) Le contrôle interne était inexistant; (nié)
+j) Dans les états financiers de la Société, il était indiqué que, pour la période du 1er avril 2002 au 31 mars 2004, l’appelant avait effectué des mises de fonds de 49 260 $; (admis)
+k) Compte tenu de ce qui précède, la vérificatrice a procédé par la méthode indirecte de vérification de l’« écart par avoir net » pour effectuer sa vérification, pour les années d’imposition en litige; (admis)
+l) Par la méthode indirecte de vérification de l’« écart par avoir net », la vérificatrice a déterminé que les montants suivants n’avaient pas été déclarés par l’appelant (voir détail en annexes) : (admis)
+2002
+2003
+2004
+53 671 $
+25 433 $
+4 301 $
+m) Au state des oppositions, une analyse de l’« avoir net » a été faite par l’agent du Ministre (ci-après, l’« agent »); (ignoré)
+n) Suite à cette analyse, l’agent a déterminé que le montant 19 860,22 $ présenté comme redressement au revenu total au 31 décembre 2002, sous la rubrique « Argent venant de la société 9117-4508 Qc Inc. », avait déjà été considéré dans l’établissement des actifs personnels de l’appelant; (admis)
+o) Conséquemment, le Ministre a réduit de 53 671 $ à 33 811 $, l’avantage conféré à l’appelant par la Société, pour son année d’imposition 2002. (admis)
+[5] En ce qui concerne l’appelante, pour établir les nouvelles cotisations qui font l’objet du présent litige, le ministre a tenu notamment pour acquis les faits suivants énoncés au paragraphe 8 de la Réponse à l’avis d’appel dans le dossier 2008‑174(IT)I :
+a) Au cours des années d’imposition en litige, Monsieur Denis Quentin était l’unique actionnaire de l’appelante (ci-après, l’« actionnaire »);
+b) L’appelante exploitait une cantine;
+c) Selon le « Registraire des entreprises – système CIDREQ », l’appelante a été constituée le 6 juin 2002;
+d) L’exercice financier de l’appelante se terminait les 31 mars de chaque année;
+e) L’actionnaire et l’appelante ont fait l’objet d’une vérification par le Ministre;
+Revenus non déclarés
+f) Dans ses déclarations de revenu pour ses années d’imposition 2002, 2003 et 2004, l’actionnaire a déclaré les revenus suivants :
+DESCRIPTION
+2002
+2003
+2004
+Revenus d’emploi
+2 839 $
+0 $
+4 992 $
+Prestations
+d’assurance-emploi
+6 117 $
+s/o
+s/o
+TOTAL
+8 956 $
+0 $
+4 992 $
+g) Dans ses déclarations de revenu pour ses années d’imposition 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000 et 2001, l’actionnaire a déclaré les revenus totaux suivants :
+ANNÉE
+REVENU
+TOTAL
+1991
+6 149 $
+1992
+9 795 $
+1993
+10 570 $
+1994
+23 426 $
+1995
+13 380 $
+1996
+14 659 $
+1997
+11 363 $
+1998
+8 231 $
+1999
+12 824 $
+2000
+17 319 $
+2001
+17 567 $
+h) Dans ses déclarations de revenu pour les années d’imposition 2003 et 2004, l’appelante a déclaré les pertes nettes suivantes :
+2003
+2004
+(8 818 $)
+(10 802 $)
+i) Au cours de sa vérification, la vérificatrice du Ministre (ci-après, la « vérificatrice ») a constaté que, concernant le contrôle interne :
+i) Toutes les ventes de l’appelante étaient faites en argent comptant;
+ii) Toutes les opérations (ventes, dépôts, paiements de factures) étaient faites par l’actionnaire;
+iii) L’actionnaire effectuait également la comptabilité de l’appelante;
+iv) Il n’y avait aucun registre, ni aucune comptabilité pour les comptes du bilan pour l’appelante;
+v) Il n’y avait aucune comptabilité pour le compte « sommes dues à l’actionnaire »;
+vi) L’actionnaire indiquait lui-même à son comptable, le solde des « sommes dues à l’actionnaire » aux bilans de l’appelante;
+vii) Le contrôle interne était inexistant;
+j) Dans les états financiers de l’appelante, il était indiqué que, pour la période du 1er avril 2002 au 31 mars 2004, l’actionnaire avait effectué des mises de fonds de 49 260 $;
+k) Compte tenu de ce qui précède, la vérificatrice a procédé par la méthode indirecte de vérification de l’« écart par avoir net » pour effectuer sa vérification, pour les années d’imposition en litige;
+l) Par la méthode indirecte de vérification de l’« écart par avoir net », la vérificatrice a déterminé que les montants suivants n’avaient pas été déclarés par l’actionnaire (voir détail en annexes) :
+2002
+2003
+2004
+53 671 $
+25 433 $
+4 301 $
+m) Compte tenu que la seule source de revenu pour l’actionnaire pour les années d’imposition en litige était l’exploitation de l’appelante, la vérificatrice a déterminé que les montants respectifs de 56 225 $ (53 671 $ + 2 554 $) et 27 179 $ (22 878 + 4 301 $) pour les années d’imposition 2003 et 2004, étaient des revenus non déclarés dans l’appelante;
+n) Compte tenu de ce qui précède, le Ministre a imposé à l’appelante pour ses années d’imposition 2003 et 2004, les montants respectifs de 56 225 et 27 179 $, à titre de revenus non déclarés pour celle-ci;
+o) Au stade des oppositions, une analyse de l’« avoir net » a été faite par l’agent du Ministre (ci-après, l’« agent »);
+p) Suite à cette analyse, l’agent a déterminé que le montant de 19 860,22 $ présenté comme redressement au revenu total au 31 décembre 2002, sous la rubrique « Argent venant de la société 9117-4508 Qc Inc. », avait déjà été considéré dans l’établissement des actifs personnels de l’actionnaire;
+q) Conséquemment, le Ministre a réduit de 56 225 $ à 36 365 $, le revenu non déclarés par l’appelante pour son année d’imposition 2003.
+[6] Les objections soulevées par l’appelant concernent :
+i) l’établissement par le ministre de la nouvelle cotisation pour l’année d’imposition 2002 après la fin de la période normale de nouvelle cotisation;
+ii) l’application par le ministre d’une pénalité relative aux revenus additionnels pour chacune des années d’imposition 2002, 2003 et 2004;
+iii) quant aux revenus additionnels pour les années d’imposition en cause, les éléments particuliers indiqués ci-après :
+a) Argent en caisse le 31 mars 2002
+[7] L’appelant a soutenu que le ministre n’a pas tenu compte du fait qu’il disposait d’une somme d’environ 40 000 $ en argent comptant le 31 mars 2002. Il a prétendu que cette somme provenait d’économies qu’il avait faites au fil de ses 18 années de travail.
+b) Prêt de 10 000 $ consenti à l’appelant
+[8] L’appelant a soutenu avoir emprunté en 2003 de monsieur Christian Romestin, son cousin, la somme de 10 000 $.
+c) Coût de la vie
+[9] L’appelant a soutenu que son coût de la vie pendant la période en litige n’était pas de 12 000 $ par année comme l’alléguait le ministre, mais bien d’environ 6 000 $ par année.
+Remarques préliminaires
+[10] Je rappelle que le ministre a allégué dans sa Réponse à l’avis d’appel de l’appelante que la seule source de revenus de l’appelant pour les années d’imposition en litige était « l’exploitation de l’appelante ». En d’autres termes, le ministre a allégué que les revenus non déclarés de l’appelant provenaient nécessairement de l’exploitation de la cantine de l’appelante. Or, la preuve soumise par l’appelant a révélé que ce dernier avait consenti à l’appelante des prêts ou des avances de 20 000 $ avant même que ne débute l’exploitation de la cantine. En conséquence, le ministre a admis lors de l’audition que la somme de 20 000 $ investie par l’appelant ne pouvait provenir de l’exploitation de la cantine de l’appelante et il a reconnu que cette somme provenait nécessairement de l’argent comptant que l’appelant prétendait avoir le 31 mars 2002. Il en résulte que le ministre a accepté de réduire de 20 000 $ le montant ajouté antérieurement au revenu de l’appelant pour l’année d’imposition 2002 par la nouvelle cotisation du 27 août 2007. Il en résulte aussi que le ministre a accepté de réduire de 20 000 $ le montant ajouté antérieurement au revenu de l’appelante par la nouvelle cotisation du 1er août 2007 pour l’année d’imposition 2003. Je souligne aussi qu’en raison de la preuve soumise par l’appelant, le ministre a admis que l’appelant avait emprunté 10 000 $ de son cousin en 2003. Il en résulte que le ministre a accepté de réduire de 10 000 $ le montant ajouté antérieurement au revenu de l’appelant pour l’année d’imposition 2003 par la nouvelle cotisation du 8 septembre 2006. Il en résulte aussi que le ministre a accepté de réduire de 10 000 $ le montant ajouté antérieurement au revenu de l’appelante pour l’année d’imposition 2004 par la nouvelle cotisation du 29 août 2006. Par conséquent, les revenus non déclarés de l’appelant qui font encore l’objet d'un litige pour les années d’imposition 2002, 2003 et 2004 sont de 13 811 $, de 15 433 $ et de 4 301 $, respectivement. Par conséquent, les revenus non déclarés de l’appelante qui font encore l’objet d’un litige pour les années d’imposition 2003 et 2004 sont de 13 811 $ et de 17 179 $, respectivement.
+[11] Il ressort du témoignage de l’appelant que :
+i) le 31 mars 2002, il disposait d’une somme d’environ 40 000 $ en argent comptant qu’il conservait à sa résidence. L’appelant a expliqué que cet argent comptant provenait de dons de ses parents, mais surtout d’économies qu’il avait faites à même son revenu d’emploi au cours des 18 années précédentes. L’appelant a précisé qu’il avait notamment fait des économies d’environ 15 000 $ en 1994, 1995 et 1996. Je souligne immédiatement à cet égard que la preuve a révélé que le revenu net moyen (en excluant un revenu de 17 750 $ en 1994 lié à la cristallisation d’un gain en capital) pour ces trois années avait été de 11 238 $. L’appelant a ajouté à cet égard qu’il disposait d’une somme d’environ 5 000 $ en argent comptant lors de son arrivée au Canada en 1988. Enfin, l’appelant a témoigné qu’il avait conservé cet argent comptant à sa résidence plutôt que de la déposer dans une banque parce qu’il ne faisait pas confiance au système bancaire canadien.
+ii) son coût de la vie avait été pendant les années en cause non pas de 1 000 $ par mois comme allégué par le ministre, mais bien d’environ 500 $ par mois. L’appelant a expliqué ainsi son coût de la vie peu élevé : il ne fumait pas, il ne consommait des boissons alcoolisées qu’occasionnellement, il se nourrissait essentiellement des produits de sa ferme et il n’avait pratiquement aucun loisir, si ce n’est qu’il faisait à l’occasion de la motoneige avec une vieille motoneige qu’il avait lui‑même rafistolée. L’appelant a ajouté que les taxes municipales et scolaires de la ferme où il habitait pendant les années en cause avaient été payées pendant ces mêmes années par messieurs Denis et Francis Quentin. L’appelant a expliqué que le paiement de ces taxes constituait le loyer que devaient payer messieurs Quentin en contrepartie de la location d’une partie de sa ferme[1]. Enfin, l’appelant a souligné que les autorités fiscales du Québec avaient reconnu que son coût de la vie pendant les années en cause avait été d’environ 500 $ par mois.
+[12] Par ailleurs, la preuve a révélé que le revenu net moyen (en excluant le revenu de 17 750 $ lié à la cristallisation d’un gain en capital en 1994) pendant les années 1991 à 2005 avait été de 10 106 $. Je souligne que la preuve fut muette à l’égard des revenus de l’appelant pendant les années 1984 à 1991.
+Analyse et conclusion
+[13] Je rappelle qu’en raison des admissions du ministre lors de l’audience, les revenus non déclarés de l’appelant qui faisaient encore l’objet d’un litige pour les années d’imposition 2002, 2003 et 2004 étaient de 13 811 $, de 15 433 $ et de 4 301 $, respectivement. Je rappelle aussi qu’en raison des admissions du ministre lors de l’audience, les revenus non déclarés de l’appelante qui faisaient encore l’objet d’un litige étaient de 13 811 $ pour l’année d’imposition 2003 et 17 179 $ pour l’année d’imposition 2004.
+[14] Dans la présente affaire, la seule question à laquelle je devrai répondre m’apparaît être la suivante : est-ce que le témoignage de l’appelant à l’égard de son coût de la vie est crédible, étant donné que l’essentiel de la preuve qu’il a soumise à cet égard reposait sur son témoignage? En effet, seul un coût de la vie si peu élevé peut rendre vraisemblable et crédible la version de l’appelant qu’il avait réussi à faire des économies d’environ 40 000 $ à même son revenu d’emploi pendant les années 1984 à 2002, et ce, nonobstant un revenu net moyen très peu élevé pendant ces mêmes années. Je rappelle à cet égard que le ministre a admis tout de même lors de l’audience que l’appelant avait fait des économies de l’ordre de 20 000 $ pendant ces mêmes années.
+[15] En l’espèce, l’appelant m’a convaincu que son coût de la vie avait été d’environ 500 $ par mois pendant les années 2002, 2003 et 2004, ce qui a pour conséquence de réduire l’écart selon l’avoir net établi par le ministre pour l’appelant de 4 500 $ en 2002, de 6 000 $ en 2003 et de 1 500 $ en 2004, et aussi de réduire l’écart selon l’avoir net établi par le ministre pour l’appelante de 6 000 $ pour l’année d’imposition 2003 et de 6 000 $ pour l’année d’imposition 2004. L’appelant m’a aussi convaincu que son coût de la vie avait été très peu élevé pendant les années précédentes et qu’ainsi il avait pu faire des économies de l’ordre de 40 000 $ nonobstant son revenu par ailleurs peu élevé. Son témoignage non contredit à cet égard m’a paru vraisemblable, crédible, sincère et spontané. Le fait suivant a renforcé ma conviction que l’appelant était sincère : lors de l’audience, l’appelant a témoigné que les taxes municipales et scolaires de sa ferme avaient été payées pendant les années pertinentes par monsieur Quentin. Je lui ai alors demandé s’il avait une preuve documentaire pour appuyer son témoignage à cet égard. L’appelant m’a alors répondu que cette preuve existait, mais qu’il ne l’avait pas avec lui car il ignorait qu’il devait l’apporter lors de l’audience. Voulant tester sa crédibilité, j’ai ajourné l’audience pour lui permettre d’aller chercher cette preuve documentaire (pièce A-6) (et une autre preuve documentaire liée au paiement des comptes de l’appelante avant que cette dernière ne commence l’exploitation de sa cantine). L’appelant a déposé en preuve ces preuves documentaires lors de la reprise de l’audience.
+[16] Compte tenu de mes conclusions à l’égard du coût de la vie de l’appelant pendant les années 2002, 2003 et 2004 et de l’argent comptant qu’il avait en main le 31 mars 2002, les écarts selon l’avoir net établis par le ministre pour l’appelant et donc pour l’appelante se trouvent expliqués et ainsi les appels de l’appelant et de l’appelante sont accueillis.
+Signé à Ottawa, Canada, ce 15e jour de septembre 2009.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE : 2009 CCI 461
+Nº DU DOSSIER DE LA COUR : 2008-173(IT)I
+2008-174(IT)I
+INTITULÉ DE LA CAUSE : DENIS QUENTIN et 9117-4508 QUÉBEC INC. ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Rimouski (Québec)
+DATE DE L’AUDIENCE : le 6 juillet 2009
+MOTIFS DU JUGEMENT PAR : L'honorable juge Paul Bédard
+DATE DU JUGEMENT : le 15 septembre 2009
+COMPARUTIONS :
+Pour les appelants :
+l'appelant Denis Quentin lui-même
+Avocat de l'intimée :
+Me Vlad Zolia
+AVOCAT INSCRIT AU DOSSIER :
+Pour les appelants:
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Voir la pièce A-6.

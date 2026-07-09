@@ -1,0 +1,171 @@
+Title: Fluevog v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30107/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-617-30107-fluevog-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-12-01
+
+# Fluevog v. The Queen
+
+- Citation: 2010 TCC 617
+- Decision date: 2010-12-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7641, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fluevog v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-12-01
+Neutral citation
+2010 TCC 617
+File numbers
+2004-3778(IT)G
+Judges and Taxing Officers
+Theodore E. Margeson
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-3778(IT)G
+BETWEEN:
+JOHN FLUEVOG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motions heard on October 12, 2010, at
+Vancouver ,
+British Columbia
+Before: The Honourable Justice T.E. Margeson
+Appearances:
+Counsel for the Appellant:
+Timothy W. Clarke and Ryan Dalziel
+Counsel for the Respondent:
+Lynn Burch and Lisa McDonald
+____________________________________________________________________
+ORDER
+UPON motion by the Appellant for:
+an order for leave to amend the Appellant’s amended notice of appeal; and
+if and when the Respondent files a reply to the second amended notice of appeal an order that the Appellant be at liberty to conduct further examinations for discovery in relation to the administrative discrimination issue pursuant to a schedule to be ordered by the court.
+AND UPON motion by the Respondent for an order:
+fixing the time and place for the hearing of this appeal;
+providing such further and other relief as this Court deems just; and
+3. costs in a fixed amount of $2,000.00 be awarded to the respondent.
+AND UPON reading the materials filed, and hearing from counsel for the Appellant and counsel for the Respondent,
+With respect to the Appellant’s motion, THIS COURT ORDERS that:
+1. The Appellant’s motion to amend the Amended Notice of Appeal as proposed is granted.
+2. The Respondent will be entitled to file an Amended Reply to the Second Amended Notice of Appeal. The deadline for the Respondent to file an Amended Reply to the Second Amended Notice of Appeal and for further discoveries will be set upon consultation between the parties and the Court.
+3. There is no order as to costs in regards to the Appellant’s motion.
+With respect to the Respondent’s motion, THIS COURT ORDERS that:
+1. The Respondent’s motion is denied.
+2. The Respondent shall have its costs of the day, which will be costs in the cause, but payable in any event to the Respondent, irrespective of the result in the cause.
+Signed at New Glasgow, Nova Scotia, this 1st day of December 2010.
+“T.E. Margeson”
+Margeson J.
+Citation: 2010 TCC 617
+Date: 20101201
+Docket: 2004-3778(IT)G
+BETWEEN:
+JOHN FLUEVOG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Margeson, J.
+[1] The Appellant, John Fluevog, makes a motion before the Court under section 54 of the Tax Court of Canada Rules (General Procedure) for an Order to amend the Amended Notice of Appeal, and if the Respondent files a Reply to the Second Amended Notice of Appeal, an Order that the Appellant be at liberty to conduct further examinations for discovery in relation to the administrative discrimination issue pursuant to a schedule to be ordered by the Court.
+[2] The Respondent makes a motion for an Order fixing the time and place for the hearing of this appeal, providing for such further relief as this Court thinks just, and costs in a fixed amount of $2,000.00 to be awarded to the Respondent.
+[3] The Appellant’s position is that he should be allowed to amend the Appellant’s Amended Notice of Appeal so as to plead that by refusing to extend the policy published in Canada Customs and Revenue Agency Information Circular No. 75-23 [1] (“IC 75-23”), paragraphs 3 and 4 to the Appellant, the Minister of National Revenue (the “Minister”) thereby discriminated against him on religious grounds under section 15 of the Canadian Charter of Rights and Freedoms (the “Charter”).
+[4] The Respondent objects to the amendment that is sought and argues that the Appellant is in effect using the Court to consider the treatment of other taxpayers in situations that have nothing in common with the swim lessons engaged in by the Appellant’s children and nothing to do with the Appellant’s own tax assessment. This trivializes the Court’s important role in determining whether rights guaranteed under the Charter have been breached. Both common sense and the proposed further Amended Notice of Appeal reveal that there are no Charter rights in play. In a nutshell, counsel for the Respondent argues that the motion to amend is nothing more than an attempt by the Appellant to “obfuscate” the real issue between the parties and to delay the hearing of the appeal.
+[5] The factual situation here presents that the Appellant’s children over 17 years ago took swimming lessons at the Vancouver Pacific Swim Club (the “Swim Club”). The Appellant claimed and was denied a charitable deduction for amounts paid to Swim Canada, 95% of which flowed from Swim Canada through Swim B.C. and were credited to his children’s swim club account there. The issue is whether the payments made to Swim Canada were good gifts at common law or whether the consideration received in the form of swim lessons for his children from the Swim Club vitiated the purported gift.
+[6] At the heart of the Appellant’s case is his position that without the so-called “administrative exception” set out in IC 75-23 pertaining to religious tuition payments, “[there] would be consideration and therefore, no gift”. [2] The effect of the administrative policy, as set out in IC 75-23, is to permit private schools to issue official tax receipts for tuition payments for religious training even though such payments are not gifts within the meaning of the Income Tax Act (the “Act”). The Minister has in effect admitted that this was the result of the administrative policy.
+[7] Further, the Minister admitted in writing that since the Canada Revenue Agency (CRA) formalized this policy in 1975 through the publication of IC 75-23:
+… “it has been the Agency’s practice not to view religious instruction provided at parochial schools as consideration” and,
+that “the exception was contemplated only with respect to religious instruction and is, therefore, applicable only to religious instruction or training”. [3]
+[8] The Appellant argues that this clear written admission draws a distinction between “religious consideration” and other non-religious forms of consideration and, that since the elimination or revision of the “human dignity” test set out in R. v. Kapp, 2008 SCC 41, [2008] 2 S.C.R. 483, it is non arguable that the CRA’s reassessment discriminates against the Appellant on grounds enumerated under section 15 of the Charter. Accordingly, the Appellant now wishes to amend the Amended Notice of Appeal based on the Charter issue.
+[9] In addressing the Respondent’s Notice of Motion regarding the matter of unjustified delays, the Appellant submits that there were no such “numerous, inordinate, delays in the progression of this appeal for which the Respondent is not responsible”. Counsel for the Appellant took the position that the schedules had been agreed upon by the Appellant’s counsel and the predecessor to the Respondent’s counsel which schedules have been approved by the various presiding judges in case management conferences held in relation to these test cases.
+[10] Crown counsel did not consent to an earlier filing of this amendment and the case law at the time was not favourable to such an argument but that has now changed and it is much more likely that the Appellant can make out a case for section 15 discrimination.
+[11] The “four-year delay” alleged by the Respondent in paragraph 7 of his notice of motion as “unjustified” was necessary and agreed upon by both counsel and approved by Justice Campbell as case management judge in these appeals.
+[12] The Respondent twice refused to answer questions relating to the law of gift and did not answer them until September 18, 2009, and it then became obvious that the real issue was whether the Minister violated section 15 of the Charter.
+[13] The Respondent has not cited any prejudice whatsoever, let alone any prejudice that cannot be compensated by way of costs. There is no such prejudice.
+[14] On the issue of whether the amendment discloses a cause of action, counsel opines that it is not obvious that the claim in the amendment will fail. In the first case, the more favourable treatment by the Minister of religious training than of non-religious training is discriminatory. This Court has jurisdiction under subsection 24(1) of the Charter to decide the discrimination issue and grant the remedy sought. Namely, vacating the assessment. Vacating the Minister’s assessment is the “appropriate and just” remedy for the Minister’s breach of the Charter.
+[15] Counsel for the Respondent argues that there is a real doubt as to whether there is a triable issue disclosed by the amendments. Her position is that the proposed further amendments disclose no issues of merit or reasonable grounds of appeal.
+[16] Further, there is no cogent explanation why the Charter challenge could not have been raised at the time of the first amendment in March of 2007.
+[17] The Appellant should not be entitled to argue that he is entitled to amend the Notice of Appeal based upon more favourable jurisprudence. Whether or not to advance certain arguments in the course of litigation is a strategic decision based upon the parties’ understanding of the facts and the law. A party should not be able to advance arguments based upon their shifting assessment of the strength of the facts which have not changed or based upon legal arguments that are not new.
+[18] There was no genuine intention to pursue a constitutional challenge to the policy.
+[19] The Respondent’s answer about IC 75-23 did not suddenly illuminate that the Appellant’s right to freedom of religion had been violated. The Appellant’s ability to claim the deduction had nothing to do with his religion (the underlining is by the Court).
+[20] The proposed amendments fail to advance a reasonable cause of action because section 15 of the Charter is not engaged. The failure by CRA to apply policy IC 75-23 to the Appellant has nothing to do with the Appellant’s religion.
+[21] The proposed further amendments have nothing to do with the personal characteristics of the Appellant and there can therefore be no Charter violation. The fact that CRA did not apply IC 75-23 to the Appellant had nothing to do with his religion or any other personal characteristics. His claim was denied because it related to swim lessons and not for tuition or a private religious school. There is no factual foundation that the Appellant’s freedom of religion has been violated.
+[22] The Appellant has not met the first part of the two-step process as established in Andrews v. Law Society of British Columbia, [1989] 1 S.C.R. 143, that there has been a distinction based upon an enumerated ground.
+[23] Neither Law nor Kapp, supra, impose a new and distinctive test for discrimination, but rather affirm the approach to substantive equality under section 15 as set out in Andrews and developed in numerous subsequent decisions where the claimants’ own religion is not implicated in any way in the impugned decisions. There is no reasonable basis for a claim of discrimination based on the personal characteristic of religion.
+[24] Subsection 2(9) of the Charter has not been violated because the amendments do not contain any facts to establish that the Minister’s denial of a charitable donation for swim lessons interfered with the Appellant’s freedom of religion.
+[25] It is not plain and obvious that the case would fail and on the question of jurisdiction of the Tax Court of Canada to grant the relief sought but there is no reason for this Court to become involved in determining whether it has jurisdiction to grant the relief sought under subsection 24(1) of the Charter where there is a factual and legal vacuum underlying the Appellant’s assertion that sections 2 and 15 rights are at issue.
+[26] There is prejudice to the Respondent, prima facie, based upon delay, which cannot be compensated for in costs such as the risk of failing memories and the longer the case takes to come to trial the more difficult it will be to find witnesses and to secure their attendance.
+[27] This case is a test case for 77 appeals currently in the Court’s inventory and for 350 taxpayers who were similarly assessed and await the decision of the Court. Further delay merely perpetuates delay and uncertainty.
+[28] There was no argument between the parties that all pre-trial matters should be suspended until the Supreme Court of Canada had rendered a decision in Redeemer Foundation v. Canada (National Revenue), 2008 SCC 46, [2008] 2 S.C.R. 643.
+[29] There is no valid reason for the Appellant to have waited so long to move to amend his pleadings.
+[30] In making its decisions on these motions, there are two groups of considerations to be dealt with. The first group for consideration are the non‑Charter issues and the consideration of Rule 54 of the Tax Court of Canada Rules (General Procedure). Here the Court must decide whether or not it should exercise its discretion and allow the second Amended Notice of Appeal or whether the appeal should be set down for hearing as the Respondent submits.
+[31] In Continental Bank Leasing Corp. v. Canada, [1993] 1 C.T.C. 2306, Bowman J. took the broader approach in deciding whether an amendment should be permitted and concluded that the Court should decide:
+… whether it is more consonant with the interests of justice that the withdrawal or amendment be permitted or that it be denied. The tests mentioned in cases in other courts are of course helpful but other factors should also be emphasized, including the timeliness of the motion to amend or withdraw, the extent to which the proposed amendments would delay the expeditious trial of the matter, the extent to which a position taken originally by one party has led another party to follow a course of action in the litigation which it would be difficult or impossible to alter and whether the amendments sought will facilitate the Court’s consideration of the true substance of the dispute on its merits. No single factor predominates nor is its presence or absence necessarily determinative. All must be assigned their proper weight in the context of the particular case. …
+[32] The Court asks, is there prejudice to the Respondent? Has there been delay by the Appellant? Will the amendment lead to further unnecessary delay? Is there a reasonable explanation for the delay in bringing the motion?
+[33] The Court is satisfied that there will be no undue prejudice to the Respondent if the amendment sought by the Appellant is permitted that cannot be compensated by costs. On the question of delay, the Court is satisfied that there is enough blame to go around although is satisfied that there were no inordinate delays by either party.
+[34] This is a case where there are many taxpayers that will be affected by the decision and there will be many Appellants.
+[35] The parties attempted to agree upon a test case and that consideration took a considerable period of time. Further, the case was managed by a Judge of the Tax Court since 2006 and the Court is unaware of any instances of significant non‑compliance with the Case Management Judge’s directions. The Court was impressed by the many instances where the parties were able to reach agreement with respect to the various steps to be taken to make the case ready for trial. There were several instances where the parties could not reach agreement on a number of pre-trial matters but the Court is satisfied that they both put forward a reasonable effort to reach an agreement.
+[36] The Court is satisfied that there will be no undue or unnecessary delays in the event that the motion to amend is granted. The Court is satisfied that the Appellant’s counsel has offered a reasonable explanation of the delay in bringing the motion.
+[37] Therefore, the Court is satisfied that the Appellant has met the burden upon him with respect to the non-Charter matters and the motion to amend should not be dismissed on those grounds.
+[38] The Charter issues pose a more significant hurdle for the Appellant here. The main issue under this heading is whether the proposed amendments disclose a reasonable cause of action? The thrust of the argument for the Respondent is that they do not. Counsel argues that the failure to extend the “administrative exception” as found in IC 75-23 to the Appellant has nothing to do with his religion or any of his other personal characteristics.
+[39] The Appellant argues that the Minister’s policy distinguishes between those who purchase religious instructions or training from those who purchase secular instruction or training. Therefore the benefit and burden of the Minister’s policy tend to fall based upon whether the person is religious or not. Thus, the policy draws a distinction that is based upon the enumerated ground of “religion”.
+[40] The Appellant has not put his own religion into play. He need not to do so. The policy at large, as a whole, is discriminatory and everything done under it is invalid and illegal. The Appellant has suffered a disadvantage as a result of the under exclusions of the policy. The policy is systemically operating illegally. The policy is benefiting religious persons over those who are not religious.
+[41] This is adverse effect discrimination as referred to in Ontario Human Rights Commission v. Simpsons Sears Ltd., [1985] 2 S.C.R. 536 at page 551 and referred to in Andrews at page 173.
+[42] The result is the same as that described in Andrews at page 174 where the Court said:
+… I would say then that discrimination may be described as a distinction, whether intentional or not but based on grounds relating to personal characteristics of the individual or group, which has the effect of imposing burdens, obligations, or disadvantages on such individual or group not imposed upon others, or which withholds or limits access to opportunities, benefits, and advantages available to other members of society. …
+[43] As in Little Sisters Book and Art Emporium v.
+Canada
+(Minister of Justice), 2000 SCC 69, [2000] 2 S.C.R. 1120 at pages 9 and 10:
+… The legislation has been administered in an unconstitutional manner, but it is the legislation itself, and not only its application, that is responsible for the constitutional violations. …
+[44] There is an arguable case according to the Appellant.
+[45] Counsel for the Respondent relies upon the argument that there is no factual assertion in the proposed amended pleading that the Appellant was denied the benefit of IC 75-23 because of his religion. However, the Appellant’s argument as based upon section 15 of the Charter does not refer to the religion of the individual but merely discrimination based upon “religion”. He is not arguing that the discrimination was based upon his religion.
+[46] On the main point, the Court is satisfied that the amendment will at least present an arguable case. The Court need not be satisfied that the Appellant will be successful on this point at trial.
+[47] On the ancillary points of “jurisdiction” of the Tax Court and the question of “appropriate and just” remedy, the Court is satisfied that it has the jurisdiction under subsection 24(1) of the Charter to decide the discrimination issue and grant the remedy sought – namely – vacating the Appellant’s assessment and vacating the Appellant’s assessment is the “appropriate and just” remedy for the Minister’s breach of the Charter.
+[48] The Court will allow the Appellant’s motion to amend the Amended Notice of Appeal as proposed. The Respondent will be entitled to file an Amended Reply. The deadline for the Respondent to file an Amended Reply to the Second Amended Notice of Appeal and for further discoveries will be set upon consultation between the parties on the Court.
+[49] With respect to the matter of costs, the Appellant does not seek costs and none will be granted to him.
+[50] With respect to costs to the Respondent, the Court does not accept Counsel’s submissions for $2,000 costs payable forthwith by the Appellant.
+[51] The Respondent shall have its costs of the day, which will be costs in the cause, but payable in any event to the Respondent, irrespective of the result in the cause.
+Signed at New Glasgow, Nova Scotia, this 1st day of December 2010.
+“T.E. Margeson”
+Margeson J.
+CITATION: 2010 TCC 617
+COURT FILE NO.: 2004-3778(IT)G
+STYLE OF CAUSE: JOHN FLUEVOG and HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Vancouver ,
+British Columbia
+DATE OF HEARING: October 12, 2010
+REASONS FOR ORDER BY: The Honourable Justice T.E. Margeson
+DATE OF ORDER: December 1, 2010
+APPEARANCES:
+Counsel for the Appellant:
+Timothy W. Clarke and Ryan Dalziel
+Counsel for the Respondent:
+Lynn M. Burch and Lisa McDonald
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Timothy W. Clarke
+Firm: Bull, Housser & Tupper LLP
+Vancouver ,
+British Columbia
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of
+Canada
+Ottawa, Canada
+[1] Canada Customs and Revenue Agency, Information Circular No. 75-23, "Tuition Fees and Charitable Donations Paid to Privately Supported Secular and
+Religious
+Schools
+" (29 September 1975), at paras. 3 and 4.
+[2] Letter from Elizabeth (Lisa) McDonald to Timothy W. Clarke dated September 18, 2009, Affidavit of Linda Aiello sworn May 26, 2010, Exhibit “M” at page 2; Written Submissions in support of the Appellant's Motion to Amend the Notice of Appeal at para. 23.
+[3] Letter from Elizabeth (Lisa) McDonald to Timothy W. Clarke dated September 18, 2009, Affidavit of Linda Aiello sworn May 26, 2010, Exhibit “M” at page 2; Written Submissions in support of the Appellant’s Motion to Amend the Notice of Appeal at para. 25.

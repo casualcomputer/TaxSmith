@@ -1,0 +1,203 @@
+---
+title: "Côté c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28225/index.do"
+last_modified: "2007-12-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 707"
+citation2: ""
+neutral_citation: "2007 CCI 707"
+decision_date: "2007-12-05"
+language: "fr"
+item_id: "28225"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2072
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:02:51.063000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9a6ae221a605b798b0d618ac8ae744b7c6fe3b0f2a79247972dd9fdcc6d4db37"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Côté c. M.R.N.
+
+- Citation: 2007 CCI 707
+- Decision date: 2007-12-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2072, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Côté c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-12-05
+Référence neutre
+2007 CCI 707
+Numéro de dossier
+2006-605(EI)
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2006-605(EI)
+ENTRE :
+RENÉ CÔTÉ,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 18 septembre 2007, à Roberval (Québec)
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Avocat de l'appelant :
+Me Jean Girard
+Avocat de l'intimé :
+Me Dany Leduc
+____________________________________________________________________
+JUGEMENT
+L’appel de la décision du ministre du Revenu national à l’effet que monsieur René Côté n’exerçait pas un emploi aux termes d’un contrat de louage de services au sens de l’alinéa 5(1)a) de la Loi sur l’assurance-emploi et qu’il n’occupait pas un emploi assurable pour la période du 1er novembre 1999 au 27 octobre 2000 lorsqu’il était au service de « Les Entreprises en soudure Ungava inc. », est rejeté, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 5e jour de décembre 2007.
+« Réal Favreau »
+Juge Favreau
+Référence : 2007CCI707
+Date : 20071205
+Dossier : 2006-605(EI)
+ENTRE :
+RENÉ CÔTÉ,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit d’un appel de la décision rendue par le ministre du Revenu national (le « ministre ») le 12 janvier 2005 concernant l’assurabilité de l’emploi de monsieur René Côté auprès de « Les Entreprises en soudure Ungava inc. » (le « payeur ») pour la période du 1er novembre 1999 au 27 octobre 2000 (la « période visée »).
+[2] Le ministre a en effet conclu que monsieur Côté n’était pas un employé du payeur au cours de la période visée parce que les exigences d’un contrat de louage de services, au sens de l’alinéa 5(1)a) de la Loi sur l’assurance-emploi L.C. 1996, ch. 23, telle que modifiée (la « Loi »), n’étaient pas rencontrées et que, par conséquent, il n’y avait pas de relation employeur-employé.
+Les faits
+[3] L’appelant était l’unique actionnaire et administrateur de « Les Entreprises R.C. d’Ungava inc. », une entreprise constituée en société le 3 août 1978 et spécialisée dans le revêtement de caoutchouc à froid Linatex pour pièces minières, lorsque cette dernière a, le 29 octobre 1999, vendu son entreprise au payeur. Le prix de vente prévu au contrat était de 40 000 $, réparti comme suit : 35 000 $ pour les équipements, accessoires et effets mobiliers, 5 000 $ pour les marchandises et 0 $ pour l’achalandage. La vente n’incluait pas les comptes-clients, les comptes de banque, la dénomination sociale de l’entreprise, le véhicule automobile et l’immeuble abritant l’atelier de la société.
+[4] Le contrat de vente ci-haut mentionné spécifiait que le contrat d’exclusivité avec Linatex faisait partie des actifs vendus et comprenait une clause de non‑concurrence pour tout le secteur couvert par le contrat d’exclusivité avec Linatex, et ce, pour un terme de 10 ans. Cette clause de non-concurrence liait également l’appelant.
+[5] Le 29 octobre 1999, soit le jour de la vente de l’entreprise, l’appelant et le payeur ont conclu un contrat d’emploi en vertu duquel le payeur a engagé l’appelant pour une période d’un (1) an à compter du 1er novembre 1999 à une rémunération annuelle de 30 000 $, à titre d’expert-conseil afin de permettre au payeur d’acquérir toutes les compétences et connaissances à l’exploitation de son entreprise de pose et vente de revêtement de caoutchouc. Comme le souligne le contrat d’emploi, l’appelant est la seule personne ayant les connaissances requises pour la pose et le revêtement de caoutchouc.
+[6] Aux termes du contrat d’emploi, l’appelant s’est engagé à travailler personnellement avec le payeur pour les six (6) premiers mois, mais il n’était pas tenu d’être présent à tous les jours, sauf s’il y avait des contrats à respecter avec les compagnies minières et autres clients de l’entreprise. En cas de maladie, l’appelant s’est engagé à fournir au payeur une personne expérimentée, aux mêmes conditions, et à la satisfaction du payeur.
+[7] Au-delà des six (6) premiers mois, l’appelant était libre de gérer son temps d’emploi à sa guise compte tenu que le payeur aura alors acquis les compétences et connaissances nécessaires et ce, jusqu’à la fin du contrat d’emploi.
+[8] Le 13 novembre 2000, le payeur a émis un relevé d’emploi au nom de l’appelant indiquant que, durant la période visée, il avait accumulé 2 080 heures assurables et avait gagné une rémunération totalisant 30 004 $.
+[9] Suite à une dénonciation, Développement des Ressources humaines du Canada a fait une enquête concernant les pratiques du payeur aux termes de laquelle le payeur a reconnu sa culpabilité à trente-cinq (35) chefs d’accusation d’avoir produit de faux relevés d’emploi, dont celui de l’appelant, et a été condamné à payer une amende de 550 $ par chef d’accusation.
+[10] L’appelant a fait face à vingt-sept (27) chefs d’accusation en vertu de la Loi pour avoir fourni des renseignements sur des fiches d’emploi qu’il savait être fausses ou trompeuses quant à l’exercice d’un emploi assurable dans le cadre duquel il avait accumulé 2 080 heures assurables. Dans une décision rendue le 9 juin 2006 par le juge Jean-Yves Tremblay de la Cour du Québec, l’appelant a été acquitté des accusations portées contre lui. Il y a lieu de préciser ici que les parties ont limité le débat à la détermination du nombre d’heures travaillées par l’appelant auprès du payeur.
+[11] En plus de l’appelant et de l’enquêteur de Développement des Ressources humaines du Canada, quatre personnes ont témoigné et cinq déclarations statutaires ont été produites.
+[12] Le premier témoin, monsieur Alain Gagnon, était actionnaire et administrateur du payeur et c’est lui qui a négocié avec l’appelant pour faire l’acquisition de son entreprise. Il a expliqué que l’entreprise de l’appelant était complémentaire aux activités du payeur. Le revêtement en caoutchouc apposé par l’appelant augmentait de beaucoup la durée de vie des pièces de machinerie utilisées par l’industrie minière. Au cours de la période visée, le payeur comptait entre 10 et 15 employés, mais n’avait aucune expertise dans la pose de revêtement en caoutchouc de sorte que les services de l’appelant étaient essentiels pour la poursuite de cette activité. Il a expliqué que, suite à l’acquisition de l’entreprise de l’appelant, le chiffre d’affaire du payeur a augmenté plus rapidement que prévu de sorte que le payeur a dû louer l’atelier de l’appelant à un coût de 400 $ par mois. Il a précisé que le bureau du payeur était à sa résidence et que les employés du payeur (sauf le personnel administratif) travaillaient exclusivement à l’extérieur sur les chantiers miniers. L’appelant, quant à lui, travaillait environ 30 % de son temps à l’atelier et 70 % sur des chantiers miniers. Il a confirmé qu’il était le superviseur de l’appelant et que ce dernier remplissait lui-même ses feuilles de temps. Il a admis qu’il ne connaissait pas le nombre exact d’heures travaillées à chaque semaine par l’appelant, mais qu’il avait une bonne idée du nombre d’heures travaillées par ce dernier en voyant les travaux et les commandes exécutés. Lors de son témoignage, il a affirmé que l’appelant avait travaillé au cours de la période visée, plus que les 2 080 heures déclarées au relevé d’emploi, que l’appelant n’avait pas travaillé pendant qu’il recevait des prestations d’assurance-emploi et que les heures travaillées par l’appelant n’ont pas été payées avec de l’essence fournie par le payeur. Il a reconnu que le payeur avait une pratique de cumul d’heures pour éviter de payer du temps supplémentaire à tarif et demi et que les heures supplémentaires travaillées par l’appelant étaient facturées par la compagnie de l’appelant au taux de 20 $ l’heure plus les taxes applicables. Il a reconnu que le relevé d’emploi de l’appelant a été signé par sa conjointe, Francine Gagnon, qui avait la responsabilité du secrétariat et de la comptabilité avec Nancy Dion. Il a précisé que ces deux mêmes personnes s’occupaient du maintien du registre des heures accumulées.
+[13] Dans la déclaration statutaire que monsieur Gagnon a signée le 1er avril 2004, il a répondu ce qui suit à la question 11 :
+Après le 3 septembre 1999, avec qui des dirigeants de l’entreprise les employés prenaient-ils leurs arrangements pour les heures accumulées?
+R. Avec leurs patrons, Clément Gaudreault et Roland Bédard.
+[14] L’appelant a été la deuxième personne à témoigner. Il a fourni des explications concernant les raisons pour lesquelles il a décidé de vendre son entreprise, i.e. son âge et sa maladie aux poumons. Il a dit avoir beaucoup travaillé pendant la période visée à la mine Inmet, division Troilus, comme en font foi les ordres du travail produits en liasse sous la cote A-5. La mine était située à plus de 200 kilomètres de Chibougamau et sur place, il était nourri et logé et avait un atelier à sa disposition. Il a reconnu avoir accumulé plusieurs heures supplémentaires auprès du payeur pour ses déplacements à la mine et pour la formation de Roland Bédard et les avoir facturé par l’intermédiaire de sa compagnie. Il a aussi reconnu avoir été parfois payé en essence. Il produisait ses factures d’essence pour qu’elles soient acquittées par le payeur et par la suite, le personnel du bureau diminuait la banque d’heures accumulées au nom de l’appelant par le quotient obtenu en divisant le total des factures par 20 $. Il expliqué que la formation à Roland Bédard a été très longue et a requis beaucoup d’heures parce que ce dernier n’était disponible que les fins de semaine et parce qu’il y avait une grande diversité de pièces à réaliser.
+[15] Dans la déclaration statutaire que l’appelant a signée le 23 mars 2004, il a répondu ce qui suit à la question 9 de la page 2 :
+Est-il possible que vous avez été payé pour un montant de 30 004 $ représentant 2 080 heures comme il est indiqué sur le relevé d’emploi de Soudure Ungava alors que vous n’avez travaillé que 103 heures selon les cartes de temps?
+R. C’est certain que je n’ai pas fait toutes les heures mais j’étais-là en cas de besoin. Je pouvais montrer aux employés.
+À la page 3 de cette déclaration, les questions et réponses suivantes ont été consignées :
+Q. 11 Quel montant avec-vous réellement vendu votre compagnie?
+R. Quarante plus trente. Vous savez lire entre les lignes. Ils m’ont mis dans une impasse et je ne voudrais pas dire à mon épouse que je dois tout rembourser ça.
+Q. 12 Reconnaissez-vous que toutes les heures inscrites à votre nom sur des feuilles de temps de Soudure Ungava donc entre la période du 11/01/2000 au 13 septembre 2000, soit 94 heures inscrites?
+R. Oui, elles ont été acceptées et inscrites par les contremaîtres.
+Q. 13 Reconnaissez-vous que toutes les heures inscrites à votre nom entre le 6/11/2000 au 12 juillet 2001 alors que vous étiez sur prestations d’assurance-emploi sans déclarer ces heures?
+R. Vous avez la preuve là, […] ce sont des heures que j’ai travaillées.
+Il importe de préciser ici que cette page 3 de la déclaration a été paraphée en haut à gauche par l’appelant, mais n’a pas été signée par ce dernier parce que trop incriminante.
+À la page 4 de cette déclaration, la réponse suivante fut donnée à la question 17 :
+Q. Qui a fait la proposition d’accumuler des heures pour être payées plus tard?
+R. Ben, c’est moi qui voulait garder ma compagnie et je voulais être payé plus tard.
+[16] Lors du contre-interrogatoire de l’appelant, l’avocat de l’intimé a produit des ordres de travail du payeur au nom de l’appelant totalisant 103 heures travaillées au cours de la période visée et 247 heures travaillées après la période visée et une série de factures de la compagnie de l’appelant adressées au payeur et dont les dates sont postérieures à la période visée, i.e., pendant la période de versement des prestations et après cette période.
+[17] Le troisième témoin, monsieur Clément Gaudreault, était un administrateur du payeur et un actionnaire de la compagnie 9081-0037 Québec Inc. qui détenait 80 % des actions du payeur. Lors de son témoignage, il avait perdu la mémoire. Il ne se rappelait pas si l’appelant avait des heures accumulées alors qu’il avait répondu ce qui suit à la question 11 de la déclaration statutaire qu’il a signée le 2 mai 2004 :
+Q. Êtes-vous au courant que les 350,50 heures accumulées pendant la période du relevé d’emploi et pendant qu’il était au chômage lui ont été payées via des factures de sa propre cie « Les Entreprises R.C. d’Ungava inc.»?
+R. Oui, monsieur Côté s’était arrangé avec les trois (Roland, Alain et moi).
+Il n’a pas confirmé ni infirmé la réponse qu’il a donnée à la question 14 de sa déclaration statutaire :
+Q. Reconnaissez-vous que le relevé d’emploi # A67743337 émis au nom de René Côté est faux quant au nombre d’heures travaillées par ce dernier entre le 1/11/99 au 27/10/2000?
+R. Oui, je le reconnais, il n’a jamais fait ce nombre d’heures. Ça correspond au 30 000 $ que nous lui devions sur le prix de vente de son entreprise que nous avons achetée.
+Concernant le prix d’achat de l’entreprise de l’appelant, il n’a pas été aussi clair que la réponse qu’il a donnée à la question 6 de sa déclaration statutaire :
+Q. Pouvez-vous me dire quel prix vous avez payé l’entreprise appartenant à M. René Côté dont « Les Entreprises R.C. Ungava Inc.?
+R. C’est soixante-dix mille (70 000 $). J’ai toujours dit que nous l’avons payé trop cher.
+[18] Le quatrième témoin était madame Nancy Dion qui travaillait auprès du payeur en tant que secrétaire à temps partiel. Lors de son témoignage, elle a confirmé que le système d’accumulation d’heures était une pratique interne restreinte et que les heures accumulées étaient consignées dans un livre à cet effet. Elle a indiqué que l’appelant apportait ses feuilles de travail au bureau et les remettait à monsieur Gagnon ou à sa conjointe. Elle a dit que l’appelant contrôlait ses heures.
+[19] Dans la déclaration statutaire qu’elle a signée le 23 mars 2004, elle a répondu ce qui suit aux questions 5 à 10 :
+Q. 5 Reconnaissez-vous votre écriture sur deux feuilles 8 ½" x 11" détaillant des heures travaillées et payées au nom de René Côté?
+R. Oui, c’est mon écriture au complet sur ces deux feuilles.
+Q. 6 Pouvez-vous m’expliquer ce qui est inscrit sur ces deux feuilles au nom de René Côté?
+R. Sur la première page, entre le 11 janvier 2000 au 23 novembre 2001, ce sont toutes les heures qu’il a travaillées et accumulées en banque pour un total de 350,5 heures. Il nous a produit des bons de travail (feuilles de temps) pour ces heures qu’il a travaillées.
+Q. 7 Comment expliquez-vous que selon le relevé d’emploi émis à son nom le 13/11/2000 (# A 67743337), il est inscrit qu’il a travaillé 2 080 heures assurables et selon ces deux feuilles, il n’a travaillé que 103 heures au total durant cette période et, en plus, elles étaient accumulées pour être payées plus tard?
+R. Selon ce que moi j’ai eu connaissance à partir des feuilles de travail qu’il m’amenait au bureau, c’est 103 heures qu’il a faites.
+Q. 8 Est-il possible qu’il a accumulé des heures en banque pendant qu’il était en chômage entre le 29 octobre 2000 au 27 octobre 2001?
+R. Oui, selon ces deux feuilles de temps accumulées et ses feuilles de temps, il a travaillé à quelques reprises durant cette période.
+Q. 9 À la demande de qui, avez-vous gardé ces heures en banque jusqu’à un total de 350,5 heures?
+R. À la demande de lui, monsieur Côté, il s’est probablement arrangé avec les quatre actionnaires à l’époque, Alain et Francine Gagnon, Clément Gaudreault et Roland Bédard.
+Q. 10 Pouvez-vous m’expliquer de quelles façons les 350,5 heures accumulées ont été payées à M. René Côté?
+R. C’était déduit à partir des factures de gaz qu’il achetait chez Shell pour « tanker » son véhicule personnel. À partir de ces factures, je divisais le montant de la facture par son salaire horaire à $ 20,00 et je diminuais sa banque d’heures du montant d’heures équivalent. De plus, il produisait des factures non véridiques de sa compagnie « Les Entreprises R.C. d’Ungava Inc. », avec un nombre d’heures (entre 15 et 30 heures chaque) que je calculais à $ 20,00 de l’heure plus les taxes et moi je faisais des chèques au nom de sa compagnie et je diminuais sa banque d’heures du montant d’heures que lui mettait sur ses factures.
+[20] La cinquième personne à témoigner a été monsieur Roland Bédard qui était administrateur du payeur et actionnaire à parts égales avec monsieur Clément Gaudreault de la compagnie 9081‑0037 Québec Inc. Lors de son témoignage, il a confirmé les réponses qu’il a fournies aux questions 7 et 8 de la déclaration statutaire qu’il a signée le 25 mars 2004 dont voici des extraits :
+Q. 7 Quel était le prix de vente de cette entreprise (R.C. d’Ungava Inc.)?
+R. Aux environs de $ 70,000.00, je pense et il est venu à quelques reprises montrer le travail.
+Q. 8 Est-il possible que René Côté a travaillé un total de 2,080 heures comme il est indiqué sur le relevé d’emploi # A67743337 (entre le 11/11/1999 au 27/10/2000)?
+R. Jamais, jamais, monsieur Lévesque, il est venu des fois c’est certain mais jamais autant que ça. Je vous dit honnêtement entre moé puis toé là.
+Lors de son témoignage, il a de plus confirmé que les ordres de travail produits sous la cote I-6 représentant des travaux effectués par monsieur Côté pendant qu’il était prestataire ne pouvaient appartenir à quelqu’un d’autre.
+Analyse et conclusion
+[21] La détermination de la question de savoir si une personne est un employé ou un travailleur autonome est une question de fait et de droit puisqu’elle implique l’application d’une règle de droit à une situation de fait.
+[22] La définition d’un emploi assurable se trouve à l’alinéa 5(1)a) de la Loi qui se lit comme suit :
+5.(1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) l’emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d’un contrat de louage de services ou d’apprentissage exprès ou tacite, écrit ou verbal, que l’employé reçoive sa rémunération de l’employeur ou d’une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[23] Le concept de « contrat de louage de services » à l’alinéa 5(1)a) de la Loi doit être analysé à la lumière du droit civil québécois lorsque le droit provincial applicable est celui du Québec. C’est le Code civil du Québec qui détermine les règles applicables à un contrat conclu au Québec.
+[24] Les articles pertinents du Code civil du Québec, L.Q. 1991, ch. 64 sont les articles 2085, 2098 et 2099 et je les reproduis :
+2085. Le contrat de travail est celui par lequel une personne, le salarié, s'oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d'une autre personne, l'employeur.
+2098. Le contrat d'entreprise ou de service est celui par lequel une personne, selon le cas l'entrepreneur ou le prestataire de services, s'engage envers une autre personne, le client, à réaliser un ouvrage matériel ou intellectuel ou à fournir un service moyennant un prix que le client s'oblige à lui payer.
+2099. L’entrepreneur ou le prestataire de services a le libre choix des moyens d'exécution du contrat et il n'existe entre lui et le client aucun lien de subordination quant à son exécution.
+[25] Les observations qui suivent visent à appliquer ces règles de droit aux faits du présent dossier.
+[26] Le relevé d’emploi qui a été émis par le payeur au nom de l’appelant fait référence à 2 080 heures assurables et à une rémunération de 30 004 $ pour une période de 12 mois. Les 2 080 heures assurables représentent 40 heures par semaine pendant 52 semaines. Ceci constitue une lourde charge de travail pour l’appelant qui a vendu son entreprise parce qu’il souffrait d’une maladie aux poumons. L’appelant a lui-même reconnu dans sa déclaration statutaire qu’il n’a pas fait toutes les 2 080 heures mais il a précisé qu’il était disponible en cas de besoin et pour fournir de la formation aux employés du payeur. Monsieur Alain Gagnon, le superviseur de l’appelant, a admis qu’il ne connaissait pas le nombre exact d’heures travaillées à chaque semaine par l’appelant et que l’appelant remplissait lui-même ses feuilles de temps. Monsieur Clément Gaudreault a reconnu, dans sa déclaration statutaire, que l’appelant n’avait pas fait les 2 080 heures assurables et que cela correspondait au nombre d’heures nécessaires pour atteindre le 30 000 $ dû à l’appelant sur le prix de vente de son entreprise. Monsieur Roland Bédard, celui même à qui l’appelant a fourni la formation, a confirmé que l’appelant n’avait jamais travaillé les 2 080 heures. Enfin, il est assez invraisemblable que l’appelant ait travaillé 1 040 heures au cours des six (6) derniers mois de la période visée alors qu’en vertu de son contrat d’emploi, il n’avait même pas l’obligation de se présenter au travail et qu’il était libre de gérer son temps d’emploi à sa guise.
+[27] Le payeur a d’ailleurs reconnu sa culpabilité à 35 chefs d’accusation d’avoir produit de faux relevés d’emploi dont celui de l’appelant et a été condamné à payer une somme de 550 $ par chef d’accusation.
+[28] La somme de 30 000 $ que le payeur a versée à l’appelant pendant la période visée m’apparaît être plus de la nature d’un solde de prix de vente que d’une rémunération pour services rendus. Il m’apparaît invraisemblable qu’aucune partie du prix de vente n’ait été attribuée à l’achalandage, au contrat d’exclusivité avec Linatex et à la clause de non-concurrence d’une durée de 10 ans. En structurant la transaction comme ils l’ont fait, les deux parties ont obtenu un avantage non négligeable. Le payeur a acquis l’entreprise de l’appelant en différant sur une année le paiement d’une partie du prix de vente, tandis que la compagnie de l’appelant pouvait diminuer l’impact fiscal résultant de la vente d’actifs et l’appelant pouvait avoir accès aux bénéfices de l’assurance-emploi une année après la vente.
+[29] Sur la base des éléments soulevés, il serait possible de conclure ici que l’appelant n’était même pas un employé du payeur pendant la période visée parce qu’il n’y avait pas de relation employeur-employé entre le payeur et l’appelant. Quoiqu’il en soit, je vais poursuivre mon analyse pour traiter de l’ensemble des éléments du dossier.
+[30] Il a été mis en preuve que :
+a) le payeur n’avait aucune expertise dans la pose de revêtement en caoutchouc sur des pièces de machinerie destinées à l’industrie minière de sorte que les services de l’appelant étaient essentiels pour la poursuite de cette activité;
+b) aucun des dirigeants du payeur ne connaissait le nombre exact d'heures travaillées à chaque semaine par l'appelant;
+c) l'appelant remplissait lui-même ses feuilles de temps et il les remettait à chaque semaine aux services de comptabilité du payeur;
+d) l'appelant travaillait environ 30 % de son temps à l’atelier que sa compagnie avait loué au payeur moyennant un loyer de 400 $ par mois et le restant du temps sur des chantiers miniers principalement à la mine Inmet, division Troilus, où il avait un atelier à sa disposition fourni par la compagnie minière;
+e) l'appelant a dispensé de la formation à monsieur Roland Bédard surtout les fins de semaines, parce que ce dernier n'était pas disponible la semaine; durant les jours de la semaine, il devait travailler sur les chantiers miniers.
+[31] Sur la base des faits mentionnés au paragraphe précédent et des commentaires qui suivent, je conclus que le contrat d'emploi entre l'appelant et le payeur correspond davantage à un contrat d'entreprise ou de services plutôt qu'à un contrat de travail. En vertu du contrat, l'appelant s'est engagé envers le payeur à fournir un service, i.e., un transfert de connaissances, moyennant une rémunération de 30 004 $, échelonné sur 12 mois. Aux termes du contrat, l'appelant n'était pas tenu d'effectuer un nombre d'heures pré-déterminé, il n'était pas tenu de se présenter à un établissement du payeur pour y effectuer son travail et il n'avait pas à respecter un horaire de travail précis. L'appelant avait de plus, le libre choix des moyens d'exécution du contrat, puisqu'il était le seul qui avait les connaissances requises pour la pose et le revêtement de caoutchouc. Personne chez le payeur avait cette expertise de sorte que personne ne pouvait dicter à l'appelant les moyens d'exécution du travail, ni contrôler la qualité et la quantité de travail effectué par l'appelant.
+[32] Ce qui distingue le contrat d'entreprise ou de service du contrat de travail est l'absence d'un lien de subordination, quant à l'exécution de l'obligation prévue au contrat. On entend par « subordination », la faculté de l'employeur de déterminer le travail à exécuter, d'encadrer cette exécution et de la contrôler. En l'espèce, je ne crois pas qu'un lien de subordination existait entre le payeur et l'appelant. Rien dans la preuve me permet de conclure que le payeur pouvait contrôler la quantité et la qualité du travail exécuté par l'appelant ou imposer des moyens d'exécution du travail. À l'inverse, les caractéristiques d'un contrat de travail, à savoir l'existence d'un droit de surveillance et de direction immédiate et l'exécution par le salarié personnellement du travail convenu sous la direction de l'employeur et dans le cadre établi par ce dernier, ne se trouvent pas dans le cas en l'espèce. D'ailleurs, il était spécifiquement prévu au contrat d'emploi, qu'en cas de maladie de l'appelante, ce dernier devait fournir au payeur une personne expérimentée aux mêmes conditions et à la satisfaction du payeur. Cette obligation imposée à l'appelant de trouver un remplaçant en cas de maladie démontre bien l'existence d'un contrat de service entre le payeur et l'appelant.
+[33] Si on applique au cas en l'espèce, les critères énoncés par la Cour d’appel fédérale dans Wiebe Door Services Ltd. c. M.R.N.,(1986) 3 C.F. 553, à savoir le contrôle, la propriété des instruments de travail, les chances de profit et les risques de pertes et l'intégration, et acceptés par la Cour suprême du Canada dans 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., (2001) 2 R.C.S. 983, il ressort de la preuve que l'appelant n'avait pas la propriété des instruments de travail puisqu'il les avait vendus au payeur et que l'appelant n'avait pas de chances de profit puisque sa rémunération, telle que prévue au contrat d'emploi, était fixée d'avance pour toute la durée du contrat et que la possibilité d'effectuer des heures supplémentaires rémunérées n'était pas prévue. Par contre, l'obligation imposée à l'appelant de fournir les services d'un remplaçant en cas de maladie était susceptible d'entraîner un risque de pertes financières pour l'appelant ou à tout le moins un manque à gagner. Concernant l'intégration, je ne crois pas que les activités de l'appelant aient été intégrées à celles du payeur. L'appelant rendait ses services à son atelier et à l'atelier mis à sa disposition par la compagnie minière Inmet. Il établissait lui-même son horaire de travail. Il contrôlait la qualité et la quantité de son travail ainsi que le mode d'exécution des travaux à réaliser. Il n'occupait aucun poste hiérarchique dans l'entreprise du payeur. Le payeur n'exerçait pas et n'était pas en mesure d'exercer son pouvoir de direction ou de contrôle pour s'assurer que le travail confié à l'appelant était exécuté de façon adéquate.
+[34] Au niveau de l'intention des parties au moment de la signature du contrat, je crois que les parties avaient l'intention de conclure un contrat d'emploi pour permettre à l'appelant d'avoir droit aux bénéfices de l'assurance-emploi à l'expiration de l'année de transition. Malheureusement pour eux, le contexte se prêtait mal à l'établissement d'un tel contrat d'emploi. Ledit contrat a été conclu concurremment à un contrat de vente d'actifs et il m'apparaît clair que les parties ont tenté de convertir ce qui aurait dû être un solde de prix de vente en un revenu d'emploi. Le contrat en question est déficient à plusieurs égards et ne contient pas les clauses habituelles d'un véritable contrat d'emploi, comme par exemple, l'accès aux bénéfices sociaux, les vacances, le temps supplémentaire, l'horaire de travail, le lieu de travail, etc. Le facteur de l'intention des parties ne peut, dans ce cas, avoir l'importance que la jurisprudence confère normalement à ce facteur. Dans le cas en l'espèce, la conduite des parties est bien révélatrice. Il importe de rappeler ici que nous sommes en présence d'une entreprise qui a reconnu sa culpabilité d'avoir émis de faux relevés d'emploi et d'une entreprise qui faisait du cumul d'heures. De plus, nous sommes en présence d'un appelant, qui a fait de fausses déclarations afin d’obtenir des prestations d’assurance‑emploi, qui a travaillé pendant qu'il recevait des prestations sans déclarer les heures qu'il a effectuées, qui a participé au système de cumul d'heures du payeur et, qui s'est fait payé pour des heures accumulées en essence et par des factures de sa propre compagnie.
+[35] Pour tous ces motifs, l'appel de monsieur René Côté est rejeté et je conclus que son travail auprès du payeur, durant la période visée, n'était pas un emploi assurable aux fins du paragraphe 5(1) de la Loi.
+Signé à Ottawa, Canada, ce 5e jour de décembre 2007.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE : 2007CCI707
+Nº DU DOSSIER DE LA COUR : 2006-605(EI)
+INTITULÉ DE LA CAUSE : René Côté et M.R.N.
+LIEU DE L’AUDIENCE : Roberval (Québec)
+DATE DE L’AUDIENCE : le 18 septembre 2007
+MOTIFS DU JUGEMENT PAR : L'honorable juge Réal Favreau
+DATE DU JUGEMENT : le 5 décembre 2007
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Jean Girard
+Avocat de l'intimé :
+Me Dany Leduc
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom : Me Jean Girard
+Cabinet : Larouche & Girard, Avocats
+Ville : Chibougamau (Québec)
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,185 @@
+Title: Savoie v.M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27196/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-364-27196-savoie-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2006-07-07
+
+# Savoie v.M.N.R.
+
+- Citation: 2006 TCC 364
+- Decision date: 2006-07-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 999, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Savoie v.M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-07-07
+Neutral citation
+2006 TCC 364
+File numbers
+2004-4049(EI)
+Judges and Taxing Officers
+Sylvio J. Savoie
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2004-4049(EI)
+BETWEEN:
+JEAN-EUDES SAVOIE,
+Applicant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Motion heard on May 11, 2006, at Bathurst, New Brunswick
+Before: The Honourable Deputy Judge S.J. Savoie
+Appearances:
+For the Applicant:
+The Applicant himself
+Counsel for the Respondent:
+Alain Gareau
+________________________________________________________________
+ORDER
+Upon the Applicant's motion to set aside a judgment,
+And upon hearing the parties' allegations,
+The motion is dismissed in accordance with the attached Reasons for Order.
+Signed at Grand‑Barachois, New Brunswick, this 7th day of July 2006
+"S.J. Savoie"
+Deputy Judge Savoie
+Translation certified true
+on this 20th day of February 2008.
+Brian McCordick, Translator
+Citation: 2006TCC364
+Date: 20060707
+Docket: 2004-4049(EI)
+BETWEEN:
+JEAN-EUDES SAVOIE,
+Applicant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR ORDER
+Deputy Judge Savoie
+[1] These are the reasons for the Order disposing of Jean‑Eudes Savoie's motion to set aside the judgment rendered by this Court on January 10, 2006.
+[2] The motion was heard at Bathurst, New Brunswick, on May 11, 2006.
+[3] The Minister of National Revenue ("the Minister") considered the file in question and determined that the Appellant's work was not under a contract of service and therefore did not constitute insurable employment.
+[4] On October 5, 2004, the Appellant sent a letter to the Court along with his Notice of Appeal. The problem is that his address as stated in the letter is Post Office Box 2146, whereas his address as stated in the Notice of Appeal is Post Office Box 2148.
+[5] The Court set the matter down for hearing, and sent the notice of hearing to the Appellant at the address provided in his Notice of Appeal. The hearing was scheduled for December 12, 2005.
+[6] The Appellant was not in Court on the scheduled hearing date, and the Court dismissed his appeal due to his absence. The judgment of the Court was rendered on January 10, 2006.
+[7] The judgment was sent to the Appellant at Post Office Box 2148 by registered mail. The Appellant, who, by virtue of his motion, is now an Applicant, received it on January 11, 2006.
+[8] On April 5, 2006, Jean-Eudes Savoie sent the Court a motion to set aside the judgment on the ground that he never received the notice of hearing because it was sent to Post Office Box 2148 instead of Post Office Box 2146.
+[9] Stéphanie Côté, a lawyer with the Tax Litigation Directorate, sent her legal opinion concerning the Applicant's motion in a letter to Lucie Pilon, of this Court, dated April 11, 2006. A copy of the letter was sent to the Applicant. I shall reproduce Ms. Côté's letter below:
+[TRANSLATION]
+Quebec Regional Office
+Guy Favreau Complex
+200 René-Lévesque Boulevard West
+East Tower, 9th Floor
+Montréal, Quebec H2Z 1X4
+Telephone: 514 496-3913
+Facsimile: 514 283-3103 and 283-8427
+Assistant: 514 496-3933
+Montréal, April 11, 2006
+BY FACSIMILE
+Ms. Lucie Pilon
+Tax Court of Canada
+200 Kent Street
+Ottawa, Ontario K1A 0M1
+RE: Jean-Eudes Savoie v. Minister of National Revenue
+T.C.C. Docket: 2004-4049(EI)
+Our File: 3-211990
+Dear Madam,
+This is in reply to the Appellant's letter dated April 5, 2006, which, quite clearly, requests that the judgment rendered by this Court on January 10, 2006, be set aside.
+We contacted the Registry of the Court for information about the contents of this appeal file. We were told that in his Notice of Appeal, the Appellant stated that his address was Post Office Box 2148 in Lamèque, New Brunswick. That is why subsequent correspondence was sent to that address.
+In support of his motion, the Applicant asserts that he never received the notice of hearing because it was sent to P.O. Box 2148 instead of his actual address, P.O. Box 2146. Along with his application, he encloses a copy of three letters from the Canada Revenue Agency and the Department of Justice, even though they were sent to P.O. Box 2148.
+The least recent of these letters was sent by registered mail, along with our Reply to the Notice of Appeal, on November 30, 2004. The other letters were sent by Mr. Paraherakis (a lawyer with our Directorate at the time) and by the undersigned on January 11 and February 18, 2005. True copies of these letters were not sent to the Court, and none was returned to us by Canada Post. Furthermore, Mr. Savoie must have received all three of them even though they were addressed to Box 2148, for otherwise, he could not have provided copies with his motion.
+As for the notice of hearing, the Registry officer told us that it was sent a first time by registered mail to the address given in the Notice of Appeal, but that the mail was returned (it is not known whether this is because it was incorrectly addressed or because it was unclaimed). Consequently, the Registry tried to send the notice of hearing again by regular mail. This second correspondence was not returned by Canada Post.
+The judgment of the Court was also sent by registered mail to Box 2148. As stated in his motion, the Applicant received it on January 11, 2006.
+The Applicant's claim that he did not receive his notice of hearing is not credible. He received all the other documents that were sent to him at P.O. Box 2148, despite the possibility that this P.O. Box was incorrect. Why would he not have received the notice of hearing, especially considering the fact that the second notice sent by the Registry was never returned by Canada Post? There is every reason to believe that he did, indeed, receive this notice of hearing.
+Subsection 172(2) of the Tax Court of Canada Rules (General Procedure) states that in order to have a judgment set aside, the Applicant must show fraud or facts arising or discovered after it was made. There is no issue of fraud in this case. It is up to the Applicant to show facts arising or discovered after the judgment.
+However, by November 30, 2004, when he received our Reply to the Notice of Appeal, the Appellant must have been aware that the mail was being sent to P.O. Box 2148, not P.O. Box 2146. Nonetheless, he neglected to notify the Court, the Canada Revenue Agency, and counsel for the Minister.
+Another factor has attracted our attention. Nearly three months elapsed between the time that the Applicant was given notice of the judgment (January 11) and the time that he brought his motion to set the judgment aside (April 5). Mr. Savoie is an educated person (he was a teacher for more than 30 years) and was certainly able to understand the nature of the document. Why did he not act sooner? The Applicant's motion provides no explanation. All of this suggests that Mr. Savoie received his notice of hearing (the second notice sent by regular mail), decided not to appear in Court, and received a judgment consistent with the consequences of his inaction.
+We tried to obtain an explanation for this delay from the Department of Human Resources and Social Development (HRSDC). We were informed that, on or about March 17, 2006, HRSDC resumed measures to recover the overpayment received by the Applicant, and that the Applicant contacted HRSDC about this. Recovery efforts, which are suspended pending, inter alia, appeals before this Court, resume when a final judgment is rendered. This overpayment of employment insurance benefits was ascertained after the Minister of National Revenue decided, at the insurability and appeals stages, that Mr. Savoie's employment with D.L. Logging Express Ltd. was not insurable. The Court dismissed the appeal from this determination in its judgment of January 10, 2006.
+In view of the lack of an explanation by the Applicant with regard to the three‑month delay, it cannot be concluded with certainty that the resumption of HRSDC's recovery measures prompted Mr. Savoie to bring his motion such a long time after receiving the judgment. However, we submit that this ground would not warrant setting aside the judgment.
+Lastly, it is our opinion that, on a balance of probabilities, the Applicant received notice of the hearing of his appeal and could reasonably have been expected to attend on the day of the hearing. The Court correctly dismissed the appeal in the Applicant's absence, and thus the Court's judgment should not be set aside.
+Cordially,
+Stéphanie Côté
+Counsel, Tax Litigation Directorate
+C.c. Mr. Jean-Eudes Savoie
+[10] The Applicant set out his position regarding Ms. Côté's opinion in his letter to Ms. Pilon dated April 18, 2006. I shall reproduce the Applicant's letter below:
+[TRANSLATION]
+Jean-Eudes Savoie
+P.O. Box 2146
+Lamèque, NB E8T 3N7
+April 18, 2006
+FILE NO.: 2004-4049 (EI)
+Ms. Lucie Pilon
+Main Office
+200 Kent Street
+Ottawa ON K1A 0M1
+Dear Ms. Pilon,
+Further to the letter dated April 11, 2006, which I received on April 18, I wish to make the following clarifications:
+· On January 11, 2006, when I received notice of the Court's judgment, I contacted the Tax Court of Canada at the telephone number on the letter enclosed with the judgment, and was told that I should send a written explanation, which I did on January 17, 2006.
+· The registered letter that I sent you on April 5, 2006, explaining the situation, was in fact the same letter that I sent on January 17, 2006, further to the letter with the Court's judgment. Only the date was changed.
+· When I received the letter from the Government of Canada dated March 13, 2006, stating that they would use the tax refunds or payments of credits to which I would be entitled, I contacted the Tax Court of Canada to find out what was going on. This is when I was told that the letter of January 17, 2006, was not in my file, hence the registered letter of April 5, 2006, which, incidentally, explains the three-month delay. The only reason that I did not verify receipt of the letter earlier is that we are accustomed to such long waits before receiving news about our correspondence.
+· It is true that I made an inadvertent mistake in my appeal to the Tax Court of Canada, but it is strange that I received correspondence, even registered correspondence, at this address thereafter, except for the registered notice of hearing and the notice of hearing which was sent by regular mail?!? Faced with this situation, I went to Canada Post for information. They told me that a letter that is addressed to the wrong box and is brought back to the office is returned to the sender. Sometimes, though, the address is corrected if the employee knows the addressee. But Canada Post was unable to give me further particulars regarding the two letters referred to in Ms. Côté's correspondence. They told me that the owners of Box 2148 may not have claimed the registered letter because it was not addressed to them, and that they did not return the letter that had been sent by regular mail. In any event, I think that the notice of hearing should not have been sent by regular mail. A telephone call would have settled the situation.
+I hereby confirm that neither of the two notices of hearing referred to in the April 11, 2006, letter by Ms. Côté was . . . received by me.
+I trust that this situation can be resolved expeditiously.
+Yours very truly,
+Jean-Eudes Savoie
+Encl.: Letter of April 11, 2006
+Letter of January 17, 2006
+[11] The Applicant did not provide any new facts at the hearing.
+[12] The procedure in a motion to set aside a judgment is set out in the Tax Court of Canada Rules (General Procedure). The following excerpt from those Rules applies in the instant case:
+Tax Court of Canada Rules (General Procedure)
+Setting Aside, Varying or Amending Accidental Errors in Judgments – General
+172. (2) A party who seeks to,
+(a) have a judgment set aside or varied on the ground of fraud or of facts arising or discovered after it was made,
+. . .
+may make a motion for the relief claimed.
+According to this Rule, the relief sought by the Applicant must be based on the existence of "fraud or facts arising or discovered after it was made."
+[13] The onus is on the Applicant to prove one of these elements on a balance of probabilities, but such proof has not been made.
+[14] In addition, as Ms. Côté noted in her letter reproduced above, the Applicant was unable to explain why he received some documents, but not others, at Post Office Box 2148.
+[15] Moreover, the Applicant's delay in bringing his motion was not explained, and it coincides with the measures that HRSDC undertook to recover the overpayment, thereby casting doubt on the Applicant's credibility, and, consequently, on the merits of his case.
+[16] For these reasons, the motion is dismissed.
+Signed at Grand‑Barachois, New Brunswick, this 7th day of July 2006.
+"S.J. Savoie"
+Deputy Judge Savoie
+Translation certified true
+on this 20th day of February 2008.
+Brian McCordick, Translator
+CITATION:
+2006TCC364
+COURT FILE NO.:
+2004-4049(EI)
+STYLE OF CAUSE:
+Jean-Eudes Savoie and M.N.R.
+PLACE OF HEARING:
+Québec, Quebec
+DATE OF HEARING:
+May 11, 2006
+REASONS FOR ORDER BY:
+The Honourable Deputy Judge S.J. Savoie
+DATE OF ORDER:
+July 7, 2006
+APPEARANCES:
+For the Applicant:
+The Applicant himself
+Counsel for the Respondent:
+Alain Gareau
+COUNSEL OF RECORD:
+For the Applicant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

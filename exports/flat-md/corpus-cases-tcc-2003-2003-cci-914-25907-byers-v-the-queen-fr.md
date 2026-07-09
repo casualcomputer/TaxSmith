@@ -1,0 +1,167 @@
+---
+title: "Byers v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25907/index.do"
+last_modified: "2003-12-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 914"
+citation2: ""
+neutral_citation: "2003 CCI 914"
+decision_date: "2003-12-19"
+language: "fr"
+item_id: "25907"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3705
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:23:06.122000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a586470b96298ce2350efae3e170d193dd56a8ca8745e3f31f9452643eeb4684"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Byers v. The Queen
+
+- Citation: 2003 CCI 914
+- Decision date: 2003-12-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3705, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Byers v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-12-19
+Référence neutre
+2003 CCI 914
+Numéro de dossier
+2001-2535(IT)G
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2001-2535(IT)G
+ENTRE :
+AL BYERS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+_________________________________________________________________
+Appel entendu le 24 novembre 2003 à Nanaimo (Colombie-Britannique)
+Devant : L'honorable juge D. W. Beaubier
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Eric Douglas
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l'encontre des nouvelles cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1996, 1997 et 1998 sont accueillis et les nouvelles cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations conformément aux motifs du jugement ci-joints.
+Dans le cadre du présent appel, l'intimée a droit à des dépens entre parties.
+Signé à Saskatoon, Canada, ce 19e jour de décembre 2003.
+« D. W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 20e jour d'avril 2004.
+Nancy Bouchard, traductrice
+Référence : 2003CCI914
+Date : 20031219
+Dossier : 2001-2535(IT)G
+ENTRE :
+AL BYERS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Beaubier
+[1] Le présent appel interjeté sous le régime de la procédure générale a été entendu à Nanaimo, en Colombie-Britannique, le 24 novembre 2003. L'appelant a témoigné et a appelé à témoigner Charles Young, un enseignant qui était membre de l'équipage du yacht de l'appelant, Alan MacSween, un capitaine qui a inspecté le bateau en 2000 et 2001 à la demande de l'appelant aux fins d'accréditation pour le transport de passagers sous contrat d'affrètement, ainsi que Sigfried Rogge, un ancien officier de port à la marina de Stone à Nanaimo où le yacht était amarré. Quant à l'intimée, elle n'a produit aucun témoin.
+[2] Les paragraphes 3 à 12 a) ainsi que le paragraphe 13 de la Réponse modifiée de l'intimée datée du 5 octobre 2001 sont ainsi formulés :
+[traduction]
+3. Il a reconnu que l'appelant exploitait une entreprise d'affrètement de bateaux à l'aide d'un bateau à voiles.
+4. Il a admis que le ministre du Revenu national (le « ministre » ) a refusé la plupart des dépenses que l'appelant a demandées en fonction d'un rapport entre le nombre de jours de voyages nolisés pendant une année et le nombre total de jours dans une année, mais il a nié que cette méthode était irrégulière.
+5. Il nie toutes les autres hypothèses de fait énoncées dans l'Avis d'appel et exige que l'appelant présente une preuve formelle.
+6. Au départ, le ministre a établi des cotisations à l'égard de l'appelant pour les années d'imposition 1996, 1997 et 1998 par voie d'avis datés du 7 avril 1997, du 15 avril 1998 et du 25 mars 1999.
+7. Dans le calcul de ses revenus pour les années d'imposition 1996, 1997 et 1998, l'appelant a déduit les sommes de 28 228 $, de 36 818 $ et de 37 529 $ à titre de dépenses d'entreprise.
+8. Par voie d'avis datés du 4 mai 2000, le ministre a établi de nouvelles cotisations à l'égard de l'appelant pour les années d'imposition 1996, 1997 et 1998 visant à refuser les dépenses demandées aux montants de 25 921 $, de 33 470 $ et de 33 270 $ et a imposé des pénalités pour faute lourde à l'égard de chacune de ces années.
+9. Par voie d'avis déposé le 1er août 2000, l'appelant s'est opposé aux nouvelles cotisations qu'avait établies le ministre.
+10. Par voie d'avis datés du 6 avril 2001, le ministre a de nouveau établi de nouvelles cotisations à l'égard de l'appelant de manière à admettre les dépenses aux montants de 749 $ et de 558 $ en plus des sommes déjà admises pour les années d'imposition 1997 et 1998 respectivement et à annuler les pénalités pour faute lourde qui avaient été imposées pour les années d'imposition 1996, 1997 et 1998.
+11. En établissant ainsi de nouvelles cotisations à l'égard de l'appelant, le ministre s'est appuyé sur les hypothèses suivantes :
+a) pendant toute la période pertinente, l'appelant occupait un emploi à temps plein comme directeur d'un école secondaire;
+b) l'appelant est depuis longtemps un passionné de la voile;
+c) en 1991, l'appelant a fait l'acquisition d'un yacht mixte Cooper Yachts 1981 d'une longueur de 51 pieds baptisé Windshadow X au prix de 168 000 $ (le « yacht » );
+d) l'appelant a acheté le yacht principalement à des fins personnelles qu'il a rénové en prévision de sa retraite;
+e) l'appelant vit en permanence sur son yacht depuis son achat et n'a aucun autre lieu de résidence;
+f) le yacht compte trois cabines dont l'une d'entre elles est occupée en permanence par l'appelant;
+g) depuis la date d'achat du yacht, l'appelant a déclaré des pertes d'entreprise liées à l'affrètement du yacht (l' « activité » ) pour les années et aux montants énoncés dans l'annexe A de la présente Réponse;
+h) pour les années d'imposition 1996, 1997 et 1998, l'appelant a déclaré des revenus et des dépenses se rapportant à l'activité, tels qu'ils sont exposés en détail à l'annexe B de la présente Réponse;
+i) pendant les années d'imposition 1996, 1997 et 1998, l'appelant effectuait cinq ou six affrètements par année pour un total de 24 jours, de 37 jours et de 31 jours respectivement;
+j) pour les années d'imposition 1996, 1997 et 1998, l'appelant a déclaré que l'utilisation du yacht à des fins personnelles correspondait à 19 p. 100, 19 p. 100 et 6 p. 100 respectivement;
+k) les revenus déclarés pour l'année d'imposition 1998 comprenaient la somme de 2 400 $ qui représentait le paiement que s'est versé l'appelant pour l'utilisation du yacht à des fins personnelles;
+l) la partie personnelle réelle des dépenses relatives à l'utilisation du yacht à des fins personnelles correspondait au moins à 93 p. 100, à 90 p. 100 et à 91,5 p. 100pour les années d'imposition 1996, 1997 et 1998 respectivement;
+m) l'augmentation du pourcentage de l'utilisation du yacht à des fins personnelles ainsi que le refus de la totalité des frais personnels, dépenses qui n'ont pas été justifiées et qui, de par leur nature, étaient des dépenses en capital ( « les dépenses refusées » ), révèle que l'appelant a en fait tiré des profits de l'activité aux montants de 8 693,75 $, de 17 903,28 $ et de 12 696,45 $ pour les années d'imposition 1996, 1997 et 1998 respectivement, tels qu'ils sont exposés en détail à l'annexe C de la présente Réponse;
+n) l'appelant a demandé certaines dépenses au titre de frais d'essence, d'amarrage du yacht et de repas engagées pendant les mois où le yacht n'était pas nolisé;
+o) certaines de ces dépenses déclarées aux fins d'entretien et de réparation étaient en fait liées à la mise à niveau et à la rénovation du yacht et n'étaient pas généralement nécessaires aux fins d'entretien d'un bateau nolisé;
+p) un capitaine qui a inspecté le bateau le 25 mars 1998 a constaté l'ampleur et la qualité des améliorations apportées au yacht et, selon la juste valeur marchande, il l'a évalué à 280 000 $;
+q) en vue de maintenir l'état originel de son lieu de résidence, c'est-à-dire le yacht, l'appelant choisissait avec soin les personnes à qui il l'affrétait;
+r) pendant les années d'imposition 1996, 1997 et 1998, les clients de l'appelant étaient essentiellement les mêmes pour chacune de ces années ou étaient des participants à une course bisannuelle de yachts transpacifique connue sous le nom de la course Vic-Maui;
+s) l'appelant a fait peu de publicité concernant l'activité et celle-ci ne figurait pas dans les pages blanches ou jaunes de l'annuaire téléphonique;
+t) la nourriture n'était pas comprise dans le prix des voyages nolisés de l'appelant et ce dernier ne fournissait aucun repas à ses clients;
+u) l'appelant n'a pas élaboré un plan d'affaires avant de démarrer l'activité et ne prévoit pas d'apporter des changements à l'activité qui permettraient de réduire les dépenses;
+v) les dépenses refusées n'ont pas été engagées en vue de tirer un revenu d'une entreprise ou d'un bien; il s'agissait plutôt de frais personnels ou de subsistance de l'appelant, de dépenses qui n'ont pas été engagées ou qui de par leur nature étaient des dépenses en capital.
+B. QUESTIONS EN LITIGE À TRANCHER
+12. Il s'agit de savoir :
+a) si les dépenses supérieures au montant qu'a admis le ministre ont été engagées par l'appelant en vue de tirer un revenu d'une entreprise ou d'un bien;
+[...]
+C. DISPOSITIONS LÉGISLATIVES INVOQUÉES
+13. Il s'appuie sur les articles 3 et 9, sur le paragraphe 248(1) ainsi que sur les alinéas 18(1)a), 18(1)b), 18(1)h) et 18(1)l) de la Loi de l'impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.), dans sa version modifiée (la « Loi » ).
+[3] L'intimée n'a pas explicitement invoqué le paragraphe 18(12).
+[4] Les hypothèses énoncées aux points a), b), c), e), f), g), h), i), j), k), m), n), o), p), q), r), s), t) et u) du paragraphe 6 n'ont pas été réfutées par la preuve. Cependant, au point a), l'appelant était un directeur adjoint et non pas un directeur et au point f), lorsque le yacht était nolisé, l'appelant n'utilisait pas de cabine si celle-ci était occupée par des passagers.
+[5] En ce qui concernant les autres hypothèses :
+celle énoncée au point d) du paragraphe 6 est vraie. L'appelant a vécu en permanence sur son yacht de 1991, soit l'année où il l'a acheté, jusqu'en 2001 environ, lorsqu'il l'a vendu. Il s'agissait de sa résidence personnelle et il avait été acheté à cette fin (voir la pièce R-1);
+celle énoncée au point l) du paragraphe 6est fondée sur le temps réel pendant lequel le yacht était nolisé qui correspond à un pourcentage de la totalité des jours pour chaque année civile et qui représente une proportion des dépenses totales. L'appelant a déclaré que les frais d'essence engagés au cours de voyages nolisés étaient différents de ceux engagés normalement au même titre que l'assurance. Cependant, il n'a présenté aucun autre chiffre comparable;
+celle énoncée au point m) du paragraphe 6 a été admise, mais les parties ont depuis modifié ce pourcentage dans la pièce R-4.
+celle énoncée au point q) du paragraphe 6n'a pas été réfutée, mais tout propriétaire se réserve le droit d'être très sélectif lorsqu'il s'agit de choisir des locataires s'il souhaite conserver son bien en bon état, et ce, à un coût raisonnable. C'est d'ailleurs en partie la raison pour laquelle la Cour croit que les méthodes de publicité de l'appelant correspondaient à une démarche commerciale; pour obtenir un client de qualité, une publicité sélective est préférable à une publicité radiophonique et télévisée;
+celle énoncée au point r) du paragraphe 6est la question en litige.
+[6] Au cours de son témoignage, l'appelant n'a pas reconnu que le fait de vivre sur son yacht constituait une utilisation d'un bien à des fins personnelles pour le plaisir. Cependant, la Cour conclut que tel est le cas. L'appelant a choisi de vendre sa maison à Whistler et d'utiliser le produit pour acheter le yacht et y résider. Sa demande de prêt en vue d'acheter le yacht stipulait que l'objet de l'achat était d'en faire son lieu de résidence (pièce R-1). L'appelant a fait remarquer qu'il avait demandé ce prêt en raison du taux d'intérêt moins élevé et parce qu'il pouvait l'obtenir plus rapidement qu'un prêt commercial. L'appelant doit vivre conformément à l'objectif qu'il s'est fixé, comme il l'a déclaré dans la pièce R-1, mais plus important est le fait qu'il s'agissait de son lieu de résidence à partir du moment où il en a fait l'acquisition et jusqu'à ce qu'il le vende.
+[7] L'avocat de l'intimée a soutenu que l'intimée s'est appuyée sur l'affaire J. Paul Fingold c. La Reine, C.C.I., no 94-740(IT)G, 22 décembre 1995 (96 DTC 1305) pour établir des cotisations à l'égard de l'appelant. La Cour, en s'appuyant sur les hypothèses déjà énoncées, refuse les dépenses qu'a demandées l'appelant à l'origine. L'appelant s'est opposé à la méthode qu'a proposée l'intimée, mais il n'a présenté aucun autre chiffre ni n'a fourni aucune explication des dépenses détaillées en cause sur laquelle la Cour pourrait s'appuyer pour procéder à un autre calcul. Dans ces circonstances, la Cour conclut, en s'appuyant sur le raisonnement du juge Sobier dans l'affaire Fingold, que les pourcentages qu'a évalués l'intimée sont corrects. Les pourcentages correspondant à l'utilisation du yacht à des fins personnelles sont les suivants :
+1996 : 93 %
+1997 : 90 %
+1998 : 91,5 %
+En conséquence, la Cour confirme [traduction] « l'attribution des pourcentages à des fins personnelles » qu'a évalués l'intimée dans la pièce R-4 pour que la présente question soit déférée au ministre du Revenu national pour nouvel examen et nouvelles cotisations, telles qu'elles sont précisément établies dans la pièce R-4 quant à la forme, avec les ajouts appropriés fondés sur cette conclusion.
+[8] Les redressements en faveur de l'appelant sont minimes et ne se rapportent qu'aux modifications comptables, telles qu'elles ont été révisées au cours de l'interrogatoire préalable. Dans ces circonstances, l'intimée a droit, dans le cadre du présent appel, à des dépens entre parties.
+[9] Au commencement de l'audience, l'appelant a indiqué à la Cour que son adresse, aux fins du présent appel, est désormais la suivante :
+10920 Chemainus Road
+Ladysmith (Colombie-Britannique)
+V9G 1Z4 (ajout de la Cour)
+Courriel : alanbyers@shaw.ca
+Téléphone : (250) 245-5180
+La Cour ordonne qu'il en soit ainsi.
+Signé à Saskatoon, Canada, ce 19e jour de décembre 2003.
+« D. W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 20e jour d'avril 2004.
+Nancy Bouchard, traductrice

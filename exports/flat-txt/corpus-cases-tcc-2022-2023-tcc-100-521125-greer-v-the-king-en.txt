@@ -1,0 +1,424 @@
+Title: Greer v. The King
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521125/index.do
+Corpus path: corpus/cases/tcc/2022/2023-tcc-100-521125-greer-v-the-king-en.md
+Document type: case_law
+Last modified: 2022-08-17
+
+# Greer v. The King
+
+- Citation: 2023 TCC 100
+- Decision date: 2022-08-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5844, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Greer v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2023-07-17
+Neutral citation
+2023 TCC 100
+File numbers
+2017-3940(IT)G
+Judges and Taxing Officers
+David E. Spiro
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2017-3940(IT)G
+BETWEEN:
+MICHAEL GREER,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on August 16, 17 and 18, 2022,
+at Fredericton, New Brunswick (additional written submissions received February 24, 2023, March 31, 2023, and April 24, 2023)
+Before: The Honourable Justice David E. Spiro
+Appearances:
+Counsel for the Appellant:
+Erica C. Brown
+Counsel for the Respondent:
+Tokunbo Omisade
+JUDGMENT
+The appeal of the reassessment for the 2005 taxation year made under the Income Tax Act (the “Act”) is allowed, without costs, and the reassessment sent back to the Minister for reconsideration and reassessment on the basis that the Appellant was required to include a shareholder benefit of $2,436,900 in computing income for his 2005 taxation year under subsection 15(1) of the Act.
+Signed at Ottawa, Canada, this 17th day of July 2023.
+“David E. Spiro”
+Spiro J.
+Citation: 2023 TCC 100
+Date: 20230717
+Docket: 2017-3940(IT)G
+BETWEEN:
+MICHAEL GREER,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Spiro J.
+[1] The main issue in this appeal is whether the Appellant, Mr. Michael Greer, was required to include a shareholder benefit in computing income for 2005 after receiving real properties worth over $2.4 million from a corporation owned by his late father’s estate. The fair market value of those properties is at issue as well.
+[2] If the Appellant was required to include a shareholder benefit, the next issue is whether the Minister of National Revenue (the “Minister”) was entitled to reassess the benefit after the normal reassessment period. If the Appellant made a misrepresentation attributable to neglect or carelessness in filing his 2005 return, the Minister was entitled to reassess. On that issue, the onus was on the Crown.
+[3] I have concluded the Appellant was required to include a shareholder benefit in computing his 2005 income. The Minister was entitled to reassess the benefit even after the normal reassessment period because, in failing to report that benefit, the Appellant made a misrepresentation attributable to neglect or carelessness. I have also concluded that the fair market value of the properties was $2,436,900 rather than $2,846,200 as assumed by the Minister.
+I. Introduction [4] The Minister reassessed the Appellant’s 2005 taxation year to include an additional $2,846,200 in computing his income under a combination of subsections 15(1) and 15(2) of the Act. In particular, the Minister included:
+(a)a shareholder benefit of $1,584,200 under subsection 15(1) of the Income Tax Act (the “Act”) and
+(b)a shareholder loan of $1,262,000 under subsection 15(2) of the Act.
+[5] Here are the relevant portions of subsections 15(1) and 15(2) of the Act:
+15(1) Where at any time in a taxation year a benefit is conferred on a shareholder … by a corporation … the amount or value thereof shall … be included in computing the income of the shareholder for the year.
+15(2) Where a person … is
+(a) a shareholder of a particular corporation, …
+and the person … has in a taxation year received a loan from or has become indebted to the particular corporation, … the amount of the loan or indebtedness is included in computing the income for the year of the person or partnership.
+[6] The Minister’s assessment of a shareholder benefit of $1,584,200 under subsection 15(1) reflected the difference between the price the Minister assumed the Appellant paid for four real properties in and around Fredericton, New Brunswick, transferred to him in 2005 by H. Greer & Son Ltd. (“HGSL”) ($1,262,000) and their fair market value at the time of the transfer ($2,846,200).
+[7] The Minister’s reassessment of a shareholder loan of $1,262,000 under subsection 15(2) reflected a loan the Minister assumed was made by HGSL to the Appellant to allow him to purchase those properties from HGSL.
+A. Position of Each Party
+[8] The Appellant’s position was that he had not been a shareholder of HGSL since 1973 or 1974. The Appellant also argued that he made no misrepresentation in filing his 2005 return and even if he had, the misrepresentation was not attributable to neglect or carelessness. The Appellant also argued that having vacated an earlier reassessment for his 2006 taxation year, the Minister was precluded from re-litigating the same issues with respect to his 2005 taxation year. Finally, the Appellant argued that even if he was a shareholder, and even if the Minister was right about the fair market value of the properties, the reassessment should be vacated because the Minister took too long to reassess.
+[9] The Crown’s position was that the Appellant was a shareholder of HGSL as of July 10, 1996, as indicated in the shareholders’ register, and that the fair market value of the properties he purchased from HGSL in 2005 was not less than $2,846,200. The Crown also argued that by filing his 2005 return without reporting the shareholder benefit of $1,584,200 and the shareholder loan of $1,262,000, the Appellant made misrepresentations attributable to neglect or carelessness.
+B. Summary of Conclusions
+[10] I have concluded that the fair market value of the four properties immediately after the transfer was $2,436,900 rather than $2,846,200 as assumed by the Minister in reassessing.[1] I have also concluded that the only applicable provision of the Act is subsection 15(1). In particular, I have concluded that:
+(a)the Appellant was a shareholder of HGSL in 2005;
+(b)HGSL transferred the properties to the Appellant in 2005 for no consideration;
+(c)the fair market value of the properties at that time was $2,436,900;
+(d)because HGSL conferred a benefit on the Appellant as shareholder in the amount of $2,436,900 in 2005, the Appellant was required to include a shareholder benefit of that amount in computing income for his 2005 taxation year under subsection 15(1) of the Act;
+(e)the Appellant made a misrepresentation in filing his 2005 tax return by failing to report any shareholder benefit; and
+(f)the misrepresentation was attributable to neglect or carelessness.
+[11] The appeal will, therefore, be allowed and the reassessment sent back to the Minister for reconsideration and reassessment on the basis that the Appellant was required to include a shareholder benefit of $2,436,900 in computing income for his 2005 taxation year under subsection 15(1) of the Act.
+II. The Vacated Reassessment (2006 Taxation Year) [12] In 2012, the Minister reassessed the Appellant’s 2006 taxation year on the same basis as the Minister later reassessed his 2005 taxation year. The Minister initially reassessed the Appellant’s 2006 taxation year because she had incorrectly assumed that HGSL transferred the properties to the Appellant in 2006. The Appellant objected to the 2006 reassessment.[2]
+[13] During the audit of the Appellant’s 2006 taxation year, the Appellant showed the minute book of HGSL to the auditor. In particular, the auditor testified that in 2009 or 2010, he visited the Appellant’s office and was provided with the minute book which he scanned and printed. That was the source of the shareholders’ register of HGSL marked as Exhibit R-15 and attached as Schedule “A” to these reasons.[3]
+[14] The Minister reassessed the Appellant’s 2006 taxation year on the basis that:
+(a) HGSL transferred four properties to the Appellant in 2006; and
+(b) the fair market value of those properties at that time was not less than $2,846,200.
+[15] Under the 2006 reassessment, which was made beyond the normal reassessment period, the Minister included in computing the Appellant’s 2006 income a shareholder benefit of $1,584,200 under subsection 15(1) of the Act and a shareholder loan of $1,262,000 under subsection 15(2) of the Act.
+[16] Once it became clear that the property transfers occurred in 2005 rather than 2006, the Appeals Division of the Canada Revenue Agency (the “CRA”) vacated the 2006 reassessment.
+[17] No appeal was instituted in this Court, and no pleadings were filed, in respect of the 2006 reassessment. As it was vacated by the Appeals Division of the CRA following the Appellant’s objection, there was never any appeal of that reassessment to this Court.
+III. The Reassessment at Issue (2005 Taxation Year) [18] Some time after the 2006 reassessment was vacated, the CRA auditor responsible for issuing the 2006 reassessment reassessed the Appellant’s 2005 taxation year. The only meaningful change to the Minister’s assumptions was that the properties were transferred by HGSL to the Appellant in 2005 rather than 2006. The Minister reassessed the same shareholder benefit and the same shareholder loan but, this time, did so in respect of the Appellant’s 2005 taxation year. That is the reassessment under appeal.
+IV. The Trial [19] The parties filed a partial agreed statement of facts. The Appellant then testified. The Appellant then called an accountant with whom he began working in 2017. It soon became obvious that the accountant had no personal knowledge of any of the events at issue and, therefore, had no relevant evidence to give. Appellant’s counsel then asked the Court to receive his evidence as an expert. I declined counsel’s invitation as resolution of the issues pleaded required no expert accounting evidence.
+[20] Each party called an expert real estate appraiser with respect to the fair market value of the four properties immediately after their transfer to the Appellant by HGSL.
+[21] Finally, the Crown called the CRA auditor, Mr. Ken Stewart, to give evidence on the earlier reassessment of the Appellant’s 2006 taxation year and the documents provided to the CRA by the Appellant in the course of that audit, including HGSL’s minute book.
+V. Findings of Fact, Legal Analysis, and Application of the Law to the Facts [22] The Appellant is a resident of New Brunswick. His father was Hedley Greer and his stepmother was Violetta Greer. HGSL was in the business of property development and sales. It was controlled by the Appellant’s late father, Hedley Greer and had been incorporated in New Brunswick.
+[23] Hedley Greer passed away in 1998. After his death, his control block of shares in HGSL was transferred to his estate (the “Estate”). Hedley Greer’s will provided that:
+(a)Violetta Greer would be the executrix and trustee of the Estate;
+(b)all net income of the Estate would be paid to Violetta Greer during her lifetime; and
+(c)on the death of Violetta Greer, the Estate would be divided in half with one-half paid in equal shares to the Appellant and his two sisters and the other half paid in equal shares to the nieces and nephews of Violetta Greer.
+[24] In 2000, the Appellant acquired the interests of his sisters in the Estate for $474,000 with funds that he borrowed from HGSL, but never repaid. Following that transaction, he had a beneficial interest in one-half of the Estate.
+[25] Violetta Greer owned 100 shares of HGSL personally. She was also a director and officer of HGSL.
+[26] The Appellant was sole shareholder of three corporations:
+(a)H. Greer & Son (2006) Ltd.;
+(b)Five Star Equipment Sales Ltd.; and
+(c)Greer’s Mountain Salvage Ltd.
+[27] In 2006, the Appellant incorporated the first company, H. Greer & Son (2006) Ltd., to carry on the business of buying and selling properties.[4]
+[28] On October 4, 2005, when Violetta Greer was 86 years old, HGSL transferred four properties to the Appellant for no consideration:
+(a)Mini mall – Timothy Avenue;
+(b)Woodland end of Michael and Violetta Avenue;
+(c)619 acres end of Timothy Avenue; and
+(d)End of Timothy Avenue.
+[29] At a meeting of the directors of HGSL approving the transfer of the properties to the Appellant, Violetta Greer acted as chair and the Appellant acted as secretary. The deed for each of the four properties, dated October 4, 2005, discloses that HGSL was the “grantor” and the Appellant the “grantee”.[5]
+[30] In 2006 and 2007, the Appellant sold some of the properties to third parties and transferred most of the remaining properties to his own company, H. Greer & Son (2006) Ltd.
+A. Issue #1 – Did the Appellant Receive a Loan from HGSL?
+[31] Contrary to the assumption made by the Minister in reassessing, I find that the Appellant did not pay for any of the four properties that HGSL transferred to him in 2005. It, therefore, follows that he received no loan from HGSL within the meaning of subsection 15(2) of the Act.
+[32] Although he was well aware that it was HGSL, rather than the Estate, that transferred the properties to him, the Appellant rationalized the transfer as a distribution from the Estate:
+Q. Now, in October 2005, you had acquired some properties from the company.
+A. Yes.
+Q. And these were four properties that you acquired from the company in 2005.
+A. Yes. Those were my inheritance.
+Q. … you purchased these properties from the company in - on October 4, 2005.
+A. I purchased it, you said?
+Q. Okay....
+A. I received it. It was an inheritance.[6]
+***
+Q. Did you ever repay the loan back to the company?
+A. Which loan, sir?
+Q. The loan of $1.381 million, the combined of the - the three numbers we just went through.
+A. No, that was given to be as an inheritance.
+Q. Well, you never repaid - you never repaid....
+A. I never had to repay this because it was an inheritance. The money I would’ve had to repay was the $274,000 or $474,000 - whatever it was, and I didn’t have to because she [Violetta] said, “Don’t worry about it.”
+Q. Okay so you didn’t repay the $474,000 and you didn’t pay the $1.381 million....
+A. I didn’t have to repay this; this was my inheritance. My share of the company. I didn’t have to buy my share of the company because it was my inheritance.[7]
+B. Issue #2 – Was the Appellant a Shareholder of HGSL? [33] This is the central issue in this appeal. At trial, the Appellant denied having been a shareholder of HGSL when HGSL transferred the properties to him in 2005. In support of that position, his counsel noted that the Appellant received neither a share certificate nor dividends from HGSL. She also relied on a letter not in evidence that was written by counsel four years before the transactions at issue. The letter asserted, in passing, that Violetta Greer was the sole shareholder of HGSL.[8]
+[34] In concluding that the Appellant was a shareholder of HGSL when it transferred the properties to him, I have relied on three factors: (1) the unreliability of the Appellant’s evidence; (2) the shareholders’ register of HGSL; and (3) the presumption in subsection 181(3) of the New Brunswick Business Corporations Act (“NBBCA”).
+(1) The Unreliability of the Appellant’s Evidence [35] On the issue of whether the Appellant was a shareholder of HGSL at the time of the transfers, I have concluded that the Appellant’s evidence is unreliable.[9]
+[36] The Appellant began by denying any involvement with HGSL:
+Q. You were also involved in H. Greer and Sons Limited.
+A. Am I involved in H....
+Q. You were also involved in that company as well.
+A. No, I wasn’t. I just helped my stepmother in that company. I had no involvement in it at all.[10]
+[37] The Appellant doubled down on his testimony by telling the Court that, as near as he knows, “I wasn’t part of it.”[11]
+[38] But later in cross-examination, the Appellant made a series of admissions demonstrating, contrary to his earlier denials, that he was deeply involved in the corporate affairs of HGSL:
+MR. OMISADE: Q. You were the president of the company?
+A. Yes, I was the president of the company.
+Q. You were also at one point the vice-president of the company?
+A. All right, I was the vice-president of the company.
+Q. You were a director of the company?
+A. And I was a director of the company.
+Q. You acted at the shareholder’s meeting on behalf of the company?
+A. Yes.
+Q. And you carried out transactions on behalf of the company as well.
+A. Yes.[12]
+[39] In light of these admissions, the Appellant’s earlier testimony regarding his lack of involvement in HGSL had been discredited. Indeed, the Appellant acted as secretary of HGSL at the corporate meeting authorizing the transfer of the properties from HGSL to himself. In addition to holding office as secretary, he held office as president of HGSL and was a director as well.[13] Finally, he signed documents as president of HGSL effecting the transfer of each property from HGSL to himself.
+[40] In his evidence in chief, the Appellant was asked about the share of HGSL that the Minister assumed he owned in 2005:
+Q. And when did you hold a share in HGSL?
+A. Apparently, I got one in 1970.
+Q. Do you know how many shares you had?
+A. Apparently, I was told I had one.
+Q. Who told you, you had one?
+A. My father.
+Q. When?
+A. 1970.
+Q. What other discussions did you have with your father about the share?
+A. That was it. Never talked about it again. And then we got in a spat, and he took it away and gave it to Pete [Mockler]. That’s the last I heard of it.
+Q. When did that happen? Do you recall?
+A. Oh, probably ’73, close to ’74.[14]
+[41] In reassessing, the Minister assumed that the Appellant owned one common share of HGSL.[15] The evidence offered by the Appellant to rebut this assumption falls far short of the mark and does nothing to diminish, let alone demolish, the central assumption of fact made by the Minister in reassessing − that the Appellant was a shareholder of HGSL when the properties were transferred to him.[16]
+[42] Then there is the Appellant’s “trust” theory. In his Notice of Appeal, the Appellant alleged that from 1970 to 1974 he “held one share [of HGSL] in trust for his father.”[17] During examination-in-chief, the Appellant was asked by counsel about his understanding of holding a share “in trust”. The Appellant responded that he “doesn’t have any idea what a share is, like, really.”[18]
+[43] The Appellant’s response to this question − that he has no idea what a share is − further diminishes his reliability on the issue of whether he was a shareholder of HGSL at the relevant time. The Appellant was sole shareholder of three companies.[19] He knew or ought to have known what a share was, particularly as he had legal advice on the incorporation of at least one of those companies:
+Q. And when was HGSL 2006 incorporated?
+A. 2006.
+Q. Right, and why did you incorporate?
+A. Well, I thought that would be good thing to do, but looking back it probably wasn’t.
+Q. Why did you think it would be a good idea?
+A. Well, I thought that’s how you run companies. Seriously.
+Q. And did anybody give you advice?
+A. Lawyers and accountants.[20]
+[44] Returning to the Appellant’s “trust” theory, his counsel submitted that the Appellant’s holding of one share of HGSL “was subject to a trust in favour of Hedley”.[21] There was no evidence of any such trust. Asserting a theory that has no basis in fact or law further diminishes the Appellant’s reliability on the question of whether he was a shareholder of HGSL at the relevant time.
+[45] Finally, the Appellant’s testimony that he had not owned a share in HGSL after 1973 or 1974 was further discredited by his prior inconsistent statement. In the Appellant’s Notice of Objection against the 2006 reassessment, he admitted that he was a shareholder of HGSL prior to June 13, 1998. This is inconsistent with his testimony that his father took away his share of HGSL in 1973 or 1974 and that was the last he heard of it. In cross-examination, Crown counsel refreshed the Appellant’s memory about what he stated in his Notice of Objection to the 2006 reassessment:
+MR. OMISADE: Q. … Mr. Greer, if I could please just ask you to turn to Tab 47 of the Book of Documents. When you were initially assessed for 2006, you had served a Notice of Objection on the Minister from 2006, when you were initially assessed.
+A. Yes.
+Q. If I could just turn your - you had (inaudible) for representing you, do you remember that? (Inaudible), it’s a law firm.
+A. Yes.
+Q. Do you remember them representing you with the CRA?
+A. Yes.
+Q. And if I could ask you to look at Tab 47, it’s entitled, “Notice of Objection to Reassessment for Michael Greer.”
+A. Yes.
+Q. Do you see that?
+A. Yeah.
+Q. Do you recall looking at that or discussing that with your lawyers?
+A. I’m sure we did, yes.
+Q. Okay. If I could just turn your attention to page 210, the next page.
+A. Yes.
+Q. On the facts, paragraph 3 there, it says that, “Prior to June 13, 1998, H. Greer and Sons was controlled by Hedley Greer with the following issued and outstanding shares: 899 for Hedley Greer, 100 shares for Violetta Greer, and one share for Michael Greer.”
+A. I see that, yes.
+Q. And did you agree with that?
+A. Well, it’s there. I still don’t remember having a share, sir, but whatever you say.
+JUSTICE SPIRO: But the question is do you agree with that statement that....
+A. Well, I agree with it, yes. Yes, I do.[22]
+[46] As the Appellant’s evidence on this point was discredited by the Crown, I turn to HGSL’s shareholders’ register.
+(2) The Shareholders’ Register of HGSL [47] An evidentiary issue arose in respect of HGSL’s shareholders’ register. It was most certainly relevant but it was subject to an exclusionary rule, namely, the rule against hearsay.
+[48] Hearsay evidence is generally considered to have three components: (1) a statement made outside of court by a declarant; (2) which a party seeks to adduce in court for the truth of its content; (3) without the ability of the other party to contemporaneously cross‑examine the declarant.[23]
+[49] Among the traditional exceptions to the rule against hearsay is a “party admission”. The party admission exception includes any “acts or words of a party offered as evidence against that party”.[24]
+[50] During the audit of the Appellant’s 2006 taxation year, the Appellant produced the minute book of HGSL to the auditor. The auditor visited the Appellant’s office and reviewed the minute book which he scanned and printed for his file. That minute book was the source of the shareholders’ register of HGSL attached as Schedule “A” to these reasons.
+[51] The Appellant’s act of providing the auditor with the shareholders’ register of HGSL constitutes a party admission. Having provided that document to the auditor, the Appellant cannot be heard to complain about its unreliability.[25]
+[52] Having established the admissibility of the shareholders’ register, I draw several inferences from it. First, the Appellant is listed as holding one share of HGSL as of July 10, 1996. In light of his involvement in the corporate affairs of HGSL, the Appellant knew or ought to have known about that entry in the shareholders’ register. Had he believed he was not a shareholder of HGSL as of that date, he could have applied to rectify the register under section 168 of the NBBCA as noted below.
+[53] Second, the Estate is listed on the shareholders’ register as owning 899 shares of HGSL as of August 20, 1998. If the Appellant did not own a single share of HGSL as at that date, why would the Estate have owned 899 rather than 900 shares of HGSL? Who owned the missing single share? I draw the inference that it was the Appellant. The Appellant’s ownership of a single share of HGSL is the best explanation for the Estate’s ownership of 899 rather than 900 shares of HGSL.
+(3) The Presumption in Subsection 181(3) of the NBBCA [54] By way of background, subsection 18(1) of the NBBCA requires every corporation to prepare and maintain a share register:
+18(1) A corporation shall prepare and maintain, at its registered office or at any other place in New Brunswick designated by the directors, records containing
+(a) …;
+(b) …;
+(c) …;
+(d) a share register complying with section 48; and
+(e) ….
+[55] Subsection 48(1) of the NBBCA sets out the elements of a corporate share register:
+48(1) ... a corporation shall maintain a share register in which it records the shares or fractions thereof issued by it showing with respect to each class or series of shares
+(a) the names, alphabetically arranged, and the latest known address of each person who is or has been a shareholder;
+(b) the number of shares held by each shareholder; and
+(c) the date and particulars of the issue and transfer of each share.
+[56] Subsection 20(2) of the NBBCA requires every corporation to take reasonable precautions to facilitate the detection and correction of inaccuracies in its share register:
+20(2) A corporation and its agents shall take reasonable precautions to
+(a) prevent loss or destruction of,
+(b) prevent falsification of entries in, and
+(c) facilitate detection and correction of inaccuracies in,
+the registers and other records required by this Act to be prepared and maintained.
+[57] Most importantly, subsection 181(3) of the NBBCA includes a presumption that an entry in a share register is, in the absence of evidence to the contrary, proof that the holder shown in the register is the owner of the share:
+181(3) An entry in a share register of, or a share certificate issued by, a corporation is, in the absence of evidence to the contrary, proof that the registered holder is owner of the share described in the register or in the certificate.
+[58] Finally, subsection 168(1) of the NBBCA provides for an application to rectify the register if the name of a person has been wrongly entered, or retained, in the share register:
+168(1) If the name of a person is alleged to be or to have been wrongly entered or retained in, or wrongly deleted or omitted from, the registers or other records of a corporation, the corporation, a shareholder of the corporation or any aggrieved person may apply to the Court for an order that the registers or records be rectified.
+[59] Had the Appellant believed that he was not a shareholder of HGSL as of July 10, 1996, he could have applied to rectify the register under subsection 168(1) of the NBBCA.
+[60] I agree with Crown counsel that the statutory presumption in subsection 181(3) of the NBBCA has not been displaced by evidence to the contrary.
+[61] For all of these reasons, I have concluded, on a balance of probabilities, that the Appellant was a shareholder of HGSL in 2005.
+C. Issue #3 – The Fair Market Value of the Properties [62] The Minister reassessed a shareholder benefit under subsection 15(1) on the basis that the properties had a fair market value of $2,846,000 immediately after the Appellant acquired them from HGSL. This is how the Crown’s valuation chart looked at the commencement of trial:[26]
+Property
+Fair Market Value
+Mini mall - Timothy Ave
+$1,000,000
+Woodland end of Michael and Violetta Ave
+$219,800
+619 acres end of Timothy Ave
+$771,000
+End of Timothy Ave
+$855,400
+Total
+$2,846,200
+[63] On the second day of trial, the parties agreed on the valuation of the first two properties. They agreed that the fair market value of the mini mall on Timothy Avenue was $944,000 and that the fair market value of the woodland end of Michael Avenue and Violetta Avenue was $131,000.[27] In light of that agreement, this is how the Crown’s valuation chart looked on the second day of trial:
+Property
+Fair Market Value
+Mini mall - Timothy Ave
+$944,000
+Woodland end of Michael and Violetta Ave
+$131,000
+619 acres end of Timothy Ave
+$771,000
+End of Timothy Ave
+$855,400
+Total
+$2,701,400
+[64] I had to determine the fair market value of the last two properties. Each party brought a real estate appraiser to assist me by providing me with a report on the fair market value of those two properties as at January 1, 2006.
+[65] The Appellant called Mr. Gerald McCombs. I accepted him as a qualified real estate appraiser. He wrote his appraisal report in 2010 and retired in 2017. He came out of retirement to testify about a report he had written some 12 years earlier. Mr. McCombs used the direct comparison approach to the valuation of the two properties. Using that method, he arrived at a fair market value of $325,500 for the third property and $489,000 for the fourth.
+[66] I have several concerns about the reliability of Mr. McCombs’ report. For example, with respect to the third property, Mr. McCombs testified that the “portion of the land that is classified as wetland is not as valuable as the land that can be developed.”[28] But how he computed the percentage of wetland was unclear as his report did not include any of the material on which he relied for that computation:
+A. Thirty-nine percent of that 575 acres is wetland.
+JUSTICE SPIRO: Thirty-nine percent?
+A. Yes, about 225 acres, I think it is.
+JUSTICE SPIRO: Okay, that's in your report?
+A. Yes.
+JUSTICE SPIRO: Where would I find that?
+A. I'm just....
+JUSTICE SPIRO: Your counsel can get that to me later on, you don't have to search for it in your report right now.
+A. Thank you.
+JUSTICE SPIRO: So don't worry. But Ms. Brown, just, if you could get back to me on the location within the report of that 39 percent figure?
+A. That might be just my calculation and not necessarily written down in the report.
+JUSTICE SPIRO: Okay, but on what basis did you arrive at that calculation?
+A. Looking at the maps and calculating it from the maps.
+JUSTICE SPIRO: Are the maps in the report?
+A. Unfortunately, these reports are only what I have. Anything that was in the file is no longer available. It dated back to 2010 and they scanned everything in but they didn't scan in - sorry, they didn’t scan in everything.
+JUSTICE SPIRO: Who's they?
+A. … my former employer. My office.
+JUSTICE SPIRO: So you're just remembering off the top of your head, 39 percent?
+A. I calculated it again by looking at a map online.
+JUSTICE SPIRO: Oh, okay. So the basis of that 39 percent calculation is not in your report, then?
+A. I don't believe it is.
+JUSTICE SPIRO: Okay, thank you.[29]
+[67] Mr. McCombs opined that 28 acres of the third property could be developed in the short term and 16 acres could be developed later. Once again, the basis for this opinion was unclear.[30] There was another significant omission from the report tendered by Mr. McCombs. It related to an adjustment he made to subsequent comparable sales based on the passage of time:
+JUSTICE SPIRO: And how do you compute the time adjustment?
+A. Well, if you - if you - if the difference in value is $25 per acre and the time frame is, say, five years, then it's a percentage of the dollar amount to determine what the time adjustment is.
+JUSTICE SPIRO: Is that explained in your report somewhere?
+A. No, it is not.[31]
+[68] That oversight affected the opinion that Mr. McCombs offered in respect of the fourth property:
+JUSTICE SPIRO: All right, I just have one question on this report. Mr. McCoombs, so if we go to the same table, the Market Analysis chart, I see that Index 5, which sold in July of 2008 is not subject to any time adjustment at all, yet Index 6, which sold only one month later is subject to effectively a 15 percent time adjusted discount. There's only one month difference between the two sales, why did you determine that August merited a 15 percent discount, whereas July merited absolutely no discount?
+A. Basically, I - I probably should have.
+JUSTICE SPIRO: What should have?
+A. Index 5 should have been adjusted downwards.
+JUSTICE SPIRO: By about how much?
+A. By the 15 percent, if you're looking at July to August.[32]
+[69] The Crown called Mr. Marcel Cormier. I accepted him as a qualified real estate appraiser. His status as an employee of the CRA elicited no objection from Appellant’s counsel. After considering his answers to my questions, I was entirely satisfied that his opinion evidence would be unbiased, impartial, and independent. He concluded that the fair market value of the third property was $524,000 and the fair market value of the fourth was $837,900.
+[70] During his testimony, I was impressed by the detailed explanations in his report, particularly comparable sales, and his thorough and thoughtful answers to my questions. He did extensive research, made use of aerial imagery and mapping (which were very helpful in following his evidence), and took into account factors that Mr. McCombs had not considered such as the 2004 announcement of the Trans-Canada Highway interchange and the general growth trend in the development of the Hanwell area after 2004.[33] He used an additional valuation method for a portion of one of the properties, namely, the subdivision development method which had not been used by Mr. McCombs. He also considered events that Mr. McCombs had not considered (e.g., land expropriations). He weighted comparable sales in a way that Mr. McCombs did not.[34] Finally, he quantified and explained certain costs that would have been incurred by an owner before selling certain portions of the property.[35] That is also something Mr. McCombs did not do.
+[71] For all of those reasons, I prefer the opinion of Mr. Cormier to that of Mr. McCombs and conclude that the fair market value of the third property as at January 1, 2016 was $524,000 and the fair market value of the fourth property was $837,900 as at the same date. This is the final version of the valuation chart:
+Property
+Fair Market Value
+Mini mall - Timothy Ave
+$944,000
+Woodland end of Michael and Violetta Ave
+$131,000
+619 acres end of Timothy Ave
+$524,000
+End of Timothy Ave
+$837,900
+Total
+$2,436,900
+D. Issue #4 – Did the Appellant make a Misrepresentation Attributable to Neglect or Carelessness in Filing his 2005 Return? [72] There is no dispute that the Minister reassessed the Appellant’s 2005 taxation year beyond the normal reassessment period. In light of subparagraph 152(4)(a)(i) of the Act, the Crown must demonstrate, on a balance of probabilities, that the Appellant made a misrepresentation attributable to neglect, carelessness or wilful default or has committed fraud in filing his 2005 tax return:
+152(4) The Minister may at any time make an assessment, reassessment or additional assessment of tax for a taxation year, interest or penalties, if any, payable under this Part by a taxpayer or notify in writing any person by whom a return of income for a taxation year has been filed that no tax is payable for the year, except that an assessment, reassessment or additional assessment may be made after the taxpayer’s normal reassessment period in respect of the year only if
+(a) the taxpayer or person filing the return
+(i) has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return or in supplying any information under this Act, or
+(ii) has filed with the Minister a waiver in prescribed form within the normal reassessment period for the taxpayer in respect of the year;
+[73] Determining whether the Minister was entitled to reassess the Appellant beyond the normal reassessment period is a two step process. First, the Crown must prove that the Appellant made a misrepresentation in filing his 2005 return by failing to report a shareholder benefit on acquiring, for no consideration, four properties from HGSL worth more than $2.4 million. Second, the Crown must prove that the misrepresentation was attributable to neglect, carelessness or wilful default or that the Appellant committed fraud in filing his return. The Crown has made no allegation of wilful default or fraud.
+[74] What exactly did the Appellant know when he reviewed and signed his 2005 return? He knew that he did not acquire the properties from the Estate because he knew that the Estate did not own the properties.[36] He knew that he did not acquire the properties from his stepmother as he knew that his stepmother did not own the properties. He knew that HGSL owned the properties and that they were transferred to him for no consideration. Finally, as discussed earlier, he knew or ought to have known that he was a shareholder of HGSL as of July 10, 1996, as reflected in the shareholders’ register.
+[75] Failing to report a shareholder benefit in such circumstances is clearly a misrepresentation. The next question is whether the misrepresentation is attributable to neglect or carelessness.
+[76] In Canada v Paletta, 2022 FCA 86, the Federal Court of Appeal made it clear that “neglect” refers to a lack of reasonable care. The Court’s discussion of what constitutes “reasonable care” informs the second step of the analysis:
+[65] Neglect under subparagraph 152(4)(a)(i) refers to a lack of reasonable care. The duty of reasonable care is met if the taxpayer has “thoughtfully, deliberately and carefully assesse[d] the situation and file[d] on what [he] believe[d] bona fide to be the proper method”; in other words, “in a manner that the taxpayer truly believe[d] to be correct” (Regina Shoppers Mall Ltd. v. Canada, [1990] 2 C.T.C. 183, 90 D.T.C. 6427 (F.C.T.D.); aff’d in Regina Shoppers Mall Ltd. v. Canada (1991), 126 N.R. 141, 91 D.T.C. 5101 (F.C.A.); see also Canada v. Johnson, 2012 FCA 253, 435 N.R. 361). This test is not disputed by the parties. The Court may also draw inferences of negligence from an omission to verify the validity of a taxpayer’s belief (Robertson v. Canada, 2016 FCA 303, 2016 D.T.C. 5131, paras. 5 and 6).[37]
+[77] The business of one of the Appellant’s corporations was buying and selling properties.[38] The Appellant helped sell properties owned by HGSL[39] and was responsible for making the deals.[40] He owned three of his own companies and had legal advice on the formation of at least one of them. He was clearly an experienced real estate person and shareholder.
+[78] In cross-examination, the Appellant confirmed that, when filing his 2005 tax return, he did not review his status as a shareholder of HGSL with his accountant nor did he consult any other professional about the tax implications of the properties he acquired from HGSL.[41]
+[79] The Appellant knew or ought to have known that acquiring more than $2.4 million of corporate property from HGSL for no consideration was a shareholder benefit. His failure to consult a tax professional before filing his 2005 return reflects a lack of reasonable care and was, therefore, negligent. The Appellant did not thoughtfully, deliberately, and carefully assess the situation before filing his return.
+[80] This Court’s decision in Cléroux v The Queen, 2013 TCC 365, is instructive in this regard. In that case, the taxpayer was the sole shareholder and director of a corporation that owned a subsidiary (6154301 Canada Inc.). The corporation transferred the shares of the subsidiary, worth almost $278,000, to the taxpayer for $100. Justice Favreau had little difficulty applying subsection 15(1) of the Act to the transaction. He found that the corporation conferred a benefit on its shareholder by transferring the shares of its subsidiary to him for inadequate consideration. The only question was whether the Crown had demonstrated neglect by the taxpayer. Here is his answer:
+[19] In the present appeal, I agree with counsel for the respondent that the appellant showed negligence by not reporting the value of the benefit he obtained on the acquisition of the shares in 6154301 Canada Inc. Considering his real estate experience and his knowledge of all the transactions involving the building on Daniel-Johnson Street, the appellant knew or ought to have known that it is not possible to appropriate a company’s property for consideration less than its fair market value.[42]
+[emphasis added]
+[81] Here too, the Crown has met the onus of proof with respect to both steps of the analysis. The Minister was fully justified in reassessing the Appellant’s 2005 taxation year in respect of the subsection 15(1) shareholder benefit beyond the normal reassessment period.
+E. The Appellant’s Other Legal Arguments [82] Counsel for the Appellant argued that the reassessment is barred by the doctrines of res judicata, issue estoppel, or abuse of process as the Court should not allow the Minister to relitigate issues finally resolved when the Minister vacated the 2006 reassessment. But all the authorities cited by counsel in support of her res judicata, issue estoppel, and abuse of process arguments involved relitigating issues determined by a court or concluded by way of a settlement agreement between parties to litigation. In the absence of any litigation in this Court in respect of the 2006 reassessment, the Appellant has no factual basis for her res judicata, issue estoppel, or abuse of process arguments.
+[83] Counsel also contended that the reassessment should be vacated because the Minister’s delay in reassessing caused adverse and prejudicial impacts to the Appellant. This is her argument:
+A substantial amount of time has gone by from 2005 when the Appellant filed the return . . . to today. The elapse of time generally has put the Appellant in an unfairly vulnerable position. Time has damaged his ability to obtain information and witnesses regarding the assets and their valuation. Key witnesses have died, such as Violeta [sic] Greer herself . . ., the accountant Shawny Merrill, and E.J. Mockler, Q.C. HGSL has been dissolved, in or about the year 2015. The charter of HGSL has been surrendered. The HGSL minute book has not been located. These problems arising since 2005 have created prejudice for the Appellant. The prejudice caused by this length of time justifies vacating the Reassessment.[43]
+[84] In short, counsel argued that the elapse of time “has permanently hurt the Appellant’s ability to bring together all the facts in his case.”[44] A complete answer is found in subparagraph 152(4)(a)(i) of the Act which sets out the circumstances in which the Minister may reassess beyond the normal reassessment period. If Parliament wanted the Minister to meet any additional requirements, it would have said so.
+[85] As Justice Rothstein, then of the Federal Court of Appeal, pointed out in Chaya v Canada, 2004 FCA 327:
+[4] The applicant says that the law is unfair and he asks the Court to make an exception for him. However the Court does not have that power. The Court must take the statute as it finds it. It is not open to the Court to make exceptions to statutory provisions on the grounds of fairness or equity. If the applicant considers the law unfair, his remedy is with Parliament, not with the Court.[45]
+[86] Finally, counsel relied on the decision of the Supreme Court of Canada in Law Society of Saskatchewan v Abrametz, 2022 SCC 29. Based on that decision, she contended that the length of time the CRA took to reassess the Appellant’s 2005 taxation year constitutes an “abuse of process” with the result that the 2005 reassessment must be vacated. In her pre-trial submission, she put it this way:
+Just as abuse of process applied to administrative proceedings of the Law Society in Abrametz, abuse of process similarly applies to the tax proceedings in the present case.[46]
+[87] The only “proceedings” to which abuse of process could possibly apply are the proceedings before this Court. As the Appellant has made no allegation of delay against the Crown with respect to these proceedings, this argument has no merit.
+VI. Costs
+[88] The Crown has prevailed on the shareholder benefit and statute-barred issues. However, as the Minister reassessed almost 45% of the total amount under the wrong provision of the Act – subsection 15(2) – and as the Minister assigned too high a value to the properties, causing her to incorrectly add $400,000 to the Appellant’s income, success was divided. For that reason, each party should bear their own costs.
+VII. Conclusion [89] HGSL conferred a benefit on the Appellant as shareholder in the amount of $2,436,900 in 2005. The Appellant was required to include that amount as a shareholder benefit in computing income for his 2005 taxation year under subsection 15(1) of the Act. The Appellant made a misrepresentation in filing his return for that year by failing to report any shareholder benefit. That misrepresentation was attributable to neglect or carelessness. The appeal will, therefore, be allowed so that the reassessment may be sent back to the Minister to reassess the appropriate amount of shareholder benefit under the appropriate provision of the Act.
+[90] The reassessment will be sent back to the Minister for reconsideration and reassessment, without costs, on the basis that the Appellant was required to include a shareholder benefit of $2,436,900 in computing income for his 2005 taxation year under subsection 15(1) of the Act.
+Signed at Ottawa, Canada, this 17th day of July 2023.
+“David E. Spiro”
+Spiro J.
+Schedule “A”
+CITATION:
+2023 TCC 100
+COURT FILE NO.:
+2017-3940(IT)G
+STYLE OF CAUSE:
+MICHAEL GREER AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Fredericton, New Brunswick
+DATE OF HEARING:
+August 16, 17 and 18, 2022
+REASONS FOR JUDGMENT BY:
+The Honourable Justice David E. Spiro
+DATE OF JUDGMENT:
+July 17, 2023
+APPEARANCES:
+Counsel for the Appellant:
+Erica C. Brown
+Counsel for the Respondent:
+Tokunbo Omisade
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Erica C. Brown
+Firm:
+Toner Brown Fredericton, New Brunswick
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] As explained further below, the lower amount results from the agreement of the parties on the fair market value of the first two properties and my conclusion regarding the fair market value of the last two properties.
+[2] In that Notice of Objection, the Appellant stated that he was a shareholder of HGSL.
+[3] Transcript of August 17, 2022, page 112, lines 11-23. See also the cross-examination of the CRA auditor at lines 7-8 at page 128 of the same transcript.
+[4] Transcript of August 16, 2022, page 42, line 28 to page 43, line 12.
+[5] Exhibit R-3.
+[6] Transcript of August 16, 2022, page 89, lines 5-20.
+[7] Transcript of August 16, 2022, page 107, lines 1-19.
+[8] Exhibit I-1 marked for identification. As the letter was offered for the truth of its contents, it was hearsay and, therefore, inadmissible.
+[9] See Cheryl Woodin, Anik K Kapoor, and Sidney Brejak, “Rethinking Credibility” (2023) 42:1 Adv J 19 for a discussion of the important distinction between credibility and reliability.
+[10] Transcript of August 16, 2022, page 76, lines 3-10.
+[11] Transcript of August 16, 2022, page 81, line 9.
+[12] Transcript of August 16, 2022, page 87, lines 1-16.
+[13] Transcript of August 16, 2022, page 89, line 26 to page 90, line 23.
+[14] Transcript of August 16, 2022, page 35, line 25 to page 36, line 11.
+[15] Amended Reply, para 11(f).
+[16] This would be true whether the test for demolishing an assumption of fact requires prima facie evidence or evidence on a balance of probabilities.
+[17] Notice of Appeal, para 8.
+[18] Transcript of August 16, 2022, page 36, lines 12-15.
+[19] The Appellant’s three corporations are listed at paragraph 24 above.
+[20] Transcript of August 16, 2022, page 42, lines 5-15.
+[21] Appellant’s Pre-Trial Submission, para 87.
+[22] Transcript of August 16, 2022, page 121, line 22 to page 123, line 3.
+[23] R. v Schneider, 2022 SCC 34 at para 47.
+[24] See Schneider at para 52.
+[25] See Schneider at para 53.
+[26] Amended Reply, para 11(n).
+[27] Exhibit J-2.
+[28] Transcript of August 17, 2022, page 27, lines 20-22.
+[29] Transcript of August 17, 2022, page 26, line 2 to page 27, line 10.
+[30] Transcript of August 17, 2022, page 74, line 11 to page 75, line 25.
+[31] Transcript of August 17, 2022, page 51, lines 5-13.
+[32] Transcript of August 17, 2022, page 69, line 17 to page 70, line 5.
+[33] Transcript of August 17, 2022, page 179, line 6 to page 181, line 14. See also page 19, lines 3-14 of the transcript of August 18, 2022.
+[34] See, for example, page 90, lines 19-20 of the transcript of August 18, 2022.
+[35] Transcript of August 18, 2022, page 24, line 24 to page 32, line 4.
+[36] Appellant’s counsel argued that the Appellant did not acquire the properties from HGSL but from the Estate (Appellant’s Pre-Trial Submission, para 43). Such an argument is inconsistent with the agreed facts, the evidence at trial, and the law since Salomon v Salomon & Co. (1896), [1896] UKHL 1, [1897] AC 22.
+[37] Canada v Paletta, 2022 FCA 86 at para 65.
+[38] Transcript of August 16, 2022, page 42, line 28 to page 43, line 12).
+[39] Transcript of August 16, 2022, page 45, lines 17-20.
+[40] Transcript of August 16, 2022, page 104, lines 12-21.
+[41] Transcript of August 16, 2022, page 119, lines 19-27.
+[42] Cléroux v The Queen, 2013 TCC 365, at para 19.
+[43] Appellant’s Pre-Trial Submission, para. 53.
+[44] Appellant’s Pre-Trial Submission, para. 55.
+[45] Chaya v Canada, 2004 FCA 327 at para 4. See also Springer v The Queen, 2013 TCC 332 at para 8.
+[46] Appellant’s Pre-Trial Submission, para 57.

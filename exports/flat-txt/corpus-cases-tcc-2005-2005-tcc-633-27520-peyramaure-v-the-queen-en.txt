@@ -1,0 +1,120 @@
+Title: Peyramaure v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27520/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-633-27520-peyramaure-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-09-29
+
+# Peyramaure v. The Queen
+
+- Citation: 2005 TCC 633
+- Decision date: 2005-09-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 15, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Peyramaure v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-09-29
+Neutral citation
+2005 TCC 633
+File numbers
+2005-1509(IT)I
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-1509(IT)I
+BETWEEN:
+GABRIEL PEYRAMAURE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard September 15, 2005, at Québec, Quebec
+Before: The Honourable Justice Alain Tardif
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Yanick Houle
+____________________________________________________________________
+JUDGMENT
+The appeal of the assessment established under the Income Tax Actfor the 2003 taxation year is dismissed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 29th day of September 2005.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 2nd day of February 2006
+Elizabeth Tan, Translator
+Citation: 2005TCC633
+Date: 20050929
+Docket: 2005-1509(IT)I
+BETWEEN:
+GABRIEL PEYRAMAURE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal of an assessment under the Income Tax Act (the "Act") for the 2003 taxation year.
+[2] To justify and support the assessment, the Minister of National Revenue (the "Minister") relied on the following assumptions of fact:
+[translation]
+(a) on May 23, 1997, the Appellant made a commitment with the Quebec ministère des Relations avec les citoyens et l'Immigration to be the guarantor for a foreign national by the name of Endeng Embolo, for ten years;
+(b) the commitment contract included serious obligations for the Appellant, including:
+(i) repaying the Government of Québec any amount it would pay as special benefits or last resort assistance in accordance with the Act respecting income security to the person for whom the commitment was made and for the duration of the commitment,
+(ii) repaying the government of any province of Canada the amount of any special benefits, last resort assistance benefits or other benefits of this type granted in favour of the person for whom the commitment was made and for the duration of the commitment;
+(c) according to a statement of account dated March 9, 2002, the Appellant owed $10,392 to the ministère de la Solidarité sociale;
+(d) a settlement was negotiated in 2003 with the ministère de la Solidarité sociale and the Centre des garants défaillants for $7,000;
+(e) the Appellant claimed this $7,000 in the calculation of his income for the taxation year in question, as alimony;
+(f) the Appellant never indicated that Endeng Embolo was his spouse, common-law spouse, former spouse or former common-law spouse on any of his income tax returns from 1997 to 2003;
+(g) Endeng Embolo never indicated that the Appellant was her spouse or common-law spouse, former spouse or former common-law spouse on any of her income tax returns from 1997 to 2003
+(h) no order issued by a court of competent jurisdiction or written agreement concerning alimony payable to Endeng Embolo by the Appellant was submitted.
+[3] The Appellant admitted all the assumptions, except subparagraph 6(g), of which he claimed to have no knowledge, and subparagraph 6(h), which he denied.
+[4] The issue is to determine, for the 2003 taxation year, if the $7,000 deduction claimed by the Appellant in the calculation of his income, could be claimed as maintenance payments or other periodic allowance payments.
+[5] After being sworn in, the Appellant explained that he had signed a contract under which he made a commitment to repay any expenses incurred by a person named Endeng Embolo's coming to Canada. All this is described in greater detail in the agreement, produced by the Respondent (Exhibit I-1, Tab 1).
+[6] The Appellant explained that Ms. Embolo lived with him for a short period of around two and a half months, after which she left his home. Following her departure, she applied for financial support from the appropriate authorities.
+[7] Relying on the agreement mentioned in paragraph 5, the province of Quebecclaimed $10,392 to repay the amounts paid to Ms. Embolo.
+[8] Further to negotiations, the Appellant agreed to a transaction through which he repaid $7,000 to the province to settle the $10,392 debt; he wanted to have this $7,000 deducted from his income for the 2003 taxation year.
+[9] During his testimony, the Appellant explained that Ms. Embolo had initiated legal proceedings to get a maintenance award; the Honourable Guy Julien of the Superior Court denied this maintenance given the circumstances, in particular, the fact that the cohabitation lasted only a little longer than two months.
+[10] The amount paid by the Appellant was following a settlement for a debt from the agreement (Exhibit I-1, Tab 1) under which he made a commitment to repay the expenses set out in paragraphs 3 and 4, as follows:
+[translation]
+3. I also agree to repay the Government of Quebec any amount it will pay, as special benefits or last resort assistance, in accordance with the Act respecting income security (R.S.Q., c. S-3.1.1), to the person for whom the commitment is made and for the duration of the commitment.
+4 Moreover, I agree to repay the government of any province of Canada the amount of special benefits, last resort assistance benefits or other benefits of this type that it grants to the person for whom the commitment is made and for the duration of the commitment.
+[11] According to the Appellant, the $7,000 he paid meets the definition of alimony in that the amount the province paid to Ms. Embolo was, apparently, for her maintenance needs of housing and clothing.
+[12] On this subject, the Appellant is perhaps correct, but the fact remains that the amount he paid was not paid as maintenance, but as a settlement of an agreement that has nothing to do with a genuine maintenance order. Moreover, for an amount paid as maintenance to be deductible, the beneficiary must have the freedom to use it as he or she pleases, which was not so in this case.
+[13] Therefore, the Appellant could not deduct this amount from his income for the 2003 taxation year, since it was not a genuine maintenance order.
+[14] The appeal is dismissed.
+Signed at Ottawa, Canada, this 29th day of September 2005.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 2nd day of February 2006.
+Elizabeth Tan, Translator
+CITATION: 2005TCC633
+COURT FILE No.: 2005-1509(IT)I
+STYLE OF CAUSE: Gabriel Peyramaure v. Her Majesty the Queen
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: September 15, 2005
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: September 29, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Yanick Houle
+COUNSEL OF RECORD:
+For the Appellant:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

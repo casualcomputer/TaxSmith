@@ -1,0 +1,162 @@
+Title: Garg Investments Inc. c. Le Roi
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521097/index.do
+Corpus path: corpus/cases/tcc/2023/2023-cci-67-521097-garg-investments-inc-c-le-roi-fr.md
+Document type: case_law
+Last modified: 2023-05-17
+
+# Garg Investments Inc. c. Le Roi
+
+- Citation: 2023 CCI 67
+- Decision date: 2023-05-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5883, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Garg Investments Inc. c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2023-05-17
+Référence neutre
+2023 CCI 67
+Numéro de dossier
+2021-1719(GST)I
+Juges et Officiers taxateurs
+Ronald MacPhee
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2021-1719(GST)I
+ENTRE :
+GARG INVESTMENTS INC.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 7 mars 2023, à Toronto (Ontario).
+Devant : l’honorable juge Ronald MacPhee
+Comparutions :
+Avocats de l’appelante :
+James Pendergast Jason Rosen Bryan Godkin
+Avocat de l’intimé :
+Humza Khalid
+JUGEMENT
+Conformément aux motifs du jugement ci-joints, l’appel est rejeté sans dépens.
+Signé à Ottawa, Canada, ce 17e jour de mai 2023.
+« R. MacPhee »
+Le juge MacPhee
+Référence : 2023 CCI 67
+Date : 20230517
+Dossier : 2021-1719(GST)I
+ENTRE :
+GARG INVESTMENTS INC.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge MacPhee
+I. INTRODUCTION [1] L’appelante, Garg Investments, interjette appel du rejet par le ministre de sa demande de remboursement pour immeubles d’habitation locatifs neufs (le « RIHLN ») aux termes du paragraphe 256.2(3) de la Loi sur la taxe d’accise, L.R.C. 1985, ch. E-15 (la « Loi »).
+[2] En 2017, l’appelante souhaitait acheter deux immeubles résidentiels aux fins de location. Le vendeur de ces immeubles a refusé de les vendre à l’appelante, une société, mais a accepté de vendre les immeubles aux actionnaires de l’appelante. L’appelante a finalement pris le titre exclusif des immeubles et a déposé une demande pour obtenir le RIHLN.
+[3] Le RIHLN permet à une personne, désignée dans la Loi comme étant un « particulier », de recouvrer une partie de la TPS ou de la TVH imposée en application du paragraphe 165(1) de la Loi à l’égard des logements locatifs résidentiels nouvellement construits ou ayant fait l’objet de rénovations majeures. Les demandes en litige ont été faites pour deux immeubles d’habitation locatifs côte à côte achetés à Kitchener, en Ontario (les « immeubles Watermill »).
+[4] La Loi dispose, comme l’une des exigences de cette demande, que le particulier soit l’acquéreur de la fourniture. Le ministre a rejeté la demande de remboursement de l’appelante au motif que cette dernière n’était pas l’acquéreur de la fourniture.
+II. EXPOSÉ DES FAITS [5] L’appelante a été constituée en société aux termes des lois de l’Ontario. Elle compte trois actionnaires :
+Satish Kumar Garg (« Satish »)
+Adarsh K. Garg (« Adarsh »)
+Vidushi Garg (« Vidushi »)
+[6] Satish et Adarsh sont des conjoints et Vidushi est leur fille.
+[7] L’appelante a présenté des éléments de preuve, qui, en grande partie, n’ont pas été contestés. Les faits en l’espèce sont très peu contestés.
+[8] Le ou vers le 22 juillet 2017, l’appelante a tenté de conclure une convention d’achat-vente avec Mattamy (Monarch) Limited (ci-après nommée le « vendeur »).
+[9] Le vendeur a expressément refusé de conclure une convention d’achat-vente avec l’appelante, une société, et a plutôt exigé que la transaction ait lieu entre lui et une ou plusieurs personnes non constituées en société.
+[10] À ce titre, Vidushi a signé la convention d’achat-vente d’une maison située au 56 Watermill, Kitchener (Ontario).
+[11] Peu de temps après, le 24 juillet 2017, Vidushi a conclu une autre convention d’achat pour la maison voisine, qui est située au 58 Watermill, Kitchener (Ontario).
+[12] Adarsh a été ajouté peu de temps après aux conventions d’achat-vente au moyen d’un amendement à chaque convention.
+[13] Dans les deux transactions, les conventions d’achat-vente mentionnaient uniquement Vidushi et Adarsh comme acheteurs.
+[14] Deux conventions de fiducie (ci-après nommées les « conventions de fiducie »), une par immeuble, ont été signées entre l’appelante, Vidushi et Adarsh le 2 août 2017, chacune précisant que Vidushi et Adarsh devaient détenir les immeubles Watermill au seul profit de l’appelante. En outre, les immeubles Watermill respectifs devaient être transférés à l’appelante à sa demande et, à tout moment pertinent, les revenus locatifs, les profits et les pertes, les droits et les obligations devaient être à la charge du bénéficiaire (l’appelante).
+[15] Le 30 novembre 2018, les deux conventions d’achat-vente ont été modifiées pour inclure Satish comme l’un des trois acheteurs.
+[16] Également le 30 novembre 2018, les conventions de fiducie ont été modifiées pour inclure Satish comme l’un des trois nus-fiduciaires.
+[17] Le 5 décembre 2018, une instruction relative au titre de propriété a été signée par les trois fiduciaires, indiquant que le titre devait être enregistré au nom de l’appelante. Elle a été envoyée à l’avocat du vendeur, qui a remis un état des rajustements à l’avocat de l’appelante.
+[18] L’état des rajustements remis par le vendeur indique le nom de l’appelante en tant qu’acheteur.
+[19] Le ou vers le 6 décembre 2018, conformément à l’intention des parties, les titres sur les immeubles Watermill ont été transférés à l’appelante.
+[20] Conformément aux conventions de fiducie, l’appelante a procédé au paiement de la contrepartie et des fonds de clôture à partir de son propre compte à l’avocat du vendeur.
+[21] Conformément aux conventions de fiducie, l’appelante a également payé la TPS/TVH sur les logements neufs, comme l’exige la Loi.
+[22] L’appelante a depuis loué les immeubles Watermill à des locataires. Tous les chèques de loyer ont été déposés sur le compte bancaire de l’entreprise de l’appelante. De plus, l’appelante paie toutes les dépenses telles que les versements hypothécaires, les primes d’assurance, les factures d’impôt foncier, etc., à partir de son compte bancaire d’entreprise.
+III. QUESTION EN LITIGE [23] La seule question en litige dans le présent appel est de savoir si l’appelante est bien l’acquéreur de la fourniture en lien avec l’achat des immeubles visés, comme l’exige le paragraphe 256.2(3) de la Loi pour être admissible au RIHLN.
+IV. LA THÈSE DE L’APPELANTE [24] La thèse de l’appelante est que Vidushi, Adarsh et Satish n’étaient parties à l’accord d’achat-vente qu’à titre de formalité, comme l’exigeait le vendeur. Les titres de propriété ont été transférés à l’appelante dès la conclusion du contrat d’achat-vente. Par conséquent, le refus du droit de l’appelante à ce crédit serait fondé sur le recours à un simple détail technique. L’appelante a souligné que Satish, Adarsh et Vidushi n’ont jamais hésité dans leur intention que les immeubles Watermill soient détenus et gérés par l’appelante.
+[25] L’appelante s’appuie également sur le fait qu’au moment de l’achat, les fiduciaires (Vidushi, Adarsh et Satish) étaient des nus-fiduciaires, détenant les immeubles Watermill au bénéfice de l’appelante jusqu’au premier moment où ils pourraient transférer le titre à l’appelante. Sur cette base, il est allégué que l’appelante devrait donc être admissible au RIHLN.
+V. LA THÈSE DE L’INTIMÉ [26] L’intimé soutient que, conformément au paragraphe 256.2(3) de la Loi, seul l’acquéreur de la fourniture aux termes du contrat d’achat a le droit de demander le RIHLN. Étant donné que l’appelante n’est pas l’acheteur aux termes des contrats d’achat, l’appelante n’est pas non plus l’acquéreur de la fourniture des immeubles en question. Conformément à la définition d’acquéreur figurant au paragraphe 123(1) de la Loi, Satish, Adarsh et Vidushi étaient les acquéreurs de la fourniture puisqu’ils avaient l’obligation de payer la contrepartie selon les conventions d’achat-vente. L’appelante n’est donc pas admissible au RIHLN.
+[27] L’intimé soutient en outre que, puisque Satish, Adarsh et Vidushi n’ont jamais détenu de titre légal sur les immeubles Watermill, ils ne pouvaient pas détenir les immeubles en fiducie pour l’appelante.
+VI. ANALYSE : [28] Le cadre législatif pertinent est principalement énoncé au paragraphe 256.2(3) de la Loi, sous la rubrique « Remboursement pour fonds et bâtiment loués à des fins résidentielles ». Le sous-alinéa 256.2(3)a)(i) prescrit ce qui suit [non souligné dans l’original], sous une forme abrégée :
+Remboursement pour fonds et bâtiment loués à des fins résidentielles
+(3) Sous réserve des paragraphes (7) et (8), le ministre rembourse une personne (sauf une coopérative d’habitation) dans le cas où, à la fois :
+a) la personne, selon le cas :
+(i) est l’acquéreur de la fourniture taxable par vente [...], effectuée par une autre personne, d’un immeuble d’habitation ou d’un droit dans un tel immeuble, mais n’est pas le constructeur de l’immeuble [...],
+[...]
+[29] Pour déterminer si l’appelante était un « acquéreur », il convient de mentionner que le terme est défini à l’article 123 de la Loi. L’alinéa a) de cette définition prévoit :
+« acquéreur »
+a) Personne qui est tenue, aux termes d’une convention portant sur une fourniture, de payer la contrepartie de la fourniture;
+[30] Sur la base du libellé de la loi énoncée ci-dessus, ce sont Satish, Adarsh et Vidushi qui ont signé le contrat d’achat-vente, les obligeant à payer le prix d’achat des immeubles Watermill. Ils étaient donc les acquéreurs de la fourniture. À ce titre, l’appelante n’a pas droit au remboursement.
+[31] Bien entendu, l’analyse ci-dessus ne tient pas compte de l’argument de l’appelante concernant le rôle que la convention de fiducie entre elle-même et Satish, Adarsh et Vidushi devrait jouer dans le contexte de l’analyse.
+[32] La Cour d’appel fédérale, dans l’affaire Cheema[1], s’est penchée sur un argument très semblable à celui avancé par l’appelante relativement à l’utilisation des fiducies. Il convient d’exposer les faits et la conclusion énoncés dans l’affaire Cheema dans mon analyse.
+[33] Dans l’affaire Cheema, l’appelant et son ami, M. Akbari, ont signé une convention d’achat-vente prévoyant la construction d’une maison à Vaughan (Ontario). Alors que la maison était pour M. Cheema et sa famille, M. Akbari a signé le contrat d’achat-vente uniquement pour aider M. Cheema à obtenir un financement hypothécaire. M. Akbari n’a payé aucune partie du prix d’achat ni aucune des dépenses courantes liées à la maison.
+[34] Lorsque la vente de la maison a été conclue, M. Cheema et son épouse ont acquis un intérêt de 99 p. 100 dans la maison, et M. Akbari a acquis un intérêt de 1 p. 100. Le même jour, M. Akbari a signé une déclaration de fiducie reconnaissant qu’il détenait en fiducie cet intérêt de 1 p. 100 au profit de M. Cheema et de son épouse. Cette déclaration de fiducie n’a pas été remise au prêteur hypothécaire et probablement pas au constructeur.
+[35] M. Akbari a ultérieurement cédé son intérêt de 1 p. 100 au fils de M. Cheema, qui avait été approuvé par le créancier hypothécaire[2]. M. Cheema et son épouse ont emménagé dans la maison à titre de lieu de résidence principale immédiatement après la conclusion de la vente.
+[36] Le ministre a refusé à M. Cheema le remboursement de la TPS/TVH pour habitations neuves pour le motif que M. Akbari n’était pas le « particulier » aux fins du paragraphe 254(2) de la Loi[3]. M. Akbari, qui n’est pas lié à M. Cheema, a signé le contrat d’achat-vente de la maison en question, mais n’avait pas l’intention d’occuper l’immeuble[4].
+[37] Afin d’avoir droit au remboursement de la TPS/TVH pour habitations neuves en application de l’article 254 de la Loi, sept conditions, énoncées aux alinéas 254(2)a) à g) de la Loi, doivent être remplies. Le principal critère en litige dans la décision Cheema se trouve à l’alinéa 254(2)b), résumé ci-dessous :
+alinéa 254(2)b) : au moment où le particulier devient responsable ou assume une responsabilité aux termes du contrat de vente de l’immeuble ou du logement conclu entre le constructeur et le particulier, celui-ci acquiert l’immeuble ou le logement pour qu’il lui serve de lieu de résidence habituelle ou serve ainsi à son proche;
+Majorité : le juge Stratas et le juge Nadon[5] [38] À la CAF, la majorité de la Cour a conclu que M. Cheema n’avait pas droit au remboursement pour habitations neuves parce que l’exigence de l’alinéa 254(2)b) n’était pas remplie. Étant donné que la fourniture de l’immeuble a été effectuée au profit de plusieurs particuliers, les renvois à « un particulier » doivent être interprétés comme des renvois à tous ces particuliers en tant que groupe (voir le par. 262(3) de la Loi). Lorsque M. Cheema et M. Akbari ont assumé la responsabilité aux termes de la convention d’achat-vente, seul M. Cheema acquérait l’immeuble d’habitation à titre de lieu de résidence habituelle. M. Akbari n’a jamais eu l’intention d’occuper l’immeuble complexe comme résidence principale. Le fait que M. Akbari ait acquis l’immeuble d’habitation uniquement à titre de fiduciaire a été jugé sans conséquence, étant donné que la convention d’achat-vente ne fait pas de distinction entre M. Akbari et M. Cheema en tant qu’acheteurs, et l’article 254 ne prévoit aucune exception pour les fiduciaires.
+[39] La convention de fiducie entre M. Cheema et M. Akbari a été jugé étranger à l’alinéa 254(2)b) de la Loi, car cet alinéa ne fait pas de distinction entre la propriété effective et la propriété légale. L’alinéa 254(2)b) porte plutôt sur le particulier qui était légalement responsable envers le constructeur aux termes de la convention d’achat-vente. Pour qu’un acheteur reçoive le remboursement de la TPS/TVH pour habitations neuves, tous les acheteurs doivent satisfaire aux critères de l’alinéa 254(2)b) de la Loi et avoir l’intention d’occuper l’immeuble à titre de résidence principale.
+[40] Facteur utile en l’espèce, la Cour a écrit ceci : « La relation pertinente est celle qui lie la personne qui acquiert, par la vente, l’immeuble au constructeur, et non la relation entre les co-acheteurs[6]. »
+[41] L’appelante, dans ses observations, prie la Cour de s’appuyer sur la dissidence du juge Webb dans l’affaire Cheema.
+[42] Dans ses motifs dissidents, le juge Webb indique que M. Cheema devrait avoir droit au remboursement de la TPS/TVH pour habitations neuves parce qu’il était la seule personne à avoir acquis un intérêt bénéficiaire dans l’immeuble de la part du constructeur, aux fins du paragraphe 254(2) de la Loi[7]. Il a conclu que si une personne a signé une convention d’achat-vente, mais n’a pas acquis un intérêt bénéficiaire dans l’immeuble d’habitation, cette personne n’est pas un particulier aux fins du paragraphe 254(2) de la Loi. Puisque M. Akbari n’a pas acquis un intérêt bénéficiaire dans l’immeuble d’habitation, M. Akbari n’était pas un particulier et il n’y a pas eu de fourniture par vente d’un immeuble d’habitation à M. Akbari. L’acquisition d’un intérêt de 1 p. 100. dans la maison par M. Akbari en tant que nu-fiduciaire ne doit pas être prise en compte aux termes du paragraphe 254(2).
+[43] Pour en revenir maintenant à l’affaire dont je suis saisie, comme je le mentionne plus tôt, la question en litige est de savoir si l’appelante a droit au RIHLN.
+[44] Même si la question en litige dans l’affaire Cheema était de savoir si le contribuable était admissible au remboursement de la TPS/TVH pour habitations neuves en application de l’article 254, les principes dans l’affaire Cheema continuent de m’être utiles pour trancher le présent appel. D’après l’affaire Cheema et le libellé de l’alinéa 256.2(3)a) de la Loi, l’appelante n’est pas l’acquéreur de la fourniture des immeubles Watermill et, à ce titre, n’a pas droit au RIHLN. À l’instar de l’article 254, l’alinéa 256.2(3)a) ne fait pas de distinction entre la propriété effective et la propriété légale, de sorte qu’il est sans conséquence que les trois personnes liées aient acquis les biens visés en tant que nus-fiduciaires de l’appelante. L’alinéa 256.2(3)a) exigeait que l’appelante ait acquis les immeubles visés (c’est-à-dire qu’il a acquis le titre légal en signant les conventions d’achat-vente) pour réclamer le RIHLN.
+[45] À l’instar de la décision Cheema, c’est la relation entre l’acheteur et le vendeur qui est pertinente pour le droit au RIHLN, et non la relation entre les co-acheteurs.
+[46] Étant donné que l’appelante n’était pas l’acquéreur (comme le définit la Loi) des immeubles Watermill, elle ne satisfait malheureusement pas aux exigences de l’alinéa 256.2(3)a) de la Loi. L’appel est rejeté. Aucuns dépens ne seront adjugés.
+Signé à Ottawa, Canada, ce 17e jour de mai 2023.
+« R. MacPhee »
+Le juge MacPhee
+RÉFÉRENCE :
+2023 CCI 67
+No DU DOSSIER DE LA COUR :
+2021-1719(GST)I
+INTITULÉ :
+GARG INVESTMENTS INC., ET SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 7 mars 2023
+MOTIFS DU JUGEMENT :
+L’honorable juge Ronald MacPhee
+DATE DU JUGEMENT :
+Le 17 mai 2023
+COMPARUTIONS :
+Avocats de l’appelante :
+James Pendergast
+Jason Rosen
+Bryan Godkin
+Avocat de l’intimé :
+Humza Khalid
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+James Pendergast Jason C. Rosen
+Bryan Godkin
+Cabinet :
+Rosen Kirshen Tax Law
+Pour l’intimé :
+Shalene Curtis-Micallef
+Sous-procureure générale du Canada Ottawa, Canada
+[1]Canada c. Cheema, 2018 CAF 45 (C.A.F.).
+[2] Ibid., par. 7.
+[3] Ibid., par. 8, 21-22.
+[4] Ibid.
+[5] Ibid., par. 70, 87 à 98, 113.
+[6] Ibid., par. 94.
+[7]Un intérêt de 99 p. 100 dans l’immeuble a été transféré à M. Cheema et à son épouse; cependant, l’intérêt transmis à l’épouse de M. Cheema doit être considéré, aux fins du paragraphe 254(2) de la Loi, comme étant transmis à M. Cheema (Ibid., par. 63 à 66).

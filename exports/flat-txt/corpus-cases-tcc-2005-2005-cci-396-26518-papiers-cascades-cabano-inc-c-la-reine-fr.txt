@@ -1,0 +1,248 @@
+Title: Papiers Cascades Cabano Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26518/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-396-26518-papiers-cascades-cabano-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2005-06-20
+
+# Papiers Cascades Cabano Inc. c. La Reine
+
+- Citation: 2005 CCI 396
+- Decision date: 2005-06-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3201, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Papiers Cascades Cabano Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-06-20
+Référence neutre
+2005 CCI 396
+Numéro de dossier
+2003-1762(IT)G
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-1762(IT)G
+ENTRE :
+PAPIERS CASCADES CABANO INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 25 janvier 2005 à Montréal (Québec)
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Avocats de l'appelante :
+Me Pierre Barsalou
+Me Josée Pelletier
+Avocats de l'intimée :
+Me Pierre Cossette
+Me Annick Provencher
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1996 est accordé, avec dépens, et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 20e jour de juin, 2005.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Référence : 2005CCI396
+Date : 20050620
+Dossier : 2003-1762(IT)G
+ENTRE :
+PAPIERS CASCADES CABANO INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx
+[1] Cet appel concerne l'année d'imposition 1996. Il s'agit de savoir si pour les fins du calcul du crédit d'impôt à l'investissement, ci-après « CII » , prévu au paragraphe 127(5) de la Loi de l'impôt sur le revenu (la « Loi » ) et défini au paragraphe 127(9) de la Loi, un contribuable doit prendre en compte pour les fins de l'alinéa c) de la définition, les montants de CII déduits dans les années précédant l'année en cause ou ceux qui auraient dû être déduits selon la Loi.
+[2] La portion pertinente de la définition de « crédit d'impôt à l'investissement » , pour les fins du présent litige, se lit comme suit :
+« crédit d'impôt à l'investissement » Le crédit d'impôt à l'investissement d'un contribuable à la fin d'une année d'imposition correspond à l'excédent éventuel du total des montants suivants :
+a) l'ensemble des montants représentant chacun le pourcentage déterminé du coût en capital, pour le contribuable, d'un bien admissible ou d'un bien certifié qu'il a acquis au cours de l'année;
+...
+c) l'ensemble des montants représentant chacun un montant déterminé selon les alinéas a), a.1) ou b) relativement au contribuable pour l'une des 10 années d'imposition précédentes ou des 3 années d'imposition suivantes;
+...
+sur le total des montants suivants :
+f) l'ensemble des montants représentant chacun un montant déduit en application du paragraphe (5) de l'impôt payable par ailleurs par le contribuable en vertu de la présente partie pour une année d'imposition antérieure relativement soit à un bien acquis, ou à une dépense engagée, au cours de l'année ou d'une des 10 années d'imposition précédentes ou des 2 années d'imposition suivantes, soit au compte de dépenses admissibles de recherche et de développement du contribuable à la fin d'une telle année;
+...
+[3] Selon le ministre du Revenu national (le « Ministre » ), les montants qui doivent être inclus pour les fins de l'alinéa c) de la définition d'un CII sont les montants qui auraient dû être réclamés en conformité avec la Loi. Selon l'appelante, il faut y inclure les montants réclamés qui ont fait l'objet d'une cotisation dans les années précédentes.
+[4] Une Entente sur les faits (l' « Entente » ) a été produite avant l'audience. Les paragraphes 1 à 38 concernent les documents dont l'authenticité est reconnue. Les faits sur lesquels les parties se sont entendues sont décrits aux paragraphes 39 à 59 comme suit :
+39. L'appelante est une société oeuvrant dans l'industrie des pâtes et papiers.
+40. L'année d'imposition de l'appelante se termine le 31 décembre de chaque année.
+41. Au cours des années d'imposition 1993, 1994 1995, et 1996, l'appelante a encouru diverses dépenses d'opération et de recherche scientifique et de développement expérimental admissibles à l'octroi de crédits d'impôt à l'investissement (ci-après « CII » ).
+42. Au cours de ces années, l'appelante a conséquemment réclamé la déduction de certains montants de CII.
+43. Lors d'une vérification des affaires de l'appelante, le ministre a révisé l'admissibilité de certaines dépenses ou de biens au titre de CII pour les années d'imposition 1993 à 1996, tel que défini au paragraphe 127(9) de la Loi de l'impôt sur le revenu, tel qu'il appert des tableaux joints à la présente entente comme Annexe A, pour en faire partie intégrante.
+44. Suite au refus de ces dernières dépenses reliées à certains biens des catégories 1 et 43, tel que détaillé à l'Annexe A, le ministre a recalculé les soldes de CII à la fin de chacune des années d'imposition 1993 à 1996.
+45. Selon ce nouveau calcul du ministre, le solde de CII à la fin de l'année d'imposition 1995 est un montant négatif de CII de 206 364 $ :
+Crédits
+Début d'année
+Crédits
+accumulés
+de l'année
+Montants
+déduits
+Solde des
+crédits
+Fin d'année
+1993
+5 563 804 $
+512 225 $
+396 093 $
+5 679 936 $
+1994
+5 679 936 $
+505 268 $
+2 319 692 $
+3 865 512 $
+1995
+3 865 512 $
+404 069 $
+4 475 945 $
+(206 364 $)
+46. Les années d'imposition 1993 et 1994 étant prescrites au moment du début de la vérification, le 15 novembre 1999, le ministre a émis des avis de nouvelle cotisation en date du 26 mars 2001 pour les années 1993 et 1994, sans modification, mais mentionnant :
+Nous avons révisé la déclaration T2 à la suite d'une vérification. Si nécessaire, nous avons rajusté les années subséquentes pour les soldes des reports aux années suivantes, l'intérêt et la date d'exigibilité du solde.
+47. L'année d'imposition 1995 n'était pas prescrite au début de la vérification mais était prescrite au 26 mars 2001. Aucun avis de nouvelle cotisation n'a été émis pour l'année d'imposition 1995.
+48. Toujours en date du 26 mars 2001, l'ADRC a émis une nouvelle cotisation pour l'année d'imposition 1996 de l'appelante afin de tenir compte de ce solde négatif de 206 364 $ comme le solde du CII à la fin de l'année 1995 et comme solde d'ouverture de l'année 1996, pour le calcul du CII de l'année 1996.
+49. Par le même avis de cotisation, le ministre a, de plus, corrigé les montants admissibles en 1996 aux CII pour les établir, conformément au tableau joint à la présente en Annexe A, aux montants suivants :
+Dépenses admissibles
+Dépenses R & D
+14 975,00 $
+Biens - Catégorie 1
+1 390 283, 00 $
+Biens - Catégorie 43
+3 516 490,00 $
+50. L'appelante ne conteste pas que le ministre aurait été justifié dans la mesure où les années pertinentes n'étaient pas autrement prescrites de refuser l'admissibilité des biens, décrits à l'Annexe A, au titre du calcul du CII pour ses années d'imposition 1993 à 1996.
+51. Selon les calculs du ministre, le montant du CII admissible pour l'année d'imposition 1996 s'élevait, conformément à l'Annexe B jointe aux présentes pour en faire partie intégrante, aux montants suivants :
+CII de l'année
+Dépenses R & D
+2 995,00 $
+Biens admissibles
+490 677,00 $
+493 672,00 $
+52. Toujours selon les calculs du ministre, le montant du CII que peut déduire l'appelante, pour son année d'imposition 1996, et qui lui a été accordé s'élève à :
+Crédits
+Début d'année
+Crédits
+accumulés
+de l'année
+Montants
+déduits
+Soldes des
+Crédits
+Fin d'année
+1996
+(206 364 $)
+493 672 $
+287 308 $
+nil
+53. L'appelante s'est opposée aux avis de nouvelles cotisations pour les années 1993, 1994 et 1996 par des avis d'opposition datés du 26 avril 2001.
+54. Dans le cadre de l'opposition de l'appelante, Jocelyn Cliche a préparé des cédules de calcul de la continuité des crédits de l'impôt à l'investissement pour les années 1993 à 1996 de l'appelante, tel qu'il appert des dites cédules jointes aux présentes comme Annexe C pour en faire partie intégrante.
+55. En date du 12 février 2003, le ministre a ratifié la cotisation du 26 mars 2001, à l'égard de l'année d'imposition 1996 de l'appelante.
+56. L'avis de ratification mentionne ce qui suit :
+Ayant étudié les motifs exposés dans votre opposition, et tous les faits pertinents, le ministre du Revenu national ratifie, par les présentes, la cotisation mentionnée, la déclarant conforme aux dispositions de la Loi de l'impôt sur le revenu pour les raisons qui suivent :
+Le montant du CII d'un contribuable, à la fin d'une année d'imposition se calcule sur une base annuelle continue.
+Le paragraphe 127(9) de la Loi définit le mode de calcul du CII d'un contribuable à la fin d'une année donnée. En vertu de l'alinéa c) de cette définition, le solde d'ouverture du CII, pour 1996, a été correctement établi en fonction des biens admissibles pour chacune des trois années précédentes.
+57. Par lettre en date du 15 décembre 1999, l'appelante a demandé à Revenu Canada d'inscrire un montant de 500 000 $ à la catégorie 43, dans le calcul du crédit d'impôt à l'investissement, pour son année d'imposition 1996.
+58. L'appelante avait omis d'inscrire ce montant pour son année d'imposition 1996 et aucune demande relative à ce montant n'a été faite auprès de Revenu Canada avant le 15 décembre 1999.
+59. Ce montant de 500 000 $ a été erronément considéré dans le calcul du crédit d'impôt à l'investissement de l'appelante pour son année d'imposition 1996.
+[5] Les paragraphes 57 à 59 de l'Entente feront l'objet d'une analyse à la fin de ces motifs comme question subsidiaire en litige, pour les fins d'un argument de rechange de l'intimée.
+Point principal
+[6] Je résume brièvement les faits en litige. Tel que mentionné au paragraphe 44 de l'Entente, certaines dépenses reliées à certains biens ont été considérées comme non acceptables pour les fins du CII. Tel que mentionné au paragraphe 45 de l'Entente, il y a eu une réclamation trop élevée de CII pour les années 1993 à 1995 au montant de 206 364 $, soit respectivement pour chacune de ces années 110 000 $, 63 000 $ et 32 000 $. Tel que mentionné aux paragraphes 46 à 48 de l'Entente, les CII n'ont pas été corrigés par des nouvelles cotisations dans les années en cause car elles étaient hors de la période normale de cotisation. Pour les fins du calcul de l'excédent éventuel du total des montants pour l'année 1996, le Ministre a inclus les montants de CII tels qu'ils auraient dû être réclamés au chapitre de l'alinéa c) de la définition et au chapitre de l'alinéa f) les montants de CII tels que réclamés. Ce qui a eu pour résultat que le solde d'ouverture pour l'année 1996 était débiteur d'un montant de 206 364 $.
+Arguments
+[7] L'avocat de l'appelante fait valoir que le mot « excédent » à la définition du crédit d'impôt à l'investissement ne peut signifier qu'un montant positif.
+[8] En ce qui concerne l'alinéa c) de la définition du CII au paragraphe 127(9) de la Loi, l'avocat de l'appelante fait valoir qu'une fois la période normale de cotisation passée, le montant qui doit être inscrit à l'alinéa c) est celui que le contribuable a inscrit pour ces années.
+[9] L'avocat se réfère à la décision de la Cour d'appel fédérale dans Lor-Wes Contracting Ltd. c. La Reine, [1986] 1 F.C. 346. Il se réfère plus particulièrement aux pages 355 et 356, où la Cour fait état que le CII est une mesure d'encouragement et de soutien aux investissements. L'avocat plaide donc en faveur de la sécurité fiscale car l'incertitude est négative.
+[10] L'avocat se réfère à la décision du juge Dussault de cette Cour dans 170635 Canada Ltée c. M.R.N., 93 DTC 1120, et plus particulièrement à la page 1129 :
+Le Ministre n'a pas le pouvoir de cotiser un contribuable selon l'année de son choix lorsqu'il ne l'a pas fait pour l'année à l'égard de laquelle il était tenu de le faire en vertu de règles législatives spécifiques. Lui permettre de le faire serait lui reconnaître un pouvoir législatif ou une discrétion qu'il ne possède pas. S'il a fait défaut de cotiser selon les dispositions de la Loi et qu'il est maintenant en retard pour le faire selon les règles établies au paragraphe 152(4) de la Loi, il ne peut tenter de corriger cette erreur en effectuant des changements de méthode que la Loi n'autorise pas. ...
+[11] L'avocat de l'intimé rappelle que les années 1993 à 1995 sont prescrites et que le Ministre ne peut émettre de nouvelles cotisations pour ces années. Il soutient toutefois que le ministre est en droit de prendre en compte pour les fins de l'alinéa c) de la définition, les montants moindres de CII auxquels le contribuable aurait eu droit selon les dépenses qui étaient admissibles.
+[12] À cet égard, l'avocat de l'intimée se réfère à la jurisprudence sur les soldes des crédits d'impôt à l'investissement, les reports de pertes et le calcul de la fraction non amortie du coût en capital.
+[13] Il cite une décision du juge Bowman de cette cour dans Coastal Construction and Excavating Limited c. Canada, [1996] A.C.I. no 1102 (Q.L.)
+25 Enfin, l'appelante soutient que, comme au cours d'années antérieures, le ministre avait considéré l'entreprise comme un « établissement » au sens de la LSDR, il n'avait pas le droit de modifier le montant du crédit d'impôt à l'investissement pour des années reconnues comme étant prescrites qui pouvait être reporté, et ainsi d'influer sur le revenu imposable dans une année qui n'était pas prescrite, et ce, afin de refléter son opinion selon laquelle il s'agissait en l'espèce d'un bien admissible plutôt que d'un bien certifié. Cette interprétation impliquerait une conclusion que la détermination du solde des crédits d'impôt à l'investissement pouvant être reportés d'une année prescrite équivaut à cotisation. Je n'interprète pas l'article 152 de la Loi comme étayant pareille conclusion. Le ministre est tenu d'établir la cotisation conformément à la loi. S'il établit une cotisation erronée à l'égard d'une année antérieure et que cette année devienne par la suite prescrite, il ne peut pas établir une nouvelle cotisation pour cette année-là. Cela ne l'empêche toutefois pas de corriger l'erreur dans une année qui n'est pas prescrite, même si cela comporte le rajustement des soldes pouvant être reportés d'années antérieures, et ce, qu'il s'agisse du report prospectif de pertes ou de soldes de crédits d'impôt à l'investissement. New St. James Limited. v. M.N.R., 66 DTC 5241; Allcann Wood Suppliers Inc. v. The Queen, 94 DTC 1475. La question de la préclusion ne se pose pas : Goldstein v. The Queen, 95 DTC 1029.
+[14] L'avocat fait donc valoir que rien n'empêche le Ministre de corriger l'erreur dans une année qui n'est pas prescrite, même si cela comporte le rajustement des soldes pouvant être reportés d'années antérieures, et ce, qu'il s'agisse du report prospectif de pertes ou de soldes de crédits d'impôts à l'investissement.
+[15] L'avocat donne également comme exemple le rajustement qui peut être apporté à la fraction non amortie du coût en capital tel qu'exprimé dans Gaouette c. Canada, [2002] A.C.I. no 168 (Q.L.), aux paragraphes 20 à 22 :
+20 L'avocat de l'appelante a soulevé l'aspect du calcul de l'amortissement qui a remonté à des périodes antérieures à la période normale de cotisation. La vérificatrice du Ministre a rebâti les cédules d'amortissement à partir de l'année 1989 et a accepté ou refusé certaines dépenses en capital. Elle a refusé certaines dépenses en capital parce qu'elles n'étaient pas supportées par des factures ou qu'elles n'avaient pas été engagées pour les fins de l'entreprise.
+21 L'avocat de l'appelante fait valoir que la vérificatrice ne peut pas refaire les cédules en ce qui concerne les années qui sont antérieures à la période normale de cotisation : les dépenses en capital ont déjà été acceptées par le Ministre et ne peuvent plus être rejetées.
+22 Je suis d'avis que les principes qui s'appliquent dans le calcul des pertes relatives aux années antérieures à la période normale de cotisation s'appliquent aussi dans le cas du calcul des biens amortissables. Dans le cas du calcul des pertes, la jurisprudence a déterminé que le Ministre ne peut cotiser dans ces années antérieures mais peut refaire les calculs pour ces années : New St.James Limited v. M.N.R., 64 DTC 121 et Coastal Construction and Excavating Ltd. v. Canada, [1996] A.C.I. no 1102. En conclusion, les coûts en capital des biens amortissables ainsi que le but de leur acquisition peuvent être révisés même si ces biens ont été acquis à des périodes antérieures à la période normale de cotisation.
+[16] L'avocat dit que la Cour d'appel fédérale dans Bradley c. Canada, [1998] A.C.F. no 868 (Q.L.) exprime la même position. Cette cour a décidé qu'advenant la réclamation dans une année donnée de sommes relatives à des dons faits dans des années antérieures et devenues prescrites, que le calcul de ces dons pour l'année donnée doit être corrigé et fait en conformité avec la Loi.
+[17] L'avocat de l'intimée fait aussi valoir qu'en ce qui concerne l'expression « montant déduit en application du paragraphe 5 » à l'alinéa f) de la définition du CII, la jurisprudence a clairement exprimé qu'il fallait tenir compte des déductions effectivement réclamées et obtenues et non pas seulement de celles réclamées en conformité avec la Loi.
+Analyse et conclusion
+[18] Je suis d'accord avec l'analyse de l'avocat de l'intimée concernant les montants à prendre en considération pour les fins de l'alinéa f) de la définition du CII, je n'en parlerai donc plus.
+[19] Je ne suis pas du même avis en ce qui concerne les montants à inclure à l'alinéa c) de la définition du CII.
+[20] Un CII peut être réclamé comme déduction de l'impôt payable pour une année d'imposition ou il peut être reporté pour l'une des 10 années d'imposition précédentes ou des trois années d'imposition suivantes. Si le CII est réclamé, il devient un montant qui a été pris en compte dans la cotisation pour l'année d'imposition. Une cotisation est présumée valide. Elle ne peut être corrigée que par une autre cotisation.
+[21] La position de l'intimée équivaudrait à affirmer qu'un contribuable peut avoir à rembourser dans une année postérieure un CII qu'il a demandé en déduction contre l'impôt payable pour une année et qui a été pris en compte dans l'établissement de la cotisation pour cette année.
+[22] Il en va autrement d'un report de perte, d'un report de CII, du calcul de la fraction non amortie d'un bien en capital. Il ne s'agit pas d'éléments qui ont été pris en compte pour l'établissement d'une cotisation pour une année donnée.
+[23] Les cas jurisprudentiels auxquels l'avocat de l'intimée s'est référé sont relatifs à des montants qui n'ont pas fait l'objet d'une cotisation. Ceci est spécifiquement mentionné dans l'affaire Coastal Construction and Excavating Ltd. (supra). Bien que dans les autres cas, cette mention ne soit pas expressément faite, la description des faits et l'analyse juridique l'indiquent clairement. Décider autrement serait aller à l'encontre des dispositions du paragraphe 152(4) de la Loi concernant la période normale de cotisation.
+[24] Il faut se rappeler que « ... la loi s'interprète comme un tout, chacun de ses éléments devant être considéré comme s'intégrant logiquement dans le système d'ensemble que la loi forme. ... » , Pierre-André Côté, Interprétation des Lois, 3e éd., Les Éditions Thémis, Montréal 1999, pp. 387 et 388.
+[25] Bien que le litige ne concerne pas directement le quantum et la nature des dépenses et des biens admissibles, je peux ajouter que les biens et dépenses admissibles qui ont fait l'objet du calcul du CII réclamé comme déduction à l'impôt payable, sont également les éléments d'une cotisation jusqu'à concurrence du montant qui a servi à établir le CII réclamé en déduction.
+Point subsidiaire
+[26] La réponse à l'avis d'appel amendé fait état d'une autre question à laquelle on me demande de répondre si j'accueille la position de l'appelante concernant les CII. Les faits sont décrits aux paragraphes 57 à 59 de l'Entente.
+Arguments
+[27] L'intimée soutient que l'appelante n'a droit en 1996, qu'à la déduction d'un CII s'élevant à 443 672 $ au lieu du montant de 493 672 $ réclamé puisqu'un montant de 500 000 $ a été erronément ajouté aux biens de la catégorie 43 pour cette année, accordant un CII de 50 000 $, contrairement aux dispositions de l'alinéa m) de la définition de CII au paragraphe 127(9) de la Loi.
+[28] L'appelante n'a pas présenté au Ministre un formulaire prescrit contenant le renseignement relativement au montant de 500 000 $ au plus tard le jour qui suit d'une année la date d'échéance de production qui lui est applicable pour l'année en question conformément à l'alinéa 127(9)m) de la définition de CII. Il a été réclamé en 1999 dans le cadre de la vérification.
+[29] L'avocat de l'intimée décrit ainsi les autres faits de cette réclamation hors délai :
+39. L'année d'imposition de l'appelante se termine le 31 décembre de chaque année.
+40. Selon la définition de « date d'échéance de production » au paragraphe 248(1) et l'alinéa 150(1)a) de la Loi de l'impôt sur le revenu, la date d'échéance de production de l'appelante pour son année 1996 était le 30 juin 1997.
+41. En date du 30 juin 1998, aucune demande relativement au montant de 500 000 $ à la catégorie 43 n'a été faite par l'appelante relativement au calcul du CII pour son année d'imposition 1996.
+42. Par lettre en date du 15 décembre 1999, l'appelante a demandé à Revenu Canada d'inscrire un montant de 500 000 $ à la catégorie 43, dans le calcul du CII pour son année d'imposition 1996.
+[30] L'avocat de l'intimée demande de réduire le montant de CII contesté de ce montant de CII qui a été accordé non en conformité avec la Loi. Il se réfère au paragraphe 152(9) de la Loi qui se lit ainsi :
+152(9) Nouvel argument à l'appui d'une cotisation - Le ministre peut avancer un nouvel argument à l'appui d'une cotisation après l'expiration de la période normale de nouvelle cotisation, sauf si, sur appel interjeté en vertu de la présente loi :
+a) d'une part, il existe des éléments de preuve que le contribuable n'est plus en mesure de produire sans l'autorisation du tribunal;
+b) d'autre part, il ne convient pas que le tribunal ordonne la production des éléments de preuve dans les circonstances.
+[31] L'avocat fait valoir qu'un motif différent au soutien de la cotisation est acceptable en autant que le montant d'impôt de la cotisation n'est pas augmenté. Un appel porte sur la question de savoir si le montant d'impôt est trop élevé. Les tribunaux reconnaissent aux parties le droit d'invoquer tout autre motif appuyant leur position. Il s'appuie sur les décisions suivantes : The Queen v. Bowater Mersey Paper Company Limited, 87 DTC 5382 et Canada c. Loewen [2004] 4 R.C.F. 3
+[32] L'avocat de l'intimée ne demande pas à la Cour de lui donner raison sur ce motif si je rejette, par ailleurs, l'appel de l'appelante, car il s'agirait alors d'une augmentation du montant de la cotisation.
+[33] L'avocat de l'appelante fait valoir que l'année 1996 a été cotisée. Elle a fait l'objet d'une opposition. Elle a été ratifiée. L'intimée ne peut supporter sa cotisation sur la base d'un fait complètement différent. Il ne s'agit pas d'un nouvel argument tel que prévu au paragraphe 152(9) de la Loi.
+Analyse et conclusion
+[34] Je crois que la Cour d'appel fédérale dans Petro-Canada c. Canada, [2004] A.C.F. no 734 (Q.L.) a tranché ce genre de débat en affirmant que la Cour ne peut pas faire indirectement ce qu'elle ne peut faire directement. Permettre la compensation demandée aurait cet effet. En effet, l'avocat a bien dit que je ne pourrais accéder à la demande de l'intimée qu'advenant le cas où j'accueillerais l'appel de l'appelante autrement cela augmenterait le montant de la cotisation ce que je ne peux faire. La Cour d'appel fédérale a clairement exprimé que cela ne peut se faire :
+65 Le juge a refusé de donner effet au jugement convenu, lequel aurait accru d'environ 700 000 $ les déductions de Petro-Canada au titre des frais de recherche scientifique et de développement expérimental. Il a expliqué que, comme Petro-Canada avait obtenu, pour des frais d'exploration au Canada qui avaient été l'objet d'une renonciation, une déduction qui dépassait de bien plus de 700 000 $ le droit de Petro-Canada à une déduction, et puisque la question ultime qui lui était posée concernait la justesse de la cotisation visée par l'appel, il ne pouvait faire rien de plus que rejeter l'appel. Il ne pouvait ordonner au ministre d'établir une nouvelle cotisation en accord avec ses motifs, parce que cela aurait augmenté l'impôt payable, ce qui n'est pas un résultat admissible dans un appel en matière d'impôt sur le revenu (voir l'arrêt Harris, susmentionné).
+...
+68 Le juge a eu raison de conclure que Petro-Canada avait obtenu une déduction qui dépassait son droit à déduction. L'unique conséquence de cette conclusion était que le juge ne pouvait accorder à Petro-Canada le redressement qu'elle demandait, un redressement qui était une déduction accrue représentant le coût des données sismiques. Le juge était empêché par l'arrêt Harris d'obliger le ministre à réduire la déduction parce que cela aurait eu pour effet d'autoriser la Couronne à faire appel de la cotisation.
+69 Cependant, le juge a refusé d'obliger le ministre à donner effet au jugement convenu. Refuser les justes prétentions de Petro-Canada à la déduction au titre des frais de recherche scientifique et de développement expérimental avait le même effet qu'une ordonnance faisant droit à telles prétentions mais réduisant de la même somme la déduction de Petro-Canada pour frais de données sismiques. C'est comme si le juge avait fait droit en partie à l'appel de la Couronne contre la déduction pour frais de données sismiques. Le juge faisait indirectement ce qu'il n'aurait pu faire directement. À mon avis, il a commis une erreur en refusant de donner effet au jugement convenu.
+Conclusion d'ensemble
+[35] En ce qui concerne le premier point en litige, soit les montants à inclure au niveau de l'alinéa c) de la définition d'un CII au paragraphe 127(9) de la Loi, relativement à l'ensembledes montants représentant chacun un montant déterminé selon les alinéas a), a.1) ou b) relativement au contribuable pour l'une des 10 années d'imposition précédentes ou des 3 années d'imposition suivantes, quand ces montants ont été déduits de l'impôt payable par ailleurs par un contribuable, ce sont ces montants qui doivent être inscrits car ils ont fait l'objet d'une cotisation. La seule façon de les modifier est au moyen de nouvelles cotisations pour les années en cause. Les dispositions du paragraphe 152(4) de la Loi s'appliquent à ces montants.
+[36] Quant au deuxième point en litige, qui était un argument de rechange pour l'intimée, le tribunal ne peut pas faire indirectement ce qu'il ne peut faire directement. Le CII au montant de 50 000 $ n'était pas en litige au moment de l'établissement de la cotisation. Le Ministre ne peut en appeler de sa propre cotisation.
+[37] L'appel est en conséquence accordé avec dépens.
+Signé à Ottawa, Canada, ce 20e jour de juin, 2005.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE :
+2005CCI396
+No DU DOSSIER DE LA COUR :
+2003-1762(IT)G
+INTITULÉ DE CAUSE :
+Papiers Cascades Cabano Inc.
+et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+25 janvier 2005
+MOTIFS DE JUGEMENT PAR :
+l'hon. juge Louise Lamarre Proulx
+DATE DU JUGEMENT :
+le 20 juin 2005
+COMPARUTIONS :
+Avocats de l'appelante:
+Me Pierre Barsalou
+Me Josée Pelletier
+Avocats de l'intimée :
+Me Pierre Cossette
+Me Annick Provencher
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelante :
+Nom :
+Me Pierre Barsalou
+Étude :
+Barsalou, Lawson, Avocats
+Montréal (Québec)
+Pour l'intimé(e) :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

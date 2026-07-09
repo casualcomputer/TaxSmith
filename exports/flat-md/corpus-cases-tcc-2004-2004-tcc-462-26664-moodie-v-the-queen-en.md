@@ -1,0 +1,163 @@
+---
+title: "Moodie v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26664/index.do"
+last_modified: "2004-06-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 462"
+citation2: ""
+neutral_citation: "2004 TCC 462"
+decision_date: "2004-06-25"
+language: "en"
+item_id: "26664"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3606
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:18:00.125000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6ef294fb0064500e3ab2db623d4bc99f4b83948a8068dbc723262274336e8eea"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Moodie v. The Queen
+
+- Citation: 2004 TCC 462
+- Decision date: 2004-06-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3606, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Moodie v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-06-25
+Neutral citation
+2004 TCC 462
+File numbers
+2003-2313(IT)I
+Judges and Taxing Officers
+Murray A. Mogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-2313(IT)I
+BETWEEN:
+SHARON MOODIE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 17, 2004, at Toronto, Ontario,
+By: The Honourable Justice M.A. Mogan
+Appearances:
+For the Appellant:
+The Appellant herself
+Agent for the Respondent:
+Kandia Aird (Student-at-law)
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment of tax made under the Income Tax Act for the 1999 taxation year is allowed, with costs, and the assessment is referred back to the Minister of National revenue for reconsideration and reassessment on the basis that in computing income, the Appellant is entitled to deduct moving expenses in the amount of $3,466.
+Signed at Ottawa, Canada, this 25th day of June, 2004.
+"M.A. Mogan"
+Mogan J.
+Citation: 2004TCC462
+Date: 20040625
+Docket: 2003-2313(IT)I
+BETWEEN:
+SHARON MOODIE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Mogan J.
+[1] The issue in this appeal is whether the Appellant is permitted to deduct in computing income for 1999 certain moving expenses which she incurred and paid in 1997. The result will depend upon the interpretation of section 62 of the Income Tax Act. The Appellant has elected the informal procedure.
+[2] The Appellant resided for many years in Montreal where she was employed by the National Film Board. Her employment ended in May 1997. She was not bilingual and so she decided to seek employment in Ontario. She found the cost of houses in Toronto too high. In September 1997, she signed an agreement to purchase a house in Guelph, Ontario. The closing date was in October 1997 because the house was vacant. The Appellant had gone to Ohio on Labour Day weekend to look after her mother who was ill. She returned to Guelph in October to close her purchase and move in her furniture which had been in storage. She found a tenant to rent the basement apartment in her new home. She rented a studio in Guelph starting January 1, 1998 where she intended to start a business making artistic creations for gardens.
+[3] Her attempt at a new business was not a success and she was obliged to give up her studio in April 1998. For the calendar year 1998, her only income was the rent from her basement apartment and the residue of some employment insurance. She had no earned income from employment or business. When she asked a person at Revenue Canada about the deduction of her 1997 moving expenses, she was told that such expenses could be applied against only employment or business income at her new work location (Guelph).
+[4] The Appellant's total moving expenses in 1997 were in the range of $17,000. In 1999, she obtained temporary casual work at the University of Guelph where she earned $3,466. When filing her 1999 income tax return, she deducted $3,466 of her moving expenses and applied them against her employment income from the University of Guelph. Revenue Canada disallowed the deduction of the $3,466, and that is the amount in issue in this appeal.
+Analysis
+[5] The deduction of moving expenses is governed by subsection 62(1) of the Act which, prior to 1998, provided as follows (the "old provision"):
+62(1) Where a taxpayer has, at any time, commenced
+(a) to carry on a business or to be employed at a location in Canada (in this subsection referred to as his "new work location"), or
+(b) ...
+and by reason thereof has moved from the residence in Canada at which, before the move, he ordinarily resided (in this section referred to as his "old residence") to a residence in Canada at which, after the move, he ordinarily resided (in this section referred to as his "new residence"), so that the distance between his old residence and his new work location is not less than 40 kilometres greater than the distance between his new residence and his new work location, in computing his income for the taxation year in which he moved from his old residence to his new residence or for the immediately following taxation year, there may be deducted amounts paid by him as or on account of moving expenses incurred in the course of moving from his old residence to his new residence, to the extent that
+(c) they were not paid on his behalf by his employer,
+(d) they were not deductible by virtue of this section in computing the taxpayer's income for the preceding taxation year,
+(e) they would not, but for this section, be deductible in computing the taxpayer's income,
+(f) the aggregate of such amounts does not exceed
+(i) in any case described in paragraph (a), the taxpayer's income for the year from his employment at his new work location or from carrying on the new business at his new work location, as the case may be, or
+(ii) in any case described in paragraph (b), the aggregate of amounts required to be included in computing his income for the year by virtue of paragraphs 56(1)(n) and (o), and
+(g) any reimbursement or allowance received by him in respect of such expenses is included in computing his income.
+The old provision was amended and replaced with a fresh provision (the "new provision") which took effect after 1997 and stated:
+62(1) There may be deducted in computing a taxpayer's income for a taxation year amounts paid by the taxpayer as or on account of moving expenses incurred in respect of an eligible relocation, to the extent that
+(a) they were not paid on the taxpayer's behalf in respect of, in the course of or because of, the taxpayer's office or employment;
+(b) they were not deductible because of this section in computing the taxpayer's income for the preceding taxation year;
+(c) the total of those amounts does not exceed
+(i) in any case described in subparagraph (a)(i) of the definition "eligible relocation" in subsection 248(1), the taxpayer's income for the year from the taxpayer's employment at a new work location or from carrying on the business at the new work location, as the case may be, and
+(ii) ...
+(d) all reimbursements and allowances received by the taxpayer in respect of those expenses are included in computing the taxpayer's income.
+To make the new provision effective, the phrase "eligible relocation" had to be defined:
+248(1) In this Act,
+"eligible relocation" means a relocation of a taxpayer where
+(a) the relocation occurs to enable the taxpayer
+(i) to carry on a business or to be employed at a location in Canada (in section 62 and this subsection referred to as "the new work location"), or
+(ii) ...
+(b) both the residence at which the taxpayer ordinarily resided before the relocation (in section 62 and this subsection referred to as "the old residence") and the residence at which the taxpayer ordinarily resided after the relocation (in section 62 and this subsection referred to as "the new residence") are in Canada, and
+(c) the distance between the old residence and the new work location is not less than 40 kilometres greater than the distance between the new residence and the new work location
+except that, in applying subsections 6(19) to (23) and section 62 in respect of a relocation of a taxpayer who is absent from but resident in Canada, this definition shall be read without reference to the words "in Canada" in subparagraph (a)(i), and without reference to paragraph (b);
+[6] Under the old provision, it was clear from the words following paragraph 62(1)(b) that moving expenses could be deducted only "for the taxation year in which he moved ... or for the immediately following taxation year". On the facts of this appeal, under the old provision, the Appellant would be restricted to deducting her moving expenses in 1997 (the year she moved) and 1998. It is important to note, however, that the old provision was replaced by the new provision which is applicable after 1997. The taxation year under appeal is 1999. Therefore, the new provision applies to the facts of this appeal.
+[7] The words in the old provision which restricted the deduction of moving expenses to the taxation year "in which he moved" or the immediately following year do not appear in the new provision or in the new definition of "eligible relocation". I conclude that such restriction was intentionally omitted. In other words, Parliament intended that, for any taxation year after 1997, moving expenses may be deducted in the year of the move or any subsequent year to the extent that the taxpayer had employment or business income at a new work location against which the residual moving expenses could be applied. In a recent decision from this Court: Dalisay v. The Queen (February 6, 2004), Rip J. stated at paragraph 17:
+The phrase "the new work location" is not to be interpreted with any rigidity. The words "to carry on a business or to be employed at a location in Canada" have a very broad meaning. The words allow for flexibility in interpretation depending on the facts. ...
+[8] In the circumstances of this appeal, there are two significant statutory conditions. First, under subparagraph 62(1)(c)(i), moving expenses may be applied against only employment or business income at a new work location. And second, under paragraph 62(1)(b), moving expenses are deductible in any year only to the extent that they were not deductible because of section 62 in computing income for the preceding taxation year. The Appellant satisfies both conditions because (i) the deduction of $3,466 is applied against 1999 employment income in Guelph; and (ii) the Appellant had no employment or business income in 1998 against which moving expenses could be deducted. The appeal is allowed, with costs.
+Signed at Ottawa, Canada, this 25th day of June, 2004.
+"M.A. Mogan"
+Mogan J.
+CITATION:
+2004TCC462
+COURT FILE NOS.:
+2003-2313(IT)I
+STYLE OF CAUSE:
+Sharon Moodie and Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+June 17, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice M.A. Mogan
+DATE OF JUDGMENT:
+June 25, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Agent for the Respondent:
+Kandia Aird (Student-at-law)
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

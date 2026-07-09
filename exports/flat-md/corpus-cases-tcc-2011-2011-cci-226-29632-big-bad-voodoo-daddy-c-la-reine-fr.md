@@ -1,0 +1,209 @@
+---
+title: "Big Bad Voodoo Daddy c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29632/index.do"
+last_modified: "2011-04-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 226"
+citation2: ""
+neutral_citation: "2011 CCI 226"
+decision_date: "2011-04-28"
+language: "fr"
+item_id: "29632"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6139
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:54:55.216000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "68e168a25952a93f46936008ffb65d20c1d3879fafc391660710292193c65ff4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Big Bad Voodoo Daddy c. La Reine
+
+- Citation: 2011 CCI 226
+- Decision date: 2011-04-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6139, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Big Bad Voodoo Daddy c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-04-28
+Référence neutre
+2011 CCI 226
+Numéro de dossier
+2009-320(IT)I, 2009-321(IT)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-320(IT)I
+ENTRE :
+BIG BAD VOODOO DADDY,
+appelante,
+et
+SA MAJESTÉ
+LA REINE ,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+__________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+Big Bad Voodoo Daddy (2009-321(IT)I)
+le 6 juillet 2010, à Montréal (Québec).
+Devant : L’honorable juge Réal Favreau
+Comparutions :
+Avocat de l’appelante :
+Me Richard Dermer
+Avocats de l’intimée :
+Me Emmanuel Jilwan
+Me Susan Shaughnessy
+JUGEMENT
+L’appel de la nouvelle cotisation établie au titre de la Loi de l’impôt sur le revenu pour l’année d’imposition 2003 est rejeté, conformément aux motifs de jugement ci-joints.
+Signé à Montréal, Québec, ce 28e jour d’avril 2011.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 1er jour de juin 2011.
+Christian Laroche, LL.B.
+Juriste-traducteur et traducteur-conseil
+Dossier : 2009-321(IT)I
+ENTRE :
+BIG BAD VOODOO DADDY,
+appelante,
+et
+SA MAJESTÉ
+LA REINE ,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l’appel de
+Big Bad Voodoo Daddy (2009-320(IT)I)
+le 6 juillet 2010, à Montréal (Québec).
+Devant : L’honorable juge Réal Favreau
+Comparutions :
+Avocat de l’appelante :
+Me Richard Dermer
+Avocats de l’intimée :
+Me Emmanuel Jilwan
+Me Susan Shaughnessy
+JUGEMENT
+L’appel de la nouvelle cotisation établie au titre de la Loi de l’impôt sur le revenu pour l’année d’imposition 2004 est rejeté, conformément aux motifs de jugement ci-joints.
+Signé à Montréal, Québec, ce 28e jour d’avril 2011.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 1er jour de juin 2011.
+Christian Laroche, LL.B.
+Juriste-traducteur et traducteur-conseil
+Référence : 2011 CCI 226
+Date : 20110428
+Dossiers : 2009-320(IT)I
+2009-321(IT)I
+ENTRE :
+BIG BAD VOODOO DADDY,
+appelante,
+et
+SA MAJESTÉ
+LA REINE ,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Les deux appels en l’espèce ont été entendus ensemble sur preuve commune par voie de procédure informelle.
+[2] Le point en litige est de savoir si le ministre du Revenu national (le « ministre ») a établi correctement, au titre de la Loi de l’impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.), dans sa version modifiée (la « Loi »), le revenu imposable de l’appelante pour les années d’imposition 2003 et 2004, l’impôt payable selon la partie I, la surtaxe et l’impôt payable selon la partie XIV pour les années d’imposition 2003 et 2004 ainsi que les pénalités pour production tardive de la déclaration de revenus pour l’année d’imposition 2003.
+Le contexte
+[3] L’appelante a produit sa déclaration de revenus pour l’année d’imposition 2003 le 24 mars 2005.
+[4] Par voie d’avis de cotisation émis le 13 avril 2005, le ministre a établi que l’impôt payable selon la partie I s’élevait à 12 364 $, en accordant un crédit de 17 258 $ pour impôts retenus à la source, en établissant une pénalité pour production tardive de 2 500 $ et en accordant un remboursement de 2 394 $.
+[5] Par voie d’avis de nouvelle cotisation émis le 3 janvier 2007, le ministre a maintenu l’impôt payable selon la partie I et la pénalité pour production tardive établis le 13 avril 2005, et il a établi un montant additionnel de 5 968 $ d’impôt payable selon la partie XIV et des intérêts de 1 051,68 $, pour un total de 7 019,68 $.
+[6] Par voie d’avis d’opposition reçu par le ministre le 26 janvier 2007, l’appelante s’est opposée à la nouvelle cotisation relative à l’année d’imposition 2003 et a produit une déclaration de revenus modifiée pour l’année d’imposition 2003.
+[7] Le 31 octobre 2007, le ministre a ratifié la nouvelle cotisation du 3 janvier 2007, au motif que l’appelante n’avait pas réussi à démontrer qu’elle avait engagé des dépenses au montant de 38 048 $.
+[8] L’appelante a produit sa déclaration de revenus pour l’année d’imposition 2004 le 5 juillet 2005.
+[9] Par voie d’avis de cotisation émis le 5 octobre 2005, le ministre a établi que l’impôt payable selon la partie I s’élevait à 1 665 $, en accordant un crédit au titre d’impôts retenus à la source de 1 533 $ et de versements de 495 $.
+[10] Par voie d’avis de nouvelle cotisation émis le 3 janvier 2007, le ministre a maintenu l’impôt payable selon la partie I, établi le 5 octobre 2005, et a établi un montant additionnel de 880 $ d’impôt payable selon la partie XIV et des intérêts de 129,56 $.
+[11] Par voie d’avis d’opposition reçu par le ministre le 26 janvier 2007, l’appelante s’est opposée à la nouvelle cotisation pour l’année d’imposition 2004 et a produit une déclaration de revenus modifiée pour l’année d’imposition 2004.
+[12] Le 31 octobre 2007, le ministre a ratifié la nouvelle cotisation du 3 janvier 2007, au motif que l’appelante n’avait pas réussi à démontrer qu’elle avait engagé des dépenses au montant de 5 444 $.
+[13] Pour établir la nouvelle cotisation et la ratification pour l’année d’imposition 2003, le ministre s’est fondé sur les hypothèses de fait suivantes :
+a) L’appelante est une succursale de Big Bad Voodoo Daddy LLC, une société à responsabilité limitée non résidente américaine;
+b) Les activités de l’appelante au Canada consistent à donner des concerts de jazz au cours de l’année à divers endroits partout au Canada;
+c) Lorsqu’elle a produit la déclaration de revenus pour l’année d’imposition 2003, l’appelante a déclaré un revenu brut de 80 816 $, des dépenses totalisant 44 580 $ et un revenu net de 36 236 $ (détails à l’annexe 1);
+d) Lorsqu’elle a produit la déclaration de revenus modifiée avec l’avis d’opposition, l’appelante a révisé le revenu brut, qu’elle a ramené à 36 236 $, elle a révisé la catégorie et le total des dépenses, qu’elle a ramenées à 38 048 $, et elle a révisé le revenu net, qu’elle a ramené à (1 812 $) (détails à l’annexe 1);
+e) Lorsqu’elle avait produit la déclaration de revenus sur laquelle la cotisation initiale du 13 avril 2005 était fondée, l’appelante avait omis d’inclure l’annexe 20 – Impôt de succursale prévu à la partie XIV et, ce faisant, elle avait omis d’inclure l’impôt payable selon la partie XIV lorsqu’elle avait établi le montant total d’impôt payable pour l’année d’imposition 2003;
+f) Par voie de nouvelle cotisation émise le 3 janvier 2007, le ministre a révisé le montant total d’impôt payable pour l’année d’imposition 2003 en établissant l’impôt payable selon la partie XIV au montant de 5 968 $ (détails à l’annexe 1);
+g) Lorsque l’agent chargé de statuer sur l’opposition lui a demandé de produire la documentation à l’appui des dépenses révisées, selon la déclaration de revenus modifiée, et la répartition de ces dépenses par rapport aux revenus gagnés au Canada, l’appelante a omis de produire tout document justificatif ou répartition des dépenses à l’appui de ses prétentions révisées quant aux revenus gagnés au Canada.
+[14] Pour établir la nouvelle cotisation et la ratification pour l’année d’imposition 2004, le ministre s’est fondé sur les hypothèses de fait suivantes :
+a) L’appelante est une succursale de Big Bad Voodoo Daddy LLC, une société à responsabilité limitée non résidente américaine;
+b) Les activités de l’appelante au Canada consistent à donner des concerts de jazz au cours de l’année à divers endroits partout au Canada;
+c) Lorsqu’elle a produit la déclaration de revenus pour l’année d’imposition 2004, l’appelante a déclaré un revenu brut de 45 476 $, des dépenses totalisant 40 291 $ et un revenu net de 5 185 $ (détails à l’annexe 1);
+d) Lorsqu’elle a produit la déclaration de revenus modifiée avec l’avis d’opposition, l’appelante a révisé le revenu brut, qu’elle a ramené à 4 185 $, elle a révisé la catégorie et le total des dépenses, qu’elle a ramenées à 5 444 $, et elle a révisé le revenu net, qu’elle a ramené à (259 $) (détails à l’annexe 1);
+e) Lorsqu’elle avait produit la déclaration de revenus sur laquelle la cotisation initiale du 5 octobre 2005 était fondée, l’appelante avait omis d’inclure l’annexe 20 – Impôt de succursale prévu à la partie XIV et, ce faisant, elle avait omis d’inclure l’impôt payable pour l’année d’imposition 2004;
+f) Par voie de nouvelle cotisation émise le 3 janvier 2007, le ministre a révisé le montant total d’impôt payable pour l’année d’imposition 2004 en établissant l’impôt payable selon la partie XIV au montant de 880 $ (détails à l’annexe 1);
+g) Lorsque l’agent chargé de statuer sur l’opposition lui a demandé de produire la documentation à l’appui des dépenses révisées, selon la déclaration de revenus modifiée, et la répartition de ces dépenses par rapport aux revenus gagnés au Canada, l’appelante a omis de produire tout document justificatif ou répartition des dépenses à l’appui de ses prétentions révisées quant aux revenus gagnés au Canada.
+[15] Le point en litige dans les présents appels concerne la déductibilité des salaires qu’une société à responsabilité limitée (« S.A.R.L. ») a payés à ses associés et l’absence de documents à l’appui des déductions de dépenses salariales.
+Analyse
+[16] Mme Nadine Benny, adjointe juridique à l’emploi de R.A.M. Management – Attorneys at Law, a témoigné à l’audience. Elle a confirmé que le cabinet s’occupait des affaires liées aux retenues fiscales de l’appelante au Canada depuis 2005, ce qui comprenait le traitement des dérogations à l’article 105 du Règlement de l’impôt sur le revenu (le « Règlement ») relativement aux concerts de l’appelante au Canada et la supervision de ses déclarations de revenus canadiennes. Mme Nadine Benny n’est pas intervenue personnellement dans les affaires fiscales de 2003 et 2004 de l’appelante et, autant qu’elle sache, le cabinet n’a obtenu aucune dérogation à l’article 105 du Règlement pour les années d’imposition 2003 et 2004.
+[17] En fait d’éléments de preuve documentaire, un courriel de M. Dick Shumaker, daté du 5 juillet 2010, produit comme pièce A-
+1, a confirmé que chaque membre de la société de personnes Big Bad Voodoo Daddy touchait un salaire mensuel de 7 500 $US depuis 2003. Des exemples de dérogations à l’article 105 du Règlement obtenues pour les années d’imposition 2006 et 2007 ont été produits comme pièce A-2. La dérogation de 2006 visait des dépenses liées à des spectacles au Canada du 16 novembre 2006 au 21 décembre 2006 – la composante salariale pour les membres de l’orchestre totalisait 52 500 $US (7 membres à 7 500 $ chacun). La dérogation de 2007 visait des dépenses liées au spectacle du 24 février 2007 à Brampton, en Ontario, et la composante salariale pour les membres de l’orchestre était de 24 500 $US (7 membres à 3 500 $ chacun).
+[18] Dans son témoignage, Mme Benny a confirmé que l’orchestre avait donné cinq spectacles au Canada en 2003 en voyageant d’un bout à l’autre du pays et avait donné seulement deux spectacles au Canada en 2004.
+[19] Concernant les déclarations de revenus modifiées que l’ancien comptable américain de l’orchestre avait produites pour les années d’imposition 2003 et 2004, Mme Benny considérait que les dépenses additionnelles demandées n’étaient clairement pas raisonnables dans les circonstances.
+[20] Selon Mme Benny, un salaire de 1 000 $US par jour par membre pour les événements canadiens en 2003 et 2004 serait raisonnable dans les circonstances et concorderait avec les salaires qui ont généralement été alloués aux associés de l’appelante ces dernières années.
+[21] M. Patrick McIver, un agent des appels de l’Agence du revenu du Canada (l’« ARC »), a témoigné à l’audience, et il a affirmé que le premier comptable américain de l’appelante avait oublié de demander les dépenses engagées ou effectuées relativement aux spectacles canadiens et que le deuxième comptable américain n’avait jamais évoqué la composante salariale des dépenses, bien que des dépenses additionnelles aient été demandées. M. McIver a aussi mentionné le fait que le deuxième comptable n’avait jamais justifié la demande relative aux dépenses additionnelles et que c’était pour cette raison que l’ARC n’avait pas accepté les déclarations de revenus modifiées.
+[22] M. McIver a également mentionné qu’une S.A.R.L. américaine ne pouvait pas déduire, pour l’impôt canadien, les salaires payés aux membres de la S.A.R.L., parce qu’une S.A.R.L. américaine est une société de personnes pour l’impôt sur le revenu fédéral américain et une société pour l’impôt canadien. Selon ce que M. McIver a compris, l’ARC considère que les salaires payés aux membres de la société de personnes représentent une répartition de revenus nets de la société de personnes, et ces salaires ne sont pas des dépenses d’entreprise déductibles.
+[23] Les dépenses d’entreprise sont généralement déductibles dans le calcul du revenu qu’un contribuable tire d’une entreprise ou d’un bien dans la mesure où le contribuable a effectué ou engagé ces dépenses en vue de tirer un revenu de l’entreprise ou du bien (paragraphe 9(1) et alinéa 18(1)a) de la Loi).
+[24] Quiconque exploite une entreprise doit tenir des registres et des livres de comptes pour permettre au ministre d’établir le montant des impôts payables au titre de la Loi ou les impôts qui auraient dû être déduits, retenus ou perçus. Cette exigence se trouve au paragraphe 230(1) de la Loi, qui est ainsi rédigé :
+230. (1) Livres de comptes et registres -- Quiconque exploite une entreprise et quiconque est obligé, par ou selon la présente loi, de payer ou de percevoir des impôts ou autres montants doit tenir des registres et des livres de comptes (y compris un inventaire annuel, selon les modalités réglementaires) à son lieu d’affaires ou de résidence au Canada ou à tout autre lieu que le ministre peut désigner, dans la forme et renfermant les renseignements qui permettent d’établir le montant des impôts payables en vertu de la présente loi, ou des impôts ou autres sommes qui auraient dû être déduites, retenues ou perçues.
+[25] La demande de dérogation à l’article 105 du Règlement autorise le contribuable canadien qui est sur le point d’effectuer un paiement à un non-résident pour des services fournis au Canada à ne pas retenir l’impôt de 15 p. 100 sur les honoraires payables au non-résident. Puisque la demande de dérogation est fondée sur une estimation des revenus par rapport aux dépenses directement liées aux services fournis au Canada, toute modification des honoraires convenus ou de la période de service invalide la dérogation. En pareil cas, le contribuable canadien est alors responsable de la retenue à la source de 15 p. 100 sur le montant brut de tout paiement au non-résident à moins que le non-résident dépose une autre demande de dérogation auprès de l’ARC. Le contribuable canadien est tenu de produire un feuillet T4A-NR pour chaque non-résident payé et de donner à chacun une copie du feuillet. Le feuillet T4A-NR indiquera les honoraires payés et les impôts déduits à l’égard du non‑résident.
+Conclusion
+[26] Contrairement à ce que M. McIver avait compris, selon la position de l’ARC établie de longue date, une S.A.R.L. américaine est traitée à tous égards comme une société pour l’application de la Loi, peu importe que la S.A.R.L. soit traitée comme une société ou comme une société de personnes pour l’impôt américain (voir l’article publié par Mark J. Rosen et Paul R. Delongchamp intitulé « Forming an Operating Limited Liability Companies Canadian and US Tax Considerations », au bas de la page 19). Par conséquent, rien n’empêcherait l’appelante de déduire, pour l’impôt sur le revenu canadien, les salaires payés à ses membres, à condition qu’il soit satisfait par ailleurs aux exigences de la Loi.
+[27] En l’espèce, l’établissement de la composante salariale des dépenses a été fondé sur des estimations, en prenant en compte les montants alloués durant des années subséquentes. Les déductions relatives aux salaires n’ont pas été justifiées, et aucun document à l’appui n’a été fourni. Il n’y a aucune preuve de paiement des salaires ni de dépôts bancaires des montants en cause.
+[28] Compte tenu de l’absence de preuve à l’appui, la composante salariale des dépenses déduites pour les années d’imposition 2003 et 2004 ne peut pas être soustraite dans le calcul du revenu de l’appelante. Par conséquent, le ministre a établi correctement, au titre de la Loi, le revenu imposable de l’appelante pour les années d’imposition 2003 et 2004, l’impôt payable selon la partie I, la surtaxe et l’impôt payable selon la partie XIV pour les années d’imposition 2003 et 2004 ainsi que les pénalités pour production tardive de la déclaration de revenus pour l’année d’imposition 2003.
+[29] Par conséquent, les appels sont rejetés.
+Signé à Montréal, Québec, ce 28e jour d’avril 2011.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 1er jour de juin 2011.
+Christian Laroche, LL.B.
+Juriste-traducteur et traducteur-conseil
+RÉFÉRENCE : 2011 CCI 226
+Nos DES DOSSIERS DE LA COUR : 2009-320(IT)I; 2009-321(IT)I
+INTITULÉ : Big Bad Voodoo Daddy c. SA MAJESTÉ
+LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 6 juillet 2010
+MOTIFS DU JUGEMENT : L’honorable juge Réal Favreau
+DATE DU JUGEMENT : Le 28 avril 2011
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Richard Dermer
+Avocats de l’intimée :
+Me Emmanuel Jilwan
+Me Susan Shaughnessy
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Richard Dermer
+Cabinet : R.A.M. Management - Attorneys at Law
+Montréal (Québec)
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

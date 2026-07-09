@@ -1,0 +1,122 @@
+Title: Grande v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25284/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-753-25284-grande-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2003-10-24
+
+# Grande v. The Queen
+
+- Citation: 2003 CCI 753
+- Decision date: 2003-10-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2397, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Grande v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-10-24
+Référence neutre
+2003 CCI 753
+Numéro de dossier
+2003-337(IT)I
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-337(IT)I
+ENTRE :
+ENRICO GRANDE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 26 août 2003 à Toronto (Ontario)
+Devant : L'honorable juge L. M. Little
+Comparutions
+Représentant de l'appelant :
+Giovanni (John) Grande
+Avocate de l'intimée :
+Mme Bonnie Boucher
+___________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2001 est rejeté sans dépens conformément aux motifs du jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique), ce 24e jour d'octobre 2003.
+« L. M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 18e jour de mars 2004.
+Sylvie Sabourin, traductrice
+Référence : 2003CCI753
+Date : 20031024
+Dossier : 2003-337(IT)I
+ENTRE :
+ENRICO GRANDE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Little
+A. FAITS
+[1] En 1989, l'appelant a été informé, par son médecin de famille, qu'il était atteint d'une grave maladie du rein et qu'il allait devoir utiliser un rein artificiel pour effectuer des dialyses.
+[2] De 1989 à 1994, l'appelant s'est régulièrement présenté dans une clinique médicale pour obtenir des dialyses effectuées avec le rein artificiel.
+[3] En juin 1994, l'appelant a reçu une transplantation rénale à l'hôpital St. Michael à Toronto.
+[4] Par lettre datée du 14 août 2003 (pièce R-3), le Dr Steven E. Rubenzahl a indiqué ce qui suit :
+[traduction]
+On m'a demandé de déposer une déclaration portant sur l'état de santé de M. Grande en ce qui a trait à une demande de crédit d'impôt pour personnes handicapées. La question particulière semble consister à savoir s'il a reçu une thérapie de survie. Je suis un médecin de famille autorisé à exercer dans la province d'Ontario depuis 1990. Je suis le médecin de famille de M. Grande depuis juillet 1994. Il a reçu une transplantation rénale à l'hôpital St. Michael en juin 1994. Depuis, il a eu de nombreux troubles de santé complexes comme de l'hyperparathyroïdie qui a exigé une parathyroïdectomie, en 1994, une fibrillation auriculaire qui a disparu, des troubles chroniques du foie qui ont exigé la prise de remèdes, des ulcères gastroduodénaux, des cancers de la peau, un taux élevé de cholestérol et une hypertension artérielle, des polypes du colon qui ont exigé une colectomie en 1999. M. Grande a besoin d'une attention médicale constante pour sa greffe de rein. Il prend des immunosuppresseurs à vie : Prednisone, Imuran et cyclophosphamide ainsi que des remèdes pour l'hypertension artérielle et pour le foie.
+À mon avis, ces traitements et leur constante supervision, tant par la clinique qui a effectué la transplantation que par moi-même, constituent des interventions vitales sans lesquelles il aurait sans aucun doute développé des complications mortelles. Il est difficile de répondre à la question particulière de la fréquence et de la durée qui est posée dans la Loi car ces interventions sont considérées comme constantes et, par conséquent, je ne peux les quantifier simplement comme on pourrait le faire pour les dialyses par exemple. Je dois donc laisser le soin à la Cour de clarifier ce détail d'interprétation. J'espère que cela clarifie les questions pertinentes.
+Veuillez agréer, Monsieur, l'expression de mes sentiments distingués.
+Steven Rubenzahl
+[5] Lorsque l'appelant a commencé à recevoir les dialyses, en 1989, il a demandé et reçu un crédit d'impôt pour personnes handicapées pour chaque année d'imposition de 1989 et 2000.
+[6] Lorsque l'appelant a produit sa déclaration de revenus pour l'année d'imposition 2001, il a demandé un crédit d'impôt pour personnes handicapées.
+[7] Par Avis de nouvelle cotisation datée du 13 juin 2002, le ministre du Revenu national (le « ministre » ) a rejeté le crédit d'impôt pour personnes handicapées demandé par l'appelant pour l'année d'imposition 2001.
+B. QUESTION EN LITIGE
+[8] La question est celle de savoir si l'appelant a le droit de demander un crédit d'impôt pour personnes handicapées pour l'année d'imposition 2001.
+C. ANALYSE
+[9] L'avocate de l'intimée a déposé, devant la Cour, une copie du certificat de crédit d'impôt pour personnes handicapées signé par l'appelant (pièce R-2). Le certificat était signé par le Dr Rubenzahl (le médecin de famille de l'appelant).
+[10] On avait répondu aux questions posées dans le certificat de la manière suivante :
+[traduction]
+- Votre patient peut-il voir?
+OUI
+- Votre patient peut-il marcher?
+OUI
+- Votre patient peut-il parler?
+OUI
+- Votre patient peut-il percevoir, réfléchir et se souvenir?
+OUI
+- Votre patient peut-il entendre?
+OUI
+- Votre patient peut-il s'alimenter et s'habiller lui-même?
+OUI
+- Votre patient peut-il éliminer, c'est-à-dire contrôler et s'occuper lui-même de ses fonctions intestinales et urinaires?
+OUI
+[11] Le certificat contenait également la question suivante :
+[traduction]
+- Si votre patient a besoin de thérapie vitale pour assister une fonction vitale, il peut être admissible au montant pour personnes handicapées même si la thérapie a remédié au trouble. Votre patient doit vouer spécifiquement le temps nécessaire à cette thérapie, au moins trois fois par semaine pendant une durée totale moyenne d'au moins 14 heures par semaine.
+Votre patient répond-il à ces conditions concernant une thérapie vitale?
+OUI
+Dans l'AFFIRMATIVE, veuillez préciser le genre de thérapie.
+Le Dr Rubenzahl a alors fait la déclaration suivante dans le certificat : [TRADUCTION] « Receveur d'une transplantation rénale » .
+(Remarque : Aucun renvoi n'est fait, dans le certificat, à la thérapie vitale mentionnée dans la Loi.)
+[12] Le sous-alinéa 118.3(1)a.1)(ii) a été ajouté à la Loi par le budget fédéral annoncé le 28 février 2000, et est entré en vigueur pour l'année d'imposition 2000 et les suivantes. Les notes explicatives du ministre des Finances fédéral émises le 16 mars 2001 renvoient à cette modification qui étend l'admissibilité au crédit aux personnes qui doivent suivre une thérapie au moins trois fois par semaine (durée totale moyenne d'au moins 14 heures par semaine). Les notes explicatives déclarent que des contribuables ayant de graves maladies rénales nécessitant une dialyse sont un exemple de personnes qui peuvent profiter de cette extension.
+[13] Comme les faits susmentionnés le soulignent, l'appelant a eu besoin de dialyse à la suite de sa maladie rénale de 1989 à 1994, année pendant laquelle il a reçu une transplantation rénale. Il n'a plus reçu de dialyses après la transplantation effectuée en 1994.
+[14] À la lumière des témoignages entendus par la Cour et d'une analyse des documents déposés devant elle, j'ai conclu que, pendant l'année d'imposition 2001, l'appelant n'a pas eu besoin de thérapie essentielle pour assurer une de ses fonctions vitales et qui devait être administrée au moins trois fois par semaine pendant une durée totale moyenne d'au moins 14 heures par semaine comme l'exige le sous-alinéa 118.3(1)a.1)(ii) de la Loi.
+[15] J'ai également conclu que, pendant l'année d'imposition 2001, l'appelant ne souffrait pas d'une déficience mentale ou physique grave et prolongée dont les effets étaient tels que sa capacité d'accomplir une activité courante de la vie quotidienne au sens prévu par l'article 118.4 de la Loi était toujours ou presque toujours limitée de façon marquée. Les commentaires effectués dans le certificat (pièce R-2) étayent cette conclusion.
+[16] J'ai par conséquent déterminé que, pour le calcul de l'impôt payable pour l'année d'imposition 2001, l'appelant n'a pas le droit de demander un crédit d'impôt lié à une déficience telle que le paragraphe 118.3(1) de la Loi la prévoit.
+[17] Je regrette de ne pas pouvoir donner gain de cause à l'appelant car il est manifeste qu'il a un certain nombre de problèmes médicaux. Cependant, il m'incombe d'interpréter les formulations de la Loi. Elle est libellée de façon très précise en ce qui concerne les personnes ayant besoin de dialyse, et la situation de l'appelant ne correspond pas à cet énoncé.
+[18] L'appel est rejeté sans dépens.
+Signé à Vancouver (Colombie-Britannique), ce 24e jour d'octobre 2003.
+« L. M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 18e jour de mars 2004.
+Sylvie Sabourin, traductrice

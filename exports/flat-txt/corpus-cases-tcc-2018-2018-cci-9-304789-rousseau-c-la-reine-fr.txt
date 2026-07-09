@@ -1,0 +1,161 @@
+Title: Rousseau c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/304789/index.do
+Corpus path: corpus/cases/tcc/2018/2018-cci-9-304789-rousseau-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2018-01-10
+
+# Rousseau c. La Reine
+
+- Citation: 2018 CCI 9
+- Decision date: 2018-01-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7278, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rousseau c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-01-10
+Référence neutre
+2018 CCI 9
+Numéro de dossier
+2014-259(IT)I
+Juges et Officiers taxateurs
+Guy R. Smith
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2014-259(IT)I
+ENTRE :
+SYLVAIN ROUSSEAU,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 11 décembre 2017, à Montréal (Québec).
+Devant : L'honorable juge Guy R. Smith
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Alain Gareau
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2008 est rejeté, sans frais, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 10e jour de janvier 2018.
+« Guy Smith »
+Juge Smith
+Référence : 2018 CCI 9
+Date : 20180110
+Dossier : 2014-259(IT)I
+ENTRE :
+SYLVAIN ROUSSEAU,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Smith
+[1] Sylvain Rousseau interjette appel en vertu de la procédure informelle d’une cotisation établie par le ministre du Revenu national (le « ministre ») à l’égard de l’année d’imposition 2008. Par celle‑ci, le ministre refuse des pertes d’entreprise au montant de 208 660,43 $ et impose une pénalité pour faute lourde au montant de 20 537 $ en vertu du paragraphe 163(2) de la Loi de l’impôt sur le revenu (la « Loi »).
+[2] L’appelant reconnaît qu’il n’avait pas d’entreprise et qu’il n’a pas subi de pertes d’entreprise en 2008 et donc la seule question en litige est de savoir si le ministre était justifié d’imposer ladite pénalité.
+Le contexte factuel [3] Pour l’année en question, l’appelant est employé de Bombardier Aéronautique comme surveillant de chantier, et ce, depuis 1999. Il a auparavant complété un Diplôme d’études collégiales en génie mécanique, soit un programme de trois ans.
+[4] Dans le but de faire une mise en contexte, l’appelant explique qu’il a toujours été très actif comme bénévole pour des activités sportives, notamment pour les équipes scolaires de soccer. Il a constaté un besoin pour une surface de terrain de jeu plus durable et plus écologique et a fait quelques démarches pendant les années 2007 et 2008. Pour ce faire, il communique avec certaines personnes à Boston et prépare un plan d’affaires. Il cherche ensuite du financement et approche quelques institutions bancaires dont la Banque nationale et la Banque fédérale de développement. Il n’a pas de succès et reconnaît que son expertise est surtout technique.
+[5] C’est dans ce contexte qu’il fait la connaissance d’un certain Martial Frigon de la région de Gatineau, Québec. Ce dernier prétend pouvoir trouver du financement pour le projet en question et l’aide à constituer la société « Eco‑Fields Inc. ». Selon l’appelant, monsieur Frigon est un avocat ou encore un ex‑membre du Barreau du Québec.
+[6] C’est par l’entremise de cet individu qu’il fait la connaissance du groupe Fiscal Arbitrators (« FA »). Il rencontre Carleton Branch et Pierre Joanisse (en automne 2008 ou au début de 2009) et assiste à une présentation à Ottawa qui a eu lieu an anglais quoique certaines explications sont offertes en français.
+[7] Les présentateurs lui montrent la « bible » d’impôt et expliquent qu’ils ont élaboré une technique tout à fait légale permettant la récupération de l’impôt payé dans les années antérieures. Selon l’appelant, des copies de chèques de remboursement d’impôt au montant de 20 000 $ à 30 000 $ sont circulées parmi les participants à titre de preuve corroborante. Il y a une présentation sur écran vidéo projecteur.
+[8] Suite à la présentation, les représentants de FA lui demandent de compléter un tableau (pièce A‑3) pour indiquer son revenu gagné et l’impôt payé au niveau fédéral et un deuxième tableau au niveau provincial pour les années d’imposition 1999 à 2007. Ces tableaux sont complétés sous forme de tableur ou « spreadsheet ». Trois colonnes sont laissées vides avec la mention [TRADUCTION] « À être complété par Fiscal Arbitrators ». La signature de l’appelant figure au bas des deux tableaux.
+[9] L’appelant tient à préciser que ces tableaux n’indiquent pas une perte d’entreprise mais ce qu’il a gagné comme salaire et ce qu’il a payé en impôt. Il comprend que ces renseignements sont nécessaires pour effectuer la demande de remboursement d’impôt.
+[10] L’appelant ajoute que suite à la signature de sa déclaration de revenus en septembre 2009, il y a eu un conflit avec monsieur Frigon étant donné qu’il s’est accaparé la nouvelle société en se nommant seul administrateur. Une confrontation a eu lieu au mois de novembre 2009, et c’est pour cette raison que l’appelant ne l’a pas cité à comparaître pour cette audience.
+La déclaration de revenus de 2008 [11] La déclaration de revenus pour l’année en question est complétée et l’appelant rencontre les représentants de FA en septembre 2009. Il constate que son revenu d’emploi est de 38 250,83 $ et qu’il y a un autre revenu de 13 829,26 $. Il prétend ne pas avoir constaté la perte d’entreprise donnant lieu à un revenu total négatif de 156 580,14 $, ou s’il l’a remarqué, au moment de la signature de la déclaration, il ne l’a pas compris.
+[12] Il remarque cependant l’état des résultats des activités d’une entreprise d’un agent (« Statement of Agent Activities ») qui n’est pas selon le formulaire standard mais a été préparé avec un logiciel de traitement de texte. Il constate qu’il y a des chiffres et des expressions qu’il ne comprend pas.
+[13] Il est notamment indiqué qu’il a reçu la somme de 59 023,39 $ comme agent pour un mandataire et tel que rapporté par des tiers (« as agent for principal and reported by third parties »). Un montant de 215 545,53 $ est ensuite déduit et indiqué comme étant un montant au mandataire en échange de ses services (« amount to principal in exchange for labour ») donnant lieu à une perte total de 208 660,43 $.
+[14] Au bas dudit document, on peut lire la phrase suivante : [TRADUCTION] « Je certifie que je suis le mandataire de l’agent SYLVAIN ROUSSEAU et déclare que ces renseignements sont exacts au 31 décembre 2008 ».
+[15] Dans son témoignage, l’appelant indique avoir noté que son nom est inscrit à la plume en lettres moulées et qu’il ne s’agit pas de sa signature. Il conclut néanmoins que ce document a été préparé par les représentants de FA à partir des tableaux qu’il a lui‑même préalablement complétés.
+[16] La dernière page de ladite déclaration est signée par l’appelant, quoique le mot « per » est inséré devant son nom. La boîte pour le préparateur de la déclaration est complétée avec le nom « FA » et l’adresse suivante : « FA, 554T, 2C3 AB A1B 2C3 » suivi d’un numéro de téléphone.
+[17] L’appelant insiste sur le fait que son nom en lettres moulées n’est pas sa signature et qu’il n’a pas compris le document en question. Il a néanmoins signé la déclaration, tel qu’indiqué ci‑haut, et l’a posté sans en garder une copie.
+[18] Lors du contre‑interrogatoire, l’appelant a reconnu que dans le passé, ses déclarations de revenus étaient préparées par un technicien comptable au coût de 60 $ à 80 $. Il a néanmoins accepté de verser des honoraires au montant de 2 108,99 $ (pièce I‑1) libellée au nom de Lawrence Watts, associé au groupe FA. L’appelant est d’avis que ce montant, quoique élevé par rapport à ce qu’il a l’habitude de payer, reflète la valeur des services rendus par le groupe FA.
+[19] L’appelant ajoute aussi qu’il n’a pas très bien compris le tout en raison du fait que la déclaration de revenus a été préparée en anglais. En septembre 2011, il envoie un courriel à FA leur demandant de lui fournir une traduction en français. Ils répondent que ce service n’est pas disponible.
+Le droit [20] La pénalité pour faute lourde est prévue au paragraphe 163(2) de la Loi, mais en vertu du paragraphe 163(3), le ministre a le fardeau d’établir les faits sur lesquels repose l’imposition de la pénalité. Ces dispositions se lisent comme suit :
+163(2) Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d’imposition pour l’application de la présente loi, ou y participe, y consent ou y acquiesce est passible d’une pénalité égale, sans être inférieure à 100 $, à 50 % du total des montants suivants […]
+163(3) Dans tout appel interjeté, en vertu de la présente loi, au sujet d’une pénalité imposée par le ministre en vertu du présent article ou de l’article 163.2, le ministre a la charge d’établir les faits qui justifient l’imposition de la pénalité.
+[21] Il est entendu que ladite pénalité est onéreuse, mais elle a sa raison d’être étant donné que l’obligation de déclarer ses revenus est l’une des pierres angulaires du régime fiscal canadien. Tel que l’explique la Cour suprême du Canada dans l’arrêt R. v. Jarvis, 2002 CSC 73, [2002] 3 R.C.S. 757 :
+[49] Toute personne résidant au Canada au cours d'une année d'imposition donnée est tenue de payer un impôt sur son revenu imposable, calculé selon les règles prescrites par la Loi (LIR, art. 2; Smerchanski c. M.R.N., [1977] 2 R.C.S. 23, p. 32, le juge en chef Laskin). Le processus de perception des impôts repose principalement sur l'autocotisation et l'autodéclaration : tous les contribuables sont tenus d'estimer le montant de leur impôt annuel payable (art. 151) […]
+[50] Bien que l'observation volontaire de la loi et l'autocotisation constituent les éléments essentiels du régime réglementaire de la LIR, le système fiscal est doté de [TRADUCTION] "mécanismes de persuasion visant à inciter les contribuables à déclarer leurs revenus" : Krishna, op. cit., p. 767. À cet égard, Krishna affirme à la p. 772 que [TRADUCTION] "le système est "volontaire" seulement en ce sens que le contribuable doit produire une déclaration de revenu sans que le ministre ne l'invite à le faire". Par exemple, pour favoriser l'aspect d'autodéclaration du régime, l'art. 162 de la LIR établit des peines pécuniaires pour les personnes qui omettent de produire leur déclaration de revenu. De même, pour inciter le contribuable à faire preuve de minutie et d'exactitude dans le cadre de l'autocotisation, l'art. 163 de la Loi prévoit le même type de pénalités pour les personnes qui omettent de façon répétée de déclarer un montant à inclure, qui sont complices d'un faux énoncé ou d'une omission ou qui commettent une faute lourde à cet égard.
+[Mes soulignements.]
+[22] C’est donc dans ce contexte juridique que doit s’effectuer l’analyse des faits sur lesquels le ministre s’appuie pour l’imposition de la pénalité. Tel que l’explique la décision Lauzon c. La Reine, 2016 CCI 171 :
+[21] Deux éléments doivent nécessairement être établis pour rendre un contribuable passible des pénalités prévues au paragraphe 163(2) :
+a) un faux énoncé dans une déclaration;
+b) le fait d’avoir, sciemment ou dans des circonstances équivalant à faute lourde, fait ce faux énoncé ou d’y avoir participé, consenti ou acquiescé.
+[23] L’appelant admet qu’il y a eu un faux énoncé dans sa déclaration, mais puisque le ministre n’allègue pas que l’appelant l’a fait « sciemment », la question principale sur laquelle la Cour doit se pencher est donc de savoir si l’appelant a fait un faux énoncé « dans des circonstances équivalent à une faute lourde ».
+[24] Dans la décision Malette c. La Reine, 2016 CCI 27, la Cour s’est penché sur les caractéristiques de la négligence pour faute lourde :
+[24] La négligence s'entend du défaut d'agir avec autant de soin que ne l'aurait fait une personne raisonnablement prudente et minutieuse dans les mêmes circonstances. La faute lourde implique une négligence plus grave qu'un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la loi; voir la décision Venne c. Canada, [1984] A.C.F. no 314 (QL). Dans la décision Farm Business Consultants Inc. c. Canada, [1994] A.C.I. no 760 (QL), le juge Bowman (tel était alors son titre) de la Cour canadienne de l'impôt a déclaré au paragraphe 23 que l'expression "faute lourde", au paragraphe 163(2), définit un comportement caractérisé par un degré de négligence si élevé qu'il frise l'insouciance. Dans un tel cas, une cour doit même en appliquant une norme de preuve civile étudier soigneusement la preuve et chercher un degré de probabilité supérieur à celui auquel on s'attendrait dans des situations où l'on cherche à établir le bien-fondé d'allégations moins sérieuses (paragraphe 28).
+[25] Il est également bien établi que la faute lourde peut comprendre l'"aveuglement volontaire". La notion d'"aveuglement volontaire", bien connue du droit criminel, a été expliquée par le juge Cory de la Cour suprême du Canada dans l'arrêt R. c. Hinchey, [1996] 3 R.C.S. 1128. Selon la règle, si une partie qui a des soupçons omet délibérément de se renseigner davantage parce qu'elle désire demeurer dans l'ignorance, elle est réputée être au courant. L'"aveuglement volontaire" se produit lorsqu'une personne qui a ressenti le besoin de se renseigner refuse de le faire parce qu'elle ne veut pas connaître la vérité. Il existe un soupçon que le défendeur a délibérément omis de transformer en connaissance certaine. Le défendeur "a fermé les yeux" ou était "volontairement aveugle".
+[26] La notion d'"aveuglement volontaire" est applicable aux affaires fiscales; voir les décisions Canada c. Villeneuve, 2004 CAF 20, et Panini c. Canada, 2006 CAF 224. Dans l'arrêt Panini, le juge Nadon a clairement indiqué que la notion d'"aveuglement volontaire" est incluse dans la notion de "faute lourde", puisque ce terme est utilisé au paragraphe 163(2) de la Loi. Il a déclaré ce qui suit :
+43 [...] le droit imputera une connaissance au contribuable qui, dans des circonstances qui lui commanderaient ou lui imposeraient de s'enquérir de sa situation fiscale, refuse ou néglige de le faire sans raison valable.
+[27] Il a été jugé que, pour établir la distinction entre la faute "ordinaire" ou la faute "lourde", il faut examiner plusieurs facteurs :
+a) l'importance de l'omission relative au revenu déclaré;
+b) la faculté du contribuable de découvrir l'erreur;
+c) le niveau d'instruction du contribuable et son intelligence apparente;
+d) l'effort réel de se conformer à la loi.
+Aucun facteur ne prédomine. Il faut accorder à chacun de ces facteurs le poids qu'il convient dans le contexte de l'ensemble de la preuve (voir les décisions DeCosta c. La Reine, 2005 CCI 545, au paragraphe 11; Bhatti c. La Reine, 2013 CCI 143, au paragraphe 24; et McLeod c. La Reine, 2013 CCI 228, au paragraphe 14).
+[Mes soulignements.]
+[25] L’intimée a aussi porté à l’attention de la Cour la décision de Torres c. La Reine, 2013 CCI 380, où plusieurs contribuables avaient déclaré des pertes d’entreprise fictives suite aux représentations du groupe FA. Le juge Miller a revu la question de « l’aveuglement volontaire » en indiquant :
+[65] […]
+e) Les facteurs laissant supposer la nécessité de s'informer avant la production d'une déclaration, ou faisant apparaître "des feux rouges clairs", expression que j'employais à l'occasion de l'affaire Bhatti, comprennent ce qui suit :
+i) l'importance de l'avantage ou de l'omission;
+ii) le caractère flagrant du faux énoncé et la facilité avec laquelle il peut être décelé;
+iii) l'absence, dans la déclaration elle-même, d'une attestation du spécialiste qui a établi la déclaration;
+iv) les demandes inusitées du spécialiste;
+v) le fait que le spécialiste était auparavant inconnu du contribuable;
+vi) les explications inintelligibles du spécialiste;
+vii) le point de savoir si d'autres personnes ont eu recours au spécialiste ou ont fait des mises en garde à l'encontre de ce dernier, ou le point de savoir si le contribuable lui‑même hésite à s'en ouvrir à d'autres.
+f) Le dernier critère de l'aveuglement volontaire est le fait que le contribuable ne s'enquiert pas auprès du spécialiste pour comprendre la déclaration de revenus, ni ne s'enquiert aucunement auprès d'un tiers, ou auprès de l'ARC elle-même.
+[26] Dans cette instance, l’appelant prétend qu’il s’est d’abord fié à monsieur Frigon dans le contexte de la recherche de financement pour son plan d’affaires et deuxièmement, qu’il s’est fié aux soi-disant experts du groupe FA.
+[27] Cette question a été revue dans la décision Lavoie c. la Reine, 2015 CCI 228, dans laquelle la Cour a accueilli l’appel à l’encontre de la pénalité pour faute lourde dans des circonstances où le contribuable s’est fié à son avocat qu’il connaissait depuis plus de 30 ans. Donc, dans des circonstances très exceptionnelles, un contribuable qui s’est fié à des professionnels négligents ou encore malhonnêtes, peut être exonéré de la pénalité.
+[28] Dans la décision Strachan c. La Reine, 2015 CAF 60, la Cour d’appel fédérale devait trancher un appel où « à l’initiative d’un spécialiste en déclarations de revenus sans scrupules, l’appelante avait demandé la déduction d’une perte d’entreprise fictive d’un montant suffisant pour entraîner le remboursement complet de l’impôt payé sur son revenu d’emploi » (para. 2) La juge Dawson a conclu :
+[6] […] Aucune erreur manifeste et dominante n'a été non plus démontrée relativement à la conclusion du juge portant que les circonstances avaient pour effet d'exclure le moyen de défense selon lequel, compte tenu des énoncés fautifs faits par le spécialiste en déclarations de revenus, l'appelante pensait que ce qu'elle faisait était légitime.
+[Mes soulignements.]
+[29] Donc à moins de circonstances très exceptionnelles, notamment une relation professionnelle d’une longue durée, un contribuable ne peut prétendre qu’il s’est fié à des tiers (même s’ils s’affichent comme étant spécialistes ou fiscalistes) et qu’il pensait que ce qu’il « faisait était légitime » : Strachan, précitée, para. 6.
+Analyse [30] Dans un premier temps, la Cour doit analyser la question de la crédibilité de l’appelant et se demander s’il a témoigné de façon candide et honnête. En particulier, la Cour doit être convaincue que son exposé des faits était à la fois réaliste, plausible et probable.
+[31] En considérant le témoignage de l’appelant dans son ensemble, j’arrive à la conclusion qu’il n’a pas témoigné franchement quant aux circonstances entourant sa rencontre avec monsieur Frigon et la recherche de financement. Sans plus de détails et surtout en l’absence de documentes dont une carte d’affaires, un plan d’affaires, une demande de crédit, pour corroborer le projet, l’idée qu’il cherchait du financement demeure aux yeux de la Cour, incomplet, voire même farfelu. La seule conclusion vraisemblable, et celle qui est pertinente au présent litige, est que l’appelant a fait la connaissance d’un certain monsieur Frigon et que ce dernier l’a présenté au groupe FA.
+[32] En fin de compte, il n’y avait pas de lien entre la recherche de financement et le remboursement d’impôt en question. D’ailleurs, l’appelant a avoué qu’il s’est rendu compte que le montant récupéré ne pouvait vraisemblablement servir à financer son projet d’affaires.
+[33] Quant aux représentants du groupe FA, il est évident pour la Cour qu’il s’agit d’escrocs et d’arnaqueurs sans scrupules. D’ailleurs Lawrence Watts a été trouvé coupable de fraude tel que rapporté à : La Reine c. Watts, 2016 ONSC 4843. Mais l’appelant a aussi été victime de sa propre cupidité. Il s’est laissé emporter par l’idée d’un stratagème pour fins de récupération d’impôt. La déclaration de revenus a été signée à la hâte et il n’a pas cru bon d’en retenir une copie pour son propre dossier.
+[34] Est-ce qu’il y avait des signaux d’alarmes? L’appelant admet qu’il a vu le document avec son nom en lettres moulées et qu’il ne s’agissait pas de sa signature. Il y avait des chiffres et des expressions qu’il ne comprenait pas. Il admet qu’il avait des doutes et des soupçons. De plus, le document était en anglais et sa compréhension était limitée. Ce n’est qu’en septembre 2011, après avoir reçu l’avis de cotisation, qu’il a demandé au groupe FA de lui fournir une traduction. Il était pourtant trop tard puisque la déclaration avait été signée et postée au mois de septembre 2009.
+[35] De plus, alors que l’appelant a complété ses déclarations de revenus pour les années antérieures avec l’aide d’un technicien comptable pour une somme modique, il a accepté de verser des honoraires de 2 108,99 $ au groupe FA ce qui représentait presque la moitié du remboursement anticipé. Il a dû se rendre compte que quelque chose clochait lorsqu’on lui a exigé un montant si élevé.
+[36] Je vais ajouter que la Cour n’est pas insensible aux circonstances personnelles de l’appelant, notamment son divorce à l’époque et ses problèmes de santé, tel que confirmé par son ostéopathe (pièce A‑8). Toutefois, ces circonstances n’expliquent pas, et surtout n’excusent pas, la signature de sa déclaration de revenus alors qu’il est évident qu’il aurait dû chercher conseil d’une tierce partie, d’un comptable ou encore d’un représentant de l’ARC. L’appelant a choisi de fermer les yeux et d’assumer un risque dans l’espoir d’obtenir un remboursement d’impôt.
+[37] Pour les raisons qui précèdent, j’arrive à la conclusion que le ministre a rencontré son fardeau permettant à la Cour de conclure que l’appelant a fait un faux énoncé dans sa déclaration pour l’année d’imposition en question, dans des circonstances équivalant à faute lourde. C’est donc à juste titre que l’appelant est assujetti à la pénalité imposée en vertu du paragraphe 163(2) de la Loi.
+[38] L’appel est rejeté, sans frais.
+Signé à Ottawa, Canada, ce 10e jour de janvier 2018.
+« Guy Smith »
+Juge Smith
+RÉFÉRENCE :
+2018 CCI 9
+Nº DU DOSSIER DE LA COUR :
+2014-259(IT)I
+INTITULÉ DE LA CAUSE :
+SYLVAIN ROUSSEAU c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Le 11 décembre 2017
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Guy R. Smith
+DATE DU JUGEMENT :
+Le 10 janvier 2018
+COMPARUTIONS :
+Pour l'appelant :
+L’appelant lui-même
+Avocat de l'intimée :
+Me Alain Gareau
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

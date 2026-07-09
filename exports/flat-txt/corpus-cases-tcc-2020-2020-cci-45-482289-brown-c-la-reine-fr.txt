@@ -1,0 +1,353 @@
+Title: Brown c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/482289/index.do
+Corpus path: corpus/cases/tcc/2020/2020-cci-45-482289-brown-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2020-07-09
+
+# Brown c. La Reine
+
+- Citation: 2020 CCI 45
+- Decision date: 2020-07-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4584, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Brown c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2020-07-09
+Référence neutre
+2020 CCI 45
+Numéro de dossier
+2014-3843(IT)G
+Juges et Officiers taxateurs
+Johanne D’Auray
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2014-3843(IT)G
+ENTRE :
+TAMARA BROWN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu les 2 et 3 décembre 2019, à Toronto (Ontario)
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Avocats de l’appelante :
+Me Domenic Marciano
+Me Eric Torelli
+Avocat de l’intimée :
+Me Christian Cheong
+JUGEMENT AUX TERMES DU PARAGRAPHE 171(2) DE LA LOI DE L’IMPÔT SUR LE REVENU
+L’appel découlant des cotisations portant les numéros 1143585, 1143467 et 1140855 établies aux termes de la Loi de l’impôt sur le revenu pour les années d’imposition 2006, 2007 et 2008 est accueilli avec dépens. Les cotisations sont renvoyées au ministre du Revenu national pour nouvel examen et établissement de nouvelles cotisations au motif que l’appelante a donné une contrepartie valable égale à la valeur du bien transféré. Par conséquent, le paragraphe 160(1) ne joue pas.
+Signé à Ottawa, Canada, ce 9e jour de juillet 2020.
+« Johanne D’Auray »
+La juge D’Auray
+Traduction certifiée conforme
+ce 30e jour de septembre 2020.
+François Brunet, réviseur
+Référence : 2020 CCI 45
+Date : 20200709
+Dossier : 2014-3843(IT)G
+ENTRE :
+TAMARA BROWN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge D’Auray
+I. INTRODUCTION
+[1] La principale question en litige dans le présent appel est de savoir si l’article 160 de la Loi de l’impôt sur le revenu (la LIR) vise les fonds transférés à l’appelante par son époux, Gordon Levoy (M. Levoy), au cours des années d’imposition 2006, 2007 et 2008.
+[2] Au moment des transferts d’argent à l’appelante, M. Levoy avait une obligation fiscale.
+[3] Avant le procès, les parties ont réglé l’appel dans la mesure où il concernait les cotisations portant les numéros 1116049 et 1233552 au moyen d’un consentement à jugement partiel aux termes du paragraphe 171(2) de la LIR. Le jugement conforme au consentement à jugement partiel daté du 27 novembre 2019 est joint aux présents motifs.
+II. LES FAITS
+[4] Au procès, les parties ont déposé un exposé conjoint (partiel) des faits. Il est rédigé comme suit :
+[traduction] EXPOSÉ CONJOINT (PARTIEL) DES FAITS
+L’appelante et l’intimée reconnaissent la véracité des faits suivants aux fins du présent appel :
+Les cotisations visées
+1. Le présent appel porte sur les avis de cotisation suivants émis à l’encontre de l’appelante (individuellement, une « cotisation visée », et collectivement, les « cotisations visées ») :
+a) Avis de cotisation daté du 17 septembre 2010, portant le numéro 1143585 (la cotisation no 1)
+b) Avis de cotisation daté du 17 septembre 2010, portant le numéro 1143467 (la cotisation no 2)
+c) Avis de cotisation daté du 17 septembre 2010, portant le numéro 1140855 (la cotisation no 3)
+d) Avis de cotisation daté du 17 septembre 2010, portant le numéro 1116049 (la cotisation no 4)
+e) Avis de cotisation daté du 22 novembre 2010, portant le numéro 1233552 (la cotisation no 5)
+2. L’appelante a contesté les cotisations visées au moyen d’avis d’opposition datés du 10 décembre 2010.
+3. Les cotisations visées ont été confirmées au moyen d’un avis de confirmation daté du 29 juillet 2014.
+4. Les cotisations visées ont été établies aux termes de l’article 160 de la Loi de l’impôt sur le revenu (Canada) (la LIR) et de l’article 14 de la Loi de l’impôt sur le revenu (Ontario) comme suit :
+a) La cotisation no 1 découle d’un transfert de fonds totalisant (dans l’ensemble) 98 063,02 $ de Gordon Levoy (l’époux de l’appelante) à l’appelante en 2006.
+b) La cotisation no 2 découle d’un transfert de fonds totalisant (dans l’ensemble) 51 776 $ de Gordon Levoy à l’appelante en 2007.
+c) La cotisation no 3 découle d’un transfert de fonds totalisant (dans l’ensemble) 3 348,60 $ de Gordon Levoy à l’appelante en 2008.
+d) La cotisation no 4 découle d’un transfert de bien (19, Mariners Haven) le 23 mai 2006, de Steeple Holdings Inc. (Steeple) à l’appelante d’un montant de 105 000 $ (selon l’Agence du revenu du Canada) au-dessous de la juste valeur marchande du bien (JVM) en date du 23 mai 2006. [La cotisation no 4 concernant Steeple n’est plus en cause dans le cadre du présent appel. Veuillez consulter le consentement à jugement partiel figurant ci-dessous (et joint en tant que pièce A aux présentes).]
+e) La cotisation no 5 découle d’un soi-disant transfert de fonds totalisant (dans l’ensemble) 61 840 $ de Steeple à l’appelante en 2005. [La cotisation no 5 concernant Steeple n’est plus en cause dans le cadre du présent appel. Veuillez consulter le consentement à jugement partiel figurant ci-dessous (et joint en tant que pièce A aux présentes).]
+5. Gordon Levoy (M. Levoy) et l’appelante sont mari et femme, et l’étaient également au cours des années en cause dans le présent appel.
+Consentement à jugement partiel (daté du 24 juillet 2019) relatif à la cotisation no 4 et à la cotisation no 5
+6. La cotisation no 4 et la cotisation no 5 (qui portent toutes deux sur les transferts de Steeple à l’appelante) ont été réglées par les parties au moyen du consentement à jugement partiel daté du 24 juillet 2019 déposé auprès de la Cour canadienne de l’impôt le 22 novembre 2019 (dont copie est jointe aux présentes en tant que pièce A).
+7. En tant que tels, i) l’obligation fiscale de Steeple, ii) les transferts de Steeple à l’appelante et iii) les cotisations aux termes de l’article 160 établies contre l’appelante et concernant Steeple (à savoir la cotisation no 4 et la cotisation no 5) ne font plus l’objet du présent appel.
+Cotisations visées restantes et qui sont actuellement en cause dans le cadre du présent appel
+8. En tant que telles, seules la cotisation no 1, la cotisation no 2 et la cotisation no 3 font l’objet du présent appel (elles portent toutes [et uniquement] sur les transferts de Gordon Levoy [l’époux de l’appelante] à l’appelante au cours des années 2006, 2007 et 2008, respectivement [et tel qu’il a été susmentionné]).
+9. Aux fins de l’article 160 de la LIR et des cotisations visées faisant l’objet du présent appel (à savoir la cotisation no 1, la cotisation no 2 et la cotisation no 3) :
+a) Gordon Levoy est l’» auteur du transfert »;
+b) l’appelante (Tamara Brown) est la « bénéficiaire du transfert ».
+L’obligation fiscale de Gordon Levoy (l’auteur du transfert)
+10. Selon les « détails de la cotisation » joints à la cotisation no 1, à la cotisation no 2 et à la cotisation no 3, l’obligation fiscale de Gordon Levoy (en date du 17 septembre 2010) (desquels découlent la cotisation no 1, la cotisation no 2 et la cotisation no 3 établies à l’égard de l’appelante aux termes de l’article 160) concerne les années 1997 à 2007 et se ventile comme suit :
+Année d’imposition
+Impôt
+Pénalités
+Intérêts sur arriérés
+Total
+2007
+17,87 $
+0 $
+2,62 $
+20,49 $
+2002
+15 468,39 $
+2 629,63 $
+12 344,87 $
+30 442,89 $
+2001
+170 303,49 $
+20 463,42 $
+152 793,41 $
+343 533,32 $
+2000
+45 974,63 $
+22 067,82 $
+65 279,84 $
+133 322,29 $
+1999
+16 139,37 $
+8 069,69 $
+28 204,61 $
+52 413,67 $
+1998
+16 579,85 $
+2 894,66 $
+27 234,44 $
+46 708,95 $
+1997
+5 254,59 $
+893,20 $
+9 802,90 $
+15 950,77 $
+Total
+[blanc]
+[blanc]
+[blanc]
+622 392,38 $
+11. Aux fins du présent appel, les parties ont convenu et admis qu’en date du 17 septembre 2020, l’obligation fiscale de Gordon Levoy (pour les années 1997 à 2007, et dans l’ensemble) était de 622 393,38 $ [sic], selon les détails de la cotisation joints à la cotisation no 1, à la cotisation no 2 et à la cotisation no 3 et décrits dans le précédent paragraphe.
+Transferts de M. Levoy à l’appelante
+12. Aux fins du présent appel, les parties s’entendent sur les faits suivants et les admettent :
+a) Des chèques libellés à l’ordre de Gordon Levoy et totalisant (dans l’ensemble) la somme de 98 063,02 $ ont été déposés dans le compte bancaire de l’appelante en 2006 (diverses dates), tel qu’il est décrit à l’annexe B de la réponse une nouvelle fois modifiée de l’intimée datée du 22 novembre 2019. (Il s’agissait du montant de la cotisation établie à l’égard de l’appelante aux termes de l’article 160 de la LIR au moyen de la cotisation no 1 datée du 17 septembre 2010, à savoir le moins élevé des montants suivants : i) le montant transféré à l’appelante en 2006 et ii) l’obligation fiscale de M. Levoy en date du 17 septembre 2010.)
+b) Des chèques libellés à l’ordre de Gordon Levoy et totalisant (dans l’ensemble) la somme de 51 776,56 $ ont été déposés dans le compte bancaire de l’appelante en 2007 (diverses dates), tel qu’il est exposé à l’annexe C de la réponse une nouvelle fois modifiée de l’intimée datée du 22 novembre 2019. (Il s’agissait du montant de la cotisation établie à l’égard de l’appelante aux termes de l’article 160 de la LIR au moyen de la cotisation no 2 datée du 17 septembre 2010, à savoir le moins élevé des montants suivants : i) le montant transféré à l’appelante en 2007 et ii) l’obligation fiscale de M. Levoy en date du 17 septembre 2010.)
+c) Des chèques libellés à l’ordre de Gordon Levoy et totalisant (dans l’ensemble) la somme de 3 348,60 $ ont été déposés dans le compte bancaire de l’appelante en 2008 (diverses dates), tel qu’il est exposé à l’annexe C de la réponse une nouvelle fois modifiée de l’intimée datée du 22 novembre 2019. (Il s’agissait du montant de la cotisation établie à l’égard de l’appelante aux termes de l’article 160 de la LIR au moyen de la cotisation no 3 datée du 17 septembre 2010, à savoir le moins élevé des montants suivants : i) le montant transféré à l’appelante en 2008 et ii) l’obligation fiscale de Gordon Levoy en date du 17 septembre 2010.)
+13. Par souci de commodité, les transferts susmentionnés de M. Levoy à l’appelante au cours des années 2006 à 2008 (à savoir la cotisation no 1, la cotisation no 2 et la cotisation no 3) totalisent 153 188,18 $ (dans l’ensemble).
+Versements effectués par l’appelante au titre des dépenses de M. Levoy
+14. Aux fins du présent appel, les parties s’entendent sur les faits suivants et les admettent :
+a) En 2006, l’appelante a payé 94 995,20 $ de son compte bancaire à l’égard des factures et des frais des cartes de crédit de M. Levoy (tel qu’il est détaillé dans la feuille de calcul récapitulative pour 2006 à l’onglet 11 du recueil conjoint des documents, ainsi que les documents justificatifs qui s’y trouvent).
+b) En 2007, l’appelante a payé 88 487,22 $ de son compte bancaire à l’égard des factures et des frais des cartes de crédit de M. Levoy (tel qu’il est détaillé dans la feuille de calcul récapitulative pour 2007 à l’onglet 11 du recueil conjoint des documents, ainsi que les documents justificatifs qui s’y trouvent).
+15. Par souci de commodité, les paiements susmentionnés effectués par l’appelante au cours des années 2006 et 2007 totalisent 183 482,42 $ (dans l’ensemble).
+16. L’appelante soutient qu’elle (l’appelante) s’est juridiquement engagée et obligée à l’égard de M. Levoy à utiliser les montants transférés par M. Levoy dans son compte pour payer les dépenses de M. Levoy et, ce faisant, a fourni une contrepartie correspondante (aux fins de l’article 160 de la LIR) à l’égard des transferts dans son compte. L’intimée conteste la thèse de l’appelante à cet égard.
+Proposition de faillite de Gordon Levoy
+17. Le 20 avril 2011, M. Levoy a déposé un avis d’intention de faire une proposition de faillite.
+18. La proposition a été déposée par l’intermédiaire du syndic MSI Spergel Inc., a/s de Christopher Galea (le syndic).
+19. Le 3 mai 2011, l’Agence a déposé une preuve de créance auprès du syndic, réclamant 642 050,68 $ en tant que créance ordinaire concernant les années 1997 à 2007.
+20. L’Agence était le créancier majoritaire dans le cadre de la proposition de faillite.
+21. Le 20 juin 2011, M. Levoy a fait une proposition de faillite (modifiée) aux termes de la Loi sur la faillite et l’insolvabilité (Canada) (la LFI). Cette proposition de faillite a été rejetée par les créanciers (la proposition de faillite rejetée). (Une copie de la proposition de faillite rejetée [datée du 20 juin 2011] se trouve à l’onglet 27 du recueil conjoint des documents.) L’Agence a refusé d’accepter la proposition de faillite rejetée en raison de l’inclusion du paragraphe 12.
+22. Le 27 juillet 2011, M. Levoy a fait une autre proposition de faillite (modifiée) aux termes de la LFI (datée du 27 juillet 2011, dossier judiciaire no 31-1489435) (la proposition de faillite acceptée) qui a finalement été i) approuvée et acceptée par la majorité requise des créanciers (y compris l’Agence); et ii) approuvée par la Cour supérieure de justice de l’Ontario. (La copie de la proposition de faillite acceptée datée du 27 juillet 2011 [ainsi que l’ordonnance de la cour approuvant la proposition datée du 29 septembre 2011] se trouve aux onglets 14 et 15, respectivement, du recueil conjoint des documents.)
+23. Plus particulièrement, le 27 juillet 2011, la proposition de faillite acceptée a été : i) approuvée et acceptée par M. Plaha (pour le compte de l’Agence), le 17 août 2011; et ii) approuvée par la Cour supérieure de justice de l’Ontario le 29 septembre 2011.
+24. Selon les termes de la proposition de faillite acceptée datée du 27 juillet 2011 :
+a) M. Levoy a convenu de payer au syndic la somme de 204 000 $ (dans l’ensemble, et payable mensuellement comme suit : 3 400 $ pour une période de 60 mois), à partir du mois de l’approbation par la Cour; et
+b) Le syndic devait distribuer ces fonds (nets de ses honoraires et dépenses) proportionnellement entre les créanciers ordinaires de M. Levoy qui avaient prouvé leurs créances auprès du syndic.
+25. Au cours de la période commençant le ou vers le 20 avril 2011, jusqu’au 8 janvier 2016 ou aux alentours de cette date, tous les montants payables par M. Levoy aux termes de la proposition de faillite acceptée du 27 juillet 2011 (à savoir 204 000 $) ont été payés au syndic.
+26. En date du 8 janvier 2016, tous les montants payables par M. Levoy aux termes de la proposition de faillite acceptée du 27 juillet 2011 (à savoir 204 000 $) étaient entièrement payés.
+27. Le 11 janvier 2016, le syndic (MSI Spergel Inc.) a émis un « certificat d’exécution intégrale d’une proposition » (dont la copie est comprise à l’onglet 16 du recueil conjoint des documents) à Gordon Levoy aux termes des articles 65.3/66.38 de la LFI, certifiant que la proposition de faillite acceptée du 27 juillet 2011 avait été « intégralement exécutée » en date du 8 janvier 2016.
+28. Le total des paiements et des décaissements effectués par le syndic aux créanciers ordinaires de M. Levoy (découlant de la proposition de faillite acceptée du 27 juillet 2011, et nets des honoraires et dépenses du syndic) était de 173 608,53 $, desquels l’Agence a reçu 171 300 $ (ou 98,7 % du total des dividendes déboursés, comme le confirme une lettre du syndic à l’Agence datée du 20 avril 2016 [dont la copie figure à l’onglet 20 du recueil conjoint des documents]).
+29. Les parties admettent et conviennent qu’à la date du certificat d’exécution intégrale (le 11 juillet 2016) et en conséquence de la pleine exécution par M. Levoy de la proposition de faillite acceptée du 27 juillet 2011, l’obligation fiscale de M. Levoy envers l’Agence pour les années d’imposition 1997 à 2007 était (et est actuellement) nulle.
+30. Les parties admettent et conviennent que les dettes fiscales de M. Levoy pour les années d’imposition 1997 à 2007 font partie de la proposition de faillite de M. Levoy et la satisfaction de la proposition de faillite a réduit l’obligation fiscale de M. Levoy à zéro. Toutefois, l’intimée soutient également que les dettes fiscales de 1997 à 2007 de M. Levoy demeurent exécutoires à l’égard de l’appelante même après que M. Levoy eut pleinement satisfait à la proposition de faillite. L’appelante conteste la thèse de l’intimée (la deuxième phrase du présent paragraphe).
+31. À l’onglet 18 du recueil conjoint de documents se trouve une copie d’un relevé de compte de l’Agence daté du 5 août 2016 indiquant un solde nul (0 $) dû par Gordon Levoy en date du 29 juillet 2016.
+Chronologie de référence
+32. Par souci de commodité, la chronologie de référence suivante est (sans limitation) pertinente à l’égard du présent appel :
+a) De 1997 à 2007 : Périodes pertinentes à l’égard de l’obligation fiscale de Gordon Levoy (dont découlent les cotisations visées par l’article 160 de l’appelante faisant l’objet du présent appel).
+b) De 2006 à 2008 : Périodes pertinentes à l’égard des « transferts » (aux fins de l’article 160 de la LIR) de M. Levoy à l’appelante.
+c) Le 17 septembre 2010 : Date de délivrance des cotisations visées par l’article 160 à l’encontre de l’appelante (faisant l’objet de l’appel aux termes des présentes).
+d) Le 20 avril 2011 : Date à laquelle M. Levoy a déposé un avis d’intention de faire une proposition de faillite.
+e) Le 3 mai 2011 : Date à laquelle l’Agence a déposé une preuve de créance auprès du syndic.
+f) Le 27 juillet 2011 : Date de la proposition de faillite acceptée de M. Levoy.
+g) Le 17 août 2011 : Date à laquelle l’Agence a approuvé et accepté la proposition de faillite acceptée du 27 juillet 2011.
+h) Du 20 avril 2011 au 8 janvier 2016 : Période pendant laquelle toutes les sommes payables par M. Levoy aux termes de la proposition de faillite acceptée du 27 juillet 2011 (à savoir 204 000 $) ont été versées au syndic.
+i) Le 8 janvier 2016 : Date à laquelle toutes les sommes payables par M. Levoy aux termes de la proposition de faillite acceptée du 27 juillet 2011 (à savoir 204 000 $) étaient entièrement payées au syndic.
+j) Le 11 janvier 2016 : Date à laquelle le syndic délivre un « certificat d’exécution intégrale de la proposition » en ce qui concerne la proposition de faillite acceptée du 27 juillet 2011.
+k) Le 5 août 2016 : Date du relevé de compte de l’Agence, indiquant un solde nul (0 $) dû par Gordon Levoy en date du 29 juillet 2016.
+[...]
+III. Faits supplémentaires
+[5] L’appelante et M. Levoy se sont mariés en 2005.
+[6] M. Levoy était l’unique actionnaire et chef de la direction du Georgian Manor Resort de Collingwood, en Ontario.
+[7] Dans le cadre de ses activités, le Georgian Manor Resort disposait d’un centre d’appels pour ses réservations et ses activités promotionnelles. Comme le centre d’appels n’était pas en service à temps plein, M. Levoy a décidé de le louer à des tiers.
+[8] Les personnes qui ont loué le centre d’appels l’ont utilisé pour perpétrer des activités criminelles, notamment la vente de fausses assurances de carte de crédit à des citoyens des États-Unis.
+[9] M. Levoy a témoigné qu’il ne savait pas que le centre d’appels était utilisé pour perpétrer des activités criminelles. Toutefois, comme il était l’unique actionnaire et administrateur du Georgian Manor Resort, des accusations criminelles ont été portées contre lui au Canada en 2002, puis aux États-Unis.
+[10] Après le dépôt des accusations criminelles, un cabinet d’audit externe a réalisé un audit du Georgian Manor Resort et de M. Levoy. Le cabinet lui a conseillé de faire une divulgation volontaire à l’Agence du revenu du Canada (l’Agence) à l’égard des impôts dus pour les années d’imposition précédentes. C’est ce que M. Levoy a fait en 2002. M. Traer [1] , un comptable professionnel agréé à l’emploi du Georgian Manor Resort et un conseiller et ami de M. Levoy, est intervenu auprès de l’Agence en ce qui concerne la divulgation volontaire. Il a rassuré M. Levoy à l’égard du fait que les questions fiscales seraient réglées. À l’époque, l’attention de M. Levoy était concentrée sur les accusations au pénal. Toutefois, à la fin de 2006, l’Agence a informé M. Levoy du fait que sa demande de divulgation volontaire de 2002 avait été rejetée et a établi une nouvelle cotisation à son égard. M. Levoy n’a pas déposé d’avis d’opposition à l’égard de ces nouvelles cotisations.
+[11] M. Levoy a témoigné qu’après que les accusations eurent été portées contre lui, les banques ont automatiquement fermé ses comptes bancaires et annulé l’assurance à l’égard de tous ses biens. Il a déclaré qu’il n’était pas possible pour lui d’ouvrir un compte bancaire même après le retrait des accusations portées contre lui à la fin de 2004 au Canada et à la fin de 2005 aux États-Unis. Son témoignage sur ce point mérite d’être cité :
+[traduction] Eh bien, je n’avais pas de compte bancaire personnel, et je n’étais pas en mesure d’en ouvrir un. Le problème, c’est que chaque fois que j’allais ouvrir un compte bancaire, l’une des principales questions sur la page de la banque était : vous a-t-on déjà refusé un compte bancaire ou avez-vous déjà perdu vos comptes bancaires? Bien sûr, il faut répondre honnêtement que oui. Cela a donc automatiquement invoqué toute la situation des accusations et les problèmes qui figuraient sur mon rapport de solvabilité.
+Et, pour être franc, après que les accusations eurent été abandonnées, les documents qui jouaient contre moi – il m’a fallu probablement trois ou quatre ans pour mettre de l’ordre dans ces documents. Je sais que j’ai dû aller à la PPO et – finalement, lui demander de faire une demande à la GRC pour que mes empreintes digitales soient supprimées et détruites. C’était un long processus parce que – et cela m’a vraiment causé de gros ennuis lorsque nous voyagions. Chaque fois que je traversais une frontière, il y avait quelque chose qui posait problème dans mes dossiers. En fait, il a été difficile d’effacer ces dossiers, car personne ne semblait savoir ce qui postait réellement problème. On m’a dit qu’il y avait eu une compilation de dossiers entre le Canada et les États-Unis. Leurs systèmes informatiques ont été regroupés et cela a causé beaucoup de problèmes pour bon nombre de personnes, et je n’étais que l’une d’entre elles.
+[...]
+Vers la fin de 2005, le Georgian Manor Resort a décidé de mettre en œuvre de nouvelles méthodes et de nouveaux systèmes pour améliorer ses activités. L’une des améliorations consistait à faire appel à un fournisseur externe, Ceridian, pour la préparation de la paie. Les responsabilités de Ceridian en matière de paie comprennent les retenues à la source et l’émission des chèques de paie aux employés. Les employés, au nombre d’environ une centaine, pouvaient choisir d’être payés par dépôt direct ou par chèque. M. Levoy a déclaré que le recours à Ceridian était l’une des mesures prises par le Georgian Manor Resort et lui-même [traduction] « pour assainir les états financiers de la société et s’assurer que tout fonctionne sur – «une base très transparente» ».
+[12] N’ayant pas de compte bancaire, M. Levoy a choisi de recevoir son salaire du Georgian Manor Resort sous forme de chèque. À partir du témoignage de M. Levoy, j’ai cru comprendre qu’il n’avait jamais reçu de rémunération du Georgian Manor Resort sous forme de salaire auparavant. Le fait de recevoir un salaire avec des retenues à la source appropriées faisait partie de la remise en ordre de ses activités et de celles du Georgian Manor Resort entreprise en 2005.
+Incapable d’ouvrir un compte bancaire, M. Levoy devait trouver un moyen de déposer ses chèques de paie et de payer ses dépenses personnelles, à savoir ses cartes de crédit et ses assurances (collectivement, les « cartes de crédit »). Auparavant, M. Levoy utilisait le compte bancaire de sa société de portefeuille pour payer ses cartes de crédit. M. Levoy a témoigné que, dans le cadre de la remise en ordre, il avait décidé de se débarrasser de la société de portefeuille et de tous les problèmes comptables qu’elle avait engendrés.
+[13] Pour régler le problème des comptes bancaires, M. Traer a suggéré à M. Levoy qu’il dépose ses chèques de paie dans le compte bancaire de l’appelante.
+[14] Il est clairement ressorti de son témoignage que l’appelante n’était pas enthousiaste à cette idée en raison de l’enquête policière dont M. Levoy avait fait l’objet.
+[15] Malgré sa réticence initiale, l’appelante a accepté de rencontrer M. Traer et M. Levoy pour discuter davantage de l’idée. Lors de la rencontre, M. Traer a affirmé à l’appelante qu’elle ne devait pas s’inquiéter du fait que M. Levoy utiliserait son compte bancaire pour déposer ses chèques de paie. Puisque Ceridian avait pris en charge la paie, la rémunération de M. Levoy était payée à titre de salaire et, par conséquent, elle n’aurait aucune responsabilité potentielle. La seule chose qu’elle avait à faire était de déposer les chèques de paie et de payer les factures des cartes de crédit de M. Levoy (il détenait cinq cartes) à partir des fonds ainsi déposés.
+[16] Après réflexion, l’appelante a accepté de permettre à M. Levoy d’utiliser son compte bancaire et de payer les factures de ses cartes de crédit. Ils ont tous deux déclaré qu’ils avaient accepté cet arrangement au début de 2006.
+[17] L’appelante a expliqué comment l’arrangement fonctionnait. M. Levoy était payé par chèque sur une base bihebdomadaire. Il lui remettait le chèque de paie, qu’elle déposait ensuite sur son compte bancaire. Chaque mois, M. Levoy lui remettait les relevés de ses cartes de crédit. Sur chaque relevé, il apposait un autocollant jaune sur lequel il indiquait le montant du paiement à effectuer. L’appelante payait ensuite par Internet les factures des cartes de crédit de M. Levoy conformément à ces instructions. Sur chaque relevé de carte de crédit, elle inscrivait la date du paiement, le montant payé et le numéro de confirmation du paiement fourni par l’institution financière [2] . L’appelante classait ensuite le relevé dans un dossier qui se trouvait sur son bureau et qu’elle utilisait uniquement pour conserver les renseignements relatifs aux cartes de crédit de M. Levoy.
+[18] L’appelante a déclaré que, même si les fonds de M. Levoy étaient mélangés avec les siens, la comptabilité était facile à tenir. Les chèques de paie de M. Levoy ne variaient pas vraiment. Elle faisait deux dépôts par mois. Elle inscrivait également les paiements sur les cartes de crédit qu’elle effectuait en son nom. Elle a déclaré que, certains mois, les dépôts de M. Levoy dépassaient ce qu’il lui demandait de payer sur ses cartes de crédit. Lorsque c’était le cas, elle appliquait l’excédent aux factures des cartes de crédit du mois suivant. L’appelante a déclaré que, si les dépôts des chèques de paie dépassaient le montant des paiements par carte de crédit à la fin de l’année, elle utilisait le solde pour payer les factures des cartes de crédit de l’année suivante. Par exemple, en 2006, les chèques de paie de M. Levoy totalisaient 98 063,02 $, et l’appelante a effectué des paiements pour un montant total de 94 995,20 $ sur les factures des cartes de crédit de M. Levoy. La différence a été reportée à 2007.
+M. Levoy tenait également une comptabilité des dépôts et des paiements effectués par l’appelante. Pour les dépôts, il a expliqué qu’il reportait une certaine somme dans le futur. Il a été en mesure de confirmer que l’appelante avait payé ses cartes de crédit selon les instructions données, comme le reflétaient les relevés des cartes de crédit du mois suivant. Il a témoigné que [traduction] « la seule association de sa part avec les activités bancaires de son épouse était que les chèques arrivaient dans le cadre du système de paie, et qu’il lui demandait de payer certaines factures, au nombre de trois, quatre, cinq par mois. Il ne s’agissait donc pas d’une grande interaction ».
+[19] M. Levoy n’avait pas accès au compte bancaire de l’appelante. Il ne recevait pas non plus les relevés de compte bancaire de l’appelante.
+[20] M. Levoy a témoigné que l’appelante n’avait aucun pouvoir discrétionnaire relativement à l’argent qu’elle déposait dans son compte bancaire. Il a déclaré qu’il aurait pu poursuivre l’appelante si elle avait refusé d’agir conformément à ses instructions.
+[21] L’appelante a confirmé le témoignage de M. Levoy. Elle comprenait qu’elle n’avait aucun pouvoir discrétionnaire à l’égard de l’utilisation de son argent. Elle a clairement déclaré que l’argent de ses chèques de paie appartenait à M. Levoy et qu’elle ne l’utilisait pas pour payer ses propres dépenses. Elle n’a également jamais refusé de payer ses cartes de crédit selon les instructions qu'elle recevait. Bien qu’ils aient conclu une entente verbale et non écrite, elle pensait qu’il aurait pu la poursuivre si elle ne respectait pas ses instructions.
+[22] L’appelante travaillait également au Georgian Manor Resort. Elle avait ses propres comptes bancaires et cartes de crédit. Elle a témoigné qu’elle payait toujours ses propres dépenses et M. Levoy les siennes (sauf en 2007 et 2008, années pendant lesquelles il ne travaillait pas à plein temps et pendant lesquelles l’appelante l’a aidé). Elle n’avait jamais auparavant mélangé son argent avec celui de M. Levoy. L’appelante a déclaré que M. Levoy n’avait jamais utilisé son compte bancaire avant cet arrangement, qui était dû à l’impossibilité pour lui d’ouvrir un compte bancaire.
+[23] L’appelante a témoigné que les accusations criminelles et leurs retombées ont affecté M. Levoy. Il a pris cent livres et il a sombré dans la déprime. Au cours de l’année 2007, M Levoy a cessé de travailler à temps plein. Son salaire est passé de 98 063 $ en 2006 à 51 776 $ en 2007 et à 3 348 $ en 2008. L’appelante a utilisé un total de 30 000 $ de ses fonds personnels en 2007 et en 2008 pour couvrir les factures des cartes de crédit de M. Levoy.
+[24] L’appelante et M. Levoy ont témoigné que les arrangements bancaires entre eux ont été faits parce que M. Levoy ne pouvait pas ouvrir son propre compte bancaire, et non pas pour contrecarrer les efforts déployés par les créanciers.
+[25] M. Levoy avait une dette fiscale au moment où ses chèques de paie étaient déposés dans le compte bancaire de l’appelante en 2006, en 2007 et en 2008.
+[26] M. Levoy a témoigné qu’il ne voulait pas faire faillite et a donc décidé de déposer une proposition de faillite. La proposition a été acceptée par ses créanciers. Le total des paiements et décaissements dans le cadre de la proposition de faillite acceptée de M. Levoy, déduction faite des honoraires et des dépenses du syndic, s’élevait à 173 608,53 $, desquels l’Agence a reçu 171 300 $. Le relevé de compte de l’Agence daté du 5 août 2016 indiquait que le solde dû par M. Levoy en date du 29 juillet 2016 était nul.
+IV. Questions en litige
+[27] Le paragraphe 160(1) de la LIR joue-t-il en l'espèce? Plus particulièrement, l’appelante a-t-elle donné une contrepartie suffisante aux termes de l’alinéa 160(1)e) de la LIR?
+[28] L’aboutissement de la proposition de faillite de M. Levoy (l’auteur du transfert) a-t-il pour effet d’éteindre la dette de l’appelante (la bénéficiaire du transfert)?
+[29] Je suis d’avis que le paragraphe 160(1) de la LIR ne joue pas en l’espèce pour les raisons qui suivent. Il n’est donc pas nécessaire que je discute l’effet de la proposition de faillite.
+V. Thèse des parties
+[30] L’appelante soutien que l’article 160 de la LIR ne joue pas, car il y avait une contrepartie valable égale en valeur à l’argent transféré par M. Levoy à l’appelante. À l’appui de cet argument, l’appelante soutient que les éléments de preuve ont établi ce qui suit : 1) elle a convenu avec M. Levoy qu’elle déposerait les chèques de paie de celui-ci dans son compte bancaire et utiliserait l’argent ainsi déposé pour payer les factures des cartes de crédit de ce dernier; 2) elle a fait une promesse légalement exécutoire de verser l’argent uniquement selon les instructions de M. Levoy et n’avait aucun pouvoir discrétionnaire sur la manière dont l’argent de celui-ci devait être utilisé; et 3) elle n’a pas utilisé l’argent de M. Levoy à d’autres fins que le paiement des factures des cartes de crédit de ce dernier, qui ont en fait été payées.
+[31] En outre, l’appelante soutient que son intention et celle de M. Levoy en concluant l’arrangement bancaire était uniquement de fournir à M. Levoy un moyen de déposer ses chèques de paie puisqu’il ne pouvait pas ouvrir de compte bancaire en son propre nom. Ils ne cherchaient pas à faire obstacle aux efforts de recouvrement de l’Agence. L’arrangement a été conclu à un moment (début 2006) où M. Levoy n’avait pas encore fait l’objet d’une cotisation par le ministre du Revenu national (le ministre) et où il avait l’impression que sa communication volontaire lui serait accordée, réglant ainsi toute dette fiscale antérieure.
+L’appelante fait également valoir que l’intimée a admis lors des débats que l’appelante avait une obligation légale de payer les cartes de crédit de M. Levoy lorsqu’elle a déclaré lors des débats [traduction] qu’« une fois les dépôts effectués dans le compte bancaire personnel, c’est-à-dire le compte bancaire personnel de l’appelante, M. Levoy pouvait donner des instructions à l’appelante pour qu’elle agisse. Toutefois, il n’existait aucun mécanisme, autre qu’une poursuite, par lequel il pouvait la forcer à agir. »
+[32] En revanche, l’intimée fait valoir que l’article 160 de la LIR joue puisqu’il n’y a eu aucune contrepartie donnée par l’appelante en échange de l’argent que M. Levoy déposait sur son compte. Elle a indiqué qu’il n’y avait pas de convention écrite entre l’appelante et M. Levoy, que les fonds étaient mélangés avec l’argent de l’appelante dans le compte et que les montants déposés ne correspondaient pas à la contrepartie, à savoir les montants payés sur les cartes de crédit. Par conséquent, il n’y avait aucun lien entre les montants déposés et les factures des cartes de crédit payées par l’appelante.
+[33] L’intimée attire notre attention sur des éléments de preuve dont il ressort que, pour les années 2007 et 2008, l’appelante a payé un total de 30 000 $ de son propre argent pour couvrir les factures des cartes de crédit de M. Levoy ces années-là. Par conséquent, l’intimée fait valoir que l’appelante était moralement tenue d’aider son époux.
+[34] L’intimée fait également valoir que l’appelante était titulaire d’une carte supplémentaire à l’égard de deux des cartes de crédit de M. Levoy, la carte American Express (Amex) et la carte Canadian Tire, et qu’elle bénéficiait de la carte Amex. Certains mois, l’appelante a dépensé plus d’argent que M. Levoy en utilisant la carte Amex. Enfin, elle soutient qu’étant donné que certains relevés des cartes de crédit déposés par l’appelante en preuve étaient incomplets, je dois tirer une conclusion défavorable à l’appelante et conclure qu’elle n’avait pas clairement établi que toutes les dépenses qu’elle avait payées étaient les dépenses personnelles de M. Levoy.
+VI. Analyse
+[35] Tout d’abord, je discuterai l’observation selon laquelle l’intimée a concédé qu’il existait une obligation légale entre l’appelante et M. Levoy. Bien que l’intimée ait semblé faire cette concession à un moment donné dans ses observations, je suis d’avis que l’argument général de l’intimée était qu’il n’y avait pas d’obligation légale entre l’appelante et M. Levoy, mais seulement une obligation morale. En tout état de cause, la question de savoir si une obligation légale existait est une question qu’il appartient à la Cour de trancher sur la base des faits et du droit.
+[36] Dans Canada c. Livingston [3] , la Cour d’appel fédérale a établi les quatre principaux critères servant à déterminer si l’article 160 joue [4] . Il s’agit des critères suivants :
+1) L’auteur du transfert doit être tenu de payer des impôts en vertu de la Loi au moment de ce transfert.
+2) Il doit y avoir eu transfert direct ou indirect de biens au moyen d’une fiducie ou de toute autre façon.
+3) Le bénéficiaire du transfert doit être :
+i) soit l’époux ou conjoint de fait de l’auteur du transfert au moment de celui-ci, ou une personne devenue depuis son époux ou conjoint de fait;
+ii) soit une personne qui était âgée de moins de 18 ans au moment du transfert;
+iii) soit une personne avec laquelle l’auteur du transfert avait un lien de dépendance.
+4) La juste valeur marchande des biens transférés doit excéder la juste valeur marchande de la contrepartie donnée par le bénéficiaire du transfert.
+[37] L’appelante a admis que les trois premiers critères étaient remplis. Par conséquent, la seule question en litige concerne le quatrième critère, à savoir si l’appelante a donné une contrepartie égale à la juste valeur marchande des biens qui lui ont été transférés par M. Levoy.
+[38] A l'appui de sa position selon laquelle l’appelante n’a pas donné une contrepartie égale à la juste valeur marchande des biens qui lui ont été transférés, l’intimée s’est fondée sur les décisions Raphael c. Canada [5] et Livingston [6] de la Cour d’appel fédérale et sur la décision Pickard [7] de notre Cour.
+[39] Dans l’affaire Raphael, M. Raphael était propriétaire d’une société qui exploitait un grand nombre de bijouteries. M. Raphael avait garanti des baux et des prêts de plusieurs centaines de milliers de dollars dont la société était responsable. Sa banque l’a averti qu’un certain nombre de ses créanciers avaient effectué des saisies-arrêts sur ses comptes bancaires et que les fonds qui étaient dans les comptes, à la banque, devaient être remis à ces créanciers. M. Raphael possédait un REER, et il voulait s’en servir pour acquitter certaines de ses dettes et avoir ainsi la possibilité de continuer à exploiter son commerce. M. Raphael savait que si les fonds de son REER étaient déposés dans son compte bancaire, ils seraient saisis. Afin d’éviter que cela se produise, M. Raphael a décidé de déposer ces fonds dans le compte bancaire de son épouse. Mme Raphael a alors payé les créanciers conformément aux instructions de M. Raphael. Au moment du transfert de l’argent de M. Raphael dans le compte bancaire de Mme Raphael, M. Raphael devait de l’impôt sur le revenu. Mme Raphael a fait l’objet d’une cotisation aux termes du paragraphe 160(1) de la LIR. Environ la moitié seulement de l’argent de M. Raphael a servi au remboursement des dettes existantes de celui-ci. Les fonds de M. Raphael étaient mélangés avec les fonds de Mme Raphael, ce qui a rendu la comptabilité difficile.
+[40] Dans l’arrêt Raphael, le juge Sexton de la Cour d’appel fédérale a conclu que le ministre avait correctement établi la cotisation de Mme Raphael puisqu’elle n’avait pas fait de promesse légalement exécutoire de payer les factures selon les instructions de son époux. Mme Raphael a témoigné qu’elle n’avait qu’une obligation morale d’utiliser les fonds selon les instructions de son époux et a admis que M. Raphael ne pouvait pas la contraindre à effectuer les paiements. La Cour a jugé que, puisque Mme Raphael n’avait qu’une obligation morale, il n’y avait pas de contrepartie suffisante. La Cour a également observé que l’argent de M. Raphael n’avait pas été uniquement utilisé pour le remboursement de sa dette. La Cour a conclu que les éléments de preuve n’étayaient pas l’existence de la présumée promesse d’utiliser les fonds uniquement aux fins du paiement des créanciers du mari pour des montants correspondant à l’argent transféré.
+[41] Dans l’arrêt Livingston, la Cour d’appel fédérale a observé que l’objet du paragraphe 160(1) de la LIR consiste à empêcher le contribuable de transférer ses biens à son conjoint (ou encore à un mineur ou à une personne avec qui il a un lien de dépendance) afin de faire échec aux efforts déployés par l’Agence pour percevoir l’argent qui lui est dû [8] . La Cour a également affirmé que, bien que l’intention de frustrer l’Agence ne soit pas une condition préalable à l’application du paragraphe 160(1), l’intention des parties de frustrer l’Agence en tant que créancier peut se révéler pertinente quant à l’examen du caractère suffisant ou non de la contrepartie [9] .
+[42] En ce qui concernant l’affaire Livingston, Mme Davies et Mme Livingston étaient amies. Mme Davies avait une dette fiscale. L’Agence n’était pas en mesure de recouvrer cette dette puisque Mme Davies avait transféré ses fonds dans le compte bancaire de Mme Livingston. Alors que Mme Livingston était la seule titulaire et signataire du compte bancaire, elle l’avait ouvert pour l’usage de Mme Davies. Cette dernière était la seule à utiliser le compte, notamment en y déposant des chèques et en demandant à des tiers d’y verser les montants qui lui étaient dus. En outre, Mme Livingston avait fourni à Mme Davies la seule carte de débit du compte afin de lui permettre d’effectuer des retraits. Mme Livingston savait que Mme Davies avait une dette fiscale.
+[43] La Cour d’appel fédérale a conclu qu’il n’y avait pas de convention exécutoire entre Mme Davies et Mme Livingston. Cette dernière avait agi par sentiment d’obligation morale. Plus particulièrement, en ce qui concerne le quatrième critère d’application du paragraphe 160(1) de la LIR, à savoir si la contrepartie donnée par Mme Livingston était adéquate, la cour a estimé qu’il n’y avait pas de contrepartie puisque Mme Livingston avait donné à Mme Davies la possibilité de retirer l’argent de son compte, tout en conservant le pouvoir d’utiliser l’argent. Le juge Sexton de la Cour d’appel fédérale a observé :
+[28] Le juge de la Cour de l’impôt a commis une erreur de droit en n’analysant aucunement la juste valeur marchande de la contrepartie. Il s’est contenté de conclure qu’elle était « suffisante ». Je ne vois pas comment la juste valeur marchande de la contrepartie, en supposant qu’il y ait contrepartie, pourrait être équivalente aux sommes déposées. Pourquoi Mme Davies donnerait-elle de l’argent à l’intimée en contrepartie de la possibilité de le retirer, alors que l’intimée conserve le pouvoir d’en prendre possession? Aucun acheteur prudent, sans lien de dépendance avec le vendeur et non motivé par l’espoir d’éviter le recouvrement de sa dette fiscale, ne paierait la valeur intégrale des fonds en échange du droit d’accès que Mme Davies a reçu. [...]
+[44] Dans l’affaire Pickard, M. Pickard exerçait ses activités dans le secteur de la construction. Comme le secteur de la construction fonctionnait au ralenti, M. Pickard a décidé de travailler pour Claridge Homes (Claridge). Lorsque Claridge lui a demandé d’autoriser le dépôt direct de son salaire dans un compte, il est ressorti de la preuve qu’il avait fourni par inadvertance à l’entreprise un chèque en blanc du compte bancaire personnel de son épouse, Mme Pickard, plutôt qu’un chèque des comptes de la marge de crédit. Lorsque son épouse s’en est aperçue, elle a demandé à M. Pickard de rectifier l’erreur, car cela l’amènerait à payer ses factures personnelles et professionnelles. M. Pickard a toutefois décidé de n’en rien faire. En conséquence, les chèques de paie de Claridge de M. Pickard ont été déposés dans le compte bancaire de Mme Pickard de novembre 2003 à février 2005. Au moment du transfert de fonds, il avait une dette fiscale impayée.
+[45] Mme Pickard a témoigné qu’il avait toujours été convenu que les montants que M. Pickard faisait déposer dans son compte ne devaient être utilisés que pour le paiement de ses dépenses personnelles et de celles de son entreprise individuelle.
+[46] La juge Sheridan de notre Cour a conclu que le ministre avait correctement établi la cotisation de Mme Pickard aux termes du paragraphe 160(1) de la LIR. Elle a conclu qu’il n’y avait pas de promesse légalement exécutoire entre elle et M. Pickard et que, par conséquent, Mme Pickard n’avait accordé aucune contrepartie à M. Pickard. Ce dernier a commis une erreur en remettant à son employeur le chèque pour le compte personnel de Mme Pickard plutôt qu’un chèque pour les comptes de la marge de crédit. Comme il est ressorti de la preuve, Mme Pickard n’était même pas au courant des actions de son époux; il n’a donc pas pu y avoir d’entente entre eux. Rien n’empêchait non plus Mme Pickard d’utiliser les sommes déposées comme elle l’entendait. Elle a admis que M. Pickard ne pouvait pas la forcer à payer les factures qu’il voulait payer. En outre, Mme Pickard a admis qu’elle ne tenait pas une comptabilité de toutes les dépenses personnelles qu’elle payait au nom de M. Pickard. Mme Pickard a également admis qu’elle avait utilisé les fonds déposés par M. Pickard pour payer ses propres dépenses. À la lumière de ces éléments de preuve, la juge Sheridan a conclu qu’il n’y avait aucun lien entre les montants déposés par M. Pickard et les factures payées par Mme Pickard [10] .
+À mon avis, à la lumière des faits du présent appel, les conclusions de la Cour d’appel fédérale dans l’affaire Raphael vont dans le sens de la thèse de l’appelante. Dans la décision Raphael, le juge Sexton de la Cour d’appel fédérale a observé que « [s]i de fait la femme avait fait une promesse légalement exécutoire de verser de l’argent aux créanciers de son mari uniquement selon les instructions de celui-ci, et ce, en leur remettant des montants correspondant aux fonds qui avaient été transférés, cela aurait bien pu constituer une contrepartie suffisante pour éviter l’application du paragraphe 160(1) » [11] .
+[47] Je suis d’avis qu’il existait une convention exécutoire entre l’appelante et M. Levoy. L’appelante s’est engagée à déposer les chèques de paie de M. Levoy dans son compte bancaire personnel. En contrepartie, elle s’est engagée à payer les factures des cartes de crédit de M. Levoy conformément aux instructions de celui-ci. Il ressort de la preuve que l’appelante aurait pu être contrainte de payer les factures des cartes de crédit de M. Levoy si elle avait refusé de le faire. M. Levoy aurait pu engager une poursuite contre l’appelante pour assurer le respect de l’entente.
+[48] Les documents déposés par l’appelante lors du procès ont confirmé son témoignage et celui de M. Levoy. Les relevés de compte bancaire de l’appelante indiquaient les dépôts des chèques de paie de M. Levoy sur une base bihebdomadaire, ainsi que les retraits pour payer les factures des cartes de crédit de M. Levoy. Ces factures ont été également déposées.
+[49] Je suis également d’avis que les faits du présent appel appellent des distinctions de ceux de l’affaire Livingston.
+[50] En ce qui concerne l’affaire Livingston, la Cour d’appel fédérale a conclu que l’arrangement pour transférer l’argent entre Mme Davies et Mme Livingston avait été mis en place afin de faire obstacle aux efforts de recouvrement des créanciers de Mme Davies, y compris l’Agence. Bien que frustrer l’Agence ne soit pas une condition préalable à l’application du paragraphe 160(1) de la LIR, ce facteur fut pris en compte par la Cour à l'occasion de l’affaire Livingston pour apprécier l’adéquation de la contrepartie. En outre, dans l’affaire Livingston, Mme Davies s’est vu confier le contrôle du compte bancaire de Mme Livingston. Mme Livingston avait remis à Mme Davies des chèques en blanc et la seule carte de débit du compte. La Cour a conclu qu’il n’y avait pas de contrepartie puisqu’elle a conclu qu’il n’y avait aucune raison pour que Mme Davies donne une somme d’argent à Mme Livingston en contrepartie de la possibilité de retirer de l’argent, alors que Mme Livingston conservait le pouvoir d’utiliser cet argent.
+[51] Dans le présent appel, contrairement à l’arrêt Livingston, il n’existe aucune preuve permettant de conclure à l’existence d’une intention de frustrer l’Agence. L’appelante a accepté de déposer les chèques de paie de M. Levoy dans son compte bancaire parce que ce dernier ne pouvait pas ouvrir un compte bancaire en raison d’accusations criminelles. En fait, l’entente entre l’appelante et M. Levoy a été conclue à un moment (au début de 2006) où l’appelante ne savait pas que M. Levoy avait une dette fiscale et où M. Levoy croyait que ses impôts seraient réglés dans le cadre du programme de divulgation volontaire. Ce n’est qu’à la fin de 2006 que l’Agence a informé M. Levoy du fait que sa demande de divulgation volontaire de 2002 avait été refusée et qu’un avis de cotisation suivrait.
+[52] En outre, contrairement à la situation de l’affaire Livingston, M. Levoy n’avait pas accès au compte bancaire personnel de l’appelante. Il n’avait également pas accès aux relevés du compte bancaire de l’appelante. La seule interaction de M. Levoy avec le compte bancaire personnel de l’appelante était que ses chèques de paie étaient déposés par l’appelante et que ses cinq cartes de crédit étaient payées par elle conformément aux instructions de M. Levoy. L’appelante n’a pas bénéficié du transfert d’argent dans son compte parce qu’elle s’est engagée à payer, et qu’elle a effectivement payé, les factures des cartes de crédit personnelles de M. Levoy. Par conséquent, l’appelante donnait une contrepartie à M. Levoy.
+[53] En ce qui concerne la décision Pickard, je suis d’avis qu’elle appelle des distinctions de fait également. À l’égard de la contrepartie, la juge Sheridan a observé qu’il était difficile d’établir s’il y avait une contrepartie, puisque seule Mme Pickard a témoigné. Par conséquent, il n’y a pas eu de témoignage corroborant et, qui plus est, pas de documents corroborants suffisants.
+[54] Dans le présent appel, l’appelante et M. Levoy ont tous deux témoigné. Je n’ai aucune raison de douter de leurs témoignages. Il s’agissait de témoins crédibles qui ont répondu avec franchise aux questions posées lors du procès.
+[55] Contrairement à la situation dans l’affaire Pickard, l’appelante a témoigné qu’elle pouvait être forcée par son époux, M. Levoy, à payer ses cartes de crédit. L’appelante n’a jamais utilisé l’argent déposé par M. Levoy pour payer ses dépenses personnelles, alors que Mme Pickard a admis avoir utilisé l’argent déposé par son époux à ses fins personnelles.
+[56] En ce qui concerne l’affaire Pickard, aucun document justificatif suffisant n’a été déposé. Mme Pickard ne tenait pas de registres adéquats des factures qu’elle avait payées pour son époux. Tel n’est pas le cas en l’espèce. L’appelante a tenu des registres détaillés des fonds qui appartenaient à son époux, à savoir les fonds déposés, ainsi que les paiements mensuels qu’elle a effectués en son nom. Non seulement les documents étaient plus que suffisants, mais ils ont également corroboré les témoignages de l’appelante et de M. Levoy.
+[57] L’intimée a également soutenu que le paragraphe 160(1) de la LIR joue parce que les sommes transférées en 2006 par M. Levoy à l’appelante étaient supérieures aux sommes payées sur les cartes de crédit cette année-là. S’appuyant sur la jurisprudence Pickard, elle a donc fait valoir qu’il n’y avait aucun lien entre les montants déposés et la contrepartie, à savoir les montants versés aux créanciers de M. Levoy. Je rejette cet argument. L’appelante a expliqué que, s’il y avait un excédent à la fin d’une année, elle l’utilisait pour payer les factures des cartes de crédit de l’année suivante. L’appelante a utilisé tout l’argent déposé par M. Levoy pour payer ses cartes de crédit. Elle n’a jamais utilisé l’argent appartenant à M. Levoy pour elle-même. Elle avait ses propres cartes de crédit et payait ses propres dépenses.
+[58] L’intimée a également soutenu que l’arrangement entre l’appelante et M. Levoy n’était qu’une obligation morale puisque l’appelante a utilisé 30 000 $ de son propre argent pour payer les factures des cartes de crédit de M. Levoy au cours des années d’imposition 2007 et 2008. Sur ce point, l’appelante a expliqué que M. Levoy n’avait pas travaillé à temps plein en 2007 et en 2008. Au cours de ces années, elle a utilisé tout l’argent déposé par lui pour payer les factures de ses cartes de crédit. Comme cela n’était pas suffisant, elle a pris la décision personnelle de payer les 30 000 $ supplémentaires dus. À mon avis, ce paiement ne remet pas en cause la validité de la conclusion selon laquelle elle était obligée aux termes de leur arrangement d’utiliser l’argent déposé par M. Levoy pour payer ses cartes de crédit, ce qu’elle a fait.
+[59] L’intimée a également soutenu que je dois tirer une conclusion défavorable parce que certains relevés des cartes de crédit n’indiquaient pas le type de dépenses engagées par M. Levoy. Je rejette cet argument. Selon moi, il ressort des éléments de preuve documentaires, ainsi que les témoignages verbaux que les paiements avaient été effectués pour payer les dépenses personnelles de M. Levoy. En outre, dans l’exposé conjoint partiel des faits, l’intimée a admis que l’appelante avait payé les factures et les frais des cartes de crédit de M. Levoy [12] .
+[60] L’intimée a soutenu qu'il ressortait des éléments de preuve que l’appelante était titulaire de carte supplémentaire en ce qui concerne la carte Amex de M. Levoy. Certaines factures de 2006 ont révélé qu’elle avait utilisé la carte de crédit à quelques reprises, et qu’elle aurait donc reçu un avantage. Sur ce point, il ressort des éléments de preuve que l’appelante avait remboursé les sommes d’argent qu’elle avait engagées sur la carte Amex, étant donné qu’elle avait utilisé son propre argent pour payer les cartes de crédit de M. Levoy qui ne pouvait plus travailler à plein temps au cours des années d’imposition 2007 et 2008.
+[61] La contrepartie dans le présent appel est la suivante : elle s’est engagée à payer les factures des cartes de crédit de M. Levoy selon ses instructions avec l’argent qu’il avait déposé dans son compte, et il ressort la preuve qu’elle l’a fait.
+[62] Par conséquent, à la lumière des faits du présent appel, je suis d’avis que le paragraphe 160(1) de la LIR ne joue pas. Il existait une convention exécutoire juridiquement entre l’appelante et M. Levoy. L’appelante s’est engagée à déposer les chèques de paie de M. Levoy dans son compte bancaire personnel. En contrepartie, elle s’est engagée à payer les factures des cartes de crédit de M. Levoy selon ses instructions. Par conséquent, il y avait une contrepartie valable égale à la valeur du bien transféré.
+[63] Comme je l’ai dit précédemment, à la lumière de ma conclusion, je n’analyserai pas la deuxième question posée dans le présent appel.
+[64] L’appel est accueilli avec dépens.
+Signé à Ottawa, Canada, ce 9e jour de juillet 2020.
+« Johanne D’Auray »
+La juge D’Auray
+Traduction certifiée conforme
+ce 30e jour de septembre 2020.
+François Brunet, réviseur
+ANNEXE A
+Dossier : 2014-3843(IT)G
+ENTRE :
+TAMARA BROWN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Avocat de l’appelante :
+Me Domenic Marciano
+Avocat de l’intimée :
+Me Christian Cheong
+JUGEMENT AUX TERMES DU PARAGRAPHE 171(2) DE LA LOI DE L’IMPÔT SUR LE REVENU
+ATTENDU que les parties sont parvenues à un règlement en ce qui concerne les cotisations nos 1233552 et 1116049;
+APRÈS avoir pris connaissance du consentement à jugement partiel déposé le 22 novembre 2019 demandant à notre Cour d’accorder un jugement partiel, conformément au paragraphe 171(2) de la Loi de l’impôt sur le revenu (la Loi);
+L’appel interjeté à l’encontre des cotisations nos 1233552 et 1116049 établies aux termes de la Loi de l’impôt sur le revenu pour les années d’imposition 2005 et 2006 est accueilli avec dépens, et les cotisations sont renvoyées au ministre du Revenu national pour un nouvel examen et l’établissement de nouvelles cotisations conformément aux motifs du consentement à jugement partiel ci-joint;
+L’appel concernant les cotisations nos 1143585, 1143467 et 1140855 se poursuit aux termes du paragraphe 171(3) de la Loi.
+Signé à Ottawa, Canada, ce 27e jour de novembre 2019.
+« Johanne D’Auray »
+La juge D’Auray
+ANNEXE B
+Transfert de biens entre personnes ayant un lien de dépendance
+160(1) Lorsqu’une personne a, depuis le 1er mai 1951, transféré des biens, directement ou indirectement, au moyen d’une fiducie ou de toutes autres façons à l’une des personnes suivantes :
+a) son époux ou conjoint de fait ou une personne devenue depuis son époux ou conjoint de fait;
+b) une personne qui était âgée de moins de 18 ans;
+c) une personne avec laquelle elle avait un lien de dépendance,
+les règles suivantes s’appliquent :
+d) le bénéficiaire et l’auteur du transfert sont solidairement responsables du paiement d’une partie de l’impôt de l’auteur du transfert en vertu de la présente partie pour chaque année d’imposition égale à l’excédent de l’impôt pour l’année sur ce que cet impôt aurait été sans l’application des articles 74.1 à 75.1 de la présente loi et de l’article 74 de la Loi de l’impôt sur le revenu, chapitre 148 des Statuts révisés du Canada de 1952, à l’égard de tout revenu tiré des biens ainsi transférés ou des biens y substitués ou à l’égard de tout gain tiré de la disposition de tels biens;
+e) le bénéficiaire et l’auteur du transfert sont solidairement responsables du paiement en vertu de la présente loi d’un montant égal au moins élevé des montants suivants :
+(i) l’excédent éventuel de la juste valeur marchande des biens au moment du transfert sur la juste valeur marchande à ce moment de la contrepartie donnée pour le bien,
+(ii) le total des montants représentant chacun un montant que l’auteur du transfert doit payer en vertu de la présente loi [...] au cours de l’année d’imposition où les biens ont été transférés ou d’une année d’imposition antérieure ou pour une de ces années.
+Toutefois, le présent paragraphe n’a pas pour effet de limiter la responsabilité de l’auteur du transfert en vertu de quelque autre disposition de la présente loi [...].
+RÉFÉRENCE :
+2020 CCI 45
+No DU DOSSIER DE LA COUR :
+2014-3843(IT)G
+INTITULÉ :
+TAMARA BROWN c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Les 2 et 3 décembre 2019
+MOTIFS DU JUGEMENT :
+L’honorable juge Johanne D’Auray
+DATE DU JUGEMENT :
+Le 9 juillet 2020
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Domenic Marciano
+Me Eric Torelli
+Avocat de l’intimée :
+Me Christian Cheong
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Domenic Marciano
+Marciano Beckenstein LLP
+Cabinet :
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] M. Traer est décédé en 2018.
+[2] Recueil conjoint des documents, volume 1, onglet 11, pages 80 et suivantes.
+[3] Canada c. Livingston, 2008 CAF 89, au paragraphe 17.
+[4] Le texte du paragraphe 160(1) de la LIR est joint à l’annexe B des motifs du jugement.
+[5] Raphael c. Canada, 2002 CAF 28.
+[6] Ibid, à la note 3.
+[7] Pickard c. La Reine, 2010 CCI 535.
+[8] Canada c. Livingston, 2008 CAF 89, au paragraphe 18.
+[9] Ibid., au paragraphe 19.
+[10] Pickard c. La Reine, 2010 CCI 535, aux paragraphes 15 à 20.
+[11] Raphael c. Canada, 2002 CAF 23, au paragraphe 10.
+[12] Exposé conjoint (partiel) des faits, au paragraphe 14.

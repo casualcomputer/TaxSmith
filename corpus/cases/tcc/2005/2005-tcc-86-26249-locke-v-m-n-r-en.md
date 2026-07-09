@@ -1,0 +1,180 @@
+---
+title: "Locke v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26249/index.do"
+last_modified: "2005-01-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 86"
+citation2: ""
+neutral_citation: "2005 TCC 86"
+decision_date: "2005-01-31"
+language: "en"
+item_id: "26249"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4045
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:06:03.681000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7a2d0b37ceabb94e1b91359bbbdc120dc8162386dab0e9927eb6aa063d6668fb"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Locke v. M.N.R.
+
+- Citation: 2005 TCC 86
+- Decision date: 2005-01-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4045, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Locke v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-01-31
+Neutral citation
+2005 TCC 86
+File numbers
+2004-2931(EI)
+Judges and Taxing Officers
+Dwayne W. Rowe
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2004-2931(EI)
+BETWEEN:
+DAWN LOCKE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 22, 2004 at Calgary, Alberta
+Before: The Honourable D.W. Rowe, Deputy Judge
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Galina Bining
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Sidney, British Columbia, this 31st day of January 2005.
+"D.W. Rowe"
+Rowe, D.J.
+Citation: 2005TCC86
+Date: 20050131
+Docket: 2004-2931(EI)
+BETWEEN:
+DAWN LOCKE,
+Appellant,
+And
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Rowe, D.J.
+[1] The appellant appeals from a decision of the Minister of National Revenue (the "Minister") dated April 6, 2004, wherein the Minister decided the employment of the appellant - Locke - with Top Notch Diesel Ltd. (payor or Diesel) from January 2, 2003 to August 31, 2003 was not insurable employment pursuant to the relevant provisions of the Employment Insurance Act (the "Act") because Locke and the payor were related and the Minister was not satisfied the contract of employment would have been substantially similar if the payor and the appellant had been dealing with each other at arm's length.
+[2] Locke testified she agreed with certain assumptions of fact set forth in paragraph 7 of the Reply to Notice of Appeal (Reply), as follows:
+(a) Remy Caron controls 100% of the voting shares of the Payor;
+(b) Remy Caron is the common-law partner of the Appellant within the meaning of the Income Tax Act, R.S.C. 1985 (5th Supp.) c. 1, as amended (the "Act");
+(c) the Appellant and the Payor are related to each other within the meaning of the Act;
+(d) the Payor operates a mobile heavy duty mechanic service;
+(e) Remy Caron performs the duties of heavy duty mechanic for the Payor;
+(f) At all times, the Appellant was employed under a contract of service with the Payor;
+(h) approximately 35% of the Appellant's time was spent on bookkeeping, 60% of her time was spent designing the company logo and business cards and 5% of her time was spent on banking and parts running;
+(i) the Appellant was paid a fixed salary of $2,079.00 per month regardless of the actual number of hours she worked;
+(j) Remy Caron and the Appellant determined the Appellant's work schedule to be from 12:00 p.m. to 5:00 p.m. and 8:00 p.m. to 12:00 a.m., Monday to Friday, being approximately 45 hours per week;
+(l) the Appellant's scheduled hours were flexible and were based on the needs and availability of both Remy Caron and the Appellant;
+(m) the Appellant's hours and days of work were not recorded;
+(o) the Appellant used her own vehicle when running parts for the Payor;
+(p) the Appellant did not receive a mileage allowance or reimbursement in respect of the use of her vehicle;
+(u) the Appellant previously worked for the Payor during the period from August 19, 2001 to November 24, 2001 (hereinafter referred to as the "first period of employment");
+(v) during the first period of employment, the Appellant was hired by the Payor to do bookkeeping and run parts;
+(w) the Appellant was educated as a biologist;
+(x) the Appellant had no experience as a bookkeeper;
+(z) the Appellant was paid at a rate of $10.00 per hour during the first period of employment.
+[3] The Minister - in subparagraph 7(g) - listed the appellant's duties as follows: occasionally running parts, bookkeeping, banking, designing a company logo and designing business cards. The appellant stated she did not quarrel with that statement except she wished to point out that her main duty was to design a suitable logo for Diesel that could be used not only for business cards, letterhead and invoices but also for advertising display on the corporate van. Locke stated that because Remy Caron (Caron) was the sole owner of Diesel and did all the mechanical work himself, he had a few primary customers that provided most of the revenue although he also responded to calls from people requiring him to attend with his mobile service in order to repair a vehicle. Locke stated that a rental space was located in July, 2003, when work was carried out in those premises but until that time, the van was the only workspace used by Caron. His cellular telephone was the primary contact for customers and the phone number in the Diesel office located in the basement of the Locke/Caron residence was forwarded to that cell number. As a result, Locke did not have to respond to calls from customers. The in-home office telephone number was also used for the fax machine and for Internet hook-up. Locke stated her monthly salary of $2,079 was based on an hourly rate of $12 for a 40-hour week. The appellant's son was born in December, 2001, and she hired a neighbour to care for the baby - in said neighbour's adjacent residence - between 2:00 p.m. and 5:00 p.m. while Locke worked in the basement office. Locke stated that - at night - Caron was home and took over caring for the child if she needed to do some work. During the relevant period, Locke and Caron lived in Calgary, Alberta, near various parts suppliers and the work performed by Caron involved repairing trucks, backhoes and other equipment, mainly powered by diesel engines. The appellant stated their residence was a bungalow with a rear entrance and the basement area was carpeted and insulated and the office area was equipped with a desk, computer, printer, scanner, fax, telephone, filing cabinets as well as the usual office supplies. Customers did not attend at that office. Locke prepared a sketch - Exhibit A-1 - of the area and disagreed with the Minister's assumption - in subparagraph 7(t) of the Reply - that the room was merely "a large open area with no room dividers". Locke stated she was not merely self-trained - as assumed by the Minister in subparagraph 7(y) of the Reply - but had completed a 20-hour course provided by a training company in order to become competent in using Quickbooks software to perform bookkeeping and accounting functions for Diesel. Her Certificate of Completion was filed as Exhibit A-2. Locke stated she was accustomed to using computers for other purposes including while studying biology at Malaspina University in Nanaimo, British Columbia - in 2000 - and found Quickbooks to be user-friendly. Locke agreed she had no experience in graphic design when hired by the payor for the relevant period but stated she had worked at a multi-media organization on a volunteer basis in order to acquire some knowledge in that field. Further, while in university, she had created her own graphics, as required, for her own research projects. With respect to the assumptions of the Minister with respect to the graphic design aspect of her employment, and pertaining to the provision of bookkeeping services, Locke stated she agreed with these further assumptions as set forth in paragraph 7 of the Reply:
+(bb) the Payor obtained bids for logo design work in the amount of between $3,000.00 to $4,000.00;
+(cc) as Remy Caron performed his duties as a heavy duty mechanic away from his home and office, the Appellant was not supervised in the performance of her duties;
+(dd) correspondence received by the CCRA from the Payor did not contain any company logo;
+(ee) the Payor did not replace the Appellant with another employee when the Appellant ceased working for the Payor after the first period of employment and after the period in issue;
+(ff) on or about September 1, 2003, the Payor engaged the services of US Multiservices Ltd. to do its bookkeeping on a regular basis;
+(gg) the Payor paid US Multiservices Ltd. the amount of $1,605.00 per month for its services;
+(hh) prior to August 31, 2003, US Multiservices Ltd. invoiced the Payor in the amount of $1,070.00 on June 13, 2002 and $384.20 on August 31, 2003 for its services;
+(ii) Remy Caron could be called on to work at 3:00 a.m. or could work until 12:00 a.m. as the business of the Payor did not have fixed operating hours as it was an "on call" operation;
+(jj) the Payor's clients did not attend the office of the Payor;
+(kk) the Appellant was able to care for her child during working hours when he was ill;
+(ll) the Appellant was able to make up the time spent caring for her child at a later date;
+(mm) the Payor rented a shop from July, 2003 to January, 2004 in order to enable it to perform bigger jobs as well as vehicle inspections;
+(nn) the business of the Payor experiences a slow down during the winter months;
+(pp) the home telephone number was used by the business of the Payor up until February, 2004 at which time the telephone number was cancelled;
+(qq) Remy Caron was the sole signing officer for the business bank account of the Payor.
+[4] The appellant stated she spent about 35% of her time on bookkeeping and - therefore - if that percentage was applied to her total monthly salary - $2,079 - she was paid approximately $730 for that aspect of her employment while Diesel was charged by US Multiservices Ltd. (Multiservices) $1,605 per month - after September 1, 2003 - for bookkeeping on a regular basis. Locke stated the volume of business done by Diesel in 2003 increased substantially in comparison with the previous year and required more bookkeeping which occupied a greater amount of time even though the Goods and Services Tax (GST) returns and corporate income tax returns were filed by the accounting service that billed $25 per hour. The appellant produced two telephone bills - Exhibits A-3 and A-4 - in order to demonstrate that the account - Exhibit A-3 - was for the office business telephone - in the name of Remy Caron - and was not their residential number - a 235 prefix instead of 248 - and that Exhibit A-4 - was issued by Telus mobile phone division in respect of a cellular phone account in the name of Diesel. In February, 2004, the business phone in the Locke/Caron residence was cancelled when Diesel ceased operations. The appellant stated that even though Diesel rented business space in July, 2003, that area was for mechanical work and the basement office in their home continued to function as before. With respect to the ability to care for her child even while working, Locke agreed that had occurred - once - for a two-day period when her son was ill with flu but otherwise the neighbour took the child next door in the afternoon. The appellant stated she has worked as a waitress, and as an assistant researcher for the University of Calgary, as well as in retail, at veterinary clinics and as a labourer in the Calgary zoo. She stated she had applied for 11 jobs in an attempt to utilize her biology degree but was unsuccessful since nearly every project required government funding and the appropriate level of financial support was not forthcoming. The appellant stated that during her working career she had many jobs that did not require any supervision including when she was a food researcher and had been required only to file reports every three months or when assigned sole responsibility for opening and closing retail outlets.
+[5] The appellant - Dawn Locke - was cross-examined by counsel for the respondent. Locke stated that 60% of her duties involved the design of a logo for Diesel, including the business cards. She estimated that about $9,600 of the total salary earned from Diesel during the relevant period was attributable to that task. Earlier, she had obtained a quote - $4,000 - from a design company that covered only the work to produce a design but did not include printing or installation of the appropriate program in the payor's computer. The appellant stated she took the Quickbooks course while working for a placement agency. Prior to the first period of employment - August 19 to November 24, 2001 - the appellant had not worked for Diesel and stated she had sufficient insurable hours from previous employment in order to qualify for Employment Insurance (EI) maternity benefits prior to her child being born in the latter part of December, 2001, after which date she no longer worked outside the home. The appellant conceded that work during the winter months was slow and that she received the same monthly salary during this period. Locke stated Caron was called out about twice a year to perform work at night and that Diesel's customer profile changed so that even though Caron serviced fewer customers, the jobs lasted longer. Locke stated the number for the telephone in the basement office was displayed on Diesel's business cards. The company grossed approximately $95,000 in 2003. The appellant stated she prepared the Record of Employment (ROE) - Exhibit R-1 - and Caron signed it. After terminating her employment on August 31, 2003, the appellant applied for maternity benefits and Diesel retained the services of an accounting firm to handle the ongoing paperwork.
+[6] The appellant submitted that she had performed necessary work for the benefit of Diesel and that if she had been able to find employment as a biologist, Caron would have needed to hire someone to perform her duties and would have paid the same reasonable hourly rate - $12 - to that individual for a 40-hour week.
+[7] Counsel for the respondent submitted the remuneration overall was excessive in the context of the work performed and that the bookkeeping company also prepared tax returns for Diesel and also handled the regular flow of paperwork on a monthly basis. When comparing the appellant's employment situation to that of an arm's length employee, counsel submitted it is doubtful a stranger would be working - at night - in the basement of the employer's home and would not have the flexible schedule enjoyed by the appellant. In relation to running errands for Diesel, counsel pointed out the appellant was not reimbursed for travel expenses and the physical set-up of the payor's office was not consistent with a business operation employing a worker on an ordinary commercial basis.
+[8] The relevant provision of the Act is paragraph 5(3)(b) which reads as follows:
+(3) For the purpose of paragraph (2)(i),
+...
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm's length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[9] In the case of Adolfo Elia v.Canada (Minister of National Revenue - M.N.R.), [1998] F.C.J. No. 316 - a decision of the Federal Court of Appeal dated March 3, 1998, at page 2 of the certified translation Pratte, J.A. stated:
+Contrary to what the judge thought, it is not necessary, in order for the judge to be able to exercise that power, for it to be established that the Minister's decision was unreasonable or made in bad faith having regard to the evidence before the Minister. What is necessary is that the evidence presented to the judge establish that the Minister acted in bad faith, or capriciously or unlawfully, or based his decision on irrelevant facts or did not have regard to relevant facts. The judge may then substitute his decision for that of the Minister.
+[10] In Légaré v. Canada (Minister of National Revenue - M.N.R.), [1999] F.C.J. No. 878 - another decision of the Federal Court of Appeal - Marceau, J.A. speaking for the Court stated at page 2 of the judgment:
+In this matter, the Court has before it two applications for judicial review against two judgments by a judge of the Tax Court of Canada in related cases heard on the basis of common evidence which raise yet again the problems of interpretation and application of the saving provision, subparagraph 3(2)(c)(ii). I say yet again because since its passage in 1990, several decisions of the Tax Court of Canada and several judgments of this Court have already considered what workable meaning could be given to subparagraph 3(2)(c)(ii). In reading the text, the problems it poses beyond its deficient wording are immediately obvious, problems which essentially involve the nature of the role conferred on the Minister, the scope of the Minister's determination and, by extension, the extent of the Tax Court of Canada's general power of review in the context of an appeal under section 70 et seq. of the Act.
+While the applicable principles for resolving these problems have frequently been discussed, judging by the number of disputes raised and opinions expressed, the statement of these principles has apparently not always been completely understood. For the purposes of the applications before us, we wish to restate the guidelines which can be drawn from this long line of authority, in terms which may perhaps make our findings more meaningful.
+The Act requires the Minister to make a determination based on his own conviction drawn from a review of the file. The wording used introduces a form of subjective element, and while this has been called a discretionary power of the Minister, this characterization should not obscure the fact that the exercise of this power must clearly be completely and exclusively based on an objective appreciation of known or inferred facts. And the Minister's determination is subject to review. In fact, the Act confers the power of review on the Tax Court of Canada on the basis of what is discovered in an inquiry carried out in the presence of all interested parties. The Court is not mandated to make the same kind of determination as the Minister and thus cannot purely and simply substitute its assessment for that of the Minister: that falls under the Minister's so-called discretionary power. However, the Court must verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so, it must decide whether the conclusion with which the Minister was "satisfied" still seems reasonable.
+[11] In terms of remuneration paid to the appellant, the amount of $12 per hour is not unreasonable. However, it is apparent the Minister was troubled by the amount of time required to perform the available work and the fact that no workable logo was produced by the appellant during her employment. The appellant supplied the Minister with the estimate that she spent about 35% of her time on bookkeeping and that was adopted as an assumption of fact. After the appellant went on maternity leave, the payor retained the services of a bookkeeping/accounting entity at a cost of $1,605 per month. However, prior to the appellant's last day of employment - August 31, 2003 - Multiservices had billed Diesel the sum of $1,454.20 between June 13 and August 31, 2003 for its services even though the appellant was still performing her share of the bookkeeping requirements. During the appellant's first period of employment with Diesel, she was paid the sum of $10 per hour.
+[12] With regard to the terms and conditions of the appellant's employment, the Minister's position was that the appellant was paid a monthly salary even though there were periods when the amount of work to be done was slight. The Minister also considered that the appellant was able to work on weekends or at night according to her own needs and those of her spouse who was the sole owner of the payor. The Minister regarded the office in the basement of the Locke/Caron home as one more appropriate for use as a supplemental business space rather than as the primary office for an enterprise. The Minister took into account that the appellant had no experience in graphic design and had not demonstrated the existence of any finished product flowing from her efforts. The Minister also assumed that the work could have been done at less cost by a professional firm engaged in that sort of business. The appellant testified she was familiar with the use of graphics as a result of her university studies and had some experience in that area while working - as volunteer - for a multi-media company. The Minister also considered that the appellant had not been replaced when her first period of employment ended on November 24, 2001 prior to the birth of her son the following month. The Minister also considered that the home office was not visited by clients of Diesel and that a shop was rented in July, 2003 to enable the company to perform bigger jobs as well as vehicle inspections. The appellant successfully rebutted the assumption that the Locke/Caron residential home telephone number was the one used by the payor until February, 2004 by establishing there was another line used in the basement office for telephone, fax and Internet connection as well as a cellular telephone that had calls forwarded to it from the office number. The appellant testified that the use of her vehicle to run errands for Diesel was not significant and that she considered the resulting cost to have been included in her monthly salary.
+[13] Concerning the duration and nature and importance of the work performed, the Minister took into account that prior to starting work for Diesel during both periods of employment, the appellant had been pregnant and that her only source of income since 2001 - apart from EI benefits - had been Diesel. The appellant stated she had not been aware she was pregnant when commencing work for Diesel on January 2, 2003 and that her baby was born on September 12, more than 8 months later. The overall thrust of several of the assumptions of fact relied on the Minister seemed to advance the position that the nature of the work performed was more suitable to a part-time employee or to having it done by an independent entity such as Multiservices.
+[14] Certainly, there are many businesses that employ related workers, as they are entitled to do, provided the circumstances of the employment satisfy the test imposed by paragraph 5(3)(b) of the Act. The language utilized in that provision recognizes that while persons may not be at arm's length, they are able to deal with each other in the course of their contract of employment as though they had been persons at arm's length. The match does not have to be perfect because the words "substantially similar" are used to modify the nature of the contract of employment under analysis. One analytical device is to consider whether it is reasonable to conclude that strangers would have entered into a similar arrangement as the one between the appellant and her spouse's corporation under the circumstances disclosed by the evidence.
+[15] In my view, taking into account all the relevant facts, it is doubtful that any similar working relationship would have resulted from entering into a similar contract of service with any arm's length employee. It was not unreasonable to regard the amount of remuneration as excessive in relation to the amount of work required to be done and/or actually accomplished during the relevant period. The nature of the work performed was not particularly conducive to remuneration on the basis of a monthly, fixed, salary and no time records were maintained to indicate the time spent on various tasks. It is not unreasonable to have difficulty accepting that Diesel would have paid an arm's length employee the same monthly salary - based on a 40-hour week - without having that person account for time spent on designing the logo and to provide progress reports from time to time. Based on the evidence, the tasks of billing customers and discharging related bookkeeping duties and/or accounting functions were not onerous bearing in mind that the appellant used Quickbooks software, Diesel did not have a lot of clients in 2003 and Multiservices prepared the required tax returns. Although some of the assumptions relied on by the Minister were rebutted or modified or explained to some degree, overall, the core assumptions - when viewed in total - remain sufficiently intact to support the conclusion arrived at by the Minister. It is not my function to substitute my opinion for that of the Minister. Upon analyzing the evidence before me, I cannot find that the Minister acted in bad faith or based the decision on irrelevant facts or that said decision was arrived at without proper regard to relevant facts. I find the facts relied on by the Minister were correctly assessed and conclude the decision that the appellant was not engaged in insurable employment with the payor was reasonable. Despite that finding, I wish to make it clear that in my view the appellant acted in good faith throughout and assumed her legitimate employment with Diesel would constitute insurable employment within the meaning of the Act..
+[16] The decision of the Minister is confirmed and the appeal is dismissed.
+Signed at Sidney, British Columbia, this 31st day of January 2005.
+"D.W. Rowe"
+Rowe, D.J.
+CITATION:
+2005TCC86
+COURT FILE NO.:
+2004-2931(EI)
+STYLE OF CAUSE:
+Dawn Locke and M.N.R.
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+November 22, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable D.W. Rowe,
+Deputy Judge
+DATE OF JUDGMENT:
+January 31, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Galina Bining
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

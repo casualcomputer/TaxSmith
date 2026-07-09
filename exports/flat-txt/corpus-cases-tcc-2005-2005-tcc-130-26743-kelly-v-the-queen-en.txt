@@ -1,0 +1,218 @@
+Title: Kelly v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26743/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-130-26743-kelly-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-02-11
+
+# Kelly v. The Queen
+
+- Citation: 2005 TCC 130
+- Decision date: 2005-02-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3457, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kelly v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-02-11
+Neutral citation
+2005 TCC 130
+File numbers
+2004-2304(IT)I
+Judges and Taxing Officers
+Gordon Teskey
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-2304(IT)I
+BETWEEN:
+JAMES E. KELLY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 9, 2004 at Toronto, Ontario
+Before:The Honourable Justice Gordon Teskey
+Appearances:
+Agent for the Appellant:
+Roy J. Fabbiani
+Counsel for the Respondent:
+Livia Singer
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2000 and 2001 taxation years are dismissed, in accordance with the attached Reasons for Judgment.
+Signed at Toronto, Ontario, this 11th day of February, 2005
+"Gordon Teskey"
+Teskey, J.
+Citation: 2005TCC130
+Date: 20050211
+Docket: 2004-2304(IT)I
+BETWEEN:
+JAMES E. KELLY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Teskey, J.
+[1] The Appellant, in his Notice of Appeal wherein he appealed his assessments of income tax for the years 2000 and 2001, elected the informal procedure.
+Issue
+[2] Whether disallowed expenses of $13,445 and $7,540 for the years 2000 and 2001 were made or incurred for the purpose of gaining income from a business; and if so, were the disallowed expenses unreasonable in the circumstances and therefore ought not to be allowed?
+Facts
+[3] The Appellant is and has been a full time firefighter for the City of Toronto for the last 25 years.
+[4] As a firefighter, the Appellant works on average 42 hours a week. The day shift is 10 hours and the night shift is 14 hours.
+[5] In 1991, the Appellant started a new activity entitled "Learn Not to Burn".
+[6] He described the activity as a marketing business in that he would attract corporate sponsors whose logos would be displayed on his racing car, together with promotional work he would perform for the sponsor.
+[7] In 1991, Nissan provided the Appellant with a sedan motor vehicle, which he used up to 1995, when he started to race a Formula 1200 and in 1999, he switched to a Formula 1600 vehicle.
+[8] The Appellant, in 1990, wanted to be a racecar driver so he attended car racing school in that year and started his "Learn Not to Burn" activity in 1991, and again, went to car racing school. He also attended car racing school in 1992.
+[9] The Appellant stated that prize money available was negligible and that in 1991 and 1992, he gave all prize money to charity as he felt that would be good advertising.
+[10] As prize money was insignificant, the Appellant believed that the way to make a profit was by attracting corporate sponsors that would produce sufficient gross income to make money at the activity.
+[11] The Appellant claims that in the month of May through September, the racing would take between 400 to 1,000 hours.
+[12] The Appellant said in cross‑examination that his activity took the same amount of time as his full time firefighter job, which averaged 42 hours a week.
+[13] During the whole period of time that the activity was being performed, he worked for 353543 Ontario Ltd., soliciting mortgages. For this, he was paid an annual salary of $12,500. This job entailed 20 hours a week.
+[14] The Appellant had Loblaws as a sponsor for 11 years. The amount of funding was negotiated in January of each year.
+[15] In the year 2000, Loblaws' sponsorship paid the Appellant $17,500, which represented the total gross revenue for this activity.
+[16] Since the gross revenue for 1999 was also $17,500, I find that was all Loblaws funds.
+[17] In 2001, Loblaws paid $20,000 to the Appellant for sponsorship and in 2002, $10,000.
+[18] In 1992, the Appellant had, besides Loblaws, three other corporations sponsoring him.
+[19] Year 1997 was the Appellant's best year in attracting sponsorship, which totaled $28,222. That year, the Appellant did not report any net business income and he stated it was a break even year.
+[20] The Appellant stated that in an attempt to attract more corporate sponsors over the period, he changed his method of approach.
+[21] The Appellant made yearly changes in personnel, but no evidence was submitted to allow the Court to determine whether this was a cost saving move or that the jobs were strictly seasonal and would be necessitating change in any event.
+[22] The Appellant stated that the more he was successful at the track, the easier it would be to attract sponsorship. One year, he came second on the circuit.
+[23] From the start of 1991 to 1994 inclusively, the Appellant raced for Nissan.
+[24] In 1992, Loblaws purchased the hood of the Appellant's vehicle.
+[25] The following schedule for the period 1987 to 2003 shows the gross revenues for activities, the expenses thereof and the losses claimed. The revenues from 1987 to 1990 inclusively were from a different activity that was not disclosed to the Court and is ignored:
+YEAR
+GROSS REVENUE
+EXPENSES
+LOSS
+1987
+$ 4,325
+$ 9,764
+$ 5,439
+1988
+1,825
+7,073
+5,284
+1989
+3,600
+7,998
+4,398
+1990
+6,350
+9,187
+2,837
+1991
+8,500
+29,977
+21,477
+1992
+22,110
+34,492
+12,382
+1993
+12,925
+22,930
+10,000
+1994
+20,243
+31,151
+10,908
+1995
+18,200
+24,922
+6,722
+1996
+14,135
+20,100
+5,965
+1997
+28,222
+28,222
+0
+1998
+18,000
+29,056
+11,056
+1999
+17,500
+26,997
+9,497
+2000
+17,500
+30,945
+13,440
+2001
+20,000
+27,530
+7,530
+2002
+10,000
+25,303
+15,303
+2003
+Activity has ceased
+The Jurisprudence
+[26] The Supreme Court of Canada, in Stewart v. Canada, [2002] 2 S.C.R. 645, at the following paragraphs, said:
+50 It is clear that in order to apply s. 9, the taxpayer must first determine whether he or she has a source of either business or property income. As has been pointed out, a commercial activity which falls short of being a business, may nevertheless be a source of property income. As well, it is clear that some taxpayer endeavors are neither businesses, nor sources of property income, but are mere personal activities. As such, the following two-stage approach with respect to the source question can be employed:
+(i) Is the activity of the taxpayer undertaken in pursuit of profit, or is it a personal endeavor?
+(ii) If it is not a personal endeavor, is the source of the income a business or property?
+The first stage of the test assesses the general question of whether or not a source of income exists; the second stage categorizes the source as either business or property.
+...
+52 The purpose of this first stage of the test is simply to distinguish between commercial and personal activities, and, as discussed above, it has been pointed out that this may well have been the original intention of Dickson J.'s reference to "reasonable expectation of profit" in Moldowan. Viewed in this light, the criteria listed by Dickson J. are an attempt to provide an objective list of factors for determining whether the activity in question is of a commercial or personal nature. These factors are what Bowman J.T.C.C. has referred to as "indicia of commerciality" or "badges of trade": Nichol, supra, at p. 1218. Thus, where the nature of a taxpayer's venture contains elements which suggest that it could be considered a hobby or other personal pursuit, but the venture is undertaken in a sufficiently commercial manner, the venture will be considered a source of income for the purposes of the Act.
+and in paragraphs 54, 55 and 60:
+54 It should also be noted that the source of income assessment is not a purely subjective inquiry. Although in order for an activity to be classified as commercial in nature, the taxpayer must have the subjective intention to profit, in addition, as stated in Moldowan, this determination should be made by looking at a variety of objective factors. Thus, in expanded form, the first stage of the above test can be restated as follows: "Does the taxpayer intend to carry on an activity for profit and is there evidence to support that intention?" This requires the taxpayer to establish that his or her predominant intention is to make a profit from the activity and that the activity has been carried out in accordance with objective standards of businesslike behaviour.
+55 The objective factors listed by Dickson J. in Moldowan, at p. 486, were: (1) the profit and loss experience in past years; (2) the taxpayer's training; (3) the taxpayer's intended course of action; and (4) the capability of the venture to show a profit. As we conclude below, it is not necessary for the purposes of this appeal to expand on this list of factors. As such, we decline to do so; however, we would reiterate Dickson J.'s caution that this list is not intended to be exhaustive, and that the factors will differ with the nature and extent of the undertaking. We would also emphasize that although the reasonable expectation of profit is a factor to be considered at this stage, it is not the only factor, nor is it conclusive. The overall assessment to be made is whether or not the taxpayer is carrying on the activity in a commercial manner. However, this assessment should not be used to second-guess the business judgment of the taxpayer. It is the commercial nature of the taxpayer's activity which must be evaluated, not his or her business acumen.
+...
+60 In summary, the issue of whether or not a taxpayer has a source of income is to be determined by looking at the commerciality of the activity in question. Where the activity contains no personal element and is clearly commercial, no further inquiry is necessary. Where the activity could be classified as a personal pursuit, then it must be determined whether or not the activity is being carried on in a sufficiently commercial manner to constitute a source of income. However, to deny the deduction of losses on the simple ground that the losses signify that no business (or property) source exists is contrary to the words and scheme of the Act. Whether or not a business exists is a separate question from the deductibility of expenses. As suggested by the appellant, to disallow deductions based on a reasonable expectation of profit analysis would amount to a case law stop-loss rule which would be contrary to established principles of interpretation, mentioned above, which are applicable to the Act. As well, unlike many statutory stop-loss rules, once deductions are disallowed under the REOP test, the taxpayer cannot carry forward such losses to apply to future income in the event the activity becomes profitable. As stated by Bowman J.T.C.C. in Bélec, supra, at p. 123: "It would be ... unacceptable to permit the Minister [to say] to the taxpayer 'The fact that you lost money ... proves that you did not have a reasonable expectation of profit, but as soon as you earn some money, it proves that you now have such an expectation.'"
+[27] The Federal Court of Appeal, in Nadoryk v. Canada, [2003] F.C.J. No. 1786 (Q.L.), said in paragraph 13 thereof:
+13 The Stewart case did not abolish the test of reasonable expectation of profit but rather confined its application to cases where there is some personal element to the activity in question. ...
+Analysis
+[28] The factual testimony of the Appellant was never challenged and it is accepted.
+[29] The Appellant admitted that there was a personal element in the activity.
+[30] On the strength of the Appellant's statement "I wanted to be a racecar driver", I find that there was a very strong personal element in the activity.
+[31] Obviously, the Appellant's statement that if he attracted sponsorship in excess of expenses, the activity would have had a profit, is correct.
+[32] From 1998 to 2003 inclusively, the Appellant had only one sponsor, namely Loblaws. Before the racing season started in 1998, the Appellant knew that he only had $18,000 of sponsorship money. The average annual expenses for the seven preceding years was approximately $27,400, thus he knew before he even started the racing season that there was going to be a loss of about $10,000, which turned out to be actually $11,056.
+[33] Similarly, in 1999, before the racing season started, the Appellant knew that he only had $17,500 of sponsorship money. The average annual expenses for the eight preceding years was approximately $27,500, thus he knew before he again started the racing season that there would be a loss of about $10,000, which turned out to be actually $9,497.
+[34] Again, in 2000, before the racing season started, he knew that historically, he would have a loss of approximately $10,000, but it turned out in actuality to be $13,445.
+[35] And again, in 2001, before the racing season started, he knew that historically, he would have a loss of approximately $7,500, which proved to be $7,530.
+[36] In 2002, with only $10,000 from Loblaws, he still raced knowing that from his own records, the expenses would, in the most conservative position, be of at least $20,000 and therefore, would result in a loss of $10,000, which turned out to be a loss of $15,300.
+[37] I am convinced that if the Appellant had not had his lucrative job as a firefighter and mortgage solicitor, which was giving him in 2000, a gross income of $72,440 and in 2001 a gross income of $76,200, the activity would have been discontinued many years before 2003.
+[38] This car racing hobby was expensive and was financed by his two other employments.
+[39] I am satisfied that hours and effort put into the activity as a whole and with the solicitation of sponsorship was more than reasonable.
+[40] Obviously, a combination of his ability as a racecar driver and solicitor of sponsorship could not attract sufficient sponsorship money to finance this expensive hobby.
+[41] In this appeal, planning is a non issue, since the Appellant knew from his records he had to have sponsorship money in excess of what he was able to obtain. The $28,200 of sponsorship money in 1997 was the most he ever obtained.
+[42] The total losses for the years 1991 to 2002 inclusively amounts to approximately $125,300, which averages to approximately $11,400 a year.
+[43] Even though the Appellant described the activity as a marketing business, at the end of the day, using his motor vehicle and providing promotional work for sponsors, were all about his desire to drive a racecar.
+[44] I therefore find that the expenses disallowed in 2000 and 2001 were not made or incurred for the purpose of gaining or producing income from a business or property, as in each year, he knew before the racing season he could not possibly make a profit.
+[45] I also find that all expenses over and above the sponsorship money received were unreasonable, as the activity was in essence, the pursuit of the Appellant's hobby of driving a racecar.
+[46] For all the above reasons, the appeals are dismissed.
+Signed at Toronto, Ontario, this 11th day of February, 2005.
+"Gordon Teskey"
+Teskey, J.
+CITATION: 2005TCC130
+COURT FILE NO.: 2004-2304(IT)I
+STYLE OF CAUSE: James E. Kelly and The Queen
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: February 9, 2004
+REASONS FOR JUDGEMENT BY: The Honourable Justice Gordon Teskey
+DATE OF JUDGMENT: February 11, 2005
+APPEARANCES:
+Agent for the Appellant:
+Roy J. Fabbiani
+Counsel for the Respondent:
+Livia Singer
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

@@ -1,0 +1,106 @@
+Title: Leger v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27692/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-103-27692-leger-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-02-12
+
+# Leger v. The Queen
+
+- Citation: 2004 TCC 103
+- Decision date: 2004-02-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 511, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Leger v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-02-12
+Neutral citation
+2004 TCC 103
+File numbers
+2003-1490(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-1490(IT)I
+BETWEEN:
+CRAIG LEGER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 8, 2004 at Toronto, Ontario
+By: The Honourable Justice J.M. Woods
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Carol Calabrese
+Maria Vujnovic
+____________________________________________________________________
+JUDGMENT
+The appeal in respect of the assessment made under the Income Tax Act for the 2000 taxation year is dismissed.
+Signed at Ottawa, Canada, this 12th day of February, 2004.
+"J.M. Woods"
+J.M. Woods J.
+Citation: 2004TCC103
+Date: 20040212
+Docket: 2003-1490(IT)I
+BETWEEN:
+CRAIG LEGER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+[1] Craig Leger appeals an assessment of instalment interest of $191.57. In the 2000 taxation year Mr. Leger received income from the federal government on which source deductions should have been made - but were not. If source deductions had been made, no instalments would have been required. Mr. Leger submits that the requirement to make source deductions should take precedence over the instalment provisions and that instalments should not be required in the circumstances.
+[2] The income that is the source of this dispute consists of various benefits from the federal government, such as Canada Pension Plan payments and Old Age Security. The Crown concedes that the federal government was obligated under the Income Tax Act to make source deductions with respect to these payments and failed to do so in the relevant taxation years. However, the Crown submits that the instalment provisions are clear and that instalments are required in these circumstances.
+Analysis
+[3] Instalment payments by individuals are required under subsection 156(1) of the Act. Failure to pay instalments when due results in the imposition of instalment interest under subsection 161(2).
+[4] Instalments by individuals are generally required unless the tax owing, net of tax deducted or withheld, does not exceed $2,000 for the relevant taxation year or each of the two preceding taxation years. The relevant provisions are paragraph 156.1(2)(b) and the definition of "net tax owing" in subsection 156.1(1). Under these provisions, instalment payments may be reduced by source deductions, but only if the tax was actually deducted or withheld.
+[5] In this case the Crown concedes that Mr. Leger would not have been required to make instalment payments if the federal government had made the required source deductions. Unfortunately, the source deductions were not made, and as a consequence instalment payments were clearly required to be made.
+[6] Mr. Leger indicated that his main concern is having to pay instalments when none should be required. He submits that the federal government's obligation to make source deductions should take precedence over the instalment provisions applicable to individuals. His eloquent submission was based on a history of taxation and source deductions emanating from the age of Napoleon.
+[7] Although I sympathize with any individual having to deal with the complexities of instalment payments, I do not agree that there is a conflict between the source deduction and instalment provisions. The instalment provisions are clear and unfortunately Mr. Leger has failed to comply with them.
+[8] Although this disposes of the appeal, I would also comment that at the hearing Mr. Leger expressed considerable frustration with how this matter was handled by the Canada Customs and Revenue Agency. Mr. Leger indicated that when he first received a notice regarding instalment payments he asked the CCRA whether the federal government payments should be subject to source deductions. According to Mr. Leger, the CCRA in their response ignored this question and instead simply responded that he was required to make instalment payments. Mr. Leger's frustration no doubt continued in the appeal process because he asked the same question in the notice of appeal and the Minister's reply again ignored the question. The notice of appeal had been painstakingly prepared by Mr. Leger, and it is unfortunate that his question was not answered even though it was not directly relevant to the assessment.
+[9] During the hearing counsel for the Crown finally responded to the question and admitted that the federal government was required to make source deductions with respect to these payments and failed to do so for the relevant taxation years. One wonders whether this appeal might have been avoided if the CCRA had answered this question earlier on in the process.
+[10] The appeal is dismissed.
+Signed at Ottawa, Canada, this 12th day of February, 2004.
+"J.M. Woods"
+J.M. Woods J.
+CITATION:
+2004TCC103
+COURT FILE NO.:
+2003-1490(IT)I
+STYLE OF CAUSE:
+Craig Leger v. The Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+January 8, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice J.M. Woods
+DATE OF JUDGMENT:
+February 12, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Carol Calabrese
+Maria Vujnovic
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

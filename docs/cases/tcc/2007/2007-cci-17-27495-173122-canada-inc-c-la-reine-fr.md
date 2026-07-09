@@ -1,0 +1,196 @@
+---
+title: "173122 Canada inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27495/index.do"
+last_modified: "2007-02-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 17"
+citation2: ""
+neutral_citation: "2007 CCI 17"
+decision_date: "2007-02-07"
+language: "fr"
+item_id: "27495"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 53
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:58:27.256000+00:00"
+cases_cited_count: 4
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5fef53034f066e8086548ba167d8eb74d27eb6938080b766052fcd9b7c0690b8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 173122 Canada inc. c. La Reine
+
+- Citation: 2007 CCI 17
+- Decision date: 2007-02-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 53, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+173122 Canada inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-02-07
+Référence neutre
+2007 CCI 17
+Numéro de dossier
+2005-3149(GST)I
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2005-3149(GST)I
+ENTRE :
+173122 CANADA INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 12 juin 2006, à Sherbrooke (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Représentante de l'appelante :
+Danièle Léger
+Avocat de l'intimée :
+Me Mario Laprise
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie relativement à la taxe sur les produits et services en vertu de la partie IX de la Loi sur la taxe d'accise, dont l'avis est daté du 3 juin 2005 et porte le numéro PACT-0240 LO, pour la période du 1er avril 2001 au 30 avril 2004, est rejeté, sans frais, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 7e jour de février 2007.
+« Alain Tardif »
+Juge Tardif
+Référence : 2007CCI17
+Date : 20070207
+Dossier : 2005-3149(GST)I
+ENTRE :
+173122 CANADA INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit de l'appel d'une cotisation dont l'avis est daté du 3 juin 2005, portant le numéro PACT-0240 LO, pour la période du 1er avril 2001 au 30 avril 2004.
+[2] La question en litige consiste à déterminer si l'appelante exerçait une activité commerciale pendant la période visée par la cotisation et, subsidiairement, si elle avait droit à des crédits de taxe sur les intrants ( « CTI » ) de 5 096,12 $.
+[3] L'appelante était représentée par madame Danièle Léger. Très impliquée dans la gestion des affaires de l'appelante, s'exprimant très bien et maîtrisant manifestement bien toutes les données du dossier, elle a expliqué les circonstances qui avaient conduit l'entreprise, qui a été créée au milieu des années 1990, à la déconfiture.
+[4] Au début, l'entreprise possédait un seul camion; en 2001, l'entreprise était en pleine croissance et tous les espoirs étaient permis; elle possédait alors une dizaine de camions et l'avenir semblait prometteur.
+[5] Au début 2001, le courtier d'assurances responsable du renouvellement des polices d'assurance responsabilité civile des camions aurait négligé d'assurer le suivi du dossier si bien que la société a dû cesser ses activités en mars 2001, puisqu'elle n'était pas en mesure de se conformer aux nombreuses exigences légales et réglementaires auxquelles elle était assujettie, notamment celle d'avoir une assurance adéquate.
+[6] Ne pouvant plus faire de transport, la société a rapidement perdu sa source de revenus et les bailleurs de fonds de l'entreprise ont alors rappelé les marges de crédit et réalisé leurs garanties.
+[7] Après les événements de mars 2001, l'appelante s'est débattue pour survivre; elle a poursuivi le courtier d'assurances. En raison de la perte de la presque totalité des actifs, elle a conservé un seul petit camion genre pick-up qu'elle a utilisé pour tenter de reconstruire l'entreprise de transport grâce à diverses initiatives; elle n'a cependant tenu aucun registre de la distance parcourue.
+[8] Très déterminés, la représentante de l'appelante et son conjoint ont refusé de jeter l'éponge et se sont totalement dévoués à la recherche de nouvelles activités pour mettre à profit leur expertise en matière de transport. Les diverses tentatives n'ont jamais produit autre chose que de l'espoir.
+[9] Tout au cours de cette longue période, l'appelante a fait toute une série de demandes; elle a étudié divers projets d'investissement et a eu de multiples rencontres, dont certaines avec des avocats pour obtenir des réparations à la suite du préjudice causé par l'incurie et la négligence du courtier chargé du renouvellement des polices d'assurance.
+[10] L'appelante prétend avoir droit aux CTI qu'elle a réclamés pour la période du 1er avril 2001 au 30 avril 2004. De son côté, l'intimée soutient qu'il n'y avait plus d'activités commerciales.
+[11] Pour établir et ratifier la cotisation dont il est fait appel, l'intimée a tenu pour acquis certains faits énumérés au paragraphe 13 de la Réponse à l'avis d'appel, lequel se lit comme suit :
+b) l'Appelante exploitait une entreprise de transport de marchandises par camion;
+c) l'Appelante a cessé l'exploitation de son entreprise vers le 31 mars 2001;
+d) suite à une vérification, le Ministre a refusé des CTI réclamés par l'Appelante, et a cotisé celle-ci en conséquence le 7 juin 2004;
+e) lors du processus d'opposition, l'Appelante a fourni au Ministre des informations et documents additionnels;
+f) après analyse de ces informations et documents additionnels, le Ministre a constaté que d'après les livres comptables de l'Appelante, celle-ci, a jusqu'en août 2002, inscrit des fournitures qui avaient été acquises pendant que l'entreprise de transport de marchandises par camion était toujours exploitée (soit avant le 31 mars 2001), fournitures qui se rapportaient à ladite entreprise;
+g) ainsi, le Ministre a accordé à l'Appelante les CTI pour la période du 1er avril 2001 au 31 août 2002 pour toutes les fournitures se rapportant aux périodes pendant lesquelles son entreprise de transport de marchandises par camion était exploitée et qui se rapportaient à ladite entreprise, d'où la cotisation du 3 juin 2005 constituant la décision sur opposition;
+h) hormis les fournitures effectuées dans le cadre de son entreprise de transport de marchandises par camion, l'Appelante n'a déclaré aucune autre fourniture taxable pendant la période visée;
+i) hormis l'activité de transport de marchandises par camion, le Ministre conclut que l'Appelante n'a exercé aucune activité commerciale pendant la période visée;
+j) par conséquent, le Ministre a refusé tous les CTI réclamés par l'Appelante relativement aux fournitures autres que les fournitures acquises dans le cadre de son entreprise de transport de marchandises par camion;
+k) l'Appelante n'a pas démontré que les fournitures pour lesquelles elle demande des CTI ont été acquises à des fins de consommation, d'utilisation ou d'approvisionnement dans le cadre d'une activité commerciale;
+l) au surplus, suite à l'analyse des CTI réclamés, le Ministre a constaté que certains des CTI réclamés l'étaient à l'égard de l'acquisition de fournitures de nature purement personnelle;
+m) l'Appelante est donc redevable au Ministre du montant des ajustements apportés à sa taxe nette déclarée pour la période visée;
+[12] Les faits mentionnés aux alinéas b), d), e), f), h) et j) ont été admis et les autres ont été niés.
+[13] À la demande du tribunal, les parties ont produit des notes à l'appui de leur position respective.
+[14] L'appelante réclame des CTI même si, durant la période du 1er avril 2001 au 30 avril 2004, elle n'a effectué aucune fourniture, si ce n'est qu'elle a perçu et déclaré des revenus de 1 091,96 $ pendant la période prenant fin le 31 décembre 2002, lesquels n'avaient en principe rien à voir avec des fournitures liées au transport de marchandise.
+[15] À la suite d'une vérification, le ministre du Revenu national (le « ministre » ) a refusé les CTI au motif qu'il a conclu que l'appelante avait cessé toute activité commerciale depuis le 1er avril 2001. Les CTI en litige s'élevaient alors à 12 269,90 $.
+[16] À la suite d'une contestation par le biais d'un avis d'opposition, le dossier fut révisé. L'intimée a alors modifié la date de la fin des activités commerciales au 31 août 2002 et a ainsi accepté d'accorder des CTI supplémentaires de 7 252,06 $. L'appel porte donc sur la différence, soit des CTI de 5 017,84 $ qui ont été refusés pour la période du 1er septembre 2002 au 30 avril 2004.
+[17] D'entrée de jeu, je dois dire que même si j'en arrivais à la conclusion que l'appelante était toujours en affaires lors de la période visée par l'appel, cela n'aurait pas pour effet automatique que la demande de l'appelante serait accordée.
+[18] Pour avoir droit à des CTI, il ne suffit pas d'exercer une activité commerciale au sens des articles 169 et 123 de la Loi sur la taxe d'accise (la « Loi » ). Tout requérant doit avoir conservé les pièces justificatives à l'appui de ses réclamations au sens du paragraphe 169(4) et de l'article 286 de la Loi et être en mesure de les fournir.
+[19] En l'espèce, madame Léger a soumis des explications essentiellement verbales pour justifier son droit aux CTI. Elle n'a pas produit de pièces justificatives et a principalement insisté qu'elle et son conjoint avaient tout fait pour demeurer en affaires dans le domaine du transport de marchandises.
+[20] Il n'est pas facile de déterminer le moment du début et de la fin d'une entreprise commerciale. Ce moment ne correspond pas toujours à la date de la constitution de l'entreprise juridique; d'autre part, la date de la fin n'est pas toujours le moment de la cessation des activités commerciales. Il peut arriver que certaines activités prolongent la fin réelle de l'entreprise qui a mis fin aux activités liées à sa vocation; je fais notamment référence à la perception des créances ou à la vente du stock accumulé qui peut avoir lieu après la fin des activités de fabrication.
+[21] À ce sujet, l'honorable juge Rip, dans l'affaire Two Carlton Financing Ltd. c. Sa Majesté la Reine, [1998] A.C.I. no 447, dossier 96-523(GST)G, 2000 G.T.C. 4020,, écrivait ce qui suit :
+29 Comme Carlton n'a déclaré aucune fourniture taxable jusqu'en février 1995 et n'a pas perçu la TPS pendant la période, l'avocat de l'intimée a conclu que Carlton n'exerçait aucune activité commerciale pendant la période.
+30. L'appelante indique que, pendant la période, Carlton démarrait une entreprise. Son avocate a invoqué le bulletin d'interprétation no IT-364 de Revenu Canada pour alléguer qu'une entreprise commence au moment où une activité importante est entreprise qui fait partie ordinairement du processus de production de revenu dans ce type d'entreprise ou est un préliminaire essentiel à l'exploitation courante. L'avocate a aussi mentionné la décision du juge Bowman, de la Cour canadienne de l'impôt, qui a affirmé ce qui suit :
+Pour ce qui est de la détermination du moment où une entreprise débute, il n'est pas réaliste de dire que c'est au moment où l'on commence à tirer de l'argent du commerce ou de la fabrication d'un bien ou de la prestation d'un service ou, à l'autre extrême, que c'est au moment où l'on a pour la première fois eu l'intention de lancer l'entreprise. Chaque cas dépend des faits qui lui sont propres, mais, lorsqu'un contribuable a pris des mesures importantes, des mesures essentielles pour exploiter l'entreprise, il est juste de conclure que l'entreprise avait démarré.
+[22] Plus loin dans le même jugement, notre collègue faisant état d'éléments fort pertinents au présent dossier lorsqu'il affirmait :
+35. [...] La définition d' « activité commerciale » au paragraphe 123(1) de la Loi n'exige pas expressément que des fournitures taxables soient réalisées. Il est néanmoins difficile d'imaginer qu'une entreprise puisse être exploitée sans que son activité ne soit assimilable à une fourniture.
+36. [...] Puisque l'appelante n'a déclaré ni vente ni revenu pendant la période, on peut raisonnablement supposer qu'elle n'a pas exercé d'activité commerciale pendant la période et, si tel est le cas, l'appelante ne peut être jugée admissible aux CTI dans la période.
+37. [...] Les CTI ne sont accordés que si les intrants pour lesquels ils sont demandés ont servi à la production d'autres fournitures taxables. Carlton n'a déclaré aucune fourniture taxable pendant la période en question au cours de laquelle, si elle exploitait effectivement l'entreprise qu'elle prétend avoir acquis immédiatement à l'acquisition, des fournitures auraient été effectuées.
+[23] Il n'est pas facile de fixer un moment ou une date précise, puisqu'il peut y avoir des zones grises ou transitoires.
+[24] En l'espèce, l'intimée a interprété les faits d'une manière fort libérale, et voire avantageuse, et cela tant pour l'admissibilité des CTI que pour la période.
+[25] À l'appui de ses prétentions, l'intimée a cité un certain nombre de décisions fort pertinentes. Dans l'affaire Strachan c. Sa Majesté la Reine, [1993] G.S.T.C. 72, no 98-1914(GST)I. La Cour énonce certains principes fort pertinents au présent dossier :
+[23] S'il n'est pas nécessaire que l'entreprise génère un profit immédiat, certaines choses doivent néanmoins se produire au cours de la période de démarrage. Bien que chaque entreprise bénéficie d'un délai de grâce à l'égard des frais de démarrage, ceci ne dispense pas pour autant de l'obligation de démontrer que l'entreprise est : « structurée, organisée, équipée, financée et planifiée de manière à pouvoir, à l'époque, être considérée comme raisonnablement susceptible d'être un jour rentable » . Lorsque ces critères sont présents, le délai nécessaire pour que l'entreprise devienne rentable dépend directement de l'activité en question.
+[...]
+[24] Il y a, en l'espèce, un élément personnel important puisque l'endroit où se déroule l'activité est également la résidence personnelle de l'appelante.
+[25] [...] En l'occurrence, cependant, l'appelante en était toujours à l'étape de la formation et de l'organisation. J'en arrive à la conclusion que l'activité ne peut être qualifiée de commerciale au sens de la Loi puisqu'elle ne répond pas aux critères prévus par celle-ci.
+[...]
+[28] [...] le projet relatif aux biscuits pour chiens se trouvait dans un stade de développement embryonnaire, qu'il ne suscitait pas d'attente raisonnable de profit et qu'il n'existait aucun indice de sa viabilité commerciale.
+[29] Je conclus qu'aucune activité commerciale n'a été exercée sur les lieux pendant la période visée par la cotisation.
+[26] Dans l'affaire Janitsch c. Sa Majesté la Reine, 2004 GTC 326, no 202-3892(GST)I, l'appelante était une artiste qui se consacrait aux beaux-arts visuels. Avant d'analyser les faits, la Cour mentionne en passant au paragraphe 7 qu' « en raison du caractère législatif de la définition, la portée de l'arrêt Stewart ne s'étend pas aux appels en matière de TPS » .
+[27] Quoique l'appelante ait réalisé une vente (qui fut cependant sa seule vente), la Cour a conclu que son travail ne pouvait être qualifié d'activité commerciale.
+[28] Dans l'affaire Haberdan Construction Inc. c. Sa Majesté la Reine, 1999 GTC 3249, no 98-85(GST)I, l'appelante n'avait déclaré aucune vente ni perçu aucune TPS, en raison, d'après l'appelante, de la faillite de clients et de son incapacité de percevoir les sommes dues par ses clients.
+La Cour conclut :
+[7] Le fardeau de la preuve repose sur l'appelante; elle devait démontrer le bien-fondé de son appel, ce qu'elle n'a malheureusement pas pu faire. Cela peut être attribuable à la faillite des clients de l'appelante et à son incapacité à percevoir les sommes qui lui étaient dues, mais il semble qu'elle n'a exercé aucune activité commerciale, étant donné qu'il n'y a eu aucune vente.
+[29] Finalement, dans l'affaire Hegerat c. Sa Majesté la Reine, 2000 GTC 629, no 98-2863(GST)I, l'appelant consacrait son temps à concevoir des produits et à en faire la promotion. Dans son analyse, la Cour mentionne notamment ce qui suit :
+[15] Il me semble que l'appelant s'est donné cette peine dans le but d'établir que tout ce qui concerne son appartement est déductible aux fins de l'impôt sur le revenu ou peut être utilisé aux fins des crédits de taxe sur les intrants en ce qui concerne la taxe sur les produits et services car l'appartement est un lieu d'affaires au même titre que le serait une usine dont il serait propriétaire. [...]
+[17] Sur la question principale, c'est-à-dire le refus des crédits de taxe sur les intrants de 713,97 $, comme en fait foi la pièce R-2, j'estime que l'appelant n'a aucun espoir. Il ne peut obtenir gain de cause relativement à la décision du ministre de refuser ces crédits de taxe sur les intrants, pour les motifs suivants. Dans les dispositions sur la taxe sur les produits et services, la définition d'activité commerciale à l'article 123 est libellée en partie dans les termes suivants :
+123 (1) Constituent des activités commerciales exercées par une personne :
+l'exploitation d'une entreprise (à l'exception d'une entreprise exploitée sans attente raisonnable de profit par un particulier [...]), sauf dans la mesure où [...]
+D'après cette définition, une activité commerciale exercée par une personne s'entend à mon avis d'une entreprise exploitée par la personne, à l'exception de l'entreprise exploitée par un particulier sans attente raisonnable de profit. Si une activité qui est censée être une entreprise est exercée sans attente raisonnable de profit, elle n'est pas une entreprise aux fins de la définition d'activité commerciale et, par conséquent, elle n'est pas une entreprise relativement à laquelle peuvent être demandés des crédits de taxe sur les intrants.
+[18] Se pose alors la question de savoir si cette activité −invention, conception et création de produits − est une activité exercée dans l'espoir raisonnable de réaliser un profit. Je conclus qu'elle n'en est pas une. C'est une activité qui n'a produit aucune recette. Il ne fait aucun doute que l'appelant manifeste énormément d'intérêt pour cette activité, qu'il a, c'est le moins que l'on puisse dire, beaucoup d'imagination, et qu'il est déterminé à mettre sur le marché des produits de meilleure qualité. Cependant, en l'absence de recettes, des ventes, je peux difficilement voir dans cette activité une entreprise. Si je pouvais la comparer à une mine, je dirais que l'appelant est la personne qui a découvert un gisement de minerai et qui y travaille avant de produire une première once de minerai. L'appelant se consacre à la réalisation d'idées, sans qu'aucune idée ne puisse encore être commercialisée.
+[30] Cette décision a été confirmée par la Cour d'appel fédérale relativement sur la question des CTI refusés en raison de l'absence d'activité commerciale, 2000 GTC 4117, no A-477-98.
+[31] En l'espèce, l'appelante a dû subir les conséquences désastreuses de la négligence et de l'incurie de certaines personnes au point de perdre, selon ses explications, la très grande majorité des éléments d'actif permettant d'accomplir d'activités commerciales liées au transport de marchandises.
+[32] De façon fort courageuse, plusieurs initiatives ont été prises dans le but de relancer l'entreprise. L'espoir, l'optimisme et la détermination sont des qualités remarquables, mais ne sont pas en soi suffisantes pour constituer les fondements d'une activité commerciale au sens de la Loi.
+[33] Dans ses notes écrites, l'appelante recherche les conclusions suivantes :
+· La saisie de notre compte de banque soit retirée.
+· Que l'on réactive notre inscription à la TPS TVQ.
+· Que votre décision soit aussi appliquée au niveau de la TVQ [...]
+· Que l'on me rembourse avec intérêts les taxes auxquelles je considère que j'ai droit.
+[34] Dans un appel interjeté conformément à l'article 306 de la Loi, la Cour ne peut qu'annuler ou modifier la cotisation. Par conséquent, la Cour ne peut accorder aucune de ces conclusions recherchées par l'appelante.
+[35] Quant à la TVQ, note Cour n'a aucune compétence à cet égard, cette compétence étant exclusivement dévolue à la Cour du Québec, conformément aux articles 93.1.10 et 93.2 de la Loi sur le ministère du Revenu (L.R.Q., c. M-31).
+[36] Après avoir refusé les CTI pour la période du 1er avril 2001 au 30 avril 2004, l'intimée a révisé le dossier pour accorder les CTI jusqu'au 31 août 2002.
+[37] Pour la période restante, soit du 1er septembre 2002 au 30 avril 2004, c'est à bon droit que les CTI doivent être refusés en raison de l'absence d'activité commerciale.
+[38] D'autre part, même si l'appelante avait réussi à démontrer la présence réelle d'activités commerciales, je devrais quand même rejeter l'appel, puisque la preuve soumise, dont les fondements reposent sur des explications essentiellement verbales, n'est pas satisfaisante pour justifier le remboursement des CTI.
+[39] Bien qu'il s'agisse d'un dossier qui évoque de la sympathie et bien que madame Léger ait consacré beaucoup d'énergie à sa préparation, je ne peux disposer de l'appel sur la base de la sympathie.
+[40] Je dois essentiellement appliquer le droit relatif à la cotisation à l'origine de l'appel. Suivant la preuve soumise de part et d'autre par les parties, la cotisation a été correctement établie.
+[41] Après avoir pris connaissance de tous les documents soumis par l'appelante, je conclus que l'appelante n'exerçait plus une activité commerciale au sens de la Loi; conséquemment, l'appel doit être rejeté.
+Signé à Ottawa, Canada, ce 7e jour de février 2007.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2006CCI17
+N º DU DOSSIER DE LA COUR : 2005-3149(GST)I
+INTITULÉ DE LA CAUSE : 173122 CANADA INC. ET LA REINE
+LIEU DE L'AUDIENCE : Sherbrooke (Québec)
+DATES
+DE L'AUDIENCE : le 12 juin 2006
+Notes écrites de l'appelante : le 28 juillet 20026
+Réplique de l'intimée : le 20 octobre 2006
+Réplique de l'appelante : le 2 novembre 2006
+MOTIFS DU JUGEMENT PAR : L'honorable juge Alain Tardif
+DATE DU JUGEMENT : le 7 février 2007
+COMPARUTIONS :
+Représentante de l'appelante :
+Danièle Léger
+Avocat de l'intimée :
+Me Mario Laprise
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

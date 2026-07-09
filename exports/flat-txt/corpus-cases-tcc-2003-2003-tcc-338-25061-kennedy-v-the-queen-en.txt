@@ -1,0 +1,139 @@
+Title: Kennedy v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25061/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-338-25061-kennedy-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-05-15
+
+# Kennedy v. The Queen
+
+- Citation: 2003 TCC 338
+- Decision date: 2003-05-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2536, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kennedy v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-05-15
+Neutral citation
+2003 TCC 338
+File numbers
+2001-3034(IT)I
+Judges and Taxing Officers
+Murray A. Mogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2001-3034(IT)I
+BETWEEN:
+KAREN KENNEDY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on June 18, 2002, at St. Catharines, Ontario
+by the Honourable Judge M.A. Mogan
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+George Boyd Aitken
+____________________________________________________________________
+JUDGMENT
+The appeals from assessments of tax made under the Income Tax Act for the 1998 and 1999 taxation years are dismissed
+Signed at Ottawa, Canada, this 15th day of May, 2003.
+"M.A. Mogan"
+J.T.C.C.
+Citation: 2003TCC338
+Date: 20030515
+Docket: 2001-3034(IT)I
+BETWEEN:
+KAREN KENNEDY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Mogan, J.
+[1] During 1998 and 1999, the Appellant received certain amounts from her former husband as child support payments. The only issue in this appeal is whether the Appellant is required to include those amounts in computing her income. The Appellant has elected the informal procedure.
+[2] The Appellant was married to Colin Martin Kennedy ("CMK") in 1979. There were two children born of the marriage: Jamie Colleen (January 7, 1981) and Jillian Breanne (August 24, 1987). The Appellant and CMK separated in December 1990. By Court Order dated March 26, 1991 (Exhibit A-1), the Appellant was granted custody of the children; CMK was granted reasonable access to the children; and CMK was ordered to pay to the Appellant as support for the children $80 per week per child commencing February 27, 1991. The Appellant and CMK signed Minutes of Settlement in December 1991 (Exhibit A-2) which, in effect, confirmed the terms of the prior court order (Exhibit A-1) and provided in paragraph 4:
+4. The amount of child support payable under this agreement will be increased annually on the 26th day of March 1992 and each and every year thereafter by the indexing factor as defined by the Family Law Act, namely the percentage increase in the Consumer Price Index for Canada for prices of all items as published by Statistics Canada since March of the previous year.
+[3] In September 1997, the Appellant applied to the Ontario Court (General Division) for Judgment pursuant to terms contained in the Minutes of Settlement (Exhibit A-2) which had been signed in December 1991. On September 24, 1997, a judgment was issued by the Ontario Court (General Division) which for all practical purposes, contained the same terms as the Minutes of Settlement. That judgment of the Ontario Court is Exhibit A-3 in this appeal. Because that judgment was issued after April 30, 1997 and required payments for only child support, the Appellant concluded that she was not required to include in her income any amounts received from CMK for the support of her children.
+[4] When the Appellant filed her income tax return for 1997, she did not include any child support payments received after April 30, 1997. Also, when she filed her income tax returns for 1998 and 1999, she did not include in her income any child support payments. By Notices of Reassessment, the Minister of National Revenue added to the Appellant's reported income the amounts $8,473 for 1998 and $12,514 for 1999 representing the aggregate child support payments which the Appellant received from CMK in those two respective taxation years. The Appellant has appealed from those two reassessments. There is no dispute with respect to the amounts. As stated above, the only issue is whether the Appellant is required to include in computing her income the amounts she received as child support.
+[5] The Appellant introduced some documents from Revenue Canada (Exhibits A-5 and A-7) which indicate that there were different views among certain employees of Revenue Canada as to whether the child support payments received by the Appellant after April 30, 1997 were required to be included in her income. Also, Exhibit R-1 is a letter from the Appellant's family law lawyer in Niagara Falls, Ontario dated October 7, 1997 confirming prior advice that child support payments received after the judgment (Exhibit A-3) dated September 24, 1997 would no longer be taxable in her hands.
+[6] I am satisfied that the Appellant honestly believed that child support payments which she received after April 30, 1997 or September 24, 1997 were not taxable in her hands. The question in this appeal, however, is not what the Appellant honestly believed when she filed her income tax returns for 1998 and 1999 but what the law requires in all the circumstances of her situation.
+[7] The income tax law with respect to alimony, maintenance and child support payments was, until recently, simple and easily understood by any reasonable person. The relevant provisions were contained in a few paragraphs in subsection 56(1) and section 60 of the Income Tax Act. After the decision of the Supreme Court of Canada in Thibaudeau (95 DTC 5273), members of parliament decided around 1997 that simplicity was not a virtue. Accordingly, the Act with respect of alimony, maintenance and child support payments was amended so as to become complicated and not easily understood by any reasonable person. The holy grail of the amendment was to benefit the recipient of child support payments by not including those payments in the computation of income and, collaterally, to burden the payor by not permitting the deduction of those payments in the computation of income. The new provisions are contained in paragraphs 56(1)(b) and 60(b) and in sections 56.1 and 60.1. With respect to comprehension, the definitions in subsection 56.1(4) and the formula [A-(B+C)] are challenging.
+[8] The main purpose of the new provisions is achieved in the definitions of "child support amount" and "support amount" in subsection 56.1(4).
+56.1(4) The definitions in this subsection apply in this section and section 56.
+"child support amount" means any support amount that is not identified in the agreement or order under which it is receivable as being solely for the support of a recipient who is a spouse or common-law partner or former spouse or common-law partner of the payer or who is a parent of a child of whom the payer is a natural parent.
+"support amount" means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and
+(a) the recipient is the spouse or common-law partner or former spouse or common-law partner of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage or common-law partnership and the amount is receivable under an order of a competent tribunal or under a written agreement; or
+(b) the payer is a natural parent of a child of the recipient and the amount is receivable under an order made by a competent tribunal in accordance with the laws of a province.
+Paragraph 56(1)(b) describes the kind of support payments which are required to be included in the computation of income:
+56(1) Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year,
+(a) ...
+(b) the total of all amounts each of which is an amount determined by the formula
+A - (B + C)
+where
+A is the total of all amounts each of which is a support amount received after 1996 and before the end of the year by the taxpayer from a particular person where the taxpayer and the particular person were living separate and apart at the time the amount was received,
+B is the total of all amounts each of which is a child support amount that became receivable by the taxpayer from the particular person under an agreement or order on or after its commencement day and before the end of the year in respect of a period that began on or after its commencement day, and
+C is the total of all amounts each of which is a support amount received after 1996 by the taxpayer from the particular person and included in the taxpayer's income for a preceding taxation year;
+[9] The broad definition of "child support amount" (i.e. any support amount not identified as solely for the support of the adult recipient) permits a more generous reduction in the amounts required to be included in income under the formula in paragraph 56(1)(b) because "B" in the formula is the total of child support amounts. The new scheme applies to any couple who separate and, after April 1997, enter into a separation agreement or obtain a court order. The new scheme may also apply in particular circumstances to any couple who separated and, before May 1997, entered into a separation agreement or obtained a court order. The particular circumstances are set out in the definition of "commencement day" in subsection 56.1(4):
+"commencement day" at any time of an agreement or order means
+(a) where the agreement or order is made after April 1997, the day it is made; and
+(b) where the agreement or order is made before May 1997, the day, if any, that is after April 1997 and is the earliest of
+(i) the day specified as the commencement day of the agreement or order by the payer and recipient under the agreement or order in a joint election filed with the Minister in prescribed form and manner,
+(ii) where the agreement or order is varied after April 1997 to change the child support amounts payable to the recipient, the day on which the first payment of the varied amount is required to be made,
+(iii) where a subsequent agreement or order is made after April 1997, the effect of which is to change the total child support amounts payable to the recipient by the payer, the commencement day of the first such subsequent agreement or order, and
+(iv) the day specified in the agreement or order, or any variation thereof, as the commencement day of the agreement or order for the purposes of this Act.
+[10] Exhibit A-3 is the judgment of Justice M.P. Forestell of the Ontario Court (General Division) dated September 27, 1997 issued on the Appellant's motion pursuant to the terms of the Minutes of Settlement (Exhibit A-2). Exhibit R-1 is a copy of a letter dated October 7, 1997 from the Appellant's lawyer (Wendy L. MacPherson) to the Appellant stating in part:
+Further to our meeting in August 1997 and in accordance with your instructions, we confirm that we have now filed the Minutes of Settlement with the Ontario Court (General Division) in Welland and the terms of the Minutes of Settlement have been incorporated into a Judgment.
+We now enclose a copy of the Judgment of Mr. Justice Forestell dated September 24, 1997.
+As previously indicated to you, the Judgment is automatically filed with the Family Responsibility Office and that Office will perform the usual calculation with regard to the indexing of the support payments.
+We also confirm that we previously advised that as the Judgment is dated after May 1, 1997, any support payments that are made would no longer be taxable in your hands, nor will they be deductible to Mr. Kennedy.
+[11] The Minutes of Settlement (Exhibit A-2) were signed by the Appellant and CMK in December 1991. I am satisfied that the Appellant obtained the judgment from the Ontario Court (General Division) in September 1997 (Exhibit A-3) in the expectation that, because the judgment was after May 1, 1997, subsequent child support payments would be free from tax in her hands. The Appellant's lawyer (Ms. MacPherson) obviously thought that such payments would be free from tax having regard to the fourth paragraph of her letter quoted in paragraph 10 above.
+[12] The child support payments received by the Appellant from CMK in 1998 and 1999 are the subject of this appeal. Can the judgment of the Ontario Court dated September 24, 1997 (Exhibit A-3) qualify as a "commencement date" with respect to those payments? The answer is found in the definition of "commencement date" set out in paragraph 9 above. The basic payments of $80 per child per week plus a cost-of-living adjustment on March 26, 1992 (and each year thereafter) were determined in the Minutes of Settlement (Exhibit A-2) signed in December 1991. Because those Minutes of Settlement were signed long before May 1997, and the payments in question were made pursuant to those Minutes of Settlement, the judgment of September 1997 (Exhibit A-3), standing alone, does not qualify under clause (a) of the definition of "commencement day".
+[13] Under clause (b) of the definition of "commencement day", there are four conditions which could possibly establish a commencement day for the Appellant after April 1997. The Appellant and CMK have never filed a joint election with the Minister, and so the condition in subparagraph (i) cannot be satisfied. Exhibit A-3 did not change the child support amounts payable to the Appellant, and so subparagraph (ii) cannot be satisfied. There is no subsequent agreement or order made after April 1997 which changed the total child support amounts payable, and so subparagraph (iii) cannot be satisfied. There is no agreement or order which specifies a day as the "commencement day" for the purposes of the Income Tax Act, and so subparagraph (iv) cannot be satisfied.
+[14] In Kovarik v. The Queen, 2001 DTC 3716, Bowman A.C.J. considered the old scheme and the new scheme of child support payments and stated:
+[8] Under what I may describe as the old régime (pre May 1997) spouses making payments to separated or ex spouses for the support of children could deduct those payments and the recipient had to include them in income. Following the decision of the Supreme Court of Canada in Thibaudeau v. Canada, [1995] 2 S.C.R. 627, the legislation changed. So long as a pre May 1997 agreement remained unchanged the deduction/inclusion system under the old régime prevailed.
+[9] If a new agreement were entered into, or an old agreement was changed in a particular way, the deduction/inclusion régime ceased and only payments made up to the "commencement day", as defined, were deductible by the payor and includible by the payee.
+[15] The above statement is a succinct description of the way the Act changed in 1997 with respect to child support payments. In the circumstances of this appeal, there were no changes after April 1997 concerning the amounts received by the Appellant as child support pursuant to the Minutes of Settlement signed in December 1991 (Exhibit A-2). Therefore, the old scheme continued to apply to the child support payments received by the Appellant in 1998 and 1999. The appeals for 1998 and 1999 are dismissed.
+Signed at Ottawa, Canada, this 15th day of May, 2003.
+"M.A. Mogan"
+J.T.C.C.
+CITATION:
+2003TCC338
+COURT FILE NO.:
+2001-3034(IT)I
+STYLE OF CAUSE:
+Karen Kennedy and Her Majesty the Queen
+PLACE OF HEARING:
+St. Catharines, Ontario
+DATE OF HEARING:
+June 18, 2002
+REASONS FOR JUDGMENT BY:
+The Honourable Judge M.A. Mogan
+DATE OF JUDGMENT:
+May 15, 2003
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+George Boyd Aitken
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

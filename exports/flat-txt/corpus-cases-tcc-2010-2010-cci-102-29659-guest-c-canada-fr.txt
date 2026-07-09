@@ -1,0 +1,122 @@
+Title: Guest c. Canada
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29659/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-102-29659-guest-c-canada-fr.md
+Document type: case_law
+Last modified: 2010-02-23
+
+# Guest c. Canada
+
+- Citation: 2010 CCI 102
+- Decision date: 2010-02-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6227, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Guest c. Canada
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-02-23
+Référence neutre
+2010 TCC 102
+Numéro de dossier
+2009-1026(IT)I
+Juges et Officiers taxateurs
+Steven K. D'Arcy
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2010 TCC 102
+Date : 20100223
+Dossier : 2009-1026(IT)I
+ENTRE :
+GERALD V. GUEST,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Avocat de l’appelant :
+Me Sean M. Sinclair
+Avocat de l’intimée :
+Me Ken Hawkins
+____________________________________________________________________
+MOTIFS DU JUGEMENT PRONONCÉS ORALEMENT
+(rendus oralement par téléconférence le
+11 février 2010 à Ottawa (Ontario),
+puis modifiés par souci de clarté et d’exactitude.)
+[1] L’appelant, Gerald Guest, a interjeté appel à l’encontre d’une cotisation fiscale pour son année d’imposition 2007. La seule question que la Cour doit trancher est de savoir si l’appelant avait le droit de déduire 1 000 $ à titre de pension alimentaire aux termes de l’alinéa 60b) de la Loi de l’impôt sur le revenu.
+[2] Les faits pertinents ne sont pas contestés. Au cours de l’été 1986, l’appelant a entretenu une relation avec une femme que j’appellerai F. Après la fin de la relation, F a donné naissance à un enfant. L’enfant est né le 9 mars 1987.
+[3] L’appelant et F n’ont jamais cohabité et ne se sont jamais mariés. Un jugement par défaut a été prononcé par la Cour de district de l’État du Maine le 9 juin 1989, déclarant l’appelant père juridique et biologique de l’enfant et lui ordonnant de payer certains frais, y compris des versements de pension alimentaire pour enfant de 25 $ par semaine.
+[4] Pour les besoins des présentes, nous l'appellerons l’« ordonnance du Maine ».
+[5] L’appelant a pris connaissance de l’ordonnance du Maine en juin 2006. À l’époque, il devait approximativement 29 000 $.
+[6] Le 24 juin 2007, le ministère de la Justice de la Saskatchewan émettait une lettre informant l’appelant que l’ordonnance du Maine avait été enregistrée aux fins d’exécution à la Cour du Banc de la Reine de la Saskatchewan.
+[7] Pour les besoins des présentes, nous l'appellerons l’« enregistrement en Saskatchewan ».
+[8] Depuis août 2007, l’appelant a versé 200 $ par mois pour s’acquitter des montants dus aux termes de l’ordonnance du Maine. Il a versé 1 000 $ en 2007. L’appelant a demandé une déduction de 1 000 $ au titre de l’alinéa 60b) de la Loi de l’impôt sur le revenu dans le calcul de son revenu pour l’année d’imposition 2007.
+[9] En établissant la cotisation de l’appelant pour l’année d’imposition 2007, le ministre a refusé la déduction de 1 000 $.
+[10] J’examinerai d’abord le droit applicable à cet égard. L’alinéa 60b) de la Loi de l’impôt sur le revenu précise les montants déductibles pour les pensions alimentaires. L’alinéa a été modifié par le Parlement après l’arrêt de la Cour suprême du Canada dans Thibaudeau c. Canada, [1995] R.C.S. 627. La modification portait élimination du régime d’inclusion/de déduction pour tous les versements de pension alimentaire pour enfants effectués après le 30 avril 1997.
+[11] Le calcul s’effectuait à l’aide de la formule A–(B+C) pour déterminer le montant de la déduction au titre de l’alinéa 60b) où A est défini à l’alinéa 60b) comme désignant certains montants de pension alimentaire payés après 1996; B est défini comme étant certains paiements de pension alimentaire et C, comme étant certains paiements de pension alimentaire déduits par le contribuable pour une année d’imposition antérieure.
+[12] Les deux parties ont admis que les montants versés par l’appelant en 2007 se situaient dans la partie A de la formule. Plus particulièrement, les parties ont reconnu que l’appelant était le parent légal de l’enfant et que les paiements ont été reçus en 2007 aux termes d’une ordonnance d’un tribunal compétent rendue en conformité avec les lois d’une province.
+[13] Toutefois, les parties ne s’entendent pas sur l’inclusion du montant de 1 000 $ dans la partie B de la formule.
+[14] La partie B est définie à l’alinéa 60b) comme étant le total des montants représentant chacun une pension alimentaire pour enfants qui est devenue payable par le contribuable à la personne donnée aux termes d’un accord ou d’une ordonnance à la date d’exécution ou postérieurement et avant la fin de l’année relativement à une période ayant commencé à cette date ou postérieurement.
+[15] L’appelant soutient qu’il n’y a pas de date d’exécution au sens donné à ce terme et que, par conséquent, aucun montant ne figure à B.
+[16] L’intimée soutient que la date d’exécution était le 24 juin 2007, soit le jour où l’ordonnance du Maine a été enregistrée par la Cour du Banc de la Reine de la Saskatchewan et que, partant, le montant de 1 000 $ aurait dû être inclus dans B.
+[17] Le terme « date d’exécution », selon la définition du paragraphe 56.1(4), signifie en partie, si l’accord ou l’ordonnance est établi avant mai 1997, le premier en date des jours suivants, postérieur à avril 1997, y compris le jour précisé aux termes de l’accord ou de l’ordonnance ou d’une modification de celui-ci ou de celle-ci où le montant est à verser pour la première fois et, si l’accord ou l’ordonnance est établi après avril 1997, la date de son établissement.
+[18] La question que la Cour doit trancher est de savoir si l’ordonnance dont il est question dans la définition de la date d’exécution est l’ordonnance du Maine ou l’enregistrement en Saskatchewan.
+[19] Selon l’avocat de l’appelant, l’ordonnance pertinente est l’ordonnance du Maine. Il a soutenu que l’enregistrement par le tribunal en Saskatchewan ne constituait pas une ordonnance. À son avis, la seule ordonnance rendue était le jugement du tribunal du Maine. Il a présenté à la Cour de nombreux cas appuyant sa position.
+[20] L’avocat de l’intimée estimait pour sa part que l’enregistrement au tribunal de la Saskatchewan constituait une ordonnance. Il se fondait sur la formulation du paragraphe 18(1) de la Loi sur les ordonnances alimentaires interterritoriales de la Saskatchewan, ainsi libellé :
+À compter de la date de son enregistrement, l’ordonnance extra-provinciale ou l’ordonnance étrangère produit les mêmes effets que s’il s’agissait d’une ordonnance alimentaire rendue par un tribunal en Saskatchewan.
+[21] Il a allégué qu’en raison de la formulation du paragraphe 18(1), l’ordonnance du Maine n’est pas devenue une ordonnance d’un tribunal compétent conformément aux lois d’une province tant que son enregistrement n’a pas été accepté en Saskatchewan. Il n’a présenté au tribunal aucun cas de jurisprudence appuyant sa position.
+[22] Lorsqu’il a été question de la Loi sur les ordonnances alimentaires interterritoriales de la Saskatchewan, que j’appellerai ici Loi sur l’enregistrement, les deux parties ne se sont reportées qu’à son paragraphe 18(1).
+[23] Par contre, ce paragraphe ne peut être considéré isolément. Il faut tenir compte de la totalité de la Loi sur l’enregistrement.
+[24] Aux termes de la Loi sur l’enregistrement, la personne peut faire enregistrer et exécuter en Saskatchewan une ordonnance ou entente de pension d’un autre territoire.
+[25] L’article 18 précise les effets de l’enregistrement. Le paragraphe 18(1) dispose ainsi :
+À compter de la date de son enregistrement, l’ordonnance extra-provinciale ou l’ordonnance étrangère produit les mêmes effets que s’il s’agissait d’une ordonnance alimentaire rendue par un tribunal en Saskatchewan.
+[26] Le paragraphe 18(2) est ainsi libellé :
+(2) L’ordonnance enregistrée peut :
+a) tant à l’égard des arriérés courus avant l’enregistrement qu’à l’égard des obligations à échoir après l’enregistrement, être exécutée au même titre qu’une ordonnance alimentaire rendue par un tribunal en Saskatchewan;
+b) être modifiée comme le prévoit la présente loi.
+[27] L’article 16 de la Loi sur l’enregistrement définit ainsi l’ordonnance étrangère :
+Ordonnance alimentaire, ordonnance alimentaire provisoire ou ordonnance modifiant une ordonnance alimentaire rendue dans un ressort pratiquant la réciprocité à l’étranger avant la date d’entrée en vigueur de la présente loi ou à compter de cette date, à l’exclusion d’une ordonnance provisionnelle ou d’une ordonnance modificative provisionnelle.
+[28] Aux termes de l’article 2 de la Loi sur l’enregistrement, « ressort pratiquant la réciprocité » est défini comme étant un ressort déclaré comme tel dans les règlements. Les États-Unis sont déclarés ressort pratiquant la réciprocité aux termes du règlement pris sous le régime de la Loi.
+[29] L’alinéa 42(1)a) de la Loi sur l’enregistrement est également pertinent. Il est ainsi libellé :
+Dans une instance introduite sous le régime de la présente Loi :
+a) le tribunal prend connaissance d’office du droit d’un ressort pratiquant la réciprocité et l’applique au besoin;
+[30] Aux termes de l’article 2 et de l’alinéa 42(1)a) de la Loi sur l’enregistrement et des dispositions réglementaires applicables, le tribunal du Maine est un tribunal compétent conformément aux lois d’une province.
+[31] La question que doit trancher la Cour est de savoir si les paiements de pension alimentaire ont été versés aux termes d’une ordonnance rendue en avril 1997 ou postérieurement.
+[32] Ainsi que le rappelait le juge Sexton dans Kennedy c. La Reine, 2004 CAF 437, au paragraphe 13 :
+Il me semble que, même si la définition de « date d'exécution » au paragraphe 56.1(4) aurait pu être plus claire, l'objet de la loi est de faire en sorte que le nouveau régime s'applique aux ordonnances ou aux accords établis après avril 1997 qui créent effectivement de nouvelles obligations. Les obligations créées sous l'ancien régime demeurent assujetties aux anciennes dispositions. C'est ce que confirme d'ailleurs le sous-alinéa b)(ii), qui prévoit que l'accord ou l'ordonnance qui fait l'objet d'une modification après avril 1997 touchant le montant de la pension alimentaire pour enfants crée une nouvelle date d'exécution; dans ce cas, une nouvelle obligation est créée par suite de la modification apportée après avril 1997. Il en est de même du sous-alinéa b)(iii), qui prévoit qu'un accord ou une ordonnance subséquent établi après avril 1997 ayant pour effet de changer le total des montants de pension alimentaire pour enfants crée une date d'exécution.
+[33] Après avoir examiné les dispositions de la Loi sur l’enregistrement, il me semble que celle-ci vise deux fins : tout d’abord, permettre l’exécution d’une ordonnance rendue par un autre ressort et, de plus, permettre la modification de l’ordonnance en question.
+[34] En ce qui a trait à l’ordonnance du Maine, le tribunal de la Saskatchewan ne s’est prévalu que des dispositions concernant l’exécution d’une ordonnance existante. Il a simplement autorisé l’exécution de l’ordonnance rendue par le tribunal du Maine. Il n’a pas rendu de nouvelle ordonnance ni modifié l’ordonnance antérieure.
+[35] Le tribunal de la Saskatchewan a enregistré l’ordonnance du Maine au titre de l’alinéa 18(2)a) de la Loi sur l’enregistrement et a ordonné que les arriérés courus avant l’enregistrement soient appliqués de la même manière que si c’était un tribunal de la Saskatchewan qui avait rendu une ordonnance de pension alimentaire.
+[36] En d’autres termes, il autorisait la réalisation des montants exigibles aux termes du jugement du Maine, c'est‑à‑dire des montants exigés aux termes d’une ordonnance rendue avant mai 1997. Si le tribunal de la Saskatchewan avait souhaité modifier l’ordonnance, il l’aurait alors fait au titre des dispositions de l’alinéa 18(2)b) de la Loi sur l’enregistrement, auquel cas les montants exigibles de l’appelant auraient été payables aux termes d’une ordonnance rendue après avril 1997.
+[37] En bref, les versements de pension alimentaire effectués par l’appelant en 2007 l’ont été conformément à une ordonnance dont la date d’exécution est le 9 juin 1989 et qui a été établie avant mai 1997. Par conséquent, il n’y avait pas de date d’exécution au sens donné à ce terme au paragraphe 56.1(4) de la Loi de l’impôt sur le revenu.
+[38] Les versements de pension alimentaire relevaient donc de l’ancien régime et étaient entièrement déductibles par l’appelant.
+[39] Pour les motifs qui précèdent, l’appel est accueilli avec dépens en faveur de l’appelant et la question est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation en partant du fait que, pour calculer le revenu de l’appelant pour l’année d’imposition 2007, un montant de 1 000 $ doit être déduit aux termes de l’alinéa 60b) de la Loi de l’impôt sur le revenu.
+Juge D'Arcy
+Traduction certifiée conforme
+ce 4e jour de février 2014.
+C. Laroche
+RÉFÉRENCE : 2010 TCC 102
+NO DU DOSSIER DE LA COUR : 2009-1026(IT)I
+INTITULÉ : GERALD V. GUEST ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Ottawa (Ontario)
+DATE DE L’AUDIENCE : Le 11 février 2010
+MOTIFS DU JUGEMENT : L’honorable juge Steven K. D'Arcy
+DATE DU JUGEMENT : LE 23 FÉVRIER 2010
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Sean M. Sinclair
+Avocat de l’intimée :
+Me Ken Hawkins
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant : Sean M. Sinclair
+Robertson Stromberg Pedersen LLP
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

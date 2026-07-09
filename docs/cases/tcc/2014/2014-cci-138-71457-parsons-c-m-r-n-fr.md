@@ -1,0 +1,141 @@
+---
+title: "Parsons c. M.R.N"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/71457/index.do"
+last_modified: "2014-05-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 138"
+citation2: ""
+neutral_citation: "2014 CCI 138"
+decision_date: "2014-05-07"
+language: "fr"
+item_id: "71457"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5300
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:58:26.706000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e88b9587588d615f0b40f4807c45c62d09d2b3bc0863bbb9a6f410d3a9e0c05a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Parsons c. M.R.N
+
+- Citation: 2014 CCI 138
+- Decision date: 2014-05-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5300, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Parsons c. M.R.N
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-05-07
+Référence neutre
+2014 CCI 138
+Numéro de dossier
+2013-3143(EI)
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2013-3143(EI)
+ENTRE :
+LEWIS PARSONS,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 14 avril 2014, à St. John’s (Terre‑Neuve‑et‑Labrador).
+Devant : L’honorable juge Diane Campbell
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimé :
+Me Devon E. Peavoy
+JUGEMENT
+L’appel est rejeté, sans frais, et la décision du ministre est ratifiée.
+Signé à Ottawa, Canada, ce 7e jour de mai 2014.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 4e jour de juin 2014.
+Alya Kaddour‑Lord, traductrice
+Référence : 2014 CCI 138
+Date : 20140507
+Dossier : 2013-3143(EI)
+ENTRE :
+LEWIS PARSONS,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Campbell
+[1] Cet appel porte sur la triste aventure de deux particuliers, qui étaient amis depuis le milieu des années 80, mais dont les chemins se sont séparés en 2012, quand ils se sont querellés au sujet de questions relatives à des transferts de biens et à un emploi. Ils continuent d’habiter sur des terrains adjacents, mais quand ils se sont rencontrés en personne à l’occasion de l’audition du présent appel, c’était la première fois depuis plusieurs années qu’ils avaient un contact.
+[2] Il s’agit d’une affaire d’assurance-emploi inhabituelle. Même après avoir longuement entendu les déclarations tant de l’appelant que de Randy Dawe, propriétaire de Maple Leaf Oil Distributors Limited (le « payeur »), je ne suis toujours pas certaine de savoir ce qui s’est exactement passé entre eux. Toutefois, je suis certaine que la vérité se cache quelque part dans la zone grise qui se trouve entre les deux histoires qu’ils ont racontées à la Cour.
+[3] L’intimé a établi que l’appelant n’occupait pas un emploi assurable auprès du payeur au sens de l’alinéa 5(1)a) de la Loi sur l’assurance‑emploi (la « Loi ») pendant la période allant du 2 janvier 2012 au 9 mars 2012. Le payeur n’était pas un intervenant dans le présent appel. M. Dawe a témoigné pour le compte de l’intimé, après avoir été assigné à comparaître.
+Le témoignage de l’appelant, Lewis Parsons [4] En juin 2011, M. Parsons et M. Dawe ont conclu une transaction immobilière par laquelle M. Parsons a convenu de vendre à M. Dawe une parcelle d’angle située sur la parcelle plus large dont il était propriétaire. M. Dawe a bâti une maison sur cette parcelle d’angle et c’est là qu’il habite aujourd’hui. Le prix d’achat de cette parcelle était de 20 000 $. M. Parsons a prétendu qu’il avait travaillé pour Randy Dawe, propriétaire du payeur constitué en société. Le payeur était également propriétaire du motel Silverwood Inn, situé à Bay Roberts, à Terre‑Neuve‑et‑Labrador. M. Parsons a déclaré que M. Dawe et lui avaient conclu un accord verbal selon lequel l’appelant faisait des travaux de peinture et divers autres travaux à l’hôtel au cours d’une semaine de travail de 45 heures, et qu’il était rémunéré au taux horaire de 13 $.
+[5] Selon M. Parsons, l’entente relative à la vente d’une parcelle à M. Dawe prévoyait en partie que cette vente était conditionnelle au fait que M. Dawe l’emploierait pendant la période en cause. La méthode de paiement à laquelle ils ont eu recours était inusitée. M. Dawe a remis à l’appelant sa carte de crédit personnelle et, selon les déclarations qu’il a faites lors du contre‑interrogatoire, l’appelant avait l’autorisation d’utiliser cette carte comme il le jugeait bon. M. Parsons s’est servi de cette carte pour effectuer des achats, comme par exemple pour acheter des téléviseurs pour le compte du payeur, pour l’hôtel, et aussi pour acheter des matériaux de construction pour un bâtiment qu’il construisait sur son propre terrain, lequel était voisin de la parcelle qu’il avait convenu de vendre à M. Dawe. Il est aussi ressorti de la preuve que M. Dawe s’était servi de cette même carte de crédit pour effectuer des achats aux fins de la construction de la maison qu’il bâtissait sur la parcelle qu’il achetait de l’appelant. À la fin du mois, quand les relevés arrivaient, ils faisaient apparemment le tri des entéres et établissaient de quels achats ils étaient chacun responsables, et M. Dawe obtenait un crédit sur le prix d’achat de 20 000 $ qu’il devait à l’appelant au titre de l’achat de la parcelle. M. Parsons a déclaré que, au bout du compte, il avait reçu entre 9 000 $ et 10 000 $ en espèces sur le prix d’achat, le solde du prix d’achat correspondant à la valeur monétaire des matériaux de construction qu’il avait achetés pour son propre usage avec la carte de crédit de M. Dawe. L’appelant a affirmé qu’il n’avait reçu ni talons de paie ni relevés d’emploi du payeur. L’appelant a déclaré que son horaire de travail était flexible parce qu’il pouvait travailler quand il le souhaitait. Il n’a jamais fait le compte de ses heures de travail par écrit. Il savait que son salaire faisait l’objet de déductions parce qu’il le déposait lui‑même à la banque et remettait les documents estampillés par la banque à M. Dawe. Aux dires de l’appelant, M. Dawe et lui ont discuté de l’achat d’une seconde parcelle pendant la période postérieure à la période en cause, entente selon laquelle M. Dawe devait acheter une seconde parcelle, adjacente à la première qu’il avait achetée à l’appelant. Toutefois, cette entente ne s’est jamais concrétisée.
+Le témoignage de Randy Dawe [6] Pendant la période en cause, le payeur effectuait des travaux de tenue de la comptabilité pour le compte d’un petit nombre de personnes, effectuait certains travaux de construction et exploitait également le motel Silverwood Inn. L’appelant et M. Dawe ont été amis pendant de nombreuses années. M. Dawe voulait se construire une maison. L’appelant et lui ont conclu une convention d’achat‑vente (pièce R‑3) datée du 23 juin 2011. M. Dawe ne disposait pas de la somme en espèces de 20 000 $ pour acheter la parcelle à M. Parsons. Ce dernier a convenu que M. Dawe paierait le prix d’achat en partie en espèces, et en partie en lui fournissant certains matériaux de construction pour une maison qu’il bâtissait lui aussi sur son terrain.
+[7] M. Dawe a confirmé que le témoignage que l’appelant avait donné au sujet de l’utilisation de sa carte de crédit était exact. Il a ajouté que l’appelant ne s’était pas servi de sa carte de crédit de manière abusive. Toutefois, il ne souscrivait pas aux déclarations de l’appelant selon lesquelles l’achat de la parcelle en question était conditionnel au fait qu’il emploie l’appelant. Un addenda daté du 3 octobre 2011 à la convention d’achat-vente datée du 23 juin 2011 a été déposé sous la cote R‑4. Entre juin 2011 et octobre 2011, l’appelant et M. Dawe ont continué de construire leur maison et d’aller et de venir comme d’habitude. M. Dawe a déclaré que l’appelant avait continué de se servir de sa carte de crédit. Quelque temps après le mois d’octobre, l’appelant a rendu la carte à M. Dawe et est allé en Ontario; il est revenu au début janvier 2012. M. Dawe a alors remis la carte de crédit à l’appelant une seconde fois parce qu’il ne disposait pas de la somme en espèces qui lui était nécessaire pour régler le solde du prix d’achat de la parcelle qu’il devait encore à l’appelant. Toutefois, il a ajouté qu’il lui semblait que, au début du mois de janvier 2012, il avait payé la totalité des 20 000 $ qu’il devait pour la parcelle, tant par des espèces qu’au moyen des achats que l’appelant avait effectués avec sa carte de crédit. Quand il a demandé à ce dernier de lui rendre la carte de crédit, M. Parsons s’est exécuté. Toutefois, quelques jours plus tard, l’appelant lui a fait savoir qu’il avait encore quelques achats à effectuer et qu’il souhaitait utiliser la carte de crédit de nouveau. M. Dawe a déclaré que, quand il a demandé à l’appelant pourquoi il lui redonnerait la carte de crédit alors qu’il lui semblait qu’il avait payé la totalité des 20 000 $, lui et l’appelant étaient encore amis et avaient convenu de se partager la remise sur les matériaux, et ce, bien que M. Dawe ne pensât pas que l’appelant ait droit à quelque remise que ce soit. La carte a apparemment était rendue à M. Dawe pour une période de 10 jours, au cours de laquelle l’appelant a effectué deux achats de plus pour son propre compte.
+[8] M. Dawe a déclaré que, à la fin du mois de septembre ou au début du mois d’octobre 2011, l’appelant avait commencé à parler de lui vendre une seconde parcelle de terre, affirmant qu’il lui ferait faire une [traduction] « bonne affaire ». M. Dawe a déclaré qu’il avait répondu à l’appelant qu’il avait besoin d’aide pour terminer la construction de sa maison et que, si l’appelant effectuait le travail pour lui/sa société et acceptait un chèque, il achèterait cette seconde parcelle, bien qu’il ne soit pas vraiment intéressé. Leur discussion n’est jamais parvenue à l’étape de la définition d’un prix d’achat. M. Dawe a déclaré qu’ils n’étaient jamais parvenus à une entente au sujet de l’emploi. Selon les déclarations de M. Dawe, jusqu’au 22 janvier 2012, l’appelant n’a jamais travaillé pour lui, et il a engagé quelqu’un d’autre pour l’aider à construire sa maison. Il a ensuite ajouté que l’appelant avait en fait bien travaillé pour lui pendant sept à dix jours, pendant la première moitié du mois de février 2012. Il a déclaré qu’il s’agissait alors d’un emploi assurable, mais qu’il se rapportait à la période postérieure à la période en cause. Il a déclaré que l’appelant lui devait de l’argent du fait des deux achats additionnels que celui‑ci avait fait avec la carte de crédit en janvier 2012.
+Analyse [9] Quelle conclusion puis‑je tirer, s’il est seulement possible de tirer une conclusion, de la preuve qui m’a été présentée? J’ai devant moi deux amis de longue date, qui habitent des maisons voisines, mais qui ne s’adressent plus la parole. Ils ont bien conclu une entente relative à l’achat du bien par M. Dawe pour la somme de 20 000 $, comme le montrent la convention d’achat-vente et l’addenda. Durant cette période, ils construisaient tous les deux des maisons voisines. Ils ont eu recours à une méthode de paiement inhabituelle à l’égard du prix d’achat, en se servant de la carte de crédit de M. Dawe, ce qui a permis à l’appelant d’acheter des matériaux de construction pour sa propre maison et à M. Dawe de déduire ces sommes des 20 000 $ qu’il devait à l’appelant. Ils ont eu des discussions et sont peut-être parvenus à une entente au sujet du fait que M. Dawe emploierait l’appelant comme homme à tout faire à son hôtel et pour la construction de sa maison. Quelle qu’ait été la nature de cette entente, la relation s’est détériorée au point que l’appelant a refusé de passer l’acte de transfert du terrain sur lequel M. Dawe a construit sa maison, question qui fait actuellement l’objet d’un litige distinct devant les tribunaux de Terre‑Neuve‑et‑Labrador.
+[10] Les souvenirs que l’appelant et M. Dawe avaient des échanges qu’ils avaient eus au sujet de l’entente relative à l’emploi étaient si différents qu’on peut se demander s’ils ne faisaient pas référence à des périodes distinctes. L’appelant n’a pas démordu du fait qu’ils avaient conclu un accord verbal, concernant la période en cause, selon lequel M. Dawe l’employait comme homme à tout faire pendant environ 40 à 45 heures par semaine au taux horaire de 13 $. Il pensait qu’il avait régulièrement déposé ses déductions à la banque et remis des documents estampillés par la banque à M. Dawe. Pour sa part, M. Dawe a affirmé qu’il n’avait jamais eu de discussion avec l’appelant au sujet d’un emploi relativement à la période en cause. Il a admis que l’appelant déposait à la banque les sommes à déduire, mais il a affirmé que ces sommes avaient trait à l’emploi que M. Dawe occupait auprès du payeur. Toutefois, je me demande pourquoi l’appelant effectuait cette tâche, si ce n’est parce qu’il travaillait comme homme à tout faire pour M. Dawe. Je ne dispose d’aucun élément de preuve, preuve orale ou documentaire, susceptible d’appuyer le fait que des sommes ont bien été versées à l’appelant à titre de salaire. Je ne dispose ni de chèques oblitérés ni de relevé d’emploi, et rien dans les relevés de carte de crédit ne donne à entendre qu’un salaire a été versé. Il n’y a pas non plus d’éléments concrets dans la preuve dont j’ai été saisie qui me permettrait de conclure que des travaux ont été effectués. Il se peut que des travaux aient été effectués, mais le contraire est tout aussi plausible. Il est également possible qu’il se soit agi d’une entente artificielle, comme l’intimé l’a allégué dans la réponse. M. Dawe a déclaré que la question d’un emploi potentiel n’a été soulevée que lorsque l’appelant lui a offert de lui vendre la deuxième parcelle, mais il a ajouté que l’appelant ne s’était jamais présenté au travail, tout en s’attendant à recevoir un chèque de paie. Quoi qu’il en soit, ces évènements se sont produits après la période en cause. J’ai été saisie d’une preuve si contradictoire que je ne peux pas en tirer de conclusions. Les déclarations de chaque témoin étaient tellement entachées de leur passé émotionnel et de la fin de leur amitié sur une période de plusieurs années que je ne considère aucune des versions des évènements données par les témoins comme étant complètement crédible. La vérité reste cachée quelque part, à mi‑chemin entre leurs récits respectifs des évènements. Bien que ce point n’ait pas été soulevé au cours de l’audience, j’ai des raisons de croire que l’origine d’un bon nombre des différends qui opposent ces parties se trouve dans la déclaration suivante, ajoutée, presque comme une réflexion après coup, à la fin de l’avis d’appel de M. Parsons : [traduction] « Il s’agit d’un problème personnel qui nous a opposés et qui avait trait à sa copine ».
+[11] À l’époque où il a rédigé la réponse à l’avis d’appel, le ministre ne disposait que de peu de faits sur lesquels fonder ses hypothèses, en raison du manque de participation des deux parties au processus d’appel. M. Dawe a déclaré qu’il n’avait pas tenu compte de demandes de l’Agence du revenu du Canada et qu’il avait refusé de remplir un questionnaire qui lui avait été envoyé. En fait, il a reconnu qu’il n’avait ouvert la lettre contenant le questionnaire qu’au début de la semaine au cours de laquelle l’audience devait se tenir. L’avocate de l’intimé a admis dans ses observations que les faits allégués dans la réponse étaient véritablement [traduction] des « hypothèses ». M. Dawe a probablement été assigné à comparaître par l’intimé dans l’espoir qu’il aiderait la Cour à définir le véritable contexte des relations qu’il avait avec l’appelant pendant l’époque en cause. Toutefois, le témoignage de M. Dawe a simplement souligné la nature véritablement divergente et vague de leurs souvenirs à l’égard des évènements qui se sont produits entre eux. Vu que je ne suis pas en mesure de tirer de conclusion de l’écheveau des histoires que j’ai entendues, et vu qu’aucun témoin ne s’est montré convaincant, les hypothèses de fait du ministre n’ont pas été réfutées. L’appel est rejeté, sans frais.
+Signé à Ottawa, Canada, ce 7e jour de mai 2014.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 4e jour de juin 2014.
+Alya Kaddour‑Lord, traductrice
+RÉFÉRENCE :
+2014 CCI 138
+NO DU DOSSIER DE LA COUR :
+2013-3143(EI)
+INTITULÉ :
+Lewis Parsons c. Le ministre du Revenu national
+LIEU DE L’AUDIENCE :
+St. John’s (Terre‑Neuve‑et‑Labrador)
+DATE DE L’AUDIENCE :
+Le 14 avril 2014
+MOTIFS DU JUGEMENT :
+L’honorable juge Diane Campbell
+DATE DU JUGEMENT :
+Le 7 mai 2014
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimé :
+Me Devon E. Peavoy
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+s.o.
+Cabinet :
+Pour l’intimé :
+William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada

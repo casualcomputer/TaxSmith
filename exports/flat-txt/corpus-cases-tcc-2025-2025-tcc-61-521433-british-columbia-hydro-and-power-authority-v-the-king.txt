@@ -1,0 +1,288 @@
+Title: British Columbia Hydro and Power Authority v. The King
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521433/index.do
+Corpus path: corpus/cases/tcc/2025/2025-tcc-61-521433-british-columbia-hydro-and-power-authority-v-the-king.md
+Document type: case_law
+Last modified: 2025-04-29
+
+# British Columbia Hydro and Power Authority v. The King
+
+- Citation: 2025 TCC 61
+- Decision date: 2025-04-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6112, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+British Columbia Hydro and Power Authority v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2025-04-29
+Neutral citation
+2025 TCC 61
+File numbers
+2020-1909(GST)G
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2020-1909(GST)G
+BETWEEN:
+BRITISH COLUMBIA HYDRO AND POWER AUTHORITY,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on November 25 and 26, 2024,
+at Vancouver, British Columbia
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+Counsel for the Appellant:
+Amy M. Nathanson
+Counsel for the Respondent:
+Shannon Fenrich
+Anita Balakumar
+Jun Choi
+JUDGMENT
+WHEREAS the Court has published its reasons for judgment in this appeal on this date;
+NOW THEREFORE THIS COURT ORDERS THAT:
+The appeal from an assessment made under the Excise Tax Act dated June 9, 2022 in respect of the reporting period March 1, 2012 to March 31, 2012 is dismissed because the provisions of subsection 182(1) do not apply to the payment of $8,500,000 made by the Appellant under section 22 of the Amended and Restated Electricity Purchase Agreement dated September 30, 2009; and,
+Costs are provisionally awarded to the Respondent in accordance with the applicable Tariff, subject to the right of the Respondent to make further written submissions within 30 days of this judgment and the Appellant’s right to respond thereto within 30 days thereafter to any written submissions, all submissions not to exceed 10 pages (excluding authorities); provided that should no submissions be made, this provisional cost order shall become final.
+Signed at Winnipeg, Manitoba this 29th day of April 2025.
+“R.S Bocock”
+Bocock J.
+Citation: 2025 TCC 61
+Date: 20250428
+Docket: 2020-1909(GST)G
+BETWEEN:
+BRITISH COLUMBIA HYDRO AND POWER AUTHORITY,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Bocock J.
+I. Introduction, Facts and Issues [1] This appeal concerns the Minister’s disallowance of a single, significant input tax credit (“ITC”) in the amount of $910,517 under the Excise Tax Act (“ETA”). The ITC arose through sequenced agreements, amendments and terminations. Most of the critical facts are not in dispute; the facts were the subject of a thorough partial agreed statement of facts, summarized below.
+The Appellant: a province-wide utility [2] The Appellant (“BC Hydro”) is a corporation under the Hydro and Power Authority Act R.S.B.C. 1996, c. 212 and is a Goods and Services Tax/Harmonized Sales Tax (“GST/HST”) registrant.
+BC Hydro’s business [3] BC Hydro assures a sufficient supply of electricity to meet domestic demand in British Columbia. It generates power from its own resources and also by acquiring power from third parties.
+[4] BC Hydro plans the energy and capacity needs of BC customers in several ways: by forecasting load and determining key values for energy procurement; understanding and managing current power supply; and, acquiring any energy and capacity needed to meet the projected shortfalls.
+[5] To do that, BC Hydro frequently uses private sector independent power producers to build new, competitive power generation in BC. BC Hydro did just that in this appeal.
+An example: August 2006 call for power bid process [6] As a result of a bid process, on August 31, 2006, BC Hydro entered into four electricity purchase agreements (“EPAs”) with Canadian Hydro Developers Inc. (“CHD”). Each EPA involved four separate locations and projects: Bone Creek, Clemina Creek, English Creek and Serpentine Creek. All the EPAs were subsequently substantially amended or terminated.
+Before Bone Creek operates, CHD assigns its interest [7] The Bone Creek EPA set out a guaranteed Commercial Operation Date (“COD”) of October 1, 2009. Just as it sounds, the COD was the date when the Bone Creek generator provided electricity for distribution to and use by consumers.
+[8] On August 16, 2007, CHD assigned its interest in all four EPAs to Valisa Energy Incorporated (“Valisa”), a wholly owned subsidiary of CHD. To do so, the parties signed an assignment and assumption agreement. BC Hydro consented to the assignment to Valisa.
+The various Bone Creek EPA amendments [9] On July 31, 2009, Valisa, the assignee, and BC Hydro executed Amendment Agreement No. 1 (the “Amending Agreement”), in order to amend the Bone Creek EPA.
+[10] On August 6, 2009, BC Hydro's Board of Directors authorized an officer to effect agreements to amend the Bone Creek EPA in order to do two things: i) to provide BC Hydro with an option to extend the term by 16 years; and, ii) to terminate the Clemina, Serpentine and English Creek EPAs and related facility agreements with BC Hydro and related entities including the BC Utilities Commission (“BCUC”).
+Restructuring Agreement and terms applicable to all four EPAs [11] On September 30, 2009, CHD, Valisa and BC Hydro entered into an omnibus agreement: the EPA Restructuring Agreement (the “Restructuring Agreement”) which altered the legal rights for all four locations.
+[12] Under the Restructuring Agreement, the parties agreed to terminate various agreements and inoculate both parties against the harsh effects of certain provisions operable upon termination. As such, Valisa and BC Hydro agreed, among other things, to:
+i)terminate the Amending Agreement (paragraph 9 above);
+ii)amend and restate the Bone Creek EPA;
+iii)amend the EPA for English Creek such that section 14.5(a) would be amended by replacing the phrase “the Seller shall pay to the Buyer an amount equal to $10,000 MW multiplied by Plant Capacity” with the words “no Termination Amount is payable by the Seller to the Buyer, or by the Buyer to the Seller”;
+iv)Clause 6 of the Restructuring Agreement provided that upon execution of the Agreement by both parties, BC Hydro would promptly file the Restructuring Agreement, including the Amended and Restated Bone Creek EPA, with BCUC for acceptance by BCUC its own enabling legislation; and,
+v)Otherwise terminate the EPAs for Clemina Creek, English Creek and Serpentine Creek.
+Optional term extension specific to Bone Creek [13] On September 30, 2009, Valisa and BC Hydro entered into a further document: the “Amended and Restated Electricity Purchase Agreement” (the “AR EPA”) specifically concerning Bone Creek.
+[14] The AR EPA added a new section 22 which set out the terms for an optional term extension (the “Optional Term Extension”). The Optional Term Extension provided BC Hydro with the option to extend the term of the AR EPA for an additional period of 16 years. To exercise the Optional Term Extension, BC Hydro would give written notice of its election to extend the term, with notice to be delivered to Valisa no later than the 20th anniversary of the COD. Appendix 3, the operation terms, to the AR EPA would continue to apply during the Optional Term Extension.
+Payment of upon operation [15] Section 2.2(d) of the AR EPA provides that within 30 days following COD, BC Hydro (buyer) would pay to Valisa (seller) the sum of $8,500,000 (the “Payment”) in consideration of the opportunity provided to BC Hydro to extend the Term for a period of up to 16 years.
+[16] On January 25, 2010, BC Hydro submitted materials to the BCUC seeking approval for the EPA Restructuring Agreement and the AR EPA. On March 26, 2010, the BCUC ordered that the AR EPA be accepted pursuant to its enabling legislation.
+[17] The AR EPA set out a guaranteed COD of October 1, 2011 which for the Bone Creek project occurred slightly earlier in May 2011.
+How, when and why the GST/HST was initially paid [18] Initially, and in contrast to its present position, BC Hydro determined that the Optional Term Extension provided it a benefit of approximately $8,700,000. In August 2009, BC Hydro's understanding was that CHD had spent approximately $1 million to develop the English Creek Project, a project terminated by the Restructuring Agreement. On October 21, 2009, CHD was acquired by 1478860 Alberta Ltd., wholly owned by TransAlta Corp. On June 15, 2011, notwithstanding that Valisa had not yet issued an invoice to BC Hydro in respect of the $8.5 million Payment for the Optional Term Extension, BC Hydro paid Valisa the sum of $9,520,000, now including the added GST. At the time the Payment and GST/HST were paid, Valisa was a registrant under the ETA.
+Recipient queried why GST/HST? [19] Shortly after BC Hydro made the Payment plus the GST/HST, TransAlta Corp. queried why the GST/HST amount had been added to the Payment. BC Hydro then reversed its view and advised TransAlta Corp. that the GST/HST had been paid in error and requested that it be refunded. TransAlta Corp. refunded the $1,020,000 GST/HST to BC Hydro.
+Back and forth on GST/HST: to be added or included in the Payment? [20] The see-saw continued despite repayment. From June 2011 to December 2011, BC Hydro and TransAlta Corp. further debated who should be liable for the GST/HST payment and how it should be calculated.
+[21] As early as July of 2011, BC Hydro was considering whether section 182 of the ETA applied to the Payment. In September of 2011, BC Hydro had received tax advice from outside legal counsel that “[o]n balance, therefore, BC Hydro has a reasonably strong basis for arguing that section 182 applies to the payment made to Valisa”. This opinion is included solely to explain BC Hydro’s equivocation. In October 2011, BC Hydro informed TransAlta Corp. that BC Hydro would be claiming an “included” ITC under section 182 of the ETA with respect to the Payment.
+TransAlta invoices an added GST/HST amount [22] TransAlta Corp. disagreed, reflecting its position in writing. It sent BC Hydro an invoice in the amount of $1,020,000 dated December 2, 2011 representing the outstanding GST/HST portion of the Payment (the “First Invoice”). In response to the First Invoice, BC Hydro requested that TransAlta Corp. re-submit a revised invoice in order to comply with the Input Tax Credit Information (GST/HST) Regulations. On reflection, BC Hydro then relented and on December 3, 2011, BC Hydro paid Valisa $1,020,000 on account of GST/HST calculated upon the full Payment. On December 6, 2011, TransAlta Corp. resubmitted the invoice in the amount of $1,020,000 representing the GST/HST portion of the Payment.
+Two ITCs claimed, in different amounts on the same payment [23] BC Hydro claimed two ITCs in respect of the Payment. BC Hydro claimed an ITC in the amount of in its December 2011 GST/HST return with respect to the December 3, 2011 payment which calculated GST/HST upon the full amount: $1,020,000. The Minister of National Revenue allowed an ITC in the amount of $1,020,000 with respect to BC Hydro's December 2011 GST/HST return.
+[24] BC Hydro then also claimed an ITC in the amount of $910,517 in its March 2012 GST/HST return, as an inclusive GST/HST amount on the $8.5 million Payment. BC Hydro relied upon the deeming rules pursuant to section 182 of the ETA. The Minister disallowed the March 2012 ITC. Hence, the dispute and this appeal.
+II. The Law (a) Statute [25] The relevant excerpted and emphasized sections of the ETA are, as follows:
+DIVISION I
+Interpretation
+Definitions
+123 (1) In section 121, this Part and Schedules V to X,
+[… ]
+property means any property, whether real or personal, movable or immovable, tangible or intangible, corporeal or incorporeal, and includes a right or interest of any kind, a share and a chose in action, but does not include money; (bien)
+[… ]
+supply means, subject to sections 133 and 134, the provision of property or a service in any manner, including sale, transfer, barter, exchange, licence, rental, lease, gift or disposition; (fourniture)
+taxable supply means a supply that is made in the course of a commercial activity; (fourniture taxable)
+[… ]
+DIVISION II
+Goods and Services Tax
+SUBDIVISION A
+Imposition of Tax
+Imposition of goods and services tax
+165 (1) Subject to this Part, every recipient of a taxable supply made in Canada shall pay to Her Majesty in right of Canada tax in respect of the supply calculated at the rate of 5% on the value of the consideration for the supply.
+[… ]
+Forfeiture, extinguished debt, etc.
+182 (1) For the purposes of this Part, where at any time, as a consequence of the breach, modification or termination after 1990 of an agreement for the making of a taxable supply (other than a zero-rated supply) of property or a service in Canada by a registrant to a person, an amount is paid or forfeited to the registrant otherwise than as consideration for the supply, or a debt or other obligation of the registrant is reduced or extinguished without payment on account of the debt or obligation,
+(a) the person is deemed to have paid, at that time, an amount of consideration for the supply equal to the amount determined by the formula
+(A/B) × C
+(b) Some Observations re: Application of HST and Subsection 182(1) (i) Overarching Framework of s.165 of ETA [26] Section 165 of the ETA imposes a consumption tax on all taxable supplies subject to any exceptions set out in Part IX of the ETA. Section 165 is found in Subdivision A of Division II of Part IX of the ETA, which relates to the imposition of GST/HST.
+[27] A taxable supply is defined in section 123(1) of the ETA as “a supply that is made in the course of a commercial activity”.
+[28] Finally, “property” is defined in section 123(1) as including “any property, whether real or personal, movable or immovable, tangible or intangible, corporeal or incorporeal, and includes a right or interest of any kind, a share and a chose in action, but does not include money”.
+III. The Issues [29] The critical issues before the Court are:
+i)whether the Payment for the Optional Term was a distinct taxable supply per se within the meaning of subsection 165(1) of the ETA quite apart from anything else; and,
+ii)if not a distinct taxable supply caught by subsection 165(1), then whether:
+a)the AR ESA was a modification of the original ESA; and,
+b)if a modification, whether all the other conditions of s.182(1) have been met.
+What the parties agree upon if subsection 165(1) is not appliable [30] Quite apart from the dispute of whether subsection 165(1) provides a complete answer, the parties otherwise agree that there are eight conditions for the section 182 special rule of the ETA to apply. If the conditions are met, the Payment made by the recipient to a supplier is deemed to have included GST/HST. The parties differ on whether two of the component conditions are satisfied, as noted below. The conditions agreed and disputed are below. Does the supply:
+i)[arise] as a consequence of a breach, modification or termination of an agreement; (the Respondent says this condition is not satisfied);
+ii)[concern] a breach, modification or termination which occurred after 1990; (satisfied);
+iii)[involve] an agreement which must be for the making of a taxable supply, other than a zero-rated supply, of property or a service in Canada; (satisfied);
+iv)[represent] an amount that is paid or forfeited to a registrant; (satisfied);
+v)[where] a registrant payee is the maker of the supply; (satisfied);
+vi)[concern a situation] where the amount is paid otherwise than as a consideration for the supply; (the Respondent says this condition is not satisfied);
+vii)[concern a situation] where the amount is not an additional amount charged because the consideration for the supply was not paid within a reasonable period to which section 161 of the ETA applies; (satisfied); and,
+viii)[concern a situation] where the amount is not one charged by one railway corporation to another as or on account of a penalty for failure to return rolling stick within a stipulated time, nor is it an amount paid or forfeited as or on account of demurrage. (satisfied).
+IV. The Parties’ Positions BC Hydro’s Position in detail
+The Payment was not for a separate taxable supply [31] Section 2.2(d) of the AR EPA provides that within 30 days following, and subject to the occurrence of COD, BC Hydro shall pay to the Seller the sum of $8,500,000 in consideration for the opportunity provided to BC Hydro to extend the Term pursuant to section 2.2(a) (the “Payment”).[1]
+[32] Under the terms of the AR EPA, BC Hydro was required to make the Payment if Bone Creek reached COD, regardless of whether it exercised its right to extend the term of the AR EPA.
+[33] The Payment was not refundable if BC Hydro decided not to purchase electricity during the extended term of the AR EPA granted under the Optional Term Extension. However, if BC Hydro wished to purchase electricity during the extended term, but CHD (Valisa) was not able to provide electricity during the full extension term, CHD (Valisa) would repay BC Hydro a pro rata amount referable to the lesser duration of the electricity supply term extension under the AR EPA.[2]
+BC Hydro: the AR EPA is a modification of the Bone Creek EPA [34] BC Hydro and CHD simply amended the Bone Creek EPA, and while they used a full AR EPA rather than a narrative amending agreement; it was not their intention to create a new agreement and render the Bone Creek EPA null and void. This is supported because:
+a)BC Hydro and CHD repeatedly referred to “amending” the Bone Creek EPA;
+b)After the AR EPA was approved by the BCUC, both BC Hydro and TransAlta often referred simply to the “EPA”, the name of the original agreement;
+c)Ms. Lui, who testified at the hearing, indicated that she considered the AR EPA to be the same as the Bone Creek EPA, which is why she sometimes referred to the AR EPA as simply the “EPA”;
+d)Clause 7 of the Restructuring Agreement identified that if the AR EPA was not approved by the BCUC, the original Bone Creek EPA, in its original form prior to the Restructuring Agreement, would be in force; and,
+e)CHD asked BC Hydro for a comfort letter in the event the BCUC did not accept the AR EPA because it would be subject to previous form of the Bone Creek EPA.
+[35] The foregoing examples are a clear indicator of the objective intention of the parties because they are the words chosen by the parties when agreeing.
+[36] Further, BC Hydro argues that an agreement continues unless the amendment results in a material alteration to the contractual relationship:
+“… An alteration is deemed material if it alters the obligations created by the instrument, it gives a different legal character to the agreement, or would change the nature of the relations between the parties; it is material if it varies “the legal position of the parties or the legal incidence of the instruments.”[3]
+[37] An alteration is considered material if it varies the legal position of the parties or the legal incidents of the instruments.[4]
+[38] The inclusion of the Optional Term Extension clause in the AR EPA and the additional amendments pertaining to the term extension security were not material changes to the Bone Creek EPA.
+[39] A complete list of the amendments in the AR EPA are set out in an August 19, 2011 memo.[5] These amendments include:
+a)Addition of clause 2.2 (the Optional Term Extension);
+b)Addition of subsection 15.8 requiring Valisa make a payment for network upgrade costs;
+c)Addition of s. 159 regarding the term extension security; and,
+d)Changing the guaranteed COD to November 1, 2011.
+BC Hydro: Subsection 182(1) applies [40] In interpreting subsection 182(1) of the ETA, BC Hydro’s counsel notes it is a single sentence. When analyzing this provision, it must be treated as a single and complete rule. In all cases where the words “the supply” are used following the words “a taxable supply” in the same sentence, the words “the supply” refer to a “taxable supply”.
+[41] A guiding principle of statutory interpretation is that the words of an Act are to be read in their entire context, in their grammatical and ordinary sense harmoniously with the scheme of the Act and the intention of Parliament.[6] Tax legislation is subject to these same principles of statutory interpretation and construction.[7]
+[42] BC Hydro states that the starting point to statutory interpretation is the ordinary meaning rule, which has been applied as consisting of the following propositions:
+a)It is presumed that the ordinary meaning of a legislative text is the meaning intended by the legislature. In the absence of a reason to reject it, the ordinary meaning prevails;
+b)Even if the ordinary meaning is plain, courts must take into account the full range of relevant contextual considerations including purpose, related provisions in the same and other Acts, legislative drafting conventions, presumptions of legislative intent, absurdities to be avoided and the like; and,
+c)In light of these considerations, the court may adopt an interpretation that modifies or departs from the ordinary meaning, provided the interpretation adopted is plausible and the reasons for adopting it are sufficient to justify the departure from ordinary meaning.[8]
+[43] The characterization of the Payment as consideration for the granting of a right, namely the right to extend the term, does not preclude the Payment as payment for a modification of the original EPA. The right to extend was not in the original EPA, so its subsequent inclusion in the AR EPA was a modification of the original Bone Creek EPA.
+[44] Even if the Optional Term Extension can be considered a new supply under the AR EPA, and this appeal has brought to light a consequence of the current wording of s. 182 that the Minister disagrees with (i.e. s. 182 applying to a payment made as a consequence of an amendment that also adds a new supply to the agreement), this is an issue that must be addressed through an amendment to the legislation. The Minister is not entitled to deny BC Hydro’s ITC and invoke a self-help remedy by reading different words into the legislation.
+Disputed Condition 1: as a consequence of a modification [45] Under subsection 182(1) of the ETA, the payment, forfeiture or extinguishment of indebtedness must arise “as a consequence of” the breach, modification or termination of an agreement to make a taxable supply (other than a zero-rated supply) of property or a service. Only modification is relevant in this appeal.
+[46] The AR EPA is an agreement to make a taxable supply: the supply of electricity.
+[47] The expression “as a consequence of” requires some causal connection or link. This causal connection to the modification of the original term of the Bone Creek EPA is set out in section 2.2(d) of the AR EPA, which provides that the Payment is “in consideration of the opportunity provided to the Buyer to extend the Term pursuant to section 2.2(a)”.
+[48] BC Hydro asserts the Payment was made as a consequence of the modification to the Bone Creek EPA to add the Optional Term Extension to the AR EPA.
+[49] BC Hydro’s internal documents confirm that the Payment was made for the modification or amendment of the Bone Creek EPA.[9]
+Disputed Condition 2: the consideration is not consideration for “the” supply [50] Subsection 182(1) of the ETA requires that the payment be made as a consequence of the breach, modification or termination of an agreement for making “a taxable supply”, it must not be consideration “for the supply”.
+[51] Both the original Bone Creek EPA and the AR EPA are agreements for making the taxable supply of electricity.
+[52] This means the Payment cannot have been for the supply of electricity under the AR EPA; or in other words, it must have been for something other than the supply of electricity.
+[53] The Payment was to compensate Valisa for agreeing to modify the Bone Creek EPA to add the Optional Term Extension. The Payment was not for the supply of electricity under the AR EPA. BC Hydro did not receive any electricity from Valisa on account of the Payment.
+Alternatively, at least $1.5 million falls within s. 182 [54] BC Hydro offers an additional argument which inserts within special rule s.182 a smaller portion of certain compensation. That amount is the sum of $1.5 million “paid” on account of the English Creek EPA.
+[55] Factually, BC Hydro noted that leading up to the Restructuring Agreement and the AR EPA, BC Hydro and Valisa agreed that BC Hydro would reflect for Valisa an accrued identifiable sum of $1.5 million for the termination of the English Creek EPA.
+[56] The termination payment for the English Creek EPA was a derived amount accounting for Valisa’s claim that it had incurred approximately $1 million of costs thrown away on the English Creek project, plus an additional amount for a nuisance payment.[10]
+[57] Although the parties agreed that this amount was reflective of costs because of the termination of the English Creek EPA, they also agreed that BC Hydro would defer its payment until Bone Creek reached COD. This timing was an additional incentive for Valisa to ensure that Bone Creek project was completed (and on time).[11]
+[58] In summary, BC Hydro argues that the $1.5 million payment for the termination of the English Creek EPA, regardless of anything else, meets all of the conditions under s. 182, including the two disputed conditions: consequential to modification and not consideration for the supply.
+Respondent’s position in detail
+Sections 123 and 165 fully answer the question without resorting to section 182. [59] The Respondent submits that supply is defined in subsection 123(1) as “… the provision of property or a service in any manner, including sale, transfer, barter, exchange, license, rental, lease, gift or disposition” and taxable supply is defined as “a supply that is made in the course of a commercial activity.”[12]
+[60] Section 165 of the Act imposes a tax on all taxable supplies subject to any exceptions set out in Part IX of the Act.[13] Section 182 is not intended to, and does not, create an exception to the application of this general provision.
+[61] The Payment was consideration for the supply of the option to extend the term of the AR EPA by 16 years: the Optional Term Extension. This was assumed by the Minister and has not been demolished by BC Hydro.[14] The payment of $8.5 million is consideration for a supply by virtue of sections 123 and 165.[15] Parliament did not intend section 182 to thwart the application of section 165 to new or supplementary supplies.
+[62] The Respondent asserts this because section 182 of the ETA is not intended to and does not create an exception to the general provision. It also highlights that Subdivision A of Division II Part IX of the ETA imposes the tax, Subdivision B allows for ITCs and Subdivision C addresses special cases. It is in Subdivision C where section 182 is found.
+[63] There is no need to resort to section 182, when GST/HST would otherwise be payable on the documented new supply.
+Respondent: The Term Extension Agreement was a new supply [64] The Respondent further contends that the Payment was for an additional taxable supply pursuant to section 165 of the ETA. As such, it does not fall under section 182 as it was not made “as a consequence of” any modification to the Bone Creek EPA.
+[65] Further, the Payment was coincident with and not a consequence of the modification.
+[66] Interpreting and applying subsection 182(1) involves determining its meaning through its text, context and purpose. A unified textual, contextual and purposive analysis is needed to arrive at a harmonized meaning.[16]
+[67] In this appeal, the Payment was not caused by the modification. As stated above, the Payment was for the Optional Term Extension, per se. In addition to the evidence supporting the purpose of the Payment, additional provisions of the AR EPA support a finding that the payment was not a consequence of any modification.
+[68] The Payment was not due until 30 days after COD.[17] BC Hydro wanted to ensure that it would be able to exercise the Optional Term Extension before making any payment.[18] If COD had not occurred, BC Hydro would not have owed the Payment. If the Payment were truly caused by the modification, there would be no need to wait until after COD to make the Payment, the Payment would have been tied to the signing of the AR EPA itself. It is notable that in the context of the Serpentine and Clemina EPAs, BC Hydro invoiced Valisa for the termination payment immediately.[19] Hence a consequential payment arose linked to the termination.
+[69] The Payment cannot be tied to any modification because of the possibility of (partial) repayment if the AR EPA is terminated prior to, or during the 16-year term extension. Section 15.9 of the AR EPA set out that $7,000,000 of the Payment would be repaid to BC Hydro if the AR EPA is terminated under certain provisions. Further, if the term were extended for only part of the possible 16-year term, BC Hydro would be repaid a pro rata amount. CHD signed a guarantee for the $7,000,000 so that BC Hydro ensured that it would be repaid that amount.
+There was no modification, but a new agreement [70] The Respondent also states that the AR EPA is a new agreement that replaced the Bone Creek EPA and the Amendment No. 1 as of September 30, 2009; it is an all-encompassing and self-contained agreement in its own right. As the AR EPA is a new agreement, any payment for a supply under that agreement cannot be construed as a payment made as a consequence of a modification to the Bone Creek EPA.
+[71] Whether the AR EPA is a new agreement or a modification of a prior agreement, is a question of mixed fact and law; one must look to the true intent of the contracting parties, at the time of entry into the contract. In this case, the content of the AR EPA reveals Valisa and BC Hydro’s intent that the AR EPA represents a new binding agreement to replace the Bone Creek EPA.
+[72] According to the Respondent, highlighting the new agreement concept are:
+i) the entire agreement clause;
+ii) the agreement is “restated and amended”;
+iii) an entire “clean” end to end agreement is produced rather than a specific clause by clause amending agreement; and,
+iv) the entire arrangement between the parties is dramatically altered.
+V. Analysis and Decision Payment and taxable supply per se [73] Ultimately, the Court finds the Payment for the Optional Term Extension is a taxable supply per se. It is illogical for tax to be deemed inclusive within a payment – in this case the Payment - when tax should have been paid separately under section 165. This finding is further buttressed by the oddity that if section 182 applies notwithstanding the application of section 165 to the new supply, a registrant could be taxed differently on the same supply if the original contracts reflect that different supply duration (GST additional) versus modified contacts subsequently including that supply (GST inclusive). This would be contrary to the principle of equal treatment of taxable supplies under the ETA and horizontal equity generally in taxation.
+[74] The Court has not “rewritten” the legislation in order to reach this conclusion. The Payment is made as consideration for the opportunity of new supply over a different duration or term, therefore engaging section 165. It precludes the Payment to have been made as a consequence of a …, modification… of an agreement (which would engage section 182). The distinction between consideration for “the supply” or “any supply” is irrelevant.
+[75] This conclusion is also consistent with the purpose of section 182. Section 182 is a special rule expressly dealing with the disintegration of a commercial relationship or covenant: the predominance of the book-ending words of “breach” or “termination” astride “modification” broadcast this. Their positioning colour the word “modification” beyond consensual agreement to predictive alteration by necessity. Further, the word “amendment” is not used.
+There was only one payment [76] The Court rejects the argument that $1.5 million of the Payment was paid on account of the termination of the English Creek EPA. The language used in the AR EPA does not afford the Court a view beyond the four corners of the contract over to objective surrounding circumstances in order to interpret section 2.2(d) of the AR EPA. The terms expressly state the Payment of $8.5 million was consideration for the Optional Term Extension.
+[77] Where language within the contract is clear and unambiguous, the parol evidence rule excludes the use of extrinsic evidence.[20] Justice Nadon, writing for the Federal Court of Appeal in General Motors Canada Ltd v. The Queen relied on such principles from Eli Lilly, stating that failing the finding of ambiguity in the document under consideration, it is not open to the Court to consider extrinsic evidence, furthermore, that even where there is ambiguity, evidence only of a party’s subjective intention is not admissible.[21] Those clear legal pronouncements are binding authority on this Court. Hence, there is no reason for the Court to investigate further the nature of the Payment when its nature has been plainly stated in Section 2.2(d) of the AR EPA.
+[78] Additionally a further term also scuttles BC Hydro’s argument that “two payments” were made. Section 4.1(c)(i) of the Restructuring Agreement clearly states the parties agreed no termination amount was payable for the termination of the English Creek EPA.
+[79] This evidence satisfies the Court that the Payment was singularly in consideration of the opportunity to enter into the Optional Term Extension for the Bone Creek project.
+[80] The Payment is for the supply of a right, which is property; this is a taxable supply BC Hydro obtained in the course of commercial activity by consensual agreement with CHD and/or Valisa. Tax ought to be levied in accordance with section 165 of the ETA.
+Was the AR ESA a new agreement or modification? [81] All of that said, the Respondent’s alternative submission that the Payment for the Optional Term Extension ought to be considered a new, narrower supply agreement within the AR EPA, attracting GST pursuant to section 165, is also compelling. In that context, it is also important to consider that a required condition under section 182 of the ETA is not merely that a modification to an agreement occurred, but that the Payment was made “as a consequence” of the modification.
+[82] This Court’s decision in Mi Sask[22] is significant on this point and was cited. In that decision, Mi Sask Industries Ltd. (“Mi Sask”), the supplier, contracted with the City of Medicine Hat, Alberta (the “City”), the recipient, to build pipeline river crossings. The contract provided that the City was required to maintain construction insurance. The City did not do this. During the construction, ice jams damaged Mi Sask’s construction site. As there was no insurance coverage, Mi Sask sought damages from the City, and reached a settlement under which the City paid Mi Sask $200,000.
+[83] In Mi Sask, the Court held at paragraphs 10 and 11 that: “The result is that the payment to the appellant of the $200,000 in question was a payment for breach of the contract which arose when the City did not insure with a third party pursuant to subparagraph 11.2(c). Thus, the $200,000 falls within the provisions of subsection 182(1)”.[23]
+[84] Also in his commentary on Mi Sask[24], David Sherman noted that this fact pattern was unusual as section 182 is designed to catch economic substitutes for payment of the supply under the contract; however, here, the payment was not directly linked to the amounts that were to be paid under the contract by the recipient for the supply itself. David Sherman further stated in that commentary that it is possible to view the requirement by the City to maintain insurance as a separate agreement between the parties; importantly one that was not an agreement to make a taxable supply.
+[85] Notwithstanding the Court’s application of section 182 to the purported narrower agreement, David Sherman states that it is ambiguous whether section 182 ought to apply to the narrower agreement by the City to maintain insurance or if it ought to apply only to breaches in the agreement related to the provision of construction services. The purpose of the provision has consistently been found to capture the GST that would have been payable if a taxable supply was completed (but could not be). Commercial supply abruption is embedded in the cause leading to alteration.
+[86] Logically, the framing of an additional supply - the Optional Term Extension in this appeal, or the insurance in Mi Sask - as a narrower agreement separate to the supply agreement is preferable and attracts GST pursuant to section 165 of the ETA, if those conditions are satisfied.
+Have the conditions of subsection 182(1) been met? [87] Further, the two disputed conditions under section 182 of the ETA are:
+a) The Payment was made as a consequence of a breach, modification or termination of an agreement: and,
+b)The Payment was made otherwise than as consideration for the supply.
+Condition 1: consequence of “… modification… ” [88] In Sigma,[25] Société en commandite Sigma-Lamaque (“SL”), was a contractor. SL, as a recipient, leased construction equipment (worth approximately $9 million) from Caterpillar, the supplier of the equipment, for five years. SL provided Caterpillar with a $425,000 letter of credit as security towards the lease. SL ran into financial difficulty and filed a notice of intention to make a proposal in bankruptcy. This was an “event of default” under the lease.
+[89] The supplier, Caterpillar, proceeded to cash the letter of credit and seize the equipment, which it sold for $7.5 million (plus taxes) to Acton.
+[90] SL, the recipient, attempted to claim an ITC on the amount paid to Caterpillar from the buyer in the sale of the equipment, on the basis that the amount paid to Caterpillar from the buyer was GST included. SL submitted that section 182 does not require that the recipient must pay the amount to the supplier, only that the supplier mist have received an amount “as a consequence of” the breach of contract.
+[91] The Court held that the payment received by Caterpillar was not “as a consequence of” the breach of contract where it stated:[26]
+In view of the wording of the Act, I do not think that this part of section 182 of the ETA can be said to apply to Acton’s payment. Indeed, according to the Act, it is true that anyone can pay the registrant (in this case, Caterpillar), but on the condition that this payment is not made as consideration for the supply (the units, in the case before us). By using the units seized by Caterpillar, Acton [the buyer] paid Caterpillar the asking price for disposing of these units. Although it was in consequence of the breach of the lease that Caterpillar seized the units in question, Acton required these units in a completely independent context, not in itself related to the breach of the lease. Acton paid Caterpillar in consideration for the units it acquired as part of its business operations.
+The fact that the payment Caterpillar received from Acton reduced the appellant’s debt to Caterpillar does not, in my view, change the fact that section 182 does not apply. The debt was reduced in application in article 8.3 of the lease. If someone tied to the appellant, or having an interest in the extinguishment of the appellant’s debt, or obliged to make the payment, as was the case with the National Bank, had paid the amount owed by the appellant under the lease, section 182 could be used to claim that there was a deemed tax.
+[92] The Court found that the payment by the buyer to the supplier Caterpillar, of $7.5 million for the equipment was too remote or indirectly related to the (in that case) breach of the lease. Acton acquired the equipment (and therefore made a payment to Caterpillar) completely independent of SL’s breach of contract, and for its own business operations. However, the Court stated (quite broadly) that if someone “tied to” SL had paid the amount owed by the appellant under the lease, then section 182 may have applied.
+[93] Still, in this appeal, was the Payment made in a completely independent context by BC Hydro to Valisa in a pursuit of commerce by BC Hydro? In other words, the question is: was the Payment truly made as a consequence of a modification of the general supply agreement, or was the Payment made independently by BC Hydro as part of its seeking further or altered commercial agreements? This question is tied to the above-noted perspective of the existence of a narrower contract separate to the supply agreement. If the right to extend the term of supply is viewed as a separate business pursuit, then the right was acquired in a separate contract for a taxable supply of its own. The framing of the supply of the Optional Term Extension as a separate pursuit contained in a narrower contract separate and distinct from the electricity supply contract is prevalent in the documents.
+[94] If the Payment was paid as consideration for a new supply, then the Payment cannot also have been made as a consequence of any modification of the Bone Creek EPA. As a result, the condition under section 182 of the ETA that the payment be made as a consequence of a modification to the Bone Creek EPA cannot succeed.
+Condition 2: otherwise than as consideration for the supply [95] This second condition is a different matter, but is moot. BC Hydro submits that so long as the Payment was not for the supply of electricity (being the taxable supply that is the subject of both the Bone Creek EPA and the AR EPA), it would qualify as payment otherwise than as consideration for the supply.[27] Consequently, the Payment was to compensate Valisa for agreeing to modify the Bone Creek EPA by adding the Optional Term Extension whereby BC Hydro received no electricity from Valisa as a result of the Payment, and thus the condition is satisfied.[28]
+[96] This Court’s decision in Sigma adds some guidance to what is meant by “an amount is paid… otherwise than as consideration for the supply”. In Sigma, the Court stated (at para. 37): “… anyone can pay the registrant …, but on the condition that this payment is not made as consideration for the supply (the units, in the case before us)”. As such, the Court found that the meaning of “for the supply” was narrow in that it means consideration for the subject of the agreement (i.e. the equipment itself).
+[97] In considering the meaning of the phrase, it is important to note that Parliament could have chosen to state that the Payment cannot be made as consideration for a taxable supply (as in any taxable supply), generally, rather than as it did, “the supply” (likely that contemplated by the underlying agreement), narrowly. However, Parliament did not. This second disputed condition of section 182 of the ETA would be satisfied, if engaged. As mentioned above, it is not because section 165 applies and disputed condition 1 has not otherwise been met.
+VI. Conclusion and Costs 1. The Payment was a taxable supply under the AR EPA and was subject to GST/HST under section 165 of the ETA payable in the usual “in addition to” fashion.
+Costs are awarded to the Respondent in accordance with the applicable Tariff, subject to the right of the Respondent to make further written submissions within 30 days of this judgment and BC Hydro’s right to respond thereto within 30 days thereafter to any written submissions, not to exceed 10 pages (excluding authorities). Provided that should no submissions be made, this provisional cost order shall become final.
+Signed at Winnipeg, Manitoba this 29th day of April 2025.
+“R. S. Bocock”
+Bocock J.
+CITATION:
+2025 TCC 61
+COURT FILE NO.:
+2020-1909(GST)G
+STYLE OF CAUSE:
+BRITISH COLUMBIA HYDRO AND POWER AUTHORITY v. HIS MAJESTY THE KING
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+November 25 and 26, 2024
+REASONS FOR JUDGMENT BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF JUDGMENT:
+April 29, 2025
+APPEARANCES:
+Counsel for the Appellant:
+Amy M. Nathanson
+Counsel for the Respondent:
+Shannon Fenrich
+Anita Balakumar
+Jun Choi
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Amy M. Nathanson
+Firm:
+Lawson Lundell LLP
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] Exhibit 1, para 17.
+[2] Evidence of O. Lui.
+[3] Elderkin and Doi “Behind and Beyond Boilerplate: Drafting Commercial Agreements”, 4th ed. 2018: (pages 249-50), Appellant’s Book of Authorities, Tab 11.
+[4] G.H.L Fridman, The Law of Contract, 6th ed. (Toronto: Carswell, 2011), Appellant’s Book of Authorities, Tab 12, p. 461, see also Roberto v Bumb, 1943 CanLII 72 (ON CA), Appellant’s Book of Authorities, Tab 6, p. 618.
+[5] Exhibit 3, Tab 43.
+[6] Ruth Sullivan, The Construction of Statutes, 7th ed. (Toronto: LexisNexis Canada Inc., 2022), Appellant’s Book of Authorities, Tab 13, § 2.01.
+[7] Graphic Packaging Canada Corp. v R., [2001] 4 CTC 2399, 2001 DTC 861, (Tax Court of Canada [General Procedure]), Appellant’s Book of Authorities, Tab 4, at para. 14.
+[8] Sullivan, supra note 15.
+[9] Exhibit 3, Tab 50; Exhibit 2, Tab 8.
+[10] Evidence of O. Lui.
+[11] Evidence of O. Lui.
+[12] Excise Tax Act, s. 123(1) (Respondent’s Book of Authorities Tab 1)
+[13] Excise Tax Act, s. 165(1) (Respondent’s Book of Authorities Tab 1)
+[14] Reply assumption 17(q).
+[15] Excise Tax Act, s. 123, definitions of “property”, “supply”, and “taxable supply”. (Respondent’s Book of Authorities Tab 1)
+[16] Canada Trustco Mortgage Co. v Canada, 2005 SCC 54, paras 10, 40 and 47 (Respondent’s Book of Authorities Tab 1)
+[17] Exhibit 3, Tab 35 section 2.2(d), page 4.
+[18] Exhibit 5, Chow Discovery page 50, lines 10-20; Exhibit 3, Tab 35 section 2.2(d), page 4.
+[19] Testimony of Olha Lui; Exhibit 3, Tab 32.
+[20] Eli Lilly & Co. v. Novopharm Ltd. [1998] SCJ No. 59., 2 SCR 129.
+[21] General Motors of Canada Ltd. v. The Queen 2008 FCA 142 at para 36.
+[22] Mi Sask Industries Ltd. v HMQ 2007 TCC 73 [Mi Sask].
+[23] Ibid at paragraphs 10 and 11.
+[24] Sherman, Carswell Canada GST Service, page 182 – 120.
+[25] Société en commandite Sigma-Lamaque v. R 2010 TCC 415.
+[26] Ibid, at paragraphs 37 and 38.
+[27] Appellant’s Written Submissions at paras 84-87.
+[28] Ibid at para 88.

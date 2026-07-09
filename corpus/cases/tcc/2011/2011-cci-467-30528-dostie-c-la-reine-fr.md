@@ -1,0 +1,194 @@
+---
+title: "Dostie c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30528/index.do"
+last_modified: "2011-10-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 467"
+citation2: ""
+neutral_citation: "2011 CCI 467"
+decision_date: "2011-10-04"
+language: "fr"
+item_id: "30528"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7331
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:34:37.251000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "55f8fc4728817145d87d533ed76bc7bb24eedac1d6cf5f1af9c9e64ffabf8011"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Dostie c. La Reine
+
+- Citation: 2011 CCI 467
+- Decision date: 2011-10-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7331, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dostie c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-10-04
+Référence neutre
+2011 CCI 467
+Numéro de dossier
+2009-3242(IT)I
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-3242(IT)I
+ENTRE :
+LAWRENCE DOSTIE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 1er avril 2010, à Montréal (Québec).
+Devant : L’honorable juge Gaston Jorré
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Emmanuel Jilwan
+____________________________________________________________________
+JUGEMENT
+Selon les motifs du jugement ci-joints, l’appel de la détermination établie le 20 avril 2009 en vertu de la Loi de l’impôt sur le revenu pour l’année de base 2007 est accueilli, sans frais, et l’affaire est déférée au ministre du Revenu national pour nouvel examen et nouvelle détermination en tenant pour acquis que les enfants de l’appelant ont commencé à résider avec l’appelant le 1er août 2008.
+Signé à Ottawa (Ontario), ce 3e jour d’octobre 2011.
+« Gaston Jorré »
+Juge Jorré
+Référence : 2011 CCI 467
+Date : 20111003
+Dossier : 2009-3242(IT)I
+ENTRE :
+LAWRENCE DOSTIE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Jorré
+Introduction
+[1] La question en litige dans cet appel est une question de fait : les deux fils de l’appelant ont-ils commencé à résider avec lui le 23 juin 2008 et le 1er juillet 2008 respectivement, comme le prétend l’appelant, ou ont-ils commencé à résider avec lui le 1er septembre 2008, comme le prétend l’intimée?
+[2] La réponse à cette question a une incidence sur les montants de la prestation fiscale canadienne pour enfants (PFCE) et le supplément de la prestation nationale pour enfants auxquels a droit l’appelant.
+[3] Il s’agit d’une question de fait.
+[4] L’appelant, ses deux fils, Jean-Marc Jacob, agent des appels à l’Agence du revenu du Canada (ARC), et Mélanie Martine Beaudoin, la mère des enfants, ont témoigné.
+[5] La seule exigence en litige relativement à la PFCE est celle à l’alinéa a) de la définition de « particulier admissible » à l'article 122.6 de la Loi de l’impôt sur le revenu (LIR). Cette disposition prévoit ce qui suit :
+« particulier admissible » S’agissant, à un moment donné, du particulier admissible à l’égard d’une personne à charge admissible, personne qui répond aux conditions suivantes à ce moment :
+a) elle réside avec la personne à charge;
+[…]
+[6] Selon la formule qui se trouve au paragraphe 122.61(1) de la LIR, le « particulier admissible » doit résider avec la personne à charge au début du mois. En conséquence, quelle que soit ma conclusion, l’appelant ne peut être la personne admissible pour le mois de juin. Le débat se limite donc aux mois de juillet et d’août 2008.
+[7] Le 27 juillet 2005 et le 2 août 2005, l’appelant et Mme Beaudoin ont signé un consentement à jugement qui a été entériné à la Cour supérieure. En vertu de ce consentement, Mme Beaudoin a eu la garde des deux enfants. L’accord avait également des dispositions prévoyant les droits d’accès de l’appelant.
+[8] Les deux fils sont des jumeaux.
+[9] Pendant les vacances d’été, le temps des enfants était partagé entre les deux parents.
+[10] En 2008, les jumeaux avaient 14 ans[1].
+[11] Au début juin 2008, les enfants résidaient à Longueuil avec leur mère.
+[12] Le 19 août 2008, les deux parents ont signé un nouveau consentement à jugement donnant la garde des enfants à l’appelant à partir du 1er septembre 2008[2]. Ce consentement a également été entériné par la Cour supérieure et prévoyait les droits d’accès de la mère.
+[13] Quand les parties ont signé cet accord le 19 août 2008, elles étaient toutes deux en position difficile : l’appelant recevait des prestations d’assurance-emploi et la mère recevait des prestations d’aide sociale[3].
+Témoignage de l’appelant
+[14] En juin 2008, l’appelant résidait chez sa soeur à Laval.
+[15] Selon l’appelant, le 23 juin 2008, après la fin de l’année scolaire, la mère des enfants s’est présentée chez sa soeur. Elle aurait dit à l’appelant que s’il voulait la garde des deux enfants, elle était d’accord.
+[16] Quand on a demandé à l’appelant en contre-interrogatoire s’il était possible que les jumeaux soient tout simplement venus passer trois semaines des vacances en visite chez leur père, il a répondu catégoriquement que la mère voulait qu’il prenne la garde des enfants.
+[17] Il voulait la garde de ses fils depuis longtemps et il a tout de suite dit « oui ».
+[18] Au même moment, la mère aurait demandé, et l’appelant aurait accepté, que l’appelant ne revendique pas d’allocation ou de prestation pour les enfants pendant un mois. La mère lui aurait dit qu’elle avait des problèmes financiers et il a accepté pour lui donner un coup de main.
+[19] Après le premier mois, la mère aurait demandé à l’appelant de lui permettre de recevoir les prestations pour enfants pour un mois supplémentaire. L’appelant n’a pas accepté.
+[20] Un fils est resté chez lui à partir du 23 juin. L’autre fils est retourné chez sa mère pour environ une semaine parce qu’il participait à un tournoi de basketball. Ce deuxième fils aurait déménagé chez lui le 1er juillet 2008.
+[21] L’appelant s’est mis à la recherche d’un appartement et il a loué un appartement à Laval à partir du 1er août 2008. En août 2008, il a déménagé avec ses fils à son nouvel appartement.
+[22] Selon le père, à différents moments, chacun des enfants a passé environ une semaine avec sa mère au cours de la période allant du début juillet à la fin août 2008.
+[23] L’appelant a témoigné qu’il a accepté que le consentement indique le 1er septembre 2008 comme date de changement de garde parce qu’il avait peur que la mère change d’idée.
+[24] Les deux parties ont déposé en preuve des lettres ou d’autres écrits de voisins ou de parents attestant que les signataires avaient vu les enfants au cours de la période en question soit chez un parent, soit chez l’autre.
+[25] Vu que l’appel était régi par la procédure informelle et que l’appelant n’avait pas de représentant, j’ai permis le dépôt de ces lettres aussi bien par l’appelant que par l’intimée.
+[26] J’ai indiqué à l’audition que vu que les personnes ayant signé ces écrits n’ont pas témoigné et ne pouvaient donc être contre‑interrogées, les attestations ne pouvaient avoir qu’une portée très limitée.
+[27] Je n’attache que très peu de poids à ces attestations qui, de toute façon, se contredisent, car celles obtenues par l’appelant disent que les signataires ont vu les enfants avec l’appelant, et celles obtenues par la mère disent que les signataires ont vu les enfants avec la mère.
+[28] Quant aux attestations signées par les deux fils[4], je n’en tiens pas compte; les deux enfants ont témoigné, et c’est de ces témoignages dont je tiendrai compte.
+[29] Je noterai également qu’à la pièce A-3 se trouve une lettre que la Régie des rentes du Québec (RRQ) a envoyée à l’appelant le 31 juillet 2009 pour l’informer que pour ce qui est du paiement de soutien aux enfants, la RRQ avait conclu que les jumeaux résidaient avec l’appelant depuis le 23 juin 2008 et le 1er juillet 2008 respectivement. Je ne suis pas lié par cette décision et je n’en tiens pas compte.
+Témoignage des fils
+[30] Le témoignage des deux fils était, par moments, confus quant à l'année du déménagement.
+[31] Le premier a témoigné qu’ils avaient demandé à leur mère s’ils pouvaient aller habiter chez leur père et qu’elle avait donné son accord pour qu'ils déménagent chez leur père.
+[32] Le premier fils a également témoigné que lorsqu’il est parti le 23 juin, il avait apporté des vêtements pour passer environ deux semaines chez son père.
+[33] Le deuxième fils a également témoigné que sa mère était d’accord pour que son frère et lui déménagent. Il a témoigné que le déménagement s’est fait assez vite.
+[34] Ils ont tous deux affirmé qu’ils sont d’abord allés chez leur tante, où leur père habitait, et que, par la suite, ils ont déménagé au nouveau logement de leur père.
+[35] Le deuxième fils a témoigné qu’ils ont déménagé au logement du père au milieu de l’été[5].
+[36] Quant au déménagement, le témoignage des enfants n’était pas clair; je crois que ceci résulte peut-être d’une confusion entre le moment où ils sont allés chez leur tante et le moment où ils ont déménagé à l’appartement de leur père. Il est même possible qu’il y ait confusion avec le moment où certaines choses ont été transportées de Longueuil au nouvel appartement de leur père.
+Témoignage de Jean-Marc Jacob
+[37] M. Jacob a expliqué le raisonnement du ministre du Revenu national (ministre) en arrivant à sa détermination. Le ministre s’est fié, entre autres, à des documents de la commission scolaire de Longueuil indiquant la date de départ des enfants comme étant le 2 septembre 2008 (je note que ces documents n’indiquent pas à quelle date la commission scolaire a été informée), ainsi qu’à une attestation de Sécurité du revenu Québec du 18 février 2009 selon laquelle les deux enfants étaient inscrits au dossier de leur mère en juillet et en août 2008.
+[38] Il a également expliqué que l’ARC a comme politique de ne pas tenir compte des documents écrits par les enfants et de n’accorder qu’une importance très limitée aux témoignages de voisins.
+Témoignage de la mère
+[39] La mère a témoigné que les enfants, l’appelant et elle‑même souhaitaient le changement de garde. Tout le monde était d’accord que ce changement serait bon pour tous.
+[40] Selon la mère, les enfants ont déménagé le 29 août 2008.
+[41] Selon elle également, il était prévu que les enfants passeraient la moitié du congé d’été chez leur père mais, en fait, ils n’ont passé que trois semaines avec leur père.
+[42] Ces trois semaines auraient été des vacances et n’étaient pas un déménagement. Lesdites semaines étaient pendant que le père habitait avec sa soeur et avant qu’il ait un logement au début du mois d’août 2008[6].
+[43] Après cette période de vacances, les enfants seraient revenus chez leur mère avant de déménager le 29 août.
+[44] La mère a nié qu’il y ait eu des négociations avec le père au sujet de qui allait recevoir les prestations pour enfants.
+[45] L’intimée a déposé une lettre du 26 février 2009[7] écrite par le dentiste attestant que l’adresse qui apparaît dans ses dossiers pour les jumeaux est l’adresse de la mère à Longueuil.
+[46] À la question 195 de la transcription se trouvent la question et la réponse suivantes :
+Q. O.K. Et donc, à l’été 2008, est-ce qu’il y a eu des rendez-vous médicaux ou des choses comme ça?
+R. Bien sûr, on est allés chez le dentiste. J’ai amené les enfants chez le dentiste. De ce qu’il y a comme rendez-vous médical, c’était plus ça. J’ai envoyé aussi les preuves à la pharmacie. Donc, vous avez aussi en votre possession. J’ai été chercher tous les médicaments que les enfants avaient droit d’avoir pour le vingt-cinq (25) août afin que monsieur puis les enfants puissent avoir des réserves, parce qu’ils prennent des pompes pour l’asthme. Donc, je me suis arrangée que ce soit fait avant que les enfants déménagent chez leur père officiellement.
+Évaluation de la preuve
+[47] Tous sont d’accord que les enfants voulaient déménager et que le père voulait la garde. Tous sont également d’accord qu’au milieu de 2008, la mère acceptait que le père ait la garde.
+[48] Il n’y a aucun doute que les enfants ont passé au moins trois semaines avec leur père.
+[49] Le consentement à jugement du 19 août 2008 est un document écrit signé par les deux parties. Ce consentement a une très grande portée.
+[50] Toutefois, dans les questions familiales, notamment en question de garde, les faits évoluent souvent plus rapidement que les accords entre les parties ou les ordonnances des tribunaux; ces faits peuvent par moments être assez imprécis.
+[51] Les enfants avaient 14 ans. À 14 ans, quoi que disent les ordonnances des tribunaux, les souhaits des enfants relatifs au domicile où ils veulent vivre pèsent très lourd dans les décisions des parents.
+[52] J’accepte en grande partie, mais non totalement, la preuve de l’appelant et de la mère.
+[53] Les témoignages des enfants sont par moments vagues, mais il ressort clairement de la preuve des enfants qu’ils ont déménagé au cours de l’été. Leurs témoignages ne sont pas précis quant au moment exact où ce déménagement a eu lieu.
+[54] Le premier fils a dit très clairement qu’il est arrivé chez son père avec des vêtements pour deux semaines. Ceci correspond plus à une visite qu’à un changement de résidence.
+[55] J’accepte qu’il y a eu une discussion entre les parents vers la fin juin afin de s’entendre au sujet d’un changement de résidence des enfants.
+[56] J’accepte également qu’il y a eu un déménagement de fait chez le père au début du mois d’août. D’ailleurs, je crois que cela est implicite dans la réponse de la mère à la question 195 : « Donc, je me suis arrangée que ce soit fait avant que les enfants déménagent chez leur père officiellement. »
+[57] Par contre, je conclus que l’arrivée des enfants à la fin juin et au début juillet était tout simplement une visite qui devait normalement avoir lieu pendant la période des vacances selon le consentement à jugement de 2005. Au début juillet, il n’y avait pas encore eu de changement de résidence.
+[58] Au début août, les enfants ont commencé à résider avec leur père. Le père était alors le particulier admissible au mois d’août 2008, mais non au mois de juillet 2008.
+Conclusion
+[59] En conséquence, l’appel de la détermination que le ministre a établie le 20 avril 2009 est accueilli, et le tout sera déféré au ministre pour nouvel examen et nouvelle détermination en tenant pour acquis que les enfants de l’appelant ont commencé à résider avec l’appelant le 1er août 2008.
+[60] Il n’y aura pas de frais.
+Signé à Ottawa (Ontario), ce 3e jour d’octobre 2011.
+« Gaston Jorré »
+Juge Jorré
+RÉFÉRENCE : 2011 CCI 467
+Nº DU DOSSIER DE LA COUR : 2009-3242(IT)I
+INTITULÉ DE LA CAUSE : LAWRENCE DOSTIE c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 1er avril 2010
+MOTIFS DU JUGEMENT PAR : L’honorable juge Gaston Jorré
+DATE DU JUGEMENT : Le 3 octobre 2011
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Emmanuel Jilwan
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa (Ontario)
+[1] Pièce I-1, deuxième et troisième pages.
+[2] Pièce A-3, pages 25 à 29 numérotées à la main, au bas à droite.
+[3] Pièce A-3, page 25 numérotée à la main.
+[4] Pièce A-3, pages 6 et 7 numérotées à la main.
+[5] À la question 109 de la transcription, le deuxième fils a répondu qu’ils ont déménagé chez leur tante au début de l’été, à la question 110, il a répondu que c’était aux alentours du début de l’école, et à la question 122, il a dit qu’ils ont déménagé chez leur père avant que l’école ait commencé; en considérant son témoignage globalement, j’arrive à la conclusion que son témoignage est qu’ils étaient chez leur tante en premier et, plus tard, avant le début de l’école, à l’appartement que le père a loué.
+[6] Transcription, questions 176 à 186.
+[7] Pièce I-4.

@@ -1,0 +1,173 @@
+Title: Lacroix c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29765/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-54-29765-lacroix-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2008-02-07
+
+# Lacroix c. M.R.N.
+
+- Citation: 2008 CCI 54
+- Decision date: 2008-02-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6512, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lacroix c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-02-07
+Référence neutre
+2008 CCI 54
+Numéro de dossier
+2007-2258(EI)
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2007-2258(EI)
+ENTRE :
+HÉLÈNE LACROIX,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 18 janvier 2008, à Sherbrooke (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocat de l'appelante :
+Me Jean Beaudry
+Avocate de l'intimé :
+Me Christina Ham
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté en vertu du paragraphe 103(1) de la Loi sur l'assurance‑emploi concernant l'emploi exercé par l'appelante pour Can‑Am Immigration Service 2000 inc., du 30 avril 2001 au 25 juillet 2003, est rejeté et la décision du ministre du Revenu national rendue le 1er février 2007 est confirmée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 7e jour de février 2008.
+« Alain Tardif »
+Juge Tardif
+Référence : 2008CCI54
+Date : 20080207
+Dossier : 2007-2258(EI)
+ENTRE :
+HÉLÈNE LACROIX,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit d'un appel relatif à l'assurabilité du travail effectué par l'appelante du 30 avril 2001 au 25 juillet 2003 pour le bénéfice de la société Can‑Am Immigration Service 2000 inc.
+[2] Pour prendre sa décision, l'intimé s'est fondé sur les hypothèses de fait suivantes :
+a) le payeur a été constitué en société le 19 mai 1999, suite à la faillite de Can‑Am Immigration Services inc., et a lui-même fait faillite le 1er août 2003; (admis)
+b) les activités du payeur ont été reprises par une autre entreprise qui effectuent les mêmes activités; (admis)
+c) le payeur reprenait les services de la Cie antérieure qui était de vendre des permis de travail à des travailleurs de la construction canadiens qui voulaient travailler aux États-Unis; (admis)
+d) le payeur vendait aussi les services de ces travailleurs aux entreprises américaines; (admis)
+e) l'appelante rendait des services au payeur et aux entreprises appartenant à la famille Parenteau depuis plusieurs années; (admis)
+f) l'appelante était la conjointe de M. Richard Sr. Parenteau; ils ont divorcés le 4 décembre 2000; (admis)
+g) c'est M. Richard Sr. Parenteau qui avait embauché l'appelante pour la première fois dans l'entreprise familiale; (admis)
+h) même si officiellement il n'était plus actionnaire du payeur, M. Richard Sr. Parenteau était celui qui dirigeait au quotidien les activités du payeur; (admis)
+i) c'est M. Richard Sr. Parenteau qui nous a donné les informations concernant l'emploi de l'appelante qui a refusé de collaborer avec l'agent de l'assurabilité et avec l'agent des appels; (nié)
+j) durant la période en litige, l'appelante travaillait pour le payeur à titre de commis au service à la clientèle; (admis)
+k) la principale tâche de l'appelante consistait à communiquer avec les clients du payeur pour s'assurer de leur satisfaction; (admis)
+l) l'appelante effectuait son travail de chez elle d'où elle pouvait contacter de 10 à 15 clients par jour; (nié)
+m) de plus, l'appelante pouvait occasionnellement, aller chercher des clients à l'aéroport de Magog et les ramener au même endroit après leur rencontre avec les dirigeants du payeur; (nié)
+n) le payeur ne possède aucun document pouvant justifier le nombre de transport de clients que pouvait effectuer l'appelante; (nié)
+o) l'appelante a précisé que lorsqu'elle n'avait pas assez de travail, M. Richard Sr. Parenteau lui confiait un peu de comptabilité soit faire quelques additions; (nié)
+p) l'appelante prétend que les calculs qu'elle effectuait pouvaient lui prendre de 4 à 5 heures par jour; (nié)
+q) l'appelante prétend qu'elle faisait 40 heures de travail par semaine alors que ses heures n'étaient pas comptabilisées par le payeur et que le peu de tâches qui lui étaient confiées n'étaient pas quantifiables. (nié)
+r) l'appelante avait initialement déclaré qu'elle utilisait son automobile personnelle pour effectuer ses déplacements alors que le payeur lui fournissait un véhicule pour ses déplacements; (nié)
+s) l'appelante recevait une rémunération fixe de 726 $ brut par semaine et ce sans égard aux heures réellement travaillées; (nié)
+t) si nous considérons la version de l'appelante qui prétend qu'elle faisait 40 heures par semaine, nous obtenons un tarif horaire de 18,15 $ c e qui est nettement injustifié par rapport aux tâches qui lui étaient confiées; (nié)
+u) selon le guide des salaires des professions selon Emploi Québec, le salaire horaire moyen pour une personne travaillant à plein temps dans ce domaine serait de 14,78 $; (nié)
+v) en plus de sa rémunération, l'appelante bénéficiait d'une automobile du payeur et ce dernier payait une assurance‑vie au nom de l'appelante; (nié)
+w) le peu de tâches confiées à l'appelante ne pouvait justifier la rémunération que le payeur lui versait; (nié)
+x) il n'est pas raisonnable de croire que le payeur aurait versé un tel salaire à un commis à la clientèle effectuant un travail similaire à l'appelante. (nié)
+[3] L'intimé a conclu à la non‑assurabilité de l'emploi de l'appelante pour le motif qu'il existait un lien de dépendance entre l'appelante et la société qui lui versait un salaire.
+[4] Après avoir analysé le dossier, l'intimé a conclu que la relation de travail avait été façonnée ou influencée par le lien de dépendance. En d'autres termes, l'emploi de l'appelante n'était pas un emploi assurable en vertu de l'alinéa 5(2)i) et du paragraphe 5(3) de la Loi sur l'assurance‑emploi (la « Loi »), étant donné que le ministre du Revenu national (le « ministre ») a décidé, après avoir analysé les faits pertinents qu'il était raisonnable de conclure, compte tenu de toutes les circonstances, que l'appelante et le payeur n'auraient pas conclu entre eux un contrat de travail à peu près semblable n'eut été du lien de dépendance.
+[5] Au soutien de la preuve dont elle avait le fardeau, l'appelante a témoigné lui-même et a fait témoigner l'actionnaire majoritaire de l'appelante, soit, Richard Sr. Parenteau.
+[6] La preuve principalement constituée par le témoignage de Richard Parenteau se résume à ceci; il s'est d'abord défini comme le président et directeur général de l'entreprise. Il a décrit l'entreprise comme étant très importante dans son secteur d'activités. Âme dirigeante de l'entreprise, monsieur Parenteau l'a décrite comme une entreprise en expansion parlant du nombre d'employés, de places d'affaires et de la possibilité de mettre en place un réseau de franchises. Il a déclaré que l'entreprise qu'il dirigeait, dont la vocation était d'agir comme consultant en matière d'immigration, s'occupait d'obtenir tout genre de visa, soit pour des particuliers ou pour des groupes de travailleurs, auxquels cas la cliente était une entreprise. L'entreprise touchait des honoraires qui dépassaient le million.
+[7] Se décrivant comme quelqu'un de très occupé par l'ampleur des activités de son entreprise, il a allégué à plusieurs reprises que ses très lourdes responsabilités l'empêchaient de répondre précisément à des questions tout à fait fondamentales qui étaient liées à la description des tâches de l'appelante, aux modalités d'exécution de son travail et aux divers faits relatifs à la façon de transmettre les instructions de travail à l'appelante.
+[8] Il est important de souligner que l'appelante ne se rendait jamais à la place d'affaires de l'employeur et que la majeure partie du travail était fait à partir de sa résidence privée.
+[9] Très préoccupé par les questions de marketing, monsieur Parenteau a affirmé qu'il y avait trois volets aux tâches de l'appelante. Le premier volet concernait le service à la clientèle. Depuis 1999, elle devait appeler les clients dont on lui donnait les coordonnées; elle leur téléphonait et leur demandait, après s'être identifiée comme un membre de la famille de monsieur Parenteau s'ils avaient été satisfaits des services rendus. Les résultats de son enquête étaient non consignés et essentiellement répété verbalement à monsieur Parenteau lui‑même. Ce dernier a indiqué que seulement quelques questions étaient posées et non une quinzaine comme le font certaines agences qui se spécialisent dans ce domaine. Il n'a pas été en mesure de quantifier le nombre d'appels, ni le contenu des appels. Il semble que les résultats de ces appels n'aient pas été consignés. La preuve à cet effet a été générale, voire même un peu confuse.
+[10] Le deuxième volet consistait à conduire certains clients à l'aéroport, tels Dorval ou Burlington, ou à les conduire de l'aéroport. Encore là, l'appelante recevait des directives de son conjoint.
+[11] La preuve au sujet de la fréquence des sorties effectuées n'était pas claire. Il fut indiqué que cela était fait de façon sporadique; la seule précision qui a été fournie relativement à cet aspect de la description de tâches a été la durée des trajets, estimée à 4 heures pour un transport à Montréal, et 2 ½ heures pour Burlington. À ce sujet, l'appelante a affirmé qu'il lui est arrivé de faire trois trajets le même jour.
+[12] Quant au troisième volet, il a été question du classement de factures; selon le témoin, les diverses factures étaient livrées à la maison de l'appelante par monsieur Parenteau; il a insisté sur le fait qu'il devait compter sur une personne de confiance, d'où le recours à l'appelante. Chaque fois que l'on essayait d'obtenir des précisions du témoin, la même réponse était servie, à savoir que tout était fonction des besoins de l'entreprise. Appeler à reconnaître s'il était exact que la société payait les primes pour une police d'assurance sur la vie de l'appelante, monsieur Parenteau a admis ce fait, se pressant d'ajouter qu'il s'agissait là d'un avantage également consenti à un autre employé dont les services étaient essentiels.
+[13] Selon monsieur Parenteau, il ne s'agissait pas d'un travail de comptabilité ni de gestion, mais essentiellement d'un travail de classement, sans plus de précisions, ce à quoi l'appelante a ajouté qu'elle vérifiait si la marchandise reçue coïncidait avec celle qui avait été facturée. Or, la Cour se demande de quelle marchandise est-il question?
+[14] L'appelante a également indiqué que son travail avait déjà fait l'objet d'une vérification et d'une analyse, à la suite de quoi il avait été décidé qu'il s'agissait d'un emploi assurable. À la suite de cette décision, l'employeur avait payé les cotisations, tenant pour acquis qu'il devait en être ainsi. Monsieur Parenteau a ainsi affirmé et répété qu'il s'agissait là du même genre de travail exécuté de la même façon, et qu'il était étonné de devoir témoigner dans un dossier semblable à celui qui avait déjà fait l'objet d'une décision à l'effet qu'il s'agissait d'un travail assurable.
+[15] Finalement, il a soutenu que le salaire était raisonnable, eu égard à l'expérience et à expertise de l'appelante qui avait travaillé de nombreuses années comme secrétaire exécutive dans le milieu hospitalier.
+[16] De son côté, l'intimé a fait témoigner un policier de la Gendarmerie Royale du Canada (« G.R.C. ») qui avait agi comme agent dans le cadre d'une enquête visant l'employeur de l'appelante. Son témoignage n'a pas été très utile, puisque l'intimé voulait présenter en preuve des renseignements provenant de tiers non présents, ce qui n'a pas été autorisé par la Cour.
+[17] Mesdames Marcelle Gagné et Lyne Courcy ont également témoigné pour l'intimé. Leur témoignage a permis de faire la lumière quant aux nombreux faits niés et de faire la lumière sur la divergence quant aux circonstances entourant le refus de l'appelante de se rendre au bureau des enquêteurs.
+[18] Les faits tenus pour acquis ont notamment été colligés à partir d'une entrevue à laquelle participait le procureur de l'appelante. Manifestement, les explications soumises à la Cour n'étaient pas tout à fait conformes à celles obtenues lors de l'enquête. Les faits suivants furent niés :
+i) c'est M. Richard Sr. Parenteau qui nous a donné les informations concernant l'emploi de l'appelante qui a refusé de collaborer avec l'agent de l'assurabilité et avec l'agent des appels; (nié)
+l) l'appelante effectuait son travail de chez elle d'où elle pouvait contacter de 10 à 15 clients par jour; (nié)
+m) de plus, l'appelante pouvait occasionnellement, aller chercher des clients à l'aéroport de Magog et les ramener au même endroit après leur rencontre avec les dirigeants du payeur; (nié)
+n) le payeur ne possède aucun document pouvant justifier le nombre de transport de clients que pouvait effectuer l'appelante; (nié)
+o) l'appelante a précisé que lorsqu'elle n'avait pas assez de travail, M. Richard Sr. Parenteau lui confiait un peu de comptabilité soit faire quelques additions; (nié)
+p) l'appelante prétend que les calculs qu'elle effectuait pouvaient lui prendre de 4 à 5 heures par jour; (nié)
+q) l'appelante prétend qu'elle faisait 40 heures de travail par semaine alors que ses heures n'étaient pas comptabilisées par le payeur et que le peu de tâches qui lui étaient confiées n'étaient pas quantifiables. (nié)
+r) l'appelante avait initialement déclaré qu'elle utilisait son automobile personnelle pour effectuer ses déplacements alors que le payeur lui fournissait un véhicule pour ses déplacements; (nié)
+s) l'appelante recevait une rémunération fixe de 726 $ brut par semaine et ce sans égard aux heures réellement travaillées; (nié)
+t) si nous considérons la version de l'appelante qui prétend qu'elle faisait 40 heures par semaine, nous obtenons un tarif horaire de 18,15 $ c e qui est nettement injustifié par rapport aux tâches qui lui étaient confiées; (nié)
+u) selon le guide des salaires des professions selon Emploi Québec, le salaire horaire moyen pour une personne travaillant à plein temps dans ce domaine serait de 14,78 $; (nié)
+v) en plus de sa rémunération, l'appelante bénéficiait d'une automobile du payeur et ce dernier payait une assurance‑vie au nom de l'appelante; (nié)
+w) le peu de tâches confiées à l'appelante ne pouvait justifier la rémunération que le payeur lui versait; (nié)
+x) il n'est pas raisonnable de croire que le payeur aurait versé un tel salaire à un commis à la clientèle effectuant un travail similaire à l'appelante. (nié)
+[19] Le témoignage de madame Courcy a permis de constater que les faits énumérés dans la réponse à l'avis d'appel l'avaient été à bon droit; les témoignages de monsieur Parenteau et de l'appelante étaient plus évasifs, moins précis, plus confus que ceux fournis lors de l'enquête.
+[20] La preuve de l'intimé a notamment permis de valider le contenu des allégués :
+i) c'est M. Richard Sr. Parenteau qui nous a donné les informations concernant l'emploi de l'appelante qui a refusé de collaborer avec l'agent de l'assurabilité et avec l'agent des appels; (nié)
+m) de plus, l'appelante pouvait occasionnellement, aller chercher des clients à l'aéroport de Magog et les ramener au même endroit après leur rencontre avec les dirigeants du payeur; (nié)
+n) le payeur ne possède aucun document pouvant justifier le nombre de transport de clients que pouvait effectuer l'appelante; (nié)
+o) l'appelante a précisé que lorsqu'elle n'avait pas assez de travail, M. Richard Sr. Parenteau lui confiait un peu de comptabilité soit faire quelques additions; (nié)
+q) l'appelante prétend qu'elle faisait 40 heures de travail par semaine alors que ses heures n'étaient pas comptabilisées par le payeur et que le peu de tâches qui lui étaient confiées n'étaient pas quantifiables. (nié)
+v) en plus de sa rémunération, l'appelante bénéficiait d'une automobile du payeur et ce dernier payait une assurance‑vie au nom de l'appelante; (nié)
+Analyse
+[21] D'entrée de jeu, l'appelante connaissait très bien tous les motifs de la décision. En outre, la décision a été rendue à la suite d'une enquête pour le moins particulière en ce que plusieurs intervenants y avaient été associés.
+[22] D'autre part, il s'agit d'un dossier où le fardeau de la preuve est la responsabilité de l'appelante.
+[23] Malgré ces deux réalités, l'appelante n'a pas jugé important de faire témoigner un employé de l'entreprise, de préférence une tierce personne, pour valider ou corroborer certains éléments fort importants sinon déterminants de ses allégations.
+· Pourquoi les personnes conduites par l'appelante ne sont-elles pas venues témoigner?
+· Pourquoi aucun employé de l'entreprise n'est venu confirmer que l'appelante travaillait à la vérification des factures?
+· Pourquoi un tel travail n'a pas donné ouverture à une preuve étoffée quant au nombre de factures et à la nature précise du travail effectué et finalement quant à l'intérêt de faire un tel travail?
+· Pourquoi les comptes de téléphone indiquant le nombre, l'endroit et la date des interurbains effectués n'ont-ils pas été produits?
+· Pourquoi la société lui fournissait-elle une automobile pour faire ce genre de travail?
+· Pourquoi la société payait-elle les primes d'assurance‑vie dont elle était le bénéficiaire?
+Ce sont là des avantages assez particuliers pour un travail de ce genre.
+[24] Toutes ces questions conduisent sans doute à la même réponse. Il n'était pas possible de présenter une telle preuve. Les explications de monsieur Parenteau sont tout simplement invraisemblables.
+[25] Se décrivant comme un très important chef d'entreprise, il a, dès le départ, voulu montrer la gêne qu'il éprouvait à devoir s'abaisser à fournir des détails concernant le dossier de l'appelante.
+[26] J'accepte qu'il puisse en avoir été ainsi; par contre, si ses responsabilités étaient importantes et accaparantes au point où il n'était pas en mesure de témoigner d'une manière à faire la lumière sur les divers aspects pertinents, l'appelante se devait de faire appel à une ou des personnes en mesure de fournir les explications à l'appui de ses prétentions.
+[27] À quelques reprises, le témoin Parenteau a affirmé que la relation de l'appelante avec l'entreprise reposait sur la confiance et les liens de famille, les deux qualités étant indissociables.
+[28] L'appelante et monsieur Richard Parenteau connaissaient parfaitement bien tous les faits à l'origine de la décision qu'ils contestaient. Ils auraient dû faire un effort particulier pour réfuter d'une manière raisonnable les éléments pertinents tenus pour acquis par le ministre.
+[29] Ils ont choisi de ne pas le faire et ont soumis des explications vagues et générales tout en faisant valoir une décision antérieure en vertu de laquelle un emploi semble-t-il identique à celui en l'espèce avait été déclaré assurable.
+[30] À partir des explications vagues, souvent confuses et fort imprécises qui nous ont été fournies, je ne vois pas comment une entreprise professionnelle puisse offrir des conditions de travail aussi flexibles à un employé sans exercer aucun contrôle sur son travail.
+[31] La seule explication vraisemblable est le fait qu'il s'agissait manifestement d'un emploi de complaisance dont l'intérêt pour monsieur Parenteau était sans doute de payer sous forme de salaire ce qui était probablement une obligation alimentaire. Tous les faits de ce dossier convergent vers une telle conclusion.
+[32] Je ne doute pas que l'appelante ait pu être mise à contribution pour rendre certains services, dont notamment des services de transport; par contre, les explications quant aux appels effectués dans le but de s'assurer de la satisfaction des clients et le travail quant au classement ou la vérification des factures me sont apparues comme étant essentiellement une description d'un travail bidon pour tenter de faire la preuve d'une prestation de travail justifiant le salaire versé. D'ailleurs, l'usage d'un véhicule pendant une partie de la période de travail est encore là quelque chose de fort important pour quelqu'un qui fait généralement un travail rémunéré beaucoup plus près du salaire minimum que de celui payé à l'appelante.
+[33] Chose certaine, et c'est là la question fondamentale à laquelle je dois répondre, un tiers n'aurait-il pu obtenir le salaire et les conditions décrits par monsieur Richard Parenteau et confirmés globalement par l'appelante?
+[34] Quant à la décision rendue précédemment par la Cour à l'effet que son travail était assurable et qui a été déposée à l'appui de la position de l'appelante, elle ne lie évidemment pas la Cour. D'autre part, il s'agit là d'une décision résultant d'une analyse très sommaire dont les conclusions peuvent d'ailleurs être contestées de la même manière que dans le présent dossier.
+[35] J'ajouterais cependant que, malheureusement, j'ai vu de très nombreux dossiers où les conséquences d'une décision ont pesé plus lourd dans la balance que les éléments pertinents; en effet, certaines décisions semblent conclure à l'assurabilité lorsqu'il s'agit de percevoir des cotisations et à la non‑assurabilité lorsque le litige porte sur le paiement de prestations d'assurance-emploi. Lorsqu'un même dossier fait l'objet de décisions contradictoires, cela a évidemment pour effet de créer de la confusion et surtout un grand scepticisme dans l'esprit des justiciables, dont l'appelante.
+[36] En l'espèce, il y a aucun doute que le travail n'était pas exercé dans le cadre d'un véritable contrat de louage de services en ce sens que la relation de travail était très influencée par le lien de dépendance entre les parties. Par conséquent, l'appel doit être rejeté.
+Signé à Ottawa, Canada, ce 7e jour de février 2008.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2008CCI54
+Nº DU DOSSIER DE LA COUR : 2007-2258(EI)
+INTITULÉ DE LA CAUSE : HÉLÈNE LACROIX et M.R.N.
+LIEU DE L’AUDIENCE : Sherbrooke (Québec)
+DATE DE L'AUDIENCE : le 16 janvier 2008
+MOTIFS DE JUGEMENT PAR : L'honorable juge Alain Tardif
+DATE DU JUGEMENT : le 7 février 2008
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Jean Beaudry
+Avocate de l'intimé :
+Me Christina Ham
+AVOCATE INSCRITE AU DOSSIER :
+Pour l'appelante: Me Jean Beaudry
+Jean Beaudry & Associé
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Ontario

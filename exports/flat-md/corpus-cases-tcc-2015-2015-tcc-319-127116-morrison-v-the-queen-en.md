@@ -1,0 +1,188 @@
+---
+title: "Morrison v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/127116/index.do"
+last_modified: "2015-12-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 TCC 319"
+citation2: ""
+neutral_citation: "2015 TCC 319"
+decision_date: "2015-12-09"
+language: "en"
+item_id: "127116"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2871
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:03:50.280000+00:00"
+cases_cited_count: 4
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b32c22a2535bf345de8c77c8759b6a26d465809cceee1e6cb9968e897f3225c1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Morrison v. The Queen
+
+- Citation: 2015 TCC 319
+- Decision date: 2015-12-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2871, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Morrison v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-12-09
+Neutral citation
+2015 TCC 319
+File numbers
+2008-2759(IT)G, 2008-2779(IT)G, 2014-3231(IT)G
+Judges and Taxing Officers
+Frank J. Pizzitelli
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 2008-2759(IT)G
+2008-2779(IT)G
+2014-3231(IT)G
+BETWEEN:
+V. ROSS MORRISON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion heard on December 4, 2015 at Toronto, Ontario
+Before: The Honourable Justice F.J. Pizzitelli
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Ryan Gellings
+ORDER
+The Appellant’s motion is dismissed in its entirety, with costs to the Respondent regardless of the result.
+Signed at Ottawa, Canada, this 9th day of December 2015.
+“F.J. Pizzitelli”
+Pizzitelli J.
+Citation: 2015 TCC 319
+Date: 20151209
+Dockets: 2008-2759(IT)G
+2008-2779(IT)G
+2014-3231(IT)G
+BETWEEN:
+V. ROSS MORRISON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Pizzitelli J.
+[1] As per the Appellant’s Amended Notice of Motion filed August 20, 2015, the Appellant states:
+THE MOTION IS FOR an Order pursuant to Sections 80, 81, 82, 88, 91 and 146.1 of the Tax Court of Canada Rules (General Procedure) as follows:
+1. Directions with respect to the designation of the Appellants’ appeals as test cases in the Canadian Humanitarian Trust (“CHT”) and Canadian Gift Initiative (“CGI”) appeals;
+2. That the Respondent file and serve a further and better List of Documents (Partial Disclosure) to include the information and documentation described in paragraph 4 below;
+3. In the alternative, that the Respondent file and serve a List of Documents (Full Disclosure) to include the information and documentation described in paragraph 4 below;
+4. That the Respondent disclose or produce for inspection the names and municipal and/or email addresses of all persons who have filed Objections to the Reassessments in the CHT and CGI Donation Programs and whose Objections have not been resolved (the “Outstanding Objectors”);
+5. That the Respondent inform all Outstanding Objectors of the Appellant’s status as the test case Appellant before this Court;
+6. In the alternative, that the Appellant inform all Outstanding Objectors of the Appellant’s status as the test case Appellant before this Court;
+7. That the Respondent produce to the Appellant copies of the transcripts of the examination for discovery of the Respondent in the test case appeals (as described in the Affidavit of V. Ross Morrison filed herewith);
+8. That the examinations for discovery of the Appellant be postponed from a date no later than September 21, 2015 to a date no later than January 22, 2016 pending the hearing of the within motion and production of the said transcripts and List of Documents as described above, and that the Order of the Honourable Justice B. Paris dated April 2, 2015 be amended accordingly;
+9. The Appellant’s costs of this motion payable in any event of the cause; and
+10. Such further and other relief as to this Court may seem just.
+[2] It should be noted that with respect to the relief requested pursuant to paragraph 8 above, that a subsequent Order of Paris J., the case management judge, dated October 13, 2015, already extended that date to January 22, 2016. The Appellant, however, argues that in light of the date this motion is being heard that such date be further extended until the end of March.
+[3] Some factual context is necessary background in addressing this motion. These appeals involve the denial by the Minister of National Revenue (the “Minister”) of charitable tax credits pursuant to subsection 118.1(3) of the Income Tax Act (the “Act”), claimed by the Appellant for donations of pharmaceuticals under tax shelter programs described as the CHT and CGI Donation Programs above, for the 2003, 2004 and 2005 taxation years respectively. Paris J. of this Court is the case management judge for a group of appeals that initially selected the three promotors of the Donation Program and 12 other appellants as the test cases and held all others, including the Appellant, in abeyance. After the 12 earlier appellants who had been so designated had either settled or withdrawn their appeals, leaving only the appeals of 3 promoters of the Donation Programs in issue, the Appellant was added to the list of test cases by Order of December 17, 2014 and is in fact the only non-promoter appellant left in the test cases so designated. It should also be noted that counsel for the promoters, a large national law firm, has recently withdrawn as counsel of record for the promoters.
+[4] The relief sought by the Appellant involves three main issues; (1) the disclosure of the names and addresses of third-party taxpayers who are only at the objections stage of their process; (2) the release of transcripts of discovery conducted against the Respondent by other appellants; and (3) a delay in the date of discovery of the Appellant. I will address each in the context of the Appellant’s arguments.
+1. Disclosure of Third-Party Objectors [5] The Appellant argues that he is entitled to the names and municipal addresses of all those taxpayers who have participated in the Donation Programs in issue that have filed objections but are not yet at the appeal stage for several reasons (the “Outstanding Objectors” or “Objectors”). First, the Appellant argues that by reason of his status as a test case he is entitled to know that information which is in the possession of the Minister who is otherwise dealing with them. Secondly, he argues they may effectively assist him in an evidentiary manner in his case by testifying as witnesses or allowing his firm to represent them. Thirdly, he argues, that the Minister has put them in issue by referring to taxpayers who participated in the programs in its Amended Replies and hence, has put in issue the numbers and status of the Objectors and so makes such information relevant. Moreover, argues the Appellant , the names and addresses of the Objectors is not information that is covered under the confidentiality provisions of section 241 of the Act relied upon by the Minister in refusing his requests for that information. Finally, the Appellant argues that the Objectors are entitled to know he is a test case and that counsel for the promoters has withdrawn all of which he argues is a significant change in circumstances that should be communicated to the Objectors.
+[6] I do not agree with any of the Appellant’s arguments. The Appellant has neither provided nor argued any legal precedent that supports his position on any of these issues. There is ample precedent against.
+[7] The Appellant relies, inter alia, on rules 80, 81, 82 and 88 of the Tax Court of Canada Rules (General Procedure) (the “Rules”) in support of his Motion. Rule 80 allows a party to require the other party to produce a document or allow inspection and copying of a document that is referred to in a pleading or affidavit of the other party. There is no evidence in the pleadings or any affidavit on record that refers to any list of the names and addresses of the Objectors so no such document exists or was put onto any list of Partial Disclosure by the Respondent. Merely making reference to large numbers of taxpayers who participated in the Donation Programs in issue in the Respondent’s Amended Replies does not magically transform mention of such taxpayers in general into a list of Objectors’ names and addresses. Moreover, it is trite law that a party is not required to compile an analyses or document of information that does not already exist for the other party as set out in Rezek v The Queen, [2000] TCJ No. 101, 2000 DTC 1966.
+[8] It should also be noted that these matters have proceeded under the Partial Disclosure rule of Rule 81 as ordered by Paris J. There had never been a motion for full disclosure by the Appellant under Rule 82 and although he asks that the Court order the Respondent to deliver a list of the names and addresses of the Objectors either under Rule 81 or Rule 82, he has made no motion for a Rule 82 disclosure nor argued why it should be given or addressed any of the tests applicable thereto, nor has he gone through the discovery process to determine whether such disclosure is even necessary. Moreover, Rule 82 also refers to the disclosure of documents that are or have been in the party’s control, possession or power and as above stated, there is no evidence any document exists listing the name of all Objectors and their addresses.
+[9] The Appellant of course relies on Rule 88 that allows a court to order the disclosure of a relevant document in the party’s possession, control or power that was omitted from the party’s affidavit of documents [either under Rule 81 or 82] or for which a claim of privilege is improperly made.
+[10] While there is no evidence of any such document as indicated or claim for privilege before me, I must state that the primary condition for the release of any such document would in any event be that it be relevant to the Appellant’s matters before the Court. It is trite law that the manner in which other taxpayers are treated by the Minister is not relevant to another taxpayer as stated by the Federal Court of Appeal in Ford Motor Co. of Canada, Limited v MNR, [1997] 3 FCR 103, at paragraphs 48-49 where Linden J.A. concluded that “… as a matter of principle, a taxpayer must prove that it meets the requirements of the legislation on its own terms.”
+[11] As the Respondent has pointed out, the names and addresses of the Objectors, let alone any other taxpayers, are not relevant as to the issues in the Appellant’s appeal; namely whether the Appellant is entitled to the charitable tax credit in regards to his alleged pharmaceutical donations; whether the tax receipts he relies on comply with the requirements of the Act and Regulations; what the fair market value of such donations were or what the capital gain calculation relating to them might be.
+[12] The only explanation that makes such names and addresses relevant appear to be found in the Appellant’s affidavit in support of this Motion that such Objectors may wish to retain the services of the Appellant’s law firm. Frankly, such suggestion is a totally inappropriate reason for bringing this application.
+[13] The Appellant actually admitted in argument that while he could get by without this requested information he felt entitled to them as a consequence of his status as a test case. Firstly, there is no support in law for such alleged entitlement and secondly he has in fact admitted such information is not really necessary for his case. I might also add that the Appellant has argued he understands that there are in fact more than 200 taxpayers who have filed Notices of Appeal and so such information with respect to such taxpayers are a matter of public record. He appears to have ample access to hundreds of taxpayers who might be able to assist him as witnesses if he chooses to contact them. I fail to see how in these circumstances he can possibly argue the Minister should release confidential third-party information as a matter of necessity. He should make his own efforts to compile third-party taxpayer information for his purposes, either by reviewing information that is a matter of public information as it pertains to the taxpayers who have filed appeals above or advertising for assistance from those who have not. The Appellant appears to feel he has the right to ask the Respondent or even this Court to do his leg work for him without making any real effort to do so himself.
+[14] As for the Appellant’s contention that section 241 of the Act does not prohibit the Respondent from releasing the names and addresses of the Objectors, I simply cannot agree either.
+[15] Section 241 reads as follows:
+241(1) Provision of Information. Except as authorized by this section, no official or other representative of a government entity shall
+(a) knowingly provide, or knowingly allow to be provided, to any person any taxpayer information;
+(b) knowingly allow any person to have access to any taxpayer information; or
+(c) knowingly use any taxpayer information otherwise than in the course of the administration or enforcement of this Act, the Canada Pension Plan, the Unemployment Insurance Act or the Employment Insurance Act or for the purpose for which it was provided under this section.
+(2) Evidence relating to taxpayer information. Notwithstanding any other Act of Parliament or other law, no official or other representative of a government entity shall be required, in connection with any legal proceedings, to give or produce evidence relating to any taxpayer information.
+(3) Communication where proceedings have been commenced. Subsections (1) and (2) do not apply in respect of
+(a) criminal proceedings, either by indictment or on summary conviction, that have been commenced by the laying of an information or the preferring of an indictment, under an Act of Parliament; or
+(b) any legal proceedings relating to the administration or enforcement of this Act, the Canada Pension Plan, the Unemployment Insurance Act or the Employment Insurance Act or any other Act of Parliament or law of a province that provides for the imposition or collection of a tax or duty.
+… [3.1 to 3.3 omitted as not specific to these reasons]
+(4) Where taxpayer information may be disclosed. An official may
+(a) provide to any person taxpayer information that can reasonably be regarded as necessary for the purposes of the administration or enforcement of this Act, the Canada Pension Plan, the Unemployment Insurance Act or the Employment Insurance Act, solely for that purpose;
+…
+[16] It is clear that subsections 241(1) and (2) contain the restrictions against any government official which includes the Minister releasing any taxpayer information or giving evidence with respect to same. The Appellant however argues that the names and addresses of the Objectors is not “taxpayer information” and that subsection 241(3) would in any event exclude the application of subsections (1) and (2).
+[17] Subsection 241(10) of the Act defines “taxpayer information” as follows:
+(10) Definitions. In this section,
+…
+“taxpayer information” means information of any kind and in any form relating to one or more taxpayers that is
+(a) obtained by or on behalf of the Minister for the purposes of this Act, or
+(b) prepared from information referred to in paragraph (a),
+but does not include information that does not directly or indirectly reveal the identity of the taxpayer to whom it relates.
+[18] It is absolutely clear that not only is taxpayer information very broadly defined to include “information of any kind and in any form” which would clearly include names and addresses, but the fact it excludes information that would not “directly or indirectly reveal the identity of the taxpayer” emphasizes that the names and addresses of taxpayers are the focus of such identity protection.
+[19] As for the Appellant’s argument that paragraph 241(3)(b) is an exception to the release of taxpayer information since his appeal is a legal proceeding relating to the administration of the Act, the Appellant has unfortunately failed to grasp that subsection (4) also applies and clearly only allows the release of information that is “necessary” for the purposes of such administration or enforcement and “solely” for that purpose. As indicated above, the Appellant has admitted such information is not necessary and I have found it is neither relevant nor necessary for the Appellant to have in respect of this proceeding of enforcement of the Act against him.
+[20] In Rezek above Bowman J. held that the names of other taxpayers who engaged in the same transactions could not be disclosed and in Penn West Petroleum Ltd. v The Queen, 2006 TCC 82, 2006 DTC 2338, Beaubier J. found that whether other taxpayers had been reassessed is information that is expressly forbidden by statute. Both are consistent with the Federal Court of Appeal’s decision in Ford above that the taxpayer must prove the requirements of compliance with the Act on its own terms and that those of others are irrelevant.
+[21] Consistent with the above principles, there is also no need for the Objectors to be told the Appellant is a test case or that previous counsel for the promoters have withdrawn. Since this information is a matter of public record, all other taxpayers have access to same. Each taxpayer of course has the right to pursue his objections and appeals as he or she or it may determine including deciding whether to file an appeal where the Minister had not confirmed an objection within 90 days pursuant to paragraph 169(1)(b) of the Act and whether they wish to be represented by counsel and who that might be. This Court has no jurisdiction to involve itself in the affairs of taxpayers who have not filed an appeal unless specifically provided for in the Act or other applicable legislation nor to dictate to the Minister what information it must make available to such parties as part of its duties or acts in dealing with taxpayers in pre-appeal stages. That is for the Minister to decide and for such other taxpayers to deal with if they so choose. The Appellant has no standing to speak for any such other taxpayers or advocate for them and in fact would be acting improperly by attempting to do so without their consent, notwithstanding any altruistic concerns he may have for them. Moreover, the fact the Minister interacts with taxpayers involved in similar transactions before the appellate stage does not mean such interaction is, in and of itself, proof their information is relevant to other appellants as the Appellant seems to contend.
+2. Release of Transcripts for Discovery of Respondents [22] I cannot agree with the Appellant’s request to order the Respondent to release the transcripts for discovery of the Respondent conducted by other appellants without the consent of such other parties or without making a motion for the release of such third-party information on notice to such other appellants. In my opinion, both the Minister’s obligations under the confidentiality provisions of section 241 above discussed and the well-entrenched “implied undertaking” rule operate to prohibit such disclosure.
+[23] The rationale for the implied undertaking rule is discussed in the Supreme Court of Canada’s decision in Juman v Doucette, [2008] 1 SCR 157, 2008 SCC 8, at paragraphs 23 - 27; namely to protect privacy and ensure complete and candid discovery in the process. At paragraphs 27 and 30 Binnie J. summarized:
+[27] For good reason, therefore, the law imposes on the parties to civil litigation an undertaking to the court not to use the documents or answers for any purpose other than securing justice in the civil proceedings in which the answers were compelled…
+…
+[30] The undertaking is imposed in recognition of the examinee’s privacy interest, and the public interest in the efficient conduct of civil litigation, but those values are not, of course, absolute. They may, in turn, be trumped by a more compelling public interest. Thus, where the party being discovered does not consent, a party bound by the undertaking may apply to the court for leave to use the information or documents otherwise than in the action, as described in Lac d’Amiante, at para. 7:
+Before using information, however, the party in question will have to apply for leave, specifying the purposes of using the information and the reasons why it is justified, and both sides will have to be heard on the application.
+In such an application, the judge would have access to the documents or transcripts at issue.
+[24] While I note that the Respondent has indicated it does not object to the release of such short transcripts, which it says exist with respect to only two other appellants, provided this Court so orders or the other appellants consent, such discovery was conducted by such other appellants at their cost and as part of their appeal pursuant to an action between the Minister and such other appellants and should not be disclosed to any other party without their consent or court order issued pursuant to a proper motion in which they have been given the opportunity to participate in to protect whatever privacy interest or public interest they may choose. It is not for the one party to simply violate such implied undertaking without the consent of the other party. Moreover, since it is not the Respondent here who seeks to have the implied undertaking set aside, the confidentiality rules of the Act place an obligation on the Respondent not to release such information that no doubt may contain some taxpayer information, without a court order permitting it to do so as a matter of necessity. While I appreciate the release of such information may be a convenience to the Appellant, I frankly fail to see why it would be a necessity, especially having regard to my comments earlier and the fact that he may and has yet to conduct his own discovery of the Respondent and so appears to me that such request may be premature if not redundant. However, he is free to pursue such motion if he so chooses on proper application to the Court and on notice to the other appellants who conducted the discovery and to the Respondent.
+3. Delay in Discovery of Appellant [25] In light of the above, as I am not in agreement with the Appellant’s position on any of the other reliefs requested in this motion, I see no reason to interfere with the Order of Paris J. who extended the time for discovery of the Appellant until January 22, 2016.
+Conclusion [26] The Appellant’s motion is dismissed in its entirety with costs to the Respondent regardless of the result.
+Signed at Ottawa, Canada, this 9th day of December 2015.
+“F.J. Pizzitelli”
+Pizzitelli J.
+CITATION:
+2015 TCC 319
+COURT FILE NOs.:
+2008-2759(IT)G
+2008-2779(IT)G
+2014-3231(IT)G
+STYLE OF CAUSE:
+V. ROSS MORRISON AND THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+December 4, 2015
+REASONS FOR ORDER BY:
+The Honourable Justice F.J. Pizzitelli
+DATE OF ORDER:
+December 9, 2015
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Ryan Gellings
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+n/a
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

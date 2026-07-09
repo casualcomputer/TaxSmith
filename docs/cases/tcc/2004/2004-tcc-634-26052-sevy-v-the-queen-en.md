@@ -1,0 +1,172 @@
+---
+title: "Sevy v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26052/index.do"
+last_modified: "2004-09-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 634"
+citation2: ""
+neutral_citation: "2004 TCC 634"
+decision_date: "2004-09-20"
+language: "en"
+item_id: "26052"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4078
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:01:26.517000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c79a75ce2ac9ec6836f63dc4246a9469bfdbf6592e1e90ca154d2f67c34fb9a9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sevy v. The Queen
+
+- Citation: 2004 TCC 634
+- Decision date: 2004-09-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4078, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sevy v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-09-20
+Neutral citation
+2004 TCC 634
+File numbers
+2002-3097(IT)G
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-3097(IT)G
+BETWEEN:
+JOY O'NEILL SEVY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on August 12, 2004, at Kelowna, British Columbia, by
+The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+Leslie J. Mackoff
+Counsel for the Respondent:
+Kristy Foreman Gear
+JUDGMENT
+The appeal from an assessment of tax made under the Income Tax Act for the 1993 taxation year is allowed, with costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Penticton Property was a "qualified farm property" within the meaning of subsection 110.6(1) of the Act.
+Signed at Ottawa, Canada, this 20th day of September, 2004.
+"Campbell J. Miller"
+Miller J.
+Citation: 2004TCC634
+Date: 20040920
+Docket: 2002-3097(IT)G
+BETWEEN:
+JOY O'NEILL SEVY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Miller, J.
+[1] In 1993, Mr. Joy Sevy sold a 13.6-acre parcel of land near Penticton, British Columbia for $600,000. The Minister of National Revenue (the Minister) assessed Mr. Sevy on the basis that Mr. Sevy realized a $513,584 capital gain, three-quarters of which was taxable. Mr. Sevy claims the gain arises from the disposition of "qualified farm property" and is therefore subject to a deduction in accordance with section 110.6 of the Income Tax Act (the Act). I agree with Mr. Sevy.
+[2] Mr. Sevy moved to British Columbia from the United States in 1962. He had a desire to ranch. He acquired 680 acres in the southern part of British Columbia, specifically in the remote Kettle River Valley area. He leased an additional 500 acres and coincidentally acquired 34 brood cows. It was his intention to operate a cattle ranch. He faced some onerous circumstances: no electricity, no running water, four young children and poor road travel conditions to get cattle to market. He claimed he needed 140 head to have a viable operation. By 1965, he had worked the herd to 80 head.
+[3] During the years 1962 to 1965, Mr. Sevy fenced the property, harrowed part of it, seeded and harvested a hay crop, acquired machinery which he maintained himself and bred the cattle. Because he could not sell all the calves, as he needed to retain them to develop the herd, he found he was unable to make ends meet in these early stages.
+[4] In 1965, Mr. Sevy moved to Penticton to sell life insurance. He continued to ensure the fields of the farm got ploughed and planted, fencing got done, the machinery was repaired and the cattle cared for. Also, in 1965 Mr. Sevy met Mr. Atwood. Together they attended an agricultural seminar in Kamloops, British Columbia, at which they heard the British Columbia Government was encouraging the promotion of the cattle industry hand-in-hand with what Mr. Sevy called corn silage. With this knowledge, and appreciating the difficulties Mr. Sevy had in transporting his cattle over 100 miles to auction, and the devastating effect on his cattle in doing so, Mr. Sevy struck on a plan. If he could feed his stock in a milder climate to fatten them up, in an area with accessible corn and feed, and in close proximity to the auction market, his ranch could become a much more viable operation. He also believed that developing such a feedlot close to Penticton would attract other ranchers to feed their cattle there. Everything would be cheaper for his ranching operation.
+[5] In 1965, in accordance with his plan, Mr. Sevy and Mr. Atwood acquired 42 acres near Penticton (the Penticton property) for the purpose of fulfilling this plan. It is part of the Penticton property that is the subject of this appeal.
+[6] Mr. Sevy immediately added fencing to the Penticton property. He also continued to search for nearby corn land. He studied other feedlot operations and determined he needed $150,000 to $200,000 to get a feedlot up and running. He started looking for funding.
+[7] In 1966, Mr. Sevy brought his tractor to the Penticton property to harrow and clear rocks. He planted grass. In the fall of 1966 and in 1967, he actually rested some of his cattle on the Penticton property for a few days. To assist with funding, Mr. Sevy sold one-third of the Penticton property to a third party in 1966 for $3,000. He had no luck with bankers, private investors or feed suppliers in his ongoing search for investors.
+[8] Mr. Sevy testified that he was forever promoting his feedlot plan, as he believed that was the only way his ranch would flourish. He maintained this intention through to 1973, when he started selling real estate, a venture he enjoyed and one in which he was successful.
+[9] In 1967, Mr. Sevy entered an arrangement with a riding club in Penticton that they would use the Penticton property for maintaining the horses and trail riding, in exchange for covering the taxes and helping with mending fences. In the same year, Mr. Sevy moved back on to the Kettle River Valley ranch and continued his farming activities, though in 1967 and 1968 the price for beef meant the situation was not "financially great", as Mr. Sevy put it.
+[10] During the years 1965 to 1971, Mr. Sevy continued to run his ranch in the Kettle River Valley, haying, fencing and breeding cattle. He maintained that 50% of his time went into the operation though three-quarters of his energy was devoted to the farm. Any excess funds from his life insurance business would be put into the farm.
+[11] In 1968, Mr. Sevy moved to Osoyoos, working on odd jobs to make ends meet. He leased the ranch property out over the next couple of winters though he continued to personally work the ranch. He was still attempting to commercially run the ranch and did not want to lose any range rights. About two-thirds of Mr. Sevy's time was in Osoyoos and one-third at the ranch. In 1970, he briefly worked in the United States. In 1971, Mr. Sevy indicated there was not as much going on other than maintenance and getting the hay in, though he clung to the feedlot plan, continuing to seek financing.
+[12] Mr. Sevy summarized his ranching activity as being all-year round when he actually lived at the ranch - thousands of hours. When not living at the ranch, he would still spend 600 to 1,000 hours running the operation. The activities on the ranch included:
+- replacing roofs;
+- levelling land;
+- digging out waterholes;
+- breeding cattle;
+- haying;
+- building sheds;
+- felling trees and opening lands;
+- fencing;
+- repairing machinery;
+- getting in water; and
+- setting up septic system.
+[13] In 1981, Mr. Atwood had some financial difficulties which led to his creditor taking over his one-third interest in the Penticton property. This required a subdivision of the 42 acres, resulting in Mr. Sevy holding just the 13.6 acres of the Penticton property in issue. In 1993, Mr. Sevy sold the 13.6 acres for $600,000.
+Analysis
+[14] The legislation at issue in this appeal is the definition of "qualified farm property" found in subsection 110.6(1) of the Income Tax Act (the Act), which states as follows:
+110.6(1) For the purposes of this section,
+...
+"qualified farm property" of an individual (...) at any particular time means a property owned at that time by the individual, ...that is
+(a) real property that was used by
+(i) the individual,
+...
+in the course of carrying on the business of farming in Canada and, for the purpose of this paragraph, property will not be considered to have been used in the course of carrying on the business of farming in Canada unless
+(vii) where the property is a property last acquired by the individual or partnership before June 18, 1987, or after June 17, 1987 ... the property ... was used by the individual ... principally in the course of carrying on the business of farming in Canada
+(A) in the year the property was disposed of by the individual, or
+(B) in at least 5 years during which the property was owned by the individual ...
+If the property qualifies, it is afforded the favourable treatment found in subsection 110.6(2) of the Act.
+[15] For the Penticton property to qualify as "qualified farm property", it must have been used by Mr. Sevy in the course of carrying on the business of farming, which for purposes of the definition in the Act requires that the Penticton property was used by him principally in the course of carrying on the business of farming in at least five years during which he owned the Penticton property. Mr. Sevy's counsel argued that the Penticton property was so used from 1966 to 1971, as it was integrally part of Mr. Sevy's ranch operation, which he clearly carried on during those five years. The Respondent argued: first, the Penticton property was for a separate business, the feedlot business, a business that was never carried on; second, if the Penticton property was part of Mr. Sevy's ranch operation, the property was not used principally in the course of carrying on that farming operation but was used principally for the riding club; and third, if it was used principally in the course of carrying on the ranch operation, such use ended by 1968, so it did not meet the five-year requirement.
+[16] Mr. Sevy was a direct, credible witness. In his testimony he relived the pain of some earlier harsher years of his life. His years of ranching could not be described as a complete success, but success is not the criteria for determining whether Mr. Sevy was carrying on the business of farming. He did carry on such a business for a number of years from the early 1960s to the early 1970s. The Respondent does not deny this. This is not a case of determining whether the Appellant was carrying on the business of farming. The issue is whether the Penticton property was used by Mr. Sevy principally in the course of his carrying on the business of farming over a five-year period.
+[17] The first issue is which business is involved. Appellant's counsel argues the Penticton property is integrally part of Mr. Sevy's overall ranch operation, notwithstanding its distance from the ranch; that is, there is only one business of farming being carried on. The Respondent views the Penticton property as a potential new business, a feedlot operation, which never progressed to the point of constituting the carrying on of a business. As such, there was no carrying on of a business to which the use of the property could be connected.
+[18] Mr. Sevy had a plan, the only plan as far as he was concerned that would turn a marginal ranching operation into a successful ranching operation. That plan was to acquire property closer to the cattle markets, property upon which the cattle could be readied for market with accessible feed, primarily corn. Mr. Sevy's greater plan was that such a feedlot would ultimately attract other ranchers' cattle. He in fact acquired the property (the Penticton property), in 1965 and took some preliminary steps to fence the property and ready it for the greater plan. He continued to look for appropriate property for corn. He looked for further financing. He rested some cattle on the property on a couple of occasions. I am satisfied that the acquisition of the Penticton property was a natural progression in the evolution of Mr. Sevy's existing ranching business. I see it more in that light, than as a whole new separate venture, as the Respondent suggests.
+[19] Having reached the conclusion there was only one business of farming being carried on, I turn to the second aspect of the Respondent's argument; that is, even if the Penticton property is considered part of Mr. Sevy's ranching operation, it was not used principally in the course of carrying on that business. This is a very fine distinction of a turn of words; "use" is required, indeed a "principal use" is required, suggesting there may be more than one use to which the property is put. Is raw land acquired for the only purpose of an extension of an existing farming operation only "principally used" in that farming operation when fully operational? This places too strict an interpretation on "use", and ignores the business realities of startup or expansion growing pains. I was provided with just one case which referred to the question of "use" for the purpose of the definition of "qualified farm property". In the case of Larsen v. R.,[1] Justice Beaubier found that the sale of timber rights was a sale of a capital asset, and further went on to find that this capital asset was "qualified farm property" on the basis that cattle "used the timber for shelter when they pastured on the land". It appears some minimal use can constitute use nonetheless.
+[20] "Use" is defined in the Canadian Oxford Dictionary as follows: "to employ something for a particular purpose". This denotes two elements: an actual employment of something and a purpose. How is real property employed? As illustrated by the Larsen case, the property was employed simply by existing, as the simple existence of the timber provided shelter. Certainly, land that is worked by harrowing, seeding and growing is employed. But land tendered as collateral is likewise employed, not by any physical activity on the land but by its very existence. In Mr. Sevy's situation there was both the active and passive elements of use; the active being the mending of fences and the pasturing of cattle. There was also a passive element - Mr. Sevy's efforts to raise funds. He was not just attempting to raise money on the strength of a dream, but on the strength of actually owning this appropriate piece of property. Though this "use" may seem minimal, there was no other use, and consequently even a modicum of use constitutes actual employment of the land.
+[21] I turn to the second element of "use" - purpose. What was the purpose of the Penticton property? The Respondent suggests the answer is that it was to operate a feedlot. There was a broader way of defining the purpose, and certainly one which Mr. Sevy emphasized; that is, to make the ranch financially viable. If that is what the property is intended for, lack of success in achieving financial viability does not negate that intention.
+[22] Mr. Sevy required some considerable funding to fully implement his plan for the Penticton property - funding he was never able to obtain. But he did what he needed to do to keep the prospects alive: he fenced the property, he obtained assistance from a riding club to mend fences and to defray certain costs, he continued to seek out financing, he continued to look for property to grow corn and he sold a part of the property in 1966 to obtain funds. These activities convince me that the Penticton property was, for some period of time, principally used in Mr. Sevy's carrying on of his farming business, albeit in the developmental stage of this aspect of his ranch. There was no other use: there was no speculative objective. There was an intention that the Penticton property be used in the ranching business, a plan that the Penticton property be used in the ranching business, steps taken to implement that plan and no other use for that property. I conclude that the Penticton property's principal use could only have been in the course of Mr. Sevy carrying on the ranching business.
+[23] This leads to the last contention of the Respondent, that Mr. Sevy has not proven this principal use continued for the requisite five-year period. The activities described of fencing, planting, clearing, resting cattle on the property and raising funds through selling part of the property all took place in 1966 and 1967. In 1968, Mr. Sevy lived off the ranch; in 1970, he briefly worked in the United States. He testified that even when he was not living on the ranch he devoted considerable hours to it, though acknowledged that in 1971, there was not much going on other than maintenance and getting hay in. His testimony for the years 1969 to 1971 appeared to address more the activities on the main part of the ranch, rather than on the Penticton property, though I find he did continue to seek financing for his expansion plans into the early 1970s. I find the activity with respect to the Penticton property lessened from 1967 to 1971, though I also find Mr. Sevy was still carrying on the business of farming over that period of time.
+[24] Having found that the Penticton property was being used principally in the course of carrying on the business of farming for some period of time, I must ask whether the Penticton property stopped being used before 1971 for that purpose. If so, it cannot be found to be qualified property. On balance, I accept Mr. Sevy's evidence that some activity, mending fences for example, continued throughout a five-year period and that efforts to rely on the Penticton property to obtain financing to implement his expansion as planned likewise continued, likely until 1973, when Mr. Sevy discovered his family fortunes could be better served in pursuing an alternate career plan. I consider the Penticton property was used, and it was used principally in the course of carrying on a farming business and such principal use continued for the period from 1966 to 1971.
+[25] The appeal is allowed on the basis that the Penticton property was "qualified farm property". Costs to the Appellant.
+Signed at Ottawa, Canada, this 20th day of September, 2004.
+"Campbell J. Miller"
+Miller J.
+CITATION:
+2004TCC634
+COURT FILE NO.:
+2002-3097(IT)G
+STYLE OF CAUSE:
+Joy O'Neill Sevy and Her Majesty The Queen
+PLACE OF HEARING:
+Kelowna, British Columbia
+DATE OF HEARING:
+August 12, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT:
+September 20, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Leslie J. Mackoff
+Counsel for the Respondent:
+Kristy Foreman Gear
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Leslie J. Mackoff
+Firm:
+Mackoff & Company
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 98 DTC 2193.

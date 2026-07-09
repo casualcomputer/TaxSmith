@@ -1,0 +1,109 @@
+Title: Lee v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26527/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-625-26527-lee-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2004-11-02
+
+# Lee v. The Queen
+
+- Citation: 2004 CCI 625
+- Decision date: 2004-11-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3210, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lee v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-11-02
+Référence neutre
+2004 CCI 625
+Numéro de dossier
+2001-3616(IT)G
+Juges et Officiers taxateurs
+Murray A. Mogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2004CCI625
+Date : 20041102
+Dossier : 2001-3616(IT)G
+ENTRE :
+THOMAS LEE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE] ____________________________________________________________________
+Pour l'appelant : l'appelant lui-même
+Avocate de l'intimée : Me Andrea Jackett
+____________________________________________________________________
+MOTIFS DU JUGEMENT
+(Rendus oralement à l'audience à Toronto (Ontario), le 14 juin 2004)
+Le juge Mogan
+[1] Il s'agit d'un appel concernant l'année d'imposition 1997 de Thomas Lee. Seul M. Lee a témoigné à l'audience; il a déclaré être ingénieur en logiciel. En 1997, il travaillait au Canada et, en sa qualité d'employé, il touchait un revenu supérieur à la moyenne. M. Lee réside maintenant au Texas; il a expliqué qu'il s'était installé au Texas en 1999 pour y travailler.
+[2] En produisant sa déclaration de revenus pour l'année 1997, M. Lee a déclaré le revenu d'emploi qu'il avait gagné au Canada; il a également inclus un formulaire T776 de Revenu Canada, État des loyers de biens immeubles, à l'égard des biens locatifs désignés comme étant les unités 314 et 316 du Windjammer, 1400, boulevard Gandy, St. Petersburg (Floride). En ce qui concerne ces biens, il a indiqué qu'il y avait deux unités et que le montant brut des loyers était de 520 $; la seule dépense qui a été déduite se rapportait à des intérêts d'un montant de 1 562,84 $, ce qui entraînait une perte nette de 1 042,84 $. De plus, l'appelant a déduit une perte finale de 54 800 $ à l'égard de la disposition de ces biens.
+[3] L'appelant déclare avoir acheté, vers 1991, deux unités condominiales à St. Petersburg (Floride) sans les avoir vues. Il s'est fié à ce qu'un agent immobilier lui avait dit, à savoir qu'il pourrait réaliser un revenu de location et il a donc investi un montant de 15 000 $ en argent; il a obtenu aux États-Unis une hypothèque à l'égard des propriétés par l'entremise d'une société désignée comme étant le groupe Intellivest; il a emprunté un montant de 31 400 $ auprès de la Banque Laurentienne. À l'aide des deux hypothèques d'Intellivest et du montant prêté par la Banque Laurentienne, plus le versement initial de 15 000 $ effectué en espèces, l'appelant a acheté ces deux unités en 1991 sans les voir. Il a ensuite déclaré des montants bruts au titre du loyer ainsi qu'une perte pour chacune des années allant de l'année 1991 jusqu'à l'année 1996 inclusivement.
+[4] En 1997, M. Lee a décidé de se départir des propriétés. Elles avaient chaque année entraîné des pertes et l'appelant a donc cessé d'effectuer les versements afférents à l'hypothèque obtenue aux États-Unis en sachant qu'elle ferait l'objet d'une forclusion. L'appelant ne demandait pas mieux qu'à se départir ainsi des propriétés. L'hypothèque a fait l'objet d'une forclusion et on a produit en preuve sous la cote R-3 un acte de garantie daté du 4 septembre 1998 entre la Bankers Trust Company, en sa qualité de fiduciaire pour des certificats de transfert d'hypothèques, et il en existe une série, et un autre groupe appelé Residential Solutions Inc., une société de la Floride. L'acte de garantie désigne un certain nombre de propriétés, dont les unités 314 et 316, situées dans le bâtiment no 3, soit deux unités que M. Lee déclare avoir achetées et semble transférer la propriété à quelqu'un qui, comme je le suppose, est le créancier hypothécaire ou un tiers.
+[5] J'examinerai maintenant la déclaration de revenus de l'appelant pour l'année 1997, laquelle a été produite sous la cote R-4, ainsi que la déduction d'une perte finale de 54 800 $ qu'il a effectuée. Lorsque l'avocate de l'intimée lui a demandé de quelle façon il avait déterminé le montant de la perte finale de 54 800 $, l'appelant a répondu qu'il avait commencé par le prêt de 31 400 $ de la Banque Laurentienne, et il a produit à l'appui une copie d'un billet à vue à taux flottant en faveur du Trust Général, lequel était daté du 17 janvier 1992 (pièce R-1), où il est déclaré ce qui suit, à la page 4 :
+[traduction] Le soussigné reconnaît par les présentes avoir demandé au Trust Général du Canada un prêt participatif dont le principal s'élève à [...]
+L'appelant a ensuite emprunté un montant de 15 700 $ pour une propriété désignée comme étant l'unité B Renoir, un modèle d'unité condominiale, qu'il a achetée, et puisqu'il avait acheté deux unités, il avait emprunté un montant de 15 700 $ à l'égard de chacune, soit un montant de 31 400 $ en tout. Encore une fois, à la page 4, on trouve la déclaration suivante :
+[traduction] Le prêt participatif vise en partie à permettre de financer l'achat par le soussigné auprès d'Intellivest Realty Corporation (le vendeur) d'un intérêt bénéficiaire dans une unité du syndicat immobilier [...] faisant partie du condominium Windjammer. [...]
+La pièce R-1 du Trust Général confirme donc le montant emprunté à l'égard des unités condominiales du Windjammer; dans la pièce R-3, qui est l'acte de garantie, il est fait mention de certaines unités, dont les unités 314 et 316, situées dans le bâtiment no 3, un condominium selon la déclaration de condominium, enregistré dans les registres officiels du Pinellas County (Floride).
+[6] Il existe donc de la documentation émanant d'un tiers établissant un lien entre l'appelant et ces unités, au Windjammer. La pièce A-1 est un document que l'appelant a téléchargé des registres du Pinellas County, dans lequel son nom figure également à l'égard des unités 314 et 316 du Windjammer. La pièce R-1 est le billet à vue à taux flottant; la pièce R-2 est le relevé de la Banque Laurentienne pour le mois d'août 1998, indiquant un solde de 31 400 $; la pièce R-3 est l'acte de garantie, dans lequel il est fait mention des unités faisant l'objet d'une forclusion, au Windjammer; et la pièce R-4 est la déclaration de revenus de l'appelant dans laquelle les unités du Windjammer sont désignées comme étant les biens locatifs. Je suis donc convaincu, en me fondant sur la documentation externe et sur la crédibilité de l'appelant lui-même, que l'appelant possédait de fait des propriétés à St. Petersburg (Floride), de 1991 à 1996. Dans son argumentation, l'avocate de l'intimée a déclaré qu'elle ne soutenait pas que l'appelant n'était pas crédible. À mon avis, il s'agissait d'une déclaration prudente de la part de l'avocate parce qu'il incombe aux avocats de procéder à une appréciation quelconque du témoin et parce que la façon dont l'avocate de l'intimée a apprécié l'appelant en sa qualité de témoin est conforme à ma propre appréciation. En effet, j'ai trouvé l'appelant crédible.
+[7] Un autre point corroborant le témoignage de l'appelant est le fait qu'à l'alinéa 15c) de la réponse à l'avis d'appel, il existe un énoncé des pertes locatives que celui-ci a déduites de 1991 à 1996; l'appelant a témoigné que ces déductions avaient été admises chaque année et que Revenu Canada ne les avaient jamais refusées. Revenu Canada n'a peut-être pas encore procédé à la vérification de l'appelant, mais l'intimée reconnaît que l'appelant déduisait les pertes chaque année et, en outre, que Revenu Canada admettait ces déductions et que le ministère devait donc être convaincu que ces déductions étaient justifiées. Le contribuable qui déduit des pertes telles que celles-ci sans aucune justification commettrait une effronterie particulièrement outrageante si les propriétés ne lui appartenaient pas.
+[8] De plus, les pertes, pour quelqu'un qui gagnait le genre de revenu que l'appelant gagnait, étaient suffisamment faibles en ce sens qu'elles étaient de beaucoup inférieures à 8 000 $, et parfois même de 2 800 $ et de 3 500 $ seulement. Il ne s'agit pas du genre de perte qui aurait nécessairement éveillé l'intérêt de Revenu Canada étant donné le revenu gagné par l'appelant. Je conclus donc que l'appelant est un témoin digne de foi, qu'il a investi des capitaux dans des biens immeubles en Floride et qu'il a subi une perte élevée lors de la disposition de ces biens.
+[9] Toutefois, deux ou trois questions se posent lorsqu'il s'agit de déterminer le genre de redressement que l'appelant pourrait obtenir. L'avocate de l'intimée se demandait si l'appelant avait déduit la perte dans la bonne année. Si l'appelant a subi une perte, l'a-t-il subie en 1997 ou en 1998? Deuxièmement, l'avocate a soulevé la question de savoir si la perte était entièrement imputable à l'appelant parce que, selon certains documents, les propriétés avaient peut-être été enregistrées au nom de l'appelant et de sa femme. Troisièmement, l'avocate se demandait si l'appelant pouvait documenter la perte dans une mesure suffisante pour justifier le montant déduit. Dans sa déclaration de revenus, l'appelant a déduit un montant de 54 800 $ au titre de la perte totale, mais dans son avis d'appel il a uniquement fait état d'un montant de 31 400 $. Voici ce que l'appelant a déclaré : [traduction] « J'ai uniquement demandé la déduction de ce montant parce que c'était le seul montant que je pouvais réellement établir, même si j'ai versé un montant de 15 000 $ en espèces. » Il y a une quatrième question : à supposer que l'appelant ait engagé ce coût et qu'il l'ait fait à des fins locatives, dans quelle mesure ce montant se rapporte-t-il à un bien amortissable qui pourrait donner lieu à une perte finale, et dans quelle mesure se rapporte-t-il à un bien non amortissable comme un fonds de terre ou les parties communes d'un condominium?
+[10] L'appelant a bien dit que pendant toutes les années où il a déduit les pertes, il n'a jamais demandé de déduction pour amortissement, probablement parce que les dépenses réelles engagées chaque année excédaient les revenus. L'appelant a également affirmé avoir produit avec sa déclaration de revenus un relevé de la société de gestion, en Floride, qui s'occupait de la location de ses deux unités et avoir simplement utilisé ce relevé afin de déterminer le montant de sa perte, ce qui ne comprenait probablement, à mon avis, que le revenu réel en espèces et les dépenses en espèces sans qu'il soit tenu compte de la dépréciation, ou de la déduction pour amortissement, comme on l'appelle aux fins de l'impôt sur le revenu.
+[11] J'admettrai donc en partie l'appel de l'appelant pour le motif que les propriétés ont réellement été achetées et qu'il existait à leur égard des fins commerciales puisque l'appelant a déclaré qu'il n'avait jamais vu les propriétés avant de les acheter et qu'il les a uniquement vues une fois, en 1995, lorsque sa femme et lui ont amené leurs enfants en Floride. Ils ont vu les propriétés, mais ils n'y sont pas restés, parce qu'elles étaient louées, de sorte que l'appelant ne les a jamais utilisées personnellement. À mon avis, l'appelant n'a pas présenté suffisamment d'éléments de preuve pour justifier une perte finale de 54 800 $ Ce montant n'est tout simplement pas justifiable.
+[12] L'avocate de l'intimée a attiré mon attention sur une décision brève, mais bien connue, rendue par la Cour d'appel fédérale dans l'affaire Njengav. The Queen, 96 DTC 6593, où l'accent a été mis sur la nécessité de prouver le montant des pertes déduites. L'avocate m'a également référé à une décision particulière qui a été rendue à la suite de la décision du juge Miller, de la Cour canadienne de l'impôt, dans l'affaire Quaidoo v. The Queen, [2004] 1 C.T.C. 2540. Je vais lire un passage du jugement rendu par le juge Miller parce qu'il montre le danger qui existe dans une affaire telle que celle-ci et l'exception qui, selon moi, s'applique à l'appelant dans ce cas-ci. En parlant du contribuable, le juge Miller dit ce qui suit au paragraphe 19 :
+[...]la carence de celui-ci à tenir des dossiers, l'étrangeté de la présentation de factures en guise de reçus, son manque de clarté concernant la nature exacte des marchandises achetées et la façon de les acheter, son manque de clarté quant au statut de l'entreprise en propriété individuelle ou bien en société de personnes (et dans ce dernier cas l'identité des associés), me mettent dans l'impossibilité de m'appuyer exclusivement sur la déposition verbale de l'appelant en ce qui concerne ses dépenses. [...]
+Et l'appel a été rejeté.
+[13] Comme je l'ai déjà indiqué, je n'ai pas à me fonder sur le témoignage oral à lui seul de l'appelant parce qu'un grand nombre de documents corroborant son histoire ont été produits en preuve; je mentionnerai la pièce R-1, le billet à vue à taux flottant; la pièce R-2, le relevé de la Banque Laurentienne indiquant qu'un montant de 31 400 $ était dû; la pièce R-3, l'acte de garantie concernant la forclusion de ces unités; la pièce R-4, qui est une déclaration de revenus montrant que l'appelant, à ce moment-là, avait en même temps déduit une perte à l'égard du Windjammer; et la pièce A-1, un document du Pinellas County, en Floride, que l'appelant a téléchargé, où son nom était inscrit sur le titre afférent aux unités 314 et 316.
+[14] Je reconnais que l'appelant a engagé un coût de 31 400 $ à l'égard du prêt consenti par la Banque Laurentienne et qu'il a perdu cet argent lorsqu'il a permis au titulaire de la première hypothèque, aux États-Unis, de saisir en forclusion les unités. À mon avis, ce montant représente une perte établie. Je suppose également que personne ne pourrait obtenir un prêt hypothécaire au Canada sans effectuer un versement initial ou sans avoir investi des capitaux dans la propriété. En somme, s'il est reconnu que l'appelant a établi qu'il avait emprunté un montant de 31 400 $ à l'égard de ces propriétés, je ne puis concevoir que la Banque Laurentienne ou le Trust Général lui aient prêté le plein montant du solde restant après qu'il eut obtenu la première hypothèque aux États-Unis. En effet, la plupart des banques qui veulent bien prêter de l'argent avanceront jusqu'à 70, 80 ou 90 p. 100 du montant total, mais elles exigeront que l'acheteur investisse lui-même de l'argent pour couvrir le prêt. Je ne sais pas quel est le montant raisonnable, mais puisque la Banque Laurentienne a prêté un montant de 15 700 $ pour chaque unité, soit un montant de 31 400 $ en tout, je suppose qu'elle voudrait que l'appelant investisse lui-même au moins la moitié de ce montant dans chaque unité, soit un montant de 7 500 $ l'unité ou de 15 000 $ en tout; or, c'est le montant dont l'appelant a fait mention. En effet, l'appelant a déclaré ce qui suit : [traduction] « J'ai été obligé d'effectuer un versement initial de 15 000 $ » ; or, à mon avis, cela correspond à peu près aux montants indiqués dans les documents au titre du financement parce que l'appelant devrait investir dans chaque unité au moins la moitié du montant consenti par la Banque Laurentienne. L'appelant a donc engagé un montant de 7 500 $ dans chaque unité et la Banque Laurentienne a avancé pour chaque unité un montant de 15 700 $, soit à peu près le double de ce montant.
+[15] Je vais donc retenir le témoignage oral de l'appelant eu égard aux circonstances, qui sont étayées par la preuve documentaire selon laquelle l'appelant a été obligé d'effectuer un versement initial; je retiens le témoignage de l'appelant, à savoir qu'il a investi un montant de 15 000 $. L'appelant a donc établi à ma satisfaction qu'il avait investi une somme de 31 400 $, plus un montant de 15 000 $, soit 46 400 $ en tout, dans ces propriétés situées en Floride. Je suis convaincu que c'est le montant que l'appelant a perdu lorsque les propriétés ont fait l'objet d'une forclusion de la part du créancier hypothécaire américain et que l'appelant a subi cette perte. Toutefois, c'est le seul montant que l'appelant a établi ici aujourd'hui, au titre de la perte. Je reconnais donc que la perte est de 46 400 $.
+[16] À mon avis, je dois considérer ce montant à titre de perte en capital parce que je ne sais pas comment répartir ce montant entre un bien amortissable et un bien non amortissable puisqu'il n'existe aucune méthode permettant de déterminer comment la comptabilité de l'association condominiale du Windjammer était organisée au moment où ces propriétés ont été acquises vers 1991 et 1992. Je vais donc qualifier ce montant de perte en capital.
+[17] Quant aux deux autres questions qui me préoccupent, lesquelles ont été soulevées par l'avocate de l'intimée, je vais accepter que la perte est imputable à l'appelant seulement, et qu'elle ne doit pas être partagée à parts égales avec la femme de l'appelant, parce que c'est le nom de l'appelant qui est inscrit. En premier lieu, l'appelant a déduit la perte lui-même dans les années ici en cause, comme la chose est reconnue dans la réponse à l'avis d'appel. Selon le billet à vue, (pièce R-1), les emprunteurs sont Thomas et Tracey Lee. Le relevé de la Banque Laurentienne montre que Thomas et Tracey Lee sont les clients de la banque. Le nom de l'appelant ne figure pas du tout dans la pièce R-3, mais seul le nom de l'appelant est inscrit dans les registres du Pinellas County (pièce A-1); l'appelant a affirmé que c'était lui qui déduisait les pertes dans chaque année et il a parlé des propriétés comme étant les siennes. Je crois donc que, même si les préposés, à la banque, voulaient que la femme de l'appelant signe les documents de prêt afin de garantir plus ou moins les montants qui étaient prêtés à l'appelant et de protéger la banque, la propriété appartenait uniquement à l'appelant, et que les pertes ont donc été subies par lui seul.
+[18] Enfin, en ce qui concerne la question de savoir si la perte a été subie en 1997 ou en 1998, je vais laisser à l'appelant le bénéfice du doute parce que, en 1997, l'appelant a décidé d'abandonner les propriétés lorsqu'il a cessé d'effectuer les versements à l'égard de l'hypothèque obtenue aux États-Unis. L'appelant a déclaré avoir abandonné la partie cette année-là et que c'est la raison pour laquelle il a déduit la perte cette année-là. L'appelant savait qu'il allait faire l'objet d'une forclusion de la part du créancier hypothécaire, aux États-Unis, et qu'il devrait alors utiliser ses propres ressources pour rembourser la Banque Laurentienne. Cependant, je crois comprendre qu'un prêt sans recours était en cause aux États-Unis, de sorte qu'il n'était pas personnellement responsable à l'égard de la première hypothèque, sauf pour ce qui est de la propriété elle-même. Par conséquent, une fois que la propriété avait fait l'objet d'une forclusion, l'appelant n'état probablement plus responsable envers le créancier hypothécaire américain, mais bien sûr, l'appelant était personnellement responsable envers la Banque Laurentienne, qu'il a remboursée. Par conséquent, puisqu'il n'y a aucune façon de répartir le montant en cause entre un bien amortissable, ce qui pourrait donner lieu à une perte finale, et d'autres immobilisations qui ne sont pas des biens amortissables, je vais considérer tout le montant de 46 400 $ comme une perte en capital subie dans l'année d'imposition 1997, et telle est la mesure dans laquelle je puis accorder un redressement à l'appelant.
+[19] L'appelant aura droit à une perte en capital de 46 400 $, ce qui entraînerait une perte en capital admissible d'un montant un peu moins élevé. Je crois que, pour l'année, cela correspond à environ 75 p. 100. Je crois donc que l'appelant aura droit à une perte en capital admissible correspondant à 75 p. 100 du montant de 46 400 $, soit un montant d'environ 34 800 $. L'appel est donc admis en partie, aucuns dépens n'étant adjugés aux parties. Je n'adjugerai pas de dépens à l'appelant parce qu'il n'a obtenu qu'un redressement partiel; je n'adjugerai pas de dépens à l'intimée parce que l'appel est en grande partie admis dans la mesure où une perte en capital admissible d'environ 34 000 $ est reconnue.
+Signé à Ottawa, Canada, ce 2e jour de novembre 2004.
+« M.A. Mogan »
+Juge Mogan
+Traduction certifiée conforme
+ce 7e jour de juillet 2005.
+Sara Tasset
+RÉFÉRENCE :
+2004CCI625
+No DU DOSSIER DE LA COUR :
+2001-3616(IT)I
+INTITULÉ :
+Thomas Lee et
+Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Toronto (Ontario)
+DATE DE L'AUDIENCE :
+Le 14 juin 2004
+MOTIFS DU JUGEMENT :
+L'honorable M.A. Mogan
+DATE DU JUGEMENT :
+Le 22 juin 2004
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Andrea Jackett
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+s/o
+Cabinet :
+s/o
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

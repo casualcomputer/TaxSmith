@@ -1,0 +1,170 @@
+Title: Proulx-Drouin v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27843/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-116-27843-proulx-drouin-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-03-14
+
+# Proulx-Drouin v. The Queen
+
+- Citation: 2005 TCC 116
+- Decision date: 2005-03-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 383, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Proulx-Drouin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-03-14
+Neutral citation
+2005 TCC 116
+File numbers
+2003-3523(IT)G
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-3523(IT)G
+BETWEEN:
+Marlene Proulx-Drouin,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on December 6, 2004 at Montréal, Québec
+Before: The Honourable Justice Gerald J. Rip
+Appearances
+Counsel for the Appellant:
+Bruno Bernier
+Counsel for the Respondent:
+Anne Poirier
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 1997 taxation year is dismissed, with costs.
+Signed at Ottawa, Canada, this 14th day of March 2005.
+"Gerald J. Rip"
+Rip J.
+Citation: 2005TCC116
+Date: 20050314
+Docket: 2003-3523(IT)G
+BETWEEN:
+Marlene Proulx-Drouin,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+[1] Marlene Proulx-Drouin appeals her income tax assessment for 1997 in which her claim for an allowable business investment loss ("ABIL") was denied.
+[2] Mrs. Proulx-Drouin is the wife of Jean Drouin. Mr. Drouin carried on the construction business through various corporations. He was the sole shareholder and director of 139093 Canada Inc. ("Société"), a company incorporated to carry on the business of general contractor and to build a commercial building on the Trans Canada Highway in Ville St. Laurent, Québec (referred to as the "Trans Canada building" or "Trans Canada property").
+[3] The facts, in short, are that Société was in financial difficulty and in order to increase its line of credit with its banker, Mr. Drouin guaranteed to the Banque National du Canada ("BNC") the payment of a line of credit to Société to the extent of $570,000, plus interest and costs. To assist her husband and Société Mrs. Proulx-Drouin became an additional guarantor to BNC by hypothecating the family residence which she owned. Eventually the BNC sold the family residence and the appellant lost a substantial sum of money.
+Facts
+[4] There are other corporations in which Mr. Drouin and his wife had interests. The appellant has introduced these corporations in an attempt to demonstrate that she had a monetary or an income interest in guaranteeing Société's line of credit. 143466 Canada Inc. ("143466") is a company whose shareholders are members of the Drouin family; apparently Mrs. Proulx‑Drouin held 25 per cent of the shares of 143466, Mr. Drouin, 50 per cent of the shares and their son, 25 per cent of the shares. 143795 Canada Inc. ("143795") was incorporated to own - and did own- the Trans Canada building. 143466 originally owned 25 per cent of the shares of 143795. Société owned no shares of 143795 and 143795 owned no shares of Société.
+[5] The Trans Canada building originally had rental space of 25,000 square feet, some of which was rented to other shareholders of 143795[1]. Several years after the completion of the building one of the tenants required an additional 10,000 square feet and the owners of the building agreed to expand the building. Société was the general contractor of the expansion. At the time, in June 1987, one of the shareholders of 143795 sold its 35 per cent interest and 143466 increased its interest in 143795 to 38.46 per cent.
+[6] Unfortunately, the tenant who required the expansion became bankrupt and 143795 found itself with 14,000 square feet of vacant area. The bankruptcy, together with increased cost of construction and difficulty in obtaining rent, caused financial problems to 143795. There were lots of receivables, said Mr. Drouin. Société was not getting paid by 143795 for construction of the addition. In February 1990 another shareholder was forced to sell its interest in 143795 and 143466's interest in 143795 increased to 50 per cent of the issued shares.
+[7] This led to the situation before me. Société required funds to continue to operate, in particular to maintain the Trans Canada building and to pay sub‑contractors who worked on the expansion and who registered privileges against the building because of the non‑payment. Société's bank required guarantees as a condition of continuing its line of credit. In 1990 Mr. Drouin personally guaranteed the line of credit of $570,000 to Société. On April 23, 1990 Mrs. Proulx‑Drouin agreed to provide additional guarantees of $470,000 to the BNC with respect to Société's line of credit and hypothecated the family residence in favour of the bank to the extent of $470,000. By deed dated February 12, 1991 Mrs. Proulx‑Drouin increased her guarantee to the bank and the amount of the hypothec to the sum of $570,000.
+[8] In her Notice of Appeal, Mrs. Proulx-Drouin states that she agreed to guarantee Société's line of credit because:
+a) she believed she held a 12.5 per cent interest in the Trans Canada building;
+b) she considered the building's difficulty only temporary and that the Trans Canada building was potentially profitable;
+c) Société had financed the renovation of another building ("Bélanger building") in which she held a 8.33 per cent interest; and
+d) her husband promised to transfer to her one‑third of the shares he owned in a corporation, Lapidia Inc. ("Lapidia"), if the financial situation of the Trans Canada project did not rapidly improve; this would increase her interest in the Belanger building from 8.33 per cent to 41.33 per cent.
+[9] The Belanger building is situated on Bélanger Street in Montréal. The building was owned by Lapidia. The shares of Lapidia were owned as to one‑third each by Mr. Drouin, a brother of Mrs. Proulx-Drouin and Avolyn Corporation, in which Mrs. Proulx-Drouin owned 25 per cent of the shares. It was only in October 1990 that Mr. Drouin transferred his shares of Lapidia to the appellant. Mrs. Proulx‑Drouin was not a shareholder of Lapidia when she guaranteed the line of credit on April 23, 1990.
+[10] Neither 143795, Lapidia nor Avolyn owned shares in Société.
+[11] By 1996 Société was in default of its loan from the BNC. On February 29, 1996, pursuant to articles 2757 and 2758 of the Civil Code of Quebec, the BNC served Mrs. Proulx‑Drouin with a prior Notice that it was exercising its rights under the provisions of the deed by hypothec; the BNC filed the Notice at the registry office of the Superior Court on March 5, 1996. The BNC informed Mrs. Proulx‑Drouin that the bank would exercise its hypothecary rights and seize the family residence unless, within 60 days from the date of filing of the Notice, she took advantage of the rights accorded to her under article 2761 of the Civil Code by paying the bank the amount due plus costs. Mrs. Proulx‑Drouin did not make any payment nor did she contest the action by the BNC.
+[12] On July 8, 1996 judgment was issued by Québec Superior Court in favour of BNC ordering Mrs. Proulx‑Drouin to vacate the home in favour of BNC. The bank was declared owner of the family residence as of March 5, 1996. BNC sold the property for $455,000 in August 1996 and applied that amount to Société's debt. The appellant's loss on the guarantee was $469,356, that is $455,000 with respect to the debt and $14,356 for legal costs incurred by BNC. She claims 75 per cent of this amount as an ABIL.
+[13] According to an Industry Canada Corporations Database Online, the Director under the Canada Business Corporations Act ("CBCA") gave notice on May 5, 1991 that Société was liable to be dissolved and on May 5, 1996 Société was dissolved in accordance with section 212 of the CBCA for failure to file annual returns. There is no evidence of any attempt by Mrs. Proulx‑Drouin, as creditor of Société, or Mr. Drouin, as shareholder, to revive the corporation pursuant to section 209 of the CBCA. Also, documentation produced at trial confirmed that on December 22, 1997 Société filed a proposal in bankruptcy; Mrs. Proulx‑Drouin was not listed as a creditor on Société's list of creditors.
+[14] [In the latter part of the 1990's Mrs. Proulx-Drouin was suffering from cancer. Naturally she was much more interested in trying to survive her illness and do all things to help her survive than address her mind to financial matters. Thus, she did not claim the ABIL until she asked for an adjustment to her 1997 tax return in 2001; by then, her 1996 taxation year was statute‑barred. Also in 2001, she filed a claim in the amount of $455,000 as creditor of Société with the trustee in bankruptcy of Société's estate.]
+[15] Société's financial statements for the year ending December 31, 1995, record that the corporation had no income of any kind. In 1994 it had a gross income of $111,654. Expenses for 1995 aggregated $89,646 and included administration costs of $14,000, travel of $1,469, insurance, taxes and permits of $2,176, an office expense of $139, banking fees of $55,960 and a loss on disposition of fixed assets of $15,402. This compared to total expenses of $122,468 in 1994. The financial statements for both 1994 and 1995 are dated August 28, 1996. Federal income tax returns for 1994 and 1995 are signed by Mr. Drouin but are not dated; it appears from copies of the tax returns that they were not filed until November 18 and 26, 1996, respectively.
+[16] No financial statements nor income tax returns were produced or filed by Société for the years after 1995 notwithstanding that Mr. Drouin stated that Société continued management functions after 1995. He explained that Lapidia paid to Société administration fees for services rendered to it. He produced a copy of a cheque dated January 4, 1995 from Lapidia to Société and a bundle of copies of cheques dated throughout 1995 from Lapidia to himself. The cheque payable to Société in the amount of $9,000 and cheques payable to Mr. Drouin aggregating $45,500, were deposited into Société's bank account at the BNC. Other cheques, aggregating $44,500, although payable to, and endorsed by, Mr. Drouin, were also endorsed by Mrs. Proulx‑Drouin and apparently were deposited in her bank account. He also testified that in 1996 Lapidia issued cheques payable to him for services rendered by Société; these cheques, aggregating $81,800, were deposited in the appellant's bank account. Lapidia also issued at least two cheques in 1997 payable to Société; the cheques were deposited in Société's new account at the Toronto‑Dominion Bank. Mr. Drouin's rationale for not depositing the cheques to Société's account at BNC was that the BNC was threatening to seize the funds and he wanted to protect Société's revenue.
+[17] Mr. Drouin could not explain the reason for Société not filing income tax returns for its fiscal years after 1995 although it was, he insisted, carrying on business and earning income after 1995. There was no evidence to explain the reason the amounts of the cheques were not included in Société's income in its financial statements and its tax returns for 1995.
+Arguments and Analysis
+[18] The appellant declares that she is entitled to an ABIL with respect to her guarantee because all the conditions of paragraph 39(1)(c), subsections 39(12) and 50(1) and subparagraph 40(2)(g)(ii) of the Act have been satisfied, namely that:
+i) a debt owing to her by Société at the end of 1997 became bad in 1997 [subsection 50(1)];
+ii) Société was a Canadian‑controlled private corporation that was a small business corporation at all relevant times [paragraph 39(1)(c) and subsection 39(12)], and
+iii) she provided the guarantee to the BNC for the purpose of earning income [subparagraph 40(2)(g)(ii).
+If Bad Debt
+[19] The appellant says that the debt from Société to her became bad in 1997. According to her counsel, Mrs. Proulx-Drouin knew Société was providing management services during the years 1995, 1996 and 1997. She was a shareholder of Lapidia and knew Lapidia was paying Société for services. Mr. Drouin testified that Société also provided services to the Bélanger property owned by Lapidia and in 1995 and 1996 Société was paid for the services, even though Lapidia's cheques were payable to Mr. Drouin.
+[20] Counsel for the appellant argued that Mrs. Proulx-Drouin was not wrong in waiting until 1997 to recognize that Société's debt to her was bad. It is the creditor of the debt who is thoroughly conversant with the facts of the particular debt and possibly the debtor who is in the best position to determine when a debt becomes bad[2]. Because she believed Société was still providing services in 1996, she considered the debt good, notwithstanding the bank's actions.
+[21] The respondent's position is that the debt became bad before 1997. Société no longer carried on a business after 1995 and that any assets it had after 1995 were insufficient to pay the debt. The respondent obviously does not agree that Mr. Drouin received cheques for the benefit of Société.
+[22] It is clear from Société's financial statements for 1995 that the corporation did not have sufficient assets to pay off the loan to the BNC. Total assets in Société's balance sheet as of December 31, 1995 were $31,580; liabilities aggregated $676,085. Indeed, Société could not have paid the debt at the end of its 1994 fiscal period when its liabilities were $560,829 more than its assets. The BNC apparently considered the debt bad in 1995; there was no evidence that Société's financial situation was any better when Mrs. Proulx‑Drouin was subrogated in the rights of the bank.
+[23] I agree that it is usually the creditor of the debt who is thoroughly conversant with the facts of the debt and possibly the debtor who is in the best position to determine if and when a debt is bad. However, in making such a determination the creditor should take into account various factors in determining whether a debt has become bad, as described by Rothstein J.A. in Rich v. R.[3], such as:
+1. the history and age of the debt;
+2. the financial position of the debtor, its revenues and expenses, whether it is earning income or incurring losses, its cash flow and its assets, liabilities and liquidity;
+3. changes in total sales as compared with prior years;
+4. the debtor's cash, accounts receivable and other current assets at the relevant time and as compared with prior years;
+5. the debtor's accounts payable and other current liabilities at the relevant time and as compared with prior years;
+6. the general business conditions in the country, the community of the debtor, and in the debtor's line of business; and
+7. the past experience of the taxpayer with writing off bad debts.
+This list is not exhaustive and, as Rothstein J.A. stated, depending on the circumstances, one factor or another may be more important. In the appeal at bar the appellant did not consider factors 2, 3, 4, 5 and 6 in the above list. These, in my view, are important factors which colour the financial situation of Société at the time.
+[24] I also have some concern whether the cheques deposited in Société’s bank account in 1995 were payments for services it rendered. As I explain later in these reasons, Société did not carry on any business after 1994 and had no expectation of income and its assets could not realize the amount of the debt. The debt was bad from the time the appellant was subrogated in the rights of the BNC and became a creditor of Société.
+If a Small Business Corporation When Amount First Became Payable
+[25] Paragraph 39(1)(c) of the Act describes how the amount of a taxpayer's business investment loss from the disposition of any property is determined. Where a guarantee is involved, subsection 39(12) adds that:
+For the purpose of paragraph (1)(c), where
+(a) an amount was paid by a taxpayer in respect of a debt of a corporation under an arrangement under which the taxpayer guaranteed the debt,
+(b) the amount was paid to a person with whom the taxpayer was dealing at arm's length, and
+(c) the corporation was a small business corporation
+(i) at the time the debt was incurred, and
+(ii) at any time in the 12 months before the time an amount first became payable by the taxpayer under the arrangement in respect of a debt of the corporation,
+that part of the amount that is owing to the taxpayer by the corporation shall be deemed to be a debt owing to the taxpayer by a small business corporation.
+Pour l'application de l'alinéa (1)c), dans le cas où, aux termes d'une entente de garantie de dette, un contribuable paie à une personne avec laquelle il n'a aucun lien de dépendance un montant au titre de la dette d'une société qui est une société exploitant une petite entreprise au moment où la dette est contractée et à un moment donné au cours des 12 mois précédant le moment où un montant devient payable pour la première fois par le contribuable aux termes de l'entente au titre d'une dette de la société, la partie du montant que la société doit au contribuable est réputée être une créance de celui-ci sur une société exploitant une petite entreprise.
+[26] There is an issue between the parties as to when the "amount first became payable" by Mrs. Proulx-Drouin for purposes of subsection 39(12). The appellant says the amount first became payable by her on March 5, 1996 when the BNC filed with the registry of the Superior Court the prior notice it served on the appellant that it intended to exercise its hypothecary rights[4]. The appellant relies on the reasons for judgment in the Estate of the Late Fabian Aylward v. The Queen[5] which held that letters to the guarantor demanding payment to the creditor was the time when an amount first became payable by the guarantor under the guarantee.
+[27] Appellant's counsel argued that at any time in the 12 months before March 5, 1996 Société was a small business corporation. A "small business corporation, at a particular time" is defined in subsection 248(1) of the Act for purposes of this appeal as "a Canadian‑controlled private corporation all or substantially all of the fair market value of the assets of which at that time is attributable to assets that are used primarily in an active business carried on primarily in Canada ..." including, for the purpose of paragraph 39(1)(c), a corporation that was at any time in the 12 months preceding that time a small business corporation ...".
+[28] The term "active business" is defined in subsection 248(1) to mean any business carried on by a taxpayer other than a specified investment business or a personal services business.
+[29] Respondent's counsel says the time the amount first became payable by the appellant was when the Superior Court issued its judgment on July 8, 1996. She relies on Armstrong v. Canada[6] in which the trial judge calculated the 12 months from date of payment. Counsel explained the reason for the 12 month period described in subparagraph 39(12)(c)(ii) is because it is not unusual for a debtor corporation to cease carrying on a business when the creditor calls on the guarantor to pay under its guarantee. The guarantor is usually called to pay because the debtor cannot. The 12 month period permits the business investment loss provisions to be available even though the debtor has stopped carrying on its active business.
+[30] I agree with the appellant's counsel. In the case at bar the guarantee first became payable by the appellant when the 60 days described in the prior notice served on the guarantor started to run, that is, on March 5, 1996. The judge in Armstrong did not consider when the guarantee first became payable; he concluded on the facts of that appeal that the amount became payable when it was paid. Armstrong does not assist the respondent.
+[31] The next problem is whether Société carried on a business after March 5, 1995 and was a small business corporation. There is no issue that it was a small business corporation in 1990 and 1991 when Mrs. Proulx-Drouin provided her guarantees. The evidence suggests that by 1995 Société had ceased to carry on a business.
+[32] I am not satisfied that the cheques paid by Lapidia in favour of Mr. Drouin during 1995 and later years were for services rendered by Société, even if several of them may have been deposited into one or both of Société's bank accounts. Société reported absolutely no income in its financial statements for 1995. It did not report any income for 1995 for tax purposes. There is no disinterested evidence of Société carrying on a business after 1995. Deposits of cheques into a bank account are not proof of the carrying on of a business, in particular when the maker of the cheque, the payee of the cheque and the person in whose account the cheque is deposited do not deal with each other at arm’s length. To this are added the facts that Société’s financial statements and income tax return for 1995 show no gross or any income and no tax return has been filed for any taxation year after 1995. Expenses for 1995 do not suggest ongoing activity. Société’s financial statements for 1994 and 1995 are dated August 28, 1996. The corporation's officers apparently did not see any pressing need to prepare the financial statements earlier. I infer from the lack of proof of any business carried on by Société in 1995, the tardiness in preparing the financial statements for 1994 and 1995 and the contents of the financial statements and income tax return for 1995 that Société was no longer carrying on a business in 1995.
+"For the Purpose of Earning Income"
+[33] Another condition for the appellant to be successful is for her to establish that she acquired Société’s debt for the purpose of earning income from a business or property. Once her home was sold in August, 1996, appellant’s counsel argued, she paid Société’s debt to the BNC and was subrogated in the rights of the bank. I agree.
+[34] Appellant's counsel also argued that the appellant originally provided the guarantee for the purpose of earning income. She would earn dividend income from the rental income earned once the Trans Canada building was rented and the corporations 143795 and 143466 paid dividends, the former to the latter, and then to her. Counsel also suggested that the appellant's husband’s promise in 1990 to transfer to the appellant his one‑third interest in Lapidia was valuable consideration to her for agreeing to the guarantee and was a potential source of income.
+[35] Appellant's counsel asserted that Mrs. Proulx-Drouin wanted Societé to complete work on the Trans Canada building because she knew the corporation and the person behind it, her husband. The Trans Canada building was owned by 143795; once the building would be rented 143795 would earn rental income and be in a position to pay dividends to its shareholders. A person owning 50 per cent of the shares of 143795 on February 17, 1991 was 143466[7]. And since Mrs. Proulx‑Drouin owned 25 per cent of the shares of 143466 she would be entitled to dividends declared by 143466 from dividend income it earned from 143795.
+[36] By means of piercing the corporate veil of 143466, appellant's counsel declared that his client had a 12.5 per cent interest in 143795. In turn, he then pierced 143795's corporate veil to conclude that his client owned an undivided interest in the Trans Canada property. Thus, appellant's counsel concluded that Mrs. Proulx-Drouin guaranteed Societé's line of credit for the purpose of earning income.
+[37] It is true that once the Trans Canada building was completed and rented, rental income would flow to 143795 and 143795 may be in a position to apply the rental income as payment of dividends to 143466 which, in turn, could apply the dividends to pay dividends to its shareholders, including Mrs. Proulx‑Drouin.
+[38] The appropriate time to consider whether a taxpayer had an income‑earning purpose is at the time the guarantee was given. In The Cadillac‑Fairview Corporation Limited v. The Queen[8] Bowman J., as he then was, explained:
+In many cases if a guarantor is obliged to make good under a guarantee it is because the principal debtor in unable to pay the obligation. From this, it follows that the guarantor's right of subrogation against the principal debtor is, at the time of acquisition, likely to be, in many instances, worthless or virtually worthless. A narrow and mechanical reading of subparagraph 40(2)(g)(ii) would lead one to conclude that on the payment of the guaranteed amount the guarantor's acquisition of the worthless subrogated debt could not possibly have as its purpose the gaining or producing of income from a business or property. Such an interpretation in my view lacks commercial sense. A functional and more commercially realistic interpretation would subsume in the purpose of the acquisition of the subrogated debt the purpose for which the guarantee was originally given.
+[39] The "income‑earning purpose" for the guarantee need not be the sole purpose or even the primary purpose for the guarantee, so long as it is a purpose, to meet the exception described in subparagraph 40(2)(g)(ii)[9].
+[40] I have no doubt that at the time Mrs. Proulx-Drouin executed her guarantee to the BNC her purpose in doing so was influenced more by the fact that her husband was the shareholder of Societé than any other fact. As I tried to explain in Elliott v. The Queen[10], it is normal for a spouse to guarantee the debt of a company, the shares of which are owned by the other spouse. Such guarantees are for the purpose of earning income for the family, if not the guarantor. The appellant also suggested that she wanted to have the Trans Canada building completed by Societé rather than a contractor she did not know. Notwithstanding these purposes, if there were also an income‑earning purpose in making the guarantee, that would suffice for purposes of subparagraph 40(2)(g)(ii).
+[41] The problem in this appeal is one raised by McDonald J.A. in The Queen v. Byram[11]:
+[23] In situations where the taxpayer does not hold shares in the debtor, but rather is a shareholder of a parent company or other shareholder of the debtor the taxpayer is not entitled to dividend income directly from the debtor. Generally speaking, the burden of demonstrating a sufficient nexus between the taxpayer and the dividend income, in such cases, will be much higher. The determination of whether there is sufficient connection between the taxpayer and the income earning potential of the debtor will be decided on a case by case basis depending on the particular circumstances involved.
+[42] There is a remoteness between the appellant's guarantee and the alleged purpose of earning income from the guarantee. The appellant is not a shareholder of Societé nor is she a shareholder of any corporation owning shares of Societé. Appellant's counsel tried to identify her as an owner of the Trans Canada and the Belanger buildings so as to put her closer to Societé (and, in any event, she had no interest in Lapidia at time of the guarantee). This, of course, required him to pierce the veil of two corporations with respect to each of the two properties. This only emphasized the distant degrees of separation between the appellant and the two properties, to say nothing of Societé, and the chasm between her and Societé.
+[43] I am not satisfied there is a sufficient connection between the appellant and Société so that one may reasonably conclude that she guaranteed Société's debt to the BNC to earn income. However, this finding is not necessarily fatal to the appellant.
+[44] Once a guarantor is subrogated in the rights of the creditor, the guarantor is a creditor of the main debtor. Once the bank has exercised its hypothecary rights under the guarantee, the appellant's guarantee was extinguished and what is left is a debt between the appellant and Société. The debt so acquired by the appellant from the bank, even if by law, could be said to have been acquired for the purpose of earning income, the income being the rate of interest Société was obliged to pay to the bank. This, in my view, would qualify to meet the requirement of subparagraph 40(2)(g)(ii). At time of subrogation a debtor corporation may be actively carrying on a business, as in the case of Elliott, may be solvent or may be reasonably expected to increase its fortunes in short‑term, say, by successfully bidding on a contract yet to be awarded. When one of the situations is present the debt may be susceptible of yielding income and the guarantor, who may have more faith in the corporate debtor than the bank, has an income purpose when subrogated in the debt. An examination of the corporate debtor at time of subrogation is therefore required.
+[45] Unfortunately, on the facts I have already described, I cannot find any income purpose by the appellant at time of subrogation when the guarantee was extinguished in 1996. At that time, and for some time earlier, Societé was no longer carrying on any business and had no assets that could conceivably service the debt, at least there was no evidence of any such assets. There was no potential for the appellant to earn income from the debt.
+[46] The appeal is therefore dismissed, with costs.
+Signed at Ottawa, Canada, this 14th day of March 2005.
+"Gerald J. Rip"
+Rip J.
+CITATION: 2005TCC116
+COURT FILE NO.: 2003-3523(IT)G
+STYLE OF CAUSE: Marlene Proulx-Drouin AND THE QUEEN
+PLACE OF HEARING: Montréal, Québec
+DATE OF HEARING: December 6, 2004
+REASONS FOR JUDGMENT BY: The Honourable Justice Gerald J. Rip
+DATE OF JUDGMENT: March 14, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Bruno Bernier
+Counsel for the Respondent:
+Anne Poirier
+COUNSEL OF RECORD:
+For the Applicant:
+Name: Bruno Bernier
+Firm: Ravinsky Ryan
+For the Respondent: John H. Sims, Q. C.
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] I am not at all certain if 143795 was the beneficial as well as registered owner of the Trans Canada property or if it held the property as mandatory of other taxpayers who were the beneficial owners. Appellant's counsel and Mr. Drouin referred to "owners" of the property. The term "partnership" was also used. I am assuming that they meant shareholders of 143795 and that 143795 was the beneficial as well as legal owner of the property.
+[2] See, for example, Hogan v. M.N.R., 56 DTC 183 and Deck v. The Queen, 2002 DTC 1371.
+[3] [2004] 1 C.T.C. 308 at page 313.
+[4] According to some evidence the notice was effected on March 5, 1996. The bailiff's affidavit of services states service was on February 29, 1996.
+[5] 2001 DTC 638, [2001] T.C.J. 391.
+[6] [1997] T.C.J. No. 119.
+[7] On February 22, 1991, 143466 became the sole shareholder of 143795.
+[8] 97 DTC 405 at 407.
+[9] Rich v. The Queen, 2003 DTC 5115, paragraphs 8-10, re Rothstein J.A. referring to Ludco Enterprises Ltd. v. Canada, [2001] 2 S.C.R. 1082 at paragraph 50 concerning the interpretation of subparagraph 20(1)(c)(i).
+[10] 2005TCC135, paragraph 21.
+[11] 99 DTC 5117 at paragraph 23.

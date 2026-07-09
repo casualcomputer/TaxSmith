@@ -1,0 +1,105 @@
+Title: Dockery c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25875/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-221-25875-dockery-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2005-04-26
+
+# Dockery c. La Reine
+
+- Citation: 2005 CCI 221
+- Decision date: 2005-04-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3869, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dockery c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-04-26
+Référence neutre
+2005 CCI 221
+Numéro de dossier
+2003-3849(IT)I
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2005CCI221
+Date : 20050426
+Dossier : 2003-3849(IT)I
+ENTRE :
+MICHAEL JAMES DOCKERY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l'audience à
+Calgary (Alberta), le 16 juin 2004.)
+[1] Le présent appel interjeté conformément à la procédure informelle a été entendu à Calgary (Alberta), le 16 juin 2004. L'appelant était le seul témoin.
+[2] Les paragraphes 4 à 11 inclusivement de la réponse à l'avis d'appel exposent les questions en litige. Ils sont rédigés comme suit :
+[TRADUCTION]
+4. Dans le calcul de son revenu pour les années d'imposition 2000 et 2001, l'appelant a déduit, dans le calcul de ses crédits d'impôt non remboursables et de l'impôt payable, les montants de 6 140 $ et de 6 293 $ respectivement pour une personne entièrement à charge, c'est-à-dire son fils Brendan.
+5. Au moyen d'avis de nouvelle cotisation datés du 2 décembre 2002, le ministre du Revenu national (le « ministre » ) a rejeté la déduction effectuée par l'appelant à l'égard de la personne entièrement à charge pour les années d'imposition 2000 et 2001, étant donné que l'appelant devait verser une pension alimentaire à l'égard de Brendan pendant les années d'imposition 2000 et 2001 et que, selon le paragraphe 118(5) de la Loi de l'impôt sur le revenu (la « Loi » ), il n'a pas le droit de déduire de montant relativement à une personne entièrement à charge en vertu de l'alinéa 118(1)b) de la Loi.
+6. L'appelant a déposé un avis d'opposition qui a été reçu le 3 mars 2003.
+7. Le ministre a ratifié les nouvelles cotisations en envoyant à l'appelant un avis de ratification daté du 16 juillet 2003.
+8. Au moyen d'une ordonnance datée du 16 décembre 2003, le délai prévu pour interjeter appel a été prolongé jusqu'à la date de l'ordonnance, et l'avis d'appel a été jugé valide.
+9. Pour établir les nouvelles cotisations à l'égard de l'appelant pour les années d'imposition 2000 et 2001, et pour ratifier ces nouvelles cotisations, le ministre a tenu pour acquis les faits suivants :
+a) l'appelant a divorcé de Donna Marlene Dockery (l' « ex-épouse » );
+b) l'appelant et son ex-épouse ont deux enfants (les « enfants » ) :
+Nom Date de naissance
+Evan Dockery ( « Evan » ) 26 décembre 1996
+Brendan Dockery ( « Brendan » ) 10 septembre 1995
+c) selon les modifications apportées à l'entente matrimoniale qui sont datées du 31 janvier 2000 (les « modifications à l'entente » ), l'appelant et l'ex-épouse ont la garde partagée des enfants et ils passent chacun environ la moitié (50 %) du temps avec les enfants;
+d) selon les modifications à l'entente, l'appelant doit verser à l'ex-épouse 506,76 $ le premier jour de chaque mois à titre de pension alimentaire pour les enfants;
+e) selon un jugement de divorce et une ordonnance de mesures accessoires datés du 8 février 2000 (le « jugement de divorce » ), l'appelant et l'ex-épouse ont la garde partagée des enfants, l'ex-épouse 60 % du temps, et l'appelant 40 % du temps;
+f) le jugement de divorce ordonne à l'appelant de verser à l'ex-épouse 505,76 $ par mois à titre de pension alimentaire pour les enfants, lequel montant est payable le premier jour de chaque mois, à compter du 1er février 1999;
+g) l'appelant devait verser une pension alimentaire à l'ex-épouse pour les enfants conformément au jugement de divorce pendant les années d'imposition 2000 et 2001.
+B. QUESTIONS EN LITIGE
+10. La question est de savoir si l'appelant a le droit de déduire le montant pour personne entièrement à charge à l'égard de Brendan dans le calcul de ses crédits d'impôt non remboursables et de l'impôt payable pour les années d'imposition 2000 et 2001.
+C. DISPOSITIONS DE LA LOI, MOYENS INVOQUÉS ET RÉPARATIONS SOLICITÉES
+11. L'appelant se fonde sur les articles 56.1 et 60.1, sur les paragraphes 118(5) et 248(1) et sur l'alinéa 118(1)b) de la Loi dans sa forme modifiée pour les années d'imposition 2000 et 2001.
+[3] Les hypothèses, à l'exception de l'alinéa 9e), n'ont pas été réfutées. Les modalités de garde ont été modifiées au moyen d'une entente déposée comme pièce A-1, selon laquelle la « garde partagée » allait être répartie à parts égales entre les parents.
+[4] Le paragraphe 118(5) de la Loi de l'impôt sur le revenu (la « Loi » ) prévoit expressément qu'aucun montant n'est déductible en application du paragraphe 118(1) par un contribuable relativement à une personne si le contribuable est tenu de verser une pension alimentaire au sens du paragraphe 56.1(4) pour la personne, dans ce cas-ci les enfants.
+[5] Malheureusement, l'appelant doit verser une pension alimentaire pour les deux enfants et il n'a donc pas droit aux déductions faisant l'objet des réclamations déposées devant la Cour.
+[6] L'appelant parcourt en fait des centaines de kilomètres entre son lieu de travail et Calgary pour exercer la garde de ses enfants. Il n'a pas les fonds nécessaires pour payer sa cotisation d'impôt à Revenu Canada parce qu'il essaie d'être un bon père pour ses enfants et parce que, selon les ordonnances de la Cour, il doit verser une pension alimentaire.
+[7] Compte tenu des circonstances en l'espèce et du comportement exceptionnellement exemplaire de l'appelant, je recommande que l'appelant soit autorisé à payer l'impôt en litige au moyen de versements mensuels raisonnables sans que des intérêts soient prélevés.
+Signé à Calgary (Alberta), ce 26e jour d'avril 2005.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme ce 20e jour d'octobre 2005.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE :
+2005CCI221
+NO DU DOSSIER DE LA COUR :
+2003-3849(IT)I
+INTITULÉ DE LA CAUSE :
+Michael James Dockery c. La Reine
+LIEU DE L'AUDIENCE :
+Calgary (Alberta)
+DATE DE L'AUDIENCE :
+Le 16 juin 2004
+MOTIFS DU JUGEMENT RENDUS ORALEMENT PAR :
+L'Honorable juge D.W. Beaubier
+DATE DES MOTIFS DU JUGEMENT RENDUS ORALEMENT :
+Le 26 avril 2005
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me John-Paul Hargrove
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l'appelant :
+Nom :
+Étude :
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

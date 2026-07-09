@@ -1,0 +1,128 @@
+Title: Balanko Estate v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/108630/index.do
+Corpus path: corpus/cases/tcc/2015/2015-tcc-66-108630-balanko-estate-v-the-queen-en.md
+Document type: case_law
+Last modified: 2015-03-19
+
+# Balanko Estate v. The Queen
+
+- Citation: 2015 TCC 66
+- Decision date: 2015-03-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2805, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Balanko Estate v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-03-19
+Neutral citation
+2015 TCC 66
+File numbers
+2014-3116(IT)I
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2014-3116(IT)I
+BETWEEN:
+THE ESTATE OF THE LATE
+HELEN BOULDIN BALANKO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on March 12, 2015, at Vancouver, British Columbia.
+Before: The Honourable Justice Gerald J. Rip,
+Appearances:
+Agent for the Appellant:
+John Hamilton
+Counsel for the Respondent:
+Zachary Froese
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2003 taxation year is dismissed.
+Signed at Ottawa, Canada, this 19th day of March 2015.
+“Gerald J. Rip”
+Rip J.
+Citation: 2015 TCC 66
+Date: 20150319
+Docket: 2014-3116(IT)I
+BETWEEN:
+THE ESTATE OF THE LATE
+HELEN BOULDIN BALANKO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Rip J.
+[1] The trustees of the Estate of the Late Helen Bouldin Balanko appeal an income tax assessment for 2003, dated April 8, 2013, to be permitted to designate as principal residence Ms. Balanko’s former property in Whistler, B.C. (“Whistler property”)[1].
+[2] Ms. Balanko died in 2005. The Whistler property was sold in 2003 but after she had transferred the property to her husband in 1991. The gain on the sale of the property was attributed to her. In her 2003 return of income she did not claim the Whistler property as her principal residence.
+[3] The Minister of National Revenue (“Minister”) refused to designate the Whistler property as Ms. Balanko’s principal residence for the reason that “another member of the family unit made a principal residence designation in respect of another property for the period of time involved”. The other member of the family unit was Dr. Balanko, Ms. Balanko’s husband.
+[4] The appellant testified that Ms. Balanko was separated from her spouse since 1983 pursuant to a written separation agreement and that she and Dr. Balanko, a dentist, were living separate and apart. Thus, no other member of the family unit had made a principal residence designation during the relevant time period.
+[5] Ms. Balanko purchased the Whistler property in 1976 for $41,900 and in 1991 transferred ownership of the property to Dr. Balanko for one dollar. Ms. Balanko did not report the disposition of the Whistler property to Dr. Balanko in her 1991 or other income tax return. Whether or not she retained beneficial ownership of the property was not raised at trial. The value of the property in 1991 was in excess of one dollar. In 2003 Dr. Balanko sold the Whistler property for $350,000. The Minister has calculated that a capital gain of $243,009 was made in the disposition and was attributed to Ms. Balanko: s.s. 74.1(1) of the Act.
+[6] Ms. Balanko’s son, John Balanko (“John”), stated that Ms. Balanko did not live in the Whistler property, that the Whistler property was a family vacation property. However whether the Whistler property is or is not eligible for designation as a principal residence for this reason was not pleaded and is not in issue[2].
+[7] John was 23 years old when his parents separated in 1983. He recalled the separation was initiated by his father but his parents remained friendly. After separation, he said, his mother was in a relationship with another man.
+[8] After separation, John stated, Dr. Balanko continued to live in the family home on Pinecrest in Vancouver. This property was sold sometime between 1985 and 1987.
+[9] In making the assessment, the Minister assumed that since 1992 a property on Greenleaf Road in Vancouver was jointly owned by Dr. and Ms. Balanko. John testified that he and his father were the owners of the Greenleaf property, not his mother and father. He said his mother never lived on Greenleaf. John stated he sold his interest in the Greenleaf property in early summer of 2000 to his brother.
+[10] John produced a Statutory Declaration by Dr. Balanko, dated June 13, 2005, that he and Ms. Balanko were living separate and apart from January 15, 1983 to February 7, 2005, her date of death. In the Declaration Dr. Balanko denied Ms. Balanko was in a common law relationship with someone else.
+[11] John recalled that a basement suite was built for his father at the Greenleaf property and, upon his return from a teaching position in Winnipeg, his father resided in the basement. John described his father as a “pack rat” and stored all of his records and personal documents in the basement of the Greenleaf property.
+[12] Upon Ms. Balanko’s death in 2005, Dr. Balanko moved into her condominium on Mariner’s Walk in Vancouver. Ms. Balanko had purchased Mariner’s Walk in “about 1986 or so”, according to John and in 1991 according to the Canada Revenue Agency (“CRA”). In her Last Will and Testament, dated December 12, 2003, Ms. Balanko bequeathed the residue of her Estate to “my husband” Dr. Balanko. There were no specific bequests in the Will. The residue included Ms. Balanko’s interest in the Mariner’s Walk property.
+[13] In her Will, Ms. Balanko also stated that she had a one‑half interest in the Greenleaf property but any financial charges registered against her interest were the responsibility of her son Michael William Balanko. It would appear that according to the Will the residue included a one‑half interest in the Greenleaf property and that was inherited by Dr. Balanko. This appears to contradict John’s evidence that he and Dr. Balanko were the owners of the Greenleaf property until 2000 when he transferred his interest to a brother.
+[14] No written separation agreement was found among the contents of Ms. Balanko’s property or Dr. Balanko’s property after their respective deaths.
+[15] John testified that when his parents separated he constantly reminded them to prepare and sign a separation agreement. He was concerned that they would remain responsible for the other’s debts. He further testified that he saw, but did not read, various papers on the kitchen table in his father’s home, which he understood related to discussions for separation. His father also told him that he raised the question of a separation agreement with lawyers and a judge who were his patients while at his office or in a social setting. But he did not retain a lawyer to prepare the agreement. Both his mother and father were turning to friends for advice, John stated.
+[16] Finally, one day when John again asked his father what was happening with the separation agreement, his father told him that he “took care of it” and John assumed that because his father was an honest person, he meant that a written separation agreement was prepared and signed by each parent. He never saw a written separation agreement.
+[17] John believes the written separation agreement was destroyed in a fire at the Greenleaf property on March 3, 2013.
+[18] Dr. Balanko died on December 22, 2011. The Greenleaf property was designated as his principal residence for the period from 1992 until his death.
+[19] Section 54 of the Income Tax Act reads as follows:
+“principal residence” of a taxpayer for a taxation year means a particular property that is a housing unit, … that is owned whether jointly with another person or otherwise, in the year by the taxpayer, if
+« résidence principale » S’agissant de la résidence principale d’un contribuable pour une année d’imposition … dont le contribuable est propriétaire au cours de l’année conjointement avec une autre personne ou autrement, à condition que :
+(a) where the taxpayer is an individual … the housing unit was ordinarily inhabited in the year by the taxpayer, by the taxpayer’s spouse or former spouse or by a child of the taxpayer.
+a) le contribuable étant un particulier … le logement soit normalement habité au cours de l’année par le contribuable, par son conjoint ou ancien conjoint ou par un enfant du contribuable.
+except …
+toutefois …
+(c) where the taxpayer is an individual … the particular property was designated by the taxpayer in prescribed form and manner to be the taxpayer’s principal residence for the year and no other property has been designated for the purposes of this definition for the year by the taxpayer, by a person who was throughout the year the taxpayer’s spouse (other than a spouse who was throughout the year living apart from and was separated under a judicial separation or written separation agreement from the taxpayer), …
+c) à moins que le contribuable … ne l’ait désigné comme étant sa résidence principale pour l’année en la forme et selon les modalités réglementaires et qu’aucun autre bien n’ait été désigné, pour l’application de la présente définition, pour l’année par le contribuable, par une personne qui a été son conjoint tout au long de l’année (sauf une personne qui, tout au long de l’année, a vécu séparée du contribuable en vertu d’une séparation judiciaire ou d’un accord écrit de séparation) …
+[20] Unfortunately for the appellant, there is no written separation agreement in existence. If Ms. Balanko signed a written separation agreement, nobody knows its contents. The section 54(c) definition of “principal residence” is quite clear: if a taxpayer is still married only one of the taxpayer and the spouse may designate a property as a principal residence except if the taxpayer and the spouse are separated under a written separation agreement. That Dr. Balanko informed John that he “took care of it” with respect to the purported written separation agreement may suggest other ways in which he and Ms. Balanko settled their affairs. Again, there is no written separation agreement before me.
+[21] The lack of a written separation agreement that is required by the Act is a more serious omission then lack of receipts to prove an expenditure: Hickman Motors Ltd v. The Queen[3]. A written separation agreement is a requirement in the circumstances of this appeal and, for whatever reason, it is not available.
+[22] The appeal is dismissed.
+Signed at Ottawa, Canada, this 19th day of March 2015.
+“Gerald J. Rip”
+Rip J.
+CITATION:
+2015 TCC 66
+COURT FILE NO.:
+2014-3116(IT)I
+STYLE OF CAUSE:
+THE ESTATE OF THE LATE HELEN BOULDIN BALANKO v.
+HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+March 12, 2015
+REASONS FOR JUDGMENT BY:
+The Hon. Justice Gerald J. Rip,
+DATE OF JUDGMENT:
+March 19, 2015
+APPEARANCES:
+Agent for the Appellant:
+John Hamilton
+Counsel for the Respondent:
+Zachary Froese
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The reassessment was issued under the Voluntary Disclosures Program made in December 2012.
+[2] But see Interpretation Bulletin — 120R6, para. 5. Whether Ms. Balanko is eligible to designate the Whistler property as a principal residence since she was not its owner at time of sale in 2003 was raised by respondent’s counsel. However, this was not pleaded by the Crown and is not an issue before me.
+[3] [1997] 2 S.C.R. 336 at para. 87.

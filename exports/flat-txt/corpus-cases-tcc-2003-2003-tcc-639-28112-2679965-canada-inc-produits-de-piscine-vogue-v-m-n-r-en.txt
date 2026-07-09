@@ -1,0 +1,110 @@
+Title: 2679965 Canada Inc. (Produits de Piscine Vogue) v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28112/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-639-28112-2679965-canada-inc-produits-de-piscine-vogue-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2003-08-26
+
+# 2679965 Canada Inc. (Produits de Piscine Vogue) v. M.N.R.
+
+- Citation: 2003 TCC 639
+- Decision date: 2003-08-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1632, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+2679965 Canada Inc. (Produits de Piscine Vogue) v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-08-26
+Neutral citation
+2003 TCC 639
+File numbers
+2002-3303(EI)
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Employment Insurance Act
+Decision Content
+[OFFICIAL ENGLISH TRANSLATION]
+Citation: 2003TCC639
+Date: 20030826
+Docket: 2002-3303(EI)
+BETWEEN:
+2679965 CANADA INC.
+PRODUITS DE PISCINE VOGUE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+GILLES LEBUIS,
+PAUL GUAY,
+Interveners.
+REASONS FOR JUDGMENT
+(Delivered orally from the bench at the close of proceedings
+on July 8, 2003, at Montréal, Quebec,
+and edited at Ottawa, Canada, on August 26, 2003)
+Lamarre Proulx, J.T.C.C.
+[1] This is an appeal from a decision of the Minister of National Revenue (the "Minister") that Gilles Lebuis, during the period from January 1 to October 30, 2001, and Paul Guay, during the period from January 1 to October 31, 2001, held insurable employment within the meaning of the Employment Insurance Act (the "Act").
+[2] The Minister relied on the assumptions of fact described in paragraph 5 of the Reply to the Notice of Appeal (the "Reply"), which reads as follows:
+[TRANSLATION]
+(a) the appellant was incorporated on January 7, 1991;
+(b) the appellant did business under the name of Produits de Piscines Vogue;
+(c) the appellant was a manufacturer and distributor of pools and accessories;
+(d) the sole shareholder of the appellant was Gestion Lebuis et Associés Inc.;
+(e) the shareholders of Gestion Lebuis et Associés Inc. were
+Guy Lebuis
+60% of voting shares
+Gilles Lebuis
+20% of voting shares
+Paul Guay
+20% of voting shares
+(f) Guy Lebuis is Gilles Lebuis' father;
+(g) Paul Guay is not related to Gilles or Guy Lebuis;
+(h) the appellant has annual turnover of approximately $28 million and employed between 75 and 130 employees depending on the season;
+(i) Guy Lebuis, the president of the appellant, was in the appellant's offices every day;
+(j) the appellant had a board of directors which met regularly and made the important decisions;
+(k) the worker Gilles Lebuis was the appellant's vice-president for marketing;
+(l) the worker Lebuis' duties were to manage research and development, marketing and sales;
+(m) the worker Paul Guay was the appellant's vice-president for finance;
+(n) the worker Paul Guay's duties were to manage the appellant's human resources, operations, accounting, finance and legal issues;
+(o) the workers had a work schedule from Monday to Friday, from 8:00 a.m. to 5:00 p.m. for Gilles Lebuis and from 8:00 a.m. to 10:00 p.m. for Paul Guay;
+(p) the workers worked for the payer year-round;
+(q) the workers received fixed annual remuneration of $90,000;
+(r) the workers had an automobile supplied by the appellant;
+(s) the workers were covered by a group insurance policy like all employees;
+(t) all the workers' related to their duties were paid by the appellant;
+(u) the workers had no chance of profit or risk of loss apart from their salaries;
+(v) the workers worked on the appellant's premises;
+(w) all the equipment that the workers used belonged to the appellant;
+(x) the services rendered by the workers were an integral part of the appellant's activities.
+[3] Subparagraphs 5(a) to (d), (f) to (h), (l) to (n), (p) to (r), (t), (w) and (x) were admitted.
+[4] Messrs. Lebuis and Guay, the two workers in question, are interveners in this case. Both testified.
+[5] Subparagraph 5(e) was denied because the shares held represented two percent of the voting shares and 18 percent of participating preferred shares. As to the statement in subparagraph 5(i) that the president of the appellant was in the appellant's offices every day, Gilles Lebuis explained that his father was 68 years old in 2001. He went to the office, but only for a few hours, and no longer attended to the day-to-day management of the business. He was no longer the guiding mind of the business.
+[6] Gilles Lebuis stated that, in 2001, he and Paul Guay made the decisions. They acted as partners. They were equals.
+[7] With respect to subparagraph 5(j), which states that the appellant had a board of directors which met regularly and made the important decisions, Mr. Lebuis explained that the board of directors acted mainly in an advisory capacity. His father, Mr. Guay and he were members of the board, along with three directors recruited from the outside, who were remunerated on the basis of attendance.
+[8] As to subparagraphs 5(o) and (v), the interveners worked on the appellant's premises, but they also worked at their homes in the evenings. They stayed in touch with the activities of the business during their vacations.
+[9] With respect to the statement in subparagraph 5(s) concerning similar group insurance for all workers, the life insurance coverage was different for them. Furthermore, each of the partners had taken out $2 million life insurance policies on each other. If they travelled at the same time, they took different flights.
+[10] Gilles Lebuis has been the president of the appellant since November 3, 2002. The business manufactures above-ground pools and sells them around the world. It has 130 employees when its production is at its peak, approximately 75 at its lowest. Production is lower from June to September, when jobs are focused more on pool maintenance.
+[11] In 2001, Mr. Lebuis was vice-president for marketing, research and development and public relations. He stated that he arrived at work around 8:00 a.m. and left around 6:30 p.m. He had the irregular hours of an entrepreneur. He decided on his own hours and was the first to arrive and last to leave.
+[12] Mr. Guay and he had decided on the $90,000 salary, which dated back to 1996. It was based on the company's ability to pay or his performance and the financial needs of the two partners.
+[13] There were some specialists who earned higher salaries than theirs. That is what the business had to pay in order to recruit them. The partners took no bonuses if the employees had received none. They occasionally took no bonuses and nevertheless granted them to employees.
+[14] Paul Guay is a chartered accountant and the vice-president of finance. With respect to his working hours, he said he rarely left the office before 8:00 p.m. He reported to no one. He and Gilles Lebuis worked together. In September 2002, the two decided to pay themselves salaries of $150,000.
+[15] Jean‑Pierre Houle, an appeals officer, testified and explained that, in this case, one person was not dealing with the payer at arm's length, while the other was. Thus he thought that Mr. Lebuis' conditions of employment were similar to those of another employee dealing with the appellant at arm's length, the conditions being those of Mr. Guay, who, according to the witness, was dealing with the payer at arm's length. He saw nothing surprising in the fact that the two interveners had set their own salaries and conditions of employment since they determined the wages and working conditions of the employees in general. In his report, he stated as a fact that the appellant was managed jointly by both persons.
+Analysis and Conclusion
+[16] The appeals officer's decision was based on the fact that one of the workers was dealing at arm's length, which enabled him to establish a comparable. Thus it was easy for him to determine that the other worker's working conditions were similar to those of a person dealing at arm's length.
+[17] Were the payer and Mr. Guay in fact dealing with each other at arm's length? Paragraph 251(b) of the Income Tax Act provides that it is a question of fact where persons not related to each other were at a particular time dealing with each other at arm's length.
+[18] In Fournier v. M.N.R., [1991] T.C.J. No. 7, Judge Dussault held that, when the parties to a transaction act in concert, when they have similar economic interests or they act with a common intent, it is generally admitted that they are not dealing at arm's length.
+[19] In the instant case, the two workers in question were also the appellant's two decision-makers. The evidence clearly showed that they acted in concert with the appellant and that it was they who controlled it. It seems clear that the appellant and the executive worker, Mr. Guay, were not dealing with each other at arm's length.
+[20] The issue in the instant case is thus not whether there was a relationship of subordination between the appellant and the two executive workers, as required by paragraph 5(1)(a) of the Act, but rather whether their employment is excluded employment as provided for in paragraphs 5(2)(i) and 5(3)(b) of the Act.
+[21] The Minister's decision was based on the premise that the appellant and Mr. Guay were dealing with each other at arm's length. That premise is incorrect. I am therefore permitted to review that decision. Let us consider the salary test. A salary that remains the same from 1996 to 2001 and which subsequently, in 2002, is increased by $60,000 a year does not comply with the usual rules of the labour market. The workers' hours of work, involvement and independence as well were not those of employees dealing with the employer at arm's length.
+[22] Relying on the remuneration paid and on the duration, and the nature and importance of the work performed, I conclude that the workers and the appellant would not have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[23] The appeals are accordingly allowed and the Minister's decision vacated.
+Signed at Ottawa, Canada, this 26th day of August 2003.
+"Louise Lamarre Proulx"
+J.T.C.C.

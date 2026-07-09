@@ -1,0 +1,257 @@
+Title: Lacroix c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27324/index.do
+Corpus path: corpus/cases/tcc/2007/2006-cci-558-27324-lacroix-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2007-06-14
+
+# Lacroix c. La Reine
+
+- Citation: 2006 CCI 558
+- Decision date: 2007-06-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 864, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lacroix c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-06-14
+Référence neutre
+2006 CCI 558
+Numéro de dossier
+2004-757(IT)G
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-757(IT)G
+ENTRE :
+RÉGENT LACROIX,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus les 28 et 29 septembre 2006 et le 26 février 2007,
+à Montréal (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Avocat de l'appelant :
+Me Philip Nolan
+Avocat de l'intimée :
+Me Simon-Nicolas Crépin
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1997, 1998, 1999 et 2000 sont accueillis et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations en tenant compte du fait que le revenu de l'appelant doit être réduit de 11 851 $ pour l'année d'imposition 1997 et de 31 624 $ pour l'année d'imposition 1998 et les dépens sont adjugés à l'intimée, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 14e jour de juin 2007.
+« Paul Bédard »
+Juge Bédard
+Référence : 2007CCI558
+Date : 20070614
+Dossier : 2004-757(IT)G
+ENTRE :
+RÉGENT LACROIX,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] L’appelant conteste les nouvelles cotisations établies par le ministre du Revenu national (le « ministre ») selon la méthode de l’avoir net pour les années 1997 à 2000 (la « période pertinente »). Le ministre a ajouté aux revenus de l’appelant des revenus non déclarés de 145 667 $ en 1997, de 231 570 $ en 1998, de 156 333 $ en 1999 et de 26 103 $ en 2000, selon les détails fournis dans la Réponse à l’avis d’appel, et a, pour chacune de ces années, imposé la pénalité prévue au paragraphe 163(2) de la Loi de l’impôt sur le revenu (la « Loi »). Les nouvelles cotisations pour les années 1997 et 1998 ont été établies après la période normale de nouvelle cotisation.
+[2] Il convient immédiatement de souligner que l’avocat de l’intimée a admis lors de l’audience que le ministre avait ajouté en trop aux revenus non déclarés de l’appelant la somme de 11 851 $ pour l’année d’imposition 1997 et la somme de 31 624 $ pour l’année d’imposition 1998. Donc, les revenus non déclarés par l’appelant pour la période pertinente faisant l’objet des présents appels se chiffrent à environ 516 000 $.
+[3] L’appelant soutient essentiellement que le ministre a commis une erreur dans le calcul de son revenu établi selon la méthode de l’avoir net en ne reconnaissant pas des prêts totalisant 500 000 $ au 12 juin 1996, prêts qui auraient été consentis par monsieur Gilles Pronovost.
+[4] L’appelant a témoigné. Madame Francine Jobin, la conjointe de l’appelant, et monsieur Gilles Pronovost ont également témoigné à l’appui de l’appelant, alors que monsieur Charles LeBlanc, le vérificateur de l’Agence des douanes et du revenu du Canada (l’« Agence ») dans la présente affaire, et monsieur Jacques Heppell, le chef d’équipe de monsieur LeBlanc, ont témoigné à l’appui de l’intimée.
+Témoignage de l’appelant
+[5] L’appelant raconte ainsi les circonstances liées aux prêts en argent comptant que lui aurait consentis monsieur Gilles Pronovost :
+i) Alors qu’il pêchait sur la rivière Richelieu près du camping St‑Ours pendant l’été 1991, il a entendu les cris de panique de monsieur Pronovost qui était dans une chaloupe à environ 500 pieds de l’endroit où il pêchait. Il a démarré le moteur de son embarcation et s'est précipité sur les lieux. Il a constaté qu’un jeune adolescent, en l’occurrence le fils de monsieur Pronovost, Patrice, était sur le point de se noyer. Il a sauté à l’eau et a sauvé Patrice de la noyade. Le témoignage de l’appelant à cet égard mérite d’être cité :
+MONSIEUR LE JUGE :
+42. Q. En train de se noyer.
+R. Son fils était en train de se noyer. J’étais environ à quatre, cinq cents pieds (4 – 500 pi) peut-être de là, j’ai décollé mon moteur, je suis allé là. Son fils avait le bras pris dans le moteur du bateau, parce qu’il avait une espèce de... dans ce temps-là, il y avait des petits bracelets comme en matériel et puis en voulant baisser le pied du moteur, son poignet avait resté pris dans le pied du moteur, puis il était tout petit, donc quand il a baissé le moteur, il a planté à l’eau, puis il était pris là en train de se noyer. Le monsieur ne savait pas nager, était en panique totale. J’ai sauté à l’eau, j’ai dépris le jeune du moteur. Puis, c’est à partir de ce moment-là que j’ai établi une bonne relation avec monsieur Pronovost.
+L’appelant a expliqué qu’aucun témoin n’avait assisté à l'incident. Il a ajouté que monsieur Pronovost lui a alors demandé alors de ne pas parler à qui que ce soit de l’incident, prétendument parce qu’il se sentait coupable de ne pas avoir demandé à son fils de porter un gilet de sauvetage.
+ii) À la suite de l’incident, il a rencontré monsieur Pronovost à plusieurs reprises. Il lui a fait part de son rêve d’acquérir un portefeuille d’immeubles à des fins d’investissement, rêve qu’il n’avait pu réaliser faute de moyens financiers. Monsieur Pronovost accepte de financer son projet. Les explications de l’appelant à cet égard méritent aussi d’être citées :
+51 R. À la suite de ça on s’appelle, on se rencontre de temps en temps, on va dîner. Monsieur Pronovost vient me rencontrer à mes bureaux plusieurs fois. Moi je lui fais part... c’est bien sûr qu’on apprend à se connaître et monsieur Pronovost est dans l’acier, moi je suis dans le domaine de la thermopompe. J’achète, entre autres, des thermopompes de piscine. Je lui présente le monsieur que lui, monsieur Pronovost, fait des affaires avec. Puis, à travers ça, c’est bien sûr que moi, mon rêve reste toujours le même, moi c’est pas des thermopompes que je veux vendre. Moi c’est un portefeuille immobilier que je veux. Donc, j’avais préparé une espèce de programme immobilier à travers quoi je montais un beau portefeuille immobilier. Je l’ai présenté à monsieur Pronovost qui trouvait ça très intéressant, puis que lui aussi il trouvait que l’avenir était dans l’immobilier.
+Monsieur Pronovost avait quand même, avec son fils, un problème qu’il voyait pas un jour dans quoi son fils aurait pu travailler. Donc, monsieur Pronovost m’a jasé ou m’a invité à financier mon projet d’immobilier, conditionnel à ce que j’apprenne tout ce que je sais à son fils. Comment acquérir des immeubles, comment faire de la gestion d’immeubles et tout ce qui s’en suit.
+52. Q. Quand vous dites que monsieur Pronovost a voulu… je m’excuse, je ne me souviens pas du verbe que vous avez utilisé, mais commanditer ou appuyer votre projet, ça veut dire quoi ça?
+R. Me financer…
+MONSIEUR LE JUGE :
+Il a dit « financer ».
+R. Vraiment me financer mon projet. Moi j’avais expliqué à monsieur Pronovost… le montant que j’aimerais avoir pour être capable de monter un bon portefeuille immobilier c’est 500 000 $.
+iii) Monsieur Pronovost lui a consenti à partir de l’année 1993, pendant une période de 2 à 3 ans, des prêts en argent comptant qui totalisaient 500 000 $ le 12 juin 1996. Il convient de souligner que l’appelant n’a pas été en mesure de préciser le montant de chacun des prêts consentis et la date de leur versement, si ce n’est que le premier prêt aurait été de 50 000 $. Il a aussi ajouté aussi que la totalité des prêts consentis en argent comptant fut déposée dans un coffre-fort situé dans sa résidence.
+iv) Lors du versement de chacun des prêts, monsieur Lacroix a signé une reconnaissance de dette, la reconnaissance de dette précédente étant détruite. À cet égard, l’appelant a produit en preuve (pièce A‑4), l’original de la dernière reconnaissance de dette qu’il avait signée le 12 juin 1996 (le « billet »), qui se lit comme suit :
+Longueuil le 12 juin 1996
+Total des avances pour investissements privé pour les immeubles en cette date sont de cinq-cents-milles dollars ($500 000,00) bien entendu il n’y aura aucun endossements et aucun lien de la part de Gilles Pronovost
+Réjean devra payer Gilles avec les 50% des bénéfice de ses immeubles s’il n y a pas de bénéfice Réjean ne fera pas de remboursement.
+Pour aider au démarage les remboursements commencerons après la cinquième année
+et nous avons signé « Gilles Pronovost »
+GILLES PRONOVOST
+323 Louis St-Narcisse
+« Régent Lacroix »
+RÉGENT LACROIX
+555 St‑Pierre
+St‑Roch
+v) Pendant la période du 23 juillet 1996 au 27 février 1998, l’appelant a acheté plusieurs immeubles. Il a expliqué que les fonds nécessaires pour acheter et rénover les immeubles provenaient de sa marge de crédit qui, elle-même, était renflouée grâce aux 500 000 $ en argent comptant qu’il détenait dans son coffre-fort. Le témoignage de l’appelant à cet égard mérite d’être cité :
+354 Q. On va essayer de prendre un exemple, Monsieur Lacroix. Vous faites un achat d’un immeuble. Je ne sais pas… Essayons de prendre le premier immeuble, ou en tout cas, un immeuble dont vous vous souvenez bien. Dites-nous comme ça se passe.
+R. Exemple, un immeuble que j’ai acheté, sur la rue Joliette, exemple. J’ai besoin de 50 000 $ comptant. Je suis allé sur mes marges et dans mon compte personnel pour émettre un chèque de 50 000 $ pour pouvoir acheter l’immeuble.
+MONSIEUR LE JUGE :
+355 Q. Donc, vous émettez un chèque de 50 000 $?
+R. Exact, de 50 000 $ ou 55 000 $, le montant qui m’a été demandé…
+356 Q. C’est votre exemple.
+R. Et à partir de là, à toutes les semaines je vais aller déposer un 4 000 $, un 5 000 $ sur ma marge pour la ramener à zéro.
+Il explique ainsi la raison pour laquelle il ne voulait pas utiliser les 500 000 $ en argent comptant pour acheter ou rénover les immeubles :
+360 Q. Si je comprends bien, vous ne vouliez pas montrer à vos banquiers que vous avez trop d’argent parce qu’ils auraient exigés des comptants sur les immeubles plus élevés que…
+R. Exactement…
+Il convient immédiatement de souligner que l’appelant a expliqué lors de l’interrogatoire préalable que les 500 000 $ avaient en gros servi à faire des rénovations aux immeubles.
+vi) En 1999 ou 2000, un représentant de l’Agence a communiqué avec lui. Il a demandé à sa comptable, madame Cloutier, de rappeler ce représentant et de lui fournir les renseignements et les documents qu’il pourrait demander.
+vii) À partir du moment où monsieur Pronovost a rencontré messieurs LeBlanc et Heppell en avril 2002, rencontre lors de laquelle ces derniers auraient fait prendre conscience à monsieur Pronovost que le billet comportait peu de garanties, monsieur Lacroix pressent que monsieur Pronovost a peur de perdre son argent. Un peu plus tard, lors d’une conversation téléphonique, monsieur Pronovost lui a demandé formellement des garanties. Il a convoqué monsieur Pronovost à son bureau et lui a alors remis un chèque de 26 000 $ pour le rassurer. Il a expliqué que le lendemain ou le surlendemain de la remise de ce chèque, monsieur Pronovost a laissé à la réception de son bureau une lettre (pièce A‑8) dans laquelle il lui demande de rembourser les prêts qu’il lui avait consentis, et ce, le plus rapidement possible. Je note que le chèque de 26 000 $ est daté du 1er juillet 2003, que la lettre de monsieur Pronovost (pièce A‑8) est datée du 2 juillet 2003 et que cette lettre ne fait nullement état du remboursement partiel de 26 000 $. Je note aussi que monsieur Pronovost a signé un reçu daté du 2 juillet 2003 à l’égard du remboursement de 26 000 $. Enfin, l’appelant explique qu’il avait remboursé les prêts de la façon suivante :
+26 000 $ le 1er juillet 2003
+540 000 $ le 8 juillet 2003
+510 000 $ le 31 juillet 2003
+500 000 $ le 1er septembre 2003
+69 000 $ le 2 février 2004
+80 000 $ le 5 avril 2004
+100 000 $ le 9 avril 2006
+Je note que l’appelant devait encore, à la date de l’audience, une somme de 70 000 $ à l’égard des prêts.
+Témoignage de monsieur Pronovost
+[6] Monsieur Pronovost explique ainsi les circonstances liées aux prêts qu’il aurait consentis à l’appelant :
+i) Pendant la fin de semaine de la fête de la St-Jean-Baptiste de l’année 1991, vers 8 heures du matin, l’appelant a sauvé de la noyade son fils Patrice, alors âgé de 16 ans. L’incident serait survenu sur la rivière Richelieu près du camping St‑Ours. Il explique ainsi les circonstances entourant le prétendu sauvetage de son fils Patrice :
+413 Q. Pourriez-vous expliquer à la Cour le contexte de ce secourisme?
+R. On était allé faire du camping, c’était la fin de semaine de la St-Jean-Baptiste. On est allé faire du camping au camping St-Ours et puis il y a un débarcadère pour les chaloupes. Puis, le matin, mon garçon faisait des allergies assez fortes, alors on est allés sur l’eau, parce que c’est une place où il y a moins de pollen puis tout ça. Puis, lorsqu’on a mis la chaloupe à l’eau, on l’a poussée puis le pied du moteur de la chaloupe s’est levé, alors on a poussé la chaloupe. Puis, quand on a été rendu dans assez creux d’eau, il a fallu baisser le pied de la chaloupe, puis c’est un pied de chaloupe qui était assez long. Alors…
+MONSIEUR LE JUGE :
+414 Q. Un pied de chaloupe ou un pied de moteur, je veux dire.
+R. Un pied de moteur, excuse, oui. Et puis, il y a une barrure pour le déclencher et puis quand il a été pour déclencher ça, après le pied du moteur, il y a une place peut-être pour changer le pied, il y a comme une « bolt », on avait mis comme une… en français, en anglais « counter pin » ça c’était pour attacher une housse pour quand on s’en va sur la route, ainsi de suite… Puis lui il avait un bracelet, un cordon, dans ce temps-là c’était une mode… puis, quand il a déclenché le moteur, ça a accroché, puis lui il était pas gros, ça fait qu’il est tombé à l’eau, puis il était pris là‑dedans, ça s’est comme « twisté » ça. Il était pris. Puis moi, bien là, je l’ai vu dans une mauvaise position, il se débattait, puis il essayait de sortir. Et puis là c’est sûr qu tu paniques dans ce temps-là. Là on a crié, puis Régent est arrivé. Il a sauté à l’eau, puis moi j’étais derrière la chaloupe, ça fait que là, lui est arrivé, puis il a comme soulevé, puis là il m’a dit : « Va te placer en avant », je me suis en allé en avant, puis c’est comme ça qu’il l’a sauvé.
+Il ajoute qu’aucun témoin n’a assisté à l'incident et qu’il n’a jamais fait part de l’incident à qui que ce soit. Lorsqu’il est contre‑interrogé au sujet de la raison pour laquelle il n’a pas encore informé sa conjointe du sauvetage de leur fils, et ce, même si ce dernier est décédé en 1997, monsieur Pronovost s’explique ainsi :
+716 Q. Puis, pourquoi vous n’en avez pas parlé à votre épouse?
+R. On voulait pas inquiéter personne.
+717 Q. C’était fait.
+R. C’était une négligence… Oui, je le sais, mais c’était vraiment une négligence. Tu vas pas te vanter de ça.
+ii) À la suite de l’incident, il a rencontré l'appelant à plusieurs reprises et il a développé une relation d’affaires avec lui. Monsieur Pronovost décrit ainsi la relation qu’il a développée avec l’appelant au cours de ces rencontres :
+422 Q. C’était quoi la relation entre vous deux?
+R. Bien c’était devenu une relation d’affaires. On parlait d’affaires, c’était plus ça. Il disait qu’il voulait avoir de l’argent pour investir dans l’immobilier…
+iii) À la fin de l’année 1991 ou au début de l’année 1992, l’appelant lui a fait part de son projet d’acquérir un portefeuille d’immeubles à des fins d’investissement (le « projet ») et lui a demandé de lui prêter entre 400 000 $ et 500 000 $. Il s’est immédiatement intéressé au projet. En reconnaissance du geste de l’appelant à l’égard de son fils Patrice et afin que l’appelant aide son fils à acquérir une expérience pertinente dans le domaine de l’immobilier, il a accepté de financer le projet.
+iv) Pendant la période allant de l’été 1992 au 12 juin 1996, il a consenti à l’appelant plusieurs prêts en argent comptant qui totalisaient 500 000 $ le 12 juin 1996. Il convient immédiatement de souligner que monsieur Pronovost ne se souvenait aucunement du montant de chacun des prêts et de la date de leur versement, à l’exception du montant du premier prêt, qui aurait été de 50 000 $. Monsieur Pronovost explique que lors du versement de chacun des prêts, l’appelant signait une nouvelle reconnaissance de dette, dans laquelle était établi notamment le montant total des prêts consentis à cette date, la reconnaissance de dette précédente étant détruite. L’appelant faisait alors une photocopie de la nouvelle reconnaissance de dette. Il conservait normalement l’original du document alors que l’appelant conservait la photocopie. Son témoignage à cet égard mérite d’être cité :
+757 Q. Vous dites que…. qui gardait l’original?
+R. On faisait une photocopie, l’original, normalement c’est moi.
+758 Q. Normalement, vous gardiez l’original?
+R. Normalement, oui.
+759 Q. Et monsieur Lacroix se faisait une photocopie.
+R. Oui.
+760 Q. Oui.
+R. J’ai jamais porté attention si j’avais l’original ou pas.
+761 Q. Ça ne vous apparaissait pas un facteur important d’avoir l’original?
+R. Tu peux pas différencier si c’est une copie ou l’original, à moins d’être un expert.
+Le 12 juin 1996, lui et l’appelant ont signé le billet. Il convient immédiatement de souligner que la preuve a établi clairement que l’appelant a toujours eu en sa possession l’original du billet. Les explications de monsieur Pronovost à l’égard de la possession du billet sont à ce point invraisemblables qu’elles méritent d’être citées :
+808 Q. Je vais revenir à ça tout à l’heure, monsieur Pronovost, au remboursement que monsieur Lacroix vous fait. Mais, pour conserver la chronologie des événements, on passe du billet du douze (12) juin 1996 à votre rencontre avec les représentants de l’Agence. Cette rencontre-là a lieu au mois d’avril 2002, c’est exact?
+R. Possiblement.
+809 Q. Est-ce que vous avez de la misère avec le mois d’avril ou avec le mois d’avril ou avec l’année, vous semblez hésiter?
+R. Je le sais pas si c’est au mois d’avril, puis je le sais pas si c’est en 2002. Je sais que je les ai rencontrés, je les ai rencontrés à Trois-Rivières, ça c’est sûr que je les ai rencontrés.
+810 Q. O.K.
+R. Mais, l’heure, la date puis l’année, c’est...
+811 Q. On vous indique que la raison de la rencontre c’est pour discuter du prêt que vous auriez fait à monsieur Lacroix?
+R. Possiblement.
+812 Q. C’est exact que vous n’amenez aucun document avec vous pour cette rencontre-là?
+R. Je pense pas avoir amené des documents.
+813 Q. C’est exact de dire que vous n’avez même pas avec vous une copie du billet du douze (12) juin 1996?
+R. C’est bien possible.
+814 Q. C’est exact que vous dites aux représentants de l’Agence que vous n’avez même pas de copie de ce billet‑là?
+R. Non, j’ai pas l’original, que j’aie pas de copie, ça ça me surprend. J’ai eu une copie, l’original, je pense que c’était madame Cloutier qui avait ça.
+815 Q. Vous leur dites que votre copie aurait été détruite lors d’un incendie?
+R. Oui, c’est vrai, c’est sûr, mes documents étaient là, mes documents ont brûlé.
+816 Q. L’incendie est survenu quand, Monsieur Pronovost?
+R. L’incendie est arrivé... 97, janvier 97.
+817 Q. Donc, de janvier 1997 au mois d’avril 2002, vous n’avez même pas de copie du billet?
+R. Il était peut-être chez Métalite. Tu sais je l’avais pas avec moi.
+MONSIEUR LE JUGE :
+818 Q. Il était peut-être?
+R. Chez Métalite, la compagnie Métalite... Quand j’ai vendu la compagnie Métalite, moi là, toute ma paperasse personnelle puis tout ça, j’avais la compagnie Métalite, j’avais une secrétaire, Simone Gagnon, qui s’occupait...
+819 Q. Mais, vous avez dit qu’il avait passé au feu...
+R. En 97, tous mes documents étaient détruits. Mais là le document c’était en quelle année. Si c’est avant 97, c’est brûlé, puis si c’est après, bien ils sont chez Métalite. C’est quelle année qu’on parle?
+Me SIMON-NICOLAS CRÉPIN :
+820 Q. Monsieur Pronovost, vous avez devant vous une copie du billet du douze (12) juin 1996.
+R. C’est ça, je l’ai pas, tous mes documents ont brûlé...
+MONSIEUR LE JUGE :
+821 Q. Ça a péri en 97?
+R. En 97, j’avais...
+822 Q. C’est ce que vous dites...
+R. Oui, c’est exactement ça.
+Me SIMON-NICOLAS CRÉPIN :
+823 Q. Et du mois de janvier 97 au mois d’avril 2002, au moment de votre rencontre avec les représentants de l’Agence, vous n’avez plus de copie du billet avec vous?
+R. Vous allez rester surpris... Moi je m’en ai pas rendu compte que ce billet-là était là, tu sais j’ai pas... J’ai passé au feu, mes documents étaient là.
+824 Q. Monsieur Pronovost, vous n’avez pas du tout réfléchi à ce qui surviendrait s’il arrivait... je ne veux pas l’invoquer, mais s’il arrivait un malheur à monsieur Lacroix, et que vous n’avez pas de copie du billet, comment vous allez faire pour récupérer votre mise de fonds?
+R. Madame Cloutier avait une copie, la comptable, je me sentais en pleine sécurité.
+825 Q. Comment vous faisiez pour savoir que madame Cloutier avait une copie?
+R. Là, tu sais... elle avait l’original.
+826 Q. Elle avait l’original ou une copie?
+R. Je pense qu’elle avait l’original.
+827 Q. S’il arrive un malheur à l’original...
+R. Bien là, tout peut arriver à un moment donné.
+828 Q. C’est vrai.
+R. Moi je m’arrête pas à ça ces affaires-là. J’ai avancé dans la vie, mais s’il avait fallu toujours que je me sécurise comme ça, j’aurais rien fait, j’aurais pas eu le temps.
+v) À l’égard de l'origine des 500 000 $ en argent comptant qui auraient été prêtés à l’appelant, il a expliqué qu’il détenait en 1991, dans un coffre‑fort situé dans sa résidence, des sommes en espèces variant entre 250 000 $ et 300 000 $, dont environ 150 000 $ provenaient de dons en espèces que lui auraient faits monsieur Cadrin et madame St‑Arnaud, qui le considéraient un peu comme leur fils. Il convient de souligner que ces deux personnes sont malheureusement décédées. Le solde de l’argent comptant (entre 200 000 $ et 250 000 $) provenait du remboursement d’avances consenties à sa société. Son témoignage à cet égard mérite aussi d’être cité.
+630 Q. Dites-moi, Monsieur Pronovost, le 500 000 $ vous l’aviez en liquide au moment où vous avez connu monsieur Lacroix en 1991, c’est exact?
+R. Je l’avais, pas nécessairement en liquide, je l’avais. J’en avais dans mon coffre-fort, puis j’ai probablement sorti de la compagnie, je me suis remboursé des avances, ça je suis sûr de ça. À un moment donné, j’avais des avances, je me suis remboursé, puis je changeais les chèques puis j’allais porter ça.
+Il convient de souligner qu’aucune preuve documentaire n’a été soumise à l’égard de l’existence de ces avances, de leur remboursement et de leur encaissement en espèces. Par ailleurs, je souligne que monsieur Pronovost a expliqué qu’au moment où il a consenti ces prêts à l’appelant, il était un homme d’affaires prospère et que la valeur de son patrimoine se situait alors autour de quatre millions de dollars.
+vi) En avril 2002, il a rencontré messieurs Heppell et LeBlanc, qui voulaient l’interroger à l’égard des prêts. Lors de cette rencontre, messieurs Heppell et LeBlanc lui ont fait prendre conscience du fait que le billet comportait peu de garanties de remboursement. À la suite de cette rencontre, il a développé une grande inquiétude à l’égard du remboursement des prêts, d’autant plus que ses affaires allaient moins bien. Son témoignage à l’égard du déroulement des événements qui ont suivi cette rencontre mérite aussi d’être cité :
+866. Q. Vous avez commencé à parler à monsieur Lacroix à quel moment de vos inquiétudes et de votre besoin de vous faire rembourser?
+R. Comme je l’ai dit tout à l’heure, suite à la rencontre, ça m’a... Ils m’ont fait allumer, ils ont créé un doute, une inquiétude. Là ça me gênait d’en parler à Régent, ça me gênait de lui demander des garanties et tout ça. À un moment donné, chez Métalite, ça a commencé à moins bien aller... Métalite a fait faillite en 2003. Puis, là ça allait pas bien et puis les paies étaient coupées. Alors là j’ai comme paniqué, alors j’ai appelé Régent, j’ai dit : « Régent, j’aimerais ça avoir des garanties ».
+MONSIEUR LE JUGE :
+867 Q. Ça c’est à quelle époque, quand...
+R. Je le sais pas.
+868 Q. Un mois, six mois après...
+R. Peut-être six mois après...
+Je note immédiatement que monsieur Pronovost a témoigné qu’il avait vendu les actions qu’il détenait dans la société Métalite en 1999. Il m’est donc difficile de comprendre le lien entre la demande de garanties et de remboursement des prêts et les difficultés financières de la société Métalite. Je rappelle que le premier chèque de remboursement de 26 000 $ est daté du 1er juillet 2003, que le reçu à l’égard de ce remboursement signé par monsieur Pronovost est daté du 2 juillet 2003 et que la lettre liée à la demande de remboursement est datée du 2 juillet 2003. Je note aussi que cette lettre datée du 2 juillet 2003 ne fait nullement état du remboursement de 26 000 $.
+Témoignage de Francine Jobin
+[7] La conjointe de l’appelant, madame Jobin, a essentiellement corroboré certains aspects du témoignage de son conjoint, notamment à l’égard de l’argent comptant qui était déposé dans le coffre-fort, à l’égard des photocopies des reconnaissances de dette et à l'égard du remboursement de la marge de crédit avec l’argent comptant qui aurait été déposé dans le coffre‑fort de son conjoint.
+Témoignage de monsieur Michel Hamelin
+[8] Monsieur Michel Hamelin, l’expert de l’appelant, a témoigné que son mandat consistait à analyser et à expliquer la variation de l’avoir net de l’appelant pendant la période pertinente. Il a expliqué qu’en tenant pour acquis que des prêts de 500 000 $ avaient été consentis par monsieur Pronovost à l’appelant, son rapport démontrait que ces prêts avaient été presque entièrement utilisés pour acheter des immeubles et des véhicules, pour consentir des prêts et pour faire des placements auprès de la firme de courtage Nesbitt Burns, et qu’ainsi ces prêts n’avaient pas été utilisés par l’appelant pour défrayer ses frais de subsistance. À mon avis, le témoignage et le rapport de monsieur Hamelin ne démontrent nullement que la somme de 500 000 $ ainsi utilisée par l’appelant provenait des prêts consentis par monsieur Pronovost. Par ailleurs, il est intéressant de noter que le témoignage et le rapport de monsieur Hamelin établissent clairement que l’acquisition des immeubles a presque entièrement été financée par la banque et les marges de crédit de l’appelant. Je note aussi que monsieur Hamelin n’a jamais vérifié de quelle façon les marges de crédit de l’appelant avaient été remboursées.
+Témoignages de messieurs Charles LeBlanc et Bruno Heppell
+[9] Il ressort notamment des témoignages très crédibles de messieurs Heppell et LeBlanc que :
+i) Monsieur LeBlanc a contacté monsieur Pronovost par téléphone pour lui fixer un rendez‑vous. Lors de cette conversation téléphonique, monsieur LeBlanc a expliqué à monsieur Pronovost qu’il aimerait lors d’une éventuelle rencontre, lui poser des questions, à l’égard des prêts qu’il aurait consentis à l’appelant. Monsieur LeBlanc lui a aussi demandé d’apporter tous les documents liés à ces prêts.
+ii) La rencontre s'est tenue au bureau de l’Agence, le 23 avril 2002. Seuls messieurs LeBlanc, Heppell et Pronovost ont été présents lors de cette rencontre, bien qu’on ait offert à monsieur Pronovost de venir avec ses représentants.
+iii) Lors de cette rencontre, messieurs Heppell et LeBlanc ont d'abord interrogé monsieur Pronovost au sujet du montant des prêts qu’il aurait consentis à l’appelant. Monsieur Pronovost a répondu qu’il n’est pas certain du montant des prêts consentis. Monsieur Pronovost a vaguement parlé d’une somme de 125 000 $ et d’une autre de 80 000 $ qui auraient été prêtées à l’appelant.
+iv) Lors de cette rencontre, monsieur Pronovost n’a apporté aucun document lié aux prêts, son explication étant que tous les documents concernés avaient été détruits lors d’un incendie. Lorsque messieurs LeBlanc et Heppell lui ont montré une photocopie du billet, monsieur Pronovost a semblé surpris du montant de 500 000 $ qui apparaît sur le billet, ce montant lui a semblé très élevé.
+v) Toujours lors de cette rencontre, messieurs LeBlanc et Heppell ont interrogé monsieur Pronovost à l’égard de l'origine des 500 000 $ en argent comptant prêtés à l’appelant. Les réponses de monsieur Pronovost ont été vagues, imprécises et ambiguës.
+vi) Lors de cette rencontre, messieurs LeBlanc et Heppell ont demandé à monsieur Pronovost s’il existait un autre document en vertu duquel il détiendrait des garanties à l’égard des prêts. Monsieur Pronovost a répondu qu’il ne détenait aucune garantie autre que celle qui apparaît sur le billet.
+Analyse et conclusion
+[10] La preuve de l’appelant à l’égard de l’existence des prêts en argent comptant que lui aurait consentis monsieur Pronovost reposait essentiellement sur son témoignage, sur celui de sa conjointe et sur celui de monsieur Pronovost. La seule preuve documentaire de l’existence des prêts soumise par l’appelant reposait sur :
+i) le billet (pièce A‑4);
+ii) la lettre de monsieur Pronovost, dans laquelle il demandait notamment à l’appelant le remboursement des prêts qu’il avait consentis à ce dernier, lettre qui, je le rappelle, est datée du 2 juillet 2003, donc après sa rencontre en avril 2002 avec messieurs LeBlanc et Heppell;
+iii) des documents (pièces A‑10 à A‑13) démontrant que monsieur Pronovost avait encaissé des chèques totalisant la somme de 430 000 $ tirés sur le compte en banque de Fiducie de placements RL pendant la période allant du 1er juillet 2003 au 9 août 2006, donc après le début de la vérification de l’appelant par monsieur LeBlanc.
+[11] L’avocat de l’appelant soutient que l’appelant s’était acquitté de l’obligation qui lui incombait de démontrer selon la prépondérance des probabilités que monsieur Pronovost lui avait consenti des prêts totalisant 500 000 $. L’avocat de l’appelant prétend à cet égard que le témoignage de son client était crédible, d’autant plus que ce témoignage fut appuyé par les témoignages tout aussi crédibles de la conjointe de l’appelant et de monsieur Pronovost et par une preuve documentaire (pièces A‑4, A‑8, A‑11, A‑12 et A‑13) qui démontrait clairement l’existence des prêts et leur remboursement. L’avocat de l’appelant ajoute que ces témoignages n’ont pas été contredits par d’autres témoignages ou par une autre preuve documentaire.
+[12] L’appréciation de la crédibilité de l’appelant et de monsieur Pronovost a joué un rôle important dans ma décision, compte tenu de la quasi-absence de preuve documentaire ou objective quant à l’utilisation par l’appelant des 500 000 $ en argent comptant et quant à l’origine des 500 000 $ en argent comptant qu’aurait détenus monsieur Pronovost. Je tiens à souligner que j’ai accordé peu de valeur probante aux témoignages de l’appelant, de sa conjointe et de monsieur Pronovost. À cet égard, je souligne immédiatement que les tribunaux ne sont pas tenus de croire les témoins, même s’ils ne sont pas contredits. Leur version peut être invraisemblable par suite de circonstances révélées par la preuve ou par suite des règles du bon sens.
+[13] Outre l'invraisemblance de l’histoire de l’appelant, je note que les explications données par ce dernier lors de son témoignage quant à l’utilisation des 500 000 $ en argent comptant que lui aurait prêtés monsieur Pronovost contredisaient la réponse donnée sur ce point lors de son interrogatoire préalable. Je rappelle que lors de cet interrogatoire, l’appelant a répondu que les 500 000 $ avaient été investis « en gros sur des rénovations apportées à des immeubles ». Par ailleurs, je rappelle que l’appelant a témoigné que les 500 000 $ en argent comptant avaient été utilisés pour renflouer sa marge de crédit, qui avait été utilisée pour acheter des immeubles et les rénover. Je rappelle enfin que l’expert de l’appelant a démontré très clairement que l’argent provenant des prêts consentis par monsieur Pronovost n’avait pas été utilisé pour rénover des immeubles et qu’une partie seulement de cet argent aurait pu être utilisée pour faire des mises de fonds lors de l’achat d’immeubles. Je note aussi que l’appelant n’a soumis aucune preuve documentaire démontrant qu’il avait fait plusieurs dépôts en argent comptant (variant entre 4 000 $ à 5 000 $) pour ramener sa marge de crédit à zéro. J’en infère que cette preuve lui aurait été défavorable.
+[14] Outre l'invraisemblance de l’histoire de monsieur Pronovost, je note que ses réponses étaient généralement évasives, imprécises, ambiguës, élusives, équivoques, inintelligibles et laborieuses. Le temps qu’il mettait pour répondre aux questions, ses hésitations, sa mine et ses fréquents trous de mémoire n’ont qu’ajouté à mes doutes sur sa crédibilité. Certes, le fait que les événements soient survenus il y a plusieurs années peut expliquer certaines imprécisions ou certains trous de mémoire, mais de là à ne pas pouvoir préciser à messieurs Heppell et LeBlanc les montants des prêts qu’il aurait consentis à l’appelant, il y a une marge. Il aurait pu à l’occasion étayer ses assertions et établir ainsi sa crédibilité grâce à une preuve adéquate et sérieuse notamment à l’égard de la valeur de son patrimoine, qui aurait été de quatre millions de dollars à l’époque où il aurait consenti les prêts, et à l’égard des avances qui lui auraient été remboursées par sa société, avances qui, je le rappelle, auraient été utilisées pour consentir une partie des prêts à l’appelant.
+[15] De toute façon, je suis d’avis que toute l’histoire racontée par l’appelant, sa conjointe et monsieur Pronovost relativement aux prêts est invraisemblable. Je suis aussi d’avis que le billet et la demande de remboursement des prêts ont été rédigés et signés après le début de la vérification et ce, dans le but de masquer la vérité. Je suis aussi d’avis que le paiement d’une somme de 430 000 $ visait le même objectif.
+[16] À cet égard, l’histoire de monsieur Pronovost au sujet du sauvetage de son fils Patrice, alors âgé de 16 ans, m’a paru tout simplement invraisemblable et peu crédible. D’abord, son témoignage à l’égard des circonstances qui expliqueraient la chute de son fils dans la rivière Richelieu m’a laissé pour le moins perplexe. J’ai eu aussi beaucoup de difficulté à m’imaginer qu’un adolescent de 16 ans dont la fragilité serait causée uniquement par des allergies pouvait être sur le point de se noyer alors que le moteur de l’embarcation dont il serait tombé n’était pas en marche. Cette histoire m’a semblé d’autant plus invraisemblable que monsieur Pronovost a expliqué qu’il n’avait pas encore informé sa conjointe du geste héroïque posé par l’appelant à l’égard de leur fils qui, je le rappelle, est décédé en 1997, histoire qu'il n’a pas racontée car, prétend‑il, il avait peur que son épouse lui reproche d’avoir été négligent lors de l’incident.
+[17] Il m’apparaît tout aussi invraisemblable que monsieur Pronovost ait consenti, sur une période d’environ trois ans, une série de prêts en argent comptant qui totalisaient, selon lui et l’appelant, la modique somme de 500 000 $ le 12 juin 1996. Je ne peux concevoir qu’un homme d’affaires aussi expérimenté et avisé que monsieur Pronovost ait consenti une telle série de prêts, qui, je le rappelle, ne portaient pas intérêt et qui étaient remboursables à partir du 12 juin 2001, et ce, à condition que l’appelant achète d’abord des immeubles et tire par la suite des profits de leur exploitation ou de leur disposition. Il est encore plus difficile de se convaincre que de tels prêts ont été consentis avant même qu’un seul immeuble n’ait été acheté. Le fait que l’appelant ait sauvé la vie de Patrice pourrait expliquer une certaine reconnaissance de la part de monsieur Pronovost envers l’appelant, mais de là à lui consentir des prêts qui seraient plutôt de la nature de dons, il y a une marge. Monsieur Pronovost a tenté de me faire croire qu’il avait rédigé lui-même le billet en ces termes parce qu’il n’avait pas la formation ni l’éducation pour comprendre que le billet comportait peu de protection. Il a même eu l’audace de prétendre que c’était messieurs Heppell et LeBlanc qui lui avaient fait prendre conscience que le billet comportait peu de protection. Encore une fois, il m’apparaît tout aussi invraisemblable qu’un homme d’affaires aussi expérimenté et dont les affaires étaient alors couronnées de succès ne soit pas rendu compte lui‑même que ce billet offrait peu de protection. À mon avis, n’importe quel individu le moindrement sensé aurait pu se rendre compte lui‑même que de tels prêts étaient plutôt de la nature de dons. Si monsieur Pronovost était, comme il a prétendu l’être, à ce point inconscient et ignare, je me demande alors pourquoi il n’a pas tout au moins eu le réflexe de consulter ses conseillers juridiques ou comptables, qu’il consultait de façon régulière au cours de ses affaires, avant de rédiger le billet.
+[18] Comment expliquer que monsieur Pronovost n’ait mis personne au courant, pas même sa conjointe ou ses conseillers, qu’il avait consenti à l’appelant de tels prêts en argent comptant et qu’il n’ait pas indiqué à qui que ce soit l’endroit où il conservait le billet?
+[19] Autre point troublant qui s’ajoute à la longue liste des invraisemblances dans cette affaire : le 12 juin 1996, monsieur Pronovost rédige le billet de sa main. La conjointe de l’appelant fait alors une photocopie du billet. Elle remet prétendument par erreur à monsieur Pronovost la photocopie du billet et conserve l'original. Monsieur Pronovost ne se rend pas compte de l’erreur commise par la conjointe de l’appelant parce qu’il ne porte pas vraiment attention au document qui lui est remis, d’autant plus que, selon lui, « on ne peut différencier si c’est une copie ou l’original à moins d’être un expert ». Il a même eu l’audace de prétendre que le fait de ne pas détenir l’original d’une reconnaissance de dette n’avait pas alors vraiment d’importance à ces yeux. Je me demande encore comment un homme d’affaires aussi inconscient a pu réussir.
+[20] Mon examen de la preuve m’amène à conclure qu’il est plus probable qu’improbable que ces prêts n’ont jamais existé et que le billet (pièce A‑4), la demande de remboursement (pièce A‑8) et les chèques tirés à l’ordre de monsieur Pronovost ne sont que des trompe-l’œil visant à masquer la vérité. Il est ainsi difficile d’en arriver à une conclusion autre que celle que l’appelant a délibérément omis de déclarer des revenus de l’ordre de 516 000 $. À mon avis, le ministre s’est acquitté dans les présentes de son fardeau de la preuve et ainsi était en droit d’imposer les pénalités prévues au paragraphe 163(2) de la Loi sur les revenus non déclarés par l’appelant. Puisque le fardeau de la preuve imposé au ministre en vertu du paragraphe 163(2) de la Loi est moindre que celui qui lui est imposé en vertu du paragraphe 152(4), je suis aussi d’avis que le ministre était en droit d’établir de nouvelles cotisations. Enfin, je souligne que le ministre n’a pas, à mon avis, à identifier la source des revenus non déclarés de l’appelant lorsque ceux-ci sont établis par la méthode de l’avoir net.
+[21] Pour ces motifs, les appels des cotisations établies en vertu de la Loi pour les années d'imposition 1997, 1998, 1999 et 2000 sont accueillis et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations en tenant compte du fait que le revenu de l'appelant doit être réduit de 11 851 $ pour l'année d'imposition 1997 et de 31 624 $ pour l'année d'imposition 1998. Les dépens sont adjugés à l'intimée.
+Signé à Ottawa, Canada, ce 14e jour de juin 2007.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE : 2007CCI558
+Nº DU DOSSIER DE LA COUR : 2004-757(IT)G
+INTITULÉ DE LA CAUSE : RÉGENT LACROIX ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATES DE L’AUDIENCE : les 28 et 29 septembre 2006 et le 26 février 2007
+MOTIFS DU JUGEMENT PAR : L'honorable juge Paul Bédard
+DATE DU JUGEMENT : le 14 juin 2007
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Philip Nolan
+Avocat de l'intimée :
+Me Simon-Nicolas Crépin
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom : Me Philip Nolan
+Cabinet : Lavery, De Billy
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

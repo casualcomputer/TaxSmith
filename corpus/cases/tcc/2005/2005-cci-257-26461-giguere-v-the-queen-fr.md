@@ -1,0 +1,239 @@
+---
+title: "Giguere v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26461/index.do"
+last_modified: "2005-04-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 257"
+citation2: ""
+neutral_citation: "2005 CCI 257"
+decision_date: "2005-04-19"
+language: "fr"
+item_id: "26461"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3145
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:59:55.194000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "370253ed534e957c6a65401c36ef4566b8731496ddb964489448a7dc12fc216c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Giguere v. The Queen
+
+- Citation: 2005 CCI 257
+- Decision date: 2005-04-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3145, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Giguere v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-04-19
+Référence neutre
+2005 CCI 257
+Numéro de dossier
+1999-724(IT)G
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 1999-724(IT)G
+ENTRE :
+WILLIAM GIGUERE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus sur preuve commune avec les appels de
+Clara Giguere (1999-725(IT)G) et (1999-4628(IT)G)
+les 21 et 22 mars 2005 à Sudbury (Ontario)
+Devant : L'honorable juge G. Sheridan
+Comparutions :
+Avocate de l'appelant :
+Me Susan M. Hare
+Avocate de l'intimée :
+Me Sandra Phillips
+JUGEMENT
+Les appels interjetés contre les nouvelles cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1994, 1995 et 1996 sont rejetés, avec dépens en faveur de l'intimée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 19e jour d'avril 2005.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme ce 20e jour d'avril 2006.
+Mario Lagacé, jurilinguiste
+Dossiers : 1999-725(IT)G
+1999-4628(IT)G
+ENTRE :
+CLARA GIGUERE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus sur preuve commune avec les appels de
+William Giguere(1999-724(IT)G)
+les 21 et 22 mars 2005 à Sudbury (Ontario)
+Devant : L'honorable juge G. Sheridan
+Comparutions :
+Avocate de l'appelante :
+Me Susan M. Hare
+Avocate de l'intimée :
+Me Sandra Phillips
+JUGEMENT
+Les appels interjetés contre les nouvelles cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1994, 1995, 1996 et 1998 sont rejetés, avec dépens en faveur de l'intimée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 19e jour d'avril 2005.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme ce 20e jour d'avril 2006.
+Mario Lagacé, jurilinguiste
+Référence : 2005CCI257
+Date : 20050419
+Dossier : 1999-724(IT)G
+ENTRE :
+WILLIAM GIGUERE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossiers : 1999-725(IT)G
+1999-4628(IT)G
+ET ENTRE :
+CLARA GIGUERE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] Les appelants, Clara Giguere (représentée par son tuteur à l'instance, David Giguere) et William Giguere, interjettent appel contre les nouvelles cotisations établies en vertu de la Loi de l'impôt sur le revenu par le ministre du Revenu national pour les années d'imposition 1994, 1995, 1996 et, dans le cas de Clara Giguere seulement, pour 1998. Les appelants, exploitant des entreprises individuelles, effectuent le transport de billes de bois et de bois à pâte dans le Nord de l'Ontario. Le ministre a établi une nouvelle cotisation à l'égard du revenu d'entreprise des appelants en se basant sur le fait que, vu que les activités commerciales n'avaient pas eu lieu « sur une réserve » , le revenu tiré de ces activités n'était pas exonéré d'impôt selon l'alinéa 87(1)b) de la Loi sur les Indiens. Les appels ont été entendus sur preuve commune à Sudbury (Ontario).
+[2] Dans leurs avis d'appel modifiés, les appelants ont établi les questions en litige suivantes :
+[Traduction]
+23. Le revenu tiré d'une entreprise appartenant à des Indiens dont le siège social est situé dans une réserve indienne et qui fait principalement affaire avec une entreprise située à l'extérieur de la réserve, mais dont les produits sont enlevés des terres de la Couronne, est-il exonéré d'impôt?
+24. Est-ce que la façon dont les Indiens conçoivent leur droit d'utiliser les ressources au moment des négociations relatives au traité Robinson-Huronconcorde avec l'utilisation actuelle de ces ressources sur les terres de la Couronne dans la région visée par le traité Robinson-Huron?
+25. Est-ce que cette conception fait en sorte que les terres de la Couronne où les appelants travaillent sont « comme une réserve » pour l'application d'une exonération selon l'article 87 de la Loi sur les Indiens?
+[3] Malgré le langage utilisé dans les questions mentionnées ci-dessus, les parties conviennent que les appelants ne s'appuyaient pas sur les droits issus de traités ou sur les droits ancestraux pour contester les nouvelles cotisations établies par le ministre. Donc, si la question est envisagée du point de vue des dispositions pertinentes de la Loi sur les Indiens et de la Loi de l'impôt sur le revenu régissant l'obligation fiscale des appelants, la seule question en litige est de savoir si le revenu des appelants tiré de leurs entreprises de camionnage constituait « les biens meubles d'un Indien [...] situés sur une réserve » au sens de l'alinéa 87(1)b) de la Loi sur les Indiens et de l'alinéa 81(1)a) de la Loi de l'impôt sur le revenu :
+[4] Voici le libellé de l'alinéa 87(1)b) de la Loi sur les Indiens :
+Biens exempts de taxation
+87.(1) Nonobstant toute autre loi fédérale ou provinciale, mais sous réserve de l'article 83, les biens suivants sont exemptés de taxation :
+[...]
+b) les biens meubles d'un Indien ou d'une bande situés sur une réserve.
+[...]
+[5] Et voici le libellé de l'alinéa 81(1)a) de la Loi de l'impôt sur le revenu :
+Sommes à exclure du calcul du revenu
+81.(1) Ne sont pas inclus dans le calcul du revenu d'un contribuable pour une année d'imposition :
+Exemptions prévues par une autre loi
+a) une somme exonérée de l'impôt sur le revenu par toute autre loi fédérale, autre qu'un montant reçu ou à recevoir par un particulier qui est exonéré en vertu d'une disposition d'une convention ou d'un accord fiscal conclu avec un autre pays et qui a force de loi au Canada;
+[...]
+[6] La position initiale des appelants est qu'en raison de ce qu'ils décrivent comme les antécédents d'exploitation forestière de leur famille sur les terres de la Couronne à partir desquelles ils transportaient des billes de bois entre 1994 et 1998, les terres de la Couronne sont (selon les appelants) « comme une réserve » et sont donc visées par l'expression « sur une réserve » que renferme l'alinéa 87(1)b) de la Loi sur les Indiens. Pour appuyer cet argument, David Giguere et William Giguere ont raconté dans leur témoignage ce qu'ils connaissaient des antécédents de la participation de leur famille à l'industrie forestière sur les terres de la Couronne. Ils ont témoigné que, depuis 1827, la famille Giguere vit sur les terres visées par le traité Robinson-Huron dans le Nord de l'Ontario, où elle participe aux activités de l'industrie forestière. Au début, ils travaillaient comme draveurs et ils amenaient les billes de bois jusqu'aux usines en leur faisant descendre la rivière.
+[7] Pendant les années 1930, la famille a perdu le statut d'Indiens inscrits lorsque Joseph Giguere, le grand-père de l'appelant William Giguere, a dû quitter la réserve de Thessalon pour trouver du travail. C'est son fils, Norman Giguere, l'époux de Clara Giguere, qui a établi l'entreprise actuelle de transport par camion en 1973, laquelle entreprise était exploitée sous le nom de Norman Giguere Trucking. La compagnie Norman Giguere Trucking, établie à l'extérieur de la réserve de Thessalon au début, s'est installée en octobre 1992 sur un lot situé dans la réserve de Thessalon. L'adresse professionnelle de la compagnie Norman Giguere Trucking est devenue la réserve de Thessalon, et les appelants ont entrepris de construire un bureau et un garage et ont fait installer des réservoirs à carburant. Les livres et registres des entreprises étaient tenus dans le bureau, et les camions utilisés dans le cadre des activités des entreprises étaient stationnés, entretenus et ravitaillés en carburant dans la réserve. Même si, à ce moment-là, les membres de la famille Giguere avaient retrouvé le statut d'Indiens inscrits, ils vivaient toujours à l'extérieur de la réserve sur une terre agricole adjacente à la réserve, une terre qui appartenait à Clara Giguere.
+[8] En septembre 1993, Norman Giguere est décédé et Clara Giguere a pris le contrôle de la compagnie Norman Giguere Trucking en faisant affaire sous la dénomination Clara Giguere Trucking. Pendant toute la période visée par ces appels, les compagnies Clara Giguere Trucking et William Giguere Trucking étaient exploitées en tant qu'entreprises individuelles effectuant le transport par camion de billes de bois et de bois à pâte provenant des terres de la Couronne s'étendant au nord de la réserve de Thessalon, jusqu'aux usines situées à Sault Ste. Marie, à Espanola et à Thessalon. Jusqu'en 1998, où sa maladie a empêché Clara Giguere de continuer d'exploiter la compagnie Clara Giguere Trucking, l'entreprise a été gérée par le fils aîné de Clara, David Giguere. Pendant les années d'imposition en question, la compagnie Clara Giguere Trucking avait jusqu'à sept camions et employait environ huit personnes, dont certaines étaient des Indiens inscrits et d'autres des Indiens non inscrits. En tant que dirigeant de l'entreprise, David Giguere parcourait la courte distance entre sa résidence située à l'extérieur de la réserve sur la ferme de la famille Giguere et la réserve de Thessalon pour exercer ses fonctions au bureau; il y passait trois jours par semaine pour organiser les itinéraires des camions et les horaires des conducteurs, commander des pièces au besoin et faire du travail administratif. En 1997, David Giguere et Clara Giguere ont quitté la ferme familiale pour s'installer sur un lot situé dans la réserve de Thessalon, à seulement deux portes du bureau et du garage de la famille Giguere.
+[9] L'entreprise individuelle William Giguere Trucking n'avait pas d'employés ni d'autres camions; l'entreprise était exploitée exclusivement par William Giguere, qui conduisait son propre camion. Jusqu'en octobre 1995, année où William et sa famille sont allés habiter dans la Première nation de Thessalon, William Giguere parcourait 10 milles chaque jour entre sa résidence à Little Rapids et la réserve de Thessalon pour aller chercher son camion dans le garage de la famille Giguere. Après avoir transporté les billes de bois des terres de la Couronne aux usines, il retournait le véhicule à la réserve chaque soir. L'épouse de William s'occupait de la tenue des livres de l'entreprise et, pendant cette période, elle devait passer quelques heures au bureau de la famille Giguere un jour par semaine. Après le déménagement, elle effectuait la tenue des livres dans un bureau à domicile, dans la réserve.
+[10] Les frères Giguere ont également témoigné que les limites initiales de la réserve comportaient une bien plus grande région que les limites actuelles. Ils ont présenté en preuve une carte[1] montrant le territoire actuel de la réserve, dont la superficie est d'environ 2 milles sur 2 milles, et le territoire antérieur, dont la superficie était de 10 milles sur 10 milles.
+[11] La réponse de la Couronne à l'interprétation libérale par les appelants de l'expression « sur une réserve » est que la Cour est liée par le sens donné à cette expression par la Cour suprême du Canada dans l'arrêt R. c. Lewis[2]. Sous la rubrique « Les principes généraux d'interprétation des textes de loi concernant les Indiens » , le juge Iacobucci a mentionné ce qui suit, au nom de toute la Cour, à la page 955 :
+L'expression « on the reserve » qui figure dans la Loi sur les Indiens devrait être interprétée de la même façon partout ou elle y est utilisée. Ce principe est conforme au point de vue exprimé par notre Cour dans l'arrêt Thomson c. Canada (Sous-ministre de l'Agriculture), [1992] 1 R.C.S. 385. Dans cet arrêt, le juge Cory a déclaré, à la p. 400, qu' « à moins que le contexte ne s'y oppose clairement, un mot doit recevoir la même interprétation et avoir le même sens tout au long d'un texte législatif » .
+Après avoir cité l'alinéa 87(1)b) de la Loi sur les Indiens, le juge Iacobucci a présenté la conclusion suivante à la page 958 :
+L'analyse contextuelle et l'examen du texte français m'amènent donc à conclure que les mots « on the reserve » ne peuvent vouloir dire au-delà des limites concrètes d'une réserve donnée.
+[12] Étant donné ce qui est énoncé ci-dessus, il n'appartient pas à la Cour d'élargir le sens de l'expression « sur une réserve » de façon à inclure des terres de la Couronne qui sont situées à environ 60 milles au nord de la réserve de Thessalon, que ce soit en fonction des limites actuelles ou des limites antérieures de la réserve. Je ne vois pas non plus comment les antécédents d'exploitation forestière de la famille Giguere, sous une forme ou une autre, sur les terres de la Couronne, même s'ils sont acceptés comme un fait établi, pouvaient faire en sorte que ces terres soient converties en l'équivalent de « sur une réserve » au sens de l'alinéa 87(1)b) de la Loi sur les Indiens. Par conséquent, le premier argument des appelants doit être rejeté.
+[13] Malgré les aspects hors réserve de l'entreprise des appelants, il reste cependant à savoir si les revenus générés par l'entreprise peuvent quand même être considérés comme « les biens meubles d'un Indien [...] situés sur une réserve » . Pour trancher la question, la Cour doit tenir compte de la décision de la Cour suprême du Canada dans l'arrêt Williams c. Canada[3]. Dans l'arrêt Williams, la Cour suprême a établi des critères pour remplacer le critère qui avait d'abord été utilisé dans l'arrêt Nowegijick c. La Reine[4] et qui était axé sur la résidence du débiteur. À la page 892, le juge Gonthier, au nom de toute la Cour, a expliqué ce qu'on appelle maintenant l'analyse des « facteurs de rattachement » :
+La méthode qui tient le mieux compte de ces préoccupations est celle qui analyse la situation sous le rapport des catégories de biens et des types d'imposition. Par exemple, la pertinence des facteurs de rattachement peut varier selon qu'il s'agit de prestations d'assurance-chômage, de revenu d'emploi ou de prestations de pension. Il faut d'abord identifier les divers facteurs de rattachement qui peuvent être pertinents. On doit ensuite analyser ces facteurs pour déterminer le poids à leur accorder afin d'identifier l'emplacement du bien, en tenant compte de trois choses : (1) l'objet de l'exemption prévue dans la Loi sur les Indiens, (2) le genre de bien en cause et (3) la nature de l'imposition de ce bien. Il s'agit donc de déterminer, relativement à chaque facteur de rattachement, le poids qui devrait lui être accordé pour décider si l'imposition en cause de ce type de bien représenterait une atteinte aux droits de l'Indien à titre d'Indien sur une réserve.
+[14] En 1998, la Cour d'appel fédérale a utilisé dans l'arrêt Southwind v. Canada[5] la méthode énoncée dans l'arrêt Williams. Le juge Linden a confirmé la décision du juge de la Cour canadienne de l'impôt selon laquelle le revenu d'entreprise de l'appelant M. Southwind, un Indien résidant dans une réserve mais travaillant à l'extérieur de la réserve pour couper du bois d'oeuvre pendant environ 40 semaines par année, n'était pas un bien situé « sur une réserve » au sens de l'alinéa 87(1)b) de la Loi sur les Indiens.
+[15] Pour en arriver à cette conclusion, le juge a tenu compte des facteurs de rattachement suivants : « [...] (1) la résidence du débiteur, Morrell Logging, située à l'extérieur de la réserve; (2) la résidence de l'appelant située sur la réserve; (3) le lieu de paiement du revenu de l'appelant qui [...] était l'endroit où se trouvait la banque utilisée par Morrell Logging; (4) les endroits situés à l'extérieur de la réserve où se déroulait le "processus générateur de revenu" de l'appelant[6] » . Puis, le juge Linden a continué en indiquant qu'il préférait l' « ensemble plus complexe de facteurs » de la Couronne :
+(1) le lieu où se déroulaient les activités de l'entreprise;
+(2) le lieu où se situaient les clients (débiteurs) de l'entreprise;
+(3) le lieu où sont prises les décisions touchant l'entreprise;
+(4) le type d'entreprise et la nature du travail;
+(5) le lieu du paiement;
+(6) la mesure dans laquelle l'entreprise participait au commerce général;
+(7) le lieu de l'établissement stable de l'entreprise et le lieu où étaient conservés les livres et registres;
+(8) la résidence du propriétaire de l'entreprise.
+[16] Les faits de l'affaire Southwind ressemblent beaucoup à la situation des appelants. La différence fondamentale entre les deux est que, contrairement à M. Southwind, les appelants, après avoir exercé leurs activités commerciales à l'extérieur de la réserve, retournaient tous les jours aux locaux de l'entreprise situés dans la réserve. Les facteurs de l'affaire Southwind sont donc utiles pour analyser s'il y a, compte tenu des faits de l'espèce, un lien entre les activités commerciales menées certes par les appelants à l'extérieur de la réserve et la réserve de Thessalon de sorte que leur revenu d'entreprise soit exonéré d'impôt selon l'article 87.
+(1) le lieu où se déroulaient les activités de l'entreprise;
+[17] Depuis 1992, l'adresse professionnelle des compagnies Clara Giguere Trucking et William Giguere Trucking est la réserve de Thessalon. Toutefois, David Giguere a témoigné que [TRADUCTION] « la majeure partie du travail [de la compagnie Clara Giguere Trucking] était effectué à l'extérieur de la réserve » . Dans son témoignage principal, William Giguere a indiqué que le [TRADUCTION] « transport par camion était effectué à l'extérieur de la réserve sur les terres de la Couronne » et, par après, il a dit que [TRADUCTION] « la majorité des activités [de la compagnie William Giguere Trucking] étaient exercées sur les terres de la Couronne » . Même dans leurs avis d'appel modifiés, les appelants se décrivent comme [TRADUCTION] « [...] une entreprise appartenant à des Indiens [...] qui fait principalement affaire avec une entreprise située à l'extérieur de la réserve [...][7] » . Les activités commerciales effectuées dans la réserve se limitaient à fournir un stationnement pour les camions quand ils n'étaient pas utilisés et un endroit pour réparer les camions et les ravitailler en carburant selon les besoins. Et, comme dans l'affaire Southwind, les livres et registres de l'entreprise des appelants étaient tenus au bureau d'affaires situé dans la réserve. Dans le cas de la compagnie Clara Giguere Trucking, cela signifiait que David Giguere devait être présent au bureau de cinq à six heures par jour, trois jours par semaine; et, pour ce qui est de la compagnie William Giguere Trucking, l'épouse de William Giguere consacrait, en moyenne, trois à quatre heures, un jour par semaine, au bureau d'affaires et plus tard dans le bureau à domicile situé dans la réserve de Thessalon. Je suis d'avis que cet aspect de l'entreprise des Giguere était simplement accessoire aux activités commerciales principales des appelants menées à l'extérieur de la réserve. Par conséquent, je suis convaincue que les activités commerciales de la compagnie Clara Giguere Trucking et de la compagnie William Giguere Trucking ont eu lieu à l'extérieur de la réserve de Thessalon.
+(2) le lieu où se situaient les clients (débiteurs) de l'entreprise;
+[18] Entre 1994 et 1998, les appelants n'avaient vraiment qu'un seul client, Meakin Forest. William Giguere a indiqué dans son témoignage qu'il [TRADUCTION] « transporte principalement pour l'entreprise Meakin Forest, soit 99 % [du temps] » . Selon le témoignage de David Giguere, l'entreprise Meakin Forest est une compagnie forestière, [TRADUCTION] « pas une entreprise exploitée dans une réserve » , dont le siège social est situé à Sault Ste. Marie et qui coupe du bois d'oeuvre sur les terres de la Couronne au nord de la réserve de Thessalon, bois qui est traité dans les usines situées à Sault Ste. Marie, à Espanola et à Thessalon. Il ne fait aucun doute que l'entreprise Meakin Forest, le client des compagnies Clara Giguere Trucking et William Giguere Trucking, n'était pas situé dans la réserve de Thessalon.
+(3) le lieu où sont prises les décisions touchant l'entreprise;
+[19] À cause de la nature du travail des compagnies Clara Giguere Trucking et William Giguere Trucking, les décisions touchant l'entreprise devaient être prises en des lieux de travail situés à l'extérieur de la réserve, ainsi qu'au bureau et au garage de la famille Giguere, qui sont situés dans la réserve de Thessalon. Dans le cadre de la prestation de services pour l'entreprise Meakin Forest sur les terres de la Couronne et de la livraison des billes de bois aux destinations déterminées, les décisions étaient prises ailleurs que dans la réserve. Du point de vue administratif, David Giguere a témoigné qu'en tant que dirigeant, il prenait aussi des décisions dans la réserve, au bureau de la famille Giguere, concernant l'itinéraire des camions et l'horaire des conducteurs, la commande de pièces et ainsi de suite. La proportion des [TRADUCTION] « décisions touchant l'entreprise » prises à l'extérieur de la réserve et dans la réserve correspondait à la proportion des activités commerciales principales et des activités commerciales accessoires exécutées par rapport à l'ensemble des activités commerciales; il s'ensuit que la prise de décisions touchant l'entreprise avait lieu principalement à l'extérieur de la réserve.
+(4) le type d'entreprise et la nature du travail;
+[20] Le genre d'entreprise que les appelants exploitaient et la nature de leur travail faisait en sorte qu'ils devaient exécuter leurs activités commerciales principales dans des endroits situés à l'extérieur de la réserve, c.-à-d. que les billes de bois qui étaient ramassées pour leur client, l'entreprise Meakin Forest, étaient situées sur les terres de la Couronne et que les endroits où ces billes de bois étaient livrées pour l'entreprise Meakin Forest n'étaient pas situés sur les terres de la réserve. Seules les fonctions administratives et les fonctions d'entretien accessoires étaient exercées dans la réserve de Thessalon.
+(5) le lieu du paiement;
+[21] Il y a peu d'éléments de preuve à ce sujet si ce n'est le fait que l'entreprise Meakin Forest a payé les appelants pour les services qu'ils ont fournis au moyen de chèques d'entreprise remis toutes les deux semaines en fonction du nombre de chargements transportés. Par conséquent, je n'accorde aucune importance à ce facteur, que ce soit pour ou contre la position de l'appelant.
+(6) la mesure dans laquelle l'entreprise participait au commerce général;
+[22] À titre d'observation préliminaire, je ressens aussi le malaise dont l'avocate des appelants et l'avocate de la Couronne ont fait part concernant l'expression « marché ordinaire » , laquelle semble laisser supposer que les entreprises exploitées par des Indiens se situent par définition à l'extérieur du « marché ordinaire » du Canada. J'ai cherché à obtenir des éclaircissements concernant l'interprétation appropriée de cette expression et j'ai trouvé ce que je cherchais dans l'arrêt Recalma v. Canada[8], où le juge Linden a indiqué ce qui suit à la page 406 :
+[...] le concept « du marché ordinaire » n'est pas un critère ayant pour but de déterminer si les biens sont situés dans une réserve; il s'agit simplement d'un élément qui aide à l'évaluation des divers facteurs à l'étude. Ce n'est absolument pas un critère déterminant. L'exercice de raisonnement primordial est de décider, en tenant compte de l'ensemble des facteurs de rattachement et en gardant à l'esprit l'objet de l'article, de l'endroit où sont situés les biens, c'est-à-dire si le revenu gagné fait « partie intégrante de la vie de la réserve » , s'il est « étroitement lié » à cette vie, et s'il devrait être protégé pour empêcher de porter atteinte aux biens détenus par les Indiens en tant qu'Indiens.
+[23] En l'espèce, l'activité commerciale principale comportait la cueillette de billes de bois provenant de terres situées à l'extérieur de la réserve et le transport de ces billes pour un client situé à l'extérieur de la réserve, et ce, entre des endroits qui eux aussi n'étaient pas situés sur les terres de la réserve. Avec de tels faits, je ne peux pas conclure que le revenu gagné par les compagnies Clara Giguere Trucking et William Giguere Trucking faisait « partie intégrante de la vie de la réserve » ou était « étroitement lié » à cette vie. Aucune preuve n'appuie l'argument de l'avocate des appelants selon lequel le fait d'imposer le revenu des Giguere provenant du transport de billes de bois des terres de la Couronne jusqu'à Sault Ste. Marie, à Espanola et à Thessalon revient à porter « atteinte aux droits de l'Indien à titre d'Indien sur une réserve[9] » .
+(7) le lieu de l'établissement stable de l'entreprise et le lieu où étaient conservés les livres et registres;
+[24] Le bureau d'affaires et le garage des compagnies Clara Giguere Trucking et William Giguere Trucking étaient situés dans la réserve de Thessalon pendant toute la période pertinente. Cependant, pour les motifs énoncés ci-dessus, cela ne suffit pas. Le fait que les activités commerciales principales étaient exécutées à l'extérieur de la réserve est plus important.
+(8) la résidence du propriétaire de l'entreprise.
+[25] William Giguere est devenu résident de la réserve de Thessalon en octobre 1995, et Clara Giguere et David Giguere, en 1997. Donc, pendant une partie de la période visée, qui est de 1994 à 1998, les appelants ne résidaient pas dans la réserve. Il ne s'agit pas là d'un élément particulièrement important, car, même si les appelants avaient vécu dans la réserve de Thessalon pendant la totalité de la période visée, cet élément n'aurait pas eu plus de poids que les autres facteurs qui montrent l'absence d'un lien entre les entreprises et la réserve.
+[26] Pour résumer, la nature des activités commerciales de William Giguere et de Clara Giguere a fait que les activités ne pouvaient être accomplies qu'à l'extérieur de la réserve, presque totalement dans un contexte où le revenu tiré de ces activités ne faisait pas « partie intégrante de la vie de la réserve » , comme il est énoncé dans l'arrêt Recalma, c'est-à-dire que leur client, l'entreprise Meakin Forest, était situé à l'extérieur de la réserve. Les décisions touchant l'entreprise étaient prises principalement à l'extérieur de la réserve. Même si l'établissement stable de l'entreprise où étaient conservés les livres et registres était situé dans la réserve de Thessalon, cet aspect de leur entreprise était seulement accessoire aux activités principales de l'entreprise qui avaient lieu à l'extérieur de la réserve. Les appelants étaient des résidents de la réserve pendant environ la moitié des années d'imposition en question.
+[27] Dans l'arrêt Recalma, le juge Linden a cité la conclusion du juge de première instance dans la décision Southwind selon laquelle « [l]orsqu'il s'agit d'un revenu d'entreprise, le facteur primordial sera l'endroit où le travail a été effectué et où se trouve la source du revenu[10] » . En l'espèce, le travail a été effectué à l'extérieur de la réserve et la source du revenu était également située à l'extérieur de la réserve, et ces facteurs militent fortement en faveur de la conclusion selon laquelle le revenu provenant des compagnies Clara Giguere Trucking et William Giguere Trucking ne constituait pas « les biens meubles d'un Indien [...] situés sur une réserve » , lesquels sont exonérés d'impôt selon l'alinéa 87(1)b) de la Loi sur les Indiens. Il ne faut pas oublier non plus que, dans tous les appels en matière d'impôt, il incombe aux appelants de prouver que les hypothèses sur lesquelles le ministre s'est fondé pour établir les nouvelles cotisations sont fausses. Je ne suis pas convaincue que les appelants se sont acquittés de ce fardeau. Par conséquent, les appels sont rejetés, avec dépens en faveur de l'intimée.
+Signé à Ottawa, Canada, ce 19e jour d'avril 2005.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme ce 20e jour d'avril 2006.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2005CCI257
+Nos DES DOSSIERS DE LA COUR :
+1999-724(IT)G; 1999-725(IT)G
+1999-4628(IT)G
+INTITULÉ DE LA CAUSE :
+William Giguere c. S.M.R.
+Clara Giguere c. S.M.R.
+LIEU DE L'AUDIENCE :
+Sudbury (Ontario)
+DATE DE L'AUDIENCE :
+Les 21 et 22 mars 2005
+MOTIFS DU JUGEMENT PAR :
+L'honorable juge G. Sheridan
+DATE DU JUGEMENT :
+Le 19 avril 2005
+COMPARUTIONS :
+Avocate des appelants :
+Me Susan M. Hare
+Avocate de l'intimée :
+Me Sandra Phillips
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour les appelants :
+Nom :
+Me Susan M. Hare
+Étude :
+West Bay First Nations
+M'Chigeeng (Ontario)
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pièce A-1
+[2] [1996] 1 R.C.S. 921
+[3] [1992] 1 R.C.S. 877
+[4] [1983] 1 R.C.S. 29
+[5] [1998] 1 C.T.C. 265
+[6] Southwind, précité, à la page 269
+[7] Avis d'appel modifié, paragraphe 23
+[8] [1998] 2 C.T.C. 403 (C.A.F.)
+[9] Williams, précité, au paragraphe 13 des motifs du jugement.
+[10] Recalma, précité, à la page 406

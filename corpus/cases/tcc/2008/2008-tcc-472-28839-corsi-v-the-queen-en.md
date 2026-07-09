@@ -1,0 +1,155 @@
+---
+title: "Corsi v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28839/index.do"
+last_modified: "2008-08-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 472"
+citation2: ""
+neutral_citation: "2008 TCC 472"
+decision_date: "2008-08-20"
+language: "en"
+item_id: "28839"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1349
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:54:33.733000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4b81e3243edfdf21128c8bd4a371505850aaa5eff09af5360b186ed5f8dce4d4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Corsi v. The Queen
+
+- Citation: 2008 TCC 472
+- Decision date: 2008-08-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1349, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Corsi v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-08-20
+Neutral citation
+2008 TCC 472
+File numbers
+2008-1374(IT)G
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-1374(IT)G
+BETWEEN:
+MARIA CORSI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on July 31st, 2008 at Toronto, Ontario.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Counsel for the Appellant:
+R. Daniel Lyons
+Counsel for the Respondent:
+Jenny P. Mboutsiadis
+____________________________________________________________________
+JUDGMENT
+UPON motion made by counsel for the Respondent to dismiss the appeal;
+AND UPON hearing submissions of both parties;
+The Respondent’s motion is granted and the appeal is dismissed.
+Signed at Ottawa, Canada, this 20th day of August 2008.
+"Patrick Boyle"
+Boyle, J.
+Citation: 2008 TCC 472
+Date: 20080820
+Docket: 2008-1374(IT)G
+BETWEEN:
+MARIA CORSI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench on July 31st, 2008, in Toronto, Ontario.)
+Boyle, J.
+[1] The Crown has brought a motion under Rule 53 to strike out the taxpayer's Notice of Appeal on the basis that it is frivolous because the taxpayer did not first file a timely objection or make a timely application to the Court for an extension of the time within which to do so.
+[2] At the hearing of the motion, the Crown asked that the motion also be considered as a Rule 58 motion on the basis that a timely objection or extension application is a condition precedent to instituting a valid appeal, which has not been met. The taxpayer's counsel did not oppose such request.
+[3] The underlying issue in Ms. Corsi's tax dispute is whether she was properly assessed under section 160 of the Income Tax Act for tax liabilities of her husband as a result of deposits made by him to their joint chequing account.
+I. Relevant facts
+[4] Based upon the affidavit evidence received today from both parties, the chronology of the assessment, objection and appeal can be summarized as follows. The CRA assessment is dated June 21st, 2004. The CRA mailed it by Priority Courier on that date to the taxpayer at her home address. This was not her authorized mailing address properly on file with CRA for tax purposes.
+[5] Canada Post returned that assessment to CRA with a stamp, indicating it was unclaimed, and a label marked, "Moved/unknown." A copy of the returned envelope was filed by CRA.
+[6] It is apparent from the envelope that someone, perhaps Canada Post, changed the postal code by hand to an incorrect postal code. The envelope is also stamped that a card was sent on June 24, a final notice on June 29 and that the mail itself was returned to the sender on July 15.
+[7] The Crown acknowledged today that, given this state of affairs, the assessment could not be considered to have been sent to the taxpayer on June 21, 2004 for purposes of subsection 152(2), nor could that be the day of mailing for purposes of beginning the 90-day period within which to file an objection under section 165.
+[8] However, from the record it appears that CRA had until now maintained the June 21, 2004 date was the day of mailing.
+[9] Surprisingly, there is no evidence that CRA did anything with the returned assessment, except keep the envelope. One would expect at a minimum that the address of a returned package should be double-checked against the sender's own records, regardless of who the sender is. Had that been done, the CRA would have realized they had in fact sent it to the wrong address and hopefully would have sent the assessment to the correct authorized mailing address they had on file. It seems entirely unacceptable that when registered mail is returned to CRA as undeliverable they do not even check they sent it to the correct address.
+[10] There was no evidence or explanation of why it was sent to the taxpayer's home address and not her authorized mailing address, nor was there an explanation of how CRA could have used the wrong address, since it is clear from the Crown's affidavit and the Exhibit "A" printout that CRA's only mailing address for her is not the address to which they mailed the assessment.
+[11] The taxpayer's materials explain that her authorized mailing address is in fact that of her accountant. Ms. Corsi did not receive the assessment; she first became aware of it when CRA's collections group started to make demands for payment.
+[12] A copy of the original assessment was then sent to Ms. Corsi's accountant at his request and with her authorization. This was in October 2005. More than one year and 90 days had elapsed since the date of the original mailing of the assessment.
+[13] In May 2007, the taxpayer applied for an extension of time to file an objection. By this time, more than one year and 90 days had elapsed since a copy of the assessment was given to the taxpayer's accountant, whose address was the taxpayer's authorized mailing address.
+[14] In July 2007, CRA turned down the taxpayer's late-filing request. This appears not to have been received by the taxpayer as her accountant followed up in November 2007 and was given a copy of CRA's negative reply to the extension application at that time.
+[15] The taxpayer's Notice of Appeal was filed in this Court in May 2008. The taxpayer's first ground of appeal was whether the assessment was ever validly issued since it was not mailed to the correct address.
+II. Applicable law
+[16] Section 152 of the Income Tax Act requires that assessments be sent to taxpayers. Section 165 provides that assessments, such as Ms. Corsi's, must be objected to within 90 days of the day of mailing of the assessment.
+[17] It is clear from the Federal Court of Appeal's 2006 decision in 236130 British Columbia Ltd. that the assessment is to be mailed to the taxpayer's authorized mailing address, not another address of the taxpayer, and that a failure to do so leads to the conclusion that the wrongly addressed assessment was not issued at all.
+[18] Section 166.1 allows a taxpayer who has not filed an objection within the 90‑day period to apply to CRA to file late provided, among other things, the application is made within a further one-year period.
+[19] Section 166.2 allows a taxpayer to appeal to this Court from the CRA's refusal to grant an extension to file an objection late provided, among other things, an application to this Court is made within 90 days and the initial application to CRA was made within the required one-year period.
+[20] Section 169 of the Income Tax Act does not authorize a taxpayer to commence an appeal of an assessment to this Court unless they have first filed an objection to that assessment with CRA.
+III. Analysis
+[21] The taxpayer instituted an appeal from the assessment with this Court. In order for the appeal to proceed as a properly instituted appeal, the Act requires that its objection procedures first be followed. On these facts, I am unable to conclude that the taxpayer validly filed an objection to the assessment as required. None was filed within 90 days of either June 2004 or October 2005, when the assessment was received by the accountant. One was not even filed within 90 days of when her new counsel received a copy in November of 2006.
+[22] If no objection is filed this Court has no jurisdiction to hear an appeal from that assessment.
+[23] Turning to the taxpayer's application to file her objection late, it was filed with CRA in May 2007. CRA turned it down in July 2007. Even if the July 2007 refusal was not received, a copy was received in November 2007.
+[24] Even if I seek to breathe life into the taxpayer's appeal by treating it as an appeal from CRA's decision not to allow a late-filed objection, I cannot, because this Court has no jurisdiction to hear such an appeal unless that is filed within 90 days of CRA's decision.
+[25] It is entirely clear that I am driven by the Act to agree with the Crown that a valid appeal has not been instituted, neither from the assessment, because no valid objection has been filed, nor from the refusal to accept the late-filed objection, because such an appeal had to be taken within 90 days of CRA's decision.
+[26] I have no choice but to grant the Crown's motion and order that the taxpayer's appeal be dismissed.
+[27] However, the facts of this case do raise the question of whether the CRA ever issued a valid assessment. Indeed, that is the first issue set out in the taxpayer's Notice of Appeal.
+[28] The further question is if a valid assessment was issued, when was it issued?
+[29] If the taxpayer wants to dispute an assessment in the Tax Court on the basis it is not a valid assessment, the Income Tax Act nonetheless requires that the impugned assessment be objected to. In this case, it was not.
+[30] It may be that Ms. Corsi can seek a remedy in respect of the assessment, on the basis it was never valid, in a different court. I will leave that to the taxpayer and her advisers.
+[31] It may also be that Ms. Corsi's remedy may be in another court, if any of her several professional advisers did not properly advise her or represent her.
+[32] In the circumstances, no order of costs will be made. The motion is granted, the appeal is dismissed.
+[33] Thank you, Ms. Mboutsiadis and Mr. Lyons, for your submissions. Thank you as well to the Registrar and Court Reporter. We are adjourned.
+Signed at Ottawa, Canada, this 20th day of August 2008.
+"Patrick Boyle"
+Boyle, J.
+CITATION: 2008 TCC 472
+COURT FILE NO.: 2008-1374(IT)G
+STYLE OF CAUSE: MARIA CORSI v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: July 31st, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT: August 20, 2008
+APPEARANCES:
+Counsel for the Appellant:
+R. Daniel Lyons
+Counsel for the Respondent:
+Jenny P. Mboutsiadis
+COUNSEL OF RECORD:
+For the Appellant:
+Name: R. Daniel R. Lyons
+Firm: Rotfleisch & Samulovitch PC
+Toronto, Ontario
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,317 @@
+Title: 371501 B.C. Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31150/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-124-31150-371501-b-c-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2013-04-24
+
+# 371501 B.C. Ltd. v. The Queen
+
+- Citation: 2013 TCC 124
+- Decision date: 2013-04-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4739, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+371501 B.C. Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-04-24
+Neutral citation
+2013 TCC 124
+File numbers
+2009-715(IT)I
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-715(IT)I
+BETWEEN:
+371501 B.C. LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+___________________________________________________________________
+Appeals heard on March 15, 2010 and
+on December 2, 2010, at Calgary, Alberta.
+Before: The Honourable Gerald J. Rip, Chief Justice
+Appearances:
+Counsel for the Appellant:
+Virginia A. Engel
+Patrick Robinson
+Counsel for the Respondent:
+Marla Teeling
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2003 and 2004 taxation years are allowed and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessments on the basis that the appellant is permitted to deduct, in computing its income for 2003 and 2004:
+a) the amount of $3,977 in computing its income for its 2003 taxation year; and
+b) the amount of $13,759 for its 2004 taxation year.
+Each party shall have 30 days from the date of this judgment to provide the Court with written submissions as to costs with respect to the appellant's application to reopen the appeals and the withdrawal of the said application.
+Signed at Ottawa, Canada, this 24th day of April 2013.
+"Gerald J. Rip"
+Rip C.J.
+Citation: 2013 TCC 124
+Date: 20130424
+Docket: 2009-715(IT)I
+BETWEEN:
+371501 B.C. LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+and
+Docket: 2009-789(IT)I
+BETWEEN:
+440214 B.C. LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Rip C.J.
+[1] As in the appeals of Dr. Mike Orth Inc. v. The Queen ("Dr. Orth"), the basic issue in the Informal Procedure appeals of 371501 B.C. Ltd. ("371" or "appellant") and 440214 B.C. Ltd. ("440") is whether purported expenses were incurred by the appellants for the purpose of earning income from a business; the expenses claimed are for professional fees rendered by a law firm. The taxation years in appeal are 2003 and 2004.
+[2] The fees for services charged to 440 in issue in its appeals are similar to the subject matters represented by fees for services invoiced to 371 and that are appealed by 371. The respondent and 440 have agreed that the appeals of 440 will follow my treatment of corresponding invoices in the 371 appeals, exclusive of Goods and Services Tax[1]. The corresponding invoices are described in paragraph 16 of these reasons.
+[3] The appeals of 371 were heard immediately after that of Dr. Orth. Much of the evidence is the same, counsel are the same, the appellant's witness, Thomas Howard Olson, is the same. Frequently in both evidence and argument reference was made to the Dr. Orth's appeals. Mr. Olson is the appellant's solicitor and principal in the law firm Olson, Lemons LLP. Indeed, the issue underlying the reason for the assessments by the Canada Revenue Agency ("CRA") is the same, that of solicitor‑client privilege. The appellant states that while it had provided officials of CRA with copies of the invoices for the legal services rendered it has refused to provide the CRA with the latter's request for detailed description of the specific legal services provided since such information is privileged. One of the major differences between the appeals at bar and those of Dr. Orth is that in these appeals I have been provided with the appellant's income tax returns, including its financial statements for the years in issue. This helped me in considering the appeals at bar.
+[4] The respondent complains that the invoices do not satisfy the requirement of subsection 230(1) of the Income Tax Act (“Act”) that every person carrying a business and is required to pay or collect taxes shall keep records and books of account in such form and containing such information as will enable taxes payable under the Act to be determined. The respondent states that the Agency cannot determine from the information on the invoices alone if the fees were deductible in computing income. The CRA requires a description of the legal services performed for the fees in issue charged. The respondent, however, does not refute the appellant’s position that it is entitled to invoke solicitor‑client privilege in the course of litigation.
+[5] Notwithstanding the appellant's rightful exercise of solicitor‑client privilege, the appellant still has the onus of proof in its appeals to demolish the Minister's assumptions leading to the assessments. In Dr. Orth, I made the following comments which apply here as well:
+[12] The Minister, when making an assessment, proceeds on assumptions of fact[2] that leads him or her to assess in a particular manner. The initial onus is on the taxpayer to "demolish" the assumptions made by the Minister in assessing[3]. The appellant’s initial burden is only to "demolish" the exact assumptions made by the Minister but no more[4].
+[13] Justice L’Heureux-Dubé explained in Hickman Motors, at paragraph 93, that:
+… this initial onus of "demolishing" the Minister’s assumptions is met where the appellant makes out at least a prima facie case."
+[14] Once the Minister’s assumptions have been "demolished" by the appellant, it is the Minister who has the onus to rebut the prima facie case presented by the appellant and prove his or her assumptions[5].
+[15] On the evidence before me I must determine if the evidence presented by the appellant is sufficient to demolish all or any of the Minister’s assumptions. Is the evidence lead by the appellant of a degree that the appellant made out a prima facie case? What is a prima facie case in an income tax appeal?
+[16] In Amiante Spec. Inc. v. The Queen,[6] at paragraph 23, Trudel J.A. quoted Cain J. in Stewart v. Canada:[7]
+A prima facie case is one "supported by evidence which raises such a degree of probability in its favour that it must be accepted if believed by the Court unless it is rebutted or the contrary is proved. It may be contrasted with conclusive evidence which excludes the possibility of the truth of any other conclusion than the one established by that evidence".
+[17] Trudel J.A. added, at paragraph: 24:
+Although it is not conclusive evidence, "the burden of proof put on the taxpayer is not to be lightly, capriciously or casually shifted", considering that "[i]t is the taxpayer’s business" (Orly Automobiles Inc. v. Canada, 2005 FCA 425 (CanLII), 2005 FCA 425, paragraph 20). This Court stated that the taxpayer "knows how and why it is run in a particular fashion rather than in some other ways. He [or she] knows and possesses information that the Minister does not. He [or she] has information within his [or her] reach and under his [or her] control" (ibid).
+[18] Recently Huddart J.A. of the British Columbia Court of Appeal considered the nature of the burden of proof incumbent upon a taxpayer in Northern Properties Corp. v. British Columbia[8]. He described, at paragraph 33, what is needed to establish a prima facie case, and how the appellant’s evidence which would otherwise establish a prima facie case can be effectively challenged by the respondent to prevent the burden from shifting:
+In response to the taxpayer's submissions, the Crown may adduce its own evidence to prove either that the assumptions are correct or to show that, even without relying on the assumptions, the assessment is nevertheless valid: Pillsbury at 5188; Pollock at 6053. The Crown may also challenge the taxpayer's evidence, either on cross-examination, or by raising serious issues of credibility. A court may draw a negative inference "from the taxpayer's failure to adduce material evidence in the taxpayer's possession or control" and conclude the taxpayer has not met its initial burden of disproving one or more of the assumptions: Trac[9] at para. 31. Once all the evidence is in, the judge must weigh it and first determine whether the taxpayer has met the initial legal burden with respect to the assumptions. If the taxpayer has failed to meet its burden, then the Crown need not go on to discharge its conditional legal burden because the precondition has not been met.
+[Emphasis added.]
+[19] Earlier, in The Queen v. Peter K.S. Wu,[10] Strayer J.A. illustrated an instance where the taxpayer’s evidence, to which the taxpayer did not lead rebuttal evidence, nevertheless failed to establish a prima facie case. In overturning a decision of the Court that a witness’ testimony despite the witness being evasive, forgetful and unimpressive, must be accepted as it was the only evidence before the Court, Justice Strayer made the following comments, at p. 6006:
+The learned judge appears not to have taken into account the onus placed on the taxpayer by the Minister's assumption that this was one of the purposes of the payment of the stock dividends to the taxpayer. In other words, the onus here was on the taxpayer to prove that this was not one of the purposes of the payment. Yet, after treating the taxpayer's evidence as unsatisfactory, … he held that as this was the only evidence he had to accept it. He should instead have considered whether the evidence met the standard of objective reasonability which was required to overcome the onus on the taxpayer …
+(Emphasis added.)
+[20] A taxpayer wishing to establish a prima facie case to demolish all or any of the Minister’s assumptions must not only present evidence of a high degree of probability that must be accepted by the Court but must allow for a fair and open cross‑examination of the evidence by Minister’s counsel. Counsel is entitled to vigorously challenge the evidence of the taxpayer by cross‑examination. A taxpayer claiming privilege in cross‑examination on matters he or she leads in examination‑in‑chief, thus limiting the cross‑examination, must consider possible consequences. In other words, a taxpayer claiming privilege who wishes to shift the onus should make sure he or she has a strong prima facie case that will survive cross‑examination.
+[21] One of the tasks before me in these appeals, then, is to determine whether the appellant while maintaining his right to solicitor-client privilege has presented evidence making a prima facie case that reverses the onus placed on the appellant by the Minister’s assumptions.
+[6] Mr. Olson explained that on notification by the CRA of an audit of a client, his standard practice is to determine what records are being sought and have the client send them to his office. The documents would then be organized "in a meaningful way" to assist the auditor. The auditor would be invited to Olson Lemons office to review the documents and where photocopy and other assistance were available. The minute books and general ledger of the client were "always" at the law office and available to the CRA. Original documents are maintained at the law firm; copies are made at CRA's request. This is standard practice in respect of all clients, those located in Calgary as well as other parts of Canada. Sometimes, if the file is not too "voluminous”, copies of the documents are sent to the CRA.
+[7] In 2003 the appellant was carrying on business of removing and disposing of industrial waste in the Cranbrook, B.C. area under the corporate name Scanland's Vacuum Tankers Ltd. In 2004, on disposing of its business, the appellant changed its corporate name and became "primarily" an investment company.
+[8] The shareholders of the appellant are James Orth and Mrs. Orth. Mr. Olson believes, "if I recall correctly", that the children were shareholders through a family trust. Mr. Olson also believed that siblings and family members owned some shares in the appellant.
+[9] The appellant's fiscal year-end is October 31.
+[10] During the course of the audit on March 9, 2007, Mr. J. Amm, an auditor with the CRA and a witness in these appeals, wrote to a Mr. B. Kearl, a lawyer at Olson Lemons, setting out his audit proposal which allowed a deduction in 2003 for professional fees of $6,640.33 for "tax compliance"[11] in 2002, year‑end preparation of financial statements and tax returns, according to Mr. Olson. For 2004, Mr. Amm proposed allowing the appellant to deduct $2,140 for accounting fees and $5,962 for "tax compliance" in respect of 2003.
+[11] Mr. Amm advised that the CRA could not allow other fees for the more general descriptions "general matters, tax advice, and legal fee accrual" suspecting they were for personal services provided to shareholders. Mr. Olson was not aware if Mr. Amm raised the question whether certain invoices were in respect of capital expenses as opposed to current expenses.
+[12] Mr. Olson denied that personal services were provided to shareholders. He said any work done for a shareholder would be billed to the shareholder. If work is done to determine how dividends are to be paid to shareholders based on the personal circumstances of shareholders it is the corporation that is billed, however.
+[13] The CRA did allow expenses claimed for the preparation of the corporation's income tax returns. The CRA disallowed "unsupported claims for professional fees" of $10,269 and $37,184 in assessing 2003 and 2004 taxation years respectively. The CRA also denied "unsupported claims for insurance expenses" of $15,982 and $9,479 in assessing 2003 and 2004 respectively. The validity of the insurance claims is not before me.
+[14] At trial, there was only one invoice in dispute for the 2003 taxation year and six invoices for the 2004 taxation year. As in Dr. Orth's appeals, all invoices are "Fee for Services" plus disbursements.
+[15] For purposes of trial the appellant included in its Book of Documents two schedules, one for 2003 and the other for 2004, prepared for trial describing the deductions claimed in each year as follows.
+2003
+Date
+Invoice #
+CRA Page No.
+Amount (exclusive of GST)
+Explanation
+Tax Return Analysis
+Document Preparation & Tax Advice
+Oct. 21-2003
+310063
+000180
+$5,962
+- share subscription
+- compensation
+- dividends
+$3,280
+$2,682
+2004
+Date
+Invoice #
+CRA Page No.
+Amount (exclusive of GST)
+Explanation
+Tax Return Analysis
+Document Preparation & Tax Advice
+Apr. 05-2004
+404064
+000188
+$13,833
+- 1/3 of invoice for sale of business
+$ 0
+$13,833
+$ 986
+Jun. 01-2004
+406037
+000189
+$ 986
+Dec.22-2003
+312032
+000185
+$ 7,893
+- compensation
+- dividends
+- new classes of shares
+- taxable income analysis resulting from sale
+$5,504
+$ 8,255
+Jan. 27-2004
+401079
+000186
+$ 4,776
+May 30-2004
+405071
+000187
+$ 1,000
+Apr. 19-2005
+504591
+$ 1,500
+(of total $5,043)
+- tax return
+- accrual
+$1,500
+$ 0
+[16] The corresponding invoices issued to 440 and 371 are described in the letter of agreement amongst the parties and referred to in paragraph 2 of these reasons as follows:
+Taxation Year
+4401214 BC
+Regarding
+371501 BC
+2003
+Invoice No. 310065
+$1,033
+$1,033
+$1,033
+$2,530
+Bonus/Compensation
+Share Subscription
+Dividends
+Legal Analysis – Tax Return
+Invoice No. 310063
+$894
+$894
+$894
+$3,280
+2004
+Invoice No. 404064
+1/3 of 41,500=$13,833
+Invoice No. 406037
+1/3 of $2,956.70=$986
+Sale of Business
+Sale of Business
+Invoice No. 404064
+1/3 of $41,500=$13,833
+Invoice No. 406037
+1/3 of $2,956.70=$986
+2004
+Invoice No. 408555
+$1,075
+$1,075
+$3,103
+Bonus/Compensation
+Dividends
+Legal Analysis – Tax Return
+Invoice No. 312032, 401079, 405071
+25% of $8,255 *
+25% of $8,255 *
+$5,504
+2004
+Invoice No. 504595
+$1,500
+Tax Returns (accrued)
+Invoice No. 504591
+$1,500
+* Invoices Nos. 312032, 401079 and 405071 also include other legal services not relevant to 440's appeal for 2004.
+[17] Much of the information described on these documents are matters of public record, stated Mr. Olson, and not subject to solicitor‑client privilege. I understand that "public record", according to Mr. Olson, includes such documents as tax returns, financial statements and the minute book. While the appellant’s tax returns were filed, the minute book was not.
+[18] The only invoice for 2003 is Invoice No. 0310063, dated October 21, 2003: fee for services and disbursements of $5,961.96. The $5,961.96 was divided between the amount of $426.82 and $3,280. The amount of $426.82 was allocated as to one‑third each to bonus and compensation, share subscription and dividends. The $3,280 was for a legal analysis of the tax return.
+[19] The "tax return analysis" in 2003, Mr. Olson explained, concerned "a report that was done up in connection with the compensation, dividends and share subscription" prepared by lawyers for either the client to pay the dividend or compensation and make proper source deductions or for the accountants to know what forms were to be completed "and any other reporting issues".
+[20] The appellant did not have a general retainer with Olson Lemons. The fee for the actual services, three in number, were fixed. However Olson, Lemons undertook a tax return analysis that "included consequences of these items as well as other issues such as association and so on".
+[21] In reply to a question by me, Mr. Olson replied that the fee in this invoice, No. 0310063 included allocation of one third each as to share subscription, compensation and dividends. Tax return analysis takes more time since it may include general tax advice, association analysis and related corporate analysis that are not part of the public record. A review of exhibits does not indicate any share subscription in 2003. I note that the shareholder information is the same in both the 2003 and 2004 tax returns. While advice on share subscriptions does not require shares to be actually subscribed, Mr. Olson did not, in my opinion, explain even in clear general terms the services rendered. He did, however, testify that his firm amended the appellant's Articles to substitute the firm's "style" of shares for those originally stated in the Articles. I do not know if this is what Mr. Olson referred to as "share subscription".
+[22] The 2004 taxation year invoices:
+(a) Invoice No. 0404064, dated April 5, 2004: fee for services, $41,500
+This invoice, says the appellant, was for the preparation of legal documents for the sale of company assets and was deducted from income as a current expense. Mr. Olson acknowledged the error, that it was the fault of the appellant's bookkeeper, and stated that this fee ought to have been deducted in the calculation of proceeds of disposition. Mr. Olson believed that the result of deducting the fees from income would be similar to deducting the fees against the proceeds of disposition, given the amount of recapture of over $1,000,000 triggered by the sale. Technically the appellant ought not have deducted the fee from income, Mr. Olson opined. The fee was to be shared by three different taxpayers who were vendors of their respective businesses to the same purchaser. The appellant's share of the invoice was $14,801.67. The three vendors and the purchaser of the businesses all entered into one agreement of purchase and sale. Mr. Olson testified that the vendors agreed, between themselves, on allocation of the values of each of these businesses. Mr. Olson could not recall if there was a fourth vendor as well, but that he acted for three of the vendors, including the appellant and 440.
+The amount paid to Olson Lemons for the sale of the business is not allowed as a deduction in computing income from a business but may be deducted from proceeds of disposition and any recaptured depreciation shall be included in the appellant's income.
+The agreement of purchase and sale provided for certain shareholders of the vendors to execute a "non compete" agreement with the purchasers. Mr. Olson could not recall which shareholders were required to sign nor if they were billed personally on the transaction. There is no evidence that any shareholder received more than nominal consideration for agreeing not to compete and the Crown did not allege any amount.
+(b) Invoice No. 0406037, dated June 1, 2004: fee for services $1,250 plus charges and disbursements of $1,706.70 for a total of $2,956.70. One-third of this invoice is chargeable to 371, that is, $986.
+The fee represented by this invoice was for "some clean‑up" done to finalize the sale of the business, it too was split three ways. This will be treated similarly to Invoice No. 0404064. What the "clean up" included is not in evidence and, in any event, relates to a capital expenditure.
+[23] Mr. Olson stated that because of the state of the appellant's business "we had to prepare for purposes of the reporting of the sale how all this … these proceeds were to be reported on an income tax return". He recalled that "the reporting of this year was a little more complex because not only did we have to do the association analysis, and so on, and the compensation, but there's also some additional reporting in connection with the sale".
+[24] The following three invoices relate to projects or assignments by Olson Lemons on a fixed fee basis. Invoices were issued on interim account:
+(c) Invoice No. 0312032, dated December 22, 2003: fee for services of $7,500 plus charges and disbursements $483.04 = $7,983.04
+(d) Invoice No. 0401079, dated January 27, 2004: fee for services of $4,750 plus disbursements of $25.72 = $4,775.72
+(e) Invoice No. 0405071, dated May 30, 2004: fee for services $1,000.
+These invoices are described in the schedule for 2004 as billed for compensation, dividends, new classes of shares and taxable income analysis resulting from the sale. Of the $13,759, the amount of $5,504 is described as "tax return analysis" and $8,255 is described as "document preparation and tax advice".
+[25] The "tax return analysis", explained Mr. Olson, was a legal memorandum about the issues that needed to be reported on the income tax return. This would include matters such as compensation, including bonuses to be paid, source deductions, dividend reporting that would require a T4 slip and have to be reported on the corporation's tax return. It would, declared Mr. Olson, also "include an analysis of the way to represent proceeds of disposition and how that has to show up on a tax return, as well as some analysis generated from the sale so the company could make its … could file accordingly".
+[26] Mr. Olson described "share subscription" as an issue that is personal to each corporation and "we discuss these issues with the corporation". The issues include such as consequences from issuing shares, type of shares appropriate for the corporation's objectives; if shares are issued, documents are prepared. He did not think that the "mere issuance of shares" has an impact on a shareholder by itself. He explained further:
+Certainly, what we're trying to understand here is if the corporation has an interest in issuing shares, our -- our goal is to understand, from our instructions, the types of shares that can be issued, what its priorities are, and so on, in connection with other shares that may already be outstanding, understanding with the client the limitations in connection with those shares and the obligations that come from those shares.
+So, there are a range of issues, but there is no tax consequence that comes to a shareholder from subscribing shares, of which I'm aware, other than potentially causing association issues, but we would deal with that with the client in the association analysis.
+[27] Also, Mr. Olson stated, an association analysis of a corporate client on a fixed cost basis may be performed by Olson Lemons more than once a year, as required, at no extra fee.
+[28] A dividend analysis would include a review of such items as refundable dividend and tax on hand account, Mr. Olson explained. In reply to a question by respondent's counsel as to what proportion of advice would relate to the effect of a dividend on shareholders, Mr. Olson "was not quite sure" of the question although he acknowledged "that's one of the many things we look at".
+[29] As far as the agreement of purchase and sale of the business of the appellant and others was concerned, Mr. Olson could not recall how the draft of the agreement came about since one of the business lawyers in the firm was involved. Respondent's counsel queried Mr. Olson as to the parties to the agreement, specifically if he ever acted for one of the vendors. He did not believe he ever acted for one of the vendors, Scanland's Excavating Ltd, and could not "recall if we represented …" that corporation in the transaction of purchase and sale. He testified that he was not involved in the file and he did not review his firm's legal files with respect to the sale in 2004.
+[30] I was a bit taken aback that notwithstanding Mr. Olson's firm analysed how the proceeds of disposition from the sale of the business be treated, the legal fees concerning the actual transaction were deducted as a current expense when his firm knew it was a capital transaction.
+[31] In reply to a question I put to Mr. Olson, he stated that the amount of $7,500 in Invoice No. 0312032 was for the work preparing Articles of Amendment of the appellant and discussing same with the client and suggested it "would probably be comparable to the compensation and dividend analysis", probably one quarter of the fees related to the Articles of Amendment and one quarter to each of dividend, new shares, compensation and taxable income analysis from the sales. Olson Lemons "simply substituted our (standard) shares" in place of shares prepared by another firm on incorporation. Mr. Olson stated that "splitting it four ways is a reasonable way to … get to a ballpark figure …". However, since the firm did not bill on a "time-spent basis" he was unable to ascertain how the fee of $8,255 ought to be allocated on a particular basis. For example, he could not indicate what portion of the $8,255 could be attributable to the taxable income analysis from the sale.
+(f) Invoice No. 0504591, dated April 19, 2005: fee for services $5,000.
+[32] This invoice was sent out after the 2004 year-end for services provided in 2004. Of the total amount $5,000, only $1,500 is in issue.
+Mr. Olson testified that this invoice related to an account issued after year‑end for preparation of the appellant's T2 tax return for 2004. A fee had been agreed to and payments had been made towards it, he said. Work had commenced prior to the 2004 year‑end. The amount was accrued. Mr. Olson suggested that "$1,500 would be reflective of the work that had likely been done by the time fiscal year‑end had actually arrived in connection with the preparation of the return". A deduction is allowed for work that is done, not "likely" to have been done. I would disallow this claim.
+[33] Counsel for the respondent questioned Mr. Olson on his billing entries. He replied that work done on a fixed cost basis is based on "the work we'll be doing". He explained that he negotiates with the client and sets the fixed fee. The billing is therefore "not entirely helpful" because "it's not broken down in time records like I like to break it down …" Description of the work done could be brief or "not so brief". Mr. Olson claimed that simply by looking at time records is not useful.
+[34] Fees are calculated on when the work was done, anticipating costs to cover the work. The time records were not broken down by task but one "might glean what task was being done, so you could probably figure out some of those, but many of them, you can't". Mr. Olson conceded that the entries were not very helpful "if you're trying to do an allocation" of the actual work performed. But he thought his anticipation of costs was comparable to that of a home builder's anticipation of costs.
+[35] In his audit of the appellant, Mr. Amm reviewed documents he would normally review in a similar audit: financial statements, corporate tax returns, personal tax returns of shareholders, general ledgers, year‑end trial balances and adjusting journal entries, sale of business equipment, capital cost allowance, payroll records, solicitor's expenses, insurance and professional fees. In fact, all documents Mr. Amm requested from the appellant were provided to him and the appellant was allowed to deduct from income all expenses claimed except for certain insurance premiums and most legal fees "for which we did not have adequate documentation to the description or the reasons for the fees". Legal fees for preparation of year‑end financial statements and corporate tax returns were allowed as a deduction.
+[36] Mr. Amm was in touch with Mr. Kearl at the Olson, Lemons office and acknowledged that Mr. Kearl provided him with descriptions of legal sources provided in addition to the descriptions of the invoices. Mr. Amm was of the view that the additional descriptions such as "general matters" or "tax advice" was not helpful to determine if the fees were paid to earn income from a business of the appellant.
+[37] Mr. Kearl did invite Mr. Amm to attend at Olson Lemons' office in Calgary if he wished to see any other documents. Mr. Kearl did send him some other material including an analysis of legal fees but with similar descriptions of the fees: tax advice, general matters, tax compliance. While Mr. Amm still was not satisfied with these descriptions, he did not get in touch further with Mr. Kearl but proceeded with the reassessments.
+[38] The argument of appellant's counsel, as well as cross‑examination of Mr. Amm, stressed that the CRA may not have aggressively pursued the appellant for additional information to satisfy its demands on the appellant. No matter what documents were provided to the CRA auditor, the responses from the CRA auditor were that he wanted more particulars, according to Mr. Olson. In performing the audit, counsel argued, the CRA was aware of the deduction and payment of dividends, the payment of compensation, the sale of the business, share subscription, among other things.
+[39] As counsel for the appellant acknowledged, it is a very fine line that a lawyer must walk when the CRA calls upon the lawyer for copies of invoices sent to clients or for information on a particular transaction that went through that lawyer's office. Certainly the lawyer's file is beyond the reach and sight of the CRA. And copies of invoices sent to clients are not for CRA's review.[12] These are privileged documents and information a lawyer may not release to the CRA without the approval of the client whose affairs are under review by the fisc.
+[40] At the same time, however, the CRA must have minimum information of what transpired within a taxpayer's business so that it may assess with a reasonable degree of confidence and authority. It is not incumbent on the CRA, however, to chase a taxpayer for information. Definitely, however, solicitor‑client privilege owned by a taxpayer cannot be violated by the CRA in the course of its audit of the taxpayer.
+[41] This appeal was filed under the Tax Court of Canada Rules (Informal Procedure) ("Rules") and in accordance with subsection 18.15(3) of the Tax Court of Canada Act:
+… the Court is not bound by any legal or technical rules of evidence in conducting a hearing and the appeal shall be dealt with by the Court as informally and expeditiously as the circumstances and consideration of fairness permit.
+[42] While the appellant claimed solicitor‑client privilege on details of the amounts paid to Olson Lemons, the appellant, as in the Dr. Orth appeal was not reticent to produce copies of the Olson Lemons invoices, which themselves may be privileged. Nor was Mr. Olson reluctant to discuss the sale of the appellant's business. Because these appeals, like those of Dr. Orth's, were heard under the Informal Procedure, I preferred to consider what evidence was produced as opposed to disallowing evidence or opening up the trial to a more formal procedure than Parliament intended on enacting the Rules. My primary concern was to deal with the appeal hearing reasonably and "as informally and expeditiously as the circumstances and consideration of fairness" permitted.
+[43] I would therefore allow the following:
+A) 2003 – Invoice No. 0310063
+As I wrote earlier, I was unable to find any evidence of share subscriptions which, Mr. Olson stated, was included amongst the services charged by him. I will accept his testimony that his firm's shares were simply substituted for similar shares that were originally issued. Also, consideration and dividends were paid. I would therefore allow two‑thirds of the expenses claimed, that is, $3,977.
+B) 2004 – Invoice No. 0404064
+i) The fee with respect to a disposition of a capital asset cannot be deducted as a current expense. It is to be treated as a capital expenditure.
+ii) Invoice No. 0406037
+This was also a capital expenditure and should be treated as such.
+iii) Invoices Nos. 0312032, 0401079 and 0405071
+(These invoices also include other legal services not relevant to 440’s appeals.) The amounts of these invoices aggregated $13,759. Here too, the fees were for services relating to income tax matters, including a tax return analysis. I have had difficulty distinguishing tax return analysis, as defined by Mr. Olson, from advice Mr. Olson’s law firm gave to its accountants to prepare the returns. Is there a duplication of work? In any event, they both relate to the making and review of the tax return, a deductible expense, and the fee ought to be allowed.
+[44] The appeals for 2003 and 2004 will therefore be allowed and the assessments are referred back to the Minister for reconsideration and reassessments to permit the appellant to deduct, in computing its income for 2003 and 2004,
+a) the amount of $3,977 in computing its income for its 2003 taxation year; and
+b) the amount of $13,759 for its 2004 taxation year.
+[45] As in Dr. Orth, the appellants in the appeals at bar made an application to reopen their appeals for additional evidence but, at the last hour, withdrew their application. The respondent has asked for costs as a result.[13] Each party shall have 30 days from the date of these reasons to provide me with written submissions as to costs with respect to the applications and their withdrawal, such submissions to be exchanged by the parties. The submissions may be made jointly with those in Dr. Orth.
+Signed at Ottawa, Canada, this 24th day of April 2013.
+"Gerald J. Rip"
+Rip C.J.
+CITATION: 2013 TCC 124
+COURT FILES NOS.: 2009-715(IT)I and 2009-780(IT)I
+STYLE OF CAUSE: 371501 B.C. Ltd.
+v. HER MAJESTY THE QUEEN
+and 440214 B.C. LTD.
+v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Calgary, Alberta
+DATE OF HEARING: March 15, 2010 and
+December 2, 2010.
+REASONS FOR JUDGMENT BY: The Honourable Gerald J. Rip, Chief Justice
+DATE OF JUDGMENT: April 24, 2013.
+APPEARANCES:
+Counsel for the Appellant:
+Virginia A. Engel
+Patrick Robinson
+Counsel for the Respondent:
+Marla Teeling
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Virginia A. Engel
+Firm: Peacock, Linder & Halt
+Calgary, Alberta
+For the Respondent: William F. Pitney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Reference to “appellant” in subsequent portions of these reasons is that of 371501 B.C. Ltd. unless otherwise specified.
+[2] Bayridge Estates v. M.N.R., 59 D.T.C. 1098 (Ex.Ct.) approved in Hickman Motors Limited v. The Queen, [1997] 2 S.C.R. 336 at para. 92.
+[3] Johnson v. M.N.R., [1998] S.C.R. 486, cited in Hickman Motors, op it, at para. 92.
+[4] First Fund Genenis v. The Queen, 90 D.T.C. 6337 (F.C.T.D.) at p. 1340, cited with approval in Hickman Motors, op. cit., para. 92.
+[5] Kamin v. M.N.R., 90 D.T.C. 62 (T.C.C.), cited with approval in Hickman Motors, op. cit., at para. 93.
+[6] 2009 FCA 139 at para. 23.
+[7] [2000] TCJ No. 53, 2000 CanLII 426.
+[8] [2010] 10 W.W.R. 264.
+[9] Trac v. British Columbia (2007), 61 B.C.L.R. (4th) 359, citing William Innes & Hemamalini Moorthy, "Onus of Proof and Ministerial Assumptions: The Role and Evolution of Burden of Proof in Income Tax Appeals" (1998) 46:6 Can. Tax J. 1187, at 1188.
+[10] (1998) D.T.C. 6004.
+[11] The term "tax compliance" is that of Olson, Lemons and not the CRA.
+[12] See Maranda c. Québec, 2003 SCC 67, 2003 CarswellQue 2477, para. 33.
+[13] Dr. Orth, supra, para. 22.

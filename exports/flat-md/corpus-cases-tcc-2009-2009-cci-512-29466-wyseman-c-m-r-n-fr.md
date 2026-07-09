@@ -1,0 +1,172 @@
+---
+title: "Wyseman c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29466/index.do"
+last_modified: "2009-10-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 512"
+citation2: ""
+neutral_citation: "2009 CCI 512"
+decision_date: "2009-10-07"
+language: "fr"
+item_id: "29466"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6285
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:29:41.245000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ee1ad1b317d9333be9efc6355134ee75026ab3d9ac0ff64f0777504d89d2f7db"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Wyseman c. M.R.N.
+
+- Citation: 2009 CCI 512
+- Decision date: 2009-10-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6285, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wyseman c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-10-07
+Référence neutre
+2009 CCI 512
+Numéro de dossier
+2008-3139(EI)
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossiers : 2008-3139(EI)
+2008-3140(CPP)
+ENTRE :
+ANDREW WYSEMAN,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+LAURA RUIZ-WYSEMAN,
+intervenante.
+[traduction française officielle]
+____________________________________________________________________
+Appel entendu le 7 octobre 2009, à London (Ontario).
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimé :
+Me Julian Malone
+Représentant de l’intervenante :
+M. Andrew Wyseman
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard d’une décision prise par le ministre du Revenu national (le « ministre ») en vertu de la Loi sur l’assurance‑emploi et portant que Laura Ruiz‑Wyseman n’exerçait pas un emploi assurable pour l’appelant pendant la période allant du 1er janvier 2004 au 7 décembre 2007 est rejeté, et la décision du ministre est confirmée.
+L’appel interjeté à l’égard d’une décision prise par le ministre en vertu du Régime de pensions du Canada et portant que Laura Ruiz‑Wyseman exerçait un emploi ouvrant droit à pension pour l’appelant pendant la période allant du 1er janvier 2004 au 7 décembre 2007 est accueilli, et la décision du ministre est annulée.
+Chaque partie assumera ses propres dépens.
+Signé à Ottawa, Canada, ce 14e jour d’octobre 2009.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 1er jour de décembre 2009.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2009 CCI 512
+Date : 20091014
+Dossiers : 2008-3139(EI)
+2008-3140(CPP)
+ENTRE :
+ANDREW WYSEMAN,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+LAURA RUIZ‑WYSEMAN,
+intervenante.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] Le présent appel a été interjeté à l’égard de décisions prises par le ministre du Revenu national (le « ministre ») en vertu de la Loi sur l’assurance‑emploi (la « Loi ») et du Régime de pensions du Canada (le « Régime ») pour la période allant du 1er janvier 2004 au 7 décembre 2007.
+[2] Au début de l’audience, l’appelant a retiré son appel relativement à la décision prise en vertu de la Loi, et ce, avec le consentement de l’intervenante. Il ne sera donc pas nécessaire de se pencher plus longuement sur cette décision. La partie de l’appel relative à la décision prise en vertu de la Loi par le ministre est rejetée, et cette décision est confirmée.
+[3] La question qui reste en litige porte sur une décision prise par le ministre en vertu du Régime et portant que Laura Ruiz‑Wyseman, la conjointe de l’appelant, exerçait un emploi ouvrant droit à pension.
+[4] L’appelant exploite une entreprise de planification financière dont il est le propriétaire unique. Mme Ruiz‑Wyseman a été engagée pour fournir certains services administratifs à l’entreprise pendant la période en cause.
+[5] En l’espèce, la question est de savoir si Mme Ruiz‑Wyseman a été engagée à titre d’employée, ou à titre d’entrepreneure indépendante. L’appelant et Mme Ruiz‑Wyseman soutiennent tous deux qu’elle a été engagée comme entrepreneure indépendante. Quant à lui, l’intimé affirme que Mme Ruiz‑Wyseman était une employée.
+[6] La question essentielle est de savoir si Mme Ruiz‑Wyseman exploitait une entreprise pour son propre compte.
+[7] La jurisprudence a établi plusieurs facteurs pertinents à l’analyse de cette question. Il s’agit notamment des critères du contrôle, de la propriété des outils de travail, des chances de bénéfices et des risques de pertes, de l’intégration, et de l’intention des parties.
+[8] Pour ce qui est de l’intention des parties, il faut, en l’espèce, tenir compte du contrat écrit rédigé par les parties pour exprimer leur accord. Ce contrat ne stipule pas que Mme Ruiz‑Wyseman a été engagée comme entrepreneure indépendante, mais son contenu vient corroborer le témoignage des Wyseman selon lequel ils avaient l’intention qu’elle le soit. Dans l’ensemble, la preuve montre relativement clairement que l’appelant et Mme Ruiz‑Wyseman avaient l’intention que cette dernière soit engagée à titre d’entrepreneure indépendante et non pas à titre d’employée.
+[9] Cela ne règle cependant pas la question. Il reste à savoir si la conduite des parties était conforme à leur intention (voir Royal Winnipeg Ballet c. MRN, 2006 FCA 87, 2006 DTC 6323, paragraphe 64). Il faut donc tenir compte des autres critères énoncés ci‑dessus.
+[10] Compte tenu des éléments de preuve présentés, je suis convaincue que, selon la prépondérance des probabilités, les faits en cause démontrent que Mme Ruiz‑Wyseman était entrepreneure indépendante.
+[11] Le fait que Mme Ruiz‑Wyseman avait l’entière liberté de choisir quand accomplir ses tâches administratives a eu une influence importante sur ma décision. Il est vrai qu’un délai était imparti pour chaque tâche, mais le travail pouvait être fait n’importe quand, à condition que ce délai soit respecté. Mme Ruiz‑Wyseman faisait ce travail à temps partiel, et il constituait pour elle un travail secondaire. Elle avait déjà un emploi principal.
+[12] Le deuxième facteur qui a influencé ma décision est que les tâches de Mme Ruiz‑Wyseman étaient fort limitées. Elle devait accomplir des tâches précises, par exemple, faire les déclarations mensuelles, remplir des formulaires devant être signés par les clients et organiser des activités pour les clients. De plus, Mme Ruiz‑Wyseman travaillait habituellement de chez elle, et, par conséquent, elle n’était pas présente au bureau de l’appelant pour s’occuper d’un certain nombre de tâches générales dont les adjoints administratifs sont habituellement chargés, comme répondre au téléphone et traiter la correspondance générale.
+[13] Un autre facteur est le fait que Mme Ruiz‑Wyseman recevait un paiement annuel fixe, qui ne variait pas selon le temps qu’elle avait dû consacrer à ses tâches.
+[14] À mon avis, la preuve présentée a permis d’établir que, selon la prépondérance des probabilités, Mme Ruiz‑Wyseman avait été engagée à titre d’entrepreneure indépendante.
+[15] Avant de conclure, je tiens à souligner qu’à l’audience, un certain nombre des hypothèses de fait sur lesquelles le ministre s’était fondé pour prendre sa décision ont été démolies. Plus précisément, je tiens à commenter les hypothèses suivantes (les hypothèses sont en italiques) :
+10g) La travailleuse ne pouvait pas refuser de faire le travail demandé par l’appelant. Compte tenu du contrat écrit, j’ai conclu que Mme Ruiz‑Wyseman pouvait refuser de faire les tâches qui n’étaient pas prévues au contrat.
+10j) L’appelant avait mis un bureau à la disposition de la travailleuse pour qu’elle y accomplisse ses tâches. Le local habituellement utilisé par Mme Ruiz‑Wyseman se trouvait dans sa résidence. Elle n’avait pas d’espace de bureau réservé au lieu d’affaire de son époux.
+10m) La travailleuse devait aviser l’appelant quand des documents devaient être ramassés ou déposés. Selon la preuve limitée qui a été présentée à ce sujet, j’ai conclu que Mme Ruiz‑Wyseman n’était pas tenue d’aviser son époux quand une tâche était terminée. Elle devait cependant fournir le produit de son travail à son époux.
+10n) La travailleuse devait obtenir la permission de l’appelant avant de prendre certaines mesures. Peu d’éléments de preuve ont été présentés pour établir que Mme Ruiz‑Wyseman devait couramment demander l’approbation de l’appelant pour accomplir ses tâches.
+10o) La travailleuse recevait des instructions écrites de l’appelant quant à la façon de remplir des formulaires et des documents. Selon la preuve présentée, les instructions données à Mme Ruiz‑Wyseman étaient très limitées.
+10x) L’appelant fournissait gratuitement à la travailleuse tous les outils et toutes les fournitures nécessaires, notamment un ordinateur, un téléphone, un télécopieur, un numériseur et un photocopieur. Je suis convaincue que les sommes déboursées pour acheter les outils et les fournitures utilisés par Mme Ruiz‑Wyseman provenaient du compte bancaire conjoint des Wyseman.
+10cc) Le taux de rémunération de la travailleuse variait selon le nombre d’heures qu’il lui fallait pour accomplir une tâche. Bien que l’estimation du temps nécessaire pour accomplir les tâches servait à fixer le paiement annuel versé à Mme Ruiz‑Wyseman, ce paiement n’était pas directement lié aux nombres d’heures consacrées à chaque tâche.
+10ii) La travailleuse a été engagée pour une période indéterminée. L’accord écrit stipulait que la période d’embauche était d’un an, et qu’elle pouvait être renouvelée.
+[16] Pour les motifs exposés ci‑dessus, l’appel interjeté à l’égard de la décision prise par le ministre en vertu du Régime est accueilli, et la décision portant que Mme Ruiz‑Wyseman exerçait un emploi ouvrant droit à pension est annulée.
+[17] Chaque partie assumera ses propres dépens.
+Signé à Ottawa, Canada, ce 14e jour d’octobre 2009.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 1er jour de décembre 2009.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2009 CCI 512
+Nos DES DOSSIERS DE LA COUR :
+2008-3139(EI)
+2008-3140(CPP)
+INTITULÉ :
+Andrew Wyseman et le ministre du Revenu national et Laura Ruiz‑Wyseman
+LIEU DE L’AUDIENCE :
+London (Ontario)
+DATE DE L’AUDIENCE :
+Le 7 octobre 2009
+MOTIFS DU JUGEMENT :
+L’honorable juge J. M. Woods
+DATE DU JUGEMENT :
+Le 14 octobre 2009
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimé :
+Me Julian Malone
+Représentant de l’intervenante :
+M. Andrew Wyseman
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+s.o.
+Cabinet :
+Pour l’intimé :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

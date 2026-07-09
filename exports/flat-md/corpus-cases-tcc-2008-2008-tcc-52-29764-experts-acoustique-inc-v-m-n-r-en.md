@@ -1,0 +1,199 @@
+---
+title: "Experts Acoustique Inc v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29764/index.do"
+last_modified: "2008-02-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 52"
+citation2: ""
+neutral_citation: "2008 TCC 52"
+decision_date: "2008-02-07"
+language: "en"
+item_id: "29764"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6510
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:33:41.002000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2872200f826e87af1678202d705e0ada1a70ab6d164b8fb9793c43d787540ef7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Experts Acoustique Inc v. M.N.R.
+
+- Citation: 2008 TCC 52
+- Decision date: 2008-02-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6510, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Experts Acoustique Inc v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-02-07
+Neutral citation
+2008 TCC 52
+File numbers
+2007-3447(EI)
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2007-3447(EI)
+BETWEEN:
+EXPERTS ACOUSTIQUE INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on January 16, 2008, at Sherbrooke, Quebec
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Agent for the Appellant:
+Patrick Bernard
+Counsel for the Respondent:
+Christina Ham
+____________________________________________________________________
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act ("the Act") is allowed on the grounds that, from January 1 to December 19, 2006, when he was working for Experts Acoustique Inc., Patrick Bernard was employed under a contract of service within the meaning of paragraph 5(1)(a) of the Act, and that, by reason of paragraph 5(2)(i) of the Act, the employment was not insurable. Consequently, the decision of the Minister of National Revenue is set aside in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 7th day of February 2008.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 19th day of March 2008.
+Brian McCordick, Translator
+Citation: 2008TCC52
+Date: 20080207
+Docket: 2007-3447(EI)
+BETWEEN:
+EXPERTS ACOUSTIQUE INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal from a decision concerning the insurability of the work done by Patrick Bernard for Experts Acoustique Inc. from January 1, 2006, to December 19, 2006.
+[2] In making his decision, the Respondent relied on the following assumptions of fact:
+[TRANSLATION]
+5. The Minister determined that the worker was employed by the Appellant in insurable employment under a contract of service based on the following assumptions of fact:
+(a) The Appellant was incorporated on February 7, 1996. (admitted)
+(b) The Appellant operated a drywall, acoustic tile and suspended ceiling installation business. (admitted)
+(c) The Appellant held a specialized contractor licence from the Régie des bâtiments du Québec. (admitted)
+(d) The Appellant posted $5,543,325 in sales in the fiscal year ended January 31, 2006. (admitted)
+(e) The Appellant had its business office in Sherbrooke and employed 15 to 75 employees. (admitted)
+(f) The Appellant operated year-round. (admitted)
+(g) The Worker had been rendering services to the Appellant for 10 years. (admitted)
+(h) The Worker was the Appellant's Vice-President. (admitted)
+(i) The Worker hired staff and supervised the four office workers; he looked after purchasing supplies, and negotiated and signed contracts for the Appellant. (admitted)
+(j) The Worker worked at the Appellant's office. (denied)
+(k) The Worker generally worked Monday to Friday from 6:30 a.m. to 5:00 p.m. (denied)
+(l) The Worker was paid weekly by direct deposit. (admitted)
+(m) The Worker's salary was $1,040 per week. (admitted)
+(n) The Worker's pay was decided by the Appellant's four shareholders. (denied)
+(o) The Worker had four weeks of vacation per year. (denied)
+(p) The Appellant paid for a group RRSP and prescription drug insurance for its employees, including the Worker. (denied)
+(q) The Worker had to notify the Appellant in the event of absence. (denied)
+(r) The Appellant had the right to control the Worker. (denied)
+6. The Appellant and the worker are related persons within the meaning of the Income Tax Act because
+(a) the Appellant's shareholders were
+Yvan Bernard
+52% of shares
+Simon Bernard
+16% of shares
+Rémy Bernard
+16% of shares
+The Worker
+16% of shares
+(admitted),
+(b) Yvan Bernard is the Worker's father and Simon and Rémy are the Worker's brothers, (admitted) and
+(c) the Worker is related by blood to a group of persons who control the Appellant. (admitted)
+7. The Minister also deemed that the Appellant was dealing with the Worker at arm's length in connection with his employment, because he was satisfied that it was reasonable to conclude that the Appellant and the Worker would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length having regard to the following circumstances:
+(a) In 2006, the Worker's weekly pay was the same as his brother Simon's, and less than Yvan's ($1,100 per week). (admitted)
+(b) The Worker's remuneration was reasonable. (denied)
+(c) Depending on the year, the Appellant either paid or did not pay its shareholders and certain employees a bonus; for example, in 2004 the Worker did not receive a bonus. (admitted)
+(d) In 2006, the Worker received a $65,000 bonus, his brother Simon (who left the business in the fall of 2006) received $145,000, his brother Rémy received $30,000 and his father Yvan received $45,000. (admitted)
+(e) During the period in issue, Rémy and Simon Bernard were site forepersons for the Appellant. (denied)
+(f) The Worker's bonus reflected the Worker's position of responsibility with the Appellant. (admitted)
+(g) The terms and conditions of the employment were consistent with those that an unrelated employee would have, and the work done on the Appellant's premises during the business's hours of operation, and the responsibilities, were commensurate with the experience acquired over the years. (denied)
+(h) There was a relationship of subordination between the Payor and the Worker. (denied)
+(i) The Worker's terms and conditions of employment were reasonable. (denied)
+(j) The Worker had been working with the Appellant for roughly 10 years. (admitted)
+(k) The Worker worked for the Appellant year-round. (admitted)
+(l) The duration of the Worker's work was reasonable. (denied)
+(m) The work done by the Worker was necessary and important for the sound operation of the Appellant's business. (admitted)
+(n) The Worker's position existed since 1999 and if the Worker were unable to perform his duties, the Appellant would hire someone else. (denied)
+(o) The nature and importance of the Worker's work were reasonable. (denied)
+[3] Patrick Bernard, the shareholder whose work is at the heart of the dispute, represented the Appellant company for which the work in question was done. After being sworn in, he admitted to the contents of subparagraphs 5(a) to (r), 6(a) to (c) and 7(a) to (o).
+[4] He explained that he held 16% of the company's share capital. The other shareholders were his father and his brothers. His father held 52% of the share capital.
+[5] He said that he had little formal education and devoted much of his time to the family business from a young age with the ultimate objective of replacing his father as the true decision-maker.
+[6] He explained that his father's situation for the last few years has been a sort of semi-retirement, in which he has spent less and less time at the company and has taken increasingly lengthy vacations.
+[7] One of his brothers did manual labour as a plasterer under the same conditions as the other specialized employees, who were paid in accordance with the standards established by the Commission de la construction du Québec (CCQ).
+[8] His other brother was a site foreperson whose remuneration included a profit-sharing formula based on the profits on the estimates and contracts for which he was responsible. However, he left the company to work in Alberta. As for the father, for several years now he has acted as consultant and advisor, and he is involved mainly in seeking new contracts.
+[9] Patrick Bernard explained that he alone made all the decisions associated with the company's activities. He signed all the cheques, and said that he had total autonomy. Thus, he did not need to obtain anyone's permission to be absent from work. He prepared bids and signed contracts on his own.
+[10] As for his remuneration, he claimed that, contrary to what the Respondent is claiming, it was not reasonable, mainly because he worked long hours, including weekends.
+[11] He explained that the company hired employees, that the vast majority of them were paid based on the CCQ's pay scale, and that the hourly rates varied from $16 to $26 per hour.
+[12] Patrick Bernard's salary was equal to the highest salary paid to an employee of the Appellant's for a regular week of work, that is to say, 40 hours at $26 per hour, for a total of $1,040 per week.
+[13] Lastly, Mr. Bernard explained that he received bonuses based on the company's performance, but also and chiefly based on his contribution to the results. When questioned by the Court, he admitted that he could be reprimanded and even dismissed because he was the minority shareholder.
+[14] The Respondent, relying on the assumed facts, determined that Patrick Bernard was employed under the terms of a contract of service that was consistent with what a person at arm's length might have entered into in a similar context and under similar circumstances.
+[15] Appeals officer Nathalie Bédard explained what led her to conclude that the non-arm's-length relationship had no bearing on the work done by Mr. Bernard. In her view, it was ordinary work for which reasonable pay was provided. She determined that the fact that Mr. Bernard notified the secretary of his absences was an indicia that he had an obligation to account to the Appellant; and based on this accountability, she concluded that a relationship of subordination existed.
+[16] The Minister also took into account the fact that Patrick Bernard had received employment insurance benefits a few years earlier. In this regard, Ms. Bédard said that she asked Mr. Bernard whether his work had since changed. He apparently answered that his job was essentially the same.
+[17] In my view, the determination that the work was performed under a contract of service seems appropriate. However, was it an unusual employment contract shaped by the family ties or the non-arm's-length relationship?
+[18] In dealing with this subject, it is very important to draw certain distinctions, because certain terms and conditions of employment might stem from a worker's shareholder status, not his or her employee status. Moreover, it is normal and legitimate for a shareholder to be more eager, dynamic and interested than a non‑shareholder would be, without thereby affecting the insurability of his or her employment. This added value that a shareholder provides to his or her employer's business has absolutely nothing to do with a non-arm's‑length relationship, though such a relationship can, in some cases, either enhance or detract from that added value.
+[19] Here, the bonus was not based on the percentage of holdings in the company. It was essentially a reward for contributing to the success of the business. The fact that the bonuses were granted in a way that was unrelated to the percentage of shares held makes it more difficult to determine whether the contract of employment was shaped by the non-arm's-length relationship.
+[20] Did the non-arm's-length relationship influence the contract of employment to such an extent that it was a different contract from what a person at arm's length would have obtained in a similar situation?
+[21] First of all, I feel it is important to note that the analysis in this matter was very superficial. Worse still, I believe that it was clearly coloured by the fact that Patrick Bernard received employment insurance benefits a few years earlier.
+[22] Indeed, to claim that the salary was adequate and reasonable is to demonstrate a patent lack of objectivity, since this was the salary that all employees earned for a regular week of work, even though Mr. Bernard's work and responsibilities were not at all comparable to those of the other employees. His work was much more demanding, not only in terms of hours, but also in terms of responsibilities. In addition, his work was crucial to the viability of the business.
+[23] The issue of the bonus had nothing to do with the remuneration, for if the results had been disastrous or negative, there would clearly not have been a bonus. Consequently, Patrick Bernard could have found himself in a situation where he received the same salary as many of the other employees, but with a considerably heavier workload.
+[24] Another very important if not determinative element is the fact that he alone signed the cheques issued by the company, and he alone signed the bids and resulting contracts. Even though these facts are very important, they were not raised in the course of Ms. Bédard's investigation and analysis.
+[25] In light of the evidence, I believe that the determination stems from an incomplete analysis that was strongly influenced by irrelevant elements (past receipt of employment insurance benefits) and highly debatable conclusions (relationship of subordination and reasonable remuneration).
+[26] For these reasons, I set aside the determination and find that the work done by Patrick Bernard was indeed shaped by the fact that he had a non-arm's-length relationship with the Appellant. Patrick Bernard had actual control over the company.
+[27] Indeed, Patrick Bernard acquired so much experience and expertise over the years that he became the Appellant's directing mind during the period in issue. He acquired the independence of a business owner, and since he took on all the managerial responsibilities, he became a key person with the Appellant, thereby rendering him unassailable.
+[28] This situation was different from the one widely encountered in this type of business, where the members of a family share the various responsibilities to such an extent that one person's departure would not jeopardize the survival of the business. In that situation, each person has responsibilities associated with the various components of the company. That interdependence constitutes the basis for the existence of a relationship of subordination. The situation in the case at bar was very different, because Patrick Bernard was the true manager of the business. Among other things, he was the only one who signed the contracts and cheques.
+[29] For all these reasons, I find that the work done by Patrick Bernard constitutes excluded employment under paragraph 5(2)(i) of the Act, on the ground that it was work governed by terms and conditions of performance that were very different from the terms and conditions that a person at arm's length would have had in a similar situation.
+Signed at Ottawa, Canada, this 7th day of February 2008.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 19th day of March 2008.
+Brian McCordick, Translator
+CITATION: 2008TCC52
+COURT FILE NO.: 2007-3447(EI)
+STYLE OF CAUSE: EXPERTS ACOUSTIQUE INC. AND M.N.R.
+PLACE OF HEARING: Sherbrooke, Quebec
+DATE OF HEARING: January 16, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: February 7, 2008
+APPEARANCES:
+Agent for the Appellant:
+Patrick Bernard
+Counsel for the Respondent:
+Christina Ham
+COUNSEL OF RECORD:
+For the Appellant:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

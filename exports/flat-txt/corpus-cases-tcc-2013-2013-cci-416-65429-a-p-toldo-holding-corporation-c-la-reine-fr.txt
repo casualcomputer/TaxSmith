@@ -1,0 +1,295 @@
+Title: A.P. Toldo Holding Corporation c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/65429/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-416-65429-a-p-toldo-holding-corporation-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2013-12-19
+
+# A.P. Toldo Holding Corporation c. La Reine
+
+- Citation: 2013 CCI 416
+- Decision date: 2013-12-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5948, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+A.P. Toldo Holding Corporation c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-12-19
+Référence neutre
+2013 CCI 416
+Numéro de dossier
+2011-2137(IT)G
+Juges et Officiers taxateurs
+Steven K. D'Arcy
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-2137(IT)G
+ENTRE :
+A.P. TOLDO HOLDING CORPORATION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 5 février 2013 à Toronto (Ontario).
+Devant : L’honorable juge Steven K. D’Arcy
+Comparutions :
+Avocat de l’appelante :
+Me Vern Krishna, c.r.
+Avocates de l’intimée :
+Me Elizabeth Chasson
+Me Rishma Bhimji
+JUGEMENT
+Les appels interjetés à l’encontre des nouvelles cotisations établies au titre de la Loi de l’impôt sur le revenu pour les années d’imposition 2006 et 2007 sont rejetés, conformément aux motifs du jugement ci-joints.
+Les dépens sont adjugés à l’intimée.
+Signé à Ottawa, Canada, ce 19e jour de décembre 2013.
+« S. D’Arcy »
+Juge D’Arcy
+Traduction certifiée conforme
+ce 1er jour d’avril 2014.
+Mario Lagacé, jurilinguiste
+Référence : 2013 CCI 416
+Date : 20131219
+Dossier : 2011-2137(IT)G
+ENTRE :
+A.P. TOLDO HOLDING CORPORATION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge D’Arcy
+[1] Il y a deux points en litige dans les présents appels. Le premier a trait à la déduction d’une somme d’environ 1,2 million de dollars d’intérêts qu’A.P Toldo Holding Corporation (l’« appelante ») a payée sur de l’argent emprunté dont elle s’est servie pour racheter certaines de ses actions ordinaires. Le second concerne la déduction, par l’appelante, d’une somme d’environ 51 000 $ d’honoraires qui se rapportent à des services juridiques et comptables liés à une restructuration de la société.
+[2] M. Anthony G. Toldo (« M. Toldo ») a témoigné pour le compte de l’appelante.
+Le résumé des faits [3] L’appelante possède comme principal élément d’actif les actions qu’elle détient dans quatre filiales[1], par l’entremise desquelles elle contrôle huit autres sociétés[2]. Ces entreprises valent beaucoup d’argent. Je désignerai les filiales et les entreprises qu’elles contrôlent sous le nom d’« entreprises affiliées ».
+[4] Les autres éléments d’actif de l’appelante comprenaient des espèces, quelques titres négociables ainsi que des sommes à recevoir de diverses filiales[3]. M. Toldo a déclaré que l’appelante tire sa valeur des actions qu’elle détient dans les entreprises affiliées[4]. Il semble, d’après les états financiers non consolidés de l’appelante, que cette dernière n’avait aucun employé au cours des années pertinentes[5].
+[5] Avant le mois de juin 2006, M. Toldo, de pair avec sa sœur, Donna May Curlin (« Donna Curlin »), et son père, Anthony P. Toldo, détenaient la totalité des actions de l’appelante. Donna Curlin détenait ses actions (les « actions en question ») à titre de fiduciaire d’une fiducie appelée Donna May Curlin Revocable Trust (la « Fiducie Donna Curlin »)[6].
+[6] Les actionnaires détenaient les actions selon la répartition suivante :
+− M. Toldo – 100 actions ordinaires, donnant droit à un vote par action;
+− Donna Curlin, à titre de fiduciaire de la Fiducie Donna Curlin – 100 actions ordinaires (les actions en question), donnant droit à un vote par action;
+− Anthony P. Toldo – 600 actions spéciales, donnant droit à trois votes par action.
+[7] À un moment au cours de l’année 2005, un litige a éclaté entre les actionnaires de l’appelante. Il semble que ce litige avait également trait à des actions que détenait Thomas Curlin, l’époux de Donna Curlin, dans l’une des entreprises affiliées (les « actions de la filiale »). M. Curlin détenait ces actions à titre de fiduciaire d’une fiducie appelée Thomas Baldwin Curlin Revocable Trust (la « Fiducie Thomas Curlin »).
+[8] Les parties, par l’entremise de leurs avocats respectifs, ont négocié un règlement. En particulier, le 5 juin 2006, l’appelante a conclu une entente de règlement avec un certain nombre de parties, dont Donna Curlin, Thomas Curlin, M. Toldo, Anthony P. Toldo, la Fiducie Donna Curlin, la Fiducie Thomas Curlin et 2103665 Ontario Limited (l’« entente de règlement »). L’entente de règlement portait sur deux opérations : la vente des actions en question à l’appelante, ainsi que la vente des actions de la filiale à l’appelante.
+[9] Aux termes de l’entente de règlement, Donna Curlin, à titre de fiduciaire de la Fiducie Donna Curlin, a convenu de vendre à l’appelante les actions en question au prix de 40 millions de dollars[7]. De plus, l’appelante a convenu, le 5 juin 2006, d’acheter de la Fiducie Thomas Curlin les actions de la filiale, moyennant un paiement en espèces de 6,75 millions de dollars.
+[10] Quelques jours avant que l’appelante achète les actions en question, Donna Curlin, à titre de fiduciaire de la Fiducie Donna Curlin, a transféré ces actions à 2103665 Ontario Limited (« 2103665 »).
+[11] L’entente de règlement prévoyait que la vente des actions en question se ferait en dix opérations distinctes, dont chacune porterait sur la vente de 10 de ces actions au prix de 4 millions de dollars.
+[12] Les clauses 3.2 et 3.3 de l’entente de règlement énonçaient le moment où serait payée la somme de 40 millions de dollars pour les actions en question :
+[traduction]
+3.2 Prix d’achat. Le prix d’achat des cinquante (50) actions ordinaires à vendre dans le cadre des cinq premières des dix ententes d’achat d’actions sera réglé par chèque certifié, traite bancaire ou virement télégraphique au moment de la conclusion de ces ententes, à la date de clôture. Le prix d’achat des cinquante (50) actions ordinaires à vendre dans le cadre des cinq dernières des dix ententes d’achat d’actions sera réglé à la date de clôture par la remise à 2103665 de cinq (5) billets à ordre établis par APTHC [l’appelante], payables à l’ordre de 2103665 et d’un montant de quatre millions de dollars (4 000 000 $) à payer dans chaque cas un an après la date de clôture, avec intérêts au taux préférentiel de la Banque de la Nouvelle-Écosse en vigueur à la date de clôture et à payer un an après la date de clôture.
+3.3 Conclusion. La conclusion de l’achat des actions achetées par APTHC [les actions en question] dans le cadre de chacune des dix ententes aura lieu à la date de clôture, à intervalles de dix minutes à compter de 13 heures. Chaque opération est une opération distincte, et la clôture d’une entente sera exécutée avant d’entreprendre et d’exécuter la clôture de l’entente suivante. Ce processus se poursuivra jusqu’à l’achèvement de la totalité des dix opérations.
+[Non souligné dans l’original.]
+[13] Il ressort clairement de ces deux clauses que les parties entendaient que l’appelante paie en espèces la somme de 20 000 000 $ pour les 50 premières actions ordinaires qu’elle achetait de 2103665 et qu’elle émette des billets à ordre d’un montant de 20 000 000 $ (les « billets à ordre ») en contrepartie des 50 actions ordinaires restantes.
+[14] Le 5 juin 2006, 2103665 a conclu des ententes d’achat de dix actions avec l’appelante (les « ententes d’achat d’actions »). Étaient également parties à ces ententes M. Toldo, Donna Curlin, à titre de fiduciaire, et Anthony P. Toldo. Chacune des ententes d’achat d’actions prévoyait la vente, par 2103665, de dix actions en question à un prix d’achat de 4 millions de dollars[8].
+[15] Les ententes d’achat de dix actions montrent que la vente des actions a eu lieu dans l’ordre qu’envisageait l’entente de règlement. Par exemple, le préambule de la première entente signale que 2103665 détenait 100 actions ordinaires de l’appelante avant de vendre dix d’entre elles à l’appelante au prix de 4 000 000 $ en espèces[9]. Dans le même ordre d’idées, le préambule de la deuxième entente signale que 2103665 détenait 90 actions ordinaires avant de vendre 10 actions de plus à l’appelante au prix de 4 000 000 $ en espèces[10], et le préambule de la sixième entente signale que l’appelante détenait 50 actions ordinaires avant de vendre 10 actions ordinaires de plus à l’appelante en contrepartie d’un billet à ordre de 4 000 000 $.
+[16] Selon les états financiers non consolidés de l’appelante, au 31 décembre des années indiquées, cette dernière avait le capital déclaré et les bénéfices non répartis (déficit) qui suivent[11] :
+2005
+2006
+Capital déclaré
+600 actions de catégorie A
+600 $
+600 $
+200 actions ordinaires (100 en 2006)
+200 $
+100 $
+Bénéfices non répartis (déficit)
+6 388 552 $
+(32 660 014 $)
+[17] Comme l’appelante a payé la somme de 20 000 000 $ en espèces pour les 50 premières actions en question qu’elle a achetées pour annulation, elle se trouvait en situation de déficit à l’époque où elle a émis les billets à ordre en contrepartie des 50 actions en question qui restaient.
+[18] L’appelante n’a pas dit à la Cour où elle avait obtenu la somme de 20 millions de dollars en espèces qu’elle a payée pour les 50 premières actions en question, ni la somme de 6,75 millions de dollars en espèces qu’elle avait payée pour les actions de la filiale.
+[19] Cependant, il ressort clairement des états financiers non consolidés et consolidés de l’appelante que cette dernière a emprunté une somme d’environ 22,6 millions de dollars auprès des entreprises affiliées en 2006. Selon les états financiers non consolidés de l’appelante, le prêt que cette dernière devait payer à ses filiales a augmenté de 239 560 $ à la fin de 2005 à 22 825 000 $ à la fin de 2006[12]. L’état consolidé des flux de trésorerie de l’appelante pour son exercice 2006 montre que l’augmentation du prêt a été financée par les liquidités internes du groupe consolidé, lesquelles totalisaient plus de 164 millions de dollars à la fin de 2005[13].
+[20] De plus, l’appelante a catégorisé le prêt de 22 825 000 $ obtenu auprès de ses entreprises affiliées à titre de passif à court terme dans ses états financiers non consolidés, ce qui signifie qu’elle entendait rembourser cette somme au cours des 12 mois suivants[14].
+[21] L’appelante a annulé les 100 actions en question après les avoir achetées de 2103665[15].
+[22] Le 16 avril 2007, l’appelante a payé la somme de 21 035 616,44 $ en acquittement des billets à ordre. Cette somme se composait de 20 millions de dollars de capital et de 1 035 616,44 $ d’intérêts[16]. M. Toldo a déclaré que ces fonds venaient en partie d’espèces générées par diverses filiales, et en partie de la Banque de Montréal[17].
+[23] En 2007, l’appelante a emprunté la somme de 17 550 000 $ à la Banque de Montréal. Elle s’est servie d’environ 10 millions de dollars de cette somme dans le cadre de ses activités et s’est servie du reste pour acquitter les billets à ordre et payer les intérêts connexes[18].
+[24] Au moment d’établir sa déclaration de revenus pour 2006, l’appelante s’est prévalue d’une déduction de 687 123 $ au titre d’intérêts à payer sur les billets à ordre. Dans sa déclaration de revenus pour 2007, l’appelante s’est prévalue d’une déduction de 348 493 $ au titre d’intérêts à payer sur les billets à ordre ainsi que d’une somme de 387 862 $ au titre d’intérêts à payer sur le prêt obtenu de la Banque de Montréal.
+[25] Le ministre a refusé la totalité des intérêts déduits à l’égard des billets à ordre ainsi que les intérêts de 166 858 $ déduits à l’égard du prêt obtenu de la Banque de Montréal. Les parties conviennent que les déductions d’intérêts refusées de 1 202 474 $ sont liées aux intérêts payés sur les billets à ordre ainsi que sur les fonds empruntés auprès de la Banque de Montréal en vue de financer le remboursement des billets à ordre.
+[26] Le ministre a également refusé les déductions de 35 568 $ et de 15 627 $ dont l’appelante s’était prévalue pour les années 2006 et 2007, respectivement, à l’égard d’honoraires professionnels.
+La position de l’appelante [27] Dans ses observations écrites, l’appelante déclare qu’elle avait le droit, au titre de l’article 9 ou, subsidiairement, de l’alinéa 20(1)c) de la Loi de l’impôt sur le revenu (la « Loi »), de déduire la somme de 1 202 474 $ d’intérêts à titre de dépense d’entreprise ordinaire d’une société de portefeuille. Dans ses observations écrites, l’appelante déclare qu’elle est une société de portefeuille ayant pour entreprise de fournir des services de financement et de tirer un revenu des placements qu’elle fait dans ses filiales. Le rachat des actions doit être considéré dans le contexte des activités tout entières de l’appelante, et non pas d’une manière isolée, hors du contexte de son entreprise globale.
+[28] Pour ce qui est des honoraires professionnels, l’appelante soutient qu’elle les a engagés dans le cadre de ses activités d’entreprise et qu’elle a le droit de les déduire au titre du paragraphe 9(1) de la Loi.
+L’entreprise qu’exploite l’appelante [29] L’avocat de l’appelante a fait valoir que cette dernière exploitait des [traduction] « activités bancaires et de financement ».
+[30] M. Toldo a décrit ainsi les activités de l’appelante :
+[traduction]
+A.P. Toldo Holding Corporation est [la] société mère d’un grand nombre de filiales et elle détient ces entreprises à titre de placements. Elle agit également comme société banquière auprès de ses filiales et de quelques entreprises affiliées apparentées. Elle a aussi des placements à l’extérieur du groupe de sociétés[19].
+[31] Il a décrit ainsi ses activités bancaires et de financement :
+[traduction]
+Q. Vous dites qu’A.P. Toldo agit comme société banquière. Que fait-elle? Pourriez-vous simplement nous en dire plus et décrire son rôle?
+R. À titre de société banquière, elle finance de temps à autre ses entreprises affiliées. Elle reçoit aussi des dépôts ou des prêts de certaines de ses filiales qui peuvent avoir des liquidités excédentaires. Elle utilise ces liquidités excédentaires, ou celles qu’elle emprunte, et les prête en aval, à ses filiales ou à ses entreprises affiliées.
+Q. Quelle serait la principale entreprise de cette société de portefeuille?
+R. Je dirais que son entreprise principale consiste à conserver des placements dans ses filiales et qu’une partie de cela consiste à financer ces dernières.
+Q. Vous dites qu’elle profite aussi d’autres placements?
+R. Oui.
+Q. Des revenus de placement? Et d’où proviendraient-ils?
+R. Ces revenus seraient très minimes par rapport à l’activité économique d’A.P. Toldo Holding Corporation. Il pourrait s’agir de fonds bancaires en dépôt, s’il y a des liquidités excédentaires, celles-ci pourraient être investies dans des CPG. Il est possible qu’il y ait de temps à autre quelques titres négociables.
+Q. D’où la société de portefeuille tire-t-elle sa valeur?
+R. De ses filiales[20].
+[32] C’est là la seule preuve que l’appelante a fournie sur ses activités ordinaires. Au sujet de ces dernières, on ne m’a fourni aucune preuve sur des aspects tels que l’identité de ceux qui agissaient pour le compte de l’appelante (qui semble n’avoir aucun employé), le fait de savoir si cette dernière jouait un rôle quelconque dans la gestion du groupe de sociétés et de quelle façon elle exploitait son entreprise alléguée d’activités bancaires.
+[33] L’avocat de l’appelante a déclaré à la Cour que ces éléments de preuve figuraient dans les états financiers non consolidés et consolidés de l’appelante. Je ne suis pas d’accord. En fait, ces états financiers, selon moi, contredisent le témoignage de M. Toldo.
+[34] À mon avis, les états financiers non consolidés de l’appelante ne reflètent pas les activités d’une société qui agissait comme société banquière pour ses entreprises affiliées. L’appelante ne possédait tout simplement pas les ressources financières qui lui auraient permis d’accorder des prêts importants à ces entreprises.
+[35] Je suis conscient que le 31 décembre 2005, avant que l’appelante achète les actions en question et les actions de la filiale, elle avait en main des liquidités et des titres négociables d’un montant d’environ 4,5 millions de dollars. Cependant, il s’agit là d’une somme négligeable si l’on considère que les entreprises affiliées avaient un chiffre d’affaires annuel d’environ 131 millions de dollars[21] et que, le 31 décembre 2005, les filiales détenaient des espèces et des quasi-espèces d’un montant d’environ 160 millions de dollars[22].
+[36] J’ignore pourquoi les entreprises affiliées détenaient autant d’espèces. En fait, l’appelante n’a pas dit à la Cour quelles activités ces entreprises exploitaient réellement au cours des années pertinentes. Mais quelles que soient ces activités, il ressort clairement des états financiers consolidés qu’elles généraient des espèces considérables. En fait, les espèces que détenaient les entreprises affiliées à la fin des années 2005, 2006 et 2007 étaient supérieures à leurs chiffres de ventes annuels.
+[37] Je suis d’avis que, s’il y avait quelqu’un qui était capable d’agir comme société banquière, c’était les entreprises affiliées, et non l’appelante. Les seuls prêts indiqués dans les états financiers non consolidés de l’appelante étaient ceux que cette dernière avait à payer aux entreprises affiliées. Ces prêts ont augmenté de 239 560 $ en 2005 à 22 825 000 $ en 2006, avant de diminuer à 15 485 000 $ en 2007.
+[38] On ne m’a fourni aucune preuve au sujet de l’endroit où l’appelante a dépensé le produit de ces prêts. Il semble toutefois, d’après les états financiers, que l’appelante s’est servie du produit des prêts de 22,8 millions de dollars qu’elle a reçus des entreprises affiliées pour effectuer le paiement en espèces de 20 000 000 $ qui se rapportait aux 50 premières actions en question[23].
+[39] Les états financiers non consolidés de l’appelante indiquent une somme due aux entreprises affiliées de 450 000 $, qui augmente à 1 033 847 $ en 2006 avant de diminuer à 368 395 $. L’appelante n’a pas expliqué à la Cour comment ces montants ont pris naissance. Il ne m’apparaît pas clairement quelle partie des montants, s’il y en a une, représente des prêts et quelle partie des montants, s’il y en a une, représente des créances, dans le cas d’opérations précises.
+[40] J’admets que l’appelante exploitait une entreprise. Cependant, la preuve objective qui m’a été soumise contredit le témoignage de M. Toldo et n’établit pas, même prima facie, que l’appelante exploitait une entreprise consistant à prêter des fonds aux entreprises affiliées ou à une tierce partie quelconque.
+[41] Il aurait fallu, à tout le moins, que l’appelante me fournisse une preuve qu’elle prêtait des fonds de façon régulière et continue. Par exemple, il aurait fallu que je reçoive une preuve portant sur des aspects tels que la fréquence des prêts, lesquelles des entreprises affiliées recevaient les prêts, le système interne qui permettait d’avancer ces prêts, les modalités de remboursement, de même que les taux d’intérêt applicables aux prêts.
+[42] On ne m’a même pas fourni le montant du revenu d’intérêt que l’appelante a gagné.
+[43] Les états financiers non consolidés de l’appelante font état de revenus de deux sources : un revenu de dividendes et d’intérêts et [traduction] « [d’]autres revenus ».
+[44] L’appelante n’a pas informé la Cour de la source de ces [traduction] « autres revenus ». Ceux-ci étaient d’environ 176 000 $ en 2005, avant d’augmenter à environ 756 000 $ en 2006 et de diminuer à environ 400 000 $ en 2007[24].
+[45] Le revenu de dividendes et d’intérêts s’élevait en tout à 733 900 $ en 2005, avant d’augmenter à 1 244 958 $ en 2006 et à 26 765 155 $ en 2007. On ne m’a pas dit quelle part de ces montants était des intérêts et quelle part était des dividendes. Il semble que la majeure partie de la somme de 26,7 millions de dollars reçue en 2007 se composait de dividendes, car M. Toldo a déclaré que l’appelante s’était servie des fonds des entreprises affiliées pour acquitter les billets à ordre.
+[46] Dans le même ordre d’idées, il semble que la majorité des montants reçus en 2005 et en 2006 étaient des dividendes. Les espèces et les titres négociables apparaissant dans les états financiers non consolidés n’étaient pas suffisants pour générer les montants de revenu indiqués dans ces états.
+[47] Cependant, je n’ai tout simplement pas la preuve pour tirer une conclusion concrète.
+[48] Dans son témoignage, M. Toldo a déclaré que l’appelante tirait sa valeur principalement des actions qu’elle détenait dans les entreprises affiliées. Cela concorde avec les bilans non consolidés.
+[49] En me fondant sur la preuve objective qui précède, j’ai conclu que l’appelante est un exemple classique de société de portefeuille dont la fonction principale consiste à détenir des actions dans ses filiales et dont la principale source de revenus est les dividendes découlant de ces actions.
+L’application de la loi aux faits [50] Les dispositions applicables de la Loi, soit le paragraphe 9(1), les alinéas 18(1)a) et b) et les sous-alinéas 20(1)c)(i) et (ii), sont jointes aux présentes en tant qu’annexe A.
+Les intérêts sont-ils déductibles au titre du paragraphe 9(1)? [51] Je traiterai en premier lieu de l’argument de l’appelante selon lequel les intérêts sont déductibles au titre du paragraphe 9(1).
+[52] Dans sa plaidoirie concernant l’article 9, l’avocat de l’appelante a commencé par dire qu’il n’existe aucune règle générale ou absolue qui prescrit que la totalité des paiements d’intérêts soit à titre de capital. Il a déclaré que la déduction des intérêts [traduction] « devrait simplement tomber sous le coup de l’article 9 à titre de simple dépense engagée en vue de tirer un revenu d’une entreprise ou d’un bien ». Quand la Cour lui a demandé d’indiquer à quelle entreprise se rapportaient les paiements d’intérêts, l’avocat a répondu ce qui suit :
+[traduction]
+L’entreprise est liée à celle de la société de portefeuille qui est en litige avec des actionnaires et qui règle ce litige avec l’un des actionnaires dissidents dans le but de se débarrasser d’un problème qu’elle considérerait par ailleurs comme préjudiciable à ses activités. Il s’agit donc de l’entreprise d’une société de portefeuille qui rachète ses propres actions auprès d’un actionnaire dissident en vue de régler le litige entre actionnaires. […][25]
+[53] L’avocat de l’appelante a ensuite noté que l’appelante exploitait des activités bancaires et de financement[26].
+[54] Dans ses observations écrites, l’appelante énonce ainsi l’argument :
+[traduction]
+Les dépenses d’intérêts de [l’appelante] ont été engagées dans le cadre d’une restructuration de société conçue pour régler un litige entre actionnaires et, dans ce contexte, ces dépenses ont été engagées dans le but de protéger les revenus tirés de l’entreprise et de majorer les gains qui seraient attribuables aux actions restantes après le rachat des 100 actions ordinaires [les actions en question] auprès de 2103665.
+[…]
+Le contribuable soutient que les paiements n’étaient pas à titre de capital, au sens où cette expression est employée à l’alinéa 18(1)b)[27].
+[55] Le paragraphe 9(1) dispose que le revenu qu’un contribuable tire d’une entreprise ou d’un bien pour une année d’imposition est le bénéfice qu’il en tire pour cette année. Cependant, l’alinéa 18(1)b) prévoit notamment que, dans le calcul du revenu qu’il tire d’une entreprise ou d’un bien, le contribuable ne peut déduire un montant quelconque à l’égard d’une dépense en capital, d’une perte en capital ou d’un remplacement de capital, ou d’un paiement à titre de capital.
+[56] L’alinéa 20(1)c) comporte des dispositions précises qui autorisent à déduire des montants d’intérêt. Comme l’a fait remarquer la Cour suprême du Canada dans l’arrêt Gifford c. Canada[28], cet alinéa ne constitue pas un code complet au sujet de la déductibilité des intérêts. La Cour suprême a déclaré :
+[…] Lorsque les intérêts ne représentent pas un paiement « au titre du capital », ils peuvent être déduits dans la mesure où ils satisfont aux autres exigences, comme celles énoncées aux al. 8(1)f) ou 18(1)a), et sauf disposition contraire de la Loi[29].
+[57] Il peut y avoir des situations dans lesquelles les intérêts sont déductibles lorsqu’un contribuable calcule son bénéfice pour les besoins de l’article 9, mais la situation de fait qui m’est soumise n’en fait pas partie.
+[58] Les intérêts n’ont pas été payés à l’égard de fonds empruntés dans le cadre d’une entreprise de prêt d’argent. J’ai conclu qu’en fait, l’appelante n’avait pas pour entreprise de prêter de l’argent.
+[59] En outre, je ne souscris pas à l’argument de l’appelante selon lequel cette dernière a acheté les actions en question d’un actionnaire dissident en vue de protéger ses revenus en réglant un litige entre actionnaires.
+[60] Les revenus de l’appelante dépendaient principalement des activités des entreprises qui lui versaient des dividendes : les entreprises affiliées. On ne m’a fourni aucune preuve indiquant comment le litige intéressant un actionnaire qui ne détenait que 12,5 % des actions donnant droit de vote de l’appelante et que 5 % des droits de vote a eu une incidence négative sur les activités des entreprises affiliées ou de l’appelante.
+[61] L’achat des actions en question en vue de leur annulation n’était pas lié à l’entreprise qu’exploitait l’appelante. Cet achat représentait plutôt une importante dépense non récurrente. À mon avis, le paiement était à titre de capital.
+Les intérêts payés sur les billets à ordre sont-ils déductibles au titre du sous‑alinéa 20(1)c)(ii)? [62] L’avocat de l’appelante a fait valoir que les paiements d’intérêts sur les billets à ordre étaient déductibles au titre du sous-alinéa 20(1)c)(ii) de la Loi, car l’appelante avait acquis les actions en question dans le but de tirer un revenu d’une entreprise. Il a qualifié cette entreprise d’entreprise bancaire et de financement[30].
+[63] Par ailleurs, l’appelante a fait valoir que la Cour devrait faire droit à la déduction des intérêts en se fondant sur la théorie du « comblement de la perte » qui est énoncée dans la décision Trans-Prairie Pipelines Ltd. v. M.N.R.[31] ainsi que dans la décision Penn Ventilator Canada Ltd v. The Queen (« Penn Ventilator Canada »)[32].
+[64] Le sous-alinéa 20(1)c)(ii) autorise à déduire des intérêts dont la déduction serait par ailleurs refusée au titre des alinéas 18(1)a) et 18(1)b). Cette disposition comporte les éléments suivants :
+− le montant doit être payé au cours de l’année ou payable pour l’année;
+− le montant doit être payé en exécution d’une obligation légale de verser des intérêts sur une somme payable pour un bien acquis en vue d’en tirer un revenu ou de tirer un revenu d’une entreprise;
+− le revenu tiré du bien doit être non exonéré, et ce bien ne doit pas être un intérêt dans une police d’assurance-vie.
+[65] L’intimée a admis que les intérêts en question avaient été payés ou étaient payables dans l’année pertinente.
+[66] L’avocat de l’appelante a admis que cette dernière n’avait pas acquis les actions en question en vue d’en tirer un revenu[33]. En fait, l’appelante a annulé ces actions.
+[67] L’avocat de l’appelante a fait valoir que les intérêts payés sur les billets à ordre étaient déductibles au titre du sous-alinéa 20(1)c)(ii), car l’appelante avait fait l’acquisition des actions en question en vue de tirer un revenu de son entreprise. Il faisait valoir, semble-t-il, que la Cour devrait envisager une utilisation indirecte des actions en question.
+[68] Je suis d’avis que, pour les besoins du sous-alinéa 20(1)c)(ii), l’utilisation directe d’actions d’une société que la société acquiert en vue de procéder à leur annulation ne peut jamais avoir pour but de tirer un revenu d’une entreprise. Cela ne peut tout simplement pas se faire si les actions sont annulées après que la société les a achetées.
+[69] Cependant, dans la décision Penn Ventilator Canada, la Cour a fait droit à une déduction effectuée au titre du sous-alinéa 20(1)c)(ii) qui reposait sur une utilisation indirecte d’actions ordinaires achetées en vue de leur annulation. Cet appel mettait en cause un litige entre actionnaires intéressant plusieurs sociétés ainsi que d’autres entités juridiques. En vue de régler ce litige, Penn Ventilator avait fait l’achat de certaines de ses actions ordinaires en vue de les annuler. Au moment de l’achat de ces actions ordinaires, Penn Ventilator avait payé une part importante du prix d’achat par l’émission d’un billet à ordre aux vendeurs.
+[70] Dans l’affaire Penn Ventilator Canada, la Cour a été saisie d’éléments de preuve détaillés sur l’effet négatif marqué qu’avait eu le litige entre actionnaires sur la capacité qu’avait Penn Ventilator d’exploiter son entreprise. Par exemple, la Cour a analysé en quoi les demandes des actionnaires dissidents étaient une menace pour les liquidités de Penn Ventilator et de quelle façon les cadres supérieurs du groupe de sociétés avaient consacré une part importante de leurs journées de travail au litige connexe.
+[71] La décision Penn Ventilator Canada repose sur une situation de fait assez singulière. À mon avis, ce n’est que dans une situation de fait exceptionnelle, comme celle dont il est question dans Penn Ventilator Canada, que la Cour devrait songer à une utilisation indirecte au moment d’appliquer le sous-alinéa 20(1)c)(ii).
+[72] Ce point de vue concorde avec l’arrêt qu’a rendu la Cour suprême du Canada dans l’affaire Bronfman Trust[34]. La Cour suprême a fait remarquer, au moment d’appliquer le sous-alinéa 20(1)c)(i), que les tribunaux ne devraient pas faire abstraction de l’utilisation directe qu’un contribuable fait de fonds empruntés[35]. Cependant, elle a aussi reconnu qu’il peut y avoir « […] des circonstances exceptionnelles dans lesquelles, selon une appréciation réaliste des opérations d'un contribuable, il pourrait convenir, en raison d'un effet indirect sur sa capacité de gagner des revenus, de lui permettre de déduire l'intérêt sur les fonds empruntés pour un usage inadmissible […][36]. »
+[73] À mon avis, ces commentaires valent aussi pour le sous-alinéa 20(1)c)(ii). La Cour ne devrait pas faire abstraction de l’utilisation directe que l’on fait du bien acquis. Cependant, dans des circonstances exceptionnelles, il peut être approprié que la Cour fasse droit à la déduction à cause d’un effet indirect que l’acquisition du bien a eu sur la capacité qu’a le contribuable de gagner des revenus.
+[74] La question à laquelle il me faut répondre est la suivante : de telles circonstances exceptionnelles existent-elles dans le présent appel?
+[75] Si j’ai bien saisi l’argument qu’invoque l’avocat de l’appelante, ce dernier déclare que, dans le présent appel, le règlement du litige d’actionnaires avec Mme Curlin a eu l’effet indirect requis sur la capacité qu’avait l’appelante de gagner des revenus. Il fait valoir aussi que je devrais faire droit à la déduction des intérêts selon la théorie du « comblement de la perte ».
+[76] L’argument qu’invoque l’avocat au sujet du litige entre actionnaires est semblable à celui qu’il invoque à propos du paragraphe 9(1). Il fait valoir que l’appelante avait acquis les actions en question en vue de tirer un revenu ou de protéger des revenus dans le cadre de l’entreprise et du reste des actions en circulation de la société.
+[77] Comme je l’ai signalé plus tôt, je n’admets pas que les actions en question aient été achetées en vue de protéger les revenus de l’appelante. Contrairement à la Cour dans la décision Penn Ventilator Canada, on m’a fourni fort peu d’éléments de preuve sur les activités de l’appelante ainsi que sur l’effet que le litige entre actionnaires avait eu sur ses activités.
+[78] L’avocat de l’appelante a fait remarquer qu’il faudrait que je prenne en considération les activités consolidées de l’appelante et des entreprises affiliées. Mais on ne m’a pas dit quelles étaient les activités qu’exploitaient les entreprises affiliées ou quelle incidence le litige entre actionnaires avait eue sur ces activités.
+[79] En résumé, le litige entre actionnaires qui mettait en cause Mme Curlin n’était pas une circonstance exceptionnelle.
+[80] La théorie du « comblement de la perte » n’aide pas la cause de l’appelante. Le fondement de cette théorie a été résumé par Bill S. Maclagan dans son document intitulé « Interest Deductibility – an Update » [Le point sur la déductibilité des intérêts], qu’il a présenté lors de la Conférence sur la fiscalité de la Colombie-Britannique de 2009 :
+[traduction]
+[…] L’idée, dans ces affaires, est que l’emprunt (ou l’acquisition d’actions et l’émission d’un billet) comble simplement la perte qui resterait si des éléments d’actif étaient vendus, si des fonds étaient ensuite restitués aux actionnaires sous la forme d’un remboursement de capital ou d’un paiement de dividendes et si la société entreprenait alors d’emprunter des fonds et de les réinvestir dans son entreprise.
+[81] La difficulté, pour l’appelante, est qu’au moment où cette dernière a racheté les 50 actions en question pour lesquelles elle avait émis les billets à ordre, elle n’avait que 200 $ de capital déclaré à l’égard des actions ordinaires et aucun bénéfice non réparti. En bref, il n’y avait aucun montant de capital élevé à rembourser et aucun bénéfice non réparti à payer. Je n’ai donc pas à examiner s’il existait un scénario de « comblement de perte » qui constituerait une circonstance exceptionnelle.
+Les intérêts payés sur le prêt de la Banque de Montréal sont-ils déductibles au titre du sous-alinéa 20(1)c)(i)? [82] L’appelante n’a pas fait expressément mention du sous-alinéa 20(1)c)(i). Toutefois, elle estime manifestement qu’elle a le droit de déduire un montant au titre de ce sous-alinéa à l’égard des intérêts à payer sur le prêt de la Banque de Montréal, dans la mesure où le produit de ce prêt a servi à rembourser les billets à ordre.
+[83] Le sous-alinéa 20(1)c)(i) s’applique aux paiements d’intérêt sur de l’argent emprunté et utilisé en vue de tirer un revenu d’une entreprise ou d’un bien.
+[84] Dans l’arrêt Shell Canada Ltd. c. Canada[37], la Cour suprême du Canada a souligné qu’il est nécessaire de répondre aux quatre conditions suivantes :
+[…] La disposition comporte quatre conditions: (1) la somme doit être payée au cours de l’année ou être payable pour l’année au cours de laquelle le contribuable cherche à la déduire; (2) elle doit l’être en exécution d’une obligation légale de verser des intérêts sur l’argent emprunté; (3) celui-ci doit être utilisé en vue de tirer un revenu non exonéré d’une entreprise ou d’un bien; et (4) la somme doit être raisonnable compte tenu des trois premiers critères[38].
+[85] La seule question dont la Cour est saisie consiste à savoir si la somme d’environ 7 550 000 $ que l’appelante a empruntée auprès de la Banque de Montréal en 2007 en liaison avec le remboursement des actions en question a été utilisée en vue de tirer un revenu non exonéré d’une entreprise ou d’un bien.
+[86] L’appelante a emprunté la somme d’environ 7 550 000 $ auprès de la Banque de Montréal pour acquitter les billets à ordre qu’elle avait émis au moment de l’achat des actions en question en vue de leur annulation. En fait, elle n’a pas utilisé directement les fonds empruntés pour tirer un revenu de son entreprise ou d’un bien.
+[87] Les commentaires que j’ai formulés au sujet de l’absence, dans le présent appel, de circonstances exceptionnelles qui permettraient de déduire des intérêts au titre du sous-alinéa 20(1)c)(ii) s’appliquent également à la déduction d’intérêts au titre du sous-alinéa 20(1)c)(i).
+[88] La théorie du « comblement de la perte » ne s’applique pas, et l’appelante n’a pas présenté à la Cour d’autres faits qui permettraient de déduire les intérêts sur les fonds empruntés en se fondant sur une utilisation indirecte de ces fonds.
+[89] Pour les motifs qui précèdent, j’ai conclu que les intérêts à payer sur les billets à ordre ainsi que sur la partie applicable du prêt de la Banque de Montréal ne sont pas déductibles.
+Les honoraires professionnels [90] On m’a fourni fort peu d’éléments de preuve sur les honoraires professionnels en litige.
+[91] Pour établir la cotisation de l’appelante, le ministre a fait les hypothèses suivantes :
+− en 2006, l’appelante a cherché à déduire la somme de 51 963 $ en honoraires juridiques et professionnels;
+− sur ce montant, l’appelante a payé la somme de 35 567,69 $ pour des conseils et des services juridiques concernant des activités de restructuration de la société;
+− en 2007, l’appelante a cherché à déduire la somme de 32 560 $ en honoraires juridiques et professionnels;
+− sur ce montant, l’appelante a payé la somme de 15 627,33 $ pour des conseils et des services juridiques concernant des activités de restructuration de la société[39].
+[92] L’appelante n’a fourni aucune preuve pour contester ces hypothèses. M. Toldo a déclaré que l’appelante avait engagé des honoraires juridiques en rapport avec l’achat des actions en question et le prêt obtenu de la Banque de Montréal. Il a également déclaré que l’appelante avait engagé des honoraires comptables en rapport avec l’achat des actions en question[40].
+[93] M. Toldo a déclaré que l’Agence du revenu du Canada n’a pas indiqué quelle partie concrète d’un état de compte comptable ou juridique précis avait été refusée à titre de déduction. Il n’est pas clair pourquoi l’appelante, si elle jugeait que cette information était importante pour son appel, n’a pas obtenu cette dernière lors des interrogatoires préalables. Quoi qu’il en soit, l’avocat de l’appelante a informé la Cour que sa cliente ne contestait pas le montant des dépenses refusées.
+[94] L’avocat de l’appelante a fait valoir que cette dernière avait engagé les honoraires professionnels dans le cadre du financement de ses activités d’entreprise et qu’elle était en droit de les déduire au titre du paragraphe 9(1) de la Loi.
+[95] Les avocates de l’intimée ont fait valoir que les dépenses étaient à titre de capital.
+[96] Je suis d’accord avec les avocates de l’intimée. Les honoraires professionnels ont été engagés dans le cadre de l’acquisition d’un bien en capital : les actions en question. Les honoraires étant associés à une opération en capital, il faut donc reconnaître qu’ils ont été engagés à titre de capital[41].
+[97] Pour les motifs qui précèdent, l’appel est rejeté, avec dépens en faveur de l’intimée.
+Signé à Ottawa, Canada, ce 19e jour de décembre 2013.
+« S. D’Arcy »
+Juge D’Arcy
+Traduction certifiée conforme
+ce 1er jour d’avril 2014.
+Mario Lagacé, jurilinguiste
+Annexe A
+9. (1) Revenu— Sous réserve des autres dispositions de la présente partie, le revenu qu’un contribuable tire d’une entreprise ou d’un bien pour une année d’imposition est le bénéfice qu’il en tire pour cette année.
+[…]
+18. (1) Exceptions d’ordre général — Dans le calcul du revenu du contribuable tiré d’une entreprise ou d’un bien, les éléments suivants ne sont pas déductibles :
+a) Restriction générale — les dépenses, sauf dans la mesure où elles ont été engagées ou effectuées par le contribuable en vue de tirer un revenu de l’entreprise ou du bien;
+b) Dépense ou perte en capital — une dépense en capital, une perte en capital ou un remplacement de capital, un paiement à titre de capital ou une provision pour amortissement, désuétude ou épuisement, sauf ce qui est expressément permis par la présente partie;
+[…]
+20. (1) Malgré les alinéas 18(1)a), b) et h), sont déductibles dans le calcul du revenu tiré par un contribuable d’une entreprise ou d’un bien pour une année d’imposition celles des sommes suivantes qui se rapportent entièrement à cette source de revenus ou la partie des sommes suivantes qu’il est raisonnable de considérer comme s’y rapportant :
+[…]
+c) Intérêts — la moins élevée d’une somme payée au cours de l’année ou payable pour l’année (suivant la méthode habituellement utilisée par le contribuable dans le calcul de son revenu) et d’une somme raisonnable à cet égard, en exécution d’une obligation légale de verser des intérêts sur :
+(i) de l’argent emprunté et utilisé en vue de tirer un revenu d’une entreprise ou d’un bien (autre que l’argent emprunté et utilisé pour acquérir un bien dont le revenu serait exonéré ou pour contracter une police d’assurance-vie),
+(ii) une somme payable pour un bien acquis en vue d’en tirer un revenu ou de tirer un revenu d’une entreprise (à l’exception d’un bien dont le revenu serait exonéré ou à l’exception d’un bien représentant un intérêt dans une police d’assurance-vie),
+RÉFÉRENCE : 2013 CCI 416
+No DU DOSSIER DE LA COUR. : 2011-2137(IT)G
+INTITULÉ : A.P. TOLDO HOLDING CORPORATION c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 5 février 2013
+MOTIFS DU JUGEMENT : L’honorable juge Steven K. D'Arcy
+DATE DU JUGEMENT : Le 19 décembre 2013
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Vern Krishna, c.r.
+Avocates de l’intimée :
+Me Elizabeth Chasson
+Me Rishma Bhimji
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Vern Krishna, c.r.
+Cabinet : Borden Ladner Gervais S.E.N.C.R.L., S.R.L.
+Ottawa, Canada
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pièces A-4 et A-5.
+[2] Pièce A-3.
+[3] Pièces A-4 et A-5.
+[4] Transcription, témoignage d’Anthony Toldo, pages 7 et 8.
+[5] Pièce A-4.
+[6] Pièces A-3, A-6 et R-3.
+[7] Pièce A-10; transcription, témoignage d’Anthony Toldo, page 18.
+[8] Pièce R-3.
+[9] Ibidem.
+[10] Ibidem.
+[11] Pièce A-4, page 4.
+[12] Pièce A-4, page 4.
+[13] Pièce A-8, page 7.
+[14] Pièce A-4, page 4.
+[15] Pièce A-8, page 11.
+[16] Transcription, témoignage d’Anthony Toldo, pages 32 et 33, pièces A-11 et A-12.
+[17] Transcription, témoignage d’Anthony Toldo, page 32.
+[18] Ibidem., pages 32 et 33.
+[19] Transcription, témoignage d’Anthony Toldo, pages 5 et 6.
+[20] Ibidem., pages 6 et 8.
+[21] Pièce A-8, page 6, État consolidé des résultats.
+[22] Pièce A-8, page 7, État consolidé des flux de trésorerie, et page 4, Bilan consolidé.
+[23] Pièce A-8, page 7, État consolidé des flux de trésorerie, et page 11, Notes accompagnant les états financiers consolidés.
+[24] Pièce A-4, page 5 et pièce A-5, page 5.
+[25] Transcription, plaidoirie, pages 82-83.
+[26] Ibidem., page 85.
+[27] Observations écrites de l’appelante, paragraphes 57 et 59.
+[28] 2004 CSC 15, [2004] 1 R.C.S. 411, 2004 DTC 6120.
+[29] Ibidem, paragraphe 37.
+[30] Transcription, observations, pages 100 et 101.
+[31] 70 DTC 6351. (R.C. de l’É..), page 6354.
+[32] 2002 DTC 1498 (CCI), paragraphe 51.
+[33] Transcription, page 100.
+[34] Bronfman Trust c. La Reine, [1987] 1 R.C.S. 32, 87 DTC 5059.
+[35] Ibidem, page 48 R.C.S. (5065 DTC).
+[36] Ibidem, page 54 R.C.S. (5067 DTC).
+[37] [1999] 3 R.C.S. 622.
+[38] Ibidem, paragraphe 28.
+[39] Réponse, alinéas 8 mm) à pp).
+[40] Transcription, témoignage de M. Toldo, pages 35 et 36.
+[41] Voir Potash Corp. of Saskatchewan Inc c. La Reine, 2011 CCI 213, 2011 DTC 1163, au paragraphe 87.

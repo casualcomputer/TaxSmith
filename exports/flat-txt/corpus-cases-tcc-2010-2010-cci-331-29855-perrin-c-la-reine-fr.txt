@@ -1,0 +1,123 @@
+Title: Perrin c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29855/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-331-29855-perrin-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-06-17
+
+# Perrin c. La Reine
+
+- Citation: 2010 CCI 331
+- Decision date: 2010-06-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6412, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Perrin c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-06-17
+Référence neutre
+2010 CCI 331
+Numéro de dossier
+2009-3423(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009­3423(IT)I
+ENTRE :
+SEAN PERRIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 11 juin 2010 à Kingston (Ontario)
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Jack Warren
+____________________________________________________________________
+JUGEMENT
+L’appel d’une cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2007 est rejeté. Chaque partie assumera ses propres frais.
+Signé à Ottawa, Canada, ce 17e jour de juin 2010.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 6e jour d’août 2010.
+Marie­Christine Gervais, traductrice
+Référence : 2010 CCI 331
+Date : 20100617
+Dossier : 2009­3423(IT)I
+ENTRE :
+SEAN PERRIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Woods
+[1] La question en litige dans le présent appel est celle de savoir si l’appelant, Sean Perrin, a le droit de déclarer un de ses enfants comme personne à charge aux fins du calcul de son impôt à payer en vertu de la Loi de l’impôt sur le revenu (la « Loi ») pour l’année d’imposition 2007.
+[2] D’après la réponse déposée par l’intimée, la question est pertinente aux fins du crédit d’impôt personnel prévu au paragraphe 118(1) de la Loi et à d’autres fins qui n’ont pas été précisées.
+[3] Puisque les arguments à l’audience n’ont porté que sur le crédit d’impôt personnel prévu au paragraphe 118(1), je n’examinerai que cette question.
+[4] Monsieur Perrin soutient qu’il a droit au crédit d’impôt prévu à l’alinéa 118(1)b) pour un de ses deux enfants parce qu’il était séparé de son épouse pendant l’année pertinente et que les enfants vivaient avec lui la moitié du temps. Il a précisé que son épouse et lui avaient convenu que chacun déclarerait un des enfants comme personne à charge.
+[5] L’intimée reconnaît que M. Perrin a satisfait aux conditions énoncées à l’alinéa 118(1)b).
+[6] Cependant, l’intimée fait valoir que l’alinéa 118(1)b) ne s’applique pas parce que M. Perrin était tenu de payer une pension alimentaire pour enfants à son épouse. La disposition pertinente – le paragraphe 118(5) – prévoit ce qui suit :
+118(5) Aucun montant n’est déductible en application du paragraphe (1) relativement à une personne dans le calcul de l’impôt payable par un particulier en vertu de la présente partie pour une année d’imposition si le particulier, d’une part, est tenu de payer une pension alimentaire au sens du paragraphe 56.1(4) à son époux ou conjoint de fait ou ex-époux ou ancien conjoint de fait pour la personne et, d’autre part, selon le cas :
+a) vit séparé de son époux ou conjoint de fait ou ex-époux ou ancien conjoint de fait tout au long de l’année pour cause d’échec de leur mariage ou union de fait;
+b) demande une déduction pour l’année par l’effet de l’article 60 au titre de la pension alimentaire versée à son époux ou conjoint de fait ou ex-époux ou ancien conjoint de fait.
+[Non souligné dans l’original.]
+[7] Monsieur Perrin soutient que le paragraphe 118(5) ne s’applique pas dans son cas parce qu’il n’est pas tenu de payer une pension alimentaire pour enfants. Il prétend que le terme « tenu » donne à penser que la pension alimentaire est régie par une ordonnance judiciaire.
+[8] Je ne suis pas d’accord. L’interprétation proposée par l’appelant ne donne pas au terme « tenu » son sens ordinaire. Je conviens que le terme donne à penser qu’il y a un ordre, mais pas qu’il suppose que l’ordre doit être donné par un tribunal.
+[9] En l’espèce, M. Perrin était tenu de payer une pension alimentaire pour enfants mensuelle pendant l’année d’imposition pertinente en vertu d’un accord de séparation écrit conclu le 14 novembre 2006. L’accord a été préparé par un avocat et il n’y a aucune raison de penser qu’il ne lie pas les parties et qu’il n’est pas susceptible d’exécution forcée en vertu de la loi.
+[10] À mon avis, M. Perrin était tenu de payer la pension alimentaire pour enfants prévue par l’accord.
+[11] Monsieur Perrin prétend également que le paragraphe 118(5) ne s’applique pas parce que son épouse et lui se versent mutuellement une pension alimentaire pour enfants conformément aux lignes directrices fédérales sur les pensions alimentaires pour enfants. Il soutient qu’il en est ainsi parce que chacun des parents gagne un revenu donnant lieu à une obligation de verser une pension alimentaire pour enfants qui est prévue par les lignes directrices.
+[12] La situation dans laquelle les deux époux paient une pension alimentaire pour enfants est expressément prévue au paragraphe 118(5.1) de la Loi, lequel est entré en vigueur en 2007 et accorderait le redressement demandé par l’appelant si les deux conjoints payaient effectivement une pension alimentaire pour enfants. À l’audience, ni l’une ni l’autre des parties n’a invoqué cette disposition, qui est reproduite ci-dessous.
+118(5.1) À supposer que la présente loi s’applique compte non tenu du présent paragraphe, dans le cas où personne n’a droit, par le seul effet du paragraphe (5), à la déduction prévue aux alinéas (1)b) ou b.1) pour une année d’imposition relativement à un enfant, le paragraphe (5) ne s’applique pas relativement à l’enfant pour l’année en cause.
+[13] Cette disposition vise à éviter l’application sévère du paragraphe 118(5) lorsque deux époux paient une pension alimentaire pour le même enfant au cours de l’année pertinente. Elle a pour but de permettre à l’un des époux de réclamer le crédit d’impôt prévu à l’alinéa 118(1)b) dans une telle situation.
+[14] Cependant, la disposition ne s’applique pas en l’espèce, parce que seul M. Perrin était tenu de payer une pension alimentaire pour enfants pendant l’année d’imposition 2007. Les clauses pertinentes de l’accord de séparation sont énoncées ci-dessous :
+[TRADUCTION]
+10.1 À compter de la vente du foyer conjugal et, par la suite, le 1er de chaque mois subséquent, l’époux paiera à l’épouse, pour subvenir aux besoins des enfants, la somme de 376,50 $ par mois par enfant, soit un total de 753 $ (en fonction d’un salaire de 50 000 $) par mois […].
+10.2 L’époux et l’épouse conviennent d’établir la pension alimentaire pour enfants en se fondant sur les lignes directrices fédérales.
+10.3 (1) L’époux reconnaît qu’il paiera le plein montant de la pension alimentaire pour enfants que prévoient les lignes directrices fédérales, malgré le fait que la garde est partagée également. La présente clause s’appliquera à toute modification de la pension alimentaire pour enfants fondée sur une fluctuation du revenu de l’époux.
+[15] Les dispositions ci-dessus donnent fortement à penser que seul M. Perrin était tenu de payer une pension alimentaire pour enfants pour les deux enfants pendant l’année d’imposition 2007. Vu la preuve qui a été présentée, je ne suis pas convaincue que les lignes directrices fédérales permettent d’obtenir un résultat différent.
+[16] Pour en arriver à cette conclusion, j’ai examiné la décision rendue par la juge Lamarre dans le jugement Rabb c. La Reine, 2006 CCI 140, 2006 DTC 2674, qui n’a pas été mentionné à l’audience. Dans cette affaire, chacun des parents avait la garde d’un des enfants; il a été décidé que chacun des parents était tenu de payer une pension alimentaire pour enfants en vertu des lignes directrices fédérales. Il est possible de faire une distinction entre ces faits et ceux de l’espèce, parce que M. Perrin et son épouse avaient la garde partagée des deux enfants.
+[17] Monsieur Perrin soutient également que la loi doit être appliquée de façon équitable afin que son épouse et lui puissent chacun réclamer le crédit d’impôt pour un de leurs enfants, comme ils en avaient convenu.
+[18] La Cour n’a pas le pouvoir d’accorder un tel redressement. C’est le législateur qui a le pouvoir d’adopter les lois fiscales, tandis que la Cour a seulement compétence pour s’assurer que les cotisations d’impôt sur le revenu sont conformes à ces lois. Le législateur n’a pas consenti le crédit d’impôt pour personne à charge aux personnes qui sont dans la situation de M. Perrin; c’est la prérogative du législateur d’en décider ainsi.
+[19] L’appel sera rejeté.
+Signé à Ottawa, Canada, ce 17e jour de juin 2010.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 6e jour d’août 2010.
+Marie­Christine Gervais, traductrice
+RÉFÉRENCE : 2010 CCI 331
+NO DU DOSSIER DE LA COUR : 2009­3423(IT)I
+INTITULÉ : SEAN PERRIN et
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Kingston (Ontario)
+DATE DE L’AUDIENCE : Le 11 juin 2010
+MOTIFS DU JUGEMENT : L’honorable juge J. M. Woods
+DATE DU JUGEMENT : Le 17 juin 2010
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Jack Warren
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : s.o.
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

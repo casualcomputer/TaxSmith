@@ -1,0 +1,167 @@
+---
+title: "Fleming School of Dance Limited v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28052/index.do"
+last_modified: "2007-10-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 651"
+citation2: ""
+neutral_citation: "2007 TCC 651"
+decision_date: "2007-10-24"
+language: "en"
+item_id: "28052"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1572
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:36:46.368000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "876431c2c82645b1fb180de33329698b66e15801d018414f686c74d2509947c7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Fleming School of Dance Limited v. The Queen
+
+- Citation: 2007 TCC 651
+- Decision date: 2007-10-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1572, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fleming School of Dance Limited v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-10-24
+Neutral citation
+2007 TCC 651
+File numbers
+2006-3283(GST)I
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2006-3283(GST)I
+BETWEEN:
+FLEMING SCHOOL OF DANCE LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 9, 2007, at Toronto, Ontario.
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Counsel for the Appellant:
+Douglas D. Langley
+Counsel for the Respondent:
+Nimanthika Kaneira
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed, without costs, and the assessment number 08GP0104971 dated May 5, 2005 is vacated.
+Signed at Halifax, Nova Scotia, this 24th day of October 2007.
+“Wyman W. Webb”
+Webb J.
+Citation: 2007TCC651
+Date: 20071024
+Docket: 2006-3283(GST)I
+BETWEEN:
+FLEMING SCHOOL OF DANCE LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb J.
+[1] The Appellant has operated a dance school in Oakville, Ontario since 1977. The Appellant was assessed for unremitted GST in 2005 in relation to the period from January 1, 1995 to June 30, 2003. The total amount of net tax that was assessed against the Appellant under the Excise Tax Act (“Act”) was $123,597.38 which was assessed on the basis that the Appellant should have collected GST on the amount charged for all of its classes. The issue in this case is whether the Appellant was a vocational school for the purposes of paragraph 1 of Part III of Schedule V to the Act and therefore could have relied on the exemption for exempt supplies made by vocational schools as provided in Part III of Schedule V to the Act.
+[2] Section I of Part III of Schedule V to the Act defines “vocational school” as follows:
+“vocational school” means an organization that is established and operated primarily to provide students with correspondence courses, or instruction in courses, that develop or enhance students’ occupational skills.
+[3] For supplies made prior to 1997, the definition of “vocational school” included “an educational institution that is certified by the Minister of Employment and Immigration for the purposes of subsection 118.5(1) of the Income Tax Act”. The Appellant was so certified by a letter dated February 25, 1992 from Employment and Immigration (Canada) and therefore was a vocational school throughout 1995 and 1996 without having to consider the establishment and operation of the Appellant. For the other periods under appeal the issue in this case is whether the Appellant was not only established but also operated primarily to provide students with instruction in courses that developed or enhanced the students’ occupational skills. The occupational skills in question were the skills of professional dancers, dance teachers or theatre performers.
+[4] The school had students of various ages. For most of the years in question the youngest students would be age 4. The Appellant started teaching 3 year olds in 2002. The graduating level for the Appellant was when students would be leaving high school at age 18. Each year there would be approximately 400 to 500 students taking classes with the Appellant.
+[5] The types of dance that were taught by the Appellant were classical ballet, modern dance, jazz and tap and as well the Appellant had classes in musical theatre, singing and acting. The school followed the syllabus of the Imperial Society of Teachers of Dancing and the Royal Academy of Dance in its classical ballet program. For the modern dance, jazz and tap program the school followed the syllabus prepared by the Imperial Society of Teachers of Dancing. Each of these societies had various levels and would issue certificates when the students passed the examinations for a particular level. Passing the examination for a particular level would confirm that the student had attained that level. Approximately 80 to 90 percent of the students at the school would take the examinations set by either the Imperial Society of Teachers of Dancing or the Royal Academy of Dance. Students would start taking the examinations when they were 6 years old and, depending upon the student, it could take two years before a student would be prepared to take an examination for a particular level.
+[6] Students who attended the school have gone on to have careers as professional dancers. As noted in the brochure published by the Appellant:
+Currently students trained at the school are with the National Ballet of Canada, Frankfurt Ballet, Anne of Green Gables in Charlottetown and have also performed in major London, New York and Toronto productions.
+[7] Two of the former students who are now working as dance teachers testified during the hearing. One of the former students had taken classes for 12 years with the Appellant and the other one had taken classes for 15 years with the Appellant.
+[8] The test for determining whether the Appellant was a vocational school for the purposes of paragraph 1 of Part III of Schedule V to the Act is whether the Appellant was established and operated primarily to provide students with instruction in courses that developed or enhanced the students’ occupational skills.
+[9] In the Canadian Oxford Dictionary, second edition, the word “primary” is defined as follows:
+Of the first importance; chief
+[10] In Burger King Restaurants of Canada Inc. v. The Queen 2000 DTC 6061, [2000] 2 C.T.C. 1, the Federal Court of Appeal made the following comments in relation to the test that should be used to determine whether the buildings in that case were “used primarily for the purpose of manufacturing or processing goods for sale”:
+14 In accordance with Mother's Pizza, use of the space in the buildings is the most important consideration in determining the use primarily made of the buildings. However, that does not exclude other considerations and we are prepared to assume, without deciding, that in a case such as this, a qualitative assessment is also relevant. See Gulf Canada Resources Ltd. v. R.
+15 However, the qualitative evidence must be sufficiently persuasive and must be capable of being analysed in such a way as to cause the Court to displace the result of the quantitative space test.
+[11] The issue in this case is not the use of a particular property but the establishment and operation of an organization. This case does suggest that qualitative factors could displace quantitative factors in determining if a building is used primarily for a particular purpose and presumably also to determine if an organization is operated primarily in a certain manner.
+[12] Counsel for the Respondent had submitted that the Appellant did not qualify as a vocational school since only a very small percentage of the students who were attending the course actually were employed as professional dancers or as dance teachers. The Respondent had submitted that although the school had been operating since 1977 the schedule produced by the Appellant only showed that less than 30 students had gone on to either dance professionally or to teach dance. This is a quantitative analysis based on the success of the graduates in finding employment. However, in my opinion, the test of whether the Appellant was established and operated primarily to provide students with instructions in courses that develop or enhance students’ occupational skills cannot be determined based on success of its graduates in finding employment. Whether any particular graduate would be able to obtain employment in this particular occupation is beyond the control of the Appellant. It is based on the demands of the market place and the skill of the particular student. It could not have been intended that a particular school could only determine whether it was a vocational school after it was able to determine how many of its graduates had obtained employment. The Appellant would be a vocational school if it was established and operated primarily to provide the students with the required courses and the success of its students in obtaining employment in the field of study is not a requirement of this provision.
+[13] As well since the test is applied to both the establishment and the operation of the organization, any test based on numbers would not be relevant in the application of the part of the test related to the establishment of the school. When the organization is established there are no students and hence no relevant numbers to determine the reason for the establishment of the school. The test related to the establishment of the school would have to be based on the primary reasons as stated by the individual or individuals founding the school.
+[14] The Appellant was founded by Virginia Fleming who was an extremely credible witness and I find that her testimony was entirely credible. She has an extensive background in dance. She started when she was 7 years old although she did not start serious training until she was 14. She studied at dance schools in England. She is a Fellow and an Examiner of the Imperial Society of Teachers of Dancing and a Member of and a Registered Teacher with the Royal Academy of Dance. She did some professional dancing and teaching before she started her own school.
+[15] Virginia Fleming, who was also the Director and the President of the Appellant, stated in her testimony that:
+Every child that came into the school was trained as if she was going to perform or teach or use dance in some way in a profession. That would depend very much eventually on her ability or her ultimate desire.
+[16] Therefore the school was operated as if every person attending would eventually use the skills acquired in some occupation. As well, Virginia Fleming testified that the school was promoted as “a serious training school that encourages children to go into the profession if they desire that”. The brochure published by the Appellant confirms this by stating that:
+The Fleming School of Performing Arts (formerly the Fleming School of Dance) was founded in 1977 to provide students with a solid foundation in various forms of dance under the direction of highly qualified teachers. Courses in acting and musical theatre were added later to round out the training required for a professional career in Theatre.
+The brochure, as noted above, then cites the professional accomplishments of some of its former students. The brochure also states that:
+Students will be encouraged to take examinations in the ISTD and RAD work. This enables a child to work toward a goal, and so continually improve his or her standard. Theses examinations also lead to a professional qualification in dance for those wishing to pursue the higher levels.
+It is clear from this that the school was operated as a serious school and was operated primarily to provide the students with the skills that they would need to be professional dancers. In a short three page brochure, most of the text of which is devoted to describing the qualifications of the teachers, to emphasize professional careers in the opening paragraph and in the paragraph on Examinations, strongly suggests that this was a serious school that was operated primarily to educate serious dancers who wanted to pursue a profession in dancing.
+[17] A majority of the classes that were taught by the Appellant were classes that related to the curriculum of either the Imperial Society of Teachers of Dancing or the Royal Academy of Dance and hence were courses that would lead to certificates or similar documents that would attest to the competence of the students to practise or perform a certain level of dance. Since dance is a vocation, this would attest to their competence levels to practice or perform a vocation. Approximately 80 to 90 percent of the students would take these examinations.
+[18] In determining whether the Appellant was a vocational school, the classes in musical theatre, singing and acting would also be relevant as theses were courses that would develop or enhance a student’s occupational skills for a professional career in theatre. In determining whether the Appellant is a vocational school, there is no requirement that these courses lead to a certificate of any kind. The courses only need to be courses that develop or enhance a student’s occupational skills.
+[19] Counsel for the Respondent emphasized the young age of many of the students. However, as Bowman J. (as he then was) stated in Sandford v. The Queen, [1998] T.C.J. No. 934:
+As was pointed out in one letter to the Department of National Revenue, children must begin ballet training at a very young age. ...
+[20] It is simply the nature of the vocation that dictates that those who wish to dance professionally must start at a very young age.
+[21] The school that was operated by the Appellant in this case is substantially similar to the school that was referred to in Forever Dance Inc. v. The Queen, 2003 TCC 661, [2003] G.S.T.C. 152. In that case Bonner J. held that the school was a vocational school.
+[22] As a result I find that the qualitative factors related to the establishment and operation of the school, mainly the motivation of the owner and her clear statement that “[e]very child that came into the school was trained as if she was going to perform or teach or use dance in some way in a profession” and the way in which the school was promoted and operated, with a strong emphasis on the courses that developed or enhanced the students’ occupational skills and the emphasis on preparing students for a professional career, strongly support a finding that the Appellant was a vocational school for the purposes of paragraph 1 of Part III of Schedule V to the Act throughout the period in issue.
+[23] As a result I find that the Appellant was a vocational school for the purposes of paragraph 1 of Part III of Schedule V to the Act throughout the period in issue.
+[24] Counsel for the Respondent, following the submission of all of the evidence, attempted to raise a second issue with respect to whether GST should have been charged in relation to some of the courses that were provided as not all the courses that were provided would lead to the certificate referred to in paragraph 8 of Part III of Schedule V to the Act. This is the section that provides that the supply of certain courses provided by vocational schools are exempt supplies. However this section was not referred to in the Reply. The issue to be decided, based on the Reply, is as follows:
+The issue is whether the Minister was justified in assessing the Appellant’s net tax for the Period.
+Paragraph 6 of the Tax Court of Canada Rules Respecting the Excise Tax Act (Informal Procedure) provides in part as follows:
+6 (1) Every reply to a notice of appeal shall contain a statement of
+...
+(f) the issues to be decided,
+[25] In my opinion the statement of the issue as described above is not an adequate statement of the issue as contemplated by section 6 of the Rules. This statement of the issue is simply a very broad generic description of the issue that could be used in every single reply filed under the Act and does not provide any notice or guidance to the taxpayer or the Court of the real issue in the case. The Respondent cannot rely on this statement of the issue to raise any issue that the Respondent chooses during the hearing. As well in paragraph 14 of the Reply the Respondent has listed the sections upon which the Respondent is relying. The sections that are listed are the following:
+sections 123, 165, 169, 221, 225, 228, 280, 296, 298 and 299 of the Act, section 1 of Part III of Schedule V to the Act, GST/HST Policy Statement P229 and the Input Tax Credit Information Regulations.
+[26] This is a long list of sections under the Act itself (which do not provide any assistance in relation to determining the real issue in this case) and the only section that is identified in this list that is in Part III of Schedule V to the Act is section 1 which includes the definition of “vocational school”. There is no reference in this list to section 8 of Part III of Schedule V to the Act and there are no assumptions of fact that are made in relation to the amounts that the Appellant had collected in relation to the courses leading to certificates and those that did not lead to certificates. Since no assumptions of fact are made in relation to this matter the onus of proof in establishing the facts would lie with the Respondent.
+[27] In Pollock v. R. (1993), [1994] 1 C.T.C. 3, 94 DTC 6050 (Fed. C.A.), Hugessen J.A., on behalf of the Federal Court of Appeal, made the following comments:
+Where, however, the Minister has pleaded no assumptions, or where some or all of the pleaded assumptions have been successfully rebutted, it remains open to the Minister, as defendant, to establish the correctness of his assessment if he can. In undertaking this task, the Minister bears the ordinary burden of any party to a lawsuit, namely to prove the facts which support his position unless those facts have already been put in evidence by his opponent. This is settled law.
+[28] In Loewen v. R., 2004 FCA 146 (F.C.A.), Sharlow J.A., on behalf of the Federal Court of Appeal, made the following comments:
+11 The constraints on the Minister that apply to the pleading of assumptions do not preclude the Crown from asserting, elsewhere in the reply, factual allegations and legal arguments that are not consistent with the basis of the assessment. If the Crown alleges a fact that is not among the facts assumed by the Minister, the onus of proof lies with the Crown. This is well explained in Schultz v. R. (1995), [1996] 1 F.C. 423, [1996] 2 C.T.C. 127, 95 D.T.C. 5657 (Fed. C.A.) (leave to appeal refused, [1996] S.C.C.A. No. 4 (S.C.C.)).
+(emphasis added)
+[29] Leave to appeal the decision of the Federal Court of Appeal in Loewen v. R. to the Supreme Court of Canada was refused (Loewen v. R., 338 N.R. 195 (note) (S.C.C.)).
+[30] Since this issue of whether amounts should have been charged for some courses was not raised in the Reply and since no assumptions of fact were made in relation to this matter and no evidence was led in relation to the amount collected for the different courses, the Respondent cannot succeed in relation to this issue.
+[31] As a result of the application of section 18.3009 of the Tax Court of Canada Act no costs can be awarded in favour of the Appellant as the amount in dispute, even on an annual basis, exceeds $7,000.
+[32] Therefore the appeal is allowed, without costs, and the assessment is vacated.
+Signed at Halifax, Nova Scotia, this 24th day of October 2007.
+“Wyman W. Webb”
+Webb J.
+CITATION: 2007TCC651
+COURT FILE NO.: 2006-3283(GST)I
+STYLE OF CAUSE: FLEMING SCHOOL OF DANCE LIMITED AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: October 9, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: October 24, 2007
+APPEARANCES:
+Counsel for the Appellant:
+Douglas D. Langley
+Counsel for the Respondent:
+Nimanthika Kaneira
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Douglas D. Langley
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

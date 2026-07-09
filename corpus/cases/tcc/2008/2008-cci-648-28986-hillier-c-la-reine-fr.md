@@ -1,0 +1,166 @@
+---
+title: "Hillier c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28986/index.do"
+last_modified: "2008-11-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 648"
+citation2: ""
+neutral_citation: "2008 CCI 648"
+decision_date: "2008-11-27"
+language: "fr"
+item_id: "28986"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6796
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:09:34.844000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "33c5f42b84ddfc4a543827ea43f99a66bf9e225cbde62d17dd53287b4147e464"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hillier c. La Reine
+
+- Citation: 2008 CCI 648
+- Decision date: 2008-11-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6796, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hillier c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-11-27
+Référence neutre
+2008 CCI 648
+Numéro de dossier
+2007-2376(IT)G
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-2376(IT)G
+ENTRE :
+BRIAN M. HILLIER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 3 novembre 2008, à Sydney (Nouvelle‑Écosse).
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Avocat de l’appelant :
+Me James R. Gogan
+Avocat de l’intimée :
+Me David I. Besler
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie à l’égard de l’appelant en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2000 est accueilli, avec dépens, et la nouvelle cotisation est annulée.
+Signé à Vancouver (Colombie‑Britannique), ce 27e jour de novembre 2008.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 8e jour de juin 2009.
+Mario Lagacé, jurilinguiste
+Référence : 2008CCI648
+Date : 20081127
+Dossier : 2007-2376(IT)G
+ENTRE :
+BRIAN M. HILLIER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] L’appelant a fait l’objet d’une nouvelle cotisation fondée sur une décision voulant que le cabinet comptable Redmond and Hillier, agissant au nom de la société Brian M. Hillier Inc. (« BMH Inc. »), lui ait conféré un avantage d’un montant de 47 375 $ pendant l’année d’imposition 2000. Cette cotisation a été établie après l’expiration de la période normale de nouvelle cotisation pour l’année d’imposition en cause. En outre, l’appelant s’est vu imposer des pénalités pour faute lourde en vertu du paragraphe 163(2) de la Loi de l’impôt sur le revenu (la « Loi »).
+[2] Étant donné que la cotisation a été établie après l’expiration de la période normale de nouvelle cotisation, il incomberait à l’intimée de prouver que l’appelant a fait une présentation erronée des faits, par négligence, inattention ou omission involontaire, ou a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement sous le régime de la Loi relativement à l’année d’imposition 2000 (Mensah c. Sa Majesté la Reine, 2008CCI378, 2008 DTC 4358). L’allégation de présentation erronée qui a été formulée dans la réponse à l’avis d’appel se rapportait au fait que, dans le calcul de son revenu, l’appelant avait omis de déclarer le montant de 47 375 $ qu’il avait reçu à titre d’avantage. Il me semble que la première question à trancher est de savoir si un quelconque avantage a été conféré à l’appelant pendant l’année 2000 en raison des opérations en cause. Le cas échéant, la question suivante sera de savoir si cette présentation erronée permettrait à l’intimée d’établir une nouvelle cotisation à l’égard de l’appelant après l’expiration de la période normale de nouvelle cotisation. Dans le cas où aucun avantage n’aurait été conféré à l’appelant, il n’y aura pas lieu de répondre à la seconde question.
+[3] L’appelant est comptable agréé. Pendant l’année 2000, il détenait des actions du capital‑actions de BMH Inc., qui était une société associée au sein du cabinet Redmond and Hillier. L’appelant était déjà propriétaire d’un bateau, mais il souhaitait en acquérir un meilleur. Au printemps 2000, il a été contacté par un courtier au sujet d’un bateau à vendre au Rhode Island. L’appelant et le courtier se sont rendus au Rhode Island afin de voir le bateau, et l’appelant a décidé de présenter une offre. Le bateau avait été mis en vente après avoir été saisi par une banque. L’offre de l’appelant a été retenue, et celui‑ci a alors dû rassembler les capitaux nécessaires pour payer le prix d’achat du bateau, qui s’élevait à 28 000 $US, soit environ 45 000 $CAN. Au début de l’année 2000, l’appelant n’avait pas prévu d’acheter un autre bateau, mais étant donné que l’occasion s’est présentée, il a décidé de la saisir en effectuant l’achat.
+[4] Tandis qu’il cherchait des fonds, l’appelant a passé en revue les montants que Redmond and Hillier lui devait personnellement. Il s’agissait de dépenses qu’il avait portées sur ses cartes de crédit personnelles, mais qui avaient été engagées pour le compte de la société en nom collectif. L’appelant a présenté une liste de ces sommes au cours de l’audience. L’intimée n’a pas contesté le fait que ces dépenses avaient été engagées pour le compte du cabinet comptable.
+[5] La date de signature de l’acte de vente du bateau avait été fixée au 18 mai 2000. En date du 3 mai 2000, le montant que la société en nom collectif devait personnellement à l’appelant, relativement aux dépenses que celui‑ci avait portées sur sa carte de crédit Aéro Or CIBC, s’élevait à 17 750 $. En sus de ce montant, l’appelant avait également réglé des dépenses au moyen de sa carte de crédit Scotia Or. Au 31 décembre 1999, le montant dû à l’appelant pour les montants portés sur cette carte s’élevait à 6 334 $. La dette du cabinet comptable envers l’appelant était intacte au moment de la signature de l’acte de vente du bateau.
+[6] La société en nom collectif devait ces montants à l’appelant personnellement. Il s’agissait des propres cartes de crédit de ce dernier. Elles n’avaient pas été émises au nom de BMH Inc. Les paiements effectués au moyen de ces cartes provenaient des fonds personnels de l’appelant, et non de ceux de BMH Inc.
+[7] Ces deux montants ne suffisaient pas à payer le prix du bateau. Le 16 mai 2000, l’appelant a également retiré une avance de fonds de 12 000 $ sur sa carte Aéro Or CIBC. Il a versé cette somme à Redmond and Hillier. En sus de ces montants, l’appelant a aussi emprunté 15 000 $ à sa sœur. En déposant, celle‑ci a confirmé avoir avancé cette somme à l’appelant. Ce dernier a remboursé l’argent qu’il devait à sa sœur après avoir vendu son vieux bateau, qu’il a remplacé par celui dont il s’est porté acquéreur en 2000.
+[8] Après que l’appelant a versé à la société en nom collectif les 12 000 $ en argent comptant qu’il avait portés sur sa carte de crédit personnelle à titre d’avance de fonds ainsi que les 15 000 $ empruntés à sa sœur, la société en nom collectif lui devait le montant total suivant :
+Poste
+Montant
+Montant dû pour les dépenses portées sur la carte de crédit Aéro Or de l’appelant
+17 750 $
+Montant dû pour les dépenses portées sur la carte de crédit Scotia Or de l’appelant
+6 334 $
+Avance de fonds portée par l’appelant sur sa carte de crédit Aéro Or
+12 000 $
+Montant emprunté par l’appelant à sa sœur
+15 000 $
+Total
+51 084 $
+[9] Afin de finaliser l’achat du bateau, l’appelant devait présenter une traite bancaire en dollars américains. Il avait travaillé pour un client qui souhaitait convertir en dollars canadiens l’argent américain qu’il avait en surplus. Par conséquent, l’appelant s’est arrangé pour que des fonds soient transférés du compte de la société en nom collectif à celui du client en question, en échange des dollars américains qui lui ont servi à obtenir la traite bancaire nécessaire pour acquérir le bateau. L’appelant a pu acheter le bateau, et il en est maintenant propriétaire.
+[10] L’intimée fait valoir que les livres comptables indiquent qu’un avantage a été conféré à l’appelant par Redmond and Hillier au nom de BMH Inc. Dans la décision Trudel-Leblanc v. The Queen, 2003 DTC 257, 2004 DTC 3188, [2005] 2 C.T.C. 2361, le juge Tardif s’est ainsi exprimé :
+[27] Je doute fortement que les comptables aient expliqué les conséquences de la constitution de la corporation. Trop souvent, certains professionnels de la comptabilité et fiscalité ont tendance à assumer que les faits devront être façonnés par les entrées comptables alors qu'en réalité, les chiffres doivent refléter les faits et non l'inverse.
+[11] Dans la décision VanNieuwkerk c. Sa Majesté la Reine, 2003CCI670, [2004] 1 C.T.C. 2577, le juge en chef adjoint Bowman (plus tard juge en chef) a déclaré :
+[6] La confusion vient en partie des livres comptables qui indiquent soit qu'aucun transfert n'a eu lieu, soit qu'un transfert s'est produit le 31 décembre 1998 ou le 1er janvier 1998, selon la version consultée. Cette cour a eu maintes fois l'occasion de dire que les écritures comptables ne créent pas la réalité. Elles ne font que refléter la réalité. Il doit y avoir une réalité sous-jacente pouvant exister indépendamment des écritures comptables. J'accepte l'explication de M. Goeres selon laquelle les écritures de correction, telles les écritures de la transaction dans cette affaire, et les déductions pour amortissement apparaissent toutes dans le grand livre général du 31 décembre. Cela ne fait que démontrer comment les livres comptables sont peu fiables pour déterminer la date où une transaction a eu lieu.
+[12] C’est la réalité sous‑jacente qui permettra de décider si un avantage a été conféré à l’appelant, et non les écritures comptables à elles seules. Quoi qu’il en soit, les documents comptables auxquels l’intimée a fait référence ont trait à l’état de compte des associés se rapportant à la période allant de février 1995 à août 2000. Cet état de compte indique notamment que les écritures suivantes ont été enregistrées au titre des retraits et apports effectués relativement à la participation de BMH Inc. dans la société de personnes :
+Poste
+Montant
+Retraits
+Bateau (coût approx.)
+(47 375 $)
+Apports
+BMH Inc.
+41 199 $
+Aéro Or
+16 407 $
+Scotia Or
+8 725 $
+[13] Les relevés du compte de capital social de BMH Inc. indiquent qu’un retrait de 47 375 $ a été effectué pour le bateau. Ce montant excédait le prix d’achat exact du bateau parce que d’autres dépenses avaient été engagées relativement à cet achat. Néanmoins, le même relevé indique que des apports ont été effectués par BMH Inc., soit la somme de 41 199 $ d’une part, et certains paiements par cartes de crédit Aéro Or et Scotia Or d’autre part. La somme de 41 199 $ qui a été apportée par BMH Inc. comprenait les 12 000 $ versés par l’appelant à la société en nom collectif, représentant l’avance qui avait été portée sur sa carte de crédit, et les 15 000 $ empruntés par l’appelant à sa sœur. Comme il a été susmentionné, les cartes Aéro Or et Scotia Or était les cartes de crédit personnelles de l’appelant. Par conséquent, les apports figurant dans le compte de capital social de BMH Inc. comprenaient, si on tient compte des montants indiqués ci‑dessus pour les cartes Aéro Or et Scotia Or, une somme de 52 132 $ apportée par l’appelant en son propre nom. Ces apports personnels excédaient le montant indiqué à titre de retrait pour le bateau.
+[14] Les relevés en tant que tels ne font état d’aucun avantage qui aurait été conféré à l’appelant. Ces relevés se limitent à faire état du compte de capital social de la société associée. Ils n’indiquent aucune cession d’éléments d’actif de la société en nom collectif ou de BMH Inc. à l’appelant. Pour donner un aperçu exact des opérations effectuées par BMH Inc., il aurait probablement fallu faire état de l’acquisition par BMH Inc. des éléments d’actifs qui auraient permis à cette dernière d’apporter des fonds à la société en nom collectif. Comme il a été susmentionné, le montant de 52 132 $ qui figure dans le relevé à titre d’apport de BMH Inc. à la société en nom collectif est en fait un apport personnel de l’appelant. Si le montant en question avait été consigné dans les livres comptables de BMH Inc. à titre d’apport versé par l’appelant à cette dernière, ces mêmes livres comptables auraient probablement indiqué que BMH Inc. avait acquis auprès de l’appelant les éléments d’actifs énumérés ci‑dessus, qui comprennent le montant de 52 132 $, et que BMH Inc. devait un montant correspondant (52 132 $) à l’appelant. Par conséquent, si la cession du bateau est qualifiée de retrait de la société en nom collectif effectué par BMH Inc., et est considérée ensuite comme une cession faite par BMH Inc. à l’appelant, il s’agit simplement du remboursement par BMH Inc. de la majeure partie de la dette que celle‑ci avait à l’égard de l’appelant.
+[15] L’appelant a déclaré que les opérations relatives au bateau n’apparaissaient pas dans les livres comptables de BMH Inc. (y compris les apports effectués par l’appelant grâce aux avances qu’il a portées sur sa carte de crédit, l’apport effectué grâce au montant que l’appelant a emprunté à sa sœur, et les montants portés sur les cartes Aéro Or et Scotia Or) parce que celle‑ci n’était pas concernée par l’achat du bateau. Il me semble que, si les opérations étaient apparues dans les livres comptables de BMH Inc., elles y auraient été consignées de la manière décrite ci‑dessus, ce qui aurait démontré qu’aucun avantage n’avait été conféré à l’appelant par BMH Inc.
+[16] En ce qui a trait à l’achat du bateau par l’appelant en 2000, il ne me semble pas qu’un quelconque avantage ait été conféré à celui‑ci par BMH Inc., ou par la société en nom collectif au nom de BMH Inc. L’appelant a utilisé ses propres éléments d’actif pour acheter le bateau. On ne peut prétendre qu’un avantage a été conféré à un actionnaire par une société si ce sont les biens propres de l’actionnaire en question (et non les biens de la société) qui ont servi à faire l’acquisition de l’élément d’actif censé représenter l’avantage.
+[17] Par conséquent, l’appel est accueilli, avec dépens, et la nouvelle cotisation établie à l’égard de l’appelant pour l’année d’imposition 2000 est annulée.
+Signé à Vancouver (Colombie‑Britannique), ce 27e jour de novembre 2008.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 8e jour de juin 2009.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2008CCI648
+NO DU DOSSIER DE LA COUR : 2007-2376(IT)G
+INTITULÉ : Brian M. Hillier et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Sydney (Nouvelle‑Écosse)
+DATE DE L’AUDIENCE : Le 3 novembre 2008
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 27 novembre 2008
+COMPARUTIONS :
+Avocat de l’appelant :
+Me James R. Gogan
+Avocat de l’intimée :
+Me David I. Besler
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Me James R. Gogan
+Cabinet : Sampson McDougall
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

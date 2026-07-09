@@ -1,0 +1,229 @@
+---
+title: "Okonski c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28529/index.do"
+last_modified: "2008-03-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 142"
+citation2: ""
+neutral_citation: "2008 CCI 142"
+decision_date: "2008-03-07"
+language: "fr"
+item_id: "28529"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1258
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:04:48.868000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6873a1433c3290fa0eb4d61de37020ada5ed052f0f1b3944078e9b6580511ea0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Okonski c. La Reine
+
+- Citation: 2008 CCI 142
+- Decision date: 2008-03-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1258, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Okonski c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-03-07
+Référence neutre
+2008 CCI 142
+Numéro de dossier
+2006-2843(IT)I
+Juges et Officiers taxateurs
+Eugene P. Rossiter
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-2843(IT)I
+ENTRE :
+KATHY OKONSKI,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 5 juin 2007, à London (Ontario)
+Devant : L’honorable juge E. P. Rossiter
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me George Boyd Aitken
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2004 est accueilli et la cotisation est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 7e jour de mars 2008.
+« E. P. Rossiter »
+Juge Rossiter
+Traduction certifiée conforme
+ce 7e jour d’avril 2008.
+Marie-Christine Gervais, traductrice
+Référence : 2008CCI142
+Date : 20080307
+Dossier : 2006-2843(IT)I
+ENTRE :
+KATHY OKONSKI,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Rossiter
+Introduction / contexte
+[1] L’appelante est une employée de l’Université de Western Ontario (l’« UWO »). En 2004, la fille de l’appelante, Kelly, a eu droit à une somme de 1 200 $ de l’UWO, laquelle somme devait être utilisée pour payer ses frais de scolarité à l’UWO. Cette bourse a été versée à l’appelante, laquelle l’a remise à sa fille pour qu’elle puisse payer ses frais de scolarité. L’Agence du Revenu du Canada (l’« ARC ») a inclus la somme de 1 200 $ dans le revenu de l’appelante en tenant pour acquis que la bourse était un avantage imposable selon l’alinéa 6(1)a) de la Loi de l’impôt sur le revenu (la « Loi »). La contribuable a interjeté appel et soutient que la somme accordée est une bourse qui fait partie du revenu de sa fille.
+Faits
+[2] L’appelante était une employée à temps plein de l’UWO pendant l’année d’imposition 2004.
+[3] Dans le cadre de son régime d’avantages sociaux collectif qui vise tous les employés permanents à temps plein qui sont des membres admissibles de la Professional and Managerial Association (la « PMA »), l’UWO a un programme de bourse de frais de scolarité (le « programme de bourse »). Les avantages sont décrits dans l’ensemble des conditions de rémunération des employés. L’introduction du livret sur le régime d’avantages sociaux collectif est rédigée ainsi :
+[traduction]
+Le présent livret donne un résumé des principales caractéristiques des régimes d’avantages sociaux collectifs offerts aux employés permanents à temps plein qui sont des membres admissibles de la Professional & Managerial Association (PMA). Vos avantages constituent un élément important de l’ensemble des conditions de rémunération à l’Université de Western Ontario. Ces avantages ont été établis de façon stratégique afin d’assurer votre protection contre les frais liés aux soins de santé et les frais dentaires, de protéger votre revenu si vous vous retrouvez dans l’incapacité de travailler en raison d’une maladie ou d’une blessure, et d’assurer aux survivants une protection financière en cas de décès.
+[...] Vos avantages et vos droits sont régis par les modalités du contrat‑cadre collectif qui prévoit les protections collectives et l’entente entre l’Université de Western Ontario et la Professional & Managerial Association.
+[4] Le livret sur le régime d’avantages sociaux collectif comprend des renseignements détaillés au sujet des avantages offerts, notamment l’assurance‑maladie complémentaire, le régime d’assurance‑dentaire, le régime d’assurance‑vie, le régime facultatif d’assurance individuelle contre les accidents, le programme d’assurance‑invalidité et les prestations à la retraite. Il comporte une section intitulée [traduction] « Autres avantages » dans laquelle il est indiqué en partie ce qui suit :
+[traduction]
+Votre ensemble de conditions de rémunération comprend divers autres avantages qui ne sont pas décrits dans le livret sur le régime d’avantages sociaux collectif. Voici quelque‑uns de ces « Autres avantages » :
+• Régime de pension du personnel administratif
+• Droit à congé annuel
+• Orientation professionnelle
+• Programme d’aide financière en matière d’instruction
+• Programme de bourse de frais de scolarité
+• Congé de perfectionnement
+• Régime de congé de salaire différé
+• Responsabilité réduite
+• Congé de maternité et parental
+• Congé de maternité complémentaire
+- Régime de prestations d’assurance‑emploi supplémentaires (PAES)
+• Allocation professionnelle
+[Non souligné dans l’original.]
+[5] Le site Web des ressources humaines de l’UWO comporte également des renseignements concernant les avantages offerts aux membres de la PMA. Dans le site Web, le programme de bourse est décrit en partie de la manière suivante :
+[traduction]
+Sous réserve des conditions du programme, les enfants à charge des employés permanents à temps plein actuels qui sont des membres admissibles de la PMA peuvent recevoir des bourses de frais de scolarité pour les cours suivis afin d’accumuler des crédits menant à l’obtention d’un grade (de premier cycle ou supérieur) de l’Université de Western Ontario. La bourse sera offerte aux étudiants admissibles pour l’équivalent d’un maximum de quatre années d’inscription à temps plein, qui ne sont pas nécessairement consécutives, à l’Université de Western Ontario. Valeur : 1 200 $[1].
+[6] Dans le programme de bourse, il est décrit que les bourses sont destinées aux enfants à charge et aux conjoints, entre autres, des membres du corps enseignant permanents qui restent en fonction et aux enfants à charge des employés permanents à temps plein actuels qui sont membres de la PMA.
+[7] Pour être admissible au programme de bourse, l’enfant à charge doit initialement respecter les exigences d’admission au programme menant à un grade qu’il a choisi. Par la suite, il doit conserver une moyenne d’au moins 70 % chaque année universitaire pour continuer d’avoir droit à la bourse.
+[8] Pour demander la bourse, l’étudiant doit présenter un formulaire de demande, attesté par le père ou la mère membre de la PMA. Ce dernier doit signer le formulaire de demande pour confirmer le paragraphe suivant, qui est situé juste au dessus de la ligne de signature du membre de la PMA :
+[traduction]
+[…]
+J’atteste par les présentes que je suis actuellement un employé permanent à temps plein membre de la PMA à l’Université de Western Ontario. Les énoncés qui précèdent concernant l’étudiant indiqué dans la section A sont vrais sous tous les rapports. L’étudiant susmentionné est à ma charge, comme il est défini dans les lignes directrices du programme de bourse[2].
+[...]
+Dans la demande d’admissibilité au programme de bourse, le terme « personne à charge » est défini ainsi :
+[traduction]
+* Le terme « personne à charge » signifie un enfant de l’employé, qui est âgé de moins de 26 ans et qui est à la charge de l’employé[3].
+[9] En 2004, la fille de l’appelante a rempli les conditions requises pour qu’une bourse lui soit accordée. La somme a été payée à l’appelante par l’UWO. L’appelante a alors remis le 1 200 $ à sa fille afin qu’elle puisse l’utiliser pour payer ses frais de scolarité de 2004 à l’UWO.
+Question en litige
+[10] La question en litige dans le présent appel est de savoir si la bourse de 1 200 $ constituait un avantage tiré d’un emploi pour l’appelante et si elle doit être incluse dans le revenu de l’appelante en application de l’alinéa 6(1)a) de la Loi.
+Position de l’appelante
+[11] L’appelante allègue que la bourse n’est pas un avantage, mais un droit pour sa fille de demander une bourse et qu’en fait, ce droit n’accorde aucun avantage à l’appelante. Cette dernière renvoie au Bulletin d’interprétation IT‑75R4.
+[12] À titre subsidiaire, l’appelante allègue que si la bourse est en fait un avantage, elle l’a reçue en sa qualité de fiduciaire par interprétation pour sa fille et il ne s’agit donc pas d’un avantage dont elle jouit, mais plutôt d’un revenu pour sa fille.
+Position de l’intimée
+[13] L’intimée est d’avis que l’emploi de l’appelante a donné lieu à un avantage auquel l’appelante à droit, lequel avantage est imposable en application de l’alinéa 6(1)a) de la Loi.
+[14] L’intimée soutient également que la somme que Kelly a reçue n’est pas une bourse au sens de l’alinéa 56(1)n) de la Loi pour les raisons suivantes :
+a. le nombre de bourses n’est pas limité;
+b. il n’y a pas de véritable compétition pour les bourses;
+c. aucune vraie évaluation n’est effectuée concernant l’octroi des bourses;
+d. le seuil de 70 % est trop bas pour que le montant puisse constituer une bourse.
+Articles applicables de la Loi de l’impôt sur le revenu
+[15] L’alinéa 6(1)a) de la Loi est rédigé ainsi :
+6.(1) Éléments à inclure à titre de revenu tiré d’une charge ou d’un emploi – Sont à inclure dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi, ceux des éléments suivants qui sont applicables :
+a) Valeur des avantages – la valeur de la pension, du logement et autres avantages quelconques qu’il a reçus ou dont il a joui au cours de l’année au titre, dans l’occupation ou en vertu d’une charge ou d’un emploi, à l’exception des avantages suivants : [...]
+[16] L’alinéa 56(1)n) de la Loi prévoit ce qui suit :
+56.(1) Sommes à inclure dans le revenu de l’année – Sans préjudice de la portée générale de l’article 3, sont à inclure dans le calcul du revenu d’un contribuable pour une année d’imposition :
+[…]
+n) Bourses d’études, de perfectionnement, etc. – l’excédent éventuel :
+(i) du total des sommes (à l’exclusion des sommes visées à l’alinéa q), des sommes reçues dans le cours des activités d’une entreprise et des sommes reçues au titre, dans l’occupation ou en vertu d’une charge ou d’un emploi) reçues au cours de l’année par le contribuable à titre de bourse d’études, de bourse de perfectionnement (fellowship) ou de récompense couronnant une œuvre remarquable réalisée dans son domaine d’activité habituel, à l’exclusion d’une récompense visée par règlement,
+sur :
+(ii) l’exemption pour bourses d’études du contribuable pour l’année, calculée selon le paragraphe (3);
+[17] Le paragraphe 56(2) de la Loi prévoit ce qui suit :
+56(2) Paiements indirects – Tout paiement ou transfert de biens fait, suivant les instructions ou avec l’accord d’un contribuable, à toute autre personne au profit du contribuable ou à titre d’avantage que le contribuable désirait voir accorder à l’autre personne — sauf la cession d’une partie d’une pension de retraite conformément à l’article 65.1 du Régime de pensions du Canada ou à une disposition comparable d’un régime provincial de pensions au sens de l’article 3 de cette loi ou d’un régime provincial de pensions visé par règlement — doit être inclus dans le calcul du revenu du contribuable dans la mesure où il le serait si ce paiement ou transfert avait été fait au contribuable.
+Analyse
+[18] Dans un jugement de même date, soit John DiMaria c. Sa Majesté la Reine, 2006‑1400(IT)G, j’ai traité de la question de savoir si les bourses accordées aux personnes à charge d’employés sont des avantages imposables en vertu de l’alinéa 6(1)a) de la Loi.
+[19] Même si les faits propres à cette affaire sont différents des faits en l’espèce, j’adopte les commentaires que j’ai formulés concernant le droit et l’analyse dans la décision DiMaria et je ne les répéterai pas ici.
+[20] Dans la décision DiMaria, j’ai conclu que, dans ce cas‑là, la bourse accordée au fils de l’appelant n’était pas un avantage imposable pour l’appelant. Pour tirer cette conclusion, je me suis fondé sur ce qui suit :
+1. L’appelant ne s’est pas enrichi de 3 000 $, puisque le paiement de la somme octroyée dans le cadre du PBES avait été fait directement à Andrew.
+2. L’appelant ne s’est pas enrichi de 3 000 $, puisqu’il n’avait aucune obligation juridique de soutenir financièrement son fils adulte ni de payer ses études postsecondaires.
+3. L’appelant ne s’est pas enrichi de 3 000 $, puisqu’il n’avait aucun droit légal de recevoir la somme allouée dans le cadre du PBES ni d’obliger Dow à lui payer la somme au lieu de la verser à Andrew.
+4. L’appelant ne s’est pas enrichi de 3 000 $, puisqu’il n’avait aucun droit de recouvrer d’Andrew la somme octroyée dans le cadre du PBES.
+5. L’appelant n’a pas négocié avec son employeur l’inclusion de la somme allouée dans le cadre du PBES dans les avantages dont il bénéficiait au titre de son emploi. Il n’a pas assumé de responsabilités supplémentaires ni renoncé à d’autres avantages pour qu’Andrew puisse recevoir cette somme.
+6. Andrew est la seule personne qui s’est enrichie financièrement. C’est lui qui a fait la demande de bourse d’études, et ce sont ses études et ses compétences qui le rendent admissible à celle‑ci.
+7. Les frais engagés par le fils pour poursuivre ses études postsecondaires ne sont pas des frais de l’appelant ni de sa famille. C’est le particulier qui est assujetti à l’impôt, non pas la famille.
+[21] Ces sept raisons montrent qu’il y a certaines différences entre l’affaire DiMaria et la présente affaire. Tout d’abord, en l’espèce, la bourse a été versée directement à l’appelante et non à la personne à charge. Ensuite, contrairement au régime dans DiMaria auquel l’employeur pouvait unilatéralement mettre fin, les avantages en l’espèce ont été négociés avec la PMA. Je renvoie aux détails du régime figurant dans le livret sur le régime d’avantages sociaux collectif. En raison du libellé du régime d’avantages sociaux collectif, qui comprend le programme de bourse dans la section de la rémunération des employés, on peut dire que la bourse est considérée comme un revenu gagné dans le cadre de l’emploi et non pas comme un paiement à titre gracieux à la fille de l’appelante. Toutefois, aucun de ces points n’est suffisant pour statuer sur l’appel, et il reste à savoir si c’est l’appelante qui a reçu la bourse ou en a joui.
+Paiement effectué directement à l’appelante
+[22] Comme je l’ai mentionné dans la décision DiMaria, dans la jurisprudence il est clairement indiqué que le terme « reçu » ne signifie pas qu’un montant doit être physiquement reçu par le contribuable ou déposé dans son compte bancaire. Voir comme exemple la décision Morin v. R., 75 D.T.C. 5061 (C.F. 1re inst.), où le juge Lacroix a conclu ce qui suit au paragraphe 24 :
+[…] le mot recevoir ou toucher veut évidemment dire en bénéficier ou en profiter. En recevoir les avantages sans être obligé de l’avoir dans ses mains.
+Donc, le fait que l’appelante a reçu l’avantage pour sa fille ne porte pas un coup fatal à l’appel.
+[23] L’appelante se fonde sur la doctrine relative aux fiducies par interprétation et soutient qu’elle n’avait aucunement droit à la bourse de 1 200 $. Elle mentionne que la somme était détenue en fiducie pour sa fille, qui est la véritable bénéficiaire de la bourse.
+[24] L’appelante s’est représentée elle‑même lors de l’audience. La question de la fiducie par interprétation a été soulevée lors de l’audience, mais n’a pas été examinée de manière approfondie par aucune des parties, et aucune jurisprudence sur la question n’a été présentée. Après avoir examiné la jurisprudence de la Cour suprême du Canada, mentionnée dans les présents motifs, je conclus que l’appelante a prouvé l’existence d’une fiducie par déduction où elle détenait en sa qualité de fiduciaire la bourse 1 200 $ pour sa fille.
+[25] La doctrine concernant les fiducies par interprétation et celle concernant les fiducies par déduction ont été élaborées principalement pour régler la question de l’inégalité découlant de la division des biens suivant l’échec d’un mariage. Toutefois, cela ne signifie pas que les doctrines sont limitées aux relations entre les époux. Pour établir l’existence d’une fiducie par déduction, un conjoint doit montrer qu’il avait apporté une contribution à l'acquisition du bien et qu’il y avait intention commune que le conjoint non titulaire du droit de propriété ait un intérêt bénéficiaire dans ce bien (Rawluk c. Rawluk, [1990] 1 R.C.S. 70, au paragraphe 18).
+[26] Le juge Rothstein (tel était alors son titre) a résumé au paragraphe 5 les conditions à remplir pour conclure qu’il y a une fiducie par déduction dans la décision Holizki v. Canada, 95 D.T.C. 5591 (C.F. 1re inst.) :
+[…] Une fiducie par déduction s’attache à l’intention (par opposition à une fiducie par interprétation qui est imposée en équité par un tribunal, indépendamment de l’intention des parties). Dans l’arrêt Rathwell c. Rathwell (1978), 83 D.L.R. (3d) 289, [1978] 2 R.C.S. 436, aux pages 450 et 451 (C.S.C.), le juge Dickson (tel était alors son titre) explique, dans le contexte des biens matrimoniaux, dans quelles situations la doctrine de la fiducie par déduction trouve application :
+Si, à la dissolution d’un mariage, l’un des conjoints détient seul les titres de propriété, le tribunal est en droit de se demander s’il était convenu de laisser à l’autre conjoint un droit de propriété véritable sur les biens ou s’il y avait intention commune de le faire, et, dans l’affirmative, pour quelle part? Comme je l’ai indiqué, il est rare qu’on puisse prouver de telles ententes d’une façon concrète. Il est pertinent et nécessaire que les tribunaux examinent les faits et les circonstances entourant l’acquisition des biens ou leurs améliorations. Si la femme, qui ne détient pas les titres de propriété, a contribué, directement ou indirectement, en argent ou en son équivalent, à l’acquisition ou aux améliorations, la doctrine de la fiducie par déduction intervient. Un droit sur les biens est présumé revenir à la personne qui a avancé le prix d’achat ou une partie de celui‑ci.
+On explique parfois que la présomption de fiducie par déduction résulte d’une contribution prouvant une entente; elle est également qualifiée d’entente tacite. Tout cela est bien établi en droit : Murdoch c. Murdoch, précité; Gissing v. Gissing, (précité); Pettitt v. Pettitt, précité. Les tribunaux recherchent une intention commune manifestée par des actes ou des déclarations montrant que les biens ont été acquis en fiducie.
+En ce qui a trait à la part qui revient au bénéficiaire de la fiducie par déduction, en l’absence de preuve quant au quantum des droits, le juge Dickson indique ceci aux pages 452 et 453 :
+S’il y a contribution en argent ou en son équivalent, mais absence de preuve d’entente ou d’intention commune quant au quantum des droits, il peut s’élever des doutes quant à la part de chacun des conjoints dans les biens. Dans l’affaire Pettitt, précitée à la p. 794, lord Reid a dit que les parts respectives peuvent être déterminées comme suit : [traduction] « [...] vous vous demandez ce qu’auraient convenu des personnes raisonnables se trouvant dans la situation des conjoints, si elles essayaient de déterminer la part revenant à l’époux qui a contribué ». C’est une solution logique que j’adopte.
+À la page 458, examinant la question de savoir si la doctrine de la fiducie par déduction s’applique aux biens commerciaux aussi bien qu’aux biens matrimoniaux, le juge Dickson conclut qu’en principe rien n’interdit à une femme de bénéficier, quand il y a lieu, d’une part du produit des biens commerciaux, lorsque le couple a exploité ces biens comme [traduction] « une unité familiale [...] ».
+[27] C’est en m’appuyant sur ce cadre légal que j’examinerai la question de savoir si les actes de l’appelante et de sa fille me permettent de conclure qu’il y avait une fiducie par déduction.
+[28] Il est clair que la mère et la fille voulaient toutes les deux que la bourse soit versée à Kelly. En fait, l’employeur voulait également que la fille soit la bénéficiaire de la bourse, mais a été obligé d’inclure la valeur de la bourse dans le revenu de l’appelante à la suite d’une vérification de l’ARC. Dans son site Web des ressources humaines, l’UWO a indiqué ce qui suit concernant les modifications apportées à la façon dont elle traite le programme de bourse :
+[traduction]
+En 2003, nous avons été avisés par l’Agence du revenu du Canada (ARC) que celle‑ci était en train de mener une vérification de l’observation par les employeurs concernant le programme de bourse de frais de scolarité offert aux membres du corps enseignant et aux employés à temps plein de l’Université. Nous croyions que le programme était géré conformément au Règlement de l’impôt sur le revenu, mais l’ARC était d’avis que cet avantage doit être considéré comme un avantage à inclure dans le revenu imposable de l’employé de l’Université de Western Ontario et non de l’étudiant recevant la bourse. L’Université a consacré beaucoup de temps et de ressources pour les employés afin de s’opposer à cette position de l’ARC. Vos représentants du groupe des employés ont été tenus au courant de l’évolution du dossier concernant notre opposition à la décision en matière d’impôt. Malgré nos efforts, l’ARC a conclu que les sommes visées doivent être incluses dans le revenu de l’employé conformément à l’alinéa 6(1)a) de la Loi de l’impôt sur le revenu [4]. [Non souligné dans l’original]
+[29] L’appelante devait signer le formulaire de demande confirmant qu’elle était actuellement une employée permanente à temps plein membre de la PMA et que l’étudiant était à sa charge. Kelly a aussi contribué à l’obtention de la bourse. L’UWO a versé la bourse en reconnaissance du rendement scolaire de Kelly. Si Kelly n’avait pas été admise à l’UWO, aucune bourse ne lui aurait été accordée. Si la demande de Kelly n’avait pas été acceptée et si celle‑ci n’avait pas eu un assez bon rendement scolaire, elle n’aurait pas pu jouir de la bourse.
+[30] Compte tenu de la preuve, je conclus que la bourse de 1 200 $ a été versée à l’appelante en sa qualité de fiduciaire par déduction pour sa fille.
+Avantage négocié
+[31] La deuxième différence entre la présente affaire et l’affaire DiMaria est qu’en l’espèce, le programme de bourse est un avantage négocié entre les employés et l’UWO. Comme je l’ai déjà mentionné, je ne pense pas que cette différence soit suffisante pour que je rejette l’appel. Il reste à savoir si on peut dire que l’appelante a reçu l’avantage ou qu’elle en a joui. Il n’existe aucune preuve établissant que l’appelante a assumé des responsabilités supplémentaires ou a renoncé à d’autres avantages afin que Kelly puisse recevoir la bourse. Contrairement à d’autres avantages offerts aux employés, c.‑à‑d. l’orientation professionnelle, le droit à congé annuel, le congé de maternité et parental, et le congé de perfectionnement, dont le but semble être de contribuer à la satisfaction et au perfectionnement professionnel de l’employé, le programme de bourse a pour but d’encourager les personnes à charge de l’employé à faire des études postsecondaires. Comme je l’ai mentionné dans la décision DiMaria, la loi n’oblige pas les parents à financer les études postsecondaires de leurs enfants. Le programme de bourse est là pour aider les enfants, pas les parents.
+[32] Je conclus que l’appelante n’a rien reçu et qu’elle n’a joui de rien relativement à la bourse de sa fille. Par conséquent, la somme en cause ne doit pas être incluse dans le revenu imposable de l’appelante.
+Bourse
+[33] Pour ce qui est de la question de savoir si la bourse correspond à la définition du terme « bourse » qui figure à l’alinéa 56(1)n) de la Loi, j’adopte encore une fois les motifs que j’ai exposés dans la décision DiMaria et je conclus que la somme est une bourse au sens de la Loi. Pour avoir droit à la bourse, l’étudiant doit être admis au programme et avoir une moyenne d’au moins 70 % chaque année pour conserver la bourse. En l’espèce, l’étudiante n’a en fait pas obtenu une moyenne de 70 % pour une année et elle n’a pas reçu la bourse accordée dans le cadre du programme pour cette année‑là. À l’audience, l’appelante a produit des éléments de preuve montrant plusieurs autres bourses offertes aux étudiants de l’UWO et pour lesquelles seulement une moyenne d’au moins 70 % était exigée. Comme je l’ai conclu dans la décision DiMaria, ce seuil est suffisant pour avoir droit à une bourse, et le revenu doit être dûment déclaré par Kelly conformément à l’alinéa 56(1)n).
+Conclusion
+[34] L’appel est accueilli. L’appelante a droit à ses dépens, qui sont fixés à 500 $. La cotisation est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen établisse une nouvelle cotisation en tenant pour acquis que la bourse n’est pas un avantage que l’appelante a reçu ou dont elle a joui, mais un revenu de sa fille, Kelly.
+Signé à Ottawa, Canada, ce 7e jour de mars 2008.
+« E. P. Rossiter »
+Juge Rossiter
+Traduction certifiée conforme
+ce 7e jour d’avril 2008.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE : 2008CCI142
+NO DU DOSSIER : 2006-2843(IT)I
+INTITULÉ : KATHY OKONSKI c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : London (Ontario)
+DATE DE L’AUDIENCE : Le 5 juin 2007
+MOTIFS DU JUGEMENT PAR : L’honorable juge E. P. Rossiter
+DATE DU JUGEMENT : Le 7 mars 2008
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me Boyd Aitken
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pièce R‑2, page 10.
+[2] Pièce R‑2, page 12.
+[3] Pièce R‑2, page 13.
+[4] Pièce R‑2, page 10.

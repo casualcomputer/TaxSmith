@@ -1,0 +1,248 @@
+---
+title: "Coutre c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29400/index.do"
+last_modified: "2009-09-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 456"
+citation2: ""
+neutral_citation: "2009 CCI 456"
+decision_date: "2009-09-15"
+language: "fr"
+item_id: "29400"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6922
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:34:22.536000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a63b94fe0c6428f9b767ee092bebbb0edcbd1246689f55970465023385ab6308"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Coutre c. La Reine
+
+- Citation: 2009 CCI 456
+- Decision date: 2009-09-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6922, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Coutre c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-09-15
+Référence neutre
+2009 CCI 456
+Numéro de dossier
+2007-2083(IT)G
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2009 CCI 456
+Date : 20091119
+Dossier : 2007-2083(IT)G
+ENTRE :
+RONALD COUTRE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT MODIFIÉS
+Le juge McArthur
+[1] Le présent appel vise une nouvelle cotisation que le ministre du Revenu national (le « ministre ») a établie par suite d’un jugement rendu le 31 mars 2006 par le juge Beaubier. Il s’agit en fin de compte de savoir si la doctrine de la chose jugée et le paragraphe 169(2) de la Loi de l’impôt sur le revenu (la « Loi ») empêchent l’appelant d’interjeter appel de la nouvelle cotisation du ministre.
+[2] Conformément au jugement, le ministre a établi une nouvelle cotisation à l’égard de l’appelant pour l’année d’imposition 1998 afin de réduire le montant de l’avantage inclus dans le calcul de son revenu de 119 840 $ à 91 485 $. La principale question visée par l’appel est la suivante : l’appelant peut‑il porter ses prêts à l’actionnaire en déduction de l’avantage qu’il a reçu en application des paragraphes 56(2) et 15(1) de la Loi, par suite d’une nouvelle cotisation établie conformément à une décision antérieure de la Cour canadienne de l’impôt? Il s’agit plus précisément de savoir s’il est interdit à l’appelant d’interjeter appel en raison de l’application de la doctrine de la chose jugée et du paragraphe 169(2) de la Loi.
+Faits
+[3] Les parties ont présenté un exposé conjoint des faits dans lequel elles mentionnent ce qui suit :
+[traduction]
+1. La nouvelle cotisation en litige dans le présent appel découle de la décision rendue par la Cour le 31 mars 2006 dans le cadre de l’appel précédent de l’appelant (numéro de dossier 2003‑3274(IT)G). (Décision de la Cour canadienne de l’impôt, recueil conjoint de documents, onglet 1.)
+2. Il s’agit dans le présent appel de savoir si l’appelant a reçu un avantage au titre du transfert de biens réels situés au 596, chemin Atkins (« lot A »), et au 628, chemin Atkins (« lot B »), à Victoria (Colombie‑Britannique).
+3. Pendant toute la période pertinente, l’appelant était l’unique actionnaire et administrateur de Phoenix Estates Ltd. (la « société »), une entreprise constituée en société en vertu des lois de la Colombie‑Britannique.
+4. Pendant toute la période pertinente, les activités de la société intéressaient la promotion immobilière.
+5. Pendant toute la période pertinente, l’épouse de l’appelant était Coralee Coutre (également appelée Cori).
+6. Avant le 15 mai 1998, la société était l’unique propriétaire du lot A.
+7. Avant le 15 mai 1998, la société détenait la moitié du lot B. L’autre moitié du lot B appartenait à Malcolm Developments Inc. (« Malcolm »), une société sans lien de dépendance avec la société.
+8. Le 15 mai 1998, les lots A et B ont intégralement été transférés de la société et de Malcolm à Mme Coutre en contrepartie d’une somme de 1 000,00 $ le lot.
+9. Le 9 juillet 2002, le ministre a établi à l’égard de l’appelant une nouvelle cotisation relative à l’année d’imposition 1998 afin d’ajouter la somme de 162 640,00 $ à titre d’avantage reçu cette année‑là, selon le calcul suivant :
+Lot A :
+Juste valeur marchande
+73 000 $
+Moins : contrepartie versée
+(1 000)
+Plus : TPS
+5 040
+Sous-total
+77 040 $
+Lot B :
+Juste valeur marchande
+81 000 $
+Moins : contrepartie versée
+(1 000)
+Plus : TPS
+5 600
+Sous-total
+85 600 $
+TOTAL
+162 640 $
+10. L’appelant a déposé un avis d’opposition le 3 septembre 2002.
+11. Le 5 septembre 2003, le ministre a établi à l’égard de l’appelant une nouvelle cotisation relative à l’année d’imposition 1998 afin de réduire le montant de l’avantage à 119 840,00 $, selon le calcul suivant :
+Lot A :
+Juste valeur marchande
+73 000 $
+Moins : contrepartie versée
+(1 000)
+Plus : TPS
+5 040
+Sous-total
+77 040 $
+Lot B :
+Juste valeur marchande
+81 000 $
+Moins : contrepartie versée
+(1 000)
+Plus : TPS
+5 600
+Sous-total
+85 600
+85 600 $
+Divisé par 2 (moitié du bien)
+TOTAL
+119 840 $
+12. Le 5 septembre 2003, l’appelant a interjeté appel devant la Cour (numéro du dossier de la Cour canadienne de l’impôt : 2003‑3274(IT)G) et l’affaire a été entendue les 15 et 16 mars 2006 sur preuve commune avec trois autres appels connexes (Phoenix Estates Ltd. c. Sa Majesté la Reine, numéros des dossiers de la Cour canadienne de l’impôt : 2003‑3121(IT)G et 2003‑3277(GST)I, et Cori Coutre c. Sa Majesté la Reine, numéro du dossier de la Cour canadienne de l’impôt : 2003‑3275(IT)I).
+13. L’appelant a fait valoir qu’il n’avait pas reçu d’avantage et que la juste valeur marchande des lots A et B s’élevait à 1 000,00 $ chacun. Subsidiairement, il a fait valoir que la juste valeur marchande des lots A et B était de 23 000,00 $ et de 28 000,00 $, respectivement.
+14. Le 31 mars 2006, la Cour a rendu sa décision, dans laquelle elle a conclu notamment que la juste valeur marchande des lots A et B s’élevait à 73 000,00 $ et à 28 000,00 $, respectivement. La Cour a en outre conclu que l’appelant avait reçu un avantage indirect en raison de ces justes valeurs marchandes. La Cour a ordonné au ministre d’établir une nouvelle cotisation en conséquence.
+15. Le 15 juin 2006, le ministre du Revenu national a établi à l’égard de l’appelant une cotisation relative à l’année d’imposition 1998 fondée sur un avantage de 91 485,00 $, selon le calcul suivant :
+Lot A :
+Juste valeur marchande
+73 000 $
+Moins : contrepartie versée
+(1 000)
+Plus : TPS
+5 040
+Sous-total
+77 040 $
+Lot B :
+Juste valeur marchande
+28 000 $
+Moins : contrepartie versée
+(1 000)
+Plus : TPS
+1 890
+Sous-total
+28 890
+Divisé par 2 (moitié du bien)
+14 445 $
+TOTAL
+91 485 $
+16. L’appelant a déposé un avis d’opposition le 27 octobre 2006. (Avis d’opposition, recueil conjoint de documents, onglet 2.)
+17. Dans son avis d’opposition, l’appelant cherche à déduire de l’avantage fixé dans la nouvelle cotisation le solde du compte de prêt à l’actionnaire qu’il détient auprès de la société.
+18. Le ministre a ratifié la nouvelle cotisation le 13 février 2007, sans avoir examiné les états financiers de la société. (Avis de ratification, recueil conjoint de documents, onglet 3.)
+19. Les états financiers non vérifiés font état d’un solde du compte de prêt à l’actionnaire de 14 583,00 $ et de 73 171,00 $ pour 1998 et 1999, respectivement. (États financiers de 1998 et de 1999, recueil conjoint de documents, onglets 4 et 5.)
+20. La déduction du montant non vérifié des prêts à l’actionnaire de l’avantage pour opérer compensation donne les résultats suivants :
+Prêt à l’actionnaire en 1998 14 583 $
+Moins avantage_____91 485 $
+Avantage net 76 902 $
+Prêt à l’actionnaire en 1999 73 171 $ - 14 583 $ = 58 588 $
+Moins report en avant de l’avantage ____ __ 76 902 $
+Avantage net 18 314 $
+21. La question en litige dans le présent appel est celle de savoir si l’appelant peut opérer compensation entre le montant des prêts à l’actionnaire et l’avantage découlant de la décision antérieure de la Cour canadienne de l’impôt.
+[4] Comme il est mentionné plus haut, la nouvelle cotisation de 2006 actuellement frappée d’appel découle d’une décision antérieure de la Cour canadienne de l’impôt rendue par le juge Beaubier le 31 mars 2006. Dans l’appel précédent, la question en litige était de savoir si l’appelant avait reçu un avantage au titre du transfert des biens réels situés à Victoria (Colombie‑Britannique). L’appelant était l’unique actionnaire et administrateur de Phoenix Estates Ltd. (la société « Phoenix ») et son épouse est Coralee Coutre (« Mme Coutre »).
+[5] Avant le 15 mai 1998, Phoenix était l’unique propriétaire du lot A et la propriétaire de la moitié du lot B. L’autre moitié du lot B appartenait à Malcolm Developments Inc. (la société « Malcolm »), une société sans lien de dépendance. Le 15 mai 1998, les lots A et B ont intégralement été transférés de Phoenix et de Malcolm à Mme Coutre en contrepartie d’une somme de 1 000 $ le lot.
+[6] Le ministre a établi une nouvelle cotisation relativement à l’année d’imposition 1998 de l’appelant de sorte que le montant de l’avantage se chiffre à 119 840 $. L’appelant a soutenu qu’il n’avait pas reçu d’avantage et que la juste valeur marchande (la « JVM ») des lots s’élevait à 1 000 $ chacun. Il a avancé à titre subsidiaire que la JVM du lot A était de 23 000 $ et celle du lot B de 28 000 $.
+[7] Le juge Beaubier a conclu que la JVM des lots A et B était de 73 000 $ et de 28 000 $, respectivement, et que l’appelant avait reçu un avantage indirect totalisant 91 485 $. Conformément à l’ordonnance du juge Beaubier, le ministre a établi relativement à l’année d’imposition 1998 de l’appelant une nouvelle cotisation faisant état d’un avantage de 91 485 $. L’appelant a cherché à déduire le solde de son compte de prêt à l’actionnaire auprès de Phoenix du montant de l’avantage fixé dans la nouvelle cotisation.
+[8] Les états financiers non vérifiés font état d’un solde du compte de prêt à l’actionnaire de 14 583 $ et de 73 171 $ pour les années d’imposition 1998 et 1999, respectivement. Opérer compensation entre le montant non vérifié des prêts à l’actionnaire et l’avantage donnerait lieu à l’inclusion, dans le revenu de l’appelant, d’un avantage net total de 18 314 $ plutôt que de 91 485 $.
+Position de l’appelant
+[9] L’appelant soutient qu’il peut porter les prêts à l’actionnaire en déduction de l’avantage qu’il aurait reçu. À titre subsidiaire, il affirme qu’aucun avantage n’a été reçu et que seul un remboursement réputé a été appliqué en réduction du solde de son compte de prêt à l’actionnaire.
+Position de l’intimée
+[10] L’appelant ne peut, suivant le paragraphe 169(2) de la Loi, tenter de faire modifier le montant de l’avantage antérieurement fixé par la Cour.
+[11] Le présent appel est en outre visé par la doctrine de la chose jugée puisque l’appelant n’a, à aucune étape de son appel antérieur, soulevé la question de son compte de prêt à l’actionnaire ni demandé qu’il y ait compensation entre de quelconques sommes et ce compte. Selon la doctrine de la chose jugée, il lui est interdit de soulever des arguments qu’il aurait pu avancer à l’audience s’il avait fait preuve de diligence raisonnable.
+[12] L’intimée fait également valoir que l’appelant ne peut procéder à une planification fiscale rétroactive maintenant que la Cour a rendu sa décision.
+Premier appel
+[13] Dans la décision Phoenix Estates Ltd. c. La Reine[1], la contribuable (Phoenix, soit la société de l’appelant en l’espèce) a interjeté appel de la cotisation établie relativement à son année d’imposition 1998 par laquelle le ministre avait porté de 2 000 $ à 112 000 $ le produit de disposition réalisé par suite du transfert des lots A et B. Les questions en litige visées par l’appel étaient les suivantes :
+a) La JVM du lot A était‑elle d’au moins 73 000 $ au 15 mai 1998?
+b) La JVM du lot B était‑elle d’au moins 81 000 $ au 15 mai 1998?
+c) Le ministre a‑t‑il eu raison d’établir une cotisation à l’égard de l’appelante pour le produit additionnel de la disposition, s’élevant en tout à 112 000 $, au cours de l’année d’imposition 1998?
+[14] Le juge Beaubier a estimé que la JVM des lots A et B n’était pas de 1 000 $ chacun, contrairement à ce qui était allégué, mais plutôt de 73 000 $ et de 28 000 $, respectivement. Phoenix a transféré les lots suivant les instructions de l’appelant, soit Ronald Coutre, son unique actionnaire, à titre d’avantage que ce dernier désirait voir conférer à son épouse, Mme Coutre. Le juge Beaubier a conclu que l’appelant savait que les transferts auraient pour effet de conférer un avantage à son épouse et que 91 485 $ devaient donc être ajoutés au revenu gagné par l’appelant en 1998. La Cour a notamment ordonné ce qui suit au ministre :
+2. En ce qui concerne l’appel 2003‑3274(IT)G, le ministre a eu raison d’établir une cotisation à l’égard de Ronald Coutre compte tenu du fait que celui‑ci a obtenu un avantage dont la valeur doit être déterminée en conséquence pour l’année d’imposition 1998, sur la base des justes valeurs marchandes déterminées dans les présents motifs.
+Doctrine de la chose jugée
+[15] Dans la décision McFadyen v. The Queen[2], le juge en chef Rip a renvoyé à l’arrêt Henderson v. Henderson[3] lorsqu’il a énoncé la règle de la préclusion fondée sur la cause d’action (chose jugée) et en particulier au passage suivant :
+24 […] lorsqu’une question donnée fait l’objet d’un litige qui est du ressort d’un tribunal compétent, le tribunal exige des parties au procès qu’elles invoquent tous les moyens dont elles disposent et il ne permettra pas aux parties (sauf dans des circonstances exceptionnelles) de rouvrir le débat sur des questions qui auraient pu être soulevées en même temps que l’objet du litige a été examiné mais qui ne l’ont pas été uniquement parce qu’on a omis de les soulever par négligence, par inadvertance ou même par accident. Le moyen tiré du principe de l’autorité de la chose jugée s’applique […] non seulement aux questions au sujet desquelles la Cour était effectivement requise par les parties de former une opinion et de rendre un jugement, mais aussi à toutes les questions qui faisaient à juste titre partie de l’objet du litige et que les parties auraient pu soulever à ce moment‑là si elles avaient fait preuve d’une diligence raisonnable.
+[16] Le juge en chef Rip s’est appuyé sur l’arrêt Angle c. Le ministre du Revenu national[4] pour énoncer les conditions qui doivent être satisfaites pour que la préclusion découlant d’une question déjà tranchée puisse être appliquée. Il a déclaré que les trois éléments suivants doivent être réunis : (i) que la même question ait été décidée; (ii) que la décision judiciaire invoquée comme créant la fin de non‑recevoir soit finale; et, (iii ) que les parties dans la décision judiciaire invoquée, ou leurs ayants droit, soient les mêmes que les parties engagées dans l’affaire où la fin de non‑recevoir est soulevée, ou leurs ayants droit. Le contribuable pourrait se voir interdire de soulever une nouvelle question en appel dans les cas où il lui aurait été possible de soumettre celle‑ci au tribunal dans le cadre de la première action, mais où il a omis de le faire.
+33 Dans l’arrêt Danyluk c. Ainsworth Technologies Inc., la Cour suprême du Canada a fermement établi que l’application de la préclusion découlant d’une question déjà tranchée, lorsque les conditions applicables à cette doctrine sont réunies, est assujettie au pouvoir discrétionnaire judiciaire. Il semble qu’il en soit de même pour ce qui est de la préclusion fondée sur la cause d’action.
+[17] Enfin, au paragraphe 39 de la décision McFadyen, la Cour renvoie à l’arrêt Phosphate Sewage Co. v. Molleson[5] en ce qui concerne la circonstance exceptionnelle représentée par une nouvelle preuve :
+[traduction] Selon mon interprétation du droit sur la doctrine de la chose jugée, elle ne permet pas, et le contraire serait inadmissible, qu’une partie qui n’a pas eu gain de cause au cours d’un procès puisse relancer le litige en affirmant simplement que, depuis la fin du procès antérieur, elle a découvert un autre fait qui concorde exactement avec ceux avancés précédemment et qui ne modifie en rien le redressement demandé antérieurement, mais qui, ajouté aux autres faits mentionnés, permettrait d’intenter une nouvelle action fondée sur ce fait nouveau. […]
+[18] L’avocat de l’appelant a reconnu que cette question aurait pu être soumise à la Cour dans le cadre de l’appel antérieur, mais qu’elle ne l’avait pas été. L’appel antérieur n’intéressait simplement qu’une question d’évaluation; le point relatif au compte de prêt à l’actionnaire n’a été soulevé qu’après le prononcé du jugement, et il n’a jamais été question de compensation. L’avocat ajoute que, si on applique les principes comptables reconnus, le montant de l’avantage devrait être défalqué du prêt à l’actionnaire consenti à l’appelant. À titre d’argument subsidiaire, il a admis que la question du compte de prêt à l’actionnaire aurait pu être soulevée dans le cadre de l’appel antérieur, mais qu’il n’y avait rien qui l’obligeait à le faire.
+[19] Je me penche maintenant sur l’application des trois éléments constitutifs de la préclusion découlant d’une question déjà tranchée, à savoir : (i) que la même question ait été décidée; (ii) que la décision judiciaire invoquée comme créant la fin de non‑recevoir soit finale; et, (iii) que les parties dans la décision judiciaire invoquée, ou leurs ayants droit, soient les mêmes que les parties engagées dans l’affaire où la fin de non‑recevoir est soulevée, ou leurs ayants droit. De toute évidence, le jugement du juge Beaubier constituait une décision définitive rendue par un tribunal compétent et les parties aux deux appels sont les mêmes, ce qui satisfait aux critères (i) et (iii).
+[20] La question dont je suis saisi a été tranchée dans le cadre de l’appel initial. Le juge Beaubier a conclu que l’appelant avait reçu un avantage et que la cotisation devait être établie sur le fondement de la JVM fixée dans les motifs de son jugement. Il découle de ce jugement que l’avantage doit être ajouté au revenu de l’appelant. Il n’est absolument pas question de compensation. La question visée dans les deux appels est la même : quel est le montant de l’avantage reçu par l’appelant au titre du transfert des lots A et B? Le premier critère de la préclusion découlant d’une question déjà tranchée est rempli puisqu’il s’agit du même ensemble de faits et des mêmes arguments que ceux présentés dans l’instance précédente. La préclusion ne s’applique pas seulement aux questions qui ont été tranchées de manière définitive par la Cour, elle s’applique aussi aux arguments qui auraient pu être soulevés par une partie faisant preuve de diligence raisonnable. L’appelant aurait pu avancer lors du premier appel l’argument relatif à la compensation entre ses prêts à l’actionnaire et l’avantage. Il était l’unique actionnaire et administrateur de Phoenix; il connaissait la situation financière de la société et l’existence de son compte de prêt à l’actionnaire impayé. Je ne doute pas qu’il ait su qu’il transférait un avantage à son épouse, lequel montant a été fixé de manière définitive par la Cour dans le cadre du premier appel de l’appelant. Il est donc interdit à ce dernier d’interjeter appel de la nouvelle cotisation de 2006 établie à son égard, compte tenu de la doctrine de la chose jugée. Le prêt à l’actionnaire ne constitue pas un nouvel élément de preuve et l’application de la doctrine de la chose jugée n’entraînerait aucune injustice grave.
+[21] En conclusion, les propos suivants tenus par le juge Paris dans la décision Ahmad s’appliquent tout autant dans le présent appel.
+30 […] Souvent dans un procès, la détermination d’une question particulière influence la détermination des questions liées, mais ceci ne soustrait pas une partie à l’obligation de soulever en même temps toutes les questions prévisibles qui sont liées. Sinon, comme cela a été signalé, il n’y aurait pas de fin aux actions en justice.
+[22] Comme j’ai décidé que la doctrine de la chose jugée s’applique en l’espèce, il est inutile d’examiner les moyens fondés sur le paragraphe 169(2), bien qu’une brève observation puisse être appropriée. En majeure partie, les motifs qui précèdent intéressent les moyens fondés sur le paragraphe 169(2) invoqués par l’appelant ainsi que le paragraphe 165(1.1). Dans l’arrêt Chevron Canada Resources Ltd. v. The Queen[6], la Cour d’appel fédérale a interdit à Chevron de soulever la question du calcul des bénéfices en cause. Elle a conclu qu’il n’était pas nécessaire qu’il s’agisse exactement de la même question que celle soulevée dans l’instance initiale. La question en litige en l’espèce concerne le montant de l’avantage. Ce point a été tranché par le juge Beaubier dans le cadre de l’instance antérieure. Comme il a été décidé en ce qui concerne la doctrine de la chose jugée, l’appelant ne peut interjeter appel de la nouvelle cotisation de 2006 en application du paragraphe 169(2).
+[23] L’avocat de l’appelant n’a pas fait état du paragraphe 169(2) de façon précise; il a simplement affirmé que la présente affaire est du genre de celles autorisées par cette disposition lorsqu’il s’agit d’une question différente de celle visée par l’instance initiale. Dans la décision Ahmad, le juge Paris a résumé la conclusion tirée dans l’arrêt Chevron de la manière suivante :
+22 Selon le juge Bowman, J.C.A., il était raisonnable de considérer que les nouvelles questions auxquelles s’opposait le contribuable étaient liées aux questions qui avaient donné lieu aux nouvelles cotisations et qui n’avaient pas été tranchées définitivement devant la Cour. Par conséquent, le paragraphe 165(1.1) ne privait pas le contribuable de s’opposer à ces questions.
+23 Lors de l’instruction de l’appel, la Cour […] a infirmé la conclusion selon laquelle la Cour canadienne de l’impôt n’avait pas tranché définitivement ces questions dans son jugement sur consentement. […] La Cour d’appel a rejeté l’argument du contribuable selon lequel le jugement sur consentement ne faisait que trancher les questions précises qu’il visait, pas plus. Elle a soutenu que, selon le principe de la chose jugée, le jugement d’un tribunal tranche définitivement toutes les questions pour lesquelles des décisions n’ont pas été rendues mais qui sont liées à la question en litige, y compris celles qui auraient pu être soulevées à l’époque. [Cette observation est tout aussi pertinente en l’espèce.] La Cour a fait référence aux commentaires suivants formulés par le Comité judiciaire du Conseil privé dans l’affaire Thomas v. Trinidad & Tobago (Attorney General) : […]
+[24] Comme je l’ai déjà mentionné, je suis d’accord avec l’intimée. J’estime que la question dont je suis saisi en l’espèce est liée à celle soumise au juge Beaubier dans le premier appel. Même si la question en litige en l’espèce n’avait de lien avec aucun des points visés dans le premier appel, il s’agit d’une question qui aurait pu être soulevée dans le cadre de l’appel précédent et les arguments déjà exposés plus haut concernant la chose jugée s’appliquent également à cet égard.
+Compensation entre le compte de prêt à l’actionnaire et l’avantage
+[25] L’appelant a invoqué la décision Franklin v. R.[7] pour étayer son argument voulant qu’il puisse opérer compensation entre ses prêts à l’actionnaire et l’avantage reçu.
+[26] L’avocat de l’appelant a en outre signalé que, selon la Cour d’appel fédérale, on ne pouvait justifier ni écarter le fait qu’aucun avantage n’avait été conféré au contribuable dans l’affaire Franklin. Par conséquent, fixer l’impôt sur le fondement d’états financiers qui ont été jugés erronés donnerait lieu à un résultat inexact. Il soutient qu’en l’espèce, le ministre a commis la même erreur en omettant de tenir compte du prêt à l’actionnaire et de permettre la compensation.
+[27] J’accepte la thèse de l’intimée selon laquelle la décision Franklin ne s’applique pas au présent appel, et ce, pour deux raisons. Premièrement, dans cette affaire, la Cour a accordé un poids particulier au fait qu’il y avait une série d’erreurs de tenue des comptes mais, en l’espèce, aucune erreur de ce genre susceptible d’entraîner un résultat injuste pour l’appelant n’a été commise. Ce dernier a simplement sous‑estimé la valeur des lots dans ses états financiers. Deuxièmement, l’intimée précise que, dans la décision Franklin, les erreurs ont amené le ministre à croire que le contribuable avait reçu un avantage alors que ce n’était pas le cas. Or, il est établi en l’espèce qu’un avantage a été conféré à l’appelant et la décision Franklin peut donc faire l’objet d’une distinction fondée sur ces deux points.
+[28] L’avocat de l’appelant prétend qu’en raison du régime de double imposition prévu au paragraphe 15(1), le contribuable doit être autorisé à porter le prêt à l’actionnaire en déduction de l’avantage reçu. Il ajoute que le juge Beaubier ne conclut à aucun acte répréhensible; l’appelant a simplement utilisé une valeur erronée. Ce n’est peut‑être pas aussi simple. L’appelant était un promoteur immobilier chevronné et il aurait dû savoir que la valeur qu’il avait attribuée aux lots était notablement irréaliste. Quoi qu’il en soit, ce point est dénué de pertinence.
+[29] La Cour a conclu que l’avantage était un avantage indirect suivant le paragraphe 56(2) de la Loi et qu’il avait à juste titre été ajouté au revenu de l’appelant en application du paragraphe 15(1). En sa qualité d’unique actionnaire et administrateur de Phoenix, l’appelant a donné des instructions pour que la part que détenait la société dans les lots A et B soit transférée à Mme Coutre. L’apparent effet de double imposition est un résultat obligatoire de la nature de l’avantage ainsi que du lien existant entre l’appelant et la société.
+[30] Il ressort sans équivoque des faits que la situation dont je suis saisi est bien différente de celle dans Franklin. En effet, aucune erreur de tenue des comptes n’a eu lieu dans le présent appel. L’appelant a admis qu’il avait voulu conférer l’avantage à son épouse dans le cadre d’une stratégie de planification familiale et qu’il n’y avait aucune erreur de tenue des comptes. De plus, dans le premier appel, le juge Beaubier a conclu qu’il existait un avantage selon le paragraphe 15(1) tandis que, dans l’affaire Franklin, le tribunal a estimé qu’aucun avantage n’avait été accordé.
+[31] L’appelant souhaite, par le présent appel, pouvoir réécrire les opérations qu’il a lui‑même effectuées antérieurement et faire ce qu’il aurait peut‑être dû faire auparavant. Il s’agit de planification fiscale rétroactive, ce qui n’est pas acceptable. Voir la décision Adam v. Minister of National Revenue[8].
+[32] L’appel est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 19e jour de novembre 2009.
+« C. H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 1er jour de février 2010.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2009 CCI 456
+NO DU DOSSIER DE LA COUR : 2007-2083(IT)G
+INTITULÉ : Ronald Coutre et
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Victoria (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 8 mai 2009
+MOTIFS DU JUGEMENT : L’honorable juge C. H. McArthur
+DATE DU JUGEMENT : Le 15 septembre 2009
+DATE DU JUGEMENT MODIFIÉ : Le 19 novembre 2009
+COMPARUTIONS :
+Avocat de l’appelant :
+Me D. Laurence Armstrong
+Avocate de l’intimée :
+Me Susan Wong
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : D. Laurence Armstrong
+Cabinet : Armstrong Wellman Victoria (Colombie-Britannique)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 2006 CCI 206, recueil conjoint de documents, onglet 1.
+[2] 2008 DTC 4513 (C.C.I.).
+[3] (1843) Hare 100 (Eng. V.-C.), vol. LXVII, recueils anglais (comportant Hare, vol. 2 à 6) 313.
+[4] [1975] 2 R.C.S. 248 (C.S.C.).
+[5] (1879), 4 App. Cas. 801 (C.L.).
+[6] [1999] 4 C.T.C. 140 (C.A.F.).
+[7] [2000] 4 C.T.C. 2332 (C.C.I.). Confirmée par [2002] 2 C.T.C. 88 (C.A.F.).
+[8] 85 DTC 667.

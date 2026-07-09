@@ -1,0 +1,261 @@
+---
+title: "BlackBerry Limited v. The King"
+source: "https://norma.lexum.com/tcc-cci/decisions/en/item/521156/index.do"
+last_modified: "2023-09-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2023 TCC 137"
+citation2: ""
+neutral_citation: "2023 TCC 137"
+decision_date: "2023-09-12"
+language: "en"
+item_id: "521156"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5471
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2025-11-08T09:24:41.500000+00:00"
+cases_cited_count: 13
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2a73e920613cd31702280d5f5d58ca74e119799a30816be640082ced5e36c3bd"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# BlackBerry Limited v. The King
+
+- Citation: 2023 TCC 137
+- Decision date: 2023-09-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5471, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+BlackBerry Limited v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2023-09-12
+Neutral citation
+2023 TCC 137
+File numbers
+2019-1378(IT)G
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2019-1378(IT)G
+BETWEEN:
+BLACKBERRY LIMITED,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Oral and written submissions concerning a voir dire motion heard and received August 31, 2023 at Toronto, Ontario.
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+Counsel for the Appellant:
+Justin Kutyan
+Salvatore Mirandola
+Kristen Duerhammer
+Counsel for the Respondent:
+Yanick Houle
+Christina Ham
+Katherine Savoie
+ORDER
+UPON HEARING oral submissions and receiving written representations on a voir dire motion concerning the admissibility of certain expert reports;
+AND UPON PUBLISHING its reasons for order on this date;
+NOW THEREFORE THIS COURT ORDERS THAT:
+The Respondent’s motion challenging the admissibility of certain reports as expert evidence before this Court is granted, on the following basis:
+Costs on this voir dire motion shall follow the cause.
+a. Section 3 (appearing on pages 48-72) and related conclusions and opinions thereto in the expert report of Brad Rolph dated July 24, 2023 are inadmissible as expert evidence and testimony: and,
+b. The expert report of Jack Mintz is inadmissible in its entirety as expert evidence and testimony.
+2. The Respondent shall serve a copy of his rebuttal evidence, if any, to the portions of Mr. Rolph’s report which are admissible as expert evidence on or before September 28, 2023.
+Signed at Ottawa, Canada, this 12th day of September, 2023.
+“R. S. Bocock”
+Bocock J.
+Citation: 2023 TCC 137
+Date: 20230912
+Docket: 2019-1378(IT)G
+BETWEEN:
+BLACKBERRY LIMITED,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+AMENDED REASONS FOR ORDER
+Bocock J.
+I. INTRODUCTION
+(a) Respondent’s challenge of admissibility of certain expert reports [1] These reasons for order relate to the admissibility of two expert reports in relation to the Appellant’s appeal.
+[2] The Appellant seeks to introduce the following reports of two experts:
+a)Dr. Jack Mintz Ph.D., a tax policy economist, professor and former chair of the Technical Committee on Business Taxation, which committee authored the 1997 Report to the Minister of Finance on Business Taxation (the “Technical Report”). Appellant’s counsel asked him to “opine to the Court on the development of international tax principles in Canada that are of central interest in this appeal.”
+b)Brad Rolph, a transfer pricing economist, is a partner with Grant Thornton Consulting and, for a decade until 2022, was
+National Leader of Grant Thornton’s transfer pricing practice in Canada with a cross leadership role in Grant Thornton’s international Transfer Pricing section. Appellant’s counsel asked him to opine, firstly, on alternative hypothetical transfer pricing structures and secondly, on the policy ramifications of a “hypothetical” model receiving similar treatment as that which the Appellant received from the Minister.
+[3] The Respondent moves for an order to exclude the two reports. The bases for these challenges are contained in the reasons below. The two experts’ credentials or impartiality have not been challenged.
+(b) Nature and context of appeal [4] The Appellant’s appeal concerns the foreign accrual property income (FAPI) rules, the disallowance of any foreign accrual tax (FAT) deduction, and related FAPI regime under the Income Tax Act (ITA). The Minister assessed the Appellant, BlackBerry Limited, approximately $17.1 million of FAPI in taxation year 2010. The FAPI relates to research and development (“R&D”) services provided by US affiliates to the Appellant, a Canadian head of family corporation.
+[5] Further, the Minister effectively reduced to nil the US corporate tax paid by US affiliate corporations when determining the FAT deduction.
+[6] Succinctly, the statutory dispute centres around the following two FAPI issues:
+Is US $17.1 million earned by the Appellant’s US affiliates from R&D services rendered to the Appellant in connection with IT development FAPI under 95(2)(b) and therefore income?
+And if so, can the Appellant deduct the foreign tax paid on FAPI under 91(4) or is it deemed nil by 91(1)?
+II. THE EXPERT REPORTS IN BRIEF
+[7] At first glance the issues seem simple. However, the FAPI rules and regime are one inch wide and a mile deep. As such, Appellant’s counsel believes the Court, and as it was argued counsel, needs all the help it can get, specifically concerning the extrinsic economic purpose, motivation and policy behind the FAPI regime and other analogous tax base erosion policies, such as transfer pricing rules.
+(a) The Rolph Report Statement of Issues Addressed [8] Firstly, Mr. Rolph describes alternative transfer pricing structures which the Appellant and its affiliates could have implemented. It is submitted these alternatives would have resulted in the Appellant not having to report a FAPI inclusion related to the R&D services rendered by the foreign affiliate in its taxable income and to quantify the resulting Canadian income tax owing for 2010 under each of the alternatives.
+[9] Secondly, Mr. Rolph considers a situation where a Canadian corporation had a FAPI inclusion and R&D tax credits or incentives received by a foreign affiliate from a foreign government reduce the available FAT deduction for foreign taxes. He then comments on the economic effect of reducing the FAT deduction by the foreign government R&D tax credits or incentives.
+Summary of Opinions Expressed [10] In Section 2, in response to the first query, Mr. Rolph considered 4 alternative transfer pricing structures that would have resulted in no FAPI inclusion related to the R&D services rendered by the foreign affiliates in 2010. In doing so, Mr. Rolph asserts that the Appellant would have paid less Canadian corporate income tax under each alternative for Taxation Year 2010 than the amount paid.
+[11] Further, he concludes that by centralizing its intellectual property in Canada and outsourcing a fraction of its R&D activities to foreign affiliates that employed qualified individuals, the Appellant chose a transfer pricing structure that enhanced Canada’s corporate income tax base, not eroded it.
+[12] In Section 3, Mr. Rolph:
+a) compares: (i) the Minister’s administrative policy regarding transfer pricing and government incentives received from the Canadian government for R&D services provided by Canadian subsidiaries to related non-resident affiliates; with, (ii) its FAPI and FAT treatment of R&D tax credits received by related non-resident affiliates from foreign governments.
+b) where this occurs, then draws the following conclusions within the hypothetical: (i) when a Canadian taxpayer receives government assistance for rendering contract R&D services to a related non-resident affiliate, the Minister presumes the Canadian taxpayer will keep the government assistance unless the Canadian taxpayer can prove arm’s length parties would effectively share all or part of that assistance; (ii) when a related non-resident affiliate renders contract R&D services to the Canadian taxpayer and receives R&D tax credits from the foreign government, the R&D tax credits reduce the Canadian taxpayer’s FAT deduction used to offset the increased tax payable resulting from any FAPI inclusion; and, (iii) as a result, the Canadian taxpayer pays tax on the government assistance received by the related non-resident affiliate from the foreign government; and,
+c)If that be so, (i) then the Minister’s treatment of R&D tax credits received by related non-resident affiliates from foreign governments under the FAT provisions in the Act is inconsistent with its policy regarding the treatment of government assistance under the transfer pricing rules because reducing the FAT deduction by the amount of the U.S. R&D tax credits does not treat R&D tax credits from foreign governments as tax expenditures/financial assistance delivered by a government through the income tax system. Instead, they are treated as a reduction in income tax owed to foreign governments; (ii) therefore, the Minister’s application of the FAT rules results in the Canadian government taxing the financial assistance received by a related non-resident affiliate of the Canadian taxpayer from a foreign government; and; (iii) incongruously, the Canadian headquartered multi-national business that gets foreign government assistance for performing R&D activities abroad only gets to keep part of the government assistance.
+(b) The Mintz Report Statement of Issues Addressed [13] The Mintz Report answers 6 questions posed. Those questions require Dr. Mintz to make the following assumptions to opine on the development of international tax principles in Canada that are asserted to be of central interest to the appeal. The Technical Committee which Dr. Mintz chaired for the Minister of Finance in 1996 and 1997 discussed such principles in detail.
+[14] Dr. Mintz assumed that such international income tax principles and policies under the corporate income tax regime are relevant to the tax dispute between the Appellant and the Minister. This, he continues, is because, in the taxation year ending February 2010, certain foreign affiliates and controlled foreign affiliates of the Appellant provided R&D services to the Appellant.
+[15] A critical issue in the appeal is identified by Dr. Mintz (and not generally in dispute): whether the income earned by the Appellant’s controlled foreign affiliates from the R&D Services provided to the Appellant should be taxed as FAPI?
+Summary of Opinions Expressed [16] Specifically, Dr. Mintz was asked to answer the following questions:
+Question 1: What was your role in the Report of the Technical Committee on Business Taxation (the TCBT Report)? What was the Technical Committee’s mandate?
+Question 2: Were international tax measures considered as part of the Technical Committee’s mandate? If so, what principles of international tax? For any such measures or principles of international tax, are these intended to interact together or in isolation?
+Question 3: Were the FAPI rules considered as part of the Technical Committee’s mandate? If so, what principles were considered? What, if any, policy consideration or concerns did the Technical Committee identify? What policy considerations are the FAPI provisions intended to address? Have there been, or are there, competing policy considerations about FAPI? If so, what are they?
+Question 4: Were the transfer pricing rules considered as part of the Technical Committee’s mandate? If so, what transfer pricing principles? What findings did the Technical Committee make about the transfer pricing rules? What, if any, findings did the Technical Committee identify about transfer pricing?
+Question 5: Were the FAPI rules intended to interact with transfer pricing rules? If so, how?
+Question 6: Does the situation described in the Statement of Assumed Facts for BlackBerry Canada engage any of the policy considerations and concerns in the Technical Committee’s review of international tax principles, FAPI and transfer pricing rules? If yes, how so?
+[17] Simply, his expert opinion is a detailed written response to these 6 questions.
+III. THE PARTIES’ SPECIFIC SUBMISSIONS
+[18] A summary of the specific written and oral submissions of the parties are below.
+(a) The Rolph Report (i) The Respondent
+[19] The Respondent, as the party impugning the Rolph Report, argues the report is irrelevant, unnecessary and prejudicial.
+[20] Regarding relevance, the Respondent argues that the transfer pricing hypotheticals and resulting tax (Section 2 in the report) are irrelevant because this is not a transfer pricing case and taxpayers must be assessed on actual tax filings and not hypothetical comparisons.
+[21] Further, the Respondent argues that Section 2 (and potentially Section 3 regarding “hypothetical” policy errors) is unnecessary because taxpayers are assessed based upon the return as filed and not various alternatives available which may have yielded different tax payable.
+[22] The Respondent asserts Mr. Rolph is not providing economic analysis but opinion and narrative on the application of provisions of the ITA. The Minister’s policies, tax treaties, where Canada is a party, and OECD conventions referenced and interpreted in the Rolph Report are essential findings this Court will make in the appeal, as framed in the Appellant’s own pleadings. Ultimately, this evidence is reflective of the legislature’s intention[1]. To allow such evidence, “usurps the function of the trier of fact.”
+(ii) The Appellant
+[23] In turn, the Appellant argues the Rolph Report is relevant, necessary and has value beyond any prejudicial effect.
+[24] Generally, and through analogy, the Rolph Report applies transfer pricing expertise to 4 hypotheticals for comparison and contrast to the economic outcome and policy inconsistencies of the Minister’s application of the FAPI rules and grinding of the FAT credits.
+[25] Alternative structures are relevant to illustrate the potential conflict between the purpose of the FAPI rules and FAT credits and the Minister’s application in reassessing the Appellant.
+[26] Central to the Appellant’s argument is that the tax structure employed by the Appellant supplemented and did not erode Canada’s tax base. Alternative structures would have done so. The calculations show firstly those alternative structures, and that if used by the Appellant, they would have worsened the tax base. This is relevant to establish whether the mischief targeted by the FAPI rules has occurred in this appeal (Section 2). Such calculations are necessary to the foundation of the argument that no mischief has occurred. To create and convey a useful level of understanding requires a high degree of expertise.
+[27] The quantification in Section 3 is relevant to the salient issue of the correct interpretation and application of paragraph 95(2)(b) of the Act and the Appellant’s entitlement to the FAT credit.
+[28] The complex technical issues and comparative illustrations in the Rolph Report “are technical matters more in the nature of finding facts” and most often completed by using a computer.[2]
+[29] Finally, the probative value displaces the prejudicial effect. Necessary context is provided by hypothetical comparisons to assist in interpreting the FAPI rules and FAT credits. No opinion on law is tendered, Mr. Rolph is not a lawyer and a judge, as both trier of law and fact, can discern any risk of interpretive direction and appropriately apportion weight.
+[30] Simply, the Court would benefit from the Rolph Report because the hypotheticals and analysis present extrinsic materials as experts have in previous appeals: a Crown expert witness that provided testimony that the Appellant’s calculation methodology was contrary to certain OECD Guidelines[3], expert testimony regarding the scope and function within the OECD Guidelines[4] and evidence on the background of “permanent establishment” in the OECD model Treaty and UN Model Treaty[5].
+[31] The illustrative Rolph Report provides financial and tax calculations and does not concern the purpose, object or meaning of legislation or policies.
+The Mintz Report (i) Respondent [32] The Respondent asserts that the Mintz report is inadmissible in its entirety because it offers legal opinions on domestic economic policy interpreted and applied by existing tax legislation, anecdotal evidence concerning existing extrinsic evidence, and is not expert evidence on any economic analysis needed to decide this appeal.
+[33] The goal of Dr. Mintz’s report is to provide a foundation of principles necessary to interpret the FAPI rules and the FAT credits. Pure and simple, that is the job of the Tax Court: a specialized, exclusive and mandated superior court charged with the specific task of interpreting the statute (the ITA) through various inputs, fact evidence, legal authorities, and the rendering of a decision.
+[34] In short, the Mintz Report, is unnecessary. It provides interpretation through suggestion of “the rationale for a certain section and its ideal application”.
+[35] To the extent economic considerations are invoked, they are irrelevant. The FAPI rules neither require nor direct an economic analysis. As such, economic analysis, unlike in transfer pricing and GAAR cases, is not incorporated in the FAPI rules.
+[36] The Mintz Report focuses on the author’s stint as chair of the Technical Committee which looms large and consistently in all 6 questions posed by counsel in commissioning the Mintz Report. If the Technical Report is so central, then it can be submitted by counsel as extrinsic evidence in argument. The Court, as the trier of fact, can receive it as such, not the singular view of the committee chair as expert evidence.
+[37] Lastly, the Respondent argues that both reports are prejudicial because:
+They opine on statutory interpretation; and,
+The statutory interpretation is of domestic law and that is the exclusive role, purview and task of a judge.
+(ii) Appellant [38] The Mintz Report is relevant because it primarily explains and summarizes the Technical Committee’s analysis within the Technical Report. This sets the foundation for the task of comparing the Appellant’s structure to illustrative examples to conclude whether the mischief of tax base erosion occurred. FAPI should not be viewed in isolation from transfer pricing rules, and if no base erosion results, transfer pricing references assist.
+[39] The Mintz Report is necessary because no opinion on domestic law is proffered. The Mintz Report addresses general economic principles which informed the Technical Committee’s Report, and ultimately the resulting legislation and is not an interpretation of the relevant 95(2)(6).
+[40] In addition, in his capacity as an economist, Professor Mintz does not fall within the usual disqualification of a source for legal opinion on domestic law: a Canadian lawyer.
+[41] Mere testimony by an expert on legislative facts advances in Canadian law and is now accepted where the legislative purpose or object is allegedly unattained by the impugned provision. A textual, contextual and purposive (TCP) analysis will most probably be undertaken in this appeal. Legislative facts are critical to a TCP analysis. Constitutional law cases need not be the exclusive domain of these evidentiary inputs proffered by experts. This appeal needs that expertise from the Mintz Report
+[42] The most efficient way for the Court to receive these legislative facts is through the testimony of Dr. Mintz concerning his report. Counsel identified the Supreme Court’s acknowledgement of no “direct evidence” concerning the purpose of the “arm’s length” provision in transfer pricing[6]. Extrinsic evidence is necessary for a TCP analysis.
+[43] Lastly, no prejudice is caused to the Respondent by admitting the Mintz Report. The Mintz Report was authored by the chair of the Technical Committee and the whole report is an essential extrinsic aid in this appeal.
+IV. THE APPLICABLE LAW: FRAMEWORK FOR ADMISSIBILITY OF EXPERT EVIDENCE
+[44] The two-step test for determining expert evidence admissibility was initially articulated by the Supreme Court of Canada (“Supreme Court”) in Mohan and subsequently clarified in White Burgess.[7] The Supreme Court’s direction may be summarized below:
+1. Threshold admissibility: This step consists of four questions: is the evidence logically relevant; is it necessary to assist the trier of fact; are there other exclusionary rules; and is the expert properly qualified.
+2. Gatekeeper function / Residual discretion to exclude: This step is a cost-benefit analysis of the help and harm of the evidence. Does the probative value outweigh potential prejudice, confusion, and prolonged court time? This can be thought of as an application of the general exclusionary rule.[8]
+[45] Relevancy at the initial threshold step is usually surmountable. The question is whether the evidence makes “the existence or non‑existence of a fact in issue more or less likely than it would be without that evidence,” and is judged “as a matter of human experience and logic”.[9] Evidence that does not meet this threshold is strictly inadmissible.
+[46] Frequently referred to singularly as the “Mohan test”, reference to it as the “Mohan/White Burgess test” seems more appropriate. White Burgess is the leading Supreme Court case on expert opinion and lays out the test clearly and succinctly.[10]
+[47] The issue of whether expert legal opinion is admissible is elementally a question of necessity: whether the legal opinion “is necessary to enable a judge, as a trier of fact, to appreciate the matters in issue due to their technical nature.”[11] An expert opinion should be information that is outside the experience or knowledge of the judge. While not true in evolving areas of natural, applied or social science, judges, in theory at least, are already legal experts; so an expert witness’s opinion touching on issues of legislative or jurisprudential interpretation will not usually be necessary and should be excluded at the threshold step, being prong three of the Mohan/White Burgess test.[12]
+[48] Subsequent to admitting any such evidence, the trier of fact, where such evidence may be prejudicial, may residually and ultimately decide how much weight to give the expert opinion by considering its probative value after the evidence is admitted and heard.[13]
+V. ANALYSIS
+[49] Logically, the two expert reports must be analyzed separately. However, the context of this appeal before this Court and the issues are a critical opening to both analyses.
+[50] The two issues in the appeal are succinct:
+Was the US source generated R & D income of $17.1 million FAPI?
+If it was FAPI, was a nil FAT deduction correct?
+[51] The relevant sections of the Act employed in the reassessment are primarily, if not exclusively, FAPI provisions: 95(2)(b), 95(3) and 91(4).
+[52] This is a FAPI case. There is no economic analysis per se required to determine these two issues. The FAPI quantum is not in dispute. The FAPI is either included, or not, based upon the law applicable to the facts. As consistently presented by both counsel, the bulk of the facts are not actively in dispute. The FAPI issue is primarily a question of law, determinable through statutory interpretation applied in the factual context of the appeal.
+[53] The FAT deduction, although calculated by the Minister as nil, is again not a dispute of quantum, but a legal determination about whether the US paid R&D tax credit ought to be deducted from the foreign tax paid to offset the otherwise available FAT.
+[54] This appeal takes place before the only national, exclusive superior court mandated by Parliament to conduct trials of taxpayer disputes. It is not a court of general jurisdiction hearing an infrequently litigated scientific, medical or socio-economic area. As important perhaps, it is not a specialized court, hearing an appeal of general applicability such as a constitutional case or other ancillary issue more usually heard by other courts. The issues before this specialized court in this appeal are entirely and frequently before it.
+(a) The Rolph Report The Rolph Report – Not a transfer pricing appeal [55] The Rolph Report is offered as expert testimony in order to lay the foundation for comparison and contrast by analogy. Appellant’s counsel candidly offered that they will argue more aggressive tax structures could have been undertaken to erode Canada’s tax base. These transfer pricing hypotheticals are conceived by Mr. Rolph in the Report. By contrast, what the Appellant did not do was engage a transfer pricing structure. The reward for that was a FAPI reassessment on US source R&D and no FAT deduction.
+Prima facie, is Section 2 of the Rolph Report relevant? [56] Is Section 2 of the Rolph Report … “evidence which makes the existence of a fact in issue more or less likely than it would be without that evidence?” Is expert testimony on alternative non-FAPI structures relevant to the Appellant’s utilized FAPI structure, which, it will be argued, did not contribute to tax base erosion, the mischief targeted by the FAPI regime?
+[57] Quite apart from conjecture on how successful the Appellant’s argument might be on the analogous structures and the “purity” of the one utilized, the hypotheticals are relevant to the Appellant’s ability to advance the proposed argument. The proposed argument will be that assessed FAPI and denied FAT deduction in the appeal conflict with the purpose of the FAPI regime. Given the modest threshold for expert opinion concerning these advanced economic models, the Court is prepared to yield on the side of caution and concede this evidence is relevant to the Appellant’s logical and theoretical foundation for the appeal.[14]
+To what extent is Section 2 of the Rolph Report necessary? [58] If Section 2 is relevant to the analogy argument, and given the apparent complexity of the hypotheticals, without the report and explanation could the Court fully understand the analogous argument advanced without the benefit of the testimony? Are the opinions necessary to understand the argument? Elementally. It is logical that the Court could not easily do so. Moreover, the Court will hear that testimony solely on that basis and for the limited purpose. The Court should not conflate limited necessity with ultimate weight.[15] As noted below, it will also limit the expert evidence to Section 2 of the Rolph Report. and further impose that the hypotheticals and consequential section 2 analyses are not adduced through anything beyond cursory viva voce evidence in chief, subject to cross-examination and rebuttal evidence, if any, in reply. To suggest that surrebuttal evidence to the hypotheticals, already solely admitted for the purpose of argumentative analogy, is necessary will be an upward effort for the Appellant to convince the Court. The alternative theories and analogies are already encroaching on the hypothetical, contingent and subjunctive. Further derivation will take this exercise beyond the first level of conjecture to the exclusive territory of “If onlys”, “Supposings”, and “What ifs”. The gate is open but not so wide to transform the tangentially relevant and necessary to the entirely speculative.
+For whom is Section 3 the Rolph Report necessary? [59] Section 3 of the Rolph Report is by its very intention an indictment of the appealed assessment juxtaposed to the legislative purpose and intent of the FAPI regime. The camouflage of an economic genesis is not good enough. Section 3 takes a “hypothetical” that is reflective of this appeal. Thereafter, it denounces any FAPI assessment and denial of FAT deduction as anathema to various tenets of interpretive orthodoxy: the Minister’s policy; the purpose of R&D tax credits; and, why taxing such foreign tax credits is contrary to FAPI principles, the Minister’s policy and good tax policy.
+[60] The legal authorities preferred to support the admissibility of Section 3 of the Rolph Report are distinguishable. This is not a case where calculations of competing experts need reconciliation.[16] OECD reports and International Tax Treaties are also not directly before the Court in this appeal beyond their consideration from the perspective of Canadian law, itself a prohibitive area for expert testimony.[17] It is anticipated that an expert witness will be called on US tax law to provide the Court with evidence on foreign tax law. This is neither the case of the quantum or incidence of tax nor expert evidence necessary to determine the quantum or incidence that might otherwise be required before a court of general jurisdiction where such matters are not frequently argued.
+[61] Section 3 of the Rolph Report contains clever and fulsome opinions on why the Minister reassessed the Appellant contrary to the Minster’s policy, the FAPI and FAT provisions, and the mutuality of Canada’s obligations under the OECD Guidelines and international tax policy. These are, when distilled, opinion evidence of the interpretation of domestic law and, as such, they are inadmissible.[18] These expert observations are undoubtedly useful if mischaracterized. The Court is confident it will hear them again, but, as they should be, from the counsel podium in closing submissions.
+(b) The Mintz Report [62] Appellant’s counsel admits that the Mintz Report is an opportunity for the Court to hear “from the person who wrote” the Technical Report. This is both unnecessary and prejudicial.
+Extrinsic evidence will figure prominently [63] It is unnecessary for a basic etymological reason. The Technical Report is an historically memorialized extrinsic aid to the purposive, and possibly contextual, parts of any FAPI and FAT TCP analyses. Extrinsic aids, such as Hansard, technical notes, Ministerial commentary, white papers and committee reports, provide circumstantial, peripheral evidence of legislative purpose. Such evidence then refines, highlights and reveals legislative purpose and implementation. This evidence may inform the judge because it represents a reliable, official and sanctioned supporting cast for the definitive document, the Act or the Regulation.
+[64] Dr. Mintz was the Chair of the Technical Committee. His primus inter pares capacity is simply that; the chair of a committee, albeit an important one, which produced the Technical Report for the Minister of Finance. The report speaks for itself: a culmination and aggregation of voices, recommendations, opinions and suggestions, all used as a tool to forge, inter alia, the FAPI regime.
+[65] The Technical Report is not open to any argument concerning unreliability as in some matters.[19] This is not a constitutional case where economists and sociologists need to advise the Court on scientific facts of social science and economic benefits of a societal nature.[20] There are no tax treaties directly afoot in this appeal.[21]
+A thorough TCP analysis will occur [66] The Technical Report will be placed before the Court, undoubtedly. Counsel, trained tax litigators themselves, will provide their opinions in submissions on the weight, interpretation and reference that it should be afforded. That effort will be to the end of arguing for a proper application of the FAPI regime and rules in this appeal. But when counsel direct the Court, they will be directing the Court to the official advice the Minister and Parliament had before them. It is that advice that forged the FAPI regime in 1999 when it was passed; it was not the refined, tailor-made hindsight of an important contributor, who was not the sole author.
+The Technical Report is the best evidence of the Technical Report [67] Finally, the Mintz Report and testimony as a supplementary opinion concerning the Technical Report is prejudicial in its purest form since: it puts the Respondent in an untenable position, or it quite possibly wastes the Court’s time on evidence that is second best.
+Calling committee members inordinately grows the litigation [68] The potential for litigation expansion faces the Court by admitting the Mintz Report and Dr. Mintz’s testimony. To rebut the present views of the former chair of the Technical Committee, the Respondent might resort to the vice-chair or other committee members, if there is a disagreement; perhaps the Deputy Minister from the era could be called. But how could the Respondent reasonably locate and interview such a person from a report prepared 24 years ago, which is now a monument which speaks for itself through the midst of time?
+[69] If the Respondent called such rebuttal expert evidence, the Court would spend its time and resources gathering opinions on what was meant in one written piece of extrinsic evidence. That Technical Report itself is collateral and circumstantial to the paramount authority, the ITA. In descending order, the ITA is followed by the best reliable evidence of the extrinsic aid, the Technical Report itself. In deliberating upon this prejudicial aspect, the Court’s resistance hardens to allowing testimony from historical actors as to their present take on reliable, public and notable extrinsic aids which are readily and continuously available and have been previously considered. This is particularly so, when such reports relate to the primary statute placed before this Court each day it sits.
+VI. CONCLUSION AND COSTS
+[70] Both Dr. Mintz and Mr. Rolph will have their inadmissible opinions otherwise placed before the Court, just not in the form of expert evidence. Dr. Mintz will be heard through the authentic, unvarnished Technical Report he helped author 24 years ago. Mr. Rolph will be heard through the introduction in argument and submissions by Appellant’s counsel of the analogous “hypotheses” and conclusions he has provided in Section 3 of his report. Both will be proffered by Appellant’s counsel as economic and policy arguments demonstrable of the incorrectness, inconsistency and argued absurdity of the Minister’s assessment.
+[71] Costs on the voir dire shall follow the cause.
+These Amended Reasons for Order are issued in substitution of the Reasons for Order dated September 12, 2023 in order to include the word underscored in paragraph 4 hereof and to correct the page numbering of the Reasons for Order.
+Signed at Toronto, Ontario, this 1st day of November, 2023.
+“R. S. Bocock”
+Bocock J.
+CITATION:
+2023 TCC 137
+COURT FILE NO.:
+2019-1378(IT)G
+STYLE OF CAUSE:
+BLACKBERRY LIMITED v. HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+August 31, 2023
+REASONS FOR ORDER BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF ORDER:
+DATE OF AMENDED REASONS FOR ORDER:
+September 12, 2023
+November 1, 2023
+APPEARANCES:
+Counsel for the Appellant:
+Justin Kutyan
+Salvatore Mirandola
+Kristen Duerhammer
+Counsel for the Respondent:
+Yanick Houle
+Christina Ham
+Katherine Savoie
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Justin Kutyan
+Salvatore Mirandola
+Kristen Duerhammer
+Firm:
+KPMG Law LLP
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] Ontario Teacher’s Federation v Ontario (1998), 39 OR (3d) (OnCt.) pp.10-11 [“Ontario Teachers”]
+[2] Walsh v BDO Dunwoody LLP, 2013 BCSC 1463 at paragraph 49 [“Walsh”]
+[3] Marzen Artistic Aluminum Ltd. v HMQ, 2014 TCC 194 [“Marzen”]
+[4] Knights of Columbus v R, 2008 TCC 307 at paragraphs 34-35 [“K. of C.”].
+[5] Agracity Ltd. v HMQ, 2020 TCC 91 [“Agracity”].
+[6] Canada v Loblaw Financial Holdings Inc., 2021 SCC 51 [“Loblaw”].
+[7] R v Mohan, 1994 SCC 80 at paragraphs 19-24 [“Mohan”]; White Burgess Langille Inman v Abbott and Haliburton Co, 2015 SCC 23 at paragraphs 23-24 [“White Burgess”].
+[8] R v Bingley, 2017 SCC 12 at paragraph 16 [“Bingley”].
+[9] R v Abbey, 2009 ONCA 624 at paragraph 82 [“Abbey”]; adopted by the Supreme Court of Canada [“SCC”] in White Burgess, 2015 SCC 23 at paragraph 23.
+[10] See Bingley, at paragraph 13.
+[11] Canada (Board of Internal Economy) v Canada (AG), 2017 FCA 43 at paragraph 23 [“Canada (BIE)”].
+[12] Canada (BIE)) at paragraph 18, citing Mohan at paragraph 24.
+[13] Glenn Anderson, Expert Evidence, third edition, (LexisNexis, 2014) at paragraph 640; citing R v Khelawon, 2006 SCC 57 and R v K(A), [1999] OJ No 3280 (ONCA).
+[14] Abbey, supra at paragraph 82
+[15] White Burgess, supra at paragraph 45.
+[16] Marzen, supra, at paragraph 180.
+[17] K. of C., supra, paragraph 37.
+[18] Canada (BIE), supra, at pages 10-12
+[19] R v Levkovic, 2010 ONCA 830 at paragraphs 1-2, , paragraphs 46-47
+[20] Yao et al v. HMQ, 2022 TCC 23 at paragraphs 30 and 31 [Note: this is a multiple appellant General Procedure appeal not an Informal Procedure appeal as identified in the Appellant’s submissions].
+[21] K. of C., supra at paragraphs 30-39

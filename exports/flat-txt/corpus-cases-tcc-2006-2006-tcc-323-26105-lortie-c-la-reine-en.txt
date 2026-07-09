@@ -1,0 +1,129 @@
+Title: Lortie c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26105/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-323-26105-lortie-c-la-reine-en.md
+Document type: case_law
+Last modified: 2006-08-08
+
+# Lortie c. La Reine
+
+- Citation: 2006 TCC 323
+- Decision date: 2006-08-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4166, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lortie c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-08-08
+Neutral citation
+2006 TCC 323
+File numbers
+2005-2463(IT)I
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-2463(IT)I
+BEFORE:
+ALAIN LORTIE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on May 31, 2006, at Québec, Quebec.
+Before: The Honourable Justice Paul Bédard
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Claude Lamoureux
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2003 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 8th day of August 2006.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 9th day of January 2007.
+Gibson Boyd, Translator
+Citation: 2006TCC323
+Date: 20060808
+Docket: 2005-2463(IT)I
+BETWEEN:
+ALAIN LORTIE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+[OFFICIAL ENGLISH TRANSLATION]
+Bédard J.
+[1] This appeal, made under the informal procedure, was heard at Québec, Quebec, on May 31, 2006. In a reassessment dated September 2, 2004, the Minister of National Revenue (the "Minister") added $1,074 in employment income to the Appellant's income for the 2003 taxation year. The Minister also levied a penalty of $100.00 under subsection 163(2) of the Income Tax Act (the "Act").
+[2] To make the assessment for the 2003 taxation year and to confirm it, the Minister made the same assumptions of fact, to wit:
+(a) During the taxation year at issue, the Appellant worked for the company "S.M. construction inc."; (admitted)
+(b) In connivance with the Appellant, the employer paid the Appellant for overtime hours worked by reimbursing him the amounts from the invoices that the Appellant submitted to him; (denied)
+(c) These amounts were not included by the employer on the Appellant's T4 information slip, but were claimed by the employer in his expenses; (denied)
+(d) During the year at issue, the amount paid to the Appellant by the employer but not included on his information slip came to $1,074; (denied)
+(e) The Appellant did not declare this amount of $1,074 when filing his income tax return for the year at issue; (denied)
+[3] To determine and to confirm the penalty imposed under subsection 163(2) of the Act, the Minister made the following assumptions of fact:
+(a) The Appellant took part in the scheme to avoid paying taxes on overtime compensation;
+(b) The Appellant did not declare the sum of $1,074 when filing his income tax return for the year at issue.
+Respondent's evidence
+[4] Frédéric Huard, an investigator for the Canada Customs and Revenue Agency (the "Agency"), testified that this case resulted from an investigation of the company Quincaillerie R. Durand inc., a supplier of Pagui inc., the Appellant's employer. Following this investigation, the Minister executed search warrants at the premises of S.M. Construction inc., Pagui inc., Tardif Métal inc. and Les Installations Pétrolières S.M. inc, of which the majority shareholder was Groupe S.M. Tardif inc. The president and sole shareholder of the latter company was Serge Tardif. These companies operated construction businesses. The investigation concerned the benefits paid to the employees of these companies. In the course of the searches, the Minister obtained the computer files of these companies. These computer files demonstrated that the companies had developed a scheme that consisted in recording the pay information for each of their employees in several records. There were payroll records for each company. The data corresponding to the T4 and T4A slips were recorded in them. Also, there was a parallel system to the payroll records. It was a "time bank" system used to record part of the employees' overtime hours and the method by which these overtime hours were paid. The benefits paid to the employees through this system were not indicated on the employees' T4 slips and therefore no tax was collected on them. This scheme enabled 148 employees to avoid paying tax on the compensation paid to them by these companies for overtime hours. Moreover, the companies did not pay their employees for overtime at the rate prescribed by the collective agreements binding them. The computer files made it possible to identify all the beneficiaries of this scheme and know the amounts that they received in benefits related to their employment[1] and the details of the benefits for each beneficiary. Their compensation was generally in the form of personal goods purchased from suppliers of these companies, excessive living allowance and fuel allowance for personal use. The benefits distributed to the beneficiaries of this "time bank" reached close to one million dollars from 1998 to 2001 and close to two million dollars for the taxation years from 1998 to 2003. No source deductions were taken from these sums, which were not included in the T4 slips of the employees concerned. S.M. Construction inc., Pagui inc. and Tardif Métal inc., as well as their president, Serge Tardif, pleaded guilty to the tax evasion charges brought against them for the taxation years from 1998 to 2002.
+[5] Following that, the Minister filed as evidence an excerpt from the computer file of S.M. Construction inc. concerning the Appellant.[2] Mr. Huard explained that the computer file demonstrated that the Appellant had received $1,114 from the company in compensation for approximately 41 hours of overtime during the 2003 taxation year and that this compensation did not appear in this employee's T4 slip. Mr. Huard explained that the Appellant's compensation was comprised of an excessive living allowance of $630, $50 in gasoline for personal use, $260.76 paid in cash and the reimbursement of invoices that the Appellant submitted to the employer.
+Appellant's testimony
+[6] In his testimony, the Appellant alleged that he stayed in Saudi Arabia from January 9 to January 26, 2003, for his work for S.M. Construction inc. He explained that he had worked seven days a week for 10 hours a day, except for one day off taken during this period. He testified that he had worked only 113 hours during this stay. He also admitted that his records of employment (Exhibit A-3) were false since his employer had distributed the 113 hours over three weeks, 33 hours of them during the week of February 2 to 8, when he simply had not worked at all during that period. The Appellant acknowledged that this scheme had enabled his employer to not pay for the overtime hours[3] he had worked during this trip at the rate prescribed by the collective agreements binding them. The Appellant admitted that he had made an error in agreeing to this first scheme set up by his employer. I would like to point out right away that having agreed to the scheme, the Appellant should have expected me to have derious doubtd as to his integrity. Agreeing to the scheme also added to the plausibility of the Appellant's participation in the time bank system set up by his employer and which, according the Respondent, enabled the Appellant to avoid paying tax on the compensation he had received for the 41 overtime hours that he had accumulated during his stay in Saudi Arabia.
+Appellant's position
+[7] The Appellant first submitted that the sums paid to him as they appeared in the time bank (Exhibit I-5) were already included in his T4 slip. Moreover, he claimed that it was implausible that he could have worked 154 hours during his short stay in Saudi Arabia, i.e. 41 hours on top of the 113 he acknowledged having worked during this stay. He added that it was impossible that he could have worked more than 10 hours a day, given his age and the fact that he had worked 14 days straight.
+Analysis
+[8] First, I note that the Appellant's testimony pertaining to the hours worked during his stay in Saudi Arabia is incompatible with his claim that he had only worked 113 hours during this stay. I will recall that he testified to having worked 10 hours per day[4] and that he had only taken one day off during his short stay in Saudi Arabia from January 9, 2003 to January 26, 2003.[5] So if I exclude from this stay the date of arrival, the date of departure and the day off, it is likely that Appellant worked 15 days during this stay. Since he testified that he worked 10 hours per day, he would have worked about 150 hours during this stay, and not 113 hours as he has claimed. That, to me, seems consistent with the position of the Minister, who submitted that the Appellant had worked approximately 153 hours during this stay.
+[9] The Appellant asks me to believe his testimony that he sincerely believed that the compensation paid ($1,114) for his overtime hours was included in the T4 slip submitted by his employer for the 2003 taxation year. I cannot believe the testimony of the Appellant, who not only contradicted himself as to the number of hours worked during his stay in Saudi Arabia, but furthermore agreed to the first scheme of his employer, whose pay statement indicated that the employee had worked 33 hours during the week ending February 8, 2003, while the Appellant simply had not worked that week.
+[10] In my opinion, the Minister has met his burden of proof with regard to the penalty he had assessed the Appellant under subsection 163(2) of the Act. Indeed the Minister has demonstrated that, according to the balance of probabilities, the Appellant knowingly made an omission in the tax return he filed for the 2003 taxation year. The Minister has clearly shown that the Appellant had knowingly agreed to participate in the scheme mounted for his employer to evade income tax. His involvement was an essential link in the execution of the scheme and he benefited from it. It takes two to tango. I simply cannot arrive at any other conclusion
+[11] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 8th day of August 2006.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 9th day of January 2007.
+Gibson Boyd, Translator
+CITATION:
+2006TCC323
+COURT FILE NO.:
+2005-2463(IT)I
+STYLE OF CAUSE:
+Alain Lortie and Her Majesty the Queen
+PLACE OF HEARING:
+Québec, Quebec
+DATE OF HEARING:
+May 31, 2006
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Paul Bédard
+DATE OF JUDGMENT:
+August 8, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+For the Respondent:
+Claude Lamoureux
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] See Exhibit I-4.
+[2] See Exhibit I-5.
+[3] 33 hours (113 hours - 80 hours).
+[4] See page 51 of the court transcript.
+[5] See page 33 of the court transcript.

@@ -1,0 +1,136 @@
+Title: Vohra v. The King
+Source: https://norma.lexum.com/tcc-cci/decisions/en/item/521465/index.do
+Corpus path: corpus/cases/tcc/2025/2025-tcc-93-521465-vohra-v-the-king.md
+Document type: case_law
+Last modified: 2025-07-16
+
+# Vohra v. The King
+
+- Citation: 2025 TCC 93
+- Decision date: 2025-07-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5411, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vohra v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2025-07-16
+Neutral citation
+2025 TCC 93
+File numbers
+2023-1979(IT)I
+Judges and Taxing Officers
+David E. Spiro
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2023-1979(IT)I
+BETWEEN:
+RAJAT VOHRA,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on July 8, 2025, at Toronto, Ontario
+Before: The Honourable Justice David E. Spiro
+Appearances:
+Counsel for the Appellant:
+Matthew Pollock
+Mattheus Lawford
+Counsel for the Respondent:
+Elliot McPhail
+JUDGMENT
+The appeal from the reassessment of the Appellant’s 2019 taxation year is dismissed without costs.
+Signed this 16th day of July 2025.
+“David E. Spiro”
+Spiro J.
+Citation: 2025 TCC 93
+Date: 20250716
+Docket: 2023-1979(IT)I
+BETWEEN:
+RAJAT VOHRA,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Spiro J.
+[1] Unless the written agreement or court order under which support payments are receivable identifies an amount of support as being solely for the support of a recipient who is a spouse or former spouse (or their common-law equivalents), each support payment made under the written agreement or court order by the parent of a child is considered a child support payment and is, therefore, not deductible by the payer and not taxable to the recipient under the Income Tax Act (the “Act”).[1]
+[2] The facts in this appeal are simple. Dr. Rajat Vohra and his former spouse met in 2003, had a daughter in 2004, married in 2006, and separated on December 8, 2010.
+The Separation Agreement [3] Dr. Vohra and his former spouse entered into a written separation agreement in the spring of 2011 (the “Separation Agreement”).[2] They agreed that Dr. Vohra would pay $2,500 per month in child support and $3,500 per month in spousal support.[3] The spousal support payment was identified this way in the Separation Agreement:
+Party 1 [Dr. Vohra] shall pay spousal support to Party 2 [his former spouse] in the amount of $3500 monthly commencing Dec 08/10 and ending Dec 8/14.
+[4] Although the Separation Agreement provided that Dr. Vohra’s obligation to pay $3,500 per month of spousal support would terminate on December 8, 2014, Dr. Vohra continued to pay that amount each month up to and including June of 2019. In an earlier appeal, Dr. Vohra argued that the $3,500 per month he paid in 2018 – for a total of $42,000 – should still be considered spousal support paid under the Separation Agreement notwithstanding the termination provision.[4]
+[5] My colleague, Justice MacPhee, considered Dr. Vohra’s appeal of the assessment for his 2018 taxation year in which the Minister of National Revenue (the “Minister”) denied his deduction of $3,500 per month of spousal support on the basis that those payments were not made pursuant to a written agreement. Justice MacPhee concluded that the terms of the Separation Agreement continued beyond December 8, 2014 into 2018 and that $3,500 per month was paid pursuant to the terms of the Separation Agreement which identified $3,500 per month as spousal support.
+[6] In this appeal, both parties agree – and I accept – that the terms of the Separation Agreement came to an end on the issuance of a Consent Order by the Family Court Branch of the Ontario Superior Court of Justice in July of 2019 (the “Consent Order”).[5] The Consent Order effectively replaced the Separation Agreement. In addition, both parties agree – and I accept – that the terms of the Separation Agreement applied from January to June of 2019 while the terms of the Consent Order applied as of July 1, 2019.
+The Consent Order [7] On July 29, 2019, Justice Annette Casullo of the Ontario Superior Court of Justice in Bracebridge, Ontario issued the Consent Order which was effective as of July 1, 2019.
+[8] Child custody and other matters were dealt with by the Consent Order. Those other matters included access rights, mobility and travel issues, enforcement of support, and what was entitled “CHILD SUPPORT – GUIDELINE AMOUNT”:
+24) Commencing on July 1, 2019 and on the first day of each month thereafter until further order of this Court the Respondent (hereinafter referred to as the “Payor”) shall pay to the Applicant (hereinafter referred to as the “Recipient”) temporary support in the amount of $8,000 per month. The above is being agreed on a without prejudice basis and subject to verification of the payor’s income and redefined as child support or spousal support once payor’s income [is] verified retroactively to July 1, 2019.[6]
+[Emphasis added]
+[9] Before concluding the Consent Order, Justice Casullo adjourned the litigation on the following basis:
+33) The matters of access, guideline support, retroactivity, spousal support, separation date, and equalization are adjourned to October 21, 2019 at 12:00 p.m. for a Settlement Conference.[7]
+[Emphasis added]
+[10] A close reading of the Consent Order makes two things clear.
+[11] First, in paragraph 24, Justice Casullo refrained from identifying any portion of the $8,000 per month support amount as spousal support. This is in contradistinction to the terms of the Separation Agreement which identified $3,500 per month as spousal support.
+[12] Second, in paragraph 33, Justice Casullo deferred the matters of guideline support (i.e., child support)[8] and spousal support to be determined at a later date.
+[13] There was no evidence of any later determination or any subsequent Order. We are, therefore, left to deal with the Consent Order of July 2019.
+The Reassessment for 2019 [14] In reassessing Dr. Vohra for his 2019 taxation year, the Minister allowed the deduction of $3,500 per month that Dr. Vohra paid for each of the first six months of 2019 as spousal support because it was identified as such under the terms of the Separation Agreement (for a total of $21,000) which continued in effect until the end of June 2019.
+[15] The Minister, however, denied the deduction of $5,500 per month paid for the last six months of 2019 under the terms of the Consent Order (for a total of $33,000).
+[16] Dr. Vohra claimed $5,500 per month of the $8,000 per month as deductible spousal support payments for the last six months of 2019 (for a total of $33,000) because he took the position that $2,500 per month of the $8,000 per month set out in the Consent Order was non-deductible child support as that was the amount of child support he had agreed to pay each month under the Separation Agreement. He contended that the remainder was spousal support.
+The Appellant’s Position [17] In support of Dr. Vohra’s position, his counsel urged me to read the Consent Order as though it had identified $5,500 per month of Dr. Vohra’s total payment of $8,000 per month as spousal support. Counsel made that argument based on the terms of the Separation Agreement and on what he described as the “intention of the parties”.
+[18] I reject counsel’s argument in its entirety.
+[19] First, I cannot decide this appeal based on the Separation Agreement because it was no longer in effect as of July 1, 2019. If Justice Casullo decided not to incorporate terms of the Separation Agreement into the Consent Order, it is not for this Court to second guess her decision.
+[20] Second, the Consent Order was obviously based on the consent of the parties. That means that all parties – including Dr. Vohra – agreed to the non-identification of spousal support in the Consent Order. If the Consent Order did not reflect the intention of the parties when issued there are remedies for that, none of which can be granted by this Court.
+[21] Counsel’s argument is that the Court has the power to read words into the Consent Order or to amend it. The Court has the power to do neither.[9]
+Conclusion [22] The inescapable – and determinative – fact is that none of the $8,000 support amount payable by Dr. Vohra every month under the Consent Order was identified in the Consent Order as being solely for the support of his former spouse.[10]
+[23] The entire $8,000 support amount set out in the Consent Order, paid each month during the last six months of 2019, was a “child support amount” within the meaning of subsection 56.1(4) of the Act:
+56.1(4) The definitions in this subsection apply in this section and section 56.
+child support amount means any support amount that is not identified in the agreement or order under which it is receivable as being solely for the support of a recipient who is a spouse or common-law partner or former spouse or common-law partner of the payer or who is a parent of a child of whom the payer is a legal parent.
+[24] For all of those reasons, none of the $33,000 claimed as spousal support payments for the last six months of 2019 is deductible by Dr. Vohra. His appeal will, therefore, be dismissed without costs.
+Signed this 16th day of July 2025.
+“David E. Spiro”
+Spiro J.
+CITATION:
+2025 TCC 93
+COURT FILE NO.:
+2023-1979(IT)I
+STYLE OF CAUSE:
+RAJAT VOHRA AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+July 8, 2025
+REASONS FOR JUDGMENT BY:
+The Honourable Justice David E. Spiro
+DATE OF JUDGMENT:
+July 16, 2025
+APPEARANCES:
+Counsel for the Appellant:
+Matthew Pollock
+Mattheus Lawford
+Counsel for the Respondent:
+Elliot McPhail
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Matthew Pollock
+Mattheus Lawford
+Firm:
+Rosen & Associates Tax Law
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] This tax treatment of the payer is a result of the application of the definition of “child support amount” in subsection 56.1(4) of the Act reproduced at paragraph 23 below. Under paragraph 60(b) of the Act, the deductibility of support payments is determined using the formula A-B where A represents support amounts paid before the end of the year and B represents child support amounts payable before the end of the year. If the total support amounts paid in the year are equal to the total child support amounts payable for the year, there is nothing to deduct.
+[2] Exhibit A-1.
+[3] Page 427 of Exhibit A-1. On that basis, Dr. Vohra’s annual spousal support payments were $42,000 while his annual child support payments were $30,000. Dr. Vohra’s total payment was $72,000 each year of which $42,000 was deductible.
+[4] Vohra v The King, 2022 TCC 165.
+[5] Exhibit A-2.
+[6] Exhibit A-2, para 24. I accept Dr. Vohra’s evidence that he increased his total monthly support commitment from $6,000 per month to $8,000 per month following a request from his former spouse.
+[7] Exhibit A-2, para 33.
+[8] See O. Reg. 391/97: Child Support Guidelines under the Family Law Act, R.S.O. 1990, c. F.3.
+[9] As Justice Bowie noted in Elcich v The Queen, 2006 TCC 179 at para 19: “Certain Orders were made, and I have to take those Orders at face value.”
+[10] See Berty v The Queen, 2013 TCC 202 at para 13 and Janfada v The King, 2025 TCC 42 at para 26.

@@ -1,0 +1,152 @@
+---
+title: "Jiahua Car Rental Inc.  c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/424902/index.do"
+last_modified: "2019-11-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 CCI 258"
+citation2: ""
+neutral_citation: "2019 CCI 258"
+decision_date: "2019-11-19"
+language: "fr"
+item_id: "424902"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4279
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T18:06:59.282000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "036d452f9bd9ba87e783b995688e639daeb5a79eeb47087fed185269e0774964"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Jiahua Car Rental Inc.  c. La Reine
+
+- Citation: 2019 CCI 258
+- Decision date: 2019-11-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4279, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jiahua Car Rental Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-11-19
+Référence neutre
+2019 CCI 258
+Numéro de dossier
+2019-1935(GST)APP
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2019-1935(GST)APP
+ENTRE :
+JIAHUA CAR RENTAL INC.,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE CERTIFIÉE, NON RÉVISÉE]
+Demande entendue le 24 octobre 2019, à Toronto (Ontario).
+Devant : L’honorable juge Randall S. Bocock
+Comparutions :
+Représentant de la requérante :
+Shirley Shi
+Avocat de l’intimée :
+Me Eric Myles
+ORDONNANCE
+CONFORMÉMENT aux motifs du jugement ci-joints, la demande de nouvelle cotisation formulée en application de la Loi sur la taxe d’accise, L.R.C. (1985), ch. E-15, dans sa version modifiée (LTA), pour la période s’écoulant du 20 avril 2016 au 30 juin 2016 est rejetée, sans dépens.
+Signé à Toronto (Ontario), ce 19e jour de novembre 2019.
+« R.S. Bocock »
+Le juge Bocock
+Référence : 2019 CCI 258
+Date : 20191119
+Dossier : 2019-1935(GST)APP
+ENTRE :
+JIAHUA CAR RENTAL INC.,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE CERTIFIÉE, NON RÉVISÉE]
+MOTIFS DE L’ORDONNANCE
+Le juge Bocock
+[1] La requérante, Jiahua Car Rental Inc. (JCRI), représentée par Mme Shi, a déposé la présente demande de prorogation du délai pour déposer un avis d’opposition. L’opposition demandée porte sur la nouvelle cotisation établie par le ministre à l’égard d’une déclaration de TVH portant sur la période s’étirant du 16 avril 2016 au 30 juin 2016.
+[2] Les extraits des dispositions législatives relatives aux délais établis pour le dépôt d’avis d’opposition prescrivent ce qui suit :
+305 (1) La personne qui n’a pas interjeté appel en application de l’article 306 dans le délai imparti peut présenter à la Cour canadienne de l’impôt une demande de prorogation du délai pour interjeter appel. Cette cour peut faire droit à la demande et imposer les conditions qu’elle estime justes.
+Contenu de la demande
+(2) La demande doit indiquer les raisons pour lesquelles l’appel n’a pas été interjeté dans le délai par ailleurs imparti.
+[…]
+Acceptation de la demande
+(5) Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+(a) la demande a été présentée dans l’année suivant l’expiration du délai d’appel par ailleurs imparti;
+[…]
+Appel
+306 La personne qui a produit un avis d’opposition à une cotisation aux termes de la présente sous-section peut interjeter appel à la Cour canadienne de l’impôt pour faire annuler la cotisation ou en faire établir une nouvelle lorsque, selon le cas :
+a) la cotisation est confirmée par le ministre ou une nouvelle cotisation est établie;
+b) un délai de 180 jours suivant la production de l’avis est expiré sans que le ministre n’ait notifié la personne du fait qu’il a annulé ou confirmé la cotisation ou procédé à une nouvelle cotisation.
+Toutefois, nul appel ne peut être interjeté après l’expiration d’un délai de 90 jours suivant l’envoi à la personne, aux termes de l’article 301, d’un avis portant que le ministre a confirmé la cotisation ou procédé à une nouvelle cotisation.
+[3] Nul ne conteste la date de l’avis de nouvelle cotisation à l’égard de JCRI, soit le 21 mars 2017. De même, JCRI et son actionnaire principal, Mme Qu, n’ont rassemblé aucun élément de preuve indiquant que l’avis de nouvelle cotisation n’avait pas été envoyé, et rien n’indique que ledit avis n’avait pas été envoyé. Encore une fois, il est entendu qu’aucun avis d’opposition n’a été reçu avant le 29 janvier 2019.
+[4] En l’absence d’autres facteurs, la demande serait rejetée pour les motifs suivants. La période de 90 jours pour déposer un avis d’opposition est arrivée à échéance le 19 juin 2017. La période subséquente d’un an pour déposer une demande de prorogation de délai est arrivée à échéance le 19 juin 2018. Ni JCRI ni Mme Qu n’ont pris aucune mesure auprès du ministre ou de la Cour canadienne de l’impôt au cours de ce délai. Une opposition n’a été reçue qu’environ sept mois après le 19 juin 2017; l’avis de nouvelle cotisation a vraisemblablement été envoyé à l’adresse la plus récente dans le dossier de la requérante. La requérante ne nie pas la réception ou l’envoi de l’avis de nouvelle cotisation, comme ce fut le cas dans certaines demandes : Aztec Industries Inc. c. Canada [1995] 1 CTC 327 au paragraphe 12.
+[5] La requérante a toutefois fait valoir quelques autres faits dans la présente demande. La Cour a examiné ces faits; le 21 août 2018, le ministère a écrit à Mme Qu, la menaçant, à titre de directrice de JCRI, de poursuites judiciaires en responsabilité du fait d’autrui à l’égard des arriérés d’impôts de l’entreprise. Mme Qu a ensuite produit une déclaration de TVH modifiée, avec l’aide de Tonda Accounting (Tonda) et probablement en raison de la lettre, et a demandé une mesure de redressement au ministre. Tonda a présenté cette demande le 8 octobre 2018. Le ministre a refusé de modifier la déclaration.
+[6] En réponse, Tonda a insisté en soumettant d’autres observations écrites le 16 janvier 2019 au sujet de la demande de modification. Un avis d’opposition a été déposé et reçu par l’Agence du revenu du Canada le 31 janvier 2019. Cet avis d’opposition a été rejeté le 26 février 2019 par le ministre au motif qu’il était hors délai. Un avis de demande de prorogation du délai a ensuite été déposé, en utilisant la lettre de refus du ministre du 16 janvier 2019 en guise de date de la nouvelle cotisation ou de la confirmation. Le représentant de Tonda a suggéré que la lettre de refus devrait être considérée comme une confirmation.
+[7] La Cour ne peut pas partager cet avis. Il n’y a aucune confusion entourant les lettres échangées dans le présent appel. Le délai pour s’opposer ou présenter une demande de prorogation du délai pour déposer une opposition est arrivé à échéance le 19 juin 2018. Cette échéance précède considérablement le moment de la première action entreprise le 9 octobre 2018.
+[8] Cette conclusion vaut pour toute action ou tout acteur en l’espèce, que ce soit JCRI, Mme Qu ou Tonda. Aucun de ces acteurs n’a demandé une prorogation de délai avant que cette première démarche n’ait été prise le 9 ou 10 octobre 2018. À ce moment, le délai immuable pour agir établi par la loi était arrivé à échéance depuis au moins trois mois et demi.
+[9] Il n’y a simplement aucune autre nouvelle cotisation ou confirmation relativement à la nouvelle cotisation établie par le ministre le 27 mars 2017 à l’égard de JCRI. Le refus d’une demande d’établissement d’une nouvelle cotisation, laquelle était hors délai des périodes de 90 jours et d’un an, ne constitue ni une cotisation ou une nouvelle cotisation ni une confirmation : Abakhan & Associates Inc. c. Canada (Procureur général), 2007 CF 1327 au paragraphe 8. S’il n’y a eu aucune cotisation, nouvelle cotisation ou confirmation à l’intérieur du délai prévu par la loi, alors la date de la dernière nouvelle cotisation demeure applicable, soit le 27 mars 2017. Il en va de même pour les dates des périodes de 90 jours et d’un an, soit le 19 juin 2017 et le 19 juin 2018, respectivement. Aucune action n’a été intentée avant la fin de cette période; en outre, même le refus du ministre de modifier la déclaration et la demande à cette fin se trouvent bien au-delà de cette période. Par conséquent, la Cour n’a pas besoin d’examiner cette question.
+[10] Finalement, même si tout ce qui précède n’était pas applicable, la période de 30 jours prévue dans la Loi relativement au délai pour déposer une demande de prorogation du délai d’opposition devant notre Cour est également échue. Le refus définitif du ministre est daté du 26 février 2019. JCRI a seulement déposé sa demande devant la Cour canadienne de l’impôt le 27 mai 2019. Il existe également une prohibition indépendante et inévitable : Bellemare c. La Reine, 2013 CCI 381 au paragraphe 7. Pour ce motif supplémentaire, la demande doit être rejetée.
+[11] Pour ces motifs, la demande est rejetée sans dépens.
+Signé à Toronto (Ontario), ce 19e jour de novembre 2019.
+« R.S. Bocock »
+Le juge Bocock
+Traduction certifiée conforme
+Ce 27e jour de novembre 2019
+Lionbridge
+RÉFÉRENCE :
+2019 CCI 258
+NO DU DOSSIER DE LA COUR :
+2019-1935(GST)APP
+INTITULÉ :
+JIAHUA CAR RENTAL INC. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 24 octobre 2019
+MOTIFS DU JUGEMENT :
+L’honorable juge Randall S. Bocock
+DATE DU JUGEMENT :
+Le 19 novembre 2019
+COMPARUTIONS :
+Représentant de la requérante :
+Shirley Shi
+Avocat de l’intimée :
+Me Eric Myles
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa (Canada)

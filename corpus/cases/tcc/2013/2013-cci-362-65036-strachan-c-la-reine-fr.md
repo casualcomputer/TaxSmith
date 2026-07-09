@@ -1,0 +1,308 @@
+---
+title: "Strachan c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/65036/index.do"
+last_modified: "2013-12-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 362"
+citation2: ""
+neutral_citation: "2013 CCI 362"
+decision_date: "2013-12-04"
+language: "fr"
+item_id: "65036"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5903
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:54:31.290000+00:00"
+cases_cited_count: 2
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2bc953a578c9146937bccd33f4ae82ebbaa005892a3cec9549f569b2b42d2019"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Strachan c. La Reine
+
+- Citation: 2013 CCI 362
+- Decision date: 2013-12-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5903, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Strachan c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-12-04
+Référence neutre
+2013 CCI 362
+Numéro de dossier
+2010-3729(IT)G
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-3729(IT)G
+ENTRE :
+MERRILL CORBIN STRACHAN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu les 29 et 30 avril ainsi que
+le 1er mai 2013, à Montréal (Québec).
+Devant : L’honorable juge en chef Gerald J. Rip
+Comparutions :
+Avocat de l’appelante :
+Me Yves Ouellette
+Elisabeth Pedneault
+(Stagiaire en droit)
+Avocate de l’intimée :
+Me Dominique Gallant
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en vertu de l’article 160 de la Loi de l’impôt sur le revenu, dont l’avis porte le numéro 41520 et est daté du 24 mai 2007, est accueilli, et la cotisation est déférée au ministre du Revenu national pour nouvel examen et une nouvelle cotisation en tenant pour acquis que :
+1) pour établir la valeur des actions de Northside pendant la période pertinente :
+a) les frais de déplacement et les honoraires doivent être rajustés de la manière suivante :
+1999
+2000
+2001
+2002
+2003
+2004
+Frais de déplacement
+22 000 $
+30 000 $
+25 177 $
+22 000 $
+15 093 $
+33 000 $
+Honoraires*
+30 000 $
+13 004 $
+33 000 $
+15 000 $
+15 000 $
+10 048 $
+* Comprend les frais juridiques et comptables.
+b) la valeur comptable ajustée de l’installation d’une tonne le 31 mars 2001 est de 500 000 $ et sa valeur comptable pour chaque année subséquente doit être réduite de 20 p. 100 de la valeur résiduelle;
+2) En ce qui concerne le bien‑fonds situé à Hemmingford, la valeur de celui‑ci au mois de janvier 2005 était de 210 000 $.
+L’intimée a droit aux deux tiers de ses dépens.
+Signé à Ottawa, Canada, ce 4e jour de décembre 2013.
+« Gerald J. Rip »
+Juge en chef Rip
+Référence : 2013 CCI 362
+Date : 20131204
+Dossier : 2010-3729(IT)G
+ENTRE :
+MERRILL CORBIN STRACHAN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge en chef Rip
+[1] Merrill Corbin Strachan interjette appel à l’égard d’une cotisation d’impôt, dont l’avis est daté du 24 mai 2007 (no 41520), qui a été établie au titre de l’article 160 de la Loi de l’impôt sur le revenu (« Loi »). Le ministre du Revenu national (« ministre ») a établi une cotisation à l’égard de Mme Strachan, en tenant pour acquis que son époux, Ian Strachan, lui avait transféré, directement ou indirectement, des actions du capital‑actions de Northside Development Corporation (« Northside ») le 29 janvier 2001, le 22 février 2002 et le 9 décembre 2004, ainsi qu’une moitié indivise du bien‑fonds situé au 174, chemin Covey Hill, à Hemmingford, au Québec (le « bien‑fonds »), le 7 janvier 2005, alors que M. Strachan devait de l’impôt au titre de la partie I de la Loi.
+[2] L’appelante ne conteste pas l’allégation du ministre selon laquelle son époux devait de l’impôt à l’époque à laquelle les transferts auraient été effectués. Elle conteste toutefois qu’un transfert d’actions ait eu lieu et elle affirme que, si un tel transfert a eu lieu, le ministre a mal évalué les actions. Elle conteste aussi la façon dont la Couronne a évalué le bien‑fonds et l’avantage qu’elle aurait reçu à la suite du transfert.
+I Northside
+[3] Au cours de la période visée par le présent appel, Northside se livrait, entre autres, à l’approvisionnement de la base militaire de Goose Bay en oxygène liquide et en azote liquide. Elle fournissait aussi ses produits aux hôpitaux.
+[4] M. Strachan a affirmé qu’en 1988 ou en 1989, il était [traduction] « le spécialiste de l’entraînement militaire et de l'entraînement au vol à basse altitude des […] pilotes de chasseurs‑bombardiers de la Royal Air Force (la « RAF »), de la force aérienne allemande et de la force aérienne néerlandaise ». M. Strachan était aussi biochimiste.
+[5] M. Strachan a expliqué que l’aéroport de Goose Bay avait été conçu pour approvisionner la Grande‑Bretagne en biens militaires de l’Amérique du Nord lors de la Seconde Guerre mondiale. Il a décrit l’aéroport de Goose Bay comme un endroit où il y a [traduction] « très peu de brouillard, et où le ciel est très clair et le taux de pollution très faible, qui est muni de très longues pistes et qui possède d’excellentes installations pour les aéronefs militaires ». Divers pays membres de l’OTAN utilisaient l’aéroport de Goose Bay comme centre d’entraînement au vol à basse altitude.
+[6] Selon M. Strachan, avant que Northside commence à exploiter son entreprise, il y avait des problèmes d’approvisionnement en oxygène liquide et en azote liquide pour les pilotes et les aéronefs. M. Strachan a expliqué que l’ancien équipement était alimenté en ammoniaque et appartenait à la force aérienne américaine et à la RAF, qui étaient les [traduction] « seules à pouvoir utiliser des « liquides cryogéniques », soit des liquides dont la température est inférieure à ‑150 oC. L’oxygène liquide est nécessaire pour les pilotes de chasse à basse altitude, qui reçoivent de l’oxygène pendant le vol. L’azote liquide est utilisé pour [traduction] « remplir les pneus des avions à réaction et des chasseurs‑bombardiers, parce qu’ils atterrissent à une vitesse élevée ». D’après ce que j’ai pu comprendre, les pneus des avions à réaction sont remplis d’azote liquide au lieu d’être remplis d’air.
+[7] Afin de se lancer en affaires, Northside a réuni des capitaux pour construire des installations cryogéniques à l’aéroport de Goose Bay. À peu près au même moment, la société a présenté une soumission pour un contrat d’approvisionnement en oxygène et en azote liquides avec le ministère de la Défense nationale (le « MDN »). La soumission était fondée sur l’estimation que le MDN avait donnée au sujet du volume quotidien de gaz liquéfié. Northside a été le seul soumissionnaire pour la construction d'installations et M. Strachan a expliqué que, comme il s’agissait d’un contrat [traduction] « à fournisseur unique », les documents comptables de la société étaient mis à la disposition d’Approvisionnements et Services Canada (« ASC »). D’après la description que M. Strachan a fournie concernant le financement du contrat, le soumissionnaire retenu pour un contrat à fournisseur unique ne pouvait pas déduire l’intérêt payé sur l’argent emprunté pour acheter l’installation; certains coûts, comme les coûts directs, n’étaient pas remboursables aux termes du contrat, et d’autres coûts, comme les frais d’électricité et la taxe municipale, étaient remboursables. Selon les dires de M. Strachan, pour certains éléments, la société n’avait droit qu’à un profit de 11 p. 100.
+[8] Compte tenu de l’estimation fournie par le MDN au sujet du volume quotidien de gaz liquéfié, Northside a acheté une installation de production cryogénique d’une tonne, soit une installation qui pouvait produire une tonne de gaz liquéfié par jour. Le coût en était de 3 200 000 $. L’installation devait fonctionner au plus tard le 1er avril 1991 et elle a été transportée en avion de la Californie, où elle a été achetée, à Goose Bay. Lorsque l’installation a commencé à fonctionner, elle a été en marche sept jours sur sept, 24 heures sur 24, et non cinq jours par semaine, dix heures par jour, comme cela était prévu. Selon M. Strachan, l’armée a commis une erreur lorsqu’elle a converti les litres en gallons impériaux. L’installation était [traduction] « au moins quatre ou peut-être même cinq fois trop petite, et nous allions faire faillite ». Le contrat avec le MDN ne permettait pas à Northside de demander la déduction de pertes.
+[9] Pendant ce temps‑là, M. Strachan essayait de régler le problème et il a finalement convaincu le MDN qu’une erreur avait été commise. Il a été convenu que Northside ferait l’acquisition d’une installation pouvant produire cinq tonnes de gaz liquéfié par jour, mais qu’elle ne serait toutefois pas indemnisée par le MDN. M. Strachan a témoigné qu’ASC n’avait pas autorisé Northside à acheter l’installation pour la somme de 1 400 000 $ à titre d’acquisition d’immobilisation et qu’il avait dû louer l’installation que Northside a achetée ultérieurement.
+[10] L’installation d’une tonne était financée en partie par l’Agence de promotion économique du Canada atlantique (l’« APÉCA »). La société a fourni 15 p. 100 du coût d’acquisition de l’installation d’une tonne et l’APÉCA a fourni le reste. Cependant, l’APÉCA ne voulait pas financer l’achat de l’installation de cinq tonnes, et les tentatives faites pour vendre l’installation d’une tonne afin d’aider la société à faire l’acquisition de l’installation de cinq tonnes se sont révélées infructueuses. La société en est toujours propriétaire; M. Strachan estime qu'il s’agit de ferraille. (Selon le rapport d’évaluation de Northside préparé pour l’intimée par Brian Hawkins, l'installation d'une tonne avait une valeur comptable nette de 113 831 $ le 29 janvier 2001 et un rajustement de 386 169 $ est apporté au titre de l’évaluation, ce qui donne une valeur comptable d’expertise de 500 000 $.) L’élément clé de l’évaluation de Northside est la valeur de l’installation d’une tonne.
+[11] L’installation de cinq tonnes a initialement été louée de Cosmodyne, une société américaine, en 1992. Northside l'a par la suite achetée à l’automne 1993 pour la somme de 150 000 $. Au total, Northside a payé 1 200 000 $ pour l’installation, si on inclut les frais de location. Northside avait du matériel auxiliaire qui provenait de l’installation d’une tonne qu’elle pouvait utiliser pour l’installation de cinq tonnes.
+[12] Northside a conclu son premier contrat avec le MDN en 1991; ce contrat avait une durée de cinq ans. M. Strachan a fait remarquer que les tactiques de vol à basse altitude faisaient partie de la stratégie militaire générale utilisée en situation de guerre à l’époque, [traduction] « jusqu’à la guerre en Serbie ou en Yougoslavie ». En 1997, le contrat a été reconduit jusqu’en 2001.
+[13] Selon M. Strachan, la stratégie militaire a toutefois [traduction] « changé radicalement à partir de l'an 2000, en raison de l’utilisation de systèmes informatiques modernes, de GPS guidés par laser, systèmes aéroportés d'alerte et de contrôle, qui volent à une altitude de 30 000 pieds et guident les missiles jusqu’à leur cible, et qui ont remplacé le mode d’opération plus dangereux où le pilote‑navigateur vole à basse altitude ».
+[14] En 2001, à la fin du contrat, l’entraînement au vol à basse altitude avait perdu de sa popularité. Selon M. Strachan, Northside a obtenu la prolongation de son contrat pour une période d’un an, en attendant que le MDN prenne une décision concernant la fermeture de l’aéroport de Goose Bay. En 2002, une autre prolongation d’un an a été accordée pour le contrat. Entre-temps, les Néerlandais et les Allemands avaient décidé de quitter Goose Bay. En 2004, les Britanniques sont eux aussi partis.
+[15] Au moment de l’instruction, l’aéroport de Goose Bay était toujours ouvert.
+a) Les transferts d’actions
+[16] Le 19 décembre 1990, l’appelante et M. Strachan ont conclu un contrat de mariage aux termes duquel M. Strachan avait, entre autres, convenu de transférer toutes les actions qu’il détenait dans le capital‑actions de Northside moyennant une contrepartie de 1 $ payable à la signature du contrat. Selon les registres de Northside, M. Strachan a continué d’être l’unique actionnaire de Northside jusqu’en janvier 2001. M. Strachan détenait les deux actions de Northside, ou en a fait l’acquisition, de la manière suivante :
+i. il détenait une des actions avant la signature du contrat de mariage,
+ii. il a acquis la deuxième action le 30 mars 1993 en contrepartie du transfert par M. Strachan à Northside d’un intérêt à bail dans le bâtiment dans lequel Northside exerçait ses activités; M. Strachan et Northside ont fait un choix conjoint au titre de l’article 85 de la Loi.
+M. Strachan affirme qu’il a transféré la propriété bénéficiaire de ces deux actions à l’appelante au moyen du contrat de mariage signé en décembre 1990.
+[17] Le 29 janvier 2001, l’appelante a souscrit 38 actions ordinaires de Northside moyennant une contrepartie de 38 000 $. Le témoin expert de l’intimée a estimé que le 31 mars 2001, la juste valeur marchande des 40 actions émises était de 263 000 $. L’exercice de Northside se terminait le 31 mars.
+[18] Puis, le 22 février 2002, l’appelante a souscrit 75 autres actions ordinaires de Northside moyennant une contrepartie de 75 000 $. Le témoin expert de l’intimée a estimé que le 31 mars 2002, la juste valeur marchande des 115 actions émises était de 334 000 $; la valeur des 75 actions a donc été évaluée à 217 800 $.
+[19] Ce n’est que le 9 décembre 2004 que l’administrateur de Northside a signé une résolution pour transférer deux actions ordinaires à l’appelante sans contrepartie (apparemment suivant le contrat de mariage) et pour annuler les certificats d’actions enregistrés au nom de M. Strachan, lesquels ont été enregistrés à son nom jusqu’au 9 décembre[1]. M. Strachan était l’unique administrateur de Northside pendant toute la période pertinente.
+[20] Selon le témoin expert de l’intimée, la valeur de toutes les actions en circulation de Northside était de 292 000 $ le 31 mars 2004, ce qui, selon lui, était la valeur de ces actions le 9 décembre 2004.
+[21] Les dividendes que Northside a versés avant décembre 2004 étaient payés à M. Strachan personnellement.
+b) Le contrat de mariage
+[22] L’appelante affirme que le transfert des deux actions ordinaires du capital‑actions de Northside détenues par M. Strachan n’était pas un transfert au sens du paragraphe 160(1) de la Loi, parce que la disposition n’avait pas donné lieu à un changement de propriétaire bénéficiaire. En fait, l’appelante affirme qu’elle croyait avoir acquis la propriété des actions aux termes du contrat de mariage, le 19 décembre 1990; le contrat de mariage a eu pour effet de lui transférer la propriété bénéficiaire des actions. M. Strachan a simplement agi comme prête‑nom pour son épouse ou détenu son intérêt dans les deux actions en fiducie pour elle jusqu’au 9 décembre 2004.
+c) Analyse
+[23] M. Strachan était le propriétaire bénéficiaire des dividendes qui ont été versés aux actionnaires et qu’il a reçus à titre de propriétaire des deux actions. Il a reçu les dividendes pour son propre usage et sa propre jouissance. Il a eu la jouissance de tous les attributs du droit de propriété des actions et des dividendes qu’il a reçus[2]. Dans l’arrêt Covert c. Ministre des Finances (N.-É.)[3], la Cour suprême du Canada a déclaré que le « propriétaire bénéficiaire » est celui qui, « en dernier ressort », exerce les droits de propriété sur le bien. Compte tenu de la preuve dont je suis saisi, c’est M. Strachan qui, « en dernier ressort », a exercé le droit de propriété sur les deux actions en tout temps avant le 9 décembre 2004. L’une des actions enregistrées au nom de M. Strachan a été émise en contrepartie de la vente à la société, par lui, d’un intérêt à bail en 1993, plusieurs années après la signature du contrat de mariage. Je ne vois pas comment le contrat de mariage aurait pu viser cette action. M. Strachan a dit qu’initialement, l'intérêt à bail était détenu par lui, et non par une société, parce que la Banque de développement du Canada, qui avait prêté 225 000 $ à l’entreprise, exigeait qu’il lui appartienne personnellement. Il a affirmé qu’il avait fallu deux ans pour que le [traduction] « transfert libre d’impôt » du droit de l'intérêt à bail à Northside soit effectué, pendant que l’Agence du revenu du Canada (l’« ARC ») examinait les documents.
+[24] L’époux de Mme Strachan était le propriétaire bénéficiaire des deux actions ordinaires jusqu’à ce que celles‑ci lui soient effectivement transférées le 9 décembre 2004. C’était à M. Strachan que Northside versait les dividendes avant le 9 décembre 2004 et c’était M. Strachan qui recevait les dividendes à payer relativement à ces deux actions. C’était M. Strachan, et non Mme Strachan, qui avait inclus le montant des dividendes dans le calcul de son revenu pour les besoins de l’impôt sur le revenu. Dans un appel antérieur devant la Cour, M. Strachan a convenu qu’en 1992, l’année d’imposition qui était alors visée par l’appel, il était l’unique actionnaire et employé de Northside[4].
+[25] M. Strachan et l’appelante ont tous les deux expliqué que le versement des dividendes en question à M. Strachan n’était pas vraiment un versement de dividendes. Le 7 juillet 1993, une sentence prononcée contre M. Strachan a été homologuée par les tribunaux de Terre‑Neuve, et la Cour suprême de Terre‑Neuve a rendu une ordonnance à l’encontre de M. Strachan. Lors de l’instruction du présent appel, M. Strachan a admis en toute franchise qu’il ne voulait pas payer le montant adjugé et qu’il avait demandé à ses comptables de faire en sorte que Northside lui verse autre chose qu’un salaire pour éviter que l’argent soit saisi. Ses comptables ont donc recommandé que Northside lui verse des dividendes. En l’espèce, il a déclaré que le versement aurait dû être appelé une prime ou autrement, mais pas un salaire.
+[26] La question de savoir si M. Strachan voulait que les versements soient qualifiés de dividendes n’est pas pertinente. Ce qui importe, c’est que Northside a versé des dividendes à M. Strachan parce qu’il était le propriétaire bénéficiaire des actions ordinaires de Northside. Non seulement détenait‑il le titre juridique des actions, il en était aussi le propriétaire bénéficiaire. Il est évident que les comptables le savaient et qu’ils avaient pu prendre des mesures pour lui verser des dividendes au lieu de lui verser un salaire.
+[27] Il a été question du fait que M. Strachan aurait détenu les deux actions en fiducie pour Mme Strachan. Le contrat de mariage ne renferme aucune indication que M. et Mme Strachan s’étaient entendus pour qu’il en soit ainsi, aucun autre document révélant l’existence d’une telle fiducie n’a été produit. Le fait que M. Strachan a reçu la deuxième action en contrepartie du transfert d’un intérêt à bail qu’il détenait soulève des doutes sérieux quant à l’existence d’une fiducie.
+[28] M. Strachan a déclaré que le contrat de mariage et la prétendue convention de fiducie visaient à protéger l’appelante des entreprises commerciales risquées de M. Strachan. Cependant, la conduite de l’appelante n’est pas compatible avec cette déclaration. Lors de l’instruction, elle a admis qu’elle avait donné aux banques des cautionnements personnels pour aider M. Strachan dans ses entreprises.
+[29] L’appelante affirme également que l’émission par Northside de 38 actions ordinaires et de 75 actions ordinaires à elle, le 29 janvier 2001 et le 22 février 2002 respectivement, ne constituait pas un transfert fait « directement ou indirectement », comme le prévoit le paragraphe 160(1) de la Loi, parce que c’était la société, et non M. Strachan, qui avait émis les actions que l’appelante avait souscrites.
+[30] L’avocat de l’appelante a renvoyé à la décision Algoa Trust et 116488 Canada Inc. c. La Reine[5] (« Algoa Trust ») à l’appui de son allégation selon laquelle l’émission d’actions ne constitue pas un transfert, parce que la société ne s’est pas départie d’un bien. Plus particulièrement, il a cité le passage suivant :
+51 Le versement d’un dividende en actions ne constitue pas un transfert de biens. Les actions autorisées dans l’acte constitutif d’une corporation ne sont pas des actifs de la corporation. Lorsqu’une personne souscrit des actions et les paie à la corporation, les actions lui sont émises et sont inscrites dans le registre des actionnaires de la corporation. Le paiement est la contrepartie des actions. L’émission d’actions ne constitue pas un transfert, car la corporation ne s’est pas départie d’un bien, les actions n’ayant jamais appartenu à la corporation. Aux fins de l’article 160, des actifs ne sont transférés que lorsqu’une personne se départit de la propriété d’un bien et qu’une autre l’acquiert. Avant et pendant leur émission, les actions d’une corporation ne sont pas la propriété de celle-ci.
+[31] On peut établir une distinction entre les faits de l’affaire Algoa Trust et ceux en l’espèce. Dans Algoa Trust, une des questions était de savoir si une société qui avait reçu un dividende en actions était redevable, au titre du paragraphe 160(1) de la Loi, de l’impôt impayé de la société ayant versé le dividende en actions. J’ai conclu que la société n’était pas tenue de payer cet impôt. (Une autre question qui se posait était celle de savoir si le versement d’un dividende en espèces constituait un transfert de biens. J’ai conclu que c’était le cas et que le bénéficiaire du dividende était donc responsable, au titre du paragraphe 160(1) de la Loi, de la dette de l’auteur du versement.) En l’espèce, il n’y a pas d’allégation que Northside a transféré quelque bien que ce soit à Mme Strachan. C’est son époux qui lui aurait transféré des biens. Il ne lui a pas transféré 113 actions. Il a plutôt, comme le soutient la Couronne, fait en sorte que Northside émette les actions moyennant une contrepartie inférieure à leur juste valeur marchande et a en fait causé le transfert à Mme Strachan de 95 p. 100 et de 98 p. 100, respectivement, de sa participation au capital de Northside.
+[32] L’intimée invoque l’arrêt Canada c. Kieboom[6] à l’appui de son allégation selon laquelle la souscription d’actions par l’appelante constitue un transfert indirect « de toute autre façon » aux termes du paragraphe 160(1) de la Loi.
+[33] Dans l’arrêt Kieboom, une des questions à trancher était de savoir si le revenu provenant des dividendes versés à l’épouse du contribuable suivant l’émission d’actions à son égard devait être attribué au contribuable au titre du paragraphe 74(1) de la Loi.[7] Selon le libellé du paragraphe 74(1) de la Loi, lorsqu’une personne a transféré des biens « directement ou indirectement […] par un acte de fiducie ou par tout autre moyen que ce soit à son conjoint », tout revenu ou toute perte provenant de ces biens est réputé être un revenu ou une perte de l’auteur du transfert et non de celui à qui le transfert a été fait. La Cour d’appel a conclu que l’utilisation des termes « a transféré des biens, directement ou indirectement » et « par tout autre moyen que ce soit », ainsi qu’il est prévu au paragraphe 74(1) de la Loi, avait pour but d’inclure les transferts de biens en faisant en sorte que la société d’un contribuable émette des actions.
+[34] Pour arriver à cette conclusion, le juge Linden, s’exprimant au nom de la Cour d’appel fédérale, s’est fondé sur la définition du terme « transfert » donnée par le président Thorson dans la décision Fasken Estate v. Minister of National Revenue (1948)[8] :
+[TRADUCTION] Le mot « transfert » n'est pas un terme technique. Pour qu'il y ait transfert d'un bien d'un mari à sa femme, il n'est pas nécessaire qu'il soit fait selon une forme particulière, ni qu'il soit fait directement. Il suffit que le contribuable se départisse du bien et le remette à son épouse, c'est-à-dire qu'il lui transmette le bien. Le moyen employé pour atteindre ce résultat, qu'il soit direct ou indirect, peut à juste titre être appelé un transfert.
+[35] La Cour d’appel fédérale a alors affirmé que la définition du terme « biens » figurant au paragraphe 248(1) de la Loi visait non seulement les actions elles‑mêmes, mais aussi les droits s’y rattachant.
+[36] Le juge Linden a conclu que, par suite du transfert, une participation de 40 p. 100 de M. Kieboom dans sa société a été transférée à Mme Kieboom. Le juge Linden a donné les explications suivantes :
+[…] Le fait qu’il a réalisé ce transfert de bien en faisant émettre des actions par sa compagnie ne fait pas de différence. Le paragraphe 74(1) s’applique aux transferts qui sont faits « directement ou indirectement » ou « par tout autre moyen que ce soit ». Le transfert, qui en l’espèce était indirect, étant donné que le contribuable a pris des dispositions pour que sa compagnie émette des actions à sa femme, constitue néanmoins un transfert du mari à la femme. Il n’est pas nécessaire qu’il y ait un transfert d’actions pour déclencher l’application de cette disposition de la Loi, comme le juge de la Cour de l’impôt l’a conclu à tort. Par ce transfert de bien à sa femme, le contribuable s’est départi de certains droits de recevoir des dividendes, si des dividendes étaient déclarés. […]
+[37] Le paragraphe 160(1) de la Loi renferme les mêmes termes que ceux qui figuraient au paragraphe 74(1) examiné dans l’arrêt Kieboom :
+[…] une personne a […] transféré des biens, directement ou indirectement […] de toute autre façon […]
+… a person has … transferred property, either directly or indirectly … by any other means whatever …
+[38] Dans la présente affaire, M. Strachan a transféré des biens à l’appelante d’une façon semblable : il lui a d’abord donné 95 p. 100, puis 98 p. 100, de sa participation au capital de Northside en lui permettant de souscrire 38 actions pour la somme de 38 000 $, puis 75 actions pour la somme de 75 000 $, en 2001 et en 2002 respectivement. J’ai conclu que M. Strachan était l’unique actionnaire de Northside avant le 9 décembre 2004. Il a donc renoncé aux droits se rattachant à ses actions dans une même proportion (c.-à-d. son droit de vote en tant qu’actionnaire unique, son droit de recevoir 100 p. 100 des dividendes en cas de distribution et son droit de recevoir la totalité des biens restants de la société en cas de dissolution). Le fait que M. Strachan a fait transférer les actions à l’appelante en faisant en sorte que Northside les émette ne devrait faire aucune différence.
+d) L’évaluation des actions
+[39] M. Brian D. Hawkins, évaluateur principal d'entreprises de l’unité de l’évaluation d'entreprises de la région de l’Atlantique de l’ARC, a préparé un [traduction] « Rapport d’évaluation fondé sur une estimation de la valeur » à l’égard de Northside en date du 29 janvier 2001, du 22 février 2002 et du 9 décembre 2004, soit les dates auxquelles Mme Strachan a fait l’acquisition des actions de Northside. Compte tenu de la contre‑preuve de l’appelante, M. Hawkins a mis à jour son rapport le 25 avril 2013 en révisant ses calculs fondés sur les bénéfices. M. Hawkins effectue des évaluations pour l’ARC depuis 1986. Il a obtenu un baccalauréat en commerce de l’université St. Mary en 1986. Bien que je l’aie admis à titre d’expert pour les besoins du présent appel, l’avocat de l’appelante a mis en doute son indépendance en tant qu’employé de l’ARC, et je l’ai autorisé à présenter des observations dans ses conclusions finales au sujet de l’indépendance de M. Hawkins.
+[40] L’estimation mise à jour, par M. Hawkins, de la valeur de Northside est la suivante :
+29 janvier 2001
+22 février 2002
+9 décembre 2004
+Valeur globale
+263 000 $
+334 000 $
+292 000 $
+$ / action
+6 575 $
+2 904 $
+2 539 $
+[41] Dans son rapport, M. Hawkins a admis que l’économie de Happy Valley‑Goose Bay est liée à l’aéroport et, plus précisément, à la base aérienne. Il a admis qu’en 2001‑2002, l’aéroport était en plein essor et on s’attendait à un accroissement de l’activité. La France, la Belgique et la Norvège prévoyaient se joindre aux forces aériennes du Canada, des États-Unis, du Royaume-Uni et de l’Italie. L’Italie prévoyait investir 20 000 000 $ pour un nouveau hangar, du logement et des installations connexes en 2003 et en 2004. Cependant, les Italiens ont retardé les travaux de construction en 2002 et réduit les horaires de vol en 2004. Les Néerlandais, les Allemands et la RAF ont annoncé qu’ils quitteraient Goose Bay en 2003, en 2004 et en 2005, respectivement. Le nombre d’employés à la base est passé de 1 700 à 500, et il continuait de diminuer à la date du rapport de M. Hawkins, le 20 mars 2013.
+[42] Parmi les trois approches généralement admises pour évaluer une entreprise, M. Hawkins a choisi l’approche fondée sur les bénéfices, plutôt que l’approche fondée sur la valeur des actifs ou celle fondée sur le marché, étant donné que cette approche permettait d’obtenir une valeur plus grande pour l’évaluation de l’actif; il n’a pas tenu compte de l’approche fondée sur le marché.
+[43] M. Hawkins a tout d’abord déterminé la valeur globale de Northside. Il a examiné les revenus et les dépenses comptabilisés depuis 1999 et a apporté des rajustements à un certain nombre de postes de dépense qui étaient, selon lui, mal calculés ou non récurrents. Les dépenses ont aussi été rajustées afin [traduction] « d’être davantage compatibles avec les activités commerciales ». Les recettes non récurrentes ont été ramenées à zéro. M. Hawkins a calculé une moyenne pondérée ainsi que des moyennes simples [traduction] « au moyen des bénéfices nets normalisés », et à partir de ces moyennes, il a choisi un taux inférieur et un taux supérieur de bénéfices. L’impôt sur le revenu a été calculé et déduit de cette fourchette de bénéfices pour obtenir les bénéfices prévisibles, qui ont été capitalisés suivant un taux de 40 p. 100 et de 50 p. 100 pour arriver à la valeur globale de Northside.
+[44] M. Hawkins a rajusté les bénéfices normalisés et le flux de trésorerie de la manière suivante :
+a) Il a réduit de 49 000 $ les frais de réparation et d’entretien de la société pour l’exercice 2000; il a estimé que des dépenses de 79 413 $ étaient des dépenses en capital ou non récurrentes.
+b) Il a admis 15 000 $ au titre des frais de déplacement pour toutes les années; les sommes déduites s’élevaient à 27 639 $, à 42 783 $, à 25 177 $, à 22 070 $ et à 15 073 $, en 1999, en 2000, en 2001, en 2002 et en 2003 respectivement.
+c) Il a admis 15 000 $ au titre des honoraires, des frais juridiques et des frais comptables en 1999, en 2000, en 2001, en 2002, en 2003 et en 2004. Au total, les sommes déduites s’élevaient à 33 400 $, à 13 004 $, à 44 676 $, à 31 590 $, à 24 341 $ et à 10 048 $, respectivement. Il a estimé que certaines des dépenses étaient non récurrentes ou plus élevées que ce qui serait considéré comme normal par un acheteur.
+d) Il a « normalisé » l’amortissement pour l’exercice 2005 en se servant de la moyenne des années précédentes, soit 8 000 $. En 2005, le calcul des actifs corporels a augmenté par rapport à la moyenne de 8 000 $ et est passé à 153 407 $; il a réintégré 145 000 $.
+e) Les revenus de location pour 2002 et 2003 ont été soustraits en tant que revenus non récurrents.
+f) Les honoraires de gestion pour toutes les années ont été « normalisés » en fonction des données de Statistique Canada pour Terre-Neuve‑et‑Labrador.
+[45] Mr. Hawkins a choisi un taux de capitalisation de 40 p. 100 à 50 p. 100 en raison des [traduction] « incertitudes » relatives à l’entreprise de Northside; il s’agit d’une entreprise hautement capitalistique et saisonnière qui compte sur des contrats de l'État pour obtenir des revenus. Northside a une assez petite clientèle, et la nature de l’entreprise [traduction] « fait en sorte qu’elle dépend des fluctuations » des vols à basse altitude de l’OTAN. Selon l’entente, jusqu’à 18 000 vols à basse altitude peuvent être effectués annuellement, mais, en raison des compressions, en 2013, il y en a dans les faits eu moins de 5 000.
+[46] M. Hawkins a considéré les actifs hors exploitation de la société comme un élément accessoire qui n’était pas requis pour générer les revenus tirés de l’exploitation de la société. Il a enlevé les actifs et les passifs hors exploitation des actifs et des passifs d'exploitation de la société.
+[47] Aux trois dates d’évaluation considérées, Northside avait consenti des avances à Brimmond Farms Inc., une partie liée, qui ont été considérées comme des actifs hors exploitation.[9] En 2001, les avances s’élevaient à 512 040 $ et, en mars 2005, elles s’élevaient à 1 244 089 $. Une avance de 71 487 $ consentie en 2001 à un administrateur a aussi été considérée comme un actif hors exploitation.
+[48] Northside reportait aussi sur les exercices ultérieurs [traduction] « des soldes importants de taxes de vente et d’impôt sur le revenu à payer ». D’après M. Hawkins, les sommes avancées à Brimmond Farms nuisaient à la capacité de la société de réduire les taxes et l’impôt qu’elle devait. Il a souligné que, chaque année, ces dettes et les avances consenties à Brimmond Farms augmentaient. Tout acheteur éventuel voudrait que ces actifs hors exploitation soient enlevés et que les dettes soient payées avant d’acheter quoi que ce soit.
+[49] M. Hawkins a considéré que la valeur de réalisation nette des actifs hors exploitation et du passif y afférent était égale à zéro.
+[50] En ce qui concerne les actifs corporels, M. Hawkins a considéré que leur valeur était la valeur comptable. Il a trouvé que les provisions pour créances douteuses étaient trop élevées et il a estimé qu’elles étaient de 25 000 $ pour chacune des années. Le terrain et les bâtiments ont été évalués à 118 200 $ en fonction d’un rapport d’évaluation fourni par un [traduction] « coordonnateur de l’évaluation » de l’ARC. M. Hawkins a estimé à 500 000 $ la valeur comptable nette du matériel de production, (c.-à-d. l’installation d’une tonne), valeur qu’il a considérée comme [traduction] « prudente »; le coût de remplacement s’élevait à 3 500 000 $ pour les besoins de l’assurance. Dans les états financiers pour 2001, l’installation avait une valeur comptable de 113 831 $. M. Hawkins a augmenté la valeur comptable de 386 169 $, ce qui a donné une valeur comptable ajustée de 500 000 $. Aucune évaluation en bonne et due forme du matériel n’a été effectuée; c’est ce matériel que M. Strachan a considéré comme de la [traduction] « ferraille ».
+[51] M. Hawkins a considéré qu’il y avait lieu d’attribuer une certaine survaleur en ce qui concerne les activités de la société, puisque celle‑ci pouvait réaliser des bénéfices supérieurs aux investissements faits dans les actifs corporels nets et les actifs incorporels identifiables. Selon lui, la survaleur se situait dans les fourchettes suivantes :
+29 janvier 2001 —
+140 000 $ à 175 000 $, ou le revenu net d'une à 1,4 année;
+29 février 2002 —
+85 000 $ à 134 000 $, ou le revenu net de 0,59 à 0,86 année;
+9 décembre 2004 —
+408 000 $ à 433 000 $, ou le revenu net de 1,67 à 2,20 années.
+[52] L’appelante n’a pas produit de rapport d’évaluation à l’appui de son allégation selon laquelle les actions de Northside n’avaient aucune valeur pendant toute la période pertinente. Elle a plutôt retenu les services de Mme Pascale Gaudreault, comptable agréée et experte en évaluation d’entreprise, pour que celle‑ci réfute le rapport de M. Hawkins.
+[53] Mme Gaudreault a soulevé le caractère arbitraire des rajustements effectués par M. Hawkins, particulièrement en ce qui concerne le prêt de l’APÉCA qui a été accordé à Northside lorsque celle‑ci a fait l’acquisition de l’installation cryogénique d’une tonne, et son évaluation de l’installation d’une tonne à 500 000 $. Mme Gaudreault a aussi fait remarquer que l’évaluation de M. Hawkins ne respectait pas entièrement certaines dispositions de la norme 110 de l’Institut canadien des experts en évaluation d’entreprises, que le rapport de M. Hawkins était un rapport d’évaluation fondée sur une estimation de la valeur, qui repose sur un examen limité des renseignements pertinents, et que certaines des conclusions n’étaient pas expliquées en détail.
+[54] M. Hawkins a considéré le prêt de l’APÉCA comme une dette de la société. Selon Mme Gaudreault, le prêt était un élément du passif hors exploitation, parce que l’élément actif d'acquis n’était plus utilisé. L’installation d’une tonne était considérée comme de la [traduction] « ferraille » par M. Strachan. Vu que l’installation d’une tonne était de la ferraille, il n’aurait pas fallu lui attribuer une valeur de 500 000 $, même si, pour les besoins de l’assurance, elle avait eu une valeur de remplacement de 3 500 000 $.
+[55] Mme Gaudreault croyait que l’installation avait été amortie sur une période de cinq ans, mais a reconnu que, si elle avait été amortie sur une période plus longue, la valeur comptable aurait été plus élevée que celle indiquée dans les états financiers de Northside.
+[56] Tout comme M. Hawkins, Mme Gaudreault n’a pas visité l’endroit où était située l’installation. Elle s’est uniquement fondée sur les observations et les descriptions que M. Strachan avait présentées au sujet de l’installation d’une tonne en particulier et de l’entreprise en général.
+[57] Cela pose problème, car je n’ai pas jugé que M. Strachan était un témoin fiable. Il semble avoir tendance à se lancer des fleurs et à exagérer les choses. Par exemple, il se considère comme [traduction] « le spécialiste de l’entraînement militaire et de l'entraînement au vol à basse altitude ». Quant à savoir si cela est ou était vrai, je n’en ai pas la moindre idée. Il a aussi mentionné qu’il [traduction] « restait pris jusqu'à la tombe » avec l’installation d’une tonne [traduction] « en tant que ferraille ». Certaines des réponses qu’il a données aux questions n’avaient aucun sens. Par exemple, il a insisté pour dire qu’il ne possédait pas d’actions de Northside, mais il a reçu des dividendes à l’égard de ces actions. De plus, il a insisté pour dire que ces dividendes n’auraient pas dû être des dividendes. Les sommes lui avaient été versées sous forme de dividendes afin de, pour ne pas dire autre chose, duper un créancier. S’il détenait les actions en fiducie ou à titre de prête‑nom pour son épouse, rien ne montre qu’il lui a transféré les fonds ou qu’elle a déclaré les dividendes dans sa déclaration de revenus. Le fait est que M. Strachan a déclaré les dividendes pour les besoins de l’impôt sur le revenu. En outre, dans une instance antérieure, il a dit qu’en 1992, il détenait les actions de Northside, alors qu’en l’espèce, il affirme qu’il s’est départi des actions qu’il détenait, c’est-à-dire une action, en 1990.
+[58] Mme Gaudreault a exprimé l’avis que la valeur de l’installation d’une tonne était négligeable; elle n’a pas vu l’installation et ne disposait pas non plus d’une évaluation de l’installation. Les renseignements sur lesquels elle s’est fondée ne pouvaient provenir que d’une source, M. Strachan.
+[59] L’évaluation de M. Hawkins n’est toutefois pas parfaite. Aucune évaluation ne l’est. Les honoraires varient d’une année à l’autre, et il est peut-être trop prudent d’attribuer un montant fixe de 15 000 $ au titre de ceux‑ci. Cette remarque vaut aussi pour les frais de déplacement, étant donné que Northside est située loin des avocats et d'autres endroits se rattachant au commerce. En outre, la valeur de l’installation d’une tonne est restée la même pour toutes les années. Après avoir passé en revue la preuve de M. Strachan, il me semble qu’au fil des ans, la valeur de l’installation d’une tonne a diminué. Je tiens à souligner que M. Strachan a déclaré que [traduction] « sans contrat », l’installation d’une tonne ne valait que le [traduction] « prix de la ferraille ». Mme Gaudreault a déclaré que, si l’installation d’une tonne avait eu une quelconque utilité, elle aurait inclus le prêt de l’APÉCA dans ses calculs.
+[60] Il ne s’agit certes pas d’une méthode infaillible pour établir les honoraires et les frais de déplacement afin d’effectuer les rajustements, mais j’apporte les rajustements suivants concernant les activités commerciales de Northside au cours des années visées. Les frais de déplacement et les honoraires doivent être rajustés de la manière suivante :
+1999
+2000
+2001
+2002
+2003
+2004
+Frais de déplacement
+22 000 $
+30 000 $
+25 177 $
+22 000 $
+15 093 $
+33 000 $
+Honoraires[10]
+30 000 $
+13 004 $
+33 000 $
+15 000 $
+15 000 $
+10 048 $
+[61] En ce qui concerne la valeur comptable rajustée que M. Hawkins a attribuée à l’installation d’une tonne, j’apporte les rajustements suivants : je conserverais la valeur comptable rajustée de l’installation d’une tonne le 31 mars 2001, qui est de 500 000 $; la valeur comptable pour chaque année subséquente devrait cependant être réduite de 20 p. 100 de la valeur résiduelle.
+[62] Je n’apporterais aucun autre changement aux évaluations de M. Hawkins, à l’exception des rajustements qu’il peut être nécessaire d’apporter aux autres éléments en raison des rajustements proposés.
+[63] Comme je l’ai mentionné précédemment, l’avocat de l’appelante s’est demandé si M. Hawkins, en tant qu’employé de l’ARC, était qualifié pour témoigner à titre d’expert dans un appel en matière d’impôt. Les employés du fisc qui travaillent en tant qu’évaluateurs de biens immobiliers ou évaluateurs d’entreprises ont été maintes fois appelés à témoigner en tant qu’experts devant la Cour. Ils ne sont pas plus ou moins partiaux que les autres experts qui sont indemnisés par d’autres parties pour préparer des évaluations et des appréciations et témoigner à titre d’experts. Un expert doit être intègre et professionnel, dûment qualifié et posséder de l’expérience en tant qu’évaluateur.[11] M. Hawkins satisfait à ces exigences. Lorsqu’un expert témoigne en cour, c’est au juge de décider de la qualité de son témoignage.
+II Le bien‑fonds situé à Hemmingford
+[64] La prochaine question à trancher concerne la valeur d’une moitié indivise du bien‑fonds situé à Hemmingford, au Québec, le 7 janvier 2005.
+[65] Les Strachan ont acheté le bien‑fonds 245 000 $ au moyen d’un acte de vente signé le 17 avril 2000, chacun faisant l’acquisition d’une moitié indivise. Le bien‑fonds se trouvait près d’une ferme située 187, chemin Covey Hill, à Hemmingford, qui appartenait à Les Fermes Brimmond (« Brimmond ») et où résidaient les Strachan. Les Strachan détenaient les actions de Brimmond; M. Strachan détenait environ 5 p. 100 des actions émises. Brimmond a acheté le terrain en 1994.
+[66] M. Strachan se souvenait que Brimmond avait été achetée dans le but de mettre sur pied une exploitation bovine. M. Strachan venait d’une collectivité agricole rurale. Il croyait qu’une exploitation bovine serait une entreprise plus stable que Northside. En 2000, Brimmond avait 45 vaches d'élevage et deux taureaux, dont un était loué. Le propriétaire du bien‑fonds, un ami, avait décidé de partir, et les Strachan pensaient que l’acquisition du bien‑fonds cadrait parfaitement avec leur ambition de créer une exploitation bovine rentable. M. Strachan considérait 40 têtes comme le [traduction] « seuil de rentabilité » et voulait [traduction] « avoir, en 2000, 90 vaches d'élevage, ce qui pouvait être facilement réalisable si les deux fermes étaient réunies ».
+[67] Le bien‑fonds consistait en une maison qui [traduction] « était dans un état désastreux […] horrible et lamentable et inhabitable, mais les pâturages de foin et d'herbe étaient parmi les meilleurs de la colline ». M. Strachan a dit que le terrain comportait 157 acres, dont environ 95 acres étaient des terres arables pour des pâturages d'herbe. Il a commencé à rénover la maison en 2009.
+[68] En 2001 et en 2002, d’importants travaux de construction d'une clôture et d’ensemencement ont été effectués sur le bien‑fonds. À la fin du printemps 2003, M. Strachan était [traduction] « prêt » à acheter 45 autres vaches d'élevage, mais, le 20 mai, l’Agence canadienne d’inspection des aliments a annoncé qu’une vache en Alberta souffrait de la maladie de la vache folle (encéphalopathie spongiforme bovine). Les États‑Unis ont fermé leur frontière aux bovins canadiens, et d’autres pays ont fait de même peu de temps après. M. Strachan se rappelait que, pour la première fois depuis 250 ans, il n’y avait pas de bovins dans les champs. Selon M. Strachan, la frontière a été rouverte vers la fin de 2005, mais le mal était fait. La valeur des terrains avait baissé.
+[69] M. Strachan a affirmé qu’en 2004, [traduction] « la pire année de ma vie », Brimmond, qui recevait des avances importantes de Northside, a abandonné sa ferme et a mis à l’encan ses 45 têtes de bétail à 58 cents la livre, soit [traduction] « le prix de la viande hachée », selon ce dont M. Strachan se rappelait.
+[70] Une année après la vente des bovins, le terrain de Brimmond a été mis en vente. Cependant, il n’y avait pas d’acheteur; seulement deux acheteurs éventuels ont visité le terrain au cours de la période allant de 2005 à 2008. C’était la même chose pour les fermes avoisinantes qui étaient mises en vente. Northside a continué de consentir des avances à Brimmond jusqu’en 2005.
+[71] M. Strachan a comparé le bien‑fonds au terrain appartenant à Brimmond. Le terrain de Brimmond avait une [traduction] « maison tout à fait habitable […] les bâtiments agricoles et les dépendances étaient assurables ». Les bâtiments sur le bien‑fonds, quant à eux, n’étaient pas assurables; les Strachan n’avaient acheté que le terrain. Le terrain de Brimmond avait une superficie de 152 acres, dont 100 acres étaient des terres arables selon M. Strachan. À son avis, le terrain de Brimmond était supérieur.
+[72] Pour l’instruction de la présente affaire, M. André Verreault, un évaluateur de l’ARC, a établi qu’en 2005, seul, le terrain du bien‑fonds avait une valeur de 210 000 $. Il n’a attribué aucune valeur aux bâtiments. M. Verreault a visité le bien‑fonds en mars 2013 avec M. Strachan. Il n’a pas visité le bien‑fonds lorsqu’il a préparé son évaluation; il avait initialement évalué le bien‑fonds à 320 000 $. M. Strachan a décrit l’état dans lequel était la maison lorsqu’il a fait l’acquisition du bien‑fonds, ainsi que les améliorations qu’il a apportées à celle‑ci à partir de 2009.
+[73] Au moment du transfert de sa moitié indivise du bien‑fonds en janvier 2005, le solde impayé de l’hypothèque était de 196 910,11 $. M. Strachan a déclaré que, vu qu’il n’avait pas d’argent, c’était toujours son épouse qui faisait les paiements hypothécaires depuis l’achat du bien‑fonds en 2000.
+[74] L’appelante a produit en preuve un avis d’évaluation municipale du bien‑fonds pour 2004 dans lequel il était indiqué que la valeur du terrain était de 137 600 $ et que celle des bâtiments était de 75 200 $, ce qui donnait une valeur totale de 212 800 $ le 1er juillet 2001. Dans une évaluation faite pour 2008, qui comporte comme date d’évaluation le 1er juillet 2006, le terrain est évalué à 175 900 $ et les bâtiments, à 185 600 $, pour une valeur totale de 361 500 $. M. Strachan et M. Verreault ont convenu que les bâtiments n’avaient aucune valeur en 2005. Cela jette un doute sur les évaluations municipales.
+[75] À l’achat du bien‑fonds en 2000, les Strachan ont obtenu un prêt hypothécaire de 212 600 $ de la Société hypothécaire Scotia. Ainsi, au moment du transfert, Mme Strachan — si M. Strachan a raison — a payé 15 690 $ pour réduire le principal du prêt.
+[76] L’évaluation finale de M. Verreault n’a pas été sérieusement mise en doute. L’appelante n’a pas appelé d’évaluateur de biens immobiliers à témoigner. L’avocat de l’appelante admet que l’évaluation de M. Verreault était [traduction] « sérieuse ». Cependant, comme les évaluations ne sont pas une science exacte, il a pensé que la somme de 1 $ que l’appelante a payée à son époux était raisonnable. M. Verreault a utilisé deux méthodes différentes pour évaluer le bien‑fonds à 250 000 $ à des fins agricoles. Il a divisé le bien‑fonds en trois types de terre, « terre franche non drainée », « boisé » et « terre inculte », il a attribué une valeur à chacun d’eux, et la valeur totale s’est élevée à 250 000 $. Le bien‑fonds aurait aussi pu avoir été évalué en fonction de la tendance récente consistant à transformer le bien‑fonds en [traduction] « ferme d’agrément ». Suivant une comparaison avec quatre ventes, le bien‑fonds aurait ainsi pu être vendu pour la somme de 210 000 $. L’une des principales critiques que l’avocat de l’appelante a formulées était que M. Verreault n’avait pas [traduction] « effectué d’analyses du sol ».
+[77] Le ministre a établi à l’égard de l’appelante une cotisation de 6 543,95 $, qui a été calculée de la manière suivante :
+Juste valeur marchande
+210 000,00 $
+Hypothèque
+(196 910,11 $)
+Différence
+13 089,89 $
+Part de l’appelante
+6 544,95 $
+Contrepartie versée par Mme Strachan
+1,00 $
+Transfert par M. Strachan à l’appelante
+6 543,95 $
+[78] Je n’ai trouvé aucune erreur importante dans l’évaluation de M. Verreault et ne changerais pas la valeur de 210 000 $ établie pour le mois de janvier 2005.
+[79] L’appel sera donc accueilli, et la cotisation sera déférée au ministre pour qu’il examine à nouveau les évaluations de Northside et établisse une nouvelle cotisation conformément aux présents motifs. L’intimée aura droit aux deux tiers de ses dépens.
+Signé à Ottawa, Canada, ce 4e jour de décembre 2013.
+« Gerald J. Rip »
+Juge en chef Rip
+RÉFÉRENCE : 2013 CCI 362
+NO DU DOSSIER DE LA COUR : 2010-3729(IT)G
+INTITULÉ : MERRILL CORBIN STRACHAN c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Les 29 et 30 avril ainsi que le 1er mai 2013
+MOTIFS DU JUGEMENT : L’honorable juge en chef Gerald J. Rip
+DATE DU JUGEMENT : Le 4 décembre 2013
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Yves Ouellette
+Elisabeth Pedneault
+(Stagiaire en droit)
+Avocate de l’intimée :
+Me Dominique Gallant
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Me Yves Ouellette
+Cabinet : Gowling Lafleur Henderson
+s.e.n.c.r.l., s.r.l.
+Montréal, Québec
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] M. Strachan a détenu le titre juridique afférent aux actions jusqu’au 9 décembre 2004 : articles 87 et 88, Corporations Act, RSNL 1990, ch. 36.
+[2] Prévost Car Inc. c. La Reine, 2008 CCI 231, au paragraphe 100.
+[3] [1980] 2 R.C.S. 774, à la page 784.
+[4] Strachan c. La Reine, 2000 CanLII 158, au paragraphe 2.
+[5] [1993] A.C.I. no 15 (QL).
+[6] [1992] 3 C.F. 488; [1992] A.C.F. no 605 (QL).
+[7] L’article 74 a été abrogé par L.C. 1986, ch. 6, par. 37(1).
+[8] [1948] R.C. de l’É. 580, à la page 592.
+[9] Brimmond Farms Inc. est examinée plus loin dans les présents motifs.
+[10] Comprend les frais juridiques et comptables.
+[11] Voir, par exemple, Riordan c. La Reine, 2006 CAF 224; Groeneveld c. M.R.N., 90 D.T.C. 1211; Laycock c. La Reine, [1978] A.C.F. no 511 (QL) (C.F. 1re inst.).

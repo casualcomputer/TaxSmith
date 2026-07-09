@@ -1,0 +1,195 @@
+---
+title: "Daruwala c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30914/index.do"
+last_modified: "2012-04-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 116"
+citation2: ""
+neutral_citation: "2012 CCI 116"
+decision_date: "2012-04-05"
+language: "fr"
+item_id: "30914"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7470
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:42:16.393000+00:00"
+cases_cited_count: 3
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9b73e297ed8823589584930e79d7caf8d301a7b3a827a76ebe7a10dcecff63bc"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Daruwala c. La Reine
+
+- Citation: 2012 CCI 116
+- Decision date: 2012-04-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7470, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Daruwala c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-04-05
+Référence neutre
+2012 CCI 116
+Numéro de dossier
+2011-1994(GST)I
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2011-1994(GST)I
+ENTRE :
+ZUBIN PHEROZE DARUWALA, AIMAI DARUWALA
+ET MAKI PHIROZE DARUWALA,
+appelants
+(intimés en l’espèce),
+et
+SA MAJESTÉ LA REINE,
+intimée
+(requérante).
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Demande présentée par voie d’observations écrites
+Devant : L’honorable juge Randall S. Bocock
+Comparutions :
+Avocat de l’intimée (requérante) :
+Me Kristian DeJong
+Avocat des appelants (intimés) :
+Me Dennis Yee
+Avocate de TRG Construction Corp. :
+Me Andrea Donohoe
+____________________________________________________________________
+ORDONNANCE
+VU la demande présentée à la Cour par l’intimée (la requérante) au nom du ministre du Revenu national (le « ministre »), en application de l’article 311 de la Loi sur la taxe d’accise, de statuer sur une question que soulève une opération qui se rapporte à une cotisation, réelle ou projetée, relative à plusieurs contribuables;
+ET VU les documents déposés en preuve par l’avocat de la requérante ainsi que les observations écrites de l’avocate de TRG Construction Corp.;
+LA COUR ORDONNE QUE :
+1. la demande soit rejetée étant donné que la Cour n’est pas convaincue que la décision rendue sur la question exposée dans la demande a un effet sur plus d’une cotisation, réelle, projetée ou vraisemblablement projetée, relative à plusieurs personnes désignées dans les documents déposés en preuve;
+2. le dossier numéro 2011-1994(GST)I fasse l’objet d’une audience conformément aux Règles de procédure de la Cour canadienne de l’impôt à l’égard de la Loi de 2001 sur l’accise (procédure informelle);
+3. aucuns dépens ne soient adjugés.
+Signé à Toronto (Ontario), ce 5e jour d’avril 2012.
+« R. S. Bocock »
+Juge Bocock
+Traduction certifiée conforme
+ce 8e jour d’octobre 2013.
+Mario Lagacé, jurilinguiste
+Référence : 2012 CCI 116
+Date : 20120405
+Dossier : 2011-1994(GST)I
+ENTRE :
+ZUBIN PHEROZE DARUWALA, AIMAI DARUWALA
+ET MAKI PHIROZE DARUWALA,
+appelants
+(intimés en l’espèce),
+et
+SA MAJESTÉ LA REINE,
+intimée
+(requérante).
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Bocock
+[1] L’intimée présente la demande en cause en application de l’article 311 de la Loi sur la taxe d’accise (la « Loi »), en se fondant sur une indication du ministre du Revenu national (le « ministre ») selon laquelle celui‑ci est d’avis qu’une série d’opérations ou d’évènements soulève une question qui se rapporte à des cotisations, réelles ou projetées, relatives à plusieurs contribuables, et aura un effet sur ces cotisations. En application de l’article 311 de la Loi, si la Cour est convaincue que la décision rendue sur la question aura un effet sur les cotisations, réelles ou projetées, elle peut alors réunir les appels et entreprendre de statuer sur la question qui lui a été soumise.
+[2] Les faits relatifs à la demande sont les suivants. Les appelants (intimés dans le contexte de la requête) ont présenté une demande de remboursement de la taxe sur les produits et services (la « TPS ») à l’égard d’un immeuble résidentiel situé à West Vancouver, en Colombie‑Britannique (la « résidence »). Ils soutenaient que la résidence était visée par la définition d’« immeuble résidentiel non neuf » et était par conséquent exonérée de TPS conformément à la partie I de l’annexe V de la Loi. La requérante affirme, sur le fondement des faits énoncés dans l’affidavit de Vince Ting, agent des litiges auprès de l’Agence du revenu du Canada (l’« ARC »), que les appelants ont acheté la résidence, laquelle n’avait [traduction] « jamais été habitée », du constructeur, TRG Construction Corp. (« TRG »). L’affidavit ne contient aucune allégation de fait contredisant le fait que la résidence n’avait « jamais été habitée ». Dans leurs actes de procédure, et cet argument devra être avancé, soumis et prouvé à l’audience, les appelants affirment que TRG a permis à une tierce partie dont l’identité n’a pas été dévoilée d’occuper la résidence entre le moment où la construction a été achevée et le moment où ils l’ont achetée. Si TRG a permis une telle occupation transitoire (l’« occupation transitoire »), il se pourrait que les appelants aient droit au remboursement de la TPS que le ministre leur refuse à l’heure actuelle. Le ministre demande à la Cour de trancher cette question de fait, soit la question de savoir s’il y a eu ou non occupation transitoire, et de voir à ce que tant les appelants que TRG soient liés par sa décision.
+Les dispositions légales applicables
+[3] L’article 311 de la Loi sur la taxe d’accise est ainsi libellé :
+311(1) Si le ministre est d’avis qu’une même opération, un même événement ou une même série d’opérations ou d’événements soulève une question qui se rapporte à des cotisations, réelles ou projetées, relatives à plusieurs personnes, il peut demander à la Cour canadienne de l’impôt de statuer sur la question.
+(2) La demande doit comporter les renseignements suivants :
+a) la question sur laquelle le ministre demande une décision;
+b) le nom des personnes qu’il souhaite voir liées par la décision;
+c) les faits et motifs sur lesquels il s’appuie et sur lesquels il fonde ou a l’intention de fonder la cotisation de chaque personne nommée dans la demande.
+Le ministre signifie un exemplaire de la demande à chacune des personnes qui y sont nommées et à toute autre personne qui, de l’avis de la Cour canadienne de l’impôt, sont susceptibles d’être visées par la décision.
+(3) Dans le cas où la Cour canadienne de l’impôt est convaincue que la décision rendue sur la question exposée dans une demande a un effet sur les cotisations, réelles ou projetées, concernant plusieurs personnes à qui une copie de la demande a été signifiée et qui sont nommées dans une ordonnance de la Cour rendue en application du présent paragraphe, elle peut :
+a) si aucune des personnes ainsi nommées n’en a appelé d’une de ces cotisations, entreprendre de statuer sur la question selon les modalités qu’elle juge indiquées;
+b) si une ou plusieurs des personnes ainsi nommées ont interjeté appel, rendre une ordonnance groupant dans cet ou ces appels les parties appelantes comme elle le juge à-propos et entreprendre de statuer sur la question.
+(4) Sous réserve du paragraphe (5), la décision rendue par la Cour canadienne de l’impôt sur une question soumise dans une demande dont elle a été saisie en vertu du présent article est définitive et sans appel aux fins de l’établissement de toute cotisation à l’égard des personnes qui y sont nommées.
+(5) Dans le cas où la Cour canadienne de l’impôt statue sur une question soumise dans une demande dont elle a été saisie en vertu du présent article, le ministre ou l’une des personnes à qui une copie de la demande a été signifiée et qui est nommée dans une ordonnance de la Cour peut interjeter appel de la décision conformément aux dispositions applicables de la présente partie, de la Loi sur la Cour canadienne de l’impôt ou de la Loi sur les Cours fédérales.
+(6) Les parties liées par une décision rendue en application du paragraphe (4) sont parties à un appel de cette décision.
+(7) La période comprise entre la date de signification d’une demande à une personne en application du paragraphe (2) et, s’agissant d’une personne nommée dans une ordonnance rendue par la Cour canadienne de l’impôt en application du paragraphe (3), la date où la décision devient définitive et sans appel ou, s’agissant d’une autre personne, la date où il lui est signifié un avis portant qu’elle n’a pas été nommée dans une telle ordonnance, est exclue du calcul des délais suivants en vue, selon le cas, d’établir une cotisation à l’égard de la personne, de signifier un avis d’opposition à cette cotisation ou d’en appeler de celle-ci :
+a) la période de quatre ans visée à l’article 298;
+b) le délai de signification d’un avis d’opposition à une cotisation selon l’article 301;
+c) le délai d’appel selon l’article 306.
+[4] La partie pertinente du paragraphe 18.32(2) de la Loi sur la Cour canadienne de l’impôt est ainsi libellée :
+18.32(2) Les articles 17.1, 17.2 et 17.4 à 17.8 s’appliquent, sous réserve de l’article 18.33 et avec les adaptations nécessaires, à toute demande présentée à la Cour en vertu de […] l’article 311 de la Loi sur la taxe d’accise […] et à la détermination de la question en cause.
+[5] En outre, l’alinéa 58(1)a) et le paragraphe 58(2) des Règles de la Cour canadienne de l’impôt (procédure générale) sont ainsi libellés :
+58(1) Une partie peut demander à la Cour,
+a) soit de se prononcer, avant l’audience, sur une question de droit, une question de fait ou une question de droit et de fait soulevée dans une instance si la décision pourrait régler l’instance en totalité ou en partie, abréger substantiellement l’audience ou résulter en une économie substantielle des frais;
+[…]
+et la Cour peut rendre jugement en conséquence.
+(2) Aucune preuve n’est admissible à l’égard d’une demande,
+a) présentée en vertu de l’alinéa (1)a), sauf avec l’autorisation de la Cour ou le consentement des parties;
+b) présentée en vertu de l’alinéa (1)b).
+[…]
+[6] Considérées ensemble, les dispositions des lois et règles reproduites ci‑dessus exigent que la Cour décide si elle statuera sur la question de fait proposée dont il est question en l’espèce.
+[7] La Cour a déjà étudié le problème que posait une question commune dans la décision Skinner (Succession) c. La Reine, [2009] DTC 1358; 2009 CCI 269. Dans cette décision, largement tranchée sur le fondement de faits très différents, la Cour s’est ainsi exprimée au sujet de sa propre règle, l’alinéa 58(1)a) :
+[35] Avant de chercher à répondre à une question soulevée en vertu de l’alinéa 58(1)a), la Cour doit décider s’il convient de le faire[1]. Dans la décision Carma Developers Ltd. v. Canada[2], que la Cour d’appel fédérale a citée en l’approuvant dans l’arrêt Jurchison c. Canada [3], le juge en chef adjoint Christie a fait la mise en garde suivante :
+[…] l’alinéa 58(1)a) des Règles n’est pas destiné à servir de solution de rechange à laquelle il est facilement possible de recourir à la place d’un procès aux fins de régler des points litigieux complexes se rapportant aux droits et obligations des parties au litige. Cette disposition doit être invoquée lorsqu’il est clair qu’il serait essentiellement superflu de faire régler le litige en totalité ou en partie par voie de procès[4].
+[8] Quand elle s’est penchée sur la mise en garde formulée dans la décision Skinner (Succession), la Cour a, dans la décision Brenneur c. La Reine, 2010 CCI 610 (dans laquelle il était également question d’importants droits constitutionnels et en common law concernant les droits linguistiques et l’équité), analysé la disposition correspondante de la Loi de l’impôt sur le revenu, à savoir le paragraphe 174(1), qui est ainsi libellé :
+174(1) Lorsque le ministre est d’avis qu’une même opération ou un même événement ou qu’une même série d’opérations ou d’événements a donné naissance à une question de droit, de fait ou de droit et de fait qui se rapporte à des cotisations, réelles ou projetées, relatives à plusieurs contribuables, il peut demander à la Cour canadienne de l’impôt de se prononcer sur la question.
+[9] Lorsqu’il a examiné la question de savoir si le ministre avait invoqué suffisamment de faits ou de motifs « ayant un effet » sur plusieurs contribuables, le juge Boyle, aux paragraphes 34 et 35 de la décision Brenneur, s’est ainsi exprimé :
+[34] Il y a toutefois une autre question à trancher en l’espèce, et il s’agit de celle de savoir si l’ARC projette d’établir de nouvelles cotisations à l’égard de M. Batalha. La Cour ne peut rendre une ordonnance de renvoi en application de l’article 174 que dans le cas de contribuables qui ont fait l’objet de cotisations à l’égard d’une question commune née des mêmes circonstances ou bien dans le cas de contribuables à l’égard desquels on projette d’établir de nouvelles cotisations. À l’heure actuelle, l’ARC n’a pas établi de nouvelles cotisations à l’égard de M. Batalha et ne lui a même pas laissé entendre, par écrit, qu’il pourrait faire l’objet de nouvelles cotisations ou qu’elle projetait d’établir de nouvelles cotisations à son égard. En fait, après enquête, l’ARC a convenu de la version des faits de M. Batalha et n’a établi de nouvelles cotisations qu’à l’égard de M. Brenneur. L’avocat de l’intimée est même allé jusqu’à dire que l’ARC acceptait à 100 % la version des faits de M. Batalha et n’établirait éventuellement de nouvelles cotisations à son égard que si la Cour donnait raison à M. Brenneur lors de l’appel de celui‑ci. L’intimée soutient que la possibilité d’établir une nouvelle cotisation constitue une nouvelle cotisation projetée. Aucune source n’est citée à l’appui de cet argument. La question se pose alors de savoir si cette intention éventuelle d’établir de nouvelles cotisations à l’égard de M. Batalha constitue une cotisation projetée, « a proposed assessment », pour ce qui est de satisfaire aux exigences prévues à l’article 174. […]
+[35] Je ne suis pas convaincu qu’une telle intention éventuelle d’envisager d’établir une nouvelle cotisation à l’égard du contribuable constitue une cotisation projetée pour l’application de l’article 174. Il arrive souvent qu’un contribuable et un autre témoin aient des intérêts fiscaux opposés lors de leurs témoignages contradictoires. Il ne semble pas approprié que, chaque fois qu’une situation semblable se présente, l’ARC ait le droit de demander à la Cour d’envisager de joindre le témoin comme partie à l’instance fiscale. Il incombe à l’ARC de faire enquête et de décider quelle version des faits est, selon elle, vraisemblablement correcte. Bien qu’il puisse s’avérer approprié, dans un cas dont l’issue est serrée ou dans lequel il y a beaucoup de zones grises, que l’ARC demande à la Cour d’examiner la possibilité d’ordonner un renvoi, cela me semble assez inopportun dans un cas où l’ARC, après enquête, a tiré une conclusion claire dans un seul sens. Encore une fois, bien qu’un renvoi fait dans des circonstances comme celles en l’espèce permette d’éviter que la Cour rende des décisions incompatibles dans deux instances séparées, cela pourrait coûter très cher et être injustifiable si tous les témoins dont les intérêts fiscaux sont contraires à ceux de l’appelant étaient visés par une demande de renvoi faite en application de l’article 174 afin d’être joints comme parties à l’appel dans lequel ils témoignent déjà ou dans lequel ils sont déjà appelés à témoigner. Comme je conclus que M. Batalha n’était pas visé par une nouvelle cotisation projetée par l’ARC pour l’application de l’article 174, la Cour n’a pas compétence pour faire droit à la demande de l’intimée visant à obtenir un renvoi de questions communes. La demande est donc rejetée, avec dépens.
+[10] En l’espèce, les faits incontestés contenus dans l’affidavit de l’intimée elle‑même constituent le seul fondement factuel sur lequel la Cour pourrait se fonder pour établir s’il a été satisfait aux exigences minimales définies dans la décision Brenneur et, par conséquent, si la question de fait devrait être tranchée avant la tenue de l’audience normale de l’unique appel. Les appelants n’ont produit aucun affidavit en preuve et ne prennent pas position. Il est compréhensible que la tierce partie, TRG, n’ait déposé en preuve aucun affidavit, mais elle a présenté des observations écrites par l’intermédiaire de son avocate.
+[11] À partir de la décision Brenneur et eu égard aux faits de l’espèce, les questions suivantes peuvent être posées :
+1. La requérante a-t-elle fourni à la Cour des éléments de preuve selon lesquels l’autorité taxatrice a communiqué de façon indépendante avec le contribuable à l’égard duquel celle‑ci se proposait d’établir une cotisation, ou toute autre indication raisonnable du fait qu’il serait possible qu’elle établisse une nouvelle cotisation à l’égard de ce contribuable?;
+2. Quelle est la preuve qui a été produite au sujet d’une enquête, d’un examen ou d’un survol, réel ou projeté, relatif aux affaires, aux antécédents ou aux dossiers du contribuable à l’égard duquel on se propose d’établir une cotisation dans le contexte d’une nouvelle cotisation projetée ou de l’établissement de celle‑ci?;
+3. Quelles observations ont été formulées au sujet des gains en matière d’efficience qu’il serait possible de réaliser en réunissant des cotisations projetées et réelles en une seule question sur laquelle la Cour se prononcerait avant l’audition de l’unique appel par ailleurs en suspens?
+[12] Dans les faits, en ce qui concerne le contribuable à l’égard duquel elle projetait d’établir une cotisation, à savoir TRG, la requérante :
+1. n’a présenté ni observations ni éléments de preuve relatifs à une quelconque forme de communication directe à TRG au sujet de la possibilité d’établir une nouvelle cotisation ou de tout motif ou fondement permettant d’établir une telle nouvelle cotisation;
+2. n’a dévoilé ni résultats, ni faits, ni conclusions découlant d’un examen des dossiers de TRG visant, pour le ministre, à établir la probabilité d’une nouvelle cotisation projetée;
+3. n’a fait part d’aucuns gains d’efficacité raisonnables, réels ou théoriques qu’il serait possible de retirer du fait de statuer sur une question avant la tenue de l’audience au lieu de simplement procéder à l’audition de l’unique appel par ailleurs en suspens.
+[13] Pour finir, il convient de noter que les appelants ont interjeté le présent appel en vertu des Règles de procédure de la Cour canadienne de l’impôt à l’égard de la Loi de 2001 sur l’accise (procédure informelle). Le présent appel semble être entièrement fondé sur les faits. Il semble raisonnable d’affirmer que le fait de simplement procéder à l’audition du présent appel en se fondant sur des règles aussi simplifiées simplifierait tout autant le processus, sans pour cela faire intervenir une tierce partie dans un processus tout aussi compliqué, voir plus compliqué d’un point de vue procédural, en vue de statuer sur une question de fait, par opposition à une question de droit, en application de l’article 311 de la Loi. Vu que les observations de la requérante ne donnent à peu près pas de preuve d’un quelconque projet du ministre d’établir une nouvelle cotisation à l’égard de TRG, et tout bien considéré, la Cour conclut que l’issue de l’appel faisant intervenir une seule partie appelante confirmera de manière plus exhaustive, plus rapide et plus décisive la décision finale de l’ARC relative à toute nouvelle cotisation projetée à l’égard de TRG.
+[14] Par conséquent, la Cour rejette la demande et n’examinera pas la question, et le dossier numéro 2011-1994(GST)I, par ailleurs en attente d’audience, devrait faire l’objet d’une audience conformément aux Règles de procédure de la Cour canadienne de l’impôt à l’égard de la Loi de 2001 sur l’accise (procédure informelle). Des dépens auraient pu être adjugés à la tierce partie, TRG, s’il y avait eu ou s’il avait fallu qu’il y ait comparution en personne ou présentation d’observations par voie de conférence téléphonique. Vu que les observations écrites sous forme de lettre ont été suffisantes, aucuns dépens ne seront adjugés.
+Signé à Toronto (Ontario), ce 5e jour d’avril 2012.
+« R. S. Bocock »
+Juge Bocock
+Traduction certifiée conforme
+ce 8e jour d’octobre 2013.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2012 CCI 116
+NO DU DOSSIER DE LA COUR : 2011-1994(GST)I
+INTITULÉ : Zubin Pheroze Daruwala, Aimai Daruwala et Maki Phiroze Daruwala c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Par voie d’observations écrites,
+à Ottawa (Ontario)
+MOTIFS DE L’ORDONNANCE : L’honorable juge Randall S. Bocock
+DATE DE L’ORDONNANCE : Le 5 avril 2012
+COMPARUTIONS :
+Avocat de l’intimée (requérante) :
+Me Kristian DeJong
+Avocat des appelants (intimés) :
+Me Dennis Yee
+Avocate
+de TRG Construction Corp. :
+Me Andrea Donohoe
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants (intimés) :
+Nom : Dennis Yee
+Cabinet : Davis, LLP
+Vancouver (Colombie‑Britannique)
+Pour l’intimée : Myles J. Kirvan
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Webster c. Canada, 2002 CAF 205 (CanLII), 2002 CAF 205 (C.A.F.); Perera c. Canada, 1998 CanLII 9051 (CAF), [1998] 3 C.F. 381, paragraphes 13 à 15 (C.A.F.).
+[2] [1995] 96 D.T.C. 1803 (C.C.I.).
+[3] 2001 A.C.F. no 654, paragraphe 8.
+[4] Carma Development, précité, paragraphe 11.

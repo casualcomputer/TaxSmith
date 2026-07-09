@@ -1,0 +1,109 @@
+Title: Telus Communications (Edmonton) Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25914/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-476-25914-telus-communications-edmonton-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2004-06-30
+
+# Telus Communications (Edmonton) Inc. c. La Reine
+
+- Citation: 2004 CCI 476
+- Decision date: 2004-06-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3712, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Telus Communications (Edmonton) Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-06-30
+Référence neutre
+2004 CCI 476
+Numéro de dossier
+2003-1066(GST)G
+Juges et Officiers taxateurs
+Terrence O'Connor
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2003-1066(GST)G
+ENTRE :
+TELUS COMMUNICATIONS (EDMONTON) INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue par M. le juge T. O’Connor, à Edmonton (Alberta), le 17 juin 2004.
+Comparutions :
+Avocat de l’appelante :
+Me Michel Bourque
+Avocate de l’intimée :
+Me Margaret Irving
+____________________________________________________________________
+ORDONNANCE
+L’intimée ayant présenté une requête en vue d’obtenir une ordonnance radiant le paragraphe 32.1, l’alinéa 33e), le paragraphe 38.1 et l’alinéa 39e) de l’avis d’appel de l’appelante modifié à deux reprises conformément à l’article 53 des Règles de la Cour canadienne de l’impôt (procédure générale);
+Les affidavits de Susan Green ayant été lus;
+Les avocats des parties ayant été entendus et leurs observations écrites ayant été lues;
+Les documents qui ont été produits ayant été lus;
+La requête de l’intimée est rejetée et les dépens sont adjugés à l’appelante, une somme forfaitaire de 1 000 $ lui étant accordée.
+Signé à Ottawa, Canada, ce 30e jour de juin 2004.
+« T. O'Connor »
+Juge O’Connor
+Traduction certifiée conforme
+Jacques DeschLnes, LL.B.
+Référence : 2004CCI476
+Date : 20040630
+Dossier : 2003-1066(GST)G
+ENTRE :
+TELUS COMMUNICATIONS (EDMONTON) INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge O'Connor, C.C.I.
+[1] L’intimée dans la réponse à l’avis d’appel modifié à deux reprises a lié contestation sur la question des pénalités, qui fait l’objet des paragraphes que l’appelante cherche à faire radier.
+[2] À mon avis, lesdits paragraphes ne constituent pas un recours abusif à la Cour. Par conséquent, la requête est rejetée. Je suis également d’avis que les questions soulevées dans la requête doivent être tranchées plus tard par le juge chargé de l’instruction.
+[3] Les dépens, soit une somme globale de 1 000 $, sont adjugés à l’appelante.
+Signé à Ottawa, Canada, ce 30e jour de juin 2004.
+« T. O'Connor »
+Juge O’Connor
+Traduction certifiée conforme
+Jacques DeschLnes, LL.B.
+RÉFÉRENCE :
+2004CCI476
+No DU DOSSIER DE LA COUR :
+2003-1066(GST)G
+INTITULÉ :
+Telus Communications (Edmonton) Inc. c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Edmonton (Alberta)
+DATE DE L’AUDIENCE :
+Le 17 juin 2004
+MOTIFS DU JUGEMENT :
+M. le juge T. O'Connor
+DATE DU JUGEMENT :
+Le 30 juin 2004
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Michel Bourque
+Avocate de l’intimée :
+Me Margaret Irving
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Michel Bourque
+Cabinet :
+Bennett Jones
+Calgary (Alberta)
+Pour l’intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

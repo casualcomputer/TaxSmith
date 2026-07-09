@@ -1,0 +1,140 @@
+Title: Triplett v. The King
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521227/index.do
+Corpus path: corpus/cases/tcc/2024/2024-tcc-23-521227-triplett-v-the-king-en.md
+Document type: case_law
+Last modified: 2024-02-22
+
+# Triplett v. The King
+
+- Citation: 2024 TCC 23
+- Decision date: 2024-02-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5737, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Triplett v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2024-02-22
+Neutral citation
+2024 TCC 23
+File numbers
+2019-4360(IT)I
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2019-4360(IT)I
+BETWEEN:
+JOHN H. TRIPLETT,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on June 12, 2023, at Vancouver, British Columbia
+Before: The Honourable Justice Gaston Jorré, Deputy Judge
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Jonathan Cooper
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal from the assessments made under the Income Tax Act for the 2011, 2012, 2013, 2014 and 2015 taxation years is dismissed, without costs.
+Signed at Ottawa, Canada, this 22nd day of February 2024.
+“G. Jorré”
+Jorré J.
+Citation: 2024 TCC 23
+Date: 20240222
+Docket: 2019-4360(IT)I
+BETWEEN:
+JOHN H. TRIPLETT,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Jorré J.
+[1] The circumstances surrounding this appeal are extremely unfortunate. At the end of these reasons, I will make some comments about these circumstances and I would urge the parties to carefully consider them.
+[2] I would also suggest policy makers seriously consider the possibility of amendments regarding when elections must be made under section 217 of the Income Tax Act.
+[3] The Appellant appeals from non-resident withholding tax assessments dated 26 February 2018 with respect to the 2011, 2012, 2013, 2014 and 2015 taxation years.
+[4] The Appellant is a retired teacher who resided in Canada until 11 October 2011. He moved to the United States and became a non-resident of Canada.
+[5] In May and June 2016, respectively, the Minister of National revenue wrote to the Appellant regarding unfiled T1 returns for the years 2011 to 2014 inclusive.
+[6] The Minister first became aware of the Appellant’s change in residency in June 2016.
+[7] In July 2016 the Appellant filed T1 tax returns for all the years in issue and he filed them in the same way as if he had still been a resident. His income consisted of superannuation benefits and in the 2015 taxation year only some RRSP income.
+[8] In March 2017 the Minister assessed the five taxation years as filed. Those assessments resulted in no tax owing. Presumably, this was because the tax withheld by the payors of the pension and of the RRSP payments together with personal credits resulted in no tax payable.
+[9] In February 2018, the Minister issued failure to remit assessments for Part XIII non-resident withholding tax with respect to the five years in issue.
+[10] The amounts assessed are in the right-hand column of the table at paragraph 18 of the affidavit of Elaine Armstrong-Kyne.
+[11] As can be seen from the table, those amounts have been computed in each year by determining the applicable non-resident withholding tax[1] on the payments in the year and deducting therefrom the amounts that were withheld at source. I will refer to those amounts withheld as the additional withholding amounts.
+[12] The Appellant duly objected to these assessments and the Minister subsequently confirmed them except in the case of the 2011 tax year.
+[13] In the 2011 tax year, the Minister accepted that the taxpayer had resided in Canada until October and recomputed the withholding tax amounts accordingly. This was to the taxpayer’s benefit insofar as the 2011 non-resident withholding tax had originally been computed for the entire year.
+[14] Nothing in the evidence has convinced me that there was any error by the Minister in the computation of the tax.
+[15] The purpose of section 217 of the Income Tax Act is to put certain non-resident individuals in a position where they are generally no worse off than if they were still residents.
+[16] Given the Appellant’s income sources, had he made a timely election to benefit from the alternative provided for in section 217 of the Income Tax Act, he would have avoided having to pay the additional withholding amounts levied. This result stems from the fact that, generally, this alternative allows a taxpayer to keep the usual deductions.
+[17] Section 217 is optional because for some non-resident taxpayers, given their circumstances, it would be disadvantages for them to choose the alternative.
+[18] Unfortunately, section 217 required that the Appellant file a Part I tax return within six months of the end of the year and elect in that return to have section 217 apply for the tax year.[2]
+[19] That means that the Appellant would have had to file his return and make an election in respect of the last of the years in issue, 2015, on or before 30 June 2016.
+[20] Given that the returns for all of the years in issue were filed on 20 July 2016, it was by then already too late to make an election under section 217.
+[21] The result is that the assessments for the years are correct in fact and law and there is no basis for overturning the assessments.
+[22] I now turn to evidence that the Appellant gave in relation to the many difficulties that he had in obtaining information on how to proceed together with arguments he raised based on the Taxpayer Bill of Rights.
+[23] I accept the Appellant’s evidence that he had great difficulties in obtaining information, that there were delays and that the information was not always helpful.
+[24] However, notwithstanding its name, the Taxpayer Bill of Rights is not a law and does not give rise to legal rights. It is more in the nature of an aspirational document and it would probably be better if the document were given a different name.
+[25] This court is one of limited jurisdiction and the essence of its jurisdiction is to determine whether assessments are correct based on the facts relevant to the applicable law; it can confirm or modify assessments but its decision cannot take account of other factors.
+[26] The consequence is that all the Appellant’s difficulties are not relevant to the decision I must make.
+[27] The Appellant also testified as to the serious hardship that the assessments in question have caused for him and for his spouse.
+[28] While the Appellant appears to be in an extremely difficult situation given the amount owing in relation to his income, it is not something that I can consider for the purposes of the determination that I must make.
+[29] However, with respect to hardship, there are provisions which allow the Minister to waive interest and penalties in certain circumstances—see subsection 220(3.1) of the Income Tax Act. I am pleased to note that the Minister proactively waived interest for a certain period because of delays that took place earlier.
+[30] The Appellant can certainly make a request to the CRA for further relief under that provision. This court has no jurisdiction with respect to such matters.[3]
+[31] There is, however, a 10-year restriction; requests must be made within 10 calendar years after the taxation year. The Appellant can obtain more information regarding how the Minister approaches such requests by obtaining from the CRA Information Circular 07-1R 1—Taxpayer Relief Provisions; there is also a related form RC 4288—Request for taxpayer relief.
+[32] Before concluding, I wish to observe that, given the objectives of section 217, it is surprising that there is no possibility of electing section 217 any later than June 30 of the following calendar year.
+[33] The Appellant fits very well into the profile of the kind of taxpayer whom section 217 was intended to benefit.
+[34] In this case losing the ability to make such an election had a dramatic negative effect on the Appellant.
+[35] The withholdings already made by the payors of the Appellant’s pension payments and RRSP payment were sufficient to cover all the Appellant’s income tax had he been able to take advantage of section 217. At no time would the public purse have been out of pocket.
+[36] Given that, I find it hard to imagine what harm there might be if there were some way to extend the time to elect section 217 in circumstances such as those of this Appellant.[4]
+[37] The relatively short limit is also surprising given that, generally, an individual who fails to claim something could do so by filing an objection. Such an individual always has until at least one year after the filing due date.[5]
+[38] It is also surprising, given that for many things a taxpayer has the possibility of persuading the Minister to exercise the Minister’s discretion to reassess, with the consent of the taxpayer, for a ten-year period.[6]
+[39] Policymakers and Parliament may wish to consider whether there should be amendments to give a longer period for making an election under section 217 or whether the Minister should have the ability to extend the time.[7]
+[40] For these reasons, the appeal is dismissed without costs.
+Signed at Ottawa, Canada, this 22nd day of February 2024.
+“G. Jorré”
+Jorré J.
+CITATION:
+2024 TCC 23
+COURT FILE NO.:
+2019-4360(IT)I
+STYLE OF CAUSE:
+JOHN H. TRIPLETT AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+June 12, 2023
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Gaston Jorré, Deputy Judge
+DATE OF JUDGMENT:
+February 22, 2024
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Jonathan Cooper
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] Under the Canada US tax treaty, the withholding rate on the pension payments is reduced to 15%; whereas the lump-sum RRSP payment did not benefit from the reduced rate.
+[2] Among the conditions to benefit from section 217, subsection (2) thereof states:
+No tax is payable under this Part in respect of a non-resident person's Canadian benefits for a taxation year if the person
+(a) files with the Minister, within 6 months after the end of the year, a return of income under Part I for the year; and
+(b) elects in the return to have this section apply for the year.
+[3] I would also note that there is the possibility of seeking a remission order in certain circumstances under section 23 of the Financial Administration Act.
+[4] I note that, while subsection 220(3) allows the Minister to extend the time for making returns, the Minister’s power to extend the time for making an election under Regulation 600 and subsection 220(3.2) do not apply to subsection 217(2).
+[5] Sub-paragraph 165(1)(a)(i) of the Income Tax Act.
+[6] Ending on the day that is ten years after the end of the particular calendar year in issue under subsection 152(4.2) of the Income Tax Act.
+[7] Especially where individuals became non-residents in the last three or four years.

@@ -1,0 +1,121 @@
+Title: Chicheluk v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25795/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-395-25795-chicheluk-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-06-17
+
+# Chicheluk v. The Queen
+
+- Citation: 2005 TCC 395
+- Decision date: 2005-06-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3805, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chicheluk v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-06-17
+Neutral citation
+2005 TCC 395
+File numbers
+2004-3527(IT)I
+Judges and Taxing Officers
+Alexander A. Sarchuk
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-3527(IT)I
+BETWEEN:
+DIANE CHICHELUK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on May 31, June 1 and 2, 2005, at Winnipeg, Manitoba
+By: The Honourable Justice A.A. Sarchuk
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Kirsty Elgert
+____________________________________________________________________
+JUDGMENT
+The appeals from redeterminations made under the Income Tax Act for the 2000, 2001 and 2002 base taxation years are allowed, and the redeterminations are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that, at all relevant times, the Appellant and Lincoln Oree did not live together in a conjugal relationship; they did not cohabit together; Lincoln Oree was not the Appellant's qualified relation or cohabiting spouse as defined in sections 122.5 and 122.6 of the Act, respectively.
+The appeals from reassessments of tax made under the Act for the 2000, 2001 and 2002 taxation years are allowed and the reassessments are referred back to the Minister for reconsideration and reassessment on the basis that the Appellant is entitled to claim a wholly dependent person amount in respect of one of her children in each year.
+Signed at Ottawa, Canada, this 17th day of June, 2005.
+"A.A. Sarchuk"
+Sarchuk J.
+Citation: 2005TCC395
+Date: 20050617
+Docket: 2004-3527(IT)I
+BETWEEN:
+DIANE CHICHELUK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sarchuk J.
+[1] These are appeals by Diane Chicheluk from reassessments and redeterminations with respect to her 2000, 2001 and 2002 taxation years and base taxation years by virtue of which the Minister of National Revenue informed the Appellant that:
+(a) with respect to the 2000, 2001 and 2002 base taxation years, more specifically for the period of July 1, 2001 to October 30, 2003, her entitlement had been reviewed based on a change in her marital status from single to living common law and as a result, the Appellant was overpaid Canada Child Tax Benefits (CCTB) in the amount of $4,634.67;
+(b) by notices dated October 17, 2003, the Minister informed the Appellant that with respect to the 2000, 2001 and 2002 base taxation years, her entitlement had been reviewed on the same bases and as a result, the Appellant was overpaid Goods and Services Tax Credit Benefits (GSTC) in the amount of $1,161.21; and
+(c) by way of notices of reassessment dated November 18, 2003, the Minister also disallowed the Appellant's claim for the wholly dependent person amount in each of those three taxation years on the assumption that she lived in a common law partnership and therefore was not entitled to claim the wholly dependent person amount.
+Evidence
+[2] The following facts are not in dispute:
+(a) the Appellant is an 'eligible individual' pursuant to section 122.5 of the Income Tax Act;
+(b) the Appellant has two children, Charlene born November 1984, and Ashley born January 1987; and
+(c) the children are 'qualified dependents' of the Appellant for CCTB and GSTC.
+[3] The Appellant had previously been married to Larry Chicheluk. In 1997, the marriage broke down, the usual Court proceedings were commenced, and ultimately in 1999 the Appellant was granted custody and maintenance. She testified that in 1997, she purchased her own residence at 72 High Point Drive in Winnipeg, furnished it herself and maintained it throughout the years in issue with no assistance from anyone. At some point of time, she commenced a relationship with Lincoln Oree and at various times during the periods in issue he lived at her home.
+[4] The evidence discloses that the marriage break-up was, to put it mildly, nasty. The Appellant's former husband resorted to harassment, late-night telephone calls, communicating with her parents and her employer, damaging her car, etc. He also called Lincoln at work on a number of occasions to tell him that he was not wanted around the children. Chicheluk said the locks on her door were changed four times as a result of her ex-husband's intrusions and that the police intervened on several occasions. The harassment continued throughout the years in issue and appears to have been directed at two objectives: (i) to alienate the children from their mother; and (ii) to interfere with her attempts to establish a relationship with Lincoln. By way of example, he told the children "to oppose basically anything Lincoln said", and secretly asked them to ensure that Lincoln was sleeping on the couch and not sharing a bedroom with the Appellant. This conduct continued notwithstanding the existence of a restraining Order she had obtained. During this period, her former husband also commenced a number of Court proceedings with respect to child support payments, which she said were extremely stressful since she could not afford to retain counsel. She summarized these attempts by her husband as wasting "months of my life preparing for hearings that amounted to nothing but aggravation for me".
+[5] The Appellant does not dispute that at some point of time prior to 2000, she and Lincoln began to live together and that she wanted to have a "cohabiting relationship with him". However she noted that:
+"For various reasons I was unable to manage having a relationship with him. I was working fulltime, raising two children, maintaining a home, car and normal life situations. I was added with tremendous stress imposed by my ex-spouse. I could not deal with all situations in retrospect and my relationship with Lincoln suffered and had broken down numerous times."
+This, she said, was demonstrated by the number of times Lincoln moved out of her home. As a result during the three years in issue, the Appellant and Lincoln lived separate and apart on a number of occasions. More specifically she testified that in 2000, they were separated three times, once from the end of March to the middle of April, then from May to the end of July for a period of approximately 90 days and from the middle of October until December, again for "close to" 90 days. Her recollection was that the ex-husband's interference began slowly and escalated throughout that year and in 2001. At some point of time in that year, the consistent harassment appears to have taken its toll, the Appellant sought the assistance of a counsellor, and after several sessions, asked Lincoln to leave in order to permit her to "try and resolve the issue with my children". As a result, in 2001, she and Lincoln lived separate and apart from the beginning of October 2001 to mid-April 2002.
+[6] It is relevant to note that throughout this period, the Appellant supported herself as well as her two children by the wages she earned as a receptionist, the child support payments, some federal/provincial programs, and by utilizing some of the funds derived from the division of the former marital property. As previously noted, she owned her residence and her vehicle and paid for all of her expenses including the mortgage, utilities, food, clothing and all of the necessities for daily life. She maintained the home by herself, attending to all of the cleaning, cooking, shopping and laundry. She further noted that although she and Lincoln lived together for some periods of time during these three years, it was made very clear that "Lincoln did not contribute to daily decisions, childcare, did not support the children or myself. ... He did, however, contribute to car maintenance, lawn care, shovelling and house maintenance when he was living with us".
+Respondent's position
+[7] Counsel argued that the Appellant and Lincoln Oree cohabited in a conjugal relationship since 1999 within the meaning of that term as defined in the provisions of the Act. Furthermore, the Appellant in her testimony, provided no evidence whatsoever to rebut the Minister's assumption of that fact. Counsel noted that absent any acceptable evidence to rebut the presumption, the appeals must be dismissed.
+Conclusion
+[8] The circumstances described by the Appellant establish that notwithstanding Court orders and police warnings, her ex-husband's behaviour and her children's apparent antipathy to Lincoln made the establishment of a normal relationship with him virtually impossible. In my view, the Appellant has presented sufficient evidence to establish that there was no permanence in their relationship during the periods in issue. Furthermore, it appears to be an oversimplification to argue that a spousal relationship existed because the testimony regarding the periods of time of separation did not meet the "90 consecutive days" requirement. In the present circumstances, it would be inappropriate to ignore the cumulative effect of the constant separations, three or four of which were described by the Appellant as being in the range of three months and, in my view, support the Appellant's submission that during that period of time, it was not possible to "manage a relationship as well". On balance therefore, I have concluded, that the appeals should be allowed. Accordingly,
+(a) Lincoln is not to be considered a cohabiting spouse and his net income should not be included in the calculation of the Family Net Income for CCTB for the 2000, 2001 and 2002 base taxation years within the meaning of section 122.6 of the Act;
+(b) Lincoln should not be considered a qualified relation and his net income should be included in the calculation of the Family Net Income for GSTC for the 2000, 2001 and 2002 base taxation years within the meaning of section 122.5 of the Act;
+(c) the Appellant was not overpaid CCTC totalling $4,634.67, and GSTC totalling $1,161.21, both in respect of the 2000, 2001 and 2002 base taxation years; and
+(d) the Appellant is entitled to claim the wholly dependent person amount in respect of one of her children in the 2000, 2001 and 2002 taxation years.
+Signed at Ottawa, Canada, this 17th day of June, 2005.
+"A.A. Sarchuk"
+Sarchuk J.
+CITATION:
+2005TCC395
+COURT FILE NO.:
+2004-3527(IT)I
+STYLE OF CAUSE:
+Diane Chicheluk and
+Her Majesty the Queen
+PLACE OF HEARING:
+Winnipeg, Manitoba
+DATES OF HEARING:
+May 31, June 1 and 2, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice A.A. Sarchuk
+DATE OF JUDGMENT:
+June 17, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Kirsty Elgert
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

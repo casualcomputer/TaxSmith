@@ -1,0 +1,234 @@
+---
+title: "Pellerin c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/109843/index.do"
+last_modified: "2015-05-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 CCI 130"
+citation2: ""
+neutral_citation: "2015 CCI 130"
+decision_date: "2015-05-22"
+language: "fr"
+item_id: "109843"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2827
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:32:45.239000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9c2779bca0bb3295338a4478008d8f936ea110278e005dd023febe4956c35916"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Pellerin c. La Reine
+
+- Citation: 2015 CCI 130
+- Decision date: 2015-05-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2827, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pellerin c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-05-22
+Référence neutre
+2015 CCI 130
+Numéro de dossier
+2013-2920(IT)I
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-2920(IT)I
+ENTRE :
+MIKA PELLERIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 6 février 2015, à Granby (Québec).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Avocat de l’appelant :
+Me José Luis Baz
+Avocate de l’intimée :
+Me Marielle Thériault
+JUGEMENT
+L’appel interjeté à l’encontre des nouvelles cotisations établies au titre de la Loi de l’impôt sur le revenu relativement aux années d’imposition 2008, 2009 et 2010 de l’appelant est accueilli, avec dépens, et l’affaire est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations conformément aux motifs du jugement ci‑joints.
+Signé à Montréal, Québec, ce 22e jour de mai 2015.
+« Patrick Boyle »
+Juge Boyle
+Référence : 2015 CCI 130
+Date : 20150522
+Dossier : 2013-2920(IT)I
+ENTRE :
+MIKA PELLERIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Boyle
+[1] Le présent appel, interjeté sous le régime de la procédure informelle, porte sur l’année d’imposition 2008 de Mika Pellerin. Celui‑ci a eu un an en 2008. En l’espèce, la Cour est appelée à se prononcer sur la question de savoir si les actions vendues par l’appelant avant son deuxième anniversaire peuvent faire l’objet de l’exonération de gains en capital pour les actions admissibles de petite entreprise (« actions admissibles ») prévue à l’article 110.6 de la Loi de l’impôt sur le revenu (la « Loi » ). Des appels corrélatifs concernant des crédits d’impôt minimum pour 2009 et 2010 ont été entendus en même temps. Ils sont purement accessoires et ne soulèvent aucune question pertinente quant à l’issue du présent appel. Les parties ont déposé un exposé conjoint des faits dont une copie est en annexe. Les plaidoiries des avocats à l’audience ont été complétées par des observations écrites ultérieures.
+[2] La fiducie a été établie par l’acte de la Fiducie Famille Mathio Pellerin en janvier 2005 (la « fiducie ») et a pour bénéficiaires notamment Mathio Pellerin, ses enfants et ses petits‑enfants, à compter de leur naissance ou de leur adoption, ainsi que toute personne morale dont Mathio Pellerin détient le contrôle. Il s’agit d’une fiducie personnelle au sens de la définition de cette expression pour l’application de la Loi. L’appelant, Mika Pellerin, né le 8 mars 2007, est le fils de Mathio Pellerin. Il est admis que l’appelant, Mika Pellerin, a été conçu environ neuf mois avant sa naissance, soit vers juin 2006.
+[3] Certaines actions dont la fiducie avait été propriétaire pendant au moins 24 mois ont été transférées de la fiducie à Mika en tant que distribution le 1er octobre 2008. Elles ont été vendues le lendemain par Mika et ont donné lieu à une partie du gain en capital en question. De même, le 27 novembre 2008, la fiducie a transféré à Mika en tant que distribution des actions d’une autre société qu’elle avait détenues pendant au moins 24 mois. Mika a vendu ces actions plus tard dans la même journée et elles ont donné lieu au solde du gain en capital dont il est question. Mika a déclaré ces gains en capital, a demandé l’exonération du gain en capital accordé relativement aux actions admissibles en vertu de l’article 110.6 de la Loi et a payé l’impôt minimum de remplacement concernant son revenu assujetti à cet impôt cette année‑là.
+[4] En l’espèce, l’unique question qui se pose est de savoir si l’exigence voulant que des actions soient détenues pendant une période de 24 mois par le contribuable ou une personne qui lui est liée avant leur disposition a été respectée pendant les nombreux mois ayant précédé la naissance de Mika. L’intimée reconnaît que les actions en question sont par ailleurs admissibles et n’a pas mis en cause le montant ni quoi que ce soit d’autre. La question est soulevée simplement parce que Mika n’avait pas encore deux ans au moment où il a vendu les actions. Tout au long de la période de 24 mois ayant précédé leur distribution à Mika, les actions étaient détenues par la fiducie.
+[5] Les questions devant être tranchées du fait que Mika n’avait pas encore 24 mois au moment où il a vendu ses actions font en sorte qu’il faut examiner la période au cours de laquelle Mika était conçu, mais non encore né. Les questions qui se posent sont les suivantes :
+1) À partir du moment où il est né viable, Mika était‑il bénéficiaire de la fiducie pour l’application des dispositions pertinentes de la Loi en vertu de la loi québécoise applicable à la fiducie?
+2) Quelle est la portée de l’article 5.1 de l’acte de fiducie qui prévoit que les enfants sont bénéficiaires à compter de leur naissance si la disposition est en conflit avec la loi québécoise applicable?
+3) La mention à l’alinéa 110.6(1)b) de la Loi de l’expression « tout au long de la période de 24 mois qui précède » s’applique‑t‑elle à la fois à la propriété des actions et au statut de personnes liées du particulier (Mika) et d’un autre propriétaire des actions (la fiducie)? Plus précisément, est-il satisfait au critère énoncé à l’alinéa 110.6(1)b) de la Loi si, tout au long de la période de 24 mois ayant précédé la vente des actions par Mika, le seul autre propriétaire des actions était la fiducie qui lui était liée au moment donné où il a vendu les actions (et depuis qu’il est devenu une personne à sa naissance)?
+Voici les dispositions pertinentes de la définition de l’expression « actions admissibles » :
+110.6 (1) [Exonération des gains en capital—définitions] – Les définitions qui suivent s’appliquent au présent article. […]
+110.6 (1) [Capital gains exemption—] Definitions -- For the purposes of this section, …
+« action admissible de petite entreprise » S’agissant d’une action admissible de petite entreprise d’un particulier (à l’exception d’une fiducie qui n’est pas une fiducie personnelle) à un moment donné, action du capital‑actions d’une société qui, à la fois :
+[…]
+“qualified small business corporation share” of an individual (other than a trust that is not a personal trust ) at any time (in this definition referred to as the “determination time”) means a share of the capital stock of a corporation that,
+…
+b) tout au long de la période de 24 mois qui précède le moment donné, n’est la propriété de nul autre que le particulier ou une personne ou société de personnes qui lui est liée;
+(b) throughout the 24 months immediately preceding the determination time, was not owned by anyone other than the individual or a person or partnership related to the individual, […]
+Le sous‑alinéa 110.6(14)c)(i) de la Loi est ainsi libellé :
+110.6 (1) [Exonération des gains en capital—définitions] – Les définitions qui suivent s’appliquent au présent article.
+110.6 (1) [Capital gains exemption—] Definitions -- For the purposes of this section,
+(14) Précisions sur les actions admissibles de petite entreprise [règles diverses relatives aux actions] – Pour l’application de la définition de « action admissible de petite entreprise » au paragraphe (1) :
+(14) Related persons, etc. [miscellaneous rules re shares] -- For the purposes of the definition “qualified small business corporation share ” in subsection (1),
+c) une fiducie personnelle est réputée, à la fois :
+(c) a personal trust shall be deemed
+(i) être liée à une personne ou société de personnes pendant chaque période tout au long de laquelle cette personne ou société de personnes est bénéficiaire de la fiducie,
+(i) to be related to a person or partnership for any period throughout which the person or partnership was a beneficiary of the trust, and
+L’article 5.1 de l’acte de fiducie prévoit expressément ce qui suit :
+Les bénéficiaires du revenu et du capital de la Fiducie sont M. Mathio Pellerin, ses enfants, ses petits‑enfants, à compter de leur naissance ou de leur adoption ainsi que toute personne morale dont M. Mathio Pellerin détient le contrôle.
+1. En 2008, Mika était‑il considéré comme bénéficiaire de la fiducie alors qu’il était conçu, mais non encore né, pour l’application de l’alinéa 110.6(1)b) de la Loi?
+[6] L’appelant se fonde sur les articles 1267, 1279 et 1814 du Code civil du Québec dont les passages pertinents sont ainsi libellés :
+1267. La fiducie personnelle est constituée à titre gratuit, dans le but de procurer un avantage à une personne déterminée ou qui peut l’être.
+1267. A personal trust is constituted gratuitously for the purpose of securing a benefit for a determinate or determinable person.
+1279. Le bénéficiaire d’une fiducie constituée à titre gratuit doit avoir les qualités requises pour recevoir par donation ou par testament à l’ouverture de son droit.
+[…]
+1279. Only a person having the qualities to receive by gift or by will at the time his right opens may be the beneficiary of a trust constituted gratuitously.
+[…]
+1814. Les père et mère ou le tuteur peuvent accepter la donation faite à un mineur ou, sous la condition qu’il naisse vivant et viable, à un enfant conçu, mais non encore né.
+[…]
+1814. The father, mother or tutor may accept gifts made to a minor or, provided he is born alive and viable, to a child conceived but yet unborn.
+[…]
+[7] L’appelant se fonde également sur les arrêts rendus par la Cour suprême du Canada, à savoir Montreal Tramways Co. v. Léveillé, [1933] R.C.S 456 et Ivanhoe inc. c. TUAC, section locale 500, [2001] 2 R.C.S. 565, 2001 CSC 47.
+[8] L’arrêt Montreal Tramways a été rendu sous le régime du Code civil du Bas Canada. La Cour suprême du Canada a mentionné, à la page 461, les questions de droit pertinentes de la manière suivante :
+[traduction]
+En droit civil, les droits d’un enfant conçu qui n’est pas encore né sont fondés sur deux passages que l’on trouve dans le Digeste de Justinien, livre premier, titre 5, articles 7 et 26, qui sont libellés ainsi : 7. Qui in utero est, perinde ac si in rebus humanis esset, custoditur, quoties de commodis ipsius partas quaeritur.
+(L’enfant conçu qui n’est pas encore né est considéré comme né chaque fois qu’il y va de son intérêt)
+26. Qui in utero sunt in toto paene jure civili intelliguntur in rerum naturâ esse.
+(L’enfant conçu, mais non encore né, est considéré dans presque tous les domaines du droit civil comme s’il existait déjà.)
+Le Code civil du Québec prévoit des dispositions concernant la nomination d’un curateur de l’enfant conçu, mais non encore né, ou de ses biens. Articles 337 et 338 du C.C.
+[…]
+Cet article consacre pratiquement la règle de droit romain citée ci‑dessus en premier lieu.
+L’article 608 du C.C. est libellé ainsi:
+[…]
+2. L’enfant qui n’est pas né viable.
+Cette disposition prévoit que, pour succéder, il faut exister civilement. Par conséquent, un enfant conçu qui n’est pas encore né est réputé avoir une existence civile s’il naît vivant et viable.
+Les articles 771 et 838 du C.C. portent sur les donations entre vifs et par testament. L’ancien article est libellé ainsi :
+[…]
+L’article 838 du C.C. comporte une disposition semblable en ce qui a trait à l’enfant conçu, mais non encore né, qui bénéficie d’un avantage en vertu d’un testament.
+La société a soutenu qu’en déclarant, au moyen de dispositions expresses, que l’enfant conçu, mais non encore né, doit posséder les droits et les capacités d’un enfant né en ce qui concerne les points mentionnés aux articles 608, 771 et 838 du C.C, le Code civil a implicitement limité les cas dans lesquels un enfant conçu, mais non encore né, serait réputé né à ceux qui sont expressément mentionnés. Par ailleurs, l’intimée a fait valoir que les points mentionnés dans ces articles, bien qu’ils soient spécialement traités dans le Code civil, ne sont que des exemples qui illustrent la règle selon laquelle un enfant conçu est réputé né chaque fois que son intérêt l’exige, mais ne limitent aucunement le sens de l’article 345 du C.C., dont le libellé est général.
+Le Code Napoléon de France comporte des articles semblables aux articles 608 et 771 du Code civil du Québec. Les textes faisant autorité en droit français peuvent, par conséquent, être utiles pour déterminer si, en droit civil, la règle est d’application générale.
+Dans l’ouvrage de Baudry‑Lacantinerie et Houques‑Fourcadé Droit civil français, 3e éd., tome 1, à la page 270, les éminents auteurs s’expriment ainsi :
+289. L’homme constitue une personne dès le moment même de sa naissance. Jusque‑là il n’est pas une personne distincte, il n’est encore que pars viscerum matris. Pourtant, en droit romain, on considérait, par une fiction de droit, l’enfant simplement conçu comme déjà né, lorsque son intérêt l’exigeait. Ce principe, admis aussi dans notre ancien droit, a été en ces termes: infans conceptus pro nato habetur, quoties de commodis ejus agitur. Le code civil en consacre lui‑même plusieurs applications, qui prouvent qu’il a été maintenu dans toute sa généralité.
+Dans l’ouvrage d’Aubry et Rau, Droit civil français, 4e éd., tome 1, au paragraphe 53, à la page 262, l’auteur s’exprime en ces termes :
+Dans le sein de sa mère, l’enfant n’a point encore d’existence qui lui soit propre, ni par conséquent, à vrai dire, de personnalité. Mais, par une fiction des lois civiles, il est considéré comme étant déjà né, en tant du moins que son intérêt l’exige. En vertu de cette fiction, l’enfant simplement conçu jouit d’une capacité juridique provisoire, subordonnée, quant à ses effets définitifs, à sa naissance en vie et avec viabilité.
+Et dans l’ouvrage de Mignault, Droit civil canadien, nous trouvons le passage suivant :
+Une vieille maxime dit que l’enfant conçu est déjà réputé né toutes les fois qu’il s’agit de ses intérêts.
+Ensuite, après un renvoi à l’article 345 du C.C. qui prévoit la nomination du curateur, l’éminent auteur poursuit ainsi :
+Il n’est pas nécessaire de citer les cas qui nécessitent cette nomination. Elle se fait dans tous les cas où l’intérêt de l’enfant l’exige.
+Pour établir le caractère général de l’application de la fiction, il peut être aussi utile de citer les opinions exprimées par certains juges anglais qui connaissaient ce droit.
+Dans la décision Burnet v. Mann, le lord chancelier Hardwicke a formulé l’observation suivante :
+[traduction]
+Selon la règle générale, ils (les enfants conçus, mais non encore nés), sont considérés comme s’ils existaient pour leur intérêt et non pour leur désavantage. et dans la décision Wallis v. Hudson, le même juge, à la page 116, a déclaré qu’un enfant dans le sein de sa mère « était une personne in rerum naturâ (en existence) ». Ensuite, après avoir mentionné la loi relative au partage successoral qui devait, à son avis, être interprétée au moyen du droit civil, il s’est exprimé ainsi :
+[traduction]
+Quant au droit civil, la loi considère, on ne peut plus clairement, qu’un enfant dans le sein de sa mère est bel et bien né chaque fois qu’il y va de son intérêt.
+Lord Atkinson a cité en l’approuvant cette déclaration relative au droit civil dans la décision Villar v. Gilby. Voir aussi la décision Schofield v. Orrel Colber.
+Dans la décision Doe v. Clark, le juge Butler s’est exprimé ainsi :
+[traduction]
+En effet, il semble actuellement établi qu’un enfant dans le sein de sa mère doit, de manière générale, être considéré comme né chaque fois qu’il y va de son intérêt.
+Dans de nombreuses décisions de la jurisprudence anglaise ayant donné effet à la règle de droit civil, celle‑ci a été simplement appliquée comme une règle d’interprétation au moyen de laquelle il a été jugé que le terme « enfant » ou « enfants » comprenait un enfant dans le sein de sa mère. Toutefois, dans la décision Doe v. Lancashire, la question n’en était pas une d’interprétation, mais il s’agissait de la révocation d’un testament découlant de la naissance d’un enfant, et le juge Gross a formulé les observations suivantes, à la page 63 :
+[traduction]
+Je ne connais aucun argument, fondé sur le droit et la justice naturelle, en faveur de l’enfant né du vivant de son père, qui ne s’applique pas également à l’enfant posthume.
+Les savants juges ont incontestablement considéré la fiction comme étant d’application générale.
+[…]
+Pour les motifs qui précèdent, je suis d’avis que la fiction applicable en droit civil doit être considérée comme étant d’application générale. Par conséquent, l’enfant sera réputé né au moment de l’accident de la mère. […]
+[Non souligné dans l’original]
+[9] L’arrêt Ivanhoe, rendu en 2001, a été rédigé par la Cour suprême du Canada sous le régime du nouveau Code civil du Québec. En examinant soigneusement certains domaines du droit québécois qui comportent des fictions juridiques, la Cour suprême du Canada a formulé les observations suivantes au sujet de l’arrêt Montreal Tramways et de l’enfant conçu et non encore né :
+100 En droit des personnes, notre Cour a indiqué, dans l’arrêt Montreal Tramways Co. c. Léveillé, [1933] R.C.S. 456, qu’un enfant né vivant et viable pouvait poursuivre en son nom propre la personne lui ayant causé un dommage pendant la grossesse, alors même qu’en droit civil, la personnalité juridique ne peut exister qu’à partir de la naissance (voir aussi Dobson (Tuteur à l’instance de) c. Dobson, [1999] 2 R.C.S. 753, par. 13‑18). Notre Cour a alors reconnu l’existence du principe de droit civil voulant que, lorsque l’enfant naît vivant et viable, sa personnalité juridique rétroagit au jour de la conception par le biais d’une fiction juridique qui n’opère qu’en faveur de l’enfant et ne peut jamais être invoquée contre lui (voir É. Deleury et D. Goubau, Le droit des personnes physiques (2e éd. 1997), p. 11‑17). Ce principe est expressément reconnu par le législateur dans certains domaines, comme ceux des successions (art. 617 C.c.Q.), des substitutions (art. 1242 C.c.Q.), des fiducies (art. 1279 C.c.Q.), des donations (art. 1814 C.c.Q.) et de l’assurance de personnes (art. 2447 C.c.Q.). Dans l’arrêt Montreal Tramways, précité, notre Cour a reconnu que, même en l’absence de codification générale de la règle, la personnalité juridique peut rétroagir au jour de la conception chaque fois que l’intérêt d’un enfant né vivant et viable l’exige.
+[Non souligné dans l’original]
+[10] En 1989, dans l’arrêt Tremblay c. Daigle, [1989] 2 R.C.S. 530, un arrêt qui ne peut pas être considéré généralement comme étant favorable aux droits des enfants non encore nés, la Cour suprême du Canada s’est exprimée ainsi (а la p. 563) :
+Le fœtus n’est traité comme une personne que dans le cas où il est nécessaire de le faire pour protéger ses intérêts après sa naissance.
+[11] Outre les textes et la doctrine cités par la Cour suprême du Canada dans les arrêts Montreal Tramways et Ivanhoe, l’appelant se fonde aussi sur le document rédigé en 2010 par Mme Lambert « Commentaire sur l’article 1814 du C.c.Q. » :
+Cas de l’enfant conçu qui n’est pas encore né
+Tout être humain possède de la personnalité juridique [art. 1 C.c.Q.]. Toutefois, l’enfant conçu qui n’est pas encore né n’a pas encore cette personnalité. Certains droits de nature patrimoniale lui sont néanmoins moins conférés par le Code civil, généralement à la condition qu’il naisse vivant et viable. Cette personnalité juridique rétroagira alors à la date de sa conception. [Note 13 : Voir É. DELEURY et D. GOUBAU, op. cit., note 9, nos 9 et s. et 525 et 526, p. 18 et s., 458, EYB2008DPP3 et 459, EYB2008DPP18.][1]
+[12] Selon la loi québécoise applicable à Mika et à la fiducie, telle qu’elle a été présentée et débattue par les parties, à partir du moment où Mika est né viable, il a été rétroactivement considéré comme bénéficiaire, en fait comme une personne, depuis sa conception, en ce qui concerne toutes les lois généralement applicables qui intéressent l’ordre public, si l’intérêt de Mika l’exigeait.
+[13] En raison de cette fiction juridique applicable en droit québécois, (i) il a été satisfait au critère concernant la période de détention de 24 mois du fait que seuls Mika et la fiducie avaient été propriétaires des actions avant que Mika n’en dispose et (ii) la fiducie était liée à Mika tout au long de la période du fait que Mika est bénéficiaire de la fiducie depuis sa naissance et du fait qu’il est réputé avoir été bénéficiaire de la fiducie pendant la période de 24 mois qui a précédé sa naissance.
+2. L’article 5.1 de l’acte de fiducie est‑il en contradiction avec le Code civil et, dans l’affirmative, comment faut‑il résoudre une telle contradiction?
+[14] Pour savoir si l’article 5.1 de l’acte de fiducie prévaut en l’espèce, il faut également en analyser le libellé.
+[15] L’intimée soutient que, malgré l’analyse de la question 1 ci‑dessus, le constituant de la fiducie a établi qu’un enfant ne serait bénéficiaire qu’à sa naissance, et ce point à lui seul fait en sorte qu’il ne peut être satisfait au critère concernant la période de détention de 24 mois compte tenu des faits de l’espèce.
+[16] À mon avis, l’argument de l’intimée n’est pas fondé pour deux raisons. Premièrement, l’article 5.1 de l’acte de fiducie peut et doit être interprété de manière à être conforme à la loi québécoise applicable, y compris le Code civil. Il ressort clairement des explications de la Cour suprême du Canada dans les arrêts Montreal Tramways et Ivanhoe que ce n’est qu’au moment où l’enfant est né viable qu’il est rétroactivement considéré comme bénéficiaire ou comme personne si cela est dans son intérêt. Ainsi, la loi d’application générale au Québec décrite par la Cour suprême du Canada n’entre aussi en jeu qu’à partir du moment où l’enfant est né viable, le cas échéant. Ce n’est qu’à cette condition que Mika est, au moyen de la fiction juridique, rétroactivement considéré comme bénéficiaire ou comme personne lorsqu’il était conçu, mais non encore né. L’article 5.1 de l’acte de fiducie n’est pas incompatible avec cette fiction juridique. Il stipule d’une manière semblable qu’un enfant n’est bénéficiaire qu’à partir de sa naissance. Le libellé de l’article n’écarte pas la fiction juridique selon laquelle, après la naissance, l’enfant sera aussi considéré rétroactivement comme ayant été bénéficiaire avant sa naissance. Je ne crois pas qu’une interprétation raisonnable de l’article 5.1 de l’acte de fiducie soit incompatible avec la loi québécoise généralement applicable à la fiducie à cet égard.
+[17] Deuxièmement, le Code civil prévoit aux articles 8 et 9 que les actes de nature privée conclus par les parties ne peuvent pas déroger aux lois généralement applicables qui intéressent l’ordre public. Ainsi, même si le libellé de l’article 5.1 de l’acte de fiducie empêchait effectivement l’enfant né viable de devenir bénéficiaire et d’être rétroactivement considéré comme ayant été bénéficiaire lorsqu’il était conçu, mais non encore né, il semblerait que la disposition serait sans effet.
+3. L’expression « tout au long de la période de 24 mois » s’applique‑t‑elle au statut de personne liée et exige‑t‑elle que ce statut existe tout au long de la période et non simplement au moment donné?
+[18] Les versions française et anglaise sont cohérentes à cet égard dans leur structure grammaticale. Les deux versions peuvent être clairement interprétées, et sans nul doute sont interprétées de la meilleure façon, en fonction du fait que l’expression « tout au long de la période de 24 mois » s’applique aux exigences relatives à la propriété, et n’exige pas que le statut de personne liée ait existé tout au long de la période. Le libellé et la structure grammaticale ne commandent pas expressément que le statut de personne liée ait existé tout au long de la période de 24 mois.
+[19] À la lecture des autres dispositions de l’article 110.6 de la Loi concernant le régime d’exonération des gains en capital, l’on constate par exemple aux alinéas c), d), e) et f) de la définition de l’expression « actions admissibles », que ces dispositions sont claires dans leur énoncé : « pour une période donnée comprise dans la période de 24 mois », « au cours de la période de 24 mois se terminant au moment donné » et « tout au long de la partie de la période de 24 mois qui précède le moment donné ».
+[20] Il semble que le but du critère de la propriété concernant la période de détention de 24 mois prévue à l’alinéa 110.6(1)b) de la Loi est d’empêcher le contribuable qui dispose d’une action de demander une exonération de gains en capital relativement à des gains accumulés lorsque l’action était la propriété d’un tiers. Ce but peut être atteint en considérant comme tiers des personnes qui ne sont pas liées à la personne qui dispose de l’action au moment de cette disposition. Ni le libellé ni le but de la disposition n’exigeraient quoi que ce soit d’autre qui ait une portée plus large[2].
+[21] Je conclus qu’il suffit qu’au moment de l’opération imposable, le contribuable soit lié à n’importe quelle autre personne qui était propriétaire du bien au cours de la période de 24 mois visée par le critère de la propriété (sous réserve bien entendu de stratagèmes d’évitement fiscal abusifs qui ne sont ni applicables ni en jeu en l’espèce).
+[22] Enfin, je tiens à souligner que l’interposition de la fiducie entre Mika et son père n’a pas d’incidence importante sur l’une ou l’autre des analyses ci‑dessus. Si les mêmes questions étaient soulevées, j’y répondrais de la même manière si les faits concernaient un parent et un enfant né au cours de la période de détention de 24 mois, deux personnes qui devenaient des époux au cours de la période de 24 mois ou une personne qui adoptait un enfant au cours de la période de 24 mois (sauf que, dans ce dernier cas, la question 1 pourrait ne pas se poser).
+[23] L’appel est accueilli.
+Signé à Montréal, Québec, ce 22e jour de mai 2015.
+« Patrick Boyle »
+Juge Boyle
+ANNEXE
+RÉFÉRENCE :
+2015 CCI 130
+NO DU DOSSIER DE LA COUR :
+2013-2920(IT)I
+INTITULÉ :
+MIKA PELLERIN ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Granby (Québec)
+DATE DE L’AUDIENCE :
+Le 6 février 2015
+MOTIFS DU JUGEMENT :
+L’honorable juge Patrick Boyle
+DATE DU JUGEMENT :
+Le 22 mai 2015
+COMPARUTIONS :
+Avocat de l’appelant :
+Me José Luis Baz
+Avocate de l’intimée :
+Me Marielle Thériault
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Me José Luis Baz
+Cabinet :
+117, Rue Notre‑Dame Est
+Bureau 203
+Victoriaville (Québec)
+Pour l’intimée :
+William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Onglet 6 du cahier des textes faisant autorité de l’appelant.
+[2] Bien que cela ne soit pas strictement pertinent, l’Agence du revenu du Canada (l’« ARC ») a publié un document dans lequel elle donne son opinion sur la période de détention de 24 mois. Le document, qui fait état d’interprétations téléologiques, s’ajoute au contexte dans lequel l’alinéa 110.6(1)b) de la Loi devrait être interprété. Sa conclusion est compatible avec la présente décision. Voir le document daté du 4 juin 2012, intitulé CRA Views 2012‑0439271E5 – Qualified Small Business Corporation Shares Deduction by Beneficiary (Opinion de l’ARC 2012‑0439271E5 – Déduction par le bénéficiaire : actions admissibles de petite entreprise).

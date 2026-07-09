@@ -1,0 +1,149 @@
+---
+title: "Walsh v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30427/index.do"
+last_modified: "2011-06-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 341"
+citation2: ""
+neutral_citation: "2011 TCC 341"
+decision_date: "2011-06-28"
+language: "en"
+item_id: "30427"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7958
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:28:47.693000+00:00"
+cases_cited_count: 3
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "dba44c21e676d3378e02acb318efbabf3fc2cacb39b6f64e80c426132eef950c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Walsh v. The Queen
+
+- Citation: 2011 TCC 341
+- Decision date: 2011-06-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7958, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Walsh v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-06-28
+Neutral citation
+2011 TCC 341
+File numbers
+2010-3709(IT)I
+Judges and Taxing Officers
+Joe E. Hershfield
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-3709(IT)I
+BETWEEN:
+PATRICK M. WALSH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard and Reasons for Judgment delivered from the Bench
+on June 28, 2011 at Toronto, Ontario
+Before: The Honourable Justice J.E. Hershfield
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Carol Calabrese
+Shane Baker (Student-At-Law)
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2005 and 2006 taxation years are dismissed on the basis that the Appellant was not carrying on a business in the subject years.
+Signed at Ottawa, Canada this 6th day of July 2011.
+"J.E. Hershfield"
+Hershfield J.
+Citation: 2011 TCC 341
+Date: 20110706
+Docket: 2010-3709(IT)I
+BETWEEN:
+PATRICK M. WALSH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered from the Bench on June 28, 2011 at Toronto, Ontario)
+Hershfield J.
+[1] The Appellant claimed business losses in 2005 and 2006 in the approximate amounts of $12,900 in 2005 and $13,600 in 2006.
+[2] On reassessment by the Minister of National Revenue (the “Minister”) same were denied on the basis of the failure to provide adequate receipts, the expenses being unreasonable and there being personal expenses.
+[3] The Appellant appeals such reassessments asserting that the expenses were incurred and resulted in losses in the course of the conduct of a business and were deductible under the terms of the Income Tax Act. As well, he asserted that the expenses incurred were evidenced as required and were reasonable.
+[4] During the course of the hearing, the Respondent abandoned its assertion that the expenses were not sufficiently evidenced by receipts. Further, no argument was pursued as to the reasonableness of the expenses. The sole position relied on by the Respondent at the hearing was that the expenses incurred were personal in nature and the asserted business activity had not yet commenced. Reliance was placed primarily on the 2002 Supreme Court of Canada decision in Stewart v. Canada.[1]
+[5] The Notice of Appeal describes the business activity in question as trading foreign exchange contracts in the retail/spot market.
+[6] I have little doubt that the Appellant had, in general terms, the educational background to attack this high risk business activity. He has degrees in economics, business and accounting and also achieved his chartered accountant designation, a profession he practiced for many years. Forced to retire from his CA practice due to health issues he looked for a business that he could carry on that was compatible with his skills and health.
+[7] He researched several business opportunities and in 2004 he acquired trading software and a new computer capable of supporting the multiple and simultaneous tasks that the software permitted him to perform. The software had some 45,000 subscribers. He selected it because it offered training in the trading activities that he aspired to pursue. It offered on-line daily support with demonstration trading accounts to learn and practice with. He testified that in 2005 he probably did not enter into one real trade and in 2006 maybe only a few hundred dollars were invested in trades.
+[8] Mr. Walsh also testified that he joined a local support group comprised of persons who had acquired the same software program and that early on he led a seminar for this group after meeting with Canada Revenue Agency as to the income tax treatment of such activities which he had understood would be on income account as an adventure in the nature of trade. He prepared proper books and accounts and filed a statement of business activities with his returns for the 2005 and 2006 years as he understood he was required to do.
+[9] I should mention that the software package included a data feed that provided access to trading information that had not always been available until, apparently, the U.S. congress mandated access. This information presumably provided essential and timely information to pursue trades and to conduct trading activities. In that sense, the program offered more than training and support. However, in the years in question I am not satisfied that Mr. Walsh was undertaking anything other than a training program. His testimony repeatedly underlined that the focus of his activity was learning the market in order to exploit it and doing the research to find ways to exploit this opportunity. He was devoting his exclusive attention to this task and moving toward a combination of traditional analysis of circumstantial factors and charting patterns.
+[10] I do not see Mr. Walsh as a dreamer or schemer in this regard. He was, in the years in question, a serious student of forecasting price movements in the currency markets using his educational background together with his understanding of the interaction amongst interest rate pressures, currency values, inflation, employment, balances of trade and like factors. According to his testimony, he had accumulated some 12,000 pages of economic study and research that have now allowed him to reach a goal of some 70% success. Indeed, he put in evidence a record of recent trade activity illustrating profitability. He further put in evidence a document illustrating analytical aspects of his approach. Still, his testimony was somewhat unclear as to when he began to actually focus on a business model that he felt was workable and enter into trading activity in pursuit of that model. It may have been, for example, in 2008 when his losses started to decline.
+[11] Although the quantum and reasonableness of his expenses were not ultimately put in issue, I believe it merits note that there is nothing aggressive in the items claimed. For example, there are no claims for such things as home office expenses that include an allocation of a percentage of household living costs or automobile expenses. The expenses, more clearly, are source related which I commend. However, that does not change my impression as to the stage at which this activity must be found to be in, in 2005 and 2006. Indeed, one expense in 2006 was to attend a program with three days of intensive practice trading seminars which he had described as a unique training opportunity that evidences a continuing underlying theme in all of Mr. Walsh’s testimony namely Mr. Walsh was in school throughout the period under appeal.
+[12] As well, I should note at this point that Mr. Walsh acknowledged that he had little capital to put at risk in this high risk enterprise. He has a modest pension and disability income and he essentially acknowledged that he was using these early years to get the feel for trading in this high risk area and to be properly schooled, self-taught if you will, with earnest research and practice, before he could actually invest any real money in this enterprise. As stated earlier, throughout the two year period, 2005 and 2006, virtually only a few hundred dollars had been engaged in actual trades. They were, still, in the nature of practise exercises.
+[13] That takes me then to my analysis including the arguments of the parties.
+Analysis
+[14] Mr. Baker arguing for the Respondent relied primarily on the 2002 Supreme Court of Canada decision in Stewart to frame the required analysis.
+[15] He pointed out that where there is a suspicion of a personal element then the exercise is to ascertain, by looking at a variety of factors including objective and subjective factors, the intentions of the taxpayer.
+[16] That which would be a personal element, it is argued, is not just a hobby type activity but an educational pursuit, as well, even where it is aimed at preparing one for a business activity. That is, developing the know-how to operate a specific type of business, which was the intention here, is personal development not a commercial activity per se.
+[17] The objective factors listed in paragraph 55 of Stewart which include things like the profit and loss experience and the capacity of the operation to show a profit are said not to be exhaustive. The exercise is to seek to discover the commercial nature of the activity. Indicia of commerciality must be sufficient to warrant a finding that there is a source of income.
+[18] Consideration of relevant factors in this case lead one to conclude, both objectively and subjectively, that the activity in 2005 and 2006 was not a source of income. It did not yet reach the level of commerciality to justify a finding that a business had commenced.
+[19] While referring me to several other cases including Tax Court of Canada cases Coome v. Canada,[2] Dreaver v. Canada,[3] and Gartry v. Canada,[4] counsel for the Respondent also referred me to my 2005 decision in McNeil v. Canada[5] at paragraph 12 where, in that case, I referred specifically to a person who had been working on investment models and strategies to enable himself to carry on an investment activity for his family which I found was not yet a business activity. While in that case the taxpayer did not show the same background as the Appellant in the case at bar, and never demonstrated that he had ever developed a strategic planning model as Mr. Walsh seems to have done, the issue is the same - preparations leading to creating a business activity are not themselves yet a business. Reference might also be made to earlier decisions of this court in Sherman McClure and June N. McClure v. The Minister of National Revenue[6] and Cunningham v. Canada,[7] essentially coming to similar conclusions that underline that educating oneself as a preparation to the start-up of a business is essentially a personal activity and not a business activity.[8]
+[20] The Appellant argued that he had the background to pursue, with the necessary degree of sophistication, the trading business that he has carried out since 2004. He acknowledged that his work was devoted largely to determining the entry strategies given the small amount of capital he had to put at risk but, nonetheless, they were simply preliminary steps which were a part of a business. That is, as recognized in Interpretation Bulletin IT-364, preliminary steps are inherently part of a business. Every business must start with taking a preliminary step.
+[21] Nonetheless, I have to agree with the Respondent in this case. Subjectively, Mr. Walsh has admitted throughout his testimony that during the subject years he was at a pre-exploitation stage of the subject activity. This was not a case of preliminary exploitation steps. It is clearly subjectively and objectively pre-exploitation. He was researching the technology involved to start a business, he was researching the strategy steps that he needed to take to start a business employing his capital. He was taking courses, doing demonstration trades and getting a feel for a business that he felt he could yet pursue. I cannot find in such circumstances that the business had yet commenced in the subject years. Accordingly, the appeals will be dismissed.
+Signed at Ottawa, Canada this 6th day of July 2011.
+"J.E. Hershfield"
+Hershfield J.
+CITATION: 2011 TCC 341
+COURT FILE NO.: 2010-3709(IT)I
+STYLE OF CAUSE: PATRICK M. WALSH AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: June 28, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice J.E. Hershfield
+DATE OF JUDGMENT: July 6, 2011
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Carol Calabrese
+Shane Baker (Student-At-Law)
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2002 SCC 46.
+[2] 2007 TCC 493.
+[3] [2008] 4 C.T.C. 2140 (TCC).
+[4] 94 DTC 1947 (TCC).
+[5] 2005 DTC 328 (TCC).
+[6] 88 DTC 1504 (TCC).
+[7] [1998] 1 C.T.C. 3125 (TCC).
+[8] Cases such as these dealing with reasonable expectation of profit, pre Stewart, including another I might mention, Price v. Canada, [2001] 4 C.T.C. 2488 (TCC), speak of pre-start-up expenses which would, in post-Stewart terms, not yet be a source of income.

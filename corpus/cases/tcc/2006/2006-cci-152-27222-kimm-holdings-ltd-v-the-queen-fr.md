@@ -1,0 +1,261 @@
+---
+title: "Kimm Holdings Ltd. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27222/index.do"
+last_modified: "2006-03-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 152"
+citation2: ""
+neutral_citation: "2006 CCI 152"
+decision_date: "2006-03-10"
+language: "fr"
+item_id: "27222"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 828
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:49:03.107000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6c9321163a6807c8845879b4123874e4eaeaf4c7a8ba7f6dc996d98545e6e5b8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kimm Holdings Ltd. v. The Queen
+
+- Citation: 2006 CCI 152
+- Decision date: 2006-03-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 828, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kimm Holdings Ltd. v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-03-10
+Référence neutre
+2006 CCI 152
+Numéro de dossier
+2004-4062(GST)I
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2004-4062(GST)I
+ENTRE :
+KIMM HOLDINGS LTD.,
+appelante,
+Et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 23 février et le 1er mars 2006, à Edmonton (Alberta)
+Devant : L’honorable Campbell J. Miller
+Comparutions :
+Avocat de l’appelante :
+Me Gordon D. Beck
+Avocat de l’intimée :
+Me George F. Body
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la cotisation établie en vertu de la Loi sur la taxe d’accise, dont l’avis est daté du 12 septembre 2003 et porte le numéro 10BT0600684, est accueilli et la cotisation est renvoyée au ministre du Revenu national pour qu’il l’examine à nouveau et établisse une nouvelle cotisation compte tenu du fait que la juste valeur marchande de l’immeuble d’habitation à logements multiples situé au 609, rue King, à Spruce Grove (Alberta), au moment où il a été achevé en grande partie en janvier 2001, s’élevait à 6 550 000 $ et que l’appelante est passible des pénalités prévues à l’article 285 et calculées en conséquence.
+Signé à Toronto (Ontario), ce 10e jour de mars 2006.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 1er jour de juin 2007
+D. Laberge, LL.L.
+Référence : 2006CCI152
+Date : 20060310
+Dossier : 2004-4062(GST)I
+ENTRE :
+KIMM HOLDINGS LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Miller
+[1] Kimm Holdings Ltd. (l’« appelante ») a construit un immeuble d’habitation à logements multiples situé à Spruce Grove (Alberta) (l’« immeuble ») en 2000. Contrairement aux dispositions de l’article 191 de la Loi sur la taxe d’accise (la « Loi »), l’appelante a omis de procéder, en temps opportun, à une autocotisation relative à la taxe sur les produits et services. Le ministre du Revenu national a établi une cotisation relative à la TPS en se fondant sur l’estimation s’élevant à 7 350 000 $ de la juste valeur marchande établie par son évaluateur en octobre 2000, soit la date qui, selon le ministre, correspondait au jour où les travaux concernant l’immeuble d’habitation ont été en grande partie achevés. Le ministre a en outre imposé des pénalités en application de l’article 285 de la Loi. L’appelante conteste l’évaluation de la valeur effectuée par le ministre et se fonde sur la valeur de 7 050 000 $ établie par son propre évaluateur en octobre 1999, laquelle tient compte du fait que les travaux concernant l’immeuble n’étaient pas achevés en totalité à la date d’évaluation.
+[2] L’appelante soutient également qu’elle n’a pas à payer de pénalités puisque l’intimée n’a pas prouvé qu’elle a, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans la déclaration relativement à la taxe non déclarée touchant la réputée fourniture à elle‑même de l’immeuble.
+[3] J’arrive à la conclusion que les travaux ont en grande partie été achevés en janvier 2001 pour les besoins de l’autocotisation et que la juste valeur marchande de l’immeuble à ce moment était de 6 550 000 $. De plus, j’estime que l’appelante est passible de pénalités en application de l’article 285 en raison de la TPS découlant de cette juste valeur marchande.
+Faits se rapportant à la juste valeur marchande de l’immeuble
+[4] Le tableau suivant compare les conclusions auxquelles l’évaluateur du ministre, M. Sliwkawich, est arrivé en 2003, dans le cadre de son évaluation en date d’octobre 2000, avec celles que l’évaluateur de l’appelante, M. Dezman, a établies en 1999 en vue d’obtenir du financement.
+Méthode d’estimation de la valeur :
+Intimée
+Appelante
+· Méthode du coût
+8 350 000 $
+8 315 000 $
+· Technique du revenu
+6 950 000 $
+7 050 000 $
+· Méthode comparative directe
+7 280 000 $
+6 970 000 $
+Estimation définitive de la juste valeur marchande
+7 350 000 $
+7 050 000 $
+Évaluation du terrain
+675 000 $
+645 000 $
+[5] M. Sliwkawich a tiré les conclusions suivantes :
+[TRADUCTION]
+La méthode du coût consiste en une estimation du coût nécessaire pour produire un immeuble qui offre les mêmes avantages que celui en cause, qui est situé au même endroit et se trouve dans le même état, en date de l’évaluation. La méthode du coût ne tient pas compte de la possibilité de tirer un revenu de l’immeuble et, de façon générale, elle définit l’extrémité supérieure de la fourchette de valeur. C’est le cas ici.
+La technique du revenu est bien fondée et repose sur les données récentes tirées du marché des biens de placement analogues. Elle mesure la réaction à l’égard du principal facteur de préoccupation lié à un bien de placement, c.‑à‑d. le flux de revenu. Cependant, les données relatives aux revenus et aux dépenses ne sont pas étayées depuis longtemps dans ce cas‑ci de sorte que, même si un certain poids a été accordé à cette technique, on ne peut lui donner toute l’importance qu’elle aurait pu avoir si de meilleures données relatives aux revenus et aux dépenses avaient été disponibles.
+La méthode comparative directe insiste quant à elle sur les aspects physiques du bien par opposition à ses aspects financiers, la conclusion relative à la valeur étant manifestement établie par les données du marché dans le cas présent. Cette méthode n’est habituellement pas aussi populaire auprès des participants au marché que la technique du revenu; cependant, les caractéristiques physiques d’un bien aident à établir la possibilité d’obtenir un revenu de celui‑ci de sorte qu’elles constituent un indice valable et digne de foi de la valeur puisqu’elles reflètent les activités des investisseurs au sein du marché.
+Bien que le plus grand poids soit accordé à la méthode comparative directe, il est justifié de donner une certaine importance aux autres méthodes. Si on leur accorde un poids égal, il s’ensuit une pression à la hausse. L’estimation définitive de la valeur du bien en cause situé au 609, rue King, à Spruce Grove (Alberta), en date du 1er octobre 2000 s’élève donc à :
+SEPT MILLIONS TROIS CENT CINQUANTE MILLE DOLLARS
+(7 350 000,00 $)
+[6] Les conclusions de M. Dezman sont les suivantes :
+[TRADUCTION]
+· La méthode du coût peut définir l’extrémité supérieure de la fourchette de valeur et, comme il a été mentionné dans les observations concernant les différentes opinions formulées au sujet de cette méthode, il ne s’agit pas d’une situation inhabituelle dans le cadre du marché actuel. La méthode du coût est considérée comme un repère pertinent pour la construction d’un bien de placement. Par conséquent, l’élaboration de cette méthode repose sur un fondement réaliste et il convient de comparer cette approche avec la technique du revenu.
+· Le complexe d’habitation proposé relativement aux Amberwynd Apartments est conçu et construit expressément à titre d’immeuble multifamilial. Le bien est exploité comme moyen de placement et la technique du revenu constitue donc une méthode fondamentale d’évaluation en ce qui le concerne.
+· Tant l’analyse fondée sur la capitalisation directe que celle fondée sur le multiplicateur du revenu brut ont été appliquées. Les résultats obtenus à l’aide de ces deux méthodes donnent lieu à des valeurs sensiblement équivalentes. L’accent sera donc mis sur l’analyse du revenu pour le choix définitif de la valeur du marché.
+· Dans le cadre de la méthode comparative directe, on a examiné le revenu net d’exploitation moyen tiré du projet par rapport au prix de vente par logement. Un grand nombre des caractéristiques que présente l’analyse du revenu se retrouvent dans la méthode de comparaison directe. Bien qu’elle ait donné lieu à une estimation de la valeur un peu plus faible, cette méthode confirme les résultats obtenus au moyen de l’analyse du revenu. La méthode comparative directe est considérée comme une technique moins raffinée en raison du manque de ventes comparables de nouveaux immeubles d’habitation au sein du marché d’Edmonton et ses environs.
+Comme elle met l’accent sur l’analyse du revenu, la capitalisation directe constitue donc la technique préférée des investisseurs et des évaluateurs pour l’analyse des valeurs du marché. À cette fin, à la date de l’évaluation, l’estimation du projet visant les Amberwynd Apartments se fonde sur une valeur marchande de :
+7 050 000,00 $
+(SEPT MILLIONS CINQUANTE MILLE DOLLARS)
+[7] M. Sliwkawich a reconnu que, dans le cadre de sa méthode comparative directe, l’immeuble comparable dont il s’est le plus servi parce qu’il était le plus semblable à celui en cause se trouvait à Edmonton, à distance de marche d’une station de TLR, tandis que l’immeuble de l’appelante était situé à plusieurs kilomètres à l’extérieur d’Edmonton et dépourvu d’un accès aisé à un transport rapide.
+Faits se rapportant aux pénalités et à l’état d’achèvement des travaux
+[8] Dans son témoignage, M. Farrell, président de l’appelante, a mentionné que cette dernière a acheté le terrain destiné à l’immeuble au début des années 70. Cependant, des questions de zonage, notamment, l’ont incitée à ne pas donner suite au projet touchant l’immeuble avant 1999. L’appelante a réussi à obtenir du financement (sur le fondement de l’évaluation faite par M. Dezman) au début de l’an 2000, lorsque la construction a commencé. On a produit à titre d’élément de preuve un avis délivré par la ville de Spruce Grove selon lequel une inspection des fondations a eu lieu en janvier 2000. L’appelante a communiqué avec Alpha Prime Developments Ltd. (« Alpha Prime ») pour retenir ses services à titre d’entrepreneur général. Dans une facture datée du 31 mars 2001, Alpha Prime fait état de ce qui suit :
+[TRADUCTION]
+Facture – Paiements proportionnels reçus :
+Objet : 104 logements, Amberwynd Apartments
+Janvier 2000
+50 000,00 $
+Février 2000
+605 000,00 $
+Mars 2000
+280 000,00 $
+Mai 2000
+1 445 000,00 $
+Juin 2000
+670 000,00 $
+Août 2000
+390 000,00 $
+Septembre 2000
+480 000,00 $
+Octobre 2000
+310 000,00 $
+Novembre 2000
+125 000,00 $
+Janvier 2001
+471 000,00 $
+Février 2001
+412 078,50 $
+Mars 2001
+69 121,50 $
+Total payé
+5 307 200,00 $
+[9] M. Farrell a précisé que, même s’il possédait une vaste expérience dans le domaine de l’aménagement immobilier, l’immeuble était sa première incursion dans la construction d’un immeuble d’habitation à logements multiples. Il ressort de son témoignage qu’il a découvert, pendant les travaux de construction, que personne ne savait comment [TRADUCTION] « faire la TPS », selon ses termes.
+[10] En novembre 1999, Mme Key, comptable agréée exerçant au sein du cabinet Meyers, Norris, Penny, a succédé à M. Perry, lequel a agi comme conseiller comptable de l’appelante jusqu’au moment de son décès en 1999. M. Farrell avait manifestement plus confiance en M. Perry qu’en Mme Key. Cette dernière a rencontré M. Farrell en janvier 2000. La question de l’immeuble et en particulier celle de la TPS ont été examinées à cette occasion. Mme Key a demandé à un de ses associés, M. Llewellyn, spécialiste du domaine fiscal, de se joindre à eux. Dans son témoignage, M. Llewellyn a déclaré que, même s’il n’était pas expert en matière de TPS, il avait informé M. Farrell qu’au moment où les travaux seraient en grande partie achevés, l’immeuble devrait faire l’objet d’une autocotisation fondée sur la juste valeur marchande à cette date. Il croit se souvenir qu’à cette époque, l’immeuble était toujours en construction.
+[11] Après que la préparation des états financiers de l’appelante pour l’année 2000 a été terminée, Mme Key a de nouveau rencontré M. Farrell. Cela se passait en mai 2001. Mme Key a demandé à son collègue spécialiste de la TPS, M. Piekema, de participer à cette réunion, mais M. Farrell ne se souvient pas que M. Piekema ait été présent. À nouveau, la question de l’autocotisation pour l’application de la TPS a été soulevée. M. Farrell a été informé que l’appelante aurait à remettre la taxe en fonction de la juste valeur marchande dès que les travaux seraient en grande partie achevés. Mme Key se rappelle que M. Farrell lui avait donné l’impression que l’immeuble n’était pas en grande partie achevé à la fin de l’an 2000. Elle a toutefois ajouté que, selon M. Piekema à ce moment, les travaux étaient au contraire en grande partie achevés.
+[12] Dans une lettre de suivi datée du 14 juin envoyée à l’appelante par Meyers, Norris, Penny, Mme Key a écrit ce qui suit :
+[TRADUCTION]
+Taxe sur les produits et services
+Comme il a été mentionné au cours de notre précédente réunion, vous êtes tenu de procéder à une autocotisation relativement à la TPS, laquelle doit se fonder sur la juste valeur marchande de l’immeuble d’habitation. Cette TPS doit être déclarée dans la prochaine déclaration de TPS que vous produirez. Si vous avez besoin d’aide à cet égard, veuillez communiquer avec Peter Piekema de notre cabinet.
+[13] Dans son témoignage, M. Farrell a affirmé qu’il n’avait jamais communiqué avec M. Piekema. Il n’aurait pas demandé conseil à M. Llewellyn après la réunion en 2000 ni à M. Piekema notamment parce qu’il a communiqué avec un certain M. Litwinowich, un représentant de l’Agence du revenu du Canada (« ARC ») qui travaillait dans le cadre d’un dossier touchant l’entrepreneur, Alpha Prime. M. Farrell a ajouté qu’il avait eu deux ou trois conversations téléphoniques avec M. Litwinowich au début de 2001, et qu’il avait demandé à ce dernier de communiquer avec lui lorsque l’immeuble serait terminé pour aider l’appelante à régler les questions de TPS. M. Litwinowich n’a pas témoigné. Je remarque que les communications entre M. Farrell et M. Litwinowich ont eu lieu bien après la première réunion avec Mme Key et M. Llewellyn en janvier 2000. Or, dans son témoignage, M. Farrell a d’abord déclaré qu’il pensait à M. Litwinowich lorsqu’il a rencontré Mme Key et M. Llewellyn.
+[14] L’appelante a loué environ 28 logements de l’immeuble en 2000, le premier bail datant d’octobre 2000. Lorsque M. Price, le vérificateur de l’ARC qui était responsable du dossier de l’appelante depuis février 2003, a demandé à M. Farrell quand les locaux avaient d’abord été loués, il a répondu que c’était au printemps 2001. M. Farrell a déclaré que cette erreur était regrettable, mais qu’il s’était senti menacé par M. Price et que ses réponses visaient à l’obliger à déterminer ce qui était correct et ce qui était incorrect.
+[15] Les logements étaient tous loués en septembre ou en octobre 2001.
+[16] Selon M. Farrell, les travaux concernant l’immeuble n’ont pas été en grande partie achevés avant le printemps 2001 puisqu’une fois que les premiers locataires ont déménagé dans l’immeuble (octobre 2000), il restait encore des travaux à effectuer : installer la moquette dans les entrées, peinturer les étages inférieurs et les puits d’escalier, installer les dispositifs de contrôle, terminer les entrées. Dans son témoignage, M. Price a mentionné que l’intimée avait jugé que les travaux concernant l’immeuble étaient en grande partie achevés en octobre 2000 sur la foi de renseignements obtenus de tiers, soit l’entrepreneur, Alpha Prime, la ville de Spruce Grove et Meyers, Norris, Penny. M. Price a conclu qu’à la fin de 2000, l’appelante ne faisait que mettre la dernière main à l’immeuble. D’après lui, cet état de fait était confirmé par son chef d’équipe, lequel passait tous les jours devant l’immeuble en voiture. Aucun employé de l’entrepreneur général, Alpha Prime, n’est venu témoigner à l’audience.
+[17] M. Farrell a tenté de vendre l’immeuble avant que sa construction ne soit terminée. Il a inscrit l’immeuble en vente pour une somme de 8 000 000 $ pendant une période de trois mois à compter du 16 mars 2000. Aucun acheteur ne s’est manifesté et l’inscription a pris fin.
+[18] Pour le trimestre se terminant le 31 mars 2001, l’appelante a produit une déclaration de TPS dans laquelle elle a demandé un crédit de taxe sur les intrants de 372 000 $. À aucun moment en 2000, 2001 ou 2002 l’appelante n’a‑t‑elle produit une déclaration d’autocotisation conformément à l’article 191 de la Loi sur la taxe d’accise. Par une cotisation datée du 12 septembre 2003, le ministre a réclamé à l’appelante une taxe nette de 155 310,91 $ et des intérêts de 53 736,71 $ en vertu de l’article 280 de la Loi ; il lui a imposé une pénalité de 96 452,68 $ en vertu de l’article 280 de la Loi et une pénalité de 225 077,68 $[1] en vertu de l’article 285 de la Loi, selon les calculs suivants :
+[TRADUCTION]
+Taxe nette déclarée dans les déclarations
+(387 670,18 $)
+Taxe perçue/perceptible relativement à la fourniture de l’immeuble (en fonction d’une valeur de 7 350 000 $)
+514 500,00 $
+Autres redressements à la taxe perçue ou perceptible
+1 085,00 $
+Crédits de taxe sur les intrants refusés
+27 396,09 $
+Taxe nette établie selon la cotisation
+155 310,91 $
+[19] M. Price a témoigné pour le compte de l’ARC. Même s’il a longuement témoigné au sujet de sa vérification et de ses communications avec M. Farrell, les éléments pertinents de son témoignage se limitent à ce qui suit. M. Farrell a informé M. Price en 2003 du fait qu’il ne connaissait pas l’existence de l’exigence relative à l’autocotisation, que les logements ont d’abord été loués en 2001 et que les travaux de construction ont débuté après le 27 février 2000. M. Price a par la suite conclu que les premiers logements avaient été loués en 2000 et que les travaux de construction avaient commencé bien avant mars 2000.
+[20] Questions en litige
+(i) À quel moment les travaux relatifs à l’immeuble ont‑ils été en grande partie achevés pour l’établissement du délai applicable à la production d’une autocotisation suivant l’article 191 de la Loi?
+(ii) Quelle était la juste valeur marchande de l’immeuble au moment où les travaux ont été en grande partie achevés pour l’application des dispositions relatives à l’autocotisation prévues à l’article 191?
+(iii) L’appelante est‑elle passible de pénalités en application de l’article 285 de la Loi?
+(i) À quel moment les travaux relatifs à l’immeuble ont‑ils été en grande partie achevés pour l’établissement du délai applicable à la production d’une autocotisation suivant l’article 191 de la Loi?
+[21] L’appelante a soutenu qu’à la lumière du témoignage de M. Farrell, les travaux ont vraisemblablement été en grande partie achevés à la fin du printemps ou au début de l’été 2001. Malgré l’établissement d’une cotisation fondée sur des travaux en grande partie achevés en octobre 2000, l’intimée a admis que la preuve n’étayait pas cette thèse, mais plutôt celle voulant que les travaux aient été en grande partie achevés au début de 2001. L’intimée s’appuie sur les chiffres figurant dans les factures établies par Alpha Prime pour tirer cette conclusion. Je suis d’accord avec elle.
+[22] M. Farrell a témoigné au sujet des travaux qui n’avaient pas encore été effectués en octobre 2000. J’ai l’impression que ces travaux étaient importants, même si certains locataires avaient déjà emménagé dans l’immeuble. Pourtant, il ressort de la preuve documentaire, et principalement de l’historique de facturation d’Alpha Prime concernant les paiements proportionnels, que des travaux se chiffrant à 4 826 000 $ avaient été terminés à la fin de janvier 2001 et que les factures établies par la suite totalisaient 480 200 $. Cette preuve est convaincante. Sûrement davantage que le fait, par M. Price, d’avoir utilisé comme indice de l’avancement des travaux les passages quotidiens devant l’immeuble effectués par son chef d’équipe pour se rendre au travail. M. Farrell n’a pas été précis quant au calendrier des travaux qu’il restait à exécuter, mais son témoignage est sans aucun doute compatible avec le fait que des travaux importants avaient été réalisés en novembre et en décembre 2000 et en janvier 2001. Que restait‑il à faire après janvier? Selon les renseignements obtenus d’Alpha Prime, les travaux à exécuter s’élevaient à environ 500 000 $. Cela constitue à peu près 10 pour cent des coûts de construction. J’en conclus que l’immeuble était en grande partie achevé en janvier 2001.
+(ii) Quelle était la juste valeur marchande de l’immeuble au moment où les travaux ont été en grande partie achevés pour l’application des dispositions relatives à l’autocotisation prévues à l’article 191?
+[23] Il arrive souvent, dans les affaires d’évaluation, que les experts offrent des conclusions et des points de vue très différents, laissant au juge la tâche de choisir et de tirer, d’une façon ou d’une autre, le meilleur des rapports de manière à arriver à un résultat qui se situe à un point quelconque entre les valeurs avancées par les deux experts. Ce qui est remarquable en l’espèce, c’est la grande similitude que présentent non seulement les méthodes employées, mais également les conclusions tirées : les rapports sont pratiquement des doubles l’un de l’autre, même si l’un a été élaboré en 1999 afin d’établir une valeur en date d’octobre 1999 tandis que l’autre a été élaboré en 2003 afin d’établir une valeur en date d’octobre 2000. Cette situation témoigne clairement de l’habileté de ces deux évaluateurs de biens immobiliers chevronnés et donne à penser qu’il y a peut‑être lieu de considérer l’art de l’évaluation immobilière davantage comme une science.
+[24] Les deux rapports insistent sur la nature productive de revenu du bien. M. Dezman a conclu que seule la technique du revenu permet d’établir une valeur appropriée. M. Sliwkawich a conclu qu’il convient d’appliquer la méthode comparative directe en premier, mais qu’il faut apporter des redressements pour tenir compte de la technique du revenu et du coût. J’estime que, pour ce genre d’immeuble, la technique du revenu est effectivement la plus appropriée et que, si un quelconque redressement s’impose, il doit se fonder sur la méthode comparative directe et non sur la méthode du coût. Le fait d’apporter un redressement au titre du coût équivaut, il me semble, à confondre le revenu et le capital : l’évaluation doit se fonder sur l’un ou l’autre élément – le capital ou le revenu. Je ne puis accepter un redressement à la hausse, comme celui fait par M. Sliwkawich. Un redressement à la hausse de la somme de 6 950 000 $ obtenue par ce dernier à l’aide de la technique du revenu est peut‑être opportun à la lumière de la méthode comparative directe. J’estime toutefois que ce redressement ne pourrait entraîner une valeur plus élevée que la valeur de 7 050 000 $ obtenue par M. Dezman selon la technique du revenu, en particulier parce que l’immeuble comparable sur lequel M. Sliwkawich s’est le plus appuyé est situé dans un endroit sensiblement plus avantageux que l’immeuble en cause. Pour ces raisons, j’arrive à la conclusion que la somme de 7 050 000 $ constituerait la juste valeur marchande appropriée de l’immeuble, si celui‑ci avait été achevé en totalité.
+[25] Comme il est mentionné plus haut, cette valeur se fonde sur un immeuble d’habitation à logements multiples achevé en totalité et non sur un immeuble qui n’est pas en grande partie terminé. À la date où l’immeuble a été en grande partie achevé, quels travaux restaient‑ils à effectuer? Un acheteur disposé à payer 7 050 000 $ pour un immeuble d’habitation à logements multiples terminé en totalité paiera une somme moindre pour un immeuble qui nécessite des travaux additionnels. Aucune des évaluations n’aborde cette question, puisqu’elles supposent toutes deux que l’immeuble était terminé en totalité. L’appelante et l’intimée ont formulé des opinions différentes sur ce point. L’intimé a soutenu que l’approche appropriée consiste à établir, à la date où l’immeuble est en grande partie achevé, l’importance des travaux encore à effectuer et à déduire le coût de ces travaux de la juste valeur marchande d’un immeuble terminé. Si les travaux étaient en grande partie achevés en janvier 2001, la preuve laisse entendre qu’il restait des travaux d’environ 500 000 $ à faire et que la juste valeur marchande devrait donc être réduite en conséquence. L’appelante fait plutôt valoir que, selon l’article 191 de la Loi, l’autocotisation prend effet dès que les travaux sont en grande partie achevés et que, selon l’ARC et les cours de justice, les travaux sont en grande partie achevés lorsque 90 pour 100 d’entre eux sont terminés. L’appelante affirme donc que, peu importe les travaux devant réellement être effectués pour terminer le projet, il convient de déduire 10 pour 100 de la valeur estimative pour obtenir la juste valeur marchande appropriée d’un immeuble en grande partie achevé. Si on laisse de côté les calculs mathématiques complexes, cette méthode donnerait lieu à un redressement à la baisse d’environ 635 000 $.
+[26] L’autocotisation vise à obtenir la juste valeur marchande la plus exacte possible. S’appuyer sur un chiffre moyen de 90 pour 100 alors qu’il pourrait s’agir de 88 pour 100 des travaux dans un cas ou de 96 pour 100 dans un autre cas est totalement contraire à l’objet visé, à savoir déterminer la valeur le plus exactement possible. À mon sens, il est plus réaliste, dans les cas qui le permettent, de prévoir un redressement au titre du coût des travaux qu’il reste à effectuer. L’acheteur sans lien de dépendance d’un immeuble évalué à la somme de 7 050 000 $, une fois terminé, déduira de ce prix le coût des travaux nécessaires à son achèvement et non une somme arbitraire de 10 pour 100. En définitive, je préfère l’approche avancée par l’intimée. Je conclus donc que la juste valeur marchande pour l’application des dispositions de l’article 191 de la Loi se chiffrait à 6 550 000 $ (soit 7 050 000 $ moins 500 000 $).
+(iii) L’appelante est-elle passible de pénalités en application de l’article 285 de la Loi?
+[27] L’article 285 de la Loi est ainsi rédigé :
+285. Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, une demande, un formulaire, un certificat, un état, une facture ou une réponse – appelés « déclaration » au présent article – établi pour une période de déclaration ou une opération, ou y participe, y consent ou y acquiesce, est passible d’une pénalité de 250 $ ou, s’il est plus élevé, d’un montant égal à 25 % de la somme des montants suivants :
+a) si le faux énoncé ou l’omission a trait au calcul de la taxe nette de la personne pour une période de déclaration, le montant obtenu par la formule suivante :
+A - B
+où :
+A représente la taxe nette de la personne pour la période,
+B le montant qui correspondrait à la taxe nette de la personne pour la période si elle était déterminée d’après les renseignements indiqués dans la déclaration;
+b) si le faux énoncé ou l’omission a trait au calcul de la taxe payable par la personne, l’excédent éventuel de cette taxe sur le montant qui correspondrait à cette taxe si elle était déterminée d’après les renseignements indiqués dans la déclaration;
+c) si le faux énoncé ou l’omission a trait au calcul d’un remboursement prévu par la présente partie, l’excédent éventuel du remboursement qui serait payable à la personne s’il était déterminé d’après les renseignements indiqués dans la déclaration sur le remboursement payable à la personne.
+[28] Premièrement, les parties reconnaissent que les actes de procédure sont erronés en ce que les pénalités qui y sont énoncées sont trop élevées : compte tenu d’une juste valeur marchande de 7 350 000 $, les pénalités auraient dû s’élever à 128 625 $ plutôt qu’à 225 077 $.
+[29] Les parties ont semblé insister sur l’aspect lié à la faute lourde de la disposition en invoquant la décision Venne c. La Reine[2], de la Section de première instance de la Cour fédérale, laquelle permettrait d’orienter le débat sur la question de la distinction entre la faute lourde et la simple négligence. Or, la disposition prévoit également le cas de la personne qui, sciemment, fait une omission. À la lumière de la preuve dont je suis saisi, je ne puis que tirer la conclusion inévitable que l’appelante, par les actes de M. Farrell, savait qu’elle omettait d’effectuer une autocotisation, contrairement à l’article 191 de la Loi.
+[30] J’arrive à cette conclusion en m’appuyant sur les faits suivants :
+(i) C’est au début de l’an 2000 que M. Farrell a pour la première fois été informé par ses experts‑comptables, Meyers, Norris, Penny, de l’exigence relative à l’autocotisation prévue à l’article 191 en ce qui concerne les immeubles d’habitation à logements multiples. Cette information se rapportait expressément à l’immeuble en cause. L’appelante laisse entendre que je devrais accorder peu de poids à cette réunion parce que M. Llewellyn, dans son témoignage, a affirmé qu’il avait brièvement discuté de la question du remboursement avec M. Farrell, ce qu’il n’aurait pu faire puisque ce remboursement n’existait pas à ce moment. Cependant, j’estime que cela n’a pas d’incidence défavorable sur les témoignages de M. Llewellyn et de Mme Key voulant que des conseils relatifs à l’article 191 aient réellement été donnés à M. Farrell.
+(ii) M. Farrell a été informé de nouveau par ses experts‑comptables en mai 2001, après que l’immeuble eut été en grande partie achevé, de l’existence d’une exigence relative à l’autocotisation fondée sur la juste valeur marchande. L’expert en matière de TPS chez Meyers, Norris, Penny, M. Piekema, était présent à cette réunion.
+(iii) Ce renseignement a été confirmé par écrit par Meyers, Norris, Penny dans une lettre datée de juin 2001 (voir le paragraphe 12 des présents motifs).
+(iv) Dans la déclaration de TPS relative au premier trimestre de 2001, on a demandé un remboursement de 369 000 $.
+(v) Aucune autocotisation n’a été déclarée et, lorsque l’ARC a entrepris sa vérification au début de 2003, M. Farrell a affirmé qu’il ne savait pas qu’une autocotisation était nécessaire. À mon avis, la réponse donnée par M. Farrell n’est pas digne de foi. J’estime qu’il n’a pas été tout à fait franc dans ses relations avec l’ARC, ce qui, selon moi, a défavorablement influé sur sa crédibilité.
+[31] L’avocat de l’appelante a soutenu que le fait de considérer que la conduite de l’appelante suffisait à justifier des pénalités aux termes de l’article 285 revient à dire que les milliers d’entreprises qui, de façon habituelle, ne suivent pas les conseils de leurs experts‑comptables sont coupables de faute lourde, et donc passibles d’importantes pénalités. Il a laissé entendre que cette conclusion bouleverserait le commerce au Canada. Je rejette cette proposition spectaculaire. En réalité, il est même allé plus loin en laissant aussi entendre que les experts‑comptables n’avaient pas donné des renseignements complets et exacts à M. Farrell puisqu’ils ont omis de prendre les mesures suivantes :
+(i) donner expressément des instructions à leur client quant à la façon d’effectuer une autocotisation;
+(ii) confirmer de manière distincte le moment où l’immeuble en cause a été en grande partie achevé;
+(iii) établir que M. Farrell a, à un moment donné, inscrit le bien en vente et l’informer des conséquences d’une vente sur le plan de la TPS;
+(iv) rendre compte d’un éventuel assujettissement à la TPS de 500 000 $.
+[32] Je ne suis pas convaincu par cette vaillante tentative de l’appelante de rejeter la responsabilité sur ses conseillers professionnels. Ces derniers ont dit à M. Farrell qu’il serait tenu de procéder à une autocotisation et dans quelles circonstances. Ils l’ont invité à s’adresser directement à leur spécialiste en matière de TPS, mais il ne l’a pas fait. La responsabilité des conseillers professionnels ne s’étend pas au fait de remplir la formule de TPS et de tenir la main du client pour qu’il y appose sa signature.
+[33] M. Farrell a répondu qu’il n’avait pas autant confiance en ces experts‑comptables qu’en son ancien conseiller. En outre, il a allégué qu’il avait parlé à deux ou trois occasions à un représentant de l’ARC, M. Litwinowich, lequel travaillait au dossier touchant Alpha Prime, et qu’il s’attendait à de l’aide de sa part. Cette dernière allégation est difficile à accepter; il est fort douteux qu’un homme d’affaires expérimenté bénéficiant des services de conseillers professionnels aurait attendu des conseils d’un représentant de l’ARC qui travaillait au dossier d’un autre contribuable. Si la conduite de M. Farrell avait été irréprochable, j’aurais peut‑être ajouté foi, dans une certaine mesure, à cette assertion, mais sa conduite avec l’ARC laissait beaucoup à désirer. Son propre aveu selon lequel il a donné au représentant de l’ARC des réponses ayant en réalité pour effet d’obliger ce dernier à faire des recherches et à découvrir la vérité est des plus révélateurs. Manifestement, la rencontre entre M. Farrell et M. Price fut loin d’être courtoise. Mais, en agissant comme il l’a fait, M. Farrell a malheureusement soulevé de sérieux doutes, à mon avis, sur la franchise de ses réponses. C’est une leçon coûteuse pour M. Farrell. Comme son avocat l’a signalé, lorsqu’il est question de la pénalité prévue à l’article 285, c’est tout ou rien, et il s’agit effectivement d’une somme considérable. Il avance que la conduite de l’appelante ne justifie pas une pénalité aussi élevée. Je n’ai aucun pouvoir discrétionnaire en la matière, autre que d’avoir recours ou non à la pénalité – son montant est déjà prévu. Comme je conclus que M. Farrell savait qu’il omettait de procéder à une autocotisation relative à un montant considérable de TPS, je dois décider que la pénalité fixée à l’article 285 s’applique.
+[34] En conclusion, l’appel est accueilli et l’affaire est renvoyée au ministre compte tenu du fait que la juste valeur marchande de l’immeuble en cause au moment où il a été en grande partie achevé en janvier 2001 était de 6 550 000 $ et que l’appelante est passible des pénalités prévues à l’article 285 et calculées en conséquence.
+Signé à Toronto (Ontario), ce 10e jour de mars 2006.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 1er jour de juin 2007
+D. Laberge, LL.L.
+RÉFÉRENCE : 2006CCI152
+NO DU DOSSIER DE LA COUR : 2004-4062(GST)I
+INTITULÉ : Kimm Holdings Ltd. et
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Edmonton (Alberta)
+DATE DE L’AUDIENCE : Le 23 février et le 1er mars 2006
+MOTIFS DU JUGEMENT : L’honorable juge Campbell J. Miller
+DATE DU JUGEMENT : Le 10 mars 2006
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Gordon D. Beck
+Avocat de l’intimée :
+Me George F. Body
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Me Gordon D. Beck
+Cabinet : Field LLP
+Pour l’intimée : Me John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Les parties reconnaissent que cette somme inscrite dans les actes de procédure est erronée et qu’elle s’élève plutôt à 128 625,00 $.
+[2] [1984] A.C.F. no 314.

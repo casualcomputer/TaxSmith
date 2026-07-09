@@ -1,0 +1,290 @@
+---
+title: "Achilles Foot Clinic Ltd. c. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27263/index.do"
+last_modified: "2006-08-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 431"
+citation2: ""
+neutral_citation: "2006 CCI 431"
+decision_date: "2006-08-11"
+language: "fr"
+item_id: "27263"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 804
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:49:29.263000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "57400c1878b1ab46b45818acc73d6bad4182dfa627c7a8e7e5ea2779e5b3690b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Achilles Foot Clinic Ltd. c. M.N.R.
+
+- Citation: 2006 CCI 431
+- Decision date: 2006-08-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 804, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Achilles Foot Clinic Ltd. c. M.N.R.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-08-11
+Référence neutre
+2006 CCI 431
+Numéro de dossier
+2005-2203(EI)
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2005-2203(EI)
+ENTRE :
+ACHILLES FOOT CLINIC LTD.,
+appelante,
+Et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+FRAOCH HEATHER WARDEN,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+_______________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+Achilles Foot Clinic Ltd. (2005-3132(CPP) le 2 juin et le 26 juin 2006,
+à Winnipeg (Manitoba).
+Devant : L’honorable juge Diane Campbell
+Comparutions :
+Représentant de l’appelante :
+M. Stephen Waller
+Avocat de l’intimé :
+Pour l’intervenante :
+Me Julien Bedard
+L’intervenante elle-même
+_______________________________________________________________
+JUGEMENT
+L’appel est accueilli et la décision du ministre est annulée conformément aux motifs du jugement ci‑joints.
+Signé à Fredericton (Nouveau-Brunswick), ce 11e jour d’août 2006.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 10 jour de mars 2008.
+D. Laberge, LL.L.
+Dossier : 2005-3132(CPP)
+ENTRE :
+ACHILLES FOOT CLINIC LTD.,
+appelante,
+Et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+FRAOCH HEATHER WARDEN,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+_______________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+Achilles Foot Clinic Ltd. (2005-2203(EI) le 2 juin et le 26 juin 2006,
+à Winnipeg (Manitoba).
+Devant : L’honorable juge Diane Campbell
+Comparutions :
+Représentant de l’appelante :
+M. Stephen Waller
+Avocat de l’intimé :
+Pour l’intervenante :
+Me Julien Bedard
+L’intervenante elle‑même
+_______________________________________________________________
+JUGEMENT
+L’appel est accueilli et la décision du ministre est annulée conformément aux motifs du jugement ci‑joints.
+Signé à Fredericton (Nouveau-Brunswick), ce 11e jour d’août 2006.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 10e jour de mars 2008.
+D. Laberge, LL.L.
+Référence 2006CCI431
+Date 20060811
+Dossiers 2005-2203(EI)
+2005-3132(CPP)
+ENTRE
+ACHILLES FOOT CLINIC LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+FRAOCH HEATHER WARDEN,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Campbell
+[1] Les deux présents appels, qui ont été entendus sur preuve commune, découlent des décisions du ministre du Revenu national (le « ministre ») selon lesquelles la travailleuse intervenante exerçait un emploi assurable au sens de l’alinéa 5(1)a) de la Loi sur l’assurance‑emploi ainsi qu’un emploi ouvrant droit à pension au sens de l’alinéa 6(1)a) du Régime de pensions du Canada. La période visée par l’appel s’étend du 1er janvier 2003 au 12 mars 2004.
+[2] La question en litige est celle de savoir si les décisions rendues par le ministre relativement à la travailleuse sont fondées.
+[3] J’ai entendu le témoignage de Stephen Waller, directeur et président de la clinique podiatrique, de même que celui de Natalie Rodriguez, réceptionniste à la clinique, et de Heather Warden (anciennement Froach Heather Shepherd), la travailleuse et intervenante dans les présents appels. Le ministre s’est appuyé sur les 51 hypothèses de fait suivantes :
+(a) l’appelante exploitait une entreprise de podiatrie;
+(b) l’appelante exploitait son entreprise au sein d’une clinique du pied (ci‑après la « clinique »);
+(c) l’appelante a fait de la publicité et a obtenu des clients (ci‑après les « clients »);
+(d) la travailleuse a été engagée à titre de podiatre et ses fonctions englobaient les soins des pieds, la chirurgie aux ongles, la fabrication d’orthèses de même que certaines tâches liées à la réception;
+(e) l’appelante a initialement engagé la travailleuse pour une période indéterminée;
+(f) l’appelante et la travailleuse n’ont pas conclu de contrat écrit;
+(g) la travailleuse fournissait ses services aux clients existants de l’appelante de même qu’aux patients qui se présentaient sans rendez‑vous;
+(h) la travailleuse fournissait la plupart de ses services dans les locaux de l’appelante (la clinique);
+(i) la travailleuse faisait également des visites au domicile des clients;
+(j) la travailleuse touchait uniquement des commissions;
+(k) la travailleuse recevait les taux de commission suivants :
+50 pour 100 des honoraires pour les rendez‑vous à la clinique,
+70 pour 100 des honoraires pour les visites à domicile,
+17 pour 100 des honoraires pour l’orthétique;
+(l) l’appelante fixait les taux de rémunération de la travailleuse;
+(m) l’appelante fixait les honoraires facturés aux clients;
+(n) l’appelante payait la travailleuse au mois;
+(o) la travailleuse n’avait pas à présenter de soumissions pour obtenir du travail;
+(p) l’appelante décidait de tous les frais facturés aux clients;
+(q) l’appelante calculait la rémunération de la travailleuse et établissait une facture à son intention;
+(r) les heures normales de bureau de l’appelante étaient les suivantes :
+lundi au vendredi 9 h à 17 h
+samedi 9 h à 13 h;
+(s) la travailleuse travaillait à plein temps pour l’appelante;
+(t) la travailleuse travaillait habituellement selon l’horaire suivant :
+lundi et mardi 9 h ou 10 h à 17 h ou 18 h
+mercredi 12 h à 19 h
+jeudi et vendredi 9 h ou 10 h à 17 h ou 18 h;
+(u) l’appelante fixait les heures et les jours de travail de la travailleuse;
+(v) les heures de travail de la travailleuse étaient déterminées par les rendez‑vous des clients;
+(w) l’appelante fournissait les services d’une réceptionniste, laquelle était chargée de fixer les rendez‑vous des clients;
+(x) l’appelante conservait le droit d’exercer un contrôle sur la travailleuse;
+(y) la travailleuse a été engagée en raison de son expérience et de ses connaissances spécialisées;
+(z) la travailleuse n’était pas supervisée parce qu’il s’agissait d’une spécialiste;
+(aa) la travailleuse était tenue de se présenter à la clinique;
+(bb) l’appelante attribuait des clients à la travailleuse;
+(cc) l’appelante attribuait en outre à la travailleuse les clients qui se présentaient sans rendez‑vous;
+(dd) l’appelante surveillait la façon dont la travailleuse s’acquittait de ses fonctions à la lumière de la réaction des clients;
+(ee) la travailleuse s’occupait des patients de ses collègues lorsque ceux‑ci n’étaient pas libres;
+(ff) la travailleuse représentait l’appelante lorsqu’elle fournissait ses services;
+(gg) le nom de la travailleuse figurait sur la porte de la clinique et dans les publicités de l’appelante;
+(hh) les clients étaient ceux de l’appelante;
+(ii) les dossiers des clients appartenaient à l’appelante;
+(jj) la travailleuse ne travaillait pas pour d’autres personnes lorsqu’elle fournissait des services pour le compte de l’appelante;
+(kk) la travailleuse ne tentait pas d’obtenir des clients pour elle‑même;
+(ll) la travailleuse ne pouvait engager des assistants ou un remplaçant;
+(mm) la travailleuse ne pouvait aller et venir à sa guise lorsque des rendez‑vous étaient fixés;
+(nn) l’appelante fournissait l’ensemble des instruments et du matériel nécessaires, y compris un lieu de travail meublé, du personnel de soutien et le matériel de fabrication des orthèses;
+(oo) la travailleuse fournissait son propre véhicule;
+(pp) la travailleuse n’a pas investi de capitaux dans l’entreprise;
+(qq) l’appelante payait tous les frais d’exploitation de la clinique;
+(rr) l’appelante fournissait tout le matériel et toutes les fournitures nécessaires;
+(ss) la travailleuse engageait des frais au titre de son propre véhicule, de son permis d’exercice de la podiatrie et de son assurance responsabilité;
+(tt) la travailleuse ne louait pas d’instruments ni de matériel de l’appelante et elle ne payait pas pour les services de la réceptionniste;
+(uu) il n’y avait pas de possibilité de profit ni de risque de perte pour la travailleuse;
+(vv) la travailleuse n’avait pas de nom commercial propre;
+(ww) la travailleuse n’exploitait pas sa propre entreprise lorsqu’elle fournissait des services à l’appelante;
+(xx) l’appelante s’est initialement engagée à fournir du travail à la travailleuse dans le cadre de l’immigration de cette dernière de la Grande-Bretagne au Canada;
+(yy) la venue de la travailleuse au Canada était conditionnelle à l’obtention d’un emploi à plein temps.
+Le témoignage de Stephen Waller
+[4] L’appelante poursuit des activités dans le domaine de la podiatrie depuis 1989 et elle exploite une clinique de soins des pieds à Winnipeg. La travailleuse est praticienne et elle travaillait à la clinique à titre de podiatre. Elle a remplacé une praticienne indépendante qui travaillait à la clinique depuis huit ans et qui a ensuite quitté son emploi pour prendre un congé de maternité. La travailleuse s’est donc occupée des patients existants de cette dernière. Selon M. Waller, la travailleuse était une entrepreneuse indépendante qui avait toute latitude pour mener sa pratique comme elle l’entendait. Aucun contrat écrit ne liait les parties.
+[5] Dans son témoignage, M. Waller a mentionné que la travailleuse choisissait ses heures de travail à la clinique. Il a ajouté qu’elle prenait des congés à sa guise et que, pendant sa première année à la clinique, elle avait pris sept semaines de congé, y compris des vacances au Mexique peu de temps après le début de son emploi. Il a produit les carnets de rendez‑vous de la travailleuse pour 2003 et 2004 (pièces A‑1 et A‑2) afin d’illustrer le degré de souplesse et de contrôle dont bénéficiait la travailleuse quant à ses heures de travail. Certaines des directives à l’intention du personnel qui figurent dans ces carnets, et qui selon M. Waller ont été écrites de la main de la travailleuse, montrent que cette dernière donnait au personnel des instructions relatives aux heures où elle souhaitait que les rendez‑vous des patients soient fixés de même qu’aux périodes où elle souhaitait prendre des congés. Il a en outre avancé que, contrairement à l’allégation de la travailleuse, ces carnets établissent que la clinique n’était pas fermée pendant deux semaines au cours des vacances de Noël et que ces semaines ne faisaient donc pas partie d’une fermeture obligatoire des bureaux pour la période des Fêtes. De plus, il a mentionné que la travailleuse prenait souvent des congés sans demander la permission de quiconque à la clinique, même si elle a affirmé qu’elle travaillait tous les jours de 9 h à 17 h, sauf les mercredis, où elle travaillait de 12 h à 19 h. M. Waller a soutenu que ces documents montraient qu’elle travaillait uniquement si des patients avaient un rendez‑vous et qu’elle quittait la clinique une fois le dernier patient parti.
+[6] Dans son témoignage, M. Waller a déclaré que la travailleuse dirigeait les patients vers d’autres entreprises pour l’achat de produits qui n’étaient pas vendus à la clinique. Elle utilisait en outre une pommade appelée Bag Balm, que la clinique ne vendait pas non plus. M. Waller a mentionné que la travailleuse se chargeait de la vente des produits et que, conformément à une entente qu’elle avait conclue avec le magasin Running Room, elle vendait les semelles et les orthèses de ce commerce à partir de la clinique. De surcroît, elle mettait à la disposition des patients des brochures concernant des souliers qui n’étaient pas vendus à la clinique ainsi que des cartes professionnelles d’autres spécialistes ne travaillant pas à la clinique. Selon M. Waller, il ressort de ce qui précède que la travailleuse n’était pas tenue de vendre les produits Achilles et qu’elle dirigeait des patients vers des sources extérieures.
+[7] M. Waller a précisé que la travailleuse fournissait une partie du matériel et des instruments nécessaires à son travail, tandis que d’autres instruments étaient fournis par la clinique. La travailleuse s’est chargée de la décoration de son bureau. Elle utilisait son propre véhicule et son propre carburant pour effectuer les visites à domicile. C’est elle qui payait les frais relatifs aux cours de perfectionnement, à la délivrance de permis et à l’assurance responsabilité. Même s’il lui était loisible de bénéficier du régime de soins médicaux, elle a choisi de ne pas y participer. Elle a également modifié ses cartes professionnelles et tenté de se bâtir une clientèle à l’aide de sa propre publicité. Le seul contrôle exercé sur la travailleuse découlait des mesures réglementaires imposées par le College of Podiatrists. On lui attribuait des patients uniquement pour que ces derniers puissent obtenir un rendez‑vous à la date et à l’heure qui leur convenaient. Elle refusait qu’une autre personne de la clinique traite ses patients. La clinique ne surveillait pas la façon dont la travailleuse s’acquittait de ses fonctions, mais il arrivait parfois que des patients formulent des observations concernant l’un ou l’autre des praticiens. D’après M. Waller, la travailleuse n’était pas présentée au grand public comme un membre de la clinique; elle se représentait elle‑même. Elle pouvait travailler pour un tiers en plus du travail qu’elle accomplissait pour l’appelante et elle pouvait engager quelqu’un pour l’aider à la clinique.
+[8] Selon l’entente intervenue entre la clinique et la travailleuse, cette dernière recevait 50 pour 100 du prix payé par les patients pour les visites à la clinique, 70 pour 100 du prix payé pour les visites à domicile et 17 pour 100 des sommes reçues au titre des orthèses. À la fin du mois, on faisait le total et un montant brut était payé par chèque à la travailleuse. Aucune somme n’était retenue. Elle ne recevait pas des commissions; elle payait plutôt sa part des frais généraux de la clinique et des services de réception en versant à la clinique une part du revenu qu’elle gagnait. Le revenu total de la travailleuse était payé directement à la clinique par les patients à la demande de la travailleuse, sous réserve des honoraires exigés pour les visites à domicile, lesquels lui étaient versés directement par les patients. M. Waller supposait que la travailleuse avait probablement demandé à la clinique de recouvrer les paiements de cette façon parce que l’établissement disposait du matériel nécessaire pour traiter les cartes de débit et de crédit. Contrairement à ce qu’avance la travailleuse, on ne lui a pas retiré des patients, leur nombre a plutôt diminué au fil du temps à cause de son manque de disponibilité.
+[9] Lorsqu’il a examiné les hypothèses, M. Waller a contesté l’emploi du terme [traduction] « commissions » aux alinéas (j) et (k). Il a soutenu que la proportion des honoraires versée à la clinique correspondait à la contribution de la travailleuse aux frais généraux. Il a donné des précisions sur l’alinéa (g) en signalant que les patients existants étaient ceux de la personne remplacée par la travailleuse. Il a nié l’alinéa (l) parce que les taux de pourcentage avaient été fixés d’un commun accord. Quant à l’hypothèse (m), il a précisé que c’était le College of Podiatrists et non la clinique qui établissait les tarifs demandés aux patients. Il a contesté l’hypothèse (p) selon laquelle la clinique décidait des honoraires réclamés aux patients. Il a ajouté que ces honoraires étaient fixés par le collège et que ce sont les honoraires que réclamait la travailleuse. Il a contesté l’alinéa (q) parce que, de façon générale, c’est la travailleuse qui calculait son propre revenu. Il a contesté les alinéas (r), (s) et (t) parce que la travailleuse ne travaillait pas selon les heures de bureau normales et que ses heures de travail étaient plutôt fonction des rendez‑vous pris par ses propres patients. Il a contesté les alinéas (u) et (x) parce que la travailleuse fixait ses propres heures de travail et que le seul contrôle exercé à son endroit découlait des règles établies par le collège et non de l’appelante. Quant à l’alinéa (aa), il a mentionné que rien n’empêchait la travailleuse de travailler ailleurs. Il a contesté l’alinéa (bb) parce que les patients dont s’occupait la travailleuse étaient en réalité des patients existants de la personne qu’elle a remplacée. Les seuls patients dirigés vers la travailleuse étaient ceux qui voulaient obtenir un rendez‑vous à une date et à une heure précises qui coïncidaient avec un moment où la travailleuse était libre ou ceux qui demandaient expressément un rendez‑vous avec elle. En général, la clinique ne surveillait pas la façon dont la travailleuse s’acquittait de ses fonctions (alinéa (dd)) puisqu’on ne parlait pas aux patients lorsqu’ils quittaient la clinique. Il a contesté l’alinéa (ff) parce que la travailleuse se représentait elle‑même à titre de spécialiste dans son domaine et qu’elle ne représentait pas la clinique. En ce qui touche les alinéas (hh) et (ii), les dossiers des patients appartenaient à ces derniers et non à l’appelante ou à la travailleuse. Lorsque la travailleuse a quitté la clinique, elle a emporté les dossiers de certains patients, mais la clinique les a récupérés par la suite. Il a contesté l’alinéa (jj) parce que la travailleuse pouvait travailler ailleurs tout en continuant d’exercer ses fonctions à la clinique et que, contrairement à ce qui est allégué à l’alinéa (kk), elle obtenait des patients pour elle‑même par l’entremise de relations extérieures. Quant à l’alinéa (ll), la travailleuse avait la possibilité d’engager des remplaçants. Même si cette question n’a jamais vraiment été soulevée, la travailleuse, lorsqu’elle a pris un congé de maternité, a demandé à ce qu’on ne la remplace pas pendant son absence. En théorie, la travailleuse avait toute latitude pour aller et venir à sa guise (alinéa (mm)) mais, en qualité de spécialiste, elle ne laisserait pas tomber un patient. Il a soutenu qu’elle fournissait une partie de son matériel, qu’elle avait décoré son bureau, qu’elle utilisait sa propre automobile et payait son propre carburant, et qu’elle mettait à la disposition des patients, dans son bureau à la clinique, des brochures et les cartes professionnelles d’autres personnes. En qui concerne les alinéas (qq) et (tt), la travailleuse payait une partie des frais de bureau, y compris les services de la réceptionniste, suivant l’entente de partage du revenu. Il a en outre contesté l’alinéa (uu) et signalé que la travailleuse fixait le montant de son revenu en décidant du nombre de patients qu’elle traitait. Si elle avait fait l’objet de poursuites judiciaires, elle aurait été poursuivie à titre personnel puisqu’elle détenait sa propre police d’assurance. Quant à l’alinéa (vv), la travailleuse faisait en réalité affaire sous son propre nom commercial. Il a contesté l’alinéa (xx) et déclaré que l’appelante n’avait pas fait venir la travailleuse d’Angleterre pour travailler à la clinique puisque la travailleuse vivait déjà à Winnipeg, où elle travaillait pour une autre clinique, lorsqu’elle a noué une relation avec la clinique appelante.
+[10] Au cours de son contre‑interrogatoire, M. Waller, renvoyant au questionnaire (pièce R‑1), a mentionné que la personne remplacée par la travailleuse rendait service aux patients qui ne pouvaient venir à la clinique durant les heures normales de bureau en les recevant les mercredis soirs. La travailleuse a continué cette pratique. Elle présentait une facture à la clinique afin qu’on lui verse sa part du revenu tiré des honoraires qu’elle avait facturés. Comme les patients réglaient leur facture à la clinique, celle‑ci payait la travailleuse à la fin de chaque mois tout en retenant la proportion du revenu devant couvrir la part de cette dernière aux frais de bureau. Quant à la question 20, à la page 6 du questionnaire, M. Waller a affirmé que, selon lui, le terme [traduction] « instruments » n’englobait pas les petits instruments que la travailleuse apportait à la clinique. Il a fourni des précisions au sujet de la question 30, à la page 7. Il a affirmé que la travailleuse n’avait donné aucun préavis de départ à la clinique, ce qui aurait été apprécié. Cependant, il n’estimait pas que la travailleuse était tenue de donner un tel préavis puisqu’il n’y avait aucun contrat écrit et qu’elle n’était pas une employée.
+Le témoignage de Natalie Rodriguez
+[11] Mme Rodriguez est réceptionniste à la clinique depuis mai 2003. Dans son témoignage, elle a mentionné qu’habituellement, les patients téléphonent pour prendre rendez‑vous et que, s’ils précisent quel praticien ils souhaitent rencontrer, elle se conforme à leur demande dans la mesure où ce praticien est disponible. Lorsqu’il s’agit de nouveaux patients, elle leur donne un rendez‑vous avec le praticien disponible. De façon générale, très peu de patients se présentaient sans rendez‑vous. Elle a signalé que la travailleuse avait un agenda, qu’elle suivait ses propres rendez‑vous et qu’elle l’informait des jours où elle décidait de prendre un congé. Seule la réceptionniste était informée des congés que s’octroyait la travailleuse. Selon Mme Rodriguez, la travailleuse ne restait pas à la clinique jusqu’à sa fermeture, mais uniquement jusqu’à ce qu’elle en ait terminé avec son dernier patient. Lorsque des patients appelaient à la clinique pour demander qu’on les visite à leur domicile, elle informait la travailleuse et c’est cette dernière qui lui faisait part de la date et de l’heure du rendez‑vous. Elle ne pouvait fixer un rendez‑vous à un patient sans d’abord vérifier auprès de la travailleuse. Il arrivait que la travailleuse refuse le rendez‑vous et dirige le patient vers une autre clinique. Mme Rodriguez a également affirmé que, parfois, la travailleuse devançait ou reportait des rendez‑vous déjà fixés. Elle ne se souvenait pas d’une occasion où des patients auraient été retirés à la travailleuse. Cette dernière recommandait des produits qui n’étaient pas vendus à la clinique. Mme Rodriguez se souvenait d’avoir commandé des fournitures à la demande de la travailleuse sans avoir jamais demandé la permission de quiconque à la clinique avant de donner suite à la commande. Elle a également déclaré qu’elle avait aidé la travailleuse à modifier le logo figurant sur sa carte professionnelle. Mme Rodriguez a mentionné que, même si c’est la travailleuse qui établissait les cartes de facturation des patients (pièce A‑5), ces documents lui étaient familiers puisqu’ils reflétaient les renseignements consignés dans les livres de la clinique. Mme Rodriguez a reconnu qu’elle avait établi les sommes totales dues par les patients (pièce A‑7) pour la période allant de janvier à mai 2003 à partir des sommes totales consignées par une ancienne réceptionniste et que certaines de ces sommes avaient été inscrites au crayon et non au stylo à bille. Cependant, elle a ajouté qu’elle aurait su si les sommes avaient été modifiées.
+[12] Pendant son contre‑interrogatoire par l’avocat de l’intimé, Mme Rodriguez a reconnu que certaines mentions figurant dans la pièce A‑5 ne semblaient pas avoir été écrites de la main de la travailleuse. Elle a en outre confirmé qu’elle consignait les paiements versés par les patients pour que la clinique puisse ensuite payer la travailleuse à la fin du mois.
+Le témoignage de Heather Warden (la travailleuse)
+[13] Selon le témoignage de la travailleuse, elle a demandé qu’un contrat écrit soit signé lorsqu’elle a commencé à travailler à la clinique, mais sa demande a été refusée. Elle travaillait auparavant à une autre clinique à titre d’employée et elle a quitté cet endroit après vingt mois pour se joindre à la clinique de l’appelante. Elle a déclaré qu’elle avait besoin d’une offre d’emploi pour obtenir une autorisation d’emploi au Canada (pièce R‑10) et que cette autorisation était essentielle pour lui permettre de travailler à la clinique. Elle a ajouté que le ministère de l’Immigration exigeait en outre une lettre (pièce R‑9) de la clinique confirmant l’emploi. Dans son témoignage, elle a mentionné qu’elle avait accompagné Stephen Waller à deux occasions distinctes aux bureaux de son député afin d’obtenir de l’aide pour que sa demande d’autorisation de travail soit traitée rapidement. Elle s’est mariée en 2002 et elle ne voulait pas commencer à travailler pour la clinique avant d’obtenir son autorisation de travail pour ne pas nuire au processus d’immigration. M. Waller a nié avoir fait ces visites. Selon le témoignage de la travailleuse, lorsqu’elle a commencé à travailler à la clinique, elle croyait qu’elle était une employée, comme c’était le cas lorsqu’elle travaillait pour l’autre clinique. Des difficultés sont survenues en février 2004 lorsqu’elle a demandé un feuillet T4 et que M. Waller lui a dit qu’elle ne travaillait pas à titre d’employée. Après avoir rencontré plusieurs membres du personnel de DRHC et reçu des réponses insatisfaisantes, elle a simplement décidé de laisser faire.
+[14] Mme Warden a comparé son précédent travail dans une clinique canadienne où elle était une employée au travail qu’elle accomplissait à la clinique Achilles. Ses fonctions et ses responsabilités étaient les mêmes aux deux cliniques, elle avait le même genre de patients, tous les instruments et tout le matériel étaient fournis par les cliniques, elle effectuait des visites à domicile, et elle payait ses propres frais d’assurance et de permis d’exercice. La clinique où elle exerçait antérieurement un emploi lui versait cinquante pour cent des honoraires qu’elle facturait aux patients, ce qui, selon ses dires, est pratique courante au sein de cette profession. Cependant, elle recevait des feuillets T4 de son ancienne clinique, mais pas de l’appelante.
+[15] La clinique recevait tous les honoraires facturés et elle remboursait chaque mois à la travailleuse la part qui lui revenait. La clinique offrait aux patients la possibilité de payer par cartes de débit ou de crédit. Les rendez‑vous étaient la plupart du temps fixés par la réceptionniste en fonction des besoins des patients, et non de sa disponibilité. Elle a également signalé qu’elle n’avait pas pris tous les jours de congé que M. Waller lui avait proposé de prendre. Il est arrivé que Mme Redband, également praticienne à la clinique, lui propose d’utiliser certains congés fériés pour des journées où elle n’avait qu’un ou deux rendez‑vous, et que Mme Redband se charge elle‑même de ces rendez‑vous. Elle a en outre contesté l’allégation voulant qu’elle n’informe pas la clinique de ses congés, et affirmé qu’elle avisait soit M. Waller, soit Mme Redband.
+[16] Mme Warden a donné des précisions au sujet des hypothèses de fait suivantes :
+(f) elle a mentionné qu’elle avait dès le début demandé un contrat, mais que cela lui avait été refusé;
+(h) le travail effectué à la clinique était accompli sous la direction des responsables de l’appelante, à l’aide du matériel et des produits de la clinique et les rendez‑vous des patients étaient fixés par Natalie Rodriguez;
+(m) elle a précisé le témoignage de M. Waller touchant cette hypothèse lorsqu’elle a déclaré que la Podiatry Society établissait des lignes directrices, mais que c’était l’appelante qui fixait les tarifs proprement dits;
+(q) Mme Warden n’établissait jamais les factures destinées aux patients et elle a ajouté que la pièce A‑5 (factures à l’intention des patients) n’était pas écrite de sa main;
+(v) initialement, les heures qu’elle travaillait étaient fonction des rendez‑vous des patients, mais lorsque leurs relations de travail ont commencé à se dégrader, M. Waller lui a demandé de rester à la clinique après le départ de son dernier patient pour qu’elle se charge des patients sans rendez‑vous;
+(x) elle a soutenu que M. Waller avait menacé à la fois son emploi et celui de Natalie Rodriguez;
+(aa) elle a affirmé qu’elle offrait spontanément des renseignements au sujet des patients et que, de plus, M. Waller observait les patients pour connaître leurs réactions;
+(cc) elle a signalé que M. Waller se contredisait sur ce point lorsqu’il a initialement déclaré qu’aucun patient ne se présentait sans rendez‑vous pour ensuite dire qu’il y en avait quelques‑uns qui le faisaient;
+(ee) en réalité, il lui arrivait de remplacer Mme Redband lorsque cette dernière n’était pas en mesure de travailler à différentes occasions en raison de blessures;
+(ff) elle faisait la promotion de la clinique dans le cadre de ses relations avec les patients et le nom de l’appelante figurait sur ses cartes professionnelles et les documents remis aux patients;
+(ii) elle n’a pas emporté des dossiers de patients puisqu’elle savait qu’ils appartenaient à ces derniers et elle a retourné les quelques dossiers qui étaient en sa possession lorsqu’elle a quitté la clinique;
+(ll) lorsqu’elle est partie en congé de maternité, elle a offert le nom de personnes susceptibles de la remplacer;
+(nn) et (rr) la clinique fournissait l’ensemble des instruments et du matériel puisqu’elle n’a jamais elle‑même été propriétaire de tels biens;
+(oo) elle fournissait son propre véhicule, tout comme elle l’avait fait dans le cadre de son emploi antérieur;
+(qq) elle a mentionné que M. Waller assumait toutes les dépenses liées à la clinique;
+(ss) elle payait également pour ces éléments dans le cadre de son emploi antérieur, où la clinique l’avait embauchée à titre d’employée;
+(vv) elle n’a enregistré aucun nom commercial et n’a jamais exercé des activités sous son propre nom.
+[17] Lorsqu’elle a donné des précisions quant à chacune des factures remises aux patients et produites sous la pièce A‑8, Mme Warden a déclaré qu’elle conseillait aux patients d’obtenir le produit Super Feel d’autres sources s’ils ne pouvaient s’offrir les produits vendus par la clinique. Elle a également ajouté que certaines mentions concernant des patients qu’elle a dirigés vers d’autres cliniques n’étaient pas écrites de sa main et qu’elle n’avait jamais pris les mesures qui y étaient énoncées.
+[18] Pendant son contre‑interrogatoire par M. Waller, Mme Warden a affirmé qu’elle ne savait pas que la personne qu’elle avait remplacée travaillait à la clinique à titre d’entrepreneuse indépendante. Elle a confirmé qu’elle payait tous les ans ses propres frais annuels de 1 500 $ et son assurance responsabilité d’environ 1 000 $. L’appelante lui a offert un régime de soins médicaux comprenant une protection en cas d’invalidité, ce qu’elle a refusé parce qu’elle était couverte par le régime de son mari. Elle a confirmé qu’elle recevait le pourcentage convenu des honoraires facturés au patient uniquement lorsque celui‑ci acquittait une facture. Elle supposait qu’en cas de non‑paiement, elle aussi aurait subi une perte. Elle a confirmé qu’elle mettait à la disposition des clients des brochures concernant au moins un produit vendu ailleurs qu’à la clinique ainsi que des dépliants relatifs aux services proposés par un massothérapeute qui lui adressait aussi des patients. Elle a reconnu que, si ces patients venaient à la clinique, elle bénéficiait de la répartition en pourcentage. Elle a confirmé qu’elle gagnait environ 55 000,00 $ par année avec son salaire et les gratifications qu’elle recevait dans le cadre de son emploi antérieur, et que cette somme faisait l’objet de diverses retenues salariales, y compris les primes au titre de l’assurance‑emploi et du régime de pensions du Canada. À la clinique de l’appelante, elle a reçu environ 55 000,00 $ en 2003 par suite de la répartition en pourcentage, mais aucune retenue salariale n’a été déduite. Dans son témoignage, elle a affirmé qu’elle ne s’était pas inquiétée de cette situation parce que M. Waller lui avait dit qu’il allait [traduction] « s’en occuper ». Elle a également déclaré pendant le contre‑interrogatoire que la clinique exerçait un contrôle à son égard puisque celle‑ci donnait à la réceptionniste des instructions quant aux patients qu’elle recevrait et aux dates des rendez‑vous. Même si Mme Warden a soutenu que des patients avaient été retirés de sa liste en juin 2003, elle a confirmé que sa part de la répartition en pourcentage pour ce mois avait été la plus élevée de toute l’année 2003. Mme Warden a également mentionné que l’appelante décidait des patients qu’elle recevait puisque la clinique attribuait les patients au praticien approprié. Elle a toutefois reconnu que, si le lieu d’un rendez‑vous était trop éloigné de la ville et qu’elle ne voulait pas s’y rendre, elle avait la possibilité de diriger le patient vers une clinique entièrement différente. Elle a en outre admis que, si un patient demandait un rendez‑vous à une date et à une heure données, elle pouvait proposer un autre moment qui lui convenait davantage.
+[19] Lorsque l’avocat de l’intimé l’a interrogée, Mme Warden a affirmé qu’elle avait bien produit ses déclarations de revenus pour l’année d’imposition 2003 à titre de travailleuse indépendante, qu’elle avait utilisé son revenu d’entreprise brut et effectué quelques déductions relatives à l’assurance et aux frais versés à des associations professionnelles. Elle a produit des déclarations à ce titre parce qu’elle estimait n’avoir pas d’autre choix et qu’on avait refusé de lui remettre un feuillet T4. Elle a également précisé son témoignage précédent concernant sa crainte d’être expulsée en raison de son permis de travail lorsqu’elle a déclaré qu’elle ne craignait pas vraiment d’être expulsée puisque son mari la parrainait. Elle voulait simplement faire les choses comme il se doit. Quant aux heures travaillées à la clinique, elle a mentionné qu’elle vérifiait soit avec M. Waller, soit avec Mme Redband, puis qu’elle inscrivait ses heures dans le registre de la clinique. Elle en informait la réceptionniste ultérieurement. Cependant, elle a effectivement précisé que, lorsqu’elle prenait des congés, elle avait toujours l’autorisation de le faire.
+Analyse
+[20] Pour décider si la travailleuse est une entrepreneuse indépendante ou une employée de l’appelante, je dois examiner les faits en l’espèce à la lumière du critère à quatre volets énoncé dans l’arrêt Wiebe Door Services Ltd. c. M.R.N., [1986] 3 C.F. 553 (C.A.F.). Les quatre facteurs sont les suivants : le degré de contrôle, l’outillage, la possibilité de profit et le risque de perte. Selon la jurisprudence des dernières années, le facteur de l’intégration ne joue plus qu’un rôle secondaire. On s’y intéresse parfois lorsqu’il est question des autres facteurs et qu’il faut se demander, après avoir examiné tous les faits de l’affaire, « à qui appartient l’entreprise? à l’appelant ou au travailleur? » Il n’existe aucun critère unique et déterminant à appliquer et souvent, pour parvenir à une décision, un ou plusieurs facteurs peuvent être neutres tandis que les autres éléments, à la lumière de la preuve produite, revêtent une importance prépondérante pour tirer une conclusion définitive. Il faut toujours tenir compte de l’ensemble de la relation liant les parties bien que les facteurs puissent être examinés de façon distincte au moment d’apprécier la preuve. Dans des décisions récentes, les tribunaux ont également commencé à tenir compte de l’intention des parties (The Royal Winnipeg Ballet v. M.R.N., 2006 C.A.F. 87). Cependant, je ne crois pas que l’examen de la question de l’intention serait utile en l’espèce puisque le témoignage des parties laisse penser qu’il n’y a jamais eu d’entente profonde sur ce point.
+Contrôle
+[21] Selon le témoignage de M. Waller, la travailleuse choisissait les heures pendant lesquelles elle travaillait à la clinique et elle faisait le suivi de ses propres rendez‑vous. De plus, elle fixait ses vacances sans consulter quiconque et, pendant sa première année à la clinique, elle a pris sept semaines de congé. Dans son témoignage, Mme Warden a affirmé exactement le contraire. Elle a déclaré que la réceptionniste fixait tous ses rendez‑vous en fonction des besoins des patients. Elle a en outre mentionné qu’elle avisait Mme Redband ou M. Waller lorsqu’elle prenait des vacances et qu’elle n’avait pas utilisé tous les jours de congé que lui avait proposés M. Waller. Toutefois, suivant le témoignage de Natalie Rodriguez, la réceptionniste, Mme Warden tenait son propre agenda et faisait le suivi de ses propres rendez‑vous. Lorsque des patients appelaient, leur rendez‑vous était pris avec le praticien qu’ils demandaient. Elle a également affirmé que la travailleuse informait seulement la réceptionniste lorsqu’elle prenait des congés. De surcroît, Mme Rodriguez a confirmé le témoignage de M. Waller voulant que la travailleuse quitte la clinique dès le départ de son dernier patient. Elle a aussi affirmé qu’il arrivait parfois que la travailleuse devance ou reporte ses propres rendez‑vous. Mme Rodriguez a de plus confirmé le témoignage de M. Waller selon lequel la travailleuse recommandait à ses patients des produits que la clinique ne vendait pas. De fait, la travailleuse a reconnu qu’elle pouvait mettre à la disposition des clients des brochures de produits non vendus par la clinique. Mme Rodriguez se souvenait également d’avoir commandé des fournitures à la demande de la travailleuse sans avoir au préalable vérifié auprès de quiconque à la clinique. Même si, dans son témoignage, la travailleuse a déclaré que l’appelante exerçait un contrôle relativement aux patients qu’elle recevait parce que la clinique dirigeait les patients vers le praticien approprié, elle a admis que, si le patient demandait un rendez‑vous à un moment qui ne lui convenait pas, elle avait la possibilité de fixer un autre rendez‑vous. Elle a aussi reconnu qu’elle avait toute latitude pour refuser des visites à domicile, si cela nécessitait qu’elle s’éloigne trop de la ville, et pour diriger ces patients vers une autre clinique. M. Waller et la travailleuse ont rendu des témoignages contradictoires sur bon nombre d’autres faits touchant les cartes professionnelles, les dossiers des patients et le permis de travail de la travailleuse. Toutefois, la réceptionniste a également corroboré le témoignage de M. Waller selon lequel la travailleuse venait à la clinique avec ses propres cartes professionnelles et elle a confirmé avoir aidé la travailleuse à modifier le logo figurant sur les cartes. Même si la travailleuse a affirmé dans son témoignage que ses cartes portaient le nom de la clinique, je ne crois pas qu’il s’agisse d’un fait inhabituel puisqu’elle devait bien préciser l’endroit où elle recevait ses patients. Elle faisait sa propre publicité, elle payait ses propres frais de permis d’exercice et elle avait la possibilité de ne pas participer au régime de soins médicaux de la clinique. Elle payait aussi sa propre assurance responsabilité. Malgré les témoignages fort contradictoires des parties, la réceptionniste a néanmoins confirmé en grande partie le témoignage de M. Waller et son propre témoignage a résisté au contre‑interrogatoire. De plus, certains des autres facteurs, à savoir le paiement des frais de permis d’exercice, d’assurance et de publicité, tendent à établir que l’appelante n’exerçait pas un contrôle sur la travailleuse. Je suis en outre saisie des propres admissions de cette dernière suivant lesquelles elle avait la possibilité de devancer ou de reporter ses rendez‑vous selon ses propres besoins, de refuser les visites à domicile et de diriger les patients vers une autre clinique. Le carnet de rendez‑vous confirme lui aussi que la travailleuse avait toute latitude pour donner au personnel des directives quant à ses rendez‑vous. J’estime que le facteur lié au contrôle joue sans aucun doute en faveur de la conclusion voulant que la travailleuse est une entrepreneuse indépendante.
+Outillage
+[22] Pendant son témoignage, M. Waller a affirmé que la travailleuse fournissait son propre véhicule et son propre carburant pour les visites au domicile des patients. La travailleuse a reconnu ce fait, mais elle a nié l’allégation de M. Waller voulant qu’elle ait fourni certains des instruments dont elle se servait à la clinique. Elle a déclaré que c’était la clinique qui lui fournissait tous les instruments et tout le matériel. Sur ce point également, je suis saisie de témoignages contradictoires, quoique, dans la plupart des relations entre un employeur et un employé, l’employé s’attende à recevoir une quelconque forme de remboursement pour le carburant utilisé pour visiter les patients à l’extérieur de la clinique. La preuve semble en outre montrer qu’une part des sommes retenues par la clinique sur les factures de la travailleuse couvrait l’utilisation de fournitures de sorte que, indirectement, cette dernière a peut‑être payé pour les fournitures et les produits consommés ou utilisés dans le cadre de son travail. La réceptionniste a également confirmé que la travailleuse pouvait commander des fournitures sans obtenir au préalable la permission de quiconque à la clinique. Mon analyse de ce facteur tend aussi, bien qu’à un très faible degré, à me convaincre du fait que la travailleuse a été engagée à titre d’entrepreneuse indépendante.
+Possibilité de profit
+[23] Selon le témoignage de M. Waller, la travailleuse insistait pour que ses patients versent leur paiement à la clinique. M. Waller supposait qu’elle avait choisi de procéder ainsi parce que la clinique offrait la possibilité de payer par carte de débit et de crédit, ce qui facilitait le paiement. Chaque mois, la travailleuse recevait par chèque le pourcentage convenu, selon le nombre de patients qu’elle avait reçu pendant la période pertinente. Il semble qu’elle pouvait fixer autant ou aussi peu de rendez–vous qu’elle le souhaitait et que c’est elle qui décidait du nombre de périodes de congé qu’elle prenait. Tout cela avait naturellement des incidences sur le montant du revenu auquel elle pouvait s’attendre pour un mois donné. Ce qui montre encore le degré de contrôle dont bénéficiait la travailleuse en ce qui touche l’évolution de son propre revenu. La preuve laisse aussi entendre que la travailleuse recevait des patients qui lui étaient adressés par des relations extérieures, comme des thérapeutes, et qu’elle a peut‑être profité de la vente de certains de ses propres produits. La travailleuse a également déclaré que, si un patient ne payait pas immédiatement, elle devait attendre avant de recevoir de l’argent. Certains éléments de preuve donnent en outre à penser qu’elle présentait à la clinique des factures pour le paiement de sa part du revenu. Ce facteur tend lui aussi à établir que la travailleuse est une entrepreneuse indépendante.
+Risque de perte
+[24] Très peu d’éléments de preuve ont été produits relativement à ce facteur et il ne semble pas que la travailleuse ait assumé un quelconque risque de perte, sauf si un patient omettait de se présenter à son rendez‑vous, auquel cas elle ne recevait tout simplement pas d’argent. Ce facteur est plutôt neutre et il revêt une importance moindre en raison de la preuve et de mes conclusions touchant les trois autres facteurs.
+Conclusion
+[25] À la lumière de la preuve produite, mon analyse des facteurs énoncés dans l’arrêt Wiebe Door m’amène à conclure que la travailleuse est une entrepreneuse indépendante et non une employée. De plus, la travailleuse a continué de travailler à la clinique pendant toute la période en cause et elle a continué de toucher sa part des honoraires facturés aux patients même si cette somme ne faisait l’objet d’aucune retenue salariale. La travailleuse est une femme instruite qui travaillait auparavant comme employée dans une autre clinique podiatrique où on effectuait des retenues de cette nature. Il m’est impossible de concilier tous ces faits avec son témoignage selon lequel elle croyait être une employée, alors même qu’aucune retenue salariale n’était effectuée. Lorsque j’examine l’ensemble de la relation existant entre les parties et que je me demande s’il s’agissait de l’entreprise de l’appelante ou de celle de la travailleuse, je dois conclure que la travailleuse exploitait une entreprise dans les locaux de la clinique de l’appelante.
+[26] Dès le début des présents appels, l’avocat de l’intimé m’a informée que le ministre avait renoncé à présenter des arguments quant au point de savoir si la travailleuse était une employée ou une entrepreneuse indépendante. Il a ajouté qu’il se conformait à la politique de l’ARC applicable lorsque l’avocat estime que les deux parties disposent d’éléments de preuve tout aussi convaincants d’un côté comme de l’autre. Je serais très étonnée que ce soit là la politique de l’ARC. Outre le fait que cette attitude de l’avocat représentant le sous‑procureur général du Canada est douteuse, il convient de faire remarquer au ministère la position intenable qu’elle impose à la travailleuse intervenante, qui n’était pas représentée par un conseiller juridique et qui s’était fiée dans une certaine mesure à l’avocat de l’intimé pour défendre sa thèse à la lumière de la décision prise par le ministre. J’estime qu’une fois qu’un appel est interjeté à l’égard de la décision du ministre, l’intimé doit alors débattre du bien‑fondé de la décision ou bien consentir à ce que jugement soit rendu contre lui. L’intimé ne peut simplement décider de demeure neutre et de laisser l’appelante et l’intervenante débattre de la question en litige.
+[27] Les appels sont accueillis et les décisions du ministre sont annulées.
+Signé à Fredericton (Nouveau‑Brunswick), ce 11e jour d’août 2006.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 10 jour de mars 2008.
+D. Laberge, LL.L.
+RÉFÉRENCE :
+2006CCI431
+NO DES DOSSIERS DE LA COUR :
+2005-2203(EI) et 2005-3132(CPP)
+INTITULÉ :
+Achilles Foot Clinic Ltd. et
+Le ministre du Revenu national et
+Froach Heather Warden
+LIEU DE L’AUDIENCE :
+Winnipeg (Manitoba)
+DATES DE L’AUDIENCE :
+Le 2 juin et le 26 juin 2006
+MOTIFS DU JUGEMENT :
+L’honorable juge Diane Campbell
+DATE DU JUGEMENT :
+Le 11 août 2006
+COMPARUTIONS :
+Représentant de l’appelante :
+Stephen Waller
+Avocat de l’intimé :
+Pour l’intervenante :
+Me Julien Bedard
+L’intervenante elle‑même
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimé :
+Me John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

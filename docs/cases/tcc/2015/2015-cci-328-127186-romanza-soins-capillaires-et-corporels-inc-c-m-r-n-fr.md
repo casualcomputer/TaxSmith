@@ -1,0 +1,195 @@
+---
+title: "Romanza soins capillaires et corporels inc. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/127186/index.do"
+last_modified: "2015-12-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 CCI 328"
+citation2: ""
+neutral_citation: "2015 CCI 328"
+decision_date: "2015-12-15"
+language: "fr"
+item_id: "127186"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3040
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:13:45.640000+00:00"
+cases_cited_count: 9
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7c972647240b56c0d629aea83707f5073212cc4524fbfb5bb4a7b001dc2cfe7b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Romanza soins capillaires et corporels inc. c. M.R.N.
+
+- Citation: 2015 CCI 328
+- Decision date: 2015-12-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3040, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Romanza soins capillaires et corporels inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-12-15
+Référence neutre
+2015 CCI 328
+Numéro de dossier
+2013-3292(EI)
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2013-3292(EI)
+ENTRE :
+ROMANZA SOINS CAPILLAIRES ET CORPORELS INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+Appel entendu le 17 novembre 2014, à Montréal (Québec).
+Décision rendue par : L’honorable juge Patrick Boyle
+Comparutions :
+Représentante de l’appelante :
+Mme Andria D’Elia
+Avocate de l’intimé :
+Me Antonia Paraherakis
+JUGEMENT
+Conformément aux motifs du jugement ci‑joints, l’appel est accueilli, sans frais, et la décision du ministre du Revenu national du 5 juin 2013 est modifiée de façon qu’il soit conclu que Mme Liliane Riendeau n’occupait pas un emploi assurable auprès de l’appelante du 8 août 2012 au 13 octobre 2012.
+Signé à Ottawa, Canada, ce 15e jour de décembre 2015.
+« Patrick Boyle »
+Juge Boyle
+Référence : 2015 CCI 328
+Date : 20151215
+Dossier : 2013-3292(EI)
+ENTRE :
+ROMANZA SOINS CAPILLAIRES ET CORPORELS INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé
+MOTIFS DU JUGEMENT
+Le juge Boyle
+[1] La question faisant l’objet du présent appel est celle de savoir si Liliane Riendeau exerçait, pendant quelques mois en 2012, un emploi assurable auprès de Romanza soins capillaires et corporels inc. (« Romanza »), au sens de la Loi sur l’assurance‑emploi (la « Loi »).
+[2] L’appel a été initialement instruit par le juge Jorré de la Cour. Avec le consentement des parties, je tranche l’appel en me fondant sur la transcription et le dossier.
+I. Les faits [3] Romanza exploitait un salon de beauté sous le nom de commerce Romanza salon et spa à Laval, au Québec. Durant la période en cause, le salon était exploité par Mme Andria D’Elia, qui en était la propriétaire. Elle a depuis vendu le salon et est maintenant avocate. Le salon offre des services de coiffure, de soins esthétiques, de bronzage, de maquillage, de manucure, de traitement au laser et de massage. Mme D’Elia a témoigné pour l’appelante.
+[4] Liliane Riendeau est esthéticienne et elle offrait des services d’esthétique et d’électrolyse au salon. Ces services comprenaient des soins du visage, des manucures, des soins des pieds et des traitements dépilatoires.
+[5] Mme Riendeau travaillait comme esthéticienne dans un certain nombre de salons depuis quarante ans. Avant de passer une entrevue chez Romanza et d’y travailler, elle souhaitait quitter le poste qu’elle occupait dans un salon à Rosemère, parce que ses conditions de travail allaient être modifiées et qu’elle serait rémunérée sous forme de commission calculée en pourcentage.
+[6] À ce moment-là, Mme Riendeau a vu sur Kijiji une annonce pour un poste au salon Romanza, lequel était décrit comme un poste pour lequel on versait un salaire plus des commissions. On recherchait une esthéticienne qualifiée qui pouvait aussi faire des traitements au laser. Elle a passé une entrevue avec Mme D’Elia. Elles ont discuté des conditions de travail et de sa rémunération.
+[7] Au moment où Mme Riendeau a commencé à travailler au salon, ou vers ce moment, elle a conclu un accord écrit intitulé « Contrat de travail » avec Romanza, qui prévoyait notamment que le contrat était mensuel, que les clients demeuraient les clients de Romanza, que le travailleur était responsable de tout dommage causé aux outils ou au matériel de Romanza, et que le travailleur devait respecter les heures d’ouverture et de fermeture du salon. L’accord précisait également que le travailleur était une personne distincte de Romanza et que Romanza ne serait pas responsable des dettes ou des obligations fiscales du travailleur. L’accord énonçait aussi que « le travailleur doit respecter le règlement de l’entreprise ainsi [que] les tâches à accomplir ».
+[8] Selon les modalités de leur entente, Mme Riendeau devait recevoir un salaire horaire de 15 $ pour son travail d’esthéticienne et une commission de 10 % pour les ventes de produits des lignes offertes par Romanza. Cette entente différait de celles des autres esthéticiennes du salon, qui recevaient toutes de 40 % à 60 % des frais que payaient les clients pour leurs services, plus une commission sur les ventes de produits. Personne d’autre n’était payé selon un taux horaire.
+[9] L’accord prévoyait aussi que Mme Riendeau pourrait offrir en exclusivité des services et des produits de naturopathie et phytothérapie au salon Romanza. D’après Mme D’Elia, Mme Riendeau devait verser à Romanza un pourcentage fixe des frais qu’elle facturait pour ces services, en plus d’une commission de 10 % sur les ventes de sa ligne de produits connexes. Selon Mme Riendeau, elle devait être rémunérée selon son taux horaire habituel pour ces services. Elle convient qu’elle gardait les revenus tirés des ventes de produits, moins une commission de 10 %. Elle reconnaît avoir fixé à 60 $ le montant facturé à ses clients pour les consultations.
+[10] Mme Riendeau a commencé à travailler au salon Romanza en août 2012.
+[11] Le salon était ouvert de 10 h à 20 h la semaine, et de 9 h à 15 h le samedi. Mme Riendeau a accepté de travailler du mercredi au samedi. Comme on ne lui avait donné ni la clé ni le code du système d’alarme du salon, elle ne pouvait travailler que pendant les heures d’ouverture affichées. Si elle n’avait pas de client, elle pouvait finir sa journée de travail plus tôt.
+[12] Le salon comptait un certain nombre d’autres travailleurs, tous assujettis à des restrictions réglementaires et commerciales quant aux services qu’ils pouvaient offrir au salon.
+[13] Mme D’Elia n’était pas souvent présente au salon pour y travailler, ou bien pour en assurer la supervision ou la gestion. Sa sœur cadette offrait des traitements au laser au salon et s’occupait parfois de l’ouverture et de la fermeture du salon en l’absence de Mme D’Elia. Cependant, la plupart des travailleurs de Romanza possédaient les clés du salon et pouvaient faire l’ouverture et la fermeture du salon, ce qu’ils faisaient d’ailleurs.
+[14] Mme Riendeau offrait et fournissait ses services dans des salles privées et aucun autre travailleur de Romanza n’était présent avec elle et le client.
+[15] Mme Riendeau touchait un salaire horaire pour son travail, lequel avait été convenu dès le départ. Elle était payée chaque semaine par chèque, d’un montant égal à son salaire horaire multiplié par le nombre d’heures de travail. Un chèque pouvait afficher un montant plus important si elle avait touché des commissions sur la vente de produits pendant la période visée.
+[16] Mme Riendeau a cessé de travailler à Romanza à la mi‑octobre, après une période d’environ neuf semaines. D’après Mme D’Elia, l’entente de travail a été d’aussi courte durée parce que des clients ont formulé des plaintes en matière d’hygiène et de santé à l’endroit des services fournis par Mme Riendeau. La totalité ou presque des services offerts par Mme Riendeau étaient des services d’esthétique et d’électrolyse. Même si elle a annoncé et offert ses services de naturopathie et phytothérapie, elle n’a eu qu’une seule cliente pour ces services pendant la courte période où elle a travaillé au salon Romanza.
+[17] Mme Riendeau a déposé une plainte auprès de la Commission des normes du travail du Québec lorsque son contrat a été résilié. Elle a retiré sa plainte lorsqu’elle a reçu son chèque pour sa dernière semaine de travail. Entre-temps, elle avait trouvé un autre emploi.
+II. Les dispositions pertinentes [18] L’expression « emploi assurable » est définie ainsi à l’alinéa 5(1)a) de la Loi :
+EMPLOI ASSURABLE
+5. (1) Sens de « emploi assurable » — Sous réserve du paragraphe (2), est un emploi assurable :
+a) l’emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d’un contrat de louage de services ou d’apprentissage exprès ou tacite, écrit ou verbal, que l’employé reçoive sa rémunération de l’employeur ou d’une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[19] L’article 2085 du Code civil du Québec (le « Code civil ») définit l’expression « contrat de travail » de la manière suivante :
+CHAPITRE SEPTIÈME
+DU CONTRAT DE TRAVAIL
+Art. 2085. Le contrat de travail est celui par lequel une personne, le salarié, s’oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d’une autre personne, l’employeur.
+[20] Par comparaison, l’article 2098 définit ainsi l’expression « contrat d’entreprise ou de service » :
+CHAPITRE HUITIÈME
+DU CONTRAT D’ENTREPRISE OU DE SERVICE
+SECTION I
+DE LA NATURE ET DE L’ÉTENDUE DU CONTRAT
+Art. 2098. Le contrat d’entreprise ou de service est celui par lequel une personne, selon le cas l’entrepreneur ou le prestataire de services, s’engage envers une autre personne, le client, à réaliser un ouvrage matériel ou intellectuel ou à fournir un service moyennant un prix que le client s’oblige а lui payer.
+[21] L’article 2099 prévoit ce qui suit :
+Art. 2099. L’entrepreneur ou le prestataire de services a le libre choix des moyens d’exécution du contrat et il n'existe entre lui et le client aucun lien de subordination quant à son exécution.
+[22] L’article 1425, qui est pertinent pour l’interprétation du contrat, est ainsi libellé :
+Art. 1425. Dans l’interprétation du contrat, on doit rechercher quelle a été la commune intention des parties plutôt que de s’arrêter au sens littéral des termes utilisés.
+[23] Il ressort de plusieurs arrêts de la Cour d’appel fédérale, et notamment de l’arrêt Le Livreur Plus inc. c. Canada (Ministre du Revenu national), 2004 CAF 68, que les lignes directrices ou les critères traditionnels de la common law mentionnés dans l’arrêt Wiebe Door Services Ltd. c. M.R.N, [1986] 3 C.F. 553, 87 DTC 5025, sont des points de repère lorsqu’il s’agit de décider s’il existe entre les parties un lien de subordination qui est caractéristique d’un contrat de travail ou s’il existe plutôt un degré d’indépendance qui indique l’existence d’un contrat d’entreprise aux termes du Code civil. De plus, l’intention mutuelle ou la stipulation des parties quant à la nature de leurs relations contractuelles doivent être prises en considération et peuvent être un instrument utile d’interprétation de la nature du contrat aux fins de sa qualification en vertu du Code civil. Voir, par exemple, les arrêts de la Cour d’appel fédérale dans les affaires D & J Driveway Inc. c. Canada (Ministre du Revenu national), 2003 CAF 453, et Grimard c. Canada, 2009 CAF 47, [2009] 4 R.C.F. 592, lesquels enseignent que l’intention des parties constitue un facteur important à prendre en considération pour qualifier un contrat en vertu du Code civil. Les observations formulées par la Cour d’appel fédérale au sujet de l’intention des parties dans ces arrêts ayant trait au Québec sont conformes а ses observations plus récentes formulées à l’égard de l’importance de l’intention en common law dans l’arrêt 1392644 Ontario Inc. (Connor Homes) c. Canada (M.R.N.), 2013 CAF 85.
+[24] Les lignes directrices ou critères traditionnels de la common law relatifs au contrat de louage de services ou au contrat de travail par opposition à un contrat d’entreprise ou d’entrepreneur indépendant sont bien établis. On établit l’emploi assurable en recherchant si l’intéressé exploite vraiment une entreprise à son compte. Voir les décisions Market Investigations, Ltd. v. Minister of Social Security, [1968] 3 All E.R. 732 (Q.B.D.), 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., 2001 CSC 59, [2001] 2 R.C.S. 983, et Wiebe Door Services Ltd. c. M.R.N., précité.
+[25] Pour trancher la question, il faut tenir compte de toutes les circonstances pertinentes ainsi que d’un certain nombre de critères ou de lignes directrices utiles, notamment : 1) l’intention des parties; 2) le contrôle exercé sur les activités; 3) la propriété des instruments de travail; 4) la possibilité de profit ou le risque de perte. Il n’existe aucune manière préétablie d’appliquer les facteurs pertinents; leur importance relative et leur pertinence dépendent des faits et des circonstances propres à chaque affaire.
+[26] Aux paragraphes 27 à 46 de l’arrêt Grimard, et en particulier au paragraphe 43, la Cour d’appel fédérale expose en détail les différences en matière d’emploi assurable, pour les besoins de l’assurance‑emploi, entre le droit civil et la common law :
+33 Pour importante qu’elle soit, l’intention des parties n’est pas à elle seule déterminante de la qualification du contrat : voir D&J Driveway Inc. c. M.R.N., 2003 CAF 453; Dynamex Canada Inc. c. Mamona, 2003 CAF 248. De fait, le comportement des parties dans l’exécution du contrat doit refléter et actualiser cette intention commune, sinon la qualification du contrat se fera en fonction de ce que révèle la réalité factuelle et non de ce que prétendent les parties.
+[…]
+36 Dans l’affaire Wolf c. Canada, 2002 CAF 96, [2002] 4 C.F. 396, notre collègue, le juge Décary, citait l’extrait suivant de feu Robert P. Gagnon tiré de son volume Le droit du travail au Québec, 5e éd., Cowansville : Yvon Blais, 2003, aux pages 66 et 67 et précisant le contenu de la notion de subordination en droit civil québécois :
+Historiquement, le droit civil a d’abord élaboré une notion de subordination juridique dite stricte ou classique qui a servi de critère d’application du principe de la responsabilité civile du commettant pour le dommage causé par son préposé dans l’exécution de ses fonctions (art. 1054 C.c.B.‑C.; art. 1463 C.c.Q). Cette subordination juridique classique était caractérisée par le contrôle immédiat exercé par l’employeur sur l’exécution du travail de l’employé quant à sa nature et à ses modalités. Elle s’est progressivement assouplie pour donner naissance à la notion de subordination juridique au sens large. La diversification et la spécialisation des occupations et des techniques de travail ont, en effet, rendu souvent irréaliste que l’employeur soit en mesure de dicter ou même de surveiller de façon immédiate l’exécution du travail. On en est ainsi venu à assimiler la subordination à la faculté, laissée à celui qu’on reconnaîtra alors comme l’employeur, de déterminer le travail à exécuter, d’encadrer cette exécution et de la contrôler. En renversant la perspective, le salarié sera celui qui accepte de s’intégrer dans le cadre de fonctionnement d’une entreprise pour la faire bénéficier de son travail. En pratique, on recherchera la présence d’un certain nombre d’indices d’encadrement, d’ailleurs susceptibles de varier selon les contextes : présence obligatoire à un lieu de travail, assignation plus ou moins régulière du travail, imposition de règles de conduite ou de comportement, exigence de rapports d’activité, contrôle de la quantité ou de la qualité de la prestation, etc. Le travail à domicile n’exclut pas une telle intégration à l’entreprise.
+37 On retrouve dans cet extrait la notion de contrôle sur l’exécution du travail aussi présente dans les critères de la common law, à cette différence que la notion de contrôle est, en vertu du droit civil québécois, plus qu’un simple critère comme en common law. Elle est une caractéristique essentielle du contrat de travail : voir D&J Driveway, au paragraphe 16 de cette décision; et 9041‑6868 Québec Inc. c. M.R.N., 2005 CAF 334.
+38 Mais on peut également noter dans l’extrait de Me Gagnon que le concept juridique de subordination ou contrôle, pour que l’on puisse conclure à sa présence dans une relation de travail, fait aussi appel en pratique à ce que l’auteur appelle des indices d’encadrement, que notre Cour a qualifié de points de repère dans l’affaire Livreur Plus Inc. c. M.R.N., 2004 CAF 68, au paragraphe 18; et dans l’affaire Canada (Procureur général c. Charbonneau, [1996] A.C.F. no 1337 (C.A.) (QL), au paragraphe 3.
+39 Par exemple, l’intégration du travailleur dans l’entreprise apparaît en droit civil québécois comme un indice d’encadrement qu’il importe ou qu’il est utile de rechercher en pratique pour déterminer l’existence d’un lien de subordination juridique. N’est‑ce pas là également un critère ou un facteur recherché en common law pour définir la nature juridique de la relation de travail existante?
+40 De même, en règle générale, un employeur, et non l’employé, encaisse les profits et subit les pertes de l’entreprise. En outre, l’employeur est responsable des faits et gestes de son employé. Ne sont‑ce pas là des indices pratiques d’encadrement, révélateurs d’une subordination juridique aussi bien en droit civil québécois qu’en common law?
+41 Enfin, le critère de la propriété des instruments de travail, mis de l’avant par la common law, n’est‑il pas aussi un indice d’encadrement qu’il convient d’examiner? Car, selon les circonstances, il peut révéler une intégration du travailleur à l’entreprise et son assujettissement ou sa dépendance à celle‑ci. Il peut contribuer à établir l’existence d’un lien de subordination juridique. Plus souvent qu’autrement dans un contrat de travail, l’employeur fournit à l’employé les instruments nécessaires à l’exécution de son travail. Par contre, il m’apparaît beaucoup plus difficile de conclure à une intégration dans l’entreprise lorsque la personne qui exécute le travail possède son propre camion, par exemple, arborant de la publicité à son nom et quelque 200 000 $ d’outils pour accomplir les fonctions qu’il exerce et qu’il commercialise.
+42 Il va de soi, aussi bien en droit civil québécois qu’en common law, que ces indices d’encadrement (critères ou points de repère), lorsque chacun est pris isolément, ne sont pas nécessairement déterminants. Ainsi, par exemple, dans l’arrêt Vulcain Alarme Inc. c. Canada M.R.N., [1999] A.C.F. No 749 (C.A.) (QL), le fait que l’entrepreneur devait se servir d’un coûteux appareil spécial de détection fourni par le donneur d’ouvrage pour vérifier et calibrer des détecteurs de substances toxiques ne fut pas jugé suffisant en soi pour transformer ce qui était un contrat d’entreprise en un contrat de travail.
+43 En somme, il n’y a pas, à mon avis, d’antinomie entre les principes du droit civil québécois et les soi‑disant critères de common law utilisés pour qualifier la nature juridique de la relation de travail entre deux parties. Dans la recherche d’un lien de subordination juridique, c’est‑à‑dire de ce contrôle du travail, exigé par le droit civil du Québec pour l’existence d’un contrat de travail, aucune erreur ne résulte du fait que le tribunal prenne en compte, comme indices d’encadrement, les autres critères mis de l’avant par la common law, soit la propriété des outils, l’expectative de profits et les risques de pertes, ainsi que l’intégration dans l’entreprise.
+[27] De même, la Cour d’appel fédérale s’est exprimée sur la question, aux paragraphes 18 à 20 de l’arrêt Le Livreur Plus Inc. :
+18 Dans ce contexte, les éléments du critère énoncé dans l’arrêt Wiebe Door Services Ltd. c. M.R.N., 87 D.T.C. 5025, à savoir le degré de contrôle, la propriété des instruments de travail, les chances de bénéfices et les risques de pertes et enfin l’intégration, ne sont que des points de repère : Charbonneau c. Canada (ministre du Revenu national - M.R.N.) (1996), 207 N.R. 299, paragraphe 3. En présence d’un véritable contrat, il s’agit de déterminer si, entre les parties, existe un lien de subordination, caractéristique du contrat de travail, ou s’il n’y a pas, plutôt, un degré d’autonomie révélateur d’un contrat d’entreprise : ibidem.
+19 Ceci dit, il ne faut pas, au plan du contrôle, confondre le contrôle du résultat ou de la qualité des travaux avec le contrôle de leur exécution par l’ouvrier chargé de les réaliser : Vulcain Alarme Inc. c. Le ministre du Revenu national, A‑376‑98, 11 mai 1999, paragraphe 10, (C.A.F.); D & J Driveway Inc. c. Le ministre du Revenu national, précité, au paragraphe 9. Comme le disait notre collègue le juge Décary dans l’affaire Charbonneau c. Canada (ministre du Revenu national - M.R.N), précitée, suivie dans l’arrêt Jaillet c. Canada (ministre du Revenu national - M.R.N.), 2002 FCA 394, « rares sont les donneurs d’ouvrage qui ne s’assurent pas que le travail est exécuté en conformité avec leurs exigences et aux lieux convenus. Le contrôle du résultat ne doit pas être confondu avec le contrôle du travailleur ».
+20 Je suis d’accord avec les prétentions de la demanderesse. Un sous‑entrepreneur n’est pas une personne libre de toute contrainte qui travaille à son gré, selon ses inclinations et sans la moindre préoccupation pour ses collègues co‑contractants et les tiers. Ce n’est pas un dilettante à l’attitude cavalière, voire irrespectueuse, capricieuse ou irresponsable. Il œuvre dans un cadre défini, mais il le fait avec autonomie et à l’extérieur de celui de l’entreprise de l’entrepreneur général. Le contrat de sous‑traitance revêt souvent un caractère léonin dicté par les obligations de l’entrepreneur général : il est à prendre ou à laisser. Mais sa nature n’en est pas altérée pour autant. Et l’entrepreneur général ne perd pas son droit de regard sur le résultat et la qualité des travaux puisqu’il en assume la seule et entière responsabilité vis‑à‑vis ses clients.
+[28] De plus, la Cour d’appel fédérale a fait les observations suivantes dans l’arrêt D & J Driveway Inc. :
+2 Nous reconnaissons d’emblée que la stipulation des parties quant à la nature de leurs relations contractuelles n’est pas nécessairement déterminante et que la cour chargée d’examiner cette question peut en arriver à une détermination contraire sur la foi de la preuve qui lui est soumise : Dynamex Canada inc. c. Canada, [2003] 305 N.R. 295 (C.A.F.). Mais cette stipulation ou l’interrogatoire des parties sur la question peuvent s’avérer un instrument utile d’interprétation de la nature du contrat intervenu entre les participants.
+[29] Dans l’arrêt D & J Driveway Inc., la Cour d’appel a ensuite reconnu, au paragraphe 4, qu’il est possible de se référer aux critères de l’arrêt Wiebe Door Services pour apprécier l’existence d’un lien de subordination au titre du Code civil.
+III. Analyse A. L’intention des parties [30] L’accord écrit entre Mme Riendeau et Romanza est rédigé en langage simple et ne désigne pas Mme Riendeau comme une employée, ne désigne pas la relation comme une relation de travail et ne fait état d’aucune forme de retenues à la source, ni d’aucune paye de vacances.
+[31] La nouvelle entente de travail avec Romanza donnait l’occasion à Mme Riendeau de mettre sur pied sa nouvelle entreprise où elle offrait des services de naturopathie et phytothérapie, ainsi que de vendre sa propre ligne de produits connexes à ces services dans un salon où personne d’autre ne pouvait fournir de tels services.
+[32] Mme Riendeau n’a pas dit dans son témoignage qu’elle ne savait pas qu’on lui verserait des montants bruts sans retenues.
+[33] Selon la version des faits de Mme Riendeau et sa capacité de répondre aux questions qui lui étaient posées, elle semble être compétente et s’exprimer bien. Je conclus que Mme Riendeau savait dès le départ qu’elle serait payée sans retenues salariales et qu’elle n’aurait pas de paye de vacances. Elle savait aussi qu’elle avait l’occasion de mettre sur pied sa nouvelle entreprise de services et de produits de santé, et elle y accordait de l’importance. Il est tout à fait raisonnable de conclure que Mme Riendeau savait aussi qu’elle serait une entrepreneuse indépendante et non une employée de Romanza.
+[34] Mme D’Elia, pour le compte de Romanza, avait rédigé le contrat de travail et il était clair qu’elle voulait que la relation ne soit pas une relation de travail, bien que cela n’ait pas été précisé clairement ou expressément dans le document.
+[35] Indépendamment de ce qui a été exposé brièvement dans l’annonce du salon sur Kijiji au sujet d’un poste pour lequel on versait un salaire, après une entrevue et quelques discussions et négociations, les parties semblent avoir conclu autre chose dans leur accord écrit.
+[36] Pour établir si le contrat rédigé et respecté dans les faits était compatible avec les intentions des parties, leur interprétation du contrat et leurs attentes au départ, la Cour est en quelque sorte limitée par la très courte période de travail en cause pour cette travailleuse particulière au salon Romanza.
+[37] Rien de ce que les parties ont effectivement fait ne serait incompatible avec la description d’un contrat d’entreprise. Cela ne veut pas pour autant dire que, globalement, compte tenu de tous les facteurs et les éléments pertinents, il n’y a peut‑être pas un degré de direction, de contrôle et de subordination suffisant pour que la relation soit considérée comme une relation de travail.
+B. La subordination, le contrôle et les indices d’encadrement [38] Il est clair que les facteurs relatifs au degré de contrôle que le payeur exerce sur le travailleur sont importants lorsqu’il s’agit de savoir s’il y a une relation de travail du fait de la subordination. Le libellé du Code civil prévoit que le travailleur s’oblige à effectuer un travail sous la direction ou le contrôle d’une autre personne.
+[39] Mme D’Elia n’était pas tout le temps au salon et elle n’était pas présente lorsque Mme Riendeau était avec un client pour assurer la prestation de l’un ou l’autre de ses services. La preuve n’établit pas que la sœur cadette de Mme D’Elia, qui s’occupait aussi de clients au salon, était responsable du salon ou était même toujours présente lorsque Mme D’Elia était absente.
+[40] Je ne dispose que de peu d’éléments de preuve, voire d’aucun, au sujet du contrôle que Romanza exerçait sur ses autres travailleurs au salon. Toutes les autres esthéticiennes étaient des entrepreneuses indépendantes. Quoi qu’il en soit, il semble que les circonstances de Mme Riendeau aient été suffisamment différentes et distinctes compte tenu des activités qu’elle exerçait relativement à des services et à des produits de santé en sus des services d’esthétique qu’elle offrait au salon.
+[41] Mme Riendeau fournissait les services aux clients de façon individuelle et, compte tenu de leur nature, dans une salle privée. Personne d’autre à Romanza, y compris Mme D’Elia, ne possédait les compétences requises pour fournir certains de ces services.
+[42] Je ne suis pas convaincu que, pris isolément, un tel degré de contrôle est suffisant pour être considéré comme le genre de direction et de contrôle auquel l’article 2085 du Code civil fait référence. Si l’on examine cet aspect isolément, il semble être mieux décrit à l’article 2098 comme étant le fait, pour l’entrepreneur, de s’engager, envers une autre personne, à réaliser un ouvrage matériel ou à fournir un service moyennant un prix, sans lien de subordination aux termes de l’article 2099.
+C. La propriété des instruments de travail [43] Le salon était doté de tout le matériel nécessaire pour assurer les services offerts; ce matériel était lequel était mis à la disposition de tous ceux qui y travaillaient. Mme Riendeau a choisi d’apporter quelques petits outils à main pour travailler parce qu’elle préférait employer des outils spécifiques, comme une spatule et une pince. En l’espèce, la propriété des instruments de travail ne sera pas un facteur très utile à prendre en considération, étant donné qu’ils sont généralement fournis à tous les travailleurs, qu’ils soient des employés ou des entrepreneurs indépendants.
+D. La possibilité de profit et les risques de perte [44] Mme Riendeau touchait un salaire horaire pour ses services d’esthétique. Sa possibilité d’augmenter ses profits était donc limitée et elle n’était exposée à presque aucun risque relativement à ces services. De toute évidence, elle aurait pu gagner plus d’argent si elle avait choisi de faire plus d’heures de travail. Cependant, en l’espèce, la nouvelle entreprise de Mme Riendeau, dans laquelle elle offrait des services et des produits de naturopathie et phytothérapie au salon Romanza, était plus concrètement une entreprise qu’elle exploitait pour son propre compte. Elle fixait le coût de ces services. Elle conservait la totalité des revenus qu’elle tirait de la vente de ses produits, sous réserve d’une commission de 10 % payable à Romanza. Il s’agit d’un élément très important à prendre en considération en l’espèce. Ces produits n’étaient pas intégrés à l’entreprise de Romanza au même titre que les autres lignes de produits de celle-ci. Mme Riendeau a peut-être aussi pu conserver la majorité des revenus tirés de ces services; la preuve n’est pas claire et l’entreprise n’a pas existé assez longtemps pour connaître du succès ou pour être importante.
+IV. Conclusion [45] J’ai examiné l’ensemble des faits pertinents portant sur l’intention des parties et sur les indices de subordination, et la preuve n’établit pas selon la prépondérance des probabilités que Mme Riendeau était une employée de Romanza pendant les neuf semaines où elle y a travaillé.
+[46] L’appel est accueilli.
+Signé à Ottawa, Canada, ce 15e jour de décembre 2015.
+« Patrick Boyle »
+Juge Boyle
+RÉFÉRENCE :
+2015 CCI 328
+NO DU DOSSIER DE LA COUR :
+2013-3292(EI)
+INTITULÉ :
+ROMANZA SOINS CAPILLAIRES ET CORPORELS INC. ET M.R.N.
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Le 17 novembre 2014
+MOTIFS DU JUGEMENT :
+L’honorable juge Patrick Boyle
+DATE DU JUGEMENT :
+Le 15 décembre 2015
+COMPARUTIONS :
+Représentante de l’appelante :
+Mme Andria D’Elia
+Avocate de l’intimé :
+Me Antonia Paraherakis
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimé :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

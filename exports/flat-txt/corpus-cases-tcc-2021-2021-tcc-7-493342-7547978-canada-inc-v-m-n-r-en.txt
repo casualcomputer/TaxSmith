@@ -1,0 +1,312 @@
+Title: 7547978 Canada Inc. v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/493342/index.do
+Corpus path: corpus/cases/tcc/2021/2021-tcc-7-493342-7547978-canada-inc-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2021-02-22
+
+# 7547978 Canada Inc. v. M.N.R.
+
+- Citation: 2021 TCC 7
+- Decision date: 2021-02-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4610, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+7547978 Canada Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2021-02-22
+Neutral citation
+2021 TCC 7
+File numbers
+2017-2188(EI)
+Judges and Taxing Officers
+Dominique Lafleur
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2017-2188(EI)
+BETWEEN:
+7547978 CANADA INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeals heard on October 26, 27, 28 and 29, 2020, at Ottawa, Canada.
+Before: The Honourable Justice Dominique Lafleur
+Appearances:
+Agent for the Appellant:
+Richard Meunier
+Counsel for the Respondent:
+Élise Rivest
+Anna Maria Konewka
+JUDGMENT
+In accordance with the attached reasons for judgment, the appeal filed pursuant to the Employment Insurance Act is dismissed, without costs, and the decision rendered by the Minister of National Revenue dated February 24, 2017 is affirmed.
+Signed at Ottawa, Canada, this 22nd day of February 2021.
+"Dominique Lafleur"
+Lafleur J.
+Citation: 2021 TCC 7
+Date: 20210222
+Docket: 2017-2188(EI)
+BETWEEN:
+7547978 CANADA INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lafleur J.
+I - INTRODUCTION
+(1) 7547978 Canada Inc. (the "appellant") appeals from the decision of the Minister of National Revenue (the "Minister") dated February 24, 2017, which affirmed:
+i) the assessments of the sums payable by the appellant set out in the Employment Insurance Act (S.C. 1996, c. 23, as amended) (the "Act") by the Minister for the period from 2013 to 2015 (the "period") in respect of the workers who were employed by the appellant during these years, whose Notices of Assessment are dated April 21, 2016;
+ii) that the employment of workers not dealing at arm's length with the appellant as well as the employment of workers dealing at arm's length with the appellant were insurable under the Act because the requirements of the contract of service had been met. More particularly, with regard to the workers not dealing at arm's length with the appellant, the Minister was persuaded that the workers and the appellant would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+(2) The total amounts of unpaid employment insurance premiums (including interest) in respect of workers not dealing at arm's length with the appellant and workers dealing at arm's length with the appellant were $24,749.27 in 2013, $14,683.33 in 2014, and $10,229.58 in 2015.
+(3) Penalties were also imposed on the appellant pursuant to subsection 82(9) of the Act, totalling $2,474.93 for 2013, $1,463.33 for 2014 and $1,022.96 for 2015.
+(4) On May 7, 2015, the Court dismissed the appellant's appeal from the Minister's decision that the workers employed by the appellant held insurable employment with it for the period beginning in June 2010 and ending in December 2011 (Meunier, v. M.N.R., 2015 TCC 111 [Meunier]). Following this judgment, which was not appealed to the Federal Court of Appeal, the Minister made the assessments at issue in this appeal.
+(5) In these reasons, the term "workers" refers to non-arm's length workers (listed in Appendix A of the Amended Reply to Notice of Appeal, namely Tanya Lapointe, Annie Plouffe, Maxim Meunier and Sébastien Meunier) and arm's length workers (listed in Appendix B of the Amended Reply to the Notice of Appeal). Also, any statutory provision referred to in these reasons is a provision of the Act.
+II – BACKGROUND
+(6) Richard Meunier has been working in the food industry for several years. In 2005, he started his own business operating under the name Les Entreprises Darick ("Darick"). In June 2010, the appellant was incorporated and continued to operate the business under the name Darick until December 2015. Mr. Meunier has always been the sole shareholder of the appellant. He alone has always managed the company and made the important company decisions.
+(7) During the period, the appellant operated a business specializing in merchandising, sample stations and display assembly for big box stores, such as food markets and drugstores. The appellant also operated tasting and demonstration stations installed in stores to promote products for various manufacturers and distributors and sold products on behalf of manufacturers and distributors.
+(8) The appellant's main customer was Impact Détail Inc., a company that accounts for approximately 70 to 75% of the appellant's sales. Impact Détail Inc. operated the same type of business as the one operated by the appellant and awarded subcontracts to the appellant.
+(9) StratéCom Inc. was another client that awarded subcontracts to the appellant. To a lesser extent, food chains, certain grocery stores, drugstores and product manufacturers (for example, Johnvince Foods (Planters)) also awarded contracts to the appellant.
+(10) Between 2010 and 2011 and between 2012 and 2015, there was little change in the appellant's business. The business was generally operated in the same way and the workers enjoyed the same working conditions.
+(11) In addition to Mr. Meunier, four workers testified at the hearing: Vicky Brazeau, Yves Prégent, Adrien Charron and one of Mr. Meunier's sons, Maxim Meunier.
+III - ISSUES
+(12) The Court must determine whether the workers were employed in insurable employment, within the meaning of the Act, by the appellant during the period. Also, the Court must determine whether the appellant is liable to penalties under subsection 82(9).
+IV - POSITIONS OF THE PARTIES
+(13) According to the appellant, the workers were not employed in insurable employment by the appellant during the period. The parties intended to enter into a contract of service and not a contract of employment. The workers were not under the direction and control of the appellant. As a result, the appellant is not liable for failing to make deductions under the Act and is not liable to the penalties set out in subsection 82(9).
+(14) According to the respondent, the workers were employed in insurable employment by the appellant during the period, because they had entered into a contract of employment with the appellant. The intention of the parties to enter into a contract of service is not material in this case, because the evidence demonstrated that the appellant and the workers were not dealing with each other at arm's length. Similarly, the non-arm's length workers performed the same duties, under the same terms and conditions as the arm's length workers. They therefore were employed in insurable employment by the appellant.
+(15) In the alternative, the respondent submits that the workers were employed in insurable employment pursuant to paragraph 5(1)(d) of the Act and paragraph 6(g) of the Employment Insurance Regulations (DORS/96-332) because they were called upon by an employment agency to provide services to the appellant's clients, under the direction and control of those clients.
+(16) Finally, because the appellant did not remit the premiums set out in the Act, which were payable to the Receiver General within the prescribed time limit, the penalties under subsection 82(9) must be upheld.
+V – ANALYSIS
+5.1 CONTRACT OF EMPLOYMENT OR A CONTRACT OF SERVICE
+5.1.1 Legal framework
+(17) Subsection 5(1) of the Act clearly describes what constitutes insurable employment. The definition of insurable employment includes employment under a contract of service or apprenticeship:
+5(1) Types of insurable employment — Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+. . .
+5(1) Sens de emploi assurable — Sous réserve du paragraphe (2), est un emploi assurable :
+a) l'emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d'un contrat de louage de services ou d'apprentissage exprès ou tacite, écrit ou verbal, que l'employé reçoive sa rémunération de l'employeur ou d'une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[…]
+[Emphasis added.]
+(18) Subsection 5(2) lists the types of employment that are not insurable. I will come back to this in the next section.
+(19) A "contract of service" is not defined anywhere in the Act.
+(20) Because the events in this case occurred almost exclusively in Quebec, we must review the relationship between the workers and the appellant with respect to private law applicable in Quebec. The evidence showed that only 2% of the workers resided in Ontario and that very few contracts were performed in Ontario. In addition, the appellant's head office is located in Quebec. Because the closest ties are with the province of Quebec, Quebec private law must be applied.
+(21) Thus, the criteria set out in the Civil Code of Québec, CQLR., c. CCQ-1991 (the "C.C.Q.") must be applied to determine whether we are dealing with a contract of service (or contract of employment) or a contract of enterprise or for services. Justice Desjardins stated the following in NCJ Educational Services Limited v. Canada (National Revenue), 2009 FCA 131:
+[49] Since paragraph 5(1)(a) [of] the Employment Insurance Act does not provide the definition of a contract of services, one must refer to the principle of complementarity reflected in section 8.1 of the Interpretation Act, R.S.C., 1985, c. I‑21, which teaches us that the criteria set out in the Civil Code of Québec must be applied to determine whether a specific set of facts gives rise to a contract of employment. . . .
+(22) The relevant provisions of the C.C.Q. are contained in articles 2085 and 2086 regarding a contract of employment and in articles 2098, 2099 and 2101 regarding a contract of enterprise or for services:
+2085. A contract of employment is a contract by which a person, the employee, undertakes, for a limited time and for remuneration, to do work under the direction or control of another person, the employer.
+2085. Le contrat de travail est celui par lequel une personne, le salarié, s'oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d'une autre personne, l'employeur.
+2086. A contract of employment is for a fixed term or an indeterminate term.
+2086. Le contrat de travail est à durée déterminée ou indéterminée.
+. . .
+[…]
+2098. A contract of enterprise or for services is a contract by which a person, the contractor or the provider of services, as the case may be, undertakes to another person, the client, to carry out physical or intellectual work or to supply a service, for a price which the client binds himself to pay to him.
+2098. Le contrat d'entreprise ou de service est celui par lequel une personne, selon le cas l'entrepreneur ou le prestataire de services, s'engage envers une autre personne, le client, à réaliser un ouvrage matériel ou intellectuel ou à fournir un service moyennant un prix que le client s'oblige à lui payer.
+2099. The contractor or the provider of services is free to choose the means of performing the contract and, with respect to such performance, no relationship of subordination exists between the contractor or the provider of services and the client.
+2099. L'entrepreneur ou le prestataire de services a le libre choix des moyens d'exécution du contrat et il n'existe entre lui et le client aucun lien de subordination quant à son exécution.
+. . .
+[…]
+2101. Unless a contract has been entered into in view of his personal qualities or unless the very nature of the contract prevents it, the contractor or the provider of services may obtain the assistance of a third person to perform the contract, but its performance remains under his supervision and responsibility.
+2101. À moins que le contrat n'ait été conclu en considération de ses qualités personnelles ou que cela ne soit incompatible avec la nature même du contrat, l'entrepreneur ou le prestataire de services peut s'adjoindre un tiers pour l'exécuter; il conserve néanmoins la direction et la responsabilité de l'exécution.
+[Emphasis added.]
+(23) Thus, for a contract of service to exist within the meaning of the Act (or contract of employment within the meaning of the C.C.Q.), the following three constituent elements are required (9041‑6868 Québec Inc. v. Canada (Minister of National Revenue), 2005 FCA 334, paragraph 11):
+Performance of work;
+Remuneration; and
+A relationship of subordination.
+(24) The relationship of subordination (or direction and control criterion) is the determining factor that distinguishes a contract of employment from a contract for services under Quebec law.
+(25) In the requisite analysis, articles 1425 and 1426 of the C.C.Q. must be considered. They stipulate that the common intention of the parties must be sought:
+1425. The common intention of the parties rather than adherence to the literal meaning of the words shall be sought in interpreting a contract.
+1425. Dans l'interprétation du contrat, on doit rechercher quelle a été la commune intention des parties plutôt que de s'arrêter au sens littéral des termes utilisés.
+1426. In interpreting a contract, the nature of the contract, the circumstances in which it was formed, the interpretation which has already been given to it by the parties or which it may have received, and usage, are all taken into account.
+1426. On tient compte, dans l'interprétation du contrat, de sa nature, des circonstances dans lesquelles il a été conclu, de l'interprétation que les parties lui ont déjà donnée ou qu'il peut avoir reçue, ainsi que des usages.
+(26) In Grimard v. Canada, 2009 FCA 47, [2009] 4 F.C.R. 592 [Grimard], (paragraph 43) the Federal Court of Appeal stated that a court does not err in taking into consideration criteria used under the common law in analyzing the legal nature of a work relationship (i.e. ownership of tools, the chance of profit, the risk of loss, and integration into the business) in order to determine the existence of a relationship of subordination, regardless of the fact that the ruling must be made under Quebec civil law: When examined in isolation, these criteria are not necessarily determinative. They are only indicia to be considered in order to determine whether such a relationship exists (paragraph 42).
+(27) Thus, in Quebec law, the criterion of direction and control remains the determining element (9041-6868 Québec, paragraph 12). At paragraph 11 of 9041-6868 Québec, Justice Décary referred to what was said by Robert P. Gagnon in Le droit du travail du Québec, Éditions Yvon Blais, 2003, 5th edition, at pages 66 and 67):
+[translation] In practice, one looks for a certain number of indicia of the ability to control (and these indicia can vary depending on the context): mandatory presence at a workplace; a somewhat regular assignment of work; the imposition of rules of conduct or behaviour; an obligation to provide activity reports; control over the quantity or quality of the services, etc.
+(28) In Dicom Express inc. c. Paiement, 2009 QCCA 611, the Appeal Court of Québec indicated that the concept of legal subordination is difficult to define and [translation] "contains the idea of hierarchical dependence, which includes the power to give orders and directives, to control the performance of work and to penalize breaches" (at paragraphs 16 and 17).
+(29) Also, as the Federal Court of Appeal stated in Grimard (paragraph 67), a judge who has to determine a worker's status must ". . . determine the legal nature of the overall relationship between the parties in a constantly changing working world . . ."
+(30) In Modern Cleaning Concept Inc. v. Comité paritaire de l'entretien d'édifices publics de la région de Québec, 2019 SCC 28 (paragraphs 36, 37, 44 and 57), the Supreme Court of Canada recently indicated that in order for a person to have independent contractor status, that person must have assumed the business risk, that is, the person must be able to organize his or her business venture in order to make a profit. A contextual and fact-specific inquiry must be conducted for each case; it is important to look behind the contract binding the parties to ascertain the true nature of the relationship of the parties.
+(31) The first step is to determine the subjective intention of each party to the relationship. The Court must therefore seek the common intention of the parties, where applicable, and in interpreting the contract, the circumstances in which the contract was formed and usage must be taken into account (articles 1425 and 1426 C.C.Q.).
+(32) Subsequently, the Court must determine whether objective reality confirms this subjective intention to enter into either a contract of employment or a contract of enterprise or for services. Case law has repeatedly indicated that the characterization of the relationship between the parties is not necessarily determinative with respect to the nature of the contract between them (D&J Driveway Inc. v. M.N.R., 2003 FCA 453, paragraph 2, Grimard, paragraph 33). For example, if the behaviour of the parties is inconsistent with the contract purporting to create an independent contractor relationship, or if the evidence demonstrates the existence of a relationship of subordination between the parties, the relationship would actually be an employer‑employee relationship. At this stage, the Court must determine whether there is a relationship of legal subordination between the parties to the relationship.
+5.1.2 Discussion
+(33) In this case, the parties do not dispute the fact that the workers performed work and received compensation. These first two constituent elements of the contract of employment are therefore not at issue. However, the third and final constituent element of a contract of employment—the existence of a relationship of subordination (criterion of direction and control)—is at issue.
+(34) Before performing this analysis, the Court must assess the circumstances in which the relationship between the parties was created and developed, as well as usage.
+a) Circumstances and usage
+(35) The evidence showed that the contracts awarded to the appellant specified the number of workers required, the duration of the contract, the specific location where the work was to be performed, the date and time at which the workers were to report and the compensation that would be paid to the appellant for each worker, including the amount of the travel allowance.
+(36) When the appellant accepted a contract, Mr. Meunier contacted the workers from a list developed over the years to offer them the job. Workers could also be recruited by word of mouth through existing workers. Sometimes the workers contacted Mr. Meunier directly.
+(37) The type of services that the workers were to provide was not determined until the workers arrived at the location specified in the contract. A representative or project manager from the chain or parent company or a manager working for the retailer or the manufacturer (both are referred to as "project managers" in these reasons) determined the tasks to be performed the workers, which included merchandising, displays, sample stations or sometimes even renovations, or stocking shelves according to planograms previously established by the chains or retailers. According to Mr. Meunier, the workers were required to follow the planograms to the letter and were not allowed to place the products as they saw fit. Mr. Meunier was not in the stores when the workers were performing their tasks.
+(38) The appellant was also involved in selling certain products. Thus, the appellant had obtained a contract for the sale of products distributed by Johnvince Foods (Planters). This contract had been awarded to Mr. Meunier's son, Maxim Meunier. Likewise, the appellant had a merchandising contract with Sally Hansen, which had been awarded to Mr. Meunier's daughter-in-law, Tanya Lapointe.
+(39) The appellant also provided in-store tasting services on a very secondary basis. If the appellant was required to provide such services, the appellant would send a worker to the store, and the worker would organize the requested tasting.
+(40) Because the appellant wanted to maintain its good standing with its clients, a worker who did not have a good attitude or was not efficient when performing a contract would not be recalled. Mr. Meunier expected workers to show up on time, be well-groomed, behave professionally and not shoplift. Workers were recruited without their having to provide resumes or be interviewed. All they were required to provide was their social insurance number. The workers were not required to have any training or expertise.
+(41) For the sake of convenience, the appellant prepared the invoices the that workers were to submit every week. Each worker's invoice listed the hours worked, travel time, kilometrage and the number of daily meal allowances (Exhibit A‑10 contains a sample invoice that was filed). The invoice prepared by the appellant was attached to the cheque that the appellant issued to the workers for the amounts owing.
+(42) According to Mr. Meunier, preparing the workers' invoices enabled the appellant to send invoices to its clients on a weekly basis. Examples of invoices issued by the appellant to its clients were produced at the hearing (Exhibits I‑2, I‑3, I‑4, I‑5, I‑6 and I‑7 as well as Exhibits A‑3 and A‑9). These invoices listed the number of hours worked, travel time, kilometrage, the number of daily meal allowances, the number and cost of hotel rooms. The timesheet that had been filled out by the workers at the stores was also attached to this invoice. In order to monitor the hours worked, one of the workers on site was responsible for filling out a timesheet indicating the hours worked by all the workers present during a given day. This time sheet was signed by a store manager and then forwarded to the appellant. The appellant created a final version of this timesheet and attached it to the invoices sent to its clients. Mr. Meunier testified that one worker completed the sheet for all workers in order to prevent the sheets from being lost or becoming soiled. To the extent possible, Mr. Meunier wanted a responsible person to be in charge of the timesheet. However, according to Mr. Meunier, this person was not considered a team leader.
+b) First step: seeking the common intention and interpreting the contract
+(43) In interpreting the contract between the workers and the appellant, the common intention of the parties must be sought. In addition, during this first step, the actual behaviour of the parties must be considered.
+(44) In this case, I find that, on a preponderance of evidence, the common intention of the workers and the appellant was to enter into a contract of service, and not a contract of employment.
+(45) The workers testified that they had entered into a verbal contract with the appellant. The workers unanimously testified that they considered themselves self-employed workers. Also, the workers filed their income tax returns with the tax authorities on this basis.
+(46) With respect to the appellant, Mr. Meunier's testimony is also very clear in this regard, that is to say that all workers were considered self-employed and not employees of the appellant. The appellant issued T4A tax slips (Statement of Pension, Retirement, Annuity, and Other Income) to the workers showing the amounts it paid the workers as "Fees for services". The appellant did not make any deductions at source from the compensation paid to the workers as "Fees for services".
+(47) As noted above, this subjective intention of the parties to enter into a contract of service is not necessarily determinative. The Court must verify whether the parties' behaviour confirms this subjective intention of the parties to enter into a contract of service and to confirm that there was no relationship of legal subordination between the parties. If the facts show a relationship of legal subordination between the parties, the Court will have no choice but to find that the parties were bound by a contract of employment, not by a contract of service.
+c) Second step: relationship of legal subordination
+(48) For the following reasons, on a preponderance of evidence, I find that a relationship of legal subordination did in fact exist between the workers and the appellant during the period. The evidence showed that the appellant and its clients, as well as the project managers, exercised direction and control over the work performed by the workers, and not only over the quality and the result of the work. The evidence also showed that these workers were not free to choose the means to perform the tasks. Thus, during the period, the workers and the appellant were bound by a contract of employment and not by a contract of service.
+Direction and control
+(49) As indicated by the Federal Court of Appeal in Grimard, the Court must seek and determine the legal nature of the overall relationship between the appellant and the workers with regard to the work that they performed.
+(50) In addition to assessing the direction and control exercised by the appellant over the work performed by the workers, the Court must also take into consideration the direction and control exercised by the appellant's clients as well as by project managers to rule on the nature of the relationship between the workers and the appellant.
+(51) In this case, the appellant argued that it did not exercise any direction or control over the workers, because Mr. Meunier was never on site when the workers were performing their tasks, and that furthermore, the workers were free to accept or decline any contract. First of all, the direction and control exercised over the result and the quality of the work involved either in a contract of employment or a contract of enterprise or for services should not be confused with the direction and the control exercised over tasks performed by the workers and the means used to perform the tasks, which are characteristic of an contract of employment (articles 2085 and 2099 C.C.Q.). In addition, the Court must assess the direction and control exercised over the work performed by the workers as a whole. It should not limit its analysis to the direction and control exercised directly by the appellant. I find that the elements described in the following paragraphs demonstrate that not only did the appellant, as well as the clients and the project managers, exercised direction and control over the result and quality of the work performed, they also exercised direction and control over the tasks performed by the workers and the manner in which they were performed. This demonstrates that there was a relationship of legal subordination between the workers and the appellant characteristic of a contract of employment. Also, unlike self-employed workers, the workers were not free to choose the means to perform their tasks.
+(52) Although the workers were free to accept or decline any contract and were not subject to any penalty for declining, the evidence showed that when they agreed to perform a contract, the workers had to comply with the schedule set out in their contract. The workers were to report to a location set out in the contract for the estimated duration of the work required, at the time specified by the appellant. Also, project managers could change this schedule at their discretion by notifying the workers on site, who would then have to comply with this new schedule. Mandatory attendance at specific workplaces, at specific times and for a fixed period, all determined by the appellant, its clients and the project managers, as well as a schedule that project managers can change without notice, demonstrate control over the way the work is performed and not simply over the result or the quality of the work.
+(53) The workers could not negotiate the terms of the contract. The evidence showed that the workers did not negotiate their working conditions. They were the same for all workers. The hourly rate ranged from $11 to $13 during the period. When a worker drove to the location where the tasks were to be performed, the appellant paid the worker a fixed travel allowance (approximately $0.40 per km). The worker also received a meal allowance ranging from $30 to $40 per day. The appellant also paid for travel time at the same hourly rate that they received for hours worked. When workers stayed at a hotel, they did not have to pay for their stay.
+(54) Similarly, when the workers travelled to an area located far from Gatineau, the appellant organized transportation for the workers, making sure that there were four workers per car. Also, either the appellant, the food chain or the store where the work was to be performed reserved hotel rooms for the workers.
+(55) The workers were not free to choose the means to perform their tasks. The evidence showed that the project managers who were at the store provided the workers with clear, detailed instructions regarding the tasks to be performed and assigned the tasks. The project managers assessed the tasks performed by the workers. They checked service quality and could ask a worker to leave the premises if their work was not satisfactory. Also, when the tasks involved stocking shelves, the workers were given detailed planograms, and they had to accurately reproduce the design shown on the planograms when placing the products on the shelves. The evidence showed that if a problem occurred while the work was being performed, the workers consulted the project manager.
+(56) The workers were required to follow a code of conduct or behaviour. Mr. Meunier testified that the workers had to dress and behave appropriately. Mr. Meunier also indicated that if he was notified that a worker was not doing a good job, he would remove that person's name from the list of workers. The evidence showed that because neither Mr. Meunier nor another representative of the appellant was present at the workplace, the appellant did not personally verify the quality and quantity of the work performed by the workers. However, Mr. Meunier was informed of the progress of activities in the workplace.
+(57) More specifically with regard to the tasting work, the appellant also closely directed and controlled the performance of the workers. The evidence showed that the appellant provided safety training. Similarly, the representative of the retailer or manufacturer also provided the workers with instructions to ensure that tastings were safe.
+(58) Although the evidence did not show that there was a team leader on site, there was always a worker who took care of filling out the timesheet and having it signed by a store manager. The timesheet then had to be returned to the appellant. Ms. Brazeau, Mr. Prégent and Maxim Meunier testified that they acted in this capacity. This worker facilitated on-site communication and also handled complaints that could be drafted by project managers. Workers therefore had to make sure to fill out a timesheet that kept track of the hours worked. These timesheets allowed the appellant to monitor the hours worked by the workers, and timesheets are typical of an employer‑employee relationship.
+(59) The evidence also showed that a worker could be replaced. If a worker did not report to the workplace, one of the workers contacted the appellant, and the appellant sent a replacement worker. However, in areas located far from Gatineau, the appellant was unable to provide a replacement. The evidence showed that when a worker was replaced, the worker who actually performed the tasks who was paid, and the worker who was replaced was not paid.
+(60) Ms. Brazeau testified that she could not hire third parties to perform her tasks. Maxim Meunier testified that on one occasion, when he was unable to place all the merchandise in the required time, he had asked friends to help. However, they were not paid. I therefore find that the workers themselves were unable to subcontract the work that they were contracted to perform. This is indicative of a contract of employment rather than a contract of service.
+Indicators of supervision
+(61) The tool ownership indicator is rather neutral in determining the relationship between the workers and the appellant. In fact, the evidence showed that the workers did not need many tools to do their job. All they needed was a hardhat, steel-toed boots and a retractable blade knife. The workers usually provided their own steel-toed boots and knives. Food stores provided workers with hardhats and knives. Although the stores provided workers with hardhats at the site, some workers preferred to bring their own hardhats. Tasting services accounted for a very small percentage of the appellant's activities. However, the evidence showed that the store generally provided all the necessary equipment, such as toothpicks, utensils, tables, plates, a microwave or stove, an apron, a hat as well as the food to be served at the tastings. If any items were missing, the appellant provided them, not the worker. In addition, the appellant provided the workers with safety instructions (e.g., regarding young children) to be followed at the tastings. The store could sometimes provide instructions as well.
+(62) The other indicators of supervision—the chances of profit and the risk of loss as well as the integration criterion—further support my finding that the workers and the appellant were bound by a contract of employment rather than a contract of service.
+(63) On a preponderance of evidence, the indicator of chances of profit or risk of loss corroborates the finding that the workers were bound to the appellant by a contract of employment and not a contract of service, because the workers had no chance of making a profit and were not at risk of incurring a loss.
+(64) In this case, as noted above, the evidence showed that the workers did not negotiate the working conditions with the appellant. They were defined in advance by the appellant. The workers all received the same compensation. They did not negotiate pay rates with the appellant. The workers pay rate ranged from $11 to $13 an hour. When travelling outside of the Gatineau area, the workers were also paid for travel time at the same hourly rate that they received for hours worked. Workers provide their vehicles received a travel allowance of approximately $0.40 per kilometre. The workers also received a meal allowance that ranged from $30 to $40 per day. The appellant paid for the hotel rooms.
+(65) I agree with Justice D'Auray's comments in AE Hospitality Ltd. v. M.N.R., 2019 TCC 116 (affirmed by the Federal Court of Appeal in 2020 FCA 207). In her view, the term "chance of profit and risk of loss" had to be understood in the entrepreneurial sense and the ability to work more or fewer hours did not equate with the ability to make a greater profit (paragraph 149). In this case, the workers were paid a fixed hourly rate. In addition, the evidence showed that the workers could not subcontract the work. Thus, under these conditions, the workers could not increase their profits within the meaning to be given to this expression.
+(66) Some workers viewed the appellant's kilometrage allowance as a benefit and a way to increase their compensation. Mr. Prégent testified that he preferred to take his car when contracts had to be performed in an area located far from Gatineau because this allowed him to obtain compensation for the kilometres he travelled, which he considered to be profitable. Maxim Meunier testified that he chose contracts for stores located in areas far from Gatineau, because the kilometrage allowance was profitable.
+(67) The evidence showed that the appellant's clients set the amount of the kilometrage allowance, and that the appellant's workers received the same allowance. However, the evidence does not indicate whether or not the amount of the allowance was reasonable. Generally, the purpose of an allowance based on the number of kilometres travelled is to compensate the beneficiary for vehicle operating costs such as gasoline, oil, etc., as well as wear and tear and depreciation. Therefore, this kilometrage allowance cannot allow a worker to increase his profit.
+(68) Also, because the evidence showed that the appellant was covering the costs of hotel rooms and paying a meal allowance, the workers could not suffer any loss in the performance of their work. The evidence also showed that if products were damaged in the workplace, neither the worker nor the appellant was responsible for the costs arising from the incident. Neither the appellant nor the worker suffered any financial losses.
+(69) Finally, on a preponderance of evidence, the integration indicator supports the finding that the workers were bound to the appellant by a contract of employment and not a contract of service.
+(70) This test should apply from the workers' standpoint. The issue is who owns the business. The workers did not act as if they were operating their own business. They followed the specific instructions that the project managers gave them on how to do their work, and the workers did not choose when, where or how to perform that work. Furthermore, the workers did not provide the appellant with invoices, because the evidence showed that the appellant prepared the workers' invoices itself. These invoices, which looked more like pay stubs, were attached to cheques issued by the appellant in payment for the work performed by the workers.
+d) Conclusion
+(71) For all these reasons, on a preponderance of evidence, the workers had entered into a contract of employment with the appellant and not a contract of service. Therefore, subject to the application of paragraph 5(2)(i) to non-arm's length workers, the workers had entered into a contract of service with the appellant and therefore held insurable employment within the meaning of paragraph 5(1)(a) during the period.
+5.2 NON-ARM'S LENGTH WORKER AND PARAGRAPH 5(2)(i)
+5.2.1 Legal framework
+(72) Paragraph 5(2)(i) indicates that insurable employment does not include "employment if the employer and employee are not dealing with each other at arm's length."
+(73) According to paragraph 5(3)(a), the question of whether persons are not dealing with each other at arm's length shall be determined in accordance with the Income Tax Act, (R.S.C., 1985, c. 1 (5th Supp.), as amended) (the "ITA") (the relevant provisions of the ITA are appended to these reasons).
+(74) In addition, paragraph 5(3)(b) provides that if the employer is, within the meaning of the ITA, related to the employee, they are deemed to deal with each other at arm's length if the Minister is satisfied that, having regard to all the circumstances of the employment, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length. If this is the case, then the employment will be insurable employment for the purposes of the Act.
+(75) The provisions read as follows:
+5(2) Insurable employment does not include
+. . .
+(i) employment if the employer and employee are not dealing with each other at arm's length.
+5(2) N'est pas un emploi assurable :
+[…]
+i) l'emploi dans le cadre duquel l'employeur et l'employé ont entre eux un lien de dépendance.
+5(3) For the purposes of paragraph (2)(i),
+(a) the question of whether persons are not dealing with each other at arm's length shall be determined in accordance with the Income Tax Act; and
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm's length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+5(3) Pour l'application de l'alinéa (2)i) :
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l'impôt sur le revenu;
+b) l'employeur et l'employé, lorsqu'ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu'il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d'emploi ainsi que la durée, la nature et l'importance du travail accompli, qu'ils auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+5.2.2 Discussion
+(76) For the following reasons, Tanya Lapointe, Maxim Meunier, Sébastien Meunier and Annie Plouffe are related to the appellant pursuant to the provisions of the ITA.
+(77) First, the evidence showed that Maxim Meunier, Sébastien Meunier and Francis Meunier are the sons of Richard Meunier, that Tanya Lapointe is the wife of Sébastien Meunier and that Annie Plouffe is the wife of Francis Meunier.
+(78) Pursuant to subparagraph 251(2)(b)(i) of the ITA, Mr. Meunier is related to the appellant because he owns all of the appellant's shares. Mr. Meunier's sons are related to their father, because they are connected by blood relationship (paragraphs 251(2)(a) and 251 (6)(a) of the ITA). Maxim, Sébastien and Francis Meunier are related to the appellant (subparagraph 251(2)(b)(iii) of the ITA).
+(79) Because Tanya Lapointe is married to Sébastien Meunier, she is related to Mr. Meunier (paragraphs 251(2)(a) and 251(6)(b) of the ITA) and to the appellant (subparagraph 251(2)(b)(iii) of the ITA).
+(80) Since Annie Plouffe is the common-law spouse of Francis Meunier, she is related to Mr. Meunier (paragraphs 251(2)(a) and 251(6)(b) of the ITA) and to the appellant (subparagraph 251(2)(b)(iii) of the ITA).
+(81) Since related persons are deemed not to deal with each other at arm's length (paragraph 251(1)(a) of the ITA), the employment of Maxim Meunier, Sébastien Meunier, Tanya Lapointe and Annie Plouffe by the appellant is considered insurable employment under paragraph 5(2)(i) of the Act, unless the assumption in paragraph 5(3)(b) applies. In this case, on a preponderance of evidence, I find that this assumption applies to non-arm's length workers.
+(82) Mr. Meunier and Maxim Meunier testified at the hearing that non-arm's length workers performed the same tasks as other workers and enjoyed the same working conditions in terms of pay and other meal and kilometrage allowances. Maxim Meunier testified to having performed contracts outside the Gatineau area, as did Mr. Prégent and Ms. Brazeau. Maxim Meunier enjoyed the same working conditions as arm's length workers, received the same compensation, and performed the same tasks. Similarly, Maxim Meunier, Ms. Brazeau and Mr. Prégent were each responsible for the timesheets. Also, when he travelled to areas located far from Gatineau, Maxim Meunier was also accommodated in a hotel room, without having to pay any money, just like other workers. In addition, given his experience, Maxim Meunier obtained a contract for the sale of Johnvince Food (Planters). However, I am of the view that an arm's length worker with experience could have secured such a contract as well, although there is no evidence in this regard. On several occasions during the hearing, Mr. Meunier confirmed that non-arm's length workers enjoyed the same working conditions as other workers and performed the same tasks. Therefore, the duration, nature and importance of the work performed were similar for non-arm's length workers and arm's length workers.
+(83) Given the evidence filed at the hearing, it is reasonable to conclude in the circumstances that the non-arm's length workers would have entered into a substantially similar contract of employment with the appellant if they had been dealing with the appellant at arm's length. Pursuant to paragraph 5(3)(b), the related workers are therefore deemed to deal with the appellant at arm's length. Consequently, the exception stipulated in paragraph 5(2)(i) does not apply in this case. This means that the related workers held insurable employment with the appellant during the period pursuant to paragraph 5(1)(a).
+5.3 PENALITES ASSESSED PURSUANT TO SUBSECTION 82(9)
+5.3.1 Legal framework
+(84) Subsection 82(1) provides that an employer must remit the workers' premiums and the employer's premiums to the Receiver General at the prescribed time. This subsection reads as follows:
+82(1) Every employer paying remuneration to a person they employ in insurable employment shall
+(a) deduct the prescribed amount from the remuneration as or on account of the employee's premium payable by that insured person under section 67 for any period for which the remuneration is paid; and
+(b) remit the amount, together with the employer's premium payable by the employer under section 68 for that period, to the Receiver General at the prescribed time and in the prescribed manner.
+82(1) L'employeur qui paie une rétribution à une personne exerçant à son service un emploi assurable est tenu de retenir sur cette rétribution, au titre de la cotisation ouvrière payable par cet assuré en vertu de l'article 67 pour toute période à l'égard de laquelle cette rétribution est payée, un montant déterminé conformément à une mesure d'ordre réglementaire et de le verser au receveur général avec la cotisation patronale correspondante payable en vertu de l'article 68, au moment et de la manière prévus par règlement.
+(85) The Insurable Earnings and Collection of Premiums Regulations (SOR/97-33) (the "Regulations") provide that, in general, premiums payable under the Act must be remitted to the Receiver General on or before the 15th day of the month following the month in which the compensation was paid (subsection 4(1) of the Regulations). Some special rules are stipulated in the Regulations, which amend this remittance deadline. The final deadline stipulated in the Regulations is January 15 of the year following the calendar year in which the compensation was paid (paragraph 4(3.1)(g) of the Regulations).
+(86) Subsection 82(9) provides that an employer who fails to remit to the Receiver General an amount that the employer is required to remit at the time when it is required is liable to a penalty. This provision reads as follows:
+82(9) Every employer who in a year fails to remit to the Receiver General an amount that the employer is required to remit at the time when it is required is liable to a penalty of
+(a) subject to paragraph (b), if
+. . .
+(iii) that amount is not paid or remitted on or before the seventh day after it was due, 10% of that amount;
+82(9) Tout employeur qui, au cours d'une année, ne remet pas au receveur général, à l'échéance, un montant qu'il est tenu de lui remettre est passible d'une pénalité égale à, selon le cas :
+a) sous réserve de l'alinéa b) :
+[…]
+(iii) si ce montant n'est pas payé ou remis au plus tard le septième jour suivant la date où il est exigible, dix pour cent du montant;
+5.3.2 Discussion
+(87) During the hearing, Mr. Meunier agreed that neither he nor the appellant had yet remitted the premiums payable under the Act in respect of the compensation paid to the workers during the period. Because the appellant was assessed for 2013, 2014 and 2015, the final deadline for remitting the premiums to the Receiver General was January 15, 2016. The time limits prescribed for remitting these amounts were therefore greatly exceeded. The appellant is therefore liable to the penalties set out in subparagraph 82(9)(a)(iii), i.e., 10% of the amounts not remitted.
+(88) According to the respondent, these penalties are applied automatically when an employer fails to remit the premiums payable under the Act at the time when they are required.
+(89) However, with respect to similar provisions in the ITA and the Excise Tax Act ( R.S.C., 1985, c. E-15 ), which provide for so-called administrative penalties, the courts have recognized that there was no bar to the defence of due diligence (Corporation de l'école polytechnique v. Canada, 2004 FCA 127, paragraph 27; Résidences Majeau Inc. v. Canada, 2010 FCA 28 [Résidences Majeau], paragraph 8; Royal Bank of Canada v. Canada, 2007 FCA 72). This Court has also ruled that a defendant may rely on such a defence in respect of penalties of a similar nature set out in the former version of the Act (Houston Agencies Ltd. v. Canada (Minister of National Revenue) [1996] TCJ No. 1250 (QL)).
+(90) To rely on this defence, the appellant had to establish either that it took all reasonable precautions to ensure that it remitted the amounts payable to the Receiver General within the prescribed time limits, or that it had made a reasonable mistake of fact (Résidences Majeau, paragraphs 8, 9 and 10).
+(91) The evidence did not reveal any actions taken by the appellant to ensure that it remitted the premiums to the Receiver General within the prescribed time limit. The appellant argued that its workers did not hold insurable employment. As a result, it did not take any steps to ensure that the premium were remitted.
+(92) A reasonable mistake of fact requires a twofold test: subjective and objective. The subjective test involves determining whether the appellant misconstrued a factual situation, which would have rendered innocent its failure to remit the premiums payable to the Receiver General within the prescribed time limit. In this case, on a preponderance of evidence, I find that the appellant met the subjective test until May 2015, that is, until the judgment of this Court was delivered in Meunier. However, it cannot claim to have misconstrued a factual situation, which would have rendered innocent its failure to remit the premium payable to the Receiver General under the Act after that date, because, among other things, this prior judgment of the Court was not appealed. Rather, the appellant decided to appeal to this Court for the period 2013, 2014 and 2015, with respect to the assessments made by the Minister under the Act following this judgment, and Mr. Meunier confirmed in his testimony that the appellant's operations were similar and had not changed since 2010 and 2011.
+(93) I find that the objective test was not met. The appellant did not establish that, in the same circumstances, a reasonable person would have made this error. A reasonable person placed in the same circumstances as the appellant would have concluded that there was a relationship of subordination between him and the workers.
+(94) For these reasons, the penalties must be upheld.
+VI – CONCLUSION
+(95) On a preponderance of evidence, the workers held insurable employment within the meaning of paragraph 5(1)(a) of the Act while working for the appellant during the period. Given the direction and control that the appellant exercised over the worker's work, there was a relationship of legal subordination between the appellant and the workers. As a result, the requirements of the contract of service were met. In addition, the exception in paragraph 5(2)(i) did not apply to the non-arm's length workers.
+(96) Having found that the workers were bound to the appellant under a contract of employment, the Court need not consider the alternative argument raised by the respondent.
+(97) For these reasons, the appeal under the Act is dismissed and the Minister's decision dated February 24, 2017 is affirmed, without costs.
+Signed at Ottawa, Canada, this 22nd day of February 2021.
+"Dominique Lafleur"
+Lafleur J.
+APPENDIX
+INCOME TAX ACT (R.S.C. 1985, C. 1, 5TH SUPP.)
+LOI DE L'IMPÔT SUR LE REVENU (L.R.C. 1985, CH. 1, 5E SUPPL.)
+Arm's length
+251(1) For the purposes of this Act,
+(a) related persons shall be deemed not to deal with each other at arm's length;
+. . .
+Lien de dépendance
+251(1) Pour l'application de la présente loi :
+a) des personnes liées sont réputées avoir entre elles un lien de dépendance;
+[…]
+Definition of related persons
+(2) For the purpose of this Act, related persons, or persons related to each other, are
+(a) individuals connected by blood relationship, marriage or common-law partnership or adoption;
+(b) a corporation and
+(i) a person who controls the corporation, if it is controlled by one person,
+(ii) a person who is a member of a related group that controls the corporation, or
+(iii) any person related to a person described in subparagraph 251(2)(b)(i) or 251(2)(b)(ii); and
+. . .
+Définition de personnes liées
+(2) Pour l'application de la présente loi, sont des personnes liées ou des personnes liées entre elles :
+a) des particuliers unis par les liens du sang, du mariage, de l'union de fait ou de l'adoption;
+b) une société et :
+(i) une personne qui contrôle la société si cette dernière est contrôlée par une personne,
+(ii) une personne qui est membre d'un groupe lié qui contrôle la société,
+(iii) toute personne liée à une personne visée au sous-alinéa (i) ou (ii);
+[…]
+Blood relationship, etc.
+(6) For the purposes of this Act, persons are connected by
+(a) blood relationship if one is the child or other descendant of the other or one is the brother or sister of the other;
+(b) marriage if one is married to the other or to a person who is so connected by blood relationship to the other;
+(b.1) common-law partnership if one is in a common-law partnership with the other or with a person who is connected by blood relationship to the other; and
+. . .
+Personnes liées par les liens du sang
+(6) Pour l'application de la présente loi :
+a) des personnes sont unies par les liens du sang si l'une est l'enfant ou un autre descendant de l'autre ou si l'une est le frère ou la sœur de l'autre;
+b) des personnes sont unies par les liens du mariage si l'une est mariée à l'autre ou à une personne qui est ainsi unie à l'autre par les liens du sang;
+b.1) des personnes sont unies par les liens d'une union de fait si l'une vit en union de fait avec l'autre ou avec une personne qui est unie à l'autre par les liens du sang;
+[…]
+CITATION:
+2021 TCC 7
+DOCKET:
+2017-2188(EI)
+STYLE OF CAUSE:
+7547978 CANADA INC. AND THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING:
+Ottawa, Canada
+DATE OF HEARING:
+October 26 to 29, 2020
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Dominique Lafleur
+DATE OF JUDGMENT:
+February 22, 2021
+APPEARANCES:
+Agent for the appellant:
+Richard Meunier
+Counsel for the Respondent:
+Élise Rivest
+Anna Maria Konewka
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+[Blank / En blanc]
+Firm:
+[Blank / En blanc]
+For the respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

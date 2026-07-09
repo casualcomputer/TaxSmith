@@ -1,0 +1,217 @@
+---
+title: "Iqbal c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/127200/index.do"
+last_modified: "2015-12-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 CCI 324"
+citation2: ""
+neutral_citation: "2015 CCI 324"
+decision_date: "2015-12-15"
+language: "fr"
+item_id: "127200"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3041
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:13:40.258000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "771416d84bcc3ca0189fb4e92b70a03da1fe65bb88116f15cb17d2e9de1950fd"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Iqbal c. La Reine
+
+- Citation: 2015 CCI 324
+- Decision date: 2015-12-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3041, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Iqbal c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-12-15
+Référence neutre
+2015 CCI 324
+Numéro de dossier
+2014-1838(IT)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2014-1838(IT)I
+ENTRE :
+SIDRA IQBAL,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 16 juillet 2015 à Toronto (Ontario).
+Devant : L’honorable juge Réal Favreau
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Erin Strashin
+JUGEMENT
+L’appel à l’encontre de la nouvelle cotisation datée du 13 octobre 2009 établie par le ministre du Revenu national en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2008 est rejeté conformément aux motifs du jugement ci-joints.
+Signé à Montréal, Canada, ce 15e jour de décembre 2015.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 11e jour de février 2016.
+S. Tasset
+Référence : 2015 CCI 324
+Date : 20151215
+Dossier : 2014-1838(IT)I
+ENTRE :
+SIDRA IQBAL
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] La Cour est saisie d’un appel interjeté selon la procédure informelle à l’encontre d’une nouvelle cotisation établie par le ministre du Revenu national (le « ministre ») en vertu de la Loi de l’impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.), telle que modifiée, (la « Loi ») datée du 13 octobre 2009, concernant l’année d’imposition 2008 de l’appelante.
+[2] La question à trancher consiste à savoir si l’appelante a droit à des crédits d’impôt à l’égard de dons de bienfaisance de 3 500 $ et de 4 000 $ qui auraient été faits durant l’année d’imposition 2008.
+[3] Pour calculer la dette fiscale de l’appelante pour l’année d’imposition 2008, le ministre s’est fondé sur les hypothèses de fait suivantes :
+[traduction]
+a) l’appelante a demandé un crédit d’impôt de pour des dons de bienfaisance qu’elle aurait faits pour l’année d’imposition 2008, soit un don de 3 500 $ à l’Africanadian Mediation Community Services (l’« AMCS ») et un don de 4 000 $ à Operation Save Canada Teenagers (« Operation »);
+b) l’appelante a déclaré un revenu net de 49 762 $ pour l’année d’imposition 2008;
+c) le montant des dons qui auraient été faits en 2008 représentait 15 % du revenu net déclaré de l’appelante pour l’année d’imposition 2008;
+d) l’appelante a omis de fournir au ministre des reçus comportant les informations prescrites par l’article 3501 du Règlement de l’impôt sur le revenu pour les dons de bienfaisance à l’égard desquels elle a demandé des crédits d’impôt pour l’année d’imposition 2008;
+Africanadian Mediation Community Services
+e) avant le 11 décembre 2010, l’AMCS était un organisme de bienfaisance enregistré;
+f) l’AMCS n’a pas tenu des livres et des registres adéquats;
+g) l’AMCS n’a pas consacré toutes ses ressources à des fins de bienfaisance et à des activités connexes;
+h) l’AMCS n’a pas délivré de reçus conformément à la Loi de l’impôt sur le revenu;
+i) l’enregistrement de l’AMCS comme organisme de bienfaisance a été révoqué pour motif valable par le ministre en date du 11 décembre 2010;
+j) les dons qu’aurait faits l’appelante à l’AMCS pour l’année d’imposition 2008 étaient constitués d’un don en espèces de 1 500 $ et d’un don de 2 000 $ en nature;
+k) les dates auxquelles les dons en nature auraient été faits ne figuraient pas sur le reçu délivré à l’appelante par l’AMCS;
+l) la valeur des dons en nature effectués ne correspond pas à la description des biens qui auraient été donnés;
+m) le reçu ne portait pas le nom de l’ARC et l’adresse de son site Internet, et n’énonçait pas qu’il s’agissait d’un reçu officiel aux fins d’impôt;
+n) le reçu ne portait pas la signature de la personne qui l’avait délivré;
+o) l’AMCS n’a pas reçu de dons de la part de l’appelante;
+p) l’appelante n’a transféré aucun bien (en espèces ou en nature) à l’AMCS au cours de l’année d’imposition 2008 ni dans les cinq années d’imposition précédant immédiatement celle-ci;
+q) si l’appelante a transféré des biens en nature à l’AMCS dans l’année d’imposition 2008, la juste valeur marchande de ces biens en nature était minime;
+Operation Save Canada Teenagers
+r) Operation était un organisme de bienfaisance enregistré le 6 juillet 2006;
+s) Operation n’a pas tenu de livres et de registres adéquats;
+t) Operation n’a pas consacré toutes ses ressources à des fins de bienfaisance et à des activités connexes;
+u) Operation n’a pas délivré de reçus conformément à la Loi de l’impôt sur le revenu;
+v) l’enregistrement d’Operation comme organisme de bienfaisance a été révoqué pour motif valable par le ministre en date du 8 janvier 2011;
+w) les dons qu’aurait faits l’appelante à Operation dans l’année d’imposition 2008 étaient constitués d’un don en espèce de 1 200 $ et d’un don en nature de 2 800 $;
+x) les dates auxquelles les dons en nature auraient été faits ne figuraient pas sur le reçu délivré à l’appelante par Operation;
+y) la valeur des dons en nature effectués ne correspond pas à la description des biens qui auraient été donnés;
+z) Operation n’a pas reçu de dons de la part de l’appelante;
+aa) l’appelante n’a transféré aucun bien (en espèces ou en nature) à Operation au cours de l’année d’imposition 2008 ni dans les cinq années d’imposition précédant immédiatement celle-ci;
+bb) si l’appelante a transféré des biens en nature à Operation dans l’année d’imposition 2008, la juste valeur marchande de ces dons en nature était minime;
+[…]
+[4] Tel qu’il a été énoncé au paragraphe 7 de la réponse à l’avis d’appel, le ministre s’est également fondé sur les nouveaux faits importants suivants :
+[traduction]
+a) Operation Save Canada’s Teens (« Teens ») n’était pas un organisme de bienfaisance enregistré en 2008;
+b) l’appelant n’a transféré aucun bien (en espèces ou en nature) à Teens dans l’année d’imposition 2008 ni dans les cinq années d’imposition précédant immédiatement celle-ci.
+[5] L’appelante a témoigné à l’audience. Elle a expliqué qu’il s’agissait de la première année où elle donnait de l’argent à des organismes de bienfaisance. En 2008, elle travaillait en tant que contrôleuse de la qualité pour la société Aliments Maple Leaf, et elle a déclaré un revenu net de 49 762 $ dans sa déclaration de revenus. Le montant total d’impôt retenu selon son formulaire T-4 était de 9 599,57 $, elle a effectué des cotisations de 2 289,98 $ au Régime de pensions du Canada et de 859,65 $ au régime de l’assurance-emploi. Son revenu disponible net après impôt pour cette année-là se chiffrait à environ 37 000 $, soit à environ 3 000 $ par mois.
+[6] L’appelante a quitté le domicile de ses parents lorsqu’elle s’est mariée. Elle a alors emménagé dans un appartement d’une chambre à coucher. À la fin de 2008, elle est allée vivre dans un appartement de deux chambres à coucher, avec son époux. Le loyer mensuel se situait entre 1 100 $ et 1 200 $, et était payé à parts égales par l’appelante et son époux. Elle a évalué que leurs frais de subsistance étaient d’environ 300 $ par semaine. Ils étaient propriétaires d’une voiture, et vivaient à environ cinq ou six kilomètres du lieu de travail de l’appelante. Elle devait rembourser un prêt étudiant à raison de 60 $ par mois. Son époux n’avait aucune dette d’études. Elle n’a fourni aucun autre renseignement financier concernant son époux.
+[7] L’appelante a confirmé avoir demandé dans sa déclaration de revenus pour l’année d’imposition 2008 des crédits d’impôt pour des dons totalisant 7 500 $ faits à deux organismes de bienfaisance, soit l’Africanadian Mediation Community Services (l’« AMCS ») et Operation Save Canada Teenagers (« Operation »). Le don de 3 500 $ fait à l’AMCS était composé de 1 500 $ en espèces et de 2 000 $ en nature. Le don de 4 000 $ fait à Operation était composé de 1 200 $ en espèces et de 2 800 $ en nature.
+[8] L’appelante a expliqué qu’elle avait entendu parler de l’AMCS par un ami ghanéen qui préparait ses déclarations de revenus. Elle avait uniquement connaissance que l’AMCS était un organisme qui venait en aide à des personnes en Afrique. Elle ignorait à quel endroit l’AMCS exerçait ses activités.
+[9] L’appelante a expliqué que sa contribution en espèces avait été calculée par son époux en fonction d’un pourcentage de son avoir. Elle retirait 300 $ par mois de son compte en banque, et mettait cette somme de côté à des fins de don. Le don en nature en faveur de l’AMCS était composé d’articles ménagers, de vêtements usagés, de chaussures, d’un ordinateur portable, de livres et de revues.
+[10] Selon l’appelante, le don en espèces en faveur de l’AMCS était un don unique remis à la personne qui était venue chercher le don en nature en juin 2008. Elle a expliqué qu’elle avait obtenu un reçu de l’organisme à la fin de l’année. Elle ignorait qui avait procédé à l’évaluation des biens donnés.
+[11] L’appelante a expliqué qu’un ami lui avait recommandé d’appuyer l’organisme Operation. Elle s’est servie de ses retraits mensuels dans son compte en banque pour faire les dons en espèces. Les sommes provenant de ses retraits mensuels étaient conservées par le coordonnateur d’un groupe, au pays, afin d’aider les membres du groupe en cas de besoin. L’appelante a soutenu qu’elle aurait pu utiliser cet argent comme elle le souhaitait. Elle a fait ce don en espèces à Operation en une seule fois, mais elle n’a pas précisé la date à laquelle le don a été fait, où il a été fait et à qui il a été fait. Elle soutient qu’elle a fait de nombreux dons en nature en faveur de l’organisme Operation; elle n’avait qu’à téléphoner à l’organisme, et celui-ci envoyait une personne chercher les biens. L’appelante n’a pas rédigé de liste détaillée des biens qu’elle a donnés. L’évaluation des biens donnés par l’appelante a été effectuée par l’organisme en vue de la préparation d’un reçu d’impôt.
+[12] L’appelante fait valoir que les reçus originaux délivrés par les organismes de bienfaisance ont été fournis à l’Agence du revenu du Canada (l’« ARC ») lorsqu’elle a produit sa déclaration de revenus pour 2008. Elle n’a pas été en mesure de présenter en preuve une copie du reçu de l’AMCS. Les alinéas 6k) à 6n) de la réponse à l’avis d’appel montrent clairement que l’ARC avait le reçu d’AMCS en sa possession à un certain moment donné. L’appelante a fourni une copie du reçu délivré par Operation lorsqu’elle a déposé son avis d’opposition.
+[13] M. Salman Jafri, un agent des litiges de l’ARC, a témoigné à l’audience et a déposé des extraits de la partie I de la Gazette du Canada montrant que l’enregistrement de l’organisme de bienfaisance Africanadian Mediation and Community Services avait été révoqué le 11 décembre 2010 et que l’enregistrement de l’organisme de bienfaisance Operation Save Canada’s Teenagers avait été révoqué le 15 janvier 2011.
+Analyse
+[14] L’article 118.1 de la Loi permet à un particulier de demander un crédit d’impôt pour les dons de bienfaisance faits à un organisme de bienfaisance enregistré. L’alinéa 118.1(2)a) prévoit que le don doit être attesté au moyen d’un reçu comportant les renseignements prescrits. L’alinéa prévoit ce qui suit :
+(2) Pour qu’un don soit inclus dans le total des dons de bienfaisance, le total des dons à l’État, le total des dons de biens culturels ou le total des dons de biens écosensibles, son versement doit être attesté par la présentation au ministre des documents suivants :
+a) un reçu contenant les renseignements prescrits;
+[...]
+[15] Les renseignements prescrits devant figurer sur un reçu officiel sont énumérées au paragraphe 3501(1) du Règlement de l’impôt sur le revenu (le « Règlement »), lequel prévoit ce qui suit, dans sa version applicable à l’année d’imposition 2008 :
+Tout reçu officiel délivré par une organisation enregistrée doit énoncer qu’il s’agit d’un reçu officiel aux fins de l’impôt sur le revenu et indiquer clairement, de façon à ce qu’ils ne puissent être modifiés facilement, les détails suivants :
+a) le nom et l’adresse au Canada de l’organisation ainsi qu’ils sont enregistrés auprès du Ministre;
+b) le numéro d’enregistrement attribué par le Ministre à l’organisation;
+c) le numéro de série du reçu;
+d) le lieu ou l’endroit où le reçu a été délivré;
+e) lorsque le don est un don en espèces, la date ou l’année où il a été reçu;
+e.1) lorsque le don est un don de biens autres que des espèces
+(i) la date où il a été reçu,
+(ii) une brève description du bien, et
+(iii) le nom et l’adresse de l’évaluateur du bien si une évaluation a été faite;
+f) la date de délivrance du reçu;
+g) le nom et l’adresse du donateur, y compris, dans le cas d’un particulier, son prénom et son initiale;
+h) celle des sommes ci-après qui est applicable :
+(i) le montant du don en espèces,
+(ii) lorsque le don est un don de biens autres que des espèces, à la juste valeur marchande du bien au moment où le don est fait;
+h.1) une description de l’avantage, le cas échéant, au titre du don et le montant de cet avantage;
+h.2) le montant admissible du don;
+i) la signature, ainsi qu’il est prévu au paragraphe (2) ou (3) d’un particulier responsable qui a été autorisé par l’autre bénéficiaire d’un don à accuser réception des dons;
+j) le nom de l’Agence du revenu du Canada et l’adresse de son site Internet.
+[16] Pour les motifs suivants, j’ai conclu que les reçus fournis par l’appelante ne comportent pas tous les renseignements prescrits par le Règlement et ce motif à lui seul suffit pour que l’appel soit rejeté. J’ai également conclu que, même si les reçus étaient conformes au Règlement, l’appelante n’a pas su prouver, selon la prépondérance des probabilités, qu’elle a fait les dons en cause.
+[17] L’appelante a produit un reçu de l’AMCS avec sa déclaration de revenus pour 2008. Aucune copie du reçu n’a été déposée en preuve à la Cour, mais l’ARC l’avait en sa possession et a souligné que, contrairement aux exigences des alinéas 3501(1)e.1), i) et j) du Règlement, a) le reçu n’indiquait pas les dates auxquelles les dons en nature auraient été faits, b) la valeur des dons en nature effectués ne correspondait pas à la description des biens qui auraient été donnés, c) le reçu n’indiquait pas le nom de l’ARC et l’adresse de son site Internet et ne précisait pas s’il s’agissait d’un reçu officiel aux fins de l’impôt, et d) le reçu ne portait pas la signature de la personne qui a délivré le reçu.
+[18] Contrairement à ce qu’exige l’alinéa 3501(1)e.1) du Règlement, le reçu délivré par Operation n’indiquait pas les dates auxquelles les dons en nature auraient été faits et leur valeur pécuniaire ne correspondait pas à la description des biens qui auraient été donnés.
+[19] Puisqu’aucun des reçus fournis à l’appelante par l’AMCS et Operation n’indique toutes les informations prescrites, ils ne satisfont pas aux conditions prévues au paragraphe 118.1(2) de la Loi et, pour ces motifs, les crédits d’impôt pour dons de bienfaisance demandés par l’appelante ne peuvent être accordés.
+[20] L’appelante a le fardeau de prouver qu’elle a fait les dons allégués à l’AMCS et à Operation en 2008. La norme de preuve qui doit être appliquée est celle de la prépondérance des probabilités. Cela signifie que l’appelante doit démontrer que, selon toute vraisemblance, elle a fait les dons en cause. À mon avis, l’appelante n’a pas satisfait à la norme de preuve.
+[21] Les éléments présentés par l’appelante pour prouver qu’elle a fait les dons en cause se limitent à son témoignage et aux reçus incomplets délivrés par l’AMCS et Operation.
+[22] Les éléments de preuve présentés par l’appelante n’ont pas permis d’établir qu’elle a fait les dons à l’AMCS et à Opération. Son témoignage était vague et peu fiable. Elle ignorait à quel endroit les organismes exerçaient leurs activités et à quelles fins servaient les dons, sauf de façon générale. Elle a simplement soutenu qu’elle avait qu’elle avait entendu parler de l’AMCS par un ami qui préparait ses déclarations de revenus et qui est retourné au Ghana depuis. De façon similaire, elle a entendu parler d’Operation par un autre ami. Elle n’a fourni aucune information concernant ce dernier. Aucun de ces amis n’a été appelé à témoigner pour corroborer la preuve qu’elle a présentée.
+[23] L’appelante a expliqué qu’elle a retiré de son compte en banque les sommes qu’elle a versées à titre de dons, mais aucun relevé bancaire faisant état des retraits en espèces n’a été déposé en preuve à la Cour. Les montants de dons en espèces étaient fondés sur une formule calculée par l’époux de l’appelante. Je tire une conclusion négative du fait que l’appelante n’a pas appelé son époux à confirmer la façon dont le montant des dons en espèces était déterminé et le moment où ceux-ci avaient été faits.
+[24] Le témoignage de l’appelante était également vague en ce qui concerne l’endroit où le montant en espèces était conservé. Il n’est pas tout à fait clair si toutes les sommes qu’elle a retirées mensuellement étaient conservées par un coordonnateur ou si une partie de celles-ci étaient conservée par elle, à son domicile.
+[25] Le témoignage de l’appelante était particulièrement déficient, car elle ne pouvait se rappeler les dates exactes où elle avait fait les dons en espèces ou en nature. Elle a souligné que ceux-ci avaient été faits au mois de juin 2008, mais cela n’a pas été corroboré par un témoignage oral ou une preuve documentaire. Elle n’a pas été en mesure de nommer les personnes à qui elle aurait remis les dons en espèces ou en nature, et elle n’a appelé aucun représentant des organismes à témoigner au sujet des contributions qu’elle aurait faites, ni présenté de preuve concernant l’évaluation des biens qu’elle a donnés.
+[26] Au moment où les dons ont été faits, l’appelante n’a pas rédigé de liste détaillée des biens donnés comportant une courte description de ceux-ci et leur valeur estimative. Elle s’est fiée entièrement aux organismes de bienfaisance pour établir la valeur estimative des biens donnés. J’ai peine à croire qu’elle ne voulait pas garder des biens qui avaient une la valeur totale 4 800 $.
+[27] En analysant la capacité de l’appelante à verser les contributions en espèces alléguées, je suis porté à croire que les montants sont importants en comparaison de son revenu disponible net d’impôt pour l’année d’imposition 2008. Les dons en espèces comptent pour 7,3 % de son revenu disponible net d’impôt de cette année-là.
+[28] Compte tenu des montants des dons qui auraient été faits par Mme Iqbal, je me serais attendu à ce qu’elle ait fait davantage attention à la consignation de ces dons de manière régulière, à ce qu’elle se soit renseignée de façon plus exhaustive sur les personnes gérant ces organismes et sur la façon dont ces dons étaient utilisés pour les activités de bienfaisance auxquelles ils étaient destinés.
+[29] Compte tenu de tous les motifs qui précèdent, je conclus que l’appelante n’a pas établi, selon la prépondérance des probabilités, qu’elle avait fait les dons en cause.
+[30] L’appel est rejeté.
+Signé à Montréal, Canada, ce 15e jour de décembre 2015.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 11e jour de février 2016.
+S. Tasset
+RÉFÉRENCE :
+2015 CCI 324
+Nº DU DOSSIER DE LA COUR :
+2014-1838(IT)I
+INTITULÉ :
+SIDRA IQBAL et SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 16 juillet 2015
+MOTIFS DU JUGEMENT :
+L’honorable juge Réal Favreau
+DATE DU JUGEMENT :
+Le 15 décembre 2015
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Erin Strashin
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,257 @@
+Title: Les immeubles Caris Ltée  v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/181151/index.do
+Corpus path: corpus/cases/tcc/2016/2016-tcc-222-181151-les-immeubles-caris-lt-e-v-the-queen-en.md
+Document type: case_law
+Last modified: 2016-10-11
+
+# Les immeubles Caris Ltée  v. The Queen
+
+- Citation: 2016 TCC 222
+- Decision date: 2016-10-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2971, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Les immeubles Caris Ltée v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-10-11
+Neutral citation
+2016 TCC 222
+File numbers
+2016-1457(GST)APP
+Judges and Taxing Officers
+Johanne D’Auray
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+[ENGLISH TRANSLATION]
+Docket: 2016-1457(GST)APP
+BETWEEN:
+LES IMMEUBLES CARIS LTÉE,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Application heard on June 21, 2016, at Québec, Quebec
+Before: The Honourable Justice Johanne D’Auray
+Appearances:
+Counsel for the Applicant:
+Pierre Hémond
+Counsel for the Respondent:
+Sylvain Lacombe
+ORDER
+Upon reading the application made by the applicant for an extension of time to file notices of objection with the Minister of Revenu Québec regarding three assessments issued under the Excise Tax Act, for which the notices of assessment are dated August 20, 2014;
+And upon having heard the parties;
+The application for extension of time to file notices of objection regarding the three assessments is allowed, and the Court orders that the timeframe within which the notices of objection can be filed with the Minister of Revenu Québec be extended until the date of this order and that the notices of objection accompanying the application be considered as valid notices of objection on the date of this order.
+Signed at Ottawa, Canada, this 11th day of October 2016.
+"Johanne D’Auray"
+D’Auray J.
+[ENGLISH TRANSLATION]
+Citation: 2016 TCC 222
+Date: 20161011
+Docket: 2016-1457(GST)APP
+BETWEEN:
+LES IMMEUBLES CARIS LTÉE,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+D’Auray J.
+BACKGROUND [1] The Minister of Revenu Québec, as an agent of the Minister of National Revenue (the Minister), refused to grant the applicant an extension of time to file notices of objection against three assessments for which the notices were dated August 20, 2014 (the assessments at issue).
+[2] Following this refusal, the applicant is asking this Court to grant an extension of time so that it may file notices of objection against the assessments at issue, namely:
+Notice of assessment number
+Notice of assessment date
+Lot
+Address
+14076501912390001
+August 20, 2014
+4 429 319
+3984 boul. Ste-Anne, Québec
+14183501212390001
+August 20, 2014
+1 541 426
+390-394 rue Sauriol, Québec
+14076502112390001
+August 20, 2014
+4 429 318
+3986 boul. Ste-Anne, Québec
+14317000112390001
+November 18, 2014
+--
+--
+Facts [3] The applicant is a management company that operates four residential rental properties.
+[4] Claude Dion is the main shareholder and president of the applicant.
+[5] The Agence du Revenu du Québec (the ARQ) audited the applicant in February 2014 for the period from June 25, 2009, to May 1, 2012. This audit was completed in December 2014. Between August and December 2014, the applicant received a total of 11 notices of assessment and a proposed assessment.
+[6] Three rounds of assessments took place in this case, the first being the assessments at issue, that is to say those from August 20, 2014; the second round took place in November 2014; and the third round took place in December 2014. Between the first round of assessments and the second round of assessments, the applicant received a proposed assessment in September 2014. I have reproduced the portion of the text that pertains to the notices of assessment, since the wording used by the ARQ is important in this case.
+First round of assessments—four notices of assessment dated August 20, 2014 Property located at 275 rue Letellier, notice of assessment bearing the reference number 14076501512390001 [7] This notice of assessment is in reference to property 1 478 840, located at 275 rue Letellier in Québec City. The notice of assessment indicates that the applicant applied for a new residential rental property rebate (the property rebate) in the amount of $6,648.09. According to the notice of assessment, the amount of $6,648.09 was granted by the Minister. Thus, the assessment shows a credit balance of $6,648.09.
+[8] However, the amount of $6,648.09 was withheld by the ARQ because, according to the notice of assessment, the applicant does not meet [translation] "the legislative requirements for the following program account(s): 85657 8794 RT0001" with no further explanation.
+Property located at 3984 boul. Ste-Anne, notice of assessment bearing the reference number 14076501912390001 [9] This notice of assessment is in reference to property 4 429 319 located at 3984 boul. Ste-Anne in Québec City. The notice of assessment indicates that the applicant applied for a property rebate of $25,202.92. This property rebate was disallowed by the Minister on the grounds that the application was not received within two years of the date upon which the tax became payable on the purchase or the date of the self-assessment.
+[10] The notice of assessment indicates that the previously granted property rebate of $6,648.09 for the property at 275 rue Letellier is withheld because the applicant did not meet [translation] "the legislative requirements for the following program account(s): 85657 8794 RT0001" with no further explanation.
+[11] Under this assessment, the applicant did not owe anything, since the assessment was void.
+Property located at 3986 boul. Ste-Anne, notice of assessment bearing the reference number 14076502112390001 [12] This notice of assessment is in reference to property 4 429 318 located at 3986 boul. Ste-Anne in Québec City. This notice indicates that the applicant applied for a property rebate of $25,202.92. This rebate was disallowed by the Minister on the grounds that the application was not received within two years of the date upon which the tax became payable on the purchase or the date of the self-assessment. The applicant did not owe anything following this assessment, since the assessment was void.
+[13] As with the assessment for the property located at 3984 boul. Ste-Anne, the notice of assessment indicates that the previously granted property rebate of $6,648.09 for the property at 275 rue Letellier is withheld because the applicant did not meet [translation] "the legislative requirements for the following program account(s): 85657 8794 RT0001" with no further explanation.
+Property located at 390-­394 rue Sauriol, notice of assessment bearing the reference number 14183501212390001 [14] This notice of assessment is in reference to property 1 541 426, located at 390-­394 rue Sauriol in Québec City. This notice indicates that the applicant applied for a property rebate of $3,593.46. This rebate was disallowed by the Minister on the grounds that the application was allegedly not received within two years of the date upon which the tax became payable on the purchase or the date of the self-assessment.
+[15] Under this assessment, the applicant did not owe anything, since the assessment was void. The notice of assessment also indicates that the property rebate of $6,648.09 was withheld, since the applicant did not meet [translation] "the legislative requirements for the following program account(s): 85657 8794 RT0001" with no further explanation.
+Proposed assessment received by the applicant in September 2014 [16] As I have already mentioned, the proposed audit was received by the applicant in September 2014. The proposed assessment was displayed graphically, with notes; it did not include a report or description. A perusal of this proposed assessment reveals that it is difficult to understand the proposed adjustments and the items that have already been assessed and those that will be assessed later. It was not established in evidence that this proposed assessment had been explained to the applicant.
+[17] The proposed audit covers the period from June 25, 2009, to May 1, 2012, which includes the period of the assessments at issue, issued in August 2014. According to the proposed audit, the amount owed by the applicant was $166,551.34, calculated in the following manner:
+Total goods and services tax
+$197,348.66
+Total rebates
+($31,797.32)
+Total adjustments
+$166,551.34
+Amount due
+$166,551.34
+[18] The "rebate" of $31,797.32 includes an amount of $4,815, which serves to increase the rebate for the rue Letellier property. Thus, according to the proposed assessment, the rebate granted for the rue Letellier property totals $11,463.59, consisting of the amount of $6,648.09 already granted during the August 20, 2014 assessment plus the addition of an amount of $4,815 under the proposed assessment from September 2014.
+[19] This correction in the proposed assessment is hard to explain, since, according to the notice of assessment dated August 20, 2014, bearing reference number 14076501512390001, the applicant had allegedly claimed just $6,648.09 as a rebate for the rue Letellier property.
+Second round of assessments, for which notices are dated November 5, November 7 and November 18, 2014 [20] The three assessments in November 2014 establish the applicant’s net tax at $0.01. It would have made sense for this second round of assessments to reflect the adjustments made in the September 2014 proposed assessment. At the hearing, the respondent did not explain why these assessments were issued. That being said, all of these assessments were replaced by assessments issued in December 2014. The language used in the notices of assessment is nonetheless just as important.
+Notice of assessment dated November 5, 2014, for the period from October 1, 2010, to October 31, 2010 [21] This notice of assessment, dated November 5, 2014, bearing reference number 14304000312390001, covers the period from October 1, 2010, to October 31, 2010, and establishes the net tax at $0.01.
+[22] It is worth noting that the notice of assessment refers to the rebate of $6,648.08 for the property located on rue Letellier with the following note: [translation] "we are withholding your credit while we review your account. Any amount due may be adjusted during processing of your rebate . . . ." The second page of this notice also states that [translation] "the amount of your (re)assessment does not include the amount of your pending rebate. Once the rebate has been processed, a notice of (re)assessment will be issued separately, if necessary."
+Notice of assessment dated November 7, 2014, for the period from April 1, 2011, to April 30, 2011, and from May 1, 2012, to May 31, 2012 [23] This notice of assessment, dated November 7, 2014, bearing reference number 14307000112390003, covers the period from April 1, 2011, to April 30, 2011, and establishes the net tax at $0.01. This notice of assessment also bears reference number 14307000112390001, for the period from May 1, 2012, to May 31, 2012, and also establishes the net tax at $0.01.
+[24] It is worth noting that the following note appears again: [translation] "we are withholding your credit while we review your account. Any amount due may be adjusted during processing of your rebate . . . ." The second page of the notice of assessment for the two periods also indicates that [translation] "the amount of your (re)assessment does not include the amount of your pending rebate. Once the rebate has been processed, a notice of (re)assessment will be issued separately, if necessary."
+Notice of assessment dated November 18, 2014, for the period from June 1, 2009, to June 30, 2009 [25] This notice of assessment, dated November 18, 2014, bearing reference number 14317000112390001, covers the period from June 1, 2009, to June 30, 2009, and establishes the net tax at $0.01.
+[26] It is worth noting that this notice of assessment does not explicitly mention the unpaid rebate of $6,648.08 for the rue Letellier property. However, the notice of assessment indicates that [translation] "the amount of your (re)assessment does not include the amount of your pending rebate. Once the rebate has been processed, a notice of (re)assessment will be issued separately, if necessary."
+Third round of assessments, for which all notices are dated December 10, 2014 [27] Through notices of assessment, all dated December 10, 2014, the Minister issued several reassessments replacing all of the assessments issued in November 2014. Among these reassessments is one that replaces the assessment issued on August 20, 2014, namely the one regarding the rue Letellier property.
+Notice of reassessment replacing the assessments issued in November 2014 Assessment for the period from October 1, 2010, to October 31, 2010 [28] This notice of assessment, which covers the period from October 1, 2010, to October 31, 2010, and which bears the reference number 14304000312390001, establishes the net tax at $73,737.72.
+[29] It is worth noting that this notice of assessment replaces the one covering the same period, issued on November 5, 2014, which established the net tax at $0.01.
+[30] This notice mentions that [translation] "the amount of net tax does not take into consideration any rebate, instalment or payment amount that was applied to the account."
+Assessment for the period from April 1, 2011, to April 30, 2011 [31] This notice of assessment, which covers the period from April 1, 2011, to April 30, 2011, and which bears the reference number 14307000112390003, establishes the net tax at $73,737.72.
+[32] It is worth noting that this notice of assessment replaces the one covering the same period, issued on November 7, 2014, which established the net tax at $0.01.
+[33] This notice mentions that [translation] "the amount of net tax does not take into consideration any rebate, instalment or payment amount that was applied to the account."
+Assessment for the period from May 1, 2012, to May 31, 2012 [34] This notice of assessment, which covers the period from May 1, 2012, to May 31, 2012, and which bears the reference number 14307000112390001, establishes the net tax at $31,843.31.
+[35] It is worth noting that this notice of assessment replaces the one covering the same period, issued on November 7, 2014, which established the net tax at $0.01.
+Assessment for the period from June 1, 2009, to June 30, 2009 [36] This notice of assessment, which covers the period from June 1, 2009, to June 30, 2009, and which bears the reference number 14317000112390001, establishes the net tax at $18,029.91.
+[37] It is worth noting that this notice of assessment replaces the one issued on November 18, 2014, which established the net tax at $0.01.
+Notice of reassessment granting a rebate For the period from October 1, 2010, to October 31, 2010 [38] This notice of assessment, which covers the period from October 1, 2010, to October 31, 2010, and which bears the reference number 14303502412390003, grants the applicant a GST/HST rebate of $8,500.
+For the period from April 1, 2011, to April 30, 2011 [39] This notice of assessment, which covers the period from April 1, 2011, to April 30, 2011, and which bears the reference number 14303502412390004, grants the applicant a GST/HST rebate of $8,500.
+For the period from June 1, 2009, to June 30, 2009 [40] This notice of assessment, which covers the period from June 1, 2009, to June 30, 2009, and which bears the reference number 14317500412390001, grants the applicant a GST/HST rebate of $9,981.82.
+Property located at 275 rue Letellier, notice of assessment dated December 10, 2014, bearing the reference number 14076501512390001 [41] This notice of assessment is for property 1 478 840, located at 275 rue Letellier in Québec City. The Minister grants a new residential rental properties rebate, in the revised amount of $11,463.59.
+[42] It is worth noting that this notice of assessment replaces the one dated August 20, 2014, for the same property, which granted a rebate of $6,648.09.
+[43] As previously mentioned, this assessment is poorly explained; the notice of assessment dated August 20, 2014, indicates that the amount claimed as a property rebate is $6,648. Based on my reading of the notice of assessment for the rue Letellier property, it would appear as though the Minister granted a higher property rebate than that requested by the applicant.
+Notice of objection and application for time extension [44] The respondent argues that the applicant filed a notice of objection dated March 5, 2015, contesting only the notices of assessment dated December 10, 2014.[1] I do not agree with the respondent’s argument. It is clear that the applicant’s notice of objection concerns all of the assessments against the applicant for the 2009–2012 taxation years.
+[45] However, as of March 5, 2015, the deadline to notify the Minister of objections had already passed for those assessments whose notices were dated August 20, 2014.
+[46] On May 27, 2015, the Minister upheld the December 2014 assessments, but did not address the August 2014 assessments, since the applicant could not object to the assessments from the month of August without having first obtained an extension of time that would allow it to object.
+[47] On June 17, 2015, the applicant filed an application for extension of time with the Minister, for all of the notices of assessment received between August 20, 2014, and December 10, 2014, inclusive.[2]
+[48] On March 16, 2016, the Minister disallowed the application for extension of time for the assessments dated August 20, 2014, since, according to the Minister, the applicant had not demonstrated its inability to act or its bona fide intention to object to the assessments in question. Since the objections to the December reassessments were presented to the Minister within the required timeframes, the Minister did not have to respond to the application for extension of time with regard to these assessments.
+[49] On April 14, 2016, the applicant filed an application for extension of time with this Court, to submit a notice of objection to the Minister for the following assessments:
+Notice of assessment number
+Notice of assessment date
+Lot
+Address
+14076501912390001
+August 20, 2014
+4 429 319
+3984 boul. Ste-Anne, Québec
+14183501212390001
+August 20, 2014
+1 541 426
+390-394 rue Sauriol, Québec
+14076502112390001
+August 20, 2014
+4 429 318
+3986 boul. Ste-Anne, Québec
+14317000112390001
+November 18, 2014
+--
+--
+[50] It is worth noting that the assessment dated November 18, 2014, is no longer at issue before this Court, since it was cancelled when a reassessment was issued, notice of which is dated December 10, 2014.[3]
+[51] During the hearing, Claude Dion, the applicant’s president and main shareholder, mentioned having been in constant contact with his counsel during the audit process. Mr. Dion stated that his counsel’s mandate was to object to anything regarding GST and QST. He further explained that he did not object before the deadline because he was under the impression that the proposed assessment included all of the assessments and that the property rebates were still being reviewed. Mr. Dion also stated that the number of documents received created some confusion for him and that he was waiting for the Minister to issue reassessments following the proposed assessment, including the assessments regarding the property rebates.
+[52] Audrey Barrette, Mr. Dion’s spouse, also testified for the applicant. Ms. Barrette explained that she is a nurse—surgical first assistant—and that she handles the administrative work for the applicant, spending a few hours per week on it.
+[53] Ms. Barrette was aware that the applicant could claim a rebate for new residential rental properties, but she explained that all of the assessments received confused her. She stated that she did not take any action after receiving the notices of assessment dated August 2014, because according to those assessments, the applicant did not owe anything. She waited for the proposed assessment and the resulting reassessments. In this regard, the reassessments that took into account the proposed assessment were issued in December 2014.
+[54] It is clear from Ms. Barrette’s testimony as a whole that she appeared confused by all of the documentation received. For example, she stated that she did not understand why the applicant had received assessments dealing with rebates for input credits. She stated that the ARQ had cancelled the applicant’s registrant number and that the ARQ had informed her that the applicant could not claim input credits.
+Issues in dispute [55] Does the applicant meet the conditions set out in subsection 304(5) of the Excise Tax Act (the ETA)? If the answer is affirmative, an application for extension of time will be granted.
+ANALYSIS [56] In order for this Court to grant an application for extension of time under subsection 304(5) of the ETA, the conditions listed in this subsection must be met:
+304 (5) When application to be granted — No application shall be granted under this section unless:
+(a) the application was made under subsection 303(1) within one year after the expiration of the time otherwise limited by this Part for objecting or making a request under subsection 274(6), as the case may be; and
+(b) the person demonstrates that
+(i) within the time otherwise limited by this Act for objecting,
+(A) the person was unable to act or to give a mandate to act in the person’s name, or
+(B) the person had a bona fide intention to object to the assessment or make the request,
+(ii) given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application,
+(iii) the application was made as soon as circumstances permitted,
+(iv) there are reasonable grounds for the appeal.
+[Emphasis added.]
+[57] The parties do not dispute that the criterion set out in paragraph 304(5)(a) of the ETA is met.[4]
+Intention [58] The applicant asserts that it met the criteria set out in subsection 304(5) of the ETA, which is to say that it had always intended to object to the August 2014 assessments. The respondent, by contrast, asserts that the applicant did not meet the conditions of subsection 304(5) of the ETA, having not intended to object to the assessments at issue, nor having been unable to act or to give a mandate to act in its name.
+[59] According to the respondent, I should not look at all of the facts and should limit my review to the sole fact that the applicant failed to object to the August 2014 assessments within the required timeframe.
+[60] I do not agree with the respondent. I am of the opinion that I must analyze all of the facts in order to understand the context of the issue, to determine whether, in this case, the applicant had the intention to file a notice of objection. It must not be forgotten that during the proposed assessment in September 2014, and during the reassessments in November 2014, the applicant was still within the timeframe to object. Thus, the correspondence received after the August assessments could have impacted the applicant.
+[61] I am of the opinion that the applicant always had a bona fide intention to object to all of the GST assessments.
+[62] Firstly, Mr. Dion’s testimony is unequivocal. He clearly states that he always had the intention to object and, in this regard, the applicant objected to all of the December 2014 assessments.
+[63] Ms. Barrette and Mr. Dion were awaiting the result from the audit in progress. It is true that Ms. Barrette did not think she could object to the assessments at issue because they were void, but it remains nonetheless that, in her confusion, she was convinced that the rental property rebate applications were still being considered. As for Mr. Dion, it was clear that he would have made an objection as soon as he received a final assessment result. Being in contact with the ARQ, these two stakeholders understood that a proposed assessment needed to be issued by the ARQ, followed by reassessments. Confused by the receipt of several notices of reassessment, neither Ms. Barrette nor Mr. Dion had understood that the August assessments were final and that they needed to object to those assessments. In this regard, the facts that follow support their position.
+[64] Upon receipt of the proposed assessment dated September 5, 2014, it can be noted that the ARQ increased the credit granted for the rue Letellier property. In my opinion, this confirms the testimonies of Ms. Barrette and Mr. Dion, that they were both under the impression that the rental property rebates were still being reviewed by the ARQ.
+[65] In addition, the proposed assessment[5] covers the period from June 25, 2009, to May 1, 2012. A perusal of the proposed assessment reveals that it is difficult to tell what remains to be assessed and what has already been assessed. It is easy to understand why the applicant was under the impression that the Minister would issue reassessments with regard to the property rebate applications.
+[66] Ms. Barrette and Mr. Dion therefore waited to receive notices of assessment regarding the rental property rebates following this proposed assessment, to which they wanted to object, as they had done for the notices of assessment received after.
+[67] The confusion persisted following the receipt of the various notices of assessment issued in November, since they contained a note regarding a pending rebate. The recurring reference to the rebate applications still being processed once again left the applicant with no other to way to interpret the whole thing. Furthermore, the assessments use the term "rebate" to refer to rebates for input credits and to refer to rebates for rental properties.
+[68] The assessments issued in December 2014 also refer to [translation] "rebate applications . . . made previously," which can, again, lead one to believe that they refer to the rental property rebates already claimed. In addition, the increase in the rebate for the rue Letellier property supports the applicant’s theory that the rental property rebates were still being reviewed.
+[69] The applicant cited the decision in Patterson Dental Canada Inc. v. The Queen[6] in support of its argument. In that case, the auditor’s observations regarding a letter of interpretation published by the Canada Revenue Agency misled the applicant, Patterson Dental. Patterson Dental did not object within the required timeframe, since, based on the auditor’s observations, it believed that the product it was selling was not a "zero-rated supply," whereas the state of the law in this regard was otherwise. In granting the application for extension of time, Justice Masse made the following remarks in Patterson Dental:
+[27] Was the Applicant, under the circumstances, unable to act? I am of the view that the Applicant was unable to act, and unable to file a Notice of Objection because the entire circumstances combined to suppress any intention that the Applicant may have had to object. The decision by the Applicant to take no further action at the time that it was assessed was not a fully informed one. Had the Applicant known of the possible impact of Le Gardeur and Notice No. 248, then it is clear that it would have acted with due dispatch and it would have retained expert witnesses to provide an opinion as to whether or not epinephrine was an essential ingredient of its anaesthetic solutions and thus whether or not a Notice of Objection would have any likelihood of success.
+[Emphasis added.]
+[70] In this case, the convergence of circumstances also had the effect of suppressing any intention the applicant may have had to object.
+[71] In the decision Industries Bonneville Ltee. v. The Queen,[7] Justice Lamarre Proulx considered plausible the applicant’s erroneous interpretation of the assessment and found it appropriate to allow the application since the taxpayer did not understand the exact nature of the assessment. Thus, it was decided that the applicant’s incomprehension of the assessment at issue did not impact the existence of its intention to object.
+[72] I am of the opinion that the applicant always had the intention of objecting to all of the GST assessments. The incomprehension of the nature of the assessments at issue, due to the confusion created by the numerous explanations given in the notices of assessment and the proposed assessment, prevented the applicant from objecting within the appropriate timeframe, the applicant having been persuaded that it would be better to object once the "final assessments" had been issued.
+Unable to act or to give a mandate to act in the person’s name [73] In the case of Charles v. M.N.R.,[8] the taxpayer, whose assessment concerned a disallowance of deduction (although it was wrongly believed that it concerned a tax credit), was granted an extension of time.
+[74] In Patterson Dental, Masse J. held that the applicant was unable to act because the information had caused confusion; Patterson Dental was unable to make an informed decision with regard to its objection, at the time when it had received the notice of assessment.
+[75] In this regard, the situation in the case at hand is similar to those in Charles and Patterson Dental.
+Fair and equitable to allow the application [76] I will briefly review the other conditions imposed by paragraph 304(5)(b) of the ETA.
+[77] I find that, given the particular circumstances of this case, it is fair and equitable to allow the applicant’s application for the following reasons:
+a) The applicant was in constant contact with the ARQ between August 2014 and December 2014.
+b) The fairness and equity of the judicial system argues in favour of the applicant’s position.
+c) The interest of justice orders that the applicant be allowed to be heard on the merits of the case.
+d) The rebate amounts claimed are significant.
+e) Whenever there is doubt, the parties’ rights should be safeguarded, which translates in the case at issue into holding a debate on the merits.[9]
+Application made as soon as the circumstances allowed [78] I am also of the opinion that the application was made as soon as the circumstances allowed, for the following reasons:
+a) The applicant showed that, upon receipt of the notices of assessment dated December 10, 2014, it was still unaware of the nature of the assessments and of how the property rebate applications had been processed.
+b) It was seemingly upon receipt of the May 27, 2015, objection decision that the applicant realized there was a possible error with its file.
+c) It was around this date that the applicant became aware of its error, without fully understanding the magnitude of it. In this regard, the applicant’s application for extension of time, filed on June 17, 2015, shows incomprehension with regard to the state of the assessments and a desire to rectify the situation.
+CONCLUSION [79] I am of the opinion that the applicant demonstrated that it satisfies each of the conditions set out in subsection 304(5) of the ETA.
+[80] Consequently, the application for extension of time to file a notice of objection against the three assessments dated August 20, 2014, is allowed.
+Signed at Ottawa, Canada, this 11th day of October 2016.
+"Johanne D’Auray"
+D’Auray J.
+CITATION:
+2016 TCC 222
+COURT FILE NO.:
+2016-1457(GST)APP
+STYLE OF CAUSE:
+LES IMMEUBLES CARIS LTÉE v THE QUEEN
+PLACE OF HEARING:
+Québec, Quebec
+DATE OF HEARING:
+June 21, 2016
+REASONS FOR ORDER BY:
+The Honourable Justice Johanne D’Auray
+DATED:
+October 11, 2016
+APPEARANCES:
+Counsel for the Applicant:
+Pierre Hémond
+Counsel for the Respondent:
+Sylvain Lacombe
+SOLICITORS OF RECORD:
+For the Applicant:
+Names:
+Pierre Hémond
+Philippe Beauchesne
+Firm:
+Dussault Gervais Thivierge, LLP
+Québec, Quebec
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The notices of assessment dated December 10, 2014, replace the notices of assessment from November 2014, i.e., those covering the following periods: October 1, 2010, to October 31, 2010; April 1, 2011, to April 30, 2011; and May 1, 2012, to May 31, 2012.
+[2] The applicant did not have to apply for an extension of time for all of the reassessments, since the deadline had only passed for the assessments dated August 20, 2014.
+[3] As I have already stated, the applicant submitted an objection to the Minister regarding the assessments dated December 10, 2014. An application for extension of time to file a notice of objection is therefore not required.
+[4] The applicant does not need to demonstrate that there were reasonable grounds for its objection, as set out in sub-paragraph 304(5)(b)(iv) since, due to a discrepancy between the English and French version of the legislation, paragraph 304(5)(b) must be interpreted as not requiring this fourth condition.
+[5] In September 2014, the deadline to object to the August 20 assessments had not passed.
+[6] 2014 TCC 62.
+[7] [2002] TCJ No 426 (QL).
+[8] 81 DTC 744 (case cited in Patterson Dental at paragraph 28).
+[9] See Québec (Communauté urbaine) v. Services de santé du Québec, [1992] 1 SCR 426.

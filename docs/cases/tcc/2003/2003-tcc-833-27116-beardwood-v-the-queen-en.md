@@ -1,0 +1,194 @@
+---
+title: "Beardwood v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27116/index.do"
+last_modified: "2003-11-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 833"
+citation2: ""
+neutral_citation: "2003 TCC 833"
+decision_date: "2003-11-13"
+language: "en"
+item_id: "27116"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 921
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:30:50.212000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "82de54975f9efe2e1a8aba915759695d41ea6a4d65a5c6c165c7b23b2e999be7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Beardwood v. The Queen
+
+- Citation: 2003 TCC 833
+- Decision date: 2003-11-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 921, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Beardwood v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-11-13
+Neutral citation
+2003 TCC 833
+File numbers
+2003-582(IT)I
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-582(IT)I
+BETWEEN:
+EDWARD BEARDWOOD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 14, 2003 at Toronto, Ontario,
+Before: The Honourable Justice Georgette Sheridan
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Joel Oliphant
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is confirmed in accordance with the Reasons for Judgment.
+Signed at Ottawa, Canada, this 13th day of November 2003.
+"G. Sheridan"
+Sheridan, J.
+Citation: 2003TCC833
+Date: 20031113
+Docket: 2003-582(IT)I
+BETWEEN:
+EDWARD BEARDWOOD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] This is an appeal of the decision of the Minister of National Revenue (the "Minister") disallowing the Appellant's claim for a disability tax credit for the 2001 taxation year.
+FACTS
+[2] Mr. Beardwood is a 75 year-old gentleman who, since his heart by-pass surgery in 1986, has suffered a sharp decrease in his normal physical activities. For example, he can no longer shovel snow or go skating. He testified that he has difficulty breathing, especially at night. On cross-examination, Mr. Beardwood estimated that it would take him "about 10 minutes" to walk a block; rather than relying on walking aids, he prefers to stop and rest until he is able to continue.
+[3] He relies daily on certain medications: the "nitro-puffer" and the "nitro patch". He stated that he can not function without these medications. If he did not take them, he said, he would be at great risk of a stroke or heart attack. On cross-examination he admitted he has not been hospitalized for any problems arising from his heart condition but sees his family doctor and cardiologist regularly to monitor his condition.
+[4] From 1986-2000, Mr. Beardwood had successfully claimed the disability tax credit. For the 2001 taxation year, he submitted two Form T2201 medical certificates to Canada Customs and Revenue Agency: one from Dr. Costaris (Exhibit R-1) and another from Dr. Cheung (Exhibit R-2). The Minister was of the view, however, that these certificates failed to satisfy the statutory criteria in that the physicians' responses to the questions did not support the conclusion that Mr. Beardwood suffered from "a severe and prolonged impairment" as contemplated by the legislation.
+ISSUE
+[5] The only issue in this appeal is whether Mr. Beardwood has met the requirements necessary to qualify for a disability tax credit as set out in sections 118.3 and 118.4 of the Income Tax Act (the "Act").
+STATUTORY PROVISIONS
+[6] The relevant provisions of the Act (2001) read as follows:
+118.3 (1) Where
+(a) an individual has a severe and prolonged mental or physical impairment,
+(a.1) the effects of the impairment are such that the individual's ability to perform a basic activity of daily living is markedly restricted or would be markedly restricted but for therapy that
+(i) is essential to sustain a vital function of the individual,
+(ii) is required to be administered at least three times each week for a total duration averaging not less than 14 hours a week, and
+(iii) cannot reasonably be expected to be of significant benefit to persons who are not so impaired,
+(a.2) in the case of
+(i) a sight impairment, a medical doctor or an optometrist,
+(i.1) a speech impairment, a medical doctor or a speech-language pathologist,
+(ii) a hearing impairment, a medical doctor or an audiologist,
+(iii) an impairment with respect to an individual's ability in feeding and dressing themself, or in walking, a medical doctor or an occupational therapist,
+(iv) an impairment with respect to an individual's ability in perceiving, thinking and remembering, a medical doctor or a psychologist, and
+(v) an impairment not referred to in any of subparagraphs (i) to (iv), a medical doctor
+has certified in prescribed form that the impairment is a severe and prolonged mental or physical impairment the effects of which are such that the individual's ability to perform a basic activity of daily living is markedly restricted or would be markedly restricted but for therapy referred to in paragraph (a.1),
+(b) the individual has filed for a taxation year with the Minister the certificate described in paragraph 118.3(1)(a.2), and
+(c) no amount in respect of remuneration for an attendant or care in a nursing home, in respect of the individual, is included in calculating a deduction under section 118.2 (otherwise than because of paragraph 118.2(2)(b.1)) for the year by the individual or by any other person,
+there may be deducted in computing the individual's tax payable under this Part for the year the amount determined by the formula [set out in the section].
+...
+[7] Section 118.4 provides definitions for some of the terms in the preceding section:
+118.4. (1) For the purposes of subsection 6(16), sections 118.2 and 118.3 and this subsection,
+(a) an impairment is prolonged where it has lasted, or can reasonably be expected to last, for a continuous period of at least 12 months;
+(b) an individual's ability to perform a basic activity of daily living is markedly restricted only where all or substantially all of the time, even with therapy and the use of appropriate devices and medication, the individual is blind or is unable (or requires an inordinate amount of time) to perform a basic activity of daily living;
+(c) a basic activity of daily living in relation to an individual means
+(i) perceiving, thinking and remembering,
+(ii) feeding and dressing oneself,
+(iii) speaking so as to be understood, in a quiet setting, by another person familiar with the individual,
+(iv) hearing so as to understand, in a quiet setting, another person familiar with the individual,
+(v) eliminating (bowel or bladder functions), or
+(vi) walking; and
+(d) for greater certainty, no other activity, including working, housekeeping or a social or recreational activity, shall be considered as a basic activity of daily living.
+ANALYSIS
+[8] The case law is clear that the criteria set out in sections 118.3 and 118.4 must be rigidly applied. In Craven v. Canada, [1995] T.C.J. No. 239, Associate Justice Bowman held that although the Appellant suffered from a "severe and prolonged" condition, he did not come within the narrow confines of the statutory requirements so as to qualify for a disability tax credit.
+[9] Counsel for the Respondent cited the following passage in support of his contention that the appeal ought to be dismissed:
+Yet [the Appellant] does not meet the rigid criteria set out in subsection 118.4(1). He can perform the activities listed in paragraph 118.4(1)(c), albeit painfully, but on any realistic view of the matter he is severely and permanently disabled. The application of the inflexible tests in section 118.4 leaves the court no room to apply either common sense or compassion in the interpretation of the disability tax credit provisions of the Income Tax Act -- provisions that require a compassionate and commonsense application. The act draws an unfair distinction between persons who meet the harsh tests set out in subsection 118.4(1) and those, such as the appellant, who are severely and permanently disabled in other ways, but do not meet those tests.
+[10] Mr. Justice Létourneau of the Federal Court of Appeal tempered this analysis somewhat in Johnston v. Canada, [1998] F.C.J. No. 169 when he cautioned that ( ¶ 11):
+... although the scope of these provisions is limited in their application to severely impaired persons, they must not be interpreted so restrictively as to negate or compromise the legislative intent.
+[11] That the Johnston decision has only a very narrow application was demonstrated in Radia v. Queen [2000] T.C.J. No.87. In dismissing, with regret, the Appellant's appeal, Mr. Justice Bowie stated:
+In recent decisions, the Federal Court of Appeal has approved the humane and compassionate approach to the interpretation of sections 118.3 and 118.4 which was developed by Judge Bowman in such cases as Noseworthy, [1996] 2 C.T.C. 2006, Cotterell [1996] T.C.J. No. 1781 (QL), Radage, 96 D.T.C. 1615 and Lawlor, [1996] 2 C.T.C. 2005. However. The language of the subsection, although no model of simplicity and clarity, admits of no ambiguity as to the requirement that each of the five conditions set out there must be satisfied before the taxpayer is entitled to the tax credit. The unusual facts of this case cry out for relief. However, it is not for the courts to provide that relief, in the face of statutory requirements which the Appellant simply cannot meet. ... [Emphasis added.]
+[12] If Mr. Beardwood is to be granted the relief he hopes for, he must be able to meet the statutory requirements of sections 118.3 and 118.4. Counsel for the Respondent argued that he had not done so. Specifically, counsel cited that Mr. Beardwood's failure to clear the hurdle presented by subsection 118.3(1)(a.2) i.e., the filing of a medical certificate that substantiates, according to the statutory criteria, the taxpayer's claim of an impairment.
+[13] Counsel relied on a decision of the Federal Court of Appeal, MacIsaac v. Canada, [1999] F.C.J. No. 1898, in which Mr. Justice Sexton concluded that:
+( ¶ 5) Section 118.3(1)(a.2) of the Income Tax Act is not merely directory. It is mandatory. Simply put, there must be a certificate by the doctor that the individual suffers impairments in the language of these subsections. This Court held to the same effect in Partanen v. Canada, [1999] F.C.J. 751 and we feel bound by this decision. [Emphasis added]
+[14] In Buchanan v. Canada [2002] F.C.J. No. 838, Mr. Justice Rothstein specified that the legislation required the filing of a "positive" certificate as "condition precedent" to qualifying for a disability tax credit:
+( ¶ 19): The difficulty is that a positive medical certificate is a condition precedent to the Minister granting a disability tax credit.
+[15] A "positive" medical certificate as described by Rothstein, J.A. is a Form T2201 medical certificate in which at least one of the questions in the series pertaining to the taxpayer's impairment is answered in the negative.
+[16] In the case at hand, not one of the Form T2201 questions generated a negative response from his two physicians. For each of the questions listed below, Dr. Costaris and Dr. Cheung checked the box for "yes" on the form:
+Can your patient see?
+Can your patient walk?
+Can your patient speak?
+Can your patient perceive, think and remember?
+Can your patient hear?
+Can your patient feed or dress himself?
+Can your patient personally manage bowel and bladder functions?
+[17] While one may wonder at the suitability of this format to rendering a meaningful medical diagnosis, these questions clearly reflect the language found in subsection 118.4(1). There are listed the impairments that must be found to exist before it can be determined that an individual is suffering from an impairment that restricts his ability "to perform a basic activity of daily living"as defined by that paragraph. In the present case, from the information in the certificates he filed, it is not possible to conclude that his medical condition comes within the statutorily defined impairments set out in subsection 118(1)(a.2).
+[18] Given the decision in McIssac, Mr. Beardwood's inability to produce a "positive" medical certificate is a complete bar to his qualifying for a disability tax credit unless he can show that his case falls within the exception described by Mr. Justice Rothstein in the Buchanan decision:
+... it is possible for the taxpayer to ask the physician to reconsider his answers on the certificate or perhaps to obtain a positive certificate from another physician who does not misinterpret the requirements of the Act.
+...
+In an appropriate case, the taxpayer may seek relief in the Tax Court. Proceedings in the Tax Court are not a judicial review of the correctness or reasonableness of the Minister's assessment. Rather, the function of the Tax Court is to arrive at the correct assessment itself (unless it is unable to do so and considers it necessary to refer the assessment back to the Minister for reconsideration under subparagraph 171(1)(b)(iii) of the Income Tax Act). The Tax Court's consideration of the matter will be on the basis of the evidence adduced in the Tax Court, even if that evidence was not before the Minister when he made his assessment. [Emphasis added.]
+[19] On the basis of the evidence adduced in the Tax Court, there was nothing to suggest that either of Mr. Beardwood's physicians misinterpreted the requirements of the Act. Indeed, Mr. Beardwood stated that if he himself were a doctor, he would have answered the questions in precisely the same way as Dr. Costaris and Dr. Cheung. Mr. Beardwood's objection to the questions had to do with their substance, not his physicians' responses to them. He stated with some force that, in his view, such "ridiculous" questions were not useful in assessing a taxpayer's entitlement to claim a disability tax credit.
+[20] Mr. Beardwood is not the first and is unlikely to be the last to express frustration with the operation of the disability tax credit provisions in the Act. That, however, is not sufficient to permit the Court to grant the relief sought.
+[21] Although sympathetic to and respectful of Mr. Beardwood's health problems, counsel for the Respondent rightly argued that the requirements of the Act and the case law were very clear, that the evidence showed that Mr. Beardwood had not filed a "positive medical certificate" and that having failed to satisfy this condition precedent, he was not entitled to claim a disability tax credit. The fact that he had been able to do so for the taxation years 1986-2000 is irrelevant to this appeal.
+[22] Accordingly, the Court has no alternative but to dismiss the appeal.
+Signed at Ottawa, Canada, this 13th day of November 2003.
+"G. Sheridan"
+Sheridan, J.
+CITATION:
+2003TCC833
+COURT FILE NO.:
+2003-589(IT)I
+STYLE OF CAUSE:
+Edward Beardwood v. H.M.Q.
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+October 14, 2003
+REASONS FOR JUDGMENT BY:
+the Honourable Justice
+Georgette Sheridan
+DATE OF JUDGMENT:
+November 13, 2003
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Joel Oliphant
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

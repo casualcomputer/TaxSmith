@@ -1,0 +1,156 @@
+---
+title: "Sutcliffe c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30974/index.do"
+last_modified: "2012-10-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 347"
+citation2: ""
+neutral_citation: "2012 CCI 347"
+decision_date: "2012-10-02"
+language: "fr"
+item_id: "30974"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4802
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:22:54.050000+00:00"
+cases_cited_count: 5
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "526f58226a13ce052bff408b02f9677935eded8c79176dc011b0342d5023a8f9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sutcliffe c. La Reine
+
+- Citation: 2012 CCI 347
+- Decision date: 2012-10-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4802, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sutcliffe c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-10-02
+Référence neutre
+2012 CCI 347
+Numéro de dossier
+2012-1655(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-1655(IT)I
+ENTRE :
+DOUGLAS JOHN SUTCLIFFE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 25 septembre 2012, à Vancouver (Colombie‑Britannique)
+Devant : L’honorable juge J. M. Woods
+Comparutions :
+Représentante de l’appelant :
+Mme Kathleen Gelhorn
+Avocat de l’intimée :
+Me Amandeep K. Sandhu
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté par l’appelant à l’égard de son obligation fiscale pour les années d’imposition 2009 et 2010 est annulé. L’appelant a droit aux dépens fixés à 100 $.
+Signé à Toronto (Ontario), ce 2e jour d’octobre 2012.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 7e jour de novembre 2012.
+Alya Kaddour, traductrice
+Référence : 2012CCI347
+Date : 20121002
+Dossier : 2012-1655(IT)I
+ENTRE :
+DOUGLAS JOHN SUTCLIFFE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] Douglas Sutcliffe demande à la Cour de déclarer qu’il n’a pas d’obligation fiscale pour l’année d’imposition 2010, compte tenu du fait que l’impôt en question a déjà été retenu par son employeur, Express Metal Supply Ltd. (« Express Metal »).
+[2] Dans son avis d’appel, l’appelant avait également demandé une mesure de redressement pour l’année d’imposition 2009, mais il a retiré cette demande au cours de l’audience, parce qu’il est apparu qu’un crédit lui avait été accordé pour cette année au titre des remises d’impôt.
+Le contexte
+[3] En 2006, Express Metal a engagé M. Sutcliffe comme chauffeur, à un moment où son ancien emploi de couvreur commençait à peser trop lourd sur ses épaules. L’appelant est resté employé par Express Metal jusqu’à ce que la société ferme ses portes en octobre 2010. Express Metal appartenait à cent pour cent à Angus Sutcliffe, fils de Douglas Sutcliffe.
+[4] Pendant toute la durée de son emploi, M. Sutcliffe a souhaité qu’Express Metal verse des retenues à la source à l’Agence du revenu du Canada (l’« ARC »), mais la société s’y est refusée. Il semble qu’il s’agissait d’une source de tensions importantes entre le père et le fils.
+[5] Tout de suite après qu’il eut été mis fin à son emploi, M. Sutcliffe a présenté une demande de prestations d’assurance‑emploi, qu’il a reçues après que l’ARC eut conclu qu’il avait bien été employé pendant la période pertinente.
+[6] Bien qu’Express Metal n’ait pas directement effectué les remises d’impôt à l’ARC, pendant plusieurs années, la société a effectué des paiements distincts à M. Sutcliffe au titre de l’impôt, paiements que M. Sutcliffe versait ensuite à l’ARC. Toutefois, en 2010, Express Metal a fermé ses portes avant d’avoir versé à l’appelant le paiement au titre de l’impôt.
+[7] Le cœur du litige consiste à établir si la paie ordinaire de M. Sutcliffe a été réduite afin de tenir compte des paiements d’impôt distincts. M. Sutcliffe fait valoir que tel était bien le cas et il a produit des éléments de preuve documentaire montrant que les chèques bimensuels originaux d’un montant de 1 400 $ qu’il recevait d’Express Metal avaient été réduits à 1 202 $. Il affirme que la différence s’explique par les retenues à la source qu’il payait pour chaque année, exception faite de l’année 2010.
+[8] Le fils de l’appelant, cité à comparaître par la Couronne, a remis en question le fait que la réduction de salaire soit attribuable à l’impôt, même s’il a déclaré qu’il n’arrivait pas à se souvenir de la raison pour laquelle le salaire de l’appelant avait été diminué.
+[9] M. Sutcliffe confiait la production de sa déclaration de revenus à son comptable, qui se fondait sur les informations que lui communiquait l’épouse de l’appelant. Mme Sutcliffe n’a pas informé le comptable de son époux de l’existence des chèques distincts, et le comptable n’a pas pris le montant de ces chèques en compte dans le calcul du revenu de l’appelant lorsqu’il a produit ses déclarations de revenus. Mme Sutcliffe a déclaré ne pas avoir pris conscience du fait que les versements effectués au titre de l’impôt constituaient un revenu.
+Décision
+[10] En dépit de l’importante quantité d’éléments de preuve qui ont été produits à l’audience, la présente affaire ne peut être tranchée sur le fond. Tout simplement, la Cour ne peut accorder à M. Sutcliffe la mesure de redressement qu’il demande, parce que la Cour canadienne de l’impôt n’est pas compétente en la matière. C’est à la Cour fédérale qu’il revient de décider si les retenues à la source ont bien été effectuées, et non à la Cour canadienne de l’impôt.
+[11] Ce n’est pas la première fois qu’un contribuable interjette appel devant la Cour au sujet d’une question de retenues à la source du fait d’un malentendu concernant la compétence de la Cour. La confusion peut en partie venir du fait qu’il est souvent fait état de l’obligation fiscale dans l’avis de nouvelle cotisation, même si ce montant ne fait pas vraiment partie de la nouvelle cotisation. Seule la nouvelle cotisation, qui est constituée du calcul de l’impôt, et non de l’impôt à payer, peut faire l’objet d’un appel devant la Cour.
+[12] Un problème similaire s’est posé dans l’arrêt Boucher c Canada, 2004 CAF 47, 2004 DTC 6085, dans lequel la juge Sharlow s’est ainsi exprimée :
+[10] Oralement, Mme Boucher a expliqué à notre Cour qu’elle avait d’abord essayé d’aborder la question en introduisant une instance devant la Cour fédérale, mais que les documents soumis avaient été refusés au motif que la question relevait de la Cour canadienne de l’impôt. Si tel est le cas, c’est bien dommage. Cependant, cela ne change rien au fait que le Parlement n’a pas investi la Cour canadienne de l’impôt du pouvoir de trancher un différend qui porte sur la question de savoir si l’impôt a été retenu à la source pour certains paiements.
+[11] La seule réparation possible est d’accueillir le présent appel, d’annuler le jugement de la Cour canadienne de l’impôt et de le remplacer par un jugement qui annule l’appel à la Cour canadienne de l’impôt. Dans les circonstances, Mme Boucher devrait avoir droit à ses dépens devant notre Cour et devant la Cour canadienne de l’impôt.
+[Non souligné dans l’original.]
+[13] En pareilles circonstances, très regrettables pour M. Sutcliffe, les appels interjetés pour les années d’imposition 2009 et 2010 doivent être annulés.
+Les lacunes de la réponse
+[14] Je voudrais formuler quelques commentaires à l’égard de la réponse déposée par la Couronne, qui présentait des lacunes en ce sens qu’elle ne traitait pas de la question des retenues à la source. L’appelant a clairement soulevé cette question dans l’avis d’appel; en fait, il s’agissait de la seule question évoquée.
+[15] La réponse à l’avis d’appel avait trait à d’autres questions qu’il serait possible de soulever et à l’égard desquelles la Cour serait compétente, autant de questions qui n’ont pas été soulevées dans l’avis d’appel. Il s’agit d’une démarche salutaire, mais je suis préoccupée par le fait que la Couronne ne se soit pas penchée sur la question des retenues à la source.
+[16] Ces fâcheuses circonstances se présentent de temps en temps à la Cour (voir la décision VanGhent c La Reine, 2012 CCI 245). Le fait que la réponse ne traite pas d’un argument que le contribuable a avancé et clairement énoncé dans son avis d’appel peut porter un grave préjudice au contribuable en question.
+[17] En l’espèce, il aurait été fort souhaitable d’éviter la tenue d’une audience inutile. L’audience a mis à jour un différend familial acrimonieux, ce qui s’est avéré une expérience pénible pour tous les membres de la famille présents. Par exemple, la fille de M. Sutcliffe, qui représentait l’appelant à l’audience, a dû s’atteler à la tâche peu enviable de contre‑interroger son frère. L’audience aurait très bien pu ne pas avoir lieu si M. Sutcliffe et sa fille avaient été dûment informés du problème de compétence dans la réponse à l’avis d’appel.
+[18] On m’a avisée que l’avocat de la Couronne s’était entretenu oralement avec M. Sutcliffe avant la tenue de l’audience au sujet du problème de compétence, mais il est clair que ni l’appelant ni sa fille n’ont compris de quoi il retournait. Ils ont tous deux assisté à l’audience en pensant que la Cour étudierait la demande sur le fond.
+[19] Compte tenu des lacunes de la réponse à l’avis d’appel, j’ai demandé à l’avocat de la Couronne d’aborder la question des dépens. Nonobstant les arguments valables que l’avocat de l’intimée a avancés, je conclus que, dans les circonstances de l’espèce, il conviendrait d’adjuger des dépens modiques à M. Sutcliffe. Les dépens sont fixés à 100 $.
+Le fond du litige
+[20] Pour finir, je voudrais formuler un commentaire relatif au fond du litige, ce qui exige de procéder à l’appréciation des éléments de preuve.
+[21] Au début de l’audience, quand la question de la compétence a été soulevée, une discussion s’est tenue pour tenter d’établir si des éléments de preuve devraient être présentés. L’avocat de la Couronne, souhaitant faire preuve d’impartialité à l’égard de M. Sutcliffe, m’a suggéré d’entendre les dépositions, dans la mesure où il était possible qu’il y ait d’autres questions à trancher. Ainsi, j’ai entendu les témoignages de M. Sutcliffe, de son épouse et de son fils.
+[22] Il ne m’est pas apparu qu’il y avait d’autres questions à trancher. La réponse à l’avis d’appel renvoie à l’article 118.7 de la Loi de l’impôt sur le revenu, qui prévoit une déduction pour les cotisations payables en application de la Loi sur l’assurance‑emploi et du Régime de pensions du Canada. Toutefois, on n’a pas expliqué dans quelle mesure cet article était applicable en l’espèce.
+[23] Je conclus qu’il n’y a pas d’autres questions à trancher et qu’il ne serait pas approprié que j’étudie le bien‑fondé de l’argument de M. Sutcliffe relatif aux retenues à la source. Dans l’arrêt Neuhaus c Canada, 2002 CAF 391, 2003 DTC 5469, le juge Noel a formulé le commentaire suivant :
+[4] Or, en l’occurrence, la demanderesse ne recherche pas l’annulation ou la modification des cotisations en litige. Elle prétend plutôt que les impôts tels que cotisés par le Ministre ont déjà été payés par voie de retenue à la source (voir l’article 227 (9.4) qui rend inter alia l’employeur responsable des impôts dûs par un employé jusqu’à concurrence des montants retenus à même le salaire et non remis). Dans ces circonstances, c’est à bon droit que la première juge s’est déclarée sans juridiction et c’est donc à tort qu’elle s’est penchée sur le fond du litige.
+[Non souligné dans l’original.]
+[24] Malheureusement, la seule chose qui me reste à faire, à la lumière du commentaire formulé par le juge Noel, est de suggérer à l’ARC de revoir plus en détail la question des retenues à la source en tenant compte des éléments de preuve produits à l’audience. Pour l’ensemble des motifs susmentionnés, l’appel sera annulé.
+Signé à Toronto (Ontario), ce 2e jour d’octobre 2012.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 7e jour de novembre 2012.
+Alya Kaddour, traductrice
+RÉFÉRENCE : 2012 CCI 347
+NO DU DOSSIER DE LA COUR : 2012-1655(IT)I
+INTITULÉ : Douglas John Sutcliffe c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE : Le 25 septembre 2012
+MOTIFS DU JUGEMENT : L’honorable juge J. M. Woods
+DATE DU JUGEMENT : Le 2 octobre 2012
+COMPARUTIONS :
+Représentante de l’appelant :
+Mme Kathleen Gelhorn
+Avocat de l’intimée :
+Me Amandeep K. Sandhu
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : s.o.
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous‑procureur général du Canada
+Ottawa (Ontario)

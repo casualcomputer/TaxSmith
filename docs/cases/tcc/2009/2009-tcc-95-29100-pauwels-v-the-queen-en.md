@@ -1,0 +1,187 @@
+---
+title: "Pauwels v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29100/index.do"
+last_modified: "2009-02-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 95"
+citation2: ""
+neutral_citation: "2009 TCC 95"
+decision_date: "2009-02-12"
+language: "en"
+item_id: "29100"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6663
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:34:46.768000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "41cd11a399a00d3b3b0a0e9d6e00300db6a042cd661fe70bf9aedf0dab1b6ef4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Pauwels v. The Queen
+
+- Citation: 2009 TCC 95
+- Decision date: 2009-02-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6663, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pauwels v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-02-12
+Neutral citation
+2009 TCC 95
+File numbers
+2006-3672(GST)I
+Judges and Taxing Officers
+Murray A. Mogan
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2006-3672(GST)I
+BETWEEN:
+JACK PAUWELS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 11, 2008, at Hamilton, Ontario
+By: The Honourable Justice M.A. Mogan
+Appearances:
+Counsel for the Appellant:
+Rebecca L. Grima
+Counsel for the Respondent:
+Hong Ky (Eric) Luu
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated February 9, 2006, for the period January 1, 2001 to December 31, 2004, is allowed and the assessment is vacated.
+Signed at Ottawa, Canada, this 12th day of February 2009.
+“M.A. Mogan”
+Mogan D.J.
+Citation: 2009 TCC 95
+Date: 20090212
+Docket: 2006-3672(GST)I
+BETWEEN:
+JACK PAUWELS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Mogan D.J.
+[1] This appeal is from an assessment issued under the goods and services tax (“GST”) provisions of the Excise Tax Act, R.S.C. 1985, chapter E-15. The period under appeal is January 1, 2001 to December 31, 2004 covering four calendar years. At the commencement of the hearing, the parties filed a Joint Book of Documents containing 33 distinct documents each marked with a tab. Upon consent, the documents were entered as exhibits numbered 1 to 33, respectively.
+[2] Exhibits 1, 8, 15 and 23 are the Appellant’s T1 General income tax returns for the taxation years 2001, 2002, 2003 and 2004, respectively. In each of those four taxation years, the Appellant reported at line 166 an amount identified on the return as “commission income”. The four amounts were within the range of $147,000 to $187,000. Because the amounts were so clearly identified on the income tax returns as “commission income”, the Canada Revenue Agency (“CRA”) has assessed GST on those amounts as commissions received for services rendered.
+[3] The Appellant claims that he received no commissions at all in the period under appeal. He states that (i) he had a contract with a particular travel agency; (ii) as a person with an academic background, he would plan and promote tours to foreign locations of educational interest; (iii) the agency would provide all travel arrangements for persons going on the tours; (iv) he would frequently conduct the tour himself; and (v) he and the agency would share 50-50 as partners any profit or loss realized on each tour. The Appellant’s basic claim is that the amounts identified as “commission income” on his income tax returns were, in fact, an accumulation of his share of net profits from the tours which he and the agency operated in partnership during a particular year.
+[4] In business language, the issue is whether the Appellant was a commission salesman required to collect and remit GST on his commissions earned, or whether he was a partner in various transactions (i.e. tours) sharing a profit or loss depending on the circumstances of each transaction.
+[5] In statutory language, the issue is determined by the GST legislation. Subsection 123(1) contains many definitions but the following two are basic:
+123(1) In section 121, this Part and Schedules V to X,
+“supply” means, subject to sections 133 and 134, the provision of property or a service in any manner, including sale, transfer, barter, exchange, license, rental, lease, gift or disposition;
+“taxable supply” means a supply that is made in the course of a commercial activity;
+165(1) Subject to this Part, every recipient of a taxable supply made in Canada shall pay to Her Majesty in right of Canada tax in respect of the supply calculated at the rate of 7% on the value of the consideration for the supply.
+221(1) Every person who makes a taxable supply shall, as agent of Her Majesty in right of Canada, collect the tax under Division II payable by the recipient in respect of the supply.
+Having regard to the above GST legislation, the issue is whether the amounts in question were paid to the Appellant in respect of taxable supplies made to the travel agency.
+[6] The evidence and argument were presented on the basis that, if the amounts in question were received by the Appellant as a partner of the travel agency, there would be no obligation to collect or remit GST on such amounts. Conversely, if the amounts in question were received by the Appellant as commissions for services provided to the travel agency, he ought to have collected and remitted GST on such amounts.
+The Evidence
+[7] The Appellant came to Canada from Belgium in 1969 at the age of 23. He is an historian. Since coming to Canada, he has earned a Ph.D. in history from York University, and an M.A. and Ph.D. in political science from the University of Toronto. Over a period of years, he has taught history as a teaching assistant at the following five Ontario universities: York, Toronto, Guelph, Waterloo and Western. In circumstances described below, he stopped teaching around 1990. He has written six history books on subjects including World War II and the History of NATO Countries. Most of his writing has been done since 1990.
+[8] The Appellant’s brother, Norbert Pauwels, had started a travel agency in Brantford, Ontario under the name “Pauwels Travel Bureau Limited”, herein referred to as the “Travel Bureau”. During the 1970s, while the Appellant was a student and teaching assistant, he worked part-time on salary for the Travel Bureau. In the 1980s, the Appellant started to plan and organize tours to foreign places of historical interest where he could be his own travel guide. Because he had no license to operate as a travel agency, the Appellant asked his brother to have the Travel Bureau provide all travel arrangements for persons going on the tours which the Appellant was planning.
+[9] The Appellant used his position as a teaching assistant (history) to solicit students, teachers and others who might be interested in seeing places of historical interest. He speaks English, Italian, Spanish and Flemish (some Dutch and German). He also knows some Greek and Latin. With his language skills, he can frequently be his own tour guide. He does not plan any trips to the U.K. or Israel because there are too many others offering trips/tours to those two countries. Also, he does not plan any trips to destinations which offer only sand, surf and palm trees. He is interested only in educational or cultural tours.
+[10] When the Appellant started to plan and organize his own tours in the 1980s, and asked his brother to have the Travel Bureau provide all travel arrangements; he and his brother agreed that each tour would be a separate venture or profit centre; and that the Appellant and the Travel Bureau would share 50-50 the profit or loss resulting from each tour. Although there is no written partnership agreement between the Appellant and the Travel Bureau, there is an abundance of oral and documentary evidence to prove the 50‑50 sharing of profit or loss. I will describe that evidence below starting at paragraph 16.
+[11] During the 1970s and 1980s, the Appellant was working either on graduate degrees or as a teaching assistant at various Ontario universities. In the 1980s, as a sideline, he started to organize two or three historical tours each year using his brother’s company, Travel Bureau, to provide travel arrangements. That is when the 50-50 profit sharing started between the Appellant and Travel Bureau. At the same time, he was developing a clientele among colleges, schools and persons interested in historical tours.
+[12] In 1990, the Appellant’s brother (Norbert) died. Norbert’s widow, Bertha, did not have enough experience to manage Travel Bureau; and their daughter, Sandra, was too young to manage it. Some Ontario universities were reducing staff around 1990 and so the Appellant stopped teaching. He became more involved in the operation of Travel Bureau but he did not acquire any ownership of it; nor was he an officer or director of the company.
+[13] Before 1990, the Appellant organized and conducted only two or three tours per year. After 1990, when he had stopped teaching, the Appellant organized and conducted six or seven tours per year. Also, he was expanding his clientele among colleges and schools in Ontario; and he developed more contacts with hotels and bus lines in foreign countries. From and after 1999, he has been organizing about 20 tours per year but conducting only some of them. At all relevant times from the early 1980s until 2004 (the last calendar year under appeal), the Appellant has had the same 50-50 profit-sharing agreement with Travel Bureau. That agreement was not affected by Norbert’s death in 1990 even though the Appellant became more involved in Travel Bureau in the early 1990s.
+[14] There were three witnesses who testified on behalf of the Appellant: the Appellant himself, William Hyde and Sandra Pauwels. Mr. Hyde is a chartered accountant in private practice who has prepared the corporate financial statement (accountants’ comments) for the Travel Bureau since 1982. He also prepares Travel Bureau’s statements for the International Association of Travel Agents (“IATA”) and for the Travel Industry Council of Ontario (“TICO”). Mr. Hyde has been preparing the Appellant’s income tax returns since 1991.
+[15] Sandra Pauwels is now employed by Travel Bureau as its manager. She started working there as a student in retail travel around 1983. She attended a community college to study Tourism and Travel and then went back to work for Travel Bureau until she had enough experience to become manager.
+[16] Exhibit 21 is a three-page document which the Appellant reviewed in Court. It shows how the 50-50 profit-sharing works. Each of the Appellant’s tours has a separate account in the books and records of Travel Bureau because each such tour is regarded as a profit centre. Exhibit 21 is the account for a tour identified as “European Primavera”. It shows revenue of $123,599.46 and expenses of $94,794.63 leaving a profit of $28,804.83. The profit is adjusted down by $623.70 for a cash expense incurred by the Appellant (identified in the documents as “Jack”) leaving a net profit of $28,181.13.
+[17] The net profit in Exhibit 21 is allocated $14,090.57 to the Appellant and the same amount to Travel Bureau as at June 30, 2003. Exhibit 16 is the Appellant’s own summary of his revenue for 2003. Under the heading “Tour Commissions”, halfway down the list is an item “Primavera Bay of Biscay” with the amount $14,090.57. This amount is the Appellant’s 50% profit from the tour in Exhibit 21. The so-called “tour commissions” in Exhibit 16 have a total of $169,551.09 less losses of $1,664.45 leaving a net amount of $167,886.64. The Appellant has added book royalties and lecture fees of $2,300 for total revenue of $170,186.64 in 2003.
+[18] Exhibit 15 is a copy of the Appellant’s 2003 income tax return. On page 2 of Exhibit 15, after line 130, there are five different kinds of “self-employment income”: business, professional, commission, farming and fishing. The Appellant has entered the amount $170,186.64 on line 166 as “commission income” even though it contains small amounts of book royalties ($2,000) and lecture fees ($300). Counsel for the Respondent in cross-examination and argument has seized upon line 166 as an admission by the Appellant as to the character of his income. I have reservations on that point.
+[19] In evidence, the Appellant pointed out that he shared 50-50 both the profits and the losses from tours which he organized. In Exhibit 16, the Appellant has listed four tour losses in the aggregate amount of $1,664.45. A loss could occur in a number of ways but, frequently, it would be the result of forfeited deposits. The Travel Bureau is required to pay a deposit to reserve airline seats or hotel rooms. If an individual person drops out at the last minute, or if there is political turmoil and the tour has to be cancelled, all or part of the deposits may be forfeited. The Appellant is required to pay 50% of any such forfeiture on a trip that he has organized.
+[20] The advertisements for the Appellant’s tours are in the name Travel Bureau and do not disclose its 50-50 agreement with him. Only Travel Bureau is licensed to operate as a travel agency and is a member of both IATA and TICO. In special circumstances, the 50-50 agreement with Travel Bureau would be adjusted. The Appellant gave two examples of this in Exhibit 2 which is a list of his revenue for 2001. First, Exhibit 2 shows revenue of $5,636.89 from a tour identified as “Isabel Wilkes Italy Tour”. The Appellant explained that any profit on an Isabel Wilkes tour would be split three ways: one-third to him; one-third to Travel Bureau; and one-third to Michael Quinn who was not otherwise identified. Second, Exhibit 2 shows revenue of $5,000 from a tour identified as “Waterways of Russia”. The Appellant stated that his $5,000 amount was less than 50% of the profit because his contribution to this tour was less than his normal contribution. He volunteered to receive the flat amount of $5,000 being less than 50%.
+[21] The second page of Exhibit 2 shows certain expenses incurred by the Appellant in connection with the tours he organized in 2001. The items printed in bold letters are amounts he shared 50-50 with Travel Bureau. The items printed not in bold were paid 100% by himself. The last item was a student language prize which he paid alone at a local school (near Brantford), but he paid it in the name of Travel Bureau. He also paid Travel Bureau’s membership in the Toronto Belgian Community Association.
+[22] Exhibit 9 is a list of the Appellant’s revenues for 2002. Most of the amounts under the heading “Tour Commissions” are his 50% share of profits under his agreement with Travel Bureau. Two amounts, however, are flat payments of $5,000 with respect to tours called “Allen Toff Spain” and “Tunisia”. The Appellant volunteered to receive these two flat amounts, less than his normal 50% because his contribution to these two tours was less than normal. Also, his amount $6,073.80 from the Isabel Wilkes France Tour was only one-third of the profit because Michael Quinn received one-third.
+[23] Exhibit 9 also shows the kind of losses, under the 50-50 agreement, which the Appellant is required to absorb. There are five loss items totaling $3,471.20 and three of them are the result of cancelled tours. Subtracting the five loss items from the 22 profitable tours left the Appellant with “net commissions” of $155,470.32. The Appellant stated that the word “commission” rolls off the tongue easily in the travel business because it covers so many kinds of compensation.
+[24] Under cross-examination, the Appellant acknowledged that he prepared the “Revenue” documents himself at Exhibits 2, 9, 16 and 24 using the word “commission” to describe his net business income. He also attached to his income tax returns a CRA form T2124 “Statement of Business Activities” in order to show expenses which he paid himself but could not charge to his 50-50 agreement with Travel Bureau. Each form T2124 did not show the Appellant as having a partner in his business activities. In my view, it was not relevant or necessary to show his 50-50 agreement with Travel Bureau on the CRA forms T2124 because those forms were attached to the Appellant’s income tax returns to show only his business expenses independent of Travel Bureau.
+[25] Still under cross-examination, the Appellant described each of his tours as an entity by itself. He referred to an ad hoc 50-50 partnership for each of his tours but emphasized that he was not an ongoing 50-50 partner of Travel Bureau in its business. His tours were advertised and operated under the name Travel Bureau because it was a licensed travel agency and a member of IATA and TICO. At the same time, his tours would never occur if he did not have the academic contacts to solicit students, teachers, schools and colleges who were interested in tours of historical interest. His profession as a history teacher was the cornerstone of his tour ventures with Travel Bureau.
+[26] Mr. Hyde, the accountant, confirmed that Travel Bureau set up a separate account for each of the Appellant’s tours; and that each tour was regarded as a separate profit centre The Appellant maintained an open account with Travel Bureau. His half share of profit from each of his tours was credited to his open account. Similarly, a loss shown on any of his tours was divided; and one-half was debited to his open account. From time to time, depending on the credit balance in his account, Travel Bureau would issue a cheque to the Appellant.
+[27] Mr. Hyde used Exhibit 32 as a good example of the Appellant’s 50‑50 agreement with Travel Bureau. A tour named “Oppel Sicily” showed a profit of $22,163.57 in June 2004. That amount was divided 50-50 and $11,081.79 was credited to the Appellant’s open account (Exhibit 33) with Travel Bureau. Also, in Exhibit 24, the Appellant listed the same amount in his summary of 2004 revenue. Exhibit 24 shows only one loss of $150 from a tour named “McGill Spain”. That loss of $150 can be seen in the trial balance (Exhibit 28) of the Appellant’s open account for the period July 1, 2003 to June 30, 2004. The amount $150 is a debit entry (May 13) on page 3 of Exhibit 28; and the “Oppel Sicily” profit of $11,081.79 is a credit entry (June 24) on page 4.
+[28] Mr. Hyde discussed Exhibit 17, the Statement of Income and Retained Earnings of Travel Bureau for its fiscal periods ending June 30, 2003 and 2004. The 2004 revenue of $350,707 called “commissions” would include all amounts allocated to Travel Bureau from its 50-50 tour agreement with the Appellant; plus regular commissions from retail sales. Mr. Hyde said that “commission” is a generic term used in the travel industry on a fast and loose basis.
+[29] On page 2 of the Appellant’s income tax returns (Exhibits 1, 8, 15 and 23), the Appellant’s self-employment income could have been entered on line 162 as “business income” just as easily as on line 166 as “commission income”. Mr. Hyde was more concerned to know that the income tax returns made full disclosure of all amounts to determine net income. He identified his letter of November 8, 2005 to CRA (Exhibit 29) concerning the Appellant, and protesting that the Appellant made no application for GST registration. He also stated that the GST returns shown at Exhibit 30 for the years under appeal were filed under protest and were all late filed on November 8, 2005.
+[30] Sandra Pauwels was the third witness to testify. She is the current manager of Travel Bureau and described its two divisions: retail and group travel. The retail division is primarily walk-in trade. The retail staff are all on a base salary plus commissions. They would never be charged back if a client complained and was compensated. In other words, the retail staff are not at risk. Ms. Pauwels referred to Exhibit 14 as an example of a tour that lost money when the Appellant (identified as “Jack”) had one-half of the loss allocated to him.
+[31] She said that the Appellant was valuable to Travel Bureau because of his extensive education in history and his clients like the Royal Ontario Museum, Art Gallery of Ontario, and the alumni of various Ontario universities. He could easily promote a tour with his historical knowledge and academic clients. Ms. Pauwels said that, each summer, Travel Bureau has a big picnic for its clients (up to 300 guests) and that the Appellant always paid one-half of the cost because of his 50‑50 agreement with respect to the tours he organized.
+[32] Travel Bureau’s statement of income for 2001 and 2000 (Exhibit 3) was referred to Sandra Pauwels. She explained that the expense called “commissions” ($6,469) was a total of amounts paid to third parties who referred business, whereas commissions paid to employees are called “salaries” ($288,722). The amounts of profit allocated to the Appellant from his various tours do not appear as “expenses” in Exhibit 3 because they are from profit centers outside Travel Bureau’s ordinary business. Its share of profit from tours organized by the Appellant is included in “commissions” ($482,380).
+[33] Since 2001, Travel Bureau has developed agreements with about eight other persons who organize tours like the Appellant. The agreement with each such person is on a 50-50 basis like its agreement with the Appellant. Ms Pauwels said that if Travel Bureau registered for GST its 50-50 agreement with the Appellant, then it would have to register for GST its similar agreements with about eight other persons.
+[34] The testimony of William Hyde and Sandra Pauwels corroborated the Appellant’s testimony; and the testimony of all three was, in substance, corroborated by documentary exhibits. Even apart from the documents, the evidence of all three witnesses was highly credible. The Respondent did not call any witness.
+Analysis
+[35] In paragraph 7 of the Reply to the Notice of Appeal, a significant fact assumed by the Minister of National Revenue when making the assessment under appeal is stated as follows:
+7(a) at all material times, the Appellant was a commissioned salesman for Pauwels Travel Bureau Limited.
+In paragraphs 4, 5 and 6 above, the issue in this appeal is expressed as to whether the Appellant received the amounts in question as commissions for services provided to Travel Bureau. For the reasons set out below, I find that the Appellant was not, at any material time, a commissioned salesman for Travel Bureau. On the positive side, I find that the Appellant and Travel Bureau had a partnership with respect to the historical and cultural tours which the Appellant organized.
+[36] In argument, counsel for both parties cited relevant case law in support of their respective positions but, in my view, this case is determined primarily on its facts. The relevant provisions of the Ontario Partnerships Act are as follows:
+2. Partnership is the relation that subsists between persons carrying on a business in common with a view to profit, …
+3. In determining whether a partnership does or does not exist, regard shall be had to the following rules:
+1. …
+2. …
+3. The receipt by a person of a share of the profits of a business is prima facie evidence that he is a partner in the business, but the receipt of such a share or payment, contingent on or varying with the profits of a business, does not of itself make him a partner in the business, and in particular,
+(a) …
+[37] An examination of Exhibits 2, 9, 16 and 24 shows that the Appellant and Travel Bureau operated a significant number of tours in each of the four calendar years under appeal. Set out in the table below are the number of profitable tours and loss tours operated in each year. Within the “loss tours” I have omitted small amounts forfeited as deposits with respect to tours that never got off the ground.
+No of Profit Tours
+No. of Loss Tours
+2001
+16
+nil
+2002
+22
+2
+2003
+25
+2
+2004
+31
+nil
+[38] The Appellant’s share of profits each year from the tours shown in the table in paragraph 37 was in the range of $147,000 to $187,000. A similar amount of profit from the same tours was earned by Travel Bureau. The number of tours operated by the Appellant and Travel Bureau together, and the amount of profits derived from those tours are very strong evidence that the Appellant and Travel Bureau were operating a business in the period under appeal.
+[39] The Appellant and Sandra Pauwels testified under oath that they (the Appellant and Travel Bureau) shared the profits from their business on a 50-50 basis. Numerous documentary exhibits proved the 50-50 share of profits. Evidence from the Appellant’s three witnesses, both oral and documentary, was not contradicted. And, as already noted, they were very credible witnesses. With respect to the historical and cultural tours organized by the Appellant, I find that he and Travel Bureau were carrying on a business in common with a view to profit. In other words, I find that there was a partnership.
+[40] The prima facie evidence of partnership which flows from profit-sharing (referred to in section 3 of the Ontario Partnerships Act) runs in favour of the Appellant. Also, his share of profit was not contingent on there being a profit. Indeed, he shared in the losses.
+[41] In my view, it is unfortunate that the Appellant reported his share of profits as “commission income” on line 166 of his income tax returns. Those amounts should have been reported as “business income” on line 162. It appears to me that the persons at CRA who issued the assessment under appeal were blinded by the word “commission” in line 166. The appeal is allowed.
+Signed at Ottawa, Canada, this 12th day of February, 2009.
+“M.A. Mogan”
+Mogan D.J.
+CITATION: 2009 TCC 95
+COURT FILE NO.: 2006-3672(GST)I
+STYLE OF CAUSE: JACK PAUWELS and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Hamilton, Ontario
+DATE OF HEARING: June 11, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice M.A. Mogan
+DATE OF JUDGMENT: February 12, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Rebecca L. Grima
+Counsel for the Respondent:
+Hong Ky (Eric) Luu
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Rebecca L. Grima
+Firm: Giffen & Partners LLP
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

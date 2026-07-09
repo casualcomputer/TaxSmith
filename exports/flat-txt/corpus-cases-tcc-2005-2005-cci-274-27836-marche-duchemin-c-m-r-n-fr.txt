@@ -1,0 +1,197 @@
+Title: Marche Duchemin c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27836/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-274-27836-marche-duchemin-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2005-05-05
+
+# Marche Duchemin c. M.R.N.
+
+- Citation: 2005 CCI 274
+- Decision date: 2005-05-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 376, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Marche Duchemin c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-05-05
+Référence neutre
+2005 CCI 274
+Numéro de dossier
+2004-3957(EI)
+Juges et Officiers taxateurs
+Sylvio J. Savoie
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2004-3957(EI)
+ENTRE :
+MARCHÉ DUCHEMIN & FRÈRES INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+RICHARD DUCHEMIN,
+intervenant.
+____________________________________________________________________
+Appel entendu le 22 février 2005 à Montréal (Québec)
+Devant : L'honorable S.J. Savoie, Juge suppléant
+Comparutions :
+Représentant de l'appelante :
+Alain Savoie
+Avocate de l'intimé :
+Me Agathe Cavanagh
+Représentant de l'intervenant:
+Alain Savoie
+____________________________________________________________________
+JUGEMENT
+L'appel est accueilli et la décision rendue par le Ministre est annulée selon les motifs du jugement ci-joints.
+Signé à Grand-Barachois (Nouveau Brunswick) ce 5e jour de mai 2005.
+« S.J. Savoie »
+Juge suppléant Savoie
+Référence : 2005CCI274
+Date : 20050505
+Dossier : 2004-3957(EI)
+ENTRE :
+MARCHÉ DUCHEMIN & FRÈRES INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+RICHARD DUCHEMIN,
+intervenant.
+MOTIFS DU JUGEMENT
+Le juge suppléant Savoie
+[1] Cet appel a été entendu à Montréal (Québec) le 22 février 2005.
+[2] Cet appel porte sur l'assurabilité de l'emploi de Richard Duchemin, le travailleur, lorsqu'au service de l'appelante, du 1er janvier 2003 au 29 janvier 2004, la période en litige. Le 5 juillet 2004, le ministre du Revenu National (le « Ministre ») a informé l'appelante de sa décision selon laquelle le travailleur occupait un emploi assurable pendant la période en litige.
+[3] En rendant sa décision, le Ministre a déterminé que le travailleur exerçait un emploi auprès de l'appelante aux termes d'un contrat de louage de services, en s'appuyant sur les présomptions de fait suivantes :
+5.a) l'appelante a été constituée en société le 6 janvier 1984; (admis)
+b) l'appelante exploitait un marché d'alimentation sous la banière IGA; (admis)
+c) les heures d'ouverture de l'appelante sont de 6 h à 23 h, 7 jours par semaine; (admis)
+d) l'appelante embauchait environ 60 employés par année; (nié)
+e) l'appelante avait un chiffre d'affaires d'environ 17 millions; (ignoré)
+f) depuis 1996, le travailleur agit comme directeur du magasin; (admis)
+g) les tâches du travailleur consistaient à organiser et contrôler l'ensemble du magasin, à embaucher et à diriger les gérants de rayon, établir les horaires et à voir à la mise en marché; (à parfaire)
+h) Normand Duchemin, l'actionnaire majoritaire de l'appelante, consacrait de 2 à 3 heures de travail par jour pour l'appelante; (admis)
+i) le travailleur prenait les décisions opérationnelles de l'appelante; (admis)
+j) le travailleur devait rendre des comptes à l'appelante lors de réunions formelles; (nié)
+k) le travailleur rendait ses services à la place d'affaires de l'appelante; (à parfaire)
+l) le travailleur oeuvrait de 7 h à 18 h, 5 jours par semaine pour l'appelante, ayant congé les mercredis et les dimanches; (nié)
+m) le travailleur avait des vacances annuelles de 5 semaines rémunérées; (nié)
+n) le travailleur travaillait de 45 heures à 55 heures par semaine pour l'appelante; (nié)
+o) le travailleur était rémunéré 1 565 $ par semaine; (admis)
+p) l'appelante n'a jamais renoncé à son pouvoir de contrôle sur le travailleur; nié)
+q) le travailleur n'avait aucune dépense à encourir dans l'exercice de ses fonctions; (nié)
+r) le travailleur n'avait aucun risque financier dans l'exécution de ses tâches pour l'appelante; (nié)
+s) tout le matériel et l'équipement dont se servait le travailleur appartenaient à l'appelante; (nié)
+t) les tâches du travailleur étaient intégrées aux activités de l'appelante; (admis)
+6. L'appelante et le travailleur sont des personnes liées au sens de la Loi de l'impôt sur le revenu car :
+a) les actionnaires de l'appelante étaient Normand Duchemin, actionnaire majoritaire et Les Placements DJR Duchemin Inc.; (admis)
+b) les actionnaires avec droit de vote de Les Placements DJR Duchemin Inc. étaient:
+Normand Duchemin 55 % des actions
+Daniel Duchemin 15 % des actions
+Jean Duchemin 15 % des actions
+le travailleur 15 % des actions; (admis)
+c) Normand Duchemin est le père du travailleur et Daniel et Jean Duchemin sont les frères du travailleur; (admis)
+d) le travailleur était lié par le sang avec une personne qui contrôlait l'appelante; (admis)
+7. Le ministre a déterminé aussi que l'appelante et le travailleur étaient réputés ne pas avoir de lien de dépendance entre eux dans le cadre de cet emploi car il a été convaincu qu'il était raisonnable de conclure que l'appelante et le travailleur auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance, compte tenu des circonstances suivantes :
+a) le salaire du travailleur était raisonnable compte tenu du travail effectué et de la capacité de l'appelante; (nié)
+b) le travailleur n'avait aucun avantage imposable d'automobile et l'appelante ne défrayait aucune dépense personnelle pour le travailleur; (à parfaire)
+c) le travailleur avait un horaire variable qui correspondait aux besoins de l'appelante; (nié)
+d) le travailleur n'avait rien investi, ni cautionné aucun prêt de l'appelante; (admis)
+e) l'appelante laissait une latitude importante au travailleur dans l'exécution de ses tâches mais l'appelante avait le dernier mot sur les décisions d'envergure; (nié)
+f) les modalités d'emploi du travailleur n'étaient pas déraisonnables compte tenu du poste qu'il occupait dans l'entreprise, soit, le travailleur bénéficiait de 5 semaines de vacances et il n'avait aucune limite sur le nombre de congés de maladie alors que les autres employés avaient 4 semaines de vacances et 4 jours de congé de maladie par année; (nié)
+g) la période d'emploi concordait avec les activités de l'appelante; (à parfaire)
+h) le travail du travailleur était essentiel à l'entreprise de l'appelante. (admis)
+[4] Voici ce que révèle la preuve recueillie à l'audition.
+[5] L'appelante embauchait entre 90 et 100 employés par année. Les tâches du travailleur consistaient à s'occuper de la planification, du développement et du contrôle de l'entreprise. C'est lui qui s'occupait du service à la clientèle et qui dirigeait tout l'aspect administratif de l'entreprise. C'est sur lui également que reposait la gestion de tout le personnel avec la participation des gérants de rayons. Il a été établi que le travailleur faisait un peu de tout. Il passait même le balai et ramassait les choses qui traînaient par terre. C'est lui qui embauchait et dirigeait les gérants de rayons et établissait les horaires et la mise en marché de tous les produits d'alimentation. Pendant la période en litige, il a partagé avec son frère Jean Duchemin les tâches administratives de l'entreprise. Ils étaient payés le même salaire. Il a été établi d'ailleurs, que les trois frères Daniel, Jean et le travailleur ont reçu le même salaire. Ceci a suscité le commentaire de l'appelante et des actionnaires qu'ils trouvaient étrange que les emplois des frères du travailleur avaient été déclarés non assurables tandis que le Ministre soutenait que celui du travailleur l'était.
+[6] Pendant la période en litige, le salaire du travailleur et de ses frères était de 1 065 $ par semaine. Leur salaire avait été déterminé par le travailleur et ses frères, en fonction de leurs besoins respectifs et n'était aucunement lié à leurs tâches ou à leur performance. Les trois frères avaient également majoré ce salaire de 500 $ par semaine à titre de boni. Le boni aussi était établi selon les besoins du travailleur et de ses frères. La preuve a démontré que le travailleur et ses frères avaient l'autorité d'ajuster ce salaire et le boni à leur gré. Au sein de l'entreprise, ils étaient les seuls à bénéficier d'un tel arrangement.
+[7] Le travail du travailleur n'était aucunement supervisé. Il n'avait aucun horaire, travaillait les heures qu'il voulait, s'absentait quand il voulait et pour le temps qu'il voulait et n'avait aucun compte à rendre à personne. Il était, à juste titre, considéré comme le propriétaire de l'entreprise, a reconnu son père, l'actionnaire majoritaire.
+[8] Contrairement aux autres employé, les heures du travailleur n'étaient pas comptabilisées, mais ceci ne signifie pas que l'entreprise ne bénéficiait pas de son assiduité au travail. Parfois, au cours de rénovations du magasin, il pouvait rester sur place jusqu'à 36 heures d'affilées. Il pouvait, à l'occasion, selon la saison, travailler jusqu'à 100 heures dans une semaine. Souvent, c'était lui qui devait se lever la nuit pour vérifier le déclenchement du système d'alarme. Il devait aussi, à l'occasion, passer des nuits blanches pour s'assurer de la réparation de l'équipement, tel les compresseurs.
+[9] Normand Duchemin, le père du travailleur et l'actionnaire majoritaire a affirmé à l'audition qu'il ne connaissait pas l'horaire du travailleur mais qu'il savait qu'il prenait plus de temps pour ses enfants. Par ailleurs, M. Duchemin, père, a affirmé ne pas connaître le nombre d'employés à l'entreprise. Il a reconnu que le travail, comme celui du travailleur, ne finissait jamais. Il a également confirmé que le travailleur ne rendait aucun compte, qu'il avait carte blanche sur tout, que c'était lui qui décidait tout et qu'il était d'accord avec ça, parce que c'était son entreprise à lui : « C'est aux enfants cette affaire-là » a-t-il affirmé.
+[10] L'actionnaire majoritaire a reconnu que le travailleur passait du temps à l'entreprise de sa mère et de sa soeur ainsi qu'à Chomedy où ses frères exploitaient un autre commerce d'alimentation. La preuve a révélé, en outre, que le travailleur visitait à titre de conseiller l'entreprise Alimentation Duchemin et Lacase, de façon régulière. Ce commerce est exploité par son père avec un associé.
+[11] Il a été établi que le travailleur accomplissait beaucoup de tâches de chez lui où il est muni d'un ordinateur qu'il utilise à plus de 50 pour cent du temps pour l'entreprise. C'est là aussi qu'il prépare sa publicité pour les produits ethniques qu'il étale au magasin. Il s'est équipé d'une caméra numérique au coût de plus de 500 $ et a pris entre 500 et 1 000 photos pendant la période en litige, le tout pour préparer la publicité de ses produits. Il a fait tout ça à ses frais. C'est de chez-lui, les soirs et les fins de semaines qu'il s'occupe des urgences provoquées par les bris mécaniques et le déclenchement de l'alarme.
+[12] Le travailleur utilise son véhicule dans l'exécution des ses tâches, mais à l'occasion il utilise aussi les véhicules de l'appelante. Il possède, pour son usage personnel, une carte de crédit de l'entreprise et n'est aucunement supervisé ni contrôlé; c'est lui qui en a le contrôle.
+[13] La preuve a révélé que le travailleur bénéficie de 4 semaines de vacances par année mais, à moins de voyager à l'étranger, il va faire ses visites au magasin quand même. Il décide lui-même de sa période de vacances. Aussi, il bénéficie de congés de maladie, sans limite, tandis que les autres employés n'ont droit qu'à quatre jours de maladie payés par année. Le travailleur a le pouvoir de signer seul pour l'entreprise.
+[14] Normand Duchemin a témoigné à l'audition à l'effet que depuis 1993 ce n'est plus lui qui a le dernier mot, mais bien le travailleur et ses frères. Pour ce qui concerne l'appelante, monsieur Duchemin, père, reconnaît que le travailleur a les coudées franches : « s'il fait des gaffes, à n'importe quel niveau, c'est son problème » a-t-il affirmé. Celui-ci a également affirmé que le travailleur avait pris certaines décisions avec lesquelles il n'était pas du tout d'accord, mais que par contre, ces décisions s'étaient avérées perspicaces et profitables en dernière analyse. Il a cité comme exemple la décision de se lancer dans le marché de l'alimentation ethnique, ce qui représentait l'achat du marché alimentaire de Chomedy, un projet qu'il considérait beaucoup trop gros pour le travailleur et ses frères. En contre-interrogatoire, lorsqu'on lui a demandé s'il considérait que le travail du travailleur à l'extérieur de l'entreprise avait nui à l'appelante, il a répondu qu'à son avis cela avait nui aux opérations mais qu'il l'avait quand même laissé faire. Il a ajouté que depuis 1993 il ne s'était jamais opposé aux projets du travailleur. Il a déclaré : « Depuis 1993, je ne l'ai pas contredit une seule fois ».
+[15] Dans sa Réponse à l'avis d'appel, le Ministre affirme que le travailleur n'avait aucun risque financier dans l'exécution de ses tâches pour l'appelante. Face à cette affirmation, le travailleur a exprimé son désaccord total et a soutenu que l'exécution de ses tâches avait une importance capitale pour l'entreprise et pour son intérêt financier personnel puisque si l'entreprise n'opérait pas efficacement, elle devrait cesser ses opérations, ce qui aurait pour résultat sa ruine possible.
+[16] La preuve a révélé que le poste qu'occupe le travailleur commande un salaire à l'heure actuelle d'environ 1 100 $ par semaine, sans boni, tandis que le travailleur gagne avec son boni un salaire de 1 950 $ par semaine, salaire qu'il a fixé lui-même. L'actionnaire majoritaire a reconnu dans son témoignage que s'il gagne autant c'est parce qu'il est son fils, tout simplement.
+[17] Le Sous-procureur général invoque les alinéas 5(1)a) et 5(2)i) et les articles 91 et 93 de la Loi sur l'assurance-emploi, L.C. (1996) ch. 23 (la « Loi »), ainsi que les articles 251 et 252 de la Loi de l'impôt sur le revenu L.R.C. (19850, CH. 1 (5e suppl.), modifiée.
+[18] Il soutient que le travailleur occupait un emploi assurable pendant la période en litige car cet emploi était exercé aux termes d'un contrat de louage de services, au sens de l'alinéa 5(1)a) de la Loi.
+[19] De plus, il soutient que cet emploi était assurable car il n'était pas visé par l'alinéa 5(2)i) de la Loi. En effet, l'appelante et le travailleur sont réputés ne pas avoir de lien de dépendance entre eux dans le cadre de cet emploi, le Ministre ayant été convaincu qu'il était raisonnable de conclure, compte tenu de toutes les circonstances, qu'ils auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+[20] L'appelante demande à cette Cour de renverser la décision du Ministre. Mais avant de procéder à l'analyse de l'emploi du travailleur sous l'alinéa 5(1)a) de la Loi, il convient d'en faire l'étude sous l'angle de l'alinéa 5(3)b) de la Loi puisque le travailleur et l'appelante sont liés au sens de l'article 251 de la Loi de l'impôt sur le revenu comme en a convenu le Ministre puisque l'emploi du travailleur est exclu sous l'alinéa 5(2)i) de la Loi. Voici donc un extrait de la Loi applicable :
+EMPLOI ASSURABLE
+5. (1) Sous réserve du paragraphe (2), est un emploi assurable :
+(a) l'emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d'un contrat de louage de services ou d'apprentissage exprès ou tacite, écrit ou verbal, que l'employé reçoive sa rémunération de l'employeur ou d'une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+...
+(2) N'est pas un emploi assurable :
+...
+i) l'emploi dans le cadre duquel l'employeur et l'employé ont entre eux un lien de dépendance.
+...
+(3) Pour l'application de l'alinéa (2)i) :
+...
+b) l'employeur et l'employé, lorsqu'ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu'il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d'emploi ainsi que la durée, la nature et l'importance du travail accompli, qu'ils auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+[21] Les modalités de l'emploi du travailleur ont fait l'objet du témoignage du travailleur et de l'actionnaire majoritaire à l'audition. J'ai reproduit ci-haut dans ces motifs la partie pertinente de ces témoignages. Je dois dire que l'appelante a présenté une preuve qui a réussi à réfuter de nombreuses présomptions de fait énoncées par le Ministre.
+[22] Cette Cour, face à une tâche semblable à celle, en l'espèce, s'exprimait ainsi dans l'arrêt Putter c. Canada (ministre du Revenu national – M.R.N.) [2000] A.C.I. no 92, sous la plume du juge Rowe :
+[TRADUCTION] Je n'ai pas l'intention de reprendre tous les éléments de preuve dans les appels en l'instance parce que je les ai examinés durant le processus au terme duquel j'ai décidé d'intervenir. Il est raisonnable de conclure que, David et Daniel Putter, après avoir travaillé respectivement 21 ans et 15 ans pour la compagnie, n'étaient pas employés... en vertu de circonstances‑...notamment leur rétribution, (inférieure aux normes de l'industrie), la quantité de travail effectué, le manque de vacances, la capacité à contrôler leur rémunération, l'absence de toute obligation de se plier à la volonté des actionnaires majoritaires, le risque qu'ils ont couru pendant de nombreuses années en se rendant personnellement responsables des dettes de la compagnie... et ont clairement établi qu'ils n'auraient pas conclu un contrat de travail semblable avec Equinox s'ils n'avaient pas eu de lien de dépendance avec la compagnie. Il m'apparaît que le ministre peut difficilement déterminer, d'une manière objective, s'il est raisonnable de conclure que les parties auraient conclu un contrat de travail à peu près semblable, à moins d'avoir devant lui une preuve sur les salaires ou les conditions de travail comparables au sein de la même industrie ou d'une industrie connexe. Il est certainement possible d'utiliser un critère à partir duquel est évalué un emploi en particulier, parce que, autrement, il serait loisible aux parties de prétendre que, en dépit du fait qu'elles n'ont pas suivi les pratiques normales des entreprises dans un marché semblable, elles ont tout de même conclu le contrat d'emploi sur une base purement subjective. C'est, sans aucun doute, la manière dont les choses se passent, dans la situation inverse, quand la demande de prestation est rejetée pour le motif que les modalités de l'emploi du prestataire auprès d'un employeur lié, une fois que tous les faits ont été examinés, ne correspondent pas aux modalités qui s'appliquent normalement, ou que l'on s'attendrait voir s'appliquer dans le cas d'employés non liés ayant conclu un contrat de travail à peu près semblable.
+[23] Le passage qui précède est particulièrement pertinent considérant que la procureure du Ministre, a mis en doute à l'audition les affirmations des témoins de l'appelante parce que ceux-ci ne les avait pas fait connaître auparavant.
+[24] La Cour d'appel fédérale dans l'arrêt Légaré c. Canada (ministre du Revenue national – M.R.N.), [1999] A.C.F. no 878 a statué sur le rôle de cette Cour à qui on a confié le soin de déterminer un litige comme celui dans la cause sous étude, en précisant ce qui suit :
+... La Loi accorde, en effet, à la Cour canadienne de l'impôt le pouvoir de la réviser sur la base de ce que pourra révéler une enquête conduite, là, en présence de tous les intéressés. La Cour n'est pas chargée de faire la détermination au même titre que le ministre et, en ce sens, elle ne saurait substituer purement et simplement son appréciation à celle du ministre : c'est ce qui relève du pouvoir dit discrétionnaire du ministre. Mais la Cour doit vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et après cette vérification, elle doit décider si la conclusion dont le ministre était «convaincu» paraît toujours raisonnable.
+[25] Le juge Archambault de cette Cour apportait aussi ses précisions sur les droits et devoirs d'un appelant quand il conteste les hypothèses du Ministre. Il écrivait ce qui suit au paragraphe 33 de l'arrêt 9033-9979 Québec Inc. c. Canada (ministre du Revenu national – M.R.N.), [2000] A.C.I. no 788 :
+Dans la même décision, [Procureur général du Canada c. Jencan Ltd., [1998] 1 C.F. 187, [1997] A.C.F. 876] au paragraphe 41, on précise, de plus, à qui revient la tâche de contester les hypothèses de fait sur lesquelles le ministre s'est fondé pour rendre sa décision :
+Bien qu'il incombe au prestataire, qui est la partie qui interjette appel de la décision du ministre, de faire la preuve de ce qu'il avance, notre Cour a affirmé dans les termes les plus nets que le prestataire a le droit de présenter de nouveaux éléments de preuve lors de l'audience de la Cour de l'impôt pour contester les hypothèses de fait sur lesquelles le ministre s'est fondé.
+[26] Le juge Margeson de cette Cour dans l'arrêt Bayside Drive-In Ltd. c. Canada (ministre du Revenu national – M.R.N.) [1997] A.C.I. no 1212, décrivait au paragraphe 33 une situation analogue à celle qui fait l'objet de l'analyse de cette Cour dans la cause sous étude, en écrivant ce qui suit :
+Dans son argumentation, la représentante de l'intimée a fait valoir que tous les actionnaires remplissaient des fonctions pour l'entreprise alors qu'ils n'étaient pas inscrits dans le livre de paye. Tous les employés qui étaient des personnes liées recevaient un salaire indépendamment du nombre d'heures qu'ils avaient travaillées. Tous ces employés avaient des vacances. Les employés qui n'étaient pas des personnes liées recevaient un salaire horaire. Leurs heures étaient consignées. Ils n'étaient payés que pour les heures qu'ils travaillaient. Ils recevaient le salaire minimum. On leur versait une paye de vacances en vertu de la Vacation Pay Act plutôt que de leur donner des vacances comme les employés qui étaient des personnes liées. Les particuliers appelants n'avaient pas d'horaire fixe et leurs heures n'étaient pas consignées. Quel que soit le nombre d'heures qu'ils travaillaient, la paye qu'ils recevaient était la même.
+[27] Le juge Alain Tardif, de cette Cour, en a fait autant quand il a déterminé que le travail de l'intervenante ressemblait davantage à celui d'un propriétaire d'entreprise qu'à d'un employé dans l'arrêt D'Orsay Restaurant Pub Inc. c. Canada (ministre du Revenu national – M.R.N.), [2004] A.C.I. no 465 en s'exprimant en ces termes :
+[7] Elle était responsable de l'embauche, de la formation et du congédiement de la plupart des employés de l'entreprise.
+[8] Elle pouvait s'absenter à tout moment et planifier son travail en fonction de ses préoccupations familiales et personnelles et cela, à sa guise et à sa convenance et sans avoir à demander quelque permission que ce soit.
+[9] Alors que les absences pour cause de maladie de tous les employés devaient être justifiées au moyen d'un certificat médical, l'intervenante n'avait pas à justifier ou à motiver ses absences pour des raisons médicales ou pour toute autre raison.
+[10] Lors d'absences, les employés voyaient leur salaire amputé de la portion équivalant à la durée de l'absence. L'intervenante, quant à elle, recevait le même salaire peu importe les heures de travail ou la durée de l'absence.
+[11] À un certain moment, l'intervenante a bénéficié d'une augmentation de salaire de 17 000 $ justifiée par l'amélioration du niveau de vie étant donné que les affaires étaient florissantes. Le salaire des autres employés était fonction de leur expérience et de leur compétence. Il n'était aucunement établi en fonction de la prospérité du commerce ou de ses profits.
+[...]
+[20] La prépondérance de la preuve est à l'effet que le travail exécuté par l'intervenante pour le compte et au bénéfice de l'appelante n'était en rien semblable ou comparable à celui qu'exécutaient les autres employés ou à celui qu'aurait dû ou pu exécuter une personne responsable du même travail d'administration. Les conditions de travail de l'intervenante étaient beaucoup plus comparables à celles d'un propriétaire ou co‑propriétaire d'une entreprise qu'à celles d'un employé.
+[28] À l'appui de ses prétentions, le représentant de l'appelante a cité l'arrêt Edward Bergen c. Canada (ministre du Revenu national – M.R.N.), [2002] A.C.I. no 73 de cette Cour, où des faits très similaires à ceux dans la présente affaire ont fait l'objet de l'étude par le juge suppléant Porter.
+[29] En rendant sa décision, dans l'arrêt Bergen, précité, le juge s'est appuyé également sur le fait que les intérêts économiques des appelants étaient inextricablement liés à ceux de la société, comme c'est le cas en l'espèce, entre le travailleur et l'appelante. Il s'exprimait en ces termes :
+[TRADUCTION]
+[63] Je n'entends pas exposer encore une fois toute la preuve. J'ai déjà mentionné les faits importants. Il est clair, à mon avis, que les deux frères et la société ne faisaient qu'un. Leurs intérêts économiques étaient inextricablement liés à ceux de la société. Bien qu'ils aient pu signer les garanties en leur qualité d'actionnaires ou d'administrateurs, le fait qu'ils l'aient fait montre qu'il existait un lien inextricable entre eux et la société. Leurs intérêts économiques étaient liés à ceux de la société et ceux de la société étaient liés aux leurs, dans une telle mesure qu'on ne peut dire qu'il existait entre eux des intérêts économiques distincts ou contraires. Ils étaient l'âme dirigeante de la société, ils avaient eux‑mêmes un lien de parenté et ils avaient un intérêt économique familial commun qui était inséparable de celui de la société. C'est exactement la situation qu'a envisagée le législateur lorsqu'il a établi le régime d'assurance-emploi de façon à empêcher les personnes qui dirigent ou contrôlent leur propre entreprise d'une façon commerciale de prendre part à ce régime et de demander des prestations s'ils se retrouvent sans emploi.
+[30] Cette Cour s'est de nouveau penchée sur une situation de lien de dépendance dans l'arrêt Marché du Faubourg Ste-Julie Inc. c. Canada (ministre du Revenu national – M.R.N.) [2003] A.C.I. no 513, où le juge Dussault a exclu des emplois assurables le travail des employés qui oeuvraient dans les circonstances suivantes :
+[19] Qu'on parle des tâches, qu'on parle des responsabilités qui leur sont données, de la rémunération, du salaire et du bonus, (il faut tenir compte des deux éléments) de l'horaire de travail, des congés de maladie, des avantages dont ils bénéficient, des cours, des congrès, des voyages, de l'utilisation de cartes de crédit, toutes ces conditions-là, je n'ai à peu près rien vu dans la preuve que j'ai entendue aujourd'hui qui fait en sorte que les conditions de travail de ces deux personnes sont semblables à celles des autres gérants dans le même magasin.
+[20] On peut parler aussi des garanties qui ont été données par ces personnes-là, de l'assurance-vie, somme toute, je ne suis pas pour répéter toute la preuve que j'ai entendue aujourd'hui. À mon avis, il y a à peu près rien de semblable.
+[21] Donc, pourquoi ont-ils, eux, ces conditions-là qui sont fort différentes de celles des autres employés? Bien, c'est dû au lien de dépendance effectivement, ce lien de dépendance venant du fait qu'ils sont liés à la société.
+[31] Bien sûr, chaque cause est un cas d'espèce. Je crois, cependant, que les arrêts cités, à quelques distinctions près, se ressemblent suffisamment pour produire le même résultat.
+[32] Aux termes de cette analyse, cette Cour doit conclure que l'appelante s'est déchargée du fardeau qui reposait sur elle en faisant la preuve que plusieurs hypothèses du Ministre étaient fausses, de sorte que cette Cour, après vérification des faits supposés ou retenus par le Ministre, doit conclure que ceux-ci n'ont pas été appréciés correctement, compte tenu du contexte où ils sont survenus. En conséquence, la conclusion dont le Ministre était convaincu ne paraît plus raisonnable.
+[33] Pour les motifs ci-haut la Cour conclut que l'emploi du travailleur est exclu des emplois assurables selon l'alinéa 5(2)i) de la Loi et que le Ministre a eu tort de conclure que l'appelante et le travailleur devaient être réputés ne pas avoir de lien de dépendance entre eux dans le cadre de cet emploi, selon l'alinéa 5(3)b) de la Loi.
+[34] Pour tous ces motifs, l'appel est accueilli et la décision rendue par le Ministre est annulée.
+Signé à Grand-Barachois, Nouveau Brunswick, ce 5e jour de mai 2005.
+« S.J. Savoie »
+Juge suppléant Savoie
+RÉFÉRENCE : 2005CCI274
+Nº DU DOSSIER DE LA COUR : 2004-3957(EI)
+INTITULÉ DE LA CAUSE : MARCHÉ DUCHEMIN & FRÈRES INC. ET M.R.N. ET RICHARD DUCHEMIN
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 22 février 2005
+MOTIFS DE JUGEMENT PAR : L'honorable S.J. Savoie, Juge suppléant
+DATE DU JUGEMENT : le 5 mai 2005
+COMPARUTIONS :
+Représentant de l'appelante :
+Alain Savoie
+Avocate de l'intimé :
+Me Agathe Cavanagh
+Représentant de l'intervenant:
+Alain Savoie
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom :
+Étude :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Ontario
+Pour l'intervenant :

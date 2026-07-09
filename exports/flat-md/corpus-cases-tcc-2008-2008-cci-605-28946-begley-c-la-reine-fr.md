@@ -1,0 +1,149 @@
+---
+title: "Begley c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28946/index.do"
+last_modified: "2008-11-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 605"
+citation2: ""
+neutral_citation: "2008 CCI 605"
+decision_date: "2008-11-06"
+language: "fr"
+item_id: "28946"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1386
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:14:04.751000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "807b45d6f2d9e57eac57bd17674f510b4cf81a5e15f4c33241fff40179b80bb6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Begley c. La Reine
+
+- Citation: 2008 CCI 605
+- Decision date: 2008-11-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1386, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Begley c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-11-06
+Référence neutre
+2008 CCI 605
+Numéro de dossier
+2007-4874(IT)I
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-4874(IT)I
+ENTRE :
+MARC BEGLEY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 23 septembre 2008, à Ottawa (Ontario).
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Avocat de l'intimée :
+Me Julian Malone
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu à l'égard de l'année d’imposition 2005 est rejeté.
+Signé à Montréal, Québec, ce 6e jour de novembre 2008.
+« Lucie Lamarre »
+Juge Lamarre
+Référence : 2008 CCI 605
+Date : 20081106
+Dossier : 2007-4874(IT)I
+ENTRE :
+MARC BEGLEY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] L’appelant en appelle d’une cotisation établie par le ministre du Revenu national (Ministre) en vertu de la Loi de l’impôt sur le revenu (LIR) pour son année d’imposition 2005. L’appelant avait réclamé des frais judiciaires au montant de 10 163 $ dans le calcul de son revenu au moment de produire sa déclaration de revenu 2005. En cour, il a produit une lettre de ses avocats qui détaille le montant des honoraires payés par l’appelant en 2005 à 12 424,19 $ (pièce A-2). À tout événement, le Ministre refuse en totalité la déduction de ces frais judiciaires. Ces frais auraient été engagés par l’appelant pour intenter une action contre son assureur pour établir son droit à une rente d’invalidité de longue durée qu’il avait souscrite auprès du Régime d’assurance des dentistes du Canada.
+Faits
+[2] L’appelant exerçait la profession de dentiste et avait souscrit, en 1982, à une police d’assurance collective, incluant une assurance-invalidité de longue durée de 3 000 $ par mois jusqu’à l’âge de 65 ans. Il n’a jamais déduit les primes d’assurance qu’il a versées à cet égard à l’encontre de ses revenus professionnels dans ses déclarations de revenu.
+[3] En 1994, il a été affecté d’une maladie dégénérative qui a dû le forcer à mettre fin à sa carrière de dentiste en 1998. Il a alors fait une réclamation auprès de son assureur, qui après expertise médicale, a refusé de payer le montant de la réclamation. Après contestation par l’appelant, l’assureur a offert de lui verser une somme forfaitaire, équivalant au tiers de la rente à laquelle prétend l’appelant, en vertu de sa police d’assurance. Ce dernier a refusé ce règlement. La poursuite intentée en Cour supérieure du Québec contre son assureur est donc toujours pendante et est fixée pour audition au mois de mars 2009.
+[4] Il ressort de la documentation soumise en preuve que les prestations d’invalidité de longue durée auxquelles aspire l’appelant sont considérées, tant par l’assureur que par l’assuré, comme n’étant pas assujetties à l’impôt (voir lettre de l’Association dentaire canadienne adressée à l’appelant en date du 4 juillet 2007, pièce A-2), puisque les primes d’assurance payées par l’appelant à cet égard, n’ont pas été déduites de son revenu au cours des années. C’est justement parce que cette rente d’invalidité, qui est l’objet de l’action en justice intentée par l’appelant, est considérée non imposable, que le Ministre refuse à ce dernier ses frais judiciaires.
+[5] L’intimée invoque le principe de la « neutralité fiscale ». Une somme sera déductible aux fins de l’impôt sur le revenu, si elle est engagée dans le but de gagner un revenu imposable.
+[6] L’appelant, de son côté, invoque en quelque sorte le principe de la substitution (« surrogatum principle »). Selon lui, la rente d’invalidité qu’il réclame de son assureur a pour but de remplacer, dans une certaine mesure, ses revenus de profession qu’il ne génère plus à cause de son invalidité. D’ailleurs, il semblerait que le montant assuré ne pouvait dépasser son revenu professionnel.
+Analyse
+[7] Le principe de substitution a été défini par Lord Diplock dans London and Thames Haven Oil Wharves, Ltd. c. Attwooll, [1967] 2 All E.R. 124 (C.A.)(Div. civ.), et reconnu par la Cour suprême du Canada dans Tsiapraillis c. R., 2005 SCC 8, aux paragraphes 48 et 49 :
+48 […] La somme versée à titre d’indemnité ou pour régler un litige est intrinsèquement neutre sur le plan fiscal et doit donc être qualifiée pour que l’on puisse déterminer si elle est imposable. Tel est le principe de la substitution défini par lord Diplock dans London and Thames Haven Oil Wharves, Ltd. c. Attwooll, [1967] 2 All E.R. 124 (C.A.) :
+[traduction] Chaque fois qu’un commerçant reçoit, en vertu d’un droit, de quelqu’un d’autre, une indemnité au lieu d’une somme d’argent qui aurait été comptabilisée dans les profits [. . .], il y a lieu de traiter cette indemnité sur le plan fiscal de la même manière que la somme d’argent l’aurait été si l’indemnité ne l’avait pas remplacée. [p. 134]
+49 Lorsqu’on applique ce principe, il faut se demander ce qu’est censée remplacer l’indemnité ou la somme versée pour régler un litige : Cie des chemins de fer nationaux du Canada c. Canada, [1988] A.C.F. no 524 (QL) (1re inst.), par. 6. Il s’agit d’un examen factuel : Prince Rupert Hotel (1957) Ltd. c. Canada, [1995] A.C.F. no 492 (QL) (C.A.), par. 9.
+[8] Dans l’arrêt Tsiaprailis, la contribuable avait intenté une action contre une compagnie d’assurance afin d’obtenir un jugement déclarant qu’elle avait droit aux prestations d’invalidité en vertu d’une police d’assurance souscrite pour elle par son employeur. Elle avait finalement réglé hors cour en acceptant le versement d’une somme forfaitaire. La juge Abella (dissidente) s’exprimait ainsi au paragraphe 54 :
+54 Si l’on applique le principe de la substitution aux faits de l’espèce, le versement de la somme visait généralement à libérer la compagnie d’assurance de l’obligation alléguée et à éteindre par le fait même les droits que Mme Tsiaprailis prétendait avoir en application de la police d’assurance invalidité.
+[9] La juge Charron, s’exprimant au nom de la majorité, s’accorde avec la juge Abella sur le principe de substitution en ces termes au paragraphe 7 :
+7 […] [le] principe voulant qu’une somme accordée à titre d’indemnité ou en règlement d’un litige soit intrinsèquement neutre sur le plan fiscal. Ma collègue ne conteste pas ce principe. Elle explique que, pour déterminer si une somme est imposable, il faut considérer sa nature et son objet et se demander ce qu’elle est censée remplacer. L’examen est factuel. Les conséquences fiscales du versement d’une somme à titre d’indemnité ou en règlement d’un litige sont ensuite établies en fonction de cette qualification. Autrement dit, le traitement fiscal dépend de ce que la somme vise à remplacer. Il s’agit du principe de la substitution. Comme le signale la juge Abella, ce principe a été défini dans l’arrêt London and Thames Haven Oil Wharves, Ltd. c. Attwooll, [1967] 2 All E.R. 124 (C.A.), puis appliqué dans un certain nombre d’affaires au Canada : voir P. W. Hogg, J. E. Magee et J. Li, Principles of Canadian Income Tax Law (4e éd. 2002), p. 91‑93, et V. Krishna, The Fundamentals of Canadian Income Tax (8e éd. 2004), p. 413‑415.
+[10] Dans la présente instance, l’appelant cherche à déduire de son revenu les frais judiciaires qu’il a engagés dans le cadre de sa poursuite contre son assureur, dans le but d’obtenir un jugement lui octroyant la totalité de la rente d’invalidité à laquelle il dit avoir droit en vertu de sa police d’assurance.
+[11] Pour que ces dépenses soient déductibles, l’appelant doit établir qu’elles ont été engagées en vue de tirer un revenu d’une entreprise ou d’un bien, et qu’il ne s’agit pas de dépenses personnelles, et ce, aux termes du paragraphe 9(1) et des alinéas 18(1)a) et 18(1)h) de la LIR (voir, entre autres, une analyse à ce sujet par la Cour suprême du Canada dans Symes v. R., [1993] 4 R.C.S. 695, paragraphes 38 et 40). Ces dispositions législatives sont reprises ci-après :
+ARTICLE 9 : Revenu
+(1) Sous réserve des autres dispositions de la présente partie, le revenu qu'un contribuable tire d'une entreprise ou d'un bien pour une année d'imposition est le bénéfice qu'il en tire pour cette année.
+ARTICLE 18 : Exceptions d'ordre général
+(1) Dans le calcul du revenu du contribuable tiré d'une entreprise ou d'un bien, les éléments suivants ne sont pas déductibles :
+a) Restriction générale - les dépenses, sauf dans la mesure où elles ont été engagées ou effectuées par le contribuable en vue de tirer un revenu de l'entreprise ou du bien;
+[...]
+h) Frais personnels ou de subsistance - le montant des frais personnels ou de subsistance du contribuable - à l'exception des frais de déplacement engagés par celui-ci dans le cadre de l'exploitation de son entreprise pendant qu'il était absent de chez lui.
+[12] C’est pour répondre à cette question que le principe de substitution prend son importance. En effet, si la rente d’invalidité à laquelle prétend l’appelant devait se substituer à son revenu de profession, les frais judiciaires engagés pour la recevoir deviendraient alors des dépenses effectuées dans le but de gagner un revenu qui se substitue au revenu d’entreprise (dans ce cas-ci les revenus professionnels de dentiste). En conséquence, ces frais judiciaires seraient déductibles pour fins fiscales, mais la rente d’invalidité serait aussi imposable. Ainsi, l’on préserve le principe voulant qu’une somme accordée à titre d’indemnité soit intrinsèquement neutre sur le plan fiscal. À ce sujet, je réfère à une décision très récente de notre Cour, dans Goff Constuction Ltd. v. R., 2008 TCC 322, où le juge Miller dit ceci aux paragraphes 14 et 16 :
+14 […] The tax consequences of a settlement payment depend on the tax treatment of the item for which the payment is intended to substitute. Where, as here, the amount is recovery of expenditures, as opposed to lost profits, one must look to the tax treatment of those expenditures. In this case, those expenditures were properly deducted for tax purposes and consequently, applying the surrogatum principle, the settlement amount should fall into income. […]
+15 This conclusion is not a conclusion that the settlement amount was compensation for current expenses; it is a conclusion that the settlement amount was compensation for deductible capital expenditures.
+16 […] The surrogatum principle should apply to assist in reaching a tax result in accordance with the tax legislation, not to encourage a result of either windfall at one end of the spectrum, or double taxation at the other end. The surrogatum principle should apply to maintain tax neutrality of damages.
+[13] Dans le cas contraire où la rente d’invalidité n’est pas censée remplacer le revenu professionnel en soi, mais est versée purement à titre personnel, dans le but d’indemniser le contribuable devenu invalide, elle ne sera vraisemblablement pas imposable. En effet, il ne s’agirait pas alors d’une indemnité reçue ou à recevoir au lieu d’une somme d’argent qui aurait été comptabilisée dans les profits de l’entreprise.
+[14] Si l’on arrive à cette conclusion, les frais judiciaires n’auront donc pas été engagés dans le but de tirer un revenu d’entreprise (de la profession de dentiste), mais à des fins personnelles et ne seront donc pas déductibles du point de vue fiscal.
+[15] Dans le cas de l’appelant, il a spécifié que les primes qu’il a payées sur sa police d’assurance n’avaient fait l’objet d’aucune déduction à l’encontre de ses revenus professionnels. C’est déjà là un signe que la police d’assurance souscrite par l’appelant ne visait pas à l’indemniser contre une perte de son revenu professionnel. À ce sujet, l’avocat de l’intimée a fait référence à une décision de la Cour d’appel fédérale, Canada c. MacIntyre, [1975] A.C.F. no 501 (QL), au passage suivant au paragraphe 6 :
+6 Je conclus que la prime en question n'est pas une dépense engagée en vue de tirer un revenu de l'« entreprise », parce qu'elle est versée pour une police d'assurance en vertu de laquelle l'intimé a droit de recevoir certaines sommes hebdomadaires fixes, pour chaque semaine où il est « frappé d'une invalidité totale qui l'empêche de travailler pour gagner un salaire ou réaliser un bénéfice », en cas d'« invalidité en raison de blessures corporelles résultant d'un accident » ou en cas d'« invalidité causée par la maladie »; pour obtenir cette assurance il doit être membre d'une organisation qui négocie au nom des artistes de la télévision et de la radio. Il me semble donc évident qu'il ne verse pas ces primes pour obtenir une rémunération de ses services (qui équivaut au revenu brut de son entreprise); en outre, il doit être « frappé d'une invalidité totale qui... l'empêche de travailler pour gagner un salaire ou réaliser un bénéfice » pendant la semaine à l'égard de laquelle il reçoit l'indemnité prévue à l'assurance; pendant ladite semaine, il lui faut donc interrompre ou abandonner son « entreprise » qui consiste exclusivement à rendre des services personnels. Il ne s'agit pas d'une assurance contre une perte de revenu de « l'entreprise », mais plutôt de paiements garantis pour toute période d'invalidité, que son « entreprise » subsiste ou non.
+[16] De façon similaire en la présente instance, la rente d’invalidité n’est pas une assurance contre une perte de revenus professionnels, mais s’apparente plutôt à des paiements garantis pour toute période d’invalidité, peu importe ce qui arrive des activités professionnelles de l’appelant. Par ailleurs, même si l’élément de référence pour fixer le montant de la rente est le revenu professionnel de l’appelant, selon les termes de la police d’assurance, ceci n’est pas déterminant en soi. En effet, tel que déjà mentionné plus haut, l’imposabilité de la rente dépendra de sa nature et de son objet et de ce qu’elle est censée remplacer (voir Tsiaprailis, précité, aux paragraphes 7 et 13).
+[17] La rente d’invalidité que réclame l’appelant ne résulte pas de l’exploitation de sa profession de dentiste, mais plutôt de son invalidité dont il s’est protégé personnellement en prenant une police d’assurance. La rente d’invalidité est donc de nature personnelle et n’est pas censée remplacer une somme d’argent qui aurait été comptabilisée dans les profits de sa pratique professionnelle.
+[18] En conséquence, les frais judiciaires engagés eu égard à cette rente d’invalidité ne sont pas des dépenses faites dans le but de gagner un revenu d’entreprise ou d’un bien, et ne sont donc pas déductibles, aux termes du paragraphe 9(1) et des alinéas 18(1)a) et 18(1)h) de la LIR.
+[19] L’appel est rejeté.
+Signé à Montréal, Québec, ce 6e jour de novembre 2008.
+« Lucie Lamarre »
+Juge Lamarre
+RÉFÉRENCE : 2008 CCI 605
+Nº DU DOSSIER DE LA COUR : 2007-4874(IT)I
+INTITULÉ DE LA CAUSE : MARC BEGLEY c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Ottawa (Ontario)
+DATE DE L’AUDIENCE : le 23 septembre 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge Lucie Lamarre
+DATE DU JUGEMENT : le 6 novembre 2008
+COMPARUTIONS :
+Pour l'appelant :
+l'appelant lui-même
+Avocat de l'intimée :
+Me Julian Malone
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

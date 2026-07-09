@@ -1,0 +1,161 @@
+Title: Celestini c. Le Roi
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521301/index.do
+Corpus path: corpus/cases/tcc/2024/2024-cci-98-521301-celestini-c-le-roi-fr.md
+Document type: case_law
+Last modified: 2024-07-17
+
+# Celestini c. Le Roi
+
+- Citation: 2024 CCI 98
+- Decision date: 2024-07-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5713, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Celestini c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2024-07-17
+Référence neutre
+2024 CCI 98
+Numéro de dossier
+2023-1042(GST)I
+Juges et Officiers taxateurs
+Martin Lambert
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2023-1042(GST)I
+ENTRE :
+STEFANO CELESTINI,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 30 avril 2024, à Hamilton (Ontario).
+Devant : l’honorable juge suppléant Martin Lambert
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimé :
+Me Chelsea Barkhouse
+JUGEMENT
+Conformément aux motifs du jugement ci-joints, l’appel de la cotisation établie le 28 mars 2022 relativement à la demande de remboursement de la taxe sur les produits et services/taxe de vente harmonisée (la « TPS/TVH ») pour habitations neuves est rejeté, sans frais.
+Signé à Timmins (Ontario), ce 17e jour de juillet 2024.
+« M. Lambert »
+Le juge suppléant Lambert
+Traduction certifiée conforme
+ce 27e jour de juillet 2024.
+Diane Walsh, traductrice
+Référence : 2024 CCI 98
+Date : 20240717
+Dossier : 2023-1042(GST)I
+ENTRE :
+STEFANO CELESTINI,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant Lambert
+[1] L’appelant a demandé un remboursement de la TPS/TVH pour habitations neuves (le « remboursement ») de 15 513,38 $. Il a déposé sa demande de remboursement le 12 novembre 2021. Par un avis de cotisation daté du 28 mars 2022, le ministre du Revenu national (le « ministre ») a refusé la demande de l’appelant, adoptant la position que la nouvelle habitation n’avait pas été construite pour servir de résidence habituelle à l’appelant, et que la demande n’avait pas été présentée dans un délai opportun.
+[2] Le montant du remboursement n’était pas une question en litige au moment de l’audience. La seule question en litige consiste à savoir si l’appelant satisfait aux exigences de la loi pour avoir droit au remboursement.
+[3] Les dispositions législatives pertinentes se trouvent à l’article 256 de la Loi sur la taxe d’accise (la « Loi »). D’une importance particulière sont l’alinéa 256(2)a) et le sous-alinéa d)(i), ainsi que le paragraphe 256(3), lesquels prévoient ce qui suit :
+256(2) Le ministre verse un remboursement à un particulier dans le cas où, à la fois :
+a) le particulier, lui-même ou par un intermédiaire, construit un immeuble d’habitation — immeuble d’habitation à logement unique ou logement en copropriété — ou y fait des rénovations majeures, pour qu’il lui serve de résidence habituelle ou serve ainsi à son proche;
+[…]
+d)(i) le premier particulier à occuper l’immeuble après le début des travaux est le particulier ou son proche,
+(3) Les remboursements prévus au présent article ne sont versés que si le particulier en fait la demande au plus tard :
+a) à la date qui suit de deux ans le premier en date des jours suivants :
+(i) le jour qui suit de deux ans le jour où l’immeuble est occupé pour la première fois de la manière prévue au sous-alinéa (2)d)(i),
+(ii) le jour où la propriété est transférée conformément au sous-alinéa (2)d)(ii),
+(iii) le jour où la construction ou les rénovations majeures de l’immeuble sont achevées en grande partie;
+b) à toute date postérieure à celle prévue à l’alinéa a), fixée par le ministre.
+[4] Les conditions préalables à l’admissibilité au remboursement sont donc les suivantes :
+a)La propriété en question doit être un immeuble d’habitation à logement unique.
+b)Le particulier qui demande le remboursement doit l’avoir construit ou rénové lui-même, ou par un intermédiaire.
+c)La résidence doit être la résidence habituelle du particulier ou de son proche, et il doit être la première personne à occuper la propriété.
+d)La demande de remboursement doit être présentée dans les deux ans après la date qui suit de deux ans le premier en date des jours suivants :
+(i)le jour qui suit de deux ans le jour où l’immeuble est occupé;
+(ii)le jour où la construction ou les rénovations majeures sont achevées en grande partie.
+[5] En l’espèce, les questions en litige consistent à savoir si l’unité d’habitation en cause est la résidence habituelle de l’appelant, et si la période de prescription de deux ans commençait à courir le 31 août 2013, date à laquelle le ministre considère que la construction était achevée en grande partie, ou le 31 mars 2020 où l’appelant affirme avoir commencé à occuper la propriété, y ayant entièrement emménagé en mai 2020.
+[6] Dans la Loi, la « résidence habituelle » n’est pas la même que le lieu de résidence principal dans la Loi de l’impôt sur le revenu. En utilisant le terme « habituelle » plutôt que « principal », le législateur ouvre la possibilité qu’un particulier puisse avoir un lieu de résidence secondaire.
+[7] Dans l’Énoncé de politique sur la TPS/TVH P-228 « Résidence habituelle » (la « Politique P-228 »), la position de l’Agence du revenu du Canada est que la « résidence habituelle » est celle « qui tient de l’habitude par sa régularité, sa constance » (l’« ARC »). La politique prévoit, en partie, ce qui suit :
+Une résidence habituelle peut être différenciée d’une résidence secondaire puisque les termes « habituel » et « secondaire » ont chacun un sens précis. Le terme « habituel » désigne ce qui tient de l’habitude par sa régularité, sa constance, tandis que le terme « secondaire » s’entend de ce qui vient au second rang. Il s’ensuit que lorsqu’un particulier a plus d’une résidence, la résidence qui n’est pas la plus importante pour ce particulier est la résidence secondaire puisqu’elle est subordonnée à la résidence habituelle (p. ex. elle est utilisée principalement à des fins de loisirs ou est occupée moins qu’une autre).
+[8] Voici certains critères indicatifs d’une résidence habituelle :
+a)l’adresse postale;
+b)l’impôt sur le revenu;
+c)le droit de vote;
+d)les taxes municipales ou scolaires;
+e)la liste des inscriptions téléphoniques.
+[9] En outre, la Politique P-228 prévoit que si un particulier possède plus d’un lieu de résidence, et qu’il continue de les occuper tous les deux, les facteurs suivants peuvent indiquer celui qui est la résidence habituelle :
+a)le temps passé à l’une ou l’autre des résidences;
+b)l’emplacement du lieu de travail du particulier ou du parent admissible;
+c)la disponibilité de commodités propres aux besoins personnels du particulier ou du parent admissible, ou du particulier habitant avec lui;
+d)la mesure dans laquelle le bien convient pour être utilisé par le particulier ou le parent admissible à titre de résidence tout au long de l’année.
+[10] L’appelant est un ingénieur qui exploite sa propre entreprise. Lui et son épouse sont propriétaires d’une habitation au 3550, chemin Stedford, à Oakville, depuis 1996. En 2020 ou en 2021, sa fille a été ajoutée au titre comme tenant conjoint. La position de l’appelant est que le 3550, chemin Stedford lui sert de lieu de résidence secondaire depuis le 30 mars 2020 seulement, date à laquelle il a commencé à occuper la propriété qui fait l’objet de la demande, laquelle se trouve au 1073, promenade West Bank à Gravenhurst. Sa fille se sert maintenant de l’habitation du chemin Stedford comme lieu de résidence principal, bien que l’appelant ait reconnu qu’elle travaille à Toronto et reste parfois chez son ami de cœur à Toronto.
+[11] Selon le témoignage de l’appelant, il occupe le 1073, promenade West Bank à temps plein du mois de mars au mois de novembre chaque année, et il passe les mois plus froids à sa résidence secondaire au 3550, chemin Stedford, ou il voyage. Il a indiqué ne pas avoir l’intention de changer son adresse postale du chemin Stedford à celle de la promenade West Bank, car il se sert de cette adresse depuis bien des années pour diverses entreprises commerciales, et qu’il est plus pratique pour lui de garder la même adresse.
+[12] En ce qui concerne son travail, il affirme que tout son travail est effectué à distance, et qu’il a des employés dans plusieurs collectivités. Ainsi, il peut aussi bien travailler à Gravenhurst qu’à Oakville.
+[13] Il était concepteur et bâtisseur de l’habitation du 1073, promenade West Bank. Il va sans dire qu’il s’agissait d’un projet de longue durée. La construction a commencé en 2007. Il a embauché des charpentiers pour bâtir la structure, ainsi que des entrepreneurs électriciens et plombiers, en plus de maçons. Il agissait comme maître de chantier et a fait le reste des travaux lui-même. La municipalité a délivré un permis d’occupation en 2008, indiquant que la propriété pouvait être occupée occasionnellement afin de poursuivre les travaux.
+[14] Il ne s’agissait pas d’un projet de construction simple. C’est une grande habitation qui compte six chambres à coucher et cinq salles de bain, et elle est construite sur un grand terrain. En tant que concepteur de l’habitation, l’appelant a tenté de faire preuve d’innovation, mais il admet que l’innovation lui a causé bien du souci. La conception et la construction avaient plusieurs déficiences, notamment :
+a)le drainage inapproprié de la propriété qui a laissé l’eau s’infiltrer dans l’habitation, causant un gonflement important du plancher de bois franc, qui avait été collé sur du béton;
+b)de sérieux problèmes de plomberie, y compris avec les pompes submersibles;
+c)des dommages causés par l’infiltration d’eau par les fenêtres que l’appelant avait construites;
+d)des problèmes de gouttière, car l’eau était évacuée trop près de l’habitation;
+e)diverses autres fuites d’eau, menant à des problèmes de moisissure.
+[15] L’appelant soutient que ces déficiences et le fait qu’il effectuait lui-même les travaux ont empêché lui et son épouse d’occuper l’habitation comme résidence habituelle avant le mois de mars 2020.
+[16] L’appelant m’a convaincu que lui et son épouse occupent maintenant le 1073, promenade West Bank à Gravenhurst comme résidence habituelle, mais j’ai conclu que la demande de remboursement n’avait pas été présentée dans un délai opportun, et qu’ainsi, l’appel doit être rejeté.
+[17] Comme je l’ai indiqué plus haut, il ne s’agit pas d’une résidence ordinaire. Il s’agit d’une grande résidence comptant toutes les commodités modernes. Même s’il y a de nombreuses résidences saisonnières de nature semblable dans le secteur, je reconnais que l’appelant se sert maintenant de celle-ci comme résidence habituelle. Je reconnais qu’il pouvait travailler à partir de là, étant donné la nature de son entreprise. Au stade de vie où il se trouve, sans personne à charge vivant à la maison, lui et son épouse sont plus indépendants. L’appelant a admis honnêtement qu’il occupait la propriété en cause du mois de mars au mois de novembre chaque année, alors qu’il passait le reste de l’année à sa résidence secondaire au 3550, chemin Stedford, à Oakville, ou qu’il voyageait, puisqu’il avait les moyens de le faire.
+[18] Je souscris également à son raisonnement expliquant le fait qu’il n’ait pas changé d’adresse postale, c’est-à-dire par affaires. Le fait de ne pas avoir changé l’adresse postale n’est certainement pas un facteur déterminant. Il a donné une explication plausible pour ne pas l’avoir changée.
+[19] En ce qui concerne la ponctualité de la demande de remboursement, je conclus que l’ARC avait raison de conclure que la construction était achevée en grande partie le 31 août 2013, et je conclus également que l’appelant avait commencé à occuper la propriété bien avant mars 2020.
+[20] La position de l’ARC est qu’« en grande partie achevée » s’entend de 90 % ou plus, et dans une décision intitulée Neliba (P) c. Canada, [1998] A.C.I. no 626, la Cour de l’impôt avait reconnu que la règle des 90 % était raisonnable.
+[21] J’ai soigneusement examiné la feuille de travail du bilan de la construction jointe à la demande de remboursement, et l’ensemble des factures datent de 2013. Je passerai maintenant en revue chacune des catégories qui s’y trouvent. Toutes les factures pour l’entrepreneur général (charpenterie), la préparation du chantier, l’excavation et le remplissage, les semelles et les fondations, l’imperméabilisation, la charpente et le béton de finition étaient datées avant 2013, à l’exception de quelques petites factures pour la charpente datées de 2013 à 2015 (ne dépassant pas 1 000 $).
+[22] L’ensemble des frais de plomberie de 17 206,41 $ ont été engagés avant le 31 août 2013, à l’exception de quelques petites factures de 2014 à 2017 (ne dépassant pas 2 000 $). L’ensemble des frais d’électricité de 51 720,12 $ ont été engagés avant le 31 août 2013, à l’exception de quelques petites factures de 2014 à 2017 (ne dépassant pas 2 000 $). Les frais de chauffage, ventilation et conditionnement d’air (« CVCA ») de 10 220,42 $ avaient tous été payés en date d’avril 2010, tout comme les dépenses pour la toiture et les bardeaux. Les frais de maçonnerie de 23 611,74 $ ont été engagés avant le 31 août 2013, à l’exception de quelques dépenses ne dépassant pas 1 000 $ de 2014 à 2016. Les dépenses pour les portes et fenêtres totalisant 37 179 $ ont été engagées avant le 31 août 2013, à l’exception de plusieurs milliers de dollars de 2013 à 2017. Le pare-vapeur, le revêtement extérieur, les gouttières, le soffite, la bordure de toit et le revêtement de plancher avaient été principalement facturés avant 2013, quelques factures ayant été engagées après cette date. Aucune dépense pour les tuiles en céramique, les boiseries, les armoires et les meubles-lavabos, les électroménagers encastrés et les robinets, les luminaires, la peinture et le revêtement de murs n’a été payée après 2017, et la majorité avait été payée avant le 31 août 2013.
+[23] Le reste des frais se rapporte à l’aménagement paysager (38 334 $ payés en 2014), aux arbres, à l’entrée de cour, à la piscine et la terrasse, aucun n’ayant une incidence sur l’achèvement en grande partie de l’habitation. L’aménagement paysagé payé en 2014 se rapportait sans doute à la correction du problème de drainage, mais en 2014, ce problème avait de toute évidence été réglé.
+[24] Un examen approfondi des dépenses me porte à conclure que la construction avait été achevée en grande partie avant le 31 août 2013 ou peu après.
+[25] Je reconnais que même si certains matériaux peuvent avoir été achetés et payés, mais pas utilisés avant bien plus tard, le temps écoulé en l’espèce est trop important. Il est évident que la grande majorité des factures provenaient d’avant 2013, et il serait exagéré de soutenir que les matériaux n’ont été utilisés que bien plus tard.
+[26] En plus de conclure que la construction avait en fait été achevée en grande partie au 31 août 2013, je suis également d’avis que la propriété avait en fait été occupée bien avant mars 2020. Un examen de certaines pièces produites par l’appelant me porte à tirer cette conclusion. Par exemple, la pièce A-1 contient des photos prises en 2009 et en 2010. Sur la photo 6, on peut voir des couteaux et autres articles sur le comptoir de la cuisine. Sur la photo 8, on peut voir un divan et un fauteuil inclinable, alors que sur la photo 10, on peut voir une table d’appoint. Sur les photos 12 et 14, on peut voir une table à dîner et des chaises.
+[27] La pièce A-4 compte aussi une série de photos, et la photo 23 de 2014 montre des effets personnels sur le comptoir de la salle de bain. Les photos 29 et 30 ont été prises en 2016 et montrent des œuvres d’art accrochées au mur. Sur la photo 32 prise en 2017, on peut voir une chambre à coucher où les lits sont faits. Sur la photo 36 prise en 2018, on peut voir un cadre à photos sur un comptoir en granite.
+[28] L’appelant a témoigné qu’ils avaient progressivement intégré des articles avant de commencer à occuper la propriété en mars 2020. Honnêtement, il n’est pas logique qu’une personne pende des œuvres d’art aux murs quatre ans avant d’occuper la propriété et pendant que celle-ci était encore en chantier.
+[29] L’appelant a parlé des nombreux problèmes d’eau et d’autres déficiences qui ont empêché une occupation anticipée, mais il n’y a pas de factures pour appuyer cet argument. Il est évident que la majorité des travaux de réparation avaient été terminés avant le 31 août 2013 ou peu après.
+[30] Je n’ai donc pas grand difficulté à conclure que les travaux avaient été achevés en grande partie et que la propriété avait été occupée en réalité bien avant mars 2020; par conséquent, la demande de remboursement n’a pas été présentée dans un délai opportun, et l’appel est rejeté.
+Signé à Timmins (Ontario), ce 17e jour de juillet 2024.
+« M. Lambert »
+Le juge suppléant Lambert
+Traduction certifiée conforme
+ce 27e jour de juillet 2024.
+Diane Walsh, traductrice
+RÉFÉRENCE :
+2024 CCI 98
+NO DU DOSSIER DE LA COUR :
+2023-1042(GST)I
+INTITULÉ :
+STEFANO CELESTINI c. SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Hamilton (Ontario)
+DATE DE L’AUDIENCE :
+Le 30 avril 2024
+MOTIFS DU JUGEMENT :
+L’honorable juge suppléant Martin Lambert
+DATE DU JUGEMENT :
+Le 17 juillet 2024
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimé :
+Me Chelsea Barkhouse
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+S.O.
+Cabinet :
+S.O.
+Pour l’intimé :
+Me Shalene Curtis-Micallef Sous-procureure générale du Canada Ottawa, Canada

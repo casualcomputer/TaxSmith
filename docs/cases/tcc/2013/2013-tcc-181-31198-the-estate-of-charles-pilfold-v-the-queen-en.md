@@ -1,0 +1,266 @@
+---
+title: "The Estate of Charles Pilfold v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31198/index.do"
+last_modified: "2013-06-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 TCC 181"
+citation2: ""
+neutral_citation: "2013 TCC 181"
+decision_date: "2013-06-10"
+language: "en"
+item_id: "31198"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5037
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:04:41.444000+00:00"
+cases_cited_count: 5
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "731741d081c888cde1bb1ba1e2b1ba6b21eff60eb439cab78db795dad9a93975"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# The Estate of Charles Pilfold v. The Queen
+
+- Citation: 2013 TCC 181
+- Decision date: 2013-06-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5037, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+The Estate of Charles Pilfold v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-06-10
+Neutral citation
+2013 TCC 181
+File numbers
+2009-2302(IT)G
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-2302(IT)G
+BETWEEN:
+THE ESTATE OF CHARLES PILFOLD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on May 8, 9 and 10, 2013, at Vancouver, British Columbia
+Before: The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+George Douvelos
+Counsel for the Respondent:
+Matthew Turnell and
+Nadine Taylor-Pickering
+____________________________________________________________________
+JUDGMENT
+The Appeals from the assessments made under the Income Tax Act for the 2000 and 2002 taxation years are dismissed.
+Signed at Ottawa, Canada, this 10th day of June 2013.
+"Campbell J. Miller"
+C. Miller J.
+Citation: 2013 TCC 181
+Date: 20130610
+Docket: 2009-2302(IT)G
+BETWEEN:
+THE ESTATE OF CHARLES PILFOLD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+C. Miller J.
+[1] The late Charles Pilfold was a Status Indian. He fished for a living. His income in 2000 and 2002 arose mainly from fishing roe on kelp and herring roe, though the manner in which the income ultimately ended up in Mr. Pilfold’s hands was through various family held companies, all of which maintained their books and records on the Musqueam Reserve. The issue is whether the income in 2000 and 2002 is exempt from taxation due to the interplay between the Income Tax Act (the "Act") and section 87 of the Indian Act. The Appellant’s position is that there are sufficiently strong connecting factors to place Mr. Pilfold’s business income situate on a Reserve: business decisions were made on-Reserve, corporate records were kept on-Reserve, part of the catch, being the trimmings, were donated to Reserves and Mr. Pilfold was resident on-Reserve. The Respondent’s position is that there are few, if any, substantial connecting factors to find the business income was property situated on a Reserve. The Respondent asked me to consider: Mr. Pilfold was not a full-time Reserve resident, the fishing equipment was kept and maintained off‑Reserve, the business activity itself was off-Reserve, the product was packed off-Reserve, the product was sold primarily overseas and most business decisions were made off‑Reserve.
+Facts
+Background
+[2] Mr. Charles Pilfold was a Status Indian, married to Frances Pilfold. He died in April 2011 and the matter has been taken up by his estate, represented by his son, Randolph Pilfold. Randolph Pilfold was not a Status Indian. He was married to Louisa Pilfold.
+[3] The Pilfolds, before the years in issue, established a number of companies for carrying on their fishing and investment business. Charles Pilfold was a 99% owner of Eldorado Fishing Ltd., named after the fishing vessel it originally owned. Randolph Pilfold owned 100% of the common shares of Seafirst Investments Ltd. and Louisa Pilfold owned 100% of the common shares of Tongass Holdings Ltd. What I would describe as the major business entity of the family group of companies was Inter-American Holdings Ltd. ("IAH") held 25% by Charles Pilfold, 25% by Frances Pilfold and 50% by Randolph Pilfold. IAH owned most of the fishing equipment used in the fishing business, including the boat, the Calvada. Inter-American Properties Ltd. ("IAP") was a Pilfold family-owned company that had nothing to do with the fishing business. It held an interest in a golf course in the State of Washington.
+[4] The books and records of these companies were kept at the Pilfolds’ home at 4221 Musqueam Drive on the Musqueam Reserve (the "Musqueam home") in the Vancouver area. Randolph Pilfold served as business manager for IAH. There was some contradictory evidence as to who kept the accounts for the companies as Mr. Leong-Sit, the company’s independent accountant, testified that he believed Charles Pilfold kept the accounts, while Randolph Pilfold testified that his wife kept the books. Randolph Pilfold was in the Musqueam home and would know firsthand – I accept his view.
+[5] Charles Pilfold had more than one residence. He had a home off‑Reserve in Prince Rupert, with a telephone number under his name cited in the local directory. He showed this property as his principal residence on the Prince Rupert 2000 property tax notice. The evidence was that during the April-May fishing season Charles Pilfold would retreat to his Prince Rupert home, when not overnighting on the Calvada. He also had a property in the State of Washington on the golf course in which IAP held an investment. It was unclear how much time he spent there.
+[6] Apart from fishing, Charles Pilfold’s passions were golfing and gambling. Not surprisingly, he had a fourth property in Palm Springs where he spent a few months each year. Finally, Randolph Pilfold testified that his father lived in the Musqueam home with him, his wife and their two children. The Musqueam home is jointly owned by Charles and Frances, and Randolph and Louisa Pilfold. The address of the Musqueam home was used by Charles Pilfold as his address in filing his returns and in all correspondence with the Canada Revenue Agency ("CRA"). Further, according to Mr. Leong-Sit, the independent accountants regarded the Musqueam home as where Charles Pilfold lived.
+Fishing activities
+[7] I will address the facts involving the fishing activities under the headings planning, fishing, post-fishing and income therefrom.
+Planning
+[8] A considerable amount of planning centered on the readiness of the equipment. As indicated, IAH held most of the fishing equipment including the Calvada, though it was Charles Pilfold who held the commercial licence for herring spawn on kelp (roe on kelp), which he leased to IAH. Randolph Pilfold also held a licence. Indian Bands were eligible to get a communal commercial licence for roe on kelp: in fact, of the seven roe on kelp licences issued in the Province, three were such communal Band licences. Charles’ and Randolph’s licences were not of that nature.
+[9] The fishing equipment was kept either at Steveston Harbour in Richmond, British Columbia or at IAH’s processing plant in Port Edward – both locations off‑Reserve. As Randolph Pilfold indicated there was no practical storage space on‑Reserve nor anywhere on‑Reserve to moor the Calvada, not only not on Musqueam Reserve but neither at Lax Kw’Alaams Reserve north of Prince Rupert, the region where the fishing took place. Outfitting the Calvada and conducting any repair work would take place primarily in Steveston.
+[10] Part of the equipment included logs that were used to create what Randolph Pilfold called impoundments or ponds in which the kelp and herring would be placed. The logs may be kept on shore on Lax Kw’Alaams Reserve lands until hauled into the water.
+[11] The processing plant and related equipment was in Port Edwards, off‑Reserve.
+[12] While there was some other planning involved before the brief April–May roe on kelp season, most planning had to do with preparing the boat, the equipment, the nets and frames for the ponds etc. There would also be calls from the Musqueam home to suppliers and service people, but then such suppliers would be met at the boat in Steveston. There would be calls arranging for crew. Actual decisions as to where and how to fish would vary year-to-year and would be made mainly when on the boat, during the season itself. As Randolph Pilfold said, there would always be a plan of attack but every year was different. It would obviously depend on where the fish were. He also indicated that there would be meetings in downtown Vancouver with the Department of Fisheries and Oceans regarding the roe on kelp industry. All this preliminary activity occurred in February or March, leading up to the April-May season.
+Fishing
+[13] In 2000 and 2002, Charles Pilfold sailed from Steveston in the Calvada to an area north of Prince Rupert. His wife, Frances, accompanied him. He was captain of the Calvada and the moving force of the operation. There were several elements to the roe on kelp fishing operation. Logs would be used to establish the ponds: lines would be anchored to the beach to stretch the frames out. The Calvada would then go to farm kelp, primarily off Melville Island. Randolph Pilfold suggested Melville Island was Reserve land, while Mr. Burns, the Government surveyor who testified, pointed out there was only one quite small Reserve on Melville Island. The kelp pickers came from Reserves. A licence was required to harvest kelp: the licence indicated it was not permitted to harvest from the foreshore fronting First Nations property.
+[14] The kelp would be taken to the ponds where it would be attached to lines. It was then necessary to capture the herring to bring to the ponds for spawning on the kelp. To be clear, the herring were not caught to be killed but to spawn: they would be released after fulfilling their function. There is a 21-day period for the roe to be spawned off, in effect for the product to be ready to harvest.
+[15] Charles Pilfold was in charge of all aspects of this fishing activity. When the roe on kelp was ready for harvesting, punts would be used to harvest the product. There would be a cutting table on board to trim the product, grade it and place it into tote bags for forwarding to the plant. The trimmings from this operation were donated by IAH to First Nations.
+[16] There was considerable discussion as to where the fishing took place, Randolph Pilfold suggesting it could take place on what he called the foreshore, which could be in up to 60 to 80 feet of water. However, Mr. Burns testified that the foreshore is considered the area of the shore between the high and low tide, and that this would never be anywhere near as deep as 60 feet. He also advised that pursuant to the Canada Land Surveyors Act, Reserve lands extend to the ordinary high water mark only and do not include the foreshore.
+[17] The costal waters where this fishing took place was offshore more than one Reserve. There were, according to Mr. Burns, 24 Reserves in this part of coastal British Columbia, all of whose boundary was the high water mark and did not include the foreshore.
+[18] Charles Pilfold’s Prince Rupert home would be used for calls for supplies, crew or other fishing needs during the fishing season itself.
+Post-fishing
+[19] After harvesting, the product would be taken to the Tenerife Packing Company Ltd., a Pilfold-related company, in Port Edward, off-Reserve, for grading and packing. Employees at the processing plant were from First Nations.
+[20] At season’s end (June 1st), the pond frames would either be put up in Pearl Harbour or left in the water.
+[21] Different grades of the roe on kelp product would be sent to potential customers and bids would be received for the product. Faxes would flow back and forth with the customer until a contract was reached. Most of the product was sold to Marubeni Canada Ltd., a Japanese concern, with an office in Vancouver, where Randolph Pilfold would attend to sign the final contract.
+[22] Workers would be paid by allocation of crew shares, referred to in IAH’s records as the settlement. For example, in the 2000 roe on kelp settlement, Eldorado received two crew shares, as both Charles Pilfold and Frances Pilfold worked on the Calvada.
+[23] This has been a description thus far of the roe on kelp fishing activity. There was also some minimal salmon fishing in the coastal waters of British Columbia in 2000 and 2002, as well as a one-day herring roe catch. Interestingly, that one‑day catch, as opposed to the two month roe on kelp activity, generated half of IAH’s gross revenue. Both these activities took place in waters off the British Columbia coast, not on-Reserve, and catches would be unloaded off-Reserve in Delta or Vancouver.
+Income
+[24] In 2000, IAH had revenue of $1,103,019 from fishing activity comprised of:
+a) $535,920 from the sale of roe on kelp;
+b) $560,564 from the sale of roe herring; and
+c) $6,535 from the sale of salmon
+[25] In 2000, Eldorado received $150,383 from IAH as a share of profits from the fishing.
+[26] In 2002, IAH had revenue of $474,201 from fishing comprised of:
+a) $234,450 from the sale of roe on kelp;
+b) $217,123 from the sale of roe herring; and
+c) $22,626 from the sale of salmon.
+[27] In 2002, Eldorado received $217,582 from IAH and Seafirst as a share of profits from fishing.
+[28] Charles Pilfold’s gross revenue from fishing activity for 2000 was received from the following sources:
+a) $55,150 from IAH;
+b) $54,823 from Eldorado;
+c) $20,300 from Seafirst;
+d) $20,000 from Tongass.
+He also received $13,800 from IAP, which may or may not have been from the fishing activity. More on that later. He also received dividends of $450 (grossed up to $563) from IAH.
+[29] In 2002, Charles Pilfold reported net fishing income of $64,940 from gross income of $65,000.
+[30] There appears to be no dispute that the $64,940 received by Charles Pilfold in 2002 was attributable to his involvement as captain of the Calvada as the major force of the fishing operation.
+[31] The breakdown of how Charles Pilfold received his income in 2000 is a little more confusing, though when asked if all his income was ultimately derived from the fishing activity, his accountant confirmed that yes that was the case. A closer inspection of the amounts set out above casts some doubt on that proposition.
+[32] The $55,150 from IAH represents 5% of the gross fishing revenues of IAH. How it was actually paid to Charles Pilfold or described in IAH’s records is unclear. There was some suggestion it was for consulting fees in relation to the fishing business. Frankly, it does not matter what it is called. I find that the amount is from IAH’s fishing revenues for all services rendered by Charles Pilfold as captain of the Calvada.
+[33] The $13,800 from IAP, given IAP was simply a passive investor in a Washington State golf course, may not relate to the fishing activity.
+[34] The $54,823 Charles Pilfold received from Eldorado, his own company, represents a two-crew share allocation from the fishing revenues received by Eldorado from IAH by settlement. The two shares arose because Charles Pilfold’s wife worked on the Calvada, though she did not personally have a crew share passed on to her through Eldorado, as did Charles.
+[35] The $20,300 from Seafirst, Randolph Pilfold’s company, and the $20,000 from Tongass, Louisa Pilfold’s company, are odd, as the evidence presented on this front was a one-page document entitled Share of Fishing Profits. There were several entries on this one page, in some cases, share of fishing profits was crossed out and consulting fee was put in its place. It is worth reproducing this schedule:
+[36] Mr. Leong-Sit attempted to explain that at year end there would be a discussion with the Pilfolds as to how to flow the fishing income through the various companies to individuals. It was never made entirely clear to me what this exercise accomplished, although I have concluded that, apart from the $13,800 from IAP, the amounts to Charles Pilfold represented a distribution of business income derived from the fishing activity. This was the position taken by Mr. Eidsvik, the lead accountant for the Pilfolds, in his examination for discovery.
+[37] Charles Pilfold reported $164,013 net fishing income and $563 of grossed up dividends in 2000, all of which he claimed as exempt pursuant to section 87 of the Act. Similarly, he claimed an exemption in 2002 for the fishing income of $64,940. The Minister of National Revenue (the "Minister") denied the exemption of those amounts on the basis the income was not property situate on a Reserve, as required by paragraph 87(1)(b) of the Indian Act.
+Analysis
+[38] In July 2011, the Supreme Court of Canada dealt with two cases (Bastien Estate v. Canada[1] and Dubé v. Canada[2]) dealing with the issue of where property, in those cases investment income, is situated for purposes of claiming the exemption under subsection 87(1) of the Indian Act[3]. Considerable jurisprudence had evolved around this issue, leading courts to rely on what are referred to as the connecting factors test. If there were sufficiently strong, concrete and discernable connections between the property and a Reserve, the exemption would be available to the Indian. As Justice Cromwell suggested in Bastien, this approach may seem more the stuff of metaphysics than legal analysis, it is however what Courts are required to do. Justice Cromwell went on to "restate and consolidate the analysis that should be undertaken". In so doing, he confirmed a two-step approach to first identify potentially relevant connecting factors and second to weigh them in light of the purpose of the exemption, the type of property and nature of taxation of that property.
+[39] Justice Cromwell went on to clarify, in a couple of respects, how this test should be applied. First, he made it clear that "the availability of the exemption does not depend on whether the property is integral to the life of the Reserve or to the preservation of the traditional Indian way of life." Second, he downplayed the role of the "commercial mainstream" consideration:
+52. In my respectful view, the Recalma line of cases has sometimes wrongly elevated the “commercial mainstream” consideration to one of determinant weight. More precisely, several decisions have looked to whether the debtor’s economic activity was in the commercial mainstream even though the investment income payable to the Indian taxpayer was not. This consideration must be applied with care lest it significantly undermine the exemption.
+…
+60. I do not agree that the “commercial mainstream” factor should be given determinative weight in this case. The question is the location of Mr. Bastien’s interest income. As I have discussed earlier, the question is not where the financial institution earns the profits to pay its contractual obligation to Mr. Bastien. Yet the focus of the “commercial mainstream” analysis in the courts below led them to concentrate the analysis on the Caisse’s income-earning activities rather than on Mr. Bastien’s. The exemption from taxation protects an Indian’s personal property situated on a reserve. Therefore, where the investment vehicle is, as in this case, a contractual debt obligation, the focus should be on the investment activity of the Indian investor and not on that of the debtor financial institution: see McDonnell, at p. 957; Maclagan, at p. 1522; O’Brien, at pp. 1576 and 1580.
+…
+62. Of course, in determining the location of income for the purposes of the tax exemption, the court should look to the substance as well as to the form of the transaction giving rise to the income. The question is whether the income is sufficiently strongly connected to the reserve that it may be said to be situated there. Connections that are artificial or abusive should not be given weight in the analysis. For example, if in substance the investment income arises from an Indian’s off-reserve investment activities, that will be a significant factor suggesting that less weight should be given to the legal form of the investment vehicle. There is nothing of that nature present in this case. Cases of improper manipulation by Indian taxpayers to avoid income tax may be addressed as they are in the case of non-Indian taxpayers.
+[40] So, while not discounting it entirely as a factor in certain circumstances, Justice Cromwell was not in the circumstances of locating investment income prepared to give it any significant weight.
+[41] Subsequent to these Supreme Court of Canada decisions, there have been cases both in the Tax Court of Canada and at the Federal Court of Appeal dealing specifically with business income from fishing. It is instructive to review how the principles enunciated at the Supreme Court of Canada have been applied in the context of business income, specifically, business income from fishing.
+[42] In the case of McDonald v. The Queen,[4] Justice Valerie Miller, after identifying the purpose of the exemption, the type of property and nature of taxation, followed the analytical framework proffered by the Supreme Court of Canada, identifying the following connecting factors and then ascribing weight to them: i) type of business and location of business activity; ii) location of customers (debtor) and where payment was made; iii) residence of business owners; iv) where business decisions were made; v) where books and records were kept; and vi) the nature of work and commercial mainstream.
+[43] I note the following from the Agreed Statement of Facts in McDonald:
+(e) During the years at issue, the Department of Fisheries and Oceans (the “DFO”) issued communal commercial fishing licenses [sic] to the Band pursuant to its Allocation Transfer Program (“ATP”);
+(f) The communal commercial fishing licenses [sic] are the collective property of the Band;
+(g) At all material times, the Band also owned the fishing vessels (the “Vessels”) and equipment used in their commercial fishing enterprise;
+(h) The Vessels, licenses [sic] and equipment were all acquired through assistance provided under the ATP;
+(i) On December 31, 2001, the band incorporated Netukulimk Fisheries Ltd. (the “NFL”) under the Corporations Act of Newfoundland and Labrador;
+(j) NFL’s office and place of business is on reserve;
+(k) When not in use, the Vessels are kept at the wharf facilities on reserve and equipment is stored at NFL buildings on reserve;
+(l) At all material times, the Band owned all of the shares of NFL and appointed its board of directors comprised of members of the Band;
+…
+(s) The Appellants were paid by cheque issued by NFL.
+[44] Further, a DFO representative testified the mandate of ATP was to provide economic opportunity for aboriginal communities without increasing overall pressure on fishery resources. It does this by buying commercial licences from fishermen who wish to retire and reissues them to aboriginal communities.
+[45] Justice Valerie Miller concluded that NFL (located on-Reserve), played a significant role in the appellants’ fishing income, including paying the appellants. She attached considerable weight to this factor and little to the fishing being any part of the commercial mainstream, concluding the work was intimately connected to the Reserve:
+56. However, it is my opinion that the Appellants’ work was “intimately connected” to the Reserve. The Appellants lived on the Reserve. They fished on Vessels owned by the Band and pursuant to licences owned by the Band. They performed some of their work on the Reserve and they were paid on the Reserve by NFL, a corporation controlled by the Band.
+[46] The Federal Court of Appeal released two judgments in March 2012, Ballantyne v. Canada[5] and Canada v. Robertson[6] both likewise dealing with income from fishing. In Robertson, Justice Evans introduced his analysis as follows:
+33. While retaining the essentials of the connecting factors approach established in Williams v. Canada, 1992 CanLII 98 (SCC), [1992] 1 S.C.R. 877 (Williams), the Supreme Court in Bastien and Dubé reset the previous analytical framework in some significant respects. In particular, the Court emphasized that section 87 protects only property that is within the boundaries of the reserve. It also rejected the “commercial mainstream” principle as a basis for determining if property was situated on a reserve and the notion that the activities giving rise to the property must be linked to a traditional Indian way of life.
+[47] Justice Evans also identified the purpose of the exemption, relying on Justice Gonthier’s comments in Williams v. Canada[7] and Justice Cromwell’s tweaking of those comments. With respect to the type of property and nature of taxation he said:
+53. The property in this case is income that the Appellants earned from their fishing business in the taxation years in question. Since income is an intangible and has no physical location, where it is situated is largely governed by the location of the activities from which the income arises.
+54. The Appellants’ fishing business comprises activities of broadly two kinds: first, preparing for fishing, catching fish, and preparing them for sale and transportation; second, the “business” aspects of the enterprise, especially the sale of and payment for the fish. Locating these activities will go a long way to determining whether the resulting income is situated on a reserve.
+55. Section 87 apart, the Appellants’ income from their fishing business was their profit from that business and would be included in their taxable income for that year by virtue of subsection 9(1) of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.).
+56. Tax is imposed by reference to the source of a taxpayer’s income, which, in this case, is the Appellants’ fishing business. This, too, indicates that the location of the fishing business will largely determine the location of the income earned from it.
+[48] He then went on to emphasize the location of the business activities under the headings of "fishing" and "selling fish". Under the heading of fishing, he concluded:
+68. Thus, even though the Appellants do not catch their fish on the Reserve, many of the activities surrounding the catching of fish are located on reserve. When taken as a whole, these considerations, in my view, constitute no more than a weak indicator that the Appellants’ fishing income is situated on a reserve.
+[49] It was, however, under the heading "selling fish" that Justice Evans appears to have placed considerable weight, mainly to the important role played by the Norway House Fishermen’s Cooperative ("Co-op"), as owner and operator of the packing stations. He stated:
+22. On the basis of evidence of the Co-op’s President, the Judge summarized as follows (at para. 58) the role of the Co-op in the community, and in the fishing business of its members in particular:
+[The witness] described the Co-op as the Band’s fishers’ representative, giving the reserve a place in the industry. The Co‑op represents the fishers, ensuring that they are dealt with honestly and fairly. … The Co-op certainly plays a role well beyond that as [sic] acting as an agent or intermediary between the fishers and [Freshwater]. Indeed, its main role was to represent the fishers of the community. … On this point his evidence was clear: the Co-op was created to help the fishermen.
+…
+81. Second, to characterize the Co-op simply as the purchasing agent for Freshwater substantially distorts its importance to the general economic life of the Reserve (to which it is the biggest contributor after the federal government) and to commercial fishing in particular by members of the First Nation, including the Appellants.
+82. For example, the Co-op controls the quota (and thereby controls the fishers’ income); it provides financial support through loans for the purchase of boats and other items needed for fishing; it operates the packing stations and issues receipts for the fish delivered by the fishers; it administers the funds provided by Freshwater and pays the fishers for their catch; it facilitates fishers in hiring helpers on the Reserve by assuming responsibility for their payment and debiting the fishers’ accounts for the amounts paid; and, most important, it represents the interests of the fishers in dealing with Freshwater.
+83. The Co-op is thus a critically important institution in the economic life of the Reserve and pre-dates Freshwater. Its activities permeate all aspects of commercial fishing by its members, from the provision of interest-free loans for the purchase of boats and other fishing equipment, to representing the interests of fishers in negotiations with Freshwater.
+84. It is clear from the evidence that although the Appellants were aware that the fish they caught were eventually taken by Freshwater and sold to its customers off-reserve, all their business dealings were with the Co-op. From the perspective of the fishers, the Co-op bought their fish and paid them for their catch. As the Judge put it (at para. 68) in reference to Mr Robertson’s evidence:
+From his perspective, his connection to the Co-op on the reserve was an integral part of the activity in which he engaged. Indeed, it was the beginning and end of his commercial world.
+(Emphasis added)
+As the Supreme Court has stated in other Aboriginal rights contexts, the Aboriginal perspective is always important: see, for example, R. v. Van der Peet,1996 CanLII 216 (SCC), [1996] 2 S.C.R. 507 at paras. 49-50; Delgamuukw v. British Columbia, 1997 CanLII 302 (SCC), [1997] 3 S.C. R. 1010 at paras. 81-82; R. v. Marshall, 1999 CanLII 665 (SCC), [1999] 3 S.C.R. 456 at para. 19.
+…
+86. Having considered all the above factors, I have concluded that the business income earned by the Appellants from commercial fishing is situated on the Reserve and is therefore not subject to income tax by virtue of section 87. The role played by the Co-op, an on-reserve institution, in the fishing business of its members, nearly all of whom live on the Reserve, to my mind, firmly anchors the Appellants’ business activities to the Reserve.
+[50] Justice Evans also provided the reasons in Ballantyne, in which he again emphasized the role of the Co-op. In Ballantyne the difference with Robertson strengthened Mr. Ballantyne’s connection (residence on-Reserve, packing stations on-Reserve and the cleaning of fish on-Reserve).
+[51] With this jurisprudential background, was Charles Pilfold’s income for which he claims an exemption situated on a Reserve and thus exempt from taxation? In identifying and weighing various factors, I am mindful of Justice Evans’ comment in Robertson:
+42. However, in order to avoid potentially abusive or artificial manipulation of the connecting factors in other cases, a degree of flexibility must be maintained in the selection and weighing of the connecting factors, and in the emphasis given to those that provide a substantive basis for situating property on a reserve.
+[52] To meet the purpose of insulating Charles Pilfold’s property interest in Reserve lands from, according to Justice Laforest in the Mitchell v. Peguis Indian Band[8] case, "intrusions and interferences of the larger society so as to ensure that Indians are not dispossessed of their entitlements", there must be a substantive basis on which to situate that property interest on a Reserve, especially given the interest is in the form of business income.
+[53] Before specifically addressing relevant connecting factors, I want to address one element of the type of property in issue, and that is the $13,800 flowed through to Charles Pilfold from IAP. IAP had nothing to do with fishing. It was a company with an interest in a golf course, yet the exhibit referred to in paragraph 35 of my Reasons suggests the $13,800 was part of the allocation of fishing income, though not designated as such for IAP, but rather designated as "purchasing services". I am flummoxed as to what services Charles Pilfold provided to IAP that might relate to fishing, given IAP’s holdings. Given my ultimate conclusion on the location of the business income from fishing, it matters not if I differentiate this $13,800 by source, though if the $13,800 relates to some service provided to a golfing business in the State of Washington, I find less connection to the Musqueam Reserve than income from fishing.
+[54] The factors I have identified as requiring assessment, following the lead of Justice Cromwell’s comments and the subsequent decisions of our Court and the Federal Court of Appeal are as follows:
+- residence of Charles Pilfold;
+- location of business activity including where decisions were made, where books and records were kept, where the planning took place, where the fishing took place and where sales took place and to whom.
+Most attention, I would suggest, should be placed on the latter category of the business activity itself.
+Residence of Charles Pilfold
+[55] Charles Pilfold had four residences. One on the Musqueam Reserve, sharing the home with his son, Randolph Pilfold and his family. It was unclear how much time he spent here, though it was the address he used for his dealings with the CRA, including the filing of returns. It was also the address his accountant considered as Charles Pilfold’s home address.
+[56] The second home was in Prince Rupert, off-Reserve. The evidence suggests this was used as a home base during the fishing season, when not actually overnighting on the Calvada. Charles Pilfold showed this home as his principal residence on the tax assessment form and also had a local telephone number listed under his name.
+[57] The third home was in Palm Springs, off-Reserve. There was no specific determination of how many months Charles Pilfold spent in Palm Springs, other than he would go south to escape Canada’s winter and to golf.
+[58] The fourth residence was on a golf course in the State of Washington (off‑Reserve): this was the course in which IAP had an investment interest. Again, Randolph Pilfold was unable to provide a clear indication of how much time his father spent there.
+[59] The Appellant maintains the Musqueam Reserve is the Reserve upon which the business income is situated. Certainly, Charles Pilfold did spend time living on the Reserve, but he also spent considerable time living off-Reserve. There is no evidence as to where he was living when he received the income from the various Pilfold companies, though clearly he spent his income both on and off‑Reserve. I do not see how his presence on-Reserve or his absence from Reserve either supports or rejects any strong connection between the business income and the Musqueam Reserve. This factor carries little weight. What is more critical to establish is a sufficiently strong connection between what Charles Pilfold did on‑Reserve to create the business income.
+Business Activity
+[60] I will review the business activity under the following headings: planning and preparation, decision making, books and records, fishing, sales.
+Planning and preparation
+[61] It was clear from Randolph Pilfold’s evidence that most of the planning was with respect to ensuring the boat and all the fishing equipment was in good repair. While telephone calls may have been made from the Musqueam home to arrange for repairs, the work itself would have been carried out in Steveston, off-Reserve. Dealing with the Department of Fisheries and Oceans likewise was off-Reserve in Vancouver. There was no evidence of any strategic planning meetings involving Charles Pilfold at the Musqueam home. My impression was more that Charles Pilfold repaired the equipment and then went fishing. While there is some connection to the Musqueam Reserve it is, on balance, weak.
+Decision making
+[62] The decisions as to where, when, and how to fish were made primarily during the April-May fishing season itself, when Charles Pilfold was actually out on the water on the Calvada. Decisions as to who to sell to and how to divide profits were likely made on-Reserve, though the extent of such decision-making is unclear. According to Mr. Leong-Sit, the family, with the accountant’s involvement, would determine how to flow income out to the various stakeholders. I find while there is a connection in this regard, it is limited; it is not what I would describe as substantial.
+Books and records
+[63] The Appellant emphasized the importance of the corporate structure and the fact that the Pilfold companies’ books and records were kept on the Musqueam Reserve. I have not been convinced this is as significant as the Appellant claims. Yes, it was IAH that appears to have been the main legal entity operating the fishing business, while Charles Pilfold was the individual moving force. But it is Charles Pilfold’s income from the fishing activity that is at issue. Flowing this income through four separate companies into his hands, claiming the corporation’s location on-Reserve is determinative of the location of Charles Pilfold’s business income is simply too facile and ripe for the type of manipulation the dissenting voices in the Dubé case warned against. I am not suggesting the Pilfold companies were established with this in mind. Not at all. Their history goes back a long way, pre-dating any issue regarding claiming an exemption. I am suggesting though that the use of non-arm’s length corporate intermediaries located on-Reserve should not so colour the location of the property, in this case, Charles Pilfold’s business income, as to artificially create the situs of the business income.
+[64] This is very different from the involvement of the Co-op in Robertson and Ballantyne, a Band organized and operated entity established to assist Band members in every element of the fishing industry. The Pilfold companies are privately held family companies making decisions in the best interests of the Pilfold family. Keeping their companies’ books and records on the Musqueam Reserve is certainly evidence of some connection between the fishing income and the Reserve, but the tie between these family companies and the Reserve is simply not of the same nature as the tie between the Co-op in the Robertson and Ballantyne cases and the Reserve. The connection here is the physical presence of books and records on‑Reserve – that is all. I do attribute some weight to this but do so in the context of the overall substantiality of connections between the business income of Charles Pilfold and the Reserve.
+[65] My interpretation of the Appellant’s argument is that simply having the corporate head office on-Reserve, regardless of the nature or location of the business, is, since Dubé and Bastien, sufficient to locate any business derived by these corporate entities on-Reserve, and such situs flows through to an individual Status Indian recipient of the fishing income, such as Charles Pilfold. With respect, this would move the subtle shifts in the connecting factors jurisprudence recommended by the Supreme Court of Canada to an altogether different bright line test, akin to that of a permanent establishment-like test. I do not read Dubé or Bastien as going that far.
+Fishing
+[66] Notwithstanding the Appellant’s attempts to suggest that some of the fishing extended into the foreshore, and that Reserve lands likewise extended into the foreshore, I reject this position. The fishing did not take place in the area known as the foreshore (the area between high and low tide), and in any event the Reserve lands only extend to the high water tide mark, not into the foreshore. The fishing took place in the coastal waters of British Columbia, not on-Reserve. Most decisions with respect to the actual fishing were likewise made off-Reserve. The use of Charles Pilfold’s Prince Rupert home during the fishing season for contacting workers was likewise off-Reserve.
+[67] It was also suggested by Randolph Pilfold that harvesting of the kelp off Melville Island was close to, if not on, Reserve lands. Mr. Burns indicated there was only one small Reserve on Melville Island which did not extend to the area where the kelp harvesting took place. Further, the kelp licence explicitly prohibited harvesting of kelp off First Nations’ shores. I conclude no part of the actual roe on kelp harvesting or fishing took place on-Reserve.
+[68] After the harvesting of the roe on kelp, the product was taken for processing to the Tenerife Packing facility in Port Edward. This process was also off-Reserve. These fishing activities were a long way from the Musqueam Reserve. There were several other Reserves along the northern British Columbia coast: no one Reserve along the coast is connected to this fishing activity. The connection to be determined is with the Musqueam Reserve in any event.
+[69] With respect to the other activities of fishing herring roe and salmon, those catches were unloaded off-Reserve in Delta or Vancouver, British Columbia.
+[70] While I can draw no connection between the actual fishing activity and the Musqueam Reserve, this is not fatal to the Appellant’s cause. By necessity, this type of fishing cannot take place on-Reserve. What it highlights is the need to step back and take an overall view of all the activity which creates the property in issue, the business income: in so doing, I find there are insufficient substantial connections.
+Sales
+[71] There are two elements that make up the disposition of the product: the sale of the product itself and the donation of the trimmings, the latter forming only a small part of the haul from the three types of fishing. But it is a connection nonetheless that a portion of the trimmings were donated to First Nations. This connection is pale in comparison to the sale of product that generated the business income. The evidence was that the vast majority of product was sold into the Japanese market. The contract for this transaction was signed at the offices of Marubeni in Vancouver. This is dissimilar from the arrangement in Robertson and Ballantyne or in McDonald where it was the Co-op or the Band which were found to be the purchaser of the fisher’s catch. Neither IAH nor Eldorado bought Charles Pilfold’s catch. IAH was the entity operating the business and selling the catch to a third party. IAH paid Charles Pilfold directly and indirectly not for the catch as such but for the captaining of the Calvada. I conclude the family held companies were not in the same position as the Co-op in Robertson and Ballantyne nor as the Band in McDonald.
+[72] As emphasized by Justice Evans in Robertson, with respect to business income, most weight must be attached to the business activity generating that income. Taking into account the off-Reserve planning and preparation, the actual fishing activity and the post-fishing processing and sales, and weighing that against the part-time residence of Charles Pilfold on the Musqueam Reserve, where the books and records of the Pilfold companies were kept, I conclude Charles Pilfold’s business income was not intimately connected to the Musqueam Reserve and therefore not eligible for exemption under the Indian Act.
+[73] A minor element of this matter is the $563 grossed up dividend received by Charles Pilfold from IAH. Dividend income is unlike the investment income addressed by the Supreme Court of Canada in Dubé and Bastien. Here we have dividends from a closely held family corporation, the dividends from earnings from the very fishing activity constituting Charles Pilfold’s business income. It would be an odd result indeed if the business income flowing out to Charles Pilfold through the various Pilfold companies is located off-Reserve, while if flowed out by way of dividends would be considered on-Reserve. No, in this type of situation, it is necessary to review the same underlying factors. In doing so, I would therefore characterize the dividend income as likewise off-Reserve.
+[74] The Appeals are dismissed, however, I am not making any award of costs. The Courts have had to readjust their analysis in these types of cases since Bastien and Dubé, and a case such as this is an important step in the evolution of the connecting factors test. While I have concluded there are not sufficiently strong connecting factors to allow the exemption, it was evident the Appellant was of the belief the Supreme Court of Canada had broadened the parameters, de-emphasizing commercial mainstream, and leading to greater weight to be given to situs of head office for example. There must, though, still be a substantial connection between the business income and the Respondent. There was simply not enough in this case, but the Appellant was right to see how the post-Bastien and Dubé test for location
+of property is to be applied. In these circumstances, I exercise my discretion to not award costs against the Appellant.
+Signed at Ottawa, Canada, this 10th day of June 2013.
+"Campbell J. Miller"
+C. Miller J.
+CITATION: 2013 TCC 181
+COURT FILE NO.: 2009-2302(IT)G
+STYLE OF CAUSE: THE ESTATE OF CHARLES PILFOLD AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: May 8, 9 and 10, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT: June 10, 2013
+APPEARANCES:
+Counsel for the Appellant:
+George Douvelos
+Counsel for the Respondent:
+Matthew Turnell and
+Nadine Taylor-Pickering
+COUNSEL OF RECORD:
+For the Appellant:
+Name: George Douvelos
+Firm: Wiebe Douvelos Wittmann LLP
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2011 SCC 38.
+[2] 2011 SCC 39.
+ss.87(1) Notwithstanding any other Act of Parliament or any Act of the legislature of a province, but subject to section 83 and section 5 of the First Nations Fiscal Management Act, the following property is exempt from taxation:
+(a) the interest of an Indian or a band in reserve lands or surrendered lands; and
+(b) the personal property of an Indian or a band situated on a reserve.
+[4] 2011 TCC 437.
+[5] 2012 FCA 95.
+[6] 2012 FCA 94.
+[7] [1992] 1 S.C.R. 877.
+[8] [1990] 2 S.C.R. 85.

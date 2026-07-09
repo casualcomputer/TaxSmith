@@ -1,0 +1,246 @@
+---
+title: "Bouchard v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29223/index.do"
+last_modified: "2009-04-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 234"
+citation2: ""
+neutral_citation: "2009 TCC 234"
+decision_date: "2009-04-16"
+language: "en"
+item_id: "29223"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7024
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:22:21.797000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7dc33c2995cf2b5cbb00a358f4af53309509d5ff48aa9feb62bf9bbbf3025e66"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bouchard v. M.N.R.
+
+- Citation: 2009 TCC 234
+- Decision date: 2009-04-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7024, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bouchard v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-04-16
+Neutral citation
+2009 TCC 234
+File numbers
+2009-222(EI)
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2009-222(EI)
+BETWEEN:
+LAURETTE BOUCHARD,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on April 16, 2009, at Sept-Îles, Quebec.
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Counsel for the Appellant:
+Charles-Henri Desrosiers
+Counsel for the Respondent:
+Christina Ham
+____________________________________________________________________
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act is dismissed and the decision of the Minister of National Revenue is confirmed in accordance with the attached Reasons for Judgment on the basis that, during the relevant period, that is to say, from May 4, 2008, to September 6, 2008, when she was working for Norbert Bouchard, carrying on business as "Restaurant du Village", Laurette Bouchard was not employed in insurable employment.
+Signed at Ottawa, Canada, this 19th day of May 2009.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 29th day of June 2009.
+Brian McCordick, Translator
+Citation: 2009 TCC 234
+Date: 20090519
+Docket: 2009-222(EI)
+BETWEEN:
+LAURETTE BOUCHARD,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] The Appellant is appealing from a decision of the Minister of National Revenue ("the Minister") under the Employment Insurance Act ("the Act"). The Minister determined that Laurette Bouchard ("the Worker") was not employed in insurable employment from May 4 to September 6, 2008 ("the relevant period"), when working for Norbert Bouchard ("the Payor"), who was carrying on business as "Restaurant du Village", because the Minister was not satisfied that a similar contract of employment would have been entered into if the Worker and the Payor had been dealing with each other at arm's length.
+[2] In making his decision, the Minister determined that, at the time that the Worker was working for the Payor, the two were related within the meaning of the Income Tax Act based on the following assumptions of fact:
+[TRANSLATION]
+(a) Norbert Bouchard is the only registered owner of the sole proprietorship carrying on business as Restaurant du Village. [admitted]
+(b) The Appellant is Norbert Bouchard's wife. [admitted]
+(c) The Appellant is related by marriage to Norbert Bouchard, who controls the Payor. [admitted]
+[3] In making his decision, the Minister also determined that it was not reasonable to conclude that the Payor would have entered into "a substantially similar contract of employment" with the Worker if they had been "dealing with each other at arm's length", having regard to the following circumstances:
+(a) The Payor registered his sole proprietorship on September 3, 2002. [admitted]
+(b) The Payor operated a 60-seat restaurant in Rivière-au-Tonnerre. [admitted]
+(c) The Payor sold the restaurant in 1998 but had to take it back in 2002 because the purchaser went bankrupt and he wanted to protect his claim. [admitted]
+(d) The business was usually operated from February to December, but sometimes opened during the winter. [admitted]
+(e) In 2008, based on the Payor's monthly GST returns, its sales were as follows: [admitted]
+January
+$6,604
+February
+$6,604
+March
+$5,195
+April
+$7,126
+May
+$11,791
+June
+$15,823
+July
+$29,907
+August
+missing return
+September
+$14,369
+(f) The Payor had business losses of $43,164 in 2005, $47,281 in 2006 and $75,250 in 2007. [admitted]
+(g) The restaurant was open from 7 a.m. to 8 or 9 p.m. in the summer and in the winter. [admitted]
+(h) The Payor employed seven or eight employees in addition to the Appellant. [admitted]
+(i) The Appellant's daughter Nadia Bouchard was responsible for managing the restaurant as well as serving the customers. [admitted]
+(j) Starting in June 2008, Nadia Bouchard operated a bed and breakfast and worked primarily on the restaurant's accounting. [admitted]
+(k) From January to May 2008, the Appellant worked alone at the restaurant from 70 to 80 hours per week without pay. [denied as worded]
+(l) From January to May 2008, the Payor could not afford to remunerate the Appellant. [admitted]
+(m) The Appellant worked as a cook and pastry cook. [admitted]
+(n) The Appellant's duties were food and pastry preparation, dishwashing, shopping in Sept-Iles and, occasionally, waiting tables. [admitted]
+(o) The Appellant reported to the restaurant at 6 a.m. seven days a week to prepare the food. [admitted]
+(p) The Appellant worked 70 to 80 hours a week but was paid for a 60-hour work week. [admitted]
+(q) The Appellant's rate of pay was $10 per hour. [admitted]
+(r) The Appellant received $600 in gross remuneration per week. [admitted]
+(s) Except for the first two weeks of the period in issue, when she received $540 per week, the Appellant's remuneration did not vary from week to week. [admitted]
+(t) The Appellant's weekly remuneration was fixed and did not depend on the hours that she worked for the Payor. [admitted]
+(u) The Payor's other employees were paid based on the hours that they actually worked. [denied as worded]
+(v) The other employees did not work any hours without pay. [admitted]
+(w) The waitresses kept the tips; the Appellant and the kitchen staff did not receive tips. [admitted]
+(x) The Appellant was laid off on September 6 because she had enough hours to collect EI. [the underlined part is admitted but the rest is denied]
+(y) On September 11, 2008, the Payor gave the Appellant a Record of Employment (ROE) which reported that the first day of work was May 4, 2008, the last day of work was September 6, 2008, the number of insurable hours was 1080, and the total remuneration was $10,296. [admitted]
+(z) The Appellant's Record of Employment does not reflect the actual period of employment or the hours actually worked. [denied]
+(aa) The Appellant claims that, following her layoff on September 6, 2008, an employee named Guylaine Lebrun managed the business. [admitted]
+(bb) In 2008, the restaurant closed in late November. [admitted]
+(cc) The Appellant's alleged employment period does not coincide with the Payor's period of economic activity. [denied]
+(dd) Having regard to the importance of the Appellant's work, it is not reasonable to believe that she did not remain employed by the Payor until the restaurant closed. [denied]
+(ee) The duration of the Appellant's work was based on what she needed to qualify for EI benefits, not on the Payor's needs. [denied]
+[4] The Worker testified in the case at bar, and her position was supported by the testimony of her daughter Nadia Bouchard and of the Payor. Lyne Courcy, the appeals officer who rendered the impugned decision, was the only witness to testify in support of the Minister's position.
+The Payor's testimony
+[5] Essentially, the Payor's testimony discloses as follows:
+(i) The Worker performed unpaid work at the Payor's restaurant ("the restaurant") prior to May 2008 (specifically, in 2004, 2005, 2006 and 2007 and from January to May 2008) because the Payor could not afford to pay her.
+(ii) From January to May 2008, the only people who worked at the restaurant were the Worker and her daughter Nadia Bouchard.
+The testimony of Nadia Bouchard
+[6] Essentially, the testimony of Nadia Bouchard discloses as follows:
+(i) From January to May 2008, the restaurant was operated roughly 15 days per month.
+(ii) The restaurant's activities during this period consisted in serving customers who were almost all from outside the Rivière‑au‑Tonnerre area, namely, Hydro‑Québec employees who worked on sites nearby.
+(iii) The Worker and Nadia Bouchard were the only people who worked at the restaurant as employees. Nadia Bouchard explained that she and the Worker each worked 16-20 hours per month at the Payor's restaurant during that period. Their tasks consisted in
+(1) preparing and serving breakfast and supper to Hydro-Québec employees, and
+(2) making sandwiches that Hydro-Québec employees brought to their work sites.
+(iv) The Worker worked on a volunteer basis for the Payor from January to May 2008 because the Payor could not afford to pay her.
+(v) During the relevant period, the Worker and Gisèle Lapierre (who was also on the restaurant's kitchen staff) were the only people not paid by the hour. Ms. Bouchard explained that these two employees of the Payor received fixed weekly remuneration during this period, regardless of the hours that they worked for the Payor.
+(vi) The Worker did not work at the restaurant following her layoff on September 6, 2008. Ms. Bouchard explained that tourists (the restaurant's main customers) essentially stopped coming to the restaurant after Labour Day, so there was not enough work at the restaurant for the Payor to keep the Worker employed.
+The Worker's testimony
+[7] The Worker essentially gave the same testimony as Nadia Bouchard.
+Lyne Courcy's testimony
+[8] Ms. Courcy essentially went over the statements that the Worker and Nadia Bouchard made to her during her telephone interviews with them. Most of those statements are in her appeal report (Exhibit I-2). The following excerpts from that report are worth quoting because of their relevance:
+[TRANSLATION]
+Information obtained from the Appellant Laurette Bouchard during the telephone interview of December 4, 2008:
+. . .
+9. Prior to the period in issue, that is to say, before May 4, 2008, the Appellant performed the same duties for the Payor as she did in the course of the period in issue, except that she was not paid, because the Payor had too many debts to afford to pay her. She worked roughly 80 hours a week during this time.
+10. For the part of the year 2008 that preceded May 4, the Appellant worked at the restaurant starting on its annual reopening day, but was not remunerated.
+11. During the period in issue, the Appellant performed the full range of tasks at the restaurant, including food preparation, making desserts, dishwashing and, occasionally, waiting tables. The Appellant mainly worked in the kitchen. Employees are hard to come by in the region, which is why she had to perform all these tasks.
+. . .
+14. The restaurant was open from 7 a.m. to 8 or 9 p.m., summer and winter alike.
+. . .
+18. The Payor began by paying her a gross salary of $468 per week. This was increased to $624 ($10/hr + 4%) after she asked for the same hourly wage ($10) as most of the employees.
+19. The Payor's other employees were paid $10 per hour, with the exception of one employee, who was paid $11 per hour, and they were paid for the number of hours that they actually worked each week.
+. . .
+23. The Appellant was laid off on September 6, 2008, because business was slower at the restaurant and there was less preparation to do. When questioned about who looked after the business at that time (since her daughter was looking after her B&B) the Appellant said it was Guylaine Lebrun, an employee, who did so.
+24. The Appellant says that she has not been performing any services for the Payor, even on a volunteer basis, since September 6, 2008.
+Additional information obtained from Nadia Bouchard, an employee in charge at the Payor's place of business, during the telephone interview of December 4, 2008:
+. . .
+30. From January 2008 to May 4 of that year, the Appellant was alone at the restaurant because there were no other employees. At that time, she arranged her schedule so that she would work split shifts that coincided with mealtimes. However, she was not compensated for those hours because the Payor could not afford to pay her. When there was too much work, the Appellant asked him to come help her.
+31. In the winter, the restaurant closed after supper, at around 7 p.m.
+32. Ever since the restaurant was taken back in 2002, the Appellant prepared the sauces (spaghetti sauce, seafood sauce, hot chicken sandwich gravy, etc.) the pastry, major preparation — essentially, everything the two other cooks and the assistant cook did not do.
+33. The Appellant's duties prior to the period in issue were the same as during the period in issue, except that she was not remunerated by the Payor.
+34. The Payor paid $11 per hour to the most senior employee, who had been with the restaurant for six years.
+35. The Appellant's hours of work were based on the volume of business. The Appellant opened up in the morning, worked until 2 p.m. and came back during the day if an employee phoned her about a work overload. She received fixed pay based on a 60‑hour week because she worked 50 to 70 hours per week. She was paid weekly.
+. . .
+40. There was another cook who was also paid a weekly salary as opposed to an hourly wage.
+41. After September 6, 2008, when the Appellant was laid off, only one employee stayed at work, namely Guylaine Lebrun. When questioned about why she was the only worker prior to the period in issue, and yet did not stay on after that, the Appellant answered that she had already done her weeks, whereas Ms. Lebrun had not. It was Nadia Bouchard who looked after closing the restaurant.
+. . .
+[9] The evidence also disclosed that the Payor's monthly sales varied from $5,195 to $7,126 from January to April 2008, were $11,791 in May, $15,823 in June, $29,907 in July and $14,365 in September. Since the revenues up to October 31, 2008, were $138,697, it can be inferred that the sales in August and October totalled $41,818. However, I would note that the evidence does not enable us to break down these August and October 2008 results by month.
+Analysis and conclusion
+[10] As we have seen, the Minister determined that the employment was not insurable in view of paragraph 5(2)(i) and subsection 5(3) of the Act, because the Minister was not satisfied that it was reasonable to believe, having regard to all the circumstances, that the Worker and the Payor would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[11] The Federal Court of Appeal has on several occasions defined the role conferred by the Act on judges of the Tax Court of Canada. That role does not allow a judge to simply substitute his or her opinion for that of the Minister of National Revenue. Rather, it requires that the Court "verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so . . . decide whether the conclusion with which the Minister was 'satisfied' still seems reasonable."[1]
+[12] In other words, before deciding whether the conclusion with which the Minister was satisfied still seems reasonable to me, I must, in light of the evidence before me, verify whether the Minister's conclusions were well-founded considering the factors referred to in paragraph 5(3)(b) of the Act. At issue, then, is whether the Payor and the Worker would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[13] In the instant case, the onus was on the Worker to prove, on a balance of probabilities, that the facts inferred or relied on by the Minister were not real or were incorrectly assessed having regard to the context in which they occurred, or that the Minister failed to consider certain relevant facts. In the instant case, the Worker had to satisfy me, inter alia, that the work done outside the relevant period was not important and that her tasks and responsibilities outside the relevant period were not basically the same as they were during that period. It should be recalled that the more the tasks performed on a volunteer basis resemble the tasks contemplated by the remunerated employment contract, the more numerous they are and the more often they are repeated, the less possible and reasonable it is to conclude that the employer and employee "would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length." If, in addition, there was continuity in the provision of services, the conclusion that the employment must be excluded becomes unavoidable.
+[14] The evidence in the case at bar has disclosed that the work done by the Worker from January to May 2008 was important, and that her tasks and responsibilities during that period were basically the same as during the relevant period. Indeed, at best, her working hours were substantially reduced in comparison with the relevant period. The cooking done by the Worker was essential to the Payor's restaurant's operations from January to May 2008. I would note that the Worker testified that
+(i) the tasks that she performed and the responsibilities that she had during the period from January to May 2008 were basically the same as during the relevant period;
+(ii) she performed these tasks and assumed these responsibilities on a volunteer basis during this period; and
+(iii) she worked no more than 80 hours at the Payor's restaurant during this period.
+I should immediately note that the testimony of the Worker and of Nadia Bouchard with respect to the Worker's hours during this period was not credible. This is because the prior statements made to Ms. Courcy (whose credibility there is no reason to doubt) clearly contradict their testimony about the Worker's hours and the restaurant's hours during this period. I should add that their testimony to the effect that each of them worked 15-20 hours per month during this period strikes me as completely implausible having regard to their testimony about the restaurant's hours of operation during this period and about their alleged tasks. As we have seen, they testified that the Payor's restaurant was operated an average of 15 days per month from January to May 2008. As a result, each of them would have worked approximately one hour per day during this period. It is difficult to imagine that two hours on one day during this period would have been sufficient to
+(i) prepare and serve breakfast and supper for the Hydro‑Québec employees;
+(ii) make sandwiches for the employees' lunches;
+(iii) purchase the necessary food;
+(iv) wash the dishes; and
+(v) clean the kitchen and dining room.
+In other words, the Appellant has not satisfied me that she worked no more than 80 hours during the period from January to May 2008. In my opinion, the Worker's volunteer hours during this period, though less numerous than during the relevant period, considerably exceeded the 80 hours that she supposedly worked from January to May 2008. In any event, even if the Worker had satisfied me that she worked no more than 80 unpaid hours from January to May 2008, I would have found that the performance of work of such importance on a voluntary basis causes the exclusion in paragraph 5(2)(i) of the Act to apply.
+[15] I would add that the Worker did not satisfy me that she stopped working on September 6, 2008. Indeed, given the restaurant's sales for the months of September, October and November 2008, and given how few employees the Payor had in order to make those sales during those months, it appears more likely than not that her tasks and responsibilities between September 6, 2008, and the closing of the restaurant were basically the same as they were during the relevant period. Moreover, I am convinced that the job of cook was necessary for the restaurant's activities after September 6, 2008. In my view, the very purpose of the remunerated contract of employment continued in every respect, though there were probably fewer hours than during the relevant period. There was no true stoppage of work during the time that the Worker's remuneration was taken over, so to speak, by EI. It should be reiterated that it is not the intent of the employment insurance system to assume the cost of the services provided free of charge to the Payor.
+[16] In light of my findings on the question of volunteer work, it is not necessary to deal with the other terms and conditions of the Worker's employment.
+[17] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 19th day of May 2009.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 29th day of June 2009.
+Brian McCordick, Translator
+CITATION: 2009 TCC 234
+COURT FILE NO.: 2009-222(EI)
+STYLE OF CAUSE: LAURETTE BOUCHARD AND THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING: Sept-Iles, Quebec
+DATE OF HEARING: April 16, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: May 19, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Charles-Henri Desrosiers
+Counsel for the Respondent:
+Christina Ham
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Charles-Henri Desrosiers
+Firm: Desrosiers et Associés
+Sept-Iles, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Légaré v. Canada, A-392-98, May 28, 1999, [1999] F.C.J. No. 878 (QL) (F.C.A.), at para. 4.

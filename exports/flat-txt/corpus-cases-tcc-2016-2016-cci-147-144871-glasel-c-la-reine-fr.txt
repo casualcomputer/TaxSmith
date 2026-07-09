@@ -1,0 +1,159 @@
+Title: Glasel c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/144871/index.do
+Corpus path: corpus/cases/tcc/2016/2016-cci-147-144871-glasel-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2016-06-08
+
+# Glasel c. La Reine
+
+- Citation: 2016 CCI 147
+- Decision date: 2016-06-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3099, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Glasel c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-06-08
+Référence neutre
+2016 CCI 147
+Numéro de dossier
+2014-1995(IT)I, 2015-1065(IT)I
+Juges et Officiers taxateurs
+Henry A. Visser
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 2014-1995(IT)I
+2015-1065(IT)I
+ENTRE :
+ROGER GLASEL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE]
+Appels entendus le 4 novembre 2015, à Edmonton (Alberta)
+Devant : L’honorable juge Henry A. Visser
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Jeff Watson
+JUGEMENT
+Les appels relatifs aux années d’imposition 2009 et 2011 sont annulés; et les appels formés contre les cotisations établies sous le régime de la Loi de l’impôt sur le revenu pour les années d’imposition 2012 et 2013 de l’appelant sont rejetés, sans dépens, conformément aux motifs du jugement ci-joints.
+Signé à Toronto (Ontario), ce 8e jour de juin 2016.
+« Henry A. Visser »
+Le juge Visser
+Référence : 2016 CCI 147
+Date : 20160608
+Dossiers : 2014-1995(IT)I
+2015-1065(IT)I
+ENTRE :
+ROGER GLASEL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE]
+MOTIFS DU JUGEMENT
+Le juge Visser
+SOMMAIRE DES FAITS [1] M. Roger Glasel et Mme Lisa Glasel se sont mariés en 2000 et ont eu trois enfants avant de se séparer le 3 juillet 2011. Les enfants ont tous les trois moins de 18 ans. M. Glasel, qui est étudiant en droit et habite à Edmonton (Alberta), a introduit une demande en divorce. Il a versé des prestations alimentaires à Mme Glasel et à leurs enfants ou pour leur compte, et il a demandé des déductions y afférentes dans ses déclarations de revenu des années d’imposition 2011, 2012 et 2013, en vertu de l’alinéa 60b) de la Loi de l’impôt sur le revenu[1] (la Loi). Le ministre du Revenu national (le ministre) a rejeté les déductions demandées par l’appelant relativement à ses versements de prestations alimentaires pour chacune de ces années, et il a établi à son égard de nouvelles cotisations ayant pour effet d’accroître ses gains selon le feuillet T4 en 2009 et de réduire son revenu professionnel en 2011.
+LA REQUÊTE PRÉLIMINAIRE [2] La Cour est saisie des appels que M. Glasel a interjetés contre les cotisations et les nouvelles cotisations établies par le ministre pour ses années d’imposition 2009, 2011, 2012 et 2013, appels qu’elle instruit sur preuve commune. L’intimée a formé une requête préliminaire en annulation des appels concernant les années d’imposition 2009 et 2011 de l’appelant, au motif que celui-ci n’a pas signifié d’avis d’opposition à l’égard de ces années dans le délai prescrit par l’article 165 de la Loi[2], de sorte que ces appels ne sont pas valablement portés devant notre Cour au titre de l’article 169 de la même Loi. Sur consentement des parties, j’ai annulé les appels relatifs à 2009 et à 2011, au motif que notre Cour n’est pas compétente pour les instruire en raison de l’omission de l’appelant de signifier les avis d’opposition y afférents. Par conséquent, seuls les appels relatifs à 2012 et à 2013 restent à examiner.
+LA QUESTION EN LITIGE [3] La seule question qui reste en litige dans les présents appels est celle de savoir si l’appelant a le droit de déduire, sous le régime de l’alinéa 60b) de la Loi, les montants qu’il a déclarés à titre de pension alimentaire pour ses années d’imposition 2012 et 2013. Ces montants déclarés par l’appelant et dont le ministre a refusé la déduction étaient de 15 576 $ pour 2012 et de 25 961 $ pour 2013[3].
+RAPPEL DÉTAILLÉ DES FAITS [4] M. Glasel a témoigné et produit des éléments de preuve à l’audience des présents appels. J’estime qu’il est un témoin crédible. Il n’a cité aucun autre témoin, et l’intimée n’a appelé personne à la barre.
+[5] L’appelant a introduit une requête en divorce et en partage des biens matrimoniaux à Edmonton (Alberta), le 3 août 2012[4]. À cette date, il n’y avait ni accord écrit entre l’appelant et Mme Glasel, ni ordonnance judiciaire, concernant le paiement d’une pension alimentaire. La Cour du banc de la Reine de l’Alberta a rendu en 2012 trois ordonnances prescrivant le paiement d’une pension alimentaire par M. Glasel à Mme Glasel. Je résume ci-dessous le contenu de ces trois ordonnances :
+a) Le 8 novembre 2012, le juge Goss de la Cour du banc de la Reine de l’Alberta a ordonné à M. Glasel de payer à Mme Glasel :
+i) une pension alimentaire pour enfants de 2 736 $ par mois à compter du 1er juillet 2012, pension dont était à soustraire un crédit de 2 292 $ au titre des prestations alimentaires pour enfants versées par lui en août, septembre et octobre 2012, de sorte qu’il restait un arriéré de 8 652 $ à la date de l’ordonnance;
+ii) des mensualités de 1 500 $ à partir du 15 novembre 2012 jusqu’au paiement complet de l’arriéré susdit de 8 652 $;
+iii) une pension alimentaire matrimoniale de 2 598 $ par mois à partir du 1er novembre 2012[5].
+b) Le 19 décembre 2012, le même juge a ordonné à M. Glasel de verser à l’avocat de Mme Glasel, au plus tard à 16 heures le 20 décembre 2012, une somme de 8 472 $ au titre de la pension alimentaire pour enfants et de l’arriéré de cette pension[6].
+c) Le 21 décembre 2012, le juge Moreau de la Cour du banc de la Reine de l’Alberta a ordonné la modification de l’ordonnance du 8 novembre 2012, ainsi que les mesures suivantes :
+i) Il était ordonné à M. Glasel de verser par l’intermédiaire de son avocat à l’avocat de Mme Glasel une pension alimentaire pour enfants de 2 736 $ par mois et des mensualités de 1 500 $ au titre de l’arriéré de cette pension à partir du 1er janvier 2013 jusqu’à l’enregistrement par Mme Glasel de ses ordonnances alimentaires auprès du bureau du directeur de l’exécution des ordonnances alimentaires, après quoi ces versements devraient être faits audit directeur.
+ii) À compter du 1er janvier 2013, les mensualités de pension alimentaire matrimoniale passeraient de 2 598 $ à 2561,57 $, et M. Glasel devrait les verser directement à la Banque royale en remboursement de quatre emprunts hypothécaires et lignes de crédit déterminés.
+iii) Il était enjoint à M. Glasel de payer directement à Mme Glasel, au plus tard le 28 décembre 2012, la somme de 3 805,24 $, qui représentait le solde de la pension alimentaire matrimoniale payable en novembre et décembre 2012.
+iv) Le paragraphe 6 de l’ordonnance disposait que les sommes dues en vertu de celle-ci devaient être versées au directeur de l’exécution des ordonnances alimentaires, ce qui semble entrer partiellement en contradiction avec d’autres dispositions de l’ordonnance prescrivant de verser des sommes directement à Mme Glasel ou à son avocat.
+v) Le paragraphe 7 de l’ordonnance prescrivait à M. et Mme Glasel de se communiquer mutuellement copie à chaque année de leurs déclarations de revenu respectives, ainsi que de tous avis de cotisation ou de nouvelle cotisation reçus du ministre, à moins que l’un ou l’autre n’eût pas produit de déclaration de revenu, auquel cas le non-déclarant devrait communiquer copie à l’autre de ses relevés T4, T4A et autres feuillets et relevés d’impôt applicables, afin de révéler ses revenus de toutes sources[7].
+[6] Par lettre en date du 17 janvier 2013, le programme d’exécution des ordonnances alimentaires de l’Alberta (le PEOA) a avisé M. Glasel qu’une ordonnance judiciaire avait été enregistrée auprès de ses services à cette même date et qu’il était tenu de lui verser, à compter du 1er février 2013, des mensualités de 2 736 $ à titre de pension alimentaire matrimoniale et de 2 598 $ à titre de pension alimentaire pour enfants. La lettre du PEOA portait aussi que celui-ci n’avait dans ses dossiers aucune réclamation d’arriéré à cette date (ou qu’en tout cas aucune réclamation de cette nature n’avait encore été traitée)[8].
+RAPPEL DES DISPOSITIONS APPLICABLES ET ANALYSE [7] L’alinéa 60b) de la Loi dispose que le contribuable peut opérer dans le calcul de son revenu, selon les modalités suivantes, une déduction au titre des montants de pension alimentaire qu’il a payés au cours de l’année d’imposition :
+60. Autres déductions — Peuvent être déduites dans le calcul du revenu d’un contribuable pour une année d’imposition les sommes suivantes qui sont appropriées :
+[. . .]
+b) Pension alimentaire [matrimoniale ou pour enfants] — le total des montants représentant chacun le résultat du calcul suivant :
+A – (B + C)
+où :
+A représente le total des montants représentant chacun une pension alimentaire que le contribuable a payée après 1996 et avant la fin de l’année à une personne donnée dont il vivait séparé au moment du paiement,
+B le total des montants représentant chacun une pension alimentaire pour enfants qui est devenue payable par le contribuable à la personne donnée aux termes d’un accord ou d’une ordonnance à la date d’exécution ou postérieurement et avant la fin de l’année relativement à une période ayant commencé à cette date ou postérieurement,
+C le total des montants représentant chacun une pension alimentaire que le contribuable a payée à la personne donnée après 1996 et qui est déductible dans le calcul de son revenu pour une année d’imposition antérieure […]
+[8] Selon le paragraphe 60.1(4) de la Loi, la définition de l’expression « pension alimentaire » donnée à son paragraphe 56.1(4) et reproduite ci-dessous est applicable à ses articles 60 et 60.1 :
+pension alimentaire Montant payable ou à recevoir à titre d’allocation périodique pour subvenir aux besoins du bénéficiaire, d’enfants de celui-ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas :
+a) le bénéficiaire est l’époux ou le conjoint de fait ou l’ex-époux ou l’ancien conjoint de fait du payeur et vit séparé de celui-ci pour cause d’échec de leur mariage ou union de fait et le montant est à recevoir aux termes de l’ordonnance d’un tribunal compétent ou d’un accord écrit;
+b) le payeur est légalement le père ou la mère d’un enfant du bénéficiaire et le montant est à recevoir aux termes de l’ordonnance d’un tribunal compétent rendue en conformité avec les lois d’une province.
+[9] La somme versée à un tiers n’entre généralement pas dans la définition de « pension alimentaire » puisqu’elle n’est pas payée au conjoint bénéficiaire et que celui-ci ne peut l’utiliser à sa discrétion. Cependant, le paragraphe 60.1(2) de la Loi, dont le texte suit, assimile à des montants de pension alimentaire certaines sommes versées à des tiers :
+60.1(2) Entente [de versement de pension alimentaire à des tiers] — Pour l’application de l’article 60, du présent article et du paragraphe 118(5), le résultat du calcul suivant :
+A – B
+où :
+A représente le total des montants représentant chacun un montant (sauf celui qui constitue par ailleurs une pension alimentaire) qui est devenu payable par un contribuable au cours d’une année d’imposition, aux termes de l’ordonnance d’un tribunal compétent ou d’un accord écrit, au titre d’une dépense (sauf la dépense relative à un établissement domestique autonome que le contribuable habite ou une dépense pour l’acquisition de biens tangibles ou, pour l’application du droit civil, de biens corporels qui n’est pas une dépense au titre de frais médicaux ou d’études ni une dépense en vue de l’acquisition, de l’amélioration ou de l’entretien d’un établissement domestique autonome que la personne visée aux alinéas a) ou b) habite) engagée au cours de l’année ou de l’année d’imposition précédente pour subvenir aux besoins d’une personne, d’enfants confiés à sa garde ou à la fois de la personne et de ces enfants, dans le cas où la personne est :
+a) l’époux ou le conjoint de fait ou l’ex-époux ou l’ancien conjoint de fait du contribuable,
+b) si le montant est devenu payable en vertu de l’ordonnance d’un tribunal compétent rendue en conformité avec les lois d’une province, un particulier qui est le parent, père ou mère, d’un enfant dont le contribuable est légalement l’autre parent;
+B l’excédent éventuel du total visé à l’alinéa a) sur le total visé à l’alinéa b):
+a) le total des montants représentant chacun un montant inclus dans le total calculé selon l’élément A relativement à l’acquisition ou à l’amélioration d’un établissement domestique autonome dans lequel la personne habite, y compris un paiement de principal ou d’intérêts sur un emprunt ou une dette contracté en vue de financer, de quelque manière que ce soit, l’acquisition ou l’amélioration,
+b) le total des montants correspondant chacun à 1/5 du principal initial d’un emprunt ou d’une dette visés à l’alinéa a),
+est réputé, lorsque l’ordonnance ou l’accord écrit prévoit que le présent paragraphe et le paragraphe 56.1(2) s’appliquent à un montant payé ou payable à leur titre, être un montant payable par le contribuable à cette personne et à recevoir par celle-ci à titre d’allocation périodique, que cette personne peut utiliser à sa discrétion.
+[10] L’appelant fait valoir qu’il a versé à titre de pension alimentaire matrimoniale et pour enfants des montants sensiblement supérieurs à ceux que lui enjoignaient de payer les trois ordonnances de la Cour du banc de la Reine de l’Alberta résumées ci-dessus[9], et que les sommes qu’il a déduites à cet égard dans ses déclarations de revenu pour 2012 et 2013 sont déductibles en vertu de la Loi. Comme le ministre a rejeté les déductions respectives de 2012 et de 2013 sur des fondements différents, j’examinerai séparément ces deux années.
+L’année d’imposition 2012 [11] Comme on l’a vu plus haut, l’alinéa 60b) de la Loi prévoit la possibilité d’une déduction au titre du paiement de montants de pension alimentaire suivant la formule A – (B + C). L’intimée avance que l’appelant n’avait pas le droit de déduire de montants sous le régime de cet alinéa pour son année d’imposition 2012, au motif que le montant correspondant à l’élément B de la formule dépassait le montant correspondant à l’élément A de celle-ci, c’est-à-dire qu’il était en retard dans le paiement de la pension alimentaire pour enfants. Alors que l’appelant a soutenu à son détriment que la valeur correspondant à l’élément C de la formule de l’alinéa 60b) n’était pas nulle pour son année d’imposition 2012, la thèse de l’intimée était que cette valeur était égale à zéro pour ladite année. L’appelant a aussi avancé qu’il avait fait en 2012 d’autres paiements substantiels, qui devraient être considérés comme des montants de pension alimentaire et inclus dans l’élément A de la formule. Pour les motifs dont l’exposé suit, je me trouve d’accord avec l’intimée sur ce point.
+[12] Pour être inclus dans l’élément A de la formule de l’alinéa 60b) de la Loi, un montant doit entrer dans la définition de « pension alimentaire » et doit donc être, selon le paragraphe 56.1(4), une allocation périodique que le bénéficiaire puisse utiliser à sa discrétion et qu’il reçoive en vertu, selon le cas, d’un accord écrit ou d’une ordonnance rendue par un tribunal compétent. Dans la présente espèce, il n’y avait pas d’accord écrit entre M. et Mme Glasel. Par conséquent, seuls les montants payés en exécution des trois ordonnances rendues par la Cour du banc de la Reine de l’Alberta en 2012 peuvent être considérés comme des montants de pension alimentaire.
+[13] Selon les trois ordonnances, M. Glasel était tenu de payer à Mme Glasel en 2012 un montant total de 16 416 $ au titre de la pension alimentaire pour enfants[10]. C’est là le montant qui correspond à l’élément B de la formule de l’alinéa 60b). Pour ce qui concerne le montant correspondant à l’élément A de cette formule, l’ordonnance du 8 novembre 2012 accordait à M. Glasel un crédit de 2 292 $ au titre des montants déjà payés. Selon la preuve produite à l’audience, M. Glasel a fait avant la fin de 2012 d’autres paiements totalisant 13 668 $[11] en exécution des trois ordonnances, ce qui fait en tout 15 960 $[12]. Comme il n’y avait pas avant 2012 d’accords écrits ni d’ordonnances judiciaires concernant ce point, l’élément C de la formule doit être égal à zéro puisqu’il n’y avait pas de montants de pension alimentaire déductibles dans les années d’imposition précédentes. Étant donné que le montant de l’élément B dépasse celui de l’élément A, l’appelant n’a droit à aucune déduction afférente au paiement de pension alimentaire pour son année d’imposition 2012.
+L’année d’imposition 2013 [14] L’intimée soutient que l’appelant n’a pas le droit de déduire quoi que ce soit en vertu de l’alinéa 60b) pour 2013 au motif qu’il a payé les montants en question à un tiers, de sorte que son épouse ne les a pas reçus et ne pouvait les utiliser à sa discrétion. L’intimée avance en outre que le paragraphe 60.1(2) ne vient pas au soutien de la thèse de l’appelant, au motif qu’aucune des trois ordonnances en vertu desquelles il a payé les montants de pension alimentaire de 2013 ne dispose que ces montants à payer relèvent des paragraphes 56.1(2) et 60.1(2). Pour les motifs dont l’exposé suit, je pense comme l’intimée sur ce point.
+[15] L’ordonnance du juge Moreau de la Cour du banc de la Reine de l’Alberta en date du 21 décembre 2012 enjoignait à M. Glasel de verser, à partir du 1er janvier 2013, des mensualités de pension alimentaire pour enfants de 2 736 $ à Mme Glasel (puis au PEOA une fois que l’ordonnance serait enregistrée), et des mensualités de 2 561,57 $ à la Banque royale en remboursement d’emprunts hypothécaires et lignes de crédit déterminés. Pour ce qui concerne les paiements de prestations alimentaires pour enfants de 2013, à supposer que M. Glasel ait payé ces montants et qu’ils entrent par ailleurs dans la définition de l’expression « pension alimentaire », je remarque qu’ils sont en général inclus aussi bien dans l’élément A que dans l’élément B de la formule de l’alinéa 60b) de la Loi, de sorte qu’ils s’annulent et ne permettent pas de déduction en vertu de cet alinéa.
+[16] Pour ce qui concerne les paiements de prestations alimentaires matrimoniales, je note qu’ils devaient être faits directement à la Banque royale et que par conséquent Mme Glasel ne pouvait utiliser ces montants à sa discrétion. Ceux-ci ne constituent donc pas des montants de pension alimentaire au sens de la Loi, à moins qu’ils n’entrent dans le champ d’application de son paragraphe 60.1(2). Or, dans la présente espèce, aucune des trois ordonnances ne fait mention de ce paragraphe ni du paragraphe 56.1(2) de la Loi, ni ne prévoit d’autre manière les règles fiscales applicables au paiement et à la réception de ces prestations alimentaires matrimoniales. Par conséquent, M. Glasel ne peut invoquer le paragraphe 60.1(2) de la Loi pour déduire ces sommes et il n’a droit à aucune déduction pour 2013 sous le régime de l’alinéa 60b) de ladite Loi.
+CONCLUSION [17] Pour ces motifs, les appels sont rejetés, sans dépens.
+Signé à Toronto, ce 8e jour de juin 2016.
+« Henry A. Visser »
+Le juge Visser
+RÉFÉRENCE :
+2016 CCI 147
+NOS DES DOSSIERS DE LA COUR :
+2014-1995(IT)I ET 2015-1065(IT)I
+INTITULÉ :
+ROGER GLASEL c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Edmonton (Alberta)
+DATE DE L’AUDIENCE :
+Le 4 novembre 2015
+MOTIFS DU JUGEMENT :
+L’honorable juge Henry A. Visser
+DATE DU JUGEMENT :
+Le 8 juin 2016
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Jeff Watson
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant
+Nom :
+s/o
+Cabinet :
+s/o
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L.R.C. 1985, ch. 1 (5e suppl.).
+[2] Aucun élément de preuve ne tendait à établir que l’appelant eût signifié à quelque moment que ce fût des avis d’opposition relatifs à ses années d’imposition 2009 et 2011.
+[3] Le paragraphe 3 de la réponse de l’intimée porte ce qui suit : [TRADUCTION] « Dans le calcul de son revenu pour l’année d’imposition 2013, l’appelant a déclaré le versement d’un total de 44 860 $ (le montant) en pension alimentaire et demandé à ce titre une déduction admissible de 25 961 $. » Je conclus de ce passage, compte tenu du paragraphe 4 de la réponse de l’intimée, que le montant de 44 860 $ se rapporte à la ligne 230 (Pension alimentaire payée – Total payé) de la déclaration de revenu de l’appelant pour 2013, et que le montant de 25 961 $ se rapporte à la ligne 220 (Pension alimentaire payée – Déduction admissible) de la même déclaration, de sorte que le montant déclaré par l’appelant comme pension alimentaire en 2013 et dont le ministre a refusé la réduction était de 25 961 $.
+[4] Vor la pièce A-1.
+[5] Voir la pièce A-10. Je remarque que seule une partie de cette ordonnance a été produite en preuve.
+[6] Voir la pièce A-11. Le paragraphe 5 de l’ordonnance enjoint aussi à l’appelant de verser les sommes dues en vertu de ladite ordonnance au directeur de l’exécution des ordonnances alimentaires, ce qui semble entrer en contradiction avec l’obligation faite par le paragraphe 1 de verser ces sommes à l’avocat de Mme Glasel.
+[7] Voir la pièce A-12.
+[8] Voir la pièce A-3. Cette lettre ne précise pas à quelle ordonnance elle se rapporte, mais elle semble s’appliquer à celle du 8 novembre 2012 à en juger par les sommes qu’elle spécifie. Elle ne paraît pas prendre en compte l’ordonnance du 21 décembre 2012 enjoignant à M. Glasel de verser des mensualités de pension alimentaire matrimoniale de 2 561,57 $ directement à la Banque royale en remboursement d’emprunts hypothécaires et de lignes de crédit.
+[9] Voir les pièces A-4, A-5, A-6 et A-8.
+[10] Soit six mensualités de 2 736 $.
+[11] Soit 8 472 $ en prestations alimentaires pour enfants, et des prestations alimentaires matrimoniales de 1 390,76 $ et de 3 805,24 $.
+[12] Bien que M. Glasel puisse avoir payé considérablement plus à Mme Glasel ou pour son compte en 2012 ou 2013, que ce soit directement ou indirectement, je note qu’aucune des trois ordonnances ne lui attribue ou crédite d’aucune manière un quelconque paiement de cette nature. Par conséquent, ces paiements ne peuvent être pris en compte pour l’application de l’alinéa 60b) de la Loi.

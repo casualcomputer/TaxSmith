@@ -1,0 +1,159 @@
+---
+title: "Long v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29690/index.do"
+last_modified: "2010-03-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 153"
+citation2: ""
+neutral_citation: "2010 TCC 153"
+decision_date: "2010-03-18"
+language: "en"
+item_id: "29690"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6195
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:32:33.814000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6ad5e488e998e641f2f522162dd3738ec9a9eeacd761feeda947b57002c977d9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Long v. The Queen
+
+- Citation: 2010 TCC 153
+- Decision date: 2010-03-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6195, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Long v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-03-18
+Neutral citation
+2010 TCC 153
+File numbers
+2009-3692(IT)I
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-3692(IT)I
+BETWEEN:
+PATRICK J. LONG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on March 8, 2010, at Toronto, Ontario
+Before: The Honourable Justice G. A. Sheridan
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Rita Araujo
+____________________________________________________________________
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeals from the reassessments made under the Income Tax Act for the 2004 and 2005 taxation years are allowed and the reassessments of the Minister of National Revenue are vacated.
+Signed at Ottawa, Canada, this 18th day of March, 2010.
+“G. A. Sheridan”
+Sheridan J.
+Citation: 2010TCC153
+Date: 20100318
+Docket: 2009-3692(IT)I
+BETWEEN:
+PATRICK J. LONG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] The issue in this appeal is whether the Minister of National Revenue correctly assessed the Appellant, Patrick Long, for a taxable benefit for parking pursuant to paragraph 6(1)(a) of the Income Tax Act:
+(a) Value of benefits – the value of board, lodging and other benefits of any kind whatever received or enjoyed by the taxpayer in the year in respect of, in the course of, or by virtue of an office or employment, except any benefit
+…
+[2] The undisputed facts are these: in 2004 and 2005, the Appellant was employed as a mechanic by Adelaide Motors Inc., a car dealership located in downtown Toronto. Adjacent to the lot occupied by the dealership was a lot[1] (“Parking Lot”) in which some Adelaide Motors employees parked their vehicles. The Appellant was not required to use a vehicle in the performance of his duties as a mechanic. He did not have a vehicle of his own but had access to one. While he sometimes drove a vehicle to work and parked it in the Parking Lot, he also took public transport, rode his bike or caught a ride to Adelaide Motors.
+[3] In February 2007[2], the Minister conducted a payroll audit of Adelaide Motors’ 2004 and 2005 taxation years which led, in turn, to the company’s issuance of amended T-4’s to certain employees ascribing a taxable benefit for the use of the Parking Lot during those years. The Appellant received a letter[3] from Adelaide Motors in May 2008 which included T-4 slips showing a taxable benefit for parking of $1,201.75 and $1,311, respectively, and advising that he would be reassessed accordingly by the Canada Revenue Agency.
+[4] At the hearing of these appeals the Appellant represented himself and testified on his own behalf. Apart from what struck me as a slight under-estimation of his overall usage of the Parking Lot, the Appellant’s testimony was knowledgeable and convincing; in particular, his description of the Parking Lot, its general use and availability to employees and others, and the circumstances under which he came to park a vehicle there.
+[5] Also called on the Appellant’s behalf was Victoria Cunningham. Ms. Cunningham said they had been together since 1996 and that during the taxation years under appeal, the Appellant had access to her two vehicles.
+[6] The Respondent’s only witness was Tammy Tsakonas. Ms. Tsakonas was employed by Adelaide Motors as a controller from April 2003 until it ceased business operations in 2006. As such, she was responsible for bookkeeping, banking, paying bills and doing the payroll. Her position did not confer on her any authority over the Parking Lot, its use or availability to employees.
+[7] While both Ms. Cunningham and Ms. Tsakonas were generally credible witnesses, their testimony suffered from the same weakness: each tried to frame her answers to be favourable to the position taken by the party who called her to testify. Ms. Cunningham’s allegiance to the Appellant’s position arose out of their personal relationship; Ms. Tsakonas was more closely aligned with Adelaide Motors, probably because of her responsibilities as controller, her involvement in the company’s payroll audit, and having had to act as a sounding board for complaints about parking.
+[8] The Minister’s assessment was based on the assumptions of fact set out in paragraph 11 of the Reply to the Notice of Appeal:
+11. In determining the Appellant’s tax liability for the 2004 and 2005 taxation years, the Minister made the following assumptions of fact:
+(a) the employer provided free parking to the Appellant, which the Appellant made use of, while he was working at the employer’s place of business, in each of the 2004 and 2005 taxation years;
+(b) the Appellant was a car salesman working out of a dealership that was next door to where the dealership leased the parking spots at issue;
+(c) the parking was not considered to be “scramble” parking and the number of leased parking spaces available, accommodated most, if not all, of the employees, who were assigned, and specifically designated, the use of them;
+(d) the Appellant had the use of a motor vehicle throughout the 2004 and 2005 taxation years;
+(e) the Appellant occasionally commuted to work by public transit or by other means;
+(f) the Appellant did not regularly use a motor vehicle in the performance of his duties;
+(g) the direct cost to the employer of one leased parking space was $95 per month plus PST of $7.60 and GST of $6.65, a total of $109.25 per month;
+(h) the Appellant’s parking benefits were computed as follows:
+2004 $109.25 x 11 months = $1,201.75
+2005 $109.25 x 12 months = $1,311
+[9] The Appellant had the onus of rebutting the assumed facts with which he disagreed. For the reasons set out below, I am satisfied that the Appellant successfully demolished the key assumptions underpinning the Minister’s 2004 and 2005 assessments and has proven that he did not receive a taxable benefit for parking in 2004 and 2005.
+[10] I accept the Appellant’s evidence that Adelaide Motors had never, directly or indirectly, discussed the use of the Parking Lot with him. It was only by word of mouth that he learned of the practice adopted by other employees who sometimes parked there. Further, he never expected or asked to have parking made available to him as part of his employment. I also accept his evidence that had he known parking was to form part of his remuneration, he would not have accepted it nor would he have used the Parking Lot.
+[11] As for his employer, I do not believe that Adelaide Motors ever considered the question of parking, either as a business deduction, a taxable benefit to its employees, or in any other respect, until the Minister’s intervention during its payroll audit. Support for this finding lies in the letter from Adelaide Motors of May 6, 2008[4] and Ms. Tsakonas’ testimony that, notwithstanding her position as controller and her involvement in the audit, she was as surprised as anyone to find herself on the wrong end of a taxable benefit assessment for parking.
+[12] It goes without saying that an assessment is not incorrect by virtue only that the taxpayer was not aware of his vulnerability to tax under the Act[5]. However, before a taxable benefit can accrue under paragraph 6(1)(a), there must be evidence of the receipt of a benefit; surely that finding must be predicated on at least a smattering of evidence of an intention on the part of the employer to provide, and on the part of the employee, to accept something identified as being of benefit to the employee.
+[13] In the present case, at no time during the taxation years under appeal had Adelaide Motors turned its mind to the implications, either for itself or its employees, of the use of the Parking Lot. That question did not arise until the 2007 audit. Also mitigating in the Appellant’s favour is what was “provided” in the way of parking. Both the Appellant and Ms. Tsakonas testified that during 2004 and 2005, there were no assigned parking spaces. I accept the Appellant’s evidence that there were, at most, 12 spots for a minimum of 15 employees; I did not, however, give much weight to the Respondent’s list of employees[6] who were entitled to use the Parking Lot because it was prepared long after the fact and then, for the purposes of the audit. The same is true of the map of the Parking Lot[7] marked “as at Jan 4/06” which purported to show that certain spots had been assigned to particular employees. It was only then that Adelaide Motors instituted an “assigned parking” policy; by that time, the Appellant was on leave from work because of an injury.
+[14] Finally, I accept the Appellant’s evidence that available spaces in the Parking Lot were sometimes occupied by the vehicles of unidentified non-employees, including an old van that remained in one of the spaces for several months and the cars of clients of a neighbouring business, Berkley Studios Inc. Although not intended for this purpose, Ms. Tsakonas’ evidence confirmed this description of the Parking Lot’s use. She explained, with some understandable frustration, that it was not her job to track down these interlopers and force them to remove their vehicles. Further, even if there had been a clear policy in respect of parking at Adelaide Motors, she did not have the necessary authority to designate spaces for the use of individual employees or to enforce such designations. This left her in the unenviable position of having to listen to complaints about the Parking Lot over which, ultimately, she had no control. As for her suggestion that while there were no assigned spaces, the Appellant was guaranteed a spot because his shift started earlier than those of other employees, that, in itself, does not suffice to convert “scramble parking” into the sort of assigned parking considered in decisions like Adler v. R.[8] and Schroter v. R.[9]. In those cases, the taxpayers were senior executives in a large corporation with an express policy on assigned parking which had been disclosed to the employees in question and was made available to them as a result of their status in the company, quite the opposite of the present circumstances.
+[15] Finally, the evidence left me in some doubt as to the nature of the relationship between Adelaide Motors and the (apparent) owner of the Parking Lot, Berkley Studios Inc. Ms. Tsakonas produced one invoice dated October 1, 2005[10] as proof that Adelaide Motors paid a monthly rental for the Parking Lot to Berkley Studios Inc., such rental charges having formed the basis for the Minister’s calculation of each employee’s taxable benefit. The Appellant alleged that the two companies were somehow controlled by the same person and suggested the value assigned to the Parking Lot had more to do with providing Adelaide Motors with a sizeable business expense deduction than reflecting the actual value of individual parking spaces.
+[16] There was insufficient evidence before me to make specific findings as to the relationship between the two companies but I am persuaded that there was more to the story than was revealed in the Minister’s assumptions. Whatever their connection and even if Adelaide Motors was renting the Parking Lot from Berkley Studios Inc., its purpose in doing so remains a mystery. In any event, the Appellant succeeded in putting the valuation of the parking into question thereby shifting the onus to the Minister. There being no persuasive evidence from the Respondent as to the actual value of the parking, I am unable to conclude that the amount ascribed to the assumed benefit was correct.
+[17] In summary, the Appellant found himself in a similar position to that of the taxpayer in Rachfalowski v. R.[11], a case in which an insurance executive was assessed for the value of a golf club membership notwithstanding that he “… hated golf, could not golf and did not golf”[12]. At the time the membership was made available to him by his employer, the taxpayer tried, in vain, to refuse it, to substitute it for a membership in a curling club, or to be paid its cash equivalent. In the circumstances, Chief Justice Bowman allowed the appeal on the basis that, from an objective perspective, if there was any benefit in the membership, it accrued more to the employer than the taxpayer.
+[18] In the present matter, the availability of parking in the Parking Lot was of no benefit to Adelaide Motors because the Appellant’s employment duties did not require him to have a vehicle on the premises. As for what the Appellant got out of it, on the few days he drove to work, he had, at best, a chance of finding an available space for his car in the Parking Lot. This put him in no better position that the unidentified interlopers mentioned above who took advantage of Adelaide Motors’ unregulated parking practices to use the Parking Lot for free. In all the circumstances and notwithstanding the well-researched and clearly presented submissions of counsel for the Respondent, I am unable to conclude that the Appellant received a taxable benefit within the meaning of the legislation in the 2004 and 2005 taxation years.
+[19] The appeals are allowed and the assessments of the Minister of National Revenue are vacated.
+Signed at Ottawa, Canada, this 18th day of March, 2010.
+“G. A. Sheridan”
+Sheridan J.
+CITATION: 2010TCC153
+COURT FILE NO.: 2009-3692(IT)I
+STYLE OF CAUSE: PATRICK J. LONG AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: March 8, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice G. A. Sheridan
+DATE OF JUDGMENT: March 18, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Rita Araujo
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit R-2.
+[2] Exhibit A-1.
+[3] Above.
+[4] Exhibit A-1.
+[5] Bernier v. R., 2009TCC312. (T.C.C.).
+[6] Exhibit R-3.
+[7] Exhibit R-2.
+[8] [2007] 4 C.T.C 2205. (T.C.C.).
+[9] [2009] 2 C.T.C. 2346. (T.C.C.); see also Richmond v. R., [1998] 3 C.T.C 2552. (T.C.C.).
+[10] Exhibit R-4.
+[11] [2009] 1 C.T.C. 2073. (T.C.C.).
+[12] Above, at paragraph 3.

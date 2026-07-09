@@ -1,0 +1,412 @@
+Title: Ouellet v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29063/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-543-29063-ouellet-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2008-09-26
+
+# Ouellet v. M.N.R.
+
+- Citation: 2008 TCC 543
+- Decision date: 2008-09-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6810, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ouellet v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-09-26
+Neutral citation
+2008 TCC 543
+File numbers
+2007-2830(EI)
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2007-2830(EI)
+BETWEEN:
+JÉRÔME OUELLET,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on May 28, 2008, at Rimouski, Quebec.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the Appellant:
+Caroline Bérubé
+Counsel for the Respondent:
+Dany Leduc
+____________________________________________________________________
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act is dismissed, and the decision of the Minister is confirmed.
+Signed at Ottawa, Canada, this 26th day of September 2008.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 17th day of November 2008.
+Susan Deichert, Reviser
+Citation: 2008 TCC 543
+Date: 20080926
+Docket: 2007-2830(EI)
+BETWEEN:
+JÉRÔME OUELLET,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal from a decision of the Canada Revenue Agency (CRA) dated March 27, 2007, with respect to the insurability of the employment of Jérôme Ouellet ("the Worker") with Scierie Réjean Ouellet Enr. ("the Payor") from May 29, 2006, to September 9, 2006 ("the period in issue"). Under the terms of that decision, the Minister of National Revenue ("the Minister") determined that the Worker's employment was not insurable for the period in issue because a similar contract of employment would not have been entered into if the Worker and the Payor had been dealing with each other at arm's length. The decision was made under paragraph 5(2)(i) and subsections 5(3) and 93(3) of the Employment Insurance Act, S.C. 1996, c. 23, as amended ("the Act").
+[2] The Worker and the Payor are related persons within the meaning of section 251 of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.) as amended, because the Worker is the son of the Payor's owner.
+[3] The Minister determined that the Worker and the Payor were not dealing with each other at arm's length in connection with the Worker's employment, and the Minister was satisfied that it was reasonable to conclude that the Worker and the Payor would not have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length, having regard to the circumstances described in subparagraphs 6(a) through 6(u) of the Reply to the Notice of Appeal.
+[TRANSLATION]
+(a) The Payor has been operating a sawmill since 1995. He personally built the mill in 1993‑94 on the Bélanger range road in St-Gabriel. (admitted).
+(b) The Payor has a 30-by-70-foot building with a saw, a log carriage, a surface planer, a loader and a tractor. (admitted)
+(c) Before the Appellant was hired, the Payor operated his sawmill sporadically from May to September. (admitted)
+(d) The Payor obtains contracts for the cutting of timber from neighbours, and has the timber brought to his mill in accordance with the orders that he receives. (admitted)
+(e) During the period in issue, the Payor officially hired the Appellant for the first time because he claimed that he had more orders. (admitted)
+(f) Prior to 2006, the Payor derived little income from the mill, and he did not report that income for tax purposes. (denied)
+(g) He hired his son in late May 2006 and entrusted the following duties to him: he had to get the logs with the loader, prepare the wood for sawing, and saw the logs brought back to the sawmill. (denied as worded, because he had other tasks as well)
+(h) The Appellant worked under an oral contract, and had to work 60 hours per week from Monday to Friday and often on Saturday. (denied as worded, because he worked every Saturday, for a maximum of 60 hours per week)
+(i) The Payor compiled the Appellant's working hours in a log or on a small notepad. (admitted)
+(j) The Payor has no timber-cutting contracts with his customers that would justify having employed the Appellant during the period in issue. (denied as worded)
+(k) During the period in issue, the Appellant apparently received cash advances from the Payor ranging from $200 to $400 per week. (admitted)
+(l) The Payor apparently advanced a total of $6,300 to the Worker, in irregular amounts, but has not specified the exact dates on which these advances were made. (denied as worded, because the dates of the advances were known)
+(m) It was only at the end of his employment that he received a series of cheques from the Payor for the work done during the period in issue. (admitted)
+(n) The cheques issued by the Payor were dated from June 8 to September 21, 2006, and the first cheque was cashed by the Appellant only on October 12, 2006. (admitted)
+(o) All the cheques issued by the Payor were cashed by the Appellant between October 12 and October 26, 2006. (admitted)
+(p) The Appellant claims that he cashed the cheques, and that he remitted to the Payor the advances that he had obtained during the period in issue. (admitted)
+(q) In 2005, the Payor reported no income from his sawmill, but paid the Appellant roughly $1,000 for services rendered to the mill. (denied as worded, because the sawmill income was reported and $2,000 was paid to the Worker)
+(r) Despite recording the Appellant's hours, the Payor was unable to specify the hourly wage rate that the Appellant was paid. (denied as worded because the hourly rate was known)
+(s) The Payor's payroll journal stated that, each week, the Appellant was paid the regular rate for the first 47 hours and overtime for 13 subsequent hours. (admitted)
+(t) Moreover, for each statutory holiday, the Appellant received 10 hours of additional work, for a total of $117.50. (admitted)
+(u) The parties to the litigation were acting in concert in order to qualify the Appellant for unemployment insurance benefits. (denied)
+[4] In order to clarify the facts on which the Respondent relied, and gain a proper understanding of the reasons why the Respondent determined that the Appellant's employment during the period in issue was excluded employment, it would be helpful to reproduce Parts (V) and (VI) of the appeal report prepared by the Canada Revenue Agency on March 27, 2007, and filed at the hearing as Exhibit I‑9:
+[TRANSLATION]
+(V) FACTS
+The following documents are included in the file of decision CE0631 1084 3041
+Statutory declaration of Jérôme Ouellet___________________ _TAB A
+(1) From May 29 to September 9, 2006, he was employed as a sawmill labourer, but he had previously helped out at the mill. In 2006, he was hired on a full-time basis for 60 hours per week from Monday to Saturday.
+(2) I [sic] was the only employee. The Worker was laid off on September 9, 2006, because it had become less busy.
+(3) The sawmill is located on the Bélanger range road and was built by my [sic] father roughly ten years ago. Initially, my [sic] father went there from time to time because he worked for a railway company in Sept-Îles.
+(4) From May 29 to September 9, 2006, he received weekly advances ranging from $200 to $400, depending on what he needed.
+(5) At the end of his employment, he received cheques that he cashed using his account at the caisse populaire in St-Gabriel.
+(6) On October 12, 2006, he cashed the cheques dated June 8, 2006, and June 15, 2006.
+(7) On October 26, 2006, he cashed the cheques dated August 31, September 7, September 14 and September 21, 2006. The value of those cheques had to be remitted to his father, because the pay to which he was entitled had been taken.
+(8) He appears to have received advances totalling $5,000 during his employment period, and to have kept roughly $2,000 thereafter.
+Additional information concerning the benefit claim TAB B
+(9) Réjean Ouellet provided HRDC investigator Alain D'Amours with some information, including the following:
+· He owns a sawmill and woodlots in St-Gabriel.
+· He waited a few years before hiring someone on a full-time basis.
+· He hired his son Jérôme and paid him by cheque.
+Details of hours worked ________________________ _ ____ _TAB C
+According to these documents, the Worker worked exactly 60 hours per week, from Monday to Saturday.
+Advances to Jérôme Ouellet________________________ _ _TAB C1
+Period
+Amount
+23
+$250.00
+24
+$350.00
+25
+$375.00
+26
+$425.00
+27
+$425.00
+28
+$500.00
+29
+$400.00
+30
+$400.00
+31
+$450.00
+32
+$400.00
+33
+$400.00
+34
+$400.00
+35
+$400.00
+36
+$375.00
+37
+$375.00
+38
+$375.00
+Total
+$6,300.00
+This document was faxed by Chantal Dufour (the Payor's wife) to the HRDC investigator. The $2,635.77 balance owing was regularized by cheques #34 through #38.
+The following documents were obtained from the Payor by the appeals officer
+Payroll Journal ______________________________________ TAB D
+Reproduced in table format for easier reading.
+Week
+Hours
+Salary
+Stat. holiday
+Total
+June 3, 2006
+60
+$781.38
+$781.38
+June 10, 2006
+60
+$781.38
+$731.38
+June 17, 2006
+60
+$781.38
+$781.38
+June 24, 2006
+70
+$781.38
+$117.50
+$898.88
+July 1, 2006
+70
+$781.38
+$117.50
+$898.88
+July 8, 2006
+60
+$781.38
+$781.38
+July 15, 2006
+60
+$781.38
+$781.38
+July 22, 2006
+60
+$781.38
+$781.38
+July 29, 2006
+60
+$781.38
+$781.38
+August 5, 2006
+60
+$781.38
+$781.38
+August 12, 2006
+60
+$781.38
+$781.38
+August 19, 2006
+60
+$781.38
+$781.38
+August 26, 2006
+60
+$781.38
+$781.38
+Sept. 2, 2006
+70
+$781.38
+$117.50
+$898.88
+Sept. 9, 2006
+60
+$781.38
+$781.38
+Sept. 16, 2006
+$451.74 vacation
+$451.74
+Total
+930
+$11,720.70
+$804.24
+$12,524.94
+Payor's monthly income, 2006___________________ ____ TAB E
+Month
+Income
+June
+$5,706.00
+July
+$8,328.00
+August
+$4,422.00
+September
+$2,460.00
+October
+$3,821.00
+Total
+$24,587.00
+Copies of paycheques (both sides)______________ ________ _TAB F
+Cheque no.
+Date of cheque
+Amount
+Date cashed
+6
+June 8, 2006
+$558.95
+October 12, 2006
+7
+June 15, 2006
+$558.95
+October 12, 2006
+8
+June 22, 2006
+$558.95
+October 13, 2006
+9
+June 29, 2006
+$623.52
+October 13, 2006
+10
+July 6, 2006
+$623.52
+October 16, 2006
+11
+July 13, 2006
+$558.95
+October 16, 2006
+12
+July 20, 2006
+$558.95
+October 17, 2006
+13
+July 27, 2006
+$558.95
+October 17, 2006
+14
+August 3, 2006
+$558.95
+October 26, 2006
+15
+August 10, 2006
+$558.95
+October 26, 2006
+16
+August 17, 2006
+$558.95
+October 26, 2006
+17
+August 24, 2006
+$558.95
+October 26, 2006
+18
+August 31, 2006
+$558.95
+October 26, 2006
+19
+Sept. 7, 2006
+$558.95
+October 26, 2006
+20
+Sept. 14, 2006
+$623.52
+October 26, 2006
+21
+Sept. 21, 2006
+$357.81
+October 26, 2006
+The following documents were obtained from the CRA computer system by the appeals officer
+Réjean Ouellet's federal income tax returns _______________ _TAB G
+The Payor's 2004 and 2005 federal income tax returns report no business income.
+Jérôme Ouellet's federal income tax returns________ ________TAB H
+Jérôme Ouellet's 2005 tax return reports $7,500 in employment income, without identifying it.
+The 2004 return reports a total of $549 in employment income.
+The following facts were obtained from Jérôme Ouellet during a telephone interview on March 8, 2007
+(10) Jérôme Ouellet confirmed the statement that he made to the HRDC investigator.
+(11) Since 1995, his father Réjean Ouellet has owned a sawmill on Bélanger range road in St-Gabriel. The building is roughly 70 feet by 30 feet in size, and the equipment consists of a saw, a log carriage, a surface planer, a loader and a tractor.
+(12) In previous years, the Worker went to help out his father when needed. In fact, he says that part of the $7,500 reported in his income tax return was paid by his father. He believes that roughly $1,000 is from his father, and that the rest is from a variety of sources that he does not specify further.
+(13) However, in 2006, his father told him: [TRANSLATION] "If you want to come, we will operate it more." His work consisted of sawing the timber, making planks, operating the planer, and occasionally fetching the timber.
+(14) He worked from morning to evening, 6-7 days a week. He worked with his father at the sawmill.
+(15) Throughout the summer, the Worker received advances based on his needs. He received advances because his father was not sure what his total salary would be.
+(16) The Worker received all his cheques at once, at the end. He said that his father had decided to do this even though he had already been paid. After receiving the cheques, the Worker cashed two or three at a time.
+The following facts were obtained from Réjean Ouellet during a telephone interview on March 9, 2007
+(17) Réjean Ouellet was very reluctant to provide us with the details of his son's employment. In fact, the appeals officer asked him to stop swearing.
+(18) For the past five or six years, he has been the owner of a sawmill containing all the necessary equipment.
+(19) In 2005, the Payor earned income (a small amount) from his sawmill, and, since Jérôme Ouellet went to help him, he gave him roughly $1,000. This money was given to him for helping out, and there were no calculations involved.
+(20) In 2006, the demand for timber cutting was steadily increasing, so he decided to hire his son.
+(21) The Payor does not know the basis on which he paid his son, or what his son's wage was. His hours were from 7 a.m. to the evening, and he worked Monday to Saturday.
+(22) The Payor advanced money to him based on the hourly pay. It was the Payor who calculated how many hours he worked.
+(23) Réjean Ouellet says that it was his wife who decided to write the paycheques.
+The following facts were obtained from Nicole Leblanc during a telephone interview on March 8, 2007
+(24) Nicole Leblanc works for the municipality of St-Gabriel. She provided me with the following information: Based on municipal records, Réjean Ouellet has been the owner of a sawmill on the Bélanger range road since 1995.
+(VII) SUMMARY
+The Payor, Réjean Ouellet, operates a sawmill.
+The Worker, Jérôme Ouellet, was hired as a sawmill labourer from May 29, 2006, to September 9, 2006.
+Non-arm's-length relationship between the parties to the appeal
+Réjean Ouellet is Jérôme Ouellet's father. The two individuals are related persons within the meaning of paragraph 251(2)(a) of the Income Tax Act. Under paragraph 251(1)(a) of the same Act, related persons are deemed not to be dealing with each other at arm's length.
+Analysis of Jérôme Ouellet's employment under paragraph 5(3)(b) of the Employment Insurance Act
+Remuneration paid
+According to its own documents, the Payor advanced $6,300 to the Worker between periods 23 and 38; there are no specifics regarding the actual dates on which the advances were made. Moreover, the cheques themselves were cashed more than four months after the employment period.
+These accounting documents show that the parties acted in a manner that was very much out of the ordinary and was contrary to the rules of the labour market.
+Moreover, based on the payroll journal, the Worker benefited from overtime pay every week, along with statutory holiday pay that yielded 10 hours of additional employment.
+These documents, combined with the parties' accounts which assert that the Payor did not know what wage the Worker was paid, clearly show that the remuneration was simply based on the non-arm's-length relationship.
+Terms and conditions of employment
+The Worker and the Payor claim that Jérôme Ouellet worked from morning to evening. This assertion would suggest that there was no work schedule. However, the time log submitted by the Payor points to a different conclusion, because arrival times, meal times and departure times are recorded therein. The time log constitutes inconsistent evidence because the accounts that have been cited are based on a fixed salary unrelated to the number of hours worked, whereas the time log shows the contrary.
+This inconsistency shows that the terms and conditions of this Worker's employment were based on the non-arm's-length relationship.
+Moreover, the payroll journal states that, each week, payment was made for 60 hours in the following manner: the regular rate was paid for the first 47 hours, and the overtime rate was applied to the subsequent 13 hours. In addition, on statutory holidays, $117.50 and 10 more hours were added. It can be seen that these terms and conditions of employment are not reasonable, and that they demonstrate that the parties acted as related persons.
+In fact, during the summer of 2005, Jérôme Ouellet rendered services to his father, and his father paid him sums of money without recording them in a payroll journal. The Payor was not reporting any business income at that time.
+Under these circumstances, it is our opinion that those terms and conditions of employment were not reasonable, and that persons who were at arm's length from each other would not have stipulated such terms and conditions.
+Duration
+It is difficult for us to ascertain the true duration of this employment in this case because the documents provided by the Payor point to something different: an arrangement to submit a Record of Employment that reports such hours as would enable Jérôme Ouellet to obtain employment insurance benefits. In addition, there is a certain degree of contradiction between the variation in the Payor's monthly income and the fact that the Worker worked the same number of hours every week
+Based on this, we have concluded that the duration of this employment was based on the non-arm's-length relationship.
+Nature
+The Worker sawed wood for a sawmill. At first blush, it can be concluded that these duties are necessary for the Payor's operations. However, the appeals officer is of a different view: he found that the Worker's duties were established by agreement between related persons. His view is that the parties to the appeal acted with a common purpose in mind, namely, to qualify Jérôme Ouellet for employment insurance benefits. In fact, the Payor and the Worker said that Jérôme Ouellet received sums of money from the Payor in 2005 even though the Payor was not reporting any business income at that time.
+We concur in the decision-making officer's finding that people dealing with each other at arm's length would not have entered into such an employment contract.
+Conclusion under paragraph 5(3)(b) with respect to Jérôme Ouellet's employment
+In light of the facts obtained, and our analysis of the documents, we find that the Worker had terms and conditions of employment that no outsider would have obtained.
+In the alternative, if this matter were referred to the TCC, we could also argue that this employment contract does not meet the requirements of a contract of service.
+[5] The facts set out in the appeal report and reproduced in the preceding paragraph were not contradicted or questioned at the hearing. However, certain additional information was provided. In her testimony, accounting technician Louiselle Pineault explained that she had suggested to Réjean Ouellet, the Appellant's father, that he register his business, and pay advances to the Appellant, pending receipt of the source deductions and registration numbers from authorities such as the Commission de la santé et de la sécurité du travail. Once the business was registered, the paycheques owed to the Appellant were remitted to him. Ms. Pineault also specified that the 2005 federal tax files of the Payor and the Worker were essentially settled once amended income tax returns were filed. According to Ms. Pineault, the Payor's hiring of the Worker for up to 60 hours a week was justified in May 2006 based on the Payor's income. Ms. Pineault also asserted that she prepared the Worker's Record of Employment (ROE) based on the Payor's payroll journal as at September 9, 2006. Based on her calculations, the Worker had accrued 930 insurable hours, which corresponds to 15 sixty-hour work weeks, to which 30 hours were added in order to take the three statutory holidays during the period in issue into account, to the extent of 10 hours per day.
+[6] Réjean Ouellet, the Worker's father, also testified. He said that he used a notepad to record the Worker's hours every day. According to him, the Worker's hours always totalled at least 60 hours per week. He also said that he hired the Worker in the summer of 2007 to do the same work under the same wage and schedule conditions, and that the Worker's employment for 2007 had been determined insurable. That year, the Worker received a weekly paycheque, not advances like he received in 2006.
+[7] Chantal Dufour, the Worker's mother, testified as well. She confirmed that she made the cash advances to the Worker based on his needs, and that she prepared and signed the 16 paycheques, which were handed to the Worker, and bore the dates corresponding to the pay periods, but were cashed based on how much money was available in the Payor's bank account. The Worker endorsed the cheques and gave them to his mother to repay the advances. The Worker kept the last five cheques because the amount of the advances was lower than the net salary earned by the Worker.
+[8] The dispute in the case at bar pertains to the application of paragraph 5(2)(i) and subsection 5(3) of the Act, which read as follows:
+5. (2) Insurable employment does not include
+. . .
+(i) employment if the employer and employee are not dealing with each other at arm's length.
+(3) For the purposes of paragraph (2)(i),
+(a) the question of whether persons are not dealing with each other at arm's length shall be determined in accordance with the Income Tax Act; and
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm’s length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length.
+[9] The Court's role in interpreting the provisions cited above has been the subject of several decisions, and has been summarized very clearly in the following excerpt from Légaré v. Canada (Minister of National Revenue), [1999] F.C.A. No. 878, at paragraph 4:
+. . .
+The Court is not mandated to make the same kind of determination as the Minister and thus cannot purely and simply substitute its assessment for that of the Minister: that falls under the Minister's so-called discretionary power. However, the Court must verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so, it must decide whether the conclusion with which the Minister was "satisfied" still seems reasonable.
+[10] Counsel for the Appellant noted the context — a business that had just started up — to justify the unusual terms and conditions of the Appellant's work.
+[11] Unfortunately for the Appellant, I cannot subscribe to that argument. I do not believe that the status of the business as a start-up can be relied upon to justify the fact that Worker received his first pay nearly four months after his employment began, the fact that he had earned more than $12,000 in gross salary, and the fact that he was effectively paid after his employment period ended. It normally takes only a few days or weeks to obtain business registration numbers and employer source deduction numbers, rarely months.
+[12] Some of the terms and conditions of the Worker's employment can only be explained by the non-arm's-length relationship between him and the Payor. The most noteworthy ones in this regard are that the advances were made in cash, not by cheque, and that the amount of the advances was lower than the net salary payable to the Worker. In an arm's-length context, the amount of the advances would normally have matched the net salary payable to the Worker. It would have been easy for the Payor to obtain the exact amounts from the accounting technician, who was, in fact, consulted in the determination of the Worker's wage of $11.75 per hour.
+[13] As Marceau J.A. held in Pérusse v. Canada (Minister of National Revenue), [2000] F.C.J. No. 310 (C.A), at paragraph 15:
+. . . The Act requires the judge to show some deference towards the Minister's initial assessment and, as I was saying, directs him not simply to substitute his own opinion for that of the Minister when there are no new facts and there is nothing to indicate that the known facts were misunderstood. . . .
+[14] That is precisely the situation in the instant appeal. There are no new facts, and there is nothing to indicate that the Minister misunderstood the facts.
+[15] The fact that the Worker obtained employment insurance benefits in respect of his 2007 period of employment with the Payor is not relevant to the instant appeal, since the terms and conditions of his employment were not identical to the ones that prevailed in 2006. The fact that the Minister did not exercise his discretion in respect of the Worker's employment in 2007 cannot invalidate the exercise of that discretion in respect of a prior period of employment.
+[16] Having carried out its analysis, this Court is of the opinion that the facts inferred or relied on by the Minister were correctly assessed, and that the finding with which the Minister was satisfied seems reasonable having regard to the circumstances.
+[17] Consequently, the appeal is dismissed and the decision made by the Minister is confirmed.
+Signed at Ottawa, Canada, this 26th day of September 2008.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 17th day of November 2008.
+Susan Deichert, Reviser
+CITATION: 2008 TCC 543
+COURT FILE NO.: 2007-2830(EI)
+STYLE OF CAUSE: Jérôme Ouellet and M.N.R.
+PLACE OF HEARING: Rimouski, Quebec
+DATE OF HEARING: May 28, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: September 26, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Caroline Bérubé
+Counsel for the Respondent:
+Dany Leduc
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Caroline Bérubé
+Firm: Michaud, LeBoutilier, Joncas, Fortin & Lestage
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

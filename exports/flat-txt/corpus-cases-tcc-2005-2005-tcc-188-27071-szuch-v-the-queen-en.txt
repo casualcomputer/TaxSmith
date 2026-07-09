@@ -1,0 +1,113 @@
+Title: Szuch v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27071/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-188-27071-szuch-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-04-26
+
+# Szuch v. The Queen
+
+- Citation: 2005 TCC 188
+- Decision date: 2005-04-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 746, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Szuch v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-04-26
+Neutral citation
+2005 TCC 188
+File numbers
+2004-3637(IT)I
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2005TCC188
+Date:20050426
+Docket: 2004-3637(IT)I
+BETWEEN:
+JOSEPH MICHAEL SZUCH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(delivered orally from the Bench at
+Saskatoon, Saskatchewan, on January 11, 2005)
+[1] This appeal pursuant to the Informal Procedure was heard at Saskatoon, Saskatchewan on January 11, 2005. The Appellant was the only witness.
+[2] The Appellant has appealed an assessment for 2002. The particulars in dispute are set out in paragraphs 8 to 11 inclusive of the Reply to the Notice of Appeal. None of the facts stated in those paragraphs was refuted. They read:
+8. In so reassessing the Appellant for the 2002 taxation year and in so confirming that reassessment of the Appellant, the Minister assumed the same facts, as follows:
+(a) the Appellant and Melissa Anne Brunsdon (the "Spouse") were married on August 11, 1984;
+(b) the Appellant and the Spouse have 2 children (hereinafter the "Children"), namely:
+Name
+Date of Birth
+Jared Michael Szuch (Jared)
+June 30, 1989
+Jenna Edith Szuch (Jenna)
+January 17, 1992
+(c) the Appellant and the Spouse are living separate and apart as a result of the breakdown of their marriage;
+(d) pursuant to an Interim Order dated May 18, 2001 (hereinafter the "Order"):
+(i) the Children shall have their primary residence with the Spouse;
+(ii) the Appellant shall have access to the Children:
+a) Mondays and Wednesdays from 5:00 p.m. to 8:00 p.m.;
+b) alternate weekends from 5:00 p.m. on Friday to 7:00 p.m. on Sunday;
+c) Tuesdays and Thursdays from 5:00 p.m. to 8:00 p.m. for the weeks the Appellant did not have the Children on the weekend;
+d) one week in July and one week in August;
+e) one half of all school holidays, including Christmas, Spring Break and Easter break; and
+f) other reasonable access as agreed upon;
+(iii) the Appellant shall pay net child care costs in the amount of $212.80 commencing April 1, 2001 and payable monthly thereafter until further order of the Court;
+(iv) for extraordinary expenses for Jared the Appellant shall pay $54.20 per month commencing April 1, 2001 and payable monthly thereafter until further order of the Court;
+(v) for extraordinary expenses for Jenna the Appellant shall pay $29.95 per month commencing April 1, 2001 and payable monthly thereafter until further order of the Court; and
+(vi) the Appellant shall pay child support commencing April 1, 2001 based on his income of $77,000.00 per annum for the year 2000, in the amount of $953.00 for the support of the Children and continue monthly thereafter under further order of the Court. The parties may vary the time of the monthly payment by consent.
+(e) pursuant to a Judgment dated February 5, 2003:
+(i) the Appellant and the Spouse shall have joint legal custody of the Children;
+(ii) the Children shall reside primarily with the Spouse; and
+(iii) the Appellant shall have the same access as outlined in the Order; and
+(f) the Appellant was required to pay child support for the Children in the 2002 taxation year.
+ISSUES TO BE DECIDED
+9. The issue is whether the Appellant was entitled to a dependent credit under paragraph 118(1)(b) of the Act.
+STATUTORY PROVISIONS, GROUNDS RELIED ON ANDRELIEF SOUGHT
+10. He relies on subsections 56.1(4), 118(1), 118(4) and 118(5) and paragraph 60(b) of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp) (the "Act") as amended for the 2002 taxation year.
+11. He submits that as the Appellant was required to pay, during the 2002 taxation year, a support amount as defined in subsection 56.1(4) of the Act, he is not entitled to the wholly dependant person amount for either of the Children pursuant to paragraph 118(1)(b) of the Act.
+[3] The words of the portions of the Income Tax Act (the "Act") in dispute have been amended many times and litigated thousands of times. The Appellant argued that since he did not claim the child support that he was required by Court Order to pay, he could claim an amount of $6,482 for one child as a wholly dependant person.
+[4] However the Act does not allow such a claim if the taxpayer was required to pay child support by a Court Order.
+[5] Since the Court Order (Exhibit R-1) in question required the taxpayer to pay child support for the child in question, he cannot claim that child as a wholly dependant person.
+[6] The appeal is dismissed.
+Signed at Calgary, Alberta, this 26th day of April 2005.
+"D.W. Beaubier"
+Beaubier, J.
+CITATION:
+2005TCC188
+COURT FILE NO.:
+2004-3637(IT)I
+STYLE OF CAUSE:
+Joseph Michael Szuch v. The Queen
+PLACE OF HEARING:
+Saskatoon, Saskatchewan
+DATE OF HEARING:
+January 11, 2005
+ORAL REASONS FOR JUDGMENT BY:
+The Honourable Justice Beaubier
+DATE OF ORAL REASONS:
+April 26th, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Brooke Sittler
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,244 @@
+---
+title: "Higgins v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31253/index.do"
+last_modified: "2013-06-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 TCC 194"
+citation2: ""
+neutral_citation: "2013 TCC 194"
+decision_date: "2013-06-19"
+language: "en"
+item_id: "31253"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5096
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:03:21.875000+00:00"
+cases_cited_count: 6
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ab87b6a7714697bd713c34331eb9caecd18b1cdf7fceb41706729f9f0934a1ea"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Higgins v. The Queen
+
+- Citation: 2013 TCC 194
+- Decision date: 2013-06-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5096, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Higgins v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-06-19
+Neutral citation
+2013 TCC 194
+File numbers
+2012-469(IT)I
+Judges and Taxing Officers
+Dwayne W. Rowe
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-469(IT)I
+BETWEEN:
+SANDRA HIGGINS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Karen Kinnis
+2012-470(IT)I on April 12, 2013, at Victoria, British Columbia
+Before: The Honourable D.W. Rowe, Deputy Judge
+Appearances:
+Counsel for the Appellant:
+D. Laurence Armstrong
+Counsel for the Respondent:
+Holly Popenia
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed with one set of costs and the assessment in the sum of $5,096.08 issued to the appellant pursuant to subsection 160(1) is vacated and the assessment issued pursuant to subsection 160.2(2) is referred back to the Minister for reconsideration and reassessment in accordance with these Reasons.
+Signed at Sidney, British Columbia, this 19th day of June 2013.
+"D.W. Rowe"
+Rowe D.J.
+Docket: 2012-470(IT)I
+BETWEEN:
+KAREN KINNIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Sandra Higgins
+2012-469(IT)I on April 12, 2013, at Victoria, British Columbia
+Before: The Honourable D.W. Rowe, Deputy Judge
+Appearances:
+Counsel for the Appellant:
+D. Laurence Armstrong
+Counsel for the Respondent:
+Holly Popenia
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed with one set of costs and the assessment in the sum of $5,096.08 issued to the appellant pursuant to subsection 160(1) is vacated and the assessment issued pursuant to subsection 160.2(2) is referred back to the Minister for reconsideration and reassessment in accordance with these Reasons.
+Signed at Sidney, British Columbia, this 19th day of June 2013.
+"D.W. Rowe"
+Rowe D.J.
+Citation: 2013 TCC 194
+Date: 20130619
+Docket 2012-469(IT)I
+BETWEEN:
+SANDRA HIGGINS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2012-470(IT)I
+AND BETWEEN:
+KAREN KINNIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+REASONS FOR JUDGMENT
+Rowe D.J.
+[1] Upon consent of counsel for the respondent and the appellant, these appeals were heard together.
+[2] On December 10, 2010, the Minister of National Revenue ( the Minister) assessed each appellant for $5,096.08 respecting the transfer of property to each of them within the meaning of section 160 of the Income Tax Act ( the Act). On December 10, 2010, the Minister also assessed each appellant for $6,047.10 respecting the Registered Retirement Investment Fund (RRIF) transferred to each of them within the meaning of section 160.2 of the Act and accordingly issued notices on that date in respect of each assessment.
+[3] Karen Kinnis (Kinnis) testified she resides in Victoria, British Columbia and her sister, Sandra Higgins (Higgins) lives in Prince Albert, Saskatchewan. Their father, Arthur W. Higgins, lived in Winnipeg, Manitoba. Kinnis described him as a real character who purchased a delivery business in the medical supply field and operated it until age 80. He died on February 12, 2002. Kinnis stated she had been on her way to Winnipeg to see him but he died before she arrived. A cousin informed her that her father may have had an insurance policy with London Life. When he died, Arthur W. Higgins did not have a last will and testament. Kinnis stated she discovered that, apart from an account at a branch of the Royal Bank of Canada in Winnipeg, there were no other assets. The bank would not permit Kinnis to withdraw funds from the account but agreed the balance therein could be transferred directly to the funeral home and the services provided used up that amount. Kinnis stated there was no point in undertaking any administration of the Estate. She met with a London Life agent in Winnipeg and was informed that she and her sister  Higgins  were beneficiaries of a policy designated as a non‑registered freedom fund segregated fund investment. They were advised that their father  Arthur W. Higgins - had designated them as equal beneficiaries of this fund pursuant to a document signed on April 22, 1999. Kinnis and Higgins provided proof of their identity to the London Life representative and signed some documents. Within a month, each appellant received a cheque - in the sum of $5,096.98 - from London Life representing payment from that particular fund. Kinnis stated that at the time she and her sister each received the cheque, they believed the source of the payment was a traditional life insurance policy. Kinnis and Higgins (whose surname at the time was Sarginson) also each received a cheque  dated February 28, 2002  from London Life in the sum of $14,635.84 - one-half of $29,271.68  the total amount in the RRIF owned by their late father. Kinnis stated she was informed by the agent of London Life in Winnipeg that no tax was payable in respect of the sum of $5,096.98. However, she decided to hold onto those funds until she contacted a Canada Revenue Agency (CRA) office and an employee had confirmed that no income tax was payable with respect to monies received by a beneficiary pursuant to a life insurance policy. Kinnis stated that - in 2002 - she received a call from an employee at CRA who advised her that a tax return had to be filed on behalf of the Estate of Arthur W. Higgins. Kinnis informed the CRA representative that there had been no probate or administration of the Estate and that the tax return for Arthur W. Higgins 2001 tax return had been filed by his usual tax preparer in Winnipeg as a courtesy. Kinnis stated she sent a letter  Exhibit A-1 - dated December 31, 2004  to CRA and enclosed a T1 General form for the 2003 taxation year which included two Statements of Canada Pension Plan Benefits T4A(P) addressed to Estate of the late Arthur Higgins, c/o of Karen Kinnis - for the taxation years 2002 and 2003 with respect to amounts paid to Arthur W. Higgins. She also enclosed a T5 with respect to investment income earned by her father in 2002. In a handwritten addendum to her typed letter, Kinnis referred to the amount - $29,182.81  of the RRIF and stated she had not included that amount in the T1 General because  this was the amount of the death benefit paid to my sister and myself. Kinnis did not sign the return as she was neither Executrix nor Administratrix of the Estate which had not been subject to probate or administration in accordance with the laws of Manitoba. At one point, an employee of CRA had refused to discuss the matter with Kinnis because she had no official standing with respect to the Estate of Arthur W. Higgins. In March, 2005, Kinnis sought legal advice and was informed that she was not the official representative of her fathers Estate. In 2006, she provided CRA with a copy of her fathers death certificate and stated  again  that he had no assets at the time of his death. In 2007, a CRA employee  Mark McDonald (McDonald)  requested Kinnis to provide proof that she and her sister were named beneficiaries under the London Life non-registered segregated fund policy and she located the document and faxed it to him. Kinnis recalled McDonald mentioned the application of section 160 of the Act but expressed the opinion that CRA probably would not pursue the matter in light of the small amount involved. In August, 2010, she was contacted by a CRA agent in the collections department who informed her that her fathers tax account was in arrears. Kinnis stated she referred the agent to her earlier contact  McDonald  and then phoned McDonald who was sympathetic but advised her to seek counsel and to file Notices of Objection to the assessments. Kinnis disputes the accuracy of the assumption at paragraph 13(j) of the Reply to her Notice of Appeal that her fathers 2001 return - filed on October 18, 2002 - was assessed by the Minister on December 2, 2002. Regarding the assumption at paragraph 13(l), she stated she did not file a tax return for the Estate of Arthur W. Higgins on January 13, 2005 but merely provided information in the form of a letter with supporting documents. Contrary to the assertion by the Minister at paragraph 13(m), Kinnis stated she had advised CRA of the amount of the RRIF in her letter  Exhibit A-1. In the handwritten letter to McDonald  Exhibit A-2  dated February 23, 2007, Kinnis included a copy of an e-mail she had received from Lisa Johnson, a representative of London Life in Winnipeg confirming that she had been designated a beneficiary on her fathers investment fund on April 22, 1999 and that another beneficiary form signed on September 17, 2001 had not changed this designation. Subsequently, Kinnis received a telephone call from McDonald confirming receipt of her letter and she noted on the bottom of a copy of that letter that during their conversation McDonald told her,  Karen, you wont be hearing from RC on this matter again. Kinnis stated that RC referred to Revenue Canada, the precursor agency to CRA. With respect to the tax assessed against her and Higgins  jointly and severally  Kinnis did not believe it had been calculated correctly, based on the amount of her fathers RRIF and income in 2002. She stated she had difficulty obtaining information in that regard when dealing with various representatives of CRA over several years because the employees of CRA in Victoria had advised their task was to collect those amounts provided to them by the Winnipeg office.
+[4] Counsel for the respondent filed a binder - Exhibit R-1  entitled Respondents Book of Documents with tabs 1-14, inclusive. Reference to a tab number will relate to a document or documents within the binder.
+[5] Counsel referred Kinnis to copies of two London Life cheques - tab 9  each in the sum of $5,096.08 to herself and her sister - then known as Sandra Sarginson - and to copies of two London Life cheques  tab 11( last two pages)  each in the sum of $14,635.84  one payable to Kinnis and the other to Sarginson. The London Life form identified the contract number of the RRIF and stated that each cheque represented one-half of the total proceeds of the RRIF owned by the annuitant, Arthur W. Higgins and was payable to each of them as their share of  death claim proceeds. Kinnis confirmed those were the cheques and the statements received. With respect to the T4RIF  tab 10  in the sum of $29,182.81  addressed to Arthur W. Higgins pertaining to his 2002 taxation year, Kinnis stated she probably had received it from someone at CRA because she had it in her possession prior to writing her letter  Exhibit A-1- dated December 31, 2004. Kinnis stated she had been advised by her fathers tax preparer that  on October 18, 2002 - a return had been filed for his 2001 taxation year. Counsel referred Kinnis to a printout of the assessment  dated December 2, 2002 - issued to the Estate of the Late Arthur W. Higgins c/o Karen Kinnis. Kinnis acknowledged she had received this document at her Victoria address. The total tax payable according to the assessment was in the sum of $2,477.54, including certain amounts for late filing penalty, interest and instalment interest. Kinnis was directed to tab 7 and a printout of an assessment dated March 3, 2005 issued to the Estate of the Late Arthur W. Higgins addressed to the same address. Kinnis stated that until the week before this hearing, she had not seen this assessment or any re-creation thereof including any printout. This assessment was in the sum of $8,048.24 and the previous account balance of $2,889.98 had been added to create a total indebtedness of $10,948.22 which included the sum of $973.13 for interest and $1,028.01 for penalties. The T4RIF  tab 10- was provided by Kinnis together with other documents in her letter of December 31, 2004. (Exhibit A-1). Counsel for the respondent filed  as Exhibit R-2  the 2002 return filed on behalf of Arthur W. Higgins by his tax preparer and the letter from Kinnis that had also included the T4RIF.
+[6] The appellants closed their case.
+[7] Alnoor Ramji (Ramji) testified he is employed by CRA as a Collections Officer. He was assigned the file pertaining to the Estate of the late Arthur W. Higgins at which time the tax owing was approximately $18,000.00. Ramji stated he ascertained the Estate had no assets but located the London Life RRIF and the investment fund. He ascertained the proceeds of each had been paid in equal sums to the appellants. Regarding the assessment issued to each appellant pursuant to 160.2 of the Act, Ramji stated the amount of tax payable should be calculated on the amount of the benefit received by each appellant from the RRIF. Ramji was referred by counsel for the respondent to tab 13, a letter from London Life - dated November 18, 2010  which set out in table form the deposits and redemptions for 2001 and 2002 pertaining to the segregated fund owned by Arthur W. Higgins. For several months prior to his death, he had been withdrawing the sum of $200.00 per month.
+[8] For purposes of the assessment pertaining to benefits received by each appellant pursuant to the RRIF, Ramji stated the effective date was February 21, 2002, the date of the cheques  tab 9  issued to each appellant.
+[9] In cross-examination, Ramji stated he was aware that each appellant  on April 22, 1999 - had been designated as a beneficiary of the plan described - in a letter dated November 21, 2012 from a London Life representative to a CRA employee  tab 14  as a non-registered freedom fund segregated fund investment with London Life Insurance Company. Ramji stated he understood that the original of the unsigned and undated form - Designation of revocable beneficiary  tab 9  dated September 17, 2001, did not alter the earlier designation in 1999.
+[10] Section 160.2 and subsection 160.2(2) of the Act read as follows:
+Section 160.2
+160.2(2)
+Joint and several liability in respect of amounts received out of or under RRIF‑Where
+(a) an amount is received out of or under a registered retirement income fund by a taxpayer other than an annuitant (within the meaning assigned by subsection 146.3(1)) under the fund, and
+(b) that amount or part thereof would, but for paragraph 146.3(5)(a), be included in computing the taxpayers income for the year of receipt pursuant to subsection 146.3(5),
+the taxpayer and the annuitant are jointly and severally liable to pay a part of the annuitants tax under this Part for the year of the annuitants death equal to that proportion of the amount by which the annuitants tax for the year is greater than it would have been if it were not for the operation of subsection 146.3(6) that the amount determined under paragraph (b) is of the amount included in computing the annuitants income by virtue of that subsection, but nothing in this subsection shall be deemed to limit the liability of the annuitant under any other provision of this Act.
+[11] Both counsel agreed the effective date of the transfer to the appellants of the funds from the RRIF of the annuitant  Arthur W. Higgins  was on or about February 21, 2002, the date of the London Life cheques payable to each of the appellants in the sum of $14,685.35. Further, counsel agreed the appeal should be allowed from the assessment of the Minister  dated December 10, 2010  issued to each of the appellants in respect of their liability under subsection 160.2(2) and that the said assessments be referred back to the Minister for reconsideration and reassessment on the basis that each appellant is liable only to the correct amount of income tax attributable to the specific sum each received from the RRIF.
+[12] In the case of Belanger v. The Queen, 2007 TCC 502, Angers J. heard the appeal of a taxpayer who had been assessed tax in respect of an amount she had received out of a RRIF of her late mother. At paragraphs 7 to 10  inclusive Angers J. stated:
+[7] Benefits received by a taxpayer in a year under a RRIF must be included in computing the income of that taxpayer for that year under subsection 146.3(5). Paragraphs 146.3(5)(a)(b) and (c) of the Act provide exceptions that can reduce this income inclusion, but none of these was raised in argument nor are they applicable in this case. Subsection 146.3(6) of the Act provides that when the last annuitant under a RRIF dies, that annuitant is deemed to have received, immediately before death, an amount under the RRIF equal to the fair market value of the property of the fund at the time of the death. The fair market value of the property of the fund (the benefits) thus deemed to have been received by the appellants mother must be included in her income pursuant to subsection 146.3(5).
+[8] This therefore makes the estate liable for any income tax owed on these benefits, for the appellants mother is deemed to have received the funds before she died.
+[9] The Act also has provisions that render the annuitant (or the estate in the case at bar) and a taxpayer other than the annuitant jointly and severally liable in respect of amounts received out of or under a RRIF. See subsection 160.2(2) supra.
+[10] Subsection 160.2(3) allows the Minister to assess the appellant at any time for any amount payable under section 160.2 but does not indicate any obligation on the Minister to attempt to collect that amount from the estate before issuing the assessment. Subsection 160.2(3) reads as follows:
+160.2(3) Minister may assess recipient
+The Minister may at any time assess a taxpayer in respect of any amount payable by virtue of this section and the provisions of this Division are applicable, with such modifications as the circumstances require, in respect of an assessment made under this section as though it had been made under section 152.
+That, in my opinion, makes the appellant liable with respect to the tax payable.
+[13] In that case, there was an issue as to whether the amount of tax had been calculated properly and Angers J. continued as follows:
+[11] The appellant questions the amount of tax assessed and payable under the joint liability provisions. The amount of tax payable, according to the appellant, must be determined through the filing of a tax return by the estate. Although the evidence does not enable us to say with certainty whether the estate has filed a tax return or not, the appellant has testified that none was filed by the executor of the estate.
+[12] Subsection 160.2(2), quoted above, provides for the joint and several liability of the annuitant and the taxpayer to pay the annuitants tax for the year of the annuitants death. The annuitants tax for which they are liable is equal to the tax liability of the estate, including the benefits from the RRIF, less the result of a second calculation of the tax liability of the estate, but this time excluding any benefits that would normally have to be included by virtue of subsection 146.3(6) of the Act. The difference between the two tax calculations is the amount which the appellant and the annuitant (estate) are jointly and severally liable to pay.
+[13] The evidence does not disclose how the Minister calculated the appellant's tax liability, which comes to roughly 40% of the amount received by her. Subsection 160.2(2) is clear in indicating that the annuitant or the estate in this case, must first be assessed for the tax on the benefits from the RRIF in order that the amount of tax payable under the joint liability provisions may be determined.
+[14] The appellant is of the firm belief that no tax returns were filed for the estate and I accept her evidence in that regard. The appellant is liable, but the amount for which she is liable must be determined pursuant to the provisions of the Act. I therefore allow the appeal and refer the assessment back to the Minister for reconsideration and reassessment in accordance with these reasons.
+[14] Counsel agreed the above methodology is applicable to the within appeals with respect to the funds received from the RRIF. I find the analysis of Angers J. is relevant to a determination in the within appeals and adopt it for that purpose. Therefore, at the conclusion of these Reasons, I will refer the particular assessment issued to each appellant to the Minister for reconsideration and reassessment in accordance therewith.
+[15] The remaining issue concerns the receipt of the sum of $5,096.08 by each appellant from the non-registered freedom fund segregated fund investment owned by the late Arthur W. Higgins.
+[16] Counsel for the appellant submitted that Arthur W. Higgins had designated his daughters  the appellants  as his beneficiaries on April 22, 1999. Although the designation was revocable, it was unchanged at his death. Even though he had been withdrawing money from the fund prior to death, the intention was clear that whatever balance remained at his death was to be payable in equal shares to the appellants. Counsel submitted that London Life was bound by terms of their contract with Arthur W. Higgins to transfer the appropriate sum of money to each beneficiary and that those sums when paid to the appellants pursuant to that legal obligation did not pass through the Estate of the deceased. In counsels view of this specific investment, London Life, as a trustee, was required to ensure any remaining money in that fund was paid in equal shares to the named beneficiaries.
+[17] Counsel referred to paragraphs 16 and 17 of the Reply to the Kinnis appeal (the identical wording is used in paragraphs 15 and 16 of the Reply to the Higgins appeal) as follows:
+16. He submits that on or about February 21, 2002, the Estate transferred the Property to the Appellant for no consideration and the Estate was liable to pay at least $16,376.77 under the Act respecting the 2001 and 2002 taxation years. As such, the Appellant is liable for $5,096.08 under section 160 of the Act.
+17. In the alternative, the Father transferred the Property through instructions and beneficiary designations made to financial institutions and that transfer was an indirect transfer by the Estate. The transfer was for no consideration and the Estate was liable to pay at least $16,376.77 under the Act respecting the 2001 and 2002 taxation years. As such, the Appellant is liable for $5,096.08 under section 160 of the Act.
+[18] Counsel submitted that even if the position of the respondent is correct in assuming the sum paid to each appellant had been transferred directly or indirectly from the Estate of Arthur W. Higgins, then the effective date of the transfer of the right to share equally in the eventual residue of that fund was April 22, 1999, when the Designation of revocable beneficiary was signed by Arthur W. Higgins. In 1999, counsel submitted there was no evidence he had any tax liability and even though their property interest in the fund  as beneficiaries - was subject to revocation by him and all the funds could have been withdrawn prior to his death, neither of those events occurred.
+[19] Counsel for the respondent submitted the particular London Life segregated fund was not a traditional life insurance policy. As conceded by counsel for the appellants, the designation of the appellants as beneficiaries was subject to revocation and their father had complete control over that fund until his death. He was receiving payments from that investment on a regular basis and  at any time  could have withdrawn the entire amount. Counsel submitted that the only point at which the property could have been transferred to the appellants as beneficiaries was in 2002 after their fathers death. The broad wording of section 160.(1) of the Act has been interpreted in the jurisprudence as including - within the definition of the transfer of property - the distribution of it. Instructions had been given by Arthur W. Higgins to London Life concerning the balance of the fund at the time of his death and those were carried out. However, in doing so - on February 21, 2002 - London Life transferred his property to the appellants when he had a tax liability in the sum of $16,376.77 and the appellants are liable  jointly and severally  to the extent of the total amounts received from London Life.
+[20] Subsection 160(1) of the Act reads:
+160.(1) Tax liability re property transferred not at arms length  Where a person has, on or after May 1, 1951, transferred property, either directly or indirectly, by means of a trust or by any other means whatever, to
+(a) the persons spouse or common-law partner or a person who has since become the persons spouse or common law partner,
+(b) a person who was under 18 years of age, or
+(c) a person with whom the person was not dealing at arms length,
+the following rules apply;
+(d) the transferee and transferor are jointly and severally liable to pay a part of the transferors tax under this Part for each taxation year equal to the amount by which the tax for the year is greater than it would have been if it were not for the operation of sections 74 to 75.1 of this Act and section 74 of the Income Tax Act, chapter 148 of the Revised Statutes of Canada, 1952, in respect of any income from, or gain from the disposition of, the property so transferred or property substituted therefor, and
+(e) the transferee and transferor are jointly and severally liable to pay under this Act an amount equal to the lesser of
+(i) the amount, if any, by which the fair market value of the property at the time it was transferred exceeds the fair market value at that time of the consideration given for the property, and
+(ii) the total of all amounts each of which is an amount that the transferor is liable to pay under this Act in or in respect of the taxation year in which the property was transferred or any preceding taxation year,
+but nothing in this subsection shall be deemed to limit the liability of the transferor under any other provision of this Act.
+[21] In the case of Kiperchuk v. The Queen, 2013 TCC 60, the Minister had assessed the appellant on the basis her former spouse had transferred proceeds of his RRSP to her  without consideration - upon his death at a time when he was liable under the Act for a large amount of tax.
+[22] At paragraphs 16 to 21, inclusive, Lamarre J. stated:
+[16] The meaning of the term transfer was expounded in Fasken Estate v. Minister of National Revenue, [1948] Ex. C.R. 580, at page 592, [1948] C.T.C. 265, at page 279, in a passage that has subsequently been cited by courts (Yates v. The Queen, 2009 FCA 50, Tétrault v. The Queen, 2004 TCC 332). It is defined as follows:
+The word "transfer" is not a term of art and has not a technical meaning. It is not necessary to a transfer of property from a husband to his wife that it should be made in any particular form or that it should be made directly. All that is required is that the husband should so deal with the property as to divest himself of it and vest it in his wife, that is to say, pass the property from himself to her. The means by which he accomplishes this result, whether direct or circuitous, may properly be called a transfer.
+[17] The word transfer was given a very broad definition. To repeat the terms used in Fasken Estate, all that is required is that the husband should so deal with the property as to divest himself of it and vest it in his wife, that is to say, pass the property from himself to her.
+[18] In Montreuil v. R., 1994 CarswellNat 1522, [1996] 1 C.T.C. 2182, Judge Dussault of this Court, as he then was, concluded that the word transfer included the act of giving property under a will, and that the term property included a right to property (the term property being defined in subsection 248(1) of the ITA as a right of any kind whatever). Thus, Judge Dussault said (at paragraph 37 CarswellNat, pages 2198-99 C.T.C.), as of the moment of death, there was a transfer to the appellants of a right to claim the legacy amount provided for in the deceaseds will.
+[19] In Fasken Estate, supra, it was held that the property transferred to Mrs. Fasken was the right to receive under a declaration of trust a portion of the interest on certain indebtedness, and that that property passed to her from her husband, who had previously owned the whole of the indebtedness out of which the right to receive a specified portion of the interest on it was carved. The time of the transfer was the date of execution of the documents conferring the right to receive the property (pages 592-93, 597-98 and 598-600 Ex. C.R.; pages 279-80, 283-84 and 285-86 C.T.C.)
+[20] Thus, the respondent concluded  rightly, in my view  in the present case that, because the appellant was the designated beneficiary of the RRSP owned by her former husband, there was a transfer of property which took place at the time of his death. From that moment, the appellant had a right to claim the RRSP to which she had become entitled as the designated beneficiary.
+[21] I therefore agree with the respondent that the words directly or indirectly, by means of a trust or by any other means whatever used in subsection 160(1) are language broad enough to capture the passing of an entitlement to an RRSP from one person to another by way of a designation.
+[23] In Homer v. R, 2009 TCC 219, 2009 CarswellNat 1313, , there was a last will and testament and the appellant acquired a property pursuant thereto but it vested on the second anniversary of the death of the transferor. At paragraphs 22 and 23 of his judgment, Angers J. stated:
+22 The respondent has conceded that paragraph 251(1)(a) has no application here. Counsel for the respondent relies instead on the deeming provision found in paragraph 251(1)(b). For paragraph 251(1)(b) to apply, the transferor has to be either the trust created by the will or the estate, a trust and an estate being considered one and the same by virtue of subsection 104(1) of the Act. However, if the properties vested indefeasibly in the transferees (appellants) by virtue of the Devolution of Estates Act and any power the executor, personal representative or trustee of the estate may have had accordingly expired on the second anniversary of the death of Nellie Isabelle Leland, it cannot be said, in my opinion, that the transferor is the trust or the estate. Since there is nothing in Nellie Isabelle Lelands will that either expressly or implicitly provides that title (legal) would remain n the executor or trustee beyond the two-year period, the provisions of the Devolution of Estates Act apply so as to divest the executors, personal representatives and trustees of the legal title they held in the properties and all their powers have thus expired. In my opinion, the trust or the estate cannot be said to be a party to the transfer of the properties. In such circumstances, the presumption found in paragraph 251(1)(b) would have no application.
+23 The transferor here could arguably be the late Nellie Isabelle Leland, but it has been agreed that she is not related to the appellants within the meaning of the definition of related persons in the Act and consequently the presumption found in paragraph 251(1)(a) is not applicable. Given the above circumstances, section 160 has no application here as it cannot be concluded that the transferor and the transferee were not dealing at arms length.
+[24] In the within appeals, there was no last will and testament and there is no question that the appellants  as daughters of Arthur W. Higgins  were related persons, therefore not at arms length.
+[25] The position of the appellants was that the particular investment held by Arthur W. Higgins was analogous to a life insurance policy and that the Estate was not the beneficiary of the funds upon his death. Since 1999, the appellants had been designated as recipients  in equal shares - of any money remaining in that investment upon his death.
+[26] In the case of Nguyen v. Canada, 2010 TCC 503, Angers J. addressed the validity of subsection 160(1) assessments against Nguyen and her three children. Her husband  Hien Vohoang  died intestate and at his death had a tax liability. Vohoang had a life insurance policy payable on death to his wife  Nguyen  and their three children, two of whom were minors. In the reasons, Angers J. set forth additional facts in paragraphs 8 to 11, inclusive, as follows:
+[8] The proceeds of a second life insurance policy, under a group insurance policy issued by Aetna Insurance Company, in the amount of $47,000, was paid to the wife of the late Hien Vohoang as designated beneficiary. It is not disputed that the proceeds of the two insurance policies are not part of the assets of the estate.
+[9] In the documents collected during the investigation by the Canada Revenue Agency there is a reproduction of debits and credits to an account at the Royal Bank of Canada in the name of the estate of Hien Vohoang, in which the first transactions are dated September 7, 1993. The evidence is that the account was opened by the appellant Isabelle Vohoang. She was 20 years old at the time, and was a student. She testified that she recalled that she and her mother were the liquidators of the succession. She stated that she agreed to take on this responsibility at the request of her mother, so that things would work better and it would be for the benefit of everyone.
+[10] She does not recall opening the account, except that it must have intended to make it easier to manage her late fathers affairs. She noted that she followed her mothers instructions, she signed cheques and she did not ask questions. Indeed, she was the only person authorized to sign cheques on that account, according to her mother. She was able to identify her signature on the cheques that are the subject of this appeal, but she does not recall the reasons why those banking transactions were carried out. She remembers very little of the administration of her late fathers estate, except that she received her share of his life insurance on her wedding day, two years ago.
+[11] Ms. Nguyen explained how the sudden death of her husband had turned her life upside down. Ms. Nguyen was her husbands assistant at work. She did a little of everything, particularly on the human side of her husbands businesses, but she was not involved in anything relating to research or finances. As well, she was not certain of her quality in relation to her husbands estate. She identified herself as the liquidator of the succession, and later stated that she was the co-executor, with her daughter.
+[27] At paragraphs 32-34, inclusive of his analysis, Angers J. commented:
+[32] That being said, we must first and foremost, in my opinion, determine whether, after the death of the insured, the proceeds of the insurance policies held by the late Hien Vohoang, who had not designated his [Translation] estate as beneficiary, became part of the assets of his estate, so that the Minister was warranted in making the assessments in issue. In other words, the issue is whether the mere fact that a bank account was opened in the name of the estate and money was deposited to it make that money an asset of the estate.
+[33] The word succession is defined by Germain Brière in his collection Les Sucessions, published in 1994, as follows:
+[Translation]
+In its original sense, the word succession refers to the transfer to a living person or persons of the transferrable rights and obligations of a deceased person. In a derivative sense, the word succession refers to all of the property and debts that are thus transferred, that is, the patrimony of the succession. Just now, we will address only the first meaning. In that sense, succession is a method of transfer because of death.
+[34] It is therefore clear that succession is simply a word that includes the transfer of rights and obligations of a deceased to his or her family members, and that the devolution takes place either by operation of law (succession ab intestat) or by will. Unless it is stipulated that the deceaseds life insurance is payable [Translation] to my estate, the proceeds are not part of the estate and do not comprise a right that is part of the patrimony of the deceased, in this case the late Hien Vohoang.
+[28] In the course of concluding the assessments were to be vacated, Angers J. at paragraphs 41 to 43, inclusive, stated:
+[41] According to the evidence of record, the only source of cash available during the months after Mr. Vohoangs death was the proceeds of two insurance policies for more than $350,000, payable to the designated beneficiaries. In my opinion, that money did not belong to the estate, and to all intents and purposes it was under the control of Ms. Vohoang. It was during that period that she decided, with the support of her late husbands partners, to invest money in Speq Multimedia Inc. and lend money to the company to enable it to continue the research undertaken and meet the requirements of the Commission des valeurs mobilières du Québec. I accept Ms. Nguyens explanation regarding the opening of the estates account without hesitation: the account was intended to be used only for the loan and investment transactions relating to Speq Multimedia Inc. and the account had nothing to do with her late husbands estate. Isabelle Vohoang thus opened the account in the name of her late fathers estate by mistake. I also accept that no money deposited in that account was part of the assets of her fathers estate. Ms. Nguyen also testified that the notary for the estate was not aware of the existence of that account. In view of the notarys role in the liquidation of the estate (fees of $5,212.95, according to Exhibit A‑4), it seems apparent to me that if a real account in the name of the estate had been opened, he would have been aware thereof.
+[42] In my opinion, there was no reason to open that account in the name of the estate, since all of the assets in the estate were seized and all of the incidental expenses associated with the estate were paid by Ms. Nguyen personally. On the question of the source of the funds deposited in the estates account, I accept Ms. Nguyens version without hesitation: the money came from her account and her childrens accounts at the Caisse populaire and she simply repaid her children by the three cheques in question, which, I would note, were all payable to the Caisse populaire, which did not endorse them. It would appear that those cheques were deposited to the childrens accounts, according to the reverse of the cheques and to Ms. Nguyens testimony, which I also accept.
+[43] I am satisfied, on a balance of probabilities and notwithstanding appearances that this was not an account opened for the purposes of the estate, but an account opened for the financing of Speq Multimedia Inc., and the account was labelled as it was by mistake. The withdrawals of funds from that account therefore cannot provide a basis for the assessments in issue.
+[29] In the within appeals, the source of the funds at issue pertaining to the subsection 160(1) assessment against each appellant is the London Life non‑registered freedom fund segregated fund investment. This appears to be a hybrid comprised of an insurance policy and a regular investment. It is important to classify this fund as it will dictate whether Arthur W. Higgins transferred the property, either directly or indirectly, to the appellants.
+[30] The description of the investment was provided by London Life in a letter  tab 13  dated November 18, 2010 and in another letter  tab 14  dated November 21, 2012. The penultimate paragraph of the letter  tab 13  refers to the termination of a numbered policy and states the proceeds thereof were payable to the beneficiary designation on file and a copy of that document together with cheque information was enclosed.
+[31] The Designation of revocable beneficiary  tab 9  in Part A thereof  is clear that Karen Kinnis and Sandra Sarfinson ( as she then was) were  beneficiaries designated to receive benefits payable on death  pursuant to that specific policy/plan in which Arthur W. Higgins was described under Client Information - at the top  as Life Insured/Annuitant.
+[32] The type of investment in the within appeals is described by London Life at the website www.londonlife.com as follows:
+Benefits of Segregated Fund Policies
+Put the benefits of segregated fund policies to work for you.
+Death benefit and maturity guarantees
+Segregated fund policies protect part or all of your capital investment. We offer two types of capital guarantees- death and maturity guarantees.
+Estate bypass
+When you designate a beneficiary other than your estate, the value of your segregated fund policy flows directly to him or her, generally bypassing the estate and potential probate fees.
+Potential creditor protection
+Laws may protect a segregated fund policy in the event of bankruptcy or other action by creditors. Its important to note that potential creditor protection depends on court decisions, which can be subject to change and can vary for each province. This protection cannot be guaranteed.
+[33] It is apparent that London Life, Arthur W. Higgins, and the appellants considered that particular fund/plan to fall within the category above-described and that eventual payment of any remaining funds upon his death would be made by London Life pursuant to its unambiguous contractual obligation. As a hybrid fund, although it was a contract with London Life for an investment plan designed to produce a return, it was also an insurance policy pursuant to which Arthur W. Higgins could designate beneficiaries of any balance upon his death. The fact the designation was revocable is a red herring. Since 1999, it had not been changed and Arthur W. Higgins was withdrawing funds prior to his death in the same manner as one could obtain funds from an existing life insurance policy with a cash-surrender value or otherwise pursuant to the terms thereof.
+[34] Regarding the nature of the segregated fund at issue, I conclude that the overarching feature was the life insurance component. The Estate of the late Arthur W. Higgins was not party to the contract with London Life. In paying each appellant the sum of $5,096.08 on February 21, 2002, London Life was fulfilling a legal obligation. The Minister assumed  incorrectly  that the segregated fund belonged in the same category as an RRSP or RRIF. That is not correct according to the evidence which permits me to accept the proposition that the right to confer a death benefit to named beneficiaries was an integral and indivisible component of the policy/plan in force. Arthur W. Higgins had the right to expect that London Life  upon his death - would abide by its contractual obligation to transfer the residue of said fund to his two daughters in equal shares. Thereafter, upon proving identity and providing a death certificate, payment was issued to each appellant according to the terms of the contract between London Life and Arthur W. Higgins.
+[35] I find the decision in Nguyen is applicable to the within appeals. The amount paid to each appellant from that segregated fund constituted life insurance proceeds which were payable to each of them as a designated beneficiary and did not form assets of the Estate of the late Arthur W. Higgins. Unlike the circumstances in Nguyen, there were no indicia of any connection between the funds from that plan and the Estate of the late Arthur W. Higgins which had no assets, was not administered and, in relation to which, Kinnis specifically disavowed any legal status when dealing with various representatives of CRA.
+[36] If I am wrong in this conclusion and the subsection at issue is applicable, I find the effective date of the transfer of property was February 21, 2002, when the cheques were issued to the appellants. Counsel had submitted that there had been a transfer of a property interest to them when the Designation of revocable beneficiary was signed by their father on April 22, 1999, at a time when he had no tax liability. That argument is intriguing in a metaphysical sense but any interest in property at that time was transitory, impossible to quantity by current methodology, and subject to the complete control of Arthur W. Higgins who could have cancelled the policy/investment, withdrawn all the funds or removed the appellants as beneficiaries. The value  to the appellants  of any interest under that policy/plan was quantifiable only upon their fathers death and that event  pursuant to his contract with London Life  triggered the process in accordance with the terms thereof that caused payments to be issued to each appellant of 50% of the balance in that segregated fund.
+[37] Both appeals are allowed with one set of costs. Each assessment - in the sum of $5,096.08 - issued to each appellant pursuant to subsection 160(1) is hereby vacated.
+[38] As mentioned earlier, each assessment issued to each appellant pursuant to subsection 160.2(2) is referred back to the Minister for reconsideration and reassessment in accordance with these Reasons.
+Signed at Sidney, British Columbia, this 19th day of June 2013.
+"D.W. Rowe"
+Rowe D.J.
+CITATION: 2013 TCC 194
+COURT FILE NO.: 2012-469(IT)I 2012-470(IT)I
+STYLE OF CAUSE: SANDRA HIGGINS
+KAREN KINNIS
+AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Victoria, British Columbia
+DATE OF HEARING: April 12, 2013
+REASONS FOR JUDGMENT BY: The Honourable D.W. Rowe, Deputy Judge
+DATE OF JUDGMENT: June 19, 2013
+APPEARANCES:
+Counsel for the Appellant:
+D. Laurence Armstrong
+Counsel for the Respondent:
+Holly Popenia
+COUNSEL OF RECORD:
+For the Appellant:
+Name: D. Laurence Armstrong
+Firm: Armstrong Wellman
+Victoria, British Columbia
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

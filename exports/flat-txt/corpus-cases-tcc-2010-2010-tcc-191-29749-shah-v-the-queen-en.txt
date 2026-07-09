@@ -1,0 +1,122 @@
+Title: Shah v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29749/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-191-29749-shah-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-04-15
+
+# Shah v. The Queen
+
+- Citation: 2010 TCC 191
+- Decision date: 2010-04-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6528, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Shah v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-04-15
+Neutral citation
+2010 TCC 191
+File numbers
+2009-1571(GST)I
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2009-1571(GST)I
+BETWEEN:
+BHARATI SHAH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on March 24, 2010, at Montreal, Quebec.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Agent for the Appellant:
+Bhagwat Shah
+Counsel for the Respondent:
+Judith Kucharsky
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made pursuant to subsection 325(2) of the Excise Tax Act (ETA), the notice of which is dated June 13, 2007 and bears number PM-13399, is allowed and the assessment is referred back to the Minister of National Revenue (Minister) for reassessment on the basis that the net tax owed by the appellant is to be reduced by $869.49, so that the appellant is jointly and severally liable with Bhagwat Shah for an amount of $12,753.81 in net tax, penalties and interest.
+Signed at Ottawa, Canada, this 15th day of April 2010.
+"Lucie Lamarre"
+Lamarre J.
+Citation: 2010 TCC 191
+Date: 20100415
+Docket: 2009-1571(GST)I
+BETWEEN:
+BHARATI SHAH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+-
+REASONS FOR JUDGMENT
+Lamarre J.
+[1] The appellant is the spouse of Mr. Bhagwat Shah. Bhagwat Shah, who represented the appellant in this appeal, was personally assessed pursuant to subsection 323(1) of the Excise Tax Act (ETA), on June 13, 2007, for amounts of net tax owed by a corporation (124688 Canada Inc.) of which he was a shareholder during the period from January 1, 2002 to April 30, 2004. Mr. Shah was assessed for an amount of $23,630.32, including penalties and interest (Exhibit R‑2). On the basis that he was not a director of the corporation, Mr. Shah objected to that assessment and subsequently instituted an appeal before this Court, which dismissed his appeal in a judgment dated November 4, 2008 (Exhibit R-1). Bhagwat Shah did not appeal that decision.
+[2] On March 11, 2003, Bhagwat Shah transferred an immoveable property located in Dollard-des-Ormeaux, Quebec, to his spouse Bharati Shah (the appellant) for $1.00 (see deed of sale, Exhibit R-3). At the time of the transfer, the fair market value of the property was, according to the municipal evaluation, $237,000 (Exhibit R-5).
+[3] At that time, Mr. Shah was jointly and severally liable with the corporation, under the ETA, for the amount of net tax owed by the latter for the reporting period from January 1, 2002 to the date of the transfer.
+[4] On that basis, a notice of assessment was issued against the appellant on June 13, 2007 in accordance with the provisions of subsection 325(2) of the ETA. The amount of the assessment was $13,623.30. That is the assessment under appeal before me.
+[5] Ms. Ginette Fiset, the agent for the Quebec Minister of Revenue (Minister) explained that the amount assessed was the amount owed by Bhagwat Shah for the period from January 1, 2002 to the date of the transfer of the property, that is, March 11, 2003. She recognized, however, that the tax portion was calculated to March 31, 2003 (Exhibit R-2) and now acknowledges that the net tax assessed against the appellant should be reduced by an amount of $869.49. Mrs. Shah should thus be assessed an amount of $12,753.81 instead of $13,623.30.
+[6] Subsections 325(1), (2) and (3) of the ETA read as follows:
+325. (1) Tax liability re transfers not at arm’s length ‑ Where at any time a person transfers property, either directly or indirectly, by means of a trust or by any other means, to
+(a) the transferor’s spouse or common-law partner or an individual who has since become the transferor’s spouse or common-law partner,
+(b) an individual who was under eighteen years of age, or
+(c) another person with whom the transferor was not dealing at arm’s length,
+the transferee and transferor are jointly and severally liable to pay under this Part an amount equal to the lesser of
+(d) the amount determined by the formula
+A - B
+where
+A is the amount, if any, by which the fair market value of the property at that time exceeds the fair market value at that time of the consideration given by the transferee for the transfer of the property, and
+B is the amount, if any, by which the amount assessed the transferee under subsection 160(2) of the Income Tax Act in respect of the property exceeds the amount paid by the transferor in respect of the amount so assessed, and
+(e) the total of all amounts each of which is
+(i) an amount that the transferor is liable to pay or remit under this Part for the reporting period of the transferor that includes that time or any preceding reporting period of the transferor, or
+(ii) interest or penalty for which the transferor is liable as of that time,
+but nothing in this subsection limits the liability of the transferor under any provision of this Part.
+. . .
+(2) Assessment ‑ The Minister may at any time assess a transferee in respect of any amount payable by reason of this section, and the provisions of sections 296 to 311 apply, with such modifications as the circumstances require.
+(3) Rules applicable ‑ Where a transferor and transferee have, by reason of subsection (1), become jointly and severally liable in respect of part or all of the liability of the transferor under this Part, the following rules apply:
+(a) a payment by the transferee on account of the transferee’s liability shall, to the extent thereof, discharge the joint liability; and
+(b) a payment by the transferor on account of the transferor’s liability only discharges the transferee’s liability to the extent that the payment operates to reduce the transferor’s liability to an amount less than the amount in respect of which the transferee was, by subsection (1), made jointly and severally liable.
+[7] Bhagwat Shah stated that he objected to his spouse’s assessment on the basis that the assessment by which he himself was held personally liable should be declared invalid. He said that when the latter assessment was appealed before this Court, his accountant was ill and could not testify regarding the correct amount of net tax owed by the corporation.
+[8] I have read the judgment rendered by this Court on November 4, 2008, and that particular point does not appear to have been raised at the time. Indeed, the only argument dealt with in the judgment is Mr. Shah’s contention that at the relevant time he was not the director of the corporation as he had sold all of the corporation’s shares and accordingly should not have been held liable for the debt of the corporation.
+[9] Mr. Shah did not appeal that judgment. Before me, he argued that the net tax for which he was held liable was wrongly calculated.
+[10] As I explained to Mr. Shah in court, I have no jurisdiction to review the assessment that was upheld by this Court on November 4, 2008. The argument that Mr. Shah raised before me should have been raised before the judge of this Court who heard his appeal. The next step for Mr. Shah would have been to appeal this Court’s decision to the Federal Court of Appeal.
+[11] Mr. Shah’s own appeal is now res judicata and I am bound by the result, namely that Mr. Shah was jointly and severally liable with the corporation for amounts of net tax not remitted to the Receiver General for the period from January 1, 2002 to April 30, 2004. During that period, Mr. Shah transferred to his spouse, the appellant in the present case, for $1, his immoveable property.
+[12] Bharati Shah thus became jointly and severally liable with her spouse for the amount of net tax owed by him for the reporting period that includes the time of the transfer or for any preceding reporting period, including the period from January 1, 2002 to March 11, 2003. The total amount owing, as recalculated above, is $12,753.81.
+[13] With respect to the argument that Mr. Shah and his spouse are being taxed twice, it is negated by subsection 325(3) of the ETA.
+[14] Ms. Danielle Duffy Desrosiers, a collection agent for the Minister, testified before the Court that the amount owed has not been paid, but said that when payment is received, the assessment will be reduced or cancelled accordingly.
+Decision
+[15] For these reasons, the appeal is allowed and the assessment is referred back to the Minister for reassessment on the basis that the net tax owed by the appellant pursuant to section 325 of the ETA is to be reduced by $869.49, so that the appellant is jointly and severally liable with Bhagwat Shah for an amount of $12,753.81 in net tax, penalties and interest.
+Signed at Ottawa, Canada, this 15th day of April 2010.
+"Lucie Lamarre"
+Lamarre J.
+CITATION: 2010 TCC 191
+COURT FILE NO.: 2009-1571(GST)I
+STYLE OF CAUSE: BHARATI SHAH v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: March 24, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT: April 15, 2010
+APPEARANCES:
+Agent for the Appellant:
+Bhagwat Shah
+Counsel for the Respondent:
+Judith Kucharsky
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

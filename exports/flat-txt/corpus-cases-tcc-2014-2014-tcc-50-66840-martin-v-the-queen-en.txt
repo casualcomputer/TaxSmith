@@ -1,0 +1,165 @@
+Title: Martin v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/66840/index.do
+Corpus path: corpus/cases/tcc/2014/2014-tcc-50-66840-martin-v-the-queen-en.md
+Document type: case_law
+Last modified: 2014-02-14
+
+# Martin v. The Queen
+
+- Citation: 2014 TCC 50
+- Decision date: 2014-02-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5953, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Martin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-02-14
+Neutral citation
+2014 TCC 50
+File numbers
+2011-1635(IT)G
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-1635(IT)G
+BETWEEN:
+ELEANOR MARTIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Costs regarding the Judgment and Reasons for Judgment issued
+on February 4, 2013.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Counsel for the Appellant:
+David Piccolo
+Jonathan Crangle (Student-At-Law)
+Counsel for the Respondent:
+Stan W. McDonald
+____________________________________________________________________
+ORDER
+Upon receiving written submissions and hearing the parties on the subject of costs in this matter;
+IT IS ORDERED THAT:
+The Court fixes costs, as detailed in the attached Reasons, payable by the Respondent to the Appellant as follows:
+a) Total costs, including disbursements, are fixed and payable to the Appellant in the amount of $10,635.
+b) The Appellant is also entitled to its costs for the costs submissions and hearing in accordance with the Tariff at $700.
+Signed at Ottawa, Canada this 13th day of February 2014.
+"Patrick Boyle"
+Boyle J.
+Citation: 2014 TCC 50
+Date: 20140213
+Docket: 2011-1635(IT)G
+BETWEEN:
+ELEANOR MARTIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Boyle J.
+[1] In my Reasons for Judgment allowing Mrs. Martin’s appeal in full, I allowed the parties 30 days to make submissions on costs, and asked for specific information relating to costs, namely (i) the Appellant’s actual legal costs, and (ii) the date on which the Respondent became aware of the fact that a Canada Revenue Agency (“CRA”) officer had in fact mislead the Martins with information different than that officer had in fact concluded and recorded in writing to them. My decision in Mrs. Martin’s appeal was not appealed.
+[2] Mrs. Martin had been assessed under section 160 of the Income Tax Act (the “Act”) in respect of her late husband’s tax liability. The amount in issue was approximately $175,000. At the time of his death, Dr. Martin had been contesting some of his taxes assessed. Both the estate’s assessment and Mrs. Martin’s related assessment were appealed to this Court and were set down together for a three day hearing before me in Toronto. After the hearing of both began, the parties reached a settlement with respect to the Estate’s tax appeal which was read into the record. The hearing continued thereafter only in respect of Mrs. Martin’s appeal.[1]
+[3] Both the Estate and the Appellant were represented by the same counsel. The hearing did not last a full day. The parties had agreed in advance to a Partial Joint Statement of Facts. The Appellant was the only witness. The Respondent put a Book of Documents into evidence with the Appellant’s consent.
+[4] The Appellant was successful at trial on her positions that, at the time of the relevant transfer to her by Dr. Martin, she had provided consideration to Dr. Martin of a significantly greater amount by way of her work in his professional practice and for the use in his practice of a building of which she was owner.
+[5] In a slightly earlier audit of Dr. Martin’s professional practice, CRA had expressly satisfied itself of the valuable nature of Mrs. Martin’s services and of her ownership of 25% of the professional building. That was communicated in writing to the Martins. However, the Appellant’s testimony was that, at that same time, the CRA officer advised that CRA would not allow any amounts paid to Mrs. Martin as a deduction in the future. In response to this, in later years relevant to this appeal, Mrs. Martin was either not paid for her same services or was paid significantly less, and rent was not paid to her in respect of the professional building. As stated in my reasons, the reduced salary undoubtedly reflected a balancing of CRA wrongly telling them nothing would be permitted as a deduction and their accountant telling them CRA was wrong on that point. During the trial, it came out that CRA had satisfied itself during its review of Mrs. Martin’s Objection, at least four and a half years before the trial, that Mrs. Martin’s version of the oral communication by the CRA in the earlier audit was in fact correct and recorded this in its Report on Objection. It was for this reason that the Court invited submissions, and requested information, on costs.
+[6] The parties’ written submissions were received, they were the subject of a telephone conference, and further written submissions and back-up documentation was further received from the Appellant.
+[7] The taxpayers asked for either solicitor/client costs or fixed costs under Rule 147 or costs by reference to Tariff B for a Class C proceeding.
+[8] The Respondent’s position is that the Appellant should only be awarded costs in accordance with Tariff B as a Class C proceeding.
+[9] Counsel fee in accordance with the Tariff has been calculated as $4,800. The Appellant’s claimed disbursements are for the $550 filing fee for the Notice of Appeal and $84.23 for copying and binding the Appellant’s Book of Documents.
+[10] The legal fees of the counsel who represented the Appellant and the Estate at trial were $9,250 (before HST/GST) for preparing and filing the Notice of Appeal through to judgment. This amount was not recorded separately nor broken down as between the two taxpayers. The parties have agreed that an appropriate allocation would be 50/50. The Appellant’s actual legal fees were therefore $4,625 plus HST/GST.
+[11] Prior to the filing of the Notice of Appeal, the Martins had been represented by Thorsteinssons at the Objection stage of this dispute and for several months following the Confirmation. Thorsteinssons’ fees, recorded and billed separately for Mrs. Martin, during the period March 2006 to October 2008 were approximately $54,000 (tax included). The Court was told that Thorsteinssons wrote off an additional approximately $85,000 in time recorded but not billed. No reason was given for it not being billed.
+[12] The Martins had used McInnes Cooper at the Audit and Investigation stage of this dispute. Their fees, also recorded and billed separately for Mrs. Martin, during the period July 2005 to March 2006 were approximately $12,000 (tax included).
+[13] In response to the Court’s request to be informed of the date (prior to the June 2008 Report on Objection) at which CRA satisfied itself that one of its officers did indeed mislead the Martins by telling them something that was completely at odds with his or her written audit findings on the very subject of amounts payable to Mrs. Martin as expenses of Dr. Martin’s dermatology practice, the Court was advised that it was sometime between the September 2006 Reassessment and the June 2008 Report on Objection, and that the parties would, for the sake of efficiency, agree to July 2007 being used for this purpose.
+The Court’s Approach to Costs
+[14] Much has been written on the law of costs in this Court.[2] I do not propose to do more here than simply summarize. The Court’s Rule 147 is appended hereto.
+1) The Court has jurisdiction to award solicitor/client costs. As a general rule, costs on a solicitor/client basis are only to be awarded in appropriate cases where there has been reprehensible, scandalous or outrageous conduct on the part of a party. Even in such circumstances, an award of solicitor/client costs is not automatic but remains discretionary.
+2) The Court has broad discretion in fixing costs, provided it is always exercised prudently not capriciously, on a principled basis, and after hearing from the parties.
+3) The Court’s approach to fixing costs should be compensatory and contributory, not punitive nor extravagant. The proper question is: What should be the losing party’s appropriate contribution to the successful party’s costs of pursuing the appeal in which his or her position prevailed?
+4) The Court is not bound to defer to the Tariff absent unusual or exceptional circumstances of misconduct or malfeasance. The Court should always follow a principled approach to determine the losing party’s appropriate contribution to the successful party’s costs in the particular circumstances of the proceeding. This includes considering and weighing all relevant circumstances, including those enumerated in the Rules which are relevant in the particular circumstances of the case.
+5) The acts of a party and events prior to the commencement of the legal proceeding may, in appropriate circumstances, be considered in awarding costs.
+6) The successful party’s actual costs may be considered and taken to account in appropriate cases. So too may a losing party’s actual, approximate or estimated costs.
+Consideration and Conclusion
+[15] As can be seen, the Appellant’s actual counsel fees for preparing, filing and pursuing her Notice of Appeal through to judgment was $4,625 plus HST/GST. Counsel fee computed in accordance with the Tariff would be $4,800. Absent other relevant considerations, everyone should be happy with costs simply left to the Tariff. It can also be observed in this case that this Court’s Tariff can be both credible and valuable in many typical cases, even for those using very competent and professional counsel, and in a major centre (although undoubtedly trial efficiency was helped in this case by the significant work done by prior counsel at the Objection and post-Confirmation stages).
+[16] However, I wrote in my Reasons for Judgment in this case at paragraph 21:
+[21] As mentioned above there is some considerable concern raised by the CRA correspondence with Dr. Martin and the Appellant in relation to the 1994 resolution of the prior audit of 1990 to 1992. There is a shocking difference between what CRA communicated in writing regarding the acceptable reasonable arm’s length salary to be paid to Mrs. Martin for her work at her husband’s dermatology practice, and what has now been confirmed by CRA to have been told to the Martins by that CRA auditor. This is not a case of a CRA auditor writing something incorrect or stating something incorrectly. It appears that it can only be considered to have been intentionally deceitful. Such actions by public servants are entirely inexcusable. The Court is very surprised that the CRA would in these circumstances have pursued its section 160 case against Mrs. Martin with such vigour given that the deceit related precisely to the most significant issue in this case being the worth of Mrs. Martin’s services to her husband’s practice. The Court has accepted Mrs. Martin’s version that in 1994 the auditor told them in relation to the resolution of both her and her husband’s audits that he could no longer deduct any portion of any salary he chose to pay her. The CRA has since acknowledged in writing that in fact that was what they were told, notwithstanding what the same auditor wrote. According to the Appellant this is what led her to continuing to work for her husband but to not be paid for the years prior to the years of her husband’s tax arrears and transfers to her, and to be paid a much lesser amount in some of the later years after her husband’s business accountant advised them that a reasonable salary was in fact properly deductible and always had been. I accept this explanation fully and believe this reinforces overall Mrs. Martin’s credibility.
+I remain very much of that view. This remains very disappointing and I remain very surprised that Mrs. Martin’s appeal proceeded to trial – indeed the dollar values determined by me were entirely consistent with those determined by CRA in its preceding but recent audit.
+[17] However, it is not entirely clear to me that CRA’s misleading, incorrect and deceptive communications with the Martins warrant an award of solicitor/client costs, even though they would surely be considered reprehensible, scandalous and outrageous to the Canadian taxpayers CRA serves. It may well be, but I did not hear from the auditor involved or his or her colleague, nor did I hear from the Appeals Officer who determined it did indeed occur as Mrs. Martin described. While it is exceedingly difficult in the circumstances to imagine how this auditor’s actions could have been accidental, inadvertent or innocent, I would prefer to exercise my discretion towards solicitor/client costs only in the clearest of cases, and for that reason only I am not exercising it in this case. This should not be construed as a comment or guidance on what action does or does not meet the threshold level of reprehensible, scandalous or outrageous conduct.
+[18] Nonetheless, I am satisfied that this is a relevant consideration in fixing costs and I am fixing costs in excess of the Tariff amount which in the circumstances would not be appropriate or satisfactory.
+[19] The previous CRA auditor’s written statement and his or her oral warning or threat can not both be true and correct. The Appeals Officer in this proceeding satisfied himself that the incorrect, oral communication had indeed been made. The incorrect oral communication was made at a time when the maker knew clearly that it was not correct and not in accordance with how CRA would apply the law as he or she had just written out the correct approach at the conclusion of a contentious audit on the Martin’s unchanged facts. This incorrect oral communication lead directly to Mrs. Martin’s not being paid for her valuable services or for the use of the professional building of which she was an owner. The issues of unpaid services and unpaid rent were the entire answer to the dispute before me.
+[20] Having not received a salary for some years, and a much reduced salary in others, would have had a direct adverse financial impact on both her RRSP funds and her CPP entitlements throughout her retirement years. These are the result notwithstanding her complete success before me. This made the issue and amount that much more important to her. Further, Dr. Martin would have been borne more tax as a result of having deductions to which he was entitled but which the CRA told him he could not take and would not be allowed in the future.
+[21] In my costs decision in Jolly Farmer Products Inc. v. The Queen, 2008 TCC 693, I wrote in conclusion:
+[26] There are perhaps some arguments and some cases that the Canada Revenue Agency just should not pursue. The Crown is not a private party. By reassessing a taxpayer and failing to resolve its objection, the Crown is forcing its citizen/taxpayers to take it to Court. If the Crown’s position does not have a reasonable degree of sustainability, and is in fact entirely rejected, it is entirely appropriate that the Crown should be aware it is proceeding subject to the risk of a possibly increased award of costs against it if it is unsuccessful. The Crown is not a private party and tax litigation is not a dispute like others between two Canadians. This is the government effectively pursuing one of its citizens. There will be many times when the Crown will lose cases in circumstances where prior to the hearing the Crown was not fully aware of the taxpayer’s evidence or could not test its credibility, or could not fully understand the taxpayer’s position. There will be times when the Crown unsuccessfully pursues new or novel arguments. None of those appear to have been the case here. The essential facts do not appear to have been in dispute and there had been lengthy discovery of the taxpayer. As mentioned, the taxpayer’s first settlement letter included a detailed analysis of the taxpayer’s legal position.
+These same comments are equally apt and a relevant consideration in this case.[3]
+[22] A related but separate relevant consideration in fixing costs in this case is that the Respondent had, prior to trial, given Mrs. Martin credit for her unpaid services in the years in which the relevant transfers had been made from Dr. Martin to Mrs. Martin, but refused to recognize as consideration her accrued unpaid services from the immediately preceding years. There was no legal or rational basis for making this distinction and, even when pressed, counsel could not suggest one to put forward. Had the Respondent been consistent or rational in this regard in reassessing Mrs. Martin and recognized this consideration accrued in the immediately preceding years, it would have very significantly wiped out Mrs. Martin’s section 160 assessment. This is a consideration in fixing costs similar to those described in Rule 147(2)(g), (h) and (i).
+[23] CRA was aware that Mrs. Martin was telling the truth about what the prior CRA auditor had told the Martins since the Appeals Officer in this proceeding determined exactly that in the course of reviewing Mrs. Martin’s Objection. After that time, presumed by the parties and the Court for this purpose to be July 2007, Mrs. Martin paid legal fees of approximately $21,000 to Thorsteinssons in pursuing the Objection and for several months after the Report on Objection and the subsequent Reassessment giving rise to this appeal (I see no relevance whatsoever in this case to the time accrued but never billed to Mrs. Martin).
+[24] This is a very unusual, difficult, and hopefully exceptional, case. In the circumstances, I am fixing total costs, including disbursements, payable to the Appellant in the amount of $10,635.
+[25] The Appellant is also entitled to her costs for the costs submissions and hearing in accordance with the Tariff at $700.
+Signed at Ottawa, Canada this 13th day of February 2014.
+"Patrick Boyle"
+Boyle J.
+APPENDIX
+COSTS
+GENERAL PRINCIPLES
+147.(1) The Court may determine the amount of the costs of all parties involved in any proceeding, the allocation of those costs and the persons required to pay them.
+(2) Costs may be awarded to or against the Crown.
+(3) In exercising its discretionary power pursuant to subsection (1) the Court may consider,
+(a) the result of the proceeding,
+(b) the amounts in issue,
+(c) the importance of the issues,
+(d) any offer of settlement made in writing,
+(e) the volume of work,
+(f) the complexity of the issues,
+(g) the conduct of any party that tended to shorten or to lengthen unnecessarily the duration of the proceeding,
+(h) the denial or the neglect or refusal of any party to admit anything that should have been admitted,
+(i) whether any stage in the proceedings was,
+(i) improper, vexatious, or unnecessary, or
+(ii) taken through negligence, mistake or excessive caution,
+(j) any other matter relevant to the question of costs.
+(4) The Court may fix all or part of the costs with or without reference to Schedule II, Tariff B and, further, it may award a lump sum in lieu of or in addition to any taxed costs.
+(5) Notwithstanding any other provision in these rules, the Court has the discretionary power,
+(a) to award or refuse costs in respect of a particular issue or part of a proceeding,
+(b) to award a percentage of taxed costs or award taxed costs up to and for a particular stage of a proceeding, or
+(c) to award all or part of the costs on a solicitor and client basis.
+(6) The Court may give directions to the taxing officer and, without limiting the generality of the foregoing, the Court in any particular proceeding may give directions,
+(a) respecting increases over the amounts specified for the items in Schedule II, Tariff B,
+(b) respecting services rendered or disbursements incurred that are not included in Schedule II, Tariff B, and
+(c) to permit the taxing officer to consider factors other than those specified in section 154 when the costs are taxed.
+(7) Any party may,
+(a) within thirty days after the party has knowledge of the judgment, or
+(b) after the Court has reached a conclusion as to the judgment to be pronounced, at the time of the return of the motion for judgment,
+whether or not the judgment included any direction concerning costs, apply to the Court to request that directions be given to the taxing officer respecting any matter referred to in this section or in sections 148 to 152 or that the Court reconsider its award of costs.
+CITATION: 2014 TCC 50
+COURT FILE NO.: 2011-1635(IT)G
+STYLE OF CAUSE: ELEANOR MARTIN AND THE QUEEN
+REASONS FOR ORDER BY: The Honourable Justice Patrick Boyle
+DATE OF ORDER: February 13, 2014
+APPEARANCES:
+Counsel for the Appellant:
+David Piccolo
+Jonathan Crangle (Student-At-Law)
+Counsel for the Respondent:
+Stan W. McDonald
+COUNSEL OF RECORD:
+For the Appellant:
+Name: David Piccolo
+Jonathan Crangle (Student-At-Law)
+Firm: TaxChambers LLP
+155 University Avenue, Suite 1230
+Toronto, Ontario, M5H 3B7
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] There had been no settlement offers made with respect to Mrs. Martin’s appeal.
+[2] See for example the Federal Court of Appeal in Lau v. The Queen, 2004 FCA 10 and Landry v. The Queen, 2010 FCA 135 and this Court’s decisions in Velcro Canada Inc. v. The Queen, 2012 TCC 273, General Electric Capital Canada Inc. v. R., 2010 TCC 490, Blackburn Radio Inc. v. The Queen, 2013 TCC 98, Sommerer v. The Queen, 2007-2583(IT)G (July 14, 2011, unreported) and most recently my reasons in Spruce Credit Union v. The Queen, 2014 TCC 42.
+[3] In Walsh v. The Queen, 2010 TCC 125, Justice Sheridan similarly treated this as a relevant consideration in awarding costs.

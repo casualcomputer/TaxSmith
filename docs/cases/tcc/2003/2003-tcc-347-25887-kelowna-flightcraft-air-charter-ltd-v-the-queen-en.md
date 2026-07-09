@@ -1,0 +1,341 @@
+---
+title: "Kelowna Flightcraft Air Charter Ltd. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25887/index.do"
+last_modified: "2003-05-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 347"
+citation2: ""
+neutral_citation: "2003 TCC 347"
+decision_date: "2003-05-20"
+language: "en"
+item_id: "25887"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3786
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:08:38.889000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5fdf4aad02599ec5e141044b3aaf93235ea939788676c8d087022cafe49bca87"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kelowna Flightcraft Air Charter Ltd. v. The Queen
+
+- Citation: 2003 TCC 347
+- Decision date: 2003-05-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3786, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kelowna Flightcraft Air Charter Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-05-20
+Neutral citation
+2003 TCC 347
+File numbers
+2002-248(IT)G
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-248(IT)G
+BETWEEN:
+KELOWNA FLIGHTCRAFT AIR CHARTER LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 5, 2003 at Kelowna, British Columbia
+Before: The Honourable Judge D.W. Beaubier
+Appearances:
+Agent for the Appellant:
+H. George McKenzie, Q.C.
+Counsel for the Respondent:
+R. Scott McDougall
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 1996, 1997 and 1998 taxation years are allowed and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+The Appellant is awarded party and party costs.
+Signed at Ottawa, Canada this 20th day of May 2003.
+"D.W. Beaubier"
+J.T.C.C.
+Citation: 2003TCC347
+Date: 20030520
+Docket: 2002-248(IT)G
+BETWEEN:
+KELOWNA FLIGHTCRAFT AIR CHARTER LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+REASONS FOR JUDGMENT
+Beaubier, J.T.C.C.
+[1] This appeal pursuant to the General Procedure was heard at Kelowna, British Columbia, on May 5, 2003. Barrie Lapointe, President and Chief Operating Officer of the Appellant at all material times was the only witness.
+[2] The parties filed an Agreed Statement of Facts, as Exhibit AR-1, which reads:
+AGREED STATEMENT OF FACTS (PARTIAL)
+The Parties hereto, by their respective counsel, agree that the following are, for the purposes of this appeal only, facts upon which the Court can base its decision. The Parties shall be free to introduce additional facts in evidence at trial provided that those facts sought to be introduced in evidence at trial do not contradict in any way the truth of the facts agreed to herein.
+A. MATERIAL FACTS RELIED ON
+Per Diem Allowance
+1. The Appellant is a "taxable Canadian corporation" within the meaning of the Income Tax Act, R.S.A. 1985, c. 1 (5th Supp.), as amended (the "Act").
+2. The fiscal year end of the Appellant is December 31 in each year.
+3. The Appellant carries on an aircraft charter business (the "Business") in Canada from its head office at the Kelowna Airport in British Columbia.
+4. During the relevant time period, the Appellant owned a Boeing 727 aircraft (the "Aircraft") and operated an air charter business providing daily cargo service for Purolator Courier Ltd. ("Purolator") across Canada, daily charter services and west coast fishing charters.
+5. During the relevant period, the Appellant chartered Aircraft to Greyhound Canada Transportation Corporation ("Greyhound").
+6. In addition to the Aircraft themselves, the Appellant provided the pilots and flight attendants (collectively the "Flight Crew") who operate the Aircraft chartered to the Appellant's customers.
+7. The Flight Crew were entitled to and were paid a per diem allowance (the "Per Diem") to compensate them for meal and incidental expenses which they incurred in the performance of their duties away from their home base location.
+8. The amount of the Per Diem was reasonable in the circumstances and was calculated based on the number of hours an employee spent away from his or her home base location as follows:
+Hours Away Per Diem
+0 - 4 0
+4 - 8 $11
+8 - 12 $21
+12 - 24 $42
+9. The Per Diem was the same regardless of whether travel occurred over the breakfast, lunch or supper periods.
+10. The meal portion of the Per Diem amounts paid in each year by the Appellant was as follows:
+1996
+1997
+1998
+Total Per Diem Paid
+$664,654
+$853,669
+$626,000
+Meal Portion @ 81%
+$538,370
+$691,472
+$507,060
+11. Other employees of the Appellant working at their home base location did not receive the Per Diem nor have their meals paid for by the Appellant.
+Quiet Wing System
+12. In 1990, the United States Congress passed the Aviation Noise Capacity Act of 1990 which required all commercial jet aircraft weighing over 75,000 pounds operating in the United States to meet noise reduction requirements by December 31, 1999 (the "Stage 3 Regulations").
+13. The Stage 3 Regulations were administered in the United States by the Federal Aviation Authority ("FAA").
+14. The Stage 3 Regulations were adopted in Canada and enforced by Transport Canada.
+15. The Appellant's 727 aircraft were jet aircraft weighing over 75,000 pounds.
+16. In 1997 and 1998, the Appellant purchased and installed the Quiet Wing System ("QWS") built by Dugan Air Technologies Inc. (now Quiet Wing Systems Inc.) ("Dugan") on three of its aircraft.
+17. The primary purpose of QWS is to enable the aircraft to meet the noise standards mandated by the FAA and Transport Canada at airports in North America.
+18. The cost of purchasing and installing the QWS varied between each aircraft as follows:
+Aircraft
+C-GKFN
+Total
+C-GKFC
+Total
+C-GKFT
+Total
+1997
+Mixer purchase
+Deposit on winglets
+Final on winglets
+Subtotal
+Exch @ 1.37
+CAD Total
+1998
+Misc parts
+Deposit on winglets
+Misc parts
+Subtotal
+Deposit on winglets
+Instalment on kit
+Subtotal
+Exch @ 1.40
+CAD Total
+Labour*
+Total
+155,294
+200,000
+395,000
+750,294
+277,609
+63,690
+25,476
+45,000
+1,027,903
+89,166
+________
+1,162,069
+50,000
+439,940
+75,500
+565,440
+226,176
+45,000
+791,616
+_________
+836,616
+38,690
+50,000
+100,000
+188,690
+75,476
+264,166
+___________
+264,166
+* estimate of labour cost made by CCRA auditor.
+19. The component parts of the QWS are affixed to the aircraft and have no function independent of the aircraft on which they are installed. Once installed, the QWS forms an integral part of the aircraft.
+20. The Appellant purchased and installed the QWS on its aircraft to meet the Stage 3 Regulations in Canada and the U.S.
+21. The aircraft on which the QWS were installed could not have operated in Canada or the United States in compliance with the Stage 3 Regulations without the QWS or some similar noise abatement system.
+22. In filing its return of income for each of its 1996, 1997 and 1998 taxation years, the Appellant deducted the full amount of the Per Diem and deducted the cost of the QWS as a current expense in calculating its income both for accounting and for tax purposes.
+23. By Notices of Reassessment dated June 7, 2000 for each of its 1996, 1997 and 1998 taxation years (the "Reassessments"), the Minister of National Revenue ("Minister") reassessed the Appellant by:
+(a) attributing 81% of the Per Diem to the consumption of food or beverages and reducing the amount deductible in respect of that 81% portion of the Per Diem paid to the Flight Crew by 50% thereby disallowing the following deductions:
+1996 $269,185
+1997 $345,736
+1998 $253,530; and
+(b) treating the costs of the QWS as a capital expenditure by adding them to its Class 9 assets and denying them as a current expense as follows;
+1997 $1,072,903
+1998 $1,189,948; and
+(c) increasing the Appellant's capital cost allowance deduction in respect of its Class 9 assets.
+24. The Appellant filed a Notice of Objection to each of the Reassessments in prescribed form and within the time prescribed by the Act.
+25. By Notice of Confirmation dated October 23, 2001, the Minister confirmed the Reassessments.
+[3] In addition, the issues described by both parties are summarized in Section D of the Notice of Appeal which reads:
+D. ISSUES TO BE DECIDED
+There are two issues to be decided in this appeal. They are:
+I. Per Diem Allowance
+Is the deduction by the Appellant of the full amount of the Per Diem limited by any provision of the Act, and in particular, section 67.1?
+II. Quiet Wing System
+Are the costs of installing the QWS a current expense deductible in calculating income in the year incurred or are they expenditures incurred on capital account to be added to a class of depreciable assets of the Appellant.
+[4] Paragraph 10 of the Reply to the Notice of Appeal reads:
+10. In so reassessing the Appellant for the 1996, 1997, 1998 Taxation Years, the Minister relied on, inter alia, the following assumptions of fact:
+a) the Appellant operates an air charter business, providing daily cargo service for Purolator Courier Ltd. across Canada, local charter services and west coast fishing charters. In 1996 and 1997, the Appellant provided aircraft, services and personnel to Greyhound Air;
+b) the Appellant's head office is at the Kelowna Airport ("Home Terminal") in British Columbia;
+c) at the material time, the majority of the Appellant's travelling employees were pilots and flight attendants (the "Flight Crews");
+d) the work location of the majority of the Flight Crews was the Home Terminal;
+e) the Flight Crews were entitled to a per diem when travelling on business (the "Per Diem");
+f) the typical trip for a member of a Flight Crew was four days long;
+g) the Per Diem was calculated based on the number of hours an employee spent away from his or her permanent place of residence;
+Hours away Per diem
+0 - 4
+0
+4 - 8 $11
+8 - 12 $21
+12 - 24 $42
+h) the Per Diem was the same regardless of whether travel occurred over breakfast, lunch or supper periods;
+i) 81% of the Per Diem was for meals;
+j) 19% of the Per Diem was for incidentals;
+k) the meal portion of the Per Diem amounts paid in each Taxation Year by the Appellant was as follows:
+1996
+1997
+1998
+Total Per Diem amount paid
+$664,654
+$853,669
+$626,000
+Meal portion @ 81%
+$538,370
+$691,472
+$507,060
+l) other employees of the Appellant working at the Home Terminal did not receive Per Diems or have their meals paid for by the Appellant;
+m) the Appellant did not identify the cost of meals in the invoices issued to its customers;
+n) the Appellant billed its primary customer, Purolator, monthly, on the basis of air miles flown;
+o) a typical monthly invoice set out number of miles flown, rate per mile and the aggregate amount billed;
+Quiet Wing System (QWS)
+p) in 1997 and 1998, the Appellant installed QWS kits complete with winglets on some of its Boeing 727 aircraft;
+q) the primary purpose of the QWS is to reduce the engine noise of aircraft to meet lower noise standards mandated by regulation and required by airports in North America;
+r) QWS installation uses new technology that improves and upgrades an aircraft by changing its aerodynamic qualities to make it quieter and increase fuel efficiency, range, payload capacity and altitude;
+s) the installation of QWS is a substantial addition to an aircraft;
+t) QWS provides a benefit lasting more than one year;
+u) QWS installation is a one-time transaction that has a significant cost relative to the cost of an aircraft;
+v) QWS is a one-time expenditure as opposed to a recurring expenditure for replacement or renewal of a specific item;
+w) QWS enhances the performance and economically extends the useful life of an aircraft by improving the aircraft to make it quieter and more aerodynamic as opposed to merely restoring the aircraft to its original condition;
+x) QWS has a long useful life relative to the entire aircraft and does not require frequent replacement or repair due to wear or damage;
+y) QWS has its own operating certification from the FAA;
+z) the QWS installation does not constitute a repair;
+aa) the QWS installation does not constitute replacement of an existing component in the aircraft;
+bb) the QWS installation does not restore aircraft to their original condition;
+cc) Canadian aviation regulations define "repairs", "major repairs" and "major modifications";
+dd) pursuant to the Canadian aviation regulations, the QWS installation is a "major modification";
+ee) the Appellant purchased the QWS with the intention of earning income for many years.
+[5] Assumptions 10 a), b), c), d), e), f), g), h), j), k), l), m), n), o), p), q), w), cc), dd) and ee) were not refuted by the evidence.
+[6] In the portion that follows, these reasons will deal with the issues in the order in which the parties have set them out - first, the per diem ("Per Diem") and second, the Quiet Wing System (the "QWS").
+[7] The Per Diem question turns on subsection 67.1(1) and paragraphs 67.1(2)(c) and (e) of the Income Tax Act (the "Act") as they read for the 1996, 1997 and 1998 years. They read:
+67.1(1) Expenses for food, etc. - For the purposes of this Act, other than sections 62, 63 and 118.2 an amount paid or payable in respect of the human consumption of food or beverages or the enjoyment of entertainment shall be deemed to be 50% of the lesser of
+(a) the amount actually paid or payable in respect thereof, and
+(b) an amount in respect thereof that would be reasonable in the circumstances.
+(2) Exceptions - Subsection (1) does not apply to an amount paid or payable by a person in respect of the consumption of food or beverages or the enjoyment of entertainment where the amount ...
+(c) is an amount for which the person is compensated and the amount of the compensation is reasonable and specifically identified in writing to the person paying the compensation;
+...
+(e) is incurred by the person for food, beverages or entertainment generally available to all individuals employed by the person at a particular place of business of the person and consumed or enjoyed by such individuals.
+[8] This case falls into the exceptions in both paragraphs (c) and (e) because:
+(c) The amounts of compensation were reasonable. They were paid to the flight crew while travelling away from their home base pursuant to arm's length contracts negotiated with the employees who received payment and pursuant to arm's length contracts with Purolator Courier Ltd. ("Purolator") and Greyhound Canada Transportation Corporation ("Greyhound"), both of which reimbursed the Appellant for the amounts paid to the employees under contract to do so. In circumstances where the Appellant has such contracts on both sides, it ill behooves a Court to find it other than reasonable. The Respondent agreed that there was no entertainment factor in the amounts. The Appellant paid the employees (who totalled a few hundred) and then billed Purolator and Greyhound for the lump sum paid out at the end of each calendar month in gross bills with accompanying accounts of "food" et cetera. The Respondent's position is that this does not specifically, identify in writing to Purolator or Greyhound the amount for which it is to be compensated. The billing states what it is for, the time period it is for, and the amount due pursuant to the contract. That constitutes specific identification in writing. The ultimate proof of that is that the bills were paid by Purolator and by Greyhound.
+(e) Similarly, these expenditures were for food and beverages for employed flight crews away from home base, but in the Appellant's aircraft which was the Appellant's place of business. In this mobile day and age, particularly in the transport business, one does not expect that the old-fashioned cook house or construction camp or a similar permanent establishment constitutes the only "place of business" as that is meant in the modern Act. A place of business is a place where the Appellant earns income or expects to earn income. These aircraft and crews were earners; they were not pushing paper in some secondary or tertiary way back in an office to produce income for the Appellant. Rather, they were pushing the product itself - the aircraft that did the transporting, that earned the income, that produced the profit. The flight crew themselves had no other premises that they were to be at than the Appellant's aircraft at the points where the amounts in question were incurred by them.
+[9] Therefore, the Appellant is allowed to deduct as an expense the full amounts in respect of Per Diems which it claimed. They were specifically excepted from any limitation by the provision of paragraphs 67.1(2)(c) and (e) and this matter is referred to the Minister of National Revenue (the "Minister") for reconsideration and reassessment accordingly.
+[10] The second issue is whether installing the QWS is a current expense deductible in calculating income in the year incurred.
+[11] This system consists of three components:
+1. The Mixer - This is simply a titanium ring, or pipe, bolted into the tail pipe of the central (#2) engine of a Boeing 727. Due to the tremendous heat at this point, it has had to be replaced from time to time. It mixes some cool air with the hot exhaust air and further focuses the exhaust so as to burn hydrocarbons and so as to restrict the breadth of the "footprint" of sound, particularly during take off, landing and approach.
+2. Winglets - These consist of small new wing tips that were replaced on the outside one-foot or so of each wing and which direct more air over the wing surface so that, in essence, the air does not fall off the end of the wing. They provide added lift to the wing and thereby reduce drag. In at least one instance a winglet had to be replaced when it was struck while one of these aircrafts was on the ground.
+3. Flaps - This was a change of approximately 2 degrees to the flaps. The flap system then allowed the aircraft to climb at a higher rate and a slower speed. In this way it got out of the "footprint" faster at lower engine RPMs.
+[12] The sole purpose of the QWS and its purchase and installation by the Appellant was to reduce the aircrafts' noise level on take off, approach and landing. If it had not been installed, the Appellant could not have flown these aircraft to earn money. Pursuant to "Stage 3 Regulations" the Boeing 727's flown by the Appellant under contracts were required to reduce their noise pollution on take off, approach and landing over a designated "footprint" by an accumulative 2 to 3%. This was required to be done in stages, commencing with 25%, of the fleet in the first stage. It is this 25% or three aircraft, which is the issue in this case.
+[13] The QWS was advertised as reducing fuel consumption, increasing range and other reputed advantages in relation to the use of the F17 engine. That is not the engine that the Appellant had on its Boeing 727's. The Appellant, which was not using its aircraft for long hauls, except between Hamilton, Ontario and Winnipeg, Manitoba, did not experience any of these advantages from the QWS except the required reduction in noise. Moreover, its contracts with customers required the customers to reimburse the Appellant for fuel consumed.
+[14] The installation of the QWS system did not change the value of the three aircraft on which it was installed or alter their operating life. The system merely allowed the aircraft to maintain their normal values and to continue operating under the new noise regulations in the same way as they had done in the past. They enabled the then current operations of the aircraft on which they were installed to continue. The expenditure was not a one-time occurrence since some of the parts of the QWS have since had to be replaced and the noise regulations in force to date, in Stages 1, 2 and 3, have since been followed by the proposed Stage 4 which may make the Stage 3 components completely obsolete (Stage 4, as it is now enforced in Europe prevents any of the aircraft in question in this case being flown in Europe because these Stage 3 installations are after-market equipment.) Based on the testimony of Mr. Lapointe, the Court finds that the Stage 3 modifications had no intrinsic value on the aircraft once they were installed. However, the components can be dismantled from an aircraft and installed on another aircraft. The Appellant has done this on an aircraft which it sold for service in Africa. But in any event, the installation of the Stage 3 components on an aircraft does not have any permanent value beyond the life and value of the aircraft itself. Each of these aircraft could have continued operating just as well without the Stage 3 installation, but they could not, at that time, have operated in Canada or the United States. The actual productivity of the aircraft did not change. The total amount of weight that Stage 3 added to each aircraft amounted to 200 or 300 pounds total in addition, in the case of the Model 100 aircraft, to a gross weight of 132,000 pounds and a maximum take off weight of 169,500 pounds. (The Model 200 has 8,000 pounds more maximum weight, but the Stage 3 QWS for it apparently weighs the same as that for the Model 100.)
+[15] The relative dollar figures respecting the aircraft in question are summarized in the following table:
+GKFN
+GKFC
+GKFT
+1. Original cost of aircraft to Appellant
+(second-hand)
+$3,480,000
+$3,926,000
+$3,900,000 (approx.)
+2. Approximate Net Book Value
+December 31, 1996
+$3,000,000
+$3,000,000
+$2,800,000
+3. Cost of Stage 3 installation
+(Agreed Facts)
+$1,162,069
+$836,616
+$264,166
+However, it appears from the Agreed Statement of Facts (Exhibit AR-1), that these can be averaged among these three aircraft, since the Appellant was the first to install the QWS in the world. The average cost to install the QWS was $754,284 for the three aircraft - about 25% of their net book values at the time the QWS was installed as described in the Agreed Statement of Facts.
+[16] Finally, the QWS has no function at all without the Boeing 727 aircraft. The Boeing 727 could, and does, function without the QWS. After installation of the QWS the entire structure and operability of each of these aircraft continued, as before, as an operating aircraft with a slightly reduced sound "foot print".
+[17] In the foregoing circumstances, the installation of the QWS constitutes an operating expense. (See Canada Steamship Lines Limited v. Minister of National Revenue, [1966] C.T.C. 255, Johns-Manville Canada Inc. v. Her Majesty the Queen, [1985] 2 S.C.R. 46, and Canaport Limited v. Her Majesty the Queen, [1993] 2 C.T.C. 2830.)
+[18] The appeal is allowed in its entirety. These matters are referred back to the Minister for reconsideration and reassessment pursuant to these reasons.
+[19] The Appellant is awarded party and party costs.
+Signed at Ottawa, Canada, this 20th day of May, 2003.
+"D.W. Beaubier"
+J.T.C.C.
+CITATION NO:
+COURT FILE NO.:
+2003TCC347
+2002-248(IT)G
+STYLE OF CAUSE:
+Kelowna Flightcraft Air Charter Ltd. v. The Queen
+PLACE OF HEARING
+Kelowna, British Columbia
+DATE OF HEARING
+May 5, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Judge D. W. Beaubier
+DATE OF JUDGMENT
+May 20, 2003
+APPEARANCES:
+Agent for the Appellant
+H. George McKenzie, Q.C.
+Counsel for the Respondent:
+R. Scott McDougall
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

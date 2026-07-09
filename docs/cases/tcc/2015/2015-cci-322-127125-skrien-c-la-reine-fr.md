@@ -1,0 +1,148 @@
+---
+title: "Skrien c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/127125/index.do"
+last_modified: "2015-12-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 CCI 322"
+citation2: ""
+neutral_citation: "2015 CCI 322"
+decision_date: "2015-12-10"
+language: "fr"
+item_id: "127125"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3036
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:14:22.250000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "59d4e77b6e740ed7d63f6b98c185fc860d5e4961898f41fe237047402e03e649"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Skrien c. La Reine
+
+- Citation: 2015 CCI 322
+- Decision date: 2015-12-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3036, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Skrien c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-12-10
+Référence neutre
+2015 CCI 322
+Numéro de dossier
+2014-2687(IT)I
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2014-2687(IT)I
+ENTRE :
+KRISTINA SKRIEN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 13 novembre 2015, à Moncton (Nouveau-Brunswick)
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Représentant de l’appelante :
+M. Donald G. Mitchener, FCPA, FCA
+Avocat de l’intimée :
+Me Jan Jensen
+JUGEMENT
+L’appel à l’encontre des nouvelles cotisations établies à l’égard de l’appelante pour l’année d’imposition 2012 en vertu de la Loi de l’impôt sur le revenu est rejeté.
+Signé à Ottawa, Canada, ce 10e jour de décembre 2015.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 15e jour de janvier 2016.
+Johanne Matte
+Référence : 2015CCI322
+Date : 20151210
+Dossier : 2014-2687(IT)I
+ENTRE :
+KRISTINA SKRIEN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge V.A. Miller
+[1] La question à trancher dans le présent appel consiste à savoir si l’appelante a droit à une déduction de 1 530 $ au titre des frais de déménagement en vertu de l’alinéa 62(3)c) de la Loi de l’impôt sur le revenu (la « LIR »).
+[2] L’appelante n’a pas comparu à l’audition de son appel, mais elle était représentée par Donald G. Mitchener, FCPA, FCA. Aucun témoin n’a comparu, aucun document n’a été présenté en preuve, et M. Mitchener est allé de l’avant quant à l’appel en se fondant uniquement sur un argument juridique.
+[3] En 2012, l’appelante et son conjoint ont quitté Saskatoon, en Saskatchewan, pour s’installer à Guelph, en Ontario. Le ministre du Revenu national (le « ministre ») a admis que le déménagement de l’appelante constituait une « réinstallation admissible » au sens du paragraphe 248(1) de la LIR. L’appelante a demandé la déduction de la totalité des frais de déménagement, soit 5 616,63 $, et elle a été autorisée à déduire 4 086,63 $. La déduction accordée par le ministre portait sur des frais de transport et d’entreposage des meubles, des frais de déplacement, des frais de logement pour trois nuits et des frais de repas pour trois jours. Dans son total des frais de déménagement, l’appelante a également demandé une déduction de 1 530 $ au titre des frais de subsistance temporaire. Ce montant a été obtenu par le calcul des frais de repas de 51 $ par jour pendant une période de 15 jours pour l’appelante et son conjoint. Mme Skrien n’a pas demandé de déduction au titre des frais de logement pour ces 15 jours.
+[4] Le ministre a refusé la déduction de 1 530 $ au motif que l’appelante n’avait pas engagé des frais de subsistance temporaire.
+[5] L’alinéa 62(3)c) de la LIR prévoit que les frais de subsistance temporaire font partie des frais de déménagement. Il est rédigé ainsi :
+62(3) Pour l’application du paragraphe (1), sont comprises dans les frais de déménagement toutes dépenses engagées au titre :
+[…]
+c) des frais de repas et de logement, près de l’ancienne résidence ou de la nouvelle résidence, engagés par le contribuable et les membres de sa maisonnée pendant une période maximale de 15 jours;
+La position de l’appelante [6] Selon l’appelante, il n’était pas nécessaire de prouver que les frais de subsistance temporaire avaient effectivement été engagés. M. Mitchener a fait valoir que cet alinéa de la LIR est appliqué par l’Agence du revenu du Canada (l’« ARC ») de sorte qu’il donne lieu à une présomption irréfutable selon laquelle les dépenses ont été engagées. Le représentant de l’appelante explique que, pour l’application de l’alinéa 62(3)c), le seul critère qui entre en ligne de compte est celui ayant trait à la « réinstallation admissible ». Lorsqu’il est admis qu’il s’agit d’une « réinstallation admissible », le contribuable peut demander la déduction des frais de repas et de logement pour une période de 15 jours. Les jours n’ont pas à être consécutifs, et il n’est pas nécessaire de présenter des reçus lorsque la méthode simplifiée est utilisée.
+[7] Pour appuyer la position de l’appelante, M. Mitchener s’est fondé sur un communiqué de presse daté du 14 décembre 1999 provenant de l’Agence des douanes et du revenu du Canada (l’« ADRC »), que l’on appelle maintenant l’ARC. Selon le communiqué de presse, l’ARC a annoncé que les contribuables auraient la possibilité de choisir d’utiliser une méthode de calcul détaillée ou simplifiée pour le calcul de certaines dépenses de déplacement liées à un déménagement à compter de 1999. L’utilisation de la méthode détaillée signifiait que le contribuable devait conserver ses reçus et les présenter sur demande. L’utilisation de la méthode simplifiée signifiait que le contribuable pouvait se servir de divers taux fixes établis à l’avance. Plus particulièrement, il existait un taux prescrit pour les dépenses liées au kilométrage et un pour les repas. En 2012, le taux fixe pour les repas était de 51 $ par personne, par jour.
+[8] M. Mitchener s’est également fondé sur le Bulletin d’interprétation IT‑178R3, lequel expliquait également les options simplifiée et détaillée qui s’offraient au contribuable au moment de demander la déduction de diverses dépenses de déménagement.
+[9] M. Mitchener a fait valoir que sa cliente avait effectivement engagé des frais de repas, mais qu’elle avait utilisé la méthode simplifiée pour calculer ceux-ci, conformément au communiqué de presse de l’ARC. L’appelante n’avait aucun reçu. En conclusion, il a soutenu ce qui suit : l’alinéa 62(3)c) permettait à l’appelante de demander la déduction des frais de repas pour une période de 15 jours; l’alinéa n’exigeait pas que la contribuable ait engagé des dépenses pour en demander la déduction; l’appelante pouvait demander la déduction des frais de repas sans demander la déduction des frais de logement, et l’alinéa 62(3)c) ne contenait pas le mot « temporaire » pour qualifier l’expression « de repas et de logement ».
+La position de l’intimée [10] L’avocat de l’intimée a reconnu que l’ARC avait établi une méthode simplifiée qui pouvait être utilisée par les contribuables pour calculer leurs frais de déménagement. Il s’agit d’une méthode qui permet aux contribuables de calculer leurs frais de repas et de kilométrage en utilisant des taux prescrits. Il n’est pas nécessaire de présenter de reçus. Cependant, les frais doivent avoir été engagés. L’avocat fait valoir que l’appelante a le fardeau de prouver que les frais de déménagement dont elle demande la déduction ont véritablement été engagés.
+Analyse [11] Je suis d’accord avec l’avocat de l’intimée.
+[12] La disposition législative pertinente dans le cadre du présent appel est l’alinéa 62(3)c). L’alinéa exige clairement que les « frais de déménagement » soient engagés. La phrase introductive du paragraphe 62(3) est la suivante : « […] sont comprises dans les frais de déménagement toutes dépenses engagées […] ». Le contribuable effectue une dépense lorsqu’il a l’obligation juridique de payer une somme d’argent : Wawang Forest Products Ltd. c R., 2001 CAF 80, au paragraphe 9. Par conséquent, je ne souscris pas au postulat de M. Mitchener selon lequel un contribuable peut toujours demander la déduction des frais de repas pour une période de 15 jours lorsqu’il est admis que sa réinstallation constitue une « réinstallation admissible ». Ces frais de repas doivent avoir été engagés conformément à l’alinéa 62(3)c).
+[13] M. Mitchener a également fait valoir que l’appelante peut demander la déduction des frais de repas sans demander la déduction des frais de logement. Je ne suis pas d’accord. Selon moi, l’alinéa 62(3)c) permet la déduction des frais de subsistance temporaire de façon similaire aux « frais de repas et de logement ». L’appelante ne peut pas habiter dans sa propre maison et demander seulement la déduction des frais de repas. Les dépenses dont la déduction est permise en vertu de l’alinéa 62(3)c) sont celles qui sont engagées lorsque les contribuables doivent vivre dans des logements temporaires, près de leur ancienne résidence ou de leur nouvelle résidence, et non dans leur ancienne ou leur nouvelle résidence.
+[14] L’appelante ne peut se fonder sur l’alinéa 62(3)c) que si elle a engagé des dépenses au titre des frais de subsistance temporaire. Elle est tenue de soumettre des reçus en ce qui a trait au logement, même si elle a utilisé la méthode simplifiée pour calculer ses frais de repas. Les reçus pour le logement auraient appuyé la position de l’appelante selon laquelle elle a engagé des frais de repas.
+[15] L’alinéa 62(3)c) ne comporte pas le mot « temporaire », mais il est clair qu’il renvoie à des frais de subsistance temporaire, car il ne porte que sur les dépenses engagées pour une période maximale de 15 jours. La période maximale relative aux frais de repas et de logement près de l’ancienne et de la nouvelle résidence est de 15 jours. Il s’agit de dépenses qui sont engagées pour une courte période ou pour une période temporaire.
+[16] En conclusion, l’appelante a utilisé la méthode simplifiée pour demander la déduction des frais de déménagement et n’a pas eu à produire de reçus pour les frais de repas, mais elle était tenue de le faire pour les frais de logement. Il semble qu’elle n’ait pas engagé de frais de logement près de son ancienne ou de sa nouvelle résidence. Selon moi, l’alinéa 62(3)c) n’est pas applicable compte tenu des circonstances du présent appel. Pour tous ces motifs, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 10e jour de décembre 2015.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 15e jour de janvier 2016.
+Johanne Matte
+RÉFÉRENCE :
+2015CCI322
+Nº DU DOSSIER DE LA COUR :
+2014-2687(IT)I
+INTITULÉ :
+KRISTINA SKRIEN ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Moncton (Nouveau-Brunswick)
+DATE DE L’AUDIENCE :
+Le 13 novembre 2015
+MOTIFS DU JUGEMENT :
+L’honorable juge Valerie Miller
+DATE DU JUGEMENT :
+Le 10 décembre 2015
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Donald G. Mitchener, FCPA, FCA
+Avocat de l’intimée :
+Me Jan Jensen
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

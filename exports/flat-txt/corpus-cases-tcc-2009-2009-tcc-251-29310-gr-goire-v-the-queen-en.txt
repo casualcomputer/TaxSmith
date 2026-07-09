@@ -1,0 +1,76 @@
+Title: Grégoire v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29310/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-251-29310-gr-goire-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-03-12
+
+# Grégoire v. The Queen
+
+- Citation: 2009 TCC 251
+- Decision date: 2009-03-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7049, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Grégoire v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-03-12
+Neutral citation
+2009 TCC 251
+File numbers
+2002-1776(IT)I, 2003-99(IT)G
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+TAX COURT OF CANADA
+RE INCOME TAX ACT
+2002-1776(IT)I
+2003-99(IT)G
+BETWEEN: LISE GRÉGOIRE
+ANDRÉ LEFRANÇOIS
+Appellants
+-and-
+HER MAJESTY THE QUEEN
+Respondent
+[OFFICIAL ENGLISH TRANSLATION]
+Held before the Honourable Justice ALAIN TARDIF, Tax Court of Canada, in the offices of the Courts Administration Service, Montréal, Quebec, on March 12, 2009.
+--------------------
+REASONS FOR JUDGMENT
+APPEARANCES:
+PIERRE ROBILLARD
+For the appellants
+CHRISTINA HAM
+For the respondent
+Registrar/Technician: Josette Langlois
+RIOPEL, GAGNON, LAROSE & ASSOCIÉS
+215 Saint-Jacques St.
+Suite 328
+Montréal, Quebec
+H2Y 1M6
+IT-5258 Per: JEAN LAROSE
+START OF REASONS FOR JUDGMENT: 9:40 a.m.
+HIS HONOUR: Listen, from the very beginning, Mr. Lefrançois indicated that he was a guidance counsellor at the Université du Québec in Hull. He also stated that he was trained as a real estate agent. His spouse indicated that she was a retired teacher. The least we can say is these are two people with above-average educations. That statement is indisputable, inescapable.
+One day, this couple decided to invest in the real estate market, since they not only were obviously educated, but Mr. Lefrançois also had specialized training in real estate. They knew the rules, they knew the field, and so they made a purchase of – we don’t exactly know of how many – but I understood that Mr. Lefrançois had several and Ms. Grégoire had two.
+The question is irrelevant and it isn’t being raised, except that, from what I understood, Ms. Grégoire was more of a figurehead than anything, because it seems she didn’t care or cared very little about how things were being managed. She fully trusted her spouse. She said: [Translation] “We talked about it, discussed it,” but, evidently, her spouse made all the decisions. I believe he had complete power over everything that concerned the two properties.
+At one point, for altogether legitimate reasons, they decided to take certain actions on the advice of a notary - to refer to his testimony – or even of a tax specialist. And so a property was transferred to Ms. Grégoire.
+I noticed that, very often in his testimony, Mr. Lefrançois spoke as if his spouse’s two properties belonged to him. I even remarked on it once or twice: he spoke about his spouse’s properties as if they were his. That makes sense since he managed them exactly as though those two properties were his.
+The issue or issues on appeal are related to expenses. As you know, a person who owns a property and a residence is entitled to some benefits with respect to his rental property, but not to his residential property. So, normally, a person with even minimal knowledge, knowing that he is entitled to expenses, would – even if he doesn’t have a special book for his property – would have a folder where he would put all his bills. That is not a big problem while he owns only one property. The only issue that could arise from a situation like that is whether the expenses claimed for the property are personal in nature or whether they can be attributed to the rental property. It’s a relatively simple distinction to make: there is the residence and then there is the income property.
+Thus, in cases like that, especially since people in those types of situations tend to have little or not much experience, it’s understandable, although they may not follow the best model, it’s understandable. It may be acceptable, because it can be verified; it may take a little longer, but it is likely to give reliable results. In this case, however, it’s not like that, not like that at all. In this case, there is a couple that owns several properties, two of which are identified, defined; two of which we know about. There are apparently other properties, the number of which was never established, but there are other ones. So, I think it can be assumed that there are several properties. Mr. Lefrançois manages them exactly as though they were all his. There is already a first . . . there is already a first reaction, a feeling: does this expense go with 1 McGill, 10 McGill or 30 McGill? This is a reaction that, in my opinion, is basic, especially if we recall my statement at the beginning of this judgment. These are not laypersons. These people are not illiterate. These are two very educated people, who probably have very extensive knowledge. Despite this, they take their expenses without noting on the invoices which property they apply to, which property they were incurred for, and put them all into one folder – not two, three, four or five folders, which is to say, a folder per property – but one folder, all jumbled together in one folder. Then, they say: “Look, it’s easy. It takes five gallons (5 gal.) of paint to do one apartment.” There are ten (10), so it was used for two properties, but which properties? In other words, expenses are attributed to this property or that in a very arbitrary and completely unacceptable way. Then it gets more complicated; then it gets much worse because some of the properties belong to Mr. Lefrançois and some to Ms. Grégoire, but despite that fact, everything is confused and everything is jumbled together.
+I think that to accept Mr. Lefrançois’s explanations, which, incidentally, were for the most part rather difficult to understand, confusing, unclear, and sometimes downright incomprehensible, even though we know that he is a guidance counsellor at the Université du Québec. He was asked to explain the situation, and the answers he gave – listen, I intervened, I didn’t understand the answers. I believe that, in certain situations, even you, who had prepared this case, based on some of the question you formulated and asked your client, you could not understand his answers.
+Among other things, he completely mixed up the start of the audit, referring to September, even though the draft assessment was what he had received in September. He talked about a half‑basement, then he contradicted himself when counsel wanted to know what a half-basement was. I wanted to intervene then by saying: “Listen, let’s stop right there and ask for the transcript.” He definitely said three or four times that there had been a flood and that all the papers were in the half-basement. It was such an obvious contradiction, such a surprising kind of confusion that, at one point, I was thinking that what often happens is people get nervous when testifying. They are not used to appearing in Court; it’s not something they do on a daily or weekly basis. That could explain, could justify a certain nervousness. This nervousness, this discomfort could cause one to be less precise, less articulate than he would like. But Mr. Lefrançois is not a shy man. Mr. Lefrançois is not someone to be intimidated. He is not someone who is quote end quote, a docile person (not in a negative sense). Mr. Lefrançois is someone who knows what he wants, knows where he is going and exactly what to expect. Thus, based on the appellant’s personality, it becomes extremely difficult to understand some of his very unclear explanations.
+I understand, I see what happened in this situation. It’s a situation, which, regretfully, is found regularly in cases like this one. It is assumed that the confusion, the disorder, the absence of accounting and records is a behaviour, an approach that works well, that works well and that is very profitable. Because when they are faced with an audit, and it’s an indescribable mess, they claim that there was, in his case, a flood, and he insisted on that a great great great deal, they offer various explanations in order to try in some way to get a little consideration from the persons performing the audit. They offer a whole series of explanations, and I have to tell you that very often this works well for the people who play that card. To find in favour of Mr. Lefrançois would be to enshrine the principle that confusion, disorder and the absence of records is the correct approach to tax matters. And you will understand that I refuse, I outright refuse to condone such confusion, such incoherence by taking into consideration the explanations that, in my opinion, remain unclear and confused.
+As for section 42, I believe it applies in the exact way that the auditor applied it. And finally, the question of interest. Concerning the question of interest, I will openly admit that I never understood Mr. Lefrançois’s explanations, but one thing is certain, one thing is clear, one thing is indisputable: the interest that Ms. Grégoire paid to Mr. Lefrançois was deductible from her income, but it was only deductible for the period during which she collected rent. As soon as she sold the property, the admissibility of or the claim for interest deductions became invalid. In my view, that is absolutely indisputable evidence, and I don’t understand, I cannot explain to myself – in any case, I certainly did not understand – the kind of unclear, confused explanations he gave to try to claim that his spouse was entitled to that interest. But one thing is certain; the facts are so clear, so transparent, that it’s unquestionable that the auditor was correct in refusing to take into account the interest for the period after the property was sold.
+For all of these reasons, there is not a doubt in my mind that this appeal must be dismissed, and that is the finding I will make: the appeal is dismissed. And since it’s under the informal procedure, it is without costs.
+END OF REASONS FOR JUDGMENT
+*******************
+Translation certified true
+on this 24th day of June 2009
+Margarita Gorbounova, Translator

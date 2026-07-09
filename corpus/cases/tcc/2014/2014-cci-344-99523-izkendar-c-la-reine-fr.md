@@ -1,0 +1,162 @@
+---
+title: "Izkendar c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/99523/index.do"
+last_modified: "2014-11-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 344"
+citation2: ""
+neutral_citation: "2014 CCI 344"
+decision_date: "2014-11-18"
+language: "fr"
+item_id: "99523"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5229
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:38:57.960000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9f91ec3ac258f2a58402e97cf746ebc3b4ff35c6824b210b058e34899c723939"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Izkendar c. La Reine
+
+- Citation: 2014 CCI 344
+- Decision date: 2014-11-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5229, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Izkendar c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-11-18
+Référence neutre
+2014 CCI 344
+Numéro de dossier
+2013-220(IT)I
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-220(IT)I
+ENTRE :
+MARTIN IZKENDAR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 16 septembre 2014, à Vancouver (Colombie‑Britannique).
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocates de l’intimée :
+Me Selena Sit
+Me Christa Akey
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie au titre de la Loi de l’impôt sur le revenu pour l’année d’imposition 2007 est rejeté conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 18e jour de novembre 2014.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 15e jour de décembre 2014.
+Espérance Mabushi, M.A. Trad. Jur.
+Référence : 2014 CCI 344
+Date : 20141118
+Dossier : 2013-220(IT)I
+ENTRE :
+MARTIN IZKENDAR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Hogan
+I. Aperçu [1] L’appelant, Martin Izkendar, interjette appel à l’encontre d’une nouvelle cotisation établie à l’égard de son année d’imposition 2007, par laquelle le ministre du Revenu national (le « ministre ») a refusé le montant déduit au titre de don de bienfaisance de la manière suivante :
+Année d’imposition
+Revenu net déclaré
+Montant déduit au titre de don de bienfaisance
+Montant refusé au titre de don de bienfaisance
+2007
+28 471,50 $
+7 315 $
+7 315 $
+[2] Le ministre soutient que l’appelant a acheté un faux reçu pour don de bienfaisance auprès de son comptable, Saheem Raza, qui, avec son frère, Fareed Raza (les « frères Raza »), fournissait des services de comptabilité et des services en matière fiscale sous les noms commerciaux Fareed Raza & Co. Inc. et F & A Accounting Corporation (le cabinet « FA »). Les frères Raza ont été accusés de fraude pour avoir fait de faux énoncés dans les déclarations de revenus qu’ils avaient établies pour leurs clients.
+II. Contexte factuel [3] L’appelant a témoigné que Saheem Raza (« M. Raza ») l’avait introduit auprès de la fiducie Mehfuz Children Welfare Trust (la « fiducie Mehfuz »). M. Raza avait encouragé l’appelant à faire un don en espèces de 7 315 $ à la fiducie Mehfuz. Selon l’appelant, M. Raza avait offert son aide pour transférer les fonds à la fiducie Mehfuz et pour obtenir un reçu officiel pour le compte de l’appelant.
+[4] L’appelant reconnaît qu’il a rencontré M. Raza pour la première fois en 2008, lorsqu’il a déposé ses déclarations de renseignements que M. Raza a par la suite utilisées pour établir sa déclaration de revenus pour 2007.
+[5] Lors du contre‑interrogatoire, l’appelant a reconnu qu’il n’avait pas eu affaire directement avec la fiducie Mehfuz. Il ne pouvait pas expliquer pourquoi il avait envisagé qu’un don qui aurait été fait en 2008 pouvait être accepté à titre de don pour son année d’imposition 2007.
+[6] Mme Jane Yang, une enquêteuse de la Division de l’exécution au Bureau des services fiscaux de Vancouver de l’Agence du revenu du Canada (l’« ARC »), a témoigné pour le compte de l’intimée. En octobre 2008, alors qu’elle assistait à une séance de formation interne à Toronto, Mme Yang a appris qu’un de ses collègues à Toronto avait réussi à découvrir des stratagèmes utilisés par des spécialistes en déclarations de revenus pour vendre de faux reçus pour dons de bienfaisance à leurs clients.
+[7] À son retour à Vancouver, Mme Yang a découvert qu’un certain nombre de clients du cabinet FA semblaient avoir fait des dons importants à la fiducie Mehfuz. La façon dont les dons étaient faits semblait anormale. Les contribuables faisaient don d’une partie importante de leur revenu net à la fiducie Mehfuz.
+[8] Une enquête criminelle a été ouverte et, le 14 juillet 2010, une saisie a été effectuée aux bureaux du cabinet FA. Les documents saisis comprenaient des reçus provenant de la fiducie Mehfuz, que Mme Yang croyait être des faux, et un calendrier de bureau de M. Raza. Le calendrier comportait des annotations qui laissaient croire que M. Raza consignait des montants qu’il recevait en échange de reçus pour fourniture de soins et pour dons de bienfaisance. Mme Yang a pu établir que, dans de nombreux cas, le montant figurant sur le calendrier à côté du nom d’un client représentait 8 % à 11 % du montant déduit dans la déclaration de revenus du client en tant que don fait à la fiducie Mehfuz. Mme Yang a également remarqué que les reçus de la fiducie Mehfuz saisis aux bureaux du cabinet FA étaient différents des reçus officiels délivrés par la fiducie Mehfuz.
+[9] Au terme de son enquête, Mme Yang a conclu que les frères Raza avaient contrefait des reçus pour dons de bienfaisance totalisant environ 12 000 000 $. Mme Yang a estimé que ce stratagème avait occasionné une perte de revenus fiscaux d’environ 4 700 000 $.
+[10] M. Mashud Miah, président et fondateur de la fiducie Mehfuz, a également témoigné pour le compte de l’intimée. M. Miah est né au Bangladesh et s’est établi au Canada en 1985. En plus des fonctions qu’il exerçait à la fondation Mehfuz de 2001 à 2009, M. Miah travaillait comme nettoyeur.
+[11] M. Miah a expliqué qu’il avait donné à la fondation Mehfuz le nom de son fils, Mehfuz, qui était né prématurément à un hôpital de Vancouver. Il croit que, si son fils était né prématurément au Bangladesh, il n’aurait vraisemblablement pas survécu. En 1997, M. Miah a eu deux accidents de voiture graves et, en raison des soins qu’il a reçus alors qu’il était hospitalisé, il a encore une fois pris conscience de la qualité des soins de santé offerts dans les hôpitaux canadiens. Ces événements l’ont motivé à créer la fondation Mehfuz en 2000‑2001, avec l’aide de Fareed Raza, comme moyen de recueillir des fonds au Canada dans le but de construire et d’exploiter une clinique médicale au Bangladesh. Selon M. Miah, la clinique a été construite et, de 2003 à 2009, elle a offert des soins de santé à des enfants pauvres et handicapés. La clinique a cessé ses activités en 2009, lorsque la fiducie Mehfuz a été éclaboussée par la controverse entourant les agissements des frères Raza.
+[12] M. Miah a soutenu qu’en 2008, il avait découvert Saheem Raza en train de falsifier des reçus pour dons de bienfaisance de la fiducie Mehfuz lorsqu’il était entré dans le bureau de M. Saheem Raza, qu’il devait nettoyer relativement à une entente qu’il avait conclue avec le cabinet FA concernant des services de nettoyage. Il a témoigné qu’il avait vu M. Saheem Raza signer son nom (celui de M. Miah) sur un reçu. Par la suite, il avait vu des reçus contrefaits qui traînaient dans le bureau. Au printemps 2008, après avoir consulté un avocat, il avait signalé à l’ARC qu’il soupçonnait que les frères Raza falsifiaient des reçus pour dons de bienfaisance au nom de la fiducie Mehfuz. M. Miah a témoigné qu’il avait arrêté d’utiliser les services de comptabilité du cabinet FA en 2007, en raison des soupçons qu’il avait eus concernant les irrégularités commises par les frères Raza.
+III. Analyse [13] L’intimée a présenté une preuve commune dans les présents appels et dans les appels de Jose Vekkal (2013-882(IT)I), de Remmy Vekkal (2013-883(IT)I), d’Azim Bani (2012-3541(IT)I), de Ruben Nocon (2013‑635(IT)I), d’Iraj Rasuli (2013-886(IT)I), de Khorshid Rasuli (2013-887(IT)I), de Ladan Abootaleby‑Pour (2013‑1779(IT)I) et d’Oleg Komarynsky (2013-3354(IT)I).
+[14] À l’issue de l’audience du présent appel, on a soulevé la question de savoir si les éléments de preuve présentés par les huit autres appelants ou obtenus par l’intimée au moyen du contre‑interrogatoire de ces appelants devraient faire partie du dossier de l’appelant dans la présente affaire. Je tiens à souligner que, dans son ordonnance fixant les appels au rôle pour audition, le juge responsable de la gestion de l’instance n’a pas traité cette question de procédure. Je tiens également à préciser que l’appelant n’a pas reçu signification des actes de procédure concernant les autres appels et qu’il n’a pas pris part à l’interrogatoire ou au contre‑interrogatoire des autres appelants. Par conséquent, je ne tiendrai pas compte des éléments de preuve des autres appelants pour statuer sur le présent appel.
+[15] Quoi qu’il en soit, je n’ai pas trouvé que les éléments de preuve en question étaient particulièrement pertinents pour statuer sur la présente affaire.
+[16] Par souci de concision, j’intègre par renvoi les conclusions que j’ai tirées sur la crédibilité concernant les témoignages de Mme Jane Yang et de Mashud Miah, tels qu’ils figurent aux paragraphes 24, 25, 26 et 27 des motifs du jugement rendus dans les appels de Jose Vekkal (2013‑882(IT)I) et de Remmy Vekkal (2013‑883(IT)I), lesquels ont été rendus le même jour que les motifs du présent jugement.
+[17] La nouvelle cotisation pour l’année d’imposition 2007 de l’appelant a été établie après la période normale de nouvelle cotisation. Par conséquent, il incombe à l’intimée de prouver que l’appelant a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, relativement au don qu’il a déduit pour cette année‑là. Pour les motifs exposés ci-dessous, je suis convaincu que l’intimée s’est acquittée du fardeau de la preuve qui lui incombait à cet égard.
+[18] Tout d’abord, je ne crois pas que la situation financière de l’appelant pouvait lui permettre de faire le don qu’il prétend avoir fait. L’appelant a déclaré un revenu net de 28 471,50 $ et a déduit 7 315 $ au titre d’un don qu’il aurait fait. La déduction représentait 25,7 % de son revenu net. Il a témoigné qu’il avait 7 315 $ d’économies en espèces qu’il gardait à la maison, mais il n’a fourni aucune explication quant à l’origine de ces fonds.
+[19] Ensuite, les prétendus dons ne correspondaient pas aux habitudes de l’appelant en matière de dons. Il ressort de la preuve que, de 2000 à 2013, sauf le don allégué en cause en l’espèce, l’appelant n’a fait qu’un don de 385 $, et c’était en 2006. Il n’est pas plausible que l’appelant ait remis 7 315 $ en espèces à M. Raza pour qu’il en fasse don à un organisme de bienfaisance dont l’appelant venait juste d’apprendre l’existence par M. Raza.
+[20] L’appelant a admis qu’il avait remis un montant en espèces à M. Raza en 2008. Toutefois, il a demandé une déduction concernant le prétendu don pour son année d’imposition 2007. Il s’agit manifestement d’une présentation erronée des faits, parce que, si le don allégué a été fait en 2008, il ne pouvait pas être déduit pour 2007.
+[21] Enfin, il n’est pas suffisant pour l’appelant de nier toute responsabilité en invoquant comme justification la confiance qu’il avait placée en un tiers pour l’établissement de ses déclarations de revenus. Une présentation erronée des faits a été effectuée dans la déclaration de revenus de l’appelant, et c’est par négligence ou aveuglement volontaire qu’il a omis d’examiner sa déclaration de revenus.
+[22] Après avoir examiné tous les éléments de preuve, je suis convaincu que l’appelant a acheté sciemment un faux reçu pour don auprès des frères Raza en 2008 pour une partie du montant figurant sur le reçu. Par conséquent, l’appelant a fait une présentation erronée des faits relativement au don qu’il a déduit et que le ministre a refusé pour son année d’imposition 2007. C’est donc à juste titre que le ministre a établi une nouvelle cotisation à l’égard de l’appelant après la période normale de nouvelle cotisation.
+[23] Pour les motifs exposés ci‑dessus, la nouvelle cotisation est confirmée et l’appel est rejeté.
+Signé à Ottawa, Canada, ce 18e jour de novembre 2014.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 15e jour de décembre 2014.
+Espérance Mabushi, M.A. Trad. Jur.
+RÉFÉRENCE :
+2014 CCI 344
+No DU DOSSIER DE LA COUR :
+2013-220(IT)I
+Intitulé :
+MARTIN IZKENDAR c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE :
+Le 16 septembre 2014
+Motifs du jugement :
+L’honorable juge Robert J. Hogan
+DATE DU JUGEMENT :
+Le 18 novembre 2014
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocates de l’intimée :
+Me Selena Sit
+Me Christa Akey
+Avocats inscrits au dossier :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada

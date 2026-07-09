@@ -1,0 +1,192 @@
+Title: Kniazev c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/365579/index.do
+Corpus path: corpus/cases/tcc/2019/2019-cci-58-365579-kniazev-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2019-03-08
+
+# Kniazev c. La Reine
+
+- Citation: 2019 CCI 58
+- Decision date: 2019-03-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4310, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kniazev c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-03-08
+Référence neutre
+2019 CCI 58
+Numéro de dossier
+2017-456(GST)I
+Juges et Officiers taxateurs
+Guy R. Smith
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2017-457(GST)I
+ENTRE :
+DMITRI KNIAZEV,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec celui de
+Dmitri Kniazev (2017-456(GST)I)
+le 30 mai 2018, à Toronto (Ontario).
+Devant : L’honorable juge Guy R. Smith
+Comparutions :
+Avocat de l’appelant :
+Me Bobby B. Solhi
+Avocats de l’intimée :
+Me Angelica Buggie
+Me Peter Swanstrom
+JUGEMENT
+L’appel interjeté de la cotisation en date du 15 janvier 2016 en vertu de la Loi sur la taxe d’accise concernant le remboursement de la taxe sur les produits et services/taxe de vente harmonisée (« TPS/TVH ») pour habitation neuve est rejeté selon les motifs de jugement ci-joints.
+Signé à Ottawa, au Canada, ce 8e jour de mars 2019.
+« Guy R. Smith »
+Juge Smith
+Dossier : 2017-456(GST)I
+ENTRE :
+DMITRI KNIAZEV,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec celui de
+Dimitri Kniazev (2017-457(GST)I)
+le 30 mai 2018, à Toronto (Ontario).
+Devant : L’honorable juge Guy R. Smith
+Comparutions :
+Avocat de l’appelant :
+Me Bobby B. Solhi
+Avocats pour l’intimée :
+Me Angelica Buggie
+Me Peter Swanstrom
+JUGEMENT
+L’appel interjeté de la cotisation en date du 22 janvier 2016 en vertu de la Loi sur la taxe d’accise concernant le remboursement de la taxe sur les produits et services/taxe de vente harmonisée (« TPS/TVH ») pour habitation neuve est rejeté selon les motifs de jugement ci-joints.
+Signé à Ottawa, au Canada, ce 8e jour de mars 2019.
+« Guy R. Smith »
+Juge Smith
+Référence : 2019 CCI 58
+Date : 20190308
+Dossiers : 2017-457(GST)I
+2016-456(GST)I
+ENTRE :
+DMITRI KNIAZEV,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Smith
+I. Introduction
+[1] Dmitri Kniazev interjette appel d’une cotisation faite par le ministre du Revenu national (le « ministre ») le 15 janvier 2016 et rejetant la demande de remboursement de la TPS/TVH pour habitation neuve (le « remboursement pour habitation neuve ») en vertu de la partie IX de la Loi sur la taxe d’accise, L.R.C. 1985, ch. E-15 (la « Loi ») relativement à l’achat d’un bien décrit au 266, Sloss Court, Newmarket (Ontario) (« Sloss Court »). Le ministre s’est fondé sur le double fait que l’appelant n’avait pas acquis ledit bien pour qu’il lui serve de lieu de résidence habituelle ou serve ainsi à son proche et que ni lui ni un proche admissible n’avait été le premier à occuper les lieux.
+[2] L’appelant interjette également appel d’une cotisation faite par le ministre le 22 janvier 2016 et rejetant de même le remboursement pour habitation neuve relativement à un bien décrit au 314-95, chemin North Park, Thornhill (Ontario) (la « copropriété Thornhill »). Le ministre l’a fait pour les mêmes raisons, à savoir que l’appelant n’avait pas l’intention requise et que ni lui ni un proche admissible n’avait été le premier à occuper les lieux comme lieu de résidence habituelle. Ces appels ont été entendus ensemble sur preuve commune.
+[3] Le remboursement pour habitation neuve est un remboursement de la taxe d’accise par ailleurs calculé conformément au paragraphe 165(2) de la Loi à l’achat d’un immeuble d’habitation à logement unique selon la définition. En Ontario, ce remboursement est plafonné à 24 000 $. Il est payable en application du paragraphe 256.21 et des règlements 41(1) et (2), mais les conditions à remplir sont les mêmes qu’au paragraphe 254(2).
+[4] Aux fins des présentes, les seules dispositions applicables sont les alinéas 254(2)b) et g). L’alinéa 254(2)b) fait état de l’intention de l’acheteur d’acquérir un immeuble d’habitation « pour qu’il lui serve de lieu de résidence habituelle ou serve ainsi à son proche ». En l’espèce, nul doute que le « particulier » est l’appelant.
+[5] Dans cette optique, la Cour doit sonder l’intention de l’acheteur « au moment » où il « devient responsable ou assume une responsabilité aux termes du contrat de vente de l’immeuble ou du logement conclu » entre le constructeur et lui. Elle doit acquérir la conviction que le particulier « acquiert l’immeuble ou le logement pour qu’il lui serve de lieu de résidence habituelle ». Cette question a été traitée assez en détail dans la décision Gill c. La Reine, 2016 CCI 13 (« Gill »). Dans ce jugement, je me suis reporté à la décision dans Kandiah c. La Reine, 2014 CCI 276, où le juge C. Miller dit au paragraphe 18 qu’il incombe à l’appelant de convaincre la Cour, selon la prépondérance des probabilités, qu’il a eu l’intention requise. Le juge Miller a cité le passage suivant de la décision Coburn Realty Ltd. c. Canada, 2006 CCI 245 (« Coburn ») à propos de l’intention :
+[10] Les énoncés que fait le contribuable de ses buts et de ses intentions ne sont pas nécessairement et toujours le fondement le plus fiable sur lequel une question de ce genre peut être tranchée. L’utilisation réelle du bien constitue souvent la meilleure preuve du but de l’acquisition [...]
+[6] Dans Coburn, il n’y avait guère de preuve de l’occupation des lieux et le bien avait été mis en vente peu après la conclusion de l’achat, ce qui avait amené le juge à conclure que c’était probablement là le meilleur indice de l’intention qu’avait l’appelant au moment de signer la promesse d’achat. Le juge a ajouté :
+[21] Le fait d’emporter quelques possessions (des matelas et une serviette, par exemple), et de laisser derrière soi quasiment toutes ses autres possessions ainsi que ses meubles, au domicile familial, ne fait pas en sorte que la maison […] servait de lieu habituel de résidence à la famille. Au mieux, je décrirais la façon de vivre de M. Kandiah et de sa fille comme du camping, et non comme le fait de résider quelque part – et certainement pas comme le fait de se servir d’une maison comme lieu de résidence habituelle.
+[7] En fin de compte, nombreuses sont les décisions, chacune avec des circonstances propres, quant à l’intention de l’acheteur d’acquérir une habitation comme « lieu de résidence habituelle » aux fins du remboursement. Ce qu’il faut, c’est une intention claire et arrêtée d’occuper les lieux en tant que « lieu de résidence habituelle », compte tenu des circonstances personnelles, familiales et professionnelles d’un particulier. Une intention timide, fugace ou fantaisiste ne suffit pas.
+[8] L’emploi du terme « habituelle » par le législateur donne également à entendre que l’acheteur doit avoir l’intention arrêtée de centrer ses affaires personnelles et familiales sur ce bien ou de les articuler autour de ce dernier. Le remboursement n’est pas à l’égard d’une résidence secondaire ou d’un « pied-à-terre ». Un particulier peut être propriétaire de plusieurs résidences, mais ne doit normalement avoir qu’un « lieu de résidence habituelle ».
+[9] Le second critère applicable est énoncé à l’alinéa 254(2)g). Il dit que le particulier ou son proche doit être le premier à occuper le bien. Il est nécessaire d’interpréter cette disposition et, plus précisément, le terme « occuper » dans le contexte de quelqu’un ayant l’intention présumée d’acquérir un bien comme « lieu de résidence habituelle ». Comme on l’examine dans Gill (paragraphe 29), il doit y avoir un élément de permanence dans l’occupation des lieux. Ce ne peut être une occupation irrégulière, transitoire ou passagère. Il ne suffit pas d’acquérir le titre de propriété, de prendre possession des clés et de déménager quelques meubles.
+II. Témoignage de l’appelant
+[10] L’appelant a témoigné en son propre nom. À tout moment d’intérêt, il avait travaillé comme agent immobilier à la Homelife Victory Realty Inc. à Richmond Hill (Ontario). Il demeurait au 214, chemin Savage à Newmarket (Ontario), immeuble qu’il a décrit comme étant le [traduction] « foyer conjugal ». Son épouse est décédée en 2010, mais peu de détails ont été fournis. L’intéressé avait une fille (« Nina ») qui étudiait à l’Université York, mais qui, au moment de l’audience, avait un emploi dans le nord de l’Ontario et, au dire de l’appelant, n’était pas disponible pour témoigner.
+[11] L’appelant a indiqué que, avant l’acquisition des biens en question, il était propriétaire du soi-disant foyer conjugal et d’un bien de placement situé au 1070, avenue Sheppard (la « copropriété avenue Sheppard ») acquis en 2010. Le tableau qui suit donne un aperçu des gestes de l’appelant au cours des années d’intérêt :
+Bien
+Offre d’achat
+Conclusion/
+prise de possession
+Vente/
+aliénation
+214, chemin Savage
+Newmarket (Ontario)
+Aucun renseignement
+Aucun renseignement
+novembre 2012
+266, Sloss Court
+Newmarket (Ontario)
+octobre 2011
+septembre 2014
+mars 2015
+7, croissant Wolford
+Keswick (Ontario)
+mai 2012
+novembre 2012
+Aucun renseignement
+703-1070, ave Sheppard
+Toronto (Ontario)
+2010
+novembre 2010
+Aucun renseignement
+1314-95, chemin North Park, Thornhill (Ontario)
+janvier 2011
+mai 2014
+août 2014
+[12] Ce qui ressort du témoignage de l’appelant, c’est qu’il avait l’intention de se départir du foyer conjugal et d’emménager dans une nouvelle résidence, tout en désirant rester dans la région de Newmarket, plus commode pour son travail. Il a signé une offre d’achat le 19 octobre 2011 en vue de l’acquisition de Sloss Court, ayant l’intention d’en faire son lieu de résidence habituelle. Il s’attendait à conclure l’achat dans les six mois, mais a vite constaté qu’il y aurait des retards importants. C’est pourquoi il a signé une autre offre d’achat le 1er mai 2012 en vue d’acquérir le 7, croissant Wolford à Keswick (Ontario) (l’« immeuble Keswick »). C’était là un immeuble de luxe dans un lotissement protégé des rives du lac Simcoe. Il a affirmé avoir pris possession de ce bien en novembre 2012 à la suite de la vente du foyer conjugal. Il est avéré qu’il a demandé et reçu le remboursement pour habitation neuve sur cet achat.
+[13] L’appelant a indiqué que la date de conclusion de l’achat de Sloss Court a été septembre 2014. Il y a alors emménagé et a conservé l’immeuble Keswick comme résidence secondaire. Sloss Court a été mis en vente en novembre 2014 et vendu le 10 mars 2015. L’appelant a alors regagné l’immeuble Keswick.
+[14] Il indique que, avant la vente effective de Sloss Court, il avait tenté de vendre l’immeuble Keswick. Maria Markman, courtière immobilière et une connaissance de 20 ans, lui a dit être prête à acheter l’immeuble. Une offre d’achat a été préparée et signée le 1er octobre 2015 et des chèques de dépôt ont été remis. La vente devait se conclure en janvier 2015, mais l’intéressée a décidé d’annuler l’opération pour des raisons personnelles. L’appelant a accepté cette annulation et les chèques de dépôt ont tout simplement été détruits.
+[15] Comme il est indiqué plus haut, l’appelant avait acheté la copropriété avenue Sheppard en novembre 2010 et l’avait immédiatement mise en vente. En attendant la vente, il l’avait donnée en location jusqu’en mars 2014. C’est à ce moment‑là que sa fille qui habitait avec lui dans l’immeuble Keswick y a emménagé pour se rapprocher de l’Université York.
+[16] En janvier 2011, l’appelant a fait une autre offre d’achat pour acquérir une copropriété au 95, chemin North Park (la « copropriété Thornhill »). Il prévoyait qu’elle pourrait être occupée dans les trois ans et voulait que sa fille en devienne propriétaire. La vente s’est conclue en mai 2014 et sa fille a emménagé, laissant vacante la copropriété avenue Sheppard.
+[17] L’appelant a maintenu l’inscription en vente de la copropriété avenue Sheppard. Comme il ne réussissait pas à la vendre et qu’il préférait ne pas garder les deux biens, il a mis en vente la copropriété Thornhill en août 2014. Elle s’est vendue en l’espace d’une semaine et sa fille a regagné la copropriété avenue Sheppard.
+[18] L’appelant a soutenu avoir acheté la copropriété Thornhill pour sa fille et que l’intention dès le départ était qu’elle devienne propriétaire et y habite. Il a tenté de faire enregistrer le titre de propriété au nom de celle-ci, mais n’a pu le faire car, étant étudiante, sa fille n’était pas admissible à l’hypothèque.
+[19] En ce qui concerne l’achat des deux biens en question, l’appelant a produit de la documentation concernant ses polices d’assurance et les services publics et services de téléphone et d’Internet reçus à ces adresses. Cette documentation comprenait une suite de factures d’une entreprise de déménagement.
+[20] En contre-interrogatoire, l’appelant a reconnu être propriétaire d’un autre immeuble d’habitation avenue Lorraine à Richmond Hill. Il a aussi reconnu que sa fille était propriétaire d’un condo qu’il avait acheté pour elle sur le produit de son assurance-vie à la suite du décès de son épouse. Il n’y avait pas d’hypothèque sur ce bien.
+[21] L’appelant a été interrogé sur sa faible consommation d’hydroélectricité et d’eau dans les immeubles en question. Il a avoué que ni lui ni sa fille n’avaient fait les changements d’adresse nécessaires à l’ARC et à l’Assurance-santé de l’Ontario ni au bureau des permis de conduire.
+III. Analyse
+[22] Comme il a été mentionné, l’appelant était le seul témoin sauf pour la brève déposition de Maria Markham. Son témoignage de vive voix est presque entièrement sans corroboration par un tiers désintéressé. La question qui se pose avant tout à la Cour est de savoir si le récit de l’appelant était digne de foi à le considérer globalement ou s’il n’était pas entaché d’incohérences apparentes ou inhérentes pouvant faire révoquer en doute son témoignage. La Cour conclut que son témoignage n’était pas crédible.
+[23] En ce qui concerne l’immeuble Sloss Court, la Cour doute sérieusement que l’appelant ait jamais eu l’intention de l’occuper et d’en faire son lieu de résidence habituelle. Vu son expérience comme agent immobilier, il savait ou devait savoir depuis le début que la construction accuserait de longs retards. Je remarque qu’il a omis de produire les annexes à son offre d’achat qui auraient pu donner des précisions sur le droit du constructeur à reporter la conclusion de l’achat pendant une longue période. J’estime que cette acquisition a plutôt été planifiée dès le début comme « longue à se conclure ».
+[24] Même si la Cour devait admettre que l’appelant avait l’intention requise − ce qui n’est pas le cas −, elle conclut que cette intention est annulée ou infirmée par ses propres gestes lorsqu’il a fait l’offre d’achat de l’immeuble Keswick. Je crois au mieux que l’appelant a eu « une brève et vague intention » (Sivakumar c. La Reine, 2013 CCI 325, par. 23) d’occuper Sloss Court, ce qui n’est pas les conditions énoncées à l’alinéa 254(2)b) de la Loi.
+[25] Autre point d’intérêt pour la question de la crédibilité même si la Cour n’a pas à le trancher dans le présent appel, je doute sérieusement que l’appelant ait jamais eu l’intention d’occuper l’immeuble Keswick comme lieu de résidence habituelle ou qu’il l’ait fait en réalité. Il pourrait avoir déménagé quelques meubles, peut-être pour créer le décor nécessaire, mais son utilisation des services d’eau et d’hydroélectricité donne l’impression que son occupation était au mieux irrégulière, passagère et transitoire. Il a aussi dit être désireux de trouver une demeure dans la région de Newmarket ou de Richmond Hill à proximité de son lieu de travail, mais sans expliquer à la Cour en quoi l’acquisition de ce bien à une certaine distance de ce lieu de travail était logique ou pratique pour lui ou sa fille fréquentant l’Université York à Toronto.
+[26] L’appelant indique que l’immeuble Keswick est devenu une résidence secondaire une fois Sloss Court prêt en septembre 2014. Comme la Cour a déjà conclu qu’il n’avait pas l’intention requise d’occuper ce bien comme lieu de résidence habituelle, qu’il ait déménagé quelques meubles dans l’immeuble ne change rien à l’affaire. Son occupation de Sloss Court était, répétons‑le, au mieux transitoire, l’immeuble ayant été mis en vente peu après la prise de possession et vendu en mars 2015.
+[27] En ce qui concerne la copropriété avenue Sheppard, la Cour fait remarquer qu’elle a été mise en vente peu après la date d’acquisition. Elle y voit l’indice d’une tendance à acheter des immeubles d’habitation pour les revendre le plus rapidement possible. Elle conclut également que l’intention était la même dans le cas de la copropriété Thornhill et que ni l’appelant ni sa fille n’ont jamais eu l’intention d’en faire un lieu de résidence habituelle. L’appelant a en outre fait voir que sa fille avait emménagé dans la copropriété avenue Sheppard en mars 2014, puis dans la copropriété Thornhill en mai de la même année avant de regagner l’immeuble avenue Sheppard en août 2014. Cela est tout simplement difficile à croire et, sans le témoignage de la fille de l’appelant, demeure sans corroboration aucune.
+[28] En interrogatoire principal, l’appelant a très brièvement indiqué avoir un autre bien qu’il a décrit comme « un appartement » avenue Lorraine à Richmond Hill, mais en étant avare de détails. Était‑ce un bien de placement ou un « pied‑à-terre » utilisé par lui à titre personnel? La Cour n’a reçu aucune précision là‑dessus. En contre-interrogatoire, l’appelant a reconnu être propriétaire d’un autre bien, mais sans donner de détails sur son utilisation ni exposer les raisons pour lesquelles son récit n’en avait pas fait état. La Cour juge qu’il lui incombait de livrer une explication et tire une conclusion défavorable de son défaut de le faire. De même, l’intéressé a admis que sa fille était propriétaire d’un condo libre de toute charge, mais sans y aller de détails ni d’explications quant à son utilisation dans le contexte de son récit. Ce qu’on peut en déduire logiquement, c’est qu’elle demeurait en réalité à cette adresse et qu’elle n’avait jamais réellement occupé les copropriétés avenue Sheppard et Thornhill. À tout prendre, l’appelant n’a pas convaincu la Cour, selon la prépondérance des probabilités, que sa fille occupait l’un ou l’autre de ces biens selon les conditions énoncées à l’alinéa 254(2)g).
+[29] En contre-interrogatoire, l’appelant a reconnu avoir acheté la copropriété avenue Sheppard en novembre 2010, la copropriété Thornhill en janvier 2011, Sloss Court en octobre 2011 et l’immeuble Keswick en mai 2012. Il a avoué que [traduction] « c’était tout un moment pour acheter », ce qui révèle davantage son intention d’acquérir des immeubles d’habitation pour la revente ou la recherche de profit, ce qui est qualifié d’opération « achat et revente » dans Sivakumar c. La Reine, 2013 CCI 325, par. 19). Pour moi, ce n’est pas répondre à l’exigence formulée à l’alinéa 254(2)b) que l’intention de l’appelant soit d’acquérir un immeuble « pour qu’il lui serve de lieu de résidence habituelle ».
+[30] En conclusion sur la preuve présentée, je juge que les modifications apportées aux polices d’assurance habitation pour désigner un bien comme résidence principale ou secondaire n’ont rien de concluant. J’accorde donc très peu de poids aux diverses factures produites par l’appelant, celles‑ci étant elles-mêmes trop peu concluantes. En ce qui a trait à Maria Markham, je doute de la valeur probante de son témoignage à propos d’une offre d’achat annulée en l’espace de quelques semaines sans plus de conséquences juridiques. Son témoignage à toutes fins utiles ne fait qu’étayer la conclusion de la Cour selon laquelle l’appelant se livrait à une activité commerciale consistant à acheter et à vendre des maisons dans des opérations d’achat et de revente.
+[31] En fin de compte, je conclus que l’appelant était d’abord et avant tout un agent immobilier qui achetait et vendait des maisons pour son propre compte sans quelque intention que ce soit d’en faire son lieu de résidence habituelle et, plus précisément pour ce qui est des immeubles en question, que ni lui ni sa fille n’avaient jamais eu une telle intention.
+[32] Par conséquent, les appels doivent être rejetés.
+Signé à Ottawa, au Canada, ce 8e jour de mars 2019.
+« Guy R. Smith »
+Juge Smith
+RÉFÉRENCE :
+2019 CCI 58
+NO DU DOSSIER DE LA COUR :
+2017-456(GST)I
+INTITULÉ :
+DMITRI KNIAZEV ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 30 mai 2018
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge Guy R. Smith
+DATE DU JUGEMENT :
+Le 8 mars 2019
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Bobby B. Solhi
+Avocats de l’intimée :
+Me Angelica Buggie
+Me Peter Swanstrom
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Me Bobby B. Solhi
+Cabinet :
+Tax Chambers LLP
+Toronto (Ontario)
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

@@ -1,0 +1,232 @@
+---
+title: "Martin c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27991/index.do"
+last_modified: "2003-06-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 414"
+citation2: ""
+neutral_citation: "2003 CCI 414"
+decision_date: "2003-06-23"
+language: "fr"
+item_id: "27991"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1773
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:03:23.555000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8325c911a0108c4794a2e711d630ade9f39b1adae555d1d2c60c75cf478c02c4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Martin c. La Reine
+
+- Citation: 2003 CCI 414
+- Decision date: 2003-06-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1773, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Martin c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-06-23
+Référence neutre
+2003 CCI 414
+Numéro de dossier
+2002-250(GST)I
+Juges et Officiers taxateurs
+Pierre R. Dussault
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2002-250(GST)I
+ENTRE :
+GÉRALD MARTIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu en partie le 27 février 2003 à Québec (Québec)
+Devant : L'honorable juge P. R. Dussault
+Comparutions :
+Avocat de l'appelant :
+Me Jean-Paul Boily
+Avocat de l'intimée :
+Me Philippe Morin
+____________________________________________________________________
+JUGEMENT
+L’appel d'une cotisation établie en vertu de l'article 323 de la Loi sur la taxe d’accise, (Partie IX) concernant la taxe sur les produits et services à l'égard des périodes se terminant le 31 octobre 1993, le 31 octobre 1994, le 31 octobre 1995, le 31 octobre 1996 et le 19 avril 1997, dont l'avis est en date du 29 mars 2000 et porte le numéro PQ-2000‑948, est rejeté, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 23e jour de juin 2003.
+« P. R. Dussault »
+J.C.C.I.
+Référence : 2003CCI414
+Date : 20030623
+Dossier : 2002-250(GST)I
+ENTRE :
+GÉRALD MARTIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+P.R. Dussault, J.C.C.I.
+[1] Il s'agit d'un appel d'une cotisation fondée sur l'article 323 de la Loi sur la taxe d'accise (la « Loi ») (Partie IX), dont l'avis, en date du 29 mars 2000 porte le numéro PQ-2000-4948. L'appelant est cotisé comme administrateur de la société Gérald Martin Animat inc. (la « société » ou la « corporation ») pour la taxe sur les produits et services (« TPS ») non remise par la société ainsi que pour les intérêts et les pénalités pour un montant total de 284 265,83 $ à l'égard des périodes se terminant le 31 octobre 1993, le 31 octobre 1994, le 31 octobre 1995, le 31 octobre 1996 et le 19 avril 1997.
+[2] En cotisant l'appelant, le ministre du Revenu national (le « Ministre ») s'est fondé sur les conclusions et les hypothèses de fait que l'on retrouve aux alinéas a) à n) du paragraphe 20 de la Réponse à l'avis d'appel. Ces alinéas se lisent :
+a) Au cours des années 1993, 1994, 1995, 1996 et 1997, l'appelant était l'un des administrateurs de Gérald Martin Animat inc. (la « corporation »);
+b) au cours des années ci-avant mentionnées, la corporation était un inscrit aux fins de l'application de la TPS;
+c) le 26 mars 1997, le Ministre cotisa la corporation pour un montant total de 196 564,28 $, représentant la TPS non remise pour les périodes se terminant les 31 octobre 1993, 31 octobre 1994, 31 octobre 1995 et 31 octobre 1996, le tout incluant intérêts et pénalités;
+d) le 17 octobre 1997, le Ministre cotisa la corporation pour un montant de 17 109,08 $, représentant la TPS non remise pour la période se terminant le 17 avril 1997;
+e) le 19 juin 1997, la corporation logea un avis d'opposition à l'encontre de la cotisation du 26 mars 1997;
+f) par décision sur opposition en date du 7 juillet 1998, le Ministre ratifia la cotisation du 26 mars 1997;
+g) la corporation ne logea aucun avis d'appel devant la Cour canadienne de l'impôt à l'encontre de cette décision;
+h) en date du 20 août 1998, et ce conformément à l'article 316 de la Partie IX de la Loi sur la taxe d'accise (L.R.C. 1985, c. E-15) le Ministre a produit à la Cour fédérale un certificat attestant des taxes, pénalités et intérêts dus et payables par la corporation au montant de 241 240,21 $;
+i) le certificat du Ministre fut dûment enregistré à la Cour fédérale et la corporation fut en conséquence condamnée à lui payer la somme de 241 240,21 $;
+j) en date du 14 juillet 1999, un bref de saisie-exécution fut délivré par la Cour fédérale afin de prélever sur les biens meubles de la corporation le montant de 241 240,21 $ avec intérêts, pénalités et dépens;
+k) le bref de saisie-exécution n'a pu être exécuté au motif que la corporation ne possédait plus de biens saisissables; de la sorte, il y eut défaut d'exécution total à l'égard du montant mentionné dans le certificat;
+l) l'appelant était administrateur de la corporation aux périodes où celle-ci était tenue de verser la taxe nette à l'intimée;
+m) en sa qualité d'administrateur de la corporation, l'appelant n'a pas agi avec le degré de soin, de diligence et d'habileté, pour prévenir le manquement qu'une personne raisonnable prudente ne l'aurait fait dans des circonstances comparables;
+n) en particulier, l'appelant n'a pris aucune mesure concrète et positive pour prévenir les manquements de la corporation.
+[3] Comme tel, le montant de la cotisation n'est pas contesté. Toutefois, l'avocat de l'appelant soutient que la cotisation doit être annulée d'une part parce qu'elle est prescrite aux termes du paragraphe 323(5) de la Loi, et, d'autre part parce que l'appelant aurait agi avec diligence raisonnable de façon à pouvoir bénéficier de l'exonération prévue au paragraphe 323(3) de la Loi.
+[4] Je traiterai d'abord de la question de la prescription.
+[5] La société est régie par la Loi canadienne sur les sociétés par actions, L.R.C. (1985), ch. C‑44. Depuis le début des années 80, elle oeuvrait principalement dans le domaine de l'animation et de l'organisation de casinos lors d'expositions agricoles, de festivals ou d'événements spéciaux. Les casinos étaient organisés et gérés par la société après l'obtention d'un permis auprès de la Régie des courses et des loteries (la « Régie ») par les organismes à but non lucratif au profit desquels ils étaient tenus. Tous les contrats étaient signés par l'appelant lui‑même au nom de la société. Ces contrats prévoyaient que la société fournirait généralement tout le matériel et les services nécessaires à la tenue des casinos. Quant au personnel tels les croupiers et les surveillants, la société utilisait ses propres employés ou, selon le témoignage de l'appelant, contractait avec des travailleurs autonomes comme mandataire au nom et pour le compte des clients. Dans plusieurs cas, la société n'a pas fait de déduction à la source et n'a pas facturé les taxes aux clients, dont la TPS pour les services rendus par les croupiers et les surveillants.
+[6] Suite à une vérification par Revenu Québec concernant les déductions à la source, et par la suite, sur la remise des taxes appropriées, on a conclu que les services des croupiers et des surveillants avaient été rendus par des employés de la société et non par des travailleurs autonomes. La société a donc été cotisée pour les impôts non déduits ainsi que les taxes non remises et, vu le défaut de celle‑ci d'acquitter sa dette fiscale, des cotisations ont été établies contre l'appelant dont la cotisation faisant l'objet du présent litige.
+[7] La société a cessé ses opérations en avril ou mai 1997. Toutefois, elle n'a pas déclaré faillite et n'a pas été dissoute. Elle est toujours en existence même si cette existence est qualifiée d'artificielle par l'avocat de l'appelant puisque, selon lui, elle n'est destinée qu'à maintenir une poursuite en dommages pour responsabilité professionnelle contre la firme comptable Raymond, Chabot, Martin, Paré. Comme la société n'est plus en mesure de poursuivre les activités pour lesquelles elle a été créée, l'avocat de l'appelant soutient qu'il serait juste et équitable qu'elle soit dissoute et qu'elle l'aurait été n'eut été de cette poursuite contre la firme comptable, dont pourrait éventuellement bénéficier le ministère du Revenu du Québec (le « Ministère ») suite à une entente avec les procureurs de la société. Selon lui, dans de telles circonstances, il « serait injuste et illogique de condamner l'appelant en prétextant le fait qu'il soit toujours administrateur de la compagnie, alors que celle‑ci a perdu tout « substratum », c'est‑à‑dire qu'il est impossible pour elle de poursuivre ses objets pour lesquels elle opérait, ou sa raison d'être et qu'il serait juste et équitable qu'elle soit liquidée, n'eut été de la poursuite engagée contre Raymond Chabot pour le bénéfice exclusif du ministère du Revenu. »
+[8] En ce qui concerne la prescription d'une cotisation contre un administrateur, le paragraphe 323(5) de la Loi prévoit ce qui suit :
+L'établissement d'une telle cotisation pour un montant payable par un administrateur se prescrit par deux ans après qu'il a cessé pour la dernière fois d'être administrateur.
+[9] Dans l'affaire The Queen v. Kalef, [1996] 2 C.T.C. 1, 96 DTC 6132, traduction française [1996] A.C.F. No 269 (Q.L.), la Cour fédérale d'appel a noté au paragraphe 10 que la Loi de l'impôt sur le revenu ne définit pas le terme « administrateur » et n'établit aucun critère pour déterminer quand une personne cesse d'occuper ce poste. Compte tenu de ce silence, la Cour a estimé qu'il était « logique de se tourner vers la loi régissant la constitution en personne morale de la compagnie pour y trouver une réponse ». J'estime que la même approche doit prévaloir en matière de TPS puisque la Loi est également silencieuse à cet égard.
+[10] Ce sont les articles 102 et suivants de la Loi canadienne sur les sociétés par actions qui établissent les règles applicables aux administrateurs. Aux fins du présent litige, il est utile de rappeler certaines dispositions concernant la durée et la fin de mandat des administrateurs. D'abord les paragraphes 106(2) à (6) prévoient ce qui suit sur la durée du mandat :
+106. (1) ...
+(2) [Durée du mandat] Le mandat des administrateurs dont le nom figure sur la liste visée au paragraphe (1) commence à la date du certificat de constitution et se termine à la première assemblée des actionnaires.
+(3) [Élection des administrateurs] Sous réserve de l'alinéa 107b), les actionnaires doivent, à leur première assemblée et, s'il y a lieu, à toute assemblée annuelle subséquente, élire, par résolution ordinaire, les administrateurs dont le mandat expirera au plus tard à la clôture de la troisième assemblée annuelle suivante.
+(4) [Durée des mandats] Il n'est pas nécessaire que le mandat de tous les administrateurs élus lors d'une assemblée ait la même durée.
+(5) [Durée non déterminée] Le mandat d'un administrateur élu pour une durée non expressément déterminée prend fin à la clôture de la première assemblée annuelle suivante.
+(6) [Poursuite du mandat] Nonobstant les paragraphes (2), (3) et (5), le mandat des administrateurs, à défaut d'élections de nouveaux administrateurs par une assemblée des actionnaires, se poursuit jusqu'à l'élection de leurs remplaçants.
+(7) ...
+[11] L'exception du paragraphe 102(6) est particulièrement importante à noter puisqu'on y prévoit l'extension du mandat des administrateurs jusqu'à l'élection de leurs remplaçants.
+[12] Par ailleurs, c'est l'article 108 qui traite de la fin du mandat dans les termes suivants :
+108. (1) [Fin du mandat] Le mandat d'un administrateur prend fin en raison :
+a) de son décès ou de sa démission;
+b) de sa révocation aux termes de l'article 109;
+c) de son inhabilité à l'exercer, aux termes du paragraphe 105(1).
+(2) [Date d'effet de la démission] La démission d'un administrateur prend effet à la date de son envoi par écrit à la société ou, à la date postérieure qui y est indiquée.
+[13] La société est toujours en existence. Il n'y a aucune preuve que l'appelant ait démissionné, qu'il ait été révoqué ou qu'il soit inhabile à exercer son mandat. Au contraire, l'appelant a admis qu'il était et est toujours le seul administrateur de la société. Il a affirmé qu'il continue d'ailleurs de produire les déclarations fiscales et les rapports annuels. C'est uniquement compte tenu de cette réalité juridique que le paragraphe 323(5) doit être interprété. Dans les circonstances, il est clair qu'il ne peut y avoir prescription puisque l'appelant n'a jamais légalement cessé d'être administrateur de la société.
+[14] Le deuxième motif de contestation porte sur la question de diligence raisonnable. À cet égard, le paragraphe 323(3) de la Loi précise ce qui suit :
+L'administrateur n'encourt pas de responsabilité s'il a agi avec autant de soin, de diligence et de compétence pour prévenir le manquement visé au paragraphe (1) que ne l'aurait fait une personne raisonnablement prudente dans les mêmes circonstances.
+[15] Dans sa décision dans l'affaire Soper c. Canada, [1998] 1 C.F. 124, la Cour d'appel fédérale a procédé à un examen approfondi du paragraphe 227.1(3) de la Loi de l'impôt sur le revenu prévoyant une exonération semblable. Sous la plume du juge Robertson, la Cour a clairement dégagé le principe que la norme de prudence contient des éléments objectifs et des éléments subjectifs. Les éléments objectifs se rapportent au soin, à la diligence et à la compétence dont « une personne raisonnablement prudente » aurait fait preuve alors que les éléments subjectifs, traduits par l'expression « dans les mêmes circonstances » réfèrent aux connaissances, à l'expérience et à la situation de l'administrateur lui‑même.
+[16] Les circonstances dans lesquelles se trouve un administrateur, notamment le fait qu'il soit un administrateur externe plutôt qu'un administrateur interne constitue donc, selon le juge Robertson dans l'affaire Soper (précitée), le point de départ de l'analyse de la responsabilité d'un administrateur. Au paragraphe 44, il s'exprime d'ailleurs sur la distinction dans les termes suivants :
+Je tiens tout d'abord à souligner qu'en adoptant cette démarche analytique, je ne donne pas à entendre que la responsabilité est simplement fonction du fait qu'une personne est considérée comme un administrateur interne par opposition à un administrateur externe. Cette qualification constitue plutôt simplement le point de départ de mon analyse. Mais cependant, il est difficile de nier que les administrateurs internes, c'est-à-dire ceux qui s'occupent de la gestion quotidienne de la société et qui peuvent influencer la conduite de ses affaires, sont ceux qui auront le plus de mal à invoquer la défense de diligence raisonnable. Pour ces personnes, ce sera une opération ardue de soutenir avec conviction que, malgré leur participation quotidienne à la gestion de l'entreprise, elles n'avaient aucun sens des affaires, au point que ce facteur devrait l'emporter sur la présomption qu'elles étaient au courant des exigences de versement et d'un problème à cet égard, ou auraient dû l'être. Bref, les administrateurs internes auront un obstacle important à vaincre quand ils soutiendront que l'élément subjectif de la norme de prudence devrait primer l'aspect objectif de la norme.
+[17] Dans la présente affaire, l'avocat de l'appelant prétend que ce dernier n'était qu'un administrateur externe et soutient que l'on doit adopter dans l'analyse l'approche retenue à l'égard de ce type d'administrateur (voir notamment, Cadrin c. La Reine, 99 DTC 5079 (C.A.F.)). Or, on sait que l'appelant était le seul et unique administrateur de la société, celui qui signait notamment tous les contrats et tous les états financiers, et celui qui s'occupait de la gestion quotidienne de la société, dont il était également le seul actionnaire.
+[18] Par ailleurs, j'estime également important de rectifier un second point en ce qui concerne, cette fois, le fardeau de preuve. Contrairement à ce que semble avancer l'avocat de l'appelant dans sa plaidoirie écrite, c'est à celui-ci qu'incombe le fardeau d'établir, selon la prépondérance des probabilités, qu'il a agi avec le degré de soin, de diligence et de compétence requis. Il n'appartient pas « au Ministère » ou à l'intimée de démontrer l'inverse.
+[19] Selon monsieur Yves Ouellette, vérificateur à Revenu Québec, qui a procédé à la cotisation pour la TPS non remise, la majeure partie de la cotisation contre la société et subséquemment contre l'appelant, concerne la taxe applicable sur les services des croupiers rendus par les employés de la société lors de la tenue de certains casinos au cours des années en litige. Toutefois, monsieur Ouellette a également mentionné qu'il y avait aussi une partie des taxes dues attribuable à d'autres éléments. Ainsi, il a notamment fait état de taxes inscrites aux livres de la société et qui n'avaient pas fait l'objet de remises ainsi que de certains rajustements aux crédits de taxe sur les intrants (« CTI ») (voir pièce I‑10).
+[20] Lors de son témoignage, l'appelant a souligné à plusieurs reprises que la tenue des casinos était très surveillée tant par la Régie que par la Sûreté du Québec. Selon lui, les organismes, sociétés d'agriculture ou autres, qui obtenaient un permis d'exploitation d'un casino de la Régie devaient aussi retenir les services d'une firme comptable indépendante et distincte de celle de la société. Les livres de ces organismes étaient également sous surveillance. C'est un certain Gil Comptois qui était chargé de la comptabilité pour plusieurs organismes et qui préparait pour eux des états financiers vérifiés.
+[21] La société avait son siège social à la résidence de l'appelant et une secrétaire y travaillait. La tenue de livres était faite par une certaine dame Renée Côté, laquelle semble‑t‑il aurait contracté avec la société par l'intermédiaire d'une société de gestion. Par ailleurs, la firme comptable Raymond, Chabot, Martin, Paré avait été retenue pour dresser les états financiers de la société. Toutefois, cette firme n'avait aucun mandat de vérification ou d'examen contrairement à ce que l'appelant a affirmé lors de son témoignage (voir pièce I‑6, Avis au lecteur).
+[22] Quant à la question de la relation juridique entre la société et les personnes avec lesquelles elle contractait pour rendre les services de croupiers ou autres lors de la tenue des casinos, c'est‑à‑dire la question de savoir s'ils étaient des employés de la société ou des travailleurs autonomes, l'appelant a indiqué que la société avait déjà fait l'objet d'une vérification par Revenu Québec en 1991. Il a affirmé qu'à ce moment, il aurait demandé un avis pour savoir si sa façon de procéder, en contractant avec des travailleurs autonomes plutôt qu'avec des employés, était correcte. On lui aurait répondu par l'affirmative et on lui aurait fait des recommandations. Aucun document n'a été soumis en preuve concernant cette prétendue vérification faite en 1991, l'avis demandé ou les recommandations faites.
+[23] En mai 1995, à la demande semble‑t‑il du Festival d'été de Québec, la société a demandé une opinion à sa firme comptable concernant sa relation avec les travailleurs autonomes, lors de la tenue de casinos et afin que le personnel requis soit dorénavant fourni et payé par les organismes‑clients eux‑mêmes. De la sorte, la société n'aurait plus à percevoir les taxes dont la TPS à l'égard des services rendus par ces travailleurs.
+[24] L'opinion a été obtenue d'un certain Normand Gervais, fiscaliste d'une autre firme, auquel s'était adressé monsieur Pierre Lapointe, responsable du compte de la société chez Raymond, Chabot, Martin, Paré. L'opinion de monsieur Gervais est rédigée dans les termes suivants : (pièce A-6)
+...
+Gérald Martin Animat inc. rend ses services d'organisation de casino pour des organismes sans but lucratif. Les organismes obtiennent de la Régie des loteries et courses des permis d'exploitation de casino et en donnent la gérance par contrat à des sociétés comme Gérald Martin Animat inc.
+Selon les ententes actuellement faites, Gérald Martin Animat inc. agit à titre d'opérateur du casino et s'engage à fournir, entre autres, tout le personnel requis et nécessaire pour la tenue de l'événement. Ce personnel est composé notamment de travailleurs autonomes.
+Gérald Martin Animat inc. prévoit modifier ses ententes futures afin que le personnel (travailleurs autonomes) requis et nécessaire pour le terme de l'événement soit fourni par les clients de Gérald Martin Animat inc. et constitue une dépense directe pour ses clients.
+Sous réserve de la règle générale anti‑évitement discutée plus loin, nous comprenons que les travailleurs autonomes auraient dorénavant un contrat de service avec les clients. Par conséquent, les travailleurs autonomes appliqueront, le cas échéant, la TPS et la TVQ lors de la facturation aux clients et ces derniers récupéreront les montants admissibles.
+Un travailleur autonome n'a pas à percevoir la TPS et la TVQ notamment si ses revenus bruts pour les quatre derniers trimestres n'excèdent pas 30 000 $ (petit fournisseur) et qu'il n'est pas inscrit.
+Un client peut normalement récupérer la totalité de la TPS et de la TVQ s'il s'agit d'activités commerciales. Des exceptions s'appliquent, entre autres, pour les organismes sans but lucratif. En effet, la tenue d'un jeu de hasard est normalement une fourniture exonérée, ce qui limite la récupération de la TPS et de la TVQ. Un tel organisme pourra tout de même récupérer 50 % de la TPS et de la TVQ si son pourcentage de financement public est d'au moins 40 %.
+De plus, vous nous mentionnez que Gérald Martin Animat inc. pourrait agir à titre de mandataire de ses clients pour la recherche et le paiement des travailleurs autonomes.
+Notre expérience avec les autorités fiscales nous démontre que la notion de mandataire doit être établie sans équivoque, tant dans les ententes que dans les faits. Ainsi, les travailleurs autonomes devront facturer les clients. Gérald Martin Animat inc. pourrait recevoir les factures et effectuer les paiements pour et au nom des clients. Dans un contexte où toutes les relations légales entre le mandant (client) et le mandataire (Gérald Martin Animat inc.) sont clairement établies, ces paiements seront réputés faits par les clients. Par conséquent, aucune inscription aux livres de Gérald Martin Animat inc. ne serait à faire face à ces factures.
+[25] Monsieur Gervais suggère ensuite certaines modifications qui devraient être apportées au contrat dans les termes suivants :
+Compte tenu des modifications discutées ci‑avant, les ententes futures devraient être modifiées en ce sens, le texte suivant n'étant fourni qu'à titre indicatif :
+a) Gérald Martin Animat inc. devrait être désignée le maître d'œuvre pour la tenue du casino plutôt que l'opérateur (préambule et article 2);
+b) Les paragraphes 3.1 c), d) et j) devraient être retirés;
+c) Il faudrait ajouter à l'article 4.1 le paragraphe suivant :
+a) Tout le personnel requis et nécessaire pour la tenue du casino devrait être fourni par (client) et est à sa charge. (client) verra à obtenir les services de personnes qualifiées pour ce genre d'événement.
+d) Si un mandat pour la recherche et le paiement du personnel est requis, il faudrait ajouter un paragraphe à cet effet.
+« (client) mandate Gérald Martin Animat inc. pour que ce dernier effectue, pour et au nom du mandant, la recherche et le paiement du personnel requis et nécessaire à la tenue du casino.
+(client) s'engage à remettre à Gérald Martin Animat inc. les sommes ainsi avancées pour lui sur présentation des pièces justificatives des dépenses payées pour et au nom de (client) . »
+[26] Monsieur Gervais commente ensuite la règle générale anti‑évitement en ces termes :
+Les législations en matière de TPS et TVQ comprennent une règle générale anti‑évitement. Sommairement, cette règle s'applique lorsqu'un contribuable obtient un avantage fiscal et qu'il est raisonnable de considérer qu'il y a abus dans l'application de la Loi, à moins d'un objectif commercial véritable autre qu'un avantage fiscal. L'avantage fiscal désigne entre autres la réduction, le report ou l'évitement de la taxe.
+Même si nous considérons que le fait de structurer ses affaires pour diminuer la charge fiscale n'est pas en soit une opération d'évitement, les autorités fiscales pourraient prendre une position différente face aux éléments discutés ci‑avant.
+[27] Monsieur Gervais complète son opinion avec les réserves d'usage dont la suivante :
+...
+Nous vous soulignons que ce mémorandum concernant les transactions projetées ne représente pas nécessairement l'opinion de Revenu Canada ou du ministère du Revenu du Québec. Ces derniers sont libres de contester par voie judiciaire toute position que vous pourriez prendre.
+...
+[28] Dans son témoignage, l'appelant a affirmé qu'il avait suivi ces recommandations à compter de mai 1995, mais qu'il laissait aux organismes le choix de déterminer la façon de procéder quant à l'engagement du personnel requis.
+[29] Toutefois, comme on peut le constater, l'hypothèse à la base de l'opinion est que la société contractait avec des travailleurs autonomes et non qu'elle engageait des individus qui avaient le statut d'employés pour la tenue des casinos.
+[30] L'appelant a affirmé qu'au cours des années en litige, la société avait engagé des employés mais qu'elle contractait aussi avec des travailleurs autonomes. En contre‑interrogatoire, il a admis que la même personne pouvait être tantôt l'un et tantôt l'autre. Toutefois, il n'a jamais expliqué sur quelle base et selon quels critères ces relations étaient établies et il semble qu'il s'agisse bien là du coeur du problème. En effet, les cotisations établies à l'encontre de la société l'ont été d'abord suite à une vérification concernant les déductions à la source que la société n'avait pas faites à l'égard d'individus qui ont été considérés comme employés par le vérificateur. Comme je l'ai mentionné plus haut, c'est à la suite de cette première vérification qu'il y en a eu une deuxième pour établir les taxes, dont la TPS, qui auraient dû être facturées et remises à l'égard des sommes chargées aux clients pour les services d'individus qui avaient été considérés comme des employés de la société par le premier vérificateur.
+[31] Il ne suffit pas de prétendre contracter avec des travailleurs autonomes pour s'éviter de faire les déductions à la source ou percevoir les taxes applicables à l'égard des services rendus, encore faut‑il être capable de démontrer qu'on avait des motifs raisonnables de croire à la nature de cette relation et qu'on ne tentait pas de faire passer pour des travailleurs autonomes des individus à l'égard desquels il n'y avait pas de doute qu'il s'agissait véritablement d'employés.
+[32] Or, la cotisation de la TPS à l'encontre de la société a été établie pour la majeure partie sur la base que les services rendus l'avaient été par des employés de la société et que celle-ci n'avait pas facturé la taxe à cet égard. Il n'y a pas eu d'appel de cette cotisation.
+[33] Dans le présent litige, l'appelant n'a aucunement établi en quoi, comme administrateur, il était raisonnablement justifié de ne pas facturer et percevoir la TPS pour la tenue de certains casinos alors qu'il le faisait dans d'autres cas. Prétendre avoir suivi l'opinion donnée par monsieur Gervais concernant les travailleurs autonomes ne m'apparaît certainement pas constituer une explication suffisante dans les circonstances, d'autant plus que l'appelant a affirmé avoir laissé aux organismes le soin de décider de la façon de procéder. À titre d'administrateur de la société et comme personne qui signait tous les contrats avec les organismes, l'appelant aurait dû être en mesure de fournir des explications moins confuses et plus complètes à cet égard.
+[34] Quant à la question concernant la tenue de livres et la comptabilité de la société, le témoignage du vérificateur Ouellette est assez éloquent et démontre des lacunes importantes à tel point qu'il a dû se fier plutôt à la comptabilité établie par chacun des organismes pour effectuer sa vérification et pouvoir établir les cotisations.
+[35] Monsieur Ouellette a d'abord constaté un manque flagrant de registres comptables et l'absence d'autres documents dont des factures pouvant lui permettre d'établir une conciliation. Il a également noté qu'il n'y avait pas de conciliation bancaire. Monsieur Ouellette a donc obtenu, soit de la société elle‑même, soit des organismes, tous les contrats signés depuis 1993 en rapport avec les activités de casinos. Il a rencontré le comptable principal des organismes, monsieur Gil Comptois, ainsi que d'autres comptables dans le but de connaître les déboursés réels des organismes à la société pour la tenue de ces casinos. Lors de sa vérification, monsieur Ouellette a noté que les contrats avec les organismes étaient différents en ce que les services des croupiers étaient facturés dans certains cas et ne l'étaient pas dans d'autres et que la pratique pouvait même être différente d'une année à l'autre à l'égard d'un même organisme (voir pièce I-7). Toutefois, à l'égard de certains organismes, notamment ceux de la région de Québec, la taxe a toujours été facturée à l'égard des services de croupiers.
+[36] Monsieur Ouellette a ainsi tenté de faire une conciliation entre les revenus de la société et les dépenses payées par les organismes puisque la société n'avait pas de registre « caisse‑recettes » et n'effectuait pas de conciliation bancaire. Ainsi, à titre d'exemple en rapport avec la tenue d'un casino pour l'exposition agricole de La Chaudière du 21 au 30 juillet 1995, il a déterminé que deux factures avaient été émises par la société au nom de l'organisme, l'une au montant de 158,50 $ et l'autre au montant de 85 741,30 $ pour un total de 85 899,80 $. Bien qu'un dépôt de ce montant figure sur le relevé bancaire, on ne peut retracer ce montant, ni les numéros de factures dans la conciliation préparée par madame Renée Côté pour les mois de juillet à octobre 1995. Monsieur Ouellette a, par ailleurs, constaté des dépôts de montants importants dont il ne pouvait vérifier la provenance en l'absence d'informations à cet égard. De même, selon lui, une note de crédit de 107 000 $ n'était appuyée d'aucun document et la remise d'un montant de 50 000 $ à un croupier est demeurée sans explication (voir pièces I-8 et I-9).
+[37] Dans son témoignage, monsieur Ouellette a affirmé, qu'outre les erreurs retracées par madame Côté concernant cette période de juillet à octobre 1995 pour laquelle elle aurait tenté, à sa demande, d'établir une conciliation, certaines transactions ne seraient appuyées sur aucun document et aucune explication n'a pu être fournie. De plus, le même exercice effectué par madame Côté pour 1996 aurait, selon elle, révélé 100 000 $ de plus en revenu et 7 000 $ en taxes non versées. Monsieur Ouellette a également fait état d'une perte de 89 542 $ qui aurait été comptabilisée aux états financiers en rapport avec un projet d'investissement dans un casino hors Québec et qui n'était appuyée par aucun document.
+[38] Monsieur Ouellette a affirmé avoir, dès le début de sa vérification des affaires de la société, posé certaines questions et demandé des documents à l'appelant qui l'a référé soit au comptable Lapointe, soit à madame Côté responsable de la tenue des livres. Au cours de sa vérification, monsieur Ouellette a eu plusieurs conversations téléphoniques avec madame Côté. De plus, une certaine madame Belleau qui agissait comme secrétaire lui aurait remis certains documents. Monsieur Ouellette aurait également demandé des documents manquants lors de l'émission du projet de cotisation et donné à l'appelant un délai pour les fournir.
+[39] Dans son témoignage, monsieur Ouellette a également affirmé que la société n'avait pas fait l'objet d'une vérification en 1991, contrairement à ce que l'appelant a affirmé. Selon lui, il n'y a aucune preuve non plus qu'un avis ait été demandé et que des recommandations aient été faites par Revenu Québec à cette époque concernant la taxe applicable aux services des croupiers travaillant pour la société ou concernant l'utilisation de travailleurs autonomes.
+[40] En contre-preuve, l'appelant qui semble s'en être remis entièrement à madame Côté et au comptable Lapointe concernant la tenue de livres et la comptabilité de la société a fourni ou tenté de fournir certaines explications concernant des éléments relevés par monsieur Ouellette. Ainsi, il a expliqué que des dépôts importants aux comptes de banque de la société provenaient de paiements faits par Visa ou Mastercard à l'égard des retraits effectués par les clients des casinos sur leur carte de crédit. Comme les organismes au profit desquels les casinos étaient organisés ne pouvaient obtenir un numéro de marchand auprès de Visa ou de Mastercard, c'est la société qui avait un numéro permanent et fournissait par la suite ce service aux organismes.
+[41] La note de crédit de 107 000 $ n'a jamais été expliquée par l'appelant. Quant à la remise d'une somme de 50 000 $ à un croupier, elle aurait, selon lui, servi de fonds de roulement pour l'un des casinos organisé par la société laquelle utilisait ses propres liquidités à cette fin.
+[42] En ce qui concerne la perte de 89 000 $, l'appelant a expliqué qu'il s'était associé avec une autre personne pour investir dans un casino à l'étranger et que le montant de 89 000 $ représentait le montant de sa part dans ce projet, soit l'équivalent de 74 000 $US. Après l'audition et avec l'assentiment de l'avocat de l'intimée, l'avocat de l'appelant a fait parvenir des documents à cet égard. Selon les documents soumis, un transfert bancaire de 89 542 $ (soit 75 000 $US) a été fait par la Société de Gestion B. & G. Inc. qui détenait des placements garantis au Trust Prêt et Revenu à la Banque Nationale du Canada en date du 26 juin 1992. Ce transfert aurait par la suite été acheminé par l'intermédiaire de la Dresdner Bank U.S. de New York à la Dresdner Bank Schweiz A.G. en Suisse au compte d'un certain monsieur Dessureau. Le transfert aurait été effectué à la demande de l'appelant, l'un des dirigeants de la Société de Gestion B. & G. Inc. Tout ce que l'on peut affirmer c'est que ni les explications fournies par l'appelant lors de l'audition, ni les documents soumis par la suite ne rattachent d'une façon quelconque ce transfert à la société.
+[43] J'ai déjà traité de la responsabilité de l'appelant concernant la perception et de la remise de la TPS en rapport avec les services des croupiers. La taxe, à cet égard, constitue la plus grande partie de la cotisation.
+[44] Toutefois, selon monsieur Ouellette, certains autres montants ont été cotisés et les CTI ont été rajustés suite à la vérification. Comme je l'ai déjà dit, l'appelant semble s'en être remis totalement à madame Côté pour la tenue des livres et à monsieur Lapointe de chez Raymond, Chabot, Martin, Paré pour la préparation des états financiers. Je crois également comprendre des arguments de l'avocat de l'appelant (page 4, paragraphes 14 et 15 de la plaidoirie de l'appelant) que l'appelant ne serait aucunement responsable de la tenue de livres et de la comptabilité déficientes lesquelles ne seraient imputables qu'à ces personnes. À cet égard, il importe de rappeler qu'un teneur de livres et un comptable sont essentiellement des mandataires et qu'un administrateur d'une société, à plus forte raison s'il est un administrateur unique gérant quotidiennement les affaires de la société, ne peut se dégager de toute responsabilité en invoquant le manquement de ces personnes à leurs obligations. Sur ce point, dans son jugement dans l'affaire Roberts (K.) v. Canada, [1997] G.S.T.C. 58, traduction française [1997] A.C.I. no 771 (Q.L.), le juge Bowman commentait cette question au regard de la défense de diligence raisonnable en rapport avec la pénalité établie à l'alinéa 280(1)a) de la Loi en ces termes au paragraphe 9 :
+... Les comptables sont somme toute des mandataires de l'appelant, et ce dernier est responsable de ce qu'ils ont fait ou de ce qu'ils ont omis de faire. De la même façon que la diligence raisonnable dont font preuve les comptables ou les teneurs de livres d'un contribuable serait imputée à celui-ci et justifierait le retrait de la pénalité, l'absence de diligence raisonnable de la part des comptables ou des teneurs de livres empêche le contribuable de se prévaloir du recours envisagé dans le jugement Pillar Oilfield v. Canada, [1993] G.S.T.C. 49.
+[45] J'estime que le principe est également applicable lorsqu'un appelant, administrateur d'une société, veut se prévaloir de l'exonération prévue au paragraphe 323(3) de la Loi. Il n'est pas suffisant de rejeter simplement la responsabilité sur autrui. Encore faut-il que l'administrateur d'une société, surtout s'il en est l'administrateur unique, puisse faire état de gestes concrets et précis qu'il a accomplis dans le but de prévenir le manquement. J'estime que cette preuve n'a pas été faite.
+[46] En conséquence de ce qui précède, l'appel est rejeté.
+Signé à Ottawa, Canada, ce 23e jour de juin 2003
+« P. R. Dussault »
+J.C.C.I.
+RÉFÉRENCE :
+2003CCI414
+No DU DOSSIER DE LA COUR :
+2002-250(GST)I
+INTITULÉ DE LA CAUSE :
+Gérald Martin et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATES
+Audience :
+Plaidoirie écrite de l'appelant :
+Plaidoirie de l'intimée :
+Réplique de l'appelant :
+le 27 février 2003
+le 1er avril 2003
+le 15 avril 2003
+le 30 avril 2003
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge P.R. Dussault
+DATE DU JUGEMENT :
+le 23 juin 2003
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Jean-Paul Boily
+Avocat de l'intimée :
+Me Philippe Morin
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelant :
+Nom :
+Étude :
+Ville :
+Me Jean-Paul Boily
+Boily Morency Roy
+Québec (Qc)
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

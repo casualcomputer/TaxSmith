@@ -1,0 +1,249 @@
+---
+title: "Bawolin v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27395/index.do"
+last_modified: "2006-12-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 694"
+citation2: ""
+neutral_citation: "2006 TCC 694"
+decision_date: "2006-12-27"
+language: "en"
+item_id: "27395"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 152
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:25:32.298000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "552abbc2a93d61a1bfbfa1a2d811b42c52d19604baf7b207e687ac6764c93bc3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bawolin v. The Queen
+
+- Citation: 2006 TCC 694
+- Decision date: 2006-12-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 152, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bawolin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-12-27
+Neutral citation
+2006 TCC 694
+File numbers
+2005-4276(GST)I
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2005-4276(GST)I
+BETWEEN:
+ANNIE A. BAWOLIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on December 18, 2006, at Yorkton, Saskatchewan
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+Agent for the Appellant:
+Nashon Kenneth Bawolin
+Counsel for the Respondent:
+Anne Jinnouchi
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated May 10, 2006, is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Saskatoon, Saskatchewan, this 27th day of December, 2006.
+"D.W. Beaubier"
+Beaubier J.
+Citation: 2006TCC694
+Date: 20061227
+Docket: 2005-4276(GST)I
+BETWEEN:
+ANNIE A. BAWOLIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Beaubier, J.
+[1] This appeal pursuant to the Informal Procedure was heard at Yorkton, Saskatchewan, on December 18, 2006. The Appellant's agent called Debra Hohn Bawolin, Lynne Bawolin, and Lowell Koehn to testify on behalf of the Appellant.
+[2] Particulars respecting this appeal are set forth in paragraphs 12 to 19 of the Reply to the Notice of Appeal. They read:
+12. By Notice of Assessment number 09FS0400233 dated November 4, 2004 (the "Assessment"), the Minister assessed the Appellant net tax of $3,719.80, penalty of $1,935.56 and interest of $822.51 for the reporting periods ending between July 1, 2001 and December 31, 2003 (the "relevant period"). The net tax assessed was calculated as follows:
+tax collectible reported in GST returns
+1,147.00
+input tax credits ("ITCs") claimed in GST returns
+-12,224.94
+Amount collected as tax on sale of vehicles declared in a letter
+__2,912.00
+net tax reported
+-8,165.94
+adjustments
+ITCs disallowed
+12,103.10
+excessive tax collectible reported
+-217.40
+net tax assessed
+3,719.76
+13. The Appellant objected to the Assessment by a Notice of Objection received on December 20, 2004.
+14. By Notice of Decision, dated August 30, 2005, the Minister disallowed the objection and confirmed the Assessment.
+15. On May 10, 2006, the Tax Court of Canada issued an order extending the time to file an appeal from the Assessment and the Appellant's appeal was considered filed on that day.
+16. In assessing the Appellant and confirming the Assessment the Minister relied on the following assumptions of fact:
+(a) the Appellant registered for GST effective August 6, 2001 and was assigned GST registration number 879058113;
+(b) the Appellant was required to file GST returns on a quarterly basis;
+(c) the Appellant owned two parcels of land situated in the Vesna District / R.M. of St. Phillips in Saskatchewan, legally described as NW ¼ 21-33-30W1 and NW ¼ 22-33-30 W1 (the "Land");
+(d) in 2002, the Appellant supplied the Land under a rental/lease agreement to Lowell Jacob Koehn operating as Koehn Farms;
+(e) the Appellant rented/leased the Land to Koehn Farms for annual consideration of $5,440.00 plus the applicable GST;
+(f) the Appellant's only commercial activity during the relevant period was the supply of the Land to Koehn Farms;
+(g) at no time during the relevant period did the Appellant carry on a farming operation;
+(h) the Appellant filed GST returns for the relevant period reporting tax collected/collectible, ITCs and net tax, for which the Minister paid refunds, described as follows:
+Period
+Ending
+tax
+Collectible
+Input tax
+credits
+claimed
+net
+tax
+Refunds
+Paid
+2003-12-31
+168.00
+713.00
+-545.00
+545.00
+2003-09-30
+240.00
+710.00
+-470.00
+470.00
+2003-06-30
+27.41
+-27.41
+27.41
+2003-03-31
+399.00
+402.35
+-3.35
+3.35
+2002-12-31
+340.00
+343.55
+-3.55
+3.55
+2002-09-30
+301.23
+-301.23
+303.36
+***
+2002-06-30
+101.73
+-101.73
+101.73
+2002-03-31
+3,508.36
+-3,508.36
+3,508.36
+2001-12-31
+2,507.35
+-2,507.35
+2,507.35
+2001-09-30
+__________
+_3,609.96
+_-3,609.96
+_3,609.96
+Total
+1,147.00
+12,224.94
+-11,077.94
+11,080.07
+***includes interest of $2.13
+(i) in addition to the GST returns filed, the Appellant reported total tax collected of $2,912.00 on the sale during the relevant period of a 2001 GMC ½ ton truck and a 2001 Chrysler PT Cruiser (the "vehicles") more fully described as follows:
+(i) 2001 GMC ½ ton sold for $20,000.00 on which tax of $1,400.00 was collected:
+(ii) 2001 PT Chrysler PT Cruiser sold for $21,600.00 on which tax of $1,512.00 was collected;
+(j) the vehicles were for the personal use of the Appellant and were not part of her commercial activity;
+(k) the Appellant was required to report and remit the $2,912.00 collected as tax on the sale of the vehicles;
+(l) in 2001, the Appellant incurred expenses to improve the Land of $1,740.00 on which tax of $121.80 was payable;
+(m) in supplying the Land to Koehn Farms in 2002, except for property taxes, the Appellant was required to incur no further expenses;
+(n) the Appellant sought to claim ITCs of $12,224.94 for the relevant period;
+(o) the Appellant was entitled to ITCs of no more than $121.80 for the relevant period;
+(p) $12,103.10 of the ITCs the Appellant sought to claim were not in respect of supplies acquired by the Appellant for use, consumption or supply in the course of the Appellant's commercial activity;
+(q) the ITCs in excess of the amount allowed were in respect of amounts that
+(i) could not be verified;
+(ii) could not be related to the commercial activity carried on by the Appellant;
+(iii) were for supplies of a personal nature such as household furniture, a television and legal fees;
+17. Assumption 16(q) was made at the audit and assessing stage. The Appeals Officer concluded that it was not necessary to review documents that may support the alleged ITCs as the Appellant, in supplying the Land to Koehn Farms, except for the property tax assessed on the Land, was required to incur no expenses.
+B. ISSUES TO BE DECIDED
+18. The issues to be decided are:
+(a) whether the Minister property disallowed ITCs sought by the Appellant of $12,103.10; and
+(b) whether the Appellant is required to report the $2,912.00 collected as tax on the sale of the vehicles.
+C. STATUTORY PROVISIONS, GROUNDS RELIED ON AND RELIEF SOUGHT
+19. He relies on subsections 123(1) and sections 165, 169, 170, 221, 222, 225, 228, 280, 281.1, 286, 288, 296 and 299 of the Excise Tax Act (the "Act"); the provisions of the Input Tax Credit Information Regulations SOR/91-45 (the "Regulations") and section 18.3009 of the Tax Court of Canada Act.
+[3] None of the assumptions were refuted by the evidence.
+[4] No evidence was led by the Appellant respecting issue (b) described in paragraph 18 of the Reply. Therefore, the appeal is dismissed respecting that issue.
+[5] The Appellant or her lawyers drew a number of assorted forms alleged to be "Custom Farm Contracts". She also received rent cheques from Mr. Koehn that she asked him to replace, which he did. Ultimately, they signed the undated document exhibited as R-1 and A-2 which calls itself a "Custom Farm Contract" but which is, in fact and in law, a lease of the land in question from the Appellant to Lowell Koehn, under the trade name "Koehn Farms" of two one-quarter sections of land for an annual rent of $5,821 for each "fiscal period" of 2002, 2003 and 2004. Mr. Koehn testified that the rent was calculated as $20 per acre for 272 cultivated acres, or $5,440 plus GST, which he paid to the Appellant. The documents exhibited and the numbers in evidence confirm this to be true.
+[6] A custom farm contract is a contract whereby the landowner pays the contractor what are usually fixed amounts for each operation done by the contractor on the land. Thus, a hypothetical pro forma example of a custom farm contract would have a schedule something like this:
+Cultivating
+$6/acre
+Seeding (The landowner to supply the appropriate seed that he/she chooses.)
+$7/acre
+Spraying weeds
+$5/acre
+Spraying insects
+$5/acre
+Combining
+$20/acre
+Delivery to elevator
+$0.50/bushel
+In other words, the landowner pays and takes the risk of a good crop of good quality to be sold for good prices by the landowner.
+[7] The contractor does not get the crop and does not pay the landowner. But that is what happened in this case, where Mr. Koehn paid Mrs. Bawolin rent for a lease.
+[8] The Appellant did not submit into evidence any of the alleged receipts for work done, buildings or equipment upon which the alleged GST claimed for Input Tax Credits was paid, although her agent was invited to do so by the Court.
+[9] For these reasons, the appeal is dismissed.
+Signed at Saskatoon, Saskatchewan, this 27th day of December, 2006.
+"D.W. Beaubier"
+Beaubier J.
+CITATION: 2006TCC694
+COURT FILE NO.: 2005-4276(GST)I
+STYLE OF CAUSE: Annie A. Bawolin v. The Queen
+PLACE OF HEARING: Yorkton, Saskatchewan
+DATE OF HEARING: December 18, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice D.W. Beaubier
+DATE OF JUDGMENT: December 27, 2006
+APPEARANCES:
+Agent for the Appellant:
+Nashon Kenneth Bawolin
+Counsel for the Respondent:
+Anne Jinnouchi
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,214 @@
+---
+title: "1863-4725 Québec Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25565/index.do"
+last_modified: "2005-01-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 47"
+citation2: ""
+neutral_citation: "2005 TCC 47"
+decision_date: "2005-01-17"
+language: "en"
+item_id: "25565"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2464
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:08:43.932000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fce367fa421915129421d6e6fac8dba8ad4c8e728eedd7733b6e12505f34eb96"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 1863-4725 Québec Inc. c. La Reine
+
+- Citation: 2005 TCC 47
+- Decision date: 2005-01-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2464, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+1863-4725 Québec Inc. c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-01-17
+Neutral citation
+2005 TCC 47
+File numbers
+2002-2656(GST)I
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2002-2656(GST)I
+BETWEEN:
+1863-4725 QUÉBEC INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeal of
+2415-7851 Québec Inc. (2002-2653(GST)I)
+on February 6 and June 16, 2004, at Sherbrooke, Quebec.
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellant:
+Pierre A. Cloutier
+Counsel for the Respondent:
+Frank Archambault
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act bearing number 22150 and dated July 14, 2000, is dismissed based on the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 17th day of January 2005.
+"François Angers"
+Angers J.
+Translation certified true
+on this 25th day of April 2005.
+Daniela Possamai, Translator
+Docket: 2002-2653(GST)I
+BETWEEN:
+2415-7851 QUÉBEC INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+__________________________________________________________________
+Appeal heard on common evidence with the appeal of
+1863-4725 Québec Inc. (2002-2656(GST)I)
+on February 6 and June 16, 2004, at Sherbrooke, Quebec.
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellant:
+Pierre A. Cloutier
+Counsel for the Respondent:
+Frank Archambault
+_______________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act bearing number 22149 and dated July 14, 2000, is dismissed based on the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 17th day of January 2005.
+"François Angers"
+Angers J.
+Translation certified true
+on this 25th day of April 2005.
+Daniela Possamai, Translator
+Citation: 2005TCC47
+Date: 20050117
+Dockets: 2002-2656(GST)I
+2002-2653(GST)I
+BETWEEN:
+1863-4725 QUÉBEC INC. and
+2415-7851 QUÉBEC INC.
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers J.
+[1] The two corporate Appellants are appealing their assessments dated March 13, 2002, for the period from January 1, 1996, to December 31, 1998. These two assessments involve adjustments to the net tax owed by the two corporate Appellants under the Excise Tax Act (the "Act"). In the case of the Appellant 1863-4725 Québec Inc. ("1863"), the amount of the adjustment is $23,974.76, with $3,274.06 in interest and $4,355.52 in penalties. As for the Appellant 2415-7851 Québec Inc. ("2415"), the amount of the adjustment is $10,710.53, with $1,892.96 in interest and $2,581.91 in penalties.
+[2] The two corporate Appellants are registrants for GST purposes. The company 1863 Inc. operates a hardware, construction materials and stationery business, whereas 2415 operates a residential and commercial construction business. The majority shareholder in the two corporate Appellants is Jean-Guy Prévost, who operates a personal excavation and commercial real property leasing business.
+[3] A summary of the dispute between the parties is contained in the assumptions of fact upon which the Minister of National Revenue (the "Minister") based its assessment. In the case of 1863, the Minister claimed that the accounting records of 1863, both automated and manual, are inadequate where cash sales recorded are concerned. Furthermore, a review of the invoices issued by the Appellant to a certain Martin Prévost indicated a discrepancy between the GST owed and the GST reported by the Appellant. The Minister therefore used the data from the Appellant's computer systems to determine the GST owed. This analysis revealed discrepancies between the GST owed and the GST reported by the Appellant, and between the GST collected and the GST not reported by the Appellant. The Minister proceeded with the same review using the Appellant's manual accounting system, and the discrepancy between the GST reported and the GST owed was essentially identical to that calculated using the automated accounting system. The Minister also disallowed input tax credits because the Appellant was unable to produce invoices. There was therefore an adjustment in the amount of $23,974.76, plus interest and penalties.
+[4] In the case of 2415, the assessment was made based on the Appellant's invoices, deposits, contracts and disbursements; according to this information, the Appellant failed to remit the amount of $4,405 in GST for the period at issue. Using monthly bank statements, cancelled cheques and the statement of receipts and disbursements for 1998, the Minister determined the input tax credit (the "ITC") the Appellant was entitled to for the period at issue. It therefore ensued that the Appellant allegedly overclaimed an ITC totalling $6,305.29. An adjustment in the amount of $10,710.53 was therefore made, with interest and penalties.
+[5] The two corporate Appellants are contesting the assessments on the ground that the Minister refused to consider the Appellants' manual accounting system and, as such, did not consider accounts payable that did not appear in the automated system. The corporate Appellants are also requesting that certain transactions be reviewed so as to determine whether the GST to be remitted was properly determined in the case of projects "Caron-Robideau," "Garand-Favreau," "Jacques Bosse" and "Marc Roy." Finally, did the Minister tax a loan for $100,000 for a project entitled "Loisirs Cookshire" in the case of 1863?
+[6] The problem in this case lies primarily in the fact that the corporate Appellants use two accounting systems, one is automated and the other is manual. Although the evidence seems to indicate that accounting results are essentially the same in the case of both systems, that seems to cause a problem, to say the least, when calculating the GST and ITCs, particularly if the accounts payable do not appear in the automated system, and if the GST was calculated using bank deposits, as well. Furthermore, the inconsistency in making accounting entries for each transaction, particularly transactions involving the projects mentioned above, that is to say, the fact of assigning revenues and expenses to the proper entities¾either corporate Appellant or Jean-Guy Prévost¾for GST purposes is, in my opinion, the reason for the problems encountered in calculating the net tax of the two corporate Appellants.
+2415
+[7] Josée Bourbeau has been an auditor with the Department of National Revenue since 1992. In her audit of the two corporate Appellants, she discovered that the cash method was used in the accounting records of 2415. There is no sales journal or statement of receipts and disbursements. She discovered discrepancies between the accounting records and the GST amounts reported for each trimester of the period at issue. In an attempt to balance the GST that was reported to the Minister with the amount of the sales indicated on the financial statements, she reviewed the manual accounting calculation sheets of 2415 and found that there was a significant discrepancy between the taxes to be reported based on the worksheets and the taxes actually reported. She also reconstructed the revenues of 2415 based on the deposits, invoicing and contracts issued. This exercise was necessary in order to understand what happened in a transaction involving a project entitled the "Marc Roy project," which is at the heart of the dispute in the case of 2415.
+[8] The Marc Roy project dates back to 1996. Jean-Guy Prévost owned a piece a land and decided to build a house on it. The work began in the fall of 1995 and was to be completed the following spring. Construction material was supplied by 1863; it would appear as though 2415 carried out the construction work, although the evidence is not clear, because Mr. Prévost is also a builder and is a GST registrant. One thing is certain, in March 28, 1996, an option to purchase in favour of Jean-Guy Prévost was signed by Marc Roy for the purchase of the land and the house for the amount of $128,000, taxes included.
+[9] A deed of sale by which Jean-Guy Prévost sold the lot, on which a house had been built, to Marc Roy and Manon Dufresne was signed before a notary on June 6, 1996. The deed of sale indicates that the lot was vacant.
+[10] Mr. Prévost clearly testified that the construction was carried out in fall 1995 and spring 1996. To corroborate that statement, it suffices to review the certificate of location of the lot in question attesting that the lot was surveyed on April 9, 1996, and that the structure was on the land and is consistent with the zoning regulations. The certificate is issued to Jean-Guy Prévost. There is therefore an error on the deed of sale, an error that has been left unexplained.
+[11] The deed of sale indicates that the land was sold for $16,500, plus taxes. The GST was $1,155, and the QST was $1,147. The company 2415 Inc. became party to the deed of sale by undertaking to build a house, on the lot sold, whose construction was to be completed by August 31, 1996 (a house which, incidentally, and according to the photo attached to the certificate of location, seemed to be completed, at least on the outside, on April 9, 1996). The consideration is $84,090.25 plus taxes, $6,707.75 in GST and $6,664.63 in QST. The total consideration including taxes is therefore $116,265.20. There is therefore a discrepancy of $11,734.80 between the amount indicated in the deed of sale and that in the option to purchase; moreover, Jean-Guy Prévost testified that 2415 had nothing to do with the Marc Roy project.
+[12] In addition to this discrepancy, Jean-Guy Prévost received from the notary the amount of $119,055.88 for the sale. He insists that the selling price was $128,000 and that the difference between that amount and the amount he received represents the real estate agent's commission. Neither the real estate agent's invoice nor the breakdown of adjustments made for the purposes of this transaction were filed in evidence.
+[13] According to Mr. Prévost, in order to fund the Marc Roy project, he borrowed $68,000 from the Caisse populaire de Cookshire in 1995 and deposited the money into the account of 1863, as it was supplying the material used for the construction. The cheque that Mr. Prévost received from the notary was used to reimburse the loan with interest, and seeing that he still owed money to 1863, an amount of $60,000 was deposited into the account of 1863 without specifying which invoices were actually paid by depositing that amount. The record of this transaction, the manner in which the amounts were handled, the Appellants' accounting system and the manner in which the GST was dealt with in this transaction caused problems that are present in the appeal of 2415.
+[14] It should be noted that Ms. Bourbeau reconstructed the revenues of 2415 based on three different sources. Based on the deposits, she discovered that there was an overpayment of $6,438 in GST because 2415 paid the GST on the Marc Roy transaction and the cheque for $119,055 was deposited into the account of Mr. Prévost. She later discovered that the revenues reported in the financial statements of 2415 are virtually the same as the deposits, except that the financial statements do not reflect the sale of the Marc Roy project because there was an overpayment.
+[15] As a result, Ms. Bourbeau decided to treat the GST on the Marc Roy transaction as if 2415 had made the sale. She based her decision on the fact that the GST on this transaction was reported by 2415, that 2415 claimed the GST New Housing Rebate for the purchase of a new home that was transferred to it by Marc Roy and that certain purchase invoices for the construction material used were issued to 2415.
+[16] In attributing the sale to 2415 through the deposits, and considering that 2415 reported the GST on this transaction, Ms. Bourdeau had to grant the credit of the $6,438 overpaid. Based on the sales contracts and consideration amounts, the figures no longer added up. She therefore reconstructed the sale based on the amount of $119,055 paid to Mr. Prévost; considering that the GST was transferred to 2415, it should be added to the amount paid, for a total consideration of $124,980.93, taxes included. From that amount, she subtracted $16,500 for the land, plus the taxes that Mr. Prévost reported himself, $18,802, for a consideration of $106,178.36. The GST to be paid is $6,522.30, which explains the assessment. However, she noted that she credited the $6,438 that was overpaid based on the deposits, which therefore leaves a net tax of $83.69.
+[17] As for 2415, it is requesting the restoration of the GST treatment so that the transaction no longer be attributed to it for GST purposes and that it be attributed to Jean-Guy Prévost himself, the actual seller in this case. 2415 is also asking that the assessment reflect the input tax credits on a series of invoices from 1863 also involving Marc Roy.
+[18] The problem with the input tax credit lies in the fact that Jean-Guy Prévost deposited a lump sum of $60,000 into the account of 1863 to pay for the material it supplied when Marc Roy's house was being built. However, although that amount was not specifically indicated in a series of invoices, according to Mr. Prévost, that amount was used to pay the invoices of 1863 filed as Exhibit A-15, issued between October 1995 and May 1996. It should be noted that although this series of invoices covers a period of seven months, the invoices are not numbered consecutively. The invoices were therefore all issued at the same time and they indicate Jean-Guy Prévost as the buyer.
+[19] As a result, it was impossible for the auditor to establish the link between the invoices in question and the payment made. She therefore performed an audit testing of the sales of 1863 and discovered that none of these sales invoices were reported in the case of 1863. In addition, in Jean-Guy Prévost's accounting records and in the automated accounting of 1863, the $60,000 deposited by Mr. Prévost into the account of 1863 was treated as a financial transaction. Mr. Prévost did not claim an input tax credit for $60,000 according to his accounting records. In those of 1863, the amount of $52,229.41 ($60,000 less taxes) and the amount of $52,229.41 owed to Jean-Guy Prévost were showing under the heading "cash." Therefore, the amount of $60,000 was not a sale but a loan and the taxes on that amount were not reported by 1863, even though the cheque for $60,000 included the taxes. As a result, Ms. Bourbeau cannot grant Mr. Prévost the input tax credits by reason that 1863 did not report the taxes on that transaction and that it was a loan.
+[20] Ms. Bourbeau reviewed the invoices and wondered, with reason, why there were a series of 16 invoices with consecutive numbers over a period of seven months, whereas 1863 had $1,500,000 in annual sales. One thing is certain, those invoices were not reported by 1863 for GST purposes and Mr. Prévost recognized that he does not record invoices for transactions between related parties. However, he said that he remitted the taxes based on the disbursements and not based on the invoices. Ms. Bourdeau therefore decided to adjust to his system and concluded that 1863 did not have taxable revenues because the amount of $60,000 was recorded as a personal transaction. Therefore, 1863 did not pay the GST on that amount and 1863 was not assessed for it.
+[21] In spite of all this, 2415 submitted that if the Marc Roy project is dealt with in the context of the activities of 2415, it should be granted the input tax credit for the amount of $60,000 paid to 1863. In his testimony, Mr. Prévost had a hard time shedding light on the Marc Roy project. He stated that the Marc Roy sale was not reported for GST purposes neither by him personally nor by 2415, but rather by 1863. Later, he corrected himself and said that it was not 1863 but rather 2415 who reported it and that only the land was reported for GST purposes by him personally. In all this, he recognized that he reports the GST on what he deposits and not necessarily on the actual sale price. (The money deposited excluded the real estate agent's commission.) There is no doubt that it is very difficult to understand and appreciate the Appellant's system, its accounting system and its system of dealing with transactions between it, 1863 and Mr. Prévost.
+[22] In the case of 2415, the parties agreed that the issues in dispute were whether the Minister properly determined the GST to be remitted by the Appellant in the projects identified as "Caron-Robidoux," "Garand-Favreau" and "Jacques Bresse." The question to be determined in the case of the Marc Roy project is whether the Minister should have applied the tax for this project to Jean-Guy Prévost rather than to the Appellant.
+[23] There is nothing in the evidence of 2415 that would justify varying the assessment involving the "Caron-Robidoux," "Garand-Favreau" and "Jacques Bresse" projects. In fact, Mr. Prévost recognized that, in the case of the "Caron-Robidoux" project, the discrepancy involved the real estate agent's commission that was subtracted from the sales price and, in the case of the "Garand-Favreau" project, the sales price should have increased because the amount of the GST transferred by the purchaser was subtracted from the sales price. Mr. Prévost recognized that he reported the GST on the amounts he deposited and not on the sales price, which explains the tax adjustment. Therefore, no variation is to be made to the assessment. As for the objections of 2415 in the case of the "Jacques Bresse" project, they involve a discrepancy regarding the QST and, therefore, are not within this Court's jurisdiction.
+[24] With respect to the Marc Roy project, there is no doubt that all the problems involved were solely due to Mr. Prévost's errors in the way he manages his personal affairs and the business affairs of his two companies, as well as in the way he calculates the GST and ITCs. In my opinion, all of these errors and discrepancies made the auditor's task very time-consuming and difficult to ensure a reasonable assessment of 2415 and 1863 with respect to the net tax to be determined in accordance with the Act. I feel that Ms. Bourbeau was very competent, fair and patient when faced with the task of auditing this mess.
+[25] First, it should be noted that 2415 decided, on its own initiative, to treat the GST on the Marc Roy project as if it had sold the property itself. Jean-Guy Prévost reported the GST on the sale of the land. However, when the property was sold to Marc Roy, the home was built on the Mr. Prévost's land and he built the home himself. A deed of sale confirms that he sold the land but that at the time of the sale, the land was vacant, while we know that is false. The deed of sale states that 2415 was going to build the house in question, when in reality the house had already been built by Jean-Guy Prévost.
+[26] Jean-Guy Prévost purchased its material from 1863. He borrowed money to pay part of it and, at the time of the sale of the house, he paid 1863 Inc. $60,000, which, quite frankly, should have been used to pay invoices but which the accounting records describe as a loan. Mr. Prévost provided a series of invoices made simultaneously to justify the amount, but did not report the revenue for 1863 for GST purposes under the pretext that the invoices between him and its companies are not recorded because he remits his taxes on a cash basis of accounting. Considering that the amount of $60,000 was not recorded as revenue, the GST was not reported on that amount. Had the amount of $60,000 been used to pay the invoices, this problem would not have occurred. The auditor did not grant the input to 2415 because 1863 did not pay the tax on that income. Nor did she assess 2415. Furthermore, the invoices are issued to Jean-Guy Prévost and the $60,000 is recorded as a loan.
+[27] In the case at bar, 2415 is now asking that the GST for the Marc Roy project be attributed to Jean-Guy Prévost and that the an ITC be granted to 2415 for the amount of $60,000, which was used to pay the invoices. In my opinion, it is impossible for me to grant 2415 the ITC for the $60,000 if I grant 2415 its request to attribute the Marc Roy project to Jean-Guy Prévost. Rather, the ITC must be granted to Jean-Guy Prévost because the invoices are issued to him. If I grant that request, the GST on the revenues from the invoices (Exhibit A-15) will have to be paid by 1863, considering that the amount of $60,000 was recorded as a loan rather than revenue. The company 2415 Inc. would not be entitled to the GST rebate that Marc Roy transferred to him. Therefore, 2415 would have to remit that amount to the Minister and Jean-Guy would have to claim it. Jean-Guy Prévost cannot claim it because the period to do so is statute-barred. It should be noted that Jean-Guy Prévost is not a party to these proceedings. The inputs granted to 2415 for the first loan of $70,000 used to purchase the material prior to the sale to Marc Roy should also be reduced. This problem stems from the fact that 2415 chose to treat the GST and the inputs as if it had made the sale, except in the case of the land.
+[28] At the time of the audit, the auditor had sufficient material to determine that 2415 conducted the transaction. She treated the inputs based on the information she gathered and stood by her findings in the accounting of 2415 and 1863. She chose not to grant the inputs because 1863 did not pay the GST on the invoices issued to Jean-Guy Prévost. She eventually adjusted to the system of 2415 and 1863, even though their system was incorrect.
+[29] The contradictions in Mr. Prévost's testimony are remarkable. Suffice it to mention the fact that it was impossible for him to determine the exact consideration in the Marc Roy project; his statement that the proceeds from the sale were deposited in error in his personal account, whereas today, on behalf of 2415, he says that he was the seller and that 2415 should not have been assessed; the fact that he claimed, on behalf of 2415, inputs on the invoices for $60,000 at the same time that he claimed that the sale be attributed to him personally, and I assume that he wants the same related inputs.
+[30] The company 2415 Inc. chose to treat the Marc Roy transaction as its own and the Minister, through his auditor, chose to accept this system and adjust to it. Although this system is not accurate, for GST purposes, the result is essentially the same except that the wrong entity becomes responsible for it. The companies 2415 Inc. and 1863 Inc. chose to proceed in such a fashion and the Minister adjusted to this way of proceeding. They are now asking the Court to redress the situation by attributing the sale to Mr. Prévost while granting the inputs to 2415, which is contradictory.
+[31] In fact, it is because of all these contradictions that Mr. Prévost's testimony is unreliable. How to reconcile his request to charge the GST on the Marc Roy project to Jean-Guy Prévost with the fact that the deed of sale identifies 2415 as an intervening party in its capacity as a builder?
+[32] In light of all this, I will not intervene in the parties' choices as to the treatment of the GST on the Marc Roy project and as to the inputs. The company 2415 Inc. has not persuaded me, on a balance of probabilities, that the assessment of March 13, 2002, involving 2415 and the Marc Roy project needs to be varied or vacated.
+1863
+[33] In the case of 1863, the issue is whether the respondent was justified in using the automated accounting system of 1863 to assess the return. Is the automated system similar and equivalent to the manual system? The second issue comprises two questions: did the respondent consider the invoices for purchases in the United Statesand the invoices for the automotive equipment of 1863 to determine eligible ITCs, and did the respondent tax in error a loan of $100,000 made by 1863 in a project entitled "Loisirs Cookshire?"
+[34] At the hearing, 1863 withdrew the second issue comprising two questions because, according to Mr. Prévost, there are no implications and the loan of $100,000 is not in the assessment.
+[35] During the audit, 1863 provided Ms. Bourbeau with the automated accounting system for the purposes of her audit. She therefore balanced the GST to be paid and the inputs based on this system with those reported by 1863 in its quarterly reports for the period in question and discrepancies ensued. As a result, 1863 through its representative, Mr. Prévost, remitted to Ms. Bourbeau the manual accounting system under the pretext that the latter was more representative where sales and purchases were concerned and that it reported accounts payable. Therefore, Ms. Bourbeau repeated the exercise with the manual system and there were discrepancies in all the quarterly reports between what 1863 reported and what the manual accounting system indicated. Ms. Bourbeau therefore concluded that the manual accounting system was also not representative of the amounts reported.
+[36] In order to compare the two accounting systems, Ms. Bourbeau testified that she performed a series of tests and exercises with a view to determining whether the automated accounting system was reliable. She took all the deposits appearing in the manual system for each month and compared all the deposits with those indicated in the automated system. This comparison allowed her to conclude that the two systems were similar because the discrepancy was very small considering the number of transactions. For 1998, she also compared the deposits based on the synoptic ledger to the revenue journal per month based on the automated system. The total of the deposits was almost identical for that year. From that, she concluded that the automated accounting system was reliable. Having made her assessment based on the automated accounting system, there was no need to start the audit over again with the manual system. One thing is certain, the two accounting systems are not representative of the returns filed by 1863.
+[37] The company 1863 Inc. submits that the automated accounting system does not take into consideration accounts payable. On that issue, Ms. Bourbeau made reference to its worksheet entitled [translation] "trial balance for the period from January 1 to December 31, 1998" containing, in line item 21301, accounts payable of $69,669.14. I feel it is relevant to note Ms. Bourbeau's comments during her testimony on this issue.
+[Translation]
+A. Well, the fact is that when an audit is made, the first step in conducting the audit is tax auditing; first, an analysis of the financial statements is carried out. After that, the taxes are balanced. Prior to conducting tests, prior to conducting tests of accounting records, one must ensure that the accounting records are representative of the amounts reported to the Department of National Revenue. In this case, I used the accounting records, there is a system . . . . There are two accounting systems: one manual, one automated. I do not know whether there is a third one that balances, but I have one that is manual and one that is automated; I tried to balance using the automated system taxes that can be reported in the automated system and the taxes reported to the Department of National Revenue, I did not balance. I used the manual system to make sure that I did not unduly assess the individual, I used the manual system, I mean to say, I conducted the exercise even though my audit, as far as I was concerned, was completed. I re-balanced the taxes, I figured out the manual system, I tried to see whether the manual system, whether at least that manual system was used to file tax returns? No, because none of the returns by period, there were still . . . . I do not know how that can be explained, I cannot redo all the transactions, how the discrepancies and everything can be explained. What I am saying is that the returns are not representative of the manual accounting records. My job is not to fully reconstruct the sales . . . .
+[38] Another comment by Ms. Bourbeau which, in my opinion, says it all is that involving the system used by 1863 and 2415 in keeping their accounting records and in entering transactions in the accounting records. She said that in her audit, she was unable to work in a normal fashion. Moreover, she ended her testimony by saying as follows:
+[Translation]
+A. It is because it was necessary that he show me, when he spoke to me, when Mr. Prévost told me . . . that he show it to me in the records, that he show me what he told me in the records. I cannot have a transaction that does not refer to a baseline. I need a baseline to . . . otherwise I am obliged to reconstruct all the pieces he gave me, reinvent another one, a third accounting system. It was impossible. But I wanted to. It was possible to fully do so in the case of 2415 because the number of transactions was low; that was fully possible also for the individual as well. But unfortunately, I was unable to do so in the case of 1863. But I must assure you, I made sure that the assessment was not . . . . I did not make up the figures, I used the automated accounting records. I did not make anything up. I used an accounting system . . . . An agent of the Department must keep records and books in an appropriate form. I mean to say, I worked with what I had, Mr. Cloutier. I would have liked to work with clearer tools then we would probably not be here today.
+[39] As for the representative of 1863, he stated that for the purposes of GST returns, he used the manual accounting system and that he did not recognize the automated accounting system by reason that it did not contain all the data, mainly accounts payable. Later, during his testimony when the hearing resumed, he stated that he used the automated accounting system to calculate the GST to be paid, but that for calculating ITCs, he used the manual accounting system. He then later recognized that there were errors, but that they were small and did not warrant an assessment. He criticized the auditor's work, but added nothing concrete that would allow me to redress anything, even though I agreed with all his submissions. He also admitted keeping a third accounting system for 1863.
+[40] For audit purposes, 1863 Inc. remitted its automated accounting system to Ms. Bourbeau. When the result did not suit its needs, it produced a second accounting system, this time manual, and later, a third accounting system was mentioned. In addition, neither the automated accounting system nor the manual accounting system is representative of the GST quarterly returns for the period at issue. Nor can 1863 Inc. even establish its own GST returns through any accounting system. Therefore, there is nothing in the evidence that is sufficiently convincing, documented or confirmed, to allow me to conclude that the assessment is incorrect. The auditor's work is, in my opinion, acceptable and very reasonable in the circumstances.
+[41] The appeals are dismissed.
+Signed at Ottawa, Canada, this 17th day of January 2005.
+"François Angers"
+Angers J.
+Translation certified true
+on this 25th day of April 2005.
+Daniela Possamai, Translator
+CITATION:
+2005TCC47
+COURT FILE NUMBERS:
+2002-2656(GST)I
+2002-2653(GST)I
+STYLE OF CAUSES:
+1863-4725 Québec Inc. and Her Majesty the Queen
+2415-7851 Québec Inc. and Her Majesty the Queen
+PLACE OF HEARING:
+Sherbrooke, Quebec
+DATE OF HEARING:
+February 6, 2004, and June 16, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice François Angers
+DATE OF JUDGMENT:
+January 17, 2005
+APPEARANCES:
+For the Appellant:
+Pierre A. Cloutier
+For the Respondent:
+Frank Archambault
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Pierre A. Cloutier
+Firm:
+Cloutier, Larkin
+Counsel
+Sherbrooke, Quebec
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

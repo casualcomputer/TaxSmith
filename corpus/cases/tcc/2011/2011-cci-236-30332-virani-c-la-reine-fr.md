@@ -1,0 +1,173 @@
+---
+title: "Virani c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30332/index.do"
+last_modified: "2011-05-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 236"
+citation2: ""
+neutral_citation: "2011 CCI 236"
+decision_date: "2011-05-03"
+language: "fr"
+item_id: "30332"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 8036
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:53:42.989000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e01bbf17de4416671c97a142ced2c2ceef20a01d38d7b38cac1efddf384d6c7a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Virani c. La Reine
+
+- Citation: 2011 CCI 236
+- Decision date: 2011-05-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8036, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Virani c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-05-03
+Référence neutre
+2011 CCI 236
+Numéro de dossier
+2009-553(IT)G
+Juges et Officiers taxateurs
+Joe E. Hershfield
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-553(IT)G
+ENTRE :
+AZIM M. VIRANI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu sur preuve commune avec l'appel d'Azim M. Virani (2009‑554(GST)G) le 11 avril 2011 et motifs du jugement prononcés à l'audience le 14 avril 2011 à Vancouver (Colombie‑Britannique)
+Devant : L'honorable juge J. E. Hershfield
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocats de l'intimée :
+Me Kristian DeJong
+Me Selena Sit
+________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre des cotisations fondées sur la Loi de l'impôt sur le revenu pour les années d'imposition 2003, 2004 et 2005 est accueilli, et l'affaire est déférée au ministre du Revenu national pour nouvel examen et nouvelles cotisations conformément aux motifs du jugement ci‑joints.
+Des dépens fixés à 850 $ sont adjugés à l'appelant pour le présent appel et celui interjeté dans le dossier 2009‑554(GST)G.
+Signé à Ottawa, Canada, ce 3e jour de mai 2011.
+« J. E. Hershfield »
+Le juge Hershfield
+Traduction certifiée conforme
+ce 23e jour de juin 2011.
+Yves Bellefeuille, réviseur
+Dossier : 2009-554(GST)G
+ENTRE :
+AZIM M. VIRANI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu sur preuve commune avec l'appel d'Azim M. Virani (2009‑553(IT)G) le 11 avril 2011 et motifs du jugement prononcés à l'audience le 14 avril 2011 à Vancouver (Colombie‑Britannique)
+Devant : L'honorable juge J. E. Hershfield
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocats de l'intimée :
+Me Kristian DeJong
+Me Selena Sit
+________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre des cotisations fondées sur la Loi sur la taxe d'accise pour la période de déclaration allant du 1er janvier 2003 au 31 décembre 2005 est accueilli, et l'affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelles cotisations conformément aux motifs du jugement ci‑joints.
+Des dépens fixés à 850 $ sont adjugés à l'appelant pour le présent appel et celui interjeté dans le dossier 2009‑553(IT)G.
+Signé à Ottawa, Canada, ce 3e jour de mai 2011.
+« J. E. Hershfield »
+Le juge Hershfield
+Traduction certifiée conforme
+ce 23e jour de juin 2011.
+Yves Bellefeuille, réviseur
+Référence : 2011 CCI 236
+Date : 20110503
+Dossiers : 2009-553(IT)G
+2009-554(GST)G
+ENTRE :
+AZIM M. VIRANI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Prononcés à l'audience le 14 avril 2011 à Vancouver (Colombie-Britannique)
+Le juge Hershfield
+[1] Les appels entendus le 11 avril 2011 ont été interjetés sous le régime de la Loi sur la taxe d'accise (dispositions relatives à la TPS) (la « LTA ») et de la Loi de l'impôt sur le revenu (la « LIR »). Ils ont été entendus sur preuve commune. J'examinerai d'abord les appels interjetés sous le régime de la LIR.
+[2] L'appelant interjette appel des cotisations établies à l'égard de ses années d'imposition 2003, 2004 et 2005. Il s'agissait essentiellement de cotisations fondées sur l'avoir net qui ont été établies par suite d'une vérification menée à l'insu de l'appelant par la Division de l'exécution du Bureau des services fiscaux de Vancouver. Les renseignements ont été obtenus au moyen de la signification de demandes péremptoires visant à obtenir les dossiers bancaires de l'appelant. Les demandes péremptoires ont été signifiées à deux banques où, d'après les renseignements que possédait la Division de l'exécution, l'appelant avait des comptes. Des demandes péremptoires visant à obtenir les dossiers bancaires de la mère de l'appelant ont également été signifiées. De plus, une société immobilière et la division du financement d'un fabricant de voitures ont reçu signification de demandes péremptoires les enjoignant de fournir des renseignements. Je dois présumer que les demandes péremptoires ont été autorisées conformément à l'article 231.2 de la LIR. Les communications avec l'appelant ont été minimes, voire inexistantes, lors de l'établissement des cotisations. Aucune explication complète n'a été donnée au sujet de la raison pour laquelle cette façon de procéder a été adoptée, bien que l'appelant ait obtenu, par l'entremise de l'accès à l'information, une note interne de l'Agence du revenu du Canada (l'« ARC ») qui renferme quelques renseignements sur le contexte. Il n'est pas nécessaire de passer cette note en revue. Je la mentionne à ce moment‑ci simplement pour souligner que le document confirme que les cotisations en litige étaient liées à d'autres questions qui ne sont pas soulevées dans les présents appels, notamment l'omission de déclarer un gain en capital lors de la vente d'un bien en 2005. De plus, en relation avec cette vente, dans une autre affaire distincte fondée sur la LTA, une demande de remboursement de la TPS pour habitations neuves a été refusée dans une cotisation établie en septembre 2005. L'appelant a interjeté appel de cette cotisation, et l'affaire a été entendue en février 2008. La juge Campbell a accueilli l'appel dans le jugement qu'elle a signé en mars 2008.
+[3] En ce qui concerne les cotisations en litige fondées sur la LIR, la première a été établie le 21 août 2006. Cette cotisation a été remplacée par une deuxième qui a été établie le 16 octobre 2007. Dans cette nouvelle cotisation, un montant de plus de 23 000 $ a été ajouté au revenu d'entreprise de l'appelant pour son année d'imposition 2003, à l'égard de laquelle il n'avait déclaré qu'un revenu d'environ 20 000 $. De même, un montant d'environ 9 000 $ a été ajouté au revenu de 18 500 $ que l'appelant avait déclaré pour l'année d'imposition 2004 et un montant de 68 000 $ a été ajouté au revenu de 17 000 $ qu'il avait déclaré pour l'année d'imposition 2005. Qui plus est, une partie imposable non déclarée d'un gain en capital d'environ 90 000 $ a été ajoutée dans cette nouvelle cotisation et des pénalités pour faute lourde ont été exigées sur la totalité du revenu additionnel.
+[4] Le 21 novembre 2008, par suite des oppositions de l'appelant, le ministre du Revenu national (le « ministre ») a ratifié les cotisations et pénalités pour les trois années en question, mais l'inclusion de la partie imposable non déclarée du gain en capital de 90 000 $ a été abandonnée pour l'année 2005. Il importe de souligner cet abandon, étant donné que, d'après la note interne susmentionnée, l'ARC semble s'être fondée, du moins jusqu'à un certain point, sur ce gain non déclaré pour mener la vérification de la façon dont elle l'a fait. L'inclusion a été abandonnée en raison de la décision que la juge Campbell a rendue en mars 2008 au sujet de la question du remboursement de la TPS pour habitations neuves qui concernait le même bien en immobilisation. La juge Campbell a conclu que le bien était ou devait être le lieu de résidence habituelle de l'appelant, ce qui signifie, dans le contexte du présent appel, que le bien en immobilisation en cause était admissible à titre de résidence principale. En conséquence, la vente du bien n'était pas une opération imposable. Il n'y a pas eu de gain en capital non déclaré. Seule la question du revenu d'entreprise non déclaré devait donc être jugée.
+[5] L'avis d'appel a été déposé le 16 février 2009. Des listes de documents ont été déposées et des interrogatoires préalables ont eu lieu. L'appelant a agi en personne tout au long de la procédure d'appel. À l'audience, la Couronne a présenté une position révisée au sujet de la cotisation. Le revenu d'entreprise non déclaré pour l'année 2003 a été réduit d'environ 23 000 $ à environ 5 300 $. Le revenu d'entreprise non déclaré pour 2004 est passé d'environ 9 000 $ à environ 4 400 $, et celui de 2005, d'environ 68 000 $ à 24 900 $. Tous les rajustements ont été apportés par suite des renseignements que l'appelant a fournis après le début du litige, c'est‑à‑dire après le dépôt de l'appel.
+[6] À ce moment‑ci, je ne donnerai que quelques détails sur la méthode qui a été utilisée pour établir les cotisations fondées sur l'avoir net révisées en vue de l'audience. La première étape a consisté à calculer l'avoir net, pour l'année d'imposition 2002, sur la foi des renseignements obtenus en réponse aux demandes péremptoires. Ce montant a été comparé au calcul de l'avoir net pour l'année suivante, lequel a à son tour été comparé à l'avoir net calculé pour l'année subséquente. L'utilisation de cette méthode a montré que l'avoir net n'avait guère augmenté en 2003 et en 2004, mais qu'il avait augmenté de plus de 142 000 $ en 2005. L'étape suivante a ensuite consisté à déterminer les frais de subsistance, lesquels ont été établis à 25 800 $ pour l'année 2005, et à présumer les montants correspondants pour 2003 et 2004. Ces calculs ont été faits à partir d'une analyse des relevés bancaires de 2005 qui indiquait que la plupart des retraits correspondaient à des frais de subsistance. D'autres frais personnels ont aussi été ajoutés sur la foi de documents supplémentaires obtenus lors de la vérification, notamment un montant de 21 000 $ représentant des frais de location pour l'année 2003.
+[7] La révision de la position relative aux cotisations a donné lieu, notamment, à une diminution des frais de location personnels à 6 000 $ pour l'année 2003 et à une diminution des sources de fonds imposables d'environ 53 000 $ pour 2005, compte tenu de la confirmation du fait que la mère de l'appelant avait accordé une marge de crédit pour l'achat d'une maison neuve en 2005. Tel qu'il est mentionné plus haut, par suite des révisions, le revenu d'entreprise non déclaré s'élève à environ 5 300 $ pour l'année 2003, à 4 400 $ pour l'année 2004 et à 24 900 $ pour 2005.
+[8] Ce n'est que maintenant que je commence à examiner la preuve présentée à l'instruction pour commenter la position révisée au sujet des cotisations. Après la présentation de cette preuve‑là, alors qu'il ne restait que quelques questions à poser au vérificateur qui a comparu pour le compte de la Couronne, les avocats de l'intimée ont admis que celle‑ci abandonnait la cotisation à l'égard des années 2003 et 2004 et qu'elle abandonnait sa position relativement aux pénalités pour faute lourde pour les trois années. Je tiens à féliciter les avocats pour avoir agi de cette façon, car trop nombreux sont les avocats qui s'en tiennent à leur position, même s'ils voient leurs chances de succès s'envoler. De toute évidence, la méthode de cotisation utilisée pour les années 2003 et 2004 était viciée.
+[9] Je ne mentionnerai que très brièvement les lacunes. Des achats de meubles faits en 2005 pour un montant d'environ 5 000 $ avaient été considérés comme des dépenses personnelles en 2003 et 2004, alors qu'il était évident qu'aucun achat de cette nature n'avait vraisemblablement été effectué. En fait, on a supposé que le montant des dépenses personnelles en 2003 et en 2004 était presque le même que le montant des retraits bancaires en 2005 qu'on a considérés comme correspondant aux dépenses personnelles, en supposant que le mode de vie avait probablement été le même, puisque les relevés bancaires de 2003 et de 2004 ne permettaient pas de procéder à une reconstitution comparable. Le témoin de la Couronne a semblé quelque peu penaud lorsqu'il a tenté de nier qu'on ait procédé ainsi et qu'il a été confronté à la transcription de son interrogatoire préalable. Compte tenu de cette hypothèse, la position qu'il défendait au sujet de la cotisation ne faisait presque aucun sens, étant donné que le mode de vie de l'appelant avait radicalement changé en 2005. La validité des cotisations établies à l'égard des années 2003 et 2004 était nettement compromise, ce qui a mené à l'admission de l'intimée pour les années en question.
+[10] En ce qui concerne l'année 2005, l'appelant a démontré que le montant de 5 000 $ avait probablement été compté en double. De plus, il a établi que le montant du revenu non déclaré ne tenait pas compte des frais déductibles liés à une somme qui, selon ce que le témoin de l'intimée a confirmé, était incluse dans ce revenu non déclaré. Cette correction a eu pour effet de ramener le revenu non déclaré à moins de 10 000 $ (sous réserve de quelques rajustements de la TPS découlant de modifications correspondantes à apporter aux cotisations relatives à la TPS). À la lumière de cette preuve, l'intimée a également admis ce montant révisé pour 2005.
+[11] Cependant, la Couronne s'est montrée plus réticente à accepter certains autres éléments de preuve que l'appelant a présentés. Ainsi, sa mère a déclaré à l'audience qu'elle lui avait donné un montant de 20 000 $ qui provenait de la vente de sa voiture afin qu'il s'en serve pour faire l'acquisition d'une automobile en 2005. Ce dépôt avait été inclus dans le revenu non déclaré de l'appelant pour 2005. De plus, elle a affirmé qu'elle avait versé à l'appelant une somme de plus de 30 000 $ sous forme de prêts et dons en 2005. Les chèques encaissés qu'elle a faits en faveur de son fils ont été produits en preuve. Il s'agit d'une somme de plus de 50 000 $ provenant de sources de fonds non imposables qui compenserait un revenu non déclaré de moins de 10 000 $.
+[12] La Couronne n'était pas disposée à admettre ces sources de fonds non imposables. Le témoignage de la mère de l'appelant au sujet de la somme de 20 000 $ n'était pas corroboré pour l'essentiel et était faible, puisqu'elle ne pouvait se rappeler si elle avait obtenu de l'argent comptant lors de la vente de sa voiture ou si elle avait reçu un chèque. Il n'y avait aucun relevé bancaire faisant état de ce dépôt. Je reconnais que le témoignage de la mère de l'appelant était faible et, si le comportement d'un témoin est révélateur, je dirais qu'elle a été loin d'être convaincante sur ce point.
+[13] Quant aux chèques totalisant 30 000 $ que la mère de l'appelant a faits en faveur de celui‑ci en 2005, son témoignage a été corroboré et, si le comportement d'un témoin est révélateur, je dirais qu'elle a été assez convaincante sur ce point. Son fils avait toujours besoin d'argent et elle lui en donnait constamment. Elle a dit qu'il pouvait s'agir de prêts, mais elle a presque ri lorsque la question du remboursement a été soulevée.
+[14] Malgré la preuve établissant que la totalité de la cotisation fondée sur l'avoir net devait être annulée, la Couronne a montré qu'elle était préoccupée en refusant d'accepter le montant de 30 000 $ au titre de prêts et dons. Aucun élément de preuve ne montre ce que l'appelant a fait avec l'argent. Il était le bénéficiaire de chèques négociés dont aucun n'a été déposé dans ses comptes bancaires connus. Quels qu'aient été les doutes à l'origine de la vérification, ces doutes ont persisté.
+[15] L'appelant est un jeune homme futé, et je me demande moi aussi si j'ai entendu toute l'histoire, mais les soupçons ne constituent pas un motif suffisant en l'espèce pour rejeter les appels. L'appelant s'est acquitté du fardeau de la preuve qui pesait sur lui. La cotisation, qui est fondée sur un instrument imprécis, est difficile à défendre, mais il a été établi qu'elle était viciée sous plusieurs aspects importants. De plus, il est plus que simplement probable, selon la preuve, que l'appelant a eu accès en 2005 à des sommes d'argent qui semblent être non imposables. Les appels doivent être accueillis.
+[16] En ce qui a trait à la cotisation relative à la TPS, elle découlait des cotisations d'impôt sur le revenu. Le ministre a présumé que le revenu non déclaré provenait de fournitures taxables. Une fois que le revenu d'entreprise non déclaré est réduit à néant, la cotisation relative à la TPS est réduite de la même façon à néant. En conséquence, les appels relatifs à la TPS sont accueillis.
+[17] Quant aux dépens, la Couronne invoque le fait que la victoire de l'appelant, notamment les concessions qu'il a obtenues, était fondée sur des éléments de preuve produits après le début du litige. Si les renseignements avaient été communiqués plus tôt, les concessions auraient été faites plus rapidement. L'appelant fait valoir que le litige a été nécessaire uniquement en raison de la procédure de vérification non justifiée et non révélée que l'ARC a utilisée.
+[18] En fait, il était possible de répondre aux cotisations bien avant le début du litige. Les nouvelles cotisations ont été établies le 16 octobre 2007. Elles ont été ratifiées le 21 novembre 2008, et l'appel a été déposé le 16 février 2009. La période d'opposition à elle seule s'est étirée sur plus d'un an. Bien qu'il ne s'agisse pas d'une très longue période et que beaucoup de choses se soient passées, étant donné que l'appelant agissait en personne à l'audition de sa cause devant la juge Campbell, en février 2008, je conviens que l'appelant aurait pu fournir plus rapidement des renseignements à l'ARC. Malgré tout, l'octroi de dépens à l'appelant est justifié. Je fixe ces dépens au montant de 425 $ pour les appels interjetés sous le régime de la LIR et à un autre montant de 425 $ pour ceux qui ont été interjetés sous le régime de la LTA. Un jugement sera signé en conséquence.
+Signé à Ottawa, Canada, ce 3e jour de mai 2011.
+« J. E. Hershfield »
+Le juge Hershfield
+Traduction certifiée conforme
+ce 23e jour de juin 2011.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2011 CCI 236
+Nos DES DOSSIERS DE LA COUR : 2009‑553(IT)G; 2009‑554(GST)G
+INTITULÉ : AZIM M. VIRANI c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Vancouver (Colombie‑Britannique)
+DATE DE L'AUDIENCE : Le 11 avril 2011
+MOTIFS DU JUGEMENT : L'honorable juge J. E. Hershfield
+DATE DU JUGEMENT : Le 3 mai 2011
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocats de l'intimée :
+Me Kristian DeJong
+Me Selena Sit
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée : Myles J. Kirvan
+Sous‑procureur général du Canada
+Ottawa, Canada

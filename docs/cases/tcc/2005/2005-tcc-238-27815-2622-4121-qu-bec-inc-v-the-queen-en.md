@@ -1,0 +1,254 @@
+---
+title: "2622-4121 Québec Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27815/index.do"
+last_modified: "2005-05-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 238"
+citation2: ""
+neutral_citation: "2005 TCC 238"
+decision_date: "2005-05-05"
+language: "en"
+item_id: "27815"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 386
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:44:55.314000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "06357ea612da044ad3193763b49d9445e85ab3943a6e626b81897298aba5ed4d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 2622-4121 Québec Inc. v. The Queen
+
+- Citation: 2005 TCC 238
+- Decision date: 2005-05-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 386, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+2622-4121 Québec Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-05-05
+Neutral citation
+2005 TCC 238
+File numbers
+2002-4085(IT)G
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-4085(IT)G
+BETWEEN:
+2622-4121 QUÉBEC INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of
+André Prudhomme (2002‑4086(IT)G) on October 4, 2004
+at Montreal, Quebec
+Before: The Honourable Judge Paul Bédard
+Appearances:
+Counsel for the Appellant:
+Jacques Renaud
+Counsel for the Respondent:
+Anne Poirier
+____________________________________________________________________
+JUDGMENT
+The appeals from assessments under the Income Tax Act for the 1998 and 1999 taxation years are dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 5th day of May, 2005.
+"Paul Bédard"
+Bédard J.
+Certified true translation
+on this 27th day of February, 2006.
+Garth McLeod, Translator
+Citation: 2005CCI238
+Date: 20050505
+Docket: 2002-4085(IT)G
+BETWEEN:
+2622-4121 QUÉBEC INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+AND
+Docket: 2002-4086(IT)G
+ANDRÉ PRUDHOMME,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] These appeals are heard on common evidence under the general procedure. The years at issue are the 1998 and 1999 taxation years. The financial year of the Appellant (the "corporation") ended on June 30. During the relevant period, the corporation operated a freight transport business in Canada and in the United States. The Appellant was the sole shareholder and director of the corporation. He also worked for the corporation as a mechanic, maintenance person and truck driver.
+[2] The only questions at issue are the following:
+(i) Was the Minister of National Revenue (the "Minister") justified in adding to the income of the Appellant, as business income, the amounts of $10,282 and $10,000 for the 1998 and 1999 taxation years, respectively? Cash withdrawals had been made from a bank account[1] of the corporation (the "bank account") at automatic teller machines for amounts totalling $10,282 and $10,000 during the period at issue. The corporation accounted for these withdrawals by debiting the loans to Jeannot Lauzon" account; he was a truck driver who worked for the corporation. The corporation converted the loans to Mr. Lauzon, by means of adjusting entries, to sub-contracting expenses. I will have to decide who, the Appellant or Mr. Lauzon, should be taxed for this sub-contracting income.
+(ii) The Appellant, moreover, had claimed a deduction for meal expenses, under paragraph 8(1)(g) of the Act, in the amounts of $9,735 and $9,702 for the 1998 and 1999 taxation years, respectively. In short, the Minister maintains that these expenses had already been claimed. I must accordingly determine whether this is the case.
+(iii) At the end of the 1998 and 1999 taxation years, the corporation had made adjustments by means of which it had withdrawn from the "loans to shareholder" account the expenses allegedly made by the Appellant on behalf of the corporation and by means of which it had added them to the expenses incurred in order to derive income from the corporation. The Minister denied the corporation the deduction, in calculating business income, expenses totalling $10,037 and $6,768 for the 1998 and 1999 taxations years respectively, and demanded that the Appellant pay tax on these amounts because the adjusting entries were not accompanied by supporting documents. I must accordingly determine whether the Minister was wrong in this respect.
+(vi) Lastly, I must determine whether the Minister was justified in imposing on the Appellants the penalty provided for under subsection 163(2) of the Act on the following additional income:
+(i) on the amount of $10,282, which was added to the Appellant's income, as business income, for the 1998 taxation year. We should bear in mind that this additional income was related to the cash withdrawals made from the bank account using the debit card.
+(ii) on the amount of $10,037 which was added to the Appellant's income as a shareholder benefit (appropriation of funds) for the 1998 taxation year. We should bear in mind that this additional income was related to expenses that the Appellant allegedly made on behalf of the corporation during that year, expenses which had reduced the loans to "shareholder " account by the same amount.
+(iii) on expenses of $10,037 and $6,768 allegedly incurred by the corporation in order to produce business income in 1998 and 1999 respectively, for which the Minister denied the deduction. We should remember that the corporation had, by means of adjusting entries, treated as its own expenditures which the Appellant claimed he had made on behalf of the corporation.
+(iv) on an expense of $15,641 in respect of the repair of a GMC truck, which the Minister denied the corporation as a deduction in calculating business income for the 1999 taxation year, because the expenditure had not been made or committed during that taxation year.
+Analysis
+Withdrawals from automatic teller machines
+[3] Let us first examine the assertions made by the Appellant with regard to these withdrawals in paragraphs 8, 9, 10, 11, 12 and 13 of his Notice of Appeal:
+[translation]
+8. In the course of 1998, 2622 acquired a new transport truck, which it assigned to Jeannot Lauzon, driver;
+9. In order to account for all the income, costs and expenses in respect of this new truck, 2622 opened and maintained a separate bank account, bearing the number 01-300-28 at the St-Joseph de Beauce branch of the National Bank of Canada;
+10. Also, 2622 entrusted to his driver, Jeannot Lauzon, the use of a debit card, giving him access to this account so that he could quickly obtain the cash needed to cover the operating and maintenance expenses of the truck and his travel expenses;
+11. The Appellant realized over a period of months, that Jeannot Lauzon had withdrawn large amounts from this account for his own personal use, amounting to approximately $10,282 in 1998 and $10,000 in 1999;
+12. When confronted with these facts, Jeannot Lauzon acknowledged that he had appropriated these amounts for his own use and undertook to repay them to 2622, which he did over the course of the months and years that followed;
+13. Jeannot Lauzon also admitted that he had used these amounts in indulging his passion for gambling;
+[4] The corporation had an account called "loans to Jeannot Lauzon". The corporation debited from this account the cheques that it made out payable to "cash," of which Mr. Lauzon was the recipient. The corporation also debited this account for withdrawals made from the bank account (by Mr. Lauzon, according to the Appellant, or by the Appellant, according to the Respondent). The corporation, furthermore, credited to this account expenses in respect of the use of the truck assigned to Mr. Lauzon which were incurred by him on behalf of the corporation and paid through withdrawals from the bank account. Lastly, through adjusting entries, the corporation converted the advances made to Mr. Lauzon into subcontracting expenses. Serge Potvin of the Canada Customs and Revenue Agency (the "CCRA") stated that he had assumed that Mr. Lauzon was the one who was the recipient of the contracts thus subcontracted. Mr. Potvin had accordingly sent Mr. Lauzon a draft assessment, by which the Minister proposed to include this subcontracting income in the earnings of Mr. Lauzon. Following comments by Mr. Lauzon, who stated that he had withdrawn small amounts from the bank account using the debit card and that these amounts had, moreover, been repaid – claims that he repeated during the trial – Mr. Potvin decided to allow the deduction of the subcontracting expenses to the corporation in the calculation of business income and to have the tax on that income from subcontracting paid by the Appellant rather than by Mr. Lauzon.
+[5] We are thus dealing with two totally contradictory versions. I must emphasize that the Appellant's explanations were evasive, imprecise, ambiguous, elusive, equivocal, unintelligible and laborious. His hesitations, the time he took to answer, his expression and the gaps in his memory merely added to my doubts about his credibility. He could have supported his claims on numerous occasions with satisfactory, serious documentary evidence and on credible independent testimony. He did not do so. I infer from that that such evidence would not have been in his favour. I would also note that the testimony by Mr. Lauzon seemed to me credible, albeit imprecise on some occasions.
+[6] Who, then, made the withdrawals from the bank account? First, the Appellant testified that Mr. Lauzon was the only person who had a debit card that could access this bank account. The Appellant was in a position, in this case, to provide documentary evidence proving this. He did not do so. I infer therefrom that this evidence would not have been in his favour. The Appellant had a unique opportunity to establish his credibility! The Appellant also could have based his assertions on documentary evidence establishing the date on which the new truck was acquired and the date the bank account was opened. We should recall that the Appellant maintained that the corporation had opened the bank account for the sole purpose of accounting for all the income and costs and expenditures related to the new truck, which had been assigned to Mr. Lauzon. Here again, the Appellant did not see fit to support his assertions by credible, objective evidence.
+[7] I note from the account statements (Exhibit A-1, Tab 18) from the bank account that withdrawals began on April 1, 1998. However, Mr. Lauzon testified that he did not begin working for the corporation until August or September 1998. This appears to be supported by the note that we find on the report on an objection (Exhibit I-1, Tab 11, page 9) to the effect that the employment of Mr. Lauzon had begun in the week of June 30, 1998. I note that this report was submitted in evidence without objection by Counsel for the Appellants. Although I am aware that the probative force of this report is attenuated by the fact that its author was absent from the hearing, I am nonetheless of the opinion that it is more probable than improbable that Mr. Lauzon was not employed by the corporation during the months of April, May and June 1998, all the more so since the Appellant did not contradict Mr. Lauzon's testimony in this regard and did not file in evidence the Record of Employment of Mr. Lauzon, which could have proved that the latter was working for the corporation at least from April 13, 1998. The Appellant accordingly did not convince me that Mr. Lauzon was the one who had made the withdrawals from the bank account from April 1998 until the date that Mr. Lauzon's employment began. We are accordingly entitled to entertain serious doubts about the assertion by the Appellants that Mr. Lauzon had made withdrawals in this amount (throughout the entire relevant period) in order to satisfy his passion for gambling.
+[8] It is also interesting to note that the debit balance of the "loans to Jeannot Lauzon" account was $10,382.87 on July 1, 1998. How could that be the case, since Mr. Lauzon's employment began after that date? How can this fact be reconciled with the Appellant's parallel record (Exhibit I-4) in which the Appellant noted each week the balance of withdrawals made by Mr. Lauzon for his personal use and not reimbursed, which indicated that Mr. Lauzon owed only $560 on June 30, 1998?
+[9] The Appellant maintained that the withdrawals from the bank account made by Jeannot Lauzon for his personal benefit had not only been debited to the "loans to Jeannot Lauzon" account, but had also been reimbursed in full, and thus credited to the "loans to Jeannot Lauzon" account when they were repaid. We can thus conclude that the adjusting entries by which the corporation had credited the "loans to Jeannot Lauzon" account, in the amounts of $10,382 on August 30, 1998 and $10,000 on June 30, 1999 – we should remember that the corporation had treated these amounts as subcontracting expenses – had clearly not reduced the amounts of these withdrawals by Mr. Lauzon for his personal benefit; at all times, these withdrawals had been regarded by the corporation as advances that were ultimately reimbursed. I deduce from this that the corporation could not reduce the amount of the "loans to Jeannot Lauzon" account by such adjustments unless the withdrawals made by Mr. Lauzon from the bank account and the cheques payable to "cash" drawn by the corporation (for the benefit of Mr. Lauzon) were at least on the order of $40,704 during the relevant period, since the withdrawals made from the bank account by Mr. Lauzon in order to feed his passion for gambling ($10,282 in 1998 and $10,000 in 1999) had been treated by the corporation at all times, according to the Appellant, as loans which had been reimbursed subsequently. It was incumbent upon the Appellant to give me valid explanations in this regard. Unfortunately, he failed to do so. For all these reasons, I believe that the Minister was right in adding this subcontracting income to the income of the Appellant as business income.
+Meal expenses
+[10] The Appellant changed his Notice of Appeal several days prior to the hearing in order to have recognized an expenditure of $9,735 in 1998 and $9,702 in 1999 for meal expenses under paragraph 8(1)(g) of the Act.
+The law
+[11] Paragraph 8(1)(g) of the Act reads as follows:
+g) Transport employee's expenses – where the taxpayer was an employee of a person whose principal business was passenger, goods, or passenger and goods transport and the duties of the employment required the taxpayer, regularly:
+(i) to travel, away from the municipality where the employer's establishment to which the taxpayer reported for work was located and away from the metropolitan area, if there is one, where it was located, on vehicles used by the employer to transport the goods or passengers, and
+(ii) while so away from that municipality and metropolitan area, to make disbursements for meals and lodging,
+amounts so disbursed by the taxpayer in the year to the extent that the taxpayer has not been reimbursed and is not entitled to be reimbursed in respect thereof;
+Form TL2
+[12] This form summarizes the information in respect of travel and must be duly completed by the employee and the employer. The form must be attached to the employee's tax return if the employee is asking that the cost of meals and lodging be deducted.
+[13] Paragraph 8(1)(g) of the Act stipulates that the amount of allowances and reimbursements received or receivable in respect of meals and lodging must be subtracted from all the deductions claimed under this heading.
+[14] However, an administrative policy established by the Minister[2] stipulates that the Minister is prepared to allow the taxpayer, in calculating his employment income, a deduction of $11 per meal without supporting documentation. The Minister nonetheless requires the taxpayer to retain a record of actual travel for possible future audit. Thus, the taxpayer must keep a list of travel during the taxation year, with the following details: the date and time of departure, the destination, the date and time of arrival, the number of hours away, the number of kilometres travelled and the number of meals.
+[15] Lastly, with regard to claims for meal costs incurred during the period at issue, the standard meal rate is subject to the 50% limit stipulated at subsection 67.1 of the Act.
+Analysis
+[16] It should be noted that the Appellant had not claimed his meal costs at the audit. He testified that his tax adviser had informed him, at the time of the objections, that he could claim, under paragraph 8(1)(g) of the Act, a deduction for meal expenses, even if he had not retained supporting documentation. The tax adviser had then informed the Appellant of the Minister's administrative policy which allows taxpayers who meet the requirements set out in paragraph 8(1)(g) of the Act to claim a deduction of $11 per meal without supporting documentation.
+[17] The Appellant, who was not aware of this administrative policy during the period at issue, had thus not attached form TL2 to his statements of income for the taxation years at issue and had thus not kept a register of his actual travel for audit purposes, as required by the Minister's administrative policy.
+[18] So, the Appellant attempted to reconstitute a record of his actual travel based on his log books. He thus produced a summary of his log books (Exhibit A-1, Tab 15) for the years at issue. This summary shows the date, the destinations for a given day and the number of hours during which he was away during a given day. It should be noted that this summary had been prepared by the secretary of the corporation, who did not testify in the instant case.
+[19] Is the Applicant credible when he states that he did not claim the deduction for meal expenses prior to the audit because he did not know about the administrative policy of the Minister, who is prepared to allow a deduction of $11 per meal without requiring supporting documentation?
+[20] This version of the facts seems to me quite simply improbable. The Appellant attempted to have me believe that he knew absolutely nothing about the rules regarding the deduction of meal costs. He even tried to have me believe that he did not recognize the form TL2[3] whereas he had previously signed such a form as the representative of the corporation in at least one case.[4]
+[21] How can the Appellant, who is not only an experienced trucker, but also the sole shareholder and sole director of a corporation who has been working in the transport industry since 1988, be ignorant on this point? No simple trucker would have attempted to have me believe such a thing. The Appellant's claimed total ignorance of the rules in respect of the deduction of meal expenses merely added to my doubts about his credibility.
+[22] The duties of the Appellant required him on the one hand to travel regularly to the United States and within Canada and, on the other hand, to incur meal costs while he was away. How can one not have doubts, however, about the accuracy of Exhibit A-1, Tab 15, which is a summary, prepared by the secretary of the corporation, of the Appellant's log books for the years at issue? It would have been interesting to hear the testimony of the secretary, who could have corroborated the testimony of the Appellant that the summary faithfully reflects the information contained in the log books. The Appellant could have had the secretary testify. Once again, he did not do so. I infer from that that this evidence might not have been in his favour.
+[23] The Appellant was also required to subtract the amount of allowances and reimbursements in respect of meals received or owing from all the deductions requested in respect of his meal expenditures. Clearly, he did not do so. Mr. Potvin, whose testimony need not be doubted in this case, testified that[5] the Minister had not made the Appellant pay tax on a number of cheques payable to "cash" which he had cashed, because he had believed, as he had done for the other truck drivers of the corporation, that these cheques constituted reasonable allowances? This fact raised even more doubt in my mind regarding the credibility of the Appellant. How can one not wonder whether a portion of the meal expenses claimed today by the Appellant had not already been reimbursed by the corporation, which had, moreover, incurred major travel expenses during the taxation years at issue.[6]
+[24] The burden of proof was on the Appellant to convince me, based on a preponderance of probabilities, of the accuracy of his log book summary. It was also incumbent upon him to demonstrate to me that he had not received allowances and reimbursements in respect of meals and that the corporation had not, quite simply, reimbursed part of these meal expenses. In view of the limited credibility that I accord to the Appellant's testimony, combined with the absence of any serious documentary evidence or credible, independent testimony that might have corroborated his own testimony, I must conclude that the Appellant has not satisfied the obligation that was upon him to demonstrate that the Minister was wrong on this point.
+Shareholder benefit and expenses denied to the corporation
+[25] The Appellant purportedly made or committed, on behalf of the corporation, expenditures of $10,037 and $6,778 for the corporation's 1998 and 1999 taxation years, respectively. These expenditures were related to the maintenance and repair of the corporation's trucks and the purchase of a computer.
+[26] Using adjusting entries, the corporation:
+(i) reduced the "loans to shareholder" account by an equivalent amount; in other words, these amounts were added to the "Owing to shareholder" account;
+(ii) treated these expenses allegedly made or committed by the Appellant for his personal use as business expenses and thus deducted them in calculating its business income.
+[27] In the audit, Mr. Potvin denied the corporation the deduction of these expenses in calculating its business income and made the Appellant pay tax on these amounts as a shareholder benefit granted by the corporation, because these expenditures were not supported by vouchers.
+[28] In order to partially justify the expenses thus claimed by the corporation and to partially refute the appropriation of funds, the Appellant produced at the time of the objections, that is one or two years later, four invoices (Exhibit A-1, Tab 17) totalling $6,333.33 in expenditures in respect of the maintenance and repair of the corporation's trucks, which he had purportedly incurred on behalf of the corporation during the corporation's 1998 taxation year. The Appellant had also produced, at the time of the objections, another invoice in relation to the purchase of a computer (Exhibit A-1, Tab 14) which the Appellant acquired in 1998 for the corporation at a cost of $2,528. Despite the Appellant's explanations that the invoices for the maintenance and repair of the trucks had been lost in the trucks and that he had checked with the corporation's accountant that these expenditures had not previously been claimed by the corporation, the Minister refused to allow them, even though substantiating evidence was ultimately produced to support them. It is worth noting that the Appellant did at no time produce substantiating evidence for the other expenses that he incurred on behalf of the corporation. Thus, the expenditures that the Appellant claimed were made on behalf of the corporation amounting to $8,174 were not at any time supported by documentation.
+[29] In the instant case, the Appellant had the burden of proving, based on a preponderance of probabilities, that these expenditures had not previously been deducted in calculating business income. The evidence from the Appellant in this regard was based solely on his testimony. The explanations by the Appellant in this regard are worth quoting:
+[translation]
+Q. How can you come here today to testify that these invoices were not claimed?
+A. Because when Manon Gallant was asked whether I had invoices, they were found, they had traced them back to see whether they were on the return that she filed. She did not have them, no photocopies, nothing. I had only the originals. At the weekend, or at the end of the month, the driver was supposed to give me all the invoices he had in his possession, so that they could be given to the accountant. And those invoices were never given to me because they were still in the license pads, in the leather pads.[7]
+[30] First, it emerges from this testimony that the drivers had forgotten to give the invoices to the Appellant. However, the evidence revealed that four of the five invoices had been paid in cash by the Appellant and not by the truck drivers. So, I have difficulty understanding why the Appellant claimed that the drivers had forgotten to give him the invoices. Was the invoice related to the purchase of the computer also lost? The testimony of the Appellant was silent on that point.
+[31] The Appellant could have supported by means of her testimony his claims that he had checked with Ms. Gallant that these expenditures had not already been claimed by the corporation. He did not do so. I infer therefrom that this evidence would not have been in his favour. It would also have been most interesting to hear the testimony of Théodore Turgeon, the driver for the corporation, who reportedly paid for the repair of a truck belonging to the corporation and who also forgot to give the invoice to the Appellant.
+[32] Ultimately, the Appellant is asking me to lend credence to his assertions that the invoices had been lost, and that he had been unable to produce them at the time of the audit, and that the corporation had not previously deducted them in calculating its business income. In light of the lack of credibility that I give to the Appellant's testimony, it is difficult for me to believe his explanations when they are not supported by valid, objective evidence and by credible, independent testimony. How can the Appellant who, moreover, provided no explanation in support of expenditures of $8,174 that he made on behalf of the corporation and for which he produced not a single piece of documentary evidence, expect that the Court will blindly believe his testimony?
+Penalty
+[33] Was the Minister justified in imposing on the corporation a penalty pursuant to subsection 163(2) of the Act in respect of the expenditure of $15,641 ($15,641 + GST and QST = $17,991) for the repair of the corporation's GMC truck during its 1999 taxation year? We should remember that the expenditure was allegedly incurred by the Appellant on behalf of the corporation and that the corporation had reduced the "loans to shareholder" account by that amount. In support of the expenditure of $15,641, the Appellant has submitted an estimate given to the corporation as evidence.[8] The word "estimate" had been concealed by a strip of correcting tape. The evidence also revealed that the repairs had been carried out in early 2000. Lastly, it must be noted that the Appellant acknowledged that the Minister was within his rights in denying the corporation a claim for this expense in computing its income for the taxation year ending on June 30, 1999 and that the Minister was also entitled to add to the Appellant's income as a shareholder benefit for his 1999 taxation year the amount of $17,991 (namely $15,641 + GST and QST).
+[34] The explanations of the Appellant in this regard deserve to be quoted (from paragraph 352, page 92, to paragraph 369, page 97, of the stenographic record):
+[translation]
+Q. If we look at 1999, the following tab, Tab 14, Your Honour, at page 3 of the document, that is worksheet 7550-3. You can also see at the top: an entry dated thirty (30) June, general repair $17,991, that's the repair according to the estimate or the explanation that you gave during your …
+A. Yes.
+Q. Was this $17,991 repair credited to your loans account at that time?
+A. Yes.
+Q. What happened on the thirtieth (30) of June? You have explained to us that you had the estimate, that the estimate was in the envelope that was with Manon Gallant. I understand that Ms. Gallant called you to find out if she should pay the expense or not this …
+A. In the week after I gave her the envelope, yes. But after that, we didn't talk about it again.
+Q. If you look at the estimate that you gave her. At what point?
+A. The estimate was done in November 98, I believe.
+Q. I have the same estimate, Your Honour, at Tab 16 of my list of documents. The estimate is dated the 18th of November 1998. So this estimate was given to Ms. Gallant in the weeks that followed?
+A. Yes, before the thirty-first (31st ) of December for the end of the quarter.
+Q. Before the thirty-first (31st) of December?
+A. Yes.
+BÉDARD J.:
+Q. So, the estimate was given to Ms. Gallant when?
+A. Certainly before the thirty-first (31st) of December of that year.
+ANNE POIRIER:
+Q. Before the thirty-first (31st) of December 98?
+A. 98.
+Q. On the thirtieth (30th) of June or a few days before the thirtieth of June, Ms. Gallant called you to find out whether she should claim the invoice as an expense or …
+A. No, not at that point, when the expenditure had actually been made, because the invoice at that point, it was only produced in November 98.
+Q. Did you tell Ms. Gallant to claim the expenditure on the thirty-first (31st) of December 98?
+A. Before the thirty-first (31st) of December 98. And after that, we didn't talk about it again.
+Q. Why did she wait until the thirtieth (30th) of June to claim it?
+A Look, I have no idea, I'm not an accountant. I do not know. Okay, my taxation year ends on the thirtieth (30th) of June. So that is probably when the claim was made on the tax return.
+BÉDARD J.: I did not understand the testimony.
+ANNE POIRIER: He is telling me that Ms. Gallant, on the thirty-first (31) of December, had the invoice estimate, which she was to record as an expense, if the expenditure had been made. And I am asking him why was the expense not shown until the thirtieth (30th) of June of the following year, but in the same taxation year, whereas Ms. Gallant could have asked you in January 99, should I enter the expenditure …
+Q. Did Ms. Gallant come back to you to say: this is not an expense that I can claim because it is marked estimate?
+A. On the same day that I gave her the invoices, she called me in the course of that week to tell me that it had the word “estimate” on it. I said: "We will wait for the loan to have the truck repaired. And you should keep that invoice, and put it with the books because I will keep the original invoice." And at that point, that is the explanation, that we did not have the money at that point. So the expenditure was made the following year in November 98.
+Q. Did you authorize Ms. Gallant to erase the word “estimate” on the invoice so that she could keep it?
+A. No, that was her suggestion to me. I said to her: "Okay, there's no problem." That was it.
+Q. So you agreed to her request?
+A. Yes, I knew. I was aware of it.
+Q. You knew.
+BÉDARD J.:
+Q. So, to be sure that I understand correctly. You handed in the quote unquote "estimate" towards the end of December 98. And then, Ms. Gallant called you about it. You said: you will enter it, that's what you said, you will enter it as an expense during the year?
+A. That is the invoice that you will keep for the expenses, yes, for the accounting.
+Q. And she did not enter it right away but she did enter it in June?
+A. I have no idea about that. That's certain, because I, I'm not the one who does the accounting. And she lives in Saint‑Calixte and I live in the Beauce. So we don't see each other every day, we live four or five kilometres apart. All that I know is that the real expenditure happened in 99, November 99 or October.
+ANNE POIRIER:
+Q. So for the next business year. To your knowledge, was the expenditure claimed for the following year?
+A. I don't know whether anyone checked, I believe so, that it was claimed for the year 2000.
+[35] So the Appellant gave the supporting documentation to Ms. Gallant before December 31, 1998. Why did Ms. Gallant wait until June 30, 1999 to prepare an adjusting entry by means of which she reduced the "shareholder loans" account by $17,991? Once again, the Appellant replied "that he has no idea and that he is not an accountant". It would have been very interesting to hear the testimony of Ms. Gallant, who would have been able to corroborate the assertion by the Appellant that she was the one who suggested concealing the word "estimate" with a strip of correction tape. I have difficulty explaining the fact that the sole director of the corporation forgot to tell Ms. Gallant that the expenditure was not made during the corporation's 1999 taxation year. This is nonetheless a major expense in this case, in view of the corporation's low turnover.[9] It is also highly surprising that Ms. Gallant did not call the Appellant back before she reduced, on June 30, 1999, the loans to the Appellant to ask him if the expenditure had actually been made, in view of the fact that the Appellant had told her that he was waiting for "the loan to have the truck repaired". All in all, the Appellant claims that he is an ignoramus when it comes to accounting and that this was an involuntary mistake. I am, instead, of the opinion that the Appellant displayed a serious degree of irresponsibility and wilful blindness.
+[36] Was the Minister justified in imposing on the Appellants a penalty under subsection 163(2) of the Act in respect of the other additional income? In light of all the evidence, the Appellant’s behaviour has persuaded me that he displayed wilful blindness, a marked lack of concern, or at least serious negligence with regard to his tax obligations. In this connection, we must bear in mind the size of the amounts in question, the marked absence of supporting documentation and the Appellants' lack of administrative rigor. For these reasons, I conclude that the Minister has discharged the burden that was on him to prove, based on a preponderance of probabilities, that the Appellants had, in this case, knowingly or in circumstances equivalent to gross neglect, made false statements or omissions in their tax returns. I am thus of the opinion that the Minister was justified in imposing on the Appellants the penalty stipulated at subsection 163(2) of the Act in respect of the amounts at issue.
+[37] For all these reasons, the appeals are dismissed, with costs.
+Signed at Ottawa, Canada, this 5th day of May 2005.
+"Paul Bédard"
+Bédard J.
+Certified true translation
+on this 27th day of February, 2006.
+Garth McLeod, Translator
+CITATION: 2005TCC238
+DOCKET FILE NO.: 2002-4085(IT)G and 2002-4086(IT)G
+STYLE OF CAUSE: 2622-4121 QUÉBEC INC. AND HER MAJESTY THE QUEEN
+ANDRÉ PRUDHOMME AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: April 4, 2005
+REASONS FOR JUDGMENT: The Honourable Judge Paul Bédard
+DATE OF JUDGMENT: May 5, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Jacques Renaud
+Counsel for the Respondent:
+Anne Poirier
+SOLICITOR OF RECORD:
+For the Appellant:
+Name: Jacques Renaud
+Firm: Renaud Brodeur
+Montreal, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] National Bank of Canada, St-Joseph de Beauce branch, account no. 01-300-28.
+[2] IC 73-21R7, Travel expenses
+[3] See page 72 of the stenographic record.
+[4] See Exhibit I-4.
+[5] See page 160 of the stenographic record.
+[6] See exhibit I-1, tabs 1 and 2.
+[7] See pages 85 and 86 of the stenographic record.
+[8] See Exhibit I-1, Tab 1-b..
+[9] $350,631 in 1998 and $414,388 in 1999.

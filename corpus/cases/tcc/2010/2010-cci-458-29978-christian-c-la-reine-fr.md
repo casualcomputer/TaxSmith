@@ -1,0 +1,228 @@
+---
+title: "Christian c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29978/index.do"
+last_modified: "2010-09-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 458"
+citation2: ""
+neutral_citation: "2010 CCI 458"
+decision_date: "2010-09-14"
+language: "fr"
+item_id: "29978"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6461
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:35:34.291000+00:00"
+cases_cited_count: 1
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3a624207f912cbb09ecb21449fe16318e24eb6da27a0bce90a215fe93b9575cc"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Christian c. La Reine
+
+- Citation: 2010 CCI 458
+- Decision date: 2010-09-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6461, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Christian c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-09-14
+Référence neutre
+2010 CCI 458
+Numéro de dossier
+2008-2227(IT)G
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-2227(IT)G
+ENTRE :
+RENÉE CHRISTIAN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+_____________________________________________________________
+Appel entendu le 14 décembre 2009 à London (Ontario)
+Devant : L’honorable juge Réal Favreau
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Tanis Halpape
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la nouvelle cotisation établie le 28 juillet 2008 en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2006 est accueilli en partie, sans dépens, et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation afin de permettre la déduction d’un montant de 1 999,50 $ au titre des frais de déménagement, le tout conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 14e jour de septembre 2010.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 12e jour de janvier 2011.
+Mario Lagacé, jurilinguiste
+Référence : 2010 CCI 458
+Date : 20100914
+Dossier : 2008-2227(IT)G
+ENTRE :
+RENÉE CHRISTIAN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit d’un appel interjeté à l’égard d’une nouvelle cotisation établie le 28 juillet 2008 en vertu de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.), dans sa version modifiée (la « Loi »), pour l’année d’imposition 2006, dans laquelle l’appelante a déduit des frais de déménagement de 56 148 $.
+[2] Le ministre du Revenu national (le « ministre ») a d’abord établi une cotisation à l’égard de la dette fiscale de l’appelante pour l’année d’imposition 2006 au moyen d’un avis de cotisation daté du 27 août 2007, dans lequel il a refusé tous les frais de déménagement que l’appelante avait déduits au motif qu’ils n’étaient pas appuyés par des reçus ou par d’autres documents acceptables.
+[3] Dans un avis de nouvelle cotisation daté du 10 avril 2008, le ministre a établi une nouvelle cotisation à l’égard de la dette fiscale de l’appelante pour l’année d’imposition 2006 et a autorisé la déduction d’un montant de 19 364 $ au titre des frais de déménagement.
+[4] Dans un autre avis de nouvelle cotisation daté du 28 juillet 2008, le ministre a de nouveau établi une nouvelle cotisation à l’égard de la dette fiscale de l’appelante pour l’année d’imposition 2006 et a autorisé la déduction d’un montant additionnel de 10 000 $ au titre des frais de déménagement. Les frais de déménagement alors autorisés étaient répartis comme suit :
+- Commission payée sur la vente de l’ancienne résidence
+- Frais et honoraires juridiques
+- Atlas (transport des meubles)
+- Repas et logement (8 jours)
+Total
+17 842 $
+589 $
+9 084 $
+1 847 $
+29 364 $
+[5] Au début de l’audience, l’intimée a admis les frais de déménagement suivants :
+- Frais d’un mois d’entreposage
+- Frais de déplacement (autres que les frais de logement et de repas)
+- Repas et logement pendant les déplacements
+- Frais de subsistance temporaire (logement)
+- Frais de subsistance temporaire (repas)
+- Montant payé à UPS dans le cadre de la vente de l’ancienne résidence
+Total
+144,45 $
+706,00 $
+447,00 $
+2 298,88 $
+811,96 $
+206,52 $
+4 614,81 $
+[6] Au cours de l’audience, l’intimée a également admis un montant de 566,46 $ payé à l’égard du levé géodésique effectué dans le cadre de la vente de l’ancienne résidence.
+[7] Par suite de l’ensemble des admissions et des rajustements décrits plus haut, les montants encore en litige devant la Cour sont les suivants :
+- Transport et entreposage des meubles
+- Repas et logement pendant les déplacements
+- Frais de subsistance temporaire (logement)
+- Frais de vente de l’ancienne résidence
+- Frais liés à l’achat de la nouvelle résidence
+Total
+1 036,90 $
+1 999,50 $
+4 550,88 $
+9 152,54 $
+8 476,40 $
+25 216,22 $
+[8] L’appelante a également soulevé la question de savoir si le ministre avait correctement porté à son crédit un montant de 13 989,62 $ qu’elle avait payé lors de la production de sa déclaration de revenus pour l’année 2006. L’intimée a soulevé la question de la compétence que la Cour possède pour trancher cette question.
+[9] Il est admis que l’appelante, qui travaille à son compte dans le domaine de la vente de produits cosmétiques pour Mary Kay, a déménagé et était autorisée à déduire les frais de déménagement supportés en 2006 dans le cadre de cette réinstallation, puisqu’il était admis que celle-ci était une « réinstallation admissible » au sens de l’article 248 de la Loi.
+[10] L’expression « frais de déménagement » est définie au paragraphe 62(3) de la Loi; voici les extraits pertinents de cette définition :
+(3) Frais de déménagement ─ Pour l’application du paragraphe (1), sont comprises dans les frais de déménagement toutes dépenses engagées au titre :
+a) des frais de déplacement (y compris les dépenses raisonnables pour repas et logement) engagés pour le déménagement du contribuable et des membres de sa maisonnée qui se transportent de l’ancienne résidence à la nouvelle résidence;
+b) des frais de transport et d’entreposage des meubles du contribuable qui doivent être transportés de son ancienne résidence à sa nouvelle résidence;
+c) des frais de repas et de logement, près de l’ancienne résidence ou de la nouvelle résidence, engagés par le contribuable et les membres de sa maisonnée pendant une période maximale de 15 jours;
+d) […]
+e) des frais relatifs à la vente de son ancienne résidence;
+f) lorsque le contribuable ou son époux ou conjoint de fait vend l’ancienne
+résidence par suite du déménagement, des frais, pour le contribuable, à l’égard des services juridiques relatifs à l’achat de la nouvelle résidence et des impôts, frais, droits et taxes (sauf toute taxe sur les produits et services ou taxe à la valeur ajoutée) applicables au transfert ou à l’enregistrement du droit de propriété de cette résidence;
+g) […]
+h) […]
+il est toutefois entendu que le terme ne vise pas les frais (autres que les frais visés à l’alinéa f)) engagés par le contribuable pour l’acquisition de sa nouvelle résidence.
+[11] L’emploi des mots « sont comprises » au paragraphe 62(3) de la Loi signifie que la liste n’est pas exhaustive. Il a également été reconnu que les mots « frais de déménagement » doivent être interprétés selon leur sens ordinaire et courant dans le contexte de la loi en cause (Storrow v. R., 1978 CarswellNat 253, 78 DTC 6551 (C.F. 1re inst.)). De plus, le montant pouvant être déduit au titre de l’article 62 de la Loi doit être raisonnable dans les circonstances, comme l’exige l’article 67 de la Loi.
+Frais de transport et d’entreposage des meubles
+[12] Le montant contesté à l’égard des frais de transport et d’entreposage des meubles s’élève à 1 036,90 $. Le ministre a permis la déduction d’un montant de 9 228,45 $ et a refusé l’excédent, parce que la période d’entreposage des meubles était trop longue.
+[13] Au cours de son témoignage, l’appelante a expliqué qu’elle avait dû conserver ses meubles en entreposage jusqu’à ce qu’elle puisse déménager dans sa nouvelle résidence le 19 décembre 2007. La construction de la nouvelle résidence, située au 7794 Talbot Trail, à Blenheim, a débuté à l’automne 2006 et s’est terminée à la fin de 2007. Au cours de la construction, l’appelante a dû vivre dans des hôtels, ce qui explique pourquoi ses meubles sont longtemps restés en entrepôt. Le montant déduit à cet égard comprenait uniquement la partie des frais supportés en 2006.
+[14] Le ministre a autorisé la déduction de tous les frais de transport relatifs aux meubles ainsi que les frais d’un mois d’entreposage. J’estime que ces déductions sont raisonnables dans les circonstances. La décision de faire l’acquisition d’une nouvelle résidence dont la construction a duré plus d’un an était une décision personnelle de l’appelante et je ne vois pas pourquoi les contribuables canadiens devraient supporter le coût de cette décision personnelle.
+Repas et logement pendant les déplacements
+[15] Le montant contesté à l’égard des frais de repas et de logement supportés pendant les déplacements s’élève à 1 999,50 $. Le ministre a permis la déduction de tous les frais de déplacement (sauf les frais de repas et de logement), soit un montant de 1 223 $ pour le logement et de 1 071 $ pour les repas, ce qui représente un total de 2 294 $.
+[16] Au cours de son témoignage, l’appelante a expliqué qu’il lui avait fallu dix jours pour conduire d’Edmonton à Blenheim (soit une distance de 3 154 km) avec ses deux enfants, âgés de dix et sept ans, et qu’elle avait eu besoin de quelques jours supplémentaires, en raison des problèmes de santé qu’elle avait eus. Elle a fourni quelques reçus de frais médicaux à l’appui de cette affirmation.
+[17] Le ministre a accepté la déduction des frais de déplacement correspondant à sept nuits, ce qui représente une distance de 400 km par jour et d’une période de conduite de quatre heures par jour. L’excédent que l’appelante a déduit a été refusé parce qu’une partie du voyage a été consacrée à des loisirs (ainsi, quatre nuits ont été passées au Wisconsin et trois jours dans un parc d’attractions aquatiques).
+[18] Le montant que le ministre a accepté au titre des repas représente un taux fixe de 17 $ par repas, jusqu’à concurrence de 51 $ par jour par personne, sans reçus. Ces données étaient fondées sur les taux pour les repas et le véhicule dont l’Agence du revenu du Canada (« ARC ») s’était servie pour calculer les frais de déplacement pour 2006.
+[19] En ce qui concerne la distance parcourue, étant donné que l’appelante conduisait seule le véhicule avec ses jeunes enfants et qu’elle a eu des problèmes de santé, j’estime qu’une période de dix jours était raisonnable dans les circonstances. De plus, le montant déduit au titre des repas (1 571,36 $) se rapproche sensiblement du montant déterminé à l’aide de la formule utilisée par l’ARC.
+Frais de subsistance temporaire (logement)
+[20] Le montant contesté en ce qui concerne la déduction des frais de subsistance temporaire (logement) s’élève à 4 550,88 $. Le ministre a accepté un montant de 2 298 $, ce qui représente une période de 13 jours qui est en deçà de la période maximale de 15 jours autorisée par l’alinéa 62(3)c) de la Loi. Cette disposition législative ne prévoit aucune exception et doit être respectée. Le ministre a accepté la déduction des frais en question qui étaient appuyés par des reçus et que l’appelante a supportés pendant son séjour dans la région de London.
+Frais de vente de l’ancienne résidence – autres frais de vente
+[21] Le montant contesté à l’égard des frais de vente de l’ancienne résidence (autres frais de vente) s’élève à 9 719 $, dont une somme de 8 395,10 $ représente des intérêts relatifs à un bref et 1 323,90 $, des frais de transport et de mise à la poste, des frais de cueillette des ordures ménagères, des frais de clôture et des frais de réparation (retouches du plancher avant la mise en vente de la résidence). Le ministre a refusé la déduction de ces derniers frais, parce que l’appelante n’avait présenté aucun reçu à cet égard.
+[22] M. Christos Daras, l’époux de l’appelante dont celle-ci était séparée, est venu témoigner à l’audience afin d’expliquer en quoi consistaient les intérêts relatifs à un bref. Le bref de 24 627 $ se rapportait à un privilège qui grevait la résidence en raison d’une dette fiscale que M. Daras avait envers l’ARC. L’appelante est devenue solidairement responsable de cette dette, conformément au paragraphe 160(1) de la Loi, lorsqu’il lui a transféré sa part de la résidence le 20 décembre 2001 pour une contrepartie inférieure à la juste valeur marchande.
+[23] L’appelante soutient que le ministre n’était pas habilité à exiger et à prélever des intérêts, parce que l’alinéa 160(1)e) fixe une limite à la responsabilité. L’appelante n’est redevable que du montant que l’auteur du transfert de la propriété devait jusqu’au 20 décembre 2001 inclusivement.
+[24] L’appelante ajoute qu’elle n’a eu d’autre choix que de payer les intérêts en question afin de pouvoir vendre sa résidence.
+[25] L’avocate de l’intimée soutient que le paiement des intérêts n’était pas directement lié au déménagement et constituait une dette personnelle qui s’apparentait aux intérêts hypothécaires.
+[26] À mon avis, les dépenses contestées en ce qui a trait à la vente de l’ancienne résidence, c’est-à-dire les autres frais de vente, n’étaient pas des frais de déménagement au sens ordinaire et courant de cette expression et n’étaient pas liées uniquement et directement au déménagement en question.
+[27] Dans Séguin v. R., 1997 CarswellNat 2392, 97 DTC 5457, la Cour d’appel fédérale a formulé les remarques suivantes lorsqu’elle a refusé la déduction des frais d’intérêts hypothécaires que M. Séguin avait payés à l’égard de son ancienne maison jusqu’à la vente de celle-ci :
+8. Selon le sens ordinaire des mots employés, sont inclus dans la disposition les frais engagés pour déménager physiquement, pour changer de résidence, de même que certains autres frais qui se rapportent directement au déménagement et à la réinstallation proprement dits et non un montant destiné à compenser pour des dommages accessoires qui sont sans rapport avec le déménagement et la réinstallation proprement dits dans la nouvelle résidence. Ainsi sont exclus les frais d’intérêts de l’ancienne résidence qui ne se rattachent pas directement au déménagement physique du contribuable et de sa famille mais plutôt à l’emprunt bancaire qu’il a contracté sur son ancienne résidence.
+[28] À mon avis, le coût des intérêts relatifs au bref se compare aux frais d’intérêts liés à l’ancienne résidence. L’appelante n’a pas le droit de déduire de paiement d’intérêts à titre de frais de déménagement. Comme l’a souligné le juge Collier dans l’arrêt Storrow, précité, « Seules sont déductibles les dépenses engagées en vue du déplacement physique du contribuable, de sa maisonnée et de ses biens à la nouvelle résidence » (fin du paragraphe 14).
+[29] En l’espèce, la Cour doit uniquement examiner la déductibilité du coût des intérêts relatifs au bref à titre de frais de déménagement. Aucune décision ne peut être rendue au sujet de la question de savoir si le ministre était habilité par la Loi à exiger des intérêts de l’appelante et à percevoir ces intérêts, car cette question n’a pas été soulevée dans le présent appel et je n’en suis pas saisi.
+[30] Les autres frais déduits à l’égard de la vente de l’ancienne résidence ne sont pas déductibles à titre de frais de déménagement, soit parce qu’ils ne sont pas appuyés par des reçus (p. ex., les frais de transport et de mise à la poste), soit parce qu’ils ont été payés dans le cadre de la préparation en vue du déménagement (p. ex., les frais de réparation) et n’étaient pas à proprement parler des frais de déménagement visés au paragraphe 62(3) de la Loi.
+Frais relatifs à l’achat de la nouvelle résidence
+[31] Le montant contesté en ce qui a trait à la déduction des frais relatifs à l’achat de la nouvelle résidence s’élève à 8 476,40 $, qui est réparti comme suit :
+- Dépôt pour dommages éventuels
+- Droits de permis
+- Traitement des droits de permis
+- Droits de la Public Utilities Commission
+- Taxe unique pour l’eau
+- Droits de permis (nouveau système septique)
+- Droits versés à la Lower Thames Valley Conservation Authority
+1 000,00 $
+4 919,40 $
+60,00 $
+140,00 $
+1 087,00 $
+1 120,00 $
+150,00 $
+Ces dépenses ne sont pas déductibles, parce qu’elles ne sont pas mentionnées à l’alinéa 62(3)f) de la Loi. Selon les dernières lignes du paragraphe 62(3), l’expression « frais de déménagement » ne vise pas les frais (autres que les frais visés à l’alinéa f)) engagés par le contribuable pour l’acquisition de sa nouvelle résidence.
+[32] Selon l’alinéa 62(3)f), lorsque le contribuable vend l’ancienne résidence, les frais, pour le contribuable, à l’égard des services juridiques relatifs à l’achat de la nouvelle résidence et les impôts, frais, droits et taxes (sauf toute taxe sur les produits et services ou taxe à la valeur ajoutée) applicables au transfert ou à l’enregistrement du droit de propriété de cette résidence sont compris dans les « frais de déménagement ».
+[33] Les dépenses mentionnées au paragraphe 31 ci‑dessus étaient des frais engagés à l’égard de l’acquisition de la nouvelle résidence, mais n’étaient ni des frais relatifs à des services juridiques, ni des frais ou droits applicables au transfert ou à l’enregistrement du droit de propriété de la nouvelle résidence.
+[34] La dernière question que l’appelante a soulevée concerne un paiement de 13 989,62 $ qu’elle a effectué lorsqu’elle a produit sa déclaration de revenus de 2006, mais qui n’aurait pas été porté à son crédit. L’avocate de l’intimée a fait valoir que le montant en question avait effectivement été porté au crédit de l’appelante et que, en tout état de cause, la Cour n’a pas compétence pour se prononcer sur cette question de comptabilité.
+[35] Dans Miller et al. v. The Queen, 2007 DTC 680, le juge Margeson, de la Cour canadienne de l’impôt, a clairement établi que l’examen des questions de comptabilité concernant une dette due est différent de la détermination des éléments ayant donné lieu à la dette et que la détermination d’une dette due à la Couronne relève de la compétence de la Cour fédérale et non de la Cour canadienne de l’impôt. À l’instar du juge Margeson, je suis d’avis qu’il n’y a aucun droit d’appel à l’égard d’une déclaration comptable, laquelle n’est pas une cotisation, et que le « solde impayé », même s’il figure dans un avis de cotisation ou de nouvelle cotisation, ne peut faire l’objet d’un appel en vertu des dispositions de la Loi, parce qu’il est le résultat de la cotisation ou de la nouvelle cotisation et non un des résultats de l’impôt, des intérêts et des pénalités à payer.
+[36] En conséquence, la Cour estime qu’elle n’a pas compétence à l’égard de la question de comptabilité que l’appelante a soulevée.
+[37] Pour les motifs exposés ci-dessus, l’appel interjeté à l’égard de la nouvelle cotisation établie pour l’année d’imposition 2006 est accueilli en partie, sans dépens, et l’affaire est renvoyée au ministre pour nouvel examen et nouvelle cotisation pour tenir compte du fait que l’appelante a le droit de déduire, au titre de ses frais de déménagement, un montant de 1 999,50 $ à l’égard des frais de repas et de logement qu’elle a supportés pendant ses déplacements.
+Signé à Ottawa, Canada, ce 14e jour de septembre 2010.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 12e jour de janvier 2011.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2010 CCI 458
+NO DE DOSSIER DE LA COUR : 2008-2227(IT)G
+INTITULÉ : Renée Christian c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : London (Ontario)
+DATE DE L’AUDIENCE : Le 14 décembre 2009
+MOTIFS DU JUGEMENT : L’honorable juge Réal Favreau
+DATE DU JUGEMENT : Le 14 septembre 2010
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Tanis Halpape
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,182 @@
+---
+title: "James v. Canada (Human Resources and Skills Development)"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30861/index.do"
+last_modified: "2012-06-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 229"
+citation2: ""
+neutral_citation: "2012 TCC 229"
+decision_date: "2012-06-26"
+language: "en"
+item_id: "30861"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7358
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:19:21.892000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "bebec17d041f329cac7deb22857fd1fde4bc23926a48530d73f5805680831cf5"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# James v. Canada (Human Resources and Skills Development)
+
+- Citation: 2012 TCC 229
+- Decision date: 2012-06-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7358, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+James v. Canada (Human Resources and Skills Development)
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-06-26
+Neutral citation
+2012 TCC 229
+File numbers
+2011-2921(OAS)
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Old Age Security Act
+Decision Content
+Docket: 2011-2921(OAS)
+BETWEEN:
+FRANCISCA JAMES,
+Appellant,
+and
+THE MINISTER OF HUMAN RESOURCES
+AND SKILLS DEVELOPMENT,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 14, 2012, at Vancouver, British Columbia
+Before: The Honourable Mr. Justice Randall Bocock
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Adam Gotfried
+____________________________________________________________________
+JUDGMENT
+The appeal to this Court, by way of reference pursuant to subsection 28(2) of the Old Age Security Act regarding the determination by the Minister of Human Resources and Skills Development (the “Minister”) dated September 10, 2010 relating to the determination of the Appellant’s income or sources of income is dismissed. The matter is accordingly returned to the Review Tribunal with the findings that:
+1. the income determination made by the Minister was correctly made; and,
+2. the Appellant’s base monthly income for the base years 2005 through 2008, inclusive, was in excess of the maximum permitted under the Old Age Security Act for the purposes of payment of a Guaranteed Income Supplement.
+Signed at Toronto, Ontario, this 26th day of June 2012.
+“R.S. Bocock”
+Bocock J.
+Citation: 2012 TCC 229
+Date: 20120626
+Docket: 2011-2921(OAS)
+BETWEEN:
+FRANCISCA JAMES,
+Appellant,
+and
+THE MINISTER OF HUMAN RESOURCES
+AND SKILLS DEVELOPMENT,
+Respondent.
+REASONS FOR JUDGMENT
+Bocock J.
+Reference Before the Court
+[1] This is a reference directed to the Court from the Office of the Commissioner of Review Tribunals (“Reference”) pursuant to subsection 28(2) of the Old Age Security Act (the “Act”).
+Summary of Regime for Guaranteed Income Supplement
+[2] The relevant procedural subsection of the Act, namely, subsection 28(2) provides:
+28(2) Where, on an appeal to a Review Tribunal, it is a ground of the appeal that the decision made by the Minister as to the income or income from a particular source or sources of an applicant or beneficiary or of the spouse or common-law partner of the applicant or beneficiary was incorrectly made, the appeal on that ground shall, in accordance with the regulations, be referred for decision to the Tax Court of Canada, whose decision, subject only to variation by that Court in accordance with any decision on an appeal under the Tax Court of Canada Act relevant to the appeal to the Review Tribunal, is final and binding for all purposes of the appeal to the Review Tribunal except in accordance with the Federal Courts Act.
+[3] Pursuant to the Authority of sections 38 to 47 of the OAS Regulations, the Court has conducted a hearing pursuant to the Reference for the purposes of determining the income or income from a particular source of income of the applicant, namely, Francisca James.
+[4] Section 12 of the Act provides for payment to a pensioner of a supplement (guaranteed income supplement or “GIS”). The GIS is fixed under the Act and has, in turn, been increased and indexed to the Consumer Price Index over the years.
+[5] The Act fixed, by virtue of subsection 12(1), the monthly supplement to be paid at $562.93 per month subject to the increases mentioned above.
+[6] More specifically, there is a limitation of the amount to be paid pursuant to a formula as follows [with emphasis added]:
+[…]
+12(5) Despite subsection (2), the amount of the supplement that may be paid to a pensioner for any month after December 1997 is the amount determined by the formula
+[(A-B) x C] – D/2
+where
+[…]
+“D” is the pensioner’s monthly base income rounded, where it is not a multiple of two dollars, to the next lower multiple of two dollars.
+[…]
+12(6) In this section, “monthly base income” means, […]
+(b) in the case of an applicant who, on the day immediately before the current payment period, was the spouse or common-law partner of a person to whom no pension may be paid for any month in the current payment period, the amount determined by the formula
+A/24 – B/2
+where
+A is the aggregate of the incomes of the applicant and the spouse or common-law partner for the base calendar year, and
+[…]
+[7] Generally, under the legislation, if the combined worldwide income of an applicant and spouse exceed the average of their combined pensions otherwise payable under the Act, then no GIS benefit is payable in the twelve month period from April 1st to March 31st (the “Base Year”) commencing in any calendar year next following the Base Year. In the Reference before the Court, the Base Years in question are 2005, 2006, 2007 and 2008.
+[8] Therefore, should the Court determine that, in any of those Base Years, the applicant and her spouse had a combined income from all worldwide sources greater than their pensions then no guaranteed income supplement or GIS is payable under the Act.
+Minister’s Assumptions
+[9] The assumptions of the Minister in determining the Appellant’s monthly base income under the Act and the corresponding decision to deny the GIS were as follows:
+a) the Appellant has also been known as Francisca C.B. Low, Low Cha Boh and Cha Boh Low;
+b) the Appellant emigrated to Canada from Malaysia in August 1988;
+c) the Appellant has been resident in Canada since 1988;
+d) the Appellant is a Canadian citizen;
+e) the Appellant married Stephen James (the “Spouse”) on January 29, 1986;
+f) the Appellant began receiving OAS and GIS benefits in October 2006, the month following her 65th birthday;
+g) the Appellant was approved for the GIS benefit based on her statements in her applications that she and the Spouse had nil or nominal income;
+h) the Spouse resides in Malaysia;
+i) the Appellant and the Spouse have a joint TD Canada Trust bank account in Canada;
+j) the Spouse made numerous withdrawals in Malaysia from the joint TD Canada Trust bank account nearly every month between September 2002 and September 2008;
+k) the Spouse has a separate bank account in Malaysia;
+l) the Spouse works as an accountant in Malaysia;
+m) the Spouse earns $10,000.00 per month as an accountant;
+n) between September 2002 and September 2008 the Spouse transferred $186,918.00 from his Malaysian bank account to the joint TD Canada Trust bank account in Canada;
+o) the Appellant’s monthly mortgage payment was $1,232.19 from September 2002 to August 2006;
+p) the Appellant and the Spouse submitted a mortgage renewal application in September 2006;
+q) the monthly mortgage payment was increased to $2,422.36 in September 2006;
+r) at that time, the Appellant received only $1,180.43 per month of OAS, GIS and CPP benefits; and
+s) the Appellant and the Spouse’s combined worldwide income was greater that the maximum income threshold at which the GIS was payable for the payment periods encompassing the calendar years 2006, 2007, 2008, 2009 and 2010.
+The Appellant’s Submissions
+[10] The Appellant, Francisca James, testified that her Spouse is penniless. He derives his apparent affluence, as demonstrated by bank deposits, wire transfers and other assets admitted into evidence, from money borrowed from friends and relatives. As an explanation, on a bank application for a loan, the Appellant submitted that her Spouse’s declaration of income at $10,000.00 per month was a future estimate, but not a then current factually accurate statement. The Appellant also stated that this inaccuracy was not clarified for the Bank, since the Bank failed to ask that specific question. The Appellant testified she is destitute and entirely dependant upon her daughter and relatives in Canada.
+[11] Ms. James’ was unable to offer any documentary or direct viva voce evidence of the loans from her friends and relatives to her and her Spouse on the basis of her view that she had not see the need to provide such evidence nor call such witnesses. It is noted, however, that she did submit Pawnbroker claim tickets as prima facie evidence of her present impoverished state.
+[12] She explained to the Court that her husband’s withdrawal of some $160,000.00 from their joint bank account during the Base Years in question left her with only $24,000.00 for her purposes and again testified such sums were loan proceeds and not income.
+[13] The Appellant also suggested that the Inland Revenue Board of Malaysia could resolve all of theses misunderstandings about her husband’s income, but noted for the Court that the Canada Revenue Agency had failed, notwithstanding her urgings, to contact the Malaysian tax authority. She offered no explanation as to why she or her Spouse, who bore the onus of dislodging the Minister’s assumptions, had failed to so provide such information.
+[14] While it may possibly be true that the Appellant is presently in financial straits and a fiscal bind, the following conclusions and previous assumption of fact made by the Minister in coming to her decision regarding the Appellant’s base monthly income were confirmed by the testimony of a former business Expertise Consultant with Service Canada. She confirmed the following facts which remained unassailed and uncontroverted by the Appellant:
+1. the Appellant did not respond to queries from Service Canada regarding details of the alleged loans and money transfers over the course of the investigation nor was evidence of same placed before the Court;
+2. there is documented evidence of assets in the form of bank account statements in disclosing substantive cash balances in Canadian bank accounts in the name of the Appellant;
+3. the Appellant’s Spouse withdrew large amounts from Canadian based bank accounts by direct withdrawals initiated in Malaysia; and,
+4. there was disinterested third party evidence provided to the Service Canada Consultant by the Appellant’s Chiropractor indicating that the Appellant’s husband lived in Canada for certain parts of the years in question.
+[15] In conclusion, the Appellant may not comprehend that, legally for the purposes of determining GIS entitlement, her income from all sources and that of her Spouse must be pooled on a worldwide basis.
+[16] As to an explanation of her income or of the Minister’s findings and assumptions of the Appellant’s income and that her husband, the Appellant has offered no evidence whatsoever in the form of:
+a) documentary evidence of the alleged loans from relatives and friends in Malaysia;
+b) testimony from her dentist (whom she suggested would have more knowledge than others), Spouse or any other party substantiating her claims of her or her Spouse’s diminished or non-existent income and that of her Spouse;
+c) any information from the Inland Revenue Board of Malaysia Revenue Authority regarding her Spouse’s reported income; and
+d) any consistent evidence or testimony regarding the resources used for the acquisition of Canadian real property by the Appellant, both past and present, throughout the years;
+[17] While it is not possible to precisely determine the income of the Appellant and her Spouse on a joint worldwide basis for the years in question, the Court finds, as a matter of clear fact on the balance of probabilities that the Appellant’s defined income for Base Years 2005 through 2008, inclusive, was well in excess of her total monthly pension receipts from all sources namely, $1,180.43.
+[18] On that basis, the Reference may be answered by the finding of this Court that the determination by the Minister of the Appellant’s monthly base income has been correctly made and this Reference has further determined that the Appellant’s monthly based income as determined under the Act exceeded the maximum allowable under the Act in relation to the payment of a Guaranteed Income Supplement.
+Signed at Toronto, Ontario, this 26th day of June 2012.
+“R.S. Bocock”
+Bocock J.
+CITATION: 2012 TCC 229
+COURT FILE NO.: 2011-2921(OAS)
+STYLE OF CAUSE: FRANCISCA JAMES AND M.H.R.S.D.C.
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: May 14, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice Randall S. Bocock
+DATE OF JUDGMENT: June 26, 2012
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Adam Gotfried
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

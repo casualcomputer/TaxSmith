@@ -1,0 +1,163 @@
+---
+title: "Chamard c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30660/index.do"
+last_modified: "2012-01-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 2"
+citation2: ""
+neutral_citation: "2012 CCI 2"
+decision_date: "2012-01-09"
+language: "fr"
+item_id: "30660"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7219
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:51:59.196000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6b667a183966a5933f285fde44ddfecdf77e6fc1f208b6542af73f083695123e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Chamard c. La Reine
+
+- Citation: 2012 CCI 2
+- Decision date: 2012-01-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7219, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chamard c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-01-09
+Référence neutre
+2012 CCI 2
+Numéro de dossier
+2010-190(GST)G
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2010-190(GST)G
+ENTRE :
+MARTINE CHAMARD,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 28 novembre 2011, à Montréal (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Avocat de l'appelante :
+Me Dany Afram
+Me Aaron Rodgers
+Avocat de l'intimée :
+Me Danny Galarneau
+____________________________________________________________________
+JUGEMENT
+L’appel à l’encontre d’une cotisation établie à l’égard de l’appelante en vertu du paragraphe 325 de la Loi sur la taxe d’accise dont l’avis est daté du 22 avril 2008 est rejeté, avec dépens, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 9e jour de janvier 2012.
+« Paul Bédard »
+Juge Bédard
+Référence : 2012 CCI 2
+Date : 20120109
+Dossier : 2010-190(GST)G
+ENTRE :
+MARTINE CHAMARD,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] L’appelante conteste une cotisation de 14 837,37 $ établie par le ministre du Revenu national (le « ministre ») en vertu de l’article 325 de la Loi sur la taxe d’accise (« LTA »). La cotisation se rapporte au transfert à l’appelante par monsieur Jean Belval d’une somme de 56 000 $, par le biais d’un chèque daté du 23 avril 2003. Au moment du transfert, monsieur Belval avait une dette fiscale de 14 837,35 $ en vertu fins de la LTA.
+[2] La seule question en litige est de déterminer si l’intimée était justifiée de cotiser l’appelante pour un montant de 14 837,37 $ à l’égard d’un transfert entre personnes ayant un lien de dépendance pour une contrepartie moindre que la juste valeur marchande du bien cédé.
+Position de l’appelante
+[3] L’appelante soutient que le chèque de 56 000 $ a été tiré à son ordre par monsieur Belval en paiement d’une dette alors due aux termes d’une entente intervenue le 23 mars 1993 entre elle et monsieur Belval, entente qui concernait des mesures provisoires entérinées par jugement dans le dossier No. 500-12-209909-930 de la Cour supérieure de la province de Québec. (« l’Entente ») (Pièce A-2). L’Entente prévoit notamment que monsieur Belval devait verser à l’appelante « la somme de cinq-cent cinquante (550 $) à titre de pension alimentaire hebdomadaire pour elle-même et les trois enfants, payables le vendredi ». De façon plus spécifique, l’appelante prétend que le chèque de 56 000 $ avait été tiré à son ordre en paiement d’arrérages de cette pension alimentaire que monsieur Belval s’était engagé à lui verser aux termes de l’Entente, arrérages liés à la période allant du 23 mars 1993 au 31 décembre 1999. Par conséquent, l’appelante soutient qu’elle ne peut être tenue, en vertu de l’article 325 de la LTA, solidairement responsable de la dette fiscale de monsieur Belval au moment où le chèque de 56 000 $ avait été tiré à son ordre puisque les arrérages constituaient une contrepartie supérieure à la juste valeur marchande du bien qui lui avait été cédé, en l’espèce le chèque de 56 000 $.
+Position de l’intimée
+[4] L’intimée soutient essentiellement que :
+i) le chèque de 56 000 $ n’avait pas été tiré par monsieur Belval à l’ordre de l’appelante en paiement des arrérages de pension alimentaire liés à la période allant du 23 mars 1993 au 31 décembre 1999;
+ii) l’appelante ne peut se prévaloir de l’exception prévue au paragraphe 325(4) de la LTA notamment parce qu'au moment du transfert, elle vivait en couple avec monsieur Belval.
+[5] L’appelante a témoigné. Monsieur Belval et madame Lise Dupuis ont témoigné à l’appui de la position de l’appelante. Par ailleurs, madame Francine Martin (agente aux oppositions à l’Agence) et monsieur Frédéric Ward (agent à la gestion financière de l’Agence) ont témoigné à l’appui de la position de l’intimée.
+Témoignage de monsieur Belval
+[6] Monsieur Belval a témoigné que :
+i) de 1971 à 1985, il avait travaillé pour la Communauté urbaine de Montréal (CUM) à titre de policier;
+ii) en 1985, il avait cessé de travailler pour cause de lésion professionnelle qui ne fut reconnue par la Commission des lésions professionnelles qu’en avril 2005;
+iii) en juin 1992, l’appelante avait quitté la résidence familiale. Depuis juin 1992, l’appelante et lui vivent séparés pour cause d’échec de leur mariage;
+iv) le 23 mars 1993, il avait conclu l’Entente avec l’appelante;
+v) en avril 1994, il avait fait cession de ses biens et il avait été libéré de sa faillite en 1998;
+vi) pour la période allant de juin 1992 au 20 janvier 1999, il n’avait versé aucun montant à l’appelante aux termes de l’Entente;
+vii) le 16 décembre 1998, la Cour supérieure du Québec ordonne dans un jugement (Pièce A-3) à la CUM de « remettre sans délai au débiteur Jean Belval toutes les sommes détenues pour et à son acquit, sous réserve des droits de l’intimée Martine Chamard aux termes de la saisie pour pension alimentaire pratiquée par le Percepteur des pensions alimentaires dans le dossier 450-12-016560-957 ». Monsieur Belval a expliqué qu’aux termes du jugement, l’appelante avait reçu un chèque (daté du 20 janvier 1999) de 69 372,80 $ qui avait servi à payer les arrérages de pension alimentaire pour les années 1992, 1993 et 1994 et une partie des arrérages liés à l’année 1999.
+viii) le 23 avril 2003, il avait tiré un chèque de 56 000 $ à l’ordre de l’appelante (Pièce I-2) en paiement des arrérages de pension alimentaire liés aux années 1995 et 1996;
+ix) il avait payé à l’appelante les arrérages de pension alimentaire liés à l’année 1998 en juin 2003;
+x) pour la période allant de mai 1992 à décembre 1993, il avait résidé chez ses beaux-parents à Montréal;
+xi) pour la période allant de décembre 1993 à la fin de l’année 1999, il avait résidé chez ses parents à Ogden;
+xii) pour la période allant de janvier 2000 à décembre 2003, il avait résidé chez Me Jean-Pierre Rancourt (un ami) à l’Île-des-Sœurs à Montréal;
+xiii) pour la période allant de mai 2003 à décembre 2003, il avait résidé chez madame Lise Dupuis (une amie) à l’Île-des-Sœurs à Montréal.
+[7] Je souligne que la preuve a révélé par ailleurs (voir Pièce I-5) que, depuis 1999, l’adresse figurant sur le permis de conduire de monsieur Belval était celle où résidait l’appelante. Monsieur Belval a expliqué qu’il était plus pratique et plus sûr pour lui de recevoir son courrier à la résidence de l’appelante compte tenu de ses nombreux déménagements, courrier qu’il cueillait lorsqu’il allait visiter ses enfants à la résidence de l’appelante qui demeure une amie nonobstant leur séparation.
+Témoignage de l’appelante
+[8] L’appelante a témoigné que :
+i) elle avait vécu séparée de monsieur Belval depuis 1992 pour cause d’échec de leur mariage;
+ii) depuis leur séparation, monsieur Belval n’avait jamais payé à temps la pension alimentaire qu’il s’était engagé à lui payer aux termes de l’Entente;
+iii) le montant de 69 372,80 $ qu’elle avait encaissé en janvier 1999 constituait en quelque sorte un paiement des arrérages de pension alimentaire liés aux années 1993 et 1994. Je souligne que le témoignage de l’appelante à cet égard est contredit par le contenu d’une lettre (datée du 26 avril 2009) adressée au procureur de l'appelante (Pièce I-4). En effet, dans la lettre, l’appelante indiquait à son procureur que la CUM lui avait remis ce en janvier 1999 la somme de 121 121 $ à titre d’arrérages couvrant la période de mars 1994 à juillet 1998 soit 220 semaines à 550.00 $ ». Je rappelle que l’appelante et monsieur Belval avaient témoigné que l’appelante avait plutôt reçu de la CUM un montant de 69 372,80 $ couvrant les arrérages de pension alimentaire liés à une période différente de celle indiquée dans cette lettre. Appelée à expliquer en contre-interrogatoire les incohérences entre son témoignage et celui de monsieur Belval et le contenu de la lettre du 26 avril 2002, l’appelante a témoigné qu’elle « y était allée de mémoire quand elle avait écrit la lettre » et que ce n’est que récemment que son comptable lui avait fait remarquer que les informations contenues dans la lettre étaient inexactes. Autrement dit, l’appelante soutient que sa mémoire lui avait joué un tour. Je tiens à souligner que l’appelante ne m’a pas convaincu que les informations contenues dans la lettre du 26 avril 2002 étaient inexactes étant donné que la preuve a, par ailleurs, révélé que l’appelante avait inclus un montant de 121 121 $ (et non pas un montant de 69 372,80 $) à titre de revenu de pension alimentaire dans sa déclaration de revenus pour l’année 1999. L’appelante a été incapable d’expliquer pourquoi elle avait inclus dans le calcul de son revenu à titre de revenu de pension alimentaire pour l’année 1999 un montant de 121 121 $ plutôt que le montant de 69 372,80 qu'elle prétend avoir reçu. Elle a ajouté que seul son comptable (qui avait rempli sa déclaration de revenus pour l’année 1999), qui évidemment n’avait pas été appelé à témoigner, pourrait donner des explications à cet égard puisqu’elle ne révisait aucune de ses déclarations de revenus étant donné qu’elle n’avait absolument aucune connaissance en matière de comptabilité et d’impôt. En effet, il aurait été fort intéressant d’entendre le témoignage de ce comptable (dont elle n’a même pas jugé utile de mentionner le nom) à cet égard. L’appelante était en mesure de le faire témoigner. Elle ne l’a pas fait. J’en infère que ce témoignage lui aurait été défavorable. Les contradictions entre la lettre du 26 avril 2009 et le témoignage de l’appelante et le fait qu’elle ait inclus dans le calcul de son revenu pour l’année 1999 un montant de 121 121 $ plutôt qu’un montant de 69 372,80 $ me portent à croire que le contenu de la lettre constitue la vérité. Toutes ces contradictions m’ont convaincu qu’il serait dangereux d’accorder de la crédibilité au témoignage de l’appelante et, par voie de conséquence, au témoignage de monsieur Belval sans preuve concordante et probante sous forme de documentation ou de témoignages de témoins crédibles. J’ajouterai que l’appelante aurait pu produire en l’espèce toute la documentation liée à la saisie pour pension alimentaire pratiquée par le Percepteur des pensions alimentaires à la faillite de monsieur Belval et à la somme que la mise en cause (CUM) devait remettre sans délai au débiteur Jean Belval. Cette documentation aurait peut-être pu être déposée en preuve par l'appelante. L’appelante ne l’a pas fait. J’en infère que cette preuve aurait été défavorable à l’appelante.
+iv) le 23 avril 2003, monsieur Belval avait tiré un chèque de 56 000 $ à son ordre en paiement des arrérages de pension alimentaire liés aux années 1995 et 1996. Je souligne immédiatement à cet égard que la preuve a révélé par ailleurs que l’appelante n’avait pas inclus ce montant à titre de revenu de pension alimentaire dans le calcul de son revenu pour l’année d’imposition 2003. En effet, la preuve a révélé que seuls les montants suivants avaient été inclus dans le calcul du revenu de l’appelante à titre de revenu de pension alimentaire :
+En 1999 : 121 121 $
+En 2000 : 28 600 $
+En 2001 28 600 $
+En 2002 28 000 $
+Je note encore une fois que l’appelante n’a pas été en mesure d’expliquer pourquoi le montant de 56 000 $ n’avait pas été inclus dans le calcul de son revenu pour l’année d’imposition 2003 et pourquoi le montant de 28 600 $ avait été par ailleurs inclus dans le calcul de son revenu pour les années d’imposition 2000, 2001 et 2002.
+Témoignage de Lise Dupuis
+[9] Il ressort essentiellement du témoignage de madame Lise Dupuis (une amie de monsieur Belval) que ce dernier avait résidé au domicile de cette dernière pendant la période allant de mai 2003 à décembre 2003.
+Analyse et conclusion
+[10] Selon le paragraphe 325(1) de la LTA, le bénéficiaire et l’auteur du transfert sont solidairement responsables à l’égard de toute somme que l’auteur du transfert doit payer en vertu de la LTA au cours de l’année d’imposition dans laquelle les biens ont été transférés ou d’une année antérieure. Toutefois, la responsabilité du bénéficiaire du transfert est limitée au moins élevé des deux montants suivants : i) l’excédent éventuel de la juste valeur marchande (JVM) du bien au moment du transfert sur la JVM, à ce moment, de la contrepartie donnée pour ce bien et ii) le montant de la dette fiscale de l’auteur du transfert. Il ressort de ces dispositions fiscales que l’appelante ne peut être tenue solidairement responsable à l’égard de la dette fiscale de monsieur Belval au moment où l’appelante avait encaissé le chèque de 56 000 $ si le chèque avait été tiré en paiement des arrérages de pension alimentaire pour les années 1995 et 1996 qui étaient prétendument exigibles aux termes de l’Entente.
+[11] De plus, il ressort du paragraphe 325(4) que l’appelante ne peut être tenue solidairement responsable de la dette fiscale de monsieur Belval au moment où l’appelante avait encaissé le chèque de 56 000 $ si le chèque avait été tiré en paiement d’une obligation prévue à un accord écrit de séparation et si, au moment où le chèque avait été fait, monsieur Belval et l’appelante vivaient séparés pour cause d’échec de leur mariage.
+[12] En d’autres termes, pour ne pas être tenue solidairement responsable de la dette fiscale de monsieur Belval au moment où l’appelante a encaissé le chèque de 56 000 $, cette dernière devait d'abord prouver, selon la prépondérance des probabilités, que le chèque avait été tiré en paiement des arrérages de pension alimentaire des années 1995 et 1996. La preuve de l’appelante à cet égard reposait uniquement sur son témoignage et sur celui de monsieur Belval. Compte tenu de ma conclusion à l’égard de la valeur probante de leurs témoignages, je me dois de conclure que l’appelante ne s’est pas acquittée de l'obligation qu'elle avait de démontrer, selon la prépondérance des probabilités, que le chèque de 56 000 $ avait été tiré en paiement des arrérages de pension alimentaire des années 1995 et 1996.
+[13] J’ajouterai que l’appelante ne peut bénéficier de l’exception prévue au paragraphe 325(4) de la LTA (même si elle avait vécu séparée de monsieur Belval, ce dont je doute, pour cause d'échec de leur mariage au moment où le chèque de 56 000 $ avait été tiré) parce qu'elle n'a pas réussi à démontrer que le chèque de 56 000 $ avait été tiré en paiement d'une obligation prévue à un accord de séparation.
+[14] Pour ces motifs, l'appel est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 9e jour de janvier 2012.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE : 2012 CCI 2
+Nº DU DOSSIER DE LA COUR : 2010-190(GST)G
+INTITULÉ DE LA CAUSE : Martine Chamard et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 28 novembre 2011
+MOTIFS DU JUGEMENT PAR : L'honorable juge Paul Bédard
+DATE DU JUGEMENT : le 9 janvier 2012
+COMPARUTIONS :
+Avocats de l'appelante :
+Me Dany Afram
+Me Aaron Rodgers
+Avocat de l'intimée :
+Me Danny Galarneau
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante:
+Noms : Me Dany Afram
+Me Aaron Rodgers
+Cabinet : Miller Thomson
+Montréal (Québec)
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

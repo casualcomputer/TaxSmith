@@ -1,0 +1,306 @@
+---
+title: "Astro Consulting Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/520930/index.do"
+last_modified: "2022-05-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 TCC 51"
+citation2: ""
+neutral_citation: "2022 TCC 51"
+decision_date: "2022-05-27"
+language: "en"
+item_id: "520930"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4524
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-04-10T10:22:59.986000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "13aca508d0b4097957ee72d174b53f6b5ea9704a46f7d2f74b1a42b97eb84015"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Astro Consulting Inc. v. The Queen
+
+- Citation: 2022 TCC 51
+- Decision date: 2022-05-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4524, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Astro Consulting Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-05-27
+Neutral citation
+2022 TCC 51
+File numbers
+2018-1052(IT)G
+Judges and Taxing Officers
+Steven K. D'Arcy
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2018-1052(IT)G
+BETWEEN:
+ASTRO CONSULTING INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on November 15, 2021 and March 1, 2022 at Edmonton, Alberta, and on January 28, 2022 by teleconference
+Before: The Honourable Justice Steven K. D’Arcy
+Appearances:
+Counsel for the Appellant:
+Chad Brown
+Counsel for the Respondent:
+Helen Yoon
+JUDGMENT
+In accordance with the attached Reasons for Judgment:
+1. The appeal from reassessments made under the Income Tax Act with respect to the Appellant’s 2012, 2013 and 2014 taxation years is dismissed; and
+2. Costs are awarded to the Respondent as set out in the Tariff.
+Signed at Ottawa, Canada, this 27th day of May 2022.
+“S. D’Arcy”
+D’Arcy J.
+Citation: 2022TCC51
+Date: 20220527
+Docket: 2018-1052(IT)G
+BETWEEN:
+ASTRO CONSULTING INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+D’Arcy J.
+I. Introduction
+[1] The Appellant has appealed reassessments in respect of its 2012, 2013 and 2014 taxation years.
+[2] This appeal deals with the provisions in the Income Tax Act relating to a personal services business. Income from a personal services business is not eligible for the small business deduction. In addition, the Act places restrictions on the deductions that a corporation may claim when computing its income from a personal services business.
+[3] When reassessing the Appellant for its 2012, 2013 and 2014 taxation years, the Minister determined that the Appellant carried on a personal services business. As a result, the Minister denied the small business deduction claimed by the Appellant and certain expenses specified in paragraph 18(1)(p). Approximately 90% of the additional Part I tax assessed for the relevant years at issue relates to the denial of the small business deduction.
+[4] When determining that the Appellant carried on a personal services business, the Minister applied the so-called but for test. The Minister found that a person who provided services on behalf of the Appellant (a Mr. Aaron Glazier) was a specified shareholder of the Appellant and would reasonably be regarded as an officer or employee of the person to whom the Appellant provided services, but for the existence of the Appellant.
+[5] Normally the taxpayer, when contesting such an assessment, challenges the but for test. However, the Appellant in the appeal before me takes a somewhat unique approach. It is arguing that it is associated with the company to whom it provides services. It is also arguing that a significant portion of the revenue that it received was not received for services rendered by the Appellant.
+[6] I heard from one witness, Mr. Aaron Glazier. Mr. Glazier owns all of the voting shares of the Appellant. He is the sole director and officer of the Appellant. I did not find Mr. Glazier to be a credible witness. In many instances, I found his testimony to be evasive, which left me with the impression that he was not being completely forthcoming in his testimony. I have provided some examples in my reasons.
+[7] The parties provided the Court with a partial agreed statement of facts (the “PASF”) and 34 agreed exhibits (the “Agreed Exhibits”). The first paragraph of the PASF states: “[t]he parties accept as proven, for the purpose of this appeal only and any appeals therefrom or any other proceedings taken in this matter, the facts and Agreed Exhibits set out herein”. At the commencement of the hearing, the parties confirmed that they agreed on the authenticity and admissibility of the Agreed Exhibits and the truth of their contents.
+[8] As I will discuss, certain facts contained in the PASF are either inconsistent with, or contradicted by, the evidence provided in the Agreed Exhibits. In most instances, I have relied on the Agreed Exhibits, which I found to be the most reliable evidence. For example, I have relied heavily on a unanimous shareholder agreement entered into by eight arm’s length parties.
+II. Summary of Facts
+A. The Appellant
+[9] The Appellant is in the business of providing engineering, consulting and management services in relation to the oil and gas sector. During all relevant periods, Mr. Glazier and Andrea Glazier (Mr. Glazier’s spouse) owned all of the issued shares of the Appellant. Mr. Glazier owned 50 voting shares and Ms. Glazier held 50 non-voting shares. Mr. Glazier was the sole director and officer of the Appellant.
+[10] The PASF states that Mr. Glazier, a professional engineer, provided all of the engineering, consulting and management services rendered by the Appellant. It also states, at paragraph 16, that the Appellant had no employees.
+[11] I accept that Mr. Glazier provided all of the services rendered by the Appellant. However, schedule 125 of the Appellant’s income tax return for each of the relevant years [1] (the “Income Tax Returns”) shows an amount for employee benefits being deducted as an operating expense. This is consistent with Exhibit A 1, a profit and loss statement of the Appellant for each of the relevant years, which shows payroll expenses for “non taxable benefits”. It appears from this evidence that the Appellant did in fact have at least one employee. I assume that Mr. Glazier was the employee since he was the only person providing services on behalf of the Appellant.
+[12] Schedule 125 of the Income Tax Returns shows that, for each of the relevant years, the Appellant’s primary source of revenue was consulting fees. The Appellant claimed the small business deduction in respect of the taxable income arising from such consulting fees.
+[13] For 2013 and 2014, schedule 125 shows the consulting fees as the Appellant’s only source of revenue. In 2012, the consulting fees comprised 90% of the Appellant’s revenue, with the remaining 10% being revenue realized on the sale of investments. Exhibit A 1 breaks the consulting fees down into two sources. One is called “Consulting Income” and the other is called “Profit sharing from Lanmark”. [2] The amounts shown as profit sharing from Lanmark comprise approximately 48%, 35% and 36%, respectively, of the Appellant’s consulting revenue in each of the relevant years.
+[14] The evidence before me is that in the 2012 and 2013 taxation years, Lanmark Engineering Inc. (“Engineering”) paid to the Appellant all of the revenue described on Exhibit A 1 as consulting income. In the 2014 taxation year, Engineering paid 99% of the consulting income. In all of the relevant years, Lanmark Petroleum Holdings Ltd (“Lanmark”) paid to the Appellant all of the revenue described on Exhibit A 1 as “Profit sharing from Lanmark”.
+[15] Mr. Glazier testified that the Appellant provided invoices to both Engineering and Lanmark in respect of the revenue described on its tax returns as consulting fees.
+[16] The invoices to Engineering were in respect of services provided by the Appellant to Engineering pursuant to contracts entered into by the two parties on July 16, 2007 and August 2, 2012. Pursuant to the contracts, the Appellant provided services to Engineering in the field of engineering. Mr. Glazier provided all of such services on behalf of the Appellant.
+[17] On cross-examination, Mr. Glazier testified that the invoices to Lanmark were for what was defined in the unanimous shareholder agreement, entered into by the shareholders of Lanmark, as management fees. [3] When asked if he provided management services to Lanmark, he did not provide a clear response. He stated the following: “I think the context is that it’s part and parcel to a certain degree. It’s -- yeah. . . that’s the way it’s defined in the unanimous shareholders’ agreement”. [4]
+B. Lanmark and Engineering
+[18] During the relevant years, Lanmark, directly or indirectly through its subsidiaries, carried on the business of providing engineering services and solutions to oil, gas, petro-chemical and energy industries and ancillary services. [5] It owned 100% of the shares of two subsidiaries, Engineering and LM Resources Inc.
+[19] As at January 1, 2012, the Appellant owned 20% of the voting shares of Lanmark. A company called Dr. Fish Design Limited owned 51% of the voting shares. Mr. Jeff Larsen controlled Dr. Fish Design Limited. During the relevant period, Mr. Larsen was the president of Lanmark. Apollo Consultants Ltd. owned 20% of the shares and Digovela Investments Ltd held the remaining 9%. Mr. Tom Bratrud, the vice-president of projects for Lanmark, controlled Apollo Consultants and Ms. Lana Naugler, the vice-president of finance and administration for Lanmark, controlled Digovela Investments Ltd.
+[20] As at January 1, 2012, Lanmark had three directors: Mr. Larsen, Mr. Bratrud and Ms. Naugler. [6]
+[21] Mr. Glazier was not a director or officer of Lanmark at the beginning of 2012. He became the vice-president of business development and part of Lanmark’s senior management team on June 1, 2012 and a director on December 13, 2012. [7]
+[22] Sometime before August 31, 2013, the shareholding of Lanmark changed dramatically. The number of shareholders increased from four to eight with Mr. Larson no longer controlling Lanmark through Dr. Fish Design Limited. Mr. Larson’s company, the Appellant and Mr. Bratrud’s company now each owned 18% of the shares. Ms. Naugler’s company owned 15% of the shares. The remaining shares were split among four new shareholders. Each of the new shareholders were companies controlled by someone who was part of Lanmark’s senior staff but was not an officer of the company and was not part of Lanmark’s senior management team.
+[23] The number of directors increased from three to eight to include Mr. Glazier and the individuals who controlled the four new corporate shareholders. This occurred on December 13, 2012. [8]
+[24] The officers and senior management of Lanmark did not change. Mr. Larson continued as President, Mr. Bratrud as Vice-President Projects, Ms. Naugler as Vice President Finance and Administration and Mr. Glazier as Vice President Business Development.
+[25] Mr. Glazier was evasive when asked when this reorganization, including the transfer of shares, was completed, but it appears that the transfer of shares occurred sometime in the later half of 2012. [9] Mr. Glazier’s failure to be forthcoming on the details of this reorganization hurt his credibility. It was a significant event in the history of Lanmark. It appears that Mr. Larson had controlled Lanmark (and the subsidiaries) since 1998. I find it difficult to accept that Mr. Glazier could not remember the details and timing of the reorganization.
+[26] At some point in 2013, the eight corporate shareholders of Lanmark (the “Shareholder Holding Companies”) entered into a unanimous shareholder agreement (the “USA”) that was effective as of August 31, 2013. The eight individuals who controlled the Shareholder Holding Companies and Lanmark were also party to the USA. For example, both the Appellant and Mr. Glazier are parties to the agreement. [10]
+[27] The Appellant relies on a number of clauses in the USA to support his argument. I will discuss these clauses when addressing his argument. However, two clauses are of general importance.
+[28] The first is clause 3.5 of the USA, which is titled “Income Allocation”. It provides that the monthly net income of Lanmark will be allocated to the Shareholder Holding Companies based upon their ownership interest. Monthly net income is defined in subclause 1.1(27) to mean the calculated net income of Lanmark and its subsidiaries calculated on a consolidated basis. The clause provides that the management of Lanmark can require that the Shareholder Holding Companies return all or a portion of the monthly allocated net income as shareholder loans. As discussed, the Appellant reported Lanmark’s monthly income distributions on its income tax return as consulting income.
+[29] The second clause of general importance is clause 2.12 of the USA. It provides that Lanmark will execute the shareholder declarations contained in schedule G to the USA to ensure that Lanmark has all of the rights, powers, authority and duties required to manage the business and affairs of its two subsidiaries.
+[30] Schedule G contains two shareholder declarations. One is a shareholder declaration executed by Lanmark as the sole shareholder of Engineering. The second is a similar declaration in respect of its other subsidiary, LM Resources Inc.
+[31] Clause 3 of the declaration in respect of Engineering provides that all the powers of the directors of Engineering to manage the business and affairs of Engineering are wholly abrogated to the fullest extent possible. Clause 4 of the declaration provides that Lanmark shall have and perform all of the rights, powers and duties of the directors of Engineering to manage the business and affairs of Engineering.
+[32] In short, the declaration transfers the power to manage Engineering from the directors of Engineering to Lanmark.
+[33] Clause 2.8(1) of the USA delegates the power to manage the business and affairs of Lanmark that it carries on directly or through its subsidiaries to its senior management team. This means that the senior management team of Lanmark, which includes Mr. Glazier, managed both Lanmark and Engineering.
+[34] This is an important point since both parties appear to believe that Engineering managed its own affairs and Mr. Glazier was an officer of Engineering. For example, paragraph 53 of the PASF states that “[a]s director and corporate officer in charge of business development, Aaron was a key individual with management and direction of Lanmark Engineering”. This paragraph implies that Mr. Glazier exercised his influence as a director and officer of Engineering. This is not correct. Mr. Glazier was a director of Engineering, but as just discussed, the directors had abrogated all of their authority to manage the business and affairs of Engineering.
+[35] Further, the evidence before me was that Mr. Glazier was an officer and on the senior management team of Lanmark, not Engineering. He exercised his influence over Engineering as an officer and director of Lanmark. This is an important fact when determining the income source that generated the revenue the Appellant received from Lanmark.
+[36] Mr. Glazier testified that Engineering was in the business of engineering, project management and construction execution. During the relevant period, the company was primarily involved in the upstream oil and gas industry. It also worked with petro-chemical companies on the facility infrastructure side.
+[37] On December 31, 2014, its directors were the same eight individuals that were directors of Lanmark.
+III. Issues
+[38] As mentioned previously, the Minister assessed the Appellant on the basis that it was a personal services business. As a result, for each of the taxation years at issue, the Minister denied the section 125 small business deduction and certain expenses specified in paragraph 18(1)(p) (the “PSB Expenses”).
+[39] The small business deduction is provided for in subsection 125(1) in respect of a corporation that is, throughout the year, a Canadian controlled private corporation. It is only available in respect of a company’s income for the year from an active business carried on in Canada.
+[40] Active business carried on by a corporation is defined in subsection 125(7) to mean “any business carried on by the corporation other than a specified investment business or a personal services business and includes an adventure or concern in the nature of trade”. As a result, income from a personal services business is not eligible for the small business deduction.
+[41] Paragraph 18(1)(p) provides for the denial of the PSB Expenses. Its application is not at issue in this appeal.
+[42] A personal services business is defined in subsection 125(7) as follows:
+“personal services business” carried on by a corporation in a taxation year means a business of providing services where
+(a) an individual who performs services on behalf of the corporation (in this definition and paragraph 18(1)(p) referred to as an “incorporated employee”), or
+(b) any person related to the incorporated employee
+is a specified shareholder of the corporation and the incorporated employee would reasonably be regarded as an officer or employee of the person or partnership to whom or to which the services were provided but for the existence of the corporation, unless
+(c) the corporation employs in the business throughout the year more than five full-time employees, or
+(d) the amount paid or payable to the corporation in the year for the services is received or receivable by it from a corporation with which it was associated in the year;
+[43] The requirement that an individual (the incorporated employee) performs services on behalf of the corporation and is a specified shareholder of the corporation is not at issue in this appeal. The PASF states at paragraph 15 that Mr. Glazier provided all the engineering, consulting and management services of the Appellant. The evidence before me is that Mr. Glazier owned all of the voting shares of the Appellant.
+[44] The test in the definition of subsection 125(7) that is applied to the incorporated employee is referred to as the but for test, meaning that the incorporated employee would be an officer or employee of the person or partnership to whom the services are rendered, but for the existence of the corporation.
+[45] The Appellant’s counsel conceded at the commencement of his argument that the business carried on by the Appellant with respect to services the Appellant provided to Engineering, satisfied the but for test. The Appellant conceded that the Appellant carried on a business of providing services to Engineering and that the individual who performed the services, Mr. Glazier, was a specified shareholder of the Appellant and would reasonably be regarded as an officer or employee of Engineering but for the existence of the Appellant. He also conceded that the Appellant had less than five employees during the relevant years.
+[46] However, counsel for the Appellant stated in argument that the Appellant’s primary grounds of appeal was that the Minister’s assessment of the Appellant as a personal services business was in error because the Appellant was associated with Engineering and Lanmark.
+[47] The Appellant’s primary argument is predicated, in the first instance, on the application of paragraphs 256(1)(a) and (b). The Appellant argues, in the alternative, that if the relevant corporations are not associated under paragraphs 256(1)(a) and (b), they are associated as a result of the application of subsection 256(2.1).
+[48] Associated corporations are defined in subsection 256(1). Paragraph 256(1)(a) provides that one corporation is associated with another in a taxation year if, at any time in the year, one of the corporations controlled, directly or indirectly in any manner whatever, the other. Paragraph 256(1)(b) provides that one corporation is associated with another in a taxation year if both of the corporations were controlled, directly or indirectly in any manner whatever, by the same person or group of persons.
+[49] Counsel for the Appellant argued that pursuant to paragraph 256(1)(a), Lanmark was associated with Engineering since it had de jure control of Engineering as its sole voting shareholder. He also argued that Lanmark is associated with the Appellant because either by itself, or together with Engineering, it had de facto control of the Appellant. The Appellant then concludes that since each of Engineering and the Appellant are associated with Lanmark, then they are associated with each other under paragraph 256(1)(b).
+[50] The Appellant’s next argument is that if I find that Lanmark does not have de facto control of the Appellant, the two corporations are still associated as a result of the application of subsection 256(2.1). That subsection reads as follows:
+For the purposes of this Act, where, in the case of two or more corporations, it may reasonably be considered that one of the main reasons for the separate existence of those corporations in a taxation year is to reduce the amount of taxes that would otherwise be payable under this Act or to increase the amount of refundable investment tax credit under section 127.1, the two or more corporations shall be deemed to be associated with each other in the year.
+[51] The Appellant’s final argument is that if the Court finds that the Appellant is not associated with Lanmark and Engineering and thus carries on a personal services business, then the only revenue relating to the personal services business is the revenue received directly from Engineering for the services rendered by the Appellant to Engineering. It does not include the income that it received from a second source, being the profit sharing amounts paid to the Appellant by Lanmark. The Appellant argued that the profit sharing income is not paid for the provision of services.
+[52] After reviewing all of the evidence in detail and the parties’ arguments, I had difficulty understanding exactly what the Appellant was requesting and I also had difficulty with some of the factual concessions made by the parties during argument.
+[53] My first concern related to counsel for the Appellant’s first argument that Lanmark and Engineering were associated with the Appellant. I understood the statutory basis of his argument and the facts he relied on, but it was not clear to me that the Appellant recognized that this argument did not change the Appellant’s entitlement to the small business deduction.
+[54] Pursuant to subsection 125(2), a corporation’s business limit for a year for purposes of the small business deduction is $500,000 unless the corporation is associated in the taxation year with one or more Canadian-controlled private corporations, in which case the limit is nil. In other words, the Appellant’s small business deduction is also lost if it associated with another Canadian-controlled private corporation.
+[55] The Appellant’s primary argument is predicated on the assumption that the Appellant is associated with Lanmark and Engineering. As a result, even if I accepted the Appellant’s argument, I would still accept the Minister’s position that the Appellant is not entitled to the small business deduction.
+[56] I recognize that the small business deduction can be shared among associated companies if they file a joint election under subsection 125(3). However, there is no evidence before the Court that such an election has been filed with the Minister. Further, if I accept the Appellant’s argument then one or more of the other Shareholder Holding Companies may also be associated with Lanmark and Engineering. If this were the case, such companies would also have to be a party to the section 125(3) joint election.
+[57] Similarly, the Minister has clearly not allocated the small business deduction under subsection 125(4) since she does not accept that the Appellant is associated with Lanmark, Engineering or any of the Shareholder Holding Companies.
+[58] In summary, if I were to accept the Appellant’s argument that it was associated with Lanmark and Engineering, then the Appellant would still be denied the small business deduction. It appears that the majority of the Minister’s reassessments related to the denial of the small business deduction. For example, the notices of reassessment contained in Tabs 6 and 7 of Exhibit A/R 1 show that for the Appellant’s 2012 and 2013 taxation years, its Part I tax was increased by $63,513 and $54,787, respectively. Paragraph 10 of the Reply states that the amount denied for each of the 2012 and 2013 taxation years in respect of the small business deduction was $59,773 and $50,823, respectively. These are the amounts that the Appellant claimed on its tax return.
+[59] My second concern related to the Appellant’s alternative argument that the Appellant did not receive the profit sharing revenue as consideration for a service. The Appellant takes this position even though it included the revenue received from Lanmark in respect of the profit sharing as part of its active business income. It is not clear to me what the Appellant believes is the source of such revenue.
+[60] In addition, the Respondent’s counsel, in her closing argument, focused on the revenue received from Engineering. She also did not explain to the Court the source of the revenue that the Appellant had received as profit sharing and whether such income was income from a personal services business.
+[61] As a result, I reopened the hearing on January 28, 2022 by way of teleconference. At the commencement of the teleconference hearing, I informed the parties that the conference call was a continuation of the hearing but that there was to be no new evidence or arguments. I informed the parties that I required them to address my concerns and that, for fairness reasons, I would reopen the hearing to allow the parties to address these concerns.
+[62] At the commencement of the teleconference, counsel for the Respondent stated that she was not aware of the purpose of the teleconference and that she was not comfortable answering specific questions during the teleconference.
+[63] During the teleconference, counsel for the Appellant addressed my first concern. He acknowledged that if I were to find that the Appellant was associated with Lanmark and/or Engineering, then the Appellant would be denied the small business deduction. The Appellant’s counsel stated, for the first time, that the objective of the Appellant’s primary argument was to avail itself of the subsection 123.4(2) 13% general rate reduction.
+[64] As a result of amendments made to the subsection 123.4(1) definition of full rate taxable income (applicable to taxation years that begin after October 31, 2011), the general rate reduction is not available to income earned by a corporation from a personal services business.
+[65] With respect to my second concern, I informed counsel for both parties that the Court required them to address the source of the income that generated the profit sharing revenue. In addition, I needed to understand their position with respect to the application of the small business deduction and the personal services business rules to the revenue related to the profit sharing.
+[66] Counsel made general comments with respect to my second concern. After hearing from counsel, I decided that the parties should address my two concerns in the courtroom. As a result, I ordered that the hearing would continue on March 1, 2022 in Edmonton.
+[67] I informed counsel that, when addressing my concerns, they needed to be prepared to address the inconsistencies between the PASF and the Agreed Exhibits, particularly between the PASF and the USA.
+[68] When the hearing reconvened on March 1, 2022, I asked the parties to address the two issues. I asked counsel for the Appellant to confirm that the purpose of the Appellant’s associated company arguments was to access the 13% general rate reduction and asked counsel for the Respondent to address the 13% general rate reduction. I asked both counsel to tell the Court what they believed was the source of the income that generated the profit sharing revenue.
+[69] Counsel for the Appellant confirmed that if I found that the Appellant was associated with Lanmark and Engineering, then the Appellant would not be entitled to the small business deduction. He reiterated that the Appellant would be entitled to the general rate reduction.
+[70] The Appellant then tried to raise a new argument. Counsel for the Appellant wanted to raise arguments with respect to whether or not the Appellant was associated with Lanmark and Engineering. He stated the new issue to be “that in the context of association, association does not require the corporations -- associated corporations to be CCPC corporations”. [11]
+[71] I informed counsel that I only reopened the hearing to provide counsel with an opportunity to address my two concerns. I would not allow new arguments. I informed counsel for the Appellant that I understood the arguments that he made during the hearing with respect to the associated company rules and I had no issues with the relevant evidence put before me with respect to the application of such rules. I only wanted him to address my second concern. Specifically, if I found that the Appellant was not associated with Lanmark and Engineering, then what was the source of the profit sharing income.
+[72] Counsel for the Appellant then informed the Court that if the Court was not prepared to entertain his new argument, then he had no submissions with respect to the source of the income that generated the profit sharing income.
+[73] Counsel for the Respondent then addressed my two concerns.
+[74] With respect to my first concern, counsel for the Respondent noted that the Appellant did not raise the availability of the general rate reduction in its pleading and that the first time she became aware of the Appellant’s position was during the January 28, 2022 teleconference. She stated that if I were to find that the Appellant was associated with Lanmark and/or Engineering, then the Respondent would leave it in the Court’s hand to determine if the general rate reduction applied to the Appellant’s income.
+[75] With respect to my second concern, counsel for the Respondent noted that the Appellant did not raise the argument that the profit sharing income is not part of its personal services business in its pleadings. It raised the argument for the first time during its argument.
+[76] However, during the hearing, the Respondent did not object to the Appellant raising this issue. Counsel for the Respondent admitted that this was a mistake.
+[77] She then addressed my second concern. She noted that when assessing the Appellant as a personal services business, the Canada Revenue Agency (“CRA”) considered the income from both Lanmark and Engineering to be income from a personal services business.
+[78] She noted that the CRA does not consider profit sharing payments or income to be active business income. This appears to be based on its view that profit sharing payments are not paid in consideration for services. Counsel then noted that since the CRA does not consider the profit sharing income to be active business income, it is a moot point whether or not the income is part of a personal services business.
+[79] However, counsel for the Respondent noted that if the Court finds that the Appellant received the profit sharing payments in consideration for management services performed by Mr. Glazier, then the profit sharing income would be active business income and part of the Appellant’s personal services business.
+IV. Disposition of Appeal
+[80] The Appellant’s primary argument is that Lanmark, either by itself or together with Engineering, had de facto control of the Appellant. Since Lanmark had de jure control of Engineering (it owns 100% of the voting shares of Engineering), the Appellant would be associated with both Lanmark and Engineering if Lanmark has de facto control of the Appellant.
+[81] When arguing that Lanmark has de facto control of the Appellant, the Appellant relies on subsection 256(5.1) and the relevant jurisprudence.
+[82] Subsection 256(5.1) reads as follows:
+Control in fact — For the purposes of this Act, where the expression “controlled, directly or indirectly in any manner whatever,” is used, a corporation shall be considered to be so controlled by another corporation, person or group of persons (in this subsection referred to as the “controller”) at any time where, at that time, the controller has any direct or indirect influence that, if exercised, would result in control in fact of the corporation, except that, where the corporation and the controller are dealing with each other at arm’s length and the influence is derived from a franchise, licence, lease, distribution, supply or management agreement or other similar agreement or arrangement, the main purpose of which is to govern the relationship between the corporation and the controller regarding the manner in which a business carried on by the corporation is to be conducted, the corporation shall not be considered to be controlled, directly or indirectly in any manner whatever, by the controller by reason only of that agreement or arrangement.
+[83] The leading case on the application of subsection 256(5.1) is the decision of the Federal Court of Appeal in McGillivray Restaurant Ltd v. R. [12] At paragraph 35 of its decision, the Court reiterated the following test, which it had formulated in paragraph 67 of Silicon Graphics:
+[67] It is therefore my view that in order for there to be a finding of de facto control, a person or group of persons must have the clear right and ability to effect a significant change in the board of directors or the powers of the board of directors or to influence in a very direct way the shareholders who would otherwise have the ability to elect the board of directors.
+[84] The Federal Court of Appeal clarified that the test for control in fact is not based on “operational control”. “De facto control, like de jure control, is concerned with control over the board of directors and not with control of the day-to-day operations of the corporation or its business.” [13] It noted that a court should only consider factors that include a legally enforceable right and ability to effect a change to the board of directors or its powers or to exercise influence over the shareholder or shareholders who have the right or ability.
+[85] The Appellant argued that there are four sources of influence that give Lanmark, and potentially Engineering, de facto control over the Appellant.
+[86] These four sources are:
+The 2012 consulting agreement between the Appellant and Engineering;
+The USA;
+A unanimous shareholder agreement entered into between the Appellant’s shareholders; and
+The financial influence that Engineering and Lanmark have over the Appellant.
+[87] With respect to the 2012 consulting agreement, the Appellant relies on section 13, which is titled Solicitation and Competition. This clause provides that during the term of the contract and for 24 months after its termination, the Appellant cannot hire existing employees of Engineering and cannot solicit business from Engineering’s clients.
+[88] With respect to the USA, the Appellant relies on the following provisions:
+· Clause 2.1, which requires the shareholders of Lanmark and their controlling shareholders to take all steps needed to ensure full compliance with the USA.
+· Clause 2.3(2), which requires all of shareholders to elect eight named individuals as the directors of Lanmark. These eight individuals are either officers or senior staff of Lanmark and control the eight Shareholder Holding Companies.
+· Clause 2.5, which requires each officer and director of Lanmark to disclose their commercial dealings with Lanmark.
+· Clause 4.2, which contains six representations, warranties and covenants made by each of the shareholders of Lanmark. Basically these representations are as follows:
+- The shareholder has the ability to enter into the USA.
+- The shareholder holds its shares free and clear of any encumbrance and that no other person has a right to own the shares.
+- The USA has been duly authorized, executed and delivered.
+- The entering into of the USA will not contravene the shareholders’ organizing documents or the provisions of any other instrument.
+- The shareholder is not a non-resident of Canada.
+- The representations and warranties will continue to be true and correct during the continuance of the USA.
+· Clause 4.4., which provides that a shareholder of Lanmark cannot sell its shares without the approval of 66 2/3 of the shareholders. Similarly, the eight individuals who control the Shareholder Holding Companies cannot sell their shares to a third party without the approval of 66 2/3 of the shareholders. Clause 4.5, which was not mentioned by the Appellant, allows for the transfer of Lanmark shares from a Shareholder Holding Company to the individual who controls the shareholder, provided the individual agrees to be bound by the USA.
+· Clause 5.2., which allows for the forced withdrawal of a shareholder on a triggering event such as breaching the USA, the shareholder and its controlling shareholder no longer providing services to Lanmark or one of its subsidiaries, or the bankruptcy of a shareholder or its controlling shareholder.
+· Clause 6.2., which contains a non-compete clause, which provides that a shareholder and its controlling shareholder shall not compete with Lanmark and its subsidiaries in Alberta and British Columbia during the life of this contract and for a period of six months after the shareholder sells its shares of Lanmark.
+[89] The next document relied on by the Appellant is a unanimous shareholder agreement between the Appellant, Mr. Glazier and Ms. Glazier made effective the same day as the USA, August 31, 2013. Counsel for the Appellant focused on the recitals, in particular recital 5, which states:
+The Shareholders and the Corporation therefore wish to enter into this Agreement for the purpose of: (i) delegating all of the rights, powers, authority and duties of the directors of the Corporation relating to the performance, satisfaction and compliance with the Lanmark USA Obligations to the Principal [Mr. Glazier]; and (ii) the Principal agreeing to cause the Corporation to perform, satisfy and comply with the Lanmark USA Obligations.
+[90] The actual delegation is accomplished by clauses 2.2 and 2.3 of the agreement. Under clause 2.2, the directors of the Appellant abrogate all of their rights, power, authority and duties to manage the business and affairs of the Appellant as it relates to any and all of its obligations under the USA.
+[91] Clause 2.3 then grants to Mr. Glazier all the rights, powers, authority and duties of the directors of the Appellant required to satisfy and comply with the USA.
+[92] I note that the USA and the unanimous shareholder agreement between the Appellant, Mr. Glazier and Ms. Glazier were effective on August 31, 2013. Therefore, they are not relevant for purposes of the Appellant’s 2012 taxation year and the first eight months of its 2013 taxation year.
+[93] The fourth and final source of the purported de facto control is the Appellant’s financial reliance on Lanmark and Engineering. Counsel for the Appellant argued that this control arises since the Appellant received nearly 100% of its revenue from Lanmark and Engineering.
+[94] None of the so-called sources of influence noted by the Appellant support a finding that Lanmark and Engineering had de facto control over the Appellant. The non-compete clauses in the agreement between the Appellant and Engineering and in the USA relate to the business of the Appellant, not the ability to elect its board of directors.
+[95] The clauses in the USA are part of an agreement between the shareholders of Lanmark that protects the interests of the individual shareholders, sets out who will manage Lanmark’s businesses, how its shareholders may dispose of their shares and how its income will be shared among its shareholders. The provisions have nothing to do with control of the Appellant.
+[96] The USA imposes obligations on the Appellant with respect to how it is to conduct its business as it relates to Lanmark and Engineering. The USA does not, in any way, deal with control of the Appellant’s board of directors. At all relevant times, Mr. Glazier controlled, both legally and factually, the Appellant.
+[97] With respect to the unanimous shareholder agreement between Mr. Glazier and Ms. Glazier, it is not clear to me why this agreement was required or what it accomplished. As the sole director, officer and voting shareholder of the Appellant, Mr. Glazier was its controlling mind and thus already possessed all of the powers required to satisfy and comply with the USA. The agreement purports to give him power that he already possesses. Regardless, the agreement does not, in any way, give power to Lanmark over the election of the Appellant’s board of directors.
+[98] Further, as mentioned previously, the two unanimous shareholder agreements are not relevant for purposes of determining de facto control of the Appellant in 2012 and the first eight months of 2013 since they were not in existence.
+[99] With respect to the Appellant’s reliance on revenue from Lanmark and Engineering, this is a common occurrence in such structures. In fact, it is exactly what one would expect with a personal services business. The reliance may affect how the Appellant carries on its business, but it does not have an impact on who controls the Appellant.
+[100] The Appellant’s second argument relates to subsection 256(2.1). In order for subsection 256(2.1) to apply, I must find that one of the main reasons for the separate existence of the Appellant and Lanmark was to reduce the amount of taxes that would otherwise be payable under the Act. This is a question of fact.
+[101] Counsel for the Appellant argued that the amount of taxes was reduced in two manners. First, the separate existence of the Appellant and Lanmark allowed for income splitting between Mr. Glazier and his spouse. Second, the distribution of Lanmark’s income through the profit sharing allowed the income to be taxed in the hands of the eight Shareholder Holding Companies. This had the effect of multiplying the small business deduction.
+[102] I heard very little evidence on why the two corporations exist. It appears that Lanmark was incorporated in 1997 as a holding company to manage the business of its various subsidiaries. During the relevant years before the Court, it had two subsidiaries; however, it added a third sometime after 2014. Mr. Glazier testified that the structure allowed cash from the businesses carried on by Lanmark and the subsidiaries to flow from the subsidiaries into Lanmark, which allowed Lanmark to redistribute the cash among the subsidiaries based on need. The structure also allowed Lanmark to distribute the consolidated income of the subsidiaries among the shareholders.
+[103] The Appellant provided no evidence on why it was incorporated. I note that it was incorporated in 2002, five years before Engineering entered into the first contract with the Appellant. My understanding is that the Appellant did not provide any services to Engineering prior to entering into the service contract in 2007. In other words, at the time the Appellant was incorporated, it had no relationship with Lanmark or Engineering.
+[104] Mr. Glazier, in the first instance, provided two reasons for the use by Lanmark’s management and senior staff of the Shareholder Holding Companies to hold their shares in Lanmark. First, it provides a level of protection to the management and senior staff’s personal property and, second, it allows Lanmark to take revenue out of its subsidiaries and distribute it to the Shareholder Holding Companies either in the form of profit sharing or dividends.
+[105] He made no mention of any tax reasons for the use of the Shareholder Holding Companies. Later in his testimony, in reply to a leading question from the Appellant’s counsel (“Did you have any specific tax objectives in this structure yourself?”), he mentioned that the existence of the Appellant allowed for income splitting with his spouse. He also stated that it allowed the Appellant to hold cash, which it could reinvest in Lanmark.
+[106] I have given very little weight to his answer to counsel’s leading question. I concluded from Mr. Glazier’s demeanour that, when responding to his counsel’s leading question, he was trying to guess what the right answer was, as opposed to answering the question based upon what had in fact actually occurred.
+[107] Regardless of the benefits of the structure, I heard no evidence that one of the primary reasons for the separate existence of Lanmark and the Appellant was to reduce taxes. The lack of such evidence, combined with the fact that the Appellant existed five years before it had any contact with Lanmark, leads me to conclude that their separate existence had nothing to do with reducing taxes.
+[108] The Appellant’s last argument is an argument that I have difficulty understanding. He argues that the revenue that the Appellant received from Lanmark was not income from a personal services business since the Appellant did not receive the consideration for services rendered by the Appellant. He argues that the Appellant did not render any services to Lanmark.
+[109] Section 3 of the Income Tax Act defines the income of a taxpayer for a taxation year as the taxpayer’s income for the years from a source inside or outside of Canada.
+[110] The Appellant included the profit sharing revenue in its income as determined under section 3. It is not clear to me what the Appellant believes to be the source of such income.
+[111] The evidence before me is that the Appellant carried on a single business, the business of providing engineering, consulting and management services to the oil and gas industry. Further, the evidence is that Mr. Glazier provided such services on behalf of the Appellant.
+[112] The Appellant reported on its income tax return the amounts that it received from Lanmark and Engineering as income from a single business that was eligible for the small business deduction. It reported the amounts as consulting fees. In other words, the Appellant recorded all of the revenue that it received from Lanmark and Engineering as fees for services rendered in respect of an active business. This included the revenue that it received in respect of the profit sharing.
+[113] Mr. Glazier testified that the Appellant issued invoices to Lanmark for the profit sharing revenue and invoices to Engineering for the services that the Appellant provided to Engineering pursuant to the service contracts. I previously noted that Mr. Glazier was evasive when asked if the Appellant provided management services to Lanmark. However, he testified that the invoices to Lanmark were for what was defined as management fees.
+[114] Mr. Glazier testified that as vice-president of business development, he was responsible for developing new business for Lanmark and the subsidiaries. Further, pursuant to clause 2.8 of the USA, Lanmark’s senior management team was responsible for managing the business the company carried on either directly or through its subsidiaries. In summary, the evidence before me is that Mr. Glazier provided extensive management services to Lanmark. Mr. Glazier provided all such services on behalf of the Appellant.
+[115] Pursuant to the USA, the Shareholder Holding Companies and the eight individuals who controlled these companies (Lanmark’s management team) decided that the consideration for the services rendered by each of the eight individuals would be calculated and paid monthly to each of the Shareholder Holding Companies based upon the profit realized by Lanmark and its subsidiaries. For example, Lanmark paid the consideration for Mr. Glazier’s services to the Appellant as profit sharing. This is consistent with the evidence before me that Mr. Glazier rendered all of the Appellant’s services.
+[116] This is not a unique structure. It is common for owners of a business to be paid for their contribution to the business based upon the profit of the business. The income is paid either by way of dividend or by way of remuneration. Here, Lanmark elected to pay the eight shareholders (who all provided management services to the Appellant) by way of remuneration, the income sharing distributions.
+[117] As just discussed, the Appellant issued invoices to Lanmark for the management services that it provided to Lanmark through Mr. Glazier and reported the revenue on its tax return as part of its active business of providing consulting services.
+[118] In summary, the revenue that the Appellant received as profit sharing distributions was received in consideration for services that it provided in the course of the single business that it carried on, a business that it described as the providing of engineering, consulting and management services.
+[119] This business is an active business unless it is a specified investment business or a personal services business. It is not a specified investment business since the principal purpose of the business is not to derive income from property. The principal purpose is to derive income from the rendering of services by Mr. Glazier.
+[120] That leads to the issue of whether the Appellant’s business is a personal services business with respect to the services that it rendered to Lanmark. Since the Appellant has accepted that Mr. Glazier was a specified shareholder of the Appellant and that the Appellant had less than five employees during the relevant years, the only issue I need to consider, when making the personal services business determination, is whether Mr. Glazier would be regarded as an officer or employee of Lanmark, but for the existence of the Appellant.
+[121] My colleague Justice Owen stated in Ivan Cassell Limited v. The Queen [14] that the determination is to be made by asking whether, taking into consideration all of the circumstances, Mr. Glazier would reasonably be regarded as carrying on a business on his own account if the Appellant did not exist.
+[122] The Appellant conceded that the business carried on by the Appellant is a personal services business with respect to the services it rendered to Engineering.
+[123] I see no reason to reach a different conclusion with respect to the services rendered to Lanmark. If Mr. Glazier would not be considered to be carrying on a business on his own account with respect to the provision of engineering services to Engineering, then, in my view, based on the evidence before me, the same conclusion must be reached with respect to Mr. Glazier’s provision of management services to Lanmark.
+[124] Lanmark carried on its business directly and through its subsidiaries. Mr. Glazier’s involvement with Lanmark and Engineering was tightly interwoven.
+[125] It is clear from his testimony that Mr. Glazier did not distinguish between his activities when providing services to Lanmark and when providing services to Engineering. He testified that his primary responsibility as vice-president of business development of Lanmark was to grow Lanmark’s business, which required him to grow the business of the subsidiaries, primarily Engineering. In addition, as part of Lanmark’s four-person senior management team, he managed the business carried on by Lanmark and its subsidiaries.
+[126] Neither Mr. Glazier nor either counsel appeared to be able to distinguish between the services that Mr. Glazier was providing to Lanmark and the services that he was providing to Engineering. His relationship with Lanmark was identical to his relationship with Engineering, with two exceptions.
+[127] First, his role with Lanmark was to grow its business and the business of its subsidiaries and to manage its businesses. His role with Engineering was to provide specific engineering services for specific clients of Engineering.
+[128] Second, Engineering paid the Appellant a monthly sum that either was a fixed amount or was based on the hours Mr. Glazier worked on specific client projects. As discussed, Lanmark paid the Appellant a monthly sum based upon Lanmark’s consolidated profit.
+[129] Both of these exceptions support a finding that Mr. Glazier would reasonably be considered to be an employee of Lanmark if the Appellant did not exist.
+[130] Mr. Glazier’s objective, as vice-president of business development of Lanmark, was to grow the business of Lanmark and its subsidiaries rather than to grow the service business of the Appellant. In fact, the evidence before me was that Mr. Glazier had no time to grow the service business of the Appellant.
+[131] The fact that the consideration that Lanmark paid to the Appellant was based on the profit of Lanmark and its subsidiaries evidences that the opportunity for the Appellant to profit from the provision of services to Lanmark was based on the success of Lanmark’s business. It was not based on the success of a business that Mr. Glazier would reasonably be regarded as conducting on his own account, if the Appellant did not exist.
+[132] In conclusion, the Appellant carried on a single business that was primarily the provision of engineering, consulting and management services to Lanmark and its subsidiaries, including Engineering. All of the revenue the Appellant received from Lanmark and Engineering, including the amounts calculated based upon the monthly profit of Lanmark and its subsidiaries, was received in respect of a personal services business.
+[133] For the foregoing reasons, the appeal is dismissed with costs payable to the Respondent.
+Signed at Ottawa, Canada, this 27th day of May 2022.
+“S. D’Arcy”
+D’Arcy J.
+CITATION:
+2022 TCC 51
+COURT FILE NO.:
+2018-1052(IT)G
+STYLE OF CAUSE:
+ASTRO CONSULTING INC. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Edmonton, Alberta
+DATE OF HEARING:
+November 15, 2021, January 28, 2022, and March 1, 2022
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Steven K. D’Arcy
+DATE OF JUDGMENT:
+May 27, 2022
+APPEARANCES:
+Counsel for the Appellant:
+Chad Brown
+Counsel for the Respondent:
+Helen Yoon
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Chad Brown
+Firm:
+Tax Ninja Tax Law
+Edmonton, Alberta
+For the Respondent:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Agreed Exhibit A/R 1, Tabs 3, 4 and 5.
+[2] In 2014, an immaterial amount is shown as “Reimbursed Expenses”.
+[3] Transcript of November 15, 2021 hearing, page 73.
+[4] Transcript of November 15, 2021 hearing, page 73.
+[5] Exhibit A/R 1, Tab 27, page 279, clause 2.2.
+[6] Exhibit A/R 1, Tab 25 and Tab 27, pages 319 and 321.
+[7] Exhibit A/R 1, Tab 27, pages 320, 321 and 323.
+[8] Exhibit A/R 1, Tab 27, page 320.
+[9] For example, Mr. Glazier sold shares in May 2012; Transcript of November 15, 2021 hearing, page 77.
+[10] Exhibit A/R 1, Tab 27.
+[11] Transcript of March 1, 2022 hearing, page 25.
+[12] 2016 FCA 99.
+[13] Supra, paragraph 46.
+[14] 2016 TCC 53.

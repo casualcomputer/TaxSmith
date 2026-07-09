@@ -1,0 +1,184 @@
+---
+title: "Power v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26739/index.do"
+last_modified: "2005-03-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 200"
+citation2: ""
+neutral_citation: "2005 CCI 200"
+decision_date: "2005-03-18"
+language: "fr"
+item_id: "26739"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3420
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:06:19.704000+00:00"
+cases_cited_count: 0
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "63546c4c0b11b8252e5a3523db9a9a523e651d738a230543ec8f1307c62a9257"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Power v. M.N.R.
+
+- Citation: 2005 CCI 200
+- Decision date: 2005-03-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3420, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Power v. M.N.R.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-03-18
+Référence neutre
+2005 CCI 200
+Numéro de dossier
+2004-3517(EI)
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossiers : 2004-3517(EI)
+2004-3519(CPP)
+ENTRE :
+JERRY A. POWER,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+Requête entendue le 23 novembre 2004, à St. John's (Terre-Neuve)
+Devant : l'honorable juge E.A. Bowie
+Comparutions :
+Avocat de l'appelant :
+Me Michael Drover
+Avocat de l'intimé :
+Me Stephen Leckie
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+ORDONNANCE
+Vu la requête de l'intimé en vue d'obtenir une ordonnance annulant les présumés appels au motif qu'ils ne sont pas formés convenablement,
+après avoir lu l'avis de requête et les documents présentés à l'appui de cet avis,
+et après avoir entendu les avocats des parties,
+il est ordonné que les présumés appels interjetés en vertu de la Loi sur l'assurance-emploi et du Régime de pensions du Canada soient annulés.
+Signé à Ottawa (Canada), ce 18e jour de mars 2005.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 24e jour d'octobre 2005.
+Joanne Robert, traductrice
+Dossiers : 2004-3520(EI)
+2004-3521(CPP)
+ENTRE :
+PAULINE POWER,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+Requête entendue le 23 novembre 2004, à St. John's (Terre-Neuve)
+Devant : l'honorable juge E.A. Bowie
+Comparutions :
+Avocat de l'appelante :
+Me Michael Droner
+Avocat de l'intimé :
+Me Stephen Leckie
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+ORDONNANCE
+Vu la requête de l'intimé en vue d'obtenir une ordonnance annulant les présumés appels au motif qu'ils ne sont pas formés convenablement,
+après avoir lu l'avis de requête et les documents présentés à l'appui de cet avis,
+et après avoir entendu les avocats des parties,
+il est ordonné que les présumés appels interjetés en vertu de la Loi sur l'assurance-emploi et du Régime de pensions du Canada soient annulés.
+Signé à Ottawa (Canada), ce 18e jour de mars 2005.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 24e jour d'octobre 2005.
+Joanne Robert, traductrice
+Référence : 2005CCI200
+Date : 20050318
+Dossiers : 2004-3517(EI), 2004-3519(CPP)
+2004-3520(EI), 2004-3521(CPP)
+ENTRE :
+JERRY P. POWER et PAULINE POWER,
+appelants,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L'ORDONNANCE
+Le juge Bowie
+[1] En 2002, il s'est posé la question de savoir si Jerry Power et Pauline Power exerçaient un emploi assurable au sens du Règlement sur l'assurance-emploi (pêche)[1], pris en vertu de la Loi sur l'assurancee-emploi[2] (la « Loi » ). La même question s'est posée au sujet d'un emploi ouvrant droit à pension au sens du Régime de pensions du Canada[3] (le « Régime » ). Une décision a été demandée en vertu de l'article 90 de la Loi et de l'article 26.1 du Régime. Le 23 décembre 2002, un fonctionnaire autorisé de l'Agence des douanes et du revenu du Canada (l' « Agence » ) a décidé que les Power n'étaient pas assurables en vertu du Règlement sur l'assurance-emploi (pêche), mais qu'ils exerçaient un emploi assurable aux termes de l'alinéa 5(1)a) de la Loi, ainsi qu'un emploi ouvrant droit à pension aux termes de l'alinéa 6(1)a) du Régime. Ces décisions ont été rendues, accompagnées du conseil selon lequel les Power, s'ils le souhaitaient, pouvaient faire appel devant le ministre du Revenu national dans les 90 jours suivants, conformément à l'article 91 de la Loi et à l'article 27 du Régime. Les deux ont décidé d'interjeter appel auprès du ministre, et ils ont donné les instructions nécessaires à leur comptable. Le 90e jour suivant la date des décisions tombait le 23 mars 2003. Au dire des appelants, leur comptable a déposé leurs appels avant cette date. L'intimé soutient que non. Quoi qu'il en soit, le comptable a écrit ce qui suit au directeur de la Division des appels de l'Agence, le 8 avril 2004 :
+[TRADUCTION]
+Nous avons interjeté appel d'une décision de l'Agence des douanes et du revenu du Canada au moyen d'une lettre datée du 10 mars 2003, au sujet de l'assurabilité de la rémunération que Mme Power a reçue de Grand Atlantic Seafoods.
+J'ai rencontré Mme Power le 1er avril 2004; celle-ci m'a informé qu'elle n'avait pas encore reçu de réponse à notre lettre d'appel du 10 mars 2003, et que des fonds qui lui étaient dus depuis peu avaient été réaffectés en vue de réduire le montant que DRHC lui réclame.
+Nous vous saurions gré d'examiner cette affaire et de nous faire savoir pourquoi cet appel est si long à traiter. Nous sommes conscients qu'un appel nécessite un temps considérable, mais nous craignons que ce dossier ait été oublié. Vous trouverez ci-jointe, pour examen, une copie de notre appel initial.
+Si vous avez des questions à poser, n'hésitez pas à m'appeler au 709 722-1100.
+La réponse que le comptable a reçue à cette lettre porte la date du 2 juin 2004 :
+[TRADUCTION]
+La Division des appels du Bureau des services fiscaux de Saint-John (Nouveau-Brunswick) a reçu votre appel concernant l'emploi que vous avez exercé auprès de Grand Atlantic Seafoods durant les deux périodes suivantes : du 16 mai 2000 au 7 novembre 2000, et du 5 novembre 2001 au 25 mai 2001.
+Selon l'article 91 de la Loi sur l'assurance-emploi et l'article 27 du Régime de pensions du Canada, vous devez interjeter appel auprès du ministre du Revenu national dans les 90 jours suivant la date de notification de la décision. Votre avis de décision était daté du 24 décembre 2002, et votre demande initiale a été cachetée par la poste le 15 avril 2004.
+D'après les deux dispositions législatives susmentionnées, la demande a été produite en retard et elle ne peut être acceptée.
+Si vous n'êtes pas d'accord avec cette décision, vous pouvez faire appel devant la Cour canadienne de l'impôt dans les 90 jours qui suivent la date de la présente lettre. Vous trouverez des renseignements sur la manière de procéder dans le document ci-joint, intitulé Comment interjeter appel auprès de la Cour canadienne de l'impôt.
+Les appelants ont considéré cette lettre comme une décision du ministre à propos des appels qu'ils avaient interjetés en vertu de l'article 91 de la Loi et de l'article 27 du Régime; ils ont donc déposé chacun deux avis d'appel auprès de la présente cour le 23 août 2004, censément en vertu de l'article 102 de la Loi et de l'article 28 du Régime. L'intimé demande à présent que ces quatre présumés appels soient annulés par voie d'ordonnances, parce que le ministre n'a rendu aucune décision qui permettrait d'interjeter les appels en question.
+[2] Les positions des parties sont simples, et font nettement contraste. Les appelants ont présenté une preuve émanant du comptable, selon laquelle ce dernier avait bel et bien déposé les appels auprès du ministre dans les 90 jours suivant la date des décisions, ainsi que l'exigent la Loi et le Régime. Ils sollicitent de la présente cour une décision portant que leurs appels ont bel et bien été déposés auprès du ministre dans les 90 jours suivant la date des décisions, et renvoyant l'affaire à ce dernier afin qu'il instruise et tranche leurs appels. La position de l'intimé est que les appels n'ont pas été déposés dans le délai prescrit, mais que, même si cela avait été le cas, la lettre du 2 juin n'est pas une décision, ou la preuve d'une décision, dans le cadre d'un appel auprès du ministre, qu'il ne peut donc s'agir du fondement d'un appel auprès de cette cour et que, de ce fait, il y aurait lieu d'annuler les appels.
+[3] Le texte des articles 90, 91 et 103 de la Loi est le suivant :
+90(1) La Commission, de même que tout employé, employeur ou personne prétendant être l'un ou l'autre, peut demander à un fonctionnaire de l'Agence des douanes et du revenu du Canada autorisé par le ministre de rendre une décision sur les questions suivantes :
+a) le fait qu'un emploi est assurable;
+b) la détermination de la durée d'un emploi assurable, y compris ses dates de début et de fin;
+c) la détermination de la rémunération assurable;
+d) la détermination du nombre d'heures exercées dans le cadre d'un emploi assurable;
+e) l'existence de l'obligation de verser une cotisation;
+f) la détermination du montant des cotisations à verser;
+g) l'identité de l'employeur d'un assuré;
+h) le fait qu'un employeur est un employeur associé;
+i) le montant du remboursement prévu à l'un ou l'autre des paragraphes 96(4) à (10).
+90(2) La Commission peut faire la demande de décision à tout moment, et toute autre personne, avant le 30 juin suivant l'année à laquelle la question est liée.
+90(3) Le fonctionnaire autorisé rend sa décision dans les meilleurs délais suivant la demande.
+90(4) À moins qu'une décision ait été demandée, lorsqu'une somme a été retenue sur la rétribution de l'assuré ou payée par l'employeur à titre de cotisation pour l'assuré, la somme ainsi retenue ou payée est réputée l'avoir été en conformité avec la présente loi et, lorsque aucune somme n'a été ainsi retenue ou payée, aucune retenue ni aucun paiement ne sont réputés avoir été requis selon la présente loi.
+91 La Commission peut porter la décision en appel devant le ministre à tout moment, et tout autre intéressé, dans les quatre-vingt-dix jours suivant la date à laquelle il reçoit notification de cette décision.
+103(1) La Commission ou une personne que concerne une décision rendue au titre de l'article 91 ou 92, peut, dans les quatre-vingt-dix jours suivant la communication de la décision ou dans le délai supplémentaire que peut accorder la Cour canadienne de l'impôt sur demande à elle présentée dans les quatre-vingt-dix jours suivant l'expiration de ces quatre-vingt-dix jours, interjeter appel devant la Cour canadienne de l'impôt de la manière prévue par la Loi sur la Cour canadienne de l'impôt et les règles de cour applicables prises en vertu de cette loi.
+Les articles 26.1, 27 et 28 du Régime sont libellés essentiellement de la même façon. Pour les motifs qui suivent, je suis arrivé à la conclusion que les appels n'ont pas été formés convenablement et qu'il me faut les annuler.
+[4] Les appelants se fondent sur la décision que j'ai rendue dans l'affaire Lord c. M.R.N.[4]. Dans cette dernière, la Cour avait à décider si l'on pouvait porter en appel ce qui était censé être une décision du ministre en vertu de l'article 70 de la Loi sur l'assurance-chômage[5], c'est-à-dire l'ancienne loi, dans des circonstances où la décision soumise en appel au ministre avait été prise par un agent du ministère que dirigeait le ministre et auquel n'avait pas été délégué le pouvoir de prendre de telles décisions. J'ai statué qu'il s'agissait néanmoins d'une décision du ministre pour l'application de l'article 103, car il s'agissait d'une décision du ministère dont le ministre était chargé, et qu'elle tranchait censément une question que le ministre était habilité à trancher. La décision aurait pu être infirmée à la suite d'une instance engagée à cette fin, mais il ne s'agissait pas d'un acte nul en l'absence d'une contestation de cette nature. Par contraste, l'auteur de la lettre que les appelants en l'espèce voudraient que je considère comme une « décision » donnant lieu à un droit d'appel refuse expressément d'examiner la question en litige ou de se prononcer de quelque manière sur cette dernière. Il est dit simplement qu'un appel ne peut pas être interjeté auprès du ministre parce que le délai prévu est expiré.
+[5] La Cour d'appel fédérale a décrété ce qui suit dans l'arrêt Moumdjianc. Canada (Comité de surveillance des activités du renseignement)[6] :
+[...] l'expression « décision ou ordonnance » n'a pas un sens figé ou précis, mais [...] est plutôt tributaire du cadre législatif dans lequel s'inscrit la décision de nature consultative, compte tenu des conséquences qu'une telle décision peut avoir sur les droits et libertés de ceux qui cherchent à obtenir un contrôle judiciaire.
+Cette décision, à l'instar de celle qu'a rendue la Cour suprême du Canada dans l'arrêt Saulnier c. Québec (Commission de police)[7], a certes eu pour effet d'élargir les catégories de décisions susceptibles d'un contrôle judiciaire. Cependant, la question qui se trouve en litige en l'espèce est la portée d'un droit d'appel prévu par la loi, et cette question doit être évaluée dans le contexte du libellé de la loi. Le paragraphe 103(1) de la Loi confère le droit d'appel à :
+[...] une personne que concerne une décision rendue au titre de l'article 91 ou 92 [...]
+[...] a person affected by a decision on an appeal to the Minister under section 91 or 92 [...]
+Il m'est impossible d'interpréter ce passage, soit en français, soit en anglais, comme signifiant autre chose qu'une décision rendue par le ministre, ou le délégué de ce dernier, dans l'exercice de la compétence de contrôler les décisions que rendent des agents des décisions - autrement dit, la compétence de déterminer et de décider l'exactitude de la décision rendue. Si les agents ministériels du ministre décident de ne pas soumettre l'affaire au ministre, ou à un délégué de ce dernier, parce qu'ils sont d'avis que l'appel a été produit en retard, ni eux ni le ministre n'ont pris une décision. Le redressement dont on dispose si l'appel a effectivement été produit dans le délai prescrit est une ordonnance obligatoire contraignant le ministre à exercer sa compétence. Il s'agit là bien sûr d'un redressement que la présente cour ne peut accorder; à titre de cour créée par la loi, celle-ci n'est investie que des pouvoirs qui figurent dans la Loi sur la Cour canadienne de l'impôt[8], ou dans une autre loi, et le pouvoir de rendre une ordonnance de mandamus n'en fait pas partie.
+[6] C'est à contre-coeur, et non sans regret, que je suis arrivé à cette conclusion. Il s'agit d'une issue que les appelants trouveront insatisfaisante, car elle ne règle rien. Ils se retrouvent dans la position d'avoir à s'adresser à la Cour fédérale s'ils souhaitent obtenir un redressement, car seule cette dernière peut accorder le redressement dont ils ont besoin. Cela est sans nul doute incommode pour les appelants, mais il n'est possible de remédier à leur situation que par une loi conférant à la présente cour le pouvoir d'accorder un plus vaste éventail de redressements. Comme il est possible de poursuivre l'affaire devant la Cour fédérale, je m'abstiendrai d'émettre une opinion quelconque quant au poids de la preuve qui m'a été soumise.
+[7] Les requêtes sont admises, et il est ordonné d'annuler les appels.
+Signé à Ottawa (Canada), ce 18e jour de mars 2005.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 24e jour d'octobre 2005.
+Joanne Robert, traductrice
+[1] DORS/96 - 445, dans sa forme modifiée.
+[2] L.C. 1996, ch. 23, dans sa forme modifiée.
+[3] L.R.C. 1985, ch.C-8, dans sa forme modifiée.
+[4] [1999] A.C.I. no 95.
+[5] L.C. 1992, ch. U-7.
+[6] [1994] 4 C.F. 624, au paragr. 23.
+[7] [1976] 1 R.C.S. 572
+[8] L.R.C. 1985, ch. T-2, dans sa forme modifiée.

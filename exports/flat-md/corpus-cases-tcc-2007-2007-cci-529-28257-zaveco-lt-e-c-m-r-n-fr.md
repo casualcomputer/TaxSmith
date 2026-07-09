@@ -1,0 +1,142 @@
+---
+title: "Zaveco Ltée c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28257/index.do"
+last_modified: "2007-09-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 529"
+citation2: ""
+neutral_citation: "2007 CCI 529"
+decision_date: "2007-09-05"
+language: "fr"
+item_id: "28257"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2038
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:19:49.537000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0416d29e6a45415aec013c431d94fcc46f77edf9c29cce41e316ec09b4d4c75d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Zaveco Ltée c. M.R.N.
+
+- Citation: 2007 CCI 529
+- Decision date: 2007-09-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2038, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Zaveco Ltée c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-09-05
+Référence neutre
+2007 CCI 529
+Numéro de dossier
+2006-3793(EI)
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2006-3793(EI)
+ENTRE :
+ZAVECO LTÉE,
+appelante,
+et
+LE MINSTRE DU REVENU NATIONAL,
+intimé.
+[traduction française officielle]
+Appel entendu le 25 avril 2007 à Montréal (Québec)
+Devant : L’honorable juge G.A. Sheridan
+Comparutions :
+Avocat de l’appelante : Laddie H. Schnaiberg
+Représentante de l’intimé : Isabelle Pipon (stagiaire en droit)
+JUGEMENT
+Conformément aux motifs du jugement ci-joints, l’appel est accueilli et la décision du ministre du Revenu national est annulée.
+Signé à Ottawa (Canada) ce 5e jour de septembre 2007.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 5e jour de novembre 2007.
+Aleksandra Koziorowska, LL.B.
+Référence : 2007CCI529 Date : 20070905
+Dossier : 2006-3793(EI)
+ENTRE :
+ZAVECO LTÉE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] Dans le présent appel, la Cour doit décider si le ministre du Revenu national (le « ministre ») a correctement calculé la rémunération assurable, et ainsi la cotisation patronale de l’appelante, Zaveco Ltée, à l’égard de Shameer Ally, son salarié.
+[2] Durant la période débutant le 12 décembre 2005 et se terminant le 16 juin 2006, M. Ally a travaillé comme gérant d’un immeuble appartenant à l’appelante. Il recevait un salaire hebdomadaire de 450 $, dont 30 $ étaient attribués à la valeur d’un logement que l’appelante lui fournissait dans le cadre de son travail. Le ministre a rectifié ce dernier montant en affirmant que la valeur du logement devait être proportionnelle au loyer des logements bénéficiant de la même superficie et du même agencement dans l’immeuble. Le prix de location mensuelle de ces logements était d’environ 650 $. Le ministre a fait passer la portion du salaire hebdomadaire de M. Ally attribuée à son logement de 30 $ à 150 $ et sa rémunération assurable de 12 412 $ à 16 200 $[1]. Par conséquent, la cotisation patronale de l’appelante a fait l’objet d’une nouvelle évaluation. C’est de cette nouvelle évaluation que l’appelante a interjeté appel.
+[3] Le calcul de la rémunération assurable est fait conformément aux dispositions suivantes du Règlement sur la rémunération assurable et la perception des cotisations :
+2(1) Pour l’application de la définition de « rémunération assurable » au paragraphe 2(1) de la Loi et pour l’application du présent règlement, le total de la rémunération d’un assuré provenant de tout emploi assurable correspond à l’ensemble des montants suivants :
+a) le montant total, entièrement ou partiellement en espèces, que l’assuré reçoit ou dont il bénéficie et qui lui est versé par l’employeur à l’égard de cet emploi;
+[…]
+(3) Pour l’application des paragraphes (1) et (2), sont exclus de la rémunération :
+a) les avantages autres qu’en espèces, à l’exception, dans le cas où l’employeur verse à une personne une rétribution en espèces pour une période de paie, de la valeur de la pension ou du logement, ou des deux, dont la personne a joui au cours de cette période de paie relativement à son emploi;
+[4] Zave Aberman a témoigné au nom de l’appelante, dont il est le président et le gestionnaire des activités locatives. Lors de l’audience, M. Aberman a manifesté son mécontentement quant à la position de l’intimé en interrompant plusieurs fois les témoins de l’intimé par ses exclamations et ses grimaces. Il a même fallu, après un certain temps, lui demander de quitter la table réservée aux avocats pour aller s’asseoir dans la tribune du public pour assurer la bonne marche de l’audience.
+[5] Malgré son comportement ridicule, M. Aberman a fourni un témoignage crédible quant aux pratiques de gestion d’activités locatives à Montréal. Il possède une trentaine d’années d’expérience dans le domaine. Son témoignage m’a convaincue qu’il est de pratique courante pour les locateurs de fournir un logement à titre de rémunération à leurs gérants d’immeubles. Cette pratique permet à la fois d’inciter le salarié à accepter un emploi exigeant mais modestement rémunéré et de s’assurer de la présence d’un représentant de la société sur les lieux afin que celui‑ci puisse répondre aux besoins des locataires et protéger les biens du propriétaire.
+[6] L’intimé a fait témoigner M. Ally. C’est en 1999 qu’il a été engagé comme gérant de l’immeuble. Bien qu’il ne fût pas obligé d’être de service en permanence, il devait habiter l’immeuble et se mettre à la disposition des locataires actuels et potentiels. Dans le cadre de ses fonctions, il devait s’occuper de l’entretien de l’immeuble et du terrain, règler les problèmes d’entretien urgents, faire la collecte des loyers, faire visiter les logements aux locataires potentiels et accepter les demandes de location. Il devait aussi être à la disposition de M. Aberman, un homme exigeant qui faisait une tournée quotidienne des ses immeubles locatifs et se présentait chez M. Ally à huit heures chaque matin. Les formulaires de demande de location que M. Ally devait fournir aux locataires potentiels, les rapports de collecte de loyers et d’autres documents similaires étaient conservés dans son logement. L’équipement et les outils de conciergerie semblent avoir été rangés ailleurs dans l’immeuble.
+[7] Le second témoin de l’intimé était M. Henriot Cléophat, l’agent des appels. Le témoignage de M. Cléophat me convainc qu’après avoir reçu l’opposition de l’appelante à la décision du ministre, il a tenté de rencontrer M. Aberman pour discuter des inquiétudes de ce dernier. M. Aberman a refusé de le rencontrer en lui disant de [traduction] « parler à son avocat ». Son avocat, le même qui a représenté l’appelante en l’espèce, a omis de présenter ses documents dans le délai accordé par M. Cléophat. Lorsqu’il a contre-interrogé M. Cléophat, l’avocat a, de façon surprenante, adopté la tactique de blâmer ce dernier pour ses propres erreurs à cet égard. De toute manière, c’est avec raison que M. Cléophat a pris sa décision en se fondant sur les faits du dossier : essentiellement, que M. Ally occupait un logement de quatre pièces et demi chambres dans un immeuble où les logements bénéficiant de la même superficie et du même agencement se louaient au prix mensuel de 650 $. Donc, le ministre a conclu que la valeur hebdomadaire du logement fourni par l’appelante était de 150 $ plutôt que de 30 $.
+[8] Si M. Aberman s’était conduit de façon plus raisonnable dès le début, M. Cléophat aurait pu obtenir une meilleure vue d’ensemble. Quoi qu’il en soit, à la lumière de la preuve présentée par l’appelante et l’intimé, je conclus qu’une évaluation correcte de la valeur du logement fourni par l’appelante ne peut être fondée sur sa seule superficie. Même si je reconnais que les locataires d’un logement de taille équivalente déboursaient 150 $ par semaine, ils en obtenaient aussi la jouissance paisible et privée. Tel n’était pas le cas de M. Ally. Les témoignages présentés par M. Aberman et par M. Ally confirment que le logement du gérant de l’immeuble servait en réalité de succursale du bureau de gestion des activités locatives de l’appelante. Le fait que la valeur locative de ce logement soit inférieure à celle des autres logements découle des lourdes obligations imposées à son occupant : être toujours prêt à recevoir M. Aberman lors de sa tournée quotidienne et à traiter les plaintes des locataires, faire la collecte des loyers, nettoyer l’immeuble, assurer son déneigement et la tonte des pelouses, et sélectionner les nouveaux locataires. L’avocat de l’appelante a raison de dire qu’il faut comparer de choses comparables pour obtenir une évaluation correcte. En raison des obligations y étant rattachées, le logement de M. Ally n’est pas comparable aux logements d’une superficie similaire occupés par des locataires n’étant pas à l’emploi de l’appelante.
+[9] Pour appuyer l’affirmation du ministre selon laquelle la valeur du logement devrait correspondre à la juste valeur marchande d’un logement similaire, la représentante de l’intimé a renvoyé à la décision Résidence au Fil de l’Eau Inc. c. Canada (Ministre du Revenu national)[2]. Toutefois, dans cette décision, la Cour a expressément conclu que l’employeur n’avait pas su s’acquitter du fardeau de prouver que les employés qui occupaient les appartements pouvaient réclamer « un ajustement pour perte de jouissance et [perte de vie privée] »[3]. Tel n’est pas le cas en l’espèce. Pour les motifs présentés précédemment, je suis convaincue que l’appelante s’est déchargée de son fardeau de preuve en démontrant que la valeur qu’elle avait attribuée au logement était la bonne. L’appel est accueilli au motif que la rémunération assurable de M. Ally pour la période débutant le 12 décembre 2005 et se terminant le 16 juin 2006 était de 12 412 $.
+Signé à Ottawa (Canada) en ce 5e jour de juin 2007.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 5e jour de novembre 2007.
+Aleksandra Koziorowska, LL.B.
+RÉFÉRENCE : 2007CCI529
+Nº DU DOSSIER DE LA COUR : 2006-3793(EI)
+INTITULÉ : Zaveco Ltée et
+Le ministre du Revenu national
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 25 avril 2007
+MOTIFS DU JUGEMENT : L’honorable juge G. A. Sheridan
+DATE DU JUGEMENT : Le 5 septembre 2007
+COMPARUTIONS :
+Avocat de l’appelante : Me Laddie H. Schnaiberg
+Représentante de l’intimé : Isabelle Pipon (stagiaire en droit)
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelant :
+Nom : Me Laddie H. Schnaiberg
+Cabinet : Laddie Schnaiberg
+Montréal (Québec)
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Canada)
+[1] Le calcul de ces montants est présenté au paragraphe 5 de la réponse à l’avis d’appel :
+[traduction]
+i) la valeur hebdomadaire du logement fourni au salarié par l’appelante a été établie comme suit :
+650 $ par mois x 12 mois = 7 800 $,
+7 800 $ divisé par 52 semaines = 150 $ par semaine;
+j) la rémunération du salarié à été établie comme suit :
+450 $ (salaire) + 150 $ (valeur du loyer) = 600 $ par semaine,
+600 $ x les 27 dernières semaines = 16 200 $.
+[2] [1996] A.C.I. no 1345.
+[3] Précité, paragraphe 12.

@@ -1,0 +1,305 @@
+---
+title: "Burlington Resources Finance Company v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/418403/index.do"
+last_modified: "2019-07-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 TCC 143"
+citation2: ""
+neutral_citation: "2019 TCC 143"
+decision_date: "2019-07-09"
+language: "en"
+item_id: "418403"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4387
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T12:08:21.950000+00:00"
+cases_cited_count: 3
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5e3879d08edf8c502999e00ce46dff0fe650aaab2ab338e24f54e9c9eda595de"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Burlington Resources Finance Company v. The Queen
+
+- Citation: 2019 TCC 143
+- Decision date: 2019-07-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4387, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Burlington Resources Finance Company v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-07-09
+Neutral citation
+2019 TCC 143
+File numbers
+2012-2683(IT)G, 2013-2595(IT)G
+Judges and Taxing Officers
+Johanne D’Auray
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-2683(IT)G
+BETWEEN:
+BURLINGTON RESOURCES FINANCE COMPANY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Motion held on April 4, 5 and 8, 2019 at Toronto, Ontario and decision rendered orally from the bench on April 8, 2019
+Before: The Honourable Justice Johanne D’Auray
+Appearances:
+Counsel for the Appellant:
+Alexander Cobb
+Andrew Boyd
+Counsel for the Respondent:
+Erin Strashin
+Alexandra Humphrey
+Jasmeen Mann
+For the Respondent:
+Gabrielle Jurewicz (Paralegal)
+ORDER
+UPON Amended Notice of Motion for Further and Better Answers filed on March 1, 2019 by the Respondent for the following relief:
+an Order striking paragraphs 1 and 22, subparagraph 19(b), and the last sentence of paragraph 3 of the Notice of Appeal dated June 26, 2012, without leave to amend;
+if necessary, leave of the Court under Rule 8 of the Tax Court of Canada Rules (General Procedure), to apply for an Order striking portions of the Notice of Appeal, without leave to amend, as set out in paragraph 1 above;
+in the alternative, an Order that the appellant’s failure to provide responsive answers to the questions listed in Schedule “A” to the Amended Notice of Motion amounts to a refusal to answer proper questions under Rule 96 of the Tax Court of Canada (General Procedure);
+in the further alternative, an Order directing the appellant to provide responsive answers to certain questions in accordance with Justice D’Auray’s Order dated August 3, 2017, specifically, the questions listed in Schedule “A” to the Amended Notice of Motion, by a date that is 14 days following the date of the Court’s order, or by such other date as the Court may designate, failing which it will be deemed to have refused to answer those questions for the purpose of Rule 96;
+an Order directing the appellant to produce relevant documents it has improperly refused to produce, specifically, the relevant documents it refused to produce in response to the questions listed in Schedule “A” to the Amended Notice of Motion, by a date that is 14 days following the date of the Court’s order on this motion, or by such other date as the Court may designate; failing which it will be deemed to have refused to answer those questions for the purpose of Rule 96;
+an Order directing the appellant to produce un-redacted copies of documents that it has produced only in redacted form, specifically, the documents listed in Schedule “A” to the Amended Notice of Motion, by a date that is 14 days following the date of the Court’s order on his motion, or by such other date as the Court may designate, failing which it will be deemed to have refused to answer those questions for the purpose of Rule 96;
+an Order directing the parties to serve their expert reports in accordance with the following deadlines rather than those set out in the Rules, namely:
+in chief expert reports to be served on opposing party no later than September 20, 2019;
+rebuttal expert reports to be served on opposing party no later than November 1, 2019;
+sur-rebuttal expert reports to be served on opposing party no later than December 13, 2019;
+costs of this motion; and
+such further and other relief as counsel for the respondent may request and this Court may deem just.
+AND UPON hearing the submissions of the parties;
+IT IS ORDERED THAT:
+The motion is allowed, in accordance with the attached Reasons for Order.
+Signed at Ottawa, Canada, this 9th day of July 2019.
+“Johanne D’Auray”
+D’Auray J.
+Docket: 2013-2595(IT)G
+BETWEEN:
+CONOCO FUNDING COMPANY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Motion held on April 4, 5 and 8, 2019 at Toronto, Ontario and decision rendered orally from the bench on April 8, 2019
+Before: The Honourable Justice Johanne D’Auray
+Appearances:
+Counsel for the Appellant:
+Alexander Cobb
+Andrew Boyd
+Counsel for the Respondent:
+Erin Strashin
+Alexandra Humphrey
+Jasmeen Mann
+For the Respondent:
+Gabrielle Jurewicz (Paralegal)
+ORDER
+UPON Amended Notice of Motion for Further and Better Answers filed on March 1, 2019 by the Respondent for the following relief:
+an Order striking paragraphs 1 and 22, subparagraph 19(b), and the last sentence of paragraph 3 of the Notice of Appeal dated June 26, 2012, without leave to amend;
+if necessary, leave of the Court under Rule 8 of the Tax Court of Canada Rules (General Procedure), to apply for an Order striking portions of the Notice of Appeal, without leave to amend, as set out in paragraph 1 above;
+in the alternative, an Order that the appellant’s failure to provide responsive answers to the questions listed in Schedule “A” to the Amended Notice of Motion amounts to a refusal to answer proper questions under Rule 96 of the Tax Court of Canada (General Procedure);
+in the further alternative, an Order directing the appellant to provide responsive answers to certain questions in accordance with Justice D’Auray’s Order dated August 3, 2017, specifically, the questions listed in Schedule “A” to the Amended Notice of Motion, by a date that is 14 days following the date of the Court’s order, or by such other date as the Court may designate, failing which it will be deemed to have refused to answer those questions for the purpose of Rule 96;
+an Order directing the appellant to produce relevant documents it has improperly refused to produce, specifically, the relevant documents it refused to produce in response to the questions listed in Schedule “A” to the Amended Notice of Motion, by a date that is 14 days following the date of the Court’s order on this motion, or by such other date as the Court may designate; failing which it will be deemed to have refused to answer those questions for the purpose of Rule 96;
+an Order directing the appellant to produce un-redacted copies of documents that it has produced only in redacted form, specifically, the documents listed in Schedule “A” to the Amended Notice of Motion, by a date that is 14 days following the date of the Court’s order on his motion, or by such other date as the Court may designate, failing which it will be deemed to have refused to answer those questions for the purpose of Rule 96;
+an Order directing the parties to serve their expert reports in accordance with the following deadlines rather than those set out in the Rules, namely:
+in chief expert reports to be served on opposing party no later than September 20, 2019;
+rebuttal expert reports to be served on opposing party no later than November 1, 2019;
+sur-rebuttal expert reports to be served on opposing party no later than December 13, 2019;
+costs of this motion; and
+such further and other relief as counsel for the respondent may request and this Court may deem just.
+AND UPON hearing the submissions of the parties;
+IT IS ORDERED THAT:
+The motion is allowed, in accordance with the attached Reasons for Order.
+Signed at Ottawa, Canada, this 9th day of July 2019.
+“Johanne D’Auray”
+D’Auray J.
+Citation: 2019 TCC 143
+Date: 20190709
+Docket: 2012-2683(IT)G
+BETWEEN:
+BURLINGTON RESOURCES FINANCE COMPANY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2012-2683(IT)G
+AND BETWEEN:
+CONOCO FUNDING COMPANY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+REASONS FOR ORDER
+D’Auray J.
+[1] On August 3rd, 2017, I issued an Order with respect to a Motion filed by the respondent to compel Burlington Resources Finance Company (“Burlington”) to answer questions that it had refused to answer, or did not properly answer, during the examination for discovery of Mr. Delk, the nominee for both Burlington and Conoco Funding Company (“Conoco”).
+[2] A Motion was also filed by the respondent to compel Conoco to answer questions posed during examination for discovery. This Motion was not argued. Instead, based on my Order in Burlington, the parties agreed on the questions that should be answered. Accordingly, I issued an Order dated February 2nd, 2018, reflecting the parties’ agreement.
+[3] In the summer of 2018, during a conference call, the respondent expressed concerns with respect to some of the answers given by the appellants. The respondent was of the view that the answers were not responsive.
+[4] Following my Orders, the parties worked together to resolve their disagreement with respect to most of the questions at issue and I thank them for their efforts. That said, there are still questions in dispute and, by Notice of Motion filed in November 2018, the respondent asked the Court to determine whether the appellants had failed to provide responsive answers to these questions. The respondent later amended her Notice of Motion to seek additional remedies. The Amended Motion is dated March 1st, 2019 and seeks the following relief:
+1. an Order striking paragraphs 1 and 22, subparagraph 19(b), and the last sentence of paragraph 3 of the Notice of Appeal dated June 26, 2012, without leave to amend;
+2. if necessary, leave of the Court under Rule 8 of the Tax Court of Canada Rules (General Procedure), to apply for an Order striking portions of the Notice of Appeal, without leave to amend, as set out in paragraph 1 above;
+3. in the alternative, an Order that the appellant’s failure to provide responsive answers to the questions listed in Schedule “A” to the Amended Notice of Motion amounts to a refusal to answer proper questions under Rule 96 of the Tax Court of Canada(General Procedure);
+4. in the further alternative, an Order directing the appellant to provide responsive answers to certain questions in accordance with Justice D’Auray’s Order dated August 3rd, 2017, specifically, the questions listed in Schedule “A” to the Amended Notice of Motion, by a date that is 14 days following the date of the Court’s Order, or by such other date as the Court may designate, failing which it will be deemed to have refused to answer those questions for the purpose of Rule 96;
+5. an Order directing the appellant to produce relevant documents it has improperly refused to produce, specifically, the relevant documents it refused to produce in response to the questions listed in Schedule “A” to the Amended Notice of Motion, by a date that is 14 days following the date of the Court’s Order on this Motion, or by such other date as the Court may designate; failing which it will be deemed to have refused to answer those questions for the purpose of Rule 96;
+6. an Order directing the appellant to produce un-redacted copies of documents that it has produced only in redacted form, specifically, the documents listed in Schedule “A” to the Amended Notice of Motion, by a date that is 14 days following the date of the Court’s Order on this Motion, or by such other date as the Court may designate, failing which it will be deemed to have refused to answer those questions for the purpose of Rule 96;
+7. an Order directing the parties to serve their expert reports in accordance with the following deadlines rather than those set out in the Rules, namely:
+a. in chief expert reports to be served on opposing party no later than September 20, 2019;
+b. rebuttal expert reports to be served on opposing party no later than November 1, 2019;
+c. sur-rebuttal expert reports to be served on opposing party no later than December 13, 2019;
+8. costs of this motion; and
+9. such further and other relief as counsel for the respondent may request and this Court may deem just.
+[5] During the hearing, the respondent stated that she was no longer seeking to have Burlington answer Questions 2505 and 3371.
+[6] The respondent is also not moving to have Conoco answer Questions 954, 1802, 2115, 1014, 2420 and 1811.
+[7] The respondent submits that the appellants have not provided responsive answers to these questions and, as a result, are in contravention of my Orders dated August 3rd, 2017 (Burlington), and February 2nd, 2018 (Conoco).
+[8] The facts relevant to the determination of this Motion can be found in the Reasons for my Order dated August 3rd, 2017. I will not repeat them here. Suffice it to say that the question in issue in both appeals deals with transfer pricing.
+[9] The parties have categorized the questions at issue. The first category relates to the applicable range of arm's length prices for the guarantee; the second to the legal entity's credit rating; the third to the effect of the guarantee on the interest rate with respect to Conoco; the fourth to comparator transactions; and the fifth category deals with whether certain documents are privileged.
+I. Category 1 − Arm’s Length Prices
+[10] I will start with the questions relating to arm’s length prices: Questions 638, 1370D, 2724 for Burlington and Question 1881 for Conoco.
+[11] Question 638 asks: What does the appellant say is the arm's length amount for the necessary support of its parent? Question 1370D: What does the appellant say is the range of the arm's length transfer prices? Question 2724 for Burlington and Question 1881 for Conoco pose the same question namely: What are the positions of the appellants as to what an arm's length party would charge for the guarantee?
+[12] In my Orders of August 3rd, 2017 and February 2nd, 2018, I compelled the appellants to answer these questions. I did so in part as during the examination for discovery, Mr. Delk had stated that the 50 basis point relied upon by both appellants, was an arm's length range.
+[13] In addition, Ms. MacDonald, counsel for Burlington, stated during examination for discovery for Burlington that the Notice of Appeal had to be read so as to mean that the 50 basis points was a range. She explained that the position of Burlington was that a 50 basis point fee was within the arm's length range. At that point, Ms. MacDonald gave an undertaking to answer the question on the transfer pricing range. Therefore, I directed Burlington to answer what the range was for the transfer price.
+[14] At the hearing of this Motion, the appellants’ position is that they did not know the range for the transfer price for the years under appeal. The position of the appellants is that the transfer price was at the lower end, 50 basis points. The appellants stated that the 50 basis points was based on written advice received from investment banks, and this advice was provided to the respondent.
+[15] In addition, during the hearing, counsel for the appellants stated that they wished to correct the answers given by Mr. Delk and Ms. MacDonald during the examination for discovery. Section 98 of the Tax Court of Canada Rules (General Procedure) (the “Rules”) permits a party to correct an answer given by its nominee during examination for discovery.
+[16] The correction given by counsel for the appellants is that the appellants did not know what the range for the transfer price was for the years under appeal. The only information the appellants could give was that the transfer price was at least 50 basis points.
+[17] The respondent’s position is that the appellants' answers are not responsive since, in my Orders, I directed them to provide the range for the transfer price. The respondent submitted that the appellants had had enough time to consult with their experts for the purpose of determining the transfer price range. In support of her position, the respondent cited the decision of the Federal Court of Appeal in Canada (National Revenue) v. Cameco Corporation, 2015 FCA 143. (“Cameco”).
+[18] An explanation of the facts in Cameco is warranted. In Cameco, the respondent did not agree with a statement in Cameco’s pleadings that the average figure for transfer pricing of uranium between Cameco and CEL was $13.52 a pound. The respondent’s position was that Cameco had not taken into account all the relevant factors to come to that price.
+[19] In light of the respondent’s position, Cameco served the respondent with a Notice to Admit that the average figure for the transfer price was $13.52 a pound. The respondent refused to admit the price as a fact and instead stated that there was no single arm’s length price for uranium and that prices could only be arrived at by way of a complex formula which the Canada Revenue Agency (“CRA”) had devised and that consultations with experts might be required to obtain the precise figures.
+[20] The respondent also argued that she did not have to respond to the Notice to Admit because the transfer price per pound for uranium was irrelevant since her position was that the transaction was not commercially viable.
+[21] Writing for the Federal Court of Appeal, Chief Justice Noël rejected the respondent’s contention that the transfer price was irrelevant, and ordered the respondent to respond to the Notice to Admit. Noël, C.J. stated that as the respondent was relying upon paragraph 247(2)(a) of the Income Tax Act in her Reply to Notice of Appeal, the transfer price amount remained a live issue. He stated as follows:
+[66] In response, counsel for the Crown made the point that the arm’s length price between Cameco and CEL is irrelevant to her client’s position which is based on the premise that arm’s length parties would not have entered into these transactions. However, the arm’s length price of uranium is relevant to Cameco’s case and counsel for the Crown did not abandon or in any way resile from her client’s entitlement based on the pleadings to take a distinct position at trial as to the arm’s length price at which Cameco and CEL ought to have purchased/sold uranium transacted between them. To the extent that the Crown contemplates taking such a position at trial, it has the obligation to disclose that distinct arm’s length price before the trial, as has already been held by Chief Justice Rip on two occasions.
+[67] Turning to a concern of a different nature, counsel insisted on the fact that from the Crown’s perspective there is no single arm’s length price for uranium, that such prices can only be arrived at by way of a complex formula which the Canada Revenue Agency has devised (Appeal Book, Vol. II at pp. 502 to 547) and that consultation with experts may be required in order to identify the precise figures.
+[68] Keeping these difficulties in mind, and despite the fact that this information has been the subject of two previous orders, I would grant the Crown a full sixty (60) days to communicate to Cameco its distinct position as to the arm’s length price or prices at which Cameco and CEL ought to have purchased/sold uranium transacted between them during the 2003 taxation year or a formula which allows Cameco to identify this price or these prices.
+[22] In my view, the Cameco decision is not applicable to the Motion before me. In Cameco, the respondent refused to provide its position on the transfer price to Cameco. As a result, absent the Court order directing the respondent to provide it, Cameco would have not known the case it had to meet at trial. In this case, unlike Cameco, the respondent knows the case that she has to meet at trial. The position of the appellants is clear − an arm's length party would have charged 50 basis points or more for the guarantee.
+[23] The respondent is asking the Court to require the appellants to consult with their experts and to provide her with their opinions on the transfer pricing range. This would amount to permitting questions on discovery requiring an expression of expert opinion which is generally not the purpose of an examination for discovery.
+[24] I agree with the respondent that I had ordered the appellants to provide the transfer pricing range, but this was based on the answers given at the examination for discovery, that the 50 basis point was within the arm’s length range.
+[25] However, at the time of the examination for discovery, Mr. Delk knew that there had to be a range but he may have not known that the appellants were not aware what it was. This was clarified by the correction offered by counsel for the appellants.
+[26] In addition, unlike the situation in Cameco, the appellants could not determine what the transfer price range was during the years under appeal without consulting their experts. I cannot require the appellants to consult their experts to find out what the transfer pricing range is during the years under appeal. This information will be provided by the appellants’ experts when the expert reports are filed. Therefore, I am of the view that the answers provided by the appellants are responsive, namely that an arm's length party would have charged 50 basis points or more for the guarantee.
+II. Category 2 − Legal Entity Credit Rating
+[27] I will now deal with the questions with respect to the legal entity credit rating.
+[28] In my Orders dated August 3rd, 2017 (Burlington) and February 2nd, 2018 (Conoco), I ordered the appellants to answer questions dealing with the entity’s credit rating at the time of each bond issuance. The Questions for Burlington were 2484, 3353, 3354, 3361, 3365, 3369, 3373, 3377, 3381, 3385, 3389 and 3393 and for Conoco Questions 1797, 1798 and 1799.
+[29] Question 2484 asked: What is Burlington's position as to what credit rating at the time of each bond issuance? Question 3353 was: Will it be Burlington’s position at trial that the appellant did not have a credit rating at any time during the years at issue in this appeal?
+[30] At paragraph 336 of my Reasons for Order dated August 3rd, 2017, I stated as follows with respect to Questions 2484 and 3353:
+[336] Question 2484 is the same as the questions asked by the Respondent in Category 39. I will give the same answer that I gave in Category 39, if the credit rating, at the time of the issuance of the Notes and prior to February 12, 2001, is the same as indicated in the bank investment’s letter, so be it. Burlington may easily confirm this information. If not, Burlington has to provide its credit rating at the time of the issuance of the Notes and on what basis. If Burlington does not know what its credit ratings were at the time of issuance of the Notes, it has to confirm it.
+[31] At the hearing of the Motion, the appellants’ position was that no credit rating agency had assigned a credit rating to the appellants at any time under appeal. The only credit rating that they had obtained was a debt credit rating and this information had been provided to the respondent. The appellants have therefore satisfactorily answered questions 2484 and 3353. In my Order for Burlington, I stated that if it did not know what the entity’s credit rate was, it simply had to confirm it. This is what the appellants have done.
+[32] Questions 3354, 3361, 3365, 3369, and 3373 dealt with the entity’s credit rating taking into account BRI’s explicit guarantee. The Questions were: For the purposes of the appeal in Burlington, taking into account BRI’s explicit guarantee, what does Burlington say its credit rating was − prior to February 12, 2001 − on February 12th, 2001 - prior to August 24th, 2001 − prior to November 16th, 2001 − November 16th, 2001 and − prior to February 26th, 2002.
+[33] Questions 3377, 3381, 3385, 3389 and 3393 were: For the purposes of the appeal and taking into account BRI’s explicit guarantee, what is Burlington’s position on what should have been its credit rating prior to February 12th, 2001, on February 12th, 2001, on August 24th, 2001, on November 16th, 2001 and February 25th, 2002?
+[34] Conoco was asked similar questions, namely Questions 1797 and 1798: Advise if at trial it will be Conoco’s position that it did not have a credit rating on October 11th, 2001 when the notes were issued − or at any time during the years under appeal. Question 1799: Advise what Conoco’s position as what its credit rating was on October 11, 2001, taking into account the parental guarantee.
+[35] In my Reasons for Order dated August 3rd, 2017, under Category 39 at paragraph 279, I stated as follows:
+"I understand the first group of questions to be: What was the credit rating of Burlington at the time of the issuance of the notes. Burlington's response is that the credit rating of Burlington is to be found in the bank investment's letters produced by Burlington at items 45, 46 and 47."
+Paragraph 280 "In my view, this response does not answer the questions of the respondent as to what was the credit rating at the time of the issuance of each note. If the credit rating, at the time of the issuance of the notes and prior to February 12...is the same as indicated in the bank investment's letter, so be it. Burlington may easily confirm this information. If not, Burlington has to respond to what the credit rating of Burlington was at the time..."
+[36] At the hearing of the Motion, the appellants stated that they did not have an entity credit rating at any time. Only the debts were rated by a credit agency. My Orders dated August 3rd, 2017 and February 2nd, 2018 have therefore been satisfied. The appellants cannot state what the entities’ credit rating was if no credit agency had rated the appellants during the years under appeal.
+[37] The respondent again relies on the Federal Court of Appeal decision in Cameco and asks the Court to order the appellants to consult with their experts and provide an answer.
+[38] For the reasons that I gave earlier on the arm's length price questions, I am of the view that I cannot require parties to consult their experts in order to provide the answers sought by the respondent.
+III. Category 3 − Effect of the Guarantee on Interest Rate
+[39] The third category of questions dealt with Conoco’s position on the effect of the guarantee on interest rate. There is only one question in this category, namely Question 2109 which asks Conoco to: Advise as to the effect of Conoco Inc.’s guarantee on the interest rate on bonds.
+[40] Counsel for the appellant and the respondent agreed that this question is similar to the Questions dealing with the transfer pricing range. Accordingly, the respondent’s submissions were the same as her submissions on those Questions.
+[41] The appellant’s answer was that the guarantee lowered the interest rate on the bonds by at least 50 basis points. The respondent argued that this is not a responsive answer. She relied on the Cameco decision to ask the Court to order Conoco to find out what the effect of the guarantee fee on the interest rate was.
+[42] The appellant argued that the respondent is asking for expert evidence. I agree. As I stated earlier, I cannot order the appellant to consult experts to provide an answer to this question. This would amount to permitting questions requiring an expert opinion.
+IV. Category 4 − Comparator Transactions
+[43] There are two questions under this Category, namely Questions 1370E and 1370F and a follow up question with respect to Question 1370E. At the hearing, Burlington, while believing having answered these questions previously, admitted that the answers given were not clear. I ordered the appellant to answer the two Questions 1370E and 1370F, namely: What is the transaction being priced? Is it a single or a series of transactions or a single transaction within a series of transactions?
+[44] However, the appellant does not have to provide an answer with respect to the follow-up question of the respondent as to what the other economically relevant characteristics are, as this is a question for expert opinion.
+V. Category 5 − Privileged Documents
+[45] The respondent argues that the appellants have refused to produce relevant documents by simply stating that the documents were privileged without giving any indication why privilege is being claimed. Except for four documents, which I will refer to as the “clawback documents”, the appellants have not indicated the basis on which they were claiming privilege for the documents.
+[46] The appellants argue that they do not have to indicate the grounds on which they base their claim of privilege. Their position is that because the parties have filed a List of Documents pursuant to section 81 of the Rules, they do not have to disclose why they consider the documents to be privileged.
+[47] Under the Rules, the parties have a choice. They may file a Partial Disclosure List of Documents under section 81 or a Full Disclosure List of Documents under section 82 of the Rules. In these appeals, the parties have chosen to file a Partial Disclosure List of Documents. Section 81 reads as follows:
+81. A party has to file a list of documents of which the party, the appellant or the respondent, has knowledge that might be used in evidence, (a) to establish or to assist in establishing any allegation of fact in any pleading filed herein by a party, or to rebut or to assist in rebutting any allegations of fact in any pleading filed by any other party. A list of documents to be filed under this section shall be in Form 81.
+[48] Section 81 of the Rules is clear. Under a Partial Disclosure List of Documents, a party does not have to list the documents for which it claims privilege.
+[49] The appellants argue that the respondent is asking the Court to order remedies under section 88 of the Rules when that provision only applies when the parties have filed Full Disclosure Lists of Documents under section 82 of the Rules. Section 88 of the Rules provides as follows:
+88. Where the Court is satisfied by any evidence that a relevant document in a party’s possession, control or power may have been omitted from the party’s affidavit of documents, or that a claim of privilege may have been improperly made, the Court may,
+(a) order cross-examination on the affidavit of documents,
+(b) order service of a further and better affidavit of documents,
+(c) order the disclosure or production for inspection of the document or a part of the document, if it is not privileged, and
+(d) inspect the document for the purpose of determining its relevance or the validity of a claim of privilege.
+[50] The appellants submit that since section 88 does not apply to a Partial Disclosure List of Documents under section 81 of the Rules, they do not have to assert the basis of their claim of privilege.
+[51] The appellants rely on two decisions in support of their position. The first decision is Shell Canada Limited v. The Queen, 1997 DTC 257, and the second is General Electric Capital Canada Inc. v. The Queen, 2008 TCC 256.
+[52] I will start with the decision in Shell. The facts in Shell are somewhat confusing. Shell filed a Motion under section 88 of the Rules, asking the Court to order the Crown to list in her List of Documents her privileged documents.
+[53] Shell had alleged in its Motion that an affidavit of documents had been filed by the respondent. Therefore, Justice Christie relying on this allegation assumed that a Full Disclosure List of Documents had been filed by the respondent. However, at the hearing of the Motion, Justice Christie learned that the parties had filed Partial Disclosure Lists of Documents under section 81 of the Rules.
+[54] Despite the fact that it was a section 81 Partial Disclosure List of Documents case, Shell asked the Court to apply the remedies found in section 88 of the Rules and order the Crown to list the privileged documents and the grounds for claiming privilege.
+[55] Justice Christie decided that section 88 of the Rules did not apply where the parties had chosen to use Partial Disclosure Lists of Documents.
+[56] In my view, the ruling of Justice Christie in Shell does not apply to the appeals at bar.
+[57] Unlike the situation in Shell, the respondent is not asking that the appellants be required to list their privileged documents in their Partial Disclosure List of Documents. And, unlike the situation in Shell, the respondent has not filed a Motion under section 88 of the Rules.
+[58] Instead, the respondent here is asking for the information in the context of examination for discovery. The documents in issue were asked for during the examination for discovery of Mr. Delk. If the appellants are refusing to produce the documents due to a privilege claim in this context, they have to indicate why they are claiming the documents are privileged and on what grounds. The respondent is entitled to know why a document otherwise relevant for the purposes of discovery is not produced due to a privilege claim. In my view, the decision in Shell does not assist the appellants.
+[59] The appellants also rely upon the decision of this Court in General Electric Capital Canada Inc. In that case, the Crown brought a Motion to Compel General Electric to answer questions put to its nominee at the examination for discovery. At paragraph 27 of his reasons, Associate Chief Justice Rip, wrote as follows:
+With respect to Questions 598 and 599, the respondent is not entitled to the various documents or communications in respect of the privilege claimed and the name of the persons who originated the documents, or to whom they were sent or copied. "I have determined the documents are irrelevant; the need to know the names of persons attached to these documents is not necessary. In any event preparing lists of documents for trial, the parties proceeded by way of Section 81 of the Rules which does not require a party to list its privileged documents. It is section 82 of the Rules, Full Disclosure, that requires a party to list documents for which it claims privilege and the grounds for the claim. In Shell Canada v. The Queen, Christie stated as follows:
+...the words “and that are not privileged” in this subsection relate only to the reference to section 82 because section 81 simply does not envisage the listing of documents by the person producing the list in respect of which that person will seek to make a claim of privilege."
+The respondent, having elected to proceed by way of Rule 81, cannot in the present motion accomplish what is provided for in Rule 82.
+[60] The appellants argue that since the parties in General Electric had filed Partial Disclosure Lists of Documents, General Electric did not have to indicate the basis on which privilege was being claimed in the context of an examination for discovery.
+[61] I do not have the same understanding of the General Electric decision as the appellants.
+[62] In my view, the ratio decidendi in General Electric is that the documents requested at the examination for discovery were irrelevant. The other comments made by Rip, ACJ are obiter. In any event, I agree with his comments that under a Partial Disclosure List of Documents, a person does not have to list documents that are privileged. This is also what Justice Christie found in Shell. However, the decision in Shell was not rendered in the context of an examination for discovery. In addition, it is not clear that Rip, ACJ concluded that where documents sought at examination for discovery are relevant, a party does not have to justify why it is claiming privilege with respect to the documents.
+[63] I am of the opinion that if relevant documents asked for in the context of an examination for discovery are not produced on the grounds that they are privileged, the party claiming the privilege has to assert why the documents are privileged. In my view, it does not matter if the parties have chosen to file a Partial Disclosure List of Documents or a Full Disclosure List of Documents.
+[64] Therefore, I am of the view that the appellants have to provide a brief description of the document, indicate the type of privilege they are claiming, and the ground for claiming it.
+[65] If litigation privilege is claimed, it is also important to state when the document was created.
+[66] The above is in some respects academic, since the appellants have permitted the Court to inspect the contested documents to determine if they were properly claiming privilege over them. As I have already stated, except for the clawback documents, the respondent does not know on what ground the privilege was being claimed.
+[67] The law with respect to privilege is settled. To establish solicitor-client privilege, the appellant must show that the document or excerpt constitutes a communication between solicitor and client. It has to entail the seeking or giving of legal advice and the advice has to be intended to be confidential. Finally, the advice must not have had the purpose of furthering unlawful conduct.
+[68] On the other hand, litigation privilege requires the party claiming the privilege to establish for each document that litigation was ongoing, or reasonably contemplated, at the time that the document was created and that the dominant purpose of creating the document was for that litigation.
+[69] Relevant considerations in determining whether a document was prepared for the dominant purpose of litigation include the author of the document and the authority upon whose direction the document was prepared; the date on which the document was produced; the identity of the parties to whom the documents were addressed; and the content of the documents. In addition, anticipated litigation must be real, not a possibility or a suspicion.
+[70] The party claiming privilege has the onus of establishing its right to claim the privilege. The claim should be supported by affidavit evidence providing sufficient facts and grounds for each claim of privilege.
+[71] I do not find the affidavit of Mr. Boyd useful. The affidavit is not the type of affidavit required to support the claim of privilege.
+[72] I must therefore make a decision based solely upon my review of the documents. If, on the face of the document, no privilege appears to exist, then the document is not privileged.
+[73] With these principles in mind, I have reviewed the documents. As requested by the respondent, I gave particular attention to the clawback documents.
+[74] With respect to the first clawback document, in which the respondent expressed a strong interest, I am of the view that litigation privilege applies. Its dominant purpose was clearly litigation as it is an email exchange between counsel for Conoco in preparation for the examination for discovery.
+[75] I carefully looked at the documents including the redacted and un-redacted parts of documents in issue to ensure that privilege was properly claimed. In my view, the appellants’ claim of privilege must stand.
+Signed at Ottawa, Canada, this 9th day of July 2019.
+“Johanne D’Auray”
+D’Auray J.
+CITATION:
+2019 TCC 143
+COURT FILE NO.:
+2012-2683(IT)G
+2013-2595(IT)G
+STYLE OF CAUSE:
+BURLINGTON RESOURCES FINANCE COMPANY v THE QUEEN
+CONOCO FUNDING COMPANY v THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+April 4, 5 and 8, 2019
+REASONS FOR ORDER BY:
+The Honourable Justice Johanne D’Auray
+DATE OF ORDER:
+July 9, 2019
+APPEARANCES:
+Counsel for the Appellant:
+Alexander Cobb
+Andrew Boyd
+Counsel for the Respondent:
+Erin Strashin
+Alexandra Humphrey
+Jasmeen Mann
+For the Respondent:
+Gabrielle Jurewicz (Paralegal)
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Alexander Cobb
+Andrew Boyd
+Al Menghji
+Firm:
+Osler, Hoskin & Harcourt LLP
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

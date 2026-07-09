@@ -1,0 +1,144 @@
+Title: Routhier v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28197/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-557-28197-routhier-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2006-10-23
+
+# Routhier v. M.N.R.
+
+- Citation: 2006 TCC 557
+- Decision date: 2006-10-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1978, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Routhier v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-10-23
+Neutral citation
+2006 TCC 557
+File numbers
+2006-103(EI)
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2006-103(EI)
+BETWEEN:
+GINO ROUTHIER,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard at Roberval, Quebec, on October 3, 2006.
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Counsel for the Appellant:
+Pierre Hébert
+Counsel for the Respondent:
+Christina Ham
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision made by the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 23rd day of October 2006.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 28th day of February 2008.
+Brian McCordick, Translator
+Citation: 2006TCC557
+Date: 20061023
+Docket: 2006-103(EI)
+BETWEEN:
+GINO ROUTHIER,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] The Appellant Gino Routhier is appealing from a decision made by the Minister of National Revenue ("the Minister") under the Employment Insurance Act ("the Act"). Specifically, by letter dated June 22, 2005, the Minister notified the Appellant of his decision that
+(i) in 2000, the Appellant worked for Aménagement MYR Inc. ("the Payor") from May 21 to September 8, accumulated 960 insurable hours and earned a total of $10,500 in insurable earnings;
+(ii) in 2001, the Appellant worked for the Payor from June 3 to October 12, accumulated 1045 insurable hours and earned a total of $11,250 in insurable earnings; and
+(iii) in 2002, the Appellant worked for the Payor from May 19 to October 4, accumulated 900 insurable hours and earned a total of $12,250 in insurable earnings.
+[2] The Minister's decision was based on the following assumptions of fact, which are set out in paragraph 6 of the Reply to the Notice of Appeal:
+[TRANSLATION]
+(a) The Payor operated a forestry business specializing in brush cutting.
+(b) The Payor's main customers were Bowater and Abitibi-Consolidated.
+(c) The Payor was active from the snow-melt to the first snow, that is to say, roughly from late May to November.
+(d) The Payor hired 30 to 90 brush cutters each year.
+(e) In 2000, 2001 and 2002, the Appellant worked for the Payor as a brush cutter.
+(f) In this capacity, he worked 60 hours per week in 2000, 55 hours in 2001 and 50 hours in 2002.
+(g) It was the Payor's practice to bank employees' hours.
+(h) The Payor pleaded guilty to a charge of issuing false Records of Employment (ROEs) to its workers.
+(i) In his statutory declaration dated and signed on February 18, 2004, the Appellant stated: [TRANSLATION] "It is true that I always banked a week of work each year."
+(j) In his statutory declaration dated and signed on February 18, 2004, the Appellant stated [TRANSLATION]: "In 2001, I received a Record of Employment that ended on September 21, 2001, even though I actually continued to work until October 12, 2001."
+(k) The ROEs issued by the Payor do not reflect the true situation with respect to the periods worked by the Appellant and the insurable hours accumulated by the Appellant in 2000, 2001 and 2002.
+(l) For the period from May 21 to September 8, 2000, the Minister determined that the Appellant worked for 960 insurable hours and received a total of $10,500 in insurable earnings.
+(m) For the period from June 3 to October 12, 2001, the Minister determined that the Appellant worked for 1045 insurable hours and received a total of $11,250 in insurable earnings.
+(n) For the period from May 19 to October 4, 2002, the Minister determined that the Appellant worked for 900 insurable hours and received a total of $12,250 in insurable earnings.
+[3] Of the facts set out in paragraph 6 of the Reply to the Notice of Appeal, the Appellant admitted only to those set out in subparagraphs (a), (b), (d), (e), (f) and (h). He denied all the others.
+[4] It should be noted that the Appellant's ROEs[1] state that
+(i) in 2000, he worked for the Payor from May 29 to September 8, accumulated 900 insurable hours and earned a total of $10,500 in insurable earnings;
+(ii) in 2001, he worked for the Payor from June 11 to September 21, accumulated 825 insurable hours and earned a total of $11,250 in insurable earnings; and
+(iii) in 2002, he worked for the Payor from May 27 to October 4, accumulated 850 insurable hours and earned a total of $12,250 in insurable earnings.
+Background
+[5] In 2004, the Payor pleaded guilty to the charge of issuing false Records of Employment (ROEs) to his workers in years that included 2000, 2001, and 2002, and he paid a $50,000 fine for having done so. Among other things, the Payor had set up a scheme to bank hours and had issued ROEs for periods during which its employees were not working. As part of their investigation into the Payor's illegal practices, CPP/EI coverage officers made decisions against 24 of the Payor's employees, nine of whom, including the Appellant, launched appeals.
+[6] In the statutory declaration (Exhibit A-2) which the Appellant signed on February 18, 2004, at the office of Human Resources Development Canada (HRDC) located at 1500, rue des Érables, in Dolbeau, in the presence of senior investigator Réal Couture of HRDC as well as an RCMP officer, the Appellant acknowledged that he worked for the Payor outside the periods stated in the ROEs. It must be understood that it is based on this voluntary declaration that the Minister made the decision of June 22, 2005, against the Appellant. Now, the Appellant is alleging that the admissions in the statutory declaration were obtained by means of threats and intimidation. In short, the Appellant, who bears the burden of proof in the instant case, had to convince me that his version of the facts are more credible than Réal Couture's.
+[7] The relevant excerpts from the statutory declaration read as follows:
+[TRANSLATION]
+. . . With respect to the week that is banked at the beginning of each season, it is true that I always banked one week of work every year, except in 2003, when I was a painter at the camp. Mario Richard was the person who proposed banking one week at the beginning of the season, and I accepted; the following years, it was sort of automatic, we asked each other whether we would do the same thing as the preceding year and that was correct. In 2001, I received a Record of Employment ending September 21, 2001, even though I actually continued to work until October 12, 2001. What happened was that I had production problems and was overpaid. Mario Richard told me that he would give me my ROE so I could get my unemployment benefits, and that I would continue to work in order to pay back the money that I owed him; this would do a little more fine tuning…
+The Appellant's testimony
+[8] The essence of the Appellant's testimony pertained to the circumstances under which the statutory declaration was signed. The Appellant first said that he was directed to report to the HRDC office on February 28, 2004 at 8:30 a.m. but was not told the purpose of the meeting. He sincerely believed that the purpose of the meeting was to impart general information. He then said that if he had known the purpose of the meeting, he would have brought the documents (such as the ROEs) that would have helped him answer the investigators' questions.
+[9] The Appellant testified that he was greeted at the meeting by Mr. Couture and an RCMP officer. He said that the RCMP officer, who introduced himself by showing his identification cards, intimidated him from the start. The Appellant explained that he was intimidated and threatened by the two investigators, who reminded him of his previous problems with the justice system and told him [TRANSLATION] "If you don't sign the declaration, you might as well call a lawyer."
+[10] In summary, the Appellant testified that he signed the statutory declaration under threats and intimidation. He was so [TRANSLATION] "on edge" that he signed the declaration that the two investigators asked him to sign, which was prepared by Mr. Couture. The Appellant [TRANSLATION] "just wanted to leave."
+[11] The Appellant also testified that the first version of the statutory declaration was destroyed at his request because he noticed that it contained a mistake.
+Mr. Couture's testimony
+[12] Mr. Couture was a witness whose credibility was not, in my opinion, impeached in the instant case. He said that
+(i) as part of his investigation into the Payor's activities, he met 24 of the Payor's employees, including the Appellant;
+(ii) he met the Appellant at the Dolbeau office of HRDC on February 18, 2004, at 8:30 a.m., and an RCMP officer was also present;
+(iii) the Appellant was summoned in writing (Exhibit I‑1) and the purpose of the meeting was very clearly stated in the notice to attend the meeting;
+(iv) the interview went well; Mr. Couture does not recall the RCMP officer reminding the Appellant of his drunk driving record, nor does he recall the RCMP officer asking the Appellant any questions. He stated categorically and calmly that neither he nor the RCMP officer made any direct or indirect threats against the Appellant and that neither of them forced the Appellant to sign the statutory declaration.
+Analysis and conclusion
+[13] The burden of proof was on the Appellant. He needed to satisfy me, on a balance of probabilities, that the Minister erred in rendering his decision of June 22, 2005. The Appellant's position is that the Records of Employment reflect the true situation with respect to the periods of employment, the insurable hours and the insurable earnings. The Appellant's evidence in this regard consisted solely of his testimony, which, as I have stated, was contradicted by his own statutory declaration. His position on the statutory declaration is that it was obtained by means of threats and intimidation.
+[14] The Appellant has absolutely not satisfied me that he was threatened and intimidated at the meeting of February 18, 2004. Indeed, I have trouble understanding how the Appellant, if he was perturbed and intimidated from the beginning of the meeting, could have read the first version of the statutory declaration and dared to ask Mr. Couture to destroy it because it contained inaccurate information. I also have trouble understanding how investigators as intimidating and threatening as Mr. Couture and the RCMP officer could give the Appellant the time to read the first version of the statutory declaration and agree to destroy it. The conduct of which the Appellant accuses the two individuals in question strikes me as completely inconsistent with the events associated with the first version of the statutory declaration.
+[15] I would like to emphasize that the Appellant's testimony related to the notice of the meeting of February 18, 2004, merely added to my doubts about the Appellant's credibility. I find his explanation, that he believed that the meeting was merely intended to impart general information, implausible at best given that the purpose of the meeting was specified in the written notice which the Appellant acknowledges having received and read.
+[16] To sum up, I had to choose between Mr. Couture's version of the facts and the Appellant's version. I chose Mr. Couture's version because I found him more credible than the Appellant.
+[17] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 23rd day of October 2006.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 28th day of February 2008.
+Brian McCordick, Translator
+CITATION: 2006TCC557
+COURT FILE NO.: 2006-103(EI)
+STYLE OF CAUSE: GINO ROUTHIER AND M.N.R.
+PLACE OF HEARING: Roberval, Quebec
+DATE OF HEARING: October 3, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: October 23, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Pierre Hébert
+Counsel for the Respondent:
+Christina Ham
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Pierre Hébert
+Firm: Simard, Boivin, Lemieux
+Dolbeau-Mistassini, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1]Exhibit A-1.

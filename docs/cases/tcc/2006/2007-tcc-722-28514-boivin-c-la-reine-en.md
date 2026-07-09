@@ -1,0 +1,194 @@
+---
+title: "Boivin c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28514/index.do"
+last_modified: "2006-08-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 722"
+citation2: ""
+neutral_citation: "2007 TCC 722"
+decision_date: "2006-08-16"
+language: "en"
+item_id: "28514"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1243
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:49:11.622000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f21fb16dcfa621b7961c6a498d082e3a25d1799fc424658fc4758ace4fdce95f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Boivin c. La Reine
+
+- Citation: 2007 TCC 722
+- Decision date: 2006-08-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1243, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Boivin c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-08-16
+Neutral citation
+2007 TCC 722
+File numbers
+2003-4468(IT)I
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-4468(IT)I
+BETWEEN:
+JEAN-YVES BOIVIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on August 14, 15 and 16, 2006, at Roberval, Quebec.
+Before: The Honourable Justice François Angers
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Sophie-Lyne Lefebvre
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessments made under the Income Tax Act (the Act) for the 2000 and 2001 taxation years is dismissed in part.
+The appeal is allowed with respect to the penalty imposed under subsection 163(1) of the Act and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 6th day of December 2007.
+"François Angers"
+Angers J.
+Translation certified true
+on this 8th day of February 2008.
+Monica F. Chamberlain, Reviser
+Citation: 2007TCC722
+Date: 20071206
+Docket: 2003-4468(IT)I
+BETWEEN:
+JEAN-YVES BOIVIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers J.
+[1] The Appellant is appealing assessments made by the Minister of National Revenue (the Minister) on September 15, 2003, for the 2000 and 2001 taxation years. The Minister added investment income of $2,705.51 and $1,979.47 in calculating the Appellant’s income for the two years in question on the ground that the investments were not the personal property of an Indian situated on an Indian reserve. In addition, for 2001, the Minister imposed a penalty equivalent to 10% of $1,979.40 under subsection 163(1) of the Income Tax Act (the Act) on the ground that the Appellant had not reported interest income for one of the three years preceding 2001. However, the Minister informed the Court that he was abandoning the last item and that he therefore consented to a judgment amending the assessment to eliminate the penalty imposed under subsection 163(1) of the Act.
+[2] The Appellant is a Status Indian who has lived on the Pointe-Bleue Reserve since he retired from the public service in 1993. He received investment income from the Caisse populaire de Pointe-Bleue in the amounts stated above during the two taxation years in question. The Caisse is located within the Pointe-Bleue Reserve. The Appellant acknowledged that the Caisse earns its income from two main sources, from which it is able to pay interest income to its members. Those sources are investment income it earns from its own deposits and investments with the Fédération des Caisses Populaires Desjardins and interest income it earns from the loans it grants to its members, whether or not they are residents of the reserve, and whether or not they are Aboriginal people.
+[3] At the hearing of this matter, it was agreed that part of the evidence in Dubé v. Her Majesty the Queen would be entered in the record of this case. The evidence in question consists of the testimony of Anne Gill, Guylaine Simard, Gaston Boyer and Hubert Robichaud and the exhibits entered in evidence by them.
+[4] The Caisse where the Appellant did business was founded in 1965. Between 1996 and 2002, it had about 3,000 members. In 2006, it had 4,600 members, of which about 4,200 were Indians who lived on the reserve and about 400 were neither Indians nor residents of the reserve. There are no restrictions on who can become a member of the Caisse. Although the majority of the Caisse’s members are Indians, the Caisse’s staff does not ask clients interested in opening an account if they are Indian. Nor do they ask them to disclose their status certification number. The membership list does not indicate whether the members are Indians or not. Indeed, the percentage of Indian members is based on an estimate by the Caisse’s management. Of these members, 30% are residents of the Obedjiwan reserve. The Caisse’s primary area is Pointe‑Bleue, but there is nothing preventing a non‑resident from becoming a member.
+[5] The Caisse has two membership categories: regular members and auxiliary members. A regular member resides within the Caisse’s territory and is entitled to vote at meetings of the Caisse. Auxiliary members do not reside within the territory and while they can attend meetings, they may not vote. There is no other restriction. Despite this difference, the Appellant was apparently a regular member, even though he does not reside on the Pointe‑Bleue reserve. It would appear that the Caisse’s territory is larger than that of the Pointe‑Bleue reserve.
+[6] The Caisse’s board of directors is composed of seven members who were, at the time of the hearing, all Indians and residents of Pointe‑Bleue. The evidence did not show if the Caisse’s by-laws require that the board of directors be composed of Indian members. As for the position of director, there is no requirement that an Indian hold this position, or that the Caisse’s employees be Indian. If individuals hold the same qualifications, an Indian would be given preference.
+[7] The Caisse has three main sources of income: income from deposits and investments it makes with the Fédération des caisses populaires Desjardins (the Federation) with which it is affiliated, certain investments being mandatory for all credit unions, such as the investment fund and the liquidity fund; income generated from loans made to its members; and accessory products, such as administration fees, the sale of travellers cheques and brokerage fees.
+[8] The Caisse’s balance sheet, as adduced, reveals that it has the same level of funds invested with the Federation as it has in loans made to its members. In 2004 and in 2005, the Caisse had liquid assets and investments in the amount of $34.9 million and $39 million in each of these years.
+[9] Term deposits invested with the Federation are managed solely by the Federation and represent the surplus savings that the Caisse is unable to loan to its members. In this instance, the Caisse has had surpluses for several years.
+[10] As for the investments and deposits with the Federation, these are qualifying shares, mandatory deposits, liquidity deposits and others. In terms of the loans to members, they consist of on‑reserve housing loans and off‑reserve hypothecary loans, consumer loans, investment loans, such as lines of credit, and business loans, all both on and off the reserve.
+[11] The Caisse received deposits from its members in the order of $51 million and $55 million in 2002 and 2003 and made loans in the order of $39 million and $40 million in these same years. These figures show that it loans about 75% of the deposits it receives from its members or 75% of its revenue. The excess liquidity is invested with the Federation, which explains the asset shown on the balance sheet and to which I referred earlier.
+[12] The Caisse does not have status as an Indian business and pays deposit insurance premiums for all its members. Each year since 2003, it has remitted $75,000 in gifts and sponsorships to the Pointe‑Bleue and Obedjiwan communities or reserves. The proportion of loans granted to its Indian members is 77%.
+Analysis
+[13] The issue is therefore whether the investment income of an Indian is personal property situated on an Indian reserve and whether it should be excluded from the Indian's income pursuant to paragraph 81(1)(a) of the Act, which provides as follows:
+81(1) Amounts not included in income – There shall not be included in computing the income of a taxpayer for a taxation year,
+(a) an amount that is declared to be exempt from income tax by any other enactment of Parliament, other than an amount received or receivable by an individual that is exempt by virtue of a provision contained in a tax convention or agreement with another country that has the force of law in Canada.
+[14] Section 87 of the IA also provides for a tax exemption. That section reads as follows:
+87(1) Notwithstanding any other Act of Parliament or any Act of the legislature of a province, but subject to section 83, the following property is exempt from taxation:
+(a) the interest of an Indian or a band in reserve lands or surrendered lands; and
+(b) the personal property of an Indian or a band situated on a reserve.
+(2) No Indian or band is subject to taxation in respect of the ownership, occupation, possession or use of any property mentioned in paragraph (1)(a) or (b) or is otherwise subject to taxation in respect of any such property.
+[15] For paragraph 87(1)(b) of the IA to apply, three elements must be present: being an Indian within the meaning of the IA, owning personal property and the property being situated on a reserve. In the present case, it was admitted that the Appellant is an Indian and the investment income is personal property. The dispute relates to the question of whether the property is in fact situated on a reserve. This question has been the subject of many decisions of the Tax Court of Canada and the Federal Court, and several legal principles have been developed through the case law.
+[16] Therefore, it is now possible to establish the legal status of this issue which deals primarily with taxation of investment income of Indians. The Federal Court of Appeal ruling in Recalma v. The Queen, (1998) 98 D.T.C. 6238 is the leading case on the issue of whether or not investment income is to be included in taxable income. This decision relies on the principles stated in Williams v. The Queen, [1992] 1 S.C.R. 877. These principles are known as the connecting factors for determining the situs of property. Recalma has been applied and followed in Tax Court of Canada and Federal Court decisions (see Lewin v. The Queen, [2001] T.C.J. 242 and [2002] F.C.J. 1625, Sero and Frazer, [2001] T.C.J. 345 and [2004] F.C.J. 6, and Large v. The Queen, [2006] TCC 509).
+[17] It is important to remember the interpretation of the tax exemption granted to Indians within the meaning of the two above-mentioned legislative provisions in many important judgments, in particular the limits of the tax exemption established by the Supreme Court of Canada in Nowegijick v. The Queen, [1983] 1 S.C.R. 29, at paragraph 21.
+Indians are citizens and, in affairs of life not governed by treaties or the Indian Act, they are subject to all of the responsibilities, including payment of taxes, of other Canadian citizens.
+[18] This being said, in Mitchell v. Peguis Indian Band, [1990] 2 S.C.R. 85, La Forest J. commented on the Crown's obligation to Aboriginal peoples that arises from the signing of the Royal Proclamation of 1763. He describes this obligation as the obligation to not dispossess Indians of their property. However, in his analysis of the interpretation of the IA, he stated the following at paragraphs 88, 91, 92 and 112:
+Paragraph 88:
+It is also important to underscore the corollary to the conclusion I have just drawn. The fact that the modern‑day legislation, like its historical counterparts, is so careful to underline that exemptions from taxation and distraint apply only in respect of personal property situated on reserves demonstrates that the purpose of the legislation is not to remedy the economically disadvantaged position of Indians by ensuring that Indians may acquire, hold, and deal with property in the commercial mainstream on different terms than their fellow citizens. An examination of the decisions bearing on these sections confirms that Indians who acquire and deal in property outside lands reserved for their use, deal with it on the same basis as all other Canadians.
+Paragraphs 91 and 92:
+… But I would reiterate that in the absence of a discernible nexus between the property concerned and the occupancy of reserve lands by the owner of that property, the protections and privileges of ss. 87 and 89 have no application.
+92. I draw attention to these decisions by way of emphasizing once again that one must guard against ascribing an overly broad purpose to ss. 87 and 89. These provisions are not intended to confer privileges on Indians in respect of any property they may acquire and possess, wherever situated. Rather, their purpose is simply to insulate the property interests of Indians in their reserve lands from the intrusions and interference of the larger society so as to ensure that Indians are not dispossessed of their entitlements. The Alberta Court of Appeal in Bank of Nova Scotia v. Blood, [1990] 1 C.N.L.R. 16, captures the essence of the matter when it states, at p. 18, in reference to s. 87, that: "In its terms the section is intended to prevent interference with Indian property on a reserve."
+Paragraph 112:
+A reading of the Indian Act shows that this provision is but one of a number of sections which seek to protect property to which Indians may be said to have an entitlement by virtue of their right to occupy the lands reserved for their use. In addition to the protections relating to Indian lands to which I have already drawn attention, the range of property protected runs from crops raised on reserve lands to deposits of minerals; see ss. 32, 91, 92, 93. These sections restrict the ability of non‑natives to acquire the particular property concerned by requiring that the Minister approve all transactions in respect of it. As is the case with the restrictions on alienability to which I drew attention earlier, the intent of these sections is to guard against the possibility that Indians will be victimized by "sharp dealing" on the part of non‑natives and dispossessed of their entitlements.
+[Emphasis added.]
+[19] At paragraph 123, La Forest J. provides more details regarding the concept of situs:
+123. The conclusion I draw is that it is entirely reasonable to expect that Indians, when acquiring personal property pursuant to an agreement with that "indivisible entity" constituted by the Crown, will recognize that the question whether the exemptions of ss. 87 and 89 should apply in respect of that property, regardless of situs, must turn on the nature of the property concerned. If the property in question simply represents property which Indians acquired in the same manner any other Canadian might have done, I am at a loss to see why Indians should expect that the statutory notional situs of s. 90(1)(b) should apply in respect of it. In other words, even if the Indians perceive the Crown to be "indivisible", it is unclear to me how it could be that Indians could perceive that s. 90(1)(b) is meant to extend the protections of ss. 87 and 89 in an "indivisible" manner to all property acquired by them pursuant to agreements with that entity, regardless of where that property is held. What if the property concerned is property held off the reserve, and was acquired by the Indian band concerned simply with a view to further business dealings in the commercial mainstream?
+[20] At paragraph 123, La Forest J. provides more details regarding the concept of situs:
+123. The conclusion I draw is that it is entirely reasonable to expect that Indians, when acquiring personal property pursuant to an agreement with that "indivisible entity" constituted by the Crown, will recognize that the question whether the exemptions of ss. 87 and 89 should apply in respect of that property, regardless of situs, must turn on the nature of the property concerned. If the property in question simply represents property which Indians acquired in the same manner any other Canadian might have done, I am at a loss to see why Indians should expect that the statutory notional situs of s. 90(1)(b) should apply in respect of it. In other words, even if the Indians perceive the Crown to be "indivisible", it is unclear to me how it could be that Indians could perceive that s. 90(1)(b) is meant to extend the protections of ss. 87 and 89 in an "indivisible" manner to all property acquired by them pursuant to agreements with that entity, regardless of where that property is held. What if the property concerned is property held off the reserve, and was acquired by the Indian band concerned simply with a view to further business dealings in the commercial mainstream?
+[21] In Williams, supra, Gonthier J. made the exemption provided in section 87 subject to the manner in which Indian taxpayers chose to organize their affairs, particularly as regards the choice to situate their property on or off a reserve. At paragraphs 18 and 19, he comments as follows:
+18. Therefore, under the Indian Act, an Indian has a choice with regard to his personal property. The Indian may situate this property on the reserve, in which case it is within the protected area and free from seizure and taxation, or the Indian may situate this property off the reserve, in which case it is outside the protected area, and more fully available for ordinary commercial purposes in society. Whether the Indian wishes to remain within the protected reserve system or integrate more fully into the larger commercial world is a choice left to the Indian.
+19. The purpose of the situs test in s. 87 is to determine whether the Indian holds the property in question as part of the entitlement of an Indian qua Indian on the reserve…
+[22] In his judgment, Gonthier J. describes the legal analysis that must be applied to determine whether taxation violates section 87 if the IA. He addresses the issue of the weighting of the connecting factors at paragraph 37:
+...The first step is to identify the various connecting factors which are potentially relevant. These factors should then be analyzed to determine what weight they should be given in identifying the location of the property, in light of three considerations: (1) the purpose of the exemption under the Indian Act; (2) the type of property in question; and (3) the nature of the taxation of that property. The question with regard to each connecting factor is therefore what weight should be given that factor in answering the question whether to tax that form of property in that manner would amount to the erosion of the entitlement of the Indian qua Indian on a reserve.
+[Emphasis added.]
+[23] Lastly, at paragraph 61, Gonthier J. explains how the situs of the property in question is to be determined:
+Determining the situs of intangible personal property requires a court to evaluate various connecting factors which tie the property to one location or another. In the context of the exemption from taxation in the Indian Act, there are three important considerations: the purpose of the exemption; the character of the property in question; and the incidence of taxation upon that property. Given the purpose of the exemption, the ultimate question is to what extent each factor is relevant in determining whether to tax the particular kind of property in a particular manner would erode the entitlement of an Indian qua Indian to personal property on the reserve.
+[24] These are the connecting factors that were reiterated in Recalma, Lewin and Sero and Frazer, and that were used to determine whether investment income should be excluded from taxable income on the ground that it is situated on a reserve. In Recalma, the Federal Court of Appeal confirmed the judgment by Hamlyn J. of this Court and recognized four factors to consider in determining the situs of investment income.
+11. So too, where investment income is at issue, it must be viewed in relation to its connection to the Reserve, its benefit to the traditional Native way of life, the potential danger to the erosion of Native property and the extent to which it may be considered as being derived from economic mainstream activity. In our view, the Tax Court Judge correctly placed considerable weight on the way the investment income was generated, just as the Courts have done in cases involving employment, U.I. benefits and business income. Investment income, being passive income, is not generated by the individual work of the taxpayer. In a way, the work is done by the money which is invested across the land. The Tax Court Judge rightly placed great weight on factors such as the residence of the issuer of the security, the location of the issuer's income generating operations, and the location of the security issuer's property. While the dealer in these securities, the local branch of the Bank of Montreal, was on a Reserve, the issuers of the securities were not; the corporations which offered the Bankers' Acceptances and the managers of the Mutual Funds in question were not connected in any way to a Reserve. They were in the head offices of the corporations in cities far removed from any reserve. Similarly, the main income generating activity of the issuers was situated in towns and cities across Canada and around the world, not on Reserves. In addition, the assets of the issuers of the securities in question were predominantly off Reserves, which in case of default would be most significant.
+12. Less weight was properly accorded by the Tax Court Judge, in this case of investment income, to factors such as the residence of the taxpayer, the source of the capital with which the security was bought, the place where the security was purchased and the income received, the place where the security document was held and where the income was spent. We can find no fault with the reasoning of the Tax Court Judge in the way he balanced the various connecting factors involved in this case in the light of the purpose of the legislation.
+13. Thus, in our view, taking a purposive approach, the investment income earned by these taxpayers cannot be said to be personal property "situated on a reserve" and, hence, is not exempt from income taxation.
+[Emphasis added.]
+[25] This approach was followed in Lewin of this Court and in Sero and Frazer of the Federal Court of Appeal, supra. In Sero and Frazer, Sharlow J.A. also took into consideration some criticisms about Recalma, but it did not retain any that would change her finding that the investment income was not situated on a reserve. In fact, only Linden J.A., in Recalma, and Tardif J., in Lewin, recognized the possibility that investment income might be generated on a reserve. In Recalma, Linden J.A. stated the following at paragraph 14:
+…The result may, of course, be otherwise in factual circumstances where funds invested directly or through banks on reserves are used exclusively or mainly for loans to Natives on reserves. When Natives, however worthy and committed to their traditions, choose to invest their funds in the general mainstream of the economy, they cannot shield themselves from tax merely by using a financial institution situated on a reserve to do so.
+[Emphasis added.]
+[26] In Lewin, at first instance, Tardif J. stated the following at paragraph 36:
+If it had been a financial institution created solely for the purposes, concerns and needs of the Indians living on the reserve and if the bulk of its income had primarily been reinvested on the reserve to strengthen, develop and improve the social, cultural and economic well-being of the Indians living there, the situation could have been different.
+[27] If we return to the four criteria established by Linden J.A. in Recalma to determine the situs of investment income, the first three criteria must certainly be met, but the fourth is the most important: the extent to which the income is derived from mainstream economic activity or solely or mainly Aboriginal activity. These four criteria are:
+1. the investment income's connection to the reserve (residence, source of income, etc.);
+2. the benefit of the investment income to the traditional Native way of life;
+3. the potential danger to the erosion of Native property;
+4. the extent to which the investment income may be considered as being derived from mainstream economic activity.
+[28] It should be noted that, in Recalma, Hamlyn J. accorded considerable weight to the Appellants’ location of residence but that the Federal Court of Appeal considered the situs of the investment income and its connection to the reserve to have more weight.
+[29] The important question is therefore whether the Caisse’s activities have a connection to the reserve. It is clear from the evidence adduced that the Caisse populaire of the Pointe‑Bleue Reserve is situated on the reserve, that it serves Indian clients, that it hires Indian staff and that Indians sit on its board of directors. However, it must also be acknowledged that the Caisse’s structure and vocation is not exclusively Indian. It has the same objectives as all other credit unions, which are explicitly defined in the legislation governing credit unions. It is a cooperative that anyone may join and it offers its services to all its members, whether they are Indian or not. The Caisse is subject to federal and Quebec legislation. The only distinctive characteristic of this credit union is that it is situated on a reserve and, in my view, that factor carries little weight in this matter.
+[30] In the case at bar, it is obvious to me that the investment income, in the form of the interest paid to the Appellant, had a benefit to the traditional way of life of Indians living on the Obedjiwan or Pointe‑Bleue reserves. However, as Tardif J. pointed out in Lewin, the operations of the credit union that paid the Appellant the interest did not serve only the interests of the reserve and any banking institution situated off the reserve could have provided the same services. He went on to say that the services provided and offered by the credit union on the reserve were basically ordinary services related to the economic aspects of life; they had nothing to do with the Indians’ culture and traditional way of life.
+[31] I do not believe that there is any potential risk here of erosion of Indian property. The investment income is the product of capital invested in the Caisse and that capital is not threatened. It is the growth of that capital and the means used to accomplish that growth that are the object of the last factor, specifically whether the income‑generating activity is tied to the economic mainstream and to what extent.
+[32] The question at issue relates to this last factor, determining the source of the investment income. In the context of this case, the Appellant must show that the investment income was generated on the reserve. To that end, the Appellant tried to show that the Caisse has some autonomy in how it carries out its general operations beyond its obligations to the Federation. He stressed the fact that most of the Caisse’s members are Indians and that it is their capital that the Caisse invests. In my view, the Appellant is trying to show through these arguments the connection between the Caisse and the reserve and, possibly, to identify the source of the Appellant’s income, but does it adequately address the question of how the Caisse generates its investment income?
+[33] It is true that the Caisse loans money to its members and that many of its members are Indians. However, the Caisse has three main sources of income, the first being deposits and investments made with the Federation. Under the legislation, the Federation has an obligation to put these funds in investment funds and liquidity funds that, in turn, are invested in the economic mainstream off the reserve. These investments with the Federation are managed solely by the Federation and the evidence shows that the Caisse populaire de Pointe‑Bleue has had surpluses for several years. The evidence also reveals that approximately 25% of its members’ deposits are invested with the Federation. The remaining 75% constitutes the Caisse’s second source of income and is loaned to its members residing on the reserve and off the reserve, notably in the form of lines of credit and consumer loans. This type of loan by the Caisse is offered to all members, both native and non‑native, living on a reserve or off‑reserve. Ministerial guarantees covering housing loans for Indians are offered to all financial institutions located on or off a reserve and the Caisse populaire de Pointe‑Bleue therefore does not hold a monopoly on housing loans on the Pointe‑Bleue or Obedjiwan reserves. It should also be noted that, based on its financial statements, the Caisse has as many assets invested with the Federation as it has in loans to its members. Lastly, there is the income generated from accessory products, such as administration fees, brokerage fees and others.
+[34] It is true that, in the case at bar, a majority of the members of the Caisse populaire de Pointe‑Bleue appear to be Indians. I say “appear” because customers are not asked when they open an account if they are Indians and the status certificate number is not required. The percentage of Indian members is based on an unofficial evaluation made by the Caisse’s management. Regardless, even if the majority of the Caisse’s clients are Indians, these Indian investors do not control the surpluses invested with the Federation and the Caisse cannot avoid its obligation to make these investments in the economic mainstream. The Caisse’s bylaws cannot prescribe that its board of directors be composed solely of Indians since the legislation governing the Caisse stipulates that members of the board of directors must be elected by the Caisse’s regular members. Accordingly, it is virtually impossible to distinguish this case from Lewin on this point.
+[35] In order for the Appellant’s investment income to be exempt, there would have to be connecting factors and a primary connection to a reserve. That is not the case here. Accordingly, the investment income is not exempt from income tax.
+[36] The appeal is therefore dismissed, except with respect to the penalty imposed under subsection 163(1) of the Act. On that point, the appeal is allowed and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment
+Signed at Ottawa, Canada, this 6th day of December 2007.
+"François Angers"
+Angers J.
+Translation certified true
+on this 8th day of February 2008.
+Monica F. Chamberlain, Reviser
+CITATION: 2007TCC722
+COURT FILE NO.: 2003-4468(IT)I
+STYLE OF CAUSE: Jean-Yves Boivin and The Queen
+PLACE OF HEARING: Roberval, Quebec
+DATES OF HEARING: August 14, 15 and 16, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: December 6, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Sophie-Lyne Lefebvre
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

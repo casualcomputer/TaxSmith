@@ -1,0 +1,327 @@
+Title: Malone v. The King
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521421/index.do
+Corpus path: corpus/cases/tcc/2025/2025-tcc-43-521421-malone-v-the-king.md
+Document type: case_law
+Last modified: 2025-03-27
+
+# Malone v. The King
+
+- Citation: 2025 TCC 43
+- Decision date: 2025-03-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6104, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Malone v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2025-03-27
+Neutral citation
+2025 TCC 43
+File numbers
+2022-1008(IT)I, 2022-2602(IT)I, 2024-96(IT)I
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2024-96(IT)I
+BETWEEN:
+BARRY MALONE,
+Appellant,
+and
+HIS MAJESTY THE KING
+Respondent.
+Appeal heard on common evidence with the appeals of Brandon Malone (2022-1008(IT)I) and Barbara Malone (2022-2602(IT)I) on January 16, 2025 at Ottawa, Ontario
+Before: The Honourable Justice Randall Bocock
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Garth Macdonald
+JUDGMENT
+WHEREAS after conducting the hearing of evidence, receiving submissions from the parties in this and two other related appeals: Brandon Malone, Docket: 2022-1008(IT)I and Barbara Malone, Docket: 2022-2602(IT)I and deliberating upon same, the Court has published its common reasons for judgment;
+NOW THEREFORE THIS COURT ORDERS THAT:
+The appeal in respect of the Appellant’s 2006, 2010, 2011 and 2012 taxation years is dismissed because the Appellant did not have donative intent, at law, to make a charitable gift; and,
+There shall be no costs.
+Signed at Ottawa, Ontario this 27th day of March 2025.
+“R.S. Bocock”
+Bocock J.
+Docket: 2022-1008(IT)I
+BETWEEN:
+BRANDON MALONE,
+Appellant,
+and
+HIS MAJESTY THE KING
+Respondent.
+Appeal heard on common evidence with the appeals of Brandon Malone (2022-1008(IT)I) and Barbara Malone (2022-2602(IT)I) on January 16, 2025 at Ottawa, Ontario
+Before: The Honourable Justice Randall Bocock
+Appearances:
+Agent for the Appellant:
+Barry Malone
+Counsel for the Respondent:
+Garth Macdonald
+JUDGMENT
+WHEREAS after conducting the hearing of evidence, receiving submissions from the parties in this and two other related appeals: Barry Malone, Docket: 2024-96(IT)I and Barbara Malone, Docket: 2022-2602(IT)I and deliberating upon same, the Court has published its common reasons for judgment;
+NOW THEREFORE THIS COURT ORDERS THAT:
+The appeal in respect of the Appellant’s 2009, 2010, 2011, 2012 and 2013 taxation years is dismissed because the Appellant did not have donative intent, at law, to make a charitable gift; and,
+There shall be no costs.
+Signed at Ottawa, Ontario this 27th day of March 2025.
+“R.S. Bocock”
+Bocock J.
+Docket: 2022-2602 (IT)I
+BETWEEN:
+BARBARA MALONE,
+Appellant,
+and
+HIS MAJESTY THE KING
+Respondent.
+Appeal heard on common evidence with the appeals of Barry Malone (2024-96(IT)I) and Brandon Malone (2022-1008(IT)I) on January 16, 2025 at Ottawa, Ontario
+Before: The Honourable Justice Randall Bocock
+Appearances:
+Agent for the Appellant:
+Barry Malone
+Counsel for the Respondent:
+Garth Macdonald
+JUDGMENT
+WHEREAS after conducting the hearing of evidence, receiving submissions from the parties in this and two other related appeals: Barry Malone, Docket: 2024-96(IT)I and Brandon Malone, Docket: 2022-1008(IT)I and deliberating upon same, the Court has published its common reasons for judgment;
+NOW THEREFORE THIS COURT ORDERS THAT:
+The appeal in respect of the Appellant’s 2006, 2007, 2009, 2010 and 2012 taxation years is dismissed because the spousal donor transferring the purported charitable gift amounts did not have donative intent, at law, to make a charitable gift; and,
+There shall be no costs.
+Signed at Ottawa, Ontario this 27th day of March 2025.
+“R.S. Bocock”
+Bocock J.
+Citation: 2025 TCC 43
+Date: 20250327
+Docket: 2024-96(IT)I
+BETWEEN:
+BARRY MALONE,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent;
+Docket: 2022-1008(IT)I
+AND BETWEEN:
+BRANDON MALONE,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent;
+Docket: 2022-2602(IT)I
+AND BETWEEN:
+BARBARA MALONE,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+COMMON REASONS FOR JUDGMENT
+Bocock J
+I. Introduction and Disallowed Deductions [1] Barry (“Barry”), Barbara (“Barbara”) and Brandon (“Brandon”) Malone (the “Malones”) bring these appeals concerning the following claimed charitable donation amounts relating to sums given to the Global Learning and Gifting Initiative (“GLGI”). The Minister says the claimed amounts do not comply with the necessary Income Tax Act (the “Act”) provisions and other legal principles concerning charitable gifts and therefore are not eligible as charitable deductions.
+Year
+Barry
+Barbara
+(spousal amounts transferred from Barry)
+Brandon
+2006
+35,057
+11,940
+N/A
+2007
+N/A
+24,019
+N/A
+2009
+N/A
+29,620
+18,521.56
+2010
+43,800
+20,052
+20,428.48
+2011
+35,000
+N/A
+28,486.29
+2012
+28,000
+5,317
+31,491.90
+2013
+N/A
+6,000
+43,028.63
+II. The GLGI Documents and Procedure [2] GLGI likely competes for the title of most litigated charitable donation program/initiative/scheme/sham (depending on one’s perspective) before the Tax Court. The program’s longevity is notable as well; the seminal lead case concerning GLGI was heard and decided a decade ago by Justice Pizzitelli in Mariano.[1]
+The documents [3] Without variation, save for the amounts of cash and charitable gifts purportedly donated by each specific taxpayer, the documents used by the GLGI promoters in Mariano are the underlying documents used in each of the Malones’ GLGI appeals before this Court. Those operative “transactional” documents common to the donations are as follows:[2]
+a)an “Information Sheet” containing critical personal information about the participant disclosing the amount of the cash payment that would be made to one of the list of Charities;
+b)an “Application for Consideration as a Capital Beneficiary of the Global Learning Trust (2004)” (the “Application”) requesting that the participant be approved as a capital beneficiary of the Trust and, if so approved, that the participant receive a distribution of properties in the nature of educational courseware with a specified monetary value;
+c)“Direction One”, authorizing Escrowagent: to deliver the Application to the trustee of the Trust, and also arrange for the delivery of the Deed of Gift of Property, to date or amend the date of certain documents; and, to arrange for the delivery of charitable donation receipts;
+d)“Direction Two”, authorizing Escrowagent: to arrange for the delivery of the Deed of Gift of cash together with the cheque; to date or amend the date of certain documents; and, to arrange for the delivery of charitable donation receipts;
+e)a “Deed of Gift of Property” addressed to one of the Charities stating that the Appellants are the legal and beneficial owner in possession and control of the educational courseware disclosed;
+f)a “Deed of Gift” addressed to one of the Charities for a sum to be completed;
+g)an acknowledgment to obtain independent legal advice and waiver and release of GLGI and other related entities (“Waiver”);
+h)a cheque to the Escrowagent; and,
+i)a cheque payable to a charity, which was post-dated to four days after the date of the Application, (the “Cash Donation”).
+The method [4] Simplistically, the GLGI program asks and requires a taxpayer to participate in a leveraged donation scheme from which each donor expected to receive, in return for their cash donation, software licences having an expected value of three to eight times greater than the cash donation. The taxpayer then donates those software licences to another registered charity, resulting in a tax receipt that entitles the taxpayer to claim an inflated tax credit.
+The process [5] The documentary complexity under the GLGI donation program involved a process where (with occasional version name changes depending on the version of the program):
+a)GLGI’s offshore company, Phoenix Learning Corporation (“Phoenix”) acquired software licences consisting of several courseware titles at nominal value from a Florida corporation, Infosource Inc.;
+b)Phoenix then gifted most of the licences to a Canadian trust, Global Learning Trust 2004 (the “Trust”);
+c)The taxpayer made a donation, in the form of a cheque, to another GLGI charity;
+d)The taxpayer submitted the pre-arranged documents (described in paragraph 3 above) to the Trust and was accepted as a capital beneficiary of the Trust;
+e)The GLGI charity cashed the taxpayer’s cheque only after the taxpayer purportedly became a beneficiary of the Trust;
+f)The Trust, in turn, gave the taxpayer rights to education software licences to a number of licences proportional to the taxpayer’s cash donation.
+g)The taxpayer then donated these software licences to a charity associated (Malvern Rouge in these appeals) with the GLGI program;
+h)Upon completion, the taxpayer was issued tax receipts for both the cash donation and the theoretically appraised market-value of the software donation; and,
+i)As a result of the cash donation and the in-kind donation of licences, the taxpayer received donation receipts for several times the amount donated, leading to a charitable tax credit that was much higher than the initial cash donation.
+The arithmetic
+[6] The following is a simple example to illustrate how the GLGI program quantitatively operated. An individual makes a cash donation to Millenium of $1,000. After being accepted as a capital beneficiary of the Trust, the individual would receive software licences with a total market value of $4,000. The individual, in turn, would donate the software licenses to a participating Canadian charity and receive a donation receipt for both the $1,000 cash donation and the $4,000 in-kind donation.
+[7] These three appeals are no different: the structure, process and documents apply to the Malones just as they did to the multiple taxpayers before the Tax Court in Mariano [3] and to many subsequent appeals. No argument was advanced by the Malones of any documentary variation from this Mariano, or appropriately GLGI, rubric.
+III. Why Barry says the Malone appeals are different [8] Barry marshalled various arguments before the Court; Barry acted on his own behalf and as agent for his spouse, Barbara, and for his son, Brandon. The arguments may be summarized as follows:
+1)The Malones had donative intent. They intended to enrich the lives of disadvantaged Canadians through charitable giving. The Malvern Rouge charity, which received the software, enriched the lives of their recipients. The “win/win” scenario of the Malones’ tax refunds, on one hand, and the benefits to needy recipients of Malvern Rouge’s charitable works, for the Appellants on the other, was always prominent under GLGI (“Win/Win scenario and donative intent”).
+2)GLGI was a registered charity, CRA processed tax returns as filed and paid refunds to GLGI participants for years. The time lapse in ultimately disallowing the charitable deductions is unfair and encouraged further donations because of taxpayers’ reliance caused by CRA’s passive and delayed approach (“CRA delay”).
+3)The receipt of valid charitable donation receipts in excess of cash outlays is not prohibited, but specifically allowed by the Act. (“The Act allows charitable receipts in excess of cash value.”)
+4)Barry also asserts the software was owned by him and the others: an internet portal allowed him access to his property, and only his lack of technological prowess prevented him from comprehending its importance and value (“The Malones owned and possessed the gifted software”).
+5)The software had a value equal to the value assigned by the in-kind charitable receipts as witnessed by appraisals placed before the Court by the Malones (“Software licenses had value”).
+IV. The settled law in Mariano [9] In Mariano, Justice Pizzitelli analyzed five legal issues relating to the taxpayers’ denied charitable contributions, namely:[4]
+a)Whether the taxpayers made any gifts to the charities within the meaning of section 118.1 of the Act;
+b)Whether the Trust was a valid trust at law;
+c)Whether the GLGI program and all its transaction steps constituted a sham;
+d)Whether the fair market value of the licences donated matched what the taxpayers claimed if the first two issues were answered in the affirmative and the third in the negative; and
+e)Whether subsections 248(30) to (32) of the Act applied and thus reduced the eligible amounts of the gifts to nil?
+No gifts were made [10] On the first issue of the cash and in-kind donations as gifts under section 118.1 of the Act, Justice Pizzitelli outlined the necessary elements of a gift, with reference to Friedberg v R.[5] Specifically, Justice Pizzitelli found that there were three requisite elements of a gift:
+a)there must be a voluntary transfer of property;
+b)the property transferred must be owned by the donor; and
+c)there must be no benefit or consideration to the donor, which has been taken to mean that the donor had “donative intent”.[6]
+[11] After reviewing the marketing of the scheme and the makeup of the transactional documents, Justice Pizzitelli concluded that a person participating in the GLGI program expected to profit from, be enriched or not be impoverished by participation and thus did not have the requisite donative intent to make a gift of cash or licenses.[7] GLGI program participants knew that their cheque for the cash contribution would not be cashed until the participant was notified that they were accepted as capital beneficiaries of the Trust and would thus be receiving the license distribution for further gifting.[8]
+Trust not valid [12] Regarding ownership of the software licenses, Justice Pizzitelli also found that the taxpayers could not have owned the licenses, as they could not have identified the number and type of such licenses.[9] The taxpayers would only be aware of the purported value of the software licenses they were to receive and could not identify the specific property they purported to own.[10] Therefore, the taxpayers could not voluntarily give a property they did not know of or had no way of specifically identifying.[11]
+[13] Justice Pizzitelli found the Trust failed for lack of certainty of objects and was not a valid trust.[12] Certainty of objects did not exist because the class of beneficiaries was too wide to form any class and the Trustee could not be sure who was in or out of the class of beneficiaries at any time.[13] The Trustee had no access to confidential tax information on the taxpayers, and the class of capital beneficiaries changed from year to year.[14]
+[14] Justice Pizziteli also concluded, even if the Trust were valid, the taxpayers could not have received ownership and transfer of the licences from the Trust because there was no proper distribution of capital property.[15] The Trustee did not exercise its obligation to determine the amount of property to be distributed to any capital beneficiary or even determine who the capital beneficiaries were and was in violation of its duties under the Trust Deed and its statutory and common law duties.[16] Because of the long-established principle that the failure of the required exercise of discretion of a trustee renders the decisions ineffective, the taxpayers were not properly approved capital beneficiaries nor was there a proper distribution of property of the Trust.[17]
+Valuation of the licenses [15] Mariano also dealt with the valuation of the licenses. The taxpayers claimed the in-kind donation for software licenses that ranged in value of $100-200 per license. Justice Pizzitelli concluded that the licenses had a value of between 13 cents and 26 cents each.[18] The Appellant’s expert report was unreliable[19] because the expert valued the wrong asset,[20] considered the wrong market,[21] and failed to consider the effect of supply of the licenses in the market.[22] The appraisals provided by the Malones in these appeals were those very appraisals.
+Eligible amounts deeming Rules not applicable [16] After determining the fair market value of the licences to be nominal and valued around 13 to 26 cents, Justice Pizzitelli found he did not have to consider the last issue of deeming rules under subsections 248(30) to (32) of the Act and whether the subsections apply to reduce the eligible amounts of the gifts to nil.
+V. Analysis and Decision [17] The Court receives and analyzes the arguments of Barry regarding his family’s appeals below. In doing so, it identifies the following:
+1)Mariano was heard over 25 days, utilized an identical documentary record to that in this appeal and involved multiple taxpayers who executed identical documents.
+2)In Sullivan,[23] the Supreme Court of Canada laid down the basis upon which courts of similar jurisdiction should rely upon stare decisis and consistently apply the law to mostly identical facts. This concept is known as judicial comity. The doctrine conjointly ensures consistency of outcome and efficiency before the courts.
+3)Judicial comity cannot apply if there are certain dissimilarities.
+[18] The Court concludes that in this appeal there are no such disparities or dissimilarities between these appeals and Mariano. It may apply the findings in Mariano to these appeals.
+[19] Specifically, the Court wishes to address Barry’s submissions in light of the foregoing.
+Win/Win scenario and donative intent [20] In Mariano, Justice Pizzitelli considered the three requisite elements of a gift, based on the Federal Court of Appeal decision of Linden J.A. in The Queen v Friedberg, 1991 CanLII 14017 (FCA), 92 DTC 6031, at page 6032, (affirmed by the Supreme Court of Canada). Those elements of a gift are that: “1. there must be a voluntary transfer of property; 2. the property transferred must be owned by the donor; and 3. there must be no benefit or consideration to the donor, which element has, in later jurisprudence, been taken to mean that the donor must have had “donative intent”.”[24]
+[21] Regarding element 3, Justice Pizzitelli found that having donative intent requires the donor intending to impoverish themselves or “grow poorer” from the gift.[25]
+[22] Justice Pizzitelli concluded the issue of whether the taxpayer ever even made a gift (due to a lack of donative intent) by stating:
+[49] In the end, I cannot see how any person participating in such a scheme, regardless of whether such person had an honest belief in the value of the Licences he expected to receive or not, can argue, based on the manner in which the scheme was marketed and in the makeup and integration of the Transactional Documents that deliver it, that he or she expected none other than to profit from, be enriched or not be impoverished by, such participation, and thus not have the requisite donative intent.
+[…]
+[50] The Appellants did not have the donative intent to make the gifts of cash or Licences.[26]
+[23] Regarding the Malones’ intention to enrich the lives of Canadians, that point was also addressed by Justice Pizzitelli in Mariano:
+[27] The Appellants suggest that their separate gifts were motivated by their desire to help others in need. Mr. Moshurchak [a co-appellant in Mariano] specifically testified that, as a teacher, he saw the value in his students being taught how to use computers and software and saw the Program as a way to extend that valuable skill to adults who could not afford to buy such software or be taught by teachers like him. Mrs. Mariano testified that she was motivated by her desire to help others as well.
+[28] While I appreciate the subjective intention of the appellants must always be considered, such stated intention is not determinative but must be based in some objective reality. The Supreme Court of Canada in Symes v Canada, 1993 CanLII 55 (SCC), [1993] 4 SCR 695 described the analysis of intention to be undertaken, at page 736, as follows:
+As in other areas of law where purpose or intention behind actions is to be ascertained, it must not be supposed that in responding to this question, courts will be guided only by a taxpayer’s statements, ex post facto or otherwise, as to the subjective purpose of a particular expenditure. Courts will, instead, look for objective manifestations of purpose, and purpose is ultimately a question of fact to be decided with due regard for all of the circumstances. …
+[29] Unfortunately, not only is the Appellants’ own evidence more consistent with a stated intention of receiving a benefit other than the moral gift of giving, the evidence from their testimony and documentary evidence and other relevant circumstances strongly suggests the Appellants did not have an intention to impoverish themselves but, rather, to profit from their participation in the program.[27]
+[24] Further, all participants in the GLGI program knew that their cheque for the cash contribution would not be cashed until the participant was notified that they were accepted as capital beneficiaries of the Trust and would thus be receiving the license distribution for further gifting.[28] The cash contribution (donation) was concomitant on being accepted into the GLGI program.
+[25] In summary, regarding this first argument by Barry, the Court in Mariano found that the appellants did not intend to impoverish themselves, but rather expected to profit from the GLGI program. Further, the subjective intent of the taxpayer to enrich others, or help those in need, is not determinative of intention. In Mariano, the Court found that the entirety of the evidence and all the circumstances strongly suggested the appellants objectively did not intend to impoverish themselves. If the donor was not accepted as a beneficiary of the Trust, then their cheque would not be cashed.
+[26] Barry also submitted to the Court that the GLGI program was a “win-win” because he was able to both help those in need, and obtain a large tax refund. Simply, this conclusion conflicts with the law. Expecting to obtain a large tax refund in excess of the cash contributions and for no further given value entirely contradicts an expectation to impoverish oneself, in this case that would be each of the Malones who donated.
+CRA delay [27] The argument of delay by the CRA was addressed by Justice Graham in Johnson v Her Majesty the Queen.[29] Justice Graham stated that:
+[17] The Minister’s actions in registering a charity or failing to revoke the registration of a charity are irrelevant to the determination of the validity or correctness of the Appellant’s reassessments. Any error made by the Minister in registering the charities or in failing to revoke their registration would have no impact on the validity or correctness of the reassessments. Either the donations were valid or they were not. The Minister’s actions or lack thereof will not change this. The Appellant was assessed based on what he did, not on what he might have done had the charities not been registered.[30]
+[28] Justice Graham further stated that the “fact that a tax shelter number has been issued in no way guarantees that taxpayers who participate in the shelter will obtain the tax benefits that they expect.”[31] Frankly, even the Acknowledgment prepared by GLGI promoters and produced by Barry warns of this as does the explicit T5003 Statement of Tax Shelter Information.
+[29] Additionally on this argument, Justice Graham noted that:
+[22] Most importantly, the CRA’s actions in warning or failing to warn taxpayers about the GLGI tax shelter are irrelevant to determining the validity or correctness of the Appellant’s reassessments. Either the Appellant’s donations were valid or they were not. No warning or lack thereof will change this.[32]
+[30] Another case of relevance to the argument that the CRA acted improperly is Kloppers v R.[33] In that case, several taxpayers sought an order that would allow their appeals on the basis of abuse of process.[34] The taxpayers alleged three arguments: i) the Minister intentionally failed to handle objections with due dispatch, ii) the Minister strategically confirmed GLGI reassessments slowly; and iii) the Minister intentionally elongated the litigation process.[35] While Justice Graham acknowledged that the Minister was confirming GLGI reassessments slowly and was not forthright about her plans to dispose of all GLGI objections, Justice Graham ultimately concluded that those actions did not amount to an abuse of process and overall no abuse of process occurred.[36]
+[31] Objectively, the Malones’ argument is substantially the same argument as that above, and Justice Graham’s comments in Johnson and Kloppers are relevant and undisturbed on this point.
+[32] The Court has stated it is not the Minister’s conduct that is at issue, it is the correctness of the assessment. As such, strategic delay or intransigence does not transform an otherwise ineligible charitable donation into an eligible one.
+The Act allows cash plus receipts in excess of cash value and the software licenses had value [33] Although an in-kind gift may be donated to a charity, and an eligible donation receipt received for the fair market value of the gift-in-kind, Justice Pizzitelli found that the value of each license in the GLGI program ranged between 13 cents to 26 cents, dependent on the year in issue.[37] For participants who assigned their licenses after September 16, 2005, the value was 26 cents.[38] That was the actual market value of the Malones’ purported gifts, not the comparatively, massively inflated values assigned by the promoters of GLGI contained in the proffered appraisals submitted by Barry. The Court also notes that the precise appraisals submitted by Barry were misaligned with the program version years. In any event and as noted, the value of the gifted property-in-kind was nominal and infinitesimally small compared to the amount claimed as the value of the in-kind donation.
+The Malones owned and possessed the gifted software [34] In Mariano, referencing the appellant Mr. Moshurchak, Justice Pizzitelli stated:
+“Moreover, aside from testifying he went online to ensure CCA was a registered charity and phoned it to make sure they were in operation, he does not appear to have made any effort to investigate their use of the Licences, whether and how they converted them to CD Rom or how they distributed them.”[39]
+[…]
+“He seems not even to question the fact that two of the courseware products, the MCSE and A+ were highly technical software designed for advanced users for certification of computer hardware systems and multiple users, as earlier described, a far cry from the How to use Microsoft basic programs the other products referred to.”[40]
+[…]
+“However, it also begs the question of how a donor can gift a property that has not yet been identified or own what he can’t identify. One can argue that the direction, at best, amounts only to a gift of value, not specific property, especially since the makeup of the number of Licences was not yet known. It defies logic and common sense to suggest someone can have the donative intent to give something he cannot even identify yet.”[41]
+[35] Barry’s own description of the software was vague and inexact. He admitted it was impressive but inscrutable. And quite apart from that, there is no evidence of his actual possession, dominion or control over this “mysterious software”. Limited viewing over the internet never reaches that threshold. The Minister’s assumption in this regard is unassailed.
+Conclusion [36] Barry still proclaims the legality, value and worth of GLGI as an eligible charitable donation. He finds no fault with GLGI and its worthy goals. His concluding rebuttal submissions trumpeted these very concepts. With faint hope, the Court repeats for the Malones that:
+Barry and Brandon were enriched by a tax refund far in excess of their cash outlay; they were not impoverished as a result of their “donation”;
+Barry and Brandon did not have donative intent since they were enriched by giving (see paragraph 1, above);
+Barry and Brandon did not own the in-kind software they attempted to give;
+One cannot give what one does not own: from the law latin, nemo dat quod non habet;
+Regardless of 3 and 4 above, the software was worth a fraction of its “receipted value” and there is no reliable evidence to suggest otherwise;
+The trust failed at law because it did not achieve the 3 certainties; without a valid trust, there was no trustee, beneficiaries or trust property; and,
+The provision of a tax shelter number and the length of the CRA investigation and delayed revocation of GLGI’s charity registration is irrelevant, and, in any event, were likely predetermined by the complexity, size and depth of the GLGI scheme invented by the promoters and subscribed to by the Malones.
+Too good to be true?: it invariably is [37] Many Canadians have succumbed to the wiles of GLGI promoters. For all those who have, the outcome will not differ from those in Mariano or in the Malones’ appeals. Although, too late for GLGI participants, then perhaps as a guide to those who wish to participate in similar programs in future, the Court cautions:
+If one gains something more than a charitable receipt equal to (and not greater than) the value of the cash and/or properly valued gift-in-kind, then the transferred property is not a charitable gift, at law, and does not qualify under the Act as an eligible charitable deduction;
+If one is asked to sign an Information Sheet, Deed of Gift, Deed of Gift of Property, Direction One, Direction Two, Application and Waiver, there are many legal results, one of which is likely not that of a qualified charitable gift warranting an eligible charitable tax receipt.
+Generally, a tax shelter number is less of a gold star and more of a red flag for the CRA; and,
+Avoid fast talking, smooth “people of commerce” promoting charitable donation “programs” who may omit the fact they are being paid to promote the program.
+A sad and correct result [38] The Malones join the ranks of hundreds, even thousands of GLGI participants, stripped of their cash, denied their inflated “charitable donation amounts” because the gifts were not charitable and, therefore, not eligible for the promised charitable deductions. They now face arrears of debt comprised of tax and interest arrears to the Minister. This is most unfortunate. Importantly, in such instances, burdened taxpayers should take heed that the Minister of National Revenue, as custodian of the national treasury, represents also the Canadian taxpayers who did not participate in GLGI in order to obtain inflated tax receipts and, in turn, undeserved and unauthorized tax refunds. Again, it is a regrettable result, but a correct one.
+[39] For these reasons, the appeals are dismissed accordingly, all without costs.
+Signed at Ottawa, Ontario this 27th day of March 2025.
+“R.S. Bocock”
+Bocock J
+CITATION:
+2025 TCC 43
+COURT FILE NOs.:
+2024-96(IT)I
+2022-1008(IT)I
+2022-2602(IT)I
+STYLES OF CAUSE:
+BARRY MALONE v HIS MAJESTY THE KING
+BRANDON MALONE v HIS MAJESTY THE KING
+BARBARA MALONE v HIS MAJESTY THE KING
+PLACE OF HEARING:
+Ottawa, Ontario
+DATES OF HEARING:
+January 16, 2025
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Randall Bocock
+DATE OF JUDGMENT:
+March 27, 2025
+APPEARANCES:
+Agent for the Appellants, Barbara Malone and Brandon Malone
+Barry Malone
+For the Appellant, Barry Malone:
+The Appellant himself
+Counsel for the Respondent:
+Garth Macdonald
+COUNSEL OF RECORD:
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] Mariano v HMQ 2015 TCC 244.
+[2] As summarized from Walby v HMQ 2013 TCC 164 at paragraph 23(a) through (k) which list conforms to the documents in these appeals; itself being an itemized list of documents referred to in Mariano, supra, at para. 9.
+[3] Mariano, supra.
+[4] Ibid at para 3.
+[5] [1991] FCJ No 1255, [1992] 1 CTC 1 (FCA).
+[6] Mariano, supra note 1 at para 17.
+[7] Ibid at para 48-50.
+[8] Ibid at para 38.
+[9] Ibid at para 51.
+[10] Ibid at para 51.
+[11] Ibid at para 51.
+[12] Ibid at para 81.
+[13] Ibid at para 78.
+[14] Ibid at para 78.
+[15] Ibid at para 73.
+[16] Ibid at para 71.
+[17] Ibid at para 71, 73.
+[18] Ibid at para 144.
+[19] Ibid at para 97.
+[20] Ibid at para 101.
+[21] Ibid at para 109-111.
+[22] Ibid at para 117.
+[23] R v Sullivan, 2022 SCC 19; [2022] 1 SCR. 460.
+[24] Mariano, supra, at para. 17.
+[25] Ibid at para 19.
+[26] Ibid at paras 49-50.
+[27] Ibid at paras 27-29.
+[28] Ibid at para 38.
+[29] Johnson v HMQ, 2022 TCC 31.
+[30] Ibid, at para 17.
+[31] Ibid, at para 21, citing Moledina v HMQ, 2007 TCC 354, at para 9.
+[32] Ibid, at para 22.
+[33] Kloppers v HMQ, 2020 TCC 118.
+[34] Ibid at para 2.
+[35] Ibid at para 5.
+[36] Ibid at para 20.
+[37] Mariano, supra note 24 at para 144.
+[38] Ibid.
+[39] Ibid at para 31.
+[40] Ibid.
+[41] Ibid at para 43.

@@ -1,0 +1,173 @@
+Title: Moseley c. Le Roi
+Source: https://norma.lexum.com/tcc-cci/decisions/fr/item/521606/index.do
+Corpus path: corpus/cases/tcc/2026/2026-cci-59-521606-moseley-c-le-roi-fr.md
+Document type: case_law
+Last modified: 2026-03-24
+
+# Moseley c. Le Roi
+
+- Citation: 2026 CCI 59
+- Decision date: 2026-03-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5533, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Moseley c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2026-03-24
+Référence neutre
+2026 CCI 59
+Numéro de dossier
+2024-1825(GST)I
+Juges et Officiers taxateurs
+Ryan Rabinovitch
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2024-1825(GST)I
+ENTRE :
+JOHN MOSELEY,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+Appel entendu le 26 janvier 2026, à Montréal (Québec)
+Devant : L’honorable juge Ryan P. Rabinovitch
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Avocat de l'intimée :
+Me Zehra Dila Erdogan
+JUGEMENT
+L’appel interjeté par l’appelant à l’encontre de la cotisation établie en vertu de la Loi sur la taxe d’accise pour la période de déclaration se terminant le 31 juillet 2019 est accueilli, sans dépens, et la cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément aux motifs ci-joints.
+Signé ce 24e jour de mars 2026.
+« Ryan Rabinovitch »
+Juge Rabinovitch
+Référence : 2026 CCI 59
+Date : 20260324
+Dossier : 2024-1825(GST)I
+ENTRE :
+JOHN MOSELEY,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+MOTIFS DU JUGEMENT
+Juge Rabinovitch
+I. INTRODUCTION [1] Le 11 juillet 2019, l’appelant a acquis un immeuble situé au 917-919, avenue Duluth Est, à Montréal, au Québec, H2L 1B7 (l’« immeuble »), pour un prix d’achat de 425 000 $ (le « prix d’achat ») auprès de deux particuliers (les « vendeurs »). On trouvait un appartement résidentiel au deuxième étage (le « deuxième étage ») et un restaurant abandonné au premier (le « premier étage »). Chaque étage a été acquis pour un prix d’achat de 212 500 $.
+[2] Selon l’acte de vente relatif à l’opération ci-dessus, la fourniture du deuxième étage était exonérée de la TPS, au motif qu’il s’agissait d’un immeuble d’habitation d’occasion, mais la fourniture du premier étage était taxable. Cela dit, comme l’appelant était inscrit aux fins de la TPS, l’acte de vente indiquait que les vendeurs n’étaient pas tenus de percevoir la taxe payable pour la fourniture du premier étage au titre de l’alinéa 221(2)b) de la Loi sur la taxe d’accise (la « LTA »)[1]. L’appelant devait plutôt déclarer l’opération et verser la TPS due conformément au paragraphe 228(4) de la LTA, qui s’applique chaque fois que l’alinéa 221(2)b) s’applique[2].
+[3] Nonobstant ce libellé, l’appelant a finalement conclu que la vente du premier étage était, comme la vente du deuxième étage, exonérée de la TPS parce qu’il avait l’intention de transformer ce premier étage en appartement résidentiel afin de le louer à son fils pour un loyer fixé à la moitié du prix du marché, ce qu’il a fait. L’appelant a précisé qu’immédiatement après la clôture, il a commencé la conversion du premier étage en appartement résidentiel. Pour ces raisons, il n’a payé aucune taxe relative à sa vente. Il n’a pas non plus produit la déclaration visée au paragraphe 228(4).
+[4] Dans son témoignage, que je retiens intégralement, l’appelant a indiqué que le restaurant qui occupait auparavant le premier étage était vacant depuis environ 18 mois lorsqu’il a acheté l’immeuble.
+[5] De plus, à l’audience, l’intimé a déposé en preuve une lettre selon laquelle Revenu Québec avait, le 11 février 2020, annulé l’inscription à la TPS de l’appelant avec effet rétroactif au 14 septembre 2006[3]. Il convient de noter que cette inscription n’avait pas été obtenue en lien avec l’achat de l’immeuble par l’appelant.
+[6] Le 11 décembre 2023, Revenu Québec a établi à l’égard de l’appelant une cotisation de 10 625 $ au titre de la TPS (5 % de la part du prix d’achat attribuable au premier étage), et a imposé une pénalité de 425 $ pour non-production en vertu du paragraphe 280.1 de la LTA. L’appelant a déposé un avis d’opposition à la cotisation et, lorsque celle-ci a été confirmée, il a interjeté appel devant notre Cour.
+II. ANALYSE 1. Nature exonérée/taxable de la fourniture du premier étage a. Exonérations des immeubles d’habitation [7] Comme il en est question plus haut, l’appelant estime que la fourniture du premier étage n’était pas assujettie à la TPS parce qu’il avait l’intention de transformer ce premier étage en appartement résidentiel, ce qu’il a fait. Je ne partage pas cet avis.
+[8] Selon la LTA, toutes les fournitures taxables sont assujetties à la TPS[4]. Une « fourniture taxable » est définie comme une fourniture effectuée dans le cadre d’une activité commerciale[5], et une « activité commerciale » est à son tour définie comme une entreprise, un projet à risque et/ou affaire de caractère commercial ou la fourniture d’un immeuble, sauf dans la mesure où ceux-ci impliquent la réalisation d'une fourniture exonérée[6]. Ainsi, toutes les fournitures d’immeubles sont assujetties à la TPS, sauf si elles constituent des fournitures exonérées.
+[9] Le terme « fourniture exonérée » est défini dans la LTA comme une fourniture figurant à l’annexe V de la LTA[7]. De plus, les articles 2 à 5.2 de la partie I de l’annexe V visent une variété de « fournitures par vente » d’un « immeuble d’habitation ». Néanmoins, ce ne sont pas toutes les fournitures d’immeubles d’habitation qui sont exonérées. Chacune des dispositions en cause impose certaines conditions. Ayant examiné ces conditions, j’estime qu'il est peu probable que les exonérations en question soient applicables en l’espèce même si le premier étage avait constitué un immeuble d’habitation au moment de sa vente.
+[10] Plus fondamentalement, toutefois, ce n’était pas le cas. Notre Cour a statué à plusieurs reprises que, pour être visé par l’exonération pour immeubles d’habitation prévue dans la partie I de l’annexe V, le bien en question doit déjà être un immeuble d’habitation au moment de sa vente à l’acquéreur, et que l’usage prévu par l’acquéreur n’est pas pertinent à cet égard[8].
+[11] La LTA définit le terme « immeuble d’habitation » comme s’entendant d’un bien qui est ou comprend une « habitation[9] », et le terme « habitation » s’entend d’un bien qui est, selon le cas : 1) occupé à titre résidentiel ou d’hébergement; 2) fourni par bail, licence ou accord semblable, pour être utilisé à titre résidentiel ou d’hébergement; 3) vacant et dont la dernière occupation ou fourniture était à titre résidentiel ou d’hébergement; 4) destiné à servir à titre résidentiel ou d’hébergement sans avoir servi à une fin quelconque[10]. Le premier étage ne répondait à aucune de ces exigences le 11 juillet 2019, date à laquelle l’immeuble a été vendu à l’appelant. Par conséquent, il ne s’agissait pas d’une habitation ou d’un immeuble d’habitation.
+b. L’exonération prévue au paragraphe 9(2) [12] Cela dit, une autre question qui se pose est celle de savoir si l’exonération prévue au paragraphe 9(2) de la partie I de l’annexe V s’appliquait à la vente du premier étage. Cette exonération vise la fourniture par vente d’un immeuble effectuée par un particulier, sauf si l’une des nombreuses exceptions s’applique. Les exceptions ont une portée assez large et, pour cette raison, le paragraphe 9(2) est parfois considéré comme ne s’appliquant qu’aux ventes de terrains vacants par un ou plusieurs particuliers. Cela dit, la disposition ne le précise jamais explicitement.
+[13] L’exception pertinente en l’espèce est celle prévue à l’alinéa 9(2)(a) qui exclut les fournitures suivantes de l’application du paragraphe 9(2) :
+a) la fourniture d’un immeuble qui est, immédiatement avant le transfert de sa propriété ou de sa possession à l’acquéreur aux termes de la convention concernant la fourniture, une immobilisation utilisée principalement :
+(i) soit dans une entreprise que le particulier ou la fiducie exploite dans une attente raisonnable de profit,
+(ii) soit, si le particulier ou la fiducie est un inscrit :
+(A) pour effectuer des fournitures taxables de l’immeuble par bail, licence ou accord semblable,
+(B) à l’une et l’autre des fins visées au sous-alinéa (i) et à la division (A);
+[14] À première vue, il n’apparaît pas clairement que cette exception s’applique au premier étage, compte tenu du témoignage de l’appelant selon lequel il était vacant lorsqu’il a acquis l’immeuble. Si tel était le cas, pourrait-on vraiment dire que le premier étage était « utilisé », « immédiatement avant » que la propriété ou la possession de l’immeuble ne soit transférée à l’appelant, à l’une des fins visées?
+[15] Selon l’Agence du revenu du Canada (l’« ARC »), la réponse est oui. L’ARC est d’avis que l’on doit toujours considérer qu’un bien a une utilisation. Par conséquent, si un bien qui était utilisé à une fin donnée n’est toujours pas utilisé à une nouvelle fin, il faut présumer qu’il continue d’être utilisé à cette première fin pour l’application de l’alinéa 9(2)a). Autrement dit, l’ARC interprète le terme « utilis[é] » au paragraphe 9(2) comme signifiant « détenu pour utilisation[11] » ou, en fait, « utilisé la dernière fois ».
+[16] Bien que le libellé du paragraphe 9(2) puisse donner à penser le contraire, je conclus en fin de compte que son contexte et son objet étayent cette interprétation.
+[17] Un des principes sous-tendant la LTA en général et le paragraphe 9(2) en particulier est que seules les opérations ayant un certain niveau ou degré de commercialité sont destinées à être assujetties à la TPS. C’est ce qui explique que la TPS est payable uniquement sur les fournitures effectuées dans le cadre d’une activité commerciale[12], que la définition d’activité commerciale exclut les projets à risque et les affaires de caractère commercial qu’entreprend, « sans attente raisonnable de profit, un particulier » (p. ex., les ventes-débarras)[13], et qu’aucune TPS n’est payable sur les ventes réalisées par de petits fournisseurs[14]. C’est aussi l’une des raisons pour lesquelles les fournitures d’habitations neuves par un constructeur sont généralement assujetties à la TPS[15], mais que les fournitures subséquentes par des personnes qui ne sont pas des constructeurs ne le sont généralement pas[16]. La même logique s’applique aux particuliers qui vendent des terrains vacants qui ne sont pas détenus dans le cadre d’activités commerciales ou locatives. Une publication récente du ministère des Finances le précise clairement :
+En règle générale, la TPS s’applique aux habitations et aux parcs à roulottes résidentiels nouvellement construits lorsqu’ils sont vendus ou loués pour la première fois à des fins résidentielles. Les ventes subséquentes d’habitations et de parcs à roulottes résidentiels qui ont déjà été occupés sont exonérées de taxes. De plus, la plupart des ventes d’autres immeubles utilisés à des fins personnelles, tels que les terrains vacants, sont exonérées s’ils sont vendus par un particulier. Cette exonération est conforme au traitement fiscal appliqué aux biens et aux services à usage personnel qui ne sont pas fournis dans le cadre d’une activité commerciale. La vente d’une terre agricole à un proche qui l’acquiert à des fins personnelles est également exonérée [non souligné dans l’original][17].
+[18] Un bien temporairement vacant en raison de la réduction progressive des activités commerciales ou locatives pour lesquelles il était auparavant utilisé ne constitue pas un bien à usage personnel, et la vente d’un tel bien n’est pas une opération non commerciale. Il me semble que cela va de soi, mais ce principe est également énoncé expressément au paragraphe 141.1(3) de la LTA, qui dispose que tout acte accompli à l’occasion de l’aliénation ou de la cessation d’une activité commerciale est réputé avoir été accompli dans le cadre de cette activité.
+[19] Le deuxième principe pertinent quand vient le temps d’appliquer le paragraphe 9(2) est qu’il incombe généralement au fournisseur d’une fourniture exonérée d’assumer le fardeau de la TPS (du moins sur le coup – il sera bien sûr toujours possible de transférer ce fardeau aux acquéreurs des fournitures en question en augmentant le prix). Bien que ces fournisseurs ne soient pas obligés de percevoir la TPS, ils ne sont pas non plus autorisés à demander des crédits de taxe sur les intrants (les « CTI »). L’article 169 l’énonce expressément. L’élément B de la formule utilisée pour calculer les CTI d’un inscrit a pour effet que les CTI peuvent être demandés seulement pour la taxe payée sur les intrants acquis pour être utilisés dans le cadre d’« activités commerciales », lesquelles sont à leur tour définies comme excluant les activités consistant à effectuer des fournitures exonérées[18]. Ce principe a également été approuvé à deux reprises par la Cour suprême du Canada[19]. Ironiquement, il a pour effet que les fournitures exonérées ne sont pas censées être totalement exonérées de TPS. Elles sont assujetties à une taxation partielle, au sens où une taxe irrécouvrable est payée sur leurs intrants et le prix facturé au consommateur reflète souvent cette situation. Il convient de distinguer cette situation de celle des fournitures détaxées. Ces fournitures sont entièrement exonérées, puisqu’aucune TPS n’est payée sur leurs intrants ni sur les fournitures détaxées elles-mêmes.
+[20] Les notes techniques relatives au paragraphe 9(2) précisent qu’il s’agit de la raison pour laquelle la fourniture d’un bien utilisé dans le cadre d’activités commerciales ou locatives est exclue de l’exonération prévue au paragraphe 9(2). Lorsque le sous-alinéa 9(2)a)(ii) a été adopté, le ministère des Finances a écrit ce qui suit :
+Selon l’alinéa 9(2)a) de la partie I de l’annexe V, est exclue de l’exonération prévue au paragraphe 9(2) de cette partie la vente, effectuée par un particulier ou une fiducie personnelle, d’un immeuble qui a été utilisé la dernière fois à titre d’immobilisation principalement dans le cadre d’une entreprise que le particulier ou la fiducie a exploitée dans une attente raisonnable de profit.
+Est également exclue, selon le nouveau sous-alinéa 9(2)a)(ii), la vente d’un immeuble effectuée par un particulier inscrit ou par une fiducie personnelle inscrite, si l’immeuble a été utilisé la dernière fois à titre d’immobilisation principalement lors de la réalisation de fournitures taxables par bail, licence ou accord semblable de l’immeuble, indépendamment du fait que l’immeuble n’a pas été ainsi fourni dans une attente raisonnable de profit. La vente d’un immeuble est aussi exclue de l’exonération si le particulier ou la fiducie est un inscrit et si l’immeuble a été utilisé la dernière fois à titre d’immobilisation principalement pour exploiter une entreprise dans une attente raisonnable de profit et pour effectuer des fournitures taxables par bail, licence ou accord semblable de l’immeuble. Dans ces circonstances, le vendeur aurait eu droit à des crédits de taxe sur les intrants relativement à l’immeuble ou aux améliorations qui y sont apportées. C’est pourquoi il n’est pas justifié d’exonérer la vente ultérieure de l’immeuble [non souligné dans l’original].
+[21] Autrement dit, si la fourniture de biens utilisés la dernière fois dans le cadre d’une activité commerciale ou locative était exonérée, le principe ci-dessus ne serait pas respecté. Le vendeur aurait été en mesure de demander un CTI relativement à un bien finalement fourni lors d’une opération exonérée. Je fais également remarquer que les mots « utilisé la dernière fois » renvoient directement à l’interprétation de l’alinéa 9(2)a) faite par l’ARC.
+[22] Immédiatement avant que l’appelant l’achète, le premier étage était détenu pour être utilisé ou a été utilisé la dernière fois par les vendeurs pour exploiter une entreprise ou effectuer des fournitures taxables par bail[20]. Par conséquent, le paragraphe 9(2) ne s’appliquait pas.
+2. Incidence découlant de l’annulation de l’inscription de l’appelant par Revenu Québec [23] Comme il en est question plus haut, le 11 février 2020, Revenu Québec a informé l’appelant que son inscription avait été annulée rétroactivement au 14 septembre 2006.
+[24] Si cette annulation avait pris effet, elle aurait empêché la vente du premier étage de remplir les conditions énoncées à l’alinéa 221(2)b) de la LTA, puisqu’à l’insu des parties, l’appelant n’aurait pas été un inscrit au moment de la clôture. En conséquence, ce sont les vendeurs qui auraient été tenus de percevoir et de remettre la taxe due pour la fourniture du premier étage, et non l’appelant. L’appelant serait également rétroactivement dispensé de l’obligation de produire une déclaration en vertu du paragraphe 228(4), puisque celui-ci ne s’applique que lorsque l’alinéa 221(2)b) s’applique.
+[25] Tout d’abord, je fais remarquer que je suis quelque peu sceptique quant au pouvoir de Revenu Québec d’annuler rétroactivement l’inscription d’un contribuable[21]. Cela dit, je ne crois pas que notre Cour ait compétence pour statuer sur la validité de sa décision à cet égard. Le pouvoir d’annuler une inscription est prévu au paragraphe 242(1) de la LTA, lequel est rédigé en ces termes :
+Après préavis écrit suffisant donné à la personne inscrite aux termes de la présente sous-section, le ministre peut annuler son inscription s’il est convaincu qu’elle n’est pas nécessaire pour l’application de la présente partie [non souligné dans l’original].
+[26] Ainsi, la décision est discrétionnaire. La Cour suprême du Canada a clairement indiqué dans l’arrêt Canada (Ministre de la Citoyenneté et de l’Immigration) c. Vavilov (« Vavilov »)[22] que, sauf dans certaines circonstances, les décisions discrétionnaires doivent être examinées selon la norme de la décision raisonnable[23]. La Cour a précisé que cela comprend les décisions qui ont trait à l’étendue des pouvoirs conférés par une loi, tant qu’elles ne concernent pas les délimitations des compétences respectives d’organismes administratifs[24]. De plus, la Cour a ajouté dans l’arrêt Dow Chemical Canada ULC c. Canada (« Dow Chemical »)[25] que notre Cour est mal adaptée pour mener ce genre de contrôle[26]. La Cour a également précisé que le fait qu’une décision administrative puisse « avoir une incidence directe » sur l’obligation fiscale d’un contribuable ou puisse être « inextricablement liée » à celle-ci ne signifie pas que la décision fait partie d’une cotisation pouvant être portée en appel devant notre Cour[27]. Finalement, la Cour a indiqué que l’article 18.5 de la Loi sur les Cours fédérales dispose que la compétence exclusive de la Cour fédérale pour procéder à un contrôle judiciaire ne peut être exclue « par implication nécessaire[28] ».
+[27] Ma conclusion à cet égard est renforcée également par l’existence du paragraphe 168(4) de la Loi de l’impôt sur le revenu, qui prévoit un droit d’appel devant notre Cour lorsque le ministre exerce son pouvoir discrétionnaire pour révoquer l’inscription d’organismes de bienfaisance inscrits et d’autres organismes. Il en ressort que, lorsque le législateur souhaite que des décisions du type de celle dont il est question en l’espèce soient examinées par notre Cour, il l’énonce explicitement[29].
+[28] L’intimé a proposé que j’interprète les mots « inscrit aux termes de la sous-section D » à l’alinéa 221(2)b) de manière à inclure une personne dont l’inscription est, dans les faits, valide lorsque l’opération concernée a lieu, et ne cesse de l’être en droit qu’en raison d’une décision de l’annuler rétroactivement. Cette interprétation empêcherait la décision par ailleurs valide de Revenu Québec d’avoir une incidence sur l’analyse en l’espèce.
+[29] Toutefois, je ne crois pas pouvoir adopter une telle interprétation. Cela reviendrait effectivement à conclure que la décision de Revenu Québec est sans effet pour l’application de l’alinéa 221(2)b). Le fondement sur lequel reposent les arrêts Vavilov et Dow Chemical est que le législateur voulait que les organismes gouvernementaux prennent des décisions comme celle-ci sous la supervision de la Cour fédérale. Il est difficile d’imaginer que le législateur aurait en même temps voulu que d’autres cours puissent créer des exceptions à ces décisions au moyen d’un mécanisme d’interprétation des lois. Je note également que les arguments étayant l’interprétation de l’intimé, à savoir la nécessité de protéger des tiers comme les vendeurs qui se sont appuyés de bonne foi sur la validité de l’inscription d’un acheteur, sont essentiellement les mêmes que ceux qui seraient formulés dans une demande de contrôle judiciaire visant la décision du ministre d’agir rétroactivement. Fondamentalement, l’intimé me demande de faire indirectement ce que je ne peux pas faire directement. Ma seule réserve face à cette conclusion est que les tiers concernés seront rarement en mesure de déposer une telle demande, puisqu’ils ignoreront l’annulation rétroactive jusqu’à ce qu’ils fassent l’objet d’une cotisation, et il sera alors trop tard pour le faire. Il s’agit d’un sujet sur lequel le législateur pourrait vouloir se pencher.
+[30] En conséquence, si je suppose, comme je le dois, que l’inscription de l’appelant a été annulée rétroactivement, quel effet concret cela a-t-il sur le présent appel?
+[31] L’annulation rétroactive entraîne un certain effet, mais celui-ci n’est pas considérable sur le plan quantitatif.
+[32] Il est clair depuis un certain temps que le ministre, en vertu de l’alinéa 296(1)b), peut établir une cotisation directement à l’endroit de l’acquéreur d’une fourniture pour toute taxe due à la suite d’une opération. Dans la décision Carlson & Associates Advertising Ltd. c. Canada[30], le juge Hamlyn a écrit ce qui suit :
+L’appelante soutient que le ministre n’a pas le pouvoir d’établir une cotisation directement à son endroit, mais, sauf le respect que je lui dois, j’en arrive à la conclusion inverse. Le paragraphe 165(1) de la Loi impose au fournisseur d’une fourniture taxable l’obligation générale de percevoir et de verser la TPS payable par l’acquéreur de la fourniture taxable. La disposition relative à l’établissement de la cotisation à l’alinéa 296(1)b) de la Loi prévoit la détermination de toute taxe payable par une personne en application de la section II ou IV. Ainsi, l’alinéa 296(1)b) habilite le ministre à établir une cotisation directement à l’endroit de l’acquéreur d’une fourniture taxable afin d’éteindre la dette au titre de la TPS non payée. La possibilité d’une « double taxation » est réduite dans la mesure où le ministre est uniquement habilité à demander le paiement du montant de la TPS non payée, que ce soit par le fournisseur ou par l’acquéreur d’une fourniture taxable, tant que la taxe est payable.
+Une fois que la taxe est payée, il n’y a plus de taxe payable, et ce fait constituerait une défense complète pour faire rejeter toute autre procédure de perception intentée contre l’appelante ou toute autre personne[31].
+[33] Ainsi, bien que l’appelant n’ait pas été tenu de s’autocotiser à l’égard de la taxe due pour son achat du premier étage, la cotisation que le ministre a établie relativement à cette taxe demeure valide.
+[34] Toutefois, il n’en va pas de même pour la pénalité de 425 $. En raison de l’annulation rétroactive de son inscription par Revenu Québec, l’appelant n’était pas tenu de présenter de déclaration conformément à l’alinéa 228(4)b). Il n’y a donc pas eu d’omission de produire une déclaration.
+III. CONCLUSION [35] L’appel est accueilli et sera renvoyé au ministre pour nouvel examen et nouvelle cotisation sur le fondement que l’appelant devait payer la taxe due sur la part du prix d’achat attribuable au premier étage, mais pas les pénalités. Compte tenu du résultat quelque peu mitigé, et du fait que l’appel était régi par la procédure informelle, je n’adjuge aucuns dépens à l’intimé.
+Signé ce 24e jour de mars 2026.
+« Ryan Rabinovitch »
+Juge Rabinovitch
+RÉFÉRENCE :
+2026 CCI 59
+Nº DU DOSSIER DE LA COUR :
+2024-1825(GST)I
+INTITULÉ DE LA CAUSE :
+JOHN MOSELEY ET SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+le 26 janvier 2026
+MOTIFS DE JUGEMENT PAR :
+L’honorable juge Ryan P. Rabinovitch
+DATE DU JUGEMENT :
+le 24 mars 2026
+COMPARUTIONS :
+Pour l'appelant :
+l'appelant lui-même
+Avocat de l'intimée :
+Me Zehra Dila Erdogan
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+N/A
+Cabinet :
+N/A
+Pour l’intimé :
+Marie-Josée Hogue
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Pages 14 et 15 de la pièce R-3.
+[2] Ibid.
+[3] Pièce R-8.
+[4] Article 165 de la LTA.
+[5] Article 123 de la LTA.
+[6] Ibid.
+[7] Ibid.
+[8] Voir, p. ex., Lessard c. Canada, [2000] G.S.T.C. 98; Wotherspoon c. La Reine, 2011 CCI 343, conf. par 2012 CAF 271; et Ko c. La Reine, 2002 CanLII 1068.
+[9] Article 123 de la LTA.
+[10] Ibid.
+[11] Voir les paragraphe 5 à 7 du texte principal et le paragraphe 1 de l’annexe A du document 19-5 de l’ARC « Fonds de terre et immeubles connexes » (octobre 2001).
+[12] Précité, à la note 5.
+[13] Précité, à la note 6.
+[14] Article 166 de la LTA.
+[15] Bien qu’aucune disposition de la LTA ne le précise expressément, il s’agit clairement du résultat des principes énoncés dans le texte accompagnant les notes 4 à 5, ci-dessus, et des conditions énoncées à l’article 2 de la partie I de l’annexe V.
+[16] L’article 2 de la partie I de l’annexe V.
+[17] « Rapport sur les dépenses fiscales fédérales : Concepts, estimations et évaluations 2025 : partie 5 ».
+[18] Précité, à la note 6.
+[19] Au paragraphe 4 de Renvoi relatif à la taxe sur les produits et services, [1992] 2 R.C.S. 445, le juge en chef Lamer s’est exprimé au nom de la majorité :
+Aucune taxe n’est payée par le consommateur final sur les fournitures exonérées et les fournitures détaxées. Toutefois, en ce qui a trait aux fournitures exonérées, le vendeur, tout en payant la TPS sur les achats, n’a pas le droit à un crédit de taxe sur les intrants. En conséquence, dans le cas des fournitures exonérées, la TPS est payée au gouvernement fédéral à l’avant‑dernière étape dans la chaîne de production plutôt que par le consommateur final.
+Le juge Rothstein a formulé des observations semblables au paragraphe 16 de l’arrêt Calgary (Ville) c. Canada, 2012 CSC 20.
+[20] Je suis conscient que le sous-alinéa 9(2)a)(i) précise que les biens visés par l’exception prévue dans la disposition doivent être utilisés dans une entreprise exploitée dans une attente raisonnable de profit. Bien que la réponse ne comporte aucune hypothèse à cet égard, il aurait incombé à l’appelant de prouver que le restaurant qui était exploité auparavant dans l’immeuble n’avait aucune attente raisonnable de profit (Eisbrenner c. Canada, 2020 CAF 93). Il n’a cependant présenté aucune preuve à ce sujet.
+[21] Dans l’affaire Ouazana c. Canada, 2020 CCI 124, le juge Favreau a conclu qu’une personne pouvait être inscrite rétroactivement, mais cela me semble moins susceptible d’entraîner des difficultés, et est donc une chose très différente. Je suis également au fait de la décision du juge Paris dans l’affaire Westborough Place Inc. c. La Reine, 2007 CCI 155, qui concernait une allégation du ministre selon laquelle une facture ne contenait pas tous les renseignements requis par le paragraphe 169(4) puisque l’inscription de l’émetteur avait été annulée rétroactivement. Le juge Paris a conclu que le ministre n’avait pas prouvé que l’inscription de l’émetteur avait effectivement été annulée rétroactivement ni qu’il existait des motifs valables de l’annuler. Bien que cela puisse donner à penser qu’il estimait que des annulations rétroactives étaient possibles, il ne l’a jamais dit explicitement, et la décision dans cette affaire est cohérente avec le point de vue opposé. La décision a également été rendue sous le régime de la procédure informelle, et n’est donc pas contraignante.
+[22] 2019 CSC 65.
+[23] Ibid. par. 23 et suivants.
+[24] Ibid. par. 65 à 68.
+[25] 2024 CSC 23.
+[26] Ibid. par. 8 et 89.
+[27] Ibid. par. 6, 59 et 70.
+[28] Ibid. par. 101.
+[29] Je fais remarquer que des arrêts antérieurs de la Cour d’appel fédérale donnent à penser que notre Cour aurait compétence pour se prononcer sur le type de décision dont il est question en l’espèce (voir, p. ex., Brydges c. Canada (Ministre des Communications), [1992] 2 C.T.C. 411, où le ministre a annulé le visa d’une « production portant visa » pour l’application du paragraphe 1104(2) du Règlement de l’impôt sur le revenu, et Devor c. Canada (Ministre du Revenu national), [1993] 1 C.T.C. 142, qui a trait à la validité d’une renonciation en lien avec certains comportements du ministre). Toutefois, je considère que les arrêts Vavilov et Dow Chemical ont remplacé ces décisions.
+[30] [1997] A.C.I. no 366, conf. par 1998 CanLII 7744.
+[31] Ibid. par. 33 et 34.

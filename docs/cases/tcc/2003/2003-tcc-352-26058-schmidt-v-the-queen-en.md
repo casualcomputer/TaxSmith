@@ -1,0 +1,178 @@
+---
+title: "Schmidt v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26058/index.do"
+last_modified: "2003-05-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 352"
+citation2: ""
+neutral_citation: "2003 TCC 352"
+decision_date: "2003-05-20"
+language: "en"
+item_id: "26058"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4053
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:09:03.017000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "436937c657235c832288995c64adf05c2e3310429b71403e01d13cd050c8b071"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Schmidt v. The Queen
+
+- Citation: 2003 TCC 352
+- Decision date: 2003-05-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4053, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Schmidt v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-05-20
+Neutral citation
+2003 TCC 352
+File numbers
+95-1651(IT)G
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 95-1651(IT)G
+BETWEEN:
+LORE G. SCHMIDT,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on common evidence with the motion of Gunther W. Schmidt (95-3609(IT)G) on December 17 and 18, 2002 at Vancouver, British Columbia
+Before: The Honourable Judge L.M. Little
+Appearances:
+Agent for the Applicant:
+Gunther W. Schmidt
+Counsel for the Respondent:
+David Jacyk
+____________________________________________________________________
+ORDER
+Upon Motion file by the Agent for the Applicant for an Order setting aside the Judgments of the Honourable Judge Gerald J. Rip, dated January 27, 1999 and April 7, 1999 in accordance with section 172(2) and costs;
+And upon hearing what was alleged by the parties;
+The application is dismissed in accordance with the attached Reasons for Order.
+Signed at Ottawa, Canada, this 20th day of May 2003.
+"L.M. Little"
+J.T.C.C.
+Docket: 95-3609(IT)G
+BETWEEN:
+GUNTHER W. SCHMIDT,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on common evidence with the motion of Lore G. Schmidt (95-1651(IT)G) on December 17 and 18, 2002 at Vancouver, British Columbia
+Before: The Honourable Judge L.M. Little
+Appearances:
+For the Applicant:
+The Appellant himself
+Counsel for the Respondent:
+David Jacyk
+____________________________________________________________________
+ORDER
+Upon application for an Order setting aside the Judgments of the Honourable Judge Gerald J. Rip, dated January 27, 1999 and April 7, 1999 in accordance with section 172(2) and costs;
+And upon hearing what was alleged by the parties;
+The application is dismissed in accordance with the attached Reasons for Order.
+Signed at Ottawa, Canada, this 20th day of May 2003.
+"L.M. Little"
+J.T.C.C.
+Citation: 2003TCC352
+Date:20030520
+Dockets: 95-1651(IT)G
+95-3609(IT)G
+BETWEEN:
+LORE G. SCHMIDT,
+GUNTHER W. SCHMIDT,
+Applicants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Little, J.
+A. FACTS:
+[1] On the 11th day of December 2002 the Applicant, Gunther W. Schmidt, filed a Notice of Motion with the Court.
+[2] The Notice of Motion is for an Order to set aside the Judgments of the Honourable Judge Rip dated January 27, 1999 and April 7, 1999.
+[3] In the Notice of Motion the Applicant, Gunther W. Schmidt, maintained as follows:
+a) the Crown failed to make full and proper disclosure of all documents and information as required by the Charter; and
+b) the Crown acted in concert with other parties in the criminal trial to obstruct justice to obtain perjurious evidence.
+[4] Paragraph 2 of the Notice of Motion states:
+That the Judgment in the Tax Court flowed from the same fact on which the Crown obtained convictions in the Provincial Court.
+[5] Paragraph 3 of the Notice of Motion states:
+Material documents were withheld which were relevant and would have changed the outcome of the Tax Court (Massive Non-Disclosure). The Tax Court relied on the Provincial Court Judgment.
+[6] The Notice of Motion was filed under Rule 172(2)(a) of the Tax Court of Canada Rules (General Procedure).
+[7] Rule 172(2) of the Tax Court of Canada Rules (General Procedure) reads as follows:
+(2) A party who seeks to,
+(a) have a judgment set aside or varied on the ground of fraud or of facts arising or discovered after it was made,
+(b) suspend the operation of a judgment, or
+(c) obtain other relief than that originally directed,
+and make a motion for the relief claimed.
+B. ISSUE:
+[8] Should the Court issue an Order to have the Judgments of Rip J., Schmidt v. Canada, [1999] T.C.J. No. 66, Court File Nos. 95-3609(IT)G, 95-1651(IT)G, dated January 27, 1999 and April 7, 1999 set aside?
+C. ANALYSIS:
+[9] It will be noted that the Notice of Motion filed by the Applicant, Gunther W. Schmidt, contains several references to the Judgments of the Provincial Court where the Applicant, Gunther W. Schmidt, was convicted of tax evasion. At the hearing of the appeals the Applicant, Gunther W. Schmidt, stated that the Notice of Motion has nothing to do with his criminal trials. He said that he is pursuing the civil trials, i.e. the Judgments of Judge Rip.
+[10] The Judgment of Judge Rip, Schmidt et al. v. The Queen, 2001 DTC 5218, was appealed to the Federal Court of Appeal. In giving judgment for the Court Décary, J.A. made the following comment at page 5220:
+...I am more than satisfied that Judge Rip, and the Judges who had been involved in this file before him, did everything they could to enable Mr. Schmidt to have access to the documents prior to the hearing and eventually to file at the hearing and even thereafter whatever document he thought was relevant. Mr. Schmidt is obviously of the view that there was some unfairness in the criminal trial that eventually led to his conviction and his imprisonment, but this is not a matter that can be decided in the Tax Court or in this Court.
+On the facts that were before him, it was open to Judge Rip to dismiss the taxpayer's appeal. This appeal should also be dismissed.
+[11] In determining whether the Tax Court can entertain the Notice of Motion filed by the Applicant, Gunther W. Schmidt, I have referred to the decision of Etienne v. Canada et al. (1994), 164 N.R. 318, 76 F.T.R. 43. In the Etienne case it was held by the Federal Court of Appeal that it is inappropriate for a trial judge to deal with an application to amend a judgment on the ground of facts arising or discovered after the judgment was made if the judgment has already been appealed.
+[12] In this situation, as noted above, the Judgments of Rip, J. were appealed to the Federal Court of Appeal and the appeals were dismissed.
+[13] I have considered the Applicant's, Gunther W. Schmidt, motion very carefully and I have concluded on the basis outlined above in the Etienne decision that the Tax Court of Canada has no jurisdiction to hear this matter.
+[14] The applications are dismissed.
+Signed at Ottawa, Canada, this 20th day of May 2003.
+"L.M. Little"
+J.T.C.C.
+CITATION:
+2003TCC352
+COURT FILE NOS.:
+95-1651(IT)G; 95-3609(IT)G
+STYLE OF CAUSE:
+Lore G. Schmidt, Gunther W. Schmidt and Her Majesty the Queen
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+December 17 and 18, 2002
+REASONS FOR ORDER BY:
+The Honourable Judge L.M. Little
+DATE OF ORDER:
+May 20, 2003
+APPEARANCES:
+For the Appellants:
+Gunther W. Schmidt
+Counsel for the Respondent:
+David Jacyk
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

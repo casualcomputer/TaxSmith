@@ -1,0 +1,211 @@
+---
+title: "Drysdelle c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27791/index.do"
+last_modified: "2007-07-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 390"
+citation2: ""
+neutral_citation: "2007 TCC 390"
+decision_date: "2007-07-18"
+language: "en"
+item_id: "27791"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 271
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:53:45.648000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "eac63599152b88401afbb4b5fe11930ead231eb205765a827c71fb4c70306e78"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Drysdelle c. La Reine
+
+- Citation: 2007 TCC 390
+- Decision date: 2007-07-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 271, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Drysdelle c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-07-18
+Neutral citation
+2007 TCC 390
+File numbers
+2006-2725(IT)I
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-2725(IT)I
+BETWEEN:
+RAYMONDE DRYSDELLE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on June 14, 2007, at Miramichi, New Brunswick
+Before: The Honourable Justice François Angers
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Christina Ham
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessments made under the Income Tax Act in respect of the 2002, 2003 and 2004 taxation years is dismissed.
+Signed at Edmundston, New Brunswick, this 18th day of July 2007.
+"François Angers"
+Angers J.
+Translation certified true
+on this 16th day of August 2007.
+Brian McCordick, Translator
+Citation: 2007TCC390
+Date: 20070718
+Docket: 2006-2725(IT)I
+BETWEEN:
+RAYMONDE DRYSDELLE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers J.
+[1] By notices of assessment dated May 29, 2003, March 18, 2004, and March 3, 2005, the Minister of National Revenue ("the Minister") determined the Appellant's tax liability for the 2002, 2003, and 2004 taxation years, respectively.
+[2] By notice of reassessment dated October 11, 2005, the Minister notified the Appellant that her claim of a credit for a wholly dependent person was being disallowed for the 2002, 2003 and 2004 taxation years ("the relevant period") because she had a common-law partner.
+[3] The Minister reassessed the Appellant's eligibility for the Canada Child Tax Benefit and assessed her for a $221.16 overpayment, computed as follows:
+2002 base year, for the months of July 2003 to June 2004: $85.67
+2003 base year, for the months of July 2004 to June 2005: $100.78
+2004 base year, for the months of July 2005 to September 2005: $34.71
+Total overpayment: $221.16
+[4] The Minister reassessed the Appellant's eligibility for the National Child Benefit Supplement, and assessed a $3,125.22 overpayment, calculated as follows:
+2002 base year, for the months of July 2003 to June 2004: $1,463.00
+2003 base year, for the months of July 2004 to June 2005: $1,354.97
+2004 base year, for the months of July 2005 to September 2005: $307.25
+Total overpayment: $3,125.22
+[5] The Minister reassessed the Appellant's eligibility for the Goods and Services Tax/Harmonized Sales Tax Credit, and assessed a $1,154.85 overpayment, calculated as follows:
+2002 base year, for the quarters ended in July and
+October 2003 and in January and April 2004: $322.05
+2003 base year, for the quarters ended in July and October 2004
+and in January and April 2005: $545.80
+2004 base year, for the quarters ended in July and October 2005: $287.00
+Total overpayment: $1,154.85
+[6] The Appellant objected to the assessments and the Minister confirmed all of them on June 6, 2006. Hence, the Appellant is appealing the assessments before this Court. The issue for determination is whether the Appellant and one Conrad Duclos lived as common-law partners during the relevant period.
+[7] The Appellant settled in the Miramichi area roughly 12 years ago. At that time, she met Conrad Duclos, and he invited her to come live with him. Having trouble making ends meet, she accepted. The Appellant looks after the maintenance of the house, prepares meals and does the cleaning for all the house's occupants, namely Mr. Duclos, his son, the Appellant and her daughter Karine. Mr. Duclos defrays all household expenses, including food. The Appellant contributes to the food costs only when she has extra money, a rare occurrence according to her.
+[8] The house in which they live has three bedrooms on the ground floor and two in the basement. For roughly the past two years, the Appellant, her daughter and Mr. Duclos have been occupying the three bedrooms on the ground floor. The Appellant says that she previously had a bedroom in the basement. The house is on Rioux Street in Saint‑Isidore, New Brunswick.
+[9] Karine Saulnier testified to confirm her mother's statements concerning the circumstances that led them both to live in Mr. Duclos's home. She was 12 years old at the time. She testified that her mother and Mr. Duclos are friends and that she never considered them spouses. She also said that she never saw her mother sleep with Mr. Duclos. However, she acknowledges that they go out to a restaurant together once or twice a month and that Mr. Duclos does this out of gratitude. On cross‑examination, she admits that she was very close to her mother.
+[10] Rather astonishingly, the Appellant has been stating her mother's Tilley Road address on her income tax returns since resettling in New Brunswick. She says that this failure to change her address to Mr. Duclos' is due to negligence on her part. She admits that, upon applying for a credit card, she gave Mr. Duclos' address. The Respondent also tendered in evidence the registration certificates for her two vehicles, and the address on those documents is Mr. Duclos' address. Another exhibit, from the Centre hospitalier de Tracadie, indicates her mother's street address but Mr. Duclos' telephone number. The Appellant testified that she used Mr. Duclos' address on all other correspondence following her move.
+[11] The Appellant also acknowledges that they went on social outings to restaurants, but that they did so as friends. According to the Appellant, Mr. Duclos likes taking her to the restaurant because she does all the housework and he likes to give her a treat. She also acknowledges that they ate together at home. She says that she has no men in her life and does not know what people in the community say about them.
+[12] Daniel Blacquière is an auditor with the Canada Revenue Agency. He audited Mr. Duclos' tax returns in 2005. He noticed that the Appellant and Mr. Duclos were living together under one roof. In the course of the audit, which was conducted using the net worth method, he asked Mr. Duclos to draw up the list of his personal expenses. During a conversation with Mr. Duclos on June 9, 2005, concerning the personal expense form that he gave the auditor, Mr. Duclos apparently said that his wife filled out the form with the help of his accountant.
+[13] The auditor stated that, at his first meetings with Mr. Duclos, Mr. Duclos asked him to include the salary of his spouse or wife (he is not sure exactly what term was used) in the net worth calculations. This led Mr. Blacquière to investigate the Appellant's address, whereupon he noticed that she used her mother's address for the purposes of her income tax returns and employment insurance benefits. In fact, she used her mother's address for the purposes of the instant appeal. He checked the addresses on the Appellant's automobile registration certificates, and Mr. Duclos' address was on them. He then included the Appellant's income in Mr. Duclos' net worth calculations.
+[14] Mr. Blacquière testified that he sent a letter of proposal to the Appellant at the Rioux Street address on August 19, 2005, stating that her civil status was different from what was stated on her income tax returns (the Appellant's returns said that she was single). Having obtained no answer, he phoned the Appellant at Mr. Duclos' residence, and she admitted to him over the phone that she received the letter sent to the Rioux Street address. She confirmed to him that she was Mr. Duclos' common-law partner for the three years in issue and that she did not know the difference between a common-law partner and a single person. Consequently, they made the change. The Appellant, for her part, says that she did not say this, that she did not admit such a fact, and that she actually told him that she and Mr. Duclos were not partners.
+[15] The term "common-law partner" is defined as follows in the Income Tax Act:
+"common-law partner", with respect to a taxpayer at any time, means a person who cohabits at that time in a conjugal relationship with the taxpayer and
+(a) has so cohabited with the taxpayer for a continuous period of at least one year, or
+(b) would be the parent of a child of whom the taxpayer is a parent, if this Act were read without reference to paragraphs 252(1)(c) and (e) and subparagraph 252(2)(a)(iii),
+. . .
+[16] Several decisions have addressed whether two persons were "common‑law partners" for the purpose of determining whether they were living "separate and apart" under one roof or were in a conjugal relationship. In Benson v. The Queen, Docket No. 2002-436(IT)I, O'Connor J. of this Court applied the criteria adopted in Molodowich v. Penttinen (1980), 17 R.F.L. (2d) 376, and subsequently applied in Kelner v. Canada, Docket No. 94-868(IT)I, [1995] T.C.J. No. 1130, Rangwala v. Canada, Docket No. 2000-993(IT)I, [2000] T.C.J. No. 624, and Roby v. Canada, Docket No. 2001-3029(IT)I, [2001] T.C.J. No. 801. Those criteria are as follows:
+1. Shelter:
+(a) Did the parties live under the same roof?
+(b) What were the sleeping arrangements?
+(c) Did anyone else occupy or share the available accommodation?
+2. Sexual and Personal Behaviour:
+(a) Did the parties have sexual relations? If not, why not?
+(b) Did they maintain an attitude of fidelity to each other?
+(c) What were their feelings toward each other?
+(d) Did they communicate on a personal level?
+(e) Did they eat their meals together?
+(f) What, if anything, did they do to assist each other with problems or during illness?
+(g) Did they buy gifts for each other on special occasions?
+3. Services:
+What was the conduct and habit of the parties in relation to:
+(a) preparation of meals;
+(b) washing and mending clothes;
+(c) shopping;
+(d) household maintenance; and
+(e) any other domestic services?
+4. Social:
+(a) Did they participate together or separately in neighbourhood and community activities?
+(b) What was the relationship and conduct of each of them toward members of their respective families and how did such families behave towards the parties?
+5. Societal:
+What was the attitude and conduct of the community toward each of them and as a couple?
+6. Support (economic):
+(a) What were the financial arrangements between the parties regarding the provision of or contribution toward the necessaries of life (food, clothing, shelter, recreation, etc.)?
+(b) What were the arrangements concerning the acquisition and ownership of property?
+(c) Was there any special financial arrangement between them which both agreed would be determinant of their overall relationship?
+7. Children:
+(a) What was the attitude and conduct of the parties concerning the children?
+[17] As specified in Rangwala, supra, "each of the criteria must be given its proper weight in the context of each particular case in determining whether a conjugal relationship exists or not."
+[18] In Roby, supra, Chief Judge Bowman had to decide whether two spouses were living separate and apart in order to determine whether the appellant spouse was entitled to the Canada Child Tax Benefit and the credit for a wholly dependent person. He stated:
+[7] In Kelner v. R., [1996] 1 C.T.C. 2687, I reviewed the case law in this area and concluded that it was possible for spouses to live "separate and apart" even where they were living under the same roof. This is an unassailable proposition as a matter of law, but as a matter of fact in any given case the evidence should be convincing. Campbell J. in Rangwala v. R., [2000] 4 C.T.C. 2430, and Raghavan v. R., [2001] 3 C.T.C. 2218, reached the same conclusion.
+[8] As good a starting point as any is the decision of Holland J. in Cooper v. Cooper, (1972) 10 R.F.L. 184 (Ont.H.C.) where he said at p. 187:
+Can it be said that the parties in this case are living separate and apart? Certainly spouses living under the same roof may well in fact be living separate and apart from each other. The problem has often been considered in actions brought under s. 4(1)(e)(i) of the Divorce Act and, generally speaking, a finding that the parties were living separate and apart from each other has been made where the following circumstances were present:
+(i) Spouses occupying separate bedrooms.
+(ii) Absence of sexual relations.
+(iii) Little, if any, communication between spouses.
+(iv) Wife performing no domestic services for husband.
+(v) Eating meals separately.
+(vi) No social activities together.
+See Rushton v. Rushton (1968), 1 R.F.L. 215, 66 W.W.R. 764, 2 D.L.R. (3d) 25 (B.C.); Smith v. Smith (1970), 2 R.F.L. 214, 74 W.W.R. 462 (B.C.); Mayberry v. Mayberry, [1971] 2 O.R. 378, 2 R.F.L. 395, 18 D.L.R. (3d) 45 (C.A.).
+[9] Both Campbell J. and I took those criteria as useful guidelines, although they are by no means exhaustive and no single criterion is determinative. I tend to agree with what was said by Wilson J. in Macmillan-Dekker v. Dekker, August 4, 2000, docket 99-FA-8392, quoted by Campbell J. in Rangwala at pp. 2435-2436:
+Based on a synthesis of prior case law, the court established a list of seven factors to be used to determine whether or not a conjugal relationship exists or existed. These organising questions permit a trial judge to view the relationship as a whole in order to determine whether the parties lived together as spouses. Reference to these seven factors will prevent an inappropriate emphasis on one factor to the exclusion of others and ensure that all relevant factors are considered.
+. . .
+I conclude that there is no single, static model of a conjugal relationship, or of marriage. Rather, there are a cluster of factors which reflect the diversity of conjugal and marriage relationships that exist in modern Canadian society. Each case must be examined in light of its own unique objective facts.
+[10] Bearing in mind then that no single factor should predominate, and that it is the overall picture that must ultimately govern, can it be said that these spouses were living separate and apart because of the breakdown of their marriage?
+[19] It must be noted that the burden is on the Appellant to show, on a balance of probabilities, that she was not in a conjugal relationship with Mr. Duclos (see Richard v. Canada, 2003 TCC 774, and Drolet v. Canada, 2004 TCC 538). I acknowledge from the outset that it is possible for two unmarried people to live under one roof but not be common‑law partners, just as it is possible for two spouses to be separated even though they are living under one roof. As Judge Bowman stated, this "is an unassailable proposition as a matter of law, but as a matter of fact in any given case the evidence should be convincing."
+[20] Here, the Appellant contends that she is single and that she lives in Mr. Duclos' home, not with him. She does not share the same bedroom, and merely lives there. This suits Mr. Duclos and it suits the Appellant, who was experiencing financial difficulties at the time that they made their arrangement. However, the evidence does not tell us why the Appellant could not continue living with her mother after returning to the Miramichi area in view of her financial difficulties, nor did it show why she continues to live in Mr. Duclos' home now that her financial health appears to have been restored.
+[21] The Appellant has been living in Mr. Duclos' home for close to 10 years. She does all the housework, prepares the meals for all the occupants of the home and eats her meals with Mr. Duclos. She does not contribute or pay for a thing, other than a bit of money on the groceries if she has some extra money available in her budget. The Appellant and Mr. Duclos go out to a restaurant together once or twice a month, a treat offered by Mr. Duclos to the Appellant. In my view, this situation appears to be more consistent with life as a couple than with the relationship described by the Appellant. The fact that Mr. Duclos offers the same treatment to the Appellant's daughter, at least in terms of food and lodging, makes this clearer. He almost acts as a parent to the Appellant's daughter. This is admittedly a very unusual situation where the evidence must be very convincing, as Judge Bowman stated.
+[22] According to the Appellant and her daughter, Mr. Duclos' room is his alone. The Appellant testifies that they have no sexual relations, and her daughter testified to confirm this assertion. In my opinion, it is difficult to give weight to this confirmation by the Appellant's daughter because this is not the kind of activity that she can confirm or deny. She can, and in fact did, testify that she does not consider the two of them spouses. However, she would have had to provide more details about this last point so that her assertion could be better understood.
+[23] One must also ask oneself why the Appellant did not provide her accurate address on any of her tax returns for almost ten years. This same mistake is made in her employment insurance claims and in the Notice of Appeal in the instant case. This issue takes on relevance because she uses Mr. Duclos' address and telephone number for her motor vehicle registrations and her credit cards.
+[24] I cannot disregard the auditor's conversations with Mr. Duclos, in which Mr. Duclos referred to the Appellant as his wife or partner. Although these conversations constitute hearsay evidence to which little weight should generally be given, the fact remains that the Appellant confirmed the conversation that she had with the auditor after receiving his letter of August 19, 2005. It was during this conversation that the Appellant acknowledged that she was Mr. Duclos' common‑law partner. This was a spontaneous answer on her part, and, in my opinion, it confirms that the Appellant played a more important role in her relationship with Mr. Duclos than she would have us believe. Having regard to all the factors, and, in particular, the relationship between the Appellant and Mr. Duclos as a whole, it is more likely than not that the Appellant and Mr. Duclos are common‑law partners.
+[25] Consequently, the Appellant has not met her burden of proof. I cannot disregard the fact that Mr. Duclos did not testify in the case at bar. In my opinion, it would have been very important to obtain his testimony, and, in view of the significance of the point in issue, I do not find the explanation that he was very busy at work justifiable. I can only infer that his testimony would not have been favourable to the Appellant. The appeal is dismissed.
+Signed at Edmundston, New Brunswick, this 18th day of July 2007.
+"François Angers"
+Angers J.
+Translation certified true
+on this 16th day of August 2007.
+Brian McCordick, Translator
+CITATION: 2007TCC390
+COURT FILE NO.: 2006-2725(IT)I
+STYLE OF CAUSE: Raymonde Drysdelle and Her Majesty the Queen
+PLACE OF HEARING: Miramichi, New Brunswick
+DATE OF HEARING: June 14, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: July 18, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Christina Ham
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

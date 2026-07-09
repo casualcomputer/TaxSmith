@@ -1,0 +1,227 @@
+---
+title: "Pagé c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27562/index.do"
+last_modified: "2005-05-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 213"
+citation2: ""
+neutral_citation: "2005 CCI 213"
+decision_date: "2005-05-05"
+language: "fr"
+item_id: "27562"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 123
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:57:17.978000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "bdf2dcf5d4f83a7fea35f1e639ef8c8feaf86afe5d399da29179970c90ae4a89"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Pagé c. La Reine
+
+- Citation: 2005 CCI 213
+- Decision date: 2005-05-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 123, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pagé c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-05-05
+Référence neutre
+2005 CCI 213
+Numéro de dossier
+2004-2135(IT)I
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-2135(IT)I
+ENTRE :
+RENÉ-JEAN PAGÉ,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel
+d'AlainDenis (2004-2137(IT)I)
+le 9 février 2005 à Québec (Québec)
+Devant : L'honorable juge François Angers
+Comparutions :
+Avocat de l'appelant :
+Me Stéphane Pagé
+Avocate de l'intimée :
+Me Stéphanie Côté
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu, dont l'avis est daté du 25 juillet 2003 et porte le numéro 19646, est rejeté selon les motifs du jugement ci-joints.
+Signé à Edmundston, Nouveau-Brunswick, ce 5e jour de mai, 2005.
+« François Angers »
+Juge Angers
+Dossier : 2004-2137(IT)I
+ENTRE :
+ALAIN DENIS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de
+René-Jean Pagé (2004-2135(IT)I)
+le 9 février 2005 à Québec (Québec)
+Devant : L'honorable juge François Angers
+Comparutions :
+Avocat de l'appelant :
+Me Stéphane Pagé
+Avocate de l'intimée :
+Me Stéphanie Côté
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu, dont l'avis est daté du 25 juillet 2003 et porte le numéro 19647, est rejeté selon les motifs du jugement ci-joints.
+Signé à Edmundston, Nouveau-Brunswick, ce 5e jour de mai, 2005
+« François Angers »
+Juge Angers
+Référence : 2005CCI213
+Date : 20050505
+Dossiers : 2004-2135(IT)I
+2004-2137(IT)I
+ENTRE :
+RENÉ-JEAN PAGÉ,
+ALAIN DENIS,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Il s'agit de deux appels entendus sur preuve commune et visant des cotisations datées du 25 juillet 2003. Ces cotisations ont été établies à l'encontre des appelants en leur qualité d'administrateurs d'une société à dénomination numérique, soit la 9082-6447 Québec inc. (ci-après « 9082 » ), et les tenaient solidairement responsables : (1) du paiement des retenues à la source ( « RAS » ) non versées par 9082 à l'égard de l'impôt sur le revenu et de cotisations d'assurance-emploi pour le mois d'août 2002, (2) de la différence entre les sommes présumées versées selon les feuillets T4 pour l'année 2002 et les sommes réellement payées.
+[2] Il est admis que les deux appelants étaient administrateurs de 9082 à tous les moments pertinents au présent litige et que 9082 avait la responsabilité légale de déduire, de retenir et de verser au receveur général du Canada les RAS à l'égard des salaires versés aux employés de 9082.
+[3] La société 9082 exploitait un centre de réadaptation pour personnes handicapées et avait à son emploi de 25 à 30 professionnels de la santé. L'appelant Alain Denis est comptable et s'occupait de la paie de 9082. Vers la fin de l'année 2000, les deux appelants sont devenus administrateurs de la société et y ont injecté de l'argent. Selon M. Denis, ils n'étaient administrateurs qu'en théorie, puisque 9082 était dirigée par madame Linda Cameron. Cependant, à l'automne 2001, 9082 avait des pertes et ils ont procédé à une restructuration de la société. Ils ont congédié 15 % des employés et ont réévalué les services offerts. Madame Cameron a quitté 9082, et on a pris des mesures pour assurer la survie de 9082. L'appelant Alain Denis consacrait environ 35 heures par semaine à la gestion de 9082, sans rémunération, et une employée en assumait la direction.
+[4] Durant ce même élan de restructuration, la Fédération des caisses Desjardins informait 9082 qu'elle allait assurer un suivi de la situation financière de 9082 et qu'elle devait dorénavant autoriser ses dépenses. Ce nouveau contrôle était exercé par Marcel Routhier ou Pierre Lavoie de la Fédération et il fut exercé jusqu'à la faillite ultérieure de 9082. Tous les chèques faits par 9082 devaient donc être autorisés par la Fédération de sorte que, selon l'appelant Alain Denis, celui-ci ne gérait plus l'entreprise.
+[5] À l'été 2002, 9082 faisait toujours des pertes, mais elle offrait quand même du potentiel. Les deux appelants ont donc rencontré plusieurs intervenants afin d'obtenir du financement, mais sans succès. Après qu'on lui ait refusé du financement en août 2002, 9082 a déposé, à la fin de ce mois, un avis de son intention de faire une proposition conformément aux dispositions de la Loi sur la faillite et l'insolvabilité; le cabinet Raymond Chabot inc. était nommé syndic dans le cadre de cette proposition. La société 9082 a ensuite poursuivi ses activités, sauf que le syndic décidait les dépenses qui seraient payées. Les démarches entreprises pour sauver l'entreprise ont cependant échoué et 9082 a fait faillite le 3 octobre 2002.
+[6] L'appelant Alain Denis a préparé un document résumant l'historique des remises salariales et des paiements effectués pour les retenues à la source (pièce A-5). Selon ses calculs, les RAS à payer pour les années 2000, 2001 et 2002 étaient de 279 390,98 $ et le total versé est de 212 408,57 $. La différence est donc de 66 982,41 $. À cette somme, il ajoute un montant de 10 941,83 $ pour tenir compte d'un chèque sans provision et des intérêts et pénalités de 4 571,10 $, donnant un montant dû de 82 495,16 $. Le syndic a versé la somme de 80 768 $ à la suite de la liquidation, laissant un écart de 1 727,16 $ que les appelants ont acquitté.
+[7] Dans cet historique, on indique que les RAS de mars et avril 2002 n'ont pas été payées. Un vérificateur de l'intimée est allé sur les lieux en avril 2002 pour s'enquérir de la situation et c'est à ce moment que l'appelant René-Jean Pagé, par l'entremise de sa société, a versé 10 000 $ pour couvrir les arriérés. Selon l'appelant Alain Denis, le paiement des RAS était retardé en raison de retards dans la perception des créances. La société 9082 n'avait pas de compte en banque en fiducie pour les RAS parce qu'elle a fermé ses portes pour cause de manque de fonds.
+[8] Selon l'appelant Alain Denis, les intérêts et les pénalités ont été payés par le syndic, et seul le syndic est responsable des RAS pour août et septembre 2002. Il reconnaît toutefois qu'il peut y avoir des erreurs dans ses calculs.
+[9] L'appelant René-Jean Pagé ne s'occupait pas de la gestion quotidienne de 9082 à ses débuts. C'est à titre d'investisseur qu'il s'est intéressé à 9082 de sorte qu'en septembre 2000, par l'entremise de ses sociétés, il se considérait un actionnaire prêteur. Ce n'est qu'en octobre 2001 qu'il a appris qu'il était en fait administrateur de 9082, soit au moment où madame Linda Cameron faisait cession de ses biens et déclarait faillite.
+[10] C'est à cette époque qu'il a constaté l'ampleur des problèmes financiers de 9082 et le besoin de relancer l'entreprise. Des mises de fonds supplémentaires ont été nécessaires et des demandes d'aide financière ont été acheminées un peu partout. Un nouveau plan d'action a été préparé avec l'aide d'un consultant en marketing, M. Luc Masson, et des rencontres avec tous les intervenants ont eu lieu. En juin 2002, tout semblait bien aller, mais au début d'août 2002, rien n'allait plus, ce qui a mené à la rencontre avec le syndic et à la proposition aux créanciers.
+[11] En 2002, l'appelant René-Jean Pagé a injecté la somme de 42 000 $ afin de permettre à 9082 de satisfaire ses obligations financières. Il se fiait à l'autre appelant pour assurer la gestion quotidienne et demeurait en contact avec lui. Son rôle était principalement de voir à la relance de 9082 et d'y injecter des fonds pour assurer sa survie. Quant aux RAS, il a déclaré ne pas en connaître les détails, mais il reconnaît qu'il recevait les bilans internes mensuels et qu'il était au courant des pertes. Il ne comprend toutefois pas pourquoi les RAS n'ont pas été payées, car 9082 ne payait que le nécessaire. Il reconnaît aussi que les RAS, par la force des choses, ont servi à payer certaines dépenses, puisque 9082 faisait état de pertes dans ses bilans.
+[12] Selon Marcel Routhier, la participation de la Fédération Desjardins a débuté à l'été 2001, à la suite d'une demande d'aide de la Caisse populaire Desjardins de St-Basile. La Fédération intervient lorsqu'un client d'une caisse a des difficultés financières. Elle assure un suivi régulier et travaille en collaboration avec le client. À l'été 2002, la Fédération avait des contacts avec 9082 deux ou trois fois par semaine. Durant cette période, le compte en banque de 9082 ne pouvait pas être à découvert et tout paiement de facture devait être autorisé par M. Routhier ou son remplaçant. Une liste des comptes fournisseurs lui était remise avec les chèques et il décidait quels seraient payés. Selon lui, la Fédération n'était pas tenue de respecter le paiement des RAS et il ne se souvient pas qu'un des appelants ait demandé que les RAS soient payées.
+[13] Madame Nicole Butler est agente de recouvrement pour l'intimée depuis 1994. Elle a vérifié le calcul des RAS de 9082 pour les années 2001 et 2002. Elle est d'accord avec les calculs de l'appelant Alain Denis quant aux RAS à payer pour les années 2001 et 2002, soit 239 721,60 $. Elle est aussi d'accord avec son calcul des versements effectués par 9082, sauf qu'elle en exclut un chèque de 10 941,83 $ du 15 août 2002 qui était sans provision et le paiement de 4 314,79 $ de mars 2001 qui n'aurait pas été reçu par son ministère. Elle a d'ailleurs demandé aux appelants de lui fournir la preuve de ce paiement, mais elle n'a rien reçu. Après ces deux exclusions, le montant versé est de 157 482,57 $, laissant un solde de 82 239,03 $. À cette somme, Mme Butler a ajouté les intérêts et les pénalités de 10 121,86 $, donnant un montant dû de 92 360,89 $. Le syndic lui a remis la somme de 80 768 $, laissant ainsi un solde dû de 11 592,89 $, ce qui a mené aux cotisations.
+[14] Selon Mme Butler, l'erreur que fait l'appelant Alain Denis est d'évaluer le montant des intérêts et des pénalités à 4 571,10 $ au lieu de 10 121,86 $. Madame Butler reconnaît toutefois que le montant utilisé par l'appelant Alain Denis est celui déclaré par le ministre lorsqu'il a déposé sa réclamation auprès du syndic de faillite. Elle ajoute toutefois qu'il ne s'agissait que du solde dû à l'époque et non du montant total des intérêts et des pénalités au compte de 9082. Madame Butler ajoute aussi que les paiements d'arriérés sont d'abord imputés aux intérêts et aux pénalités, de sorte que le solde représente des RAS non payées.
+[15] Une feuille de calcul préparée par Mme Butler a été déposée en preuve (pièce I-2); elle ventile les RAS, les intérêts et les pénalités établies de même que les intérêts pour les années 2001 et 2002. Le solde dû, soit 92 360,92 $, est le même que celui réclamé au syndic, et l'entente conclue avec ce dernier faisait en sorte que les RAS seraient payées à partir des créances de 9082. La somme de 80 768 $ est le montant reçu du syndic, ce qui laisse donc un solde de 11 592,84 $. Ce solde ne prend pas en considération le versement de 1 727,16 $ fait par les appelants.
+[16] Il s'agit donc, tout d'abord, de déterminer le solde réellement dû par 9082, dont les appelants étaient les administrateurs. Selon l'avis de cotisation, il s'agit d'un solde de 11 592 $, composé d'une cotisation du 15 septembre 2002 d'un montant de 4 716,81 $ pour le mois d'août 2002 et d'une cotisation du 21 octobre 2002 d'un montant de 6 876,03 $, soit la différence entre les montants indiqués aux feuillets T-4 des employés de 9082 et les sommes que la société a réellement versées.
+[17] Au départ, les parties s'entendent que le montant des RAS à verser pour 2001 et 2002 est de 239 721,60 $, plus les intérêts et les pénalités. Selon les appelants, le montant des intérêts et des pénalités déclarés au syndic de faillite sont de 4 571,10 $. Selon l'intimée, sa feuille de calcul (pièce I-2) démontre que les intérêts et les pénalités ont été établis à partir du 28 mai 2005 pour arriérés des mois de mars, d'avril et de mai 2002, de même que pour l'année 2001 et par la suite, soit le 10 septembre 2002. Certains intérêts ont fait l'objet d'une cotisation et d'autres ont été ajoutés au compte. Le total des intérêts et des pénalités est de 10 121,86 $. Madame Butler a expliqué que lorsqu'un paiement est fait et qu'il existe des intérêts et des pénalités, le paiement est imputé à ceux-ci avant d'être imputé au capital ou au montant dû. Cela expliquerait que l'on avait déclaré au syndic que les intérêts dus étaient de 4 571,10 $ au lieu de 10 121,86 $.
+[18] Les appelants, dans le document intitulé « Historique des remises salariales et paiements effectués » (pièce A-5), soutiennent que toutes les RAS ont été versées et qu'ils ne doivent plus rien. Leurs calculs sont comme suit, sauf que je les ai refaits pour n'inclure que les années 2001 et 2002 :
+RAS à verser pour 2001-2002
+Intérêts et pénalités
+Total à verser
+Montants payés en 2001-2002 (excluant un chèque sans provision en août 2002 pour 10 941,83 $)
+Solde dû
+Versement fait par le syndic
+Somme versée par les appelants
+239 721,60 $
+4 571,10 $
+244 292,70 $
+161 797,33 $
+82 495,37 $
+80 768,00 $
+1 727,37 $
+1 727,16 $
+0
+[19] De son côté, l'intimée explique que la feuille de calcul (pièce I-2) tient compte des intérêts et des pénalités, tel qu'expliqué ci-dessus. À ce montant, elle a ajouté aux sommes dues par 9082 le paiement de 4 314,79 $ en mars 2001 qui, selon les données informatiques de l'ADRC, n'a jamais été reçu. Ces calculs donnent le résultat suivant :
+RAS à verser pour 2001-2002
+Intérêts et pénalités
+Total à verser
+Montants payés (excluant le chèque de mars 2001 pour 4 314,79 $)
+Solde dû
+Versement fait par le syndic
+Solde final dû
+239 721,60 $
+10 121,86 $
+249 843,46 $
+157 482,54 $
+92 360,92 $
+80 768,08 $
+11 592,84 $
+[20] Les intérêts et les pénalités, de même que le chèque de mars 2001, expliquent l'écart entre les parties. En ajoutant ces deux montants à la remise de 1 727 $ faite par les appelants, on retrouve le montant de la cotisation, soit 11 592,84 $. J'ai refait les calculs pour les années 2001 et 2002, étant donné qu'il n'y avait aucun retard ou arriéré à la fin de l'année 2000.
+[21] Cela étant dit, comment peut-on réconcilier cet écart et le montant qu'il représente avec l'avis de cotisation (pièce A-1), qui fait état d'un montant de 4 716,81 $ pour le mois d'août 2002 et d'un montant de 6 876,03 $ pour la différence dans les feuillets T-4 de 2002? Selon Mme Butler, la feuille de calcul (pièce I-2), la cotisation du mois d'août s'élevait à 10 319,47 $. Lorsque le syndic a effectué son versement, les montants payés ont été imputés aux intérêts, aux pénalités et aux RAS les plus anciennes, laissant ainsi un solde de 4 716,81 $ relativement à la cotisation d'août 2002. Toujours selon Mme Butler, le montant de 6 876,03 $ représente la différence entre les remises de 9082 en mai, juin, juillet et août 2002 et le montant réellement dû pour ces quatre mois. Ces explications me paraissent plausibles même si, à première vue, la façon d'y arriver semble complexe. Je suis toutefois convaincu, selon la preuve présentée, que l'écart réel entre les parties est constitué des intérêts et des pénalités, de même que de la non-réception du paiement de mars 2001. Les appelants n'ont pas démontré que le paiement de mars 2001 avait été fait. Une réconciliation bancaire à l'époque aurait sûrement alerté l'appelant Alain Denis du non-encaissement du chèque en question, ou les relevés bancaires ou une copie du chèque aurait pu être déposé pour confirmer le paiement. Je suis donc convaincu que les calculs de Mme Butler sont fiables et que 9082 doit encore 11 592,84 $, moins le montant de 1 727,16 $ déjà versé.
+[22] Il s'agit donc maintenant de déterminer si les appelants, conformément au paragraphe 227.1(3) de la Loi de l'impôt sur le revenu (la « Loi » ), ont établi selon la prépondérance des probabilités qu'ils ont agi avec le degré de soin, de diligence et d'habileté pour prévenir le manquement qu'une personne raisonnablement prudente aurait exercé dans des circonstances comparables. Les dispositions légales pertinentes se trouvent aux paragraphes 227.1(1), 227.1(2) et 227.1(3) de la Loi et aux paragraphes 83(1), 83(2) et 83(3) de la Loi sur l'assurance-emploi qui se lisent ainsi :
+227.1 : Responsabilité des administrateurs pour défaut d'effectuer les retenues
+(1) Lorsqu'une société a omis de déduire ou de retenir une somme, tel que prévu au paragraphe 135(3) ou à l'article 153 ou 215, ou a omis de remettre cette somme ou a omis de payer un montant d'impôt en vertu de la partie VII ou VIII pour une année d'imposition, les administrateurs de la société, au moment où celle-ci était tenue de déduire, de retenir, de verser ou de payer la somme, sont solidairement responsables, avec la société, du paiement de cette somme, y compris les intérêts et les pénalités s'y rapportant.
+Restrictions relatives à la responsabilité
+(2) Un administrateur n'encourt la responsabilité prévue au paragraphe (1) que dans l'un ou l'autre des cas suivants :
+a) un certificat précisant la somme pour laquelle la société est responsable selon ce paragraphe a été enregistré à la Cour fédérale en application de l'article 223 et il y a eu défaut d'exécution totale ou partielle à l'égard de cette somme;
+b) la société a engagé des procédures de liquidation ou de dissolution ou elle a fait l'objet d'une dissolution et l'existence de la créance à l'égard de laquelle elle encourt la responsabilité en vertu de ce paragraphe a été établie dans les six mois suivant le premier en date du jour où les procédures ont été engagées et du jour de la dissolution;
+c) la société a fait une cession ou une ordonnance de séquestre a été rendue contre elle en vertu de la Loi sur la faillite et l'insolvabilité et l'existence de la créance à l'égard de laquelle elle encourt la responsabilité en vertu de ce paragraphe a été établie dans les six mois suivant la date de la cession ou de l'ordonnance de séquestre.
+Idem.
+(3) Un administrateur n'est pas responsable de l'omission visée au paragraphe (1) lorsqu'il a agi avec le degré de soin, de diligence et d'habileté pour prévenir le manquement qu'une personne raisonnablement prudente aurait exercé dans des circonstances comparables.
+83 : Responsabilité des administrateurs
+(1) Dans les cas où un employeur qui est une personne morale omet de verser ou de déduire un montant de la manière et au moment prévus au paragraphe 82(1), les administrateurs de la personne morale au moment de l'omission et la personne morale sont solidairement responsables envers Sa Majesté de ce montant ainsi que des intérêts et pénalités qui s'y rapportent.
+Application de la Loi de l'impôt sur le revenu
+(2) Les paragraphes 227.1(2) à (7) de la Loi de l'impôt sur le revenu s'appliquent, avec les adaptations nécessaires, à l'administrateur de la personne morale.
+Cotisation des administrateurs
+(3) Les dispositions de la présente partie concernant la cotisation d'un employeur pour un montant qu'il doit payer en vertu de la présente loi et concernant les droits et les obligations d'un employeur cotisé ainsi s'appliquent à l'administrateur d'une personne morale pour un montant que celui-ci doit payer en vertu du paragraphe (1) de la manière et dans la mesure applicables à l'employeur visé par ces dispositions.
+[23] L'état du droit est bien résumé dans un arrêt de la Cour d'appel fédérale, soit Soper c. Canada, [1998] 1 C.F. 124, où le juge Robertson s'est exprimé comme suit sur la norme de prudence et l'obligation des administrateurs d'agir, en établissant une certaine distinction entre les administrateurs internes et les administrateurs externes. Je reproduis les pages 155, 156, 160 et 161 (paragraphes 40 et 41, 44, 52 et 53) :
+Le moment convient bien pour résumer mes conclusions au sujet du paragraphe 227.1(3) de la Loi de l'impôt sur le revenu. La norme de prudence énoncée au paragraphe 227.1(3) de la Loi est fondamentalement souple. Au lieu de traiter les administrateurs comme un groupe homogène de professionnels dont la conduite est régie par une seule norme immuable, cette disposition comporte un élément subjectif qui tient compte des connaissances personnelles et de l'expérience de l'administrateur, ainsi que du contexte de la société visée, notamment son organisation, ses ressources, ses usages et sa conduite. Ainsi, on attend plus des personnes qui possèdent des compétences supérieures à la moyenne (p. ex. les gens d'affaires chevronnés).
+La norme de prudence énoncée au paragraphe 227.1(3) de la Loi n'est donc pas purement objective. Elle n'est pas purement subjective non plus. Il ne suffit pas qu'un administrateur affirme qu'il a fait de son mieux, car il invoque ainsi la norme purement subjective. Il est également évident que l'intégrité ne suffit pas. Toutefois, la norme n'est pas une norme professionnelle. Ces situations ne sont pas régies non plus par la norme du droit de la négligence. La Loi contient plutôt des éléments objectifs, qui sont représentés par la notion de la personne raisonnable, et des éléments subjectifs, qui sont inhérents à des considérations individuelles comme la « compétence » et l'idée de « circonstances comparables » . Par conséquent, la norme peut à bon droit être qualifiée de norme « objective subjective » .
+[...]
+Je tiens tout d'abord à souligner qu'en adoptant cette démarche analytique, je ne donne pas à entendre que la responsabilité est simplement fonction du fait qu'une personne est considérée comme un administrateur interne par opposition à un administrateur externe. Cette qualification constitue plutôt simplement le point de départ de mon analyse. Mais cependant, il est difficile de nier que les administrateurs internes, c'est-à-dire ceux qui s'occupent de la gestion quotidienne de la société et qui peuvent influencer la conduite de ses affaires, sont ceux qui auront le plus de mal à invoquer la défense de diligence raisonnable. Pour ces personnes, ce sera une opération ardue de soutenir avec conviction que, malgré leur participation quotidienne à la gestion de l'entreprise, elles n'avaient aucun sens des affaires, au point que ce facteur devrait l'emporter sur la présomption qu'elles étaient au courant des exigences de versement et d'un problème à cet égard, ou auraient dû l'être. Bref, les administrateurs internes auront un obstacle important à vaincre quand ils soutiendront que l'élément subjectif de la norme de prudence devrait primer l'aspect objectif de la norme.
+[ ... ] Je ne veux pas donner à entendre qu'un administrateur peut adopter une attitude entièrement passive, mais seulement que, à moins qu'il n'existe des motifs d'avoir des soupçons, il est permis de compter sur les personnes qui s'occupent de la gestion quotidienne de la société pour payer des dettes comme les créances de Sa Majesté. Cela correspond à la quatrième affirmation faite dans l'arrêt City Equitable : voir l'analyse ci-dessus, aux pages 146 et 147. La question qui subsiste, toutefois, est de savoir à quel moment l'obligation expresse d'agir prend naissance.
+À mon avis, l'obligation expresse d'agir prend naissance lorsqu'un administrateur obtient des renseignements ou prend conscience de faits qui pourraient l'amener à conclure que les versements posent, ou pourraient vraisemblablement poser, un problème potentiel. En d'autres termes, il incombe vraiment à l'administrateur externe de prendre des mesures s'il sait, ou aurait dû savoir, que la société pourrait avoir un problème avec les versements. La situation typique dans laquelle un administrateur est, ou aurait dû être, au courant de cette éventualité est celle de la société qui a des difficultés financières. [ ... ]
+[24] Cette distinction ne permet toutefois pas d'appliquer une norme différente à des administrateurs différents. Le juge Létourneau, dans l'affaire Corsano c. Canada, [1999] 3 C.F. 173, 99 DTC 5658, a précisé, en se référant à l'arrêt Soper, qu'il ressort clairement de ce jugement que c'est l'application de la norme qui est souple, à cause des connaissances, des facteurs et des circonstances variés et différents qu'il faut apprécier pour déterminer si, dans une situation donnée, un administrateur s'est conformé à la norme de prudence prévue dans la Loi.
+[25] Cela étant dit, il est important de déterminer les périodes où le manquement a eu lieu. En examinant la feuille de calcul (pièce I-2) déposée par l'intimée, on constate que les RAS de 2001 n'ont pas toutes été versées. La cotisation du 28 mai 2002 à l'encontre de 9082 indique des RAS non remises en 2001 d'un montant de 23 569,34 $ et des RAS non remises en 2002 d'un montant de 40 452,39 $. Pour 2001, selon la pièce A-5, des RAS ont été versées à chaque mois de l'année, à l'exception du paiement non reçu de mars 2001, mais les montants n'étaient pas suffisants. En 2002, des paiements pour les RAS ont été faits chaque mois, sauf de février à avril inclusivement. Un paiement de 10 000 $ fait en avril 2002 par l'appelant René-Jean Pagé lors de la vérification est venu combler ce vide dans les versements. Le chèque de 10 941,83 $ pour le versement des RAS de juillet fait le 15 août 2002 n'a pas été accepté parce qu'il était sans provision, et on a fait un versement en septembre pour le mois d'août. La cotisation finale indique toutefois que, malgré les versements des RAS, il y avait un écart entre les montants versés et les montants retenus indiqués aux feuillets T-4.
+[26] Même si le versement des RAS chaque mois ne semblait pas correspondre aux montants réellement dus, les paiements subséquents venaient combler le manque, de sorte que ce n'est qu'en mars 2002 que les manquements réels ont eu lieu. Je crois donc que l'analyse des circonstances du manquement doit se faire à partir de ce moment. De plus, les calculs des RAS à verser faits par la vérificatrice et par l'appelant Alain Denis comprennent la période allant jusqu'à la fin d'août 2002, soit avant l'implication du syndic. Ce dernier a autorisé en septembre 2002 le paiement des RAS du mois d'août précédent.
+[27] En l'espèce, je suis d'avis que les deux appelants, dès le printemps 2002, étaient très impliqués dans les activités quotidiennes de 9082. L'appelant Alain Denis, à titre de comptable, n'était pas sans connaître les responsabilités qui lui incombaient de verser mensuellement les RAS. Même si les chèques préparés par 9082 devaient être approuvés par la Fédération, cette dernière contrôlait davantage les fonds de roulement de 9082 que le choix des créanciers à payer. D'ailleurs, les chèques pour les versements des RAS jusqu'en mars 2002 ont été approuvés par la Fédération. C'est le manque de fonds, à mon avis, qui a empêché les versements. Ce nouveau contrôle n'empêchait pas les versements des RAS, d'autant plus que l'appelant Alain Denis a reconnu que le paiement des RAS était retardé en raison du retard dans la perception des créances. Il a ajouté que le fait d'avoir un compte en banque distinct pour les RAS aurait entraîné la fermeture de 9082 pour cause de manque de fonds. C'est donc dire que les RAS ont servi de fonds de roulement à l'entreprise.
+[28] Quant à l'appelant René-Jean Pagé, il est devenu très impliqué au printemps 2002. Il était très au courant des difficultés financières qu'éprouvait 9082. Son expérience en tant qu'homme d'affaires aurait dû l'alerter à sa responsabilité de s'assurer que les RAS soient versées. Il était au courant des pertes et il recevait des bilans internes mensuels. Il est vrai qu'il a fait beaucoup de démarches pour sauver 9082 et qu'il a injecté des fonds supplémentaires. Ce n'est toutefois qu'après la visite du vérificateur en avril 2002 qu'il a injecté 10 000 $ pour rembourser une partie des RAS alors que le montant dû était beaucoup plus élevé. Il me paraît donc évident qu'il ne s'est pas attardé à cette question avant la visite du vérificateur. Sachant que les bilans internes mensuels indiquaient des pertes, il avoue que, par la force des choses, les RAS ont servi à payer d'autres dépenses.
+[29] Quoique l'implication et les démarches entreprises par l'appelant René-Jean Pagé soient louables, elles étaient dirigées vers la relance de 9082 principalement dans le but de sauver son placement plutôt que de prévenir le défaut de verser les RAS.
+[30] Les obligations des administrateurs sont de prévenir et d'empêcher l'omission de verser les RAS et non de retarder leur versement afin de payer d'autres créanciers ou en espérant un retour à la santé financière.
+[31] Pour ces motifs, je conclus que les appelants n'ont pas agi avec le degré de soin, de diligence et de compétence afin de prévenir les manquements visés par la Loi qu'une personne raisonnablement prudente aurait exercé dans les mêmes circonstances. Les appels sont rejetés.
+Signé à Edmundston, Nouveau-Brunswick, ce 5e jour de mai, 2005.
+« François Angers »
+Juge Angers
+RÉFÉRENCE : 2005CCI213
+N º s DES DOSSIERS DE LA COUR : 2004-2135(IT)I
+2004-2137(IT)I
+INTITULÉS DES CAUSES : René-Jean Pagé et Sa Majesté la Reine
+Alain Denis et Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Québec (Québec)
+DATE DE L'AUDIENCE : le 9 février2005
+MOTIFS DE JUGEMENT PAR : L'honorable juge François Angers
+DATE DES JUGEMENTS : le 5 mai 2005
+COMPARUTIONS :
+Avocat des appelants :
+Me Stéphane Pagé
+Avocate de l'intimée :
+Me Stéphanie Côté
+AVOCAT INSCRIT AUX DOSSIERS :
+Pour les appelants:
+Nom : Me Stéphane Pagé
+Étude : Bouchard, Pagé, Tremblay
+Charlesbourg (Québec)
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Ontario

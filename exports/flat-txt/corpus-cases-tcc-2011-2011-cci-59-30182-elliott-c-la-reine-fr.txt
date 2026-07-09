@@ -1,0 +1,235 @@
+Title: Elliott c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30182/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-59-30182-elliott-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2011-01-28
+
+# Elliott c. La Reine
+
+- Citation: 2011 CCI 59
+- Decision date: 2011-01-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7739, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Elliott c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-01-28
+Référence neutre
+2011 CCI 59
+Numéro de dossier
+2009-1282(GST)I
+Juges et Officiers taxateurs
+Steven K. D'Arcy
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2009-1282(GST)I
+ENTRE :
+MYRNA JOYCE ELLIOTT,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de
+L. Paul Elliott, 2009-1284(GST)I et
+Lawrence Ralph Elliott, 2009-1285(GST)I
+Le 19 mai 2010 à Fredericton (Nouveau‑Brunswick).
+Devant : L’honorable juge Steven K. D’Arcy
+Comparutions :
+Avocat de l’appelante :
+Me William G. Stephenson
+Avocat de l’intimée :
+Me Gregory B. King
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en vertu de la Loi sur la taxe d’accise, dont l’avis est daté du 26 mai 2008 et porte le numéro 680257, est rejeté, sans dépens.
+Signé à Ottawa, Canada, ce 28e jour de janvier 2011.
+« S. D’Arcy »
+Juge D’Arcy
+Traduction certifiée conforme
+ce 18e jour de mars 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+Dossier : 2009-1284(GST)I
+ENTRE :
+L. PAUL ELLIOTT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de
+Myrna Joyce Elliott, 2009-1282(GST)I et
+Lawrence Ralph Elliott, 2009-1285(GST)I
+Le 19 mai 2010, à Fredericton (Nouverau‑Brunswick).
+Devant : L’honorable juge Steven K. D’Arcy
+Comparutions :
+Avocat de l’appelant :
+Me William G. Stephenson
+Avocat de l’intimée :
+Me Gregory B. King
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en vertu de la Loi sur la taxe d’accise, dont l’avis est daté du 26 mai 2008 et porte le numéro 680253, est rejeté, sans dépens.
+Signé à Ottawa, Canada, ce 28e jour de janvier 2011.
+« S. D’Arcy »
+Juge D’Arcy
+Traduction certifiée conforme
+ce 18e jour de mars 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+Dossier : 2009-1285(GST)I
+ENTRE :
+LAWRENCE RALPH ELLIOTT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de
+Myrna Joyce Elliott, 2009-1282(GST)I et
+L. Paul Elliott, 2009-1284(GST)I
+Le 19 mai 2010, à Fredericton (Nouverau‑Brunswick).
+Devant : L’honorable juge Steven K. D’Arcy
+Comparutions :
+Avocat de l’appelant :
+Me William G. Stephenson
+Avocat de l’intimée :
+Me Gregory B. King
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en vertu de la Loi sur la taxe d’accise, dont l’avis est daté du 26 mai 2008 et porte le numéro 680256, est rejeté, sans dépens.
+Signé à Ottawa, Canada, ce 28e jour de janvier 2011.
+« S. D’Arcy »
+Juge D’Arcy
+Traduction certifiée conforme
+ce 18e jour de mars 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+Référence : 2011 CCI 59
+Date : 20110128
+Dossier : 2009-1282(GST)I
+ENTRE :
+MYRNA JOYCE ELLIOTT,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2009-1284(GST)I
+ET ENTRE :
+L. PAUL ELLIOTT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2009-1285(GST)I
+ET ENTRE :
+LAWRENCE RALPH ELLIOTT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge D’Arcy
+[1] En l’espèce, la question en litige est de savoir si les appelants sont responsables, en tant qu’administrateurs, du fait que la Top Ventures Ltd (la « personne morale ») a omis de verser la taxe nette relative à ses périodes de déclaration se terminant le 31 octobre 2004, le 31 janvier 2005 et le 30 avril 2005.
+[2] Le 26 mai 2008, le ministre du Revenu national (le « ministre » ) a établi une cotisation de 29 680,16 $ à l’égard de chacun des appelants (Myrna Joyce Elliott, Lawrence Paul Elliott et Lawrence Ralph Elliott) relativement au défaut de la personne morale de verser la taxe nette comme l’exige le paragraphe 228(2) de la partie IX de la Loi sur la taxe d’accise ( la « LTA »). Le ministre a également établi une cotisation à l’égard des appelants pour des intérêts de 3 911,07 $ et des pénalités de 3 060,38 $.
+[3] Les appelants ont déposé des avis d’opposition aux cotisations établies. Le 26 juin 2009, le ministre a ratifié les cotisations. Les appelants ont alors chacun interjeté appel devant la Cour à l’encontre des cotisations établies. Les trois appels ont été entendus sur preuve commune.
+[4] Lawrence Paul Elliott, que j’appellerai Paul Elliott, a témoigné pour les appelants. Paul Elliott exerce en tant qu’avocat généraliste à Fredericton pour son cabinet d’avocats, Matthews, McCrea, Elliott. J’ai conclu que c’était un témoin digne de foi.
+[5] Je résumerai d’abord les faits pertinents.
+[6] Les trois appelants ont acheté la personne morale en 1994. Depuis la date d’achat, les appelants sont les seuls actionnaires et administrateurs de la personne morale. La personne morale était propriétaire d’un pub à Fredericton, appelé Mama’s Pub & Eatery (le « pub »).
+[7] Il ressort du témoignage de Paul Elliott que Myrna Elliott n’avait pas d’expérience en affaires avant de travailler au pub. Myrna Elliott ne travaillait pas au pub lorsqu’il a été acheté en 1994. Toutefois, elle a commencé à travailler au pub lorsque Paul Elliott a entrepris ses études de droit et, au fil du temps, elle a assumé de plus en plus de responsabilités dans l’exploitation de la personne morale. Elle a fini par devenir gérante du pub.
+[8] Lawrence Ralph Elliott, que j’appellerai Ralph Elliott, est un ingénieur à la retraite. Il n’avait pas non plus d’expérience en affaires avant l’acquisition du pub par les appelants. Il n’était pas un employé du pub. Ralph Elliott contribuait, pour reprendre ses propos, lorsqu’il le pouvait pour aider dans la gestion du pub, en particulier pendant les dernières années.
+[9] Paul Elliott travaillait auprès de la personne morale comme consultant et donnait régulièrement des conseils. Il recevait une rémunération annuelle de 15 000 $ pour ses services.
+[10] Il ressort clairement de la preuve présentée à la Cour, particulièrement du témoignage de Paul Elliott, que les trois appelants prenaient part à la gestion quotidienne de la personne morale.
+[11] L’appelant a fourni un résumé d’une page faisant état des ventes du pub réalisées entre 1994 et mars 2005 (pièce A-1, onglet 3). Il ressort de ce document que les ventes ont été relativement constantes de novembre 1994 à octobre 1999 (entre 785 000 $ et 840 000 $)[1]. Les ventes du pub ont augmenté en 1999 et en 2000 et ont franchi le seuil du million en 2001 et en 2002. Les ventes ont ensuite connu une chute vertigineuse en 2003 avant de s’effondrer en 2004.
+[12] Paul Elliott a attribué la baisse des ventes à la mesure d’interdiction de fumer dans les lieux publics imposée par la Ville de Fredericton, qui s’appliquait aussi aux restaurants comme le pub. Il a déclaré que par suite de l’interdiction de fumer, l’activité du pub avait périclité. Un grand nombre des clients du pub étaient des fumeurs. Ces clients avaient cessé de fréquenter le pub dès que la mesure d’interdiction de fumer avait été imposée. Cette situation avait entraîné une baisse des ventes mensuelle d’environ 20 000 $.
+[13] Les appelants ont produit une pièce (pièce A-1, onglet 9) qui fait état des ventes mensuelles du pub entre novembre 2001 et mars 2005. Paul Elliott a mentionné que l’activité du pub était saisonnière. Par conséquent, il était important de comparer les ventes d’un mois donné aux ventes du mois correspondant dans une année antérieure.
+[14] Il ressort de la pièce produite que les ventes de chaque mois réalisées après la mesure d’interdiction de fumer intervenue le 1er juillet 2003 avaient diminué d’environ 25 % par rapport aux ventes des mois correspondants dans l’année précédente. Cette situation concorde avec le témoignage de Paul Elliott.
+[15] Toutefois, la pièce produite démontre aussi que dans chacun des huit mois qui avaient précédé la mise en œuvre de l’interdiction de fumer, les ventes avaient diminué d’environ 18 % par rapport aux ventes des mois correspondants dans l’année précédente. Bien que cette baisse des ventes n’ait pas été aussi rapide que celle intervenue après la mise en œuvre de l’interdiction de fumer, elle indique que la baisse des ventes était intervenue avant la modification introduite par le règlement sur le tabac.
+[16] La personne morale s’attendait à une baisse des ventes après la mise en œuvre de la mesure d’interdiction de fumer, mais elle avait été avisée que cette baisse ne serait qu’un phénomène passager et que les ventes reprendraient. De toute évidence, cette situation ne s’est pas produite.
+[17] La baisse des ventes a entraîné des pertes importantes pour la personne morale dans ses exercices fiscaux 2003, 2004 et 2005. Selon le témoignage de Paul Elliott, les appelants avaient pris de nombreuses mesures pour tenter de réduire les pertes au minimum. Ils se sont entre autres opposés à la mise en œuvre de l’interdiction de fumer et ont réduit leurs heures d’ouverture, les salaires ainsi que d’autres frais variables tels que les frais de représentation.
+[18] Afin de maintenir l’exploitation du pub, la personne morale avait dû emprunter 40 000 $ de sa banque pendant son exercice fiscal de 2004[2] et 100 000 $ de ses actionnaires (les appelants).
+[19] La personne morale a vendu le pub 50 000$ le 1er avril 2005. La personne morale a utilisé 13 000 $ pour payer les différents fournisseurs. Les 37 000 $ restants ont été versés à Myrna Elliott et à Ralph Elliott en remboursement partiel des prêts consentis à la personne morale à titre d’actionnaires.
+[20] Ralph Elliott a déclaré que les appelants comprenaient que la personne morale était tenue de verser la TVH perçue sur ses ventes. La personne morale avait mis sur pied un système de calcul et de paiement de la TVH. Elle avait acheté un logiciel informatique qui calculait le montant de son versement trimestriel. Ces données étaient envoyées au comptable de la personne morale qui préparait les rapports mensuels. Le comptable préparait également les déclarations de TVH trimestrielles. Ensuite, les appelants signaient et produisaient les déclarations de TVH.
+[21] Selon Ralph Elliott, avant l’imposition de la mesure d’interdiction de fumer, la personne morale avait produit ses déclarations [traduction] « essentiellement » à temps. Lors du contre‑interrogatoire, Ralph Elliott a reconnu que [traduction] « parfois », la personne morale accusait un retard allant de deux semaines à un mois dans la production de ses déclarations de TVH.
+[22] Selon le témoignage de Ralph Elliott, dès que l’interdiction de fumer a été mise en œuvre et que les ventes de la personne morale ont commencé à baisser, les appelants s’étaient rencontrés fréquemment pour discuter du paiement des factures des fournisseurs et du versement de la TVH. Paul Elliott a signalé que les appelants déterminaient, en fonction des profits de la personne morale, quelles factures [traduction] « nous pouvions régler ». À court terme, ils étaient capables de payer la plupart des factures en utilisant les revenus de la personne morale, les prêts bancaires ainsi que les prêts consentis à la personne morale par les actionnaires. Toutefois, comme la diminution des ventes n’avait pas arrêté son cours, la personne morale n’était pas capable de [traduction] « tout financer ».
+[23] La personne morale avait effectué ses versements de TVH pour ses périodes de déclaration de TVH se terminant avant août 2004. Toutefois, la personne morale n’avait effectué aucun versement concernant ses périodes de déclaration de TVH se terminant après juillet 2004.
+Le droit
+[24] Le paragraphe 323(1) de la LTA prévoit que les administrateurs d’une personne morale sont solidairement tenus de payer la taxe nette en cas de défaut de la personne morale. La responsabilité des administrateurs prévue au paragraphe 323(1) de la LTA s’étend aussi aux intérêts ou aux pénalités afférentes à la taxe nette non versée.
+[25] L’alinéa 323(2)a) de la LTA prévoit qu’un administrateur n’encourt de responsabilité selon le paragraphe 323(1) que si « un certificat précisant la somme pour laquelle la personne morale est responsable a été enregistré à la Cour fédérale en application de l’article 316 et il y a eu défaut d’exécution totale ou partielle à l’égard de cette somme. »
+[26] De plus, selon le paragraphe 323(3) de la LTA, un administrateur n’encourt pas de responsabilité « s’il a agi avec autant de soin, de diligence et de compétence pour prévenir le manquement visé au paragraphe (1) que ne l’aurait fait une personne raisonnablement prudente dans les mêmes circonstances. »
+La question préliminaire
+[27] Chacun des appelants a déposé son avis d’appel comportant une annexe identique intitulée « Motifs d’appel ». Les motifs d’appel semblent avoir été préparés par Paul Elliott et son cabinet d’avocats, Matthews, McCrea, Elliott[3].
+[28] Il est déclaré dans l’avis d’appel que le motif de l’appel est le défaut de l’Agence du revenu du Canada (l’« ARC ») de tenir compte de la défense fondée sur la diligence raisonnable prévue au paragraphe 323(3) de la LTA. Au paragraphe 17 des motifs d’appel, les appelants semblent également contester le montant de la cotisation établie. Toutefois, au début de l’audience, les parties ont avisé la Cour que le montant de la cotisation établie n’était pas en cause.
+[29] Les appelants et leur avocat n’ont soulevé d’autres questions au cours de l’audience qu’au moment des observations finales.
+[30] Au début de la présentation de ses observations finales, l’avocat des appelants a soulevé la question de l’application de l’alinéa 323(2)a) de la LTA. Il a soutenu que puisque l’intimée n’avait présenté aucune preuve, elle n’avait pas réussi à prouver que le ministre s’était conformé à l’alinéa 323(2)a) de la LTA.
+[31] Étant donné que l’avocat des appelants n’avait pas informé au préalable l’avocat de l’intimée au sujet de cet argument, j’ai laissé le choix à l’intimée de faire valoir ses arguments sur la question, soit oralement soit par la présentation d’observations écrites. L’avocat de l’intimée a choisi cette dernière voie[4].
+[32] Aux alinéas 19m) et n) de la réponse à l’avis d’appel de l’intimée, il est déclaré que, lors de l’établissement de la responsabilité des appelants selon le paragraphe 323(1) de la LTA relativement au défaut de la personne morale de verser la taxe nette, le ministre avait tenu compte des hypothèses de fait suivantes :
+[traduction]
+m) Un certificat d’un montant de 34 791,02 $ faisant état de la dette de TPS/TVH de la personne morale à ce moment‑là a été enregistré à la Cour fédérale le 1er novembre 2007. Il a été également enregistré au système provincial d’enregistrement foncier le 4 avril 2008;
+n) Le 1er novembre 2007, ou environ à cette date, un bref de saisie a été envoyé au shérif et signifié à la personne morale. Le bref est retourné nulla bona, au motif qu’on n’avait pas trouvé de biens mobiliers ni de biens immobiliers au nom de la personne morale.
+[33] Pendant l’audience, les appelants n’ont contesté ou soulevé aucune question concernant ces hypothèses.
+[34] La question soulevée par l’avocat des appelants est semblable à celle en cause dans Naguib c. La Reine, 2004 CAF 40, DTC 6082 (CAF) [Naguib]. Dans Naguib, l’argument principal invoqué par l’appelant, en appel devant la Cour d’appel fédérale, était que l’intimée n’avait pas réussi à démontrer qu’il avait fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou avait commis quelque fraude, de telle sorte qu’une cotisation pouvait être établie après l’expiration de la période normale de nouvelle cotisation comme le prévoit le sous‑alinéa 152(4)a)(i) de la Loi de l’impôt sur le revenu (la « LIR »). Lorsqu’elle a rejeté l’appel, la Cour d’appel fédérale a déclaré ce qui suit :
+4 L’appelant a prétendu qu’il incombait d’abord à l’intimée de présenter une preuve démontrant que le sous-alinéa 152(4)a)(i) s’appliquait.
+5 La difficulté à laquelle est confronté l’appelant est qu’il a omis de faire valoir ce motif comme moyen d’appel en Cour canadienne de l’impôt. Il a plutôt prétendu que la cotisation selon l’avoir net elle-même était erronée.
+6 Nous croyons que l’intimée n’était pas tenue d’invoquer des faits qui justifierait l’application du sous-alinéa 152(4)a)(i) en l’absence de contestation de la part de l’appelant dans son avis d’appel ou à l’instruction devant la Cour canadienne de l’impôt quant à la nouvelle cotisation pour le motif qu’elle a été établie après l’expiration de la période normale de nouvelle cotisation. Bien que les faits dans l’arrêt Crête c. Canada, [1997] A.C.F. no 214 (C.A.F.) ne soient pas les mêmes qu’en l’espèce en ce qu’il y était question d’une requête relative aux actes de procédure, il reste néanmoins que la déclaration suivante faite par la Cour est peut‑être utile :
+Il est évident que le juge a erré. Il reproche au ministre de ne pas avoir allégué dans la réponse à l’avis d’appel des faits pour démontrer que la nouvelle cotisation n’était pas prescrite. Mais le ministre, comme tout autre plaideur, n’est jamais tenu de répondre à une allégation qui n’a pas été faite et on a beau lire l’avis d’appel du contribuable pour trouver une allégation que l’avis de cotisation était nul parce que prescrit.
+[35] De même, en l’espèce, les appelants n’ont pas, dans leurs avis d’appel ou à l’instruction, contesté les cotisations en partant du principe que le ministre avait omis de se conformer aux dispositions de l’alinéa 323(2)a) de la LTA. Dans une telle situation, le ministre n’était pas tenu d’invoquer des faits qui justifierait l’application de l’alinéa 323(2)a) de la LTA.
+[36] De plus, les appelants n’ont présenté aucun élément de preuve dans leurs avis d’appel ou pendant l’audience pour contester les hypothèses énoncées aux alinéas 19m) et n) de la réponse de l’intimée. En pareilles circonstances, le ministre n’était pas tenu de présenter une preuve à l’appui des hypothèses de fait contenues aux alinéas 19m) et n) de sa réponse. Ces hypothèses répondent aux conditions de l’alinéa 323(2)a) de la LTA.
+Application du moyen de défense fondé sur la diligence raisonnable
+[37] Les appelants soutiennent qu’ils remplissent les conditions prévues par le paragraphe 323(3) de la LTA. Leur avocat a avancé que le défaut de versement de la taxe nette était dû à un cas de force majeure (l’interdiction de fumer). Il s’est concentré sur les diverses mesures prises par les appelants afin de permettre à la personne morale de continuer à fonctionner après l’imposition par la Ville de Fredericton du règlement administratif portant interdiction de fumer dans les lieux publics. Ces mesures portaient notamment sur la réduction des heures d’ouverture, la réduction des coûts variables et consistaient en l’injection d’un capital important dans la personne morale par les appelants, au moyen de prêts d’actionnaires. L’avocat des appelants a insisté sur le fait que la personne morale avait reçu un avis professionnel selon lequel la tendance à la baisse observée dans l’activité du pub serait de courte durée et que les ventes [traduction] « reprendraient. »
+[38] Le paragraphe 323(3) de la LTA s’applique seulement si les appelants, en leur qualité d’administrateurs de la personne morale, ont agi avec autant de soin, de diligence et de compétence pour prévenir le manquement que ne l’aurait fait une personne raisonnablement prudente dans les mêmes circonstances.
+[39] Il s’agit là d’une question de fait. Toutefois, les tribunaux ont établi certains principes généraux qui doivent être tenus en compte dans l’application du droit aux faits d’une affaire particulière.
+[40] Les principes généraux ont été résumés dans les arrêts rendus par la Cour d’appel fédérale dans Soper v. Canada, 97 DTC 5407 (CAF) [Soper] et Canada (Procureur général) c. McKinnon, [2001] 2 C.F. 203 (CAF) [McKinnon][5].
+[41] La norme de « diligence raisonnable » applicable selon le paragraphe 323(3) de la LTA est une norme objective subjective. La Cour d’appel fédérale a fait la déclaration suivante dans l’arrêt McKinnon, précité, au paragraphe 26 :
+26 […] pour juger si un administrateur a agi avec « le degré de soin, de diligence et d’habileté pour prévenir le manquement qu’une personne raisonnablement prudente aurait exercé dans des circonstances comparables », le juge doit prendre en considération les caractéristiques de l’administrateur en question, y compris son niveau de compétence, d’expérience et de savoir au regard de ses fonctions. Le juge doit ensuite se demander si, dans des circonstances similaires, un administrateur raisonnablement prudent, avec un niveau de compétence, d’expérience et de connaissances comparable, aurait fait de même […]
+[42] En ce qui concerne les administrateurs internes, à l’instar des appelants, la Cour d’appel fédérale a fait observer dans Soper, précité, qu’ils auront le plus de mal à invoquer la défense de diligence raisonnable étant donné qu’ils s’occupent de la gestion quotidienne de la personne morale et qu’ils influencent la conduite de ses affaires.
+[43] Il ressort clairement du libellé du paragraphe 323(3) de la LTA que la diligence raisonnable exigée de l’administrateur est de prévenir le défaut de versement.
+[44] J’accepte le fait qu’en l’espèce, les appelants ont pris de nombreuses mesures pour permettre à la personne morale de continuer à fonctionner et de rester dans un état stable. Toutefois, je n’accepte pas le fait que pendant la période où il y a eu défaut de versement de la taxe nette (août 2004 à avril 2005), les appelants aient pris des mesures pour prévenir le défaut de versement.
+[45] Compte tenu de la preuve dont la Cour est saisie, il est évident que les appelants ont pris la décision de ne pas verser la taxe due pour les périodes en cause. Paul Elliott a déclaré que les appelants s’étaient régulièrement rencontrés et avaient décidé quelles factures payer et quelles factures ne pas honorer. Il semble que, pendant la période en cause, les appelants aient décidé d’utiliser les liquidités disponibles pour rembourser le prêt bancaire et désintéresser la plupart des fournisseurs, sinon tous. Les appelants avaient également décidé de ne pas verser les montants dus au titre de la taxe nette. Je ne vois pas comment, au moyen de telles mesures, les appelants ont agi avec soin, diligence et compétence pour prévenir le défaut de versement.
+[46] Je n’accepte pas l’argument des appelants selon lequel le défaut de versement était dû à un cas de force majeure. La mesure d’interdiction de fumer a été imposée le 1er juillet 2003, 13 mois avant que la personne morale ne commence à se soustraire à son obligation d’effectuer les versements. L’interdiction de fumer n’était pas un événement soudain. De plus, il ressort de la preuve produite par les appelants que la chute des ventes du pub avait commencé huit mois avant la mise en œuvre de la mesure d’interdiction de fumer.
+[47] Quoi qu’il en soit, l’argument selon lequel les appelants avaient fait preuve de diligence raisonnable a perdu tout son poids lorsque la personne morale a été vendue le 1er avril 2005. La vente du pub avait rapporté 50 000 $ à la personne morale, ce qui était plus que suffisant pour effectuer les versements en souffrance et les versements concernant la période de déclaration se terminant le 30 avril 2005. Toutefois, les appelants avaient choisi d’utiliser l’essentiel de l’argent pour rembourser les prêts d’actionnaires à Myrna Elliott et Ralph Elliott plutôt que d’effectuer les versements requis au gouvernement.
+[48] Pour les motifs exposés ci‑dessus, les appels sont rejetés, sans dépens.
+Signé à Ottawa, Canada, ce 28e jour de janvier 2011.
+« S. D’Arcy »
+Juge D’Arcy
+Traduction certifiée conforme
+ce 18e jour de mars 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+RÉFÉRENCE : 2011 CCI 59
+Nos DES DOSSIERS DE LA COUR : 2009-1282(GST)I, 2009- 1284(GST)I et
+2009-1285(GST)I
+INTITULÉ : MYRNA JOYCE ELLIOTT, L. PAUL ELLIOTT et LAWRENCE RALPH ELLIOTT
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Fredericton (Nouveau‑Brunswick)
+DATE DE L’AUDIENCE : Le 19 mai 2010
+MOTIFS DU JUGEMENT : L’honorable juge Steven K. D’Arcy
+DATE DU JUGEMENT : Le 28 janvier 2011
+COMPARUTIONS :
+Avocat des appelants :
+Me William G. Stephenson
+Avocat de l’intimée :
+Me Gregory B. King
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom : William G. Stephenson
+Cabinet : Stephenson Choukri
+Fredericton, (Nouveau‑Brunswick)
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Les chiffres de vente figurant à l’onglet 3 concernaient chacun des exercices fiscaux de la personne morale, qui se terminaient le 31 octobre de chaque année.
+[2] La personne morale avait remboursé le prêt bancaire avant la vente du pub.
+[3] Paul Elliott et son cabinet figurent comme avocats sur les avis d’appels déposés pour Ralph Elliott et Myrna Elliott.
+[4] La Cour a reçu de l’appelant les observations écrites le 2 juin 2010 et de l’intimée le 16 juin 2010, et a reçu de l’appelant les observations en réplique le 29 juin 2010.
+[5] L’appel dans Soper portait sur le paragraphe 227.1(3) de la LIR. L’appel dans McKinnon portait sur le paragraphe 227.1(3) de la LIR et sur le paragraphe 323(3) de la LTA. Le libellé du paragraphe 227.1(3) de la LIR est identique à celui du paragraphe 323(3) de la LTA.

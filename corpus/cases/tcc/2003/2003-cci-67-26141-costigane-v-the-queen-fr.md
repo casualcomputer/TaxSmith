@@ -1,0 +1,125 @@
+---
+title: "Costigane v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26141/index.do"
+last_modified: "2003-03-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 67"
+citation2: ""
+neutral_citation: "2003 CCI 67"
+decision_date: "2003-03-31"
+language: "fr"
+item_id: "26141"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4136
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:22:32.277000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e927b577e9e9e4787008fc2c07dbae6a907e992ee6334ded6c1c8f1b962d8b1b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Costigane v. The Queen
+
+- Citation: 2003 CCI 67
+- Decision date: 2003-03-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4136, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Costigane v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-03-31
+Référence neutre
+2003 CCI 67
+Numéro de dossier
+2000-5079(IT)G
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier: 2000-5079(IT)G
+ENTRE :
+THOMAS COSTIGANE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 7 février 2003, à Kitchener (Ontario)
+Devant : l'honorable juge Campbell J. Miller
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Sointula Kirkpatrick
+____________________________________________________________________
+JUGEMENT MODIFIÉ
+L'appel de la cotisation d'impôt établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1995 est rejeté.
+Les appels des cotisations d'impôt établies en vertu de la Loi pour les années d'imposition 1996 et 1997 sont admis, sans dépens, et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations en tenant compte du fait que, dans le calcul de son revenu, l'appelant est en droit de déduire les sommes payées à Destiny Capital Corp. en 1996 et 1997 de 14 656 $ et de 22 277 $ respectivement.
+Signé à Ottawa, Canada, ce 31e jour de mars 2003.
+« Campbell J. Miller »
+J.C.C.I.
+Traduction certifiée conforme
+ce 23e jour de février 2005.
+Sophie Debbané, réviseure
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence: 2003CCI67
+Date: 20030331
+Dossier: 2000-5079(IT)G
+ENTRE :
+THOMAS COSTIGANE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT MODIFIÉ
+Le juge Miller, C.C.I.
+[1] Thomas Costigane a interjeté appel sous le régime de la procédure générale à l'encontre des cotisations établies par le ministre du Revenu national (le « ministre » ) pour les années d'imposition 1995, 1996 et 1997 sur deux points. Tout d'abord, le Dr Costigane est en désaccord avec le refus par le ministre de permettre la déduction de frais de services de tenue de registres d'environ 19 000 $ payés à Costigane Financial Services pour chacune des années en cause. Costigane Financial Services est une fiducie qui a été créée au profit des trois enfants mineurs du Dr Costigane. Deuxièmement, le Dr Costigane est en désaccord avec le refus d'une déduction de 14 656 $ en 1996 et de 22 277 $ en 1997 pour ce qu'il considère comme une assurance de remplacement payée à une société des îles Vierges britanniques.
+[2] Le Dr Costigane est dentiste. Le 2 janvier 1993, Linda Gillis a conclu un contrat de fiducie portant 100 $ au compte de la fiducie familiale Costigane. Le Dr Costigane a signé le contrat à titre d'un des trois fiduciaires, les deux autres étant sa soeur et son beau-frère. Les trois enfants mineurs du Dr Costigane étaient les bénéficiaires de la fiducie familiale Costigane. À la même date, le Dr Costigane a conclu une entente de services avec Costigane Financial Services, une entité décrite dans l'entente de deux pages comme une entreprise à propriétaire unique appartenant à la fiducie familiale Costigane.
+[3] Selon les modalités de cette entente, Costigane Financial Services devait fournir à la pratique dentaire du Dr Costigane des services de gestion, de tenue des livres et de comptabilité, y compris la tenue des comptes acquittés, la perception des sommes à recevoir et la tenue de registres exacts. Le Dr Costigane a convenu de payer à Costigane Financial Services des honoraires mensuels de 2 450,00 $. Le Dr Costigane a versé 29 400 $ par année à Costigane Financial Services pour 1995, 1996 et 1997.
+[4] Le Dr Costigane a témoigné qu'il avait conclu cette entente en vue de se libérer de son obligation de tenue de registres, tâche qui nécessitait de une à cinq heures de son temps chaque jour. Dans sa recherche d'un service de tenues de registres adéquat, il souhaitait trouver quelqu'un qui serait familier avec sa pratique dentaire et en qui il pourrait avoir confiance pour garder le secret professionnel à l'égard de ses patients. Ses recherches ont abouti à ses propres employés, Mme Lynch, Mme Briggs et Mme Booth, qu'il a décrites comme étant assistante dentaire, réceptionniste et assistante dentaire en dentisterie préventive. Il a pris des dispositions pour que Costigane Financial Services embauche ces trois employées de la clinique dentaire afin qu'elles deviennent également employées de Costigane Financial Services dans le but de fournir les services décrits dans l'entente. Costigane Financial Services versait à deux des trois employées la même rémunération qu'elles obtenaient du Dr Costigane pour leur travail effectué directement pour lui. L'autre employée était payée 14,60 $ par heure plutôt que 14 $. En 1996, seules Mme Lynch et Mme Briggs avaient ces doubles conditions d'emploi; Mme Briggs touchait le même salaire horaire (11,72 $) pour les deux emplois, alors que Mme Lynch recevait 15,84 $ de l'heure de Costigane Financial Services et 15,90 $ directement du Dr Costigane. En 1997, une nouvelle employée a été intégrée à l'entente. Les trois employées touchaient le même salaire horaire pour les deux emplois en 1997. Les sommes payées par Costigane Financial Services à ses employées en 1995, 1996 et 1997 étaient de 8 152 $, 8 494 $ et 8 531 $ respectivement. Les autres dépenses engagées par Costigane Financial Services pour chacune de ces trois années ne dépassaient pas 500 $.
+[5] Costigane Financial Services a réalisé des bénéfices d'environ 21 000 $ durant chacune des trois années en cause et ceux-ci ont été répartis également par la fiducie familiale Costigane entre les trois bénéficiaires mineurs.
+[6] Le Dr Costigane a indiqué qu'il avait établi le montant des honoraires mensuels à 2 450 $ en fonction de ce qu'il croyait que les autres firmes professionnelles, notamment les cabinets de comptables, facturaient en plus pour leur personnel. Il s'est également fondé sur ce que lui-même, dans sa clinique dentaire, facturait pour ses assistantes, comparativement à ce qu'il leur payait. Il a indiqué que la majoration était de quatre ou cinq fois. Il a également contacté une petite entreprise offrant des services de tenue des livres. Selon lui, cette entreprise demandait de 40 $ à 60 $ par heure pour ses employés mais ne les payait qu'environ 10 $ à 12 $ par heure.
+[7] Le Dr Costigane a suggéré que certains avantages découlaient de cette entente, notamment une meilleure analyse des coûts (vu la séparation des tâches administratives des tâches cliniques), une détermination plus équitable des primes pour le personnel dentaire, une réduction des primes de la Commission de l'indemnisation des accidents du travail pour le personnel administratif, des difficultés moins importantes au moment de la cessation d'emploi et la capacité d'obtenir un prix plus élevé pour l'ensemble de la clinique dentaire si l'aspect de gestion et de tenue des livres formait une composante séparée.
+[8] Relativement à la deuxième question, le Dr Costigane a fourni des renseignements considérables sur le contexte du milieu médical et du domaine des soins de santé du début et du milieu des années 1990. Le domaine des soins de santé traversait une période d'agitation et on pouvait dénoter une tendance vers le phénomène américain des organisations de soins intégrés de santé (OSIS). Les OSIS avaient été créées par d'importantes compagnies d'assurance dans le but de réduire les coûts au minimum. Elles retenaient les services de groupes importants de souscripteurs, lesquels obtenaient l'assurance que les coûts des soins médicaux qu'ils auraient à payer demeureraient peu élevés. Cela s'explique par le fait que, malgré les honoraires que les médecins demandaient à leurs patients, ils ne pouvaient obtenir des OSIS qu'un taux réduit. Si les OSIS gagnaient en popularité, un médecin pratiquant en dehors d'une OSIS n'aurait que peu de patients, voire aucun. Le Dr Costigane a eu peur de voir son revenu descendre en flèche en raison d'un bouleversement possible de la conjoncture.
+[9] Il a cherché des moyens de se protéger contre une forte chute de son revenu. Il a appris dans un salon professionnel l'existence de Destiny Capital Management Corp., une société des îles Vierges britanniques. Le Dr Costigane a cru que le type d'entente qu'offrait Destiny servirait d'assurance de remplacement du revenu. Il n'avait pas réussi jusqu'alors à obtenir le type de protection qu'il recherchait de la Société pour l'expansion des exportations car cet organisme ne fournissait une protection semblable qu'aux entités produisant des biens durables. Le Dr Costigane a donc conclu avec Destiny Capital Corp. une entente nommée [traduction] « entente de vente et d'achat de ressources » ( « EVAR » ).
+[10] Aux termes de l'EVAR, le Dr Costigane a vendu ses comptes clients à Destiny à 95 pourcent de la valeur nominale des factures. En réalité, le Dr Costigane a tout simplement versé à Destiny cinq pourcent du montant total de ses factures. Le Dr Costigane a compris que l'entente portait que si la proportion des sommes recouvrées descendait en dessous de 95 pourcent, Destiny assumerait la différence. Le pourcentage des sommes recouvrées n'a jamais descendu en dessous de 95 pourcent avant la résiliation de l'entente. Le Dr Costigane a payé à Destiny 14 656,00 $ en 1996 et 22 277,00 $ en 1997. Il a témoigné que Destiny vérifiait les opérations de la pratique dentaire et qu'elle n'avait jamais constaté de divergences. Elle n'a jamais eu à payer quoi que ce soit au Dr Costigane. Le Dr Costigane ne l'a pas informée de l'objectif véritable qu'il poursuivait, c'est-à-dire de se protéger contre les répercussions possibles découlant de la création des OSIS.
+[11] Le Dr Costigane a déclaré que les honoraires de gestion et de tenue des livres payés à Costigane Financial Services représentaient la juste valeur marchande pour des services légitimes de ce genre. Il a soutenu que Costigane Financial Services, par l'entremise de la Costigane Financial Trust, poursuivait un but commercial approprié et que seules ses employées possédaient toutes les qualifications qu'il recherchait chez un fournisseur de services de tenue des livres : confidentialité, efficacité en raison de l'accès aux lieux, connaissance de la clinique et connaissance des codes de remboursement de la taxe sur les produits et services.
+[12] Pour ce qui est des dépenses relatives à Destiny, le Dr Costigane les a comparées à celles engagées pour n'importe quel type d'assurance, qu'il s'agisse d'assurance-incendie ou d'assurance-invalidité. Il croyait avoir trouvé l'assurance parfaite de remplacement du revenu.
+[13] L'intimée a soutenu que la fiducie familiale avait été créée en vue de fournir lesdits services de tenue des livres, même si le Dr Costigane savait qu'il pouvait obtenir des services identiques de ses employées en déboursant simplement le coût de leurs salaires. Il savait que sa pratique dentaire pouvait économiser 21 000,00 $ par année plutôt que de faire passer cet argent dans la fiducie destinée à ses enfants. Il était déraisonnable de payer environ quatre fois plus qu'il n'était nécessaire.
+[14] Relativement à Destiny, l'intimée a allégué que l'entente n'était pas une assurance de remplacement du revenu. Selon les modalités de l'entente, le Dr Costigane payait cinq pour cent des factures qu'il avait déjà recouvrées - il n'existait là aucun élément d'assurance. Ces dépenses n'ont pas été engagées dans le but de gagner ou de produire un revenu.
+[15] Tout d'abord, en ce qui a trait à la demande du Dr Costigane concernant la déduction des honoraires annuels de 29 400,00 $ pour la tenue des livres, je ne suis pas convaincu que ce paiement était raisonnable. Le Dr Costigane n'a pas fourni d'exemple comparable au sujet d'une autre firme de tenue des livres ou de comptabilité qui aurait demandé 30 000 $ par année pour effectuer le type de travail dont la clinique dentaire du Dr Costigane avait besoin. Le seul élément comparable fourni en preuve, ce sont les employés mêmes qui auraient pu travailler directement pour la clinique plutôt que par l'intermédiaire de la fiducie. Les dépenses du Dr Costigane auraient alors représenté environ 8 000,00 $ par année pour un tel travail.
+[16] Il n'est pas illégal ni inapproprié qu'un contribuable organise ses activités en vue de créer un certain fractionnement du revenu. Cette question n'est pas en litige. La question à trancher est de savoir si les dépenses étaient raisonnables. Le fait de prendre trois employées formées dans un autre domaine que celui de la comptabilité, de les payer le même salaire pour tenir des livres que pour des tâches liées aux soins dentaires, puis de créer une fiducie familiale afin de majorer trois fois le coût de ces employées, pour verser 7 000,00 $ par année à chacun de ses enfants, ne peut constituer une déduction raisonnable pour l'entreprise du Dr Costigane.
+[17] L'article 67 de la Loi de l'impôt sur le revenu exige que chaque dépense soit raisonnable pour qu'elle puisse être déduite dans le calcul du revenu. Le ministre a accordé une majoration de 15 pourcent sur la rémunération des employées de Costigane Financial Services. Bien que je sois d'accord avec le Dr Costigane lorsqu'il affirme que cela est arbitraire, il n'en reste pas moins que cela est raisonnable. En revanche, ce que le Dr Costigane a tenté de faire ne l'est pas.
+[18] En ce qui a trait aux dépenses liées à Destiny, j'apprécie ce que le Dr Costigane a tenté de protéger. Je crois que son appréciation du domaine des soins de santé des années 1990 était pertinente : les OSIS frappaient aux portes du Canada et, si elles avaient réussi a y pénétrer, les répercussions sur le revenu du Dr Costigane auraient pu être importantes. Je suis également convaincu qu'il a cherché d'autres options en vue de se protéger. Par contre, je ne suis pas convaincu que, s'il s'était trouvé acculé au pied du mur, l'entente conclue avec Destiny lui aurait fourni la couverture complète qu'il croyait pouvoir obtenir. Cependant, je suis convaincu que le Dr Costigane croyait qu'il l'obtiendrait. Il avait l'esprit tranquille car il croyait avoir une assurance de remplacement du revenu.
+[19] Je n'accepte pas l'argument de l'intimée à l'effet que, puisque le Dr Costigane avait déjà recouvré ses comptes clients lorsque la commission de cinq pourcent basée sur ceux-ci était payée, ces dépenses n'étaient pas déductibles. L'entente était certes quelque peu étrange, mais je considère que son effet est que Destiny payait au Dr Costigane 95 pourcent de toutes ses factures chaque mois, en retenant cinq pourcent pour elle-même. À toutes fins pratiques, cependant, le Dr Costigane recouvrait les factures et, en autant qu'il recouvrait plus de 95 pourcent d'entre elles, il versait tout simplement cinq pourcent à Destiny. Comme il l'a expliqué, advenant qu'il ne réussisse pas à recouvrer au moins 95 pourcent de ses factures, Destiny aurait à lui payer la différence. Bien qu'il ne soit pas difficile d'imaginer que Destiny aurait pu invoquer un certain nombre de motifs pour protester contre une baisse du taux de perception de 95 pourcent provoquée par la création des OSIS, le Dr Costigane était clairement convaincu qu'il possédait une assurance. Les frais d'assurance engagés pour remplacer un revenu sont, quel qu'en soit le motif, déductibles. De tels frais, comme ceux engagés pour d'autres types d'assurance, sont directement liés au fait de gagner un revenu. J'estime que les dépenses du Dr Costigane sont raisonnables et qu'elles ont été engagées dans le but de gagner ou de produire un revenu.
+[20] L'appel de la cotisation pour l'année d'imposition 1995 est rejeté. Les appels des cotisations pour les années d'imposition 1996 et 1997 sont admis, sans dépens, et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations en tenant compte du fait que le Dr Costigane est en droit de déduire les sommes payées à Destiny de 14 656,00 $ et de 22 277,00 $ pour 1996 et 1997 respectivement.
+Signé à Ottawa, Canada, ce 31e jour de mars 2003.
+« Campbell J. Miller »
+J.C.C.I.
+Traduction certifiée conforme
+ce 23e jour de février 2005.
+Sophie Debbané, réviseure

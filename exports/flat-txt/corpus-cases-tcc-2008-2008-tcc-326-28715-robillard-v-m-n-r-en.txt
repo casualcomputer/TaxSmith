@@ -1,0 +1,177 @@
+Title: Robillard v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28715/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-326-28715-robillard-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2008-06-16
+
+# Robillard v. M.N.R.
+
+- Citation: 2008 TCC 326
+- Decision date: 2008-06-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1440, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Robillard v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-06-16
+Neutral citation
+2008 TCC 326
+File numbers
+2007-4318(EI)
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2007-4318(EI)
+BETWEEN:
+CAROLE ROBILLARD,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on April 22, 2008, at Montréal, Quebec
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Counsel for the Appellant:
+Madeleine Leduc
+Counsel for the Respondent
+Sarom Bahk
+____________________________________________________________________
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act ("the Act) is allowed in accordance with the attached Reasons for Judgment on the ground that Carole Robillard was employed in insurable employment within the meaning of paragraph 5(1)(a) of the Act when she was working with Agence de Vente Dan‑Mar (ADM) Inc. during the period from December 7, 2005, to December 14, 2006.
+Signed at Ottawa, Canada, this 16th day of June 2008.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 24th day of July 2008.
+Brian McCordick, Translator
+Citation: 2008TCC326
+Date: 20080616
+Docket: 2007-4318(EI)
+BETWEEN:
+CAROLE ROBILLARD,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] The issue for determination in the instant case is whether the work done by the Appellant for Agence de Vente Dan‑Mar (ADM) Inc. ("the Payor") from December 7, 2005 to December 14, 2006 ("the relevant period") met the requirements of a contract of service under paragraph 5(1)(a) of the Employment Insurance Act ("the Act").
+[2] The decision made by the Minister of National Revenue ("the Minister") is based on his determination that the Appellant was not employed under a contract of service, and, in this regard, the Minister relied on the following assumptions of fact set out in paragraph 7 of the Reply to the Notice of Appeal:
+[TRANSLATION]
+(a) The Payor was incorporated on February 28, 1989.
+(b) Donald Cloutier was the Payor's sole shareholder.
+(c) The Payor operates an agency that represents manufacturers in major stores, but primarily pharmacies.
+(d) The Payor's principal mandate is to represent the products of various manufacturers, which are its customers, in pharmacies.
+(e) The Payor sold pharmaceutical products such as natural products, prosthetics, dental cleaning products and antibacterial products, but did not sell any medications.
+(f) In order to promote and sell the manufacturers' products, the Payor hires sales representatives whom it considers self-employed.
+(g) The Appellant was hired by the Payor as a representative in November 2003.
+(h) Apparently, the Payor gave the Appellant a copy of the contract that it gets all representatives to sign but she never signed it or returned it to the Payor.
+(i) The Appellant had to promote and sell four product lines in pharmacies located within a territory designated by the Payor.
+(j) Initially, the Appellant received training from the manufacturers of the products to be promoted; she was not paid for this training time.
+(k) The Appellant began her work with a list of customers supplied by the Payor, but she had the opportunity to lengthen her customer list and enlarge her territory (with the Payor's permission).
+(l) The Appellant only worked in the field, and, to a limited extent, at home. She did not go to the Payor's place of business.
+(m) The Appellant had no work schedule to comply with, and the Payor did not record her hours.
+(n) The Appellant scheduled her own appointments with the various pharmacies, and contacted the suppliers directly to obtain samples of their products, etc.
+(o) The Payor provided the Appellant with business cards that she could leave with pharmacies, as well as order forms that she had to fill out every time she made a sale.
+(p) The Appellant had to submit the order forms and prepare a weekly sales report for the Payor.
+(q) The Appellant prepared her reports on her personal computer at home and e-mailed them to the Payor.
+(r) The Appellant was paid by commission. Initially, she received a fixed sum of money on account of her commission, which the Payor considered an advance. During the period in issue, she was still paid by commission (5% of her sales), but only on the sales that she made.
+(s) The Appellant and the Payor could not modify the pricing of the products that they sold.
+(t) The Appellant had no sales quota to meet.
+(u) The Appellant occasionally had to travel for training courses, and all the costs incurred were hers to defray.
+(v) In connection with her work, the Appellant supplied an office in her home, as well as her own computer equipment, fax machine, stationery and automobile, all at her expense.
+(w) The Payor made no premises or equipment available to the Appellant.
+(x) The Payor offered the Appellant no benefits.
+(y) The Appellant had no workers' compensation (CSST) coverage.
+(z) During the period in issue, the Payor never prepared any report evaluating the Appellant's work.
+(aa) The Appellant devoted all her time and efforts to increasing her income, and could work for other payors.
+(bb) In her work for the Payor, the Appellant had a chance of profit and a risk of loss, depending on the amount of time that she was willing to devote to her work.
+[3] Only Donald Cloutier (the sole shareholder, director and officer of the Payor) testified for the Respondent. The Appellant testified in support of her position.
+[4] The Respondent submitted the following decisions to the Court: Produits Star Appetizing Inc. v. Canada (Minister of National Revenue – M.N.R.), [2006] T.C.J. No. 217, 2006 TCC 201; Grimard v. Canada, [2007] T.C.J. No. 559, 2007 TCC 755; and 9041‑6868 Québec Inc. v. Canada (Minister of National Revenue – M.N.R.), [2005] F.C.J. No. 1720, 2005 FCA 334.
+[5] The Appellant's credible testimony discloses as follows:
+(i) She never signed a contract with the Payor, because the Payor never gave her one to sign.
+(ii) From November 2003 to December 31, 2004, she was not paid by commission. For the first six months of this period, she said that she received fixed remuneration in the amount of $1000 every two weeks from the Payor for three days of work each week. She added that, for the remainder of the period, she received fixed remuneration in the amount of $1500 every two weeks for four days of work. The Appellant explained that, effective January 1, 2005, the Payor imposed a new method of remuneration on her; from then on, she was compensated solely by commission. She added that the Payor also forced her to become a GST and QST registrant as of that date. She specified that the taxes were collected from the Payor on the commissions that she received from the Payor, and then remitted to the tax authorities.
+(iii) She had to assume all the costs and expenses related to the sales made during the relevant period.
+(iv) During the relevant period, the Payor imposed no sales quota on her; however, she stated that the Payor required explanations if she was selling less.
+(v) She was not free to sell products other than the Payor's during the relevant period.
+(vi) At no time during the relevant period did she become the owner of the goods sold. She specified that she never decided the selling prices of the goods, and never billed the Payor's customers during the period.
+(vii) She would not have been able to hire her own salespeople without the Payor's consent or involvement during the period in issue.
+(viii) She had to comply with a work schedule during the relevant period. She explained that she had to work Monday to Friday from 9 a.m. to 5 p.m. She also said that she had to notify the Payor of her absences, and get the Payor's permission with respect to her vacation dates. She added that the Payor often checked on how she was spending her days.
+(ix) She could serve only the Payor's customers during the relevant period. In this regard, she explained that the Payor assigned each representative an exclusive territory, and gave each of them a list of customers that they were to serve within their exclusive territory. She added that she could not recruit new customers within her assigned territory unless the Payor approved and the new customers were pharmacies.
+(x) During the relevant period, the Payor required her to produce a daily report on the customers she visited. The Payor required the Appellant to submit a weekly report on the sales that she made during the week. She explained that, based on these weekly sales reports, the Payor prepared invoices (Exhibit I‑1) setting out the commission amounts earned plus GST and QST.
+(xi) She never worked on the Payor's premises during the relevant period. She specified that the Payor occasionally summoned her to a hotel so that she could report on her activities.
+(xii) She had to assume the expense of attending the monthly meetings, which were most often held at the premises of one of the Payor's suppliers. At these meetings, the Payor or suppliers gave her training on the products to be sold and, occasionally, on sales techniques. The Appellant acknowledged that she was not paid for this training time, though she specified that the Payor covered the cost of her lunch at these monthly meetings.
+(xiii) She received no benefits from the Payor.
+(xiv) The Payor did not provide her with any premises or equipment.
+[6] The evidence further discloses that the Appellant always reported the earnings from her work as business income in her tax returns. In this regard, the Appellant explained that, due to her lack of knowledge of tax law, she made no distinction between income from a business and income from employment, since, in both cases, she was allowed to deduct the expenses that she incurred to earn commissions. With respect to this issue, she said that her accountant was the one who decided, on his own initiative, to enter her work remuneration as business income, and that this decision was never the subject of discussion between them. She added that she was content to submit a statement of commission income annually to her accountant, along with the vouchers associated with the expenses that she had incurred during the year for the purpose of earning her commissions.
+[7] Mr. Cloutier testified as follows:
+(i) Generally, he had all the Payor's representatives sign a standard-form contract (Exhibit I-6). He said that he could not explain why the Payor and the Appellant did not sign the standard-form contract.
+(ii) The Appellant had to serve the Payor's clientele within the territory that it assigned her. Mr. Cloutier specified that the Appellant was free to sell products other than the Payor's, as long as those products did not compete with the Payor's products and the Appellant's sales were not adversely affected by that activity. He also stated that the representatives could hire their own salespersons, without needing the Payor's approval.
+(iii) The Payor did not provide the representatives with any work tools. Mr. Cloutier added that they had to personally assume the costs and expenses related to sales.
+(iv) The Payor imposed no sales quota on its representatives.
+(v) The representatives were responsible for planning their work, decided how many hours and days they worked, and chose the customers to meet and the frequency of such meetings. Mr. Cloutier added that the representatives determined the timing and duration of their vacations.
+(vi) The representatives did not determine the pricing of the goods sold, but the Payor did not do so either. Mr. Cloutier explained that it was the Payor's suppliers who determined the selling prices of the goods. He also acknowledged that the representatives never became owners of the goods sold. In addition, he specified that the representatives never billed the Payor's customers.
+(vii) The Payor did not require its representatives to account for their activities, nor did it evaluate or take disciplinary action against them. However, Mr. Cloutier said that they had to submit a weekly report of their sales during the week in question. He categorically denied that the Payor required the Appellant to do an inventory upon visiting the Payor's client.
+(viii) Essentially, the purpose of the monthly training meetings, held mostly at the Payor's suppliers' places of business, was to get to know the suppliers' new products and marketing plans. Mr. Cloutier explained that it was chiefly the Payor's suppliers that summoned the representatives to such meetings.
+(ix) During the relevant period, the Appellant was paid solely by commission, and nothing more. It should be noted that Mr. Cloutier reluctantly admitted that the Appellant, prior to the relevant period, had received fixed remuneration which was not based on her sales. I would also note that Mr. Cloutier reluctantly acknowledged that the Payor did not advance money to the Appellant at any time prior to the relevant period. Lastly, Mr. Cloutier explained that the Payor decided to change the Appellant's remuneration method because it was not profitable for it to pay her fixed remuneration, that is to say, remuneration that was not dependent on her sales.
+Analysis and conclusion
+[8] When the courts must define concepts from Quebec private law to apply federal legislation such as the Employment Insurance Act, they must follow the rule of interpretation in section 8.1 of the Interpretation Act. To determine the nature of a Quebec employment contract and distinguish it from a contract for services, one must apply the relevant rules of the Civil Code of Québec (the "Civil Code"), at least since June 1, 2001. These rules are not consistent with the rules stated in decisions such as 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] 2 S.C.R. 983 and Wiebe Door Services Ltd. v. M.N.R., [1986] 3 F.C. 553. Contrary to the situation with the common law, the constituent elements of a contract of employment have been codified, and, since the coming into force of articles 2085 and 2099 of the Civil Code on January 1, 1994, the courts no longer have the same latitude as the common law courts to define what constitutes an employment contract. If it is necessary to rely on previous court decisions to determine whether there was a contract of employment, one must choose decisions with an approach that conforms to civil law principles.
+[9] The Civil Code contains distinct chapters governing the "contract of employment" (articles 2085 to 2097) and the "contract of enterprise or for services" (articles 2098 to 2129).
+[10] Article 2085 states that a contract of employment
+. . . is a contract by which a person, the employee, undertakes for a limited period to do work for remuneration, according to the instructions and under the direction or control of another person, the employer.
+[11] Article 2098 states that a contract of enterprise
+. . . is a contract by which a person, the contractor or the provider of services, as the case may be, undertakes to carry out physical or intellectual work for another person, the client or to provide a service, for a price which the client binds himself to pay.
+[12] Article 2099 follows, and states:
+The contractor or the provider of services is free to choose the means of performing the contract and no relationship of subordination exists between the contractor or the provider of services and the client in respect of such performance.
+[13] It can be said that the fundamental distinction between a contract for services and a contract of employment is the absence, in the former case, of a relationship of subordination between the provider of services and the client, and the presence, in the latter case, of the right of the employer to direct and control the employee. Thus, what must be determined in the case at bar is whether there was a relationship of subordination between the Payor and the Appellant.
+[14] The Appellant has the burden of proving, on a balance of probabilities, the facts in issue that establish its right to have the Minister's decision vacated. She must prove the contract entered into by the parties and establish their common intention with respect to its nature. Where, as in the instant case, there is no direct evidence of that intention, the Appellant may turn to indicia in keeping with the contract that was entered into and the Civil Code provisions that governed it. In the case at bar, if the Appellant wishes to show that there was an employment contract, she will have to prove that there was a relationship of subordination. I wish to emphasize that where the evidence discloses elements both of independence and of subordination, the finding must be that a contract of employment existed, because there can be no subordination in the performance of a contract for services.
+[15] Was the Appellant free to choose "when" and "where" to work? These are two indicia that must be examined where, as here, it must be determined whether there was a relationship of subordination between the Payor and the Appellant. While the answer to this question is not necessarily determinative in and of itself, an analysis of the question is necessary. In the case at bar, the Appellant has satisfied me that the facts in the Reply to the Notice of Appeal concerning the time and place of work, on which the Respondent relied in making his decision, were inaccurate in the following respects:
+(i) The Appellant had to comply with a work schedule, notify the Payor of her absences and obtain the Payor's permission with respect to the timing and duration of her vacations.
+(ii) She had to serve the Payor's customers within the exclusive territory assigned to her. It should be noted that, in my opinion, the Minister's allegation that the Appellant worked solely from door to door and a little bit from home, and that she never went to the Payor's place of business, is not at all relevant in the instant case given the nature of the Appellant's work. I should emphasize that the fact that the Payor supplied no premises or equipment to the Appellant is no more relevant, given the nature of the Appellant's work.
+[16] I am also of the opinion that the following facts adduced in evidence by the Appellant show very clearly that her work was integrated into the Payor's activities to a large extent. In addition to being individual indicia of subordination, the following facts, considered together, constitute an indicia of subordination that I would characterize as an indicia of integration into the business:
+(i) The Appellant worked only for the Payor during the relevant period.
+(ii) The customers who were served were the Payor's, not the Appellant's.
+(iii) The Appellant could not negotiate the terms and conditions of the contracts of sale entered into with the Payor's customers. The Appellant did not set the prices of the products to be sold, and could sell only the Payor's products.
+(iv) The Appellant could not get anyone to replace her, nor could she hire her own salespersons without the Payor's consent.
+(v) At no time did the Appellant become the owner of the goods sold, nor did she invoice the Payor's customers. Consequently, she was in no way liable for bad debts.
+(vi) The Payor provided the Appellant with business cards.
+[17] It is true that the Appellant had to assume all the costs and expenses associated with sales. It is true that she was not paid for training time. It is true that she had no sales quota to fulfil. It is true that she was not paid anything other than her commission. Although these facts are generally indicia of independence, not subordination, it is my opinion that they do not, in themselves, make the existence of a contract for services more likely, because most of the other facts adduced in evidence support the existence of a contract of employment.
+[18] For these reasons, the appeal is allowed.
+Signed at Ottawa, Canada, this 16th day of June 2008.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 24th day of July 2008.
+Brian McCordick, Translator
+CITATION: 2008TCC326
+COURT FILE NO.: 2007-4318(EI)
+STYLE OF CAUSE: CAROLE ROBILLARD AND M.N.R.
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: March 10, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: June 16, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Madeleine Leduc
+Counsel for the Respondent:
+Sarom Bahk
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Madeleine Leduc
+Firm: Attorney
+Sainte-Thérèse, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

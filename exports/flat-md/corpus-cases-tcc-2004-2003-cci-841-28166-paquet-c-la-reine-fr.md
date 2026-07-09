@@ -1,0 +1,160 @@
+---
+title: "Paquet c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28166/index.do"
+last_modified: "2004-01-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 841"
+citation2: ""
+neutral_citation: "2003 CCI 841"
+decision_date: "2004-01-12"
+language: "fr"
+item_id: "28166"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2012
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:08:04.349000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7a904fbae8ab56cad7a8f8e471afd405180450a765a608ab3b01e75504e8bd89"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Paquet c. La Reine
+
+- Citation: 2003 CCI 841
+- Decision date: 2004-01-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2012, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Paquet c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-01-12
+Référence neutre
+2003 CCI 841
+Numéro de dossier
+2003-2579(IT)APP
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-2579(IT)APP
+ENTRE :
+NORMAND PAQUET,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Demande entendue le 10 octobre 2003 à Québec (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Représentant du requérant :
+Christian Boivin
+Avocate de l'intimée :
+Me Marie-Aimée Cantin
+____________________________________________________________________
+ORDONNANCE
+Vu la demande faite afin d'obtenir une ordonnance prolongeant le délai dans lequel un appel des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1998, 1999 et 2000 peut être interjeté;
+Et vu les allégations des parties;
+La demande est accueillie et le délai dans lequel un appel peut être interjeté est prolongé jusqu'à la date de la présente ordonnance, l'avis d'appel accompagnant la demande est considéré comme un avis d'appel valide à la date de la présente ordonnance, dans la mesure où le requérant demande que cet appel soit régi selon la procédure informelle ou la procédure générale et que les droits de dépôt appropriés soient versés au greffe de la Cour au plus tard le 20 février 2004.
+Signé à Ottawa, Canada, ce 12e jour de janvier 2004.
+«Paul Bédard»
+Juge Bédard
+Référence : 2003CCI841
+Date :20040112
+Dossier : 2003-2579(IT)APP
+ENTRE :
+NORMAND PAQUET,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L'ORDONNANCE
+Le juge Bédard
+[1] Il s'agit d'une demande faite en vertu du paragraphe 167(5) de la Loi de l'impôt sur le revenu (la « Loi ») en vue d'obtenir une ordonnance afin de prolonger le délai à l'intérieur duquel le requérant peut interjeter appel de la décision du ministre du Revenu national (le « Ministre »). La Cour doit déterminer si la demande du requérant visant la prolongation du délai d'appel pour les années d'imposition 1998, 1999 et 2000 est bien fondée.
+[2] Les faits mis en preuve sont les suivants :
+- Le 9 octobre 2001, le Ministre a envoyé au requérant des avis de nouvelle cotisation pour les années d'imposition 1998, 1999 et 2000. Le ou vers le 12 décembre 2001, le requérant a signifié, par l'entremise de madame Annie Poulin, technicienne en comptabilité, des avis d'opposition aux nouvelles cotisations. En réponse à ces avis d'opposition, le Ministre a expédié des avis de nouvelle cotisation datés du 25 avril 2002.
+- Madame Annie Poulin, représentante du requérant à l'époque, a entrepris des négociations avec le Ministre qui ont conduit à la conclusion d'une entente signée par le requérant et le Ministre en juin 2002. Madame Nicole Turcotte, vérificatrice pour l'Agence des douanes et du revenu du Canada a témoigné à l'effet qu'elle aurait négocié avec madame Poulin. Madame Turcotte a affirmé avoir discuté avec le requérant lors d'une conversation téléphonique, mais qu'elle négociait toujours avec madame Poulin.
+- Il importe de préciser que le requérant se considère illettré et comme ayant peu d'éducation. C'est la raison pour laquelle il avait retenu les services de madame Poulin pour s'occuper de son dossier. Le requérant avait une confiance aveugle en madame Poulin. Cette dernière aurait informé le requérant qu'après avoir signé l'entente de juin 2002, il devait verser 300 $ par mois pendant six mois et ensuite le dossier serait clos.
+- En novembre 2002, le requérant a reçu un état de compte du Ministre lui indiquant qu'il devait un solde de 12 000 $. Il a questionné madame Poulin sur cet état de compte et un désaccord serait survenu entre le requérant et madame Poulin de sorte que cette dernière se serait retirée du dossier en novembre 2002.
+- Par la suite, le requérant a fait de nombreuses démarches afin de trouver un nouveau comptable pour s'occuper de son dossier. Toujours en novembre 2002, le requérant s'est présenté à un bureau de comptables où il a rencontré une technicienne en comptabilité. Ce n'est qu'une semaine plus tard qu'il a pu rencontrer un comptable agréé. Le comptable lui aurait donné rendez-vous 15 jours plus tard. Lors de ce rendez-vous, le comptable aurait dit au requérant qu'il ne pouvait s'occuper de son dossier. Le requérant a donc été envoyé à un autre comptable. Il a rencontré ce comptable en janvier 2003, question de laisser passer la périodes des Fêtes. Le requérant a demandé, à ce moment, s'il pouvait s'opposer aux cotisations. On lui aurait répondu par l'affirmative. Son dossier aurait été transmis à un autre comptable au sein du même bureau. Ce n'est que deux semaines plus tard qu'il aurait rencontré le comptable en question. Ce dernier aurait affirmé au requérant qu'il avait besoin de copies de certains contrats de ventes de chevaux. Puisque ces chevaux avaient été vendus aux États‑Unis, une période de deux mois s'est écoulée avant que le requérant puisse rassembler toutes les copies requises. Il lui manquait toujours le nom d'un acquéreur américain. Le comptable aurait recommandé au requérant d'indiquer un nom fictif, ce qu'il aurait refusé de faire. Le requérant tenait à avoir des documents véridiques afin de pouvoir les présenter à la Cour. En mai 2003, le comptable aurait dit au requérant qu'il ne pouvait plus rien faire pour lui. Finalement, le requérant a retenu les services de monsieur Christian Boivin, fiscaliste, en juillet 2003. C'est ce même monsieur Boivin qui a agi à titre de représentant pour le requérant lors de l'audition de la présente demande. Monsieur Boivin a constaté que le délai pour en appeler des cotisations du Ministre était écoulé et qu'il fallait immédiatement présenter une requête pour prolongation de délai. La requête a été présentée le 9 juillet 2003, soit 350 jours après la fin du délai pour interjeter appel, lequel avait pris fin le 24 juillet 2002.
+[3] Le requérant se conforme-t-il au paragraphe 167(5) de la Loi et a-t-il droit à une prolongation de délai pour loger son avis d'appel? Le paragraphe 167(5) de la Loi se lit comme suit :
+Acceptation de la demande. Il n'est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande a été présentée dans l'année suivant l'expiration du délai imparti en vertu de l'article 169 pour interjeter appel;
+b) le contribuable démontre ce qui suit :
+(i) dans le délai par ailleurs imparti pour interjeter appel, il n'a pu ni agir ni charger quelqu'un d'agir en son nom, ou il avait véritablement l'intention d'interjeter appel,
+(ii) compte tenu des raisons indiquées dans la demande et des circonstances de l'espèce, il est juste et équitable de faire droit à la demande,
+(iii) la demande a été présentée dès que les circonstances le permettaient,
+(iv) l'appel est raisonnablement fondé.
+[4] Le délai pour interjeter appel en vertu de l'article 169 de la Loi expirait le 24 juillet 2002. Le requérant a présenté une demande en prolongation de délai le 9 juillet 2003. La demande a donc été présentée dans l'année suivant l'expiration du délai imparti en vertu de l'article 169 de la Loi pour interjeter appel. Par conséquent, le requérant s'est conformé à l'alinéa 167(5)a) de la Loi.
+[5] Avant de faire droit à la demande de prolongation du délai d'appel, la Cour doit être convaincue que, dans le délai imparti pour interjeter appel (en l'espèce ce délai expirait le 24 juillet 2002), le requérant n'a pu agir ni charger quelqu'un d'agir en son nom, ou il avait véritablement l'intention d'interjeter appel. Ces deux conditions figurant au sous-alinéa 167(5)b)(i) de la Loi, sont disjonctives.
+[6] Dans la présente affaire, la Cour ne peut conclure que le requérant avait véritablement l'intention d'interjeter appel entre le 25 avril 2002 et le 24 juillet 2002. Le requérant a signé une entente avec le Ministre en juin 2002 et ce n'est qu'en novembre de la même année qu'il a reçu un état de compte du Ministre indiquant qu'il devait un solde de 12 000 $. C'est à compter de la réception de l'état de compte que le requérant a véritablement eu l'intention d'en appeler. Avant ce moment, le requérant croyait le litige réglé.
+[7] Pour ce qui est de la période allant du 25 avril 2002 à juin 2002, soit avant la signature de l'entente, le requérant n'avait pas véritablement l'intention d'en appeler de la décision du Ministre puisqu'il tentait, par l'entremise de madame Poulin, de régler le litige. Le juge Beaubier de cette Cour, dans l'affaire Steve Bata c. Canada, [1998] A.C.I. no 803, a conclu que le fait de vouloir régler hors cour ne peut être interprété comme une véritable intention d'interjeter appel. Voici les propos du juge Beaubier, aux paragraphes 7 et 8 :
+Dans son témoignage, l'appelant a déclaré qu'il pensait pouvoir faire signer les reçus par M. Berta et qu'ainsi il n'aurait pas à payer un avocat pour le représenter en appel. La preuve produite par l'appelant n'a pas convaincu la Cour qu'il avait véritablement l'intention d'interjeter appel conformément au sous‑alinéa 5(b)(i). Il avait plutôt l'intention de régler l'affaire de façon à éviter de devoir engager des frais dans des procédures d'appel.
+L'appelant a déclaré dans son témoignage qu'il avait toujours voulu interjeter appel; cependant, ses actions n'ont pas confirmé son témoignage. À aucun moment, l'appelant n'a été victime de circonstances l'empêchant de faire plus tôt la présente demande. Il n'était pas absent de Regina ni du Canada. Il n'était pas atteint d'une maladie ou d'une invalidité graves. Il travaillait au Club hongrois 365 jours par année, et, en plus de cet emploi, il exploitait une entreprise d'entretien et de nettoyage d'immeubles. Selon la preuve, il a essayé d'obtenir la signature de M. Berta sur les pièces A-1 et A-2, afin de pouvoir régler ses affaires avec Revenu Canada.
+[8] Malgré l'absence d'intention d'en appeler avant novembre 2002, la Cour est d'avis que le requérant était dans l'incapacité d'agir ou de charger quelqu'un d'agir en son nom durant le délai imparti pour interjeter appel. Tel que mentionné précédemment, le requérant n'avait pas véritablement l'intention d'interjeter appel entre le 25 avril 2002 et juin 2002 puisqu'il tentait d'obtenir un arrangement quelconque. Le requérant n'a pas obtenu les résultats qui lui avaient été exposés avant qu'il ne signe l'entente. La Cour croit le requérant lorsqu'il dit avoir accepté de signer l'entente sur la seule base qu'il devait payer 300 $ par mois pendant six mois, rien de plus. Rappelons que le requérant est une personne qui a peu d'éducation et qui est, par conséquent, à la merci des gens qui l'entourent. Si le requérant avait compris que l'entente ne donnerait pas les résultats escomptés, la Cour croit qu'il n'aurait pas conclu cette entente. Il y a donc eu erreur sur l'objet de la prestation de la part du requérant ce qui vicie son consentement à l'entente. S'il n'avait pas signé l'entente en juin 2002, le requérant aurait disposé de plus d'un mois pour interjeter appel. Le requérant était dans l'impossibilité d'agir ou de charger quelqu'un d'agir en son nom en raison de l'entente conclue en juin 2002. Ce n'est qu'en novembre 2002, lorsqu'il a reçu l'état de compte, que cette impossibilité a cessé.
+[9] La situation du requérant s'apparente à celle que l'on retrouve dans l'affaire Abboud c. Canada, [1996] A.C.I. no 956. Dans l'affaire Abboud, le requérant s'exprimait difficilement en français et en anglais. Monsieur Abboud faisait affaire avec un comptable. En raison de ses problèmes de communication, monsieur Abboud devait s'en remettre aveuglément à son comptable. Dans son jugement, le juge Tremblay a affirmé ce qui suit :
+Le témoignage du requérant, malgré sa difficulté à s'exprimer dans l'une des deux langues officielles du pays, a confirmé les faits décrits dans la demande d'extension de délai du 6 octobre 1995...
+La corporation «Les Investissements Papillon » a été incorporée en 1985. Le requérant possédait 50 p. cent des actions. L'activité de cette compagnie consistait à exercer le commerce d'un dépanneur.
+Pendant 6 ans, le requérant a eu un comptable qui vraisemblablement l'avait bien servi. Il avait confiance en lui. Aussi, suite à l'émission des avis de cotisations et aux multiples demandes de renseignements faits par Revenu Canada tant par appels téléphoniques que par lettres, le requérant lui transférait les documents. Le comptable lui répondait : « Pas d'inquiétude, je m'en occupe. »
+Les lettres de l'intimée du 25 mai 1994, du 13 juillet 1994, du 12 décembre 1994, du 16 mai 1995 et du 12 juin 1995 ont toutes été produites sous les pièces I-1, I-2, I-3 et I-4.
+La réception d'une lettre du 26 avril 1995 de Revenu Canada a décidé le requérant à recourir aux services d'une firme d'avocats, soit Carrière, Dame, Paquet, Pinard. Cette firme adressait alors une mise en demeure au comptable du requérant. Il n'a jamais pu être atteint et donc, aucun document du requérant en possession du comptable n'a pu être obtenu.
+[...]
+La Cour est satisfaite de la preuve faite, à savoir que le requérant, dans l'ensemble des circonstances, n'avait pu agir ni charger quelqu'un d'agir en son nom. De plus, il avait l'intention véritable de faire opposition à la cotisation. Il a fait tous les sacrifices pour payer toutes les dettes. [Je souligne]
+[10] Pour ces raisons, la Cour conclut que le requérant respecte le critère du sous-alinéa 167(5)b)(i) de la Loi en ce qu'il n'a pu agir ou charger quelqu'un d'agir en son nom durant le délai imparti pour interjeter appel.
+[11] Compte tenu des circonstances, il est juste et équitable de faire droit à la demande. Le requérant, connaissant ses limites en raison de son manque d'éducation, a fait plus que son possible afin d'obtenir l'aide requise lorsqu'il s'est rendu compte de la situation. Il a frappé à plusieurs portes sans succès. Le retard du requérant n'est aucunement attribuable à sa négligence. Au contraire, le requérant a fait preuve de persévérance. Il est juste et équitable de faire droit à sa demande. La condition du sous-alinéa 167(5)b)(ii) de la Loi est donc remplie.
+[12] La demande a-t-elle été présentée dès que les circonstances le permettaient tel que le requiert le sous-alinéa 167(5)b)(iii)? Dès que monsieur Boivin a obtenu le mandat de s'occuper du requérant, au début juillet 2003, il lui a conseillé de présenter la présente demande de prolongation de délai. La demande a été présentée le 9 juillet 2003. Puisque le requérant était dans l'impossibilité d'agir ou de charger quelqu'un d'agir à sa place avant le mois de novembre 2002 et qu'il n'a pu trouver un représentant compétent avant juillet 2003, il est raisonnable de penser que la demande a été présentée dès que les circonstances le permettaient. La complexité de l'affaire et le manque d'éducation du requérant font en sorte que le requérant ne pouvait agir seul.
+[13] Enfin, l'appel est-il raisonnablement fondé? Cette Cour n'a pas à déterminer les chances de réussite de l'appel. Il suffit que le requérant ait un motif raisonnable d'en appeler pour que l'appel soit raisonnablement fondé en vertu du sous-alinéa 167(5)b)(iv) de la Loi. Bien que le requérant a peu élaboré sur le motif de son appel, la Cour convient que l'appel est raisonnablement fondé.
+[14] Le requérant remplit donc les conditions établies au paragraphe 167(5) de la Loi. Pour ces motifs, il est fait droit à la demande de prolongation du délai d'appel pour les années 1998, 1999 et 2000.
+Signé à Ottawa, Canada, ce 12e jour de janvier 2004.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE :
+2003CCI841
+No DU DOSSIER DE LA COUR :
+2003-2579(IT)APP
+INTITULÉ DE LA CAUSE :
+Normand Paquet et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE DE L'AUDIENCE :
+le 10 octobre 2003
+MOTIFS DE L'ORDONNANCE PAR :
+L'honorable juge Paul Bédard
+DATE DE L'ORDONNANCE :
+le 12 janvier 2004
+COMPARUTIONS :
+Pour le requérant :
+Christian Boivin (représentant)
+Pour l'intimée :
+Me Marie-Aimée Cantin
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour le requérant :
+Nom :
+Étude :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,444 @@
+Title: The Canadian Medical Protective Association v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29031/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-33-29031-the-canadian-medical-protective-association-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-04-10
+
+# The Canadian Medical Protective Association v. The Queen
+
+- Citation: 2008 TCC 33
+- Decision date: 2008-04-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6840, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+The Canadian Medical Protective Association v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-04-10
+Neutral citation
+2008 TCC 33
+File numbers
+2005-98(GST)G
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Citation: 2008TCC33
+Date: 20080410
+Docket: 2005-98(GST)G
+BETWEEN:
+THE CANADIAN MEDICAL PROTECTIVE ASSOCIATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowman, C.J.
+[1] These appeals are from assessments made under the Goods and Services Tax (“GST”) provisions of the Excise Tax Act (“ETA”) for the periods October 15, 2001 to October 15, 2003 and January 1, 2002 to March 31, 2004.
+[2] Essentially the issue is whether fees paid by the appellant (“CMPA”) to certain investment managers are exempt from GST because they are “financial services”. The investment managers have the discretionary power to manage the investment of the funds contained in the appellant’s reserve for claim.
+[3] The parties entered into a Partial Agreed Statement of Facts (“ASF”). It is attached as Schedule ‘A’ to these reasons.
+[4] The ASF was supplemented by the evidence of two witnesses called by the appellant and one by the respondent.
+[5] The appellant is a not for profit body corporate. It provides professional liability protection for members of the medical profession as a mutual defence organization. It pays for the legal costs of defending doctors sued for malpractice and, if an award is made against a doctor, the appellant pays it. Despite its strong denials that it is an insurance company, it bears a striking resemblance to insurer except that it is not licensed and it says that, unlike an insurance company, it has no legal obligation to defend a doctor against whom a malpractice claim is made or to pay such a claim. This might come as something of a surprise to a physician who has paid substantial sums of money to the appellant for this sort of protection.
+[6] Physicians pay the appellant and the amounts received form part of CMPA’s reserve for claims. The appellant retains the services of investment managers (“IMs”) who invest the appellant’s funds on a fully discretionary basis in two types of accounts: segregated funds and pooled funds.
+[7] Segregated funds are not commingled with the funds of other investors. About 75% to 80% of the appellant’s funds are in segregated funds. Pooled funds are investment vehicles in which the funds of the appellant are pooled with those of other investors. The pooled funds make up between 20% and 25% of the total.
+[8] In both cases the decisions with respect to the investment of the funds are in the discretion of the IMs. The CIBC Mellon acts as custodian with respect to the investments in segregated funds. The duties and powers of the custodian are set out in paragraph 18 of the ASF. The custodian at all times had legal title to and physical custody of the securities comprising the segregated funds.
+[9] The appellant claimed a rebate of the GST on the fees paid to the IMs. The Minister of National Revenue denied the claim. Hence these appeals.
+[10] The appellant contends that the services provided to it are financial services within the meaning of paragraphs (a), (b), (c), (d), (f) or (l) in the definition of subsection 123(1) of the ETA and are therefore exempt. The respondent contends that the services do not fall within any of the paragraphs in the definition of “financial service” and are in any event excluded by paragraphs (p), (q) or (t) of the definition. Specifically, the respondent argues that the fees paid in respect of the segregated funds fall under (p) and with respect to the pooled funds, under (q) and that in any event, the segregated funds fall under (t).
+[11] Mr. Ezri put the respondent’s case very clearly in his opening statement. He said:
+I think my friend was correct in saying that the provision of advice is our alternate argument. Our primary argument here is that they are providing a management service, but we are saying that the management service doesn’t fall into paragraphs A to L because the dominant element of the management service supplied are the skill and abilities of managers and not the mechanical aspects of moving around securities.
+. . . . .
+My primary position is that it is not advice. That is my ultimate argument. My primary argument is that they are paying for investment management, which is not listed anywhere in A to L.
+This is essentially the same argument that was put in the decision rejecting the claim for a rebate. The decision is of sufficient importance that it merits reproduction.
+NOTICE OF DECISION
+This notice refers to the Goods and Services Tax (GST/HST) General Rebate Application Assessment for the claim period January 1st, 2002 to March 31st, 2004, dated May 6th, 2004.
+The Minister of National Revenue has carefully reconsidered the assessment with reference to the information in your notice of objection and renders the following decision.
+Your objection is disallowed and the assessment is confirmed.
+1. ““The services in issue were supplies described in paragraphs (a), (c), (d), (f), and (l) of the definition of “financial Services” in subsection 123(1) of the Act and are therefore exempt supplies””.
+2. “The principal activity of the registrant is not the investing of funds such that paragraph (q) of the definition of “financial service” in subsection 123(1) of the Act would apply to exclude the Services from the definition of an exempt supply of a financial service”.
+3. “Paragraph (q) would apply only if the “principal activity” of the registrant is the investing of funds”.
+4. By virtue of Subsection 165(1), and the definitions in 123(1), of, “taxable supply” and “Commercial activity”, you maintain that ““an “exempt supply” does not constitute a “commercial activity”, and does not fall within the definition of a “taxable supply”. In the result, an exempt supply is not taxable pursuant to subsection 165(1) of the Act””.
+5. “The Services provided to the registrant by the Service Providers included supplies listed in paragraphs (a), (c), (d) and (f) of the definition of “financial service” in subsection 123(1) of the Act and also constituted the “arranging for” such financial services as listed in paragraph (l)”.
+6. The “decision of the Tax Court of Canada in The Colleges of Applied Arts and Technology Pension Plan v. The Queen, [2003] G.S.T.C. 143 (“CAAT”) is determinative of this matter since the facts in this Objection are substantially identical to those in CAAT”.
+A review of the file and the documentation available was performed and it was determined that:-
+1. The registrant entered into service contracts with investment service provider to, independently, manage its investment portfolio.
+2. The investment service provider charged the registrant GST on the consideration it paid for their services.
+3. The registrant paid the GST to the investment service provider and later filed a General Rebate Application for GST paid in error on the basis that, the services rendered by the investment service provider were exempt supplies covered under the definition of “financial services” in Subsection 123(1) of the Excise Tax Act.
+4. The registrant’s rebate application was denied on the grounds that, the supplies of investment management services made by the investment service providers, were taxable supplies and as such, GST was properly charged and paid. The decision to deny the rebate was based on a ruling, number 50019 given to the registrant by the Excise and GST/HST Rulings Directorate (Canada Customs and Revenue Agency) on April 19th, 2004.
+5. We have reviewed the ruling, the relevant subsections of the Excise Tax Act and Policy P-077R2. On the basis of the contract between the registrant and the investment service providers and pursuant to Policy P ‑ 077R, the supply made by the investment service providers is a single supply for a single consideration.
+6. Furthermore, in accordance with the contract, the supply is primarily one of providing professional investment advice and funds management.
+7. The Decision in The Colleges of Applied Arts and Technology Pension Plan v. The Queen, [2003] G.S.T.C. 143 (“CAAT”), as observed by the Judge, has limited application in view of the amendments to the Excise Tax Act in 2000. It is not relevant to this objection.
+(Bowie, T.C.C.J) “...since the definition was amended in 2000, retroactive to 1991, the decision in this case will have very limited application. The amending legislation preserved the rights of taxpayers who, like this Appellant, have claimed a refund before July 30, 1998.”
+8. A single supply of management services, for a single consideration, is not a “financial service” under the Excise Tax Act.
+9. The services provided by the investment service provider do not fall within any of the paragraphs of the definition of “financial services” in subsection 123(1) of the Excise Tax Act.
+10. Accordingly, the registrant was the recipient of a taxable supply and was correctly charged GST pursuant to Subsections 165(1) and 221(1) of the Excise Tax Act.
+Under the authority of subsection 297(1) of the Excise Tax Act, you were correctly assessed pursuant to subsection 261.(1) of the Excise Tax Act.
+[12] Financial service, so far as is relevant to this case, is defined in subsection 123(1) as follows:
+“financial service” means
+(a) the exchange, payment, issue, receipt or transfer of money, whether effected by the exchange of currency, by crediting or debiting accounts or otherwise,
+(b) the operation or maintenance of a savings, chequing, deposit, loan, charge or other account,
+(c) the lending or borrowing of a financial instrument,
+(d) the issue, granting, allotment, acceptance, endorsement, renewal, processing, variation, transfer of ownership or repayment of a financial instrument,
+. . . . .
+(f) the payment or receipt of money as dividends (other than patronage dividends), interest, principal, benefits or any similar payment or receipt of money in respect of a financial instrument,
+. . . . .
+(l) the agreeing to provide, or the arranging for, a service referred to in any of paragraphs (a) to (i), or
+but does not include
+. . . . .
+(p) the service of providing advice, other than a service included in this definition because of paragraph (j) or (j.1),
+(q) the provision, to an investment plan (as defined in subsection 149(5)) or any corporation, partnership or trust whose principal activity is the investing of funds, of
+(i) a management or administrative service, or
+(ii) any other service (other than a prescribed service),
+if the supplier is a person who provides management or administrative services to the investment plan, corporation, partnership or trust,
+. . . . .
+(t) a prescribed service;
+[13] The Financial Services (GST/HST) Regulations provide, in section 4, as follows:
+4. (1) In this section,
+“instrument” means money, an account, a credit card voucher, a charge card voucher or a financial instrument;
+“person at risk”, in respect of an instrument in relation to which a service referred to in subsection (2) is provided, means a person who is financially at risk by virtue of the acquisition, ownership or issuance by that person of the instrument or by virtue of a guarantee, an acceptance or an indemnity in respect of the instrument, but does not include a person who becomes so at risk in the course of, and only by virtue of, authorizing a transaction, or supplying a clearing or settlement service, in respect of the instrument.
+. . . . .
+(2) Subject to subsection (3), the following services, other than a service described in section 3, are prescribed for the purposes of paragraph (t) of the definition “financial service” in subsection 123(1) of the Act:
+(a) the transfer, collection or processing of information, and
+(b) any administrative service, including an administrative service in relation to the payment or receipt of dividends, interest, principal, claims, benefits or other amounts, other than solely the making of the payment or the taking of the receipt.
+(3) A service referred to in subsection (2) is not a prescribed service for the purposes of paragraph (t) of the definition “financial service” in subsection 123(1) of the Act where the service is supplied with respect to an instrument by
+(a) a person at risk,
+(b) a person that is closely related to a person at risk, where the recipient of the service is not the person at risk or another person closely related to the person at risk, or
+(c) an agent, salesperson or broker who arranges for the issuance, renewal or variation, or the transfer of ownership, of the instrument for a person at risk or a person closely related to the person at risk.
+[14] Whether the services provided by the IMs fall within paragraphs (a), (b), (c), (d), (f) or (l) or whether they fall within the exclusions in (p), (q) or (t) depends essentially upon the nature of the services provided. This is essentially a determination of fact. Indeed, while other provisions are referred to, the primary focus of the enquiry will be on paragraphs 126(d) and 126(l): “the transfer of ownership... of a financial instrument” or “the arranging for” [such a transfer]. This is the appellant’s principal position. The respondent focuses on the expertise of the IMs and from this concludes that the fees were paid for advice. Paragraphs 6 and 7 of the Amended Reply to the Notice of Appeal read as follows:
+6. In assessing the Appellant to disallow the rebate claims, the Minister of National Revenue (the “Minister”) relied on the following assumptions, set out in a ruling to the Appellant in April, 2004:
+a) the over-arching purpose of hiring an investment manager (“IM”) related to the IM’s expertise in selecting profitable investment products and determining when to trade or sell these products;
+b) IM services were provided as a single composite supply for a single consideration;
+c) the supply from the IM to the Appellant was primarily one of providing quality investment expertise and advice;
+d) the primary service provided by the IM was its expertise in the selection of securities, which was a service other than a financial service set out in paragraphs (a) to (m) of the definition of “financial service” in subsection 123(1) of the Act;
+e) the supply of services by the IM was a taxable supply.
+7. In confirming the assessment, the Minister relied on the following assumptions:
+(a) the supply made by IMs was a single supply for a single consideration;
+(b) the supply was primarily one of providing professional investment advice and funds management;
+(c) a single supply of management services for a single consideration was not a “financial service” under the Act.
+(d) services provided by the IM did not fall within any of the paragraphs of the definition of “financial services” in subsection 123(1) of the Act;
+(e) the Appellant was the recipient of a taxable supply.
+[15] In determining the nature of the services provided I think it is important to examine three areas:
+(a) the investment policies of the appellant;
+(b) the provisions in the contract between the appellant and the IMs; and
+(c) the oral testimony of representatives of the appellant and of the IMs with respect to the services rendered by the IMs.
+[16] I start these with the appellant’s own objectives and policies. Tab 29 of Exhibit A‑2 is called a Statement of Investment Policies and Goals of the Canadian Medical Protective Association (“SIP&G”). It sets out detailed investment objectives of the appellant. I will refer to only a few of the provisions in this 16 page document.
+The purpose of the Investment Committee is to establish the investment policy and process for the Association, to review the results in comparison to the approved investment Fund, and to present a report at each Council meeting. The Investment Committee is responsible for establishing the Statement of Investment Policies and Goals, and ensuring that the assets supporting the Reserve for Claims (hereinafter referred to as “the Fund”) are managed in accordance with the guidelines set out in the Statement.
+. . . . .
+The Fund will be managed externally primarily on an external basis. External management gives the Fund access to the best available investment talent at a cost that, in the Committee’s opinion, compares favourably with the cost of employing such people internally. The use of external managers also permits the Committee to choose managers with complementary styles, thereby creating the opportunity for superior returns without a commensurate increase in investment risk. Exceptions to external management may be considered where cost/benefit analysis indicates a positive return to the Association. These may include the management of cash (money market investments), a specific niche asset class (i.e. a varied portfolio of Real Estate Investment Trust units), or a specific management approach (i.e. synthetic passive index funds). In-house management of funds in transition between managers will also be permitted.
+. . . . .
+Section 3 – Allocation of Responsibilities
+The responsibilities related to the investment management of the Fund have been allocated as follows:
+The Investment Committee shall:
+• meet at least three times each calendar year;
+• establish the Statement of Investment Policies and Goals;
+• review the Statement annually, including a re-assessment of the long-term asset mix policy, return expectations, risk tolerance and time horizon;
+• select, appoint, monitor and if necessary terminate the Investment Managers and their specific investment mandates, Performance Measurement Company(s), and, if necessary, consultants and any other experts required;
+• allocate the Association’s funds among, and provide cash flow information to, Investment Managers;
+• select, appoint, monitor and if necessary terminate the Custodian to hold the Fund’s assets;
+• review and evaluate, both quantitatively and qualitatively, each Investment Manager’s performance at least annually, including a comparison of the rates of return achieved relative to both the objectives established and the performance of other investment managers with similar mandates, and an assessment of the risk assumed in the pursuit of these objectives;
+• monitor the actions of senior management with respect to the implementation of decisions taken, and operational guidelines set by the Investment Committee;
+• advise and make recommendations to Council about specific investments; and
+• prepare a report to Council following each meeting.
+. . . . .
+The Investment Managers shall:
+• select securities within each asset class, subject to applicable legislation and the constraints and directives contained in this Statement and in any supplementary document provided by the Committee;
+• provide the Director of Finance with monthly portfolio reports of all assets of the Fund and monthly reports of all transactions during the period;
+• give prompt notice to the Custodian of all purchases, sales and other security transactions;
+• reconcile all month end cash and security balances with the statements provided by the Custodian,
+• meet with the Committee at least once a year to present their analysis of the investment performance and to describe their current and future investment strategies regarding their specific investment mandate; and
+• be governed by the Code of Ethics and Standards of Professional Conduct of the Association for Investment Management and Research.
+• provide annually an audited financial statement (including a listing of the securities held) for all pooled funds in which the Association has a financial interest.
+. . . . .
+The fundamental elements of the Policy and the rationale thereof are set out below:
+• The Fund will be invested in Canadian, US and International equities, Canadian fixed income securities, money market instruments and any other asset classes as deemed appropriate by the Committee. Investing in these assets provides a measure of protection against the increases in the inflation-related obligations of the Association. In addition, there are benefits of diversification that can be achieved by investing in a broad range of asset classes.
+• while While there is no allocation to real estate or mortgages at this time, the Committee is not restricted in adding either asset class in the future.
+• with With the exception of real return bonds, there are no investments available to directly reduce the inflation-related risks of the Association. However, the Canadian real return bond market remains illiquid and narrow in terms of product availability, term and credit rating availability. For these reasons, there will be no specific allocation to real return bonds at this time. Bond managers may acquire real return bonds as part of their portfolio.
+- Investment Objectives
+• The Fund will be managed on a going concern basis, with the primary objective of maximizing the long-term rate of return in order to help finance ongoing funding payments and thereby provide a measure of stability to the rate of contributions by the members of the Association through their annual membership fees.
+. . . . .
+- Investment Management Structure
+The Committee believes that active management should improve returns and that this potential justifies a modest increase in investment risk, within the limits set forth in this document. Where the Committee believes the efficiency of specific markets or market segments is such that active management has little chance of consistently out performing the benchmark, a passive management approach may be adopted using index funds.
+The Fund assets will be managed by each Investment Manager subject to the constraints cited in this policy. The Committee may select a single manager or multiple managers for each of the asset classes, or a combination thereof.
+- Management Objectives for the Fund
+The performance of the portion of the Fund which is actively managed will be considered satisfactory if the annualised return (after management fees) averaged over moving four year periods meets or exceeds the return that could have been earned by passively investing the Benchmark Portfolio, plus the performance targets set for each asset class.
+The performance of the portion of the Fund that is passively managed will be considered satisfactory if the tracking error from the associated index is in the range of plus or minus 10 basis points. While returns that exceed the index are on the surface beneficial to the Association, excessive returns may be an indicator of flaws in the tracking methodology used by the manager, and the index fund may be exposed to greater risk levels than intended. In It is anticipated that the short term tracking error during periods when additional funds are committed to a specific index mandate may exceed the range set out above. The Committee recognizes the incremental transaction costs that are inherent in moving additional money to an existing index fund.
+- Management Objectives for Individual Active Managers
+The rates of return earned by Investment Managers actively managing the Fund will be considered satisfactory if the annualized return (after management fees) averaged over moving four year periods:
+1. Is at least equal to the Consumer Price Index for Canada plus 4.0% per annum (i.e. a 4% real rate of return);
+2. Above median performance relative to other investment fund managers using an investment philosophy and objectives similar to those used in the management of the Association’s investments, as measured by a recognized independent performance measurement service; and
+3. Consistently exceeds the return that could have been earned by passively investing in the representative benchmark indices listed below (or other benchmarks agreed upon by the Committee and the Investment Managers), by an amount that equals or exceeds the following “Value Added Targets”:
+. . . . .
+- Reasons for Termination of Investment Managers
+The Committee shall consider, as appropriate, whether some or all of the Investment Managers should be replaced. Investment Managers may be replaced from time to time for reasons that may or may not include the following:
+• failure by the Active Managers to meet the value added performance targets set out in this section;
+• a change in Investment Managers’ ownership or key personnel;
+• a desire to change the investment management strucuture;
+• a failure to satisfy the requirements of Section Section 3 -;
+• a failure to adhere to the investment constraints set out in Section Section 8 -;
+• a change in investment style; and
+• an increase in investment management fees.
+. . . . .
+Section 11 – Periodic Review
+The guidelines of this Statement reflect the mutual agreement between the Committee and the Manager, as noted in the Investment Counsel Agreement signed by the Investment Manager and the CMPA. It is the intention of the Committee to reassess the guidelines at least annually and more frequently as required. However, if at any time a Manager feels that the guidelines cannot be met or may restrict performance, the Committee should be notified immediately. Upon mutual agreement, the guidelines may then be changed to allow the Manager the necessary latitude to exercise his or her special skills.
+[17] The conclusion that I take from the SIP&G is that the Investment Committee has developed very specific guidelines and objectives and the IMs are expected to follow them in the management of this appellant’s investment portfolios. I do not find in this document, however, anything inconsistent with the appellant’s assertion that full discretionary power is given to the IMs to purchase and sell securities under their control within the limits of the rules contained in the SIP&G.
+[18] I turn next to the contracts between the appellant and the IMs.
+[19] The contract with Phillips, Hager & North Ltd. dated January 1, 1992 contains the following provisions:
+We hereby retain you to act as investment counsel and portfolio manager effective January 1, 1992 in connection with our investment portfolio and will provide you with detailed information regarding our investment portfolio under your supervision by that date. The following terms and conditions shall apply:
+1. It is understood and agreed that you will hold confidential all information received from us regarding our financial affairs and we will hold confidential all investment advice and information provided by you in connection with our investment portfolio.
+2. It is understood and agreed that, subject to any specific guidelines from the Investment Committee given to you in writing, you will have full discretion as to all investment decisions regarding our investment portfolio under your supervision and you are authorized to give instructions to our custodian, Bank of Nova Scotia, 44 King Street West, Toronto, Ontario, with respect to the purchase, sale, exchange and delivery of securities and cash for our account and disbursements relating thereto. Moreover it is provided under the By-Law of the Association that all investments must be authorized for life insurance companies under the Canadian and British Insurance Companies Act, R.S.C., 1970, I-15, as amended from time to time. We undertake to promptly notify our custodian of your authority to act on our behalf in connection with our investment portfolio under your supervision.
+3. All securities acquired on behalf of the Undersigned, either at present or in the future, shall be held for safekeeping with the Bank of Nova Scotia, Main Branch, 44 King Street West, Toronto, Ontario. All securities of the Undersigned shall be registered in the name of the nominee of the Bank of Nova Scotia, Bansco & Co. unless otherwise directed by the Undersigned.
+4. All securities acquired on behalf of the Undersigned shall be purchased out of moneys which the Undersigned may have to its credit in the Cash account maintained on its behalf with the aforementioned Bank of Nova Scotia, Toronto Main Branch. All cash balances resulting from the receipts arising from the sale or other disposition of securities held for the Undersigned shall be deposited directly to the said Bank of Nova Scotia, Toronto Main Branch for credit to the Undersigned’s Cash Account. Dividends and other cash payments received in respect of such securities shall be deposited directly to the said Bank of Nova Scotia, Toronto Main Branch for credit to the Undersigned’s Cash Account maintained at such Bank.
+5. You will furnish to us quarterly reports of our investment portfolio, an advice of each security transaction when effected, and a monthly portfolio valuation and a full list of month-end accruals within ten working days of the end of each month.
+6. You are authorized to sign in the name of the Undersigned all declarations, affidavits and certificates of ownership which may be required from time to time in collecting the capital or income receipts for the Undersigned.
+7. With respect to all securities held for the Undersigned, the voting rights and powers attached thereto shall be exercised by you. Corporate reports need not be forwarded to the Undersigned unless an express request is made therefor in writing.
+. . . . .
+10. For your services we will pay you quarterly fees in arrears based on the market value of our investment portfolio under your supervision which will be calculated as set out in Schedule A to this Agreement. The fees payable are as set out in Schedule A to this Agreement which fee schedule will not be revised by you except on 60 days’ notice to us in advance of the quarter in which such fee schedule takes effect. The fee for your services for any period which is less than a full quarter shall be prorated on a daily basis.
+11. The Undersigned will not hypothecate any of the securities held by its custodian for the said Account without first advising you of its intention to do so.
+12. This Agreement may be terminated by either party upon 30 days’ written notice. On dissolution or winding-up of the Undersigned you may continue to act hereunder without liability until actual notice of such dissolution or winding-up is communicated to you or your authority is otherwise terminated by operation of law.
+A similar agreement was entered into with Phillips, Hager & North Ltd. in 1997.
+[20] The agreement with Sprucegrove Investment Management Ltd. reads in part:
+1.01 The Investor confirms the appointment effective the 1 day of February 1995 of the Investment Manager as its investment manager to provide continuing counsel, advice and professional investment services with respect to the investment of certain assets of the Investor.
+1.02 The Investment Manager hereby confirms its acceptance of its appointment as Investment Manager by the Investor, agrees to provide the services described in Section 1.01 hereof, and covenants and agrees with the Investor that it will at all times perform such services in accordance with the terms hereof.
+. . . . .
+2.01 The Investment Manager undertakes to perform its investment management mandate in accordance with a Statement of Investment Objectives, Guidelines and Constraints mutually agreed upon by the Investor and Investment Manager, a copy of which is attached as Schedule “A”. This Statement may be modified from time to time by agreement between the Investor and the Investment Manager.
+2.02 The Investment Manager shall endeavour to allocate investment opportunities among accounts managed by it on the basis of the suitability of the investment for each managed account having regard to: (i) the type of proposed transaction; (ii) the investment merits of the security of securities to be purchased or sold; (iii) the substance of the existing portfolio of the managed account, and (iv) the investment objectives set forth in Schedule “A”.
+The Investment Manager shall not be liable for not offering a specific investment opportunity or opportunities to any particular managed account.
+2.03 The Investor hereby authorizes the Investment Manager to carry out its investment management duties hereunder through the use of a pooled fund (a “Fund”) described in Schedule “A” hereto. If a Fund is used, the Investor hereby appoints the Investment Manager as its attorney with full power and discretion to take such action, as may be required of a unitholder relative to such Fund. The Investor hereby authorizes the Investment Manager to deduct from the assets available for investment and pay to the relevant regulatory authority, the regulatory fees, if any, payable on account of the purchase on behalf of the Investor of units of a Fund.
+. . . . .
+3.01 The Investment Manager shall have all powers requisite and necessary to perform its duties in accordance with this Agreement, and for greater certainty, but not so as to limit the generality of the foregoing is hereby authorized and empowered:
+(i) to place orders with brokers, investment dealers, banks or trust companies for the purchase and sale of securities, to purchase securities directly from the issuers or holders thereof and to sell securities directly to the issuers thereof or to other persons;
+(ii) to buy, sell or exercise rights and warrants to subscribe for securities and to exercise conversion and redemption, extension and retraction privileges pertaining to securities held and to exercise, or direct the exercise of, any and all rights, powers and directions in connection with such securities including, without limitation, the power to vote generally and to consent to any reorganization or similar transaction;
+(iii) to retain any assets contributed which are acceptable to the Investment Manager and to direct the sale or other disposition of any assets by private contract or at public auction;
+(iv) to give such directions and instructions to custodians and others as may be necessary and appropriate to carry out the investment management mandate;
+(v) to purchase derivatives for hedging purposes for a Fund, enter into securities lending arrangements for the portfolio of a Fund and make borrowing arrangements for a Fund on a short-term basis to service redemption and distribution obligations of a Fund.
+[21] The State Street Global Advisors, Ltd. Investment Management Contract provides in part:
+4. The Manager shall, based on the information furnished by the Client, and together with the Client, establish an investment policy suitable to the Client, having regard to the Client’s needs, objectives and constraints. The investment policy is attached hereto as Schedule A (the “Investment Policy”).
+5. The Client hereby undertakes to advise the Manager in writing, with 48 hours’ prior notice, of any amendments to the Investment Policy in order to allow the Manager to review these changes and modify the investment policy and the management of the Client’s Account(s) accordingly.
+6. The Client, in accordance with the Investment Policy:
+(a) authorizes the Manager to invest all of the assets of the Account in Units of the SSGA MA S&P Stock Index Fund (the “Fund”) consistent with Schedule A, one of the fund part of the State Street Global Advisors Multi-Access Funds;
+(b) consents to the pooling of such assets with assets contained in the accounts of other clients of the Manager in the Fund;
+(c) mandates the Manager to subscribe, from time to time, in the Client’s name, to Units of the Fund at their respective Unit Value (the “Purchased Units”) in accordance with terms of the Trust Agreement;
+(d) mandates the Manager to cause the redemption, from time to time, for the Client’s account of Units of the Fund in response to the Client’s direction; and
+(e) hereby agrees and acknowledges that all amounts payable to a Participant in respect of a Fund in accordance with, or as contemplated by Article 9 of the Trust Agreement shall, except to the extent that such Participant is surrendering Units for redemption or otherwise notifies the Trustee in writing and complies with any other conditions prescribed by the Trustee, be automatically reinvested in such Fund by way of the purchase of additional Units or fractions of Units of that Fund at the Unit Value as of the Valuation Date on which such amounts become payable or, if such date is not a Valuation Date, on the next following Valuation Date and, in order to give effect to the foregoing, the Manager shall amend the appropriate Register to reflect the additional Units so purchased in lieu of making any actual cash distribution.
+[22] The Alliance Capital Management Canada, Inc. contract contains the following provisions:
+Alliance Capital Management Canada, Inc. (the “Adviser”) and the undersigned (the “Client”) hereby agree as of the above date that the Adviser shall act as discretionary investment manager with respect to assets of the Client described below (the “Investment Account”) on the following terms and conditions:
+1. The Investment Account
+The Investment Account shall initially consist of cash, cash equivalents, stocks, bonds, and other securities or assets the Client places in the Investment Account or which shall become part of the Investment Account as a result of transactions.
+The Client may make additions to and withdrawals from the Investment Account provided the Adviser receives at least ten (10) business days’ prior written notice of withdrawals. All cash, securities and other assets in the Investment Account shall be held by such other party as the Client shall designate as trustee or custodian (the “Custodian”). The Adviser shall not be responsible for any custodial arrangements involving any assets of the Investment Account or for the payment of any custodial charges and fees, nor shall the Adviser have possession or custody of any such assets. All payments, distributions and other transactions in cash, securities or other assets in respect of the Investment Account shall be made directly to or from the Custodian, and the Adviser shall have no responsibility or liability with respect to transmittal or safekeeping of such cash, securities or other assets of the Investment Account, or the acts or omissions of the Custodian or others with respect thereto. The Client shall direct the Custodian to furnish to the Adviser from time to time such reports concerning assets, receipts and disbursements with respect to the Investment Account as the Adviser shall reasonably request.
+2. Services of Adviser
+By execution of this Agreement, the Adviser accepts appointment as investment manager for the Investment Account with full discretion and agrees to supervise and direct the investments of the Investment Account in accordance with the written investment objectives, policies and restrictions of the Client previously furnished to the Adviser as the same may be amended by the Client from time to time. In the performance of its services, the Adviser shall not be liable for any error in judgement or any acts or omissions to act except those resulting from the Adviser’s negligence, willful misconduct or reckless disregard of the terms of this Agreement.
+The Adviser shall render to the Client at least quarterly a written report and inventory of the investments in the Investment Account. It is agreed that the Adviser, in the maintenance of its records, does not assume responsibility for the accuracy of information furnished by the Custodian, the Client or any other person.
+. . . . .
+7. Discretionary Authority
+The Adviser, whenever it deems appropriate and without prior consultation with the Client, may (i) buy, sell, exchange, convert, liquidate or otherwise trade in any stock, bonds and other securities (including money market instruments) and (ii), subject to the provisions of paragraph 9 hereof, place orders for the execution of such transactions with or through such brokers, dealers or issuers as the Adviser in its absolute discretion may select.
+It is understood that, to the extent permitted by the written statement of investment objectives, policies and restrictions referred to above, the Adviser may also effect transactions for the Investment Account in options and financial futures, stock market index futures and other commodity contracts. In such event, the Client will execute any additional documentation which the Adviser deems necessary to enable it to engage in such transactions on behalf of the Investment Account.
+. . . . .
+9. Aggregation of Transactions
+The Client authorizes the Adviser in its discretion to aggregate purchases and sales of securities for the Investment Account with purchases and sales of securities of the same issuer for other clients of the Adviser occurring on the same day. When transactions are so aggregated, the actual prices applicable to the aggregated transactions will be averaged, and the Investment Account and the accounts of other participating clients of the Adviser will be deemed to have purchased or sold their proportionate share of the securities involved at the average price so obtained.
+Perigee Investment Counsel Inc. states:
+This agreement will serve to confirm the appointment of Perigee Investment Counsel Inc. (“Perigee”) as investment manager to the Canadian Medical Protective Association. This agreement will be effective as of November 1, 2000, and shall continue thereafter until further notice. This agreement may be terminated at any time by either party on a thirty-day written notice.
+The funds and securities for which we will act as an investment counsel will be held in trust and in the custody of CIBC Mellon (the “Trustee”) at its office in Toronto, Ontario. Perigee will advise the above custodian by written communication of all security transactions in connection with the management of these funds and securities undertaken by Perigee.
+Perigee agrees to place orders with brokers or dealers or other persons to purchase securities or to sell, exchange or liquidate any of the securities held by the custodian in the Investment Account, and to give instructions to the custodian from time to time as Perigee believes to be necessary for the proper implementation of the foregoing.
+[23] The Asset Management Agreement (Fixed Income Mandate) and McLean Budden Limited (“MBL”) provides:
+B. The Association wishes to appoint MBL to manage a portion of the “fixed income” assets of the Reserve for Claims. These assets shall hereinafter be referred to as the “Portfolio”.
+. . . . .
+1. Effective July 1, 2001 (the “Effective Date”), the Association hereby appoints MBL to manage the investment of the assets and earnings of the Portfolio as provided in and on the terms and conditions set forth herein and MBL hereby accepts this appointment.
+2. As of the Effective Date, the Association shall designate the Portfolio as being under the management of MBL in accordance with the terms and conditions herein. The Association shall place such assets in the Custodian’s account for the Portfolio and shall provide a list thereof to MBL. After the Effective Date, the Association may, from time to time, place additional assets of the Reserve for Claims under the management of MBL and these, together with all earnings on all assets, will form part of the Portfolio.
+3. The Association may at anytime remove any assets from the Portfolio, provided that the Association shall give MBL 5 days prior written notice of such removal.
+4. The Association shall advise MBL in writing from time to time of the name of the representatives of the Association from whom MBL will take instructions in connection with the Portfolio (the “Authorized Representative(s)”).
+5. MBL shall manage and is authorized to invest, re-invest and keep invested the Portfolio, with full discretionary authority, subject to any specific instructions received from the Authorized Representative(s), in accordance with the Statement of Investment Policies, Standards and Procedures of the Reserve for Claims which are attached as Schedule “A” (the “Investment Policies”). The Association may, with thirty (30) days prior written notice to MBL, amend the Investment Policies and such notice shall be annexed to this Agreement as a supplementary schedule.
+. . . . .
+8. MBL shall have full and complete discretion and authority to give instructions to the Custodian with respect to the purchase, sale and delivery of securities and cash for the Portfolio.
+[24] There is a similar agreement with MBL with respect to Canadian Equities. From these contracts I conclude that the IMs have full discretion to buy and sell securities on behalf of the appellant but it is a discretion that must be exercised within the limits of the guidelines set by the appellant’s Investment Committee as set out in the SIP&G. It is also clear that the Investment Committee keeps a close eye on what the IMs are doing and those IMs who do not obtain the expected investment objectives for the funds they are managing are in danger of having their mandate terminated.
+[25] Some of the investment management contracts between the appellant and the IMs refer to the IMs giving advice and counsel to the appellant. Mr. Stephen Campbell, the Director of Finance and Chief Financial Officer of the appellant was emphatic that CMPA did not look to the IMs for advice or counsel. A few passages from his testimony are illustrative:
+Q. What was in your view the essential service that was provided to you by the investment managers?
+A. What we were looking for them to do, having decided upon a mix that we believed would produce the appropriate return, you don’t get return, you don’t get the income from that unless the assets are deployed. You must convert your cash into exposure through buying securities. So the primary function was to buy a portfolio of assets, obviously having bought them, monitor and then sell at points and then reinvest the proceeds of those dispositions. Those portfolios would generate income and the expectation was where dividends had come into an equity fund they would buy more equities. Where interest came into a bond fund, the expectation is they would buy more bonds to deploy the money. We wanted to stay fully invested in those asset classes to get the return expectation.
+Q. What other services were provided to you by the investment managers?
+A. The core service is this buying and selling of securities. If they are not doing that, they are not delivering the service you need.
+They do that service not only for you but for many other clients, so there is certainly a requirement that they open an account to properly identify the cash and then the assets they bought that belong to you. Those securities will in time generate dividend and interest income, depending on the mandate. We expect them to receive that income, record it, and redeploy it by buying additional securities. Securities in their portfolio would mature as a bond reaches its maturity date or an equity is taken out through a corporate action. The receipt of those funds and insuring that they were again properly deployed.
+In order to boost return we have a securities-lending program. While we are long-only, there are managers who short the market. In order to sell a security that you don’t own you need to borrow it from someone and you can get a return, a fee for lending your securities out to that person who is going to sell short. We had that program. We expected the manager to facilitate that program happening.
+Where our accounts were denominated in foreign currency, we expected them to exchange the foreign currency back to Canadian dollars in an appropriate fashion. And then all of that summarized and reported to us so that we understood what they had done and could appropriately track and summarize and report back to the investment committee the performance of the fund over a time period.
+Q. Did the investment manager having anything to do with respect to accounts at brokers?
+A. In order to execute their buy and sell orders, they have to set up logistics and that would sometimes involve setting up a brokerage account so that instructions could be given to execute the buy and sell order.
+. . . . .
+Q. I notice in paragraph 1 it says that:
+“We [the CMPA] will hold confidential all investment advice and information provided by you [i.e. Phillips, Hager & North Limited]”. (as read)
+A. That’s correct.
+Q. Can you comment on that, please.
+A. There is an understanding generally in these agreements that both parties will hold confidential any of the information exchanged, any of the advice exchanged. It is proprietary. It belongs to, in this case, Phillips, Hager & North. Certainly when we got information in a quarterly report we were to keep that for our own use and not share it generally with the public. I presume if they ever offered advice, that would naturally apply as well.
+Q. What advice did you receive under this agreement, to your knowledge?
+A. I didn’t receive advice. We don’t use Phillips, Hager & North to provide advice, we use them to provide us with portfolio management. This agreement is from 1992. I cannot speak to that time, but certainly during my time, from 1998 on, dealing with Phillips, Hager & North, we certainly received information from them in a quarterly report, but no advice. We didn’t seek their advice on issues.
+. . . . .
+Q. If you look to tab 13 you will see a further agreement, this one dated October 1997 with Phillips, Hager & North. What mandate is referred to in that agreement?
+A. This agreement covers a U.S. equity, long only, mid cap, mid cap sized company mandate that was granted to Phillips, Hager & North.
+Q. This is, I gather, a fully discretionary mandate. I notice in paragraph 1 there is a reference to “investment advice and information” again. What advice did you get from Phillips, Hager & North with respect to this mandate?
+A. The mandate wasn’t set up on an advice basis, it was fully discretionary. They executed activity within the account at their own behest. We did get information from them in terms of the required monthly and quarterly reporting, but in terms of advice for me to act upon, I didn’t receive any.
+. . . . .
+Q. I want you to turn to tab 12, if you would. This appears to be a investment–management agreement with Sprucegrove.
+A. That is correct.
+Q. Is this the segregated fund or a pooled fund?
+A. This is a pooled fund. Sprucegrove is an international manager and they ran an international equity pooled fund.
+Q. What was the mandate of this fund?
+A. This fund was, again, a long-only equity fund focussed on non‑North American securities. So the rest of the world, excluding Canada and the U.S. It was a fully discretionary mandate, but it was implemented through a pool-fund vehicle.
+Q. Can I take you to paragraph 1.01. There again, you have the statement that the investor, CMPA, confirms the appointment:
+“—of the Invesment Manager as its investment manager to provide continuing counsel, advice and professional investment services --”
+Was there any counsel or advice provided to you by Sprucegrove?
+A. No, there wasn’t, and I would point out this is a generic agreement for all participants in the Sprucegrove fund. I cannot speak to what Sprucegrove might have provided for other participants, but for the CMPA we were engaging portfolio-management services and not counselling or advice. They had full discretion to invest the fund in accordance with this agreement.
+. . . . .
+Q. Could I ask you to turn to tab 60.
+A. Okay.
+Q. This is a mandate given to the CMPA to Alliance Capital Management Limited, I believe?
+A. That’s correct.
+Q. Again, a fully discretionary mandate?
+A. A fully discretionary U.S. large cap growth mandate.
+Q. This is a seg fund, not a pooled fund?
+A. That’s correct.
+Q. I notice the discretionary authority is set out in paragraph 7, and then at paragraph 13 you will note the statement:
+“All recommendations, advice and other work products of the advisor developed under the terms of this agreement and disclosed to the client shall be kept confidential.”
+(As read)
+Were there any recommendations of advice provided to you under this agreement?
+A. There was no advice or recommendations. There was information, as required in their reporting, but again, this is a document created by Alliance for their customers. Again, perhaps, advice and counsel was given to the other clients who signed this agreement. I did not receive any advice or counsel from them.
+Q. If I could ask you to turn to tab 17. This is a letter from Perigee to yourself. What is Perigee, please?
+A. Perigee is a investment-management firm domiciled in Canada. This agreement actually applies to a mandate given to Legg Mason, the fund run by Bill Miller. It is a large cap U.S. equity value fund. Perigee Investment Counsel was acting as a marketing representative for Legg Mason at the time, and this letter covers that mandate.
+Q. Was any advice or was any recommendation provided to the CMPA, to the investment committee primarily, I presume, by Parigee [sic] in respect of this mandate?
+A. No, no.
+[26] Mr. Campbell gave the same answers with respect to the investment managers McLean Budden Limited:
+Q. Did you receive any advice or recommendations as to a course of action from MacLean Budden?
+A. No. Again, they were a portfolio manager engaged to manage a specific mandate, to put assets to work in that asset class. We weren’t looking to them for advice or guidance.
+[27] It is clear from Mr. Campbell’s testimony that he was not looking to the IMs for investment advice. He was looking to them to use their experience and expertise to buy and sell securities and obtain a return within the guidelines set out in the SIP&G. This is true whether the mandate to the IMs is to invest in a balanced fund, where the IMs have a discretion to determine the asset mix, or a fund comprising stocks in a particular index such as S&P/TSX or S&P 500 or Dow Jones.
+[28] It is expected of the IMs that their investment strategies beat the index. To outperform the index necessitates a skilful assessment of acceptable risks that will maximize the return. The failure to perform the fine balancing act between an overly conservative investment strategy and an overly aggressive one can result in the mandate of the IMs being terminated.
+[29] Mr. Campbell was thoroughly and skilfully cross-examined by counsel for the respondent about the appellant’s investment strategies and philosophy and about the criteria used in choosing or terminating an IM, but nowhere in his testimony did he resile from the position that the appellant was not paying for advice or counsel.
+[30] I think that a fair summary of Mr. Campbell’s testimony, both in chief and in cross-examination, is that extreme care is exercised in choosing an IM but once one is retained and a mandate given with respect to a particular asset class — small capitalization equities, high capitalization equities, bonds, indexed funds, pooled funds — the IM is given an unfettered discretion to decide what securities to buy and sell and when to do so. From Mr. Campbell’s evidence it cannot fairly be concluded that CMPA was obtaining or paying for advice. They were paying the IMs to buy and sell a portfolio of securities within a particular asset class and within the guidelines of the SIP&G.
+[31] The appellant’s second witness was Mr. Anthony Gage. At the time of trial he was retired but was previously Chairman of Phillips, Hager & North Ltd. (“PH&N”) for whom he worked from 1984 to 2006. PH&N is, according to Mr. Gage, “an independent investment money management firm that provides both discretionary and non-discretionary management to clients”. It has approximately $68 billion[1] in funds under management.
+[32] PH&N is registered as an investment advisor in Ontario as an investment counsellor, which deals with non-discretionary clients and portfolio managers which deals with high net worth discretionary clients and institutional clients.
+[33] The personnel of PH&N are divided between non-discretionary clients, to whom investment counselling is given and discretionary clients for whom they do portfolio management. Mr. Gage described the two functions as follows:
+A. In case of the investment counsellor, advice is given. It is not the advice you would normally see from let’s say an investment dealer, whether they have a recommended list or they are dealing in individual securities. Our, quote, investment counsellors would be looking at the person’s profile in terms of know-your-client rules, and deciding whether they want to suggest other asset classes to provide either enhanced diversification or enhanced return.
+The portfolio management side does not do that. They in fact get an investment-management agreement and a statement of investment policies and procedures and they act within those two documents.
+[34] Mr. Gage described what PH&N did in managing the two accounts for the appellant — the Canadian equity account and the fixed income account. In the 1990s it also managed a U.S. equity account but that mandate was terminated. The following exchange took place between Mr. Gage and the appellant’s counsel.
+Q. In your view, what were you paid for?
+A. Providing investment management service. Providing the expertise to meet the client’s objective, because if we met the client’s objectives we retained the client. If we retained the client, we retained the fee structure. It had one simple goal.
+Q. How would you have met those objectives?
+A. By in fact using our skills in the area of selection and execution to transact, to add value relative to the passive index.
+Q. If you hadn’t bought or sold any securities for the CMPA, would your service have been of any value to the CMPA?
+A. No, we would have been fired.
+[35] PH&N has a trading desk consisting of individuals who trade the securities in the portfolios forming part of their various mandates. These individuals, in accordance with the discretionary mandate that they have from the client, would select the securities that they intend to acquire or dispose of and would execute the trades through a broker, whether the broker is acting as agent or as principal.
+[36] The evidence of Mr. Gage may be summarized, insofar as is relevant to this case, as establishing that PH&N is paid a fee based on the value of the assets in the portfolio managed by it for using the expertise of their personnel in selecting, buying and selling securities on behalf of the appellant. It does so through brokers who act either as principals or agents. All securities bought and sold are held by the custodian. Mr. Gage described PH&N as being in the investment management business and this is simply a shorthand way of describing the arranging for the acquisition and disposition of securities at a maximum profit within the guidelines set by the SIP&G.
+[37] Mr. Peter Letko was called by the respondent. He is the Senior Vice‑President, Letko Brosseau, which he described as being in the investment management business.
+[38] Letko Brosseau was retained by the appellant to manage a bond portfolio and to manage a Canadian equity portfolio. In its business Letko Brosseau had three groups of employees – those engaged in investment research, those engaged in administration and accounting and those engaged in client services.
+[39] The interaction between the analysts and the traders was described as follows:
+Q. What is the relationship, then, between the analyst and – you said you have traders. How does that work?
+A. The analysts are doing the fundamental work of trying to understand an investment proposition or proposal. The traders are implementing that decision. Once the group has decided that these securities, a list of securities should be purchased for a portfolio, then it is the job of the traders to transact, to find these securities, find them in the right size, at the prices that the analysts are willing to make the commitment at.
+[40] Like PH&N, Letko Brosseau occasionally suggested to the appellant that its SIP&G be amended to give them a little more flexibility in carrying out their mandate. These occasions were relatively rare, were of a minor nature, and did not result in the appellant paying any more to the IMs.
+[41] In summary then, Mr. Letkos’s evidence established that the mandate and the method of fulfilling the mandate was essentially the same for Letko Brosseau as for PH&N: complete discretion as to what securities to buy and sell and monthly reporting after the event. A passage from the cross-examination of Mr. Letko is illustrative:
+Q. You spent quite a bit of time speaking about your expertise and it certainly is impressive. Your expertise, though, only really became valuable once it was translated into your model portfolio; is that not correct? In other words, if I can be more clear, your expertise didn’t find itself translated into a research report that was then sold?
+A. No, that is right. The expertise is an actual – making the investments and executing on those stock transactions, on our strategies.
+Q. Executing in terms of buying and selling what it is your research suggests you should buy and sell?
+A. Yes.
+Q. Because that is the only transaction seen by client?
+A. Yes.
+Q. And in fact if you did not buy and sell, albeit the result of your research, then from the client’s perspective, there would be no value?
+A. Right, correct. Can I add something to that? That is that we don’t sell research. We don’t – we only manage. We would not accept a mandate that doesn’t allow us to actively manage a portfolio. In other words, just providing advice is not part of a service, or a service that we offer.
+[42] The question is where, if anywhere, the services performed by the IMs for CMPA fall in the definition of financial services in subsection 123(1) of the ETA. The initial question is one of fact: what service the IMs perform to earn the fees? Once that question is answered, the ultimate question becomes one of law: does that activity fall within the definition?
+[43] My factual determination is this: the IMs are retained to buy and sell on behalf of the appellant, in their unfettered discretion, a particular group of securities, whether fixed income or Canadian or U.S. equities. They are expected to do so with skill and expertise. The IMs are carefully chosen, taking into account their experience, past performance and expertise. They are terminated if their performance does not meet the appellant’s expectations. They are given full discretion within the limits of the group of securities comprising their mandate and within the constraints of the appellant’s SIP&G.
+[44] They are not paid to give advice and do not do so except in the very limited circumstances where they may suggest that the appellant’s SIP&G be modified to permit a greater flexibility in investment, for example to change the percentage of a portfolio that can be held in provincial bonds. They report to the appellant on a monthly basis with respect to purchases and sales they have made. They do not seek the appellant’s prior approval for purchases and sales that they make. Their fees are based upon a percentage of the value of the securities in the portfolio. They are not brokers. They execute the trades in securities by instructing brokers to do so. The securities are held in the name of the custodian whose role is essentially passive.
+[45] As to the ultimate question, do the services fall within the definition of financial services? The analysis is two‑fold:
+(a) are they within paragraphs (a) to (m) of the definition? If they are not, we need not go to the second part which is
+(b) are they excluded by paragraphs (n) to (t)?
+[46] There are two points that I think should be made at this juncture. I can see no justification for drawing a distinction between the services performed by the IMs in respect of segregated funds and those performed in respect of pooled funds. Segregated funds are not commingled with the assets of other investors. They are kept separate and the IMs buy and sell them in accordance with the discretionary powers given them under the Investment Management Agreement. The pooled funds were funds in which the IMs invested the appellant’s funds that were pooled with other investors’ funds. The properties in which the appellant invested in the pooled funds were of two types: interests in limited partnerships and units of mutual fund trusts.
+[47] Second, I think it is essential to distinguish between the quality of the service provided and the nature of the service. Counsel for the respondent put great emphasis upon the skill, expertise and experience of the IMs that the appellant retained. I do not question that the IMs were skilful and expert. Nonetheless, it is inaccurate to say that the appellant was buying and paying for skill and expertise. One does not buy these qualities in the abstract, divorced from the service that is being provided. When one retains the services of a physician, a lawyer, an engineer, a stockbroker or an accountant, each of these professionals provides a service that is defined by their particular area of expertise — medical services, financial services, legal services and so on. The services may be provided skilfully and expertly or their supply may be made incompetently. Whether they supply the particular professional service badly or well the nature of the service remains the same.
+[48] I think the services performed by the IMs for CMPA fall within the definition of financial services by reason of paragraphs (d) and (l) of the definition because they constitute “the arranging for ... the transfer of ownership ... of a financial instrument”. See Royal Bank v. R., [2007] G.S.T.C. 18 at paragraphs 9 and 12. There was some evidence that the appellant also engaged in securities lending. To the extent that it did the fees also fall within paragraphs (c) and (l).
+[49] Since I have concluded that the services fall within paragraphs (c) or (d) and (l), I turn to the second part of the analysis, the exclusion in paragraphs (p), (q) and (t).
+[50] I have found as a fact that the providing of advice was not what the IMs did or were paid for. It is convenient to reproduce a portion of Mr. Ezri’s written submissions with respect to the IMs.
+e) Function and appointment of advisers
+16. The job of the advisers is to:
+a) select securities within each asset class;
+b) provide the Director of Finance with monthly portfolio reports of all assets of the Fund and monthly reports of all transactions;
+c) give prompt notice to the Custodian of all purchases, sales and other security transactions;
+d) reconcile all month end cash and security balances with the statements provided by the Custodian;
+e) meet with the Investment Committee at least once a year to present their analysis of the investment performance and to describe their current and further investment strategies regarding their specific investment mandate;
+f) provide an annually audited financial statement;
+g) be governed by the Code of Ethics and Standards of Professional Conduct of the Association for Investment Management and Research.
+17. The Committee sets high standards for the selection of advisers. The criteria for choosing an adviser include:
+a) how long the adviser has been in business;
+b) what kind of team the adviser has; for example, the appellant prefers advisers whose employees are Certified Financial Analysts;
+c) how the adviser deals with compliance issues;
+d) the turn-over of the advisers’ staff.
+18. The appellant uses a firm to screen potential advisers based on 28 separate criteria including experience, composition and continuity of staff, and amount of money under management. The appellant does significant due diligence prior to appointing a manager including, conducting site visits and verifying that the managers had actually conducted the type of research that they claimed to carry out.
+19. The advisers are retained for their skill and ability to determine what investments to buy and sell and when to buy and sell. They are not retained for their ability to engage in the mechanical aspects of trading securities. Specifically:
+a) the advisers are not required to have their own order desks so as to be able to execute orders to buy and sell securities. Where an adviser has the capacity to buy and sell securities, the appellant would not generally permit the adviser to trade solely through its own desk, but would require them to place trades with the brokerage community; in all cases advisers are expected to allocate their trades among a number of brokers with a view to obtaining competitive fees and services in respect of trade execution.
+b) although the brokers who execute trades do so with significant skill, their role is subordinate to that of the analysts who give them their instructions. Because they are not part of the advisers’ staff, they may not be privy to the strategy or goals of the analysts. They are told what to buy and given some guidance as to how aggressively to acquire the securities and guidelines as to acceptable prices.
+c) with the exception of securities held inside pooled funds, the advisers do not take custody of the funds that they manage. Consistent with standard investment management principles, orders to buy and sell securities are executed by brokers and settled by the Custodian, who retains title to, and physical custody of, the securities. Many, of the acts described by the appellant, as financial services performed by the advisers, in its ruling request letter to the CRA, were in fact performed by the custodian including the receipt and payment of money and the receipt of principal, interest and dividends;
+d) where securities held by the Custodian are lent out, the detailed transaction is carried out by the Custodian and the payment for the loan is shared between the Custodian and the appellant. The adviser, though informed of the transaction, takes no part in it and does not include the income earned from lending the securities as part of the return from the portfolio under management.
+e) the fees earned by the advisers are not based on the number or volume of transactions undertaken. Fees are set only by reference to the size of the portfolio under management and are payable even if few transactions take place in a billing period. Where a commission is payable on an equity transaction, the appellant pays it as a separate charge for the service of having a broker arrange for the purchase and sale of the securities that the adviser wishes to buy or sell. For bond transactions, the commission is embedded as part of the cost of the bond, or as a reduction in proceeds of disposition. This cost of buying and selling securities is not paid by the adviser.
+f) the primary reason for terminating advisers is that they have failed to produce an acceptable rate of return. An acceptable rate of return requires that an adviser produce a rate of return, after subtracting management fees, that: i) provides a real rate of return equal to the rate of inflation plus 4%; ii) matches the performance of other advisers with similar philosophies and investments, and iii) beats a specified benchmark rate of return (e.g. the S&P 500 index) by a number of basis points, usually 100 basis points. They may also be terminated for if they experience changes to key personnel, or fail to abide by the limitations on their mandate.
+[51] From both the viva voce evidence and the contracts between the appellant and the IMs I have concluded that the fundamental assumptions upon which the disallowance of the rebate claims have been “demolished” to use the words of Rand J. in Johnston v. M.N.R., [1948] S.C.R. 486. These assumptions, set out in paragraphs 6 and 7 of the Reply to the Notice of Appeal are reproduced in paragraph 14 of these reasons:
+6. In assessing the Appellant to disallow the rebate claims, the Minister of National Revenue (the “Minister”) relied on the following assumptions, set out in a ruling to the Appellant in April, 2004:
+. . . . .
+c) the supply from the IM to the Appellant was primarily one of providing quality investment expertise and advice;
+d) the primary service provided by the IM was its expertise in the selection of securities, which was a service other than a financial service set out in paragraphs (a) to (m) of the definition of “financial service” in subsection 123(1) of the Act;
+. . . . .
+7. In confirming the assessment, the Minister relied on the following assumptions:
+. . . . .
+(b) the supply was primarily one of providing professional investment advice and funds management;
+. . . . .
+[52] Two things stand out. First, it has been overwhelmingly established that the IMs were not providing advice to the appellant. They arranged for the buying and selling of securities on behalf of the appellant. Second, as a practical matter, it is impossible to say that the service provided was “expertise” simpliciter. Expertise is an attribute or a quality of the service provided whether it be financial, legal, accounting, medical or any other service. It does not exist independently of the thing to which it is attached. If I buy a beautiful painting I am not buying beauty in the abstract, I am buying a painting. It may well be that in a philosophical sense one might say that beyond the world of physical things there is a higher spiritual realm of Forms or Ideas in which abstract concepts such as truth, beauty, justice, wisdom, or expertise exist independently of whatever concrete or mundane things in which they inhere. However philosophically satisfying one may find such platonic notions, they have gained no currency in the pragmatic world of modern commerce. The service is not the expertise. The service is whatever it is, whether it be provided expertly or inexpertly. The degree of skill with which a particular service is provided does not determine the nature of the service.
+[53] Having concluded that the IMs were not providing advice within the meaning of paragraph (p) of the definition of financial service, and that the providing of expertise as a service in the abstract without reference to the nature of the service provided is realistically a commercial impossibility, I turn then to the Crown’s contention that the supply is one of “management services”. Management services are excluded from the definition of “financial service” by paragraph (q). In the first place, I do not regard the discretionary purchase and sale of securities, whether done expertly or inexpertly, as a management or administrative service (“service de gestion”) in ordinary parlance. The juxtaposition in paragraph (q) of the words “management” and “administrative” implies the type of managerial function associated with running a business. Management and administration fees are paid generally to individuals or corporations to handle the variety of matters necessary for the functioning of a business. I should not have thought that “managing” a portfolio of investments carried that type of connotation.
+[54] I do not need however to reach a concluded view on the matter in light of the words in paragraph (q) “… to … any corporation … whose principal activity is the investing of funds …”. It is conceded, quite correctly in my view, that the appellant’s principal activity is not the investing of funds. This is sufficient to dispose of the argument under paragraph (q).
+[55] Finally, we come to paragraph (t). Section 4 of the Financial Services (GST/HST) Regulations is reproduced above. Paragraph 4(2)(b) refers to “any administrative service …”. In determining the ambit of these words it should be noted that paragraph (q) of the definition in section 123 of the ETA excludes management or administrative services only where such services are rendered to a particular type of recipient (which the appellant is not).
+[56] Where a statute specifically limits the type of administrative service that is to be excluded it is not permissible as a matter of statutory interpretation to read subordinate legislation, i.e. a regulation, as broadening the ambit of the words and in effect eradicating the limitations imposed by the statute. No authority is required for this obvious proposition.
+[57] The narrower interpretation of “administrative service” that flows from the limited effect that I have attributed to their use in the regulation is illustrated by the decision of Bowie J. in Royal Bank v. R., 2005 TCC 802 at paragraph 18:
+The Appellant argues that, in any event, the branch services cannot come within the definition of financial service because they are administrative services, and therefore are specifically excluded from the definition by paragraph (t) and section 4 of the Regulation. This provision has been considered only twice by this Court, and neither case sheds any light on the meaning of the expression "any administrative service" ("les services administratifs"). The Canadian Oxford Dictionary (2nd Ed.) gives this definition at page 17:
+administrative: concerning or relating to the management of affairs.
+Other dictionaries, both French and English, are no less vague. Clearly this expression is both broad and elastic in meaning, but it seems clear that when read in its context within the statutory scheme of Part IX of the Act, and relative to the definition of "financial service" ("service financier") in particular, it is intended to exclude from that definition such ancillary services as data processing, record keeping and the like, but not those activities enumerated specifically in the first part of the definition for inclusion within it, of which arranging for the distribution of securities is certainly one. In my view paragraph (t) of the definition and the Regulations have no application in this case.
+For the foregoing reasons, I conclude that the branch services were financial services exempt from tax, and that the inputs to them therefore did not give rise to an entitlement to ITCs.
+[58] After the evidence and argument in this case were completed, Justice Campbell of this court rendered judgment in General Motors of Canada Limited v. The Queen, 2008 TCC 117. The issue in that appeal was whether General Motors of Canada Ltd. (“GMCL”) was entitled to input tax credits (“ITCs”) in respect of GST on fees that it paid to investment managers for services rendered in respect of investments in GMCL’s two registered pension plans.
+[59] I gave counsel for both parties an opportunity to make submissions in respect of that decision. Justice Campbell allowed the appeal and held that GMCL was entitled to the ITCs claimed. The judgment has been appealed to the Federal Court of Appeal and accordingly I do not propose to comment on it more than is necessary. The question whether the fees paid to the investment advisor by GMCL were “financial services” arose from an alternative argument raised by the appellant and it may not have been strictly necessary to the determination of the question whether GMCL was entitled to ITCs in respect of GST that it had already paid on the fees.
+[60] The GMCL case was factually far more complex than this case. In the case of CMPA it is clear beyond any doubt on the evidence that the IMs were not providing advice. It is equally clear that GMCL exercised a great deal of control over the decisions of the investment managers and relied upon the advice given to it by them. Justice Campbell made a finding of fact that the service was the providing of advice, albeit with expertise and skill. The finding that the IMs rendered advice to CMPA is not open to me on the evidence in this case.
+[61] The appeals are allowed with costs and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the fees paid to the IMs (except those which the appellant concedes are taxable) are exempt financial services.
+[62] To ensure that there are excluded from the operation of this judgment precisely the fees which the appellant has conceded are taxable, I am directing that the parties prepare a draft judgment and submit it to the Court within two weeks of the issuance of these reasons.
+Signed at Ottawa, Canada, this 10th day of April 2008.
+“D.G.H. Bowman”
+Bowman, C.J.
+CITATION:
+2008TCC33
+COURT FILE NUMBER:
+2005-98(GST)G
+STYLE OF CAUSE:
+The Canadian Medical Protective
+Association v. Her Majesty The Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATES OF HEARING:
+November 19, 20 and 21, 2007
+REASONS FOR ORDER BY:
+The Honourable D.G.H. Bowman, Chief Justice
+DATE OF ORDER AND REASONS FOR ORDER:
+April 10, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Ian S. MacGregor, Q.C.
+Sean C. Aylward
+D’Arcy A. Schieman
+Counsel for the Respondent:
+Michael Ezri
+April Tate
+COUNSEL OF RECORD:
+Counsel for the Appellant
+Name:
+Firm:
+Osler, Hoskin & Harcourt LLP
+Barristers & Solicitors
+100 King Street West
+1 First Canadian Place
+Suite 6100, P.O. Box 50
+Toronto, ON M5X 1B8
+Counsel for the Respondent
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+[1] I assume billion is used in the American and French rather than the British sense.

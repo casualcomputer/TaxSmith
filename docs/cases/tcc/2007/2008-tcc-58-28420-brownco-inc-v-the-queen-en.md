@@ -1,0 +1,443 @@
+---
+title: "Brownco Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28420/index.do"
+last_modified: "2007-01-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 58"
+citation2: ""
+neutral_citation: "2008 TCC 58"
+decision_date: "2007-01-25"
+language: "en"
+item_id: "28420"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1219
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:27:13.054000+00:00"
+cases_cited_count: 2
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3cbe586c573bc2994089d0da57b885bfedb4d46fc30d2f6ec0b4869326a6fd67"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Brownco Inc. v. The Queen
+
+- Citation: 2008 TCC 58
+- Decision date: 2007-01-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1219, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Brownco Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-01-25
+Neutral citation
+2008 TCC 58
+File numbers
+2005-3161(IT)G
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-3161(IT)G
+BETWEEN:
+BROWNCO INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 14 and 15, 2007, at Kitchener, Ontario.
+Before: The Honourable Justice B. Paris
+Appearances:
+Counsel for the Appellant:
+George Voisin
+Counsel for the Respondent:
+Ifeanyi Nwachukwu
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act for the 2002 and 2003 taxation years is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 25th day of January 2008.
+“B.Paris”
+Paris J.
+Citation: 2008TCC58
+Date: 20080125
+Docket: 2005-3161(IT)G
+BETWEEN:
+BROWNCO INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Paris, J.
+[1] The Appellant is in the business of constructing homes in and around Barrie, Ontario. During the taxation years in issue, its shares were owned equally by two other corporations: Bost Investments Inc. (Bost) and 1476577 Ontario Inc. (147). The Appellant filed its tax returns for its taxation years ending October 31, 2002 and October 31, 2003 on the basis that it was not associated with Bost within the meaning of paragraph 256(1)(a) of the Income Tax Act (R.S.C. 1985, c. 1 (5th Supp.)) and, therefore, that it was entitled to claim the full small business deduction under subsection 125(1) of the Act. The Minister of National Revenue reassessed the Appellant to disallow its claim for the small business deduction on the basis that the Appellant and Bost were associated corporations and that the Appellant was not entitled to the small business deduction because Bost controlled the Appellant directly or indirectly in any manner whatever.
+[2] The Appellant is appealing from those reassessments.
+[3] The issue in this appeal is whether Bost controlled the Appellant at any time during the Appellant’s 2002 and 2003 taxation years either directly or indirectly in any manner whatever as provided in paragraph 256(1)(a) of the Act, thereby causing the two corporations to be associated for purposes of the Act.
+Facts
+[4] The parties filed a partial agreed statement of facts, which reads as follows:
+1. The Appellant, Brownco Inc., is a Canadian Controlled Private Corporation (“CCPC”) and was incorporated under the laws of Ontario on June 13, 2000 and is in the active business of constructing and selling residential homes in the Barrie area of Ontario.
+2. On incorporation Bost Investments Corp. (“Bost”) subscribed for 1 common share. Bost was controlled by Garo Bostajian (“Garo”), through a family trust.
+3. During the fiscal years 2000 and 2001, by virtue of Bost’s ownership of all of the shares in Brownco, Bost had de jure control. In filing its 2000 and 2002 T2 Income Tax Return, Bost and the [sic] Brownco declared that they were associated corporations for income tax purposes.
+4. In the 2002 and 2003 taxation years (the “material times”) the Appellant carried on the business of residential construction using the tradename Grandview Homes in Barrie, Ontario.
+5. At all material times, the Appellant was part of a group of companies operating in the business of property development and the construction of residential homes most of which operated also under the tradename Grandview Homes.
+6. In the 2002 and 2003 taxation years, the corporate structure of the Bost Group of Companies was as reflected in Tab 11 of Exhibit 1, being Joint Book of Documents Volume 1. (omitted)
+7. Bost Investments Corp. (“Bost”) or Garo Bostajian, individually or through a trust, owned at least 50% of the shares of each company that follows:
+Corporation
+Percentage Ownership
+of Bost
+Percentage Ownership of
+Garo Bostajian
+Business Activities
+Supplier of Lots
+Lotco Limited
+100%
+Purchaser of Lots from
+Developers
+Lotco II Limited
+--
+100% Garo
+Bostajian
+Family Trust
+Purchaser of Lots from
+Developers & Land Development
+Developer of Lots
+Cambridge Centre Village Inc.
+100%
+Land Development
+Doon Creek Ltd
+50%
+--
+Land Development
+Greengate Village Inc.
+50%
+--
+Land Development
+Dodge Drive Limited
+50%
+--
+Land Development
+Tepco Holdings Inc
+50%
+--
+Land Development
+Construction Companies
+Buildco Inc.
+100%
+--
+Construction of Residential Homes
+Buildcap Inc.
+100%
+--
+Construction of Residential Homes
+Ridgeview Homes Inc.
+50%
+--
+Construction of Residential Homes
+Novelco Inc
+50%
+--
+Construction of Residential Homes
+Buildplus Inc
+50%
+--
+Construction of Residential Homes
+Brownco Inc
+50%
+--
+Construction of Residential Homes
+1205584 Ontario Ltd.
+50%
+--
+Construction of Residential Homes
+1488533 Ontario Inc.
+50%
+--
+Construction of Residential Homes
+1517267 Ontario Inc.
+50%
+--
+Construction of Residential Homes
+1589855 Ontario Inc.
+50%
+--
+Construction of Residential Homes
+1136364 Ontario Ltd.
+50%
+Construction of Residential Homes
+Real Estate Rental
+Bost Properties Inc.
+100%
+Owns real estate rental properties
+8. At all material times, Bost and 1476577 Ontario Limited (“147”), both CCPC’s, each owned 50% of the issued and outstanding common shares of the Appellant.
+9. 147 acquired its 50% interest in Brownco on October 31, 2001, when Brownco issued 49 additional shares to Bost and 50 shares to 147.
+10. The number and stated capital of the issued and outstanding shares of Brownco during the years under appeal were:
+Shareholder
+Issued Shares
+Stated Capital
+Bost
+50 Common Shares
+$50
+147
+50 Common Shares
+$50
+11. The issued and outstanding shares of Bost were owned as follows:
+Garo Bostajian Family Trust
+1,000 Common Shares
+Garo Bostaijan (“Garo”)
+761,490 Class A Special Shares
+Estate of Boghos Bostaijan
+507,960 Class A Special Shares
+12. Garo resides in Kitchener, in the Regional Municipality of Waterloo.
+13. The number and stated capital of the issued and outstanding shares of 147 consist of the following:
+Shareholder
+Issued Shares
+Stated Capital
+Randy Brown
+50 Common Shares
+$50
+Linda Brown
+50 Common Shares
+$50
+14. During the material times, Randy Brown (“Brown”) resided in Barrie, Ontario with his spouse, Linda Brown.
+15. Garo and Brown are not related to each other by blood relationship, marriage or adoption.
+16. From incorporation of Brownco, Garo held the office of Secretary and Treasurer of the Appellant, with Brown holding the office of President.
+17. Pursuant to the Unanimous Shareholders’ Agreement (“USA”) between Brownco, Bost and 147 dated October 31, 2001, the activities of Brownco shall be managed by a board of directors consisting of at least two directors. Bost and 147 each had the right to elect and did elect a member of the Board of Directors.
+18. At all material times, the board of directors of the Appellant consisted of two directors, namely Garo (Bost’s nominee) and Brown (147’s nominee).
+19. The nominee of Bost, Garo, was the Chairman of the Board of Directors.
+20. The majority of the votes cast at a meeting of the Board of Directors governed and in the event of a tie, the Chairman, Garo, held the deciding vote.
+21. “Grandview Homes” is the marketing name developed by Bost. At all material times, Brownco used the business name “Grandview Homes” in its marketing.
+22. Bost enters into business arrangements with other construction companies including Brownco. In these arrangements the construction companies used the name Grandview Home for marketing purposes. Bost’s arrangement with the other construction companies was similar to its arrangement with Brownco: Bost would try and did arrange for the acquisition of lots and financing and was responsible for certain administrative matters.
+23. At all material times, Bost had the arrangement set out in paragraph 22 with Brownco as well as with the construction companies that included Ridgeview Homes Inc., Novelco Inc., 1205584 Ontario Ltd., 1488533 Ontario Inc., 1517267 Ontario Inc., and 1589855 Ontario Inc. Bost was a 50% shareholder in each of these companies.
+24. At all material times, Bost was a 50% shareholder in Tepco Holdings Inc., Buildplus Inc., Doon Creek Ltd., Dodge Drive Limited, and Greengate Village Inc. These companies were not in the house building business. They were land development companies, none of which operated in the Barrie area.
+25. Pursuant to the USA, the responsibilities of 147 in the management of Brownco are the following:
+a) Site vehicle and trailer
+b) Cleaning and dumping fees
+c) Site supervision
+d) Site labour
+e) Lot cleaning
+f) Garbage removal
+g) Finishing cleaning
+h) Small tools
+i) Cell and site phone
+j) Miscellaneous finishing materials
+k) Service work
+l) Maintenance work under TARION (Ontario Home Warranty Program)
+26. Pursuant to the USA, the responsibilities of Bost in the management of Brownco are the following:
+a) Bookkeeping services
+b) Use it best efforts to obtain building lots. Generally this refers to Bost or related company entering into agreements with third parties to purchase building lots.
+c) Arrange bank financing
+27. Outside of the USA, management responsibilities of Bost in the management of Brownco are the following:
+a) Arranging letters of credit
+b) GST remittances
+c) Reviewing Workers Safety Insurance Board status for trades
+d) Day-to-day banking
+e) Payment of invoices
+f) Day-to-day office administration
+28. Pursuant to the USA, Brownco shall pay both 147 and Bost $3,000 per residential unit completed and sold.
+29. Pursuant to the USA, Brownco shall accrue and pay additional management fees equally to each of 147 and Bost to reduce Brownco’s annual taxable income to the annual small business limit as defined under the Income Tax Act.
+30. Pursuant to the USA, the annual after-tax corporate income is to be equally distributed by Brownco to 147 and Bost without impairing the ability of Brownco to continue to carry on business.
+31. At the beginning of the 2002 fiscal year (being November 1, 2001) of Brownco, the balance sheet reported a debt owed to Bost of $119,950. At the end of the 2002 fiscal year (being October 31, 2002), the amount Brownco owed to Bost increased to $1,220,000.
+32. Brownco’s revenue for fiscal year ending October 31, 2002 was $9,591,262.
+33. For the fiscal year 2002, the accounting firm BDO Dunwoody LLP reported in respect of Brownco:
+a) Pre-tax income of
+b) Management fee paid to 147
+c) Management fee paid to Lotco Limited (connected with Bost)
+d) Management fee paid to Lotco II Limited (connected with Bost)
+e) Management fee paid to Buildcap Inc. (connected with Bost)
+Total
+$213,249
+448,000
+90,000
+66,000
+292,200
+$1,209,249
+34. At the beginning of the 2003 fiscal year (being November 1, 2002), the opening balance of Brownco’s debt owed to Bost was $1,220,000 and at the end of the fiscal year (being October 31, 2003) the debt was reduced to $120,000.
+35. Brownco’s revenue for fiscal year ending October 31, 2003 was $9,102,229.
+36. For the 2003 fiscal year, the accounting firm BDO Dunwoody LLP reported in respect of Brownco:
+a) Pre-tax income of
+b) Management fee paid to 147
+c) Management fee paid to Lotco II Limited (connected with Bost)
+d) Management fee paid to Buildcap Inc. (connected with Bost)
+Total
+$219,975
+228,500
+60,000
+168,500
+$676,975
+37. Brownco filed its tax returns for fiscal years 2002 and 2003 on the basis that it was not associated with Bost and therefore entitled to the small business deduction.
+38. By Notices of Reassessment dated April 15, 2005, the Minister reassessed Brownco’s tax liability in the 2002 and 2003 taxation years by disallowing the small business deductions of $31,903 and $35,040 respectively on the basis that Brownco and Bost were associated corporations within the meaning of Income Tax Act subsection 256(1) in combination with subsection 256(5.1) of the Income Tax Act.
+[5] Mr. Brown and Mr. Bostajian testified at the hearing, along with Mr. Greg Weiler, an accountant at BDO Dunwoody who was involved in the preparation of the Appellant’s financial statements.
+[6] Mr. Bostajian is a civil engineer who began building houses in the Kitchener area in 1989. At some point he set up Bost which began using the trade name “Grandview Homes” to market the houses in his business. According to the evidence, Grandview Homes enjoyed a good reputation both among home buyers and the construction trades, and Mr. Bostajian strove to maintain that reputation.
+[7] A number of construction companies in which Bost held an interest were set up over the next several years (see paragraph 7 of the partial agreed statement of facts). Those companies used the Grandview Homes tradename, and Bost arranged financing for them as well as for the acquisition of lots. Bost was also involved in the administration of those companies. Mr. Bostajian referred to these companies as Bost’s “franchisee corporations.”
+[8] According to Mr. Bostajian, except for Buildo Inc. and Buildcap Inc., Bost held 50% of the shares of these corporations and the franchisee held the remaining shares. Bost and the franchisee each nominated one director and Bost’s nominee had a casting vote, as it did in the Appellant.
+[9] Mr. Brown began working in construction around 1988 and was a contract house builder when he met Mr. Bostajian in 1998. At that time Mr. Brown was looking for new business opportunities in the construction field.
+[10] Mr. Brown testified that, at their first meeting, Mr. Bostajian proposed that Mr. Brown become a Grandview Homes franchisee, Mr. Bostajian, on the other hand, said that he did not offer to make Mr. Brown a franchisee right away but instead suggested that they work together on the construction of a few houses in the Kitchener‑Waterloo area, in order for Mr. Bostajian to satisfy himself that Mr. Brown was a good builder.
+[11] In any event, as a result of their meeting, Mr. Brown and Mr. Bostajian entered into a business relationship whereby Mr. Brown built three houses in late 1998 and 1999 on lots purchased by Mr. Bostajian or one of his companies. The profits from the sale of the houses were split equally between Mr. Brown and Mr. Bostajian.
+[12] Mr. Bostajian said that in late 1998, he told Mr. Brown that he was interested in Mr. Brown starting a Grandview Homes franchise in the Barrie area to build on lots which had been acquired by one of Mr. Bostajian’s companies. Despite Mr. Bostajian’s professed desire to have Mr. Brown become a franchisee, when Mr. Brown moved to Barrie he ran the operations of one of Bost’s existing companies, named Buildco Inc. Mr. Brown managed Buildco’s operations in Barrie from 1998 to 2001.
+[13] Eventually, on June 13, 2000, the Appellant was incorporated with Bost as its sole shareholder. Bost provided the initial capital of $120,000 in the form of a shareholder loan. Both Mr. Brown and Mr. Bostajian became directors of the Appellant at the time of its incorporation and Mr. Brown was made president and Mr. Bostajian the secretary‑treasurer.
+[14] Both Mr. Brown and Mr. Bostajian testified that when the Appellant was incorporated Mr. Brown was intended to be an equal shareholder, but he was mistakenly not issued any shares.
+[15] Mr. Bostajian said that the error was first brought to his attention in early 2001 by someone from his accounting firm, and that he was advised to wait until the end of the Appellant’s fiscal year to rectify the error. On October 31, 2001, an additional 49 shares of the Appellant were issued to Bost and 50 shares were issued to 147 to give them equal shareholding. The Appellant filed its returns for its 2002 and 2003 taxation years on the basis that it was not associated with Bost.
+[16] At the same time the additional shares were issued on October 31, 2001, Bost, the Appellant and 147 entered into the Unanimous Shareholder Agreement (USA). It contained provisions dealing with the management and corporate governance of the Appellant, restrictions on the transfer of shares, the right of first refusal regarding the sale of shares, and procedures to be followed in the event of a sale of shares pursuant to the agreement.
+[17] The USA provided that Bost and 147 would each appoint one director, and that in the event of a tie in a vote of the directors, the Chairman would have the deciding vote. It also set out that, unless otherwise agreed, the nominee of Bost would be the Chairman of the Board of Directors. Mr. Bostajian and Mr. Brown testified that this provision was included to protect the “Grandview Homes” tradename.
+[18] The Appellant was inactive until its fiscal year commencing November 1, 2000. At some point after that date it began constructing homes. In 2002 and 2003 Lotco Ltd., which was wholly owned by Bost, supplied most of the lots on which the Appellant built. The evidence showed that Lotco supplied 253 lots to the Appellant during this period, while the Appellant acquired 25 lots on its own. Mr. Bostajian and Mr. Brown testified that Mr. Bostajian consulted with Mr. Brown prior to Lotco purchasing the lots, and both parties agreed on which lots Lotco would acquire for the Appellant. Other lots acquired by Lotco were allocated to Novelco Inc., another company in which Bost had a 50% interest and which operated in Barrie. During the period in issue, Lotco allocated 93 lots to Novelco.
+[19] The cost to Lotco for the lots allocated to the Appellant appear to be in the range of $10 million to $15 million with cash required on closing between $2 million to $3 million. Lotco gave the Appellant 100% financing for the lots Lotco transferred to it. The costs of the lots that were acquired by the Appellant on its own was $954,000 with cash on closing of $95,440. The remainder of the purchase prices were financed with vendor take back mortgages.
+[20] The Appellant had revenue of $9,591,262 for its year ending October 31, 2002, and $9,102,229 for its year ending October 31, 2003. After the payment of management fees to 147 and certain Bost group companies the Appellant had taxable income of $213,249 in 2002 and $219,975 in 2003.
+[21] Bost provided financing for the Appellant’s operations through advances on a credit facility Bost had set up with the Royal Bank of Canada in May 2001 for $5 million, repayable on demand. The credit facility was used by Bost to finance the operations of a number of other of the construction and land development companies in which Bost held an interest. The credit facility was increased to $6 million in August 2002. The Appellant guaranteed the full amount of the indebtedness of Bost under the credit facility, as did the other Bost companies that used it.
+[22] The maximum amount of the advances from Bost to the Appellant from the credit facility do not appear to have exceeded $2,291,585 in the years in issue.
+[23] There was no written financing agreement between Bost and the Appellant, but Mr. Bostajian said that the Appellant was required to pay interest to Bost one half percent (½%) above the rate the Royal Bank of Canada charged Bost.
+Respondent’s Position
+[24] Subsection 256(1) of the Act sets out the circumstances in which one corporation is associated with another. The Minister, in reassessing the Appellant, relied on paragraph 256(1)(a) which reads:
+Associated corporations -- For the purposes of this Act, one corporation is associated with another in a taxation year if, at any time in the year,
+(a) one of the corporations controlled, directly or indirectly in any manner whatever, the other;
+[25] The meaning to be attributed to the phrase “controlled directly or indirectly or in any manner whatever” is given in subsection 256(5.1), which reads:
+Control in fact -- For the purposes of this Act, where the expression "controlled, directly or indirectly in any manner whatever," is used, a corporation shall be considered to be so controlled by another corporation, person or group of persons (in this subsection referred to as the "controller") at any time where, at that time, the controller has any direct or indirect influence that, if exercised, would result in control in fact of the corporation, except that, where the corporation and the controller are dealing with each other at arm's length and the influence is derived from a franchise, licence, lease, distribution, supply or management agreement or other similar agreement or arrangement, the main purpose of which is to govern the relationship between the corporation and the controller regarding the manner in which a business carried on by the corporation is to be conducted, the corporation shall not be considered to be controlled, directly or indirectly in any manner whatever, by the controller by reason only of that agreement or arrangement.
+[26] The Respondent says that Bost had de facto control over the Appellant in a number of ways. Firstly, under the USA, the director nominated by Bost was given a casting vote at any directors’ meeting. This secured Bost’s control over the Appellant’s business activities and corporate governance. Secondly, the Respondent says that Bost’s controlling influence stemmed from its role as the dominant, if not the exclusive supplier of building lots (through a related company) to the Appellant. Finally, Bost’s direct and indirect financing of the Appellant’s activities “secured its economic dominance and controlling influence over the financial affairs of the Appellant.”
+[27] The Respondent also says that the Appellant is not saved by the exception contained in subsection 256(5.1) because the Appellant and Bost were not dealing at arm’s length, and because the USA was not an agreement that is similar to those listed in the exception and its main purpose was not to govern the manner in which the Appellant carried on its business.
+[28] If it is found that the Appellant was not controlled in fact by Bost, the Respondent argues in the alternative that the Appellant and Bost are deemed to be associated by subsection 256(2.1) of the Act, because one of the main reasons for their separate legal existence was to access the small business deduction and therefore to reduce the amount of their tax payable under the Act.
+[29] Subsection 256(2.1) reads as follows:
+Anti-Avoidance- For the purposes of this Act, where, in the case of two or more corporations, it may reasonably be considered that one of the main reasons for the separate existence of those corporations in a taxation year is to reduce the amount of taxes that would otherwise be payable under this Act or to increase the amount of refundable investment tax credit under section 127.1, the two or more corporations shall be deemed to be associated with each other in the year.
+Appellant’s Position
+[30] The Appellant’s counsel argued that the casting vote provision of the USA did not give Bost de facto control of the Appellant. He said the test for de facto control was set out by the Federal Court of Appeal in Silicon Graphics v. R., 2002 FCA 260, where it held that:
+… in order for there to be a finding of de facto control, a person or group of persons must have the clear right and ability to effect a significant change in the board of directors or the powers of the board of directors or to influence in a very direct way the shareholders who would otherwise have the ability to elect the board of directors.
+Counsel asserted that Bost did not have the right and ability to effect a significant change in the board of directors, and only gave it very limited influence with respect to the activities of the corporation. Furthermore, the casting vote was not operative at the meetings of the shareholders and therefore Bost had no greater influence in the election of the board of directors than did 147.
+[31] The Appellant also contended that the casting vote given to the director nominated by Bost did not give de facto control over it to Bost because the latter was subject at all times to the fiduciary duties of a director of a corporation, as set out in the Ontario Business Corporations Act, R.S.O. 1990, c. B. 16.
+[32] Counsel cited the decision of the Supreme Court of Canada in People’s Department Store Inc. (Trustee of) v. Wise [2004] S.C.J. No. 64 (QL) regarding the duties imposed on a director under the Canada Business Corporations Act, R.S.C., 1985, c. C-44, (identical to those in the OBCA) where the Court said:
+35 The statutory fiduciary duty requires directors and officers to act honestly and in good faith vis‑à‑vis the corporation. They must respect the trust and confidence that have been reposed in them to manage the assets of the corporation in pursuit of the realization of the objects of the corporation. They must avoid conflicts of interest with the corporation. They must avoid abusing their position to gain personal benefit. They must maintain the confidentiality of information they acquire by virtue of their position. Directors and officers must serve the corporation selflessly, honestly and loyally: see K. P. McGuinness, The Law and Practice of Canadian Business Corporations (1999), at p. 715.
+[33] The Appellant also referred to provisions of the OBCA that prohibit self‑dealing by directors and require disclosure of conflicts. The Appellant also referred to the OBCA provisions which empower a Court to intervene to prevent oppression of the minority shareholders.
+[34] Given these obligations to the corporation, the Appellant’s counsel maintained that Bost’s nominee director could not exercise control over the Appellant in Bost’s interest only.
+[35] With respect to the question of Bost’s economic influence over the Appellant, the Appellant argued that the Appellant’s indebtedness during the years in appeal was not unduly large and could not be taken to be repayable on demand since Bost was required by the USA to provide financing. This financing was not so significant as to put Bost in de facto control of the Appellant.
+[36] The Appellant’s reliance on Bost or its related companies to supply it with building lots did not result economic dependence on Bost, according to the Appellant. Apart from that fact that all of the Appellant’s revenues were derived from third parties and not from Bost, the Appellant argued that it could have obtained lots from other sources.
+[37] Even if it is found that Bost had any influence that could have resulted in it having de facto control of the Appellant, it was argued that the Appellant was still not controlled by Bost, because the conditions for the exception in subsection 256(5.1) were met. The Appellant said that since the Respondent admitted in the Reply to Notice of Appeal that Mr. Brown and Mr. Bostajian were dealing at arm’s length, it should be found that the Appellant and Bost also dealt at arm’s length, thereby fulfilling the first condition in subsection 256(5.1). Next, the Appellant says that the agreement from which Bost derived any influence over the Appellant was the USA, which was similar to a franchise, license, lease, distribution, supply or management agreement. Finally, the Appellant contended that the main purpose of the USA was to govern the relationship between the Appellant and Bost regarding the manner in which the business carried on by the Appellant was conducted and that the main purpose of the casting vote provision in the USA was to protect the trademark “Grandview Homes”. The Appellant in this case argued therefore that the USA was an integral part of the overall franchise arrangements between the Appellant and Bost and was therefore an agreement of the kind contemplated in subsection 256(5.1).
+[38] The Appellant relied on the decision of this Court in Lenester Sales Ltd. v. R., 2003 TCC 531. In that case the taxpayer had acquired a franchise from GTS Ltd. to run a Giant Tiger store. The Minister reassessed the taxpayer to deny its claim for the small business deduction on the basis that the taxpayer was controlled by and therefore associated with GTS. The Minister assumed that GTS controlled the taxpayer, in part, as a result of terms of certain banking and financial arrangements as well as terms in a shareholders’ agreement between the taxpayer and GTS. The Minister took the position that the shareholders’ agreement and the financial and banking arrangements did not fall under the wording of the exception in subsection 256(5.1).
+[39] Although Bowman, A.C.J. (as he then was) held in Lenester that GTS did not control the taxpayer, he went on to find that the banking and financing arrangements and shareholders’ agreement fell within the exception in subsection 256(5.1) on the basis that they were part of the overall franchise arrangements entered into by the parties, and were “… all part of the extremely broad range of contractual and financial arrangements between franchisors and franchisees contemplated by subsection 256(5.1).”
+Analysis
+[40] I will first consider whether or not the casting vote given to the director nominated by Bost gave Bost de facto control over the Appellant.
+[41] It is clear from the case law that this kind of casting vote arrangement (either at a meeting of shareholders or directors) will not confer de jure control over the corporation on its holder (see for example Alpine Drywall & Decorating Ltd. v. Minister of National Revenue (1967) S.C.R. 223)).
+[42] However, in the trial decision in the Alpine Drywall case ([1966] Ex.C.R. 1148), Cattanach, J. was clearly of the view that a casting vote would be sufficient to give the holder de facto control over the corporation. At page 1157, the Court said:
+… these circumstances would vest control in Jager over the appellant for all practical corporate purposes and for the purposes of the Alberta companies legislation …
+The Supreme Court in Alpine Drywall appeared to share this view stating (at p. 229) that the casting vote provision in that case “might be said to confer de facto control” on its holder.
+[43] Support for this position is also expressed in “Associated Corporations”, Minor, R.B. 1983 Carswells, (at page 47):
+Corporate statutes, articles or by-laws often provide that the chairman of the meeting of shareholders or directors, in the event of an equality of votes, is to have a casting or deciding vote in addition to any vote or votes he may have by virtue of his share ownership. Obviously, where a shareholder owns 50% of the voting shares of a corporation, he is only one share short of controlling that corporation on the basis of the Buckerfield’s test. If that same shareholder, by virtue of his chairmanship of the meeting is entitled to a casting vote, he will for all practical purposes have control of the corporation.
+(Emphasis added.)
+[44] With respect to the Appellant’s argument that Bost did not have, in the words of the Federal Court of Appeal in Silicon Graphics Ltd. v. R., 2002 FCA 260, “the ability to effect a significant change in the board of directors or the powers of the board of directors”, this ability would be unnecessary where the person’s nominee director effectively has the majority of the votes at any directors’ meeting.
+[45] In my opinion, for the purpose of determining de facto control of a corporation, it should make no difference whether a shareholder controls the decision making of the board of directors by virtue of being able to elect the majority of the directors or by virtue of the fact that its nominee director is entitled to cast the majority of the votes at a meeting of directors. The point at which the control arises is perhaps different, but the same practical degree of de facto control over the corporation exists in either situation.
+[46] Also, the fiduciary duties imposed by the OBCA on directors, which were referred to by the Appellant’s counsel, are not relevant for the purpose of determining control of a corporation for the purposes of the Income Tax Act because control can be held and exercised without breaching these fiduciary duties.
+[47] Since I have found that Bost exercised de facto control over the Appellant, it is necessary to determine whether the de facto control falls within the exception contained in subsection 256(5.1). The wording of the exception is as follows:
+… except that, where the corporation and the controller are dealing with each other at arm's length and the influence is derived from a franchise, licence, lease, distribution, supply or management agreement or other similar agreement or arrangement, the main purpose of which is to govern the relationship between the corporation and the controller regarding the manner in which a business carried on by the corporation is to be conducted, the corporation shall not be considered to be controlled, directly or indirectly in any manner whatever, by the controller by reason only of that agreement or arrangement.
+[48] The first requirement is that the corporation (the Appellant, in this case) and the alleged “controller” (Bost) must deal with each other at arm’s length.
+[49] As pointed out by counsel for the Appellant, the Respondent admitted that Mr. Bostajian and Mr. Brown were dealing at arm’s length. The Minister argues, however, that Mr. Bostajian and Bost did not deal at arm’s length with the Appellant.
+[50] In order for dealings to be found not to be at arm’s length, the jurisprudence shows that relevant factors to consider are:
+1) the existence of a common mind which directs the bargaining for both parties to the transaction;
+2) parties to a transaction acting in concert without separate interests; and
+3) “de facto” control.
+(see Peter Cundill & Associates Ltd. v. The Queen 91 DTC 5543 (F.C.A.))
+[51] In this case the Respondent’s counsel argues that the first two of these factors are present between Mr. Bostajian and Bost and the Appellant. He says that Bost financed all of the Appellant’s set up costs and, the costs of acquiring costs. He stated that Bost provided interest free loans to Brownco of up to $1.2 million, through a credit facility with the Royal Bank in Bost’s name.
+[52] Counsel also said that Garo caused the Appellant to provide a guarantee of the credit facility although the same facility was also used by other “franchise” companies of Bost. Counsel also suggested that the issuance of shares in the Appellant to 147 and the allocation of Bost’s share of management fees from the Appellant to certain companies in the Bost group were further evidence that Garo was the directing mind of the Appellant.
+[53] I note that, contrary to the Respondent’s submissions, the evidence showed that the Appellant was charged interest on the financing provided by Bost for the purchase of lots as well as for house construction at a rate suggestive of arm’s length dealings. I also note that the issuance of the Appellant’s shares to 147 occurred prior to the years in issue, and at a point when the Appellant admits that Bost had de jure control of the Appellant. The issue is whether Bost’s ability to direct the Appellant extended past the point at which 147 acquired the shares.
+[54] In this regard the Respondent points to the payment of management fees to companies related to Bost. However, the fees in question were equal to the management fees paid to 147, and were, according to the evidence, paid for services provided by the Bost companies. Furthermore, the payments were made according to the shareholder agreement, entered into by Bost and 147, who were not alleged to have been acting at non-arm’s length. The manner of the payment of the management fees therefore supports the contention that the Appellant, Bost and Mr. Bostajian were dealing at arm’s length.
+[55] It is true that Bost provided the set up costs for the Appellant but these amounts were treated as shareholder loans, which is also consistent with arm’s length dealings.
+[56] The remaining factor relied on by the Respondent was the Appellant’s guarantee of the credit facility held by Bost, for which the total indebtness related to a number of franchise companies in the Bost group as well as to the Appellant.
+[57] No explanation was given by Mr. Bostajian or Mr. Brown for this arrangement, nor was the point dealt with by the Appellant’s counsel in argument.
+[58] There was no evidence that the Appellant received any benefit for guaranteeing the amount of the credit facility in excess of its own needs or that the terms of the Appellant’s borrowings from Bost were more favorable to it because the Appellant gave the guarantee. To amounts advanced, the Appellant was taking on a risk on behalf of unrelated parties. The fact that Bost and Mr. Bostajian caused the Appellant to provide the guarantee apparently against its own interest, is evidence of those parties’ role as directing minds of the Appellant. The Appellant’s willingness to accept the risk in favor of other Bost companies can only be explained by the existence of a common mind directing the bargaining for the parties to the transaction.
+[59] I find therefore that the Appellant, Bost and Garo were not dealing at arm’s length, and that the first condition in subsection 256(5.1) has not been met.
+[60] I am also of the view that the control given to Bost by virtue of the casting vote pursuant to the USA is not “derived from a franchise, a license, lease, distribution, supply or management agreement or other similar agreement or arrangement, the main purpose of which is to govern the relationship between the corporation and the controller regarding the manner in which the business carried on by the corporation is to be conducted” as required by to fall within the exception.
+[61] I do not accept that the USA is similar to a franchise agreement. According to Black’s Law Dictionary, a franchise agreement is:
+The contract between a franchisor and franchisee establishing the terms and conditions of the franchise relationship.
+[62] The USA does not mention the granting of a franchise to the Appellant and makes no mention of the trade name “Grandview Homes” upon which the franchise supposedly granted to the Appellant by Bost was based. In fact, I can see nothing in the USA that could be considered referable to the existence of a franchise granted by Bost to the Appellant.
+[63] Nor does the USA contain any clause dealing with the granting of a licence, or a lease of property, or the distribution or supply of any product by or to the Appellant or any other party to the agreement.
+[64] However, clauses 2.2 and 2.4 to 2.7 of the USA deal with the management of the Appellant and to this extent, the USA may be considered similar to a management agreement. The relevant clauses of the USA read as follows:
+2.2 Management
+The activities of the Corporation shall be managed by a Board of Directors consisting of at least two directors. One director each shall be appointed by each of Bost and 1476577 Ontario. The bylaws of Brownco shall specify that:
+(a) Either director may upon 30 days notice to Brownco and the other director, require a meeting of the directors.
+(b) A quorum shall consist of a minimum of 1 director.
+(c) A majority of the votes of the directors cast at a director’s meeting shall govern. In the event of a tie, the Chairman shall have the deciding vote.
+(d) Unless otherwise agreed, the nominee of Bost will be the chairman of the Board of Directors.
+(e) Each shareholder shall have reasonable access to the books and records of Brownco during normal business hours.
+2.4 Construction Funds and Lots
+Bost shall arrange bank financing for the activities of the Corporation. The Corporation shall pay interest to Bost at the rate of prime plus .5% for such bank financing. Bost shall use its best efforts to obtain residential building lots for Brownco.
+2.5 Brownco Sale of Houses
+Brownco shall use its best efforts to sell residential houses with a view to a profit.
+2.6. Management Services by 1476577 Ontario
+14766577 Ontario shall be responsible and pay for the following:
+(a) Site vehicle and trailer
+(b) Cleaning and dumping fees
+(c) Site supervision
+(d) Site Labour
+(e) Lot cleaning
+(f) Garbage removal
+(g) Finishing cleaning
+(h) Small tools
+(i) Cell and site phone
+(j) Miscellaneous finishing materials
+(k) Service work such as screwing down of subfloors
+(l) Maintenance under ONHWP coverage
+Brownco shall pay 1476577 Ontario for the above noted services a fee of $3,000.00 per unit plus the amount described in section 2.8.
+2.7. Management Services by Bost
+Bost or an affiliated corporation of Bost shall provide and pay for detailed bookkeeping and management services and use its best efforts to provide building lots. For these services, Brownco shall pay Bost or the affiliated company providing the service a fee of $3,000.00 per unit plus the amount described in section 2.8.
+[65] The main purpose of the USA then becomes relevant.
+[66] In addition to the management provisions of the USA, there are terms dealing with the calculation of bonuses to be paid to each shareholder for management services they provide, the right of first refusal for the sale of shares and the requirement for approval by the board of directors for any transfer of shares. Given the number of rights and obligations dealt with in the USA, it is impossible to say that its main purpose was to deal with any one of these subjects rather than the others. Nothing in the agreement shows that the parties considered any of the rights and obligations created by the agreement to be of greater importance than the others. Given the statutory requirement that “the main purpose” of the agreement be as set out in subsection 256(5.1), the agreement in this case does not qualify.
+[67] Even if the main purpose of the agreement were the management provisions it contained, I would still have found that the agreement did not qualify for the exception because the particular provisions of the USA did not set out the manner in which the business carried on by the Appellant was to be conducted as required by the wording of subsection 256(5.1). The list of management duties assigned to each shareholder sets out what each shareholder must do but does not specify how those tasks are to be accomplished, or, more particularly, how the business of the Appellant is to be conducted.
+[68] Nor, in my view, was the main purpose of the USA to govern the relationship between Bost and the Appellant. By its own terms, the purpose of the USA was to govern the relationship between Bost and 147. The preamble of the USA sets out that:
+Bost and 1476577 Ontario wish to establish certain rights and obligations between themselves with respect to their shareholdings in the Corporation; …
+In his evidence, Mr. Brown agreed that this was the purpose of the USA.
+[69] I do not agree with the Appellant that the facts in this case are similar to those in Lenester Sales Ltd. v. The Queen. In Lenester the banking and financial arrangements and shareholders’ agreements that arguably gave de facto control to GTS were found to be part of the overall franchise arrangements between the taxpayer and GTS and part of the extremely broad range of contractual and financial arrangements between the franchisors and franchisees contemplated by subsection 256(5.1).”
+[70] Lenester is distinguishable because in that case the parties had entered into a written franchise agreement and the evidence showed that the banking and financial arrangements and shareholders’ agreements in issue were entered into in furtherance of the franchise agreement.
+[71] In this case there is no written franchise agreement, and the evidence falls short of showing the existence of an oral franchise agreement between Bost and the Appellant. Mr. Bostajian and Mr. Brown’s testimony lacked any detail of the terms and conditions of the alleged franchise agreement, and no explanation why the agreement was not reduced to writing was offered. Without satisfactory evidence of the existence of a franchise agreement, there is no basis for finding that the USA was part of a franchise arrangement.
+[72] Furthermore, the casting vote provision in the USA is not limited to giving Bost control in votes at directors’ meetings that would involve issues affecting the goodwill associated with the “Grandview Homes” trade name. The casting vote was available to Bost for any purpose and gave Bost a controlling influence over the Appellant that extended well beyond the purpose of the provision as stated by Mr. Bostajian.
+[73] For these reasons I am not convinced that the casting vote provision was included in the USA in furtherance of any alleged franchise agreement.
+[74] In summary, the circumstances in which the de facto control of the Appellant is granted to Bost in this case does not meet the conditions specified in the exception contained in subsection 256(5.1).
+[75] Had it been necessary to address the Respondent’s argument that the Appellant is deemed to have been associated with Bost by virtue of subsection 256(2.1) of the Act, I would have found that one of the main reasons for the Appellant’s separate existence in the years in issue was the reduction of tax.
+[76] Although both Mr. Brown and Mr. Bostajian testified that they never discussed any tax matters when setting up the Appellant, the circumstances surrounding the Appellant’s incorporation lead me to conclude that tax saving was a major reason for setting up the corporation and for its continuing existence.
+[77] The reasons given by Mr. Brown and Mr. Bostajian for the incorporation of the Appellant were to create a Grandview Homes franchise company in which Mr. Brown could have an interest, and to limit Bost’s and Mr. Bostajian’s liability.
+[78] With respect to the first reason, it appears that even before the Appellant was set up, Mr. Brown and one of the Bost companies were already splitting equally the profit from building houses together. This was the case with the homes built in Kitchener, Waterloo, in 1998 as well as with the homes built by Buildco in Barrie up to 2001. The division of responsibilities between Mr. Brown and the Bost companies in the earlier years also appears to mirror the division of responsibilities in the Appellant between Bost and 147.
+[79] It was not explained how the creation of the Appellant benefited Mr. Brown, since the goodwill created by it would have accrued to the “Grandview Homes” tradename rather than to the Appellant. The control over the transfer of shares in the Appellant pursuant to the USA is another indication that the creation of the Appellant was of limited benefit to Mr. Brown.
+[80] The lack of a formal written franchise agreement, the fact that all of the agreements and legal documents relating to the Appellant were prepared by Bost’s lawyers and were signed by Mr. Brown without any independent legal advice and the unrestricted nature of Bost’s nominee director’s veto power also cause me to doubt that the major motivation of Mr. Brown and Mr. Bostajian was simply to set up a franchise corporation to be operated by Mr. Brown.
+[81] I am also unconvinced that Mr. Bostajian, who admitted that he was the one who decided on the use of the 50/50 shareholding structure for the Appellant and Bost’s other “franchise” companies, was not aware of the tax consequences of these arrangements. Bost had professional advisors, both accountants and lawyers who assisted it in creating these corporations, and tax planning is apparent in the provisions in the USA dealing with the payment of management fees by the Appellant.
+[82] Tax planning is also evident in the case of two other Bost franchise construction companies, Ridgeview Homes Ltd. and 1205584 Ontario Inc. Bost originally held 51% of the shares of each corporation and the other shareholder had 49% and each corporation had two directors (one nominated by each shareholder). On October 31, 2001 additional shares in each corporation were issued to the 49% shareholder to create equal shareholdings, and Bost’s nominee director was given a casting vote. Mr. Bostajian’s reason for these changes was that he needed to have the same shareholding structure for all his franchisee companies, and that he wanted all his franchisees to feel as important as he was by giving them a 50% vote. In the absence of an explanation as to why Bost needed to have the same shareholding structure for these corporations as for the other corporations, and in light of the fact that Bost’s casting vote in effect gave Bost control over these corporations, neither reason given by Mr. Bostajian for the change is plausible. It is more likely than not that the adjustment of the shareholdings was done to circumvent the associated corporations rules under the Act.
+[83] I am also unable to accept that in setting up the Appellant, Mr. Bostajian was motivated by concerns about legal liability to himself or Bost. No such concerns arose during the three years Mr. Brown had been building houses for Bost or Buildco without a corporation, and it was not apparent why the matter would have arisen in 2001.
+[84] Overall, I am satisfied that the evidence shows that in the absence of the tax motivation, it is unlikely that the Appellant would have been incorporated or would have continued to exist in the years in issue.
+[85] For all of these reasons, the appeal is dismissed, with costs.
+Signed at Ottawa, Canada, this 25th day of January 2008.
+“B.Paris”
+Paris J.
+CITATION:
+COURT FILE NO.: 2005-3161(IT)G
+STYLE OF CAUSE: BROWNCO INC. V. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Kitchener, Ontario
+DATE OF HEARING: February 14 and 15, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice B. Paris
+DATE OF JUDGMENT: January 25, 2008
+APPEARANCES:
+Counsel for the Appellant:
+George Voisin
+Counsel for the Respondent:
+Ifeanyi Nwachukwu
+COUNSEL OF RECORD:
+For the Appellant:
+Name: George Voisin
+Firm: Voisin Lubczuk
+Kitchener, Ontario
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

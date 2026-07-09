@@ -1,0 +1,235 @@
+Title: Baffinland Iron Mines Corporation v. The King
+Source: https://norma.lexum.com/tcc-cci/decisions/en/item/521444/index.do
+Corpus path: corpus/cases/tcc/2025/2025-tcc-73-521444-baffinland-iron-mines-corporation-v-the-king.md
+Document type: case_law
+Last modified: 2025-05-13
+
+# Baffinland Iron Mines Corporation v. The King
+
+- Citation: 2025 TCC 73
+- Decision date: 2025-05-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5518, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Baffinland Iron Mines Corporation v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2025-05-13
+Neutral citation
+2025 TCC 73
+File numbers
+2022-512(IT)G
+Judges and Taxing Officers
+Guy R. Smith
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2022-512(IT)G
+BETWEEN:
+BAFFINLAND IRON MINES CORPORATION,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Motion to amend the Reply to the Notice of Appeal heard on February 29, 2024, at Montreal, Quebec
+Before: The Honourable Justice Guy R. Smith
+Appearances:
+Counsel for the Appellant:
+Geneviève Léveillé
+Rémi Danylo
+Melody Bond
+Counsel for the Respondent:
+Yanick Houle
+Julien Wohlhuter
+ORDER
+WHEREAS the Respondent filed a motion to amend the Reply to the Notice of Appeal (the “Motion”), relying on section 54 of the Tax Court of Canada Rules (General Procedure);
+AND HAVING considered the oral and written submissions of the parties;
+AND in accordance with the attached Reasons for Order;
+THE COURT ORDERS that the Motion shall be granted as follows:
+1. The Respondent shall serve and file the Amended Reply included with the Motion within 30 days of the date of this Order.
+2. The Appellant shall be at liberty to serve and file an Answer to the Amended Reply within 10 days of service of the Amended Reply.
+3. The timetable Order of May 29, 2023 is hereby set aside, and the parties shall submit a joint request for a revised timetable order within 60 days from the date of this Order.
+4. Costs are fixed in the amount of $3,500 payable to the Respondent within 60 days and in any event of the cause.
+Signed at Ottawa, Ontario, this 13th day of May 2025.
+“Guy R. Smith”
+Smith J.
+Citation: 2025 TCC 73
+Date: 20250513
+Docket: 2022-512(IT)G
+BETWEEN:
+BAFFINLAND IRON MINES CORPORATION,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR ORDER
+Smith J.
+I. Overview [1] Baffinland Iron Mines Corporation (the “Appellant”) is a Canadian mining company that operates nine high-grade iron ore projects, including the Mary River Mine located on Baffin Island in Nunavut, Canada (the “Mary River Mine”).
+[2] The Appellant incurred expenses to bring the Mary River Mine into commercial production. For the 2008, 2009, 2010, 2011 and 2012 taxation years, it claimed Canadian exploration expenses (“CEEs”), as defined in subsection 66.1(6) of the Income Tax Act, R.S.C., 1985, c.1 (5th Supp.) (the “Act”) as well as investment tax credits (“ITCs”) claimed pursuant to subsection 127(9).
+[3] The Minister of National Revenue (the “Minister”) issued a reassessment and loss determinations in respect of the taxation years noted above, disallowing CEEs of $288,162,904 (and adjusting its cumulative CEE and ITC balances, accordingly) but allowing that amount as current business expenses.
+[4] This matter involves a motion made by the Respondent to amend the Reply to the Notice of Appeal relying on section 54 of the Tax Court of Canada Rules (General Procedure), S.O.R./90-688a (the “Rules”) (the “Motion”).
+[5] The Respondent takes the position that the proposed amendments seek to clarify its assessing position and include facts that were relied upon by the Minister in the context of the reassessment, determination and confirmation processes.
+[6] The Appellant opposes the Motion and argues inter alia that the proposed amendments are inconsistent with the position originally taken by the Minister and that the Respondent is attempting to advance an alternative basis or argument that would lead to an injustice as it would be required to adduce new evidence that is no longer available. It relies on paragraphs 152(9)(a) and (b) of the Act.
+[7] The only issue is whether the Court should grant leave to the amendments.
+[8] For reasons that follow, the Motion should be granted, with costs.
+II. Issues Raised in the Appeal [9] At the heart of the underlying appeal, is the definition of CEEs in subsection 66.1(6) and more specifically paragraphs 66.1(6)(f) and (g).
+[10] These two paragraphs allow various types of expenditures, each defined by the purpose for which they were incurred (the “Purpose Test”).
+[11] Paragraph 66.1(6)(f) provides that expenses incurred “for the purpose of determining the existence, location, extent or quality of a mineral resource in Canada” will qualify as CEEs (my emphasis).
+[12] In this regard, the Minister has taken the position that the “existence, location and extent” of the Mary River Mine was determined at the latest on April 1, 2008, which predates the taxation years at issue. As such the CEEs claimed did not meet the Purpose Test set out in paragraph 66.1(6)(f).
+[13] Paragraph 66.1(6)(g) provides that expenses incurred “for the purpose of bringing a new mine (…) into production in reasonable commercial quantities and incurred before the new mine comes into production” will also qualify as CEEs (my emphasis).
+[14] In this regard, the Minister has taken the position that the decision to bring the Mary River Mine into production in reasonable commercial quantities was not made until December 19, 2012, at the earliest. Therefore, the CEEs claimed prior to that date did not meet the Purpose Test set out in paragraph 66.1(6)(g).
+[15] The Appellant disagrees with the restrictive interpretation taken by the Minister and argues that the provisions should be interpreted and applied on an ongoing basis. It adds that the Minister’s position creates a gap in time during which CEEs cannot be claimed and that this was not the intention of Parliament.
+III. Timeline and Procedural History A. The Original Audit (2012-2013 Taxation Years) [16] In 2015, the Minister commenced an audit of the Appellant’s tax returns for the 2012 and 2013 taxation years (the “Original Audit”) and reviewed the CEEs claimed by the Appellant in relation to the nine iron ore deposits.
+B. The Extended Audit (2010-2011 and 2008-2009 Taxation Years) [17] Following an on-site audit in October 2017, the Minister extended the audit to include the 2010-2011 taxation years. In February 2019, the audit was further extended to include the 2008-2009 taxation years (the “Extended Audit”).
+C. The Reassessment [18] On September 6, 2019, the Minister issued a Notice of Reassessment (the “Reassessment”) in regard to the Appellant’s taxation year ended on December 31, 2013, revising the Appellant’s CEEs and ITCs closing balances.
+D. The Loss Determinations [19] On January 7, 2021, the Minister issued loss determinations (the “Loss Determinations”) in respect of the taxation years ended December 31, 2008, December 31, 2009, December 31, 2010, January 25, 2011, December 31, 2011, December 31, 2012, and October 8, 2013.
+E. The Notice of Confirmation [20] On November 18, 2021, the Minister issued a Notice of Confirmation in respect of the Reassessment and Loss Determinations.
+F. Procedural History [21] The Notice of Appeal was filed on February 15, 2022, and the Reply to the Notice of Appeal was filed on July 20, 2022. Examinations for discovery have not taken place. The timeliness of the Motion is not at issue.
+IV. The Motion [22] The first proposed amendment (new paragraphs 9.3, 9.3.1 and 9.3.2) is an addition to paragraph 9 in the section of the Reply titled “Overview”. It sets out the Minister’s position on the Purpose Test for paragraph 66.1(6)(f) and then adds the following:
+9.3 In any event, none of the Expenses at Issue were incurred by the Appellant for the purpose of:
+9.3.1 Determining the existence, location, extent or quality of a mineral resource in Canada; or
+9.3.2 Bringing a new mine in a mineral resource in Canada into production in reasonable commercial quantities.
+[23] The second proposed amendment (new paragraphs 68.15.1 and 68.15.2) is an addition to the section titled “Minister’s Assumptions of Fact”:
+Purpose for Which the Expenses at Issue Were Incurred
+68.15.1. The Appellant did not incur any of the Expenses at Issue to determine the existence, location, extent or quality of a mineral resource.
+68.15.2. The Appellant did not incur any of the Expenses at Issue to bring a new mine in a mineral resource into production.
+[24] The third proposed amendment (new paragraphs 81, 81.1 and 81.2) is an addition to the section titled “Grounds Relied on and Relief Sought”:
+81. In any event, none of the Expenses at Issue were incurred by the Appellant for the purpose of:
+81.1 Determining the existence, location, extent or quality of a mineral resource in Canada; or
+81.2 Bringing a new mine in a mineral resource in Canada into production in reasonable commercial quantities.
+V. Evidence in Respect of the Motion A. Affidavit of Brandon Bonan (Respondent) [25] Brandon Bonan is an articling student who assisted counsel for the Respondent. His affidavit speaks to the procedural history detailed above.
+[26] He indicates that, in preparing for the discoveries, counsel for the Respondent and himself realized that the Minister had also relied on another reason to conclude that none of the expenses at issue met the Purpose Test in respect of paragraphs 66.1(6)(f) and (g). Specifically, that the Appellant had not supported the CEEs with sufficient specific and quantitative information and documentation.
+B. Affidavit and Cross-Examination of Isabelle Pouliot (Respondent) [27] Isabelle Pouliot is an auditor with the Canada Revenue Agency (the “CRA”). She reviewed the Appellant’s claim for CEEs and related ITCs for the 2008 to 2013 taxation years.
+[28] Ms. Pouliot concluded that the actual existence of the Mary River Mine was established on April 1, 2008, but most of the expenses were incurred after that date. She also concluded that the decision to bring the mine into production was made on December 19, 2012, while most of the expenses were incurred before that date.
+[29] She was able to obtain some financial information, including financial statements from the SEDAR platform. She noted that the expenses at issue had been capitalized for accounting purposes and ultimately the Minister decided to allow them as current business expenses. However, she was of the view that these expenses did not satisfy the requirements of paragraphs 66.1(6)(f) and (g). She was unable to obtain supporting documentation that would have allowed her to determine that the expenses were incurred for either of the purposes noted above. Her conclusions are contained in the auditor’s report.
+[30] According to Ms. Pouliot, she informed the Appellant on multiple occasions of the lack of sufficient detailed information to establish the eligibility of the expenses as CEEs and requested more information. She refers to eight (8) letters from the CRA sent to the Appellant, from February 1, 2017 to February 26, 2019. In those letters, she requests information to support the capital expenditure sheets (the “CAPEX Sheets”) as early as June 2017.
+[31] In cross-examinations, when asked about these letters, Ms. Pouliot clarified that most of the queries were for the 2012 and 2013 taxation years, with the exception of query # 8 (“Query # 8”) dated December 18, 2017, which requested the CAPEX Sheets for the 2010-2011 taxation years. She specified that the requests from the CRA were for receipts or documents that would reconcile the claimed CEEs and, in some cases, the CAPEX Sheets.
+[32] She emphasized that the original requests were made in respect of the 2012-2013 taxation years, but that the CRA eventually requested supporting documents in respect of the 2010-2011 taxation years as well.
+[33] Upon being asked when exactly the CRA requested quantitative information for the 2008 to 2011 taxation years, Ms. Pouliot explained that when the CRA conducted an on-site audit in October 2017, it realized that the 2010-2011 taxation years were problematic. The CRA did eventually obtain some information from the Appellant, including certain “work plans”. These documents later helped the CRA build the Statement of Facts, which the Appellant corrected afterwards.
+[34] Ms. Pouliot could not recall if the CAPEX sheets or financial statements for the 2010-2011 years were requested verbally before the CRA sent Query # 8 in December 2017. She stated that the CRA might have verbally raised the documentation before that date, possibly in a conference call with the Appellant.
+[35] When presented with an email from Ryan Prystai dated November 2018, Ms. Pouliot acknowledged that she did receive some information requested in Query # 8 in respect of 2010 and 2011, but that the Appellant provided these documents about a year after the request was made. However, she specified that the CRA never obtained the CAPEX Sheets for those years and that she had to get most of the financial statements for the 2008 to 2011 taxation years from the SEDAR platform. She acknowledged that the CRA obtained the CAPEX sheets and financial statements for the 2012-2013 taxation years, but repeated that she worked with the Appellant’s financial statements available on the SEDAR platform.
+[36] Upon being questioned about the other queries sent by the CRA, Ms. Pouliot clarified again that, in respect of the taxation years 2012-2013, some information requested was provided, but not all of it. Additionally, she repeated several times throughout the cross-examination that even after multiple requests, the CRA did not have detailed documents for specific expenses that could show that the expenses qualified under the relevant paragraphs, and that they never received reconciliation documents. While she recognized that some CAPEX sheets were eventually obtained, and identified the amounts of CEEs, Ms. Pouliot stated that the CRA never had the information on why one account would be considered CEEs (which she referred to as “backups”).
+[37] The CRA eventually received the backups for the 2013 taxation years in November 2018. However, the information was of a general nature and Ms. Pouliot did not have the necessary documents to reconcile the expenses claimed and the actual expenses. Eventually, the CRA presumed that none of the expenses qualified as CEEs. Upon being questioned on expenses for 2008 and 2009, she admitted that the CRA did not request additional documentation in respect of those years, having concluded that it was not available.
+[38] Ms. Pouliot also clarified that the CRA never put at issue whether the expenses were actually incurred or not, but upon being asked if the amount of the expenses were at issue, she answered that it was. She explained that backups were requested to obtain a detailed list of the expenses claimed and in order to reconcile the amounts listed in Schedule 12 of the Appellant’s return.
+C. Affidavit of Michele (Mike) Perazzelli (Respondent) [39] Michele (Mike) Perazzelli worked alongside the appeals officer who reviewed the Appellant’s objection. He was the Objections Coordinator.
+[40] He states that the Appeals Division was asked to reconsider the denial of the CEEs treatment of certain expenses for the 2008 to 2013 taxation years. He confirmed that the Minister had properly denied the CEE treatment of those expenses, as determined by the auditor and confirmed by the Appeals Division.
+[41] Mr. Perazzelli stated that the Appellant had not supported its claim for CEEs with sufficient specific quantitative information and documentation to confirm the eligibility under the relevant paragraphs of the Act. His conclusions were stated in the Objection Report (T401) and Notice of Confirmation dated November 18, 2021.
+[42] Mr. Perazzelli indicated that the lack of sufficient specific and quantitative information and documentation was addressed again on September 10, 2021, during a virtual meeting with the Appellant. Following that meeting, a written request for information and documentation was sent to the Appellant.
+D. Affidavit of Malika Arora (Appellant) [43] Malika Arora was employed as Assistant Controller for the Appellant. She worked in that capacity from November 2016 to June 2020. She then joined the Appellant again in December 2022 as a consulting Assistant Controller.
+[44] Ms. Arora assisted the Appellant during the Original Audit. Her role was to assist the corporate controller in gathering information and preparing USB keys to satisfy the CRA’s requests for information.
+[45] She stated that it was always her understanding that the Extended Audit was limited in scope to the qualification of the CEEs under the relevant paragraphs of the Act. According to her, there was no request for specific information regarding the quantum of expenses during the Extended Audit, and the CRA did not ask for documents to support the qualification of the expenses.
+[46] Additionally, Ms. Arora attested that, in the course of an office move in 2013, the Appellant lost some paper records. Prior to that time, the Appellant had used a different accounting software that was no longer accessible. She added that the Appellant had archived email records from 2012 onward, but email records prior to that date were unrecoverable. She added that most employees present during the relevant taxation years were no longer employed by the Appellant.
+[47] She concluded by indicating it would be difficult if not impossible to retrieve the documents necessary to support the quantum of the CEEs in issue.
+E. Affidavit of Ryan Prystai (Appellant) [48] Ryan Prystai is a tax partner at PricewaterhouseCoopers LLP. He indicates that he has been assisting the Appellant since June 2017 and throughout the audit, objection and appeal stages. He asserted that there were no substantive discussions or exchange of correspondence that occurred during the course of the Original Audit or the Extended Audit that took place without his knowledge or participation.
+[49] Mr. Prystai asserted that there was no indication that queries were not being answered satisfactorily and that no queries remained outstanding in respect of the Original Audit. According to him, the Appellant provided documents to the CRA to support the CEEs claimed, such as CAPEX spreadsheets, where available.
+[50] As for the Extended Audit, Mr. Prystai stated that it was his understanding that it was limited in scope to the qualification and characterization of the CEEs under the relevant paragraphs of the Act. As such, the discussions centred on whether the capitalization of expenses precluded them from being recognized as CEEs, and whether an official decision to construct the mine was needed for the expenses to qualify as CEEs.
+[51] According to Mr. Prystai, the quantum of the CEEs was not raised as an issue, and the information requested by the CRA for the 2010-2011 taxation years pertained to the activities performed, timeframe and associated costs. The Appellant provided financial statements, annual reports, work plans and technical reports describing those activities, their timeframes and associated costs.
+[52] Mr. Prystai explained that the CRA disallowed the CEEs because of the gap between the commencement of capitalization and the decision to construct the mine, which was its primary position, and because of the nature of the expenses, which was the CRA’s secondary position. The appeals officer referred to the two positions as such during their discussion and in her Objection Report.
+[53] According to Mr. Prystai, the lack of sufficient specific and quantitative information was not part of the CRA’s assessing position, and the Objection Report does not mention the lack of documentation in respect of the assessing position.
+[54] At the objection stage, Mr. Prystai asserted that the CRA made no request for information, in writing or verbally, and that the request for the CAPEX Sheets was only raised verbally and in writing in the context of settlement discussions on September 10, 2021. According to him, there were no other requests for additional information.
+[55] Mr. Prystai also stated that the auditor never raised the quantum of the expenses or requested supporting documentation, other than the CAPEX spreadsheets in the settlement discussions. The focus was always the characterization or nature of the expenses, and not the expenses themselves.
+VI. Position of the Parties on the Proposed Amendments A. Position of the Appellant [56] The Appellant claims that the proposed amendments do not assist in determining the real question in controversy between the parties, but rather confuse the issues and extend the debate beyond the facts and position originally taken by the Minister during the reassessment and confirmation process.
+[57] The Appellant argues that the proposed amendments are inconsistent with the position taken by the Minister and that the Respondent is trying to introduce a new basis for assessment as the lack of documentation was never relied upon by the Minister in support of the Reassessment and Loss Determinations under appeal.
+[58] Since the Minister is trying to introduce “an alternative basis or argument”, subsection 152(9) is applicable and the proposed amendments should be denied because they would require it to adduce new evidence that is no longer available.
+[59] It is argued that the proposed amendments would result in an injustice that is not compensable by costs and thus the Motion should be dismissed.
+B. Position of the Respondent [60] The Minister’s primary position was that none of the expenses incurred in connection with the Mary River Mine qualified as CEEs as they do not meet the Purpose Test described in paragraphs 66.1(6)(f) and (g).
+[61] The proposed amendments seek to clarify the Minister’s secondary position which is that the Appellant failed to produce sufficient documentation to demonstrate that the expenses allowed as current business expenses also qualified as CEEs.
+[62] The Respondent argues that there will be no injustice to the Appellant because the proposed amendments do not raise a fresh line of argument, but rather simply aim to accurately and fully reflect the secondary position taken by the Minister during the reassessment, determination and confirmation process.
+[63] The Respondent adds that the proposed amendments mirror allegations of facts and arguments that are already found in the Appellant’s Notice of Appeal.
+[64] The Respondent submits that the issue under appeal remains the same and that the proposed amendments will facilitate the Court’s consideration of the real question in controversy.
+[65] The Respondent argues that subsection 152(9) does not apply because the proposed amendments are not an alternative argument or basis for assessment as they involve the same provisions of the Act under which the expenses were denied.
+VII. Applicable Law [66] Section 54 of the Rules relates to the amendment of pleadings and provides that in granting leave, the Court may impose such terms as are just.
+[67] In Davis v. The King, 2023 TCC 125 (“Davis”), Lyons J. specifically addressed a request to amend the reply to the notice of appeal to include an assumption of fact. She explained the assessment process as follows:
+[45] An assessment is founded on the assumptions of fact made by the Minister.
+[46] Again, section 49 of the Rules requires a Reply to specify the assumptions of fact made by the Minister when making the assessment. An appeal is from the assessment that establishes the amount of tax owing by a taxpayer (as initially assessed or determined and subsequently confirmed by the Minister); the assessment process is not completed by the Minister until the amount of tax owing is finally determined in order to ascertain the tax liability of the taxpayer (…).
+[48] Even if the auditor had the information at the time of signing the report, I do not agree with Ms. Davis’ assertion that it was a requirement that the assumption itself be in the audit report. The requirement is that the assumption was made when the Minister finally determined the tax liability.
+[My emphasis.]
+[68] In Canada v. Pomeroy Acquireco Ltd., 2021 FCA 187 (“Pomeroy FCA”), the Federal Court of Appeal reiterated some of the guiding principles previously set out in Canderel Ltd. v. Canada, 1993 CarswellNat 949 (FCA) (para 10) with respect to the amendment of pleadings.
+[69] In the more recent decision of TPINE Leasing Capital Corporation v. The King, 2022 TCC 134 (“TPINE Leasing”) (Aff’d at 2024 FCA 83) (“TPine FCA”), Wong J. summarized these guiding principles, that I would rephrase as follows:
+i.The decision whether to allow an amendment to a pleading is discretionary (Pomeroy FCA, para 2);
+ii.It is a controlling principle that an amendment should be allowed at any stage of an action if it assists in determining the real questions in controversy between the parties, provided that:
+a.It would not result in an injustice not compensable in costs; and
+b.It would serve the interest of justice (Pomeroy FCA, para 4);
+iii.Significant consideration should be given to amendments that further the trial court’s ability to determine the questions in controversy (Pomeroy FCA, para 4);
+iv.It is an overarching criterion as to whether the amendments would further the interests of justice (Pomeroy FCA, para 13); and
+v.Consideration should be given to whether the amendments will ensure clarity and certainty at trial (Pomeroy FCA, para 14).
+[70] In Polarsat Inc. v. Canada, 2023 FCA 247 (para 8) and El Ad Ontario Trust v. The King, 2023 FCA 231 (para 4), the Federal Court of Appeal reiterated that this was the appropriate analytical framework.
+[71] In Bauer Hockey Corp. v. Sport Maska Inc. (Reebok-CCM Hockey), 2014 FCA 158 (“Bauer Hockey”), Mainville J.A. compared a motion to strike to a motion to amend, noting that “[t]he test for dismissing a claim on a motion to strike” requires that “it be plain and obvious that the pleadings disclose no reasonable cause of action” and “[w]here a reasonable prospect of success exists, the matter should be allowed to proceed to trial” (para 13). He added the following:
+[16] When determining whether an amendment should be allowed, it is helpful for the judge deciding the matter to ask whether the amendment would be a plea capable of being struck. If it is, then the amendment should not be permitted (…).
+[72] With respect to the application of subsection 152(9), this too was addressed in TPINE Leasing where Wong J. indicated the following:
+[5] Subsection 152(9) of the Act is the provision permitting the Minister of National Revenue to advance an alternative basis or argument on appeal, providing that two prohibitive conditions are absent. The specific wording is important and reads as follows:
+152. (9) Alternative basis for assessment – At any time after the normal reassessment period, the Minister may advance an alternative basis or argument – including that all or any portion of the income to which an amount relates was from a different source – in support of all or any portion of the total amount determined on assessment to be payable or remittable by a taxpayer under this Act unless, on an appeal under this Act
+(a) there is relevant evidence that the taxpayer is no longer able to adduce without the leave of the court; and
+(b) it is not appropriate in the circumstances for the court to order that the evidence be adduced.
+[6] The introductory portion of subsection 152(9) was amended in 2016 to apply to appeals instituted after December 15, 2016 (Footnote deleted). The amendment seems to have expanded or clarified the scope of alternative bases or arguments which may be made by the Minister. Specifically, the change focuses on source-based issues so the distinction between the previous and current wording is not relevant to the present motion.
+[7] In Walsh [footnote deleted], the Federal Court of Appeal said that the following conditions apply with respect to subsection 152(9):
+a. the Minister cannot include transactions which did not form the basis of the reassessment;
+b. the Minister’s right to present an alternative argument in support of an assessment is subject to paragraphs 152(9)(a) and (b), which address prejudice to the taxpayer; and
+c. the Minister cannot use the subsection to reassess outside the time limitations in subsection 152(4) or to collect tax exceeding the amount in the assessment being appealed. [footnote deleted]
+[73] In TPine FCA, Webb J.A. reviewed several decisions dealing with subsection 152(9), including Walsh v. Canada, 2007 FCA 222, ultimately upholding the trial judge and indicating that “[t]o what extent the amendments to subsection 152(9) of the Act would allow the Minister to advance an alternative basis or argument will de decided on a case-by-case basis” (para 90).
+[74] In The Toronto-Dominion Bank v. The Queen, 2008 TCC 284, (“TD Bank”) Webb J. (as he then was) stated that paragraphs 152(9)(a) and (b) are “linked” and that the words “relevant evidence” in paragraph (a) refer to the evidence that the taxpayer can no longer “adduce without leave of the court” (para 32). It does not refer to “evidence that the taxpayer is no longer able to adduce for any other reason” (para 39). Justice Webb specifically noted the following:
+[48] (…) The evidentiary problem of the Appellant is not that the Appellant requires the leave of the court to adduce evidence but that key witnesses are now deceased. This type of evidentiary problem is not the type of evidentiary problem contemplated by paragraphs (a) and (b) of subsection 152(9) of the Act.
+[75] TD Bank was cited and applied in Coveley v. The Queen, 2013 TCC 417 (paras 144-146) and Davis (paras 75-78).
+[76] In McKay v. The Queen, 2015 TCC 33, relied upon by the Appellant, Lyons J. did not allow an amendment to the reply to the notice of appeal to add an alternative argument because a non-party was placed into receivership and that would prejudice the appellant’s ability to obtain documentary evidence.
+VIII. Discussion and Analysis [77] Having considered the affidavit and testimonial evidence as well as the written submissions of the parties, I find that the proposed amendments merely clarify the existing Reply to the Notice of Appeal and do not constitute a new or additional basis or argument. Even if it was, I am of the view that the Respondent is entitled to advance an alternative basis pursuant to subsection 152(9) of the Act.
+[78] Starting with the evidence, I find that Ms. Pouliot was a credible witness and that her evidence should be given greater weight as compared to the other affiants given her direct involvement in the audit. I am satisfied that she made multiple requests to obtain supporting documentation while the Appellant focused on the Minister’s primary position relating to the nature or characterization of the expenses and the application of paragraphs 66.1(6)(f) and (g).
+[79] It is apparent that Ms. Pouliot faced numerous challenges in a complex audit that lasted over four years and involved nine iron ore deposits, including the Mary River Mine. These difficulties included having to access financial statements from the SEDAR platform (at least initially) and the fact that the expenses at issue had been capitalized for accounting purposes. The CRA’s decision to allow them as current expenses appears to have led the Appellant to conclude that the amount of the expenses was not being challenged and that, as maintained by Mr. Prystai and Ms. Aurora, the “quantum of the expenses” was not an issue. I do not agree with that conclusion.
+[80] Mr. Prystai argues that the Objection Report does not mention the lack of documentation as an assessing position. While this may be true generally, the report does note that the Appellant “could not provide a sufficiently detailed breakdown of the global amounts claimed per year and could not sufficiently document how the specific underlying expenses qualified as CEE” (p. 19/28). It also states that “the taxpayer had not supported their CEE claims with sufficient specific and quantitative information and documentation” (p. 19/28).
+[81] Additionally, the Notice of Confirmation indicates that the “Audit section had determined that the expenses relating to [the Mary River Mine] could not be accepted as CEE, in the absence of sufficient documentation from Baffinland to support the claims” and that “[n]o quantitiative [sic] information related to the specific costs involved and the treatment of such amounts in the financial statements have been provided” (p. 4/5).
+[82] I find that this lack of “sufficient specific and quantitative information and documentation” was an assumption made when the Minister finally determined the Appellant’s tax liability. I conclude that the Respondent unintentionally failed to properly describe its secondary position in the original Reply.
+[83] It follows that I have no difficulty in concluding that the proposed amendments would further the trial judge’s ability to determine the questions in controversy and that they will ensure clarity and certainty at trial. As a result, I also find that the proposed amendments would further the interests of justice.
+[84] The Respondent’s request to amend the Reply was made at an early stage in the proceedings and prior to examinations for discovery. I am satisfied that the proposed amendments would not result in an injustice not compensable in costs and that the Appellant is in no different a position than if the amendments had been included in the original Reply.
+[85] Further, I agree with the Respondent that the proposed amendments mirror some portions of the Notice of Appeal, namely where it describes the issue as “whether the Minister properly denied CEE treatment to the expenses incurred by Baffinland” (para 5) or “the Minister disallowed expenses in the amount of $288,162,904 as CEEs” (para 8). This suggests that the expenses were an issue.
+[86] Relying on the analysis in Bauer Hockey, the question is “whether it is plain and obvious” that the proposed amendments “would not succeed at trial” (para 31) or would have “no reasonable prospect of success” (para 35). In conducting this analysis, it is not the role of the Court “to reach a decision one way or the other” and “it is enough that the [moving party] has some chance of success” (para 35).
+[87] In this instance, I find that it is not plain and obvious that the proposed amendments have no reasonable prospect of success. That is a matter that will have to be addressed by the trial judge in due course.
+[88] Further and in the alternative, even if I were to agree with the Appellant that the proposed amendments were not part of the Minister’s initial assessing position, I would have to conclude that the Minister is entitled to advance the secondary position, as clarified by the proposed amendments, as “an alternative basis or argument” relying on subsection 152(9). This is so because the proposed amendments rely on the same provisions of the Act, do not include transactions that did not form the basis of the reassessment and would not result in an increase to the Appellant’s tax liability.
+[89] Relying on TD Bank (para 48), I find that the difficulties raised by the Appellant in respect of the passage of time, the availability of documents or witnesses, as further described by Ms. Arora, are not the type of evidentiary problems contemplated by paragraphs 152(9)(a) and (b).
+[90] For all the foregoing reasons, the Motion should be granted.
+IX. Conclusion [91] The Motion is hereby granted as follows:
+1.The Respondent shall serve and file the Amended Reply included with the Motion within 30 days of the date of this Order.
+2.The Appellant shall be at liberty to serve and file an Answer to the Amended Reply within 10 days of service of the Amended Reply.
+3.The timetable Order of May 29, 2023 is hereby set aside, and the parties shall submit a new joint request for a timetable order within 60 days from the date of this Order.
+4.Costs are fixed in the amount of $3,500 payable to the Respondent within 60 days and in any event of the cause.
+Signed at Ottawa, Ontario, this 13th day of May 2025.
+“Guy R. Smith”
+Smith J.
+CITATION:
+2025 TCC 73
+COURT FILE NO.:
+2022-512(IT)G
+STYLE OF CAUSE:
+BAFFINLAND IRON MINES CORPORATION v. HIS MAJESTY THE KING
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+February 29, 2024
+REASONS FOR ORDER BY:
+The Honourable Justice Guy R. Smith
+DATE OF ORDER:
+May 13, 2025
+APPEARANCES:
+Counsel for the Appellant:
+Melody Bond
+Geneviève Léveillé
+Rémi Danylo
+Counsel for the Respondent:
+Julien Wohlhuter
+Yanick Houle
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Melody Bond
+Geneviève Léveillé
+Rémi Danylo
+Firm:
+PwC Law L.L.P.
+For the Respondent:
+Shalene Curtis-Micallef
+Deputy Attorney General of Canada
+Ottawa, Canada

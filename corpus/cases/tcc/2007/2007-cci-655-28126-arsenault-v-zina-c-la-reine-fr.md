@@ -1,0 +1,199 @@
+---
+title: "Arsenault Vézina c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28126/index.do"
+last_modified: "2007-11-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 655"
+citation2: ""
+neutral_citation: "2007 CCI 655"
+decision_date: "2007-11-16"
+language: "fr"
+item_id: "28126"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1660
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:04:58.272000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7466100936f1c6f695eb017828b57997735a83e3eff44caf82ec14edbb361b1e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Arsenault Vézina c. La Reine
+
+- Citation: 2007 CCI 655
+- Decision date: 2007-11-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1660, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Arsenault Vézina c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-11-16
+Référence neutre
+2007 CCI 655
+Numéro de dossier
+2006-1684(IT)I
+Juges et Officiers taxateurs
+Pierre Archambault
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-1684(IT)I
+ENTRE :
+ROBIN ARSENAULT VÉZINA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 29 novembre 2006 et le 9 octobre 2007,
+à Sherbrooke (Québec).
+Devant : L'honorable juge Pierre Archambault
+Comparutions :
+Représentant de l'appelant :
+Bruno Vézina
+Avocate de l'intimée :
+Me Marie-Claude Landry
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu à l'égard des années d'imposition 2001, 2002 et 2003 sont accueillis et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations selon les motifs du jugement ci‑joints. Celui ayant trait à l'année 2000 est rejeté. Le tout, sans dépens.
+Signé à Ottawa, Canada, ce 16e jour de novembre 2007.
+« Pierre Archambault »
+Juge Archambault
+Référence : 2007CCI655
+Date : 20071116
+Dossier : 2006-1684(IT)I
+ENTRE :
+ROBIN ARSENAULT VÉZINA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Archambault
+[1] Robin Arsenault Vézina interjette appel de cotisations établies le 6 janvier 2005 par le ministre du Revenu national (ministre) à l'égard des années d'imposition 2000, 2001, 2002 et 2003 (période pertinente). Par ces cotisations, le ministre a inclus dans les revenus que Robin a tirés de la prestation de services d'artiste un montant de 8 080 $ pour l'année 2000, de 19 211 $ pour 2001, de 21 542 $ pour 2002 et de 30 581 $ pour 2003. Il a de plus imposé pour chacune de ces années une pénalité pour production tardive de déclarations de revenus.
+[2] Le ministre a dû procéder à des cotisations arbitraires puisque Robin n'avait produit de déclaration de revenus pour aucune de ces années d'imposition, malgré une demande expresse faite par le ministre. Il faut mentionner que durant la période pertinente il était âgé de 11 à 14 ans. Lors de la première audience, tenue le 29 novembre 2006, Robin ne s'était pas présenté, mais était représenté par son père, monsieur Bruno Vézina. Dans son témoignage, ce dernier avait relaté qu'il avait demandé au ministère de la Sécurité du revenu du Québec si les sommes gagnées par son fils étaient considérées comme du revenu aux fins du calcul des prestations d'aide sociale, auxquelles avait droit monsieur Vézina et qu'on lui avait répondu par la négative. Comme ce dernier s'était présenté à l’audience sans aucune pièce justificative et sans état de revenus et pertes, sauf pour l'année 2003, pour déterminer quel était le montant du revenu net gagné par Robin, j'ai accordé, de façon exceptionnelle, une suspension de l'audience pour lui permettre de produire auprès du ministre, au plus tard le 29 janvier 2007, des déclarations de revenus pour chacune des années d'imposition en litige, ainsi que l'état détaillé des revenus et dépenses pour ces années d'imposition et les pièces justificatives si rattachant. À la suite de la réception de ces documents, le ministre a procédé à l'établissement de nouvelles cotisations le 14 février 2007, tel qu'il appert d'une lettre du 26 février 2007 de l’avocate de l'intimée. Dans cette lettre, elle demandait à la Cour de remettre le dossier de Robin au rôle afin que je puisse entendre les parties.
+[3] Lors de l'audience tenue le 9 octobre 2007, l'avocate de l'intimée a produit la pièce I‑5 intitulée « Note de service », dans laquelle une représentante de l'intimée fait état des redressements apportés aux cotisations pour la période pertinente. Comme le ministre a accepté un total de 4 019,73 $ de dépenses pour l'année 2000, il ne restait plus de revenu imposable pour cette année. Par conséquent, les débats n'ont porté que sur les années 2001, 2002 et 2003. Dans sa cotisation de 2001, le ministre a accepté des dépenses de 8 930 $ sur les 13 063 $ dont la déduction a été demandée. Pour l'année 2002, le montant s'élève à 8 845 $ sur 13 818 $, et pour 2003, à 12 331 $ sur 18 771 $.
+[4] Essentiellement, la question qui reste à trancher pour chacune de ces années d'imposition a trait à l'admissibilité de quatre postes de dépenses, à savoir : frais d'accompagnement, frais de soins esthétiques, frais de vêtements et frais de bureau. Le ministre a refusé l'ensemble de ces frais, sauf les frais de bureau, dont une partie minime relative aux frais de téléavertisseur et de téléphone cellulaire a été acceptée par le ministre.
+Contexte factuel
+[5] Durant la période pertinente, Robin habitait avec ses parents à Irlande, une municipalité située dans la région de Thetford Mines. Il a obtenu plusieurs rôles dans des productions cinématographiques, télévisuelles et publicitaires. Robin faisait partie de l'Union des artistes et de l'ACTRA, le pendant canadien de l'Union.
+[6] La plupart du temps, Robin devait se rendre à Montréal pour se présenter aux auditions et, par la suite, pour fournir sa prestation de services si ses services étaient retenus. Comme sa grand‑mère habitait à Verdun, il pouvait séjourner chez elle. Selon monsieur Vézina, il fallait se présenter à environ dix auditions pour obtenir un engagement. Dans ses déplacements, Robin était accompagné de sa mère, qui n'occupait aucun autre emploi rémunérateur à cette époque.
+Analyse
+[7] Le ministre justifie le refus de la déduction de dépenses à l'égard de soins esthétiques, de vêtements et de dépenses de bureau par le fait qu'elles représentent des dépenses personnelles. Essentiellement, il adopte la même position à l'égard des frais d'accompagnement. Voici l'explication donnée par la représentante du ministre dans sa note de service:
+[...] Cette facture est signée par une personne qui a un lien de dépendance avec le contribuable, en l'occurrence sa mère. En ce qui concerne les dépenses assumées par celle‑ci, le contribuable lui rembourse déjà les frais d'essence ainsi que les repas consommés. Nous sommes d'avis que les frais d'accompagnement sont des dépenses qui ne sont pas engagées pour gagner un revenu. Par conséquent, la dépense est refusée. (18(1)h).
+[8] Avant d'analyser en détail les dépenses qui font l'objet du litige, il est utile de rappeler les dispositions pertinentes de la Loi de l'impôt sur le revenu (Loi), à savoir :
+9(1) Revenu — Sous réserve des autres dispositions de la présente partie, le revenu qu'un contribuable tire d'une entreprise ou d'un bien pour une année d'imposition est le bénéfice qu'il en tire pour cette année.
+18 (1) Exceptions d'ordre général — Dans le calcul du revenu du contribuable tiré d'une entreprise ou d'un bien, les éléments suivants ne sont pas déductibles :
+a) Restriction générale — les dépenses, sauf dans la mesure où elles ont été engagées ou effectuées par le contribuable en vue de tirer un revenu de l'entreprise ou du bien;
+b) Dépense ou perte en capital — une dépense en capital, une perte en capital ou un remplacement de capital, un paiement à titre de capital ou une provision pour amortissement, désuétude ou épuisement, sauf ce qui est expressément permis par la présente partie;
+[...]
+h) Frais personnels ou de subsistance — le montant des frais personnels ou de subsistance du contribuable — à l'exception des frais de déplacement engagés par celui-ci dans le cadre de l'exploitation de son entreprise pendant qu'il était absent de chez lui;
+[Je souligne.]
+[9] Il est utile de rappeler également l'interprétation qu'ont adoptée les tribunaux relativement à ce genre de dépenses; je signale notamment à cet égard deux décisions que j'ai rendues en 2004 : Riley c. La Reine, 2003 CCI 409, [2003] 4 C.T.C. 2961 et Arthurs c. La Reine, 2003 CCI 636, [2004] 1 C.T.C. 2948.
+[10] À la fin de l'audience, monsieur Vézina a mentionné qu'il lui paraissait tout à fait injuste que le ministre refuse certaines dépenses, notamment pour les vêtements, que les artistes doivent engager dans le cadre de leurs fonctions. Il a indiqué qu'il voulait en saisir l'Union des artistes pour qu'elle défende son point de vue à cet égard. Dans les circonstances, je crois qu'il est opportun de rappeler les propos que je tenais dans l'affaire Riley, qui, à mon avis, s'appliquent en très grande partie dans la présente affaire :
+7 Tout d'abord, j'aimerais indiquer que ces appels ont été présentés selon la procédure informelle et, par conséquent, selon la loi, ces motifs du jugement n'ont aucune valeur jurisprudentielle. Bien que je fasse très rarement cette affirmation lorsque je rends des jugements selon la procédure informelle, je le fais en l'espèce parce que je sens se lever un vent de contestation dans l'industrie des arts du spectacle, du moins en Colombie-Britannique, en ce qui concerne les pratiques administratives de l'Agence des douanes et du revenu du Canada (ADRC). Cette contestation soulève des problèmes difficiles. On pourrait décrire un grand nombre des dépenses réclamées par des artistes de la scène comme Mme Riley comme des dépenses limites parce qu'elles renferment un élément personnel important. Si ma perception de l'intention de l'industrie des arts du spectacle est juste, je crois que la contestation des pratiques administratives de l'ADRC devrait se faire dans le cadre d'un appel présenté selon la procédure générale à titre de cause type, de préférence par l'entremise d'un avocat-fiscaliste très qualifié. Cet avocat devrait présenter tous les éléments de preuve appropriés et pertinents quant a ce que constituent les dépenses et les circonstances dans lesquelles elles ont été effectuées. Il est important qu'on ne présente pas à la Cour des détails généraux ainsi que des affirmations vagues en ce qui concerne la façon dont le métier est pratiqué et les raisons pour lesquelles les dépenses ont été effectuées.
+8 Malheureusement, dans l'affaire en l'espèce, la preuve n'a pas été suffisante pour me convaincre que toutes les dépenses ont vraiment été effectuées a des fins professionnelles et non a des fins de consommation personnelle. [...]
+10 La plus grande difficulté à laquelle devait faire face Mme Riley en ce qui concerne ses appels avait trait à la dernière interdiction mentionnée relativement à la Loi. Afin d'illustrer l'étendue de cette prescription, l'avocat de l'intimée s'est fondé sur plusieurs décisions judiciaires. La première affaire, qui comprend des faits très semblables à l'affaire qui nous occupe est No. 360 v. M.N.R., 16 Tax A.B.C. 31. Il s'agit de l'affaire d'une contribuable que le président de la Commission d'appel de l'impôt sur le revenu a décrite comme une [TRADUCTION] « actrice, commentatrice et comédienne ... une vedette de la scène, de la radio, de la télévision et parfois du grand écran ». Il s'agissait également d'une personne qui tirait un revenu d'une entreprise, elle était travailleuse autonome comme on le dit plus communément. Le président a reconnu que son succès était dû [TRADUCTION] « à son grand talent d'actrice ainsi qu'à son charme et à sa présentation ».
+11 Cette actrice réclamait des dépenses liées à ses vêtements, et c'est la description que l'on trouve dans les motifs du président. Elle a témoigné qu'elle avait fourni ses propres costumes pour des pièces modernes et qu'elle devait fournir ses propres robes pour la plupart de ses contrats à la télévision. Il lui en fallait plusieurs, et les robes devaient être de très bon goût. L'appelante, dans cette affaire, avait également témoigné que le public se plaignait lorsqu'elle portait les mêmes vêtements plus d'une fois. Elle a affirmé qu'elle devait acheter un grand nombre de robes et d'accessoires si elle voulait garder ses contrats à la télévision. Tout comme dans l'affaire qui nous occupe, il s'agissait d'une situation ou les robes pouvaient être portées non seulement à des fins professionnelles, mais aussi à des fins personnelles à d'autres occasions. On a même insisté qu'elle devait maintenir sa réputation de femme bien vêtue tant sur scène que dans la vraie vie.
+12 En se fondant sur ces faits, le président a rendu le jugement que voici :
+[TRADUCTION]
+Cette question a été soulevée dans un grand nombre de dossiers entendus par la présente Commission. Dans toutes ces affaires, on a décidé que ces dépenses constituaient des frais personnels et qu'une déduction n'était pas admissible. Je ne vois rien, dans l'affaire qui nous occupe, qui puisse justifier une décision différente de celles rendues par mes collègues et moi‑même dans des affaires semblables, à savoir qu'il s'agit de « frais personnels ou de subsistance » au sens de l'alinéa 12(1)h) [à ce moment‑là] de la Loi, et par conséquent, elles ne sont pas déductibles.
+13 L'autre précédent auquel l'avocat de l'intimée a fait mention est la décision de la Cour suprême du Canada dans l'affaire Symes c. Canada, [1993] 4 R.C.S. 695 ([1994] 1 C.T.C. 40). Dans l'affaire Symes, on ne traite pas du même genre de dépenses que celles réclamées dans les présents appels, on y traite plutôt de frais de garde d'enfant. Cependant, on y présente un examen de la notion « frais personnels ou de subsistance » tel qu'elle est précisée à l'alinéa 18(1)h) de la Loi. Écrivant au nom de la majorité de la Cour suprême, le juge Iacobucci a fait les remarques suivantes en ce qui concerne la façon de déterminer si une dépense constitue des frais personnels ou de subsistance. Les trois paragraphes de ses motifs les plus importants sont les paragraphes 76, 77 et 79.
+14 A la page 59, le juge Iacobucci fait référence à cette déclaration écrite par le professeur Brooks :
+[Traduction] Lorsqu'une personne aurait engagé une dépense particulière même si elle ne travaillait pas, il y a de bonnes raisons de penser que cette dépense sert une fin personnelle. Par exemple, pour obtenir un revenu d'une entreprise une personne en affaires doit être nourrie, vêtue et logée. Toutefois, puisque ce sont des dépenses qu'une personne ferait même si elle ne travaillait pas, on peut supposer qu'elles servent un objet personnel -- demeurer en vie, être vêtu et se protéger de la pluie. Ces dépenses n'augmentent pas sensiblement lorsqu'une personne entreprend de gagner un revenu.
+Aux pages 59 et 60, le juge Iacobucci écrit ceci :
+Puisque j'ai fait quelques commentaires sur la notion sous‑jacente de « besoins de l'entreprise », il peut être utile aussi de parler des facteurs qui entrent en jeu dans la classification des dépenses en fonction des besoins. Plus précisément, il peut être utile de recourir au critère du « à défaut de » pour l'appliquer non pas à la dépense mais aux besoins que la dépense satisfait. Indépendamment de l'entreprise, le besoin existerait-il? Si un besoin existe même en l'absence de l'activité d'entreprise, et indépendamment de ce que le besoin a été ou aurait été satisfait par des sommes versées à un tiers ou par le coût d'option du labeur personnel, la dépense faite pour répondre au besoin est considérée traditionnellement comme une dépense personnelle.
+[Je souligne.]
+[11] C'est à la lumière de ces règles législatives et de ces interprétations jurisprudentielles que je vais maintenant aborder chacun des postes de dépenses faisant l'objet du litige.
+Frais d'accompagnement
+[12] Lors de son témoignage, la représentante du ministre a indiqué qu'elle avait refusé la déduction de ces dépenses pour deux motifs. Le premier était qu'elle n'était pas convaincue que les sommes en question avaient été versées par Robin à sa mère. Un doute subsistait parce que cette dernière n’avait pas inscrit de revenus d’accompagnement dans les déclarations de revenus qu’elle avait produites. Le deuxième motif était que la représentante du ministre considérait que la dépense n'avait pas de lien avec les activités artistiques de Robin.
+[13] Monsieur Vézina a reconnu que les quatre factures pour les services d’accompagnement, qu’il a présentées à la Cour sous la cote I‑9, avaient été établies pour justifier cette dépense lorsqu'il a produit les déclarations de revenus pour son fils[1]. Par contre, ces factures reflétaient l'existence durant la période pertinente d’une obligation pour Robin de rémunérer sa mère pour l'accompagner non seulement sur les plateaux de tournage, mais aussi lors des nombreuses auditions auxquelles il devait se présenter. Selon monsieur Vézina, sa femme avait droit à des honoraires de 10 % des cachets gagnés par son fils, ce qui revenait à 1 921 $ pour 2001, à 2 154 $ pour 2002 et à 3 000 $ pour 2003.
+[14] De plus, à l'appui de ses prétentions, il a produit des directives concernant les enfants artistes, publiées par le ministère du Travail de l'Ontario en avril 2007. Ces directives, qui ne constituent pas des exigences légales, ont été élaborées par un sous‑comité mixte sur les enfants artistes composé des membres du Comité consultatif de l'industrie du spectacle de scène en matière de santé et de sécurité au travail et du Comité consultatif de l'industrie du film et de la télévision en matière de santé et de sécurité au travail du ministère du Travail. Ces directives reconnaissent que les enfants artistes sont des personnes spéciales qui ont besoin d'une attention et d'une protection particulières. À la partie III de ce document, intitulée « Normes de l'industrie », on mentionne que :
+Même si les normes de l'industrie énoncées dans la partie III des présentes directives n'entrent pas dans le champ d'application de la LSST, le ministère du Travail reconnaît qu'elles contribuent à l'engagement général à l'égard de la santé et de la sécurité des enfants artistes. On recommande fortement aux employeurs de l'industrie du divertissement d'intégrer ces normes aux pratiques appliquées dans les lieux de travail.
+[15] Deux extraits de ces directives méritent d'être reproduits ici; l'un a trait à la présence des parents et l'autre au service d'un psychologue dans les situations de stress psychologique :
+Cinéma, télévision et autres médias
+Si l'enfant artiste a moins de 16 ans, un de ses deux parents doit être présent sur place et accessible en tout temps pendant que l'enfant se trouve sur le plateau. De plus, le parent doit accompagner l'enfant lorsqu'il se rend sur le plateau et le quitte et lorsqu'il se fait coiffer, maquiller et habiller.
+[...]
+Stress psychologique
+Lorsqu'un enfant artiste doit jouer une scène portant sur un sujet susceptible de causer du stress ou des séquelles psychologiques, le producteur doit confier à un psychologue ou à un thérapeute accrédité par le ministère applicable la responsabilité d'aider l'enfant à gérer son stress émotionnel et mental.
+[16] À mon avis, une dépense de frais d'accompagnement ne constitue pas une dépense de nature personnelle lorsqu'il s'agit d'un jeune artiste qui est accompagné d'un adulte, que ce soit un de ses parents ou tout autre adulte. En l'espèce, les frais d'accompagnement n'auraient pas été engagés n'eût été les activités exercées par Robin dans l'exploitation de son entreprise. Si Robin n'avait pas été tenu de se déplacer pour se rendre à Montréal, parfois la veille d’un tournage, pour exécuter son travail, non seulement il n'aurait pas été nécessaire que sa mère l'accompagne, mais il n'aurait pas été nécessaire d'engager des frais de transport ni des frais de séjour à Montréal, qui représentent des dépenses que le ministre a acceptées. Je ne vois aucune différence entre ces différents types de dépenses.
+[17] En outre, je ne vois pas de distinction entre le cas d'un artiste de grande renommée qui doit retenir les services d’un garde du corps pour assurer sa sécurité lorsqu’il fournit des prestations artistiques et le cas d'un adulte qui accompagne un jeune enfant pour le même motif. Dans les deux cas, on peut considérer qu'il s'agit d'une dépense engagée dans le but de tirer un revenu d'une entreprise (lorsque ces artistes agissent comme travailleurs autonomes). Le fait que l'adulte soit ici la mère du jeune Robin ne change rien à la nécessité d'engager une personne pour assurer sa sécurité.
+[18] Quant à la question du paiement, il est vrai que le fait que la mère n'a pas inclus dans ses revenus les sommes versées à titre d’honoraires d'accompagnement peut susciter un doute quant au versement de telles sommes. Par contre, le fait qu'un contribuable ne déclare pas ses revenus ne signifie pas nécessairement qu'il ne les a pas gagnés. Ici, je me fonde sur le témoignage de monsieur Vézina, qui a affirmé que ces sommes ont été versées à son épouse pour l'accompagnement de son fils. Il m'apparaît tout à fait raisonnable que Robin rémunère sa mère pour tous les services qu'elle lui rend lorsqu'il fournit sa prestation d'artiste. En outre, les montants déduits m'apparaissent tout à fait raisonnables dans les circonstances. Par conséquent, rien ne s'oppose à leur admissibilité comme dépenses dans le calcul du revenu de Robin.
+Vêtements
+[19] Lors de son témoignage, monsieur Vézina a affirmé que des vêtements avaient été achetés pour son fils pour lui permettre de mieux réussir ses auditions et obtenir les rôles pour lesquels il postulait. Il a présenté une série de dépenses relatives à l'achat de vêtements qui, selon lui, étaient nécessaires soit pour les auditions, soit pour le tournage sur les plateaux. Par exemple, il a indiqué qu'il pouvait être nécessaire d'avoir des vêtements pour tenir Robin chaud entre différentes prises, puisque des scènes pouvaient être tournées dans des conditions climatiques inclémentes. Pour justifier que ces dépenses n’auraient pas été engagées n’eût été les activités artistiques de Robin, monsieur Vézina a fait état que, lorsque sa famille achetait des vêtements, elle le faisait dans un comptoir familial où les coûts étaient minimes, alors qu'aux fins des tournages ou des auditions on devait faire l'acquisition de vêtements non recyclés qui étaient achetés notamment chez Wal‑Mart, chez l'Aubainerie ou dans des magasins Croteau.
+[20] Tout d’abord, il faut souligner que les pièces justificatives pour appuyer la déduction des dépenses faites pour Robin n'ont été identifiées et classées par monsieur Vézina que plusieurs années après le moment où les vêtements ont été achetés. En effet, comme on l'a vu, aucune déclaration de revenus n'a été produite à l’égard de la période pertinente, dans les délais prescrits par la Loi. Les déclarations n'ont été produites que plusieurs années plus tard et la plupart, seulement au début de l'année 2007 après que j'ai eu suspendu l'audition de l'appel de Robin pour lui permettre de produire ses pièces justificatives. Dans ces circonstances, il est difficile d'établir le lien entre une dépense d'apparence personnelle et les activités professionnelles de Robin.
+[21] De plus, lors du contre‑interrogatoire de monsieur Vézina effectué par l'avocate de l'intimée, il a dû reconnaître que certaines des factures pour lesquelles il demandait la déduction de la dépense y indiquée représentaient des dépenses pour des vêtements féminins parce qu’il s'agissait d'achats faits dans des boutiques de vêtements féminins[2]. Ce fait illustre bien qu’il est difficile de déterminer plusieurs années plus tard quels vêtements ont réellement été portés dans le cadre d’activités artistiques de son fils et dans quelle mesure.
+[22] Je crois qu'il pourrait être opportun de reconsidérer l'approche des tribunaux qui ont dans le passé refusé toute dépense de vêtement en la qualifiant de dépense personnelle, à moins que le vêtement ne serve qu'à des activités artistiques. Je crois qu'un argument valable pourrait être avancé à l'appui du point de vue selon lequel au moins une partie du coût des vêtements pourrait constituer une dépense pertinente dans le calcul du revenu d'entreprise d'un artiste, tout comme c'est le cas des dépenses reliées à une voiture utilisée tant à des fins d'affaires qu’à des fins personnelles. Il en est de même lorsqu'un contribuable a le droit de déduire les dépenses relatives à la partie de son logement qui est utilisée dans le cadre de l'exploitation d’une entreprise. Malheureusement, dans l'affaire qui nous occupe, la preuve est insuffisante pour établir avec un degré de certitude acceptable que les vêtements ont réellement été utilisés dans le cadre du travail professionnel de Robin; et elle l'est également pour établir la proportion de l’utilisation à des fins d’affaires et celle de l'utilisation à des fins personnelles. Parmi les vêtements pour lesquels la déduction des dépenses était demandée, il y avait des jeans, des manteaux, des chapeaux, des bottes, des mitaines, des tuques et des sous‑vêtements. Comme ces vêtements peuvent être utilisés dans la vie de tous les jours, leur coût peut être considéré comme une dépense de nature personnelle et non déductible[3].
+Soins esthétiques
+[23] Parmi les dépenses dont la déduction était réclamée par monsieur Vézina pour son fils pour les soins esthétiques, on en trouve plusieurs qui n’ont pas de rapport avec les soins esthétiques. Par exemple, il y a une facture de 8,03 $ de Wal‑Mart pour l’achat d’une calculatrice. De façon évidente, cette dépense pourrait être considérée comme des frais de bureau, mais ce serait une dépense en capital. Par contre, il s’agit là d’un autre bien qui peut être utile tant à des fins personnelles qu’à des fins d’affaires. La proportion de l’utilisation à des fins d’affaires n’a pas été établie de façon satisfaisante. Cela est d’ailleurs le cas pour la totalité ou presque des dépenses pour soins esthétiques. Toutefois, une exception peut être faite pour des dépenses de maquillage, soit un fond de teint à 7,98 $ et du fard à joues, à 4,98 $, dépenses dont le montant, une fois majoré de la TPS, donnant ainsi 14,91 $, pourrait être déductible. À l'égard de ces dépenses engagées en octobre 2002, monsieur Vézina a indiqué que sa femme ne se maquillait pas et, par conséquent, ces produits de maquillage ne pouvaient avoir été utilisés que par son fils dans le cadre de ses activités professionnelles.
+[24] Parmi les dépenses de soins esthétiques, il y avait des frais de chirurgien dentiste et des frais de lunettes, qui, à mon avis, sont des dépenses qui auraient été engagées peu importe l'activité artistique de Robin. Par conséquent, elles sont des dépenses personnelles, qui ne sont pas déductibles. Par contre, une exception peut être faite à l'égard des frais de psychologue de 120 $, qui, selon monsieur Vézina, ont été engagée en avril 2003 en raison d'un stress causé par des scènes dans lesquelles aurait joué son fils. Dans ces circonstances, on peut conclure qu'il s'agit d'une dépense engagée dans le but de tirer un revenu d’une entreprise puisqu'elle a été engagée dans le cadre des activités professionnelles de Robin et n’aurait pas été engagée n’eût été ces activités. Le fait que des frais médicaux peuvent être déductibles en vertu d'une autre disposition de la Loi n'empêche pas que la dépense puisse être admissible dans le calcul du revenu d'entreprise en vertu du paragraphe 9(1) de la Loi. Il aurait été nécessaire d’avoir recours à cette autre disposition si la dépense en avait été une de nature personnelle.
+Frais de bureau
+[25] Parmi les dépenses au titre de frais de bureau, il est difficile de déterminer celles qui ont été engagées aux fins de l'exploitation de l'entreprise de Robin et celles qui l’ont été à des fins personnelles. À titre d’exemples, mentionnons les frais de scolarité et les frais de fournitures scolaires. Que Robin exerce la profession de jeune artiste ou pas, il aurait fallu que ces frais soient engagés. Par conséquent, ce sont des dépenses qui tombent dans la catégorie des dépenses personnelles. Pour celles qui auraient été engagées à la fois à des fins d’affaires et à des fins personnelles, il n’est pas possible dans ce cas non plus de déterminer la proportion de l’utilisation à des fins d’affaires.
+[26] Parmi les dépenses de bureau, il y a, par contre, une dépense de 79 $ ayant trait à l'acquisition de patins et à leur affûtage en 2002. Monsieur Vézina a affirmé que ces patins n'ont servi que pour un tournage ou une audition. Par conséquent, cette somme peut être considérée comme des frais reliés à des cascades, frais que le ministre a d'ailleurs admis entièrement. Cette dépense de 79 $ devrait être admissible.
+[27] Pour tous ces motifs, les appels de Robin Arsenault Vézina pour les années d'imposition 2001, 2002 et 2003 sont accueillis et les cotisations du 14 février 2007 sont déférées au ministre pour nouvel examen et nouvelles cotisations en tenant pour acquis qu’il a droit dans le calcul de son revenu tiré d'une entreprise, à la déduction des montants suivants :
+2001
+2002
+2003
+accompagnement
+1 921,00
+2 154,00
+3 000,00
+patins
+79,00
+psychologue
+120,00
+maquillage
+14,91
+Total
+1 921,00
+2 247,91
+3 120,00
+Quant à l'appel pour l'année 2000, il est rejeté. Le tout sans dépens.
+Signé à Ottawa, Canada, ce 16e jour de novembre 2007.
+« Pierre Archambault »
+Juge Archambault
+RÉFÉRENCE : 2007CCI655
+Nº DU DOSSIER DE LA COUR : 2006-1684(IT)I
+INTITULÉ DE LA CAUSE : ROBIN ARSENAULT VÉZINA c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Sherbrooke (Québec)
+DATE DE L’AUDIENCE : le 29 novembre 2006 et
+le 9 octobre 2007
+MOTIFS DU JUGEMENT PAR : l'honorable juge Pierre Archambault
+DATE DU JUGEMENT : le 16 novembre 2007
+COMPARUTIONS :
+Représentant de l'appelant :
+Bruno Vézina
+Avocate de l'intimée :
+Me Marie-Claude Landry
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] C’est lui qui a signé les déclarations de revenus de son fils et qui, parfois avec l’aide de son épouse, parfois sans son aide, a examiné les pièces justificatives pour décider s’il réclamerait la déduction. Ni son épouse ni son fils n’était présent à l’audience et ils n’ont donc pas pu éclairer la Cour quant aux biens et services pour lesquels la déduction d'une dépense avait été demandée.
+[2] Ce fait révèle également que la famille de monsieur Vézina ne se limitait pas à faire ses achats dans des comptoirs familiaux.
+[3] En outre, il faut mentionner à l'égard des vêtements qu’il s’agit de biens durables dont le coût pourrait constituer une dépense en capital dont seulement une partie pourrait être déduite comme déduction pour amortissement en vertu de l'alinéa 20(1)a) de la Loi.

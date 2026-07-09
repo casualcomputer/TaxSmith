@@ -1,0 +1,147 @@
+Title: Li v. The King
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521106/index.do
+Corpus path: corpus/cases/tcc/2023/2023-tcc-77-521106-li-v-the-king-en.md
+Document type: case_law
+Last modified: 2023-05-25
+
+# Li v. The King
+
+- Citation: 2023 TCC 77
+- Decision date: 2023-05-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5830, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Li v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2023-05-25
+Neutral citation
+2023 TCC 77
+File numbers
+2019-4394(IT)I
+Judges and Taxing Officers
+Bruce Russell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2019-4394(IT)I
+BETWEEN:
+YIN LI,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on March 21, 2023, at Toronto, Ontario
+Before: The Honourable Justice Bruce Russell
+Appearances:
+Agent for the Appellant:
+Oliver Xing
+Counsel for the Respondent:
+Christopher Ware
+Tianjian Wang
+JUDGMENT
+The appeal of the two respective January 14, 2019 reassessments for the Appellant’s 2015 and 2016 taxation years is dismissed.
+Signed at Halifax, Nova Scotia, this 25th day of May 2023.
+“B. Russell”
+Russell J.
+Citation: 2023 TCC 77
+Date: May 25, 2023
+Docket: 2019-4394(IT)I
+BETWEEN:
+YIN LI,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Russell J.
+I. Introduction: [1] The appellant, Yin Li, appeals denial under the federal Income Tax Act (Act) of claimed employment expenses of $55,945 and $50,793 respectively for his 2015 and 2016 taxation years.
+[2] For each year Mr. Li claimed three categories of employment expenses, being:
+(a) $24,000 assistant’s salary for a non-arm’s length family member for each of 2015 and 2016;
+(b) motor vehicle expenses for 2015 totaling $15,857 for auto lease and parking, $7,240 for fuel and $5,998 for insurance; and for 2016 totaling $14,558 for auto lease and parking, $6,850 for fuel and $5,385 for insurance; and
+(c) office supplies (being an Apple Watch and an Apple laptop) totaling $2,850 for the 2016 taxation year.
+[3] At all relevant times Mr. Li resided with his wife, mother-in-law and children at his home in the GTA.
+[4] During his 2015 and 2016 taxation years, Mr. Li was employed by a numbered Ontario corporation that owned and operated an automobile dealership in Toronto. Mr. Li concurrently held two senior positions at that dealership - General Sales Manager and Financial Services Manager.
+[5] In these two years he annually earned employment income in the $110,000 range, including annual commission income in the $75,000 range.
+II. Legislation: [6] Section 8 of the Act addresses deductible employment expenses. Subsection 8(2) prohibits employment expense deductions other than those provided for in section 8.
+[7] Paragraph 8(1)(h.1), subparagraph 8(1)(i)(ii) and subsection 8(10) of the Act provide in relevant part (underlining added):
+8(1): Deductions allowed: In computing a taxpayer’s income for a taxation year from an office or employment, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto…
+(h.1) motor vehicle travel expenses: where the taxpayer, in the year,
+(i) was ordinarily required to carry on the duties of the office or employment away from the employer’s place of business or in different places, and
+(ii) was required under the contract of employment to pay motor vehicle expenses incurred in the performance of the duties of the office or employment, amounts expended by the taxpayer in the year in respect of motor vehicle expenses incurred for traveling in the course of the office or employment, except where the taxpayer
+(iii) received an allowance for motor vehicle expenses that was, because of paragraph 6(1)(b), not included in computing the taxpayer’s income for the year, or
+(iv) claims deduction for the year under paragraph 8(1)(f);
+(i) dues and other expenses of performing duties: an amount paid by the taxpayer in the year…as…
+(ii) office rent, or salary to an assistant or substitute, the payment of which by the officer or employee was required by the contract of employment,
+8(10): Certificate of employer: An amount otherwise deductible for a taxation year under paragraph (1)(c), (f), (h) or (h.1) or subparagraph (1)(i)(ii) or (iii) by a taxpayer shall not be deducted unless a prescribed form, signed by the taxpayer’s employer certifying that the conditions set out in the applicable provision were met in the year in respect of the taxpayer, is filed with the taxpayer’s return of income for the year.
+III. Assistants’ Salaries: [8] The first of the three noted expense claim categories is the expense claim for $24,000 for each of the two years as a salary for an assistant. In 2015 he engaged his mother-in-law, who lived in the same household, to do certain work using a home laptop computer with VPN connection to his office files. The work was to complete and close the file on each vehicle sale, lease or financing as they occurred, which included entry of confidential information of customers and of the dealership, before the completed file was conveyed to the dealership’s accountant.
+[9] Mr. Li testified that with his two senior jobs at the dealership he did not have time to do this work himself, and that he needed someone, such as his mother‑in-law whom he could fully trust with this sensitive information, to complete the required closing of each transactional file, prior to submission to the dealership’s accountant for posting. His mother-in -law did this work from home. There were busy and slow times during the automotive year and the work could take a varying number of part-time hours per week to complete. She understandably was slow at it at first but in time more quickly completed the file closures.
+[10] Mr. Li claimed a deduction of $24,000 of his 2015 employment income for salary paid to his mother-in-law for this work. He testified that he did not pay his mother-in-law the $2,000 per month. He instead credited the amount against monthly rent for her living in his house, and against food charges and transportation charges to her and unspecified credit card or other charges. No documentation corroborating such crediting was entered in evidence. The amount of the purported monthly rent was not stated, and Mr. Li’s mother-in-law did not testify. No records as to hours worked were maintained. The evidence was that she was not paid by the hour.
+[11] It was suggested in cross-examination that his mother-in-law’s knowledge of English was poor, to which Mr. Li responded that she had had some ESL training and that the work he had her do did not involve knowing the English language so much as just being able to add and subtract.
+[12] In 2016 this was repeated except in that year his assistant was his wife. It was explained that in 2015 she had not done this work as she had had a baby in July of that year. Her remuneration also was $2,000 per month, i.e., $24,000 in total. Again, no records were provided as to hours worked.
+[13] His wife was paid by way of the monthly amounts of $2,000 being in a joint account held by both spouses. Mr. Li was asked on cross-examination, “Is it correct that you paid your wife through a joint account and that there was no actual transfer of funds?” Mr. Li answered, “Correct.”[1]
+[14] Mr. Li’s wife did not testify. As with 2015, no records as to payment or as to hours worked were kept or in any event entered in evidence for this 2016 work.
+[15] Subsection 8(10) and subparagraph 8(1)(i)(ii) of the Act together provide that deduction for salary paid to an assistant requires that payment by the employee of the salary to an assistant be required by the employee’s employment contract and also that a completed form T2200 (headed “Declaration of Conditions of Employment”) be filed.
+[16] There is no evidence that Mr. Li’s employment contract required that he pay a salary to an assistant. As well, neither of the T2200 forms for the two taxation years entered in evidence was, “signed by the taxpayer’s employer” as subsection 8(10) explicitly requires. There was no evidence or suggestion that signed versions of same had been filed with Mr. Li’s return for either of these two taxation years.
+[17] As well no documentary evidence was submitted, supporting actual payment of the alleged $24,000 salary for 2015 and 2016 respectively.
+[18] Does depositing the monthly amount into a joint account constitute a payment from one of the joint account holders to the other? In Blott v. Her Majesty, 2018 TCC 1, this situation was addressed. As to whether this constituted payment for purposes of subparagraph 8(1)(i)(ii), C. Miller J. wrote (paras. 11, 13):
+11. So, was $12,000 paid…by Mr. Blott? There are no cheques to [Mr. Blott’s spouse] Ms. Thériault. Mr. Blott’s income went into the joint account and Ms. Thériault could simply access it. Is there any amount paid to Ms. Thériault in such circumstances? I conclude there is not. Granted, Ms. Thériault, as a joint holder of the account, could withdraw whatever she wanted, well in excess of $12,000 a year for that matter. Indeed, she and Mr. Blott could withdraw everything from the account. In these circumstances, I do not see how anything has been paid or expended to Ms. Thériault. She has received nothing more than what she already had.
+13. To establish a working employer/employee relationship in a non-arm’s length situation, it is important that there be some evidence of a salary being paid, some evidence that the recipient of a wage has in fact received a benefit beyond what might arise in the ordinary course of a husband and wife sharing a joint account. Further, Mr. Blott provided no T4 for his wife. On balance, I conclude no salary was paid as contemplated by the Act, to Ms. Thériault. (underlining added)
+[19] Thus, the answer in Blott was that having the salary amount put in a joint account held by the two spouses did not constitute payment from spouse A of a salary to spouse B qua assistant. I likewise so find in Mr. Li’s situation vis-a-vis payment in 2016 of a salary to his wife as an assistant.
+[20] As for the crediting of amounts against his mother-in-law’s expenses, there was no evidence submitted confirming that these payments were credited against such expenses. Nor was there any evidence that normally Mr. Li charged his mother-in-law for rent, food and transportation, etc.
+[21] In Burlando v. Her Majesty, 2014 TCC 92, V. Miller J. of this Court observed (paras. 12, 13, 16):
+12. There was no documentary evidence to support that the appellant paid Bonita any wages. His testimony that he paid her by setting off her wages against the amount she charged on his credit card was not supported by any receipts. It is my opinion that he randomly chose amounts from his bank statements and stated these amounts were Bonita‘s wages. For instance, some months he included his daughter’s gym membership as part of Bonita‘s wages and other months the gym membership was not included as part of her wages. In 2008, the items he chose as Bonita‘s wages totaled $21,407.60 and in 2009 the items totaled $17,204.72. There were no documents to support that the credit card charges, the debit card payments or the cash withdrawals were made by Bonita.
+13. Counsel for the appellant stated that the circumstances of this appeal were similar to those in Noel v. R., 2011 TCC 27 (TCC [general procedure]). I disagree. In Noel, Hogan J. of this Court found that Ms. Noel had the skills to perform the duties for which she was responsible and that she was paid by cheque for her services to her spouse’s law firm. It was never an issue whether Ms. Noel actually worked in her spouse’s business.
+16. In conclusion, it is my view that the appellant has not satisfied the onus on him of showing that the reassessment was incorrect. He has not shown that Bonita actually worked for him or that he paid her any wages. In a situation such as existed in this appeal, where there is an alleged working relationship between non-arms length parties, there should have been some documentation or independent evidence to support that working relationship. In this case neither was given. (underlining added)
+[22] Following Burlando, and given the absence of documentary evidence here, plus also the lack of testimony from Mr. Li’s mother-in-law, I am unable to conclude that the monthly $2,000 amounts were actually “paid” to Mr. Li’s mother-in-law. As well and as stated there is no evidence that the purportedly credited charges such as for rent, food and transportation were charges that Mr. Li otherwise or normally required his mother‑in‑law to pay.
+[23] As well, I question the reasonableness of these payments. How was the annual amount of $24,000 determined? It was not based on number of hours. In his direct examination Mr. Li was asked why the payment was $24,000. Mr. Li answered that, “That’s what we predetermined, $2,000 a month to my wife.”[2]
+[24] In the absence of evidence indicating otherwise, the $24,000 for each of the two years strikes me as being an arbitrary amount and overly generous for part‑time hours of computer laptop work throughout the year. I conclude that the annual $24,000 of salary was not reasonable in amount for either year.
+[25] Finally, in establishing that Mr. Li’s mother-in-law and wife had done the claimed work, they should have testified. For this to be a valid basis for deducting an employment expense for each of the two years, records needed to be kept and produced and payments needed to be actually made and be reasonable in total amount. As well, as noted above, this employment expense of paying a salary to an assistant was not supported as required by a subsection 8(10) form T2200 signed by the appellant’s employer; nor was payment of such salary by Mr. Li provided for in Mr. Li’s own contract of employment.
+[26] Accordingly, each of the two years of claimed annual deduction of $24,000 as salary is denied.
+IV. Motor vehicle expenses: [27] The second category of claimed expenses is motor vehicle expenses. In this regard Mr. Li claimed lease charges, insurance, fuel and parking for each of two vehicles - a BMW and a Toyota.
+[28] In the course of cross‑examination, he conceded that the Toyota related charges (lease and parking, insurance, fuel) should be excluded as that vehicle was used basically for pleasure.
+[29] As for the BMW he ultimately conceded that 50% of related charges were personal and not for business, and thus should not have been claimed. As well he did not have a mileage log for the BMW. As for fuel and parking, he brought no receipts re same to Court.
+[30] The 50% for business was for the round trip of 20 kilometres that he testified he had to drive almost every day from the dealership to a provincial vehicle licensing office, to arrange for prompt licensing of vehicles the dealership had just sold, leased or financed. He insisted he needed to do this as someone less senior would not have the authority and knowledge to authorize amendments while at the licensing office in regard to questions and situations that could arise.
+[31] He testified also that there were other business errands to be run using the BMW but did not specify what they were. This 50% of business usage was just a round estimate on his part, in the course of the hearing. I am left unpersuaded that these 20 kilometres per day plus occasional other errands added up to 50% of total usage being business usage. For each such day he also would commute to the dealership from his home in the GTA, which of course is not business driving. The BMW also was used for recreational purposes. As above stated, there was no mileage log to consult. Also as stated there were no fuel or parking receipts entered in evidence.
+[32] Mr. Li received a monthly motor vehicle allowance of $400, totalling $4,800 annually for each of the two relevant taxation years, included in his T4s for these years.
+[33] In cross-examination Mr. Li agreed with the assertion that he had, “claimed [his] entire family’s fuel expenses”. He said this was because, “my family members [were] also partly involved in my work”.[3] The only evidence in this regard was that his mother‑in-law and wife had carried out the above discussed computer laptop work at home, with no requirement for driving anywhere. Accordingly, there was no justification for claiming total fuel charges.
+[34] Motor vehicle expenses are claimable under paragraph 8(1)(h.1), set out above. But, per subsection 8(10), above, such expenses can only be claimed if provided for in a form T2200 “Declaration of conditions of employment” signed by or on behalf of the employer. There is in evidence no T2200 that was signed by the employer.
+[35] For these reasons, the claimed motor vehicle expenses cannot be deducted.
+V. Office supplies: [36] Finally, under the heading “office supplies”, Mr. Li sought deduction for expenses incurred to purchase an Apple watch and Apple laptop computer. Both were considered computers.
+[37] Apart from the question as to personal usage of, in particular the Apple Watch, both claimed Apple products are viewed by the respondent to be capital assets, and hence not deductible as claimed. I agree. Thus, the deduction of the actual expense in procuring each of these two items is denied.
+VI. Conclusion: [38] The appeal of the respective January 14, 2019 reassessments for Mr. Li’s 2015 and 2016 taxation years will be dismissed.
+Signed at Halifax, Nova Scotia, this 25th day of May 2023.
+“B. Russell”
+Russell J.
+CITATION:
+2023 TCC 77
+COURT FILE NO.:
+2019-4394(IT)I
+STYLE OF CAUSE:
+YIN LI AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+March 21, 2023
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Bruce Russell
+DATE OF JUDGMENT:
+May 25, 2023
+APPEARANCES:
+Agent for the Appellant:
+Oliver Xing
+Counsel for the Respondent:
+Christopher Ware
+Tianjian Wang
+COUNSEL OF RECORD:
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] Transcript, p. 47.
+[2] Transcript, p. 12.
+[3] Transcript, pp. 72, 73.

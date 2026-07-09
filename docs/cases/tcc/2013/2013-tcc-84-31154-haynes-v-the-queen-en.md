@@ -1,0 +1,148 @@
+---
+title: "Haynes v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31154/index.do"
+last_modified: "2013-04-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 TCC 84"
+citation2: ""
+neutral_citation: "2013 TCC 84"
+decision_date: "2013-04-29"
+language: "en"
+item_id: "31154"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4743
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:09:37.375000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2904df468e6ba2f7f09ea2d000cd3d6a26537d13b62b0a6367cbdd87f4cd24d1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Haynes v. The Queen
+
+- Citation: 2013 TCC 84
+- Decision date: 2013-04-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4743, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Haynes v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-04-29
+Neutral citation
+2013 TCC 84
+File numbers
+2012-2667(IT)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-2667(IT)I
+BETWEEN:
+DARRYL DOUGLAS HAYNES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 14, 2103, at St. John's,
+Newfoundland and Labrador
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Counsel for the Appellant:
+Melanie Del Rizzo
+Counsel for the Respondent:
+Jan Jensen
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2010 taxation year is dismissed.
+Signed at Ottawa, Canada, this 29th day of April 2013.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2013TCC84
+Date: 20130429
+Docket: 2012-2667(IT)I
+BETWEEN:
+DARRYL DOUGLAS HAYNES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller J.
+[1] The Appellant has appealed the reassessment of his 2010 taxation year wherein the Minister of National Revenue (the “Minister”) determined that the Appellant was not entitled to receive the credit for a wholly dependent person and the child tax credit in respect of his children for the 2010 year.
+Preliminary Matter
+[2] At the beginning of the hearing, counsel for the Appellant stated that the receipt of the child tax credit was no longer an issue.
+Facts
+[3] During 2010, the Appellant and his former spouse lived separate and apart because of a breakdown of their marriage. They have two children and in 2010 they shared custody of the children.
+[4] Pursuant to a Consent Order entered into by the Appellant and his former spouse on September 14, 2009 and issued out of the Supreme Court of Newfoundland and Labrador, child support was payable “pursuant to the straight ‘set-off’ approach” in the Federal Child Support Guidelines, SOR/97-175 (the “Federal Guidelines”). In 2010, the Appellant was required to pay child support to his former spouse in the amount of $410.25 per month. This amount represented the set-off between the total amount ($783) the Appellant was required to contribute to his children’s support and the total amount ($372.75) his former spouse was required to contribute as set out in the Federal Guidelines.
+[5] In his income tax return for 2010, the Appellant claimed the wholly dependant person credit for one of his children. The Minister of National Revenue (the “Minister”) disallowed the claim on the basis that subsection 118(5) of the Income Tax Act (the “Act”) prevented the Appellant from receiving the credit.
+The Law
+[6] Paragraph 118(1)(b) of the Act provides a tax credit in respect of a wholly dependant person. There are several conditions that must be met; however, none of them are at issue in this appeal.
+[7] Subsection 118(5) of the Act provides that an individual may not claim a tax credit for a wholly dependant person where that individual is required to pay a support amount to his/her former spouse.
+[8] Subsection 118(5.1) of the Act provides that subsection 118(5) does not apply if it would deny the credit to both parents. In such a case, paragraph 118(4)(b) would apply and the parents must agree which of them will claim the credit on an annual basis. If there is no agreement, neither of the parents will be allowed the credit for the year.
+Appellant’s Position
+[9] It was the Appellant’s position that both he and his former spouse were required to pay child support in 2010. In order to avoid exchanging cheques for the child support amount that each had to pay, he paid his former spouse the difference between the amounts payable.
+[10] Counsel for the Appellant argued that since both the Appellant and his former spouse paid child support, subsection 118(5) would prevent both of them from claiming the credit. However, subsection 118(5.1) of the Act remedied the situation and subsection 118(5) did not apply to either him or his former spouse.
+Analysis
+[11] It is clear from the Consent Order that only the Appellant was required to pay child support in 2010. With respect to child support, the Consent Order reads:
+“Currently, based on the parties’ respective incomes, the parties agree that the amount of child support payable by the Applicant to the Respondent is $410.25 per month, calculated as follows:
+2008 income of the Applicant: $56,297.00 ($783.00 per month child support obligation)
+2008 income of the Respondent: $24,523.00 ($363.00 per month child support obligation)
+Respondent’s portion of Children’s medical insurance: $9.75 per month
+$783.00 - $363.00 - $9.75 = $410.25”
+In the Consent Order, the Appellant was the Applicant and his former spouse was the Respondent.
+[12] The issue raised in this appeal was recently considered by the Federal Court of Appeal in Marc Verones v The Queen, 2013 FCA 69. In Verones, the facts were almost identical to those in the present appeal. In that case, the appellant paid monthly child support to his former spouse. The amount of child support represented a set-off between the total amount the appellant was required to contribute to his children’s needs and the amount his former spouse was required to contribute as set out in the Federal Guidelines. Trudel J.A. stated:
+[5] I am of the view that the Tax Court correctly rejected the appellant’s thesis. The Tax Court observed that the Order of the Court of Queen’s Bench of Alberta directed only the appellant to make child support payments, notwithstanding that his former spouse’s income was taken into consideration in determining the amount that he, as the higher income spouse, was directed to pay. It is clear that the child support payments made by the appellant constitute a "support amount" as contemplated by subsection 56.1(4) of the Act. The mother’s contribution to the children’s needs does not meet the requirement of that subsection as there is no order or written agreement requiring her to make child support payments to the appellant. As a result, subsection 118(5) is applicable and the appellant is not entitled to the tax credits (see Perrin v. Canada, 2010 TCC 331; Ladell v. Canada, 2011 TCC 314, cited at paragraph 6 of the Tax Court’s reasons).
+[6] The whole discussion about the concept of set-off is a mere distraction from the real issue, i.e. whether or not the appellant is the only parent making a "child support payment" in virtue of "an order of a competent tribunal or an agreement", as defined under the Act.
+[7] In Contino v. Leonelli-Contino, 2005 SCC 63; [2005] 3 S.C.R. 217 [Contino], Bastarache J. clearly articulated that the underlining principle relating to child support in the Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.) (s. 26.1(2)), and the Federal Guidelines (s. 1), consists of the parents’ “joint financial obligation to maintain the children of the marriage in accordance with their relative abilities to contribute to the performance of that obligation" (at paragraph 32).
+[8] Once each parent’s obligation vis-à-vis the children is determined, the higher income parent may be obligated to make child support payments to the lower income parent as part of his or her performance of said obligation. However, in the end, the set-off concept does not translate the parents’ respective obligation to contribute to child rearing into a "support payment” as defined in the Act.
+[9] Thus, the appellant’s argument as to the impact of the Federal Guidelines on child support payments cannot succeed. Moreover, subsection 118(5.1) of the Act does not apply to the present factual situation. As found by the Tax Court Judge, "(s)ubsection 118(5.1) was introduced in 2007 presumably to provide relief where both parents do, in fact, pay an amount of child support" which, as mentioned above, is not the case here. As for the appellant’s suggestion that subsection 118(5.1) of the Act should be repealed, it is a matter which only Parliament can address.
+[13] As in Verones, subsection 118(5) of the Act applies and the Appellant is not entitled to the tax credit for a wholly dependant person.
+[14] In a letter dated March 14, 2013, counsel for the Respondent informed the court that it was his view that the decision in Verones applied to the present appeal. I agree.
+[15] On March 18, 2013, the court asked counsel for the Appellant to provide any written representations/comments concerning the decision in Verones. Counsel wrote that a response would be forwarded by April 12, 2013. No response has been received.
+[16] The appeal is dismissed.
+Signed at Ottawa, Canada, this 29th day of April 2013.
+“V.A. Miller”
+V.A. Miller J.
+CITATION: 2013TCC84
+COURT FILE NO.: 2012-2667(IT)I
+STYLE OF CAUSE: DARRYL DOUGLAS HAYNES AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: St. John's, Newfoundland and Labrador
+DATE OF HEARING: February 14, 2103
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: April 29, 2013
+APPEARANCES:
+Counsel for the Appellant:
+Melanie Del Rizzo
+Counsel for the Respondent:
+Jan Jensen
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Melanie Del Rizzo
+Firm: Smyth, Woodland, Del Rizzo & LeDrew
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

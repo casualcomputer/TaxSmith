@@ -1,0 +1,103 @@
+Title: Stadnyk v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30891/index.do
+Corpus path: corpus/cases/tcc/2012/2012-tcc-225-30891-stadnyk-v-m-n-r.md
+Document type: case_law
+Last modified: 2012-07-23
+
+# Stadnyk v. M.N.R.
+
+- Citation: 2012 TCC 225
+- Decision date: 2012-07-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7450, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Stadnyk v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-07-23
+Neutral citation
+2012 TCC 225
+File numbers
+2012-384(CPP)
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Canada Pension Plan
+Decision Content
+Docket: 2012-384(CPP)
+BETWEEN:
+RICHARD PATRICK STADNYK,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Motion heard on May 16, 2012, at London, Ontario
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+For the Appellant:
+The Appellant Himself
+Counsel for the Respondent:
+Serena Sial
+____________________________________________________________________
+ORDER
+The Appellant’s appeal under the Canada Pension Plan in relation to whether he was an employee of Mary Ann Lugsdin and Barry Lugsdin carrying on business as Four Star Painters or an independent contractor during the period from May 14, 2008 to May 27, 2009 is quashed, without costs.
+The Appellant shall have until August 31, 2012 to amend the Notice of Appeal to identify what the Appellant is appealing in relation to the assessment issued under the Income Tax Act for his liability under that Act. If the Appellant does not amend his Notice of Appeal by August 31, 2012, then the document will be treated only as an appeal under the Canada Pension Plan, which as provided herein, is quashed.
+Signed at Ottawa, Canada, this 23rd day of July, 2012.
+“Wyman W. Webb”
+Webb, J.
+Citation: 2012TCC225
+Date: 20120723
+Docket: 2012-384(CPP)
+BETWEEN:
+RICHARD PATRICK STADNYK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Webb J.
+[1] At the commencement of the hearing the Respondent brought a motion to quash the Appellant’s appeal under the Canada Pension Plan. The Appellant filed a Notice of Appeal to this Court on January 16, 2012. In his Notice of Appeal the Appellant checked the box indicating that the type of appeal was “Canada Pension Plan” but in the space provided for the “Date of the Minister’s Decision” he inserted the date “Oct. 26, 2011” which is the date of the Notice of Confirmation that was issued in relation to the objection that he had filed under the Income Tax Act in relation to the assessment issued for 2008.
+[2] It appears that the Appellant is attempting to appeal the ruling that he was self-employed for the period from May 14, 2008 to May 27, 2009 and not an employee of Mary Ann Lugsdin and Barry Lugsdin carrying on business as Four Star Painters (“Four Star”). The Appellant wanted to appeal this ruling because, as a result of this ruling, he was required to pay the amount as provided in section 10 of the Canada Pension Plan (which is the amount payable by self-employed individuals).
+[3] On June 2, 2009 the Canada Revenue Agency ruled that, for the purposes of the Employment Insurance Act and the Canada Pension Plan, the Appellant was not an employee of Four Star for the period from May 14, 2008 to May 27, 2009 but was self-employed during this period. In this letter it is stated that:
+…
+These rulings are based on the information obtained and apply only to the period under review.
+[4] There is no further indication of why it was determined that the Appellant was not an employee. The Appellant attempted to determine what information had been obtained. On September 11, 2009 the Appellant sent a fax to the Chief of Appeals, Canada Revenue Agency appealing the ruling referred to above. On September 28, 2009 the Canada Revenue Agency sent a letter to the Appellant indicating that his appeal from the ruling dated June 2, 2009 was not made within 90 days of this ruling and that his request would be kept open for 30 days to allow him to make additional submissions with respect to why his appeal was not filed within the 90 days. As no further correspondence was received from the Appellant, the Canada Revenue Agency closed the file.
+[5] Section 27 of the Canada Pension Plan sets out the right to appeal from a ruling. This section provides as follows:
+27. An appeal to the Minister from a ruling may be made by the Minister of Social Development at any time, and by any other person concerned within 90 days after the person is notified of the ruling.
+[6] Subsection 27.2(3) of the Canada Pension Plan provides that:
+(3) The Minister shall decide the appeal within a reasonable time after receiving it and shall notify the affected persons of the decision in any manner that the Minister considers adequate.
+[7] An appeal from a ruling is to be made to the Minister, not this Court. Once the Minister has notified the person affected by the ruling of the decision of the Minister, the person affected may then choose to appeal such decision of the Minister to this Court. Subsection 28(1) of the Canada Pension Plan provides that:
+28. (1) A person affected by a decision on an appeal to the Minister under section 27 or 27.1, or the person’s representative, may, within 90 days after the decision is communicated to the person, or within any longer time that the Tax Court of Canada on application made to it within 90 days after the expiration of those 90 days allows, appeal from the decision to that Court in accordance with the Tax Court of Canada Act and the applicable rules of court made thereunder.
+[8] A person can only appeal to this Court from a decision of the Minister and the time within which an appeal may be made to this Court commences when the decision of the Minister is communicated to the person. In this case while there has been a ruling that the Appellant was not an employee during the period under review, the Minister has not made any decision in relation to any appeal of this ruling to the Minister. Since there has been no decision of the Minister in relation to the issue of whether the Appellant was an employee during the period under review, there cannot be an appeal to this Court under the Canada Pension Plan in relation to this matter.
+[9] As a result the Appellant’s appeal under the Canada Pension Plan in relation to whether he was an employee of Four Star or an independent contractor during the period from May 14, 2008 to May 27, 2009 is quashed, without costs.
+[10] The Respondent indicated in a letter dated July 12, 2012 that this appeal could be treated as an appeal under the Income Tax Act from the assessment dated July 7, 2009. However it is not at all clear what the Appellant would be appealing under that Act. In an appeal under the Income Tax Act the only issue is the validity of the assessment issued under that Act. If the Appellant is only appealing the determination that he was required to pay the Canada Pension Plan premium based on his status as an independent contractor, an appeal under the Income Tax Act will not assist the Appellant since the liability for that premium is imposed by the Canada Pension Plan not the Income Tax Act.
+[11] The Appellant shall have until August 31, 2012 to amend the Notice of Appeal to identify what the Appellant is appealing in relation to the assessment issued under the Income Tax Act for his liability under that Act. If the Appellant does not amend his Notice of Appeal by August 31, 2012, then the document will be treated only as an appeal under the Canada Pension Plan, which as provided herein, is quashed.
+Signed at Ottawa, Canada, this 23rd day of July, 2012.
+“Wyman W. Webb”
+Webb J.
+CITATION: 2012TCC225
+COURT FILE NO.: 2012-384(CPP)
+STYLE OF CAUSE: RICHARD PATRICK STADNYK AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: London, Ontario
+DATE OF HEARING: May 16, 2012
+REASONS FOR ORDER BY: The Honourable Justice Wyman W. Webb
+DATE OF ORDER: July 23, 2012
+APPEARANCES:
+For the Appellant:
+The Appellant Himself
+Counsel for the Respondent:
+Serena Sial
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

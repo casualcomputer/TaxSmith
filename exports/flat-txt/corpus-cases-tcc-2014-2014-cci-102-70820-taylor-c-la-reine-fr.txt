@@ -1,0 +1,116 @@
+Title: Taylor c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/70820/index.do
+Corpus path: corpus/cases/tcc/2014/2014-cci-102-70820-taylor-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2014-04-01
+
+# Taylor c. La Reine
+
+- Citation: 2014 CCI 102
+- Decision date: 2014-04-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5307, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Taylor c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-04-01
+Référence neutre
+2014 CCI 102
+Numéro de dossier
+2013-395(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-395(IT)I
+ENTRE :
+SARAH TAYLOR,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 10 mars 2014, à Hamilton (Ontario).
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Représentant de l’appelante :
+M. Len Coughlan
+Avocat de l’intimée :
+Me Gregory B. King
+____________________________________________________________________
+JUGEMENT
+La Cour ordonne que l’appel interjeté à l’encontre d’une cotisation établie au titre de la Loi de l’impôt sur le revenu pour l’année d’imposition 2011 soit rejeté. Les parties doivent assumer leurs propres frais.
+Signé à Toronto (Ontario), ce 1er jour d’avril 2014.
+« J.M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 14e jour de mai 2014.
+Espérance Mabushi, M.A. Trad. Jur.
+Référence : 2014 CCI 102
+Date : 20140401
+Dossier : 2013-395(IT)I
+ENTRE :
+SARAH TAYLOR,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] Sarah Taylor a retiré des fonds d’un régime enregistré d’épargne‑retraite (le « REER ») en 2011. Elle soutient que les retraits lui donnent droit au crédit pour pension qui est prévu au paragraphe 118(3) de la Loi de l’impôt sur le revenu (la « Loi »).
+[2] Mme Taylor a commencé à retirer des fonds d’un REER lorsque son époux est décédé en 2008. Aux termes du REER, Mme Taylor avait l’entière discrétion quant au moment et aux montants des retraits.
+[3] Pour réduire au minimum les frais de retrait, Mme Taylor a décidé de retirer des fonds une fois par année. Dans l’année d’imposition pertinente, toutefois, elle a retiré des fonds une deuxième fois afin d’effectuer un paiement d’impôt exceptionnel. Les deux retraits effectués en 2011 sont de 12 500 $ et de 6 250 $.
+[4] Le comptable de Mme Taylor, Len Coughlan, affirme que celle‑ci a droit au crédit pour pension à l’égard des retraits du REER à partir de 2011, lorsqu’elle a atteint 65 ans.
+Analyse
+[5] La question qu’il faut trancher en l’espèce est de savoir si les retraits du REER sont des « versements de rente », comme l’exige la définition de l’expression « revenu de pension » au sous‑alinéa 118(7)a)(ii) de la Loi.
+[6] Dans la Loi, le terme « rente » s’est vu accorder le sens inclusif suivant selon le paragraphe 248(1) de la Loi :
+« rente » Sont compris dans les rentes les sommes payables à intervalles réguliers plus longs ou plus courts qu’une année, en vertu d’un contrat, d’un testament, d’une fiducie ou autrement;
+[7] La Couronne soutient que les paiements faits en faveur de Mme Taylor ne répondent pas à la définition susmentionnée, parce que le REER n’exige pas que les paiements soient faits à intervalles réguliers.
+[8] En revanche, M. Coughlan affirme que les paiements sont faits à intervalles réguliers, parce qu’ils sont effectués d’une manière répétitive suivant les instructions de Mme Taylor.
+[9] À mon avis, c’est la thèse de la Couronne qui est fondée. Les retraits que Mme Taylor a effectués de son REER ne sont pas des paiements de rente, parce qu’il n’est pas obligatoire qu’ils soient faits d’une manière répétitive. Aux termes du régime, Mme Taylor peut exiger que les fonds soient payés au moyen d’une somme forfaitaire.
+[10] Le sens ordinaire du terme « rente » et le sens particulier de ce terme décrit dans la Loi exigent tous les deux que les fonds du REER soient payés à intervalles.
+[11] À cet égard, le Canadian Oxford Dictionary (éd. 2004) définit le terme « rente » de la manière suivante :
+[traduction]
+1 allocation ou subvention annuelle. 2 placement d’argent qui donne à l’investisseur le droit de recevoir une série de sommes annuelles égales. 3 somme payable à l’égard d’une année en particulier.
+[12] L’autre sens du terme « rente », pour l’application de la Loi, exige simplement que les sommes soient payables à intervalles réguliers plus longs ou plus courts qu’une année.
+[13] L’expression « payables à intervalles réguliers » a été interprétée comme étant une obligation de payer qui revient à intervalles : arrêt Tossell c. Canada, 2005 CAF 223, au paragraphe 31. Même si cet arrêt concernait l’interprétation de l’expression en question dans le contexte de dispositions relatives à la pension alimentaire, cette interprétation devrait être valable en l’espèce.
+[14] Aux termes du REER dont il est question en l’espèce, les paiements devaient être faits à Mme Taylor à sa discrétion. Il n’y avait pas d’obligation de faire des paiements d’une manière répétitive, et Mme Taylor aurait pu exiger que tous les fonds du REER lui soient payés au moyen d’une somme forfaitaire.
+[15] M. Coughlan avance que le terme « rente » devrait recevoir une interprétation large en l’espèce, où il est question d’allègement fiscal pour des pensionnés. Il soutient aussi que la définition du terme « rente » dans la Loi est suffisamment large pour que le terme trouve application lorsque l’administrateur du REER est obligé par le détenteur du REER d’effectuer des paiements à intervalles. Selon ce que j’ai compris, M. Coughlan estime que le terme « autrement » qui se trouve dans l’expression « payables […] en vertu d’un contrat, d’un testament, d’une fiducie ou autrement » est assez large pour englober une instruction donnée par le détenteur d’un REER.
+[16] Je ne puis souscrire à cette interprétation. Si le législateur avait l’intention de faire en sorte que des retraits périodiques d’un REER faits à la discrétion du détenteur donnent droit au crédit pour pension, il l’aurait dit directement. L’objectif de la loi n’est pas aussi large que M. Coughlan le laisse entendre.
+[17] La situation de Mme Taylor suscite de la compassion. Toutefois, je conclus que les retraits qu’elle a effectués ne sont pas des paiements de rente, et qu’ils ne lui donnent pas droit au crédit pour pension. L’appel sera rejeté.
+Signé à Toronto (Ontario), ce 1er jour d’avril 2014.
+« J.M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 14e jour de mai 2014.
+Espérance Mabushi, M.A. Trad. Jur.
+RÉFÉRENCE : 2014 CCI 102
+No DU DOSSIER DE LA COUR : 2013-395(IT)I
+INTITULÉ : SARAH TAYLOR c.
+LA REINE
+LIEU DE L’AUDIENCE : Hamilton (Ontario)
+DATE DE L’AUDIENCE : Le 10 mars 2014
+MOTIFS DU JUGEMENT : L’honorable juge J.M. Woods
+DATE DU JUGEMENT : Le 1er avril 2014
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Len Coughlan
+Avocat de l’intimée :
+Me Gregory B. King
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Ontario)

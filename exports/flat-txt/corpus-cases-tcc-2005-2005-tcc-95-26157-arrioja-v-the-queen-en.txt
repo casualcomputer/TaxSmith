@@ -1,0 +1,206 @@
+Title: Arrioja v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26157/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-95-26157-arrioja-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-02-18
+
+# Arrioja v. The Queen
+
+- Citation: 2005 TCC 95
+- Decision date: 2005-02-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3955, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Arrioja v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-02-18
+Neutral citation
+2005 TCC 95
+File numbers
+2004-2978(IT)I
+Judges and Taxing Officers
+Terrence O'Connor
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-2978(IT)I
+BETWEEN:
+AURORA MARTHA ARRIOJA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on January 24, 2005 at Ottawa, Canada
+Before: The Honourable Justice T. O'Connor
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Rosemary Fincham
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2002 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada this 18th day of February, 2005.
+"T. O'Connor"
+O'Connor, J.
+Citation:2005TCC95
+Date: 20050218
+Docket: 2004-2978(IT)I
+BETWEEN:
+AURORA MARTHA ARRIOJA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+O'Connor, J.
+[1] This appeal was heard at Ottawa, Ontario on January 24, 2005. The Appellant represented herself. The Appellant called no witnesses other than herself. Counsel for the Respondent called David Young, a litigation officer with the Canada Revenue Agency and Maxwell Hollins, Manager of the National Examining Board.
+[2] The issue is whether in the 2002 taxation year the Appellant is entitled under section 118.5 of the Income Tax Act ("Act") to a non-refundable tuition tax credit in respect of fees totalling $9,095.00 paid to the National Examining Board, ("NEB") a constituted board of the Canada Veterinary Medical Association ("CVMA") in respect of certain examinations, the passing of which is a prerequisite to obtaining a license from a licensing authority of a province of Canada to practice veterinary medicine in that province. If the Appellant is so entitled she would be able to reduce her 2002 federal taxes by an amount, based on a formula, which for that year was 16% of the fees paid ($9,095.00), therefore $1,455.20.
+[3] The basic facts are as follows. The Appellant works as a veterinarian at Health Canada.
+...
+5. She completed her studies in Mexico during the years 1979 to 1983 and obtained the degree of Doctorate in Veterinary Medicine.
+6. In 1989, she moved to England to further her studies and obtained the degree of Masters of Science in 1990.
+7. She later on moved to Canada to live and find employment.
+...
+She became a Canadian citizen. To practice veterinary medicine she had to pass the examinations referred to above. To take these examinations she paid a total of $9,095. This amount related to what may be referred to as the practical part of the examinations, referred to as the Clinical Proficiency Examination. Although not critical to a determination of the issue in question, but for purposes of completion, the examination process is described in Respondent's Counsel's Written Submissions as follows:
+...
+7. In order to obtain a licence in any province in Canada, a candidate must pass an examination to ensure that he or she has the requisite knowledge and skills of veterinary medicine in a North American context. This examination is administered by the National Examining Board, which is a duly constituted board of the CVMA. The CVMA is the national body responsible for the veterinary profession in Canada.
+8. The NEB Examination is a two-part process measuring entry-level competence in the theory and practice of veterinary medicine:
+a. Part I is the NAVLE, a computer-administered written examination of 360 questions that tests the candidate's knowledge of veterinary medicine;
+b. Part II is the Clinical Proficiency Examination (CPE), which is a practical 'hands-on' examination of the candidate's medical and surgical skills consisting of seven sections of study.
+9. The purpose of the Examination is to determine the competency of a candidate who intends to pursue a license in any province of Canada.
+10. The CVMA, through the NEB, and the American Veterinary Medical Association review colleges of veterinary medicine for the purpose of accrediting these institutions where they satisfy North American Standards. There are 4 accredited colleges in Canada, 28 in the United States, and 6 outside North America.
+11. Students from accredited colleges are required to write the NAVLE. Should any student from an accredited college fail the examination twice, he or she must also pass the CPE. Candidates from non-accredited veterinary programs are required to pass both the NAVLE and the CPE in order to ensure that they possess both the knowledge and skills required by the CVMA.
+12. Fees for the examination are paid directly by each candidate to the NEB. The NEB does not issue an Education Amount Certification (T2202) or a Tuition and Education Amount Certificate (T2202A) because it does not provide post-secondary level courses and therefore does not consider itself to be an educational institution.
+13. ... NEB offer courses at the post-secondary school level. ....
+14. In 2002, the fees for the CPE examination were $5885.00, including GST. Candidates who failed a section of the examination could retake that section for an additional fee of $1070 per section, including GST.
+[4] The Appellant was required to retake three sections of the examination for an additional amount of $3,210, which added to the $5,885 totals $9,095.
+Appellant's Submissions
+[5] The Appellant submits the following in her Notice of Appeal as Amended by Appellant's Answer and by an Appendix 1 entitled "Amendments to Notice of Appeal".
+...
+E. STATUTORY PROVISIONS ...
+13. The Appellant relies, inter alia, upon section 118.5(1) of the ITA.
+F. REASONS UPON WHICH THE APPELLANT INTENDS TO RELY
+14. According to section 118.5 of the ITA, individuals are allowed to claim the initiation, entrance, or examination fees paid to a professional association in the following circumstances:
+a) when the individual was enrolled in an educational institution in Canada, or
+b) when the individual was, during the year, a student in full-time attendance at a university outside Canada, in a course leading to a degree, or
+...
+15. The above circumstances include the vast majority of Canadian students and graduates, either citizens or residents. Such individuals are allowed to compute as "Tuition fees", the entrance or initiation fees paid to professional associations as "ancillary fees and charges", because these fees are deemed or are interpreted by the CRA as being paid in respect of the individual's enrolment at the foresaid educational institution.
+16. [DELETED]
+17. (From Appendix I) The CRA publication IT - 158R2 advises that:
+"Dues paid by students before becoming members of a professional organization, may qualify as tuition fees ... or in computing a tuition tax credit under section 118.5"
+18. As things are at the present, the conditional "may" above becomes applicable to all Canadian students or graduates, either citizens or residents, who enrolled full or part time in post-secondary programs in Canada or abroad after the citizenship or residence status had been established, either by birth or naturalization.
+19. In contract, Section 8.1(i)(i) of the ITA prevents an individual from deducting fees necessary to acquire a professional status recognized by statute. That is the case of fees paid to obtain the Certificate of Qualification required by the provincial Regulations 1093, or Veterinarian's Act to obtain a general practitioner licence.
+20. The deduction of such expenses incurred as examination fees paid to professional boards is excluded by this section by limiting the dues and expenses allowed to annual professional membership dues necessary to maintain a professional status.
+21. From the above it is clear that:
+f) Canadian students can claim the initiation fees to enter the profession (e.g. the National Board Examination fees for Veterinarians), under the Tuition Fee credit provision of section 118.5, whereas, individuals who graduated prior to acquiring citizenship or resident status are not being allowed to claim the initiation fees to enter the profession. Neither under section 118.5, section 8.1.(I) nor under any provision of the ITA.
+g) Also, students who enrolled in post-secondary studies prior to acquiring citizenship or resident status, are mostly immigrants, or foreign trained professionals.
+h) [DELETED]
+22. In my view, this interpretation of the ITA creates a double-standard [.....] nationality or ethnical origin.
+IN CONCLUSION
+23. It is my perception that the Canadian Revenue Agency's interpretation policy of Section 118.5, in conjunction with Section 8(i)(i) were conceived with the deliberate intention to deprive foreign trained professionals of the benefit of a tax credit or deduction.
+[6] The Appellant refers to Interpretation Bulletin IT-516R2 and IT-158R2 and as part of her "Answer" submits financial calculations related to government costs of education, savings to taxpayers resulting from the tax credit claimed and the excellent contributions of veterinarians and the need for same and other issues related to the constitutional issue.
+Respondent's Submissions
+PART III - SUBMISSIONS
+SCHEME OF THE ACT
+18. In order to qualify for a tuition credit pursuant to s. 118.5, the Appellant must satisfy the following criteria:
+a. she must be a student enrolled at an educational institution;
+b. the educational institution must be a university, college or other educational institution providing courses at a post-secondary level;
+c. the fees must be paid for tuition to the institution.
+19. Subsection 118.5(3) includes in fees for an individual's tuition any ancillary fees and charges that are paid to the educational institution and that are in respect of the individual's enrolment in a program at a post-secondary school level.
+A. Examination Fees Paid to a Professional Board are not Tuition Paid to an Educational Institution
+20. Nothing in s. 118.5 entitled an individual to a tuition credit for fees paid in respect of a certification examination to an entity other than a university, college or other educational institution within the meaning of the Act.
+21. The term "educational institution" is not defined within the Act. However, this Court has previously considered the following definitions in defining this term:
+A school, seminary, college, university, or other educational establishment, not necessarily a chartered institution. As used in zoning ordinance, the term may include not only buildings, but also all grounds necessary for the accomplishment of the full scope of educational instruction, including those things essential to mental, moral, and physical development.
+Black's Law Dictionary
+1. An institution of learning that offers courses at a post-secondary level. 2. A technical or vocational school, a university, college or other school of higher education.
+The Dictionary of Canadian Law.
+22. The Oxford English Dictionary defines "tuition" as the "the action or business of teaching a pupil or pupils; the function of a tutor or instructor; teaching, instruction". Consequently, tuition fees are those paid in relation to tuition.
+23. The fees paid by the Appellant were not tuition fees paid to an educational institution for teaching or instruction. Neither the NEB nor the CVMA is an educational institution that offers courses at the post-secondary level. Rather, the NEB is a Board that offers an accreditation program that is a prerequisite for any person seeking to obtain a licence to practice veterinary medicine in any province of Canada.
+24. Further, the examination fees are not ancillary fees as they do not meet the following requirements of paras. 118.5(3)(a) and (b):
+a. the examination fees are not paid to an educational institution as described in subpara. 118.5(1)(a)(i); and further
+b. the examination fees are not in respect of the individual's enrolment at the institution in a program at a post-secondary school level.
+25. In a similar situation, this Court concluded that fees paid to an entity whose mandate was to certify that a candidate's legal knowledge and training met Canadian standards were not eligible for the tuition credit. In so concluding, the Court adopted the Canada Custom and Revenue Agency's interpretation of s. 118.5 as it relates to fees paid for accreditation (as expressed in a Technical Interpretation):
+It is Revenue Canada's view that examination fees would qualify as tuition fees only where the fees were incurred as part of a course of study. ...
+26. The Appellant's claim in respect of the fees paid to the NEB for her certification examination must fail for each of the following three reasons:
+a. during the 2002 taxation year, the Appellant was not a student enrolled at a university, college or other educational institution that provided courses at a post-secondary school level;
+b. the fees were not paid in respect of tuition; and
+c. the fees were not paid to an educational institution.
+B. No Jurisdiction to Vacate a Valid Assessment of Tax
+27. In the event that this Court finds that the examination fees paid to the NEB do not fall within the scope of section 118.5 of the Act, the appeal must be dismissed. This Court does not have the authority to vacate an assessment that is otherwise found to be correct in law simply on the basis of an allegation that others are treated differently.
+28. This is an appeal from an assessment of tax established pursuant to subsection 152(1) of the Act. The issue under appeal is the Minister's assessment of tax. In determining whether the assessment is correct in law, this Court is bound to examine the question in light of the relevant provisions of the Act.
+29. The Appellant seeks to have her assessment vacated on the ground that it was improperly arrived at by the CCRA, not on the basis that it was inconsistent with the provisions of the Act, but rather on the basis of fairness. In support of her submission she alleges that the CCRA's interpretation of the provision entitled Canadian students to the tuition credit in respect of the examination fee paid to NEB.
+30. The Federal Court of Appeal has found that it was plain and obvious that the Tax Court of Canada did not have jurisdiction to set aside a valid assessment of tax on the basis of a challenge to the process by which it was established, or on the basis of how other taxpayers are treated.
+31. In the case at bar, the Appellant is proposing to extend the jurisdiction of this Court by seeking an order varying her assessment of tax notwithstanding that it is correct in fact and in law. The right of appeal is a substantive right which must not be extended beyond the purpose for which it was conferred. Parliament has given this Court specific jurisdiction to deal with the correctness of a tax assessment and its remedial powers are as set out in subsection 171(1) of the Act. It cannot take into account how other taxpayers were treated.
+C.S. 15 Threshold is Not Met
+32. That Parliament has not created a non-refundable credit for examination fees paid to an accreditation board in pursuit of entry into a profession does not infringe the Appellant's equality rights as guaranteed by the Charter.
+33. Subsection 15(1) of the Charter reads as follows:
+(1) Every individual is equal before and under the law and has the right to the equal protection and equal benefit of the law without discrimination and, in particular, without discrimination based on race, national or ethnic origin, colour, religion, sex, age or mental or physical disability.
+34. Section 15(1) is limited to claims to benefits and burdens imposed by the law. The legislature does not have an obligation to create a particular benefit but may "target the social programs it wishes to fund as a matter of public policy, provided the benefit itself is not conferred in a discriminatory manner".
+35. The Act does not purport to provide non-refundable tax credits for every expense incurred by a taxpayer. The purpose of s. 118.5 is to allow students to reduce their tax payable by taking into account tuition fees for certain types of education. Parliament has no obligation to create a similar credit in respect of examination fees paid as part of an accreditation program for entry into a profession.
+No Violation of the Appellant's Equality Rights
+36. In the event that the Court determines that the Appellant can advance a s. 15 claim, such claim cannot succeed as s. 118.5 of the Act does not impose a differential treatment between the Appellant and others based on an enumerated or analogous ground.
+37. Section 15 of the Charter is not intended to protect individuals from all types of differential treatment, only from those that are discriminatory. Before this Court can find discrimination, the Appellant must prove the following three conditions exist:
+(i) that the law imposes a differential treatment between her and others, in purpose or effect;
+(ii) that one or more enumerated or analogous grounds of discrimination are the basis for the differential treatment; and
+(iii) that the treatment constitutes discrimination in a substantive sense, having the effect of treating the claimant as less worthy of concern, respect and consideration in a manner that offends her human dignity.
+38. In considering a Charter challenge to the Act, the courts must be sensitive to the general purpose of the Act which is to generate revenues and to make distinctions as to reconcile the divergent interests in society.
+Analysis and Conclusion
+[7] The relevant sections of the Act, so far as material, are as follows:
+Section 8: Deductions allowed:
+(1) In computing a taxpayer's income for a taxation year from an office or employment, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+...
+(i) Dues and other expenses of performing duties - amounts paid by the taxpayer in the year as
+(i) annual professional membership dues the payment of which was necessary to maintain a professional status recognized by statute,
+...
+Section 118.5: Tuition credit:
+(1) For the purpose of computing the tax payable under this Part by an individual for a taxation year, there may be deducted,
+(a) where the individual was during the year a student enrolled at an educational institution in Canada that is
+(i) a university, college or other educational institution providing courses at a post-secondary school level, or
+[...]
+an amount equal to the product obtained when the appropriate percentage for the year is multiplied by the amount of any fees for the individual's tuition paid in respect of the year to the educational institution if the total of those fees exceeds $100, except to the extent that those fees (certain exceptions follow)
+[8] The Written Submissions of counsel for the Respondent are correct both as to the correct interpretation of section 118.5 and the Charter.
+[9] The Appellant has submitted that she should be allowed to deduct the amount of $9,095 as fees paid for tuition. She has not submitted that they should be deductible under subparagraph 8(1)(i)(i) since these are not annual professional membership fees. Alternatively, she submits that if she is not allowed to deduct the fees under section 118.5, that her section 15 Charter right is violated on the basis that students enrolled in a Canadian university can deduct the said fees.
+[10] The conclusion she has drawn from the Interpretation Bulletins quoted in her Notice of Appeal, mainly that students can deduct the fees she has paid as a part of their tuition, is incorrect. The fees that the Interpretation Bulletin refers to are annual professional fees, which are normally deductible under subparagraph 8(1)(i)(i), but which cannot be deducted by students since they are not yet employed in the profession. Professional fees that are not annual are never deductible. Further, those fees are not a part of the tuition credit under section 118.5 by virtue of the Act, rather they are treated as a part of the fee by the Canada Revenue Agency when it assess taxpayers. For this reason the Appellant's appeal must be dismissed, unless it can be found that the fees were eligible under section 118.5.
+[11] Under section 118.5 the Appellant can only deduct fees that were paid to "a university, college or other educational institution providing courses at a post secondary school level" in Canada. The Respondent has submitted that neither the NEB nor the CVMA fall within this category.
+[12] In Friedland v. R., [2000] 1 C.T.C. 2938, Rowe D.J. was presented with a similar case. The Appellant was a lawyer from South Africa who moved to BC in 1993. To qualify to practice law he had the option of returning to law school, or taking a series of examinations through the National Committee on Accreditation. After passing the exams, or completing a year of law school, he would be allowed to find an article and enrol in the Bar Admissions Course. The Appellant chose the first option and claimed related tuition fees. These fees were disallowed and he appealed to the Tax Court. Upon appeal Rowe D.J. stated the legal test as:
+There are three prerequisites that must be established before the appellant is entitled to a tuition credit pursuant to subparagraph 118.5(1)(a)(ii). First, the individual must be a student enrolled at an educational institution in Canada. Second, that educational institution must be a university, college or other educational institution. Third, it must provide courses at a post-secondary school level.
+The first matter to be addressed is whether the National Committee on Accreditation is an educational institution. There does not appear to be any standard definition of educational institution in various federal and provincial acts dealing with schools, student loans and education.
+[13] From here he examined numerous definitions of "education", "institution" and "educational institution" before deciding that the National Committee on Accreditation did not qualify because it did not consider itself as a teaching institute nor was it a "designated educational institute". Rowe D.J. continued in his analysis and found that no post-secondary courses were being offered. For these reasons he dismissed the appeal finding that the Appellant only paid for "the process of assessment, evaluation, recommendation relating to the required courses, suggested study materials, setting and marking the examinations."
+[14] For the reasons set forth in those Written Submissions and the other reasons set forth above the appeal is dismissed.
+Signed at Ottawa, Canada this 18th day of February, 2005.
+"T. O'Connor"
+O'Connor, J.
+CITATION:
+2005TCC95
+COURT FILE NO.:
+2004-2978(IT)I
+STYLE OF CAUSE:
+Aurora Martha Arrioja
+PLACE OF HEARING:
+Ottawa, Canada
+DATE OF HEARING:
+January 24, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice T. O'Connor
+DATE OF JUDGMENT:
+February 18, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Rosemary Fincham
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

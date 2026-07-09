@@ -1,0 +1,221 @@
+Title: Zaki v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30096/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-606-30096-zaki-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-11-29
+
+# Zaki v. The Queen
+
+- Citation: 2010 TCC 606
+- Decision date: 2010-11-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7652, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Zaki v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-11-29
+Neutral citation
+2010 TCC 606
+File numbers
+2010-763(IT)I
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-763(IT)I
+BETWEEN:
+ADEL ZAKI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeal of 1465076 Ontario Inc. (2010-764(IT)I), on August 26, 2010, at Toronto, Ontario.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Agent for the Appellant:
+Rafat Alam
+Counsel for the Respondent:
+Jasmeen Mann
+Samantha Hurst
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2002 taxation year is allowed and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached reasons for judgment.
+The appeal from the reassessment made under the Income Tax Act for the 2003 taxation year is dismissed.
+In light of the split results no costs are awarded.
+Signed at Ottawa, Canada, this 29th day of November 2010.
+"Robert J. Hogan"
+Hogan J.
+Docket: 2010-764(IT)I
+BETWEEN:
+1465076 ONTARIO INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeal of Adel Zaki (2010‑763(IT)I), on August 26, 2010, at Toronto, Ontario.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Agent for the Appellant:
+Rafat Alam
+Counsel for the Respondent:
+Jasmeen Mann
+Samantha Hurst
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act for the 2002 and 2003 taxation years is allowed, without costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 29th day of November 2010.
+"Robert J. Hogan"
+Hogan J.
+Citation: 2010 TCC 606
+Date: 20101129
+Docket: 2010-763(IT)I
+BETWEEN:
+ADEL ZAKI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+AND
+Docket: 2010-764(IT)I
+BETWEEN:
+1465076 ONTARIO INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Hogan J.
+[1] The Minister of National Revenue (the “Minister”) has increased the income tax liability of 1465076 Ontario Inc. (the “Corporation”) and Adel Zaki (“Mr. Zaki”), the sole shareholder of the Corporation as follows:
+2002
+2003
+The Corporation
+Unreported income
+$54,766
+$16,071
+Gross negligence penalties
+$2,642
+$1,224
+Adel Zaki
+Unreported income
+$41,122
+$2,285
+Gross negligence penalties
+$6,051
+Nil
+[2] The audit of the Appellants was commenced by Antonio Cudini, an auditor employed with the Canada Revenue Agency (the “CRA”). Mr. Cudini ceased working for the CRA towards the end of the audit. Mr. Walker took over the audit of the Appellants and he relied on the working papers and net worth calculations of Mr. Cudini to prepare the reassessments.
+[3] Mr. Zaki alleges that the Minister’s net worth assessments are flawed because the Minister failed to take into account his substantial investment in the Corporation. According to Mr. Zaki, the shareholder’s advance was made from assets that Mr. Zaki owned in the 2000 taxation year which was the base year or starting point of the Minister’s net worth analysis. The appeals were heard on common evidence.
+[4] The issues to be decided in these appeals are as follows:
+1. Are the taxpayers liable for the additional income tax determined by the Minister on the basis of the net worth assessments?
+2. Are the taxpayers liable, under subsection 163(2) of the Income Tax Act (Canada) (the “ITA”), to penalties for the 2002 and 2003 taxation years?
+[5] Mr. Zaki was the only person to testify for the taxpayers. He alleges that he created the Corporation in early 2001 to operate a convenience store under the business name “J & M Convenience & Dollar Store”.
+[6] The business sold food products and sundry goods. According to the witness, the Corporation leased the premises to operate the convenience store in February of 2001. Mr. Zaki claims he renovated the premises and installed shelving for the goods from February to May 2001. The store opened in late May or early June 2001.
+[7] Mr. Cudini was not available to testify at trial. Mr. Walker, who took over the audit from Mr. Cudini, explained that the latter used a consolidated net worth approach to determine the amount of the Appellant’s unreported income. Mr. Walker understood that Mr. Cudini followed that approach because he assumed that the Corporation had failed to report all of its cash sales and that Mr. Zaki appropriated the Corporation’s unreported revenue for his benefit. The unreported gross revenue for each year was determined to be equal to the increase in the consolidated net worth of both taxpayers over the relevant period plus Mr. Zaki’s family personal living expenses minus the income reported by Mr. Zaki and his wife.
+[8] The Appellants allege that Mr. Cudini overstated their gross revenue by failing to account for assets owned by Mr. Zaki in the 2000 base year used to calculate the increase in the taxpayer’s net worth in the 2002 and 2003 taxation years. These assets were included in the consolidated net worth statement for the two subsequent years, resulting in an artificial increase in the taxpayer’s net worth for the 2002 taxation year.
+[9] Mr. Zaki claims that he transferred $45,000 worth of assets to the Corporation in 2001 to finance their operations which included the costs of the renovations and working capital. The documentary evidence offered by Mr. Zaki at trial corroborates his testimony. The bank statement of the Corporation shows that they received deposits of $30,000 on March 20, 2001. Mr. Zaki alleges that $10,000 came from his personal line of credit, a $10,000 from the redemption of a guaranteed investment certificate (“GIC”) and $10,000 received from Mr. Zaki’s family living overseas.
+[10] Mr. Zaki also showed that he transferred a car to the Corporation to make up the balance of his shareholder’s advance. That car was purchased for $10,000 in 2000 but was omitted as an asset in the base year calculation.
+[11] The evidence shows that Mr. Cudini believed that the car was acquired by Mr. Zaki in 2002 and as a result he failed to account for it in the 2000 base year calculations.
+[12] The evidence also shows that Mr. Cudini was unaware of the fact that Mr. Zaki had funds invested in a GIC in 2000 and that the GIC was redeemed and the proceeds were invested in the business in 2002.
+[13] Michael Walker was the only witness to appear for the CRA. He admitted that Mr. Zaki’s and the Corporation’s undeclared income for the 2002 taxation year was overstated by $20,000 because Mr. Cudini had failed to account for the car and the GIC in the combined statement prepared for the 2000 base year. His testimony on these two items is as follows:
+JUSTICE HOGAN: I just want a clarification of investment in corporation. You have listened to the evidence given about this car which was apparently, according to the documentary evidence put before me, was purchased in 2000, I believe. Is it in the assets? I am assuming it is in the investment in corporation, but it is not in the opening net worth calculation.
+THE WITNESS: That is correct, your honour. It is in the corporation's assets. But we were not aware of the car at the time of the audit.
+JUSTICE HOGAN: Now that you are aware of it, do you believe there is an adjustment that should be made?
+THE WITNESS: I would think it would have to be put into the personal assets of base year, your honour.
+JUSTICE HOGAN: So that means there is an overstatement, if I understand your calculations, by $10,000 vis-à-vis that item.
+THE WITNESS: Based on that, I would say, yes, you are correct. Unless you are accounting for it in the investment in corporation, your honour.
+JUSTICE HOGAN: In other words, you can't have it in at one period, when it was purchased at an earlier period. There has to be a consistent picture throughout the period.
+THE WITNESS: That is correct.
+JUSTICE HOGAN: I just wanted a clarification on that point. Continue counsel.
+MS. MANN: Thank you, your honour.
+Q. I noticed under the February 28, 2001 column you have the bank accounts for the base year for the corporation, but they are empty. Why is that?
+A. Because I did not have the schedule or the bank statements to fill in that information. When Tony Cudini did the schedule, originally he used December 31, 2001 as the base year so no figures were entered prior to that.
+JUSTICE HOGAN: Sir, I am going to ask for a point in clarification. We are coming to the bank statements. If the individual has a GIC for $10,000 in 2000, shouldn't he get credit for that?
+THE WITNESS: Yes, your honour, he should.
+JUSTICE HOGAN: That would be the second adjustment.
+THE WITNESS: But he has to tell us he has that.
+JUSTICE HOGAN: It is not a critique, but based on this you have presumably looked at this statement by now?
+THE WITNESS: I have seen it by now. Yes, your honour.
+JUSTICE HOGAN: I just wanted to clarify that point. Continue counsel.
+MS. MANN:
+Q. Just on the GIC, did you find anything in Antonio's notes about the GIC bank account?
+A. No. I did not.[1]
+[14] On the basis of the method of calculation set out in paragraph 10 of the Respondent’s Reply to the Corporation’s notice of appeal, the Corporation’s net income for the 2002 taxation year, after adjustment for the two items described above is as follows:
+2002
+February 26, 2008 reassessment $64,771
+December 14, 2009 reassessment ($10,005)
+Further adjustment ($20,000)
+Total reported net loss ($24,497)
+Total undeclared revised net income $10,269
+[15] Mr. Zaki’s revised undeclared net income for the 2002 taxation year is $21,222.15 when are taken into account the adjustments allowed above.
+[16] Subsection 163(2) of the ITA provides that penalties may be imposed when a person “knowingly or under circumstances amounting to gross negligence” makes, or is otherwise involved in the making of “a false statement or omission” in a tax return. “Knowingly” as used in the context of subsection 163(2) is generally interpreted to mean that the taxpayer knew or ought to have known that the amount of the tax determined in the return that he or she filed was less than the amount payable. “Gross negligence” used in the same context covers a set of facts that, on a balance of probabilities, shows that the taxpayer has acted extremely carelessly or with gross indifference in preparing or providing the information used to prepare his or her tax return. The burden of proving the facts that warrant the imposition of penalties in the instant case is on the Minister.
+[17] The Respondent has offered very little direct evidence on the Appellants’ conduct that would warrant the imposition of penalties in the instant case. In his testimony, Mr. Walker relied extensively on the records of the work done by Mr. Cudini, the auditor who preceded him in the file and actually conducted the net worth audit that led to the reassessments. Mr. Cudini’s records were not offered into direct evidence.
+[18] At trial, I pointed out to the Respondent’s counsel that Mr. Walker’s testimony of what was in the audit file was hearsay and requested the Respondent to submit, in writing, her arguments as to the admissibility of Mr. Walker’s testimony based on Mr. Cudini’s audit notes prior to Mr. Walker’s involvement with the audit of the Appellants. In her written submission, the Respondent alleges that Mr. Walker’s testimony was admissible under the Canada Evidence Act, R.S.C. 1985, c. C‑5 (the “CEA”) under the rules and principles applicable to informal appeals and/or pursuant to the common law.
+[19] The Respondent’s first argument is based on the exception relating to business records found in subsection 30(1) of the CEA, which provides as follows:
+(1) Where oral evidence in respect of a matter would be admissible in a legal proceeding, a record made in the usual and ordinary course of business that contains information in respect of that matter is admissible in evidence under this section in the legal proceeding on production of the record.
+[20] The definitions of “record” and “business” in subsection 30(12) of the CEA are both quite broad:
+(12) In this section,
+“business” means any business, profession, trade, calling, manufacture or undertaking of any kind carried on in Canada or elsewhere whether for profit or otherwise, including any activity or operation carried on or performed in Canada or elsewhere by any government, by any department, branch, board, commission or agency of any government, by any court or other tribunal or by any other body or authority performing a function of government;
+. . .
+“record” includes the whole or any part of any book, document, paper, card, tape or other thing on or in which information is written, recorded, stored or reproduced, and, except for the purposes of subsections (3) and (4), an copy or transcript admitted in evidence under this section pursuant to subsection (3) or (4).
+[21] However, in spite of the breadth of “business”, Heneghan J. ruled that a visa officer’s notes should not be considered records made in the ordinary course of business in Walia v. Canada (Minister of Citizenship and Immigration):[2]
+9 I reject the argument of the Respondent that the CAIPs notes can be accepted as evidence as business records, pursuant to the Canada Evidence Act, R.S.C. 1985, C‑5, as amended, section 30. In my opinion, the making of notes during an interview by a visa officer is not “a record made in the usual and ordinary course of business” contemplated by section 30(1) of the Canada Evidence Act, supra.
+10 A visa officer can be called upon to act as a decision‑maker. That role requires the exercise of the discretion granted by the Immigration Act, R.S.C. 1985, c. I‑2, as amended. The discharge of the decision‑making function is not a “business” contemplated by section 30(1) of the Canada Evidence Act, supra.
+[Emphasis added.]
+[22] The scheme of section 30 of the CEA requires that notice be given and that the business record be available to be examined, unless a court orders otherwise. Having respected those formalities, a party is entitled to introduce the business record into evidence, but should not rely solely on the testimony of a witness who has examined the record. Martin J.A. made the following comments in R. v. Garofoli (Ont. C.A.): [3]
+. . . even if Mr. McGarry personally examined the customs records his testimony would seem, strictly speaking, to be hearsay. In R. v. Patel (1981), 73 Cr. App. R. 117 (C.A.), where the issue was whether a certain person was an illegal immigrant, it was held to be hearsay for an immigration officer to testify that he had examined the Home office records which showed that the person in question was not entitled to a certificate of registration in the United Kingdom and was an illegal immigrant. I am disposed to think that the proper way in which to prove that cars were not imported by the appellant during the relevant period was by the production of the customs records under s. 30 of the Canada Evidence Act giving rise to the inference under s. 30(2) of the Act of the non‑occurrence of the importation from the fact that there was no entry of it in the records.
+[Emphasis added.]
+[23] In this case, the Respondent seeks to rely on Mr. Walker’s testimony on the basis that he examined Mr. Cudini’s audit notes. Even assuming arguendo that Mr. Cudini’s notes are indeed admissible under subsection 30(1) of the CEA, the proper approach would have been to provide notice under subsection 30(7), and then to use the notes themselves as evidence.
+[24] Finally, I note that subsection 30(6) of the CEA allows the trial judge to look at the circumstances in which the record was made and to draw any reasonable inference from those circumstances, either for the purpose of admitting the evidence or of determining its weight:
+For the purpose of determining whether any provision of this section applies, or for the purpose of determining the probative value, if any, to be given to information contained in any record admitted in evidence under this section, the court may, on production of any record, examine the record, admit any evidence in respect thereof given orally or by affidavit including evidence as to the circumstances in which the information contained in the record was written, recorded, stored or reproduced, and draw any reasonable inference from the form or content of the record.
+[25] In addition, subparagraph 30(10)(a)(i) excludes records of an investigation from admissibility under the CEA’s business records exception:
+Nothing in this section renders admissible in evidence in any legal proceeding
+(a) such part of any record as is proved to be
+(i) a record made in the course of an investigation or inquiry,
+[26] The vast majority of cases which interpret the exclusion of investigation records are criminal cases, and so there is usually no question that an investigation took place. For example, in R. v. Laverty, the Ontario Court of Appeal held that the notes of a investigator from the fire marshal’s office fall under subparagraph 30(10)(a)(i).[4] Similarly, logs kept by police officers monitoring intercepted communications are inadmissible.[5]
+[27] In Performing Rights Organization of Canada Ltd. v. Lion d’or (1989) Ltee,[6] the Federal Court ruled that an “investigation or inquiry” included a corporation’s investigation into possible copyright infringement. In that case, the investigation consisted of three visits to a cabaret made by one of the corporation’s employees. In each case, the employee recorded one or two hours worth of music, and sent the tapes back to the plaintiff’s head office in Toronto to be analysed for instances of copyright infringement. The records that the plaintiff attempted to adduce at trial, and which were excluded by Strayer J. on the basis of paragraph 30(10)(a), were the lists of songs found on the tapes.
+[28] In R. v. Moman, a taxpayer was convicted of one count of tax evasion and one count of failing to remit GST.[7] At trial, the judge allowed the prosecution to adduce records that the CRA had seized from the taxpayer, as well as calculations performed by a CRA employee who did not testify. On appeal, the Manitoba Court of Queen’s Bench held that admitting the calculations as a business record was an error of law because, under paragraph 30(10)(a), records made in the course of an investigation are not admissible as business records.
+[29] The Crown cited two cases, R. v. Jarvis[8] and R. v. Ling,[9] which deal with the distinction between an audit and an investigation. However, the distinction was made in those cases in order to determine when the issue of protections under the Canadian Charter of Rights and Freedoms (the “Charter”) against self‑incrimination and unreasonable search and seizure is raised. Those cases did not bear on the scope of application of the exception for business records under the CEA and do not offer guidance in this case.
+[30] In deciding when the Charter protections should attach to a CRA audit/investigation, the Supreme Court has had to balance the powers that the CRA needs to monitor our self‑reporting taxation system against the protections from self-incrimination and from unreasonable search and seizure that the Charter guarantees to an accused in criminal proceedings. Given that context, I can see no reason to believe that the same line should be drawn for the purpose of admitting or excluding hearsay evidence under section 30 of the CEA, which applies not only to criminal cases, but also to civil cases under federal jurisdiction.
+[31] In explaining the rationale of the exclusions in subsection 30(10) of the CEA, Strayer J. wrote in Lion d’or:
+. . . As I understand the rationale of subsection 30(10) of the Canada Evidence Act, it is to exclude records which have as their very purpose the preparation for enforcement action through litigation, and this because of the danger that such records may be somewhat coloured for the purposes of litigation and therefore unreliable. Put another way, records made in the ordinary course of business are admitted because where no dispute or litigation is contemplated it is assumed that there is normally no reason for such records to be other than accurate.
+[Emphasis added.]
+[32] I believe that the mindset of an auditor is closer to that of a police officer, a fire marshal or a corporate investigator than to that of an ordinary businessperson or public servant keeping the records necessary for the operation of a business on a day-to-day basis. It is not unreasonable to believe that the auditor’s notes may be coloured by the investigatory mindset imposed by the audit function and that an adversarial relationship exists between the CRA and the taxpayer. The purpose of the auditor’s notes in this context is to document his grounds for reassessment.
+[33] The Respondent’s counsel reminds me that I am allowed not to apply the technical and legal rules of evidence in informal matters, as in the instant case. That being said, Mr. Zaki offered testimony that was in direct contradiction with Mr. Walker’s testimony on the alleged findings of Mr. Cudini in his audit notes. I did not get to see the audit notes. Mr. Zaki has been deprived of the right to contradict the statements made by Mr. Cudini in his notes.
+[34] For these reasons, I am unwilling to place weight on Mr. Walker’s testimony with respect to the grounds invoked in support of the imposition of penalties in the instant case. Furthermore, Mr. Walker admitted that he might not have recommended the imposition of penalties in the instant case, had he known the circumstances leading to the adjustments noted above when he prepared his penalty report. For these reasons, I am not persuaded that the imposition of penalties on the Appellants for all taxation years at issue is warranted.
+Signed at Ottawa, Canada, this 29th day of November 2010.
+"Robert J. Hogan"
+Hogan J.
+CITATION: 2010 TCC 606
+COURT FILE NOS.: 2010-763(IT)I, 2010-764(IT)I
+STYLE OF CAUSE: ADEL ZAKI and 1465076 ONTARIO INC. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: August 26, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT: November 29, 2010
+APPEARANCES:
+Agent for the Appellants:
+Rafat Alam
+Counsel for the Respondent:
+Jasmeen Mann
+Samantha Hurst
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Transcript, page 174, line 2, to page 176, line 16.
+[2] [2000] F.C.J. No. 1761 (QL).
+[3] [1988] O.J. No. 365 (QL), rev’d on other grounds: R. v. Garofoli, [1990] 2 S.C.R. 1421, [1990] S.C.J. No. 115 (QL).
+[4] [1979] O.J. No. 442 (QL), at paragraph 10.
+[5] Regina v. Biasi et al. (No. 2) (1981), 66 C.C.C. (2d) 563 (BCSC).
+[6] [1987] F.C.J. No. 934 (QL).
+[7] [2010] M.J. No. 242 (QL).
+[8] 2002 SCC 73.
+[9] 2002 SCC 74.

@@ -1,0 +1,122 @@
+Title: Keehn c. Le Roi
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521038/index.do
+Corpus path: corpus/cases/tcc/2023/2023-cci-1-521038-keehn-c-le-roi-fr.md
+Document type: case_law
+Last modified: 2023-01-06
+
+# Keehn c. Le Roi
+
+- Citation: 2023 CCI 1
+- Decision date: 2023-01-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5772, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Keehn c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2023-01-06
+Référence neutre
+2023 CCI 1
+Numéro de dossier
+2020-2467(IT)I
+Juges et Officiers taxateurs
+Bruce Russell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2020-2467(IT)I
+ENTRE :
+LIN L. KEEHN,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 14 décembre 2022, à Edmonton (Alberta)
+Devant : L’honorable juge Bruce Russell
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimé :
+Eliza Li
+JUGEMENT
+L’appel de la nouvelle cotisation datée du 27 février 2020 établie à l’égard de l’appelant pour son année d’imposition 2018 est rejeté, sans frais.
+Signé à Halifax (Nouvelle-Écosse) ce 6e jour de janvier 2023.
+« B. Russell »
+Le juge Russell
+Référence : 2023 CCI 1
+Date : Le 6 janvier 2023
+Dossier : 2020-2467(IT)I
+ENTRE :
+LIN L. KEEHN,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Russell
+[1] L’appelant, M. Lin L. Keehn, interjette appel à l’encontre de la nouvelle cotisation établie le 27 février 2020 en application de la Loi de l’impôt sur le revenu fédérale (la « Loi ») concernant son année d’imposition 2018. Cette cotisation tient compte du refus du ministre du Revenu national (le « ministre ») selon lequel les 853 $ que l’épouse de M. Keehn avait payés en 2018 pour le stationnement de l’hôpital constituait des « frais médicaux » aux termes de l’article 118.2 de la Loi. Le ministre a ainsi exclu cette somme du calcul du solde du crédit d’impôt pour frais médicaux (CIFM) auquel le ministre estimait que M. Keehn avait droit pour son année d’imposition 2018.
+[2] Dans son avis d’appel, M. Keehn invoque ce qui suit :
+[traduction]
+Mon épouse doit se stationner pour obtenir ses traitements de dialyse, ce qui occasionne des frais de stationnement. Le paragraphe 118.2(2) spécifie les déplacements d’au moins 80 km et n’a rien à voir avec le stationnement. Il n’inclut ni n’exclut expressément le stationnement. Le stationnement n’est pas l’action de conduire un véhicule. Il s’agit en fait de ne pas conduire. Le paragraphe est discriminatoire envers les gens qui doivent effectuer un trajet de moins de 80 km pour recevoir des traitements médicaux nécessaires.
+[3] À l’audience, M. Keehn a témoigné. Il a été utile de l’entendre, même si, fondamentalement, les faits n’étaient pas contestés. Le fait essentiel est qu’au cours de l’année d’imposition 2018, l’épouse de M. Keehn recevait, trois fois par semaine, des traitements de dialyse à l’hôpital Alexandra à Edmonton. Habituellement, Mme Keehn conduisait de la maison pour aller à l’hôpital où elle stationnait sa voiture. Puis, une fois sa séance de traitement terminée, elle conduisait pour revenir à la maison. Sa maison était située à environ 22 kilomètres de l’hôpital.
+[4] M. Keehn a témoigné que ces traitements de dialyse étaient nécessaires à la survie de son épouse et que sans eux, elle serait morte. Il a assimilé les frais de stationnement à des frais pour traitements médicaux. Elle devait pouvoir stationner sa voiture pour recevoir les traitements. Comme il est mentionné plus tôt, les frais de stationnement déclarés pour l’année d’imposition 2018 était de 853 $. Le ministre a accepté d’autres frais à titre de frais médicaux totalisant 6 342 $ pour l’année d’imposition 2018 de M. Keehn.
+[5] M. Keehn a aussi témoigné que son épouse était infirmière à la retraite et qu’elle avait travaillé à ce même hôpital pour une grande partie de sa carrière d’infirmière.
+[6] Le refus du ministre concernant les frais de stationnement à titre de frais médicaux est fondé sur le paragraphe 118.2(2) de la Loi, qui énonce ce que sont des « frais médicaux » aux fins du calcul du montant du CIFM aux termes du paragraphe 118.2(1).
+[7] Comme je le mentionne plus tôt, M. Keehn a plaidé dans son avis d’appel que la Loi était discriminatoire en ce qui concerne les « frais raisonnables de déplacement », incluant ainsi les frais de stationnement, dans la mesure où elle permet d’inclure de tels frais seulement pour les personnes qui doivent parcourir au moins 80 kilomètres (aller simple) pour obtenir des traitements médicaux nécessaires.
+[8] Les alinéas 118.2(2)g) et h) de la Loi prescrivent ce qui suit :
+(2) [Frais médicaux] Pour l’application du paragraphe (1), les frais médicaux d’un particulier sont les frais payés :
+g) à une personne dont l’activité est une entreprise de transport, dans la mesure où ce paiement se rapporte au transport, entre la localité où habitent le particulier, son époux ou conjoint de fait ou une personne à charge visée à l’alinéa a) et le lieu – situé à 40 kilomètres au moins de cette localité – où des services médicaux sont habituellement dispensés, ou vice-versa, des personnes suivantes :
+(i) le particulier, l’époux ou conjoint de fait ou la personne à charge,
+(ii) un seul particulier accompagnant le particulier, l’époux ou le conjoint de fait ou la personne à charge, si ceux-ci sont d’après l’attestation écrite d’un médecin, incapables de voyager sans l’aide d’un préposé à leurs soins,
+si les conditions suivantes sont réunies :
+(iii) il n’est pas possible d’obtenir dans cette localité des services médicaux sensiblement équivalents,
+(iv) l’itinéraire emprunté par le particulier, l’époux ou conjoint de fait ou la personne à charge est, compte tenu des circonstances, un itinéraire raisonnablement direct,
+(v) le particulier, l’époux ou conjoint de fait ou la personne à charge se rendent en ce lieu afin d’obtenir des services médicaux pour eux-mêmes et il est raisonnable, compte tenu des circonstances, qu’ils s’y rendent à cette fin;
+h) pour les frais raisonnables de déplacement, à l’exclusion des frais visés à l’alinéa g), engagés à l’égard du particulier, de l’époux ou du conjoint de fait ou d’une personne à charge visée à l’alinéa a) et, si ceux-ci sont, d’après l’attestation écrite d’un médecin, incapables de voyager sans l’aide d’un préposé à leurs soins, à l’égard d’un seul particulier les accompagnant, afin d’obtenir des services médicaux dans un lieu situé à 80 kilomètres au moins de la localité où le particulier, l’époux ou le conjoint de fait ou la personne à charge habitent, si les conditions visées aux sous-alinéas g)(iii) à (v) sont réunies;
+[9] L’alinéa 118.2(2)h) de la Loi, qui distingue les distances aller simple de moins de 80 km, s’applique de façon égale à toute personne présentant une demande de CIFM.
+[10] La discrimination est traitée au paragraphe 15(1) de la Charte canadienne des droits et libertés, (Loi constitutionnelle de 1982). Cette disposition prescrit, sous l’en-tête « Droits à l’égalité » :
+15 (1) [Égalité devant la loi, égalité de bénéfice et protection égale de la loi] La loi ne fait acception de personne et s’applique également à tous, et tous ont droit à la même protection et au même bénéfice de la loi, indépendamment de toute discrimination, notamment des discriminations fondées sur la race, l’origine nationale ou ethnique, la couleur, la religion, le sexe, l’âge ou les déficiences mentales ou physiques.
+[11] Toutefois, ce n’est pas le cas lorsque l’expression ou l’application d’un texte législatif donné, en l’espèce l’alinéa 118.2(2)h), établit des distinctions entre les personnes. Bien que cette disposition exprime une limite d’au moins 80 km, cette limite n’est pas fondée sur les différences entre les personnes elles-mêmes, ou ne doit être appliquée en fonction de celles-ci. Elle est plutôt appliquée selon qu’une personne doit parcourir une distance d’au moins 80 km pour un voyage aller simple. En l’espèce, Mme Keehn parcourait une distance de seulement 22 km pour un voyage aller simple.
+[12] Le législateur a choisi de reconnaître à titre de frais médicaux les coûts de stationnement hospitalier (faisant partie des « frais raisonnables de déplacement ») pour un voyage aller simple d’au moins 80 km. Cela ne signifie toutefois pas que le législateur fait preuve de discrimination lorsqu’il n’accorde pas la même reconnaissance aux frais de stationnement pour un voyage aller simple d’une distance moins longue. Le législateur a le droit de faire de telles distinctions dans la Loi, comme la protection du fisc, sans que cela constitue de la discrimination telle qu’elle est mentionnée ci-dessus.
+[13] S’appuyant sur la jurisprudence, dans l’arrêt Ali c. Canada, 2008 CarswellNat 1629, 2008 CAF 190, au paragraphe 13, la Cour d’appel fédérale a observé à l’égard du rôle du paragraphe 15(1) de la Charte dans le contexte des avantages du paragraphe 118.2(2) :
+13. Les appelantes veulent que le CIFM soit étendu de manière à couvrir les médicaments en vente libre, mais le législateur n’a pas choisi de le faire. À cet égard, les propos suivants tenus par la juge en chef McLachlin, au paragraphe 41 de l’arrêt Auton, [(Tutrice à l’instance de) c. Colombie-Britannique (Procureur général), [2004] 3 R.C.S. 657 (CSC)] sont pertinents :
+41. Il n’est pas loisible au Parlement ou à une législature d’adopter une loi dont les objectifs de politique générale et les dispositions imposent à un groupe défavorisé un traitement moins favorable : Corbiere c. Canada (Ministre des Affaires indiennes et du Nord canadien), [1999] 2 R.C.S. 203. Par contre, la décision du législateur de ne pas accorder un avantage en particulier, lorsque l’existence d’un objectif, d’une politique ou d’un effet discriminatoire n’est pas établie, ne contrevient pas à ce principe ni ne justifie un examen fondé sur le par. 15(1). Notre Cour a conclu à maintes reprises que le législateur n’a pas l’obligation de créer un avantage en particulier, qu’il peut financer les programmes sociaux de son choix pour des raisons de politique générale, à condition que l’avantage offert ne soit pas lui‑même conféré d’une manière discriminatoire : Granovsky c. Canada (Ministre de l’Emploi et de l’Immigration), [2000] 1 R.C.S. 703, 2000 CSC 28, par. 61; Nouvelle‑Écosse (Procureur général) c. Walsh, [2002] 4 R.C.S. 325, 2002 CSC 83, par. 55; Hodge, précité, par. 16.
+[14] Dans cette affaire, la Cour suprême du Canada a affirmé ce qui suit :
+i. Le législateur « n’a pas l’obligation de créer un avantage en particulier »;
+ii. Le législateur « peut financer les programmes sociaux de son choix pour des raisons de politique générale, à condition que l’avantage offert ne soit pas lui‑même conféré d’une manière discriminatoire ».
+[15] Je rejetterais l’appel, mais sans adjuger de dépens; le jugement est délivré en conséquence.
+Signé à Halifax (Nouvelle-Écosse), ce 6e jour de janvier 2023.
+« B. Russell »
+Le juge Russell
+RÉFÉRENCE :
+2023 CCI 1
+NO DU DOSSIER DE LA COUR :
+2020-2467(IT)I
+INTITULÉ :
+LIN L. KEEHN c. SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Edmonton (Alberta)
+DATE DE L’AUDIENCE :
+Le 14 décembre 2022
+MOTIFS DU JUGEMENT :
+L’honorable juge Bruce Russell
+DATE DU JUGEMENT :
+Le 6 janvier 2023
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimé :
+Eliza Li
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’intimé :
+François Daigle
+Sous-procureur général du Canada
+Ottawa, Canada

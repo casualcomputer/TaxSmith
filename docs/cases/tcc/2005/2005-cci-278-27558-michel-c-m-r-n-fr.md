@@ -1,0 +1,174 @@
+---
+title: "Michel c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27558/index.do"
+last_modified: "2005-05-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 278"
+citation2: ""
+neutral_citation: "2005 CCI 278"
+decision_date: "2005-05-05"
+language: "fr"
+item_id: "27558"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 120
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:57:11.853000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c36250c33904426b1147c8a8a032a842467adaee02f39f71f04db957158ffd5d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Michel c. M.R.N.
+
+- Citation: 2005 CCI 278
+- Decision date: 2005-05-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 120, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Michel c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-05-05
+Référence neutre
+2005 CCI 278
+Numéro de dossier
+2004-2555(EI)
+Juges et Officiers taxateurs
+Sylvio J. Savoie
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2004-2555(EI)
+ENTRE :
+GUY MICHEL,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 22 février 2005 à Montréal (Québec)
+Devant : L'honorable S.J. Savoie, Juge suppléant
+Comparutions :
+Avocat de l'appelant :
+Me Hans Marotte
+Avocate de l'intimé :
+Me Agathe Cavanagh
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le Ministre est confirmée selon les Motifs de jugement ci-joints.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 5e jour de mai 2005.
+« S.J. Savoie »
+Juge suppléant Savoie
+Référence : 2005CCI278
+Date : 20050505
+Dossier : 2004-2555(EI)
+ENTRE :
+GUY MICHEL,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge suppléant Savoie
+[1] Cet appel a été entendu à Montréal (Québec) le 22 février 2005.
+[2] Il s'agit de déterminer si l'appelant avait accumulé des heures d'emploi assurables pendant la semaine du 2 au 8 mars 2003, la période en litige, lorsqu'au service de la Commission scolaire des Grandes Seigneuries, la payeuse, du 23 août 2002 jusqu'au 27 juin 2003.
+[3] Le 4 mars 2004, le ministre du Revenu national (le « Ministre ») a informé l'appelant de sa décision selon laquelle les heures assurables de son emploi pour la payeuse du 17 février au 27 juin 2003 totalisaient 630 heures, c'est-à-dire, qu'il a exclu des heures assurables la semaine du 2 au 8 mars 2003.
+[4] En rendant asa décision, le Ministre s'est appuyé sur les faits présumés suivants :
+a) L'appelant est enseignant; (admis)
+b) Le payeur avait embauché l'appelant en vertu d'un contrat de travail écrit; (admis)
+c) Le contrat prenait effet le 23 août 2002 et se terminait le 27 juin 2003; (admis)
+d) Il prévoyait que l'appelant aurait une tâche complète (100%); (admis)
+e) Dès la signature de son contrat, l'appelant a demandé et obtenu un congé de paternité; (admis)
+f) Le 17 février 2003, il commençait à enseigner; (admis)
+g) La semaine du 2 au 8 mars 2003, il y a eu relâche; (admis)
+h) L'appelant n'a pas enseigné durant cette semaine; (admis)
+i) Le 27 juin 2003, il terminait; (admis)
+j) L'appelant a enseigné en tout durant 18 semaines; (admis)
+k) L'appelant était assujetti à une convention collective nationale et à des arrangements locaux; (admis)
+l) La convention collective stipule que l'année de travail de l'enseignant comporte 200 jours de travail; (admis)
+m) Elle stipule qu'à moins d'entente différente entre la commission et le syndicat, les 200 jours sont distribués du 1er septembre au 3 juin de l'année suivante; (admis)
+n) À l'automne 2002, la période d'enseignement chez le payeur a débuté une semaine avant le 1er septembre; (admis)
+o) La dernière semaine des vacances estivales a été reportée au mois de mars 2003 et elle est devenue la semaine de relâche; (nié)
+p) La semaine de relâche ne fait pas partie des 200 jours de travail des enseignants; (admis)
+q) Les jours de congé de la semaine de relâche ne sont pas des congés payés; (nié)
+r) L'appelant avait une semaine normale de travail de 35 heures. (admis)
+[5] L'appelant a admis tous les faits présumés du Ministre, sauf ceux énoncés aux alinéas 5o) et 5q) de la Réponse à l'avis d'appel. Il a été établi que la période en litige, la semaine du 2 au 8 mars 2003, était la semaine où les élèves et les enseignants sont en congé, c'est la semaine de relâche. Les enseignants ne travaillent pas.
+[6] La détermination de ce litige se situe au niveau de l'interprétation par la législation et la jurisprudence. L'appelant soutient que la semaine de relâche constitue une période où les heures normalement travaillées devraient être reconnues comme assurables, selon le paragraphe 10.1(1) du Règlement sur l'assurance-emploi, même s'il n'a pas travaillé pendant cette période. Le Ministre, pour sa part, a défendu la thèse contraire en s'appuyant plutôt sur le paragraphe 10.(1) du Règlement en question.
+[7] À l'audition, l'appelant a produit le contrat d'engagement signé par lui‑même et la Commission scolaire des Grandes Seigneuries (pièce A-1). Le contrat prend effet à compter du 24 août 2001 et se termine le 28 juin 2002. Ce contrat est préparé sur un formulaire le décrivant comme un "contrat à temps partiel", mais le libellé du contrat énonce au paragraphe l-B) que l'enseignant, l'appelant, s'engage à enseigner à 100 pour cent de ses tâches.
+[8] L'appelant a admis les alinéas 5c) et 5d) de la Réponse à l'avis d'appel qui stipulent que :
+c) Le contrat prenait effet le 23 août 2002 et se terminait le 27 juin 2003;
+d) Il prévoyait que l'appelant aurait une tâche complète (100%).
+[9] L'appelant soutient que son cas est semblable à celui présenté dans l'arrêt Bruneau c. Commission de l'assurance-emploi du Canada et le sous-procureur général du Canada, où le juge Décary, de la Cour d'appel fédérale du Canada, a donné raison à l'appelante, mais il faut noter qu'il s'agissait là, dans l'affaire Bruneau, d'une enseignante à temps partiel.
+[10] L'alinéa 51) de la Réponse à l'avis d'appel précise que la convention collective stipule que l'année de travail de l'enseignant comporte 200 jours de travail. Cette présomption est également admise par l'appelant. Ceci fait dire à l'avocate du Ministre que la position adoptée par l'appelant voudrait que la période considérée soit de 207 jours, ce qui va à l'encontre de la convention collective et, par conséquent, du contrat.
+[11] La procureure du Ministre soutient que les faits, en l'espèce, ressemblent plutôt à ceux présentés devant cette Cour dans l'arrêt Kuffner c. Canada (ministre du Revenu national – M.R.N.), [2001] A.C.I. No. 23, où le juge MacLatchy a rejeté l'appel en disant :
+[TRADUCTION] La Cour est convaincue qu'il ne convient pas de porter des heures d'emploi assurable au crédit de l'appelante pour les jours en cause, qui incluent les vacances d'hiver, les vacances d'été ou les jours fériés. Le ministre avait raison; il ne peut porter d'heures d'emploi assurable au crédit de l'appelante pour ces jours-là. L'appel est rejeté, et la décision du ministre est confirmée.
+[12] En rédigeant ses motifs, le juge MacLatchy dans l'arrêt précité a précisé que :
+Pour montrer que les tribunaux ont conclu que le salaire d'un enseignant s'applique aussi bien aux périodes d'enseignement qu'aux périodes de congé, on a renvoyé la Cour aux affaires Gauthier v. Board of Referees, 12 septembre 1994, CUB 26838, Côté v. Board of Referees, 25 mars 1998, CUB 41000, et Canada (A.G.) v. Partridge, [1999] A.C.F. No 974 (C.A.) (Quicklaw), ainsi qu'aux affaires Bruneau c. Commission de l'assurance-emploi, C.A.F., no A‑113-98, 4 décembre 1998 ((1998), 171 D.L.R. (4th) 127), et Canada (Attorney General) v. Tuomi, [2000] A.C.F. No 1570. L'appelant conclut que notre cour devrait porter des heures d'emploi assurable à son crédit pour les congés scolaires et autres périodes de congé faisant partie de la période en cause, en tant que congés payés ou que jours non ouvrables pour lesquels elle était rétribuée conformément à son salaire annuel.
+L'intimé a soutenu que l'appelante n'était pas rémunérée pour les congés scolaires ou les vacances d'été. Le régime d'assurance-emploi n'envisageait pas une telle circonstance. En tant que prestataire de la première catégorie, l'appelante ne pourrait être admissible à des prestations que si elle avait le nombre requis d'heures d'emploi assurable selon les articles ... 10 et 10.1, [du Règlement sur l'assurance-emploi] qui se lisent comme suit :
+10. (1) Lorsque la rémunération d'une personne est versée sur une base autre que l'heure et que l'employeur fournit la preuve du nombre d'heures effectivement travaillées par elle au cours de la période d'emploi et pour lesquelles elle a été rétribuée, celle-ci est réputée avoir travaillé ce nombre d'heures d'emploi assurable.
+10.1(1) Lorsqu'un assuré est rétribué par l'employeur pour une période de congé payé, il est réputé avoir exercé un emploi assurable pendant le nombre d'heures qu'il aurait normalement travaillées et pour lesquelles il aurait normalement été rétribué durant cette période.
+[13] Dans son analyse du Règlement sur l'assurance-emploi, il a suivi le raisonnement du juge Bonner dans l'affaire Franke c. M.R.N., [1999] A.C.I. No 645, en affirmant ce qui suit :
+[TRADUCTION] [...] l'article 55 de la Loi; cet article autorise l'adoption d'une législation subordonnée, en l'occurrence la prise d'un règlement, pour l'établissement du nombre d'heures d'emploi assurable. Le Règlement sur l'assurance-emploi (le "Règlement") sert à déterminer le nombre d'heures d'emploi assurable dans le cas d'arrangements non conventionnels, comme celui en l'espèce. L'objet du texte législatif ne peut être réalisé que si le Règlement est interprété et appliqué de façon à ce qu'on puisse calculer le temps pendant lequel l'employé a "effectivement travaillé [...]" et pour lequel il a été rétribué par l'employeur. ...
+[14] Puisque cette Cour reconnaît que le juge MacLatchy dans l'affaire Kuffner, précitée, se trouvait devant un litige semblable à celui sous étude, et que les faits et circonstances soumis à son examen n'ont pas échappé à son analyse subtile, il convient d'en reproduire ci-dessous certains extraits utiles dans l'exercice qui préoccupe cette Cour. En voici quelque uns :
+On a réénoncé le point de vue selon lequel la principale question dans le présent appel est une question de congés payés ou de jours non ouvrables rémunérés. Il n'y aucune présomption selon laquelle les enseignants sont payés pour les jours en cause. L'article 33 a été adopté par suite de décisions de tribunaux ayant conclu que les enseignants n'étaient pas payés pour ces périodes de congé et pouvaient par ailleurs être admissibles à des prestations pour ces périodes.
+En vertu de l'article 33, les enseignants ne sont pas admissibles à des prestations, sauf si leur contrat de travail a pris fin. De nombreux jugements ont été cités, mais, en dernière analyse, l'argument était que chaque cas dépend des faits qui lui sont propres et que l'on ne peut parvenir à une conclusion qu'en examinant aussi bien la législation que la convention collective et le contrat régissant l'emploi de l'appelante. L'année scolaire allait du 1er septembre au 30 juin et inclurait 194 jours de classe. Il est entendu que les jours de classe n'incluraient pas les congés scolaires qui, d'après une longue liste, incluaient le congé de Noël (14 jours), les vacances d'hiver (5 jours) et d'autres jours particuliers comme le Vendredi saint, le lundi de Pâques, le jour de Victoria, les samedis et dimanches, ainsi que la fête du Travail. L'appelante était une enseignante permanente à mi-temps et avait un salaire annuel d'après une définition qui ne faisait pas état d'une paie pour les congés scolaires ou les vacances d'été et qui n'indiquait pas non plus les jours pour lesquels le salaire était payable. Le paragraphe 260(1) de la Loi sur l'éducation indiquait bel et bien les jours pour lesquels le salaire d'un enseignant était payable.
+Sauf entente contraire expresse et sous réserve des paragraphes (3) à (6), l'enseignant a le droit de se voir versé son salaire selon le rapport qui existe entre le nombre total de jours de classe où il exerce ses fonctions pendant l'année scolaire et le nombre total de jours de classe de l'année scolaire.
+En vertu des exceptions prévues aux paragraphes 260(3) à (6), un enseignant avait droit à des congés payés pour maladie, quarantaine ou fonctions de juré. La convention collective prévoyait également des congés payés, par exemple pour décès, fonctions judiciaires, obligations familiales et maladie grave d'une personne à charge, et elle aurait pu en prévoir d'autres, mais tel n'était pas le cas.
+D'autres arguments ont été présentés au sujet des modifications apportées par la LAE quant à l'admissibilité à des prestations selon les heures d'emploi plutôt que selon les semaines d'emploi. Le but des modifications était de reconnaître l'évolution des régimes de travail, de rendre tout travail assurable, de couvrir les travailleurs occupant plus d'un emploi et de dissuader les employeurs d'accorder moins de 15 heures de travail par semaine à un employé. Il s'agit d'un système différent de celui qui avait été adopté en vertu de la Loi sur l'assurance-chômage. Il se peut que des employés non admissibles à des prestations en vertu de l'ancien système soient admissibles en vertu du nouveau système. Par contre, il est vrai que certaines personnes qui étaient admissibles en vertu de la Loi sur l'assurance-chômage n'auront plus droit à des prestations en vertu de la LAE.
+Notre cour a conclu qu'il n'y a pas lieu de porter au crédit de l'appelante des heures d'emploi assurable pour les jours non ouvrables ou les vacances d'été ou d'autres jours de congé de la période en cause.
+[...]
+Les jours non ouvrables ne peuvent être considérés comme assurables, car ce ne sont pas des jours où du travail est accompli et pour lesquels une rétribution est versée. Le nouveau régime de calcul de l'admissibilité couvre bien des personnes qui ne pouvaient auparavant demander des prestations. Il se peut par ailleurs qu'il exclue des personnes qui pouvaient être admissibles à des prestations en vertu de la Loi sur l'assurance-chômage.
+La thèse selon laquelle les jours de la période en cause sont des jours de congé payé n'est pas étayée par la LAE ou le Règlement ou une autre loi pertinente. La jurisprudence examinée semble indiquer que, pour qu'il soit considéré qu'un congé payé a été accordé, il faut qu'un travailleur ait été soustrait à l'obligation d'accomplir du travail pour une période durant laquelle il aurait par ailleurs été tenu de travailler. Les périodes en cause n'étaient pas des jours de travail et n'étaient pas indiquées comme étant des jours de travail dans une loi ou convention.
+La Loi sur l'éducation prévoit des congés payés pour maladie, quarantaine et fonctions de juré. Elle aurait bien pu inclure dans les congés payés les congés scolaires ainsi que les mois d'été, mais tel n'est pas le cas. La convention collective prévoyait d'autres types de congés, par exemple pour décès, maladie d'une personne à charge, etc., mais elle n'indiquait pas que les périodes en cause étaient des périodes de congé.
+L'article 33 du Règlement vise particulièrement à empêcher que les enseignants reçoivent des prestations pour les périodes de congé. Dans l'affaire Canada (Procureur général) c. Donachey, [1997] A.C.F. No 579 (C.A.) (Quicklaw), au paragraphe 5, la Cour d'appel fédérale décrivait comme suit l'objet de la disposition :
+[TRADUCTION] L'objectif de l'article 46.1 du Règlement consiste à empêcher les enseignants, dont le salaire est réparti sur une période de douze mois mais qui ne fournissent pas de services chaque jour, de recevoir des sommes provenant de deux sources différentes mais remplissant le même rôle.
+Cette disposition interdit de verser des prestations à des personnes qui travaillent dans des professions dans lesquelles il y a chaque année, à intervalles réguliers ou irréguliers, une période durant laquelle aucun travail n'est accompli par un nombre important de personnes travaillant dans cette profession, et ce, pour une partie ou l'ensemble des semaines de cette période. Le Règlement traite du versement de prestations et non de la question de savoir si l'emploi d'une personne est assurable. De nombreuses décisions peuvent avoir indiqué que les enseignants n'étaient pas payés pour les périodes de congé et pouvaient être admissibles à des prestations, ce pourquoi le Règlement a été pris, de manière à empêcher un tel versement de prestations.
+[15] Au terme de cette analyse, cette Cour est d'avis que l'appelant n'a pas réussi à se décharger du fardeau qui reposait sur lui, c'est-à-dire, de prouver la fausseté des faits présumés du Ministre.
+[16] Par ailleurs, cette Cour est persuadée que la détermination du Ministre de même que celle du juge MacLatchy dans l'arrêt Kuffner, précité, s'appuie sur une interprétation conforme à la législation et la jurisprudence.
+[17] Cette Cour doit donc conclure que les jours de congé de la semaine de relâche ne sont pas des congés payés au sens de l'article 10.1 du Règlement sur l'assurance-emploi et qu'il ne convient pas de porter des heures d'emploi assurable au crédit de l'appelant pour les jours en cause.
+[18] C'est aussi la conclusion de cette Cour que l'appelant a exercé un emploi assurable auprès de la payeuse pendant 630 heures, soit pendant 18 semaines de 35 heures, conformément au paragraphe 10.(1) du Règlement sur l'assurance‑emploi.
+[19] En conséquence, l'appel est rejeté et la décision rendue par le Ministre est confirmée.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 5e jour de mai 2005.
+« S.J. Savoie »
+Juge suppléant Savoie
+RÉFÉRENCE : 2005CCI278
+Nº DU DOSSIER DE LA COUR : 2004-2555(EI)
+INTITULÉ DE LA CAUSE : GUY MICHEL ET M.R.N.
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 22 février 2005
+MOTIFS DE JUGEMENT PAR : L'honorable S.J. Savoie, Juge suppléant
+DATE DU JUGEMENT : le 5 mai 2005
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Hans Marotte
+Avocate de l'intimé :
+Me Agathe Cavanagh
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appellant:
+Nom : Me Hans Marotte
+Étude : Le Mouvement Action-Chômage de Montréal
+Montréal (Québec)
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Ontario

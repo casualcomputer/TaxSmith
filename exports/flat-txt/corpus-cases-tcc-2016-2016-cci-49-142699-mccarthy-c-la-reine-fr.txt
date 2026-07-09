@@ -1,0 +1,116 @@
+Title: McCarthy c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/142699/index.do
+Corpus path: corpus/cases/tcc/2016/2016-cci-49-142699-mccarthy-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2016-02-25
+
+# McCarthy c. La Reine
+
+- Citation: 2016 CCI 49
+- Decision date: 2016-02-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3024, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McCarthy c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-02-25
+Référence neutre
+2016 CCI 49
+Numéro de dossier
+2013-1383(IT)G
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-1383(IT)G
+ENTRE :
+DOUGLAS MCCARTHY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+ORDONNANCE
+La Cour ordonne ce qui suit :
+1. L’audition de cet appel prévue le 26 février 2016 est ajournée à une date indéterminée.
+2. L’avocat de l’appelant doit communiquer par écrit avec le coordonnateur des audiences dans les 60 jours suivant la date de la présente ordonnance afin de fournir un rapport sur l’état de l’instance dans le cas des appels interjetés à la Cour d’appel fédérale à l’encontre des ordonnances de la Cour rendues dans le cadre du présent appel.
+3. La question des dépens est reportée afin d’être traitée conformément aux motifs de l’ordonnance.
+Signé à Ottawa, Canada, ce 25e jour de février 2016.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 4e jour de novembre 2016.
+Mario Lagacé, jurilinguiste.
+Référence : 2016 CCI 49
+Date : 20160225
+Dossier : 2013-1383(IT)G
+ENTRE :
+DOUGLAS MCCARTHY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Boyle
+[1] L’avocat de l’appelant a demandé la suspension de l’appel de M. McCarthy le mercredi précédent le vendredi où l’appel était inscrit au rôle pour audition. Me Sumner a présenté cette requête en réponse à une communication de l’intimée transmise à la Cour et selon laquelle l’appelant avait une fois de plus contrevenu à l’ordonnance de la Cour en omettant de conclure des interrogatoires préalables oraux et documentaires, soit l’ordonnance que j’ai rendue le 15 février 2016. L’avocat de l’appelant reconnaît qu’il n’a pas déposé sa liste de documents comme il était tenu de le faire en vertu de l’ordonnance; il soutient toutefois qu’il s’agit d’une erreur et que celle-ci a depuis été corrigée. L’intimée est en désaccord. L’avocat de l’appelant affirme que son client a participé à l’interrogatoire préalable comme l’avait demandé l’intimée, qu’il s’est identifié et qu’il a contesté la plupart des questions de l’intimée au motif qu’il avait été victime de torture. L’intimée a ajourné l’interrogatoire et prévoit présenter une nouvelle requête. À cette étape-ci, je ne répondrai pas aux préoccupations des parties concernant les interrogatoires, mais seulement aux questions relatives à la demande de l’appelant formulée hier en vue de suspendre l’audience de demain.
+[2] Cet appel fait l’objet d’une gestion de l’instance dans le cadre des appels concernant le groupe Fiscal Arbitrators. Jusqu’à son départ à la retraite en décembre dernier, l’ancien juge en chef Gerald J. Rip a agi à titre de juge responsable de la gestion de l’instance dans le cadre des appels concernant Fiscal Arbitrators.
+[3] Dans son avis d’appel à nouveau modifié, l’appelant a interjeté appel de la pénalité imposée à l’égard des pertes déclarées par Fiscal Arbitrators. L’intimée porte le fardeau de la preuve en ce qui a trait à cette pénalité. De plus, l’appelant interjette appel à l’égard du rejet de sa réclamation portant sur une supposée déduction pour les habitants des régions éloignées. C’est l’appelant qui porte le fardeau de la preuve en ce qui a trait à cette réclamation.
+[4] L’appel doit être entendu ce vendredi par le juge Hershfield à Toronto. L’appel avait antérieurement été inscrit au rôle pour audition le 27 novembre 2015. Cette audience a dû être ajournée à la dernière minute, car l’appelant ne s’est pas présenté à l’interrogatoire préalable au procès ordonné par le juge Rip, sans aviser au préalable la Cour ou l’intimée, nonobstant le fait que l’intimée avait fixé la date après avoir consulté Me Sumner. L’appelant a décidé de ne pas participer à cet interrogatoire parce qu’il a interjeté appel auprès de la Cour d’appel fédérale de cette ordonnance interlocutoire du juge Rip ainsi que d’une autre ordonnance rendue par ce dernier le même jour. Ces appels n’ont pas encore été entendus par la Cour d’appel fédérale.
+[5] La Cour a fixé la nouvelle date de l’audience, prévue pour ce vendredi, en novembre dernier. Dans son ordonnance précédente établissant le calendrier des interrogatoires préalables, le juge Rip avait fixé les dates en fonction de la date du procès. Par conséquent, les nouvelles dates des interrogatoires préalables oraux et documentaires ont automatiquement été fixées par l’ordonnance précédente rendue par le juge Rip. L’appelant n’a pas respecté ces dates.
+[6] En décembre 2015, l’avocat de l’appelant a rédigé une lettre de deux phrases à l’attention de la Cour, demandant que l’appel de M. McCarthy soit suspendu en attendant le résultat des appels devant la Cour d’appel fédérale, et informant la Cour que des discussions ont été tenues avec l’intimée pour résoudre l’affaire. Par conséquent, l’intimée a demandé la tenue d’une conférence de gestion des instances à laquelle j’ai participé par téléphone le 19 janvier 2016. Dans le cadre de cette conférence, l’intimée a demandé de nouvelles dates pour la tenue des interrogatoires préalables en raison du manquement de l’appelant. Les parties étaient toutes les deux visiblement intéressées par leur droit d’interjeter appel de n’importe quelle ordonnance que je rendrais sur ces deux questions au cours de cette conférence téléphonique. Par conséquent, j’ai tenté d’obtenir l’approbation des parties pour traiter leurs demandes à titre de requêtes officielles. Cette approbation n’a jamais été donnée. Au départ, Me Sumner était incertain du fait de présenter une requête concernant sa demande, qui visait à suspendre l’audience en attendant les décisions de la Cour d’appel fédérale. Il s’est dit préoccupé par le fait qu’une requête officielle pourrait accroître le risque lié aux dépens si son appel était rejeté. Il a demandé que la conférence de gestion des instances puisse se poursuivre plus tard dans la journée, pour lui laisser le temps de déterminer s’il souhaitait formuler une telle requête et il a été fait droit à sa demande. Me Sumner a finalement déterminé que l’appelant ne souhaitait pas présenter cette requête et qu’il ne consentait pas, à ce moment-là, à l’audition d’une requête de la Couronne concernant les nouvelles dates d’interrogatoires.
+[7] Nous avons terminé la conférence téléphonique de gestion des instances de janvier sans avoir traité ces questions afin que les deux parties puissent présenter toutes les requêtes qu’elles souhaitaient conformément aux Règles de la Cour canadienne de l’impôt (procédure générale).
+[8] L’intimée a présenté une requête pour ordonner la tenue d’interrogatoires préalables. Aucune requête n’a été formulée par l’appelant. J’ai entendu la requête de l’intimée à Toronto et j’ai rendu ma décision oralement le 11 février 2016. Mon ordonnance, signée le 15 février 2016 et accompagnée d’une copie de mes motifs rendus oralement, accueillait la requête de l’intimée et rejetait la thèse de Me Sumner selon laquelle l’administrateur judiciaire de la Cour était un tyran extrajudiciaire et que les interrogatoires ordonnés par la Cour constituaient de la torture criminelle et de la coercition en raison de l’angoisse causée à M. McCarthy, qui est conscient que la Couronne porte le fardeau de la preuve concernant sa pénalité relative à Fiscal Arbitrators.
+[9] Lors de l’audition de la requête de l’intimée, Me Sumner a eu la possibilité de présenter une requête visant à suspendre ou à ajourner à une date indéterminée l’audience de l’appelant prévue ce vendredi pour attendre les décisions que devait rendre la Cour d’appel fédérale dans le cadre des appels interjetés par l’appelant à l’encontre des ordonnances du juge Rip. Me Sumner a refusé cette offre. Il était une fois de plus évident qu’un facteur était sa volonté de réduire le risque de voir l’appelant condamné aux dépens si sa demande était rejetée. Il devait prendre cette décision au nom de l’appelant.
+[10] Le 23 février 2016, trois jours avant la nouvelle date du procès et le dernier jour pour terminer l’interrogatoire préalable décrit dans mon ordonnance du 15 février 2016, l’intimée a écrit à la Cour pour l’informer que l’appelant contrevenait à l’ordonnance et pour demander la tenue d’une autre conférence téléphonique de gestion des instances. Le redressement que l’intimée espérait obtenir n’était pas entièrement clair; toutefois, elle a informé la Cour que l’appelant avait interjeté appel de son ordonnance du 15 février 2016 à la Cour d’appel fédérale.
+[11] Le 24 février 2016, la version écrite des arguments de l’appelant sur la demande de l’intimée concernant une conférence sur la gestion des instances a été obtenue. Me Sumner a confirmé que l’appelant n’avait pas conclu l’interrogatoire préalable décrit précédemment. Il a indiqué que l’appelant avait interjeté appel de cette ordonnance à la Cour d’appel fédérale. Il a indiqué qu’il avait demandé à la Cour d’appel fédérale de suspendre mon ordonnance de façon provisoire. Dans le cadre de sa réponse, il a également présenté une demande de suspension à la Cour. En réponse à une demande de clarification de la Cour, Me Sumner a confirmé qu’il demandait à la Cour de suspendre l’appel de M. McCarthy jusqu’à ce que la Cour d’appel fédérale ait tranché les appels dont elle a été saisie à l’encontre des trois ordonnances de la Cour; il ne croyait pas qu’un ajournement serait suffisant.
+[12] Dans ces circonstances, la suspension demandée par l’avocat de l’appelant est refusée. Toutefois, la Cour ajournera à une date indéterminée l’audition de l’appel qui devait se tenir ce vendredi. L’appelant devra communiquer avec la Cour dans les 60 jours concernant le sort de chacun de ses appels interjetés devant la Cour d’appel fédérale des ordonnances de la Cour concernant M. McCarthy. On peut prévoir que des ordonnances semblables de 90 jours suivront.
+[13] Selon moi, il ne s’agit plus d’une affaire où il serait mieux de laisser les dépens à la discrétion du juge du procès. La Cour est particulièrement préoccupée par les points suivants :
+1. À deux reprises, l’appelant n’a pas respecté les ordonnances de la Cour, qui voulait que l’appelant conclût les interrogatoires préalables avant de se présenter devant la Cour, ce qu’il n’a fait qu’après que l’intimée s’y présente à nouveau.
+2. Bien que la décision de conclure les interrogatoires et la façon de les conclure reviennent à l’appelant, Me Sumner, qui est l’avocat inscrit au dossier et un fonctionnaire judiciaire, n’a pas informé rapidement la Cour du refus de M. McCarthy de se présenter à l’interrogatoire à la date prévue, soit immédiatement après son manquement, soit, ce qui était encore plus improbable, avant cela lorsqu’il est devenu clair pour Me Sumner que son client ne s’y présenterait pas.
+3. L’appelant, qui a décidé de ne pas présenter de requête de suspension, a plutôt une fois de plus demandé une suspension deux jours avant la date de l’audience. La demande de suspension n’aurait pas dû être présentée à la dernière minute puisque l’appelant aurait pu la présenter plus tôt à deux occasions; l’une d’elles aurait même permis à la Cour d’inscrire au rôle un autre appel pour remplacer l’appel en cours afin d’utiliser les ressources publiques de façon efficiente.
+4. La stratégie de l’appelant visant à formuler une autre demande de suspension à la dernière minute, après avoir omis de présenter une requête, a forcé la Cour à traiter la demande en rendant une ordonnance en bonne et due forme, comme s’il s’agissait d’une requête, afin de ne pas priver l’intimée de son plein droit d’appel, dont elle a souligné l’importance en janvier.
+[14] La Cour a une compétence inhérente pour protéger sa procédure contre les abus; l’adjudication des dépens pourrait être utilisée pour assurer cette protection. Consulter, par exemple, l’arrêt Fournier c. Canada, 2005 CAF 131.
+[15] Je demande aux parties de présenter leurs observations écrites sur les dépens dans les 30 jours.
+[16] De plus, la Cour a le pouvoir d’ordonner que les dépens soient payables par l’avocat personnellement dans certaines circonstances en vertu de l’article 152 des Règles de la Cour canadienne de l’impôt (procédure générale) « si l’avocat d’une partie a fait engager des dépens à tort ou sans raison valable, ou les a fait augmenter inutilement par des retards abusifs, par mauvaise conduite ou par une autre omission ». Je demande à Me Sumner de formuler des observations écrites, dans les 45 jours, sur les raisons pour lesquelles la Cour ne devrait pas envisager de rendre une ordonnance en vertu de l’article 152 des Règles concernant certaines parties ou l’ensemble des dépens attribués à l’encontre de l’appelant et en faveur de l’intimée.
+Signé à Ottawa, Canada, ce 25e jour de février 2016.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 4e jour de novembre 2016.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2016 CCI 49
+No DU DOSSIER DE LA COUR :
+2013-1383(IT)G
+INTITULÉ :
+DOUGLAS MCCARTHY c. LA REINE
+MOTIFS DE L’ORDONNANCE PAR :
+L’honorable juge Patrick Boyle
+DATE DE L’ORDONNANCE :
+Le 25 février 2016
+COMPARUTION :
+Avocat de l’appelant :
+Me Joel Allan Sumner
+Avocats de l’intimée :
+Me H. Annette Evans
+Me Rishma Bhimji
+Me Victoria Iozzo
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Me Joel Allan Sumner
+Cabinet :
+Sumner Law
+Toronto (Ontario)
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

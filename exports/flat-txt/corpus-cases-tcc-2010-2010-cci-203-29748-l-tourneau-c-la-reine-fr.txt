@@ -1,0 +1,183 @@
+Title: Létourneau c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29748/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-203-29748-l-tourneau-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-04-15
+
+# Létourneau c. La Reine
+
+- Citation: 2010 CCI 203
+- Decision date: 2010-04-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6555, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Létourneau c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-04-15
+Référence neutre
+2010 CCI 203
+Numéro de dossier
+2008-941(IT)G
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-941(IT)G
+ENTRE :
+AGATHE LÉTOURNEAU,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 10 novembre 2009, à Montréal (Québec).
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Avocat de l'appelante :
+Me Jacques Matte
+Avocat de l'intimée :
+Me Simon-Nicolas Crépin
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation datée du 4 mai 2006 et portant le numéro 43718 établie par le ministre du Revenu national en vertu des paragraphes 152(4) et 227(10) et de l’article 227.1 de la Loi de l’impôt sur le revenu et des articles 82 et 83 de la Loi sur l’assurance‑emploi suite à deux cotisations impayées de 9034‑1751 Québec Inc., est rejeté avec dépens, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 15e jour d'avril 2010.
+« Réal Favreau »
+Juge Favreau
+Référence : 2010 CCI 203
+Date : 20100415
+Dossier : 2008-941(IT)G
+ENTRE :
+AGATHE LÉTOURNEAU,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit d’un appel d’une cotisation datée du 4 mai 2006 et portant le numéro 43718 établie par le ministre du Revenu national (le « ministre ») en vertu du paragraphe 227(10) et de l’article 227.1 de la Loi de l’impôt sur le revenu, L.R.C. (1985) ch. 1 (5e Suppl.), telle que modifiée (la « Loi »), et des articles 82 et 83 de la Loi sur l’assurance‑emploi, L.C. (1996), ch. 23, telle que modifiée (la « LAE ») suite à deux cotisations impayées de 9034‑1751 Québec Inc., l’une datée du 5 mars 2002 pour un montant de 824,65 $ et l’autre datée du 6 mars 2002 pour un montant de 70 023,76 $, toutes les deux relatives à des déductions à la source non remises.
+[2] La seule question en litige consiste à déterminer si l’appelante peut être tenue solidairement responsable avec 9034‑1751 Québec Inc. des retenues à la source, y compris les intérêts et les pénalités s’y rapportant, au montant de 70 848,41 $ que cette dernière était dans l’obligation de déduire, retenir et remettre au receveur général du Canada.
+[3] En établissant la cotisation en litige, le ministre a tenu pour acquis les faits suivants :
+a. La société 9034‑1751 Québec Inc. (ci‑après « 9034 ») a opéré d’avril 1996 jusqu’au 18 avril 2002;
+b. L’appelante a été administratrice de 9034 à compter du 4 janvier 1999;
+c. Le 5 mars 2002, le Ministre a établi une cotisation à l’égard de 9034, pour des déductions à la source non payées, pour l’année 2002;
+d. Le 6 mars 2002, le Ministre a établi une cotisation à l’égard de 9034, pour des déductions à la source non payées, pour l’année 2001;
+e. Le 18 avril 2002, 9034 a fait cession de ses biens;
+f. Le 31 mars 2003, le Ministre demandait au syndic de la faillite de 9034, entre autres, le livre de la compagnie de 9034;
+g. Le 16 juin 2003, le Ministre a reçu une copie du registre des administrateurs apparaissant au livre de la compagnie de 9034;
+h. Le 19 décembre 2003, le Ministre a demandé au syndic de la faillite de 9034, en vertu des paragraphes 231.2(1)a) et b) LIR, de lui transmettre l’original du livre de la compagnie de 9034;
+i. Le 21 janvier 2004, le Ministre a consulté l’original du livre de la compagnie de 9034, incluant le registre des administrateurs;
+j. Le registre des administrateurs de 9034 a été falsifié, de manière à faire croire que l’appelante aurait démissionné de son poste d’administratrice le 9 décembre 1999;
+k. En réalité, l’appelante a été administratrice de 9034 au moins jusqu’au 3 janvier 2002;
+l. Le 7 mai 2004, 9034 a été dissoute;
+m. L’appelante n’a pas démontré qu’elle a agi avec le degré de soin, de diligence et d’habileté pour prévenir le manquement qu’une personne raisonnablement prudente aurait exercé, dans des circonstances comparables.
+[4] Le fondement du litige repose sur la date de démission de l’appelante en tant qu’administratrice de 9034‑1751 Québec Inc. Le registre des administrateurs de ladite société indique que l’appelante aurait démissionné de son poste le 9 décembre 1999. Le problème provient du fait que la date de fin du mandat a fait l’objet d’une correction. Il y a eu une superposition de date à l’aide d’un ruban‑cache et correcteur. Malgré la correction, la date d’origine est lisible et il s’agit du 3 janvier 2002. L’avocat de l’appelante a reconnu à l’audience que le registre des administrateurs a fait l’objet d’une correction mais que sa cliente ignorait par qui cette correction a été effectuée et quand elle a été faite. L’avocat de l’appelante a fait mention que d’autres corrections avaient été effectuées au livre de la compagnie 9034-1751 Québec Inc. et qu’aucun rapport d’expert n’a été déposé par l’intimée.
+[5] La société 9034‑1751 Québec Inc. a été constituée le 23 avril 1996 en vertu de la Partie 1A de la Loi sur les compagnies du Québec. La nature de ses activités était celle d’une société de gestion qui opérait six dépanneurs sous la bannière des Pétroles Sonerco dont celui de Saint-Hyacinthe connu sous le nom de « Accommodation Grandmaître ».
+[6] Selon le registre des actionnaires de 9034‑1751 Québec Inc., les personnes suivantes ont détenu des actions de catégorie « A » de ladite société :
+Nom
+Période de détention
+Jean Fontaine
+23/04/1996 au 02/12/1996
+Roger Tardif
+02/12/1996 au 12/05/1997
+Jean Fontaine
+12/05/1997 au 04/01/1999
+Agathe Hébert Létourneau
+04/01/1999 au 03/01/2001
+Jean Fontaine
+03/01/2001 au (date non précisée)
+[7] Le 23 avril 1996, Jean Fontaine est devenu actionnaire de 9034‑1751 Québec Inc. par la souscription à 100 actions de catégorie « A » pour la somme de 1,00 $ par action. Le 2 décembre 1996, Jean Fontaine a transféré à Roger Tardif la propriété de ses 100 actions de catégorie « A » pour une contrepartie non divulguée. Le 12 mai 1997, Roger Tardif a transféré à Jean Fontaine la propriété de ses 100 actions de catégorie « A » pour une contrepartie non divulguée. Le 4 janvier 1999, Jean Fontaine a transféré à l’appelante la propriété de ses 100 actions de catégorie « A » pour une contrepartie non divulguée. Le 3 janvier 2001, l’appelante a rétrocédé à Jean Fontaine la propriété de ses 100 actions de catégorie « A » de 9034‑1751 Québec Inc. pour une contrepartie non divulguée. Dans le cas de ce dernier transfert, la Cour a noté que la date d’endossement du certificat d’actions numéro A‑4 pour fins de transfert et de procuration a également été altérée et qu'il est possible de constater que l’année d’origine du transfert était l’année 2002 plutôt que 2001. Les raisons de ces multiples transferts d’actions n’ont pas été fournies à la Cour. La Cour a également noté que le registre des actionnaires de 9034‑1751 Québec Inc. a également fait l’objet de corrections. L’année 2001 semble avoir été substituée à l’année 2002 comme étant l’année au cours de laquelle l’appelante a cessé d’être actionnaire de ladite société et au cours de laquelle Jean Fontaine a acquis les actions de l’appelante.
+[8] Selon le registre des administrateurs, les personnes suivantes ont été administrateurs de 9034‑1751 Québec Inc. depuis sa constitution :
+Nom
+Période de détention
+David Saltzman
+23/04/1996 au 23/04/1996
+Alan Schauber
+23/04/1996 au 23/04/1996
+James Smith
+23/04/1996 au 23/04/1996
+Jean Fontaine
+23/04/1996 au 02/12/1996
+Roger Tardif
+02/12/1996 au 12/05/1997
+Jean Fontaine
+12/05/1997 au 04/01/1999
+Agathe Hébert Létourneau
+04/01/1999 au 09/12/1999
+Jean Fontaine
+09/12/1999 au (date non précisée)
+Les raisons de ces multiples changements d’administrateurs n’ont pas été fournies à la Cour.
+[9] Jean Fontaine a témoigné à l’audience. Il a été à l’emploi de 9034‑1751 Québec Inc. de 1998 à 2002. Il était pompiste et gérant du dépanneur de Saint‑Hyacinthe. Il gérait les employés et il effectuait des achats d’essence et de fournitures diverses. Son mentor pour la gérance du dépanneur était Marcel Létourneau, le conjoint de l’appelante, et c’est lui qui lui a offert le poste au dépanneur de Saint‑Hyacinthe. Il avait une confiance aveugle envers Marcel Létourneau et il suivait ses conseils à la lettre. Selon son témoignage, il n’a jamais refusé de signer les documents que Marcel Létourneau lui présentait même s’il ne comprenait pas toujours la portée et les conséquences des documents qu’il signait, le plus souvent qu’autrement, à la hâte entre deux services d’essence à la pompe et sans même les lire. Il a terminé ses études au niveau du secondaire IV.
+[10] Parmi les documents que le témoin a signé en tant qu’administrateur et/ou officier de 9034‑1751 Québec Inc., il y a : a) des résolutions corporatives; b) une demande d’ouverture de compte à la Caisse populaire Bourg-Joli en date du 24 janvier 2000 en vertu de laquelle il était l’un des deux signataires autorisés à signer seul les chèques de ladite société, l’autre personne autorisée était la contrôleuse de ladite société, Guylaine Lemay; c) des chèques faits à l’ordre de Marco Dumond en date du 30 mars 2001, 20, 24 et 25 avril 2001; d) des chèques faits à l’ordre de Marcel Létourneau en date du 26, 28 et 30 mars 2001 et du 10 et 24 avril 2001; et e) les déclarations annuelles de personne morale pour 1998, 2000 et 2001.
+[11] En contre-interrogatoire, le témoin a reconnu ne pas avoir préparé les documents qu’il a signés et les avoir signés à la demande de Marcel Létourneau. Il a de plus reconnu n’avoir jamais vu le livre de la compagnie 9034‑1751 Québec Inc. ni le certificat d’actions A‑1 qu’il a pourtant signé le 23 avril 1996 en tant que président et secrétaire de 9034‑1751 Québec Inc. Finalement, il a dit ne pas connaître Ginette Lambert dont le nom apparaît au registre de paye du dépanneur et ne pas savoir si 9034‑1751 Québec Inc. devait une somme de 150 000 $ à Gestion Aghmana Inc. au moment où elle a fait faillite.
+[12] L’appelante a également témoigné à l’audience. Elle a déclaré être mariée à Marcel Létourneau depuis 1966. Elle a confirmé avoir été actionnaire et administratrice de 9034‑1751 Québec Inc. pendant une courte période de temps, soit du 4 janvier 1999 au 3 janvier 2001 en tant qu’actionnaire, et du 4 janvier 1999 au 9 décembre 1999 en tant qu’administratrice. Elle a également confirmé être actionnaire de Gestion Aghmana Inc. qui était notamment propriétaire d’un immeuble commercial à Rouyn-Noranda dans lequel 9034‑1751 Québec Inc. opérait un dépanneur. Elle n’a pas expliqué pourquoi elle est devenue actionnaire et administratrice de 9034‑1751 Québec Inc. et elle n’a pas voulu confirmer que son conjoint gérait l’ensemble des six dépanneurs. D’ailleurs, son conjoint n'a pas témoigné à l’audience.
+[13] L’appelante ne s’est pas rappelée du nombre d’actions de 9034‑1751 Québec Inc. qu’elle a acquises et n’a pas été en mesure de confirmer si elle était l’unique actionnaire de cette société. Le prix d’achat et de vente des 100 actions qu'elle a acquises a été de 100 $ et elle ignorait leur valeur réelle. Elle a dit n’avoir pas eu en sa possession le livre de la compagnie 9034‑1751 Québec Inc.
+[14] Lorsqu’interrogée concernant le prêt de 158 000 $ que Gestion Aghmana Inc. a consenti à 9034‑1751 Québec Inc. en 1999, elle a reconnu avoir signé une preuve de réclamation auprès du syndic de faillite Roy Mercier Roberge le 6 mai 2002 pour une créance non garantie de 158 000 $ consentie à 9034‑1751 Québec Inc., une personne non liée au sens de l’article 4 de la Loi sur la faillite et l’insolvabilité. L’appelante n’a pas été en mesure d’expliquer pourquoi Gestion Aghmana Inc. n’a pas exigé de garantie pour son prêt lorsque cette dernière a cessé d’être administratrice et/ou actionnaire de 9034‑1751 Québec Inc.
+[15] Lors de son témoignage, l’appelante a indiqué qu’en tant qu’administratrice de 9034‑1751 Québec Inc., elle ne s’est pas impliquée dans la gestion quotidienne des opérations de ladite société parce que la gestion était faite à Victoriaville par madame Lemay qui s’occupait de la tenue de livres et de la comptabilité. Elle n’a pas été en mesure de confirmer si elle a signé des chèques de 9034‑1751 Québec Inc. et si elle a signé des résolutions bancaires à cet effet.
+[16] L’appelante a également confirmé qu’elle connaissait madame Ginette Lambert, une personne qui a prêté de l’argent à son mari mais elle ne se rappelait pas si cette dernière figurait sur la liste de paye des employés de 9034‑1751 Québec Inc. en 2001 et 2002 alors qu’elle n’y travaillait pas. Elle a de plus confirmé avoir reçu elle‑même un salaire de 9034‑1751 Québec Inc. en 2001 (16 900 $) et en 2002 (8 000 $) sans que des déductions à la source sur son salaire ne soient effectuées en 2001 pour le régime de pensions du Canada et pour l’assurance‑emploi alors qu’elle n’était plus actionnaire de 9034‑1751 Québec Inc. depuis le mois de janvier 2001 selon les informations contenues au livre de la compagnie 9034-1751 Québec Inc.
+[17] Monsieur Daniel Thibeault, un agent de recouvrement pour l’Agence du revenu du Canada (l’« ARC »), a témoigné a l’audience. Son implication dans le dossier remonte à la réception de l’avis de faillite et de la première assemblée des créanciers de 9034‑1751 Québec Inc. daté du 25 avril 2002. Antérieurement à son implication, une vérification des retenues à la source de 9034‑1751 Québec Inc. couvrant la période du 1er janvier 2001 au 31 janvier 2002 a été effectuée par Nicole Villeneuve et le total des arriérés, pénalités et intérêts totalisait 81 216,19 $. Ce montant n’est pas contesté par l’appelante.
+[18] Le témoin a aussi relaté les faits entourant l’obtention du livre de la compagnie 9034‑1751 Québec Inc. alors en la possession du syndic de faillite. Suite à des contacts téléphoniques avec le syndic, une lettre formelle demandant le livre de la compagnie a été transmise le 31 mars 2003 au syndic en question. En réponse à cette lettre, le syndic a remis le 16 juin 2003 une photocopie d’extraits du livre de la compagnie 9034‑1751 Québec Inc. comprenant le registre des administrateurs et le registre des actionnaires mais dont il manquait la colonne de droite indiquant la date de la fin du mandat dans le cas du registre des administrateurs et la date de la fin de la détention d’actions dans le cas du registre des actionnaires. Suite à la réception des documents incomplets, une demande péremptoire a été transmise au syndic le 19 décembre 2003 l’enjoignant notamment de fournir à l’ARC au plus tard le 24 janvier 2004 le livre de la compagnie 9034‑1751 Québec Inc. Le syndic a alors offert à l’ARC de consulter sur place ledit livre de la compagnie le 21 janvier 2004. Finalement, l’original du livre de la compagnie 9034‑1751 Québec Inc. a été obtenu par l’ARC au cours du mois d’octobre 2005.
+[19] Le témoin a expliqué que deux projets de cotisation ont été présentés en octobre 2005 et qu’il n’y a pas eu de réponse, ni de représentation de la part de l’appelante. Jean Fontaine a été rencontré à deux reprises, soit au cours des mois de mai et d’octobre 2005, et il a dit qu’il a accepté d’être actionnaire et administrateur de 9034‑1751 Québec Inc. à la demande de Marcel Létourneau et qu’il a reconnu avoir signé des documents sans trop regarder. Selon les informations obtenues lors de ces rencontres, Jean Fontaine n’a jamais payé le prix de ses actions de 9034‑1751 Québec Inc. et il ne savait pas que ladite société avait une dette de 158 000 $.
+[20] Le témoin a informé la Cour que madame Ginette Lambert a été rencontrée en février 2006. Elle a expliqué qu’elle détenait une hypothèque sur un condominium en Floride enregistré au nom de l’appelante et qu’elle a accordé une mainlevée de son hypothèque en 2002 sans qu’elle ait été payée. Madame Lambert a reconnu qu’elle avait été payée à même de faux salaires provenant de sociétés liées au groupe de Marcel Létourneau dont 9034-1751 Québec Inc. Le total du revenu d’emploi obtenu par madame Lambert au cours des années 1998 à 2002 correspondait approximativement au montant de sa créance.
+Analyse
+[21] La nouvelle cotisation établie à l’encontre de l’appelante est datée du 4 mai 2006, soit plus de deux ans à compter de la date à laquelle l’appelante a cessé pour la dernière fois d’être une administratrice de 9034‑1751 Québec Inc., que ce soit le 9 décembre 1999 ou le 3 janvier 2002; plus de deux ans après que l’ARC a consulté pour la première fois l’original du livre de la compagnie 9034‑1751 Québec Inc. le 24 janvier 2004 et plus de deux ans après que 9034‑1751 Québec Inc. a fait cession de ses biens le 18 avril 2002 mais à l’intérieur de la période de deux ans de la date de radiation d’office du statut d’immatriculation de 9034‑1751 Québec Inc. par le Registraire des entreprises survenue le 7 mai 2004.
+[22] La responsabilité des administrateurs pour défaut d’effectuer les retenues d’impôt est prévue au paragraphe 227.1(1) de la Loi qui se lit comme suit :
+227.1 (1) Lorsqu’une société a omis de déduire ou de retenir une somme, tel que prévu aux paragraphes 135(3) ou 135.1(7) ou aux articles 153 ou 215, ou a omis de verser cette somme ou a omis de payer un montant d’impôt en vertu de la partie VII ou VIII pour une année d’imposition, les administrateurs de la société, au moment où celle-ci était tenue de déduire, de retenir, de verser ou de payer la somme, sont solidairement responsables, avec la société, du paiement de cette somme, y compris les intérêts et les pénalités s’y rapportant.
+[23] Le paragraphe 227.1(4) de la Loi accorde un délai de deux ans, à compter de la date à laquelle un administrateur a cessé pour la dernière fois d’être un administrateur d’une société, pour que des procédures de recouvrement d’une somme payable par un administrateur en vertu du paragraphe 227.1(1) puissent être entamées. Le paragraphe 227.1(4) de la Loi se lit comme suit :
+(4) Prescription. L’action ou les procédures visant le recouvrement d’une somme payable par un administrateur d’une société en vertu du paragraphe (1) se prescrivent par deux ans à compter de la date à laquelle l’administrateur cesse pour la dernière fois d’être un administrateur de cette société.
+[24] En vertu du paragraphe 227(10) de la Loi, le ministre a par contre le pouvoir d’établir en tout temps une cotisation pour un montant payable par une personne en vertu de l’article 227.1 de la Loi. Le paragraphe 227(10) est libellé comme suit :
+(10) Le ministre peut, en tout temps, établir une cotisation pour les montants suivants :
+a) un montant payable par une personne en vertu des paragraphes (8), (8.1), (8.2), (8.3) ou (8.4) ou 224(4) ou (4.1) ou des articles 227.1 ou 235;
+b) un montant payable par une personne ou une société de personnes en vertu du paragraphe 237.1(7.4);
+c) un montant payable par une personne en vertu du paragraphe (10.2) pour défaut par une personne non-résidente d’effectuer une déduction ou une retenue;
+d) un montant payable en vertu de la partie XIII par une personne qui réside au Canada.
+Les sections I et J de la partie I s’appliquent, avec les modifications nécessaires, à tout avis de cotisation que le ministre envoie à la personne ou à la société de personnes.
+[25] En vertu des dispositions législatives précitées, le ministre n’est pas assujetti à une limite de temps pour établir une cotisation pour une somme payable par une personne en vertu de l’article 227.1 de la Loi mais les procédures de recouvrement sont assujetties à une période de prescription de deux ans à compter de la date à laquelle la personne a cessé pour la dernière fois d’être administrateur de la société.
+[26] Dans ce contexte, il importe donc de déterminer la date à laquelle l’appelante a cessé pour la dernière fois d’être administratrice de 9034‑1751 Québec Inc.
+[27] Compte tenu de la preuve soumise, la Cour considère que l’appelante n’a cessé d’être administratrice de 9034‑1751 Québec Inc. qu’à la date à laquelle ladite société a été radiée d’office, soit le 7 mai 2004.
+[28] Selon la preuve, il est évident que le livre de la compagnie 9034‑1751 Québec Inc. a fait l’objet de corrections inexpliquées pour substituer la date du 3 janvier 2002 par celle du 9 décembre 1999 comme date à laquelle l’appelante aurait cessé d’être administratrice de ladite société. Par conséquent, la date de démission réelle de l’appelante à titre d’administratrice n’est pas connue et la lettre de démission de l’appelante datée du 9 décembre 1999 ne peut être reconnue comme étant valide et effective. Comme aucune autre lettre de démission n’a subséquemment été produite par l’appelante, cette dernière doit être considérée comme n’ayant jamais démissionnée de son poste d’administratrice et être demeurée en place jusqu’à la date de radiation d’office de l’immatriculation de 9034‑1751 Québec Inc. D’ailleurs, aucun formulaire d’avis de changement des administrateurs énonçant le retrait de l’appelante n’a été dûment produit auprès du Registraire des entreprises.
+[29] La Loi sur les compagnies du Québec, L.R.Q., chapitre C-38, édicte à l'article 123.76 ce qui suit concernant la fin du mandat d'un administrateur :
+123.76 Malgré l'expiration de son mandat, un administrateur demeure en fonction jusqu'à ce qu'il soit réélu, remplacé ou destiné.
+Il peut résigner ses fonctions en donnant avis à cet effet.
+[30] Parmi les autres conditions de fin de mandat d'un administrateur, il y a lieu de mentionner le décès, la faillite personnelle, l'inhabilité à exercer ou l'ouverture d'un régime de protection et la liquidation volontaire ou judiciaire d'une société constituée en vertu des lois du Québec.
+[31] Comme la preuve n'a pas révélé que l'appelante avait démissionné de son poste d'administratrice, avait fait faillite, était inhabile à exercer ses fonctions ou s'était prévalue d'un régime de protection, ni que la société avait fait l'objet d'une liquidation avant le moment où l'immatriculation de la société a été radiée d'office, l'appelante doit être considérée comme n'ayant jamais perdu son statut d'administratrice jusqu'au moment où la société a été radiée d'office.
+[32] La Cour d'appel fédérale a de plus confirmé dans l'arrêt Kalef, 96 D.T.C. 6132 que la cessation des activités commerciales ou la faillite d'une société ne mettait pas fin à la responsabilité des administrateurs aux fins du paragraphe 227.1(4) de la Loi.
+[33] Aucune explication n’a été fournie concernant l’auteur de la falsification du registre des administrateurs, ni concernant les raisons de cette falsification. Il est évident que la seule personne à qui la falsification a pu bénéficier est l’appelante elle‑même. La modification au registre des administrateurs a été faite en pleine connaissance de cause de la part de l’appelante et elle visait à limiter sa responsabilité suite à la vérification effectuée par l’ARC des affaires de 9034‑1571 Québec Inc. pour les années 2001 et 2002 et en prévision du dépôt d’un avis de faillite de la part de 9034‑1751 Québec Inc. Il y a lieu de se rappeler ici que ladite société a déposé un avis d’intention de faire une proposition concordataire le 1er février 2002, ce qui ne fut finalement pas fait, et que ladite société a déclaré faillite le 25 avril 2002. L’appelante savait sans aucun doute que les opérations de 9034‑1751 Québec Inc. étaient déficitaires et que la faillite était imminente. D’ailleurs, elle était familière avec les règles en matière de faillite puisqu’elle a elle‑même fait une faillite personnelle en 1997 et que son conjoint a fait de même en 1996.
+[34] L’appelante ne peut bénéficier d’aucune présomption de droit ou de fait à l’effet qu’elle n’était pas administratrice de 9034‑1751 Québec Inc. en 2001 et 2002, et ce, même si en apparence, elle ne semble pas avoir posé de gestes d’administration au cours de ces années. Le livre de la compagnie a été trafiqué à plusieurs endroits dont les registres des administrateurs et des actionnaires et que, par conséquent, le livre de la compagnie ne peut servir de fondement à quelque présomption que ce soit concernant le statut de l’appelante en tant qu’administratrice. La preuve n’a pas démontré que l’appelante a posé plus de gestes en tant qu’administratrice en 1999 qu’elle en a posés en 2001 et 2002.
+[35] Les corrections apportées au registre des administrateurs ne peuvent être attribuées à une simple erreur administrative et sont fort inhabituelles compte tenu du décalage entre les deux dates, soit plus de 24 mois.
+[36] Il est de plus difficile de concevoir que l’appelante ait délaissé ses fonctions d’administratrice de 9034‑1751 Québec Inc. en 1999 alors même que cette dernière avait une dette de 158 000 $ non garantie envers Gestion Aghmana Inc., une société dont l’appelante était l’unique gestionnaire. Lors de son témoignage, l’appelante n’a pas fourni d’explications à ce sujet, ni même les raisons qui l’auraient incité à démissionner de son poste d’administratrice en 1999.
+[37] Le témoignage de l’appelante à l’audience n’était pas crédible et manquait de rigueur. Elle ne se rappelait plus de rien ou n’avait que de vagues souvenirs concernant notamment le prêt de 158 000 $ consenti par Gestion Aghmana Inc., l’hypothèque de madame Lambert sur son condominium en Floride, les raisons de sa démission comme administratrice de 9034‑1751 Québec Inc. et le versement par 9034‑1751 Québec Inc. de faux salaires à madame Lambert pour rembourser sa dette hypothécaire personnelle.
+[38] Le témoignage de Jean Fontaine à l’audience a clairement démontré qu’il n’était qu’un prête‑nom agissant pour le compte du conjoint de l’appelante. La preuve est à l’effet qu’il signait les documents que Marcel Létourneau lui présentait. Dans les faits, Jean Fontaine n’a jamais été administrateur de 9034‑1751 Québec Inc. et il n’a jamais fait de tenue de livres et de registres de comptabilité. L’administration de 9034‑1751 Québec Inc. était faite à Victoriaville et non à Saint‑Hyacinthe. De plus, il n’avait aucune connaissance des affaires, des cinq autres dépanneurs gérés par 9034‑1751 Québec Inc., exception faite des informations acquises lors de la tournée annuelle des dépanneurs avec Marcel Létourneau. Sa prétention à l’effet qu’il pouvait devenir propriétaire d’un dépanneur avec ses heures de travail supplémentaires n’est pas réaliste et ne peut être retenue. Aucun prix et aucune modalité d’acquisition du dépanneur n’ont été convenus avec Marcel Létourneau. Les achats et les ventes des actions de 9034‑1751 Québec Inc. étaient effectués sans qu’il ne soit tenu compte de leur valeur réelle. D’ailleurs, le témoin a manqué de mémoire pour expliquer les raisons pour lesquelles il y a eu de si nombreux transferts d’actions de 9034‑1751 Québec Inc. et les raisons pour lesquelles des retenues pour l’assurance‑emploi ont été effectuées à l’égard du salaire que 9034‑1751 Québec Inc. lui a versé en 2002 alors qu’il était actionnaire de ladite société et que, à ce titre, il n’avait pas droit à l’assurance‑emploi.
+[39] La cotisation établie à l’égard de l’appelante est postérieure à la période normale de nouvelle cotisation. Le paragraphe 227(10) de la Loi permet au ministre d’établir, en tout temps, une cotisation pour un montant visé à l’article 227.1 de la Loi, auquel cas les sections I et J de la Partie I de la Loi s’appliquent à la cotisation. Ces sections de la Loi englobent le paragraphe 152(4) qui limite le pouvoir du ministre d’établir une nouvelle cotisation après la période normale de cotisation que dans les cas prévus aux alinéas a) et b) dudit paragraphe. Le cas prévu au sous‑alinéa 152(4)a)(i) est celui où le contribuable ou la personne produisant la déclaration soit a fait une présentation erronée des faits par négligence, inattention ou omission involontaire, ou soit a commis quelque fraude en produisant la déclaration ou en fournissant quelques renseignement sous le régime de la présente loi.
+[40] Dans les cas d’établissement d’une nouvelle cotisation en dehors de la période normale de nouvelle cotisation, le fardeau de la preuve appartient à l’intimée. Dans le cas présent, l’intimée a satisfait son fardeau de la preuve en démontrant que le livre de la compagnie 9034‑1751 Québec Inc. et, en particulier le registre des administrateurs, a fait l’objet d’altérations malhabiles et que ces altérations ont empêché le ministre d’établir une nouvelle cotisation dans la période normale prescrite dans la Loi. La preuve a de plus clairement établi que l’appelante avait connaissance du stratagème en signant des documents dont une lettre de démission datée du 9 décembre 1999.
+[41] Pour ces motifs, l’appel de l’appelante est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 15e jour d'avril 2010.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE : 2010 CCI 203
+Nº DU DOSSIER DE LA COUR : 2008-941(IT)G
+INTITULÉ DE LA CAUSE : Agathe Létourneau et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 10 novembre 2009
+MOTIFS DU JUGEMENT PAR : L'honorable juge Réal Favreau
+DATE DU JUGEMENT : le 15 avril 2010
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Jacques Matte
+Avocat de l'intimée :
+Me Simon-Nicolas Crépin
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom : Me Jacques Matte
+Matte Bouchard
+Cabinet : Westmount, Québec
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

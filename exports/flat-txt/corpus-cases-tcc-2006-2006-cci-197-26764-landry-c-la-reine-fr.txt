@@ -1,0 +1,113 @@
+Title: Landry c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26764/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-197-26764-landry-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2006-04-21
+
+# Landry c. La Reine
+
+- Citation: 2006 CCI 197
+- Decision date: 2006-04-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3510, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Landry c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-04-21
+Référence neutre
+2006 CCI 197
+Numéro de dossier
+2005-789(IT)I
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-789(IT)I
+ENTRE :
+YVES LANDRY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 20 mars 2006, à Québec (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Avocat de l'appelant :
+Me William Noonan
+Avocat de l'intimée :
+Me Martin Lamoureux
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2001 est rejeté selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 21e jour d'avril 2006.
+Paul Bédard
+Juge Bédard
+Référence : 2006CCI197
+Date : 20060421
+Dossier : 2005-789(IT)I
+ENTRE :
+YVES LANDRY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Il s'agit d'un appel interjeté selon la procédure informelle à l'encontre d'une nouvelle cotisation aux termes de laquelle le ministre du Revenu national (le « ministre » ) a ajouté aux revenus de l'appelant pour l'année d'imposition 2001 un montant de 17 769 $ à titre d'intérêts et d'autres revenus de placement provenant de la disposition par l'appelant, dans l'année 2001, d'un intérêt dans une police d'assurance-vie dont il était titulaire. L'appelant soutient qu'il n'avait pas à déclarer ce revenu de 17 769 $ dans l'année d'imposition 2001 puisque l'impôt sur ce revenu avait été payé en 1999 aux termes d'une entente intervenue le 2 décembre 1999 avec l'Agence des douanes et du revenu du Canada ( « l'Agence » ).
+Les faits
+[2] Le 8 avril 1990, l'appelant souscrivait auprès de la société Assurance-vie Desjardins-Laurentienne inc. (la « Société » ) à une police d'assurance-vie dont il était l'assuré et dont le capital assuré à l'émission était de 50 000 $ (la « police » ).
+[3] Dans chacune des années 1993, 1994, 1995 et 1996, l'appelant investissait dans la police une somme de 6 000 $, et ce, en faisant des versements mensuels, égaux et consécutifs de 500 $.
+[4] Au 31 décembre 2000, le fonds accumulé dans la police était estimé par la Société à 121 024 $.
+[5] Le 11 juin 2001, l'appelant disposait d'une partie de son intérêt dans la police dont il était titulaire et recevait à ce titre de la Société une somme de 83 000 $.
+[6] L'appelant n'a pas inclus dans le calcul de son revenu, pour l'année d'imposition 2001, la somme de 17 769 $ liée à la disposition par ce dernier d'une partie de son intérêt dans la police. Cette somme de 17 769 $ représentait l'excédent du produit de disposition[1] de l'intérêt dans la police sur le coût de base rajusté de son intérêt dans la police immédiatement avant la disposition. La Société a établi un relevé T-5 (État des revenus de placement) indiquant que l'appelant avait reçu en 2001 un revenu de 17 769 $ lié à la disposition d'une partie de son intérêt dans la police. Il convient de souligner que l'appelant a annexé ce relevé T-5 à sa déclaration de revenus qu'il a produite pour son année d'imposition 2001, bien qu'il n'a pas inclus cette somme dans le calcul de son revenu pour cette année.
+[7] L'appelant a fait l'objet d'une vérification pour les années d'imposition 1995 et 1996. L'Agence a utilisé la méthode de l'avoir net[2] pour établir les revenus non déclarés de l'appelant pour ces années.
+[8] Le ou vers le 2 décembre 1999, l'Agence acceptait l'offre de 50 000 $ de l'appelant (pièce A-1) visant le règlement des impôts, intérêts et pénalités liés aux revenus non déclarés par ce dernier pour les années d'imposition 1995 et 1996.
+Position de l'appelant
+[9] L'avocat de l'appelant a essentiellement repris, lors de sa plaidoirie, les arguments allégués par l'appelant dans l'avis d'appel et qui se lisent comme suit :
+12. Or, l' « État de l'avoir net » préparé le 30 septembre 1998 par la vérificatrice Johanne Ouellet démontre que ce dernier tient compte de l'actif détenu dans la police d'assurance délivrée par Assurance Desjardins Laurentienne Inc., le tout tel qu'il appert d'une copie de cet « État de l'avoir net » qui sera produite à l'audience;
+13. Compte tenu de ce qui précède, l'Agence des douanes et du Revenu du Canada tente d'écarter un règlement final et global qu'elle avait conclu avec l'opposant et veut aujourd'hui le cotiser une seconde fois sur un montant qui avait déjà fait l'objet d'une vérification et d'une cotisation pour les années antérieures à 1997;
+14. Bref, l'opposant déjà payé le montant de l'impôt dû sur ladite police d'assurance;
+15. Au surplus et subsidiairement, même si la méthode de vérification n'incluait effectivement pas le profit ou l'intérêt cumulé sur le placement, l'Agence des douanes et du Revenu du Canada, par l'intermédiaire de Johnny Gallagher, a quand même clairement convenu avec l'opposant, notamment en qualifiant le règlement de « final et global » pour les déclarations de 1995 et 1996, qu'il pouvait considérer toutes les sommes dues pour ces déclarations comme était définitivement réglées;
+16. En effet, aucune précision quant aux conséquences de l'utilisation de la méthode de vérification par l'avoir net n'a été expliquée ou dénoncée à l'opposant, renforçant ainsi la certitude que les déclarations de 1995 et 1996 étaient définitivement réglées et ce, sans aucune autre réserve l'Agence des douanes et du Revenu du Canada;
+17. L'Agence des douanes et du Revenu du Canada a donc erré en concluant que la somme de 17 769,00 $ devait être incluse dans le revenu de l'opposant puisque cette somme comprend des intérêts générés durant les années antérieures à 1997, années pour lesquelles il y a un règlement final et global, le tout tel qu'il appert des pièces qui seront produites à l'audience;
+Analyse
+[10] Mon analyse de l'État de l'avoir net préparé par madame Ouellet de l'Agence me permet de conclure que les montants apparaissant au poste « Assurance-vie Desjardins-Laurentienne » (pièce I-6, page 2) représentaient tout simplement les sommes investies par l'appelant dans la police pendant les années 1993, 1994, 1995 et 1996. En ajoutant au bilan de l'appelant d'une année donnée le coût des investissements de ce dernier dans la police pendant cette année, l'Agence voulait tout simplement déterminer les variations du capital de l'appelant d'une année à l'autre, démarche indispensable et logique pour lui permettre d'établir le revenu additionnel ou non déclaré de l'appelant dans une année donnée. En effet, quand le ministre utilise la méthode de l'avoir net pour établir le revenu non déclaré d'un contribuable dans une année donnée, il doit notamment dresser le bilan de ce dernier à la fin de cette année donnée et le comparer avec le bilan de ce dernier à la fin de l'année précédente. Si cet exercice permet de constater une augmentation du capital du contribuable dans cette année donnée que le contribuable n'est pas en mesure d'expliquer, alors le ministre considérera à bon droit que l'écart constitue le revenu non déclaré du contribuable dans cette année donnée.
+[11] Je suis d'avis que l'inclusion dans le bilan des sommes investies par l'appelant dans la police n'avait pas pour objet ou pour effet d'inclure dans le revenu de l'appelant le profit ou l'intérêt cumulé dans la police, mais avait plutôt pour seul objet ou effet de déterminer le revenu additionnel ou non déclaré de l'appelant.
+[12] L'appelant a soutenu que le fait d'avoir inclus la somme de 17 769 $ dans ses revenus pour l'année d'imposition 2001 avait entraîné en quelque sorte une double imposition puisque le ministre avait déjà tenu compte de l'actif détenu par l'appelant dans la police pour déterminer le revenu non déclaré additionnel de ce dernier pour les années d'imposition 1995 et 1996. Je suis d'avis que le fait d'avoir inclus la somme de 17 769 $ dans les revenus de l'appelant n'a entraîné aucune double imposition. Je le rappelle, l'inclusion dans le bilan de l'appelant en 1995 et 1996 des sommes investies par ce dernier n'a eu pour effet ou pour objet que de déterminer les revenus additionnels et non déclarés de l'appelant pendant ces années et non pour effet ou pour objet de taxer l'appelant sur le profit ou l'intérêt cumulé dans la police au 31 décembre 1996 ou, autrement dit, de taxer l'appelant sur le revenu lié à une disposition présumée par l'appelant de son intérêt dans la police au 31 décembre 1996. De plus, les sommes investies par l'appelant dans la police n'ont pas fait l'objet d'une double imposition puisqu'elles faisaient partie du coût de base rajusté de son intérêt dans la police. Je souligne que, lorsqu'un contribuable dispose de son intérêt dans une police, il doit ajouter dans ses revenus, dans l'année de la disposition, l'excédent du produit de disposition de son intérêt sur le coût de base rajusté (qui inclut les sommes investies par ce dernier dans la police) de son intérêt dans la police immédiatement avant la disposition.
+[13] Enfin, à l'égard de l'argument subsidiaire allégué par l'appelant dans l'avis d'appel et qui se lit comme suit :
+15. Au surplus et subsidiairement, même si la méthode de vérification n'incluait effectivement pas le profit ou l'intérêt cumulé sur le placement, l'Agence des douanes et du Revenu du Canada, par l'intermédiaire de Johnny Gallagher, a quand même clairement convenu avec l'opposant, notamment en qualifiant le règlement de « final et global » pour les déclarations de 1995 et 1996, qu'il pouvait considérer toutes les sommes dues pour ces déclarations comme était définitivement réglées;
+Je suis d'avis que les termes du règlement intervenu entre l'Agence et l'appelant sont clairs et ne laissent aucune place à l'interprétation. Ce règlement, à mon avis, ne visait qu'un règlement final et global des impôts, intérêts et pénalités dus par l'appelant pour les années d'imposition 1995 et 1996. Il m'apparaît invraisemblable que cette entente ait pu viser le règlement total ou partiel des impôts payables par l'appelant sur une disposition future ou éventuelle en totalité ou en partie par ce dernier de son intérêt dans la police.
+Pour ces motifs, l'appel est rejeté.
+Signé à Ottawa, Canada, ce 21e jour d'avril 2006.
+Paul Bédard
+Juge Bédard
+RÉFÉRENCE : 2006CCI197
+N º DU DOSSIER DE LA COUR : 2005-789(IT)I
+INTITULÉ DE LA CAUSE : Yves Landry et Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Québec (Québec)
+DATE DE L'AUDIENCE : Le 20 mars 2006
+MOTIFS DU JUGEMENT PAR : L'honorable juge Paul Bédard
+DATE DU JUGEMENT : Le 21 avril 2006
+COMPARUTIONS :
+Pour l'appelant :
+Me William Noonan
+Pour l'intimée :
+Me Martin Lamoureux
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom : William Noonan
+Étude : Sillery (Québec)
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Ontario)
+[1] 83 000 $.
+[2] Voir la pièce I-6.

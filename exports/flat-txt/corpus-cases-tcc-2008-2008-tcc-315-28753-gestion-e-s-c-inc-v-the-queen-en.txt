@@ -1,0 +1,298 @@
+Title: Gestion E.S.C. Inc v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28753/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-315-28753-gestion-e-s-c-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-07-04
+
+# Gestion E.S.C. Inc v. The Queen
+
+- Citation: 2008 TCC 315
+- Decision date: 2008-07-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1540, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gestion E.S.C. Inc v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-07-04
+Neutral citation
+2008 TCC 315
+File numbers
+2006-2424(IT)G
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-2424(IT)G
+BETWEEN:
+GESTION E.S.C. INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on December 13, 2007, at Quebec City, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel for the Appellant:
+Robert Marcotte
+Counsel for the Respondent:
+Nathalie Lessard
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2003 taxation year is dismissed, with costs to the respondent, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 4th day of July 2008.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 9th day of October 2008.
+Erich Klein, Revisor
+Citation: 2008TCC315
+Date: 20080704
+Docket: 2006-2424(IT)G
+BETWEEN:
+GESTION E.S.C. INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal from a reassessment made on May 2, 2006, under the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.) ("the Act"), by which the Minister of National Revenue ("the Minister") revised the appellant's tax treatment of the amounts that it obtained under a judgment of the Quebec Superior Court.
+[2] In making the reassessment under appeal, the Minister relied on the following assumptions of fact:
+[TRANSLATION]
+(a) the appellant's fiscal year-end is January 31; (admitted)
+(b) in 1994, the appellant operated a formwork and concreting business; (admitted)
+(c) on May 18, 1994, Hydro-Québec awarded the appellant a contract for formwork and concreting on part of the Témiscouata dam (hereinafter "the Contract"); (admitted)
+(d) the appellant performed the work under the Contract from June 12 to December 20, 1994; (admitted)
+(e) due to a mistake made by the cement supplier (Ciment Québec Inc.), part of the appellant's work was not acceptable, and Hydro‑Québec asked the appellant to redo the work, which was done in October and November 1994; (admitted)
+(f) because it had to redo the work, the appellant incurred major unforeseen additional costs, though it was nonetheless able to continue operating its business; (admitted)
+(g) the appellant brought an action against Ciment Québec Inc. and Hydro‑Québec for, inter alia, the costs of redoing the work ($548,808) and a loss of profit that it said was caused by the undermining of its ability to enter into other contracts ($1,296,779); (admitted)
+(h) with respect to the costs of redoing the work ($548,808), the parties to the action in damages admitted that the loss was actually $431,000; (no knowledge)
+(i) with respect to the loss of profit related to the undermining of the appellant's ability to enter into other contracts ($1,296,779), the parties to the action in damages admitted that the loss should actually be $1,050,000, but there was no admission of the existence of a causal link between the alleged error and the loss in question; (no knowledge)
+(j) on November 8, 1999, the Quebec Superior Court rendered its judgment, allowing the appellant's action in part and ordering Ciment Québec Inc. to pay the appellant $431,000, plus interest and additional indemnities from the date of summons (June 13, 1995); (admitted)
+(k) the Quebec Superior Court found Ciment Québec liable for the costs of redoing the work; (admitted)
+(l) as for the loss of profit related to the undermining of the appellant's ability to enter into other contracts, the Quebec Superior Court dismissed this claim because there was insufficient evidence of a direct causal link between the fault and any loss of earnings; (admitted)
+(m) Ciment Québec Inc. appealed this judgment to the Quebec Court of Appeal, which dismissed its appeal on June 6, 2002; (admitted)
+(n) on June 19, 2002, Ciment Québec Inc.'s insurance company paid the appellant $710,473.94, broken down as follows:
+Additional costs
+$431,000
+Interest and indemnities
+$279,474
+(admitted)
+(o) the amount of $431,000 consists of various expenses that were deducted in computing the appellant's business income for the taxation years in which the expenses were incurred; (denied)
+(p) the appellant deducted the legal fees incurred in connection with its action in damages in computing its business income for the taxation years in which the expenses were incurred; (no knowledge)
+(q) the additional costs incurred by the appellant in redoing the work deprived it of amounts that it would otherwise either have used to operate its business or held primarily to gain or produce income from its business, notably to obtain the performance bonds required in order for it to obtain contracts; (no knowledge)
+(r) the interest and indemnities, which totalled $279,474, are in respect of the lost profits represented by the $431,000 in additional costs; (no knowledge)
+(s) in its income tax return for its 2003 taxation year, the appellant treated a sum of $423,000 as proceeds of disposition of eligible capital property, and a sum of $284,474 as investment income, and did not include these amounts in computing its income from an active business. (denied)
+[3] In its income tax return for the taxation year ended January 31, 2003, the appellant treated the amounts awarded under the judgment as follows:
+(i) The amount of $431,000 was treated as proceeds from the disposition of an intangible asset, thereby reducing the cumulative eligible capital (CEC). The amount in question is actually the reimbursement of the additional costs incurred by the appellant in order to redo the work.
+(ii) The amount of $279,474, consisting of interest plus the additional indemnity, was treated as investment income.
+[4] For her part, the respondent submits that the $431,000 constitutes business income, not cumulative eligible capital (CEC), because it was paid to reimburse expenses that were incurred by the appellant and that were, moreover, attributed to the fiscal year in which the work was redone.
+[5] In support of this position, the Minister argues that the appellant deducted the legal fees that it incurred in connection with the litigation during the taxation years in which those expenses were paid.
+[6] The appellant is challenging the correctness of the reassessment in which the Minister determined that the damages obtained through legal proceedings constituted business income.
+[7] At the objection stage, the Minister rejected the appellant's claims and arguments and confirmed his initial decision.
+ISSUES
+[8] Did the Minister correctly determine that the amount of the reimbursement of the additional costs, which amount was obtained by the appellant under a judgment, should be included in its business income for the 2003 taxation year?
+[9] Did the Minister correctly determine that the interest and additional indemnity obtained by the appellant under the judgment constituted business income?
+FACTS
+[10]The appellant operates a construction business that specializes in formwork and concreting.
+[11]In 1994, the appellant did formwork and concreting for Hydro-Québec at the Témiscouata hydroelectric dam.
+[12]At one point, the appellant used cement that did not meet the requirements for the site. This was due to an error made by the cement supplier, Ciment Québec Inc.
+[13]Hydro-Québec, the corporation for which the appellant did the work, refused to accept it because the inappropriate and non-conforming cement put the integrity of the construction at risk.
+[14]Hydro-Québec therefore demanded that the appellant redo some of the work, having determined that it was non-conforming and unacceptable. The appellant promptly agreed to redo the work for which the wrong cement had been used. The work was indeed redone in the fall of 1994.
+[15]After it completed the work, the appellant brought an action against Ciment Québec Inc. and Hydro‑Québec to recover the additional costs of redoing the work.
+[16]On November 8, 1999, the Quebec Superior Court allowed the appellant's action in part and ordered Ciment Québec to pay the appellant $431,000 plus interest and the additional indemnity.
+[17]Ciment Québec appealed from this decision, and, on June 6, 2002, the Quebec Court of Appeal affirmed the judgment of the Quebec Superior Court.
+[18]On June 19, 2002, the judgment was complied with, and the appellant was paid $710,473.94 in satisfaction of the damages, interest and additional indemnity awarded. The relevant excerpts from the two judgments are as follows:
+Superior Court judgment (Exhibit A-1, Tab 22, at pages 7, 8 and 20):
+[TRANSLATION]
+. . .
+The parties have made the following admissions with respect to the damages claimed:
+· Due to the events that occurred, the plaintiff claimed $548,807.76 for the demolition and rebuilding of the weirs and pillars affected by the wrong mortar (contractual loss). The parties admit that this loss amounts to $431,000. The plaintiff is no longer contesting the correctness of the decision by Hydro-Québec to demand the demolition and rebuilding.
+· The plaintiff also claimed $1,296,778.56 in damages for harm to its professional reputation as a contractor, for the limitation of its financial ability to enter into other contracts, and for loss of business profits (allegation #48 of its amended statement of claim). There are expert reports dealing with this head of damages.
+The defendants admit the quantum of this portion of the claim to be $1,050,000, subject to the following conditions: the defendants still maintain that, even though the plaintiff lost this amount, there is no causal link between this loss and the error that was made on the job site.
+· The plaintiff claimed other amounts from Hydro-Québec (allegations #49 to #54 and first item of relief sought in the amended declaration). This part of the claim was settled out of court by the plaintiff and Hydro‑Québec and the Court need not concern itself with it.
+· There was also an admission in another matter between the parties that stems from the same facts. A judgment in that matter has been filed today.
+. . .
+ORDERS the defendant Ciment Québec Inc. to pay the plaintiff $431,000, as well as interest and an additional indemnity from the date of the summons (June 13, 1995) and costs, including the costs and fees of the expert François Gagnon, C.A., which are fixed at $10,000;
+. . .
+Judgment of the Court of Appeal (Exhibit A-1, Tab 25):
+[TRANSLATION]
+[1] THE COURT, on the appeal from a judgment of the Honourable Mr. Justice Édouard Martin of the Superior Court, District of Quebec City, dated November 8, 1999, ordering the appellant to pay Stellaire Construction Inc. the sum of $431,000 in connection with rebuilding work done in 1994 on the Témiscouata dam, and on the cross‑appeal by Stellaire Construction Inc.;
+[2] Having examined the file, heard the parties, and deliberated;
+[3] For the reasons stated by Chamberland J.A., in which Baudoin and Thibault JJ.A. concur;
+[4] DISMISSES the appeal, with costs, and
+[5] DISMISSES the cross-appeal, also with costs.
+. . .
+[19]The amount awarded by the Superior Court and confirmed by the Quebec Court of Appeal is essentially based on a document that the parties to the litigation before the Superior Court submitted to that court.
+[20]The court moreover attached considerable importance to the contents of that genuine agreement because it awarded only this one particular element of the appellant's claim. The document in question can be found at Tab 21 of the appellant's book of exhibits (Exhibit A‑1) and reads as follows:
+[TRANSLATION]
+Agreement between parties as to quantum
+Appendix 3.1 Revised version of 1999-09-21
+Stellaire v. Hydro-Québec claim
+Settlement of 1999-09-15
+HEAD OF DAMAGES
+CLAIMED BY STELLAIRE
+AGREED
+Costs of redoing work
+other than fixed head-office costs and interest costs
+Fixed head-office costs
+Interest costs
+Delay of contract 6674-96-201
+Performance bond costs
+Head-office costs
+TOTAL
+$420,602.00
+$48,463.00
+$12,536.00
+--------------------
+$481,601.00
+----------------
+$41,760.00
+$2,750.00
+$93,465.00
+----------------
+$137,975.00
+----------------
+$619,576.00
+$385,000
+Nil
+$8,000
+----------------
+$393,000
+----------------
+$37,000
+$1,000
+Nil
+----------------
+$38,000
+----------------
+$431,000
+NOTE 1
+NOTE 1
+NOTE 1- Technically, these amounts are part of the $1,700,000 claimed under loss of income.
+Such are the facts and evidence based on which the Court must dispose of this appeal. ANALYSIS
+Indemnity for contractual loss
+[21]I should note, preliminarily, that an amount of $8,000, which the appellant treated as interest income and the Minister considered as business income, was not varied in the notice of reassessment dated March 4, 2005.
+[22]In fact, counsel for the respondent made the following unequivocal statements in that regard (transcript, page 37, lines 11-20):
+[TRANSLATION]
+This leads me to the first point: the characterization of the actual damage amount of $423,000. We have showed you that the $431,000 in damages included $8,000 which Gestion E.S.C. Inc. considered to be interest. Ms. Dionne indicated to us the connections with the documents. That amount was not altered in the Minister's assessments. This was, in fact, explained in our Reply to the Notice of Appeal, and we will not revisit it. We will address the matter of the $423,000 only.
+[23]Thus, the amount of the indemnity for contractual loss that will be considered here is not $431,000, but $423,000, because the Minister did not question the treatment of this amount in the reassessment.
+[24]Therefore, the first question to be determined is the appropriate tax treatment of the $423,000 that the appellant received as a result of its action against Ciment Québec Inc.
+[25]This involves an analysis that requires us to ask the following question: What do the damages awarded seek to compensate, or, what is their basis? The answer to this question requires no interpretation or clarification, because the appellant itself made official admissions at the trial before the Superior Court. The amount represented additional construction costs.
+[26]Moreover, the contents of Exhibit A-1, Tab 21 (page 145), reproduced at paragraph 20 of these reasons, and the excerpt from the Superior Court judgment, reproduced at paragraph 18 of these reasons, appear to be in clear conflict with the submissions of the appellant, who states at page 84 of the transcript:
+[TRANSLATION]
+If I may make a small clarification: Contrary to what has been said, my client never admitted that the amount was a reimbursement of expenses; what it admitted was that the amount was a satisfactory settlement for damage that it suffered, and there was never any direct factual link made between the expenses incurred and the amount received.
+[27]This is not a case in which the amounts awarded by the judgment encompass a variety of components ranging from loss of income to the endangerment of the company itself following a dispute as to the validity of a debt.
+[28]In the instant case, the appellant, in its court action, broke down the damages amount into a number of component parts. The court essentially accepted the component respecting which the parties to the litigation, including, obviously, the appellant, had come to an agreement. Moreover, explanation was provided regarding the amount in question.
+[29]If it were possible to change or alter through a judgment the tax treatment of damages obtained, that would mean that the fact of bringing legal action could alter damages claimed, a result that would clearly make no sense. In other words, the fact that litigation was commenced would alter the basis of the claim, assuming the competent court granted relief.
+[30]First of all, the Act contains no specific provision regarding the tax treatment of amounts obtained as damages in court or under an out-of-court settlement as a result of actual legal proceedings. Thus, in determining how an amount received by way of litigation is to be treated for tax purposes, consideration of the facts that gave rise to the dispute is certainly justified.
+[31]This is an eminently logical principle; indeed, it is reassuring to see that the tax treatment of an amount obtained under a judgment of a competent court is the same as the treatment that would have prevailed if the amount had not been the subject of such a judgment.
+[32]In the case at bar, not only is surrogatum the appropriate approach, but one sees from the record that there is a factor that not only validates this approach but, far beyond that, provides confirmation that it is the correct one, namely, that the parties whose dispute resulted in the Superior Court judgment have themselves described the nature of the amount by making very specific admissions with regard thereto. Despite the clarity of the document reproduced at Tab 21 of Exhibit A‑1 (page 145), the appellant suggests an approach that appears to me to be inconsistent with what is clearly shown by the document.
+[33]Moreover, that is most certainly the basis of the surrogatum principle oft referred to in the cases on this subject.
+[34]In this regard, the respondent referred to Schwartz v. Canada,[1] a decision of the Supreme Court of Canada, which applied the surrogatum principle as developed by Diplock L.J. in London & Thames Haven Oil Wharves, Ltd.[2]
+[35]The Supreme Court dealt with the surrogatum principle once again in Tsiaprailis,[3] where its scope was broadened from commercial cases to take in a much wider range of income sources.
+[36]Diplock L.J. made the following statement concerning the principle:
+Where, pursuant to a legal right, a trader receives from another person compensation for the trader's failure to receive a sum of money which, if it had been received, would have been credited to the amount of profits (if any) arising in any year from the trade carried on by him at the time when the compensation is so received, the compensation is to be treated for income tax purposes in the same way as that sum of money would have been treated if it had been received instead of the compensation.
+[37]Thus, under the surrogatum principle, the tax treatment of amounts paid as damages or in an out-of-court settlement is closely connected to the basis of the dispute.
+[38]The tax treatment of an indemnity depends on the nature of the rights involved in the dispute and does not result from an exercise in which the origins and the reasons for the dispute are not taken into account.
+[39]In this regard, the appellant seems to be arguing that a litigious right is in itself a right whose foundations are secondary because it must be accorded a tax treatment that is specific to it. In other words, the appellant is saying that the tax treatment of an indemnity received under a judgment must be determined from the litigious right, and thus, independently from the reasons for the dispute.
+[40]Admittedly, a lawsuit can result in the award of various kinds of relief that are ancillary to the main issue; I am referring, for example, to damages intended to punish egregious bad faith, as well as penalties, exemplary damages, specific damages for abuse of rights, etc., with respect to which it may be necessary to engage in various exercises, and even some speculation, in order to determine in a nuanced way the various constituent elements of the total amount obtained under the judgment.
+[41]Here, the amounts awarded by the court are clearly defined both by the parties themselves and by the court that awarded them. According to the decision in London & Thames Haven Oil Wharves, Ltd., each case must be analyzed having regard to the facts peculiar to it, especially since there may be some degree of ambiguity, which is obviously not so in the case at bar.
+[42]Thus, where a payment is clearly made in reimbursement of the cost of capital property, the result is that it must be treated, for income tax purposes, as income on account of capital.
+[43]Conversely, a payment made in reimbursement of an expense associated with the operation of a business must be treated as income. In the case at bar, we must identify and define what the $423,000 awarded by the Superior Court to the appellant was intended to replace. Was it an amount to be attributed to the capital property account or to the business income account?
+[44]The appellant was successful with respect to the component of its claim that pertained to contractual loss, but the court did not accept the appellant's claims with respect to the other components of the monetary award sought in its action. The judgment, which, moreover, was affirmed by the Quebec Court of Appeal, states the following:
+[TRANSLATION]
+Due to the events that occurred, the plaintiff claimed $548,807.76 for the demolition and rebuilding of the weirs and pillars affected by the wrong mortar (contractual loss). The parties admit that this loss amounts to $431,000. The plaintiff is no longer contesting the correctness of the decision by Hydro-Québec to demand the demolition and rebuilding.
+[45]This excerpt unambiguously specifies the basis of the court's decision and the reason for its awarding $423,000 in damages.
+[46]That the expenses associated with redoing the work were considered to be of the same nature as those incurred for the work that needed to be redone is entirely reasonable, certainly sensible, and, in the case at bar, decisive.
+[47]The evidence in the case at bar has shown that the amount awarded by the Superior Court corresponded exactly to the costs related to the demolition and rebuilding of the non-conforming and unacceptable structures.
+[48]This is work that is consistent with the company's line of business, and, although unusual, certainly not abnormal, because it was done in the course of business by a company that was in that line of business.
+[49]In support of her submissions, the Minister's representative noted that, in computing its business income, the appellant, in addition to deducting the expenses incurred in order to carry out the initial formwork and concreting, also deducted the expenses associated with the demolition and rebuilding of the weirs and pillars for which the wrong mortar was used.
+[50]In so doing, the appellant reduced its business income, and consequently, its tax burden, for 1994. That is a sufficient basis for concluding that the payment to the appellant was a reimbursement of an expense attributable to income.
+[51]It is patently obvious that the compensation awarded by the Superior Court and payable by Ciment Québec was intended to put the appellant back in the situation that existed before the error was made.
+[52]In his oral submissions, counsel for the appellant suggested — for the first time, and citing the decision in Ipsco[4] — that the amount might be a windfall.
+[53]On the basis of decisions of the Federal Court of Appeal in Mohawk Oil v. Canada, [1992] 2 F.C. 485, [1992] 1 C.T.C. 195, and Bellingham v. Canada, [1996] 1 F.C. 613, [1996] 1 C.T.C. 187, I do not accept this argument; both decisions clearly articulate the conditions that must be met in order for one to conclude that there was a windfall.
+[54]In order for income to be considered a tax-exempt windfall, it cannot be income from a business or property within the meaning of subsection 9(1) of the Act, nor can it be income from a source contemplated in paragraph 3(a).
+[55]In Bellingham, the Federal Court of Appeal held that punitive damages constituted a windfall because "the punitive damage award does not flow from either the performance or breach of a market transaction".
+[56]Thus, where a court exercises its power to sanction a person's reprehensible conduct, the award does not constitute income from a source within the meaning of paragraph 3(a) of the Act, but is, rather, a tax-exempt windfall.
+[57]In the case at bar, the payment results from an error made by Ciment Québec in the course of a business transaction, that error consisting in the supply to the appellant of a type of mortar that was inappropriate for the work that the appellant was doing.
+[58]There is absolutely nothing in the evidence, the judgment of the Superior Court or the judgment of the Court of Appeal to support a conclusion or finding that the amounts awarded by the Superior Court were a sanction, a penalty or anything of that nature. Consequently, they cannot constitute a windfall, because the damage results from a normal business transaction. In other words, the amounts awarded by the judgment were intended merely to restore the appellant to the same situation as that in which it had been.
+[59]The appellant further submits that, in the event that this Court holds that the $423,000 indemnity for contractual loss was not a windfall, that amount should, at the very least, be considered a disposition of eligible capital property (ECP).
+[60]The disposition of eligible capital property would give rise to an increase in the amount of cumulative eligible capital (CEC).
+[61]According to the appellant, the amount of $423,000 must be taken into account in variable E of the definition of CEC in subsection 14(5) of the Act, which would have the effect of creating a negative CEC.
+[62]A negative CEC would trigger the application of subsection 14(1), which would increase the appellant's business income by the amounts determined in paragraphs 14(1)(a) and 14(1)(b).
+[63]The appellant referred to 656203 Ontario Inc. v. Canada, [2003] T.C.J. No. 226 (QL), in which Justice Lamarre of this Court held that eligible capital property had been disposed of.
+[64]The respondent answered — correctly, I might add — that Lamarre J. actually rejected the appellant's argument that there had been a windfall, saying that she was not satisfied that ECP had been disposed of, but that a different finding would have amounted to giving the appellant less favourable treatment than that proposed by the Minister. For these reasons, she dismissed the appeal and confirmed the Minister's assessment.
+[65] It is difficult to follow the appellant's thought process and reasoning with respect to the relationship between the tax treatment of the 1994 contractual loss and its argument that eligible capital property was disposed of in 2003.
+[66]Indeed, the appellant has claimed an expense for tax purposes in the past, and the amount thereof was reimbursed by Ciment Québec as ordered by the court. The appellant's treatment of the expenses in 1994 confirms that they are attributable to the revenue account, and the civil judgment clearly shows a connection between the expenses and the amount awarded.
+[67]If the appellant had not claimed an expense equal to the amounts spent on demolishing and rebuilding the structures on which the wrong mortar was used, and had chosen instead to capitalize these expenses as an intangible asset (an interest in a debt), then its argument might have had a better chance, at least from a logical standpoint.
+[68]Indeed, a "disposition", according to the definition of that term in subsection 248(1) of the Act, includes the settlement or payment of a debt or a settlement or payment with respect to any other right to receive an amount. Ultimately, the effect would have been the same, since a deduction from business income in 1994, coupled with an inclusion in 2003, yields a neutral result, just as the creation of an intangible asset in 1994, followed by its disposition for an amount equal to its cost, would have done.
+[69]In the case at bar, the appellant artificially reduced the profit from the contract, thereby artificially reducing its taxable income for the 1994 taxation year; the inclusion of this amount therefore puts the appellant, today, in the tax situation that should have existed but for the error made by Ciment Québec.
+Interest and additional indemnity
+[70]The issue of the interest and additional indemnity raises other questions as well, since this component of the total award, which encompasses principal, interest and the additional indemnity, is also disputed.
+[71]Any debt arising from the supply of services, or the sale of property, or both, can be disputed for a variety of reasons, ranging from delay to simple disagreement.
+[72]No specific comments were made with respect to the question of the additional indemnity, and that is as it should be, since the amount of such an indemnity is essentially a percentage that varies, depending on the period in issue, in order to better reflect economic realities, whereas legal interest computed at a fixed rate does not take the numerous fluctuations of the economy into account.
+[73]The appellant submits that the tax treatment of the interest and additional indemnity should be based not on the origin of the principal amount, but rather, on all the facts and factors that gave rise to the litigious right.
+[74]The appellant submits that the interest constitutes investment income that increases the balance of its refundable dividend tax on hand (RDTOH) account, thereby entitling it to a dividend refund.
+[75]As for the Minister, he asserts that the interest here is essentially incidental to income from an active business carried on by the appellant, and is therefore not investment income. In other words, the Minister submits that the tax treatment of interest is to be determined on the basis of the question concerning interest: essentially, the source must be identified.
+[76]In our taxation system, a corporation's investment income is treated less advantageously than income that it earns from an active business.
+[77]In the interest of integration, part of the additional tax that a corporation pays on investment income is refunded to it when it pays dividends. This is the dividend refund.
+[78]In subsection 129(3) of the Act, Parliament created the RDTOH, a notional account in which amounts potentially giving entitlement to a dividend refund accrue. One of the amounts added to the account is 26.67% of a corporation's aggregate investment income.
+[79]In subsection 129(4), the term "aggregate investment income" is defined for the purposes of the RDTOH; subject to certain exceptions, it consists of the capital gains and income from a source that is property.
+[80]In the appellant's submission, interest awarded in a civil judgment is income from a source that is property. This is a legitimate interpretation, but it is not the only possible conclusion because the term "income" is also defined in subsection 129(4) as follows:
+"income" or "loss" of a corporation for a taxation year from a source that is a property
+(a) includes the income or loss from a specified investment business carried on by it in Canada other than income or loss from a source outside Canada, but
+(b) does not include the income or loss from any property
+(i) that is incident to or pertains to an active business carried on by it, or
+(ii) that is used or held principally for the purpose of gaining or producing income from an active business carried on by it.
+[Emphasis added.]
+[81]There is an exception for income from property that is incident to or used in an active business. By way of example, interest on funds set aside for the payment of materials ordered by the corporation would fall under this exception.
+[82]These funds were used in an active business as, at the civil trial, the appellant itself argued that the fact that the funds were not available considerably reduced its chances of obtaining a performance bond, which is an essential element in the construction industry.
+[83]In the course of the events that gave rise to the litigation, the appellant's shareholders even had to make an additional investment in the corporation in order to ensure the business's smooth operation. Despite this, I do not believe that the situation was any different from one in which interest is collected on past-due debts; it was clearly a litigious claim, one which Ciment Québec did in fact dispute, unsuccessfully, in court. In other words, the result of the litigation was essentially that it took considerably longer than usual to obtain the interest on the past-due amount.
+[84]The amounts spent in order to meet the additional expenses in 1994 had previously been used in an active business; consequently, any interest on such amounts was income incident to that use.
+[85]Since the interest granted by the court was not part of the appellant's aggregate investment income, it can have no bearing on the balance of the refundable dividend tax on hand.
+[86]Any claim stemming from the ordinary operation of a business can be disputed for a multitude of reasons ranging from the frivolous to the highly meritorious.
+[87]Consequently, each case must be subjected to a specific analysis aimed at ascertaining the reason for, and origin of, the interest.
+[88]In the case at bar, both the principal and the interest awarded by the court and paid by the defendant Ciment Québec were essentially compensation for work done in the ordinary course of the appellant's business.
+[89]For these reasons, the appeal is dismissed, with costs.
+Signed at Ottawa, Canada, this 4th day of July 2008.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 9th day of October 2008.
+Erich Klein, Revisor
+CITATION: 2008TCC315
+COURT FILE NO.: 2006-2424(IT)G
+STYLE OF CAUSE: GESTION E.S.C. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Quebec City, Quebec
+DATE OF HEARING: December 13, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: July 4, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Robert Marcotte
+Counsel for the Respondent:
+Nathalie Lessard
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Robert Marcotte
+Firm: Attorney and Chartered Accountant
+City: Quebec City, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Schwartz v. Canada, [1996] 1 S.C.R. 254.
+[2] London & Thames Haven Oil Wharves, Ltd. v. Attwooll, [1967] 2 All E.R. 124 (C.A.).
+[3] Tsiaprailis v. Canada, [2005] 1 S.C.R. 113.
+[4] Ipsco Inc. v. The Queen, 2002 DTC 1421.

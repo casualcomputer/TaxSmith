@@ -1,0 +1,394 @@
+---
+title: "Evans v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26957/index.do"
+last_modified: "2005-11-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 684"
+citation2: ""
+neutral_citation: "2005 TCC 684"
+decision_date: "2005-11-28"
+language: "en"
+item_id: "26957"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 567
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:04:42.005000+00:00"
+cases_cited_count: 2
+cases_citing_count: 9
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1e44e7aabb9ed443139a003ab3b2bb55c31d9457f35816bfa7958163f9aaf14c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Evans v. The Queen
+
+- Citation: 2005 TCC 684
+- Decision date: 2005-11-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 567, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Evans v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-11-28
+Neutral citation
+2005 TCC 684
+File numbers
+2003-966(IT)G
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-966(IT)G
+BETWEEN:
+L. MARK EVANS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on October 17, 2005 at Calgary, Alberta.
+Before: The Honourable D.G.H. Bowman, Chief Justice
+Appearances:
+Counsel for the Appellant: Clyde R. Davis
+Robert Donald
+Counsel for the Respondent: John O'Callaghan
+Jon Gilbert
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1997, 1998 and 1999 taxation years are allowed with costs and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that subsection 245(2) does not apply to the transactions in question.
+Signed at Ottawa, Canada, this 28th day of November 2005.
+"D.G.H. Bowman"
+Bowman, C.J.
+Citation: 2005TCC684
+Date: 20051128
+Docket: 2003-966(IT)G
+BETWEEN:
+L. MARK EVANS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowman, C.J.
+[1] These appeals are from reassessments for the appellant's 1997, 1998 and 1999 taxation years. They will be among the first cases to be decided since the decisions of the Supreme Court of Canada in Canada Trustco Mortgage Co. v. Canada, 2005 SCC 54 and Mathew v. Canada, 2005 SCC 55 ("Kaulius"), which established definitive guidelines in the application and interpretation of section 245 of the Income Tax Act.
+[2] The parties entered into a partial agreed statement of facts ("ASF"), which sets out in detail the transactions giving rise to the assessments. It is reproduced as Schedule A to these reasons. To state the issues, however, a brief summary will suffice. The appellant is a dentist practising his profession in Lethbridge, Alberta. He was a sole shareholder of a professional corporation called variously L.M. Evans Professional Corporation, 117679 Alberta Ltd. and "Hygiene". Throughout these reasons I shall call it 117679. 117679 had three commercial activities: the practice of dentistry, a dental hygiene business and rental properties. Dr. Evans rolled the rental business and dental practice into two new corporations. The hygiene business stayed in 117679.
+[3] I shall, for the purposes of this summary, not describe the rollover of the dental practice and the rental properties to the new corporations, as well as the transfer of some of the Class A shares of 117679 by the appellant to one of the corporations. These were all done on a tax-free basis under subsection 85(1) of the Income Tax Act, and were followed by share redemptions and deemed intercorporate tax-free dividends, as well as promissory notes being given or received by the various corporations. These transactions are set out in detail in the ASF. They are essentially peripheral to the questions in these appeals, although they do tend to illustrate the complexity and the high level of tax sophistication that was involved in the reorganization of Dr. Evans' business and professional affairs.
+[4] What is germane is that on December 2, 1996, 117679 issued to Dr. Evans a stock dividend of 487 non-voting Class B shares which were redeemable and retractable for $1,000 per share. They were sold the next day to a limited partnership consisting of Dr. Evans' wife as general partner, with a 1% interest in the partnership, and three of his children as limited partners, each with a 33% interest. The price was the fair market value of $487,000 and a promissory note in that amount was given to Dr. Evans by the partnership.
+[5] The note was due December 31, 2001, and bore interest at the prescribed rate of 5% per annum. Under section 74.5 of the Income Tax Act the attribution rules did not apply where the property was sold at its fair market value and the indebtedness bore interest at the prescribed rate. It is not contended that the conditions in section 74.5 were not met.
+[6] Dr. Evans realized a capital gain of $486,900 or a taxable capital gain of $365,175 on the sale. He offset the taxable capital gain with his capital gains deduction under section 110.6 so that he paid no tax in 1996 in respect of the taxable capital gain.
+[7] During the years 1997, 1998 and 1999, 117679 paid amounts to the partnership by way of dividends and redemption of the Class B shares. Those precise amounts were in turn paid by the partnership to Dr. Evans as principal and interest on the promissory note. Dr. Evans included the interest in his income. The dividends and deemed dividends were included in the partnership's income and the interest paid to Dr. Evans was deducted by the partnership. The net profit was attributed to the partners who included their share in their income. In 1996, one of the partners paid tax of $1,558.05. The other partners paid no tax in 1996 and none of the partners paid tax in 1997 or 1998.
+[8] As part of his argument, counsel for the respondent submitted a flow chart which I have attached as Schedule B. Although not part of the ASF it accurately and succinctly sets out what happened. The argumentative parts can be ignored.
+[9] The chart on page 2 of Schedule B illustrates rather clearly how the amounts paid by 117679 to the partnership were precisely the amounts paid to Dr. Evans as principal and interest. Nothing was distributed to the partners in those years.
+[10] By the end of 1999 the partnership held 318.53 Class B shares. According to paragraph 56 of the ASF principal payments of $158,113 had been made, leaving an indebtedness of $328,887 under the promissory note.
+[11] The appellant characterizes this arrangement as a legitimate form of estate planning or wealth transfer to his family in which each specific rule of the Income Tax Act was respected and observed. I agree that the plan was carefully, indeed meticulously, executed. I shall list the sections that were utilized:
+section 85 - the rollovers of assets to a corporation
+section 110.6 - the capital gains exemption
+subsection 84(3) - deemed dividend on the redemption of shares
+section 112 - tax free intercorporate dividends
+subsection 52(3) - stock dividends
+section 74.5 - exclusion of attribution rules where fair market value
+consolidation paid
+[12] The respondent asserts that the whole series of transactions was nothing more than a surplus strip in which the provisions mentioned above, as well as the Income Tax Act as a whole, were abused. The Minister of National Revenue recharacterized as dividends under section 245 everything the appellant received from the partnership, including principal and interest.
+[13] The applicable principles in cases where an assessment has been made under section 245 have recently been authoritatively determined in two unanimous decisions of the Supreme Court of Canada, Mathew v. Canada, supra, (hereinafter referred to as Kaulius) and Canada Trustco Mortgage Co. v. Canada, supra. Counsel were given the opportunity to make submissions on these cases. The approach to the general anti-avoidance rule ("GAAR") established by the Supreme Court of Canada in Canada Trustco is set out at paragraph 66 of that judgment.
+66 The approach to s. 245 of the Income Tax Act may be summarized as follows.
+1. Three requirements must be established to permit application of the GAAR:
+(1) A tax benefit resulting from a transaction or part of a series of transactions (s. 245(1) and (2));
+(2) that the transaction is an avoidance transaction in the sense that it cannot be said to have been reasonably undertaken or arranged primarily for a bona fide purpose other than to obtain a tax benefit; and
+(3) that there was abusive tax avoidance in the sense that it cannot be reasonably concluded that a tax benefit would be consistent with the object, spirit or purpose of the provisions relied upon by the taxpayer.
+2. The burden is on the taxpayer to refute (1) and (2), and on the Minister to establish (3).
+3. If the existence of abusive tax avoidance is unclear, the benefit of the doubt goes to the taxpayer.
+4. The courts proceed by conducting a unified textual, contextual and purposive analysis of the provisions giving rise to the tax benefit in order to determine why they were put in place and why the benefit was conferred. The goal is to arrive at a purposive interpretation that is harmonious with the provisions of the Act that confer the tax benefit, read in the context of the whole Act.
+5. Whether the transactions were motivated by any economic, commercial, family or other non-tax purpose may form part of the factual context that the courts may consider in the analysis of abusive tax avoidance allegations under s. 245(4). However, any finding in this respect would form only one part of the underlying facts of a case, and would be insufficient by itself to establish abusive tax avoidance. The central issue is the proper interpretation of the relevant provisions in light of their context and purpose.
+6. Abusive tax avoidance may be found where the relationships and transactions as expressed in the relevant documentation lack a proper basis relative to the object, spirit or purpose of the provisions that are purported to confer the tax benefit, or where they are wholly dissimilar to the relationships or transactions that are contemplated by the provisions.
+7. Where the Tax Court judge has proceeded on a proper construction of the provisions of the Income Tax Act and on findings supported by the evidence, appellate tribunals should not interfere, absent a palpable and overriding error.
+[14] There are many other passages that might be quoted from Canada Trustco and Kaulius. These cases will continue to be studied, analysed and followed extensively as new fact situations arise. I shall mention a few other passages that struck me as particularly helpful in this case. Paragraphs 10 to 16 read:
+10 It has been long established as a matter of statutory interpretation that "the words of an Act are to be read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament": see 65302 British Columbia Ltd. v. Canada, [1999] 3 S.C.R. 804, at para. 50. The interpretation of a statutory provision must be made according to a textual, contextual and purposive analysis to find a meaning that is harmonious with the Act as a whole. When the words of a provision are precise and unequivocal, the ordinary meaning of the words play a dominant role in the interpretive process. On the other hand, where the words can support more than one reasonable meaning, the ordinary meaning of the words plays a lesser role. The relative effects of ordinary meaning, context and purpose on the interpretive process may vary, but in all cases the court must seek to read the provisions of an Act as a harmonious whole.
+11 As a result of the Duke of Westminster principle (Commissioners of Inland Revenue v. Duke of Westminster, [1936] A.C. 1 (H.L.)) that taxpayers are entitled to arrange their affairs to minimize the amount of tax payable, Canadian tax legislation received a strict interpretation in an era of more literal statutory interpretation than the present. There is no doubt today that all statutes, including the Act, must be interpreted in a textual, contextual and purposive way. However, the particularity and detail of many tax provisions have often led to an emphasis on textual interpretation. Where Parliament has specified precisely what conditions must be satisfied to achieve a particular result, it is reasonable to assume that Parliament intended that taxpayers would rely on such provisions to achieve the result they prescribe.
+12 The provisions of the Income Tax Act must be interpreted in order to achieve consistency, predictability and fairness so that taxpayers may manage their affairs intelligently. As stated at para. 45 of Shell Canada Ltd. v. Canada, [1999] 3 S.C.R. 622:
+[A]bsent a specific provision to the contrary, it is not the courts' role to prevent taxpayers from relying on the sophisticated structure of their transactions, arranged in such a way that the particular provisions of the Act are met, on the basis that it would be inequitable to those taxpayers who have not chosen to structure their transactions that way. [Emphasis added.]
+See also 65302 British Columbia, at para. 51, per Iacobucci J. citing P. W. Hogg and J. E. Magee, Principles of Canadian Income Tax Law (2nd ed. 1997), at pp. 475-76:
+It would introduce intolerable uncertainty into the Income Tax Act if clear language in a detailed provision of the Act were to be qualified by unexpressed exceptions derived from a court's view of the object and purpose of the provision.
+13 The Income Tax Act remains an instrument dominated by explicit provisions dictating specific consequences, inviting a largely textual interpretation. Onto this compendium of detailed stipulations, Parliament has engrafted quite a different sort of provision, the GAAR. This is a broadly drafted provision, intended to negate arrangements that would be permissible under a literal interpretation of other provisions of the Income Tax Act, on the basis that they amount to abusive tax avoidance. To the extent that the GAAR constitutes a "provision to the contrary" as discussed in Shell (at para. 45), the Duke of Westminster principle and the emphasis on textual interpretation may be attenuated. Ultimately, as affirmed in Shell, "[t]he courts' role is to interpret and apply the Act as it was adopted by Parliament" (para. 45). The court must to the extent possible contemporaneously give effect to both the GAAR and the other provisions of the Income Tax Act relevant to a particular transaction.
+5.2 Interpretation of the GAAR
+14 The GAAR was enacted in 1988, principally in response to Stubart Investments Ltd. v. The Queen, [1984] 1 S.C.R. 536, which rejected a literal approach to interpreting the Act. At the same time, the Court rejected the business purpose test, which would have restricted tax reduction to transactions with a real business purpose. Instead of the business purpose test, the Court proposed guidelines to limit unacceptable tax avoidance arrangements. Parliament deemed the decision in Stubart an inadequate response to the problem and enacted the GAAR.
+15 The Explanatory Notes to Legislation Relating to Income Tax issued by the Honourable Michael H. Wilson, Minister of Finance (June 1988) ("Explanatory Notes") are an aid to interpretation. The Explanatory Notes state at the outset that they "are intended for information purposes only and should not be construed as an official interpretation of the provisions they describe". They state the purpose of the GAAR at p. 461:
+New section 245 of the Act is a general anti-avoidance rule which is intended to prevent abusive tax avoidance transactions or arrangements but at the same time is not intended to interfere with legitimate commercial and family transactions. Consequently, the new rule seeks to distinguish between legitimate tax planning and abusive tax avoidance and to establish a reasonable balance between the protection of the tax base and the need for certainty for taxpayers in planning their affairs.
+16 The GAAR draws a line between legitimate tax minimization and abusive tax avoidance. The line is far from bright. The GAAR's purpose is to deny the tax benefits of certain arrangements that comply with a literal interpretation of the provisions of the Act, but amount to an abuse of the provisions of the Act. But precisely what constitutes abusive tax avoidance remains the subject of debate. Hence these appeals.
+[15] In paragraph 21 the Court stated that:
+"... The GAAR was enacted as a provision of last resort in order to address abusive tax avoidance, it was not intended to introduce uncertainty in tax planning."
+[16] Paragraphs 23 to 26 deal with the meaning of the phrase "series of transactions" and adopt the test enunciated in the House of Lords in Craven v. White [1989] A.C. 398. at p. 514. I do not think that it can reasonably be argued that the sequence of events involved in the complex set of steps that we have here was not pre-planned to achieve the intended result. Clearly, it was a series as defined by the Supreme Court of Canada.
+[17] The first question is whether there is a tax benefit resulting from the transaction or part of the transaction. "Avoidance transaction" under paragraph 245(3)(b) means a part of a series of transactions which series, but for section 245, would result in a tax benefit. I think there was a tax benefit. Had Dr. Evans simply received a dividend of over $267,000 from 117679 he would have paid tax on it.
+[18] The next enquiry is whether the transaction or series of transactions constitute an avoidance transaction. Simply put, may they "reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit"?
+[19] This is essentially a factual determination. Can it reasonably be said that the purpose was primarily a non-tax purpose? The economic objective was to put the corporate funds in Dr. Evans' hands. A simple declaration and payment to Dr. Evans of a dividend would have achieved this but at a significant tax cost. The effect of the somewhat complex arrangements was to do so without attracting the tax that a simple payment of a dividend would involve. I do not accept the appellant's argument that the primary purpose was to transfer wealth to the children. All or virtually all of the funds ended up in Dr. Evans' hands. By the end of 1999 the partnership's indebtedness to Dr. Evans exceeded the value of the shares it held.
+[20] What then do we have? A non-tax purpose of getting corporate funds into Dr. Evans' hands and a method of doing so by means of a series of transactions whose primary purpose - arguably, the only purpose - was to enable him to do so at a significantly reduced tax cost.
+[21] Paragraphs 27 to 35 of the Canada Trustco judgment deal with the question whether a transaction is an avoidance transaction. Paragraphs 30 to 35 underscore the importance of maintaining a taxpayer's right to arrange his or her affairs so as to attract the least amount of tax. They read:
+30 The courts must examine the relationships between the parties and the actual transactions that were executed between them. The facts of the transactions are central to determining whether there was an avoidance transaction. It is useful to consider what will not suffice to establish an avoidance transaction under s. 245(3). The Explanatory Notes state, at p. 464:
+Subsection 245(3) does not permit the "recharacterization" of a transaction for the purposes of determining whether or not it is an avoidance transaction. In other words, it does not permit a transaction to be considered to be an avoidance transaction because some alternative transaction that might have achieved an equivalent result would have resulted in higher taxes.
+31 According to the Explanatory Notes, Parliament recognized the Duke of Westminster principle "that tax planning - arranging one's affairs so as to attract the least amount of tax - is a legitimate and accepted part of Canadian tax law" (p. 464). Despite Parliament's intention to address abusive tax avoidance by enacting the GAAR, Parliament nonetheless intended to preserve predictability, certainty and fairness in Canadian tax law. Parliament intends taxpayers to take full advantage of the provisions of the Income Tax Act that confer tax benefits. Indeed, achieving the various policies that the Income Tax Act seeks to promote is dependent on taxpayers doing so.
+32 Section 245(3) merely removes from the ambit of the GAAR transactions that may reasonably be considered to have been undertaken or arranged primarily for a non-tax purpose. Parliament did not intend s. 245(3) to operate simply as a business purpose test, which would have considered transactions that lacked an independent bona fide business purpose to be invalid.
+33 The expression "non-tax purpose" has a broader scope than the expression "business purpose". For example, transactions that may reasonably be considered to have been undertaken or arranged primarily for family or investment purposes would be immune from the GAAR under s. 245(3). Section 245(3) does not purport to protect only transactions that have a real business purpose. Parliament wanted many schemes that do not have any business purpose to endure. Registered Retirement Savings Plans (RRSPs) are one example. Parliament recognized that many provisions of the Act confer legitimate tax benefits notwithstanding the lack of a real business purpose. This is apparent from the general language used throughout s. 245, as opposed to language which would have adopted a broad anti-avoidance test subject to exemptions for specific schemes like RRSP transactions.
+34 If at least one transaction in a series of transactions is an "avoidance transaction", then the tax benefit that results from the series may be denied under the GAAR. This is apparent from the wording of s. 245(3). Conversely, if each transaction in a series was carried out primarily for bona fide non-tax purposes, the GAAR cannot be applied to deny a tax benefit.
+35 Even if an avoidance transaction is established under the s. 245(3) inquiry, the GAAR will not apply to deny the tax benefit if it may be reasonable to consider that it did not result from abusive tax avoidance under s. 245(4), as discussed more fully below.
+[22] I find as a matter of fact that the primary purpose of the series of transactions with which we are concerned here was to put the corporate funds in Dr. Evans' hands. The method chosen was one designed to enable him to do so at the least tax cost. I emphasize the words from the Explanatory Notes adopted by the Supreme Court of Canada in paragraph 30 of Canada Trustco:
+Subsection 245(3) does not permit the "recharacterization" of a transaction for the purposes of determining whether or not it is an avoidance transaction. In other words, it does not permit a transaction to be considered to be an avoidance transaction because some alternative transaction that might have achieved an equivalent result would have resulted in higher taxes.
+[23] This is what I think the Crown is doing here. Also, I rely upon the words in paragraph 31:
+... Despite Parliament's intention to address abusive tax avoidance by enacting the GAAR, Parliament nonetheless intended to preserve predictability, certainty and fairness in Canadian tax law. Parliament intends taxpayers to take full advantage of the provisions of the Income Tax Act that confer tax benefits. Indeed, achieving the various policies that the Income Tax Act seeks to promote is dependent on taxpayers doing so.
+If I conclude that the relevant series of transactions is the one whereby the tax free extraction of the corporate funds was achieved, and if I conclude that this is an avoidance transaction, then I must go on to consider the third question, that of abusive tax avoidance. If I conclude that there is no avoidance transaction, obviously this third question is moot. However, if I am wrong in believing that this is not an avoidance transaction based on my understanding of what the Supreme Court of Canada considers to be an avoidance transaction, this leaves the third question: if this is an avoidance transaction, is it an abusive one? I shall proceed on the assumption that the answer to the second question in paragraph 66 of the decision in Canada Trustco is that there is an avoidance transaction.
+[24] The concepts of misuse and abuse are described in paragraphs 37 to 62 of the Supreme Court of Canada's judgment in Canada Trustco. I shall try to summarize what I believe to be the points that are necessary to decide whether it may reasonably be considered that this series of transactions (assuming it to be an avoidance transaction)
+... would not result directly or indirectly in a misuse of the provisions of this Act or an abuse having regard to the provisions of this Act, other than this section, read as a whole.
+within the meaning of subsection 245(4).[1]
+[25] The principles established by the Supreme Court of Canada in respect of the application and interpretation of these words are:
+(a) The disjunctive version of the English text and the non-disjunctive French text do not mandate two separate enquiries. There is one inquiry - the interpretation of the relevant provisions of the Income Tax Act in a unified, textual, contextual and purposive approach. (Paras. 38, 39 & 40.)
+(b) The Courts should not look for an overriding policy of the Income Tax Act that can be used to override the interpretation of the Act based on a unified, textual, contextual and purposive approach consistent with Parliament's policy that the tax law be certain, predictable and fair. (Paras. 41, 42 and 43.)
+(c) The Court must interpret the sections giving rise to the tax benefits and determine whether the transaction falls within or frustrates the object, spirit or purpose of the provisions that confer the tax benefit. (Para. 44.)
+[26] Paragraphs 45, 46, 49 and 50 are so important that I set them out in their entirety:
+45 This analysis will lead to a finding of abusive tax avoidance when a taxpayer relies on specific provisions of the Income Tax Act in order to achieve an outcome that those provisions seek to prevent. As well, abusive tax avoidance will occur when a transaction defeats the underlying rationale of the provisions that are relied upon. An abuse may also result from an arrangement that circumvents the application of certain provisions, such as specific anti-avoidance rules, in a manner that frustrates or defeats the object, spirit or purpose of those provisions. By contrast, abuse is not established where it is reasonable to conclude that an avoidance transaction under s. 245(3) was within the object, spirit or purpose of the provisions that confer the tax benefit.
+46 Once the provisions of the Income Tax Act are properly interpreted, it is a question of fact for the Tax Court judge whether the Minister, in denying the tax benefit, has established abusive tax avoidance under s. 245(4). Provided the Tax Court judge has proceeded on a proper construction of the provisions of the Act and on findings supported by the evidence, appellate tribunals should not interfere, absent a palpable and overriding error.
+. . . . .
+49 In all cases where the applicability of s. 245(4) is at issue, the central question is, having regard to the text, context and purpose of the provisions on which the taxpayer relies, whether the transaction frustrates or defeats the object, spirit or purpose of those provisions. The following points are noteworthy:
+(1) While the Explanatory Notes use the phrase "exploit, misuse or frustrate", we understand these three terms to be synonymous, with their sense most adequately captured by the word "frustrate".
+(2) The Explanatory Notes elaborate that the GAAR is intended to apply where under a literal interpretation of the provisions of the Income Tax Act, the object and purpose of those provisionswould be defeated.
+(3) The Explanatory Notes specify that the application of the GAAR must be determined by reference to the facts of a particular case in the context of the scheme of the Income Tax Act.
+(4) The Explanatory Notes also elaborate that the provisions of the Income Tax Act are intended to apply to transactions with real economic substance.
+50 As previously discussed, Parliament sought to address abusive tax avoidance while preserving consistency, predictability and fairness in tax law and the GAAR can only be applied to deny a tax benefit when the abusive nature of the transaction is clear.
+[27] I turn then to the various sections of the Income Tax Act that were used in putting the corporate funds in Dr. Evans' hands at a minimal tax cost. I ask five questions:
+(1) Is it an abuse or misuse of these sections interpreted textually, in their context in the Act, and having regard to their purpose, where they are simply used to achieve the very result for which they are designed?
+(2) Does a literal interpretation of these provisions defeat the object and spirit of those provisions? Put differently, if it does, is there another, less literal interpretation, that could be adopted that would not defeat their object and spirit?
+(3) Are there any specific anti-avoidance provisions of the Act that the arrangement circumvents in a manner that frustrates or defeats their object, spirit or purpose?
+(4) Do the transactions have real economic substance?
+(5) Has the Minister met the burden of establishing that the object, spirit or purpose of these provisions have been defeated or frustrated?
+I set out above the provisions that were utilized. I shall do so again.
+section 85 - the rollover of assets to a corporation
+section 110.6 - the capital gains exemption
+subsection 84(3) - deemed dividend on the redemption of shares
+section 112 - tax free intercorporate dividends
+subsection 52(3) - stock dividends
+section 74.5 - exclusion of attribution rules where fair market value
+consolidation paid
+[28] The ASF details the transactions in which these provisions were used. They were used for the very purpose for which they are in the Act. I do not see how it can be said that to rely upon a provision that permits a tax free rollover of assets for shares, followed by a tax free intercorporate dividend, can possibly be said to frustrate or defeat the object or spirit of those provisions within the context of the Act as a whole. Their object and spirit is to permit people to do exactly what was done here. Indeed, they do not admit of any other interpretation. Similarly, the Act is highly specific when it comes to stock dividends. The overall result is that the stock dividends, when issued to Dr. Evans, were included in his income to the extent of $100, which was his adjusted cost base and the increase in the paid up capital (para. 21, ASF). When he sold the shares to the partnership he realized a capital gain of $486,900 which was offset by the capital gains deduction. The capital gains deduction was not abused or misused. It was merely being used. When the Class B shares were redeemed the deemed dividend was not taxed in the children's hands simply because of the tax bracket they were in. Section 74.5 excluded the attribution rules because that is what it was designed to do if its terms were complied with.
+[29] I do not think that it can be said that there is an abuse of the provisions of the Act where each section operates exactly the way it is supposed to. The Crown's position seems to be predicated on the view that since everything worked like clockwork there must have been an abuse. The answer to this position is, of course, that if everything had not worked like clockwork we would not be here.
+[30] The only basis upon which I could uphold the Minister's application of section 245 would be to find that there is some overarching principle of Canadian tax law that requires that corporate distributions to shareholders must be taxed as dividends, and where they are not the Minister is permitted to ignore half a dozen specific sections of the Act. This is precisely what the Supreme Court of Canada has said we cannot do.
+[31] I have so far focussed on only those words of subsection 245(4) "a misuse of the provisions of this Act" and have concluded that no section of the Income Tax Act, considered individually, has been misused. I am however aware that the Supreme Court of Canada has treated the question under subsection 245(4) as a single enquiry and has stated that the first part must be read with the question whether the transactions resulted in an "abuse, having regard to the provisions of the Act, other than [section 245] read as a whole." As noted by the Supreme Court of Canada, the original French version is not disjunctive. It reads:
+(4) Non-applicable du par. (2). Il est entendu que l'opération dont il est raisonnable de considérer qu'elle n'entraîne pas, directement ou indirectement, d'abus dans l'application des dispositions de la présente loi lue dans son ensemble - compte non tenu du présent article - n'est pas visée par le paragraphe (2).[2]
+[32] I shall set out what I believe are the guiding principles enunciated in the Canada Trustco judgment relating to abusive transactions:
+54 In interpreting the provisions of the Income Tax Act, the statutory language must be respected and should be interpreted according to its well-established legal meaning. In some cases, a contextual and purposive interpretation may add nuance to the well-established legal meaning of the statutory language. Section 245(4) does not rewrite the provisions of the Income Tax Act; it only requires that a tax benefit be consistent with the object, spirit and purpose of the provisions that are relied upon.
+55 In summary, s. 245(4) imposes a two-part inquiry. The first step is to determine the object, spirit or purpose of the provisions of the Income Tax Act that are relied on for the tax benefit, having regard to the scheme of the Act, the relevant provisions and permissible extrinsic aids. The second step is to examine the factual context of a case in order to determine whether the avoidance transaction defeated or frustrated the object, spirit or purpose of the provisions in issue.
+56 The Explanatory Notes elaborate that the provisions of the Income Tax Act are intended to apply to transactions with real economic substance. Although the expression "economic substance" may be open to different interpretations, this statement recognizes that the provisions of the Act were intended to apply to transactions that were executed within the object, spirit and purpose of the provisions that are relied upon for the tax benefit. ...
+57 Courts have to be careful not to conclude too hastily that simply because a non-tax purpose is not evident, the avoidance transaction is the result of abusive tax avoidance. Although the Explanatory Notes make reference to the expression "economic substance", s. 245(4) does not consider a transaction to result in abusive tax avoidance merely because an economic or commercial purpose is not evident. As previously stated, the GAAR was not intended to outlaw all tax benefits; Parliament intended for many to endure. The central inquiry is focused on whether the transaction was consistent with the purpose of the provisions of the Income Tax Act that are relied upon by the taxpayer, when those provisions are properly interpreted in light of their context. Abusive tax avoidance will be established if the transactions frustrate or defeat those purposes.
+58 ... The central issue is the proper interpretation of the relevant provisions in light of their context and purpose. When properly interpreted, the statutory provisions at issue in a given case may dictate that a particular tax benefit may apply only to transactions with a certain economic, commercial, family or other non-tax purpose. The absence of such considerations may then become a relevant factor towards the inference that the transactions abused the provisions at issue, but there is no golden rule in this respect.
+. . . . .
+61 A proper approach to the wording of the provisions of the Income Tax Act together with the relevant factual context of a given case achieve balance between the need to address abusive tax avoidance while preserving certainty, predictability and fairness in tax law so that taxpayers may manage their affairs accordingly. Parliament intends taxpayers to take full advantage of the provisions of the Act that confer tax benefits. Parliament did not intend the GAAR to undermine this basic tenet of tax law.
+62 The GAAR may be applied to deny a tax benefit only after it is determined that it was not reasonable to consider the tax benefit to be within the object, spirit or purpose of the provisions relied upon by the taxpayer. The negative language in which s. 245(4) is cast indicates that the starting point for the analysis is the assumption that a tax benefit that would be conferred by the plain words of the Act is not abusive. This means that a finding of abuse is only warranted where the opposite conclusion - that the avoidance transaction was consistent with the object, spirit or purpose of the provisions of the Act that are relied on by the taxpayer - cannot be reasonably entertained. In other words, the abusive nature of the transaction must be clear. The GAAR will not apply to deny a tax benefit where it may reasonably be considered that the transactions were carried out in a manner consistent with the object, spirit or purpose of the provisions of the Act, as interpreted textually, contextually and purposively.
+. . . . .
+65 For practical purposes, the last statement is the important one. The taxpayer, once he or she has shown compliance with the wording of a provision, should not be required to disprove that he or she has thereby violated the object, spirit or purpose of the provision. It is for the Minister who seeks to rely on the GAAR to identify the object, spirit or purpose of the provisions that are claimed to have been frustrated or defeated, when the provisions of the Act are interpreted in a textual, contextual and purposive manner. The Minister is in a better position than the taxpayer to make submissions on legislative intent with a view to interpreting the provisions harmoniously within the broader statutory scheme that is relevant to the transaction at issue.
+[33] I have endeavoured to find in the respondent's argument the identification of a provision or set of provisions of the Income Tax Act that have been misused or abused. I have been unable to do so. Counsel state that the appellant stripped surplus from 117679, thereby frustrating the scheme of the Act. In fact, he sold the shares to a partnership of which his children were partners and realized a capital gain. Dividends or deemed dividends were paid to the partnership but the reason they were not taxed in the hands of the children was that they were in a low tax bracket.
+[34] Counsel argues that this case is similar to Justice Bonner's decision in McNichol v. The Queen, 97 DTC 111 and mine in RMM Canadian Enterprises Inc. et al., v. The Queen, 97 DTC 302. These cases were early general anti-avoidance rule cases and we did not have the benefit of the Supreme Court of Canada's guidance that we have today. If we had had the benefit of the Supreme Court of Canada's views, our analysis might have been quite different. The principal basis of my decision in RMM Canadian Enterprises Inc. was subsection 84(2) of the Income Tax Act. One must bear in mind that what the appellants were attempting to circumvent in RMM and McNichol was subsection 84(2). That is not the situation here. 117679 continued to carry on business and it in fact paid dividends. The situation here is not analogous to the RMM and McNichol cases. In any event, reference to these two early cases does not in my view satisfy the onus that the Supreme Court of Canada has placed on the Crown.
+[35] In light of the principles stated by the Supreme Court of Canada I have concluded that the transactions involved here are not abusive for the following reasons:
+(a) Not one of the transactions defeats or frustrates the object, purpose or spirit of any of the provisions.
+(b) The transactions do not lack economic substance. The transactions were real and legally effective. They were not shams. By economic substance I do not intend to import into this criterion a business purpose test. The Supreme Court of Canada did not do so. Rather, I think what was meant was that a genuine change in legal and economic relations took place as the result of the transactions.
+(c) To treat the transactions as abusive so that their results can be recharacterized would not preserve but rather would destroy certainty, predictability and fairness and would frustrate Parliament's intention that taxpayers "take full advantage of the provisions of the Act that confer tax benefits".
+(d) A finding of abuse cannot be warranted because it cannot reasonably be concluded that the transactions were carried out in a manner that is inconsistent with the object, spirit or purpose of the various provisions of the Act.
+(e) The burden that is on the Minister to show that the object, spirit and purpose of the various provisions relied on have been defeated or frustrated has not been met. I imply no criticism of counsel for the respondent. They presented the Crown's case with great skill. The words "burden of proof" of which the Supreme Court of Canada speaks may imply an evidentiary burden but primarily they impose a requirement that the Crown identify the object, spirit or purpose of the relevant legislation that is said to be frustrated or defeated. This might be described as a "burden of persuasion" although this is not the usual sense of the expression "burden of proof". I think it would be premature for me to elaborate at any greater length on just how this burden can be met or what evidence should be adduced. This will need to be developed in future cases and in different fact situations. It is sufficient to say that nothing that has been put before the Court in this case has persuaded me either as a matter of fact or as a matter of argument that there has been any abuse of the Act read as a whole. Indeed, if there were any doubt on this point, the Supreme Court of Canada has said that the benefit of that doubt should go to the taxpayer.
+[36] The answers to the five questions that I asked above are:
+(1) No.
+(2) No.
+(3) No.
+(4) Yes.
+(5) No.
+[37] The appeals from the assessments made under the Income Tax Act for the 1997, 1998 and 1999 taxation years are allowed, with costs, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that subsection 245(2) of the Income Tax Act does not apply to the transactions in question.
+Signed at Ottawa, Canada, this 28th day of November 2005.
+"D.G.H. Bowman"
+Bowman, C.J.
+SCHEDULE A
+PARTIAL STATEMENT OF AGREED FACTS
+The parties agree that the following are, for the purposes of this proceeding only, facts upon which the Court may base its decision. The parties shall be free to introduce additional facts in evidence at trial, provided that any facts sought to be introduced in evidence at trial do not contradict in any way the facts agreed to herein. All statutory references are to the Income Tax Act.
+1. The Appellant is a dentist and has been in practice since 1972.
+2. 117679 Alberta Ltd. (formerly L.M. Evans Professional Corporation) ("Hygiene") is a Canadian-controlled private corporation, incorporated in May 1978. The taxation year-end of Hygiene is May 31.
+3. Hygiene changed its name from L.M. Evans Professional Corporation to 117679 Alberta Ltd. on April 11, 1997.
+4. The Appellant was the sole director of Hygiene at all material times.
+5. As of May 31, 1995, the Appellant owned all the issued and outstanding Class "A" shares of Hygiene, which shares at that time, had an adjusted cost base (ACB) and paid-up capital (PUC) of $11.
+6. As at May 31, 1995 and May 31, 1996, Hygiene had retained earnings of approximately $235,000 and $300,000, respectively.
+7. Prior to October 1996, Hygiene operated a dental and dental hygiene business and owned rental properties.
+8. In October 1996, Hygiene disposed of its rental properties.
+9. In December 1996, Hygiene disposed of its dental business and thereafter Hygiene operated only a dental hygiene business.
+10. On December 16, 1994, 636276 Alberta Limited ("636276") was incorporated. The taxation year-end of 636276 is May 31.
+11. The Appellant was the sole director and owned all the issued and outstanding common shares of 636276 at all material times.
+12. On October 30, 1996, L. Mark Evans Professional Corporation ("MEPC") was incorporated. The taxation year-end of MEPC is July 31.
+13. The Appellant was the sole director and owned all the issued an outstanding common shares of MEPC at all material times.
+14. On October 30, 1996, the following transactions occurred:
+a) The Appellant transferred 4.01 Class "A" shares of Hygiene to 636276 on a rollover basis pursuant to subsection 85(1). The 4.01 Class "A" shares were transferred using an agreed amount equal to the adjusted cost base ("ACB") of the shares of $4.00.
+b) In exchange for the 4.01 Class "A" shares, the Appellant received 100 Class "A" shares of 636276 (PUC and ACB of $4.00). As the transfer was done at cost, no capital gain or loss occurred. The cost to 636276 of the 4.01 Class "A" shares of Hygiene was $4.00.
+c) Hygiene transferred its rental property assets to 636276 on a rollover basis pursuant to section 85 of the Act. 636276 paid for the rental property by issuing 2,614.93 Class "E" shares redeemable for $100 per share, and by assuming a mortgage.
+d) 636276 redeemed the 2,614.93 Class "E" shares held by Hygiene in exchange for a $261,493 note
+e) Hygiene redeemed the 4.01 Class "A" shares held by 636276 for proceeds of $261,493. The redemption resulted in a subsection 84(3) deemed dividend of $261,489 ($261,493 minus $4) which 636276 reported in its May 31, 1997 year-end. Subsection 112(1) applied to offset the dividend.
+f) Hygiene issued 636276 a $261,493 note payable as consideration on the share redemption. The note received offset the prior note described in paragraph (d) above.
+15. On November 22, 1996 the Appellant's wife, Carolyn as General Partner and the Appellant's three children - Marcie Nielsen, Christopher Evans and Lindsay Evans (the "Limited Partners") - as limited partners formed a limited partnership pursuant to a written agreement ("the Partnership").
+16. The children each made a $1,000 capital contribution to the Partnership by issuing promissory notes to the Partnership.
+17. Two more of the Appellant's children, Michael Evans and Wendy Sloan, were members of the Partnership when it was formed, but withdrew on November 25, 1996.
+18. Marcie Nielsen was 27 years old, Christopher Evans was 19 years old, and Lindsay Evans was 15 years old when the Partnership was formed.
+19. Based on the partners' respective capital accounts, the Limited Partners were each entitled to an equal share of 99% of the Partnership's income at all material times.
+20. On December 1, 1996, the following transactions took place:
+a) Hygiene transferred its dental practice assets to MEPC on a rollover basis pursuant to subsection 85(1). The assets had a fair market value of $422,155 and were transferred at their ACB of $207,465. The consideration received was 100 Class "B" shares of MEPC redeemable for $4,221.55 per share. The transfer did not result in any gains or losses.
+b) MEPC redeemed its 100 Class "B" shares for redemption proceeds of $422,155. Hygiene realized a subsection 84(3) deemed dividend of $214,690 ($422,155 - $207,465), and claimed an offsetting deduction under subsection 112(1). MEPC paid the redemption proceeds by issuing a $422,155 promissory note to Hygiene.
+21. On December 2, 1996, Hygiene paid the Appellant a stock dividend of 487 Class "B" shares. The declared amount of the dividend was $100, and the 487 Class "B" shares had an adjusted cost base to the Appellant and paid up capital of $100.
+22. On December 3, 1996, the Appellant sold his 487 Class "B" shares of Hygiene to the Partnership. The 487 Class "B" shares were sold for $487,000 and the Partnership paid by way of a $487,000 promissory note bearing interest at 5% annually and due December 31, 2001 (the "Note"), being the prescribed rate in effect at the time the indebtedness was incurred. The Note required that interest be paid for each year on or before January 30th of the following year.
+23. The Class B shares of Hygiene were entitled to the payment of dividends at the discretion of Hygiene's directors and were both redeemable and retractable for $1,000 per share.
+24. The Appellant realized a capital gain of $486,900 ($487,000 - $100) on the disposition of his 487 Class "B" shares of Hygiene. The Appellant reported a taxable capital gain of $365,175 and claimed a deduction in the same amount under section 110.6 to offset the taxable portion of the capital gain.
+25. In December 1996, Hygiene commenced to both pay dividends on and redeem some of the Class "B" shares held by the Partnership.
+26. On December 30, 1996, Hygiene paid a $12,000 dividend on its Class "B" shares held by the Partnership.
+27. On December 31, 1996, Hygiene redeemed 42 Class "B" shares held by the partnership for $42,000. The Partnership made payments of principal and interest on the Note totalling $54,000 on that date.
+28. The Limited Partners reported their shares of the Partnership's dividend income and interest expense on their 1996 income tax returns. Christopher Evans paid $1,558.05 of income tax; the other Limited Partners paid no income tax in 1996.
+29. The Appellant reported the interest income received from the Partnership on his 1996 income tax return.
+30. On January 24, 1997, Hygiene redeemed 10.02 of the Class "B" shares held by the Partnership for $10,020. The Partnership paid $10,000 of the principal and interest due on the Note on that date.
+31. On December 30, 1997, Hygiene paid a dividend on its Class "B" shares held by the Partnership in the amount of $43,498. The Partnership paid $43,498 of the principal and interest due on the Note on that date.
+32. On December 31, 1997, Hygiene increased the stated capital of the Class "B" shares by $37,850.
+33. In 1997, the Partnership incurred and paid interest of $21,275 on the Note.
+34. The Limited Partners reported their shares of the Partnership's actual and deemed dividend income and interest expense in 1997. No income tax was payable by any of the Limited Partners in 1997.
+35. The Appellant reported the interest income received from the Partnership on his 1997 income tax return.
+36. On May 30, 1998, Hygiene paid a dividend on its Class "B" shares held by the Partnership in the amount of $43,490. The Partnership paid $43,490 of the principal and interest due on the Note on that date.
+37. On May 31, 1998, Hygiene redeemed 36.38 of the Class "B" shares held by the Partnership for $36,380. The Partnership paid $36,380 of the principal and interest due on the Note on that date.
+38. In 1998, the Partnership incurred and paid interest of $17,787 on the Note.
+39. The Limited Partners reported their shares of the Partnership's dividend income and interest expense in 1998. No income tax was payable by any of the Limited Partners in 1998.
+40. The Appellant reported the interest income received from the Partnership on his 1998 income tax return.
+41. On January 27, 1999, Hygiene redeemed 18.33 of the Class "B" shares held by the Partnership for $18,327.37. The Partnership paid $18,327.37 of the principal and interest due on the Note on that date.
+42. On March 1, 1999, Hygiene redeemed 21.53 of the Class "B" shares held by the Partnership for $21,531.37. The Partnership paid $21,531.37 of the principal and interest due on the Note on that date.
+43. On March 2, 1999, Hygiene redeemed 36.38 of the Class "B" shares held by the Partnership for $36,380. The Partnership paid $36,380 of the principal and interest due on the Note on that date.
+44. On December 20, 1999, the Partnership paid $3,830 of the principal and interest due on the Note.
+45. On December 22, 1999, Hygiene redeemed 3.83 of the Class "B" shares held by the Partnership for $3,834.
+46. In 1999, the Partnership incurred and paid interest of $14,299 on the Note.
+47. The Limited Partners reported their shares of the Partnership's dividend income and interest expense in 1999. No income tax was payable by any of the Limited Partners in 1999.
+48. The Appellant reported the interest income received from the Partnership on his 1999 income tax return.
+49. As at December 31, 1999, the partners' equity in the Partnership was approximately $50,000.
+50. The Minister of National Revenue (the "Minister") initially assessed the Appellant for his 1997, 1998 and 1999 taxation years by Notices dated July 13, 1998, May 6, 1999 and June 19, 2000, respectively.
+51. In a letter dated February 6, 2001, the Minister alleged that the Appellant "converted what ought to be dividends from ME Prof. Corp. [Hygiene] into tax sheltered capital gains" and concluded that there was a misuse of section 38 of the Act and an abuse having regard to the provisions of the Act read as a whole.
+52. The Minister reassessed the Appellant's 1997, 1998 and 1999 taxation years by Notices dated April 12, 2001 (the "First Reassessments"). The Minister applied the section 245 General Anti-Avoidance Rule (the "GAAR") to the transactions at issue in this appeal. In determining the tax consequences to the Appellant the Minister allocated to the Appellant 99% of the dividend income of the Partnership for 1997, 1998 and 1999, and deducted from the Appellant's income interest receivable by the Appellant from the Partnership in those years.
+53. The First Reassessments adjusted the Appellant's income for his 1997, 1998 and 1999 taxation years as follows:
+1997
+1998
+1999
+Dividend income assessed
+under section 245
+$90,451
+$75,768
+$72,355
+25% Gross-up (section 82)
+22,613
+_18,942
+_18,089
+Taxable amount of dividends
+113,064
+94,710
+90,444
+Reversal of interest income
+reported on the T1 return
+(21,274)
+(17,787)
+(14,311)
+Net increase in Income
+$91,790
+$76,923
+$76,133
+54. The Appellant objected to the First Reassessments by Notice of Objection dated July 4, 2001.
+55. By Notices dated March 5, 2003 (the "Reassessments"), the Minister reassessed the Appellant's 1997, 1998 and 1999 taxation years). The Minister applied the GAAR, and in determining the tax consequences to the Appellant varied the First Reassessments by recharacterizing as dividends all payments (including amounts reported as interest income by the Appellant on his T1 return) received by the Appellant from the Partnership in 1997, 1998 and 1999. The Minister alleged that "[t]he transactions resulted in a misuse of section 110.6 and subsections 84(3), 82(1), 52(3) and 85(1)" and an abuse of the Act read as a whole.
+56. The Reassessments adjusted the Appellant's income for his 1997, 1998 and 1999 taxation years from the First Reassessment as follows.
+1997
+1998
+1999
+Payments recharacterized as
+dividends (section 245):
+Interest received on
+$21,274
+$17,787
+$14,294
+Promissory Note
+Principal repayments on
+Promissory Note
+_30,301
+_62,081
+65,731
+Revised dividend income
+51,575
+79,868
+80,025
+25% Gross-up (section 82)
+12,894
+19,967
+20,006
+Revised taxable amount of
+dividends
+64,469
+99,835
+100,031
+Additional interest income
+nil
+nil
+17
+Taxable amount of dividends as
+reassessed under the First
+Reassessments
+(113,064)
+(94,710)
+(90,044)
+Increase/(Decrease) in Income
+over First Reassessment
+($48,595)
+$5,125
+$9,604
+57. The amount of income reassessed in the March 5, 2003 Reassessment for 1998 was an increase of $5,125 over the amount assessed in the First Reassessment, and was made more than three years after the original assessment for 1998.
+CITATION:
+2005TCC684
+COURT FILE NO.:
+2003-966(IT)G
+STYLE OF CAUSE:
+L. Mark Evans v.
+Her Majesty The Queen
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+October 17, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable D.G.H. Bowman, Chief Justice
+DATE OF JUDGMENT:
+November 28, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Clyde R. Davis
+Robert Donald
+Counsel for the Respondent:
+Jon Gilbert
+John O'Callaghan
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Clyde R. David
+Firm:
+Olson Lemons
+177 4 Ave. S.W.
+Calgary, Alta T2P 3T4
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Subsection 245(4) was amended on February 25, 2005 applicable to transactions entered into after September 12, 1988. The amendment eliminated the double negative in the original version, separated the concepts of misuse and abuse, and added references to other enactments, including tax treaties. Although, unlike Canada Trustco, the appeal was heard by this Court on October 17, 2005, after the amendment, I do not propose to deal with the retroactive amendment because it does not appear to me that the amendment, on the facts of this case, changes in any substantive way the legal or factual conclusions that I am reaching. I note that although the French version under the amendment becomes disjunctive, paragraphs (a) and (b) both use the word "abus". Moreover, counsel for the respondent stated in their written submissions that "the change in wording does not affect the application of the Supreme Court decisions to the GAAR analysis in this appeal. I am in respectful agreement.
+[2] As noted above the French version of the amendment is disjunctive. Although in both cases it uses the word "abus", I do not think that the amendment, in either language, detracts from the conclusion of the Supreme Court of Canada that subsection 245(4) involves a single enquiry.

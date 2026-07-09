@@ -1,0 +1,201 @@
+Title: Arbeau v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29915/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-307-29915-arbeau-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-06-04
+
+# Arbeau v. The Queen
+
+- Citation: 2010 TCC 307
+- Decision date: 2010-06-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6434, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Arbeau v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-06-04
+Neutral citation
+2010 TCC 307
+File numbers
+2009-1008(IT)I
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-1008(IT)I
+BETWEEN:
+SHAWN A. ARBEAU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on April 19, 2010 at Vancouver, British Columbia
+Before: The Honourable Justice Wyman Webb
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Mary Murray
+____________________________________________________________________
+JUDGMENT
+The Appellant’s appeal in relation to the reassessment of his 2004 taxation year is allowed, without costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to an additional deduction of $30 for business-use-of-home expenses in computing his income for 2004.
+The Appellant’s appeal in relation to the reassessment of his 2005 taxation year is dismissed, without costs.
+Signed at Halifax, Nova Scotia, this 4th day of June, 2010.
+“Wyman W. Webb”
+Webb, J.
+Citation: 2010TCC307
+Date: 20100604
+Docket: 2009-1008(IT)I
+BETWEEN:
+SHAWN A. ARBEAU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb, J.
+[1] The main issue in this appeal is whether the Appellant was carrying on one business or two different businesses. This issue arises in relation to the claim by the Appellant for business-use-of-home expenses in 2004 and 2005. For several years prior to 2004 the Appellant had claimed that he was entitled to carry forward business-use-of-home expenses in excess of his net income from his electronics repair business. The Appellant had accumulated a carry forward amount of business-use-of-home expenses of $33,941. The Appellant claimed this carry forward amount over two years - $21,062.68 in 2004 and $12,878.32 in 2005. It is the position of the Appellant that he was only carrying on one business and therefore the carry forward amount can be claimed against his income in these years. It is the position of the Respondent that the Appellant was carrying on a different business in 2004 and 2005 and therefore the carry forward amounts cannot be claimed by the Appellant in these years. The Respondent has also reduced the amounts that the Appellant may carry forward.
+[2] Subsection 18(12) of the Income Tax Act (the “Act”) provides as follows:
+(12) Notwithstanding any other provision of this Act, in computing an individual's income from a business for a taxation year,
+(a) no amount shall be deducted in respect of an otherwise deductible amount for any part (in this subsection referred to as the “work space”) of a self-contained domestic establishment in which the individual resides, except to the extent that the work space is either
+(i) the individual's principal place of business, or
+(ii) used exclusively for the purpose of earning income from business and used on a regular and continuous basis for meeting clients, customers or patients of the individual in respect of the business;
+(b) where the conditions set out in subparagraph (a)(i) or (ii) are met, the amount for the work space that is deductible in computing the individual's income for the year from the business shall not exceed the individual's income for the year from the business, computed without reference to the amount and sections 34.1 and 34.2; and
+(c) any amount not deductible by reason only of paragraph (b) in computing the individual's income from the business for the immediately preceding taxation year shall be deemed to be an amount otherwise deductible that, subject to paragraphs (a) and (b), may be deducted for the year for the work space in respect of the business.
+(emphasis added)
+[3] The amount that may be deducted in computing a person’s income for a year in relation to the business use of his or her home is limited to the amount of income from the business that is being carried on in the home. The references in the section are to the business not to a business. In order for the Appellant to be able to use the amounts carried forward from prior years, the income that he is generating (and in relation to which he is trying to claim the carry forward amounts) must be income from the same business for which the Appellant was using his home in prior years.
+[4] In 1994 the Appellant started an electronics repair business. He would repair televisions (including plasma and LCD TVs), arcade games, DVD players, audio equipment, radios, satellite TV receivers, refrigerators, stoves, washing machines, dryers, dishwashers and other appliances. He would repair a wide variety of electronic equipment and appliances.
+[5] In 2004 the Appellant commenced work subcontracting as a public safety inspector for BC Hydro. The Appellant’s role as a public safety inspector was to inspect power poles and transmission lines for problems. The main emphasis was on the power pole and pole structure. He did not climb the power pole so all of his tests and observations were conducted or made from the ground. He would perform various tests and take pictures. Some of the tests were performed below ground level so he would need tools to cut through concrete if the power pole was in an urban area and surrounded by concrete. If he found a problem, the problem would be reported to BC Hydro who would fix the problem.
+[6] It is the Appellant’s position that he was only carrying on one business and that his activities that he was carrying on as a public safety inspector was part of his electronics repair business. While there do not appear to be any cases that have dealt with this issue for the purposes of subsection 18(12) of the Income Tax Act, there are cases that have dealt with the issue of whether a person was carrying on one business or more than one business for the purposes of determining whether a person should maintain separate classes for capital cost allowance purposes for depreciable property that otherwise would be in the same class of property. Subsection 1101(1) of the Income Tax Regulations provides that:
+1101. (1) Where more than one property of a taxpayer is described in the same class in Schedule II and where
+(a) one of the properties was acquired for the purpose of gaining or producing income from a business, and
+(b) one of the properties was acquired for the purpose of gaining or producing income from another business or from the property,
+a separate class is hereby prescribed for the properties that
+(c) were acquired for the purpose of gaining or producing income from each business, and
+(d) would otherwise be included in the class.
+[7] Therefore it is necessary for the purposes of this subsection of the Income Tax Regulations to determine whether a particular person is carrying on one business or two or more separate businesses. In Du Pont Canada Inc. v. The Queen, 2001 FCA 114, 2001 D.T.C. 5269, [2001] 2 C.T.C. 315, the Federal Court of Appeal dealt with the issue of whether Du Pont Canada Inc. was carrying on one business or two separate businesses. Justice Sharlow, on behalf of the Federal Court of Appeal, stated that:
+11 There are no reported cases that involve facts exactly like the facts of this case, or the precise question that arises in this case. However, there are cases that are generally instructive on the question of how to identify a separate business. The most commonly cited case is Scales (Inspector of Taxes) v. George Thompson & Co. (1927), 13 T.C. 83, 138 L.T. 331 (Eng. K.B.), which involved a company that operated a fleet of ships and also carried on an underwriting business. The issue was whether it was carrying on one business or two. Rowlatt J. held that there were two businesses. He said, at page 89:
+I cannot conceive two businesses that could be more easily separated than these two. They both have something to do with ships. That is all that can be said about it. One does not depend upon the other; they are not interlaced; they do not dovetail into each other, except that the people who are in them know about ships; but the actual conduct of the business shows no dovetailing of the one into the other at all. They might stop the underwriting; it does not affect the ships. They might stop the ships and it does not affect the underwriting.
+[...]
+[...] I think the real question is, was there any inter-connection, any interlacing, any interdependence, any unity at all embracing those two businesses [...].
+The last quoted statement has become the generally accepted test for determining when a taxpayer has a separate business.
+12 Howden Boiler & Armaments Co. v. Stewart (1924), 9 T.C. 205, [1925] S.C. 110 (Scotland Ct. Sess.) involves a corporation that operated two factories, one to construct boilers and the other to construct shells for the French Government during the war. There were separate premises, separate workers, separate technical and clerical staff, separate books and trading accounts. However, the two plants were operated under common management and there was a single set of financial statements. Financing and management expenses were charged against the company generally without apportionment. The corporation was held to be carrying on a single business.
+13 In Canada the leading case is Frankel Corp. v. Minister of National Revenue, [1959] S.C.R. 713, [1959] C.T.C. 244, 59 D.T.C. 1161 (S.C.C.). Frankel dealt in scrap metals, smelted and refined non-ferrous metals, carried on wrecking and salvage operations, and fabricated and erected structural steel. In 1952 it sold its non-ferrous metal refining operation, including inventory, to another company. The portion of the sale price allocated to the inventory was higher than Frankel's cost of the inventory. Under the income tax legislation then in effect, Frankel would have no tax liability as a result of the sale if it was the sale of a separate business, because in that case the entire transaction would be on capital account. If the transaction was not a sale of a separate business, Frankel would be taxable on the profit on the sale of the inventory.
+14 There were a number of factors that established the separation of the non-ferrous metal refining operation from the other activities of Frankel. There was a separate source for material and supplies. There was a separate group of employees. There were separate machines kept in a separate part of Frankel's premises. There were separate customers. There was a separate trade mark and a separate trade name. There was separate supervision. There were also some connections. Minor quantities of scrap metal were acquired from the salvage operations. There was some combined accounting with the ferrous and non-ferrous operation. There was a single board of directors, a single union contract for all employees, and single pension and insurance plans. The ultimate preparation of profit and loss accounts reflected the results for the whole company. The sale transaction itself included, not only the transfer of the inventory, but also the transfer of the equipment, the right to use the premises for a fixed term, the transfer of unfilled customers orders, the transfer of the employees, and the transfer of the trade name, trade mark and goodwill. In addition, the transaction effectively put Frankel out of the non-ferrous metal refining business. Taking all of these factors into account, the Court held for Frankel on the basis that the non-ferrous metal refining operation was the sale of a separate business, and thus a capital transaction.
+15 In Utah Co. of the Americas v. Minister of National Revenue (1959), [1960] Ex. C.R. 128, [1959] C.T.C. 496, 59 D.T.C. 1275 (Can. Ex. Ct.), the issue was whether the taxpayer was carrying on a single business or two businesses, mining and construction. Each activity was conducted independently under separate management, but under the overall supervision of a single board of directors. Separate accounts were kept. There was no functional connection between the two activities - no interconnection, no interdependence, and no interlacing. They employed different processes, produced different products and services, had different customers, locations, union contracts and staff. Head office costs were allocated between the two divisions. Sometimes equipment from one division was used by another. The Court held that the taxpayer was carrying on two separate businesses.
+16 In H.A. Roberts Ltd. v. Minister of National Revenue, [1969] S.C.R. 719, [1969] C.T.C. 369, 69 D.T.C. 5249 (S.C.C.), the issue was whether the taxpayer's activity of administering mortgages under an agency contract comprised a business that was separate from its real estate business. The employees carrying on the two activities worked in different premises under separate management. The mortgage operation had its own accounting system. Employees of the mortgage operation were prohibited from sharing customer information with those in the real estate operation. The only common element was that there was a single board of directors. The mortgage business was held to be a separate business.
+17 River Estates Sdn Bhd v. Director General of Inland Revenue, [1984] S.T.C. 60 (Malaysia P.C.) was an appeal from the Federal Court of Malaysia. The taxpayer argued that its plantation and timber operations on five estates comprised a single business. The Special Commissioners, apparently a tribunal that acted as the court of first instance, held that timber clearing operations directed toward clearing land for agricultural purposes comprised a separate business from timber operations on land that the taxpayer did not own and on which no agricultural operations were contemplated. The Privy Council upheld the decision on the basis that it was a reasonable conclusion on the evidence.
+[8] In Du Pont Canada Inc., the Federal Court of Appeal concluded that the company was carrying on one business. In reaching this conclusion Justice Sharlow stated as follows:
+49 The Tax Court Judge concluded that Du Pont's explosives manufacturing operation was a separate business. She summarized her conclusion as follows (at paragraphs [sic] 35 and 36):
+[34] The principles enunciated by the Supreme Court of Canada in Frankel and H.A. Roberts Ltd. are not different from those enunciated by the British courts in Scales and my analysis of them is the following: there will be one business when there is interlacing and interdependence to such a degree that there may be found only one income producing unit; there will be a separate business when the circumstances are such that the whole process by which profit is earned is quite distinct from the others despite the fact that the business is not the subject of a separate incorporation. I find this interpretation to have the advantage of being in agreement with the concept of business as it is understood in the Act.
+[35] It is my view that the evidence has shown clearly that the explosives division was managed as one income producing unit: the manufacturing, the supervision and direction, the marketing, the sales of the products, the staff and the accounting, although certain rules applies generally to all divisions and certain services were provided centrally. Therefore it was a separate business of the Appellant.
+50 I agree with the formulation of the legal test adopted by the Tax Court Judge. It is my respectful view, however, that the Tax Court Judge did not correctly apply the legal test. It appears to me that she was led into error by a misapprehension of the evidence relating to the particular combination of centralized and divisional decision making that Du Pont adopted and has practised over the years, and the substantial functional connections between Du Pont's explosives manufacturing operation and its other business activities. That misapprehension is demonstrated by her characterization of those aspects of Du Pont's business as nothing more than “rules applicable generally to all divisions”, and as “certain services provided centrally”.
+51 A corporation like Du Pont that manufactures many products in different plants faces innumerable choices in how it will organize its affairs. It could, for example, establish each plant as a separate, stand alone business with independent decision making authority in all aspects of the business. That was the choice made, for example, in Scales and in H.A. Roberts. Or it could organize itself as a single business with various divisions having no autonomy or independence at all, in which case none of the divisions would be a separate business. Any number of intermediate positions are possible, with divisions having autonomy in some aspects of the divisional operations but not others.
+52 Du Pont has chosen an intermediate position. That being the case, the question that must be addressed is whether, having regard to the manner in which Du Pont organized its affairs, the aspects of its operations that are characteristic of a single integrated business are more substantial than the aspects that are characteristic of separate businesses.
+53 The most important indicators of integration in this case are the centralized financing and credit management, centralized purchasing, and common research facilities. The other side of that coin is the lack of autonomy given to the Nipissing explosives plant with respect to those important business functions. These facts distinguish this case from Frankel, Utah Co. and H.A. Roberts, in which separate businesses were found.
+54 It is also important that the Du Pont brand name and trade marks were consistently used for all of Du Pont's products, but that they ceased to be an attribute of the explosives manufactured at the Nipissing plant after the sale. By contrast, a separate business was found in Frankel, where the trade name and trade mark were transferred with the plant.
+55 Another fact that distinguishes this case from Frankel, Utah Co. and H.A. Roberts is the degree of product integration demonstrated by the practice of cross-selling. The explosives manufacturing operation in particular had customers in common with other Du Pont plants and sold those customers Du Pont products that were not produced at the Nipissing plant. That is a natural and expected result of Du Pont's fundamental corporate strategy as described above.
+56 There are some factors that divided the explosives manufacturing operation from the rest of Du Pont's business. For example, the Nipissing plant was physically separate from the other activities of Du Pont, which necessarily separated most of the plant employees as well, except those who provided services for the explosives manufacturing operation from Mississauga and Kingston. However, I am unable to conclude on the facts of this case that there are sufficient indicators of separation to overcome the many substantial indicators that Du Pont operates a single integrated business.
+57 The Crown relies on the fact that “goodwill” was one of the assets sold, and argues that the assets sold must have comprised a free standing business, because if that were not so, there would be no goodwill to transfer. That contradicts the acknowledgement of the purchaser that it was not acquiring all of the assets required to carry on an explosives manufacturing business. In my view, the Crown is attempting to attribute far too much weight to a boilerplate clause that, in the circumstances, is sufficiently explained by the transfer of such intangibles as contracts, customer lists and confidential information.
+58 For these reasons, I conclude that Du Pont's explosives manufacturing operation was not a separate business….
+[9] In order to find that the Appellant in this case was carrying on one business and not two businesses, it is necessary to determine the interlacing and interdependence of the two activities. Justice Sharlow of the Federal Court of Appeal in Du Pont Canada Inc. agreed with the following formulation of the legal test (although she disagreed with how it was applied):
+…there will be one business when there is interlacing and interdependence to such a degree that there may be found only one income producing unit; there will be a separate business when the circumstances are such that the whole process by which profit is earned is quite distinct from the others despite the fact that the business is not the subject of a separate incorporation.
+[10] In Du Pont Canada Inc., the company had “centralized financing and credit management, centralized purchasing, and common research facilities”. In this case, other than some work that was subcontracted out in 2005 (in the amount of $2,200), all of the work that was performed for the Appellant’s business (or businesses) in 2004 and 2005 was performed by the Appellant himself. Since the Appellant was the only person who had any authority in relation to his business (or businesses), all of the administrative functions were centralized, as they would be for any sole proprietorship.
+[11] It seems to me that the factors that would be relevant in determining whether a large corporation with many employees is carrying on one business or two (or more) businesses will not be the same factors that would be relevant in determining whether a sole proprietor with only one “employee” is carrying on a single business or more than one business.
+[12] In Blanchard (c.o.b. Four Pillar Financial) v. The Queen, [2001] T.C.J. 484, [2001] G.S.T.C. 94, Justice Bowie dealt with a sole proprietorship and the issue of whether the sole proprietor was carrying on one business or more than one business. Justice Bowie stated as follows:
+18 I conclude that in 1996 and 1997 Four Pillar Financial was a sole proprietorship owned by Andrew Blanchard. From the evidence of Mr. Blanchard and Ms. Pimm as to the operations, I find that the earning of commissions, both direct and override, by Mr. Blanchard, and the earning of fees for income tax preparation were completely interconnected and interdependent activities. Although Mr. Blanchard stated in his evidence that the income tax preparation would have been developed into a profitable business had it not been for the income tax audit of his affairs, the fact is that it was created to provide leads for the advisors, and to keep them in Mr. Blanchard's branch. The same staff worked on both the FCG business and the income tax preparation. The same premises and equipment were used. There were no separate accounts, and no effort has apparently ever been made to allocate expenses between the two types of income. I conclude that there was only one business, and that Mr. Blanchard was the proprietor of it: see Scales v. George Thompson and Company Limited,1 Frankel Corporation v. M.N.R.,2 and H. A. Roberts Ltd. v.Canada.3
+(The footnote references were inserted by Justice Bowie)
+[13] In Blanchard the activities were interconnected as one activity would provide leads for the other. There was only one income producing unit.
+[14] In this case the Appellant’s situation is similar to the situation described by Rowlatt, J. in Scales (Inspector of Taxes) v. George Thomson & Co., which is one of the cases that was referred to by Justice Sharlow in Du Pont Canada Inc. Both activities of the Appellant have something to do with electricity. But beyond that, they do not depend on each other, they are not interlaced and they do not dovetail into each other. The only interconnection between the two activities is the Appellant who performed the services required for both activities. However if this were sufficient to find that there was only one business, then every sole proprietor would only be carrying on a single business regardless of the diversity of activities. It seems to me that this is not the intended result. It would not be uncommon for business-use-of-home expenses to be claimed by sole proprietors (since the expenses are for the use of a home). Since the expenses are limited to the expenses of the business, it must have been intended that sole proprietors would not be considered to be carrying on a single business simply because the same person is carrying on various diverse activities but the test would be whether the activities are so interlaced and interdependent that the sole proprietor only has one income producing activity.
+[15] In this case separate training was required for each activity. For the electronic and appliance repair activity the Appellant received training at the community college. He took a two-year course and completed it in one and one-half years. For his subcontract work as a public safety inspector a licence was required and he received specialized training from BC Hydro in relation to this. He also received ongoing training. It seems to me that the training required to detect problems with power poles would be quite different from the training required to repair plasma TVs or some other electronic device or appliance.
+[16] For the electronics and appliance repair business the customers would be any person who had an electronic device or appliance that required repair. There would therefore be many different customers. For the work as a public safety inspector, there was only one customer. This was the company that had the contract with BC Hydro to do the work. There would be no cross selling of services from the customer(s) of one activity to the customer(s) of the other.
+[17] The Appellant only maintained a single set of accounting records. However it is not entirely clear whether he had any revenue from the electronics repair activity in 2004 or 2005. The Appellant did not recall if he had any revenue from this activity in 2004 or 2005. The Appellant indicated that he did not repair any TVs in 2004 or 2005. He also stated that people would drop off items from to time for him to repair, although it would take him longer to do this since he working full time as a public safety inspector. Therefore it would appear that there were some electronic devices or appliances that he did repair in 2004 and 2005, but there was no indication of the amount that he received for doing this. His total sales for 2001 to 2003 (when the only business was the electronics and appliance repair business) were as follows:
+Year
+Sales
+2001
+$298
+2002
+$381[1]
+2003
+$285
+[18] It seems to me that if there was any revenue from the electronics repair activity in 2004 or 2005, that it would have been minimal.
+[19] It seems to me that the subcontract work carried on by the Appellant as a public safety inspector was not the same business as the electronics repair business that he had been carrying on in previous years. The training required for each activity was different. The customers were different and there was no cross-selling from the customers of one business to the other. The locations were different. In general the electronics repair business was carried on in his home (although he would on occasion visit a customer’s premises to do repair work). The inspection of the power poles had to be done wherever the power poles were located, which was all over British Columbia. The Appellant would be away from home for several days at a time while inspecting poles in different places. The Appellant would travel to isolated areas and he would take a travel trailer to sleep in when he was traveling to these places.
+[20] While some tools would be common to both, these would be basic tools. The precision tools required to repair a plasma TV would not be same tools required to drill a hole in a power pole to test the integrity of the pole.
+[21] Each activity was carried on independently of the other. There was not one income producing unit but two. The process by which income was earned by each activity was distinct and not interdependent. As a result any amounts that may be carried forward in relation to the business-use-of-home expenses from any year prior to 2004, cannot be deducted in determining the Appellant’s income from his subcontracting business as a public safety inspector. Since the Appellant has not established that he had any revenue at all from his electronics repair business in 2004 or 2005, no amount that may be carried forward in relation to the business-use-of-home expenses from any year prior to 2004, will be deductible in computing the Appellant’s income for 2004 or 2005. As a result it is not necessary to determine the exact carry forward amount.
+[22] The Respondent did allow a deduction for the business use of the home based on the assumption that the Appellant used 120 square feet of his home in his public safety inspector business and 40 square feet of an outdoor shed. It appears that the only activity that the Appellant carried on in his house in relation to this business was some administrative work for which he would need a desk and a computer. As a result the Appellant has not demolished the assumption that only 120 square feet of his home was used for this business and therefore no adjustment will be made to the percentage of the home that was used for this business. Also the Appellant has not established that he used more than 40 square feet of his outdoor shed. There is also the question of whether all of the expenses related to the household should apply equally to the shed area. The shed had an electric heater and therefore the cost of heating the shed would be part of the cost of electricity and not part of the heating costs. Also it is not clear whether the 40 square feet in the shed should be treated the same as 40 square feet in the house in determining the amount of mortgage interest that may be claimed. The Minister cannot appeal his own assessment[2] and therefore no reduction in the amount allowed for business-use-of-home expenses can be made. As a result no adjustment will be made to the 40 square feet of the shed that was allowed and treated on the same basis as if it was 40 square feet of the house. The total area of the shed (160 square feet) was added to the total square footage of the house (2,200) in determining that 6.8% of the combined total area ((120 + 40) / (2,200 + 160)) was used in carrying on his business. As a result no adjustment will be made to the percentage use of the shed or the percentage use of the house.
+[23] Some adjustments were also made to the amounts incurred for heat, electricity, insurance and mortgage interest. However the Appellant was unable to explain why the amounts claimed (except for the amount for heat in 2005) were more than the Respondent stated was incurred. Therefore no adjustment will be made to these amounts.
+[24] There was also some discussion by the Appellant related to the cost of a telephone and cable. The Appellant claimed that the cable connection was required to test TVs after they had been repaired. However it is not entirely clear whether these amounts were allowed as a deduction. It appears from the Reply that the Appellant was only reassessed to reduce his claim for business-use-of-home expenses. This would mean that the other expenses claimed by the Appellant were allowed.
+[25] In 2004 the Appellant’s claim for expenses as stated in his Statement of Business Activities (that were claimed separate and apart from the amount claimed for the business-use-of-home expenses) included the following[3]:
+Item
+Amount Claimed
+Telephone and utilities
+$645
+[26] In the Calculation of business-use-of-home expenses for 2004, the Appellant included:
+Item
+Amount Claimed
+Heat
+$826
+Electricity
+$890
+Utilities
+$520
+[27] Of the amount claimed for Utilities of $520 as part of the business-use-of-home expenses for 2004, the Respondent allowed $45. It is not clear what the Appellant included in telephone and utilities that were claimed as an expense (and not part of the business-use-of-home expenses). The Appellant stated that the amount for utilities that was included with the business-use-of-home expenses was for the water bill. The Appellant submitted copies of the water bills for 2004 which appear to indicate that no amounts for 2004 were paid until 2005. As a result it appears that the total amount incurred for charges for water for 2004 was $480. Since the Appellant would be required to report his income on an accrual basis, the amount incurred for 2004 would be $480 even though the bill was not paid until 2005. I accept the Appellant’s testimony and find that the business-use-of-home expenses for 2004 should reflect an additional claim for utilities of $480 - $45 = $435. The percentage of this amount that will be allowed is 6.8% (the percentage of the home that is used for the public safety inspector business) and therefore the Appellant is entitled to an additional deduction of $30 in computing his income for 2004.
+[28] Since it is not clear whether the Appellant included the cost of cable in “telephone and utilities” that were claimed as an expense in 2004 (separate and apart from the claim for utilities as part of the business-use-of-home expenses for 2004) and since it appears that an amount was allowed for telephone expense for 2004, no adjustment will be made for telephone and cable for 2004.
+[29] The Appellant submitted copies of telephone bills and internet charges for 2005. However in the Appellant’s claim for expenses as stated in his Statement of Business Activities for 2005 (that were claimed separate and apart from the amount claimed for the business-use-of-home expenses) he included the following:
+Item
+Amount Claimed
+Telephone and utilities
+$1,873
+[30] In the Calculation of business-use-of-home expenses for 2005, the Appellant included:
+Item
+Amount Claimed
+Heat
+$851
+Electricity
+$579
+Utilities
+$1,388
+Cable
+$448
+Utilities
+$689
+[31] Of the two amounts for utilities and the one for cable, the Respondent allowed $493 for one claim for utilities. It is not at all clear why there were two separate claims for utilities in 2005 as part of the business-use-of-home expenses. In 2005 the Appellant was working full time as a public safety inspector. His revenue from this business increased from approximately $34,850 in 2004 to approximately $90,250 in 2005. This reflects the statements of the Appellant that his work as a public safety inspector occupied most of his time and would mean that he had little, if any, time for his electronics repair business. It is not at all clear why the cable was required for his public safety inspector business in 2005 (since it was included as part of the business-use-of-home expenses it would have to relate to this business as the Appellant could not confirm that he had any income from the electronics repair business in 2005) or whether it was already included in “telephone and utilities” of $1,873 that was claimed as a deduction separate and apart from the business-use-of-home expenses and which, it appears was allowed as a deduction. It appears, therefore, that an amount was allowed as a deduction for telephone expense for 2005. As a result no adjustment will be made for 2005 in relation to the Appellant’s claim for amounts for telephone or cable.
+[32] The Appellant also claimed that he stored, on his property when he was home, his trailer that he needed for his subcontract work when he was away from home. However it is not clear what portion, if any, of the expenses related to the house would apply to this. Clearly no part of the heating costs would relate to this storage of the trailer. There was no allocation of the mortgage interest cost between the land and the building. To the extent that the mortgage was incurred to acquire the building, the interest on this part of the mortgage would not relate to the storage of the trailer. It is also not clear how often the trailer was stored on the property. As a result no adjustment will be made in relation to the storage of the trailer.
+[33] Although it appears that the Appellant was using a larger portion of his house for his electronics repair business, since the Appellant was unable to recall if he had any income from this business in 2004 or 2005, no additional amount will be allowed as a deduction in computing the Appellant’s income for 2004 or 2005 for business-use-of-home expenses.
+[34] As a result the Appellant’s appeal in relation to the reassessment of his 2004 taxation year is allowed, without costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to an additional deduction of $30 for business-use-of-home expenses in computing his income for 2004.
+[35] The Appellant’s appeal in relation to the reassessment of his 2005 taxation year is dismissed, without costs.
+Signed at Halifax, Nova Scotia, this 4th day of June, 2010.
+“Wyman W. Webb”
+Webb, J.
+CITATION: 2010TCC307
+COURT FILE NO.: 2009-1008(IT)I
+STYLE OF CAUSE: SHAWN A. ARBEAU AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: April 19, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: June 4, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Mary Murray
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] In 2002 the amount identified as sales was $381 and there was an additional amount of $133 that was identified as other income. There was no explanation of why there were two separate amounts and in any event the other income amount is only a small amount.
+[2] Skinner Estate et al. v. The Queen, 2009 TCC 269, 2009 DTC 1358.
+[3] The amounts are taken from the form as submitted at the hearing by the Respondent. The Appellant also submitted a copy of the Statement of Business Activities for 2004 but page 2 of the Appellant’s copy (which has different amounts than page 2 of the Respondent’s copy) appears to be page 2 of the Statement of Business Activities for 2003 since it was printed on April 26, 2004 and shows a carryforward amount at the end of the year of $33,941, which the amount that the Appellant claimed was his carryforward amount as of the end of 2003.

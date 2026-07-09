@@ -1,0 +1,635 @@
+---
+title: "Martin v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521367/index.do"
+last_modified: "2024-12-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2024 TCC 153"
+citation2: ""
+neutral_citation: "2024 TCC 153"
+decision_date: "2024-12-09"
+language: "en"
+item_id: "521367"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6061
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2025-05-19T11:52:52.662000+00:00"
+cases_cited_count: 6
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8b32e2d5cfe950fe4cf0bca80b3da4b902dc97e903188e8ece9adac50cef307d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Martin v. The King
+
+- Citation: 2024 TCC 153
+- Decision date: 2024-12-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6061, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Martin v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2024-12-09
+Neutral citation
+2024 TCC 153
+File numbers
+2020-1733(IT)G, 2021-521(IT)G
+Judges and Taxing Officers
+Jean Marc Gagnon
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2020-1733(IT)G
+BETWEEN:
+RUSSELL MARTIN,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeals heard on common evidence with the appeals of Joshua Donaldson 2021-521(IT)G on July 12, 2023, at Montréal, Québec, and further written submissions received on July 13 and 19, 2023 from the Appellants and on July 14, 2023 from the Respondent
+Before: The Honourable Justice Jean Marc Gagnon
+Appearances:
+Counsel for the Appellants:
+Marie-France Dompierre
+Marc Pietro Allard
+Counsel for the Respondent:
+Marie-Aimée Cantin
+Julien Wohlhuter
+JUDGMENT
+Upon hearing the evidence and submissions of counsel for the Appellants and counsel for the Respondent;
+In accordance with the attached Reasons for Judgment, the appeals from the reassessments made under the Income Tax Act for the Appellant’s 2015, 2016 and 2017 taxation years, by notices dated March 2, 2020, are allowed and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant’s employment taxable income from Canadian sources are $2,151,327, $5,858,004 and $7,205,156, respectively.
+There shall be one set of costs payable by the Respondent to the Appellants.
+Signed at Ottawa, Ontario, this 9th day of December 2024.
+“J.M. Gagnon”
+Gagnon J.
+Docket: 2021-521(IT)G
+BETWEEN:
+JOSHUA DONALDSON,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeals heard on common evidence with the appeals of Russell Martin 2020-1733(IT)G on July 12, 2023, at Montréal, Québec and further written submissions received on July 13 and 19, 2023 from the Appellants and on July 14, 2023 from the Respondent
+Before: The Honourable Justice Jean Marc Gagnon
+Appearances:
+Counsel for the Appellants:
+Marie-France Dompierre
+Marc Pietro Allard
+Counsel for the Respondent:
+Marie-Aimée Cantin
+Julien Wohlhuter
+JUDGMENT
+Upon hearing the evidence and submissions of counsel for the Appellants and counsel for the Respondent;
+In accordance with the attached Reasons for Judgment, the appeals from the reassessments made under the Income Tax Act for the Appellant’s 2016 and 2017 taxation years, by notices dated May 8, 2020, are allowed and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant’s employment taxable income from Canadian sources are $4,107,607 and $6,472,525, respectively.
+There shall be one set of costs payable by the Respondent to the Appellants.
+Signed at Ottawa, Ontario, this 9th day of December 2024.
+“J.M. Gagnon”
+Gagnon J.
+Citation: 2024 TCC 153
+Date: 20241209
+Docket: 2020-1733(IT)G
+BETWEEN:
+RUSSELL MARTIN,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent;
+Docket: 2021-521(IT)G
+AND BETWEEN:
+JOSHUA DONALDSON,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Gagnon J.
+I. Introduction
+[1] The crux of the matter in these appeals is whether, for Canadian income tax purposes, the retirement compensation arrangement contributions made by the Appellants’ Canadian employer shall be excluded from the taxable income of the Appellants before or after the duty day allocation agreed upon between Canada and the United States of America (United States) is applied to determine the portion of income allocated to each country.
+[2] During the taxation years under appeal, Mr. Martin and Mr. Donaldson were professional sportspersons playing for the Rogers Blue Jays Baseball Partnership operating as the Toronto Blue Jays Baseball Club (Club). At all relevant times, the Appellants were residents of the United States and non-residents of Canada under the Act.
+[3] The appeals were heard at the same time under common evidence from reassessments made by the Minister of National Revenue (Minister) under the Income Tax Act[1] by notices dated March 2, 2020 for Mr. Martin and May 8, 2020 for Mr. Donaldson (Reassessments). The taxation years under appeal are 2015, 2016 and 2017 for Mr. Martin and 2016 and 2017 for Mr. Donaldson (collectively Appeals).
+[4] No one testified. The appeals are essentially a question of law. The amounts noted in these reasons are stated in Canadian dollars, unless otherwise indicated.
+[5] The Court wishes to commend counsel for the Appellants and counsel for the Respondent for their well-organized and efficient way in which they approached these appeals, including their Agreed Statement of Facts and their written submissions.
+II. Issue in Dispute
+[6] The sole issue under appeal is whether, in computing their taxable income for the purposes of the Act, the Appellants are entitled to exclude during the relevant taxation years the RCA Contributions (defined below) from only their Canadian-sourced employment income.
+III. Relevant Facts and Agreed Statement of Facts
+[7] The facts in this matter are not in dispute. The parties filed an Agreed Statement of Facts (attached herewith as Schedule A).
+[8] In reassessing Mr. Martin’s 2015, 2016, and 2017 taxation years, the Minister decreased his Canadian source employment income by $29,076 in 2015 and increased his Canadian-source employment income by $1,361,162 in 2016 and $2,353,786 in 2017. In reassessing Mr. Donaldson’s 2016 and 2017 taxation years, the Minister increased his Canadian-source employment income by $1,210,475 in 2016 and $1,415,961 in 2017. The Minister’s adjustments relate essentially to the contributions made by the Club to retirement compensation arrangements as defined for the purposes of the Act (RCA).
+A. Russell Martin
+[9] On November 20, 2014, Mr. Martin and the Club entered into a Major League Uniform Player’s Contract (Martin UPC). [2] The Martin UPC provided that the Club would employ Mr. Martin to play professional baseball for the Club for the 2015 to 2019 Major League Championship seasons. Pursuant to the Martin UPC, the Club agreed to pay Mr. Martin the following compensation and remuneration, plus playoff bonuses, for the performance of his duties in respect of the relevant taxation years:
+a)USD 7,000,000 for 2015;
+b)USD 15,000,000 for 2016; and
+c)USD 20,000,000 for 2017.
+[10] On March 27, 2014, the professional services firm Westcoast Actuaries delivered an actuarial valuation report as at January 1, 2015 (Martin Actuarial Report). [3] The purposes of the Martin Actuarial Report are to (i) determine the Club’s contributions to a retirement compensation arrangement through reduced contract salary of Mr. Martin and (ii) provide information and actuarial certification ensuring that the Club’s contributions made or to be made to the retirement compensation arrangement are reasonable and not excessive and as such deemed by the Minister as a salary deferral arrangement.
+[11] The Martin Actuarial Report relied on the assumption that 40% of Mr. Martin’s compensation and remuneration was to be paid as income for Canadian income tax purposes. The Martin Actuarial Report also confirmed that the report’s conclusions are based on the compensation and remuneration payable to Mr. Martin for the employment duties performed in Canada only.
+[12] On April 22, 2015, Mr. Martin and the Club agreed to amend the Martin UPC to reflect at that date the establishment of the RCA (Martin UPC Amendment). [4] Pursuant to the Martin UPC Amendment, the Club agreed to make contributions (RCA Contributions), less applicable withholdings, to the custodian of the trust established under the Act for the purposes of Mr. Martin’s RCA (Martin RCA). The Martin RCA and the related trust agreement were effective as of April 22, 2015. The RCA Contributions schedule (as amended subsequently) reflected the findings of the Martin Actuarial Report, subject to a subsequent amendment.
+[13] As a result, the Club paid the following amounts in the relevant taxation years:
+2015
+2016
+2017
+To Mr. Martin
+USD 5,837,710
+USD 13,446,372
+USD 17,548,403
+To Mr. Martin as playoff bonus
+USD 111,772
+USD 125,000
+N/A
+To the Martin RCA
+USD 1,162,290
+USD 1,553,628
+USD 2,451,597
+Total Remuneration
+USD 7,111,772
+USD 15,125,000
+USD 20,000,000
+[14] The Club remitted half of the RCA Contributions amounts to the Receiver General for Canada on account of the payee’s tax for each year under Part XI.3 ITA.
+B. Joshua Donaldson
+[15] On March 19, 2016, Mr. Donaldson and the Club entered into a Major League Uniform Player’s Contract (Donaldson UPC). [5] The Donaldson UPC provided that the Club would employ Mr. Donaldson to play professional baseball for the Club for the 2016 and 2017 Major League Championship seasons. Pursuant to the Donaldson UPC, the Club agreed to pay Mr. Donaldson the following compensation and remuneration, plus playoff bonuses, for the performance of his duties in respect of the relevant taxation years:
+a)USD 11,650,000 for 2016; and
+b)USD 17,000,000 for 2017.
+[16] On March 31, 2016, the professional services firm Westcoast Actuaries delivered an actuarial valuation report as at January 1, 2016 (Donaldson Actuarial Report). [6] The purposes of the Donaldson Actuarial Report are to (i) determine the Club’s contributions to a retirement compensation arrangement through reduced contract salary of Mr. Donaldson and (ii) provide information and actuarial certification ensuring that the Club’s contributions made or to be made to the retirement compensation arrangement are reasonable and not excessive and as such deemed by the Minister as a salary deferral arrangement.
+[17] The Donaldson Actuarial Report relied on the assumption that 40% of Mr. Donaldson’s compensation and remuneration was to be paid as income for Canadian income tax purposes. The Donaldson Actuarial Report also confirmed that the report’s conclusions are based on the compensation and remuneration payable to Mr. Donaldson for the employment duties performed in Canada only.
+[18] On June 20, 2016, Mr. Donaldson and the Club agreed to amend the Donaldson UPC to reflect at that date the establishment of the RCA (Donaldson UPC Amendment). [7] Pursuant to the Donaldson UPC Amendment, the Club agreed to make RCA Contributions, less applicable withholdings, to the custodian of the trust established under the Act for the purposes of Mr. Donaldson’s RCA (Donaldson RCA). The Donaldson RCA and the related trust agreement were effective as of June 20, 2016. The RCA Contributions schedule reflected the findings of the Donaldson Actuarial Report.
+[19] As a result, the Club paid the following amounts in the relevant taxation years:
+2016
+2017
+To Mr. Donaldson
+USD 10,107,739
+USD 15,184,232
+To Mr. Donaldson as playoff bonus
+USD 125,000
+N/A
+To the Donaldson RCA
+USD 1,542,261
+USD 1,815,768
+Total Remuneration
+USD 11,775,000
+USD 17,000,000
+[20] The Club remitted half of the RCA Contributions amounts to the Receiver General for Canada on account of the payee’s tax for each year under Part XI.3 ITA.
+IV. Position of the Parties
+[21] In summary, the Respondent takes the position that, upon reading the applicable provisions of the Act, the contributions from an employer into a RCA never entered into the calculations of a non‑resident employee’s income, regardless of where the income is earned. The Appellants disagree and take the position that the employer’s RCA contributions are originally included in the income allocation between Canada and the foreign country, included in the non-resident employee’s income and are subsequently excluded from the employment income earned in Canada in accordance with applicable ITA provisions. The outcome, depending on the position adopted, may have a significant impact on a non-resident employee’s taxable income earned in Canada.
+[22] The Appellants submit that a proper textual, contextual, and purposive analysis of the applicable provisions of the Act leads to the logical result that where: a non-resident employee earns income for the performance of duties of employment in both Canada and a foreign jurisdiction and the employer of such an employee contributes to an RCA for the benefit of the employee, the exclusion of RCA contributions at subparagraph 6(1)(a)(ii) ITA only applies against the amount of Canadian-source income subject to taxation in Canada, i.e., income earned in Canada for the performance of employment duties in Canada. If it was not for the explicit exclusion, the non-resident employee’s taxable income in Canada would simply not be reduced by the employer’s contributions to an RCA.
+[23] In practical terms, the Appellants’ position is that the RCA Contributions paid by the Club are to be excluded only from the portion of income that was earned in Canada after allocating gross compensation between jurisdictions. Since only 40% of the Appellants’ compensation and remuneration was earned and is taxable in Canada, the RCA Contributions should be deducted solely from that 40%. The Appellants argue that this is not only consistent with the text, context, and purpose of the Act but also consistent with the Canada-United States Convention[8] and other domestic and international tax principles. [9]
+[24] The Respondent’s position is that the RCA Contributions do not enter into the computation of the Appellants’ income for Canadian tax purposes. In other words, the RCA Contributions are excluded before allocating income between jurisdictions. This is so for two reasons.
+[25] First, the clear terms of the Martin and Donaldson UPC Amendments introducing the Martin and Donaldson RCA agreements, support that each RCA Contribution payable on a particular date reduces by the same amount the Appellants’ salary and wages payable to the Appellants on such date under their respective UPC. According to the Respondent, the RCA Contributions are not salary or wages received in exchange for services but instead are contributions designed to provide security for retirement benefits.
+[26] Second, the Respondent argues that the RCA Contributions in a situation like in the present case do not enter the computation of income for Canadian tax purposes because the non-resident Appellants are not the recipients of any of the RCA Contributions during the taxation years under appeal. [10] The Respondent adds that by virtue of paragraph 2(3)(a) ITA, the Appellants’ taxable income earned in Canada is computed in accordance with Division D Part I ITA, which in subparagraph 115(1)(a)(i) ITA refers to section 3 ITA which then refers to sections 5 to 8 ITA (more specifically 5 and 6(1)(a) in the present case) in order to compute the employment income component of the Appellants’ taxable income earned in Canada for the purposes of paragraph 2(3)(a) (Respondent’s sequence). The Respondent’s sequence excludes all RCA contributions made in the taxation year from the total employment income. According to the Respondent, it is only once this sequence is completed that paragraph 4(1)(b) ITA requires income from this source to be apportioned between places. In the present case, only at that point of the Respondent’s sequence of the applicable provisions is the total employment income, as determined for ITA purposes, allocated among the two countries. This is clear from both the Amended Reply and the Reply filed by the Respondent in the Appellants’ appeals.
+[27] The practical result of the Respondent’s sequence is that the RCA Contributions are never included in the income determined for purposes of the Act, and therefore, the only amount of income allocated between the countries is the amount paid (i.e., the taxable income earned in Canada) to the Appellants as salary and playoff bonuses during the relevant taxation years. In other words, the result of the Respondent’s sequence is such that the RCA Contributions are to be excluded from the computation of taxable income earned in Canada for ITA purposes before allocating income between the countries.
+[28] Regarding the parties’ position, the Court notes the following observations:
+a) The Respondent did not challenge the reasonability of (i) the RCA Contributions paid to the Appellants’ RCA, and (ii) the Appellants’ determination of the RCA Contributions based solely on the employment duties performed in Canada.
+b) It is agreed that, for income tax purposes, (i) the Appellants performed 60% of their employment duties for the Club in the United States and 40% in Canada in each of the respective taxation year under appeal, and (ii) the same allocation applies to determine the compensation and remuneration between the two countries.
+c) The parties did not (i) refer the Court to any subsection of section 115 ITA other than subsection 115(1), (ii) submit any substantive representation or evidence in connection with the applicable United States domestic income tax treatment of the Appellants, or (iii) dispute or raise any issue in regard to whether the RCA Contributions when made have a different value than their dollar face value.
+d) The Court believes that the parties would agree that the total amount paid by the Club to the Appellants’ benefits post Martin/Donaldson UPC Amendment was the same total amount the Club and the Appellants agreed the Club would pay to the Appellants under the Martin/Donaldson UPC.
+e) The Court finds that the Respondent’s position exposed previously is expressed with some differences between their written submissions and their positions submitted at the hearing:
+i)In Subsection A of Part III of the submissions dealing with the Scheme of the Act for taxation of non-residents, the Respondent refers to subsections 2(3) and 115(1) ITA and immediately after introduces paragraph 4(1)(b) ITA.
+ii)The Respondent confirms in the same Subsection A of Part III of his written submissions that paragraph 4(1)(b) requires a reasonable allocation of the income between the two countries since only the taxable employment income earned in Canada is determined under paragraph 115(1)(a).
+iii)The Court notes that there is no clear indication made by the Respondent in Subsection A of Part III of his written submissions as to whether paragraph 4(1)(b) explicit reference implies that the allocation of the Appellants’ income among the two countries must be done prior to or is still made after the computations of the employment income. In Subsection D of Part III of the Respondent’s written submissions he appears to clarify his position by stating that the only amount of employment income that can be apportioned between Canada and the United States in applying section 4 for the purposes of paragraph 115(1)(a) is the amount of employment income computed pursuant to sections 5 and 6 ITA.
+V. Analysis
+A. Preamble
+[29] The core issue in this appeal is a matter of statutory interpretation. Interpretation of the Act requires a nuanced approach, as referenced by the Supreme Court of Canada in Canada Trustco [11]:
+It has been long established as a matter of statutory interpretation that “the words of an Act are to be read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament”: see 65302 British Columbia Ltd. v. Canada, [1999] 3 S.C.R. 804, at para. 50. The interpretation of a statutory provision must be made according to a textual, contextual and purposive analysis to find a meaning that is harmonious with the Act as a whole. When the words of a provision are precise and unequivocal, the ordinary meaning of the words play a dominant role in the interpretive process. On the other hand, where the words can support more than one reasonable meaning, the ordinary meaning of the words plays a lesser role. The relative effects of ordinary meaning, context and purpose on the interpretive process may vary, but in all cases the court must seek to read the provisions of an Act as a harmonious whole.
+[30] The Supreme Court of Canada also stated the following in Placer Dome [12]:
+[…] “the words of an Act are to be read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament” (p. 578): see 65302 British Columbia Ltd. v. Canada, [1999] 3 S.C.R. 804, at para. 50. However, because of the degree of precision and detail characteristic of many tax provisions, a greater emphasis has often been placed on textual interpretation where taxation statutes are concerned: Canada Trustco Mortgage Co. v. Canada, 2005 SCC 54, [2005] 2 S.C.R. 601, 2005 SCC 54, at para. 11. Taxpayers are entitled to rely on the clear meaning of taxation provisions in structuring their affairs. Where the words of a statute are precise and unequivocal, those words will play a dominant role in the interpretive process.
+[Emphasis added.]
+B. Overview of taxation of non-resident individuals of Canada under Part I ITA
+[31] A Canadian resident’s liability for tax on taxable income is found in section 2 of Division A Part I ITA. Subsection 2(1) levies tax on a resident’s taxable income for the year. The resident’s taxable income is determined under subsection 2(2).
+[32] A non-resident’s liability for tax in Canada is found in subsection 2(3) of Division A Part I ITA. When such tax becomes payable, the tax is levied on the taxable income of the non-resident earned in Canada as determined in accordance with Division D Part I ITA.
+[33] Section 2 ITA reads as follows:
+PART I — Income Tax
+DIVISION A — Liability for Tax
+Tax payable by persons resident in Canada
+2 (1) An income tax shall be paid, as required by this Act, on the taxable income for each taxation year of every person resident in Canada at any time in the year.
+Taxable income
+2 (2) The taxable income of a taxpayer for a taxation year is the taxpayer’s income for the year plus the additions and minus the deductions permitted by Division C.
+Tax payable by non-resident persons
+(3) Where a person who is not taxable under subsection 2(1) for a taxation year
+(a) was employed in Canada,
+(b) carried on a business in Canada, or
+(c) disposed of a taxable Canadian property,
+at any time in the year or a previous year, an income tax shall be paid, as required by this Act, on the person’s taxable income earned in Canada for the year determined in accordance with Division D.
+[Emphasis added.]
+[34] Subsection 2(3) ITA directs non-residents with Canadian-source income to Division D Part I ITA, and not to section 3 ITA, at least not directly.
+[35] Division D, titled “Taxable Income Earned in Canada by Non-Residents”, begins with section 115 ITA “Non-resident’s taxable income in Canada”. Section 115 directs how a non-resident is to calculate her/his taxable income earned in Canada for the year (referred to in subsection 2(3) ITA). Subparagraph 115(1)(a)(i) relates to income sourced from employment and reads as follows:
+DIVISION D
+Taxable Income Earned in Canada by Non-Residents
+Non-resident’s taxable income in Canada
+115 (1) For the purposes of this Act, the taxable income earned in Canada for a taxation year of a person who at no time in the year is resident in Canada is the amount, if any, by which the amount that would be the non-resident person’s income for the year under section 3 if
+(a) the non-resident person had no income other than
+(i) incomes from the duties of offices and employments performed by the non-resident person in Canada [...]
+[Emphasis added.]
+[36] Section 115 ITA alters the application of section 3 ITA for non-residents. Subparagraph 115(1)(a)(i) directs that a non-resident’s “taxable income earned in Canada” is the amount that “would be” the individual’s income for the year under section 3 “if” the individual earned no other income except income from the duties of offices or employments performed in Canada. The Court agrees with the Appellants that subsection 115(1) creates a legal fiction whereby only income earned in relation to duties performed in Canada (Canadian-source employment income) is used to calculate a non-resident’s income under section 3. This is evidenced inter alia by Parliament’s reference to the words “would be” and “if” and is consistent with the source-by-source rule in section 4 ITA.
+[37] Subparagraph 115(1)(a)(i) ITA directs that the amount that will be subject to section 3 ITA is “incomes from the duties of offices and employments performed […]” in Canada. Therefore, it is the total income from employment performed in Canada that will become the subject of the computation of income under section 3. At that point under subparagraph 115(1)(a)(i), it does not matter how the income will be treated under section 3 and the subsequent applicable provisions of the Act will include or exclude amounts from the “incomes from the duties of offices and employments performed […]” for computing the income subject to tax in Canada. What clearly matters from subparagraph 115(1)(a)(i) is that the income retained for the purposes of section 3 is the “incomes from the duties of offices and employments performed […]” in Canada.
+[38] It is important to note the context in which a reference in paragraph 115(1)(a) ITA is made to incomes from the duties of offices and employments performed in Canada. First, the Act does not define income for such purpose. Second, the reference to income in subparagraph 115(1)(a)(i) does not refer to any other provision, part, division or subdivision of the Act that could define the inclusions, exclusions, or expand or restrict its meaning.
+[39] The amounts that will be considered for that purpose need the quality of income. [13] In other words, not all amounts received or enjoyed are considered to be income. Author B. J. Arnold suggests that the only amounts that are beneficially received/enjoyed by a taxpayer are required to be included in income. Generally, such position excludes from income an amount received as agent. But, it could be income if the taxpayer beneficially owns the amount and has a legal obligation to pay the amount to a third party. The actual physical receipt is not necessary to satisfy the requirement of receipt for income tax purposes. Often control over the amount will generally dictate the inclusion.
+[40] Doctrines of constructive receipt, indirect receipt and receipt in kind have some similarities. Although they apply to different situations, they may all direct the inclusion of an amount in income. It is unclear whether the doctrine of constructive receipt is applied in Canada. Authors are not all of the same view. However, indirect receipt could be of some interest in the present case. About the doctrines, and amounts held in trust, B. J. Arnold in Timing and Income Taxation: The Principles of Income Measurement for Tax Purposes [14]:
+The doctrine of constructive receipt has often been said to apply to deferred compensation arrangements for employees. Generally, these deferred compensation arrangements are structured by establishing a trust for the benefit of the employees. […] If, however, an employee has a vested right in the amounts contributed to the trust on his behalf by his employer, it appears that he directly receives a benefit by virtue of his employment (that is, his interest in the trust), even though he has not received the amounts contributed to the trust by his employer. As a result, deferred compensation arrangements generally provide that the employee’s entitlement to the trust funds is contingent upon the satisfaction of one or more conditions, such as continuing employment, a noncompetition clause, and/or the availability of the employee for consulting services to the employer after retirement. Where the employee’s right to the trust fund vests at the time of the contribution to the trust by the employer, the employee may be considered to have received a benefit to the extent of the value of the right to receive the trust funds at some time in the future. It is important, however, to realize that it is a case of direct receipt and not constructive receipt.
+[Emphasis added.]
+[41] Although B. J. Arnold might disagree with the reference to the doctrine of constructive receipt instead of the doctrine of indirect receipt or even a direct receipt case, in Principles of Canadian Income Tax Law [15], Li, Magee and Wilkie explain:
+In order to constitute a “receipt” of money for tax law purposes, is it necessary for the taxpayer to “actually touch or feel it, or have it in his bank account?” The Court answered in Jean-Paul Morin v. The Queen, (1975) [[1975 C.T.C. 106 (Fed TD) 75 D.T.C. 5061]:
+We regret to say that this proposition seems to us absolutely inadmissible, because the word “receive” obviously means to get or to derive benefit from something, to enjoy its advantages without necessarily having it in one’s hands.
+When money is paid by an employer to a third party for the benefit of the taxpayer, the payment constituted constructive receipt in the hands of the taxpayer [Markman v Minister of National Revenue, [1989] 1 C.T.C. 2381 (T.C.C.) 89 DTC 253]. For example, in Blenkarn v. Minister of National Revenue (1963) [63 D.T.C. 581 (T.A.B.) 32 Tax A.B.C. 321], where the money to pay the taxpayer’s salary in 1960 was available but he voluntarily chose not to be paid until 1961, he was considered to have actually received the money. The payment was held to be “received” as soon as he had an unconditional right to be paid, which was in 1960.
+[Emphasis added.]
+[42] When the above Canadian tax law principles are considered, section 3 ITA specifies how to compute an individual’s income for the year to ultimately determine the tax payable. The Court notes that section 3 falls under the heading “Basic Rules” and reads as follows:
+DIVISION B — Computation of Income
+Basic Rules
+Income for taxation year
+3 The income of a taxpayer for a taxation year for the purposes of this Part is the taxpayer’s income for the year determined by the following rules:
+(a) determine the total of all amounts each of which is the taxpayer’s income for the year (other than a taxable capital gain from the disposition of a property) from a source inside or outside Canada, including, without restricting the generality of the foregoing, the taxpayer’s income for the year from each office, employment, business and property,
+(b) determine the amount, if any, by which
+(i) the total of
+(A) all of the taxpayer’s taxable capital gains for the year from dispositions of property other than listed personal property, and
+(B) the taxpayer’s taxable net gain for the year from dispositions of listed personal property,
+exceeds
+(ii) the amount, if any, by which the taxpayer’s allowable capital losses for the year from dispositions of property other than listed personal property exceed the taxpayer’s allowable business investment losses for the year,
+(c) determine the amount, if any, by which the total determined under paragraph (a) plus the amount determined under paragraph (b) exceeds the total of the deductions permitted by subdivision e in computing the taxpayer’s income for the year (except to the extent that those deductions, if any, have been taken into account in determining the total referred to in paragraph (a)), and
+(d) determine the amount, if any, by which the amount determined under paragraph (c) exceeds the total of all amounts each of which is the taxpayer’s loss for the year from an office, employment, business or property or the taxpayer’s allowable business investment loss for the year,
+and for the purposes of this Part,
+(e) where an amount is determined under paragraph (d) for the year in respect of the taxpayer, the taxpayer’s income for the year is the amount so determined, and
+(f) in any other case, the taxpayer shall be deemed to have income for the year in an amount equal to zero.
+[Emphasis added.]
+[43] Section 3 ITA divides income into the following five categories, each of which is considered a source: office, employment, business, property and capital gains. The list is not exhaustive. Each source is taxed according to its own set of rules. The different sources of income and losses are aggregated under section 3. The Subdivisions of Division B Part I ITA, set out immediately after the two core provisions that are sections 3 and 4 ITA (Basic Rules), instruct taxpayers on how to calculate income from each source. [16]
+[44] Section 4 ITA, the second Basic Rules, requires taxpayers to compute income or loss from various sources as if each source were the taxpayer’s only source of income. Paragraph 4(1)(a) reads as follows:
+Income or loss from a source or from sources in a place
+4 (1) For the purposes of this Act,
+(a) a taxpayer’s income or loss for a taxation year from an office, employment, business, property or other source, or from sources in a particular place, is the taxpayer’s income or loss, as the case may be, computed in accordance with this Act on the assumption that the taxpayer had during the taxation year no income or loss except from that source or no income or loss except from those sources, as the case may be, and was allowed no deductions in computing the taxpayer’s income for the taxation year except such deductions as may reasonably be regarded as wholly applicable to that source or to those sources, as the case may be, and except such part of any other deductions as may reasonably be regarded as applicable thereto; […]
+[Emphasis added.]
+[45] Paragraph 4(1)(b) ITA adds that the source-by-source rule applies for the purposes of the Act in the same manner where a taxpayer performs duties of office or employment partly in one place and partly in another place. For example, an individual who earns employment income from one employer for duties performed in two different countries or two different locations in Canada. Paragraph 4(1)(b) provides that where income from a single source is earned in two different places, each place is considered a separate source of income. Paragraph 4(1)(b) reads as follows:
+[…] (b) where the business carried on by a taxpayer or the duties of the office or employment performed by a taxpayer was carried on or were performed, as the case may be, partly in one place and partly in another place, the taxpayer’s income or loss for the taxation year from the business carried on, or the duties performed, by the taxpayer in a particular place is the taxpayer’s income or loss, as the case may be, computed in accordance with this Act on the assumption that the taxpayer had during the taxation year no income or loss except from the part of the business that was carried on in that particular place or no income or loss except from the part of those duties that were performed in that particular place, as the case may be, and was allowed no deductions in computing the taxpayer’s income for the taxation year except such deductions as may reasonably be regarded as wholly applicable to that part of the business or to those duties, as the case may be, and except such part of any other deductions as may reasonably be regarded as applicable thereto.
+[Emphasis added.]
+[46] The Court notes in subsection 4(3) ITA the specific reference to section 115 ITA:
+4(3) In applying subsection 4(1) for the purposes of subsections 104(22) and 104(22.1) and sections 115 and 126,
+(a) subject to paragraph (b), all deductions permitted in computing a taxpayer’s income for a taxation year for the purposes of this Part, except any deduction permitted by any of paragraphs paragraph 60(b) to (o), (p), (r) and (v) to (z), apply either wholly or in part to a particular source or to sources in a particular place; and
+(b) any deduction permitted by subsection 104(6) or 104(12) shall not apply either wholly or in part to a source in a country other than Canada.
+[Emphasis added.]
+[47] In light of the foregoing provisions, subsection 2(2) ITA combined with the Basic Rules direct a resident to calculate her/his “income for the year” from each source under Division B Part I ITA and aggregate them. Once the resident has calculated her/his income for the year under sections 3 and 4, the taxpayer then computes her/his taxable income by applying the additions and the deductions referred to in Division C Part I ITA to her/his income for the year. As to the two Basic Rules under Part I ITA, they apply with close interaction and connection, and guide the taxpayer to calculate income by clustering sources of income together on a source-by-source basis. The two Basic Rules are central to the determination of income for the purposes of the Act.
+[48] Subsection 2(3) ITA provides that a non-resident who earns income from a Canadian-source is to calculate her/his taxable income differently than a resident of Canada. While residents are liable for tax on their “taxable income”, non‑residents are liable for tax on their “taxable income earned in Canada” determined in accordance with Division D Part I ITA.
+[49] When subsection 2(3) ITA is contextualized with subsections 2(1) and 2(2), it is apparent that Parliament intended to identify the subset of non-residents that have a connection to Canada giving rise to Canadian tax liability. Subsection 2(3) carves out non-residents who have Canadian-source income and levies tax on their taxable income earned in Canada. If subsection 2(3) did not exist, non-residents who earn income from a Canadian source would escape taxation in Canada. To be clear, only non-residents who were employed in Canada, carried on business in Canada, or disposed of a Canadian property at any time in the taxation year or previous year are considered to have income from a Canadian source such that subsection 2(3) applies.
+[50] No specific reference is made to section 4 ITA in subsection 115(1) ITA. However, subsection 4(1) applies for the purposes of the Act and paragraph 4(3) refers specifically to section 115. The Court does not believe that ambiguity exists as section 4 is applicable, to the same extent, to non-residents and residents of Canada. Notwithstanding the foregoing, it remains clear from the wording of subsection 115(1) that the only income that is relevant in the case of a non-resident is the income resulting from the duties of offices and employments performed by the non-resident in Canada. In cases like these appeals, paragraphs 4(1)(b) and 115(1)(a) have essentially the same intended effect, by considering only the income from the performance of services in Canada in determining the non-resident tax payable in Canada.
+[51] In addition, nothing in subsection 2(3) ITA, section 115 ITA or section 4 ITA directs that section 4 applies any differently to non-residents. Section 4 stipulates what portion of income is Canadian-source income if an employment contract is performed in two different locations. More specifically, paragraph 4(1)(b) directs a taxpayer to treat income earned from employment duties performed in two places to be income earned from separate sources based upon the time working physically in each place. There is no distinction between non-residents and residents. In Nonis [17], this Court made clear the function of paragraph 4(1)(b) with respect to non-residents earning Canadian-source employment income:
+Ultimately, paragraph 4(1)(b) of the Act provides a formula for determining a non-resident’s income tax liability. According to paragraph 4(1)(b) of the Act, if a taxpayer works partly in Canada and partly in another country in the same taxation year, the taxpayer’s taxable Canadian income for the year is the amount earned while working physically in Canada. […]
+[52] The main difference between non-residents and residents comes from the altered application of section 3 ITA, such that non-residents are to ignore the foreign-source income. This means that the computational rules found in Division B Part I ITA being the Basic Rules are to be applied only to Canadian-source income. This is consistent with the Act; while subsection 2(3) ITA levies tax on non-residents with a taxable income earned in Canada, section 115 ITA specifies that those non-residents are liable only with respect to their Canadian-source income. In this context, the computational rules of the Act only apply to Canadian-source income. Canada is not concerned with a non-resident’s foreign source income.
+[53] The interpretation of these provisions is supported by the fundamental Canadian tax principle that residents pay tax in Canada on their worldwide income and non-residents only pay tax in Canada on their Canadian-source income, subject to tax treaties. Non-residents of Canada are not required to pay tax on their worldwide income because Canada has no jurisdiction over a non-resident’s income from foreign sources. This is consistent with Canadian and international tax principles providing that there needs to be a sufficient connection with a state for that state to levy tax. Paragraph 68 in Nonis:
+[…] The Minister has no authority to tax the non-resident on income earned for the performance of duties outside of Canada, no matter who pays it. The relevant factor to be considered is whether the remuneration is attributable to duties performed in Canada. It makes no difference that the remuneration has other connecting factors to Canada; if the remuneration is not attributable to duties performed in Canada, it is not subject to Canadian tax.
+[Emphasis added.]
+[54] The foregoing is also consistent with the Canada-United States Convention, which provides that Canada can only tax salary, wages, remuneration derived by a resident of the United States for employment services provided in Canada, if the employment is exercised in Canada. For example, Article XV of the Canada‑United States Convention reads as follows [18]:
+Subject to the provisions of Articles XVIII (Pensions and Annuities) and XIX (Government Service), salaries, wages and other similar derived by a resident of a Contracting State in respect of an employment shall be taxable only in that State unless the employment is exercised in the other Contracting State. If the employment is so exercised, such remuneration as is derived therefrom may be taxed in that other State.
+[Emphasis added.]
+[55] The combined reading of sections 2, 3, and 4 ITA provides that where a Canadian resident earns employment income in a year from duties performed in both Canada and a foreign jurisdiction, the foreign-source income is calculated separately from the Canadian-source income, but both are included in the computation of “income for the year” under section 3. A non-resident, on the other hand, by virtue of subsection 2(3), does not bring the foreign-source income into the computation of “income for the year” under section 3 because subparagraph 115(1)(a)(i) ITA clearly and unequivocally directs, for the purposes of the Act, that a non-resident’s “taxable income earned in Canada” is calculated under section 3 as if only Canadian-source income was earned.
+[56] The Act supports the interpretation that the application of section 4 ITA is concurrent with sections 115 and 3 ITA. In particular, paragraph 4(1)(b) applies “for the purposes of this Act” where (A) the “[…] duties of the office or employment performed by a taxpayer […]” (the same terminology is used in subparagraph 115(1)(a)(i)), and (B) “[…] were performed […] partly in one place and partly in another place […]”. If (A) and (B) are met the consequence is: for the purposes of the Act, the taxpayer’s income for the year from the duties performed by the taxpayer in a particular place is the taxpayer’s income computed in accordance with the Act on the assumption that the taxpayer had during the taxation year no income except from the part of those duties that were performed in that particular place, and was allowed no deductions in computing the taxpayer’s income for the taxation year except such deductions as may reasonably be regarded as wholly applicable to those duties. The fact that the fiction in section 4 applies to the entire Act makes that section applicable to sections 115 and 3.
+[57] Accordingly, the Court finds that a non-resident who earns income for the performance of employment duties partly in Canada and partly in a foreign jurisdiction computes her/his “taxable income earned in Canada” by isolating the income earned for the performance of duties in Canada from the income earned for the performance of duties in the other jurisdiction. As exposed earlier in this analysis: income in this context does not mean income as calculated under Subdivision A of Division B Part I ITA, but rather income from a source. Once the Canadian-source income is isolated, the computational rules within Subdivision A of Division B Part I ITA apply to find the non-resident’s income for the year under section 3 ITA, which becomes the non-resident’s taxable income earned in Canada for the purposes of subsection 2(3) ITA.
+[58] In conclusion, sections 2, 3, 4 and 115 ITA in computing the taxable income of a non-resident individual do not support or provide for the exclusion or reduction of the incomes from the duties of offices and employments performed by the non‑resident in Canada, prior to computing employment income under sections 5 to 8 ITA.
+C. Computing income from employment
+[59] Section 3 ITA provides that income from each source is included in the taxpayer’s “income for the year.” As such, the taxpayer must compute income from each source. Income from employment is the source at issue in these appeals. The rules in the Act directing how a taxpayer is to calculate income or loss from employment for the purposes of section 3 are found in sections 5 through 8 under Subdivision A of Division B Part I ITA.
+[60] A taxpayer’s income from an office or employment is computed under the basic rule of subsection 5(1) ITA:
+Income from office or employment
+5 (1) Subject to this Part, a taxpayer’s income for a taxation year from an office or employment is the salary, wages and other remuneration, including gratuities, received by the taxpayer in the year.
+[61] While subsection 5(1) ITA is worded broadly, its scope is subject to the provisions of Part I ITA , and more specifically to sections 6 and 7 ITA and the provisions of Division D Part I (section 115 ITA) where further clarification of what is to be included or excluded in income from office or employment is provided. Paragraph 6(1)(a) provides that:
+Amounts to be included as income from office or employment
+6 (1) There shall be included in computing the income of a taxpayer for a taxation year as income from an office or employment such of the following amounts as are applicable
+Value of benefits
+(a) the value of board, lodging and other benefits of any kind whatever received or enjoyed by the taxpayer, or by a person who does not deal at arm’s length with the taxpayer, in the year in respect of, in the course of, or by virtue of the taxpayer’s office or employment, except any benefit […]
+[Emphasis added.]
+[62] In the Blanchard decision [19], the Federal Court of Appeal states:
+Section 6 of the Income Tax Act was designed to supplement and broaden the notion of taxable employment income as set out in section 5, which provides that all forms of remuneration are to be included as employment income. (See MacDonald v. Canada, [1994] F.C.J. No. 378 (unreported) at paragraphs 4-6.) The notion of "remuneration", however, encompasses only those payments flowing from an employer to an employee for services rendered or work performed. It does not encompass other gains or advantages not directly classifiable as remuneration but arising, nonetheless, out of the taxpayer's employment. To capture these items, various inclusion provisions were added. Two of those provisions concern us directly here, paragraph 6(1)(a) and subsection 6(3).
+[63] And adds:
+Paragraph 6(1)(a) is an all-embracing provision. It provides that all "benefits of any kind whatever" are to be included as employment income if they were received "in respect of, in the course of, or by virtue of an office or employment". The section casts a wide net, incorporating two broadly worded phrases. The first is "benefits of any kind whatever". The scope contemplated by this phrase is plain and unambiguous: all types of benefits imaginable are to be included. Speaking for the majority in The Queen v. Savage, [1983] 2 S.C.R. 428, [1983] C.T.C. 393, 83 D.T.C. 5409, Dickson J. (as he then was) stated that paragraph 6(1)(a) was "quite broad" and covered any "material acquisition which confers an economic benefit". [Quoting from R. v. Poynton, [1972] C.T.C. 411, 72 D.T.C. 6329 (O.C.A.), per Evans J.A.]
+[64] And later said also about paragraph 6(1)(a) ITA:
+[…] That section, if I am to respect its unambiguous wording, requires only some connection between the receipt of a payment and the recipient’s employment—nothing seems to turn on the source of the payment. It makes no difference whether a receipt arises from a land deal, a boat deal, a livestock deal, or any other type of deal, as long as the receipt is linked to the recipient’s employment.
+[65] The Court of Appeal’s position confirms the very broad meaning that section 5 and paragraph 6(1)(a) ITA alone convey.
+[66] In addition, the decisions of the Federal Court of Appeal in McGoldrick [20] and in Smith [21] assist in measuring the scope of paragraph 6(1)(a) ITA. In McGoldrick:
+As a general rule, any material acquisition in respect of employment which confers an economic benefit on a taxpayer and does not constitute an exemption falls within paragraph 6(1)(a) (see The Queen v. Savage, 1983 CanLII 32 (SCC), 83 DTC 5409 at 5414 (S.C.C.)). In this case, the benefit is the money saved by the taxpayer in preparing a lunch or in making a food purchase from the casino vending machines while at work. Where something is provided to an employee primarily for the benefit of the employer, it will not be a taxable benefit if any personal enjoyment is merely incidental to the business purpose (see Lowe v. The Queen, 96 DTC 6226 at 6230). The Tax Court Judge found that although the meals were provided for a business purpose, the personal benefit to Mr. McGoldrick could not be said to be incidental. That was a factual finding, and no palpable and overriding error on the basis of the evidence has been established. Indeed, Mr. McGoldrick voluntarily signed an authorization for the employee meal tax benefit at the commencement of his employment.
+[Emphasis added.]
+[67] Later in McGoldrick, the Court of Appeal highlights the issue of quantum of the benefit:
+He did not, however, raise a quantum issue in the notice of appeal to the Tax Court. Before that Court, he specifically noted that he was confining his evidence and argument to the question of whether the meals and seasonable gifts were a taxable benefit and did not address the quantum of the benefit. While he might well have been able to challenge the value of the benefit received if it had been an issue before the Tax Court, that was not the case and accordingly that avenue of appeal is not open to him. Of course, this does not preclude him from objecting to the quantum of taxable benefits assessed in subsequent years if he is not out of time to file such objections.
+[68] In Smith, the Federal Court of Appeal adds about the scope of paragraph 6(1)(a) ITA:
+In my view, the fundamental inquiry under paragraph 6(1)(a) is whether an employer has conferred something of economic value on an employee. But the receipt of value can be mutual, and often is. The concept of the “primary beneficiary” is useful in such cases because it captures a variety of considerations that may be relevant depending on the facts – the employer’s purpose in providing something to an employee, for example, or the relationship between what has been provided and the employee’s duties or conditions of employment. The factors do not give rise to their own tests, however. They merely assist in determining whether the employee has received or enjoyed something of economic value.
+[69] The Court of Appeal further adds on the same provision:
+As set out above, subsection 5(1) includes in employment income any “other remuneration” received by the taxpayer, and a similarly broad definition of “income” has been found in Canadian income tax legislation since its introduction in 1917: see the Income War Tax Act, 1917, S.C. 1917, c. 28, s. 3(1); Brian J. Arnold and Jinyan Li, “The Appropriate Tax Treatment of the Reimbursement of Moving Expenses” (1996) 44:1 Can. Tax J. 1 at 9. In 1927, the Income War Tax Act, 1917 was amended to expressly include “personal and living expenses when such form part of the profit, gain or remuneration of the taxpayer”: R.S.C. 1927, c. 97, s. 3(e). A provision substantively similar to what is now paragraph 6(1)(a) first appeared in paragraph 5(a) of The Income Tax Act, S.C. 1948, c. 52 beside the marginal note “Income from office or employment,” and included in income “the value of board, lodging and other benefits […] received or enjoyed by [the taxpayer] in the year in respect of, in the course of or by virtue of the office or the employment […].” The wording of the provision was amended in 1956 to capture benefits “of any kind whatsoever”: S.C. 1956, c. 39, s. 1. A further amendment in 1971 changed “whatsoever” to “whatever”: S.C. 1970-71-72, c. 63, s. 1.
+The purpose of paragraph 6(1)(a) is to include in employment income all forms of compensation received by employees, whether in money or in money’s worth. This ensures equitable tax treatment of employees who are paid in cash and those who are paid in kind: see “The Appropriate Tax Treatment of the Reimbursement of Moving Expenses” at 4; M.N.R. v. Phillips (C.A.), 1994 CanLII 3468 (FCA), [1994] 2 F.C. 680 at 691, 701, 94 D.T.C. 6177 (C.A.), leave to appeal refused, [1994] 3 S.C.R. ix; Canada (Attorney General) v. Henley, 2007 FCA 370 at para. 14, 2008 D.T.C. 6017; Lowe v. Minister of National Revenue (1996), 195 N.R. 201 at para. 8, 96 D.T.C. 6226 (F.C.A.).
+The Supreme Court of Canada considered paragraph 6(1)(a) in The Queen v. Savage. In that case, the taxpayer received a $300 award from her employer for passing examinations relating to her field of employment. The Supreme Court held that the meaning of “benefits of whatever kind” was “clearly quite broad,” capturing any “material acquisition that confers an economic benefit on the taxpayer”: at 440-441, excerpting from R. v. Poynton, 1972 CanLII 534 (ON CA), [1972] 3 O.R. 727 at 738, 72 D.T.C. 6329 (C.A.); see also Blanchard v. Minister of National Revenue (1995), 185 N.R. 66 at para. 3, 95 D.T.C. 5479 (F.C.A.), leave to appeal to S.C.C. refused (1996), 203 N.R. 320n. The Supreme Court concluded that the payment was a paragraph 6(1)(a) benefit, as it conferred economic value on the employee. […]
+[70] As described above, section 6 ITA provides for the inclusion in a taxpayer’s employment income of most employment-related benefits. [22] Considering the wording in paragraph 6(1)(a) such as “any kind whatever,” “received or enjoyed,” and “in respect of, in the course of, or by virtue of” is very broad. Moreover, the paragraph contains specific exceptions, most notably highlight the benefits received or enjoyed under an RCA:
+Amounts to be included as income from office or employment
+6 (1) There shall be included in computing the income of a taxpayer for a taxation year as income from an office or employment such of the following amounts as are applicable
+Value of benefits
+(a) the value of board, lodging and other benefits of any kind whatever received or enjoyed by the taxpayer, or by a person who does not deal at arm’s length with the taxpayer, in the year in respect of, in the course of, or by virtue of the taxpayer’s office or employment, except for any benefit
+[…]
+(ii) under a retirement compensation arrangement, an employee benefit plan or an employee trust, […]
+[Emphasis added.]
+[71] The benefits under an RCA are ultimately not included in the taxpayer’s employment income. The Court believes the parties agree with that final determination. This is consistent with the Act as a whole because the contributions made to the RCA and the RCA income are subject to an annual 50% refundable tax[23], and the distribution of RCA benefits are included in the taxpayer’s income in the same way as pension and retirement benefits. [24]
+[72] The Court also believes the foregoing analysis supports that, without the exclusion of benefits under a RCA, the RCA contributions could be included in employment income of the Appellants and therefore the applicable tax treatment could not be decided as foreseen by another provision within the Act. The interpretation and scope given to section 5 and paragraph 6(1)(a) ITA by the Federal Court of Appeal uphold the conclusion.
+D. The RCA Rules
+[73] The parties agreed that both the Martin RCA and the Donaldson RCA are RCAs as defined within subsection 248(1) ITA.
+[74] Originally, the doctrine described the RCA rules passed in 1987 as rules to curtail the tax advantages associated with non-registered funded retirement plans. The rationale for these rules was to continue to permit supplemental retirement plans to be established but without the tax benefits. [25] The RCA rules were designed to permit this type of retirement funding without limitation but on a tax-neutral basis. Although essentially designed for high-income taxpayers, these rules neither provide a tax advantage to these retirement plans nor do they necessarily discourage their use. This finding did not prevent some authors to be of the view that, unlike the SDA rules, the RCA provisions are not necessarily rules to be avoided but rules to be complied with. [26]
+[75] Pursuant to subsection 207.6(1) ITA, for the purposes of Part I and Part XI.3 ITA, a trust is deemed to be created on the day that the arrangement is established, and the property held in connection with the arrangement (subject property) is deemed to be property of the trust and not that of any other person, and the custodian of the arrangement is deemed to be the trustee having ownership or control of the trust property.
+[76] RCAs do not pay tax under Part I ITA. [27] Instead, RCAs are subject to a special Part XI.3 ITA tax regime. Part XI.3 ITA levies a 50% refundable tax on all RCA contributions[28], withheld at source. [29] There is also a further 50% refundable tax on the RCA’s income from business or property for each year as well as its capital gains for the year. [30] All RCA’s taxes are refunded to the custodian on the basis of 50% of funds made to the RCA trust beneficiaries. [31]
+[77] Contributions are generally deductible by employers on a current basis. [32] Distributions out of an RCA to a Canadian resident employee or former employee are included in income when received[33] and with tax withheld at source. [34] Distributions out of an RCA to a non-resident beneficiary of Canada could be taxed under Part I ITA[35] or Part XIII ITA[36] subject to any relevant tax treaty.
+[78] It is notable that there is no mechanism in the Act that provides for a portion of RCA contributions or distributions to be allocated to a foreign-source. The RCA rules apply to all funds held in the RCA.
+[79] Moreover, it should be noted that section 128.1 ITA, dealing with tax consequences relating to individuals becoming resident of Canada or ceasing to be a resident of Canada, provides explicit provisions for those dealing with the right of an individual under or an interest in a trust governed by an RCA. Such right or interest held by the individual is considered to be an “excluded right or interest” and is therefore not subject to a deemed disposition by an individual that either becomes or ceases to be a resident of Canada. [37]
+[80] Since introduced, the applicable tax treatment to RCAs under the Act has not been materially transformed. It is generally accepted that at the time the RCA is created or entered into and funded, the beneficiary can defer tax on the amount of the contributions made to the RCAs until the custodian pays back amounts from the RCA to the beneficiary. Distributions from the RCA can take months, years or even decades. And methods of funding RCAs and the tax residence of the beneficiary overtime may result ultimately in some benefit for the participants. Certainly within some analogy as to the model, registered retirement savings plans create generally some benefits for its participants. By benefits, the Court means a reduced income tax burden for the participants to the detriment of the state over time. The Court must believe that Parliament made choices, as the courts are to apply the provisions of the Act as they are. Therefore, the Court when applying, and interpreting if necessary, the applicable provisions of the Act governing RCAs must not deviate from that responsibility.
+[81] In these appeals, the Court notes two particular aspects of the definition of an RCA under the Act. Contributions to the RCA fund are to be made (i) by the employer of the taxpayer and (ii) in connection with benefits that are to be or may be received or enjoyed by any person on, after or in contemplation of any substantial change in the services rendered by, the retirement of or the loss of employment of the taxpayer. The terms and conditions of the RCA will dictate how these two conditions are satisfied, but it is clear that it does not have to be exclusively for retirement benefits.
+E. The Appellants’ Context
+[82] There is no dispute that the Appellants were at all relevant times (i) non‑residents of Canada and (ii) employed in Canada under their respective UPCs. As a result, paragraph 2(3)(a) ITA applies. The Appellants are liable to tax under the Act on their taxable income earned in Canada for the relevant taxation years as determined in accordance with Division D Part I ITA.
+[83] Moreover, there is no dispute with respect to (i) the reasonability of the RCA Contributions and (ii) the determination that the RCA Contributions were based solely on the employment duties performed by the Appellants in Canada. As well, there is no dispute or issue raised regarding whether the RCA Contributions have a different value than their dollar face value when the RCA Contributions were made.
+[84] The Appellants earned income from employment under their respective UPCs, as amended, whereby the Club employed the Appellants to play professional baseball for the Club during specific Major League Championship Seasons. Under their respective UPCs, the Appellants were compensated for each day of service, which occurred in either Canada or the United States.
+[85] Under subparagraph 115(1)(a)(i) ITA, the Appellants’ taxable income earned in Canada for the relevant taxation years is determined by calculating their income under section 3 ITA as if the only income they earned were incomes from their respective employment duties performed in Canada.
+[86] The next step is to calculate the amount of income earned for duties performed in Canada. The parties do not dispute that 40% of the Appellants’ employment duties were performed in Canada and 60% of the duties were performed in the United States. There is also no dispute between the parties that the compensation or the remuneration is allocated on the same basis. However, as described earlier, the parties disagree as to what amount should be allocated to each country and how to determine the taxable income of the Appellants for Canadian income tax purposes, which is the core issue in this these appeals.
+[87] The following is an illustration of the Respondent’s position:
+Russell Martin
+2015
+2016
+2017
+To Mr. Martin
+USD 5,837,710
+USD 13,446,372
+USD 17,548,403
+To Mr. Martin as playoff bonuses
+USD 111,772
+USD 125,000
+N/A
+To the Martin RCA
+USD 1,162,290
+USD 1,553,628
+USD 2,451,597
+Less RCA Contributions
+(USD 1,162,290)
+(USD 1,553,628)
+(USD 2,451,597)
+Total income
+USD 5,949,482
+USD 13,571,372
+USD 17,548,403
+Income earned in Canada (40%)
+USD 2,379,793
+USD 5,428,549
+USD 7,019,361
+Taxable income earned in Canada
+USD 2,379,793 [38]
+USD 5,428,549 [39]
+USD 7,019,361 [40]
+Total Compensation
+USD 7,111,772
+USD 15,125,000
+USD 20,000,000
+Joshua Donaldson
+2016
+2017
+To Mr. Donaldson
+USD 10,107,739
+USD 15,184,232
+To Mr. Donaldson as playoff bonuses
+USD 125,000
+N/A
+To the Donaldson RCA
+USD 1,542,261
+USD 1,815,768
+Less RCA Contributions
+(USD 1,542,261)
+(USD 1,815,768)
+Total income
+USD 10,232,739
+USD 15,184,232
+Income earned in Canada (40%)
+USD 4,093,095
+USD 6,073,693
+Taxable income earned in Canada
+USD 4,093,095 [41]
+USD 6,073,693 [42]
+Total Compensation
+USD 11,775,000
+USD 17,000,000
+[88] The Respondent’s position above contrasts with that of the Appellants with respect to one major aspect. The Respondent is of the view that it is only once the income from employment has been duly computed in accordance with Division B Part I ITA that paragraph 4(1)(b) ITA requires that the income from that source be apportioned between “places”. [43] The Court can only assume that reference to “places” refers to both Canada and the United States in these appeals.
+[89] This is the reason why the 40% allocation step by the Respondent comes late in the determination of taxable income, as opposed to the Appellants’ calculations where such allocation is made on the Total Compensation line prior to deducting the RCA Contributions line that will then determine the taxable income.
+[90] The Respondent argues that the RCA Contributions do not enter the computation of income because the Martin and Donaldson UPC Amendments are explicit that each RCA Contribution reduces the Appellants’ salary and wages payable under their respective UPCs. Further, the Martin and Donaldson Actuarial Reports confirm that the RCA Contributions were determined through a “reduced contract salary for the purpose of accumulating assets inside the RCA Trust so as to provide security for retirement benefits in advance of their actual payment.” As such, the Respondent’s position is that the RCA Contributions are not income received for the purposes of Section 5 and RCA contributions are specifically not considered as a taxable employment benefit by virtue of subparagraph 6(1)(a)(ii) ITA.
+[91] The Court is not persuaded by this argument supporting the Respondent’s position that the RCA Contributions must reduce the income allocation between the two countries prior to being subject to the provisions of the Act. First, this approach when submitted was not borne by any applicable legislative provision. Second, if this approach were borne by the provisions of the Act referred to by the Respondent, the Court is of the view that the appropriate sequence of applicable provisions of the Act does not justify that the RCA Contributions—although ultimately excluded in the computation of employment income—are not exposed at all to the Canadian taxation regime. All provisions within the Act must assume a role and even more so in the case of Basic Rules in computing the income.
+[92] The Respondent also argues that the RCA Contributions do not enter the computation of employment income because section 5 ITA, which is the starting point for computing employment income, states that a taxpayer’s income from employment is the salary, wages, and other remuneration, including gratuities, received by the taxpayer in the taxation year. In the Respondent’s view, the RCA Contributions were never received by the Appellants because they were paid directly to the Martin and Donaldson RCAs. By extension, the amounts never entered the computation of income under subparagraph 115(1)(a)(i) ITA.
+[93] As non-residents employed in Canada, the Appellants are to compute their taxable income earned in Canada under section 3 ITA as if the only incomes the Appellants earned in the relevant taxation years were incomes from the duties performed in Canada under their respective amended UPCs.
+[94] The global compensation and remuneration under the UPCs, as amended, is the income from the duties of employment performed by the Appellants, and the 40% allocation determines the Canadian portion referred to in subparagraph 115(1)(a)(i) ITA. The RCA Contributions may not ultimately enter into the computation of employment income subject to Canadian tax however they do constitute gross compensation and remuneration earned by the Appellants for duties performed under their respective amended UPCs. The Martin and Donaldson UPC Amendments were added Special Covenant V to the Martin and Donaldson UPCs. The total amount paid by the Club for the employment duties has the quality of income as exposed above. It is only when this amount is isolated can the Appellants apply the rules found in Subdivision A of Division B Part I ITA.
+[95] Canadian income tax rules—including inclusions and deductions found in sections 5 to 8 ITA and throughout Division B Part I—cannot apply to a non‑resident’s foreign-source income as the Act only grants jurisdiction over a non‑resident’s Canadian-source income. Subsection 5(1) contains the words “[…] a taxpayer’s income for a taxation year from an office or employment is […]” which makes it clear that section 5 is to be used to calculate a taxpayer’s income from office or employment, not “income for the year” or “taxable income”. This makes it clear that a sequence must be followed.
+[96] The Court finds no rational reasoning to justify the ignorance of section 4 ITA until the taxable income is determined. Both section 3 ITA as the charging provision and section 4 ITA fixing source income principles for purposes of the Act are both Basic Rules that coexist and likely to apply concurrently, subject to specific provision of the Act that may provide otherwise. The wording of paragraph 115(1)(a) ITA is also in line with section 4 where clearly section 3 is not to be read with respect to the non-resident’s foreign allocation.
+[97] Moreover, a careful review of the Martin and Donaldson UPC/UPC Amendment agreements and the RCA plans reveals a clear intention among the parties to support the quality of income to all amounts paid by the Club. Here are a few references that convince the Court of such intention:
+a) Article 2 UPC. For performance of the Appellants’ services, the Club will pay the Appellants the sum listed as salary in Special Covenants/Part II section. The salary equals the Total Compensation amounts in paragraph 86 above.
+b) Article 2 UPC. Nothing in the UPC shall interfere with the right of the Club and the Appellants by special covenant to mutually agree upon a method of payment whereby part of the Appellants’ salary can be deferred to subsequent years. The Club shall be permitted to deduct from the Appellants’ salary only those amounts that are specifically authorized by any mutually agreed upon special covenant signed by the Appellants.
+c) Article 3 UPC Amendment. In accordance with Article 2 UPC, the Appellants agree that the Club shall pay the amounts set forth in the RCA Plan, less applicable withholdings, to the trustee of the RCA trust established for purpose of the RCA Plan for the purpose of deferring such portion of the Appellants’ salary until their retirement or loss of employment with the Club.
+d) Article 1 RCA Plan. The RCA Plan is made for the Appellants only.
+e) Article 2 RCA Plan. The object and purpose of the RCA Plan are to defer the salary of the Appellants for the services provided by them to the Club, by providing the Appellants with benefits which are payable on or after the Appellants’ retirement or loss of employment with the Club.
+f) Article 3 RCA Plan. Each Appellant is the sole beneficiary under the plan, until death and a designation of a beneficiary by the Appellants is made or, if the Appellant has failed to do so, his estate.
+g) Article 5 RCA Plan. The RCA Plans are intended to provide a reasonable retirement income to the Appellants following retirement from or loss of employment with the Club taking into account the Appellants’ compensation with the Club and years of service.
+h) Article 7 RCA Plan. The Appellants are irrevocably vested by virtue of the Appellants’ interest as a beneficiary in the assets in the trust immediately upon any contribution made by the Club, and the Appellants shall have the sole right to receive any assets, benefit, payment or funds held in the trust fund.
+i) Article 9 RCA Plan. Upon the Appellants’ retirement from or loss of employment with the Club, the Appellants will receive a lump sum payment equal to the assets of the RCA Trust and refundable tax.
+j) Article 15 RCA Plan. The Appellants shall make an investment election which shall provide an investment policy for how the investment advisor(s) shall invest the trust fund.
+[98] It is clear from the foregoing that the RCA Contributions made up a portion of the Appellants’ compensation and remuneration for the year and that the amounts would have been paid to the Appellants directly but for the RCAs established separately and subsequently from the Martin and the Donaldson UPCs through amendments. The entire compensation and remuneration were earned and received in the years the Appellants performed the duties under the contract even if a portion of it was to be ultimately enjoyed in a different year. This is based on a contractual analysis. The Appellants were performing services in consideration of a global compensation and remuneration ultimately received or vested based upon the agreement entered into among the parties. Each Appellant was the sole beneficiary of his total compensation and remuneration payable directly and through a deferral mechanism agreed by the Club and the Appellants. It supports the conclusion that it is the entire amount paid by the Club for each relevant year that must be subject to the allocation between the two countries.
+[99] The Court is of the view that the reason the UPC Amendments state that the RCA Contributions reduce the Appellants’ salaries payable by an amount equal to the contribution is because the RCA Contributions were payable to the RCA Trust for the benefit of the Appellants. This does not mean the RCA Contributions are not part of the Appellants’ compensation during the taxation years in which the contributions were made and cannot be included in incomes from the duties of employments performed in Canada as stated within paragraph 115(1)(a) ITA. The RCA Contributions were not made separate and apart from the contract of employment and would not have been made if the Appellants did not provide their services under the UPCs in the relevant years. The RCA Contributions are part of the total compensation and remuneration that otherwise would have been paid to the Appellants. These RCA Contributions are brought into the calculation of income, even if they may later be excluded from income or subject to a different tax treatment under the Act. In other words, they make up the Appellants’ gross income in a given taxation year even though the Act may specify that they are not part of the Appellants’ net income for the year. In summary, the RCA Contributions preserve their quality of income for the Appellants.
+[100] In the Loeb decision [44], the Federal Court of Appeal stated the following:
+Similarly, I know of no basis for holding that payments are salary for the purpose of pension contributions but are not income from employment for income tax purposes. If there is a contract of employment, by definition, remuneration thereunder is income for purposes of Part I of the Income Tax Act.
+[Emphasis added.]
+[101] Moreover, based on the global agreement entered into by the Club and the Appellants, in the Court’s view the scope of provisions in Subdivision A of Division B Part I ITA is broad enough to include the RCA Contributions and the exclusion in subparagraph 6(1)(a)(ii) ITA remains enforceable and compulsory to cause any benefits vested or received by each Appellant as beneficiary of the RCA to be subsequently excluded from the employment income under Subdivision A. [45]
+[102] The Respondent’s position, which has the practical effect that the RCA Contributions are excluded from income before apportioning income between the countries, is faulty in other ways than those discussed above. The Respondent’s sequence applies the provisions of Subdivision A of Division B Part I ITA to the Appellants’ total compensation in order to arrive at the employment income. It is then that the Respondent applies paragraph 4(1)(b) ITA and section 115 ITA to apportion 40% of that amount to the Canadian tax base. Thus, income is calculated as if each of the respective UPCs were one source of income. Section 4 is very clear that income earned in two places, whether that income is earned by a resident or a non-resident without distinction, must be calculated as two distinct sources. Section 115 ITA is to the same effect.
+[103] The combination of sections 3, 4 and 5 to 8 ITA, as adapted under section 115 ITA, as the case may be, is for the Court the correct approach in computing the Appellants’ taxable income under Division D Part I ITA.
+[104] The Respondent’s sequence also appears as if section 115 ITA applies as a final step. The chronological steps in the Respondent’s sequence are the Respondent (a) takes the total compensation earned under the UPC, (b) treats it as one source of income, (c) applies the rules of Subdivision A of Division B Part I ITA to the compensation to find the Appellants’ income for the year under section 3 ITA, and (d) as a final step, applies subparagraph 115(1)(a)(i) to apportion 40% of the income under section 3 to Canada. For the Court, this is fundamentally incorrect because subsection 2(3) ITA and subparagraph 115(1)(a)(i) are clear that income must be calculated under section 3 as if no foreign-source income was earned.
+[105] The result of the Respondent’s sequence is that the RCA Contributions are excluded from the Appellants’ entire compensation earned under their respective amended UPCs, despite the fact that a portion of the income earned has no connection whatsoever to Canada. Canada does not have jurisdiction over a non‑resident foreign-source income and therefore cannot include, exclude, or deduct amounts under the Act to such foreign-source income. Such an exercise has no legal basis under the provisions of the Act. Applying an exclusion under section 5 ITA or subparagraph 6(1)(a)(ii) ITA from the Appellant’s total compensation under the UPC before isolating the Canadian-source income brings a non-resident foreign-source income under domestic tax legislation. This is an incorrect application of the Act and defies well-established Canadian tax principles.
+[106] The Court is of the view that the Respondent’s position is not harmonized with the RCA regime as currently in force under the Act. RCA is a strict Canadian income tax regime under the Act and is not available to non-residents who are not liable to tax in Canada. A non-resident who does not earn any income in Canada cannot apply the RCA rules to a foreign pension, and RCA contributions cannot be used against income derived from a foreign-jurisdiction. As such, the exclusion found in subparagraph 6(1)(a)(ii) ITA can only be measured against Canadian-source income.
+[107] Furthermore, the RCA rules do not provide for an allocation of the RCA contributions between Canada and a foreign country nor is there an allocation for the refundable tax to be applied to these contributions. The refundable tax provisions apply to 100% of the contributions made to an RCA.
+[108] If we follow the Respondent’s approach, RCA contributions should be apportioned between countries and only 50% of the amount allocated to Canada should be withheld at source and remitted to the Receiver General for Canada. Similarly, only the Canadian portion of RCA distributions should be included in a beneficiary’s income in the year received and only the Canadian portion of the income and capital gains of an RCA should be taxed.
+[109] Such treatment could not have been what Parliament intended when it created the RCA regime. Moreover, the RCA scheme does not work in this manner because RCAs are strictly a Canadian tax mechanism and all of the funds held in an RCA are subject to tax in Canada. The RCA regime is meant to be applied solely to Canadian-source income of non-residents. A non-resident’s foreign-source income is not subject to Canadian RCA rules, as it does not fall within the jurisdiction of Canada. The Respondent’s position only treats 40% of the RCA Contributions as Canadian-source income with respect to the exclusion in subparagraph 6(1)(a)(ii) ITA, yet it treats 100% of the RCA Contributions as Canadian-source income with respect to levying tax. [46] The Court understands that an employee and the RCA are subject to separate tax treatment. However, this does not justify an approach where the words of the Act are not read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament. The Court is of the view that 100% of the RCA Contributions are Canadian-source income and the exclusion in subparagraph 6(1)(a)(ii) applies to the Appellants’ Canadian-source income.
+[110] As a result of the foregoing, the Court is not persuaded that the RCA Contributions are not included in the Appellants’ compensation during the relevant years nor that they do not enter the calculation of income for the purpose of subparagraph 115(1)(a)(i) ITA. The Appellants agreed to perform duties for the Club under their respective UPCs for an agreed upon compensation and remuneration. The Club and the Appellants later chose to defer receipt of a portion of that compensation and remuneration through the use of an RCA as offered by Article 2 UPC. As RCAs are a Canadian salary deferral vehicle, and stated as such in the UPCs and UPC Amendment, the RCA Contributions were paid as a result of duties performed by the Appellants in Canada.
+[111] Whether the RCA Contributions are included in the Appellants’ taxable income earned in Canada for the relevant taxation years is determined when applying the rules of Subdivision A Division B Part I ITA to the portion of their income earned in Canada. For now, the Appellants’ compensation under the UPCs must be allocated between the countries, with 40% to Canada and 60% to the United States so that the income from duties performed in the United States does not enter the Canada tax base. This is consistent with the source-by-source method set out in section 4 ITA and this Basic Rule applies for the purposes of the entire Act with paragraph 115(1)(a) ITA supporting that conclusion. Those amounts are shown below:
+Russell Martin
+2015
+2016
+2017
+To Mr. Martin
+USD 5,837,710
+USD 13,446,372
+USD 17,548,403
+To Mr. Martin as playoff bonuses
+USD 111,772
+USD 125,000
+N/A
+To the Martin RCA
+USD 1,162,290
+USD 1,553,628
+USD 2,451,597
+Compensation earned in Canada (40%)
+USD 2,844,709
+USD 6,050,000
+USD 8,000,000
+Total Compensation
+USD 7,111,772
+USD 15,125,000
+USD 20,000,000
+Joshua Donaldson
+2016
+2017
+To Mr. Donaldson
+USD 10,107,739
+USD 15,184,232
+To Mr. Donaldson as playoff bonuses
+USD 125,000
+N/A
+To the Donaldson RCA
+USD 1,542,261
+USD 1,815,768
+Compensation earned in Canada (40%)
+USD 4,710,000
+USD 6,800,000
+Total Compensation
+USD 11,775,000
+USD 17,000,000
+[112] Once the Appellants’ Canadian-source income is isolated, the Appellants’ income from employment can be calculated under Subdivision A Division B Part I ITA. Both parties agree that in any event the RCA Contributions are ultimately excluded from the employment income for purposes of the Act by reason of subparagraph 6(1)(a)(ii) ITA.
+[113] The Appellants’ income from employment for the relevant taxation years is therefore equal to their total compensation earned in Canada less the RCA Contributions as per the exclusion in subparagraph 6(1)(a)(ii) ITA. The Appellants’ taxable income is as follows:
+Russell Martin
+2015
+2016
+2017
+Canadian-source income
+USD 2,844,709
+USD 6,050,000
+USD 8,000,000
+Less RCA Contributions
+(USD 1,162,290)
+(USD 1,553,628)
+(USD 2,451,597)
+Taxable Income Earned in Canada
+USD 1,682,419
+USD 4,496,372
+USD 5,548,403
+Total Compensation
+USD 7,111,772
+USD 15,125,000
+USD 20,000,000
+Joshua Donaldson
+2016
+2017
+Canadian-source income
+USD 4,710,000
+USD 6,800,000
+Less RCA Contributions
+(USD 1,542,261)
+(USD 1,815,768)
+Taxable Income Earned in Canada
+USD 3,167,739
+USD 4,984,232
+Total Compensation
+USD 11,775,000
+USD 17,000,000
+[114] The Respondent argues that if this Court adopts the Appellants’ reasoning, a non-resident taxpayer could defer 100% of their employment income in certain scenarios, which could not have been within the intention of Parliament. The example provided by the Respondent comes from Technical Interpretation titled “2017-0702061E5 RCA contributions and taxable income earned in Canada”. The facts assume that a non-resident athlete playing for a Canadian team agrees to a total compensation package of $2,000,000 of which $1,200,000 is paid as salary and $800,000 is contributed by the team to the athlete’s RCA. The facts also assume that the athlete’s salary was attributable 40% to Canada and 60% to the United States. If this Court adopts the reasoning above, the athlete’s income earned in Canada would be nil.
+[115] The Court agrees with the Appellants that such an arrangement would not meet the requirements of an RCA and would instead likely constitute a salary deferral arrangement (SDA). SDAs are excluded from the RCA definition. Under an SDA, remuneration to be paid in the future is taxed currently to the employee but is deductible currently in computing the employer’s income. Taxpayers can assist in substantiating the existence of an RCA by obtaining an actuarial report to support the amount of contributions necessary to provide the employee with a reasonable pension on retirement, such as the Appellants did in this case.
+[116] The Court does not need to comment further on this administrative position. In the present case, the Respondent did not challenge the reasonability of the RCA Contributions, nor did the Respondent raise issues with the fact that the RCA Contributions would have been determined on the basis of the employment duties performed by the Appellants in Canada only and the Canadian ratio of compensation paid by the Club.
+VI. Conclusion
+[117] Based on the foregoing, the appeals made in respect of the notices of reassessment dated March 2, 2020 for the 2015, 2016 and 2017 taxation years of Mr. Russell Martin and the appeals made in respect of the notices of reassessment dated May 8, 2020 for the 2016 and 2017 taxation years of Mr. Joshua Donaldson are hereby allowed, with one set of costs payable by the Respondent to the Appellants, and the Notices of Reassessment are referred back to the Minister for reconsideration and reassessment on the following basis:
+Russell Martin
+For the purposes of the Act and considering the relief amount sought by the Appellant with respect to the dollar value adjustment claimed in Canadian dollars—using the exchange rates confirmed in the Agreed Statement of Facts filed by the parties—for each year under appeal, the taxable income of the Appellant resulting from the employment with the Club is as follows:
+2015
+2016
+2017
+Employment Taxable Income Earned in Canada
+$2,151,327
+$5,858,004
+$7,205,156
+Joshua Donaldson
+For the purposes of the Act, and considering the relief amount sought by the Appellant with respect to the dollar value adjustment claimed in Canadian dollars—using the exchange rates confirmed in the Agreed Statement of Facts filed by the parties— for each year under appeal, the taxable income of the Appellant resulting from the employment with the Club is as follows:
+2016
+2017
+Employment Taxable Income Earned in Canada
+$4,107,607
+$6,472,525
+Signed at Ottawa, Ontario, this 9th day of December 2024.
+“J.M. Gagnon”
+Gagnon J.
+Schedule A
+CITATION:
+2024 TCC 153
+COURT FILES NOs.:
+2020-1733(IT)G
+2021-521(IT)G
+STYLES OF CAUSE:
+RUSSELL MARTIN v. HIS MAJESTY THE KING
+JOSHUA DONALDSON v. HIS MAJESTY THE KING
+PLACE OF HEARING:
+Montréal, Québec
+DATE OF HEARING:
+July 12, 2023
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Jean Marc Gagnon
+DATE OF JUDGMENT:
+December 9, 2024
+APPEARANCES:
+Counsel for the Appellants:
+Marie-France Dompierre
+Marc Pietro Allard
+Counsel for the Respondent:
+Marie-Aimée Cantin
+Julien Wohlhuter
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+Marie-France Dompierre
+Firm:
+Davies Ward Phillips & Vineberg LLP Montréal, Québec
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] RSC 1985, c 1 (5thSupp) [ITA or Act].
+[2] Exhibit AR-1.
+[3] Exhibit AR-6.
+[4] Exhibit AR-3.
+[5] Exhibit AR-2.
+[6] Exhibit AR-11.
+[7] Exhibit AR-9.
+[8] The Convention between Canada and the United States of America, as amended by the protocols signed on June 14, 1983, March 28, 1984, March 17, 1995, July 29, 1997, and September 21, 2007 [Canada-United States Convention].
+[9] The Court refers to the Appellants’ written submissions.
+[10] The Respondent is of the view that the RCA Contributions were never received by the Appellants since they were paid to and received by the Martin RCA and the Donaldson RCA, and thus they were never included in employment income. In addition, subparagraph 6(1)(a)(ii) ITA specifically excludes employer RCA contributions.
+[11] Canada Trustco Mortgage Co v Canada, [2005] 2 SCR 601 [Canada Trustco], paras 10 and 11.
+[12] Placer Dome Canada Ltd. v Ontario (Minister of Finance), 2006 SCC 20 [Placer Dome] para 21.
+[13] Under the cash method of accounting, an amount is included in the computation of a taxpayer’s income only if it is received by the taxpayer and has the quality of income. See B. J. Arnold, Timing and Income Taxation: The Principles of Income Measurement for Tax Purposes, Canadian Tax Paper No 71, 1983 (Toronto: Canadian Tax Foundation, 1983), p 84. Also, Canadian courts recognize that “the notion of what receipts constitute income for purposes of taxation is central to the workings of the Act”. See Bellingham v R, (1995) [1996] 1 CTC 187 (FCA) 96 DTC 6075 at para. 24. And, the word “income” “had to be given its ordinary meaning, bearing in mind the distinction between capital and income, and the ordinary concepts and usages of mankind”. See Curran v Minister of National Revenue, [1959] CTC 416 (SCC); 59 DTC 1247.
+[14] Ibid at p 96.
+[15] Jinyan Li, Joanne E. Magee, J. Scott Wilkie, Principles of Canadian Income Tax Law, 10th Edition, 2022, Carswell, c 5.3.
+[16] This is clear from the headings, for example: Subdivision A is entitled “Income or Loss from an Office or Employment”, Subdivision B is entitled “Income or Loss from a Business or Property” and so on.
+[17] Nonis v The Queen, 2021 TCC 31 [Nonis], para 59.
+[18] The provisions contained in paragraphs 1 and 2 of Article XVI of the Canada-United States Convention do not apply to the income of an athlete in respect of his activities as an employee of a team which participates in a league with regularly scheduled games in both Contracting State; or a team described in subparagraph (a). Paragraph XVI(4) has no application under these appeals.
+[19] Blanchard v The Queen, [1995] 2 CTC 262 (FCA) [Blanchard]. Section 7 ITA is not relevant to these appeals.
+[20] McGoldrick v Canada, 2004 FCA 189 [McGoldrick].
+[21] Smith v Canada, 2019 FCA 173 [Smith].
+[22] Also, 1985 Technical Notes, section 6 ITA.
+[23] Section 153 ITA, and sections 207.5 ITA et seq.
+[24] Technical Notes, subparagraph 6(1)(a)(ii) ITA. Paragraph 56(1)(x) ITA provides, inter alia, that without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year any amount received in the year by the taxpayer out of or under a retirement compensation arrangement that can reasonably be considered to have been received in respect of an office or employment of the taxpayer.
+[25] It is interesting to note that a October 9, 1986 document entitled “Saving for Retirement” was tabled in the House of Commons and referred to in the February 26, 1986 Budget proposing new anti-avoidance rules aimed at arrangements entered into to unduly postpone the tax on salary or wages [emphasis added.], adding that similar arrangements may be used to defer the tax on retirement benefits. Employee benefit plans permit the deferral of tax on certain pension and retirement arrangements that are not registered. These plans were referred to as off-side pension plans. The document adds that off-side pension plans are utilized for the most part by persons in the higher income brackets and by employees of non-taxable entities. New rules were then proposed for RCAs that are designed to remove the tax benefits flowing from the use of off-side plans. See also Technical Notes released March 27, 1987.
+[26] See for example, Rules Relating to Tax-Deferral Strategies and RCAs, Deborah A. MacPherson, Taxation of Executive Compensation and Retirement, 1999 Taxation of Executive Compensation and Retirement, Volume 11, No. 3, Federated Press.
+[27] Paragraph 149(1)(q.1) ITA.
+[28] Subsection 207.7(2) ITA.
+[29] Paragraph 153(1)(p) ITA.
+[30] Paragraph 207.5(1) “refundable tax” (b) ITA.
+[31] Subsection 207.7(2) ITA.
+[32] Paragraphs 20(1)(r) and 8(1)(m.2) ITA.
+[33] Paragraphs 56(1)(x)-(z) ITA.
+[34] Paragraphs 153(1)(q) and (r) ITA.
+[35] Section 217 ITA.
+[36] Paragraph 212(1)(j) ITA.
+[37] Subsections 128.1(1), (4) and (10) ITA.
+[38] For the Appellants, this amount is USD 1,682,419 as a result of (USD 7,111,772 x 40%) – USD 1,162,290.
+[39] For the Appellants, this amount is USD 4,496,372 as a result of (USD 15,125,000 x 40%) – USD 1,553,628.
+[40] For the Appellants, this amount is USD 5,548,403 as a result of (USD 20,000,000 x 40%) – USD 2,451,597.
+[41] For the Appellants, this amount is USD 3,167,739 as a result of (USD 11,775,000 x 40%) – USD 1,542,261.
+[42] For the Appellants, this amount is USD 4,984,232 as a result of (USD 17,000,000 x 40%) – USD 1,815,768.
+[43] The Court refers to paragraph 46 of the Respondent’s Amended Reply.
+[44] Loeb v The Queen, [1979] 1 FC 131 (FCA) [Loeb].
+[45] Refer to the earlier discussions above regarding the Blanchard, Smith and McGoldrick decisions by the Federal Court of Appeal.
+[46] Both parties’ approach tax the RCA Contributions to the same extent with the same applicable withholdings and ultimate tax burden. Although in the Respondent’s view the RCA Contributions reduce the total amount paid by the Club before determining the employment income taxable in Canada, the result is an increase of the employment income taxable in Canada. The Respondent’s approach results in an employment income increase taxable in Canada of USD 697,374, USD 932,177 and USD 1,470,958 for Martin’s 2015, 2016 and 2017 taxation years, respectively, and USD 925,356 and USD 1,089,461 for Donaldson’s 2016 and 2017 taxation years, respectively.

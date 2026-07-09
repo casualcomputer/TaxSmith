@@ -1,0 +1,90 @@
+Title: Boucher v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27132/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-214-27132-boucher-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-05-09
+
+# Boucher v. The Queen
+
+- Citation: 2005 TCC 214
+- Decision date: 2005-05-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 935, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Boucher v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-05-09
+Neutral citation
+2005 TCC 214
+File numbers
+2004-679(IT)I
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2005TCC214
+Date: 20050509
+Docket: 2004-679(IT)I
+BETWEEN:
+DALE BOUCHER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+___________________________________________________________________
+Counsel for the Appellant: T.M. Hennessy
+Counsel for the Respondent: Michael Ezri
+___________________________________________________________________
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench at
+Sudbury, Ontario, on January 26, 2005)
+Bowie J.
+[1] Mr. Boucher appeals from his income tax reassessment for the year 2001. The issue is his claim that he is entitled to deduct a support amount in computing his income for the year. Mr. Boucher and his former spouse separated in 1985. They have one son born in May 1980. He has been in his mother's custody since the separation, and the Appellant has paid child support without fail ever since. In 1987, an order of the District Court of Ontario fixed the amount at $650 per month and it has been unchanged since. In filing his return for 2001, Mr. Boucher claimed a deduction of $7,800 under paragraph 60(b) of the Income Tax Act, and initially he was allowed that deduction, but in December 2002 he was reassessed to deny it. According to the Reply to the Notice of Appeal delivered by the Deputy Attorney General, the salient facts giving rise to the reassessment are these:
+(i) during 2001 the son was a full-time student at university;
+(ii) the son had attained the age of 21 years on May 2, 2001 and had reached the 'Age of Majority' and was no longer a minor once he became 18 years old; and
+(iii) in 2001 the Appellant paid the monthly amount of $650 … directly to the son by means of a transfer from the Appellant's bank account to a bank account in the son's name.
+I note that the issues raised by the Deputy Attorney General in the Reply do not include any issue as to the continuing obligation of Mr. Boucher to pay child support up to and including the year 2001. Notwithstanding that this was not a live issue in the appeal, there was a certain amount of evidence given that touched upon that matter.
+[2] Both Mr. Boucher and his former spouse gave evidence as to their understanding of the extent of Mr. Boucher's obligation, and also as to their understanding of their own and each others respective tax liabilities. For the most part they were in agreement as to these matters. However, little of it has any real bearing on the result given the narrow issue formulated by the Respondent's Reply. For that reason, I do not propose to dwell on that aspect of the evidence, other than to say this. The District Court Order did not provide any termination date for the support payments, but Mr. Boucher and his former spouse were both of the view that they should continue, but only until their son either completed his education or became 25 years old. He had done neither of those things before the end of the year 2001, nor had he withdrawn from his mother's custody by that time. He spent that academic year in residence at the University of New Brunswick. In 2001, he worked in the summer in Espanola, Ontario, where he stayed with his grandparents. At trial he gave his address as the address of his mother's home in Anten Mills, Ontario.
+[3] Given those facts, and notwithstanding that the issue is not squarely raised, I am inclined to the view that Mr. Boucher and his former spouse were correct to conclude that in those circumstances the obligation to make the support payments continued: see Robinson v. The Queen, [2000] T.C.J. No. 477.
+[4] The issue that is raised squarely by the Respondent in the pleading is whether the payments were made to the former spouse, and whether she had discretion as to their use. The Respondent says that they were not paid to her, and that for that reason she could not have had discretion over the use of them. The evidence satisfies me that this was not the case. Mr. Boucher made the payments for many years by means of an automatic transfer from his bank account to an account of his former spouse. The account to which he made the transfers changed from time to time. He indicated that on more than one occasion, due to technical difficulties of one kind or another at the bank, he had to re-establish the automatic transfer, and when he did he always telephoned his former spouse and obtained from her the information as to the bank account to which the payment should be directed. At some times it was to an account in her sole name, and at other times it was to a joint account in the names of her and their son. It appears that for some period of time, the payments were made to an account solely in the name of the son. However, I am satisfied that Mr. Boucher always made the payments to the bank account to which his former spouse directed him to make them. She never gave up, or purported to give up, control over the determination of the target account for the transfers, nor did Mr. Boucher ever assert the right to make that determination himself. Moreover, so far as the 12 payments in issue here are concerned, in my view the best evidence is that of their son. He testified that when he went to the University of New Brunswick he and his mother opened a joint account so that she could put money in it for his use during the school year. He testified that he was "pretty sure" that the payments in 2001, when he was in his second year at the University of New Brunswick, went into that account. I accept that evidence as being both truthful and accurate.
+[5] In my view, the payments in 2001 were required to be made by the terms of the District Court Order and they were in fact made to the former spouse of the Appellant.
+[6] The appeal is therefore allowed, with costs, and the reassessment will be referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to the deduction claimed by him under paragraph 60(b) of the Act for that year.
+Signed at Ottawa, Canada, this 9th day of May, 2005.
+Bowie J.
+CITATION:
+2005TCC214
+COURT FILE NO.:
+2004-679(IT)I
+STYLE OF CAUSE:
+Dale Boucher and Her Majesty the Queen
+PLACE OF HEARING
+Sudbury, Ontario
+DATE OF HEARING
+January 25, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice E.A. Bowie
+DATE OF JUDGMENT
+January 31, 2005
+APPEARANCES:
+Counsel for the Appellant:
+T.M. Hennessy
+Counsel for the Respondent:
+Michael Ezri
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+T.M. Hennessy
+Firm:
+Hennessy & Co.
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

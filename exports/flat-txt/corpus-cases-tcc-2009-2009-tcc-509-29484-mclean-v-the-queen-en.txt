@@ -1,0 +1,412 @@
+Title: Mclean v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29484/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-509-29484-mclean-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-10-20
+
+# Mclean v. The Queen
+
+- Citation: 2009 TCC 509
+- Decision date: 2009-10-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6302, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mclean v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-10-20
+Neutral citation
+2009 TCC 509
+File numbers
+2008-2406(IT)I
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-2406(IT)I
+BETWEEN:
+ELAINE MCLEAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard together on common evidence with the appeals of
+Ian McLean (2008-2410(IT)I)
+on September 3, 2009 at Toronto, Ontario
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Agent for the Appellant:
+Dan White
+Counsel for the Respondent:
+Hong Ky (Eric) Luu
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act (the “Act”) for the 2004 and 2005 taxation years are allowed, without costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that:
+(a) in computing the income of the partnership for 2004, a deduction of $155 for travel is allowed; and
+(b) in computing the income of the partnership for 2005, an additional deduction of $4,562 for travel is allowed.
+Signed at Ottawa, Canada, this 20th day of October, 2009.
+“Wyman W. Webb”
+Webb J.
+Docket: 2008-2410(IT)I
+BETWEEN:
+IAN MCLEAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard together on common evidence with the appeals of
+Elaine McLean (2008-2406(IT)I)
+on September 3, 2009 at Toronto, Ontario
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Agent for the Appellant:
+Dan White
+Counsel for the Respondent:
+Hong Ky (Eric) Luu
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act (the “Act”) for the 2004 and 2005 taxation years are allowed, without costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that:
+(a) in computing the income from employment for 2004, the Appellant Ian McLean is entitled to an additional deduction of $253 for parking;
+(b) in computing the income of the partnership for 2004, a deduction of $155 for travel is allowed; and
+(c) in computing the income of the partnership for 2005, an additional deduction of $4,562 for travel is allowed.
+Signed at Ottawa, Canada, this 20th day of October, 2009.
+“Wyman W. Webb”
+Webb J.
+Citation: 2009TCC509
+Date: 20091020
+Docket: 2008-2406(IT)I
+BETWEEN:
+ELAINE MCLEAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2008-2410(IT)I
+AND BETWEEN:
+IAN MCLEAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb J.
+[1] The Appellants, who are married to each other, had claimed various expenses in computing their respective employment incomes for the 2004 and 2005 taxation years. They were also carrying on business as a partnership during those years as a Mannatech Associate. They were reassessed to deny or reduce certain expenses that had been claimed by each of them in determining their income from employment and in determining the income of the partnership.
+[2] At the commencement of the hearing, the agent for the Appellant and counsel for the Respondent submitted a summary in which the parties agreed that Ian McLean would be entitled to claim an additional amount of $253 for parking in computing his employment income for 2004. The Appellants also agreed that they were no longer pursuing their claim in relation to the deductions that had been denied or reduced by the Respondent except for the following amounts, which are still in dispute in these appeals:
+Ian McLean – Employment Income 2004
+Description of Expense
+Amount Claimed
+Amount Disallowed
+Marketing Course & Materials
+$2,529
+$2,529
+Elaine Armstrong-McLean – Employment Income 2004
+Description of Expense
+Amount Claimed
+Amount Disallowed
+Marketing Course & Materials
+$2,529
+$2,529
+Partnership Income 2004
+Description of Expense
+Amount Claimed
+Amount Disallowed
+Purchases
+$8,011
+$8,011
+Travel Expenses
+$7,715
+$7,715
+Courses & Professional Development
+$1,056
+$1,016
+Partnership Income 2005
+Description of Expense
+Amount Claimed
+Amount Disallowed
+Purchases
+$15,639
+$15,639
+Travel Expenses
+$10,320
+$9,779
+Employment Expense
+[3] Each of the Appellants claimed the amount of $2,529 in computing their income from employment in 2004. This amount relates to a course identified as a Klemmer course. There are a number of problems related to the claim for a deduction for the cost of this course.
+[4] One problem is the number of times that the registration fee appears to have been claimed. It appears that the amount of $2,529 that was claimed by each of the Appellants as a deduction in computing their income from employment is also one‑half of the total of $4,355 and $703.01 that appears in the Education & Professional Development schedule that was maintained by the Appellants. The schedule indicates that these amounts were incurred March 1, 2004. The $4,355 amount was identified as “Personal Mktg course” and the description for the $703.01 amount was “Course Material”. The name of the training company for both entries was identified as “Klemmer & Associates”. However for some unexplained reason the total amount claimed as an expense in computing the income of the partnership for “Courses & professional development” was $1,056.34 of which $40 was related to Mannatech (and was allowed); leaving a balance of $1,016 that was claimed in relation to the Klemmer course in computing the income of the partnership.
+[5] However, as noted above, the full amount of $2,529 each (or $5,058 in total, which would have included the $1,016 referred to above) was also claimed by the Appellants as a deduction in computing their income from employment.
+[6] As if this was not sufficient, course fees of $2,177.50 (one-half of $4,355) and $508.17 also appear in the schedule for Travel. The dates for these are February 10, 2004 and January 15, 2004 and both are identified as Course fees for Klemmer & Assoc. The entry for one identifies San Francisco and for the other identifies Aurora. It appears that these amounts were included in the amount of $7,715 that was claimed as a deduction for travel in computing the income of the partnership for 2004.
+[7] Another problem relates to the Appellants’ purpose in taking this course. The employment income of both Appellants included commissions based on sales made or contracts negotiated. Paragraph 8(1)(f) of the Income Tax Act provides in part as follows:
+8. (1) In computing a taxpayer's income for a taxation year from an office or employment, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+…
+(f) where the taxpayer was employed in the year in connection with the selling of property or negotiating of contracts for the taxpayer's employer, …
+amounts expended by the taxpayer in the year for the purpose of earning the income from the employment (not exceeding the commissions or other similar amounts referred to in subparagraph (iii) and received by the taxpayer in the year) to the extent that such amounts were not
+(v) outlays, losses or replacements of capital or payments on account of capital, except as described in paragraph (j),…
+[8] A restriction imposed on the deductibility of the amount expended in computing income from employment is that it must have been expended for the purpose of earning income from that employment. The following exchange took place between Ian McLean and his Agent during the hearing:
+Q. The question around the Klemmer course, could you explain what that was about and what it was for?
+A. The Klemmer course was held in San Francisco, and it was about ‑‑ this particular course ‑‑ well, actually, let me say that attending Klemmer were also many multi‑level marketing people.
+Klemmer was about creating leaders. It was about creating teamwork and about achieving goals, and this fit in really well with Mannatech and growing our business, and it was ‑‑ it taught how to overcome fear of rejection, because in the business you are told "no" a lot when you approached people that weren't interested in the product.
+So it had to do with building one's confidence, how to handle negative people or rejection.
+[9] It was only in response to a leading question from his Agent that the Appellant linked the Klemmer course to his employment:
+Q. Would what [sic] course help you in your appraisal job?
+A. It would. My job really is generation of appraisal business, so there are sales involved. It certainly gave me ‑‑ it equipped me in order to bring business in, my new business development for my job.
+…
+Q. Would that course increase your standing in the appraisal industry?
+A. It would. It would show my ability to generate business, and the more business I generated, the higher profile I would have.
+Q. So what would you say the inherent value would be in this course? Like, what actually happens? You take this course and something happens, and you sell more or you do more. What happens?
+A. What happens to me in order to do that?
+Q. Yes.
+A. It gives me confidence. It gives me an ability to relate to people, to connect to people better, because that's the nature of the business and that's what their focus was.
+Q. Is there something new about you being able to relate to other people and have more confidence? Did you have, like, zero or did you –
+A. Well, no, it was the multi‑level marketing business. As I mentioned, you're having to talk to many people before you get a sale.
+Q. I get how it relates –
+A. Okay.
+Q. But in terms of your appraiser's job.
+A. I see.
+[10] On cross-examination Ian McLean stated as follows:
+Q. In essence, you describe what the Klemmer courses are, but before we go there, I would like to refer you to and to clarify the issue for the court. If you go to the third page of the notice of appeal under "marketing course and materials", from reading that paragraph, your position is that if the Klemmer course is denied as an employment expense, then your alternative position would be that it should be claimed as a business expense?
+A. Correct.
+Q. So going back to annex number 1, the second paragraph, you state:
+"The main reason for taking the Klemmer courses was to learn to how to be successful in our direct sales business, Mannatech." (As read)
+Correct?
+A. Because we were contemplating Mannatech or contemplating an MLM type of business, but really Klemmer, as a course, can be applied to my employment, as well, because it is a sales position, and the principles that I learned in Klemmer would help me in that, as well.
+So it is ‑‑ it's more than Mannatech. It's not specifically related to Mannatech.
+[11] And on redirect:
+Q. Compensation, thank you. I would like to come back to the courses that you took. There was evidence submitted that if the course didn't qualify for a business expense, then it should be considered as an employment expense. If one failed, the other one would stand in place. Is that what was testified?
+A. I believe so.
+Q. To what value would you put the Klemmer course towards your appraisal income?
+A. In terms of generating additional business, appraisal business, that would have helped me generate business for appraisals.
+Q. So would it be worth taking that course just for the appraisal business alone?
+A. No. It's broader than that. It's for, I would suggest ‑‑ I would say any particular sales related, or to help people in business, in general.
+[12] These questions and answers suggest that the rationale for taking the course in relation to his employment was developed after Ian McLean took the course and that his purpose in taking the course at the time that he took the course was not to earn income from his employment. The Appellants also introduced a letter from Ian McLean’s employer. However this letter was not written until November 17, 2007, well after Ian McLean had taken the course and after he had been reassessed. I am not satisfied that Ian McLean’s purpose in taking the Klemmer course was to earn income from his employment.
+[13] Although Elaine McLean (who testified after Ian McLean) did mention both the Mannatech business and her employment as reasons for taking the Klemmer course, I am not satisfied that her purpose in taking the course was to earn income from her employment.
+[14] There are also some concerns about whether the Appellants took the course for personal reasons (and hence not for the purpose of earning income). In the Advanced Leadership Seminar Agreement for the Klemmer course, it is stated that:
+This is a personal growth seminar. It is no way a medical model designed to fix psychological problems. It is about you attaining the success that you desire.
+[15] In this same agreement the following question is asked:
+What do you want to accomplish by participating in this workshop?
+[16] It would appear that in response to this question Ian McLean stated as follows:
+1: Break through “programs”
+2: Discover personal gifts
+3: Develop mission statement and vision to move from success to significance.
+[17] It is not clear how these goals relate to earning either income from employment or from a business.
+[18] In my opinion, the Appellants have failed to establish that they are entitled to deduct the cost of the Klemmer course in computing their income from employment.
+[19] The Appellants also take the position (and claimed a portion of the cost of the Klemmer course) in computing the income of the partnership. However according to the Travel expense schedule, the course fees were incurred on January 15, 2004 (in the amount of $508) and on February 10, 2004 (in the amount of $2,177). The Klemmer course was held in March 2004.
+[20] In Setchell v. The Queen, [2006] 2 C.T.C. 2259, 2006 DTC 2279, Justice Woods stated that:
+16 Although the Martin case is not relevant, I agree with counsel that the fees are not deductible unless Mrs. Setchell was carrying on business at the time the course was taken.
+[21] In this case, one of the assumptions made by the Respondent in the Reply was that the partnership business commenced in August 2004 and not only did the Appellants not introduce any evidence to contradict this but Ian McLean in direct examination and in cross-examination confirmed that the partnership business commenced in August 2004. Therefore the Appellants were not carrying on business when they took the Klemmer course and the cost of this course is not deductible in computing the income of the partnership.
+Partnership - Purchases
+[22] The amount claimed for purchases was for purchases of the products for consumption by the Appellants, Ian McLean’s mother, Elaine Armstrong-McLean’s mother, and the Appellants’ daughter. None of the purchases were made for the purpose of resale and therefore none of the products purchased would be part of the inventory of the business.
+[23] The Appellants advanced two arguments to support their position that the cost of the purchases should be allowed as an expense in computing the income of the partnership. The first argument was that they purchased the products so that they could tell those whom they wanted to become Mannatech Associates and who would buy a Premium/All-Star Pack that they used the products themselves. The second argument was that they would purchase product to help other individuals meet their purchase quota that they would have as a result of agreeing to buy a Premium/All-Star Pack or some other package.
+[24] The Mannatech business was described as a multi-level marketing business. The goal of the Appellants was to develop legs for their business. The legs would be comprised of people whom the Appellants (or their down line teams) had recruited as Mannatech Associates (people who committed to buy Mannatech products and who would try to recruit other Associates). The steps were described in the brochure “Your Economic Stimulus Plan – 4 Steps to Enrich Your Life” prepared by Mannatech as follows:
+Step 1 – Enroll with a Premium/All-Star Pack and set up your monthly $100 auto order
+Step 2 – Start your Power Teams A & B by enrolling 2 people like you did for yourself in Step 1
+Step 3 – Complete your Power Team by helping your first 2 team members each enroll two as in Step 1
+Step 4 – Help your first two Team Leaders complete their Power Teams by growing their teams to 6 each
+[25] The Appellants would not sell product directly but would sell Premium/All-Star Packs. When a person bought a Premium/All-Star Pack that person committed to buying $100 or more in product each month from Mannatech. In order to establish legs, the Appellants needed to find individuals who would not only purchase the Premium/All-Star Pack but who would also try to enroll others who would buy the Pack and in turn try to enroll others.
+[26] The products sold by Mannatech were described in the same brochure as follows:
+Exclusive Products
+Help friends and loved ones achieve a better quality of life in the three areas of greatest consumer concern: their health, weight and fitness, and skin.
+Mannatech’s overall category of health products was strategically developed to help nourish, balance, protect and support the body's cells with concentrated, standardized and stabilized sources of nutrients.
+Mannatech’s Weight and Fitness products are designed to help you achieve the healthy body you want. Our newest product, OsoLean powder, along with a proper diet and exercise routine, helps you lose fat, not muscle, while managing your weight.
+The Mannatech Optimal Skin Care System products are a proprietary, water-based system, designed to nourish, hydrate and promote more youthful, radiant-looking skin.
+[27] It is important to determine the purpose for the purchase of the products. The Appellants stated during their direct examinations that there was a business purpose for the purchases and did not acknowledge that there would be any personal reason for purchasing the products. The products had health benefits and the Appellants believed in the benefits that the products would provide. Elaine Armstrong-McLean, during her cross-examination, described the personal benefit that she realized from taking some of the products:
+Q. I would like to address now ‑‑ when you chose to enrol in Mannatech, did you have any health concerns?
+A. Did I have a health concern?
+Q. Yes.
+A. Yes, I did have one health concern.
+Q. What were your health concerns?
+A. I mean, everyone has health concerns. I had a health concern, sure.
+Q. What was it?
+A. It was a condition called episcleritis, and I looked at the opportunity that perhaps this product could possibly be a great ‑‑ you know, everybody wants to get better, but the fact is is that if I did get better, then my testimony would be phenomenal to build our business.
+Q. Can you describe what is that health ‑‑
+A. Episcleritis?
+Q. Yes, that's right.
+A. Episcleritis is a condition in your eye that you will ‑‑ it will become red and inflamed. It is painful sometimes, but it can come and go, and it's treated with steroids.
+I saw the value in ‑‑ I did see the value in Mannatech, but definitely the value that I could ‑‑ if it ended it, it was fabulous, that I could get up there and give my testimony.
+I could give you my testimony right now, because I don't have red eyes anymore.
+Q. You took the Mannatech product to help you cure that problem with your eye?
+A. No, because ‑‑ okay. We bought in immediately for the business. Then there is certainly a benefit of me taking the product. There is a benefit to everyone that takes the product, because everybody has some kind of ailment.
+So there is always a benefit, a personal benefit, but when we bought in, we bought in it as a business.
+Q. You also have arthritis, for which you used the Mannatech product?
+A. Yes, I had two things. I bought ‑‑ yes, I had had arthritis, but I don't know. I don't know what you ‑‑ how you want me to respond to that.
+Q. I'm just saying, like, you used the Mannatech product to help you with your arthritis, also?
+A. Well, there's that component. There's that benefit.
+[28] It does not seem to me that the personal reasons for acquiring the products can simply be ignored or considered insignificant. The products were purchased for the personal consumption of the Appellants or individuals who were close to the Appellants. Surely the Appellants cared enough about their mothers and their daughter that they would buy products for them that they believed would be beneficial for their health and well being. To treat the purchase of the products as only a business decision seems to suggest that there was no personal element in the decision to purchase the products and no personal motivation in purchasing products for Ian McLean’s mother, Elaine Armstrong-McLean’s mother and the Appellants’ daughter. Surely they cared enough about these individuals that the purchase of products for their consumption was not solely motivated by an increased bonus or commission.
+[29] Justice Iacobucci of the Supreme Court of Canada in Symes v. R., 1993 CarswellNat 1178, [1994] 1 C.T.C. 40, 94 DTC 6001, 161 N.R. 243, [1993] 4 S.C.R. 695, 19 C.R.R. (2d) 1, 110 D.L.R. (4th) 470 made the following comments on business expenses versus personal expenses in relation to paragraphs 18(1)(a) and 18(1)(h) of the Act:
+52 Even without distinguishing Bowers, supra, in this fashion, however, I believe that I should move beyond paragraph 18(1)(h) of the Act and the traditional classification of child care in the analysis of whether child care expenses are truly personal in nature. The relationship between expenses and income in Bowers, supra, was subsumed in that case, as it was in cases to follow, within an apparent dichotomy. As stated by Professor Arnold, "The Deduction for Child Care Expenses", supra, at page 27:
+The test established by the case for distinguishing between personal and living expenses involved a determination of the origin of the expenses. If the expenses arose out of personal circumstances rather than business circumstances the expense was a non-deductible personal expense
+There are obvious tautologies within this approach. "Personal expenses" are said to arise from "personal circumstances", and "business expenses" are said to arise from "business circumstances". But, how is one to locate a particular expense within the business/personal dichotomy?
+And further:
+76 It may also be relevant to consider whether a particular expense would have been incurred if the taxpayer was not engaged in the pursuit of business income. Professor Brooks comments upon this consideration in the following terms (at page 258)
+If a person would have incurred a particular expense even if he or she had not been working, there is a strong inference that the expense has a personal purpose. For example, it is necessary in order to earn income from a business that a business person be fed, clothed and sheltered. However, since these are expenses that a person would incur even if not working, it can be assumed they are incurred for a personal purpose -- to stay alive, covered, and out of the rain. These expenses do not increase significantly when one undertakes to earn income.
+77 I recognize that in discussing food, clothing and shelter, I am adverting to a "but for" test opposite to the one discussed earlier. Here, the test suggests that "but for the gaining or producing of income, these expenses would still need to be incurred". I must acknowledge that because it is a "but for" test, it can be manipulated. One can argue, for example, that "but for work, the taxpayer would not still require expensive dress clothes". However, in most cases, the manipulation can be easily rejected. Continuing with the same example, one can conclude that the expense of clothing does "not increase significantly" (Brooks, supra, at page 258) in tax terms when one upgrades a wardrobe. Alternatively, one can focus upon the change in clothing as a personal choice. Or, finally, considering that all psychic satisfactions represent a form of consumption within the ideal of a comprehensive tax base, one can focus upon the increased personal satisfaction associated with possessing a fine wardrobe.
+...
+79 Since I have commented upon the underlying concept of the "business need" above, it may also be helpful to discuss the factors relevant to expense classification in need-based terms. In particular, it may be helpful to resort to a "but for" test applied not to the expense but to the need which the expense meets. Would the need exist apart from the business? If a need exists even in the absence of business activity, and irrespective of whether the need was or might have been satisfied by an expenditure to a third party or by the opportunity cost of personal labour, then an expense to meet the need would traditionally be viewed as a personal expense. Expenses which can be identified in this way are expenses which are incurred by a taxpayer in order to relieve the taxpayer from personal duties and to make the taxpayer available to the business. Traditionally, expenses that simply make the taxpayer available to the business are not considered business expenses since the taxpayer is expected to be available to the business as a quid pro quo for business income received. This translates into the fundamental distinction often drawn between the earning or source of income on the one hand, and the receipt or use of income on the other hand.
+[30] It seems to me that the need (whatever health related issue was to be addressed by taking the products) existed separate and apart from the business. As noted by Elaine Armstrong-McLean “everyone has health concerns” and “there is a benefit to everyone that takes the product, because everybody has some kind of ailment”. The Appellants were purchasing the products for consumption by themselves and by their mothers and their daughter. Whatever need or health concern any of these individuals had in relation to the products that were to be consumed existed separate and apart from the business.
+[31] It also seems to me that the Appellants cannot convert the personal expenditure made in making the purchases of products into a business expense based on the argument that they needed to use the products that they were trying to convince others to buy. In my opinion this argument, in the words of Justice Iacobucci, is a “manipulation [that] can be easily rejected”. If the Appellants are right, then any person who owns a specialty food store could argue that the cost of food purchased through the store but consumed by his or her family is a deductible expense because they are eating what they sell and therefore could promote the business by making this statement. If the Appellants are right, any person who owns a car dealership could justify the total cost of a car as a business expenditure (regardless of how the car is being used) as the person would take the position that to convince customers to buy the particular brand of automobile, he or she had to drive one himself or herself. It does not seem to me that this is the correct result and I do not accept the Appellants argument that the purchases were made for business purposes and not personal purposes so that the Appellants could personally endorse the products by telling others that they were taking the products.
+[32] The products were purchased for the personal consumption of the Appellants, their mothers and their daughter and the cost was a personal expenditure and not a business expense.
+[33] The Appellants had indicated that some purchases were made to provide products to potential customers on a trial basis. However, the Appellants did not provide any details or any estimate of how many purchases would have been made for this purpose or for whom these purchases were made. The Appellants indicated that the potential customers were family and friends and this would also raise the issue of whether they were purchasing product because the other person was a family member or friend that the Appellants wanted to help with a particular health issue or whether it was strictly business.
+[34] As a result no amount will be allowed as a deduction in computing the income of the partnership for the purchases made in 2004 or 2005.
+Partnership - Travel
+[35] The amount claimed for travel in 2004 included the course fees and travel related to the Klemmer course. As noted above, the partnership business did not commence until August 2004 and since the Klemmer course was held in March 2004 in San Francisco, these expenditures were incurred before the business commenced and hence are not deductible in computing the income from the business carried on by the partnership.
+[36] There was also an amount identified as course fees – Aurora for Klemmer & Associates. This amount was incurred on January 15, 2004 which was also before the business commenced.
+[37] The balance of the amount claimed for travel in 2004 related to a trip to Kananaskis to attend Ian McLean’s nephew’s wedding and to visit / meet with friends in Calgary. In LeCaine v. The Queen, 2009 TCC 382, I had stated that a person’s decision to attend a funeral would be a personal decision and I did not allow any portion of the cost of attending a funeral as a business expense. A wedding is different and the occasion may better lend itself to conducting business. However, I do not accept the proposition that the only reason that the Appellants attended Ian McLean’s nephew’s wedding in Kananaskis was for the purpose of earning income. Surely the Appellants also had a personal reason to attend the wedding and to see the other family members and friends who would be gathered there. I do not accept that the family and friends of the Appellants ceased to be family and friends and became only potential Mannatech Associates.
+[38] In my opinion the main purpose in attending the wedding was personal and the insistence of the Appellants that the only purpose in travelling to Kananaskis was for the purpose of earning income discounts any personal feelings that the Appellants may have for Ian McLean’s nephew, the other members of his family, and their friends who would be at the wedding or in Calgary to such an extent that it affects the Appellants’ credibility. The Appellants seemed to be convinced that if they cloaked any trip with a few business meetings that they could convert the total cost of any trip that would otherwise be a personal expenditure into a business expense.
+[39] However, as noted above, it seems to me that a portion of the travel costs could be considered to be for the purpose of earning income. While it may not have made the Appellants the most popular people at the wedding reception, it seems to me that they would have used that opportunity to try to convince family and friends to become Mannatech Associates or purchase one of the packages of products. They would also have had such discussions with the friends with whom they were visiting in Calgary. The business purpose would however be incidental to the personal portion and I would allow only 10% of the following amounts as a deduction in computing the income of the partnership in relation to the trip to Calgary and Kananaskis in 2004:
+Item
+Amount
+Meals (50% of $131.08) [1]
+$65.54
+Parking
+$73.56
+Car Rental
+$46.29
+Accommodation
+$194.00
+Airfare
+$1,141.06
+Car Fuel
+$27.34
+Total:
+$1,547.79
+[40] The above amounts do not include the $3.51 identified as “Arts & Letters” as it is not clear whether this was the amount paid for the card for the wedding nor does it include the amount of $40.55 (a “Wine March.” [sic]) which is identified in the Travel schedule as a “gift”[2]. Therefore the amount that will be allowed in computing the income of the partnership in 2004 for travel will be $155.
+[41] For 2005, the total amount that was claimed as a travel expense in computing the income of the partnership was $10,320.45. An amount of $541.58 was allowed by the Canada Revenue Agency (“CRA”) as a deduction in computing the income of the partnership which left a balance of $9,778.87 as the amount in dispute. A schedule showing the various amounts that were included in the total amount of $10,320.45 was introduced as an Exhibit by the Respondent but the Respondent failed to identify in the Reply (or otherwise) which items comprised the travel amount that was allowed of $541.58. Therefore it is impossible to determine which travel items in the schedule are included in the amount of $9,778.87 that is in dispute.
+[42] Justice Rothstein of the Federal Court of Appeal (as he then was) stated in The Queen v. Anchor Pointe Energy Ltd., 2003 DTC 5512 that:
+[23] The pleading of assumptions gives the Crown the powerful tool of shifting the onus to the taxpayer to demolish the Minister's assumptions. The facts pleaded as assumptions must be precise and accurate so that the taxpayer knows exactly the case it has to meet.
+[43] Simply stating that $9,778.87 of the total amount of $10,320.45 is being denied does not help the Appellants or me in identifying which components of the travel claim have been denied. There are several items included in the total amount of $10,320.45 and it is impossible to determine which ones are the items that are still in dispute. As a result if any of the items that are allowed herein are also included in the $541.58 that was allowed by the CRA, then such duplication would arise as a result of the failure of the Respondent to identify which items have been allowed (or denied) and such amounts will be allowed as a deduction notwithstanding that such amounts may have already been included in the $541.58 amount that was allowed.
+[44] Included in the amount claimed for travel was the cost of a weekend stay at the Millcroft Inn and Spa. The only people who attended this weekend “business meeting” were the Appellants. This claim illustrates the thinking of the Appellants discussed above that any trip cloaked with a “business meeting” can become a business expense even though such a trip would otherwise be a personal expenditure. It does not seem to me that spouses who are carrying on business as a partnership can convert personal expenditures into business expenses simply by discussing business matters. If the Appellants are correct, then the cost of breakfast (or any other meal that they eat together) could become a business expense simply by discussing business matters during the meal. This does seem to me to be the correct result. It seems to me that the cost of a weekend trip during which the Appellants only met with themselves is a personal expenditure and not a business expense. I do not accept that the Appellants no longer do anything for personal reasons. No amount will be allowed as a deduction in computing the income of the partnership in relation to the weekend getaway at Millcroft Inn and Spa.
+[45] The Appellants also travelled to three Mannatech events – the annual convention held in Dallas in March 2005, a Proevity seminar held in Niagara Falls in April 2005 and a Power of Purpose Seminar held in Ingersoll in June 2005. The cost of attending the annual convention would be deductible pursuant to subsection 20(10) of the Income Tax Act[3]. Although counsel for the Respondent had raised in argument the issue of whether both Appellants had attended the convention since only Elaine Armstrong-McLean had discussed the convention during her testimony, I find on a balance of probabilities that both attended the convention. It seems clear that both Appellants were involved and active in the partnership and therefore more likely than not that both attended the convention.
+[46] With respect to the seminars, it seems to me that the Appellants attended these seminars for the purpose of earning income from the Mannatech business and that the amounts spent would not be on account of capital. Justice Woods in Setchell, supra, noted that:
+22 The general principle is that training costs will be deductible as a current expense if they are incurred to maintain, update or upgrade an already existing skill or qualification.
+[47] The seminars (which appear to be one day seminars) were held to teach the individuals about new products and how to conduct their business and hence would be more akin to upgrading or maintaining an existing skill than in acquiring a new skill. Therefore the costs of these seminars are deductible in determining the income of the partnership for 2005.
+[48] However, the amounts are not easily determined as the Travel schedule prepared by the Appellants has the items related to the convention and the seminars interspersed with other items that are not related to these events. It would appear, however, that the following relate to the convention in Dallas:
+Item
+Amount Allowed
+Car fuel
+$25.54
+Meals (50% of $657.45) [4]
+$328.72
+Car Rental
+$272.56
+Parking
+$111.55
+Accommodations
+$736.02
+Airfare
+$2,216.54
+Total:
+$3,690.93
+[49] Included in the amount above are the costs related to the four days following the convention when the Appellants were meeting with Lorraine and Bill LeBlanc in San Antonio and trying to enlist others in the business. I am satisfied, on the balance of probabilities, that the extra time spent in Texas was for the purpose of earning income. There was no evidence of any other activities that the Appellants did while they were there. The above amounts do not include the amounts that were identified on the schedule by the CRA auditor as duplicate amounts as no explanation was provided by the Appellants to explain why these were not duplicated. The above amounts do not include the items identified as purchases, posters or marketing material as no explanation was provided by the Appellants in relation to these items.
+[50] It would appear that the following expenditures relate to the Proevity seminar:
+Item
+Amount Allowed
+Meals (50% of $113.36) [5]
+$56.68
+Accommodations
+$125.36
+Total:
+$182.04
+[51] The above amounts do not include the amounts that were identified by the CRA auditor on the schedule as duplicate amounts as no explanation was provided by the Appellants to explain why these were not duplicated. The above amounts do not include the items identified as purchases as no explanation was provided by the Appellants in relation to this.
+[52] The only amount identified in relation to the Power of Purpose seminar was $226.38. This amount was identified in the schedule as meals and accommodation. However, since the cost of meals would be subject to section 67.1 of the Income Tax Act, it is necessary to separate the cost of meals from the cost of accommodation. Since this was not done by the Appellants, it will be assumed that one-half of the amount was for meals and the balance for accommodation. As a result the following will be allowed in relation to this seminar:
+Item
+Amount Allowed
+Meals (50% of $113.19) [6]
+$56.60
+Accommodations
+$113.19
+Total:
+$169.79
+[53] Another trip that the Appellants claimed that they made for the purpose of earning income was a weekend trip to Niagara-on-the-Lake where they met Harold and Alison Wilson who were friends of the Appellants and who had been friends for years. The difficulty in this case is distinguishing between personal expenditures and business expenditures when the people with whom the Appellants are trying to do business are family and friends. It seems to me that the Appellants should be entitled to a deduction for travel to the extent that the travel was made for the purpose of earning income but not to the extent that the travel was made for the purpose of meeting old friends. It seems to me that since the Appellants travelled to Niagara-on-the-Lake to meet with individuals who had been (and still are) their friends, that the business portion should be incidental to the personal portion. I will allow 25% of the cost of the trip to Niagara-on-the-Lake as a deduction in computing the income of the partnership.
+[54] As a result the following will be allowed in relation to the trip to Niagara-on-the-Lake:
+Item
+Amount Incurred
+Amount Allowed (25%)
+Meals [7]
+$178.15
+$22.27
+Accommodations
+$188.90
+$47.22
+Total:
+$69.49
+[55] The last trip that was addressed was a trip to Florida to meet with Deborah Baron who was their “immediate up line”. She was the person who recruited the Appellants into the business. She was a friend of Elaine Armstrong-McLean and Deborah Baron and her two children stayed with the Appellants for a year. Again the difficulty is mixing friends and business and trying to determine what portion of the expenditure was made for the purpose of earning income. I do not accept that the Appellants should be entitled to deduct 100% of the cost of travelling to meet their friends as a business expense on the premise that they are doing business with their friends. As noted above, it seems to me the business portion should be incidental to the personal portion. I will allow 25% of the cost of the trip to Florida as a deduction in computing the income of the partnership.
+[56] It would appear that the following amounts are related to this trip and the following amounts will be allowed:
+Item
+Amount Incurred
+Amount Allowed (25%)
+Meals[8]
+$190.77
+$23.85
+Car Rental
+$299.71
+$74.93
+Parking
+$68.95
+$17.24
+Airfare
+$1,335.98
+$334.00
+Total:
+$450.02
+[57] There was also a reference to “reading material” in relation to the trip to Florida. No explanation was provided for this and therefore no amount is allowed for this item.
+[58] The Appellants also claimed an amount in relation to passport photos. However this amount was incurred in November 2005 which was after the various trips referred to above and it is not clear whether this was related to a personal trip or a business trip that the Appellants were planning to take. No amount will be allowed in relation to the passport photos.
+[59] As a result the following amounts will be allowed as a deduction in computing the income of the partnership for 2005 for travel in addition to the $541.58 that has been allowed by the CRA:
+Item
+Amount Allowed
+Mannatech Convention in Dallas
+$3,690.93
+Mannatech Proevity Seminar
+$182.04
+Mannatech Power of Purpose Seminar
+$169.79
+Trip to Niagara-on-the-Lake
+$69.49
+Trip to Florida
+$450.02
+$4,562.27
+Partnership – Courses and Professional Development
+[60] The amount claimed relates to the Klemmer course in 2004 which was dealt with above. No amount is allowed as a deduction in computing the income of the partnership in relation to the Klemmer course.
+Conclusion
+[61] As a result, the appeals are allowed, without costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that:
+(a) in computing the income from employment for Ian McLean for 2004 he is entitled to an additional deduction of $253 for parking;
+(b) in computing the income of the partnership for 2004, a deduction of $155 for travel is allowed; and
+(c) in computing the income of the partnership for 2005, an additional deduction of $4,562 for travel is allowed.
+Signed at Ottawa, Canada, this 20th day of October, 2009.
+“Wyman W. Webb”
+Webb J.
+CITATION: 2009TCC509
+COURT FILE NOS.: 2008-2406(IT)I, 2008-2410(IT)I
+STYLE OF CAUSE: ELAINE MCLEAN AND M.N.R.
+AND BETWEEN IAN MCLEAN
+AND M.N.R.
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: September 3, 2009
+REASONS FOR JUDGEMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: October 20, 2009
+APPEARANCES:
+Agent for the Appellant:
+Dan White
+Counsel for the Respondent:
+Hong Ky (Eric) Luu
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The amount deemed to be paid for meals is 50% of the amount actually paid pursuant to section 67.1 of the Income Tax Act.
+[2] During the hearing the Agent for the Appellants submitted a document that he identified as an extract from the Travel schedule that included only the items related to the trip to Kananaskis. However in the “extract” the description for this amount was changed to “meal”. In the Travel schedule it is described as a “gift”. Also “March.” was changed to “Merch.”.
+[3] There was no suggestion that the location of the convention did not satisfy the requirements of this subsection.
+[4] Supra, footnote 1.
+[5] Supra, footnote 1.
+[6] Supra, footnote 1.
+[7] Since, pursuant to section 67.1 of the Income Tax Act, the amount deemed to be paid for meals is 50% of the amount actually paid, the amount that will be allowed for meals will be ($178.15 x .5) x .25 = $22.27.
+[8] Since, pursuant to section 67.1 of the Income Tax Act, the amount deemed to be paid for meals is 50% of the amount actually paid, the amount that will be allowed for meals will be ($190.77 x .5) x .25 = $23.85.

@@ -1,0 +1,137 @@
+Title: Glover v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/111115/index.do
+Corpus path: corpus/cases/tcc/2015/2015-tcc-199-111115-glover-v-the-queen-en.md
+Document type: case_law
+Last modified: 2015-08-06
+
+# Glover v. The Queen
+
+- Citation: 2015 TCC 199
+- Decision date: 2015-08-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2624, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Glover v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-08-06
+Neutral citation
+2015 TCC 199
+File numbers
+2011-931(IT)I
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-931(IT)I
+BETWEEN:
+JAMES GLOVER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on May 19 and 20, 2015, at Vancouver, British Columbia
+Before: The Honourable Justice Diane Campbell
+Appearances:
+Agent for the Appellant:
+Raymond F. Wiseman
+Counsel for the Respondent:
+Michael Taylor
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2003 taxation year is dismissed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Summerside, Prince Edward Island, this 6th day of August 2015.
+“Diane Campbell”
+Campbell J.
+Citation: 2015 TCC 199
+Date: 20150806
+Docket: 2011-931(IT)I
+BETWEEN:
+JAMES GLOVER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Campbell J.
+Introduction [1] The Appellant did not attend the hearing of his appeal. His agent, Raymond Wiseman, who was responsible for recommending the tax donation arrangement to Mr. Glover, provided testimony on his behalf. Mr. Wiseman provided the Appellant’s affidavit to the Court authorizing his agent to present evidence on his behalf. Due to Mr. Glover’s age and health, I permitted the appeal to proceed in this manner.
+[2] The Appellant claimed a charitable donation tax credit in the 2003 taxation year pursuant to subsection 118.1(3) of the Income Tax Act (the “Act”). The tax credit related to the Appellant’s participation in a gifting arrangement which involved the donation of software licenses to a registered Canadian charity, Canadian Single Adult Ministry Inc. (“CSAM”). Donors applied to become capital beneficiaries of a trust and if accepted, the trust distributed software to those beneficiaries who could donate them to a registered charity. Pursuant to the CSAM Plan, the Appellant donated $29,952 in cash and applied for 64 software licenses that had a purported retail value of $1,499 per license. Forty‑eight donors, including the Appellant, were required to pay $468 per license, allegedly to discharge a lien on the software. Each donor received a receipt for the cash payment and a receipt for the fair market value of the license less the lien amount.
+[3] In written submissions received subsequent to the hearing, the Appellant abandoned the issue relating to the in-kind donation of the software licenses and advanced an argument relating only to the Appellant’s cash payment of $29,952. Consequently, the within reasons will not address whether the trust was properly constituted, whether the software existed or had value or whether the receipts relating to the software were deficient.
+The Issue [4] The issue in this appeal is whether the Appellant is entitled to the non‑refundable tax credits in respect to the cash payment and more specifically:
+(a) whether the gifting arrangement that the Appellant participated in was a properly registered tax shelter; and
+(b) whether the Appellant’s cash payment was a valid gift.
+The Evidence [5] The Appellant’s agent, Raymond Wiseman, testified in respect to the donor’s application process, his communications with promotors and the due diligence he performed in reviewing the various documentation and overall process. He obtained legal and valuation opinions concerning the gifting arrangement and introduced them in evidence (Exhibits A-8 to A-10) to support his due diligence argument as the Appellant’s agent. However, the tax shelter legislative provisions contained in the Act make no reference to a due diligence defence or to an evaluation of the reasonableness of the gifting arrangement.
+[6] The facts in this appeal are substantially the same as those contained in the decision of Bandi v The Queen, 2013 TCC 230, 2013 DTC 1192. However, the taxpayer in that case had donated to the Aurora Foundation (“Aurora”) rather than CSAM. Mr. Wiseman acknowledged that Aurora was the original registered charity. In 2003, its directors established a tax shelter gifting arrangement known as the Charitable Technology Trust Gifting Program (the “Gifting Plan”). Wolf Ventures marketed and sold this plan to the public. Individuals who wished to participate in the Gifting Plan had to apply to become capital beneficiaries of this trust before they could purchase software licenses in a computer software program known as eComdata Office Suite Pro, owned by Multisolve Networks Corporation (“Multisolve”). Each license had a retail value of $1,499 but Multisolve agreed to sell each one to the settlor of the trust for a bulk wholesale price of $468 and to assume a vendor take-back charge in respect to each license in that same amount. Upon receipt of the licenses, the donors made cash donations of $468 per license to Aurora in order to discharge the lien as well as a donation of the licenses themselves. In return, Aurora issued a receipt for the cash donation which discharged the lien and a receipt for the net value of the license, that is, its full retail value of $1,499 less the lien amount of $468. Aurora paid Multisolve to discharge the lien and the licenses were to be used for charitable purposes.
+[7] On September 19, 2003, the Canada Revenue Agency (“CRA”) issued the Gifting Plan a tax shelter identification number. All donations made through the Gifting Plan were directed to Aurora which issued the tax receipts. On December 15, 2003, Aurora withdrew its participation in the Gifting Plan. Wolf Ventures attempted to locate another charity to replace Aurora and continued to market the plan to the public. Between December 15 and 31, 2003, Wolf Ventures contacted CSAM to participate in the gifting arrangement as its registered charity. A new trustee was appointed and the CSAM Plan was marketed to the public.
+[8] The Appellant applied for 64 licenses under the CSAM Plan and donated cash of $29,952 plus the licenses, which had a purported net value of $65,984. The Respondent agreed that the Appellant did pay the cash amount to CSAM (Assumption of Fact, paragraph 11(uu) contained in the Reply to the Notice of Appeal).
+[9] The CSAM Plan was marketed and sold, after Aurora withdrew from the gifting arrangement, utilizing the same tax shelter identification number that was originally assigned to the arrangement in which Aurora had participated as the registered Canadian charity.
+[10] Mr. Wiseman testified that he had been notified that Aurora had stopped accepting applications but that a sister charity, CSAM, would accept applications from donors in respect to the same software donation program. He believed, from his review of the relevant materials, that the only difference from the original promotional materials was the change of charities from Aurora to CSAM (Transcript, Volume 1, page 42). Mr. Wiseman recommended to the Appellant that he make a cash donation on the understanding that he might not be approved as a capital beneficiary of the trust and might not receive the software.
+[11] Paul Stepto, CRA Audit Team Leader, outlined the donation scheme program. His testimony was largely hearsay and much of it unnecessary because the Appellant abandoned the issue respecting the in-kind donation.
+Appellant’s Position [12] The change in the named charities from Aurora to CSAM was the only fundamental difference from the Gifting Plan that was originally submitted to CRA. The Appellant contends, that when CRA issues a tax shelter identification number, there is no requirement under the Act for taxpayers to advise CRA of changes to the arrangement. The cash and software transactions can be separated and therefore the cash donation should be viewed as a gift given for a community service, education and to benefit the poor. The in‑kind donation of software was a separate transaction relating to the Appellant’s participation in the trust.
+Respondent’s Position [13] Since the arrangement is not a registered tax shelter as required pursuant to section 237.1 of the Act, a taxpayer may not deduct any amount in respect to it. The original plan had been assigned a tax identification number but the CSAM Plan was simply an undisclosed modification of the original arrangement and therefore remained an unregistered tax shelter. The CSAM Plan differed in so many aspects from the original plan that it was a fundamentally different plan.
+[14] The Respondent also argued that the Appellant did not make a valid gift because it is not appropriate to separate the transaction into separate components. The scheme was fully integrated and therefore the cash payment was made in order for the Appellant to participate in the entire scheme and to enable him to profit by receiving enhanced federal and provincial tax credits.
+Analysis [15] After a review of all of the evidence, I conclude that the Appellant is not entitled to claim a charitable donation tax credit in respect to the cash payment because the Appellant did not make a valid gift, as required by the definition of “total charitable gifts” contained in subsection 118.1(1) of the Act. Although the term “gift” is not defined in the Act, its meaning has been established in caselaw. The Federal Court of Appeal in The Queen v Friedberg, 92 DTC 6031, at page 6032, described a gift as:
+… a voluntary transfer of property owned by a donor to a donee, in return for which no benefit or consideration flows to the donor (see Heald J. in The Queen v. Zandstra [74 DTC 6416] [1974] 2 F.C. 254, at p. 261.) The tax advantage which is received from gifts is not normally considered a 'benefit' within this definition, for to do so would render the charitable donations deductions unavailable to many donors.
+[16] Justice Bowie in Webb v The Queen, 2004 TCC 619, at paragraph 16, stated that a donor’s intent in making a charitable donation must be entirely donative:
+[16] Much has been written on the subject of charitable donations over the years. The law, however, is in my view quite clear. I am bound by the decision of the Federal Court of Appeal in The Queen v. Friedberg, among others. These cases make it clear that in order for an amount to be a gift to charity, the amount must be paid without benefit or consideration flowing back to the donor, either directly or indirectly, or anticipation of that. The intent of the donor must, in other words, be entirely donative.
+(Emphasis added)
+[17] Justice Woods in Maréchaux v The Queen, 2009 TCC 587, 2009 DTC 1379, discussed the idea of separating a transaction into its component parts at paragraphs 48 and 49:
+[48] In some circumstances, it may be appropriate to separate a transaction into two parts, such that there is in part a gift, and in part something else.
+[49] On the particular facts of this appeal, it is not appropriate to separate the transaction in this manner. There is just one interconnected arrangement here, and no part of it can be considered a gift that the appellant gave in expectation of no return. In this regard, I found assistance from the following decision referred to by counsel for the respondent: Hudson Bay Mining and Smelting Co. v. The Queen, 89 DTC 5515 (FCA).
+[18] Justice Hogan’s conclusions, at paragraphs 15 to 19 in Bandi regarding the gift of cash in that appeal, are equally applicable to the facts before me:
+[15] The marketing material presented to the appellant shows that the Charitable Technology Gifting Program was promoted on the basis that the appellant would acquire software licences having a fair market value in excess of the amount of the appellant’s alleged cash donation. The material also indicates that the appellant could keep the software for his own use or, as expected, he could gift it to the Foundation in return for promised enhanced tax credits. The tax credits were shown to exceed the appellant’s alleged cash donation so that he was expected to earn a positive after-tax cash benefit. While the appellant did not reap that benefit because of the promoter’s failure to properly implement the Program, I conclude that the appellant’s expectation in that regard is sufficient to nullify his alleged donative intent.
+[16] The appellant insists that his cash donation should be considered separately from the alleged gift of the software licences. I disagree. In Maréchaux v. The Queen,[3] the Federal Court of Appeal agreed that it is inappropriate to separate transactions forming part of an integral arrangement into their cash and non-cash parts.
+[17] Considering the evidence as a whole, I find that the appellant would not have paid the cash to the Foundation without the understanding that he would receive software licences from the Trust which he could then gift to the Foundation for an enhanced tax credit. The marketing material relied on by the appellant makes it clear that his cash donation was earmarked for the discharge of the liens on the software, a step that was required in order for him to transfer his software to the Foundation.
+[18] In summary, the evidence shows that the appellant’s goal was not to enrich himself. Rather, he intended to profit by participating in the Program through the acquisition of software that could be gifted to a charity for an enhanced tax benefit.
+[19] The appellant’s expectations in this regard nullified his donative intent. His alleged cash gift cannot be considered in isolation from the overall plan, which the evidence shows was not properly implemented.
+[19] While the Appellant’s agent submitted that the decision in Bandi was not applicable (Appellant’s Written Argument, paragraphs 40 to 52), his arguments were circular. For example, at paragraph 42, he argued that the marketing materials that were before Hogan J. in Bandi, were substantially different from the promotional materials in the present appeal. Yet, at paragraph 51, he concedes that the same brochure materials were relied upon.
+[20] The Federal Court of Appeal in Kossow v The Queen, 2013 FCA 283, 2014 DTC 5017, at paragraph 29, concluded that cases similar in nature should receive the same treatment:
+… In my view, the relevant facts of this case are so similar to the facts of Maréchaux that the judge did not err in law in reaching the same conclusion. Where cases are similar in nature, it is fundamental to the idea of justice that they receive the same treatment.
+[21] Based on the evidence in this appeal, the Appellant relied on a gifting arrangement that was marketed to participants on the basis that software licenses, worth substantially more than the cash payment, would be distributed. As a result of participating in the arrangement, the Appellant received federal and provincial tax credits that exceeded the cash donation by at least 23 percent. The expectation in making this cash donation, which was earmarked to discharge the software liens, was based on the promise of an acquisition of software licenses that could be then gifted to the registered charity resulting in the receipt of an enhanced after-tax credit. The cash donation was required in order for the Appellant to be accepted as a capital beneficiary in the program. The Appellant intended to enrich himself by making use of inflated charitable donation receipts in respect to the software and consequently to profit from the inflated tax credit claims. The Appellant’s intent was not entirely donative in nature because he anticipated a benefit or consideration to flow to him as a result of his participation in this gifting arrangement.
+[22] In cross-examination, the Appellant’s agent was questioned respecting the Appellant’s donative intent. Mr. Wiseman’s responses support my conclusions respecting the Appellant’s intent. At page 60 of the transcript, Mr. Wiseman confirmed that both he and the Appellant understood that a cash donation had to be made to CSAM in order to become entitled under the capital beneficiary application to receipt of the software.
+A His intent and my intent was to make the donation of the cash to the charity and become entitled to being a capital beneficiary, and receiving additional tax benefit related to whatever would be received as a capital beneficiary under the trust.
+(Transcript, Volume 1, page 60, lines 23 to 27)
+[23] Although the Appellant’s agent argued that the intent was to make a cash donation to the registered charity “… and hope to be entitled to software that would also have charitable donation value.” (Transcript, Volume 1, page 62, lines 4 to 5), the testimony presented in this regard is dubious and contained many inconsistencies.
+[24] Mr. Wiseman also insisted that the entire transaction could be separated and that the cash donation could be considered apart from the alleged gift of software licenses. In Maréchaux v The Queen, 2010 FCA 287, 2010 DTC 5174, the Federal Court of Appeal concluded that it is inappropriate to separate transactions that form part of an integrated arrangement into their cash and non-cash components. Based on the evidence before me, the Appellant would not have paid the cash amount without the assurance that he would receive software licenses which could then be gifted for an enhanced tax benefit. In fact, parts of Mr. Wiseman’s testimony in cross-examination support my conclusion:
+A Well, I would certainly agree that he made the payment… So, his intent was -- his interest in the situation was to have these two components…
+He's not isolating just the cash component from the software component. He definitely wants to make the cash donation, and hoped to be entitled to receiving the software so that he could donate that as well….
+(Transcript, Volume 1, page 61, lines 14 to 25)
+Although the Appellant’s agent argued that the cash donation was intended to impoverish the Appellant in a material manner, he also admitted that the possibility of being accepted to the program was a “portion of the reason for the cash donation.” (Appellant`s Written Argument, paragraph 90).
+[25] As a result, the Appellant did not have the requisite donative intent for the purposes of section 118.1 of the Act. The Appellant’s intent was to enrich himself by applying to become a capital beneficiary of the trust with the objective of obtaining and using inflated charitable gift receipts in order to profit from inflated tax credits. Based on the facts before me, the cash component cannot be separated from the software transaction as they are part of one interconnected arrangement where the Appellant’s agent admitted that the cash donation was required in order to apply to the program. The onus or burden of proof is on the Appellant to rebut the assumptions of fact contained in the Reply to the Notice of Appeal. These assumptions are presumed to be factually correct unless the Appellant is able to bring evidence that would support a conclusion that the critical assumptions of fact are not correct. The Appellant has not been successful in presenting a prima facie case that would convince me that the Minister of National Revenue’s (the “Minister”) assumptions of fact are incorrect or cannot be supported. On this basis I am dismissing the appeal because the cash payment is not a valid gift.
+[26] Because the parties spent some time addressing the modifications to the original registered plan and the unregistered tax shelter issue, I will comment briefly although I have disposed of the appeal on an entirely different basis. Section 237.1 outlines a detailed regime respecting tax shelters as well as the associated tax credits. The Respondent argued that on a plain reading of the section “each separate arrangement will be a distinct tax shelter.” (Respondent’s Written Argument, paragraph 27). The CSAM Plan did not obtain its own identification number. The Minister assumed that the CSAM Plan differed substantially from the Aurora gifting arrangement contained in the original application for a tax shelter identification number in more than a dozen ways ranging from the identity and residence of both the vendor of the software and the settlor of the trust to the nature and value of the property acquired and donated, the identity of the trustee, the financing arrangements and the destination charity (Assumptions of Fact, paragraph 11(ddd) of the Reply to the Notice of Appeal). The Appellant’s evidence was unsuccessful in demolishing those assumptions. Therefore, the issue is whether the modifications to the original registered tax shelter can invalidate all associated tax credits. Hogan J. in Bandi did not accept the Respondent’s argument in this regard but the Respondent noted that the original charity, Aurora, was actually used in that case enabling the Minister to continue to track taxpayers’ donations. The shift in charities from Aurora to CSAM should have alerted the Appellant to a potential problem with the tax shelter registration. The Respondent argued that an identification number assigned by CRA attaches to a particular arrangement and cannot be used for other arrangements (Respondent’s Written Argument, paragraph 31). I agree with the Respondent’s view. However, this may not mean that minor changes concerning an arrangement would require a completely new and different tax identification number. So what constitutes a material change? Hogan J. in Bandi noted that there is no dynamic reporting system in which a taxpayer can verify with CRA whether changes have been reported. Section 237.1 does not address this issue. However, one interpretation may be that modifications to an arrangement should be dealt with under subsection 237.1(7.4) penalty provision. From the Minister’s perspective, it may be false or misleading to implement an arrangement different than that which has been disclosed to the CRA. If a penalty is issued pursuant to subsection 237.1(7.4), all credits could be denied under subsection 237.1(6.1). Unless subsection 237.1(6.1) is triggered in relation to the modified plan, when an identification number exists, the original number is sufficient to satisfy provision 237.1(6). There was no evidence presented to me in respect to an alternative reading of this section. On the other hand, the change in registered charities from Aurora to CSAM, together with the Appellant’s knowledge of that change, is likely sufficient to deny credits related to the CSAM arrangement on the basis that it was an unregistered tax shelter. The Respondent points out that while taxpayers who participate in tax shelters qualify for significant benefits, the registration system permits the Minister to track and audit tax shelters and verify the benefits claimed. Permitting promotors to tinker with the original registered arrangement and in particular permitting promotors to use an identification number for an arrangement where the Minister has issued that number to a separate program, defeats the purpose of the registration system and impedes the Minister’s ability to track, audit and verify such arrangements. This explains in part Parliament’s intent when enacting those provisions.
+Signed at Summerside, Prince Edward Island, this 6th day of August 2015.
+“Diane Campbell”
+Campbell J.
+CITATION:
+2015 TCC 199
+COURT FILE NO.:
+2011-931(IT)I
+STYLE OF CAUSE:
+JAMES GLOVER AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+May 19 and 20, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Diane Campbell
+DATE OF JUDGMENT:
+August 6, 2015
+APPEARANCES:
+Agent for the Appellant:
+Raymond F. Wiseman
+Counsel for the Respondent:
+Michael Taylor
+COUNSEL OF RECORD:
+For the Appellant: n/a
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

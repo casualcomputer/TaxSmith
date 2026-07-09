@@ -1,0 +1,153 @@
+---
+title: "Trudeau Cloutier v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26914/index.do"
+last_modified: "2003-05-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 299"
+citation2: ""
+neutral_citation: "2003 TCC 299"
+decision_date: "2003-05-06"
+language: "en"
+item_id: "26914"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 720
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:12:22.489000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9ef8789fb6abf55dbb643231c35462c04a12d85cefbe3405bf04eaf7231ad569"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Trudeau Cloutier v. The Queen
+
+- Citation: 2003 TCC 299
+- Decision date: 2003-05-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 720, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Trudeau Cloutier v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-05-06
+Neutral citation
+2003 TCC 299
+File numbers
+2002-2448(IT)I
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-2448(IT)I
+BETWEEN:
+ANNETTE TRUDEAU CLOUTIER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on February 3, 2003, at Sherbrooke, Quebec
+Before: The Honourable Judge François Angers
+Appearances:
+Counsel for the Appellant:
+Yves Cloutier
+Counsel for the Respondent:
+Marie-Aimée Cantin
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 1998 taxation year is allowed, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 6th day of May 2003.
+"François Angers"
+J.T.C.C.
+Translation certified true
+on this 9th day of July 2004.
+Sophie Debbané, Revisor
+Citation: 2003TCC299
+Date: 20030506
+Docket: 2002-2448(IT)I
+BETWEEN:
+ANNETTE TRUDEAU CLOUTIER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers, J.T.C.C.
+[1] In a Notice of Assessment dated July 30, 2001, the Minister of National Revenue ("the Minister") disallowed a series of rental expenses in the amount of $17,625, out of total rental expenses in the amount of $31,059, claimed by the appellant for her 1998 taxation year. The appellant has therefore appealed from the portion of the rental expenses that the Minister disallowed and from the computation made by the Minister of the percentage of the building that she occupied for her personal use. As well, the Minister disallowed all the capital cost allowance amounts claimed by the appellant on the ground that the costs of purchasing and expanding her buildings were not real or had not really been incurred.
+[2] The appellant owns three neighbouring houses that, for the purposes of her income tax return, were divided into two groups. The houses contain a number of rental housing units, one of which the appellant occupied as her personal residence. According to the appellant's income tax return, the first group of houses make up one building with three municipal addresses: 181, 183 and 185, rue Child. This building contains five housing units: one with four and one-half rooms; two with two and one-half rooms each; and two with one and one-half rooms each. This building is shown as building No. 3 on Exhibit A-3. The second group is made up of two houses: one with five and one-half rooms, which the appellant occupies entirely; and the other containing four rental housing units, with two and one-half rooms each. According to the appellant's income tax return, the municipal addresses of these buildings are 18 and 20, rue Chartier; they are shown as building No. 1 and building No. 2 on Exhibit A-3.
+[3] The expenses disallowed by the Minister were as follows:
+Building No. 3,
+rue Child
+Building No. 1 and Building No. 2,
+rue Chartier
+Insurance
+$225.65
+$356.08
+Interest
+5,710.00
+5,937.00
+Maintenance and repairs
+1,665.00
+5,122.00
+Property taxes
+1,109.91
+600.35
+Utilities
+$421.61
+$79.10
+[4] As well, the percentage of the building that the appellant occupied for her personal use was revised upward by the Minister from 33.33 per cent to 47 per cent. The expenses allowed for building No. 1 and building No. 2 were $8,045.47 and revising upward the percentage occupied for personal use reduced the amount of expenses allowed accordingly. Lastly, the capital cost allowance amounts claimed were disallowed by the Minister given the inadequacy of the evidence concerning the capital cost of the buildings.
+[5] The appellant called as a witness Maurice Bernier, her tax advisor. Mr. Bernier has prepared the appellant's income tax returns since 1991. He dealt with each of the disallowed expenses. The appellant also testified, but her testimony dealt mainly with the initial cost of each of her buildings; I shall revisit her testimony in discussing the issue of the capital cost allowance.
+[6] Ms. F. Tardif is an auditor for the Canada Customs and Revenue Agency. She adduced in evidence as Exhibit I-6 her audit report, which explains why each expense was disallowed, the computation of the percentage of the building that the appellant occupied for her personal use and, following the audit, the disallowance of the capital cost allowance amounts claimed by the appellant.
+Insurance
+[7] On her income tax return, the appellant claimed insurance expenses of $678 for building No. 3 (rue Child) and of $997 for building No. 1 and building No. 2 (rue Chartier) for a total of $1,675. At the hearing, Mr. Bernier adduced an invoice for $1,234. The invoice indicates "various insurance" and a handwritten note indicates "$400--furniture". According to Mr. Bernier, the amount of $400 was for insurance on furniture since the appellant rented out furnished housing units; no invoice for that amount was adduced.
+[8] According to Ms. Tardif, the insurance broker confirmed the invoice in the amount of $1,234, except that the appellant was given a credit of $81. The insurance broker also provided a breakdown of the amount of the invoice, showing the insurance cost on the building on rue Child as $415 and that on the buildings on rue Chartier as $544 and $44. The invoice also included $150 as the cost of insurance on the appellant's own cottage. To the amounts from the breakdown of the insurance invoice, Ms. Tardif added tax at a rate of 9 per cent, resulting in revised amounts of $452.35 for building No. 3 (rue Child) and $640.92 for building No. 1 and building No. 2 (rue Chartier). In my opinion, the Minister was justified in disallowing the amounts of $225.65 and $565.08. The appellant has not adduced the evidence required for me to be able to allow the expense she claimed.
+Interest
+[9] For the taxation year at issue, the appellant claimed interest expenses of $5,710 for building No. 3 (rue Child) and of $5,710 and $5,937 for building No. 1 and building No. 2 (rue Chartier). Ms. Tardif examined Exhibit A-1 during her audit. Exhibit A-1 is made up of three receipts for interest charges paid. The first receipt has to do with a mortgage on the building on rue Chartier; the interest paid was $4,449.77. The second receipt has to do with a mortgage on the property on rue Child; the interest paid was $2,728.35. The third receipt is a letter confirming that the appellant paid interest in the amount of $1,495 in 1998; the letter refers to loan No. 1131105563 with no further explanation. On the document is a handwritten note indicating "interest paid on overdrafts" and an additional amount of $1,487. The total of these four amounts does not correspond to the total of the two amounts claimed on the income tax return. The amounts claimed do not even correspond to the invoices.
+[10] Mr. Bernier testified that the two mortgages were on income-producing properties and that the overdrafts were used to pay for repairs and renovations to the houses. He stated that the buildings were old houses requiring a great many repairs and that the appellant invested in the buildings. The appellant stated that in 1973 she borrowed money in order to have building No. 1 constructed and building No. 2, the building she occupied, repaired. She adduced no evidence confirming those costs. She testified that in 1986 she purchased building No. 3 for $36,000 and borrowed $36,700, which is established by Exhibit A-7. Exhibit A-7 also notes an additional mortgage in the amount of $7,340. The mortgage holder is the Canadian Imperial Bank of Commerce (the CIBC). However, the evidence adduced does not allow us to make a connection between Exhibit A-7 and Exhibit A-1, the receipts for interest paid. Is the same mortgage involved? Exhibit A-1 indicates that 11 years remain until the final payment of the mortgage on the building on rue Child but does not indicate the capital cost allowance period. Between 1986 and 1998, 12 years elapsed, which suggests a 23-year capital cost allowance period for this loan. It is difficult to conclude that the same loan is involved.
+[11] Twelve years and four months remain until the final payment of the mortgage on the building on rue Chartier. I have been given no explanation of the reasons for this loan except that it was used to pay for repairs. The appellant testified that she paid $3,000 to $4,000 per year in repairs, not that she borrowed money to pay for the repairs; if she actually borrowed money, which loan is involved?
+[12] I am prepared to allow the interest paid on the mortgage on the building on rue Child since the mortgage appears to correspond to the loan required to purchase that building. The interest paid in the amount of $2,728.35 for building No. 3 (rue Child) is therefore allowed. Concerning the other amounts of interest claimed, the appellant has not established on a balance of probabilities that the interest was paid on loans used to maintain the buildings. Exhibit I-6 refers to repayment of personal lines of credit. What were those personal lines of credit used for? If that expense is to be deducted, it must be explained; in this case, the evidence is clearly inadequate. In fact, it is clear that the evidence adduced does not correspond to the amounts claimed on the income tax return. The Minister was therefore justified in disallowing the other interest expenses.
+Maintenance and repairs
+[13] The appellant adduced no evidence in support of the amounts of this expense that would allow me to determine whether the amounts disallowed by the Minister should have been allowed. In her testimony, Ms. Tardif explained her review of the vouchers and receipts she was given at the time of the audit. A number of these receipts were obviously for personal expenses, such as automobile repairs. There are no details on the other vouchers that would make it possible to determine anything whatsoever. Nor did the appellant adduce any evidence or vouchers that might establish that she did incur the expenses she claimed. I am sure that she did incur some expenses that would be eligible, but when the receipts used involve personal expenses and when an attempt is made to pass off personal expenses as eligible expenses, it must be understood that the Court cannot place much weight on such testimony. The Minister was therefore justified in disallowing the amounts at issue, that is, $1,665 for building No. 3 (rue Child) and $5,122 for building No. 1 and building No. 2 (rue Chartier).
+Property taxes
+[14] For this expense, the appellant claimed $1,893 for building No. 3 (rue Child) and $1,792 for building No. 1 and building No. 2 (rue Chartier) for the 1998 taxation year. The appellant adduced no evidence in this regard. Ms. Tardif allowed the amounts of $783.09 and $1,191.65, that is, the amounts indicated on the vouchers the appellant submitted to Ms. Tardif during the audit. Since the other amounts claimed were not established by the appellant at the hearing, the Minister was justified in disallowing the amounts of $1,109.91 and $600.35 for the buildings.
+Utilities
+[15] The appellant acknowledged that the Minister was justified in disallowing the amounts of this expense. The Minister was therefore justified in disallowing the expense in the amount of $421.61 for building No. 1 and building No. 2 (rue Chartier).
+Personal use
+[16] Since 1973, the appellant has always occupied 33.33 per cent of building No. 1 and building No. 2 for her personal use. In the appellant's previous taxation years, that percentage was challenged by the Minister but no changes were made. In this case, confusion appears to have arisen during a telephone conversation between auditor Ms. Tardif and Mr. Bernier. During that conversation, Mr. Bernier apparently mentioned that the housing unit occupied by the appellant had nine rooms. Ms. Tardif then used the proportion of the number of rooms in the appellant's housing unit to the total number of rooms in the rental housing units contained in building No. 1 and building No. 2 (rue Chartier), a proportion of 9/19, in determining that the appellant occupied 47 per cent of the building for her personal use. According to the evidence adduced at the hearing, the appellant's housing unit had five and one-half rooms out of a total of fifteen and one-half rooms in the buildings concerned. I accept that this figure corresponds to the proportion of the number of rooms actually occupied by the appellant for her personal use to the total number of rooms in these buildings. The appellant adduced a sketch of the buildings corroborating the number of rooms. I therefore accept that the appellant's housing unit has only five and one-half rooms and that the appellant occupied approximately 33.33 per cent for her personal use. Personal use must therefore be computed on the basis of this proportion.
+Capital cost allowance
+[17] All the capital cost allowance amounts claimed were disallowed by the Minister on the ground that the documents submitted did not justify the undepreciated portion of the initial capital cost. The appellant claimed the capital cost allowance after the Minister disallowed the expenses referred to above. The appellant and Mr. Bernier, her tax advisor, testified on this point.
+[18] Mr. Bernier testified that building No. 3 (rue Child), shown on Exhibit A-3, was purchased for $44,000. The only evidence in support of that statement was the mortgage dated May 13, 1986, adduced in evidence as Exhibit A-7. The deed of purchase and sale itself was not adduced. The mortgage is in two parts; the amount of the loan is $44,040, which according to Mr. Bernier was the purchase price. The appellant stated that she purchased this building for $36,000. I accept the appellant's testimony on this issue; I conclude that the purchase price of building No. 3 (rue Child) was $36,000 and that this amount may be used for the purposes of the capital cost allowance. However, I have no evidence of capital expenses concerning this building since it was purchased. The expenses incurred appear to be income expenses.
+[19] According to Exhibit A-6, building No. 2 (rue Chartier), shown on Exhibit A-3, the building the appellant occupies, was purchased on July 29, 1971. The consideration indicated is $8,250. In 1973, the appellant had building No. 1, shown on Exhibit A-3, constructed. The testimony of the appellant and Mr. Bernier, her witness, was contradictory. According to the appellant, having building No. 1 constructed and having certain repairs made to the building she occupies cost her $118,000. She relied on Exhibit A-5. According to Exhibit A-5, the appellant apparently borrowed $20,000 and invested $10,000 of her own money. A subsequent amount of $88,000 covers a variety of expenses for the three buildings over the years. This amount is therefore attributable, not to the cost of construction in 1973, but rather to expenses in subsequent years. Even if the cost of construction was in fact $118,000, the appellant was unable to explain the source of the funds used to pay for the construction since she borrowed only $20,000 and contributed $10,000 cash.
+[20] Mr. Bernier estimated that the cost of construction was between $76,000 and $80,000, possibly more. The June 28, 1973, construction permit issued by the town of Coaticook indicates a cost of $6,000. According to Mr. Bernier and a representative of the town, that figure was erroneous since at the time it was in the interest of individuals to indicate small amounts on applications for permits. The representative of the town therefore altered the document, indicating $76,000 as the likely cost of construction. I attach no value to that testimony. Another document is an application for a permit to alter and repair the building located at 18, rue Chartier, the building the appellant occupies. The work to be done is described as the addition of a second storey; the estimated cost is $12,000.
+[21] In computing the capital cost allowance amounts submitted to the Minister, the appellant valued building No. 1 and building No. 2 (rue Chartier) at $90,250 and building No. 3 (rue Child) at $104,500. The evidence adduced does not correspond to these figures at all. As a result it is very difficult to reconcile all these figures. Nevertheless, I accept that in 1973 the appellant borrowed $20,000 and invested $10,000 of her own money for the construction and the addition of a second storey to the building located at 18, rue Chartier.
+[22] If the initial purchase price of the building located at 18, rue Chartier is added to these figures, I establish the initial value for the purposes of the capital cost allowance of building No. 1 and building No. 2 (rue Chartier) at $36,600. Neither for this building nor for the other building do I have any evidence that capital expenses were incurred after purchase or construction.
+[23] The appeal is therefore allowed, and the assessment is referred back to the Minister for reconsideration and reassessment in accordance with these Reasons for Judgment.
+Signed at Ottawa, Canada, this 6th day of May 2003.
+"François Angers"
+J.T.C.C.
+Translation certified true
+on this 9th day of July 2004.
+Sophie Debbané, Revisor

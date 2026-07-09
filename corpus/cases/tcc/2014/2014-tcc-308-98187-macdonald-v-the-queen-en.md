@@ -1,0 +1,200 @@
+---
+title: "MacDonald v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/98187/index.do"
+last_modified: "2014-10-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 308"
+citation2: ""
+neutral_citation: "2014 TCC 308"
+decision_date: "2014-10-20"
+language: "en"
+item_id: "98187"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5215
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:31:21.074000+00:00"
+cases_cited_count: 2
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d661e6bcbe666791012389d8ba0db7e08d06e7376e0933f14b66418883eef67d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# MacDonald v. The Queen
+
+- Citation: 2014 TCC 308
+- Decision date: 2014-10-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5215, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+MacDonald v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-10-20
+Neutral citation
+2014 TCC 308
+File numbers
+2013-2568(IT)I
+Judges and Taxing Officers
+Eugene P. Rossiter
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-2568(IT)I
+2013-2569(GST)I
+BETWEEN:
+CHRISTOPHER RODERICK MACDONALD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on January 22, 2014 and April 23, 2014
+at Moncton, New Brunswick
+Before: The Honourable Eugene P. Rossiter, Associate Chief Justice
+Appearances:
+Counsel for the Appellant:
+Enrico A. Scichilone
+Counsel for the Respondent:
+Tokumbo C. Omisade
+JUDGMENT
+The appeals from the assessment made under the Income Tax Act, notice of which is dated May 23, 2012 and bears assessment number 1806423, and the assessment made under the Excise Tax Act, notice of which is dated May 23, 2012 and bears assessment number 1803477 are allowed, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 20th day of October 2014.
+“E.P. Rossiter”
+Rossiter A.C.J.
+Citation: 2014 TCC 308
+Date: 20141020
+Dockets: 2013-2568(IT)I
+2013-2569(GST)I
+BETWEEN:
+CHRISTOPHER RODERICK MACDONALD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Rossiter A.C.J.
+Background [1] On May 23, 2012, the Minister of National Revenue (“Minister”) assessed the Appellant an amount on account of payroll deductions payable by the Great Canadian Pub Inc. ("GCPI") pursuant to subsection 227.1(1) of the Income Tax Act. On that same date, the Appellant was issued a second Notice of Assessment enjoining him to pay the amount of $18,713.77 in respect of the GCPI’s failure to remit taxes as required under section 228(2) of the Excise Tax Act. Penalties and interest were added to both.
+[2] The Appellant filed Notices of Objection for each assessment on July 6, 2012 and the Minister issued Notices of Confirmation on April 12, 2013. The parties subsequently filed Notices of Appeal and Replies and the issues were joined.
+[3] The GCPI operated a bar in Moncton, New Brunswick, from October 2007 to December 2009. Prior to opening, a presentation was given by Timothy Marney (“Marney”), the GCPI’s incorporator, during the summer of 2007 to a group of potential investors, which included the Appellant, at a meeting in Moncton, New Brunswick. On November 7, 2007, the Appellant became a shareholder of the GCPI having purchased one hundred (100) Class “B” Common shares of the company for a sum of $10,000. This share purchase was completed by the GCPI’s legal counsel. At the time, the Appellant did not know Marney or any other member of the GCPI’s management personnel.
+[4] Marney and his common-law wife, Geneviève Richard ("Richard"), managed the GCPI from the outset. Richard was the GCPI’s bookkeeper and looked after the staffing of the business. Holding other full-time employment at the time, the Appellant was not involved with the business operations, nor was he employed by the GCPI at any point. In fact, initially there was nothing required in terms of business involvement other than his $10,000 investment.
+[5] Shortly after the business opened, the Appellant became an authorized signatory at the company’s bank, which gave him the authority to sign cheques. In his mind, he was only given such authority because at the time two persons were needed to sign cheques. He did not have any involvement in the day-to-day operations of the business, nor did he regularly conduct administrative functions. His only interaction with the corporate accountants came when he signed documents for the filing of income tax returns in the spring of 2008.
+[6] Shortly after the business opened, the Appellant, along with Marney and Richard, was also asked by some of the GCPI shareholders to guarantee a business loan to help keep the company afloat. He was told that if he did not assist in guaranteeing the loan, all ten shareholders would lose their investment, including him. Faced with this alarming scenario, he agreed to comply with their request.
+[7] In December 2007, the Appellant applied for a small business loan from the Bank of Nova Scotia, whose personnel he had gotten to know through his employment. A loan in the amount of approximately $225,000 was subsequently approved and co-signed by the Appellant and Richard. According to bank documents, Richard was listed as President of the GCPI, Marney, and the Appellant as a director of the corporation. At the time of the signing of the loan, the Appellant had no knowledge that the names of the two initial directors of the GCPI, Marney and John Bastarache, were struck from the Directors’ Registry and that Richard’s name was added in their place. Up to and including the date of the loan, the Appellant was not asked to sign any other organizational or business documents on behalf of the GCPI.
+[8] The Appellant never attended any directors’ meetings. Nor were there any shareholders’ meetings held for the appointment of directors or for any other purpose.
+[9] Notwithstanding the foregoing, the Appellant was identified as a director of the GCPI on various company-related documents, some of which the Appellant signed, over an extended period of time. These documents included a variety of banking certificates, Annual Returns and Notices of Directors under the relevant Business Corporations Act, the New Brunswick Corporate Affairs Registry Database, and various Canada Revenue Agency (“CRA”) forms or documents. The Appellant never filed any of these documents with the appropriate authorities himself. When signed, he claims that he simply provided his signature when documents were presented to him by GCPI lawyers or accountants, the bank, or the CRA, as the case may be.
+[10] The Appellant signed company-related documents as either Secretary-Treasurer, “Owner” or at times as director. He maintains, however, that he never intended to be involved in the business as a director or officer of the company. He was simply making a $10,000 investment and any acts he may have performed were taken with a view of protecting that investment. He claims he never really understood the difference between directors, officers or shareholders or their respective responsibilities and he had no control or influence on the direction of the corporation.
+[11] With respect to financial information, Marney did not provide any such information on the GCPI to company shareholders, including the Appellant, through 2008. Other shareholders would ask the Appellant about financial information as they were all basically in the dark. However, as a shareholder, the Appellant claims he was no different that any other in that he was not receiving appropriate information. His full-time employment and limited intervention in the internal affairs of the corporation also precluded him from fully addressing the other shareholders’ concerns. Although he signed cheques in blank, he asserts that as an authorized signatory he did so as a matter of convenience, about once a week when he passed by the pub for a beer after work.
+[12] In September 2009 the Appellant was informed by Marney that Richard was declaring personal bankruptcy and that she would be forced to liquidate her shares. The Appellant was instructed by the GCPI's lawyer to sign a document for the acquisition of Richard's shares, which he did in the presence of the corporation’s lawyer. On about September 20, 2009, the Appellant purchased Richard's shares for $1.00. His understanding of the agreement was that he would have no involvement in the operations of the GCPI, nor would he be involved with any decision-making, just as before. Both Marney and Richard remained working at the pub until or about October 15, 2009, at which point they both resigned and were no longer involved with the business.
+[13] When the Appellant purchased additional shares in the GCPI, his lawyer provided representation, but the issue of due diligence was never broached. The only document he reviewed was the minute book. At that time, he had no knowledge that the company had not remitted the appropriate GST or source deductions to the CRA. He asserts that he never learned of the magnitude of the debt problem of the company until January 2010, after the business ceased operations.
+[14] On September 30, 2009, the Appellant learned that Marney could not purchase any supplies for the GCPI because the company’s bank account was frozen following the issuance of a Requirement to Pay by the Minister to the Bank of Nova Scotia in respect of unremitted GST. The Appellant was troubled, as he had co-signed the business loan and was a co-signer for business cheques. He knew that if he did not act quickly, the business would close.
+[15] In order to unfreeze the account, he was told by a CRA official that he would need to sign a disclaimer letter. The contents of this letter were not reviewed with him by any CRA official and notwithstanding what the document states, the Appellant never sought legal advice prior to signing the letter. The circumstances at the time were such that he was the sole common shareholder of the GCPI and needed the bank accounts released. He signed the document in haste as an owner and shareholder, not as a director, and faxed it back to the CRA. The bank accounts were subsequently released and the business could continue to operate. The Appellant asserts this was the first time he became aware of any debts by GCPI to the CRA. At the time the Appellant took over Richard’s shares, the corporate debt situation was never disclosed to him or any of the other shareholders.
+[16] After signing the CRA disclaimer letter and the departure of Marney and Richard, the Appellant attempted to find investors to take over the business for the paltry sum of $1.00. He had a full-time job working twelve hours a day and couldn’t run the business because he didn’t have the requisite know-how. The Appellant was eventually introduced to two persons who were interested in running the business, Shelley Richard and Angela Niles. When they arrived at the pub to take over operations, they asked how to operate the lights and the alarm and asked to see the paperwork for the business. The Appellant was so uninvolved in the business he could not even show them where the paperwork was, how to turn on the lights or where the alarm was located.
+[17] On December 31, 2009 the Appellant received a telephone call from Shelley Richard advising that New Brunswick Hydro had turned off the power and that the business was closed. The Appellant proceeded to call the bank and advised them that the business was closed. He asked that the assets be secured for the bank and CRA.
+[18] The Appellant never realized he was personally liable for the CRA debt until after the business was closed. In January 2010, following the business closure, the Appellant became aware that someone was holding him out as a director of the GCPI and that corporate records had been given to the CRA to that effect. At its request, the CRA later received the corporate minute book from the Appellant.
+[19] After the business closed, Marney tried to resume operations as a lounge under the banner of “Great Canadian Pub” or “Great Canadian Pub Lounge” a few blocks away from the original location. This was eventually unsuccessful and closed.
+Issues: 1. Was the Appellant a de jure or de facto director of the GCPI as of January 1, 2009 and therefore liable under subsection 227.1(1) of the Income Tax Act and subsection 323(1) of the Excise Tax Act? 2. If so, can the Appellant rely on the due diligence defense provided for under subsection 227.1(3) and subsection 323(3) of the Income Tax Act and Excise Tax Act, respectively? 3. What are the applicable limitation periods and were the respective assessments time-barred? Position of the Appellant: [20] The Appellant takes the position that he was neither a de jure director nor a de facto director of the GCPI as of January 1, 2009. If this Court finds that he was indeed a director, he submits in the alternative that he exercised reasonable care such that subsection 227.1(3) of the Income Tax Act and subsection 323(3) of the Excise Tax Act are engaged. Further, the Appellant asserts that notwithstanding the foregoing, each of his respective assessments was issued outside the applicable two-year limitation period and is therefore invalid.
+Position of the Respondent: [21] Contrary to the Appellant, the Respondent asserts that the Appellant was in fact a de jure director or a de facto director, and therefore liable under subsection 227.1(1) of the Income Tax Act and subsection 323(1) of the Excise Tax Act. Further, the Respondent asserts that the Appellant did not conduct himself diligently in the circumstances. The Respondent therefore contends that subsection 227.1(3) of the Income Tax Act and subsection 323(3) of the Excise Tax Act are not engaged. Finally, the Respondent takes the position that the assessments were issued within the two-year limitation period.
+Applicable Statutory Provisions: [22] Under the Income Tax Act, a director may be held personally liable for a corporation’s failure to deduct or remit amounts required by law pursuant to subsection 227.1(1), which provides as follows:
+227.1 (1) Where a corporation has failed to deduct or withhold an amount as required by subsection 135(3) or 135.1(7) or section 153 or 215, has failed to remit such an amount or has failed to pay an amount of tax for a taxation year as required under Part VII or VIII, the directors of the corporation at the time the corporation was required to deduct, withhold, remit or pay the amount are jointly and severally, or solitarily, liable, together with the corporation, to pay that amount and any interest or penalties relating to it.
+[23] The limitations with respect to this liability are found in subsection 227.1(2):
+227.1 (2) A director is not liable under subsection 227.1(1), unless
+(a) a certificate for the amount of the corporation’s liability referred to in that subsection has been registered in the Federal Court under section 223 and execution for that amount has been returned unsatisfied in whole or in part;
+(b) the corporation has commenced liquidation or dissolution proceedings or has been dissolved and a claim for the amount of the corporation’s liability referred to in that subsection has been proved within six months after the earlier of the date of commencement of the proceedings and the date of dissolution; or
+(c) the corporation has made an assignment or a bankruptcy order has been made against it under the Bankruptcy and Insolvency Act and a claim for the amount of the corporation’s liability referred to in that subsection has been proved within six months after the date of the assignment or bankruptcy order.
+[24] Where subsection 227.1(1) of the Income Tax Act is found to apply, a due diligence defence may be mounted by the director under subsection 227.1(3):
+227.1 (3) A director is not liable for a failure under subsection 227.1(1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+[25] The assessing power of the Minister is generally subject to a two-year limitation period, as referred to in subsection 227.1(4):
+227.1 (4) No action or proceedings to recover any amount payable by a director of a corporation under subsection 227.1(1) shall be commenced more than two years after the director last ceased to be a director of that corporation.
+[26] Under the Excise Tax Act, the corresponding directors’ liability provision is subsection 323(1):
+323. (1) If a corporation fails to remit an amount of net tax as required under subsection 228(2) or (2.3) or to pay an amount as required under section 230.1 that was paid to, or was applied to the liability of, the corporation as a net tax refund, the directors of the corporation at the time the corporation was required to remit or pay, as the case may be, the amount are jointly and severally, or solitarily, liable, together with the corporation, to pay the amount and any interest on, or penalties relating to, the amount.
+[27] The limitations with respect to that liability are expressed in subsection 323(2) as follows:
+323. (2) A director of a corporation is not liable under subsection (1) unless
+(a) a certificate for the amount of the corporation’s liability referred to in that subsection has been registered in the Federal Court under section 316 and execution for that amount has been returned unsatisfied in whole or in part;
+(b) the corporation has commenced liquidation or dissolution proceedings or has been dissolved and a claim for the amount of the corporation’s liability referred to in subsection (1) has been proved within six months after the earlier of the date of commencement of the proceedings and the date of dissolution; or
+(c) the corporation has made an assignment or a bankruptcy order has been made against it under the Bankruptcy and Insolvency Act and a claim for the amount of the corporation’s liability referred to in subsection (1) has been proved within six months after the date of the assignment or bankruptcy order.
+[28] Similarly to the Income Tax Act, a director may invoke a due diligence defence where his liability is engaged under subsection 323(1):
+323. (3) A director of a corporation is not liable for a failure under subsection (1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+[29] Finally, a two-year limitation period is applicable pursuant to subsection 323(5):
+323. (5) An assessment under subsection (4) of any amount payable by a person who is a director of a corporation shall not be made more than two years after the person last ceased to be a director of the corporation.
+Analysis:
+[30] In Mosier v. R., [2001] G.S.T.C. 124, ACJ Bowman, as he then was, states that for the purposes of directors’ liability under the Income Tax Act and Excise Tax Act, a director may be a de jure director or de facto director. A de jure director is an individual who has been appointed as such pursuant to the corporate law of the jurisdiction in which the body corporate was created or continued, as the case may be. But a de facto director, as ACJ Bowman notes, can exist in two forms: (i) one who is ostensibly duly elected but who may lack some qualification under the relevant corporate law, or (ii) one who simply assumes the role of director without any pretence of legal qualification.
+De Jure Director [31] As noted herein, an individual becomes and ceases to become a de jure director according to the corporate law of the jurisdiction in which the corporation was created or continued. In this particular appeal, the applicable jurisdiction is New Brunswick, and the applicable statute is the Business Corporations Act of that province. Subsection 63(3) of that Act reads as follows:
+63. (3) A person who is elected or appointed a director is not a director unless
+(a) he was present at the meeting when he was elected or appointed and did not refuse to act as a director, or
+(b) if he was not present at the meeting when he was elected or appointed,
+(i) he consented to act as a director in writing before his election or appointment or within ten days thereafter, or
+(ii) he has acted as a director pursuant to the election or appointment.
+[32] Moreover, section 74 of the Act provides as such:
+74. An act of a director or officer is valid notwithstanding an irregularity in his election or appointment or a defect in his qualification.
+[33] The public registry of directors could lead to a presumption that one is a director but this presumption may be overcome provided there is evidence the person never consented to be a director.
+[34] The Tax Court of Canada has previously held that a person who was never made aware that they were a director, and did not consent to be a director, is not a de jure director. Justice Bowman, as he then was, in Lau v. R., [2003] G.S.T.C. 1, found that one of the two taxpayers in the appeal was not a director because she failed to sign the consent to act as a director and a form that listed the taxpayer as a director was signed by a third party in error. She never consented to act as a director, was never elected director by the sole voting shareholder and, never held herself out as a director.
+[35] In Hay v. Canada, 2004 TCC 51, the Minister argued that Mr. Hay was a de jure director. However, Mr. Hay claimed he was never a director because he never agreed to act in that capacity. Apparently Mr. Hay was named as a provisional director by virtue of a form provided with the articles of incorporation despite never having authorized the incorporator to designate him as such and was only made aware of this designation three of four years later. In Hay, Mr. Justice Archambault recognized that in the common law a director must consent either explicitly or implicitly in order to be considered a director. He held that because Mr. Hay's designation as a provisional director was made by the incorporator without his consent, the designation was not valid and he therefore could not be considered a de jure director.
+[36] The evidence in this appeal discloses that there was no director's meeting, of any nature or kind whatsoever, by which directors were appointed. There were no dossiers signed by the Appellant consenting to do any business as a director. In fact, the Appellant did not even know he was a director even though he signed some documents to that effect. According to his own evidence, he was just signing documents, some of which required two signatures, when asked. The Appellant specifically acknowledged he was one of two persons with signing authority for cheques for the GCPI but stated firmly and repeatedly that he did not consent to be a director nor did he intend to be a director at any time for the corporation. The evidence presented showed that the directorship appointment of the Appellant was not carried out in accordance with the applicable statute. Also, there was nothing in the corporate minute book that showed that his appointment as a director was proper and carried out in accordance with subsection 63(3) of the Business Corporations Act of New Brunswick. In April 2012, the shareholders of the GCPI passed a resolution confirming the Appellant was never a director of the corporation at any time.
+[37] Based on the evidence it is clear that the Appellant had not consented to be a director. The Appellant did not know he was a director until 2010, he did not execute the appropriate documentation to be a director, and proper steps were not taken by the corporation to appoint the Appellant as a director. Under the Business Corporations Act of New Brunswick, the Appellant therefore could not have been and was not a de jure director.
+De facto Director: [38] In Wheeliker v. R., [1999] 2 C.T.C. 395, the Federal Court of Appeal stated "… by using the word 'directors' without qualifications in subsection 227.1(1), Parliament intended the word to cover all types of directors known by law in company law, including, amongst others de jure and de facto directors." Accordingly, the Federal Court of Appeal held that the liability for a corporation's failure to remit taxes can be imposed on individuals who act as directors, even without a valid appointment.
+[39] The concept of de facto director however should be limited to those who hold themselves out as directors. Former Chief Justice Bowman, in Scavuzzo v. R., [2005] G.S.T.C. 199, cautioned the Court from broadening the scope of de facto directors. In that case, Scavuzzo resigned as a director of the company but continued to sign cheques in his capacity as general manager after his resignation. Despite this, and as reflected in the following passage, former Chief Justice Bowman found that the Appellant had no involvement in the substantive decision-making of the business and did not hold himself out as a director to third parties:
+27 I think it will be apparent that one must be careful about the use of the expression de facto director. It does not cover as broad a field as is sometimes ascribed to it. It does not, for example, at least for the purposes of the derivative liability of directors under the ITA and the ETA cover everyone who exercises authority in the corporation. It may cover persons who although elected as directors may not be because of some technical requirement. It may also include persons who hold themselves out as directors so that third parties rely upon their authority as directors. That is essentially the principle upon which Noël J.A. based his conclusion in paragraph 20 of the Wheeliker judgment.
+[40] It should be noted that former Chief Justice Bowman commented on CRA directive RCD‑95‑12 relating to directors' liability, stating as follows: “Caution should be exercised prior to assessing an alleged “de facto” director. It is not sufficient that a person sign cheques for a corporation himself to be considered a de facto director. The general rule is that it is not appropriate to assess an alleged de facto director if there are legally appointed directors in office at the relevant time. The test of de facto directors should be considered only in cases where a person is representing him or herself as a director. There should be written evidence of such behaviour available.”
+[41] In Perricelli v. R., 2002 G.T.C. 244, Justice Miller notes that the determining factor in concluding that a person could not be considered a de facto director was that the person "did not believe he is a director and he never thought he had any authority to advise, influence or control, the management or direction of the company".
+[42] Justice Archambault in Hay v. Canada, 2004 TCC 51, referring to Perricelli v. R., supra, noted that Mr. Hay was not a de facto director because he never acted as such nor had signed any document to that effect and never sat at a board of directors meeting. Justice Archambault also states that steps taken to satisfy the requirements of the Excise Tax Act such as the preparation of invoices, meeting with the auditor, hiring a lawyer and signing cheques were not in themselves acts of a director. Furthermore, he found that Hay never exercised control over the other officers of the corporation. He simply followed the instructions of the vice‑president of the company, acting as his puppet.
+[43] In Mikloski v. R., 2004 TCC 253, the Minister argued that the Appellant had regularly represented herself in company documents as a director and thus acted as a de facto director of the company. These documents include a lease for premises which she signed as a witness; a Revenu Québec company registration form where her name was entered in the field reserved for officers and directors of the company; corporate income tax returns where she signed in areas reserved for directors; and GST and QST returns and accompanying cheques. Despite all this, she denied that she intended to represent herself as a director. Justice Paris accepted her position, stating that he was not convinced that the documents demonstrated that she intended to represent herself as a director or even signed as a director, with the exception of the corporate income tax returns. He went on to state that the position of Secretary, which she identified as on the Revenu Québec form, or that of any other officer is not equivalent to the position of director. He states that the role of a director is to manage the company's business and to make important decisions on its behalf. He found that Ms. Mikloski's role was very limited and inconsistent with that of a director.
+[44] The facts in the case at hand establish that the Appellant was a shareholder only. He testified unequivocally that his involvement with the GCPI was for investment purposes only. He attended a prospective investors meeting at the invitation of others and he did not really know the principals running the business. He was clear in his evidence that he did not at any time give his consent to be a director. He did not realize that he was in fact listed as a director with the Corporations Division of the Province of New Brunswick until very late and once he did, he took every step possible to have his name struck from the record. He did not execute any documents or complete any of the required steps to be appointed as a director and there are no records in the minute book of the corporation indicating that he ever held that position. Further, all major decisions relating to the business were made by persons other than the Appellant.
+[45] Certainly the Appellant did sign some banking documents and certificates showing him as an officer/director, but these documents were executed by him at the request of others, i.e. lawyers, bankers, accountants, etc. He was a co-signer for business cheques because two signatures were required. He signed cheques in blank as a matter of course to cover rent, payroll, and purchases, and used his credit card to pay for business supplies and invoices. He signed for the business bank loan, at the behest of the other shareholders, because the business was failing at the time, and he was told that if he did not sign for the loan, all the shareholders would lose their investment, including him. He had no knowledge of who the directors were, nor that he was appointed as a director by others, or when or if directors were removed or replaced. There were no directors' or shareholders' meetings, and there was no motion to validate directors’ appointments or even to discuss the affairs of the business.
+[46] The Appellant testified that he simply took over Richard’s shares unbeknownst to him as to how badly the business accounts were at that time. When the business accounts were frozen, he did not learn of the significance of the poor debt status of the company until it was too late in January of 2010. The Appellant asserts that the CRA disclaimer letter, which was signed by the Appellant as an “owner”, was signed for no other reason than to unfreeze the accounts of the company. This was maybe done under distress but certainly in shock and without any real knowledge of the company’s state of affairs, to the point where he signed the letter without even reviewing it. When he attempted to have someone else run the business, he did not even know where the books of accounts were located, or how to turn the lights on or off.
+[47] As noted earlier, the Appellant signed a variety of corporate-related documents. These documents include Exhibit R‑1, which is a credit agreement for the GCPI, signed by the Appellant as a guarantor and as Secretary-Treasurer of the company; Exhibit R‑2, a director and officer certificate addressed to the Bank of Nova Scotia where the Appellant is shown as Secretary-Treasurer of the company as well as a director; Exhibit R‑3, a banking resolution which the Appellant signed in his capacity as director, officer or member; Exhibit R‑4, which is a banking document and statement about the business, also signed as Secretary-Treasurer, along with Richard; Exhibit R‑5, a certificate similar to Exhibit R‑2 dated February 24, 2009; Exhibit R‑6, a revised version of Exhibit R-5 where the Appellant is shown as the sole officer and sole director of the company; and Exhibit R‑8, another director and officer certificate addressed to the Bank dated November 5, 2009, which again shows Christopher MacDonald as a director and officer, though this time signed as an “owner”. Similarly, Exhibit A‑1, Tab 1, is a signed CRA RC59 business consent form signed by the Appellant as a director of the corporation on December 12, 2008, and Exhibit A‑1, Tab 4, is the disclaimer letter signed in favour of the CRA in order to obtain the release of the company's accounts which were frozen following the issuance of a Requirement to Pay by the Minister to the company’s bank.
+[48] The Respondent notes that there are five exhibits signed by the Appellant on behalf of the company which third parties, including Scotiabank, corporate accountants, CRA, and KPMG, may have relied upon to assert that the Appellant was in fact a director. These exhibits include, for example, Exhibit R‑16, the company’s 2008 corporate income tax return which the Appellant apparently filed on November 4, 2008 and which he signed as director. Another one of these exhibits is Exhibit R‑10, an email from the Appellant to the corporate accountants dated April 6, 2009, citing HST problems caused by the previous directors of the company.
+[49] Notwithstanding all of the above documentation, the Appellant was strong in his evidence to the effect that he was not a director of the company, that he did not know he was director of the company at any time, and that he did not consent to be a director at any time. Certain corporate documents publicly identify the Appellant as a director of the corporation, but he did not provide his consent thereto at any time. He appeared to be an individual who was somewhat naïve. His conduct demonstrates that he was simply trying to protect his investment and those of the other shareholders. With respect to banking and other documents listing him as a director, he relied entirely upon the preparers of such documents, who were largely company solicitors who provided little or no explanation as to the nature of the documents or the financial situation the company.
+[50] I found the Appellant to be a forthright and frank individual, who was clear and concise in his evidence and was unwavering when cross‑examined. He made the appropriate admissions when they were called for, as regards the signatures provided and his knowledge of the documents in question. In all of his evidence, he was clear, consistent and explicit in that he never had any intent to act as a director, was never asked to be a director, had no knowledge of being a director and only took steps to protect his investment at all times.
+[51] On the whole of the evidence, I conclude that the Appellant was not a de facto director. Having found the Appellant was neither a de jure nor a de facto director, his liability is not engaged and it is not necessary to address the other issues raised in this appeal. The appeal is allowed and the matter is referred back to the Minister for reconsideration in accordance with the above reasons.
+Signed at Ottawa, Canada, this 20th day of October 2014.
+“E.P. Rossiter”
+Rossiter A.C.J.
+CITATION:
+2014 TCC 308
+COURT FILE NOS.:
+2013-2568(IT)I and 2013-2569(GST)I
+STYLE OF CAUSE:
+CHRISTOPHER RODERICK MACDONALD AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Moncton, New Brunswick
+DATE OF HEARING:
+January 22, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Eugene P. Rossiter, Associate Chief Justice
+DATE OF JUDGMENT:
+October 20, 2014
+APPEARANCES:
+Counsel for the Appellant:
+Enrico A. Scichilone
+Counsel for the Respondent:
+Tokumbo C. Omisade
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Enrico A. Scichilone
+Firm:
+Actus Law Droit
+Moncton, NB
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

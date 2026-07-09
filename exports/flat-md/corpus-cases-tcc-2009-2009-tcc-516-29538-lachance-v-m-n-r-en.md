@@ -1,0 +1,155 @@
+---
+title: "LaChance v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29538/index.do"
+last_modified: "2009-10-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 516"
+citation2: ""
+neutral_citation: "2009 TCC 516"
+decision_date: "2009-10-14"
+language: "en"
+item_id: "29538"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6356
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:52:11.676000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2ae018a845c356204fe533b946fc6202836a891c024da725f7a83f161edc6916"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# LaChance v. M.N.R.
+
+- Citation: 2009 TCC 516
+- Decision date: 2009-10-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6356, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+LaChance v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-10-14
+Neutral citation
+2009 TCC 516
+File numbers
+2008-2951(EI), 2008-2952(CPP)
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Canada Pension Plan
+Employment Insurance Act
+Decision Content
+Dockets: 2008-2951(EI)
+2008-2952(CPP)
+BETWEEN:
+DONALD LaCHANCE, O/A
+D & L’S FISH N CHIPS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 5, 2009 at London, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Julian Malone
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to decisions of the Minister of National Revenue under the Employment Insurance Act and the Canada Pension Plan that Nicole Morley was engaged in insurable and pensionable employment is dismissed, and the decisions are confirmed.
+Each party shall bear their own costs.
+Signed at Ottawa, Canada this 14th day of October 2009.
+“J. M. Woods”
+Woods J.
+Citation: 2009 TCC 516
+Date: 20091014
+Dockets: 2008-2951(EI)
+2008-2952(CPP)
+BETWEEN:
+DONALD LaCHANCE, O/A
+D & L’S FISH N CHIPS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] This is an appeal by Donald LaChance in respect of decisions made under the Employment Insurance Act and the Canada Pension Plan for the period from January 1, 2006 to December 31, 2006.
+[2] The question is whether a worker, Nicole Morley, was engaged as an employee or an independent contractor. The Minister of National Revenue determined that the relationship was one of employment. Mr. LaChance submits that Ms. Morley was engaged as an independent contractor.
+[3] Mr. LaChance and Ms. Morley each testified at the hearing.
+[4] Mr. LaChance, with the assistance of his wife, Lisa LaChance, operates a fish and chip restaurant. The restaurant seats about 60 customers and a take out service is provided as well.
+[5] Ms. Morley was hired as a full-time waitress in April of 2005 at an agreed hourly wage. At the commencement of the engagement, Ms. Morley agreed that no source deductions would be made from her pay. All of Ms. Morley’s pay cheques referred to her as a subcontractor. It is clear that Mr. LaChance considered Ms. Morley to be an independent contractor from the outset of the relationship.
+[6] Ms. Morley generally worked in accordance with a regular weekly schedule. The schedule was modified a few times to accommodate Ms. Morley’s child-rearing responsibilities.
+[7] In addition, there were a few other instances where Ms. Morley was not able to come to work for a scheduled shift. In such cases, Ms. Morley notified Mr. LaChance or his wife and they would find a replacement.
+[8] Mr. LaChance submits that the arrangement should be respected as a subcontractor relationship. He submits that the parties agreed to it, Ms. Morley was paid $2 more than an hourly wage, and the arrangement provided flexibility in terms of work hours.
+[9] Mr. LaChance testified that no supervision was required of Ms. Morley because she knew how to do the job. He also testified that Ms. Morley had flexibility with her work hours because she was free to find a replacement for any shift among the other workers at the restaurant.
+[10] The applicable principles in a case such as this are well known. The hallmark of being an independent contractor is that the person is in business for herself. The intention of the parties is very relevant, but it is not determinative. The applicable test was described by the Federal Court of Appeal in Royal Winnipeg Ballet v. MNR, 2006 FCA 87, 2006 DTC 6323 in the following manner:
+64 In these circumstances, it seems to me wrong in principle to set aside, as worthy of no weight, the uncontradicted evidence of the parties as to their common understanding of their legal relationship, even if that evidence cannot be conclusive. The judge should have considered the Wiebe Door factors in the light of this uncontradicted evidence and asked himself whether, on balance, the facts were consistent with the conclusion that the dancers were self-employed, as the parties understood to be the case, or were more consistent with the conclusion that the dancers were employees. Failing to take that approach led the judge to an incorrect conclusion.
+[11] With these principles in mind, I will first consider the intention of the parties.
+[12] Ms. Morley testified that, although she knew that she was responsible for paying tax at the end of the year, she was not aware of the legal niceties between employment and a subcontracting relationship. She did not remember Mr. LaChance using the term “subcontractor” when they negotiated the arrangement, although she acknowledges that this term was used on her pay cheques.
+[13] I accept that Ms. Morley was not aware of the legal difference between an employee and a subcontractor. However, she had agreed to an arrangement that was clearly different from her previous employment relationships because no taxes were deducted from her pay. Further, all of her pay cheques referred to her as a subcontractor. In effect, Ms. Morley agreed to go along with Mr. LaChance’s characterization of the arrangement as a subcontracting relationship.
+[14] In these circumstances, I accept that the intention of the parties was a subcontractor relationship.
+[15] That is not the end of the matter, however. As indicated in the above excerpt from Royal Winnipeg Ballet, it must be considered whether the relationship was actually consistent with this intention.
+[16] In my view, on a balance of probabilities the relationship was not consistent with a subcontractor relationship.
+[17] Of all of the factors listed in the Wiebe Door decision, the factor of “control” is the most important in this case.
+[18] The evidence regarding the ability of Mr. LaChance to control how the work was performed was fairly limited, which is common in appeals under the informal procedure. Based on the evidence, however, I conclude that it is likely that Mr. LaChance could provide detailed directions regarding Ms. Morley’s work. The degree of the ability to control makes the relationship inconsistent with Ms. Morley being in business on her own.
+[19] Mr. LaChance testified that it was not necessary to tell Ms. Morley how to do the job because it was apparent what the job entailed and she knew how to do it.
+[20] The applicable test, though, is not whether Mr. LaChance gave detailed directions to Ms. Morley, but whether he had the ability to do so.
+[21] I find that Mr. LaChance, as owner and hands-on manager of the restaurant with his wife, likely had the ability to tell Ms. Morley what tasks to perform and how to perform them.
+[22] Ms. Morley provided very detailed testimony regarding her various duties, down to filling up ketchup bottles and preparing individual butter cups. Based on the evidence as a whole, these duties likely were performed under the supervision of Mr. LaChance and his wife. If the work was not done to their satisfaction, they could have asked for it to be done differently.
+[23] Mr. LaChance submitted that Ms. Morley had flexible work hours and that she could find a replacement from among her co-workers if she was not available for a shift.
+[24] The evidence as a whole does not establish to my satisfaction that Ms. Morley knew that she could find her own replacement if she was not able to work a particular shift. Her understanding was likely consistent with her course of conduct, which was to contact the LaChances on the rare occasions that she was not able to come to work. They would find the replacement.
+[25] As for flexibility of work hours, I accept that Ms. Morley’s schedule was changed on occasion to accommodate her needs, but this is not evidence of someone in business for themselves.
+[26] Ms. Morley’s work schedule was mutually agreed with Mr. LaChance. The scheduling arrangement is reflective of an employer providing flexibility to a valuable employee. It is not evidence of someone in business for herself and determining her own work schedule.
+[27] As for the rate of pay, Mr. LaChance testified that Ms. Morley was paid $2 more than the minimum wage to compensate for the subcontractor relationship.
+[28] Based on the evidence as a whole, I am not satisfied that the subcontractor relationship influenced the rate of pay.
+[29] Ms. Morley testified that at one point during the engagement she looked for new work so that she could have Saturdays free for her children. She indicated that Mr. LaChance offered her a pay increase and a change of schedule so that she would stay. I accept this testimony.
+[30] In the result, I conclude that the engagement of Ms. Morley was one of employment. In brief, the relationship was not consistent with Ms. Morley being in business on her own.
+[31] The appeal will be dismissed, and the decisions of the Minister of National Revenue will be confirmed. Each party shall bear their own costs.
+Signed at Ottawa, Canada this 14th day of October 2009.
+“J. M. Woods”
+Woods J.
+CITATION: 2009 TCC 516
+COURT FILE NOs.: 2008-2951(EI)
+2008-2952(CPP)
+STYLE OF CAUSE: DONALD LaCHANCE, O/A D & L’S FISH N CHIPS and
+THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING: London, Ontario
+DATE OF HEARING: October 5, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice J. M. Woods
+DATE OF JUDGMENT: October 14, 2009
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Julian Malone
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

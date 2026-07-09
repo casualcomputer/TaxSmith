@@ -1,0 +1,107 @@
+Title: Esesson Canada Inc c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29505/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-336-29505-esesson-canada-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-04-07
+
+# Esesson Canada Inc c. La Reine
+
+- Citation: 2009 CCI 336
+- Decision date: 2009-04-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6262, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Esesson Canada Inc c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-04-07
+Référence neutre
+2009 CCI 336
+Numéro de dossier
+2008-3815(IT)
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2009 CCI 336
+Date : 20091022
+Dossier : 2008-3815(IT)APP
+ENTRE :
+ESESSON CANADA INC.,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS MODIFIÉS CONCERNANT LA DEMANDE DE PROROGATION DE DÉLAI
+La juge Campbell
+[1] La présente demande, en date du 2 janvier 2008, se rapporte à une prorogation du délai de dépôt et de signification d’un appel interjeté par suite de l’avis de nouvelle cotisation daté du 28 août 2007 à l’égard des années d’imposition 2002 et 2003 de la requérante. Le représentant de la société requérante a été autorisé à présenter sa demande par conférence téléphonique, le 31 mars 2009, étant donné qu’il résidait en Australie lorsque la demande devait être entendue. L’intimée ne s’est pas opposée à la demande concernant l’année d’imposition 2002 parce que la requérante avait présenté cette demande dans le délai imparti au paragraphe 167(5) de la Loi de l’impôt sur le revenu (la « Loi »). Toutefois, l’intimée s’est opposée à la demande concernant l’année d’imposition 2003 parce que la requérante n’avait pas satisfait aux conditions énoncées à l’alinéa 167(5)b) de la Loi à l’égard des prorogations de délai, et, en particulier, parce que la requérante avait fait l’objet d’une cotisation néant pour l’année d’imposition 2003, à l’égard de laquelle elle n’avait pas le droit d’interjeter appel.
+[2] Par une ordonnance modifiée datée du 11 mai 2009, j’ai ordonné qu’une prorogation de délai soit accordée pour l’année d’imposition 2002 et que l’avis d’appel de la requérante, reçu le 16 janvier 2008 pour l’année d’imposition 2002, ne soit réputé être un avis d’appel valide qu’après la date à laquelle une décision à l’égard de l’année d’imposition 2003 soit rendue. À cause de problèmes de liaisons téléphoniques qui se sont posés au cours de l’audience du 31 mars 2009, j’ai ordonné aux parties de soumettre par écrit des observations au sujet de la demande de prorogation de délai se rapportant à l’année d’imposition 2003. Les observations ont maintenant été reçues des deux parties.
+[3] Selon le dernier paragraphe des observations de la requérante, Esesson Canada Inc. demande à la Cour d’envisager :
+· d’examiner l’année 2003 d’Esesson Canada Inc.;
+· d’accorder une prorogation de délai et d’excuser tout retard.
+Dans ses observations, le représentant de la requérante semble demander une prorogation, de façon à permettre au ministre du Revenu national (le « ministre ») de rendre compte de divers montants visés par des chèques qui ont été soumis avec la demande, apparemment à l’appui de la prétention selon laquelle il n’a pas encore été rendu compte de certaines sommes versées au ministre en 2003. Par conséquent, le représentant cherche à faire examiner [traduction] « le système comptable de l’ARC » (premier paragraphe, page 1/16). Il demande également l’examen des dépenses qui ont initialement été déduites, mais qui ont été refusées. Bref, la requérante veut présenter :
+[traduction]
+[...] une étude de cas en temps réel « des raisons pour lesquelles les petites entreprises échouent en milieu rural au Canada » [...]
+(Observations de la requérante, premier paragraphe, page 2/16).
+[4] Enfin, la requérante affirme qu’aucune nouvelle cotisation n’a été envoyée pour l’année d’imposition 2003 (paragraphe 2, page 2/16), mais que le ministre a établi un certain nombre de nouvelles cotisations en vue de corriger ses propres erreurs, qui influaient sur les années d’imposition 2002 et 2003 de la requérante ainsi que sur celles de M. et Mme Sugnanam.
+[5] Dans l’arrêt The Queen v. Interior Savings Credit Union, 2007 DTC 5342, la Cour d’appel fédérale conclut d’une façon définitive qu’une « cotisation néant » est une cotisation dont le contribuable ne peut pas interjeter appel. Aux paragraphes [17] et [18] de cette décision, la Cour d’appel fédérale énonce les deux raisons pour lesquelles un avis informant le contribuable qu’aucun impôt n’est payable ne peut pas faire l’objet d’un appel devant la Cour canadienne de l’impôt :
+[17] [...] Premièrement, l’appel doit viser une cotisation et la cotisation aux termes de laquelle aucun impôt n’est payable n’est pas une cotisation (voir l’arrêt Okalta Oils Limited c. MNR, 55 DTC 1176 (CSC), à la page 1178 : [traduction] « Aux termes de ces dispositions, il n’y a pas de cotisation si aucun impôt n’a été réclamé »). Deuxièmement, il n’existe aucun droit d’en appeler d’une cotisation portant qu’aucun impôt n’est payable puisque [traduction] “[t]oute opposition autre que celle qui se rapporte au montant réclamé [au titre des impôts] est dépourvue de l’objet dont découle le droit d’appel … » (Okalta Oils, précité, à la page 1178).
+[18] Ces deux volets de la règle sont présentés de manière succincte par la juge Lamarre‑Proulx dans Faucher c. Canada, 94 DTC 1575, à la page 1579 :
+En conclusion, il n’y a pas de droit d’appel d’une cotisation d’un montant néant, ni d’une cotisation dont on ne demande pas la réduction […]
+[6] Les contribuables ont le droit d’interjeter appel auprès de la Cour conformément au paragraphe 169(1) pour faire annuler ou modifier une cotisation. La réparation que la Cour peut accorder se rapporte aux impôts, aux intérêts ou aux pénalités établis par le ministre. Par conséquent, s’il est conclu que le contribuable ne doit rien, la Cour ne peut accorder aucune réparation à celui‑ci. C’est exactement ce qui se produit en l’espèce. Aucun montant n’est dû par la requérante parce que, essentiellement, une cotisation néant n’est pas une cotisation. De plus, dans les observations ou dans la preuve documentaire, il n’est pas fait mention de quelque montant que ce soit à l’égard duquel le ministre était tenu de faire une détermination pour l’année, détermination qui aurait pour effet de conférer à la requérante des droits spéciaux d’appel devant la Cour.
+[7] J’ai examiné les copies de chèques soumises par la requérante, mais l’explication donnée dans l’affidavit d’Hélène Dhal me convainc. La plupart de ces chèques ont été comptabilisés et ils se rapportent à des versements pour des retenues à la source, à des arriérés d’impôt pour l’année 2002 et à des impôts payés pour des particuliers autres que la requérante. Un chèque n’a pas pu être trouvé et les copies de deux nouveaux chèques, soumises avec les observations de la requérante, se rapportaient à des montants à payer au « Newfoundland Exchequer Account ». Toutefois, comme l’avocate de l’intimée l’a signalé, étant donné qu’aucun impôt n’avait été établi à l’égard de l’année d’imposition 2003 de la requérante, aucun de ces chèques n’aurait pu être imputé aux impôts fédéraux à l’égard de l’année d’imposition en question parce qu’aucun impôt n’avait été établi. Enfin, en ce qui concerne le reste des observations de la requérante, la Cour n’est pas le tribunal devant lequel la requérante peut faire examiner le système comptable de l’Agence du revenu du Canada, ou présenter une étude portant sur les raisons pour lesquelles les entreprises échouent en milieu rural au Canada. Le pouvoir que la loi confère à la Cour consiste à annuler ou à modifier une cotisation.
+[8] L’intimée a également soutenu que la requérante n’avait pas produit de preuve en vue de satisfaire aux conditions à remplir pour qu’une prorogation de délai puisse être accordée par la Cour conformément à l’alinéa 167(5)b) de la Loi, qui est libellé comme suit :
+167(5) Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+a) [...]
+b) le contribuable démontre ce qui suit :
+(i) dans le délai par ailleurs imparti pour interjeter appel, il n’a pu ni agir ni charger quelqu’un d’agir en son nom, ou il avait véritablement l’intention d’interjeter appel,
+(ii) compte tenu des raisons indiquées dans la demande et des circonstances de l’espèce, il est juste et équitable de faire droit à la demande,
+(iii) la demande a été présentée dès que les circonstances le permettaient,
+(iv) l’appel est raisonnablement fondé.
+La requérante n’a pas non plus satisfait aux exigences énoncées dans cette disposition, mais même si elle y avait satisfait, il ne peut y avoir aucun appel d’une cotisation néant eu égard aux circonstances, et ce, pour les motifs ci‑dessus énoncés.
+[9] En conclusion, la demande que la requérante a présentée en vue de faire proroger le délai dans lequel elle peut interjeter appel de l’année d’imposition 2003 est rejetée.
+Signé à Ottawa, Canada, ce 22e jour d’octobre 2009.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 15e jour de décembre 2009.
+Hélène Tremblay, traductrice
+RÉFÉRENCE : 2009 CCI 336
+No DU DOSSIER DE LA COUR : 2008-3815(IT)APP
+INTITULÉ : Esesson Canada Inc.
+c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Calgary (Alberta)
+DATE DE L’AUDIENCE : Le 31 mars 2009
+MOTIFS CONCERNANT LA
+DEMANDE DE PROROGATION
+DE DÉLAI : L’honorable juge Diane Campbell
+DATE DE L’ORDONNANCE : Le 7 avril 2009
+DATE DE L’ORDONNANCE
+MODIFIÉE : Le 11 mai 2009
+DATE DES MOTIFS
+CONCERNANT LA DEMANDE
+DE PROROGATION DE DÉLAI : Le 26 juin 2009
+DATE DES MOTIFS MODIFIÉS
+CONCERNANT LA DEMANDE
+DE PROROGATION DE DÉLAI : Le 22 octobre 2009
+OBSERVATIONS :
+Représentant de la requérante :
+M. Sobhanadri N. Sugnanam
+Avocate de l’intimée :
+Me Valerie Meier
+AVOCATS INSCRITS AU DOSSIER :
+Pour la requérante :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

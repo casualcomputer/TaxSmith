@@ -1,0 +1,148 @@
+Title: Empire Paving Limited c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28710/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-355-28710-empire-paving-limited-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-06-12
+
+# Empire Paving Limited c. La Reine
+
+- Citation: 2008 CCI 355
+- Decision date: 2008-06-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1449, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Empire Paving Limited c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-06-12
+Référence neutre
+2008 CCI 355
+Numéro de dossier
+2006-1296(IT)G
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006‑1296(IT)G
+ENTRE :
+EMPIRE PAVING LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________
+Appel entendu le 25 février 2008 à Toronto (Ontario)
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Avocat de l’appelante :
+Me Douglas D. Langley
+Avocate de l’intimée :
+Me Margaret J. Nott
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre d’une cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2003 est accueilli avec dépens, et la cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, en tenant compte du fait qu’il faut admettre la déduction demandée dans la déclaration de revenus à l’égard des pertes relatives à des opérations sur titres.
+Signé à Ottawa, Canada, ce 12e jour de juin 2008.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 1er août jour de 2008.
+Aleksandra Koziorowska, LL.B.
+Référence : 2008CCI355
+Date : 20080612
+Dossier : 2006‑1296(IT)G
+ENTRE :
+EMPIRE PAVING LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] L’appel porte sur la question de savoir si l’appelante, Empire Paving Limited, a eu raison de déclarer comme une perte d’entreprise une perte nette résultant d’opérations sur des actions cotées en bourse.
+[2] L’appelante a déduit une perte d’entreprise de 714 093 $ dans le calcul de son revenu pour l’année d’imposition s’étant terminée le 31 janvier 2003. Le ministre du Revenu national (le « ministre ») a décidé qu’il s’agissait d’une perte en capital et a établi une nouvelle cotisation dans laquelle la déduction demandée a été refusée.
+[3] Les paragraphes suivants de l’avis d’appel exposent brièvement le contexte général. Un grand nombre de ces faits ne sont pas contestés.
+[TRADUCTION]
+3. L’appelante a été constituée en société en 1981 sous le régime des lois de l’Ontario, son siège social étant situé au 50, place Highmeadow, Weston (Ontario) M9L 2Z5.
+4. Pendant toutes les périodes pertinentes, l’appelante exploitait une entreprise de pavage, d’excavation, d’aménagement paysager et de construction.
+5. L’unique actionnaire de l’appelante est M. Anthony Pettrozza (ci‑après « M. Pettrozza »). Il est né en Italie en 1952 et a immigré au Canada à l’âge de 17 ans.
+6. M. Pettrozza s’occupe de la supervision des projets de l’appelante et de l’administration du bureau.
+7. De 1995 à 2003, M. Pettrozza s’est servi des liquidités excédentaires de l’appelante pour acheter et vendre des actions au nom de la société.
+8. C’est en observant des tiers que M. Pettrozza a acquis les connaissances dont il s’est servi pour prendre des décisions concernant l’achat et la vente de titres. Il suivait le marché en regardant les programmes d’affaires à la télévision. Il y passait plusieurs heures tous les soirs à regarder ces programmes, pendant qu’il s’occupait des affaires de l’entreprise de pavage. Il regardait aussi ces programmes pendant la journée, à la télévision de son bureau. Pendant plusieurs mois, il a étudié la méthode et les résultats obtenus par les analystes de ces programmes avant de commencer à acheter et à vendre lui‑même. Il lisait le Financial Post tous les jours. Il a lu des articles écrits par des gens bien informés et par des analystes. Il n’a pas sollicité l’avis de courtiers.
+9. M. Pettrozza a observé, outre les analystes et leurs résultats, les tendances du marché boursier. À titre d’exemple, une action prenait 8 $ ou 10 $ en une journée, puis perdait 5 $ le lendemain. Mais en peu de temps, elle reprenait de nouveau 10 $. Cette progression en dents de scie était particulièrement répandue à l’époque dans le domaine des technologies. M. Pettrozza a compris qu’il pouvait acheter une action, la vendre peu de temps après et en tirer un bénéfice, attendre que son prix baisse, la racheter, puis la vendre de nouveau lorsque son prix augmenterait. Il a commencé à investir en se servant de cette stratégie.
+10. M. Pettrozza a financé les achats et les ventes de titres effectués par la société Empire en se servant des liquidités de la société et d’emprunts. Il a acheté des fonds communs de placement et d’autres investissements à long terme avec des liquidités que la société avait accumulées. Ces investissements ont servi à garantir un compte sur marge. Les fonds empruntés ont servi à acheter les actions. Les fonds ont été empruntés auprès de CIBC Wood Gundy, le dépositaire. Le taux d’intérêt variait entre 1½ et 2 % au‑dessus du taux préférentiel. Le dépositaire prêtait une portion importante de la juste valeur marchande de l’ensemble du portefeuille.
+11. M. Pettrozza, étant l’âme dirigeante de la société Empire, lui a fait adopter un modèle d’emprunt de 70 % en moyenne de la valeur combinée des investissements à long terme et des actions. Le compte sur marge faisait l’objet d’une appréciation quotidienne. Les fonds empruntés pouvaient demeurer impayés tant que la valeur du portefeuille était stable. Si celle‑ci baissait en dessous d’une certaine valeur, fixée par les règles strictes du dépositaire, un appel de marge était fait. Il fallait y répondre par un chèque ou une vente du portefeuille.
+12. M. Pettrozza a compris que les actions dans lesquelles la société Empire avait investi fluctuaient constamment. Tant que le marché était haussier, il pouvait continuer d’acheter et de vendre sans recevoir d’appel de marge et emprunter plus. Malheureusement, la bulle boursière a éclaté. La société Empire a commencé à recevoir des appels de marge. Au début, M. Pettrozza s’est organisé pour y répondre en remettant des chèques, car il croyait que les actions allaient rebondir. Mais cela n’a pas été le cas. Croyant que les actions allaient rebondir, il a alors fait vendre à la société Empire les investissements à long terme. Les actions n’ont pas rebondi. La période pendant laquelle les actions ont été détenues s’est donc allongée, pendant que M. Pettrozza attendait le rebond escompté. Finalement, pendant l’année d’imposition de la société Empire se terminant le 31 janvier 2003, quand il n’a plus été en mesure d’attendre plus longtemps, il a été obligé de lui faire vendre les actions à perte, afin de supprimer le compte sur marge.
+13. La société Empire a présenté une déclaration de revenus pour l’année d’imposition se terminant le 31 janvier 2003 et déduit en tant que pertes en capital les pertes relatives aux fonds communs de placement et à d’autres actions investies à long terme, et a reporté quelques‑unes des pertes sur les années antérieures. Les pertes relatives aux autres actions ont été traitées comme des pertes d’entreprise autres qu’en capital et entièrement déduites.
+Analyse
+[4] J’ai récemment eu l’occasion d’examiner, dans 1338664 Ontario Limited c. La Reine, 2008 CCI 350, une situation factuelle semblable, mais où le contribuable avait tiré des gains d’opérations sur titres et cherchait à les faire imputer au capital. Dans cette décision, le principe juridique applicable a été exposé en ces termes :
+[4] L’intimée estime que les gains nets que l’appelante a tirés des opérations sur titres sont un revenu d’entreprise, à inclure dans le calcul du revenu en vertu de l’article 3 de la Loi de l’impôt sur le revenu.
+[5] En général, la question qu’il faut se poser pour savoir si des opérations sur titres peuvent être qualifiées d’exploitation d’une entreprise consiste à se demander si le contribuable a un plan lucratif visant la réalisation d’un bénéfice ou si le bénéfice obtenu est une simple plus-value : Irrigation Industries Ltd. v. M.N.R., 62 DTC 1131 (C.S.C.), Hawa c. La Reine, 2006 CCI 612, 2007 DTC 28.
+[6] Abondant dans le même sens, la Chambre de la chancellerie du Royaume‑Uni a mentionné dans Salt v. Chamberlain, 53 TC 143, que pour que des opérations sur titres constituent une activité de caractère commercial, il faut que « quelque chose » soit apporté en contrepartie du revenu. Les commentaires suivants figurent à la page 152 de cette décision :
+[traduction] […] Les propos du lord Wilberforce et du lord Simon de Glaisdale dans Ransom v. Higgs, 50 TC 1, aux pages 88 et 95, résument bien l’affaire. Selon lord Wilberforce, à la page 88 :
+[traduction] « On ne peut définir avec précision les “activités de nature commerciale”, mais on peut définir quelques-unes de leurs caractéristiques habituelles. On peut également trouver quelques indices interdisant de conclure qu’il s’agit d’un profit tiré d’une activité de caractère commercial. La question de savoir s’il s’agit d’une activité de caractère commercial devient parfois affaire de degré, de fréquence, d’organisation, même d’intention; l’organe chargé de l’appréciation des faits doit alors décider d’après les éléments de la preuve si une ligne a été franchie. »
+Il poursuit :
+[traduction] « Une activité de caractère commercial suppose normalement un échange de biens ou de services en contrepartie de quelque chose – non pas de n’importe quel service, car quelques-uns se classent parmi les activités professionnelles ou d’emploi, mais l’activité de caractère commercial implique que quelque chose est fourni à titre commercial. […] »
+[Non souligné dans l’original; renvoi omis.]
+[7] C’est une question de degré que de décider si l’activité consistant à faire des opérations sur des valeurs mobilières a franchi la ligne de démarcation qui sépare l’investissement passif et l’exploitation d’une entreprise. La difficulté est souvent de décider où il faut trancher.
+[8] L’avocat de l’appelante s’appuie sur la jurisprudence du Canada, du Royaume‑Uni et des États-Unis pour faire valoir que les opérations sur titres sont généralement présumées être imputables au capital. Il se peut que ce soit la situation au Royaume-Uni et aux États-Unis, mais la question n’a pas encore été réglée au Canada (Robertson v. The Queen, 98 DTC 6227 (C.A.F.), note 18). Je signale en outre que l’application d’une telle présomption au Canada pourrait avoir des conséquences très dures pour le contribuable dans certaines circonstances, car l’allègement fiscal relatif aux pertes en capital prévu dans la Loi de l’impôt sur le revenu est très limité.
+[9] L’application d’une quelconque présomption peut toutefois s’avérer utile pour favoriser la certitude sur le plan juridique dans les cas où la législation n’est pas très claire. Dans une situation comme celle en l’espèce, je pense qu’il faut garder à l’esprit le principe selon lequel, comme on le dit souvent, « le match nul profite au contribuable ». Cette expression accrocheuse suppose que le principe s’applique uniquement si les faits font en sorte qu’il est extrêmement difficile de départager les deux camps, mais la décision célèbre du juge Estey dans Johns‑Manville Canada Inc. v. The Queen, 85 DTC 5373 (C.S.C.) en permet une application plus large. Le commentaire suivant qu’il a formulé figure à la page 5384 de l’arrêt en question :
+[…] Une telle décision est de plus conforme à un autre concept fondamental de droit fiscal portant que, si la loi fiscale n'est pas explicite, l'incertitude raisonnable ou l'ambiguïté des faits découlant du manque de clarté de la loi doit jouer en faveur du contribuable.
+[5] En l’espèce, l’intimée soutient que l’activité consistant à faire commerce des valeurs mobilières a été semblable à celle d’un investisseur passif, et qu’il ne s’agissait pas de l’exploitation d’une entreprise. Selon la réponse, le ministre a supposé que l’appelante avait effectué seulement 75 opérations entre 1996 et 2003, la période de détention moyenne ayant été de 275 jours et les investissements ayant pour la plupart porté sur des actions de premier ordre.
+[6] Bien qu’elles soient exactes, ces hypothèses portent à confusion. L’activité boursière de l’appelante a été beaucoup plus soutenue qu’elles ne le donnent à penser.
+[7] Je dirais que M. Pettrozza, l’actionnaire unique d’Empire Paving Limited, a été un grand enthousiaste des marchés boursiers, et qu’il aimait particulièrement le risque. J’emploie le passé composé, car après avoir essuyé de terribles pertes, M. Pettrozza (et l’appelante) a abandonné le marché boursier. L’appelante a semble‑t‑il risqué 1 000 000 $ de ses propres fonds, et la plupart de cette somme, sinon la totalité, a été perdue.
+[8] Le ministre a supposé que l’appelante n’avait effectué que 75 opérations sur titres de 1996 à 2003. Toutefois, ceci ne prend pas du tout en compte le fait que l’activité boursière n’a pas été activement exercée tout au long de ces huit années, mais seulement pendant environ quatre à cinq ans, car il y a eu une interruption de deux ans, pendant laquelle M. Pettrozza a liquidé le portefeuille pour employer les fonds à d’autres usages, puis une autre période d’inactivité avant la liquidation définitive du portefeuille. Il s’ensuit que le nombre total d’opérations qui, selon le ministre, étaient réparties sur huit années ne reflète pas correctement la fréquence des opérations.
+[9] L’hypothèse du ministre selon laquelle la période de détention moyenne était de 275 jours pose également problème dans la mesure où elle donne une idée fausse de la stratégie boursière de l’appelante. Au cours des années de négociation active, les périodes de détention étaient sensiblement plus courtes. À titre d’exemple, les valeurs achetées pendant l’année d’imposition 2000 ont été détenues pendant 72 jours en moyenne. Ce n’est que lorsque la valeur des titres a plongé que M. Pettrozza a décidé de les conserver beaucoup plus longtemps. En fait, il ne faisait que s’accrocher, en espérant que le marché repartirait à la hausse, ce qui ne s’est pas produit.
+[10] Un autre problème que posent les hypothèses du ministre tient au fait que les actions sont présentées comme des actions de premier ordre. Les valeurs mobilières qui ont pesé considérablement dans le secteur des technologies semblent en général beaucoup plus volatiles que ce qu’on entend habituellement par l’expression « valeurs de premier ordre ».
+[11] M. Pettrozza n’a pas été à mon avis un investisseur passif. Sa stratégie a été celle d’un opérateur actif, dont la démarche est agressive, qui se sert d’emprunts considérables et qui achète des actions volatiles pour les détenir relativement peu de temps. Que la stratégie ait lamentablement échoué du fait du repli du secteur des technologies n’en modifie pas la caractéristique essentielle. L’intention de l’appelante lors de l’acquisition des valeurs est celle qui est la plus pertinente.
+[12] Il reste à décider si l’activité a franchi la ligne de démarcation qui permettrait de la qualifier d’exploitation d’une entreprise. L’appelante a‑t‑elle fourni quelque chose à titre commercial?
+[13] Du point de vue des experts en opérations boursières, la méthode suivie par M. Pettrozza était probablement loin d’être complexe. Ceci ne devrait cependant pas être le critère. Il s’agit de savoir s’il comptait employer une démarche commerciale, et non si la démarche était judicieuse.
+[14] À mon avis, l’appelante a appliqué une démarche commerciale aux opérations de négociation. La stratégie devait être agressive et comporter des risques considérables, et elle exigeait une attention constante.
+[15] À moins que d’autres facteurs ne jouent en faveur de l’imputation au capital, je pense qu’en l’espèce, les opérations de négociation de l’appelante peuvent être correctement envisagées comme une activité commerciale, conformément à la démarche exposée dans Johns‑Manville.
+[16] Je relève, comme autre facteur pertinent, que l’appelante avait investi dans des fonds communs de placement et que ces investissements ont été imputés au capital pour toutes les années, y compris pour l’année d’imposition en cause.
+[17] Bien qu’il n’aide pas l’appelante, ce fait ne porte pas nécessairement un coup fatal à sa position. Le contribuable peut mener deux activités distinctes, l’une d’investissement et l’autre de négociation, et je pense que c’est ce à quoi correspondent les faits en l’espèce.
+[18] Selon son propre témoignage, M. Pettrozza sélectionnait en général les titres tout seul, sans l’avis de son courtier, qui lui a toutefois recommandé l’achat de quelques fonds communs de placement. M. Pettrozza a témoigné qu’il estimait que le courtier voulait qu’il détienne des investissements prudents à titre de protection pour les besoins du compte sur marge.
+[19] Le sommaire des opérations qui a été présenté en preuve corrobore ce témoignage ou à tout le moins donne à penser que les fonds communs de placement ne faisaient pas partie de la stratégie générale de négociation de M. Pettrozza. Ceux‑ci ont été achetés dans le cadre d’une opération unique et payés avec les propres fonds de l’appelante, et le compte sur marge a considérablement augmenté après cet achat.
+[20] Si un contribuable a deux stratégies de négociation bien définies, il n’y a aucune raison pour qu’une partie du portefeuille ne puisse être imputable au capital et l’autre au revenu. Je suis disposée à accepter que c’est l’approche qui convient en l’espèce.
+[21] J’ai aussi pris en compte le fait que l’appelante n’a pas obtenu d’avantage fiscal en raison de la façon dont elle a déclaré les fonds communs de placement, qui ont également subi des pertes.
+[22] Je tiens à mentionner brièvement que l’appelante a aussi imputé au capital des actions de la société Trimark. J’ignore pourquoi ces actions ont été traitées de la même manière que les fonds communs de placement et, autant que je m’en souvienne, la question n’a pas été abordée lors de l’audience. Elles représentaient un lot modeste, et je conclus qu’elles n’ont aucune incidence sur l’analyse que je viens de mener.
+[23] Enfin, je voudrais exprimer un commentaire au sujet d’une incohérence dans la façon dont ces opérations ont été déclarées dans les déclarations des revenus de l’appelante. L’année d’imposition 2003 a été la première année pour laquelle l’appelante a imputé au revenu des opérations sur des actions. Auparavant, elles étaient toutes imputées au capital.
+[24] Naturellement, les tribunaux ne se montrent pas bien disposés envers les contribuables qui modifient la façon dont ils déclarent les gains et les pertes relatifs à des valeurs mobilières selon ce qui est à leur avantage à un moment donné. L’appelante n’appartient cependant pas à cette catégorie de contribuables, car elle a subi des pertes au cours de la plupart des années.
+[25] Dans les cas où le contribuable n’a tiré aucun avantage du fait d’avoir imputé au capital des opérations antérieures, je ne vois pas pourquoi une démarche nouvelle ne pourrait être adoptée ultérieurement.
+[26] Pour tous ces motifs, je conclus à la légitimité de la manière dont l’appelante a déclaré les opérations sur titres pour l’année d’imposition 2003.
+[27] L’appel sera accueilli, avec dépens.
+Signé à Ottawa, Canada, ce 12e jour de juin 2008.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 1er jour d’août 2008.
+Aleksandra Koziorowska, LL.B.
+RÉFÉRENCE : 2008CCI355
+No DU DOSSIER DE LA COUR : 2006‑1296(IT)G
+INTITULÉ : Empire Paving Limited
+et Sa Majesté La Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 25 février 2008
+MOTIFS DU JUGEMENT PAR : L’honorable juge Woods
+DATE DU JUGEMENT : Le 12 juin 2008
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Douglas D. Langley
+Avocate de l’intimée :
+Me Margaret J. Nott
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante:
+Nom : Douglas D. Langley Cabinet : Wilson Vukelich, s.r.l.
+Markham (Ontario)
+Pour l’intimée :
+John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

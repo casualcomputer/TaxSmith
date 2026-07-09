@@ -1,0 +1,335 @@
+Title: Golden Mind Investment Ltd. v. The King
+Source: https://norma.lexum.com/tcc-cci/decisions/en/item/521448/index.do
+Corpus path: corpus/cases/tcc/2025/2025-tcc-77-521448-golden-mind-investment-ltd-v-the-king.md
+Document type: case_law
+Last modified: 2025-05-26
+
+# Golden Mind Investment Ltd. v. The King
+
+- Citation: 2025 TCC 77
+- Decision date: 2025-05-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5424, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Golden Mind Investment Ltd. v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2025-05-26
+Neutral citation
+2025 TCC 77
+File numbers
+2022-25(IT)G, 2022-57(IT)G
+Judges and Taxing Officers
+Jean Marc Gagnon
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2022-25(IT)G
+BETWEEN:
+GOLDEN MIND INVESTMENT LTD.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Motion for an Extension of Time to File and Serve the Respondent’s Answers to Written Questions on Examination for Discovery heard on common evidence with Gong Chen, 2022-57(IT)G, on
+August 21, 2024 at Toronto, Ontario, and further written
+submissions received on August 23, 2024 from the Appellants
+Before: The Honourable Justice Jean Marc Gagnon
+Appearances:
+Counsel for the Appellant:
+Kevin Persaud
+Erik Knopf
+Counsel for the Respondent:
+Andrew Lawrence
+ORDER
+UPON reading the Amended Notice of Motion filed by the Respondent on May 10, 2024 pursuant to section 65 of the Tax Court of Canada Rules (General Procedure), and other documentary materials, seeking an Order for:
+(i)the Respondent’s answers to written questions on examination for discovery to be deemed to have been served on April 26, 2024;
+(ii)new dates for the remaining steps in the timetable to be determined by the Court;
+(iii)the motion to be disposed of on a costs basis; and
+(iv)such further and other relief as this Court may deem just.
+AND UPON having read counsel’s submissions and heard their representations;
+AND in accordance with the attached reasons;
+NOW THEREFORE it is ordered that:
+The Respondent’smotion is granted and the Respondent’s answers to written questions on examination for discovery are deemed to have been served on April 26, 2024.
+On or before July 4, 2025, the parties shall file one of the following with the Court:
+(a)a joint application to fix a time and place for the hearing using Form 123;
+(b)a letter requesting a settlement conference (refer to Practice Note No. 21); or
+(c)a letter confirming that the appeal will settle and the anticipated date of settlement.
+One set of costs shall be paid to the Appellants by the Respondent in the amount of $1,800, regardless of the outcome of this proceeding.
+Signed this 26th day of May 2025.
+“J.M. Gagnon”
+Gagnon J.
+Docket: 2022-57(IT)G
+BETWEEN:
+GONG CHEN,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Motion for an Extension of Time to File and Serve the Respondent’s Answers to Written Questions on Examination for Discovery heard on common evidence with Golden Mind Investment Ltd., 2022-25(IT)G,
+on August 21, 2024 at Toronto, Ontario, and further written submissions received on August 23, 2024 from the Appellants
+Before: The Honourable Justice Jean Marc Gagnon
+Appearances:
+Counsel for the Appellant:
+Kevin Persaud
+Erik Knopf
+Counsel for the Respondent:
+Andrew Lawrence
+ORDER
+UPON reading the Amended Notice of Motion filed by the Respondent on May 10, 2024 pursuant to section 65 of the Tax Court of Canada Rules (General Procedure), and other documentary materials, seeking an Order for:
+(i)the Respondent’s answers to written questions on examination for discovery to be deemed to have been served on April 26, 2024;
+(ii)new dates for the remaining steps in the timetable to be determined by the Court;
+(iii)the motion to be disposed of on a costs basis; and
+(iv)such further and other relief as this Court may deem just.
+AND UPON having read counsel’s submissions and heard their representations;
+AND in accordance with the attached reasons;
+NOW THEREFORE it is ordered that:
+The Respondent’s motion is granted and the Respondent’s answers to written questions on examination for discovery are deemed to have been served on April 26, 2024.
+On or before July 4, 2025, the parties shall file one of the following with the Court:
+(a)a joint application to fix a time and place for the hearing using Form 123;
+(b)a letter requesting a settlement conference (refer to Practice Note No. 21); or
+(c)a letter confirming that the appeal will settle and the anticipated date of settlement.
+One set ofcosts shall be paid to the Appellants by the Respondent in the amount of $1,800, regardless of the outcome of this proceeding.
+Signed this 26th day of May 2025.
+“J.M. Gagnon”
+Gagnon J.
+Citation: 2025 TCC 77
+Date: 20250526
+Docket: 2022-25(IT)G
+BETWEEN:
+GOLDEN MIND INVESTMENT LTD.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent,
+Docket: 2022-57(IT)G
+AND BETWEEN:
+GONG CHEN,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR ORDER
+Gagnon J.
+I. Introduction [1] On May 10, 2024, the Respondent filed before this Court an Amended Notice of Motion for an Extension of Time to File and Serve the Respondent’s Answers to Written Questions on Examination for Discovery (Motion) pursuant to section 65 of the Tax Court of Canada Rules (General Procedure) (Rules), seeking an order for (i) the Respondent’s answers to written questions on examination for discovery to be deemed to have been served on April 26, 2024; and (ii) new dates for the remaining steps in the timetable to be determined by the Court; and (iii) the Motion to be disposed of on a costs basis.
+[2] For the reasons below, the Respondent’s Motion will be granted and the Respondent’s answers to written questions on examination for discovery shall be deemed to have been served on April 26, 2024. The Appellants are entitled to one set of costs in any event of the cause in the amount of $1,800.
+II. Context [3] The substantive appeals deal with the reassessments of the Appellants. Mr. Chen is the sole shareholder of Golden Mind Investment Ltd. (Corporation).
+[4] The Corporation’s reassessments are partly based on a net worth method and deal with its taxation years ending August 31, 2015 and August 31, 2016 (2015 and 2016 taxation years). They:
+include business income of $460,904 and $896,739, respectively;
+determine capital cost allowance (CCA) claims for each year; and
+determine liability for gross negligence penalties.
+[5] Mr. Chen’s reassessments are also partly based on a net worth method and deal with his 2014, 2015 and 2016 taxation years. They:
+include shareholder benefits of $88,545, $813,022 and $545,319, respectively;
+determine Mr.Chen’s CCA claims for each year;
+reassess Mr. Chen’s 2014 taxation year beyond the normal reassessment period; and
+determine liability for gross negligence penalties.
+[6] On November 10, 2022, upon agreement of both parties, this Court issued a timetable order. It required the parties to, inter alia, exchange written questions on examination for discovery (Questions) by May 26, 2023. The parties served upon each other their written questions in accordance with that timetable.
+[7] On August 28, 2023, upon the Appellants’ request and the Respondent’s consent, this Court issued an amended order. The timetable was changed to, inter alia, require the parties to serve their written answers to the Questions (Answers) by October 10, 2023.
+[8] On October 10, 2023, the Appellants sent their Answers. Shortly after receiving the Appellants’ Answers, the Respondent notified the Appellants that the Respondent’s nominee “appear[ed] to be out of the office” and requested that the Appellants consent to a “brief, one week extension to allow for [the Respondent’s counsel] to have [the Respondent’s] answers sworn”.[1]
+[9] The Appellants consented to that request. On the same day, the Respondent filed a request for a timetable amendment, alongside each Appellant’s written consent to allow the Respondent to serve the Answers by October 17, 2023.
+[10] On October 17, 2023, the Respondent failed to serve the Answers on the Appellants.
+[11] The Appellants allege that from October 18, 2023 to February 13, 2024, they made several attempts to contact the Respondent about the status of the Respondent’s Answers and whether the Respondent intended to file a motion with respect to the Respondent’s Answers.
+[12] On November 7, 2023, this Court issued an amended timetable order in response to the request for a timetable amendment filed by the Respondent on October 10, 2023. The amended timetable order deemed the Answers to have been served on the opposing party on or before October 17, 2023. The parties did not promptly inform the Court that the Answers were still not served.
+[13] On November 13, 2023, the Respondent notified the Appellants that, during the week of November 20, 2023, the Respondent would file a motion with respect to the Respondent’s outstanding Answers.[2]
+[14] During the week of November 20, 2023, the Respondent did not file such a motion.
+[15] On November 23, 2023, the Appellants wrote to this Court that the Respondent had yet to serve his Answers.
+[16] On February 14, 2024, this Court wrote to the Respondent, asking for a response to the Appellants’ letter dated November 23, 2023.
+[17] On February 16, 2024, the Respondent wrote to this Court, stating that the Respondent “confirms that it was unable to provide the [Answers], and wished to provide the answers prior to submitting a timetable extension. The Respondent intends to provide the answers shortly, as well as submitting a motion to extend the timetable. The Respondent intends to complete its work on the answers and continue these matters”.
+[18] The Respondent submits that between November 23, 2023 and March 15, 2024, the parties exchanged correspondence on a without‑prejudice basis, but it declines to reveal the content of the correspondence.[3] The Court understands that the Appellants do not dispute this allegation.
+[19] On March 15, 2024, the Appellants wrote to the Respondent. This letter is attached to Rafaela Razao’s Affidavit affirmed on May 10, 2024.[4] The letter alleges that the Respondent had still not served the Answers. It also contains the following passage:
+The Appellant agrees that, pursuant to Practice Note 14, the Respondent should bring a motion to amend the timetable Order with new dates for the completion of the remaining litigation steps for these appeals.
+The Appellant will consent to such a motion to amend the timetable, so long as the newly proposed dates are reasonable.
+Please provide us with a motion by no later than April 19, 2024, so that we may sign it and return it to you for filing.
+[20] On April 19, 2024, the Respondent filed the original version of the Motion.
+[21] The Respondent provides no explanation for the delay of six and a half months before the Motion, other than to say it was due to an error by his counsel.[5]
+[22] On April 26, 2024, the Respondent served his Answers on the Appellants.
+[23] On May 8, 2024, the Appellants filed written representations opposing the Motion. They contain the Affidavit of Yuanzhen Li, which itself contains the Appellants’ Questions dated May 26, 2023 for each appeal, respectively listed as Exhibits A and B.
+[24] On May 10, 2024, the Respondent filed the Affidavit of Rafaela Razao, which, in Exhibit C, contains pages 1, 2 and 84 of his Answers for the Corporation’s appeal file; and in Exhibit D, pages 1, 2 and 112 of his Answers for Mr. Chen’s appeal file.
+[25] Neither of the Appellants has otherwise filed their respective Answers. The Respondent has not yet filed his Questions with the Court.
+[26] On May 10, 2024, the Respondent also filed the (Amended) Motion, in response to the Appellants’ written opposition to the original Motion.
+[27] On May 14 and 15, 2024, the parties sent written submissions to this Court, disputing whether the Motion should be disposed of on the basis of the parties’ written submissions or whether an oral hearing was necessary. This Court convened the parties to an oral hearing.
+III. Parties’ Positions [28] In his written representations, the Respondent submits that the Motion should be allowed because subsections 4(1) and 12(1) of the Rules give this Court the authority to extend the deadline to serve the Answers, and the conditions discussed in Hennelly[6] for granting an extension of time are satisfied:
+the Respondent has a continuing intention to pursue the proceeding, as shown by his filing and service of a Reply to the Appellants’ Notice of Appeal, and by the parties’ agreement on a joint timetable for completing the pre-trial steps;
+the application has some merit because the Respondent’s position with respect to the Appellants’ reassessments has some merit;
+any prejudice to the Appellants may be remedied by amending the timetable order; and
+although the Respondent does not have a reasonable explanation for the delay, the overriding consideration in deciding the Motion is that the interests of justice are served and that the Respondent does not have to satisfy all four factors.
+[29] The Respondent adds that subsection 12(2) of the Rules allows a party to move to extend time even after the expiration of the time prescribed. The Respondent needs this extension because an error by his own counsel caused the deadline to be missed.
+[30] The Respondent further alleges that the original version of the Motion was submitted on an understanding arising from the Appellants’ letter dated March 15, 2024 that the Appellants would consent to the Motion.
+[31] The Appellants submit that the Respondent has failed to satisfy all four of the factors in Hennelly, and that allowing the Motion would not serve the interests of justice, which is the overriding consideration of the test.
+[32] The Appellants also claim that the Respondent’s nominee has used this six‑month delay to review and amend his Answers based on the Appellants’ Answers. In any event, the Appellants submit that they have suffered prejudice due to this delay.
+[33] The Appellants seek two alternative remedies should the Court decide to dismiss the Motion. They request either of the following alternatives:
+that the Court, as authorized by paragraph 116(4)(a) of the Rules, allow the Appellants’ appeals with respect to the two issues for which the Respondent bears the initial burden—that is, the application of gross-negligence penalties and the reassessment of the otherwise statute-barred year; or
+that the Court, as authorized by paragraph 116(4)(b) of the Rules, strike the evidence of the Respondent’s nominee, Ms. Helen (Chu Yin) Yang, with respect to the gross-negligence penalties and the reassessment of the otherwise statute-barred year.[7]
+[34] Without confirming whether the Court can allow the Appellants’ alternative remedies, it understands that those remedies concern all taxation years under appeal for both Appellants. For all the taxation years under appeal in respect of the two issues for which the Respondent bears the initial burden: under (a), above, it is for the Court to allow in part the appeals with respect to the gross‑negligence penalty, except for Mr. Chen’s 2014 taxation year, where the appeal should be allowed in respect of the entire taxation year, and under (b), above, it is for the Court to strike out the evidence of the Respondent’s nominee with respect to the gross-negligence penalty, except for Mr. Chen’s 2014 taxation year, where the striking out should apply in respect of its statute-barred status. In either alternative, the appeals would still proceed on the basis of the remaining issues.
+[35] Finally, the Appellants request an award for the costs of the Motion.
+[36] The Court notes that during the hearing, the parties agreed that, should the Court grant the Motion, it may disregard any subsequent steps in the timetable, except for the step requiring communication with the Hearings Coordinator either about the parties’ settlement or to set a hearing date. The parties have agreed on six weeks from the date of signature of the Court’s order as the deadline.
+IV. Issues in Dispute [37] Considering the foregoing and more specifically the parties’ positions, the issues in relation to the Motion may be summarized as follows:
+Should the Motion be granted to allow the extension of time to file and serve the Respondent’s Answers to written questions on examination for discovery?
+In the event the Motion is dismissed, what would be the appropriate remedy? and
+How should the Court award costs?
+V. Analysis [38] The analysis will address two main considerations: (a) the merits of the Motion and (b) the Appellants’ proposed remedies under subsection 116(4) of the Rules in the event no extension of time to file and serve the Respondent’s Answers is granted as requested.
+A. Merits of the Motion [39] Hennelly sets out the applicable factors in deciding whether this Court should extend a time limit under subsection 12(1) of the Rules. The decision refers to four factors that must be considered, the whole analysis being subject to the overriding consideration of the interests of justice.
+(1) General observations [40] Subsection 12(1) of the Rules authorizes this Court to extend a time limit, including the time limit for the filing and service of a party’s answers to written questions on examination for discovery. The interpretation and the scope of the provision are also governed by the principles set out in section 4 of the Rules: the Rules are “… liberally construed to secure the just, most expeditious and least expensive determination of every proceeding on its merits”.
+[41] It is generally accepted that the test in applying subsection 12(1) of the Rules was set out in Hennelly. Although it was not a tax case, the factors below remain applicable in various contexts pertaining to an application for an extension of time.[8] Therefore, the Respondent’s success in the present case will depend on how the following factors are met:[9]
+a continuing intention to pursue his appeal;
+whether the appeal has some merit, i.e., whether the party has a “reasonable chance of success”;[10]
+whether no prejudice to the opposite party arises from the delay; and
+whether reasonable explanation is given for the delay.
+[42] The Respondent does not have to satisfy all four factors. The applicable overriding consideration is to serve the interests of justice.[11] Indeed, “… to properly evaluate the situation and draw a valid conclusion, a balancing of the various factors involved is essential”.[12]
+[43] The Court recalls that the Appellants are of the view that the Respondent has failed to meet all four factors and that allowing the Motion would not serve the interests of justice.
+(2) Intention to pursue and some merit factors [44] The Federal Court of Appeal confirmed in Ghaffar that the first two factors in the Hennelly test should refer to the underlying appeal as opposed to a motion or interlocutory measures.[13]
+[45] First, in Tomas, the Federal Court of Appeal dismissed the possibility of extending time further to a motion made under subsection 140(2) of the Rules because the appellant, among other things, “… provided no evidence that there is merit to his appeal” and “has not shown great enthusiasm in pursuing his appeal”. The decision did not deny this Court’s discretion to grant the appellant’s motion, even though the motion was made more than 30 days after the pronouncement of the judgment.[14]
+[46] Later, in Ghaffar, the Federal Court of Appeal confirmed, both in its general enumeration of the Hennelly factors and in the subsequent detailed analysis, that the first two factors relate to the underlying appeal.
+[47] Finally, also in a non-tax case, the Federal Court of Appeal analyzed in detail the applicant’s intention to pursue the underlying appeal as well as the merits of her appeal, in deciding not to grant a time extension.[15]
+[48] This Court has adopted the approach prescribed by these binding authorities with respect to the first two factors of the Hennelly test. As well, this Court has criticized the interpretation that focuses on the application itself for the first two factors, because it amounts to a circular argument.[16]
+[49] Gratl[17], a decision cited by the Appellants, does focus on the application itself, not the underlying appeal.[18] However, the Court is of the view that because Gratl deals with the extension of time to file a reply to a notice of appeal, it is distinguishable from the case at bar with respect to the scope of the first two criteria of the Hennelly test.
+[50] A reply is inherently different from other steps in the litigation. It is a pleading[19], and as such, according to a consistent stream of case law, it defines the issues in dispute between the parties;[20] without a pleading, the issues in dispute cannot exist or, at least, cannot be ascertained.[21]
+[51] Consequently, the lack of intent to file the reply, which is a pleading, could mean a lack of intent to define the underlying appeal or to bring it into existence, let alone to pursue it.
+[52] And if Gratl is read within the whole context of the function of a pleading in a litigation, it should still be understood to refer to the underlying appeal. Paragraph 41 of Gratl, which deals with the second factor, further reinforces this conclusion. This Court clearly stated that it considered whether the Crown’s “… position with respect to the reassessments …”, i.e., the underlying issue on appeal, had any merit.
+[53] Paragraphs 37 to 40 of Gratl, read by themselves, do indicate that the first two factors in the Hennelly test focus on the application and not the underlying appeal. However, the Court is of the view that, if we read the paragraphs within the entire structure of the tax litigation process and the rest of the judgment, it is possible to reach the opposite conclusion, i.e., that Gratl does not apply the first two factors of the Hennelly test to the motion itself, but rather to the underlying appeal.
+[54] The Court is of the view that an overwhelming majority of cases explicitly prescribe that the first two factors of the Hennelly test focus on the underlying appeal. To the extent that relevant cases may involve replies, they seem to be dealing with a particular step of the litigation that defines the appeal itself. The Court does not include Izumi[22] in the list of cases discussed earlier, as the applicable global context of that decision—which deals with a motion to set aside a judgment—does not appear to show sufficient similarities for the purpose of analyzing whether the first two factors of the Hennelly test focus on the application or instead on the underlying appeal.
+(3) Prejudice arising from allowing the motion and reasonable explanation for the delay [55] In the case at bar, it is the Appellants who have the burden to prove that they have suffered prejudice; absent satisfactory evidence, both this Court and the Federal Court of Appeal have refused to recognize the existence of prejudice.[23] But again, this factor alone does not need to be satisfied in all cases where the overriding consideration is that the interests of justice be served.
+[56] As for the condition relating to a reasonable explanation for the delay, neither the general case law principles nor the specific applications thereof dictate that, for the application to succeed, the applicant must have a reasonable explanation for the delay. As mentioned earlier, the Hennelly test does not require that all four factors be satisfied. What matters is the overriding consideration of the interests of justice.[24]
+[57] Moreover, in Akanda, the Court granted the extension of time despite the applicant not providing any reasonable explanation for the delay. Indeed, the Federal Court of Appeal found that since the three other factors were satisfied, and since the amount involved was significant, “… the interests of justice support a finding that the application for an extension of time should be granted in this case”.[25]
+[58] In Cobuzzi, the Crown also satisfied the first three criteria, and the three‑month delay arose out of counsel’s inadvertence. This Court, after considering all the circumstances of the Cobuzzi case, including the necessity that the appeal hearing proceeds smoothly and the taxpayer’s delay in paying the filing fee, granted the extension.[26]
+[59] The Appellants cite paragraph 86 of Larkman, the cases cited in that paragraph, and Gratl in support of their argument that the lack of a reasonable explanation can itself defeat an application. On this aspect, however, the Court notes that Larkman may be distinguished from the case at bar, due to both the legal issue involved and its unique factual pattern.
+[60] The 30-day deadline in Larkman is provided under subsection 18.1(2) of the Federal Courts Act. It is not a time limit just like any other. It is the time limit to apply for judicial review before the Federal Court of an otherwise final decision or order. It underscores the need for the finality and certainty of a decision or order, ensuring their effective implementation.[27]
+[61] No consideration of the finality of a decision arises from the time limit to complete a procedural step relating to discovery.
+[62] Most cases—including those cited by the Appellants—dismissing an application for an extension of time involved at least one other failure in addition to the lack of a reasonable explanation.[28]
+[63] Gratl may be a relevant case in support of the Appellants’ stricter position with respect to the necessity of a reasonable explanation for the delay. In that decision, this Court refused to grant an extension of time because of, inter alia, a lack of a reasonable explanation. However, it should be noted that in that case, the delay was 14 months (not 6 months[29]) and the Court found no continuing intention to pursue the application.[30]
+[64] The Appellants then referred to Chin[31] during the hearing. This is the Appellants’ main compelling case, which dismissed an application for an extension of time solely due to the lack of a reasonable explanation. This case was decided before Hennelly and did not cite Grewal. Although it dealt with an extension of time to apply for judicial review, the Court in Chin did not mention considerations related to the finality or certainty of a decision.
+[65] The Federal Court of Appeal and this Court have concluded that the reason behind the delay is certainly useful to know, but in most cases not critical. And ultimately, where the factor must be considered, an applicant with a “strong case” may be able to counterbalance a less satisfactory justification for the delay.[32]
+(4) Present case [66] The dispute among the parties about the applicable test in Hennelly centres on the first three factors. With respect to the fourth factor, the Court does not believe that the Respondent provided a reasonable explanation for the delay. In fact, none was given, other than that it was due to an error by the Respondent’s counsel. The fourth factor in the case at bar is clearly not met. However, the Respondent relies essentially on the position that not all factors need to be satisfied in order to meet the Hennelly test. The Court agrees that not all factors need to be satisfied to meet the Hennelly test.
+[67] The Court is of the view that the facts support the conclusion that the Respondent’s intent is to pursue the appeals. Replies were filed to the notices of appeal. Certain actions were taken by the Respondent to obtain additional time to fulfill the undertakings to serve the Respondent’s Answers. The issue in the present case relates to the delay in serving the Respondent’s Answers as part of the discovery process, not to the pleadings as such. Over a period of approximately six months, a request to amend the timetable was filed, exchanges of correspondence allegedly took place, the Respondent responded two days following this Court’s correspondence, and it all culminated in the filing of the Motion on April 19, 2024 and service of the Respondent’s Answers to the Appellants on April 26, 2024.
+[68] The situation described does not lead the Court to question the Respondent’s intent to pursue the appeals.
+[69] As for the second factor, the replies filed by the Respondent set out the Minister’s position against the Appellants’ notices of appeal based on, inter alia, assumptions of fact and the applicable provisions of the Income Tax Act. The Court cannot conclude that the Minister’s position is without merit. The Appellants have not convinced the Court otherwise. The second factor is met.
+[70] As for the third factor, the Appellants have to allege and prove the existence of a prejudice; however, in the case at bar, the Court was not able to find sufficient evidence in support of their allegations of prejudice.
+[71] The Appellants suggest that the Respondent used the six-month delay to “… redo [his] own [A]nswers after having reviewed [the Appellants’] …”,[33] thus “… providing answers that [the Respondent’s nominee] would not otherwise have given if she had not enjoyed the benefit of the additional time and the advantage of reviewing the Appellants’ answers”.[34]
+[72] The Appellants propose a possible sequence of occurrences that corresponds with this hypothesis; however, they do not otherwise provide any evidence in support thereof.
+[73] On the other hand, the Respondent’s Answers, which come in the form of an affidavit,[35] state that his nominee had not seen the Appellants’ Answers when answering the Appellants’ Questions.[36] This statement needs to be considered, and the Court has not been shown any particular reason to disbelieve it.
+[74] During the hearing, the Court remarked, and counsel for the Appellants conceded, that even if all the parties abided by the timetables, it remains possible that they did not serve their answers on each other at the same time, and that this time difference does not necessarily mean that there was foul play behind it.[37]
+[75] Furthermore, in their letter to the Respondent dated March 15, 2024, the Appellants stated in the fourth unnumbered paragraph that they would consent to the Motion, subject to the reasonableness of the newly proposed timetable.[38] In Metrobec, this Court concluded that such consent suggests the absence of any prejudice.[39] The Court shares the same view.
+[76] In summary, in neither their written nor their oral representations have the Appellants provided the Court with clear and comprehensive evidence to substantiate their claim that the Respondent adjusted his Answers after having reviewed the Appellants’ Answers. The Court has no alternative but to find that the prejudice, as alleged by the Appellants and vigorously denied by the Respondent, is unproven and not well founded.
+[77] Lastly, although the reason behind the delay is always useful to know, it is not critical for the Motion’s success.
+[78] The Court should consider all circumstances of the case to ensure that the interests of justice are served. This exercise was conducted by the Court, and considering the foregoing and all the factors unique to this case, the Court is of the view that the Hennelly test as applicable and the interests of justice justify granting the Respondent’s Motion.
+B. Subsection 116(4) Alternative Remedies [79] The Court’s decision is to grant the Motion. In this context, the Court notes that the Appellants have requested the alternative remedies should the Court dismiss the Motion. This is not the case and, therefore, the Appellants’ remedies are now obsolete. However, notwithstanding this result, the Court wishes to add a few remarks on the merits of the Appellants’ alternative remedies in the present case.
+[80] The remedies proposed by the Appellants involve paragraphs 116(4)(a) and (b) of the Rules:
+(4) Where a person refuses or fails to answer a proper question on a written examination or to produce a document which that person is required to produce, the Court may, in addition to imposing the sanctions provided in subsections (2) and (3),
+(a) if the person is a party or a person examined on behalf of or in place of a party, dismiss the appeal or allow the appeal as the case may be,
+(b) strike out all or part of the person’s evidence, and
+…
+[81] The question in the present case is whether the late service of the Respondent’s answers to written questions on examination for discovery justifies in and of itself any of the three remedies provided for under subsection 116(4) of the Rules. The decisive point to review is undoubtedly the preamble of subsection 116(4).
+[82] Remedies under subsection 116(4) of the Rules may be considered by the Court only if the preamble is satisfied. A party, in the present case, must refuse or fail to answer a proper question on a written examination or to produce a document which that person is required to produce. Thus, under a plain reading of its wording, subsection 116(4) does not apply in cases of late service of one party’s answer to the other.
+[83] The preamble of subsection 116(4) of the Rules has been considered in cases under paragraph 116(4)(a). The Court was not referred to any case involving the application of paragraph 116(4)(b) to strike out evidence or paragraph 116(4)(c) for any other direction, and the Court has not been able to find one. Nevertheless, as the preamble of subsection 116(4) applies to all three paragraphs, the Court believes that the case law threshold established in Lynch[40] and Tremblay[41] applies to all three paragraphs.
+[84] In Lynch, the case cited by the Appellants, Mr. Lynch attended two case management conferences. He was granted an extension of the deadline to serve on the Crown his written discovery questions and his answers to the Crown’s discovery questions. During the second case management conference, the Court also warned him that if he did not answer the Crown’s questions, his appeal could be dismissed outright. Despite the warning, Mr. Lynch still refused to answer the Crown’s questions, citing reasons that were considered unfounded in law. He clearly showed that he would never abide by the Court’s orders.[42]
+[85] These circumstances led the Federal Court of Appeal to conclude that both Mr. Lynch’s positions and conduct were abusive, and that his appeal should be dismissed outright under this Court’s inherent jurisdiction to address an abuse of process, including when a party’s conduct “frustrates the discovery process”. Paragraph 116(4)(a) of the Rules was cited as an alternative justification to dismiss Mr. Lynch’s appeal.[43]
+[86] In Tremblay, in applying paragraph 116(4)(a) of the Rules to dismiss the taxpayer’s appeal, this Court concluded that he was:
+… untruthful, obstructive and, having ignored his responsibility to answer questions and define the issues, was wholly unprepared to proceed with the hearing of his appeal. This impression was buttressed by his extraordinary declaration that he was not guilty as convicted, blaming his lawyer for such result.[44]
+[87] In summary, in both cases, the courts applied paragraph 116(4)(a) of the Rules in the face of wholly uncooperative litigants who unreasonably or in bad faith actively obstructed and clearly intended to keep obstructing the court’s proceedings. Furthermore, both courts had to deal with litigants who had ample opportunities to correct their wrongs, before finally granting an order pursuant to paragraph 116(4)(a).
+[88] In Ross,[45] the taxpayer failed to serve her answers to the Crown’s written questions on examination for discovery. The Crown moved to strike the appeal. No one appeared for the taxpayer at the hearing of this motion to strike. The Court found that the taxpayer lacked diligence in pursuing her appeal, but still declined to dismiss the appeal outright. Instead, the Court ordered a new deadline to serve her answers.[46]
+[89] Based on the foregoing, the Court is of the view that a remedy under paragraph 116(4)(a) of the Rules remains a last resort, mostly for litigants who have violated several court orders and shown no intention of preparing for the conduct of a reasonable hearing.[47] The Court would have been reluctant to accept that the present circumstances supported that conclusion.
+[90] A similar high threshold exists under sections 91 and 110 of the Rules.[48] Paragraphs 91(c) and 110(b) and (c) of the Rules deal with the consequences of misconduct during the discovery process. They empower this Court to either dispose of the appeal outright or strike out evidence. These are similar remedies to those in paragraph 116(4)(a) of the Rules.
+[91] It has been confirmed that paragraph 91(c) of the Rules may apply only “… where the violations of the Rules are multiple, egregious, and intentional …”, for example when the party’s “… deliberate pattern of conduct intended to frustrate the discovery process of the Tax Court was likely to continue”.[49]
+[92] This Court has confirmed that the high bar for the application of paragraph 91(c) of the Rules also applies to paragraph 110(b) of the Rules. It remains a “… drastic and somewhat ultimate remedy reserved for the egregious case or when no other alternative and less drastic remedy would be adequate”.[50]
+[93] From its review, the Court concludes that the violation of documentary, oral or written examinations rules, absent a deliberate and continuing delay or a consistent pattern of inaction, even if significant delays occurred in part due to a few gaffes of the defaulting party, would not generally cause the underlying appeal to be allowed or dismissed outright, unless such violations are repetitive, malignant and wilful. To allow or dismiss an appeal based on procedural violations is a drastic, last resort measure. This is especially true if the defaulting party answered the questions, but was merely late in doing so. The same conclusion should generally apply with respect to the remedy of striking out evidence where only multiple and outstanding violations of the Rules occurred.
+[94] Considering the foregoing, the Court would have been of the view that the evidence and the circumstances of this case do not support the conclusion that the Respondent has engaged into repeatedly bad faith and obstructive behaviour required to justify the drastic measures of allowing the appeal outright or striking out his nominee’s evidence. The Respondent provided his Answers late, but still months before the hearing on the Motion. The Court does not have any reason to believe that the Respondent intended not to provide them.
+VI. Conclusion [95] For all the above reasons, the Court orders as follows:
+a)The Respondent’s Motion is granted and the Respondent’s answers to written questions on examination for discovery are deemed to have been served on April 26, 2024.
+b)On or before July 4, 2025, the parties shall file one of the following with the Court:
+(i)a joint application to fix a time and place for the hearing using Form 123;
+(ii)a letter requesting a settlement conference (refer to Practice Note No. 21); or
+(iii)a letter confirming that the appeal will settle and the anticipated date of settlement.
+[96] As for costs, no specific request was made by either party. The Court believes that, notwithstanding its decision on the merits of the Respondent’s motion, the circumstances justify that the Respondent bear responsibility for the delay caused. One set of costs of $1,800 shall be payable to the Appellants by the Respondent, regardless of the outcome of this proceeding.
+Signed this 26th day of May 2025.
+“J.M. Gagnon”
+Gagnon J.
+CITATION:
+2025 TCC 77
+COURT FILE NOs.:
+2022-25(IT)G
+2022-57(IT)G
+STYLES OF CAUSE:
+GOLDEN MIND INVESTMENT LTD. v. HIS MAJESTY THE KING
+GONG CHEN v. HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+August 21, 2024
+REASONS FOR ORDER BY:
+The Honourable Justice Jean Marc Gagnon
+DATE OF ORDER:
+May 26, 2025
+APPEARANCES:
+Counsel for the Appellants:
+Kevin Persaud
+Erik Knopf
+Counsel for the Respondent:
+Andrew Lawrence
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+Kevin Persaud
+Erik Knopf
+Firm:
+Rotfleisch & Samulovitch Professional Corporation
+Toronto, Ontario
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] Appellants’ Written Representations Opposing Respondent’s Motion Dated April 19, 2024 at 3–4.
+[2] The Court understands that the Appellants do not dispute this allegation.
+[3] Transcript of Proceedings (Transcript) at 7–8.
+[4] The Appellant’s letter dated March 15, 2024 is marked as Exhibit A to Rafaela Razao’s Affidavit.
+[5] Transcript at 5–8.
+[6] Canada (Attorney General) v Hennelly, 1999 CanLII 8190 (FCA) [Hennelly] at para 3.
+[7] Appellants’ letter dated August 23, 2024.
+[8] Tomas v Canada, 2007 FCA 86 [Tomas] at paras 9–12.
+[9] Hennelly at para 3.
+[10] Canada (Minister of Human Resources Development) v Hogervorst, 2007 FCA 41 [Hogervorst] at para 37.
+[11] Akanda Innovation Inc. v Canada 2018 FCA 200 [Akanda] at paras 18–19; Canada (Attorney General) v Larkman, 2012 FCA 204 [Larkman] at para 62.
+[12] Grewal v Canada (Minister of Employment and Immigration), [1985] 2 FC 263 (CA) [Grewal] at 282.
+[13] Ghaffar v Canada, 2016 FCA 33 [Ghaffar] at paras 3–6. In applying the Hennelly test, the Court of Appeal looked at the applicant’s intention to pursue the underlying appeal and that appeal’s merit.
+[14] Tomas at paras 11, 13, 15 and 17. See also section 12 of the Rules.
+[15] Hogervorst at paras 34–37.
+[16] Metrobec Inc. v The Queen, 2018 TCC 115 [Metrobec] at paras 24–25. Note that footnote 4 of Metrobec directly attacks Cobuzzi v The Queen, 2017 TCC 27 [Cobuzzi] at paras 36–37 to the extent that Cobuzzi focuses on the application itself and not the underlying appeal in applying the Hennelly test.
+[17] Gratl v Canada, 2019 TCC 9, aff’d 2019 FCA 3 [Gratl].
+[18] Gratl at paras 37–39.
+[19] Subsection 43(1) of the Rules.
+[20] To cite a few cases: Archer v MNR, [1989] 2 CTC 2300 (TCC); Hillcore Financial Corporation v The King, 2023 TCC 71; Beima v Canada, 2016 FCA 205.
+[21] Kolmar v The Queen, 2003 TCC 829 at para 17; Jones v Donaghey, 2011 BCCA 6 at para 7.
+[22] Izumi v The Queen, 2014 TCC 108 [Izumi].
+[23] Akanda at paras 36–37, where the Court deems the Crown’s proof of prejudice unsatisfactory; Metrobec at paras 27-28. In Hogervorst at para 40, the Federal Court of Appeal required the Applicant to prove the non‑existence of prejudice, but it was because the application was made ex parte, and the Crown was not heard on the issue.
+[24] Akanda at para 19.
+[25] Ibid at para 39.
+[26] Cobuzzi at paras 14 and 55–56.
+[27] Larkman at para 87; McBean v Canada (Citizenship and Immigration), 2009 FC 1149 [McBean] at para 8.
+[28] The applicant in Gratl also failed the first factor, on top of an unexplained 14-month delay; in McBean, the applicant met “at most” two of the four factors; in Kobek v Canada (Attorney General), 2009 FCA 220, the applicant failed all but the prejudice factor; in Hogervorst, the applicant failed all four.
+[29] Appellants’ Written Representations of May 8, 2024 at para 26.
+[30] Gratl, paras 39 and 53.
+[31] Chin v Canada (Minister of Employment and Immigration), [1993] FCJ No 1033 (FC) [Chin].
+[32] See Grewal.
+[33] Transcript at 35 and 37.
+[34] Appellants’ Written Representations of May 8, 2024 at para 46.
+[35] Section 114 of the Rules.
+[36] Respondent’s Answers on Written Examination for Discovery for file 2022-25(IT)G at 1, 2 and 84; Respondent’s Answers on Written Examination for Discovery for file 2022-57(IT)G at 1, 2 and 112; referred to in Affidavit of Rafael Razao as Exhibits C and D, respectively.
+[37] Transcript at 39–40.
+[38] See paragraph 19 above.
+[39] Metrobec at para 28.
+[40] Lynch v Canada, 2017 FCA 248 [Lynch].
+[41] Tremblay v The Queen, 2003 TCC 703 [Tremblay].
+[42] Lynch at paras 16 and 19.
+[43] Lynch at para 18.
+[44] Tremblay at para 11.
+[45] Ross v The Queen, 2008 TCC 650 [Ross] at paras 12–15.
+[46] It should be noted that Ross does not explicitly cite 116(4), but the case involved a failure to observe time limits in the context of sections 113 and 114, to which subsection 116(4) applies.
+[47] MacDonald v The Queen, 2010 TCC 107 at para 7.
+[48] In interpreting subsection 116(4), recourse to provisions that apply in similar circumstances and provide similar remedies ensures that the Rules are construed so that, as much as possible, “there [is] no repugnancy or inconsistency between [their] portions or members”. See Victoria (City) v Bishop of Vancouver Island, [1921] 2 AC 384.
+[49] MacIver v Canada, 2009 FCA 89 at paras 8–9. Also, Sykes v The Queen, [2001] 4 CTC 2815 (TCC), a case dealing with paragraph 110(c). Interestingly, in the latter case, the Crown had previously moved to have the appeal dismissed (see Sykes v R, [2001] 4 CTC 2811 (TCC)), but this Court gave the taxpayer another chance and warned him of the potential consequences should he fail to comply with the orders again.
+[50] Cameco Corporation v The Queen, 2014 TCC 367 at para 29, citing Yacyshyn v Canada, 1999 CanLII 7552 (FCA) at para 18. See also Rezek v Canada, [2000] 1 CTC 143 (FCA); Teelucksingh v The Queen, 2010 TCC 94 at para 6. A fortiori, to dispose of an appeal outright merely because a party answered the questions late or failed to complete another procedural step on time would seem a drastic solution. See Dick v Canada, 2000 CanLII 15113 (FCA) at para 6 and BW Strassburger Ltd. v The Queen, [2001] 3 CTC 2711 at para 10 (TCC), var’d 2002 FCA 332 but not on this point.

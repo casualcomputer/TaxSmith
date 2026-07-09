@@ -1,0 +1,158 @@
+Title: Zandi v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30929/index.do
+Corpus path: corpus/cases/tcc/2012/2012-tcc-259-30929-zandi-v-the-queen-en.md
+Document type: case_law
+Last modified: 2012-08-21
+
+# Zandi v. The Queen
+
+- Citation: 2012 TCC 259
+- Decision date: 2012-08-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7440, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Zandi v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-08-21
+Neutral citation
+2012 TCC 259
+File numbers
+2011-520(IT)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-520(IT)I
+BETWEEN:
+HAZHIR ZANDI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on March 20, 2012, at Montreal, Quebec.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Valerie Messore
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2007 taxation year is allowed and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment with respect to the interest calculation on the basis that the last date applicable for the carry-back of net capital losses in the amount of $117,548 was 30 days after July 29, 2009, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 21st day of August 2012.
+"Réal Favreau"
+Favreau J.
+Citation: 2012 TCC 259
+Date: 20120821
+Docket: 2011-520(IT)I
+BETWEEN:
+HAZHIR ZANDI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Favreau J.
+[1] The taxation years in issue in this appeal are 2007 and 2008. The Appellant was reassessed arrears interest and assessed late filing penalties in respect of unpaid taxes for the 2007 taxation year, and for his 2008 taxation year he was reassessed to allow $3,675 as a tuition tax credit amount in the calculation of the non-refundable tax credits for that year that were carried back from the 2007 taxation year.
+[2] In so reassessing the Appellant, the Minister of National Revenue (the “Minister”) relied on sections 3, 38 and 39, subsections 111(3), 111(8), 118.5(1), 118.61(2), 150(1), 152(4.3), 152(6), 161(1), 161(7), 161(11), 162(1), 162(11), 165(1), 169(1), 248(1) and 248(11), and paragraphs 150(1)(d) and 111(1)(b) of the Income Tax Act, R.S.C. 1985, c. 1 (5th Suppl.), as amended (the “Act”).
+[3] The issues to be decided in these appeals are the following:
+(a) Whether the Tax Court of Canada has jurisdiction to hear the appeal for the 2008 taxation year;
+(b) Whether the Minister correctly applied the net capital losses from prior and subsequent years to the 2007 taxation year;
+(c) Whether the Minister correctly determined that the non-refundable tax credits for the tuition fee amount were to be carried forward to the 2008 taxation year from the 2007 taxation year;
+(d) Whether the Minister correctly assessed the late-filing penalties for the 2007 taxation year;
+(e) Whether the Minister correctly calculated the interest on the amounts due for the 2007 taxation year.
+[4] In making the reassessments, the Minister relied on the following assumptions of fact:
+a) The Appellant is required to file his income tax returns for the 2007 and 2008 taxation years on June 15, 2008 and April 30, 2009, respectively for the taxation years;
+b) The Appellant had filed the 2007 Income tax return on July 29, 2009 thus 13.5 months late from the required date to file;
+c) In issuing the initial assessment for the 2007 taxation year the Minister applied the net capital losses from the earliest years first, 2000, in the amount of $73,331 as per Income tax return filed by the Appellant;
+d) In issuing the reassessment of March 29, 2010 the Minister reassessed as requested by the T1A form as submitted with the 2008 Income tax return, applying net capital losses in total $133,367 [sic], the amount composed of $16,089 for the balance of net capital losses available from the 2000 taxation year and $117,548 carried back from the 2008 taxation year;
+e) In assessing the late filing penalties at the reassessment of March 29, 2010 the Minister considered that the request of such application was January 14, 2010 and that $117,548 was for a carry back from the 2008 taxation year;
+f) Following the treatment of the objection the Minister applied the amount of $73,740 net capital loss carried back from the 2008 taxation year;
+g) Notwithstanding the requested application from the Appellant, dated July 29, 2009 per T1A in the 2008 Income tax return, the Minister in applying the net capital losses from other taxation years applied the net capital losses from the preceding taxation years first and followed by the net capital losses of subsequent taxation years;
+h) The date for the net capital loss application request was the date of the filing of the Notice of Objection for the 2007 taxation year, April 15, 2010;
+i) As the result of the reassessment of January 18, 2011 was the elimination of the Part I tax for the taxation year the Minister carried the tuition credit amount, $3,675 in the calculation of the non refundable tax credits for the taxation year to the 2008 taxation year;
+j) In assessing the interest at the reassessment of January 18, 2011 for the 2007 taxation year, the Minister considered the date of the net capital loss request as being April 15, 2010, the date of receipt of the Notice of Objection requesting the same, and the fact that the balance outstanding for Income tax and penalties for the 2007 taxation year at that date were [sic] $10,647.52 for tax and penalties $6,467.01 at April 15, 2010.
+[5] In assessing the late-filing penalties pursuant to subsection 162(1) of the Act the Minister considered the following:
+a) The Appellant had filed the income tax return late;
+b) At the required time to file the income tax return for the 2007 taxation year the Appellant had a balance of net tax unpaid $38,041.24;
+c) The late filing penalties could not be reduced by the last reassessments of January 18, 2011 and partly for the reassessment of March 29, 2010 as such reassessments were for the application of net capital losses of subsequent years, and such losses were unknown at the time the Appellant was required to file the Income tax return for the taxation [year], and thus before such subsequent application the Part I tax unpaid for the 2007 taxation year was $38,041.24.
+[6] At the commencement of the hearing, counsel for the Respondent brought a motion to quash the appeal for the 2008 taxation year on the basis that the Appellant’s appeal with respect to that taxation year was not properly before the Court as the Appellant had not filed a notice of objection to the reassessment dated January 18, 2011 and, therefore, a precondition to the filing of the appeal had not been met. By an order of the Court dated March 29, 2012, the Respondent’s motion was allowed and the purported appeal was quashed.
+The Net Capital Losses Applications
+[7] At the hearing, counsel for the Respondent explained how the Minister applied the Appellant's net capital losses.
+[8] The Appellant filed his income tax returns for his 2007 and 2008 taxation years on July 29, 2009. He was required to file his 2007 income tax return on June 15, 2008 (business income) and his 2008 income tax return on April 30, 2009.
+[9] In his 2007 income tax return, the Appellant reported taxable capital gains in the amount of $280,707.38 and he applied against that amount a net capital loss of $73,331.18 carried forward from the year 2000.
+[10] On November 23, 2009, the Minister issued an initial assessment with respect to the Appellant’s 2007 income tax return, which was assessed as filed.
+[11] In his 2008 income tax return, the Appellant reported a net capital loss in the amount of $198,153.78 and by means of a T1A Form the Appellant requested a net capital carry-back in the amount of $133,637.29 to be applied to his 2007 taxation year.
+[12] On August 24, 2009, the Minister issued an initial assessment with respect to the Appellant’s 2008 income tax return, which was assessed as filed.
+[13] On January 14, 2010, the Appellant sent by fax to the Canada Revenue Agency (“CRA”) a T1A Form requesting that a net capital loss in the amount of $133,637.29 be applied to his 2007 taxation year.
+[14] On March 29, 2010, the Minister issued a reassessment as per the Appellant’s request in the T1A Form filed for his 2007 taxation year. By that reassessment:
+(a) a net capital loss in the amount of $133,637.29 was applied against the taxable capital gains in the amount of $280,707.38 that he had earned in 2007;
+(b) the Minister applied $16,089 as a carry-forward from the year 2000;
+(c) the Minister applied $117,548 as a carry-back from the year 2008.
+[15] As a result of the initial assessment and the subsequent reassessment of March 29, 2010, a total of $89,420 was applied as a carry-forward from the year 2000 and a total of $117,548 was applied as a carry-back from the 2008 taxation year against the taxable capital gain earned in 2007 ($280,707), for a total of $206,968. Thus, after the March 29, 2010 reassessment, which applied the net capital loss requested by the Appellant on his T1A Form, there remained a taxable capital gain in the amount of $73,740 for the Appellant’s 2007 taxation year.
+[16] On April 15, 2010, the Appellant filed a notice of objection to the Minister’s reassessment dated March 29, 2010, asking that the Minister deduct his net capital losses from other years from his taxable capital gain earned in 2007 such that he would not owe any income tax for that year and not to be liable for any interest or penalties.
+[17] On January 18, 2011, the Minister issued reassessments for the Appellant’s 2007 and 2008 taxation years.
+[18] The Minister reassessed the Appellant’s 2007 taxation year as per his notice of objection, applying a net capital loss in the amount of $73,740 carried back from 2008 against the taxable capital gain that he had earned in 2007, thus reducing the Appellant's income to nil for that year. The Minister also removed the Appellant’s tuition tax credit in the amount of $3,675 for his 2007 taxation year. As his income was nil, the Appellant did not need that credit.
+[19] For the Appellant's 2008 taxation year, the Minister simply carried over the tuition tax credit of $3,675 from 2007 and applied it to 2008.
+[20] In light of the foregoing, I consider that the Minister correctly applied the net capital losses from prior and subsequent taxation years to the 2007 taxation year. In assessing the Appellant initially on November 23, 2009, then reassessing him on March 29, 2010 and again on January 18, 2011, the Minister simply applied the net capital losses against the taxable capital gain earned in 2007, in compliance with the requests of the Appellant and with the relevant provisions of the Act.
+The Late-Filing Penalties
+[21] At the hearing, counsel for the Respondent explained how the Minister assessed penalties pursuant to section 162 of the Act in respect of the Appellant’s 2007 taxation year.
+[22] The Appellant was required to file his 2007 income tax return on June 15, 2008. As the Appellant failed to file his income tax return for that year by June 15, 2008, he became liable to a late-filing penalty under subsection 162(1) of the Act.
+[23] The penalty is calculated by adding 5% of the person’s tax payable for the year that was unpaid when the return was required to be filed and 1% per month late to a maximum of 12% of the person’s tax payable for the year that was unpaid when the return was required to be filed. In the present case, the percentage to be used is 17%, being 5% plus 12%, as the Appellant was more than 12 months late.
+[24] The tax payable for 2007 that was unpaid when the return was required to be filed was $38,041. This amount takes into account the carry-forward of $89,420 from the year 2000 but, by virtue of subsection 162(11) of the Act, not the loss carry-back from the year 2008.
+[25] Subsection 162(11) of the Act reads as follows:
+(11) For the purpose of computing a penalty under subsection 162)(1) or 162(2) in respect of a person’s return of income for a taxation year, the person’s tax payable under this Part for the year shall be determined before taking into consideration the specified future tax consequences for the year.
+[26] The expression “specified future tax consequence” is defined in subsection 248(1) of the Act and it includes, as stated in paragraph (a) of the definition:
+the consequence of the deduction or exclusion of an amount referred to in paragraph 161(7)(a).
+[27] Paragraph 161(7)(a) of the Act lists deductions and exclusions which are considered to be specified future tax consequences. Subparagraph 161(7)(a)(iv) specifically refers to a deduction under section 111 in respect of a loss for a subsequent taxation year.
+[28] Consequently, the net capital loss incurred in 2008 cannot be taken into account when considering the Appellant’s tax payable for his 2007 taxation year when the return for that year was required to be filed.
+[29] The Minister correctly applied subsections 162(1) and 162(11) of the Act in assessing the late-filing penalty and in calculating it at $6,467.
+[30] This interpretation of the relevant provisions of the Act is supported by the decisions rendered by this Court in Leach Bros. Stores Ltd. v. M.N.R., 85 DTC 94 and in Reemark Chelsea Terraces Project Limited v. The Queen, 93 DTC 469.
+The Interest Calculation
+[31] At the hearing, counsel for the Respondent explained how the Minister calculated interest on the tax payable by the Appellant in respect of his 2007 taxation year.
+[32] Subsection 161(1) of the Act provides that where, at any time after a taxpayer’s balance-due day for a taxation year, the total of his tax payable exceeds the total of the amounts paid against tax payable, the taxpayer is required to pay interest at the prescribed rate on the excess, computed for the period during which the excess is outstanding.
+[33] The expression “balance-due day” is defined in subsection 248(1) of the Act and means, where the taxpayer is an individual, April 30 in the following taxation year. In the present case, the Appellant’s balance-due day is April 30, 2008, even if the Appellant was only required to file his 2007 income tax return on June 15, 2008.
+[34] From the T1/T3 Interest Calculation dated March 15, 2011, filed as Exhibit R-3, it is clear that the CRA began calculating interest on April 30, 2008 on the unpaid tax payable balance of $38,041, which figure takes into account the effect of the carry-forward of the net capital loss from the year 2000, but, in accordance with subparagraph 161(7)(a)(iv) of the Act, not the effect of the carry-back of $191,288 from the year 2008.
+[35] Subparagraph 161(7)(a)(iv) of the Act provides in essence that, in computing interest on tax for a taxation year, the tax payable for the year is deemed to be the amount it would be if the consequences of the deduction under section 111 in respect of a loss for a subsequent taxation year were not taken into consideration.
+[36] Subparagraph 161(11)(a)(i) of the Act provides that where a taxpayer is required to pay a penalty under section 162, he is liable to pay interest thereon at the prescribed rate from the day on which his income tax return was required to be filed.
+[37] In the present case, the Appellant was required to file his 2007 income tax return on June 15, 2008. Therefore, as of June 15, 2008, the Appellant was liable to pay interest on the penalty assessed of $6,467 in addition to the interest on the unpaid tax payable.
+[38] At the hearing, counsel for the Respondent suggested a small change to the benefit of the Appellant in the interest calculation, a change resulting from the fact that the Appellant had previously submitted the T1A Form on July 29, 2009 when he filed his income tax return for 2008. The Minister should therefore have considered July 29, 2009 as the date upon which the T1A Form was filed for the first time in accordance with subsection 152(6), and not January 14, 2010, the date on which the Appellant faxed the same T1A Form to the CRA.
+[39] Subparagraph 161(7)(b)(iii) of the Act provides that, for the purpose of computing interest under subsection 161(1) or 161(2) of the Act, the amount by which the tax payable by the taxpayer for the year is reduced as a consequence of a deduction under section 111 of the Act in respect of a loss for a subsequent taxation year is deemed to have been paid on account of the taxpayer’s tax payable for the year on the day that is 30 days after the day on which the prescribed form T1A was filed in accordance with subsection 152(6) of the Act.
+[40] As the Appellant filed a T1A Form requesting the carry-back of a net capital loss on January 14, 2010, the deduction was considered by the Minister as having effect 30 days later, that is, February 13, 2010.
+[41] However, applying correctly subparagraph 161(7)(b)(iii) of the Act, the Minister should have considered the deduction as having effect 30 days after July 29, 2009, thus on August 28, 2009. That has an impact on the interest calculation in that the Minister should have reduced 30 days after July 29, 2009 the amount of tax payable by the Appellant for 2007 as a consequence of the deduction of $117,548 that was carried back from the 2008 taxation year.
+[42] Counsel for the Respondent explained, however, that the Minister was correct in reducing 30 days after April 15, 2010 the amount of tax payable by the Appellant for 2007 as a consequence of the deduction of the amount of $73,740 carried back from 2008 as per his notice of objection filed on April 15, 2010, which objection resulted in the reassessment of January 18, 2011.
+[43] The Minister relied on subparagraph 161(7)(b)(iv) of the Act, which provides that, for the purpose of computing interest under subsection 161(1) or 161(2) of the Act, the amount by which the tax payable by the taxpayer for the year is reduced as a consequence of a deduction under section 111 in respect of a loss for a subsequent taxation year is deemed to have been paid on account of the taxpayer’s tax payable for the year on the day that is, where, as a consequence of a request in writing, the Minister reassessed the taxpayer’s tax for the year to take into account the deduction 30 days after the day on which the request was made.
+[44] The request in writing which resulted in the reassessment of January 18, 2011 was made on April 15, 2010 and the deduction is thus to be considered as having effect 30 days later, that is May 15, 2010.
+Conclusion
+[45] The appeal from the reassessment made under the Act for the 2007 taxation year is allowed and the matter is referred back to the Minister for reconsideration and reassessment with respect to the interest calculation on the basis that the last date applicable for the carry-back of net capital losses in the amount of $117,548 was 30 days after July 29, 2009.
+Signed at Ottawa, Canada, this 21st day of August 2012.
+"Réal Favreau"
+Favreau J.
+CITATION: 2012 TCC 259
+COURT FILE NO.: 2011-520(IT)I
+STYLE OF CAUSE: Hazhir Zandi v. Her Majesty the Queen
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: March 20, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: August 21, 2012
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Valérie Messore
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

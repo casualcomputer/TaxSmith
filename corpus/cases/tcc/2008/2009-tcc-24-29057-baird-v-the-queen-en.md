@@ -1,0 +1,314 @@
+---
+title: "Baird v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29057/index.do"
+last_modified: "2008-02-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 24"
+citation2: ""
+neutral_citation: "2009 TCC 24"
+decision_date: "2008-02-02"
+language: "en"
+item_id: "29057"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6804
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:35:19.210000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b10a7651c41aa744194652d2a4483b8d5c58dd69f22900e145d67222d9146d79"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Baird v. The Queen
+
+- Citation: 2009 TCC 24
+- Decision date: 2008-02-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6804, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Baird v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-02-02
+Neutral citation
+2009 TCC 24
+File numbers
+2006-2653(IT)G
+Judges and Taxing Officers
+Theodore E. Margeson
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-2653(IT)G
+BETWEEN:
+IAN BAIRD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on November 6 and 7, 2008, at Toronto, Ontario
+Before: The Honourable Justice T. E. Margeson
+Appearances:
+Counsel for the Appellant:
+Howard W. Winkler
+Counsel for the Respondent:
+André Leblanc and Andrew Miller
+____________________________________________________________________
+JUDGMENT
+The appeals from assessments made under the Income Tax Act for the Appellant’s 2001, 2002 and 2003 taxation years are dismissed with costs.
+Signed at Ottawa, Ontario, this 2nd day of February 2009.
+“T. E. Margeson”
+Margeson J.
+Citation: 2009TCC24
+Date: 20090202
+Docket: 2006-2653(IT)G
+BETWEEN:
+IAN BAIRD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Margeson J.
+[1] These appeals are from assessments of the Minister of National Revenue (the “Minister”) for the Appellant’s 2001, 2002 and 2003 taxation years.
+[2] By those assessments the Minister reassessed the Appellant’s tax liability by disallowing business losses in the respective amounts of $539,419 and $559,338.
+[3] The Minister further reassessed the Appellant’s tax liability for the 2003 taxation year by disallowing $79,836 of non-capital losses carryforward from previous taxation years.
+[4] The parties agreed that the only issue was whether the losses in the taxation years 2001 and 2002, as a result of the disposition of the Appellant’s stock options in BCE Emergis (“Emergis”), were on account of capital or income.
+[5] The Appellant claimed these losses as non-capital losses from an alleged business of trading in securities in the taxation years 2001 and 2002.
+[6] In computing income for the 2003 taxation year, the Appellant claimed $79,836 as non-capital losses allegedly available for carryforward from previous taxation years.
+Evidence
+[7] Ian Munroe Baird testified that in the year 2000 he was 38 years of age. He has a Bachelor of Science in Biology and Business Administration from Memorial University in Newfoundland. He also studied at the University of Western Ontario in Investor Relations before the years in issue here. He also took a course in Business Resource Management but could not remember the date.
+[8] According to him, he was interested and involved in business matters since he was in grade seven. Later he took a job as executive director of the Y.M.C.A. at a business development centre. The centre had a team of consultants and their purpose was to give advice to student businesses.
+[9] They started a venture capital fund for student loans from banks and the federal government. In nine years they started 160 businesses.
+[10] After serving as aide-de-camp to the Lieutenant-Governor of Newfoundland for five years, he took a position with Thompsom and Southam newspapers. He was the publisher and general manager for a newspaper on the west coast of Newfoundland with a staff of 400 people. He later went to Ontario to run a technology business called Impact Media. He was the vice-president for business development and then general manager of another one of their businesses.
+[11] This work involved receiving information from publicly traded companies and disseminating it to the market. He was exposed to a great deal of information.
+[12] He became vice-president and general manager of Emergis and later vice‑president and general manager of Total Net which was on the leading edge of internet service provision in Canada. While there he worked an inordinate amount of time during the day, night and on weekends. By the time he left in 2000 Emergis had increased its staff from several hundred to several thousand.
+[13] He described his spouse as a physiotherapist and a tri-athlete. She moved to France and Australia to train for the 2000 Olympics.
+[14] When he left Emergis to run a business of selling and trading stocks, he helped his wife in her training and co-ordinated media exposure. He attended her races and “helped her” but he said this did not impact his business. “I was free to stay in my office and do market business.” Up to 1999 (when his options became available) he had limited involvement in stocks. He had a few shares left to him by his father and had purchased a few through brokerage houses. He read financial sections of newspapers when he was growing up.
+[15] When he left Emergis he became entitled to 62,000 options. He left because it was becoming very taxing on him. Their stock was going up rapidly. He possessed a lot of wealth if he used his options when they vested but he did not sell them. “I had a chance to keep the paper, make a business and help my wife; to go into the market and speculate where the shares were going; I could take my shares and go into the market place and borrow money to pay for the shares and watch them grow to a profit.” He was leveraged to the extent of $800,000 for the Emergis shares.
+[16] It was his position that he intended to sell his shares at the first good opportunity.
+[17] The shares paid no dividends. He was exposed to a lot of information in the ‘tech’ industry and he believed that he could invest in the business, including Emergis outside of the company. “I risked a whole lot of money to do so.”
+[18] In December 2000 he took up the options and the debt. Up until that time he was being financed by Emergis.
+[19] Between February 2000 and December 2000, 90 to 95% of his portfolio was in Emergis. He set up a direct line to the market by obtaining a specialized trading account as referred to in Exhibit R-1, Tabs 40 and 41. He had “multiple screens to the market and multiple windows inside them”. He could keep an eye on the stock and as to what it was doing.
+[20] He had an advanced view of the bidding and asking prices. He subscribed to analysts’ reports and information on futures. He looked for opportunities to make a move, mostly in the North American markets.
+[21] In February 2000 there was a “tech and com meltdown”. Tech stock like Emergis was dropping but the company was still profitable. He believed that the stock would come back up. He held on and waited for the time that it would come back up and that is when he would make his move and make his profit.
+[22] When he exercised his options n December 2000 he was of the belief that Emergis stock would rebound. He did not want to give up.
+[23] He borrowed the money to buy the stock and waited for the point when the price would rebound and he could make money.
+[24] He made five to ten trades in 2000. It was a very volatile market. He was referred to Exhibit R-1, Tab 13 which was his 2000 income tax return and where he had claimed a taxable capital gain of $39,173.28. He admitted that he had not reported any business income or loss in that year.
+[25] He left it up to his accountant. Then he said that he did not know whether he met his accountant or not. He believed that he talked to his accountant about what his business was doing.
+[26] In 2001 he sold his first option shares. He was deeply in debt and he was forced to sell one-half of his holdings in Emergis to pay down his debt. He was told by Price Waterhouse that he was not diversified enough. He kept some of the shares hoping that the price would come back up.
+[27] He bought shares in Dell and Nortel and intended to benefit from the growth. Research in Motion was a quick buy and sell. They went up a bit so he decided to sell. He was in debt and highly leveraged. He agreed that he had only five to ten trades or less. His plan was to trade as much or little on the market depending on his ability to borrow
+[28] In 2001 after he got the shares the market was bad and he got concerned as to how he could make a living. He mentioned to other people that he might be looking for a job.
+[29] He was offered a job at Platform. He was employed full-time there but checked his stock at night.
+[30] He was referred to Exhibit R-1, Tab 46, which was his TD Waterhouse Investment Income Summary for 2001, and said that he sold some Emergis stock because he no longer felt that it was a reasonable option to keep them. He could still make a profit at that point.
+[31] In 2002 he sold the rest of his shares in Emergis to pay off his debt.
+[32] In cross-examination he said that during the period in issue he ran a consulting business but not before 2001. From the moment he left Emergis in February 2000 up to April 2001, he was in the business as a trader in securities. He was not a trader in securities prior to February 2000 and not in 2003.
+[33] Prior to 2002 the Appellant said that he dabbled in the stock market through a broker. On July 1, 1999 he opened an account as a direct trader. He admitted that you could have a direct trading account and not be in the business of trading. But when he left Emergis he changed the status of his direct trading account to a “non review and non intervention account” but he did not know when that was.
+[34] He could not explain why there was no reference in his portfolio summary for the period May to October 2000. He said that he never asked about that period.
+[35] He signed up for the premium account but there was no written documentation about the direct access account so it had to have been done by telephone.
+[36] He agreed that anyone could access the internet and obtain the information set out in Exhibit R-1, Tab 40 but he could not say whether that was the case for the charts set out in Exhibit R-1, Tab 41. However, he had a president’s account and could access information that was not available to others.
+[37] The fee for his platform trading account was waived but he did not know when it was opened or the criteria for it.
+[38] He did not have any specific stock trading experience before 2001. He took a course in February 2001 with the Canadian Securities Institute and paid $415 for it. Anyone could take it. It is for someone who wishes to be a licensed broker. He took it for knowledge only and not because he wanted to be a broker. He took the course to get the manuals and reading material. There were no classes. He read reports at night after the market closed. He also read newspapers.
+[39] With respect to his wife’s sports career, he was her assistant coach, media manager and discussed her training program. He also organized interviews. He went to Australia around August 2000 in an effort to help her. He believed that on paper he had enough money to do that.
+[40] When he left Emergis he received a nine months salary of $112,500 and a car allowance of $800 per month.
+[41] He was asked about an interview he did with Radio Canada where he was quoted as saying that he left his new job to be with his wife. He said that he was her assistant coach, her “secret weapon” and her manager. She also had a team of coaches around her.
+[42] He discussed her training schedule and talked about setting up interviews but that did not take a lot of his time. He also assisted her financially. He could be looking at the internet when he was away at events. He could check the stocks at internet cafes.
+[43] He was in Sydney, Australia for one week; Hawaii for a weekend; at the Olympics for four weeks and in Cancun, Mexico for five days.
+[44] He was referred to his Curriculum Vitae in Exhibit R-1, Tab 20 where he said that he had resigned his position at Emergis to become a trader. He said that this was an attempt to explain why he was not working.
+[45] He identified his Curriculum Vitae in Exhibit R-1, Tab 20, which he presented when he was applying for a job at Platform but it did not indicate that he was a trader. His explanation was that he did not want to show that he was a failed trader, but instead wanted to capitalize on the “Olympic theme”. Also, he did not think that it was important to indicate that he was a trader in shares.
+[46] He did include business income in his 1996 income tax return which was from Fridge Rentals. In 1998 he included employment income from Emergis as well as in 1999. There was no business income. The situation was the same in 2000. He also reported taxable capital gains from the disposition of three different groups of shares.
+[47] He said, “I assume that I gave my business information to my accountant. I discussed what I was doing that year. I told him that I was in the business of trading shares. He made a mistake; it should have been treated as income. We did not discuss the advantages or disadvantages of reporting it as business income or capital gains or losses”.
+[48] In 2001 he went into more detail with his accountant and he told him that they should treat him as a trader in 2001.
+[49] On the day that he left Emergis he could have sold his shares and made $7,000,000 to $10,000,000. In December when he exercised his options the shares were trading at $42 per share.
+[50] After looking at his 2001 income tax return found in Exhibit R-1, Tab 15, he agreed that Nortel did pay dividends of $2,121.06 in 2001. He also reported business income from his consultant business and more from sales, commissions or fees of $1,235,550 and showed a net loss of $586,889.95.
+[51] His accountant made the so-called election as seen on pages 27 and 28 of his 2001 income tax return. But it was not made based upon his losses. There was no discussion about filing an amended return for the year 2000.
+[52] He did not claim any expenses for the home for his business as a trader because he owned all of the equipment. The Emergis shares he sold in the year 2000 were not part of the options in question here.
+[53] He admitted that in the year 2001 that he claimed no business expenses for the use of his home for his trading business but did claim them for his consulting business. He left that up to his accountant.
+[54] He did not report a capital gain in 1999 because he must have broken even or lost.
+[55] He did not do much actual trading but he was watching the market continually because the market was so volatile and he was trying to pick the right time to sell. He was trying to understand what was going on in the market.
+[56] He sold the first group of the shares in question in 2001 because he was told to diversify or pay back the loans. The lenders knew that tech stocks were not doing very well so they changed the margins and said that if he did not sell then, they would.
+[57] In re-direct he said that establishing the direct trading account was not a part of the steps he took to become a trader.
+[58] Irving Gurau has been a chartered accountant for 30 years. The Appellant was a client of his during the years in question. Sometimes the Appellant brought documents to his office and sometimes he sent them in. He referred to him as a ‘last minute person’ or a ‘once a year client’.
+[59] He did not necessarily meet with his client before the return was signed. His client was not a sophisticated person. He left it up to his accountant to do as he felt proper.
+[60] He agreed that the 2000 return of the Appellant showed no business income and the proceeds of the share dispositions were treated as a capital gain.
+[61] In the year 2000 the Appellant would have talked to him about leaving Emergis but he could not remember if they discussed his intentions. “Given the lateness of the date I must just have taken the information and put it in as it was”.
+[62] However, in the year 2001 he met with the Appellant and discussed his actions during the year. He told him that he was a trader and prepared his 2001 return as such.
+[63] He said, “in 2000 I cannot imagine that I would have put my mind to this question. We did in 2001”.
+[64] His position was that he had more time to think. He did not reflect back on the way the 2000 return was filed. He should have reported it as income. He further said, “the department did not seem too receptive to my filing an amended return for the year 2000”.
+[65] He denied that in 2001 the return was filed as income as opposed to capital just because there was a loss.
+[66] In 2001 the Appellant was highly leveraged; he took courses; he had all the services and he had the time to check the markets. It really seemed that he was in business.
+[67] In cross-examination he said that the information he had evolved out of the discussions he had with the Appellant. He did not say that he was having trouble with these losses but afterwards it came up about what he was doing.
+[68] It was his suggestion that the manner of reporting should be changed. It was his decision to describe the Appellant as a trader.
+Argument on Behalf of the Appellant
+[69] As indicated by counsel for the Appellant in his opening statement, he argued that the issue before the Court was whether or not the losses incurred in disposing of his shares (stock option shares) in Emergis were income (non-capital losses) or capital losses.
+[70] In the present scenario the Minister has deprived the taxpayer of the right to set off the losses as against income while taxing the benefits as income.
+[71] In 2000 when the Appellant left his active employment he embarked on a plan to deal in shares as an adventure in the nature of trade. One test to be applied, were there indicia of a trader in shares?
+[72] There is substantial evidence of his intention to become a trader. He had a great deal of entrepreneurial knowledge through his various jobs and his training which culminated in his special knowledge which he acquired while working for Emergis.
+[73] In 2000 when he left Emergis he started a plan to trade his option shares. This plan was to sell the shares at the best price when he exercised his options on December 2, 2000. The purchase of the shares was fully financed and managed through a leveraged account. He then embarked upon this trading business.
+[74] As a result of the ‘dot com’ crash and the devaluation of the shares he was forced to sell and repay the debt he had incurred in buying them.
+[75] The acquiring of the Emergis shares was an adventure in the nature of trade. It is important as to what the taxpayer’s intention was when he acquired the shares. Yet, in cross-examination, not one question was asked about his intention.
+[76] We have the uncontradicted evidence of the Appellant that his intention was to trade. Indicia of trading are not a necessary finding to support this intention even though it would support such a finding. In this case we have the intention as established by the Appellant’s evidence together with indicia of trading.
+[77] The Appellant’s plan was foiled by the market conditions. If the Appellant had profited from the sale the Minister would have had an overwhelming case to include these profits on account of income. We have Mr. Baird’s evidence of his intention to trade but we also have evidence that he was involved in an adventure in the nature of trade.
+[78] When the Appellant took up his options he borrowed substantial funds to pay for the shares ($700,000 +). He was fully leveraged. He could have sold the shares at that time and made millions and retired the debt. He did not.
+[79] He could have sold part of the shares, paid off his debt and then kept the rest of the shares as an investment (if his intention was to invest). He did not.
+[80] Based upon his special knowledge of the markets and in particular, the tech industry and Emergis, he risked it all. There could only be one reason why someone like him would do that. He expected to make a bigger profit. He speculated that he would make more. That is evidence of an adventure in the nature of trade. That is enough to dispose of this case.
+[81] There was no evidence of the possibility of dividends so as to find an investment intention. Now the Minister seeks to add insult to injury.
+[82] He referred to Howard v. R.[1] where Justice Sheridan decided a case in favour of the taxpayer which is on all fours with the present case. There Justice Sheridan elevated the taxpayer to a trader not just as one involved in an adventure in the nature of trade.
+[83] Counsel referred to the case at bar as a factual case.
+[84] Just because you are not selling does not mean that you are not involved in an adventure or concern in the nature of trade if there is a reason for not selling. His failure to sell was irrelevant. It was his intention and knowledge that that was important. There is no presumption that the shares are being held as capital[2].
+[85] The proper test is whether the taxpayer at the time of purchase, intended to resell the shares at a profit as soon as possible[3]. Here as there, Mr. Baird had made a significant acquisition and was risking it all.
+[86] It is not conclusive that he did not sell at the first opportunity. As to the frequency of transactions, one would be enough. It is irrelevant that he continued to hold until he was forced to sell[4].
+[87] The best evidence of his intention is the fact that he held on to them when he could have sold at a profit.
+[88] The shares that were sold in 2000 were not the options shares. This is not a case where he treated them in one way in one year and then in a different way in another year[5].
+[89] This case is about the treatment of his option shares. Mr. Baird and his accountant’s treatment of his option shares were consistent. The 2000 year disposition of the shares is a ‘red herring’. The only evidence as to his intention when he acquired his option shares was for a later profit. There were no dividends on the shares in issue. This case is on all fours with the Howard, supra, case.
+[90] Apart from the Appellant’s special knowledge of the markets and particularly of the shares in issue, there are additional indicia of trade. He opened a direct trading account; he watched it continuously; it was a non-review account and he had access to information that only traders would have. It is irrelevant that others could have the same access to information, because he testified that he used that information.
+[91] It does not matter how much time he spent on trading if it is an adventure in the nature of trade. He left his job and he was not living with his wife. Even if he were employed full-time, it still could have been an adventure in the nature of trade.
+[92] Just because he was forced to sell some shares in 2001 and did not want to sell his Emergis shares does not mean that he was not in business. The market was flat and he was monitoring it. By the time of the second disposition in 2002 he had given up. He had to sell to cover his debt. He never fulfilled his plan. His dispositions were forced upon him by market conditions. This had none of the markings of an investment. The very nature of the manner of acquiring the shares leads to only one conclusion, that this was an adventure in the nature of trade.
+[93] The appeals should be allowed with costs.
+Argument on Behalf of the Respondent
+[94] Counsel for the Respondent referred to the case of Irrigation Industries Ltd v. Minister of National Revenue[6] to review what he concluded were the general principles. The Court stated at paragraph 13 that “It is difficult to conceive of any case, in which securities are purchased, in which the purchaser does not have at least some intention of disposing of them if their value appreciates to the point where their sale appears to be financially desirable”.
+[95] It is not enough to argue that since he intended to sell them at a profit that that is enough to constitute an adventure in the nature of trade. At paragraph 14 the Court went on to say, “ I think that there must be clearer indications of ‘trade’ than this” (meaning the purchase on an isolated basis and not as a part of his regular business) “before it can be said that there has been an adventure in the nature of trade”
+[96] There must be a clearer intention of trade. Intention to sell it at a profit is not enough.
+[97] In Rajchgot v. R.[7], the Court stated at paragraph 17:
+The critical factor in determining whether a taxpayer’s acquisition of a property is for the purpose of investment or business is the intention of the taxpayer at the time of the acquisition of the property. Intention is to be ascertained from the appellant’s whole course of conduct.
+Counsel opined that the exercise of an option is not indicative of a trade.
+[98] With respect to frequency of the trades, the Court in Sandnes v. R.[8] did not consider that 11 trades were sufficient to indicate a trader in securities, neither did the Court consider that the likelihood of dividends was a significant factor.
+[99] Counsel referred to Funk v. Minister of National Revenue[9] at paragraph 20 which concluded that:
+… It would seem to be now well settled that an accretion to capital does not become income merely because the original capital was invested in the hope and expectation that it would rise in value.
+[100] As set out in Sullivan Estate v. R.[10] at paragraph 21 it was observed by the Federal Court:
+I may, nevertheless, be permitted to repeat an observation I have made in other cases dealing with a taxpayer’s intention, the favourable determination of such intention being basic to the plaintiff’s case. Statements or affirmations by a taxpayer of an intention is always evidence in the case. The weight to be given to such assertions however will be in more or less direct proportion to more objective evidence which is either more consistent with the stated intention or more inconsistent with it. When taken together, these two components, one way or the other, may together make for persuasive if not always conclusive evidence.
+[101] Counsel opined that the subjective evidence of Mr. Baird is not consistent with the objective evidence.
+[102] The Appellant stated in his evidence that he was a trader from the time he quit his job in February 2000 until April 2001 when he took a job with Platform. A letter from his accountant said that he spent an inordinate amount of time on this business and yet his Curriculum Vitae given in response to an undertaking made no mention of trading.
+[103] Further he did not mention that he spent time training his wife when he created this Curriculum Vitae. This would have taken away from the time he could have spent on any trading business. The best objective evidence of his intention is the Curriculum Vitae that he created for Platform. This was Exhibit R-2. It was created to inform his prospective employers about his experience. He told them that he resigned from his position at Emergis for the purpose of assisting in the training and coaching of his wife in her quest to make the Canadian Olympic team.
+[104] This Curriculum Vitae was created after his alleged trading business would have ended. This was the present evidence of his intention when he resigned. He did not take up the options until December even though he resigned in February. He took up these options only because they were about to expire. How could he say that he left to go into business when he did not exercise these options until December 2000.
+[105] From the time he left his job until he exercised his options he spent the time looking after his wife’s athletic ambitions.
+[106] What risk was there when he exercised these options? They were worth millions and he only borrowed $700,000.
+[107] Counsel disagreed with the Appellant’s argument that the case at bar was on all fours with Howard, supra. The Howard case dealt with a taxpayer who was still employed in the business of share acquisition while the Appellant here was receiving a retirement package.
+[108] In Howard, supra, the taxpayer did not sell even when the share price was increasing because he did not want to sell his shares while he was actively promoting their acquisition by would-be purchasers.
+[109] In the case at bar the Appellant did not buy more shares and did not sell any. He was looking into one particular share and had to be told to diversity.
+[110] If he was a trader, why not sell them before they fell below the price at which he purchased them?
+[111] It may be that the capital gain in 2000 is not the subject matter of the shares in this case but his action in other years is material. When there was a loss he treated them as income and when there was a gain he treated them as capital.
+[112] Counsel referred to the case of Lager v. The Queen[11] but said that case was different because it was not an option case and there was a real chance of loss when the shares were purchased but that is not the case here. There was no risk. All we have here is his own self-serving evidence in his favour. Against him is the Curriculum Vitae that he filed and the Radio Canada interview. This is clear, objective evidence of his intention to help his wife pursue her Olympic dreams.
+[113] His explanation as to why he did not include his trading business in his Curriculum Vitae presented to Platform, that he was ashamed of his failure, does not ring true because the Curriculum Vitae was created before he suffered his loss.
+[114] In 2000 he had very few transactions, he exercised his options in December 2000 and he reported his disposition as capital gains.
+[115] In 2001 he bought Celestica shares, (after he was employed at Platform); Nortel (March 2001); Research in Motion (March 2001); Dell Computer (2001) and sold the first of the Emergis shares.
+[116] In 2002 the only activity was in selling the rest of his Emergis stock. He purchased Vector after he started with Platform.
+[117] He said that he spent most of his time trading. Are these the actions of someone who said that he quit his job with Emergis to help his wife as can be seen from the Curriculum Vitae and the Radio Canada interview?
+[118] He did no research for these shares. They were handed to him on a platter. What he might have done was to keep his eye on them because he had a deadline to take up his options.
+[119] His 2000 return was done in April 2001. He said that he discussed his business with his accountant but his accountant said he did not remember any discussions about his business for the 2000 taxation year.
+[120] For the 2001 taxation year the Appellant’s accountant made the election based upon his taxable position and how to treat it. Further, his accountant had another client whose position sparked his recommendations for the Appellant. There was no need to elect under the Income Tax Act. It was an act of desperation. Further he did not file an amended return for the year 2000.
+[121] This was opportunistic tax planning triggered by the losses in those years.
+[122] He did not claim any expenses for an office in his home but he did for his consulting business.
+[123] Credibility is fundamental here, the differences between the Curriculum Vitae and the context speaks volumes here. There was no business.
+[124] The Appellant had a selective memory. He went into great detail about his experience but when asked about how much time he spent with his wife, he did not know. He could not remember when he switched to his premium account.
+[125] An adverse inference must be drawn because the wife did not testify. It could have substantiated his evidence.
+[126] The appeals should be dismissed, with costs.
+Rebuttal
+[127] In rebuttal counsel for the Appellant took issue with the way that counsel for the Respondent dealt with the evidence of the accountant.
+[128] Further he suggested that the Respondent was basing his whole case upon two things, the Radio Canada interview and the two Curriculum Vitaes. This is not a question of credibility.
+[129] After the Appellant exercised his options his actions are the most objective evidence of his intention. This conduct showed that he was involved in an exercise in the nature of trade. He was forced to exercise his options when he did and he waited to sell because the right time to sell had not arrived.
+[130] Most of his time was not spent with his wife. There was risk. He had shares worth $7,000,000 and decided not to sell. That was a risk.
+[131] After he left Emergis he still had more special knowledge than the ordinary trader. That does not diminish the fact that he was involved in an activity or adventure in the nature of trade.
+[132] Why did he not borrow more? He could not. The 62,000 shares acquisition was an adventure in the nature of trade. It is not conclusive that he did not make more trades. There was no evidence of investment. Most of the Minister’s argument was based upon his trading and not his intention.
+Analysis and Decision
+[133] As counsel for the parties argued, there are two issues in this case. The first issue is whether the actions of the Appellant in selling his share of Emergis in the taxation years 2001 and 2002 were “an adventure or concern in a nature of trade”. The second issue is whether the Appellant, during the relevant period was carrying on the business of stock trading (a trader).
+[134] If the Court should find that the Appellant was carrying on an adventure or concern in the nature of trade, it need not go further and the Appellant would be entitled to the relief he seeks. However, the Appellant has argued that he was a “trader” in shares and was therefore carrying on a “business” under the Act and was therefore entitled to claim any losses from such activity as a non-capital loss.
+[135] Counsel for the Appellant argued most emphatically that the intention of the Appellant from the outset was to hold the shares until he could sell them at a profit and this finding alone would be sufficient to allow him to have the deductions that the Minister has denied him.
+[136] However in Irrigation Industries Ltd., supra, Justice Martland of the Supreme Court of Canada concluded that the issue cannot be decided on that basis alone. He said, “I think that there must be clearer indications of “trade” than this before it can be said that there has been an adventure in the nature of trade”.
+[137] He also opined that “It is difficult to conceive of any case, in which securities are purchased, in which the purchaser does not have at least some intention of disposing of them if their value appreciates to the point where their sale appears to be financially desirable”.
+[138] Further, he did not think that it was a significant factor whether the shares were purchased with the taxpayer’s own money or with borrowed money.
+[139] Counsel for the Appellant seemed to conclude that this was an important factor which would tend to show that he was involved in an adventure in the nature of trade.
+[140] He also took exception to what he considered to be a substantial failure on the part of counsel for the Respondent in not asking any questions of the Appellant, when he testified, as to his intentions.
+[141] The Court does not consider this to be any weakness in the Respondent’s case. The Appellant’s evidence from the beginning was that his intention was to hold the shares and sell them later at a profit. It is extremely unlikely that he would have responded any differently to any question abut his intention if so asked by counsel for the Respondent.
+[142] Counsel for the Appellant said that in this case we have “intention together with indicia of trade”. However this Court is satisfied that the most substantial evidence about the Appellant’s intention here was his declared intention, after the fact and the number of trades that he did were not so substantial as to clearly indicate that he was a “trader”.
+[143] His declared intention must be corroborated by his whole course of conduct. In this case the Court is satisfied that his course of conduct does not lead to the conclusion that he was a trader.
+[144] The Court concludes that the exercise of his options, in itself, is not indicative of a “trader”. It is of significance that the options came about as a result of his employment and not because of any actions of the Appellant in the market place.
+[145] The Appellant argued that the evidence shows that he did not receive any dividends from the shares in question and that that supports his stated contention that the acquisition of the shares were not on account of capital.
+[146] However one could just as easily hold non-dividend bearing shares for the purpose of investment if the taxpayer believed that they would rise in value in the future.
+[147] Counsel for the Appellant placed great reliance upon the case of Howard v. R., supra, and concluded that the case at bar is on all fours with the Howard case. In that case, Justice Sheridan concluded that the taxpayer was elevated to the position of a trader because of his special knowledge of the market.
+[148] This Court makes no conclusion as to whether “special knowledge” of the market alone would be sufficient to raise a taxpayer to the position of trader, but it would think that this would only be one factor that would have to be taken into account in considering the more important factor of the “Appellant’s whole course of conduct” as referred to by Justice Rip, as he then was, in Rajchgot v. R., supra.
+[149] In Vancouver Art Metal Works Ltd. V. R.[12], the Federal Court of Appeal indicated in paragraph [13] that,
+… It is, however, a question of fact to determine whether one's activities amount to carrying on a trade or business. Each case will stand on its own set of facts. Obviously, factors such as the frequency of the transactions, the duration of the holdings (whether, for instance, it is for a quick profit or a long term investment), the intention to acquire for resale at a profit, the nature and quantity of the securities held or made the subject-matter of the transaction, the time spent on the activity, are all relevant and helpful factors in determining whether one has embarked upon a trading or dealing business.
+[150] There are similarities between the case at bar and Howard, supra, but the cases are not on all fours as was suggested. Significantly as pointed out by counsel for the Respondent, that case dealt with someone who was still engaged in the business and the learned trial judge concluded that he was in the dual role of a manager and promoter. He was paying attention to the market to such an extent that he characterized it by saying, “paying attention to the market was my daily living and breathing focus.”
+[151] That cannot be said to be the case at bar.
+[152] Further, as indicated, the taxpayer in Howard was actively promoting the acquisition of the Company’s shares to prospective investors.
+[153] The Court must have been duly impressed by these actions of the taxpayer in making the finding that it did in Howard, supra. The factual situation in the case at bar is not similar to these facts.
+[154] In the present case the Appellant was not buying more shares and he only sold his shares when he was told to do so by Price Waterhouse to diversify his holdings. Surely this was not the actions of a trader. He was basically locked into one category.
+[155] The Court is satisfied that the Appellant was not acting like a “trader” when he held on to the shares for such a long period of time even when they were continually decreasing in value. Surely if he was a trader with knowledge of the market as he indicated, he would have sold the shares before he was forced to do so. That is how a “trader” makes money or eliminates or minimizes his losses. He buys and sells.
+[156] The Court agrees with the submission of counsel for the Respondent that even though the treatment of the portfolio as a capital gain in the year 2000 was not with reference to the shares in issue in this case, his actions in previous years in treating some of his portfolio as capital is certainly relevant.
+[157] Counsel for the Respondent distinguishes Lager v. R., supra, on the basis that unlike the shareholder in that case, the present Appellant had no risk because he obtained the shares as a result of an option when the shares were worth much more than he paid for them. That was true but he did have to borrow money to purchase them and at one time he was forced to diversify his portfolio or pay back the borrowed money. That was certainly a risk.
+[158] In that case however, the Court was satisfied on the evidence that the Appellant did not act as an investor. The evidence before this Court does not satisfy the Court that the Appellant here, so acted.
+[159] In this case the Court is satisfied that the Appellant spent a considerable amount of time in managing, investing and being involved in his wife’s training. This was consistent with his statement made to Petro Canada that he was basically giving up his job with Emergis to help his wife achieve her goals as an “Olympian”.
+[160] This was also consistent with the information contained in his Curriculum Vitae that was prepared for his interview with Platform where he did not make any reference to being a trader in shares.
+[161] The Court is satisfied on the evidence that following his departure from Emergis he spent the majority of his time assisting in and following his wife’s career as an athlete. He spent some of his time checking the stock market and to a certain extent buying shares and even selling some of those shares. However his actions in buying and selling these shares were not as a “trader”. His actions in checking the stock market when he was on the road with his wife and in the evenings at home were not the actions of a trader and do not bring the Appellant within the factual situation as found by the Court in Howard, supra.
+[162] The Court was not impressed by the evidence of the accountant. His evidence was to a certain extent inconsistent with the evidence of the Appellant himself. The accountant said that he had not necessarily met with his client before he signed the income tax returns. He also said that he could not remember if the Appellant discussed his intentions with him after he left Emergis but due to the lateness of the date when the returns were completed he would have merely taken the information he received and completed the returns.
+[163] The Appellant said that he had discussed his business intentions with his accountant. This inconsistency cannot be explained by the accountant’s statement that the Appellant was not a sophisticated person with respect to taxation matters.
+[164] It is not reasonable to conclude that the Appellant would have gone into a business of stock trading without talking to his accountant about it and furthermore the Court is satisfied that it would not be reasonable for the Appellant to have no discussions about his actions during the year if he had truly started a business of stock trading.
+[165] It is to be noted that it was the accountant who took the action to describe the Appellant as a trader in shares in 2001 and not the Appellant.
+[166] The Court further finds the accountant’s explanation as to why he changed the designation in 2001 to that of a trader not to be reasonable. He said that he could not imagine that he would have put his mind to this question when preparing the return in 2000 but if we accept the evidence of the Appellant it is clear that they did talk about it.
+[167] It is also clear that the accountant did not file an amended return for the 2000 taxation year even after he decided that the Appellant was a trader in 2001. His explanation that Canada Revenue Agency did not seem amenable to this action is not a reasonable explanation if he had properly concluded that he was a trader.
+[168] It would also appear that this situation became apparent to him only because he had another client who was a trader in similar circumstances and not because of anything that the Appellant had told him.
+[169] The Appellant’s explanation as to why he did not include his trading business in his Curriculum Vitae for Platform was not reasonable.
+[170] The Court is satisfied that the explanation suggested by counsel for the Respondent is more likely to represent the true situation in light of all of the evidence given at trial. He suggested that it was opportunistic tax planning triggered by the losses incurred in those years.
+[171] It is also significant that the Appellant did not report any office in the home expenses with respect to his alleged trading business whereas he did claim such expenses with respect to his consulting business.
+[172] The Court must also draw a negative inference against the Appellant because his wife did not give evidence. Certainly one could have expected her to have been able to give relevant evidence with respect to the Appellant’s business and, in particular, could have testified as to the amount of time that the Appellant spent during the relevant years on her training and travelling with her to many places where she took part in sports events.
+[173] On the basis of all of the evidence and any reasonable conclusions that the Court is entitled to draw from the evidence, the Court is satisfied that the Appellant has failed to establish on a balance of probabilities that he was a trader or involved in an adventure in the nature of trade, during the years in issue.
+[174] The Appellant’s activity of buying and selling shares during the 2001 and 2002 taxation ears does not constitute a business as defined in subsection 248(1) of the Act and the losses incurred during those years resulting from the disposition of his shares were not losses from a business under subsection 9(2) of the Act but were capital losses pursuant to subsection 9(2) of the Act.
+[175] The Appellant is not entitled to carry forward non-capital losses during the 2003 taxation year that results from the disposition of shares in the 2001 and 2002 taxation years.
+[176] The appeals are dismissed with costs.
+Signed at Ottawa, Ontario, this 2nd day of February 2009.
+“T. E. Margeson”
+Margeson J.
+CITATION: 2009TCC24
+COURT FILE NO.: 2006-2653(IT)G
+STYLE OF CAUSE: IAN BAIRD AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: November 6 and 7, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice T. E. Margeson
+DATE OF JUDGMENT: February 2, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Howard W. Winkler
+Counsel for the Respondent:
+André Leblanc and Andrew Miller
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Howard W. Winkler
+Firm: Aird & Berlis LLP
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [2008] 3 C.T.C. 2398.
+[2] Howard v. R.., supra, at paragraph 31.
+[3] Howard v. R.., supra, at paragraph 33.
+Robertson v. R.., [1998] 3 C.T.C. 147 (Fed. C.A.) at paragraph 20.
+[4] Howard v. R.., supra, at paragraph 39.
+[5] Howard v. R.., supra, at paragraph 44.
+[6] [1962] C.T.C. 215 (S.C.C.).
+[7] [2005] 2 C.T.C. 2262.
+[8] 2004 DTC 2466.
+[9] 1965 CarswellNat 90.
+[10] [1990] 1 C.T.C. 170 (F.C.T.D.).
+[11] [1997] 3 C.T.C. 2119.
+[12] [1993] 2 F.C. 179.

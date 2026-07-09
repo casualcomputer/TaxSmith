@@ -1,0 +1,144 @@
+Title: Bodnarchuk c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27629/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-140-27629-bodnarchuk-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2007-03-08
+
+# Bodnarchuk c. La Reine
+
+- Citation: 2007 CCI 140
+- Decision date: 2007-03-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 450, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bodnarchuk c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-03-08
+Référence neutre
+2007 CCI 140
+Numéro de dossier
+2005-1339(GST)G
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2005-1339(GST)G
+ENTRE :
+GLENN MARTIN BODNARCHUK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 5 février 2007, à Vancouver (Colombie-Britannique).
+Devant : L’honorable juge en chef adjoint Gerald J. Rip
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimé :
+Me David Everett
+____________________________________________________________________
+JUGEMENT
+L’appel concernant la cotisation établie en vertu la partie IX de la Loi sur la taxe d’accise (la « LTA »), dont l’avis est daté du 10 juillet 2003 et porte le numéro A101433, pour la période du 1er juillet 1997 au 31 mars 2001, est accueilli, avec dépens, et la cotisation est renvoyé au ministre du Revenu national pour nouvel examen et établissement d’une nouvelle cotisation tenant compte du fait que l’appelant n’est pas responsable, aux termes du paragraphe 323(1) de la LTA, pour les versements que Sybarite était tenue de faire au titre de la taxe nette vers les 30 septembre 1997, 31 décembre 1997, 31 mars 1998, 30 juin 1998, 30 septembre 1998, 31 décembre 1998 et 31 mars 1999. Le 31 janvier 2001, il n’y avait de toute façon pas de taxe nette à payer.
+Signé à Ottawa, Canada, ce 8e jour de mars 2007.
+« Gerald J. Rip »
+Juge en chef adjoint Rip
+Traduction certifiée conforme
+ce 25e jour de mars 2008.
+Maurice Audet, réviseur
+Référence : 2007CCI140
+Date : 20070308
+Dossier : 2005-1339(GST)G
+ENTRE :
+GLENN MARTIN BODNARCHUK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge en chef adjoint Rip
+[1] Glenn Martin Bodnarchuk en appelle d’une cotisation établie pour un tiers par le ministre du Revenu national (le « ministre ») le 10 juillet 2003, aux termes du paragraphe 323(1) de la Loi sur la taxe d’accise (la « LTA »). La cotisation a été établie par le ministre à l’encontre de M. Bodnarchuk pour la somme de 141 328,24 $ au titre de la taxe sur les produits et services (la « TPS ») perçue par Sybarite Investments Ltd. (« Sybarite ») pour la période du 1er juillet 1997 au 31 janvier 2001 et non remise au receveur général du Canada, à l’époque où il était administrateur de Sybarite[1].
+[2] L’annexe A de l’avis de cotisation indique qu’aucune taxe n’a été payée pour la période se terminant le 31 mars 2001. Selon cet avis de cotisation, la dernière date à laquelle Sybarite a omis de remettre la taxe nette était le 31 janvier 2001.
+[3] Comme il y a conflit de dates entre l’avis de cotisation et une annexe jointe à l’avis, je retiendrai la date qui figure dans l’avis de cotisation; en l’espèce, la dernière date à laquelle Sybarite a omis de remettre la taxe était le 31 janvier 2001. Ni l’avis de cotisation ni l’annexe ne précise le montant de la taxe que Sybarite a omis de remettre le 31 janvier 2001; j’en conclus que ce montant était de zéro. Par conséquent, en m’appuyant sur la somme de 3 168,63 $ qui n’était payable que le 31 mars 2001, je déduirai cette somme du total établi. La somme en question est donc de 138 159,61 $.
+[4] Sybarite offrait des services de limousine et d’autobus à Victoria et à Vancouver. L’appelant travaillait au bureau de Vancouver de la société; son frère, Kenneth Bodnarchuk, travaillait à Victoria. L’appelant était président de la société, de même qu’administrateur et actionnaire. Son frère était également administrateur et actionnaire.
+[5] Pour résumer la situation le plus simplement possible, M. Bodnarchuk a déclaré que, même s’il était président et administrateur de Sybarite, c’est son frère qui dirigeait réellement la société, et ce, d’une manière arbitraire. L’appelant a dit qu’il était essentiellement un commis de bureau et un messager qui n’avait rien à dire dans les affaires de Sybarite. En fait, selon ce qu’il a déclaré, il relevait du directeur du bureau de Vancouver où il travaillait.
+[6] M. Bodnarchuk a reconnu sa responsabilité en vertu de la Loi de l’impôt sur le revenu (la « Loi ») à titre d’administrateur mais, il a insisté sur ce point, il a fait de son mieux.
+[7] Sybarite a été constituée en avril 1977 à une époque où M. Bodnarchuk[2] servait dans les Forces armées canadiennes en Égypte. Il a dit que sa signature avait été « contrefaite » dans les statuts de constitution. Toutefois, son frère, lui-même, sa mère, Adeline Bodnarchuk, et sa sœur, Patricia Kennedy, sont mentionnés comme étant les personnes qui ont constitué la société et les premiers administrateurs de Sybarite. M. Bodnarchuk n’a jamais intenté d’action pour contester la véracité de sa signature ou son statut d’actionnaire ou d’administrateur : [Traduction] « cela ne présentait aucun intérêt pratique ». Chacun des quatre membres de la famille détenait 25 p. 100 des actions en circulation de la société.
+[8] M. Bodnarchuk a déclaré dans son témoignage que, dès 1992, l’Agence du revenu du Canada (l’« ARC[3] ») et ses prédécesseurs lui ont envoyé des « lettres de menace » indiquant que Sybarite était en défaut de paiement de la TPS et des retenues sur les salaires. [Traduction] « Ils appelaient, nous payions. C’était la façon de faire les affaires ». M. Bodnarchuk a déclaré que, dans les années 1990, Sybarite devait de l’argent à tout le monde, sauf à ses employés. Si un fournisseur cessait d’approvisionner la société, celle-ci le payait. La même politique était suivie pour les sommes dues à l’ARC.
+[9] Au fil des ans, quand l’appelant recevait une lettre de l’ARC, il s’enquérait de la situation auprès de son frère et celui-ci lui répondait que [Traduction] « tout était en règle ». Il n’avait aucune influence sur son frère et ne faisait pas de suivi pour savoir si l’argent avait bien été versé. Il présumait que la taxe était payée étant donné qu’une partie de son travail à la société consistait à livrer les envois et qu’il allait remettre une enveloppe au bureau de l’ARC de Vancouver à peu près deux fois par mois.
+[10] Au début de 1996, Sybarite était encore en retard dans ses paiements de TPS. M. Bodnarchuk se rappelle que son frère avait réussi à obtenir du financement pour la société auprès de la Canadian Western Bank. La société a fait faillite le 16 février 2001, quant elle a déposé une proposition concordataire.
+[11] M. Bodnarchuk a déclaré dans son témoignage qu’il n’avait jamais eu de relation avec son frère. L’appelant n’a pas parlé à son frère depuis 2001. À son avis, une fois que celui-ci a obtenu le financement de la Canadian Western Bank, c’est son frère et sa belle-sœur qui contrôlaient la société. L’appelant a insisté sur le fait qu’il était administrateur en théorie seulement. Il a fait valoir qu’il avait été forcé d’être administrateur, sinon il aurait perdu son emploi chez Sybarite. Quand sa mère et sa sœur ont cessé d’être administratrices en 1994, son frère les a congédiées, même si chacune d’elles était actionnaire à part égale dans la société.
+[12] M. Bodnarchuk prétend que son poste chez Sybarite consistait à [Traduction] « se présenter au bureau » et à « faire ce qu’il y avait à faire ». Il n’avait aucun pouvoir de signature avant les derniers mois qui ont précédé la faillite de la société. C’est son frère qui [Traduction] « embauchait tous les employés ». L’appelant a déclaré qu’il n’avait aucune responsabilité véritable, même pas celle d’ouvrir le courrier. Il insiste sur le fait qu’il ne participait pas aux affaires courantes de la société; il « se contentait d’être présent sur les lieux » et il touchait son salaire. M. Bodnarchuk, qui a quitté l’école durant sa 12e année, a déclaré qu’à l’exception de son service dans l’armée, c’était la [Traduction] « seule chose que j’ai faite depuis que j’ai quitté l’école […] si j’avais démissionné comme administrateur, j’aurais perdu mon emploi ». Il touchait un salaire de la société, et cela lui suffisait.
+[13] Quand un document lui était présenté pour qu’il le signe en tant que président, il le signait; il lisait les documents qu’il signait. Il [Traduction] « intervenait » également quand il recevait des lettres d’avertissement de l’ARC et téléphonait à son frère pour lui demander si [Traduction] « on s’occupait de l’affaire ». Encore une fois, son frère lui répondait que tout était « en règle ».
+[14] Après 1996, M. Bodnarchuk est demeuré administrateur de la société, selon son témoignage, mais il n’a jamais consenti à porter ce titre. Il n’y avait pas de réunion des actionnaires pour élire les administrateurs. En réponse aux hypothèses sur lesquelles s’est appuyé le ministre pour établir la cotisation, M. Bodnarchuk a nié avoir signé les états financiers, déclarant qu’il ne les comprenait pas. Il a également répondu qu’il présumait que toutes les sommes dues au gouvernement avaient été payées [Traduction] « parce que nous payions après avoir eu un appel téléphonique ». Il a dit qu’il ne savait pas combien d’argent devait la société. Il savait que la société en devait à cause des conversations qu’il entendait dans le bureau. Dans les trois ou quatre derniers mois avant la faillite, il avait le pouvoir de signer des chèques et il signait [Traduction] « selon les instructions que m’envoyait Ken par télécopieur ».
+[15] M. Bodnarchuk a produit une copie d’une liste de dates auxquelles l’ARC a communiqué avec lui de mars 1994 à juillet 2003, quand les cotisations ont été établies. Les fonctionnaires du ministère ont conclu qu’ils s’étaient mis en rapport avec lui à au moins 34 reprises. Cela incluait les neuf lettres d’avertissement concernant la responsabilité de l’administrateur, la première ayant été envoyée en mai 1994 au sujet des retenues d’impôt sur le revenu prélevées mais non remises. La plupart de ces lettres étaient adressées aux deux frères. Des fonctionnaires ont également communiqué de vive voix avec M. Bodnarchuk pour l’informer de son « devoir de diligence raisonnable » et lui donner des mises en garde juridiques, et il a aussi eu un contact direct avec un agent de perception. Celui-ci a aussi appris les démarches faites en 1996 par M. Bodnarchuk pour hypothéquer sa maison afin de payer les sommes dues par Sybarite. En 1999, un agent de perception a averti M. Bodnarchuk qu’il devait [Traduction] « s’informer des affaires de la société ». Les autorités fiscales savaient aussi que M. Bodnarchuk avait demandé un prêt à la banque, mais qu’il n’avait pas rempli les conditions exigées.
+[16] Immédiatement avant la faillite de Sybarite, M. Bodnarchuk a commencé à signer les états financiers et à s’occuper du registre de paie. Son frère lui a dit : [Traduction] « ce sont tes nouvelles tâches ». M. Bodnarchuk a reconnu qu’il avait eu un rôle limité dans la procédure de faillite de Sybarite, se contentant d’écrire au syndic et de contacter l’ARC.
+[17] L’intimée prétend que Sybarite a omis de remettre un montant de taxe nette ou de payer la taxe comme l’exigent les paragraphes 228(2) et (2.3) ou l’article 230.1 de la LTA, tel qu’indiqué à l’article 323.1 de la LTA, et conformément à l’article 323.1, M. Bodnarchuk est tenu de payer ce montant, majoré des intérêts ou des pénalités qui s’y rapportent. La Couronne affirme que M. Bodnarchuk n’a pas agi avec autant de soin, de diligence et de compétence pour prévenir le manquement que ne l’aurait fait une personne raisonnablement prudente dans les mêmes circonstances : paragraphe 323(3) de la LTA.
+[18] Par ailleurs, M. Bodnarchuk prétend qu’il a fait preuve de toute la diligence possible dans les circonstances, que son frère était une personnalité dominante qui contrôlait les affaires de la société. M. Bodnarchuk se contentait de s’occuper de ses propres affaires – qui étaient minimes – et de se faire payer par la société.
+[19] Bien que le témoignage de M. Bodnarchuk ait été intéressé, comme on pouvait s’y attendre, ce témoignage n’a pas été affaibli en contre-interrogatoire. M. Randeep Hundal, agent des appels et témoin pour l’intimée, a examiné l’avis d’opposition de l’appelant; il a également dressé la liste des rapports de l’ARC avec M. Bodnarchuk, à laquelle celui-ci a par la suite renvoyé dans son témoignage. M. Hundal a déclaré qu’il y avait eu avec M. Bodnarchuk des rapports qui n’étaient pas mentionnés dans cette liste.
+[20] L’intimée fait valoir que M. Bodnarchuk n’est pas la victime innocente qu’il dépeint. Il connaissait les manquements de la société concernant le paiement de la taxe tout au long des années 1990 et il n’a pris aucune mesure pour payer la TPS au fur et à mesure qu’elle était due. La Couronne a rejeté la description que donne M. Bodnarchuk de son rôle à Sybarite. Après tout, il était le président de la société.
+[21] Le juge Robertson a résumé en ces termes, dans Soper c. Canada[4], aux paragraphes 37 et 38, ses conclusions concernant la norme de prudence exigée par le paragraphe 227.1(3) de la Loi :
+¶37 . . . Le moment convient bien pour résumer mes conclusions au sujet du paragraphe 227.1(3) de la Loi de l’impôt sur le revenu. La norme de prudence énoncée au paragraphe 227.1(3) de la Loi est fondamentalement souple. Au lieu de traiter les administrateurs comme un groupe homogène de professionnels dont la conduite est régie par une seule norme immuable, cette disposition comporte un élément subjectif qui tient compte des connaissances personnelles et de l’expérience de l’administrateur, ainsi que du contexte de la société visée, notamment son organisation, ses ressources, ses usages et sa conduite. Ainsi, on attend plus des personnes qui possèdent des compétences supérieures à la moyenne (p. ex., les gens d’affaires chevronnés).
+¶38 La norme de prudence énoncée au paragraphe 227.1(3) de la Loi n’est donc pas purement objective. Elle n’est pas purement subjective non plus. Il ne suffit pas qu’un administrateur affirme qu’il a fait de son mieux, car il invoque ainsi la norme purement subjective. Il est également évident que l’intégrité ne suffit pas. Toutefois, la norme n’est pas une norme professionnelle. Ces situations ne sont pas régies non plus par la norme du droit de la négligence. La Loi contient plutôt des éléments objectifs, qui sont représentés par la notion de la personne raisonnable, et des éléments subjectifs, qui sont inhérents à des considérations individuelles comme la "compétence" et l’idée de "circonstances comparables". Par conséquent, la norme peut à bon droit être qualifiée de norme "objective subjective".
+[22] Le juge Robertson a ultérieurement appliqué, à l’article 323.1 de la LTA, dans Drover c. Canada[5], la norme de prudence qu’exige le paragraphe 227.1(1) de la Loi (qu’il a décrite dans l’arrêt Soper, précité). Dans les deux arrêts Soper et Drover, il a examiné la responsabilité d’une personne qui est considérée comme un administrateur externe par opposition à un administrateur interne; la responsabilité ne dépend pas simplement du fait qu’une personne est considérée comme l’un ou l’autre. Il décrit les administrateurs internes de la façon suivante[6] :
+¶41 […] ceux qui s’occupent de la gestion quotidienne de la société et qui peuvent influencer la conduite de ses affaires, sont ceux qui auront le plus de mal à invoquer la défense de diligence raisonnable. Pour ces personnes, ce sera une opération ardue de soutenir avec conviction que, malgré leur participation quotidienne à la gestion de l’entreprise, elles n’avaient aucun sens des affaires, au point que ce facteur devrait l’emporter sur la présomption qu’elles étaient au courant des exigences de versement et d’un problème à cet égard, ou auraient dû l’être. Bref, les administrateurs internes auront un obstacle important à vaincre quand ils soutiendront que l’élément subjectif de la norme de prudence devrait primer l’aspect objectif de la norme.
+[23] Toutefois, le juge Robertson fait une mise en garde en signalant qu’une obligation expresse d’agir prend naissance lorsqu’un administrateur externe obtient des renseignements ou prend conscience de faits qui pourraient l’amener à conclure que les versements posent, ou pourraient vraisemblablement poser un problème potentiel. Il ajoute : « En d’autres termes, il incombe vraiment à l’administrateur externe de prendre des mesures s’il sait, ou aurait dû savoir, que la société pourrait avoir un problème avec les versements[7] ».
+[24] Une formation différente de la Cour d’appel a examiné le paragraphe 323(1) de la LTA dans l’arrêt Smith c. Canada[8]. La juge Sharlow a examiné la norme de prudence visée au paragraphe 323(1) de la LTA et au paragraphe 227.1(1) de la Loi aux paragraphes 9, 10, 11, 12, 13 et 14 de cet arrêt :
+¶9 L’arrêt Soper, précité, a établi que la norme de prudence décrite dans la défense de diligence raisonnable au sens de la loi est essentiellement la même que la norme de prudence en common law, établie dans l’arrêt City Equitable Fire Insurance Commission, In re, [1925] ch. 407 (C.A.). Il s’ensuit que ce à quoi on peut raisonnablement s’attendre d’un administrateur aux fins des paragraphes 227.1(1) de la Loi de l’impôt sur le revenu et 323(1) de la Loi sur la taxe d’accise dépendra des faits de l’affaire, avec un élément objectif et un élément subjectif.
+¶10 L’élément subjectif de la norme de prudence applicable à un administrateur donné dépendra de ses qualités personnelles, y compris ses connaissances et son expérience. En général, une personne expérimentée en affaires ou en questions financières sera tenue à une norme plus élevée qu’une personne qui n’a pas de connaissances ou d’expérience en affaires et dont le statut d’administrateur reflète, par exemple, un simple lien familial. Toutefois, la défense de diligence raisonnable ne sera d’aucune aide à un administrateur qui n’a pas tenu compte des obligations imposées aux administrateurs par la loi, ou qui n’a fait aucun cas d’un problème dont il connaissait l’existence, ou dont il aurait dû connaître l’existence comme toute personne prudente en pareilles circonstances (Hanson c. Canada, (2000) 260 N.R. 79, [2000] 4 C.T.C. 215, 2000 D.T.C. 6564 (C.A.F.)).
+¶11 En évaluant objectivement l’aspect raisonnable de la conduite d’un administrateur, il y a lieu de tenir compte de facteurs comme le volume, la nature et la complexité des affaires de la société, ainsi que de ses coutumes et pratiques. Plus une entreprise est importante et complexe, plus il sera raisonnable que les administrateurs se partagent les responsabilités, ou qu’ils délèguent le règlement de certaines questions au personnel de la société et à des conseillers extérieurs auxquels ils accordent leur confiance.
+¶12 La souplesse inhérente à la défense de diligence raisonnable peut créer des situations où une norme de prudence plus élevée s’impose à certains administrateurs d’une société par rapport à d’autres. Par exemple, il peut être approprié d’imposer une norme plus élevée à un « administrateur interne » (par exemple, un directeur ayant l’habitude de la gestion au jour le jour) qu’à un « administrateur externe » (comme un directeur qui connaît assez peu les affaires de la société et n’est impliqué que de façon superficielle).
+¶13 Ceci s’applique plus particulièrement s’il est démontré que l’administrateur externe a donné foi de façon raisonnable aux assurances données par les administrateurs internes que les remises d’impôts correspondant aux obligations de la société étaient effectivement versées. Voir notamment Cadrin c. Canada, (1998), 240 N.R. 354, [1999] 3 C.T.C. 366, 99 D.T.C. 5079 (C.A.F.).
+¶14 Dans certaines circonstances, le fait qu’une société soit en difficultés financières et donc à risque plus élevé que d’autres sociétés de ne pas verser ses remises d’impôts peut être un facteur qui milite pour une norme de prudence plus élevée. Par exemple, un administrateur qui connaît les difficultés financières de la société et qui décide sciemment de financer les opérations de la société avec les sommes prélevées à la source et non remises pourrait ne pas pouvoir invoquer la défense de diligence raisonnable (Ruffo c. Canada, 2000 D.T.C. 6317 (C.A.F.)). Toutefois, il est important de se rappeler que dans tous les cas la norme est celle du raisonnable et non celle de la perfection.
+[25] Dans l’arrêt Smith, précité, il a été conclu que l’appelant n’était pas un administrateur interne parce qu’il ne participait pas à la gestion quotidienne de la société.
+[26] J’estime que M. Bodnarchuk ne participait pas à la gestion quotidienne de Sybarite et que, pour des fins pratiques, il n’était pas un administrateur interne. La preuve indique que, même s’il était actionnaire, administrateur et même président de la société, il recevait ses ordres du chef du bureau de Sybarite à Vancouver. C’est son frère qui tirait les ficelles et l’appelant n’a pas soulevé d’objection et ne lui a pas posé de questions parce qu’il craignait de perdre son emploi, ou plutôt, le salaire qu’il touchait de la société.
+[27] Néanmoins, comme le prétend l’intimée, pendant les mois qui ont précédé la faillite de Sybarite, M. Bodnarchuk a été en mesure de s’occuper des affaires de la société et il a joué un rôle qu’il ne jouait pas précédemment. Toutefois, comme l’indique M. Bodnarchuk dans son témoignage, c’est son frère qui lui a permis de jouer ce nouveau rôle. À ce moment-là, Sybarite était déjà en défaut auprès de la Couronne.
+[28] M. Bodnarchuk a été très franc en reconnaissant que l’ARC était traitée comme tout autre créancier et qu’elle était payée par Sybarite seulement quand elle exigeait de l’être sur un ton désagréable, et il savait que c’était la façon dont Sybarite s’y prenait.
+[29] La question essentielle dans les circonstances consiste à déterminer ce qu’aurait pu faire M. Bodnarchuk pour empêcher Sybarite de ne pas faire ses versements ou de ne pas payer la taxe.
+[30] Subjectivement, M. Bodnarchuk est une personne simple. Il était trop intimidé par son frère. Il a vu ce qui était arrivé à sa mère et à sa sœur quand elles ont démissionné comme administratrices et il ne voulait pas suivre leurs traces. Il n’avait aucune autre expérience de travail, à l’exception de son service dans les Forces armées canadiennes pendant sa jeunesse. Il croyait ne pas pouvoir trouver d’emploi ailleurs et devoir conserver celui qu’il avait. À l’audience, il s’est décrit comme un employé occasionnel. Il n’avait aucun sens des affaires ni aucune expérience. Il n’est pas déraisonnable de conclure qu’une personne placée dans une situation comparable à celle de M. Bodnarchuk, avec ses insécurités et ses craintes, aurait agi de la même manière que lui.
+[31] Toutefois, la société n’était pas une entreprise importante ni complexe. M. Bodnarchuk savait qu’elle avait l’habitude de faire des paiements en retard à l’ARC. Mais, jusqu’à la toute fin, il n’était [Traduction] « pas dans le coup ». Il s’est fié aux assurances données par son frère selon lesquelles les paiements étaient faits et c’était lui qui allait les livrer au bureau de l’ARC de Vancouver. Il croyait que, même si les paiements étaient en retard, ils étaient versés quand l’ARC l’exigeait.
+[32] D’après les faits particuliers du présent appel, je conclus que l’appelant n’est pas responsable des manquements de Sybarite concernant le paiement ou le versement de la taxe nette, comme elle était obligée de le faire, jusqu’à la date à laquelle il a été autorisé à participer activement aux affaires de la société. Cela est arrivé environ trois ou quatre mois avant le 16 février 2001, ce qui nous placerait au 1er novembre 2000. Jusqu’au 1er novembre 2000, il a agi de la manière dont aurait agi dans les mêmes circonstances une personne raisonnablement prudente, ayant son expérience et ses compétences, ou son manque d’expérience et de compétence. Il n’a pas pu empêcher la société de ne pas payer ou verser la taxe parce qu’il n’avait absolument rien à dire dans les affaires de la société, ni aucune influence sur celles-ci, notamment dans la décision de remettre à temps ou non les versements de TPS.
+[33] L’appel est accueilli avec dépens et la cotisation est renvoyée au ministre pour nouvel examen et établissement d’une nouvelle cotisation tenant compte du fait que l’appelant n’est pas responsable aux termes du paragraphe 323(1) de la LTA pour les paiements de taxe nette que Sybarite était tenue de faire vers les 30 septembre 1997, 31 décembre 1997, 31 mars 1998, 30 juin 1998, 30 septembre 1998, 31 décembre 1998 et 31 mars 1999. Le 31 janvier 2001, il n’y avait de toute façon pas de taxe nette à payer.
+Signé à Ottawa, Canada, ce 8e jour de mars 2007.
+« Gerald J. Rip »
+Juge en chef adjoint Rip
+Traduction certifiée conforme
+ce 25e jour de mars 2008.
+Maurice Audet, réviseur
+RÉFÉRENCE : 2007CCI140
+No DU DOSSIER DE LA COUR : 2005-1339(GST)G
+INTITULÉ : Glenn Martin Bodnarchuk
+c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 5 février 2007
+MOTIFS DU JUGEMENT : L’honorable juge en chef adjoint Gerald J. Rip
+DATE DU JUGEMENT : Le 8 mars 2007
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimé :
+Me David Everett
+AVOCATS INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Canada)
+[1] La taxe évaluée à 141 328,24 $ incluait une somme de 101 503,14 $ au titre de la taxe, des intérêts de 18 178,81 $ et des pénalités de 21 646,29 $.
+[2] Dans les présents motifs, « M. Bodnarchuk » renvoie à l’appelant, et non à son frère.
+[3] Toute mention de l’ARC, dans les présents motifs, renvoie à Revenu Canada ou à l’Agence des douanes et du revenu du Canada, selon l’appellation officielle de l’organisme à l’époque pertinente.
+[4] [1997] A.C.F. no 881 (QL), [1997] 3 C.T.C. 242.
+[5] [1998] A.C.F. no 647 (QL), paragraphe 6.
+[6] Soper, précité, au paragraphe 41.
+[7] Soper, précité, au paragraphe 50.
+[8] [2001] A.C.F. no 448 (QL).

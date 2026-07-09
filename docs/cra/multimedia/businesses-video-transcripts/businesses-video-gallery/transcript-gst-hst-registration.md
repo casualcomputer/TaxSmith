@@ -1,0 +1,124 @@
+---
+title: "GST/HST Registration"
+gallery_title: "Webinar: GST/HST Registration"
+source: https://www.canada.ca/en/revenue-agency/news/cra-multimedia-library/businesses-video-gallery/transcript-gst-hst-registration.html
+video_source: https://youtu.be/h761jWvLyoU
+last_modified: 2025-12-09
+---
+
+# GST/HST Registration
+
+## Transcript
+**Slide 1**
+Hello and welcome to GST/HST Registration: What you need to know if you provide taxable goods and services.
+I’m Jason, your host today.
+**Slide 2 [GST/HST Registration]**
+Let’s begin.
+You may have to register for a GST/HST account if you have taxable sales, leases or supplies of goods or services within Canada.
+Once you are registered, you would charge GST/HST on most types of supplies.
+If you operate a business or are self-employed, and you are unsure if you should register for a GST/HST account, this webinar will help you better understand your tax obligations.
+**Slide 3 [Outline]**
+Today, we’ll cover:
+- What is GST/HST?
+- GST/HST provincial and territorial rates
+- Who has to register for a GST/HST account?
+- Taxable supplies - includes e-commerce
+- How to get a GST/HST account
+- Registration - Obligations
+- Filing your GST/HST return
+- Filing deadlines and payment due dates
+**Slide 4 [What is the GST?]**
+The goods and services tax, the GST, is a tax that applies to sales, leases and other supplies within Canada of goods, services, real property and intangible personal property, which is generally a right rather than a physical object.
+**Slide 5 [What is the HST?]**
+New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario and Prince Edward Island harmonized their provincial sales tax with the GST.
+Harmonized sales tax or HST is charged on supplies made in those participating provinces, instead of the GST.
+Generally, the HST is charged on supplies of the same types of goods and services as the GST.
+**Slide 6 [GST/HST Provincial and Territorial rates table]**
+GST/HST rates vary depending on where the taxable sales, leases or other supplies occur.
+A taxable supply of a good or service is subject to GST in a non-participating province. When the supply originates in a participating province, it is subject to HST.
+**Slide 7 [Who has to register for a GST/HST account?]**
+You have to register for a GST/HST account if **both**situations apply:
+1) You make taxable sales, leases, or other supplies in Canada, unless your only taxable supplies are of real property sold other than in the course of a business.
+2) You have exceeded the small supplier threshold of $30,000 in gross taxable sales over the last four consecutive calendar quarters.
+Also, if you are a self-employed taxi driver or commercial ride-sharing driver, you have toregister for the GST/HST even if your annual gross income is under $30,000.
+**Slide 8 [Who has to register for a GST/HST account? What does it mean?]**
+So, restating, if you have gross income of $30,000 and over, you must register for GST/HST.
+Taxable goods and services include sales of new housing; sales and rentals of commercial real property; sales and leases of automobiles; car repairs; taxis; sales of soft drinks, candies, potato chips, clothing and more.
+So, if your business sells taxable goods or services within Canada, and your annual gross revenue is $30,000 or more, you must register for a GST/HST account.
+A small supplier is one with income of less than $30,000 and so is exempt.
+However, if you are a self-employed taxi driver or a ride-share driver, you must register for the GST/HST regardless of income.
+And, if you sell exempt goods and services, such as medical supplies or music lessons, then you are exempt from registering.
+**Slide 9 [What is e-commerce?]**
+While it may seem that those who sell online do not charge GST/HST, if a good or service is sold online within Canada, then GST/HST applies.
+**Slide 10 [How to get a GST/HST account - Registration]**
+To set up a GST/HST account online please visit: canada.ca/business-registration-online
+Your business entity will be assigned a 9-digit business number or BN during registration.
+Once you receive a 9-digit business number, you can then register a GST/HST program account, called an RT account.
+**Slide 11 [Voluntary Registration]**
+If you are not required to register for the GST/HST, you may choose to register voluntarily for a variety of reasons.
+For example:
+- you want to claim input tax credits to recover the GST/HST you paid or owe on your business purchases,
+- your clients prefer to do business with companies that are registered for the GST/HST, or
+- you are starting your business activities and want to register before your total worldwide sales of taxable goods and services exceed $30,000.
+**Slide 12 [Registration Obligations]**
+Once you are registered there are certain requirements.
+- You will have to charge, collect and remit GST/HST on your taxable supplies of goods and services starting on your date of registration.
+- Once you register, every dollar from the taxable sales of any of your businesses is subject to the GST/HST.
+- You must remit GST/HST to the CRA.
+**Slide 13 [GST/HST Non-Registrant Program]**
+GST/HST rules can be complex and there are consequences for those who don’t fulfill their obligations.
+If you have to register for a GST/HST account but do not, the CRA's GST/HST Non-Registrant Program may contact you about your situation.
+For example, the GST/HST Non-Registrant Program reviews T1 and T2 Returns, invoices received showing GST/HST collected, as well as any information slips issued in the name of a taxpayer or business. Those slips could include T4As, T5018s or T5013s. This approach helps identify individuals and businesses that have to register for a GST/HST account.
+**Slide 14 [GST/HST Mandatory registration]**
+If information appears to show that someone has to register for a GST/HST account, a Non-Registrant officer will try to contact them by phone or letter to verify their business activity and income.
+Once it’s confirmed that a GST/HST account is needed, the officer will gather all information required and then set up the account. Information will then be mailed to the new registrant along with the new business number.
+If contact could not be made with the taxpayer, and the Non-Registrant officer has information to support registration, a Notice of Intent to register is mailed to the taxpayer. If the taxpayer does not consent to the registration and does not provide sufficient reason why they should not be registered, the Non-Registrant officer will register and notify the taxpayer in writing of their registration number, the effective date of registration, and their obligations for filing and compliance.
+**Slide 15 [GST/HST Enhanced Registration Review GERR]**
+CRA may contact registrants by telephone to confirm and validate a registration or obtain missing information, if necessary. We will ask questions based on information we already have on file to confirm the identity of the individual we are speaking to.
+CRA will attempt to contact the owner/director before calling an authorized representative. This is necessary to ensure that the registration was not set up by an unauthorized third party.
+**Slide 16 [GST/HST Enhanced Registration Review GERR]**
+To mitigate concerns about CRA scams, registrants are directed to the CRA website to verify the legitimacy of the call from our officers at the published toll-free telephone number for the GST/HST Enhanced Registration Review.
+The following is the link to the page for CRA contact information for businesses: canada.ca/cra-contact
+Registrants will have to scroll down to Step 2. Find the number you need to call, then scroll down to the section about ‘Discuss details of a phone call you received about your recent GST/HST or corporation program account registration’.
+**Slide 17 [Filing your GST/HST return]**
+You will also have to file GST/HST returns on a regular basis. You may be able to do this online, by telephone or mail, or at a participating financial institution.
+**Slide 18 [Filing deadlines and payment due dates]**
+Filing periods, from monthly to annually, and due dates depend on the amount of sales and status of the seller.
+For Monthly Filers with sales over $6 Million and Quarterly Filers with sales of $1.5 - $6 Million the filing and payment deadlines are identical, one month after the reporting period.
+For Annual Filers with sales less than $1.5 Million, except for individuals with a Dec 31 fiscal year-end and business income for income tax purposes, the filing and payment deadlines are identical, three months after the reporting period.
+For Annual filers, individuals with a Dec 31 fiscal year-end and business income for income tax purposes with sales less than $1.5 million, the fixed filing deadline is June 15 and payment deadline is April 30.
+**Slide 19 Filing and payment reminders**
+The CRA makes automated calls to GST/HST registrants:
+- To remind them to file their GST/HST return
+- To provide information on where to file and make a payment, if required
+These calls are recordings.
+They do not:
+- include your personal information
+- demand payment via Interac e-transfer, bitcoin, or pre-paid credit cards/gift card
+- or use threatening or aggressive language
+**Slide 20 Filing and payment reminders (continued)**
+The CRA may also contact you by phone and/or letter to determine:
+- if you require a GST/HST account or
+- if you have not filed your GST/HST return or
+- paid an amount owing
+In these cases, we may ask for information to verify your identity, such as:
+- your full name
+- date of birth
+- address
+- GST/HST account number and/or BN or Social Insurance Number
+Visit canada.ca/slam-the-scam for guidelines on how to identify legitimate communications from the CRA.
+**Slide 21 Recap of pertinent Information**
+Today, we covered these issues relating to GST-HST Registration:
+- What is GST/HST?
+- Who has to register for a GST/HST account?
+- How to get a GST/HST account
+- Registration – Obligations, and
+- Filing your GST/HST return
+**Slide 22 [Thanks]**
+Tax administration is as complex as life itself. If the content today doesn’t quite fit your situation, please:
+- Visit our website
+- Visit Canada.ca/cra-liaison-officer to get free tax help from a liaison officer
+- Call CRA's business enquiries line at 1-800-959-5525
+- You can also go to canada.ca/cra-videos where you’ll find all our business webinars.
+We’ve come to the end of our webinar.
+Thanks for joining me today. I hope it’s been helpful. Stay tuned for more webinars in the coming months! Good bye.

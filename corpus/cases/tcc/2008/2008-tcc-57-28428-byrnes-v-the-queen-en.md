@@ -1,0 +1,179 @@
+---
+title: "Byrnes v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28428/index.do"
+last_modified: "2008-01-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 57"
+citation2: ""
+neutral_citation: "2008 TCC 57"
+decision_date: "2008-01-24"
+language: "en"
+item_id: "28428"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1226
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:36:27.692000+00:00"
+cases_cited_count: 1
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a80deaa1016165e6bb9cbe5b63e032c1f7dfe33c87da0f135b2f409ae30681f5"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Byrnes v. The Queen
+
+- Citation: 2008 TCC 57
+- Decision date: 2008-01-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1226, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Byrnes v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-01-24
+Neutral citation
+2008 TCC 57
+File numbers
+2007-625(GST)I
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2007-625(GST)I
+BETWEEN:
+ANDREW BYRNES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on December 4, 2007 at Winnipeg, Manitoba
+Before: The Honourable Justice L.M. Little
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Melissa Danish
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under Part IX of the Excise Tax Act, for the period October 1, 2001 to December 31, 2001, notice of which is dated September 27, 2006, is allowed, without costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 24th day of January 2008.
+Little J.
+Citation: 2008TCC57
+Date: 20080124
+Docket: 2007-625(GST)I
+BETWEEN:
+ANDREW BYRNES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little J.
+A. FACTS
+[1] The Appellant operates as a sole proprietor under the name of Country Club Motors (the “Company”).
+[2] The Company is engaged in the construction, landscaping and snow removal business in Winnipeg. The Company is a registrant under the Excise Tax Act (the “Act”).
+[3] The Company owns two “bobcats”, a backhoe, a dump truck and miscellaneous tools and equipment used in the business.
+[4] The Appellant stated that he hired an accounting firm, by the name of O’Grady Accounting, to prepare and file the Company’s Goods and Services Tax Returns (“GST Returns”).
+[5] The Appellant filed a GST Return for the period October 1, 2001 to December 31, 2001 (the “Period”). The Return was received by the Canada Revenue Agency (the “CRA”) on February 13, 2002. In the GST Return the Appellant reported tax collected of $588.00, input tax credits of $310.79 for total net tax of $277.21. The GST Return was accepted as filed.
+[6] In 2004 or 2005, officials of the CRA contacted the Appellant about GST owing by the Company.
+[7] The Appellant said that after an audit was completed by the CRA he was surprised to discover that there was a GST issue involving the Company because he understood that O’Grady Accounting was handling GST Returns for the Company.
+[8] The Appellant said that in the 2005 taxation year he discovered that Ms. O’Grady was not remitting the GST Returns for the Company because she had suffered a stroke and a nervous breakdown.
+[9] The Company was reassessed by officials of the CRA for additional GST payable and the Appellant said that he cleaned up all of the GST owing by the Company by obtaining funds from a second mortgage registered against his home.
+[10] When the Appellant obtained his paperwork for the Company from O’Grady Accounting, he discovered that they had not claimed the input tax credits with respect to a tractor that the Company had purchased from Brandt Tractor Ltd. on October 31, 2001. The invoice for the tractor was in the amount of $50,160.00 and the GST that was paid was $3,080.00.
+[11] By letter dated April 28, 2006 the Appellant wrote to the CRA requesting that the GST Return for the Period be amended to allow additional input tax credits of $3,080.00. In his letter the Appellant claimed a refund for the Period determined as follows:
+Net Tax Reported $277.21
+Adjustments
+Additional input tax credits $3,080.00
+Refund Claimed $2,802.79
+(Note: Officials of the CRA agree that this letter constitutes an amended GST Return.)
+[12] By Notice of Assessment issued on September 27, 2006, the Minister of National Revenue (the “Minister”) disallowed the GST Refund claimed by the Appellant on the basis that the input tax credit the Appellant sought to claim was beyond the four year limitation period set out in subsection 225(4) of the Act.
+B. ISSUE
+[13] The issue to be decided is whether the Appellant is entitled to the additional input tax credits of $3,080.00 for the equipment that the Appellant acquired on October 31, 2001.
+[14] The Minister maintains that the Appellant failed to claim the input tax credit in a tax return filed for reported Period ending December 31, 2001 within the four year limit imposed by subsection 225(4) of the Act.
+C. ANALYSIS AND DECISION
+[15] In the Notice of Decision issued to the Appellant, the Minister makes the following comment:
+Paragraph 225(4)(b) of the Excise Tax Act states that an Input Tax Credit cannot be claimed unless it is claimed within 4 years of the due date of the first GST Return that the registrant is entitled to claim this Input Tax Credit. In your case, the Input Tax Credit in question pertains to your GST reporting period of October-December 2001. You were required to claim this Input Tax Credit by January 31, 2006. You filed an Amended GST Return on April 28, 2006 and claimed this Input Tax Credit. Thus, this Input Tax Credit was claimed after the deadline had expired.
+[16] Paragraph 225(4)(b) of the Act reads as follows:
+225. (4) An input tax credit of a person for a particular reporting period of the person shall not be claimed by the person unless it is claimed in a return under this Division filed by the person on or before the day that is
+…
+(b) where the person is not a specified person during the particular reporting period, the day on or before which the return under this Division is required to be filed for the last reporting period of the person that ends within four years after the end of the particular reporting period; or …
+[17] Subsection 296(2) of the Act reads as follows:
+296. (2) Where, in assessing the net tax of a person for a particular reporting period of the person, the Minister determines that
+(a) an amount (in this subsection referred to as the “allowable credit”) would have been allowed as an input tax credit for the particular reporting period or as a deduction in determining the net tax for the particular reporting period if it had been claimed in a return under Division V for the particular reporting period filed on the day that is the day on or before which the return for the particular reporting period was required to be filed and the requirements, if any, of subsection 169(4) or 234(1) respecting documentation that apply in respect of the allowable credit had been met,
+(b) the allowable credit was not claimed by the person in a return filed before the day notice of the assessment is sent to the person or was so claimed but was disallowed by the Minister, and
+(c) the allowable credit would be allowed, as an input tax credit or deduction in determining the net tax for a reporting period of the person, if it were claimed in a return under Division V filed on the day notice of the assessment is sent to the person or would be disallowed if it were claimed in that return only because the period for claiming the allowable credit expired before that day,
+the Minister shall, unless otherwise requested by the person, take the allowable credit into account in assessing the net tax for the particular reporting period as if the person had claimed the allowable credit in a return filed for the period.
+[18] It should be noted that subsection 296(2) was amended effective July 7, 1996. In the amendment the word “may” was changed to “shall”.
+[19] As a result of the current wording in paragraph 296(2)(c), it is my opinion that the Appellant has a right to claim the ITC where a credit is available to offset the tax. The deadline contained in subsection 225(4) of the Act does not apply in this situation.
+[20] Further support for this conclusion can be found in the “GST/HST News” produced by the CRA in Spring 2004.
+[21] At page 3 of the GST/HST News the following comments are found:
+Auditing for GST net tax – It’s a matter of fairness
+The “audit to net tax” principle ensures that the entitlements and obligations of a GST/HST registrant under audit are given proper consideration. After all, it’s a matter of fairness.
+Generally, a registrant has a four-year time limit (two years in the case of a specified person) in which to claim an input tax credit (ITC). In reporting the net tax for a reporting period, the registrant may include the ITCs that became available in that period and any unclaimed ITCs from the previous four years (or in the case of a specified person, two years).
+…
+In assessing a registrant’s net tax for a reporting period under audit, the CRA is required to take into account any ITCs that the registrant did not claim for that reporting period even if the normal time limit for claiming these ITCs has expired. These unclaimed ITCs must be for tax that became payable during the particular reporting period under audit.
+[22] It will be noted that the News Release clearly supports my interpretation of subsection 296(2).
+[23] The example cited in the News Release also supports my conclusion.
+[24] The example reads as follows:
+On April 30, 2001, Corporation B, a specified person with a June 30 year-end, reported the following amounts on its GST/HST return for the reporting period March 1, 2001 to March 31, 2001:
+GST/HST collectible and collected
+$40,000
+ITCs claimed
+$25,000
+Net tax
+$15,000
+In November 2003, this reporting period is selected for audit. During the course of the audit, the auditor discovers $10,000 of unclaimed ITCs for GST/HST paid during this particular reporting period. Even though the time limit for claiming these ITCs expired on July 31, 2003, the auditor must take them into account when assessing the net tax for this reporting period. However, unclaimed ITCs for tax that became payable in reporting periods before the particular period under audit will not be taken into account.
+[25] In Charles Beaupré v. Her Majesty The Queen, 2005 FCA 168, Justice Létourneau of the Federal Court of Appeal said:
+Interpretation bulletins are not binding on the Court as to how a legislative provision is to be interpreted. When the interpretation suggested in the bulletin is the right one, however, there is no reason to disregard it.
+[26] The appeal is allowed, without costs.
+Signed at Vancouver, British Columbia, this 24th day of January 2008.
+Little J.
+CITATION:
+2008TCC57
+COURT FILE NO.:
+2007-625(GST)I
+STYLE OF CAUSE:
+Andrew Byrnes and
+Her Majesty the Queen
+PLACE OF HEARING:
+Winnipeg, Manitoba
+DATE OF HEARING:
+December 4, 2007
+REASONS FOR JUDGMENT BY:
+The Honourable Justice L.M. Little
+DATE OF JUDGMENT:
+January 24, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Melissa Danish
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

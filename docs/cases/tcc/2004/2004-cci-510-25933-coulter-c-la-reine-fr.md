@@ -1,0 +1,185 @@
+---
+title: "Coulter c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25933/index.do"
+last_modified: "2004-07-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 510"
+citation2: ""
+neutral_citation: "2004 CCI 510"
+decision_date: "2004-07-29"
+language: "fr"
+item_id: "25933"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3666
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:11:07.751000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f3dbf1a98d9bc2ecb9c8fcec6f199a07cfd7da58924c69b2d34ff90350d034b8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Coulter c. La Reine
+
+- Citation: 2004 CCI 510
+- Decision date: 2004-07-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3666, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Coulter c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-07-29
+Référence neutre
+2004 CCI 510
+Numéro de dossier
+2003-3756(IT)G
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-3756(IT)G
+ENTRE :
+MAUREEN COULTER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Requête entendue à Halifax (Nouvelle-Écosse), le 23 janvier 2004
+Devant : L’honorable L.M. Little
+Comparutions :
+Avocat de l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Caitlin Ward
+____________________________________________________________________
+ORDONNANCE
+Après examen de l’avis de requête modifié déposé par l’intimée,
+Et après lecture des affidavits de Maureen Coulter et Joan Bradley,
+La requête est accueillie selon les motifs de l’ordonnance ci-jointe.
+Signé à Vancouver (Colombie-Britannique), ce 29e jour de juillet 2004.
+« L.M. Little »
+Juge
+Traduction certifiée conforme
+ce 3e jour de juin 2005
+Isabelle Totikaev, traductrice
+Référence : 2004TCC510
+Date : 20040729
+Dossier : 2003-3756(IT)G
+ENTRE :
+MAUREEN COULTER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DE L’ORDONNANCE
+Le juge Little
+A. Exposé des faits :
+[1] L’appelante, une infirmière autorisée, était employée par le Queen Elizabeth II Health Science Centre (l’Employeur), à Halifax, en Nouvelle-Écosse.
+[2] En 1992, l’appelante a été frappée d’un handicap lié à une maladie environnementale causée par la présence de toxines à l’hôpital exploité par l’Employeur.
+[3] De 1992 à 2001 l’Employeur a versé au total 132 914,31 $ à l’appelante. Les avis d’appel renvoient à ces versements sous la désignation [traduction] « avances sur le versement des indemnités d’accident du travail ».
+[4] L’appelante a déclaré ces différentes « avances sur le versement des indemnités d’accidents du travail » à titre de revenus pour chacune des années d’imposition allant de 1992 à 2001. Les impôts sur le revenu, le RPC et l’A.-E. ont été déduits et retenus par l’Employeur.
+[5] En 2001, la demande d’indemnité d’accident du travail de l’appelante a été réglée, et une indemnité de 136 812,19 $ lui a été accordée par la commission des accidents du travail de la Nouvelle-Écosse (la Commission). Sur ce montant, 132 914,31 $ ont été versés directement à l’Employeur par la Commission à titre de remboursement des « avances sur le versement des indemnités d’accident du travail » payées à l’appelante de 1992 à 2001.
+[6] Le 9 juillet 2002, le ministre du Revenu national (le Ministre) a émis un avis de cotisation pour l’année d’imposition 2001. Cet avis incluait le montant de 132 914,31 $ à titre de revenu pour l’année d’imposition 2001.
+[7] Le 7 août 2002, l’appelante a déposé auprès de l’Agence du revenu du Canada (ARC) une demande en vertu des dispositions relatives à l’équité. Elle n’a pas reçu de réponse écrite à cette demande.
+[8] L’appelante a déposé un avis d’opposition à l’encontre de l’avis de cotisation qu’elle a reçu pour l’année d’imposition 2001.
+[9] Le 28 juillet 2003, un avis de nouvelle cotisation concernant l’année d’imposition 2001 lui a été adressé par le Ministre. Toutes les indemnités versées par la Commission y figuraient et avaient été incluses dans le calcul du revenu de l’appelante en vertu de l’alinéa 56(1)v) de la Loi et déduites en vertu de l’alinéa 110(1)f) de la Loi.
+[10] L’appelante a déposé un autre avis d’opposition.
+[11] De l’avis de l’appelante, puisque le règlement qu’elle a conclu avec la Commission n’était pas imposable, les « avances sur le versement des indemnités d’accident du travail » qu’elle avait reçues de 1992 à 2001 – qui étaient censées être des avances sur le règlement non imposable – ne devaient pas être imposables. L’appelante fonde son argumentation sur le bulletin d’information IT-202R2 de l’ARC (et d’autres énoncés de politiques) et souligne que la majeure partie de l’indemnité de la Commission qu’elle a touchée en 2001 a été directement versée à l’Employeur à titre de remboursement des avances que celui-ci avait effectuées de 1992 à 2000.
+[12] L’intimée soutient que qu’aucun avis d’opposition n’a été déposé à l’encontre des avis de cotisation de nouvelle cotisation émis pour les années d’imposition allant de 1992 à 2000.
+[13] Selon l’intimée, la Cour n’est pas régulièrement saisie des avis de cotisation ou de nouvelle cotisation concernant les années d’imposition allant de 1992 à 2000.
+[14] En ce qui concerne l’année d’imposition 2001 de l’appelante, l’intimée soutient que, même si l’appelante a déposé un avis d’opposition valide dans les délais prescrits, elle ne peut pas contester une cotisation néant.
+[15] Le 14 janvier 2004, l’intimée a déposé un avis de requête modifié dans lequel son avocat déclare ce qui suit :
+[traduction]
+1. en ce qui concerne les années d’imposition 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999 et 2000, l’appelante n’a pas déposé d’avis d’opposition en vertu de l’article 165 de la Loi de l’impôt sur le revenu, modifiée, L.R.C. 1985, ch. 1 (5e suppl.), [la Loi] et, par conséquent, elle ne remplit pas l’une des conditions fixées à l’article 169 de la Loi;
+2. en ce qui concerne l’année d’imposition 2001 de l’appelante, il y a une cotisation néant; par conséquent, l’appel interjeté par l’appelante ne porte pas sur l’établissement de la cotisation, des intérêts ou des pénalités visés par le paragraphe 169(1) de la Loi.
+B. QUESTION EN LITIGE
+[15] Faut-il faire droit à l’avis de requête modifié déposé par l’avocate de l’intimée?
+C. ANALYSE
+[16] En vertu des dispositions de la Loi de l’impôt sur le revenu (la Loi), le contribuable ne peut déposer des avis d’opposition relatifs aux années d’imposition allant de 1992 à 2000, une fois écoulé le délai prévu à cette fin dans la Loi. La décision New St. James Ltd. v. M.N.R., 66 DTC 5241, permet d’affirmer qu’une perte engagée au cours d’une année frappée de prescription peut être recalculée pour l’établissement d’une nouvelle cotisation pour une année qui n’est pas frappée de prescription. Toutefois, ce jugement n’autorise pas l’appelant, en l’espèce, à procéder à de nouveaux calculs ciblant des années antérieures pour lesquelles aucun avis d’opposition valide n’a été déposé.
+[17] Ensuite, je dois examiner si l’appelante peut déposer un avis d’opposition à l’encontre de l’avis de nouvelle cotisation émis le 28 juillet 2003 pour l’année d’imposition 2001. Les tribunaux ont statué qu’il n’existait pas de droit d’appel à l’encontre d’une cotisation néant.
+[18] Je conclus qu’il faut accueillir l’avis de requête déposé par l’intimée.
+[19] Avant de clore mes remarques, j’aimerais réexaminer la position fiscale de l’appelante en ce qui a trait aux avances versées par la Commission.
+[20] Le paragraphe 23(2) de la Loi sur la gestion des finances publiques dispose que le gouverneur en conseil peut rembourser les taxes prélevées lorsque le Ministre estime que leur perception est déraisonnable ou injuste ou que, d'une façon générale, l'intérêt public justifie la remise de la taxe ou de la pénalité. On peut solliciter un décret de remise en écrivant au bureau de district d’impôt. S’il est fait droit à cette demande, le décret de remise est pris sur recommandation du Ministre. Il est approuvé par décret par un comité du cabinet qui prend un décret et le publie dans la Gazette du Canada.
+[21] L’appelante soutient que les « avances sur le versement des indemnités d’accident du travail » n’auraient pas dû être imposées, puisqu’il ne s’agissait que d’avances ou d’un prêt qui devait être remboursé sur le montant de l’indemnité de la commission des accidents du travail, non imposable. Selon l’appelante, presque toute l’indemnité a été directement versée à l’Employeur en remboursement des montants que celui-ci lui avait avancés. Elle fait également remarquer que si elle avait reçu l’indemnité lorsque son handicap est apparu (c.‑à‑d. en 1992), l’ensemble du montant qu’elle aurait reçu n’aurait pas été imposable.
+[22] Il existe un certain nombre d’énoncés de politiques administratives, formulés par l’ARC, qui tendraient à étayer l’argumentation de l’appelante. Le paragraphe 7 du Bulletin d’interprétation IT-202R2, intitulé Indemnités pour employés ou travailleurs prévoit ce qui suit :
+7. Lorsqu’il peut être établi que l’employé a reçu de l’employeur un prêt ou une avance qui sera, par la suite, remboursé par des indemnités d’accidents du travail, le prêt ou l’avance ne constitue ni un revenu de l’employé ni une dépense déductible de l’employeur. Toutefois, lorsque l’indemnité est versée et que l’employé l’a reçue, elle doit être traitée selon les numéros 3 et 5 ci-dessus. Le remboursement du prêt ou de l’avance que l’employé fera à l’employeur, ou qui sera fait en son nom, ne constitue pas un revenu de l’employeur.
+Dans un avis de l’Agence du revenu, émis le 9 septembre 1999 et reproduit dans les 17e et 18e éditions de la Practitioners Income Tax Act, on trouve le commentaire suivant :
+Avances (prêts) de la CAT
+Un employeur pourra continuer d’avancer ou de prêter de l’argent à un employé, en attendant que la CAT se prononce sur une demande, et nous ne considérerons pas ces sommes comme étant un revenu d’emploi.
+[23] Par conséquent, si les « avances sur le versement des indemnités d’accident du travail » constituaient un prêt, ou une avance, consenti par l’Employeur à l’appelante, les impôts sur le revenu, le RPC et l’A.-E. n’auraient pas dû être déduits ou retenus. Il faut également souligner qu’indépendamment de la politique de l’ARC sur cette question, suivant les principes généraux de l’impôt sur le revenu, la somme empruntée n’est pas considérée comme un revenu et, en vertu de l’article 3 de la Loi, le prêt n’est pas imposable.
+[24] Dans l’arrêt Sa Majesté la Reine c. Whitney, figurent les commentaires suivants :
+[...] l'indemnité n'était pas visée par l'alinéa 56(1)v) et du sous-alinéa 110(1)f)(ii), sauf si elle était versée en vertu d'une loi concernant l'indemnisation des accidents du travail. Une indemnité versée en vertu d'un accord contractuel, même si elle comporte une décision rendue par un comité ou une commission d'indemnisation des travailleurs en dehors de l'exercice de sa compétence réglementaire, est hors du champ d'application de ces dispositions. Dans la mesure où le bulletin IT-202R2 n'est pas conforme à cette interprétation, il est erroné en droit.
+Sa Majesté la Reine c. Whitney, [2002] A.C.F. N° 948, 2002 CAF 266. Voir aussi Suchon c. Canada, [2002] A.C.F. N° 972, 2002 CAF 282.
+[25] En d’autres termes, sur le fondement des décisions susmentionnées, seuls les montants qu’un employé blessé a directement reçus d’une commission des accidents du travail d’une province sont inclus dans le revenu en application de l’alinéa 56(1)v) et déductibles en vertu de l’alinéa 110(1)f) (non imposables). En outre, il est important de souligner que le montant de l’indemnité que l’appelante a reçu en 2001 de la commission des accidents du travail a été déduit de son revenu en vertu de l’alinéa 110(1)f). En conséquence, l’indemnité n’a pas été incluse dans son revenu déclaré pour l’année d’imposition 2001.
+CONCLUSION :
+[26] En l’espèce, la question en litige est de qualifier convenablement les « avances sur le versement des indemnités d’accident du travail » que l’appelante a reçues de 1992 à 2001. Si l’on qualifie ces versements de revenu, ils sont imposables en vertu de l’article 5 ou de l’alinéa 6(1)a), et l’appelante ne devrait pas avoir gain de cause (c.‑à‑d. prendre un décret de remise) puisque les « avances sur le versement des indemnités d’accident du travail » n’ont pas été payées « en vertu d'une loi sur les accidents du travail »; et comme, en vertu de l’alinéa 110(1)f), l’appelante a déjà déduit l’indemnité d’accident du travail qu’elle a reçue en 2001, elle ne devrait pas avoir droit à une deuxième déduction en vertu de ce même alinéa.
+[27] Toutefois, si les « avances sur le versement des indemnités d’accident du travail » sont, comme il se doit, qualifiées de sommes empruntées, elles ne sont pas imposables en vertu de l’article 5 ou de l’alinéa 6(1)a), et, l’employeur de l’appelante n’aurait pas dû déduire ni retenir des impôts sur ces montants. Si tel est le cas, il faudrait alors prendre un décret de remise.
+[28] Les affaires précitées (Whitney et Suchon) concernaient toutes deux des montants versés en vertu d’une convention collective ou d’un régime d’invalidité et ils étaient clairement considérés comme des revenus en vertu de l’article 5. Les contribuables n’étaient pas obligés de rembourser ces montants une fois reçu un règlement. Dans ces deux affaires, la Cour devait déterminer si l’alinéa 110(1)f) permettait de déduire ces montants alors qu’ils n’avaient pas été versés en vertu d’une loi concernant l’indemnisation des accidents du travail. Par contre, en l’espèce, la Cour doit déterminer si les montants (c.‑à‑d. les « avances sur le versement des indemnités d’accident du travail ») constituent en fait une somme empruntée et non un revenu, auquel cas l’appelante ne doit pas du tout être imposée sur ces montants.
+[29] Il apparaît que les montants reçus par l’appelante pour les années d’imposition allant de 1992 à 2000 constituaient en fait une somme empruntée non imposable.
+[30] Pour déterminer si un décret de remise doit être pris, le Ministre tient compte des facteurs suivants :
+a) Une situation financière extrêmement difficile;
+b) Une mesure prise ou un avis donné par le Ministère, qui entraîne directement un impôt supplémentaire;
+c) D’autres facteurs, notamment :
+- des conditions qui échappent au contrôle du client;
+- des erreurs commises par le client et que le Ministère aurait vraisemblablement dû découvrir.
+[31] Les deux documents produits à titre de preuve (pièces A-1 et A‑2) établissent l’existence de conditions qui échappent au contrôle du client et d’une erreur (c.‑à‑d. l’erreur qu’a commise l’Employeur en retenant et en remettant l’impôt, le RPC et l’A.-E.). En outre, ce type d’erreur aurait dû être repérée par les fonctionnaires de l’ARC.
+[32] Compte tenu des circonstances malheureuses et inhabituelles évoquées plus haut, il s’agit peut-être d’un cas où le Ministre devrait recommander la prise d’un décret de remise en vertu de la Loi sur la gestion des finances publiques.
+Signé à Vancouver (Colombie-Britannique) ce 29e jour de juillet 2004.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 3e jour de juin 2005
+Isabelle Totikaev, traductrice
+RÉFÉRENCE :
+2004TCC510
+NO DU DOSSIER DE LA COUR :
+2003-3756(IT)G
+INTITULÉ DE LA CAUSE:
+Maureen Coulter c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Halifax (Nouvelle-Écosse)
+DATE DE L’AUDIENCE :
+Le 23 janvier 2004
+MOTIFS DU JUGEMENT PAR :
+L’honorable L.M. Little
+DATE DU JUGEMENT :
+Le 29 juillet 2004
+COMPARUTIONS :
+Avocat de l’appelante :
+L’appelante elle-même
+Avocate de l’intimée:
+Caitlin Ward
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

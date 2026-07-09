@@ -1,0 +1,156 @@
+---
+title: "Thurston c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31129/index.do"
+last_modified: "2013-03-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 87"
+citation2: ""
+neutral_citation: "2013 CCI 87"
+decision_date: "2013-03-22"
+language: "fr"
+item_id: "31129"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4777
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:25:28.956000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "651417edf0eed9d0144aa770382c44dfd172a21b6ddc5218f5817d6d185bc80d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Thurston c. La Reine
+
+- Citation: 2013 CCI 87
+- Decision date: 2013-03-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4777, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Thurston c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-03-22
+Référence neutre
+2013 CCI 87
+Numéro de dossier
+2012-839(IT)I
+Juges et Officiers taxateurs
+Johanne D’Auray
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-839(IT)I
+ENTRE :
+GAIL S. THURSTON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Audience de justification tenue le 13 mars 2013,
+à Vancouver (Colombie-Britannique).
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Pour l’appelante :
+Personne n’a comparu
+Avocat de l’intimée :
+Me Zachary Froese
+____________________________________________________________________
+JUGEMENT MODIFIÉ
+Attendu que l’avocat de l’intimée a présenté une requête en vue de faire rejeter l’appel interjeté par l’appelante à l’égard de son année d’imposition 2009 pour défaut de comparution.
+Attendu que l’appelante n’était pas présente dans la salle d’audience au moment de l’audition de son appel, bien qu’elle ait été dûment avisée de la date, de l’heure et du lieu de l’audience;
+Attendu que personne n’a comparu pour le compte de l’appelante;
+Et vu les allégations de l’intimée;
+La requête de l’intimée visant à faire rejeter l’appel de l’appelante est accueillie et l’appel interjeté à l’encontre de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2009 est rejeté, conformément aux motifs du jugement ci-joints.
+Le présent jugement modifié remplace l’ordonnance datée du 22 mars 2013.
+Signé à Ottawa, Canada, ce 3e jour d’avril 2013.
+« Johanne D’Auray »
+Juge D’Auray
+Traduction certifiée conforme
+ce 9e jour de mai 2013.
+Marie-Christine Gervais, traductrice
+Référence : 2013 CCI 87
+Date : 20130403
+Dossier : 2012-839(IT)I
+ENTRE :
+GAIL S. THURSTON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT MODIFIÉS
+La juge D’Auray
+[1] L’appel interjeté dans l’affaire Gail Thurston c. Sa Majesté la Reine, 2012‑839(IT)I, a été fixé pour audition par le greffier de la Cour, M. Prassad, le 13 mars 2013, à 9 h 30, à Vancouver.
+[2] L’appelante n’a pas comparu.
+[3] L’intimée a présenté une requête en vue de faire rejeter l’appel interjeté par l’appelante à l’égard de l’année d’imposition 2009 de celle‑ci.
+[4] Compte tenu des circonstances suivantes, l’appel interjeté à l’égard de l’année d’imposition 2009 de l’appelante est rejeté.
+[5] L’appelante a déposé un avis d’appel le 24 février 2012. L’avis d’appel a été déposé en retard.
+[6] Le 8 mai 2012, la Cour a délivré un avis d’audience fixant au 12 juin 2012 la date de l’audition de la demande de prorogation de délai.
+[7] L’intimée a consenti à la demande de prorogation de délai et l’appel a été réputé avoir été déposé le 22 mai 2012.
+[8] Le 18 juin 2012, l’intimée a déposé la réponse à l’avis d’appel. Dans l’exposé des faits, l’intimée a précisé que le montant d’impôt fédéral en litige pour l’année d’imposition 2009 s’élevait à 35 141,04 $. Elle a affirmé que l’article 17 des Règles de la Cour canadienne de l’impôt (procédure informelle), DORS/90‑688b, dans leur version modifiée, limite le redressement auquel l’appelante peut avoir droit à 12 000 $ pour l’année d’imposition visée.
+[9] Le 10 juillet 2012, un avis d’audience a été envoyé à l’appelante par courrier recommandé, au 641 Ballantree Road, West Vancouver (Colombie-Britannique) V7S 1W4, soit l’adresse que l’appelante avait fournie dans son avis d’appel. Cet avis informait l’appelante que l’audition de son appel avait été fixée au 5 septembre 2012, à 9 h 30, ou dès que les parties pourraient être entendues après cette date, à la Cour canadienne de l’impôt, au 701, rue Georgia Ouest, 6e étage, à Vancouver (Colombie‑Britannique).
+[10] Le 2 août 2012, la Cour a envoyé une lettre à l’appelante à la même adresse, soit le 641 Ballantree Road, West Vancouver (Colombie-Britannique) V7S 1W4, dans laquelle elle avisait l’appelante que l’avis d’audience qu’elle lui avait fait parvenir par courrier recommandé avait été retourné à la Cour par Postes Canada avec la mention [traduction] « Non réclamé ». Un avis d’audience a donc été envoyé à l’appelante par courrier ordinaire à la même adresse.
+[11] Le 29 août 2012, l’appelante a indiqué, par télécopieur, qu’elle demandait un ajournement de l’audience de son appel. Dans une lettre datée du 30 août 2012, l’intimée a indiqué qu’elle ne s’opposait pas à la demande d’ajournement de l’appelante.
+[12] Dans une lettre datée du 31 août 2012, la Cour a avisé l’appelante que l’ajournement demandé lui avait été accordé. La Cour a en outre informé l’appelante que le montant d’impôt fédéral en litige était de 35 141,04 $. Comme l’appelante avait choisi que son appel soit régi par la procédure informelle, la Cour a demandé à l’appelante de lui faire part de son choix de limiter son appel à 12 000 $, étant donné que la Cour ne peut pas accorder plus de 12 000 $ sous le régime de la procédure informelle, ou de préciser si elle souhaitait que son appel soit régi par la procédure générale et, le cas échéant, de verser à la Cour le droit de dépôt de 250 $.
+[13] L’appelante n’a pas répondu à la lettre datée du 30 août 2012 dans laquelle la Cour lui demandait de choisir de limiter son appel à 12 000 $ ou de choisir qu’il soit régi par la procédure générale.
+[14] Dans une ordonnance datée du 26 octobre 2012, le juge Hogan a ordonné ce qui suit :
+[traduction]
+VU QUE la Cour est d’avis que le total de tous les montants en cause est de 35 141,04 $,
+ET VU QUE l’appelante n’a pas choisi de limiter son appel à 12 000 $;
+LA COUR ORDONNE, en vertu de l’article 18.12 de la Loi sur la Cour canadienne de l’impôt (la « Loi »), que le présent appel soit régi par les dispositions des articles 17.1 à 17.8 de la Loi et que le droit de dépôt prévu par les Règles de la Cour canadienne de l’impôt (procédure générale) soit versé à la Cour au plus tard le 20 novembre 2012 pour que le présent appel puisse être introduit en bonne et due forme devant la Cour.
+[15] Le 29 octobre 2012, M. Campeau a, pour le compte du greffier de la Cour, fait parvenir à l’appelante par courrier recommandé une copie de l’ordonnance du juge Hogan, datée du 26 octobre 2012, au 641 Ballantree Road, West Vancouver (Colombie-Britannique) V7S 1W4.
+[16] Le 20 novembre 2012, la Cour n’avait toujours pas reçu le droit de dépôt de l’appelante.
+[17] Le 1er février 2013, l’administrateur judiciaire de la Cour a rendu une ordonnance dans laquelle il exigeait que l’appelante comparaisse devant la Cour à Vancouver, le 13 mars 2013, à 9 h 30, afin d’exposer les raisons pour lesquelles l’appel ne devrait pas être rejeté pour cause de retard. L’ordonnance a été envoyée par courrier recommandé à la même adresse, soit le 641 Ballantree Road, West Vancouver (Colombie-Britannique) V7S 1W4.
+[18] Le 20 février 2013, l’appelante a envoyé à la Cour un document intitulé « Demande de prorogation du délai pour interjeter appel ».
+[19] Le 4 mars 2013, Mme Jodi Gibson, coordonnatrice des audiences de la Cour, a tenté en vain de joindre l’appelante en composant son numéro de téléphone à domicile et son numéro de téléphone cellulaire pour lui expliquer que la Cour avait consenti à ce que son appel interjeté selon la procédure informelle soit régi par la procédure générale et que, comme elle n’avait pas payé le droit de dépôt requis, une audience de justification serait tenue le 13 mars 2013, conformément à l’ordonnance rendue par la Cour le 1er février 2013.
+[20] Au cours de la semaine précédant l’audience, le personnel de la Cour à Vancouver a réussi à communiquer avec l’appelante. Elle a fourni une carte de crédit pour le paiement du droit de dépôt, mais le paiement n’a pas été autorisé. Le jour de l’audience, comme l’appelante n’était pas présente en cour, le greffier à Vancouver a appelé l’appelante pour savoir si elle voulait assister à l’audience de justification; elle a répondu qu’elle ne savait pas qu’elle devait y assister.
+[21] À mon avis, l’appelante n’a pas poursuivi l’appel avec promptitude.
+Signé à Ottawa, Canada, ce 3e jour d’avril 2013.
+« Johanne D’Auray »
+Juge D’Auray
+Traduction certifiée conforme
+ce 9e jour de mai 2013.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE : 2013 CCI 87
+NO DU DOSSIER DE LA COUR : 2012-839(IT)I
+INTITULÉ : GAIL S. THURSTON c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 13 mars 2013
+MOTIFS DU JUGEMENT
+MODIFIÉS : L’honorable juge Johanne D’Auray
+DATE DU JUGEMENT
+MODIFIÉ : Le 3 avril 2013
+COMPARUTIONS :
+Pour l’appelante :
+Personne n’a comparu
+Avocat de l’intimée :
+Me Zachary Froese
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

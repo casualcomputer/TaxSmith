@@ -1,0 +1,140 @@
+---
+title: "Les Constructions L.J.P. Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27564/index.do"
+last_modified: "2005-08-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 508"
+citation2: ""
+neutral_citation: "2005 CCI 508"
+decision_date: "2005-08-17"
+language: "fr"
+item_id: "27564"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 95
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:39:02.226000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5bbadc06a4f8980345bf5d5525b9e80ac6d41d8ed31b2e4d035e156459692cf4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Les Constructions L.J.P. Inc. c. La Reine
+
+- Citation: 2005 CCI 508
+- Decision date: 2005-08-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 95, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Les Constructions L.J.P. Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-08-17
+Référence neutre
+2005 CCI 508
+Numéro de dossier
+2003-1220(GST)I
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Référence : 2005CCI508
+Date : 20050817
+Dossier : 2003-1220(GST)I
+2003-1223(GST)I
+ENTRE :
+LES CONSTRUCTIONS L.J.P. INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+ET ENTRE :
+ÉQUIPEMENTS S.P.M. INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+(Décision rendue oralement sur le banc le 1 décembre 2004
+à Montréal (Québec).)
+La juge Lamarre
+[1] Les appelantes en appellent de cotisations par lesquelles on leur a refusé, entre autres, des crédits de taxe sur les intrants ( « CTI » ) réclamés au cours de la période du 1er avril 1999 au 31 mars 2001.
+[2] Plus précisément, la société Les Constructions L.J.P. Inc. réclame des CTI pour un montant de 12 637,03 $, relativement à des factures qu'elle dit avoir payées à deux sous-traitants, Gestion G. Gauvin et Location B.B.M.
+[3] Quant à la société Équipements S.P.M. Inc., elle réclame des CTI pour un montant de 12 396,98 $, relativement à des factures qu'elle dit avoir payées à trois sous-traitants, soit Gestion G. Gauvin, Construction H.D. Inc. et Coffrage R.M.R. (pièce A-1).
+[4] Les deux appelantes sont des sociétés par actions détenues par les trois frères Côté. Elles oeuvrent dans le domaine de la construction. Les Équipements S.P.M. Inc. est la société qui détient les équipements et Les Constructions L.J.P. Inc. est la société qui exploite toutes les opérations. Cette dernière se spécialise dans l'érection de structures de béton et soumissionne sur tous les grands chantiers de construction dans la ville de Montréal. Cette entreprise avait un chiffre d'affaires de 2,5 millions de dollars en 1999 et elle a connu une forte croissance depuis, montrant maintenant un chiffre d'affaires de 25 millions de dollars. Elle embauche 200 employés sur les chantiers de construction et fournit généralement les matériaux.
+[5] Selon Sylvain Côté, le président de ces deux sociétés et le seul actionnaire à avoir témoigné au nom des appelantes, la main-d'oeuvre est plus difficile à trouver depuis quelques années, ce qui force l'entreprise à sous-contracter de plus en plus. En 1999-2000, Sylvain Côté faisait affaires avec 10 à 20 sous-traitants, qu'il sélectionnait lui-même.
+[6] Parmi ces sous-traitants, il y en quatre qui font l'objet du présent litige : d'une part, Construction H.D. Inc. et Coffrage R.M.R., deux sociétés représentées par un dénommé Patrick Landry (selon les informations données par l'avocat des appelantes) et d'autre part Gestion G. Gauvin et Location B.B.M., représentées par Marc-André Bond.
+[7] En ce qui concerne Construction H.D. Inc., monsieur Côté a dit que c'est un ouvrier du nom de Dallaire, qui travaillait pour son père auparavant, qui l'avait approché pour offrir les services de cette entreprise. Le seul document exigé de ce sous-contractant par monsieur Côté, fut la licence d'entrepreneur en construction délivrée selon la loi provinciale habilitante. Selon ce document (pièce A-10), c'est le nom de Bernard Emmanuel qui apparaît comme le répondant, et l'adresse de la place d'affaires est 1362 Montée Masson à Laval. Cette adresse correspond à l'adresse que l'on retrouve sur les factures déposées en preuve qui auraient été remises à Construction L.J.P. Inc. et payées par celle-ci, et qui font l'objet du présent litige.
+[8] Selon ces factures, Construction H.D. Inc. aurait effectué des travaux de préfabrication pour l'une des sociétés appelantes. Monsieur Côté a dit que ces travaux ne se faisaient pas sur les chantiers de construction mais en usine. Ainsi, l'appelante aurait commandé des colonnes, des contremarches, des abaques et des chapiteaux pour ses différents projets.
+[9] En ce qui concerne les sous-contractants Gestion G. Gauvin, Location B.B.M. et Coffrage R.M.R., monsieur Côté dit qu'il a été sollicité par téléphone par monsieur Marc-André Bond. Or, il semble que la société Coffrage R.M.R. n'appartenait pas à monsieur Bond. Seule Gestion G. Gauvin a fourni une licence d'entrepreneur en construction. (Aucune telle licence n'a été fournie pour les deux autres sous-traitants.) Le nom du répondant sur la licence est Gilles Gauvin et l'adresse du siège social est à Ste-Thérèse (pièce A-11). Cette adresse ne correspond pas à l'adresse qui apparaît sur les factures de Gestion G. Gauvin et qui auraient été remises aux appelantes et payées par ces dernières (pièces A-4 et A-6). L'adresse sur les factures est à Terrebonne.
+[10] Monsieur Côté dit qu'à cette période, il ne connaissait pas monsieur Bond. Il lui aurait confié le même type de travaux qu'il avait confié à Construction H.D. Inc. Selon les factures, Gestion G. Gauvin aurait eu le contrat de préfabrication de barricades et de poutres. Selon monsieur Côté, ces commandes servaient pour de gros projets institutionnels à Montréal. Quant à Location B.B.M., elle louait des poutres d'acier, des passerelles et autres équipements aux appelantes.
+[11] Monsieur Côté a dit qu'il donnait les instructions verbalement aux sous-contractants, sans plans et devis. Il faisait rarement des bons de commande. Selon le comptable des appelantes, monsieur Jean-Luc Queneville, c'est Sylvain Côté qui contrôlait l'achat des matériaux et ce n'était donc pas nécessaire, comme dans une grande entreprise, d'émettre des bons de commande. Monsieur Côté ne donnait que les dimensions des poutres et barricades. Il n'a jamais vérifié l'adresse de la place d'affaires des sous-contractants. Il dit qu'il recevait la livraison des commandes à l'adresse d'affaires des appelantes et que lui ou un de ses frères vérifiait la marchandise livrée. Selon monsieur Côté, il y avait également un ingénieur qui en faisait l'inspection. Monsieur Côté payait par chèque sur livraison et ne fournissait aucune preuve de réception des marchandises. Toujours selon monsieur Côté, monsieur Bond exécutait ses commandes de sa place d'affaires à Terrebonne. Or, monsieur Bond qui a également témoigné, a dit qu'il travaillait dans le garage double de la résidence de sa soeur. Il dit qu'il engageait trois menuisiers qu'il payait comptant et qu'il ne déclarait rien de tout ceci aux autorités fiscales. Bien que Gestion G. Gauvin avait un numéro d'enregistrement aux fins de la taxe sur les produits et services ( « TPS » ), monsieur Bond ne faisait aucune remise au gouvernement. Il ne se rappelait pas du nom de ses employés. Monsieur Bond dit que pour remplir les commandes des appelantes, il utilisait les matériaux qu'il avait dénichés dans des démolitions de chantier. Monsieur Côté dit plutôt que monsieur Bond se servait des matériaux fournis par les appelantes. Pour les locations de passerelles et autres, monsieur Bond dit qu'il s'approvisionnait également dans les démolitions de chantier.
+[12] Les factures soumises par les appelantes pour réclamer des CTI n'ont pas été acceptées par le ministère du Revenu du Québec ( « Ministre » ) au départ parce qu'elles n'étaient pas suffisamment détaillées. En effet, soit qu'il n'y a aucune dimension, aucun prix unitaire, ou bien on y retrouve une description très brève des fournitures demandées.
+[13] Par ailleurs, le Ministre a réalisé que les chèques fournis en preuve pour démontrer le paiement de ces factures, étaient échangés dans un centre d'encaissement de chèques, ce qui pouvait présager que ces factures n'étaient purement que des factures d'accommodation et non des factures réelles. De plus, la vérification a permis de constater que les sous-traitants en question avaient tous donné une fausse adresse. En effet, aucun de ces sous-traitants ne faisait affaire aux places d'affaires indiquées. Certains avaient donné un numéro d'inscription pour fins de la TPS qui ne leur appartenait pas. Aucun de ces fournisseurs ne payait de loyer, de salaire, ou n'avait procédé à l'achat de matériaux. Le Ministre en a conclu que ces sous-contractants n'avaient pas la capacité de fournir les services requis par les appelantes puisqu'ils n'exerçaient aucune activité commerciale. Ils ne pouvaient donc pas avoir rendu les services pour lesquels les appelantes réclament maintenant des CTI.
+[14] Par ailleurs, le Ministre a réalisé que le coût de ces factures, bien que comptabilisé au grand livre des appelantes, n'était pas imputé au coût des différents projets. Monsieur Queneville a expliqué que c'est par prudence que le coût de ces factures n'avait pas été inscrit au coût des projets puisqu'on ne savait pas au moment de payer à quel projet était associé la dépense. Ceci semble contredit par les factures qui généralement affichent le nom du projet. Monsieur Queneville a aussi expliqué que c'était la contrôleure interne qui faisait les inscriptions comptables et qu'elle avait omis d'imputer plusieurs factures au coût des projets, et pas seulement celles des fournisseurs concernés dans le présent litige.
+[15] Les appelantes invoquent les articles 2 et 3 du Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants (TPS/TVH) ( « Règlement » ) pour dire que les factures produites remplissent toutes les conditions exigées par le Règlement et la Loi sur la taxe d'accise ( « Loi » ) pour avoir droit au crédit. Ainsi, étaient indiqués sur les factures, le nom de l'acquéreur ou son nom commercial, la date de la facture, le numéro d'inscription, les modalités de paiement, la taxe payée ou payable, et une description suffisante pour identifier chaque fourniture.
+[16] Toutefois, la raison invoquée par le Ministre pour refuser les CTI est plutôt que ces factures sont des fausses factures et qu'il n'y a eu, dans les faits, aucun paiement réel pour l'acquisition de fournitures réelles. En effet, l'on analysera le contenu des factures que si celles-ci sont fondées sur l'existence de transactions véritables (voir Voitures Orly Inc. c. Canada, [2004] A.C.I. no 204 (Q.L.), 2004 CCI 86).
+[17] Les appelantes rétorquent à ceci que le Ministre n'a pu démontrer aucune collusion ou intention commune entre les appelantes et les quatre fournisseurs dans ce sens. Elles soutiennent que le Ministre n'a jamais envisagé la possibilité que les fournisseurs aient pu contracter à leur tour avec des tierces personnes. Elles soutiennent qu'on ne peut conclure automatiquement que puisque les fournisseurs en question agissaient possiblement comme des accommodants, que les appelantes étaient nécessairement les accommodées. Selon les appelantes, les factures, les chèques et les inscriptions au grand livre de même que le témoignage de monsieur Bond corroborant la version de monsieur Côté, sont des éléments de preuve suffisants pour démontrer que les appelantes avaient acquis des biens de bonne foi de ces fournisseurs. Selon elles, ce que font les fournisseurs par la suite n'est pas pertinent.
+[18] À mon avis, et après mûre réflexion, les appelantes n'ont pas démontré de façon prépondérante que le Ministre a erré en concluant que les fournisseurs en question n'ont pas, dans les faits, rendu des services aux appelantes pour lesquels ils auraient été payé par ces dernières.
+[19] En effet, la preuve révèle que les appelantes travaillaient sur des chantiers de construction institutionnels de grande envergure à Montréal. Leur chiffre d'affaires a crû de façon fulgurante depuis 1999. Il est difficile de concevoir que des commandes aient été faites à des sous-contractants, sans bons de commande, sans spécifications précises quant au prix unitaire, aux dimensions, au choix de matériaux exigés dans la fabrication des travaux demandés. Il est également difficile de croire que sur des chantiers où la sécurité du public est mise en cause, un entrepreneur prenne le risque de faire affaire avec des gens qui travaillent dans le garage d'une résidence personnelle, sans garantie aucune sur la qualité des produits demandés, ou sans vérification un peu plus approfondie de l'existence réelle des sous-contractants avec qui il transige. Car la preuve a bien démontré qu'aucun des quatre fournisseurs en question n'avait de place d'affaires; aucun d'eux n'avait de structure opérationnelle. Il serait très étonnant, à mon avis, que les appelantes mettent leur réputation et leur responsabilité en jeu en sous-contractant avec des gens oeuvrant avec des installations de fortune, comme cela semble être le cas de monsieur Bond.
+[20] Ces invraisemblances, combinées aux factures laconiques mises en preuve et toutes conçues sur le même modèle peu importe le fournisseur, combinées au fait que les chèques remis par les appelantes à ces fournisseurs perdaient toute trace après avoir été encaissés dans des centres d'encaissement de chèques, au fait que les appelantes ne comptabilisaient pas ces chèques au coût de ces projets, au fait que les témoignages tant de monsieur Côté que de monsieur Bond n'étaient pas très précis et plutôt nébuleux quant à la façon d'octroyer une commande, sans trop de vérification et sans trop de précisions quant à la livraison ou la réception et l'acceptation des travaux, quant à l'invraisemblance pour monsieur Bond de sa capacité à remplir les commandes requises (telle la préfabrication de 100 barricades de 10' x 3'6" dans un garage résidentiel, pour ne donner qu'un exemple), me font grandement douter de la véracité de ces factures.
+[21] Compte tenu de ces éléments plutôt accablants pour les appelantes, je suis d'accord avec l'avocat de l'intimée qui soutient que les appelantes auraient eu besoin d'un supplément de preuve plus substantiel pour contrer l'allégation du Ministre que ces fournisseurs n'ont pas en réalité fourni de fournitures ou de services aux appelantes. Je considère dans les circonstances que les factures fournies, les chèques et les inscriptions au grand livre, de même que les témoignages de monsieur Côté et de monsieur Bond, ne sont pas suffisants pour démolir les présomptions du Ministre.
+[22] En conséquence, je n'ai d'autre choix que de confirmer les cotisations du Ministre, tant quant au refus des CTI, qu'en ce qui concerne l'imposition de la pénalité aux termes de l'article 280 de la Loi.
+[23] À cet égard, les appelantes ne m'ont pas convaincue qu'elles avaient exercé une diligence raisonnable ou qu'elles avaient agi de façon non négligente dans les circonstances.
+[24] Les appels sont rejetés.
+Signé à Ottawa, Canada, ce 17e jour d'août 2005.
+« Lucie Lamarre »
+Juge Lamarre
+RÉFÉRENCE :
+2005CCI508
+No DU DOSSIER DE LA COUR :
+2003-1220(GST)I
+2003-1223(GST)I
+INTITULÉ DE LA CAUSE :
+LES CONSTRUCTIONS L.J.P. INC. c. SA MAJESTÉ LA REINE et ÉQUIPEMENTS S.P.M. INC. c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+les 29 et 30 novembre 2004
+DATE DU JUGEMENT :
+le 3 décembre 2004
+DATE DES MOTIFS DU JUGEMENT :
+le 17 août 2005
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge Lucie Lamarre
+COMPARUTIONS :
+Pour l'appelant(e) :
+Me Bruno Bernier
+Pour l'intimé(e) :
+Me Benoît Denis
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant(e) :
+Nom :
+Me Bruno Bernier
+Étude :
+Ravinsky Ryan
+Pour l'intimé(e) :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

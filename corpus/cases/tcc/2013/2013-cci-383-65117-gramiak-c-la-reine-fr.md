@@ -1,0 +1,304 @@
+---
+title: "Gramiak c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/65117/index.do"
+last_modified: "2013-12-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 383"
+citation2: ""
+neutral_citation: "2013 CCI 383"
+decision_date: "2013-12-10"
+language: "fr"
+item_id: "65117"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5910
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:53:50.600000+00:00"
+cases_cited_count: 15
+cases_citing_count: 8
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "751a1c1318de31929a45162f260619bb4e7a433d0753a3b61910e95fbbc4f4c6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gramiak c. La Reine
+
+- Citation: 2013 CCI 383
+- Decision date: 2013-12-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5910, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gramiak c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-12-10
+Référence neutre
+2013 CCI 383
+Numéro de dossier
+2012-315(IT)G
+Juges et Officiers taxateurs
+Eugene P. Rossiter
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2013 CCI 383
+Date : 20131210
+Dossier : 2012-315(IT)G
+ENTRE :
+DAVID GRAMIAK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue le 9 avril 2013 à Vancouver (Colombie-Britannique)
+Devant : L’honorable juge en chef adjoint Eugene P. Rossiter
+Comparutions :
+Avocats de l’appelant :
+Me Alistair Campbell et
+Me Michelle Moriarty
+Avocates de l’intimée :
+Me Janie Payette et
+Me Julie David
+MOTIFS DE L’ORDONNANCE ET ORDONNANCE
+A. Le contexte
+[1] L’appel de l’appelant fait partie d’un groupe d’appels connu sous le nom de Concentra-Olympia; ces appels sont tous liés à de présumées opérations de dépouillement d’un régime enregistré d’épargne-retraite, ou [traduction] « dépouillement de REER ». Pour ce qui est de l’affaire visée par la présente requête, M. Gramiak est l’appelant principal.
+[2] Les deux parties conviennent qu’avant les opérations en question, l’appelant a ouvert un compte de REER autogéré dont le fiduciaire était Olympia Trust Company (« Olympia »). L’intimée allègue que l’appelant a transféré des fonds dans ce compte de REER à partir d’un type de compte semblable qu’il détenait auprès d’une autre institution financière.
+[3] En 2002 et en 2003 respectivement, les sommes de 130 500 $ et de 8 500 $ ont été retirées du compte de REER que l’appelant détenait auprès d’Olympia. La position de l’intimée est que l’appelant a donné instruction à Olympia d’utiliser les sommes susmentionnées pour acquérir des débentures de PI Ventures Inc. (« PI Ventures ») en 2002 et en 2003. L’appelant a fait savoir auparavant à l’Agence du revenu du Canada (l’« ARC ») que, pendant toute la période pertinente, il croyait que les fonds du REER avaient servi à acquérir des débentures de PI Ventures. L’avis d’appel déposé indique maintenant que l’appelant est d’avis que les débentures n’ont jamais été acquises.
+[4] Il est maintenant difficile de savoir si les fonds du REER ont à quelque moment que ce soit servi à acquérir les débentures de PI Ventures, ou s’ils ont plutôt été transférés dans un compte en fiducie tenu par un cabinet d’avocats de Calgary. L’intimée soutient que les montants, après leur transfert dans le compte en fiducie de ce cabinet d’avocats, ont été utilisés pour investir dans des sociétés étrangères et que le rendement déclaré de ces investissements a été crédité aux comptes de carte de débit de l’appelant.
+[5] Il n’y a pas eu d’entente entre les parties quant à la question de savoir si les débentures de PI Ventures étaient des « placements admissibles » pour l’application de la Loi de l’impôt sur le revenu (la « Loi ») ou, si elles ont été acquises, si elles constitueraient un « placement admissible ».
+[6] En janvier 2002, l’appelant a reçu de l’ARC une lettre de proposition dans laquelle cette dernière proposait d’établir de nouvelles cotisations à l’endroit de l’appelant pour les années d’imposition 2002 et 2003.
+[7] Au cours du processus de vérification, le ministre du Revenu national (le « ministre ») a obtenu de l’appelant des renonciations concernant la période normale de cotisation relative à ses années d’imposition 2002 et 2003. Les deux renonciations ont été rédigées par l’appelant, et toutes deux portent la date du 14 mars 2006.
+[8] La renonciation relative à l’année d’imposition 2002 indique, en partie :
+[traduction]
+Il est, par la présente, renoncé à la période normale de nouvelle cotisation que prévoit le paragraphe 152(4) de la Loi de l’impôt sur le revenu […] pour l’année d’imposition susmentionnée, à l’égard de :
+l’inclusion dans le revenu de la somme de 130 500 $, relativement à l’acquisition de placements non admissibles (débentures convertibles de PI Ventures Corporation) pour un REER assujetti au paragraphe 146(9) ou (10).
+[9] La renonciation relative à l’année d’imposition 2003 de l’appelant est identique à celle qui concerne l’année d’imposition 2002, sauf pour ce qui est de la valeur du montant inclus dans le revenu.
+[10] L’appelant soutient que les paragraphes 146(9) et (10) ont été mentionnés dans la renonciation à cause de la lettre de proposition et de ce que l’appelant croyait être les questions en litige et les dispositions qui étaient pertinentes à l’égard de la nouvelle cotisation.
+[11] Le 4 janvier 2007, après l’expiration de la période normale de nouvelle cotisation concernant l’année d’imposition 2002 de l’appelant, mais avant celle de la période normale de nouvelle cotisation se rapportant à son année d’imposition 2003, le ministre a établi à l’endroit de l’appelant une nouvelle cotisation de façon à inclure dans son revenu les montants correspondant aux fonds du REER. Ces nouvelles cotisations appliquaient les paragraphes 146(9) et (10) de la Loi, qui visent en général un contribuable dans le cas où des fonds ou une valeur sont, d’une certaine façon, retirés de manière détournée de son REER.
+[12] L’appelant a fait valoir pour la première fois dans l’avis d’appel qu’à vrai dire, il n’avait pas fait l’acquisition des débentures en question. Cela étant, l’intimée a inclus un nouvel argument dans lequel elle a fait valoir que, si l’acquisition des débentures n’avait pas eu effectivement lieu, il s’ensuivait que l’appelant avait reçu une prestation de son REER, de sorte que le paragraphe 146(8) s’appliquait.
+[13] L’appelant a fait opposition à cette nouvelle cotisation, laquelle a été ratifiée par le ministre le 14 octobre 2011.
+[14] Les renonciations de l’appelant ont par la suite été révoquées.
+B. La requête en radiation
+[15] L’appelant a déposé une requête en vue d’obtenir :
+1. en vertu de l’article 53 des Règles de la Cour canadienne de l’impôt (procédure générale (les « Règles »), une ordonnance radiant les alinéas 20c) et d), les renvois aux dispositions suivantes : « 245 », « 56(2) » et « 146(8) », de même que les paragraphes 21 et 26 à 30, inclusivement, de la réponse, sans autorisation de modification;
+2. subsidiairement, en vertu de l’article 53 des Règles, une ordonnance radiant les paragraphes susmentionnés, avec autorisation de modifier ces paragraphes de manière à ce qu’ils ne s’appliquent qu’à l’année d’imposition 2003 de l’appelant;
+3. en vertu de l’article 53 des Règles, une ordonnance radiant l’alinéa 19d) sans autorisation de modification;
+4. en vertu de l’article 53 des Règles, une ordonnance radiant les mots [traduction] « mécanismes de dépouillement de REER » à l’alinéa 18bb) de la réponse, avec autorisation de modifier cet alinéa de façon à faire référence à des mots qui ne soient pas préjudiciables pour l’appelant;
+5. les dépens liés à la requête, payables sans délai.
+[16] L’intimée a elle aussi déposé une requête en vue d’obtenir :
+1. en vertu de l’article 54 des Règles, une ordonnance modifiant la réponse en vue d’inclure les paragraphes 19A et 19B figurant dans la réponse modifiée.
+[17] Avant l’instruction de la présente requête, les parties ont convenu qu’il fallait supprimer de la réponse les alinéas 19d) et 20d), ainsi que les renvois à l’article 245 et au paragraphe 56(2) de la Loi faits aux paragraphes 21, 26, 27 et 30 de la réponse.
+[18] Les parties ont convenu de plus de modifier l’alinéa 18cc), en ces termes :
+[traduction]
+Les promoteurs du stratagème ont déjà été impliqués dans d’autres opérations que le ministre a qualifiées d’opérations de dépouillement de REER.
+[19] Par suite des ententes qui précèdent, les parties restantes des requêtes dont il faut traiter sont :
+A. S’il y a lieu de radier les parties suivantes de la réponse, sans autorisation de modification :
+1) l’alinéa 20c);
+2) le renvoi au paragraphe 148(8), fait au paragraphe 21;
+3) le paragraphe 28;
+4) le paragraphe 29.
+Le texte de ces paragraphes est le suivant :
+[traduction]
+20.c : Si l’appelant a reçu implicitement le montant total des fonds qui ont été transférés de son compte de REER.
+[…]
+28 : Subsidiairement, l’intimée soutient que, si la Cour conclut que le REER de l’appelant n’a pas fait l’acquisition des débentures ou n’a acquis aucun bien au cours des années d’imposition 2002 et 2003, l’appelant, en donnant instruction à Olympia Trust de transférer des fonds de son compte de REER dans le compte en fiducie de Singh Walters Bindal, a reçu implicitement le montant total des fonds transférés.
+29 : En conséquence, les montants de 130 500 $ et de 8 500 $ que l’appelant a obtenus constituent une prestation reçue dans le cadre d’un REER et, de ce fait, ces montants devraient être inclus dans son revenu pour les années d’imposition 2002 et 2003, conformément au paragraphe 146(8) et à l’alinéa 56(1)h) de la Loi.
+B. S’il y a lieu d’autoriser l’intimée à modifier la réponse de façon à y inclure les faits additionnels qui figurent aux paragraphes 19A et 19B.
+Le texte de ces paragraphes est le suivant :
+[traduction]
+19A : Au cours des années 2004 à 2007, l’appelant a reçu les fonds suivants d’une source étrangère, comme l’indiquent les relevés que Syndicated Gold Depository a établis et que l’appelant a fournis à l’ARC :
+2004 : 5 950,00 $US
+2005 : 32 351,86 $US
+2006 : 40 000,00 $US
+2007 : 40 000,00 $US
+Total : 118 301,86 $US (135 297,60 $CAN)
+19B : Ces montants représentent un remboursement de capital découlant du placement que l’appelant a fait dans le cadre d’un REER dans PI Ventures Inc., comme ce dernier l’a indiqué dans une déclaration datée du 20 juin 2008.
+C. Les points en litige
+A. La requête de l’appelant : le sous-alinéa 152(4.1)a)(ii) et les paragraphes 152(5) et (9) de la Loi empêchent-ils l’intimée d’invoquer le nouvel argument selon lequel l’appelant a reçu une prestation dans le cadre de son REER dans chacune des années d’imposition 2002 et 2003, au titre du paragraphe 146(8) de la Loi?
+B. La requête de l’intimée : y a-t-il lieu de modifier la réponse en vue d’y inclure les paragraphes 19A et 19B? Autrement dit, les modifications proposées aideront‑elles à trancher la véritable question qui est en litige entre les parties au procès, sans causer à l’appelant une injustice ou un préjudice dont des dépens ne pourraient l’indemniser?
+D. La position des parties
+[20] (i) L’appelant : l’appelant affirme qu’il est interdit à l’intimée de faire valoir le nouvel argument relatif à son année d’imposition 2002, et ce, pour plusieurs raisons.
+[21] Premièrement, le nouvel argument ne répond pas aux conditions énoncées au paragraphe 152(9) de la Loi. L’appelant soutient que l’intimée, dans le cadre du nouvel argument, se fonde sur des opérations qui n’étaient pas des opérations qui ont constitué le fondement de la nouvelle cotisation. Il allègue que les [traduction] « nouvelles opérations » qu’introduit le nouvel argument sont le transfert de fonds du compte de REER ainsi que leur réception implicite. L’appelant soutient que l’acquisition des débentures dans le cadre du REER n’est pas seulement fondamentale à la position du ministre aux paragraphes 146(9) et (10), mais qu’il s’agit de la seule opération sur laquelle ce dernier s’est fondé pour établir la nouvelle cotisation. Dans ce contexte, fait-il valoir, le fait d’autoriser l’intimée à se fonder sur une opération qui présuppose qu’il n’y a jamais eu d’acquisition de débentures obligerait le ministre à renoncer à l’hypothèse même sur laquelle repose la nouvelle cotisation, et qu’il ne faudrait donc pas l’autoriser à le faire.
+[22] Deuxièmement, l’appelant soutient que le sous-alinéa 152(4.01)a)(ii) et le paragraphe 152(5) de la Loi interdisent d’invoquer le nouvel argument. parce qu’il se situe en dehors du cadre de la renonciation. Sa position repose sur la prétention selon laquelle le nouvel argument ne se [traduction] « rapporte pas de manière raisonnable » aux questions précisées dans la renonciation. En fait, soutient-il, son représentant a rédigé consciemment et délibérément la renonciation de manière limitative afin d’en restreindre l’application aux seules nouvelles cotisations établies au titre des paragraphes 146(9) et (10) de la Loi.
+[23] Enfin, l’appelant fait valoir que le nouvel argument compromettrait l’instruction équitable de l’appel aux termes de l’alinéa 53a) des Règles et qu’il constituerait un recours abusif aux termes de l’alinéa 53c) des Règles.
+[24] En ce qui concerne la requête de l’intimée, l’appelant s’oppose à la modification visant à autoriser l’inclusion des paragraphes 19A et 19B de la réponse modifiée.
+[25] (ii) L’intimée : l’intimée soutient tout d’abord que le nouvel argument est admissible au titre du paragraphe 152(9), car les faits et les opérations sur lesquelles il repose sont les mêmes que ceux qui ont donné naissance à la nouvelle cotisation. Elle ajoute que le nouvel argument n’est fondé sur aucune nouvelle opération, et que le placement fait dans PI Ventures dans le cadre du REER ainsi que les conséquences fiscales découlant de cette opération constituent le fondement de la nouvelle cotisation et du nouvel argument.
+[26] L’intimée soutient par ailleurs que le libellé de la renonciation est suffisamment large pour que l’on en vienne à conclure que le nouvel argument [traduction] « se rapporte de manière raisonnable » aux questions qui y sont énoncées, de sorte qu’il ne faudrait pas le radier.
+[27] En ce qui concerne les nouveaux faits inclus aux paragraphes 19A et 19B de sa réponse modifiée, l’intimée soutient que ces faits ne servent qu’à compléter la réponse, qu’ils sont pertinents à l’égard de toutes les dispositions sur lesquelles se fonde le ministre pour établir une nouvelle cotisation à l’endroit de l’appelant et qu’ils sont importants pour la décision du juge du procès.
+E. Analyse
+La requête de l’appelant
+Le critère du caractère « évident et manifeste »
+[28] L’appelant invoque l’article 53 des Règles pour faire radier certaines parties de la réponse de l’intimée :
+53. La Cour peut radier un acte de procédure ou un autre document ou en supprimer des passages, en tout ou en partie, avec ou sans autorisation de le modifier parce que l’acte ou le document :
+a) peut compromettre ou retarder l’instruction équitable de l’appel;
+b) est scandaleux, frivole ou vexatoire;
+c) constitue un recours abusif à la Cour.
+[29] Je signale au départ que les tribunaux de première instance ont souvent traité de la validité d’arguments que le sous-alinéa 152(4.01)a)(ii) empêche censément le ministre d’invoquer (voir Fagan c. La Reine, 2011 CCI 523; Chafetz c. La Reine, 2005 CCI 803, confirmée par 2007 CAF 45; Holmes c. La Reine, 2005 CCI 403; Mah c. La Reine, 2003 CCI 720).
+[30] Le critère du caractère « évident et manifeste » est reconnu de façon générale et depuis longtemps dans la jurisprudence canadienne comme celui qui s’applique aux requêtes en radiation. Dans la décision Sentinel Hill Productions (1999) Corporation, Robert Strother c. La Reine, 2007 CCI 742, le juge en chef Bowman a fait un survol utile des principes qui régissent l’application de l’article 53 des Règles :
+[traduction]
+[4] J’énoncerai en premier lieu les principes qui, selon moi, doivent s’appliquer dans une requête en radiation fondée sur l’article 53 des Règles. La question a été examinée dans de nombreuses décisions de la Cour et de la Cour d’appel fédérale. Il n’est pas nécessaire de les citer toutes étant donné que les principes sont bien établis[1].
+a) Les faits allégués dans l’acte de procédure contesté doivent être considérés comme exacts sous réserve des limites énoncées dans l’arrêt Operation Dismantle Inc. c. Canada, [1985] 1 R.C.S. 441, à la page 455. Il n’est pas loisible à la partie qui attaque un acte de procédure en vertu de l’article 53 des Règles de contester des assertions de fait.
+b) Pour qu’un acte de procédure soit radié, en tout ou en partie, en vertu de l’article 53 des Règles, il doit être évident et manifeste que la position qui est prise n’a aucune chance de succès. Il s’agit d’un critère rigoureux, et il faut faire preuve d’énormément de prudence en exerçant le pouvoir conféré en matière de radiation d’un acte de procédure.
+c) Le juge des requêtes doit éviter d’usurper les fonctions du juge du procès en tirant des conclusions de fait ou en se prononçant sur la pertinence. Il faut laisser de telles questions à l’appréciation du juge qui entend la preuve.
+d) C’est l’article 53 des Règles, et non l’article 58, qu’il faut appliquer dans le cadre d’une requête en radiation.
+[Non souligné dans l’original.]
+[31] Dans l’arrêt de la Cour suprême du Canada Knight c. Imperial Tobacco Canada Ltée, 2011 CSC 42, la juge en chef McLachlin a écrit :
+[…] La Cour a réitéré ce critère à maintes reprises : l’action ne sera rejetée que s’il est évident et manifeste, dans l’hypothèse où les faits allégués seraient avérés, que la déclaration ne révèle aucune cause d’action raisonnable […] Autrement dit, la demande doit n’avoir aucune possibilité raisonnable d’être accueillie. Sinon, il faut lui laisser suivre son cours […]
+De plus :
+[…] Le juge saisi d’une requête en radiation se demande s’il existe une possibilité raisonnable que la demande soit accueillie. Dans le monde de la conjecture abstraite, il existe une probabilité mathématique qu’un certain nombre d’événements se produisent. Ce n’est pas ce que le critère applicable aux requêtes en radiation cherche à déterminer. Il suppose plutôt que la demande sera traitée de la manière habituelle dans le système judiciaire — un système fondé sur le débat contradictoire dans lequel les juges sont tenus d’appliquer le droit (et son évolution) énoncé dans les lois et la jurisprudence. Il s’agit de savoir si, dans le contexte du droit et du processus judiciaire, la demande n’a aucune possibilité raisonnable d’être accueillie.
+[32] Plus récemment, la Cour canadienne de l’impôt a appliqué le critère du caractère « évident et manifeste » dans la décision Canadian Imperial Bank of Commerce v. R., 2011 TCC 568.
+[traduction]
+Ce n’est que si la position adoptée dans la réponse est vouée à l’échec parce qu’elle est entachée d’un vice fondamental qu’il y a lieu de radier les parties pertinentes de la réponse de l’intimée.
+[33] Je ferais remarquer qu’il existe de la jurisprudence dans laquelle on a appliqué le critère du caractère « évident et manifeste » dans le cadre de jugements complexes où la Cour s’est livrée à une analyse longue et approfondie avant de conclure en fin de compte qu’il y avait lieu de radier l’acte de procédure en question. Il m’est difficile de concilier le fait de se livrer à une analyse complexe et approfondie avec la nature même du critère du caractère « évident et manifeste ». Comme le dénote le nom de ce critère, un acte de procédure ne doit être radié que s’il est évident qu’il devrait l’être. À mon sens, une « décision évidente », dans la vie comme en droit, est une conclusion que l’on peut tirer sans hésitation et qui ne requiert pas de longues délibérations. À mon humble avis, s’il faut vingt pages pour expliquer pourquoi une chose est évidente, c’est que celle-ci ne l’est tout simplement pas.
+[34] Cela dit, il reste encore à appliquer le critère du caractère « évident et manifeste » à une situation qui correspond exactement à celle dont il est question ici. Il ne semble pas y avoir de décisions dans lesquelles la Cour a radié des actes de procédure du fait qu’ils contenaient un argument qu’il était interdit au ministre d’invoquer du fait du sous-alinéa 152(4.01)a)(ii) de la Loi. Aucune des décisions que l’appelante a citées dans l’avis de requête n’a directement trait à une requête en radiation en vertu de l’article 53 des Règles. Les arrêts Honeywell c. La Reine, 2007 CAF 22, et Walsh c. La Reine, 2007 CAF 222, concernent des requêtes en modification d’actes de procédure. On peut en dire autant des sources qu’ont citées à la fois l’appelant et l’intimée à l’appui de leurs observations écrites. Les sources qu’ils citent analysent peut-être bien l’alinéa 152(4.01)a)(ii) de la Loi dans le contexte de la modification d’actes de procédure ou d’autres documents, mais l’analyse n’a pas encore été faite dans le contexte du critère du caractère « évident et manifeste » que requiert l’article 53 des Règles.
+[35] Il y a une différence de taille entre les normes auxquelles sont soumises les requêtes en modification et les requêtes en radiation d’un acte de procédure. Selon la décision Canderel Ltd c. R. [1993] 2 CTC 213, [1994] 1 CF 3, une modification à un acte de procédure doit être autorisée dans la mesure où elle se rapporte à la question qui est en litige dans l’appel, dans la mesure où elle ne porte pas préjudice aux parties ou ne cause pas d’injustice. Par contraste, le critère du caractère « évident et manifeste » que l’on applique à la radiation d’une requête est sensiblement plus élevé, plus strict, et les tribunaux ont statué qu’il n’y a lieu de radier un acte de procédure que dans les circonstances les plus exceptionnelles.
+[36] Cela limite donc l’applicabilité des précédents suggérés à la requête dont il est question en l’espèce. L’analyse des sources proposées est pertinente car celles‑ci ont trait au sous-alinéa 154(4.01)a)(ii) de la Loi, mais l’issue de ces décisions n’est pas déterminante pour celle de la présente requête.
+[37] En fin de compte, pour décider s’il y a lieu de faire droit à la requête visant à radier certaines parties des actes de procédure de l’intimée, il faut donc se demander s’il est évident et manifeste que l’intimée n’est pas en droit de plaider le nouvel argument.
+[38] Pour répondre à cette question, je traiterai en premier des deux questions que les parties ont soulevées et je procéderai à l’analyse effectuée dans les précédents qui ont été soumis à la Cour. Les deux principales questions à trancher se rapportent, premièrement, à la question de savoir si le nouvel argument repose sur des questions qui n’ont pas servi de fondement à la nouvelle cotisation et, deuxièmement, à celle de savoir si le nouvel argument se rapporte de manière raisonnable à la renonciation. Cette analyse sera ensuite structurée et examinée sous l’angle du critère du caractère « évident et manifeste » de façon à pouvoir déterminer l’issue de la requête de l’appelant.
+Le nouvel argument repose-t-il sur des opérations qui n’ont pas servi de fondement à la nouvelle cotisation?
+[39] Le paragraphe 152(9) de la Loi dispose :
+Nouvel argument à l’appui d’une cotisation – Le ministre peut avancer un nouvel argument à l’appui d’une cotisation après l’expiration de la période normale de nouvelle cotisation, sauf si, sur appel interjeté en vertu de la présente loi :
+a) d’une part, il existe des éléments de preuve que le contribuable n’est plus en mesure de produire sans l’autorisation du tribunal;
+b) d’autre part, il ne convient pas que le tribunal ordonne la production des éléments de preuve dans les circonstances.
+[40] Il est établi dans jurisprudence canadienne que le ministre est en droit de se fonder sur le paragraphe 152(9) pour faire valoir un nouvel argument dans certaines situations.
+[41] Dans l’arrêt Walsh c. La Reine, 2007 CAF 222, la Cour d’appel fédérale fixe trois limites pertinentes :
+1. le ministre ne peut pas inclure de transactions non comptées dans la nouvelle cotisation du contribuable;
+2. le droit du ministre de proposer un autre argument à l’appui d’une cotisation est assujetti aux alinéas 152(9)a) et b), qui ont trait au préjudice causé au contribuable;
+3. le ministre ne peut pas invoquer le paragraphe 152(9) pour établir une nouvelle cotisation au-delà du délai prévu au paragraphe 152(4) de la Loi ou pour percevoir un impôt dépassant le montant de la cotisation contestée.
+[42] Les arrêts Anchor Pointe Energy Ltd. c. La Reine, 2003 CAF 294, et La Reine c. Loewen, 2004 CAF 146, expliquent de plus qu’il n’est pas interdit à un intimé de se fonder sur le paragraphe 152(9) pour faire valoir un autre argument, à moins que les opérations factuelles qui sous-tendent cet autre argument soient différentes de celles qui sous-tendent la nouvelle cotisation.
+[43] Je conclus qu’en l’espèce, les opérations qui sous-tendent le nouvel argument ne paraissent pas sensiblement différentes de celles qui sous-tendent les nouvelles cotisations en litige. En fait, au moment d’établir ces dernières, le ministre a présumé, notamment, que :
+• les débentures destinées à être achetées par le compte en fiducie de REER de l’appelant avaient, au moment de leur achat, une valeur nulle ou symbolique;
+• les fonds ayant censément servi à acheter les débentures ont été détournés finalement vers le compte en fiducie d’un cabinet d’avocats.
+[44] À mon avis, une série d’opérations dans le cadre desquelles l’appelant aurait pu détourner directement des fonds de son REER vers le compte en fiducie du cabinet d’avocats ne diffère pas beaucoup des opérations que le ministre a présumées. Il semble plutôt que la seule différence entre les faits qui sous-tendent le nouvel argument et ceux qui sous-tendent les nouvelles cotisations concernent la question de savoir si les REER de l’appelant étaient un bien légitimement acquis d’une valeur symbolique ou nulle.
+[45] Voici d’autres hypothèses que le ministre a faites au moment d’établir la nouvelle cotisation de l’appelant :
+• PI Ventures était une société fictive;
+• le rentier a donné instruction à Olympia Trust de transférer les fonds détenus dans son compte de REER dans le compte en fiducie no 5204448 de Singh Walters Bindal en vue d’y avoir accès;
+• Les fonds de REER qui ont abouti dans le compte en fiducie de Singh Walters Bindal n’ont jamais été utilisés pour les propres besoins de PI Ventures Inc., mais ont été transférés à diverses entreprises situées au Canada ou à l’étranger.
+[46] Il semble évident que les opérations qui sous-tendent la nouvelle cotisation et le nouvel argument sont celles que l’appelant a censément entreprises en vue d’éluder l’impôt à payer sur les fonds de son REER. Naturellement, toutes les dispositions de la Loi dont il est question, soit les paragraphes 146(8), (9) et (10), visent en partie à éviter qu’un contribuable retire des fonds de son REER de manière détournée, en franchise d’impôt. Ce sont les opérations liées au « dépouillement de REER », et plus particulièrement les fonds retirés du compte de REER en vue de les détourner vers le compte en fiducie du cabinet d’avocats, qui sous-tendent à la fois la nouvelle cotisation et le nouvel argument.
+[47] Dans ce contexte, je suis d’avis que l’argument subsidiaire n’inclut pas de « transactions non comptées dans la nouvelle cotisation du contribuable », comme il est décrit dans l’arrêt Walsh et comme le prétend l’appelant.
+[48] De plus, aucune des possibilités évoquées aux alinéas 152(9)a) et b) de la Loi ne semble être présente dans les circonstances de l’espèce.
+Le paragraphe 146(8) se rapporte-t-il de manière raisonnable aux questions précisées dans les renonciations?
+[49] L’article 152 énonce les règles qui régissent la délivrance, par le ministre, des cotisations et des nouvelles cotisations. Voici ce qu’on peut lire aux paragraphes 152(4), (4.01) et (5) :
+152(4) Cotisation et nouvelle cotisation. Le ministre peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire concernant l’impôt pour une année d’imposition, ainsi que les intérêts ou les pénalités, qui sont payables par un contribuable en vertu de la présente partie ou donner avis par écrit qu’aucun impôt n’est payable pour l’année à toute personne qui a produit une déclaration de revenu pour une année d’imposition. Pareille cotisation ne peut être établie après l’expiration de la période normale de nouvelle cotisation applicable au contribuable pour l’année que dans les cas suivants :
+a) le contribuable ou la personne produisant la déclaration :
+(i) soit a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement sous le régime de la présente loi,
+(ii) soit a présenté au ministre une renonciation, selon le formulaire prescrit, au cours de la période normale de nouvelle cotisation applicable au contribuable pour l’année;
+b) la cotisation est établie avant le jour qui suit de trois ans la fin de la période normale de nouvelle cotisation applicable au contribuable pour l’année et, selon le cas :
+(i) est à établir en vertu du paragraphe (6) ou (6.1), ou le serait si le contribuable avait déduit une somme en présentant le formulaire prescrit visé à ce paragraphe au plus tard le jour mentionné à ce paragraphe,
+(ii) est établie par suite de l’établissement, en application du présent paragraphe ou du paragraphe (6), d’une cotisation ou d’une nouvelle cotisation concernant l’impôt payable par un autre contribuable,
+(iii) est établie par suite de la conclusion d’une opération entre le contribuable et une personne non résidente avec laquelle il avait un lien de dépendance,
+(iii.1) si le contribuable est un non-résident exploitant une entreprise au Canada, est établie par suite :
+(A) soit d’une attribution, par le contribuable, de recettes ou de dépenses au titre de montants relatifs à l’entreprise canadienne (sauf des recettes et des dépenses se rapportant uniquement à l’entreprise canadienne qui sont inscrits dans les documents comptables de celle-ci et étayés de documents conservés au Canada),
+(B) soit d’une opération théorique entre le contribuable et son entreprise canadienne, qui est reconnue aux fins du calcul d’un montant en vertu de la présente loi ou d’un traité fiscal applicable,
+(iv) est établie par suite d’un paiement supplémentaire ou d’un remboursement d’impôt sur le revenu ou sur les bénéfices effectué au gouvernement d’un pays étranger, ou d’un état, d’une province ou autre subdivision politique d’un tel pays, ou par ce gouvernement,
+(v) est établie par suite d’une réduction, opérée en application du paragraphe 66(12.73), d’un montant auquel il a été censément renoncé en vertu de l’article 66,
+(vi) est établie en vue de l’application des paragraphes 118.1(15) ou (16),
+[…]
+(4.01) Cotisation à laquelle s’appliquent les alinéas 152(4)a) ou b) — Malgré les paragraphes (4) et (5), la cotisation, la nouvelle cotisation ou la cotisation supplémentaire à laquelle s’appliquent les alinéas (4)a) ou b) relativement à un contribuable pour une année d’imposition ne peut être établie après l’expiration de la période normale de nouvelle cotisation applicable au contribuable pour l’année que dans la mesure où il est raisonnable de considérer qu’elle se rapporte à l’un des éléments suivants :
+a) en cas d’application de l’alinéa (4)a) :
+[…]
+(ii) une question précisée dans une renonciation présentée au ministre pour l’année;
+[…]
+(5) N’est pas à inclure dans le calcul du revenu d’un contribuable pour une année d’imposition en vue de l’établissement, après la période normale de nouvelle cotisation qui lui est applicable pour l’année, d’une cotisation, d’une nouvelle cotisation ou d’une cotisation supplémentaire en vertu de la présente partie le montant qui n’a pas été inclus dans le calcul de son revenu en vue de l’établissement, avant la fin de cette période, d’une cotisation, d’une nouvelle cotisation ou d’une cotisation supplémentaire en vertu de cette partie.
+[Non souligné dans l’original.]
+[50] Aux termes du sous-alinéa 152(4.01)a)(ii), le ministre peut établir une nouvelle cotisation après la période normale de nouvelle cotisation dans la mesure où il est raisonnable de considérer qu’elle se rapporte à « une question précisée dans une renonciation présentée au ministre pour l’année ». De par l’arrêt Honeywell, nous savons que cette règle s’applique aux autres fondements d’une nouvelle cotisation que l’on fait valoir lors du processus d’appel. La Cour doit donc décider si le nouvel argument qui cite le paragraphe 246(8) de la Loi se rapporte de manière raisonnable aux questions qui sont précisées dans la renonciation.
+[51] Il ressort de la jurisprudence que, pour ce qui est de l’application du sous‑alinéa 152(4.01)a)(ii), une renonciation doit être interprétée de manière objective lorsqu’il existe un vice technique ou lorsque les intentions des parties diffèrent, Chafetz c. La Reine, 2007 CAF 45, et cette interprétation doit être faite dans le contexte des circonstances dans lesquelles s’inscrit l’appel, Brown c. La Reine, 2006 CCI 381.
+[52] Dans le même ordre d’idées, lorsqu’on interprète une renonciation, le texte n’est pas forcément déterminant. La question a été analysée par le juge Reed dans la décision Stanley J. Solberg v. M.N.R., 92 D.T.C. 6448 (C.F. 1re inst.), dont le raisonnement a été suivi dans la décision Fagan c. La Reine, 2011 CCI 523. Dans la décision Fagan, le juge Angers a souligné que, quand on interprète une renonciation, une preuve extrinsèque est souvent pertinente. Voir à cet égard les paragraphes [34] et [35].
+La portée de la renonciation
+[53] La renonciation que les parties ont signée pour l’année d’imposition 2002 indique :
+[traduction]
+l’inclusion dans le revenu de la somme de 130 500 $, relativement à l’acquisition de placements non admissibles (débentures convertibles de PI Ventures Corporation) pour un REER assujetti au paragraphe 146(9) ou (10).
+[54] Selon moi, cette renonciation est d’une portée suffisamment large pour pouvoir conclure que le nouvel argument se rapporte de manière raisonnable aux questions précisées dans la renonciation.
+[55] J’arrive à cette conclusion en notant tout d’abord qu’il suffit de considérer que le nouvel argument se rapporte de manière raisonnable à la question précisée dans la renonciation – il n’est pas nécessaire que cet argument y soit expressément inclus. J’interprète la « question » précisée dans la renonciation comme étant l’inclusion dans le revenu et le traitement de la somme de 130 500 $ pour l’année d’imposition 2002. Selon moi, ce serait une interprétation trop étroite que de conclure que la « question » précisée dans la renonciation est une inclusion dans le revenu qui découle exclusivement de l’achat des débentures de PI Ventures. La question précisée dans la renonciation ne se limite pas à des dispositions mentionnées qui expliquent pourquoi elle pourrait être incluse dans le revenu. La question précisée dans la renonciation ne se limite pas aux paramètres des paragraphes 146(9) et (10); la question précisée dans la renonciation est le traitement du revenu indiqué. Cela étant, je conclus que le nouvel argument se rapporte de manière raisonnable à la question précisée dans la renonciation.
+[56] Comme il a été mentionné plus tôt, dans les cas où la renonciation est entachée d’un vice, ou si l’on ne s’entend pas sur la portée et le sens d’une renonciation, l’analyse s’oriente vers la question de savoir si le sens de la renonciation est d’une portée plus large que le texte à lui seul. Comme nous l’apprennent les décisions Solberg et Fagan, pour interpréter une renonciation contestée, il est nécessaire d’analyser les preuves extrinsèques. Ainsi que l’a souligné le juge Mogan dans la décision Brown :
+[…] Les circonstances pertinentes de l’espèce sont importantes pour décider si une nouvelle cotisation subséquente respecte les modalités de la renonciation.
+[57] L’appelant semble soutenir que la renonciation limite la capacité qu’a l’intimée d’établir une nouvelle cotisation en dehors du cadre des paragraphes 246(9) et (10). L’intimée fait clairement valoir qu’elle ne partage pas l’intention de l’appelant quant à la portée de la renonciation. Dans de tels cas d’intentions divergentes, l’analyse qu’il convient d’effectuer est une interprétation objective de la renonciation et des preuves extrinsèques qui l’entourent (Chafetz).
+[58] Pour ce qui est des preuves extrinsèques soumises à la Cour dans le cadre de la présente requête, on ne peut échapper au fait que la lettre de proposition indiquait clairement à l’appelant que le ministre faisait enquête sur un mécanisme par l’intermédiaire duquel l’appelant avait reçu la valeur de ses fonds de REER sans acquitter l’impôt approprié. Il vaut de nouveau la peine de souligner que le paragraphe 246(8), à l’instar des paragraphes 246(9) et (10), a pour effet d’éviter, en partie, que des contribuables retirent des fonds de leur REER d’une manière détournée, en franchise d’impôt.
+[59] J’ai extrait certains passages de la lettre de proposition transmise à l’appelant en janvier 2006, laquelle énonce les points qui préoccupaient le ministre à propos des années d’imposition 2002 et 2003. En me fondant sur les extraits qui suivent, de même que sur mon interprétation de la lettre de proposition dans son ensemble, l’appelant savait - ou aurait dû savoir - que la question en litige dans la présente affaire était un dépouillement de REER, et non pas simplement l’acquisition de débentures :
+• [traduction] « Certaines personnes associées à cette vente de débentures sont reconnues pour avoir déjà fait la promotion de mécanismes visant à retirer des fonds de REER en franchise d’impôt. »
+• [traduction] « Les opérations avaient pour objet véritable de retirer les fonds de votre REER sans créer d’assujettissement à l’impôt sur le revenu. »
+• [traduction] « Nous sommes d’avis que le mécanisme visait à dépouiller la valeur du REER, et c’est le résultat qui a été atteint. »
+[60] Ces passages montrent que la question visée par la nouvelle cotisation ne se limitait pas à l’acquisition de débentures et que l’appelant le savait. La renonciation est d’une portée aussi large que celle de la question qu’elle vise, et ces communications indiquent que la question dont traitaient les parties débordait le cadre de la simple application des paragraphes 146(9) et (10). Cela étant, je conclus qu’une interprétation non textuelle et objective de la renonciation, tout en gardant à l’esprit les circonstances et les preuves extrinsèques, dénotent également que le paragraphe 246(8) de la Loi se rapporte de manière raisonnable aux questions précisées dans la renonciation.
+[61] Je suis également obligé de conclure que le nouvel argument se rapporte de manière raisonnable à la question précisée dans la renonciation, car les paragraphes 146(8), (9) et (10) sont tous étroitement liés. Le texte de ces dispositions est le suivant :
+(8) Est inclus dans le calcul du revenu d’un contribuable pour une année d’imposition le total des montants qu’il a reçus au cours de l’année à titre de prestations dans le cadre de régimes enregistrés d’épargne-retraite, à l’exception des retraits exclus au sens des paragraphes 146.01(1) ou 146.02(1), et des montants qui sont inclus, en application de l’alinéa (12)b), dans le calcul de son revenu.
+[…]
+(9) Lorsque, au cours d’une année d’imposition, une fiducie régie par un régime enregistré d’épargne-retraite :
+a) soit dispose de biens en échange d’une contrepartie d’une valeur inférieure à la juste valeur marchande que ces biens avaient au moment de la disposition, ou sans aucune contrepartie;
+(b) soit acquiert des biens en échange d’une contrepartie d’une valeur supérieure à la juste valeur marchande que ces biens avaient au moment de l’acquisition,
+toute différence entre cette juste valeur marchande et la contrepartie doit être incluse dans le calcul du revenu, pour l’année d’imposition, du rentier qui bénéficie de ce régime.
+[…]
+(10) Si, au cours d’une année d’imposition, une fiducie régie par un régime enregistré d’épargne-retraite utilise un bien de la fiducie à titre de garantie d’un prêt ou en permet pareille utilisation, la juste valeur marchande du bien, au moment où il a commencé à être ainsi utilisé, est incluse dans le calcul du revenu, pour l’année, du contribuable qui est le rentier en vertu du régime à ce moment.
+[62] Le paragraphe 146(1) définit ce qu’est une « prestation » pour l’application du paragraphe 146(2); une prestation inclut de façon générale « toute somme reçue dans le cadre d’un régime d’épargne-retraite », à l’exception de certaines sommes énumérées.
+[63] Les paragraphes 146(8), (9) et (10) s’appliquent chacun à des circonstances très semblables. Le paragraphe 146(8) peut s’appliquer de manière à exiger qu’une somme soit incluse dans le revenu lorsqu’un contribuable reçoit un montant payé directement à partir de son REER. Dans le même ordre d’idées, le paragraphe 146(1) peut s’appliquer lorsqu’un contribuable cherche à éviter l’application du paragraphe 146(8) en faisant en sorte, par exemple, que son REER achète un bien qu’il détient personnellement en contrepartie d’un montant exagérément élevé. Le paragraphe 146(9) peut s’appliquer dans les cas où un contribuable cherche à se soustraire à l’application du paragraphe 146(8) en faisant en sorte que son REER soit donné en garantie pour un prêt consenti à un contribuable de façon à supprimer la valeur des biens du REER. Les points communs et les liens entre ces dispositions sont étroits.
+[64] De plus, les montants qui doivent être inclus aux termes des paragraphes 146(8), (9) et (10) sont tous ajoutés au revenu en application de l’alinéa 56(1)h) de la Loi.
+[65] La présente affaire est dissemblable de l’affaire Honeywell, dans laquelle le ministre avait établi une cotisation à l’endroit de l’appelante à partir d’un fondement tout à fait nouveau, après avoir reçu de nouvelles informations au stade de l’interrogatoire préalable; dans l’affaire Honeywell, la nouvelle cotisation portait sur des faits nouveaux, des questions nouvelles ainsi que de nouvelles opérations qu’il n’était pas raisonnable de considérer qu’ils se rapportaient aux questions précisées dans la renonciation. Dans le même ordre d’idées, il est possible aussi de faire une distinction entre la présente affaire et celle dont il était question dans Mah, où le juge en chef Rip a conclu que la seule relation entre les deux dispositions était qu’elles avaient été déclenchées dans la même année. À l’opposé, la présente affaire porte sur les mêmes opérations et les mêmes questions en litige, et il existe un lien direct entre les dispositions plaidées.
+[66] Je traiterai ici du fait que l’appelant a persisté à dire pendant toute la durée du processus de vérification qu’il avait fait l’acquisition des débentures en question; il a toutefois changé sa position dans l’avis d’appel, et il soutient maintenant n’avoir jamais acquis les débentures. Il serait absurde de rejeter le nouvel argument de l’intimée si l’on considère que l’appelant a rédigé la renonciation tentant de limiter la portée de la nouvelle cotisation, qu’il a ensuite évoqué dans l’avis d’appel un nouvel argument qui contredit les informations fournies à l’ARC lors de la vérification et qu’il prétend maintenant que l’intimée n’est pas en mesure de répondre à sa nouvelle position, puisque celle-ci se situe en dehors du cadre de la renonciation soigneusement rédigée.
+[67] Vu la relation entre les paragraphes 146(8), (9) et (10) et eu égard à la matrice factuelle commune qui sous-tend à la fois le nouvel argument et la nouvelle cotisation, je crois que l’on peut considérer de manière raisonnable que ce nouvel argument se rapporte à la question précisée dans la renonciation. Je suis donc d’avis que l’intimée devrait avoir le droit d’évoquer le nouvel argument dans sa réponse.
+Analyse concernant le critère du caractère « évident et manifeste »
+[68] Mes conclusions qui précèdent : premièrement, que le nouvel argument n’est pas fondé sur de nouvelles opérations qui ne constituaient pas le fondement de la nouvelle cotisation et, deuxièmement, que le nouvel argument se rapporte de manière raisonnable à l’affaire précisée dans la renonciation, montrent que les arguments de l’appelant ne peuvent pas être retenus et que le nouvel argument devrait être soumis au juge du procès. Notamment, les arguments de l’appelant ont été rejetés à la suite de l’analyse fondamentale de ces questions, qui ont été établies dans le contexte de la modification d’actes de procédures, plutôt que dans celui d’une radiation. Il va sans dire que, si la condition relative à la modification n’est pas remplie, celle qui s’applique à la radiation ne l’est certes pas non plus. Pour obtenir gain de cause dans la présente requête, il aurait fallu que l’appelant montre non seulement en quoi l’analyse qui précède étayait son argument, mais aussi en quoi il était « évident et manifeste » d’arriver à cette conclusion. À mon avis, il est inconcevable que l’on doive radier les actes de procédure, et non seulement évident et manifeste.
+Le préjudice
+[69] Je ne vois pas en quoi le fait de permettre que le nouvel argument soit maintenu dans les actes de procédure de l’intimée peut compromettre ou retarder l’instruction équitable de l’appel, aux termes de l’alinéa 53a) des Règles, ou constituer un recours abusif à la Cour, aux termes de l’alinéa 53c) des Règles.
+[70] Je renvoie au juge Anger, qui a écrit dans la décision Fagan :
+Les décisions susmentionnées confirment également qu’il est raisonnable de considérer une nouvelle cotisation comme se rapportant au libellé de la renonciation si la preuve montre que le fondement de la nouvelle cotisation n’a pas pris le contribuable par surprise ou si les deux parties connaissaient le fondement de la nouvelle cotisation. En d’autres termes, les tribunaux ont conclu qu’en pareil cas, ni l’une ni l’autre partie ne subira un préjudice du fait que la validité de la renonciation soit confirmée.
+[Non souligné dans l’original.]
+[71] En l’espèce, l’appelant n’aurait pas pu être raisonnablement surpris par le nouvel argument invoqué dans la réponse, car il était inclus dans les actes de procédure que l’intimée avait déposés simplement en réponse à la nouvelle position exposée par l’appelant dans l’avis d’appel.
+[72] La requête de l’appelant est donc rejetée.
+La requête de l’intimée
+[73] L’intimée souhaite faire modifier la réponse en vue d’inclure deux faits supplémentaires, soit ceux qui sont inclus aux paragraphes 19A et 19B de la réponse modifiée. L’appelant s’oppose aux modifications proposées.
+[74] Le paragraphe 19A indique les montants exacts que l’appelant a censément reçus de Syndicated Gold Depository dans les années 2004 à 2007, soit un montant total de 135 297,60 $CAN. Selon le paragraphe 19B, ces fonds étaient un rendement au titre du placement fait par l’appelant, dans le cadre de son REER, dans PI Ventures, comme l’a indiqué l’appelant dans une déclaration datée du 20 juin 2008.
+[75] Il est important de signaler tout d’abord que la requête de l’intimée est une requête en modification présentée en vertu de l’article 52 des Règles de la Cour canadienne de l’impôt (procédure générale), plutôt qu’une requête en radiation en vertu de l’article 53. J’ai déjà établi que la distinction entre ces deux critères est importante. La règle de droit concernant la modification d’un acte de procédure a été énoncée par la Cour d’appel fédérale dans l’arrêt Canderel, où le juge Décary a écrit :
+[…] la règle générale est qu’une modification devrait être autorisée à tout stade de l’action aux fins de déterminer les véritables questions litigieuses entre les parties, pourvu, notamment, que cette autorisation ne cause pas d’injustice à l’autre partie que des dépens ne pourraient réparer, et qu’elle serve les intérêts de la justice
+[76] Il m’apparaît clairement que les faits énoncés dans les nouveaux paragraphes sont liés au cœur même du présent appel. Ces paragraphes comportent des faits liés au suivi de fonds issus du REER autogéré de l’appelant, ce qui est manifestement important et pertinent à l’égard de la question visée par le présent appel, laquelle consiste à savoir s’il y a eu dépouillement du REER de l’appelant et si cela a donné lieu à l’acquisition des fonds en franchise d’impôt.
+[77] Je ne puis imaginer en quoi l’ajout de ces faits porterait de quelque façon préjudice à l’appelant, car il a été clairement indiqué à ce dernier, dès le tout début de la vérification, que l’ARC faisait enquête sur ce qu’elle croyait être un stratagème de dépouillement de REER. L’appelant s’attendait précisément à cet argument de la part du ministre, et l’ajout des nouveaux paragraphes n’a rien changé quant à la position de l’intimée. Il s’agit là de faits importants qui ne font que compléter les actes de procédure de l’intimée.
+[78] De plus, l’ARC n’a pas été mise au courant des faits énoncés aux paragraphes 19A et 19B au cours de la vérification, et elle ne disposait pas de ces faits quand les nouvelles cotisations ont été établies en 2007. Il est raisonnable qu’elle souhaite maintenant inclure ces faits dans ses actes de procédure.
+[79] Je suis d’avis que le ministre a agi correctement en déposant la présente requête au début de l’instance. Je crois que le retard qui pourrait découler de l’octroi de la présente requête sera minime, et j’ai de la difficulté à imaginer en quoi ce retard, si retard il y a, serait d’une importance telle qu’il causerait une injustice méritant que l’on refuse la modification. Dans ce contexte, je conclus que c’est en faisant droit à la requête de l’intimée que l’on sert le mieux l’intérêt de la justice.
+[80] La requête de l’intimée est donc accueillie, et la réponse modifiée inclura maintenant les paragraphes 19A et 19B.
+[81] Les dépens sont adjugés à l’intimée, compte tenu du fait que la requête de l’appelant a été rejetée et celle de l’intimée accueillie.
+Signé à Ottawa, Canada, ce 10e jour de décembre 2013.
+« E.P. Rossiter »
+Juge en chef adjoint Rossiter
+Traduction certifiée conforme
+ce 5e jour de mars 2014.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2013 CCI 383
+No DU DOSSIER DE LA COUR : 2012-315(IT)G
+INTITULÉ : DAVID GRAMIAK c. SMR
+LIEU DE L’AUDIENCE : Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 9 avril 2013
+MOTIFS DE L’ORDONNANCE : Le juge en chef adjoint E.P. Rossiter
+DATE DE L’ORDONNANCE : Le 10 décembre 2013
+COMPARUTIONS :
+Pour l’appelant :
+Me Alistair Campbell et
+Me Michelle Moriarty
+Pour l’intimée :
+Me Janie Payette et
+Me Julie David
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Alistair Campbell
+Cabinet : Legacy Tax & Trust Lawyers
+Vancouver (Colombie-Britannique)
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Parmi les décisions que les avocats ont invoquées figurent The Queen v. Enterac Property Corporation, 98 DTC 6202; Niagara Helicopters Ltd. v. The Queen, 2003 DTC 513, à la p. 514; Gauthier v. The Queen, 2006 DTC 3050.

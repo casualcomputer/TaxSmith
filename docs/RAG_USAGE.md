@@ -2,70 +2,48 @@
 
 This repo is meant to work in two modes:
 
-- Human/source mode: browse `corpus/cra/` by the same families used on Canada.ca.
+- Human/source mode: browse `corpus/` by source family, including CRA materials
+  and case law.
 - Ingestion mode: use `exports/` when a RAG tool wants flat files or API-ready JSONL.
 
 ## Which Folder To Use
 
 | Situation | Use | Why |
 | --- | --- | --- |
-| Loader supports recursive directories | `corpus/cra/` | Preserves source structure and readable paths. |
+| Loader supports recursive directories | `corpus/` | Preserves source structure and readable paths. |
 | Upload UI loses nested folders | `exports/flat-md/` | Stable path-derived filenames keep provenance in the filename. |
 | Upload UI rejects Markdown | `exports/flat-txt/` | Same content with plain `.txt` extension and source headers. |
 | API ingestion or custom ETL | `exports/documents.jsonl` | One row per document with full Markdown text plus metadata. |
 | Metadata review/filtering | `corpus/manifests/documents.csv` | Easy to inspect in a spreadsheet before ingestion. |
+| Source validation / QA | `docs/cases/validation/` | Keep separate from production retrieval indexes; these files may overlap with upload corpus cases. |
 
 Do not assume a framework can ingest this repo as a single `.zip`. The checked
 docs for the tools below do not prove generic ZIP ingestion for knowledge-base
 loading. Use ZIP only when the target deployment explicitly documents archive
 unpacking for ingestion.
 
+For case-law extraction agents, do not rely on Markdown as the only source when
+raw A2AJ rows are available. Use `data/a2aj_case_law/TCC/train.parquet` or
+`data/a2aj_case_law/TCC/raw.jsonl` for field-faithful processing, then use the
+Markdown layer only for browsing, citations, or RAG systems that require text
+files.
+
+Do not blindly upload `docs/cases/validation/` with `corpus/` or `exports/`.
+Validation files are official-page-derived local conversions for QA and may
+represent the same court item as an upload-corpus file. If you intentionally
+index both, dedupe by `court_key + item_id + language` or canonical `source`
+URL and keep a `source_role`/dataset tag so retrieval can prefer the intended
+record.
+
 The key manifest fields are:
 
 - `id`: stable document identifier derived from corpus path.
 - `corpus_path`: canonical Markdown path in this repo.
-- `source`: original Canada.ca URL.
-- `last_modified`: Canada.ca modified date when captured.
+- `source`: original Canada.ca or court decision URL.
+- `last_modified`: Canada.ca modified date or court decision date when captured.
 - `source_family`: scrape/source family, for example `cra_income_tax_current_publications`.
-- `document_type`: `publication`, `technical_publication`, `manual`, or `video_transcript`.
+- `document_type`: `publication`, `technical_publication`, `manual`, `video_transcript`, or `case_law`.
 - `archived`: inferred from title/path when Canada.ca labels the page as archived.
-
-## Interpreting The Content
-
-Not every document has the same retrieval value. Treat the corpus as a structured
-domain collection, not as one flat pile of equally authoritative text.
-
-| Content type | Useful for | Use cautiously for |
-| --- | --- | --- |
-| Technical publications | Income tax interpretation, professional research, source-backed explanations. | Current-law answers when `archived=true` or the document has been replaced. |
-| Manuals | Audit process, compliance workflows, documentation expectations, CRA administrative practice. | Statutory interpretation without checking legislation and current CRA guidance. |
-| Forms/publications | General taxpayer guidance, payroll/GST/HST lookup, program discovery, examples, form names. | High-stakes technical conclusions where a folio, circular, bulletin, manual, statute, or regulation is more appropriate. |
-| Multimedia transcripts | Plain-language explanations, examples, user phrasing, outreach-style summaries. | Final authority for complex tax, audit, objection, or compliance positions. |
-| Archived material | Historical policy, deprecated guidance, comparison, legal-history context. | Current answers unless explicitly labelled as historical or superseded. |
-
-Signals that are usually useful for content analysis and indexing:
-
-- Headings and subheadings, especially folio or manual section hierarchy.
-- Defined terms, eligibility rules, dates, rates, thresholds, examples, and
-  tables.
-- Document family, document type, archive status, last-modified date, and source
-  URL.
-- Repeated document identifiers such as folio numbers, IC/IT/ITTN identifiers,
-  form numbers, and payroll table province codes.
-
-Signals that are often less useful for answer generation:
-
-- Navigation text, generic Canada.ca service links, contact blocks, and page
-  boilerplate.
-- Catalogue wrapper pages that point to a publication but do not contain much
-  substantive guidance.
-- Duplicated intro/outro text across pages.
-- Transcript filler where it does not carry policy, examples, or definitions.
-
-For production RAG, preserve lower-value text in the raw corpus but consider
-downweighting it through chunk filters, reranking, or source-family preferences.
-The raw corpus should stay broad; the retrieval policy should decide what is
-important for a specific answer.
 
 ## Framework Notes
 
@@ -78,7 +56,7 @@ write a small ingestion loop so every document keeps its manifest metadata.
 
 | Product | Confidence from checked docs | Use first | Do not assume |
 | --- | --- | --- | --- |
-| RAGFlow | Folder objects and multi-file upload APIs are documented. | `exports/flat-md/`, or scripted API uploads from `corpus/cra/`. | One local folder upload preserving the tree; one ZIP upload unpacked into a corpus. |
+| RAGFlow | Folder objects and multi-file upload APIs are documented. | `exports/flat-md/`, or scripted API uploads from `corpus/`. | One local folder upload preserving the tree; one ZIP upload unpacked into a corpus. |
 | Dify | UI file limits and one-file API upload are documented; create-by-text is documented. | `exports/documents.jsonl` with create-by-text in a loop. | Whole-repo upload, ZIP ingestion, or large UI batch upload. |
 | AnythingLLM | Document ingestion, drag-and-drop upload, source citations, and examples like PDF/TXT/DOCX are documented. | `exports/flat-txt/`. | ZIP ingestion or Markdown support unless your installed version documents it. |
 
@@ -86,13 +64,13 @@ write a small ingestion loop so every document keeps its manifest metadata.
 
 LlamaIndex `SimpleDirectoryReader` supports Markdown and local directory loading.
 Its docs note that subdirectories require `recursive=True`, which makes
-`corpus/cra/` the natural input.
+`corpus/` the natural input.
 
 ```python
 from llama_index.core import SimpleDirectoryReader
 
 documents = SimpleDirectoryReader(
-    input_dir="corpus/cra",
+    input_dir="corpus",
     recursive=True,
     required_exts=[".md"],
 ).load_data()
@@ -124,9 +102,10 @@ What is not confirmed from the checked docs:
 Practical path:
 
 1. Create datasets by authority family, for example `CRA income tax technical`,
-   `CRA compliance manuals`, `CRA forms/publications`, and `CRA multimedia`.
+   `CRA compliance manuals`, `CRA forms/publications`, `CRA multimedia`, and
+   `Tax cases`.
 2. Use `exports/flat-md/` for UI/bulk file upload, or script folder creation and
-   file upload from `corpus/cra/` through the API.
+   file upload from `corpus/` through the API.
 3. Set document metadata from `corpus/manifests/documents.jsonl`, especially
    `source`, `corpus_path`, `document_type`, and `archived`.
 
@@ -186,23 +165,23 @@ framework has strong metadata filtering and reranking. A useful default split is
 | `cra-compliance-manuals` | `corpus/cra/tax/technical-information/compliance-manuals-policies/` | Audit procedure and compliance workflow questions. |
 | `cra-forms-publications` | `corpus/cra/forms-publications/` | General CRA guides, notices, memoranda, payroll tables. |
 | `cra-multimedia-transcripts` | `corpus/cra/multimedia/` | Plain-language videos and webinar transcript retrieval. |
+| `cases-tax` | `corpus/cases/` | Upload-ready case-law corpus. TCC is A2AJ-derived; tax-relevant SCC/FCA/FC can be added as harvested. |
+| `cases-validation` | `docs/cases/validation/` | Optional QA/comparison dataset. Do not combine with production retrieval unless deduped and tagged. |
 
 For tax work, set retrieval preferences so manuals and technical publications
 rank above video transcripts and general explainer pages when the query is
 technical or procedural.
 
-## Content Analysis Patterns
+For legal conclusions, rank binding law and higher court authority above CRA
+administrative guidance. Case-law chunks should preserve `authority_type`,
+`court`, `citation`, `decision_date`, and `case_scope` metadata so retrieval can
+distinguish SCC, FCA, FC, and TCC sources.
 
-Common analysis workflows:
-
-| Question | Useful input | Suggested method |
-| --- | --- | --- |
-| What does the corpus cover? | `exports/documents.csv` | Pivot by `source_family`, `document_type`, and `archived`. |
-| Which materials are current versus historical? | `exports/documents.jsonl` or CSV | Filter `archived`, then sample titles and source URLs. |
-| Which documents are likely too large for one chunk? | `exports/documents.csv` | Sort by `bytes` and create document-type-specific chunking rules. |
-| Which sources should answer a technical tax query? | JSONL metadata plus text | Rank `technical_publication` and `manual` above `publication`; rank `video_transcript` lower unless the query asks for a plain-language explanation. |
-| Can an answer be cited? | Any indexed chunks | Require `source`, `title`, `corpus_path`, and heading trail on every chunk. |
-| Are upload batches complete? | `documents.csv` | Track ingestion status by `id` or `corpus_path`. |
+For TCC issue-mining, start from the A2AJ raw rows and treat Markdown front
+matter as packaging metadata. The parquet/JSONL rows preserve citation lists and
+the bilingual `unofficial_text_*` fields; the Markdown converter deliberately
+avoids inferring docket numbers, judges, or subjects unless
+`--infer-text-metadata` is explicitly used.
 
 ## Chunking Guidance
 
@@ -243,6 +222,9 @@ filename maps back to the canonical `corpus_path` and Canada.ca `source`.
 
 The repo should be treated as the source of truth; RAG tools should be treated as
 indexes built from it.
+
+For corpus-size distribution, folder analysis, and dataset gap assessment, see
+[`docs/CORPUS_ANALYSIS.md`](CORPUS_ANALYSIS.md).
 
 ## Citation Requirements
 

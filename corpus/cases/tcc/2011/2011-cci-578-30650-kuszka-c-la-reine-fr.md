@@ -1,0 +1,153 @@
+---
+title: "Kuszka c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30650/index.do"
+last_modified: "2011-12-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 578"
+citation2: ""
+neutral_citation: "2011 CCI 578"
+decision_date: "2011-12-29"
+language: "fr"
+item_id: "30650"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7207
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:23:29.741000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4b82b2cdc0028fe88278989130b4ad224231323dff37ee45078f03f374272c27"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kuszka c. La Reine
+
+- Citation: 2011 CCI 578
+- Decision date: 2011-12-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7207, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kuszka c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-12-29
+Référence neutre
+2011 CCI 578
+Numéro de dossier
+2011-1241(IT)APP
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-1241(IT)APP
+ENTRE :
+OREST KUSZKA,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Demande entendue le 13 décembre 2011 à Edmonton (Alberta).
+Devant : L’honorable juge J.M. Woods
+Comparutions :
+Avocat du requérant :
+Me Nestor Makuch
+Avocat de l’intimée :
+Me Gergely Hegedus
+____________________________________________________________________
+ORDONNANCE
+La demande, visant à obtenir une ordonnance prorogeant le délai pour signifier un avis d’opposition en vertu de la Loi de l’impôt sur le revenu à l’égard d’une cotisation établie pour l’année d’imposition 2006, est rejetée.
+Signé à Toronto (Ontario), ce 29e jour de décembre 2011.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 8e jour de février 2012.
+Espérance Mabushi, M.A.Trad. Jur.
+Référence : 2011 CCI 578
+Date : 20111229
+Dossier : 2011-1241(IT)APP
+ENTRE :
+OREST KUSZKA,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+La juge Woods
+[1] Monsieur Orest Kuszka a présenté une demande, en vertu de la Loi de l’impôt sur le revenu (la « Loi »), en vue d’obtenir une ordonnance prorogeant le délai pour signifier un avis d’opposition à l’égard d’une cotisation établie pour l’année d’imposition 2006.
+[2] L’opposition concerne une déduction demandée par M. Kuszka au titre de la pension alimentaire pour conjoint dont le paiement avait été ordonné par la Cour du Banc de la Reine de l’Alberta. L’ordonnance alimentaire, rendue en 2006, accordait à l’ex‑épouse de M. Kuszka, au titre d’une pension alimentaire avec effet rétroactif, la somme de 2 000 $ par mois pour une période de 70 mois située 2000 et 2005.
+[3] La Couronne conteste la présente demande pour plusieurs motifs, à savoir que la demande est présentée hors délai selon le paragraphe 166.2(1) de la Loi, et qu’il n’a pas été satisfait aux exigences de l’alinéa 166.2(5)a) de la Loi et aux sous‑alinéas 166.2(5)b)(i), (ii) et (iii) de la Loi. Voici la teneur de ces dispositions :
+166.2(1) Prorogation du délai par la Cour canadienne de l’impôt. Le contribuable qui a présenté une demande en application de l’article 166.1 peut demander à la Cour canadienne de l’impôt d’y faire droit après :
+a) le rejet de la demande par le ministre;
+b) l’expiration d’un délai de 90 jours suivant la présentation de la demande, si le ministre n’a pas avisé le contribuable de sa décision.
+Toutefois, une telle demande ne peut être présentée après l’expiration d’un délai de 90 jours suivant la date de la mise à la poste de l’avis de la décision au contribuable.
+166.2(5) Acceptation de la demande. Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande a été présentée en application du paragraphe 166.1(1) dans l’année suivant l’expiration du délai par ailleurs imparti pour signifier un avis d’opposition ou présenter une requête;
+b) le contribuable démontre ce qui suit :
+(i) dans le délai par ailleurs imparti pour signifier l’avis ou présenter la requête, il n’a pu ni agir ni charger quelqu’un d’agir en son nom, ou il avait véritablement l’intention de faire opposition à la cotisation ou de présenter la requête,
+(ii) compte tenu des raisons indiquées dans la demande et des circonstances de l’espèce, il est juste et équitable de faire droit à la demande,
+(iii) la demande a été présentée dès que les circonstances le permettaient.
+Les faits
+[4] Après avoir reçu l’ordonnance de pension alimentaire en 2006, M. Kuszka a demandé des déductions au titre de la Loi pour les années visées par les paiements, à savoir les années 2000 à 2005.
+[5] Le 11 août 2009, le juge en chef Rip a été saisi d’un appel relatif à la demande de déduction pour l’année d’imposition 2005. Selon le procès‑verbal de cette audience versé dans le dossier de la Cour, l’appel avait été rejeté parce qu’aucun paiement n’avait été fait en 2005. Il ressort en outre du procès‑verbal que le juge en chef Rip avait laissé entendre que l’Agence du revenu du Canada (l’« ARC ») pouvait établir une nouvelle cotisation à l’égard de l’année 2006 pour faire en sorte que cette année fasse l’objet d’une opposition et d’un appel.
+[6] À la suite des observations faites par le juge en chef, M. Kuszka a déposé, le 20 octobre 2009, une demande de modification de la déclaration de revenus pour 2006. Rien n’indique que cette demande a été faite relativement aux observations du juge en chef Rip. L’ARC a rejeté la demande au motif que le montant était une somme forfaitaire et non un paiement d’arriérés.
+[7] Le 22 janvier 2010, M. Kuszka a présenté à l’ARC une demande en vue de proroger le délai pour signifier un avis d’opposition. Cette demande a été rejetée au moyen d’un avis adressé à M. Kuszka le 22 avril 2010.
+[8] La présente demande de prorogation de délai a été déposée à la Cour le 26 avril 2011.
+[9] Le 6 mars 2008, le ministre a établi la dernière nouvelle cotisation pour l’année d’imposition 2006.
+Analyse
+[10] Bien que la Couronne ait soulevé plusieurs motifs pour contester la demande, la Cour ne s’en tiendra qu’à l’examen d’un seul, à savoir le délai prévu à l’alinéa 166.2(5)a) de la Loi. L’avocat de M. Kuszka a admis que ce délai n’a pas été respecté. Le défaut de respecter ce délai porte un coup fatal à la demande.
+[11] L’avocat de M. Kuszka soutient que les mesures prises par l’ARC, qui consistent à refuser un droit d’appel à M. Kuszka, sont abusives et justifient un redressement.
+[12] La situation de M. Kuszka est regrettable et suscite de la compassion; toutefois, une prorogation du délai en vue de signifier un avis d’opposition ne peut être accordée que si le délai prévu à l’alinéa 166.2(5)a) de la Loi est respecté. Le législateur n’a accordé aucun pouvoir discrétionnaire à la Cour. Il est admis que le délai n’a pas été respecté.
+[13] À titre subsidiaire, l’avocat du requérant sollicite une directive enjoignant à l’ARC de se prononcer sur le bien-fondé de la demande de M. Kuszka. Il s’agit là aussi d’une mesure de redressement que la Cour n’a pas le pouvoir d’accorder.
+[14] À l’audience, j’ai tenté de savoir pourquoi l’ARC avait refusé d’établir une nouvelle cotisation pour l’année d’imposition 2006 afin de permettre à cette année de faire l’objet d’une opposition et d’un appel selon l’avis du juge en chef Rip. La situation suscite de la compassion étant donné que M. Kuszka avait demandé à temps la déduction des sommes versées au titre de la pension alimentaire pour conjoint. Malheureusement, la Couronne n’a pas été en mesure de fournir une explication à l’audience.
+[15] C’est avec beaucoup de regret que je dois rejeter la demande.
+Signé à Toronto (Ontario), ce 29e jour de décembre 2011.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 8e jour de février 2012.
+Espérance Mabushi, M.A.Trad. Jur.
+RÉFÉRENCE : 2011 CCI 578
+NO DU DOSSIER DE LA COUR : 2011-1241(IT)APP
+INTITULÉ : OREST KUSZKA
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Edmonton (Alberta)
+DATE DE L’AUDIENCE : Le 13 décembre 2011
+MOTIFS DE L’ORDONNANCE : L’honorable juge J.M. Woods
+DATE DE L’ORDONNANCE : Le 29 décembre 2011
+COMPARUTIONS :
+Avocat du requérant :
+Me Nestor Makuch
+Avocat de l’intimée :
+Me Gergely Hegedus
+AVOCATS INSCRITS AU DOSSIER :
+Pour le requérant :
+Nom : Nestor Makuch
+Cabinet : Wheatley Sadownik
+Edmonton (Alberta)
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

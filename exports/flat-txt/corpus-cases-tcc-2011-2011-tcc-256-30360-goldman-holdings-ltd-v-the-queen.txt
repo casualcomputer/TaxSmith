@@ -1,0 +1,144 @@
+Title: Goldman Holdings Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30360/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-256-30360-goldman-holdings-ltd-v-the-queen.md
+Document type: case_law
+Last modified: 2011-05-18
+
+# Goldman Holdings Ltd. v. The Queen
+
+- Citation: 2011 TCC 256
+- Decision date: 2011-05-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7880, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Goldman Holdings Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-05-18
+Neutral citation
+2011 TCC 256
+File numbers
+2010-1886(IT)G
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-1886(IT)G
+BETWEEN:
+GOLDMAN HOLDINGS LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on April 11, 2011, at Toronto, Ontario
+Before: The Honourable Justice G. A. Sheridan
+Appearances:
+Counsel for the Appellant:
+Leigh Somerville Taylor
+Counsel for the Respondent:
+Lorraine Edinboro
+____________________________________________________________________
+ORDER
+The motion by the Respondent pursuant to section 54 of the Tax Court of Canada Rules (General Procedure) for an order granting leave to amend the Reply to the Notice of Appeal by striking out subparagraph 9(d) of the Reply to the Notice of Appeal is dismissed, with the matter of costs to be left to the trial judge.
+Signed at Ottawa, Canada, this 18th day of May 2011.
+"G.A. Sheridan"
+Sheridan J.
+Citation: 2011TCC256
+Date: 20110518
+Docket: 2010-1886(IT)G
+BETWEEN:
+GOLDMAN HOLDINGS LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Sheridan J.
+[1] The Appellant is appealing the reassessment of the Minister of National Revenue of its year ending August 31, 2000 pursuant to which $1,531,012 was added to the Appellant’s reported income. The increase was based on the Minister’s determination of the value of certain real property owned by a partnership (the “Partnership”) dissolved during the 2000 taxation year in which the Appellant had an interest.
+[2] A Notice of Reassessment was issued on April 2, 2007 (the “Auditor’s Reassessment”) following an audit conducted by Canada Revenue Agency official Frank Mancuso (the “Auditor”). According to his Affidavit[1], the Auditor assumed the following facts in respect of the Partnership’s ownership and inventory of land and its fair market value:
+7. The facts I assumed with respect to the Partnership’s ownership and inventory of land were:
+(i) the Partnership owned real property;
+(ii) the real property was the inventory of the Partnership; and
+(iii) the real property consisted of the land known as East Parcel, West Parcel and Centre Parcel located in the city of Toronto.
+8. The fact that I assumed with respect to the fair market value of the land owned by the Partnership was:
+(i) the fair market value of the real property immediately prior to the dissolution of the Partnership was not less that $24,220,500.
+[3] On April 18, 2007, the Appellant filed a Notice of Objection which was assigned to Canada Revenue Agency Appeals Officer LeRoy Evans (the “Appeals Officer”). In response to correspondence received from the Appellant during the objection stage, the Appeals Officer made the following statements in his letter of June 23, 2009:
+This is in response to your letters dated September 15, 2008 and May 14, 2009, in respect of the issues which you raised in the Notice of Objection dated April 18, 2007.
+….
+Deemed Income on 1999 dissolution of partnership
+In your representation you state:
+“In adding $1,531,012 to the taxpayer’s partnership income in the year, the Agency assumed that the taxpayer received income from the partnership in an amount equal to 50 percent of the partnership’s total property on its dissolution, and that the 250 Wellington Street West Partnership owned all of the subject lands continuously since 1992.”
+Based on our understanding of the information made available to us, we conclude that “Subject Lands” was “250 Wellington Street West”. 250 Wellington Street West Partnership held 80% and Journey’s End Wellington Partnership held the remaining 20%. In addition, Journey’s End Wellington Partnership was owned 80% by “250 Wellington Street West Partnership” and 20% by 866223 Ontario Limited.
+We have been guided by these percentage allocations.[2]
+[Emphasis added.]
+[4] At the conclusion of his review of the Appellant’s Notice of Objection, the Appeals Officer prepared a Report on Objection dated December 16, 2009[3] in which the following statement is included under the heading “Background Information”:
+The property at 250 Wellington Street West, referred to as the “subject lands” was owned by
+250 Wellington Street West Partnership 80%
+and
+Journey’s End Wellington Partnership 20%[4]
+[5] Following a further exchange of correspondence between counsel for the Appellant and the Appeals Officer regarding certain details of his confirmation, a Notice of Reassessment was issued on March 11, 2010 (the “Second Reassessment”) reassessing the Appellant’s tax liability based on the inclusion in its income of $1,531,012.
+[6] The Appellant appealed the Second Reassessment to the Tax Court of Canada in response to which the Minister duly filed a Reply to the Notice of Appeal. The Respondent now seeks by this motion to delete subparagraph 9(d) from the assumptions set out in the Reply:
+9. In determining the Appellant’s tax liability for its 2000 taxation year, the Minister proceeded upon the following facts:
+…
+(d) The Partnership held an 80% interest in real property at 250 Wellington Street West, Toronto, Ontario; Journey’s End Wellington Partnership held the remaining 20%;
+[7] The Respondent’s position is that it ought to be permitted to delete subparagraph 9(d) because the facts assumed therein in respect of the Partnership’s percentage interest in the real property disposed of is inconsistent with the basis for the inclusion of the $1,531,012 of additional income reassessed by the Auditor. At paragraph 6 of his Affidavit, the Auditor set out a statement of what he did not assume when reassessing:
+6. In subparagraph 9(d) the following assumption of fact is pled: the Partnership held an 80% interest in real property at 250 Wellington Street West, Toronto, Ontario; Journey’s End Wellington Partnership held the remaining 20%. As auditor, this fact was not assumed by me.
+[8] The Appeals Officer was cross-examined on his Affidavit at the hearing. In her questions to him on redirect, counsel for the Respondent attempted to demonstrate that the assumption made in subparagraph 9(d) resulted from his misinterpretation of the same documents reviewed by the Auditor, in particular, the Land Partnership Dissolution Agreement attached as Exhibit “A” to the Auditor’s Affidavit. If the Appeals Officer did not make an error, contended counsel for the Respondent, then the additional income amount ought to have been only 80% of the figure assessed; based on subparagraph 9(d) as it currently stands, the Minister’s calculation of the Appellant’s additional income just “doesn’t make sense”.
+[9] Citing Canderel v. R., [1993] 2 C.T.C. 213 (F.C.A.), counsel for the Respondent argued that, as a general rule, amendments should be permitted for the purpose of determining the real questions in controversy. In determining whether an amendment ought to be allowed, the Court should consider such factors as inadvertence, error, hastiness, lack of knowledge of the facts and the timelines of the motion to amend. Counsel went on to say that these principles, coupled with the Crown’s duty to plead the Minister’s assumptions in an accurate and precise fashion, Loewen v. Canada, 2004 D.T.C. 6321 (F.C.A.); Anchor Pointe Energy Ltd. v. Canada, 2003 D.T.C. 5512 (F.C.A.), support the Crown’s request to delete subparagraph 9(d) of the Reply.
+[10] The Appellant’s position is that the amendment ought not to be allowed because subparagraph 9(d) sets out accurately and precisely what the Appeals Officer, in fact, assumed when confirming and reassessing the Appellant’s 2000 taxation year. Citing Loewen, counsel for the Appellant submitted that an assumption is a matter of “historical fact” that the Crown has a duty to plead as assumed, whether or not it supports the assessment ultimately made.
+[11] In Loewen, the Federal Court of Appeal considered the fundamentals of an assessment and the Crown’s obligations in respect of the factual assumptions upon which it was based:
+[7] The basis of any assessment is a matter of historical fact, and does not change. The basis of a reassessment normally includes the facts relating to the increased taxable income, as the Minister perceived those facts when the reassessment was made. …
+[9] It is the obligation of the Crown to ensure that the assumptions paragraph is clear and accurate. For example, the Crown cannot say that the Minister assumed, when making the assessment, that a certain car was green and also that the same car was red, because it is impossible for the Minister to have made both of those assumptions at the same time: Brewster v. The Queen, 76 D.T.C. 6046 … .
+[Emphasis added.]
+[12] Applying these principles to the present matter, the Appeals Officer admitted on cross-examination that he made the assumption in subparagraph 9(d). Nor can it be said that his having assumed a percentage interest in the Partnership property at the objection stage that differed from the Auditor’s[5] at the audit stage is akin to the Minister having assumed simultaneously that the same car was both green and red. Notwithstanding counsel for the Respondent’s valiant efforts to lead him through the rather voluminous materials underpinning the reassessments and filed in respect of this motion, the Appeals Officer remained steadfastly unable to recall what documents he had had before him when considering the Appellant’s objection or which he may have had in mind when reaching the conclusions set out above. This is not meant unkindly; I recognize that the Appeals Officer was very anxious during his testimony.
+[13] The Appeals Officer was also questioned about the facts attested to at paragraphs 8 and 9 of his Affidavit[6]:
+8. In my letter dated June 23, 2009 I made the following statements:
+Based on our understanding of the information made available to us, we conclude that “Subject Lands” was “250 Wellington Street West”. 250 Wellington West Partnership held 80% and Journey’s End Wellington Partnership held the remaining 20%.
+9. Upon further review, I realize that I made an error with respect to the second above noted statement. There were no documents that I reviewed at the time I wrote the letter, which support that 250 Wellington Street West Partnership held 80% of the subject lands, 250 Wellington Street West, and that Journey’s End Wellington Partnership held the remaining 20%.
+[14] Notwithstanding the above assertions, on cross-examination the Appeals Officer was unable to say with any certainty what documents he had reviewed in preparing his Affidavit. He was equally at a loss to explain, even when being carefully taken through the various portions of the documents dealing with the Partnership’s interest in the real property, what had lead him to conclude he had made the error attested to in paragraph 9 of his Affidavit. Indeed, it appears from his testimony that until the Reply to the Notice of Appeal had been filed and subparagraph 9(d) brought to his attention, the Appeals Officer did not believe that any sort of “error” had been made – perhaps explaining the awkwardly worded final sentence of paragraph 9 of his Affidavit.
+[15] In Loewen, Justice Sharlow went on to say at paragraph 10:
+[10] Nor is it open to the Crown to plead that the Minister made a certain assumption when making the assessment, if in fact that assumption was not made until later, for example, when the Minister confirmed the assessment following a notice of objection. The Crown may, however, plead that the Minister assumed when confirming an assessment, something that was not assumed when the assessment was first made: Anchor Pointe Energy Ltd. v. Canada, 2003 D.T.C. 5512 (F.C.A.).
+[16] In the Anchor Pointe decision referred to above, Rothstein, J.A. (as he then was) held at paragraph 23 that the Minister’s obligation to plead assumed facts accurately and precisely applied equally to the circumstances in which such assumptions arose which, under the Act, can only be one of three actions: assessing, reassessing or confirming. The rationale for that conclusion appears in paragraphs 21 and 22:
+[21] The Crown argues that what was meant by [its use of] the words “[I]n reassessing” in paragraph 10 [of the Reply to the Notice of Appeal] is “the process of assessing tax liability”. The Minister may view the entire process from his first action after a return is filed, to his last – in this case, confirmation of a reassessment, as the process of assessing tax liability. However, the Income Tax Act stipulates specific actions that the Minister may take – assessing, reassessing, confirming. The Act does not use the term “process of assessing tax liability”.
+[22] Reassessment and confirmation are distinct actions engaged in by the Minister. Reassessment implies changing a previous assessment or reassessment. Confirmation implies that the previous assessment or reassessment stands unchanged. It is misleading for the Crown to say that the Minister made certain assumptions in reassessing, when those assumptions were made in confirming a reassessment.
+[17] Here, the Minister’s “last distinct action” was reassessing under the Second Reassessment, a reassessment which was made subsequent to the confirmation of the original reassessment. The jurisprudence is clear that the issuance of a new reassessment renders its predecessor a nullity from which it follows that the assumptions of fact upon which the original reassessment was based are no longer relevant. It is from the Second Reassessment that the Appellant appeals.
+[18] What, then, were the historical facts underpinning the Second Reassessment? The motion materials show that following the Appeals Officer’s issuance of the Notice of Confirmation in December 2009, there occurred an exchange of views between him and counsel for the Appellant, ultimately resulting in the issuance of the Second Reassessment in March 2010. While technically a new reassessment, the effect of the Second Reassessment was to confirm the Notice of Confirmation from which it can be inferred that the Second Reassessment was based on the same assumptions of facts as the Notice of Confirmation; that is to say, on those facts assumed by the Appeals Officer, including subparagraph 9(d) of the Reply to the Notice of Appeal.
+[19] I also agree with counsel for the Appellant that the Respondent may not rely on the principles in Canderel to justify withdrawing the facts assumed in subparagraph 9(d). The Appeals Officer’s vague assertion, after the fact, that the assumption was the result of an error following his review of a document or documents that he is unable to identify as having been relied on in reaching his apparently erroneous conclusion is not in the nature of a ‘slip’, for example, an inadvertent reference to a wrong date in a document or a typographical error of some sort. It goes to the heart of the issues to be decided in the appeal including, as counsel for the Respondent pointed out, the Court’s interpretation of the documents reviewed by the Minister.
+[20] Paragraph 49(1)(d) of the Tax Court of Canada Rules (General Procedure) requires the Respondent to state in its Reply to the Notice of Appeal “the findings or assumptions of fact made by the Minister when making the assessment”. In all the circumstances, I am not persuaded that there is any justification for the deletion of subparagraph 9(d) from the Reply to the Notice of Appeal. The Respondent’s motion is dismissed, with the matter of costs to be left to the trial judge.
+Signed at Ottawa, Canada, this 18th day of May 2011.
+"G.A. Sheridan"
+Sheridan J.
+CITATION: 2011TCC256
+COURT FILE NO.: 2010-1886(IT)G
+STYLE OF CAUSE: GOLDMAN HOLDINGS LTD. AND H.M.Q.
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: April 11, 2011
+REASONS FOR ORDER BY: The Honourable Justice G. A. Sheridan
+DATE OF ORDER: May 18, 2011
+APPEARANCES:
+Counsel for the Appellant:
+Leigh Somerville Taylor
+Counsel for the Respondent:
+Lorraine Edinboro
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Leigh Somerville Taylor
+Professional Corporation
+Firm: Toronto, Ontario
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Respondent’s Motion Record, Affidavit of Frank Mancuso, Tab 5 at paragraphs 7 and 8.
+[2] Affidavit of Agnes Predota, Exhibit 6, at pp. 147-148.
+[3] Affidavit of Agnes Predota, Exhibit 15, at page 193.
+[4] Above, page 194.
+[5] Respondent’s Motion Record, Affidavit of Frank Mancuso, Tab 5 at paragraph 6.
+[6] Respondent’s Motion Record, Affidavit of LeRoy Evans, Tab 6.

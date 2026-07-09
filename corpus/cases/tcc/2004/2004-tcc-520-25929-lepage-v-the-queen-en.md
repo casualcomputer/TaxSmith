@@ -1,0 +1,191 @@
+---
+title: "Lepage v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25929/index.do"
+last_modified: "2004-07-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 520"
+citation2: ""
+neutral_citation: "2004 TCC 520"
+decision_date: "2004-07-23"
+language: "en"
+item_id: "25929"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3662
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:12:22.845000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "600f8bdae58aaa7f9cc05f7ce96666cd26f17d8a12710459d8c81ccb5d39be46"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lepage v. The Queen
+
+- Citation: 2004 TCC 520
+- Decision date: 2004-07-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3662, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lepage v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-07-23
+Neutral citation
+2004 TCC 520
+File numbers
+2003-2261(IT)I
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-2261(IT)I
+BETWEEN:
+PIERRE LEPAGE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on July 14, 2004, at Montréal, Quebec.
+Before: The Honourable Justice Louise Lamarre Proulx
+Appearances:
+Counsel for the Appellant:
+Alain Tremblay
+Counsel for the Respondent:
+Simon Petit
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made pursuant to the Income Tax Act for the 1997 and 1998 taxation years are dismissed, in accordance with attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 23rd day of July 2004.
+“Louise Lamarre Proulx”
+Lamarre Proulx J.
+Translation certified true
+on this 31st day of March 2009.
+Bella Lewkowicz, Translator
+Citation: 2004TCC520
+Date: 20040723
+Docket: 2003-2261(IT)I
+BETWEEN:
+PIERRE LEPAGE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre Proulx J.
+[1] These are appeals under the Informal Procedure for the 1997 and 1998 taxation years.
+[2] The issue is to determine if the legal fees incurred with respect to rental properties were on account of income or on account of capital.
+[3] The Appellant testified. He acquired three rental properties having six units each from 1985 to 1987. The lender was Fiducie Desjardins Inc. (Fiducie Desjardins). In 1993, the Appellant had difficulty renting his units, which led to difficulty in paying the property taxes. Towards the end of 1994, an agreement was reached with the lender regarding an increase in the amounts payable on the hypothec loans. This did not seem to suffice.
+[4] On April 28, 1995, a Notice of Withdrawal of Authorization to Collect Rents was served on the landlords and the tenants (Exhibit A-2). On June 16, 1995, a prior notice of the exercise of the hypothecary right to take possession for purposes of administration (article 2757 et seq. of the Civil Code of Québec) (Exhibit A-1) was served. On August 1, 1995, there was a prior notice of the exercise of the hypothecary right to take in payment (article 2757 et seq. of the Civil Code of Québec) (Exhibit A-4). On June 22, 1995, a judgment was issued ordering the immediate surrender to take temporary possession to administer the property until final judgment on this application (Exhibit A-5). On October 19, 1995, there was an application for forced surrender and taking in payment (article 795 of the Code of Civil Procedure) (Exhibit A-3). This application was so that the Court could declare Fiducie Desjardins the sole owner retroactively to the registration of the prior notice on August 10, 1995.
+[5] The various documents in Exhibit A-6 are letters from April 22, 1996, to September 11, 1997, between the Appellant’s counsel and Fiducie Desjardins’s counsel. They are about the possibility of restructuring the loans.
+[6] The Appellant said that for each year at issue, Fiducie Desjardins had him send a statement of rental income that he included in his income tax return. He remained the owner during those years. According to him, a lawyer’s services were required to contest the administration of the units by Fiducie Desjardins. He also said that in 1999, he and his spouse decided to transfer the properties to Fiducie Desjardins because contesting it was too costly.
+[7] The Notice of Objection was attached to the Notice of Appeal and explained the Appellant’s position during the hearing. I will cite the relevant passage:
+[TRANSLATION]
+...
+A – Immeubles Plessis, Cartier and Dorion (1997 and 1998):
+1. Legal fees:
+In August 1995, the hypothecary creditor presented some documents to the Superior Court of Quebec in order to obtain the right to administer the aforementioned buildings. The taxpayers objected to such a presentation of facts and brought an action against the hypothecary creditor. During these years, the taxpayers remained the building owners, as evidenced by their personal income tax returns, indicating the rental income and losses based on the information provided by the hypothecary creditor, “Fiducie Desjardins”. Each year, Fiducie Desjardins provided the taxpayers with all the particulars of the income and expenses with respect to their management of the buildings.
+The taxpayers claimed the fees of counsel that they had mandated to contest the seizing of the administration of the buildings by Fiducie Desjardins. In addition, in the building administration fees of Fiducie Desjardins, there were the Fiducie’s legal fees for objecting to the contestation by the taxpayers of the building administration by Fiducie.
+These legal fees were disallowed by the Department and added (or capitalized) to the cost base of each building, pro-rated in accordance with their gross rental income.
+The taxpayers object to this disallowance for the following reasons:
+Their legal fees are deductible for each of the years as they are fees related to normal operations for the purpose of gaining rental income. Often, landlords experience difficulties with hypothecary creditors or others;
+The action or contestation concerns the undue seizing of control of the administration of the buildings and not the repossession of the buildings that were seized. The expense is not related to seized capital property but to operating and administrative expenses;
+...
+[8] The reasons relied on in the Notice of Appeal are the following:
+[TRANSLATION]
+...
+The taxpayers object to this disallowance for the following reasons:
+Their legal fees are deductible for each of the years as they are fees related to normal operations for the purpose of gaining rental income. Often, landlords experience difficulties with hypothecary creditors or others;
+The action or contestation concerns the undue seizing of control of the administration of the buildings and not the repossession of the buildings that were seized. The expense is not related to seized capital property but to operating and administrative expenses.
+...
+[9] Counsel for the Appellant contended that the legal fees may be deducted as current expenses. They were expenses related to rental administration.
+[10] Counsel for the Respondent contended that the fees incurred were on account of capital and could not be deducted pursuant to paragraph 18(1)(b) of the Income Tax Act (the Act).
+[11] He referred to the Federal Court of Appeal’s decision in Her Majesty the Queen v. Jager Homes Ltd., A‑792-83, January 28, 1988 (F.C.A.), specifically to the comments of the Mr. Justice Urie at pages 16 and 17 of the decision:
+From all of the evidence it is reasonable to conclude that the real objective of the plaintiff in the actions was to use the threat engendered by the petitions for winding up to obtain a settlement of her financial claim in her divorce action or, if no settlement were achieved and the petitions were granted, as a consequence of the winding up, to receive her ratable share in the distribution of the assets. The defence was clearly instituted to prevent the latter occurrence. That was the primary purpose of the defence in the litigation. The indirect and ultimate result of succeeding in that defence would be that the income earning capacity for each company would continue. To use the words of Dixon J. in the Sun Newspapers case, supra, 'The expenditure in question is a large non-recurrent unusual expenditure made for the purpose of obtaining an advantage for the enduring benefit of the appellants' trade .[nb].[nb].' In other words, the payments for legal fees were made to preserve the business entity, structure or organization not as the kinds of expenditures which are made to earn profits from the operation of such business entities.
+[12] Counsel for the Appellant remarked, in reply that the motion in Jager Homes (supra) concerning an application for a winding-up order, and that it was mentioned on page 3 of this judgment that:
+... All incidental legal fees incurred in the day-to-day operations of the Respondents, during the period of the winding up actions, were allowed as current deductions from income by the Minister of National Revenue.
+Conclusion
+[13] Paragraphs 18(1)(a) and 18(1)(b) of the Act read as follows:
+General limitations
+18(1) In computing the income of a taxpayer from a business or property no deduction shall be made in respect of
+General limitation
+(a) an outlay or expense except to the extent that it was made or incurred by the taxpayer for the purpose of gaining or producing income from the business or property;
+Capital outlay or loss
+(b) an outlay, loss or replacement of capital, a payment on account of capital or an allowance in respect of depreciation, obsolescence or depletion except as expressly permitted by this Part;
+[14] I refer to the Supreme Court of Canada decision in Farmers Mutual Petroleums v. M.N.R., [1967] C.T.C. 396 and to Mr. Justice Martland’s comments on page 400:
+In my opinion, this proposition is not valid, because it is directly contrary to the intent of paras. (a) and (b) of s. 12 when read together. To be deductible for tax purposes an outlay must satisfy at least two basic tests:
+(1) It must be made for the purpose of gaining or producing income (s. 12(1)(a)).
+(2) It must not be a payment on account of capital (S.12(1)(b)).
+Both of these tests must be satisfied concurrently to justify deductibility. In British Columbia Electric Railway Company v. Minister of National Revenue[4], Abbott J. said at p. 137:
+Since the main purpose of every business undertaking is presumably to make a profit, any expenditure made “for the purpose of gaining or producing income” comes within the terms of s. 12(1) (a) whether it be classified as an income expense or a capital outlay.
+Once it is determined that a particular expenditure is one made for the purpose of gaining or producing income, in order to compute income tax liability it must next be determined whether such disbursement is an income expense or a capital outlay.
+[15] In the case at bar, there is no question that the legal fees in question were incurred to gain or produce income from a business or property pursuant to paragraph 18(1)(a) of the Act. What must be determined is whether it is an outlay of capital pursuant to paragraph 18(1)(b) of the Act and therefore not deductible in the computation of income (except as expressly permitted by this Part).
+[16] I wish to refer back to Jager Homes (supra), cited by counsel for the Respondent. In this case, it had to be determined if the legal fees incurred by the taxpayers to contest a winding-up action were incurred for the purpose of gaining income or if they were outlays or payments on account of capital. It was concluded that the payments were on account of capital as they were expenses incurred to obtain an advantage for the long-term benefit of the taxpayer. The payment of legal fees was for the purposes of preserving the business entity, structure or organization and not for the purpose of making a profit from running the business entity.
+[17] From Jager Homes (supra), I cite an excerpt from page 9:
+...
+And then at page 359 he made the following comment which was referred to with approval by Jackett P. (as he then was) in Canada Starch Company Limited v. M.N.R. (68 DTC 5320 at 5323):
+The distinction between expenditure and outgoings on revenue account and on capital account corresponds with the distinction between the business entity, structure, or organization set up or established for the earning of profit and the process by which such an organization operates to obtain regular returns by means of regular outlay, the difference between the outlay and returns representing profit or loss.
+[18] Were the legal fees incurred in regard to the operation of the business or in regard to its structure? I now refer back to the proceedings undertaken at the source of the fees in question.
+[19] The documents, submitted as Exhibits A-1 through A-5, are proceedings undertaken for the purpose of exercising hypothecary rights during 1995. The documents in Exhibit A-6 are dated 1996 and 1997. They are proposals and replies for the purpose of seeking means to resolve the failing commercial structure of the rental properties. The legal fees claimed are for 1997 and 1998. The receipts were not submitted.
+[20] These proceedings and this correspondence did not concern disputes regarding the daily or ongoing administration of the rental properties as claimed by the Appellant. The case at bar was about ownership of the rental properties and the correspondence concerned the restructuring of the hypothecary loans.
+[21] I can only conclude, based on the evidence submitted, that the legal fees were incurred to preserve ownership of the rental properties and for the reorganization of the commercial structure. They were not incurred to operate the business entity.
+[22] As a result, the appeals must be dismissed.
+Signed at Ottawa, Canada, this 23rd day of July 204.
+“Louise Lamarre Proulx”
+Lamarre Proulx J.
+Translation certified true
+on this 31stday of March 2009.
+Bella Lewkowicz, Translator
+CITATION:
+2004TCC520
+COURT FILE NO.:
+2003-2261(IT)I
+STYLE OF CAUSE:
+Pierre Lepage and Her Majesty the Queen
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+July 14, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Louise Lamarre Proulx
+DATE OF JUDGMENT:
+July 23, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Alain Tremblay
+Counsel for the Respondent:
+Simon Petit
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Alain Tremblay
+Firm:
+Ouellet, Nadon et associés
+Montréal, Quebec
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

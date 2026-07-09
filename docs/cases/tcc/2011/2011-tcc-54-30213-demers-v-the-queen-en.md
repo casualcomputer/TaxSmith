@@ -1,0 +1,160 @@
+---
+title: "Demers v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30213/index.do"
+last_modified: "2011-02-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 54"
+citation2: ""
+neutral_citation: "2011 TCC 54"
+decision_date: "2011-02-16"
+language: "en"
+item_id: "30213"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7769
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:51:33.627000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "42c474b47554bb2b6585fdbfe685136f45d50cf700a7c4bc4f337b6aff631026"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Demers v. The Queen
+
+- Citation: 2011 TCC 54
+- Decision date: 2011-02-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7769, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Demers v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-02-16
+Neutral citation
+2011 TCC 54
+File numbers
+2010-130(IT)I
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-130(IT)I
+BETWEEN:
+PIERRE DEMERS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Lorraine Dubuc (2010‑134(IT)I), on December 13, 2010, at Sherbrooke, Quebec.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Christina Ham
+____________________________________________________________________
+JUDGMENT
+The appeal under the Income Tax Act from the redeterminations made by the Minister of National Revenue with respect to the Canada Child Tax Benefit for the 2005, 2006, 2007 base taxation years is allowed, without costs, and this matter is referred back to the Minister of National Revenue for reconsideration and redetermination in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 16th day of February 2011.
+"Robert J. Hogan"
+Hogan J.
+Translation certified true
+on this 24th day of March 2011
+Monica F. Chamberlain, Reviser
+Citation: 2011 TCC 54
+Date: 20110216
+Docket: 2010-130(IT)I
+BETWEEN:
+PIERRE DEMERS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Hogan, J.
+I. Introduction
+[1] This is an appeal of redeterminations made by the Minister of National Revenue (the Minister) according to which the appellant was not an "eligible individual" within the meaning of section 122.6 of the Income Tax Act (the Act) with respect to the Canada Child Tax Benefit (CCTB) claimed by the appellant with respect to his daughter (the child) for the 2005, 2006, and 2007 base taxation years.
+[2] Lorraine Dubuc, the child's mother, also claimed the CCTB with respect to this child. Her claim was also refused and the two appeals were heard on common evidence.
+II. Summary of the Facts
+[3] By notice of redeterminations dated June 19, 2009, the Minister revised the appellant's CCTB and determined that he had received overpayments of $165.47, $510.55 and $432.82 respectively for the 2005, 2006 and 2007 base taxation years. The Minister claims to have based his redeterminations on the following facts:
+(a) The appellant and his ex-partner, Lorraine Dubuc, have lived separately since January 17, 2007;
+(b) They had a daughter together in August 1991;
+(c) In July 2008, the appellant claimed the CCTB further to a judgment specifying that he had had custody of the child from January 17, 2007;
+(d) In August 2008, the Minister sent the appellant and Ms. Dubuc a questionnaire to determine the parent eligible to receive the CCTB for the period beginning January 17, 2007;
+(e) On November 20, 2008, the Minister determined that the appellant was the person eligible to receive the CCTB for the period from January 2007 to June 2007 for the 2005 base taxation year and from July 2007 to January 2008 for the 2006 base taxation year;
+(f) For the period beginning April 2008, the Minister determined that the child lived alternately with the appellant and with Ms. Dubuc and that each participated equally in the child's care;
+(g) As a result, from May 2008, eligibility was divided between the two parents and alternated every six months;
+(h) The appellant was eligible to receive the CCTB from November 2008 to April 2009 for the 2007 base taxation year;
+(i) Following this decision, Ms. Dubuc informed the Minister that, in fact the child lived with her three-quarters of the time and that she paid for the child's clothing and school fees;
+(j) On June 19, 2009, the Minister determined that neither parent would be eligible to receive the CCTB.
+[4] Ms. Dubuc gave evidence that she left the family residence where she lived with the appellant and the child at the beginning of 2007 following the end of her relationship with the appellant. Ms. Dubuc explained that she rented an apartment near the family residence where she went to live with her elder daughter. She admitted that during the 2007 taxation year the child lived exclusively with the appellant.
+[5] Ms. Dubuc claims that the she had exclusive custody of the child from January 2008. She acknowledges that, following a judgment of the Superior Court of Quebec, she should have had shared custody of the child beginning in April 2008. Notwithstanding this judgment, Ms. Dubuc claims that the child lived exclusively with her. She did, however, acknowledge that the child might have stayed with friends on a few occasions.
+[6] The appellant maintains that he had exclusive custody of the child during the 2007 taxation year. He appears to admit that Ms. Dubuc had custody of the child between January and October 2008, but maintains that custody was shared from April 2008. The appellant claims that he was the parent mainly responsible for the child's education and medical care during the entire period in dispute. The appellant claims that he was the contact for the child's secondary school and that he helped with her homework.
+III. Issue
+[7] The issue is whether the Minister correctly revised the appellant's CCTB in determining that the overpayments received were $165.47 for the 2005 base taxation year, $510.55 for the 2006 base taxation year and $432.82 for the 2007 base taxation year.
+IV. Analysis
+[8] The definition of the term "eligible individual" in section 122.6 of the Income Tax Act, R.S.C. 1985, c.1 (5th Supp.) and its amendments, was for the relevant period as follows:
+"eligible individual" in respect of a qualified dependant at any time means a person who at that time
+(a) resides with the qualified dependant,
+(b) is the parent of the qualified dependant who primarily fulfils the responsibility for the care and upbringing of the qualified dependant,
+(c) is resident in Canada or, where the person is the cohabiting spouse or common-law partner of a person who is deemed under subsection 250(1) to be resident in Canada throughout the taxation year that includes that time, was resident in Canada in any preceding taxation year,
+(d) is not described in paragraph 149(1)(a) or 149(1)(b), and
+(e) is, or whose cohabiting spouse or common-law partner is, a Canadian citizen or a person who
+(i) is a permanent resident within the meaning of subsection 2(1) of the Immigration and Refugee Protection Act,
+(ii) is a temporary resident within the meaning of the Immigration and Refugee Protection Act, who was resident in Canada throughout the 18 month period preceding that time, or
+(iii) is a protected person within the meaning of the Immigration and Refugee Protection Act,
+(iv) was determined before that time to be a member of a class defined in the Humanitarian Designated Classes Regulations made under the Immigration Act,
+and for the purposes of this definition,
+(f) where the qualified dependant resides with the dependant’s female parent, the parent who primarily fulfils the responsibility for the care and upbringing of the qualified dependant is presumed to be the female parent,
+(g) the presumption referred to in paragraph 122.6 eligible individual (f) does not apply in prescribed circumstances, and
+(h) prescribed factors shall be considered in determining what constitutes care and upbringing.
+[9] Ms. Dubuc acknowledged that the child lived exclusively with the appellant during the entire 2007 taxation year. Furthermore, she appeared to corroborate the evidence of the appellant that she was not able to care for the child during the 2007 taxation year because of stress caused by the breakdown of her relationship with the appellant and the death of her parents. As a result, I have no difficulty finding that the appellant was the individual eligible to receive the CCTB for the period from January to June 2007 with respect to the 2005 base taxation year and for the period from July 2007 to January 2008 for the 2006 base taxation year. Furthermore, notwithstanding the contradictions between the evidence of Ms. Dubuc and that of the appellant, I find that the child lived alternately with the appellant and with Ms. Dubuc beginning in April 2008 and that each of them participated equally in the child's care. I therefore find that the appellant was eligible to receive the CCTB from November 2008 to April 2009 with respect to the 2007 base taxation year. I would note that this is the same conclusion reached by the Minister with respect to the appellant's entitlement to the CCTB for that period.
+Signed at Ottawa, Canada, this 16th day of February 2011.
+"Robert J. Hogan"
+Hogan J.
+Translation certified true
+on this 24th day of March 2011
+Monica F. Chamberlain, Reviser
+CITATION: 2011 TCC 54
+COURT FILE NO: 2010-130(IT)I
+STYLE OF CAUSE: Pierre Demers and Her Majesty The Queen
+PLACE OF HEARING: Sherbrooke, Quebec
+DATE OF HEARING: December 13, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT: February 16, 2011
+APPEARANCES:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Christina Ham
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,192 @@
+---
+title: "André Chartrand"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27718/index.do"
+last_modified: "2006-05-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 327"
+citation2: ""
+neutral_citation: "2007 CCI 327"
+decision_date: "2006-05-18"
+language: "fr"
+item_id: "27718"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 470
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:37:15.492000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2a2e1c5b21a45b8705c2fc964c6f6386fef9bc8cdd6ae61ba04fdb4c9063d3ec"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# André Chartrand
+
+- Citation: 2007 CCI 327
+- Decision date: 2006-05-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 470, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+André Chartrand
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-05-18
+Référence neutre
+2007 CCI 327
+Numéro de dossier
+2001-2961(GST)G
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2001-2961(GST)G
+ENTRE :
+ANDRÉ CHARTRAND, EXÉCUTEUR DE LA
+SUCCESSION DE MONIQUE CHARTRAND,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 18 mai 2006, à Ottawa (Ontario).
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Avocat de l'appelant :
+Me Pierre McMartin
+Avocat de l'intimée :
+Me Gérald Danis
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de l’article 325 de la Loi sur la taxe d'accise, dont l'avis est daté du 21 août 2000 et porte le numéro PL-2000/176, relativement à un transfert effectué le 27 mars 2000 entre André Chartrand et Monique Brassard Chartrand de l’immeuble situé au 285 Maple, Gatineau, est rejeté, avec dépens.
+Signé à Ottawa, Canada, ce 12e jour de juin 2007.
+« Lucie Lamarre »
+Juge Lamarre
+Référence : 2007CCI327
+Date : 20070612
+Dossier : 2001-2961(GST)G
+ENTRE :
+ANDRÉ CHARTRAND, EXÉCUTEUR DE LA
+SUCCESSION DE MONIQUE CHARTRAND,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] Monsieur André Chartrand était actionnaire et administrateur unique de la société 126257 Canada Inc. (« société »), qui exploitait le Dépanneur Chartrand (« Dépanneur »), dans la ville de Gatineau, province de Québec, depuis 1983. Cette société fut radiée au bureau de l'Inspecteur général des institutions financières (« IGIF ») le 21 janvier 2002 (pièce I-1).
+[2] Le 27 août 1999, une nouvelle cotisation était établie par le ministère du Revenu du Québec (« Ministre ») à l'encontre de la société, pour la taxe sur les produits et services (« TPS ») non versée, avec intérêts et pénalités au cours de la période du 1er décembre 1994 au 5 septembre 1998, pour un montant total de 36 848,96 $ (pièce A-4).
+[3] Le 21 juillet 2000, monsieur André Chartrand était cotisé personnellement pour un montant de 36 010,88 $, aux termes du paragraphe 323(1) de la Loi sur la taxe d'accise (« LTA ») à titre d'administrateur de la société (pièce A‑8), eu égard à la TPS non versée par cette dernière et faisant l'objet de la cotisation du 27 août 1999.
+[4] Le 27 mars 2000, André Chartrand et sa conjointe, Monique Brassard, qui étaient mariés depuis le 24 juin 1972, sans avoir fait préalablement de contrat de mariage et qui étaient donc régis par le régime de la société d'acquêts dans la province de Québec, ont signé devant la notaire Claudine Cournoyer, une entente par laquelle ils adoptaient pour l'avenir le régime de la séparation de biens, suivant les dispositions du Code civil du Québec (C.c.Q.) (pièce I-2).
+[5] Le même jour, soit le 27 mars 2000, les deux conjoints signaient une entente de partage des acquêts par suite de l'entente préalablement signée qui modifiait leur régime matrimonial et par laquelle la société d'acquêts qui les régissait auparavant était dissoute (pièce A‑11). Par cette entente, Monique Brassard devenait créancière de monsieur André Chartrand pour une somme de 71 600 $ et ce dernier acceptait d'acquitter sa dette envers elle en transférant la totalité de son droit de propriété dans la résidence familiale située au 285 Maple, Gatineau, province de Québec, laquelle était évaluée à 94 200 $ à cette date. Cette propriété avait été acquise en 1979 par monsieur André Chartrand de la succession de son père (pièce A‑10).
+[6] Le 21 août 2000, Monique Brassard recevait un avis de cotisation par lequel le Ministre lui réclamait la somme de 22 407,48 $, aux termes de l'article 325 de la LTA. Le Ministre considérait que cette dernière s'était vue transférer la propriété de monsieur Chartrand, sans contrepartie, alors que ce dernier était débiteur d'une dette fiscale envers le Ministre. Le montant de la dette fiscale reliée à la TPS non versée constituant 23 pour cent de la totalité de la dette due par monsieur Chartrand au fisc, on a cotisé madame Brassard pour un montant équivalent à 23 pour cent de l'avantage reçu par cette dernière. Cet avantage fut estimé à 94 200 $ par le Ministre, soit la valeur de la propriété de la rue Maple, à la date du transfert, le 27 mars 2000 (voir réponse à l'avis d'appel, paragraphe 7(k) et pièce A‑11). Le 16 octobre 2000, Monique Brassard s'opposait à cette cotisation, et signait sous son nom de personne mariée, Monique Chartrand (pièce A-12). Le 5 avril 2001, le Ministre confirmait la cotisation en concluant qu'il ne pouvait considérer que la propriété de la rue Maple avait été transférée à madame Brassard par monsieur Chartrand à la suite d'une ordonnance, ou d'un jugement d'un tribunal compétent ou à la suite d'une entente écrite de séparation et qu'au moment du transfert, les deux conjoints vivaient séparés en raison de l'échec du mariage (pièce A-13). C'est précisément sur ce point que l'appelant conteste la cotisation.
+[7] Lors de son témoignage, monsieur André Chartrand a dit que depuis 1995, lui et sa conjointe ne vivaient plus une vie de couple. Chacun occupait une chambre séparée dans la résidence familiale, qui est la propriété de la rue Maple, et qui fait l'objet du présent litige. Le couple a deux enfants, nés en 1973 et 1975, et en 1998, tous deux avaient quitté le foyer familial. À ce moment, soit en 1998, monsieur Chartrand dit avoir emménagé dans le sous‑sol, auquel il avait un accès extérieur direct. Il n'y a pas de cuisine au sous‑sol, mais monsieur Chartrand a dit qu'il mangeait rarement à la maison. À compter de 1998, lui et sa conjointe ne sortaient plus en couple socialement. Ils ne se voyaient que pour parler des finances de la maison et du Dépanneur. Déjà en 1998, la santé de madame Brassard s'affaiblissait. Elle s'est fait opérer pour une tumeur volumineuse et a passé quatre mois à l'hôpital. Elle a eu ensuite deux opérations consécutives à la hanche. Elle fut ensuite atteinte d'un cancer au cerveau qui l'emporta le 24 novembre 2003, selon l'attestation de décès jointe à la pièce A‑9. Au cours de cette période, soit en 2000, la société a fait faillite et madame Brassard, malgré sa santé chancelante, a racheté le Dépanneur du syndic. C'est monsieur Chartrand qui a continué à l'exploiter car madame Brassard n'avait aucune notion du fonctionnement de ce commerce. En février 2001, ils ont dû cesser l'exploitation de ce commerce et monsieur Chartrand a fait faillite personnellement en 2003.
+[8] Monsieur Chartrand a expliqué qu'il est resté dans la résidence familiale pour s'occuper de madame Brassard, dont la santé périclitait de jour en jour. De plus, Revenu Québec ayant saisi tous ses actifs, il n'avait pas d'argent pour se loger ailleurs. Il n'a pas fait de demande de divorce, ni de séparation de corps, puisqu'il n'en voyait pas l'utilité.
+[9] Le 11 janvier 2003, madame Brassard a fait devant le notaire Michel Blais un codicille à son testament, par lequel elle léguait à ses enfants la propriété de la rue Maple. Par ailleurs, elle dit léguer à titre particulier à André Chartrand, son conjoint, ses droits dans ses fonds de retraite, de même que le résidu de ses biens meubles et immeubles. Elle y déclare être mariée à André Chartrand sous le régime légal de la société d'acquêts (voir codicille au testament, dans la pièce A‑9). Non seulement, on n'y retrouve aucune notion du changement du régime matrimonial, mais madame Brassard déclare à l’article troisième de ce codicille que son état civil et régime matrimonial n’ont été et ne sont l’objet d’aucun changement. À l'audition, monsieur Chartrand a dit que lorsque lui et madame Brassard ont rencontré la notaire Cournoyer le 27 mars 2000, ils voulaient s'assurer que tout soit réglé entre lui et sa conjointe et considéraient qu'ils mettaient ainsi un terme à leur vie commune.
+Arguments des parties
+[10] L'avocat de l'appelant invoque le paragraphe 325(4) de la LTA pour soutenir que madame Brassard n'était pas conjointement solidaire du paiement de la dette fiscale due par monsieur Chartrand. Le paragraphe 325(4) se lit comme suit :
+325. (1) La personne qui transfère un bien, directement ou indirectement, par le biais d'une fiducie ou par tout autre moyen, à son époux ou conjoint de fait, ou à un particulier qui l'est devenu depuis, à un particulier de moins de 18 ans ou à une personne avec laquelle elle a un lien de dépendance, est solidairement tenue, avec le cessionnaire, de payer en application de la présente partie le moins élevé des montants suivants :
+a) le résultat du calcul suivant :
+A – B
+où :
+A représente l'excédent éventuel de la juste valeur marchande du bien au moment du transfert sur la juste valeur marchande, à ce moment, de la contrepartie payée par le cessionnaire pour le transfert du bien,
+B l'excédent éventuel du montant de la cotisation établie à l'égard du cessionnaire en application du paragraphe 160(2) de la Loi de l'impôt sur le revenu relativement au bien sur la somme payée par le cédant relativement à ce montant;
+b) le total des montants représentant chacun :
+(i) le montant dont le cédant est redevable en vertu de la présente partie pour sa période de déclaration qui comprend le moment du transfert ou pour ses périodes de déclaration antérieures,
+(ii) les intérêts ou les pénalités dont le cédant est redevable à ce moment.
+Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédant découlant d'une autre disposition de la présente partie.
+[...]
+(4) Malgré le paragraphe (1), dans le cas où un particulier transfère un bien à son époux ou conjoint de fait — dont il vit séparé au moment du transfert pour cause d'échec du mariage ou de l'union de fait au sens du paragraphe 248(1) de la Loi de l'impôt sur le revenu — en vertu d'un décret, d'une ordonnance ou d'un jugement rendu par un tribunal compétent ou en vertu d'un accord écrit de séparation, la juste valeur marchande du bien au moment du transfert est réputée nulle pour l'application de l'alinéa (1)a). Toutefois, le présent paragraphe ne limite en rien l'obligation du cédant découlant d'une autre disposition de la présente partie.
+[11] Selon l’avocat de l’appelant, les deux ententes signées par monsieur Chartrand et madame Brassard le 27 mars 2000, constituent en réalité un accord de séparation, même si cela n'est pas invoqué spécifiquement. Il suggère que le témoignage de monsieur Chartrand qui dit qu'il ne faisait plus vie commune avec madame Brassard, combiné au partage des acquêts par l'entente de séparation des acquêts (pièce A‑11), font preuve que les conjoints ont conclu en réalité un accord écrit de séparation par suite de la dissolution de leur mariage. Il soutient que l'expression « accord de séparation » est définie au paragraphe 248(1) de la Loi de l'impôt sur le revenu comme suit :
+248. (1) Les définitions qui suivent s'appliquent à la présente loi.
+[...]
+« accord de séparation » Est comprise parmi les accords de séparation la convention en vertu de laquelle une personne s'engage à effectuer des versements périodiques après la dissolution de son mariage ou union de fait, en vue de subvenir aux besoins de son ex-époux ou ancien conjoint de fait, d'enfants issus du mariage ou union de fait, ou, à la fois, de son ex-conjoint et d'enfants issus du mariage ou union de fait, que la convention ait été conclue avant ou après la dissolution de ce mariage ou union de fait.
+[12] Selon lui, cette définition n'est pas exhaustive et elle précise par l'expression « est comprise » qu'il peut y avoir plusieurs formes d'accord de séparation. Il invoque Jean‑Marie Fortin et André Lareau, Fiscalité matrimoniale, feuilles mobiles, Farnham (Québec), Publications CCH/FM Ltée, à la page 2234, pour dire que l'entente manifestant la volonté des parties de vivre séparées peut être verbale et peut découler des faits. Il invoque que les tribunaux ont accepté de considérer que des conjoints pouvaient vivre séparés tout en vivant sous le même toit (voir par exemple Boos v. M.N.R., 61 DTC 520; M.N.R. and Longchamps et al., 86 DTC 1694; Kelner c. Canada, [1995] A.C.I. no 1130 (QL)).
+[13] Selon l'avocat de l'appelante, la preuve a révélé qu'il y avait entente de séparation et que par cet accord, monsieur Chartrand s'est endetté envers madame Brassard et a payé sa dette en lui transférant la propriété de la rue Maple.
+[14] Selon l'avocat de l'intimée, la preuve ne révèle pas que les conjoints avaient l'intention de se séparer. Si tel avait été le cas, ceci serait apparu clairement des actes notariés. D'ailleurs, si leur intention était de se séparer, ils n'auraient pas adopté le régime de la séparation de biens. Les deux accords signés devant notaire ont fait en sorte qu'ils ont divisé leurs biens pour justement se soumettre à l'avenir au régime de la séparation de biens. D'ailleurs, les deux conjoints se sont offerts une entraide mutuelle jusqu'au décès de madame Brassard : cette dernière en acceptant de racheter le Dépanneur pour que monsieur Chartrand puisse continuer à l'exploiter, et monsieur Chartrand en soutenant sa conjointe jusqu'à ses derniers jours. Même s'ils faisaient chambre à part, l'avocat de l'intimée soutient qu'on ne peut conclure qu'ils se comportaient comme un couple ayant mis un terme à leur union conjugale. On ne peut faire dire à des documents notariés ce qu'ils ne disent pas. Selon lui, la preuve ne révèle pas que les parties ont eu l'intention de signer un accord de séparation et qu'ils vivaient séparés au moment du transfert.
+Analyse
+[15] Je suis d’accord avec l’avocat de l’intimée. Certains critères ont été établis par la jurisprudence, (voir à ce sujet Lavoie c. R., 1999 CarswellNat 2113, [2000] 2 C.T.C. 2137 (C.C.I.), dans laquelle notre Cour fait référence à l’arrêt Molodowich v. Penttinen, (1980), 17 R.F.L. (2d) 376, cité dans Milot c. R., 1995 CarswellNat 1987, [1996] 1 C.T.C. 2247 (C.C.I.)), pour déterminer si des personnes vivent en union conjugale. Ces critères sont les suivants :
+1. Logement
+a) Les intéressés vivaient-ils sous le même toit?
+b) Couchaient-ils dans le même lit?
+c) Y avait-il quelqu’un d’autre qui habitait chez eux?
+2 Comportement sexuel et personnel
+a) Les intéressés avaient-ils des rapports sexuels? Si non, pourquoi?
+b) Étaient-ils fidèles l’un à l’autre?
+c) Quels étaient leurs sentiments l’un pour l’autre?
+d) Existait-il une bonne communication entre eux sur le plan personnel?
+e) Prenait-il leurs repas ensemble?
+f) Que faisaient-ils pour s’entraider face aux problèmes ou à la maladie?
+g) S’offraient-ils des cadeaux à des occasions spéciales?
+3. Services
+Comment les intéressés agissaient-ils habituellement en ce qui concerne :
+a) la préparation des repas;
+b) le lavage et le raccommodage des vêtements;
+c) les courses;
+d) l’entretien du foyer;
+e) les autres services ménagers?
+4. Relations sociales
+a) Les intéressés participaient-ils ensemble ou séparément aux activités du quartier et de la collectivité?
+b) Quelle était la nature des rapports de chacun d’eux avec les membres de la famille de l’autre et comment agissaient-ils envers ces derniers, et inversement, quel était le comportement de ces familles envers les intéressés?
+5. Attitude de la société
+Quelle attitude et quel comportement la collectivité avait-elle envers les intéressés, considérés individuellement et en tant que couple?
+6. Soutien (économique)
+a) Quelles dispositions financières les intéressés prenaient-ils pour ce qui était de fournir les choses nécessaires à la vie (vivres, logement, récréation, etc.) ou de contribuer à les fournir ?
+b) Quelles dispositions prenaient-ils relativement à l’acquisition et à la propriété de biens?
+c) Existait-il entre eux des arrangements financiers particuliers que tous deux tenaient pour déterminants quant à la nature de leurs relations globales?
+7. Enfants
+Quelle attitude et quel comportement les intéressés avaient-ils à l’égard des enfants?
+[16] En l’instance, l’appelant ne m’a pas convaincu qu’il ne vivait plus en union conjugale avec Monique Brassard en mars 2000. J'ajouterai que selon le codicille signé en janvier 2003, déposé de consentement sous la pièce A‑9, madame Brassard fait référence à monsieur Chartrand comme étant toujours son conjoint. De plus, le notaire Blais instrumentant le codicille au testament, ne semble pas être au courant de la modification du régime matrimonial puisque selon le codicille, les conjoints sont régis par le régime de la société d'acquêts et leur état civil de même que leur régime matrimonial n’ont été et ne font l’objet d’aucun changement. Il semblerait que les deux ententes signées en mars 2000 (pièces I-2 et A‑11) n’auraient pas été inscrites au registre des droits personnels et réels mobiliers, tel que requis par les articles 2934 et 2941 du C.c.Q., pour être opposables aux tiers.
+[17] Les articles 2934 et 2941 C.c.Q. se lisent comme suit :
+2934. La publicité des droits résulte de l'inscription qui en est faite sur le registre des droits personnels et réels mobiliers ou sur le registre foncier, à moins que la loi ne permette expressément un autre mode.
+[...]
+2941. La publicité des droits les rend opposables aux tiers, établit leur rang et, lorsque la loi le prévoit, leur donne effet.
+Entre les parties, les droits produisent leurs effets, encore qu'ils ne soient pas publiés, sauf disposition expresse de la loi.
+[18] De plus, dans ce codicille, monsieur Chartrand en tant que conjoint, se retrouve bénéficiaire des régimes de retraite de madame Brassard, bénéficiant ainsi d'un répit fiscal, puisqu'en tant que conjoint, il peut hériter du fond de retraite de madame Brassard sans conséquences fiscales, libre d'impôt.
+[19] À mon avis, monsieur Chartrand ne peut gagner sur tous les tableaux. S'il était toujours considéré le conjoint de madame Brassard à son décès, et ainsi bénéficier de ses régimes de retraite sans incidences fiscales, il ne peut du même souffle argumenter qu'il n'était plus son conjoint en mars 2000, afin d'éviter les conséquences fiscales reliées au transfert de la propriété, alors qu'il était redevable d'une dette fiscale envers le gouvernement.
+[20] J’en viens donc ultimement à la conclusion que puisque les conjoints ne vivaient pas séparément lors du transfert de la maison et que les ententes signées devant notaire ne sont pas des ententes de séparation de corps, les conditions de l’exception prévue au paragraphe 325(4) de la LTA ne sont pas remplies, et le paragraphe 325(1) LTA trouve donc application.
+[21] Puisque nous n’avons aucune preuve et qu’il y a plutôt raison de croire que la modification du régime matrimonial n’a pas fait l’objet d’une publication au registre des droits personnels et réels mobiliers, les conjoints étaient toujours régis par le régime de la société d’acquêts au moment du transfert de la propriété en mars 2000, auprès des tiers, dont le Ministre. Cette modification du régime matrimonial entre les parties n’étant pas opposable aux tiers, on ne peut dire que monsieur Chartrand devait une somme de 71 600 $ à Monique Brassard aux fins de l’application de l’article 325 de la LTA. La valeur de l’avantage reçu par Monique Brassard était donc de 94 200 $, dont 23%, soit 21 666 $, redevable au Ministre eu égard à la dette de monsieur Chartrand sur la TPS non versée.
+[22] Je conclus donc que l’appelant ne peut se prévaloir de l’exemption prévue au paragraphe 325(4) de la LTA et que la cotisation sous appel (pour un montant de 22 407,48 $, incluant les intérêts) doit être confirmée.
+[23] L’appel est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 12e jour de juin 2007.
+« Lucie Lamarre »
+Juge Lamarre
+RÉFÉRENCE : 2007CCI327
+Nº DU DOSSIER DE LA COUR : 2001-2961(GST)G
+INTITULÉ DE LA CAUSE : ANDRÉ CHARTRAND, EXÉCUTEUR DE LA SUCCESSION DE MONIQUE CHARTRAND ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Ottawa (Ontario)
+DATE DE L’AUDIENCE : le 18 mai 2006
+MOTIFS DU JUGEMENT PAR : L'honorable juge Lucie Lamarre
+DATE DU JUGEMENT : le 12 juin 2007
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Pierre McMartin
+Avocat de l'intimée :
+Me Gérald Danis
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom : Me Pierre McMartin
+Étude : Beaudry, Bertrand
+Hull (Québec)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,132 @@
+---
+title: "Calvano v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25940/index.do"
+last_modified: "2004-03-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 227"
+citation2: ""
+neutral_citation: "2004 CCI 227"
+decision_date: "2004-03-22"
+language: "fr"
+item_id: "25940"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3673
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:40:47.214000+00:00"
+cases_cited_count: 1
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6e1fe4a604e7cbdbf3e3595279ec0dad1a89ee97e92b8535fac7b4cc8492f92c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Calvano v. The Queen
+
+- Citation: 2004 CCI 227
+- Decision date: 2004-03-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3673, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Calvano v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-03-22
+Référence neutre
+2004 CCI 227
+Numéro de dossier
+2001-3162(IT)G
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2004CCI227
+Date : 20040322
+Dossier : 2001-3162(IT)G
+ENTRE :
+JOSEPH CALVANO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Pour l'appelant : L'appelant lui-même
+Avocat de l'intimée : Me Ron D.F. Wilhelm
+____________________________________________________________________
+MOTIFS DU JUGEMENT
+(Rendus oralement à l'audience à
+Vancouver (Colombie-Britannique), le 9 décembre 2003)
+Le juge Miller
+[1] L'appelant Joseph Calvano interjette appel contre la cotisation par laquelle le ministre du Revenu national a refusé la déduction de frais de déménagement d'un montant de 24 806,74 $ pour l'année d'imposition 1996.
+[2] M. Calvano a affirmé que ces frais avaient été engagés lorsqu'il avait quitté la maison qu'il occupait à Brampton (Ontario) pour s'installer dans une nouvelle résidence, à Port Moody (Colombie-Britannique), parce qu'il avait obtenu un nouvel emploi dans un grand magasin Army and Navy, à Vancouver (Colombie-Britannique). M. Calvano a passé 19 mois dans une maison louée à Coquitlam (Colombie-Britannique) avant d'acheter une maison à Port Moody. Il s'agit principalement de savoir si M. Calvano résidait habituellement dans l'habitation louée à Coquitlam; en effet, dans l'affirmative, seuls les frais de déménagement de Brampton à Coquitlam seraient à juste titre déductibles. Les frais de 24 806 $ n'ont aucunement été engagés pour permettre à l'appelant de s'installer à Coquitlam. Je conclus que M. Calvano résidait habituellement dans la maison située à Coquitlam; les frais de déménagement qu'il a déclarés en 1996 ne sont donc pas déductibles.
+[3] M. Calvano avait énormément d'expérience dans le domaine de la vente au détail. En 1994, il avait été recruté pour occuper le poste de président d'Army and Navy. Le magasin en question voulait changer l'emplacement de son siège social de Regina à Vancouver, de sorte que le nouveau président devait s'établir à Vancouver. M. Calvano s'est vu offrir, et a accepté, le poste de président à la fin de l'année 1994. Il a assisté à des séances d'orientation d'une durée de trois semaines à Regina, au mois de janvier 1995, et il s'est installé à Vancouver juste après. Le magasin l'avait logé à l'hôtel Landis, à Vancouver. Il travaillait depuis le magasin de détail Army and Navy de Vancouver étant donné que le siège social n'avait pas encore changé d'emplacement, même si le directeur général, M. Garth Kennedy, lui avait assuré que le siège social déménagerait à Vancouver au printemps. Le magasin lui a consenti un prêt de 75 000 $ pour qu'il puisse rembourser ses dettes autres que son hypothèque.
+[4] La femme de M. Calvano a passé une semaine avec celui-ci à Vancouver au début de l'année 1995; ensemble, ils ont trouvé, à Coquitlam, une maison à louer dont ils ont pris possession au mois de mars. Le fils de M. Calvano, un adolescent, est arrivé à Vancouver au mois de février et s'est joint à M. Calvano à l'hôtel Landis. Au mois de mars, la femme de M. Calvano est également arrivée à Vancouver et les trois membres de la famille ont emménagé dans la maison louée, à Coquitlam. Ils ont choisi cette maison parce qu'elle était suffisamment grande pour assurer une certaine intimité au fils de M. Calvano.
+[5] Tous les effets de la famille ont été transportés de Brampton à Coquitlam. La famille a engagé certains frais de déménagement mineurs d'environ 1 600 $, comme des frais de repas, que M. Calvano a déduits avec succès en tant que frais de déménagement en 1995. Le magasin Army and Navy a payé les autres frais de déménagement entre Brampton et Coquitlam.
+[6] M. Calvano a fait savoir que la décision d'accepter l'emploi et de s'installer en Colombie-Britannique avait été prise par la famille et qu'il s'agissait de fait d'une décision difficile. Le fils de M. Calvano avait 18 ans et il ne lui restait qu'une année ou deux d'études secondaires. En Ontario, il jouait activement au hockey. La famille de M. Calvano et celle de Mme Calvano étaient en Ontario. La famille Calvano entretenait des liens étroits et se rencontrait souvent. Il est clair que les Calvano aimaient leur maison en Ontario et que, tant que l'emploi ici en cause n'a pas été offert, ils s'attendaient à rester longtemps à cet endroit. Toutefois, la fonction de conseil de M. Calvano en 1994 n'avait clairement pas été aussi fructueuse qu'il l'aurait aimé et l'offre d'un emploi stable de 125 000 $ l'an l'a finalement emporté.
+[7] M. Calvano a décidé de louer la maison à Brampton. Il a déclaré avoir pris cette décision parce qu'il estimait que son avenir n'était pas assuré en Colombie-Britannique, en ce sens qu'au début de l'année 1995, aucun contrat ferme n'avait été conclu. Le siège social d'Army and Navy était encore situé à Regina et M. Calvano voulait simplement s'assurer que tout irait bien pour tous les intéressés en Colombie-Britannique.
+[8] Le témoignage présenté par M. Calvano à cet égard ne me convainc pas entièrement; en effet, il est clair que M. Kennedy et l'avocat-conseil d'Army and Navy, M. MacKenzie, avaient clairement fait savoir à M. Calvano que son avenir à long terme au sein de l'entreprise était assuré. Le témoignage lui-même de M. Calvano donnerait à entendre que ce n'est qu'au mois de juin qu'il a commencé à s'inquiéter du fait qu'aucun contrat n'avait été conclu par écrit. Au mois de mars, lorsque M. Calvano a décidé de louer la maison à Brampton, le fait qu'aucun contrat écrit n'avait été conclu avec Army and Navy n'entrait tout simplement pas en ligne de compte.
+[9] M. Calvano a pu trouver un locataire, M. Thorvardson, pour la maison, à Brampton. M. Thorvardson voulait louer la maison pendant une année ou deux ou encore plus longtemps dans la mesure du possible. Le bail a été conclu pour une durée d'un an et quatre mois, du mois de mars 1995 au mois de juin 1996, de façon à ne pas interrompre les études des enfants de M. Thorvardson. M. Calvano exigeait un loyer mensuel de 1 800 $, soit exactement le même montant que celui qu'il avait convenu de payer pour la maison, à Coquitlam.
+[10] Quand à la propriété de Brampton, M. Calvano a déclaré, en 1995 et en 1996, des pertes de 11 800 $ et de 6 200 $ respectivement à son égard. M. Calvano a maintenu qu'il n'avait jamais dit à son locataire, M. Thorvardson, que le bail devait durer plus d'un an et quatre mois, mais ce témoignage a été contredit par une lettre que M. Thorvardson a envoyée à M. Calvano après avoir appris que le bail ne serait pas prolongé. Dans cette lettre, M. Thorvardson indiquait qu'il avait cru comprendre que si M. Calvano restait en Colombie-Britannique, le bail concernant la maison de Brampton serait automatiquement prolongé. La propre comptable de M. Calvano, Laurie Starkman, semble avoir confirmé cette opinion dans une lettre adressée à l'Agence des douanes et du revenu du Canada; elle ajoutait ensuite que M. Calvano espérait rembourser l'hypothèque grevant la maison de Brampton, et louer la maison en réalisant un profit dans l'avenir.
+[11] Somme toute, je conclus que M. Calvano avait amené son locataire à croire que le bail concernant la maison de Brampton continuerait à s'appliquer si les Calvano ne retournaient pas en Ontario.
+[12] Pendant l'été 1995, M. Calvano croyait que ses efforts auprès d'Army and Navy commençaient à porter fruit. Il croyait également que la société attendait de voir les résultats avant d'arrêter définitivement son contrat. C'étaient principalement les dispositions de l'entente relatives à la gratification qui n'avaient pas été mises au point. De plus, pendant l'été 1995, M. et Mme Calvano ont parcouru la région de Vancouver à la recherche d'une maison.
+[13] Au cours des premiers mois de l'année 1995, M. Calvano a ouvert un compte bancaire en Colombie-Britannique; il a obtenu un permis de conduire de la Colombie-Britannique et il s'est inscrit au régime d'assurance-maladie de la Colombie-Britannique. Il a vendu sa voiture au magasin Army and Navy, mais il en a conservé l'usage, la politique de la société étant de fournir une voiture à ses dirigeants.
+[14] Au mois de décembre 1995, M. Calvano a obtenu son contrat écrit. À part les dispositions relatives à la gratification, ce contrat confirmait l'entente verbale qui s'appliquait déjà depuis plusieurs mois. Au mois de septembre, le siège social a également été établi à Vancouver.
+[15] Au mois de décembre 1995, M. Calvano a également vu son agent immobilier, en Ontario; il a mis en vente sa propriété de Brampton au mois de janvier 1996, ce qui a amené le locataire, M. Thorvardson, à lui envoyer la lettre susmentionnée dans laquelle il exprimait sa déception. La propriété de Brampton a été vendue au mois de mai 1996 après que le prix eut été réduit une ou deux fois.
+[16] Au mois d'août 1996, les Calvano ont présenté une offre à l'égard d'une maison que l'on était en train de construire à Port Moody (Colombie-Britannique). Ils se sont installés dans cette maison à la fin du mois d'octobre 1996, mais ce n'est qu'au mois de janvier 1997 que le titre a été transféré.
+[17] Il s'agit ici de savoir si M. Calvano a le droit de déduire les frais de déménagement, composés de frais de 18 376 $ pour la commission versée au courtier en immeubles, les frais d'avocat et le remboursement de l'hypothèque par suite de la vente de la maison de Brampton au mois de mai 1996, ainsi que de frais de 6 340 $ pour les frais juridiques et les taxes à payer pour l'achat de la propriété de Port Moody.
+[18] Les dispositions pertinentes sont les paragraphes 62(1) et 62(3) de la Loi; je me contenterai ici de reproduire les parties pertinentes du paragraphe 62(1) :
+62(1) Lorsqu'un contribuable a, à une date quelconque, commencé
+a) [...] à être employé dans un lieu au Canada [...]
+et a, de ce fait, déménagé d'une résidence au Canada où, avant le déménagement, il résidait habituellement [...] pour venir occuper une autre résidence sise au Canada où, après le déménagement, il a résidé habituellement [...], de sorte que la distance entre son ancienne résidence et son nouveau lieu de travail soit supérieure d'au moins 40 kilomètres [...]
+Je n'ai pas à reproduire le reste de la disposition.
+[19] Premièrement, M. Calvano a-t-il commencé à être employé au nouveau lieu de travail? Oui, il a clairement commencé à y travailler. Deuxièmement, M. Calvano a-t-il quitté Brampton à cause du nouvel emploi? Il faut encore une fois répondre par l'affirmative. Troisièmement, M. Calvano a-t-il occupé, au Canada, une résidence où il résidait habituellement après le déménagement? Il faut également répondre à cette question par l'affirmative.
+[20] L'appelant maintient que la première nouvelle résidence où il résidait habituellement après le déménagement était la maison à Port Moody, à la fin du mois d'octobre 1996, alors que l'intimée affirme que la nouvelle résidence où M. Calvano résidait habituellement après le déménagement était la maison située à Coquitlam, au mois de mars 1995. Comme il en a été fait mention au début, il s'agit essentiellement de savoir où, initialement, M. Calvano résidait habituellement après le déménagement.
+[21] Le point de départ de tout examen de l'expression « résidait habituellement » est l'arrêt Thomson v. M.N.R.[1] de la Cour suprême du Canada et, en particulier, la remarque suivante que le juge Estey a faite, laquelle figure aux pages 231 et 232 :
+[TRADUCTION]
+D'après le dictionnaire et d'après l'interprétation que les tribunaux donnent de ces termes, un individu est « résident habituel » du lieu où, dans sa vie de tous les jours, il habite d'une manière régulière, normale ou habituelle. On « séjourne » à un endroit que l'on visite ou dans un lieu où l'on demeure exceptionnellement, occasionnellement ou par intermittence. Dans le premier cas, c'est le caractère permanent qui prédomine, et dans le second, le caractère temporaire. La différence ne peut être exprimée d'une manière claire et nette, chaque cas devant être évalué compte tenu de tous les facteurs pertinents, mais ce qui précède indique d'une façon générale la différence essentielle.
+[22] L'examen des décisions montre clairement que le juge Estey avait absolument raison et que chaque affaire peut uniquement être tranchée après que tous les facteurs pertinents ont été examinés. Ainsi, dans la décision Ringham v. R.[2], les facteurs pertinents dont la Cour a tenu compte étaient le fait que le couple avait vendu la maison à Ottawa et s'était installé dans un appartement à Ottawa, en attendant une affectation imminente à l'étranger auprès d'une maison d'ingénieurs-conseils, connue sous le nom de Triple M. De nombreux effets avaient été entreposés. M. Ringham avait provisoirement travaillé pour le bureau de Toronto de Triple M. L'affectation à l'étranger ne s'est jamais concrétisée et M. Ringham s'est installé à Toronto et a cherché à déduire des frais de déménagement, notamment les frais afférents à la vente initiale de sa maison à Ottawa. Le juge Bowman a conclu qu'il n'était pas réaliste de conclure que M. Ringhman résidait habituellement dans l'appartement d'Ottawa.
+[23] La situation de M. Calvano est tout à fait différente. M. Calvano soutient fondamentalement que le bail de 19 mois qu'il a conclu à Coquitlam ne se rapportait qu'à une résidence temporaire par opposition à une résidence habituelle. Je ne crois pas que ce soit le critère applicable. L'intention d'habiter une résidence temporairement ou en permanence ne permet pas de déterminer si la résidence constitue une résidence où le contribuable « réside habituellement » . Le simple fait qu'une personne décide de vivre quelque part temporairement ne veut pas nécessairement dire qu'elle ne peut pas y résider habituellement. D'autre part, une personne peut habituellement résider dans une résidence sur une base temporaire. La notion de « résident habituel » se rapporte davantage à la vie de tous les jours qu'au caractère permanent de la situation.
+[24] Je souscris à la conclusion suivante que le juge Bowie a tirée dans la décision Cavalier c. Canada[3], au paragraphe 22 :
+Je conclus de ces jugements que, pour être considéré comme un résident habituel, un contribuable n'a pas à avoir eu l'intention de rester au nouveau lieu de résidence en permanence ou pour une période d'une durée particulière. [...]
+Ceci dit, la durée du séjour à Coquitlam est l'un d'un certain nombre de facteurs à prendre en considération lorsqu'il s'agit de déterminer si M. Calvano résidait habituellement à Coquitlam.
+[25] Les autres facteurs pertinents sur lesquels je me fonde en décidant que M. Calvano résidait habituellement à Coquitlam sont ci-après énoncés :
+(i) Premièrement, M. Calvano, sa femme et son fils se sont installés dans cette résidence en laissant des attaches importantes en Ontario, comme l'école et le hockey pour le fils et des liens familiaux étroits dans le cas de Mme Calvano.
+(ii) Tous les effets ont été transportés, aux frais d'Army and Navy, dans la nouvelle résidence. Aucune possession importante n'a été entreposée.
+(iii) Le permis de conduire, l'assurance-maladie et les comptes bancaires ont tous été changés pour en obtenir de nouveaux en Colombie-Britannique pendant que la famille habitait cette résidence.
+(iv) Il y a clairement eu changement d'utilisation de la maison de Brampton, laquelle est passée d'une résidence principale à une propriété générant un revenu au mois de mars 1995 et laquelle a été utilisée en tant que telle et a occasionné des pertes déductibles en 1995 et en 1996.
+(v) Pendant 19 mois, c'est à cet endroit que M. Calvano et sa famille mangeaient, dormaient et vivaient; ils n'allaient en Ontario qu'occasionnellement.
+(vi) Pendant ces 19 mois, les Calvano ont commencé à se créer une vie sociale.
+(vii) La propriété elle-même a été choisie afin de répondre aux besoins précis de la famille.
+Ces facteurs donnent selon moi à entendre qu'il ne s'agissait absolument pas d'une situation passagère. Pendant plus d'un an, c'était la vie de tous les jours des Calvano.
+[26] D'un autre côté, M. Calvano a affirmé qu'étant donné qu'aucun contrat n'avait été conclu par écrit avant le mois de décembre 1995, il ne peut pas être considéré, pour la période allant du mois de mars 1995 au mois d'octobre 1996, comme ayant habituellement résidé à Coquitlam, la famille ayant uniquement commencé à résider habituellement en Colombie-Britannique lors de l'achat de la propriété, à Port Moody. Cela a pour effet de restreindre la portée communément attribuée à l'expression « résident habituel » , au point qu'elle n'a plus aucun sens.
+[27] Je conclus que M. Calvano et sa famille ont décidé de s'installer dans la région de Vancouver au début de l'année 1995 et qu'ils ont décidé d'acquérir une résidence habituelle en louant une maison à Coquitlam, à ce moment-là. Le fait que les Calvano se sont par la suite installés 19 mois plus tard dans une maison qu'ils ont achetée ne change rien au fait que pendant ces 19 premiers mois, ils résidaient habituellement à cet endroit.
+[28] Il est inutile d'examiner les arguments subsidiaires de la Couronne. L'appel est rejeté. Aucuns dépens ne sont adjugés.
+Signé à Ottawa, Canada, ce 22e jour de mars 2004.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 1er jour d'avril 2005.
+Jacques Deschênes, traducteur
+[1] [1946] S.C.R. 209.
+[2] 2000 DTC 2060.
+[3] [2001] A.C.I. no 719.

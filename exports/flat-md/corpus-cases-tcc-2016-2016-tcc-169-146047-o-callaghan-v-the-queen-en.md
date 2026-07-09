@@ -1,0 +1,214 @@
+---
+title: "O'Callaghan v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/146047/index.do"
+last_modified: "2016-07-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 TCC 169"
+citation2: ""
+neutral_citation: "2016 TCC 169"
+decision_date: "2016-07-08"
+language: "en"
+item_id: "146047"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2923
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:46:21.479000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c6964501a60999b4edf5b20ab45327bc503b8d22630d437bb895e7aa5c58767b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# O'Callaghan v. The Queen
+
+- Citation: 2016 TCC 169
+- Decision date: 2016-07-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2923, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+O'Callaghan v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-07-08
+Neutral citation
+2016 TCC 169
+File numbers
+2014-2407(IT)G
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2014-2407(IT)G
+BETWEEN:
+SYLVIA O’CALLAGHAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on June 20, 2016,
+at Regina, Saskatchewan.
+Before: The Honourable Réal Favreau
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Melissa Danish
+JUDGMENT
+The appeal from the reassessment dated March 18, 2014 in respect of liability under section 160.2 of the Income Tax Act is dismissed with costs in accordance with the attached reasons for judgment.
+Signed at Montreal, Canada, this 8th day of July 2016.
+“Réal Favreau”
+Favreau J.
+Citation: 2016 TCC 169
+Date: 20160708
+Docket: 2014-2407(IT)G
+BETWEEN:
+SYLVIA O’CALLAGHAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal from the reassessment the notice of which is dated March 18, 2014 made by the Minister of National Revenue (the “Minister”) under the Income Tax Act, R.S.C. 1985, c.1 (5th Supp.), as amended (the “Act”).
+[2] The issue to be decided is whether the appellant is jointly and severally liable to pay the tax liability of Siegfried Starzyk, the appellant’s deceased brother, resulting from the deemed disposition of his registered retirement savings plans (“RRSPs”).
+[3] The Minister reassessed the appellant in the amount of $57 704.24 in respect of liability under section 160.2 of the Act. The amount of $57 704.24 represented the principal tax debt owed by Siegfried Starzyk less $0.30.
+[4] In determining the appellant’s tax liability under section 160.2 of the Act, the Minister made the following assumptions of fact:
+a) Siegfried Starzyk died on July 19, 2007.
+b) The appellant is Siegfried Starzyk’s sister.
+c) The appellant is neither the spouse nor the dependent child nor grandchild of Siegfried Starzyk.
+d) Amounts held in RRSPs by Siegfried Starzyk at the time of his death were deemed to be disposed of and, as such, became income in the year of his death.
+e) Siegfried Starzyk held two RRSPs of which the appellant was the beneficiary (the RRSPs).
+f) The value of the RRSPs as at August 2, 2007 was $274,050.83.
+g) The appellant received $274,050.83 upon the collapse of the RRSPs.
+h) As a result of the deemed disposition of the RRSPs, the amount of $274,050.83 was reported as income on the tax return of Siegfried Starzyk for the year of his death.
+i) The tax on the deemed disposition of the RRSPs was $98,284.20.
+j) From the amounts she received from the collapse of the RRSPs, the appellant forward the sum of $135,000 to Bruno Starzyk, which the appellant maintains was to pay the tax liabilities of the estate of Siegfried Starzyk.
+k) The tax liability of the estate of Siegfried Starzyk relating to the deemed disposition of the RRSPs was only partially paid.
+l) The principal amount of tax remaining owed by the estate of Siegfried Starzyk relating to the deemed disposition of the RRSPs exclusive of interest is $57,704.24.
+[5] With respect to the assumptions set out at subparagraphs 13(h) and (l) of the Amended Reply to the Notice of Appeal, which contain figures that are in error, the Minister relies on the following other material facts:
+a) As a result of the deemed disposition of the RRSPs, an amount of $273,770 was reported as income on the tax return of Siegfried Starzyk for the year of his death; and
+b) The principal amount of tax remaining owed by the estate of Siegfried Starzyk relating to the deemed disposition of the RRSPs, exclusive of interest is $57,704.54.
+[6] The facts in this appeal are not contested by the appellant and the following documents were introduced as evidence:
+a) a copy of an investment report from the BMO Bank of Montreal for the period of January 6, 2007 to July 6, 2007 showing that the balance on July 6, 2007 of Mr. Siegfried Starzyk’s term investments RRSP was $265,353.85 and that the beneficiary of the plans was Ms. Sylvia O’Callaghan;
+b) a copy of a document entitled “Renunciation of administration” signed on July 25, 2007 by Ms. Sylvia O’Callaghan by virtue of which she renounced to all her rights and titles to a grant of administration of the deceased’s property;
+c) a copy of two cheques dated August 2, 2007 in the amounts of $5,073.88 and $268,976.95 respectively drawn on BMO Bank of Montreal accounts made to the order of the Estate of Siegfried Starzyk;
+d) a copy of a bank statement of the BMO Bank of Montreal for the period ending on August 9, 2007 owned by Ms. Sylvia O’Callaghan which shows a deposit of $274,050.83 made on August 2, 2007 and a withdrawal of $135,000 also made on August 2, 2007;
+e) a copy of the cheque dated August 2, 2007 in the amount of $135,000 made to the order of Bruno Starzyk drawn on Ms. Sylvia O’Callaghan’s bank account at the BMO Bank of Montreal;
+f) a copy of two letters from the Canada Revenue Agency (“CRA”) respectively dated January 13, 2014 and March 7, 2014 addressed to Ms. O’Callaghan as a result of her Notice of Objection which explains why subsection 160.2(1) of the Act is applicable in the circumstances and why the $135,000 cheque to Bruno did not discharge her from her tax liability; and
+g) a copy of an Order of the Court of Queen’s Bench of Alberta dated April 25, 2008 authorizing Mr. Bruno Starzyk of Champion, Alberta to administer all of the property of Mr. Siegfried Starzyk, who died on July 19, 2007.
+[7] The exhibits attached to the Affidavit of Linda Robertson dated June 14, 2016, an appeals officer of the CRA who reviewed the appellant’s Notice of Objection, were filed as evidence during her testimony:
+a) Exhibit “A” is a print-out of an electronic Agency record known as Option C for Siegfried Starzyk’s final tax return for the 2007 taxation year, showing the following:
+a. RRSP income of $273,770 was reported;
+b. The tax return was assessed by the Agency on December 22, 2008 and that the total tax payable was $98,284.20, comprised of $71,474.70 of federal tax and $26,809.50 of provincial tax; and
+c. The tax credits for the year, which are highlighted in yellow on Exhibit “A”, exceeded the income other than the RRSP income reported for the year, which is highlighted in blue on Exhibit “A”. As a result of these credits, no tax was owing with respect to the income reported at lines 101, 114 and 212 of the tax return. Therefore, the total amount of tax payable of $98,284.20 relates to the RRSP income reported at line 129.
+b) Exhibit “B” are print-outs of electronic Agency records known as Option DD.3 with respect to the T4 RRSP slip information for Siegfried Starzyk for the 2007 taxation year, showing the following:
+a. No tax was deducted or withheld at source with respect to the $273,769 in RRSP income shown thereon; and
+b. The deductions taken at source in respect of Mr. Starzyk’s T4 and T4A income for the 2007 taxation year are comprised of $381.41 of CPP contributions and $1383.11 of tax.
+c) Exhibit “C” is a print-out of an electronic Agency record known as Option N.5, which shows the following:
+a. The amount outstanding as a result of the December 22, 2008 assessment of Mr. Starzyk’s 2007 taxation year was $98,119.77, calculated as follows:
+$98,284.20 federal and provincial tax owing based on income reported for 2007
+($1,383.11) tax deductions withheld from T4 and T4A income reported
+($215.58) credit with respect to CPP overpayment
+$1,434.26 arrears interest
+$98,119.77
+b. The amount outstanding of $98,119.77 was comprised of provincial tax of $25,210.81, federal tax of $71,474.70 and arrears interest of $1,434.26;
+c. One payment of $38,980.97 posted on March 19, 2009 to Siegfried Starzyk’s account with the Agency; and
+d. $25,210.81 of the amount referenced in c) above was credited towards the provincial tax owing and the balance of $13,770.16 was credited against the federal tax owing, leaving $57,704.54 in federal tax owing as at March 23, 2009.
+d) Exhibit “D” is a print-out of the relevant portion of an Agency electronic record known as ACSES – Account Information, showing that the amount owing on Mr. Starzyk’s account continues to include $57,704.54 of tax with respect to his 2007 taxation year.
+e) Exhibit “E” is a true copy of the notice of assessment issued to the appellant on September 20, 2013 in the amount of $75,902.51 copied from the Agency’s records;
+f) Exhibit “F” are true copies of the notice of reassessment issued to the appellant on March 18, 2014 in the amount of $57,704.24 and an accompanying third party voucher, copied from the Agency’s records; and
+g) Exhibit “G” is a true copy of the Agency’s Statement of Account for the Estate of the late Siegfried Starzyk current to March 11, 2014, copied from the Agency’s records.
+[8] During her testimony, Ms. Robertson explained that the reassessment dated March 18, 2014 was made as a result of a fairness application by the administrator of the estate that was accepted by the Minister. The late filing penalty and a portion of the interest were taken out from the previous reassessment. Ms. Robertson also explained that it was a normal practice for a trustee of an RRSP not to make deductions at source when the plan collapsed as a result of the death of the owner of the plan. Finally, Ms. Robertson explained that CRA had reasons to believe that the estate would not have enough money to pay the amount of tax owed by it.
+Position of the Appellant [9] The appellant states that she is not liable for any tax liability arising from the RRSPs pursuant to subsection 160.2(1) of the Act.
+[10] Pursuant to subsection 146(8.8) of the Act, the deceased is deemed to have received the amount of the benefit of the RRSPs immediately before his death. Accordingly, the deceased’s estate is liable for any tax owing on the RRSPs benefit.
+[11] The appellant states that the deceased’s estate has the primary liability for any taxes owed in respect of the RRSPs and that section 160.2 of the Act only applies if the deceased’s estate does not have sufficient assets to pay the liability arising out of the RRSPs. As the deceased’s estate had sufficient assets to pay the tax owing on the RRSPs, CRA was not entitled to assess the appellant for the tax owing.
+[12] In the alternative, the appellant states that CRA did not properly calculate the amount received by the appellant under the RRSPs for the purposes of section 160.2 of the Act. The appellant states that she only received the amount of $139,050.83 under the RRSPs and that Bruno, as personal representative of Siegfried Starzyk, received $135,000 of the RRSPs benefit for the purpose of handling the financial obligations of the deceased’s estate, including the payment of any tax liabilities arising from the RRSPs or otherwise.
+[13] During the hearing, the appellant further states that she was misled by the information provided on the CRA’s website to the effect that the representative of an estate is the person who is responsible for the filing of the tax return of a deceased person and for the payment of the amount of tax owed by the deceased. The appellant states that she made out the cheque to the order of Bruno for an amount of $135,000, which represented approximately half of the RRSPs benefit, on the assumption that he would be the legal representative of the estate and would have to pay the amount of taxes arising out of the RRSPs.
+Position of the Respondent [14] The respondent submits that the appellant is jointly and severally liable to pay the tax liability of Siegfried Starzyk resulting from the deemed disposition of the RRSPs.
+[15] There is no requirement under the Income Tax Act that the Minister assess an estate administrator or any other party prior to or rather than assessing a taxpayer whose circumstances fall within section 160.2 and particularly subsection 160.2(1) of the Income Tax Act.
+[16] There is no requirement under the Income Tax Act that an estate have insufficient assets to pay the tax liability arising out of the deemed disposition of RRSPs in order to allow for the assessment of a taxpayer whose circumstances fall within section 160.2 and particularly subsection 160.2(1) of the Income Tax Act.
+The relevant provisions of the Act [17] Subsection 146(8.8) of the Act provides that where the annuitant under a registered retirement savings plan dies before the maturity of the plan, the annuitant is deemed to have received immediately before his death, an amount, as a benefit out of or under a registered retirement savings plan, equal to the fair market value of all the property of the plan at the time of death. Subsection 146(8.8) reads as follows:
+Effect of death where person other than spouse becomes entitled
+146 (8.8) Where the annuitant under a registered retirement savings plan (other than a plan that had matured before June 30, 1978) dies after June 29, 1978, the annuitant shall be deemed to have received, immediately before the annuitant’s death, an amount as a benefit out of or under a registered retirement savings plan equal to the amount, if any, by which
+(a) the fair market value of all the property of the plan at the time of death
+exceeds
+(b) where the annuitant died after the maturity of the plan, the fair market value at the time of the death of the portion of the property described in paragraph 146(8.8)(a) that, as a consequence of the death, becomes receivable by a person who was the annuitant’s spouse or common-law partner immediately before the death, or would become so receivable should that person survive throughout all guaranteed terms contained in the plan.
+[18] The legal obligations imposed under the Act to a legal representative of a deceased person are described in subsections 159(1) and (2) of the Act which read as follows:
+Person acting for another
+159(1) For the purposes of this act, where a person is a legal representative of a taxpayer at any time,
+(a) the legal representative is jointly and severally, or solidarily, liable with the taxpayer
+(i) to pay each amount payable under this Act by the taxpayer at or before that time and that remains unpaid, to the extent that the legal representative is at that time in possession or control, in the capacity of legal representative of property that belongs or belonged to, or that is or was held for the benefit of, the taxpayer or the taxpayer’s estate, and
+(ii) to perform any obligation or duty imposed under this Act on the taxpayer at or before that time and that remains outstanding, to the extent that the obligation or duty can reasonably be considered to relate to the responsibilities of the legal representative acting in that capacity; and
+(b) any action or proceeding in respect of the taxpayer taken under this Act at or after that time by the Minister may be so taken in the name of the legal representative acting in that capacity and, when so taken, has the same effect as if it had been taken directly against the taxpayer and, if the taxpayer no longer exists, as if the taxpayer continued to exist.
+Certificate before distribution
+(2) Every legal representative (other than a trustee in bankruptcy) of a taxpayer shall, before distributing to one or more persons any property in the possession or control of the legal representative acting in that capacity, obtain a certificate from the Minister, by applying for one in prescribed form, certifying that all amounts
+(a) for which the taxpayer is or can reasonably be expected to become liable under this Act at or before the time the distribution is made, and
+(b) for the payment of which the legal representative is or can reasonably be expected to become liable in that capacity
+Have been paid or that security for the payment thereof has been accepted by the Minister.
+[19] Subsection 160.2(1) of the Act provides that where an annuitant dies, the recipient of a tax-free amount out of or under a RRSP is jointly and severally liable with the deceased annuitant for the deceased’s additional tax payable that arose because the amount was included in the deceased’s income under subsection 146(8.8). Subsection 160.2(1) reads as follows:
+Joint and several liability in respect of amounts received out of or under RRSP
+160.2(1) Where
+(a) an amount is received out of or under a registered retirement savings plan by a taxpayer other than an annuitant (within the meaning assigned by subsection 146(1)) under the plan, and
+(b) that amount or part thereof would, but for paragraph (a) of the definition “benefit” in subsection 146(1), be received by the taxpayer as a benefit (within the meaning assigned by that definition),
+the taxpayer and the last annuitant under the plan are jointly and severally, or solidarily, liable to pay a part of the annuitant’s tax under this Part for the year of the annuitant’s death equal to that proportion of the amount by which the annuitant’s tax for the year is greater than it would have been if it were not for the operation of subsection 146(8.8) that the total of all amounts each of which is an amount determined under paragraph (b) in respect of the taxpayer is of the amount included in computing the annuitant’s income because of that subsection, but nothing in this subsection limits the liability of the annuitant under any other provision of this Act or of the taxpayer for the interest that the taxpayer is liable to pay under this Act on an assessment in respect of the amount that the taxpayer is liable to pay because of this subsection.
+Analysis [20] Based on the facts of the case and on the documentary evidence submitted to me, I come to the conclusion that the appellant is liable for the tax assessed against her.
+[21] By virtue of subsection 146(8.8) of the Act, Siegfried Starzyk was deemed to have received, immediately before his death, as a benefit under his RRSPs, an amount equal to the fair market value of all the property of the plans, which amounted to $273,770.
+[22] The legal representative of the estate filed on November 6, 2008 a tax return for the deceased for the year of his death.
+[23] The tax return filed on behalf of the deceased was assessed on December 22, 2008 and all the tax payable was attributable to the income from the RRSPs. On March 18, 2009, a payment of $38,980.97 has been made on account of the deceased’s tax liability at the direction of the legal representative of the estate. That payment effectively reduced the tax liability of the appellant.
+[24] The liability of the appellant was engaged because she was the sole beneficiary of the RRSPs of the deceased. As such, the appellant received the funds of the RRSPs directly from the trustee of the plans without any deduction at source. Because the appellant has received a benefit from the deceased’s RRSPs she became jointly and severally liable with the deceased to pay the deceased’s tax for the year of his death. Subsection 160.2(1) of the Act was applicable in the circumstances and all of the conditions for an assessment under subsection 160.2(1) have been satisfied in that Siegfried Starzyk had a tax liability arising out as a result of the collapse of his RRSPs and in that the appellant was the sole beneficiary of his RRSP funds.
+[25] The amount of $75,902.51 was originally assessed against the appellant and was reduced to $57,704.24 by virtue of the reassessment dated March 18, 2014.
+[26] As written, subsection 160.2(1) does not impose any obligation on the Minister to attempt to collect an amount from the estate or from the legal representative of the estate before issuing an assessment. The purpose of subsection 160.2(1) is to effect collection of the tax owed by the deceased that is associated with the collapse of his RRSPs. In this particular case, the CRA had reasons to believe that the estate did not have enough money to pay the total amount of the tax owed by the deceased.
+[27] The $135,000 cheque remitted to Bruno in his personal capacity, approximately eight months before he was appointed as the legal representative of the estate, cannot be considered in any way as a payment of tax as the Act specifically requires that payments of any tax amounts owing be paid directly to the Receiver General.
+[28] Concerning the appellant’s allegation that she was misguided by the information provided on the CRA’s website, I would simply reiterate that such information is of a general nature only and should not be relied upon by taxpayers. Before writing a $135,000 cheque to her brother, the appellant should have sought professional advice to obtain confirmation that the issuance of the cheque was appropriate in the circumstances.
+[29] For all the above reasons, the appeal is dismissed with costs.
+Signed at Montreal, Canada this 8th day of July 2016.
+“Réal Favreau”
+Favreau J.
+CITATION:
+2016 TCC 169
+COURT FILE NO.:
+2014-2407(IT)G
+STYLE OF CAUSE:
+SYLVIA O’CALLAGHAN AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Regina, Saskatchewan
+DATE OF HEARING:
+June 20, 2016
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Réal Favreau
+DATE OF JUDGMENT:
+July 8, 2016
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Melissa Danish
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

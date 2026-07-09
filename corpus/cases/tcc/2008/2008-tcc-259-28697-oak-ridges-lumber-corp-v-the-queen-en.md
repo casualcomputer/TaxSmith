@@ -1,0 +1,157 @@
+---
+title: "Oak Ridges Lumber Corp. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28697/index.do"
+last_modified: "2008-05-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 259"
+citation2: ""
+neutral_citation: "2008 TCC 259"
+decision_date: "2008-05-08"
+language: "en"
+item_id: "28697"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1487
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:14:49.763000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "64b2e76b800849f752dbaa507008874e7f62907806e2b9e5a8137df0c611ed46"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Oak Ridges Lumber Corp. v. The Queen
+
+- Citation: 2008 TCC 259
+- Decision date: 2008-05-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1487, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Oak Ridges Lumber Corp. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-05-08
+Neutral citation
+2008 TCC 259
+File numbers
+2006-3931(GST)I
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2006-3931(GST)I
+BETWEEN:
+OAK RIDGES LUMBER CORP.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 23 and 24, 2008 at Toronto, Ontario.
+Before: The Honourable D.G.H. Bowman, Chief Justice
+Appearances:
+Agent for the Appellant:
+John Sbrolla
+Counsel for the Respondent:
+Sharon Lee
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under Part IX of the Excise Tax Act, notice of which is dated October 6, 2006, for the period from February 1, 1998 to September 30, 1998, is dismissed.
+Signed at Toronto, Ontario, this 8th day of May 2008.
+“D.G.H. Bowman”
+Bowman, C.J.
+Citation: 2008TCC259
+Date: 20080508
+Docket: 2006-3931(GST)I
+BETWEEN:
+OAK RIDGES LUMBER CORP.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowman, C.J.
+[1] This appeal is from a reassessment made under the Goods and Services Tax (“GST”) provisions of the Excise Tax Act (“ETA”) for the period from February 1, 1998 to September 30, 1998.
+[2] The reassessment was complex and it involved the assessment of GST on alleged unreported revenues of $546,959, a denial of input tax credits (“ITCs”) and the imposition of penalties. None of these matters is in issue except for the denial of ITCs in respect of payments that the appellant made to a company called Vacation Properties Development Corporation (“VPDC”).
+[3] The issue boils down to a very narrow one: did the appellant include GST on payments that it made to VPDC or did it not? If it did, the Crown agrees that it is entitled to ITCs to the extent that the payments it made to VPDC contained GST.
+[4] The situation is a little more complex than the above statement of the issue would indicate. The president and sole shareholder of the appellant is John Sbrolla. Mr. Sbrolla was a seafood wholesaler. He was persuaded to get involved in a lumber retailing enterprise by the appellant’s wife’s uncle, Paul Taylor (since deceased). The stated purpose of the enterprise was to sell hardwood flooring to Hong Kong. To this end Taylor formed Bancroft Lumber and Wood Floor Products Limited (“Bancroft”).
+[5] Bancroft was financed in part by VPDC, a company owned by May Seto, wife of David Seto. May Seto is the daughter of a wealthy Hong Kong family. David Seto has since absconded leaving his wife and children. A number of people including Mr. Sbrolla were charged with fraud and money laundering and convicted. Mr. Sbrolla’s role, so far as I can see was relatively minor, although of this I cannot be certain. Mr. Seto was apparently the driving force. Mr. Sbrolla got only $32,000 out of what seems to be a multi million dollar scheme involving defrauding US sellers of hardwood, kiting[1] cheques and money laundering. Mr. Sbrolla received a very light sentence.
+[6] None of this is particularly germane to the issue in this appeal but it is important to show the background against which the payments to VPDC were made by the appellant. The appellant bought lumber from Bancroft and apparently paid GST on it and claimed ITCs which were allowed.
+[7] VPDC had advanced money to Bancroft and had a lien on its property. Canadian Maple Hardwood Flooring was engaged in litigation with Bancroft and was in the process of petitioning it into bankruptcy. Mr. Sbrolla testified that Paul Taylor told him to make payments to VPDC in respect of lumber Bancroft sold to the appellant. It did so over about two to three months (May, June and July, 1998).
+[8] It seems it did not claim ITCs on all payments it made to VPDC. I have encountered varying calculations of the amounts paid by the appellant to VPDC but it seems to be in the neighbourhood of $360,000 to $380,000. Some of the payments were made in U.S. funds.
+[9] I revert then to the central question: did the payments to VPDC include GST? The letter from Mr. Plummer, the appeals assessor state “Input tax credits will not be allowed on payments to Vacation Properties. There is insufficient evidence to show that GST was paid on these payments”. Subsection 169(4) of the ETA provides:
+(4) Required documentation – A registrant may not claim an input tax credit for a reporting period unless, before filing the return in which the credit is claimed,
+(a) the registrant has obtained sufficient evidence in such form containing such information as will enable the amount of the input tax credit to be determined, including any such information as may be prescribed; and
+[10] The Input Tax Credit Information (GST/HST) Regulations provides supporting documentations and this includes:
+“supporting documentation” means the form in which information prescribed by section 3 is contained, and includes
+(a) an invoice,
+(b) a receipt,
+(c) a credit-card receipt,
+(d) a debit note,
+(e) a book or ledger of account,
+(f) a written contract or agreement,
+(g) any record contained in a computerized or electronic retrieval or data storage system, and
+(h) any other document validly issued or signed by a registrant in respect of a supply made by the registrant in respect of which there is tax paid or payable;
+[11] I think it is fair to say that none of these types of documents has been produced, either to the Canada Revenue Agency or to the Court. The requirement for documentation is not unreasonable nor indeed is it particularly onerous. It is, in any event, a requirement under the ETA. In Helsi Construction Management Inc. v. R., [2001] G.S.T.C. 39 the following was said:
+The main reasons for the disallowance was that the suppliers’ GST numbers were not shown on the invoices. This is a requirement under section 3 of the Input Tax Credit Information Regulations. While there may be some justification in certain cases for treating technical or mechanical requirements as directory rather than mandatory (for example see Senger-Hammond v. R. (1996), [1997] 1 C.T.C. 2728 (T.C.C.)) that is not so in the case of the GST provisions of the Excise Tax Act.
+[12] Quite apart from the absence of documentation I am not satisfied that GST was ever included in the payments to VPDC. Even if I accept the story that Paul Douglas told Mr. Sbrolla to make the payments to VPDC that would otherwise go to Bancroft (and there is no written confirmation of this), I have seen no invoices from Bancroft corresponding to any of the payments made to VPDC. Moreover, included among the payments in May and June to VPDC are payments to Bancroft. This is inconsistent with the theory that they were trying to bypass Bancroft to avoid the lawsuit by Canadian Maple Hardwood Flooring.
+[13] Moreover it is unclear to me just how much the appellant is claiming by way of ITCs in respect of the payments to VPDC. The amounts paid to VPDC in respect of which ITCs are claimed seem to vary within a range of indeterminate magnitude — perhaps somewhere between $192,000 and $483,000. Also, no ITCs were claimed by the appellant on a large number of payments to VPDC.
+[14] There are a number of cheque stubs relating to the payments to VPDC. On the stubs is written the amount of the cheque in Mr. Sbrolla’s handwriting and in different handwriting (that of the bookkeeper) is written “GST amount”. This was done at a different time. It is merely a calculation using the fraction 7/107 of the amount of the cheque. It does not prove that GST was paid on the amounts paid to VPDC.
+[15] Taking everything into account, I do not think it has been established on a balance of probabilities that the payments to VPDC included GST.
+[16] The appeal is dismissed.
+Signed at Toronto, Ontario, this 8th day of May 2008.
+“D.G.H. Bowman”
+Bowman, C.J.
+CITATION:
+2008TCC259
+COURT FILE NUMBER:
+2006-3931(GST)I
+STYLE OF CAUSE:
+Oak Ridges Lumber Corp.
+v. Her Majesty The Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATES OF HEARING:
+April 23 and 24, 2008
+REASONS FOR ORDER BY:
+The Honourable D.G.H. Bowman, Chief Justice
+DATE OF JUDGMENT AND REASONS FOR JUDGMENT:
+May 8, 2008
+APPEARANCES:
+Agent for the Appellant:
+John Sbrolla
+Counsel for the Respondent:
+Sharon Lee
+COUNSEL OF RECORD:
+Agent for the Appellant
+Name:
+Firm:
+John Sbrolla
+Oak Ridges Lumber Corp.
+26 Closs Square
+Aurora, ON L4G 5H4
+Counsel for the Respondent
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+[1] In case anyone wonders what “cheque kiting” is there is a succinct description of it in a decision of the Privy Council in Corporation Agencies, Limited v. Home Bank of Canada, [1927] A.C. 318 at page 320 to 321:
+There is a device known in Canada as “kiting,” which is described as follows: “Kiting is a term used with regard to obtaining money by cheques passed through banks without value being deposited against the cheque — that is, kiting is an effort to obtain the use of money during the process of a cheque passing through one bank or through a clearing house to another, and perhaps through many more.” To this Bowler, who was a witness for the defendant bank, adds that kiting is a means of getting credit for the time it takes to clear a cheque from one bank to another bank. Cheques are passed from one bank account to another, and credit is obtained at the bank into which they are paid, for which they are debited at the bank on which they are drawn.

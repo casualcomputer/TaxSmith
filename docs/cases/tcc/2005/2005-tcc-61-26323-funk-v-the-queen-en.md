@@ -1,0 +1,136 @@
+---
+title: "Funk v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26323/index.do"
+last_modified: "2005-01-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 61"
+citation2: ""
+neutral_citation: "2005 TCC 61"
+decision_date: "2005-01-17"
+language: "en"
+item_id: "26323"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3270
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:08:50.118000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fd82638451af363c163d292a21b1f3e8b64c11a7759a1c4057f6bcf6360e3927"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Funk v. The Queen
+
+- Citation: 2005 TCC 61
+- Decision date: 2005-01-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3270, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Funk v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-01-17
+Neutral citation
+2005 TCC 61
+File numbers
+2003-3934(IT)I
+Judges and Taxing Officers
+Joe E. Hershfield
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-3934(IT)I
+BETWEEN:
+TANIA MONICA FUNK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on December 15, 2004 at Winnipeg, Manitoba
+Before: The Honourable Justice J.E. Hershfield
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Perry Derksen
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 1999 taxation year is allowed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 17th day of January 2005.
+"J.E. Hershfield"
+Hershfield J.
+Citation: 2005TCC61
+Date: 20050117
+Docket: 2003-3934(IT)I
+BETWEEN:
+TANIA MONICA FUNK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Hershfield J.
+[1] This is an appeal from an assessment of the Appellant's 1999 taxation year that was confirmed on the basis that the Appellant was an employee of her former husband's construction company (the Company) in which she had a 49% shareholder interest and on the basis that as an employee of the Company she had earned $30,000.00 employment income for the year. The Appellant denies being an employee of the Company and receiving $30,000.00 in the year.
+[2] For a number of years before the subject year the Appellant was being "booked" as having income from the Company. The determination of that income was made without her input by the Company's accountant. The accountant determined her income based on reconciling, on a family basis, the shareholders' loan account to ensure a zero balance at the end of each year. As between the Appellant and her husband she was allotted income on a tax effective basis.
+[3] In the year in question, Company funds had been applied to the personal benefit of the Appellant and her husband but, using the family basis for reconciling the loan account, no attempt was made to allocate benefits to one shareholder or the other based on actual benefits received. If the net family benefit loan account balance was $100,000.00 she would be allotted income of $30,000.00 to take advantage of low rates of tax on the first bracket of income. The accountant testified at the trial that that was how her income for 1999 was determined in April 2000. He testified that he did not remember ever talking to the Appellant about this tax effective regime. Indeed his testimony tended to confirm that he not only never talked to her about her allotted income in 1999 but that he never talked to her about it in any other year. Her tax returns were filed by his firm electronically so she did not sign returns represented as hers. There was no evidence at the hearing that she had signed authorizations for the filing of her returns. A reporting letter went out to each of the Appellant and her husband in April 2000 setting out their reported income for 1999 but both such letters were sent in a single envelope. That is, the evidence is that no reporting letter was ever sent to the Appellant in a separate envelope addressed to her.
+[4] The Appellant and her husband separated on January 1, 2000 and the Appellant was faced with a tax liability based on the income declared on her return. To add to the Appellant's plight, the Company went into bankruptcy so I am led to believe that she is left with no recourse against the Company and with an ex-husband who has left her and her children struggling financially.
+[5] The events that are material to this appeal do not stop there. In 2000 there were proceedings before the Court of Queen's Bench of Manitoba (Family Division). Counsel for the Respondent confronted the Appellant with two affidavits that she had signed in the course of those proceedings in April 2000. He did this after she had testified that she only received some $1,000.00 from the Company in 1999 and that she performed no services and held no office. However, the affidavits made in April of 2000 together acknowledged that she received a wage of $24,000.00 "on paper" from the Company (presumably for 1998) for services she provided as a secretary and that the Company had paid for her automobile payments, fuel and insurance and for other household expenses such as dog food and a garden tractor. On cross-examination by Respondent's counsel the Appellant admitted to doing small tasks for the Company such as signing the occasional cheque and answering the home office telephone but she insisted she did not know of her being paid as an employee until the litigation in family court all started. She said her lawyer on the domestic matter received copies of her tax returns and Company financial information in 2000 and that was the first she learned of the income allotted to her in a prior year. That is, it was only after her separation that she became aware of the income allotted to her for 1998 in the amount of $24,000.00. This was not an acknowledgement of $30,000.00 allotted for 1999. This is supported by the affidavits themselves which acknowledge a $24,000.00 wage, not a $30,000.00 wage, and by the fact that the allotment for 1999 was made by the accountant without her input or her lawyer's knowledge at or about the same time, or after, she signed the affidavits.
+[6] It is also important to note, however, that, on cross-examination, when confronted with her own bank statements, the Appellant acknowledged that her receipts from the Company in 1999 were $9,350.00, not the $1,000.00 she first testified to. She admitted these monies were deposited to her account by the Company for household expenses. While being caught up in this way, the Appellant did not strike me as dishonest in the sense that she was trying to lie to the Court. Her testimony and attitude were that of a person desperately needing to find justice in a situation that had taken advantage of her naïvety. She had been subjected by persons and circumstances to regimes she likely had no control over. I accept as well that she likely never addressed her mind to and therefore likely never understood the legal affect and subtleties of these tax driven events.
+[7] Still, I could not be faulted for finding, by virtue of her less than candid evidence, that the Appellant knew more than she was admitting. However, I need not go that far. Her affidavits admit to performing services for compensation which is to say she was employed by the Company regardless of her limited understanding of the arrangement and lack of control over it. She understood that well enough to sign an affidavit to that effect in 2000 when realities were uncluttered by the tax bill currently facing her. She not only admitted to being an employee but she acknowledged benefiting from arrangements made on her behalf in respect of services performed regardless how minimal those services may have been. Her ignorance of the consequences of that is not relevant. She knew she had provided some services to the Company. Her naïve, trusting acquiescence to letting her husband and the Company's accountant dictate her commercial relationship with the Company creates a bar to her now denying liability for the consequences of acts done by them on her behalf. That, together with an assumption in the Reply that she was employed by the Company in 1999, is sufficient for me to find that she has not met her burden to disprove that assumption.
+[8] Regardless of such finding, I do not find her bound to report the $30,000.00 allotted her in April 2000. At best the evidence supports her acquiescence to a salary of $24,000.00 for the year. Can it reasonably be found that she acquiesced to a raise in April 2000 for the prior year when she was by then already in court fighting her estranged husband with no hope of getting anything out of such raise except a tax bill? Further and more importantly, employees are only taxed on receipts in the year. Declared or acknowledged salary entitlements are not relevant and in this case the evidence does not support even $24,000.00 of receipts in 1999 in my view.
+[9] The $30,000.00 amount, although assumed in the Reply to be compensation received in 1999, is nothing more than a number the accountant entered on the books after the end of the year. The Appellant's affidavit, relied on heavily by the Respondent, admitted only wages "on paper" in respect of the 1998 year. That underlines that in general terms the tax-planning regime being employed by the Company was acknowledged by the Appellant in 2000 as only having "on paper" results. It was a denial of "receipts" even before the current tax issue was known to the Appellant or her family law lawyer. Further, the accountant, testifying for the Respondent, acknowledged that these were in fact "paper" entries not based at all on individual receipts. The $30,000.00 was an artificial number picked to reconcile a shareholders' loan account maintained on a family basis. While the burden of proof rests with the Appellant in these matters, it is clear that she has satisfied that burden to the extent necessary to be free of the only related assumption relied on by the Minister which was a salary receipt of $30,000.00. This opens the door to my valuing certain benefits received. The assumptions direct me to regard such benefits as benefits from employment as opposed to benefits qua shareholder.
+[10] So what amount was received in the year? The allocation of benefits in the shareholders' loan account being done on a family basis makes it impossible to determine with any exactness the amount paid to or for the benefit of the Appellant in the year. A company can make payments for any number of things in a family situation that cannot readily be determined, where there is no express agreement, to be for one or another's benefit. The higher income earner in many cases takes responsibility for such things as household expenses and mortgage payments on the family residence. If that is the husband/father, why not attribute or impute benefits to him when company payments benefit the family? In any event, I will impute no receipt to the Appellant in a case like this for housing, entertainment, food and household expenses except to the extent that there is evidence of a receipt by the Appellant of funds over which she had control.
+[11] On this basis there are only two categories of receipts that the Appellant is obliged to recognize as income receipts in 1999: cash receipts of $9,350.00 (even though for household expenses, she had control over the use of such funds); and, car payments and expenses for the Appellant's personal use vehicle. I have no evidence of the actual payments by the Company or of the value of the benefit relating to the personal use vehicle which was a new or relatively new SUV or other similar vehicle but there is a benefit-in-kind the value of which is properly included in income for the year. In the circumstances of this case I am encouraged to give the Appellant the benefit of any doubt on the value of this benefit. On that basis, recognizing some approximations in the process employed by me, I would value the personal use vehicle benefit at $6,000.00. This brings gross employment receipts in the year to $15,350.00.
+[12] Accordingly the appeal is allowed, without costs, on the basis that the Appellant's employment income received in the 1999 taxation year was $15,350.00.
+Signed at Ottawa, Canada, this 17th day of January 2005.
+"J.E. Hershfield"
+Hershfield J.
+CITATION:
+2005TCC61
+COURT FILE NO.:
+2003-3934(IT)I
+STYLE OF CAUSE:
+Tania Monica Funk and
+Her Majesty the Queen
+PLACE OF HEARING:
+Winnipeg, Manitoba
+DATE OF HEARING:
+December 15, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice J.E. Hershfield
+DATE OF JUDGMENT:
+January 17, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Perry Derksen
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

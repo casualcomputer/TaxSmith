@@ -1,0 +1,355 @@
+---
+title: "Banque Toronto-Dominion c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29235/index.do"
+last_modified: "2008-09-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 264"
+citation2: ""
+neutral_citation: "2009 CCI 264"
+decision_date: "2008-09-18"
+language: "fr"
+item_id: "29235"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7036
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:22:59.590000+00:00"
+cases_cited_count: 3
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "bea6912226eac3d5e5e99641b7c5dc4bafe5426790652a89dc1cb7476921142a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Banque Toronto-Dominion c. La Reine
+
+- Citation: 2009 CCI 264
+- Decision date: 2008-09-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7036, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Banque Toronto-Dominion c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-09-18
+Référence neutre
+2009 CCI 264
+Numéro de dossier
+2006-1702(GST)G
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2006-1702(GST)G
+ENTRE :
+LA BANQUE TORONTO‑DOMINION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 18 septembre 2008, à Toronto (Ontario).
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Avocats de l’appelante :
+Me Martha K. MacDonald
+Me D’Arcy Schieman
+Avocats de l’intimée :
+Me Marilyn Vardy
+Me Laurent Bartleman
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en application de la Loi sur la taxe d’accise, dont l’avis est daté du 30 janvier 2004 et porte le numéro 05EP0201284, est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 22e jour de mai 2009.
+« V. A. Miller »
+Juge V. A. Miller
+Traduction certifiée conforme
+ce 24e jour de juillet 2009.
+Mario Lagacé, jurilinguiste
+Référence : 2009CCI264
+Date : 20090522
+Dossier : 2006-1702(GST)G
+ENTRE :
+LA BANQUE TORONTO‑DOMINION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge V. A. Miller
+[1] Il s’agit d’un appel d’une cotisation établie en application de la Loi sur la taxe d’accise (la « Loi ») pour la période allant du 1er novembre 1998 au 31 octobre 1999. L’appelante a fait l’objet d’une cotisation, compte tenu du fait qu’elle avait demandé des CTI pour la période de déclaration de 1996 (les « CTI de 1996 ») dans sa déclaration de 1999 (la « déclaration de 1999 ») relative à la taxe sur les produits et services (la « TPS ») et que ces CTI étaient frappés de prescription. L’appelante s’est également vu imposer une pénalité en application de l’article 280 de la Loi.
+[2] Les parties ont soumis un exposé conjoint partiel des faits, qui est libellé comme suit :
+[traduction]
+EXPOSÉ CONJOINT DES FAITS (PARTIEL)
+Les parties à la présente instance admettent, pour les besoins de la présente instance seulement, l’exactitude des faits suivants :
+1. L’exercice de l’appelante aux fins de la taxe sur les produits et services (la « TPS ») va du 1er novembre au 31 octobre.
+2. Le montant de la TPS payée ou payable par l’appelante à des tiers fournisseurs était le suivant :
+a. environ 56 millions de dollars pour la période allant du 1er novembre 1995 au 31 octobre 1996 (la « période de 1996 »);
+b. environ 62 millions de dollars pour la période allant du 1er novembre 1996 au 31 octobre 1997 (la « période de 1997 »);
+c. environ 73 millions de dollars pour la période allant du 1er novembre 1997 au 31 octobre 1998 (la « période de 1998 »);
+d. environ 76 millions de dollars pour la période allant du 1er novembre 1998 au 31 octobre 1999 (la « période de 1999 »).
+3. Pour la période de 1998, l’appelante a produit sa déclaration relative à la TPS le 29 janvier 1999 (la « déclaration de 1998 »), dont une copie est incluse à l’onglet 19 du recueil conjoint de documents. Dans sa déclaration de 1998, l’appelante a demandé des crédits de taxe sur les intrants (les « CTI ») de 13 149 666 $ à titre de déduction dans le calcul de la taxe nette.
+4. Lors de la production de sa déclaration de 1998, l’appelante avait obtenu des factures indiquant les montants de la TPS payés ou payables pour des fournitures achetées dans le cadre de ses activités commerciales pour les périodes 1996, 1997 et 1998.
+5. L’appelante a retenu les services de KPMG pour examiner les montants de la TPS payés ou payables par l’appelante pour certaines fournitures au cours de ses périodes de 1996, 1997 et 1998 et pour préparer les calculs des montants de CTI auxquels elle avait droit à l’égard de ces fournitures. Avant de produire sa déclaration de 1998, l’appelante avait à sa disposition des sommaires, dans les tableaux préliminaires de KPMG datés du 25 janvier 1999 versés à l’onglet 23 du recueil conjoint de documents, et elle se fondait sur ces sommaires (les « tableaux préliminaires de KPMG »).
+6. L’appelante a demandé en tout un montant de 2 313 867 $ dans sa déclaration de 1998 à l’égard des fournitures examinées par KPMG. Selon les tableaux préliminaires de KPMG, sur le total de 2 313 867 $, un montant de 624 666 $ se rapportait à des fournitures achetées au cours de la période de 1996, un montant de 916 943 $ se rapportait à des fournitures achetées au cours de la période de 1997 et un montant de 772 253 $ se rapportait à des fournitures achetées au cours de la période de 1998.
+7. Pour la période de déclaration de 1999, l’appelante a produit sa déclaration relative à la TPS le 31 janvier 2000 (la « déclaration de 1999 »), dont une copie est incluse à l’onglet 1 du recueil conjoint de documents. Dans sa déclaration de 1999, l’appelante a demandé des CTI de 18 722 166 $ à titre de déduction dans le calcul de la taxe nette.
+8. Lors de la production de sa déclaration de 1999, l’appelante avait obtenu des factures indiquant les montants de la TPS payés ou payables pour des fournitures achetées dans le cadre de ses activités commerciales pour les périodes de 1996, 1997, 1998 et 1999.
+9. Avant de produire sa déclaration de 1999, l’appelante avait à sa disposition des sommaires, dans les tableaux finaux de KPMG datés du mois d’août 1999 versés aux onglets 4 à 12 du recueil conjoint de documents, et elle se fondait sur ces sommaires (les « tableaux finaux de KPMG »).
+10. Le ministre a établi une cotisation à l’égard de la déclaration de 1999 de l’appelante au moyen d’un avis de (nouvelle) cotisation daté du 30 janvier 2004 (la « cotisation de 1999 »), dont une copie est jointe à l’onglet 13 du recueil conjoint de documents.
+11. Le ministre a ratifié la cotisation de 1999 au moyen d’un avis de décision daté du 13 mars 2006, dont une copie est jointe à l’onglet 18 du recueil conjoint de documents.
+L’appelante et l’intimée conviennent que le présent exposé conjoint des faits (partiel) n’empêche ni l’une ni l’autre partie de présenter une preuve en vue de compléter les faits dont il est ici convenu, à condition que cette preuve ne contredise pas les faits convenus.
+[3] La seule personne qui a témoigné à l’audience était Teresa Ma, qui est cadre supérieur, Taxe à la consommation, auprès de l’appelante.
+[4] L’appelante est une grande institution financière diversifiée qui exploite son entreprise au Canada. Il s’agit d’une « institution financière désignée » telle que cette expression est définie au paragraphe 123(1) de la Loi. Sa période de déclaration annuelle de la TPS commence le 1er novembre de chaque année civile. La date limite de production de la déclaration relative à la TPS de l’appelante pour chaque année est le 31 janvier de l’année suivante.
+[5] Les parties n’ont pas contesté que l’appelante est une « personne déterminée » telle que cette expression est définie au paragraphe 225(4.1) de la Loi ou que l’appelante était assujettie à un délai de prescription de deux ans aux fins des demandes de CTI conformément au sous‑alinéa 225(4)a)(iii).
+[6] L’appelante a retenu les services de KPMG pour déterminer si elle avait mal calculé ou si elle avait omis de demander des montants additionnels au titre des CTI pour les périodes de déclaration de 1996, 1997 et 1998. KPMG a commencé son analyse au mois de novembre 1998. Cet examen était appelé l’examen de recouvrement KPMG SALT (l’« examen de recouvrement de KPMG »).
+[7] KPMG a soumis à l’appelante un rapport de situation le 25 janvier 1999. Je note que les questions suivantes étaient énumérées dans les résultats préliminaires du rapport :
+[traduction]
+· le recouvrement de la TPS à inclure dans la déclaration de 1998 relative à la TPS (veuillez vous référer au sommaire préliminaire ci‑joint)
+· l’effet des constatations préliminaires sur la cotisation relative à la TPS (à discuter)
+· TPS accumulée pour les CTI de 1996.
+[8] Le « tableau sommaire préliminaire » qui était joint au rapport de situation était libellé comme suit :
+[traduction]
+Tableau sommaire préliminaire
+Banque Toronto‑Dominion
+Résultats préliminaires au 29 janvier 1999
+Examen de recouvrement KPMG SALT
+Référence
+Description
+TVQ
+TPS/TVH
+Montant
+Tableau I
+Gestion de patrimoine
+144 332,74 $
+144 332,74 $
+Tableau II
+Gestion de patrimoine – Dow Jones
+3 691,48 $
+3 691,48 $
+Tableau III
+Matériel VISA
+1 223 018,73 $
+1 223 018,73 $
+Tableau IV
+Service des prêts spéciaux (Toronto)
+678 252,04 $
+678 252,04 $
+Tableau V
+Traitement centralisé des comptes créditeurs
+224 405,78 $
+224 405,78 $
+Tableau VI
+Logiciel capitalisé
+52 141,25 $
+52 141,25 $
+Tableau VII
+Réalisation des prêts – CGT
+678,50 $
+59 926,09 $
+60 604,59 $
+Tableau VIII
+Rajustement du taux stationnaire
+76 122,77 $
+76 122,77 $
+Total de la demande de remboursement
+148 702,72 $
+2 313 866,67 $
+2 462 569,39 $
+Recouvrement de TPS résumé par année :
+1996 604 820,67 $
+1997/98 1 709 046,00 $
+Total 2 313 866,67 $
+[9] Les CTI demandés par l’appelante dans sa déclaration de 1998 incluaient tous les CTI identifiés par KPMG jusqu’au 29 janvier 1999.
+[10] Afin de calculer les montants pour sa déclaration de 1998, l’appelante a préparé diverses pièces. La pièce II[1] était un document préparé par l’appelante lorsque la déclaration de 1998 a été produite et se rapportait aux CTI demandés dans cette déclaration. Cette pièce a été produite avec la déclaration de 1998[2]. Je désignerai ce document comme étant la « pièce II de 1998 ». Parmi les CTI énumérés sous la rubrique [traduction] « CTI, autres » dans la pièce II de 1998, il y avait les CTI suivants qui se rapportaient à [traduction] l’« examen de KPMG » :
+Terminaux Visa (points de vente) 1 223 019 $
+Service des prêts spéciaux (Toronto) 678 252 $
+Traitement centralisé des comptes créditeurs 224 406 $
+Logiciel capitalisé 52 141 $
+Réalisation des prêts CGT 59 926 $
+Rajustement du taux stationnaire TDAM Inc. 76 123 $
+Total 2 313 867 $
+[11] KPMG a terminé son examen du recouvrement au mois d’août 1999 et le total final des CTI recouvrés s’élevait à 6 913 750,31 $. Étant donné que l’appelante avait déjà demandé 2 313 866,66 $ à l’égard de ces CTI dans sa déclaration de 1998, elle a demandé la différence (4 599 883 $) dans sa déclaration de 1999, qui a été produite le 31 janvier 2000. L’appelante a encore une fois préparé et produit diverses pièces renfermant la répartition des montants indiqués dans sa déclaration de 1999. La pièce II[3] pour la déclaration de 1999 (la « pièce II de 1999 ») renfermait la répartition des CTI demandés dans cette déclaration. Dans cette pièce, des CTI s’élevant à 4 599 883 $ étaient désignés comme étant [traduction] « TPS de 1997 et recouvrement des CTI de 1998 de KPMG ».
+[12] La répartition des CTI recouvrés par KPMG et demandés dans la déclaration de 1999 était incluse dans les documents finaux de KPMG :
+[traduction]
+1996
+1997
+1998
+Total
+Banque TD
+1 275 751 $
+2 081 446 $
+3 556 553 $
+6 913 750 $
+Moins : montant accumulé dans la déclaration de 1998
+(1 275 751 $)
+(1 038 116 $)
+(2 313 867 $)
+Recouvrement net Banque TD à indiquer dans la déclaration de 1999 relative à la TPS
+1 043 330 $
+3 556 553 $
+4 599 883 $
+Total de la TPS
+Recouvrement à indiquer dans la déclaration de 1999 relative à la TPS à produire au plus tard le 31 janvier 2000
+4 599 883 $
+[13] L’Agence du revenu du Canada (l’« ARC ») a vérifié l’appelante pour ses périodes de déclaration de 1998 et 1999. Les vérifications n’ont pas été effectuées en même temps et elles n’ont pas été effectuées par les mêmes vérificateurs.
+[14] Un plan de vérification pour la période de déclaration de 1998 a été préparé par William Carroll et envoyé à l’appelante avec une lettre datée du 21 janvier 2002. Toutefois, la vérification ou, du moins, la dernière partie de la vérification a été effectuée par Robert Young, qui a rencontré Teresa Ma le 3 décembre 2002. Dans le plan de vérification initial, le vérificateur demandait à voir les documents de travail qui étayaient la demande de CTI selon l’examen de KPMG, comme il en est fait mention dans la pièce II de 1998. Lors de la rencontre avec Teresa Ma, Robert Young a été informé que les feuilles de travail de KPMG étaient assemblées dans dix relieurs.
+[15] Teresa Ma a témoigné avoir indiqué à Robert Young où il pouvait trouver les relieurs et que les relieurs contenaient toutes les feuilles de travail concernant l’examen de recouvrement de KPMG. Au cours du contre‑interrogatoire, Teresa Ma a estimé que chacun des dix relieurs renfermant les feuilles de travail de KPMG avait une épaisseur de quatre ou cinq pouces. Je crois comprendre, compte tenu du [traduction] « sommaire des CTI et rajustements » du vérificateur, dans lequel figuraient les chiffres indiqués dans la pièce II de 1998, que le vérificateur se référait uniquement aux résultats préliminaires de KPMG, c’est‑à‑dire qu’il semble s’être référé uniquement aux résultats qui avaient été préparés au moment où la déclaration de 1998 avait été produite.
+[16] Il aurait été utile d’entendre Robert Young et de savoir exactement comment il avait procédé à la vérification de la déclaration de 1998. Robert Young a achevé sa vérification à la fin du mois de janvier 2003. Il a effectué des rajustements de vérification n’ayant rien à voir avec la question qui est ici en litige. Il n’a pas effectué de rajustements de vérification à l’égard des CTI, s’élevant à 2 313 866,66 $, qui avaient été identifiés dans l’examen de recouvrement de KPMG et que l’appelante avait demandés dans sa déclaration de 1998.
+[17] La déclaration de 1998 est prescrite depuis le 31 janvier 2003.
+[18] Patricia Chong, vérificatrice de dossiers importants, a vérifié la déclaration de 1999 de l’appelante. Elle a refusé la demande de CTI de l’appelante s’élevant à 624 666 $, compte tenu du fait que ce montant était frappé de prescription, étant donné qu’il se rapportait à la période de 1996. Selon la réponse à l’avis d’appel, le montant qui aurait dû être refusé s’élevait à 651 085 $.
+[19] Des extraits du témoignage présenté par Patricia Chong lors de l’interrogatoire préalable ont été produits en preuve à l’audience. On a demandé à Mme Chong pourquoi les tableaux de l’examen de recouvrement de KPMG, qui étaient disponibles lorsque la déclaration de 1998 avait été préparée, étaient pertinents quant à la vérification de la déclaration de 1999. Mme Chong a répondu :
+[traduction]
+Afin de comprendre les crédits de taxe sur les intrants qui ont été demandés en 1999, la façon dont la banque a présenté les choses, dans les tableaux accompagnant leurs documents de travail, ils ont montré que les crédits de taxe sur les intrants qu’ils demandaient en 1999, ils découlaient – il y avait un tableau qui montrait les années auxquelles ils se rapportaient, de sorte qu’ils montraient les années 1996, 1997 et 1998. Ils indiquaient ensuite également que, sur ces montants, un montant de 2,3 millions de dollars en tout avait été demandé au cours de l’année 1998. Par conséquent, je devais déterminer si cela était vrai, de sorte qu’il fallait examiner ce qui avait été demandé exactement au cours de l’année 1998.
+La position de l’appelante
+[20] Selon la position prise par l’appelante, la demande de CTI qui était faite dans la déclaration de 1999 se rapportait uniquement à la TPS payée ou payable au cours de la période de 1997, de la période de 1998 et de la période de 1999. Lorsque la déclaration de 1999 a été produite, l’appelante avait obtenu des factures de tiers fournisseurs se rapportant aux montants de la TPS payés ou payables par l’appelante pour ces périodes.
+[21] En ce qui concerne la déclaration de 1998, l’avocate de l’appelante a déclaré que les CTI demandés se rapportaient à la TPS payée ou payable au cours de la période de 1996, de la période de 1997 et de la période de 1998. Lorsque la déclaration de 1998 a été produite, l’appelante avait obtenu des factures de tiers fournisseurs se rapportant aux montants de la TPS payés ou payables au cours de ces périodes.
+[22] Lorsqu’un inscrit produit une déclaration relative à la TPS, il doit uniquement indiquer le montant des CTI demandés, et non la source documentaire précise des CTI ou la période à laquelle se rapporte un CTI particulier. Étant donné que l’appelante avait obtenu toute la preuve documentaire à l’appui des CTI demandés dans sa déclaration de 1998 et dans sa déclaration de 1999 avant de produire ces déclarations, elle satisfaisait aux exigences du paragraphe 169(4) de la Loi et au Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants (TPS/TVH).
+[23] L’avocate de l’appelante a soutenu que [traduction] « le libellé de l’alinéa 169(4)a) de la LTA prévoit expressément un montant des crédits de taxe sur les intrants établi après qu’un crédit de taxe sur les intrants a été demandé ». L’avocate a affirmé qu’étant donné que le futur est employé dans la version anglaise de l’alinéa 169(4)a), l’inscrit n’a qu’à obtenir les renseignements nécessaires au moment où les CTI sont demandés; [traduction] « le paragraphe 169(4) ne prévoit pas qu’il faut "avoir établi le montant du crédit à ce moment‑là" ».
+[24] Enfin, l’appelante prend la position selon laquelle les mots que le législateur a choisis donnent à entendre qu’il cherchait plutôt à ce qu’un inscrit soit en mesure d’étayer une demande au moment de la vérification, et non à assurer la précision des demandes de l’inscrit dans un délai pertinent. Ni la Loi ni le Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants (TPS/TVH) n’exigent qu’une personne identifie, dans sa déclaration relative à la TPS, la période à laquelle se rapporte un CTI particulier qui est demandé.
+[25] Subsidiairement, l’avocate a soutenu que, s’il est conclu que les CTI s’élevant à 651 085 $ se rapportent à la période de déclaration 1996 et qu’ils sont frappés de prescription, étant donné qu’ils ont été demandés dans la déclaration de 1999, le paragraphe 296(2) s’applique. Cette disposition prévoit que le ministre du Revenu national (le « ministre ») doit accorder les CTI de 1996 en établissant la cotisation concernant la taxe nette dans la déclaration de 1998.
+La position de l’intimée
+[26] Lorsque l’appelante a produit sa déclaration de 1998, l’examen de recouvrement de KPMG avait permis de découvrir des CTI de 624 666 $ se rapportant à l’année de déclaration 1996. Seul ce montant de CTI se rapportant à la période de déclaration de 1996 était demandé dans la déclaration de 1998.
+[27] L’examen de recouvrement de KPMG a permis d’identifier les autres CTI (651 085 $) se rapportant à la période de déclaration de 1996 après la production de la déclaration de 1998. Ce montant a été demandé dans la déclaration de 1999 et il était frappé de prescription.
+[28] En ce qui concerne l’argument subsidiaire de l’appelante, l’avocate de l’intimée a déclaré que le paragraphe 296(2) aurait dû être invoqué pour la période de déclaration de 1998, et non pour la période de déclaration de 1999.
+[29] Dans la réponse, le ministre a émis des hypothèses à l’égard des faits se rapportant aux CTI de 1996 qui avaient été refusés et il a également supposé que le taux de recouvrement des CTI pour le service des prêts spéciaux, à Toronto, aurait dû être de 50 p. 100 plutôt que les 92 p. 100 que l’appelante avait utilisés dans son calcul des CTI pour les périodes de déclaration de 1996, de 1997 et de 1998. Selon la position prise par l’intimée, si les CTI demandés dans la déclaration de 1999 pour le service des prêts spéciaux, à Toronto, se rapportaient uniquement aux périodes de déclaration 1997 et 1998, le montant de 260 870 $ devrait être refusé.
+Analyse et décision
+[30] Les dispositions législatives pertinentes sont les suivantes :
+169. (1) Règle générale [Crédit de taxe sur les intrants] Sous réserve des autres dispositions de la présente partie, un crédit de taxe sur les intrants d’une personne, pour sa période de déclaration au cours de laquelle elle est un inscrit, relativement à un bien ou à un service qu’elle acquiert, importe ou transfère dans une province participante, correspond au résultat du calcul suivant si, au cours de cette période, la taxe relative à la fourniture, à l’importation ou au transfert devient payable par la personne ou est payée par elle sans qu’elle soit devenue payable :
+A × B
+où
+A représente la taxe relative à la fourniture, à l’importation ou au transfert, selon le cas, qui, au cours de la période de déclaration, devient payable par la personne ou est payée par elle sans qu’elle soit devenue payable;
+B :
+a) dans le cas où la taxe est réputée, par le paragraphe 202(4), avoir été payée relativement au bien le dernier jour d’une année d’imposition de la personne, le pourcentage que représente l’utilisation que la personne faisait du bien dans le cadre de ses activités commerciales au cours de cette année par rapport à l’utilisation totale qu’elle en faisait alors dans le cadre de ses activités commerciales et de ses entreprises;
+b) dans le cas où le bien ou le service est acquis, importé ou transféré dans la province, selon le cas, par la personne pour utilisation dans le cadre d’améliorations apportées à une de ses immobilisations, le pourcentage qui représente la mesure dans laquelle la personne utilisait l’immobilisation dans le cadre de ses activités commerciales immédiatement après sa dernière acquisition ou importation de tout ou partie de l’immobilisation;
+c) dans les autres cas, le pourcentage qui représente la mesure dans laquelle la personne a acquis ou importé le bien ou le service, ou l’a transféré dans la province, selon le cas, pour consommation, utilisation ou fourniture dans le cadre de ses activités commerciales.
+[...]
+(4) Documents – L’inscrit peut demander un crédit de taxe sur les intrants pour une période de déclaration si, avant de produire la déclaration à cette fin :
+a) il obtient les renseignements suffisants pour établir le montant du crédit, y compris les renseignements visés par règlement;
+b) dans le cas où le crédit se rapporte à un bien ou un service qui lui est fourni dans des circonstances où il est tenu d’indiquer la taxe payable relativement à la fourniture dans une déclaration présentée au ministre aux termes de la présente partie, il indique la taxe dans une déclaration produite aux termes de la présente partie.
+296. (2) Application d’un crédit non demandé – Le ministre, s’il constate les faits suivants relativement à un montant (appelé « crédit déductible » au présent paragraphe ) lors de l’établissement d’une cotisation concernant la taxe nette d’une personne pour une période de déclaration donnée de celle‑ci, prend en compte, sauf demande contraire de la personne, le crédit déductible dans l’établissement de la taxe nette pour cette période comme si la personne avait demandé le crédit déductible dans une déclaration produite pour cette période :
+a) le crédit déductible aurait été accordé à titre de crédit de taxe sur les intrants pour la période donnée ou à titre de déduction dans le calcul de la taxe nette pour cette période s’il avait été demandé dans une déclaration produite aux termes de la section V pour cette période à la date limite où la déclaration pour cette période était à produire et si les exigences en matière de documentation, énoncées au paragraphes 169(4) ou 234(1), qui s’appliquent au crédit avaient été remplies;
+b) le crédit déductible n’a pas été demandé par la personne dans une déclaration produite avant le jour où l’avis de cotisation lui est envoyé ou, s’il l’a été, a été refusé par le ministre;
+c) le crédit déductible serait accordé à titre de crédit de taxe sur les intrants ou de déduction dans le calcul de la taxe nette de la personne pour une de ses périodes de déclaration s’il était demandé dans une déclaration produite aux termes de la section V le jour où l’avis de cotisation est envoyé à la personne, ou serait refusé s’il était demandé dans cette déclaration du seul fait que le délai dans lequel il peut être demandé a expiré avant ce jour.
+[31] En accomplissant son travail, KPMG a analysé la disponibilité des CTI dans divers segments d’entreprise, qu’elle a identifiés dans les tableaux. Au 29 janvier 1999, KPMG avait terminé son analyse de six segments d’entreprise aux fins de la TPS. Lorsque KPMG a achevé son examen au mois d’août 1999, elle avait effectué une analyse de la TPS de dix‑sept segments d’entreprise et elle avait découvert des CTI qui pouvaient être recouvrés de ces segments d’entreprise.
+[32] La preuve présentée en l’espèce montrait que, lorsque l’appelante a produit sa déclaration de 1998, elle a demandé les CTI que KPMG avait découverts, s’élevant à 2 313 865 $. Un examen des tableaux préliminaires que KPMG avait préparés au 25 janvier 1999 et les [traduction] « feuilles de travail pour l’année 1999 de KPMG » montrent que des CTI s’élevant à 2 313 865 $ s’appliquaient aux années suivantes :
+1996
+1997
+1998
+TOTAL
+Matériel Visa
+(tableau 3)
+387 515,58 $
+529 122,61 $
+306 380,00 $
+1 223 018,73 $
+Service des prêts spéciaux – Toronto
+(tableau 4)
+172 796,69 $
+257 641,22 $
+247 814,13 $
+678 252,04 $
+Comptes créditeurs centraux
+(tableau 5)
+37 671,49 $
+186 734,29 $
+224 405,78 $
+Logiciel capitalisé
+(tableau 6)
+24 533,03 $
+10 296,47 $
+17 311,76 $
+52 141,25 $
+Réalisation des prêts (Type CGT)
+(tableau 7)
+255,50 $
+45 655,77 $
+14 014,82 $
+59 926,09 $
+Rajustement du taux stationnaire
+(tableau 8)
+39 565,00 $
+36 557,77 $
+76 122,77 $
+TOTAL
+624 665,80 $
+916 945,33 $
+772 255,00 $
+2 313 866,66 $
+[33] La preuve documentaire révélait que l’appelante n’aurait pas pu demander les CTI de 1996 s’élevant à 1 275 751 $ dans la déclaration de 1998. Lorsqu’elle a produit sa déclaration de 1998 le 29 janvier 1999, l’appelante n’était pas au courant de l’existence d’un montant supplémentaire de 651 085 $ au titre des CTI pour la période de déclaration de 1996. Le 29 janvier 1999, KPMG n’avait découvert que le montant de 624 665,80 $ à l’égard des CTI de 1996.
+[34] L’appelante a également pris la position selon laquelle elle avait demandé un montant de 1 038 116 $ au titre des CTI de 1997 dans sa déclaration de 1998. Toutefois, la preuve documentaire révélait que les CTI de 1997 demandés par l’appelante dans sa déclaration de 1998 étaient de 916 945,33 $. Le montant de 1 038 116 $ est simplement la différence entre le total des CTI identifiés (2 313 866,66 $) au 29 janvier 1999 et le total des CTI de 1996 (1 275 751 $) identifiés à la fin de l’examen de recouvrement. Lors du contre‑interrogatoire, Mme Ma a admis qu’aucun CTI précis que l’examen de recouvrement de KPMG aurait permis de découvrir pour la période de déclaration de 1997 ne pouvait être ajouté pour donner la somme de 1 038 116 $.
+[35] L’avocate de l’appelante a soutenu que l’appelante disposait de la preuve documentaire permettant d’établir le montant des CTI au moment où la déclaration de 1998 avait été vérifiée et que le paragraphe 169(4) n’exige pas que l’inscrit établisse ou calcule le montant des CTI tant qu’il n’y a pas vérification. Je ne souscris pas à l’interprétation préconisée par l’avocate. Le paragraphe 169(4) ne peut pas être considéré indépendamment du reste de l’article 169 ou, en fait, de la Loi elle‑même.
+[36] Le paragraphe 169(1) de la Loi énonce les règles générales permettant d’établir le montant d’un CTI. En l’espèce, il fallait établir un grand nombre de CTI en utilisant une formule de répartition conformément au paragraphe 141.01(5) de la Loi. Le paragraphe 169(4) indique les documents nécessaires pour les CTI. Il exige que l’inscrit « obtien[ne] les renseignements suffisants » avant de produire la déclaration dans laquelle le crédit est demandé[4]. Selon une interprétation textuelle, contextuelle et téléologique des articles 141.01 et 169 de la Loi, l’inscrit doit établir les montants de CTI auxquels il a droit avant de pouvoir les demander. Dans le cas où l’inscrit établit ses CTI en utilisant une formule de répartition, le paragraphe 169(4) de la Loi exige qu’avant de produire sa déclaration, il ait à sa disposition les renseignements justifiant la méthode qu’il a suivie pour répartir ses CTI entre les fournitures taxables et les fournitures exonérées ainsi que les renseignements justifiant le montant des CTI demandés.
+[37] Il est vrai que ni la Loi ni le Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants (TPS/TVH) n’exigent qu’une personne identifie, dans sa déclaration relative à la TPS, la période à laquelle se rapportent des CTI particuliers qui sont demandés. Toutefois, la formule permettant de calculer un CTI exige en soi que le CTI se rapporte à une période de déclaration particulière. Le A, dans la formule donnée au paragraphe 169(1), est la taxe à l’égard de la fourniture, qui devient payable par la personne au cours de la période de déclaration ou qui est payée par la personne au cours de la période sans être devenue payable. De la même façon, le calcul de la taxe nette à l’article 225 se rapporte à une période particulière et le paragraphe 225(4) limite le délai dans lequel un CTI peut être demandé.
+[38] Le juge en chef Garon (tel était alors son titre) a parlé du calcul de la taxe nette, à l’article 225, et en particulier du cas dans lequel le CTI qui est demandé se rapporte à une période antérieure. Dans la décision Paquin c. R.[5], le juge a dit ce qui suit :
+[15] Il est donc nécessaire d’analyser la portée de l’alinéa a) de l’élément B de la formule en question qui traite spécifiquement des crédits de taxe sur les intrants. Cet alinéa se lit ainsi :
+225(1) Sous réserve des autres dispositions de la présente sous‑section, la taxe nette pour une période de déclaration donnée d’une personne correspond au montant, positif ou négatif, obtenu par la formule suivante :
+A - B
+où :
+[...]
+B le total des montants suivants
+a) l’ensemble des montants dont chacun représente un crédit de taxe sur les intrants pour la période donnée ou une période de déclaration antérieure de la personne, que celle‑ci a demandé dans la déclaration produite en application de la présente section pour la période donnée. [...]
+[16] L’alinéa a) de l’élément B prévoit expressément le cas où un montant représentant un crédit de taxe sur les intrants et se rapportant à une période antérieure peut être demandé dans une période donnée qui est ultérieure. La juxtaposition de la mention de la période donnée et de la période antérieure dans l’alinéa a) de l’élément B de la formule susmentionnée ne semble pas faire de doute que l’intention du législateur était de permettre à un contribuable de réclamer des crédits de taxe sur les intrants dans une déclaration postérieure à la période à l’égard de laquelle ces crédits auraient pu en premier lieu être réclamés. C’est la conclusion à laquelle est venu le juge Archambault de cette Cour dans l’affaire Metro Exteriors Ltd. v. Canada, (T.C.C.) [1995] G.S.T.C. 62. Cette disposition de l’alinéa a) de l’élément B est complétée par le paragraphe 225(4) qui établit des délais de quatre ans et de deux ans, selon les circonstances, pour réclamer des crédits de taxe sur les intrants.
+[17] De ce qui précède, il ressort que ce droit au crédit de taxe sur les intrants n’existe pas avant qu’il soit demandé. [...]
+[39] L’appelante ne peut pas dire que les CTI de 1996 ont été comptabilisés dans la déclaration de 1998. Son droit aux CTI de 1996 n’existait pas tant qu’ils n’étaient pas demandés dans une déclaration.
+[40] Étant donné que j’ai conclu que l’appelante a demandé uniquement 624 666 $ à l’égard de ses CTI de 1996 dans sa déclaration de 1998, les autres CTI de 1996, s’élevant à 651 085 $, doivent avoir été demandés dans la déclaration de 1999. Conformément au sous‑alinéa 225(4)a)(iii) de la Loi, l’appelante disposait d’un délai de deux ans pour demander ses CTI et elle ne pouvait, en raison de la prescription, demander les CTI de 1996 dans sa déclaration de 1999.
+[41] Je n’ai pas à décider si, conformément au paragraphe 296(2), l’ARC aurait dû prendre en compte les CTI de 1996, s’élevant à 651 085 $, dans le calcul de la taxe nette pour la période de déclaration de 1998. Je ne suis pas saisie de cette période.
+[42] L’appelante a déclaré qu’elle comptait sur l’expertise interne et qu’elle avait recours à des experts indépendants dans les efforts qu’elle faisait pour se conformer aux exigences de la Loi. L’appelante a affirmé avoir ainsi fait preuve de diligence raisonnable et que la pénalité imposée en vertu de l’article 280 devrait être supprimée.
+[43] Dans l’arrêt Corporation de l’école polytechnique c. Canada[6], la Cour d’appel fédérale a résumé les principes à prendre en compte dans l’examen de la question de savoir si un contribuable a fait preuve d’une diligence raisonnable. Or, le moyen de défense fondé sur la diligence raisonnable n’est pas identique au moyen de défense fondé sur la bonne foi, qui permet l’exonération d’une personne qui a commis une erreur de fait de bonne foi, et ce, même si cette erreur était déraisonnable. Le moyen de défense fondé sur la diligence raisonnable impose une norme plus stricte, étant donné que l’erreur doit avoir été une erreur qu’une personne raisonnable aurait commise dans les mêmes circonstances.
+[44] Lorsque l’appelante a produit sa déclaration de 1998, elle savait que l’examen de recouvrement de KPMG n’avait pas permis de découvrir tous les CTI possibles de 1996. L’appelante devait le savoir parce que KPMG avait uniquement achevé son examen à l’égard de six segments d’entreprise. La pièce II de 1998 qui a été produite avec la déclaration de 1998 indiquait les montants précis qui étaient demandés dans cette déclaration au titre des CTI. Le montant des CTI demandés dans la déclaration de 1998 pouvait directement être attribué aux segments d’entreprise analysés par KPMG et aux années précises faisant l’objet de l’examen. L’appelante savait que les CTI de 1996 découverts après le 29 janvier 1999 étaient frappés de prescription. Pour quelle autre raison l’appelante tenterait‑elle après coup d’attribuer la totalité des CTI demandés dans la déclaration de 1998 d’une façon qui n’était pas conforme aux tableaux produits par KPMG?
+[45] Eu égard aux circonstances, je ne suis pas convaincue que l’appelante a fait preuve de la diligence raisonnable nécessaire.
+[46] L’appel est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 22e jour de mai 2009.
+« V. A. Miller »
+Juge V. A. Miller
+Traduction certifiée conforme
+ce 24e jour de juillet 2009.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2009CCI264
+No DU DOSSIER DE LA COUR : 2006-1702(GST)G
+INTITULÉ : LA BANQUE TORONTO‑DOMINION c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 18 septembre 2008
+MOTIFS DU JUGEMENT : L’honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 22 mai 2009
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Martha K. MacDonald
+Me D’Arcy Schieman
+Avocats de l’intimée :
+Me Marilyn Vardy
+Me Laurent Bartleman
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Martha K. MacDonald
+D’Arcy Schieman
+Cabinet : Osler, Hoskins & Harcourt s.r.l.
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pièce AR‑1, onglet 21.
+[2] Témoignage de Teresa Ma – Transcription, page 41.
+[3] Pièce AR‑1, onglet 3.
+[4] Key Property Management Corporation c. La Reine, 2004 CCI 210, paragraphe 14.
+[5] 2004 CCI 597, paragraphes 15 à 17.
+[6] 2004 CAF 127, paragraphes 27, 28 et 29.

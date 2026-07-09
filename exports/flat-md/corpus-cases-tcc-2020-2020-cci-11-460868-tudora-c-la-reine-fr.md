@@ -1,0 +1,223 @@
+---
+title: "Tudora c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/460868/index.do"
+last_modified: "2020-01-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2020 CCI 11"
+citation2: ""
+neutral_citation: "2020 CCI 11"
+decision_date: "2020-01-27"
+language: "fr"
+item_id: "460868"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4256
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-07-24T07:07:13.445000+00:00"
+cases_cited_count: 7
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f919027a94e19a26961e9294f48a9cc75579d3550539d1b433cc44eaa15fd17f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Tudora c. La Reine
+
+- Citation: 2020 CCI 11
+- Decision date: 2020-01-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4256, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tudora c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2020-01-27
+Référence neutre
+2020 CCI 11
+Numéro de dossier
+2016-2339(IT)I
+Juges et Officiers taxateurs
+Ronald MacPhee
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-2339(IT)I
+ENTRE :
+ALEXANDRU TUDORA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 1er novembre 2019, à Toronto (Ontario)
+Devant : L’honorable juge Ronald MacPhee
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Matthew Turnell
+Sandra K.S. Tsui
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie aux termes de la Loi de l’impôt sur le revenu pour l’année d’imposition 2005 de l’appelant est rejeté sans dépens.
+Signé à Ottawa, Canada, ce 27e jour de janvier 2020.
+« R. MacPhee »
+Le juge MacPhee
+Référence : 2020 CCI 11
+Date : 20200127
+Dossier : 2016-2339(IT)I
+ENTRE :
+ALEXANDRU TUDORA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge MacPhee
+[1] L’appelant a interjeté appel à l’encontre de la nouvelle cotisation établie par le ministre du Revenu national (le ministre) pour l’année d’imposition 2005. L’appelant conteste le refus par le ministre de lui accorder des crédits d’impôt pour dons de bienfaisance en application de l’article 118.1 de la Loi de l’impôt sur le revenu (la Loi). Plus précisément, les montants des dons que l’appelant allègue avoir versés pour l’année d’imposition 2005 s’élèvent à 5 000 $ en espèces et à 25 056 $ en nature.
+QUESTIONS EN LITIGE
+[2] La question en litige dans le présent appel est de savoir si l’appelant a fait un don, quelle qu’en soit la somme, au cours de l’année d’imposition 2005 du fait de sa participation au programme Global Learning Gifting Initiative (programme Global). L’intimée s’interroge à savoir [1] si l’appelant était motivé par une intention libérale de faire un don, ce qui constitue un élément requis d’un don. L’intimée soutient également que le principe de courtoisie judiciaire devrait s’appliquer en l’espèce.
+EXPOSÉ DES FAITS
+[4] L’appelant est un ancien employé de General Motors. Il est désormais à la retraite, mais cela se serait produit contre son gré, selon ce qu’il a affirmé au procès.
+[5] L’appelant soutient avoir été informé pour la première fois du programme Global par un collègue de travail. Durant le procès, l’appelant a allégué ne pas très bien se souvenir de la manière dont l’arrangement concernant le programme Global lui avait été expliqué ni de la raison pour laquelle il avait participé au programme. Il a fait peu d’efforts pour expliquer pourquoi il avait fait don d’une somme de 5 000 $ en 2005. Le don le plus important qu’il avait fait par le passé s’élevait à 350 $ en 2002.
+[3] L’appelant s’est toutefois souvenu que son collègue lui avait expliqué comment il aiderait les enfants canadiens dans le besoin en participant au programme Global. Il a également affirmé, tout comme il l’a fait dans ses actes de procédure, avoir appris de son collègue quel serait le montant de l’indemnisation offerte par le gouvernement du Canada et l’Agence du revenu du Canada (l’Agence) en reconnaissance de son don.
+Comment l’arrangement fonctionnait-il?
+[4] Comme on peut s’y attendre, l’appelant n’a été d’aucune assistance lorsqu’on lui a demandé d’expliquer le fonctionnement du programme Global, que ce soit à petite ou à grande échelle. Les éléments de preuve concernant le fonctionnement du programme ont été fournis à la Cour grâce aux hypothèses figurant dans la réponse et aux éléments de preuve non contestés présentés par l’intimée.
+[5] En 2005, l’appelant a conclu une série d’ententes. En contre-interrogatoire, ses souvenirs étaient vagues quant aux mesures qu’il a prises pour verser les dons de bienfaisance qu’il déclare avoir faits. Compte tenu des trous de mémoire de l’appelant et de son approbation tacite des documents qui lui ont été présentés par l’intimée, je reconnais avoir reçu les documents suivants et les explications suivantes qui, dans une certaine mesure, font la lumière sur la participation individuelle de l’appelant au programme Global.
+[6] Au départ, l’appelant a signé une série de documents, tous en même temps. Je ne passerai pas tous les documents en revue dans mes motifs. Voici toutefois quelques-uns des documents les plus pertinents. Le premier document signé était un acte de don en espèces. Lors du versement d’un montant de 5 000 $ à un dépositaire légal, l’appelant a demandé à celui-ci de présenter une demande pour devenir bénéficiaire de capital d’un acte de don de biens. Le don de biens demandé en son nom était d’environ cinq fois le montant de la contribution en argent qu’il avait versée. L’appelant ne pouvait fournir que très peu de renseignements sur le don de biens qu’il demandait.
+[7] D’après les paragraphes de la réponse présentant les hypothèses, je suis en mesure de conclure que les dons de biens en cause étaient décrits par les promoteurs du programme Global comme étant des licences de logiciels didactiques (les licences) acquises auprès d’une entité étrangère, à savoir Phoenix Learning Corporation, laquelle avait acquis ces licences auprès d’une société de la Floride, Infosource Inc. Par la suite, il a été déclaré que ces licences avaient été offertes à une fiducie participant au programme, Global Learning Trust 2004. C’est à ce moment qu’elles ont été offertes à l’appelant.
+[8] Après avoir été offert à l’appelant, il semblerait que l’acte de don ait été transféré à un organisme de bienfaisance. Ce transfert a été officialisé par la signature d’un acte de don de biens à un organisme de bienfaisance participant. L’appelant a également signé une directive voulant que son don en espèces soit versé à un organisme de bienfaisance par un dépositaire légal.
+[9] L’appelant a reconnu avoir passé en revue le matériel promotionnel, lequel contenait des tableaux indiquant qu’il pourrait s’attendre, en tant que donateur, à recevoir un don en nature d’une valeur de 15 000 $ s’il versait une contribution en argent de 5 000 $. Ainsi, pour avoir déclaré ces deux dons dans sa déclaration de revenus, il pouvait s’attendre à recevoir un remboursement de 9 282 $. Cela a été décrit comme étant un avantage de trésorerie total de 85,64 % dans les documents promotionnels fournis. Pour des raisons qui n’ont pas été expliquées, l’appelant affirme avoir reçu un don en nature représentant cinq fois le montant de sa contribution en argent, ce qui constituerait un avantage de trésorerie largement supérieur à celui indiqué dans les documents promotionnels.
+[10] L’appelant allègue qu’en faisant son don, il avait l’intention d’aider des enfants et des adultes canadiens. Il affirme avoir fait preuve de diligence raisonnable par rapport au programme Global en menant des recherches depuis son ordinateur sur les organismes de bienfaisance participants. En outre, il a invoqué des lettres de reconnaissance de divers politiciens, qui ont été fournies en lien avec la promotion de ce programme. Ces lettres faisaient l’éloge des réussites du programme de dons Global.
+[11] L’appelant reproche principalement à l’Agence de ne pas l’avoir informé en temps opportun du stratagème derrière le programme Global. Il est resté plutôt vague à l’égard des raisons pour lesquelles l’Agence aurait dû le prévenir. Il est possible que cela ait rapport avec le fait que l’Agence ait décidé de rejeter sa réclamation de dons de bienfaisance. Néanmoins, il réclame l’intégralité des dons de bienfaisance qu’il a versés aux organismes de bienfaisance aux termes de l’arrangement concernant le programme Global. Bien que cela n’ait pas d’incidence sur la décision, il est évident qu’il y a eu faute flagrante. Ainsi, la faute devrait être imputée non pas à l’Agence, mais plutôt aux promoteurs de l’arrangement concernant le programme Global. Compte tenu des présomptions du ministre, il semblerait que les promoteurs ont induit en erreur l’appelant ainsi que des milliers de Canadiens relativement à ce à quoi allaient servir leurs contributions en espèce. Plus de 90 % des sommes versées aux termes de l’arrangement concernant le programme Global (les contributions en espèces versées en 2004 et en 2005 totalisaient 60 268 511 $) se sont retrouvées dans les mains des promoteurs et non celles des organismes de bienfaisance. Durant ces mêmes années, des reçus pour dons de bienfaisance de près de 340 000 000 $ ont été remis en lien avec le programme Global. Là encore, d’après les hypothèses formulées en l’espèce, ces reçus ne reflètent aucunement la réalité.
+[12] L’appelant souhaite déclarer deux reçus pour dons de bienfaisance d’une valeur totale de 5 000 $, soit le montant des contributions en espèces qu’il a versées. Aucune question en litige n’a été soulevée par rapport au fait qu’il a versé 5 000 $ au cours de sa participation au programme Global. L’appelant réclame également un montant supplémentaire de 25 056 $, qui était, selon ce qu’il affirme, un don en nature composé de licences de logiciels didactiques. L’appelant n’a pas été en mesure d’expliquer d’où provenait ce don en nature; il n’a pu qu’en décrire le contenu qu’en termes très vagues. Aucune explication n’a été fournie quant à la façon dont ces biens ont été payés, à la valeur de ces biens ou à la raison pour laquelle sa participation était essentielle au don.
+[13] L’appelant n’a présenté aucun élément de preuve substantiel à la Cour, outre son intention à l’égard de sa participation au programme Global et sa frustration découlant du rejet par l’Agence de sa réclamation de dons de bienfaisance et des intérêts qui lui ont été facturés sur sa dette en souffrance.
+[14] L’intimée a fourni comme élément de preuve l’affidavit de Chandra Udai-Harry, la vérificatrice principale du programme Global. L’intimée a également invoqué les hypothèses énoncées dans l’avis de réponse.
+LA LOI
+Thèse des parties :
+[15] L’appelant soutient qu’il était motivé par une intention libérale lorsqu’il a versé les deux dons de bienfaisance en cause. En ce qui concerne la valeur des licences dont l’appelant affirme avoir fait don, l’appelant s’en remet simplement au rapport d’évaluation fourni par les promoteurs du programme. Par conséquent, il soutient qu’il devrait être autorisé à réclamer à la fois le reçu de 5 000 $ pour sa contribution en espèces et le reçu de 25 056 $ pour le don en nature qu’il a versé durant l’année d’imposition 2005.
+[16] L’intimée a énoncé divers motifs pour lesquels une telle réclamation devrait être refusée. Voici ses arguments : 1) l’appelant n’était pas motivé par l’intention libérale requise pour faire un don de bienfaisance en application du paragraphe 118.1(1) de la Loi; 2) la fiducie en question n’était pas une fiducie valide; 3) les reçus pour dons remis à l’appelant n’indiquent pas la juste valeur marchande des licences; 4) les paragraphes 248(30) à 248(32) de la Loi devraient s’appliquer, ce qui porterait le montant admissible du prétendu don à 0 $ et 5) l’intimée affirme que le principe de courtoisie judiciaire devrait s’appliquer, étant donné que la Cour a déjà procédé à un examen approfondi du programme Global [2] .
+DISCUSSION
+[17] Ce sont les deux principaux motifs exposés en détail ci-dessous qui m’ont amené à rejeter le présent appel. Les voici : 1) l’appelant n’avait pas présenté d’éléments de preuve prima facie pour démontrer que l’évaluation était erronée; et 2) j’accepte la thèse du ministre, selon laquelle l’appelant n’a pas effectué de don. Cette conclusion est fondée sur ma constatation selon laquelle l’appelant s’attendait à engranger un bénéfice du fait de sa participation au programme Global et n’était donc pas motivé par une intention libérale. Enfin, je pense qu’il convient d’examiner l’argument de l’intimée concernant le principe de courtoisie judiciaire, car il s’applique à la question de l’intention libérale.
+Fardeau :
+[18] Il incombe à un contribuable de prouver les faits qu’il allègue dans son avis d’appel et qui sont niés par l’intimée [3] . Il convient de noter que la capacité de l’intimée à invoquer les hypothèses formulées par le ministre est propre aux appels en matière d’impôt. Dans un tel cas, le contribuable doit réfuter les hypothèses de fait qui nuisent à son appel pour avoir gain de cause. Dans la réponse déposée en l’espèce, 301 hypothèses ont été présentées. Peu d’hypothèses, voire aucune, n’ont été abordées dans les éléments de preuve présentés par l’appelant.
+[19] Même si je reconnais qu’il s’agit d’une procédure informelle mettant en cause un appelant non représenté, je me serais attendu à ce que l’appelant, à tout le moins, démontre qu’il a versé un don en espèces à un organisme de bienfaisance et qu’il présente des éléments de preuve à l’appui de sa déclaration selon laquelle il avait l’intention de faire un don au profit d’un organisme lorsqu’il a versé sa contribution de 5 000 $. Je me serais également attendu à ce qu’il précise d’où provenait le don en nature, qui en était l’auteur à l’origine et quelle était sa valeur, et qu’il démontre qu’il a été, à un certain moment, propriétaire des licences en question. Le manque d’éléments de preuve présentés par l’appelant pour répondre à toutes ces allégations et prouver que son don en espèces et son prétendu don en nature ont bel et bien été versés aux organismes de bienfaisance en question porte un coup fatal à la cause de l’appelant.
+[20] En rendant ma décision, je suis conscient que les hypothèses dont le ministre a une connaissance exclusive pourraient ne pas être présumées véridiques par la Cour.
+[21] En l’espèce, vu que l’appelant n’a pas plaidé un manque de connaissances à l’égard des hypothèses présentées, je ne me prononce pas sur la question de savoir si certaines hypothèses étaient exclusivement connues du ministre. J’énoncerai plutôt les hypothèses sur lesquelles je m’appuierai pour rendre ma décision. Je tiens à préciser que ces hypothèses se rapportent aux faits de l’espèce. Je ne fais cela que parce qu’il s’agit d’une procédure informelle et que l’appelant n’est pas représenté. Les contentieux de nature fiscale sont complexes; en effet, le fardeau de la preuve est un concept inconnu de la plupart des gens n’ayant jamais reçu de formation juridique [4] .
+[22] Voici les hypothèses sur lesquelles je me suis concentré en rendant ma décision :
+16.117 l’appelant n’a pas fait de don aux organismes de bienfaisance;
+16.118 les participants, y compris l’appelant, ont reçu une contrepartie pour leur contribution en espèces;
+16.119 en participant au programme Global, l’appelant n’avait pas l’intention d’enrichir un organisme de bienfaisance, mais plutôt d’exécuter une série d’opérations dans l’unique but d’enrichir lui-même en recevant un crédit d’impôt plus élevé que le montant d’argent qu’il a versé;
+16.120 l’appelant n’avait aucunement l’intention de s’appauvrir;
+[…]
+16.123 la contribution en espèces de l’appelant constituait un paiement indirect au promoteur en guise de frais de participation au programme;
+16.124 l’appelant a versé un don en espèces dans l’espoir d’obtenir un reçu pour don de bienfaisance de la valeur de la contribution en espèces, d’acquérir des biens d’une valeur de trois à cinq fois supérieure au montant de la contribution et d’obtenir un deuxième reçu pour don de bienfaisance de la valeur présumée de ces biens;
+16.125 l’appelant n’a jamais vu les licences, les cédéroms, ni les logiciels didactiques qui constituaient le fondement de son prétendu don en nature;
+[…]
+16.127 l’appelant n’était pas en mesure d’utiliser les logiciels didactiques, car il n’a jamais reçu les codes d’accès requis ni aucune directive sur la manière d’obtenir de tels codes d’accès;
+16.128 la seule option pratique qui s’offrait à l’appelant était de faire don des licences, conformément à ce qui avait été déterminé d’avance par le programme;
+[…]
+16.135 étant donné que l’appelant avait signé un acte de don de biens pour des articles énumérés dans un document qui n’avait pas encore été préparé ni annexé à ce moment-là, il devait savoir qu’il faisait don de biens qui ne lui ont été présentés que plus tard;
+[…]
+16.140 la juste valeur marchande de chaque licence prétendument distribuée ne dépassait pas 0,30 $ en 2004 et 0,32 $ en 2005;
+[…]
+6.142 l’appelant n’avait bien pas l’intention de s’appauvrir, mais plutôt de tirer profit de sa participation au programme en 2005;
+16.145 bien que l’appelant ait également signé un acte de don de biens en vue d’obtenir une déduction pour amortissement relativement aux logiciels didactiques, il n’en était pas le propriétaire à ce moment-là, ni à aucun moment par la suite.
+[23] Les éléments de preuve présentés par l’appelant au procès étaient bien loin de détruire ces hypothèses. En dépit de son témoignage, il a souvent affirmé n’avoir aucune connaissance relativement à la façon dont ses dons ont été calculés ni à l’identité du véritable destinataire de ses dons.
+[24] Autrement dit, le contribuable ne s’est pas acquitté du fardeau qui lui incombait en l’espèce. En effet, il n’a pas présenté de preuve prima facie afin de prouver que, selon la prépondérance des probabilités, l’évaluation était erronée [5] . Il n’a pas non plus présenté d’éléments de preuve permettant de détruire les hypothèses formulées par le ministre. Pour ce seul motif, je rejette l’appel dans son intégralité.
+L’appelant a-t-il fait un don aux organismes de bienfaisance?
+[25] Bien que cela ne soit pas nécessaire, je fournirai également l’analyse sur laquelle je me suis fondé pour conclure que l’appelant n’avait pas fait de don aux organismes de bienfaisance.
+[26] Le concept de « don » n’est pas défini dans la Loi de l’impôt sur le revenu. On a toutefois tenté de définir ce concept dans de nombreuses décisions de la Cour de l’impôt.
+[27] Dans l’arrêt La Reine c. Friedberg, (1991) 92 D.T.C. 6031 (C.A.F.), la Cour d’appel fédérale a reconnu que, pour vicier un don, le donateur doit recevoir un avantage ou une contrepartie :
+[…] un don est le transfert volontaire du bien d’un donateur à un donataire, en échange duquel le donateur ne reçoit pas d’avantage ni de contrepartie (à la page 6032).
+[28] Un don se caractérise par trois éléments requis. Ils sont les suivants : 1) il doit y avoir transfert volontaire d’un bien; 2) le bien transféré doit appartenir au donateur immédiatement avant le transfert; 3) le donateur ne doit pas recevoir d’avantage ou de contrepartie, ce qui signifie que le donateur doit avoir eu une « intention libérale » [6] .
+[29] Je vais me concentrer sur le troisième critère ci-dessus, à savoir si l’appelant avait une intention libérale ou non. Dans cette analyse, je prends note du témoignage de l’appelant, dans lequel il affirme avoir participé au programme Global parce qu’il voulait aider des enfants. Par cette affirmation, il déclare avoir eu une intention libérale. Cependant, mon analyse ne peut reposer uniquement sur l’intention alléguée de l’appelant.
+[30] En effet, je dois tenir compte des faits selon un fondement à la fois objectif et subjectif. Une simple analyse subjective fondée uniquement sur l’intention déclarée par l’appelant lors de son témoignage au procès ne se révélera que très peu utile pour établir la vérité en l’espèce [7] .
+[31] Dans l’arrêt Symes, la Cour suprême du Canada a expliqué comment analyser correctement l’intention :
+Comme dans d’autres domaines du droit, lorsqu’il faut établir l’objet ou l’intention des actes, on ne doit pas supposer que les tribunaux se fonderont seulement, en répondant à cette question, sur les déclarations du contribuable, ex post facto ou autrement, quant à l’objet subjectif d’une dépense donnée. Ils examineront plutôt comment l’objet se manifeste objectivement, et l’objet est en définitive une question de fait à trancher en tenant compte de toutes les circonstances. [...] [8]
+[32] En fonction des éléments de preuve fournis en l’espèce, je conclus que le don en espèces et le don en nature faisaient partie d’une série d’opérations interreliées. Je me suis demandé si les dons pouvaient être fractionnés, de sorte que l’appelant puisse déclarer sa contribution de 5 000 $ en tant que don de bienfaisance. Cependant, comme l’a récemment affirmé la Cour d’appel fédérale dans l’arrêt Markou, « le juge de la Cour de l’impôt était tenu de se conformer à la décision Maréchaux CCI, confirmée par l’arrêt Maréchaux CAF, qui portent que les ententes contractuelles prévoyant les prétendus dons ne permettaient pas le fractionnement du don, car les deux portions étaient inextricablement liées » [9] .
+[33] Les documents sur le programme fournis en l’espèce indiquent clairement que les deux dons en question sont inextricablement liés. Après un don en espèces, un reçu pour don de bienfaisance est remis au participant, tant pour un don en espèces que pour un don en nature.
+[34] Même si le programme répondait à toutes ses promesses, un participant recevait, d’une manière quelconque liée à son don en espèces, des licences de logiciels didactiques d’une valeur cinq fois supérieure au montant de sa contribution en argent. L’appelant n’a jamais essayé d’expliquer la provenance de ces licences qui, selon ses dires, lui ont été offertes avant qu’il en fasse don à un organisme de bienfaisance. Il n’a pas non plus précisé qui les avait payées. Honnêtement, le programme décrit dans la documentation va à l’encontre du bon sens.
+[35] Peu importe la norme objective appliquée, on peut conclure que l’appelant s’est enrichi en participant à ce programme. Cet enrichissement se présentait sous une ou deux formes. Premièrement, s’il avait réellement été le propriétaire des licences qui lui ont été offertes aux dires du promoteur, alors il aurait reçu 25 056 $ de licences en contrepartie de sa contribution initiale de 5 000 $. Cela mènerait clairement à un enrichissement. Subsidiairement, il savait qu’il obtiendrait deux reçus en raison de sa participation au programme. Ainsi, après avoir produit sa déclaration de revenus, il aurait en sa possession une somme nettement supérieure à sa contribution en espèces [10] . Ce processus était appelé [traduction] « avantage de flux recettes fiscales » dans le matériel promotionnel.
+[36] Après avoir examiné les faits présentés, je suis d’accord avec l’intimée sur le fait que la contribution en espèces de l’appelant doit être considérée comme étant des frais de participation ou un investissement.
+[37] Je conclus que l’appelant a participé à un arrangement de dons dans le cadre duquel on lui a fait miroiter que les avantages fiscaux dont il bénéficierait totaliseraient une somme nettement supérieure à la contribution en espèces de 5 000 $ qu’il était tenu de verser au promoteur. Ainsi, en raison de sa participation au programme, il a reçu des crédits d’impôt fédéral et provincial d’une somme largement supérieure à sa contribution initiale de 5 000 $. Je n’ai d’autre choix que de conclure que l’appelant avait l’intention de s’enrichir en prenant part à un tel arrangement. Par conséquent, je rejetterais également l’appel pour le motif que l’appelant n’a pas fait de don.
+Courtoisie judiciaire
+[38] L’intimée soutient que la Cour devrait prendre en compte le principe de courtoisie judiciaire pour trancher cette question. Comme il est écrit dans leurs observations écrites, selon les principes du stare decisis, les juges d’une cour de justice ne sont pas liés par les décisions des membres de cette même cour. Toutefois, selon les principes de courtoisie judiciaire, les juges doivent se conformer aux décisions de leurs collègues, sauf s’il existe une bonne raison de s’écarter d’une décision antérieure [11] .
+[39] Selon les mêmes principes, la Cour d’appel fédérale a conclu, dans l’arrêt Kossow c. Canada, 2013 CAF 283, [2014] DTC 5017 (C.A.F.), au paragraphe 29, que les affaires de nature similaire devraient être traitées de la même façon :
+[...] Selon moi, les faits pertinents de l’espèce s’apparentent tellement à ceux de l’arrêt Maréchaux que la juge n’a pas commis d’erreur de droit en arrivant à la même conclusion. Le principe même de la justice exige que des cas semblables soient traités de la même façon.
+[40] L’intimée me demande de faire de même. Comme l’a fait remarquer l’intimée, le programme Global avait fait l’objet d’une poursuite en justice devant la Cour de l’impôt dans l’arrêt Mariano (qui était une affaire type). Dans ce jugement, la Cour de l’impôt a abordé de nombreux volets du programme. Parmi ceux-ci se trouvait l’intention libérale. J’ai reçu les mêmes documents relatifs à la participation au programme que le juge Pizzitelli dans l’arrêt Mariano [12] .
+[41] Je ne vois aucun motif convaincant de ne pas adhérer à la décision rendue par le juge Pizzatelli. Bien que je n’aie examiné qu’une partie des questions soulevées dans cette décision, mes conclusions en l’espèce sont les mêmes que les conclusions tirées dans l’arrêt Mariano.
+[42] Dans l’arrêt Mariano, le juge Pizzitelli est parvenu à la conclusion suivante :
+[49] En définitive, je ne vois pas comment une personne qui prendrait part à un tel stratagème, peu importe qu’elle croie honnêtement en la valeur des licences qu’elle s’attendrait à recevoir ou non, peut faire valoir, vu la manière dont le stratagème a été mis en marché et vu la composition et l’intégration des documents relatifs aux opérations qui l’appliquaient, qu’elle ne s’attendait pas à tirer profit d’une telle participation ou, grâce à elle, qu’elle s’attendait à s’appauvrir et non pas à s’enrichir, et, de ce fait, qu’elle avait l’intention libérale requise.
+[43] Par conséquent, ma décision doit être et sera conforme à la décision rendue dans l’arrêt Mariano relativement à l’intention libérale. Je conclus que l’appelant souhaitait s’enrichir en prenant part à un tel arrangement. Par conséquent, il n’était pas motivé par l’intention libérale requise.
+CONCLUSION
+[44] Pour ces motifs, l’appel est rejeté. Chaque partie assumera ses propres dépens en l’espèce.
+Signé à Ottawa, Canada, ce 27e jour de janvier 2020.
+« R. MacPhee »
+Le juge MacPhee
+RÉFÉRENCE :
+2020 CCI 11
+No DU DOSSIER DE LA COUR :
+2016-2339(IT)I
+INTITULÉ :
+ALEXANDRU TUDORA c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 1er novembre 2019
+MOTIFS DU JUGEMENT :
+L’honorable juge Ronald MacPhee
+DATE DU JUGEMENT :
+Le 27 janvier 2020
+COMPARUTIONS :
+Représentant de l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Matthew Turnell
+Me Sandra K.S. Tsui
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Me Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Entre autres.
+[2] Voir Mariano c. La Reine, 2015 CCI 244 [Mariano].
+[3] Samardi c. Canada, 2017 CAF 131, aux paragraphes 61 et 62, dans une remarque incidente. Voir aussi le jugement Morrison v the Queen, dans lequel le juge Owen invoque l’arrêt Anderson Logging, S.C.R. 45 [1925], au paragraphe 9 :
+[traduction] Il [le contribuable] doit démontrer que la cotisation contestée n’aurait jamais dû être établie, c’est-à-dire qu’il doit établir des faits qui permettent d’affirmer que la cotisation n’était pas autorisée par la loi fiscale ou qui jettent un tel doute sur la question que selon les principes susmentionnés, la responsabilité de l’appelant ne peut être retenue.
+[4] Malgré l’approche que j’ai choisie en l’espèce, je tiens à souligner que je suis en accord avec les commentaires énoncés par le juge Owen dans le jugement Morrison, précité, aux paragraphes 117 et 118 :
+[traduction] 117 Je parviens difficilement à comprendre comment les faits recueillis par le ministre lors de la vérification des témoignages des appelants et des programmes auxquels ils ont participé sont exclusivement connus du ministre. Hormis la vérification, les faits échappent à la connaissance du ministre. Bien que ceux-ci ne soient pas connus des appelants, ils le sont clairement d’autres personnes investies dans les programmes.
+118 Les appelants ont choisi en toute conscience de participer aux programmes, même s’ils n’avaient que peu ou pas de connaissances par rapport à ce qui se passait en coulisses, si l’on peut dire. Dans de telles situations, il n’est pas injuste pour les appelants de permettre au ministre de deviner ce qui se passait en coulisses.
+[5] Dans l’arrêt House c. Canada, 2011 CAF 234, la Cour d’appel fédérale a souscrit à l’opinion selon laquelle
+[u]ne preuve prima facie est celle qui est « étayée par des éléments de preuve qui créent un tel degré de probabilité en sa faveur que la Cour doit l’accepter si elle y ajoute foi, à moins qu’elle ne soit contredite ou que le contraire ne soit prouvé ».
+[6] Voir Mariano, précité, au paragraphe 17.
+[7] Cassan
+[8] Symes c. Canada, [1993] 4 RCS 695, cité dans l’arrêt Mariano, précité, au paragraphe 28.
+[9] Markou c. Canada, [2019] CAF 299, au paragraphe 48.
+[10] Voir Markou, précité, au paragraphe 60 :
+Comme il ressort clairement de l’arrêt Friedberg, le fait qu’un avantage fiscal est obtenu par suite d’un don ne peut pas en soi invalider le don. Le législateur aurait parlé pour ne rien dire en prévoyant des avantages fiscaux découlant de certains dons s’il en était autrement. Toutefois, la personne qui prévoit recevoir des avantages fiscaux supérieurs à la somme ou à la valeur d’un prétendu don n’a forcément pas d’intention libérale. L’appauvrissement étant un élément essentiel du don en droit civil et en common law, le prétendu don constitué par la contribution en espèces ne saurait être reconnu en tant que don à cet égard également.
+[11] Haqi c. Canada (Sécurité publique et Protection civile), 2014 CF 1246, [2015] 3 ACF no 1388 [Haqi]. En outre, le paragraphe 51 de cette décision dispose qu’une cour de justice peut ne pas adhérer à une décision antérieure d’une cour similaire dans les cas suivants :
+Il y a plusieurs raisons pour lesquelles un juge peut décider de ne pas suivre l’interprétation donnée à une disposition législative par un autre juge de la Cour. Il est possible que des décisions qui ont été rendues entretemps aient eu une incidence sur la validité de la décision antérieure, ou que la Cour, dans la décision antérieure, n’a pas tenu compte d’un précédent faisant autorité ou d’une loi pertinente. Un juge peut également s’écarter d’une décision antérieure lorsque cette décision a été « rendue sans délibéré », c’est-à-dire que l’urgence de l’instance est telle que le juge doit rendre immédiatement sa décision sans avoir le temps de consulter la jurisprudence, ou lorsqu’une injustice serait créée s’il suivait la décision antérieure : Almrei c Canada (Ministre de la Citoyenneté et de l’Immigration), 2007 CF 1025, 316 F.T.R. 49, aux paragraphes 61 et 62, et Baron c Canada (Sécurité publique et Protection civile), 2008 CF 341, 83 Admin. L.R. (4th) 183, au paragraphe 52.
+[12] Comme l’a souligné l’intimée dans son mémoire, le procès s’est déroulé sur 25 jours, d’avril à septembre 2015, durant lesquels les arguments juridiques et les observations juridiques détaillées ont été présentés.

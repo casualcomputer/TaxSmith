@@ -1,0 +1,164 @@
+---
+title: "9134-2485 Québec Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31019/index.do"
+last_modified: "2012-11-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 401"
+citation2: ""
+neutral_citation: "2012 CCI 401"
+decision_date: "2012-11-14"
+language: "fr"
+item_id: "31019"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4901
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:16:43.355000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "03750427a9f868a077b52fd6e3c37dc84588a86b25c2f175a856adee3d052c8e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 9134-2485 Québec Inc. c. La Reine
+
+- Citation: 2012 CCI 401
+- Decision date: 2012-11-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4901, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9134-2485 Québec Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-11-14
+Référence neutre
+2012 CCI 401
+Numéro de dossier
+2010-2867(GST)I
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2010-2867(GST)I
+ENTRE :
+9134-2485 QUÉBEC INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 29 août 2012, à Montréal (Québec).
+Devant : L'honorable juge Robert J. Hogan
+Comparutions :
+Avocat de l'appelante :
+Me Christopher R. Mostovac
+Avocat de l'intimée :
+Me Michel Rossignol
+____________________________________________________________________
+JUGEMENT
+L’appel de l’appelante à l’encontre de la cotisation dont l’avis est daté du 16 décembre 2008 pour la période du 1er avril 2004 au 31 mars 2008 et à l’encontre de la nouvelle cotisation dont l’avis est daté du 14 juillet 2010 pour la période du 1er janvier 2005 au 31 mars 2008, est rejeté pour les motifs ci‑joints.
+Signé à Toronto, Ontario, ce 14e jour de novembre 2012.
+« Robert J. Hogan »
+Juge Hogan
+Référence : 2012 CCI 401
+Date : 20121114
+Dossier : 2010-2867(GST)I
+ENTRE :
+9134-2485 QUÉBEC INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Hogan
+[1] Le 16 décembre 2008, l’intimée, par l’entremise du ministre du Revenu du Québec (le « ministre »), a établi une cotisation à l’égard de l’appelante en vertu de la partie IX de la Loi sur la taxe d’accise, L.R.C. (1985), ch. E-15 (ci-après la « LTA »), pour la période du 1er avril 2004 au 31 mars 2008.
+[2] Le 26 mai 2010, à la suite de la présentation par l’appelante d’un avis d’opposition, un agent d’opposition de Revenu Québec a envoyé à l’appelante une lettre indiquant les modifications qui seraient apportées à la cotisation. Une nouvelle cotisation fut ensuite établie le 14 juillet 2010. Les rajustements apportés par cette cotisation à la taxe nette et aux intérêts et pénalités font que l’appelante doit verser les sommes suivantes :
+a. Rajustement à la taxe nette déclarée : 84 568,76 $
+b. Intérêts nets : 16 510,35 $
+c. Pénalité pour versement tardif : 7 022,44 $
+d. Pénalité pour faute lourde : 21 142,19 $
+[3] En établissant les cotisations en cause, le ministre s’est notamment fondé sur les conclusions et les hypothèses de fait suivantes :
+(a) L’appelante est inscrite en vertu de la partie IX de la LTA. Elle exploite un restaurant de sushi et un bar avec un permis d’alcool.
+(b) Toutes les fournitures effectuées par l’appelante en exploitant son restaurant et son bar constituent des fournitures taxables pour lesquelles une taxe, soit la TPS, est payable sur la valeur de la contrepartie de la fourniture.
+(c) Les fournitures relatives aux activités commerciales de l’appelante sont enregistrées à l’aide d’un logiciel créé par M. Khang Nguyen. Selon l’intimée, au cours des périodes visées, l’appelante a utilisé un camoufleur de ventes, ou « zapper », afin d’effacer de ses fichiers comptables certaines fournitures taxables effectuées.
+(d) Selon le ministre, vu l’utilisation d’un camoufleur de ventes, les registres et les documents comptables de l’appelante étaient incomplets et imprécis en ce sens que l’appelante a fourni des déclarations de TPS qui ne reflétaient pas sa véritable situation comptable.
+[4] Ainsi, afin de déterminer le montant de la TPS que l’appelante a perçue ou était tenue de percevoir pendant les périodes visées, le montant des fournitures taxables effectuées par l’appelante du 1er janvier 2005 au 11 juin 2007 a été reconstitué à partir des fichiers contenant toutes les transactions effectuées par l’appelante.
+[5] Selon l’estimation effectuée par le ministre, les ventes supplémentaires se chiffraient à :
+a. 138 705,35 $ pour l’exercice terminé le 31 mars 2005;
+b. 449 996,63 $ pour l’exercice terminé le 31 mars 2006;
+c. 458 800,57 $ pour l’exercice terminé le 31 mars 2007;
+d. 236 098,71 $ pour l’exercice terminé le 31 mars 2008.
+[6] Selon le ministre, l’examen des documents disponibles démontre que l’appelante ne déclarait pas, pendant les périodes visées, toutes les fournitures taxables effectuées pour lesquelles une taxe de sept pour cent de la valeur de la contrepartie était payable par les acquéreurs[1].
+[7] Toujours selon les estimations du ministre, le montant de la TPS que l’appelante était tenue de percevoir pendant la période visée est de 145 168,86 $ alors que l’appelante a produit des déclarations de taxe nette indiquant 60 600,10 $.
+[8] Ainsi, le ministre prétend que l’appelante a fait une présentation erronée des faits en n’incluant pas, dans le calcul de la taxe nette qu’elle a produit, un montant de 84 568,76 $ au titre de la TPS perçue ou percevable.
+[9] Le 12 avril 2008, M. Dario Grimard, technicien en informatique à l’Agence du revenu du Québec (l’« ARQ »), et une vérificatrice se sont présentés au restaurant de l’appelante afin d’extraire des données du système de vente informatique de l’appelante.
+[10] Il ressort du témoignage de M. Jean‑François Gingras, l’analyste de systèmes de point de vente à l’ARQ qui a effectué l’analyse des données retrouvées par M. Grimard, que l’appelante ou des consultants de l’appelante ont utilisé des « scripts » ou un programme informatique pour supprimer 7 307 factures établies par l’appelante pendant la période visée.
+[11] À la suite d’un travail approfondi, des techniciens en informatique au service de l’ARQ ont pu récupérer les informations dans 6 863 des factures effacées (les « factures récupérées »), laissant seulement 444 factures manquantes (les « factures manquantes ») pour la période en cause.
+[12] Le ministre a supposé que toutes les factures récupérées correspondent à des fournitures taxables qui n’ont pas été déclarées par l’appelante. Le ministre a également supposé que les 444 factures manquantes correspondent à des fournitures taxables non déclarées dont le montant moyen est de 136,83 $. Le ministre s’est fondé sur ces hypothèses pour estimer les ventes non déclarées de l’appelante susmentionnées au paragraphe 5.
+[13] Il ressort du témoignage de Mme My Thanh Phan, l’actionnaire gérante de l’appelante, que M. Khang Nguyen, un ami d’enfance du témoin, a conçu le logiciel qui fut utilisé par l’appelante pour l’enregistrement des ventes. Le logiciel fut conçu afin d’assurer qu’aucune commande de repas ne vienne de la cuisine sans que celle-ci soit enregistrée par le personnel à l’aide du logiciel. Cette procédure visait à éviter le vol ou la fraude. Toutefois, Mme Thanh prétend que le logiciel comportait des lacunes importantes. Selon le témoin, le logiciel n’était pas doté d’une fonction lui permettant d’enregistrer des repas gratuits destinés aux employés ou aux clients de l’appelante. Toutes les commandes de repas gratuits furent traitées comme des ventes taxables. De plus, le logiciel n’était pas muni d’une commande permettant de supprimer des erreurs d’enregistrement. Toutes les erreurs donnaient lieu à l’impression d’une facture constatant une fourniture taxable.
+[14] Enfin, le système ne facilitait pas la formation du nouveau personnel. En effet, selon le témoignage de Mme Thanh, le code de formation prévu au système ne fonctionnait pas correctement. Les commandes enregistrées lors des séances de formation étaient donc traitées comme des ventes taxables. Selon Mme Thanh, ceci explique le grand nombre de factures annulées et retrouvées par l’intimée dans la base de données de l’appelante.
+[15] Selon les témoins de l’appelante, il y aurait eu de nombreux repas gratuits dans les années en litige : 3 ou 4 factures par jour pour les « repas des employés », des cadeaux pour la famille et pour l’employé de la semaine, de la publicité en échange de repas gratuits, des cartes de divertissement, des « fêtes d’employés » et des repas gratuits pour les actionnaires, gérants et fournisseurs. Nonobstant l’allégation du nombre élevé de repas gratuits, Mme Thanh prétend qu’elle ne détient aucun registre comptable pour les repas gratuits et les promotions.
+[16] Il ressort des contre-interrogatoires que les témoins de l’appelante étaient évasifs et que leur preuve était floue relativement à l’absence d’un registre des repas gratuits et des promotions. De plus, les repas gratuits destinés aux employés, aux actionnaires et aux membres de leur famille constituent des avantages imposables. L’échange de repas contre des services donne également lieu à un revenu imposable. Il ressort de l’ensemble de la preuve que l’appelante faisait peu de démarches pour avoir une gestion comptable conforme à ses obligations fiscales.
+[17] Il semblerait qu’on ne tenait nullement compte de la divulgation des avantages imposables. Il ressort également des témoignages de Mmes Xuan Bich Ty Hoang et My Tung Phan que l’entreprise n’exerçait aucun contrôle des stocks. En contre-interrogatoire, la seule raison donnée par celles-ci était qu’elles avaient essayé, mais qu’elles échouaient toujours.
+[18] Selon Mme Thanh, elle gardait les factures résultant de repas gratuits, d’erreurs ou de formation du personnel, et elle remettait ces factures régulièrement à M. Khang afin qu’il puisse annuler leur enregistrement dans le système comptable de l’appelante. Une fois les ventes annulées, de nouveaux numéros étaient attribués aux factures qui restaient afin de rétablir la suite numérique et d’éviter des lacunes.
+[19] Mme Thanh affirme qu’elle ne conservait pas les factures papier après que M. Khang les avait annulées. M. Khang a témoigné que c’est par souci de professionnalisme qu’il rétablissait la suite numérique.
+[20] La version des faits présentée par les témoins de l’appelante fut contredite par la preuve de l’intimée. Il ressort du témoignage de M. Gingras qu’il y avait dans le système informatique de l’appelante une base de données courante et une base de données qui servait uniquement à la formation.
+[21] Le système informatique comprenait également une touche qui permettait l’enregistrement des repas gratuits ou au rabais. D’ailleurs, les témoins de l’intimée ont pu constater que certains repas gratuits furent comptabilisés comme non-ventes. Il ressort de l’interrogatoire de Mme Coulombe, la vérificatrice du ministre, qu’elle a trouvé, dans une boîte de documents de l’appelante, un rapport intitulé « Cancel/On House » (Annuler/Aux frais de la maison) qui fut déposé au procès sous la cote I-6.
+[22] De plus, le témoignage de Mme Yip fait état de transactions comptabilisées comme non-ventes. Elle a déposé la pièce I-9, un sommaire des transactions faisant état de transactions de plus de 105 936,08 $ du 1er janvier 2005 au 11 juin 2007 et de 53 676,06 $ pour la période du 11 juin 2007 au 31 mars 2008. Cela contredit la preuve présentée par l’appelante voulant qu’il n’était possible d’offrir des repas gratuits qu’en annulant les factures. En effet, des ventes de plus de 159 612,14 $ avaient déjà été comptabilisées comme des repas gratuits dans le système.
+[23] M. Gingras a expliqué qu’il a trouvé dans le système informatique de l’appelante un ensemble de programmes qui permettent d’effacer des factures, d’en rétablir la suite numérique et d’avoir accès à la base de données où furent enregistrées les ventes. La préparation de ces programmes nécessite des connaissances très poussées en informatique. Selon M. Gingras, ces programmes sont inusités. De plus, ils ne sont pas nécessaires au bon fonctionnement d’un logiciel comptable. Ces programmes servent plutôt à dissimuler les ventes. Il est très difficile de reconstituer l’information effacée par ces moyens. Aucune explication raisonnable ne fut fournie par l’appelante pour justifier l’existence et l’utilisation de ces programmes.
+[24] En résumé, les éléments suivants ressortent de la preuve présentée à l’audience :
+· Il y a une contradiction évidente sur l’existence d’une liste ou d’un rapport des repas gratuits;
+· L’appelante ne nie pas l’existence des programmes sophistiqués pour effacer des ventes;
+· Il y a une preuve testimoniale claire que certaines données n’étaient pas disponibles lors de l’extraction de l’information des bases de données de l’appelante.
+[25] Les éléments suivants soulèvent des doutes sérieux et mettent en question les explications et la crédibilité des témoins de l’appelante :
+a. Le fait qu’il y ait un code de formation et une touche-rabais dans le système, mais que l’appelante prétende qu’elle utilise la procédure d’annulation de factures pour la formation et les repas des employés;
+b. L’absence de documentation à l’appui du témoignage de M. Khang en ce qui concerne les erreurs fréquentes du système;
+c. La non-conservation des factures après leur annulation dans le système;
+d. L’absence d’inventaire trimestriel;
+e. Les contradictions et les réponses vagues en ce qui concerne le fonctionnement de la procédure d’annulation effectuée par M. Khang;
+f. La non-divulgation par l’appelante des annulations de factures avant que ceci ne soit établi par les employés du ministre.
+[26] Considérant l’ensemble de la preuve, je suis d’avis que les factures qui furent annulées par M. Khang correspondaient à des ventes réelles effectuées par l’appelante et non déclarées par celle-ci. En raison de cette conclusion, je suis d’avis que l’intimée a satisfait à son fardeau de la preuve quant à l’existence des circonstances justifiant l’imposition des pénalités. Pour ces motifs, l’appel est rejeté.
+Signé à Toronto, Ontario, ce 14e jour de novembre 2012.
+« Robert J. Hogan »
+Juge Hogan
+RÉFÉRENCE : 2012 CCI 401
+Nº DU DOSSIER DE LA COUR : 2010-2867(GST)I
+INTITULÉ DE LA CAUSE : 9134-2485 QUÉBEC INC. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 29 août 2012
+MOTIFS DU JUGEMENT PAR : L'honorable juge Robert J. Hogan
+DATE DU JUGEMENT : le 14 novembre 2012
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Christopher R. Mostovac
+Avocat de l'intimée :
+Me Michel Rossignol
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante:
+Nom : Me Christopher R. Mostovac
+Cabinet : Starnino Mostovac Avocats
+Montréal (Québec)
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Les taux étaient de 6 % du 1er juillet 2006 au 31 décembre 2007 et de 5 % depuis le 1er janvier 2008.

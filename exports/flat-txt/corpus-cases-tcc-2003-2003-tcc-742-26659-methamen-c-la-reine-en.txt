@@ -1,0 +1,126 @@
+Title: Methamen c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26659/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-742-26659-methamen-c-la-reine-en.md
+Document type: case_law
+Last modified: 2003-10-23
+
+# Methamen c. La Reine
+
+- Citation: 2003 TCC 742
+- Decision date: 2003-10-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3601, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Methamen c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-10-23
+Neutral citation
+2003 TCC 742
+File numbers
+2003-945(IT)I
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-945(IT)I
+BETWEEN:
+SADOK METHAMEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on October 1, 2003 at Montréal, Quebec.
+Before: The Honourable Judge Alain Tardif
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Philippe Dupuis
+JUDGMENT
+The appeal of the decision by the Minister of National Revenue to deny the Appellant the Canada Child Tax Benefit for the period from October 2001 to March 2002, in accordance with sections 122.6 and 122.64 of the Income Tax Act with respect to the 2001 base taxation year, is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 23rd day of October 2003.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 24th day of March 2004.
+Shulamit Day-Savage, Translator
+Citation: 2003TCC742
+Date: 20031023
+Docket: 2003-945(IT)I
+BETWEEN:
+SADOK METHAMEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif, J.
+[1] This is an appeal with respect to the Canada Child Tax Benefit. The decision, dated November 20, 2002, was established on the 2001 base taxation year for application beginning in September 2002.
+[2] To establish and confirm the Canada Child Tax Benefit Notice of Determination, dated November 20, 2002, with respect to the 2001 base taxation year, the Minister of National Revenue ("Minister") specifically relied on the assumptions of fact set out below:
+(a) The Appellant is considered by the Minister to be the eligible individual for his daughter Nwiem since September 2001;
+(b) The Appellant's daughter, Nwiem, was born on April 17, 1991 and is a Canadian citizen;
+(c) The Appellant and his daughter Nwiem went to Tunisia during the summer of 2002, from June to August 2002;
+(d) The Appellant's daughter, Nwiem, did not return to Canada in August 2002, since, according to the Appellant, the child is asthmatic and therefore stayed in Tunisia with her mother;
+(e) From the end of August 2002, the Appellant's daughter no longer lived with her father;
+(f) The Minister considers that, beginning in September 2002, the Appellant was no longer the parent who was primarily responsible for the care and education of his daughter Nwiem.
+[3] The question at issue is whether the Minister concluded correctly that the Appellant was not the parent primarily responsible for the care and education of his daughter Nwiem, with respect to the 2001 base taxation year, beginning in September 2002.
+[4] The Appellant admitted as accurate all of the assumptions of fact. He explained that his daughter Nwiem, a Canadian citizen, was asthmatic, and requires specific care and attention on an ongoing basis.
+[5] He recognized that the mother was in a much better position and more able to provide all the care required for the daughter's health than he was himself.
+[6] His spouse, Nwiem's mother, who lives in Tunisia, cannot obtain status that would enable her to join the Appellant and her son, both of whom are Canadian citizens, in Canada.
+[7] He stated that he does not understand why Canada refused to grant status to his spouse so that she could join him. The Appellant indicated that reuniting his family in Canada would be beneficial for his minor child Nwiem, who is a Canadian citizen, as well as for him and his son.
+[8] According to the testimony of the Appellant, although she is a Canadian citizen, Nwiem, the minor child, has every interest in remaining in Tunisia with her mother, because of her precarious health. Currently unemployed and receiving employment insurance, the Appellant confirmed that the Canada Child Tax benefit is essential in order for him to be able to meet his daughter's budgetary requirements.
+[9] The Appellant indicated he understood there may be legal provisions to justify the Respondent's decision to deny him the Canada Child Tax Benefits. Describing these measures as abusive and inhumane, he asked the Court to make a special order that takes into consideration facts and circumstances he describes as exceptional.
+[10] The relevant legal provisions are specifically sections 122.6 and 122.64 of the Income Tax Act (the "Act") and section 6302 of the Income Tax Regulation (the "Regulation"), which read as follows:
+122.6. In this subdivision,
+"base taxation year" in relation to a month means
+. . .
+(a) where the individual was resident in Canadathroughout the year, the individual's return of income (other than a return of income filed under subsection 70(2) or 104(23), paragraph 128(2)(e) or subsection 150(4)) that is filed or required to be filed under this Part for the year, and
+. . .
+"eligible individual" in respect of a qualified dependant at any time means a person who at that time
+(a) resides with the qualified dependant,
+(b) is the parent of the qualified dependant who primarily fulfils the responsibility for the care and upbringing of the qualified dependant,
+(c) is resident in Canada or, where the person is the cohabiting spouse or common-law partner of a person who is deemed under subsection 250(1) to be resident in Canada throughout the taxation year that includes that time, was resident in Canada in any preceding taxation year,
+(d) is not described in paragraph 149(1)(a) or 149(1)(b), and
+(e) is, or whose cohabiting spouse or common-law partner is, a Canadian citizen or a person who
+(i) is a permanent resident within the meaning of subsection 2(1) of the Immigration and Refugee Protection Act,
+(ii) is a temporary resident within the meaning of the Immigration and Refugee Protection Act, who was resident in Canada throughout the 18 month period preceding that time, or
+(iii) is a protected person within the meaning of the Immigration and Refugee Protection Act,
+(iv) was determined before that time to be a member of a class defined in the Humanitarian Designated Classes Regulations made under the Immigration Act,
+(v) and for the purpose of this definition,
+(f) where the qualified dependant resides with the dependant's female parent, the parent who primarily fulfils the responsibility for the care and upbringing of the qualified dependant is presumed to be the female parent,
+(g) the presumption referred to in paragraph 122.6 eligible individual (f) does not apply in prescribed circumstances, and
+(h) prescribed factors shall be considered in determining what constitutes care and upbringing;
+"qualified dependant" at any time means a person who at that time
+(a) has not attained the age of 18 years,
+(b) . . .
+(c) . . .
+6302. For the purposes of paragraph (h) of the definition "eligible individual" in section 122.6 of the Act, the following factors are to be considered in determining what constitutes care and upbringing of a qualified dependant:
+(a) the supervision of the daily activities and needs of the qualified dependant;
+(b) the maintenance of a secure environment in which the qualified dependant resides;
+(c) the arrangement of, and transportation to, medical care at regular intervals and as required for the qualified dependant;
+(d) the arrangement of, participation in, and transportation to, educational, recreational, athletic or similar activities in respect of the qualified dependant;
+(e) the attendance to the needs of the qualified dependant when the qualified dependant is ill or otherwise in need of the attendance of another person;
+(f) the attendance to the hygienic needs of the qualified dependant on a regular basis;
+(g) the provision, generally, of guidance and companionship to the qualified dependant; and
+(h) the existence of a court order in respect of the qualified dependant that is valid in the jurisdiction in which the qualified dependant resides.
+[11] The facts admitted and recognized by the Appellant are as clear as the Act and Regulations. There is no doubt that beginning in September 2002, the minor child, Nwiem, was totally dependent upon her mother, who gave her all the care she needed. In other words, she assumed all the responsibilities described in section 6302 of the Regulation, which is reproduced on the preceding page of this judgment.
+[12] Although the Appellant may be concerned for his daughter's welfare, this, unfortunately, is insufficient to qualify for the Canada Child Tax Benefit.
+[13] Doubtlessly aware that his appeal was barred from judicial review, the Appellant insisted that the Court to rule in his favour on humanitarian and compassionate grounds, given the special circumstances of his case.
+[14] The Court must respect the provisions of the Act, which, in this case, unequivocally mandate dismissal of the appeal.
+[15] Consequently the appeal must be dismissed.
+Signed at Ottawa, Canada, this 23rd day of October 2003.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 24th day of March 2004.
+Shulamit Day-Savage, Translator

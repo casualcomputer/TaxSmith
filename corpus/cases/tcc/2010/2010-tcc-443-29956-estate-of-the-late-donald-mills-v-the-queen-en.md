@@ -1,0 +1,301 @@
+---
+title: "Estate of the late Donald Mills v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29956/index.do"
+last_modified: "2010-08-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 443"
+citation2: ""
+neutral_citation: "2010 TCC 443"
+decision_date: "2010-08-26"
+language: "en"
+item_id: "29956"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6441
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:03:50.749000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c14e433b897abcafcb0a9fb9e221af75686b0a72974c07a830ad5a3f1c6e7577"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Estate of the late Donald Mills v. The Queen
+
+- Citation: 2010 TCC 443
+- Decision date: 2010-08-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6441, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Estate of the late Donald Mills v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-08-26
+Neutral citation
+2010 TCC 443
+File numbers
+2008-1622(IT)G
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-1622(IT)G
+BETWEEN:
+ESTATE OF THE LATE DONALD MILLS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on February 15, 2010, at Montréal, Quebec
+Before: The Honourable Justice G. A. Sheridan
+Appearances:
+Counsel for the Appellant:
+Wilfrid Lefebvre
+Vincent Dionne
+Counsel for the Respondent:
+Natalie Goulard
+Susan Shaughnessy
+____________________________________________________________________
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeals from the reassessments under the Income Tax Act for the 1999 to 2002 taxation years are dismissed, with costs to the Respondent; and the appeal from the reassessment under the Act for the 2003 taxation year is allowed and referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to a deduction of $95,765 for accounting fees. Each party shall bear its own costs in respect of the 2003 appeal.
+Signed at Ottawa, Canada, this 26th day of August, 2010.
+“G. A. Sheridan”
+Sheridan J.
+Citation: 2010TCC443
+Date: 20100826
+Docket: 2008-1622(IT)G
+BETWEEN:
+ESTATE OF THE LATE DONALD MILLS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] The Appellant, the Estate of the Late Donald Mills, is appealing the assessment of the Minister of National Revenue of the 1999 to 2003 taxation years; in particular, the Minister’s disallowance of deductions for a bad debt and, in 2003 only, accounting fees.
+[2] At the hearing, counsel advised the Court that they had reached an agreement in respect of a deduction for accounting fees the 2003 taxation year. That matter is dealt with at the end of these Reasons for Judgment.
+[3] As for the bad debt issue, the facts may be summarized as follows: in 2000, the Appellant sold some hi-tech shares to his holding company, receiving in return a promissory note of $11,653,000. To achieve certain tax planning objectives, the Appellant treated that amount as a “deemed dividend” under paragraph 84.1(1)(b) and in accordance with the formula provided for the calculation of its value, included in income $11,222,515 under paragraph 12(1)(j) of the Income Tax Act. By 2002, the hi-tech bubble had burst and the debtor corporation defaulted on the promissory note. The Appellant then claimed the unpaid portion of the promissory note, $10,588,133, as a “bad debt” under subparagraph 20(1)(p)(i) of the Act.
+[4] Additional details are set out in paragraphs 1 to 11 of the Partial Agreed Statement of Facts filed at the hearing:
+1. On May 1st, 2000, the late Donald Mills sold 21,500,000 of the common shares he held in 3748278 Canada Inc. to 100935 Canada Inc. for the purchase price of $11,653,000. At that time, Mr. Mills was the sole shareholder (either directly or indirectly) and director of both 37742878 Canada Inc. and 100935 Canada Inc.
+2. 100935 Canada Inc. paid and satisfied the purchase price for the shares by delivering to Mr. Mills a non-interest bearing demand Promissory Note in the amount of $11,653,000.
+3. 100935 Canada Inc. acquired the shares free and clear of any lien, claim, demand, charge, mortgage, security interest or other encumbrance.
+4. At the time of the disposition, Mr. Mills was not dealing at arm’s length with 100935 Canada Inc. and, immediately after the disposition, 3748278 Canada Inc. was connected to 100935 Canada Inc. pursuant to subsections 84.1(1) and 186(4) of the Income Tax Act.
+5. Paragraph 84.1(1)(b) applied to the disposition, deeming 100935 Canada Inc. to have paid and Mr. Mills to have received a dividend in the amount of $11,222,515 ($11,653,000 minus the cost of the shares). Mr. Mills reported the dividend in computing his income for the 2000 taxation year pursuant to paragraph 12(1)(j).
+6. Between the years 2000 and 2002, the value of the assets of 100935 Canada Inc. depreciated significantly.
+7. After Mr. Mills demanded repayment of the $11,653,000 Promissory Note in October 2002, 100935 Canada Inc. transferred certain assets to Mr. Mills in partial repayment of the note. At the end of the 2002 taxation year, Mr. Mills considered that the balance of the Promissory Note still owing was in the amount of $10,588,133.
+8. In filing his Income Tax Return for the 2002 taxation year, Mr. Mills claimed a deduction pursuant to paragraph 20(1)(p) in the amount of $10,588,133, with respect to the balance owed on the Promissory Note. Of the total amount, $306,590 was applied to the 2002 taxation year. The unused balance of the non-capital loss was carried back to the 1999 and 2000 taxation years, in the amounts of $199,950 and $10,081,593 respectively, pursuant to paragraph 111(1)(a).
+9. Mr. Mills did not carry on any business during the 2000 to 2002 taxation years and more specifically, was not a trader of shares, nor a lender of money.
+10. Mr. Mills was reassessed on July 4th, 2006 to disallow the paragraph 20(1)(p) deduction.
+11. Mr. Mills did not make an election in his return of income for the 2002 taxation year to have subsection 50(1) apply in respect of the Promissory Note.[1]
+…
+[5] The Respondent also called André Dulude, the chartered accountant who advised the late Mr. Mills on the transactions under appeal. Mr. Dulude gave his evidence in a knowledgeable and candid manner. No witnesses were called for the Appellant.
+[6] The relevant legislative provisions are paragraph 84.1(1)(b), paragraph 12(1)(j) and subparagraph 20(1)(p)(i) of the Act.
+[7] Section 84.1 is an anti-avoidance provision aimed at preventing corporations from transferring taxable surplus to connected corporations as a tax-free return of capital[2]. It is triggered when a taxpayer disposes of shares that it holds in one corporation to another corporation with which it does not deal at arm's length. It creates a legal fiction under which the sale of shares that would otherwise give rise to a capital gain are deemed to be a dividend in an amount calculated by statutory formula:
+84.1: Non-arm's length sale of shares.
+(1) Where after May 22, 1985 a taxpayer resident in Canada (other than a corporation) disposes of shares that are capital property of the taxpayer (in this section referred to as the "subject shares") of any class of the capital stock of a corporation resident in Canada (in this section referred to as the "subject corporation") to another corporation (in this section referred to as the "purchaser corporation") with which the taxpayer does not deal at arm's length and, immediately after the disposition, the subject corporation would be connected (within the meaning assigned by subsection 186(4) if the references therein to "payer corporation" and to "particular corporation" were read as "subject corporation" and "purchaser corporation" respectively) with the purchaser corporation,
+…
+(b) for the purposes of this Act, a dividend shall be deemed to be paid to the taxpayer by the purchaser corporation and received by the taxpayer from the purchaser corporation at the time of the disposition in an amount determined by the formula
+(A + D) - (E + F)
+where
+A is the increase, if any, determined without reference to this section as it applies to the acquisition of the subject shares, in the paid-up capital in respect of all shares of the capital stock of the purchaser corporation as a result of the issue of the new shares,
+D is the fair market value, immediately after the disposition, of any consideration (other than the new shares) received by the taxpayer from the purchaser corporation for the subject shares,
+E is the greater of
+(i) the paid-up capital, immediately before the disposition, in respect of the subject shares, and
+(ii) subject to paragraphs 84.1(2)(a) and 84.1(2)(a.1), the adjusted cost base to the taxpayer, immediately before the disposition, of the subject shares, and
+F is the total of all amounts each of which is an amount required to be deducted by the purchaser corporation under paragraph 84.1(1)(a) in computing the paid-up capital in respect of any class of shares of its capital stock by virtue of the acquisition of the subject shares.
+[8] Paragraph 12(1)(j) requires the inclusion in income of dividends paid by a corporation resident in Canada under subdivision h, the statutory home of paragraph 84.1(1)(b):
+SECTION 12: Income inclusions.
+(1) There shall be included in computing the income of a taxpayer for a taxation year as income from a business or property such of the following amounts as are applicable:
+(j) Dividends from resident corporations – any amount required by subdivision h to be included in computing the taxpayers income for the year in respect of a dividend paid by a corporation resident in Canada on a share of its capital stock;
+[9] Subparagraph 20(1)(p)(i) permits the deduction of a “bad debt” from business or property income:
+SECTION 20: Deductions permitted in computing income from business or property.
+(1) Notwithstanding paragraphs 18(1)(a), (b) and (h), in computing a taxpayer’s income for a taxation year from a business or property, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+…
+(p) Bad debts – the total of
+(i) all debts owing to the taxpayer that are established by the taxpayer to have become bad debts in the year and that have been included in computing the taxpayer’s income for the year or a preceding taxation year; and
+Minister’s Position
+[10] In reassessing the Appellant, the Minister disallowed a bad debt deduction under subparagraph 20(1)(p)(i) on the basis that the loss in connection with the promissory note was capital in nature[3]. The appeal proceeded, however, on the footing that paragraph 84.1(1)(b) applied to the Appellant’s sale of the shares so as to convert the proceeds of the disposition from what would otherwise have been a capital gain into income from property.
+[11] Citing the analysis of the Federal Court of Appeal in Terrador Investments Ltd. et al v. R.[4], counsel for the Respondent submitted that by virtue of paragraph 84.1(1)(b) and paragraph 12(1)(j), the Appellant was unable to meet the statutory criteria for a deduction of the unpaid balance of the promissory note as a bad debt under subparagraph 20(1)(p)(i) of the Act.
+[12] Although the Terrador Investments case also concerned a bad debt deduction, the transaction underpinning the taxpayer’s claim arose under subsections 93(1) and 113(1) of the Act. At paragraphs 5 to 8 of his reasons, Décary, J.A. summarized the facts and the operation of these provisions:
+[5] Both Serin Holdings Ltd (“Serin”) and Terrador Investments Ltd. ("Terrador") are corporations resident in Canada. Up to April, 1985, Serin held 100% of the shares of Serin (U.S.) Holdings Ltd. (“Serin (U.S.)”). Serin wished to liquidate its Serin (U.S.) assets and in order to do so with the full benefit of American legislation, it had first to divest itself of at least 20% of the shares of Serin (U.S.). Therefore, on April 19, 1985, Serin transferred 21% of the shares of Serin (U.S.) to Terrador and kept the remaining 79%.
+[6] On April 24, 1985, Serin (U.S.) was liquidated. As partial consideration for the sale of all its properties, Serin (U.S.) received interest bearing promissory notes. At the time of liquidation Serin (U.S.) distributed the promissory notes with a value of (U.S.) $1,661,782.00 and cash in the amount of approximately (U.S.) $117,000.00 to Serin and Terrador as liquidation proceeds in proportion to their shareholdings of Serin (U.S.).
+[7] Serin and Terrador each elected pursuant to subsection 93(1) of the Income Tax Act2 [Footnote 2: L.C. 1970-71-72, c. 63, as. amended.] ("the Act") to deem a portion of their share of the proceeds of disposition on liquidation to be a dividend received from Serin (U.S.). The deemed dividend was equal in amount to the balance of Serin (U.S.)'s “exempt surplus account” as that term is defined in regulation 5907. Upon liquidation the deemed dividends were included in computing the income of Serin and Terrador for the 1985 taxation year as required by subsection 90(1) and paragraph 12(1)(k) of the Act.
+[8] In computing their taxable incomes for the 1985 taxation year, Serin and Terrador each claimed a deduction pursuant to subsection 113(1) of the Act, as the dividend included in their income pursuant to subsection 90(1) and paragraph 12(1)(k) was paid out of the “exempt surplus” of Serin (U.S.).
+[13] When Serin and Terrador were later unable to collect in full on the promissory notes, they attempted to deduct the outstanding balance as a bad debt under subparagraph 20(1)(p)(i). The Federal Court of Appeal dismissed their appeal on the following basis:
+[18] Once a taxpayer has voluntarily elected, pursuant to subsection 93(1), to treat part of the proceeds of disposition comprised of some cash and of some promissory notes, as a "deemed dividend received", the cash and parts of the promissory notes at issue loose their identity "for the purposes of this Act". When the deemed dividend is included in the taxpayer's income pursuant to paragraph 12(1)(k), it is included as a "paid" dividend, not as cash and parts of promissory notes. And it is only as a "received" dividend that if may afterwards be deducted from the taxpayer's taxable income pursuant to subsection 113(1).
+[19] The "deemed dividend" being said by the Act to have been "paid" and "received", it cannot at the same time be a "doubtful debt" or a "bad debt". What is deemed to have been paid cannot also be said to be due. The taxpayer cannot have its cake and eat it, too. Once it elects to treat proceeds of disposition as paid dividends rather than as cash and promissory notes, the proceeds find their way into its income through paragraph 12(1)(k). The proceeds of disposition cannot then make their way into the taxpayer's income as a reserve for doubtful debts nor as bad debts. Paragraphs 20(1)(l) and (p) of the Act cannot come into play because it cannot be said that the debts reflected in the promissory notes have not been included as such in the taxpayer's income.
+[20] It would not only be wrong in law to equate the "deemed dividend" with the promissory notes, it would also be wrong in fact. The proceeds of liquidation, in the case at bar, consisted of some cash and of promissory notes. In its election the taxpayer designated an amount which was less than the total value of the proceeds. As a result only an unspecified portion of the cash and promissory notes received were designated as a deemed dividend. The taxpayer eventually recovered part of the promissory notes. However, as the taxpayer had designated an amount less than the total value of the proceeds, it is unclear the extent to which the amounts recovered were from the promissory notes which were deemed dividends. It is therefore not possible to suggest that the deemed dividend and the promissory notes are one and the same.
+[14] Following the logic of Terrador Investments, counsel for the Respondent argued, an amount deemed under the Act to be a “dividend” that had been “paid to” and “received by” a taxpayer under paragraph 84.1(1)(b) cannot also be said to have been a “debt” within the meaning of subparagraph 20(1)(p)(i). To be eligible to claim a bad debt under subparagraph 20(1)(p)(i), the Appellant must be able to establish that the amount included in income in 2000 was a “debt”. This the Appellant could not do since by virtue of paragraph 84.1(1)(b), what was included in income in 2000 was deemed to be a “dividend”; hence, its inclusion under paragraph 12(1)(j).
+[15] Finally, in support of the Minister’s position that the promissory note and the deemed dividend are not, in law, the same thing, counsel for the Respondent referred to the formula in paragraph 84.1(1)(b) for the determination of the amount of the “deemed dividend”, arguing that the value of the promissory note was but one factor in that calculation. She made the further point that even had the Appellant not triggered paragraph 84.1(1)(b) and the proceeds of disposition of the sale of the shares been included in income under subdivision c, what would have been included in income was the gain realized, not the value of the promissory note itself.
+Appellant’s Position
+[16] Counsel for the Appellant rejected this line of reasoning, arguing that Terrador Investments was distinguishable from the present matter on both the facts and the law.
+[17] First, counsel submitted, the relevant provisions in each case operate quite differently: in Terrador Investments, the deeming of the dividend was a matter of election; here, it was mandatory as soon as the conditions of paragraph 84.1(1)(b) were satisfied.
+[18] Further, because of the tandem operation of subsections 93(1) and 113(1), Terrador Investments had already received a deduction for the amount it was also seeking to claim as a bad debt. There is no risk of a double deduction in the present matter that would make the Appellant’s claim offensive on that score. Indeed, counsel submitted, to accept the Minister’s position would result in an “injustice” as the Appellant had reported and been taxed on an amount which, in the end, was never actually received.
+[19] A final and significant distinction, according to counsel for the Appellant, lay in the fact that the promissory note was received by the Appellant in full payment of the share purchase price. In Terrador Investments, the Federal Court of Appeal noted that the taxpayer had designated an amount less than the total value of the proceeds from the liquidation of the shares, leading Décary J.A. to conclude that “… only an unspecified portion of the cash and promissory notes received were designated as a deemed dividend”[5] and therefore, it was “… not possible to suggest that the deemed dividend and the promissory notes are one and the same”[6].
+[20] In the present case, counsel contended, paragraph 84.1(1)(b) “… says that a dividend is paid … deemed to have been paid equal to the consideration received. And the consideration received, of course, was the note”[7]. There being no dispute that the promissory note was the sole consideration for the shares, the deemed dividend and the promissory notes were “one and the same”, thus sidestepping the factual difficulties in Terrador Investments. The full amount of the promissory note having been duly included in income under paragraph 12(1)(j) and there being no question that the debtor corporation defaulted on the payment of some $10 million of the total amount of the promissory note, the outstanding balance ought to be deductible under subparagraph 20(1)(p)(i).
+Analysis
+[21] In my view, the analysis in Terrador Investments is equally applicable to the Appellant’s circumstances.
+[22] Turning first to matter of election, while it is true that paragraph 84.1(1)(b) lacks the elective quality of subsection 93(1), the Appellant’s decision to unleash it was nonetheless entirely a matter of choice. As mentioned above, paragraph 84.1(1)(b) is an anti‑avoidance tool normally invoked by the Minister to assess for amounts stripped out of a non-arm’s length corporation. Here, it was the Appellant’s decision to trigger its application to produce dividend income for certain tax planning purposes rather than taking advantage of the rollover provisions. As Mr. Dulude explained it:
+[97] Q. So, why was it advantageous for him to sell these shares and trigger an 84.1 deemed dividend, as opposed to just rolling them over?
+A. I think it was because there was a … the company had refundable tax on end, so a significant part of corporate tax have been paid, and there was a significant amount of corporate tax which is called “refundable tax on end”, and that tax is repaid to the corporation when the corporation pays a dividend to a shareholder. So, it was … it was advisable to structure the transaction that way, so that the corporation could get a refund that … it … of taxes that it had already paid on transactions, on par transactions. And so, he would pay tax on the dividend, but the company would get a refund of taxes paid on par transactions, so …[8]
+[23] On cross-examination, Mr. Dulude provided the following additional clarification:
+[99] …
+Q. Just a few questions. You … just picking up on the last point, you say that Mr. Mills did report the amount of the deemed dividend in computing his income for the 2000 taxation year?
+A. Yes, he did.
+[100] Q. Did he pay full tax on such amount?
+A. Yes, paid the taxes.
+[101] Q. The “party to a wage” concept to which you refer, am I correct that we’re talking about the provisions of sections 129(1) and 129(3) of the Act, that’s the mechanism provided under those provisions?
+A. Yes, I think so.
+[102] Q. And the refundable portion that is … that can be obtained by a company as a result of paying a taxable dividend, does that … all taxes paid by the company or just a portion, such …
+A. Just a portion.
+[103] Q. Just a portion, as provided under that legislation?
+A. Yes.
+[104] Q. Now, in all the transactions that my friend has described, apart from the one that is at issue before the Court, the rollover that was made in the other transactions with the numbered company on a full taxable basis, was that challenged in any way by the Canada Revenue Agency?
+A. No.[9]
+[24] While it is correct that once the Appellant triggered paragraph 84.1(1)(b) by fulfilling the relevant statutory criteria its operation became mandatory, he was under no obligation to do so. In that regard, he was in the same position as the taxpayers in Terrador Investments but once having made their election under subsection 93(1), they were similarly bound by their choice.
+[25] Had the Appellant not chosen to convert the capital gain into a deemed dividend, when the debtor corporation later defaulted on the promissory note, that loss could have been recognized under the provisions of subdivision c dealing with taxable capital gains and allowable capital losses. For his own reasons, however, the late Mr. Mills removed himself from that regime by triggering paragraph 84.1(1)(b). While doing so may not have been offensive to the Act, the practical result was to bar the Appellant from recourse to the provisions designed to alleviate the very difficulties later faced. In these circumstances, to label the result an injustice is, with respect, a little overstated.
+[26] Turning, then, to counsel’s final submission, it is not entirely accurate to say that the amount of the deemed dividend is “equal”[10] to the amount of the promissory note. Paragraph 84.1(1)(b) provides a formula for the calculation of the amount of the deemed dividend, only one variable of which is “any consideration” received by the taxpayer from the purchaser corporation for the subject shares. The use of the word “any” suggests that the legislation is indifferent to the forms that consideration may take. Depending on the variables in any particular case, the amount of the deemed dividend might work out to be equal to the consideration received but that calculation, in itself, would not prevent paragraph 84.1(1)(b) from converting the gain realized, regardless of its form of payment, into a “deemed dividend”.
+[27] In the present matter, even counsel for the Appellant acknowledged that under the formula, the amount of the promissory note included as consideration under “D” was somewhat reduced by the subtraction of the adjusted cost base under “E”. Thus, even if I accepted counsel’s legal characterization of the promissory note, the Appellant would be no more able than the taxpayers in Terrador Investments to make a precise factual correspondence between it and the deemed dividend. But in any case, as I read Terrador Investments, that factual incongruity was merely supplementary to the legal impossibility of an amount being simultaneously “paid” and “due”, exactly the difficulty faced by the Appellant in the present matter.
+[28] To borrow from the analysis of Décary, J.A., then, once the Appellant voluntarily decided, under paragraph 84.1(1)(b), to treat the promissory note received in absolute payment for the shares as a “deemed dividend” paid to and received by him, the promissory note lost its identity “for the purposes of this Act”. Thus excluded from the capital gains regime of the Act, the promissory note became relevant only as a factor in the calculation of the value to be ascribed to the deemed dividend. From this it follows that what was included in income in 2000 under paragraph 12(1)(j) was a dividend, deemed by paragraph 84.1(1)(b) to have been fully paid, not a “debt” as required by subparagraph 20(1)(p)(i). In the words of Décary, J.A. above, “What is deemed to have been paid cannot also be said to be due”.
+[29] The Appellant is thus unable to establish that the unpaid amount of the promissory note was “a debt owing” to him that was included in income, an element fundamental to a his claim for a deduction under subparagraph 20(1)(p)(i). Accordingly, the Appellant is not entitled to a bad debt deduction under that provision and the appeals of the 1999 to 2002 taxation years are dismissed, with costs to the Respondent.
+[30] In respect of the 2003 taxation year, at the commencement of the hearing, counsel advised that the parties had agreed that the Appellant was entitled to accounting fees in his 2003 taxation year of $95,765[11] in accordance with paragraphs 12 and 13 of the Partial Agreed Statement of Facts:
+Accounting fees
+12. In filing his Income Tax Return for the 2002 taxation year, Mr. Mills claimed a deduction for accounting fees in the amount of $133,215 by submitting 4 invoices detailed as follows:
+Invoice Date
+Description
+Amount
+Total
+14 May 20026
+- Monthly accounting fees
+(January to April 2002)
+- Preparation of 2001 tax return
+- GST
+$20,000
+$8,000
+$1,960
+$29,960
+28 June 20027
+- Monthly accounting fees
+(November 2001 to May 2002)
+- GST
+$15,000
+$1,050
+$16,050
+4 April 20038
+- Planning, Research
+re: 20(1)(p)
+- GST
+$52,500
+$3,675
+$56,175
+20 April 20039
+- Preparation of 2002 return for Mr. Mills & spouse
+- Monthly accounting fees
+(June to December 2002)
+- GST
+$14,000
+$15,000
+$2,030
+$31,030
+GRAND TOTAL: $133,215
+6 Invoice of May 14, 2002, Exhibit A-5.
+7 Invoice of June 28, 2002, Exhibit A-6.
+8 Invoice of April 4, 2003, Exhibit A-7.
+9 Invoice of April 20, 2003, Exhibit A-8.
+13. In reassessing Mr. Mills for his 2002 taxation year, the Minister only allowed $37,450 of the $133,215 claimed, as follows:
+Date Invoice
+Description
+Amount
+Total
+14 May 2002
+- Monthly accounting fees
+(January to April 2002)
+- Preparation of 2001 tax return
+- GST
+$20,000
+0
+$1,400
+$21,400
+28 June 2002
+- Monthly accounting fees
+(November 2001 to May 2002)
+- GST
+$15,000
+$1,050
+$16,050
+4 April 2003
+- Planning, Research
+re: 20(1)(p)
+- GST
+0
+0
+0
+20 April 2003
+- Preparation of 2002 return for Mr. Mills & spouse
+- Monthly accounting fees
+(June to December 2002)
+- GST
+0
+0
+0
+0
+GRAND TOTAL: $37,450
+[31] The appeal of the 2003 taxation year is allowed accordingly. Each party shall bear its own costs in respect of the 2003 appeal.
+Signed at Ottawa, Canada, this 26th day of August, 2010.
+“G. A. Sheridan”
+Sheridan J.
+CITATION: 2010TCC443
+COURT FILE NO.: 2008-1622(IT)G
+STYLE OF CAUSE: ESTATE OF THE LATE DONALD MILLS AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: February 15, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice G. A. Sheridan
+DATE OF JUDGMENT: August 26, 2010
+APPEARANCES:
+Counsel for the Appellant:
+Wilfrid Lefebvre
+Vincent Dionne
+Counsel for the Respondent:
+Natalie Goulard
+Susan Shaughnessy
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Wilfrid Lefebvre
+Vincent Dionne
+Firm: Ogilvy Renault
+Montréal, Quebec
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Original footnotes deleted from the text.
+[2] Desmarais v. Her Majesty the Queen, 2006 TCC 44. (T.C.C.).
+[3] Reply to the Notice of Appeal, assumed fact at paragraph 15(j).
+[4] [1999] 3 C.T.C. 520. (F.C.A.).
+[5] Above, at paragraph 20.
+[6] Above.
+[7] Transcript, page 50, lines 15-17, inclusive.
+[8] Transcript, page 33, lines 15-25 and page 34, lines 1-4, inclusive.
+[9] Transcript, page 34, lines 11-25 and page 35, lines 1-12, inclusive
+[10] Transcript, page 50, line 16.
+[11] Transcript, page 4, lines 14-26 to page 6, lines 1-13, inclusive. See also paragraphs 12 and 13 of the Partial Agreed Statement of Facts.

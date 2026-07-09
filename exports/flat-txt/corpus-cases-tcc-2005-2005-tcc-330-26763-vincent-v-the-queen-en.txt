@@ -1,0 +1,222 @@
+Title: Vincent v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26763/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-330-26763-vincent-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-03-31
+
+# Vincent v. The Queen
+
+- Citation: 2005 TCC 330
+- Decision date: 2005-03-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3509, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vincent v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-03-31
+Neutral citation
+2005 TCC 330
+File numbers
+2003-1031(IT)G
+Judges and Taxing Officers
+Pierre Archambault
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2005TCC330
+Date: 20051011
+Docket: 2003-1031(IT)G
+BETWEEN:
+CHRISTIAN VINCENT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+(Delivered orally at the hearing at Montréal, Quebec, on March 24, 2005,
+and amended for greater clarity and precision.)
+Archambault J.
+[1] Christian Vincent is appealing from reassessments made by the Minister of National Revenue (the Minister) under the Income Tax Act (the Act) in respect of the 1995, 1996 and 1997 taxation years (the relevant period). He objects to the Minister's addition of $35,000 of unreported income to each of the taxation years in issue. At the beginning of the hearing, counsel for the Respondent acknowledged that the reassessments had not been made within the normal reassessment period. In addition, the Minister imposed penalties under subsection 163(2) of the Act.
+[2] In issuing his assessments, the Minister made certain factual assumptions that are set out in paragraph 24 of the Reply to the Notice of Appeal:
+[TRANSLATION]
+(a) The Appellant began working for the payor Howmet Cercast (Canada) Inc. on January 5, 1970.
+(b) The Appellant held various positions over the years: toolmaker, supervisor and workshop supervisor.
+(c) In 1994, he accepted the position of subcontracting manager and held this position until August 10, 1998, when he was dismissed.
+(d) The position of subcontracting manager consisted of finding suppliers to manufacture cast parts, and finding toolmakers to make the tools.
+(e) The Appellant was paid roughly $75,000 a year as subcontracting manager during the years 1995, 1996 and 1997.
+(f) Aside from his position, the Appellant made industrial designs and designed tools ("hereinafter "industrial designs") for suppliers.
+(g) The suppliers paid the Appellant for these industrial designs.
+(h) The suppliers always paid cash for the Appellant's industrial designs.
+(i) The amounts received for industrial designs were not reported to the tax authorities.
+(j) The Appellant admitted under oath to Labour Standards Commissioner Michel Denis that he received between $30,000 and $40,000 a year from 1995 to 1997 for industrial designs done for suppliers of the payor.
+(k) This admission before the Commission des normes du travail is an extrajudicial admission before the Tax Court of Canada.
+(l) The changes made to the tax returns for the years 1995, 1996 and 1997 are further to a decision made by the Commission des normes du travail in an unust dismissal complaint brought by the Appellant.
+(m) Labour Standards Commissioner Michel Denis stated as follows in his decision:
+[TRANSLATION]
+… [the Appellant] states that he received $30,000 to $40,000 per year in total from all the suppliers for such [industrial design] work during the years 1995 to 1997. . . The complainant states that this income was not reported for tax purposes, that it was the subject of an oral agreement and that it was not a hobby. Later on, he said that he was always paid in cash because his salary was high enough and to avoid taxes, which are the only thing that prevents him from sleeping.
+(n) The audit section of the Canada Customs and Revenue Agency assessed the average of the amounts that the labour standards commissioner was told were unreported income, specifically $35,000 for each of the 1995, 1996 and 1997 taxation years.
+(o) The unreported income for the years 1995 to 1997 is as follows:
+1995
+1996
+1997
+Reported gross income
+$73,293
+$74,131
+$73,425
+Unreported gross income
+$35,000
+$35,000
+$35,000
+Total income
+$108,293
+$109,131
+$108,425
+RRSP
+$5,400
+$10,800
+$12,460
+Support payments
+$21,996
+$23,400
+$23,400
+Total deductions
+$27,396
+$34,200
+$35,860
+Revised taxable income
+$80,897
+$74,931
+$72,565
+(p) By failing to report income of $35,000 for each of the years 1995, 1996 and 1997, the Appellant knowingly, or in circumstances warranting a finding of gross negligence, made a false representation or omission in the federal income tax returns that he filed for the taxation years in issue, or participated in, assented to or acquiesced in the making of such false statement or omission, and consequently, the tax that he was purportedly required to pay based on the information provided in the federal income tax returns filed for the years in issue was less than the amount payable for those years.
+(q) Because of this failure to report his entire income for the 1995, 1996 and 1997 taxation years, the Minister, in his notices of assessment dated May 27, 2002, imposed a penalty of $4,321 for the 1995 taxation year, $4,200 for the 1996 taxation year and $4,153 for the 1997 taxation year, in accordance with subsection 163(2) of the Income Tax Act (hereinafter "the Act").
+(r) Upon filing his tax returns for the 1995, 1996 and 1997 taxation years, the Appellant made misrepresentations of fact attributable to negligence, carelessness or wilful default, so the Minister issued the notices of reassessment dated May 27, 2002, for the 1995, 1996 and 1997 taxation years, in accordance with subparagraph 152(4)(a)(i) of the Act.
+[3] In his reply, Mr. Vincent admitted to the facts in subparagraphs 24(a), (b), (e), (f), (g) and (h). In light of the evidence before me, or the fact that Mr. Vincent did not adduce any evidence to the contrary, the facts in subparagraphs 24(c) (subject to Mr. Vincent's amendment to the effect that he accepted the position in late 1994) as well as in (d), (i), (j), (k), (l), (m), (n), and (o) are considered admitted. As for subparagraphs 24(p) through (r), these are facts which the Minister had the onus to prove and I reserve my comments on this question for my analysis below.
+[4] Mr. Vincent's testimony, and the documentary evidence submitted during his examination by counsel for the Respondent, uncovered additional facts. Let us begin with Exhibit I-1, the transcript of Mr. Vincent's testimony before a labour commissioner in connection with his complaint under section 124 of the Act respecting labour standards, by which he sought resinstatement to his position at Howmet Cercast Canada Inc. following his August 1998 dismissal. During this testimony, he was asked to [TRANSLATION] "provide a ballpark amount for [what he] had billed [for alleged industrial design services] to Mr. Inchausti, the president of Inviplax."[1] Mr. Vincent replied: [TRANSLATION] "I am unable to do so. In fact, I never billed. . . . As I said, payment was always made in cash." The labour commissioner did not consider this answer satisfactory:
+[TRANSLATION]
+Q . . . Was it a billion a year, a million a year, a hundred thousand, ten bucks a year, a hundred bucks, a thousand bucks?
+[Mr. Vincent]
+. . .
+A O.K. Well I'd say less than $50,000 a year, but not just from that individual. From Mr. Enrique and other individuals as well.
+. . .
+Q . . . you are saying less than $50,000 per year for everyone.
+A Yes. It could have been $10,000, just as it could have … that year … it was looking very good because in six months, I may have earned $30,000.
+Commissioner MICHEL DENIS:
+Q But when you say less than fifty thousand, but what you made was in the ballpark of thirty to forty thousand a year. That is my understanding.
+A Yes.
+Q Am I mistaken?
+A No, that would be pretty realistic.[2]
+[Emphasis added.]
+[5] Somewhat later during the same examination, Mr. Vincent gave the following answers:[3]
+Commissioner MICHEL DENIS:
+Q So you've been doing this each year since '95, correct?
+A Yes. One could even say since '93 (inaudible).
+JACQUES ROUSSE, COUNSEL FOR THE RESPONDENT
+Q And how did he pay you?
+A Always in cash. I always did it in cash. Why? Because my salary was high enough. I don't declare it. Why be penalized with taxes? That's the only thing that I fault myself for, and that keeps me from sleeping. The rest doesn't keep me from sleeping, that you can be certain of, Sir.
+A Have you received money for something other than work that you did on behalf of…
+R No. No. I only received money for the work that I did at home, as I've repeated several times. . . .
+[Emphasis added.]
+[6] At paragraphs 67-70 of his decision, the labour commissioner provided the following statement of facts:[4]
+[TRANSLATION]
+[67] The complainant never notified the Respondent that he did work at home for suppliers. His justification for his conduct is that the Respondent did not follow up on the contract that he had with the previous owner, and which provided that the complainant's services were exclusive and granted the complainant a large annual bonus and a car, so he felt free to use his spare time as he saw fit.
+[68] He says that Inviplax, one of the aforementioned suppliers, gave him money for design jobs, among other things. He specifies that the cost of three of these jobs, within the first six months of 1998, was approximately $30,000.
+[69] He says that he received a total of $30,000 to $40,000 per year for such jobs during the years 1995 through 1997 from all suppliers.
+[70] The complainant says that this income was not reported on his tax returns, that they were the subject of an oral agreement, and that they constituted as hobby. Later, he said that he was always paid cash because his salary was high enough and to avoid taxes, which are the only thing that keeps him awake at night.
+[Emphasis added.]
+[7] During his testimony, Mr. Vincent also noted that he was charged with receiving secret commissions paid by some of his employer's suppliers. After a lengthy judicial saga, Mr. Vincent was convicted on four charges in a trial by jury in the Quebec Superior Court. The first charge concerned the payment of secret commissions by a corporation called Sobacor Inc. These commissions amounted to $80,000 for the period from 1995 to 1997. The second charge also pertained to secret commissions, but no amount was mentioned. The third charge concerned $20,000 in secret commissions paid by Arnoldi Tool & Die Inc. and the fourth pertained to $10,000 in secret commissions paid by a corporation called Usinages Altec. In all, this represented at least $110,000 in secret commissions.
+[8] Mr. Vincent said that he did not appeal from the Superior Court decision because the sentence imposed on him did not involve jail time. The Superior Court imposed a one‑year suspended sentence with an obligation to perform community service.
+[9] Based on Mr. Vincent's arguments and, on his testimony, it is clear that he is not contesting the fact that he received money that he did not report as income, and that he could be subject to penalties under the Act. He is fundamentally opposed to the amount of each assessment, namely $35,000. As we have seen, the Minister assumed that this amount was correct and it corresponds to the average annual amount of $30,000–$40,000 for services rendered, which Mr. Vincent acknowledged receiving when he testified before the labour commissioner.
+[10] During Mr. Vincent's testimony before me, it also emerged that his position at the criminal trial was that the secret commissions were fees for services rendered. However, he acknowledged that the persons alleged to have paid the fees denied receiving any services from Mr. Vincent.
+[11] To report his income for the relevant period, Mr. Vincent retained the services of a tax-return preparation company but did not disclose to the company the money he received as secret commissions or fees for purported design services. In addition, he acknowledged that he did not ask the company in question about his potential obligations to disclose and report this income. Mr. Vincent's justification for his conduct is that he did not receive a T4 form from the persons who paid him the amounts in question, and, consequently, he did not believe that he was required to report the income.
+[12] The evidence also disclosed that Mr. Vincent did not contact the tax authorities to inquire about his obligation to report the amounts received as secret commissions or as remuneration for industrial design services. The only efforts that Mr. Vincent undertook in this regard were subsequent to the filing of his income tax returns for the relevant period. In fact, the only time that Mr. Vincent requested information from the tax authorities was following the receipt, in July 1999, of what he called false T4 information slips.
+Analysis
+[13] First of all, it is important to mention that, since the assessments were not made within the normal period of assessment, the Minister could only make them if he could show — as required by paragraph 152(4)(a) of the Act — that the taxpayer made a misrepresentation attributable to neglect, carelessness or wilful default or committed fraud in filing his return or in supplying any information under the Act. And it is settled law that the relevant time for determining whether a person has made a misrepresentation attributable to neglect, carelessness or wilful default in his tax return must be the time that the return was filed.
+[14] In Estate of the late Cléophas Saint-Aubin v. R., 2003 CarswellNat 2624, 2003 TCC 608, 2003 DTC 1085, I cited the decisions in Venne v. Canada, [1984] F.C.J. No. 314 (QL) and Nesbitt v. Canada., [1996] F.C.J. No. 1470 (QL). In Nesbitt, Strayer J.A. of the Federal Court of Appeal stated as follows at paragraph 8:
+. . . Whether or not there is misrepresentation through neglect or carelessness in the completion of a return is determinable at the time the return is filed. A misrepresentation has occurred if there is an incorrect statement on the return form, at least one that is material to the purposes of the return and to any future reassessment.
+[Emphasis added.]
+In the same paragraph, Strayer J.A. even added:
+. . . It remains a misrepresentation even if the Minister could or does, by a careful analysis of the supporting material, perceive the error on the return form.
+[15] Here, the Minister also had the burden of proving the facts justifying the imposition of a penalty under subsection 163(2) of the Act. This penalty applies to any person who, knowingly, or under circumstances amounting to gross negligence, makes a false statement or omission in his income tax return.
+[16] Venne is another case in which the burden on the Minister to establish the relevant facts warranting the imposition of a penalty was described. It is noteworthy that this decision is cited by Isaac J.A. of the Federal Court of Appeal in Findlay v. Canada, [2000] F.C.J. No. 731 (QL). In particular, the following excerpt, which addresses gross negligence within the meaning of subsection 163(2) of the Act, is quoted:
+. . . 'Gross negligence' must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not.
+[17] To sum up, the Respondent has the burden of proving the existence of the elements necessary to make the assessments outside the normal assessment period and to justify the penalties imposed.
+[18] If the Minister succeeds in this task, Mr. Vincent has the onus of proof with respect to the amount of the assessments. Several decisions have applied this principle, including Jencik v. Her Majesty the Queen, T.C.C., 2003‑1836(IT)I, April 20, 2004, [2004] T.C.J. No. 202 (QL), 2004 TCC 295, cited by counsel for the Respondent. At paragraph 11 of the decision, Bonner J. wrote:
+The well-known rule which places on the taxpayer the onus of establishing that facts as found or assumed or assessment are incorrect does not apply in appeals from statute-barred reassessments unless the Minister first establishes facts which show that he was entitled to reassess when he did.
+[Emphasis added.]
+[19] The evidence must now be analysed in light of these principles. A great deal of the proof has been made by means of Mr. Vincent's judicial and extrajudicial admissions.
+[20] To my knowledge, the Tax Court of Canada Act and the Tax Court of Canada Rules (General Procedure) do not address the question of admissions. Since the Act and Rules are silent, we must rely on section 40 of the Canada Evidence Act, which states as follows:
+40. In all proceedings over which Parliament has legislative authority, the laws of evidence in force in the province in which those proceedings are taken, including the laws of proof of service of any warrant, summons, subpoena or other document, subject to this Act and other Acts of Parliament, apply to those proceedings.
+[21] Since Mr. Vincent's appeal was filed in Quebec, one must refer to the rules of evidence contained in the Civil Code of Québec (C.C.Q.), and, in particular, the rules regarding proof, notably admissions. Article 2850 C.C.Q. defines an admission as "the acknowledgement of a fact which may produce legal consequences against the person who makes it." According to article 2851, "[a]n admission may be express or implied." Article 2852 C.C.Q. states: "An admission made by a party to a dispute . . . makes proof against him if it is made in the proceeding in which it is invoked. . . . The probative force of any other admission is left to the appraisal of the court."
+[22] The scholarly writing and the case law draw a distinction between judicial and extrajudicial admissions. The former category includes admissions made in the course of proceedings, such as Mr. Vincent's admission, in the instant proceedings, that he received moneys that he did not report as part of his income. The admission made before the labour commissioner is an extrajudicial admission. The judicial admission made before me constitutes probative proof. The extrajudicial admission made before the labour commissioner is an admission the probative force of which is left to my appraisal.
+[23] It is helpful to reproduce the following comment made by Professor Léo Ducharme in Précis de la preuve, 5th ed. (Montréal: Wilson & Lafleur, 1996), at paragraphs 703-04, a comment cited with approval by the Quebec Court of Appeal in Rhéaume v. Economical, Cie d'assurance, [1999] Q.J. No. 5795 (QL), at paragraph 15:
+[TRANSLATION]
+[. . .] Indeed, article 2852 C.C.Q. draws a very clear distinction between the probative force of a judicial admission and the probative force of an extrajudicial admission. [. . .]
+[. . .] However, a court should not be able to dismiss an extrajudicial admission by a party without a valid reason since any statement in which a person admits to a fact that is against his interests in presumed to be true. Under these conditions, it makes sense that a person who has made a statement of this kind should have to show why the court should not believe it.
+[Emphasis added.]
+[24] Mr. Vincent objected to the admissibility of his extrajudicial admission based on various grounds. Firstly, he cited section 13 of the Canadian Charter of Rights and Freedoms (the Charter), which states:
+A witness who testifies in any proceedings has the right not to have any incriminating evidence so given used to incriminate that witness in any other proceedings, except in a prosecution for perjury or for the giving of contradictory evidence.
+[Emphasis added.]
+[25] In my opinion, this provision does not apply here, because the issue is whether the Minister's assessment is valid. An assessment of tax owed by a taxpayer is not an incrimination of the taxpayer; it is merely a determination of the amount of his tax liability to the Minister of National Revenue. In fact, this was the conclusion reached by my colleague Bédard J. in Bisaillon v. Canada, 2005 TCC 117, [2005] T.C.J. No. 13 (QL), where he found that the penalties set out in subsection 163(2) of the Act are not a criminal or penal consequence within the meaning of section 11 of the Charter, paragraph (a) of which states: "Any person charged with an offence has the right (a) to be informed without unreasonable delay of the specific offence. [. . .] "
+[26] Thus, it can be seen that sections 11 and 13 are provisions intended to protect the vital rights of Canadians, such as the right under section 7 of the Charter to life, liberty and the security of the person, and the right under section 9, which states that "everyone has the right not to be arbitrarily detained or imprisoned."
+[27] A tax assessment is not an infringement of liberty; it is solely a determination of whether a person owes tax to the tax authority.
+[28] Mr. Vincent also invoked section 5 of the Canada Evidence Act, which provides:
+(1) No witness shall be excused from answering any question on the ground that the answer to the question may tend to criminate him, or may tend to establish his liability to a civil proceeding at the instance of the Crown or of any person.
+(2) Where with respect to any question a witness objects to answer on the ground that his answer may tend to criminate him, or may tend to establish his liability to a civil proceeding at the instance of the Crown or of any person [. . .] then [. . .] the answer so given shall not be used or admissible in evidence against him in any criminal trial or other criminal proceeding . [. . .]
+[29] I believe that there are several reasons to reject this argument advanced by Mr. Vincent. However, it is sufficient, in my view, to mention the most obvious one: In order for the evidence of Mr. Vincent's admission before the labour commissioner to be inadmissible, it would have been necessary for Mr. Vincent to object to answering the labour commissioner's questions. Mr. Vincent acknowledged before me that he never objected to answering the question that resulted in the admission, and, in fact, a reading of the relevant passages of the transcript of his testimony (Exhibit I‑1) shows this.
+[30] In conclusion, the extrajudicial admission made before the labour commissioner is admissible proof in this Court, and, in light of the context in which it was made and the evidence that I heard at the hearing, I find that it is probative as well.
+[31] My understanding of the events that occurred during the relevant period is as follows. The amounts that Mr. Vincent claims were remuneration for industrial design services were, in all likelihood, secret commissions that he received, and the fact that he was convicted by a jury on four charges of receiving secret commissions totalling at least $110,000 is additional proof based on which it can be concluded that he received amounts that he did not report as income.
+[32] On the preponderance of the evidence, and having regard, in part, to Mr. Vincent’s admission that he received amounts totalling at least $105,000, which is the amount of the Minister's assessments, it is clear from Mr. Vincent's testimony that he not only did not report these amounts, but also that he knew he should report them: [TRANSLATION] "That's the only thing that I fault myself for, and that keeps me awake at night." In my opinion, his explanation that he did not receive any T4 slips is just an excuse on his part, and one that cannot be accepted in this case. The evidence in this appeal seems much clearer to me than the evidence in many other appeals heard by this Court.
+[33] Since I have found that Mr. Vincent did not report his income voluntarily, one of the conditions necessary for the application of the penalty has been fulfilled: knowingly, or under circumstances amounting to gross negligence, he made a false statement in his return. If the omission was not wilful, it was certainly made under circumstances amounting to gross negligence, that is to say, a deliberate action, an indifference as to whether the Act is complied with or not.
+[34] Proof of the amount of the unreported income giving rise to the penalties, namely $35,000 for each of the years in issue, was made in two ways: through the extrajudicial admission in which Mr. Vincent acknowledged that he earned an average of $30,000 – $40,000 of additional income per year during the relevant period; and through the fact that a jury found him guilty, beyond reasonable doubt, of receiving $110,000 in secret commissions. Proof beyond reasonable doubt is a standard of proof that is much higher than the standard required in this Court. The amount established by the Minister in his assessments is $5,000 lower than the amount set out in the charges. It seems entirely clear to me, on a balance of probabilities, that the amounts in the assessments constitute income earned in each of the taxation years contemplated by those assessments.
+[35] In view of my finding that Mr. Vincent wilfully omitted to report $35,000 in income per year, the penalties are completely justified. Plainly, the Minister was entitled to assess the Appellant accordingly beyond the normal reassessment period, since there was a misrepresentation attributable to neglect, carelessness or wilful default. Thus, all the requisite conditions for making the assessments have been met. Mr. Vincent's conduct in the preparation and filing of the income tax returns is sufficient to warrant the assessments made outside the normal reassessment period.
+[36] The main reason that Mr. Vincent brought an appeal before this Court was not to deny that he failed to report all his income, but to challenge the amount of the Minister's assessments. He argued that it was up to the auditor to go and question the suppliers in order to determine the actual amount that he was paid. However, as we have seen, the authorities have continuously and consistently stood for the proposition that this is the taxpayer's task. It is up to the taxpayer to disprove the facts on which the Minister relied in establishing the amount of the assessment. And one of the facts on which the Minister relied was that Mr. Vincent earned $35,000 in additional income per year. The burden was on Mr. Vincent to prove that this amount was wrong. Since he did not adduce contrary evidence to disprove the fact in question — and he acknowledged this failure, because he did not keep any accounting records that could establish the precise amount of additional income earned in each of the relevant years — Mr. Vincent did not show that the Minister's assessments were wrong.
+[37] For these reasons, Mr. Vincent's appeals with respect to the 1995, 1996 and 1997 taxation years are dismissed, with costs to the Minister.
+Signed at Ottawa, Canada, this 11th day of October 2005.
+"Pierre Archambault"
+Archambault J.
+Translation certified true
+on this 23rd day of March, 2006.
+Garth McLeod, Translator.
+CITATION:
+2005TCC330
+COURT FILE NO.:
+2003-1031(IT)G
+STYLE OF CAUSE:
+CHRISTIAN VINCENT AND THE QUEEN
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+March 24, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Pierre Archambault
+DATE OF JUDGMENT:
+March 31, 2005
+DECISION DELIVERED ORALLY:
+March 24, 2005
+REASONS FOR JUDGMENT:
+October 11, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Julie David
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Page 88 of the transcript.
+[2] Ibid., at pages 89‑90.
+[3] Ibid., at pages 156‑57.
+[4] See Exhibit I‑2.

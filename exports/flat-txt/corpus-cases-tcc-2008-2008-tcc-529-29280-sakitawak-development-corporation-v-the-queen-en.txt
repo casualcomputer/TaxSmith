@@ -1,0 +1,327 @@
+Title: Sakitawak Development Corporation v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29280/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-529-29280-sakitawak-development-corporation-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-12-12
+
+# Sakitawak Development Corporation v. The Queen
+
+- Citation: 2008 TCC 529
+- Decision date: 2008-12-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7081, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sakitawak Development Corporation v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-12-12
+Neutral citation
+2008 TCC 529
+File numbers
+2002-4838(IT)G
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-4838(IT)G
+BETWEEN:
+SAKITAWAK DEVELOPMENT CORPORATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 19, 2008 at Saskatoon, Saskatchewan
+Supplementary written submissions received
+from the Appellant and the Respondent on April 22, 2008
+Before: The Honourable Justice G. A. Sheridan
+Appearances:
+Counsel for the Appellant:
+Ron Cherkewich
+Counsel for the Respondent:
+Lyle Bouvier
+____________________________________________________________________
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal from the reassessment made under the Income Tax Act for the 1999 taxation year is allowed, with costs, and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that Bylaw No. 02 is an “agreement in writing” within the meaning of paragraph 149(1.2)(a) and accordingly, the Appellant is entitled to the tax exemption under paragraph 149(1)(d.5) of the Act.
+Signed at Ottawa, Canada this 12th day of December, 2008.
+"G. A. Sheridan"
+Sheridan, J
+Citation: 2008TCC529
+Date: 20081212
+Docket: 2002-4838(IT)G
+BETWEEN:
+SAKITAWAK DEVELOPMENT CORPORATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] The issue in this appeal is whether the Appellant, a municipal corporation, is entitled to an exemption from tax on income earned outside the boundaries of its incorporating municipality under paragraphs 149(1)(d.5) and 149(1.2)(a) of the Income Tax Act.
+[2] The hearing of this appeal proceeded on the basis of legal argument with an Agreed Statement of Facts and Joint Book of Documents. The agreed facts are as follows:
+1. Since October 1, 1983, Ile a la Crosse (“IOX”) has been a Northern Municipality pursuant to The Northern Municipalities Act.
+2. Sakitawak Development Corporation (“SDC” or “Appellant”) was operating under the authority of The Northern Municipalities Act s. 70 and s. 111.7[1].
+3. Section 111.7 is an amendment to The Northern Municipalities Act that took effect in 1988-89 which allowed Northern Municipalities to incorporate municipal development corporations.
+4. The Northern Administration District (“NAD”) essentially comprises all of Northern Saskatchewan (excluding for administrative purposes only the geographic areas comprising Indian Reserves, Northern Municipalities and in one instance a Military Bombing Range).
+5. Pursuant to The Northern Municipalities Act, IOX passed Bylaw No. 102[2] on January 23, 1998 confirming SDC’s status as a municipal development corporation as contemplated by s. 111.7 of The Northern Municipalities Act.
+6. The majority of the Appellant’s income since incorporation was earned outside the geographic boundaries of IOX in the area municipally and geographically described as the Northern Administration District (“NAD”). The income sought to be taxed is for the year 1999. The NAD is comprised of Provincial Lands.
+7. Prior to 1999 the Appellant enjoyed taxation exemption pursuant to s. 149(d) of the Income Tax Act (“the Act”).
+[3] After the hearing of the appeal I invited and duly received, written submissions from the parties on the following question:
+Whether Bylaw No.2 signed on January 23, 1998 entered as an exhibit is an “agreement in writing” within the meaning of paragraph 149(1)(d.5) and paragraph 149(1.2)(a) of the Income Tax Act.
+Background
+[4] Ile-a-la-Crosse is a village in northern Saskatchewan, a region of the province prescribed under The Northern Municipalities Act[3] as the “Northern Saskatchewan Administration District”[4]. The Northern Saskatchewan Administration District comprises a vast area of Provincial Lands[5], effectively the northern half of Saskatchewan extending between its borders with Alberta and Manitoba and bounded on the north by the Northwest Territories. Its southern border is a line stretching across the province north of the communities of Meadow Lake, Prince Albert and Nipawin[6].
+[5] The Northern Municipalities Act provides for the establishment of municipalities within the Northern Saskatchewan Administration District. A “northern municipality”[7] is defined as a “town”[8], “northern village”[9], “northern hamlet”[10] or “the district”[11]. Paragraph 2(1)(i) defines the “district” as “the Northern Saskatchewan Administration District not including any area within the boundaries of a town, northern village or northern hamlet”. From this it follows that there is a legal distinction between the “Northern Saskatchewan Administration District” and the “district”, the former being the totality of the prescribed area of northern Saskatchewan; and the “district”, just one of the northern municipalities located within it. (The northern municipality that is the district is referred to hereinafter as the “District”). The geographical boundaries of the District can only be determined relative to the municipal boundaries of the other northern municipalities in the Northern Saskatchewan Administration District, the towns, northern villages and northern hamlets.
+[6] In 1983, pursuant to The Northern Municipalities Act, the northern village of Ile-a-la-Crosse became the northern municipality of Ile-a-la-Crosse with an elected mayor, municipal council and various officials. By contrast, the northern municipality of the District is administered by the Province of Saskatchewan under its Northern Municipal Services Branch[12]. Its “council”[13] is the provincial minister responsible for northern Saskatchewan; its “clerk”[14], the provincial administrator appointed by that minister. By way of illustration, in 2006, Randy Braaten, the Director of Northern Municipal Services of Saskatchewan Government Relations, was appointed to the office of clerk of the District by Minister’s Order dated December 19, 2006[15].
+[7] The powers and duties of municipal councils are set out in Part VIII of The Northern Municipalities Act. Pertinent to the present appeal is section 70 which reads:
+70(1) Subject to subsection (3) and to any other express limitation in this or any other Act, a northern municipality has full power and authority to:
+(a) engage in any commercial, industrial or business undertaking within or outside the northern municipality;
+(b) participate in partnership or in any other manner that council considers appropriate with any person in any commercial, industrial or business undertaking, within or outside the northern municipality;
+(c) incorporate a company for the purpose of engaging in any commercial, industrial or business undertaking within or outside the northern municipality;
+and
+(d) acquire shares in a corporation engaged in any commercial, industrial or business undertaking.
+(2) For the purposes of this Act, an activity engaged in by a northern municipality pursuant to subsection (1) is a municipal purpose.
+[8] In 1988-89, the Government of Saskatchewan amended The Northern Municipalities Act to permit a northern municipality, subject to the approval of the provincial minister, to enact a bylaw incorporating an economic development corporation. Under subsection 111.7(3), a northern municipality “shall submit” the bylaw to the Minister who, under subsection 111.7(4), has absolute discretion over its approval. The objects and purposes of such a corporation are set out in subsection 111.7(2):
+(2) Notwithstanding the Act under which the corporation was incorporated, the objects and purposes of a corporation incorporated pursuant to subsection (1) are:
+(a) the identification of economic and social development opportunities and the preparation and amendment of an economic and social development strategy or plan for the northern municipality or for the parties to the agreement;
+(b) the establishment and maintenance of communications with the Government of Canada and the Government of Saskatchewan, and agencies of those governments, to become aware of and utilize programs of those governments and agencies that promote economic and social development in northern Saskatchewan;
+(c) the establishment and maintenance of communications with northern municipalities and other bodies respecting economic and social development in northern Saskatchewan;
+(d) the formulation and carrying out of economic and social programs that benefit persons residing in northern Saskatchewan;
+(d.1) the establishment and carrying out of industrial and commercial activities that are intended to promote economic and social development in northern Saskatchewan;
+(e) any other objects or purposes relating to economic and social development in northern Saskatchewan that may be prescribed in the regulations.
+[9] When these amending provisions were introduced in the Saskatchewan Legislative Assembly, the Minister then responsible explained the purpose behind conferring such powers on northern municipalities:
+[…]
+Mr. Speaker, there is one other section of this Bill I wish to draw to the members' attention. Section 20 empowers northern municipalities to establish or participate in the establishment of economic development corporations. In the southern part of the province, urban and rural municipalities are empowered through The Rural Development Act to jointly participate in this type of corporation. Widely separated communities in northern Saskatchewan, in the absence of a rural municipal structure, make the southern model inappropriate for the North.
+Up until now, northern municipalities have been resourceful and innovative in fostering economic activities in their communities, but have been restricted by the existing legislation from turning their ideas into ongoing activities with long-term benefits. The proposed amendments will offer a vehicle whereby individual, jointly with other northern municipalities or with other persons or entitled northern municipalities, will be able to undertake long-term economic activities with the promise of lasting benefits to the community and its residents.[16] [Emphasis added.]
+[10] In 1990, the northern municipality of Ile-a-la-Crosse took advantage of these changes to incorporate the Appellant[17].
+[11] In 1991, certain technical amendments were made to the municipal corporation provisions in The Northern Municipalities Act. In presenting these amendments to the Saskatchewan Legislative Assembly, the new Minister, the Honourable Carol Carson, reiterated the policy behind the original amendments regarding municipal development corporations:
+…
+Since the Act was amended in 1988, several northern municipal economic development corporations have been established in the North. At this time they are engaged primarily in forestry related activities in northern Saskatchewan. And I understand they are pursuing economic opportunities in construction, mining, and the use of other northern resources. [18]
+[12] During the debate the Member of the Legislative Assembly for Cumberland, a constituency in northern Saskatchewan, spoke of the kinds of activities already being carried on in that area:
+…
+As a member of Cumberland, I'm strongly supporting this particular amendment. And I think many of the activities, whether in mining development or whether in forestry development or whether in fishing and wild rice and many other economic activities that are taking place, the people that are involved in it will be very pleased of this amendment.[19]
+[13] Later, in the Committee of the Whole, Minister Carson answered the following question in this fashion:
+…
+Mr. Martens: -- Mr. Chairman, the next question that I have has to do with changes in the structure. I know that there are some . . . some of the communities there are -- like Patuanak for example, part of the village is outside of the reservation and some of it is inside. And what's inside gets federal government grants; what's outside is strictly the responsibility of the provincial government.
+Is there some direction to include some of these things in negotiations as it relates to the benefit that could accrue in developing the industrial base in that framework if the federal government were more directly involved?
+Hon. Ms. Carson: -- Mr. Speaker, that’s a good question and we appreciate it. And I think what this Act does allow is for joint ventures to be developed between communities within the municipality and communities outside of the municipality.
+So certainly that will be looked at and I appreciate that perspective.[20] [Emphasis added.]
+[14] Since its incorporation, the Appellant has carried on economic activities in the District. Sometime prior to January 23, 1998, the minister responsible notified the northern municipality of Ile-a-la-Crosse that it had “through inadvertence”[21] neglected to pass the bylaw required under subsection 111.7(2) of The Northern Municipalities Act[22]. As a result, Bylaw No. 02 was passed for the purpose of, among other things, confirming the Appellant’s status as a “municipal development corporation” under section 111.7 of The Northern Municipalities Act[23].
+[15] It was against this backdrop that in 1999, the Appellant was earning income from its economic activities in the District. In all prior years, its income had been exempt under paragraph 149(1)(d) of the Income Tax Act. In 1998, however, the Income Tax Act provisions applicable to municipal corporations were amended. When assessing the Appellant’s income for 1999, the Minister of National Revenue determined that the Appellant was not exempt from tax because it did not satisfy the new criteria.
+[16] But for the amendments to the Income Tax Act, the Appellant’s 1999 income from its activities would have continued to be tax exempt. It goes without saying, however, that whatever the prior law, a taxpayer’s liability in a particular taxation year must be assessed in accordance with the current provisions.
+Legislation
+[17] Prior to the amendments, where a municipal corporation carried on its income-generating activities was not a factor in the determination of its tax-exempt status. The formerly applicable provision was paragraph 149(1)(d), the relevant portions of which read:
+149.(1) Miscellaneous exemptions. No tax is payable under this Part on the taxable income of a person for a period when that person was
+…
+(d) Municipal or provincial corporations – a corporation … not less than 90% of the shares or capital of which was owned by … a Canadian municipality …
+[18] Under the new legislation, a second condition for eligibility for a municipal corporation tax exemption was added. Paragraph 149(1)(d.5) of the Act states:
+149.(1) Miscellaneous exemptions. No tax is payable under this Part on the taxable income of a person for a period when that person was
+…
+(d.5) Municipal corporations – subject to subsections (1.2) and (1.3), a corporation, commission or association not less than 90% of the capital of which was owned by one or more municipalities in Canada, if the income for the period of the corporation … from activities carried on outside the geographical boundaries of the municipalities does not exceed 10% of its income for the period; [Emphasis added.]
+…
+[19] Paragraph 149(1)(d.5) is subject to paragraph 149(1.2)(a) of the Act, the relevant portions of which read:
+(1.2) Income test. For the purposes of paragraphs (1)(d.5) …, income of a corporation … from activities carried on outside the geographical boundaries of a municipality does not include income from activities carried on
+(a) under an agreement in writing between
+(i) the corporation … , and
+(ii) a person who is Her Majesty in right of … a province …
+within the geographical boundaries of
+…
+(iii) where the person is Her Majesty in right of a province …, the province,
+…
+[20] Thus, in circumstances where more than 10% of a municipal corporation’s income is from its activities outside its municipality, it may still be tax exempt if it can show that such activities were carried on under an “agreement in writing” within the meaning of paragraph 149(1.2)(a).
+Respondent’s Submissions
+[21] The Respondent concedes that because the Appellant was 100% owned by the northern municipality of Ile-a-la-Crosse, it meets the capital ownership requirements in paragraph 149(1)(d.5). However, because more than 10%, (indeed, virtually all) of its 1999 income came from activities carried on outside the geographical boundaries of the northern municipality of Ile-a-la-Crosse, it does not satisfy the second prong of the criteria. Accordingly, resort must be had to paragraph 149(1.2)(a). According to the Respondent, this provision is of no help to the Appellant because, in 1999, there was no “agreement in writing” of any kind between the Appellant and the Province of Saskatchewan.
+[22] The Respondent contends that, on a proper reading of paragraph 149(1.2)(a), the meaning of “agreement in writing” must be restricted to a formal contract “between” the municipal corporation and the outside jurisdiction in which they are named as “parties” and which is signed by them. The Respondent argues further that each and every activity must be identified in the written agreement if the income from that activity is to be exempt under paragraph 149(1.2)(a).
+[23] I can see no justification for reading these additional requirements into paragraph 149(1.2)(a). Other than being the interpretation favoured by his client, no basis for such an interpretation was put forward by counsel for the Respondent. While Parliament could have expressed itself to impose such conditions on the taxpayer, it chose not to do so. As written, paragraph 149(1.2)(a) speaks simply of an “agreement in writing” without the embellishments urged by the Respondent.
+Appellant’s Submissions
+[24] The Appellant contends first, that it can (either in its own right, or acting as the agent of the northern municipality of Ile‑a‑la‑Crosse) claim the exemption granted to a “municipality” under paragraph 149(1)(c) of the Act. I agree with the Respondent that this argument cannot succeed. Because the Income Tax Act makes separate provision for the respective tax treatment of municipalities and municipal corporations, the Appellant’s liability for tax must be determined in accordance with paragraph 149(1)(d.5), the provision expressly applicable to municipal corporations.
+[25] Alternatively, the Appellant submits that Exhibit A-4, a written agreement executed on February 4, 2008, is an “agreement in writing” under paragraph 149(1.2)(a). Approximately two weeks before the hearing of this appeal, Mr. Braaten, representing the Province of Saskatchewan in his capacity as Clerk of the northern municipality of the District, and the authorized signing officers of the northern municipalities of Ile‑a‑la‑Crosse and Buffalo Narrows and their respective municipal corporations executed Exhibit A-4 in which the parties declared their intentions to confirm in writing, among other things, an agreement between the Appellant and the Province of Saskatchewan under which the Appellant had carried on, was carrying on and would continue to carry on its income-generating activities in the northern municipality of the District. Mr. Braaten was present at the hearing of this appeal, along with Mr. Favel, the Mayor of the Northern Village of Ile-a-la-Crosse; Mr. Woods, the Mayor of the Northern Village of Buffalo Narrows and Mr. Eddy, the Chief Executive Officer of the municipal development corporation of Buffalo Narrows.
+[26] The Appellant argues that Exhibit A-4 is an “agreement in writing” within the meaning of paragraph 149(1.2)(a) because it is a written agreement between the Appellant and the Province of Saskatchewan and, in deference to the Respondent’s interpretation of paragraph 149(1.2)(a), is “signed by” the “parties”. Though not executed until February 4, 2008, Clause 4 of Exhibit A-4 provides that it is to apply retroactively to December 31, 1997, well before the amendments to the municipal corporation provisions. Further, Clause 1 of Exhibit A-4 sets out what is and was agreed between the Appellant and the Province of Saskatchewan in respect of the Appellant’s activities in the District:
+THEREFORE the parties pursuant to the provisions of the NMA, and without limiting the foregoing, Section 131 thereof, for good and valuable consideration and the mutual covenants herein exchange, legally intending to be bond, now agree as follows:
+ACKNOWLEDGEMENTS AND AGREEMENTS:
+1. The District is agreeable and hereby confirms and agrees that IOX and its municipal corporation, SDC and BN and its municipal development corporation BNDC may continue to conduct or pursue the activities contemplated by Section 70 within the NSAD for the purposes identified in Section 70 and Section 111.7 of the NAD.
+2. This agreement is conditional upon and subject to the IOX, SDC, BN & BNDC otherwise being compliant with and meeting all the requirements of The Northern Municipalities Act, and without limiting the foregoing. Section 70, Section 111.7 and the requirement in Section 111.7(3) that the by-law authorizing the creation of a municipal development corporation be approved by the Minister of the Ministry of Municipal Affairs.
+3. The parties agree for the purposes of this Agreement that “activities” in the NSAD contemplate continuation and expansion of current commercial and entrepreneurial activities and without limiting the foregoing, in the mining, forestry, woodfibre, excavation, construction, accommodations, transportation, and fisheries sectors along with the provision of labour, infrastructure and services for such industries and industrial activity in the NSAD, all with a view of effecting the purposes and intentions expressed in Section 70 of the NMA.
+[…]
+[27] The Respondent rejects the Appellant’s position arguing firstly, that although Exhibit A-4 is in the form of a contract, it is not an “agreement in writing” because it does specify each and every activity carried on by the Appellant in the District. For the reasons given above, I do not accept that an “agreement in writing” under paragraph 149(1.2)(a) necessarily requires that degree of detail. In my view, Exhibit A-4 is sufficiently clear with regard to the income-generating activities that the Appellant was carrying on in 1999. The second prong of the Crown’s argument, however, is more compelling: that Exhibit A-4 is not an “agreement in writing” as contemplated by paragraph 149(1.2)(a) because it was not in place in 1999. The relevant time for determining whether the Appellant satisfied the exempting criteria is the taxation year for which an exemption is sought. The provision in Exhibit A-4 for retroactive application does not alter the fact that in 1999, the document was not yet in existence. Accordingly, Exhibit A-4 is not in itself an “agreement in writing” within the meaning of paragraph 149(1.2)(a). However, more will be said about the effect of this document later.
+Written Submissions Regarding Bylaw No. 02
+[28] Finally, regarding my query as to whether Bylaw No. 02 is an “agreement in writing” within the meaning of paragraph 149(1.2)(a), the Respondent’s answer in full is as follows:
+The Respondent states Bylaw No. 2 is not an agreement in writing between the Appellant and the province as contemplated by paragraph 149(1)(d.5) as the Appellant is not a party to the agreement. It is a Bylaw passed by the Northern Municipality of Ile a la Crosse restructuring and confirming the Appellant as a Municipal Corporation under section 111.7 of the Northern Municipalities Act.
+[29] Not surprisingly, the Appellant takes the contrary view. According to the Appellant, the phrase “under an agreement in writing between” the Appellant and the Province of Saskatchewan ought to be read as “with the consent in writing of” the Province of Saskatchewan to the Appellant’s activities. Under this interpretation and, in the particular circumstances of the Appellant’s situation, Bylaw No. 02 is an agreement in writing under paragraph 149(1.2)(a).
+[30] In its Supplementary Submissions, the Appellant cited the following passage from Bank of Nova Scotia v. Canada (Minister of National Revenue)[24] concerning the governing principles for statutory interpretation:
+Driedger in Construction of Statutes, 3rd Ed. (London, Butterworths, 1994) 131 states the following as the modern rule of interpretation of statutes:
+There is only one rule in modern statutory interpretation, namely, courts are obliged to determine the meaning of legislation in its total context, having regard to the purpose of the legislation, the consequences of proposed interpretations, the presumptions and special rules of interpretation, as well as admissible external aids. In other words, the courts must consider and take into account all relevant and admissible indicators of legislative meaning. After taking these into account, the court must then adopt an interpretation that is appropriate. An appropriate interpretation is one that can be justified in terms of (a) its plausibility, that is, its compliance with the legislative text; (b) its efficacy, that is, its promotion of the legislative purpose; and (c) its acceptability, that is, the outcome is reasonable and just. [25]
+[31] Driedger was also cited by the Supreme Court of Canada in Québec (Communauté urbaine) v. Corp. Notre-Dame de Bon-Secours in respect of the interpretation of tax legislation:
+… the interpretation of tax legislation should be subject to the ordinary rules of construction. At page 87 of his text Construction of Statutes (2nd ed. 1983), Driedger fittingly summarizes the basic principles: “… the words of an Act are to be read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act and the intention of Parliament”.[26]
+[32] Starting then, with the ordinary meaning of “agreement in writing”, I agree with the Appellant’s argument that while capable of including the interpretation favoured by the Respondent, its dictionary meaning is also broad enough to extend to the notion of written consent:
+agree·ment
+Pronunciation: \ə-ˈgrē-mənt\
+Function: noun
+Date: 15th century
+1 a: the act or fact of agreeing b: harmony of opinion, action, or character: CONCORD
+2 a: an arrangement as to a course of action b: COMPACT, TREATY
+3 a: a contract duly executed and legally binding b: the language or instrument embodying such a contract[27]
+[33] I accept as well the Appellant’s contention that the meaning of the word “agreement” need not be restricted to a formal contract. In support of its position, the Appellant cited the following passage from Bow River Pipe Lines Ltd. v. Canada[28], referred to by Bowie, J. in General Motors of Canada Ltd. v. Canada[29]:
+What, then, is the object or purpose of [the transitional provision]? To my mind the answer is that if a taxpayer has expended time or money or both with the intention of relying on [the repealed paragraph] in conducting its affairs the repeal of the paragraph is not applicable where that intention is evinced by agreements in writing, not necessarily contractual in nature, entered into prior to December 4, 1985. But those agreements must set in motion the taking of steps that lead directly to the making of agreements of the kind described in [the transitional provision] after that date that do give rise to contractual obligations. I do not think that reference to an agreement in legislation or in some other context means that the agreement must create contractual rights and obligations.[30] [Emphasis added.]
+[34] This point was specifically considered and upheld by the Federal Court of Appeal in Bow River Pipe Lines, stating that this principle had already been “made clear”[31] in its decision in Canada v. Trade Investments Shopping Centre Ltd.[32]. Although ultimately concluding that the taxpayer had not been bound to acquire the property prior to the statutory deadline, the appellate court specifically accepted the finding of the trial judge in Bow River Pipe Lines that a series of letters between the parties was sufficient to constitute an “agreement in writing” notwithstanding that, as of the deadline in the transitional provision, certain conditions for the creation of a binding contractual obligation to acquire the property had not yet been fulfilled.
+[35] In the General Motors case, to claim the benefit of a transitional provision, the taxpayer had to show that certain property had been acquired “pursuant to an obligation in writing” prior to the legislative deadline. After considering the passage from Bow River Pipe Lines cited above, Bowie, J. distinguished the document relied on by the taxpayer from the series of letters in Bow River Pipe Lines, finding that its terms did not “speak at all to the acquisition by the Appellant”[33] of the relevant property; accordingly, it did not constitute an “obligation in writing” within the meaning of the transitional provision.
+[36] In reaching his decision, Bowie, J. also considered Trade Investments. In that case, the transitional provision under interpretation excluded from the purview of the new legislation “… dispositions [of certain property] occurring pursuant to the terms of an agreement in writing entered into on or before”[34] a specified date. The issue was whether a lease containing a purchase option clause for a shopping centre was an “agreement in writing” within the meaning of the legislation. The Minister took the position (with which, “strictly speaking”[35], the Court agreed) that the agreement in writing pursuant to which the disposition of the shopping centre actually occurred was the purchase and sale agreement executed when the option in the lease agreement was ultimately exercised, an event which occurred well beyond the time allowed by the transitional provision.
+[37] Noël, J. (as he then was) rejected the limited interpretation urged by the Minister, preferring instead to examine the purpose of the transitional provision and then to determine whether the effect of the purchase option clause in the lease was in keeping with that purpose so as to permit the taxpayer to claim the benefit of the transitional provision. After determining that the transitional provision “… was enacted exclusively to protect a seller who had obligated himself to effect a sale under the old law …[36], the Court went on to consider whether the lease created an irrevocable contractual obligation on the taxpayer (the seller of the shopping centre) to dispose of it, even though at the relevant time, it remained unknown whether the seller would ultimately be held to the performance of that obligation. Convinced that this was indeed the effect of the lease agreement, the Court held that it was in keeping with the purpose of the transitional provision and was, therefore, an “agreement in writing”.
+[38] As in Bow River Pipe Lines and General Motors, the Court in Trade Investments considered the substance of the document relied on by the taxpayer, not just its form. Such an approach is consistent with the rules of interpretation enunciated by the Supreme Court of Canada in Québec (Communauté urbaine) v. Corp. Notre-Dame de Bon-Secours: “… [s]ubstance should be given precedence over form to the extent that it is consistent with the wording and objective of the statute”[37].
+[39] What is the objective of paragraphs 149(1)(d.5) and 149(1.2)(a)? According to departmental publications, the relevant purpose of the amendments to the municipal corporation provisions in the Income Tax Act was:
+… to prevent municipally-owned (sic) corporations from competing in commercial activities on a tax‑free basis outside the municipal boundaries. Allowing municipal corporations latitude to earn up to 10% of their income outside the geographical boundaries of their municipalities serves to balance promotion of economic development with the prevention of an unfair advantage over competitors.[38]
+[40] In its written submissions, the Respondent reiterated this view, arguing that “… [t]he existence of a written agreement pursuant to s. 149(1.2) will enable a municipal corporation to remain exempt if it earns more than 10% of its income outside the geographical boundaries of the municipality”[39]. Counsel expanded to some extent on the department’s position in oral argument:
+The purpose behind the exemption is you don’t want municipal development corporations entering into the commercial and economic mainstream and competing against other people who don’t enjoy the same exemption. [40]
+…
+… it might be a very restrictive approach, but the rationale is clearly evident because if there’s an agreement in writing for every activity, then the province who enjoys the exemption already is sharing their exemption with the corporate taxpayer, and it’s clearly associated with the commercial activity, and the same applies to a municipality.[41]
+[41] The Supreme Court of Canada has recognized that in addition to raising revenue, tax legislation may have social and economic purposes[42]. The Minister’s goal of ensuring a balance between “the promotion of economic development with the prevention of an unfair advantage over competitors” discloses the economic aspect of the objective behind paragraph 149(1.2)(a). Accordingly, the reality in which the Appellant was carrying on its commercial activities, i.e. as the municipal corporation of one municipality (tax exempt) operating in another municipality administered by the Province of Saskatchewan (also tax exempt) in a region of the province also under its jurisdiction is a relevant consideration.
+[42] What constitutes an “agreement in writing” will vary depending on the particular legislative provision in question and the nature of the document relied upon by the taxpayer in all the circumstances of its individual situation. Notwithstanding its frequent use in the Income Tax Act, the term “agreement in writing” is not defined in the statute; nor does it have a fixed technical meaning. From this it may be inferred that, in employing this general term in paragraph 149(1.2)(a), Parliament intended to build into the provision sufficient flexibility to accommodate the infinitely various circumstances of individual taxpayers.
+[43] In the trilogy of cases discussed above, what lay at the heart of the legislation in question was a transaction (acquisition or disposition) which by its very nature, gave rise to contractual obligations which, under the legislation, had to be in writing. The same cannot be said of paragraph 149(1.2)(a). The purpose of the municipal corporation amendments was to balance the prevention of an unfair competitive advantage with the promotion of economic development; thus, unlike the provisions considered above, the essence of the relationship between the municipal corporation and the outside jurisdiction as contemplated by paragraph 149(1.2)(a) is not one of mutual contractual obligation evidenced by a written agreement. The purpose of the “agreement in writing” in paragraph 149(1.2)(a) is to provide a means of substantiating that the outside jurisdiction was aware of the municipal corporation’s activities and agreed to their being carried on within its borders. In my view, the effect of Bylaw No. 02, when considered in the context of The Northern Municipalities Act and the role of the Province of Saskatchewan in all aspects of that legislation and vis-à-vis the Appellant, is in keeping with this legislative purpose: it provides written proof that the Appellant’s activities in the District were carried on with the knowledge and agreement of the Province of Saskatchewan. In these circumstances, no harm can come from allowing the Appellant to share the tax- exempt status enjoyed by the Province of Saskatchewan in respect of the Appellant’s activities in the District.
+[44] The fact is that Bylaw No. 02 came about after the Province of Saskatchewan advised the northern municipality of Ile-a-la-Crosse that it was not in compliance with section 111.7 of The Northern Municipalities Act. At that time, the Appellant was already carrying on activities in the District. The northern municipality of Ile-a-la-Crosse responded to the provincial minister’s friendly nudge by instructing its lawyers (who were acting in a dual capacity for the Northern Municipality of Ile-a-la-Crosse and the Appellant[43]) to ensure its compliance with The Northern Municipalities Act. It was recommended by their solicitors that:
+… it may be in the best interest of the Northern Village and [the Appellant] to bring [the Appellant] under section 111.7 of The Northern Municipalities Act and without limiting the foregoing, to
+2.5.1 to protect the Northern Village from a challenge that the present Corporation is ultra vires the present powers of the Municipal Council;
+2.5.2 to protect the members of the Municipal Council and the Board of Directors from possible criticism in continuing the Corporation in its present form;
+2.5.3 to secure the tax-exempt status provided for Municipal Corporations under The Income Tax Act, s.149.”
+[45] Article 2.5.3 specifically referred to the desire to “secure” the Appellant’s exemption as a municipal corporation under section 149 of the Income Tax Act.
+[46] Under Article 2.6 was expressed the “wish” of the northern municipality of Ile‑a‑la-Crosse and the Appellant “to regularize” the Appellant and that “… to do so [they] have agreed that the Municipal Council of the Northern Village of Ile‑a‑la‑Crosse should effect this Bylaw.”[44] Article 2.7.3 was aimed at ensuring the Appellant’s compliance with the objects and purposes of a municipal corporation under The Northern Municipalities Act which include carrying on economic activities in northern Saskatchewan, both within and outside of its incorporating municipality. This purpose was clearly enunciated by the provincial minister when The Northern Municipalities Act was amended and I repeat, for ease of reference, the key portion of the speech cited above:
+The proposed amendments will offer a vehicle whereby individual, jointly with other northern municipalities or with other persons or entitled northern municipalities, will be able to undertake long-term economic activities with the promise of lasting benefits to the community and its residents.[45]
+[47] This goal was reiterated when, in 1991, The Northern Municipalities Act was further amended: “… [w]hat this Act does allow is for joint ventures to be developed between communities within the municipality and communities outside of the municipality”[46].
+[48] A review of the debates recorded in Hansard reveals that it was the lack of opportunity within the geographical boundaries of the towns, northern villages and northern hamlets that prompted the Province of Saskatchewan to empower northern municipalities to exploit the resources in the District through the vehicle of the municipal corporation. In this way, the northern municipalities could improve the economic lot of the people in settled areas by using their municipal corporations to carry on economic activities in the resource-rich, but virtually unpopulated, northern municipality of the District: activities such as “… forestry … construction, mining, and the use of other northern resources[47], “fishing and the cultivation of wild rice …”[48] and “uranium mining[49]. From a practical perspective, these activities, by their very nature, were likely to be carried on outside the municipal boundaries of the towns, northern villages and northern hamlets.
+[49] Briefly summarized, then, it was the Province of Saskatchewan that recognized the economic needs of municipalities in northern Saskatchewan, conceived of the policy whereby northern municipalities could incorporate municipal corporations and ultimately, enacted the legislation to permit municipal corporations like the Appellant to carry on economic activities in the District. It was the Province of Saskatchewan itself that reminded the northern municipality of Ile-a-la-Crosse that it needed to get its paperwork in order to ensure compliance with The Northern Municipalities Act. And it was against this background that the provincial minister (knowing that the Appellant was already carrying on economic activities in the District) exercised his discretion to approve Bylaw No. 02 in which were listed the Appellant’s activities in the District over which, it must be remembered, that same minister had municipal administrative authority. Absent the provincial minister’s approval, under the Northern Municipalities Act the Appellant would have been unable to carry on its commercial activities. In these circumstances, there was no risk of the evil paragraph 149(1.2)(a) was aimed at preventing: Bylaw No. 02 provides sufficient evidence of the agreement of the Province of Saskatchewan to activities it had itself ordained, activities from which the Appellant earned its income in 1999.
+[50] I mentioned above that I would make further comment in respect of Exhibit A-4, the written agreement between the Appellant and the Province of Saskatchewan dated February 4, 2008. While it is not necessary to the conclusion that Bylaw No. 02 is an “agreement in writing” under paragraph 149(1.2)(a), Exhibit A-4 is consistent with and buttresses further that finding. In my view, Exhibit A-4 is analogous to the contract ultimately signed in Bow River Pipe Lines subsequent to the series of letters that were found to be an “agreement in writing”. Although not in themselves giving rise to contractual obligations, the letters constituted an agreement in writing because they “… set in motion the taking of steps that [led] directly to the making of agreements of the kind described in [the transitional provision] after [the deadline] date that [did] give rise to contractual obligations”[50]. Similarly, Bylaw No. 02 evinces the written agreement of the Province of Saskatchewan to the Appellant’s activities in 1999; it also paved the way for Exhibit A-4, a formal contract of the type favoured by the Respondent between the Appellant and the Province of Saskatchewan authorizing the Appellant’s activities in the District.
+[51] Also consistent with both Exhibit A-4 and Bylaw No. 02 are the intentions expressed in Exhibit A-3, a letter to the then Minister of National Revenue drafted under Mr. Braaten’s authority to provide assurance of the agreement of the Province of Saskatchewan to the Appellant’s activities. Exhibit A-3 is described by counsel for the Appellant as follows:
+Now, there is a -- there is a document put before you, A-3. I originally had referenced this document in -- under that bullet, but I realized, as I was doing the final draft, I hadn’t cleared it with my learned friend, so I pulled it. But I have cleared it with my learned friend, so I can introduce this thing to you. This kind of goes back to last day. This is where we were last day when we were going to argue before you, and we didn’t, and we’ve come here with an additional reason. We thought the wraparound on this agreement in writing was to get a letter from Mr. [Braaten], the Province of Saskatchewan, to the federal government saying with respect to 149, hey, this is how it was, this is how it is, and this is how it’s going to continue to be. The initials here -- I got Mr. [Braaten], just for -- that’s his handwriting at the top. “This may be directed to all northern municipalities in the NAD,” and he initialed it off this morning, just for peace of mind, and my learned friend agrees it can go in front of you. At the bottom it has Mayor Duane Favel and Mayor Bobby Woods referenced there, and Ina Fietz-Ray, New North, Saskatchewan Association Northern Municipality -- that’s the equivalent of … SUMA [Saskatchewan Urban Municipalities Association] and SARM [Saskatchewan Association of Rural Municipalities]. It’s an association of northern municipalities. What this says is -- what the agreement says, what Hansard says, what I’ve been saying, this agreement is a bit of a wrap on that, and so I won’t go through it. I’ll just leave it with the Court.[51]
+[52] One final point before concluding: counsel for the Respondent argued that “[i]n tax law, form matters, and to qualify for an exception, you must put yourself squarely within the four corners of that exemption, otherwise the exemption will not apply.”[52] Counsel for the Appellant seemed to be of the same view. However, in Québec (Communauté urbaine) v. Corp. Notre-Dame de Bon-Secours the Supreme Court of Canada established that there is no longer a presumption against a taxpayer’s entitlement to an exemption[53]. Thus, the taxpayer’s task is to show, on a proper interpretation of the governing provision, that it has met the statutory criteria. This the Appellant has done.
+[53] For the reasons set out above, I am satisfied that Bylaw No. 02 is an “agreement in writing” within the meaning of paragraph 149(1.2)(a) and accordingly, the Appellant is entitled to the tax exemption under paragraph 149(1)(d.5) of the Income Tax Act. The appeal is allowed with costs.
+Signed at Ottawa, Canada this 12th day of December, 2008.
+"G. A. Sheridan"
+Sheridan, J.
+APPENDIX
+Municipal commercial undertakings
+70(1) Subject to subsection (3) and to any other express limitation in this or any other Act, a northern municipality has full power and authority to:
+(a) engage in any commercial, industrial or business undertaking within or outside the northern municipality;
+(b) participate in partnership or in any other manner than council considers appropriate with any person in any commercial, industrial or business undertaking, within or outside the northern municipality;
+(c) incorporate a company for the purpose of engaging in any commercial, industrial or business undertaking within or outside the northern municipality;
+and
+(d) acquire shares in a corporation engaged in any commercial, industrial or business undertaking.
+(2) For the purposes of this Act, an activity engaged in by a northern municipality pursuant to subsection (1) is a municipal purpose.
+(3) Except as otherwise provided in this or any other Act, no northern municipality shall:
+(a) guarantee the payment of any bonds or debentures issued by any commercial, industrial or business undertaking; or
+(b) guarantee loans made to any person.
+[…]
+Municipal development corporations
+111.7(1) Notwithstanding any other provision of this Act but subject to subsections (2) and (3), a northern municipality may, by bylaw:
+(a) direct that a memorandum of incorporation be drafted; or
+(b) enter into agreements with:
+(i) another northern municipality;
+(ii) Her Majesty the Queen in right of Saskatchewan;
+(iii) any Crown corporation or an agency of a Crown corporation;
+(iv) Her Majesty the Queen in right of Canada;
+(v) a band as defined in the Indian Act (Canada), as amended from time to time;
+(vi) any person; or
+(vi) any combination of the persons and entities mentioned in subclauses (i) to (vi);
+for the purposes of securing the incorporation of a corporation pursuant to The Business Corporations Act, The Non-profit Corporations Act, The New Generation Co-operatives Act or The Co-operatives Act.
+(2) Notwithstanding the Act under which the corporation was incorporated, the objects and purposes of a corporation incorporated pursuant to subsection (1) are:
+(a) the identification of economic and social development opportunities and the preparation and amendment of an economic and social development strategy or plan for the northern municipality or for the parties to the agreement;
+(b) the establishment and maintenance of communications with the Government of Canada and the Government of Saskatchewan, and agencies of those governments, to become aware of and utilize programs of those governments and agencies that promote economic and social development in northern Saskatchewan;
+(c) the establishment and maintenance of communications with northern municipalities and other bodies respecting economic and social development in northern Saskatchewan;
+(d) the formulation and carrying out of economic and social programs that benefit persons residing in northern Saskatchewan;
+(d.1) the establishment and carrying out of industrial and commercial activities that are intended to promote economic and social development in northern Saskatchewan;
+(e) any other objects or purposes relating to economic and social development in northern Saskatchewan that may be prescribed in the regulations.
+(3) A northern municipality that proposes to make a bylaw pursuant to subsection (1) shall submit the proposed bylaw to the minister for approval prior to the bylaw receiving third reading.
+(4) The minister may approve or disapprove a bylaw submitted pursuant to subsection (3).
+(5) Where, the minister approves a bylaw pursuant to subsection (4), the minister may impose any terms or conditions with respect to the implementation of the bylaw that the minister considers advisable.
+(6) Notwithstanding:
+(a) any other provision of this Act; or
+(b) any other Act;
+a northern municipality may become a member of, or purchase shares, bonds, debentures or other securities of, a corporation incorporated under an agreement made pursuant to subsection (1).
+(7) Notwithstanding any other Act:
+(a) the Lieutenant Governor in Council, on the application of a corporation incorporated pursuant to subsection (1), may wind up the affairs of the corporation and dissolve the corporation, and in doing so may make any disposition of its assets and deal with its obligations in a way that may be considered advisable for the public good; and
+(b) the Clerk of the Executive Council, at least three weeks before winding- up proceedings are commenced, shall publish in the Gazette and in one issue of a newspaper circulating in the place in which the head office of the corporation is located a notice of the intended winding-up setting forth:
+(i) the proposed disposition of the assets; and
+(ii) the proposed dealings with respect to the obligations of the corporation.
+(8) The minister may provide financial assistance by way of grant, loan guarantee or other similar means, in accordance with any terms or conditions that are prescribed in the regulations, to any corporation incorporated pursuant to subsection (1).
+(9) Subject to the regulations, the minister may make grants or awards to any corporation incorporated pursuant to subsection (1), northern municipality or other person whose records of achievement in the promotion of economic and social development in northern Saskatchewan is of outstanding significance.
+(10) The Lieutenant Governor in Council, on the recommendation of the minister, may make regulations:
+(a) excluding the application of, in whole or in part, or varying any of the provisions of the Act under which a corporation is incorporated in order that the corporation may more effectively and practically carry out its objects and purposes;
+(b) prescribing objects and purposes for any corporation or class of corporations in addition to those set out in clauses (2)(a) to (d.1);
+(c) for the purposes of subsections (8) and (9).
+CITATION: 2008TCC529
+COURT FILE NO.: 2002-4838(IT)G
+STYLE OF CAUSE: SAKITAWAK DEVELOPMENT CORPORATION AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Saskatoon, Saskatchewan
+DATE OF HEARING: February 19, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice G. A. Sheridan
+DATE OF JUDGMENT: December 12th, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Ron Cherkewich
+Counsel for the Respondent:
+Lyle Bouvier
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Ron Cherkewich
+Firm: Legal Services
+Prince Albert, Saskatchewan
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Appendix, Reasons for Judgment.
+[2] Referred to variously in the record as Bylaw No. “102”, Bylaw No. “2” and Bylaw No. “02”. The correct description is shown in Exhibit A-2, Tab 6, “Bylaw No. 02”.
+[3] The Northern Municipalities Act, subsection 3(1).
+[4] Above, subparagraph (2)(1)(i).
+[5] Exhibit A-2, Tab 5; Exhibit A-1, paragraphs 4 and 6.
+[6] Exhibit A-5.
+[7] Exhibit A-2, Tab 5.
+[8] Included in subparagraph 2(1)(p) of The Northern Municipalities Act but not elsewhere defined.
+[9] The Northern Municipalities Act, subparagraph 2(1)(r).
+[10] Above, subparagraph 2(1)(o).
+[11] Above, subparagraph 2(1)(i).
+[12] Exhibit A-1, paragraph 6; Joint Book of Authorities, Tab 1, The Northern Municipalities Act, section 4; Exhibit A-3.
+[13] The Northern Municipalities Act, paragraph 2(1)(f).
+[14] The Northern Municipalities Act, paragraph 2(1)(e).
+[15] Joint Book of Authorities, Tab 1.
+[16] Joint Book of Authorities, Tab 2, pages 2656-2657 of Hansard for July 13, 1989.
+[17] Exhibit A-2, Tab 6, article 2.1.
+[18] Joint Book of Authorities, Tab 3, page 246 of Hansard for December 12, 1991.
+[19] Joint Book of Authorities, Tab 3, page 247 of Hansard for December 12, 1991.
+[20] Joint Book of Authorities, Tab 3, page 369 of Hansard for December 19, 1991.
+[21] Exhibit A-2, Tab 6, article 2.3.
+[22] Exhibit A-2, Tab 6, articles 2.2 and 2.4.
+[23] Exhibit A-1, paragraph 5.
+[24] 2000 SKQB 361.
+[25] Above, at paragraph 32.
+[26] [1994] 3 S.C.R. 3 at paragraph 22.
+[27] Supplementary Submissions on behalf of the Taxpayer, paragraph 22.
+[28] [1997] 1 C.T.C. 2306 (T.C.C.); affirmed, [1997] 3 C.T.C 397 (F.C.A.).
+[29] [2002] 3 C.T.C. 2008.
+[30] Above, at page 2021 and 2022.
+[31] 97 D.T.C. 5385 at page 5398.
+[32] (1996), 96 D.T.C. 6570; [1993] 2 C.T.C. 333 (F.C.T.D.).
+[33] [2002] 3 C.T.C. 2008 (T.C.C.) at paragraph 14.
+[34] [1993] 2 C.T.C. 333 at paragraph 7.
+[35] Above, at paragraph 22.
+[36] Above, paragraph 40.
+[37] Above, at paragraph 25.
+[38] Written Submissions on behalf of the Respondent, paragraph 33.
+[39] Joint Book of Authorities, Tab 7.
+[40] Transcript, page 62, lines 10-15.
+[41] Transcript, page 72, lines 15-23.
+[42] Québec (Communauté urbaine) v. Corp. Notre-Dame de Bon-Sécours, above, at paragraph 20.
+[43] Exhibit A-2, Tab 6, article 2.5.
+[44] Exhibit A-2, Tab 6.
+[45] Joint Book of Authorities, Tab 2, Hansard, July 13, 1989 at page 2657.
+[46] Joint Book of Authorities, Tab 3, Hansard, December 19, 1991 at page 369.
+[47] Joint Book of Authorities, Tab 3, Hansard, December 12, 1991 at page 246.
+[48] Above, at page 247.
+[49] Joint Book of Authorities, Tab 3, Hansard, December 19, 1991 at page 369.
+[50] [1997] 1 C.T.C 2306 at paragraph 38.
+[51] Transcript, page 48, lines 24-25, inclusive to page 50, lines 1-8, inclusive.
+[52] Transcript, page 62, lines 15-19.
+[53] Above, at paragraphs 22-25.

@@ -1,0 +1,230 @@
+---
+title: "Trinity Innovations Inc c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30077/index.do"
+last_modified: "2010-11-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 583"
+citation2: ""
+neutral_citation: "2010 CCI 583"
+decision_date: "2010-11-16"
+language: "fr"
+item_id: "30077"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7610
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:26:09.142000+00:00"
+cases_cited_count: 5
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c517c9038109eb811f46cd69d3b40516a92dc340408d15d05365beae2d949e4b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Trinity Innovations Inc c. M.R.N.
+
+- Citation: 2010 CCI 583
+- Decision date: 2010-11-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7610, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Trinity Innovations Inc c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-11-16
+Référence neutre
+2010 CCI 583
+Numéro de dossier
+2009-2758(EI)
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2009-2758(EI)
+ENTRE :
+TRINITY INNOVATIONS INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+Trinity Innovations Inc. (2009-2759(CPP))
+le 29 septembre 2010 à Edmonton (Alberta).
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Représentante de l’appelante :
+Mme Pat Schacher
+Avocates de l’intimé :
+Me Gergely Hegedus et Me Rob Neilson
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté en vertu du Régime de pensions du Canada (le « RPC ») contre la décision du ministre du Revenu national (le « ministre ») datée du 5 mai 2009 est accueilli sans dépens, et la décision du ministre est modifiée en vue de prévoir ce qui suit :
+a) Matt Miske, Noel Schacher, Carla Schacher et Sandra Bonnett n’exerçaient pas un emploi assurable auprès de l’appelante pour l’application de la Loi sur l’A-E pendant la période allant du 1er janvier 2006 au 8 avril 2008;
+b) Carman Penner et Norman Ronsberg n’exerçaient pas un emploi assurable auprès de l’appelante pour l’application de la Loi sur l’A-E pendant la période allant du 1er janvier 2006 au 30 juin 2007;
+c) Dan Bonnett n’exerçait pas un emploi assurable auprès de l’appelante pour l’application de la Loi sur l’A-E pendant la période allant du 1er janvier 2007 au 8 avril 2008, 2008.
+Signé à Halifax (Nouvelle‑Écosse), ce 16e jour de novembre 2010.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 4e jour de janvier 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+Dossier : 2009-2759(CPP)
+ENTRE :
+TRINITY INNOVATIONS INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+___________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de Trinity Innovations Inc. (2009-2758(EI))
+le 29 septembre 2010 à Edmonton (Alberta).
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Représentante de l’appelante :
+Mme Pat Schacher
+Avocates de l’intimé :
+Me Gergely Hegedus et Me Rob Neilson
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté en vertu du Régime de pensions du Canada (le « RPC ») contre la décision du ministre du Revenu national (le « ministre ») datée du 5 mai 2009 est accueilli sans dépens, et la décision du ministre est modifiée en vue de prévoir ce qui suit :
+a) Matt Miske, Noel Schacher, Carla Schacher et Sandra Bonnett n’exerçaient pas un emploi ouvrant droit à pension pour l’application du RPC pendant la période allant du 1er janvier 2006 au 8 avril 2008;
+b) Carman Penner et Norman Ronsberg n’exerçaient pas un emploi ouvrant droit à pension pour l’application du RPC pendant la période allant du 1er janvier 2006 au 30 juin 2007;
+c) Dan Bonnett n’exerçait pas un emploi ouvrant droit à pension pour l’application du RPC pendant la période allant du 1er janvier 2007 au 8 avril 2008;
+Signé à Halifax (Nouvelle‑Écosse), ce 16e jour de novembre 2010.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 4e jour de janvier 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+Référence : 2010 CCI 583
+Date : 20101116
+Dossiers : 2009-2758(EI)
+2009-2759(CPP)
+ENTRE :
+TRINITY INNOVATIONS INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] La question en litige dans les présents appels est de savoir si, pour les périodes indiquées, les personnes suivantes exerçaient auprès de l’appelante un emploi aux termes d’un contrat de louage de services (et étaient donc des employées) ou d’un contrat de services (et étaient donc des entrepreneures indépendantes) pour l’application de la Loi sur l’assurance‑emploi (la « Loi sur l’A‑E ») et du Régime de pensions du Canada (le « RPC ») :
+Personnes
+Période considérée dans les présents appels
+Matt Miske, Noel Schacher,
+Carla Schacher et Sandra Bonnett
+du 1er janvier 2006 au 8 avril 2008
+Carman Penner et
+Norman Ronsberg
+du 1er janvier 2006 au 30 juin 2007
+Dan Bonnett
+du 1er janvier 2007 au 8 avril 2008
+[2] L’intimé avait conclu que les personnes en cause étaient des employées de l’appelante et que, par conséquent, elles exerçaient auprès de l’appelante un emploi assurable pour l’application de la Loi sur l’A‑E et un emploi ouvrant droit à pension pour l’application du RPC pendant les périodes susmentionnées.
+[3] Patricia Schacher, un des actionnaires de l’appelante, a témoigné au cours de l’audience. Elle a décrit l’activité de l’appelante de la manière suivante :
+[traduction]
+LE TÉMOIN : Trinity Innovations est une petite unité d’exploitation et de production. Notre activité est principalement axée sur le gaz naturel et, dans une moindre mesure, sur le pétrole. Elle est donc caractéristique de l’industrie
+pétrolière et gazière. -- c’est très cyclique. Vous êtes très, très occupés ou vous travaillez au ralenti. Et je pense que c’est ce qui nous a amené il y a plusieurs années à recourir aux vendeurs locaux ou sous-traitants – peu importe comment vous voulez les [sic] tous.
+Trinity n’a en principe pas besoin d’avoir beaucoup de gens à son service en permanence. Si nous recevons une commande de fabrication de cinq appareils, nous fabriquons les cinq appareils, et tout le monde rentre à la maison. Ils viennent dans leurs propres véhicules.
+Q LE JUGE WEBB : Excusez-moi. Lorsque vous parlez des cinq appareils, quels sont les appareils que vous fabriquez?
+A Nous fabriquons des appareils qui servent à délivrer le méthanol, le long [sic] de l’ouverture afin d’éviter toute hydratation. C’est l’explication la plus simple que je peux vous donner. La plupart d’entre eux -- l’appareil [sic] est appelé diviseur de débit. L’autre [sic] est appelé RDE, ce qui signifie régulateur de débit électronique. Et aussi, nous avons une pompe solaire à laquelle est attachée une pompe de reprise de 10 cm3, qui, en principe -- tous servent à délivrer le méthanol, le savon chimique, quelque chose qui doit être injecté afin d’aider à ramener le fluide à la surface aussi facilement que possible, sans émissions, ce genre de chose quoi.
+Q Je vous remercie.
+A Ainsi, normalement quand je recevais une commande de cinq appareils, j’appelais quelques personnes pour voir si elles étaient disponibles. Et si elles étaient libres, un contrat verbal était alors conclu. Ces personnes pouvaient venir quand elles voulaient. Si elles travaillaient ailleurs, elles venaient et faisaient le travail qu’il leur avait été demandé de faire. Il y avait habituellement ‑‑ elles me disaient le taux de rémunération qu’elles voulaient pour ce travail, et elles s’en allaient une fois le travail terminé.
+[4] Si l’appelante fabriquait un panneau de contrôle pour un RDE, il fallait environ quatre heures et s’il s’agissait de fabriquer un RDE complet, cela prenait deux jours. Les appareils étaient grands. Un appareil complet pèse environ 3 200 livres. Il semble évident que les personnes qui participaient à la fabrication des appareils étaient engagées pour une tâche précise – fabriquer un appareil ou une partie de celui‑ci. Il semble qu’une fois que les commandes d’appareils étaient exécutées l’engagement de ces travailleurs prenait fin. Il semble aussi qu’en 2006, l’appelante était très occupée, mais que depuis lors, la récession a eu des répercussions négatives sur l’activité de l’entreprise.
+[5] La question de savoir si une personne est un employé ou un entrepreneur indépendant a fait l’objet d’une jurisprudence abondante. Dans 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] A.C.S. 61, 2001 CSC 59 (« Sagaz »), le juge Major de la Cour suprême du Canada a déclaré ce qui suit :
+46 À mon avis, aucun critère universel ne permet de déterminer, de façon concluante, si une personne est un employé ou un entrepreneur indépendant. Lord Denning a affirmé, dans l’arrêt Stevenson Jordan, précité, qu’il peut être impossible d’établir une définition précise de la distinction (p. 111) et, de la même façon, Fleming signale que [traduction] « devant les nombreuses variables des relations de travail en constante mutation, aucun critère ne semble permettre d’apporter une réponse toujours claire et acceptable » (p. 416). Je partage en outre l’opinion du juge MacGuigan lorsqu’il affirme — en citant Atiyah, op. cit., p. 38, dans l’arrêt Wiebe Door,
+p. 563 — qu’il faut toujours déterminer quelle relation globale les parties entretiennent entre elles :
+[traduction] [N]ous doutons fortement qu’il soit encore utile de chercher à établir un critère unique permettant d’identifier les contrats de louage de services [. . .] La meilleure chose à faire est d’étudier tous les facteurs qui ont été considérés dans ces causes comme des facteurs influant sur la nature du lien unissant les parties. De toute évidence, ces facteurs ne s’appliquent pas dans tous les cas et n’ont pas toujours la même importance. De la même façon, il n’est pas possible de trouver une formule magique permettant de déterminer quels facteurs devraient être tenus pour déterminants dans une situation donnée.
+47 Bien qu’aucun critère universel ne permette de déterminer si une personne est un employé ou un entrepreneur indépendant, je conviens avec le juge MacGuigan que la démarche suivie par le juge Cooke dans la décision Market Investigations, précitée, est convaincante. La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l’employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s’il engage lui‑même ses assistants, quelle est l’étendue de ses risques financiers, jusqu’à quel point il est responsable des mises de fonds et de la gestion et jusqu’à quel point il peut tirer profit de l’exécution de ses tâches.
+48 Ces facteurs, il est bon de le répéter, ne sont pas exhaustifs et il n’y a pas de manière préétablie de les appliquer. Leur importance relative respective dépend des circonstances et des faits particuliers de l’affaire.
+[6] Dans Royal Winnipeg Ballet c. Le ministre du Revenu national, 2006 CAF 87, 2006 DTC 6323, les danseurs et la compagnie de ballet avaient tous deux une intention commune selon laquelle les danseurs seraient engagés à titre d’entrepreneurs indépendants. La Cour d’appel fédérale a examiné les faits pertinents de l’affaire à la lumière des facteurs énoncés dans Wiebe Door Services Ltd. v. Minister of National Revenue, [1986] 2 C.T.C. 200, 87 DTC 5025 (« Wiebe Door »). La Cour d’appel fédérale a conclu que les faits pertinents de l’affaire ne changeaient pas la nature de la relation que les danseurs et le Royal Winnipeg Ballet avaient l’intention d’établir, et que les danseurs étaient des entrepreneurs indépendants. Dans Royal Winnipeg Ballet, la juge Sharlow a fait les commentaires suivants :
+65. Le juge a retenu les facteurs énoncés ci‑dessous pour effectuer l’analyse exposée dans l’arrêt Wiebe Door (il n’est pas suggéré qu’il a utilisé des facteurs non pertinents ou qu’il a omis de tenir compte de facteurs pertinents) :
+· L’élément indispensable de l’expression artistique individuelle appartient nécessairement aux danseurs. Le RWB choisit les œuvres qui seront exécutées, décide de l’heure et du lieu des représentations et des répétitions, attribue les rôles, fournit la chorégraphie et dirige les représentations.
+· Les danseurs n’ont aucune responsabilité en matière de gestion ou d’investissement pour ce qui est du travail qu’ils effectuent pour le RWB.
+· Les danseurs n’assument pratiquement aucun risque financier pour le travail qu’ils effectuent pour le RWB pendant la saison pour laquelle ils ont été engagés. Cependant, le RWB ne les engage que pour une seule saison et ils n’ont aucune garantie d’être engagés à nouveau la saison suivante.
+· Les danseurs ont la possibilité de faire quelques bénéfices, même lorsqu’ils sont engagés par le RWB, dans la mesure où ils peuvent négocier une rémunération supplémentaire par rapport à celle que prévoit le Canadian Ballet Agreement. Cependant, l’essentiel de la rémunération versée par le RWB est basé sur l’ancienneté et il est rare qu’on s’écarte de ce barème.
+· La carrière d’un danseur est susceptible d’être gérée, en particulier à mesure que le danseur acquiert de l’expérience. Les danseurs engagés par le RWB ont une grande latitude lorsqu’il s’agit d’accepter des engagements avec d’autres compagnies de ballet, même s’ils doivent respecter des restrictions contractuelles importantes (la nécessité d’obtenir le consentement du RWB et l’obligation de se présenter comme étant engagé par le RWB).
+· Les danseurs payent de leur poche de nombreux frais liés à leur engagement par le RWB et leur carrière de danseur en général, mais le RWB est tenu de fournir les chaussons, les costumes, les collants, les perruques et certains autres articles nécessaires.
+· Il incombe aux danseurs de demeurer en bonne forme physique pour pouvoir exécuter les rôles qui leur sont attribués. Le RWB est
+toutefois tenu, en vertu du contrat, de fournir certains avantages liés à la santé et de prévoir des périodes de réchauffement.
+66. Dans la présente affaire, comme dans la plupart des affaires d’ailleurs, le facteur du contrôle mérite une attention particulière. Il me semble que le RWB exerce un contrôle étroit sur le travail des danseurs, mais ce contrôle ne dépasse pas ce qu’exige la présentation d’une série de ballets pendant une saison de spectacles bien planifiée. Si le RWB devait présenter un ballet en ayant recours à des artistes invités pour tous les rôles principaux, le contrôle qu’exercerait le RWB sur les artistes invités serait le même que si tous ces rôles étaient exécutés par des danseurs engagés pour la saison. Si l’on accepte (comme on doit le faire) le fait qu’un artiste invité peut accepter un rôle au sein du RWB sans pour autant devenir son employé, il faut en déduire que le facteur du contrôle exercé doit être compatible avec le fait que l’artiste invité est un entrepreneur indépendant. Il s’ensuit donc qu’on ne peut raisonnablement considérer comme incompatible avec l’intention des parties d’attribuer aux danseurs le statut d’entrepreneur indépendant le contrôle exercé en l’espèce sur les danseurs.
+67. Le même raisonnement s’applique à tous les facteurs, considérés dans leur ensemble, dans le contexte de la nature des activités qu’exerce le RWB et du travail qu’exécutent les danseurs engagés par le RWB. À mon avis, dans la présente affaire, la façon dont les parties interprétaient la nature de leur relation juridique est étayée par les clauses contractuelles et les autres faits pertinents.
+[7] Dans D.W. Thomas Holdings Inc. c. Le ministre du Revenu national, 2009 CAF 371, la juge Layden-Stevenson a déclaré ce qui suit, au nom de la Cour d’appel fédérale :
+5 Contrairement à ce que soutient l’appelante, la juge Miller a examiné la question de l’intention. En suivant la démarche énoncée dans l’arrêt Royal Winnipeg Ballet c. Canada (Ministre du Revenu national), [2007] 1 R.C.F. 35 (CAF), elle a examiné la preuve afin de déterminer si elle étayait l’intention de l’appelante et a conclu par la négative.
+[8] En l’espèce, il est évident que l’intention de l’appelante était que toutes les personnes susmentionnées seraient des entrepreneures indépendantes, et non des employées. Deux de ces personnes ont témoigné à l’audience, et il était évident que leur intention était aussi qu’elles seraient des entrepreneures indépendantes, et non
+des employées. Toutes les personnes susmentionnées ont tenu un registre des heures travaillées et ont présenté des factures à l’appelante pour les services rendus. Si la personne était enregistrée aux fins de la TPS, alors elle facturait aussi la TPS.
+[9] Dans Royal Winnipeg Ballet, les faits relatifs aux danseurs et les circonstances de leur travail ne suffisaient pas à modifier l’entente que les parties avaient eu l’intention de conclure. Par conséquent, il me semble qu’« en suivant la démarche énoncée dans l’arrêt Royal Winnipeg Ballet », les faits pertinents de l’affaire en cause, examinés à la lumière des facteurs énoncés dans Wiebe Door et Sagaz, devraient indiquer plus fortement l’existence d’une relation employeur‑employé que les faits de l’affaire Royal Winnipeg Ballet pour que les personnes en cause soient considérées comme des employées. Dans Royal Winnipeg Ballet aussi bien qu’en l’espèce, il y avait une intention de créer une relation employeur‑entrepreneur indépendant, et non une relation employeur‑employé.
+[10] En ce qui concerne le facteur de contrôle, il ressort de la preuve en l’espèce que le degré de contrôle que l’appelante exerçait sur les personnes en cause était moindre que le degré de contrôle que le Royal Winnipeg Ballet exerçait sur les danseurs de ballet. Dans l’affaire Royal Winnipeg Ballet, la juge Sharlow a décrit le degré de contrôle que le Royal Winnipeg Ballet avait sur les danseurs comme étant un contrôle « étroit ». Les danseurs, dans Royal Winnipeg Ballet, ne pouvaient pas décider de leurs propres heures de travail et devaient obtenir le consentement de Royal Winnipeg Ballet avant d’accepter d’autres engagements. Un extrait de l’arrêt Royal Winnipeg Ballet permet de constater ce qui suit :
+Le RWB choisit les œuvres qui seront exécutées, décide de l’heure et du lieu des représentations et des répétitions, attribue les rôles, fournit la chorégraphie et dirige les représentations.
+[11] En l’espèce, les personnes en cause pouvaient décider de leurs propres heures de travail, quoique dans certaines limites, lorsque leurs services avaient été retenus pour la fabrication de l’appareil qui devait être prêt à livrer au moment voulu par le client. Chaque personne avait une clé des locaux de l’appelante et par conséquent les personnes pouvaient aller et venir à leur guise. Patricia Schacher a décrit les heures de travail de la manière suivante :
+[traduction]
+A […] En ce qui concerne Matt ici ‑‑ lorsque je lui ai demandé pour la première fois d’effectuer certains petits travaux pour Trinity, Matt était un joueur de Hochey à l’avenir prometteur et il avait besoin de pouvoir se rendre à son entraînement le matin.
+Et parfois, il ne s’y rendait que ‑‑ il disait, voyez-vous, je pense que je peux être là pour 10 h. Puis-je travailler de 10 h à 14 h? Et puis, je dois retourner m’entraîner, et j’ai un match. Et cela me convenait. S’il pouvait aller et venir à sa guise.
+Q Qu’en était-il des autres personnes? Comment est-ce que leurs heures étaient établies?
+A Elles pouvaient décider de leurs propres heures. Si elles pouvaient achever le travail que je leur avais donné ‑‑ et c’est comme ça qu’elles s’y prenaient. Si elles avaient un autre travail ailleurs le matin, elles s’y rendaient. Si elles pouvaient être à mon atelier pour l’après‑midi et qu’elles savaient qu’elles pouvaient faire le travail, cela me convenait. C’était leur responsabilité d’enregistrer leurs propres heures. Je ne le faisais pas
+[12] En l’espèce, les personnes en cause pouvaient prendre des engagements auprès d’autres clients et elles n’avaient pas besoin du consentement de l’appelante pour le faire.
+[13] Une partie du travail était effectuée dans les locaux de l’appelante et une autre partie (le soudage, la peinture et le revêtement en poudre) était effectuée dans les locaux gérés par l’ex-époux de Patricia Schacher. Il semble que toutes les personnes en cause (à part Norman Ronsberg et Sandra Bonnett) participaient à la fabrication des appareils. Norman Ronsberg effectuait la livraison des fournitures provenant de Camrose et prenait part à la livraison des appareils. Il fallait deux personnes à bord du véhicule qui effectuait la livraison de l’appareil au champ de pétrole. Sandra Bonnett s’occupait du nettoyage des locaux de l’appelante lorsqu’on lui demandait de le faire et elle aidait dans le travail de bureau.
+[14] Dans Direct Care In‑Home Health Services Inc. c. Le ministre du Revenu national, 2005 CCI 173, le juge Hershfield a fait les commentaires suivants relativement au facteur de contrôle :
+11 Dans le cadre de l’analyse de ce facteur, il faut déterminer qui contrôle le travail et comment, quand et où il doit être effectué. S’il est jugé que le travailleur a le contrôle du travail une fois qu’il lui est confié, cela semble davantage
+indiquer que le travailleur est un entrepreneur indépendant, et s’il est jugé que l’employeur exerce un contrôle sur l’exécution du travail par le travailleur, cela laisse entendre qu’il y a une relation employeur‑employé*. Toutefois, lorsque les travailleurs ont une spécialisation accrue, il se peut que ce critère soit considéré comme moins fiable. On accorde donc plus d’importance à la question de savoir si le service que le travailleur doit fournir dans le cadre de ses fonctions est simplement axé sur les « résultats »; c.‑à‑d. « voici une tâche précise – vous avez été engagé pour l’exécuter ». Dans un tel cas, il n’y a pas de lien de subordination, ce qui est une exigence fondamentale pour qu’il y ait une relation employé‑employeur*. De plus, il ne faut pas confondre le contrôle des résultats, qui peut être exigé à chaque fois qu’un travailleur est engagé pour fournir des services, avec le contrôle ou la subordination d’un travailleur*.
+En l’espèce, la travailleuse pouvait refuser une affectation pour quelque raison que ce soit, ou même sans raison. […]
+[Non souligné dans l’original.]
+(* indique une référence d’une note de bas de page contenue dans le texte original et qui n’a pas été reproduite.)
+[15] L’entente intervenue entre l’appelante et les personnes en cause semble très similaire à celle décrite par le juge Hershfield, étant donné qu’il était attribué aux personnes en cause qui fabriquaient les appareils des tâches précises relativement à l’assemblage des appareils. Leurs services étaient retenus pour la fabrication des appareils pour l’appelante, et, lorsque les commandes avaient été exécutées, leur travail était terminé. Il est aussi évident que les personnes en cause étaient libres de refuser tout engagement de fabrication d’un appareil ou d’un certain nombre d’appareils.
+[16] Bien qu’en l’espèce, il y ait eu une certaine supervision des travailleurs, cette supervision était moindre que celle exercée par le Royal Winnipeg Ballet à l’égard des danseurs.
+[17] En ce qui concerne la propriété des instruments de travail, l’appelante avait fourni de l’outillage que les personnes en cause utilisaient et ces dernières fournissaient aussi leur propre outillage. L’appelante avait un camion et une remorque utilisés pour la livraison aux clients des appareils dont la fabrication avait été achevée. Les personnes en cause utilisaient leurs propres camions pour prendre
+les fournitures et facturaient un taux horaire pour l’utilisation de leurs véhicules. Sandra Bonnett achetait ses propres fournitures de nettoyage. L’appelante fournissait une machine pour le nettoyage des planchers de ciment. Dans Royal Winnipeg Ballet, les danseurs payaient de leurs poches de nombreux frais, mais Royal Winnipeg Ballet était tenu de leur fournir les chaussons, les costumes, les collants, les perruques et certains autres articles nécessaires.
+[18] Il semble que les personnes en cause n’auraient pas pu engager d’autres travailleurs pour exécuter les tâches qui leur avaient été assignées. Si une personne ne pouvait pas exécuter une certaine tâche, il semble que l’appelante engageait simplement quelqu’un d’autre pour exécuter cette tâche. Dans Royal Winnipeg Ballet, la question de savoir si les danseurs pouvaient engager des aides n’a pas été abordée, mais il semblerait illogique de supposer que les danseurs pouvaient engager n’importe qui pour les remplacer sur scène.
+[19] Quant à l’étendue des risques financiers ou à la possibilité de faire des bénéfices, les personnes en cause n’assumaient pratiquement aucun risque financier. Dans Royal Winnipeg Ballet, les danseurs, comme l’avait reconnu la Cour d’appel fédérale, n’assumaient pratiquement pas de risque financier.
+[20] Au regard de la possibilité de faire des bénéfices, les danseurs du Royal Winnipeg Ballet pouvaient négocier une rémunération supplémentaire, malgré le fait que la plupart étaient rémunérés selon un barème préétabli. En l’espèce, le taux horaire payé aux personnes en cause était fixé avant le début de l’exécution du travail. Les personnes en cause indiquaient le taux qu’elles voulaient et, si le taux était acceptable, elles étaient engagées. Autrement, soit le travailleur n’était pas engagé, soit l’appelante essayait de négocier un autre taux. Dans Royal Winnipeg Ballet, les danseurs pouvaient accepter des engagements avec d’autres compagnies de ballet à condition d’obtenir le consentement du Royal Winnipeg Ballet et de se présenter comme des membres du Royal Winnipeg Ballet. En l’espèce, aucune restriction de cette nature ne pesait sur les personnes en cause relativement à leur liberté d’accepter d’autres engagements.
+[21] Dans Royal Winnipeg Ballet, les danseurs n’avaient aucune responsabilité en matière de gestion ou d’investissement pour ce qui est du travail qu’ils effectuaient pour le Royal Winnipeg Ballet. En l’espèce, les personnes n’avaient aucune responsabilité en matière de gestion ou d’investissement pour ce qui est du travail qu’elles effectuaient pour l’appelante.
+[22] Il convient de signaler qu’en l’espèce, Sandra Bonnett exploitait son entreprise sous le nom de « Cleaning with Care » et qu’elle avait sa propre assurance de responsabilité.
+[23] Par conséquent, je conclus que les faits pertinents relatifs à l’engagement des personnes en cause par l’appelante, tels qu’ils sont établis à la lumière des facteurs énoncés dans les arrêts Wiebe Door et Sagaz, ne militent pas davantage en faveur d’une relation employeur‑employé que dans l’affaire Royal Winnipeg Ballet, et, puisqu’il existait clairement une intention mutuelle d’établir une relation employeur‑entrepreneur indépendant, les personnes étaient des entrepreneures indépendantes, et non des employées de l’appelante au cours de la période visée par l’appel.
+Signé à Halifax (Nouvelle‑Écosse), ce 16e jour de novembre 2010.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 4e jour de janvier 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+RÉFÉRENCE : 2010 CCI 583
+NOS DES DOSSIERS DE LA COUR : 2009-2758(EI); 2009-2759(CPP)
+INTITULÉ : TRINITY INNOVATIONS INC.
+c.
+LE MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE : Edmonton (Alberta)
+DATE DE L’AUDIENCE : Le 29 septembre 2010
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 16 novembre 2010
+COMPARUTIONS :
+Représentante de l’appelante :
+Mme Pat Schacher
+Avocates de l’intimé :
+Me Gergely Hegedus et Me Rob Neilson
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimé : Myles J. Kirvan
+Sous‑procureur général du Canada
+Ottawa, Canada

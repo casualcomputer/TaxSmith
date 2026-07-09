@@ -1,0 +1,212 @@
+---
+title: "The Thomas 2009 Family Trust c. Le Roi"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/520973/index.do"
+last_modified: "2022-09-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 CCI 102"
+citation2: ""
+neutral_citation: "2022 CCI 102"
+decision_date: "2022-09-20"
+language: "fr"
+item_id: "520973"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4499
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-04-10T10:30:11.993000+00:00"
+cases_cited_count: 8
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3ce173de0b17f4035ab61a8148d60ac06ed8a43795379b8d72eab6069d3fbfa8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# The Thomas 2009 Family Trust c. Le Roi
+
+- Citation: 2022 CCI 102
+- Decision date: 2022-09-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4499, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+The Thomas 2009 Family Trust c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2022-09-15
+Référence neutre
+2022 CCI 102
+Numéro de dossier
+2020-1885(GST)G
+Juges et Officiers taxateurs
+Gabrielle St-Hilaire
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2020-1885(GST)G
+ENTRE :
+LA FIDUCIE FAMILIALE THOMAS DE 2009,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé/requérant.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête tranchée sur dossier
+Devant : l’honorable juge Gabrielle St-Hilaire
+Participants :
+Avocate de l’appelante :
+Me Sara L. Scott
+Avocat de l’intimé/du requérant :
+Me Devon E. Peavoy
+ORDONNANCE
+Conformément aux motifs de l’ordonnance ci-joints, la requête présentée par l’intimé demandant que soit tranchée une question avant l’audience, en vertu de l’article 58 des Règles de la Cour canadienne de l’impôt (procédure générale), est rejetée; les dépens suivront l’issue de la cause.
+L’ordonnance du 17 mars 2022 est modifiée et est maintenant rédigée ainsi :
+Les questions écrites de l’interrogatoire préalable devront être signifiées à la partie opposée au plus tard le 17 octobre 2022.
+Les réponses aux questions écrites de l’interrogatoire préalable devront être signifiées à la partie opposée au plus tard le 16 décembre 2022.
+Les questions écrites de suivi de l’interrogatoire préalable devront être signifiées, ou l’interrogatoire préalable oral devra être terminé, au plus tard le 17 janvier 2023.
+Les réponses aux questions écrites de suivi fournies lors de l’interrogatoire préalable, s’il y en a, devront être signifiées au plus tard le 11 mars 2023.
+Les parties sont tenues de communiquer par écrit avec le coordonnateur des audiences au plus tard le 11 avril 2023 pour faire savoir à la Cour si l’affaire sera réglée, s’il serait utile d’organiser une conférence de règlement ou s’il faut fixer une date d’audience. Dans ce dernier cas, les parties devront, d’ici cette date, présenter une demande conjointe pour que soient fixés la date, l’heure et le lieu de l’audience, conformément à l’article 123 des Règles de la Cour canadienne de l’impôt (procédure générale).
+Signé à Ottawa, Canada, ce 15e jour de septembre 2022.
+« Gabrielle St-Hilaire »
+La juge St-Hilaire
+Traduction certifiée conforme
+ce 6e jour de juin 2023.
+Elisabeth Ross, jurilinguiste
+Référence : 2022 CCI 102
+Date : 20220915
+Dossier : 2020-1885(GST)G
+ENTRE :
+LA FIDUCIE FAMILIALE THOMAS DE 2009,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé/requérant.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+La juge St-Hilaire
+I. Introduction [1] L’intimé a déposé une requête demandant que soit tranchée une question avant l’audience, en vertu de l’article 58 des Règles de la Cour canadienne de l’impôt (procédure générale) [les « Règles »]. L’intimé a demandé que la requête soit tranchée sur dossier, et l’appelante a répondu par des observations écrites qu’elle s’opposait à la requête.
+[2] L’appelante est l’unique actionnaire de la société 147842 Canada Limited (la « société 147842 »). En 2010 et 2011, la société 147842 a versé à l’appelante des dividendes de 22 000 $ et de 70 000 $, respectivement. Le 7 novembre 2019, le ministre du Revenu national (le « ministre ») a établi, à l’égard de l’appelante, une cotisation de 92 000 $ en application de l’article 325 de la Loi sur la taxe d’accise (la « LTA »), relativement à un transfert de biens entre personnes ayant un lien de dépendance.
+[3] Plusieurs événements se sont produits entre le transfert des dividendes en 2010 et 2011 et l’établissement de la cotisation en 2019. Bien que certains faits soient contestés, les parties conviennent que le syndic de l’appelante, M. Derek Thomas, a déposé en mars 2013 une proposition au titre de la section I de la Loi sur la faillite et l’insolvabilité (la « LFI »). La société 147842 faisait partie de la structure organisationnelle proposée par M. Thomas. Le ministre et le syndic, Grant Thornton Limité (« GTL »), ont participé à des discussions portant notamment sur la société 147842 et, en juin 2013, la société a déposé une proposition au titre de la section I de la LFI. La société 147842 a terminé d’exécuter toutes les modalités de la proposition en août 2016.
+[4] Le différend porte sur la question de savoir si le ministre a exigé que la société 147842 dépose une proposition au titre de la section I de la LFI et si les discussions entre le ministre et GTL ont porté sur un plan visant [traduction] « l’ensemble de la dette envers l’Agence du revenu du Canada (“ARC”) ». Je suis d’avis que ces faits ont une incidence sur l’examen des questions que soulève l’appelante dans son avis d’appel.
+[5] Au paragraphe 14 de son avis d’appel, l’appelante énonce en ces termes les questions en litige dans le présent appel :
+[traduction]
+a) la dette de la société [147842] a été acquittée du fait de la proposition déposée au titre de la LFI;
+b) il est défendu au ministre de tenter de recouvrer d’autres sommes du contribuable [l’appelante] ou de la société, car la dette de la société a été acquittée.
+[6] Au paragraphe 9 de sa réponse, l’intimé écrit que [traduction] « la question en litige est de savoir si le ministre a correctement établi la cotisation de 92 000 $ à l’égard de l’appelante relativement au transfert de dividendes entre personnes ayant un lien de dépendance ». Je suis d’avis que cette très vaste question se pose dans tout appel visant une cotisation établie en application de l’article 325 de la LTA relativement à des transferts de dividendes.
+[7] Dans ses observations écrites présentées à l’appui de la présente requête, l’intimé a énoncé en ces termes la question qui doit être tranchée en vertu de l’article 58 des Règles :
+[traduction] La question est de savoir si la libération de faillite subséquente du débiteur fiscal initial dégage l’appelante de la responsabilité solidaire qui est imposée par l’article 325 de la Loi sur la taxe d’accise et qui a été engagée lors du transfert de biens (la « question »).
+[8] Selon l’intimé, il s’agit d’une question de droit qui peut être tranchée sans examen des faits.
+Le droit concernant l’article 58 des Règles
+[9] L’article 58 des Règles prévoit une procédure en deux étapes par laquelle une partie peut demander à la Cour de trancher une question avant l’audience. L’article 58 des Règles est rédigé ainsi :
+58 (1) Sur requête d’une partie, la Cour peut rendre une ordonnance afin que soit tranchée avant l’audience une question de fait, une question de droit ou une question de droit et de fait soulevée dans un acte de procédure, ou une question sur l’admissibilité de tout élément de preuve.
+(2) Lorsqu’une telle requête est présentée, la Cour peut rendre une ordonnance s’il appert que de trancher la question avant l’audience pourrait régler l’instance en totalité ou en partie, abréger substantiellement celle-ci ou résulter en une économie substantielle de frais.
+(3) L’ordonnance rendue en application du paragraphe (1) contient les renseignements suivants :
+a) la question à trancher avant l’audience;
+b) des directives relatives à la manière de trancher la question, y compris des directives sur la preuve à consigner, soit oralement ou par tout autre moyen, et sur la méthode de signification ou de dépôt des documents;
+c) le délai pour la signification et le dépôt d’un mémoire comprenant un exposé concis des faits et du droit;
+d) la date, l’heure et le lieu pour l’audience se rapportant à la question à trancher;
+e) toute autre directive que la Cour estime appropriée.
+[10] La requête dont notre Cour est actuellement saisie porte sur la première étape de la procédure prévue à l’article 58 des Règles. Dans un premier temps, la Cour doit déterminer s’il convient de trancher la question proposée par le mécanisme prévu à l’article 58, compte tenu des exigences de cette disposition. Si la Cour juge que l’article 58 des Règles est invoqué à juste titre et qu’elle rend l’ordonnance demandée, elle entendra ensuite les observations et tranchera la question avant l’audience conformément à la deuxième étape de la procédure prévue.
+[11] Dans la décision Paletta c. La Reine, 2016 CCI 171, conf. par 2017 CAF 33, le juge Owen a fait une analyse approfondie et utile de la version la plus récente de l’article 58 des Règles, dont certains passages méritent d’être cités, pour définir le contexte juridique dans lequel la présente requête est tranchée. Aux paragraphes 13 à 25, le juge Owen a écrit ce qui suit :
+[13] L’article 58 continue de décrire une procédure en deux étapes. Le paragraphe 58(1) énonce que la Cour peut, sur requête d’une partie, rendre une ordonnance afin que soit tranchée avant l’audience :
+1. une question de fait, une question de droit ou une question de droit et de fait soulevée dans un acte de procédure;
+2. une question sur l’admissibilité de tout élément de preuve.
+[14] En vertu du paragraphe 58(2), la Cour peut rendre l’ordonnance s’il appert que de trancher la question avant l’audience pourrait :
+1. régler l’instance en totalité ou en partie;
+2. abréger substantiellement celle-ci;
+3. résulter en une économie substantielle de frais.
+[15] À la première étape, la Cour détermine si elle devrait rendre une ordonnance, en tenant compte des exigences aux paragraphes 58(1) et 58(2), qui sont examinés en appliquant les règles habituelles d’interprétation des lois, tout en gardant à l’esprit, cependant, le paragraphe 4(1) des Règles, qui dispose : « Les présentes règles doivent recevoir une interprétation large afin d’assurer la résolution équitable sur le fond de chaque instance de la façon la plus expéditive et la moins onéreuse. »
+[16] En ce qui concerne les exigences aux paragraphes 58(1) et 58(2), le paragraphe 58(1) dispose qu’il doit y avoir soit une question de fait, une question de droit ou une question de droit et de fait soulevée dans un acte de procédure, soit une question sur l’admissibilité de tout élément de preuve.
+[17] Dans l’arrêt Canada (Directeur des enquêtes et recherches) c. Southam Inc., [1997] 1 R.C.S. 748, la Cour suprême du Canada a décrit ce qui constitue une question de droit, une question de fait et une question de droit et de fait (au paragraphe 35) :
+[...] En résumé, les questions de droit concernent la détermination du critère juridique applicable; les questions de fait portent sur ce qui s’est réellement passé entre les parties; et, enfin, les questions de droit et de fait consistent à déterminer si les faits satisfont au critère juridique. Un exemple simple permettra d’illustrer ces concepts. En droit de la responsabilité civile délictuelle, la question de savoir en quoi consiste la « négligence » est une question de droit. Celle de savoir si le défendeur a fait ceci ou cela est une question de fait. Une fois qu’il a été décidé que la norme applicable est la négligence, la question de savoir si le défendeur a respecté la norme de diligence appropriée est une question de droit et de fait. [...]
+[18] La question de droit, de fait, ou de droit et de fait doit être soulevée dans un acte de procédure. L’article 58 ne prévoit pas de moyen pour examiner des questions qui ne sont pas soulevées dans un acte de procédure.
+[19] La seconde condition préalable possible en vertu du paragraphe 58(1) a été ajoutée lors des modifications apportées en 2014 à l’article 58. Elle étend l’application de l’article 58 aux questions sur l’admissibilité d’un élément de preuve. L’ajout de cette condition préalable confirme la portée large de l’article 58 actuel, puisqu’il peut maintenant porter sur pratiquement toute question qui pourrait survenir lors de l’audience de l’appel.
+[20] Selon le paragraphe 58(2), il suffit s’« il appert » que l’audience tenue en vertu de l’article 58 « pourrait » mener à l’un des résultats précisés. Le verbe « pouvoir » est utilisé dans deux sens au paragraphe 58(2). Le premier sens est permissif, et il s’agit également du sens qu’il a au paragraphe 58(1). La répétition du sens permissif montre clairement que la décision de rendre une ordonnance est entièrement discrétionnaire. Plus précisément, le fait qu’une question puisse satisfaire aux exigences des paragraphes 58(1) et 58(2) n’oblige pas la Cour à rendre une ordonnance en vertu de l’article 58.
+[21] Le fait que l’article soit discrétionnaire est complètement compatible avec le fait que la Cour canadienne de l’impôt a le pouvoir implicite de contrôler sa procédure. Dans l’arrêt R. c. Cunningham, 2010 CSC 10, [2010] 1 R.C.S. 331, la Cour suprême du Canada a déclaré :
+De même, dans le cas d’un tribunal d’origine législative, le pouvoir de faire respecter sa procédure et le droit de regard sur la manière dont les avocats exercent leurs fonctions s’infèrent nécessairement du pouvoir de constituer une cour de justice. Notre Cour a confirmé que les pouvoirs d’un tribunal d’origine législative peuvent être déterminés grâce à une « doctrine de la compétence par déduction nécessaire » :
+[...] sont compris dans les pouvoirs conférés par la loi habilitante non seulement ceux qui y sont expressément énoncés, mais aussi, par déduction, tous ceux qui sont de fait nécessaires à la réalisation de l’objectif du régime législatif [...]
+(ATCO Gas and Pipelines Ltd. c. Alberta (Energy and Utilities Board), 2006 CSC 4, [2006] 1 R.C.S. 140, par. 51)
+Même si, dans cet arrêt, le juge Bastarache renvoie à un tribunal administratif, la même règle de la compétence par déduction nécessaire vaut pour un tribunal d’origine législative.
+[22] Outre qu’elle reflète le pouvoir implicite de la Cour de contrôler ses propres procédures, la répétition de l’aspect permissif de l’article 58 confirme qu’il peut très bien y avoir d’autres considérations en jeu lorsque la Cour décide de rendre ou non une ordonnance. L’utilisation répétée d’un libellé permissif aux paragraphes 58(1) et 58(2) confirme que la Cour n’est pas tenue d’examiner uniquement les exigences établies à ces paragraphes.
+[23] Le second sens du verbe « pouvoir » au paragraphe 58(2) exprime une possibilité. Plus précisément, s’« il appert » au juge qui entend la requête que le fait de trancher la question « pourrait » (c.-à-d. pourrait possiblement) mener à l’un des trois résultats précisés au paragraphe 58(2), alors le juge peut (et non doit) rendre une ordonnance.
+[24] Les décisions rendues en vertu de la version antérieure de l’article 58 sont bien résumées par le juge en chef dans le jugement Suncor, précité. Comme l’a fait observer le juge en chef, dans certaines décisions rendues en vertu de la version antérieure de l’article 58, la Cour a jugé qu’une question ne satisfait pas à l’exigence qui est maintenant au paragraphe 58(2) si seulement l’une des deux réponses possibles menait aux résultats escomptés.
+[25] À mon sens, ces décisions n’énoncent pas de règle stricte qu’il faut appliquer à la version actuelle de l’article 58. Par ailleurs, le libellé discrétionnaire général dans la version actuelle du paragraphe 58(2) appuie la thèse selon laquelle une question n’échoue pas nécessairement au critère de ce paragraphe si l’une des réponses possibles ne menait pas aux résultats escomptés. La Cour devrait plutôt tenir compte de la possibilité d’une telle réponse lorsqu’elle examine si elle devrait exercer son pouvoir discrétionnaire en vertu de l’article 58. À mon avis, une telle approche est conforme au libellé discrétionnaire du paragraphe 58(2), au mandat prévu aux termes du paragraphe 4(1) des Règles et aux principes généraux énoncés par la Cour suprême du Canada dans Hryniak.
+[26] En tenant compte de ces facteurs, je vais maintenant examiner la requête de l’appelant. Il est clair que la question est une question mixte de droit et de fait soulevée dans l’avis d’appel déposé par l’appelant. Par conséquent, la question satisfait à l’une des exigences du paragraphe 58(1).
+[Notes de bas de page omises.]
+[12] Il convient de rappeler que le paragraphe 58(1) des Règles exige que soit soulevée une question de fait, une question de droit ou une question de droit et de fait dans un acte de procédure, ou une question sur l’admissibilité d’un élément de preuve. De plus, le paragraphe 58(2) des Règles dispose que la Cour peut rendre l’ordonnance s’il appert que de trancher la question avant l’audience pourrait :
+1. régler l’instance en totalité ou en partie;
+2. abréger substantiellement celle-ci;
+3. résulter en une économie substantielle de frais.
+[13] Je me penche maintenant sur la requête de l’intimé, en gardant à l’esprit tous ces éléments.
+II. Analyse [14] Par souci de simplicité, je répète la question que l’intimé souhaite voir trancher :
+[traduction]
+La question est de savoir si la libération de faillite subséquente du débiteur fiscal initial dégage l’appelante de la responsabilité solidaire qui est imposée par l’article 325 de la Loi sur la taxe d’accise et qui a été engagée lors du transfert de biens.
+[15] L’intimé fait valoir qu’il s’agit d’une question de droit que la Cour peut trancher sans examiner les faits. L’appelante soutient qu’il ne s’agit pas d’une pure question de droit. Selon l’arrêt Southam, précité, de la Cour suprême du Canada, la question telle qu’elle a été formulée par l’intimé exige qu’il soit déterminé si l’appelante satisfait au critère juridique; il s’agit donc d’une question de droit et de fait. Cela n’empêche toutefois pas l’application de l’article 58 des Règles, étant donné les modifications qui y ont été apportées en 2014. Cela indique toutefois que, pour répondre à la question, la Cour serait tenue d’examiner les faits de l’affaire.
+[16] Au paragraphe 19 de ses observations écrites, l’intimé indique qu’il fera valoir que la responsabilité solidaire de l’appelante à l’égard de la dette de la société 147842 a été engagée lors du transfert de biens, et que la libération de faillite subséquente de la société 147842 n’est pas pertinente. L’intimé soutient que l’ordonnance de libération de faillite ne fait pas disparaître la responsabilité de la société 147842 à l’égard de la dette, même si elle dégage la société de l’obligation de la payer.
+[17] La question telle qu’elle a été formulée par l’intimé pose un problème. Tout d’abord, l’appelante note que la société 147842 – le débiteur fiscal initial – n’a jamais eu le statut de failli et que l’appel ne porte pas sur une faillite, mais plutôt sur une proposition faite au titre de la section I. De plus, l’intimé demande également si la libération subséquente du débiteur fiscal initial dégage l’appelante de sa responsabilité. Je ne crois pas qu’il s’agisse de la question précise soulevée dans le présent appel. Dans sa réponse, l’intimé a énoncé la question en litige en des termes très généraux, déclarant que la question porte sur l’exactitude de la cotisation établie en application de l’article 325. L’appelante a été plus précise dans son avis d’appel, déclarant qu’il s’agissait de déterminer, premièrement, si [traduction] « toute dette de la société [147842] a été acquittée du fait la proposition déposée au titre de la LFI » et, deuxièmement, s’il est [traduction] « défendu au ministre de tenter de recouvrer d’autres sommes » puisque la dette avait été acquittée. Selon mon interprétation, la question en litige n’est pas de savoir si l’appelante peut être dégagée de sa responsabilité en raison d’une libération de faillite, mais plutôt de déterminer si, dans les circonstances de l’espèce, la société 147842 a toujours une dette dont l’appelante peut être tenue solidairement responsable, compte tenu de la proposition qui a été faite au titre de la LFI et des circonstances dans lesquelles elle a été faite.
+[18] Il n’est pas manifeste que la question a été soulevée dans l’acte de procédure comme l’exige le paragraphe 58(1) des Règles, mais, plus important encore, la Cour peut rendre une ordonnance s’il appert que de trancher la question pourrait donner l’un des résultats énoncés au paragraphe 58(2) des Règles. Je conclus que ce n’est pas le cas. Je souscris aux observations formulées par l’intimé au paragraphe 24, selon lesquelles il n’est pas nécessaire que la Cour conclue que le fait de répondre à la question tranchera sans le moindre doute l’appel en partie. Cependant, comme l’a conclu la Cour d’appel fédérale dans l’arrêt Canadian Forest Navigation Co. Ltd. c. Canada, 2017 CAF 39, la Cour devrait s’abstenir de répondre à la question s’il ne semble pas que la réponse résoudra quoi que ce soit dans le contexte de l’appel.
+[19] L’appelante soutient que l’appel ne porte pas sur une faillite, mais plutôt sur une proposition déposée par la société 147842 au titre de la section I, dans des circonstances où l’ARC était l’unique créancier et avait grandement participé à l’élaboration de la proposition, notamment, semble-t-il, en incitant la société 147842 à présenter une proposition, cela se voulant une condition préalable à l’acceptation de la proposition de M. Thomas, tout en sachant que la société 147842 avait versé des dividendes avant la proposition. L’appelante allègue que l’ARC a présenté la proposition à plusieurs paliers comme étant un moyen de régler la totalité de la dette fiscale du groupe de sociétés. Dans sa réponse, l’ARC a nié le fait que la proposition visait à englober l’ensemble de la dette envers l’ARC. L’élément au cœur du présent appel porte sur d’importantes questions de fait qui sont contestées et dont il vaut mieux laisser l’examen au juge qui entendra la preuve (voir Fiducie Historia c. La Reine, 2021 CCI 38, paragraphe 42, renvoyant à l’arrêt 3488063 Canada Inc. c. Canada, 2016 CAF 233).
+[20] À titre subsidiaire de son opposition à la requête, et étant donné que la Cour peut exercer son pouvoir discrétionnaire pour reformuler la question fondée sur l’article 58 des Règles, l’appelante a proposé les questions suivantes (et a présenté par la suite les réponses qu’elle proposait à ces questions) :
+[traduction]
+a)Quelle conséquence juridique le dépôt, par une société, d’une proposition de faillite au titre de la section I de la LFI a-t-il sur l’applicabilité du paragraphe 325(1) de la LTA lorsque l’ARC est l’unique créancier de la société?
+b)Quelle conséquence juridique le dépôt, par une société, d’une proposition de faillite au titre de la section I de la LFI a-t-il sur l’applicabilité du paragraphe 325(1) de la LTA lorsque l’ARC, à titre d’unique créancier de la société, a incité la société à présenter cette proposition?
+c)Quelle conséquence juridique le dépôt, par une société, d’une proposition de faillite au titre de la section I de la LFI a-t-il sur l’applicabilité du paragraphe 325(1) de la LTA lorsque l’ARC, à titre d’unique créancier de la société ou de créancier ayant incité la société à déposer la proposition ou ayant exigé qu’elle le fasse, accepte la proposition tout en sachant que des dividendes ont été versés par la société avant la date de la proposition, à une période où la société avait une dette envers l’ARC?
+[21] Je suis d’avis que répondre à la question telle qu’elle a été formulée par l’intimé n’aide en rien les parties à résoudre le litige qui est au cœur du présent appel. Même si la Cour devait conclure que la libération de faillite n’a pas d’incidence sur la dette du bénéficiaire du transfert, cette conclusion ne serait d’aucune utilité pour déterminer l’effet d’une proposition établie au titre de la LFI et, plus précisément, d’une proposition qui a été négociée dans les circonstances alléguées par l’appelante. Contrairement à ce que soutient l’intimé, répondre à la question ne permettrait pas de gagner beaucoup de temps ni de réaliser d’importantes économies de frais. Qui plus est, si la Cour devait accueillir la présente requête et passer à la deuxième étape de la procédure prévue à l’article 58 des Règles pour répondre aux questions telles qu’elles ont été reformulées par l’appelante, elle devrait entendre des témoins et trancher les questions soulevées dans l’appel. En d’autres termes, le juge des requêtes tiendrait essentiellement une audience complète relative à l’appel. Comme l’a affirmé la juge Campbell dans la décision McIntyre c. La Reine, 2014 CCI 111, une requête fondée sur l’article 58 des Règles ne saurait remplacer un procès. Je juge que l’espèce ne constitue pas une affaire où il convient de rendre l’ordonnance demandée en vertu de la première étape prévue à l’article 58 des Règles. J’en arrive à cette conclusion, car le paragraphe 4(1) des Règles dispose que les Règles « doivent recevoir une interprétation large afin d’assurer la résolution équitable sur le fond de chaque instance de la façon la plus expéditive et la moins onéreuse ».
+[22] Pour les motifs qui précèdent, la requête est rejetée; les dépens suivront l’issue de la cause.
+[23] Comme la présente requête a été déposée avant la tenue des interrogatoires préalables dans la présente affaire, l’ordonnance datée du 17 mars 2022 est modifiée et est maintenant rédigée ainsi :
+Les questions écrites de l’interrogatoire préalable devront être signifiées à la partie opposée au plus tard le 17 octobre 2022.
+Les réponses aux questions écrites de l’interrogatoire préalable devront être signifiées à la partie opposée au plus tard le 16 décembre 2022.
+Les questions écrites de suivi de l’interrogatoire préalable devront être signifiées, ou l’interrogatoire préalable oral devra être terminé, au plus tard le 17 janvier 2023.
+Les réponses aux questions écrites de suivi fournies lors de l’interrogatoire préalable, s’il y en a, devront être signifiées au plus tard le 11 mars 2023.
+Les parties sont tenues de communiquer par écrit avec le coordonnateur des audiences au plus tard le 11 avril 2023 pour faire savoir à la Cour si l’affaire sera réglée, s’il serait utile d’organiser une conférence de règlement ou s’il faut fixer une date d’audience. Dans ce dernier cas, les parties devront, d’ici cette date, présenter une demande conjointe pour que soient fixés la date, l’heure et le lieu de l’audience, conformément à l’article 123 des Règles de la Cour canadienne de l’impôt (procédure générale).
+Signé à Ottawa, Canada, ce 15e jour de septembre 2022.
+« Gabrielle St-Hilaire »
+La juge St-Hilaire
+Traduction certifiée conforme
+ce 6e jour de juin 2023.
+Elisabeth Ross, jurilinguiste
+RÉFÉRENCE :
+2022 CCI 102
+NO DU DOSSIER DE LA COUR :
+2020-1885(GST)G
+INTITULÉ :
+LA FIDUCIE FAMILIALE THOMAS DE 2009 c. SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Ottawa (Ontario)
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Gabrielle St-Hilaire
+DATE DE L’ORDONNANCE :
+Le 15 septembre 2022
+COMPARUTIONS :
+Avocate de l’appelante :
+Me Sara L. Scott
+Avocat de l’intimé :
+Me Devon E. Peavoy
+AVOCATS INSCRITS AU DOSSIER :
+Pour appelante :
+Nom :
+Me Sara L. Scott
+Cabinet :
+Stewart McKelvey
+Queen’s Marque
+Bureau 600
+1741, rue Lower Water
+Halifax (Nouvelle-Écosse) B3J 0J2
+Pour l’intimé :
+Me François Daigle Sous-procureur général du Canada Ottawa, Canada

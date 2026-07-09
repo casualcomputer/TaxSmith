@@ -1,0 +1,151 @@
+---
+title: "Jay c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29666/index.do"
+last_modified: "2010-03-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 122"
+citation2: ""
+neutral_citation: "2010 CCI 122"
+decision_date: "2010-03-02"
+language: "fr"
+item_id: "29666"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6234
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:13:40.463000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7fa4b4f826abe760ee8b33863b5dd6a22093bcf2808c497edff181d1ba803a75"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Jay c. La Reine
+
+- Citation: 2010 CCI 122
+- Decision date: 2010-03-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6234, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jay c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-03-02
+Référence neutre
+2010 CCI 122
+Numéro de dossier
+2009-1135(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-1135(IT)I
+ENTRE :
+TRAVIS P. JAY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 10 février 2010, à Charlottetown
+(Île-du-Prince-Édouard).
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Avocat de l’appelant :
+Me Jonathan M. Coady
+Avocat de l’intimée :
+Me Gregory B. King
+____________________________________________________________________
+JUGEMENT
+L’appel concernant les cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2003 et 2004 est accueilli et les cotisations sont renvoyées au ministre du Revenu national pour nouvel examen et nouvelles cotisations compte tenu du fait que les pénalités établies en vertu du paragraphe 162(1) de la Loi doivent être annulées.
+Chaque partie supportera ses propres frais.
+Signé à Toronto (Ontario), ce 2e jour de mars 2010.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 28e jour de juin 2010.
+Marie­Christine Gervais, traductrice
+Référence : 2010 CCI 122
+Date : 20100302
+Dossier : 2009-1135(IT)I
+ENTRE :
+TRAVIS P. JAY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] L’appelant, Travis Jay, a interjeté le présent appel par suite de cotisations établies en vertu de la Loi de l’impôt sur le revenu (la « Loi ») pour les années d’imposition 2003 et 2004.
+[2] J’aimerais d’abord clarifier une question qui se pose pour l’année d’imposition 2002.
+[3] Au début de l’audience, les avocats m’ont informée que la même question se pose pour les années d’imposition 2002, 2003 et 2004, et qu’il était prématuré d’entendre l’appel concernant l’année 2002.
+[4] Le problème est le suivant : l’avis d’appel prête à confusion en ce qui concerne la question de savoir si un allègement est demandé pour l’année d’imposition 2002. Compte tenu de la position prise par les parties, je n’ai pas l’intention de traiter plus à fond de cette année d’imposition. Pour plus de clarté, un nouvel avis d’appel devra être déposé pour qu’un appel puisse être interjeté à l’égard de cette année‑là.
+[5] Quant à la question principale, elle se rapporte à une bourse d’études que l’appelant a reçue du collège Appleby, en Ontario, afin de lui permettre d’acquitter les frais d’études secondaires faites à cet endroit. Les montants reçus étaient de 34 000 $ pour l’année d’imposition 2003 et de 35 000 $ pour l’année d’imposition 2004.
+[6] En vertu de la législation applicable à ce moment‑là, le montant de la bourse d’études, moins un montant de 500 $, devait être inclus dans le revenu.
+[7] Lorsque la bourse d’études a initialement été accordée, le collège Appleby n’a pas informé l’appelant ou ses parents que les bourses d’études étaient imposables. L’appelant, qui croyait qu’il n’existait aucune obligation de payer l’impôt sur ces montants, n’a pas produit de déclarations de revenu pour les années d’imposition 2003 et 2004.
+[8] Le ministre du Revenu national a établi, pour les années d’imposition 2003 et 2004, des cotisations qui incluaient dans le revenu de l’appelant les montants reçus, en sus du montant de 500 $. De plus, des pénalités ont été imposées par suite de l’omission de produire des déclarations de revenu dans les délais impartis.
+[9] L’avis d’appel visait l’obtention d’un allègement pour l’impôt, les intérêts et les pénalités, principalement pour des motifs d’équité. L’avocat de l’appelant a abandonné ces arguments au début de l’audience et il a demandé un allègement pour les pénalités en invoquant uniquement la diligence raisonnable. L’avocat a indiqué que des demandes sont en cours ailleurs en vue de l’obtention d’une remise de l’impôt et d’une renonciation aux intérêts.
+[10] Il s’agit donc uniquement de savoir si les pénalités doivent être annulées pour des motifs de diligence raisonnable. Le montant des pénalités s’élève en tout à 2 561,54 $.
+[11] Les pénalités ont été imposées conformément au paragraphe 162(1) de la Loi, lequel ne prévoit pas un moyen de défense fondé sur la diligence raisonnable. Cette disposition est libellée ainsi :
+162 (1) Toute personne qui ne produit pas de déclaration de revenu pour une année d’imposition selon les modalités et dans le délai prévus au paragraphe 150(1) est passible d’une pénalité égale au total des montants suivants :
+a) 5 % de l’impôt payable pour l’année en vertu de la présente partie qui était impayé à la date où, au plus tard, la déclaration devait être produite;
+b) le produit de 1 % de cet impôt impayé par le nombre de mois entiers, jusqu’à concurrence de 12, compris dans la période commençant à la date où, au plus tard, la déclaration devait être produite et se terminant le jour où la déclaration est effectivement produite.
+[12] Malgré le caractère strict de la législation, il a généralement été reconnu qu’une pénalité de cette nature ne doit pas être imposée si le contribuable a pris toutes les mesures raisonnables afin de se conformer à la législation : Banque Royale du Canada c. La Reine, 2007 CAF 72, [2007] GSTC 18.
+[13] L’appelant a été la seule personne à témoigner à l’audience. Il a témoigné que ni lui ni sa famille n’avaient les moyens de payer l’impôt sur les bourses d’études et qu’il ne se serait pas inscrit au collège Appleby s’il avait été au courant de la chose. Il a également témoigné que sa mère lui avait récemment dit qu’un comptable l’avait informée au moment pertinent que les bourses d’études n’étaient pas imposables.
+[14] J’ai eu l’impression, en entendant le témoignage de l’appelant, qu’étant donné son âge, celui‑ci s’était fié à sa mère pour lui fournir de l’aide de cette nature, ce qui est bien compréhensible étant donné que l’appelant faisait alors ses études secondaires.
+[15] Le bref témoignage que l’appelant a présenté au sujet du comptable n’a pas réussi à me convaincre qu’il y a eu diligence raisonnable. La mère n’était pas présente dans la salle d’audience pour être contre‑interrogée au sujet des circonstances dans lesquelles le comptable avait donné cet avis.
+[16] Néanmoins, la pénalité n’a pas été imposée à la mère, mais à l’appelant lui‑même. Le manque de diligence de la mère ne met pas fin à l’affaire.
+[17] Il s’agit ici d’un cas limite, mais à mon avis, il serait dans l’intérêt de la justice d’accorder une certaine latitude quant au moyen de défense fondé sur la diligence raisonnable dans des circonstances telles que celles‑ci. L’appelant était jeune au moment pertinent; il semblait se fier à ses parents pour lui donner ce type de conseil, et il n’aurait pas été évident, pour un élève d’école secondaire, que les bourses d’études étaient de la nature d’un revenu.
+[18] Il convient d’annuler les pénalités dans ce type de cause.
+[19] L’avocat de l’appelant m’a également demandé de recommander aux autorités concernées de remettre l’impôt et les intérêts en vertu de la Loi sur la gestion des finances publiques. Je ne ferai aucune remarque sur ce point étant donné que cela ne relève pas de la compétence de la Cour.
+[20] Étant donné que l’avis d’appel visait l’obtention d’un allègement pour l’impôt, les intérêts et les pénalités et que l’unique allègement accordé se rapporte aux pénalités, chaque partie supportera ses propres frais.
+Signé à Toronto (Ontario), ce 2e jour de mars 2010.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 28e jour de juin 2010.
+Marie­Christine Gervais, traductrice
+RÉFÉRENCE : 2010 CCI 122
+No DU DOSSIER DE LA COUR : 2009-1135(IT)I
+INTITULÉ : TRAVIS P. JAY
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Charlottetown (Île-du-Prince-Édouard)
+DATE DE L’AUDIENCE : Le 10 février 2010
+MOTIFS DU JUGEMENT : L’honorable juge J. M. Woods
+DATE DU JUGEMENT : Le 2 mars 2010
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Jonathan M. Coady
+Avocat de l’intimée :
+Me Gregory B. King
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Jonathan M. Coady
+Cabinet : Stewart McKelvey
+Charlottetown (Île‑du‑Prince‑Édouard)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,284 @@
+Title: Lelièvre c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27150/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-112-27150-leli-vre-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2006-03-10
+
+# Lelièvre c. M.R.N.
+
+- Citation: 2006 CCI 112
+- Decision date: 2006-03-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1019, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lelièvre c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-03-10
+Référence neutre
+2006 CCI 112
+Numéro de dossier
+2004-101(EI)
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2004-101(EI)
+ENTRE :
+ANNE-MARIE LELIÈVRE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+LES LOCATIONS A.M.L. INC.,
+intervenante.
+____________________________________________________________________
+Appel entendu avec l'appel de Michel Lelièvre (2004-102(EI))
+le 19 janvier et le 18 avril 2005 à Québec (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocats de l'appelante :
+Me Sylvain L. Roy
+Me Annie Lelièvre (auteure de la plaidoirie écrite)
+Avocate de l'intimé :
+Me Anne Poirier
+Avocats de l'intervenante :
+Me Sylvain L. Roy
+Me Annie Lelièvre (auteure de la plaidoirie écrite)
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi est rejeté au motif que le travail exécuté par l'appelante pour l'intervenante lors de les périodes en litige est exclus des emplois assurables, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 10e jour de mars 2006.
+« Alain Tardif »
+Juge Tardif
+Référence : 2006CCI112
+Date : 20060310
+Dossier : 2004-101(EI)
+ENTRE :
+ANNE-MARIE LELIÈVRE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+LES LOCATIONS A.M.L. INC.,
+intervenante.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] La décision qui fait l'objet du présent appel concerne le caractère assurable du travail effectué par l'appelante Anne-Marie Lelièvre (2004-101(EI)) pour la société Les Locations A.M.L. inc. pendant les périodes suivantes : du 20 juin au 27 novembre 1999, du 26 juin au 28 octobre 2000, du 1er juillet au 30 novembre 2001 et du 22 juin au 13 décembre 2002.
+[2] La décision dont il est fait appel s'appuie sur les alinéas 5(2)i) et 5(3)a) de la Loi sur l'assurance-emploi (la « Loi » ). Ces alinéas se lisent comme suit :
+5(2) N'est pas un emploi assurable :
+[...]
+i) l'emploi dans le cadre duquel l'employeur et l'employé ont entre eux un lien de dépendance.
+(3) Pour l'application de l'alinéa (2)i) :
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l'impôt sur le revenu;
+[3] Bien que tout emploi où les parties, soit l'employeur et l'employé, ont entre elles un lien de dépendance soit exclu des emplois assurables en vertu de cet alinéa, le législateur a cependant prévu qu'un tel emploi pouvait être assurable. L'exception prévue à l'alinéa 5(3)b) se lit comme suit :
+b) l'employeur et l'employé, lorsqu'ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu'il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d'emploi ainsi que la durée, la nature et l'importance du travail accompli, qu'ils auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+[4] La Cour d'appel fédérale a rendu plusieurs décisions sur les principes qui doivent guider la Cour canadienne de l'impôt pour disposer des appels interjetés à la suite d'une décision rendue en vertu des paragraphes 5(2) et 5(3) de la Loi.
+[5] Il s'agit notamment des décisions suivantes : Tignish Auto Parts Inc. c. Canada, no A-555-93, 25 juillet 1994, [1994] A.C.F. no 1130 (QL), Minister of National Revenue v. Wrights' Canadian Ropes Ltd., [1945] Ex. C.R. 174, Pérusse c. Canada, no A-722-97, 12 juillet 2001, 261 N.R. 150.
+[6] Mon collègue, l'honorable juge Pierre Archambault, a fait l'analyse de la plupart de ces décisions; il a conclu de la manière suivante au paragraphe 35 dans l'affaire Bélanger, no 2001-640(EI), 11 janvier 2005 :
+[35] Le rôle dévolu à cette Cour est de procéder à une analyse en deux étapes. Elle doit d'abord vérifier si le ministre a exercé son pouvoir de façon appropriée. Comme il a été dit dans l'affaire Jencan, à laquelle se réfère le juge Malone dans Quigley Electric, la décision résultant de l'exercice par le ministre de son pouvoir discrétionnaire ne peut être modifiée que si le ministre a agi de mauvaise foi, a omis de tenir compte de l'ensemble des circonstances pertinentes, ou a tenu compte d'un facteur non pertinent1 . Si une telle situation existe, la Cour peut décider que « que la conclusion dont le ministre était « convaincu » [ne] paraît [pas] toujours raisonnable » 2 et intervenir en statuant sur l'application du paragraphe 5(3) de la Loi.
+_________________________
+1 Il est intéressant de noter les propos du juge en chef Isaac, au paragraphe 30, où il affirme que « le nombre d'appels interjetés de décisions qui ont été rendues par le ministre en vertu du sous-alinéa 3(2)c)(ii) depuis le prononcé de l'arrêt Tignish donne à penser qu'il y a lieu de clarifier davantage les règles de droit applicables » . (Je souligne.) Ces propos ressemblent à ceux du juge Marceau dans l'affaire Légaré.
+2 Pour utiliser les mots employés dans la décision Légaré, précitée, au par. 4.
+[7] Lorsqu'une décision est rendue en vertu de ces dispositions, le parcours que doit suivre la Cour est donc particulier.
+[8] En l'espèce, pour expliquer et justifier sa décision, l'intimé a tenu pour acquis les hypothèses de faits suivantes :
+18. [...]
+A) Le payeur a été constitué en société le 12 mai 1987. (admis)
+B) Michel Lelièvre est l'unique actionnaire du payeur. (admis)
+C) L'appelante est la conjointe de Michel Lelièvre. (admis)
+D) L'appelante est unie par des liens du mariage avec Michel Lelièvre qui contrôlait le payeur. (admis)
+19. [...]
+a) le payeur exploitait une entreprise de location de véhicules à l'île d'Anticosti et une activité secondaire de transport scolaire avec la Commission scolaire; (admis)
+b) en 1999, les véhicules loués par le payeur appartenaient à la société Tilden, depuis 2000, les véhicules appartiennent à Location Sauvageau; (admis)
+c) le payeur avaient 50 véhicules à louer environ dont une dizaine louées de mai à décembre; (admis)
+d) la place d'affaires du payeur était situé à la résidence familiale de l'appelante; (admis)
+e) le payeur versait un loyer à Michel Lelièvre et à l'appelante, alors que cette dernière n'était pas propriétaire de la résidence, pour l'utilisation du local servant à sa place d'affaires; (admis)
+f) depuis 1993, l'appelante travaillait pour le payeur comme agent de bureau; (admis)
+g) les tâches de l'appelante consistaient à répondre au téléphone, prendre les réservations, accueillir les clients, à remplir les contrats, à faire l'inspection des véhicules lors du retour, remplir les rapports hebdomadaires, s'occuper des affaires bancaires et s'occuper du secrétariat; (admis)
+h) l'appelante n'avait pas d'horaire fixe et travaillait des heures brisées 7 jours par semaine; (admis)
+i) depuis 2001, l'appelante était la seule employée du payeur; (admis)
+j) en 1999, l'appelante était inscrite au journal des salaires du payeur avec une rémunération fixe de 500 $ par semaine, en 2000, en 2001 et en 2002, l'appelante était inscrite avec une rémunération de 550 $ par semaine; (admis)
+k) le journal des salaires du payeur ne rapporte pas le nombre d'heures travaillées par l'appelante pour les années 1999, 2001 et 2002, pour l'année 2000, l'appelante est inscrite pour 35 heures par semaine; (ignoré)
+l) le 25 août 2003, l'appelante déclarait à un représentant de l'intimé qu'en juin et en juillet, elle travaillait de 60 à 70 heures par semaine incluant le samedi et le dimanche; (nié)
+m) durant les périodes en litige, l'appelante recevait une rémunération fixe peu importe le nombre d'heures travaillées; (admis)
+n) à l'Île d'Anticosti, la période de chasse au chevreuil s'étend du 1er septembre au 15 décembre; (ignoré)
+o) en dehors de la saison touristique, de la mi-décembre à la mi-avril, l'appelante résidait à Sept-Îles; (admis)
+p) le 5 décembre 1999, le payeur remettait à l'appelante un relevé d'emploi qui indiquait comme premier jour de travail le 20 juin 1999 et comme dernier jour de travail le 27 novembre 1999, et qui indiquait 805 heures assurables et 11 500,00 $ comme rémunération assurable; (admis)
+q) le 2 novembre 2000, le payeur remettait à l'appelante un relevé d'emploi qui indiquait comme premier jour de travail le 26 juin 2000 et comme dernier jour de travail le 28 octobre 2000, et qui indiquait 630 heures assurables et 9 900,00 $ comme rémunération assurable; (admis)
+r) le 3 décembre 2001, le payeur remettait à l'appelante un relevé d'emploi qui indiquait comme premier jour de travail le 1 juillet 2001 et comme dernier jour de travail le 30 novembre 2001, et qui indiquait 880 heures assurables et 12 100,00 $ comme rémunération assurable; (admis)
+s) le 17 décembre 2002, le payeur remettait à l'appelante un relevé d'emploi qui indiquait comme premier jour de travail le 22 juin 2002 et comme dernier jour de travail le 13 décembre 2002, et qui indiquait 945 heures assurables et 13 750,00 $ comme rémunération assurable; (admis)
+t) les relevés d'emploi de l'appelante ne sont pas conformes à la réalité quant aux périodes travaillées; (nié)
+u) l'appelante rendait des services au payeur avant et après les périodes en litige, sans rémunération déclarée; (nié)
+v) une personne, sans lien de dépendance, ne rendrait pas des services au payeur bénévolement; (nié)
+w) les périodes prétendument travaillées par l'appelante ne correspondaient pas avec les périodes réellement travaillées; (nié)
+[9] Tous les faits tenus pour acquis ont fait l'objet soit d'une admission soit d'une négation; certains ont été tout simplement ignorés. La mention pertinente apparaît entre parenthèses pour chacun des paragraphes.
+[10] Comme les admissions regroupent la majorité des faits, il y a lieu de ne reproduire que les faits admis :
+18. [...]
+A) Le payeur a été constitué en société le 12 mai 1987. (admis)
+B) Michel Lelièvre est l'unique actionnaire du payeur. (admis)
+C) L'appelante est la conjointe de Michel Lelièvre. (admis)
+D) L'appelante est unie par des liens du mariage avec Michel Lelièvre qui contrôlait le payeur. (admis)
+19. [...]
+a) le payeur exploitait une entreprise de location de véhicules à l'île d'Anticosti et une activité secondaire de transport scolaire avec la Commission scolaire; (admis)
+b) en 1999, les véhicules loués par le payeur appartenaient à la société Tilden, depuis 2000, les véhicules appartiennent à Location Sauvageau; (admis)
+c) le payeur avaient 50 véhicules à louer environ dont une dizaine louées de mai à décembre; (admis)
+d) la place d'affaires du payeur était situé à la résidence familiale de l'appelante; (admis)
+e) le payeur versait un loyer à Michel Lelièvre et à l'appelante, alors que cette dernière n'était pas propriétaire de la résidence, pour l'utilisation du local servant à sa place d'affaires; (admis)
+f) depuis 1993, l'appelante travaillait pour le payeur comme agent de bureau; (admis)
+g) les tâches de l'appelante consistaient à répondre au téléphone, prendre les réservations, accueillir les clients, à remplir les contrats, à faire l'inspection des véhicules lors du retour, remplir les rapports hebdomadaires, s'occuper des affaires bancaires et s'occuper du secrétariat; (admis)
+h) l'appelante n'avait pas d'horaire fixe et travaillait des heures brisées 7 jours par semaine; (admis)
+i) depuis 2001, l'appelante était la seule employée du payeur; (admis)
+j) en 1999, l'appelante était inscrite au journal des salaires du payeur avec une rémunération fixe de 500 $ par semaine, en 2000, en 2001 et en 2002, l'appelante était inscrite avec une rémunération de 550 $ par semaine; (admis)
+[...]
+m) durant les périodes en litige, l'appelante recevait une rémunération fixe peu importe le nombre d'heures travaillées; (admis)
+[...]
+o) en dehors de la saison touristique, de la mi-décembre à la mi-avril, l'appelante résidait à Sept-Îles; (admis)
+p) le 5 décembre 1999, le payeur remettait à l'appelante un relevé d'emploi qui indiquait comme premier jour de travail le 20 juin 1999 et comme dernier jour de travail le 27 novembre 1999, et qui indiquait 805 heures assurables et 11 500,00 $ comme rémunération assurable; (admis)
+q) le 2 novembre 2000, le payeur remettait à l'appelante un relevé d'emploi qui indiquait comme premier jour de travail le 26 juin 2000 et comme dernier jour de travail le 28 octobre 2000, et qui indiquait 630 heures assurables et 9 900,00 $ comme rémunération assurable; (admis)
+r) le 3 décembre 2001, le payeur remettait à l'appelante un relevé d'emploi qui indiquait comme premier jour de travail le 1 juillet 2001 et comme dernier jour de travail le 30 novembre 2001, et qui indiquait 880 heures assurables et 12 100,00 $ comme rémunération assurable; (admis)
+s) le 17 décembre 2002, le payeur remettait à l'appelante un relevé d'emploi qui indiquait comme premier jour de travail le 22 juin 2002 et comme dernier jour de travail le 13 décembre 2002, et qui indiquait 945 heures assurables et 13 750,00 $ comme rémunération assurable; (admis)
+[11] L'appelante, la conjointe de Michel Lelièvre, le seul actionnaire de la société « Les Locations A.M.L. inc. » , a exécuté le travail pour cette société lors de toutes les périodes en litige.
+[12] Bien que l'appel de l'appelante Anne-Marie Lelièvre (2004-101(EI)) ait fait l'objet d'une audition indépendante de celle de l'appel de son conjoint Michel Lelièvre (2004-102(EI)), les appelants ont consenti à ce que les témoignages recueillis dans chacun des dossiers soient considérés comme l'ayant également été dans l'autre.
+[13] Native de l'île d'Anticosti, l'appelante quittait sa terre natale lors des périodes en litige pour résider sur le continent de la mi-décembre à la mi-avril.
+[14] Les divers relevés d'emploi font état de périodes de travail allant de 18 semaines à 25 semaines selon les années. Le séjour de l'appelante à l'île d'Anticosti s'échelonnait donc sur des périodes de plus ou moins 39 semaines, pendant lesquelles se situaient les périodes en litige.
+[15] Selon l'appelante et son conjoint, les durées des périodes de travail étaient essentiellement celles indiquées aux relevés d'emploi.
+[16] L'entreprise « Les Locations A.M.L. inc. » faisait la location de véhicules automobiles, principalement des camions, par le biais d'une franchise. Les locations étaient assujetties à des réalités et à des exigences particulières.
+[17] L'entreprise faisait la location de véhicules depuis plusieurs années. Après avoir exploité une franchise Tilden, l'entreprise, à compter de l'année 2000, a laissé cette franchise pour poursuivre avec le Groupe Sauvageau. À la suite de ce changement, le chiffre d'affaires a augmenté, mais les conditions de travail et la rémunération de l'appelante sont demeurées sensiblement les mêmes.
+[18] De plus, étant donné les particularités du réseau routier et l'absence à peu près totale de station-service, à l'exception de celle de Port Meunier, où tous les services étaient centralisés, les véhicules devaient être munis de radios permettant aux usagers de demander de l'aide advenant un problème de tout ordre.
+[19] Les routes non asphaltées faisaient en sorte que les véhicules étaient très vulnérables aux crevaisons, qui étaient à ce point nombreuses que chaque véhicule était muni non pas d'une seule roue de secours, mais de deux. Les véhicules étaient également plus susceptibles de subir des dommages et des bris, eu égard aux routes peu carrossables à certains endroits.
+[20] Lorsque les locataires prenaient possession des véhicules loués, on leur donnait une présentation et des instructions; à la remise, un examen minutieux de l'état du véhicule était fait et consigné par écrit.
+[21] À la fin de chaque saison, tous les véhicules étaient retournés au continent par traversier et revenaient le printemps suivant. Les véhicules quittaient normalement l'île en novembre et décembre pour revenir en avril et mai, le rythme et le nombre de véhicules transportés dépendant des places libres sur le traversier.
+[22] Avant le début de la saison, à la mi-juin, la majorité des véhicules étaient loués à un organisme public, la Société des établissements de plein air du Québec (la « S.É.P.A.Q. » ). Cet organisme participait activement à l'économie de l'île, qui dépendait principalement du tourisme.
+[23] L'appelante et son conjoint ont soutenu que le travail à faire avant et après les périodes de travail décrites aux relevés d'emploi était très limité et sans importance et ne représentait tout au plus que quelques heures de travail par semaine, très souvent effectuées par le propriétaire de l'entreprise, le conjoint de l'appelante, qui, il faut le rappeler, consacrait de 70 à 80 heures par semaine à la pêche au homard.
+[24] Pour étoffer et justifier leurs prétentions, l'appelante et son conjoint ont notamment insisté sur l'absence à peu près totale d'activités à l'île d'Anticosti avant la mi-juin, étant donné que les routes sont difficilement carrossables avant la mi-mai.
+[25] Le conjoint de l'appelante a beaucoup insisté sur le contexte et la situation particulière de l'île d'Anticosti, décrite comme un milieu socio-économique particulier et affectée par un taux de chômage pouvant atteindre plus de 80 pour cent durant la saison hivernale. À cause de cette situation, il a affirmé que le recrutement de main-d'oeuvre qualifiée était un véritable problème.
+[26] L'appelante et son conjoint ont affirmé que la saison touristique allait de la fête de la Saint-Jean-Baptiste, le 24 juin, à la fin octobre. À l'extérieur de cette période, les activités étaient peu nombreuses, à l'exception de celles liées au bon fonctionnement des infrastructure économiques et sociales.
+[27] Le conjoint de l'appelante, appelé à décrire et à justifier le travail durant les périodes mentionnées aux relevés d'emploi, a insisté sur le fait qu'il n'y avait pas que le travail exécuté qui devait être pris en considération pour justifier la rémunération; il a, ainsi, très insisté sur la nécessité d'être disponible, composante fondamentale de la description de tâches et qualité essentielle au bon fonctionnement de l'entreprise. Cette disponibilité était, selon lui, particulièrement importante étant donné que l'entreprise pratiquait la politique de la satisfaction du client avant tout.
+[28] Michel Lelièvre, seul actionnaire de la société pour laquelle l'appelante travaillait, était également détenteur d'un permis de pêche au homard. Il participait personnellement à cette activité exigeante de mai à la mi-juillet. La pêche se faisait à environ 85 kilomètres de Port-Meunier, la route étant de plus très difficile.
+[29] Selon ses relevés d'emploi, le conjoint de l'appelante travaillait de 70 à 80 heures par semaine aux activités liées à la pêche au homard en mai et en juin et pendant une partie du mois de juillet.
+[30] Les principales fonctions de l'appelante furent énumérées comme suit : répondre au téléphone, recevoir les clients, préparer les contrats, remettre les véhicules, recevoir les véhicules à la fin des périodes de location, vérifier l'état des véhicules à la remise, faire les chèques, faire les dépôts, s'occuper de la correspondance et faire les inscriptions dans les divers registres. Outre ces tâches, il y avait un autre élément décrit comme fondamental et sur lequel le conjoint de l'appelante a d'ailleurs beaucoup insisté, à savoir la disponibilité essentielle, composante de première ordre dans les considérations prises en compte pour le contrat de travail.
+[31] La présence d'une personne responsable et fiable et en mesure de répondre à la clientèle était de toute évidence un volet fondamental de la description de tâches. L'appelant a d'ailleurs affirmé à plusieurs reprises que son entreprise avait comme priorité le service et l'empressement envers le client, gage de réussite et de développement de l'entreprise, d'autant plus que les conditions routières très difficiles faisaient en sorte qu'il pouvait y avoir des appels d'urgence en tout temps. Il y avait donc une exigence de disponibilité sur laquelle le conjoint de l'appelante a beaucoup insisté.
+[32] Il a ainsi expliqué qu'elle devait en tout temps être en mesure de répondre aux attentes et aux imprévus de manière à assurer la continuité et l'efficacité des activités.
+[33] Les activités liées à la location exigeaient du travail lors des réservations, de la réception des camions, etc. Or, les périodes de travail de l'appelante commençaient après le début des activités, ce qui soulève donc la question suivante : qui assumait ces responsabilités en mai et en juin? Était-ce le conjoint de l'appelante, l'actionnaire unique de l'entreprise qui travaillait de 70 à 80 heures par semaine à la pêche au homard, dont les activités les plus importantes avaient justement lieu au même moment, soit de la mi-mai à la mi-juillet?
+[34] Sans doute à cause de cette évidence, le conjoint de l'appelante a admis que les débuts de la période de travail auraient dû avoir lieu plus tôt, reconnaissant ainsi l'invraisemblance de la prétention émanant des relevés d'emploi.
+[35] Les témoins Michel Fournier et Michel Laplante ont établi que l'appelante était toujours présente, toujours disponible et surtout toujours associée physiquement à tout ce qui concernait les réservations, les inspections, les livraisons des véhicules de location, l'administration et la gestion inhérente.
+[36] La preuve soumise a d'ailleurs été conforme aux réponses fournies à un questionnaire (pièce I-13) et cohérentes avec elles. Il y a lieu d'en reproduire certains extraits :
+[...]
+Qui est responsable des activités de Location AML ?
+[...] Pour les décisions importantes à prendre on et [sic] les deux. [...]
+En l'absence de M. Lelièvre, êtes-vous autorisée à transiger tous les effets de la compagnie?
+[...] Je pourrais le faire mais je lui laisse. S'il n'est pas là je peux me débrouiller.
+[...]
+Quels autres avantages vous sont consentis par Location AML?
+La voiture appartient à Location AML et c'est la voiture dont on se sert toujours comme véhicule familial. [...]
+[...]
+Qui fait les transactions pour Location AML du mois de décembre au mois de juin de chaque année?
+[...] Notre ligne téléphonique est transférée à Sept-Îles pour prendre les réservations durant cette période [...] Ça commence en mai et juin, et c'est moi qui fait les réservations, 4 à 5 réservations par semaine. Je ne suis pas payée [...] Mon plein d'emploi commence durant la fin de semaine de la St-Jean et je commence à être payée.
+[Je souligne.]
+[...]
+Pour quelle raison n'avez vous pas informé la Commission que vous suiviez des cours d'anglais langue seconde en janvier 2000?
+[...] Ce cours était relié à mon travail. Les cours étaient payés par AML parce que c'était pour mon travail. C'est rare que j'ai des anglais mais c'est pratique et vu que c'est pour mon travail, je l'ai fait payé [sic] par AML.
+[...]
+Les documents de la compagnie démontrent que vous poursuivez vos fonctions à l'extérieur de vos périodes d'emploi pour la compagnie AML. Pour quelles raisons n'avez-vous pas fourni cette information sur vos cartes de déclaration du prestataire?
+Ce n'est pas du travail, c'est juste pour des factures que l'on n'a pas le choix de faire suivre. Ce sont des choses que je n'ai pas le choix de faire. Ce sont des factures qui arrivent l'hiver; par exemple des factures de téléphone. Je ne déclare pas le travail en mai et juin c'est juste parce que je suis là pour rendre service. Pour les contrats de mai et juin, soit 1 ou 2, je m'en occupe pour rendre service. Je ne suis pas payée, c'est pourquoi je ne le déclare pas. Pour compléter un contrat informatique, ça prend environ 5 minutes et pour un contrat à la main à l'aéroport ça prend environ 10 minutes par contrat pour le temps de le rentrer à l'informatique. Mais en mai et juin c'est maximum 4 à 5 contrats par semaine.
+[Je souligne.]
+Vous êtes actionnaire depuis quand dans les pêcheries?
+[...] C'est Michel qui s'en occupe totalement.
+[...]
+Je ne m'occupe pas du tout de cette compagnie et je ne suis pas au courant.
+Pourquoi avez-vous investi dans cette compagnie
+Michel voulait avoir des actionnaires et c'est pour ça que j'ai investi. Il ne me parle pas des affaires qu'il achète pour le bateau.
+Kevan Martin a travaillé pour Location en 1999, qu'est-ce qu'il faisait?
+[...]
+En 2001, il a été plus souvent à la pêche dans une proportion de 75 % (pêche) - 25 % (location). Quand il a eu son relevé pour les Pêcheries, il ne venait pas du tout à Location.
+En 2000, les deux premières semaines d'août, il travaillait pour AML les samedis et d'autres tâches dans la semaine. C'est moi qui était boss.
+[...]
+Quand Kevan travaille pour AML est-ce que vous êtes toujours là?
+[...] En 1999, Kevan est entré avant moi, mais je ne me souviens pas quel travail qu'il faisait.
+[...]
+[37] De son côté, l'intimé a soumis une preuve documentaire discréditant la thèse voulant que le travail fait avant et après les périodes en litige ait été négligeable. Cette preuve documentaire a découlé principalement des divers écrits, rapports, constats, inscriptions, etc., requis dans le cadre des activités de location.
+[38] Il a ainsi été possible de constater la participation de l'appelante aux activités requises lors de l'ouverture et de la fermeture de la saison, qui avaient lieu, dans les deux cas, à des moments ne correspondant aucunement avec le début et la fin des périodes d'emplois.
+[39] À la lumière de tous ces faits, il n'y a aucun doute que l'appelante était directement liée aux activités nécessaires, voire essentielles, avant et après les périodes décrites aux relevés d'emploi.
+[40] La thèse voulant que l'appelante effectuait un travail plutôt négligeable avant et après les périodes en litige a été totalement discréditée, et cela, à partir du témoignage de personnes venues témoigner à la demande même de l'appelante. La preuve de l'appelante elle-même a établi d'une manière non équivoque qu'il s'agissait là de travaux indispensables et indissociables de l'activité fondamentale de l'entreprise.
+[41] L'importance du travail exécuté par l'appelante à l'extérieur des périodes indiquées sur les relevés d'emplois ne fait aucun doute et est confirmée par le fait que son conjoint, le propriétaire de toutes les actions du payeur, était, en mai et en juin, peu libre pour son entreprise étant donné qu'il était pêcheur de homard à temps plein, ce qui était un travail très accaparant, puisque ses relevés d'emploi font état de 70 à 80 heures de travail par semaine durant la période de mai à la fin juillet. Ce constat fut d'ailleurs confirmé par le témoignage de monsieur Méthot, également pêcheur, qui est compagnon de travail pour la pêche; ce dernier a énuméré et décrit les exigences auxquelles les pêcheurs faisaient face.
+[42] La preuve de l'appelante a fait ressortir des éléments qui ne laissent aucun doute quant à la réalité qu'elle exécutait son travail suivant des modalités très particulières, découlant indubitablement du fait qu'elle était la conjointe du propriétaire de la totalité des actions de la société pour laquelle elle effectuait du travail.
+[43] De plus, la preuve n'a pas mis en évidence de manquements graves qui soient de nature à indiquer que l'intimé a mal exercé son pouvoir discrétionnaire. L'intimé a relevé un certain nombre d'avantages dont une personne non liée n'aurait de toute évidence pas pu bénéficier, à savoir frais de transport, utilisation d'un véhicule et d'une carte de crédit, cours d'anglais payé et montant de 2 000 $ reçu à titre de loyer.
+[44] Certains faits n'étaient pas en soi déterminants; par contre, tous les faits indiquent que les conditions de travail de l'appelante étaient fort différentes de celles qu'une personne non liée auraient eues dans le même contexte et les mêmes circonstances.
+[45] Les faits pertinents soumis au tribunal correspondent à ceux qui furent pris en compte lors de la décision du ministre; les faits ont été judicieusement analysés et la conclusion qui en a résulté est tout à fait raisonnable.
+[46] La décision qui a résulté de l'appréciation des faits était adéquate et appropriée. Le fait que le travail exécuté par l'appelante ait été déterminé assurable à quelques reprises n'a pas d'incidence sur les périodes visées par l'appel, si ce n'est que l'appelante a manifestement tenu pour acquis que son travail était assurable; bien plus, elle a cru que l'appel n'était qu'une simple formalité due au fait que les décisions portées en appel étaient le résultat d'un excès de zèle des vérificateurs.
+[47] Contrairement aux prétentions de l'appelante, la preuve est qu'elle a effectué un travail significatif avant et après les périodes d'emploi décrites aux relevés d'emploi.
+[48] La quantité de travail n'était peut-être pas comparable à celle en juillet et en août; par contre, il s'agissait d'un travail nécessaire, voire essentiel, pour la bonne marche de l'entreprise. Le conjoint de l'appelante n'a-t-il pas d'ailleurs beaucoup insisté sur la disponibilité comme étant une composante fondamentale du contrat de travail?
+[49] Selon la preuve documentaire (la liste de paie et les relevés d'emploi), l'appelante travaillait 35 heures par semaine alors qu'en réalité elle travaillait pendant beaucoup plus d'heures. Elle devait être disponible sept jours sur sept et, en pratique, plus de 12 heures par jour, puisqu'elle devait être en mesure de répondre à la clientèle, qui était particulièrement nombreuse en juillet et en août, d'autant plus que des appels urgents risquaient de surgir en tout temps.
+[50] En mai et en juin, son conjoint était peu disponible en pratique puisqu'il était pêcheur de homard à temps plein. Les conditions étaient particulièrement difficiles en raison de l'intensité de la période de 70 jours et de l'éloignement du site de pêche.
+[51] L'appelante n'était pas payée pour ses nombreuses heures supplémentaires durant les mois de juillet et d'août, où elle exécutait autant d'heures supplémentaires que d'heures régulières.
+[52] L'appelante bénéficiait de conditions de travail très particulières en ce qu'elle détenait manifestement le pouvoir dont seul un propriétaire ou un co-propriétaire dispose.
+[53] D'ailleurs, ce qui était en apparence une véritable contradiction a été confirmé par une question du tribunal. Dans un premier temps, l'appelante a affirmé à plusieurs reprises et de différentes façons que sa charge de travail s'était considérablement augmentée à compter de l'année 2000 en raison de la venue du camion provenant de Sauvageau et de l'augmentation appréciable du nombre de camions. Les heures de travail indiquées aux relevés d'emploi ne reflètent pas cette réalité.
+[54] L'appelante a répondu aux questions de son procureur d'une manière claire et correcte; les choses se sont quelque peu gâtées lors du contre-interrogatoire, où plusieurs réponses ont été confuses et vagues. Sa mémoire sélective, les nombreuses hésitations et certaines contradictions discréditent les prétentions de l'appelante.
+[55] Selon l'appelante, elle n'effectuait aucun travail de son arrivée à l'île au début de la période de travail inscrite au relevé d'emploi. Or, la preuve documentaire a démontré d'une manière non équivoque qu'elle était liée à toutes les activités telles courses, présence, téléphones, contrats, livraisons, communications avec Sauvageau, réception des courriels, réception des camions, paiements, constats de l'état des camions, prise de possession des camions le printemps, remise des camions en novembre, etc.
+[56] L'appelante a prétendu qu'une télécopie regroupant toutes les réservations, soit une centaine, lui était transmise et qu'elle faisait les entrées et les préparations pendant les premiers jours de travail inscrits au relevé d'emploi. Tant monsieur Michel Fournier, directeur des opérations de la S.É.P.A.Q. d'Anticosti, que monsieur Michel Laplante de Sauvageau, deux témoins venus témoigner à la demande de l'appelante, ont contredit cette affirmation.
+[57] Selon les témoins Fournier et Laplante, ils communiquaient assez régulièrement avec l'appelante, Anne-Marie Lelièvre, au fur et à mesure des besoins, et cela, dès les jours suivants leur arrivée à l'île en avril.
+[58] Il est difficile d'évaluer si un contrat de travail intervenu entre des personnes ayant un lien de dépendance était, lors de sa conclusion, semblable ou comparable à celui que des personnes sans lien de dépendance auraient conclu dans le même contexte et les mêmes circonstances.
+[59] La difficulté repose principalement sur le fait que l'imagination et la subjectivité occupent une place importante lors d'une telle analyse. Heureusement, il existe des aspects qui ne prêtent à aucune confusion ou interprétation. Je fais notamment référence au travail de même nature que celui qui fait l'objet de l'analyse et qui est exécuté avant et après les périodes rémunérées.
+[60] Il s'agit là d'un élément des plus déterminants. En effet, l'exécution, en totalité ou en partie, d'un travail de même nature pour un même employeur qui est rémunéré à certains moments (période décrite dans un relevé d'emploi) et qui n'est pas rémunéré à d'autres (avant ou après la période mentionnée aux relevés d'emploi) a un effet sur la nature même du contrat de travail; dans ces situations, il n'est aucunement exagéré de conclure qu'il n'en aurait pas été ainsi si le contrat était intervenu entre des personnes non liées.
+[61] En effet, il n'est ni exagéré, ni déraisonnable d'affirmer que toute personne a le droit d'être rémunérée pour le travail exécuté et qu'elle peut exiger de l'être. Une telle réalité est moins évidente lorsqu'il existe un lien de dépendance; en effet, les accommodements sont plus faciles étant donné qu'ils sont profitables aux deux parties : le travailleur reçoit un revenu, soit des prestations d'assurance-emploi, et le payeur voit ainsi réduire sa masse salariale d'autant. De telles accommodements, voire même de pareilles complaisances sont beaucoup plus difficiles, sinon impossibles, lorsque les parties à un contrat de travail ne sont pas liées l'une à l'autre.
+[62] D'autre part, lorsque le travail effectué est non rémunéré, le travailleur généreux reçoit généralement des prestations d'assurance-emploi, ce qui a évidemment pour effet de réduire la masse salariale du payeur, en l'espèce le conjoint de l'appelante.
+[63] Les parties à un tel contrat de travail tirent donc mutuellement avantage du programme d'assurance-emploi dont le but ultime n'est pas d'aider les P.M.E., peu importe où elles font affaires; il s'agit d'un programme ou d'une mesure sociale mis en place pour protéger, soutenir et aider ceux et celles qui perdent vraiment leur travail.
+[64] Dans sa sagesse, le législateur a voulu éviter toute discrimination à l'endroit de ceux et celles qui travaillent pour une personne avec qui ils ont un lien de dépendance.
+[65] Pour éviter les abus facilités par la complaisance, la générosité ou la souplesse familiale, le législateur a prévu que le ministre pouvait vérifier si les contrats de travail conclus par des personnes ayant un lien de dépendance avaient été influencés par ce lien de dépendance.
+[66] Entre personnes ayant un lien de dépendance, il est généralement plus facile et plus tentant de conclure des arrangements avantageux pour les deux parties, puisque les fonds provenant du régime d'assurance-emploi constituent un apport financier alléchant pouvant faciliter la complaisance ou, tout au moins, la générosité.
+[67] En l'espèce, la preuve soumise par l'appelante s'est avérée conforme et cohérente avec toutes les informations et tous les faits pris en considération par le ministre au moment de la décision. L'analyse a été faite de façon judicieuse, et la décision est tout à fait raisonnable. Je confirme donc le bien-fondé de la décision.
+[68] En conséquence, l'appel est rejeté.
+Signé à Ottawa, Canada, ce 10e jour de mars 2006.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE :
+2006CCI112
+No DU DOSSIER DE LA COUR :
+2004-101(EI)
+INTITULÉ DE LA CAUSE :
+Anne-Marie Lelièvre c. Le ministre du Revenu national et Les Locations A.M.L. Inc.
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATES
+Audiences :
+Soumissions de l'appelante :
+Jurisprudence de l'appelante :
+Notes et autorités de l'intimé :
+le 19 janvier et le 18 avril 2005
+le 15 septembre 2005
+le 19 septembre 2005
+le 14 octobre 2005
+MOTIFS DU JUGEMENT PAR :
+l'honorable juge Alain Tardif
+DATE DU JUGEMENT :
+le 10 mars 2006
+COMPARUTIONS :
+Avocats de l'appelante :
+Me Sylvain L. Roy
+Me Annie Lelièvre (auteure de la plaidoirie écrite)
+Avocate de l'intimé :
+Me Anne Poirier
+Avocats des intervenantes :
+Me Sylvain L. Roy
+Me Annie Lelièvre (auteure de la plaidoirie écrite)
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelante :
+Nom :
+Me Annie Lelièvre
+Étude :
+Ville :
+Bernier, Beaudry
+Sainte-Foy (Québec)
+Pour l'intimé :
+John H. Sims, c.r. sous-ministre de la Justice
+et sous-procureur général du Canada
+Ottawa, Canada

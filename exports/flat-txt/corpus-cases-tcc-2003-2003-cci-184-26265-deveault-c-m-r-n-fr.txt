@@ -1,0 +1,178 @@
+Title: Deveault c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26265/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-184-26265-deveault-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2003-04-09
+
+# Deveault c. M.R.N.
+
+- Citation: 2003 CCI 184
+- Decision date: 2003-04-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3996, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Deveault c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-04-09
+Référence neutre
+2003 CCI 184
+Numéro de dossier
+2002-1512(EI)
+Juges et Officiers taxateurs
+Jerome F. Somers
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2002-1512(EI)
+ENTRE :
+LINA DEVEAULT,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 25 février 2003 à Montréal (Québec),
+Devant : L'honorable juge suppléant J.F. Somers
+Comparutions :
+Avocat de l'appelante :
+Me Roch Guertin
+Avocat de l'intimé :
+Me Yacine Agnaou
+____________________________________________________________________
+JUGEMENT
+L'appel est admis et la décision rendue par le Ministre est modifiée selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 9e jour d'avril 2003.
+« J.F. Somers »
+J.S.C.C.I.
+Référence : 2003CCI184
+Date : 20030409
+Dossier : 2002-1512(EI)
+ENTRE :
+LINA DEVEAULT,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge suppléant Somers, C.C.I.
+[1] Cet appel a été entendu à Montréal (Québec), le 25 février 2003.
+[2] L'appelante interjette appel de la décision du ministre du Revenu national (le « Ministre » ) selon laquelle l'emploi qu'elle a exercé pendant la période en litige, soit du 7 mai au 16 juillet 2001, auprès de Autocar 5 Étoiles Inc., le payeur, était assurable et qu'elle avait cumulé un total de 362,25 heures assurables.
+[3] Le fardeau de la preuve incombe à l'appelante. Cette dernière se doit d'établir, selon la prépondérance de la preuve, que la décision du Ministre est mal fondée en fait et en droit. Chaque cas est un cas d'espèce.
+[4] En rendant sa décision, le Ministre s'est fondé sur les présomptions de fait suivantes lesquelles ont été admises, niées ou ignorées par l'appelante :
+a) le payeur a été constitué en société en novembre 1993; (ignoré)
+b) le payeur exploitait une entreprise de transport de passagers par autobus nolisés pour des touristes; (admis)
+c) durant la période estivale, le payeur embauchait jusqu'à 7 chauffeurs à temps plein et 3 chauffeurs à temps partiel; (ignoré)
+d) l'appelante avait été engagée comme chauffeur de minibus, avec une capacité maximum de 21 passagers; (admis)
+e) l'appelante pouvait partir pour des trajets de 6 à 8 jours; (nié)
+f) l'appelante recevait une rémunération à forfait basée sur un pourcentage de la facture de l'autobus; (admis)
+g) les heures de travail de l'appelante étaient calculées en comptabilisant la somme des heures de conduite, une partie des heures d'attente (sauf les heures inscrites dites de dégagement), des heures d'inspection et des heures d'embarquement et de débarquement; (nié)
+h) toutes les heures de travail calculées sont inscrites dans un carnet de route « log-book » ; (nié)
+i) les heures indiquées au carnet de route servent de référence pour remplir la fiche journalière du chauffeur, le calcul des heures de repos et le nombre maximal d'heures de conduite du chauffeur selon la réglementation de la Société de l'assurance automobile du Québec; (nié)
+j) les heures d'attente inscrites sur la feuille de dégagement n'étaient pas comptabilisées dans le carnet de route des chauffeurs et de l'appelante; (nié)
+k) le temps de dégagement était établi par le payeur comme le temps accordé aux touristes pour la visite d'un site, les heures de repas et les pauses; (nié)
+l) le payeur ne versait pas de rémunération aux chauffeurs et à l'appelante pour les heures de dégagement; (nié)
+m) selon le carnet de route de l'appelante, le total des heures de travail durant la période en litige totalisait 362,25 heures; (nié)
+Le paragraphe suivant a été ajouté à la demande du procureur de l'intimé
+n) La différence entre le total des heures de travail inscrites dans les fiches journalières par l'appelante et celui que l'appelante dit avoir travaillé correspond au total des heures visées par des lettres de dégagement, soit 236 heures. (nié)
+[5] Michel Duranceau, témoin de l'intimé et agent au contrôle routier du Québec, a expliqué la réglementation des utilisateurs de véhicules lourds. Ce règlement s'applique aux véhicules lourds, dont ceux du payeur.
+[6] Les notions de base pour être en mesure de respecter la réglementation énoncées à la page 8 d'un pamphlet publié par la Société de l'assurance automobile du Québec intitulé « Les heures de conduite et de travail » (pièce I-1) se lisent en partie comme suit :
+Heures de conduite :
+Le nombre d'heures pendant lesquelles le conducteur est aux commandes d'un véhicule lourd lorsque le moteur est en marche. Cependant, lorsque le conducteur attend aux commandes de son véhicule à un poste de douane ou de contrôle, ce temps est considéré comme des heures de travail et non de conduite.
+Heures de travail :
+La période pendant laquelle les services du conducteur sont requis par l'exploitant ou par la personne qui fournit les services d'un conducteur, pour travailler, incluant les heures de conduite et d'attente. Les heures de travail incluent, par exemple, les activités suivantes : faire la vérification avant départ, remplir des rapports, attendre lors du chargement ou du déchargement, réparer le véhicule.
+Le conducteur qui attend d'être affecté à un travail doit considérer cette période comme des heures de travail. Par exemple : le conducteur qui attend un voyage au port d'attache. Par contre, si cette attente se fait à la maison, il s'agit d'une période de repos même s'il y a rémunération.
+Heures de repos :
+Toute période autre que les heures de travail du conducteur. Les pauses, le temps consacré aux repas, les congés, les vacances et le temps passé sur un traversier sont considérés comme des périodes de repos.
+[7] À la page 32 de ce pamphlet il y est écrit :
+Le conducteur relevé temporairement de ses fonctions
+Le Règlement précise que les heures d'attente sont considérées comme des heures de travail. Toutefois, le conducteur peut se déclarer « au repos » pendant cette période d'attente, à condition que l'exploitant confirme par écrit qu'il le relève temporairement de ses fonctions.
+Pour être valide, les conditions suivantes doivent être respectées :
+- Durant la période où le conducteur est relevé de ses fonctions, celui-ci peut effectuer les activités de son choix et quitter, s'il le désire, les lieux où se trouve le véhicule;
+- L'exploitant doit donner les renseignements suivants par écrit :
+- La Date;
+- La durée de la période pendant laquelle le conducteur est relevé de ses fonctions (exemple : 3 h 30);
+- Une mention claire indiquant que le conducteur est relevé de ses fonctions et responsabilités à l'égard du véhicule, du chargement ou des passagers;
+- La signature de l'exploitant.
+Ce document peut être présenté sous forme de télécopie ou de lettre. Il doit demeurer à bord du véhicule, selon le cycle utilisé par le conducteur (6, 7 ou 13 jours). Une mention à la fiche journalière est également acceptée. Dans ce cas, le conducteur doit indiquer le nom de la personne qui l'a relevé de ses fonctions. Par exemple, « relevé de mes fonctions par Prudence Larue, répartiteure, de 10 h à midi » .
+[8] Selon ce témoin, durant les heures dites de dégagement les responsabilités du conducteur ne sont plus requises. Le but de ce règlement est d'empêcher la fatigue chez le conducteur.
+[9] Denis Trudel, témoin de l'appelante et conducteur d'autobus, a expliqué les responsabilités du conducteur d'autobus pour des tours organisés de la façon suivante : la journée de travail commence par la préparation de l'autobus et le conducteur doit rester sur place pour recevoir les passagers. Après que les passagers sont installés, il conduit l'autobus jusqu'au prochain arrêt. Lors des arrêts pour des visites, le conducteur doit rester dans l'autobus afin d'être disponible pour les passagers au cas où ceux-ci seraient malades, voudraient se reposer ou tout simplement voudraient prendre des effets personnels dans l'autobus; en somme le conducteur est en devoir toute la journée.
+[10] L'appelante, par son procureur, a voulu déposer en preuve sous la cote A-1 la convention collective applicable aux conditions de travail de ce conducteur (Denis Trudel) employé de Autobus Bourgeois-Tours Ltée (ABT). Le dépôt en preuve de ce document a été fait sous réserve à la suite d'une objection formulée par le procureur de l'intimé à l'effet que celui-ci ne s'applique pas à l'appelante et au payeur dans la cause sous étude. L'objection a été maintenue et la Cour n'a pas pris connaissance du contenu de ce document.
+[11] Joan Walsh, témoin de l'appelante et guide touristique depuis six ans, a accompagné l'appelante pendant le voyage décrit dans le contrat de voyage nolisé organisé par Misa Tours International. Le payeur Autocar 5 Étoiles Inc., ayant comme conducteur l'appelante, a transporté les touristes durant ce voyage organisé. La feuille de route de ce voyage est attachée à la pièce A-2.
+[12] Selon ce témoin, le conducteur devait être à l'aéroport 30 minutes avant l'arrivée des passagers et si l'avion était en retard, il devait attendre jusqu'à leur arrivée. Elle ajoute que lors des arrêts de visite, le conducteur doit être à l'autobus afin d'être à la disposition des passagers pour différentes raisons, soit maladie, récupération d'objets personnels, etc. À titre d'exemple, à la page 2 de la feuille de route, un arrêt y est indiqué pour le samedi 16 juin à 13 h 30 pour une durée d'une heure. Durant cette heure d'arrêt, le conducteur ne doit pas quitter l'autobus. Ce témoin explique les responsabilités du conducteur alors qu'il conduit l'autobus et pendant les périodes d'attente.
+[13] L'appelante, conducteur pendant cinq ans, a été embauchée pour conduire un minibus avec une capacité maximum de 21 passagers. L'appelante a reçu une rémunération à forfait basée sur un pourcentage de 25 % de la facture du minibus.
+[14] L'itinéraire d'un voyage de l'aéroport de Dorval à l'aéroport Pearson de Toronto (Ontario) auquel a été déposé sous la cote A-3. À cet itinéraire est attaché une feuille intitulée « dégagement de responsabilité du conducteur » qui se lit en partie comme suit :
+Nom du conducteur
+Le conducteur ci-haut mentionné est relevé de ses fonctions pendant les repas, pauses-café ainsi que pendant les événements cochés ci-haut.
+Dans les circonstances ci-haut décrites, nous le relevons de ses fonctions, de la responsabilité et de la garde de son véhicule et des passagers.
+[15] L'appelante a déposé les fiches journalières sous la cote A-4 et expliqué les périodes de repos, le temps à la couchette, la conduite et le travail autre que la conduite.
+[16] L'appelante a complété un compte-rendu de ses itinéraires (pièce A-5) qui indique la description de la tâche, les heures de conduite, les heures de travail), les heures d'attente et le kilométrage.
+[17] À titre d'exemple à la page 2 des photocopies des fiches journalières (pièce A-4), l'appelante explique que le 7 mai 2001 elle est partie de Drummondville à 15 heures et est arrivée à Montréal à 22 heures. Selon cette pièce, il y a eu une période d'attente de 17 à 19 h environ, car les passagers sont arrivés en retard. Par contre le payeur considère qu'il s'agit d'une période de dégagement tel qu'il appert à la page 1 de la pièce A-5 et les détails de cette journée notés sur cette page correspondent à ceux indiqués sur la fiche journalière.
+[18] L'appelante a fait la revue des contrats de voyages (pièce A-3), des fiches journalières (pièce A-4) et du compte-rendu de ses itinéraires (pièce A-5) démontrant, à titre d'exemple, les heures d'attente à différents arrêts. À la page 2 du compte-rendu des itinéraires de l'appelante pour le 8 mai 2001, il y est indiqué une visite au Biodôme et une attente de 1 heure 25 minutes. Le payeur selon la feuille de dégagement considère que cet arrêt est un temps de repos afin de satisfaire au règlement 389-89 des heures de conduite et de travail.
+[19] Selon l'appelante, les heures d'attente qu'elle a inscrites sur ses fiches journalières (pièce A-4) et sur son compte-rendu (pièce A-5) devraient être ajoutées à ses heures de travail. Il y a une différence de 236 heures; donc, selon l'appelante, les heures de travail devraient se chiffrer à 598 au lieu de 362,25.
+[20] En contre-interrogatoire, l'appelante explique que les heures de repas sont des heures d'attente et qu'il n'y avait pas de colonne distincte pour inscrire les heures d'attente; donc, elle n'avait pas le choix que d'inscrire les heures d'attente dans la colonne de repos. Cependant, ses heures d'attente apparaissent sur son compte-rendu (pièce A-5) qu'elle a rempli elle-même car l'article 2 du règlement 389-89 inclut les heures d'attente dans les heures de travail.
+[21] L'intimé a déposé en preuve un document préparé par le payeur et intitulé « directives aux chauffeurs » sous la cote I-4. L'intimé attire l'attention de l'appelante sur la directive suivante :
+Si durant votre voyage les exigences du client excèdent les heures de conduite permises par la loi, avisez immédiatement le bureau (aucun log illégal sera toléré).
+[22] L'appelante reconnaît qu'elle a inscrit 70 heures par semaine sur sa demande de prestations de chômage (pièce A-6).
+[23] Alan Messier, témoin de l'intimé et président d'Autocar 5 Étoiles Inc. a témoigné à l'audition de cet appel.
+[24] Ce témoin explique que les heures travaillées sont les heures déclarées par le conducteur sur les fiches journalières (pièce A-4) et la synthèse des fiches journalières (pièce I-3) déposées en preuve et qu'il s'agit de la méthode suivie pour calculer les heures travaillées pour tous les employés. Le payeur a un agenda et connaît les heures travaillées et les employés sont payés pour ces heures.
+[25] Le président de la compagnie reconnaît que les heures de retard d'un avion sont des heures d'attente incluses dans la colonne « heures de travail (autres) » . Si, selon ce témoin, le conducteur est assis dans son autobus à attendre les passagers à cause du retard de l'avion, celui-ci est considéré être au travail.
+[26] En contre-interrogatoire, le témoin reconnaît qu'il a signé la feuille de dégagement de responsabilité du conducteur tel qu'indiqué à la pièce A-3. Le témoin a coché les heures de dégagement lors des arrêts, entre autres, au Biodôme et au Stade Olympique.
+[27] Il admet qu'il n'est pas nécessairement d'accord avec le contenu de la feuille de dégagement. Le témoin reconnaît que ce sont des heures approximatives et qu'il ne peut vraiment déterminer combien de temps le conducteur est resté à un certain arrêt. La seule information disponible est celle du conducteur, donc, il ne peut affirmer combien de temps le conducteur a travaillé pendant les heures d'attente.
+[28] Le Ministre a informé l'appelante de sa décision selon laquelle son emploi était assurable au cours de la période du 7 mai au 16 juillet 2001 et qu'elle avait cumulé un total de 362,25 heures assurables pendant cette période alors que l'appelante soutient qu'elle en a cumulé au moins 598.
+[29] Il s'agit de déterminer les heures d'attente. La preuve a dévoilé que lors d'un temps d'arrêt l'appelante, en tant que conducteur, attendait à l'autobus pendant que les touristes faisaient des visites particulières. L'appelante se devait d'être disponible pour les passagers au cas où ceux-ci seraient malades ou simplement voudraient récupérer certains objets personnels.
+[30] De fait, l'appelante a inscrit sur une feuille personnelle des heures d'attente à ces arrêts totalisant 236 heures. Cependant ces heures d'attente sont en contradiction avec celles inscrites sur les fiches journalières. L'appelante se servait de cette fiche journalière fournie par le payeur et puisqu'il n'y avait pas d'espace pour inscrire les heures d'attente, elle les a donc inscrites dans l'espace réservé pour les heures de repos (off duty). L'appelante aurait dû inscrire les heures d'attente dans l'espace réservé aux heures travaillées, mais de bonne foi, elle les a inscrites comme s'il s'agissait d'heures de repos. L'intimé a obtenu de l'employeur les fiches journalières et a calculé 362,25 heures assurables.
+[31] Les heures de conduite et de travail des conducteurs de véhicules lourds sont régies par la Loi de la société de l'assurance automobile du Québec. Les propriétaires de véhicules lourds ont le droit par une lettre adressée aux conducteurs de déterminer les heures de dégagement. Or, l'employeur dans la cause sous étude a considéré que les arrêts du minibus durant les visites particulières des touristes étaient des heures de dégagement.
+[32] Deux témoins indépendants de cette cause ont expliqué que le conducteur d'un autobus nolisé pour touristes devait être disponible pour ces derniers si besoin il y avait des visites particulières. Il est normal de conclure que le temps où le conducteur est disponible en restant près de l'autobus sont des heures d'attente. La Loi de Société de l'assurance automobile du Québec considère que les heures d'attente sont des heures de travail.
+[33] Le président d'Autocar 5 Étoiles Inc. a tenté d'expliquer, par des exemples non applicables, les responsabilités du conducteur d'autobus touristiques.
+[34] Dans le cas de l'appelante, il est normal de conclure que les heures d'attente étaient des heures avec responsabilités, lesquelles ont été expliquées par l'appelante et les deux témoins indépendants précités.
+[35] Donc, il est raisonnable de conclure que les heures d'attente inscrites sur la fiche personnelle étaient des heures travaillées, donc assurables.
+[36] La Cour s'est inspirée de la jurisprudence déposée par la partie appelante.
+[37] Dans la cause Murphy c. Canada (ministre du Revenu national - M.R.N.), [1999] T.C.J. No. 312, le juge Bonner de cette Cour a décidé que les heures de disponibilité de l'appelante étaient assurables et son résumé des faits est le suivant :
+[7] L'appelante soutenait qu'elle assurait un service lorsqu'elle était en disponibilité, car, en restant près d'un téléphone et en demeurant à une distance d'au plus 25 minutes de l'hôpital, elle faisait ce qui était exigé d'elle par l'employeur conformément aux droits de ce dernier prévus dans le contrat de travail, notamment dans la partie de ce contrat concernant les heures de disponibilité. L'appelante faisait remarquer en outre que le salaire versé pour les heures travaillées pendant les périodes de disponibilité était traité comme une rémunération assurable à l'égard de laquelle une cotisation ouvrière était payable en vertu de la Loi et que, dans ces circonstances, il n'était pas approprié que ces heures soient considérées comme autre chose que des heures travaillées dans le cadre d'un emploi assurable.
+[38] Cette décision a été confirmée par la Cour d'appel fédérale le 5 octobre 2000, [2000] A.C.F. 1751.
+[39] Compte tenu de la preuve, l'appelante a démontré que les heures d'attente étaient des heures travaillées, donc assurables.
+[40] L'appel est admis et la décision est modifiée en tenant compte du fait que les 236 heures d'attente sont ajoutées aux 362,25 heures assurables mentionnées dans la décision du Ministre.
+Signé à Ottawa, Canada, ce 9e jour d'avril 2003.
+« J.F. Somers »
+J.S.C.C.I.
+Jurisprudence consultée
+Chisholm c. Canada (ministre du Revenu national - M.R.N.), [2001] A.C.I. no 238
+Franke c. Canada (ministre du Revenu national - M.R.N.), [1999] A.C.I. no 645
+Redvers Activity Centre Inc. c. Canada (ministre du Revenu national - M.R.N.), [2000] A.C.I. no 414
+RÉFÉRENCE :
+2003CCI184
+No DU DOSSIER DE LA COUR :
+2002-1512(EI)
+INTITULÉ DE LA CAUSE :
+Lina Deveault et M.R.N.
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+le 25 février 2003
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge suppléant J.F. Somers
+DATE DU JUGEMENT :
+le 9 avril 2003
+COMPARUTIONS :
+Pour l'appelante :
+Me Roch Guertin
+Pour l'intimé :
+Me Yacine Agnaou
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelante :
+Nom :
+Me Roch Guertin
+Étude :
+Me Roch Guertin
+Montréal (Québec
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

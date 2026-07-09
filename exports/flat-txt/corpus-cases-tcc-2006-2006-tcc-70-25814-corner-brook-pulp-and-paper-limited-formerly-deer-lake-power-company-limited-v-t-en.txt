@@ -1,0 +1,286 @@
+Title: Corner Brook Pulp and Paper Limited (Formerly Deer Lake Power Company Limited) v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25814/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-70-25814-corner-brook-pulp-and-paper-limited-formerly-deer-lake-power-company-limited-v-t-en.md
+Document type: case_law
+Last modified: 2006-02-16
+
+# Corner Brook Pulp and Paper Limited (Formerly Deer Lake Power Company Limited) v. The Queen
+
+- Citation: 2006 TCC 70
+- Decision date: 2006-02-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3890, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Corner Brook Pulp and Paper Limited (Formerly Deer Lake Power Company Limited) v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-02-16
+Neutral citation
+2006 TCC 70
+File numbers
+2003-3375(IT)G
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-3375(IT)G
+BETWEEN:
+CORNER BROOK PULP AND PAPER LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 1, 2 and 3, 2005 at Montreal, Québec.
+Before: The Honourable D.G.H. Bowman, Chief Justice
+Appearances:
+Counsel for the Appellant: André P. Gauthier
+Josée Vigeant
+Counsel for the Respondent: John P. Bodurtha
+John W. MacDonald
+____________________________________________________________________
+JUDGMENT
+It is ordered that the appeal from the assessment made under the Income Tax Act for the 1999 taxation year is allowed with costs and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the fair market value of the shares issued by Deer Lake Power Company to Corner Brook Pulp and Paper Limited was at least equal to the amount of the $20,000,000 debt that was extinguished so that no portion of the $20,000,000 indebtedness that was owing by Deer Lake Power Company Limited to Corner Brook Pulp and Paper Limited was forgiven in the year and that therefore section 80 of the Income Tax Act is inapplicable.
+Signed at Ottawa, Canada, this 16th day of February 2006.
+"D.G.H. Bowman"
+Bowman, C.J.
+Citation: 2006TCC70
+Date: 20060216
+Docket: 2003-3375(IT)G
+BETWEEN:
+CORNER BROOK PULP AND PAPER LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowman, C.J.
+[1] This appeal is from an assessment for the appellant's 1999 taxation year. The issue can be stated briefly. In determining the fair market value ("fmv") of the shares of a wholly owned subsidiary, should the terms of a supply contract between the parent and the subsidiary that is unfavourable to the subsidiary be taken into account?
+[2] The question arises in the following way: Until their amalgamation in December 1998, Corner Brook Pulp and Paper Limited ("Corner Brook") owned all of the shares of Deer Lake Power Company Limited ("Deer Lake"). The continuing corporation resulting from the amalgamation also has the name Corner Brook Pulp and Paper Limited. It will be referred to as the appellant.
+[3] On February 1, 1995, DeerLake owed $20,000,000 to Corner Brook. On that day Corner Brooksubscribed for 4,000,000 common shares of DeerLake at a subscription price of $5.00 per share. The shares were issued to Corner Brookas payment of the indebtedness of $20,000,000. The result of the issuance of the shares to Corner Brookwas that Corner Brook owned all of the 7,600,000 issued and outstanding shares of DeerLake.
+[4] In computing its taxable income for 1999, the appellant deducted non-capital losses of $2,528,224. These were losses that Deer Lake had accumulated prior to the amalgamation and that were carried forward to the amalgamated company.
+[5] The Minister of National Revenue disallowed the deduction of the losses on the basis that the non-capital losses of the predecessor company, Deer Lake, had been reduced to nil by reason of the application of section 80 of the Income Tax Act. The Minister's view was that the 4,000,000 shares of Deer Lakethat had been issued in satisfaction of the $20,000,000 debt did not pay off the debt and that there was a forgiveness of debt in the amount of $2,984,000.
+[6] The appellant's theory is relatively straightforward: Corner Brookwas owed $20,000,000 by Deer Lake. Deer Lakepaid off the debt fully by issuing $20,000,000 worth of shares.
+[7] The Minister does not, however, see it in quite the same way.
+[8] Paragraphs 80(2)(g) and (g.1) of the ITA as they applied to taxation years ending after February 21, 1994 read as follows:
+(g) where a corporation issues a share (other than an excluded security) to a person as consideration for the settlement of a debt issued by the corporation and payable to the person, the amount paid in satisfaction of the debt because of the issue of the share is deemed to be equal to the fair market value of the share at the time it was issued;
+(g.1) where a debt issued by a corporation and payable to a person is settled at any time, the amount, if any, that can reasonably be considered to be the increase, as a consequence of the settlement of the debt, in the fair market value of shares of the capital stock of the corporation owned by the person (other than any shares acquired by the person as consideration for the settlement of the debt) is deemed to be an amount paid at that time in satisfaction of the debt;
+[9] The sole question, therefore, is whether the fmv of the 4,000,000 shares was at least equal to the amount of the $20,000,000 debt.[1]
+[10] I shall deal with this case on the basis upon which it was argued, i.e. the fmv of the shares issued to liquidate the debt.
+[11] The manner in which the Minister arrived at the conclusion that there was a debt forgiveness of $2,984,000 is set out in the Reply to the Notice of Appeal.
+8. By Notice of Confirmation dated June 25, 2003, the Minister confirmed the assessment for the 1999 taxation year on the basis that the value of the 7.6 million shares of Deer Lake Power Company Limited ("Deer Lake") issued and outstanding as at February 1, 1995 was $17,016,000. The provisions of section 80 of the Act were properly applied to the settlement of the debt owing to the Appellant by the former DeerLake. The 1999 taxable income of the Appellant was properly adjusted to disallow the non-capital losses of the former Deer Lakewhich had come forward on amalgamation.
+9. In applying the provisions of section 80 of the Act, the deemed forgiven amount was calculated as follows:
+Value of 4,000,000 new common shares (s.80(2)(g))
+$8,956,000
+Increase in value of the 3,600,000 shares
+already held (s. 80(2)(g.1))
+($17,016,000-$8,956,000) − Nil
+$8,060,000
+Amount deemed paid
+$17,016,000
+Face Value of Debt
+$20,000,000
+Less: Amount deemed paid (above)
+$17,016,000
+Deemed Forgiven Amount
+$2,984,000
+10. In computing income for the Appellant's 1999 taxation year non-capital losses of the former DeerLake which had come forward on amalgamation were disallowed.
+11. In reassessing the Appellant, the Minister relied on the following assumptions:
+a) Prior to December 24, 1998, Deer Lakewas a wholly owned subsidiary of the Appellant;
+b) The Appellant was located in Corner Brook, NL;
+c) The Appellant was in the business of manufacturing and selling newsprint on the world markets;
+d) DeerLake was in the business of hydroelectric generation;
+e) DeerLake had two contracts with the Appellant whereby 75% of the Appellant's electrical needs were supplied by DeerLake;
+f) The contracts were exclusively between the Appellant and Deer Lake;
+g) All of the electricity produced by DeerLake was sold to the Appellant;
+h) The assets of Deer Lake consisted of a powerhouse at Deer Lake, NL which has 9 turbines and obtains its water supply from a head pond located on Grand Lake, NL, the dam at Grand Lake, NL, penstocks and related power transmission equipment;
+i) On or about December 24, 1998, DeerLake and the Appellant amalgamated;
+j) The new amalgamated corporation continued to use the name of the Appellant;
+k) Deer Lakecontinued to operate as a hydro generation division of its former parent;
+l) The first taxation year of the amalgamated corporation ended on December 23, 1999;
+m) Non-capital losses and capital cost allowance pools rolled forward to the new amalgamated corporation;
+n) The Appellant fully utilized non-capital losses of $2,528,224 carried forward from the former DeerLake in calculating taxable income for the taxation year under appeal;
+o) As of February 1, 1995, Deer Lakeowed the Appellant $20,000,000;
+p) On or about February 1, 1995, Deer Lake issued 4,000,000 shares to the Appellant at $5 per share for a total cost of $20,000,000;
+q) The shares were issued in consideration for the debt referred to in (o);
+r) The fair market value of Deer Lake's issued and outstanding shares as of February 1, 1995 was $17,016,000;
+s) The fair market value of the 4,000,000 common shares issued on February 1, 1995 was $8,956,000;
+t) The fair market value of the 3,600,000 shares already owned by the Appellant on February 1, 1995 was $8,060,000 after the debt payment transaction;
+u) The fair market value of the 3,600,000 shares issued and outstanding immediately prior to the debt payment transaction was nil; and
+v) The deemed forgiven amount was $2,984,000.
+[12] The reasoning of the Minister seems to be that so long as Deer Lake owed $20,000,000 to Corner Brook its shares had no value,[2] but once the debt was extinguished, 100% of its shares had a value of $17,016,000 and this figure was apportioned between the 3,600,000 shares previously held and the 4,000,000 new shares issued ($17,016,000 X 3,600,000/7,600,000 = $8,060,000 (value of 3,600,000 shares previously held); 17,016,000 - 8,060,000 = $8,956,000 (value of 4,000,000 new shares)).
+[13] The appellant has not questioned the Minister's methodology and neither will I. The appellant does however dispute the Minister's assumption that the shares of Deer Lake had a value of $17,016,000. The appellant does not suggest a precise figure for the fmv of the shares of Deer Lake that were issued. For the appellant's purposes it is sufficient that the value exceed $20,000,000. On February 1, 1995, the value of $17,016,000 was based on an appraisal of the shares of Deer Lake by Brian Hawkins, a Senior Business Equity Valuator with the Canada Revenue Agency ("CRA"). His report which was given to the CRA was dated January 8, 2001 and expresses the following conclusion:
+3.0 Conclusion
+3.1 In our opinion, subject to the restrictions and limitations noted herein, the value of the 7,600,000 issued and outstanding shares of Deer Lake Power Company (comprised of the original 3,600,000 common shares and the new issue of 4,000,000 common shares) as at February 1, 1995 was $17,016,000, with $8,956,000 attributable to the 4,000,000 new common shares issued.
+3.2 In our opinion, subject to the restrictions and limitations noted herein, the fair market value of the 3,600,000 issued and outstanding shares of Deer Lake Power Company immediately prior to the transaction was nil.
+He elaborated somewhat on this conclusion at the end of his report.
+Valuation Conclusion
+12.6 We have applied the discount rate to the projected after tax cash flow from operations. We have calculated the present value of the residual value after year 50 and discounted this to present value. The sum of these values is our estimate of the fair market value of DLPC. See Appendix D.
+12.7 In summary, we conclude, subject to the minimizing the impact of the restrictions described in 4.5 to 4.8 that the highest probable value for the 7,600,000 common shares of DLPC would be in a range of $16.058 to $17.016 million as of the valuation date. This results in a value attributable to the 4,000,000 common shares issued on February 1, 1995 in the range of $8.4516 to $8.956 million as of the valuation date.
+12.8 Additionally, while a range of values for the shares of DLPC has been calculated at $16.058 to $17.016 million, the difficulties associated with removing the loan guarantees and other potential impediments to sale cannot be underestimated as is noted in 8.8. In the event that these various impediments cannot be removed, the value of the shares of DLPC would be reduced to NIL.
+Value of shares prior to issue
+12.9 By simple calculation, the value of the 3,600,000 common shares immediately prior to the transaction is nil. At that point the value of DLPC was in a range of $16.058 to $17.016 million with an outstanding debt of $20,000,000. The resulting value to attribute to the 3,600,000 common shares is nil.
+[14] In the expert witness report which Mr. Hawkins prepared for the purpose of this trial he revised his conclusions as follows:
+3.0 Conclusion
+3.1 In my opinion, subject to the restrictions and limitations noted herein, excluding 4.5 to 4.8 and 4.10, the fair market value of the 7,600,000 issued and outstanding shares of Deer Lake Power Company (comprised of the original 3,600,000 common shares and the new issue of 4,000,000 common shares) as at February 1, 1995 fell in a range of $12,100,000 and $12,900,000 with a more probable fair market value at the midpoint $12,500,000. Based on the 7,600,000 common shares outstanding, $6,580,000 was attributable to the 4,000,000 new common shares issued.
+3.2 In my opinion, subject to the restrictions and limitations noted herein, the fair market value of the 7,600,000 issued and outstanding shares of Deer Lake Power Company (comprised of the original 3,600,000 common shares and the new issue of 4,000,000 common shares) as at February 1, 1995 would be NIL as a result of the application of the restrictions related to the loan guarantees and other potential impediments to sale as outlined in 4.5 to 4.8.
+3.3 In my opinion, subject to the restrictions and limitations noted herein, the fair market value of the 3,600,000 issued and outstanding shares of Deer Lake Power Company immediately prior to the February 1, 1995 share issue was nil.
+[15] The restrictions to which the opinion is subject as mentioned in paragraph 3.1 are the following:
+4.5 The potential impact of the loan guarantees could not be measured with certainty. As of December 23, 1994 DLPC was guaranteeing debt of CBPP in the amount of CDN$140,000,000 as well as US$37,200,000. If it proves to be unlikely to be able to remove the loan guarantees provided by the subject related to the debt of its parent, then the value conclusion stated may be overstated.
+4.6 The potential impact of intervention by the Newfoundland Government was not measured due to lack of information. Previously, the Newfoundland Government has intervened and stopped the sale of the power company separate from the paper mill. If this is the case, the value conclusion would potentially be revised downward, possibly to nil.
+4.7 The Newfoundland Government is also a party to a Put Agreement which is a loan guarantee. This only comes into play in the event that CBPP defaults on its loans and the banks are forced to call their loans. The Put Agreement limits the amounts that the Government of Newfoundland will pay to $50 million, but does not pay anything to CBPP, rather it pays to the creditors. The Put Agreement also notes that it is the desire of the government that the paper mill and the power plant be sold together as "...it is greatly in the interest of the economic viability of Western Newfoundland that the Corner Brook Mill and the Deer Lake Power Plant be divested jointly as a going concern so as to ensure, to the greatest extent possible, that a purchaser thereof from the Banks will continue their operation."
+4.8 The potential impact of renegotiating the water lease for use of the Grand Lake watershed is not accurately measurable. Presently DLPC is leasing water rights on a 99 year lease entered into by a predecessor corporation in or prior to 1938. This lease will expire in 2037. This lease does not include a cost for the use of the water rights. However, it would appear that in our changing environment, with the value of natural resources increasing, that any future lease would contain a fee structure requiring payment to the Government of Newfoundland. Information received based on the Crown Lands Act, Part II, Revised Statutes of Newfoundland, Ch. 71 suggests that as of 1995 the annual charges were between $0.50 per horsepower and $0.50 per horsepower plus 8% of designated net income subject to tax. DLPC has installed horsepower of 188,000. This would suggest a minimum cost of $94,000 in 1995. As these rates have not been revised since 1984 no estimate of the potential changes to 2037 has been made. (While this is hindsight, a review of a later piece of legislation, Regulation 64/03 of the Water Power Rental Regulations, 2003 under the Water Resources Act suggests an alternate rate of $0.80 per megawatt hour of power produced.) Any increased costs would reduce the value from 2037 to the expiration of the 1955 contract as well as the residual value.
+. . . . .
+4.10 Subject to the restrictions and limitations noted herein, the fair market value of the 7,600,000 issued and outstanding shares of Deer Lake Power Company (comprised of the original 3,600,000 common shares and the new issue of 4,000,000 common shares) as at February 1, 1995 would be NIL as a result of the application of the restrictions related to the loan guarantees and other potential impediments to sale as outlined in 4.5 to 4.8.
+[16] I think it will be obvious that the restrictions and qualifications mentioned in paragraphs 4.5, 4.6, 4.7, 4.8 and 4.10 do not seriously affect the fmv of the shares and Mr. Hawkins does not ascribe to them any quantifiable adverse effect on the fmv.
+[17] The significant difference between the parties lies in the effect of a long term contract entered into between The Bowater Power Company Limited (now Deer Lake) and Bowater's Newfoundland Pulp and Paper Mills Limited (now Corner Brook).
+[18] This contract was entered into on June 1, 1955 for a period of 30 years, expiring May 31, 1985 and thereafter for two further periods of 30 years unless Corner Brookgave notice at least two years and not more than three years before the contract expired. The contract had been extended once in 1985 with no change in terms or rates and on February 1, 1995 it had about 20 years to run until 2015. It could, in 2015, be extended for a further period of 30 years to 2045 or it could be terminated in the discretion of Corner Brook.
+[19] The contract was for the supply of up to 80 megawatts (i.e. 80,000 kilowatts or 8,000,000 watts) of "firm power". Section 1 of the agreement reads:
+1. In this Agreement:
+(a) the expression "power" means the amount of electric power taken at one instant and measured in kilowatts;
+(b) the expression "energy" means the amount of electric energy taken during a given period of time and measured in kilowatthours;
+(c) the expression "firm power" means power available for use by the Paper Company twenty-four hours a day each and every day during the currency of this Agreement;
+(d) the expression "secondary energy" means the kilowatthours delivered to the Paper Company for the production of steam.
+. . . . .
+11. This Agreement shall be and remain in effect from the date hereof until the 31st day of May, 1985 and shall thereafter continue for two further like periods of thirty (30) years each unless the Paper Company shall give to the Power Company written notice that it desires revision, modification or termination of this Agreement at the expiration date of any thirty-year period. Such written notice shall be without effect unless given at least two (2) years and not more than three (3) years before the expiration date of any such thirty-year period.
+12. During the terms hereof and thereafter until this Agreement or any extension thereof is terminated the Power Company agrees to deliver to the Paper Company and the Paper Company agrees to purchase and take from the Power Company:
+(a) firm power in an amount which shall not be less than 60,000 kilowatts, which amount, or which amount increased as hereinafter provided, is hereinafter referred to as the "amount of firm power on order";
+(b) secondary energy required by the Paper Company in such amounts as may be available and as can prudently be delivered from time to time.
+The Paper Company shall have the right at any time and from time to time, upon written notice to the Power Company, to increase the amount of firm power on order, in blocks of not less than 500 kilowatts, up to a maximum amount of 80,000 kilowatts. Any amount of firm power on order above 60,000 kilowatts shall be taken and paid for by the Paper Company for a minimum period of one month.
+The Paper Company shall have the right to use for the production of steam and without further payment therefor any part of the power and energy comprised in the amount of firm power on order not required for the operation or lighting of its mills and other properties in Newfoundland.
+[20] Paragraph 21 reads in part as follows:
+21. The price to be paid by the Paper Company for the right to use and for the use of the Power Company's power service as covered by this Agreement shall be:
+(a) for the amount of firm power on order - $2.80 per kilowatt per month payable at the office of the Power Company in lawful money of Canada on the last day of each and every quarter during the continuance of these presents; and
+(b) for any amount of secondary energy taken during a month not comprised in the amount of firm power on order during that month - a price to be determined by the parties hereto on or before the first day of April in each year and to be effective that date which price per kilowatthour shall be so determined that the Paper Company by the use of the said secondary power shall be able to produce steam at an amount in dollars at least ten per cent less than the cost of the fuel used to produce steam in its alternative fuel-fired boilers.
+[21] While it seems to be accepted that, when the 1955 agreement was entered into, the price that Deer Lake charged Corner Brook of $2.80 per kilowatt per month was a commercial market rate at the time, by February 1, 1995, the price of the power supplied by Deer Lake to Corner Brook was, according to Mr. Hawkins, nearly 10 times below market rates.
+[22] I mention in passing a second contract entered into between Corner Brookand Deer Lake on January 1, 1983. This contract was for the supply of power at $10.00 per kilowatt month above that supplied under the 1955 agreement. It was renewable on a year to year basis and could be terminated on 12 months notice. I shall not mention it further since it may be assumed that commercial market rates could be negotiated annually. It is not suggested that the existence of this contract affects the fmv of the shares.
+[23] I turn then to the central issue: was the fmv of the 4,000,000 shares issued to extinguish the $20,000,000 debt greater than or less than $20,000,000? It is conceded that if the 1955 contract between Corner Brook and DeerLake should not be taken into account in valuing the shares of the subsidiary corporation, their fmv is far in excess of $20,000,000. Mr. Denis Labrèche, an expert appraiser with Ernst & Young Orenda Corporate Finance Inc., concluded that the two electricity contracts should not be taken into account in valuing the shares of Deer Lake. He referred to the report or BT Securities Corporation ("the Simons Report") which was put in evidence on consent. At pages 7-4 to 7-5 of the Simons Report the following appears:
+The hydro facility could arguably net approximately US$0.03/kWhr in the local market. Using this as a basis, we believe (if a market demand for power were to exist) the value of the facility would be US$175 to $185 million as a stand alone unit. This is not fully additive to the mill as were the mill to buy power at the market rate, the value of the mill would be reduced by some US$80 million. This means that hydro facility addition to the value base is US$105 ($185-$80). This mill evaluation corresponds quite closely with the proposed current sale of Bear Island which is currently estimated to bring in $200 million. Exclusive of Bear Island's Woodland value, this would equate by our model to an acquisition value of $490 to $560 US per annual ton of manufacturing capacity.
+and at page 7-10:
+Value of Deer Lake Power Company
+Not only is Deer Lake Power Company valuable as a capital asset, a major intangible worth is the fact that it has rights to the water shed of the entire Humber Arm. Silver Mountain alone has a hydraulic capacity in excess of 75 MW generation. The estimated replacement cost of the DLPC, based on similar estimates of construction is $300 M. It should be recognized that a replacement facility could be built with a single generating unit, however, for flexibility, it would probably be built with two units of approximately 40 MW each. As the economic climate of Newfoundland improves, the watershed rights of the Humber Arm can be converted to significant profitable production of hydro-electric power.
+In summary, the facility valuations dependent on perspective are listed in Table 7.6.
+Table 7.6
+Facility Valuation
+Perspective
+CBPP Valuation,
+$USmillions
+DLPC Valuation,
+$USmillions
+Replacement
+500 to 600
+275 to 325
+Acquisition
+150 to 180
+175 to 195
+It is important to note the disparity between the new facility or replacement value and the acquisition value. In our experience, the current discrepancy having replacement costs 2.5 to 3.0 times higher than acquisition cost is a barrier to entry for new facilities. This means that it is unlikely there will be any greenfield newsprint investment until the newsprint price significantly stabilizes. Typically, the new expansion does not start until the replacement cost acquisition ratio has been reduced to 1.5 to 1 with the exception of a few special cases, it will be some time before new greenfield expansion takes place. This means that without the impact of large expansions on the supply side, prices should continue to strengthen. This will reduce the return risk to financial institutions supporting facilities such as CBPP.
+[24] Whatever method of valuation is used 4/7.6 of the shares of Deer Lakehad a fmv vastly in excess of the $20,000,000 debt that was extinguished if the electricity contracts with Corner Brookare ignored.
+[25] Mr. Labrèche gave the following reasons for disagreeing with the Crown's view that this non arm's length contract should be taken into account.
+4.0 QUESTION #1
+In determining the fair market value of DLPC's shares, should CCRA consider power rates included in the Electricity contract?
+4.1 Definition of Fair Market Value
+The term "Fair Market Value" is generally defined as the highest price, expressed in terms of money or money's worth, obtainable in an open and unrestricted market, between informed and prudent parties dealing at arm's length, where neither party is under any compulsion to transact.
+In a notional market context, the definition of Fair Market Value ("FMV") is generally well accepted by Canadian courts.
+The definition of FMV includes two important concepts that have a direct bearing in answering the above question:
+1. Highest price
+2. Informed and prudent parties
+4.2 Highest Price
+"The highest price available must consider that both vendor and purchaser would transact only at a price deemed fair by each."
+CCRA, mainly using the power rates included in the two Electricity contracts, concluded that the FMV of DLPC's shares as at February 1, 1995 was $17,016 million dollars.
+According to Simons' valuation report dated April 1995, the Market Value of DLPC was between US$175 million to US$185 million as a stand-alone unit. In arriving at that conclusion, Simons did not consider the Electricity contracts and assumed that power could be sold at market rates. Also, according to the same report, the estimated replacement cost of DLPC was US$300 million.
+4.3 Informed and Prudent Parties
+The definition of FMV contemplates informed and prudent parties and willing buyers and sellers. Considering the different values calculated by the parties, i.e. Simons and CCRA and their underlying assumptions, we believe that an informed and prudent vendor would modify the Electricity contracts prior to the sale and as a result get the full value of the DLPC shares.
+Modifying the Electricity contracts at market rates makes economic sense from CBPP point of view as it results in a much higher value or additional value in DLPC which more than offsets the reduction in value in CBPP as a stand alone. Therefore, should CBPP decide to sell DLPC, it would be advisable to modify the contract to maximize overall value of CBPP. This conclusion is based on the fact that risk profile of an electricity plant is less than the risk of operating newsprint mill; therefore the same cash flows have more value in the electricity company than the newsprint company.
+Simons' report supports that conclusion:
+"The hydro facility could arguably net approximately US$0.03/k Whr in the local market. Using this as a basis, we believe (if market demand for power were to exist) the value of the facility would be US$175 to $185 millions as a stand alone unit. This is not fully additive to the mill (i.e. Newsprint mill or the value of CBPP) as were the mill to buy power at the market rate, the value of the mill would be reduced by some US$80 million. This means that hydro facility addition to the value base is US$105 million ($185 - $80 = $105)."
+We stress "this means that hydro facility addition to the value base (of CBPP) is US$105 million." This produces a much higher value than CCRA's valuation of $17 million on DLPC shares. Also, those numbers clearly illustrate our opinion that CBPP would be better from a financial and valuation point of view to modify the electricity contracts, pay higher electricity expenses in the future, and, as a result, get higher valuation for their DLPC shares than keeping the Electricity contracts as is and therefore resulting in lower overall value for CBPP.
+4.4 Conclusion
+In short, when we consider:
+1. The definition of FMV,
+2. The concept of Highest Price Available
+3. Simons' independent valuation report conclusion
+4. The Benefits in terms of valuation to DLPC and to CBPP, and
+We conclude that the Electricity contracts should be modified to reflect arm's length conditions when valuing DLPC's shares on a stand alone basis.
+4.5 Dealing at arm's length
+When valuing properties or shares of a company on a stand-alone basis, the concept of restating or modifying non-arm's length contracts or agreements is a well recognized concept in the business valuation profession that is even recognized by CCRA.
+To support this statement, we have reproduced below, text from various publications:
+1. CVS, p. 5A-55
+"Where a business deals on a non-arm's length basis with others, if often is difficult to ascertain whether costs and revenues equivalent to arm's length costs and revenues are being paid and received. Where non-arm's length transactions are being consummated at non-commercial rates, appropriate earnings (and possibly asset) adjustments will be necessary. This is particularly crucial in situations where the business interest on only one side of the non-commercial transaction is being valued, or where the two business interests are at materially different risk. A skewing of the income to one or the other would result in erroneous value/price conclusions."
+2. Information circular 89-3, dealing with "Options and Buy-Sell Agreements"
+"#20. On the other hand, where a majority shareholder holds shares subject to rights and restrictions and can modify these same rights and restrictions without incurring the possibility of adverse minority action, the value of these shares should not be restricted to the amount prescribed by the terms of the arrangement."
+Even though in the above situation, CCRA is dealing with share Options and Buy Sell Agreements, we believe the Electricity contract context in DLPC is very similar.
+3. Information circular 89-3 dealing with "Options and Buy-Sell agreements"
+"#29. If a buy-sell agreement, normally determinative of value, is executed between parties not acting at arm's length, its provisions should be determinative of value, as long as it meets the following criteria:
+(a) It is a bona fide business arrangement.
+(b) The stipulated price or formula price in the agreement provides full and adequate consideration, and represents the fair market value of shares determined without reference to the agreement at the time it is executed.
+(c) It is a legal and binding contract.
+Again, even if the circular deals with buy-sell agreements rather than supply agreement, the issue is the same. We believe that the same three criteria should be applied to Electricity contracts.
+4. CVS - p. 9-16 - Non Arm's length Agreement for the Use of Property
+"Subsection 69(1.2) applies where a taxpayer disposes of property subject to a non-arm's length agreement between the taxpayer and another person providing for the payment of rent, royalty or other payment for the use of or right to use the property at less than a reasonable arm's length amount. The existence of such an agreement may depress the fair market value of the property and therefore reduce any capital gain on its disposition. Where this is the case, subsection 69(1.2) deems the taxpayer's proceeds of disposition to be the greater of the proceeds determined without reference to subsection 69(1.2) and the fair market value of the property at the time of disposition determined without reference to the existence of the non-arm's length agreement. This provision therefore operates to prevent a taxpayer from reducing a gain by depressing the fair market value of a property through putting into place such an agreement."
+The situations described above are similar to our Case, and clearly states that we should ignore the existence of the non-arm's length agreement and make the appropriate adjustments.
+[26] The experts dealt with the effect on the value of the shares of Deer Lake of certain other restrictions. Specifically these were:
+(a) loan agreements - loan guarantees
+(b) a Put Agreement and alleged government restriction on the sale of Deer Lakeshares
+(c) a water lease
+[27] The appellant's expert, Mr. Labrèche, gave no effect to these restrictions and the respondent's expert, Mr. Hawkins, was unable to assign any dollar amount to the effect, if any, of these restrictions on the fmv of the Deer Lakeshares. I can see no purpose in describing these items in detail because they seem to be largely irrelevant to the central question in this appeal. I shall therefore state briefly why I agree with Mr. Labrèche.
+[28] In Gold Coast Selection Trust, Ld. v. Humphrey (Inspector of Taxes), [1948] A.C. 459, Viscount Simon said at page 473:
+. . . Valuation is an art, not an exact science. Mathematical certainty is not demanded, nor indeed is it possible.
+This quotable observation is often cited, but I must confess that I am not entirely sure just what it means. The line between science and art is an indistinct one at best and has been the subject of much learned debate by academics. The statement at least implies that valuation involves skills that go beyond the mechanical application of rules. Such skills include judgement, intuition, experience and common sense.
+[29] My conclusion that the non arm's length electricity contract between Deer Lake and Corner Brookshould not be considered in determining the fmv of the Deer Lake shares is not a conclusion of law nor is it based particularly on expert opinions. It is, rather, simply a common sense appreciation of the fact that the valuation of business assets is not a theoretical exercise. It takes place in the real world and in a commercial context. Conclusions that a valuator reaches must be tested against the touchstone of common sense or, if you will, by reference to what the man on the Clapham omnibus might think.
+[30] Here we have a company owning assets with a value that ranges between $150,000,000 and $300,000,000 and yet because of a long term contract with the company's sole owner to supply electricity at a price that is substantially below market it is asserted that this reduces the value to about $17,000,000. I agree that if that contract were unbreakable - for example if it were with some arm's length third party, this could affect the value significantly - indeed it might even render the shares unsaleable. The enquiry is to determine what sort of a deal would be struck by an informed buyer and seller. No intelligent buyer would even consider buying the shares of Deer Lake if the 1955 electricity contract with Corner Brookremained in place. Therefore, what would Corner Brookdo if it wanted to sell the shares of Deer Lake? Obviously, get rid of the contract, which it could do with the stroke of a pen. This is not a legal conclusion nor is it a matter of appraisal expertise. It is just plain common sense.[3]
+[31] Counsel for the appellant referred to a decision of the Ontario Superior Court of Justice in Ford Motor Company of Canada Ltd. v. Ontario Municipal Employees Retirement Board, 2004 DTC 6224, in which Cumming J. considered the effect on the valuation of shares of the Canadian company of an unfavourable commercial arrangement between the Canadian company and its American parent in the context of an oppression action. The decision of Cumming J. was upheld by the Ontario Court of Appeal [2006] O.J., No. 27. The approach I have taken here is not inconsistent with the conclusion of the Ontariocourts but the context is so very different that I am reluctant to rely too heavily on it.
+[32] I should add that I would not wish my decision to be taken beyond the facts of this case. I do not suggest that in every case non arm's length relationships are to be ignored in the valuation of property. Each case must be looked at in light of its own particular circumstances.
+[33] The appeal is allowed with costs and the assessment for the appellant's 1999 taxation year is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the fair market value of the shares issued by Deer Lake Power Company to Corner Brook Pulp and Paper Limited was at least equal to the amount of the $20,000,000 debt that was extinguished so that no portion of the $20,000,000 indebtedness that was owing by Deer Lake Power Company Limited to Corner Brook Pulp and Paper Limited was forgiven in the year and that therefore section 80 of the Income Tax Act is inapplicable.
+Signed at Ottawa, Canada, this 16th day of February 2006.
+"D.G.H. Bowman"
+Bowman, C.J.
+CITATION:
+2006TCC70
+COURT FILE NO.:
+2003-3375(IT)G
+STYLE OF CAUSE:
+Cornerbrook Pulp and Paper Limited v. Her Majesty The Queen
+PLACE OF HEARING:
+Montréal, Québec
+DATES OF HEARING:
+November 1, 2 and 3, 2005
+EASONS FOR JUDGMENT BY:
+The Honourable D.G.H. Bowman, Chief Justice
+DATE OF JUDGMENT:
+February 16, 2006
+APPEARANCES:
+Counsel for the Appellant:
+André P. Gauthier
+Josée Vigeant
+Counsel for the Respondent:
+John P. Bodurtha
+John W. MacDonald
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Me André P. Gauthier
+Firm:
+Heenan Blaikie LLP
+1250 René-Lévesque Blvd. West
+Suite 2500
+Montréal, Quebec
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Because of these provisions and because of the manner in which the issue is stated, no reference in the argument was made to the decision of Cameron J. in the Exchequer Court of Canada in Tuxedo Holding Co. Ltd. v. M.N.R., 59 DTC 1102, which distinguished the House of Lords decision in Craddock v. Zevo Finance Co. Ltd., (1959) 27 T.C.C. 267. The Tuxedo Holding case has, at least until the decision of the Federal Court of Appeal in Teleglobe Inc. v. The Queen, 2002 DTC 7517, been treated as good law in Canada as far as it goes, and it may be taken as standing for the proposition that the "cost" to a corporation of property that is paid for by the issuance of par value shares is the par value of the shares that are issued. The applicability of the Tuxedo Holding decision where shares without par value are issued was not discussed in argument.
+In Teleglobe, Pelletier J. said at p. 7524:
+[31] Absent factors which would make the transaction impeachable, the agreement of the parties determines the cost to the corporation of issuing shares in exchange for property. By statute, the corporation is bound to reflect the true consideration received for the issuance of the shares in its capital accounts. As a result, while one can say that the capital accounts are an indication of the agreement between the parties, it is the agreement of the parties, not the capital accounts which is determinative of the cost. Consequently, the trial judge was correct in saying that the consideration was the amount agreed between the parties and "reflected" in the director's resolution and in the increase the stated capital of the classes of shares issued (see paragraph 12 above).
+[32] It follows from this that the cost to the appellant of issuing shares as part consideration for the assets of Old Teleglobe is the amount agreed between the parties, as evidenced by the stated capital of the common shares in the appellant. Consequently, the purchase price of the assets is equal to the value of the tangible assets, so that the appellant made or incurred no outlay or expense to acquire goodwill. The appeal should be dismissed with costs.
+Whether Tuxedo Holding and Teleglobe are reconcilable is something that may have to be considered on another occasion. There was no argument on this point and I do not propose to deal with the issue beyond observing that whether one takes as the cost of liquidating the debt the increase in the stated capital of Deer Lake or the agreement of the parties that the $20,000,000 debt would be liquidated by the issuance of 4,000,000 shares, it is arguable that the result should, at least in this case, be the same as when one treats the amount paid as the fmv of the shares. I found illuminating the discussion of the Tuxedo Holding and Teleglobe cases in the case comment in Canadian Current Tax, Volume 16, Number 3, December 2005, by Richard Tremblay and Bradley Warden "Tuxedo Doesn't Fit - CRA Tries on Teleglobe for Size".
+Justice Lamarre, in a very thorough analysis of the jurisprudence surrounding Tuxedo in King Rentals Limited v. The Queen, 96 DTC 1133, made the following observation in a footnote:
+12 The present section 80 now says that where the consideration given for the settlement of the debt consists of shares, the amount paid in satisfaction of the debt is deemed to be the fair market value of the shares at the time of issuance. This deeming provision, in my view, supports my conclusion that the fair market value was not necessarily relevant in determining the amount paid in consideration for the settlement of the debt. See The Queen v. Sutherland et al., [1980] 2 S.C.R. 451, where Dickson, J. said at p. 456: "the purpose of any 'deeming' clause is to impose a meaning, to cause something to be taken to be different from that which it might have been in the absence of the clause." See also The Queen v. Verrette, [1978] 2 S.C.R. 838, 844.
+[2] If the extinguishment of a $20,000,000 debt had, on the Minister's theory, the effect of bringing the fmv of 100% of the company up to $17,016,000, it would seem, if the Minister's theory holds water, that Deer Lake, before the 4,000,000 shares were issued, had a negative value of $2,984,000. There is a certain unreality to the notion that a corporation with 3,600,000 shares outstanding, all held by its parent, has a negative value but where an intercorporate debt is paid off by the issuance of more shares to the parent the value increases by the amount of the debt that disappears. On a consolidated basis nothing has really changed. It is important, however, that the premise upon which the corporate provisions of the ITA are based, viz., the separate identity of corporations within the corporate group, be respected.
+[3] Mr. Labrèche, in the passage quoted above (para. 4.4 of his report), states that the Electricity Contracts should be modified to reflect arm's length conditions when valuing DLPC's shares on a stand alone basis. This is not exactly what I have said. I suggested that they should simply be ignored. In the final analysis it does not make much difference in this case - whether the contracts are rewritten or ignored. In either case we end up with a sufficiently high figure that no forgiveness of debt occurs. Nonetheless, it must be recognized that a secure supply contract at arm's length prices may result in a different value from one where there is no contract, I do not, however, intend to decide the point. It can be decided another day when the question is relevant.

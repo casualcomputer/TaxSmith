@@ -1,0 +1,174 @@
+---
+title: "Sanderson v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28960/index.do"
+last_modified: "2008-11-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 609"
+citation2: ""
+neutral_citation: "2008 TCC 609"
+decision_date: "2008-11-10"
+language: "en"
+item_id: "28960"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4711
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:39:34.065000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "43c37f1390b3f2e1e43b0fb2971caadb249d2c0273afbc277c392df3c205d911"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sanderson v. The Queen
+
+- Citation: 2008 TCC 609
+- Decision date: 2008-11-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4711, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sanderson v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-11-10
+Neutral citation
+2008 TCC 609
+File numbers
+2007-137(IT)I
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-137(IT)I
+BETWEEN:
+BRIDGET SANDERSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+KENDRICK SIMON,
+Added Party.
+____________________________________________________________________
+Appeals heard on July 16, 2008 and October 20, 2008, and
+decision rendered orally on October 21, 2008, at Toronto, Ontario
+Before: The Honourable Justice Campbell J. Miller
+Appearances:
+Agent for the Appellant:
+Lina Soujah
+Counsel for the Respondent:
+Justin Kutyan
+For the Added Party:
+The Added Party himself
+____________________________________________________________________
+DETERMINATION AND JUDGMENT
+It is determined that:
+1. Kendrick Simon resided with his daughter, B, was primarily responsible for her care and upbringing, and qualified as the eligible individual for the months of August, September, November, December 2002, and February, March, May, June 2003 in the 2001 base year, and for the similar months in the 2002, 2003 and 2004 base years; a total of eight months per year.
+2. Bridget Sanderson resided with her daughter, B, was primarily responsible for her care and upbringing, and qualified as the eligible individual for the months of July and October 2002, and January and April 2003 in the 2001 base year, and for similar months in the 2002, 2003 and 2004 base years; a total of four months per year.
+The appeals of Bridget Sanderson from redeterminations made under the Income Tax Act for the 2001, 2002, 2003 and 2004 base taxation years are allowed, and the matters are referred back to the Minister of National Revenue for reconsideration and redetermination on the basis that the Appellant was the eligible individual to receive Child Tax Benefits under section 122.6 of the Act in respect of her daughter, B, for a period of four months during each year.
+The purported appeals from the redeterminations made under the Act for the 2000, 2005 and 2006 base taxation year are quashed.
+Signed at Ottawa, Canada, this 10th day of November 2008.
+“Campbell J. Miller”
+C. Miller J.
+Citation: 2008 TCC 609
+Date: 20081110
+Docket: 2007-137(IT)I
+BETWEEN:
+BRIDGET SANDERSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+KENDRICK SIMON,
+Added Party.
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench
+on October 21, 2008, at Toronto, Ontario)
+Miller J.
+[1] Ms. Sanderson brought this informal procedure appeal to the Tax Court of Canada on December 13, 2006, seeking to appeal the Government's decision to not grant her the Child Tax Benefit for the base taxation years 2000 to 2006.
+[2] Given that Ms. Sanderson did not file her appeal for the 2000 base taxation year on a timely basis, and given that the Government had not, at the time of the appeal, made any decision regarding the 2005 and 2006 base taxation years, this matter is limited to the 2001 to 2004 base years.
+[3] By Order of the Honourable Justice Jorré dated August 21, 2007, Mr. Kendrick Simon was joined in Ms. Sanderson's appeal as an added party. Ms. Sanderson and Mr. Simon are the parents of B,[1] the subject of the Child Tax Benefit.
+[4] Justice Jorré also ordered that the following question be set forth for determination:
+Whether,
+for the purpose of the definition of "eligible individual" in section 122.6 of the Income Tax Act,
+during each month of the period beginning with the month of July 2001 and ending with the month that is the earliest of
+1) the last full month ending prior to the first day of hearing of the appeal; and
+2) the month in which B, the child of Bridget Sanderson and Kendrick Simon reaches 18 years of age,
+Bridget Sanderson or Kendrick Simon
+(i) resided with B;
+(ii) was the parent who primarily fulfilled the responsibility for the care and upbringing of B; and
+(iii) qualified as the “eligible individual”?
+Justice Jorré went on to say:
+The Appellant, the Respondent and the Added Party will all be bound by the determinations made at the hearing for the periods that are the subject of the determination.
+[5] Given my earlier comments, the period I shall determine is the period of July 2002 to June 2006, notwithstanding how Justice Jorré framed the question.
+[6] I heard evidence from Ms. Sanderson and Mr. Simon, as well as from a friend of Ms. Sanderson's, Ms. Williams, and a friend of Mr. Simon's, Ms. Bolo. Most importantly, I heard the evidence of B, the daughter, who is now 18 years of age.
+[7] I have concluded from the evidence that notwithstanding court orders that, at different times, provided custody to Mr. Simon and access to Ms. Sanderson, B in fact resided at different times with each of her mother and father; further, that both parents, at different times, were primarily responsible for her care and upbringing. This is simply not an all or nothing situation. It was clear that B did not want to upset either parent, and that she cares for them both. Her answers, however, as to who looked after her when she was sick, or who helped her with homework, were most telling. She answered that the parent who helped her was the parent with whom she was living at the time. She was also clear, however, that she did spend more time at her father's. This would accord with the custody order given by Judge Zuker in December 2002, which granted custody to Mr. Simon and generous access to Ms. Sanderson. Mr. Simon confirmed this arrangement, which was borne out by several exhibits from the school, work places, health cards, etc., that showed that B's address was the same as Mr. Simon's address. Also, B's school was closer to her dad's than her mom's. Mr. Simon acknowledged that B did spend time at her mother's residence, both during the week and on weekends, though the scheduling was flexible.
+[8] Ms. Sanderson took a more combative approach, claiming Mr. Simon lied at the custody hearing, and that B had always lived with her. I do not accept her evidence. I believe she was intimately involved in B's life, and clearly devoted to her daughter, but she is wrong to suggest B did not live with her father. B did, and she did so more than living with her mother. Neither Ms. Sanderson's friend nor Mr. Simon's friend could be any more accurate regarding the time actually spent by B at each of her parents'. Ms. Williams saw B with her mother; Ms. Bolo saw B with her father. Their evidence supports a finding that parental responsibilities were indeed shared.
+[9] To qualify for the Child Tax Benefit, an individual must be an eligible individual as defined in section 122.6 of the Income Tax Act. The relevant parts read:
+"eligible individual” in respect of a qualified dependant
+which would be B in this case,
+at any time means a person who at that time
+(a) resides with the qualified dependant,
+(b) is the parent of a qualified dependant who primarily fulfils the responsibility for the care and upbringing of the qualified dependent,
+(c) is resident in Canada …
+[10] In the Federal Court of Appeal decision of Matte v. R.,[2] Justice Strayer had this to say about the definition I have just read:
+7 It is important to note that this definition clearly contemplates that the “eligible individual” may change from time to time, as long as at the relevant time he or she is primarily fulfilling the responsibility of a caregiver. This is indicated by the words “at any time means a person who at that time …” in the opening words of the definition.
+8 The formula for calculating the amount of benefits payable is found in section 122.61 of the Act. It is based on the deemed repayment of a notional overpayment of taxes, and that overpayment, according to subsection 122.61(1)
+… is deemed to have arisen during a month … [when the person to be paid the benefit] … was an eligible individual at the beginning of the month …
+According to the formula the person who was an eligible individual at the beginning of the month is to receive 1/12 of the annual rate of the benefits as prescribed in the section. Counsel for the respondent agreed with this interpretation.
+9 We understand this to mean that the minimum benefit period is one month and that a month of benefits is to be paid to whomever was the eligible individual at the beginning of the month: that is, to the person who was primarily fulfilling the responsibility for the care and upbringing of the child at that time …
+[11] I conclude that neither Ms. Sanderson nor Mr. Simon was the eligible individual for the entire period from July 2002 to June 2006, but that each of them met that definition during different months. I am satisfied that B spent approximately two-thirds of her time residing with her father and one-third of her time residing with her mother. It is difficult to precisely determine in which months B was at her mother's or her father's at the beginning of a month, but having concluded there was a two-third/one-third split of time, I can readily determine that every third month, B began the month at her mother's.
+[12] I therefore answer the question for determination posed by Justice Jorré as follows:
+(1) Kendrick Simon resided with B, was primarily responsible for her care and upbringing, and qualified as the eligible individual for the months of August, September, November, December 2002, and February, March, May, June 2003 in the 2001 base year, and for the similar months in the 2002, 2003 and 2004 base years; a total of eight months per year.
+(2) Bridget Sanderson resided with B, was primarily responsible for her care and upbringing, and qualified as the eligible individual for the months of July and October 2002, and January and April 2003 in the 2001 base year, and for similar months in the 2002, 2003 and 2004 base years; a total of four months per year.
+[13] This determination binds Ms. Sanderson and Mr. Simon for the relevant period, resulting in the Sanderson appeal being allowed for four months in each base year.
+[14] I cannot make a determination for the years not properly before me, but I would expect Canada Revenue Agency to assess accordingly for the years subsequent to the years in issue.
+Signed at Ottawa, Canada, this 10th day of November 2008.
+“Campbell J. Miller”
+C. Miller J.
+CITATION: 2008 TCC 609
+COURT FILE NO.: 2007-137(IT)I
+STYLE OF CAUSE: BRIDGET SANDERSON AND
+HER MAJESTY THE QUEEN
+AND KENDRICK SIMON
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: July 16, October 20 and 21, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT: November 10, 2008
+APPEARANCES:
+Agent for the Appellant:
+Lina Soujah
+Counsel for the Respondent:
+Justin Kutyan
+For the Added Party:
+The Added Party himself
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm: N/A
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] I will refer to the daughter as B throughout these Reasons.
+[2] 2003 D.T.C. 5075 (F.C.A.).

@@ -1,0 +1,191 @@
+Title: Kim c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/303972/index.do
+Corpus path: corpus/cases/tcc/2017/2017-cci-246-303972-kim-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2017-12-07
+
+# Kim c. La Reine
+
+- Citation: 2017 CCI 246
+- Decision date: 2017-12-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7859, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kim c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-12-07
+Référence neutre
+2017 CCI 246
+Numéro de dossier
+2011-4095(IT)G, 2012-4057(IT)G
+Juges et Officiers taxateurs
+Guy R. Smith
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 2011‑4095(IT)G
+2012‑4057(IT)G
+ENTRE :
+YONGWOO KIM,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus sur preuve commune le 29 novembre 2017 à Toronto (Ontario).
+Devant : L’honorable juge Guy R. Smith
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocats de l’intimée :
+Me Peter Swanstrom Me Rishma Bhimji
+JUGEMENT
+Les appels de la nouvelle cotisation établie au titre de la Loi de l’impôt sur le revenu pour les années d’imposition 2009 et 2010 sont par les présentes rejetés, et les dépens, fixés à 5 000 $, sont accordés à l’intimée et payables dans les 60 jours, conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 7e jour de décembre 2017.
+« Guy Smith »
+Le juge Smith
+Traduction certifiée conforme
+ce 19e jour de février 2019.
+Mario Lagacé, jurilinguiste
+Référence : 2017 CCI 246
+Date : 20171207
+Dossiers : 2011‑4095(IT)G
+2012‑4057(IT)G
+ENTRE :
+YONGWOO KIM,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Smith
+[1] L’appelant dans la présente instance, Yongwoo Kim (l’« appelant »), interjette appel des avis de cotisation établis pour les années d’imposition 2009 et 2010. Le ministre du Revenu national (le « ministre ») a refusé la déduction de pertes d’entreprise (ainsi que le report rétrospectif de pertes pour les années d’imposition 2006, 2007 et 2008) et a imposé à l’appelant des pénalités pour faute lourde conformément au paragraphe 163(2) de la Loi de l’impôt sur le revenu (la « LIR »).
+[2] Les questions à trancher consistent à savoir si l’appelant avait le droit de déduire des pertes d’entreprise pour les années en question et, dans la négative, si le ministre avait le droit d’imposer des pénalités pour faute lourde.
+Les faits
+[3] L’appelant a témoigné pour son propre compte, mais, comme il en sera question plus loin, il a aussi appelé un second témoin. Il a témoigné en coréen avec l’aide d’un interprète, mais a déclaré pouvoir lire l’anglais.
+[4] Dès le début, l’appelant a insisté pour dire que la question à laquelle devait répondre la Cour était celle de savoir si la Couronne avait présenté des éléments de preuve pour justifier les pénalités pour faute lourde. À plusieurs reprises, il a demandé à la Couronne de présenter de tels éléments de preuve. Selon lui, il n’y avait aucune autre question à examiner.
+[5] Pendant la période visée, il travaillait chez Bombardier Inc. Il a décrit son travail comme étant lié à [TRADUCTION] l’« assurance‑quantité », mais a refusé de répondre à toute autre question sur sa formation ou sa scolarité. À son avis, ces questions relevaient du domaine privé et n’étaient pas pertinentes dans le contexte de l’instance. Il a aussi refusé de répondre à plusieurs autres questions qui lui ont été posées en contre‑interrogatoire, demandant à plusieurs reprises à l’intimée [TRADUCTION] « Pourquoi posez‑vous cette question? » et disant craindre que la Couronne use de subterfuges pour lui soutirer des aveux.
+[6] L’appelant est apparu à la Cour comme une personne intelligente et capable de comprendre et d’exprimer certains concepts complexes. Cependant, ses réponses semblaient préparées à l’avance. Il a tenté de lire les réponses qu’il avait données lors de l’interrogatoire préalable soumis par écrit. Il a souvent répété son interprétation de certaines dispositions de la LIR, mais ignorait généralement comment les appliquer à sa propre situation. Il s’est montré argumentateur et, au bout du compte, il n’était pas un témoin très crédible.
+DSC Lifestyle Services et Fiscal Arbitrators
+[7] Avant les années d’imposition en question, l’appelant avait produit ses déclarations de revenus à l’aide d’un programme logiciel. En 2009, il a assisté à un séminaire organisé par DSC Lifestyle Services (« DSC »), un organisme associé à un groupe de spécialistes en déclarations de revenus connu sous le nom de « Fiscal Arbitrators ». Au fil du témoignage de l’appelant, il est devenu apparent qu’on avait réussi à lui faire croire :
+1. que le revenu d’emploi est attribué à une entité juridique fictive créée par l’État (le plus souvent associée à un numéro d’assurance sociale), mais qu’il est possible de séparer cette entité juridique de l’être humain ou de la « personne »;
+2. que l’appelant, comme tous les autres contribuables canadiens qui reçoivent un revenu d’emploi, est libre à titre de « personne » d’exploiter une entreprise et de déduire des dépenses d’entreprise pour diminuer le revenu imposable de l’entité juridique fictive.
+[8] Invité à décrire son entreprise, l’appelant a renvoyé la Cour à la définition d’« entreprise » prévue au paragraphe 248(1) de la LIR, qui est la suivante :
+Sont compris parmi les entreprises les professions, métiers, commerces, industries ou activités de quelque genre que ce soit et, sauf pour l’application de l’alinéa 18(2)c), de l’article 54.2, du paragraphe 95(1) et de l’alinéa 110.6(14)f), les projets comportant un risque ou les affaires de caractère commercial, à l’exclusion toutefois d’une charge ou d’un emploi. (business)
+[9] L’appelant a attiré l’attention de la Cour sur l’expression « activités de quelque genre que ce soit » et expliqué qu’elle pouvait s’appliquer à n’importe quoi. Il a fait valoir qu’il n’était pas nécessaire de participer à des activités d’entreprise précises. À l’audience, il a parlé simplement de ses [TRADUCTION] « activités quelconques ». Lorsqu’il lui a été demandé s’il avait des livres et registres comptables, des reçus ou des factures, ou encore toute autre preuve documentaire pour étayer l’existence de son entreprise, il a répondu que le formulaire « État des résultats des activités d’une entreprise ou d’une profession libérale » (formulaire T2125) qu’il avait soumis avec ses déclarations de revenus pour 2009 et 2010 était la meilleure preuve dont il disposait pour l’étayer. Il a insisté pour dire que le document se passait d’explications et qu’aucune autre preuve n’était nécessaire.
+[10] Vu qu’il avait compris que la loi l’autorisait à séparer sa prétendue entité juridique fictive de sa « personne », il a décrit son revenu d’emploi comme ayant été perçu par lui à titre de mandataire pour le compte d’un mandant, à savoir sa « personne ». Cette interprétation concorde avec le fait qu’il a utilisé le mot [TRADUCTION] « par » avant sa signature dans ses déclarations de revenus. Dans la correspondance ultérieure, il a ajouté la mention [TRADUCTION] « représentant autorisé ».
+La déclaration de revenus pour 2009
+[11] Dans sa déclaration de revenus pour 2009, l’appelant a déclaré un revenu d’emploi de 81 568 $ et déduit une perte d’entreprise nette de 265 374 $, ce qui a donné lieu à une perte nette de 174 806 $. Un formulaire T2125 était annexé à la déclaration. Celui‑ci indiquait que les principaux produits ou services offerts par l’appelant étaient des services de « mandataire ». L’appelant a déclaré un revenu d’entreprise brut de 96 250 $ et des dépenses de 352 625 $, décrites comme des [TRADUCTION] « montants du mandataire au mandant », résultant en une perte de 256 374 $.
+[12] Il a expliqué que son revenu d’entreprise brut de 96 250 $ représentait en fait un paiement reçu par lui pour son travail, en quelque sorte lié au revenu d’emploi reçu de Bombardier. Il a aussi produit une Demande de report rétrospectif d’une perte et déduit des pertes autres qu’en capital de 53 295 $, de 56 968 $ et de 65 552 $ pour les années d’imposition 2006, 2007 et 2008, respectivement. Le remboursement réclamé pour 2009 était de 21 051 $.
+[13] À la suite d’une correspondance et d’une demande présentée par l’Agence du revenu du Canada (l’« ARC ») en vue d’obtenir des renseignements supplémentaires et des documents à l’appui, l’appelant a répondu qu’il avait [TRADUCTION] « attesté que tous les renseignements reçus par l’ARC sont exacts et complets et qu’ils révèlent la totalité de [ses] revenus » et que, [TRADUCTION] « puisque le contribuable est une entité fictive, il ne peut faire de présentation erronée des faits ou de faux énoncé ou avoir quelque intention que ce soit et, par conséquent, toute pénalité imposée ou mesure prise au titre du paragraphe 163(2) de la LIR est frappée de nullité et nulle ab initio ».
+[14] Dans sa réponse envoyée à l’ARC le 3 décembre 2010, l’appelant a affirmé ce qui suit :
+[TRADUCTION]
+Les faits attestés sont que YONGWOO KIM et le numéro d’assurance sociale associé à YONGWOO KIM et identifié comme le contribuable constituent deux entités fictives appartenant à la Couronne du chef du CANADA ou d’une province. Ainsi, puisque le contribuable est une entité fictive, tel qu’il a été énoncé ci‑dessus, il ne peut faire de présentation erronée des faits ou de faux énoncé ou avoir quelque intention que ce soit et, par conséquent, toute pénalité imposée ou mesure prise au titre du paragraphe 163(2) de la LIR est frappée de nullité.
+Malgré la Loi de l’impôt sur le revenu du Canada, et en particulier le paragraphe 152(7), les faits démontrent que le mandant homo ingenuus de l’entité fictive portant le nom de YONGWOO KIM, qui est par nécessité le mandataire du mandant, a attesté que tous les renseignements fournis dans la déclaration de revenus originale et tous les renseignements qui l’accompagnaient sont exacts, complets et véridiques. Ainsi, le mandant a le droit d’être rémunéré pour fournir à son mandataire, YONGWOO KIM, un moyen d’exploiter une entreprise au profit de son propriétaire, la Couronne du chef du CANADA ou d’une province, conformément au barème du mandant.
+[15] Un avis de cotisation a été établi le 8 mars 2011, dans lequel le ministre a jugé que l’appelant n’exploitait pas une entreprise au sens du paragraphe 248(1) de la LIR, qu’il n’avait pas engagé des dépenses de 352 625 $ en vue de tirer un revenu comme l’exige l’alinéa 18(1)a) de la LIR et qu’il n’avait pas le droit de déduire une perte d’entreprise nette au titre du paragraphe 9(2) de la LIR. Le ministre a aussi imposé des pénalités pour faute lourde de 50 396 $ (montant qui comprend la pénalité provinciale) en vertu du paragraphe 163(2) de la LIR.
+La déclaration de revenus pour 2010
+[16] Dans sa déclaration de revenus pour 2010, l’appelant a déclaré un revenu d’emploi de 85 568 $ et déduit une perte d’entreprise de 114 848 $, ce qui a donné lieu à une perte nette de 29 280 $.
+[17] L’appelant a aussi produit un formulaire T5 (Sommaire), signé par lui à titre de « représentant autorisé », dans lequel il a déclaré des revenus de placement de 114 848 $. Curieusement, ce montant était étayé par un certain nombre de feuillets T5 prétendument délivrés par un certain nombre d’entités réputées, comme la Banque Scotia, Industrielle Alliance, Enbridge, etc. Seuls les feuillets prétendument délivrés par la Banque Scotia indiquaient un montant en dollars, avec la mention [TRADUCTION] « impôt retenu [...] compte des produits de disposition non réclamés ». Tous les feuillets portaient mention de l’article 85.1, quoiqu’il ne soit pas clair s’il s’agit d’un renvoi à la LIR. Des dépenses d’intérêt de 114 848 $ ont ensuite été déduites dans le formulaire T2125, ostensiblement pour étayer la déduction d’une perte d’entreprise de 114 848 $. Encore une fois, les principaux produits et services offerts par l’appelant étaient décrits dans le formulaire comme étant des services de [TRADUCTION] « mandataire ».
+[18] Ces calculs ont donné lieu à une demande de remboursement de 21 837 $. La ligne réservée à la signature portait la mention [TRADUCTION] « Certifié en vertu de bppa.me/wg6EeYRqE7a9ZAHgX6mF », que l’appelant n’a pas pu expliquer.
+[19] En contre‑interrogatoire, l’appelant a été incapable d’expliquer pourquoi ses dépenses pour 2010 étaient des frais d’intérêts. Il a expliqué que les divers feuillets T5 avaient été préparés par DSC. Tout comme pour la déclaration pour 2009, il avait compris que ses déclarations de revenus avaient été préparées et revues par Fiscal Arbitrators, même si, dans les deux cas, la case réservée au spécialiste en déclarations n’avait pas été remplie.
+[20] L’ARC a envoyé à l’appelant une demande de renseignements supplémentaires, et l’appelant y a répondu au moyen de lettres rédigées de manière similaire. L’appelant a reconnu que celles‑ci avaient été rédigées par Fiscal Arbitrators. Il a toutefois soutenu qu’il avait lu les ébauches des réponses envoyées à l’ARC, qu’il les avait comprises et qu’il les avait signées et envoyées par la poste au besoin.
+[21] Dans un avis de cotisation daté du 13 février 2012, le ministre a refusé la perte d’entreprise nette déclarée par l’appelant et lui a imposé des pénalités pour faute lourde de 17 478 $ (montant qui comprend la pénalité provinciale) en vertu du paragraphe 163(2) de la LIR.
+Le second témoin
+[22] Le second témoin s’est présenté comme étant Lawrence (Larry) Watts, l’un des fondateurs et organisateurs de Fiscal Arbitrators.
+[23] Dans son interrogatoire du témoin, l’appelant s’est appuyé sur une liste de questions dactylographiées qu’il a d’abord tenté de lire en anglais, mais il a fini par demander à l’interprète de les poser à M. Watts.
+[24] À la question de savoir s’il avait des motifs de douter que DSC n’avait pas suivi les consignes de Fiscal Arbitrators, M. Watts a affirmé n’avoir aucun motif d’en douter.
+[25] Invité à préciser s’il avait quelque motif que ce soit de croire que la déclaration de revenus produite par l’appelant contenait « un faux énoncé ou une omission », M. Watts a répondu qu’il n’avait aucun motif de le croire et que les déclarations étaient exactes.
+[26] En contre‑interrogatoire, M. Watts a reconnu qu’il avait aidé l’appelant à préparer ses questions avant l’audience. On lui a aussi demandé s’il avait un casier judiciaire et s’il avait été déclaré coupable de fraude en rapport avec ses activités liées à Fiscal Arbitrators. Il a répondu par l’affirmative. Il s’ensuit que la Cour est tenue de conclure que son témoignage est intrinsèquement non fiable.
+Le droit applicable
+L’existence d’une entreprise
+[27] Le paragraphe 248(1) de la LIR prévoit que sont compris parmi les entreprises « les professions, métiers, commerces, industries ou activités de quelque genre que ce soit », y compris « les projets comportant un risque ou les affaires de caractère commercial, à l’exclusion toutefois d’une charge ou d’un emploi ». Il est bien établi en droit qu’une entreprise doit être fondée sur la notion de profit et, bien qu’elle puisse comprendre une activité de « quelque genre que ce soit », comme le fait valoir l’appelant, elle doit aussi consister en une activité commerciale concrète fondée sur la prestation de biens ou de services avec l’intention d’en tirer un profit. Une entreprise ne peut pas exister de façon abstraite.
+[28] L’alinéa 3a) de la LIR porte sur le calcul du revenu et prévoit que le contribuable doit calculer son revenu pour une année d’imposition en identifiant « la source » du « revenu tiré de chaque charge, emploi, entreprise et bien » (non souligné dans l’original). En l’absence d’intention de faire un profit, il est logique de conclure que la prétendue entreprise est un passe‑temps ou une démarche personnelle, ayant éventuellement des objectifs philanthropiques : Stewart c. Canada, [2002] 2 RCS 645.
+[29] Le concept de profit est repris au paragraphe 9(1) de la LIR, qui porte sur le calcul du revenu provenant d’une entreprise. Cette disposition prévoit que « le revenu qu’un contribuable tire d’une entreprise [...] pour une année d’imposition est le bénéfice qu’il en tire pour cette année ». Les concepts d’entreprise et de profit sont inextricablement liés. Par conséquent, un contribuable doit être en mesure de démontrer que ses activités ont été réalisées dans le but de réaliser un profit.
+[30] La notion de profit est également reprise à l’alinéa 18(1)a) de la LIR, qui prévoit que, pour calculer le revenu d’un contribuable tiré d’une entreprise, les dépenses ne sont pas déductibles « sauf dans la mesure où elles ont été engagées ou effectuées […] en vue de tirer un revenu de l’entreprise ou du bien ». Ce principe est renforcé par l’exclusion expresse, à l’alinéa 18(1)h) de la LIR, du « montant des frais personnels ou de subsistance du contribuable ».
+[31] J’ajouterai que le paragraphe 248(1) de la LIR comprend aussi une définition du terme « contribuables », qui précise que « [s]ont comprises parmi les contribuables toutes les personnes, même si elles ne sont pas tenues de payer l’impôt ». Le terme « personne » est aussi défini et vise « tant les sociétés que les entités exonérées de l’impôt ». Le bon sens commande que les termes « contribuable » et « personne » soient interchangeables, et que le mot « personne » comprenne aussi une personne physique ou un être humain. Aucune distinction n’existe : Bydeley c. La Reine, 2012 CCI 142, Pomerleau v. Canada (Revenue Agency), 2017 ABQB 123, aux paragraphes 61‑63.
+[32] En fin de compte, un contribuable, qu’il se considère comme une personne, une personne physique ou un être humain, peut exploiter une entreprise comme source de revenus.
+Les pénalités pour faute lourde
+[33] Le paragraphe 163(2) de la LIR établit le fondement de l’imposition des pénalités pour faute lourde :
+(2) Faux énoncés ou omissions Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d’imposition pour l’application de la présente loi, ou y participe, y consent ou y acquiesce est passible d’une pénalité égale, sans être inférieure à 100 $, à 50 % du total des montants suivants […]
+[34] Cependant, le paragraphe 163(3) de la LIR prévoit que le ministre a la charge d’établir les faits qui justifient l’imposition des pénalités pour faute lourde. Autrement dit, le ministre doit prouver 1) que le contribuable a fait un faux énoncé ou une omission dans sa déclaration de revenus et 2) qu’il a agi sciemment ou dans des circonstances équivalant à faute lourde.
+[35] La question de savoir si le contribuable a fait un faux énoncé ou une omission repose principalement sur une analyse factuelle. Si les parties ne s’entendent pas, le ministre doit présenter des éléments de preuve pour convaincre la Cour selon la prépondérance des probabilités.
+[36] L’étape suivante consiste à déterminer si le contribuable a fait un faux énoncé ou une omission « sciemment » ou « dans des circonstances équivalant à faute lourde ». Cette étape se fonde elle aussi sur une analyse factuelle, mais, comme il sera expliqué plus loin, celle‑ci repose en fait sur une question mixte de fait et de droit. Comme la Cour d’appel fédérale l’a indiqué dans l’arrêt Wynter c. Canada, 2017 CAF 195, au paragraphe 11, l’utilisation de la conjonction « ou » laisse entendre que le ministre doit prouver l’un ou l’autre des deux éléments. Le juge Rennie a fourni l’explication suivante :
+[13] Un contribuable fait preuve d’ignorance volontaire lorsqu’il prend conscience de la nécessité de se renseigner, mais refuse de le faire parce qu’il ne veut pas connaître la vérité ou qu’il évite soigneusement de la connaître. Il s’agit de la notion de l’ignorance délibérée : R. c. Briscoe, 2010 CSC 13, aux paragraphes 23 et 24, [2010] 1 R.C.S. 411 (Briscoe); Sansregret, au paragraphe 24. Dans ces circonstances, la doctrine de l’ignorance volontaire impute une connaissance au contribuable : Briscoe, au paragraphe 21. L’ignorance volontaire est la doctrine ou le mécanisme par lequel l’élément de connaissance requis aux termes du paragraphe 163(2) est établi.
+[…]
+[16] En somme, le droit imputera une connaissance au contribuable qui, dans des circonstances qui lui commandent de se renseigner sur sa situation fiscale, décide de ne pas le faire. L’élément de connaissance est établi par la décision du contribuable de ne pas se renseigner, et non par la conclusion d’une intention de tromper.
+[37] Ainsi, le terme « sciemment » englobe la notion d’« ignorance délibérée » ou l’idée de fermer volontairement les yeux sur certains faits ou circonstances que le contribuable sait être faux. Ce concept ne doit toutefois pas être confondu avec la faute lourde, comme l’a expliqué le juge Rennie :
+[18] La faute lourde se distingue de l’aveuglement volontaire. Elle se manifeste lorsque la conduite d’un contribuable se situe considérablement en deçà de la conduite à laquelle on est en droit de s’attendre de la part d’un contribuable raisonnable. En termes simples, alors que le contribuable volontairement ignorant savait, le contribuable coupable d’une faute lourde aurait dû savoir.
+[19] La faute lourde nécessite un plus haut degré de négligence que la simple absence de diligence raisonnable. Elle correspond à un écart marqué ou important par rapport à la conduite à laquelle on est en droit de s’attendre. Elle va au‑delà de l’inattention ou des fausses déclarations. Ce point est expliqué dans le jugement de la Cour dans Zsoldos c. Canada (Procureur général), 2004 CAF 338, au paragraphe 21, 2004 D.T.C. 6672 :
+Lorsqu’il détermine les pénalités pour faute lourde, le ministre doit prouver l’existence d’un degré important de négligence qui correspond à une action délibérée, une indifférence au respect de la loi. (Voir Venne c. Sa Majesté la Reine) [1984], A.C.F. no 314, 84 D.T.C. 6247, p. 6256 (C.F. 1re inst.).)
+[38] Le paragraphe 20 précise que « [l]e paragraphe 163(2) concerne une pénalité, qui peut être imposée s’il est conclu qu’il y a eu connaissance ou faute lourde ». Comme la Cour d’appel fédérale l’a souligné au paragraphe 23, le juge de première instance avait employé les expressions « ignorance volontaire » [aussi appelé « aveuglement volontaire »] et « faute lourde » de manière interchangeable, ce qui n’est pas surprenant, puisque les deux concepts étaient un peu flous dans la jurisprudence antérieure. Dans l’arrêt Canada (Procureur général) c. Villeneuve, 2004 CAF 20, la Cour d’appel fédérale a conclu que la faute lourde pouvait englober l’aveuglement volontaire. Au paragraphe 6 de cet arrêt, le juge Létourneau a fait observer ce qui suit :
+Avec égards, je crois que la juge a omis de considérer la notion de faute lourde qui peut découler d’un aveuglement volontaire de son auteur. Même l’intention coupable qui, souvent, prend la forme de la connaissance de l’un ou de plusieurs des éléments constitutifs du geste reproché peut s’établir par une preuve d’aveuglement volontaire. En pareil cas, l’auteur du geste, bien qu’il n’ait pas de connaissance actuelle de l’élément reproché, se voit imputer la connaissance de l’élément.
+[39] Dans la décision Torres c. La Reine, 2013 CCI 380, plusieurs contribuables avaient été floués de la même manière par Fiscal Arbitrators, qui leur avait fait croire qu’ils pourraient déduire des pertes d’entreprise fictives. Le juge Miller a examiné la jurisprudence portant sur la faute lourde et la notion d’aveuglement volontaire (paragraphe 65) et a proposé une liste de facteurs à considérer, notamment 1) le niveau d’instruction et d’expérience du contribuable, 2) la présence de circonstances laissant supposer la nécessité de s’informer ou un soupçon d’une telle nécessité, 3) l’importance de l’avantage ou de l’omission, 4) le caractère flagrant du faux énoncé ou de l’omission et la facilité avec laquelle il pouvait être décelé, 5) l’absence, dans la déclaration elle‑même, d’une attestation du spécialiste qui a établi la déclaration, 6) les demandes inusitées du spécialiste, 7) le fait que le spécialiste était auparavant inconnu du contribuable, 8) les explications inintelligibles du spécialiste, 9) le fait que le contribuable ne s’enquiert pas auprès d’un tiers ou auprès de l’ARC elle‑même. Bref, la Cour doit examiner les circonstances propres à chaque appelant.
+[40] L’un des appelants dans la décision Torres, précitée, a interjeté appel à la Cour d’appel fédérale (Strachan c. Canada, 2015 CAF 60). La juge Dawson a rejeté l’appel et a expliqué :
+[2] [...] D’après les faits ayant mené à l’imposition de la pénalité, à l’initiative d’un spécialiste en déclarations de revenus sans scrupules, l’appelante avait demandé la déduction d’une perte d’entreprise fictive d’un montant suffisant pour entraîner le remboursement complet de l’impôt payé sur son revenu d’emploi.
+[...]
+[4] [...] La faute lourde peut être établie dans le cas où le contribuable fait preuve d’ignorance volontaire au sujet des faits pertinents lorsqu’il ressent le besoin de se renseigner, mais refuse de le faire parce qu’il ne veut pas connaître la vérité (Canada (Procureur général) c. Villeneuve, 2004 CAF 20, 327 N.R. 186, au paragraphe 6; Panini c. Canada, 2006 CAF 224, [2006] A.C.F. no 955, aux paragraphes 41 à 43).
+[...]
+[6] [...] Aucune erreur manifeste et dominante n’a été démontrée relativement à la conclusion mixte de fait et de droit selon laquelle, compte tenu des nombreux signaux d’« alarme », l’appelante devait s’enquérir davantage auprès du spécialiste en déclarations de revenus, d’un conseiller indépendant ou encore de l’Agence du revenu du Canada avant de signer sa déclaration de revenus. Aucune erreur manifeste et dominante n’a été non plus démontrée relativement à la conclusion du juge portant que les circonstances avaient pour effet d’exclure le moyen de défense selon lequel, compte tenu des énoncés fautifs faits par le spécialiste en déclarations de revenus, l’appelante pensait que ce qu’elle faisait était légitime.
+Discussion et conclusion
+[41] L’appelant exploitait‑il une entreprise? De toute évidence, la réponse est non. Comme on l’a déjà mentionné, la définition d’« entreprise » prévue au paragraphe 248(1) de la LIR inclut des « activités de quelque genre que ce soit ». En effet, une entreprise peut prendre quelque forme que ce soit, mais elle doit prendre une forme quelconque et l’activité en question doit être entreprise dans un but lucratif. Elle ne peut exister de façon abstraite ou dans une forme de réalité virtuelle.
+[42] L’appelant a prétendu qu’il avait le droit d’exploiter une entreprise à titre de personne physique ou d’être humain distinct de ce qu’il a désigné comme l’entité fictive associée à son numéro d’assurance sociale. Il est évident qu’une personne physique ou un être humain peut exploiter une entreprise en vertu du droit canadien, mais il n’existe aucune distinction entre cette personne physique et celle qui détient un numéro d’assurance sociale et touche un revenu d’emploi.
+[43] Il s’ensuit que la prétention de l’appelant selon laquelle il a touché un revenu ou engagé des dépenses d’entreprise à titre de mandataire d’un mandant est un non‑sens. En l’espèce, l’appelant, le mandataire et le mandant étaient manifestement la même personne.
+[44] L’appelant a déduit des dépenses d’entreprise de 352 625 $ pour 2009 et de 114 848 $ pour 2010, mais il a été incapable de présenter le moindre élément de preuve à cet égard. Au bout du compte, la Cour n’a d’autre choix que de conclure que les revenus et les dépenses d’entreprise étaient entièrement fictifs et qu’ils ont été créés de toutes pièces (avec l’aide de Fiscal Arbitrators) en vue de générer un remboursement d’impôt. Si l’ARC n’avait pas refusé de traiter ces demandes de remboursement, l’appelant aurait reçu des remboursements d’impôt de plus de 100 000 $ pour les années d’imposition 2006 à 2010.
+[45] L’appelant a‑t‑il fait un faux énoncé ou une omission? Selon le dernier avis d’appel déposé à l’égard des deux années d’imposition, chacune des déclarations de revenus [TRADUCTION] « a été produite et était exacte et complète et ne contenait aucun faux renseignement ». Cela concorde avec la thèse adoptée par l’appelant dans sa correspondance avec l’ARC, dont il a été question plus tôt, à savoir qu’il a été attesté que tous les renseignements fournis dans ses déclarations de revenus [TRADUCTION] « sont exacts, complets et véridiques ».
+[46] En contre‑interrogatoire, l’appelant a reconnu avoir produit ses déclarations de revenus pour les années d’imposition 2009 et 2010, ainsi qu’un État des résultats des activités d’une entreprise et une Demande de report rétrospectif d’une perte. Il a reconnu sa signature, même s’il avait ajouté la préposition [TRADUCTION] « par » ou les mots [TRADUCTION] « représentant autorisé ».
+[47] Puisque j’ai déjà conclu que l’appelant n’exploitait pas une entreprise et qu’il n’avait pas engagé les dépenses d’entreprise en question, il s’ensuit logiquement que la Cour doit aussi conclure qu’il a sciemment fait un faux énoncé dans ses déclarations de revenus.
+[48] Même si la Cour était d’avis que l’appelant a cru à tort qu’il exploitait une entreprise, ce qu’il est difficile de croire, il devait savoir qu’il n’avait pas en fait engagé les dépenses d’entreprise en question. Il ne fait aucun doute qu’il était motivé par le désir d’éviter de payer l’impôt sur le revenu et par la possibilité de recevoir un remboursement d’impôt important.
+[49] Pour reprendre les termes utilisés dans l’arrêt Wynter, précité, l’appelant savait ou est resté délibérément dans l’ignorance, selon la doctrine de l’ignorance volontaire. Autrement dit, il savait qu’il avait fait un faux énoncé ou bien cette connaissance lui est imputée. S’il avait des soupçons – et il a dû en avoir –, il « a délibérément décidé de ne pas se renseigner afin d’éviter de vérifier ce qui pourrait être une vérité gênante » (au paragraphe 17).
+[50] Je rappelle les divers facteurs établis par le juge Miller dans la décision Torres, précitée, notamment : 1) le niveau général d’intelligence de l’appelant, 2) l’importance de l’avantage par rapport aux remboursements d’impôt reçus les années précédentes, 3) le caractère flagrant du faux énoncé, 4) le fait que le spécialiste qui a établi la déclaration était auparavant inconnu du contribuable, 5) les explications inintelligibles du spécialiste, 6) le fait que le contribuable ne s’est pas enquis auprès d’un tiers, d’un comptable ou de l’ARC. Considérés dans leur ensemble, ces facteurs laissent entendre que l’appelant a fait preuve d’aveuglement volontaire ou a commis une faute lourde dans la préparation de ses déclarations de revenus.
+[51] Sur ce fondement, je conclus que l’intimée s’est acquittée du fardeau énoncé au paragraphe 163(3) de la LIR, et je conclus que l’appelant a sciemment, ou dans des circonstances équivalant à faute lourde, fait un faux énoncé dans ses déclarations de revenus pour 2009 et 2010. Par conséquent, le ministre a droit aux pénalités pour faute lourde.
+[52] Que dire du témoignage de M. Watts? À l’insu de la Cour au moment de l’audience, M. Watts a été reconnu coupable par un jury de fraude en rapport avec ses activités liées à Fiscal Arbitrators (2016 ONSC 4843). Le 6 juin 2016, il a été condamné à une peine d’emprisonnement de six ans et à une amende de 149 129 $. Le juge de première instance s’est exprimé en ces termes :
+[TRADUCTION]
+[1] À l’issue d’un procès de vingt-trois jours devant jury, Lawrence Watts a été reconnu coupable d’un chef de fraude d’un montant dépassant 5 000 $, infraction prévue à l’alinéa 380(1)a) du Code criminel. L’accusation a été portée à la suite de la préparation, par le contrevenant, d’une ou de plusieurs déclarations de revenus pour 241 contribuables canadiens. Dans chaque cas, une perte d’entreprise fictive, attribuée à une entreprise fictive, a été déclarée pour effacer la dette fiscale du contribuable pour l’année d’imposition en cours et pour les trois années antérieures. Ainsi, les contribuables ont présenté une demande de remboursement de l’ensemble de l’impôt payé au cours des trois années antérieures et de toutes les sommes retenues à la source par l’employeur pour l’année en cours. Les contribuables qui ont témoigné au procès ont déclaré qu’ils n’avaient pas exploité d’entreprise, qu’ils n’avaient pas subi les pertes déclarées dans leurs déclarations, qu’ils n’avaient pas laissé entendre à Watts qu’ils avaient subi des pertes, et qu’ils ne savaient pas d’où venaient les chiffres indiqués dans leurs déclarations.
+[2] Le montant total des recettes fiscales fédérales qui aurait été perdu si des cotisations avaient été établies conformément aux déclarations telles qu’elles ont été produites s’élève à 10 507 131 $, d’après les pertes fictives déclarées de 64 253 889 $. Toutefois, à un moment donné, l’Agence du revenu du Canada a découvert le stratagème et a commencé à refuser les déductions demandées. Le montant réellement versé en remboursements d’impôt fédéral, ou autrement crédité aux comptes fiscaux fédéraux des contribuables, s’élève à 2 750 288 $.
+[3] Lorsqu’il préparait des déclarations de revenus, M. Watts utilisait la raison sociale « Fiscal Arbitrators ». Pour ses services, les contribuables lui versaient vingt pour cent de la somme des remboursements d’impôt ou des crédits reçus de l’ARC. Les documents saisis dans le bureau de M. Watts faisaient état de revenus anticipés de 1 902 227 $.
+[53] Malgré ce qui précède, M. Watts s’est fait un plaisir de témoigner pour le compte de l’appelant et de répéter son credo, selon lequel tous les Canadiens ont le droit de déclarer des pertes d’entreprise pour éliminer l’impôt sur le revenu qu’ils seraient autrement tenus de payer sur leur revenu d’emploi. Après que M. Watts a reconnu avoir participé à la préparation des déclarations de revenus de l’appelant, celui‑ci lui a demandé s’il pouvait relever un faux énoncé ou une omission dans les déclarations de revenus. M. Watts a répondu en donnant l’assurance à la Cour qu’il n’y en avait pas. Comme je l’ai déjà indiqué, son témoignage est intrinsèquement non fiable et n’a aucune valeur probante. En tout état de cause, ses réponses vont au cœur des questions auxquelles la Cour, et non M. Watts, doit répondre.
+[54] À la clôture de l’audience, l’appelant a été informé que les appels seraient rejetés et que les motifs écrits de la décision seraient rendus ultérieurement. L’intimée a présenté des observations sur les dépens. En particulier, elle a informé la Cour que plusieurs décisions de la Cour canadienne de l’impôt et de la Cour d’appel fédérale, qui figuraient dans son recueil de jurisprudence, avaient été fournies à l’appelant en mai 2017 et qu’il avait tout de même choisi de procéder aux appels.
+[55] Pour l’ensemble des motifs qui précèdent, les appels sont rejetés, et les dépens, fixés à 5 000 $, sont accordés à l’intimée et payables dans les 60 jours.
+Signé à Ottawa, Canada, ce 7e jour de décembre 2017.
+« Guy Smith »
+Le juge Smith
+Traduction certifiée conforme
+ce 19e jour de février 2019.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2017 CCI 246
+Nos DES DOSSIERS :
+2011‑4095(IT)G 2012‑4057(IT)G
+INTITULÉ :
+YONGWOO KIM c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 29 novembre 2017
+MOTIFS DU JUGEMENT :
+L’honorable juge Guy R. Smith
+DATE DU JUGEMENT :
+Le 7 décembre 2017
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocats de l’intimée :
+Me Peter Swanstrom Me Rishma Bhimji
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous‑procureure générale du Canada
+Ottawa, Canada

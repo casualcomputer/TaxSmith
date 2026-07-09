@@ -1,0 +1,72 @@
+Title: Poulin c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26754/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-203-26754-poulin-c-la-reine-en.md
+Document type: case_law
+Last modified: 2003-04-15
+
+# Poulin c. La Reine
+
+- Citation: 2003 TCC 203
+- Decision date: 2003-04-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3500, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Poulin c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-04-15
+Neutral citation
+2003 TCC 203
+File numbers
+2002-2504(IT)I
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2003TCC203
+Date: 20030415
+Docket: 2002-2504(IT)I
+BETWEEN:
+GILLES POULIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+(Delivered orally at the hearing on February 18, 2003, at Montréal, Quebec, and
+revised on April 15, 2003, at Ottawa, Canada)
+LamarreProulx, J.T.C.C.
+[1] This appeal was heard under the informal procedure and concerns the 1998 taxation year.
+[2] At issue is whether the appellant earned income in the amount of $13,800, in addition to the income in the amount of $10,800 he declared for the 1998 taxation year, from Société 2957-2773 Québec Inc. ("the Société"), which employed the appellant for a number of years.
+[3] The Société's president, Bernard Buongiorno, and the appellant testified in this case.
+[4] Mr. Buongiorno explained that his company worked in the chimney construction and repair business as well as in the plumbing business. The appellant worked in the plumbing business for over 30 years and was apparently employed as an estimator.
+[5] Mr. Buongiorno's testimony was difficult to follow concerning the appellant's employee status. Apparently, the appellant worked full-time from September 2, 1997, to March 27, 1998, and a few days per week from November 23, 1998, to May 8, 1999.
+[6] According to Mr. Buongiorno, over the years the appellant often lent him money, which he, Mr. Buongiorno, always repaid to the appellant. The reason for these loans was not clearly explained. As we shall see, the Minister of National Revenue ("the Minister") accepted that the appellant made a loan to the Société in the amount of $16,000.
+[7] Mr. Buongiorno thought he recalled that in 1998 the Société changed banks and that for several months no cheques were honoured. Apparently, the bank account was closed in April or May 1998 and another account was opened in November 1998; this allegation was made in support of the appellant's position that a first series of cheques was replaced by a second series. However, no specific evidence was adduced to that effect. In fact, the documentary evidence subsequently adduced by the appellant did not support that position.
+[8] The appellant explained that he worked for Mr. Buongiorno for over 30 years.
+[9] According to a Record of Employment (Exhibit I-1), the appellant was employed by the Société from September 2, 1997, to March 27, 1998; his gross weekly wages were $800. At the end of his period of unemployment, the appellant was again employed by the Société from November 23, 1998, to May 8, 1999. During his period of unemployment, the appellant drew employment insurance benefits in the amount of $12,338 (Exhibit I-4).
+[10] According to Exhibits I-6 and I-7, immediately following the appellant's period of employment ending March 27, 1998, the Société issued cheques in the amount of $1,000 each week from April 10 to November 30, 1998, that is, for a period of 32 weeks. At issue in this case are these 32 payments.
+[11] During his testimony, the appellant adduced as Exhibit A-1 two cheques: one dated April 2, 1998 in the amount of $12,000; and the other dated August 26, 1998 in the amount of $5,000. Although the name of the beneficiary is practically illegible, it was accepted that these cheques were made out to the Société, the employer. The appellant explained that it was customary for him to make loans to his employer. The reason for these loans was not explained.
+[12] The appellant adduced as Exhibits A-4 and A-5 his bank books, from which it can be seen that from April to September 1998 the two amounts of $12,000 and $5,000 were paid out and a number of cheques in the amount of $1,000 were cashed.
+[13] Following the audit, the appellant was assessed for undeclared income in the amount of $32,000. Following the objections, the Minister accepted that 16 of the 32 cheques in the amount of $1,000 made out to the appellant could be considered repayments of loans made to the Société and considered three other cheques NSF; the Minister therefore accepted a deduction in the amount of $19,000.
+[14] A further amount of $800 was added to the appellant's income; this amount was not really contested. When the Société's trustee in bankruptcy was audited, the auditor noted that the National Bank, the Société's payroll agent, had corrected the Société's payroll, indicating additional wages of $800 over and above the amount shown on the T4 slip issued. Thus, the total on Exhibit A-5, the compilation of the weeks worked by the appellant, is $9,600 while the total on the T4 slip included in Exhibit A-4 is $8,800.
+Conclusion
+[15] Based on the testimony of Mr. Buongiorno and the appellant, there is a confused description of the working or business relations between these two persons.
+[16] First, counsel for the appellant stated that the first series of cheques issued by the Société, the payor, was replaced by a second series of cheques.
+[17] However, the evidence was not to that effect. In fact, throughout the periods during which the cheques were issued, the cheques were cashed-not all of them, but a number of them-and it certainly cannot be argued that the first cheques were not cashed.
+[18] Then, counsel for the appellant stated that there was no evidence that all the cheques were cashed and that the cheques for which there was no evidence of cashing should not be included in the appellant's income.
+[19] The problem with that argument is that it is based on a new version of the facts. In this case, there have been frequent variations in versions of the facts, and this situation greatly undermines the credibility of the testimony. As well, in a case where the version of the facts is essential, the opposing party must know on which version the appellant party is basing its case.
+[20] That said, the onus is on the taxpayer to establish that his allegations are founded. Counsel for the appellant has stated, not that the taxpayer did not receive the cheques, but that the taxpayer did not cash them. Where are those cheques? And why were some cheques given to the appellant and others not? There is no evidence on that point.
+[21] I consider that the evidence has established that 32 cheques in the amount of $1,000 were issued to the appellant. I have no evidence that the appellant did not cash them. For the reasons noted above, the Minister accepted a deduction in the amount of $19,000. I see no evidence that would allow me to grant any further deductions.
+[22] I therefore find that, on the balance of evidence, the appellant was correctly assessed in fact and in law; the appeal is therefore dismissed.
+Signed at Ottawa, Canada, this 15th day of April 2003.
+"Louise Lamarre Proulx"
+J.T.C.C.

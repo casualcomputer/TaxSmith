@@ -1,0 +1,230 @@
+---
+title: "Langmobile Inc. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29531/index.do"
+last_modified: "2009-08-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 535"
+citation2: ""
+neutral_citation: "2009 CCI 535"
+decision_date: "2009-08-31"
+language: "fr"
+item_id: "29531"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6349
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:38:16.876000+00:00"
+cases_cited_count: 9
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "558e3ee06eeb9e832bbe04cb82a62206a2cfae7f8648ee57e34197a332fe3c9e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Langmobile Inc. c. M.R.N.
+
+- Citation: 2009 CCI 535
+- Decision date: 2009-08-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6349, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Langmobile Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-08-31
+Référence neutre
+2009 CCI 535
+Numéro de dossier
+2008-3752(EI)
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2008­3752(EI)
+ENTRE :
+LANGMOBILE INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+SONIA IBARZ,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu les 31 août et 2 septembre 2009, à Montréal (Québec).
+Devant : L'honorable juge Robert J. Hogan
+Comparutions :
+Représentante de l'appelante :
+Mme Nicole Bianco
+Avocate de l'intimé :
+Me Ilinca Ghibu
+Pour l'intervenante :
+L'intervenante elle-même
+____________________________________________________________________
+JUGEMENT
+L'appel est accueilli. Les professeurs de langue désignés dans les motifs de jugement ci‑joints étaient des entrepreneurs indépendants pendant la période allant du 1er janvier 2006 au 31 décembre 2007.
+Signé à Ottawa, Canada, ce 16e jour de novembre 2009.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 9e jour de février 2010.
+Christian Laroche, LL.B.
+Réviseur
+Référence : 2009 CCI 535
+Date : 20091116
+Dossier : 2008­3752(EI)
+ENTRE :
+LANGMOBILE INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+SONIA IBARZ,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Hogan
+Les faits
+[1] Dans le présent appel, il s'agit de savoir si les enseignants travaillant pour l'appelante, Langmobile Inc., (« Langmobile » ou la « payeuse ») étaient des employés ou s'ils étaient plutôt des entrepreneurs indépendants.
+[2] Langmobile a interjeté appel d'une décision par laquelle le ministre du Revenu national (le « ministre ») avait conclu que les 16 professeurs de langue désignés au paragraphe 2 de la réponse à l'avis d'appel (les « professeurs de langue ») étaient des employés de l'appelante plutôt que des entrepreneurs indépendants. Selon l'appelante, les professeurs de langue étaient liés envers la payeuse par un contrat d'entreprise, et non par un contrat de travail.
+[3] Pour parvenir à sa décision, le ministre s'est fondé sur les hypothèses de fait suivantes, énoncées aux alinéas 5a) à w) de la réponse à l'avis d'appel (la « réponse »), lesquels sont reproduits ici pour référence :
+[traduction]
+a) l'appelante a été constituée en personne morale le 1er juin 2005;
+b) les actionnaires de l'appelante étaient Nicole Bianco et Johanne Desjardins;
+c) l'appelante offrait des cours d'anglais, de français, d'espagnol et d'italien à des enfants âgés de 18 mois à 8 ans dans des garderies;
+d) l'appelante exerçait ses activités tout le long de l'année et exploitait un camp de jour en été;
+e) l'appelante a engagé les travailleurs à titre d'animateurs et de professeurs de langue;
+f) les travailleurs étaient chargés de donner des cours de langue dans les locaux des clients de l'appelante de la mi‑septembre à la mi‑mai et dans les locaux de l'appelante pendant l'été;
+g) les travailleurs devaient signer une « entente contractuelle » avec l'appelante lorsqu'ils étaient engagés;
+h) l'appelante employait une méthode d'enseignement précise en utilisant des jeux et des chansons;
+i) les travailleurs recevaient une formation de deux semaines de l'appelante quant aux méthodes d'enseignement de l'appelante;
+j) les travailleurs devaient suivre les instructions de l'appelante quant à cette méthode et ils devaient assurer l'animation et l'enseignement en suivant les techniques de l'appelante;
+k) les travailleurs recevaient des instructions de l'appelante quant aux garderies ou aux écoles dans lesquelles ils devaient travailler;
+l) les travailleurs recevaient des instructions quant à l'horaire qu'ils devaient suivre;
+m) les travailleurs assuraient personnellement l'enseignement et ils ne pouvaient pas se faire remplacer s'ils s'absentaient;
+n) les travailleurs étaient supervisés par l'appelante au moyen de contrôles ponctuels effectués par Johanne Desjardins dans les locaux des clients;
+o) un questionnaire était régulièrement envoyé aux clients pour qu'ils évaluent les travailleurs;
+p) les travailleurs assistaient à une réunion du personnel tous les deux ou trois mois;
+q) tout le matériel d'enseignement dont les travailleurs avaient besoin était fourni par l'appelante;
+r) tous les travailleurs touchaient un salaire fixe de 18 à 25 $ l'heure;
+s) les travailleurs étaient rémunérés par chèque aux deux semaines;
+t) les travailleurs travaillaient avec les clients de l'appelante;
+u) les travailleurs n'assumaient aucun risque financier pendant qu'ils travaillaient pour l'appelante;
+v) l'appelante pouvait à sa discrétion engager et congédier les travailleurs, fixer les salaires, établir les horaires et les méthodes d'enseignement; recruter les clients et superviser les travailleurs;
+w) l'appelante considérait les travailleurs comme des travailleurs autonomes au cours de l'année scolaire et comme des employés pendant l'été.
+[4] Mme Bianco, l'une des principales actionnaires, a témoigné avoir lancé l'entreprise de la payeuse avec son associée et coactionnaire, Johanne Desjardins. La payeuse offre des cours de langue principalement à des enfants en garderie. Initialement, l'entreprise donnait des cours d'anglais à des enfants dans des garderies publiques et privées, au Québec. L'entreprise de la payeuse a par la suite pris de l'essor en offrant des cours de français, d'italien et d'espagnol.
+[5] La payeuse recrutait des professeurs de langue principalement au moyen d'annonces dans les journaux. Les candidats étaient engagés uniquement s'ils possédaient de l'expérience comme professeurs de langue et dans l'enseignement aux jeunes enfants. Selon le témoignage de Mme Bianco, on s'attendait à ce que les professeurs de langue travaillent d'une façon autonome.
+[6] La payeuse négociait les contrats de formation linguistique avec des garderies privées et publiques. Il demandait aux professeurs de langue s'ils étaient prêts à exécuter un contrat pour une période précise. Ces contrats étaient conclus pour l'année scolaire complète ou pour le semestre d'automne ou de printemps. Selon Mme Bianco, les professeurs de langue, qui travaillaient tous à temps partiel, pouvaient refuser ou accepter le travail qui leur était offert.
+[7] Mme Bianco a témoigné que les professeurs de langue recevaient environ une ou deux heures de formation avant de commencer à exécuter leur contrat initial. Une formation minimale était suffisante, puisque les professeurs de langue possédaient généralement les compétences requises dans le domaine. Le témoin a indiqué que les professeurs de langue pouvaient à leur guise préparer leur propre programme et employer leurs propres méthodes d'enseignement. Ou encore, s'ils le voulaient, ils pouvaient utiliser le matériel d'enseignement interactif préparé par Langmobile.
+[8] Chaque professeur de langue signait avec Langmobile un contrat dans lequel il reconnaissait être un entrepreneur indépendant. Les professeurs n'avaient donc pas droit à des avantages sociaux et ils devaient supporter tous les coûts associés à l'exécution de leurs tâches en matière d'enseignement.
+[9] Au cours de l'audience, le témoin, Mme Bianco, qui agissait également comme représentante de la payeuse, a contesté les faits allégués par le ministre aux alinéas 5a) d), f), i) à l), m), o), t), q) et v) de sa réponse. Au cours de son témoignage, Mme Bianco a souligné que les représentants de l'Agence du revenu du Canada (l'« ARC ») qui avaient examiné le dossier avaient à tort eu l'impression que le statut des professeurs de langue avait changé au cours de la période pertinente. Dans la réponse du ministre et dans le rapport de l'ARC sur un appel, produit sous la cote A‑1, il est allégué qu'un tel changement avait eu lieu. De plus, l'intimé allègue, à l'alinéa 5w) de sa réponse, que les professeurs de langue étaient considérés comme des employés lorsqu'ils travaillaient au camp de jour pendant l'été et comme des travailleurs autonomes pendant l'année scolaire.
+[10] Mme Bianco a témoigné que le camp d'été était exploité depuis des locaux loués par la payeuse pour une période de six semaines. Aucun des 16 professeurs de langue n'enseignait au camp de jour. Mme Bianco a témoigné avoir engagé deux autres personnes pour enseigner au camp de jour et avoir considéré ces travailleurs comme des employés, parce qu'ils étaient directement assujettis à sa supervision et à son contrôle. Le travail était également effectué dans les locaux de Mme Bianco. L'avocate de l'intimé reconnaît que les représentants de l'ARC qui étaient chargés de la présente affaire s'étaient trompés sur ce point.
+Analyse
+[11] Il s'agit de savoir si les professeurs de langue exerçaient un emploi assurable pour l'application de la Loi sur l'assurance‑emploi (la « Loi »). La disposition pertinente de la Loi est l'alinéa 5(1)a), qui prévoit ce qui suit :
+5(1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) l'emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d'un contrat de louage de services ou d'apprentissage exprès ou tacite, écrit ou verbal, que l'employé reçoive sa rémunération de l'employeur ou d'une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[12] Cette disposition définit l'emploi assurable comme un emploi exercé aux termes d'un contrat de louage de services, donnant lieu à une relation employeur‑employé. Un contrat d'entreprise crée une relation avec un entrepreneur indépendant et n'est donc pas visé à l'alinéa 5(1)a) de la Loi. La Loi ne définit pas ce que sont un « contrat de louage de services » et un « contrat d'entreprise ».
+[13] Si l'on se fonde sur le droit provincial comme ligne de conduite, les dispositions pertinentes permettant de décider s'il existe un contrat de louage de services (c'est‑à‑dire un contrat de travail) ou un contrat d'entreprise (contrat d'entreprise ou de service), au Québec, figurent aux articles 2085, 2086, 2098 et 2099 du Code civil du Québec :
+Du contrat de travail
+2085 Le contrat de travail est celui par lequel une personne, le salarié, s'oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d'une autre personne, l'employeur.
+2086 Le contrat de travail est à durée déterminée ou indéterminée.
+De la nature et de l'étendue du contrat
+2098 Le contrat d'entreprise ou de service est celui par lequel une personne, selon le cas l'entrepreneur ou le prestataire de services, s'engage envers une autre personne, le client, à réaliser un ouvrage matériel ou intellectuel ou à fournir un service moyennant un prix que le client s'oblige à lui payer.
+2099 L'entrepreneur ou le prestataire de services a le libre choix des moyens d'exécution du contrat et il n'existe entre lui et le client aucun lien de subordination quant à son exécution.
+[14] Dans les arrêts Wolf c. Canada, [2002] 4 C.F. 396, et Combined Insurance Co. of America c. Canada (Ministre du Revenu national), 2007 CAF 60, la Cour d'appel fédérale a examiné la question de savoir si un contrat de travail ou un contrat de service avait été conclu en vertu du droit du Québec.
+[15] Dans l'arrêt Wolf, précité, la juge Desjardins a fait remarquer que la question pouvait être tranchée en tenant compte de critères élaborés par la jurisprudence pertinente, dans le contexte du droit civil ainsi que dans le contexte de la common law. Les arrêts faisant autorité sont Wiebe Door Services Ltd. c. M.R.N., [1986] 3 C.F. 553, et 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] 2 R.C.S. 983. Dans l'arrêt Wolf, la juge Desjardins a cité les remarques que le juge Major, de la Cour suprême du Canada, avait faites aux paragraphes 47 et 48 des motifs qu'il avait rendus dans l'arrêt Sagaz :
+[47] [...] Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l'employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s'il engage lui‑même ses assistants, qu'elle est l'étendue de ses risques financiers, jusqu'à quel point il est responsable des mises de fonds et de la gestion et jusqu'à quel point il peut tirer profit de l'exécution de ses tâches.
+[48] Ces facteurs, il est bon de le répéter, ne sont pas exhaustifs et il n'y a pas de manière préétablie de les appliquer. Leur importance relative respective dépend des circonstances et des faits particuliers de l'affaire.
+[16] Dans la décision Gallant c. M.R.N., [1986] A.C.F. no 330 (QL), le juge Pratte a fait la remarque suivante :
+[...] le trait caractéristique du louage de services n'est pas le contrôle qu'exerce effectivement l'employeur sur son employé mais le pouvoir que possède l'employeur de contrôler la façon dont l'employé exécute son travail. [...]
+[17] Dans l'arrêt Combined Insurance, précité, la Cour d'appel fédérale fait remarquer qu'il est important d'examiner la preuve dans le contexte approprié ainsi que de tenir compte de l'intention des parties :
+[26] Plus particulièrement, au paragraphe 72 de ses motifs, la juge Desjardins énonçait [dans l'arrêt Wolf] que la Cour devait considérer toute la preuve à la lumière des critères applicables et qu’il fallait donner à la preuve le poids que les circonstances de l’affaire exigeaient. En outre, elle affirmait qu’il fallait donner du poids à l’intention des parties lorsque cette dernière reflétait la véritable relation juridique entre elles.
+[18] Dans l'arrêt Livreur Plus Inc. c. Canada, [2004] A.C.F. no 267 (QL), le juge Létourneau fait la remarque suivante en parlant de l'intention :
+[17] La stipulation des parties quant à la nature de leurs relations contractuelles n'est pas nécessairement déterminante et la Cour peut en arriver à une détermination contraire sur la foi de la preuve qui lui est soumise : D & J Driveway Inc. c. Le ministre du Revenu national, 2003 CAF 453. Mais en l'absence d'une preuve non équivoque au contraire, la Cour doit dûment prendre en compte l'intention déclarée des parties : Mayne Nickless Transport Inc. c. Le ministre du Revenu national, 97-1416-UI, 26 février 1999 (C.C.I.). Car en définitive, il s'agit de déterminer la véritable nature des relations entre les parties. Aussi, leur intention sincèrement exprimée demeure-t-elle un élément important à considérer dans la recherche de cette relation globale réelle que les parties entretiennent entre elles dans un monde du travail en pleine évolution : voir Wolf c. Canada, [2002] 4 C.F. 396 (C.A.F.); Procureur général du Canada c. Les Productions Bibi et Zoé Inc., 2004 CAF 54.
+[19] Dans l'arrêt Royal Winnipeg Ballet c. Canada (M.R.N.), 2006 CAF 87, la juge Sharlow fait également remarquer que l'intention est un facteur important :
+[61] [...] lorsqu'il est prouvé que les modalités du contrat, examinées dans le contexte factuel approprié, ne reflètent pas la relation juridique que les parties affirment avoir souhaité établir, alors il ne faut pas tenir compte de leur intention déclarée.
+[20] Dans l'arrêt Combined Insurance, la Cour d'appel fédérale a examiné les facteurs suivants : a) la propriété des instruments de travail; b) les chances de profits et les risques de pertes; c) l'intégration; d) le degré de contrôle; e) la présence obligatoire au lieu de travail et le respect de l'horaire de travail; f) le contrôle des absences pour vacances; g) les sanctions; h) l'imposition des moyens d'exécution du travail; i) la remise de rapports d'activités; j) le contrôle de la qualité et de la quantité de travail. Il existe un débat continu au sujet de la question de savoir si les facteurs autres que le contrôle sont des facteurs indépendants à prendre en considération isolément ou s'il s'agit simplement d'indices additionnels à utiliser pour savoir si un contrôle est exercé eu égard aux circonstances. Étant donné que l'affaire est régie par le Code civil du Québec et que la question doit être tranchée en vertu du droit provincial applicable, j'adopte la dernière approche. Autrement dit, j'utiliserai les facteurs additionnels susmentionnés comme outils afin de déterminer si Langmobile exerçait, ou était autorisée à exercer, un contrôle sur les professeurs de langue d'une façon compatible avec l'existence d'une relation employeur‑employé.
+[21] Dans l'arrêt Combined Insurance, le juge Nadon résume la jurisprudence comme suit :
+[35] De ces décisions, il se dégage, à mon avis, les principes suivants :
+1. Les faits pertinents, incluant l’intention des parties quant à la nature de leur relation contractuelle, doivent être examinés à la lumière des facteurs de Wiebe Door, précitée, et à la lumière de tout autre facteur qui peut s’avérer pertinent compte tenu des circonstances particulières de l’instance.
+2. Il n’existe aucune manière préétablie d’appliquer les facteurs pertinents et leur importance dépendra des circonstances et des faits particuliers de l’affaire.
+Même si en règle générale, le critère de contrôle aura une importance marquée, les critères élaborés dans Wiebe Door et Sagaz, précités, s’avéreront néanmoins utiles pour déterminer la véritable nature du contrat.
+[22] La Cour doit au départ se demander comment les parties elles‑mêmes ont défini la nature de leur relation contractuelle. En l'espèce, il existe entre Langmobile et les professeurs de langue un contrat exprès désignant les professeurs comme des entrepreneurs indépendants. Je retiens la preuve non contredite des parties selon laquelle l'intention était d'entretenir une relation avec un entrepreneur indépendant.
+[23] Dans ce cas‑ci, la relation n'est peut-être pas aussi peu structurée que dans le cas de l'affaire Academy of Artisans c. Canada (Ministre du Revenu national), [2001] A.C.I. no 241 (QL), mais je ne doute aucunement qu'il s'agit néanmoins du même genre de relation : les professeurs de langue étaient des entrepreneurs indépendants.
+[24] Langmobile s'occupe de la formation linguistique d'enfants en garderie. Au cours des années d'imposition en question, Langmobile a engagé 16 professeurs de langue pour qu'ils enseignent diverses langues à des enfants en garderie. Langmobile était chargée de conclure des contrats avec les garderies. Une fois le contrat conclu, Langmobile communiquait avec un professeur de langue pour savoir s'il était prêt à accepter le travail en question. Il importe de noter que les professeurs de langue pouvaient à leur guise accepter ou refuser un contrat. La formation linguistique était assurée depuis les installations de la garderie. Les professeurs de langue se rendaient aux garderies respectives sans d'abord se présenter aux locaux de Langmobile. Comme le juge Létourneau l'a fait remarquer dans l'arrêt Livreur Plus, précité, ces facteurs indiquent l'existence d'une relation à titre d'entrepreneur indépendant :
+[41] Les livreurs n'avaient pas de bureaux ou de locaux chez la demanderesse. Ils n'avaient pas à passer chez la demanderesse pour effectuer leur travail de livraison : ibidem, page 81. Ce sont là, avec la faculté de refuser ou d'accepter des offres de services, des facteurs que cette Cour a retenus comme indices d'un contrat d'entreprise ou de services plutôt que de travail : voir D & J Driveway Inc. c. Le ministre du Revenu national, précité, paragraphe 11.
+[25] Les professeurs de langue travaillaient à temps partiel; leur contrat stipulait qu'ils n'avaient pas à travailler exclusivement pour Langmobile. Les professeurs de langue ne travaillaient pour Langmobile que s'il existait un contrat précis. Dans la décision Beaucaire c. Canada (Ministre du Revenu national – M.R.N.), 2009 CCI 142, le juge Archambault a fait remarquer qu'il s'agissait d'un facteur crucial indiquant l'existence d'un contrat d'entreprise :
+[35] À mon avis, un autre indice attestant de l'existence d'un contrat de service plutôt que d'un contrat de travail est le fait que monsieur Beaucaire ne travaillait que lorsqu'il recevait un contrat spécifique.
+[26] En l'espèce, les enseignants fournissaient des services linguistiques dans des garderies; ils n'étaient pas supervisés lorsqu'ils fournissaient ces services. Plus précisément, il n'y avait pas de personnel de Langmobile sur les lieux en vue de superviser la formation linguistique assurée par les enseignants dans les garderies. Langmobile assurait un certain suivi auprès des garderies en vue de déterminer la qualité des services fournis, mais cela ne constitue pas un contrôle. Cette distinction est bien énoncée dans l'arrêt Livreur Plus :
+[19] Ceci dit, il ne faut pas, au plan du contrôle, confondre le contrôle du résultat ou de la qualité des travaux avec le contrôle de leur exécution par l'ouvrier chargé de les réaliser : Vulcain Alarme Inc. c. Le ministre du Revenu national, A-376-98, 11 mai 1999, paragraphe 10, (C.A.F.); D & J Driveway Inc. c. Le ministre du Revenu national, précité, au paragraphe 9. Comme le disait notre collègue le juge Décary dans l'affaire Charbonneau c. Canada (Ministre du Revenu national - M.R.N.), précitée, suivie dans l'arrêt Jaillet c. Canada (Ministre du Revenu national - M.R.N.), 2002 C.A.F. 394, « rares sont les donneurs d'ouvrage qui ne s'assurent pas que le travail est exécuté en conformité avec leurs exigences et aux lieux convenus. Le contrôle du résultat ne doit pas être confondu avec le contrôle du travailleur ».
+[27] Langmobile a admis exercer un certain contrôle sur ses travailleurs, mais je conclus que le contrôle qui était exercé consistait à surveiller le rendement plutôt qu'à exercer un contrôle sur les professeurs de langue eux‑mêmes. Sur le site Web public de Langmobile, il est noté que Langmobile exerce ses activités en équipe, qu'elle fournit le matériel aux enseignants et qu'elle assure le suivi. Toutefois, il faut considérer les renseignements figurant sur le site Web avec un grain de sel, comme tout autre matériel de promotion. Les professeurs de langue recevaient en fait environ une heure de formation de base. Les professeurs de langue pouvaient louer le matériel d'enseignement de Langmobile, mais ils pouvaient également à leur guise utiliser leur propre matériel. Le facteur « contrôle » milite clairement en faveur de l'existence d'une relation à titre d'entrepreneur indépendant.
+[28] Quant à la propriété des instruments de travail, cela dépend de la question de savoir si les professeurs de langue utilisent leur propre matériel ou s'ils décident de louer le matériel d'enseignement de Langmobile. Les locaux utilisés aux fins de l'enseignement sont ceux du client, à savoir la garderie, et non ceux de Langmobile. En outre, toute préparation nécessaire des plans de leçon est effectuée à domicile par les professeurs de langue. Ce facteur n'est pas concluant.
+[29] En ce qui concerne les possibilités de profits ou les risques de pertes, les enseignants ne partageaient ni les profits ni les pertes avec Langmobile, de sorte que ce facteur tend à indiquer l'existence d'une relation employeur‑employé, mais selon moi, cela n'a pas beaucoup d'importance.
+[30] Il est possible de faire une distinction entre le cas dont je suis ici saisi et la décision Teach & Embrace Corp. c. Canada (Ministre du Revenu national – M.R.N.), 2005 CCI 461. Dans cette affaire‑là, la tutrice avait déclaré qu'elle croyait avoir conclu un contrat de travail et, en fait, le contrat lui‑même ne prévoyait pas expressément qu'il ne s'agissait pas d'un contrat de travail. En l'espèce, l'intention voulant que les professeurs de langue soient des entrepreneurs indépendants était partagée par les parties et elle était clairement énoncée dans le contrat.
+[31] Dans un article dont il est l'auteur, mon collègue le juge Archambault déclare ce qui suit :
+Comme le prévoit l’article 1425 C.c.Q., on doit rechercher quelle a été la commune intention des parties plutôt que de s'arrêter au sens littéral des termes utilisés dans le contrat. Les tribunaux doivent en outre vérifier si la conduite des parties respecte les règles législatives d’ordre public applicables aux contrats.
+[32] En outre, dans l'affaire Teach & Embrace, non seulement l'intention était‑elle en cause, mais aussi le facteur « contrôle » ne militait pas en faveur de l'existence d'une relation à titre d'entrepreneur indépendant :
+[23] [...] Tout d’abord, les dispositions du contrat révèlent que le payeur avait le pouvoir de diriger et de contrôler le travail exécuté par la tutrice. À mon avis, l’une des formulations qui dénotent le plus fortement un tel pouvoir est la suivante : « sous l’autorité de la Corporation, le Tuteur/la Tutrice est tenu d’accomplir les activités suivantes ».
+[33] Dans l'affaire Teach & Embrace, un certain nombre de facteurs additionnels indiquaient qu'un contrôle était exercé sur les tuteurs, lesquels ne sont pas présents en l'espèce, et plus particulièrement : la plupart des services étaient fournis dans une salle de tutorat centrale; un code vestimentaire était en place; les tuteurs devaient assurer le tutorat en se fondant sur les continuums et les ressources fournis par le payeur; un coordonnateur d'études était affecté au lieu de travail du tuteur et son rôle consistait à superviser la mise en œuvre des programmes de tutorat; les tuteurs devaient fournir des rapports sur les progrès accomplis établis d’après les continuums du payeur; les cinq dernières minutes de tutorat devaient être réservées à une récapitulation de la séance. En plus de ces indices de contrôle, le fait que les tuteurs, dans l'affaire Teach & Embrace, étaient assujettis à une clause de non‑concurrence est important et, comme il en a été fait mention dans cette décision‑là, « les tribunaux ont décidé dans d'autres affaires qu'il s'agit là d'un indice de l'existence d'un contrat de travail ».
+[34] Il est également possible de faire une distinction entre la présente espèce et la décision NCJ Educational Services Ltd. c. Ministre du Revenu national, 2008 CCI 300 (confirmée par la Cour d'appel fédérale, 2009 CAF 131). Il n'y avait pas de contrats écrits entre NCJ et les tuteurs dans cette affaire‑là, et la preuve montrait que les tuteurs ne savaient pas trop quel était le type de relation de travail. Toutefois, dans ce cas‑ci, il existe un contrat indiquant clairement les intentions des parties.
+[35] Dans l'affaire NCJ Educational Services, les tuteurs étaient autorisés à utiliser leur propre matériel, mais le tutorat était effectué depuis la salle de tutorat de NCJ et Mme Jacobs (la fondatrice de NCJ) était sur les lieux la plupart du temps. Mme Jacobs reconnaissait que, si elle avait vu l'un des tuteurs se conduire d'une façon inacceptable, elle serait intervenue. En l'espèce, le tutorat avait lieu dans les diverses garderies et aucune supervision n'était assurée. Comme le juge Archambault l'a dit dans la décision NCJ Educational Services :
+[30] Mme Jacobs exerçait une direction ou un contrôle en assignant les élèves aux tuteurs, en réassignant les élèves si leur tuteur était absent pour cause de maladie et en donnant des instructions aux tuteurs quant à la durée des séances de tutorat (voir le témoignage de Mme Hamdane).
+[...]
+[37] Un autre indice qui porte fortement à croire qu'il y avait intégration, de même que contrôle ou direction du travail des tuteurs, est le fait que les tuteurs fournissaient leurs services dans les locaux de NCJ et que, la plupart du temps, Mme Jacobs s'y trouvait.
+[36] En outre, dans l'affaire NCJ Educational Services, Mme Jacobs assurait la direction ou exerçait un contrôle sur les tuteurs en les informant des commentaires bons ou mauvais des parents. Elle exerçait en outre un contrôle au moyen d'un code vestimentaire auquel les tuteurs devaient se conformer.
+[37] L'affaire dont je suis ici saisi ressemble davantage à la décision Preddie c. Canada, 2004 CCI 181, que le juge McArthur a entendue sous le régime de la procédure informelle. Dans cette affaire‑là, M. Preddie travaillait comme tuteur pour le Sylvan Learning Centre; après avoir analysé les facteurs établis dans les arrêts Wiebe Door et Sagaz, la Cour a conclu ce qui suit :
+[19] En conclusion, étant donné la preuve dans son ensemble et sur la base de la prépondérance des probabilités, je conclus que l'appelant fournissait des services de tutorat pour son propre compte. Ses qualifications étaient telles qu'il n'avait besoin d'aucun contrôle. Ses honoraires de 15 $ de l'heure étaient un montant résultant d'une négociation. Les deux parties ont qualifié la relation comme étant celle d'un entrepreneur indépendant. L'entreprise de Sylvan était de mettre les étudiants et les tuteurs en relation.
+[38] En conclusion, après avoir examiné l'intention des parties, la preuve mise à ma disposition et les facteurs énoncés dans les décisions antérieures, je conclus que les professeurs de langue étaient des entrepreneurs indépendants et j’accueille l'appel.
+Signé à Ottawa, Canada, ce 16e jour de novembre 2009.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 9e jour de février 2010.
+Christian Laroche, LL.B.
+Réviseur
+RÉFÉRENCE : 2009 CCI 535
+No DU DOSSIER DE LA COUR : 2008­3752(EI)
+INTITULÉ : LANGMOBILE INC.
+c.
+M.R.N. ET SONIA IBARZ
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATES DES AUDIENCES : Les 31 août et 2 septembre 2009
+MOTIFS DU JUGEMENT : L’honorable juge Robert J. Hogan
+DATE DU JUGEMENT : Le 16 novembre 2009
+COMPARUTIONS :
+Représentante de l'appelante :
+Mme Nicole Bianco
+Avocate de l'intimé :
+Me Ilinca Ghibu
+Pour l'intervenante :
+L'intervenante elle-même
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+Pour l'intervenante :
+Nom :
+Cabinet :

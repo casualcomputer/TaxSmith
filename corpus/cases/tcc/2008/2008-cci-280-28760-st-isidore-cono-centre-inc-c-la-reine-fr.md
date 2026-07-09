@@ -1,0 +1,385 @@
+---
+title: "St-Isidore Écono Centre Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28760/index.do"
+last_modified: "2008-07-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 280"
+citation2: ""
+neutral_citation: "2008 CCI 280"
+decision_date: "2008-07-09"
+language: "fr"
+item_id: "28760"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1547
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:34:51.713000+00:00"
+cases_cited_count: 3
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "514df5a572ef16e5164871e6a73e3ee6a24a28d6f2191a0fd65b7282799d31ad"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# St-Isidore Écono Centre Inc. c. La Reine
+
+- Citation: 2008 CCI 280
+- Decision date: 2008-07-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1547, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+St-Isidore Écono Centre Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-07-09
+Référence neutre
+2008 CCI 280
+Numéro de dossier
+2007-2478(GST)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2007-2478(GST)I
+ENTRE :
+ST-ISIDORE ÉCONO CENTRE INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de
+D.H. Ventilation S.E.N.C. (2007-2477(GST)I) et
+Ferblanterie Alexandre Enr. (2007-2476(GST)I)
+le 10 décembre 2007, à Montréal (Québec)
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Avocat de l'appelante :
+Me Martin Fortier
+Avocate de l'intimée :
+Me Brigitte Landry
+____________________________________________________________________
+JUGEMENT
+L’appel de l’appelante à l’encontre de l’avis de cotisation daté du 3 mars 2006 et portant le numéro 03404350, pour la période du 1er août 1994 au 31 octobre 2004, est rejeté selon les motifs du jugement ci-joints.
+Signé à Montréal (Québec), ce 9e jour de juillet 2008.
+« Réal Favreau »
+Juge Favreau
+Dossier : 2007-2477(GST)I
+ENTRE :
+D.H. VENTILATION S.E.N.C.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de
+St-Isidore Écono Centre Inc. (2007-2478(GST)I) et
+Ferblanterie Alexandre Enr. (2007-2476(GST)I)
+le 10 décembre 2007, à Montréal (Québec)
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Avocat de l'appelante :
+Me Martin Fortier
+Avocate de l'intimée :
+Me Brigitte Landry
+____________________________________________________________________
+JUGEMENT
+L’appel de l’appelante à l’encontre de l’avis de cotisation daté du 3 mars 2006 et portant le numéro 03404349, pour la période du 28 mai 2004 au 30 septembre 2005, est rejeté selon les motifs du jugement ci-joints.
+Signé à Montréal (Québec), ce 9e jour de juillet 2008.
+« Réal Favreau »
+Juge Favreau
+Dossier : 2007-2476(GST)I
+ENTRE :
+FERBLANTERIE ALEXANDRE ENR.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de
+St-Isidore Écono Centre Inc. (2007-2478(GST)I) et
+D.H. Ventilation S.E.N.C. (2007-2477(GST)I)
+le 10 décembre 2007, à Montréal (Québec)
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Avocat de l'appelante :
+Me Martin Fortier
+Avocate de l'intimée :
+Me Brigitte Landry
+____________________________________________________________________
+JUGEMENT
+L’appel de l’appelante à l’encontre de l’avis de cotisation daté du 3 mars 2006 et portant le numéro 03404348, pour la période du 1er janvier 2002 au 30 septembre 2005, est rejeté selon les motifs du jugement ci-joints.
+Signé à Montréal (Québec), ce 9e jour de juillet 2008.
+« Réal Favreau »
+Juge Favreau
+Référence : 2008 CCI 280
+Date : 20080709
+Dossiers : 2007-2478(GST)I
+2007-2477(GST)I
+2007-2476(GST)I
+ENTRE :
+ST-ISIDORE ÉCONO CENTRE INC.,
+D.H. VENTILATION S.E.N.C.,
+FERBLANTERIE ALEXANDRE ENR.,
+appelantes,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit de trois appels à l’encontre d’avis de cotisation datés du 3 mars 2006 et portant les numéros 03404350, 03404349 et 03404348 pour la période du 1er août 1994 au 31 octobre 2004 dans le cas de St-Isidore Écono Centre Inc., pour la période du 28 mai 2004 au 30 septembre 2005 dans le cas de D.H. Ventilation s.e.n.c. et pour la période du 1er janvier 2002 au 30 septembre 2005 dans le cas de Ferblanterie Alexandre Enr.
+[2] Dans l’avis de cotisation émis à St-Isidore Écono Centre Inc. en vertu de la Partie IX de la Loi sur la taxe d’accise, L.R.C. (1985), c. E-15, telle que modifiée, (ci-après la « LTA »), les montants cotisés s’établissent comme suit :
+Ajustements à la taxe nette déclarée :
+53 601,70 $
+Intérêts :
+10 422,16 $
+Pénalités
+a. 280 de la LTA :
+a. 285 de la LTA :
+20 476,72 $
+13 400,43 $
+Total
+97 901,01 $
+[3] Dans son avis d’appel, St-Isidore Écono Centre Inc. conteste uniquement la partie de la cotisation qui correspond aux crédits de taxe sur intrants (les « CTI ») refusés relativement aux factures de D.H. Ventilation s.e.n.c., soit 2 266,25 $, et de Ferblanterie Alexandre enr., soit 7 728,00 $, de même que les intérêts et les pénalités afférents aux CTI refusés.
+[4] Dans l’avis de cotisation émis à D.H. Ventilation s.e.n.c., les montants cotisés s’établissent comme suit :
+Ajustements à la taxe nette déclarée (CTI refusés sur des achats effectués auprès de St-Isidore Écono Centre Inc. et sur des services fournis à cette dernière) :
+331,31 $
+Intérêts :
+80,21 $
+Pénalités :
+200,67 $
+Total
+612,19 $
+[5] Dans l’avis de cotisation émis à Ferblanterie Alexandre Enr., les montants cotisés s’établissent comme suit :
+Ajustements à la taxe nette déclarée (taxe sur les produits et services (« TPS ») facturée mais non remise et CTI refusés sur les factures de St-Isidore Écono Centre Inc.) :
+8,236,26 $
+Intérêts :
+383,34 $
+Pénalités
+b. 280 de la LTA
+a. 285 de la LTA
+694,42 $
+2 320,98 $
+Total
+11 635,00 $
+[6] En établissant l’avis de nouvelle cotisation à l’égard de St-Isidore Écono Centre Inc., le ministre du Revenu du Québec, agissant à titre de mandataire du ministre du Revenu national (ci après le « ministre ») s’est fondé, entre autres, sur les conclusions et hypothèses suivantes énoncées aux alinéas a) à ff) du paragraphe 25 de la réponse à l’avis d’appel :
+a) au cours de la période visée, l’appelante était un inscrit aux fins de la partie IX de la LTA;
+b) au cours de la période visée, l’appelante exploitait une entreprise de vente et d’installation d’appareils de climatisation et de chauffage;
+c) la vérification des livres de l’appelante s’est faite en même temps que la vérification de Ferblanterie Alexandre enr. et de D.H. Ventilation s.e.n.c.;
+d) au cours de la période visée, monsieur Jean-Yves Legault était l’actionnaire majoritaire de l’appelante;
+e) au cours de la période visée, monsieur Jean-Yves Legault et son fils, monsieur Alexandre Legault, étaient les associés de la société Ferblanterie Alexandre enr.;
+f) au cours de la période visée, monsieur Jean-Yves Legault était également l’un des 4 associés de la société « D.H. Ventilation s.e.n.c. »;
+g) lors de la vérification des livres de l’appelante, la vérificatrice du ministre a constaté que l’appelante avait réclamé, dans le calcul de sa taxe nette à compter de 2001, des CTI sans pièces justificatives relativement à des fournitures prétendument acquises de Ferblanterie Alexandre enr. et de D.H. Ventilation s.e.n.c.;
+h) lors de la vérification de Ferblanterie Alexandre enr., la vérificatrice a constaté que cette dernière ne tenait aucun registre comptable et déclarait une taxe nette de 0 $ pour la période visée;
+i) lors de la vérification des livres de D.H. Ventilation s.e.n.c., la vérificatrice a constaté que cette dernière ne tenait aucun registre comptable et s’est inscrite aux fins de la partie IX de la LTA à compter du 2 février 2005 seulement;
+j) en cours de vérification, l’appelante, afin de justifier la déclaration des CTI relativement aux fournitures prétendument acquises de Ferblanterie Alexandre enr. et de D.H. Ventilation s.e.n.c., a présenté des factures de vente qu’elle aurait émises en faveur de ces deux entités, soit 38 factures émises en faveur de D.H. Ventilation s.e.n.c., dont 33 d’une suite numérique interrompue de 5363 à 5395 (toutes en date du 15 novembre 2004) et cinq portant les numéros D.H.1 à D.H.3, D.H.5 et D.H.8 (toutes en date du 31 décembre 2004) et 33 factures émises en faveur de Ferblanterie Alexandre enr., dont 30 d’une suite numérique interrompue de 5 322 à 5 351 et trois portant les numéros 5 398 à 5 400;
+k) finalement, après discussions et pour justifier la réclamation des CTI relativement à des fournitures prétendument acquises de Ferblanterie Alexandre enr. et de D.H. Ventilation s.e.n.c., l’appelante a présenté des factures d’achat émises par ces deux entités;
+l) quant aux factures remises relativement aux CTI réclamés pour des fournitures prétendument acquises de Ferblanterie Alexandre enr., sauf quatre factures préparées à la main, il s’agit de 30 factures d’une suite numérique interrompue de 246 à 310 (la facture numéro 264 portant la date du 19 décembre 2003, la facture numéro 265 portant la date du 3 novembre 2003, la facture 266 portant la date du 19 décembre 2003 et ainsi de suite) et de trois factures portant les numéro 350 à 352 (la facture numéro 350 portant la date du 15 mars 2005, la facture numéro 351 portant la date du 5 juillet 2004 et la facture numéro 352 portant la date du 3 octobre 2005);
+m) quant aux factures remises relativement aux CTI réclamés pour des fournitures prétendument acquises de D.H. Ventilation s.e.n.c., il s’agit de 33 factures d’une suite numérique interrompue de 201 à 233 (22 factures portant la date du 28 mai 2004, huit la date du 28 juin 2004, deux la date du 30 juillet 2004 et une non datée) et de 13 factures portant les numéro 250 à 263 (portant des dates de l’année 2005) et aucune de ces factures n’indiquent un numéro de TPS;
+n) l’intimée a refusé les CTI réclamés par l’appelante relativement aux fournitures prétendument acquises de Ferblanterie Alexandre enr. et de D.H. Ventilation s.e.n.c.;
+o) elle a considéré qu’il n’y avait eu aucun échange de services entre l’appelante et ces entités et qu’il s’agissait d’un stratagème mis en place pour permettre à l’appelante de réclamer des CTI alors que ni Ferblanterie Alexandre enr., ni D.H. Ventilation s.e.n.c. ne remettaient la TPS facturée;
+p) aussi, elle a refusé d’accorder les CTI réclamés en cours de vérification par D.H. Ventilation s.e.n.c. et Ferblanterie Alexandre enr. au même motif qu’il n’y avait eu aucun échange de services et que les factures présentées étaient fausses;
+q) toutes les factures ci-dessus mentionnées n’ont jamais fait l’objet de paiement;
+r) aux livres de l’appelante, les factures émises par Ferblanterie Alexandre enr. et D.H. Ventilation s.e.n.c. apparaissent sous forme de comptes à payer, et ce, depuis 2001;
+s) par une écriture de régularisation (écriture 35) portant la date du 31 juillet 2004, l’appelante a créé un compte à recevoir au montant de 124 848,00 $ en contrepartie d’autres ventes qui auraient été faites à Ferblanterie Alexandre enr. et D.H. Ventilation s.e.n.c.;
+t) or, il est improbable que des comptes à recevoir datant de 2004 puissent s’appliquer à des comptes à payer datant de 2001;
+u) la vérificatrice a constaté que Ferblanterie Alexandre enr. et D.H. Ventilation s.e.n.c. n’avaient aucun employé et que monsieur Alexandre Legault était un employé de l’appelante;
+v) les états financiers de Ferblanterie Alexandre enr. et de D.H. Ventilation s.e.n.c. n’indiquent aucun coût de fabrication, ni de frais de loyer, ni de dépenses de production;
+w) Ferblanterie Alexandre enr. et D.H. Ventilation s.e.n.c. ont la même adresse que l’appelante qui est propriétaire de l’immeuble, des outils et de la machinerie;
+x) Ferblanterie Alexandre enr. ne paie pas de cotisation à la Commission de la Construction du Québec (ci-après la « CCQ ») et ne déclare aucun employé;
+y) D.H. Ventilation s.e.n.c., bien que payant une cotisation à la CCQ, ne déclare aucun employé;
+z) les relevés bancaires de Ferblanterie Alexandre enr. et D.H. Ventilation s.e.n.c. indiquent très peu d’activités;
+aa) le véhicule dont le contrat de location et l’immatriculation sont au nom de l’appelante est payé à partir du compte bancaire de Ferblanterie Alexandre enr., à même des virements bancaires provenant du compte de l’appelante;
+bb) le véhicule lettré au nom de D.H. Ventilation s.e.n.c. est immatriculé au nom de l’appelante;
+cc) la vérificatrice du ministre a donc refusé des CTI au montant de 9 494,25 $ (soit 7 228 $ pour Ferblanterie Alexandre enr. et 2 266,25 $ pour D.H. Ventilation s.e.n.c.);
+dd) finalement, l’intimée a cotisé une pénalité en vertu de l’article 285 de la LTA puisque l’appelante a fait défaut de verser au ministre les écarts qu’elle avait comptabilisés dans ses livres et ce, sur une période de trois ans, que les montants des fournitures non déclarés sont importants et qu’elle participait à un stratagème lui permettant de réclamer des CTI;
+ee) au début de la vérification, le comptable de l’appelante a remis à la vérificatrice des feuilles de travail qui démontraient un écart important entre la TPS inscrite aux livres et la TPS déclarée;
+ff) le président de l’appelante était au courant de l’existence de ces feuilles de travail et refusait de corriger la situation.
+[7] En établissant l’avis de nouvelle cotisation à l’égard de D.H. Ventilation s.e.n.c., le ministre s’est fondé, entre autres choses, sur les conclusions et hypothèses suivantes énoncées aux alinéas a) à i), u) et v) du paragraphe 20 de la réponse à l’avis d’appel :
+a) l’appelante s’est inscrite aux fins de la partie IX de la LTA le 2 février 2005;
+b) puisque l’appelante a perçu de la TPS, du moins à compter du 28 mai 2004, le ministre a modifié la date d’inscription et du début des affaires afin que celles-ci concordent avec la date de la première facture émise par l’appelante, soit le 28 mai 2004;
+c) lors de la vérification des livres de l’appelante, la vérificatrice du ministre a constaté que l’appelante ne tenait pas de registre comptable jusqu’en février 2005, date à laquelle l’appelante est devenu un inscrit aux fins de la partie IX de la LTA et a commencé à utiliser un système comptable;
+d) la vérificatrice du ministre a constaté que, durant la période en litige, l’appelante avait émis, en faveur de St-Isidore Écono Centre inc., des factures sur lesquelles elle indiquait un montant de TPS (ci-après la « TPS facturée »);
+e) la vérificatrice du ministre a constaté que l’appelante n’avait déclaré aucune TPS facturée pour les trimestres se terminant le 30 juin 2004 (2 133,25 $) et le 30 septembre 2004 (133,00 $);
+f) quant aux trimestres se terminant les 31 mars 2005 et 30 juin 2005, la vérificatrice a constaté que la TPS facturée correspondait à la TPS déclarée;
+g) quant au trimestre se terminant le 30 septembre 2005, la vérificatrice a constaté que la TPS facturée était au montant de 2 599,44 $ alors que la taxe déclarée était au montant de 4 911,43 $;
+h) en conséquence, la vérificatrice a cotisé un montant négatif de 45,74 $ pour de la taxe non payée en vertu de l’article 278 et du paragraphe 296(1)b) de la LTA;
+i) le ministre a refusé les CTI réclamés au motif que l’appelante n’a pas présenté les pièces justificatives requises en vertu du paragraphe 169(4) de la LTA;
+[...]
+u) l’intimée a considéré qu’il n’y avait eu aucun échange de services entre l’appelante et St-Isidore Écono Centre inc. et qu’il s’agissait d’un stratagème mis en place pour permettre à St-Isidore Écono Centre inc. de réclamer des CTI alors que ni l’appelante, ni Ferblanterie Alexandre enr. ne remettait de TPS facturée;
+v) elle a aussi refusé d’accorder les CTI réclamés par l’appelante en cours de vérification au même motif qu’il n’y avait eu aucun échange de services entre ces entités et que les factures présentées par St‑Isidore Écono Centre inc. étaient fausses;
+[...]
+[8] En établissant l’avis de nouvelle cotisation à l’égard de Ferblanterie Alexandre enr., le ministre s’est fondé, entre autres choses, sur les conclusions et hypothèses suivantes énoncées aux alinéas a), h), i), j), ff), gg) et hh) du paragraphe 21 de la réponse à l’avis d’appel :
+a) au cours de la période en litige, l’appelante était un inscrit aux fins de la partie IX de la LTA mais elle produisait ses déclarations en y indiquant une taxe nette de néant ou de nil;
+[...]
+h) la vérificatrice du ministre a constaté que, depuis le 31 août 2001, l’appelante avait émis, en faveur de St-Isidore Écono Centre inc., des factures sur lesquelles elle indiquait un montant de TPS (ci-après la « TPS facturée »);
+i) la vérificatrice du ministre a constaté que l’appelante n’avait déclaré aucune TPS facturée pour la période en litige en ce qu’elle produisait des déclarations en y indiquant néant, nil ou n’avoir aucune activité pour la période;
+j) en conséquence, la vérificatrice a cotisé l’appelante pour un montant 8 305,86 $ pour de la taxe non payée en vertu de l’article 278 et du paragraphe 296(1)b) de la LTA;
+[...]
+ff) la vérificatrice du ministre a donc refusé des CTI réclamés par l’appelante en cours de vérification relativement aux factures qui auraient été émises par St-Isidore Écono Centre inc.;
+gg) finalement, l’intimée a cotisé une pénalité en vertu de l’article 285 de la LTA puisque l’appelante a fait défaut d’inclure, dans le calcul de sa taxe nette, la TPS qu’elle indiquait sur ses factures;
+hh) au surplus, l’appelante, alors qu’elle inscrivait un montant de TPS sur les factures remises à St-Isidore Écono Centre inc. indiquait, sur ses déclarations pour les mêmes périodes, n’avoir aucune activité;
+[...]
+[9] En termes simples, le litige porte principalement sur les CTI que St-Isidore Écono Centre Inc. a réclamés relativement à de la TPS sur des fournitures que D.H. Ventilation s.e.n.c. et Ferblanterie Alexandre Enr. lui auraient faites au cours de la période de novembre 2003 à juillet 2004, sans qu’il y ait remise de la TPS au ministre par D.H. Ventilation s.e.n.c. et par Ferblanterie Alexandre Enr.
+[10] La vérification des affaires de St-Isidore Écono Centre Inc. a débuté à la fin du mois de janvier 2005 et une première rencontre a eu lieu avec monsieur Daniel Dupuis, comptable externe, qui, avec un associé, s’occupait des affaires de monsieur Jean-Yves Legault. Lors de cette première rencontre, monsieur Dupuis a remis à la vérificatrice des feuilles de travail montrant des écarts de TPS depuis 2002. Le montant des taxes dues apparaissait aux états financiers de St-Isidore Écono Centre Inc.
+[11] Initialement, tous les CTI réclamés relativement aux factures de D.H. Ventilation s.e.n.c. et de Ferblanterie Alexandre enr. ont été refusés parce que les factures de ces dernières n’étaient pas produites. Les factures de ventes de St-Isidore Écono Centre Inc. à D.H. Ventilation s.e.n.c. et à Ferblanterie Alexandre enr. ont d’abord été produites et les factures d’achats de St-Isidore Écono Centre Inc. auprès de D.H. Ventilation s.e.n.c. et de Ferblanterie Alexandre enr. ont été produites par la suite.
+[12] Malgré la production des factures d’achats et de ventes, la vérificatrice a maintenu le refus des CTI parce que D.H. Ventilation s.e.n.c. et Ferblanterie Alexandre enr. n’exerçaient pas d’activités commerciales véritables. D.H. Ventilation s.e.n.c. n’était pas inscrite aux fins des taxes et Ferblanterie Alexandre enr. produisait des déclarations de taxes à zéro. Selon la vérificatrice, les factures de D.H. Ventilation s.e.n.c. et de Ferblanterie Alexandre enr. étaient des factures d’accommodation parce qu’il n’y avait pas de véritables fournitures de services, ni de vente de biens entre ces entités.
+[13] La vérificatrice a conclu qu’il y avait absence d’activités commerciales exercées par D.H. Ventilation s.e.n.c. et par Ferblanterie Alexandre enr. pour les raisons suivantes :
+a) concernant Ferblanterie Alexandre enr. :
+i) toutes ses déclarations de taxes étaient à zéro; seul un ajustement était fait en fin d’année;
+ii) elle n’avait aucun registre comptable, sauf un compte déboursés en fin d’année;
+iii) elle n’avait aucun employé et elle n’était pas inscrite aux fins des déductions à la source;
+iv) elle n’était pas inscrite à la CCQ et aucune heure travaillée n’a été déclarée à la CCQ;
+v) elle ne payait aucun loyer, elle n’avait aucun équipement et le seul véhicule qu’elle utilisait était immatriculé au nom de St‑Isidore Écono Centre Inc.;
+vi) presqu’aucune transaction au compte bancaire, sauf un échange de chèques en fin d’année.
+b) concernant D.H. Ventilation s.e.n.c. :
+i) elle n’était pas inscrite aux fins des taxes; son inscription n’ayant été faite qu’au mois de février 2005;
+ii) elle n’avait aucun registre comptable, sauf un compte déboursés en fin d’année;
+iii) elle n’était pas inscrite aux fins des déductions à la source;
+iv) elle n’était pas inscrite à la CCQ et aucune heure travaillée n’a été déclarée à la CCQ;
+Position des appelantes
+[14] St‑Isidore Écono Centre Inc. conteste la validité des droits réclamés pour les motifs suivants énoncés aux paragraphes 7 à 18 de son avis d'appel :
+7. En effet, l'intimée a fait défaut de ne pas tenir compte des factures des sous‑traitantes de l'appelante, soit Ferblanterie Alexandre Enr. et D.H. Ventilation s.e.n.c., justifiant la réclamation des CTI;
+8. La division des tâches ainsi que l'échange de services commerciaux entre l'appelante et des sous‑traitantes, est à l'effet que l'appelante vendait les contrats aux clients;
+9. Ferblanterie Alexandre Enr. agissait quant à elle à titre de sous‑traitante pour l'appelante en ce qui a trait à la fabrication de conduits de ventilation;
+10. D.H. Ventilation s.e.n.c. effectuait l'installation de systèmes de chauffage et de climatisation pour l'appelante;
+11. Il y a donc échanges de services entre ces trois entités, et ce, dans la cadre de leurs activités commerciales respectives;
+12. La répartition des secteurs d'activités entre l'appelante et Ferblanterie Alexandre Enr. ainsi que de D.H. Ventilation s.e.n.c. a pour but de faciliter leurs opérations et permettre une réduction importante des frais financiers reliés à leurs dites opérations;
+13. L'appelante respecte les critères prévus par la Loi pour avoir droit aux CTI;
+14. En effet, l'appelante était inscrite, pendant toute la période en litige;
+15. L'appelante a bel et bien payé les taxes et ce fait n'est d'ailleurs aucunement contesté;
+16. Les services fournis par les sous‑traitantes à l'égard de l'appelante ont été fournis pour une activité commerciale de celle‑ci;
+17. Enfin, il s'agit de dépenses pour des services non exonérés ou détaxés et, au surplus, les achats ont été faits auprès d'inscrits;
+18. Les sous‑traitantes avaient la capacité de production nécessaire pour rendre les services requis auprès de l'appelante et elles ont réellement rempli les commandes à cet égard;
+[15] D.H. Ventilation s.e.n.c. et Ferblanterie Alexandre Enr., quant à elles, prétendent qu'il y a eu échange de services avec St‑Isidore Écono Centre Inc. et réclament les CTI sur les achats effectués auprès de St‑Isidore Écono Centre Inc., ce qui aurait pour effet d'annuler les montants pouvant être dus par ces dernières. Ces deux sous‑traitantes allèguent avoir payé les taxes sur les achats effectués auprès de St‑Isidore Écono Centre Inc., ce qui aurait pour effet d'annuler les montants pouvant être dus par ces dernières. Ces deux sous‑traitantes allèguent avoir payé les taxes sur les achats effectués chez un inscrit, soit St‑Isidore Écono Centre Inc.
+Analyse
+[16] La première question à considérer concerne l'admissibilité de St‑Isidore Écono Centre Inc. aux CTI réclamés à l'égard des factures de D.H. Ventilation s.e.n.c. et de Ferblanterie Alexandre Enr. Les CTI refusés concernaient les factures émises au cours de la période du mois de novembre 2003 au mois de juillet 2004 (la « période des CTI »).
+[17] Les factures visées provenant de D.H. Ventilation s.e.n.c. sont décrites à l'alinéa (m) du paragraphe 6 ci‑dessus. Aucune de ces factures n'indique un numéro de TPS. Ceci s'explique par le fait que D.H. Ventilation Inc. ne s'est inscrite aux taxes qu'au mois de février 2005. Il s'agit‑là d'un problème technique qui a pour effet de faire perdre automatiquement à St‑Isidore Écono Centre Inc. le bénéfice des CTI à l'égard des fournitures de D.H. Ventilation s.e.n.c. La LTA et le Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants (TPS/TVH) DORS/91‑45, tel que modifié (le « Règlement ») sont très précis sur les renseignements à fournir pour obtenir des CTI. L'alinéa 169(4)a) de la LTA exige ce qui suit :
+(4) Documents − L'inscrit peut demander un crédit de taxe sur les intrants pour une période de déclaration si, avant de produire la déclaration à cette fin :
+a) il obtient les renseignements suffisants pour établir le montant du crédit, y compris les renseignements visés par règlement;
+[18] L'alinéa c) de l'article 3 du Règlement exige ce qui suit :
+3. Renseignements − Les renseignements visés à l'alinéa 169(4)a) de la Loi, sont les suivants :
+[...]
+c) lorsque le montant total payé ou payable, selon la pièce justificative, à l'égard d'une ou de plusieurs fournitures est de 150 $ ou plus :
+(i) les renseignements visés aux alinéas a) et b),
+(ii) soit le nom de l'acquéreur ou son nom commercial, soit le nom de son mandataire ou de son représentant autorisé,
+(iii) les modalités de paiement,
+(iv) une description suffisante pour identifier chaque fourniture.
+[19] Lorsque le montant total payé ou payable selon la pièce justificative, à l'égard d'une ou de plusieurs fournitures, est de 150 $ ou plus, les renseignements requis aux alinéas a) et b) de l'article 3 doivent être fournis. Le sous‑alinéa (i) de l'alinéa 3 b) réfère spécifiquement au numéro d'inscription attribué, conformément au paragraphe 241(1) de la LTA, au fournisseur.
+[20] Les tribunaux ont souvent eu l'occasion de se prononcer sur ces dispositions de la LTA et du Règlement et ont confirmé à plusieurs reprises le caractère obligatoire des renseignements exigés (voir les décisions Systematix Technology Consultants Inc. c. La Reine, [2007] G.T.C. 1541 (Cour d'appel fédérale), [2006] G.T.C. 510 (Cour canadienne de l'impôt); Helsi Construction Management Inc. c. La Reine, [2001] G.T.C. 396; Key Property Management Corp. c. La Reine, [2004] G.S.T.C. 32 et Davis c. La Reine, [2004] G.S.T.C. 134). Le juge Bédard de cette Cour a également eu l'occasion de se prononcer sur cette question et a émis le commentaire suivant au paragraphe 28 de la décision rendue dans l'arrêt Bobby Lee Baker c. La Reine, 2007 CCI 106 :
+28. Le paragraphe 169(4) de la Loi et le Règlement sont clairs et les tribunaux ont adopté une position selon laquelle un inscrit n'a pas le droit de recevoir les CTI demandés avant d'avoir produit les pièces justificatives exigées. En l'espèce, l'appelant n'a pas déposé en preuve les pièces justificatives exigées et, par conséquent, il n'avait pas le droit de recevoir les CTI demandés.
+[21] Les renseignements visés à l'article 3 du Règlement sont exhaustifs et représentent une lourde obligation pour le contribuable. Dans le présent cas, St‑Isidore Écono Centre Inc. ne s'est pas déchargé de son obligation de produire les pièces justificatives nécessaires à l'obtention des CTI à l'égard des factures de D.H. Ventilation s.e.n.c.
+[22] En plus de ces considérations techniques, il y a lieu de considérer si les factures de D.H. Ventilation s.e.n.c. sont des factures d'accommodation ou si des fournitures de services ont réellement été rendues à St‑Isidore Écono Centre Inc.
+[23] D.H. Ventilation s.e.n.c. est en affaires depuis 1999 et s'occupe de l'installation de systèmes de ventilation. Selon les informations fournies dans les déclarations de revenu de monsieur Jean‑Yves Legault, les associés de l’entreprise étaient en 2004 messieurs Jean‑Yves Legault (33,33%), Daniel Hébert (33,33%) et Martin Turcotte (33,33%).
+[24] D.H. Ventilation s.e.n.c. détenait une licence d'entreprise en construction émise par la Régie du bâtiment du Québec. La carte d'employé désigné était émise au nom de monsieur Martin Turcotte mais le principal détenteur de la carte de compétence était monsieur Jean‑Yves Legault. L'entreprise produisait des rapports mensuels à la CCQ et payait les droits exigés. Les heures déclarées à la CCQ étaient très réduites parce que les travaux résidentiels hors construction n'étaient pas régis par la CCQ.
+[25] D.H. Ventilation s.e.n.c. occupait un local séparé dans la bâtisse qui appartenait à monsieur Jean‑Yves Legault mais l'entreprise ne possédait pas d'actifs en termes d'équipement et de machinerie selon le bilan du 31 décembre 2005 et selon l'état des résultats des activités d'une entreprise annexé à la déclaration de revenu pour 2004 de monsieur Jean‑Yves Legault.
+[26] Au cours de la période des CTI, D.H. Ventilation s.e.n.c. n'a pas produit d'états financiers et n'avait pas de registre comptable. Selon l'état des résultats des revenus et dépenses pour 2004, l'entreprise n'a tiré de revenu que de St‑Isidore Écono Centre Inc., soit 32 375 $. Le document intitulé « Caisse recettes et Caisse déboursés » préparé par le vérificateur externe à partir des relevés bancaires de 2004 démontre que l'entreprise a eu peu d'activités au cours de l'année et que l'entreprise n'était pas un centre de profit.
+[27] Les factures de Ferblanterie Alexandre Enr. sont décrites à l'alinéa (l) du paragraphe 6 ci‑dessus. Les exigences techniques de la LTA et du Règlement pour avoir le droit de réclamer les CTI étant satisfaites, il importe de considérer si ces factures sont des factures d'accommodation ou si des fournitures de services ont réellement été rendues par Ferblanterie Alexandre Enr.?
+[28] Ferblanterie Alexandre Enr. existe depuis 1999 et s'occupait de la fabrication de conduits de ventilation. Ferblanterie Alexandre Enr. détient une licence d'entrepreneur de construction émise par la Régie du bâtiment du Québec. Au cours de la période des CTI, Ferblanterie Alexandre Enr. n'avait aucun employé et Alexandre Legault n'avait pas de carte de compétence pour la fabrication des conduits. Le seul client de l'entreprise était St‑Isidore Écono Centre Inc. Ferblanterie Alexandre Enr. occupait un local dans la bâtisse qui appartenait à monsieur Jean‑Yves Legault. Aucun bail n'a été conclu avec le propriétaire de la bâtisse. St‑Isidore Écono Centre Inc. occupait un local dans la même bâtisse de même que D.H. Ventilation s.e.n.c. et St‑Isidore Écono Centre Inc. ne versait pas de loyer à monsieur Jean‑Yves Legault mais payait les dépenses d'opération de la bâtisse et refacturait à Ferblanterie Alexandre Enr. et à D.H. Ventilation s.e.n.c. leur quote‑part respective des dépenses d'opération. Selon les informations contenues aux déclarations de revenu de monsieur Jean‑Yves Legault, ce dernier a déclaré des revenus de location bruts de 6 972 $ en 2004 et de 33 972 $ en 2005.
+[29] Ferblanterie Alexandre Enr. n'avait pratiquement pas d'actifs en termes d'équipement et de machinerie (997 $ au 31 décembre 2005) et le véhicule qu'elle utilisait était immatriculé au nom de St‑Isidore Écono Centre Inc. Les relevés bancaires de l'entreprise ne montrent presqu'aucune activité et le document intitulé « Caisse recettes et Caisse déboursés » préparé par le comptable externe ne montre aucun achat en 2003 sauf quelques achats divers. Pour 2004, un compte d'achat de matériel a été ouvert chez St‑Isidore Écono Centre Inc. et un autre chez Brock.
+[30] Toutes les déclarations de taxe de Ferblanterie Alexandre Enr. pour les années 2002, 2003 et 2004 sont à zéro et indiquent aucune activité commerciale et aucun ajustement n'était fait en fin d'année. Ferblanterie Alexandre Enr. n'avait aucun registre comptable et seul un compte déboursés était fait en fin d'année.
+[31] Lors de son témoignage, monsieur Jean‑Yves Legault a indiqué que les factures de Ferblanterie Alexandre Enr. avaient été payées par des chèques déposés dans le compte bancaire de l'entreprise. Contrairement aux prétentions de monsieur Legault, la preuve révèle qu'aucun chèque de St‑Isidore Écono Centre Inc. n'a été déposé en 2003 et en 2004 dans le compte bancaire de Ferblanterie Alexandre Enr. Aux livres de St‑Isidore Écono Centre Inc., les factures émises par Ferblanterie Alexandre Enr. apparaissent sous forme de comptes à payer, et ce, depuis 2001.
+[32] Sur la base de ce qui précède, j'en viens à la conclusion que les appelantes n'ont pas démontré de façon prépondérante que le ministre a erré en concluant que Ferblanterie Alexandre Enr. et D.H. Ventilation s.e.n.c. n'ont pas, dans les faits, rendu des services à St‑Isidore Écono Centre Inc. et qu'il s'agissait d'un stratagème mis en place pour permettre à St‑Isidore Écono Centre Inc. de réclamer des CTI, alors que ni Ferblanterie Alexandre Enr. ni D.H. Ventilation s.e.n.c. ne remettaient la taxe facturée et alors que Ferblanterie Alexandre Enr. produisait des déclarations de taxe à zéro.
+[33] Parmi les éléments accablants pour les appelantes, il y a lieu de mentionner les suivants :
+(i) le comportement des appelantes qui, dans le cadre de la vérification, ont été des plus réticentes à remettre les factures d'achat et de vente;
+(ii) les factures laconiques d'une suite numérique mises en preuve et toutes conçues sur le même modèle et souvent portant les mêmes dates;
+(iii) l'absence de paiement des factures par St‑Isidore Écono Centre Inc.;
+(iv) l'absence de structure opérationnelle et de capacité de production chez Ferblanterie Alexandre Enr. et D.H. Ventilation s.e.n.c.;
+(v) le manque de registres comptables adéquats maintenus par Ferblanterie Alexandre Enr. et D.H. Ventilation s.e.n.c.; et enfin
+(vi) le fait que Ferblanterie Alexandre Enr. et D.H. Ventilation s.e.n.c. n'aient eu qu'un seul client au cours de la période des CTI.
+[34] Comme l'a si bien dit la juge Lamarre de cette Cour dans l'arrêt Les Constructions L.J.P. Inc. c. La Reine, 2005CCI508 au paragraphe 21 :
+[...] je suis d'accord avec l'avocat de l'intimée qui soutient que les appelantes auraient eu besoin d'un supplément de preuve plus substantiel pour contrer l'allégation du Ministre que ces fournisseurs n'ont pas en réalité fourni de fournitures ou de services aux appelantes. [...]
+[35] En conséquence, je confirme donc la cotisation du ministre quant au refus des CTI pour St‑Isidore Écono Centre Inc.
+[36] La deuxième question à considérer concerne l'admissibilité de Ferblanterie Alexandre Enr. et de D.H. Ventilation s.e.n.c. aux CTI réclamés par chacune d'elle à l'égard des factures de St‑Isidore Écono Centre Inc. émises au cours de la période du 1er janvier 2002 au 30 septembre 2005, dans le cas de Ferblanterie Alexandre Enr. et, au cours de la période du 28 mai 2004 au 30 septembre 2005, dans le cas de D.H. Ventilation s.e.n.c. De plus, il y a lieu de considérer si Ferblanterie Alexandre Enr. est tenue de remettre au Receveur général la TPS facturée mais non remise à l'égard des factures de St‑Isidore Écono Centre Inc.
+[37] Les factures visées provenant de St‑Isidore Écono Centre Inc. sont décrites à l'alinéa (j) du paragraphe 6 ci‑dessus. Des 33 factures émises à D.H. Ventilation s.e.n.c., 28 factures portent la date du 15 novembre 2004 et cinq factures portent la date du 31 décembre 2004. Les 28 factures qui portent la date du 15 novembre 2004 sont décrites comme étant pour des matériaux pour « jobs » de ventilation. Ces factures s'expliquent difficilement, compte tenu du fait que D.H. Ventilation s.e.n.c. n'a pas été en mesure de produire en preuve les factures de vente faites à ses clients comprenant l'installation et les matériaux nécessaires à l'installation acquis de St‑Isidore Écono Centre Inc. Cette absence de preuve m'amène à conclure que les factures de St‑Isidore Écono Centre Inc. sont des factures d'accommodation. D'ailleurs, ces factures n'ont pas fait l'objet d'un paiement et ce n'est que par une écriture de régularisation que St‑Isidore Écono Centre Inc. a créé un compte à recevoir de 124 848 $ en contrepartie des ventes faites à D.H. Ventilation s.e.n.c. et à Ferblanterie Alexandre Enr.
+[38] Des 33 factures émises par St‑Isidore Écono Centre Inc. à Ferblanterie Alexandre Enr., 10 factures sont datées du 1er novembre 2004, cinq factures sont datées du 30 novembre 2004 et 18 factures sont datées du 15 décembre 2004. Lesdites factures sont généralement décrites comme étant pour des matériaux pour « job de duct », « job de climatiseur », « job gaz » ou « job de thermopompe ». Ces factures s'expliquent également difficilement compte tenu du fait que Ferblanterie Alexandre Enr. n'a pas été en mesure de produire des factures de ventes faites à des clients, autre que St‑Isidore Écono Centre Inc., comme à D.H. Ventilation s.e.n.c. par exemple qui faisait l'installation. Si Ferblanterie Alexandre Enr. ne devait fabriquer que pour St‑Isidore Écono Centre Inc. et elle n'aurait eu qu'à charger le coût de la main d'oeuvre pour la fabrication des conduits. Tout comme pour les factures émises à D.H. Ventilation s.e.n.c., ces factures ont toute l'apparence d'être des factures d'accommodation. Ces factures n'ont d’ailleurs pas fait l'objet d'un paiement de la part de St‑Isidore Écono Centre Inc.
+[39] En conséquence, je confirme donc les cotisations du ministre quant au refus des CTI pour Ferblanterie Alexandre Enr. et pour D.H. Ventilation s.e.n.c.
+[40] Pour ce qui est de la question de savoir si Ferblanterie Alexandre Enr. a l'obligation de remettre au Receveur général la TPS qu'elle a facturée à St‑Isidore Écono Centre Inc. mais qu'elle n'a pas perçue au cours de la période pertinente et qu'elle n'a pas remise au Receveur général, la réponse à cette question doit être répondue par l'affirmative. La LTA est très claire à ce sujet et il y a lieu de reproduire ici le texte de l'alinéa 225(1)a) et du paragraphe 225(2) de la LTA :
+Taxe nette
+225(1) Sous réserve des autres dispositions de la présente sous-section, la taxe nette pour une période de déclaration donnée d’une personne correspond au montant, positif ou négatif, obtenu par la formule suivante :
+A - B
+où :
+A représente le total des montants suivants :
+a) les montants devenus percevables et les autres montants perçus par la personne au cours de la période donnée au titre de la taxe prévue à la section II;
+[...]
+Restriction à l’élément A
+225(2) Un montant n’est pas à inclure dans le total visé à l’élément A du paragraphe (1) pour la période de déclaration d’une personne dans la mesure où il y a déjà été inclus pour une période de déclaration antérieure de la personne.
+[41] L’alinéa a) du paragraphe 225(1) de la LTA réfère spécifiquement au montant devenus percevables (« collectible » en anglais), i.e. les montants de taxe facturés par l’inscrit au cours d’une période de déclaration donnée. Le paragraphe 225(2) de la LTA quant à lui vise à empêcher qu’il y ait une double inclusion dans le calcul de l’élément A du paragraphe (1) pour la période de déclaration en précisant qu’un montant n’a pas à être inclus dans l’élément A s’il a déjà été inclus dans une période de déclaration antérieure, comme c’est notamment le cas pour un montant de taxes facturé dans une période de déclaration mais perçu dans la période de déclaration subséquente.
+[42] Le paragraphe 278(2) de la LTA exige de toute personne tenue de payer ou de verser un montant de taxe qu’elle la paie ou la verse au Receveur général. Le paragraphe 278(2) de la Loi se lit comme suit :
+278 (2) Paiement et versement —Quiconque est tenu par la présente partie de payer ou de verser un montant doit le payer ou le verser au receveur général, sauf lorsqu’une autre personne est tenue de percevoir le montant en application de l’article 221.
+[43] Enfin la LTA prévoit que le ministre a le pouvoir d’établir une cotisation pour déterminer le montant de la taxe nette non remise pour une personne pour une période de déclaration. Ce pouvoir conféré au ministre qui se retrouve à l’alinéa 296(1)a) de la LTA qui se lit comme suit :
+296. (1) Cotisation —Le ministre peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire pour déterminer :
+a) la taxe nette d’une personne, prévue à la section V, pour une période de déclaration;
+[...]
+[44] Ces dispositions législatives permettent donc au ministre de cotiser Ferblanterie Alexandre Enr. pour les montants de taxe nette non remise pour les périodes de déclaration du 1er janvier 2002 au 30 septembre 2005, et ce, même si St‑Isidore Écono Centre Inc. n’a pas droit aux CTI à l’égard des factures de Ferblanterie Alexandre Enr. et même si une détermination finale est faite que Ferblanterie Alexandre Enr. n’exerçait pas d’activités commerciales et n’a pas effectué de fournitures taxables au cours des périodes de déclaration pertinentes. Des mesures d’ajustements et de remboursements sont prévues à la LTA pour prévenir la double imposition s’il y a paiement en trop des taxes.
+[45] Plusieurs décisions de cette Cour et de la Cour d’appel fédérale ont confirmé le principe qu’une personne, qui perçoit un montant de taxe, qu’elle soit payable ou non, doit l’ajouter au montant de taxe nette en vertu du paragraphe 225(1) de la LTA et doit la remettre au Receveur général; si cette personne ne verse pas les montants de taxe nette, elle peut faire l’objet d’un avis de cotisation.
+[46] Le juge Sexton dans 800537 Ontario Inc. c. Canada, (2005) G.S.T.C. 165, [2005] A.C.F. no 1732 a fait sien le paragraphe 10 des motifs de la juge Sharlow dans l’arrêt Gastown Actors Studio Ltd. c. Canada, (2000) G.S.T.C. 108, [2000] A.C.F. no 2047.
+[...] un contribuable qui a effectivement perçu des montants de TPS pour des services, peu importe que ceux-ci soient taxables ou qu'ils soient plus tard reconnus comme des fournitures exonérées, doit verser ces montants et peut faire l'objet d'un avis de cotisation s'il ne les verse pas. [. . .]
+[47] Le même principe s’applique pour les montants de TPS à percevoir à la fin d’une période de déclaration.
+Les pénalités
+[48] Les avis de cotisation datés du 3 mars 2006 émis à St-Isidore Écono Centre Inc., Ferblanterie Alexandre Enr. et D.H. Ventilation s.e.n.c. contiennent une pénalité de 6% en vertu du paragraphe 280 (1) de la LTA qui se lit comme suit :
+280. (1) Pénalités et intérêts — Sous réserve du présent article et de l’article 281, la personne qui ne verse pas ou ne paie pas un montant au receveur général dans le délai prévu par la présente partie est tenue de payer la pénalité et les intérêts suivants, calculés sur ce montant pour la période commençant le lendemain de l’expiration du délai et se terminant le jour du versement ou du paiement :
+a) une pénalité de 6% par année;
+b) des intérêts au taux réglementaire.
+[49] La Cour d’appel fédérale a déjà statué que rien ne s’oppose à ce que le moyen de défense de la diligence raisonnable puisse être invoqué à une pénalité imposée en vertu de l’article 280 de la LTA (voir Canada (Procureur général) c. Consolidated Canadian Contrators Inc., [1999] 1 C.F. 209 (C.A.F.) et Corporation de l’école polytechnique c. Canada, 2004 CAF 127).
+[50] Par contre, rien n’indique dans ce dossier que les appelantes ont fait preuve de diligence raisonnable ou qu’elles ont pris quelques mesures que ce soit pour se conformer à la LTA. St-Isidore Écono Centre Inc. réclamait des CTI alors qu’aucune taxe nette n’était remise au Receveur général par Ferblanterie Alexandre Enr. et par D.H. Ventilation s.e.n.c. Monsieur Jean‑Yves Legault, l’âme dirigeante des appelantes, ne pouvait ignorer cette situation qui s’est échelonnée sur plusieurs années, soit de 2002 à 2005, sans que des correctifs ne soient apportés.
+[51] Pour reprendre la phraséologie utilisée par le juge Létourneau dans Folz Vending Co. c. Canada, 2008 CAF 160 au paragraphe 25, les appelantes n’ont pu identifier un erreur de fait qui, pour des motifs raisonnables, les a amené à croire en un état de fait n’existant qui s’il eût existé, aurait rendu innocent leur défaut de percevoir et de remettre la taxe.
+[52] Les avis de cotisation datés du 3 mars 2006 émis à St-Isidore Écono Centre Inc. et Ferblanterie Alexandre Enr. comprennent également une pénalité de 25%, en vertu de l’article 285 de la LTA. La partie de l’article 285 de la LTA qui précède l’alinéa a) se lit comme suit :
+285. Faux énoncés ou omissions—Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, une demande, un formulaire, un certificat, un état, une facture ou une réponse —appelés « déclaration » au présent article —établi pour une période de déclaration ou une opération, ou y participe, y consent ou y acquiesce, est passible d’une pénalité de 250 $ ou, s’il est plus élevé, d’un montant égal à 25% de la somme des montants suivants : [. . .]
+[53] Ayant précédemment conclu que les factures de St-Isidore Écono Centre Inc., Ferblanterie Alexandre Enr. et de D.H. Ventilation s.e.n.c. étaient des factures d’accommodation et que le système mis en place était un stratagème permettant à St-Isidore Écono Centre Inc. de bénéficier de CTI sans que des montants de TPS soient remis par Ferblanterie Alexandre Enr. et par D.H. Ventilation s.e.n.c., je n’ai d’autre choix que de confirmer l’application des pénalités imposées en vertu de l’article 285 de la LTA.
+[54] Plusieurs éléments de preuve démontrent un degré d’intention ou de faute lourde justifiant l’imposition de ladite pénalité dans ces dossiers. Ces éléments sont :
+a) Jean‑Yves Legault savait qu’il y avait des écarts de TPS puisqu’un montant de taxes dues apparaissait aux états financiers de St‑Isidore Écono Centre Inc. depuis 2002;
+b) les déclarations de taxes à zéro par Ferblanterie Alexandre Enr. alors qu’elle facturait St‑Isidore Écono Centre Inc. pour des fournitures taxables;
+c) l’absence de registres comptables tenus par Ferblanterie Alexandre Enr. et D.H. Ventilation s.e.n.c.;
+d) l’absence d’activités commerciales véritables exercées par Ferblanterie Alexandre Enr. et D.H. Ventilation s.e.n.c.; et
+e) l’absence de paiement des factures émises par les appelantes.
+[55] Compte tenu des éléments précités, je suis d’avis que l’intimée s’est déchargée de son fardeau de preuve.
+[56] Par conséquent, l’appel des appelantes concernant les pénalités imposées en vertu des articles 280 et 285 de la LTA est rejeté;
+[57] Pour ces motifs, les appels des appelantes sont rejetés.
+Signé à Montréal (Québec), ce 9e jour de juillet 2008.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE : 2008 CCI 280
+Nºs DES DOSSIERS DE LA COUR : 2007-2476(GST)I,
+2007-2477(GST)I, et
+2007-2478(GST)I
+INTITULÉS DES CAUSES : D.H. Ventilation S.E.N.C.,
+Ferblanterie Alexandre Enr. et
+St-Isidore Écono Centre inc.
+c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 10 décembre 2007
+MOTIFS DES JUGEMENTS PAR : L'honorable juge Réal Favreau
+DATE DES JUGEMENTS : le 9 juillet 2008
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Martin Fortier
+Avocate de l'intimée :
+Me Brigitte Landry
+AVOCAT INSCRIT AU DOSSIER :
+Pour les appelantes :
+Nom : Me Martin Fortier
+Cabinet : De Chantal, D’amour, Fortier
+Ville : Longueil, Québec
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

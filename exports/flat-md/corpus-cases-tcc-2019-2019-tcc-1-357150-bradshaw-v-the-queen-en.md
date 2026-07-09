@@ -1,0 +1,266 @@
+---
+title: "Bradshaw v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/357150/index.do"
+last_modified: "2019-01-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 TCC 1"
+citation2: ""
+neutral_citation: "2019 TCC 1"
+decision_date: "2019-01-03"
+language: "en"
+item_id: "357150"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4997
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T12:23:37.383000+00:00"
+cases_cited_count: 6
+cases_citing_count: 6
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "12ad4d8031cf3644dbd7b4c0eac767622aaf0eefedd6dec052ce2e70f2a8f629"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bradshaw v. The Queen
+
+- Citation: 2019 TCC 1
+- Decision date: 2019-01-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4997, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bradshaw v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-01-03
+Neutral citation
+2019 TCC 1
+File numbers
+2012-4744(IT)G
+Judges and Taxing Officers
+Johanne D’Auray
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-4744(IT)G
+BETWEEN:
+JEFF BRADSHAW,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on September 20, 2018, at Hamilton, Ontario.
+Before: The Honourable Justice Johanne D’Auray
+Appearances:
+Counsel for the Appellant:
+Craig Burley
+Counsel for the Respondent:
+Meaghan Mahadeo
+JUDGMENT
+This appeal from reassessments made under the Income Tax Act for the 2008 and 2009 taxation years is dismissed in accordance with the attached Reasons for Judgment.
+With costs to the respondent in accordance with the Tariff.
+Signed at Ottawa, Montreal, Quebec, this 3rd day of January 2019.
+“Johanne D’Auray”
+D’Auray J.
+Citation: 2019 TCC 1
+Date: 20190103
+Docket: 2012-4744(IT)G
+BETWEEN:
+JEFF BRADSHAW,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+D’Auray J.
+I. Overview
+[1] The sole issue in this appeal is whether the appellant made false statements in his income tax returns for the taxation years 2008 and 2009, either “knowingly, or under circumstances amounting to gross negligence”.
+[2] The appellant claimed large fictitious net business losses in both taxation years - $821,022.48 in 2008 and $89,982.16 in 2009.
+[3] As a result of these losses, the appellant claimed refunds of $29,547.08 and $26,357.56 for his 2008 and 2009 taxation years respectively.
+[4] The Minister of National Revenue (the “Minister”) reassessed the appellant’s 2008 and 2009 taxation years and imposed penalties under subsection 163(2) of the Income Tax Act (the “Act”), for having made false statements in his income tax returns for each year, “knowingly, or under circumstances amounting to gross negligence”.
+[5] The appellant admits that there were false statements in his income tax returns for the 2008 and 2009 taxation years and concedes that he was not allowed to claim business losses and refunds with respect to those years. However, he does not admit that he made the false statements either “knowingly or under circumstances amounting to gross negligence”. Instead, he maintains that he was duped by a group known as Fiscal Arbitrators.
+II. Facts
+[6] The appellant and his brother, Jason Bradshaw, own and operate a steel fabrication business Bradshaw Ironworks Ltd. (“Bradshaw Ironworks” or “corporation”). They have been operating Bradshaw Ironworks since 2000.
+[7] During the taxation years in question, both brothers were involved in running the corporation. The appellant was responsible for the operations side of the business while his brother took care of its financial affairs.
+[8] The appellant was an employee of Bradshaw Ironworks. He was the “shop foreman”. As such, he received a salary and bonuses. His responsibilities included scheduling and supervising the work of up to twelve employees, delegating work, and ensuring that safety procedures were followed.
+[9] The brothers would meet daily to discuss how things were going with the corporation. The appellant stated that it was important for him to know whether the corporation was making or losing money.
+[10] The appellant testified that for many years, he used the same accounting firm as the corporation, namely, the firm of Wormald Masse Keen Lopinski (“WMLK”), to prepare his income tax returns. WMLK charged between $5,000 and $6,000 per year to prepare the income tax returns of the corporation, the appellant’s and the appellant’s brother. He stated that when Mr. Keen of WMLK gave him his income tax return for signature, he would glance over it and ask questions of any large number that caught his attention.
+[11] In late 2008, the appellant was introduced to Fiscal Arbitrators by David and Carol Braund. The appellant had met the Braunds at a donation program seminar.
+[12] Mr. Larry Watts and Carlton Branch were the principals of Fiscal Arbitrators. The appellant attended three seminars held by Fiscal Arbitrators. Attendance at the seminars varied from 50 to 100 people.
+[13] The appellant was impressed by Mr. Watts’ professionalism and by his knowledge of the Act. He testified that Mr. Watts was able to answer all the questions asked by the people attending the seminars and that his answers all seemed plausible.
+[14] The appellant hired Fiscal Arbitrators to prepare his personal income tax return for the 2008 taxation year. To that end, he provided Mr. Watts with the information necessary for the preparation of the return including his personal expense receipts.
+[15] The appellant testified that he could not recall the details of the Fiscal Arbitrators’ filing method, but it seemed plausible at the time. However, the appellant understood from the seminars that by using Fiscal Arbitrators as a tax preparer, he would obtain sizeable refunds. Under the filing method of Fiscal Arbitrator, the appellant’s refunds amounted to $29,547.08 and to $26,357.56 for the 2008 and 2009 taxation years, respectively.
+[16] For preparing the appellant’s income tax returns, Fiscal Arbitrators charged a fee equalling 20% of the refund. While the appellant found the fee high, he thought at the time that it was acceptable given the amount of the expected refund. For the 2008 taxation year, Fiscal Arbitrators’ fee for preparing the appellant’s tax return would have been approximately $5,900.
+[17] Once the appellant’s 2008 income tax return was completed, Fiscal Arbitrators sent it to the appellant by mail. The appellant was asked to review the return and to forward it to the Canada Revenue Agency (the “CRA”). Enclosed with the return was a letter from Fiscal Arbitrators instructing the appellant to:
+“please review your return carefully before submitting to ensure that it is both accurate and complete”.
+[18] The letter instructed the appellant to sign “per” in front of his signature on the tax return and on the Request for Loss Carryback form. The letter further stated that if the appellant received any queries from the CRA, his only response should be to direct them to put the question in writing and send it to him. He should then forward the question to Fiscal Arbitrators who would assist him in drafting a proper response. The appellant testified that he followed these instructions even though he found them strange.
+[19] In his 2008 taxation year, the appellant reported a net business loss of $821,022.48 resulting in a total negative income of $652,918.52. The appellant used $163,649.48 of the business loss against his 2008 income. He also filed a Request for Loss Carryback requesting that the unused balance of $657,373.00 be carried back and applied to his 2005, 2006 and 2007 taxation years.
+[20] The appellant stated that he found it strange that there was a claim for a business loss in his income tax return, since he was not operating a business.
+[21] On December 16, 2009, the appellant received a letter from the CRA requesting him to provide the supporting documentation establishing his gross business income of $198,362.70 and his net business loss of $821,022.55.
+[22] As instructed by Fiscal Arbitrators, the appellant forwarded the CRA letter to Mr. Watts of Fiscal Arbitrators.
+[23] In response to the CRA letter, Fiscal Arbitrators prepared a letter for the appellant to send to the CRA. The letter was dated January 11, 2010. The appellant signed the letter in the manner proposed by Fiscal Arbitrators namely, as: “Per: Jeff Bradshaw, authorized representative without recourse, all rights reserved, exempt from levy, with prejudice.” The letter did not address the CRA’s request for documentation.
+[24] On May 21, 2010, the CRA sent the appellant a proposed reassessment letter for his 2008 taxation year, whereby the business loss claimed by the appellant and the Request for Loss Carryback would be denied. CRA also advised the appellant that it would impose a penalty under subsection 163(2) of the Act, with respect to the appellant’s 2008 taxation year. The letter contained the following warning:
+The CRA does not support the participation in arrangement that attempts to avoid paying income tax resulting from an arrangement wherein the taxpayer deems himself to the principal for the agent.
+[25] The appellant stated that he probably read the CRA’s letter but as instructed by Fiscal Arbitrators, he forwarded the letter to them. Despite the CRA’s letter, the appellant used Fiscal Arbitrators for the preparation of his 2009 tax return. The return was filed with the CRA on June 7, 2010.
+[26] In his 2009 income tax return, the appellant reported employment income, dividends, investment income, partnership income and rental income correctly. The appellant also reported fictitious business income of $119,608.68 and a fictitious net business loss of $89,982.16, resulting in a total income of $11,381.13.
+[27] The appellant received a refund of $29,457.08 for his 2008 taxation year.
+[28] On July 22, 2010, the CRA wrote to the appellant requesting documents to support his claim for a business loss in his 2009 taxation year.
+[29] The appellant forwarded the CRA letter to Fiscal Arbitrators.
+[30] The appellant testified that he had never before received so much correspondence from the CRA.
+[31] The appellant was reassessed for his 2008 taxation year on October 24, 2010. The reassessment denied the fictitious business loss and assessed a penalty of $142,164.36 pursuant to subsection 163(2) of the Act. The penalty was later reduced by $28,507.61.
+[32] The appellant was reassessed for his 2009 taxation year on January 31, 2011. The fictitious business loss was denied and a penalty of $24,881.84 pursuant to subsection 163(2) of the Act was assessed. The penalty was later reduced by $16,799.14.
+[33] On March 17, 2011, Fiscal Arbitrators prepared Notices of Objection for the appellant’s 2008 and 2009 taxation years. On the Notices of Objection, the appellant represented himself as an “authorized representative.” The word “per” appeared before his signature.
+[34] The appellant stated that he read the Notices of Objection before signing them but did not understand their contents.
+[35] Following the Notices of Objections, the CRA sent, on August 22, 2011, September 30, 2011, and November 9, 2011, letters to the appellant requesting him to submit documentation establishing his business losses.
+[36] Fiscal Arbitrators responded to the CRA’s letters on September 15, 2011, October 14, 2001 and November 24, 2011. The response letters were sent “for: Jeff Bradshaw, ens legis”. The letters did not address the CRA request for documentation.
+III. Analysis
+A. Applicable Law
+[37] The applicable provisions in this appeal are subsections 163(2) and 163(3) of the Act. They state as follows:
+163(2) Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a “return”) filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty of the greater of $100 and 50% of the total of
+. . .
+163(3) Where, in an appeal under this Act, a penalty assessed by the Minister under this section or section 163.2 is in issue, the burden of establishing the facts justifying the assessment of the penalty is on the Minister.
+[38] Pursuant to subsection 163(3) of the Act, the respondent has the burden of proving on a balance of probabilities the facts that justify the assessment of a penalty against the appellant under subsection 163(2) of the Act.
+[39] Accordingly, in this appeal the respondent has to establish:
+- that the appellant made a false statement in his income tax returns;
+- that the appellant did so knowingly or under circumstances amounting to gross negligence.
+[40] In Wynter v The Queen [1] Justice Rennie, in a unanimous decision of the Federal Court of Appeal, stated as follows with respect to the “knowingly” and “gross negligence” standards in subsection 163(2) of the Act:
+[11] When Parliament uses alternative terms, it is assumed that it intended them to have different meanings. Put otherwise, Parliament does not repeat itself: see Ruth Sullivan, Statutory Interpretation, 3rd ed. (Toronto: Irwin Law Inc., 2016) at 43. Section 163 allows the imposition of penalties where the taxpayer has knowledge or in circumstances amounting to gross negligence. The section is not conjunctive, and presumptively, these two terms differ in their meaning and content.
+[12] The distinction between gross negligence – determined by an objective assessment of the comportment of the taxpayer – and wilful blindness – determined by reference to the taxpayer’s subjective state of mind – has a long history. Admittedly, it is, on occasion, a fine distinction and one that is not always clearly drawn. Nonetheless, Parliament is taken to have been cognizant of the distinction.
+[41] In Wynter, Justice Rennie explained that a taxpayer will fall under the “knowingly” standard, not only when the taxpayer actually intends to make a false statement but also when the taxpayer becomes aware of the need for inquiry but declines to make the inquiry because the taxpayer does not want to know the truth or wants to studiously avoid the truth. In these circumstances, the doctrine of wilful blindness imputes knowledge to the taxpayer:
+[13] A taxpayer is wilfully blind in circumstances where the taxpayer becomes aware of the need for inquiry but declines to make the inquiry because the taxpayer does not want to know, or studiously avoids, the truth. The concept is one of deliberate ignorance: R. v. Briscoe, 2010 SCC 13 at paras. 23-24, [2010] 1 S.C.R. 411 (Briscoe); Sansregret at para. 24. In these circumstances, the doctrine of wilful blindness imputes knowledge to a taxpayer: Briscoe at para. 21. Wilful blindness is the doctrine or mechanism by which the knowledge requirement under subsection 163(2) is met.
+. . .
+[16] In sum, the law will impute knowledge to a taxpayer who, in circumstances that suggest inquiry should be made, chooses not to do so. The knowledge requirement is satisfied through the choice of the taxpayer not to inquire, not through a positive finding of an intention to cheat.
+[17] While evidence, for example, of an actual intent to make a false statement would suffice to meet the “knowingly” requirement of subsection 163(2), requiring an intention to cheat to establish wilful blindness is inconsistent with the well-established jurisprudence that wilful blindness pivots on a finding that the taxpayer deliberately chose not to make inquiries in order to avoid verifying that which might be such an inconvenient truth. The essential factual element is a finding of deliberate ignorance, as it “connotes ‘an actual process of suppressing a suspicion’”: Briscoe at para. 24. I would add that, in the context of subsection 163(2), references to “an intention to cheat” are a distraction. The gravamen of the offence under subsection 163(2) is making of a false statement, knowing (actually or constructively, i.e., through wilful blindness) that it is false.
+[42] As is stated by Justice Rennie in Wynter, the standard of “gross negligence” is distinct from “wilful blindness”. Gross negligence arises where the taxpayer’s conduct is found to fall markedly below what would be expected of a reasonable taxpayer. Simply put, if the wilfully blind taxpayer knew better, the grossly negligent taxpayer ought to have known better.
+[43] The seminal decision on what constitutes gross negligence under subsection 163(2) of the Act is the Federal Court’s decision in Venne v The Queen. [2] Justice Strayer described what constitutes gross negligence in the following terms:
+Gross negligence must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not.
+[44] Wilful blindness will be established if the respondent establishes on a balance of probabilities that the taxpayer subjectively knew that the statements in his or her income tax return were false but chose not to make further inquiries because he or she subjectively knew or strongly suspected that the inquiries would provide him or her with the knowledge that the statements were indeed false. [3] Since it is a subjective test, the personal attributes of the individual may be considered in determining whether the individual is wilfully blind. [4]
+[45] On the other hand, the “gross negligence” standard is an objective test. Gross negligence will be established by taking into account the expected conduct of a reasonable person in the same circumstances. Consequently, the personal attributes of a taxpayer should not be taken into account. [5] This Court has stated that the burden on the Crown is to prove on a balance of probabilities that the conduct of a taxpayer represented a marked and substantial departure from the conduct of a reasonable person in the same circumstances. In Sidhu v The Queen, [6] Justice Hershfield stated as follows:
+. . . The burden here is not to prove, beyond a reasonable doubt, mens rea to evade taxes. The burden is to prove on a balance of probability such an indifference to appropriate and reasonable diligence in a self-assessing system as belies or offends common sense. . . .
+B. Position of the Parties and Application of the Law to the Facts
+(1) Knowingly and the Application of the Doctrine of Wilful Blindness
+[46] I will start by determining if the appellant “knowingly” made false statements in his income tax returns pursuant to subsection 163(2) of the Act. More particularly, I will examine if the doctrine of wilful blindness applies to the facts of this appeal.
+[47] The respondent argues that the appellant was wilfully blind. The appellant admitted that the instructions given by Fiscal Arbitrators were strange. The appellant also admitted asking more than once Mr. Watts from Fiscal Arbitrators if his income tax returns were legal. Despite, the appellant being suspicious, he decided not to inquire about the filing method of Fiscal Arbitrators. In addition, the false statements in the appellant’s income tax returns were easily detectible. The appellant knew that he was not operating a business his 2008 and 2009 taxation years. Notwithstanding this fact, the appellant signed and filed his income tax returns claiming large business losses. The respondent also submits that the information contained in the Statement of Agent Activities enclosed in the appellant’s income tax returns was not only incomprehensible but blatantly false. The respondent argues that the facts demonstrate that the appellant chose to ignore the warning signs or the flashing red lights suggesting to the appellant to inquire. The respondent submits that the appellant was wilfully blind.
+[48] In response, the appellant argues that the Court has to take into account that the appellant had a grade 10 education and was not knowledgeable with respect to tax matters. He never prepared his own income tax returns, but instead always relied upon tax preparers. The appellant attended three seminars held by Fiscal Arbitrators and was impressed by the professionalism of Mr. Watts, his knowledge of the Act, and how he was able to answer all the questions from the people who attended. Accordingly, the appellant had no reason not to trust Mr. Watts and the filing method used by Fiscal Arbitrators. The appellant believed that he was entitled to receive refunds and that the filing method used by Fiscal Arbitrators was legal.
+[49] The appellant argues that he did not know that he was making false statements in his income tax returns for the 2008 and 2009 and that he was not wilfully blind.
+[50] The appellant argues that he did not ignore the warning signs or the flashing red lights. Upon reviewing his income tax return for 2008, he inquired as to why a business loss was being claimed. He called Mr. Watts of Fiscal Arbitrators and was reassured by Mr. Watts that the business loss could be claimed. He also asked why he had to write the word “per” before his signature. The appellant stated that Mr. Watts’ answers to his question explanations were plausible at the time.
+[51] The same is true for the appellant’s 2009 taxation year. The appellant felt even more confident in the filing method used by Fiscal Arbitrators since by then, he had received a refund for his 2008 taxation year.
+[52] As I stated earlier, the law will impute knowledge where the factual circumstances suggest that an inquiry should be made, but the taxpayer chooses not to do so since the taxpayer knows or strongly suspects that the inquiry will provide him or her with the knowledge that the statements are indeed false. In such circumstances, the taxpayer is wilfully blind. In the decision of Torres v HMQ, [7] Justice C. Miller of this Court had to decide if the doctrine of wilful blindness applied to a group of taxpayers who used Fiscal Arbitrators as their tax preparers. Justice C. Miller enumerated a list of considerations to be taken into account in determining whether the doctrine of wilful blindness applies to a taxpayer:
+. . .
+c) In determining wilful blindness, consideration must be given to the education and experience of the taxpayer.
+d) To find wilful blindness there must be a need or a suspicion for an inquiry.
+e) Circumstances that would indicate a need for an inquiry prior to filing, or flashing red lights as I called it in the Bhatti decision, include the following:
+i) the magnitude of the advantage or omission;
+ii) the blatantness of the false statement and how readily detectable it is;
+iii) the lack of acknowledgment by the tax preparer who prepared the return in the return itself;
+iv) unusual requests made by the tax preparer;
+v) the tax preparer being previously unknown to the taxpayer;
+vi) incomprehensible explanations by the tax preparer;
+vii) whether others engaged the tax preparer or warned against doing so, or the taxpayer himself or herself expresses concern about telling others.
+f) The final requirement for wilful blindness is that the taxpayer makes no inquiry of the tax preparer to understand the return, nor makes any inquiry of a third party, nor the CRA itself.
+(2) Education and experience
+[53] Although the appellant has a grade 10 education, he had considerable experience in the business world and had achieved success in it. He had been working in Bradshaw Ironworks since he was 18 years old and had been the owner and operator of it with his brother since 2000. The appellant had important responsibilities at Bradshaw Ironworks namely, supervising employees, delegating work, scheduling work shifts and ensuring that safety measures were respected. He also had daily meetings with his brother to discuss issues dealing with the corporation, including financial ones. He testified that it was important for him to know if the corporation was making or losing money. What the appellant may have lacked in education, he clearly made up for in experience.
+[54] In addition, the appellant’s income tax returns over the years reflected an entrepreneurial side. His tax returns from 1987 to 2009 show in addition to his employment income and bonuses, income arising from dividends, interest, capital gains, and share dispositions. His income tax returns also showed partnerships losses and rental income or losses.
+[55] In my view, the appellant cannot rely on his lack of formal education to argue that he was not wilfully blind. As I have already noted, he was an experienced business person. The appellant was well aware that he could not deduct business losses since he knew he was not operating a business. The appellant admitted that he knew that the losses had nothing to do with Bradshaw Ironworks. He knew what was meant by being an agent. He was also aware of the difference between being an employee and being in business. He understood the concept of profit or loss since it was important for him to know if Bradshaw Ironworks was “making or losing money”.
+(3) Suspicion or need to make an inquiry
+[56] The appellant argues that he did inquire about the information contained in his income tax returns prepared by Fiscal Arbitrators. He submits that upon noticing that a business loss in the amount of $821,022.50 was claimed in his 2008 tax return, he called Mr. Watts of Fiscal Arbitrators to find out why the loss was being claimed. Mr. Watts’ response to the appellant was that “everybody is a corporation”. The appellant did not question Mr. Watts’ response. He testified that at the time, he was satisfied with the answer although in cross-examination, he admitted that he knew that the employees working for Bradshaw Ironworks were not corporations. In my view, the answer provided by Mr. Watts should have caused the appellant to inquire about the filing method of Fiscal Arbitrators.
+[57] In addition, the appellant testified that he asked Mr. Watts more than once if his “income tax return was legal”. Mr. Watts’ answer was that it was “perfectly legal”. It is clear from the evidence that the appellant was suspicious. He kept asking the same questions because he had doubts that the filing method of Fiscal Arbitrators was legitimate. These suspicions or the doubts should have led the appellant to inquire about the filing method of Fiscal Arbitrators.
+[58] I will now analyse if there were other warning signs or flashing red lights that should have brought the appellant to inquire with the CRA or other professionals concerning the filing method used by Fiscal Arbitrators
+(i) Magnitude of the advantage
+[59] The appellant admitted that he never operated a business during the 2008 and 2009 taxation years. That said, during the taxation years 2008 and 2009, the appellant claimed as net business losses the amounts of $821,022.50 and $89,982.16 respectively, and as result the appellant claimed refunds amounting to $29,457.08 and $26,277.53 respectively. However, the filing history of the appellant shows that from 1987 to 2007, he never claimed a business loss and the largest refund he claimed was $3,949.66.
+[60] In addition, in 2008 the appellant filed a “Request for Loss Carryback” requesting that the amounts of $146,768.00, $267,506.00 and $243,099.00 be carried back to his 2005, 2006 and 2007 taxation years respectively. This would have resulted in a refund of all the income tax paid in his 2005, 2006 and 2007 taxation years.
+[61] Suddenly, without a change in his working habits or sources of income, by using Fiscal Arbitrators as his tax preparer, the appellant became somehow entitled to claim large business losses and refunds for his 2008 and 2009 taxation years. In addition, the appellant would have received all the taxes he paid in his 2005, 2006 and 2007 taxation years. In my view, the magnitude of amounts claimed should have led the appellant to inquire about the filing method of Fiscal Arbitrators.
+(ii) Blatant false statements - How readily detectible
+[62] The appellant admitted that he was not operating a business in his 2008 and 2009 taxation years. He also admitted that he knew that the business losses did not have anything to do with Bradshaw Ironworks, since he was an employee of Bradshaw Ironworks.
+[63] He also admitted that he had not received any income for services provided as an agent in his 2008 and 2009 taxation years. Yet while knowing that he was not operating any business, the appellant nevertheless signed his income tax returns claiming large business losses for the 2008 and 2009 taxation years without further inquiry.
+[64] Even if the appellant believed that he was entitled to receive large refunds, he knew that some statements in his income tax returns were blatantly false. These false statements were easily detectible.
+[65] In addition, the letter to the appellant from CRA dated May 21, 2010 had to be a warning sign. The letter advised the appellant that “the CRA does not support the participation in arrangement that attempts to avoid paying income tax resulting from an arrangement wherein the taxpayer deems himself to the principal for the agent”. Moreover, the letter stated that the CRA was considering imposing penalties under subsection 163(2) of the Act for his 2008 taxation year. On June 7, 2010, two weeks after the CRA letter, the appellant went ahead and signed his income tax return for the 2009 taxation year, wherein he reported fictitious income as principal to agent, and fictitious business losses.
+[66] In my view, there were enough blatantly false statements in the appellant’s income tax returns for his 2008 and 2009 taxation years, to prompt him to inquire about the filing method used by Fiscal Arbitrators.
+(iii) Tax preparer does not acknowledge preparing return
+[67] In the income tax returns of the appellant, neither Mr. Watts nor other representative of Fiscal Arbitrators completed the box for tax professionals. This box, on the last page of the return, is right beside the box where the appellant certified that the information in the return was correct, put the date and signed his name. The tax professional box was left empty. Although this factor may seem minor, when considered cumulatively with the other factors, it is still another warning sign that the appellant chose to ignore.
+(iv) Tax preparer makes unusual requests
+[68] The appellant was instructed by Fiscal Arbitrators to add the word “per” before his signature in his income tax returns. The appellant asked Mr. Watts of Fiscal Arbitrators why he had to do so. Mr. Watts’ response was that it was a technical legality. The appellant was satisfied with this response. However, at trial the appellant admitted that his previous tax preparer, WMKL had never asked him to add the word “per” before his signature.
+[69] In addition, the appellant was asked to provide to Fiscal Arbitrators a list of his personal expenses and receipts in order to prepare his income tax returns. The appellant testified that he could not recall WMKL making such a request.
+(v) Tax preparer previously unknown to taxpayer
+[70] The evidence showed that the appellant knew very little about Fiscal Arbitrators before retaining them and made limited efforts to find out more.
+[71] The appellant did not know of Fiscal Arbitrators or its representatives Mr. Watts and Mr. Branch, before November 2018. It was around that time that the appellant was introduced to Fiscal Arbitrators by the Brauns. He met the Brauns at a seminar promoting donation programs. The appellant stated that he did not know if the Brauns hired Fiscal Arbitrators as their tax preparers. He had not kept in touch with them.
+[72] The appellant did not research the credentials of Fiscal Arbitrators, Mr. Watts or Mr. Branch. The appellant never consulted the CRA or his previous tax preparer, WMKL, to determine if the filing method used by Fiscal Arbitrators was legitimate. The appellant’s knowledge of Fiscal Arbitrators was based on his attendance at three seminars where he was impressed by Mr. Watts’ knowledge and how he was able to answers the questions of the people attending the seminars.
+[73] As was stated by Justice C. Miller in Torres, [8] the fact that the tax preparer is previously unknown to the taxpayer is “again this is one of those factors that by itself does not raise strong alarms, but when taken in conjunction with all other factors, the alarm bell is deafening”. That is the case here – it is a factor that adds to the strength of the alarm bell.
+(vi) Explanation by tax preparer regarding false statement is incomprehensible
+[74] The appellant could not explain the filing method used by Fiscal Arbitrators. He could not explain the Statement of Agent Activities submitted with his 2008 income tax return. Nor could he recall if he had questioned Mr. Watts with respect to the Statement of Agent Activities.
+[75] The Statement of Agent Activities is simply incomprehensible. It defies logic. The appellant is identified as both the principal and the agent. The appellant’s social insurance number is identified beside the heading “Business (Social Insurance) Number”. The appellant, being a business person, knows that businesses do not have a social insurance number. The gross receipts are described as “Money collected as Agents from Principals and reported by third party”. The gross receipts are further defined in the Statement of Agent Activities as “amounts collected and exchanged are as per private contract.” No contract was filed in evidence at trial. Expenses are described as “subcontracts and labour expenses-amount to principal in exchange of labour” for an amount of $652,918.50. To this amount are added the T4’s, T5’s and T3’s slips and a net business loss of $821,022.48 is reported.
+[76] At the bottom of the Statement of Agent Activities, the following sentence is found: “This statement prepared by the principal, is your original receipt.” After that sentence, the appellant Statement of Agent Activities is certified by the appellant in following terms: “I am the principal for the agent, Jeff Bradshaw and declared that all information to be complete and accurate.”
+[77] Only a glance at the Statement of Agency Activities is sufficient to cause the red light to flash. However, the appellant chose to ignore it. The appellant was so taken by the refunds that he did not want to find out the truth about the method Fiscal Arbitrators used in his income tax returns. As was the situation in Torres, [9] as long as the refunds were forthcoming, the appellant did not want to understand:
+. . . As long as the refund is forthcoming there is no need to understand the detail appears to be the approach, no need to understand the Statement of Business Activities or Agent Activities, for example, which the Appellants certified as correct. This is simply not good enough.
+[78] The appellant argues that the appellant was duped by Fiscal Arbitrators and that it was not his intention to cheat the system. As was stated by Justice Rennie in Wynter, [10] requiring an intention to cheat to establish wilful blindness is inconsistent with the well-established jurisprudence that wilful blindness pivots on a finding that the taxpayer deliberately chose not to make inquiries in order to avoid verifying that which might be such an inconvenient truth.
+[79] The appellant argued that he did make some inquiries. He asked Mr. Watts questions about some information found in his returns, namely why a claim of business losses was being made. In my view, the response given to the appellant by Mr. Watts should have raised more suspicions and more inquiry by the appellant. The appellant knew “that everybody is not a corporation”.
+[80] Taking into account the above facts, I find that the appellant was wilfully blind. Despite the clear warning signs which called out for further inquiry, he chose not to make any as he did not want to find out the truth about the filing method used by Fiscal Arbitrators, as long as the refunds were forthcoming.
+[81] Accordingly, the appellant is liable for a penalty under the “knowingly” standard of subsection 163(2) of the Act for his 2008 and 2009 taxation years, since the doctrine of wilful blindness applies to the facts of this appeal.
+(vii) False statements amounting to gross negligence
+[82] If my above conclusion is incorrect, the appellant would still be liable for penalties under the second standard of subsection 163(2) of the Act “false statements amounting to gross negligence” for his 2008 and 2009 taxation years.
+[83] Gross negligence is established by taking into account the expected conduct of a reasonable person in the same circumstances. In this appeal, the appellant has to be measured against a taxpayer with the same business experience, namely, a person owning and operating a corporation for approximately eight years. Consequently, the personal attributes of a taxpayer are not being taken into account.
+[84] I will not repeat the facts. Suffice to say that a reasonable person in the same circumstances would have not signed and filed income tax returns claiming large business losses, knowing that he or she is not entitled to claim the business losses since he or she is not operating a business. A reasonable person would have not accepted the explanation of Fiscal Arbitrators that “everybody is a corporation”. A business person ought to know the difference between an employee and a corporation and that “everybody is not a corporation”. In addition, a reasonable person would have not certified the Statement of Agent Activities. The latter statement contained numerous false statements, deficiencies and overall was nonsensical. A reasonable person in the same circumstances would not sign and file his or her income tax returns whereby large refunds are claimed without understanding the filing method used by the tax preparer to obtain these refunds.
+[85] Given the extraordinary tax result involved and the false statements contained in the material provided by Fiscal Arbitrators, a reasonable person in the same circumstances as the appellant, would have asked for some form of independent verification that the filing position being taken was legitimate. More particularly, in light of the May 21, 2010 warning letter received by the appellant from the CRA, whereby he was advised by the CRA, that penalties under subsection 163(2) of the Act could be assessed, since “the CRA did not support the participation in arrangement that attempts to avoid paying income tax resulting from an arrangement wherein the taxpayer deems himself to be the principal for the agent”.
+[86] In my view, the conduct of the appellant in signing and filing his income tax returns and the “Request for Loss Carryback” represented a marked and substantial departure from the expected conduct of a reasonable person in the same circumstances. Therefore, I find that the appellant made false statements in his income tax returns under circumstances amounting to gross negligence pursuant to subsection 163(2) of the Act, for his 2008 and 2009 taxation years.
+IV. Conclusion
+[87] The appeal for the appellant’s 2008 and 2009 taxation years is dismissed with costs to the Respondent in accordance with the Tariff.
+Signed at Montreal, Quebec, this 3rd day of January 2019.
+“Johanne D’Auray”
+D’Auray J.
+CITATION:
+2019 TCC 1
+COURT FILE NO.:
+2012-4744(IT)G
+STYLE OF CAUSE:
+JEFF BRADSHAW v HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Hamilton, Ontario
+DATE OF HEARING:
+September 20, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Johanne D’Auray
+DATE OF JUDGMENT:
+January 3, 2019
+APPEARANCES:
+Counsel for the Appellant:
+Craig Burley
+Counsel for the Respondent:
+Meaghan Mahadeo
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Craig Burley
+Firm:
+Craig Burley
+Barrister and Solicitor
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Wynter v The Queen, 2017 FCA 195.
+[2] Venne v The Queen, [1984] CTC 223 at paragraph 37.
+[3] Sansregret v The Queen, [1985] 1 S.C.R. 570 at 584, R v Jorgensen, [1995] 4 S.C.R. 55 at paragraphs 102 and 103, and Briscoe v The Queen, [2010] 1 S.C.R. 411 at paragraphs 21 to 23.
+[4] Peck v The Queen, 2018 TCC 52 at paragraph 50.
+[5] Unless the individual established that he or she is incapable of understanding the risk the individual failed to avoid, namely evidence establishing that a taxpayer could not understand the obligation placed on him or her by Canada’s self-assessment income tax system.
+[6] Sidhu v The Queen, 2004 TCC 174.
+[7] Torres v The Queen, 2013 TCC 380, confirmed by the Federal Court of Appeal in Strachan v HMQ, 2015 FCA 60.
+[8] Torres v The Queen, supra, at paragraph 69.
+[9] Torres v The Queen, supra at paragraph 69 f).
+[10] Wynter v The Queen, supra note 1.

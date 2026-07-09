@@ -1,0 +1,167 @@
+Title: I.G. (ROCKIES) Corp. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26230/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-51-26230-i-g-rockies-corp-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2005-02-09
+
+# I.G. (ROCKIES) Corp. v. The Queen
+
+- Citation: 2005 CCI 51
+- Decision date: 2005-02-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4027, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+I.G. (ROCKIES) Corp. v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-02-09
+Référence neutre
+2005 CCI 51
+Numéro de dossier
+2004-1532(IT)I
+Juges et Officiers taxateurs
+Gordon Teskey
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004‑1532(IT)I
+ENTRE :
+I.G. (ROCKIES) CORP.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu à Calgary (Alberta), le 16 décembre 2004.
+Devant : L’honorable juge Gordon Teskey
+Comparutions :
+Avocat de l’appelante :
+Me David E. Spiro
+Avocate de l’intimée :
+Me Lesley Akst
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2002 est admis avec dépens et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que les intérêts de 66 697 $ doivent être annulés et que des intérêts d’un montant de 1 564 589,58 $, calculés au taux prescrit pour les cinq jours de retard au mois d’avril 2002, doivent être ajoutés à la cotisation, le tout selon les motifs de jugement ci‑joints.
+Signé à Toronto (Ontario), ce 9e jour de février 2005.
+« Gordon Teskey »
+Juge Teskey
+Traduction certifiée conforme
+ce 9e jour de février 2006.
+Sara Tasset
+Référence : 2005CCI51
+Date : 20050209
+Dossier : 2004‑1532(IT)I
+ENTRE :
+I.G. (ROCKIES) CORP.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Teskey
+[1] Dans son avis d’appel, par lequel elle interjetait appel d’une cotisation établie en vertu de la Loi de l’impôt sur le revenu (la « Loi ») pour l’exercice ayant pris fin le 31 décembre 2002, l’appelante a choisi la procédure informelle.
+Point litigieux
+[2] Il s’agit uniquement de savoir quelle interprétation il convient de donner aux paragraphes 157(1), 161(2) et 161(4.1) de la Loi.
+[3] Le paragraphe 157(1) est la disposition de la Loi qui exige que les sociétés versent des acomptes provisionnels au titre de l’impôt. Il prévoit trois choix différents; il est rédigé comme suit :
+157(1) Paiements à faire par les sociétés – Toute société doit verser au receveur général, pour chacune de ses années d’imposition :
+a) un des montants suivants :
+(i) un montant égal à 1/12 du total des montants qu’elle estime être ses impôts payables en vertu de la présente partie et des parties I.3, VI, VI.1 et XIII.1 pour l’année, au plus tard le dernier jour de chaque mois de l’année,
+(ii) un montant égal à 1/12 de sa première base des acomptes provisionnels pour l’année au plus tard le dernier jour de chaque mois de l’année,
+(iii) un montant égal à 1/12 de sa deuxième base des acomptes provisionnels pour l’année, au plus tard le dernier jour de chacun des deux premiers mois de l’année, et un montant égal à 1/10 du restant une fois déduit de sa première base des acomptes provisionnels pour l’année le montant calculé en vertu du présent sous‑alinéa pour les deux premiers mois, au plus tard le dernier jour de chacun des 10 mois suivants de l’année;
+b) le solde de ses impôts payables pour l’année en vertu de la présente partie et des parties I.3, VI, VI.1 et XIII.1 au plus tard à la date d’exigibilité du solde qui lui est applicable pour l’année.
+[4] J’appellerai (i) le « choix 1 », (ii) le « choix 2 » et (iii) le « choix 3 ».
+[5] Le paragraphe 161(2) de la Loi est la disposition qui permet au ministre du Revenu national (le « ministre ») d’établir des intérêts à l’égard d’une société qui a omis de payer tout ou partie des acomptes provisionnels qu’elle devait verser; cette disposition prévoit ce qui suit :
+161(2) Intérêts sur acomptes provisionnels — Un contribuable qui n’a pas payé au plus tard à la date où il en est tenu tout ou partie d’un acompte provisionnel ou d’une fraction d’impôt qu’il est tenu de payer en vertu de la présente partie doit verser au receveur général, outre les intérêts payables en vertu du paragraphe (1), des intérêts sur le montant qu’il n’a pas payé, calculés au taux prescrit pour la période allant de la date où ce montant devait au plus tard être payé jusqu’à la date du paiement ou jusqu’au début de la période pour laquelle il est tenu de payer des intérêts sur ce montant en vertu du paragraphe (1), si ce début est antérieur.
+[6] Le paragraphe 161(4.1), sous le titre « Restriction applicable aux sociétés », limite la façon dont les intérêts exigés à la suite d’un défaut doivent être calculés; cette disposition prévoit ce qui suit :
+(4.1) Restriction applicable aux sociétés. Pour l’application du paragraphe (2) et de l’article 163.1, la société qui est tenue de payer, pour une année d’imposition, quelque fraction ou acompte provisionnel d’impôt, calculé selon une méthode visée au paragraphe 157(1), est réputée être tenue de payer, dans le délai prévu aux sous‑alinéas 157(1)a)(i) à (iii), une fraction ou un acompte provisionnel, calculé par rapport à l’un des montants suivants et réduit du montant éventuel déterminé à son égard pour l’année selon l’un des alinéas 157(3)b) à d), selon ce qui aboutit au total le moins élevé de ces fractions ou acomptes pour l’année :
+a) le total de ses impôts payables pour l’année en vertu de la présente partie et des parties I.3, VI et VI.1, calculés avant la prise en compte des conséquences fiscales futures déterminées pour l’année;
+b) sa première base des acomptes provisionnels pour l’année;
+c) sa deuxième base des acomptes provisionnels et sa première base des acomptes provisionnels, pour l’année.
+Les faits
+[7] L’impôt de l’appelante pour l’exercice ayant pris fin le 31 décembre 2002 s’élevait à 18 775 075 $.
+[8] Étant donné que l’appelante n’a été constituée qu’au milieu de l’année 2001, il n’y avait de base d’acomptes provisionnels pour la deuxième année précédente. Par conséquent, pour la deuxième année précédente, la base des acomptes provisionnels est nulle.
+[9] L’appelante était tenue de verser des acomptes provisionnels au titre de l’impôt pour l’exercice ayant pris fin le 31 décembre 2002.
+[10] Le choix 1 aurait obligé l’appelante à payer un montant de 1 564 589,58 $ le dernier jour de chaque mois de l’année.
+[11] Douze versements de 1 564 589,58 $ s’élèveraient en tout à 18 775 074,96 $.
+[12] L’appelante a décidé d’effectuer des paiements selon le choix 3 prévu au paragraphe 157(1), ce qui l’obligeait à verser 2 030 697 $ le dernier jour du mois de mars 2002 et le dernier jour de chaque mois par la suite; si le montant avait été versé au complet, les paiements se seraient élevés à 20 306 970 $ en tout. Étant donné que la base des acomptes provisionnels pour la deuxième année précédente est nulle, aucun paiement n’avait à être effectué au mois de janvier ou de février de l’année 2002. L’intimée n’a pas contesté ce point.
+[13] Le paiement de 2 030 697 $ qui était dû le dernier jour du mois de mars 2002 a été effectué le 5 avril 2002, soit cinq jours en retard.
+[14] Le paiement du 31 décembre ne s’élevait qu’à 730 697 $ et il manquait donc 1 300 000 $. L’appelante a versé par acomptes provisionnels un montant de 19 006 970 $ en tout.
+[15] La cotisation d’impôt n’est pas contestée; c’est l’ajout d’un montant de 66 697,86 $ au titre des intérêts qui est contesté.
+Fondement de la cotisation et position prise par l’intimée
+[16] Selon la position prise par l’intimée, le paragraphe 161(4.1) exige qu’une société verse des acomptes provisionnels en utilisant le choix prévu au paragraphe 157(1) qui donne lieu au montant total d’impôt le moins élevé.
+[17] Étant donné qu’une société contribuable doit effectuer le choix prévu au paragraphe 157(1) qui donne lieu au montant total d’impôt le moins élevé, l’appelante aurait dû verser, conformément au choix 1, douze paiements égaux de 1 564 589,58 $. Le ministre a exigé des intérêts sur deux paiements non effectués qui, selon lui, étaient dus à la fin des mois de janvier et de février 2002.
+[18] On a demandé à l’avocate de l’intimée si, dans le cas où l’appelante aurait effectué à temps le paiement du mois de mars et où elle avait payé au complet le montant dû au mois de décembre, la position prise par le ministre aurait été la même. L’avocate a répondu par l’affirmative; le contribuable doit effectuer le choix qui donne lieu au montant d’impôt le moins élevé.
+Position de l’appelante
+[19] L’appelante soutient que le paragraphe 157(1) confère à la société contribuable le droit d’utiliser le choix 1, 2 ou 3, et que le paragraphe 161(4.1) est une disposition restrictive et prévoit que le ministre établit des intérêts sur les paiements qui auraient dû être effectués et qui ne l’ont pas été et qui produiraient le montant d’impôt le moins élevé.
+[20] Si le législateur voulait obliger une société à utiliser le choix qui donne lieu au montant d’impôt le moins élevé, des mots semblables à ceux qui se trouvent au paragraphe 161(4.1) auraient été insérés dans le paragraphe 157(1), après le sous‑alinéa a)(iii), à savoir : « selon ce qui aboutit au total le moins élevé de ces fractions ou acomptes pour l’année ».
+Analyse
+[21] Voici ce que le juge en chef Anglin a dit dans un arrêt de la Cour suprême du Canada, Canada Westinghouse Co. Ltd. v. Grant, [1927] S.C.R. 625, page 630 : [traduction] « L’abrogation implicite n’est jamais favorisée. [...] »
+[22] Dans l’arrêt Duval v. The King, (1938) 64 Que K.B. 270, la Cour d’appel du Québec a dit ce qui suit, à la page 273, lorsqu’elle examinait une loi qui n’avait jamais officiellement été abrogée :
+[traduction] L’abrogation implicite n’est pas favorisée. Il existe une présomption raisonnable voulant que le législateur n’ait pas l’intention de conserver des textes réellement contradictoires dans les recueils de lois ou, d’autre part, de prendre une mesure aussi importante que l’abrogation d’une loi sans exprimer son intention de le faire. Une telle interprétation ne doit donc être adoptée que dans le cas où elle est inévitable. Toute interprétation raisonnable qui permet d’y échapper est probablement plus conforme à l’intention réelle.
+[23] Le juge Iacobucci a dit ce qui suit dans un arrêt de la Cour suprême du Canada, Ludco Enterprises c. La Reine, [2001] 2 R.C.S. 1082, page 1100, sous le titre « Les principes d’interprétation législative » :
+B. Les principes d’interprétation législative
+36 La règle moderne en matière d’interprétation législative a été énoncée de manière succincte par E. A. Driedger dans l’ouvrage Construction of Statutes (2e éd. 1983), p. 87 :
+[traduction] Aujourd’hui il n’y a qu’un seul principe ou solution : il faut lire les termes d’une loi dans leur contexte global en suivant le sens ordinaire et grammatical qui s’harmonise avec l’esprit de la loi, l’objet de la loi et l’intention du législateur…
+[24] L’intimée s’est référée à une décision rendue par mon collègue le juge Beaubier dans l’affaire Premay Equipment Ltd. v. The Queen, publiée le 11 février 2004 (2004 UDTC 58). Voici ce que le juge Beaubier a dit au paragraphe 6 :
+Cependant, l’avocat de l’intimée a souligné que le paragraphe 161(4.1) traite des intérêts sur les acomptes provisionnels, et non des acomptes provisionnels comme tels.
+[25] Le juge a ajouté ce qui suit au paragraphe 8 :
+Toutefois, la Loi de l’impôt sur le revenu est conçue pour être appliquée de façon générale. Il incombe au contribuable de choisir la méthode d’acomptes provisionnels et de l’appliquer correctement. Il est vrai que le contribuable a fait une erreur concernant ses deux premiers acomptes provisionnels. Si la méthode utilisée ne correspond pas aux résultats prévus au paragraphe 161(4.1), qu’elle ait été choisie de bonne foi ou de mauvaise foi, des intérêts sont exigibles. C’est le cas ici.
+[26] Il me semble que la deuxième phrase va à l’encontre de la quatrième phrase du paragraphe 8 précité, et je ne sais donc pas trop ce que cette décision dit réellement. Si elle étaye la position prise par l’intimée en l’espèce, avec égards, je ne suis pas d’accord.
+[27] Si une société effectue un choix en ce qui concerne les acomptes provisionnels et si elle l’utilise correctement et qu’elle effectue les paiements exacts à temps selon le choix effectué, même si ce choix ne donne pas lieu au montant payable le moins élevé, cela met un point final à l’affaire, étant donné qu’aucun intérêt ne serait payable.
+[28] Je suis donc d’accord avec mon collègue dans la mesure où une société peut effectuer l’un des trois choix prévus au paragraphe 157(1); si ce choix est utilisé correctement et si le paiement est effectué à temps, cela met un point final à l’affaire (dans la mesure où c’est ce qui a été décidé).
+[29] Il semble que mon collègue le juge Taylor, maintenant décédé, ait dit ce qui suit dans une décision de 1984, Genstar Marine Ltd. and Seaspan International Ltd. (Appellants) v. Minister of National Revenue, 84 DTC 1075, lorsqu’il a examiné ces mêmes dispositions :
+[...] De la façon dont je comprends les articles 157 et 161, si une société a légitimement la possibilité de choisir une méthode pour effectuer le versement provisionnel à la date cruciale (le dernier jour du premier mois de l’exercice) et si elle a payé les acomptes selon cette méthode, le Ministre ne dispose d’aucun recours pour réexaminer ce choix à la lumière des renseignements obtenus par la suite (par exemple, le profit réel par rapport au profit estimé) ou pour décider que la société aurait dû choisir une méthode différente pour effectuer les versements provisionnels. [...]
+[30] Dans cet appel, l’appelante a accusé un retard de cinq jours à l’égard du paiement du mois de mars et le paiement du mois de décembre n’était pas suffisant selon le choix 3.
+[31] L’interprétation du paragraphe 161(4.1) de la Loi doit être compatible avec le paragraphe 157(1). Une telle interprétation peut uniquement être donnée si l’on applique les paragraphes 161(2) et 161(4.1) après avoir appliqué le paragraphe 157(1).
+[32] Je ne souscris pas à la position prise par l’intimée lorsqu’elle dit que le paragraphe 161(4.1) limite le choix de la société à celui qui donne lieu au montant d’impôt le moins élevé. Une telle interprétation va à l’encontre de l’intention évidente du législateur.
+[33] Je suis convaincu, en lisant le paragraphe 161(4.1) dans son contexte global en suivant le sens ordinaire et grammatical, qui s’harmonise avec l’esprit de la Loi, l’objet de la Loi et l’intention du législateur, qu’il est clair que si le législateur voulait que le paragraphe 157(1) exige qu’une société utilise uniquement la méthode qui donnerait lieu au paiement du montant total d’impôt le moins élevé, il aurait inclus un texte clair en ce sens dans le corps du paragraphe 157(1) lui‑même.
+[34] L’appelante a accusé cinq jours de retard en effectuant le paiement du mois de mars, d’un montant de 2 030 697 $. Le paragraphe 161(4.1) limite le montant des intérêts que le ministre peut exiger aux intérêts sur le paiement qui aurait représenté le montant total d’impôt le moins élevé. En l’espèce, ce montant était de 1 564 589,50 $. Par conséquent, les intérêts auraient dû être établis conformément au paragraphe 161(4.1) sur le montant de 1 564 589,50 $, calculés au taux prescrit pour cinq jours.
+[35] Il manquait 1 300 000 $ au paiement du 31 décembre. Pourtant, à cette date‑là, l’impôt payable était de 18 775 075 $ et l’appelante avait payé un montant total de 19 006 970 $.
+[36] La question qui se pose est donc la suivante : l’appelante devrait‑elle se voir imposer des intérêts sur le montant de 833 892,50 $ (soit 1 564 589,50 $ moins 730 697 $ = 833 892,50 $) à la date d’échéance pour la production de sa déclaration de société, alors qu’en fait elle a versé en trop un montant de 231 895 $ au titre de l’impôt? Aucun argument n’a été invoqué sur ce point. Je ne crois pas que des intérêts doivent courir sur le montant de 834 590 $ étant donné qu’à ce moment‑là, l’appelante avait versé en trop un montant de 231 895 $ au titre de son impôt de l’année 2002.
+[37] Je suis convaincu que, conformément au paragraphe 164(1) de la Loi, l’appelante a droit à un remboursement du paiement en trop de l’impôt et des intérêts y afférents conformément au paragraphe 164(3); par conséquent, même s’il manquait 1 300 000 $ au paiement du mois de décembre selon le choix 3, il n’existe aucune obligation à cet égard.
+[38] L’appel est admis avec dépens et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que les intérêts d’un montant de 66 697,86 $ doivent être annulés et que des intérêts sur le montant de 1 564 589,58 $, calculés au taux prescrit pour les cinq jours de retard au mois d’avril 2002, doivent être ajoutés à la cotisation.
+Signé à Toronto (Ontario), ce 9e jour de février 2005.
+« Gordon Teskey »
+Juge Teskey
+Traduction certifiée conforme
+ce 9e jour de février 2006.
+Sara Tasset
+RÉFÉRENCE :
+2005CCI51
+No DU DOSSIER DE LA COUR :
+2004‑1532(IT)I
+INTITULÉ :
+I.G. (Rockies) Corp. et
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Calgary (Alberta)
+DATE DE L’AUDIENCE :
+Le 16 décembre 2004
+MOTIFS DU JUGEMENT :
+L’honorable juge Gordon Teskey
+DATE DU JUGEMENT :
+Le 9 février 2005
+COMPARUTIONS :
+Avocat de l’appelante :
+Me David E. Spiro
+Avocate de l’intimée :
+Me Lesley Akst
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me David E. Spiro
+Cabinet :
+Blake Cassels & Graydon LLP
+Toronto (Ontario)
+Pour l’intimée :
+John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

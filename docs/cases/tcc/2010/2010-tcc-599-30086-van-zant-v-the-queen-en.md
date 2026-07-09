@@ -1,0 +1,190 @@
+---
+title: "Van Zant v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30086/index.do"
+last_modified: "2010-11-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 599"
+citation2: ""
+neutral_citation: "2010 TCC 599"
+decision_date: "2010-11-23"
+language: "en"
+item_id: "30086"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7600
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:50:01.579000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "339ffba01883767344b1282ccc25bfc82d5d6b41284f95b5fe3e9dd333bbd64a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Van Zant v. The Queen
+
+- Citation: 2010 TCC 599
+- Decision date: 2010-11-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7600, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Van Zant v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-11-23
+Neutral citation
+2010 TCC 599
+File numbers
+2010-955(IT)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-955(IT)I
+BETWEEN:
+ROBYNN VAN ZANT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on September 21, 2010, at Winnipeg, Manitoba
+Before: The Honourable Justice Valerie Miller
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Nalini Persaud
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2007 taxation year is allowed and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to deduct moving expenses in the amount of $11,027.93.
+Signed at Ottawa, Canada, this 23rd day of November 2010.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2010TCC599
+Date: 20101123
+Docket: 2010-955(IT)I
+BETWEEN:
+ROBYNN VAN ZANT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller J.
+[1] The issue in this appeal is whether the Appellant is entitled to deduct moving expenses in the amount of $12,730 in 2007.
+[2] The Minister of National Revenue (the “Minister”) reassessed the Appellant to disallow the entire claim for moving expenses on the basis that she was only allowed to claim expenses up to a maximum of fifteen days from the date of the move and as this period could not be determined, the entire claim was disallowed.
+[3] The Appellant’s claim for moving expenses included the following amounts:
+Date
+Item
+Cost
+August 2007
+Cost of purchasing new Residence
+$1,818.64
+April 19 to September 22
+Storage
+5,406.00
+April 26, 2007
+Storage insurance
+581.00
+Self-storage and moving
+1,002.73
+February 14 to June 21, 2007
+Costs incurred leading up to Initial Move
+3,183.73
+June 13, 2007 to
+August 13, 2007
+Initial Move from Red Deer
+4,197.30
+September 24, 2007 Trip #1
+Cost to move household items
+2,997.17
+October 15, 2007 Trip #2
+Cost to move household items
+2,737.31
+November 5, 2007 Trip#3
+Cost to move household items
+1,960.31
+Total
+$23,884.19
+The Appellant claimed the amount of $12,730 as moving expenses in her 2007 income tax return. It was her intention to claim the balance of $11,154.19 in her 2008 income tax return.
+[4] In 2007, the Appellant moved from Red Deer, Alberta to Portage La Prairie, Manitoba. In Red Deer, she rented the premises in which she lived. It was her evidence that the landlord applied to the Court of Queen’s Bench of Alberta to have the residential tenancy between them terminated as he wanted to sell the building. According to the Consent Order, dated April 26, 2007, between the Appellant and her former landlord, the Appellant was to vacate the residential premises by June 22, 2007.
+[5] The Appellant knew that her landlord was attempting to evict her and she decided that she would move to Manitoba to be close to her family. She was an employee of Wal-Mart Canada and in June 2007, she transferred from the Wal-Mart store in Red Deer, Alberta to that in Portage La Prairie, Manitoba. The Appellant was an hourly paid associate and as such, she did not qualify to have her moving expenses paid by Wal-Mart.
+[6] It was the Appellant’s evidence that she received quotes from two moving companies but she decided to move her household items herself with the help of her friend, Larry Green. She placed the majority of her household goods in storage in Red Deer. The Appellant left Red Deer on June 27, 2007. She was on vacation until she started to work in Portage La Prairie on July 2 or 3. She drove to Portage La Prairie in a motor home which she had purchased. Once there, she stayed in a campground while she worked and looked for a residence to purchase. It was her evidence that she lived in the motor home for 21 nights while she looked for a home. She moved into her home on August 13 and then she moved her household goods out of storage in Red Deer.
+[7] The Appellant incurred the cost of three trips to move all of her possessions to Manitoba. On the first trip on September 24, Mr. Green was with her. During the second and third trips on October 15 and November 5, Mr. Green moved the rest of the Appellant’s goods.
+[8] The relevant provisions of the Income Tax Act (the Act) are:
+62. (1) Moving expenses -- There may be deducted in computing a taxpayer's income for a taxation year amounts paid by the taxpayer as or on account of moving expenses incurred in respect of an eligible relocation,
+…
+(3) Definition of "moving expenses" -- In subsection (1), "moving expenses" includes any expense incurred as or on account of
+(a) travel costs (including a reasonable amount expended for meals and lodging), in the course of moving the taxpayer and members of the taxpayer's household from the old residence to the new residence,
+(b) the cost to the taxpayer of transporting or storing household effects in the course of moving from the old residence to the new residence,
+(c) the cost to the taxpayer of meals and lodging near the old residence or the new residence for the taxpayer and members of the taxpayer's household for a period not exceeding 15 days,
+(d) the cost to the taxpayer of cancelling the lease by virtue of which the taxpayer was the lessee of the old residence,
+(e) the taxpayer's selling costs in respect of the sale of the old residence,
+(f) where the old residence is sold by the taxpayer or the taxpayer's spouse or common-law partner as a result of the move, the cost to the taxpayer of legal services in respect of the purchase of the new residence and of any tax, fee or duty (other than any goods and services tax or value-added tax) imposed on the transfer or registration of title to the new residence,
+(g) interest, property taxes, insurance premiums and the cost of heating and utilities in respect of the old residence, to the extent of the lesser of $5,000 and the total of such expenses of the taxpayer for the period
+(i) throughout which the old residence is neither ordinarily occupied by the taxpayer or by any other person who ordinarily resided with the taxpayer at the old residence immediately before the move nor rented by the taxpayer to any other person, and
+(ii) in which reasonable efforts are made to sell the old residence, and
+(h) the cost of revising legal documents to reflect the address of the taxpayer's new residence, of replacing drivers' licenses and non-commercial vehicle permits (excluding any cost for vehicle insurance) and of connecting or disconnecting utilities,
+but, for greater certainty, does not include costs (other than costs referred to in paragraph (f)) incurred by the taxpayer in respect of the acquisition of the new residence.
+248 “eligible relocation” means a relocation of a taxpayer where
+(a) the relocation occurs to enable the taxpayer
+(i) to carry on a business or to be employed at a location in Canada (in section 62 and this subsection referred to as “the new work location”), or
+(ii) to be a student in full-time attendance enrolled in a program at a post-secondary level at a location of a university, college or other educational institution (in section 62 and in this subsection referred to as “the new work location”),
+(b) both the residence at which the taxpayer ordinarily resided before the relocation (in section 62 and this subsection referred to as “the old residence”) and the residence at which the taxpayer ordinarily resided after the relocation (in section 62 and this subsection referred to as “the new residence”) are in Canada, and
+(c) the distance between the old residence and the new work location is not less than 40 kilometres greater than the distance between the new residence and the new work location
+except that, in applying subsections 6(19) to (23) and section 62 in respect of a relocation of a taxpayer who is absent from but resident in Canada, this definition shall be read without reference to the words “in Canada” in subparagraph (a)(i), and without reference to paragraph (b);
+[9] Because the word “includes” is used in the definition of “moving expenses” in subsection 62(3), the list of items in that definition is not exhaustive. However, the term “moving expenses” does not include all of the expenses which the Appellant claimed. Those expenses included, among others, the costs of the cartons and tapes she used for packing her goods; expenses for storing her goods from the moment she decided to move; costs of the lawyer who helped her with the eviction notice from her landlord in Red Deer; costs of phone cards; costs of a table fan and lights for her motor home in Portage La Prairie; liquor; and, the costs of acquiring her new residence.
+[10] In Storrow v. R., [1979] F.C. 595 (FCTD), Collier J. opined that moving expenses were those outlays incurred to effect the physical transfer of the taxpayer, his household, and their belongings to the new residence[1]. Likewise, in Séguin v. R., [1998] 2 C.T.C. 13 (FCA), at paragraph 8, the Court stated:
+8 According to the ordinary meaning of the words used, the provision includes those expenses incurred for physically moving, changing one's residence, and certain other expenses directly related to the actual move and resettlement, and not some amount intended to compensate for accessory damages that are unrelated to the actual move to and resettlement in the new residence.2 Thus, it excludes the interest expenses on the old residence that do not pertain directly to the physical move of the taxpayer and his family, but instead pertain to the bank loan he took out on his old residence.
+[11] In Séguin the Federal Court of Appeal relied on the decision of Addy J. in Gold v. R.[2] where he said the following about subsection 62(3):
+6 From this subsection it seems abundantly clear that the words "moving expenses" mean the expenses incurred in physically moving and in actually changing residence and certain other very specific expenses relating directly to the actual move and reinstallation and do not mean an amount to compensate for incidental disturbances or damages not related to the actual move and reinstallation in the new residence.
+[12] Prior to her move to Manitoba, the Appellant did not own her own home. Consequently, paragraph 62(3)(f) of the Act does not apply to the Appellant and she cannot deduct the costs of acquiring her new residence in Manitoba.
+[13] The Appellant has included the cost of storing her goods from April to September as a moving expense. According to paragraph 62(3)(b), the Appellant is entitled to the cost of storing her household effects in the course of moving from Alberta to Manitoba. Storage costs incurred in April and May were not incurred in the course of the Appellant’s move but were incurred in preparation for the move. I have concluded that the cost of storage for June, July and August is reasonable in the circumstances. This amount was $2,704.50. The Appellant is also entitled to claim the cost of insurance for those months which was $290.50.
+[14] The Appellant stated that the amount of $1,002.73 is duplicated in the amount of $3,183.73 which was the expense incurred in preparation for the initial move. This amount included the legal expenses incurred by the Appellant with respect to the eviction notice she received from her landlord in Red Deer. It also included the cost of insuring the goods which she had in storage which I have already allowed. It included the costs of gas, phone cards and other expenses that were incurred prior to the actual move from Red Deer. These were not amounts incurred in physically moving. I conclude that the amount of $3,183.73 is not a moving expense as that term is defined in the Act.
+[15] The Appellant is entitled to claim the expense of moving herself from Alberta to Manitoba. From the documents she submitted, I have calculated this expense to be $679.51. It includes all meals and accommodation expenses incurred from June 27 to July 2. This amount also included the camp fee for 3 days at the campground in Manitoba. The Appellant is also entitled to claim the expense of transporting her goods from Alberta to Manitoba. She has submitted that it required three separate occasions to move all of her belongings. Each of these trips required a stay in a motel while her goods were packed into the trucks. With respect to the first and second trip, she claimed an expense for three nights in a motel; and, for the third trip, she claimed an expense for two nights in a motel. I have reviewed the receipts included in exhibit A-2 and I have calculated that the expense of transporting the Appellant’s goods from Alberta to Manitoba was $7,353.42. I have not allowed any amounts claimed by the Appellant for which there was not a receipt. The cost of liquor is not a moving expense and these amounts were not allowed.
+[16] In conclusion, the appeal is allowed and the Appellant is entitled to deduct moving expenses in the amount of $11,027.93.
+Signed at Ottawa, Canada, this 23rd day of November 2010.
+“V.A. Miller”
+V.A. Miller J.
+CITATION: 2010TCC599
+COURT FILE NO.: 2010-955(IT)I
+STYLE OF CAUSE: ROBYNN VAN ZANT AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Winnipeg, Manitoba
+DATE OF HEARING: September 21, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: November 23, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Nalini Persaud
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [1979] F.C. 595 (FCTD) at paragraph 14
+[2] [1977] C.T.C. 616 at paragraph 6

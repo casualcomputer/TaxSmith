@@ -1,0 +1,566 @@
+---
+title: "Tremblay v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29048/index.do"
+last_modified: "2009-01-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 6"
+citation2: ""
+neutral_citation: "2009 TCC 6"
+decision_date: "2009-01-08"
+language: "en"
+item_id: "29048"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6856
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:42:53.312000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0951bb94bccb9d16877ca395819f6382105472c6be8d5aad88ad7ebdbce43d11"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Tremblay v. The Queen
+
+- Citation: 2009 TCC 6
+- Decision date: 2009-01-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6856, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tremblay v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-01-08
+Neutral citation
+2009 TCC 6
+File numbers
+2006-2178(IT)G
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-2178(IT)G
+BETWEEN:
+DANIELLE VAILLANCOURT TREMBLAY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Succession of the late Hélène Tremblay (2006-2205(IT)G),
+Gérard Tremblay (2006-2207(IT)G) and
+Martin Tremblay (2006-2210(IT)G)
+on January 23, 2008, at Montreal, Quebec.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the Appellant:
+Richard W. Pound
+Charles C. Gagnon
+Counsel for the Respondent:
+Michel Lamarre
+Nathalie Labbé
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 1994 taxation year is allowed with costs and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 8th day of January 2009.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 26th day of May 2009.
+Erich Klein, Revisor
+Docket: 2006-2205(IT)G
+BETWEEN:
+SUCCESSION OF THE LATE HÉLÈNE TREMBLAY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Danielle Vaillancourt Tremblay (2006-2178(IT)G),
+Gérard Tremblay (2006-2207(IT)G) and
+Martin Tremblay (2006-2210(IT)G)
+on January 23, 2008, at Montreal, Quebec.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the Appellant:
+Richard W. Pound
+Charles C. Gagnon
+Counsel for the Respondent:
+Michel Lamarre
+Nathalie Labbé
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 1994 taxation year is allowed with costs and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 8th day of January 2009.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 26th day of May 2009.
+Erich Klein, Revisor
+Docket: 2006-2207(IT)G
+BETWEEN:
+GÉRARD TREMBLAY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Danielle Vaillancourt Tremblay (2006-2178(IT)G),
+Succession of the late Hélène Tremblay (2006-2205(IT)G) and
+Martin Tremblay (2006-2210(IT)G)
+on January 23, 2008, at Montreal, Quebec.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the Appellant:
+Richard W. Pound
+Charles C. Gagnon
+Counsel for the Respondent:
+Michel Lamarre
+Nathalie Labbé
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 1994 taxation year is allowed with costs and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 8th day of January 2009.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 26th day of May 2009.
+Erich Klein, Revisor
+Docket: 2006-2210(IT)G
+BETWEEN:
+MARTIN TREMBLAY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Danielle Vaillancourt Tremblay (2006-2178(IT)G),
+Succession of the late Hélène Tremblay (2006-2205(IT)G) and
+Gérard Tremblay (2006-2207(IT)G)
+on January 23, 2008, at Montreal, Quebec.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the Appellant:
+Richard W. Pound
+Charles C. Gagnon
+Counsel for the Respondent:
+Michel Lamarre
+Nathalie Labbé
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 1994 taxation year is allowed with costs and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 8th day of January 2009.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 26th day of May 2009.
+Erich Klein Revisor
+Citation: 2009 TCC 6
+Date: 20090108
+Dockets: 2006-2178(IT)G
+2006-2205(IT)G
+2006-2207(IT)G
+2006-2210(IT)G
+BETWEEN:
+DANIELLE VAILLANCOURT TREMBLAY,
+SUCCESSION OF THE LATE HÉLÈNE TREMBLAY,
+GÉRARD TREMBLAY,
+MARTIN TREMBLAY,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] The Appellants are appealing from reassessments for the 1994 taxation year made by the Minister of National Revenue ("the Minister") on December 30, 2004, under the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), as amended ("the Act"). The reassessments are numbered 1‑041223‑122454, 1‑041223‑123432, 1‑041223‑124358 and 1‑041223‑125212. The appeals were heard on common evidence. In each case, the issue is whether subsection 84(2) of the Act applies to a transaction described as a share for share exchange. The parties filed an agreed statement of facts, which it is appropriate to reproduce here without referring to the exhibits appended thereto unless the context so requires:
+[TRANSLATION]
+1. Danielle Vaillancourt‑Tremblay is Gérard Tremblay's spouse and the mother of Martin and Hélène Tremblay. Gérard, Danielle, Martin and Hélène Tremblay are herein referred to collectively as "the Tremblay family".
+2. For a number of years, the Tremblay family owned a Quebec cable television company, Télésag Inc., through a management company called Les Placements M.H.T. Inc. ("MHT").
+3. Through a rollover under subsection 85(1) of the Income Tax Act ("the Act"), on February 14, 1989, MHT sold the shares of Télésag Inc. to a public corporation, Le Groupe Vidéotron ltée ("Vidéotron"), in consideration of preferred shares of Vidéotron.
+4. In early 1994, the members of the Tremblay family asked Vidéotron for its cooperation in reorganizing their business.
+5. In early 1994, the members of the Tremblay family began reorganizing their business so that they could live abroad.
+6. As part of that reorganization, 9000‑8855 Québec Inc. ("8855") was incorporated by the Tremblay family on February 2, 1994, under Part IA of the Quebec Companies Act. It was a private corporation within the meaning of the Act.
+7. On February 15, 1994, the members of the Tremblay family sold their shares in MHT to 8855 in consideration of Class A shares of 8855 through a rollover under subsection 85(1) of the Act, with the following tax consequences:
+Shareholder
+Number of shares
+Adjusted cost base ($)
+Paid‑up capital ($)
+Fair market
+value ($)
+Gérard
+541,461
+106
+106
+16,180,529
+Danielle
+28,564
+403
+403
+853,554
+Martin
+497,707
+418,476
+1,379
+14,873,398
+Hélène
+483,790
+415,472
+1,179
+14,457,296
+1,551,522
+834,457
+3,067
+46,364,777
+8. On February 16, 1994, through a rollover under subsection 85(1) of the Act, MHT transferred to 8855 the following securities of Vidéotron, hereinafter referred to as the convertible securities:
+· 425,174 Series B 8% cumulative first preferred shares ("the preferred shares"), convertible into subordinate voting shares ("the subordinate shares") on the basis of three subordinate shares for each Series B first preferred share; and
+· Unsecured subordinate debentures ("the debentures") bearing interest at the rate of 11¾% and having a face value of $5,175,000 (92 debentures of $56,250 each), convertible into subordinate shares of Vidéotron on the basis of 3,000 subordinate shares for each $56,250 debenture.
+9. The debentures referred to in the preceding paragraph were convertible at the holder's option for $18.75 per subordinate voting share until February 15, 1999 (that is, a conversion rate of 3,000 subordinate voting shares for each $56,250 in face value), were callable by Vidéotron after February 15, 1994, on certain conditions (no conditions after February 15, 1996), bore interest at the rate of 11.75% and matured in 2009.
+10. The prescribed interest rate for the purposes of the Income Tax Act fluctuated between 6% and 9% during the 1994 calendar year and between 8% and 11% during the 1995 calendar year.
+11. According to the data compiled by Scotia Capital Inc. and published by the Bank of Canada, the average returns on medium‑term bonds of Canadian corporations in 1993 and 1994 were as follows:
+1993
+1994
+January
+9.43
+6.74
+February
+8.83
+7.26
+March
+8.86
+8.40
+April
+8.88
+8.45
+May
+8.68
+8.96
+June
+8.17
+9.76
+July
+7.94
+9.85
+August
+7.60
+9.23
+September
+7.77
+9.30
+October
+7.42
+9.49
+November
+7.41
+9.62
+December
+7.05
+9.71
+12. On February 25, 1994, Vidéotron and the Tremblay family entered into an agreement whereby Vidéotron would [translation] "lend its assistance indirectly and subsidiarily during the final stages of the corporate reorganization" planned by the Tremblay family, provided that each of the conditions listed in the agreement was met, including:
+(i) The Tremblay family was to waive $200,928.52 in interest on the debentures and $335,071.48 in dividends on the preferred shares;
+(ii) Vidéotron's board of directors, at its sole discretion, was to approve the issue of the subordinate shares of Vidéotron's capital stock in consideration of the purchase of shares of a corporation owned by the Tremblay family;
+(iii) The Tremblay family was to provide an undertaking to compensate Vidéotron for any claim that might arise out of the share for share exchange and the winding‑up of 8855; the Tremblay family was also to provide an irrevocable bank letter of credit for at least $1,000,000 that would be valid for five years from the date it was issued;
+(iv) Vidéotron was to obtain exemptions from the Commission des valeurs mobilières du Québec and authorizations from the Montreal Stock Exchange and the Toronto Stock Exchange, and the Tremblay family was to provide the undertakings required by those stock exchanges in respect of the resale or disposition of the subordinate shares to be issued as part of the reorganization;
+(v) The Tremblay family was to pay all costs, professional and other fees, and expenses incurred by Vidéotron, its advisors and its auditors in connection with the reorganization as of the date on which the Tremblay family first approached Vidéotron, that is, January 27, 1994;
+(vi) The reorganization was to be completed by April 8, 1994. The Appellants left Canada on April 7, 1994.
+13. The agreement also specified that, on April 26, 1994, Vidéotron would redeem all securities that 8855 held in Vidéotron unless they were converted into subordinate shares of Vidéotron prior to that date.
+14. On March 7, 1994, Vidéotron split its subordinate shares on a two‑for‑one basis; 8855 did the same for its Class A shares.
+15. After the split, Gérard, Danielle, Martin and Hélène held 3,103,044 Class A shares of 8855, which had the following tax consequences:
+Shareholder
+Number of Class A shares of 8855
+Paid‑up capital ($)
+Adjusted cost base ($)
+Gérard
+1,082,922
+106
+106
+Danielle
+57,128
+403
+403
+Martin
+995,414
+1,379
+418,476
+Hélène
+967,580
+1,179
+415,472
+3,103,044
+3,067
+834,457
+16. On March 31, 1994, the Commission des valeurs mobilières du Québec granted for the proposed transaction an exemption from the prospectus and registration requirements.
+17. On April 6, 1994, Vidéotron carried out a share for share exchange with Gérard, Danielle, Martin and Hélène under subsection 85.1(1) of the Act. The result of the exchange was that the members of the Tremblay family had direct ownership of an interest in Vidéotron and that the subordinate shares received were deemed to be taxable Canadian property. Vidéotron then issued 3,103,044 subordinate shares to Gérard, Danielle, Martin and Hélène in exchange for all the issued and outstanding shares of the capital stock of 8855; the subordinated shares were distributed as follows:
+Shareholder
+Number of subordinate shares of Vidéotron
+Adjusted cost base ($)
+Fair market value on April 6, 1994 ($)
+Gérard
+1,082,922
+106
+15,431,639
+Danielle
+57,128
+403
+814,074
+Martin
+995,414
+418,476
+14,184,650
+Hélène
+967,580
+415,472
+13,788,015
+3,103,044
+834,457
+44,218,378
+18. At the time of the share for share exchange, 8855 had no liabilities, and its only assets were the debentures and preferred shares of Vidéotron.
+19. Immediately after the share for share exchange under subsection 85.1(1) of the Act, 8855 and Vidéotron elected under the former subsection 80(3) to cancel Vidéotron's debt to 8855.
+20. On April 6, 1994, 8855 discontinued its business. On April 6, 1994, Vidéotron wound up 8855 under subsection 88(1) of the Act, and 8855 was dissolved on October 5, 1994, in accordance with sections 28 and 28.1 of the Quebec Companies Act, to both of which section 123.6 of that Act refers.
+21. When 8855 was wound up, the debentures and preferred shares it held were distributed to Vidéotron and cancelled. The convertible securities held by 8855 were cancelled for no consideration when 8855 was wound up into Vidéotron.
+22. On April 6, 1994, the members of the Tremblay family obtained a letter of credit for $1,000,000 from the National Bank of Canada in Vidéotron's name as collateral security for the reorganization.
+23. By notice of reassessment dated December 30, 2004, for the 1994 taxation year, the Minister of National Revenue included a grossed‑up taxable dividend of $1,017,088 in Danielle Vaillancourt‑Tremblay's income, $19,298,416 in Gérard Tremblay's income, $17,729,089 in Martin Tremblay's income and $17,233,545 in the income of the succession of the late Hélène Tremblay under subsection 84(2) of the Act.
+[2] No witness testified at the hearing.
+The Appellants' Position
+[3] In support of their position, the appellants make the following arguments in paragraphs 12 to 24 of their respective Notices of Appeal (the quotation below is from the Notice of Appeal of the succession of the late Hélène Tremblay):
+[TRANSLATION]
+12. The exchange transaction was carried out under section 85.1 of the Act, and subsection 84(2) of the Act did not apply to it.
+13. Subsection 84(2) of the Act applies only where funds or property of a corporation resident in Canada have been distributed or otherwise appropriated in any manner whatever to, or for the benefit of, the shareholders of any class of shares in its capital stock.
+14. Here, none of 8855's assets (preferred shares and debentures) were distributed or otherwise appropriated in any matter whatever to the Appellant.
+15. The exchange transaction had no impact on 8855's assets, and the Appellant never had assets that had belonged to 8855.
+16. 8855 remained the owner of the preferred shares and debentures until it was wound up into Vidéotron.
+17. The subordinate shares of Vidéotron received by the Appellant in consideration of her shares in 8855 were issued in the context of the exchange transaction and did not exist previously.
+18. It is therefore impossible to argue that they were property distributed or appropriated to the Appellant by 8855.
+19. Nor is it possible to argue that they were identical property, since the legal nature of the subordinate shares was different from that of the preferred shares and the debentures.
+20. The conversion right attaching to the preferred shares and the debentures did not make them property that was legally identical to the subordinate shares.
+21. The exchange transaction and the similar transactions with the Appellant's parents and brother were the most economical way for Vidéotron to achieve its goal of eliminating the debentures and preferred shares.
+22. In entering into the exchange transaction, Vidéotron was seeking first and foremost to achieve a commercial objective, namely reducing its financing costs.
+23. The tax impact of the exchange transaction under section 85.1 of the Act is consistent with the general scheme of the Act in allowing tax to be deferred when a taxpayer disposes of property to a corporation in consideration of shares in the corporation.
+24. Applying subsection 84(2) of the Act to a transaction that is based on section 85.1 of the Act would be contrary to this tax policy and would render section 85.1 of the Act nugatory.
+The Respondent's Position
+[4] To justify the notices of reassessment dated December 30, 2004, the respondent makes the following arguments in subparagraphs 1 to 9 of paragraph 11 of the Reply to the Notice of Appeal (the quotation below is from the respondent's Reply to the Notice of Appeal of the succession of the late Hélène Tremblay):
+[TRANSLATION]
+1. The Respondent submits that funds or property of a corporation resident in Canada were distributed or otherwise appropriated in any manner whatever to, or for the benefit of, the Appellant shareholder of any class of shares in its capital stock, on the winding‑up, discontinuance or reorganization of its business.
+2. The Respondent submits that the share for share exchange between 9000‑8855 Québec Inc. and Vidéotron on April 6, 1994, under section 85.1 of the Income Tax Act, was one of the transactions that allowed the assets of 9000‑8855 Québec Inc. to be distributed or otherwise appropriated in any manner whatever to the Appellant on the discontinuance of its business, which also occurred on April 6, 1994.
+3. The Respondent submits that the issue of new shares of Vidéotron to the Appellant had the same effect as the conversion of the securities that 9000‑8855 Québec Inc. held in Vidéotron; hence the issue of the shares was an indirect redemption of the assets 9000‑8855 Québec Inc. held in Vidéotron.
+4. The Respondent submits that Vidéotron acted as an accommodator so that the Tremblay family could obtain the new shares.
+5. The Respondent submits that the members of the Tremblay family would not have obtained new shares if 9000‑8855 Québec Inc. had not held the convertible securities.
+6. The Respondent submits that section 85.1 of the Income Tax Act can apply jointly with subsection 84(2) of the Act, since both of these provisions are equally specific.
+7. The Respondent submits that the joint application of subsection 84(2) and section 85.1 of the Income Tax Act is not contrary to the underlying tax policy with respect to the disposition of taxable Canadian property by former residents of Canada.
+8. The Respondent submits that the convertible securities were therefore distributed "in any manner whatever" within the meaning of subsection 84(2) of the Income Tax Act on the discontinuance of the business.
+9. The Respondent submits that a dividend of $13,786,836 was received from 9000‑8855 Québec Inc. under subsection 84(2) of the Act. A taxable dividend of $17,233,545 was therefore computed under subsection 82(1) of the Act as it applied during the year in issue.
+Statutory Provisions
+[5] Subsection 84(2) of the Act applies where funds or property of a corporation resident in Canada have been distributed or otherwise appropriated in any manner whatever to, or for the benefit of, shareholders on the winding‑up, discontinuance or reorganization of its business. Subsection 82(1) of the Act provides for the taxation of distributions made by corporations as dividends. Subsection 84(2) has the effect of extending the taxation to other types of distributions or appropriations of corporate funds or property. The purpose of subsection 84(2) is to prevent shareholders from ending up with a corporation's property without having to bear the tax consequences of such a distribution or appropriation. Specifically, subsection 84(2) of the Act, as it applied in 1994, reads as follows:
+Distribution on winding-up, etc.
+Where funds or property of a corporation resident in Canada have at any time after March 31, 1977 been distributed or otherwise appropriated in any manner whatever to or for the benefit of the shareholders of any class of shares in its capital stock, on the winding‑up, discontinuance or reorganization of its business, the corporation shall be deemed to have paid at that time a dividend on the shares of that class equal to the amount, if any, by which
+(a) the amount or value of the funds or property distributed or appropriated, as the case may be,
+exceeds
+(b) the amount, if any, by which the paid-up capital in respect of the shares of that class is reduced on the distribution or appropriation, as the case may be,
+and a dividend shall be deemed to have been received at that time by each person who held any of the issued shares at that time equal to that proportion of the amount of the excess that the number of the shares of that class held by the person immediately before that time is of the number of the issued shares of that class outstanding immediately before that time.
+[6] Subsection 84(2) of the Act is similar to subsection 81(1) of R.S.C. 1952, c. 148.
+[7] Section 85.1 of the Act was enacted at a later date than subsection 84(2) of the Act by S.C. 1974‑75‑76, c. 26, s. 49(1), applicable to transactions carried out after May 6, 1974. Where the conditions for the application of section 85.1 of the Act are met, that section allows a taxpayer to defer the taxation of a capital gain on the disposition of shares held as capital property to a Canadian corporation in exchange for new shares of that corporation. Section 85.1 of the Act applies automatically, and there is no election to file. Subsections 85.1(1) and (2) of the Act, as they applied in 1994, read as follows:
+85.1: Share for share exchange
+(1) Where shares of any particular class of the capital stock of a Canadian corporation (in this section referred to as the "purchaser") are issued to a taxpayer (in this section referred to as the "vendor") by the purchaser in exchange for a capital property of the vendor that is shares of any particular class of the capital stock (in this section referred to as the "exchanged shares") of another corporation that is a taxable Canadian corporation (in this section referred to as the "acquired corporation"), subject to subsection (2),
+(a) except where the vendor has, in the vendor's return of income for the taxation year in which the exchange occurred, included in computing the vendor's income for that year any portion of the gain or loss, otherwise determined, from the disposition of the exchanged shares, the vendor shall be deemed
+(i) to have disposed of the exchanged shares for proceeds of disposition equal to the adjusted cost base to the vendor of those shares immediately before the exchange, and
+(ii) to have acquired the shares of the purchaser at a cost to the vendor equal to the adjusted cost base to the vendor of the exchanged shares immediately before the exchange,
+and where the exchanged shares were taxable Canadian property of the vendor, the shares of the purchaser so acquired by the vendor shall be deemed to be taxable Canadian property of the vendor; and
+(b) the cost to the purchaser of each exchanged share, at any time up to and including the time the purchaser disposed of the share, shall be deemed to be the lesser of
+(i) its fair market value immediately before the exchange, and
+(ii) its paid‑up capital immediately before the exchange.
+(2) Where s. (1) does not apply
+Subsection (1) does not apply where
+(a) the vendor and purchaser were, immediately before the exchange, not dealing with each other at arm's length (otherwise than because of a right referred to in paragraph 251(5)(b) that is a right of the purchaser to acquire the exchanged shares);
+(b) the vendor or persons with whom the vendor did not deal at arm's length, or the vendor together with persons with whom the vendor did not deal at arm's length,
+(i) controlled the purchaser, or
+(ii) beneficially owned shares of the capital stock of the purchaser having a fair market value of more than 50% of the fair market value of all of the outstanding shares of the capital stock of the purchaser,
+immediately after the exchange;
+(c) the vendor and the purchaser have filed an election under subsection 85(1) or (2) with respect to the exchanged shares; or
+(d) consideration other than shares of the particular class of the capital stock of the purchaser was received by the vendor for the exchanged shares, notwithstanding that the vendor may have disposed of shares of the capital stock of the acquired corporation (other than the exchanged shares) to the purchaser for consideration other than shares of one class of the capital stock of the purchaser.
+[8] To properly understand the role and scope of subsection 84(2) of the Act in relation to the Act's other provisions, it is appropriate at this point to reproduce subsections 69(4), 69(5) and 84(5) of the Act, which also deal with the distribution and appropriation of property to shareholders:
+69(4) Shareholder appropriations
+Where at any time property of a corporation has been appropriated in any manner whatever to or for the benefit of a shareholder of the corporation for no consideration or for consideration that is less than the property’s fair market value and a sale of the property at its fair market value would have increased the corporation’s income or reduced a loss of the corporation, the corporation shall be deemed to have disposed of the property, and to have received proceeds of disposition therefor equal to its fair market value, at that time.
+69(5) Where in a taxation year of a corporation property of the corporation has been appropriated in any manner whatever to, or for the benefit of, a shareholder, on the winding‑up of the corporation, the following rules apply:
+(a) for the purpose of computing the corporation's income for the year, (i) it shall be deemed to have sold each such property immediately before the winding‑up and to have received therefor the fair market value thereof at that time, and
+(ii) paragraph 40(2)(e) shall not apply in computing the loss, if any, from the sale of any such property;
+(b) the shareholder shall be deemed to have acquired the property at a cost equal to its fair market value immediately before the winding‑up;
+(c) subsections 52(1), (1.1) and (2) are not applicable for the purposes of determining the cost to the shareholder of the property;
+(d) subsections 85(4) and (5.1) shall not apply in respect of the winding‑up; and
+(e) paragraph 40(2)(e) does not apply in computing the loss, if any, of the shareholder from the disposition of a share of the capital stock of the corporation to the corporation on the winding‑up.
+84(5) Amount distributed or paid where a share
+Where
+(a) the amount of property distributed by a corporation or otherwise appropriated to or for the benefit of its shareholders as described in paragraph (2)(a), or
+(b) the amount paid by a corporation as described in paragraph (3)(a) or (4)(a),
+includes a share of the capital stock of the corporation, for the purposes of subsections (2) to (4) the following rules apply:
+(c) in computing the amount referred to in paragraph (a) at any time, the share shall be valued at an amount equal to its paid‑up capital at that time, and
+(d) in computing the amount referred to in paragraph (b) at any time, the share shall be valued at an amount equal to the amount by which the paid‑up capital in respect of the class of shares to which it belongs has increased by virtue of its issue.
+[9] These last three subsections do not apply in this case. Subsection 69(4) of the Act sets out the rules with respect to a corporation of which property has been appropriated to a shareholder. Subsection 69(5) of the Act lays down the rules applicable on the winding‑up of a corporation, while subsection 84(5) of the Act applies only where the corporation has itself distributed or appropriated a share of its capital stock to a shareholder. Obviously, this is not the case here, but it shows that subsection 84(2) of the Act does not apply only where the corporation is itself involved in distributing or appropriating its property or funds. If such had been Parliament's intention, it could easily have provided for this as it did in subsection 84(5) of the Act. Therefore, subsection 84(2) can apply even without the direct involvement of the corporation whose property is distributed or appropriated. Judge Bowman's decision in RMM Canadian Enterprises Inc. v. Canada, [1997] T.C.J. No. 302, provides a very good example of this. That decision will be examined in greater detail in the paragraphs that follow.
+[10] The following provisions of the Act refer to subsection 84(2):
+53(2)(a)(iv)
+Amount to be deducted from adjusted cost base
+53(2)(p)
+Debt owing by a corporation
+54
+Paragraph (j) of the definition of "proceeds of disposition"
+88(1)(d.1)
+Non‑application of 84(2) to the winding‑up of a subsidiary
+88(2)(b)
+Winding‑up of a Canadian corporation
+89
+Subparagraph (b)(iii) of the definition of "paid‑up capital"
+135.1(8)
+Non-application of 84(2) to a tax deferred cooperative share
+191(4)
+Deemed dividends excluded
+[11] There is no exclusion of subsection 84(2) in subsection 85.1(2) of the Act. Conversely, no reference is made to subsection 84(6) of the Act, which specifies the circumstances in which subsection 84(2) of the Act does not apply to a share for share exchange covered by section 85.1 of the Act.
+[12] From a purely technical standpoint, there seems to be nothing to prevent the simultaneous application of subsection 84(2) and section 85.1 of the Act. If Parliament had intended to preclude this, it could easily have given effect to that intent in subsections 84(6) and 85.1(2) of the Act. Subsection 84(2) and section 85.1 of the Act are both in Subdivision h of Division B of Part I of the Act; Subdivision h is entitled "Corporations Resident in Canada and their Shareholders". Unlike Alan M. Schwartz v. Her Majesty the Queen, [1996] 1 S.C.R. 254, this is a case in which it does not seem possible to say that one provision is of general application and the other is more specific in its application, such that the latter takes precedence.
+[13] The appellants' argument that subsection 84(2) and section 85.1 cannot apply simultaneously because this would create double taxation cannot be accepted. Even if the amount of the deemed dividend resulting from the application of subsection 84(2) to the share for share exchange were not added to the adjusted cost base of the shares received in exchange (contrary to what is provided for in subsection 53(1) with regard to a deemed dividend under subsection 84(3)), it would nonetheless not be considered to be included in the proceeds of disposition of the exchanged shares under paragraph (j) of the definition of "proceeds of disposition" in the Act, which reads as follows:
+54. Definitions — In this subdivision,
+"proceeds of disposition" of property includes,
+. . .
+but notwithstanding any other provision of this Part, does not include
+(j) any amount that would otherwise be proceeds of disposition of a share to the extent that the amount is deemed by subsection 84(2) or (3) to be a dividend received and is not deemed by paragraph 55(2)(a) or subparagraph 88(2)(b)(ii) not to be a dividend, or . . . .
+[14] In any event, this question of double taxation is hypothetical only, and the Act contains specific provisions designed to avoid any double taxation. Reference should be made, in this regard, to subsections 4(4) and 248(28) of the Act.
+[15] The dispute in this case does not involve the application of the general anti‑avoidance rule or the provisions applicable to sham transactions found in the Act. Nor does the dispute concern the concept of agency or mandate or the determination whether the parties to the transaction were dealing with each other at arm's length or not. The respondent is not contesting the application of section 85.1 of the Act to the share for share exchanges between the appellants and Vidéotron Ltée, despite the fact that Vidéotron Ltée clearly acted as a "facilitator" so that the members of the Tremblay family could achieve their objectives in consideration, inter alia, of (i) a waiver by the members of the Tremblay family of more than $500,000 in interest owed on the debentures and in dividends owed on the preferred shares; (ii) an undertaking by the members of the Tremblay family to compensate Vidéotron Ltée for any claim that might arise out of the share for share exchanges and the winding‑up of 8855, this undertaking being secured by an irrevocable bank letter of credit for at least $1,000,000 for five years from the date it was issued; and (iii) payment by the members of the Tremblay family of all costs, professional and other fees, and expenses incurred by Vidéotron Ltée in connection with the reorganization. However, the respondent argues that subsection 84(2) applies jointly with section 85.1 to the share for share exchanges carried out by the appellants.
+[16] For subsection 84(2) to apply here, funds or property of 8855 must have been "distributed or otherwise appropriated in any manner whatever" to, or for the benefit of, the appellants "on the winding‑up, discontinuance or reorganization of its business".
+[17] The words "distributed", "appropriated" and "otherwise" are not defined in the Act. The Petit Robert defines the French equivalents of these terms ("distribués", "attribués" and "autrement") as follows:
+[TRANSLATION]
+"ATTRIBUER" v. tr. 1 Allot (something to someone) in a division or distribution. Attribuer une part à un héritier. [Allot a share to an heir.] Award, allot, assign, apportion, divide up. Attribuer à chacun son dû. [Give each person what he or she is owed.] Confer (a benefit) on someone, attach (a prerogative) to a job, a function. De nombreux avantages lui ont été attribués. [Many benefits were conferred on him.] Grant. Attribuer une dignité à qqn. [Bestow a dignity on someone.] Confer, award. De grands privilèges sont attribués à cette fonction. [Great privileges are attached to this function.] Add, attach, link, connect. Attribuer un crédit à une dépense. [Allocate a credit to an expense]. Allocate, attribute.
+"AUTREMENT" adv. 1 In a different way, in a different manner. Differently. Il faut procéder autrement, tout autrement. [We must proceed otherwise, in an entirely different fashion].
+"DISTRIBUER" v. tr. 1. Give (part of something or of a group of similar things) to several persons separately. Þ give, share, divide up; distribution. . . . Þ assign, allocate.
+[18] In interpreting the meaning of the words in question, Judge Bowman made the following comment at paragraph 22 of his decision in RMM Canadian Enterprises Inc. v. Canada, [1997] T.C.J. No. 302:
+The words "distributed or otherwise appropriated in any manner whatever on the winding‑up, discontinuance or reorganization of its business" are words of the widest import, and cover a large variety of ways in which corporate funds can end up in a shareholder's hands. See Merritt (supra); Smythe et al. v. M.N.R., 69 D.T.C. 5361 (S.C.C.).
+[19] In his decision, Judge Bowman quoted, moreover, the following excerpt from paragraph 7 of the decision of Maclean P. in Merritt v. Canada (Minister of National Revenue – M.N.R.), [1941] Ex.C.R.175 (QL):
+. . . I therefore think there is no room for any dispute of substance but that the Security Company discontinued its business in a real and commercial sense, and that for a consideration it disposed of all its property and assets, however far that may carry one in deciding the issues in this case. There is, therefore, no necessity for attempting any precise definition of the words "windingup, discontinuance or reorganization." What was done with the business of the Security Company fell somewhere within the meaning and spirit of those words. Neither do I entertain any doubt that there was a distribution of the property of the Security Company among its shareholders, in the sense contemplated by s. 19(1) of the Act, under the terms of the Agreement after its ratification by the shareholders of the Security Company. It is immaterial, in my opinion, that the consideration received by the appellant for her shares happened to reach her directly from the Premier Company and not through the medium of the Security Company.
+[20] The meaning of the expression "appropriated in any manner whatever" as used in subsection 69(4) of the Act was considered by the Federal Court of Canada in Boardman v. Canada, [1985] F.C.J. No. 1043 (QL). Strayer J. made the following comment in his judgment:
+. . . [i]t must be noted that the verb is used in subsection 69(4) in the passive voice as it refers to property that "has been appropriated". It does not say that the property must have been appropriated by the company to the shareholder or for the benefit of the shareholder but only that the property must have been "appropriated in any manner whatever to, or for the benefit of, a shareholder. . .". I therefore think that the action of the Court of Queen's Bench in choosing this particular property to be used for satisfying Dr. Boardman's personal obligations to his wife can be regarded as an appropriation within the meaning of subsection 69(4).
+[21] Since the wording of subsection 84(2) is very similar to the wording of subsection 69(4), the words "[w]here funds or property of a corporation resident in Canada have at any time after March 31, 1977 been distributed or otherwise appropriated in any manner whatever to or for the benefit of the shareholders of any class of shares in its capital stock", as used in subsection 84(2), can be interpreted the same way; hence the corporation's active participation is not necessary in order for property to be appropriated to its shareholders.
+[22] Another condition for the application of subsection 84(2) is that funds or property of a corporation must have been distributed or appropriated to its shareholders. Immediately before the share for share exchange, the property held by 8855 consisted of preferred shares and debentures of Vidéotron Ltée, which were convertible into subordinate shares of Vidéotron Ltée at 8855's option. What 8855's shareholders received were the subordinate shares of Vidéotron Ltée that would have been issued to 8855 if it had converted all the preferred shares and debentures of Vidéotron Ltée that it held.
+[23] From a purely technical standpoint, the subordinate shares received in exchange by the appellants were not property identical to that held by 8855. Subsection 248(12) of the Act defines the expression "identical properties" as follows:
+For the purposes of this Act, one bond, debenture, bill, note or similar obligation issued by a debtor is identical to another such obligation issued by that debtor if both are identical in respect of all rights (in equity or otherwise, either immediately or in the future and either absolutely or contingently) attaching thereto, except as regards the principal amount thereof.
+[24] While the subordinate shares received by the appellants at the time of the exchange were not identical to 8855's property, it should nonetheless be noted that the Commission des valeurs mobilières du Québec, in its decision no. 94‑C-0105 of April 14, 1994, considered the exchange to be an indirect redemption of Vidéotron Ltée's Series B preferred shares and of its debentures for cancellation purposes and granted an exemption on the ground that the transaction had the same effect as the conversion of the securities covered by the offer into subordinate shares. The Commission des valeurs mobilières du Québec therefore justified granting an exemption with regard to the issuance of the subordinate shares to 8855's shareholders on the basis that the shares would have been issued on the cancellation of the Series B preferred shares and of the debentures after the conversion right attaching thereto was exercised. For the purpose of applying subsection 84(2), it should therefore be asked whether the subordinate shares issued to the appellants were property of the corporation that was appropriated to them.
+[25] Another condition for the application of subsection 84(2) of the Act is that funds or property of a corporation must have been distributed or appropriated to shareholders of the corporation on the winding‑up, discontinuance or reorganization of its business. As Maclean P. stated in Merritt v. Canada, supra, at paragraph 7:
+. . . There is, therefore, no necessity for attempting any precise definition of the words "windingup, discontinuance or reorganization."
+[26] 8855 was incorporated on February 2, 1994, for the sole purpose of enabling the appellants to carry out a share for share exchange with Vidéotron Ltée, which occurred on April 6, 1994. At the time of the exchange, 8855 had no liabilities, and its only assets were the debentures and preferred shares of Vidéotron Ltée. On April 6, 1994, 8855 discontinued its business, and Vidéotron Ltée wound the corporation up. When 8855 was wound up, the debentures and preferred shares it held were distributed to Vidéotron Ltée and cancelled. The convertible securities held by 8855 were cancelled for no consideration when 8855 was wound up into Vidéotron Ltée.
+[27] 8855 existed only to make the share for share exchange possible. It therefore existed for a limited time, and was governed by the agreement entered into by the appellants with Vidéotron Ltée. In these circumstances, I have no hesitation in concluding that 8855's property was distributed or appropriated within the framework or at the time of the winding‑up or discontinuance of its business.
+Court Decisions
+[28] Counsel for the respondent referred to the following decisions to justify the application of subsection 84(2) of the Act:
+· RMM Canadian Enterprises Inc. v. Canada, [1997] T.C.J. No. 302
+· Merritt v. Canada (Minister of National Revenue – M.N.R.), [1941] Ex. C.R. 175 and [1942] S.C.R. 269
+· McNichol v. Canada, [1997] T.C.J. No. 5
+· Geransky v. Canada, [2001] T.C.J. No. 103
+· McMullen v. Canada, 2007 TCC 16
+· David v. The Queen, [1975] F.C. 43
+· Canada Trustco Mortgage Co. v. Canada, [2005] 2 S.C.R. 601
+· Imperial Oil Ltd. v. Canada, [2006] 2 S.C.R. 447
+· Havlik Enterprises Ltd. v. Canada (Minister of National Revenue – M.N.R.), [1989] T.C.J. No. 137
+· Boardman v. Canada (Minister of National Revenue – M.N.R.), [1985] F.C.J. No. 1043
+[29] In RMM Canadian Enterprises Inc. (RMM), supra, Judge Bowman held that subsection 84(2) of the Act applied to a sale of shares contrived with a facilitator or instrumentality in order to avoid the tax consequences of winding up a Canadian corporation into its American parent company. The Canadian corporation owned all the common shares of another Canadian corporation, and the two Canadian corporations had about C$3,000,000 in cash and an entitlement to receive an income tax refund of about C$1,500,000. The two Canadian corporations had not been carrying on business for several years, and their sole activities were collecting rental payments on photocopying equipment leased to third parties and liquidating their respective portfolios.
+[30] The appellant RMM was incorporated by lawyers who were friends to purchase the Canadian parent company's shares. Those shares were purchased for an amount equal to the total of the Canadian corporations' cash and the amount of the income tax refund to which they were entitled, plus interest. No value was assigned to the leases. Payment of the purchase price of the shares was financed through a loan from an American bank secured by the Canadian parent company's assets. Following the transfer of the shares from the Canadian parent company to RMM, the Canadian parent company began being wound up into RMM, and the Canadian subsidiary was then merged with RMM. In the days following the share purchase, RMM paid off the bank loan using the cash that had been in the Canadian corporations.
+[31] Although no value was assigned to the leases of the photocopying equipment, the American parent company and its own parent company, which was also American, guaranteed for RMM at US$140,000 the amount to be recovered under the leases and reduced the purchase price of the shares by US$10,000 to cover part of RMM's legal costs. According to Judge Bowman, RMM's interest was not in the leases but in what was essentially the remuneration to which it was entitled for its participation in the American parent company's stripping of the surpluses of the Canadian parent company and its subsidiary.
+[32] Judge Bowman held that subsection 84(2) of the Act applied to the transaction described above. He based this conclusion on, inter alia, the following, at paragraphs 16 and 17:
+I have come to the conclusion that there was a distribution or appropriation of property or funds of EL to or for the benefit of EC on the winding‑up, discontinuance or reorganization of EL's business within the meaning of subsection 84(2) and that there was no need to call in the heavy artillery of GAAR.
+. . . No one -- either EC or RMM -- had any particular interest in precisely what the leases were worth. EC saw them as a "giveaway". RMM was interested only in earning what was in essence a fee for acting as a facilitator or accommodator in the transaction the purpose of which was to enable EC to get its hands on EL's and ECL's cash and near cash without paying withholding tax. . . . RMM obviously had no intention of carrying on the leasing business formerly carried on by EL and ECL, the leases having been taken over by EC after the payment of the guaranteed amount. It had earned its fee of $140,000 U.S. by acting as an instrumentality in the winding‑up or discontinuance of the Canadian subsidiaries' businesses and the distribution of their assets to EC.
+[33] Furthermore, Judge Bowman also distinguished McNichol, supra, which had been decided a few months earlier. The following comments are from paragraph 21 of McNichol:
+The next question is whether the sale of the shares was a transaction that may reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit within the meaning of subsection 245(3). The onus was on the appellants to establish that it could be so considered and they have failed to do so. Counsel for the appellants argued that the main purpose of the sale of the appellants' shares was to terminate their association with each other in the common ownership of Bec. I do not agree. It is important to be clear on the nature of their "association" during the winter of 1989. What the appellants had in common was their interest as shareholders of Bec in its only asset, the undistributed surplus. The position as described by the appellants in a letter to the Department of National Revenue dated February 10, 1993 was:
+Following the sale of the building, BEC was left with an asset -- cash of approximately $315,000 after provision for income tax liabilities arising from the sale of $120,500 and tax‑paid retained earnings of $314,000. Again, there was no agreement among the shareholders as to whether to wind up the Company and distribute the proceeds to shareholders or have BEC carry on business in some form. It became abundantly clear that none of the shareholders wanted to carry on business together.
+[34] It may be helpful to set out here certain facts in McNichol, supra:
+· when the shares of Bec Holding Corporation Limited were sold, that corporation had no business assets and had not been carrying on business since the sale of its main asset, a commercial building; it had only one asset, namely $318,666 in its treasury;
+· the shares were purchased by Beformac Holdings Limited, a corporation that had only $63 in its bank account at the time and that had to take out a $300,000 bank loan to pay the appellants the purchase price of the shares; the loan was obtained on the strength of collateral in the form of Bec Holding Corporation Limited's bank balance;
+· the shares were sold on March 31, 1989; the merger of Bec Holding Corporation Limited and Beformac Holdings Limited took place on April 5, 1989; and the $300,000 bank loan was repaid on April 21, 1989;
+· no commercial reason was provided for the purchase of the shares by Beformac Holdings Limited.
+[35] In Merritt, supra, Maclean P. applied subsection 19(1) of the Income War Tax Act, as amended by section 11 of chapter 38 of the Statutes of Canada, which read as follows in 1936:
+19(1) On the winding up, discontinuance or reorganization of the business of any incorporated company, the distribution in any form of the property of the company shall be deemed to be the payment of a dividend to the extent that the company has on hand undistributed income.
+[36] The facts underlying that decision are very simple. The Security Loan and Savings Company had entered into an agreement to sell to the Premier Trust Company all its assets, including its goodwill, reserves and undistributed profits. The consideration for the purchase of assets was payable by the issuance to each shareholder of the Security Loan and Savings Company of one and one‑half shares (with a par value of $100 each) in the capital stock of the Premier Trust Company or, at the option of the shareholders, by the payment of $102 in cash and the issuance of one half‑share, for each issued and outstanding share of the Security Loan and Savings Company held by the shareholder.
+[37] In this context, Maclean P. concluded that the Security Loan and Savings Company had discontinued its business, in the real and commercial sense of the term, on agreeing to sell all its property and assets, and that there had been a distribution of the company's property to its shareholders within the meaning of subsection 19(1) even though the shareholders had received the consideration for their shares directly from the Premier Trust Company and not through the Security Loan and Savings Company.
+[38] The decision of Maclean P. was reversed by the Supreme Court of Canada, [1942] S.C.R. 269 (QL), on grounds other than those referred to above. The majority of the Supreme Court of Canada expressed agreement with Maclean P.'s position in the following terms:
+It was first contended on behalf of the respondent that, within the meaning of subsection 1 of section 19 of the Income War Tax Act as above enacted, there was no distribution of the property of the Loan Company and no winding up, discontinuance or reorganization of its business. The learned President decided against this contention and on that point of I agree with his statement of the facts and with his conclusions and have nothing to add.
+[39] Judge Bowman once again found himself having to rule on the application of subsection 84(2) of the Act in Geransky, supra. In that decision, rendered in 2001, he refused on the basis of the following conclusions to apply subsection 84(2) of the Act:
+· the transactions were legally binding and effective;
+· the tax consequences of each transaction were the result of the application of specific provisions of the Act;
+· the overall economic purpose was the acquisition by Lafarge of GBC's cement manufacturing assets and the obtaining by GBC of a 10‑year supply contract from Lafarge;
+· Lafarge was not an accommodation company of the type used in Smythe et al. v. M.N.R., [1970] S.C.R. 64 (Supreme Court of Canada), or RMM, where the payment was made essentially by using the funds of the very company whose surplus was being stripped;
+· there was no discontinuance, winding‑up or reorganization of any company's business; both GH and GBC continued to do what they had always done;
+· the transactions did not result in any funds or property of GH or GBC ending up in the appellant's hands; the appellant sold shares of 606103 to Lafarge and was paid by Lafarge out of its own funds.
+[40] Lamarre J. also had to consider the application of subsection 84(2) of the Act in McMullen, supra. In that case, the Court held that subsection 84(2) did not apply because the transactions had not been carried out as part of a "reorganization" of DEL's business, which that company carried on in two different towns. The primary purpose of the transactions was apparently to enable each partner and his spouse to acquire ownership of the business operated in one town. In this context, the operating company did not discontinue its business. Rather, it continued carrying on the same business in the same way, but in one town rather than two. The problematic transaction in the McMullen case was a sale of shares by the appellant to a management company owned by his partner's spouse, the purchase price being paid through a dividend declared by the operating company on the shares sold by the appellant. According to the respondent, the sale of shares to the management company was a distribution of the operating company's funds or property as part of a reorganization of its business.
+[41] The Supreme Court of Canada also applied subsection 81(1) of the Income Tax Act, R.S.C. 1952, c. 148, as amended, which was the previous version of subsection 84(2) of the Act, in Smythe v. Canada (Minister of National Revenue – M.N.R.), [1970] S.C.R. 64, and Craddock and Atkinson v. M.N.R., 69 DTC 5369, and the Federal Court did likewise in David v. The Queen, [1975] F.C. 43. It is not necessary to comment on those decisions here, but Walsh J.'s remarks in David on the meaning of the word "on" as used in the phrase "on the winding‑up, discontinuance or reorganization of its business" in subsection 81(1) are particularly interesting. He stated the following in this regard at page 65:
+. . . it nevertheless remains true in the present case that it was not at the time of or "on" the discontinuance of the commercial operations of the company in August that the funds were appropriated for the benefit of the David group but only five months later. However, it is evident that the Dunn group planned to wind up not only the commercial but all business of the company immediately after they took over, as the minutes of the meetings of December 30, 1965 indicate. While it is true that subsequent events indicated the winding‑up did not take place at that time but the operations of the company were continued by them as an investment company, I do not believe this alters the fact that the winding‑up appears to have been part of the plan . . . .
+[42] The Supreme Court of Canada reiterated the key principles governing the interpretation of tax statutes in Canada Trustco, supra, and Imperial Oil Ltd., supra.
+[43] In Imperial Oil Ltd., Lebel J. acknowledged the continuing relevance of textual interpretation but pointed out that the modern approach also emphasizes the importance of reading provisions of tax statutes in context and in light of the Act as a whole. The modern approach to interpretation applies to all statutes, including the Income Tax Act. The modern approach requires a textual, contextual and purposive analysis to find a meaning that is harmonious with the Act as a whole. It is with this principle in mind that the provisions of the Act must be applied to the transaction in issue.
+[44] Counsel for the appellants referred to the following decisions in addition to Geransky, supra, McNichol, supra and RMM Canadian Enterprises Inc., supra:
+· Corporation Notre-Dame de Bon‑Secours v. Québec, [1994] 3 S.C.R. 3 (Supreme Court)
+· The Queen v. Friedberg, 92 DTC 6031 (FCA)
+· The Queen v. Loewen, 2004 DTC 6321 (FCA)
+· Mitchell v. The Queen, 99 DTC 866
+· Schwartz v. Canada, [1996] 1 S.C.R. 254 (Supreme Court)
+· Shell Canada Ltd. v. Canada, [1999] 3 S.C.R. 622 (Supreme Court)
+· Singleton v. Canada, [2001] 2 S.C.R. 1046 (Supreme Court)
+[45] There is no doubt that Vidéotron Ltée had an economic interest in carrying out the share for share exchanges with the appellants. The 8% cumulative dividend rate on the preferred shares and the 11¾% interest rate on the debentures were very high compared with the average returns on medium‑term bonds of Canadian corporations in 1993 and 1994. It was in Vidéotron Ltée's interest to redeem the preferred shares and the debentures. However, it could not force the conversion of the preferred shares and debentures into subordinate shares of its capital stock. The share for share exchanges with the appellants enabled it to eliminate the preferred shares and the debentures by paying the redemption price of those securities in shares rather than cash. The number of shares Vidéotron Ltée issued was equivalent to the shares that would have been issued if 8855 had itself exercised the conversion rights attaching to the preferred shares and debentures it held.
+[46] Vidéotron Ltée was active in cable broadcasting and had substantial assets in terms of capital property and clientele. It was certainly not an accommodation company of the type used in the Smythe, supra, and RMM, supra, cases where payment for the shares was made essentially by using the funds of the acquired corporation. On the other hand, Vidéotron Ltée did lend its assistance indirectly and subsidiarily during the final stages of the corporate reorganization that the Tremblay family proposed to carry out, and it made money from its participation by requiring the Tremblay family to waive $200,928.52 in interest on the debentures and $335,071.48 in dividends on the preferred shares and by having the Tremblay family pay all costs, professional and other fees, and expenses incurred by Vidéotron Ltée, its advisors and its auditors in connection with the reorganization.
+[47] 8855 was a financial instrumentality created on February 2, 1994, for the sole purpose of holding the preferred shares and debentures of Vidéotron Ltée. Its existence was to be of limited duration given the agreement entered into by Vidéotron Ltée and the Tremblay family on February 22, 1994. In fact, 8855 was wound up for tax purposes on the same day the share for share exchanges between the Appellants and Vidéotron Ltée took place. When 8855 was wound up, the preferred shares and debentures it held were cancelled.
+[48] The subordinate shares of Vidéotron Ltée issued to the appellants in consideration of their shares of 8855 were new shares issued from treasury, that is, they did not exist previously. The legal nature of those subordinate shares was different from that of the preferred shares and the debentures held by 8855. The conversion right attaching to the preferred shares and the debentures did not make them property that was legally identical to the subordinate shares. The subordinate shares distributed or appropriated to the appellants were not property coming from 8855.
+[49] There is no doubt that 8855's property was acquired by Vidéotron Ltée when 8855 was wound up.
+Conclusion
+[50] In light of the foregoing, I do not see how subsection 84(2) of the Act can in any way apply to the share for share exchanges carried out by the appellants.
+[51] The appeals are allowed with one set of costs for all the appeals and the assessments made for the 1994 taxation year are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that subsection 84(2) of the Act does not apply to the share for share exchanges in issue.
+Signed at Ottawa, Canada, this 8th day of January 2009.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 26th day of May 2009.
+Erich Klein, Revisor
+CITATION: 2009 TCC 6
+COURT FILE NOS.: 2006-2178(IT)G, 2006-2205(IT)G,
+2006-2207(IT)G, 2006-2210(IT)G
+STYLES OF CAUSE: Danielle Vaillancourt Tremblay v. HMQ
+Succession of the late Hélène Tremblay v. HMQ
+Gérard Tremblay v. HMQ
+Martin Tremblay v. HMQ
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: January 23, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: January 8, 2009
+APPEARANCES:
+Counsel for the Appellants:
+Richard W. Pound
+Charles C. Gagnon
+Counsel for the Respondent:
+Michel Lamarre
+Nathalie Labbé
+COUNSEL OF RECORD:
+For the Appellants:
+Names: Richard W. Pound
+Charles C. Gagnon
+Firm: Stikeman Elliott
+Montreal, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

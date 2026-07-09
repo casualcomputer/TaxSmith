@@ -1,0 +1,151 @@
+---
+title: "Richard c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29356/index.do"
+last_modified: "2009-03-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 280"
+citation2: ""
+neutral_citation: "2009 CCI 280"
+decision_date: "2009-03-12"
+language: "fr"
+item_id: "29356"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6909
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:04:54.398000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2ac182a0108991402889294544ac6cbc3e587f4c6dd8968a15b8f2088a9d2b9f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Richard c. La Reine
+
+- Citation: 2009 CCI 280
+- Decision date: 2009-03-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6909, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Richard c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-03-12
+Référence neutre
+2009 CCI 280
+Numéro de dossier
+2007-3019(GST)G
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Référence : 2009CCI280
+2007-3019(GST)G
+2007-3020(GST)G
+2007-3027(GST)G
+ENTRE:
+FRANÇOIS RICHARD, MICHEL RICHARD ET ÈVE RICHARD
+APPELANT,
+ET
+SA MAJESTÉ LA REINE,
+INTIMÉE.
+CERTIFICATION DE LA TRANSCRIPTION
+DES MOTIFS DE L’ORDONNANCE
+Je demande que la copie ci-jointe de la version originale des motifs de l’ordonnance prononcés à l'audience à Montréal (Québec) le 12 mars 2009, avec quelques corrections mineures, identifiées et initialées par moi, soit déposée.
+Pour fins de clarté, je joins également aux présentes la copie épurée de ces motifs.
+« Lucie Lamarre »
+Juge Lamarre
+Signée à Montréal, Québec, ce 28 mai 2009.
+COUR CANADIENNE DE L'IMPÔT
+RE : LOI SUR LA TAXE D=ACCISE
+2007-3019(GST)G
+2007-3020(GST)G
+2007-3027(GST)G
+ENTRE : FRANÇOIS RICHARD
+MICHEL RICHARD
+ÈVE RICHARD
+Appelants
+-et-
+SA MAJESTÉ LA REINE
+Intimée
+Tenue devant l'honorable LUCIE LAMARRE, Cour canadienne de l=impôt, locaux du Service administratif des tribunaux judiciaires, Montréal (Québec), le 12 mars 2009.
+--------------------
+MOTIFS DE JUGEMENT
+COMPARUTIONS :
+Me FRANÇOIS POULIN
+Me KATHY KUPRACZ
+pour les appelants.
+Me MARTINE BERGERON
+pour l'intimée.
+Greffier/technicien : Claude Lefebvre
+RIOPEL, GAGNON, LAROSE & ASSOCIÉS
+215, rue Saint-Jacques,
+bureau 328
+Montréal (Québec)
+H2Y 1M6
+GST-5268 JEAN LAROSE, s.o.
+DÉBUT DES MOTIFS DE JUGEMENT : 15 h 25
+Les appels portent sur des cotisations établies à l=endroit des appelants en tant qu=administrateurs de la société J.B. Lefebvre inc.(JBL) pour défaut d=avoir effectué des versements de TPS en vertu de la Loi sur la taxe d=accise, ci-après la LTA, de l=ordre de 39 323,49 $ mais si on ajoute la pénalité et les intérêts, cela monte à 45 284,40 $ pour la période du premier (1er) janvier 2004 au trente et un (31) janvier 2004. Les cotisations ont été établies aux termes de l=article 323 de la LTA.
+Les appelants invoquent la défense de diligence raisonnable prévue au paragraphe 323(3) de la LTA pour se soustraire de leur obligation solidaire avec la société, les rendant responsables du paiement de la somme due au ministre du Revenu du Québec, ci-après le ministre.
+Pour avoir gain de cause, les appelants doivent démontrer qu=ils ont agi avec le soin, la diligence et la compétence requis pour prévenir le manquement de JBL de remettre la taxe nette due au ministre.
+Le montant de la taxe nette au montant de 39 323,49 $ pour la période du premier (1er) janvier 2004 au trente et un (31) janvier 2004 était payable par la société JBL au plus tard le premier (1er) mars 2004.
+Ève Richard, la présidente du conseil d=administration de JBL a expliqué que cette société existe depuis 1912. Cette société a été fondée par son grand-père. Elle exploite un commerce de détail dans la vente de chaussures.
+Cette société a pris de l=ampleur au cours des années. Elle a été reprise par Iseult Richard, la fille du fondateur en 1959. Ève Richard, la fille de Iseult, s=est jointe à l=entreprise en 1981 et elle en est devenue présidente en 1994 quand sa mère s=est retirée de la gestion quotidienne de l=entreprise. Ève Richard a une maîtrise en administration des affaires, un MBA, et s=occupe principalement de la gestion des finances de l=entreprise.
+Pierre Morin, un autre administrateur de la société, s=est joint en 1986 et s=occupait de la négociation des baux pour tous les magasins.
+François Richard, fils de Iseult et frère d=Ève, avocat de formation, s=est joint à l=entreprise en 1991. Il s=occupait des achats et de la gestion des inventaires.
+Michel Richard, un autre fils d=Iseult et frère de Ève, avocat aussi de formation, était également administrateur de la société. Il travaille à la Banque Laurentienne et bien qu=au courant des finances de la société, ne travaillait pas comme tel dans l=entreprise.
+Il ressort des témoignages de Ève, François et Michel Richard que la société a connu son apogée au cours de l=année 2000 avec un chiffre d=affaires autour de 30 M$.
+À partir de septembre 2001, les affaires sont devenues moins profitables. L=année se terminant le trente et un (31) janvier 2002 a affiché une perte nette de 150 000 $. Cette perte est passée à 455 000 $ au trente et un (31) janvier 2003. Ève Richard a expliqué que les coûts de développement avaient augmenté et les ventes avaient baissé.
+À l=automne 2002, voyant la situation financière se détériorer, l=entreprise a fait appel à Saine Marketing pour élaborer un plan stratégique et marketing de relance. Ceux-ci ont conseillé de baisser le prix de vente de la marchandise, d=augmenter le salaire des employés pour recruter du personnel plus spécialisé, d=augmenter les coûts de publicité et d=accélérer le roulement d=inventaire pour être plus compétitif. Ce plan n=a pas fonctionné.
+Les ventes ont baissé et les coûts extraordinaires, soit les honoraires de consultation, les indemnités de départ et les frais de fermeture au moment de la fermeture de certains magasins ont engendré une baisse des marges brutes de profit.
+Le conseil d=administration se réunissait une fois par an. Les membres du conseil d=administration siégeaient également sur un comité de gestion qui se réunissait au moins quatre fois par an sinon plus.
+L=entreprise qui se faisait un point d=honneur de toujours payer leurs fournisseurs, le gouvernement pour les déductions à la source et les remises de taxes de même que les propriétaires des loyers a connu des difficultés financières plus importantes à l=automne 2003. Malgré tout, les remises de taxes ont toujours été faites.
+Au trente et un (31) janvier 2004, voyant le bilan de l=année 2003 atteindre un creux inégalé jusqu=ici, avec une perte nette avant impôt de l=ordre de 1,6 M$, les membres du conseil d=administration ainsi que du comité de gestion ont tenu une réunion extraordinaire le samedi quatorze (14) février 2004 pour faire le point.
+La décision fut prise à ce moment avec les conseillers financiers et les comptables, vérificateurs externes, de soumettre la société à la Loi sur les arrangements avec les créanciers des compagnies, ci-après la LACC. De ce que je comprends, il était prévu que tout serait fait pour présenter cette demande en cour le plus rapidement possible.
+Ève Richard a mentionné que lors de cette réunion, les représentants de Richter, les vérificateurs comptables, experts dans le domaine du commerce en détail ainsi qu=en insolvabilité, lui ont dit que désormais aucun créancier ordinaire incluant le gouvernement pour les remises de taxes ne devait être payé puisqu=on présentait une demande en vertu de la LACC.
+François Richard a dit qu=il avait été question de remises de TPS lors de la réunion du quatorze (14) février. Il s=est enquis alors du statut de ces remises. On lui a répondu qu=à ce jour tout était en ordre. Quant aux paiements futurs, il a compris que tous les paiements aux fournisseurs et au gouvernement étaient assujettis à la LACC. Il était particulièrement conscient de sa responsabilité en tant qu=administrateur des dettes fiscales de l=entreprise.
+Michel Richard a également mentionné avoir été présent lors de cette réunion et qu=il avait compris que la société présenterait une demande en vertu de la LACC.
+Tous avaient confiance au bureau de Richter qui pilotait cette réunion du quatorze (14) février 2004.
+Michel Richard connaissait monsieur Raymond Massy de chez Richter dans le cadre de son travail à la Banque Laurentienne, et il lui donnait entière confiance.
+L=avocate de l=intimée a fait témoigner monsieur François Guillaume Couillard, agent d=opposition au ministère du Revenu du Québec. Ce dernier dit qu=il n=a pas été mis au courant de cette réunion du quatorze (14) février 2004 au stade des oppositions. Il dit que personne ne lui a mentionné que le bureau de Richter avait conseillé les appelants de n=effectuer aucun paiement aux créanciers ordinaires, dont le gouvernement, pour les remises de taxes avant le dépôt de la demande en cour en vertu de la LACC.
+Une lettre du procureur des appelants lui a été remise. Cette lettre est datée du vingt-deux (22) février 2005 et a été déposée sous la pièce I-2. Cette lettre indique aux paragraphes 12 et 13 que les appelants ont consulté au début de 2004 des professionnels spécialisés dans le domaine de l=insolvabilité pour les mandater de préparer une proposition d=arrangement aux créanciers en vertu de la LACC.
+Il ajoute au paragraphe 14 que ces consultations ont eu lieu en janvier et février 2004 et qu=il était prévu que la société serait placée sous la protection de la LACC durant le mois de février 2004.
+Selon cette lettre, il y aurait eu des délais au niveau des services professionnels pour préparer la documentation requise faisant en sorte que ce n=est que le quatre (4) mars 2004 que le dossier a été déposé en cour et l=ordonnance du tribunal a été émise le cinq (5) mars 2004.
+Dans la lettre, on ajoute, au paragraphe 15 que compte tenu des déficiences dans le fonds de roulement, la société n=a pu faire les remises de taxes au premier (1er) mars 2004 mais ajoute, entre parenthèses, ce qui suit :
+En réalité, n=eut été des délais au niveau des professionnels, il était prévu que J.B. Lefebvre limitée aurait déjà été sous la protection de la Loi sur les arrangements avec les créanciers des compagnies à ce moment.
+À mon avis, cette lettre vient confirmer les dires des témoignages des appelants, qu=ils ont reçu les conseils de Richter de ne pas effectuer de paiements aux créanciers ordinaires dont les remises de taxes au gouvernement après la réunion du quatorze (14) février 2004.
+En effet, je crois comprendre de cette lettre que Richter a laissé entendre aux appelants que la demande serait faite au mois de février 2004. Les remises de TPS étant dues le premier (1er) mars 2004, les appelants se sont fait dire qu=ils n=avaient plus le droit de les faire.
+Bien que ces conseils ont probablement été donnés dans l=optique que la demande serait présentée en février, on ne peut maintenant blâmer les appelants pour avoir compris qu=ils ne devaient pas effectuer de paiements au gouvernement suite à la réunion du quatorze (14) février 2004.
+Jamais la société n=a omis de faire ses remises de taxes, seules celles du mois de janvier 2004 sont en cause puisqu=elles étaient dues seulement le premier (1er) mars 2004.
+La version des appelants qu=ils ont compris des représentations de Richter qu=il ne fallait effectuer aucun paiement après la réunion est d=autant plus plausible, selon moi, que François Richard a mentionné qu=il était très conscient de sa responsabilité en tant qu=administrateur des dettes fiscales de la société. S=il avait compris que la société n=était pas protégée des remises de taxes pour le mois de janvier 2004, il aurait probablement exigé que cette dette soit payée comme ce fut le cas dans le passé.
+Par ailleurs, l=avocate de l=intimée a mentionné dans son argument que la société avait effectué des paiements de loyer et des paiements à la Banque mais pas les taxes. Je n=ai pas compris ceci lors de la preuve. J=ai compris qu=on avait payé les salaires en janvier et qu=après la réunion du quatorze (14) février, on lui avait dit de ne faire aucun paiement à des créanciers ordinaires. La preuve n=a pas porté sur qui avaient été payés après le quatorze (14) février 2004.
+De plus, le fait que personne de chez Richter ne soit venu témoigner n=entache pas, selon moi, la crédibilité des appelants. Ce qui est important est de vérifier leur compréhension de la situation et ce qu=ils ont fait pour prévenir le manquement.
+Bien que tous des professionnels, aucun d=eux n=avait d=expertise en matière d=insolvabilité. On ne peut leur reprocher de s=être fiés à des experts, la norme en est une de raisonnabilité et non pas de perfection. Selon leurs témoignages, ils ont compris qu=ils devaient être très prudents de ne pas privilégier un créancier par rapport à un autre sous peine d=entacher leur responsabilité personnelle. Ève Richard, suite à la réunion, a pris la peine de retourner au bureau pour s=assurer que les conseils qu=elle venait de recevoir étaient bien suivis, et parmi ces conseils, celui de ne pas faire les remises de taxes. Elle a également contacté un bureau d=avocats qui ne l=a pas conseillée autrement.
+À mon avis, les appelants ont démontré, selon la prépondérance des probabilités, qu=ils ont agi avec le soin, la diligence et la compétence requis pour prévenir le manquement de JBL de remettre la taxe due pour janvier 2004 et qu=à ce titre, ils ont exercé la diligence requise dans les circonstances.
+Les appels sont admis avec dépens.
+FIN DES MOTIFS DE JUGEMENT
+*******************
+SERMENT
+Je, soussigné, JEAN LAROSE, sténographe officiel, certifie que les feuilles qui précèdent sont et contiennent la transcription de bandes d'enregistrement mécanique, de l'audience en cette cause. Le tout conformément à la Loi.
+J'ai signé,
+JEAN LAROSE, S.O.

@@ -1,0 +1,202 @@
+---
+title: "Fluevog c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30107/index.do"
+last_modified: "2010-12-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 617"
+citation2: ""
+neutral_citation: "2010 CCI 617"
+decision_date: "2010-12-01"
+language: "fr"
+item_id: "30107"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7641
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:23:52.158000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "138d7fde3040f84e8de8b792a1b5132984181f6d9d55f26193683c5c71a0e66f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Fluevog c. La Reine
+
+- Citation: 2010 CCI 617
+- Decision date: 2010-12-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7641, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fluevog c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-12-01
+Référence neutre
+2010 CCI 617
+Numéro de dossier
+2004-3778(IT)G
+Juges et Officiers taxateurs
+Theodore E. Margeson
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-3778(IT)G
+ENTRE :
+JOHN FLUEVOG,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Requêtes entendues le 12 octobre 2010, à Vancouver (Colombie‑Britannique).
+Devant : L'honorable juge T. E. Margeson
+Comparutions :
+Avocats de l'appelant :
+Me Timothy W. Clarke
+Me Ryan Dalziel
+Avocates de l'intimée :
+Me Lynn Burch
+Me Lisa McDonald
+________________________________________________________________
+ORDONNANCE
+VU la requête présentée par l'appelant en vue d'obtenir :
+1. une ordonnance autorisant la modification de l'avis d'appel modifié de l'appelant;
+2. une ordonnance disposant que, si l'intimée dépose une réponse à l'avis d'appel modifié une seconde fois, il sera loisible à l'appelant de mener d'autres interrogatoires préalables relativement à la question de la discrimination administrative suivant un échéancier qui sera fixé par la Cour;
+ET VU la requête présentée par l'intimée en vue d'obtenir une ordonnance :
+1. fixant la date, l'heure et le lieu de l'audience du présent appel;
+2. accordant toute autre réparation que la Cour estime juste;
+3. adjugeant des dépens fixes de 2 000 $ à l'intimée;
+ET VU les documents déposés et les observations des avocats des parties;
+En ce qui concerne la requête présentée par l'appelant, LA COUR ORDONNE :
+1. la requête présentée par l'appelant en vue de modifier l'avis d'appel modifié tel qu'il a été proposé est accueillie;
+2. l'intimée aura le droit de déposer une réponse modifiée à l'avis d'appel modifié une seconde fois. L'échéancier à cet égard ainsi qu'à l'égard d'autres interrogatoires préalables sera fixé après consultation entre les parties et la Cour;
+3. aucuns dépens ne sont adjugés relativement à la requête présentée par l'appelant;
+En ce qui concerne la requête présentée par l'intimée, LA COUR ORDONNE :
+1. la requête présentée par l'intimée est rejetée;
+2. l'intimée a droit aux dépens de la journée, qui suivront l'issue de la cause, et qui seront payables à l'intimée, quelle que soit l'issue de la cause.
+Signé à New Glasgow (Nouvelle‑Écosse), ce 1er jour de décembre 2010.
+« T. E. Margeson »
+Le juge Margeson
+Traduction certifiée conforme
+ce 11e jour d'avril 2014.
+Yves Bellefeuille, réviseur
+Référence : 2010 CCI 617
+Date : 20101201
+Dossier : 2004-3778(IT)G
+ENTRE :
+JOHN FLUEVOG,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L'ORDONNANCE
+Le juge Margeson
+[1] L'appelant, John Fluevog, présente une requête à la Cour en vertu de l'article 54 des Règles de la Cour canadienne de l'impôt (procédure générale) (les « Règles ») en vue d'obtenir une ordonnance modifiant l'avis d'appel modifié et, si l'intimée dépose une réponse à l'avis d'appel modifié une seconde fois, une ordonnance disposant qu'il est loisible à l'appelant de mener d'autres interrogatoires préalables relativement à la question de la discrimination administrative suivant un échéancier qui sera fixé par la Cour.
+[2] L'intimée présente une requête en vue d'obtenir une ordonnance fixant la date, l'heure et le lieu de l'audience du présent appel, lui accordant toute autre réparation que la Cour estime juste et adjugeant des dépens fixes de 2 000 $ en sa faveur.
+[3] L'appelant soutient qu'on devrait l'autoriser à modifier son avis d'appel modifié de manière à ce qu'il puisse faire valoir que le refus du ministre du Revenu national (le « ministre ») d'appliquer à l'appelant la politique énoncée aux paragraphes 3 et 4 de la circulaire d'information no 75‑23 [1] de l'Agence des douanes et du revenu du Canada (l'« ARC ») constitue une discrimination fondée sur des motifs religieux au sens de l'article 15 de la Charte canadienne des droits et libertés (la « Charte »).
+[4] L'intimée s'oppose à la modification qui est demandée et soutient qu'en réalité, l'appelant demande à la Cour d'examiner le traitement d'autres contribuables se trouvant dans des situations qui n'ont rien à voir avec les cours de natation suivis par les enfants de l'appelant ni avec la cotisation d'impôt de l'appelant. Cela banalise le rôle important de la Cour qui consiste à décider si des droits garantis par la Charte ont été violés. Le bon sens et l'avis d'appel modifié une seconde fois qui serait déposé révèlent tous deux qu'aucun droit garanti par la Charte n'est en jeu. En résumé, l'avocate de l'intimée estime que la requête visant à obtenir une modification n'est rien d'autre qu'une tentative de l'appelant [TRADUCTION] d'« obscurcir » la véritable question litigieuse qui existe entre les parties et de retarder l'audience du présent appel.
+[5] Il ressort des faits en l'espèce que les enfants de l'appelant ont suivi des cours de natation, il y a plus de 17 ans, au Vancouver Pacific Swim Club (le « club de natation »). L'appelant avait demandé une déduction pour dons de bienfaisance pour des montants payés à Natation Canada, dont 95 % sont passés de Natation Canada par l'entremise de Swim BC et avaient été portés au crédit du compte des enfants de l'appelant auprès du club de natation. La déduction a été refusée. La question en litige est de savoir si les paiements faits à Natation Canada étaient des dons véritables tels que le prévoit la common law ou si la contrepartie provenant du club de natation et reçue sous la forme de cours de natation pour les enfants de l'appelant avait eu pour effet de vicier le prétendu don.
+[6] L'appelant avance que, n'eût été ce que l'on a appelé [TRADUCTION] l'« exception administrative » énoncée dans la circulaire d'information 75‑23 concernant les frais de scolarité versés à des écoles religieuses, [TRADUCTION] « il y aurait une contrepartie et, par conséquent, il n'y aurait aucun don » [2] . La politique administrative, telle qu'elle a été énoncée dans la circulaire d'information 75‑23, a pour effet de permettre à des écoles privées de délivrer des reçus d'impôt officiels pour des paiements de frais de scolarité relatifs à un enseignement religieux, même si de tels paiements ne sont pas des dons au sens de la Loi de l'impôt sur le revenu (la « Loi »). Le ministre a, en fait, admis que tel était le résultat de la politique administrative.
+[7] En outre, le ministre a admis par écrit que, depuis que l'ARC a officialisé la politique susmentionnée en 1975 au moyen de la circulaire d'information 75‑23 :
+[TRADUCTION]
+« [...] la pratique de l'ARC est de ne pas considérer l'enseignement religieux dispensé à une école confessionnelle comme une contrepartie »;
+« l'exception a été envisagée uniquement en ce qui concerne l'enseignement religieux et n'est, par conséquent, applicable qu'à l'enseignement religieux ou à la formation religieuse » [3] .
+[8] L'appelant soutient que l'aveu clair fait par écrit établit une distinction entre une [TRADUCTION] « contrepartie religieuse » et d'autres formes de contrepartie non religieuses et que, depuis l'élimination ou la révision du critère de la « dignité humaine » énoncé dans l'arrêt R. c. Kapp, 2008 CSC 41, [2008] 2 R.C.S. 483, il est incontestable que la nouvelle cotisation établie par l'ARC constitue, à l'égard de l'appelant, une discrimination fondée sur des motifs énumérés à l'article 15 de la Charte. En conséquence, l'appelant souhaite maintenant modifier l'avis d'appel modifié en fonction de la question liée à la Charte.
+[9] Pour répondre à l'avis de requête de l'intimée concernant la question de retards injustifiés, l'appelant soutient qu'il n'y a pas eu de [TRADUCTION] « retards nombreux et excessifs dans l'évolution du présent appel qui ne sont pas imputables à l'intimée ». L'avocat de l'appelant a fait valoir que le prédécesseur de l'avocate de l'intimée et lui avaient convenu de l'échéancier qui avait été approuvé par les différents juges ayant présidé les conférences de gestion de l'instance tenues relativement aux présentes causes types.
+[10] L'avocate de la Couronne n'avait antérieurement pas consenti à ce que la modification soit déposée. À ce moment‑là, la jurisprudence n'était pas favorable à l'argument invoqué, mais les choses ont maintenant changé, et il est beaucoup plus probable que l'appelant puisse établir l'existence d'une discrimination fondée sur les motifs énoncés à l'article 15 de la Charte.
+[11] Le [TRADUCTION] « délai de quatre ans » que l'intimée prétend être [TRADUCTION] « injustifié » au paragraphe 7 de son avis de requête était nécessaire; les deux avocats s'étaient entendus là‑dessus, et la juge Campbell, qui était chargée de la gestion de l'instance dans les présents appels, avait approuvé ce délai.
+[12] L'intimée a refusé, à deux reprises, de répondre à des questions de droit portant sur les dons, et n'a formulé de réponse que le 18 septembre 2009. Il est alors devenu évident que la véritable question qui se posait était de savoir si le ministre avait violé l'article 15 de la Charte.
+[13] L'intimée n'a pas mentionné quelque préjudice que ce soit, encore moins un quelconque préjudice ne pouvant pas être réparé au moyen de dépens. Un tel préjudice n'existe pas.
+[14] En ce qui a trait à la question de savoir si la modification révèle une cause d'action, l'avocat de l'appelant estime qu'il n'est pas évident que l'argument invoqué dans la modification en question sera rejeté. Dans le premier cas, le traitement plus favorable que le ministre accorde à la formation religieuse par rapport à la formation non religieuse est discriminatoire. La Cour a compétence en vertu du paragraphe 24(1) de la Charte pour trancher la question de la discrimination et pour accorder la réparation demandée, c'est‑à‑dire l'annulation de la cotisation. L'annulation de la cotisation établie par le ministre est la réparation « convenable et juste » à l'égard de la violation de la Charte par le ministre.
+[15] L'avocate de l'intimée soutient qu'il existe un véritable doute quant à savoir si les modifications demandées dévoilent l'existence d'une question à instruire. Elle estime que les modifications proposées ne font état d'aucune question de fond ni d'aucun motif raisonnable d'appel.
+[16] En outre, aucune explication convaincante n'a été donnée quant à la raison pour laquelle la contestation fondée sur la Charte n'aurait pas pu être soulevée au moment de la première modification en mars 2007.
+[17] L'appelant ne devrait pas pouvoir prétendre qu'il a le droit de modifier l'avis d'appel en fonction d'une jurisprudence qui lui est plus favorable. Le fait de soulever certains arguments au cours d'un litige est une décision stratégique fondée sur la manière dont les parties comprennent les questions de fait et de droit. Une partie ne devrait pas pouvoir avancer des arguments fondés sur une nouvelle appréciation de l'importance de faits qui restent les mêmes ou fondés sur des points de droit qui ne sont pas nouveaux.
+[18] Il n'y avait aucune intention véritable de contester la constitutionnalité de la politique.
+[19] La réponse de l'intimée concernant la circulaire d'information 75‑23 n'a pas soudainement révélé que le droit de l'appelant à la liberté de religion avait été violé. Le droit de l'appelant de demander la déduction n'avait rien à voir avec sa religion.
+[20] Les modifications proposées ne présentent aucune cause d'action valable, parce que l'article 15 de la Charte n'est pas en jeu. Le fait que l'ARC n'ait pas appliqué à l'appelant la politique découlant de la circulaire d'information 75‑23 n'a rien à voir avec la religion de l'appelant.
+[21] Les modifications proposées n'ont rien à voir avec les caractéristiques personnelles de l'appelant et il ne peut pas y avoir, par conséquent, de violation d'un droit garanti par la Charte. Le fait que l'ARC n'ait pas appliqué à l'appelant la politique énoncée dans la circulaire d'information 75‑23 ne concerne en rien la religion ou toute autre caractéristique personnelle de l'appelant. La déduction demandée par l'appelant a été refusée parce qu'elle avait trait à des cours de natation et non à des frais de scolarité versés à une école religieuse privée. L'argument selon lequel la liberté de religion de l'appelant a été violée n'est étayé par aucun fondement factuel.
+[22] L'appelant n'a pas satisfait au premier volet du processus à deux critères tel qu'il a été établi dans l'arrêt Andrews c. Law Society of British Columbia, [1989] 1 R.C.S. 143, lequel volet exige qu'il y ait une distinction fondée sur un des motifs énumérés.
+[23] Ni l'arrêt Andrews ni l'arrêt Kapp, précités, ne prescrivent l'application d'un nouveau critère distinctif pour déterminer l'existence de discrimination. Ils confirment plutôt l'approche relative à l'égalité fondamentale en vertu de l'article 15 qui a été énoncée dans l'arrêt Andrews et explicitée dans de nombreuses décisions subséquentes dans lesquelles la religion des plaignants eux‑mêmes n'avait aucun lien avec les décisions contestées. Il n'existe aucun fondement raisonnable à l'affirmation qu'il y a eu discrimination fondée sur la caractéristique personnelle qu'est la religion.
+[24] L'alinéa 2a) de la Charte n'a pas été violé; les modifications ne contiennent aucun fait permettant d'établir que le refus du ministre de reconnaître l'existence d'un don de bienfaisance pour les cours de natation a porté atteinte à la liberté de religion de l'appelant.
+[25] Il n'est pas évident que l'argument serait rejeté en ce qui concerne la question de la compétence de la Cour pour accorder la réparation demandée, mais rien ne justifie que la Cour se penche sur la question de la compétence pour accorder la réparation demandée en vertu du paragraphe 24(1) de la Charte lorsqu'il existe un vide factuel et juridique sous-jacent à l'affirmation de l'appelant selon laquelle les droits garantis par les articles 2 et 15 de la Charte sont en cause.
+[26] À première vue, l'intimée a subi un préjudice fondé sur le retard, qui ne peut pas être réparé par l'adjudication des dépens, compte tenu du risque que les souvenirs s'estompent et du fait que, plus l'audition de l'affaire tardera, plus il sera difficile de trouver des témoins et d'assurer leur présence à l'audience.
+[27] Le présent appel constitue une cause type pour 77 appels interjetés à la Cour et pour 350 contribuables qui ont fait l'objet d'une cotisation semblable et qui attendent la décision de la Cour. Un retard supplémentaire ne fait que prolonger le retard et l'incertitude.
+[28] Les parties n'ont eu aucun désaccord quant au fait que toutes les questions préalables à l'instruction devaient être suspendues jusqu'à ce que la Cour suprême du Canada ait rendu une décision dans l'arrêt Redeemer Foundation c. Canada (Revenu national), 2008 CSC 46, [2008] 2 R.C.S. 643.
+[29] Il n'y a aucune raison valable pour que l'appelant ait attendu aussi longtemps avant de demander de modifier ses actes de procédure.
+[30] Pour rendre une décision à l'égard des présentes requêtes, la Cour doit examiner deux groupes de questions. Le premier groupe est composé de questions qui ne relèvent pas de la Charte ainsi que de la question concernant l'application de l'article 54 des Règles. En l'espèce, la Cour doit trancher la question de savoir si elle doit exercer son pouvoir discrétionnaire et accepter l'avis d'appel modifié une seconde fois ou si l'appel devrait être fixé pour audition comme l'intimée le soutient.
+[31] Dans la décision Continental Bank Leasing Corp. c. La Reine, [1993] A.C.I. no 18 (QL), le juge Bowman a adopté une approche large pour trancher la question de savoir si une modification devait être autorisée, et a conclu que la Cour devait se prononcer sur la question de savoir si :
+[...] les intérêts de la justice seraient-ils mieux servis si la demande de modification ou de rétractation était approuvée ou rejetée? Les critères mentionnés dans les affaires entendues par d'autres tribunaux sont évidemment utiles, mais il convient de mettre l'accent sur d'autres facteurs également, y compris le moment auquel est présentée la requête visant la modification ou la rétractation, la mesure dans laquelle les modifications proposées retarderaient l'instruction expéditive de l'affaire, la mesure dans laquelle la thèse adoptée à l'origine par une partie a amené une autre partie à suivre dans le litige une ligne de conduite qu'il serait difficile, voire impossible, de modifier, et la mesure dans laquelle les modifications demandées faciliteront l'examen par la Cour du véritable fond du différend. Il n'existe aucun facteur qui soit prédominant, ou dont la présence ou l'absence soit nécessairement déterminante. On doit accorder à chacun des facteurs le poids qui lui revient dans le contexte de l'espèce. [...]
+[32] La Cour se pose les questions suivantes : l'intimée a-t-elle subi un préjudice? L'appelant a‑t‑il causé un retard? La modification entraînera‑t‑elle un autre retard inutile? Y a‑t‑il une explication raisonnable du retard mis pour présenter la requête?
+[33] La Cour estime que l'intimée ne subira aucun préjudice indu qui ne puisse pas être compensé par l'adjudication de dépens si la modification demandée par l'appelant est acceptée. Concernant la question du retard, la Cour est d'avis qu'il y a des reproches à faire aux deux parties, bien qu'elle soit convaincue que ni l'une ni l'autre des parties n'ait causé de retards excessifs.
+[34] En l'espèce, il y aura de nombreux contribuables qui seront touchés par la décision et bon nombre d'entre eux interjetteront appel.
+[35] Les parties ont tenté de se mettre d'accord sur une cause type et cela a pris un temps considérable. En outre, un juge de la Cour est chargé de la gestion de l'instance depuis 2006, et la Cour n'est au courant d'aucune situation où les directives du juge n'ont pas été respectées. La Cour a été convaincue par les nombreux exemples où les parties ont pu conclure des ententes relativement à diverses mesures qui devaient être prises pour que l'affaire puisse être entendue. Il y a eu plusieurs cas où les parties n'ont pas pu conclure d'entente à l'égard d'un certain nombre de questions préalables à l'instruction, mais la Cour est convaincue qu'elles ont toutes deux fait des efforts raisonnables pour arriver à une entente.
+[36] La Cour est convaincue qu'il n'y aura pas de retards abusifs ou injustifiés si la requête en modification est accordée. La Cour estime que l'avocat de l'appelant a fourni des explications raisonnables quant au retard mis pour présenter la requête.
+[37] Par conséquent, la Cour estime que l'appelant s'est acquitté de la charge qui lui incombait en ce qui concerne les questions qui ne relèvent pas de la Charte, et la requête en modification ne devrait pas être rejetée pour ces motifs.
+[38] Le deuxième groupe de questions que la Cour doit examiner pour rendre une décision est formé de questions liées à la Charte; ces questions posent davantage de difficultés à l'appelant. La question principale sous cette rubrique est de savoir si les modifications proposées révèlent une cause d'action valable. Essentiellement, l'intimée soutient qu'elles n'en révèlent pas l'existence. L'avocate de l'intimée affirme que le fait de ne pas appliquer à l'appelant [TRADUCTION] l'« exception administrative » figurant dans la circulaire d'information 75‑23 n'a rien à voir avec sa religion ou avec l'une ou l'autre des ses caractéristiques personnelles.
+[39] L'appelant soutient que la politique du ministre établit une distinction entre les personnes qui paient des frais pour obtenir un enseignement religieux ou une formation religieuse et celles qui versent des sommes en retour d'un enseignement ou d'une formation non religieux. Par conséquent, l'avantage ou le fardeau que présente la politique du ministre semble dépendre de la question de savoir si la personne est religieuse ou non. Ainsi, la politique établit une distinction fondée sur un des motifs énumérés, à savoir le motif de la religion.
+[40] L'appelant n'a pas soulevé de question concernant sa propre religion. Il n'avait pas besoin de le faire. La politique est discriminatoire dans son ensemble, et tout ce qui est fait au titre de cette politique est invalide et illégal. L'appelant a subi un préjudice en raison des exclusions prévues par la politique. Celle‑ci s'applique de manière systémique et elle est illégale. Elle favorise des personnes religieuses par rapport à celles qui ne le sont pas.
+[41] Il s'agit d'une discrimination par suite d'un effet préjudiciable, tel que cela est énoncé dans l'arrêt Commission ontarienne des droits de la personne c. Simpsons‑Sears Ltd., [1985] 2 R.C.S. 536, à la page 551, et dans l'arrêt Andrews, à la page 173.
+[42] Le résultat est le même que celui qui a été décrit dans l'arrêt Andrews, à la page 174, où la Cour suprême du Canada a fait les observations suivantes :
+[...] J'affirmerais alors que la discrimination peut se décrire comme une distinction, intentionnelle ou non, mais fondée sur des motifs relatifs à des caractéristiques personnelles d'un individu ou d'un groupe d'individus, qui a pour effet d'imposer à cet individu ou à ce groupe des fardeaux, des obligations ou des désavantages non imposés à d'autres ou d'empêcher ou de restreindre l'accès aux possibilités, aux bénéfices et aux avantages offerts à d'autres membres de la société. [...]
+[43] C'était aussi le cas dans l'arrêt Little Sisters Book and Art Emporium c. Canada (Ministre de la Justice), 2000 CSC 69, [2000] 2 R.C.S. 1120, dont le résumé, à la page 1127, indique que la Cour suprême a conclu que :
+[...] La loi a été appliquée de manière inconstitutionnelle, mais c'est la loi elle‑même, et non pas seulement son application, qui est responsable des violations constitutionnelles. [...]
+[44] Selon l'appelant, il existe une cause défendable.
+[45] L'avocate de l'intimée fait valoir que l'acte de procédure modifié qui est proposé ne mentionne aucune affirmation factuelle portant que les avantages découlant de la circulaire d'information 75‑23 ont été refusés à l'appelant en raison de sa religion. Toutefois, l'argument de l'appelant fondé sur l'article 15 de la Charte ne renvoie pas à la religion de la personne, mais simplement à la discrimination fondée sur la « religion ». L'appelant n'affirme pas que la discrimination était fondée sur sa religion.
+[46] Sur le point principal, la Cour estime que la modification présentera au moins un argument défendable. La Cour n'a pas à être convaincue que l'appelant aura gain de cause sur ce point à l'audience.
+[47] En ce qui concerne le point accessoire portant sur la compétence de la Cour et la question de la réparation « convenable et juste », la Cour estime qu'elle a compétence en vertu du paragraphe 24(1) de la Charte pour trancher la question relative à la discrimination et pour accorder la réparation demandée, à savoir l'annulation de la cotisation établie à l'égard de l'appelant, au motif que l'annulation de la cotisation dont l'appelant avait fait l'objet est la réparation « convenable et juste » à l'égard de la violation de dispositions de la Charte par le ministre.
+[48] La Cour accueillera la requête présentée par l'appelant en vue d'obtenir une modification de l'avis d'appel modifié tel qu'il a été proposé. L'intimée aura le droit de déposer une réponse modifiée. Le délai dont dispose l'intimée pour déposer une réponse modifiée à l'avis d'appel modifié une seconde fois et pour d'autres interrogatoires préalables sera fixé après consultation entre les parties et la Cour.
+[49] En ce qui a trait à la question des dépens, l'appelant n'en a pas demandé et aucuns dépens ne lui seront adjugés.
+[50] Quant aux dépens demandés par l'intimée, la Cour n'admet pas les observations de l'avocate, qui sollicite des frais de 2 000 $, payables sans délai par l'appelant.
+[51] L'intimée a droit aux dépens de la journée, qui suivront l'issue de la cause, et qui seront payables à l'intimée, quelle que soit l'issue de la cause.
+Signé à New Glasgow (Nouvelle‑Écosse), ce 1er jour de décembre 2010.
+« T. E. Margeson »
+Le juge Margeson
+Traduction certifiée conforme
+ce 11e jour d'avril 2014.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2010 CCI 617
+No DU DOSSIER DE LA COUR : 2004-3778(IT)G
+INTITULÉ : JOHN FLUEVOG c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Vancouver (Colombie‑Britannque)
+DATE DE L'AUDIENCE : Le 12 octobre 2010
+MOTIFS DE L'ORDONNANCE : L'honorable juge T. E. Margeson
+DATE DE L'ORDONNANCE : Le 1er décembre 2010
+COMPARUTIONS :
+Avocats de l'appelant :
+Me Timothy W. Clarke
+Me Ryan Dalziel
+Avocates de l'intimée :
+Me Lynn M. Burch
+Me Lisa McDonald
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom : Timothy W. Clarke
+Cabinet : Bull, Housser & Tupper LLP
+Vancouver (Colombie‑Britannique)
+Pour l'intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Agence des douanes et du revenu du Canada, Circulaire d'information no 75‑23, « Frais de scolarité et dons de charité versés à des écoles laïques privées et à des écoles religieuses », 29 septembre 1975, aux paragraphes 3 et 4.
+[2] Lettre d'Elizabeth (Lisa) McDonald à Timothy W. Clarke du 18 septembre 2009, affidavit de Linda Aiello souscrit le 26 mai 2010, pièce « M », à la page 2; observations écrites à l'appui de la requête présentée par l'appelant en vue d'obtenir la modification de l'avis d'appel, au paragraphe 23.
+[3] Lettre d'Elizabeth (Lisa) McDonald à Timothy W. Clarke du 18 septembre 2009, affidavit de Linda Aiello souscrit le 26 mai 2010, pièce « M », à la page 2; observations écrites à l'appui de la requête présentée par l'appelant en vue d'obtenir la modification de l'avis d'appel, au paragraphe 25.

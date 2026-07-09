@@ -1,0 +1,145 @@
+---
+title: "Rancourt c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28660/index.do"
+last_modified: "2008-06-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 285"
+citation2: ""
+neutral_citation: "2008 CCI 285"
+decision_date: "2008-06-02"
+language: "fr"
+item_id: "28660"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1124
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:42:20.574000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "10217e4d20a433d06586a109984a7567f51e1e2fa01846b04d94f613ef0acd63"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Rancourt c. La Reine
+
+- Citation: 2008 CCI 285
+- Decision date: 2008-06-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1124, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rancourt c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-06-02
+Référence neutre
+2008 CCI 285
+Numéro de dossier
+2006-2338(GST)G
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2006-2338(GST)G
+ENTRE :
+EVELYNE RANCOURT,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 28 avril 2008, à Montréal (Québec).
+Devant : L'honorable juge François Angers
+Comparutions :
+Avocat de l'appelant :
+Me Michel Villeneuve
+Avocate de l'intimée :
+Me Martine Bergeron
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation pour la période du 1er août 2003 au 30 avril 2004 établie en vertu de la Loi sur la taxe d'accise, dont l'avis daté du 2 mai 2006 porte le numéro PM-12016-1 est accueilli avec dépens, selon les motifs du jugement ci-joints.
+Signé à Edmundston, Nouveau-Brunswick, ce 2e jour de juin 2008.
+« François Angers »
+Juge Angers
+Référence : 2008CCI285
+Date : 20080602
+Dossier : 2006-2338(GST)G
+ENTRE :
+EVELYNE RANCOURT,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Il s’agit d’une cotisation établie à l’encontre de l’appelante en sa qualité d’administratrice de la compagnie Criz’Antenne Centre d’éducation sur les arts d’interprétation (Criz’Antenne) dont l’avis porte le numéro PM‑12016-1 et qui est daté du 2 mai 2006. La somme réclamée à l’appelante se chiffre à 9 414,96 $, incluant intérêts et pénalités, et porte sur une période allant du 1er août 2003 au 30 avril 2004.
+[2] Criz’Antenne a été dûment constituée le 2 juillet 1996 comme organisme sans but lucratif. En tout temps pertinent, elle était inscrite aux fins de la partie IX de la Loi sur la taxe d’accise (LTA). Cette compagnie oeuvrait dans le domaine de la diffusion de spectacles et l’exploitation d’une salle de spectacle et d’un bar sous le nom « L’Espace Alizé ». Pour la période en question, Criz’Antenne a fait défaut de verser au ministre du Revenu (le « Ministre ») les montants de taxe nette qu’elle devait verser en vertu de la LTA. Le 8 septembre 2004, le Ministre obtenait la délivrance par la Cour fédérale d’un certificat attestant l’exigibilité d’une créance de 19 610,47 $ à l’égard de Criz’Antenne pour la période du 30 novembre 2002 au 31 mai 2004. Après la délivrance d’un bref d’exécution et le saisie de biens dont la valeur ne dépassait pas 150,10 $, la créance est demeurée impayée.
+[3] Il s’agit donc de déterminer si l’appelante, en sa qualité d’administratrice de Criz’Antenne, a agi avec autant de soin, de diligence et de compétence que ne l’aurait fait une personne raisonnablement prudente dans les mêmes circonstances pour prévenir le défaut de Criz’Antenne de verser la totalité de la taxe nette due pour la période en litige. Les dispositions législatives pertinentes sont reproduites ici :
+323(1) Responsabilité des administrateurs – Les administrateurs d'une personne morale au moment où elle était tenue de verser, comme l'exigent les paragraphes 228(2) ou (2.3), un montant de taxe nette ou, comme l'exige l'article 230.1, un montant au titre d'un remboursement de taxe nette qui lui a été payé ou qui a été déduit d'une somme dont elle est redevable, sont, en cas de défaut par la personne morale, solidairement tenus, avec cette dernière, de payer le montant ainsi que les intérêts et pénalités afférents.
+323(3) Diligence – L’administrateur n'encourt pas de responsabilité s'il a agi avec autant de soin, de diligence et de compétence pour prévenir le manquement visé au paragraphe (1) que ne l'aurait fait une personne raisonnablement prudente dans les mêmes circonstances.
+[4] L’appelante est née le 13 septembre 1978. À l’époque pertinente, elle ne possédait aucune formation précise ni de connaissances en comptabilité et en fiscalité. En octobre 2001, elle fit la connaissance de Stéphane Toupin qui, à l’époque, était le président du conseil d’administration de Criz’Antenne et le directeur des activités et de la programmation à titre d’employé de Criz’Antenne. Il était également le fondateur de l’entreprise. Il a embauché l’appelante à titre de bar maid, tâche qu’elle a accomplie jusqu’en octobre 2002 quand elle a quitté cet emploi pour occuper un emploi semblable ailleurs.
+[5] Quelques mois après son embauche, alors qu’elle était toujours à l’emploi de Criz’Antenne, Stéphane Toupin lui a offert de devenir membre du conseil d’administration et, par la suite, lui a proposé de siéger comme administratrice au conseil d’administration de Criz’Antenne, ce qu’elle a accepté. En juillet 2002, à l’occasion d’une assemblée générale des membres de Criz’Antenne, l’appelante a été élue au conseil d’administration et on lui a attribué la fonction de secrétaire. Le conseil d’administration était composé de 5 membres dont 4 furent élus lors de cette assemblée, notamment le président, Stéphane Toupin, jusqu’en 2003.
+[6] Stéphane Toupin, en sa qualité de directeur et de président, et un dénommé Sylvain Laplante, étaient des employés de Criz’Antenne qui avaient la responsabilité et la tâche de veiller à la bonne marche des activités quotidiennes de Criz’Antenne. Monsieur Laplante agissait à titre de coordonnateur des activités. Quant aux fonctions de l’appelante à titre de secrétaire, elles se résumaient à la rédaction des procès-verbaux et à l’organisation des réunions. Le procès-verbal de la première réunion du nouveau conseil d’administration tenue le 4 août 2002 fait état entre autres des comptes fournisseurs, dont des déductions à la source (DAS) non versées se chiffrant à 8 000 $. Il est évident que la réunion était dominée par Stéphane Toupin et Sylvain Laplante et on ne note aucune participation de l’appelante, si ce n’est le fait qu’elle a donné son appui à la levée de la réunion.
+[7] Le conseil d’administration s’est par la suite réuni le 16 décembre 2002 mais aucun procès-verbal de cette réunion n’a été produit. Ce n’est qu’à la réunion du 15 janvier 2003 qu’on a tenté de reconstituer les discussions et il devient évident que Criz’Antenne vit une situation difficile et que la comptabilité est boiteuse en ce qu’il existe des données contradictoires et des écarts de caisse. L’appelante n’est pas présente à cette réunion qui est toujours dominée, à mon sens, par Stéphane Toupin et Sylvain Laplante. Selon le procès-verbal, des ententes en ce qui concerne les DAS sont conclues et les versements de la taxe sur les produits et services (TPS) sont faits depuis juillet 2002, sauf qu’il faut prendre des mesures pour régler la question des paiements.
+[8] Une assemblée générale d’orientation de Criz’Antenne est tenue le 11 février 2003. L’appelante n’est pas présente. Le procès-verbal indique que des personnes qui ne font pas partie du conseil d’administration sont présentes et qu’il y a quorum. On y discute, entre autres, du fait que le déficit n’est pas si catastrophique, qu’une entente sur les DAS a été conclue et qu’il ne reste que la TPS à régler. Il semble y avoir une incertitude en ce qui concerne la dette de Criz’Antenne envers le gouvernement pour la TPS et la dette du gouvernement envers l’entreprise. On délègue à Sylvain Laplante la tâche de faire le nécessaire pour régler ce dossier.
+[9] La réunion suivante du conseil d’administration a lieu le 23 avril 2003. L’appelante est présente. Une ristourne possible de revenu Québec est mise en doute et le fait que les bilans financiers de janvier à avril 2003 ne sont pas disponibles soulève des questions. Quelqu’un a demandé pourquoi on ne les reçoit pas à chaque semaine. Sylvain Laplante explique que c’est en raison du désintéressement du conseil d’administration et du fait qu’il ne l’a pas exigé de la comptable en place parce qu’on lui doit de l’argent. Stéphane Toupin et Sylvain Laplante dominent toujours la réunion.
+[10] Le procès-verbal de la réunion du conseil d’administration du 14 mai 2003 nous permet de constater qu’en janvier 2003, un chèque de 13 000 $ a été envoyé pour payer les sommes exigibles de TPS pour une période de six mois. Sylvain Laplante annonce qu’il quittera son poste à la fin de son contrat, soit à la fin d’août 2003. Il propose de former quelqu’un pour le remplacer. L’assemblée est informée du fait que Criz’Antenne paie environ 6 500 $ en TPS et en taxe de vente du Québec (TVQ) à chaque trimestre. On apprend aussi que le conseil d’administration est géré par Stéphane Toupin. Quant à l’appelante, elle soulève le fait que les tâches ne sont pas assez descriptives et précises quant au travail de chacun, qu’il y a un manque d’organisation et de grandes lacunes en ce qui concerne la promotion et la publicité. On discute d’un nouveau plan de développement.
+[11] Durant les mois de juillet et d’août 2003, deux réunions du conseil d’administration ont lieu. La situation financière et la gestion de Criz’Antenne font l’objet d’intenses discussions. Le tout se termine par le congédiement de Stéphane Toupin au motif que ce dernier ne respectait pas les décisions du conseil d’administration, notamment en ce qui concerne certaines rénovations, le non-paiement des salaires des employés, le départ des employés et des membres du conseil d’administration.
+[12] Selon l’appelante, Stéphane Toupin n’a pas été remplacé et un autre administrateur, soit le vice-président, ne se présentait plus aux réunions, malgré le fait qu’à la réunion du 4 août 2003, il fût nommé avec l’appelante et Elaine Grisé par intérim pour siéger au conseil d’administration. Criz’Antenne s’est donc trouvée sans président ni vice-président. On a nommé Elaine Grisé comme co-signataire mais on ignore l’identité de l’autre co-signataire. L’appelante, pour sa part, n’a jamais signé de chèques. La comptabilité n’était toujours pas satisfaisante malgré le fait qu’une personne avait été embauchée pour faire ce travail. Cependant, cette dernière a quitté Criz’Antenne. Le 18 août 2003, lors d’une assemblée générale spéciale, Elaine Grisé a été nommée coordonnatrice.
+[13] La réunion suivante du conseil d’administration a lieu le 13 novembre 2003. Le conseil d’administration ne compte plus que trois administrateurs, soit Elaine Grisé, Jean Beaumier et l’appelante. Monsieur Beaumier n’est pas présent à cette réunion étant donné que personne n’a pu le rejoindre. Elaine Grisé s’occupe des activités quotidiennes et de la gestion du personnel. Une personne a été embauchée pour s’occuper de la comptabilité à raison de 10 heures par semaine. Elle est responsable des DAS, de la TPS, de la paie et des états financiers. L’appelante n’est mise au courant de cette embauche qu’à la réunion. On y apprend aussi qu’il n’y a plus de problèmes à régler dans l’immédiat mais qu’il faut toujours composer avec les dettes antérieures. Dans l’immédiat, on parle d’une dette de 900 $ à Revenu Canada qui, selon l’appelante, était la dette mensuelle courante. L’appelante est informée que le processus de réduction des dépenses est mis en place et que des efforts afin d’optimiser les revenus sont faits. L’appelante demeure administratrice parce qu’il n’y a personne pour prendre sa place et qu’elle a à cœur l’organisation. En fait, n’eût été du fait qu’elle voulait voter en faveur du congédiement de Stéphane Toupin, elle aurait démissionné en août 2003.
+[14] Une assemblée générale des membres est prévue pour janvier 2004, mais elle n’aura finalement lieu que le 20 mars 2004. La comptabilité de l’organisme semble être mieux gérée mais la situation financière et l’avenir de Criz’Antenne font l’objet de discussions puisque le renouvellement du bail pose problème. Une dernière réunion des membres est convoquée pour le 29 mai 2004 afin de discuter de l’avenir de Criz’Antenne mais aucun procès-verbal de cette réunion n’a été produit.
+[15] Durant la période de novembre 2003 jusqu’à la fermeture de Criz’Antenne, l’appelante a rencontré de façon informelle Elaine Grisé pour discuter des problèmes de Criz’Antenne, de l’avenir de l’organisme et des difficultés associées à la négociation du renouvellement du bail. L’appelante témoigne avoir mis sa confiance en Elaine Grisé et la comptable qui fut embauchée à l’automne 2003 mais qui a quitté en juin 2004. Ce n’est qu’à la toute fin de 2004 que l’appelante aurait appris que la dette à Revenu Canada se chiffrait dans les 40 000 $.
+[16] Durant la période en question, le rapport trimestriel de la TPS était envoyé en retard ou à temps mais les versements n’étaient jamais faits. L’appelante a été cotisée pour les périodes antérieures à celles qui sont en cause et ce n’est qu’au stade de l’opposition que la période a été réduite à celle dont est saisie la Cour.
+[17] Je ne veux pas reprendre en l’espèce toute la jurisprudence portant sur la façon de procéder pour faire l’analyse du moyen de défense fondé sur la diligence raisonnable lorsque la responsabilité d’un administrateur est engagée par le défaut de la société d’effectuer les versements prévus par la LTA. Il me suffit cependant de mentionner que, dans l’arrêt Soper c. la Reine, [1997] 3 C.T.C. 242, il est prévu qu’un critère objectif-subjectif est de mise pour l’analyse de la norme de diligence raisonnable. La Cour suprême du Canada, dans l’arrêt Magasins à rayons Peoples inc (Syndic de) c. Wise, [2004] 3 R.C.S. 461, a modifié ce critère afin d’adopter une norme objective aux fins de l’application de l’alinéa 122(1)b) de la Loi canadienne des sociétés par actions (L.R.C. 1985 ch. C‑44) et donc, par voie de conséquence nécessaire, du paragraphe 323(3) de la LTA qui est libellé de façon identique.
+Voici ce qu’on peut lire au paragraphe 63 de cet arrêt:
+Ainsi, il devient évident que dans le cas de l’obligation de diligence prévue à l’al. 122(1)b), ce sont les éléments factuels du contexte dans lequel agissent l’administrateur ou le dirigeant qui sont importants, plutôt que les motifs subjectifs de ces derniers, qui sont l’objet essentiel de l’obligation fiduciaire prévue à l’al. 122(1)a) de la LCSA.
+[18] La Cour suprême affirme en outre au paragraphe 67 de l’arrêt que l’obligation de diligence peut être respectée si les administrateurs ont agi prudemment en se fondant sur les renseignements dont ils disposaient. Il ne s’agit pas d’une obligation de prendre la meilleure décision mais de prendre une décision d’affaire raisonnable vu les circonstances. Il est important de souligner que, pour l’analyse de l’élément de prudence, il ne s’agit pas d’analyser la situation commerciale à la lumière des faits ultérieurs, mais en tenant compte des renseignements dont les administrateurs disposaient au moment où ils ont pris leur décision et je cite :
+On ne considérera pas que les administrateurs et les dirigeants ont manqué à l’obligation de diligence énoncée à l’al. 122(1)b) de la LCSA s’ils ont agi avec prudence et en s’appuyant sur les renseignements dont ils disposaient. Les décisions prises doivent constituer des décisions d’affaires raisonnables compte tenu de ce qu’ils savaient ou auraient dû savoir.
+[19] Il est bon aussi de se rappeler que la jurisprudence a souligné à de nombreuses reprises que le paragraphe 323(3) de la LTA précise le moment où l’administrateur doit agir afin de pouvoir bénéficier de l’exemption de responsabilité due à sa diligence. Il doit avoir agi avec autant de soin, de diligence et de compétence pour prévenir le manquement que ne l’aurait fait une personne prudente sans les mêmes circonstances. Les efforts que fait un administrateur dans le but de limiter le manquement après le coup ou de remédier au manquement est sans importance. L’analyse doit se faire en rapport avec les moyens pris afin de prévenir les manquements aux obligations statutaires de la société et en tenant compte des circonstances de chaque cas. Finalement, le norme applicable n’est pas différente dans le cas de l’administrateur d’un organisme sans but lucratif ou de celui d’une société en affaires. La flexibilité est de mise dans l’application de la norme (voir le paragraphe 24 de l’arrêt de la Cour d’appel fédérale Her Majesty the Queen v. Corsano, 99 DTC 5658, que je reproduis ici) :
+Je suis d'accord avec les avocats de l'appelante que la raison d'être du paragraphe 227.1(1) est de rendre les administrateurs responsables de la déduction et de la remise des impôts des employés, et que cette responsabilité n'est pas différente selon que la corporation a ou non un but lucratif, et j'ajouterais selon que les administrateurs sont rémunérés ou non, ou selon qu'ils sont actifs ou inactifs. Tous les administrateurs de toutes les corporations sont responsables de tout manquement à l'unique norme de prudence prévue au paragraphe 227.1(3) de la Loi. La souplesse se situe au niveau de l'application de la norme, puisque les qualifications, compétences et attributs des administrateurs varient d'une situation à l'autre. Il en va de même des circonstances entourant l'omission de conserver et de remettre les sommes dues.
+[20] Toute cette affaire a commencé pour l’appelante par une recherche d’emploi auprès de Criz’Antenne qui a abouti à l’obtention d’un emploi à titre de bar-maid. L’appelante était âgée de 23 ans à l’époque, elle ne possédait aucune expérience dans le domaine des affaires et n’était pas diplômée. À la demande de Stéphane Toupin, elle devint par la suite administratrice de Criz’Antenne en raison de son intérêt pour les objectifs de cette organisme. On lui a attribué le rôle de secrétaire, rôle qui se limitait à la rédaction des procès-verbaux. Elle ne signait pas les chèques de Criz’Antenne et, selon la preuve, sa participation aux activités de Criz’Antenne à titre d’administratrice était très limitée. Elle a quitté son emploi à Criz’Antenne à l’automne de 2002. La lecture des procès-verbaux nous permet effectivement de constater que sa participation à titre d’administratrice était relativement passive en ce qu’elle ne participait pas aux discussions. Nous constatons aussi que la gestion de Criz’Antenne relevait de Stéphane Toupin et de Sylvain Laplante à tout point de vue, du moins jusqu’à leur départ en août 2003.
+[21] C’est d’ailleurs à la suite de leur départ, que la responsabilité de l’appelante en tant qu’administratrice avait été engagée. À cette époque, l’appelante a continué à jouer le rôle d’administratrice, mais c’est Elaine Grisé qui a pris la relève en ce qui concerne la gestion quotidienne de Criz’Antenne. En plus d’être administratrice, Elaine Grisé est devenue coordonatrice à titre d’employée.
+[22] Il ne fait aucun doute qu’à cette époque, Criz’Antenne était en pleine crise et que des mesures s’imposaient dans le but de rétablir la situation financière et la bonne marche de ses activités. Cette responsabilité a d’ailleurs été confiée à madame Grisé qui a pris des mesures pour réduire les dépenses et optimiser les revenus. Elle a embauché, avec l’autorisation du conseil d’administration, une personne dans le but de mettre de l’ordre dans la comptabilité. Il est évident que l’appelante ne jouait toujours pas un rôle très important et sa présence à la réunion du conseil d’administration du 13 novembre 2003 lui a permis d’apprendre que la situation avait changé en ce sens que la comptabilité était sous contrôle, que les DAS et, surtout, que les versements de TPS étaient à jour, particulièrement le paiement de 900 $ qui représentait le versement courant, soit le versement mensuel. Les mesures concrètes prises en août 2003 et visant non seulement les congédiements mais aussi la nomination d’une nouvelle coordonatrice et d’une comptable ainsi que l’adoption d’un nouveau plan d’action ont porté fruit. Pour quelqu’un comme l’appelante, c’est-à-dire une personne ayant peu d’expérience dans le domaine des affaires et de la gestion, il y avait raison de croire que les décisions prises étaient celles qui étaient nécessaires afin de rétablir la situation financière de la compagnie et de faire en sorte que les versements de TPS soient faits. D’ailleurs, comme je l’ai mentionné, il a été confirmé, lors de la réunion de novembre, que les versements de TPS étaient à jour, sauf pour un mois. À mon avis, à titre d’administratrice n’ayant rien à voir avec les activités quotidiennes de la compagnie, l’appelante avait raison de croire que la situation était rétablie et que les versements de TPS allaient être faits dans le cours normal des choses.
+[23] La situation ne s’est pas améliorée et une seule assemblée générale a eu lieu en 2004, soit celle du 20 mars. Et voilà qu’à cette assemblée, on admet de nouveaux membres qui discutent de certaines questions qui, à mon avis, auraient dû relever du conseil d’administration et non des membres. La participation de l’appelante se limite encore une fois à la rédaction du procès-verbal et à la lecture du procès-verbal de l’assemblée précédente. La lecture de l’ensemble des procès-verbaux ne permet pas à l’appelante d’acquérir une expérience enrichissante dans la gestion d’une société ou encore d’assumer les responsabilités relevant d’un administrateur d’une société. Elle y était tout simplement par sentiment d’appartenance et d’obligation et sans la conviction que ses idées ou ses suggestions pourraient avoir un impact. Il est évident que cet organisme était dirigé par une ou deux personnes qui faisaient fi des directives du conseil d’administration et qui agissaient sans l’autorité de celui-ci en ce qui concerne les rénovations ou encore l’embauche de personnel. Dans de telles circonstances, il est difficile d’exiger de quelqu’un comme l’appelante d’exercer un degré de soin, de diligence et de prudence élevé ou encore de s’attendre à ce qu’elle puisse même poser des gestes concrets pouvant prévenir les manquements au chapitre des versements de la taxe nette. Pour ces motifs, je conclus que l’appelante s’est acquittée de son fardeau de la preuve selon la prépondérance des probabilités et qu’elle a démontré qu’elle avait agi avec soin, prudence et diligence raisonnable dans les circonstances de l’espèce. L’appel est accueilli avec dépens.
+Signé à Edmundston (Nouveau-Brunswick), ce 2e jour de juin 2008.
+« François Angers »
+Juge Angers
+RÉFÉRENCE : 2008CCI248
+Nº DU DOSSIER DE LA COUR : 2006-2338(GST)G
+INTITULÉ DE LA CAUSE : Evelyne Rancourt et Sa Majesté La Reine
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 28 avril 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge François Angers
+DATE DU JUGEMENT : le 2 juin 2008
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Michel Villeneuve
+Avocate de l'intimée :
+Me Martine Bergeron
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom : Me Michel Villeneuve
+Cabinet : Brunet et Brunet, avocats
+Montréal (Québec)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

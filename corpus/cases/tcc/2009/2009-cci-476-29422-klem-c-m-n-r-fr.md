@@ -1,0 +1,168 @@
+---
+title: "Klem c. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29422/index.do"
+last_modified: "2009-09-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 476"
+citation2: ""
+neutral_citation: "2009 CCI 476"
+decision_date: "2009-09-21"
+language: "fr"
+item_id: "29422"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6974
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:32:39.817000+00:00"
+cases_cited_count: 8
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "150cb84e7d1f2607d6cd963f3600d83b0011d7ea0f122ef72e5d9e09d3db56cc"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Klem c. M.N.R.
+
+- Citation: 2009 CCI 476
+- Decision date: 2009-09-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6974, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Klem c. M.N.R.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-09-21
+Référence neutre
+2009 CCI 476
+Numéro de dossier
+2009-1220(EI)
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2009-1220(EI)
+ENTRE :
+GREG KLEM,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu à Victoria (Colombie-Britannique), le 10 septembre 2009.
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimé :
+Me Matthew W. Turnell
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli et la décision rendue par le ministre du Revenu national le 31 mars 2009 sous le régime de la Loi sur l’assurance‑emploi est modifiée compte tenu du fait que l’appelant exerçait un emploi assurable pendant la période du 26 avril 2008 au 25 mai 2008.
+Signé à Ottawa, Canada, ce 21e jour de septembre 2009.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 16e jour de novembre 2009.
+Hélène Tremblay, traductrice
+Référence : 2009 CCI 476
+Date : 20090921
+Dossier : 2009-1220(EI)
+ENTRE :
+GREG KLEM,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Boyle
+[1] Monsieur Klem, travailleur forestier de la Colombie‑Britannique, a interjeté appel de la décision rendue par l’Agence du revenu du Canada (l’« ARC ») selon laquelle le travail qu’il a effectué en avril et en mai 2008 pour la Pacheedaht First Nation (la « bande ») l’a été en qualité d’entrepreneur indépendant et non d’employé.
+I. Introduction
+[2] Monsieur Klem est un travailleur forestier qui compte de nombreuses années d’expérience. Il a travaillé comme planteur d’arbres et à plusieurs autres titres dans le domaine sylvicole, y compris élagueur, préposé à l’espacement et préposé à la réhabilitation par suite de glissement de terrain. Il a occupé ces postes parfois comme employé, parfois comme entrepreneur indépendant. Il avait travaillé comme employé de la bande à titre de planteur d’arbres au cours d’années antérieures de même que pendant les semaines ayant immédiatement précédé les travaux de déboisement.
+[3] La plantation d’arbres est un travail saisonnier à court terme qui dure quelques semaines au printemps et à l’automne. De nombreux planteurs, dont M. Klem, sont qualifiés d’employés, et reconnus en cette qualité, sous le régime du droit du travail provincial et de l’assurance‑emploi (l’« AE »). En réalité, l’ARC a reconnu que le travail de plantation d’arbres effectué par M. Klem pour la bande en avril 2008 dans une région traditionnelle de cette dernière constituait un emploi. La question en litige en l’espèce vise le travail que M. Klem a fait pour la bande à titre de préposé au déboisement sur l’étendue de 25 kilomètres de la West Coast Trail qui se trouve dans une région traditionnelle de la bande. À la demande de celle‑ci, M. Klem a cessé la plantation d’arbres et a commencé le déboisement. À ce moment, il ne restait environ que trois ou quatre jours de travail de plantation d’arbres à effectuer tandis qu’on estimait que huit à dix jours de travaux de déboisement étaient nécessaires sur la West Coast Trail.
+II. Question en litige
+[4] La seule question en litige en l’espèce est celle de savoir si, pour l’application de l’AE, le travail réalisé par M. Klem pour le compte de la bande a cessé d’être effectué aux termes d’un contrat de louage de services à titre d’employé pour être exercé dans le cadre d’un contrat d’entreprise à titre d’entrepreneur indépendant, au moment où il a cessé de remplir les fonctions de planteur d’arbres pour exercer celles de préposé au déboisement.
+III. Droit
+[5] Comme l’a déclaré la Cour suprême du Canada dans l’arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., 2001 CSC 59, [2001] 2 R.C.S. 983, il n’existe aucun critère unique et concluant dont l’application permette dans tous les cas de déterminer si une personne est un employé ou un entrepreneur indépendant. Pour décider si une personne se trouve dans la situation d’employé par opposition à celle d’entrepreneur indépendant pour l’application de la définition d’emploi assurable, il faut se demander si elle exploite réellement une entreprise pour son propre compte. Cette question a été énoncée par les tribunaux britanniques dans l’arrêt Market Investigations, Ltd. v. Minister of Social Security, [1968] 3 All E.R. 732 (Q.B.D.). Elle a été approuvée par la Cour d’appel fédérale dans l’arrêt Wiebe Door Services Ltd. c. M.R.N., [1986] 3 C.F. 553, 87 DTC 5025, pour l’application de la définition canadienne d’emploi assurable, et adoptée par la Cour suprême du Canada dans l’arrêt Sagaz Industries. Ce point doit être tranché à la lumière de toutes les circonstances pertinentes et d’un certain nombre de critères ou de lignes directrices utiles, notamment : 1) l’intention des parties; 2) le degré de contrôle exercé sur le travail; 3) la propriété des instruments de travail; 4) la possibilité de profit et le risque de perte et 5) ce qu’on a appelé le critère d’intégration à l’entreprise, le critère d’organisation ou le critère de l’entreprise.
+[6] Dans l’arrêt Royal Winnipeg Ballet c. M.R.N., 2006 CAF 87, [2007] R.C.F. 35, 2006 DTC 6323, la Cour d’appel fédérale souligne l’importance particulière des critères relatifs à l’intention des parties et au contrôle pour répondre à ces questions. Cette approche est compatible avec la décision ultérieure rendue par la Cour d’appel fédérale dans l’arrêt Combined Insurance Co. of America c. M.R.N., 2007 CAF 60, de même qu’avec l’arrêt City Water International Inc. c. M.R.N., 2006 CAF 350. Les motifs donnés par l’ancien juge en chef Bowman de la présente cour dans la décision Lang et al. c. M.R.N., 2007 CCI 547, 2007 DTC 1754, sont également précieux à cet égard.
+[7] Je me penche maintenant sur les circonstances et les éléments qui, à mon avis, sont pertinents compte tenu de la situation particulière de M. Klem.
+IV. Intention
+[8] L’intention qu’avaient les parties au moment de prendre des arrangements relatifs aux services de déboisement rendus par M. Klem n’est pas d’une grande utilité en l’espèce. Il semble qu’on n’ait pas réussi à s’exprimer de façon claire et précise. L’emploi du terme [TRADUCTION] « contrat » ne paraît pas avoir amélioré la situation. Le témoignage de M. Klem révèle sans équivoque qu’il était dans l’intention de ce dernier qu’il s’agisse d’une continuation de son emploi parce qu’il avait besoin des heures supplémentaires de travail pour l’application de l’AE et que ni M. Jones, pour le compte de la bande, ni personne d’autre n’a laissé entendre autre chose à ce moment.
+[9] Le forestier de la bande, M. Jones, ne pouvait se rappeler s’il avait à ce moment informé M. Klem qu’il cesserait d’être un employé pour devenir un entrepreneur indépendant. Il était uniquement certain d’avoir précisé qu’il s’agissait d’un contrat ou de travaux contractuels, ce qui n’est pas très clair. Non seulement les contrats de louage de services et les contrats d’entreprise sont‑ils tous deux des contrats, mais il ressort des témoignages que, dans ce secteur de l’industrie forestière, les termes travail à contrat étaient utilisés pour désigner à la fois le travail effectué à titre d’employé et celui réalisé en qualité d’entrepreneur indépendant. Par exemple, même M. Jones a qualifié de tarif contractuel le tarif à la pièce payé aux planteurs d’arbres employés par la bande.
+[10] J’accepte l’assertion de M. Klem voulant qu’il ait été de son intention qu’il s’agisse d’un travail effectué à titre d’employé. Quant à l’intention de la bande, je conclus uniquement qu’au moment où on a offert à M. Klem le travail de préposé au déboisement, tant Mme Hunt, administratrice de la bande, que M. Jones savaient que M. Klem cherchait du travail supplémentaire et qu’il avait besoin non seulement de cet argent, mais aussi des heures supplémentaires qu’il pourrait accumuler pour l’application de l’AE. La preuve ne suffit pas à me convaincre que la bande avait l’intention, à ce moment, de changer la situation d’employé de M. Klem en une situation d’entrepreneur indépendant, ni qu’elle a fait part d’une telle intention à M. Klem.
+V. Qualification par les parties
+[11] Juste avant de commencer son travail de déboisement, M. Klem était un planteur d’arbres employé par la bande. (Même si M. Jones a mentionné que, strictement parlant, l’employeur était une société par actions ordinaire appartenant à la bande, ce n’est pas sur ce fondement que les parties ont plaidé leur cause respective et cette assertion est incompatible avec la thèse et les hypothèses qu’a toujours avancées le ministre. J’estime donc que la distinction est dénuée d’importance.) À titre d’employé, M. Klem avait rempli à l’intention de la bande les formules de retenues salariales appropriées.
+[12] Les travaux de déboisement de la West Coast Trail avaient été confiés par Parcs Canada à la bande dans le cadre d’un contrat d’entreprise. Mme Hunt a déclaré que Parcs Canada l’avait informée que huit à dix jours seraient nécessaires à deux travailleurs expérimentés pour effectuer les travaux et qu’une somme de 2 000 $ par travailleur constituerait une paie raisonnable.
+[13] Dans leur témoignage, Mme Jones et M. Klem ont tous deux affirmé que ce dernier devait recevoir 2 000 $ pour le travail, peu importe qu’il ait besoin de dix jours, comme il était prévu, ou de huit jours ou moins. M. Klem a ajouté qu’il devait faire ce qu’il pouvait dans le délai de dix jours, tandis que M. Jones a révélé qu’il s’attendait, quoi qu’il en soit, à ce que le travail soit terminé.
+[14] Au moment de payer M. Klem pour le travail effectué avant que les travaux ne soient terminés, il était manifeste que la bande payait 200 $ par jour travaillé. Il importe de souligner que la bande avait demandé à M. Klem de remplir à cette fin des formules qu’elle avait établies à l’intention de ses employés et sur lesquelles M. Klem devait préciser de façon détaillée les heures et les jours qu’il avait travaillés. Bien que certaines parties de la formule aient été biffées parce qu’elles ne s’appliquaient pas au contrat de M. Klem, ce ne fut pas le cas des passages faisant état d’une relation d’emploi. De même, lorsque le temps est venu de payer M. Klem pour l’utilisation de son camion, on a utilisé une formule destinée au remboursement des dépenses engagées par un employé. M. Klem devait se servir de son véhicule pour se rendre au chantier de travaux éloigné de la West Coast Trail en empruntant des chemins forestiers non balisés lorsqu’il était impossible pour le traversier retenu par contrat par la bande de l’y amener avec son compagnon de travail.
+[15] Je signale que la bande avait un certain nombre d’employés et d’entrepreneurs indépendants qui travaillaient pour elle et occupaient divers postes. De même, M. Klem effectuait du travail pour d’autres comme entrepreneur indépendant et il exploitait une entreprise saisonnière de guide touristique à titre d’entreprise individuelle. Néanmoins, les deux parties utilisaient les formules réservées aux employés de la bande pour consigner les heures et les jours de travail de M. Klem ainsi que les jours où il utilisait son propre camion.
+[16] La bande payait en outre des cotisations au titre de la Workers Compensation Board (« WCB ») relativement à M. Klem et elle savait que ce dernier ne détenait pas de couverture personnelle auprès de la WCB. Sur la formule de pièce de compte créditeur de la bande, cette dernière a ajouté à la somme payable à M. Klem la cotisation payable au titre de la WCB, puis elle a appliqué la même somme comme déduction de sorte que la paie de M. Klem n’était pas touchée et que la somme relative à la WCB était assumée par la bande.
+[17] Monsieur Klem a présenté en preuve certaines parties du contrat conclu entre la bande et Parcs Canada. Il avait présenté une demande d’accès à l’information afin d’obtenir une copie de certaines pages du contrat pour la période pertinente, notamment en ce qui concerne l’entretien du West Coast Trail. Dans son témoignage, Mme Hunt a renvoyé à deux de ces pages, qu’elle a elle‑même produites et qui, selon ses dires, faisaient partie du contrat. Je suis convaincu, à la lumière de la preuve dont je suis saisi, que la page intitulée [TRADUCTION] « Conditions générales – Appendice “A” » faisait partie de ce contrat.
+[18] La clause 3, intitulée [TRADUCTION] « Cession et sous‑traitance », de ces conditions générales prévoit que [TRADUCTION] « [l]e contrat ne peut, en tout ou en partie, être cédé et les travaux visés par le contrat ne peuvent, en tout ou en partie, faire l’objet d’une sous‑traitance sans le consentement écrit du Ministre […] ». [Non souligné dans l’original.] S’il était de l’intention de la bande que M. Klem agisse à titre de sous‑traitant, rien ne prouve que cette exigence a été remplie.
+[19] De plus, le processus d’appel d’offres de Parcs Canada prévoyait notamment une clause relative à un programme connu sous le nom de [TRADUCTION] « Programme de marchés réservés aux entreprises autochtones » et désigné comme le PMR. Dans le cadre de ce processus et de ce programme, la bande s’engageait à [TRADUCTION] « veiller à ce que les sous‑traitants dont elle retient les services pour le contrat satisfassent, s’il y a lieu, aux exigences fixées dans les “Exigences relatives au Programme de marchés réservés aux entreprises autochtones” qui sont jointes à l’appendice 2 de l’annexe E ». M. Klem ne faisait pas partie de ces personnes autochtones admissibles. Cependant, la preuve ne permet pas de savoir avec certitude si l’observation de cette clause était requise.
+[20] Le fait que la bande a omis d’informer M. Klem qu’il avait cessé d’être son employé; l’utilisation, par la bande et M. Klem, des formules élaborées à l’intention des employés; le fait que la bande payait les cotisations au titre de la WCB relativement au travail de M. Klem et, enfin, l’apparente omission de la bande, contrairement à son obligation contractuelle à cet effet, d’obtenir l’autorisation de Parcs Canada pour que M. Klem soit reconnu comme un sous‑traitant donnent tous à penser qu’il était de l’intention des parties que la relation de travail, au cours de celle‑ci, soit une relation employeur‑employé.
+VI. Instruments de travail
+[21] Les deux parties conviennent que le fait que M. Klem était propriétaire de la scie à chaîne dont il se servait pour le travail ainsi que de ses vêtements et de son matériel de protection n’a pas d’incidence en l’espèce puisqu’il s’agit d’une exigence à laquelle les préposés au déboisement et les autres travailleurs forestiers sont assujettis dans cette partie de la Colombie‑Britannique, que le travailleur soit un entrepreneur indépendant ou un employé. Comme l’a mentionné le juge Bowie au paragraphe 13 de la décision McPhee c. M.R.N., 2005 CCI 502, laquelle intéresse un travailleur forestier du Nouveau‑Brunswick, « [d]e fait, ils n’auraient pas pu obtenir de travail s’ils n’avaient pas possédé de scie ». Il tient en outre les propos suivants au paragraphe 16 :
+Quant à la scie mécanique, dans de nombreuses industries, les employés possèdent habituellement leurs propres outils, comme c’est le cas des mécaniciens et des menuisiers. Dans l’industrie ici en cause, du moins à cet endroit, il en est toujours ainsi. Quiconque veut travailler dans les forêts du Nouveau‑Brunswick doit posséder sa propre scie mécanique. Il en a tout simplement toujours été ainsi dans cette industrie.
+[22] Dans la présente affaire, le critère relatif à la propriété des instruments de travail ne fait pencher la balance ni dans un sens ni dans l’autre, il s’agit d’un facteur neutre.
+VII. Contrôle
+[23] La bande a engagé un travailleur forestier très expérimenté qu’elle connaissait bien puisqu’elle avait déjà retenu ses services dans le passé. La bande a imposé un calendrier serré et court de dix jours de travail, ce qui a effectivement obligé M. Klem à travailler à plein temps pendant toute la période. Les travaux ont débuté le 27 avril. Le contrat conclu avec Parcs Canada stipulait que les travaux devaient être terminés au plus tard le 15 mai. L’accès au lieu de travail était tributaire des conditions climatiques.
+[24] La bande contrôlait l’accès au lieu de travail, que ce soit par eau ou par terre. On avait précisé à M. Klem à quel fournisseur de service de traversier il devait s’adresser.
+[25] Parcs Canada rendait compte à la bande de l’évolution des travaux accomplis par M. Klem.
+[26] La bande a demandé à M. Klem de choisir un compagnon de travail, qu’elle engagerait et paierait. Ce choix devait se faire à partir d’une liste de noms qui lui serait remise par M. Jones ou aux bureaux de la bande.
+[27] La bande a informé M. Klem qu’il lui revenait de prendre les dispositions nécessaires à son transport par traversier et à celui de son collègue vers le lieu de travail éloigné. Elle lui a dit qu’il devait s’assurer d’avoir un contact radio adéquat à cet endroit. On lui a dit de prendre ces mesures et la preuve montre que c’est ce qu’il a fait. Il n’était pas libre de choisir les mesures à prendre ou de décider à son gré.
+[28] La bande a exigé que M. Klem, pour être payé, remplisse et signe des formules sur lesquelles étaient consignés de façon précise ses heures et ses jours travaillés. Il devait en outre remplir des formules analogues pour se faire rembourser ses frais de transport liés à l’utilisation de son propre camion.
+[29] Bien que le degré de contrôle exercé par la bande sur le travail de M. Klem ne soit pas nécessairement incompatible avec la situation d’employé ou celle d’entrepreneur indépendant, l’examen de ce critère dans son ensemble m’incite à conclure qu’il joue davantage en faveur d’une relation employeur‑employé entre la bande et M. Klem.
+[30] De surcroît, la preuve n’a pas révélé que M. Klem avait fait l’objet d’un degré de contrôle plus grand de la part de la bande au cours des semaines précédentes alors qu’il travaillait comme employé de la bande à titre de planteur d’arbres.
+VIII. Risque de perte et possibilité de profit
+[31] Le risque de perte découlant de l’obligation incombant à M. Klem de fournir sa propre scie à chaîne en état de marche ainsi que son propre matériel de protection est des plus faibles. Sa scie à chaîne lui a coûté 450 $ et il l’utilisait en de nombreuses occasions dans le cadre d’autres travaux forestiers qui lui étaient confiés. Son matériel de protection consistait principalement en un casque, des bottes et des pantalons de protection, soit le genre de vêtements et de matériel robustes et durables qui conviennent pour les travaux en cause.
+[32] De même, je suis convaincu que la possibilité que ses profits augmentent s’il réussissait à terminer son travail dans un délai de huit jours plutôt que de dix était minime. Le délai alloué par Parcs Canada pour effectuer les travaux et accepté par la bande était de huit à dix jours. Ce laps de temps n’a pas été proposé ou établi par M. Klem. Ce dernier pouvait uniquement terminer les travaux plus tôt si son collègue, sur lequel il ne pouvait exercer aucun contrôle, était également en mesure de terminer sa part du travail en avance. En outre, je signale que la preuve donne fortement à penser que la bande était en réalité uniquement disposée à payer M. Klem la somme de 200 $ par jour complet travaillé, peu importe les éventuelles discussions entre M. Jones et M. Klem au sujet du paiement de l’entière somme de 2 000 $ même si les travaux étaient terminés en avance. Le fait est que la bande a payé à M. Klem 1 800 $ pour neuf jours de travail. Bien que la bande ait dû payer quelqu’un d’autre pour achever les travaux, j’infère que ce travailleur n’a pas reçu plus de 200 $ sous ce rapport. En effet, personne ne m’a dit autre chose et je pense, à la lumière des dépositions de tous les témoins, qu’on m’aurait informé de ce fait, le cas échéant.
+[33] En pratique, M. Klem n’avait pas le loisir d’accepter du travail supplémentaire d’autres personnes pendant cette période compte tenu de l’horaire de travail et du fait que les intempéries susceptibles d’empêcher l’exécution des travaux certains jours ne pouvaient être prévues ou évitées. Comme la saison n’était pas assez avancée, les activités de son entreprise de guide touristique n’avaient pas encore débuté.
+[34] Pour ces raisons, je conclus que M. Klem exerçait un emploi assurable dans le cadre d’un contrat de louage de services pendant la période d’avril et mai 2008, au cours de laquelle il a travaillé pour la bande à titre de préposé au déboisement de la West Coast Trail.
+[35] Bien qu’il puisse paraître inhabituel à de nombreuses personnes qu’un contrat de travail d’une durée de dix jours constitue un contrat de louage de services ou une prolongation d’un contrat de louage de services qui n’aurait par ailleurs duré que plusieurs semaines, nous avons manifestement affaire à une des industries au Canada au sein desquelles le travail saisonnier répétitif de très courte durée est organisé comme un emploi. Qu’il puisse en être ainsi en partie pour assurer l’accès aux prestations d’AE ne change rien au fait qu’il s’agit d’un emploi. En réalité, le gouvernement reconnaît que ce genre de travail répétitif saisonnier à court terme constitue un emploi.
+[36] L’appel de M. Klem est accueilli.
+Signé à Ottawa, Canada, ce 21e jour de septembre 2009.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 16e jour de novembre 2009.
+Hélène Tremblay, traductrice
+RÉFÉRENCE : 2009 CCI 476
+NO DU DOSSIER DE LA COUR : 2009-1220(EI)
+INTITULÉ : Greg Klem c. Le ministre du Revenu national
+LIEU DE L’AUDIENCE : Victoria (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 10 septembre 2009
+MOTIFS DU JUGEMENT : L’honorable juge Patrick Boyle
+DATE DU JUGEMENT : Le 21 septembre 2009
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimé :
+Me Matthew W. Turnell
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

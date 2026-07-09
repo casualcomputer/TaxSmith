@@ -1,0 +1,215 @@
+---
+title: "Opheim v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26953/index.do"
+last_modified: "2005-09-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 619"
+citation2: ""
+neutral_citation: "2005 TCC 619"
+decision_date: "2005-09-20"
+language: "en"
+item_id: "26953"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 563
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:19:08.269000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6e30e535f2124e9d47d2be30a7fe5b12a41ecd78e0201dd96c11451ec72f3d7d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Opheim v. The Queen
+
+- Citation: 2005 TCC 619
+- Decision date: 2005-09-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 563, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Opheim v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-09-20
+Neutral citation
+2005 TCC 619
+File numbers
+2004-4655(GST)I
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2004-4655(GST)I
+BETWEEN:
+MYLES J. OPHEIM,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on August 24, 2005, at Regina, Saskatchewan
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+Agent for the Appellant:
+Lee C. Merriman
+Counsel for the Respondent:
+Gerald Chartier
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated October 8, 2003 and bears number 00000000141, is allowed respecting only the particulars set out in paragraph [2] of the attached Reasons for Judgment and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment accordingly.
+Signed at Vancouver, British Columbia, this 20th day of September, 2005.
+"D.W. Beaubier"
+Beaubier, J.
+Citation: 2005TCC619
+Date: 20050920
+Docket: 2004-4655GST)I
+BETWEEN:
+MYLES J. OPHEIM,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Beaubier, J.
+[1] This appeal pursuant to the Informal Procedure was heard at Regina, Saskatchewanon August 24, 2005. The Appellant's accountant, Lee Merriman, C.M.A., testified. The Respondent called the appeals officer on the file, Donald Lafreniere, C.M.A.
+[2] At the opening of the hearing, Appellant's counsel consented to judgment in favour of the Appellant respecting issue 15(a) described in the Reply to the Notice of Appeal as follows:
+15. The issues to be decided in this appeal are:
+(a) whether the Minister properly assessed the Appellant $441.00 with respect to the supplies by way of rental in 2002;
+Judgment is granted to the Appellant on this issue.
+[3] During the hearing the Appellant raised the issue of the Minister's calculation of taxes, interest and penalties between October 8, 2003and March 2, 2004 respecting the following documents received from the Minister:
+March 2, 2004
+Tax
+$7,174.84
+Interest
+818.62
+Penalty
+1,587.59
+Total
+$9,581.05
+October 8, 2003
+Tax
+$6,841.37
+Interest
+601.51
+Penalty
+1,069.96
+Total
+$8,512.84
+The Respondent's counsel was given two weeks in which to obtain a printout of these calculations for the Court and the Appellant, and Appellant's agent a further week in which to respond to them.
+[4] The remaining issue between the parties is whether the Appellant is entitled to Input Tax Credits ("ITC") of GST arising from his recovery of land, inventory, equipment, chattel paper, intangibles, and scheduled property sold to Wiens by the Appellant and his wife, Patti, on February 1, 1997 as the business known as "First Choice Auto & Truck Parts" in Swift Current, Saskatchewan. On September 1, 1999Wiens executed a Quit Claim Deed of that in favour of the two Opheims for the sum of $1.00 (Exhibit R-1).
+[5] The evidence is that for income tax purposes, the assets recovered were valued at $211, 154.74 as fair market value. For GST purposes they were valued at nil. The Appellant's claim is for ITCs on the assets recovered under the Quit Claim Deed. The Appellant values the assets recovered at $211,154.74.
+[6] The assumptions respecting the disallowed ITCs are in subparagraphs 12(v) to (hh) inclusive of the Reply to the Notice of Appeal. They read:
+(v) the Appellant did not deduct any business expenses on the T1 income tax return he filed for 1999;
+(w) in 1997 the Vendors sold First Choice Auto and Truck Parts to the Wiens (the "Sale");
+(x) as a result of the Sale the Vendors supplied property to the Wiens;
+(y) $254,000.00 of the consideration for the Sale financed by the Vendors;
+(z) as the Wiens did not pay the Vendors as required by the sales agreement, the Vendors and the Wiens executed a Quit Claim in or about September 1999, in order to transfer property back to the Appellant;
+(aa) the Appellant seized or repossessed the property that the Vendors had sold to the Wiens;
+(bb) the consideration for the supply of the property from the Wiens to the Appellant is nil;
+(cc) the $1,752.16 the Appellant claimed as input tax credits on his return for the reporting period ending December 31, 2000, included some of the following amounts:
+inventory
+318.50
+assets amortization
+886.93
+boiler repairs
+406.06
+telephone
+77.90
+advertising
+1.96
+vehicle
+53.20
+supplies
+18.71
+travel
+7.96
+subtotal
+1,771.22
+claimed
+1,752.16
+difference
+19.06
+(dd) the $1,021.38 the Appellant claimed as input tax credits for the reporting period ending December 31, 2001, included some of the following amounts:
+inventory obsolescence
+309.73
+assets amortization
+648.38
+accounting fees
+45.50
+telephone
+59.47
+subtotal
+1,063.08
+claimed
+1,021.38
+difference
+41.70
+(ee) the input tax credits the Appellant had claimed, which he identified as inventory obsolescence and as assets amortization, related to the property the Appellant had received as a result of the Quit Claim.
+(ff) at least $2,163.54 of the input tax credits claimed by the Appellant on the GST returns he filed for the reporting periods ending between January 1, 2000 and December 31, 2001, related to the property the Appellant acquired from the Wiens pursuant to the Quit Claim;
+(gg) the Appellant did not obtain sufficient documentation, which contained the prescribed information, to support input tax credits of more than $744.35 for the Relevant Period.
+(hh) any further input tax credits which the Appellant submits he was entitled to were:
+(i) in respect of the assets the Appellant repossessed from the Wiens;
+(ii) in respect of supplies of property and services which were not acquired for consumption, use or supply in the course of the Appellant's commercial activities;
+(iii) in respect of property acquired by the Appellant where no tax was payable or paid; and/or
+(iv) not reasonable.
+[7] In cross-examination, Mr. Merriman agreed with assumptions 12(w), (x), (y), (z), (aa), (cc), (dd), (ee) and (ff). Respecting the remaining quoted subparagraphs in paragraph [6] hereof:
+(v) Is irrelevant.
+(bb) Is the subject of the dispute.
+(gg) Was stated by Mr. Merriman to be wrong because CRA, income tax, allowed the fair market value.
+(hh) Is the subject of the dispute.
+[8] Subsections 183(1) and (9) of the Excise Tax Act read:
+183. (1) Where at any time after 1990 property of a person is, for the purpose of satisfying in whole or in part a debt or obligation owing by the person to another person (in this section referred to as the "creditor"), seized or repossessed by the creditor under a right or power exercisable by the creditor (other than a right or power that the creditor has under, or because of being a party to, a lease, licence or similar arrangement by which the person acquired the property),
+(a) for the purposes of this Part, the person shall be deemed to have made, and the creditor shall be deemed to have received, at that time, a supply by way of sale of the property;
+(b) for the purposes of this Part (other than sections 193 and 257), that supply shall be deemed to have been made for no consideration;
+(c) where the supply referred to in paragraph (a) is a taxable supply of real property, for the purposes of sections 193 and 257, the tax payable in respect of the supply shall be deemed to be equal to tax calculated on the fair market value of the property at that time; and
+(d) where the supply referred to in paragraph (a) is a supply of real property included in section 9 of Part I of Schedule V, in section 1 of Part V.1 of that Schedule or in section 25 of Part VI of that Schedule, for the purposes of sections 193 and 257, the supply is deemed to be a taxable supply and the tax payable in respect of the supply is deemed to be equal to tax calculated on the fair market value of the property at that time.
+...
+(9) For the purposes of this section, where property is at any time voluntarily transferred by a particular person to another person for the purpose of satisfying in whole or in part a debt or obligation in respect of which the particular person is in default, the other person shall be deemed to have seized or repossessed the property from the particular person at that time in circumstances in which subsection (1) applies.
+[9] Mr. Merriman argued that Section 193 is the determining Section respecting the Appellant's claims to ITCs. But Section 193 does not grant the Appellant creditors any further rights in this fact situation.
+[10] Rather, the Appellant's claim is determined by subsection 183(1) as quoted. His value, based on the evidence before the Court, is deemed to be nil. For this reason, the appeal on this issue is dismissed.
+[11] Respecting the issue of penalties and interest described in paragraph [3] hereof, Respondent's counsel replied with a letter by fax dated September 7, 2005, which is attached as Schedule A to these Reasons. Appellant's agent did not accept Schedule "A" in his letter dated September 13, 2005.
+[12] The Court finds the particulars contained in Schedule "A" to be satisfactory and therefore the Respondent's calculation and system of calculation of interest and penalties is confirmed.
+[13] Therefore, this appeal is allowed respecting only the particulars set out in paragraph [2] herein, and this matter is referred to the Minister of National Revenue for reconsideration and reassessment accordingly.
+Signed at Vancouver, British Columbia, this 20th day of September, 2005.
+"D.W. Beaubier"
+Beaubier, J.
+CITATION: 2005TCC619
+COURT FILE NO.: 2004-4655(GST)I
+STYLE OF CAUSE: Myles J. Opheim v. The Queen
+PLACE OF HEARING: Regina, Saskatchewan
+DATE OF HEARING: August 24, 2005
+REASONS FOR JUDGEMENT BY: The Honourable Justice D.W. Beaubier
+DATE OF JUDGMENT: September 20, 2005
+APPEARANCES:
+Agent for the Appellant:
+Lee C. Merriman
+Counsel for the Respondent:
+Gerald Chartier
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario
+SCHEDULE "A"

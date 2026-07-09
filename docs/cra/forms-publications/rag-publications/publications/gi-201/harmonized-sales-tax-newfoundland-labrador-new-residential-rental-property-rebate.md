@@ -1,0 +1,88 @@
+---
+title: "Harmonized Sales Tax Newfoundland and Labrador New Residential Rental Property Rebate"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-201/harmonized-sales-tax-newfoundland-labrador-new-residential-rental-property-rebate.html
+last_modified: 2025-04-15
+---
+# Harmonized Sales Tax Newfoundland and Labrador New Residential Rental Property Rebate
+
+GST/HST Info Sheet GI-201
+
+April 2025
+
+The Government of Newfoundland and Labrador introduced a new residential rental property rebate that came into effect on September 14, 2023. This info sheet explains the rebate that may be available in respect of the provincial part of the HST paid by landlords on qualifying rental properties in Newfoundland and Labrador, where the construction of the housing began after September 13, 2023, or, in the case of the lease of land only, the lease was entered into after September 13, 2023.
+
+The HST rate in Newfoundland and Labrador in effect at the time of publishing is 15% of which 5% is the federal part, and 10% the provincial part.
+
+Except as otherwise noted, all statutory references in this publication are to the provisions of the *Excise Tax Act* (ETA). The information in this publication does not replace the law found in the ETA and its regulations.
+
+If this information does not completely address your particular situation, you may wish to refer to the ETA or relevant regulation, or call GST/HST Rulings at 1‑800‑959‑8287 for additional information. If you require certainty with respect to any particular GST/HST matter, you may request a ruling. [GST/HST Memorandum 1-4, Excise and GST/HST Rulings and Interpretations Service](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/1-4.html), explains how to obtain a ruling or an interpretation and lists the GST/HST rulings centres.
+
+If you are located in Quebec and wish to request a ruling related to the GST/HST, please call Revenu Québec at 1‑800‑567‑4692. You may also visit the Revenu Québec website at [revenuquebec.ca](https://www.revenuquebec.ca/en/) to obtain general information.
+
+For listed financial institutions that are selected listed financial institutions (SLFIs) for GST/HST or Quebec sales tax (QST) purposes or both, whether or not they are located in Quebec, the CRA administers the GST/HST and the QST. If you wish to make a technical GST/HST or QST enquiry related to SLFIs, please call 1‑855‑666‑5166.
+
+## GST/HST rates
+
+Reference in this publication is made to supplies that are subject to the GST or the HST. The GST/HST rates are those that were in effect at the time of publishing. For the list of all applicable GST/HST rates (current and historic), go to [GST/HST calculator (and rates)](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/calculator.html).
+
+If you are uncertain as to whether a supply is made in a participating province, refer to [GST/HST Memorandum 3-3-2, Place of Supply in a Province – Overview](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-2.html).
+
+## Definitions
+
+Definitions for GST/HST purposes (for example, builder, residential complex, residential unit, residential condominium unit, and substantial renovation) and the Canada Revenue Agency's (CRA) current policies on the application of the GST/HST to housing continue to apply. [Guide RC4052, GST/HST Information for the Home Construction Industry](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4052.html), [Guide RC4231, GST/HST New Residential Rental Property Rebate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4231.html), and [GST/HST Memorandum 19-2, Residential Real Property](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/19-2.html), explore many of these important terms and concepts.
+
+## New housing
+
+The term **new housing** used throughout this info sheet refers to newly constructed or substantially renovated housing. Housing that has been substantially renovated is generally given the same treatment under the GST/HST as newly constructed housing. Extensive modifications must be made to the housing in order to meet the definition of a substantial renovation for GST/HST purposes. For a full explanation of the factors to consider in deciding if a substantial renovation has taken place, refer to [GST/HST Technical Information Bulletin B-092, Substantial Renovations and the GST/HST New Housing Rebate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-092.html).
+
+## Eligibility for the Newfoundland and Labrador new residential rental property rebate
+
+The Newfoundland and Labrador new residential rental property rebate generally applies to housing where construction begins after September 13, 2023. For the lease of land for residential purposes, the Newfoundland and Labrador new residential rental property rebate applies where the lease agreement is entered into after September 13, 2023.
+
+Landlords that pay the HST on the purchase of new housing intended for rental purposes in Newfoundland and Labrador may be entitled to claim the Newfoundland and Labrador new residential rental property rebate. Landlords that construct new housing intended for rental purposes or first supply land under an exempt lease for residential use, and that are required to account for the HST at 15% under the self-supply or change-in-use rules may also be entitled to claim this rebate.
+
+The Newfoundland and Labrador new residential rental property rebate is available for the same types of new residential rental properties for which a GST/HST new residential rental property rebate is currently available in respect of the GST, or the federal part of the HST, paid by a landlord on the purchase or self-supply of qualifying rental property.
+
+Qualifying rental properties include new rental housing, new additions to traditional apartment buildings, new co-operative rental housing, or new long-term residential care facilities. Land that may qualify for the rebate includes a residential lot, a site in a residential trailer park, or a site in an addition to a residential trailer park.
+
+The rules and conditions for claiming the Newfoundland and Labrador new residential rental property rebate are generally the same as those for claiming the GST/HST new residential rental property rebate as explained in [Guide RC4231](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4231.html). This means that a person may be entitled to claim a Newfoundland and Labrador new residential rental property rebate for a qualifying rental property if the person is entitled to claim a GST/HST new residential rental property rebate in respect of the federal part of the HST paid for that property.
+
+Where a person resident in Newfoundland and Labrador is a landlord and is entitled to claim a public service bodies' rebate of the provincial part of the HST paid or payable on the purchase or self-supply of a residential rental property, the person would generally claim the public service bodies' rebate of the provincial part of the HST instead of the Newfoundland and Labrador new residential rental property rebate.
+
+The Government of Newfoundland and Labrador introduced a rebate of 100% of the provincial part of the HST for certain new purpose-built rental housing situated in Newfoundland and Labrador. Construction of purpose-built rental housing **must** have begun after September 13, 2023, but before 2031, and must be substantially completed before 2036. For information on all conditions to be met, refer to [Guide RC4231](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4231.html) and [GST/HST memorandum 19-3-9, Purpose-built Rental Housing Rebate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/19-3-9.html).
+
+## Rebate for qualifying new rental housing
+
+The Newfoundland and Labrador new residential rental property rebate is equal to 36% of the provincial part of the HST paid on the purchase or self-supply of the new housing, up to a maximum rebate amount of $12,600 per qualifying rental unit. The rebate for some of the provincial part of the HST is gradually reduced for qualifying rental units with a fair market value between $350,000 and $450,000. No rebate is available for the provincial part of the HST if a unit has a fair market value of $450,000 or more.
+
+## Rebate for leased land
+
+In the case of land leased for residential use, the Newfoundland and Labrador new residential rental property rebate is equal to 36% of the provincial part of the HST paid on the fair market value of the land under the self-supply rules or 36% of the provincial part of the basic tax content under the change-in-use rules, up to a maximum amount of $3,150. The rebate for some of the provincial part of the HST is gradually reduced where the fair market value of the land is between $87,500 and $112,500. No rebate is available for the provincial part of the HST if the fair market value of the land is $112,500 or more.
+
+For multiple residential lots or sites in a residential trailer park or an addition to a residential trailer park, the maximum rebate amount of $3,150 applies to each lot or site.
+
+## Applying for the rebate
+
+As with the GST/HST new residential rental property rebate in respect of the GST, or the federal part of the HST, paid on the purchase of qualifying rental properties, a builder that sells a qualifying rental property cannot pay or credit the Newfoundland and Labrador new residential rental property rebate to the purchaser. The purchaser must apply for the rebate directly with the CRA.
+
+A single rebate application for both the Newfoundland and Labrador new residential rental property rebate in respect of the provincial part of the HST and the GST/HST new residential rental property rebate in respect of the federal part of the HST is available on the CRA website. A person that is entitled to claim the Newfoundland and Labrador new residential rental property rebate amount can use [Form RC7524-NL, GST524 Newfoundland and Labrador Rebate Schedule](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7524-nl.html), to calculate the rebate amount and attach it to [Form GST524, GST/HST New Residential Rental Property Rebate Application](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst524.html).
+
+Where more than one person owns the rental property, the rebate is payable to all of the owners of the property. The CRA will issue one cheque for the rebate amount in respect of both the federal and provincial parts of the HST in the name of all of the owners.
+
+## Further information
+
+All **GST/HST technical publications** are available at [GST/HST technical information](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html).
+
+To make a **GST/HST enquiry** by **telephone**:
+
+- for **GST/HST general enquiries,**call **Business Enquiries** at **1‑800‑959‑5525**
+
+- for **GST/HST technical enquiries,**call **GST/HST Rulings** at **1‑800‑959‑8287**
+
+If you are located in**Quebec**, call**Revenu Québec**at **1‑800‑567‑4692**or visit their website at [revenuquebec.ca](https://www.revenuquebec.ca/en/).
+
+If you are a**selected listed financial institution**(whether or not you are located in Quebec) and require information on the**GST/HST**or the**QST**, go to [GST/HST and QST information for financial institutions, including selected listed financial institutions](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/financial-institutions.html) or:
+
+- for**general GST/HST**or**QST enquiries**, call**Business Enquiries**at**1‑800‑959‑5525**
+
+- for**technical GST/HST**or**QST enquiries**, call**GST/HST Rulings SLFI**at**1‑855‑666‑5166**

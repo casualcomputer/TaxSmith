@@ -1,0 +1,237 @@
+Title: Deakin c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30908/index.do
+Corpus path: corpus/cases/tcc/2012/2012-cci-270-30908-deakin-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2012-07-26
+
+# Deakin c. La Reine
+
+- Citation: 2012 CCI 270
+- Decision date: 2012-07-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7466, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Deakin c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-07-26
+Référence neutre
+2012 CCI 270
+Numéro de dossier
+2008-3636(GST)G, 2008-3637(IT)G, 2008-3639(IT)G, 2008-3640(GST)G
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2008-3636(GST)G
+ENTRE :
+TIMOTHY DEAKIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Timothy Deakin (2008‑3637(IT)G), de Brian Deakin (2008‑3639(IT)G) et de Brian Deakin (2008‑3640(GST)G), le 7 juin 2012, à Toronto (Ontario).
+Devant : L'honorable juge Patrick Boyle
+Comparutions :
+Pour l'appelant :
+L'appelant lui‑même
+Avocate de l'intimée :
+Me Rita Araujo
+________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation établie en vertu de la Loi sur la taxe d'accise et dont l'avis est daté du 14 août 2007 est rejeté, avec dépens, et la décision du ministre du Revenu national est confirmée conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 26e jour de juillet 2012.
+« Patrick Boyle »
+Le juge Boyle
+Traduction certifiée conforme
+ce 12e jour d'octobre 2012.
+Yves Bellefeuille, réviseur
+Dossier : 2008-3637(IT)G
+ENTRE :
+TIMOTHY DEAKIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Timothy Deakin (2008‑3636(GST)G), de Brian Deakin (2008‑3639(IT)G) et de Brian Deakin (2008‑3640(GST)G), le 7 juin 2012, à Toronto (Ontario).
+Devant : L'honorable juge Patrick Boyle
+Comparutions :
+Pour les appelants :
+Les appelants eux‑mêmes
+Avocate de l'intimée :
+Me Rita Araujo
+________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation établie le 14 août 2007 en vertu de la Loi de l'impôt sur le revenu est accueilli en partie conformément aux motifs du jugement ci‑joints.
+Les dépens sont adjugés à l'intimée.
+Signé à Ottawa, Canada, ce 26e jour de juillet 2012.
+« Patrick Boyle »
+Le juge Boyle
+Traduction certifiée conforme
+ce 12e jour d'octobre 2012.
+Yves Bellefeuille, réviseur
+Dossier : 2008-3639(IT)G
+ENTRE :
+BRIAN DEAKIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Timothy Deakin (2008‑3636(GST)G), de Timothy Deakin (2008‑3637(IT)G) et de Brian Deakin (2008‑3640(GST)G), le 7 juin 2012, à Toronto (Ontario).
+Devant : L'honorable juge Patrick Boyle
+Comparutions :
+Pour les appelants :
+Les appelants eux‑mêmes
+Avocate de l'intimée :
+Me Rita Araujo
+________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation établie le 14 août 2007 en vertu de la Loi de l'impôt sur le revenu est accueilli en partie conformément aux motifs du jugement ci‑joints.
+Les dépens sont adjugés à l'intimée.
+Signé à Ottawa, Canada, ce 26e jour de juillet 2012.
+« Patrick Boyle »
+Le juge Boyle
+Traduction certifiée conforme
+ce 12e jour d'octobre 2012.
+Yves Bellefeuille, réviseur
+Dossier : 2008-3640(GST)G
+ENTRE :
+BRIAN DEAKIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Timothy Deakin (2008‑3636(GST)G), de Timothy Deakin (2008‑3637(IT)G) et de Brian Deakin (2008‑3639(IT)G), le 7 juin 2012, à Toronto (Ontario).
+Devant : L'honorable juge Patrick Boyle
+Comparutions :
+Pour les appelants :
+Les appelants eux‑mêmes
+Avocate de l'intimée :
+Me Rita Araujo
+________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation établie en vertu de la Loi sur la taxe d'accise et dont l'avis est daté du 14 août 2007 est rejeté, avec dépens, et la décision du ministre du Revenu national est confirmée conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 26e jour de juillet 2012.
+« Patrick Boyle »
+Le juge Boyle
+Traduction certifiée conforme
+ce 12e jour d'octobre 2012.
+Yves Bellefeuille, réviseur
+Référence : 2012 CCI 270
+Date : 20120726
+Dossier : 2008-3636(GST)G
+ENTRE :
+TIMOTHY DEAKIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2008-3637(IT)G
+ET ENTRE :
+TIMOTHY DEAKIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2008-3639(IT)G
+ET ENTRE :
+BRIAN DEAKIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2008-3640(GST)G
+ET ENTRE :
+BRIAN DEAKIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Boyle
+[1] La seule question en litige dans les présents appels concernant l'impôt sur le revenu et la taxe sur les produits et services (la « TPS ») est de savoir si les deux appelants peuvent à bon droit invoquer ce que l'on appelle le moyen de défense fondé sur la « diligence raisonnable » quant à leur responsabilité éventuelle en tant qu'administrateurs d'une personne morale relativement à des retenues à la source effectuées et non versées et à des sommes de TPS perçues et non versées. Il n'est pas contesté que les appelants étaient administrateurs pendant toute la période pertinente. Ni la responsabilité de la personne morale ni les montants en question ne sont contestés.
+Les faits
+[2] Les deux appelants sont frères. Ils étaient administrateurs de la société Deatech Systems Inc. (« Deatech »). Deatech exploitait une entreprise de sécurité résidentielle. Elle a été constituée en personne morale en 1998 après que les appelants eurent vendu la société Parkwood Security Systems (« Parkwood ») à la société ADT.
+[3] Parkwood avait initialement été constituée en personne morale en tant que Parkwood Home Improvements par Timothy Deakin en 1982; elle exploitait une entreprise de construction de clôtures et de terrasses pour des propriétaires de maisons neuves. En 1984, Parkwood a changé d'activité pour se tourner vers la vente, l'installation et la surveillance de systèmes de sécurité résidentielle. En 1994, Brian Deakin est devenu associé à 50 % dans Parkwood.
+[4] Les Deakin ont fait de Parkwood une société très prospère. À son apogée, Parkwood avait plus de 20 employés à son service et effectuait de 100 à 150 installations par mois.
+[5] En 1998, les Deakin ont vendu à ADT les actions qu'ils détenaient dans Parkwood pour 1 664 000 $, desquels devait être déduit le montant de la dette de Parkwood. La dette était de 664 000 $, ce qui fait que le montant qui restait à payer aux Deakin en contrepartie de leurs actions était de 1 000 000 $. Lorsque la vente a été conclue, ADT a fait en sorte que Parkwood acquitte ses dettes; toutefois, la somme de 1 000 000 $ devait être payée après la conclusion de la vente, lors du transfert des comptes de surveillance à ADT.
+[6] Peu de temps après la conclusion de la vente, une autre société de surveillance à laquelle Parkwood avait confié en sous‑traitance ses services de surveillance a menacé d'engager des poursuites et a ensuite intenté une action en justice contre ADT, arguant que Parkwood lui avait accordé un droit de préemption sur la clientèle pour laquelle elle effectuait de la surveillance. Ce litige a traîné pendant un certain temps. Les Deakin ont été joints à l'action. ADT a refusé de payer aux Deakin la somme de 1 000 000 $ représentant le prix d'achat des actions tant que le litige ne serait pas résolu. Le litige a été réglé par ADT pour un montant non dévoilé, quatre ans plus tard. Malgré leurs espoirs et leurs attentes, les Deakin n'ont pas reçu un sou d'ADT sur la somme de 1 000 000 $. Aucun document concernant ce litige ni le règlement intervenu à cet égard n'a été produit en preuve. Les Deakin n'ont jamais poursuivi ADT en justice pour la somme impayée de 1 000 000 $.
+[7] Après la vente de Parkwood, les Deakin ont constitué Deatech en société pour exercer une activité semblable de surveillance résidentielle. Les Deakin espéraient pouvoir investir 1 000 000 $ dans leur nouvelle société. Comme cela ne s'est pas réalisé, Deatech a commencé à éprouver des difficultés concernant son flux de trésorerie. Les Deakin étaient propriétaires et administrateurs de Deatech et y travaillaient. Deatech employait un aide‑comptable et recourait aux services d'un comptable agréé externe. Les Deakin étaient en tout temps informés et au courant de la situation financière de Deatech, ils prenaient conjointement les décisions à long terme et à court terme de la société, et ils déterminaient la manière dont il fallait traiter le manque de liquidités de la société en ce qui avait trait à ses frais d'exploitation.
+[8] Deatech n'a pas versé à l'Agence du revenu du Canada (l'« ARC ») la totalité des retenues à la source effectuées à l'égard des employés et de la TPS perçue. Ces montants ont plutôt été intentionnellement utilisés pour payer d'autres créanciers de Deatech afin de renflouer la société. Pendant longtemps, on a espéré que cette situation serait corrigée et que le montant serait remboursé une fois que les 1 000 000 $ seraient obtenus d'ADT. On a également tenté de trouver d'autres investisseurs et d'obtenir un prêt plus important de la banque, mais les difficultés financières ont persisté; les montants d'impôt et de taxe non versés se sont accumulés à mesure que certains de ces montants étaient réaffectés pour payer les fournisseurs et les employés afin de continuer à faire tourner l'entreprise. Selon l'aide‑comptable de Deatech, le principal fournisseur de la société exigeait un paiement au comptant et Deatech devait donc utiliser la TPS perçue et les retenues à la source effectuées pour acheter des produits.
+[9] Les Deakin ont arrêté de percevoir leur salaire et ont réussi à trouver un investisseur prêt à placer 100 000 $. L'un des frères Deakin a contracté une hypothèque de deuxième rang sur sa maison afin d'aider Deatech. Toutefois, Deatech a fini par faire une cession de faillite en 2005. À cette date, Deatech avait omis de verser plus de 200 000 $ de retenues à la source effectuées et plus de 50 000 $ de TPS perçue. Les cotisations établies s'élevaient à plus de 400 000 $ avec les pénalités et les intérêts.
+[10] Deatech a accumulé ces arriérés sur un certain nombre d'années. Deatech et les Deakin communiquaient fréquemment avec l'ARC pour mettre au point des plans de remboursement des arriérés et ont par ailleurs essayé de les régler. Rien n'indique que les Deakin n'étaient pas sincères dans leurs rapports avec l'ARC concernant les arriérés. La situation financière de Deatech ne lui a pas permis de respecter les plans de remboursement convenus à l'égard des arriérés.
+Le droit
+[11] Le paragraphe 227.1(3) de la Loi de l'impôt sur le revenu (la « LIR ») prévoit ce qui suit :
+(3) Un administrateur n'est pas responsable de l'omission visée au paragraphe (1) lorsqu'il a agi avec le degré de soin, de diligence et d'habileté pour prévenir le manquement qu'une personne raisonnablement prudente aurait exercé dans des circonstances comparables.
+[12] Le paragraphe 323(3) de la Loi sur la taxe d'accise (la « LTA ») est ainsi libellé :
+(3) L'administrateur n'encourt pas de responsabilité s'il a agi avec autant de soin, de diligence et de compétence pour prévenir le manquement visé au paragraphe (1) que ne l'aurait fait une personne raisonnablement prudente dans les mêmes circonstances.
+Analyse
+[13] Un employeur a généralement l'obligation légale de verser à l'ARC les retenues à la source effectuées à l'égard des salaires et des traitements des employés concernant l'impôt sur le revenu, le Régime de pensions du Canada et l'assurance‑emploi. Cette obligation est différente de la responsabilité qui incombe à l'employeur pour ses propres impôts sur le revenu. Les montants en question ont été retenus à l'égard des employés pour être versés à l'ARC, et l'ARC, et donc les contribuables canadiens en général, accorde aux employés un crédit pour ces montants relativement à leur dette fiscale. C'est pourquoi la loi donne à l'ARC des pouvoirs de recouvrement plus étendus pour de tels montants non versés que pour l'impôt sur le revenu de l'employeur.
+[14] De même, une société est généralement tenue de verser le montant perçu de ses clients au titre de la TPS, déduction faite de la TPS que la société a payée sur ses achats, ses fournitures et ses intrants. La société a perçu la TPS de ses clients pour la verser à l'ARC afin de répondre aux obligations des clients en matière de TPS. Encore une fois, reconnaissant ce fait, la loi donne à l'ARC des pouvoirs de recouvrement plus étendus à l'égard de tels montants de TPS non versés.
+[15] L'article 227.1 de la LIR et l'article 323 de la LTA prévoient que les administrateurs d'une société sont personnellement responsables du défaut de la société de verser les retenues à la source effectuées et la TPS perçue comme l'exige la loi. Les administrateurs ne sont pas, de manière générale, responsables à l'égard de l'impôt sur le revenu de la société. La responsabilité éventuelle des administrateurs dépend du degré de gestion et de contrôle qu'ils exercent sur la société et ses activités.
+[16] Le paragraphe 227.1(3) de la LIR et le paragraphe 323(3) de la LTA prévoient chacun que l'administrateur n'encourt pas de responsabilité lorsque la société a omis de verser de tels montants comme l'exige la loi si l'administrateur a agi avec autant de soin, de diligence et de compétence pour prévenir le manquement que ne l'aurait fait une personne raisonnablement prudente dans les mêmes circonstances.
+[17] Tout récemment, la Cour d'appel fédérale a eu l'occasion d'examiner le moyen de défense fondé sur la diligence raisonnable relativement aux administrateurs pour des retenues à la source et de la TPS non versées dans l'arrêt R. c. Buckingham, 2011 CAF 142. Dans cet arrêt, la Cour a fait les observations suivantes :
+[33] En revanche, le paragraphe 227.1(1) de la Loi de l'impôt sur le revenu et le paragraphe 323(1) de la Loi sur la taxe d'accise prévoient expressément que les administrateurs « sont solidairement responsables, avec la société, du paiement de cette somme, y compris les intérêts et les pénalités [se] rapportant » aux versements que la société est tenue d'effectuer. Le paragraphe 227.1(3) de la Loi de l'impôt sur le revenu et le paragraphe 323(3) de la Loi sur la Taxe d'accise ne prévoient pas une obligation générale de diligence, mais plutôt un moyen de défense visant la responsabilité précise prévue aux paragraphes 227.1(1) et 323(1) de ces lois respectives, et il incombe aux administrateurs de démontrer que les conditions requises pour se prévaloir avec succès d'une telle défense sont remplies. L'obligation de diligence prévue au paragraphe 227.1(3) de la Loi de l'impôt sur le revenu vise aussi expressément à empêcher la société de faire défaut de verser des retenues d'impôts précises, notamment les retenues à la source sur les salaires. Le paragraphe 323(3) de la Loi sur la taxe d'accise a un objet similaire. Les administrateurs doivent établir qu'ils ont exercé le degré de soin, de diligence et d'habileté requis « pour prévenir le manquement ». L'objet de ces dispositions est clairement de prévenir les défauts de versement.
+[...]
+[40] L'objectif de l'examen prévu aux paragraphes 227.1(3) de la Loi de l'impôt sur le revenu et 323(3) de la Loi sur la taxe d'accise différera toutefois de celui qu'exige l'alinéa 122(1)b) de la LCSA, car les premières dispositions requièrent que l'administrateur s'acquitte de son obligation de soin, de diligence et d'habileté de manière à prévenir les défauts de versement. Pour invoquer ces moyens de défense, l'administrateur doit par conséquent démontrer qu'il s'est préoccupé des versements requis et qu'il s'est acquitté de son obligation de soin, de diligence et d'habileté afin de prévenir le défaut de la société de verser les montants visés.
+[...]
+[49] L'approche traditionnelle est celle voulant que l'administrateur a le devoir de prévenir les défauts de versement, et non de les avaliser dans l'espoir qu'il sera ensuite possible de remédier aux problèmes : Canada c. Corsano, [1999] 3 C.F. 173 (C.A.), au paragraphe 35, Ruffo c. Canada, 2000 D.T.C. 6317, [2000] 4 C.T.C. 39 (C.A.F.). Contrairement aux fournisseurs d'une société qui peuvent limiter leurs risques financiers en exigeant des paiements comptants en avance, la Couronne est un créancier involontaire. Le niveau des risques encourus par la Couronne à l'égard d'une société peut donc accroître si la société poursuit ses activités en versant aux employés les salaires nets sans effectuer les versements des retenues à la source sur ces salaires, ou si la société décide de percevoir la TPS/TVH des clients sans déclarer et verser ces montants en temps opportun. Une société qui fait face à des difficultés financières pourrait s'hasarder à réaffecter les versements dus à la Couronne afin de payer d'autres créanciers et ainsi assurer la poursuite de ses activités. C'est précisément une telle conjoncture que les articles 227.1 de la Loi de l'impôt sur le revenu et 323 de la Loi sur la taxe d'accise visent à éviter. Le moyen de défense prévu au paragraphe 227.1(3) de la Loi de l'impôt sur le revenu et au paragraphe 323(3) de la Loi sur la taxe d'accise ne devrait pas servir à encourager de tels défauts de versement en permettant aux administrateurs d'invoquer une défense de diligence raisonnable lorsqu'ils financent les activités de leur société à l'aide de remises dues à la Couronne, en espérant remédier plus tard à ces défauts.
+[...]
+[52] Le Parlement n'a pas requis des administrateurs qu'ils soient assujettis à une responsabilité absolue relativement aux versements de leurs sociétés. En conséquence, le Parlement accepte qu'une société puisse, dans certaines circonstances, ne pas effectuer des versements sans que la responsabilité de ses administrateurs ne soit engagée. Ce qui est requis des administrateurs, c'est qu'ils démontrent qu'ils se sont effectivement préoccupés des versements fiscaux et qu'ils se sont acquittés de leur obligation de soin, de diligence et d'habileté afin de prévenir le défaut de la société de verser les montants visés.
+[...]
+[56] L'administrateur d'une société qui avalise la poursuite des activités de sa société en réaffectant à d'autres fins des retenues à la source sur les salaires ne peut établir une défense fondée sur le paragraphe 227.1(3) de la Loi de l'impôt sur le revenu. Tout le régime de l'article 227.1 de la Loi de l'impôt sur le revenu, lu dans son ensemble, est précisément conçu pour éviter de telles situations. En l'espèce, l'intimé avait une attente raisonnable (mais erronée) que la vente de la division de production de cours en ligne donnerait lieu à un paiement important pouvant servir à satisfaire les créanciers, mais il a consciemment fait assumer par la Couronne une partie des risques associés à cette transaction en continuant les activités tout en sachant que les retenues à la source ne seraient pas versées. Il s'agit précisément du méfait que le paragraphe 227.1(3) de la Loi de l'impôt sur le revenu vise à éviter.
+[57] Une fois que le juge de première instance a tiré la conclusion de fait que les efforts déployés par l'intimé après le mois de février 2003 ne visaient plus à éviter les défauts de versements, le moyen de défense fondé sur le paragraphe 227.1(3) de la Loi de l'impôt sur le revenu ou le paragraphe 323(3) de la Loi sur la taxe d'accise ne pouvait être retenu.
+[Non souligné dans l'original.]
+[18] De même, dans l'arrêt Canada (Procureur général) c. McKinnon, Canada (Procureur général) c. Worrell, [2001] 2 C.F. 203 (C.A.F.) (« Worrell »), la Cour d'appel fédérale s'est ainsi exprimée :
+[71] Il ne suffira normalement pas que les administrateurs aient continué à exploiter l'entreprise, sachant qu'un défaut de versement était probable mais dans l'espoir que la compagnie reprendrait pied avec une reprise de l'économie ou une amélioration de sa position sur le marché. Dans ces conditions, les administrateurs seront généralement tenus pour avoir accepté le risque inhérent à la gageure que la compagnie serait subséquemment en mesure de verser les sommes dues. Le public n'a pas à assurer contre son gré ce risque, aussi raisonnable qu'il soit du point de vue commercial pour les administrateurs de continuer à exploiter l'entreprise sans rien faire pour prévenir les défauts de versement à l'avenir.
+[19] Selon la preuve qu'ils ont eux‑mêmes présentée, les Deakin étaient responsables de la décision de Deatech de ne pas verser la totalité des retenues à la source et de la TPS à l'ARC, et de plutôt veiller à payer les fournisseurs et les employés nécessaires pour maintenir l'activité de la société. Leur motivation première était de maintenir la société en vie. Je ne puis conclure que le libellé de la loi concernant le moyen de défense fondé sur la diligence raisonnable, tel qu'il a été interprété par la Cour d'appel fédérale dans l'arrêt Buckingham, soit de nature à autoriser les Deakin à se prévaloir de ce moyen de défense. Les nombreuses mesures qu'ils ont prises pour essayer de régler la question du remboursement des arriérés ne suffisent simplement pas pour établir le moyen de défense fondé sur la diligence raisonnable. Les Deakin ont pris un risque commercial et ils ont échoué.
+[20] Il convient de souligner que la Cour d'appel fédérale, dans l'arrêt Buckingham, a invoqué et confirmé la décision qu'elle avait antérieurement rendue dans l'arrêt Worrell. Plus précisément, la Cour s'est ainsi exprimée dans l'arrêt Buckingham relativement à l'arrêt Worrell :
+[50] L'intimé invoque toutefois Worrell à l'appui de sa prétention selon laquelle cette approche traditionnelle aurait été modifiée. Worrell portait sur l'application de la défense fondée sur le soin, la diligence et l'habileté dans le contexte où la capacité de la société d'effectuer des versements était à la discrétion de sa banque et où il était raisonnable de la part des administrateurs de croire qu'en continuant les activités de la société, ils pourraient la remettre à flot. La Cour, dans Worrell, a reconnu qu'il ne suffit normalement pas que les administrateurs continuent simplement à exploiter leur entreprise tout en sachant qu'un défaut de versement est probable mais en se fondant sur l'espoir que la société sera remise à flot à la suite d'une reprise de l'économie ou d'une amélioration de sa position sur le marché; cependant, la Cour a également reconnu dans Worrell que lorsqu'une attente raisonnable appuyait cette croyance afin d'éviter à l'avenir des défauts de versements, le moyen de défense fondé sur la diligence raisonnable pouvait être retenu dans certaines circonstances exceptionnelles. Il convient toutefois d'interpréter Worrell à la lumière des faits particuliers de cette affaire, notamment des « restrictions [qu']imposait [aux administrateurs] le contrôle de fait exercé par la banque sur les finances de la compagnie » (Worrell, au paragraphe 79) et il ne faut donc pas interpréter cet arrêt comme s'il constituait une nouvelle approche à l'égard du moyen de défense fondé sur la diligence raisonnable.
+[51] Il est par conséquent important de souligner que Worrell n'a pas modifié l'objet du moyen de défense fondé sur le soin, la diligence et l'habileté qui vise à prévenir les défauts de versement et non à y remédier. Ainsi que la Cour l'a indiqué dans Worrell, au paragraphe 34 :
+Cependant, que ces administrateurs en aient fait assez ou non pour s'exonérer de la responsabilité tenant au défaut de versement des retenues à la source et de la TPS, cela dépend, du moins en partie, du quatrième principe dégagé par la jurisprudence, savoir que la diligence raisonnable imposée aux administrateurs de société par le paragraphe 227.1(3) consiste à prévenir ce défaut. Il a été jugé que ce principe signifie que si ceux‑ci deviennent à première vue responsables du défaut de versement de la compagnie, ils ne peuvent normalement se réclamer du bénéfice du paragraphe 227.1(3) si leurs efforts n'avaient pour effet que de les mettre en état de remédier au défaut après coup. Il s'ensuit que des mesures prises en vue de remettre [leur société] à flot, celles qui comptent le plus pour notre propos se limitent à celles qui étaient logiquement à même de prévenir le défaut de verser, à l'échéance, les retenues à la source et la TPS. [Non souligné dans l'original.]
+[21] Dans ces deux paragraphes confirmant l'arrêt Worrell, la Cour d'appel fédérale semble reconnaître que les efforts des administrateurs pour remettre la société à flot en continuant ses activités et en espérant que cela lui permettrait de rembourser les arriérés accumulés peuvent, dans certaines circonstances exceptionnelles, constituer un facteur pertinent dans un appel portant sur le moyen de défense fondé sur la diligence raisonnable. Il est probable que l'étendue et la portée de cette exception ainsi que la pertinence de telles mesures prises après le manquement devront être examinées et développées par les tribunaux au fil du temps. En tout état de cause, je suis persuadé que cela n'est pas pertinent en l'espèce. Premièrement, la situation des Deakin est très semblable à celle dans l'arrêt Buckingham, dans lequel il y avait également un paiement attendu de 1 600 000 $ provenant du produit d'une vente, lequel devait permettre d'atténuer les difficultés financières et de rembourser les arriérés. Deuxièmement, contrairement à l'arrêt Worrell, ni la banque des Deakin ni personne d'autre n'avait ou n'exerçait le pouvoir de nommer un surveillant et de décider quels chèques seraient honorés en fonction du bénéficiaire. Dans Worrell, la banque avait et a exercé un tel pouvoir, et elle a refusé d'honorer les chèques régulièrement tirés à l'ARC relativement aux versements requis. Troisièmement, en l'espèce, il n'y avait pas d'éléments de preuve suffisants pour me permettre de conclure qu'il était raisonnable à un quelconque moment de continuer à exploiter la société en ayant une attente raisonnable ou en croyant à l'existence d'une probabilité raisonnable d'un retournement de situation permettant le paiement des arriérés. Même s'il avait été raisonnable au départ de maintenir l'activité de la société, il n'y avait pas d'éléments de preuve pour me permettre de conclure qu'il a continué à en être ainsi par la suite. Cette situation est également contraire aux faits de l'arrêt Worrell. Par exemple, en l'absence de précisions concernant l'action intentée contre ADT et le règlement qui en a découlé, je ne suis pas en mesure d'apprécier si la prévision des Deakin concernant le montant de 1 000 000 $ était raisonnable et pour combien de temps celle‑ci était raisonnable.
+[22] Selon les faits de l'espèce, rien n'a été fait pour prévenir le défaut de versement. Les Deakin ont pris les décisions éclairées et réfléchies d'utiliser une partie des retenues à la source et de la TPS perçue pour payer leurs fournisseurs et leurs employés et de ne verser qu'une partie à l'ARC. Les nombreux efforts que les Deakin ont réellement faits pour résoudre la question des arriérés ne sont d'aucun secours, en l'espèce, pour établir le moyen de défense fondé sur la diligence raisonnable. Pour ce motif, les appels doivent être rejetés, sauf en ce qui concerne la concession faite par la Couronne à l'audience relativement au dividende de 23 316,99 $ reçu lors de la faillite de Deatech, lequel a réduit les arriérés des retenues à la source d'impôt sur le revenu.
+[23] Eu égard au libellé précis des dispositions en question et aux observations faites par la Cour d'appel fédérale dans l'arrêt Buckingham, il semble quelque peu difficile de concevoir les circonstances dans lesquelles un propriétaire‑exploitant et administrateur d'une société actif et informé ne sera pas tenu responsable de sommes non versées provenant de retenues à la source effectuées à l'égard des employés et de montants perçus au titre de la TPS. Comme cela a déjà été mentionné, la portée de l'exception établie dans l'arrêt Worrell, après l'arrêt Buckingham, demeure un point à développer dans d'autres causes que celle des Deakin.
+[24] La loi exige de toute société commerciale le versement des retenues à la source et de la TPS. Il ne s'agit pas de fonds propres de la société. Celle‑ci les a perçus de ses employés et de ses clients. Ces employés et ces clients reçoivent des crédits à l'égard de ces montants une fois qu'ils sont retenus et perçus, même s'ils ne sont pas versés. Lorsque les propriétaires‑exploitants et les administrateurs décident d'utiliser ces fonds pour maintenir leur société à flot et pour soutenir leurs investissements, ils entraînent les contribuables canadiens à investir involontairement dans une société qui ne leur offre aucun avantage. En agissant de la sorte, les actionnaires et les décideurs de la société investissent l'argent d'autrui ou risquent cet argent au jeu. Les administrateurs devraient en être conscients lorsqu'ils sont à l'origine de tels actes ou qu'ils les autorisent. Les gens d'affaires devraient considérer les dispositions légales portant sur la responsabilité des administrateurs comme étant quelque peu semblables à une forme de garantie personnelle des administrateurs pouvant les exposer à une responsabilité comparable à l'égard du montant en cause. Ce sont eux qui décident d'investir les fonds dans leurs propres sociétés, pour leur propre intérêt, et non l'État ou les Canadiens. Ils enfreignent des lois claires, et il semble approprié que, par principe, le législateur ait expressément prévu qu'ils doivent généralement assumer la responsabilité de telles décisions ainsi que les risques en découlant pour eux. Essentiellement, si une société et ses administrateurs choisissent unilatéralement d'« emprunter » des contribuables canadiens et du Trésor, les Canadiens bénéficient d'une garantie semblable à des garanties personnelles des administrateurs.
+[25] Les appels sont rejetés, avec dépens, sauf en ce qui concerne la concession susmentionnée faite par la Couronne.
+Signé à Ottawa, Canada, ce 26e jour de juillet 2012.
+« Patrick Boyle »
+Le juge Boyle
+Traduction certifiée conforme
+ce 12e jour d'octobre 2012.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2012 CCI 270
+Nos DES DOSSIERS DE LA COUR : 2008‑3640(GST)G, 2008‑3639(IT)G, 2008‑3636(GST)G, 2008‑3637(IT)G
+INTITULÉS : BRIAN DEAKIN, TIMOTHY DEAKIN c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Toronto (Ontario)
+DATE DE L'AUDIENCE : Le 7 juin 2012
+MOTIFS DU JUGEMENT : L'honorable juge Patrick Boyle
+DATE DU JUGEMENT : Le 26 juillet 2012
+COMPARUTIONS :
+Pour les appelants :
+Les appelants eux‑mêmes
+Avocate de l'intimée :
+Me Rita Araujo
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Cabinet :
+Pour l'intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

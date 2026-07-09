@@ -1,0 +1,134 @@
+---
+title: "Boisvert c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27507/index.do"
+last_modified: "2005-05-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 249"
+citation2: ""
+neutral_citation: "2005 CCI 249"
+decision_date: "2005-05-02"
+language: "fr"
+item_id: "27507"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:57:35.499000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ab88dd9bdaf765a8c79635064e51adad5923bc5954289bada3f7836b2e2e98b8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Boisvert c. La Reine
+
+- Citation: 2005 CCI 249
+- Decision date: 2005-05-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Boisvert c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-05-02
+Référence neutre
+2005 CCI 249
+Numéro de dossier
+2004-2302(IT)I
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2005CCI249
+Date : 20050502
+Dossier : 2004-2302(IT)I
+ENTRE :
+FRANCINE BOISVERT,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+(Prononcés oralement à l'audience le 27 janvier 2005 à Montréal (Québec)
+et révisés à Edmundston (Nouveau-Brunswick) le 2 mai 2005.)
+Le juge Angers
+[1] Il s'agit d'un appel par madame Francine Boisvert d'une cotisation pour l'année 2002. Madame Boisvert, ayant produit sa déclaration de revenus pour l'année d'imposition 2002, a subséquemment écrit au ministre pour demander un redressement pouvant lui permettre de réclamer un crédit d'impôt pour déficience mentale ou physique grave et prolongée pour cette année d'imposition. La demande était accompagnée du formulaire prescrit T2201.
+[2] Le ministre a refusé cette demande au motif que la déficience dont était atteinte l'appelante ne la limitait pas de façon marquée dans ses activités courantes de la vie quotidienne. Il y a eu un avis d'opposition, puis le présent appel.
+[3] La preuve que nous avons entendue à l'audience est essentiellement semblable à celle que j'ai trouvée dans les actes de procédure, dont le rapport du docteur Tremblay et le formulaire T2201 qui expliquent le syndrome dont madame Boisvert souffre, soit le syndrome des apnées du sommeil. Sur son formulaire, aucune limitation n'est indiquée quant aux activités que peut entreprendre madame Boisvert dans une journée. En fait, les réponses aux questions posées, soit celles de savoir si elle peut voir, marcher, parler, percevoir, réfléchir, entendre, se nourrir, s'habiller elle-même et accomplir toutes les autres activités courantes de la vie quotidienne étaient toutes positives. Madame Boisvert a même témoigné qu'elle est capable de faire son travail, sauf que sa capacité de concentration et sa capacité de réfléchir sont diminuées, à moins qu'elle utilise son appareil. Et même si elle l'utilise, il y a quand même des difficultés à ce point de vue-là. Toutefois, cela ne l'empêche pas d'accomplir son travail. Elle demande et prend très peu de journées de congé de maladie, et ses évaluations par son employeur font état de ce qu'elle est encore capable d'effectuer son travail.
+[4] Le paragraphe 118.3(1) de la Loi de l'impôt sur le revenu (la « Loi » ) se lit en partie comme suit :
+(1) Un montant est déductible dans le calcul de l'impôt payable par un particulier en vertu de la présente partie pour une année d'imposition, si les conditions suivantes sont réunies :
+a) le particulier a une déficience mentale ou physique grave et prolongée;
+a.1) les effets de la déficience sont tels que la capacité du particulier d'accomplir une activité courante de la vie quotidienne est limitée de façon marquée ou le serait en l'absence de soins thérapeutiques qui, à la fois :
+(i) sont essentiels au maintien d'une fonction vitale du particulier,
+(ii) doivent être administrés au moins trois fois par semaine pendant une durée totale moyenne d'au moins 14 heures par semaine,
+[... ]
+[5] Le paragraphe 118.4(1) se lit en partie comme suit :
+(1) Pour l'application du paragraphe 6(16), des articles 118.2 et 118.3 et du présent paragraphe :
+a) une déficience est prolongée si elle dure au moins 12 mois d'affilée ou s'il est raisonnable de s'attendre à ce qu'elle dure au moins 12 mois d'affilée;
+b) la capacité d'un particulier d'accomplir une activité courante de la vie quotidienne est limitée de façon marquée seulement si, même avec des soins thérapeutiques et l'aide des appareils et des médicaments indiqués, il est toujours ou presque toujours aveugle ou incapable d'accomplir une activité courante de la vie quotidienne sans y consacrer un temps excessif;
+c) sont des activités courantes de la vie quotidienne pour un particulier :
+(i) la perception, la réflexion et la mémoire,
+[...]
+d) il est entendu qu'aucune autre activité, y compris le travail, les travaux ménagers et les activités sociales ou récréatives, n'est considérée comme une activité courante de la vie quotidienne.
+[6] La décision de la juge Lamarre Proulx dans Biron c. Canada, [2004] A.C.I. no 88 (Q.L.), est une décision qui repose sur pratiquement les mêmes critères que ceux à appliquer en l'espèce et concerne le même syndrome que celui dont souffre l'appelante. Au paragraphe 40, la juge Lamarre Proulx a écrit ce qui suit :
+En ce qui a trait aux activités courantes de la vie quotidienne décrites au paragraphe 118.4.1 de la Loi, la preuve n'a pas révélé que l'appelant était toujours ou presque toujours incapable d'accomplir une de ces activités sans y consacrer un temps excessif.
+[7] C'est un peu la même chose ici. Même si l'appelante a un peu plus de difficulté à se concentrer, je n'ai pas de preuve que cela est directement lié au fait qu'elle souffre du syndrome des apnées du sommeil. On a tous, en vieillissant, un petit peu de ces problèmes-là. Est-ce que, dans le cas de l'appelante, c'est dû à ce syndrome ou non? Je ne le sais pas parce que la preuve ne nous l'a pas révélé. Mais chose certaine, le rendement de l'appelante à son travail, le fait d'être capable de s'y rendre, d'effectuer son travail toute la journée et de répondre aux exigences de ce travail font en sorte qu'il est difficile de dire que sa capacité d'accomplir les activités de sa vie quotidienne est limitée de façon marquée ou qu'elle prend un temps excessif pour arriver à les accomplir.
+[8] La juge Lamarre Proulx poursuit au même paragraphe :
+[...]
+Le masque respiratoire peut l'aider mais cela ne fait pas que la capacité de l'appelant d'accomplir une de ces activités est limitée de façon marquée selon la même disposition de la Loi. En effet, si les soins thérapeutiques et l'aide des appareils et des médicaments indiqués font que la personne ne consacre pas un temps excessif à une activité courante, la disposition veut que la capacité d'un particulier à accomplir une activité courante ne soit pas [limitée de façon] marquée.
+[9] Dans la cause Biron, le médecin traitant a certifié que la fonction de respirer était mise en cause par l'apnée respiratoire. Respirer est une fonction vitale. Le législateur a légiféré à l'égard des fonctions vitales en modifiant l'alinéa 118.3(1)a.1) de la Loi, modification applicable à partir de l'année 2000, donc applicable en l'espèce. Un particulier a droit au crédit d'impôt pour déficience mentale ou physique si la capacité de ce particulier d'accomplir une activité courante de la vie quotidienne était limitée de façon marquée ou l'aurait été en l'absence de soins thérapeutiques qui, à la fois, sont essentiels au maintien d'une fonction vitale du particulier et doivent être administrés au moins trois fois par semaine pendant une durée totale moyenne d'au moins 14 heures par semaine.
+[10] Au paragraphe 45, la juge Lamarre Proulx continue en disant :
+Le législateur a utilisé le terme « essentiel » . Dans le sens juridique, « essentiel » se rapporte à un élément dont dépend l'existence d'un acte juridique. Dans la même logique, à mon sens, les soins essentiels sont ceux que si le patient cesse de les tolérer, il accepte que ses jours prennent fin à brève échéance. Le port du masque respiratoire ainsi que le nombre de nuits où il est utilisé est quelque peu à la discrétion du patient. S'il ne le porte pas, sa vie n'est pas en danger immédiat ou prochain. À long terme, l'apnée respiratoire peut causer des dommages si une personne ne prend pas des précautions à cet effet : le port du masque, les médicaments, l'exercice physique ou la diète. Il ne s'agit pas des soins essentiels au maintien d'une fonction vitale au sens de l'alinéa 118.3(1)a.1 de la Loi.
+[11] Je souscris à la conclusion de la juge Lamarre Proulx. Pour ces raisons, je rejette l'appel.
+Signé à Edmundston (Nouveau-Brunswick), ce 2e jour de mai 2005.
+« François Angers »
+Juge Angers
+RÉFÉRENCE :
+2005CCI249
+No DU DOSSIER DE LA COUR :
+2004-2302(IT)I
+INTITULÉ DE LA CAUSE :
+Francine Boisvert c. La Reine
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+le 27 janvier 2005
+MOTIFS DE JUGEMENT PAR :
+l'hon. juge François Angers
+DÉCISION RENDUE ORALEMENT :
+le 27 janvier 2005
+MOTIFS RÉVISÉS DU JUGEMENT :
+le 2 mai 2005
+COMPARUTIONS :
+Pour l'appelante :
+l'appelante elle-même
+Pour l'intimée :
+Me Soleil Tremblay
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante :
+Nom :
+Étude :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

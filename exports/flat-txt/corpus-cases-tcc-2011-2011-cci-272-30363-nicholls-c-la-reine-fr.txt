@@ -1,0 +1,140 @@
+Title: Nicholls c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30363/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-272-30363-nicholls-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2011-05-19
+
+# Nicholls c. La Reine
+
+- Citation: 2011 CCI 272
+- Decision date: 2011-05-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7884, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Nicholls c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-05-19
+Référence neutre
+2011 CCI 272
+Numéro de dossier
+2010-2433(IT)APP
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-2433(IT)APP
+ENTRE :
+PATRICK NICHOLLS,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+__________________________________________________________________
+Requêtes entendues sur preuve commune avec les requêtes de Patrick Nicholls (2009-2034(IT)I) et de Patrick Nicholls (2010‑1587(IT)G) le 31 mars 2011 à Toronto (Ontario)
+Devant : L’honorable juge L.M. Little
+Comparutions :
+Pour le requérant :
+Le requérant lui-même
+Avocat de l’intimée :
+Me Ricky Tang
+__________________________________________________________________
+ORDONNANCE
+Vu la requête en date du 28 février 2011 présentée par le requérant en vue d’obtenir :
+[traduction]
+« […] un nouvel examen des motifs du jugement et du jugement annulant les recours concernant les années d’imposition 1991 et 1992 et les considérant comme effectivement caducs et nuls, ainsi que des directives sur les correctifs à apporter aux cotisations […] »
+Et vu la requête supplémentaire présentée le 18 mars 2011 par le requérant en vue d’obtenir :
+[traduction]
+« … le remboursement de la somme payée conformément à une demande péremptoire de paiement invalide et des compensations effectuées pour les années d’imposition 2008 à 2011 en raison de la période en litige, les années d’imposition antérieures à 1996, et la rectification de l’erreur administrative apparemment commise au cours de cette période, ainsi que l’annulation de la pénalité de 1990 pour productions tardives répétées et des intérêts sur les acomptes provisionnels pour 1991 et la modification des intérêts sur les acomptes provisionnels pour 1993 et 1994; enfin la réouverture de la demande fondée sur les dispositions d’équité faisant l’objet de droits acquis et une ordonnance forçant l’Agence du revenu du Canada (l’Agence) à répondre à la demande de report rétrospectif de perte en capital de 1998 à 1995.
+Après lecture des actes de procédure et audition des observations des parties;
+LA COUR ORDONNE CE QUI SUIT :
+1. Les requêtes du requérant sont rejetées.
+2. Le requérant doit payer sans délai à l’intimée la somme de 1 000 $ à titre de dépens.
+Le tout, en conformité avec les motifs de l’ordonnance ci-joints.
+Signé à Vancouver (Colombie-Britannique), ce 19e jour de mai 2011.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 7e jour de juillet 2011
+Sandra de Azevedo, LL.B.
+Référence : 2011 CCI 272
+Date : 20110519
+Dossier : 2010-2433(IT)APP
+ENTRE:
+PATRICK NICHOLLS,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L’ORDONNANCE
+Le juge Little
+A. LES FAITS
+[1] Le requérant a déposé le 21 juin 2010 un avis d’appel pour ses années d’imposition 1990 à 1995.
+[2] Comme l’avis de nouvelle cotisation était daté du 10 novembre 2005, l’agent du greffe de la Cour de l’impôt a estimé que le document qui avait été déposé devant la Cour ne devait pas être reconnu comme un avis d’appel valide mais qu’il devait plutôt être considéré comme une demande de prorogation du délai imparti pour déposer un avis d’appel.
+[3] Le requérant maintient que le traitement que la Cour de l’impôt lui a réservé en ce qui concerne le dépôt de son document était incorrect.
+[4] Le requérant a présenté une requête et une requête supplémentaire en réexamen du jugement par lequel la juge V.A. Miller a rejeté sa demande de prorogation du délai pour déposer un avis d’appel (voir 2011 CCI 39).
+[5] La question à trancher est celle de savoir si la juge V.A. Miller a négligé ou accidentellement omis de traiter dans sa décision d’une question dont elle aurait dû traiter ou si l’ordonnance rendue n’est pas en accord avec ses motifs de sorte que l’article 168 des Règles de la Cour canadienne de l’impôt (Procédure générale) (les Règles) permet à la Cour de la réexaminer.
+[6] Le requérant a déposé devant la Cour une requête datée du 28 février 2011 ainsi qu’une requête supplémentaire datée du 18 mars 2011 dans lesquelles il a formulé comme suit les questions à trancher :
+1. Le délai dans lequel le ministre devait répondre était-il expiré?
+2. Le recouvrement est-il prescrit en ce qui concerne les années d’imposition 1991 et 1992?
+3. Les remboursements prévus par les nouveaux avis de cotisation sont-ils calculés pour les années d’imposition 1993 et 1994 ?
+4. Y a-t-il lieu de rembourser l’appelant pour les compensations effectuées pour l’une ou l’autre des années 2009, 2010 ou 2011?
+5. La somme payée en réponse à la demande péremptoire de paiement invalide devrait-elle être remboursée avec intérêts?
+6. La pénalité pour production tardive de 1990 est-elle correcte ou devrait-elle être annulée?
+7. Les intérêts sur les acomptes provisionnels sont-ils corrects ou devraient-ils être annulés?
+8. La demande fondée sur les dispositions d’équité faisant l’objet de droits acquis devrait-elle être rouverte?
+9. Le report rétrospectif de 1996 devrait-il être rajusté pour établir le montant exact?
+[7] Bien que le requérant soulève neuf questions distinctes dans ses requêtes, toutes ces questions se rapportent à la dette fiscale considérable que le requérant a accumulée au cours des années d’imposition 1990 à 1995. La position du requérant pourrait être résumée en expliquant qu’à son avis, le ministre du Revenu national (le ministre) a dépassé le délai prescrit par la loi pour recouvrer la dette fiscale accumulée par le requérant entre 1990 et 1995 et que le ministre ne peut continuer à recouvrer ses dettes fiscales tant que l’appel du requérant est en instance devant la Cour canadienne de l’impôt (Nota : Le présent paragraphe n’est inséré que pour situer le contexte de la présente affaire et la véritable question en litige est celle de savoir si l’article 168 des Règles s’applique.)
+B. ANALYSE ET DÉCISION
+[8] Le requérant a-t-il introduit la présente requête en réexamen du jugement de la juge V.A. Miller dans les dix jours suivant la date à laquelle il a pris connaissance de l’ordonnance?
+[9] Le requérant était tenu de présenter sa requête dans les dix jours suivant la date à laquelle il avait pris connaissance de l’ordonnance de la juge V.A. Miller. La juge V.A. Miller a signé son ordonnance le 21 janvier 2011. Toutefois, l’ordonnance a été envoyée au requérant le 24 janvier 2011. Le 1er février 2011, le requérant a demandé par téléphone qu’on lui précise la date d’inscription au rôle de sa requête et, le 3 février 2011, on lui a confirmé que sa requête devait être présentée le 31 mars 2011. Conformément au paragraphe 27(5) de la Loi d’interprétation, L.R.C. 1985, ch. I-21, le délai de dix jours qui a couru après le 24 janvier 2011 a pris fin le 3 février 2011. J’ai conclu que le requérant a présenté sa requête dans le délai prescrit.
+[10] La juge V.A. Miller a-t-elle négligé ou accidentellement omis de traiter d’une question ou l’ordonnance est-elle en désaccord avec ses motifs de sorte que l’article 168 des Règles de la Cour canadienne de l’impôt (Procédure générale) (les « Règles ») permet à la Cour de réexaminer sa décision?
+[11] Le requérant n’a pas précisé en vertu de quel article des Règles il présentait sa requête en réexamen. Il semble toutefois que l’article 168 des Règles soit la seule possibilité. L’article 168 dispose :
+Nouvel examen d’un jugement disposant d’un appel
+168. Lorsque la Cour a prononcé un jugement disposant d’un appel, toute partie peut, dans les dix jours de la date à laquelle elle a pris connaissance du prononcé du jugement, demander, par voie de requête, un nouvel examen des termes du prononcé du jugement, mais seulement pour l’une ou l’autre des raisons suivantes :
+a) le prononcé n’est pas en accord avec les motifs, le cas échéant;
+b) on a négligé ou accidentellement omit de traiter dans le jugement d’une question dont on aurait dû traiter.
+[12] Cet article a pour objet de contourner le fait que la Cour est maintenant dessaisie de l’affaire. Il permet à la Cour de corriger les erreurs légères sans devoir s’adresser à une cour d’instance supérieure lorsque les conditions de l’article 168 sont réunies.
+[13] L’ordonnance rendue par la juge V.A. Miller le 21 janvier 2011 est ainsi libellée :
+Vu la demande de prorogation du délai pour déposer un avis d’appel à l’égard des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu (la « Loi ») pour les années 1992, 1993 et 1994 et à l’égard des cotisations établies en vertu de la Loi pour les années d’imposition 1990, 1991 et 1995;
+Et après avoir entendu le requérant et les avocats de l’intimée;
+La demande est rejetée.
+[14] Ainsi qu’il ressort de ses motifs, la juge V.A. Miller a rejeté l’argument du requérant suivant lequel il n’avait jamais reçu les avis de cotisation et elle a rejeté ses appels au motif qu’il n’avait pas déposé d’avis d’opposition dans le délai d’un an et quatre-vingt-dix jours suivant la mise à la poste des avis de cotisation. On arrive à ce délai d’un an et quatre-vingt-dix jours en examinant les paragraphes 167(1), 167(5) et 166.1(7) et l’article 166.2 de la Loi de l’impôt sur le revenu (la « Loi »). J’estime que c’est à bon droit que la juge V.A. Miller a conclu que, comme le requérant n’avait rien fait dans le délai d’un an et quatre-vingt-dix jours suivant la réception des avis de cotisation, son droit d’appel avait expiré.
+[15] Le requérant présente maintenant la présente « requête en réexamen » portant sur les neuf questions susmentionnées. Aucune de ces questions n’évoque le raisonnement de la juge V.A. Miller suivant lequel le recours du requérant est prescrit. Le requérant cherche en l’espèce à « plaider de nouveau » les mêmes questions étant donné que son argument porte sur les mêmes questions de fond concernant les années en question. À mon avis, l’appelant n’a pas réussi à démontrer que les motifs de la juge V.A. Miller ne sont pas en accord avec son ordonnance et il n’a pas non plus démontré que la juge a négligé ou accidentellement omis de traiter d’une question dont elle aurait dû traiter. Je conclus donc que la requête devrait être rejetée.
+[16] Je conclus également que l’avis d’appel a été converti correctement par l’agent du greffe en demande de prorogation du délai pour déposer un avis d’opposition. La juge V.A. Miller a rejeté cette demande et les recours du requérant sont maintenant prescrits en ce qui concerne ses années d’imposition 1990 à 1995.
+Dépens
+[17] Le 31 mars 2011, j’ai entendu les présentes requêtes ainsi que deux autres requêtes déposées par le requérant. De plus, le requérant a déposé d’autres requêtes devant la Cour de l’impôt, la Cour fédérale, la Cour d’appel fédérale et des tribunaux judiciaires ontariens. Les demandes présentées par le requérant sont très semblables aux questions que le requérant a soulevées devant moi.
+[18] À mon avis, le requérant fait perdre du temps à la Cour et à l’intimée en présentant ce type de requête. Je condamne le requérant à payer à l’intimée la somme de 1 000 $ à titre de dépens. Les dépens sont payables sur-le-champ.
+Signé à Vancouver (Colombie-Britannique), ce 19e jour de mai 2011.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 7e jour de juillet 2011
+Sandra de Azevedo, LL.B.
+RÉFÉRENCE : 2011 CCI 272
+No DU DOSSIER DE LA COUR : 2010-2433(IT)APP
+INTITULÉ : PATRICK NICHOLLS et SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 31 mars 2011
+MOTIFS DE L’ORDONNANCE : L’honorable juge L.M. Little
+DATE DE L’ORDONNANCE : Le 19 mai 2011
+COMPARUTIONS :
+Pour le requérant :
+Le requérant lui-même
+Avocat de l’intimée :
+Me Ricky Tang
+AVOCATS INSCRITS AU DOSSIER :
+Pour le requérant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

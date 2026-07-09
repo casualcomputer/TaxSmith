@@ -1,0 +1,192 @@
+Title: Robert Glegg Investment Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28367/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-20-28367-robert-glegg-investment-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-01-09
+
+# Robert Glegg Investment Inc. v. The Queen
+
+- Citation: 2008 TCC 20
+- Decision date: 2008-01-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1952, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Robert Glegg Investment Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-01-09
+Neutral citation
+2008 TCC 20
+File numbers
+2005-3157(IT)G
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-3157(IT)G
+BETWEEN:
+ROBERT GLEGG INVESTMENT INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 29 and 30, 2007, at Toronto, Ontario
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+Richard Fitzsimmons
+Counsel for the Respondent:
+Jenny Mboutsiadis
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 1999 taxation year is dismissed with costs to the Respondent.
+Signed at Calgary, Alberta, this 9th day of January, 2008.
+“Campbell J. Miller”
+C. Miller J.
+Citation: 2008TCC20
+Date: 20080109
+Docket: 2005-3157(IT)G
+BETWEEN:
+ROBERT GLEGG INVESTMENT INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Miller J.
+[1] Robert Glegg Investment Inc. appeals the assessment by the Minister of National Revenue (the “Minister”) of its 1999 taxation year on the basis that the Minister incorrectly included the full purchase price of $54 million in the proceeds of disposition of nine million shares in Glegg Industries Inc. to General Electric Canada Inc. The Appellant argues that some considerable portion of that amount was properly allocable to a non-competition agreement given by Mr. Robert Glegg at the closing of the share sale, and consequently, the proceeds of the disposition of the share sale should be reduced accordingly. If I were to agree with the Appellant, I must then determine the value of the non-competition agreement.
+Facts
+[2] Mr. Glegg held 100% of the shares of the Appellant, which in turn held nine million shares in Glegg Industries. Mr. Glegg also held 200 shares directly in Glegg Industries as a result of a minor transaction which has no bearing on this case. Mr. Glegg indicated he considered himself and his holding company to be one and the same. Glegg Industries, founded by Mr. Glegg in 1978, was in the water treatment business. As chairman, CEO and president, Mr. Glegg grew this company into a worldwide organization with 400 employees, and a stable of reputable clients. Glegg Industries became a world leader in the provision of water systems to the semi-conductor industry.
+[3] In 1997, General Electric approached Mr. Glegg expressing interest in acquiring Glegg Industries. Mr. Glegg put them off at that time, but was again approached in early 1999, and at that stage, Mr. Glegg was prepared to commence negotiations. He surrounded himself with a team of professional advisors, including the law firm of Stikeman Elliott, the accounting firm of Arthur Andersen and the bank, Deutsche Bank. Negotiations went on for several months. On September 7, 1999, General Electric sent a letter to Mr. Glegg indicating the two sides “have entered into negotiations with the intention that such negotiations will lead to a definitive agreement for the indirect acquisition of Glegg Industries by General Electric on substantially the terms outlined in Annex “A” which was a term sheet that stipulated amongst other provisions, the following:
+Price
+To be agreed, but in excess of US$15 million (subject to adjustment based on the Closing Date balance sheet)
+Conditions to
+First Closing
+· Truth of representations and warranties
+· Delivery of at least 80% of the Shares
+· Non-competition and consulting agreement of Robert Glegg
+[4] The closing was to be handled in two stages; the first stage being the closing of the sale of at least 80% of the shares of Glegg Industries, which were held by just a handful of shareholders, primarily the Appellant with approximately 50%. Then, one month later, the many employee shareholders (approximately 150) would sell their shares. Prior to this transaction, the Appellant held over 50% of the shares of Glegg Industries, but in order to provide the employee shareholders with their full allotment, all options held by employee shareholders were vested immediately prior to the sale, with the effect of diluting the Appellant’s interest to just under 50%. Mr. Glegg had a power of attorney over another shareholder’s interest of approximately 7%, so he effectively retained voting control.
+[5] Mr. Glegg was able to assure General Electric he could deliver 100% of the shares of Glegg Industries, because every shareholder had previously entered a shareholder agreement, which contained a “drag-along” provision as follows:
+Section 2.02 Sale by Robert. If Robert or a corporation controlled by him receives a bona fide offer from an arm’s length third party (the “Third Party”) for he purchase of all or substantially all of the common shares of the Corporation owned or controlled by him, which Robert intends to accept, Robert shall not sell, transfer or otherwise dispose of such common shares to the Third Party until Robert obtains an offer from the Third Party for the purchase of all the Shares (the “Offer”) upon the same terms and conditions as are contained in the Third Party’s offer to Robert.
+Upon receiving the Offer, Robert shall deliver a written notice to the Shareholder (the “Notice of Sale”) stating the terms and conditions of the Offer and the name of the Third Party.
+The Shareholder shall have 7 days from the receipt of the Notice of Sale to direct Robert to accept the offer on behalf of the Shareholder, failing which the Shareholder irrevocably appoints Robert to be his attorney to:
+(a) accept on his behalf the Offer; and
+(b) do and execute all acts, deeds, matters and things as Robert considers necessary to be done with respect to completing the purchase and sale of the Shares in accordance with the Offer.
+[6] The effect of this provision is two-fold: firstly, it ensured the shareholders would receive the same deal as Mr. Glegg and secondly, it forced the shareholders to sell on those terms, by allowing Mr. Glegg to drag them along into the deal. Mr. Glegg was adamant that the shareholders would receive no less than he did on any sale, whether the amount he received was allocated to shares, non-competition or the consulting agreement. Mr. Glegg described his deal as threefold: he was selling the shares, providing a non-competition agreement to General Electric, and also providing consulting services for a limited period of time. This was all embodied in the final agreement, a 68-page document entitled “Offer to Purchase”. It contained the following provisions:
+Section 2.1 Offer and Deadline.
+The Purchaser hereby offers to purchase all, but not less than all, of the Shares on the terms and conditions hereinafter set out. The Offerees shall have until 10:00 a.m. (Toronto time) on November 8, 1999 (the “Acceptance Deadline”) to accept this Offer.
+…
+Section 2.3 Purchase and Sale.
+The total purchase price (the “Purchase Price”) shall be $110,175,000.00, subject to adjustment in accordance with Section 2.5(5). Each of the Vendors, by its acceptance hereof, hereby agrees to sell the Shares set forth beside such Vendor’s name in Schedule A to the Purchaser and the Purchaser hereby agrees to purchase such Shares from each of the Vendors for a total purchase price per Share equal to the Purchase Price divided by the total number of Shares outstanding as of the First Closing Date (the “Share Purchase Price”) upon and subject to the terms and conditions hereof.
+…
+Section 6.1 Conditions of Closing.
+(1) Conditions for the Benefit of the Purchaser to be Performed on the Closing Date. The purchase and sale of such of the Shares as are to be purchased on the First Closing Date is subject to the following conditions to be fulfilled or performed at or prior to the Closing Time, which conditions are for the exclusive benefit of the Purchaser and may be waived, in whole or in part, by the Purchaser in its sole discretion.
+…
+(b) Deliveries on the First Closing Date. On the First Closing Date, the Vendors participating in such Closing shall deliver or cause to be delivered to the Purchaser the following in form and substance satisfactory to the Purchaser, acting reasonably:
+(i) share certificates representing not less than 80% of the Shares (and which shall include all Shares of the Key Vendors) duly endorsed in blank for transfer, or accompanied by irrevocable security transfer powers of attorney and duly executed in blank, in either case by the holders of record;
+…
+(v) non-competition agreements duly executed by each of Robert, Mark Huehnergard and Lorne Iverson on the terms agreed to between the Purchaser and those individuals on the date hereof;
+(vi) a consulting agreement in respect of the transition period duly executed by Robert on the terms agreed to between the Purchaser and Robert on the date hereof;
+[7] The non-competition agreement amongst Mr. Glegg, General Electric and Glegg Industries stipulated in part as follows:
+WHEREAS Robert today has accepted the Offer with respect to all of the shares of the Corporation held or controlled, directly or indirectly by him (“his Shares” or “Robert’s Shares”) which represent in the aggregate approximately 49.66% of the issued and outstanding shares of the Corporation;
+…
+WHEREAS Robert will, upon completion of the sale of his Shares to the Purchaser today pursuant to the Offer, receive substantial consideration from the Purchaser;
+WHEREAS Robert, recognizing the need for the Purchaser to protect its legitimate business interest and the value and goodwill in the Business and as an inducement for the Purchaser to make the Offer, has agreed to enter into this agreement;
+…
+NOW THEREFORE THIS AGREEMENT witnesses that, in consideration of the completion of the purchase and sale of Robert’s Shares pursuant to the Offer, the covenants and agreements herein contained and other good and valuable consideration given by each of the parties to the others (the receipt and sufficiency of which are hereby acknowledged by each of them to the others), the parties agree as follows:
+…
+[8] The non-compete went on to provide a comprehensive restriction against Mr. Glegg having anything to do with the water treatment business, very broadly defined, worldwide for 10 years. Mr. Glegg was clear that this part of the transaction was absolutely critical to General Electric, and that the deal would not have proceeded at that price without such a non-compete. No one from General Electric testified.
+[9] Mr. Glegg’s lawyer, Mr. Barrett explained that no consideration was allocated to the non-compete, given the administrative policy of Canada Revenue Agency (“CRA”) at that time as to how such payments were treated. He left me with the impression that this aspect of the transaction was simply not explored, as the treatment for tax purposes was clear. It was therefore unnecessary to even consider any value for the non-compete. Mr. Barrett’s testimony in this regard differed somewhat from Mr. Glegg’s. Mr. Glegg had testified that his professional advisors contemplated an allocation but were instructed otherwise by CRA. I took from Mr. Glegg’s testimony that the “instruction” was in the form of an IT Bulletin setting out how CRA dealt with non-compete payments as part of the sale of shares.
+[10] Mr. Glegg’s consulting agreement required him to provide consulting services on a no-fee basis until May 5, 2000. As Mr. Glegg’s lawyer, Mr. Barrett, explained, it was not tax advantageous to allocate any consideration to the consulting agreement. Mr. Glegg did consult diligently throughout the consulting period.
+[11] The offer to purchase, non-compete agreement and consulting agreement were all signed on October 15, 1999. All conditions of closing were met and the deal for 80% of the shares closed October 15th, with the balance of the shares being delivered a month later by the employee shareholders. The Appellant received approximately $54 million in the sale.
+[12] Mr. Glegg maintained the deal was structured to allocate no amount to the non-compete based on erroneous guidance from CRA.
+[13] This Court’s decision in Fortino v. R.,[1] released in November 1996, determined that payments for non-compete agreements were not taxable. Subsequent to the sale of shares, the Federal Court of Appeal came out with a similar ruling.
+Issue
+[14] The issue is whether an amount representing the fair market value of the non-compete agreement signed by Mr. Glegg should, in any manner, reduce the proceeds of disposition of the Appellant’s shares in Glegg Industries for the purposes of determining the Appellant’s capital gain on the disposition of shares.
+Appellant’s Position
+[15] The Appellant suggests that the case really hinges on a finding of fact: that I should find, as a fact, that some of the money the Appellant received was attributable to Mr. Glegg’s non-competition agreement. Mr. Fitzsimmons premised this argument on a finding that the Appellant was a party to the non‑compete. In effect, the shares, non-competition agreement and consulting agreement were part of a package deal, sold for $110 million. The Appellant emphasizes that the non-competition agreement was a condition both at the letter of intent stage and in the final agreement, and consequently an integral term of the deal. If I find that part of the $110 million was indeed consideration for the non-competition agreement then, based on the Manrell v. R.[2] decision, such consideration is not proceeds of disposition from property and, therefore, not taxable.
+[16] The Appellant also raises an argument based on section 68 of the Income Tax Act (the “Act”) which separates proceeds between proceeds of disposition of property and consideration for particular services. The Appellant argues that, as part of the consideration can reasonably be regarded as for the provision of consulting services, section 68 is brought into play. Once in play, it operates to only attach to the proceeds of disposition of the shares, the amount that can reasonably attach to the shares, which would not include any value allocable to the non-competition agreement. Finally, the Appellant contends that the Appellant erred in law in including all the consideration it received as proceeds from the disposition of shares. The Appellant is therefore entitled to correct its error and the Minister, having repeatedly published an erroneous opinion of the taxation of non-competition payments, cannot impugn the Appellant’s request to now correct its tax liability.
+Respondent’s Position
+[17] The Respondent’s position is that the documents speak for themselves: neither in the letter of intent nor in the final agreement is there any mention of payment for the non-competition agreement. The shares were bought subject to the satisfaction of a condition precedent, the delivery of the non-competition agreement. Likewise, the non-competition agreement itself does not reference Mr. Glegg getting any consideration for the non-competition through the sale of shares. The deal was that the shares were sold for $110 million. Further, Mr. Glegg signed the non-competition agreement, not the Appellant, a separate entity. How can the Appellant now claim it received payment for the non‑competition agreement – that was not the deal.
+[18] The deal was structured to ensure that all shareholders got the same deal; in effect, Mr. Glegg was precluded from getting anything extra for a non‑competition agreement.
+[19] Finally, the Respondent argues that section 68 has no bearing in this case, as there was only a disposition of property, the shares, and no provision of services. The Respondent proceeded in this argument on the basis that it is the non-competition at issue, not the consulting agreement, and as the non-competition is not a provision of services, section 68 cannot operate to separate out any reasonable allocation to the non-competition agreement.
+Analysis
+[20] I shall first deal with the issue of what exactly was the agreement between the parties. The distinction between Ms. Mboutsiadis’ and Mr. Fitzsimmons’ position is as follows: Ms. Mboutsiadis describes the deal as the sale of shares for $110 million – that is what the documents say in clear unambiguous terms. Mr. Fitzsimmons describes the deal as a “package deal”: General Electric was acquiring shares, a non-competition agreement and Mr. Glegg’s consulting services all for $110 million. The fact the parties allocated all the consideration to shares in the agreements was due to CRA’s published views on how those items were treated from a tax perspective. With respect, I have some difficulty accepting the Appellant’s position on this issue. Firstly, Mr. Barrett acknowledged that with respect to the consulting agreement, the parties intentionally did not assign any consideration, as it would have been tax disadvantageous to do so. To now suggest that the agreement should be interpreted such that some consideration attached to the consulting agreement, as well as the non-competition agreement, (as Mr. Fitzsimmons acknowledged in argument,) creates, I would suggest, a state of chaos in the interpretation of contracts. When is a Court to believe what a written agreement states, and when is it to delve deeper into all the circumstances surrounding that written agreement to determine if it means what it says. When an agreement is as clear as this agreement is, it is not for this Court to seek interpretation outside the four corners of the agreement.
+[21] Secondly, even if I were to consider other circumstances, what are those other circumstances? According to Mr. Glegg, the non-competition agreement was integral to the agreement. There would not have been a deal at that price without the non-competition. There may not have been a deal if Glegg Industries did not have substantial contracts in hand as well. There may also not have been a deal at that price if the underlying assets were in disrepair or certain employees left the company en masse. These are factors that go to the value of the company. Granted, non-competition is not a taxable asset, but it clearly goes to the value of the business. This I find was clearly evidenced in paragraph 2.5 of the non‑competition agreement.
+Section 2.5 Reasonableness of Obligations
+(1) Robert acknowledges that the Purchaser is purchasing his Shares in order to obtain the goodwill in the Business and confirms that the obligations in Sections 2.01, 2.02, 2.03, 2.06 and 2.07 are fair, reasonable and appropriate in the context of such purchase and hereby waives all defences to the strict enforcement thereof, given that, among other reasons, he is the founder of the Business and the principal shareholder and president of the Corporation.
+(2) Robert further confirms the scope of each of the covenants set out in Sections 2.01, 2.02, 2.03, 2.06 and 2.07 is in all respects, and in particular in respect of geographic area, time and subject matter, necessary reasonable and appropriate given that the Business is marketing its products and services on an international basis.
+(3) The parties will also acknowledge that the obligations contained in this Agreement will not preclude Robert from applying his general business knowledge and experience in the pursuit of business or employment opportunities other than in competition with the Business during the Term, and will not preclude him from pursuing business or employment opportunities in any field following the conclusion of the Term.
+[22] The other circumstance the Appellant relied on was the fact of CRA’s publications or “instructions” relating to the tax treatment of non-competition agreements, causing its advisors to not assign any consideration to the non‑competition. I offer two comments in that regard. First, Mr. Glegg had advisors of national and international repute acting for him on these matters. The advice was to allocate all the consideration to shares. Mr. Barrett suggested nothing else was contemplated. This is at a time when the Court’s decision in Fortino had been released. I have not been convinced the tax tail was wagging the dog. This was a share purchase.
+[23] I add to this the commercial reality that Mr. Glegg was adamant he did not want to receive anything more out of the disposition of this business than his co‑shareholders. This was a motivating factor in the structure of the deal. The shareholder agreements called for equal treatment: indeed, Mr. Glegg was obliged to provide the same deal to his partners, as they were obliged to go along with the deal. He was not in a position to say, “we will all get the same amount per share, but then I will get an additional $15 million for something you other shareholders are not in a position to offer”. He, with considerable integrity I might add, was not prepared to get one dollar more than the other shareholders. This could only be done by a share sale, as all but three shareholders had nothing else to offer.
+[24] The non-compete is not an agreement the minority shareholder can give; it is Mr. Glegg’s agreement that the minority shareholder must deliver on closing – a condition of closing. If that is what it is to the minority shareholder, then how can it be anything more than a condition of closing to any of the vendors of the shares including the Appellant and Mr. Glegg. That is what it is called in the agreement. I am not prepared to elevate it to any greater status.
+[25] I am further swayed in my view by the fact that I heard no testimony from anyone from General Electric, confirming the share sale was indeed a three-part package deal. For these reasons, I do not accept the Appellant’s argument that the deal was anything other than what is clear on its face – the sale of shares at $110,175,000.
+[26] Before concluding on this point, and turning to the application of section 68, I wish to address the United States and United Kingdom authorities cited to me by Mr. Fitzsimmons. He made it clear the taxation of non-competition agreements in the United States is quite different than the treatment in Canada. The United States Internal Revenue Code requires recipients of payments for non-competition covenants to include the payments in income and allows payors to amortize the payments over the covenant’s term. Where shares are sold with a non-competition covenant, without an agreed allocation of the price between the shares and the covenant, the US courts will allocate an amount to the covenant if satisfied that there was a genuine business reason for the covenant, and that it had real economic substance. Mr. Fitzsimmons cites the cases of Wilson Athletic Goods Mfg. Co., Inc. v. C.I.R.,[3] and Ansan Tool and Manufacturing Company, Inc. v. C.R.R.[4]. In the Wilson case, there was an assets sale consisting of current assets for $270,000, machinery and equipment for $157,000, a covenant not to compete for $132,000 and goodwill for $10,000. The US Tax Court determined the $132,000 should have been part of the goodwill. The Court of Appeal overturned that decision and allocated the $132,000 to the non-competition agreement. The Court made an interesting comment:
+But in tax matters we are not bound by the strict terms of the agreement; we must examine the circumstances to determine the actualities and may sustain or disregard the effect of a written provision or of an omission of a provision, if to do so best serves the purposes of the tax statute. Higgins v. Smith, 308 U.S. 473 at page 477, 60 S. Ct. 355, 84 L.Ed. 406. The incidence of taxation depends upon the substance of the transaction. Tax consequences are not to be finally determined solely by the mechanical means employed to transfer legal title. We must look to the realities.
+[27] With respect, this is simply not the state of law in Canada. I contrast this approach to the Supreme Court of Canada’s approach in the Shell Canada v. R.[5] decision, and conclude it would be inappropriate in this case to look to the American authorities for guidance.
+[28] The Appellant also relied on a House of Lords decision, Aberdeen Construction Group Ltd. v. Inland Revenue Commissioners.[6] Aberdeen had acquired shares in a subsidiary, Rock Fall Co. Ltd., for £114,000 and had lent its subsidiary £500,000. The purchaser, Westminster, offered to buy the shares of Rock Fall from Aberdeen for £250,000 on condition that it waive the £500,000 loan to Rock Fall. Lord Wilberforce stated in a split three-two decision:
+The argument for the revenue that £250,000 was paid for the shares alone was based, in the end, as I understand it, on the use of the word “conditions.” The contract was, so they contend, for the shares, but the agreement to buy at the stated price was conditional upon the waiver of the loan. The waiver was something which was to be carried out before the sale and independently of it, in order to clear the way for a sale at £250,000. I cannot accept this. An obligation may be, or be called, a condition and still be a contractual term. Calling a term a condition, so far from making it non-contractual, normally makes it a contractual term of particular importance – such that if it is not carried out the other party may rescind the contract. It is clear that the loan had not been waived at the date of the contract – paragraph I states that it “presently stand at £500,000.”
+It is equally clear that in order to bring into force Westminster’s obligation to pay £250,000, the appellants would have, not only to transfer the shares, but to waive the loan: from this it must follow that the £250,000 was paid in consideration of both obligations. On this I must respectfully differ from the learned judges of the Court of Session. The Lord President held that there were two separate disposals by the appellants but only one of them a disposal to Westminster. Westminster contracted to acquire the rights of the appellants as shareholder and that is what they paid for.
+…
+But the question, as I see it, is not whether there was a “disposal” to Westminster of the debt, but - a pure matter of contract – what the £250,000 was paid for.
+[29] While this is more persuasive than the American authorities, it is distinguishable. Clearly, Aberdeen owned the two capital assets disposed of: the shares and the debt. The Appellant before me held only shares: it had nothing else to dispose of. To answer Lord Wilberforce’s question, as it might pertain to the Appellant’s sale – what was the $54 million paid to the Appellant for? It was paid to acquire shares.
+[30] Lord Fraser of Tullybelton, in concurring with Lord Wilberforce, distinguished between the condition to waive the loan and other conditions as follows:
+I do not consider that the same argument applies to the other conditions of the offer. They are entirely different in character from condition 1. Conditions 2 and 3 are both concerned with preserving the assets of Rock Fall as they were at the effective date of transfer, or with providing for compensation for any variation in favour of either party, whereas condition 1 imposed an onerous new obligation on the seller. …
+[31] In the case before me, the condition to provide a non-competition agreement is more akin to a condition to preserve the assets of Glegg Industries than to imposing an onerous new obligation on Glegg Industries. Indeed, the obligation to enter into a non-competition agreement did not fall on Glegg Industries’ shareholders at all; they were required to deliver the agreement of Mr. Glegg.
+[32] I am also mindful of the two dissenting opinions in Aberdeen which held that the £250,000 was solely for the purchase of shares. For these reasons, I am not prepared to rely on Aberdeen in interpreting the contract in the Appellant’s favour. The Appellant could not refer me to any similar Canadian case precedent.
+[33] I turn now to the application of section 68 of the Act, which reads:
+68 Where an amount received or receivable from a person can reasonably be regarded as being in part the consideration for the disposition of a particular property of a taxpayer or as being in part consideration for the provision of particular services by a taxpayer,
+(a) the part of the amount that can reasonably be regarded as being the consideration for the disposition shall be deemed to be proceeds of disposition of the particular property irrespective of the form or legal effect of the contract or agreement, and the person to whom the property was disposed of shall be deemed to have acquired it for an amount equal to that part; and
+(b) the part of the amount that can reasonably be regarded as being consideration for the provision of particular services shall be deemed to be an amount received or receivable by the taxpayer in respect of those services irrespective of the form or legal effect of the contract or agreement, and that part shall be deemed to be an amount paid or payable to the taxpayer by the person to whom the services were rendered in respect of those services.
+[34] Section 68 allows a transaction to be taxed based on reasonable apportionment, and not on the agreed terms. In effect, for tax purposes the Act mandates piercing any sanctity of contract that might exist and, “irrespective of the form or legal effect of the contract”, taxing on the basis of what the consideration for the property, regarded reasonably, should or could have been. That is quite a different kettle of fish than determining what the deal in fact was between the parties, which has been the analysis thus far.
+[35] Mr. Fitzsimmons argues that section 68 comes into play because the consulting agreement, which is a provision of services, forms part of the agreement between the Appellant and General Electric; thus, you have the two elements necessary, according to Mr. Fitzsimmons, for section 68 to apply: the disposition of a particular property (shares) and the provison of services. Once section 68 applies, then the wording of the section precludes any consideration attaching to the shares other than the amount that “can reasonably be regarded as being the consideration for the disposition”. This, goes the argument, would extract from the consideration for the shares any amount reasonably attributable to anything other than the shares, including the value of the non-competition.
+[36] I do not believe that one needs to take quite as complex an approach. The opening paragraph of section 68 is disjunctive; that is, there must be either:
+(a) an amount received or receivable that can reasonably be regarded as being in part consideration for the disposition of property or
+(b) an amount received or receivable that can reasonably be regarded as being in part consideration for the provision of services.
+Only one of these conditions need be met. Surely section 68 can be relied upon to allocate between land and building: a contract for such a disposition would not include any element of the provision of services.
+[37] I pose the question as follows: can the amount received by the Appellant from General Electric reasonably be regarded as being in part consideration for the disposition of shares. The Respondent argues, no it cannot be regarded as being in part, but can only reasonably be regarded as being in whole for the disposition of shares, and therefore section 68 does not apply: one does not have to consider how subsection 68(a) might apply. I disagree. I interpret this section as meaning that if any amount is paid by General Electric to the Appellant for the disposition of shares, then this first condition must be met. If all of the consideration, as the Respondent contends, goes to the shares, then certainly part of it goes to the shares – the part is subsumed in the whole. This would open the door to consider how subsection 68(a) might apply, though in this case the result is the same – no allocation.
+[38] Turning then to subsection 68(a), the Respondent would argue that it is unreasonable to regard any part of the amount received by the Appellant as consideration for anything other than shares, as that is all the Appellant had to dispose of. The Appellant could not grant the non-competition, nor provide the consulting services. The Respondent is correct. While the Appellant and all the other shareholders obliged themselves to deliver those documents to General Electric on closing, only Mr. Glegg personally could have sought payment for the non‑compete and consulting services. Mr. Glegg, for reasons of commercial integrity, agreed to take nothing for his non-compete and nothing for his consulting services. That may be commercially reasonable, but it does not preclude the possibility of General Electric attributing value to the non‑competition and consulting agreements, provided by Mr. Glegg. The Respondent says there is no evidence from General Electric to support such a finding. There is, however, General Electric’s acknowledgement in the preamble of the non-competition agreement that Mr Glegg will, upon completion of the sale of his shares, receive substantial consideration. I also have the evidence of Mr. Glegg that there would not have been a deal, at that price, without the non‑competition agreement. But, frankly, what evidence is required to make a reasonable finding that:
+i. An individual would not work 12 hour days for several months for nothing; and
+ii. An individual would not cut off his business life-line for 10 years for nothing.
+But this goes to the question of Mr. Glegg’s consideration – not the other shareholders.
+[39] Again, it is worth reiterating, this is not an analysis of what the deal was, but a look at how the consideration could reasonably be regarded for purposes of section 68. Having found section 68 could apply, the impact of subsection 68(a) is to allocate to the shares disposed of by the Appellant only the amount that can reasonably be regarded as consideration for the shares. I would have no hesitation whatsoever in applying subsection 68(a) to exclude the value of the non-competition agreement from the consideration for the shares, if I was dealing with the shares of Mr. Glegg himself. I would find it eminently reasonable to regard what Mr. Glegg received from General Electric as in part for his non-competition covenant and consulting services. But I am not dealing with Mr. Glegg’s shares: I am dealing with his holding company.
+[40] I find the Appellant is in no different position than the other shareholders, other than Mr. Glegg. All they had to offer was the shares. I do not accept the contention that Mr. Glegg’s non-compete covenant was either in fact or in law the Appellant’s non-compete covenant. It was not. It was open to Mr. Glegg to transfer ownership of the Appellant to a third party, at which point the Appellant would have been free to compete. The Appellant was not a party to the non-compete. It would not be reasonable to regard the value of the non-compete as being part of the consideration for the shares disposed of by the Appellant. While section 68 can apply to allocate consideration, there must be consideration for something: the Appellant had nothing else to offer to accommodate an allocation.
+[41] The deal could have been structured differently. Mr. Glegg could have accepted consideration for his non-compete covenant. He believed he might be breaching his agreement with his fellow shareholders to do so, yet at the same time suggests it was CRA’s incorrect “instructions” that resulted in no consideration attributed to the non-compete. Clearly, and not surprisingly, he wants the best of both worlds. It is somewhat ironic that by seeking to obtain tax free treatment on a significant amount, he would effectively be treating the Appellant quite differently from his fellow shareholders, who could not avail themselves of the same advantage.
+[42] I am not prepared to fault CRA for their pre - Fortino and pre - Manrell tax treatment of non-competition agreements, and as Mr. Fitzsimmons suggests, correct their error in law. Mr. Glegg sought top-notch professional advice on this transaction. It appears, from Mr. Barrett’s evidence, that the Tax Court’s decision in Fortino was not considered, and Mr. Glegg’s overriding concern for equal treatment with other shareholders was diligently followed. In these circumstances, I find there is no error in law to be corrected.
+[43] The appeal is dismissed, with costs.
+Signed at Calgary, Alberta, this 9th day of January, 2008.
+“Campbell J. Miller”
+Miller J.
+CITATION: 2008TCC20
+COURT FILE NO.: 2005-3157(IT)G
+STYLE OF CAUSE: ROBERT GLEGG INVESTMENT INC. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: October 29 and 30, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT: January 9, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Richard Fitzsimmons
+Counsel for the Respondent:
+Jenny Mboutsiadis
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Richard Fitzsimmons
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [1997] 2 CTC 2184 (TCC).
+[2] [2003] 3 CTC 50 (FCA).
+[3] 222 F. 2d 355, U.S.C.A., (7th Circ. 1955).
+[4] T.C. Memo 1992-121 (U.S.T.C., 1992).
+[5] [1999] 3 SCR 622.
+[6] [1978] A.C. 885 (H.L.).

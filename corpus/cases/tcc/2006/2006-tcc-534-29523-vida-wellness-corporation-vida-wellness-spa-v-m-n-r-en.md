@@ -1,0 +1,257 @@
+---
+title: "Vida Wellness Corporation (Vida Wellness Spa) v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29523/index.do"
+last_modified: "2006-10-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 534"
+citation2: ""
+neutral_citation: "2006 TCC 534"
+decision_date: "2006-10-02"
+language: "en"
+item_id: "29523"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6280
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:43:08.937000+00:00"
+cases_cited_count: 1
+cases_citing_count: 9
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "dbfd6d40e4fd993f8310de4a71e5c8ae26d23286a28e84c856737ad2e2d2b8f3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Vida Wellness Corporation (Vida Wellness Spa) v. M.N.R.
+
+- Citation: 2006 TCC 534
+- Decision date: 2006-10-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6280, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vida Wellness Corporation (Vida Wellness Spa) v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-10-02
+Neutral citation
+2006 TCC 534
+File numbers
+2005-1677(EI)
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2005-1677(EI), 2005-1678(CPP), 2005-1680(EI), 2005-1681(CPP)
+2005-1682(EI), 2005-1683(CPP), 2005-1695(EI), 2005-1696(CPP)
+2005-1697(EI), 2005-1698(CPP), 2005-1699(EI), 2005-1701(CPP)
+BETWEEN:
+VIDA WELLNESS CORPORATION DBA VIDA WELLNESS SPA,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeals heard on September 13 and 14, 2006,
+at Vancouver, British Columbia,
+by The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+Timothy W. Clarke
+Counsel for the Respondent:
+John Gibb-Carsley
+____________________________________________________________________
+JUDGMENT
+The appeals pursuant to subsection 103(1) of the Employment Insurance Act and section 28 of the Canada Pension Plan are allowed and the rulings of the Minister of National Revenue on the appeals made to him under section 91 of the Act and section 27.1 of the Plan, are vacated on the basis that the following were independent contractors and not employed in insurable and pensionable employment for the periods set out:
+- Danielle Guetta, December 18, 2002 to September 3, 2004;
+- Nancy Frame, October 23, 2002 to September 3, 2004;
+- Courtney Edy, December 1, 2003 to September 3, 2004;
+- Yvonne Dobrowolski, January 1, 2002 to September 3, 2004;
+- Garrick Cheung, May 23, 2004 to September 3, 2004; and
+- Shahin Azha, August 27, 2003 to September 3, 2004.
+Signed at Ottawa, Canada, this 2nd day of October 2006.
+"Campbell J. Miller"
+Miller J.
+Citation: 2006TCC534
+Date: 20061002
+Docket: 2005-1677(EI), 2005-1678(CPP), 2005-1680(EI), 2005-1681(CPP)
+2005-1682(EI), 2005-1683(CPP), 2005-1695(EI), 2005-1696(CPP)
+2005-1697(EI), 2005-1698(CPP, 2005-1699(EI), 2005-1701(CPP)
+BETWEEN:
+VIDA WELLNESS CORPORATION DBA VIDA WELLNESS SPA,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Miller J.
+[1] Vida Wellness Corporation DBA Vida Wellness Spa (Vida) appeals six Employment Insurance and six Canada Pension Plan decisions of the Minister of National Revenue (Minister). The Minister determined that six massage therapists were Vida employees engaged in insurable and pensionable employment. Vida maintains the workers were, as stipulated by their written contracts, independent contractors. This is the first case I have heard on this issue since the decision of the Federal Court of Appeal in Royal Winnipeg Ballet v. Canada.[1] It was not unexpected that the Appellant's opening salvo in argument was how critical it is now to consider the un-refuted intention of the parties to the contract, in determining the true nature of the relationship. The traditional approach set forth in the decision of the Supreme Court of Canada in 671122 Ontario Ltd. v. Sagaz Industries Canada Inc.[2] of weighing a number of factors, primary amongst them being the control factor, is now to be pursued in the context of whether such factors support the contracting parties' stated intention. Certainly, if the parties are not agreed, as is often the case, this preliminary inquiry is of limited value. What is interesting about this case is that Vida contracted with some massage therapists on the basis of an employment arrangement, and some on the basis of an independent contractor arrangement. In fact, the massage therapists were given a choice by Vida as to which they wanted to be. Only those who chose to be independent contractors are in issue before me.
+Facts
+[2] The status of the following six individuals is at issue in these appeals: Danielle Guetta, Nancy Frame, Courtney Edy, Yvonne Dobrowolski, Garrick Cheung and Shahin Azha (collectively the "workers"). All but Shahin Azha, who is out of the country, testified, as did Ms. Allison Hegedus, the regional director of Vida and Ms. Peggy Bereza, the president of the College of Massage Therapists in British Columbia.
+[3] For the period in question, 2002 to September 2004, Vida operated two spas, one at the Fairmont in Whistler and the other at the Sheraton in Vancouver. While the spas provided a number of services, these appeals deal only with the massage therapists, specifically the workers. In 2004, Vida had between 50 and 60 massage therapists under contract; a few contracted as employees, but most contracted as independent contractors. The "Contract for Services Agreement" for all six workers stated in part:
+A. Status of Contractor
+1) As an independent contractor, the Contractor shall provide services to the Company. The Contractor shall not be deemed an employee of the company for any purpose, nor will the Contractor be entitled to any wages, salary, paid holidays, pension allowance, medical or dental insurance or any other collateral benefits whatsoever from the Company. The contractor shall not use the name of the company to create or assume obligation whether expressed or implied.
+B. Obligation of the Contractor
+6. The Contractor agrees to provide the Company with proof of Certificates, Registration Numbers and a Business Number, practicing within the municipality of British Columbia. The Contractor is solely responsible for arranging its own Liability Insurance for itself and if applicable its employees. The Contractor shall provide the Company with proof of Liability Insurance.
+8. As an independent Contractor, the Contractor is solely responsible for and agrees to pay all statutory deductions including Employment Insurance, Provincial and Federal Taxes and Canada Pension Plan, Workplace Safety and Insurance with respect to the Contractor's Business, to the proper authorities, and agreed to make timely payments of the above amounts. The Contractor agrees to submit a copy of these deductions to the Company.
+G. Termination With Notice
+1. The contract may be terminated at any time. Both the Contractor and Company agree to provide two weeks written notice to the other party. The Contractor authorizes the Company to deduct any monies owing to the Company by the Contractor to be taken from the Contractor's final pay. Monies owing may constitute purchases, advances, loans, or damage to any Company property by the Contractor.
+H. Terms of Agreement
+3. During the terms of this Agreement, the Contractor may engage in other business activities, providing such business that does not conflict with the Contractor's obligations to utilize the Company, and agreed to by the Contractor and the Company.
+[4] The workers who testified confirmed that, in signing their contracts they were voluntarily agreeing to be independent contractors and not employees. Some had previous experience as employees and appreciated the distinction. None of the workers expressed any intention to be an employee. Ms. Frame, having started at Vida as an employee, switched to a contract for services as she no longer required employee benefits, but felt her better option was to take greater deductions as an independent contractor.
+[5] Of the five workers who testified, two were registered massage therapists in British Columbia, while the other three had extensive training in a variety of forms of massage. All had spent many thousands of dollars and significant hours of training in attaining their qualifications. It was also common to continue to take upgrading courses. The workers were required to pay for any such continuing massage therapy education, including courses offered by Vida itself.
+[6] The workers were paid in accordance with their contracts. Pursuant to their written agreement they received a percentage of the fee charged by Vida to the customer. It appears the percentage was based on an hourly rate, so, for example, for Mr. Cheung his agreement stipulated:[3]
+C. Fee:
+1) Based on the service performed, the Company will pay the Contractor a rate between 27.5% and 47%. The Contractor shall receive 15% of retail sold. The Contractor agrees that if the price of a service or retail has been discounted, then deductions will be taken from the Contractor's rate in accordance with the discounted service price. The Contractor will receive their contract percentage based on the discounted price. The Company may amend the service or retail price from time to time.
+Duration
+Price
+Therapist %
+Therapist Rate
+30 min
+$65.00
+34%
+$22.10
+30 min
+$80.00
+27.5%
+$22.00
+60 min
+$112.50
+39%
+$43.89
+60 min
+$140.00
+31.5%
+$44.10
+90 min
+$165.00
+40%
+$66.00
+90 min
+$180.00
+37%
+$66.60
+120 min
+$187.50
+47%
+$88.13
+120 min
+$240.00
+36.5%
+$87.60
+Rather than fixing an hourly rate, the agreement called for a percentage split of the fee between Mr. Cheung and Vida. If fees were discounted, as they occasionally were (for example, for British Columbia residents), Mr. Cheung would not receive the approximate $44.00 hourly rate, but would receive his percentage cut of the discounted fee. The worker also received an extra $10.00 for an ensuite massage and an extra $10.00 for a deep tissue massage. The massage therapists would also receive a commission on spa products sold by them.
+[7] If the workers showed up for a shift and had no customers, the workers did not get any remuneration. If it appeared a shift might be slow, the workers could choose to remain on call and not show up unless called. The workers could keep cash tips, but a percentage of credit card tips were pooled for credit card administration and staff who worked in the dispensary.
+[8] The workers scheduled their shifts three or four times a year for three or four months at a time. The workers could slot in as many or as few shifts as they wanted. There were two shifts a day. They were able to schedule shifts based on their own requirements vis-à-vis other opportunities to provide massage therapy elsewhere, family demands, whether it was a high season or low season, who else was on shift (too many senior therapists may mean less work as customers were assigned on a seniority basis, unless they requested a particular massage therapist), and whether a shift was likely to have discounted customers. As Mr. Cheung put it, he never had to work when he did not want to. If a worker was unable to make a shift, he or she could arrange for another massage therapist to go in his or her place provided such massage therapist was approved by Vida. The workers could also refuse to work on someone.
+[9] All the workers were able to provide massage therapy services other than at Vida. Some took greater advantage of this than others. The workers could, and some did, advertise by the distribution of both Vida business cards (with the workers' name on the card) and personal business cards, though they could not attempt to attract Vida customers away from Vida.
+[10] Vida required the workers to wear black pants and shirts to provide some consistency. Vida supplied tables, linens and oils for the performance of the services on the premises. Some workers, when performing ensuite massages, would take their own mobile tables. Most of the workers had their own table and oils but indicated it was more convenient, when working at Vida to use Vida's. Indeed, this was what they were paying for in splitting the fee. Vida looked after the billing and collecting of payments from customers. It was clear that if Vida did not get paid by a customer, the workers would not get paid.
+[11] Ms. Hegedus and the workers described some inherent risks in providing massages. Particular attention had to be paid to massages of pregnant women, avoiding certain parts of the body and even avoiding certain oils. Similarly, if a customer displayed any pre-existing condition or contra-indication the workers would proceed cautiously. For these reasons, it was important that the workers obtain a fairly detailed medical history prior to providing a massage. The workers were required by their governing body to carry insurance. Vida did not pay for the workers' coverage.
+[12] Vida had a Comprehensive Policy and Procedure Guide for massage therapists. The copy provided at trial was dated after the relevant period. Some of the workers had not seen the guide; some had, but paid little attention to it. Vida had a therapist supervisor who looked after scheduling of the massage therapists, and served as a liaison between the massage therapists and the organization. The workers did not view the supervisor as someone they reported to. There was some discrepancy amongst the workers as to how often there would be staff meetings. I conclude that they were infrequent and attendance was not compulsory.
+Issue
+[13] Were the workers independent contractors, or employees of Vida engaged in insurable and pensionable employment?
+Analysis
+[14] In the Supreme Court of Canada's decision of Sagaz, Justice Major described the analysis for determining the issue of employee versus independent contractor as follows:
+47 Although there is no universal test to determine whether a person is an employee or an independent contractor, I agree with MacGuigan J.A. that a persuasive approach to the issue is that taken by Cooke J. in Market Investigations, supra. The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker's activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker's opportunity for profit in the performance of his or her tasks.
+48 It bears repeating that the above factors constitute a non-exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case
+[15] A significant gloss has been added by the Federal Court of Appeal to this approach. This was evident in the case of Wolf v. Canada,[4] the year following Sagaz, wherein Justice Décary states, after referring to the cases of Wiebe Door Services Ltd. v. Canada[5] and Sagaz:
+… one ends up in the final analysis, in civil law as well as in common law, looking into the terms of the relevant agreements and circumstances to find the true contractual reality of the parties.
+And further he states:[6]
+… I say, with great respect, that the courts, in their propensity to create artificial legal categories, have sometimes overlooked the very factor which is the essence of a contractual relationship, i.e. the intention of the parties.
+… When a contract is genuinely entered into as a contract for services and is performed as such, the common intention of the parties is clear and that should be the end of the search.
+Justice Noël in the same case concludes in his brief judgment:[7]
+123 My assessment of the applicable legal tests to the facts of this case is essentially the same as that of my colleagues. I view their assessment of the control test, the integration test and the ownership of tool tests as not being conclusive either way. With respect to financial [page442] risk, I respectfully agree with my colleagues that the appellant in consideration for a higher pay gave up many of the benefits which usually accrue to an employee including job security. However, I also agree with the Tax Court Judge that the appellant was paid for hours worked regardless of the results achieved and that in that sense he bore no more risk than an ordinary employee. My assessment of the total relationship of the parties yields no clear result which is why I believe regard must be had to how the parties viewed their relationship. [My emphasis]
+I have previously referred to Justice Noël's approach as a tie-breaker approach, though Justice Sharlow in Winnipeg Ballet stated that:[8]
+… In my view, those reasons are not authority for that proposition. …
+She went on to say:[9]
+… One principle is that in interpreting a contract, what is sought is the common intention of the parties rather than the adherence to the literal meaning of the words. …
+Again at paragraph 61 she states:
+I emphasize, again, that this does not mean that the parties' declaration as to the legal character of their contract is determinative. Nor does it mean that the parties' statements as to what they intended to do must result in a finding that their intention has been realized. To paraphrase Desjardins J.A. (from paragraph 71 of the lead judgment in Wolf), if it is established that the terms of the contract, considered in the appropriate factual context, do not reflect the legal relationship that the parties profess to have intended, then their stated intention will be disregarded.
+[16] This leads to the penultimate question posed by Justice Sharlow:
+… The judge should have considered the Wiebe Door factors in the light of this uncontradicted evidence and asked himself whether, on balance, the facts were consistent with the conclusion that the dancers were self-employed, as the parties understood to be the case, or were more consistent with the conclusion that the dancers were employees. …
+She concludes:[10]
+… Therefore, the elements of control in this case cannot reasonably be considered to be inconsistent with the parties' understanding that the dancers were independent contractors.
+The same can be said of all of the factors, considered in their entirety, in the context of the nature of the activities of the RWB and the work of the dancers engaged by the RWB. In my view, this is a case where the common understanding of the parties as to the nature of their legal relationship is borne out by the contractual terms and the other relevant facts.
+[17] I conclude that if it is established the parties to a contract have a clear understanding that they were independent contractors, then the traditional factors must be analyzed on the basis of whether such factors are consistent with that understanding. If so, then the parties' understanding of their contracts prevails.
+[18] Following this approach, was there a clear understanding between Vida and the workers as to the nature of the contract? Yes, there was. There was a written agreement which stated unequivocally the workers were independent contractors. Yet, a clear statement of intention alone is not determinative. For example, if the parties to a contract simply want to avoid the employer making source deductions, they insert a provision stipulating the worker is an independent contractor and is responsible for looking after his or her own source deductions. This is evidence of an intention that the employers not make source deductions: it is not evidence of an independent contractor relationship. In this case, however, I am satisfied the parties' intention to create a contract of independent contractor is clear. The Respondent argued that there was not so much a clear intent to be independent contractors, as there was an indifference to their status. There was no evidence to suggest any of the workers would have preferred employment status. They all knew what was being offered, appeared to have understood the implications (for example, no minimal wage) and certainly willingly signed an agreement proclaiming their independent contractor status. While the circumstances do not reflect an insistence by the worker on the independent contractor status (except perhaps for Ms. Frame), they do reflect something more than indifference.
+[19] I turn now to the factors of control, risk of loss, chance of profit and ownership of tools, to determine whether those factors are consistent with the parties' stated intention of independent contractor.
+[20] It is important to distinguish at the outset between the identifying elements of employee versus independent contractor, as opposed to the results of the finding of employee or independent contractor. For example, in attempting to identify the difference between employed massage therapists and those massage therapists opting for independent contractor status, Ms. Hegedus suggested the following:
+- employee received 4% vacation pay;
+- employee received time and one-half on statutory holidays; and
+- employee was entitled to severance.
+These, however, are differences arising as a result of being an employee. They are not factors that go to identifying an employment relationship. The identifying factors are those I have listed earlier.
+[21] How fine the line can be between employment and independent contractor cannot be any better demonstrated than by this situation. The workers can choose to take the benefits that flow from employment, or reject them for the benefits that flow from being self-employed. That choice, willingly agreed to by Vida, cannot be ignored for purposes of the analysis. Indeed, it sets the stage for the analysis.
+Control
+[22] While the control test may have some shortcomings, it remains a factor that must always be considered. One of the shortcomings arises in dealing with professionally trained workers. Can the employer ever control "how" they conduct their work? As was indicated by all the workers who testified, there was never anyone else in the room observing, commenting or advising on how to give the treatment. I do not conclude that this means a message therapist can never be an employee. It is important to always look at each factor in the context of the overall relationship. In this case, did the workers exercise freedoms more consistent with someone in business on their own account, or did Vida impose controls, other than how to perform treatment, clearly of an employment nature?
+[23] Vida did have several guidelines to be followed by the workers; in fact, Vida published a staff guide for the massage department. The evidence was that the workers were either not aware of the guide, or paid little attention to it. Yet, I find there was a consistency of approach by the workers (for example, candles in the room, walking the customer to the door, wearing black pants and shirt) but more as a result of simply being present on the premises, than as a result of the guide, infrequent staff meetings or occasional emails. Yet, certainly this is some level of control.
+[24] But there were considerable freedoms for the workers as well: the freedom to not show up but to be on call, the freedom to choose as few or as many shifts as the worker wanted depending on other commitments, the freedom to carry on message therapy elsewhere, the freedom to find a replacement (albeit from Vida approved message therapists) if unable to make a shift, the freedom to decline customers for whatever reason. I find the control of the trappings of the environment by Vida is outweighed by the lack of control in these other areas. Overall this element is consistent with the relationship the parties agreed to.
+Ownership of tools
+[25] Once again I am faced with an argument that the workers' main tool was a part of the workers' body, in this case, the hands. This is not a factor that distinguishes an employee from an independent contractor, as regardless of the legal nature of the relationship, the importance (and "ownership") of this so‑called tool always remains with the worker. So, I must look to more traditional tools: in the case of a massage therapist that would be, primarily, a table, linens and oils. Vida provided these, which would at first blush suggest a greater consistency with employment. Yet three factors counter that conclusion. First, the workers only received a portion of what the customer paid, the balance ostensibly going towards paying for the use of the table, linens and oils. Second, many of the workers have their own table, linens and oils but as a matter of convenience it was preferable to use Vida's, though some workers did use their own table for ensuite massages. Third, this is not a tool-intensive business. For example, some treatments require no tools at all. For these reasons, I put little emphasis on this factor as being any more consistent with employment than with independent contractor status.
+Chance of profit
+[26] Did the workers have any latitude for maximizing profits? Yes, I believe they did. The worker could do a number of things to maximize profits at Vida:
+- Arrange shifts at times known to be busy, including double shifting;
+- Arrange not to take shifts at slow times;
+- Arrange shifts when fewer senior therapists were on shift, as customers who did not request a particular massage therapist were assigned on a seniority basis;
+- Promote ensuite and deep tissue massages;
+- Decline discounted customers in favour of full paying customers; and
+- Aggressively promote products.
+[27] Further, though not maximizing profits at Vida, the worker, consistent with being in business on his or her own account generally, and not just in connection with Vida, could schedule the Vida versus the non-Vida massage therapy work to maximize profits at both. The worker could also promote him or herself by distributing both Vida business cards, featuring the worker's name, or personal business cards for the non-Vida work. These are all indications of an arrangement consistent with the workers' and Vida's understanding of an independent contractor relationship.
+Risk of Loss
+[28] A business loss can arise in at least three ways; first, the business' ordinary expenses outstrip the business' regular income; second, there can be a catastrophic event arising from harm done by the operation of the business; and third, the source of business income can dry up.
+[29] The workers did incur some expenses, for example, cellular telephone, updating and training (including the cost of courses offered by Vida itself), and insurance. It is unlikely though that such expenses would surpass their income, although for a particularly slow period with few or no customers, there may have been some slight risk. Recall, no customers – no remuneration.
+[30] The possibility of risk from causing harm however was very real. The witnesses explained the potential danger of treating pregnant women or those with pre-existing conditions. Results can be harmful to the point of being lethal. For this reason, the workers were required by the governing body to carry insurance. Vida did not cover the workers' insurance. It was their responsibility.
+[31] Finally, the possibility of losing Vida as a source of income was also very real. There was no security. The contract could be terminated on two weeks' notice for any reason, with no remuneration. I would characterize these circumstances as accepting a significant risk of loss consistent with someone in business on his or her own account.
+[32] Reviewing the traditional factors in light of the parties' understanding of the nature of their contract has satisfied me that the contract does accurately represent the legal relationship of a contract for services. The workers intended to be and were independent contractors.
+[33] The appeals are allowed and referred back to the Minister on the basis that the workers were independent contractors and not in insurable or pensionable employment.
+Signed at Ottawa, Canada, this 2nd day of October 2006.
+"Campbell J. Miller"
+Miller J.
+CITATION: 2006TCC534
+COURT FILE NO.: 2005-1677(EI), 2005-1678(CPP),
+2005-1680(EI), 2005-1681(CPP)
+2005-1682(EI), 2005-1683(CPP),
+2005-1695(EI), 2005-1696(CPP)
+2005-1697(EI), 2005-1698(CPP),
+2005-1699(EI), 2005-1701(CPP)
+STYLE OF CAUSE: Vida Wellness Corporation DBA Vida Wellness Spa and M.N.R.
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: September 13 and 14, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT: October 2, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Timothy W. Clarke
+Counsel for the Respondent:
+John Gibb-Carsley
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Timothy W. Clarke
+Firm: Bull, Housser & Tupper LLP
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [2006] F.C.J. No. 339 (F.C.A.).
+[2] (2001) 204 DLR (4d) 542 (S.C.C.).
+[3] Exhibit A-1, Tab 25.
+[4] [2002] F.C.J. No. 375 (F.C.A.).
+[5] 1987 DTC 5025 (F.C.A.).
+[6] Paragraphs 117 and 119.
+[7] Paragraph 123.
+[8] Paragraph 57.
+[9] Paragraph 60.
+[10] Paragraphs 66 and 67.

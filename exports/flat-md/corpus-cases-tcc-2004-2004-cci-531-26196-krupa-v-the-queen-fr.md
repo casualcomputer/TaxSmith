@@ -1,0 +1,182 @@
+---
+title: "Krupa v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26196/index.do"
+last_modified: "2004-07-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 531"
+citation2: ""
+neutral_citation: "2004 CCI 531"
+decision_date: "2004-07-28"
+language: "fr"
+item_id: "26196"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3927
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:11:33.729000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f4b1dcea1c22d77351a4edc1389c16c7f6077dc0f4009a1fecd8eb712d4b2d18"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Krupa v. The Queen
+
+- Citation: 2004 CCI 531
+- Decision date: 2004-07-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3927, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Krupa v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-07-28
+Référence neutre
+2004 CCI 531
+Numéro de dossier
+2003-1174(IT)I
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-1174(IT)I
+ENTRE :
+EDWARD KRUPA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 30 avril 2004 à Kitchener (Ontario)
+Par le juge E.A. Bowie
+COMPARUTIONS
+Avocat de l'appelant :
+Me Walter Drescher
+Avocat de l'intimée :
+Me Nicolas Simard
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de l'avis de nouvelle cotisation établi en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2000 est accueilli, avec dépens, et l'avis de nouvelle cotisation est renvoyé au ministre du Revenu national pour qu'il procède à un nouvel examen et établisse une nouvelle cotisation compte tenu du fait que, dans le calcul de son revenu, l'appelant a le droit de déduire le montant de 5 160 $ de pension alimentaire qu'il a versé.
+Signé à Ottawa, Canada, ce 28e jour de juillet 2004.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 9e jour de février 2005.
+Jacques Deschênes, traducteur
+Référence : 2004CCI531
+Date : 20040728
+Dossier : 2003-1174(IT)I
+ENTRE :
+EDWARD KRUPA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bowie
+[1] Le point en litige dans le cadre du présent appel concerne le montant que l'appelant a le droit de déduire, au titre de la pension alimentaire qu'il a versée, dans le calcul de son revenu pour l'année d'imposition 2000. La réponse à cette question dépend de l'interprétation de deux documents. Le premier est le procès-verbal de transaction faisant suite à une action intentée par l'appelant contre son ex-épouse à la Cour de l'Ontario (Division générale) afin de régler les questions de garde, de pension alimentaire et de partage des biens familiaux. L'autre est le jugement rendu dans cette action par le tribunal en fonction de ce procès-verbal de transaction. Le procès-verbal de transaction est daté du 29 avril 1997 et le jugement, du 26 mai 1997. Il est entendu par les parties que cette affaire doit être tranchée compte tenu de la Loi de l'impôt sur le revenu (la « Loi » )en vigueur avant les modifications de 1997[1].
+[2] Selon le procès-verbal de transaction, l'appelant devait verser une pension alimentaire pour enfants de 125 $ par mois (avec indexation) à son ex-épouse pour chacun de leurs deux enfants jusqu'à ce que ceux-ci aient 18 ans ou jusqu'à ce que survienne un des événements précisés dans le document. Cette clause apparaît aussi dans le jugement. Ces montants ont été payés par l'appelant en 2000, et l'intimée ne lui conteste pas le droit de les déduire.
+[3] Le litige concerne le paragraphe 8 du procès-verbal de transaction, qui est reproduit dans le jugement, et le paragraphe 11, qui ne l'est pas. Le paragraphe 8 traite du partage des biens familiaux. Il dispose que l'ex-épouse de l'appelant doit lui verser une somme compensatoire de 35 000 $ au titre de l'égalisation des biens, garantie au moyen d'une hypothèque souscrite sur le foyer conjugal (qu'elle conserve); cette somme portait intérêt au taux annuel de 5,5 % et devait être remboursée à raison de 430 $ par mois. Une table d'amortissement jointe au procès-verbal de transaction montre que le paiement final est dû le 1er octobre 2005, date où les enfants des ex-époux auront 25 et presque 21 ans.
+[4] L'appelant a déclaré dans son témoignage au procès que son ex-épouse avait à son égard, en vertu de la Loi sur le droit de la famille, une obligation équivalant à 35 000 $, c'est-à-dire sa part du foyer conjugal. Toutefois, puisqu'elle n'était pas en mesure d'obtenir du financement, ils auraient été obligés de vendre la maison et de partager le produit de la vente. L'entente hypothécaire a donc été conclue afin que l'ex-épouse de l'appelant et ses enfants puissent demeurer dans la résidence.
+[5] Le paragraphe 11 du procès-verbal de transaction précise que l'appelant doit payer un montant additionnel de 430 $ le premier jour du mois à son ex-épouse au titre de la pension alimentaire pour enfants jusqu'au 1er octobre 2005, les dates de paiement coïncidant avec celles des mensualités hypothécaires que devait verser l'ex-épouse à l'appelant. Ces montants n'étaient pas indexés, et il est indiqué clairement que [TRADUCTION] « [...] aucun montant d'argent ne changera de mains à l'égard de [la somme compensatoire] et de cette pension alimentaire » . Le paragraphe 11 est repris intégralement à l'annexe A des présents motifs. Même si ce paragraphe est loin d'être un exemple de clarté, deux choses sont mises en lumière. Tout d'abord, la pension alimentaire pour enfants qui doit être versée par l'appelant conformément à ce paragraphe coïncide, quant aux montants, à la date d'exigibilité et à la durée, avec les versements que doit faire l'ex-épouse en vertu de l'entente hypothécaire, et les montants qui doivent être payés par chacun des ex-époux ne le sont pas en espèces, mais sous la forme d'une renonciation mutuelle à la dette payable mensuellement.
+[6] En 2000, l'appelant a déduit de son revenu, conformément à l'alinéa 60b), un total de 11 910 $ au titre de la pension alimentaire pour enfants versée à son ex-épouse. Le ministre a refusé la déduction d'un montant de 5 160 $ (430 $ x 12 mois), en soutenant que l'annulation de l'obligation de verser 430 $ par mois conformément à l'entente hypothécaire ne pouvait créer une déduction en vertu de cet alinéa puisqu'aucun montant n'avait été payé, ou ne devait l'être, par l'appelant à son ex-épouse.
+[7] L'alinéa 60b) de la Loi de l'impôt sur le revenu est rédigé comme suit :
+60 Peuvent être déduites dans le calcul du revenu d'un contribuable pour une année d'imposition les sommes suivantes qui sont appropriées :
+a) [...]
+b) le total des montants représentant chacun le résultat du calcul suivant :
+A - (B + C)
+où
+A représente le total des montants représentant chacun une pension alimentaire que le contribuable a payée après 1996 et avant la fin de l'année à une personne donnée dont il vivait séparé au moment du paiement,
+B le total des montants représentant chacun une pension alimentaire pour enfants qui est devenue payable par le contribuable à la personne donnée aux termes d'un accord ou d'une ordonnance à la date d'exécution ou postérieurement et avant la fin de l'année relativement à une période ayant commencé à cette date ou postérieurement,
+C le total des montants représentant chacun une pension alimentaire que le contribuable a payée à la personne donnée après 1996 et qui est déductible dans le calcul de son revenu pour une année d'imposition antérieure;
+La « pension alimentaire » est définie comme suit au paragraphe 56.1(4) :
+« pension alimentaire » Montant payable ou à recevoir à titre d'allocation périodique pour subvenir aux besoins du bénéficiaire, d'enfants de celui-ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficaire peut utiliser le montant à sa discrétion et, selon le cas :
+a) le bénéficiaire est l'époux ou le conjoint de fait ou l'ex-époux ou l'ancien conjoint de fait du payeur et vit séparé de celui-ci pour cause d'échec de leur mariage ou union de fait et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent ou d'un accord écrit;
+b) le payeur est le père naturel ou la mère naturelle d'un enfant du bénéficiaire et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent rendue en conformité avec les lois d'une province.
+Un « montant » est défini comme suit au paragraphe 248(1) :
+« montant » Argent, droit ou chose exprimés sous forme d'un montant d'argent, ou valeur du droit ou de la chose exprimée en argent.
+[8] L'avocat de l'intimée affirmait que l'appelant n'avait pas droit à une déduction en vertu de l'article 60 pour les montants supérieurs à 250 $ par mois (plus indexation) parce qu'il n'a pas payé ces montants. La déduction permise à cet article équivaut seulement au « total des montants représentant chacun une pension alimentaire que le contribuable a payée » . À mon avis, l'interprétation qu'il faut donner aux transactions en cause ici, c'est que l'ex-épouse, lorsqu'elle a signé l'entente hypothécaire, s'est engagée à verser à l'appelant 430 $ par mois, tandis que l'appelant, au paragraphe 11 du procès-verbal de transaction, s'engageait à verser à son ex-épouse 430 $ par mois. Ces obligations mutuelles ont toutes deux fait l'objet d'une renonciation de la part des bénéficiaires.
+[9] Dans l'affaire Armstrong v. M.N.R.[2], qui n'a pas été mentionnée par les avocats dans leurs plaidoiries, le juge Bonner s'exprimait comme suit à la page 1016 :
+[...] Cet argument, ainsi que je le comprends, s'appuie sur la prémisse qu'une somme ne peut être considérée comme touchée que si un paiement a été fait en espèces ou par chèque. Cette prémisse est à mon sens inexacte. L'arrangement de compensation comportait effectivement la réception par l'appelante d'une somme au sens de l'alinéa 56(1)b).
+Il s'est aussi appuyé sur l'arrêt In re Harmony & Montagu Tin and Copper Mining Co., Spargo's Case[3], où le lord juge Mellish faisait les commentaires suivants à la page 265 :
+Rien n'est plus clair, dit-il, que si deux parties comptabilisent chacune une somme égale due à l'une et à l'autre partie, et que les deux règlent leurs comptes, cela revient exactement au même que si les deux parties avaient payé lesdites sommes. En fait, un principe de droit général veut que dans chaque cas où une opération est réglée par le versement d'argent de A à B et où B remet ensuite cet argent à A, si ces deux parties se réunissent et conviennent d'opposer une demande à l'autre, il n'est pas nécessaire qu'elles échangent de l'argent.
+Bien que cet arrêt ait été rendu à la lumière d'une loi britannique, la Companies Act de 1867, la logique est irréfutable et le même principe s'applique aujourd'hui aux fins de la Loi de l'impôt sur le revenu canadienne.
+[10] Trois arrêts ont été cités durant les plaidoiries. Dans l'affaire Rosin c. Canada[4] l'appelant a fait valoir qu'un bref de saisie-arrêt signifié à ses avocats constituait un paiement au sens de la Loi. En rejetant l'appel, j'ai fait la remarque suivante au paragraphe 4 :
+La procédure de saisie-arrêt se déroule en deux étapes. Dans un premier temps, le bref de saisie-arrêt est signifié au tiers-saisi qui, par la suite, dépose la somme à la Cour ou conteste la saisie-arrêt. L'obligation du créancier du tiers-saisi est exécutée lorsque l'argent est déposé à la Cour. Dès que le bref lui est signifié et jusqu'à ce qu'il dépose les sommes à la Cour ou que la contestation de la saisie-arrêt soit réglée, le tiers-saisi n'est pas libre de payer l'argent qu'il détient au nom du débiteur ou d'en disposer autrement. Cependant, on ne peut pas dire que la dette a été payée durant cette période.
+Dans cette affaire, le raisonnement se limitait au fait de savoir si une personne qui s'était vu signifier un bref de saisie-arrêt pouvait être considérée comme ayant fait un paiement avant la date de dépôt de l'argent à la Cour. Il n'a aucune pertinence en l'espèce.
+[11] Dans Fisher c. Canada[5], au moment du partage des biens familiaux, l'appelante devait à son ex-époux une somme compensatoire de 12 138 $ destinée à l'égalisation des biens familiaux et celui-ci lui devait 7 558 $ au titre d'arriérés de pension alimentaire. Dans son ordonnance de partage des biens familiaux entre les parties, le juge de la Cour de l'Ontario (Division générale) a fait compensation entre les deux obligations réciproques. Le ministre a établi un avis de nouvelle cotisation à l'égard de l'appelante parce qu'elle n'avait pas inclus la dette annulée de 7 558 $, soit les arriérés de pension alimentaire, dans son revenu conformément à l'alinéa 56(1)b). Le juge Mogan, de notre Cour, a statué que l'ordonnance de la Cour de l'Ontario représentait une compensation en common law et que, d'après les faits portés à sa connaissance, une telle compensation ne constituait pas le paiement d'un montant au sens de la Loi. Toutefois, il a également souligné que, dans le cas où deux parties conviennent mutuellement de renoncer à des dettes qui s'annulent par compensation, l'entente pouvait représenter le paiement d'un montant aux fins de la Loi. Dans la présente affaire, l'appelant et son ex-épouse avaient très clairement convenu, au paragraphe 11 du procès-verbal de transaction, que l'annulation de leurs obligations mutuelles serait considérée comme le paiement d'un montant. Par conséquent, il n'est pas important de déterminer si la transaction décrite au paragraphe 11 du procès-verbal de transaction répond ou non à la définition juridique d'une compensation, et je ne tire aucune conclusion là-dessus. Le terme « compensation » peut être à la fois un terme technique et un terme d'usage courant. Il peut être dûment employé de bien des façons, et son sens dans une situation donnée dépend du contexte. L'affaire Fisher ne s'applique pas ici.
+[12] Dans l'affaire Hallett c. Canada[6], l'ex-époux de l'appelante était en retard dans ses versements de pension alimentaire pour enfants. Afin de régler les arriérés, il lui a transféré sa moitié (soit 5 600 $) de la maison mobile qu'il partageait auparavant avec l'appelante et où celle-ci résidait à l'époque. L'appelante n'a pas inclus la somme de 5 600 $ dans son revenu en vertu de l'alinéa 56(1)b), affirmant qu'il ne s'agissait pas d'un montant de pension alimentaire parce que ce n'était pas un « montant » au sens de la Loi de l'impôt sur le revenu. Au paragraphe 4, je me suis exprimé comme suit :
+Il ne fait aucun doute que la part de la maison mobile qui a été transférée à l'appelante est une « chose » ou un « droit » et la valeur est déterminée par la transaction entre l'appelante et Rodney. L'appelante a elle-même estimé la valeur à 6 000 $, et la transaction intervenue entre eux était certainement entre parties sans lien de dépendance. Le juge Bonner et le juge O'Connor sont également arrivés à la même conclusion. Si la valeur des paiements en nature n'était pas un paiement aux fins de la Loi, les profits tirés d'un grand nombre d'opérations seraient exempts d'impôt; c'est pour cette raison que le Parlement a défini le terme « montant » comme il l'a fait.
+Cette décision s'applique en l'espèce. Elle confirme qu'un « droit » ou une « chose » peuvent être des montants pour les besoins de la Loi de l'impôt sur le revenu et que la valeur de l'un ou de l'autre peut être déterminée à la lumière de la transaction en cours.
+[13] Les paragraphes 8 et 11 du procès-verbal de transaction créent un droit légal réciproque selon lequel l'appelant et son ex-épouse peuvent chacun recevoir de l'autre la somme de 430 $. Par conséquent, même si aucun argent n'a été échangé, un droit légal d'une valeur de 430 $ a été transféré par chacun des ex-époux à l'autre chaque mois en guise de contrepartie conformément au paragraphe 11. La définition du terme « montant » au paragraphe 248(1) englobe certainement les transactions survenues en l'espèce. Par conséquent, l'appelant a payé un montant de 430 $ par mois à son ex-épouse aux fins de l'alinéa 60b) de la Loi et a droit à la déduction dont il veut se prévaloir. L'appelant a aussi droit aux dépens.
+Signé à Ottawa, Canada, ce 28e jour de juillet 2004.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 9e jour de février 2005.
+Jacques Deschênes, traducteur
+ANNEXE A
+[TRADUCTION]
+11. Conformément au paragraphe 8 des présentes, le demandeur versera une pension alimentaire à la défenderesse pour subvenir aux besoins des enfants pendant une période déterminée équivalant à la durée de l'obligation hypothécaire mentionnée ci-dessus. Cette obligation alimentaire débutera le 1er mai 1997 et prendra fin le 1er octobre 2005, conformément à l'annexe A jointe aux présentes. Elle ne sera pas assujettie aux mesures d'exécution prévues dans le Régime des obligations alimentaires envers la famille, mais tient lieu de somme compensatoire versée au titre de l'égalisation des biens, comme l'indique le paragraphe 8 ci-dessus. En outre, les parties reconnaissent que cette pension alimentaire ne sera pas indexée, conformément au paragraphe 7, et que l'obligation alimentaire sera valide jusqu'à la première des éventualités suivantes :
+a) le décès de la défenderesse;
+b) le remboursement de la totalité du prêt hypothécaire par la défenderesse;
+c) la vente ou le transfert de la maison par la défenderesse.
+Les parties reconnaissent par ailleurs que le paragraphe ci-dessus, plus particulièrement en ce qui concerne la pension alimentaire pour enfants de 430 $ par mois, doit être interprété de concert avec le paragraphe 8. Les parties conviennent que cette pension alimentaire tiendra lieu de véritable somme compensatoire au titre de l'égalisation des biens et qu'aucun montant d'argent ne changera de mains à l'égard de ce montant et de cette pension alimentaire. Elles entendent également soustraire cette somme aux mesures d'exécution du Bureau des obligations familiales et n'exigent pas qu'elle soit majorée annuellement, en conformité avec le paragraphe 7 ci-dessus.
+RÉFÉRENCE :
+2004CCI531
+NO DU DOSSIER DE LA COUR :
+2003-1174(IT)I
+INTITULÉ DE LA CAUSE :
+Edward Krupa et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Kitchener (Ontario)
+DATE DE L'AUDIENCE :
+Le 30 avril 2004
+MOTIFS DU JUGEMENT PAR :
+L'honorable E.A. Bowie
+DATE DU JUGEMENT :
+Le 28 juillet 2004
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Walter Drescher
+Avocat de l'intimée :
+Me Nicolas Simard
+PROCUREURS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Me Walter Drescher
+Cabinet :
+Cobb & Jones
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Loi budgétaire de 1996 concernant l'impôt sur le revenu, L.C. 1996-1997, ch. 25, articles 8 et 9.
+[2] 88 DTC 1015.
+[3]
+[1861-73] All E.R. Rep. 261.
+[4] [1999] A.C.I. no 444.
+[5] [2000] A.C.I. no 338.
+[6] [2002] A.C.I. no 587.

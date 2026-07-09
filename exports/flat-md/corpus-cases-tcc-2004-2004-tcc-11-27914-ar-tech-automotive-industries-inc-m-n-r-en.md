@@ -1,0 +1,177 @@
+---
+title: "Ar-Tech Automotive Industries Inc. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27914/index.do"
+last_modified: "2004-01-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 11"
+citation2: ""
+neutral_citation: "2004 TCC 11"
+decision_date: "2004-01-07"
+language: "en"
+item_id: "27914"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1697
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:58:20.648000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3f136b1a143442252785477a8087aacd4bf34510661384636df3e1159a49a501"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ar-Tech Automotive Industries Inc. M.N.R.
+
+- Citation: 2004 TCC 11
+- Decision date: 2004-01-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1697, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ar-Tech Automotive Industries Inc. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-01-07
+Neutral citation
+2004 TCC 11
+File numbers
+2003-821(EI)
+Judges and Taxing Officers
+Pierre R. Dussault
+Subjects
+Employment Insurance Act
+Decision Content
+File: 2003-821(EI)
+BETWEEN:
+AR-TECH AUTOMOTIVE INDUSTRIES INC.,
+Appellant,
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+PIERRE BOCQUET,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on November 25, 2003, at Montreal, Quebec
+Before: The Honourable Judge P. R. Dussault
+Appearances:
+For the appellant:
+Lina Simeone (articling law student)
+Counsel for the respondent:
+Emmanuelle Faulkner
+Counsel for the intervener:
+Guy Matte
+____________________________________________________________________
+JUDGMENT
+The appeal under sub-section 103(1) of the Employment Insurance Act in respect of a decision handed down by the Minister of National Revenue ("Minister") dated January 27, 2003, is allowed and the decision of the Minister is amended on the basis that Mr. Pierre Bocquet was not exercising insurable employment while he was in the service of the appellant "Ar-Tech Automotive Industries Inc.", between January 1, 2001 and January 1, 2002, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 7th day of January, 2004.
+Certified true translation
+Colette Beaulne
+"P. R. Dussault"
+Dussault J.
+Citation: 2004TCC11
+Date: 20040107
+File: 2003-821(EI)
+BETWEEN:
+AR-TECH AUTOMOTIVE INDUSTRIES INC.,
+Appellant,
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+PIERRE BOCQUET,
+Intervener.
+REASONS FOR DECISION
+Dussault J.
+[1] This is an appeal against a decision by the Minister of National Revenue ("Minister") that Mr. Pierre Bocquet held insurable employment with the appellant from January 1, 2001 to January 1, 2002, since he was bound to him by a contract of service.
+[2] In reaching his decision, the Minister based his decision on the presumptions of fact found at paragraphs a) to m) of paragraph 9 of the Reply to the Notice of Appeal ("Reply"). These paragraphs read as follows:
+a) The appellant has operated a business manufacturing automobile suspension components since 1966.
+b) On or around December 1, 1994, the appellant hired the worker as a sales representative; he was to visit customers and sell the product, the guarantee and the services of the appellant.
+c) The worker worked as a travelling salesman, covering all of Quebec and Eastern Ontario.
+d) At the beginning of his employment with the payer, the worker received a list of the payer's customers, on whom he was supposed to call at a frequency of between 4 and 6 weeks.
+e) The worker was to maintain and increase the appellant's customer base.
+f) The worker generally worked between 8 am and 5 pm, Monday to Friday.
+g) Notwithstanding flexibility in his hours of work, the appellant controlled the work of the worker upon receipt of his sales reports, orders and complaints received from his customers.
+h) The appellant met with the worker at least once a month, in the context of a scheduled meeting in Montreal, to discuss his work.
+i) The worker was to abide by a list of prices and discounts established by the appellant; he could not amend this list without the appellant's prior authorization.
+j) The appellant provided the worker with all the documentation and stationery needed for his work.
+k) The worker had to provide his car and to pay the costs thereof; he also provided his cellular telephone, his pager, his home office and his office equipment.
+l) The worker received a set salary of $250 a week plus commission of 3.5% on his sales.
+m) The worker was paid monthly by cheque.
+[3] Paragraphs b), f), g) and l) are denied by the appellant.
+Summary of the evidence
+[4] Evidence was given by Mr. Donato Latella, Director of Business Development for the appellant, Mr. Pierre Bocquet, the worker, and Ms. Françoise Bienvenue, the Appeals Officer.
+[5] The appellant manufactures and distributes automobile parts, specifically the chassis parts and brake parts. His business is based in Toronto.
+[6] In 1994, Mr. Bocquet himself approached the appellant with a view to distributing his products in Quebec and Eastern Ontario. The appellant also had an agreement with UniSelect, a company with two automobile parts distribution centres and some 250 members in Quebec.
+[7] Mr. Latella has been working for the appellant since March 2001. He stated that, according to the initial verbal agreement between the appellant and Mr. Bocquet, the latter was assigned the territory of Quebec and Eastern Ontario as a self-employed representative with the aim of increasing the customer base and the sales of products manufactured or imported by the appellant.
+[8] According to Mr. Latella, the appellant offered Mr. Bocquet a commission equal to 4% of net sales. However, since sales were not initially high enough, it was agreed that he would be paid an advance of $250 per week, payable every two weeks, and a commission equal to 2.5% or 3% of sales, depending on the type of parts sold, to be adjusted at the end of each month, except for the first six months, and a final annual adjustment to achieve the equivalent of 4% of net sales. The arrangement had always remained the same. Under it, Mr. Bocquet received money in the course of the month instead of waiting for the end of the month to be paid the amount of his commissions. Mr. Latella stated that all that was required of Mr. Bocquet was that he visit the customers and encourage them to purchase the appellant's products. Mr. Bocquet was to provide everything he needed for his work, specifically a home office, fax, telephone and automobile, and that he would bear the entire cost himself.
+[9] Mr. Latella said that he used to meet Mr. Bocquet once a month in Montreal to discuss sales and review new programs introduced by the appellant to retain and increase the level of sales. According to him, Mr. Bocquet had the authority to decide "with the customers".
+[10] According to Mr. Latella, Mr. Bocquet was not limited to selling the appellant's products, provided that he did not sell the same type of product for competitors.
+[11] At the end of the year, the appellant would issue Mr. Bocquet a T4A form showing the total amount paid by way of "self-employed commissions" and no source deductions. The T4A form for 2001 has been filed in evidence (exhibit A-4). A statement of the commissions paid, including the amounts of $500 paid every two weeks, was also filed in evidence (exhibit A-5). The total amount corresponds to the amount of commissions entered on the T4A form. Mr. Bocquet was registered for the Goods and Services Tax ("GST"). and the tax was paid separately by the appellant on the amount of commissions paid, with the exception of the amount of $500 paid every two weeks to Mr. Bocquet. According to Mr. Latella, the amount of $500 included the GST (see exhibits A-1, A-2, A-5 and INT-6). At the end of the year, the GST was adjusted depending on the amount of adjusted commissions. Although on reading these documents there would appear to have been some confusion concerning whether or not the GST was to be included, it appears evident that it is not included in the total of commissions paid to Mr. Bocquet in 2001, according to exhibits A-2 and A-5, the amount of which is entered on the T4A form issued by the appellant for the purposes of the Income Tax Act.
+[12] Mr. Bocquet asserts that he was an employee of the appellant. In his testimony, he claims that he was hired as a sales representative for Quebec at a guaranteed salary of $250 per week plus 6% commission on sales. He wanted to submit a document as evidence setting out the calculations for commission on this basis, and these calculations were entered on the document by the appellant's President (exhibit INT-1). However, the document is not signed and the representative of the appellant objected to its being introduced as evidence. In reality, it would appear that the commissions were on the order of 2% to 3%, in addition to an amount of $500 paid by the appellant every two weeks. However, Mr. Bocquet claimed that he "also had 7% customers". According to him, these were small customers who received a much lower discount than the larger ones.
+[13] According to Mr. Bocquet, when he approached the appellant in 1994, the appellant was not well known and its managers did not speak French. He claimed that he himself saw the potential for developing the client base for his products. However, he said that he received his instructions from Toronto, specifically with regard to the customers he was to visit and those he should not visit. In this regard, he submitted a list which he stated had been given to him initially in 1994 (see exhibits INT-2 and 3). In 1998, the appellant sent him another list of potential customers, asking him to check why they were not purchasing his products, so as to be able to update the computerized data (exhibit INT-5). This document also reveals that the appellant had also asked Mr. Bocquet to look after recovering certain accounts (see exhibit INT-5, Annex 13).
+[14] The appellant provided Mr. Bocquet with his business cards, which describe him as a sales representative. The address shown is that of the appellant in Toronto. The telephone and fax numbers are those of Mr. Bocquet. The e-mail address is also his.
+[15] According to Mr. Bocquet, his duties consisted of visiting customers every four or six weeks, having them complete a form to open a credit account, as appropriate, taking orders from customers and forwarding everything to Toronto for approval. He stated that he had no decision-making power over the prices and discounts, which were set in Toronto. According to him, he merely completed the "paperwork". He also looked after sending back defective items, where applicable, after having received authorization from Toronto. Mr. Bocquet claimed that in reality, he visited the customers that the directors in Toronto told him to visit, either to sell to them or to return the parts, and organized his visit schedule as a function of the availability of the customers. He stated that he was in daily telephone contact with Toronto, specifically with a bilingual secretary whom the appellant had hired at his suggestion.
+[16] Although Mr. Bocquet was to assume all the expenses related to the performance of his duties, he said that the appellant always paid for the expenditures in relation to the business fairs which he attended in order to promote the appellant's products.
+[17] Mr. Bocquet acknowledged that, while it was possible for him to sell the products of other companies, he had been told that, if he did so, he would lose his $250 per week guarantee. He himself was the one who had decided not to work for other companies.
+[18] When it was pointed out to him that the appellant issued him a T4A slip each year on which his pay was shown as "self-employed commissions" (exhibit A-4), Mr. Bocquet stated that he had "never looked". As I noted above, it is clear that the total amount of commissions entered on the T4A slip for 2001 included the sum of $500 paid to the appellant every two weeks (exhibit A‑5). Furthermore, it would appear that Mr. Bocquet had never reported his salary as such and that he had reported the total amount received as business income (gross) on his income tax returns. The examination of his tax return for the year 2000, the only one that he had with him at the hearing, confirms this fact. According to his testimony, he had always followed the same procedure, including for the year 2001.
+[19] Ms. Françoise Bienvenue, Appeals Officer, testified regarding her audits of Mr. Bocquet and Mr. Latella, as well as on her decision to consider Mr. Bocquet an employee of the appellant.
+[20] Ms. Bienvenue specifically stated that Mr. Bocquet had a territory to cover and that he was supposed to visit customers, essentially those of the appellant, every four to six weeks, that he had no authority with regard to prices, that the range of his duties was limited and, that since he was experienced, he was supervised more or less directly by telephone on a daily basis by the directors of the appellant.
+[21] Ms. Bienvenue also held that Mr. Bocquet ran no risk of financial loss since he had no other risk than that of assuming the normal expenses of a traveling salesman. With regard to opportunities for profit, Mr. Bienvenue considered that Mr. Bocquet had only one customer, the appellant who paid him his salary, and that his opportunity for profit was reduced accordingly.
+Position of the appellant
+[22] Counsel for the appellant referred primarily to the decision of the Federal Court of Appeal in the case of Wiebe Door Services Ltd. v. M.N.R., [1986] 3 F.C. 553, ("Wiebe Door"), to support the assertion that Mr. Bocquet was self-employed and not an employee of the appellant.
+[23] According to her, the sales agents were self-employed and worked from their homes without control on the part of the appellant, whose managers merely met with them once a month with a view to increasing sales.
+[24] Since they were required to provide everything they needed to perform their duties, except for business cards and stationery, the sales agents had to assume all the expenses related to the ownership of their work tools. Furthermore, as Mr. Bocquet was paid only through commissions, he had himself assumed, in view of the expenses involved, the risk of loss and chance of profit resulting from his work, while he himself determined the ways in which his work was performed without any instructions from the appellant.
+[25] Lastly, counsel for the appellant noted that Mr. Bocquet had always received from the appellant a T4A form, indicating that he was paid "self-employed commissions", that he had never complained about this situation and that he had declared his pay as business income. Despite that, he now claimed that he was an employee of the appellant.
+Position of the respondent
+[26] The counsel for the respondent based her claim that Mr. Bocquet was an employee of the appellant on an analysis of the tests identified in Wiebe Door, supra, criteria which were repeated by the Supreme Court of Canada cited as 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., 2001 SCC 59, [2001] 2 S.C.R. 983, [2001] S.C.J. No 61 (Q.L.), ("Sagaz").
+[27] According to Counsel for the respondent, at issue in this analysis is to whom the business belongs. According to her, the assigning of a territory by the appellant to Mr. Bocquet, the obligation to visit or not visit the appellant's customers on the basis of an existing list, the absence of any discretion left to Mr. Bocquet in respect of prices or the approval of discounts or rebates, as well as the monthly meetings, are clear indications of control exerted by the appellant. Since Mr. Bocquet had considerable experience, the appellant did not have to impose work methods on him and accordingly exercised less direct supervision over his activities.
+[28] Counsel for the respondent emphasized the fact that, while Mr. Bocquet undoubtedly worked from his home, the appellant supplied him with his business cards and secretarial services.
+[29] She stated that Mr. Bocquet had invested nothing and that he had assumed no risk of loss in respect of his activities. With regard to the chance of profit, this was limited, since the prices on which the commissions depended were set by the appellant.
+[30] According to Counsel for the appellant, the examination of the overall relationship between the parties led to the conclusion that it constituted a genuine contract of service.
+Position of the worker
+[31] Counsel for Mr. Bocquet also referred to the tests set out in Wiebe Door, supra, and to the authorities. According to him, the business cards supplied by the appellant did indeed indicate that Mr. Bocquet was a sales representative for the appellant, that the appellant provided him with secretarial services from Toronto and that the customers were customers of the appellant.
+[32] Counsel for Mr. Bocquet also pointed out that Mr. Bocquet had a great deal of experience and that the control exercised by the appellant was "operational" in nature. He claimed that Mr. Bocquet had no discretion over the prices of the products sold and the appellant was the one who decided what discounts to grant.
+[33] Counsel for Mr. Bocquet also noted the fact that he was an exclusive representative of the appellant, even though he had been authorized to sell other products: doing so would, however, have resulted in his losing his guarantee of $250 per week. According to him, this factor demonstrated the degree to which the duties of Mr. Bocquet were integrated into the activities of the appellant.
+Analysis
+[34] As Major J. noted in paragraph 44 of the Sagaz decision, supra, MacGuigan J.A. in Wiebe Door (supra) recognized that the best synthesis of the problem regarding the distinction between a contract of service and a contract for services was that given by Cooke J. in Market Investigations, Ltd. v. Minister of Social Security, [1968] 3 All E.R. 732 (Q.B.D.), at pp. 737 and 738:
+The observations of LORD WRIGHT, of DENNING L.J. and of the Judges of the Supreme Court in the USA suggest that the fundamental test to be applied is this: "Is the person who has engaged himself to perform these services performing them as a person in business on his own account ?" If the answer to that question is "Yes", then the contract is a contract of service. If the answer is "No", then the contract is a contract of service. No exhaustive list has been compiled and perhaps no exhaustive list can be compiled of considerations which are relevant in determining that question, nor can strict rules be laid down as to the relative weight which the various considerations should carry in particular cases. The most that can be said is that control will no doubt always have to be considered, although it can no longer be regarded as the sole determining factor, and that factors, which may be of importance, are such matters as whether the man performing the services provides his own equipment, whether he hires his own helpers, what degree of financial risk he takes, what degree of responsibility for investment and management he has, and whether and how far he has an opportunity of profiting from sound management in the performance of his task. [emphasis added.]
+[35] Similarly, in Sagaz, supra, at paragraph 46, Major J. shares the opinion expressed by MacGuigan J.A. in Wiebe Door, supra, when he states at page 563 citing Atiyah, supra, (Vicarious Liability in the Law of Torts. London: Butterworths, 1967 p. 38) "that what must always occur is a search for the total relationship of the parties".
+[36] Part of the quotation drawn from Atiyah's book is repeated by Major J. in the same paragraph as follows:
+It is exceedingly doubtful whether the search for a formula in the nature of a single test for identifying a contract of service any longer serves a useful purpose [...] The most that can profitably be done is to examine all the possible factors which have been referred to in these cases as bearing on the nature of the relationship between the parties concerned. Clearly not all of these factors will be relevant in all cases, or have the same weight in all cases. Equally clearly, no magic formula can be propounded for determining which factors should, in any given case, be treated as the determining ones.
+[37] In light of these comments, I believe that the circumstances of this case warrant a conclusion that Mr. Bocquet was not an employee of the appellant during the period at issue.
+[38] First, it was Mr. Bocquet himself who approached the appellant in 1994 because he had determined that the appellant was not well known in Quebec and because he saw the potential for developing a customer base for his products. In this context, it is surprising that he could state that he was to visit only the customers whose names appeared on a list compiled by the appellant. Certainly, from the outset in 1994, he was provided with a list of customers who were to be visited and customers who were not to be visited. Since his specific purpose was to increase the number of customers in Quebec and Eastern Ontario, one can only conclude that he was in no way limited in his activities to soliciting only customers who were already known to the appellant. This is, moreover, specifically admitted at paragraph 9e) of the Reply. We do not know a great deal about the way in which the customer base was to be developed, and there is little information available that would support a conclusion that Mr. Bocquet was under the supervision or control of the appellant in terms of how his work was organized.
+[39] Whether the appellant retained control over the prices of his products and the discounts or rebates to be granted to customers does not mean that the appellant controlled the way in which the respondent organized his work nor the time he devoted to it. Furthermore, Mr. Bocquet himself admitted that he could have sold products for other companies, provided that these were not competing products.
+[40] In Sagaz (supra), Major J. analyses the control test in a situation where certain factors bear a resemblance to those present in this case. In paragraph 55 he says:
+Central to this enquiry is the extent of control that Sagaz had over AIM. While Sagaz directed the prices, terms and other conditions that AIM was to negotiate on Sagaz's behalf, AIM was ultimately in control of providing assistance to Sagaz in retaining the good will of Canadian Tire. Again, AIM decided how much time to devote to Sagaz and how much time to devote to its services for other supply companies. Although Sagaz controlled what was done, AIM controlled how it was done. This indicates that Landow was not controlled by Sagaz.
+[41] Mr. Bocquet was required to provide everything he needed for his work, specifically a home office, a telephone, a fax and a car, and to assume all the costs related thereto without any reimbursement from the appellant.
+[42] With regard to pay, despite some contradictory evidence, this consisted primarily of commissions on sales without any other advantages or benefits of any kind. The appellant considered the amounts paid to Mr. Bocquet as "self-employed commissions" and issued a T4A form to that effect (exhibit A-4) for income tax purposes. According to the information contained in his tax return for the year 2000, the total amount received from the appellant was reported by Mr. Bocquet as (gross) business income against which he claimed his expenses. No amount was declared as having been received in the form of salary. We can conclude from Mr. Bocquet's testimony that this way of reporting his income always remained the same over the years.
+[43] It should also be noted that Mr. Bocquet was registered for the GST and that this was paid by the appellant and collected by Mr. Bocquet on the commissions earned.
+[44] Taken together, all these elements certainly do not support a conclusion that the parties regarded their relationship as an employer-employee one.
+[45] With regard to the question of the risk of loss and the chance of profit, the position of the respondent is difficult to reconcile with the assessment of the situation of a commission salesman as made by the Supreme Court of Canada in Sagaz, supra. Major J. expresses himself as follows in paragraph 54 of the decision:
+In terms of a risk of loss or an opportunity for profit, Landow and AIM worked on commission on sales of Sagaz's products. As such, the risk of loss and the opportunity for profit depended on whether AIM's expenses (such as travel expenses) exceeded its commissions.
+[46] We know that Mr. Bocquet was obliged to provide everything he needed for the performance of his duties and to himself pay all expenses with the exception of stationery and his business cards. On the issue of stationery, only a single envelope bearing the heading of the appellant has been submitted in evidence (exhibit INT-4) and the question may be asked to what extent Mr. Bocquet's activities required him to communicate personally in writing with the customers. The same comment applies to the issue of secretarial services that were provided to him from Toronto. No item of correspondence between Mr. Bocquet and the customers has been submitted as evidence.
+[47] With regard to the issue of the business cards, it is true that Mr. Bocquet is described on them as a sales representative for the appellant and the appellant is the one who assumed the - in any event minimal - cost of printing these cards. This can be considered an indication that he was to some degree integrated into the appellant's business. It must be noted, furthermore, that the telephone and fax numbers and the e-mail address of Mr. Bocquet are the ones printed on his cards. In view of the purpose of business cards, this can be regarded as merely a way of introducing Mr. Bocquet as a person authorized to sell the appellant's products. In any event, I consider this a minor element and one that is insufficient, by comparison with the other elements described above, to warrant a conclusion that an employer-employee relationship existed between the appellant and Mr. Bocquet. On the contrary, I believe, based on all the elements characterizing the overall relationship between the parties, that Mr. Bocquet was not an employee of the appellant during the period at issue.
+[48] In light of the foregoing, the appeal is allowed and the decision of the respondent is amended, on the basis that Mr. Pierre Bocquet did not hold insurable employment with the appellant during the period from January 1, 2001, to January 1, 2002.
+Signed at Ottawa, Canada, this 7th day of January, 2004.
+"P. R. Dussault"
+Dussault J.
+Certified true translation
+Colette Beaulne

@@ -1,0 +1,168 @@
+Title: Sycheva v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/343633/index.do
+Corpus path: corpus/cases/tcc/2018/2018-tcc-180-343633-sycheva-v-the-queen-en.md
+Document type: case_law
+Last modified: 2018-08-28
+
+# Sycheva v. The Queen
+
+- Citation: 2018 TCC 180
+- Decision date: 2018-08-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4919, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sycheva v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-08-28
+Neutral citation
+2018 TCC 180
+File numbers
+2016-2590(IT)G, 2016-2826(IT)G
+Judges and Taxing Officers
+Bruce Russell
+Subjects
+Income Tax Act
+Notes
+A correction was made on November 30, 2018.
+Decision Content
+Docket: 2016-2590(IT)G
+BETWEEN:
+ZAREMA SYCHEVA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeal of Konstantin Sychev 2016-2826(IT)G on June 25-28, 2018, at Toronto, Ontario
+Before: The Honourable Justice B. Russell
+Appearances:
+Counsel for the Appellant:
+Ian Morris
+Andrea Dickinson
+Peter Muto
+Counsel for the Respondent:
+Gregory King
+AMENDED JUDGMENT
+The appeal is allowed and the appealed reassessments of the appellant’s 2009, 2010 and 2011 taxation years are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that in January 2009 the appellants Zarema Sycheva and or Konstantin Sychev, received a loan of $119,000 from S. Kogan that was repaid by December 2011 in roughly equal portions in each of the years 2009, 2010 and 2011. Success in this appeal having been divided, there will be no order as to costs.
+This Amended Judgment is issued in replacement of the Judgment
+issued August 28th, 2018
+Signed at Ottawa, Canada, this 29th day of November 2018.
+“B. Russell”
+Russell J.
+Docket: 2016-2826(IT)G
+BETWEEN:
+KONSTANTIN SYCHEV,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeal of Zarema Sycheva 2016-22590(IT)G on June 25-28, 2018, at Toronto, Ontario
+Before: The Honourable Justice B. Russell
+Appearances:
+Counsel for the Appellant:
+Ian Morris
+Andrea Dickinson
+Peter Muto
+Counsel for the Respondent:
+Gregory King
+AMENDED JUDGMENT
+The appeal is allowed and the appealed reassessments of the appellant’s 2009, 2010 and 2011 taxation years are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that in January 2009 the appellants Zarema Sycheva and or Konstantin Sychev, received a loan of $119,000 from S. Kogan that was repaid by December 2011 in roughly equal portions in each of the years 2009, 2010 and 2011. Success in this appeal having been divided, there will be no order as to costs.
+This Amended Judgment is issued in replacement of the Judgment
+issued August 28th, 2018
+Signed at Ottawa, Canada, this 29th day of November 2018.
+“B. Russell”
+Russell J.
+Citation: 2018TCC180
+Date: 20180828
+Docket: 2016-2590(IT)G
+BETWEEN:
+ZAREMA SYCHEVA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Docket: 2016-2826(IT)G
+AND BETWEEN:
+KONSTANTIN SYCHEV,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Russell J.
+Introduction:
+[1] These two appeals, raising identical issues arising from the same factual circumstances, were heard on common evidence. The two appellants, prior to meeting and marrying, had individually emigrated from Russia to Canada. They each appeal reassessments raised April 11, 2016 under the Income Tax Act (Canada) (Act) of their respective 2009, 2010 and 2011 taxation years. These reasons for judgment apply to both appeals.
+[2] The appealed reassessments are “net worth assessments”, per subsection 152(7) of the Act. The appellants, Zarema Sycheva (ZS) and Konstantin Sychev (KS), raised three relatively narrow issues respecting these reassessments. The first is whether a substantial monetary gift was made to ZS in 2005 which had not been substantially expended almost four years later at commencement December 31, 2008 of the pertinent net worth period for the taxation years in issue. Each of the two other issues is whether a particular monetary loan was made to either appellant within the said net worth period, and if so was it paid off in full within that period.
+Evidence Summary:
+[3] The evidence adduced at the hearing established that the two appellants had met in Montreal after each individually had immigrated to Canada from Russia. ZS, having a high school education, came to Canada with her three minor children in April 2003, as refugees, having endured odious personal hardship in the second Chechen war, including violent loss of her husband and also parents who had lived in Grozny. KS came to Canada in late 2003 from Pyatigorsk, Russia because, he said without elaboration, he did not like where he had been.
+[4] They were married in February 2004. The following month they and the children moved to Toronto where there is an extensive Russian population. ZS denied the pleadings in her notice of appeal that she had provided childcare services during the years in issue. KS denied the pleadings in his notice of appeal that he had provided general construction services during the years in issue. They both reported relatively minor income over the following years. They moved to new and more expensive residential facilities. ZS testified that in 2005 her sister in Grozny wired her $422,000 (U.S.) as most of proceeds of sale of late parents’ home.
+[5] She said she used none of this money until 2009 when used to repay two loans from two friends. The alleged loan from Mr. S. Kogan was for $119,000 (Cdn), made in January 2009. ZS testified it was repaid in cash by late December 2011. The alleged loan from Ms. S. Kravchenko was for $123,000 (Cdn) also made in January, 2009. ZS testified it was repaid in cash by late December 2010. ZS’ evidence was that the money from her sister, which had been kept since receipt in 2005, was used to repay each of these two loans.
+[6] In the respondent’s reply for each of these two appeals are pleaded two ministerial assumptions relevant to the three identified issues - which relate to the money wired from the sister in Grozny in 2005 and to the two alleged loans made in early 2009. These two assumptions, pleaded as made by the Minister of National Revenue (Minister) are:
+(a) the [a]ppellant and/or...spouse did not keep funds received in 2005 in cash to pay for expenses in 2009 and 2010; and
+(b) the [a]ppellant and/or...spouse did not receive funds in 2009, 2010 and 2011 other than what was included in the [Minister’s] income calculation.
+[7] As is well known, assumptions of fact made by the Minister in the course of raising tax (re)assessments are presumed accurate subject to the appellant taxpayer bringing evidence amounting to at least a prima facie case, disproving one or more of the assumed facts. The common sense basis for this principle is that a taxpayer always would have better knowledge of his/her/its business and personal affairs, relevant to application of the Act, than would the Minister.
+[8] In this regard, and specifically in the context of net worth assessments as here, the Federal Court of Appeal observed in Lacroix v. R., 2008 FCA 241 at paras. 18 to 20:
+[18] In my view, this jurisprudence does not establish a rule to the effect that the Minister may not use the net worth method to add unreported income to a taxpayer’s income unless the Minister can establish the source of the unreported income. Our tax collection system is based on the taxpayer’s self-reporting of the income he or she has earned during a taxation year. Should the Minister doubt, for whatever reason, the accuracy of the taxpayer’s return, the Minister may conduct an investigation in such manner as deemed necessary. The Minister may then make a reassessment. If the taxpayer appeals the reassessment, the Minister does not have to prove the facts giving rise to the reassessment. In the reply to the notice of appeal, the Minister need only set out the presumptions of fact used in the reassessment. The onus is on the taxpayer, who knows everything there is to know about his or her own affairs, to “demolish” the Minister’s assumptions; otherwise, they are presumed to be true.
+[19] The Supreme Court has endorsed this approach on a number of occasions, including in Hickman Motors Ltd. v. Canada, [1997] 2 S.C.R. 336, to name just one example. In that case, the Court stated the following at paragraphs 92-93:
+92 The Minister, in making assessments, proceeds on assumptions (Bayridge Estates Ltd. v. M.N.R., 59 D.T.C. 1098 (Ex. Ct.), at p. 1101) and the initial onus is on the taxpayer to “demolish” the Minister’s assumptions in the assessment (Johnston v. Minister of National Revenue, [1948] S.C.R. 486; Kennedy v. M.N.R., 73 D.T.C. 5359 (F.C.A.), at p. 5361). The initial burden is only to “demolish” the exact assumptions made by the Minister but no more: First Fund Genesis Corp. v. The Queen, 90 D.T.C. 6337 (F.C.T.D.), at p. 6340.
+93 This initial onus of “demolishing” the Minister’s exact assumptions is met where the Appellant makes out at least a prima facie case: Kamin v. M.N.R., 93 D.T.C. 62 (T.C.C.); Goodwin v. M.N.R., 82 D.T.C. 1679 (T.R.B.) The law is settled that unchallenged and uncontradicted evidence “demolishes” the Minster’s assumptions: see for example MacIsaac v. M.N.R., 74 D.T.C. 6380 (F.C.A.), at p. 6381; Zink v. M.N.R., 87 D.T.C. 652 (T.C.C.).
+[20] Applying the net worth method changes nothing in this method of proof. Where the Minister presumes that the income detected using the net worth method is taxable income, the onus is on the taxpayer to demolish this presumption. If the taxpayer presents credible evidence that the amount in question is not income, the Minister must then go beyond these assumptions of fact and file evidence proving the existence of this income.
+[9] The first issue is whether the 2005 money ($422,000 (U.S.)) received by ZS from her sister in Grozny remained intact until and into the applicable net worth period of the years 2009 through 2011, thus commencing December 31, 2008. The Minister made the assumption that that money was not kept to pay expenses in 2009 and 2010. That assumption is presumed true unless I find that the appellants have made at least a prima facie case disproving that assumption, i.e. showing that the money was in fact kept at least into December 31, 2008 and used in 2009 and 2010 to pay expenses.
+[10] The appellants did not introduce into evidence any documentation establishing or tending to establish that this gift money was retained by them until at least December 31, 2008 and into 2009 and 2010. In their respective notices of appeal the appellants pleaded that their practice was to withdraw large amounts of cash from banks as neither of them trusted the banking system and that all or substantially all of this cash was on hand as at January 1, 2008 (not, I note, December 31, 2008), and that all or substantially all of this cash had been used by December 31, 2011 to pay personal expenses.
+[11] The matter of documentation requires additional comment. On two or more occasions throughout the four day hearing SZ declared variously that she had given her accountant, given Canada Revenue Agency (CRA) or had at home documentation corroborating her position as to the points in issue. Yet no such alleged documentation was sought by either appellant to be introduced into evidence either on their own or through calling or questioning a third party witness including any CRA officer. This raised a question as to the credibility of SZ. Appellants’ counsel was queried about this at the conclusion of argument, without resultant clarification.
+[12] The appellants’ evidence on this issue of the monetary gift was all uncorroborated viva voce. I make clear that the issue was not whether the gift was received in 2005 - it was - but rather whether this large sum was retained, substantively unspent, until at least December 31, 2008. The appellants’ evidence was that in the latter part of 2005 they moved this large sum in instalments permitted by the bank which had received these funds from abroad, into their own custody, and kept in a safe at their Toronto residence. This was said to be because of mistrust of banks, with general references to past bank failures in Russia. The result is that there is no bank documentation confirming the continued existence of this large sum intact over the subsequent months and years to December 31, 2008 and thereafter.
+[13] Also the evidence left unclear what income the appellants did have during the 2005 to 2009 period. They each reported relatively small amounts of income annually during this period. Yet they were able to purchase a house in Richmond Hill in 2005 or 2006 for somewhat over $400,000. Then, selling it a year or less later, they bought a house on Patricia Avenue in the $700 - $800,000 range, according to testimony of KS. There was no satisfactory clarification as to where the money came from to make these purchases, and to qualify for the required mortgages. The respondent’s submission is that some or much of the 2005 money gift was used for these transactions, as well as to pay normal living expenses of the five member family. The appellants submitted no documentation relating to these house transactions. Such documentation might have clarified how their purchases were funded. Also there was no documentation introduced to show earned income of either appellant that would indicate capacity to meet such expenses. Nor was there clear evidence as to what KS in fact did to earn his modest reported incomes for these intervening years. As mentioned both appellants denied their own pleadings indicating he had been involved in construction and she in child care. Her evidence was that she was developing her business as an astrological-oriented para-psychology consultant. A company allegedly trading under the name Best Life that was set up in 2005 through SZ’s accountant, a Ms. Fox, for $600, to carry on this business, closed its operations in 2008 or 2009. Ms. Fox was not called to testify. Then apparently another company was commenced, trading under the name Aida’s Secret, to carry on this work.
+[14] The appellants’ evidence was that the 2005 large monetary gift was saved as a “nest egg” until when these two alleged loans from Mr. Kogan ($119,000) and Ms. Kravchenko ($123,000) were made, in early 2009, to provide ZS with funding to expand her para-psychology consultancy business abroad. No documentary evidence was introduced to show that any such investments or payments were so made. In addition, the appellants’ evidence was that these two loans were advanced in instalments, each in tens of thousands of dollars. And, the oral evidence was that these instalment payments would be paid back, with applicable interest, within short periods; quite shorter than one might anticipate for any reasonable prospect of the amount supposedly being invested in SZ’s business being earned back, let alone also a return of profit.
+[15] The appellants’ evidence was that the loans were being paid back by funds from the 2005 money gift, said to be a “nest egg”. It was said that most of those funds were used to pay back the loans, and otherwise for payment of credit card expenses. It was said that by December 2010 there was a remaining balance of $270,000 - $280,000 (U.S.). Again there was no documentary or other confirmatory evidence of this. What then happened to this large remainder? More essentially, why borrow in the first place, and pay interest, with these “nest egg” funds at hand? Why not just have used these funds directly for the supposed purpose of the loans, to advance SZ’s business interests, of which there was no confirmatory evidence either.
+[16] On the basis of the above considerations, I conclude that the appellants have not made out a prima facie case that the 2005 gift of funds was saved until 2009 and thereafter expended, as the appellants have pleaded.
+[17] The second of the three issues is whether a loan was made to the appellants ZS and/or KS by the late S. Kogan. In this instance there is some corroborating evidence. The appellants say that Mr. Kogan had become a good social friend of theirs in the Toronto Russian community and was agreeable to loaning them money - here in the amount of $119,000. No particular explanation was provided for my question why this comparatively unusual amount (rather than, for example $120,000). The corroborating evidence is an apparent receipt of full payment (Ex. A-3) of $119,000 loaned, with interest, and dated December 27, 2011. I am puzzled why it is written in English when each of the two appellants required a Russian translator to testify at the hearing. When this question was asked, ZS’ answer was that she wishes in documents to use the language of the country she is in. With respect I am not sure why that sentiment should prevail over her being able to read and understand the particular document.
+[18] In any event Mr. Kogan’s widow, Ms. Raisa Kogan testified. She confirmed the signature on the above mentioned payment receipt as being Mr. Kogan’s. She also testified that Mr. Kogan had told her he had loaned money to the appellants and that the amount loaned had been fully repaid. I do not consider that Ms. Kogan’s evidence was significantly impeached on cross-examination. Nor in my view did any evidence called by the respondent do so. Accordingly I accept that the appellants have established at least a prima facie case that the alleged loan of $119,000 from Mr. Kogan was in fact made, in January 2009, and paid back in full by not later than December 2011. However, this evidence does not establish on a prima facie basis or otherwise that any repayment of the Kogan loan was sourced from the 2005 monetary gift to the appellant ZS from her sister.
+[19] The last issue is the allegation of a loan of $123,000 from Ms. S. Kravchenko to the appellants or either of them also in January 2009, said to have been repaid in full by December 2010. In this instance there are two items of intended corroborating evidence. One is a promissory note signed by ZS and supposedly witnessed by Ms. Kravchenko’s boyfriend, who was not there to testify. I do not consider this corroboration as at the end of the day the only signature that was proved was that of the appellant ZS. We heard no evidence from or otherwise on behalf of Ms. Kravchenko, said to have moved or moved back to Moscow. The evidence of witnesses saying they overheard portions of conversations at social occasions between either of the appellants and Ms. Kravchenko, and saw packages that could be money passed between them, was too speculative to be accorded judicial weight. And again I am left to wonder why borrow money in the first place with the gifted funds at hand for use, without interest having to be paid. Further, why borrow when these gifted funds were supposedly on hand, and ostensibly used promptly to repay the borrowed funds.
+[20] On the bases of the foregoing I am unable to conclude in relation to the claimed loan from Ms. Kravchenko that the Minister’s assumption that the appellants did not receive funds in 2009, 2010 or 2011 other than what already was reflected in the net worth analysis being the basis of the appealed reassessments has been disproved, on a prima facie or otherwise basis.
+[21] The appeals are allowed insofar as the alleged loan from Mr. Kogan has been allowed. As the overall results are divided as between the appellants and the respondent, there will be no order as to costs.
+Signed at Halifax, Nova Scotia, this 28th day of August 2018.
+“B. Russell”
+Russell J.
+CITATION:
+2018TCC180
+COURT FILE NO.:
+2016-2590(IT)G
+2016-2826(IT)G
+STYLE OF CAUSE:
+ZAREMA SYCHEVA AND HER MAJESTY THE QUEEN
+KONSTANTIN SYCHEV AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+June 25, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Russell
+DATE OF JUDGMENT:
+DATE OF AMENDED JUDGMENTS:
+August 28, 2018
+November 26, 2018
+APPEARANCES:
+Counsel for the Appellant:
+Ian Morris
+Andrea Dickinson
+Peter Muto
+Counsel for the Respondent:
+Gregory King
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Ian Morris
+Andrea Dickinson
+Peter Muto
+Firm:
+Morris, Kepes, Winters LLP
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

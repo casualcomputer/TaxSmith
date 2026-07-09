@@ -1,0 +1,148 @@
+---
+title: "Anthony v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30957/index.do"
+last_modified: "2012-09-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 334"
+citation2: ""
+neutral_citation: "2012 TCC 334"
+decision_date: "2012-09-21"
+language: "en"
+item_id: "30957"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4831
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:09:51.296000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ec127d1d8f3f09317c7c76bd83f3e14ee88d55877ba81b7ccf58e8779022742d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Anthony v. The Queen
+
+- Citation: 2012 TCC 334
+- Decision date: 2012-09-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4831, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Anthony v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-09-21
+Neutral citation
+2012 TCC 334
+File numbers
+2012-589(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-589(IT)I
+BETWEEN:
+DARLENE ANTHONY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on September 13, 2012 at Kingston, Ontario
+By: The Honourable Justice J.M. Woods
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Christopher Kitchen
+Jack Warren
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to an assessment made under the Income Tax Act for the 2009 taxation year is dismissed. Each party shall bear their own costs.
+Signed at Toronto, Ontario this 21st day of September 2012.
+“J. M. Woods”
+Woods J.
+Citation: 2012 TCC 334
+Date: 20120921
+Docket: 2012-589(IT)I
+BETWEEN:
+DARLENE ANTHONY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] The appellant, Darlene Anthony, purchased a hot tub on the recommendation of her doctors. The use of this equipment has alleviated her severe chronic pain to such an extent that she has a greater ability to walk. This appeal concerns the disallowance of a medical expense tax credit (METC) in respect of the cost of the hot tub, which was $7,063.
+[2] The relevant reassessment was made under the Income Tax Act for the 2009 taxation year.
+Legislative framework
+[3] I was referred to two types of expenditures which potentially could qualify for the METC in these circumstances.
+[4] Subsection 118.2(2)(l.2) of the Act applies to the cost of home renovations that are undertaken to increase mobility in the home. The provision reads:
+(2) Medical expenses - For the purposes of subsection (1), a medical expense of an individual is an amount paid
+[…]
+(l.2) [alterations to home] - for reasonable expenses relating to renovations or alterations to a dwelling of the patient who lacks normal physical development or has a severe and prolonged mobility impairment, to enable the patient to gain access to, or to be mobile or functional within, the dwelling, provided that such expenses
+(i) are not of a type that would typically be expected to increase the value of the dwelling, and
+(ii) are of a type that would not normally be incurred by persons who have normal physical development or who do not have a severe and prolonged mobility impairment;
+(Emphasis added.)
+[5] Subsection 118.2(2)(m) of the Act applies to equipment or devices that are described in Regulation section 5700 and are prescribed by a medical practitioner. The relevant provision in this case is paragraph (i), which reads:
+5700. For the purposes of paragraph 118.2(2)(m) of the Act, a device or equipment is prescribed if it is a
+[…]
+(i) device that is exclusively designed to assist an individual in walking where the individual has a mobility impairment;
+(Emphasis added.)
+Analysis
+[6] It is not in dispute that Ms. Anthony suffers from severe chronic pain or that the hot tub has assisted her in walking.
+[7] The Crown submits that it is not enough that the expenditure is of assistance in walking. Counsel suggests that the hot tub does not qualify because the product is of a type commonly purchased by persons who do not suffer severe disabilities and is not exclusively designed to assist persons with a mobility impairment. The relevant parts of the legislation are underlined above.
+[8] I would agree with the Crown’s submission.
+[9] Ms. Anthony searched to find a hot tub that was reasonable in price and that had jets placed appropriately near her neck which were necessary to alleviate her symptoms of back pain. The only equipment that she found that met this criteria was a hot tub that she purchased at Costco. It had five seats, and the jets in the corner seat accommodated her needs.
+[10] This Court recently commented on a similar situation in Johnston v The Queen, 2012 TCC 177. I agree with the comment of Boyle J. in that case at paragraph 12:
+[12] […] While there was no evidence led either way, I must take judicial notice that many fully able bodied Canadians put similar hot tubs in their homes and yards. In my opinion, a typical hot tub generally available in the retail market such as the Johnstons' is not able to satisfy this final requirement.
+[11] Although the facts in this case are sympathetic, the appeal must be dismissed as the legislative intent is clear that this type of expenditure is not intended to qualify for the METC.
+[12] As a final comment, I would briefly mention that at the commencement of the hearing I informed the parties that the Crown should bear the burden of proof concerning one of the assumptions. The relevant assumption is stated in paragraph 9(d) of the Reply, which reads:
+9. In determining the appellant’s tax liability for the 2009 taxation year, the Minister relied on the following assumptions of fact:
+[…]
+d) the appellant did not incur medical expenses in excess of $209.
+[13] The purpose that the Minister’s assumptions are stated in the Reply is to inform taxpayers of the facts that they have to establish at trial. The assumption above is not at all meaningful in this regard. Notwithstanding this deficiency, the exclusivity requirement was mentioned in other parts of the Reply. As a result, I concluded that the issue was properly raised in the pleading, but that it was appropriate to shift the burden of proof to the Crown because the assumption was inadequate. As it turned out, the shifting of the burden did not change the outcome of the appeal.
+[14] The appeal will be dismissed, and each party shall bear their own costs.
+Signed at Toronto, Ontario this 21st day of September 2012.
+“J. M. Woods”
+Woods J.
+CITATION: 2012 TCC 334
+COURT FILE NO.: 2012-589(IT)I
+STYLE OF CAUSE: DARLENE ANTHONY v.
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Kingston, Ontario
+DATE OF HEARING: September 13, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice J.M. Woods
+DATE OF JUDGMENT: September 21, 2012
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Christopher Kitchen
+Jack Warren
+COUNSEL OF RECORD:
+For the Appellant:
+Name: n/a
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Ontario

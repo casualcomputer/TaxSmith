@@ -1,0 +1,122 @@
+---
+title: "Hémond c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25287/index.do"
+last_modified: "2003-10-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 705"
+citation2: ""
+neutral_citation: "2003 TCC 705"
+decision_date: "2003-10-24"
+language: "en"
+item_id: "25287"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2400
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:35:04.450000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1f9fe8989023d8f68168a3c6443e38f5b0ccefb3586ed068a5ffb971d0eb005e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hémond c. La Reine
+
+- Citation: 2003 TCC 705
+- Decision date: 2003-10-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2400, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hémond c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-10-24
+Neutral citation
+2003 TCC 705
+File numbers
+2002-4694(IT)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-4694(IT)I
+BETWEEN:
+CLAUDE HÉMOND,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on September 9 and 12, 2003 at Sherbrooke, Quebec.
+Before: The Honourable Judge Brent Paris
+Appearances:
+Counsel for the Appellant:
+Richard Généreux
+Counsel for the Appellant:
+Alain Gareau
+JUDGMENT
+The appeal of the assessments under the Income Tax Act for the 1997, 1998 and 1999 taxation years is allowed in part, with costs, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to the following additional deductions for business expenses totalling: $9,824.93 for 1997, $9,816.60 for 1998 and $10,004.31 for 1999.
+Signed at Ottawa, Canada, this 22nd day of September 2003.
+"Brent Paris"
+Paris, J.
+Translation certified true
+on this 25th day of March 2004.
+Shulamit Day-Savage, Translator
+Citation: 2003TCC705
+Date: 20031024
+Docket: 2002-4694(IT)I
+BETWEEN:
+CLAUDE HÉMOND,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+(Delivered orally from the bench on September 12, 2003 at Sherbrooke, Quebecand revised at Ottawa, Canada, on October 9, 2003.)
+Paris, J.
+[1] This appeal was heard at Sherbrooke, Quebec, on September 12, 2003.
+[2] The Appellant appeals the income tax assessments for the taxation years 1997, 1998 and 1999. The Minister of National Revenue (the "Minister") disallowed a portion of the deductions claimed by the Appellant as business expenses. The amounts at issue are as follows: $15,088.91 for 1997; $13,977.71 for 1998; $10,763.34 for 1999.
+[3] The Appellant is a general practitioner in Sherbrooke, specializing in geriatrics and palliative care. During the years at issue, he worked in a clinic in Bromptonville (two days per week), at a Sherbrooke nursing home, and at the Hôtel-Dieu hospital at Sherbrooke. He also made house calls for his older patients. Most of the deductions disallowed by the Minister were automobile expenses, expenses related to a home office, amounts for conferences and meals, and entertainment expenses.
+[4] The evidence presented before the Court reveals that the Appellant has an office in his home that is used exclusively for professional purposes. He needs this office to manage and plan his business, for professional development, to review patient files and analyze laboratory test results, to meet with some patients and pharmaceutical representatives, and to make and receive telephone calls.
+[5] The question this appeal raises, with respect to the office expenses, is whether the Appellant's home office meets the requirements of paragraph 18(12)(a) of the Income Tax Act. Office use of home expenses are deductible if (1) this office was his principal workplace or, (2) it was used exclusively for the purpose of earning income from the business and used on a regular and continuous basis for meeting clients or patients in respect of the business.
+[6] In my opinion, the Appellant's home office cannot be considered his principal workplace either from the point of view of the amount of time he spent there, or from the point of view of the quantity of work conducted there. The Appellant himself testified that he met many more patients at the Bromptonville clinic, at the nursing home and at the hospital than at home, and the time he spent in his business activities at these three locations exceeded the amount of time spent in his office.
+[7] However, I admit that the home office does meet the condition outlined in subparagraph 18(12)(a)(ii). The Appellant and his wife testified that the patients and staff at the reception centre at the nursing home called him often and regularly at his home office, for consultation, advice or to discuss cases, for prescriptions and diagnoses. The Appellant said that all these calls were medical procedures and were billed. The Appellant made appointments at his home for certain patients, up to one or two appointments per week.
+[8] In a case very similar to this one with respect to the facts, Vanka v. The Queen, [2001] T.C.J. No. 663, my colleague Lamarre Proulx J accepted that the meetings with patients outlined in subparagraph 18(12)(a)(ii) may occur by telephone. At paragraph 13 of the judgement she said the following:
+. . . Although the words used in the provision are "meeting patients", I am not convinced that these words require the physical presence of the patients in the home workspace.
+[9] The Respondent's attorney emphasized the fact that the Appellant was not connected to the computer network at the Bromptonville clinic distinguishes this case from Vanka, supra. I am convinced that the Appellant could nonetheless conduct the necessary administrative follow-up required with respect to his patients' calls to his home office.
+[10] The deduction of certain amounts claimed by the Appellant as office supplies was refused because he did not have the relevant documents. His testimony with respect to these expenses seemed vague to me and the amounts he claimed as deductions seemed to me to be estimates. For these reasons, deduction of the amounts of $300 for a fax-modem and $500 for stationery in 1997 and $391 for stationery in 1998 is not granted.
+[11] It seems that the Appellant did not keep books or any account of his business expenses, and from the start also deducted some personal expenses. All taxpayers must be able to provide evidence of the expenses for which they are claiming deductions. I will reduce the amounts deducted for meals by 25% because the evidence reveals that, to some degree, these meals were not taken for the purpose of earning income from the business.
+[12] The only evidence of entertainment expenses was Exhibit A-7, which includes some cheques and lottery tickets. The Appellant described them as charitable donations he had made as part of his business activities. The cheques were drawn on an account opened in the name of the Appellant and his wife, not on the business account, which leads me to conclude that the amounts in question are personal expenses. The lottery tickets have no connection to the business and their deduction is disallowed. However, the deduction of the amounts for conferences is allowed.
+[13] The last category of expenses is related to the automobile. I accept the figures indicated by the Appellant in Exhibit A-3 with respect to the distance driven for his business-related travel. However, the Appellant's total mileage was not obvious from his testimony; he did not keep a logbook in which to note the use of his or his wife's car, and for this reason, I accept the figures used by the auditor, which are 30,000 km in total for 1997 and 35,000 km in total for 1998 and 1999. As a result, the proportion of automobile expenses would be 75% in 1997 and 1999 and 80% in 1998. This takes into consideration the additional distances driven by the Appellant due to an increase in meetings held with respect to hospital mergers in 1998.
+[14] There are several changes that must be made to the list of automobile expenses provided in Exhibit A-4. For 1999, the amount of $497.83 for tires should be removed because this amount had already been taken into account by the auditor (see Exhibit I-1 on page 6). For 1998, the deduction for insurance should be reduced to the amount of $758.54 allowed by the auditor, because there was no explanation why the amount of insurance for this year was clearly greater than the amounts deducted in the other two years.
+[15] For 1999, the expenses are $934.44 in total for a Thule carrier and baggage rack for a trailer which are not business expenses. For the years 1998 and 1999, I do not allow the deductions for maintenance expenses in the amount of $1,000 for the year, since there are no invoices.
+[16] Finally, the deductions for fees were not mentioned in the Appellant's testimony. I presume that he does not dispute the auditor's reductions but, in any case, the burden of proof was on the Appellant in this regard, and he did not discharge it.
+[17] In summary, the Appellant has the right to additional deductions of $9,824.93 for 1997, $9,816.60 for 1998 and $10,004.31 for 1999. Since the Appellant's appeal is successful with respect to more than 50% of the amounts at issue, the appeal is allowed, with expenses.
+Signed at Ottawa, Canada, this 24th day of October 2003.
+"Brent Paris"
+Paris, J.
+Translation certified true
+on this 25th day of March 2004.
+Shulamit Day-Savage, Translator

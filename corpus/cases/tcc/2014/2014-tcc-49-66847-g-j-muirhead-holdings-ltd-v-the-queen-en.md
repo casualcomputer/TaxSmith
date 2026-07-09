@@ -1,0 +1,162 @@
+---
+title: "G & J Muirhead Holdings Ltd. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/66847/index.do"
+last_modified: "2014-02-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 49"
+citation2: ""
+neutral_citation: "2014 TCC 49"
+decision_date: "2014-02-13"
+language: "en"
+item_id: "66847"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5955
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:57:04.128000+00:00"
+cases_cited_count: 3
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2ece73669dacbea5ce44bc3704bed6c4429dddd3b0a463c94cf6abbd490f28c3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# G & J Muirhead Holdings Ltd. v. The Queen
+
+- Citation: 2014 TCC 49
+- Decision date: 2014-02-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5955, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+G & J Muirhead Holdings Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-02-13
+Neutral citation
+2014 TCC 49
+File numbers
+2013-1935(IT)I
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-1935(IT)I
+BETWEEN:
+G & J MUIRHEAD HOLDINGS LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on December 12, 2013 at Edmonton, Alberta.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Counsel for the Appellant:
+Sanjaya R. Ranasinghe
+Counsel for the Respondent:
+Gergely Hegedus
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act with respect to the Appellant’s 2008 taxation year is dismissed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada this 13th day of February 2014.
+"Patrick Boyle"
+Boyle J.
+Citation: 2014 TCC 49
+Date: 20140213
+Docket: 2013-1935(IT)I
+BETWEEN:
+G & J MUIRHEAD HOLDINGS LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Boyle J.
+[1] G & J Muirhead Holdings Ltd. (“Muirhead Holdings”) is a corporation owned by Gordon Muirhead and his wife Judy Muirhead. In the year in question, 2008, Muirhead Holdings’ only employee was Gordon Muirhead. In earlier years, going back to when it was established in 2002, Judy Muirhead had also been employed in an administrative/office management function.
+[2] In 2008, Muirhead Holdings was under contract to Harvest Operations Corp. (“Harvest”) to provide certain oil well site and facilities services. Muirhead Holdings had no other clients even though exclusivity was not required by Harvest. Muirhead Holdings first contracted to provide contract operator well services at the particular wells/facilities in 2003 when they were owned by Grand Petroleums Inc. When Harvest took over from Grand Petroleums in 2007, Muirhead Holdings continued to provide these services under contract to Harvest. Throughout this time all of the services were provided by Gordon Muirhead working full time for Muirhead Holdings to do so. Harvest also had employees doing this same type of work. The Court was not told if there were any other non-employees performing such services apart from Mr. Muirhead or, if so, whether they were also one-man companies working full-time similar to Muirhead Holdings and Mr. Muirhead.
+[3] Muirhead Holdings has been reassessed on the basis that it carried on a “personal services business” and that it was entitled to only the limited deductions available to its so called “incorporated employee”. The specific issue to be decided therefore is whether Gordon Muirhead “would reasonably be regarded as an … employee of [Harvest] but for the existence of [Muirhead Holdings]”.
+Intention
+[4] Counsel for the Appellant sought to rely heavily on the intention of the parties, specifically the intention of the parties to the Contract Wells/Facility Operating Agreement – Harvest and Muirhead Holdings. Intention of the parties is not of particular help or relevance in a personal services business case. This Court has said and explained that clearly in 1166787 Ontario Limited v. The Queen, 2008 TCC 93, 609309 Alberta Ltd. v. The Queen, 2010 TCC 166, and most recently in Gomez Consulting Ltd. v. The Queen, 2013 TCC 135. Given the wording used to define personal services business there is frankly no possible merit to the contrary position in a case such as this. The Appellant was represented by an experienced and very capable tax law firm and I was surprised to hear more than passing reference to the parties’ intentions, unless it was to argue that this Court was wrong in the decided jurisprudence which counsel neither advanced nor explained. This Court’s position is that in any personal services business situation, the agreement between the actual third party purchasing services (Harvest in this case) and the corporation owned by the alleged/assumed incorporated employee (Muirhead Holdings and Gordon Muirhead, respectively) will always be a contract for services as a corporation can never be an employee under a contract of service. Therefore, the intention of those two parties should always have been to enter into a contract for services with each other.
+[5] The alleged assumed incorporated employee may be an employee or an independent contractor to his corporation given the wording of the definition of “personal services business” in the Income Tax Act (the “Act”).
+[6] The definition of personal services business requires the Court to determine if the individual actually performing the services would reasonably be regarded as an employee of the third party purchaser of the services in the notional circumstances where the individual services performer and the third party services purchaser had a direct relationship without the individual’s corporation having a role.
+[7] The personal services business provisions would be meaningless if the intention of the third party purchaser of the services (Harvest) and the individual’s corporation (Muirhead Holdings) in entering into their contract governed, as that contract can only be a contract for services. Similarly, it can not be relevant or helpful to a court in weighing the issue of employee versus independent contractor, since it can only ever, and must always, point in a single direction – to independent contract for services.
+[8] If it is always present and always on the same side of the balance, it can not help in the weighing of factors in any particular facts and circumstances. A court could expect to never have any helpful evidence to assist in what the third party purchaser of the services and the individual would have intended had they decided to contract directly with one another. It can however be noted in this case that Mr. Muirhead chose to become an employee of Muirhead Holdings, a company controlled by him and his wife; presumably that reflects his intentional choice and preference to be an employee in providing these services. With the exception of this job with Muirhead Holdings and his very first job decades earlier, there was no evidence of whether Mr. Muirhead was an employee or independent contractor in the many other positions he held throughout the years.
+[9] It can also be noted that seemingly throughout his career, and definitely throughout his oil field services years, Mr. Muirhead has chosen to only work for one company at a time.
+[10] The Court in a personal services business termination should therefore be largely looking to the four traditional Sagaz/Wiebe Door[1] factors/considerations of (i) control (ii) tools (iii) chance of profit, and (iv) risk of loss, in determining whether the alleged/assumed incorporated employee would reasonably be regarded as an employee of a third party purchaser of the services provided by him if his corporation’s role, rights and obligations were entirely disregarded.
+Control
+[11] Appellant’s counsel stressed on two occasions in argument that all of the terms and conditions of the contract between Harvest and Muirhead Holdings were in fact dictated by Harvest. In counsel’s words “He was given this contract, he was told to either take it or leave it”. Mr. Muirhead described it as “everything was set by Harvest”.
+[12] Harvest dictated that the hours of work would be from 7:30 a.m. to 5:00 p.m. each work day of a nine day on/five day off-shift. Harvest set the hourly rate, the hours and the twice monthly timing for submitting invoices which detailed hours actually worked as logged by Mr. Muirhead. The contract provided a rate of $48 per hour and $65 per hour of overtime or if the worker was called out. The rate was increased from time to time. The hourly rate was expressly set to include the labour, tools and truck compensation. Only hours actually worked were paid for; had Mr. Muirhead finished the day’s assigned work early he would either be assigned further work, or not get paid for the remainder of the day. Mr. Muirhead said he never let either happen.
+[13] The number of wells to be checked, and which 90 to 100 of the 350 to 400 wells at the site were to be checked, each day were determined by Harvest and were government regulated. Mr. Muirhead could simply determine the order in which he attended to the assigned wells for the day, unless he received instructions that there were concerns at any particular wells which he should attend to first or at a particular point in the day.
+[14] Harvest made the decisions on how any particular task was to be performed. Muirhead Holdings would get paid at the usual hourly rate, including overtime if called out or required, if things had not been adequately done to Harvest’s satisfaction the first time.
+[15] Mr. Muirhead reported each day to the Harvest foreman and his lead at the well site. Harvest conducted evaluations of the work performed by Mr. Muirhead in the same manner as was company policy for its employees. Mr. Muirhead was required to abide by Harvest’s code of business conduct and ethics as well as its drug and alcohol program guidelines. Mr. Muirhead said Harvest could discipline him if he did not perform appropriately or if it had concerns with his work, though neither ever arose. Mr. Muirhead had to report to Harvest if he was sick or wanted to schedule time off.
+[16] Mr. Muirhead described the majority of his training as being on-the-job training for which Harvest paid his company. He attended Harvest’s in-house training programs. Muirhead Holdings did not invoice Harvest for that time. It appears this only occurred once in the year in question and the surrounding years for which invoices were put in evidence, and the amount was $170 worth of time. No off-site training was required by Harvest. No outside training was required to maintain any credentials to perform the work.
+[17] Muirhead Holdings’ contract with Harvest did not require that Gordon Muirhead provide the contracted services personally. Other qualified employees or substitutes of Muirhead Holdings were permitted under the contract. Mr. Muirhead said however that he did all of the work, he wanted to do all of the work, and he never even looked to have anyone else to do the work.
+[18] Harvest also had employees doing the same type of work. There was no evidence that the levels of control, direction and reporting et cetera was any different for Mr. Muirhead than for his employee colleagues doing the same job. However, it can be noted that in the Notice of Appeal paragraph alleging distinctions between Mr. Muirhead’s performance and employees doing “much the same work” there is no suggestion of any distinction with respect to any control factors.
+[19] While not determinative or entirely inconsistent with independent contract status, an overall weighing of the control factors clearly leans towards employee status for Mr. Muirhead had he worked directly for Harvest. Harvest’s control over the work to be performed by Mr. Muirhead could hardly have been greater.
+Tools
+[20] Harvest is not required to provide Mr. Muirhead or his company with the basic protective work clothing required. This consisted of a hard hat, steel toed boots and overalls. The overalls, and in winter his coat, had to be made of flame retardant materials. This basic work clothing is required of many Canadian workers, whether employees or independent contractors. Not all employers provide such clothing or provide an allowance for it. There was no evidence that Mr. Muirhead was treated any differently than Harvest’s other employees, including those doing his same work, with respect to clothing. Again, I can observe that in the paragraph of the Notice of Appeal wherein counsel set out the distinctions with Harvest’s employees doing the same job, there is no reference to work clothing. This does not lean in either direction.
+[21] Harvest was not required to provide the light hand tools required to be available in the truck in the event they are needed to perform the services. The contract between Harvest and Muirhead Holdings provided expressly that the hourly rate was set to include compensation for the tools to be provided by the worker. These tools consisted of a hand shovel, rake, crow bar, wrench and sockets. (Presumably, other similar small basic hand tools may have been required such as screw drivers and a hammer.) Mr. Muirhead simply used the ones he had on his farm pick up already for farm use. In many sectors, working Canadians are required to provide their own basic tools whether they are employees or independent contractors. This includes mechanics, electricians, carpenters, forestry workers and many other trades persons. The case law in this Court involves numerous such examples. Employers do not need to provide them to employees and this is recognized in the Act which permits a deduction by employees for such tools in certain circumstances. Again, even the paragraph in the Notice of Appeal that seeks to list the distinctions between Harvest employees who do the same work as Mr. Muirhead does not suggest that they are treated any differently with respect to the hand tools. This too does not lean in either direction.
+[22] A pick up truck is required to perform the services at the different wells once at the well site. Harvest’s hourly rate for Mr. Muirhead’s work was expressly set to compensate and account for the provision by the worker of the truck. Mr. Muirhead uses the same pick up truck he uses to drive 15 minutes to and from his house and the well site. He owns that truck and uses it in his farming operations (the truck and the tools were leased by him – or by his farm in his words – to Muirhead Holdings. This was presumably not an exclusive lease as they were also used both personally and in the farm operations). The Court was not told how much driving was required once at the well site, either on a daily or annual basis. Mr. Muirhead had Muirhead Holdings put commercial insurance on his pick up truck, though it is not clear similar insurance was not already on the truck and required for his farming operations. Again the ownership, insurance and provision of the pick up truck is not particularly helpful. It is again not uncommon for Canadians to be required to have and use their vehicles as a term of their employment. The Act recognizes that not all employers provide vehicles nor provide reasonable vehicle allowances or reimbursements to employees when they are required to use their vehicles. The Act therefore has several provisions allowing employees to deduct vehicle expenses in certain circumstances.
+[23] With respect to the commercial insurance on the truck, I would note that Mr. Muirhead used this truck in his other business, and he leased it to Muirhead Holdings, either or both of which might have warranted commercial vehicle insurance be placed on it. Also, those who use their vehicles throughout each day in their employer’s business might also be expected to prudently consider additional coverage for such non-personal use, and especially in a business with certain increased inherent risks of public liability occurrences.
+[24] There was no evidence put in as to whether any of the Harvest employees doing the same work used their own vehicles or, if so, how they were compensated for such use. However, the evidence is that Harvest specifically set its hourly rates for Mr. Muirhead’s services having regard to his use of a pick up truck and to that extent he was compensated expressly for its use by way of an hourly allowance even though that was not broken out separately.
+[25] The provision of the pick up truck, and its insurance, is not inconsistent with either employment or independent contractor status had Harvest and Mr. Muirhead contracted directly. Given the nature of the work, and the limited evidence put in by the Appellant, I find it neutral in determining whether Mr. Muirhead would reasonably be regarded as an employee or independent contractor.
+[26] The basic thirty pound ABC fire extinguisher in a pick up is similar to the truck and the tools and is similarly neutral in this case.
+[27] The requirement that a worker have a cell phone to be in touch with the person paying for his work, and for which the worker is not specifically reimbursed, is similarly not at all inconsistent with a worker being an employee.
+[28] Everything else, including the substantive specialized tools and equipment used by Mr. Muirhead, being the monitor, the monitor bumping station, the computer et cetera needed to provide his services are owned by Harvest.
+[29] The ownership of tools considerations is not helpful to me in this particular case. Overall, it does not weigh in either particular direction whether considered individually or collectively. With respect to the protective clothing and the hand tools, Mr. Muirhead appears to be in the very same position as Harvest employees doing the same work.
+Chance of Profit and Risk of Loss
+[30] This case involved an hourly rate, including an overtime rate, fixed hours and a schedule of work on a full-time basis. Harvest was the only company Mr. Muirhead provided services to. He did not negotiate the hourly wage nor any other term of the work for Harvest. He did not look for other clients, even though he could have grown his oil services activities with the help of other workers. He did not look for other workers. The expected revenues in his commercial insurance form are consistent with only the Harvest work being done, and it being done by him. Harvest had to give at least 30 days notice to terminate his full-time services other than for cause. Mr. Muirhead wanted to be a one man show and from that followed that he had no opportunity to increase his revenues beyond the 80 hours every two weeks committed with Harvest, plus any overtime on that. There was no evidence of significant overtime ever earned or expected. It is very difficult to see any upside to Mr. Muirhead in his undertakings beyond that available to a full-time hourly employee. His revenue from Harvest was not affected by any efficiency or time saving on his part, whether equipment was defective, or whether his work was not done to Harvest’s satisfaction the first time.
+[31] I would add that overtime rates seem very odd for an independent contractor with the right to hire others or subcontractors. Clients and customers of a business normally seek to negotiate volume discounts, not volume surcharges, although that is not invariably the case. There was no evidence to suggest or explain that volume surcharges were normal in this line of work.
+[32] Mr. Muirhead’s revenues were fixed. His ability to manage his work related expenses is not very significant economically. He needed, or at least used, his pick up truck in his farming activities and for personal use, which included his 15 minute drive each way to and from work. He could choose a less expensive pick up truck or one that could be expected to be less expensive to maintain, seek cheaper truck financing, use a less expensive grade or shop for bargains on fuel, service his truck less frequently, choose less insurance and take greater risk on either the truck or liability insurance, shop for cheaper insurance and maintenance, and stretch out his regular vehicle maintenance schedule. Only the portion of any such reduction attributable to driving around the well site would be relevant in any case. He could buy cheaper work clothes or wear them longer. He could perhaps find cheaper hand tools than his used farm tools. Any of that, even all of that, would only marginally affect his net income or his cash flow from working for Harvest.
+[33] Similarly, it is hard to see any material downside economic risk beyond being out of work on 30 days notice and still owning his truck. The truck would have its same value at any point in time regardless of whether he had work in the future or not. He also had his truck to use it for farming and personal purposes. There was no evidence of the extent of its use attributable to driving from well to well at the well site.
+[34] Compliance by an alleged/assumed incorporated employee’s intermediary corporation with government requirements regarding such things as workplace safety and corporate registrations and the like are not very helpful or relevant considerations in a professional services business case to the extent they result directly from the interposition of the very company that the personal services business definition requires the Court to ignore. In this case I find them not significant.
+Conclusion
+[35] The Appellant’s case was weak in law. The evidence relating to the terms and conditions of employment of those Harvest employees doing the same work as Mr. Muirhead was not put before the Court. This may be telling. I need not make any adverse inference in this regard as it is the Appellant who bears the onus of proof which it has not been able to otherwise discharge. The argument that intention is as relevant and helpful in a personal services business case as an employee versus an independent contractor case should not have been made as forcefully as it was, if at all, unless counsel could distinguish the earlier cases on the point or explain why they were incorrect, which was not done.
+[36] The only conclusion available to me on the facts presented in this case is that, if the existence of Muirhead Holdings is ignored and Mr. Muirhead were working directly for Harvest, Mr. Muirhead or anyone else performing those services could only reasonably be considered to be Harvest’s employee. Most significantly telling are the factors addressed under the headings Control and Chance of Profit and Risk of Loss. All of Mr. Muirhead’s available working hours were spent on regular daily activity controlled by Harvest, and which was integral to Harvest’s business and which permitted Harvest to continue in its business. He would not reasonably be considered to be in a business of his own.
+[37] The appeal is dismissed.
+Signed at Ottawa, Canada this 13th day of February 2014.
+"Patrick Boyle"
+Boyle J.
+CITATION: 2014 TCC 49
+COURT FILE NO.: 2013-1935(IT)I
+STYLE OF CAUSE: G & J MUIRHEAD HOLDINGS LTD. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Edmonton, Alberta
+DATE OF HEARING: December 12, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT: February 13, 2014
+APPEARANCES:
+Counsel for the Appellant:
+Sanjaya R. Ranasinghe
+Counsel for the Respondent:
+Gergely Hegedus
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Sanjaya R. Ranasinghe
+Firm: Felesky Flynn LLP
+1980 Manulife Place
+10180 - 101 Street
+Edmonton, Alberta
+T5J 3S4 Canada
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] S.C.R. 983; Wiebe Door Services Ltd. v. M.N.R., [1986] 3 F.C. 553.

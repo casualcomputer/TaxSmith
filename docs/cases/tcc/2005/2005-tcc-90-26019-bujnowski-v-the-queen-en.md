@@ -1,0 +1,144 @@
+---
+title: "Bujnowski v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26019/index.do"
+last_modified: "2005-01-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 90"
+citation2: ""
+neutral_citation: "2005 TCC 90"
+decision_date: "2005-01-27"
+language: "en"
+item_id: "26019"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3916
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:06:42.019000+00:00"
+cases_cited_count: 0
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ee811299b49d407f06810b85ee7b1476ade444dfc1e387e66d5f376cc4705407"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bujnowski v. The Queen
+
+- Citation: 2005 TCC 90
+- Decision date: 2005-01-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3916, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bujnowski v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-01-27
+Neutral citation
+2005 TCC 90
+File numbers
+2004-1827(IT)I
+Judges and Taxing Officers
+Alexander A. Sarchuk
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-1827(IT)I
+BETWEEN:
+JANUSZ J. BUJNOWSKI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 6, 2004 and January 10, 2005, at Toronto, Ontario,
+By: The Honourable Justice A.A. Sarchuk
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Annie Paré
+____________________________________________________________________
+AMENDED JUDGMENT
+The appeal from the assessment of tax made under the Income Tax Act for the 2001 taxation year is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to claim a foreign tax credit in the amount of $12,426.79.
+Signed at Ottawa, Canada, this 31st day of March, 2005.
+"A.A. Sarchuk"
+Sarchuk J.
+Citation: 2005TCC90
+Date: 20050331
+Docket: 2004-1827(IT)I
+BETWEEN:
+JANUSZ J. BUJNOWSKI,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+Sarchuk J.
+[1] In his return of income filed for the 2001 taxation year, the Appellant reported total income in the amount of $64,149 and claimed a foreign tax credit with respect to taxes paid in the United States of America in the amount of $14,787.28. In reassessing tax for that year, the Minister of National Revenue disallowed the Appellant's claimed foreign tax credit. In the course of his submission, the Appellant made reference to a reassessment dated January 20, 2003 which, he said, "confirmed that I had fully paid Canadian tax and the balance from reassessment and final balance was nil". The Minister does not dispute the existence of that reassessment but states that a subsequent notice of reassessment dated May 27, 2003 indicated a revised amount of tax payable of $10,370.30. It is this reassessment which is before the Court.
+[2] The Appellant is a Canadian citizen and has a Canadian passport. In January 2001, he was hired as a computer systems analyst by the Maxim Group located in the state of Michigan, USA He said his employment with an American company was based on NAFTA which he said permitted a Canadian citizen to work in the USA and no visa was required. He expected this employment would be long-term and said he had considered purchasing a residence in Michigan. However in October 2001, this employment was terminated and on or about November 1, the Appellant returned to Canada. The Appellant says that he was in the United States for more than 183 days and that as a result, he was considered a US resident for tax purposes and had all US taxes from his employment income deducted at source.
+[3] The Appellant contends that the Minister's assessment was wrong in that it was premised on a conclusion that during the year in issue, he was a factual resident of Canada. He testified that while in the US, he resided in a rental dwelling with "my individual Michigan telephone number and line". His salary, in US dollars, was deposited to his account in a US bank; he used American credit cards, had American medical and dental insurance, was a member of American professional associations, and had investments in the US. Donations were made by him to US charitable non-profit organizations. He had a Michigan driver's license, his motor vehicle was registered in Michigan and was insured with an American company. Following the loss of his employment at the end of October 2001, the Appellant began receiving regular US unemployment benefits.
+[4] In the course of cross-examination, counsel for the Respondent made reference to Revenue Canada questionnaires with respect to the determination of residency status completed and filed by the Appellant.[1] The first was dated October 26, 2002 and the second, January 18. 2003. The Appellant's responses in each are fairly consistent and reflect the following undisputed facts:
+A. His wife Anna remained in Canada, resided in the house they jointly owned in Mississauga, and was "looking for a job". Furthermore, the Appellant stated that he would continue to support her and to a lesser extent, his adult son, in the house that they occupied before his departure.
+B. He conceded that certain ties would be retained by him while working in the U.S. and more specifically, the following:
+(a) he would keep the majority of items such as furnishings, appliances and utensils in Canada as well as personal possessions such as clothing, personal items or pets; (b) he indicated he would keep vehicles in Ontario which were registered in that province or territory as well as his driver's license and would continue to renew the driver's license upon expiry; (c) he had a valid Canadian passport and would renew it upon its expiry; (d) he maintained a joint bank account with his wife in Canada and retained and used credit cards from Canadian financial institutions; (e) he retained self-directed retirement brokerage accounts and margin brokerage accounts with stock, cash and mutual funds; (f) he kept his telephone listing and service in Canada and stated it was for both personal and business use; (g) in response to the question whether he intended to return to Canada, he wrote 'Yes' and added the following comment: "working in the U.S.A. until retirement or work unavailability due to lack of jobs in Canada"; and (h) in each of these documents, he indicated that he made frequent return visits to Canada during the relevant period.
+Appellant's position
+[5] The Appellant maintains that the Minister erred in assuming that he was a factual resident of Canada during the taxation year in issue. In particular, he argues that pursuant to the US. Tax Guide for Aliens, he passed the Substantial Presence Test as a result of which he was considered to be a US resident for tax purposes and paid taxes with respect to his employment income, deducted at source. Furthermore, pursuant to the Canada-United States Tax Convention, he was not qualified to be exempt from US taxation on employment income earned there. As a result of passing the I.R.S. Substantial Presence Test for 2001 and being recognized as a resident alien for US tax purposes, the Appellant maintains he should be considered a deemed non-resident of Canada for the period January 1, 2001 to October 31, 2001. He relies on the provisions of subsection 250(5) of the Income Tax Act which read:
+250(5) Notwithstanding any other provision of this Act (other than paragraph 126(1.1)(a)), a person is deemed not to be resident in Canada at a time if, at that time, the person would, but for this subsection and any tax treaty, be resident in Canada for the purposes of this Act but is, under a tax treaty with another country, resident in the other country and not resident in Canada.
+He noted that there are five residence statuses, i.e. an ordinary resident, a factual resident, a deemed resident, a deemed non-resident, and a non-resident. He maintains that his residency status in the taxation year in issue was not the ordinary or non-resident statuses nor was he a deemed resident of Canada because he resided there for less than 183 days. Of the two residence statuses left, he concedes that he could be classified as a factual resident, but maintains that at the given time he was resident in another county for purposes of a tax treaty between Canada and that country and therefore, is deemed not to be resident in Canada at that time, pursuant to subsection 250(5) of the Act. The Appellant made specific reference to the "tiebreaker rules" in paragraph 2 of Article IV of the Canada-US Treaty and says that if properly applied, he would be considered a deemed non-resident at the time when he was resident, for tax purposes, in the USA during 2001. He argues that these rules rely first on a "permanent home" test to resolve the residence issue and says that this test fails to resolve the residence determination given the facts in his particular case. He relies on the "centre of vital interest" test and asserts that his economic ties were significantly stronger with the US due to, among other things, providing him with his sole source of income. He also contends that his personal ties were not clearly closer to Canada because his wife often was with him in the US. Thus the tiebreaker rule should be determined "as closer to residence in the USA because of the economic ties". In these circumstances it was clear that he should not be treated as a factual resident.
+[6] The Respondent's position is that an individual who is a resident of Canada for the purposes of the Act is a resident of Canada for purposes of paragraph 1 of the Residence Article of any modern tax treaty between Canada and another country. Such an individual may also be resident of the other country for purposes of the same paragraph in the same treaty. In this situation, the Residence Article in the tax treaty will provide "tiebreaker rules" to determine in which country the individual will be resident for purposes of the other provisions of the treaty. If, at any time, such "tiebreaker rules" apply and it is determined that an individual is a resident of another country for purposes of a tax treaty between Canada and that country, then subsection 250(5) of the Act will deem the individual to be a non-resident of Canada for purposes of the Act.
+[7] Counsel for the Respondent submitted that during the taxation year in issue, the Appellant was correctly determined to be a factual resident of Canada. She made specific reference to the facts before the Court which, she said, had failed to establish that the Appellant made a 'clean break' from Canada during that taxation year. More specifically, there was nothing in his conduct indicating an intention not to return. He did not leave with his family nor his belongings nor did he break most of his ties to Canada. With respect to the provisions in subsection 250(5) of the Act, counsel argued that the Appellant has failed the tiebreaker tests referred to by him. In support, counsel argued that the evidence established that the Appellant did not have a permanent home in the US and had much closer personal and economic ties with Canada during the relevant period of time. Furthermore, the Appellant's ties with Canada were much stronger than his ties in the US. Specific reference was made to the fact that he had no passport in the US, no citizenship, nor was he seeking to obtain citizenship in the US. He had no family home there and in fact visited his family in Canada regularly. On the basis of all the facts before the Court, counsel submitted that the Minister was correct in concluding that the Appellant was a factual resident of Canada.
+[8] Notwithstanding the Appellant's submissions to the contrary, the evidence before the Court leads clearly to the conclusion that his residential ties to Canada were most significant. Not only did the Appellant's wife remain in Canada in a residence which they owned, it is also a fact that she remained in order to find employment. There is no evidence before the Court to indicate that the Appellant had at any time contemplated the disposition of the dwelling nor is there any evidence to support his statement that he had been considering the purchase of a residence in Michigan. A number of other residential ties with Canada also tend to lead to a determination that the Appellant was factually resident in Canada while employed in the US. He retained, as previously indicated, personal property as well as social and economic ties in Canada such as a bank account, brokerage accounts and self-directed retirement accounts, etc. He also retained his Canadian passport and memberships in Canadian professional organizations. On the evidence before me, I have concluded that the Appellant was a factual resident of Canada and accordingly, the Minister's assessment was correct.
+[9] There is one other issue which must be dealt with. In assessing the Appellant the Minister had also denied his claim with respect to the deduction of a foreign tax credit in the amount of $14,787.28 for the taxation year in issue. This assessment was made because the Appellant had failed to provide any documentation in support of the claim. During the course of the second hearing, the Respondent advised the Court that a certified copy of the Appellant's 2001 Michigan tax return and copies of two other forms had been produced[2] and on the basis of this information, the Minister concedes that a foreign tax credit in the amount of $12,426.79 may be claimed by the Appellant in computing tax payable for his 2001 taxation year.
+[10] Accordingly, the appeal is allowed.
+Signed at Ottawa, Canada, this 31st day of March, 2005.
+"A.A. Sarchuk"
+Sarchuk J.
+CITATION:
+2005TCC90
+COURT FILE NO.:
+2004-1827(IT)I
+STYLE OF CAUSE:
+Janusz J. Bujnowski and
+Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+October 6, 2004 and January 10, 2005
+AMENDED REASONS FOR JUDGMENT BY:
+The Honourable Justice A.A. Sarchuk
+DATE OF AMENDED JUDGMENT:
+March 31, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Annie Paré
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit R-1, Tabs 1 and 3.
+[2] Exhibits A-13 and A-14.

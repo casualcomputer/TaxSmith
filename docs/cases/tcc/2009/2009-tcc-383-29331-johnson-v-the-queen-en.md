@@ -1,0 +1,182 @@
+---
+title: "Johnson v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29331/index.do"
+last_modified: "2009-08-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 383"
+citation2: ""
+neutral_citation: "2009 TCC 383"
+decision_date: "2009-08-04"
+language: "en"
+item_id: "29331"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7070
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:04:54.172000+00:00"
+cases_cited_count: 2
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c86d0fcef5b48cf7ccdca209ced1096b9e81ad1a828f74f2f8f15f5fb6864f07"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Johnson v. The Queen
+
+- Citation: 2009 TCC 383
+- Decision date: 2009-08-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7070, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Johnson v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-08-04
+Neutral citation
+2009 TCC 383
+File numbers
+2008-3557(IT)I
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-3557(IT)I
+BETWEEN:
+KATHLEEN JOHNSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 26, 2009, at Halifax, Nova Scotia
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Melanie Petrunia
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed, with costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the losses realized by the Appellant in 2005 from her farming business are not subject to the restrictions contained in section 31 of the Income Tax Act.
+It is further ordered that the filing fee of $100 be refunded to the Appellant.
+Signed at Halifax, Nova Scotia, this 4th day of August 2009.
+“Wyman W. Webb”
+Webb, J.
+Citation: 2009TCC383
+Date: 20090804
+Docket: 2008-3557(IT)I
+BETWEEN:
+KATHLEEN JOHNSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb, J.
+[1] The issue in this Appeal is whether the losses incurred by the Appellant in carrying on her farming business in 2005 are subject to the restrictions contained in section 31 of the Income Tax Act.
+[2] The Appellant grew up on a farm located near Truro, Nova Scotia. Her father was a beef farmer. He worked hard and struggled to make a living. Unfortunately her family was unable to keep the farm and her mother had to sell it.
+[3] The Appellant attended the Nova Scotia Agricultural College in Truro and received a diploma in agricultural engineering. She later obtained her engineering degree.
+[4] She had always wanted to farm. She and her spouse purchased a 110 acre farm property in 1997 near Denmark, Nova Scotia. The property required a significant amount of work as it had not been farmed for 15 to 20 years before they acquired it.
+[5] In 2005 the Appellant’s farming business generated revenue from the sale of goat milk soap, beef and lamb. The Appellant also indicated that she raised free range turkeys. The beef herd was small as she only had 5 head of cattle in 2005. The herd has now grown to 15 head of cattle.
+[6] Her husband did not participate in farming to the same extent as the Appellant. He would work in the forestry part of the business on a seasonal basis. After the Appellant’s son died in 2004, her spouse lost interest in working on the farm and the Appellant did all of the work herself. In the earlier years she would allocate a portion of the loss to him based on the work he did in the forestry part of the business.
+[7] The Appellant worked off the farm for the Province of Nova Scotia. In 2002 the Appellant became a full time employee as an engineer. Prior to that time she worked as an inspector.
+[8] The Appellant worked at an office in New Glasgow, Nova Scotia. Prior to driving to work in the mornings she would spend approximately one hour doing chores on the farm which would include feeding the animals and making sure that they had water. On the way to her work she would make deliveries to customers. On lunch breaks she would run errands in relation to the farm business. In the evenings after she returned home, she would also work on the farm.
+[9] She was the only one involved in the soap making operation. It would take 4 to 5 hours to make one batch of soap and she would make soap one day per week.
+[10] She arranged her working time with the Province so that she would have every second Friday off. She would spend these Fridays working on the farm. She also spent her weekends and vacation time working on the farm. It is her estimate that she would spend 38 to 52 hours per week working on the farm. Using the low number of 38, this would mean that she would spend at least 1,976 hours per year working on the farm. This would mean that she spent more hours working on the farm than she did working for the Province. Her total employment hours per year would be approximately 1,715 hours.
+[11] She continually invested in the farm. She was buying new equipment and animals and fixing the buildings. The income from her employment was being used to invest in the farm.
+[12] Her intentions are clearly to make a profit and hopefully some day to be able to live off the income that the farm will generate. She has a long family history of farming.
+[13] In Moldowan v. The Queen [1978] 1 S.C.R. 480, Justice Dickson stated that:
+13. Whether a source of income is a taxpayer "chief source" of income is both a relative and objective test. It is decidedly not a pure quantum measurement. A man who has farmed all of his life does not cease to have his chief source income from farming because he unexpectedly wins a lottery. The distinguishing features "chief source" are the taxpayer's reasonable expectation of income from his various revenue sources and his ordinary mode and habit of work. These may be tested by considering, inter alia relation to a source of income, the time spent, the capital committed, the profitability both actual and potential. A change in the taxpayer's mode and habit of work or reasonable expectations may signify a change in the chief source, but that is question of fact in the circumstances.
+…
+15 It is clear that "combination" in s. 13 cannot mean simple addition of two sources of income for any taxpayer. That would lead to the result that a taxpayer could combine his farming loss with his most important other source of income, thereby constituting his chief source. I do not think s. 13(1) can be properly so construed. Such a construction would mean that the limitation of the section would never apply and, in every case, the taxpayer could deduct the full amount of farming losses.
+16 In my opinion, the Income Tax Act as a whole envisages three classes of farmers:
+(1) a taxpayer, for whom farming may reasonably be expected to provide the bulk of income or the centre of work routine. Such a taxpayer, who looks to farming for his livelihood, is free of the limitation of s. 13(1) in those years in which he sustains a farming loss.
+(2) the taxpayer who does not look to farming, or to farming and some subordinate source of income, for his livelihood but carries on farming as a sideline business. Such a taxpayer is entitled to the deductions spelled out in s. 13(1) in respect of farming losses.
+(3) the taxpayer who does not look to farming, or to farming and some subordinate source of income, for his livelihood and who carries on some farming activities as a hobby. The losses sustained by such a taxpayer on his non-business farming are not deductible in any amount.
+17 The reference in s. 13(1) to a taxpayer whose source of income is a combination of farming and some other source of income is a reference to class (1). It contemplates a man whose major preoccupation is farming. But it recognizes that such a man may have other pecuniary interests as well, such as income from investments, or income from a sideline employment or business. The section provides that these subsidiary interests will not place the taxpayer in class (2) and thereby limit the deductibility of any loss which may be suffered to $5,000. While a quantum measurement of farming income is relevant, it is not alone decisive. The test is again both relative and objective, and one may employ the criteria indicative of "chief source" to distinguish whether or not the interest is auxiliary. A man who has farmed all of his life does not become disentitled to class (1) classification simply because he comes into an inheritance. On the other hand, a man who changes occupational direction and commits his energies and capital to farming as a main expectation of income is not disentitled to deduct the full impact of start-up costs.
+[14] The Respondent in this case emphasized the case of Bhagwandin v. The Queen 2001 DTC 357, [2001] 2 C.T.C. 2527. In that case Justice Lamarre, relying on the decision of the Federal Court of Appeal in The Queen v. Donnelly 97 DTC 5499, [1998] 1 C.T.C. 23, held that the losses were restricted for the taxpayer’s small farming operation that could not be operated profitably at the level he was operating it at.
+[15] However, the decisions in Bhagwandin and Donnelly were both rendered before the decision of the Federal Court of Appeal in Gunn v. The Queen 2006 DTC 6544, [2006] 5 C.T.C. 191. In Gunn, Justice Sharlow completed a thorough review of section 31 and in particular the “combination question” referred to in Moldowan. The combination question arises because section 31 refers to:
+31. (1) Where a taxpayer's chief source of income for a taxation year is neither farming nor a combination of farming and some other source of income, for the purposes of sections 3 and 111 the taxpayer's loss, if any, for the year from all farming businesses carried on by the taxpayer shall be deemed to be the total of
+(emphasis added)
+[16] In Gunn, Justice Sharlow stated as follows:
+82 This caution should not preclude the application of the Johns-Manville principle in relation to the combination question in section 31 of the Income Tax Act, because that aspect of section 31 is not “reasonably clear”. It is capable of bearing the meaning that Justice Dickson gave it in Moldowan, in which the combination question must be answered in the negative unless farming predominates as a source of income. However, the combination question is also capable of bearing a more straightforward meaning, in which it is not necessary for the farmer to propose a combination of sources of income in which farming predominates.
+83 In my view, the combination question should be interpreted to require only an examination of the cumulative effect of the aggregate of the capital invested in farming and a second source of income, the aggregate of the income derived from farming and a second source of income, and the aggregate of the time spent on farming and on the second source of income, considered in the light of the taxpayer's ordinary mode of living, farming history, and future intentions and expectations. This would avoid the judge-made test that requires farming to be the predominant element in the combination of farming with the second source of income, which in my view is a test that cannot stand with subsequent jurisprudence. It would result in a positive answer to the combination question if, for example, the taxpayer has invested significant capital in a farming enterprise, the taxpayer spends virtually all of his or her working time on a combination of farming and the other principal income earning activity, and the taxpayer's day to day activities are a combination of farming and the other income earning activity, in which the time spent in each is significant.
+(emphasis added)
+[17] The decision of the Federal Court of Appeal in Gunn is binding on me. The principle of stare decisis is very clear. Justice Rothstein (as he then was) in Commissioner of Competition v. Superior Propane Inc. et al. (2003), 223 D.L.R. (4th) 55 described this principle as follows:
+[54] The principle of stare decisis is, of course, well known to lawyers and judges. Lower courts must follow the law as interpreted by a higher coordinate court. They cannot refuse to follow it: Re Canada Temperance Act; Re Constitutional Questions Act; Re Consolidated Rules of Practice, [1939] 4 D.L.R. 14 (Ont. C.A.) at 33, affirmed [1946] 2 D.L.R. 1 (P.C.); Woods Manufacturing Co. v. Canada (Attorney General), [1951] S.C.R. 504 at 515, [1951] 2 D.L.R. 465.
+[18] In this case the Appellant has invested significant capital in the farm. She invested what she could afford to invest and funded the investment from her employment earnings. The initial purchase of the farm represented an investment of $50,000 in the farm equipment and the farm property (excluding the house). She also subsequently acquired a tractor ($27,000), livestock, fencing, two trucks, and various pieces of machinery and equipment. The amount annually invested in the farm (which was determined using the biweekly payments for the tractor, the monthly payments for the Suzuki truck for two years and the bi-weekly payments for the Dodge truck) and her employment income were as follows:
+Year
+Amount Invested
+Employment Income
+Amount Invested as a Percentage of Employment Income
+1999
+$17,719
+$17,481
+101%
+2000
+$15,081
+$37,273
+40%
+2001
+$17,163
+$41,719
+41%
+2002
+$27,522
+$49,633
+55%
+2003
+$29,025
+$53,735
+54%
+2004
+$22,515
+$37,180
+61%
+2005
+$27,081
+$58,820
+46%
+[19] The amount invested in the farm was significant ranging from 40% of her employment income to 101% of her employment income. She spends virtually all of her working time on the farming activity and her job as an engineer. Her day to day activities are clearly a combination of farming and her employment and the time spent in each activity is significant.
+[20] As a result, the appeal is allowed, with costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the losses realized by the Appellant in 2005 from her farming business are not subject to the restrictions contained in section 31 of the Income Tax Act.
+Signed at Halifax, Nova Scotia, this 4th day of August 2009.
+“Wyman W. Webb”
+Webb, J.
+CITATION: 2009TCC383
+COURT FILE NO.: 2008-3557(IT)I
+STYLE OF CAUSE: KATHLEEN JOHNSON AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Halifax, Nova Scotia
+DATE OF HEARING: May 26, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: August 4, 2009
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Melanie Petrunia
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

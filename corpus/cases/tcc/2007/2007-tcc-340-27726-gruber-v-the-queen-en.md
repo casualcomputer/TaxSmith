@@ -1,0 +1,238 @@
+---
+title: "Gruber v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27726/index.do"
+last_modified: "2007-06-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 340"
+citation2: ""
+neutral_citation: "2007 TCC 340"
+decision_date: "2007-06-08"
+language: "en"
+item_id: "27726"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 477
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:02:25.675000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9bf7b9dccdcefe415f8505efbc2cab8ce923c20ecc97411cbef7ca74d32df675"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gruber v. The Queen
+
+- Citation: 2007 TCC 340
+- Decision date: 2007-06-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 477, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gruber v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-06-08
+Neutral citation
+2007 TCC 340
+File numbers
+2006-2351(IT)I
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-2351(IT)I
+BETWEEN:
+R.L. GRUBER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard together on common evidence with the appeal of
+Brenda Gruber (2006-2352(IT)I) on June 6, 2007
+at Kelowna, British Columbia
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Selena Sit
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2003 taxation year is allowed and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Saskatoon, Saskatchewan this 15th day of June, 2007.
+"D.W. Beaubier"
+Beaubier, J.
+Docket: 2006-2352(IT)I
+BETWEEN:
+BRENDA GRUBER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard together on common evidence with the appeal of
+R.L. Gruber (2006-2351(IT)I) on June 6, 2007
+at Kelowna, British Columbia
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+Agent for the Appellant:
+R.L. Gruber
+Counsel for the Respondent:
+Selena Sit
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2003 taxation year is allowed and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Saskatoon, Saskatchewan this 15th day of June, 2007.
+"D.W. Beaubier"
+Beaubier, J.
+Citation: 2007TCC340
+Date: 20070617
+Docket: 2006-2351(IT)I
+BETWEEN:
+R.L. GRUBER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2006-2352(IT)I
+AND BETWEEN:
+BRENDA GRUBER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Beaubier, J.
+[1] These appeals pursuant to the Informal Procedure were heard together on common evidence at Kelowna, British Columbia on June 6, 2007. The Appellants are husband and wife. Their claims are identical. Mr. Gruber was the only witness.
+[2] The particulars of the appeals are set out in the Reply to Mr. Gruber’s Notice of Appeal in paragraphs 3 to 12, inclusive. They read:
+3. In computing income for the 2003 taxation year, the Appellant reported gross rental income of $15,747.00 and a net rental loss of ($9,942.77);
+4. The Minister initially assessed the Appellant for the 2003 taxation year as filed by Notice dated May 20, 2004.
+5. By Notice dated September 29, 2005, the Minister reassessed the Appellant’s 2003 taxation year to reduce the rental loss from $9,942.77 to $2,937.92. The Minister denied the Appellant 50% of $4,109.07 claimed for maintenance and repair expenses and denied 50% of $9,900.65 claimed for renovation expenses by reclassifying these expense items as capital expenditures as detailed on the attached Schedule “A”.
+6. The Appellant objected to the reassessment by serving on the Minister a Notice of Objection received by the Minister on December 13, 2005.
+7. The Minister confirmed the September 29, 2005 reassessment on May 8, 2006.
+8. In reassessing tax for the Appellant’s 2003 taxation year, and in confirming the reassessment, the Minister assumed the same facts, as follows:
+a) during the 2003 taxation year, the Appellant owned a 50% interest in a condominium apartment (the “Property”) located at #2301 – 2140 Kuhio Avenue, Honolulu, Hawaii;
+b) the remaining 50% interest in the Property was owned by the Appellant’s spouse;
+c) the Appellant and his spouse made an offer to purchase the Property on November 4, 2002 and received legal ownership of the property on December 9, 2002;
+d) the Property was available for rent effective March 1, 2003 and the Appellant received rental income from the Property starting in March, 2003;
+e) the Appellant earned rental income of $15,747.00, before the allocation of his 50% share, as detailed on the attached Schedule “A”;
+f) the Appellant determined that 80% of all of the claimed expenses were incurred to earn the rental income;
+g) the Appellant claimed total rental expenses in the amount of $35,632.55, before the allocation of his 50% share, as described on the attached Schedule “A”;
+Maintenance and Repair Expenses
+h) the Appellant claimed total maintenance and repair expenses of $4,490.83 before the allocation of his 50% share, as detailed on the attached Schedule “A”;
+i) the Appellant incurred total maintenance and repair expenses in the amount of $381.76 before the allocation of his 50% share, as detailed on the attached Schedules “A” and “B”;
+j) the disallowed maintenance and repair expenses were incurred in the months of January and February, 2003 and were incurred to make the Property suitable to rent;
+k) the Appellant did not incur any additional maintenance and repair expenses, greater than the amount allowed by the Minister, in the 2003 taxation year for the purpose of gaining or producing rental income from the Property;
+l) the disallowed maintenance and repair expenses are capital expenditures and form part of the Class 1 assets for the 2003 taxation year;
+Renovation Expenses
+m) the Appellant claimed total renovation expenses of $9,900.65 before the allocation of his 50% share, as detailed on the attached Schedule “A”;
+n) the renovation expenses included new counter tops, a toilet, plumbing, keys, custom draperies and the removal of asbestos;
+o) the renovation expenses were incurred in the months of January and February, 2003 and were incurred to make the Property suitable to rent, as detailed on the attached Schedule “C”;
+p) the Appellant did not incur any additional renovation expenses, greater than the amount allowed by the Minister, in the 2003 taxation year for the purpose of gaining or producing rental income from the Property;
+q) the disallowed renovation expenses are capital expenditures and form part of the Class 1 assets in the 2003 taxation year.
+B. ISSUES TO BE DECIDED
+9. The issue is whether the Appellant is entitled to deduct maintenance and repair expenses and renovation expenses of $2,054.53 and $4,950.32, respectively, as current expenses in computing his rental income in the 2003 taxation year.
+C. STATUTORY PROVISIONS RELIED ON
+10. He relies on subsection 9(2) and paragraphs 18(1)(a), 18(1)(b) and 20(1)(a) of the Income Tax Act, R.S.C. 1985, c.1 (5th Supp.), as amended (the “Act”) and on subsections 1100(1), 1100(11) and 1100(14) of the Income Tax Regulations, C.R.C. c. 945, as amended (the “Regulations”).
+D. GROUNDS RELIED ON AND RELIEF SOUGHT
+11. He respectfully submits that in computing rental income in the 2003 taxation year, the Appellant is not entitled to deduct additional maintenance and repair expenses and additional renovation expenses, on the basis that:
+a) any additional maintenance and repair expenses beyond the allowed $381.76 were not current expenses as required by paragraph 18(1)(a) of the Act but were capital expenditures; and
+b) any additional renovation expenses were not current expenses as required by paragraph 18(1)(a) of the Act but were capital expenditures.
+12. He further submits that the Minister has properly determined that the maximum capital cost allowance that the Appellant was entitled to deduct for the 2003 taxation year in respect of Class 1 assets was nil, pursuant to paragraph 20(1)(a) of the Act and subsections 1100(11) and 1100(14) of the Regulations.
+[3] Assumptions 8(a) to (j), inclusive, and (m) to (q), inclusive, were confirmed by the evidence. Assumptions 8(k) and (j) are incorrect respecting the following items which are described in Schedule B to the Reply:
+Light
+$ 11.29
+Misc.
+4.72
+Vases
+14.15
+Light/dustpan
+15.96
+Upholstery
+30.34
+Decorations
+321.43
+Vacuum supplies
+239.75
+Blanket
+51.35
+Sheets/supplies
+199.18
+Cutlery
+33.66
+Lights
+4.78
+Desk lamp
+44.94
+Pillow
+19.23
+Pillow
+66.71
+Sheets
+115.96
+Sheets/towels
+95.40
+Kitchenware
+182.97
+Towels
+30.45
+Crock Pot
+62.63
+Mixer
+16.14
+Casserole set
+32.41
+Small appliances
+112.36
+Cookware
+121.26
+Alarm clock
+23.12
+Misc.
+40.07
+[4] These are allowed because they appear to be portable unattached items which are easily broken, stolen or lost by tenants and need constant replacing.
+[5] The remaining items in appeal are denied because they are items purchased and installed in the condominium which are of enduring benefit to make it rentable or, in the case of the ceiling and insulation removed, were renovations done to the condominium to make it rentable. Mr. Gruber testified that the condominium was not in rentable condition when it was purchased. The reconstruction and rehabilitation done by the Grubers and their contractors from the date of purchase until March were done to the capital of the condominium as permanent improvements to enable it to be rented.
+[6] For these reasons, the appeal is allowed respecting the items described in paragraph [3] herein.
+Signed at Saskatoon, Saskatchewan this 15th day of June, 2007.
+"D.W. Beaubier"
+Beaubier, J.
+CITATION: 2007TCC340
+COURT FILE NO.: 2006-2351(IT)I and 2006-2352(IT)I
+STYLE OF CAUSE: R.L. Gruber and Brenda Gruber v.
+The Queen
+PLACE OF HEARING: Kelowna, British Columbia
+DATE OF HEARING: June 6, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice D.W. Beaubier
+DATE OF JUDGMENT: June 15, 2007
+APPEARANCES:
+Agent for the Appellants:
+R.L. Gruber
+Counsel for the Respondent:
+Selena Sit
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

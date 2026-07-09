@@ -1,0 +1,467 @@
+Title: Yudelson v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29056/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-80-29056-yudelson-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-02-02
+
+# Yudelson v. The Queen
+
+- Citation: 2009 TCC 80
+- Decision date: 2009-02-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6816, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Yudelson v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-02-02
+Neutral citation
+2009 TCC 80
+File numbers
+2006-3052(IT)G
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-3052(IT)G
+BETWEEN:
+MARVYN YUDELSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on March 27, 2008, at Montreal, Quebec.
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Counsel for the Appellant:
+Aaron Rodgers
+Counsel for the Respondent:
+Susan Shaughnessy
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under subsections 147.3(10) and paragraph 56(1)(a) of the Income Tax Act for the 2001 taxation year, and under subsection 204.1(2.1) for the 2002, 2003 and 2004 taxation years are allowed, with costs, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 2nd day of February 2009.
+“Paul Bédard”
+Bédard J.
+Citation: 2009 TCC 80
+Date: 20090202
+Docket: 2006-3052(IT)G
+BETWEEN:
+MARVYN YUDELSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bédard J.
+[1] From May 1, 1973 until his retirement in July 2001, the Appellant was an employee of Den Packaging Corporation. At the time he retired, the Appellant had accumulated 28.35 years of pensionable service. Den Packaging Corporation had established a registered pension plan called the Den Packaging Corporation Pension Plan (“Plan”) to provide “equal periodic payments after retirement and until death to [its] executive employees”. The Appellant was the sole member of the Plan. Section 9.1(a) of the Plan provides that the Appellant was to receive, upon retirement, an annual pension equal to 2.0% of the average of his highest three consecutive years of earnings, multiplied by [his] years of credited service. Section 9.3 of the Plan limits the amount of the Appellant’s pension to the amount calculated under section 9.3(a) of the Plan. Section 9.2(a) of the Plan provides that in the event that the Appellant’s pension were to be purchased from an underwriter at the date of his retirement, the “annual pension to be provided to [him] under Section 9.1 of the Plan shall be increased on an annual basis, such increase to be an annual percentage rate which shall not exceed the lesser of: (i) anticipated annual percentage increases in the Consumer Price Index of Canada (CPI), or (ii) 4.0%”. The benefits under the Plan, as set out in section 9.1(a) are basically 2% of the average of the highest three consecutive years of earnings multiplied by the number of years of service. Where the pension is purchased from an underwriter, section 9.2(a) calls for the benefits to be increased each year by the lesser of the CPI or 4%. The plan then provides as follows:
+The amounts used to provide this annual increase in pension, if any, shall be equal to the Accumulated Value of the Member’s Employer Account calculated at the Member’s date of retirement minus the Commuted Value of the Member’s pension, as determined in accordance with section 9.1 of the Plan, calculated at the Member’s date of retirement.
+The Appellant was born on September 5, 1935. He retired in July 2001, before his 66th birthday. A valuation for the purpose of the wind up Report was prepared on August 31, 2001. It was prepared by Mr. Fred Thompson, an actuary, who testified at the hearing. The accrued pension before indexation was determined to be $52,934.12. The Plan was valued at $681,900. The cost of an annuity to provide $52,934.12 per year was $571,770, leaving $110,130 available to fund the indexing provision. Ultimately, $572,316.20 was required to purchase an annuity. The balance of $108,886.04 was transferred into a registered retirement savings plan (RRSP) with a view to providing for the indexing benefits. This second transfer was made on September 5, 2001, after annuity payments had begun. On July 31, 2001, the Plan custodian, Great West Life, transferred the amount of $572,316.20 to Canada Life, whereupon Canada Life purchased an annuity in the amount of $52,934.12. The amount of $572,316.20 did not represent the entire value of the Appellant’s pension as it did not take into account the value of the indexing rights. On the same day, Canada Life filed a T2037 form notifying the Respondent of the purchase of an annuity with the funds from the Plan. The Plan was wound up on August 31, 2001. The first annuity payment was made on September 1, 2001. On September 5, 2001, the balance of the Plan, representing an amount of $108,886.04, was transferred to the Appellant’s RRSP with Canada Life. This additional amount was calculated under section 9.2(a) of the Plan and was considered by the Appellant to represent the value of the indexing rights attached to the Plan.
+[2] The Appellant was reassessed for his 2001 taxation year pursuant to subsection 147.3(10) and paragraph 56(1)(a) of the Income Tax Act (ITA). The reassessment included in his income an amount of $108,886.04 which was transferred to his RRSP on the winding-up of the Plan. The Minister of National Revenue (the “Minister”) considered that this transfer exceeded the prescribed amount which could be transferred from his registered pension plan (“RPP”) to his RRSP without immediate tax consequences pursuant to subsection 147.3(4)(c) of the ITA and paragraph 8517(1) of the Income Tax Regulations (the “Regulations”).
+[3] In addition, for his 2002, 2003 and 2004 taxation years, the Appellant was assessed pursuant to Part X.1 of the ITA with respect to the cumulative excess amount remaining in his RRSP as a result of the transfer, and was assessed late filing penalties with respect to T1-OVP Individual Income Tax Returns which he neglected to file after having been requested by the Minister to do so.
+Issues
+[4] The Court is being asked to decide whether the transfer of $108,886.04 exceeded the maximum amount which could be transferred from the Appellant’s RPP to his RRSP pursuant to subsection 147.3(4) of the ITA and subsection 8517(1) of the Regulations, which resulted in that amount being included in the Appellant’s income for the 2001 taxation year pursuant to subsection 147.3(10) and paragraph 56(1)(a) of the ITA.
+[5] The Court must also determine whether the transfer of the $108,886.04 to the Appellant’s RRSP resulted in the accumulation of an excess amount in his RRSP, thus justifying the assessment of tax pursuant to subsection 204.1(2.1) of the ITA for his 2002, 2003 and 2004 taxation years, and whether late filing penalties were correctly imposed with respect to the T1-OVP returns which the Appellant neglected to file. It is obvious that the validity of the 1% tax on the cumulative amount in the RRSP, as well as the late filing penalties, will depend entirely on the determination of the issue which gave rise to them.
+[6] The applicable legislation with respect to the transfer from the Appellant’s RPP to his RRSP is the following:
+8503(2)(m) of the Regulations
+Permissible Benefits
+(2) For the purposes of paragraph 8502(c), the following benefits may, subject to the conditions set out in respect of each benefit, be provided under a defined benefit provision of a pension plan:
+Commutation of benefits
+(m) the payment with respect to a member of a single amount in full or partial satisfaction of the member's entitlement to other benefits under the provision, where the single amount does not exceed the total of
+(i) the present value (at the particular time determined in accordance with subsection (2.1)) of
+(A) the other benefits that, as a consequence of the payment, cease to be provided, and
+(B) benefits, other than benefits referred to in clause (A), that it is reasonable to consider would cease to be provided as a consequence of the payment if
+(I) where retirement benefits have not commenced to be paid under the provision to the member at the particular time, the plan provided for the retirement benefits that accrued to the member under the provision to be adjusted to reflect the increase in a general measure of wages and salaries from the particular time to the day on which the benefits commence to be paid, and
+(II) the plan provided for periodic cost-of-living adjustments to be made to the retirement benefits payable under the provision to the member to reflect increases in the Consumer Price Index after the retirement benefits commence to be paid (other than increases before the particular time), and
+(ii) interest (computed at a reasonable rate) from the particular time to the time the single amount is paid; and
+. . .
+147.3(4) of the ITA
+(4) Transfer ¾ defined benefit to money purchase, RRSP or RRIF ¾ An amount is transferred from a registered pension plan in accordance with this subsection if the amount
+(a) is a single amount no portion of which relates to an actuarial surplus;
+(b) is transferred on behalf of a member in full or partial satisfaction of benefits to which the member is entitled, either absolutely or contingently, under a defined benefit provision of the plan as registered;
+(c) does not exceed a prescribed amount; and
+(d) is transferred directly to
+(i) another registered pension plan and allocated to the member under a money purchase provision of that plan,
+(ii) a registered retirement savings plan under which the member is the annuitant (within the meaning assigned by subsection 146(1)), or
+(iii) a registered retirement income fund under which the member is the annuitant (within the meaning assigned by subsection 146.3(1)).
+8517 of the Regulations
+Transfer ¾ defined benefit to money purchase
+(1) Prescribed amount ¾ Subject to subsections (2) to (3.1), for the purpose of applying paragraph 147.3(4)(c) of the Act to the transfer of an amount on behalf of an individual in full or partial satisfaction of the individual's entitlement to benefits under a defined benefit provision of a registered pension plan, the prescribed amount is the amount that is determined by the formula
+A × B
+where
+A is the amount of the individual's lifetime retirement benefits under the provision commuted in connection with the transfer, as determined under subsection (4), and
+B is
+(a) the present value factor that corresponds to the age attained by the individual at the time of the transfer, determined pursuant to the table to this subsection, or
+(b) where the present value factor referred to in paragraph (a) is less than the present value factor that corresponds to the next higher age, the present value factor determined by interpolation between those two factors on the basis of the age (expressed in years, including any fraction of a year) of the individual.
+Attained Age
+Present Value
+Factor
+Attained Age
+Present Value
+Factor
+Under 50
+9.0
+73
+9.8
+50
+9.4
+74
+9.4
+51
+9.6
+75
+9.1
+52
+9.8
+76
+8.7
+53
+10.0
+77
+8.4
+54
+10.2
+78
+8.0
+55
+10.4
+79
+7.7
+56
+10.6
+80
+7.3
+57
+10.8
+81
+7.0
+58
+11.0
+82
+6.7
+59
+11.3
+83
+6.4
+60
+11.5
+84
+6.1
+61
+11.7
+85
+5.8
+62
+12.0
+86
+5.5
+63
+12.2
+87
+5.2
+64
+12.4
+88
+4.9
+65
+12.4
+89
+4.7
+66
+12.0
+90
+4.4
+67
+11.7
+91
+4.2
+68
+11.3
+92
+3.9
+69
+11.0
+93
+3.7
+70
+10.6
+94
+3.5
+71
+10.3
+95
+3.2
+72
+10.1
+96 or over
+3.0
+(2) Minimum prescribed amount ¾ Where an amount is transferred in full satisfaction of an individual's entitlement to benefits under a defined benefit provision of a registered pension plan, the prescribed amount for the purposes of paragraph 147.3(4)(c) of the Act in respect of the transfer is the greater of the amount that would, but for this subsection, be the prescribed amount, and the balance, at the time of the transfer, in the member's net contribution account (within the meaning assigned by subsection 8503(1)) in relation to the provision.
+. . .
+(4) Amount of lifetime retirement benefits commuted ¾ For the purposes of subsection (1), and subject to subsection (7), the amount of an individual's lifetime retirement benefits under a defined benefit provision of a registered pension plan commuted in connection with the transfer of an amount on behalf of the individual in full or partial satisfaction of the individual's entitlement to benefits under the provision is the aggregate of
+(a) where retirement benefits have commenced to be paid under the provision to the individual, the amount (expressed on an annualized basis) by which the individual's lifetime retirement benefits under the provision are reduced as a result of the transfer,
+(b) where retirement benefits have not commenced to be paid under the provision to the individual, the amount (expressed on an annualized basis) by which the individual's normalized pension (computed in accordance with subsection (5)) under the provision at the time of the transfer is reduced as a result of the transfer, and
+(c) where, in conjunction with the transfer, any other payment (other than an amount that is transferred in accordance with subsection 147.3(5) of the Act or that is transferred after 1991 in accordance with subsection 147.3(3) of the Act) is made from the plan in partial satisfaction of the individual's entitlement to benefits under the provision, the amount (expressed on an annualized basis) by which
+(i) if paragraph (a) is applicable, the individual's lifetime retirement benefits under the provision are reduced, and
+(ii) if paragraph (b) is applicable, the individual's normalized pension (computed in accordance with subsection (5)) under the provision at the time of the payment is reduced,
+as a result of the payment, except to the extent that such reduction is included in determining, for the purposes of subsection (1), the amount of the individual's lifetime retirement benefits under the provision commuted in connection with the transfer of another amount on behalf of the individual.
+(5) Normalized pensions ¾ For the purposes of subsection (4), the normalized pension of an individual under a defined benefit provision of a registered pension plan at a particular time is the amount (expressed on an annualized basis) of lifetime retirement benefits that would be payable under the provision at the particular time if
+(a) lifetime retirement benefits commenced to be paid to the individual at the particular time;
+(b) where the individual has not attained 65 years of age before the particular time, the individual attained that age at the particular time;
+(c) all benefits to which the individual is entitled under the provision were fully vested;
+(d) where the amount of the individual's lifetime retirement benefits would otherwise be determined with a reduction computed by reference to the individual's age, duration of service, or both, or with any other similar reduction, no such reduction were applied;
+(e) where the amount of the individual's lifetime retirement benefits depends on the amount of benefits provided under another benefit provision of the plan or under another plan or arrangement, a reasonable estimate were made of those other benefits;
+(f) where the individual's lifetime retirement benefits would otherwise include benefits that the plan is required to provide by reason of a designated provision of the law of Canada or a province, or that the plan would be required to provide if each such provision were applicable to the plan with respect to all its members, such benefits were not included; and
+(g) except as otherwise provided by subsection (6), where the amount of the individual's lifetime retirement benefits depends on
+(i) the form of benefits provided with respect to the individual under the provision (whether or not at the option of the individual), including
+(A) the benefits to be provided after the death of the individual,
+(B) the amount of retirement benefits, other than lifetime retirement benefits, provided to the individual, or
+(C) the extent to which the lifetime retirement benefits will be adjusted to reflect changes in the cost of living, or
+(ii) circumstances that are relevant in determining the form of benefits,
+the form of benefits and the circumstances were such as to maximize the amount of the individual's lifetime retirement benefits on commencement of payment.
+Regulations
+8500. Interpretation
+(1) [Definitions] ¾ In this Part,
+"active member" of a pension plan in a calendar year means a member of the plan to whom benefits accrue under a defined benefit provision of the plan in respect of all or any portion of the year or who makes contributions, or on whose behalf contributions are made, in relation to the year under a money purchase provision of the plan;
+"average Consumer Price Index" for a calendar year means the amount obtained by dividing by 12 the aggregate of all amounts each of which is the Consumer Price Index for a month in the 12-month period ending on September 30 of the immediately preceding calendar year;
+"beneficiary" of an individual means a person who has a right, by virtue of the participation of the individual in a pension plan, to receive benefits under the plan after the death of the individual;
+"benefit provision" of a pension plan means a money purchase or defined benefit provision of the plan;
+"bridging benefits" provided to a member under a benefit provision of a pension plan means retirement benefits payable to the member under the provision for a period ending no later than on a date determinable at the time the benefits commence to be paid;
+"Consumer Price Index" for a month means the Consumer Price Index for the month as published by Statistics Canada under the authority of the Statistics Act;
+"defined benefit limit" for a calendar year means the greater of
+(a) $1,722.22, and
+(b) 1/9 of the money purchase limit for the year;
+"dependant" of an individual at the time of the individual's death means a parent, grandparent, brother, sister, child or grandchild of the individual who, at that time, is both dependent on the individual for support and
+(a) under 19 years of age and will not attain 19 years of age in the calendar year that includes that time,
+(b) in full-time attendance at an educational institution, or
+(c) dependent on the individual by reason of mental or physical infirmity;
+"designated plan" has the meaning assigned by section 8515;
+"disabled" means, in relation to an individual, suffering from a physical or mental impairment that prevents the individual from performing the duties of the employment in which the individual was engaged before the commencement of the impairment;
+"eligible period of reduced pay" of an employee with respect to an employer means a period (other than a period in which the employee is, at any time after 1990, connected with the employer or a period any part of which is a period of disability of the employee)
+(a) that begins after the employee has been employed by the employer or predecessor employers to the employer for not less than 36 months,
+(b) throughout which the employee renders services to the employer, and
+(c) throughout which the remuneration received by the employee from the employer is less than the remuneration that it is reasonable to expect the employee would have received from the employer had the employee rendered services throughout the period on a regular basis (having regard to the services rendered by the employee to the employer before the period) and had the employee's rate of remuneration been commensurate with the employee's rate of remuneration before the period;
+"eligible period of temporary absence" of an individual with respect to an employer means a period throughout which the individual does not render services to the employer by reason of leave of absence, layoff, strike, lock-out or any other circumstance acceptable to the Minister, other than a period
+(a) a part of which is a period of disability of the individual, or
+(b) in which the individual is, at any time after 1990, connected with the employer;
+"eligible survivor benefit period" in relation to a person who is a dependant of an individual at the time of the individual's death, means the period beginning on the day of death of the individual and ending on the latest of
+(a) where the dependant is under 19 years of age throughout the calendar year that includes the day of death of the individual, the earlier of
+(i) December 31 of the calendar year in which the dependant attains 18 years of age, and
+(ii) the day of death of the dependant,
+(b) where the dependant is in full-time attendance at an educational institution on the later of the day of death of the individual and December 31 of the calendar year in which the dependant attains 18 years of age, the day on which the dependant ceases to be in full-time attendance at an educational institution, and
+(c) where the dependant is dependent on the individual at the time of the individual's death by reason of mental or physical infirmity, the day on which the dependant ceases to be infirm or, if there is no such day, the day of death of the dependant;
+"existing plan" means a pension plan that was a registered pension plan on March 27, 1988 or in respect of which an application for registration was made to the Minister before March 28, 1988, and includes a pension plan that was established before March 28, 1988 pursuant to an Act of Parliament that deems member contributions to be contributions to a registered pension plan;
+"forfeited amount" under a money purchase provision of a pension plan means an amount to which a member of the plan has ceased to have any rights, other than the portion thereof, if any, that is payable
+(a) to a beneficiary of the member as a consequence of the member's death, or
+(b) to a spouse or common-law partner or former spouse or common-law partner of the member as a consequence of the breakdown of their marriage or common-law partnership;
+"grandfathered plan" means
+(a) an existing plan that, on March 27, 1988, contained a defined benefit provision, or
+(b) a pension plan that was established to provide benefits under a defined benefit provision to one or more individuals in lieu of benefits to which the individuals were entitled under a defined benefit provision of a pension plan that was a grandfathered plan, whether or not benefits are also provided to other individuals;
+"lifetime retirement benefits" provided to a member under a benefit provision of a pension plan means
+(a) retirement benefits provided to the member under the provision that, after they commence to be paid, are payable to the member until the member's death, unless the benefits are commuted or payment of the benefits is suspended, and
+(b) for greater certainty, retirement benefits provided to the member under the provision in accordance with paragraph 8506(1)(e.1);
+"multi-employer plan" in a calendar year means
+(a) a pension plan in respect of which it is reasonable to expect, at the beginning of the year (or at the time in the year when the plan is established, if later), that at no time in the year will more than 95 per cent of the active members of the plan be employed by a single participating employer or by a related group of participating employers, other than a plan where it is reasonable to consider that one of the main reasons there is more than one employer participating in the plan is to obtain the benefit of any of the provisions of the Act or these regulations that are applicable only in respect of multi-employer plans, or
+(b) a pension plan that is, in the year, a specified multi-employer plan;
+and, for the purposes of this definition, two corporations that are related to each other solely by reason that they are both controlled by Her Majesty in right of Canada or a province shall be deemed not to be related persons;
+"pensionable service" of a member of a pension plan under a defined benefit provision of the plan means the periods in respect of which lifetime retirement benefits are provided to the member under the provision;
+"period of disability" of an individual means a period throughout which the individual is disabled;
+"predecessor employer" means, in relation to a particular employer, an employer (in this definition referred to as the "vendor") who has sold, assigned or otherwise disposed of all or part of the vendor's business or undertaking or all or part of the assets of the vendor's business or undertaking to the particular employer or to another employer who, at any time after the sale, assignment or other disposition, becomes a predecessor employer in relation to the particular employer, where one or more employees of the vendor have, in conjunction with the sale, assignment or disposition, become employees of the employer acquiring the business, undertaking or assets;
+"public pension benefits" means amounts payable on a periodic basis under the Canada Pension Plan, a provincial pension plan as defined in section 3 of the Canada Pension Plan, or Part I of the Old Age Security Act, but does not include disability, death or survivor benefits provided under those Acts;
+"public safety occupation" means the occupation of
+(a) firefighter,
+(b) police officer,
+(c) corrections officer,
+(d) air traffic controller,
+(e) commercial airline pilot, or
+(f) paramedic;
+"retirement benefits" provided to an individual under a benefit provision of a pension plan means benefits provided to the individual under the provision that are payable on a periodic basis;
+"surplus" under a money purchase provision of a pension plan at any time means such portion, if any, of the amount held at that time in respect of the provision as has not been allocated to members and is not reasonably attributable to
+(a) forfeited amounts under the provision or earnings of the plan that are reasonably attributable to those amounts,
+(b) contributions made under the provision by an employer that will be allocated to members as part of the regular allocation of such contributions, or
+(c) earnings of the plan (other than earnings that are reasonably attributable to the surplus under the provision before that time) that will be allocated to members as part of the regular allocation of such earnings;
+"totally and permanently disabled" means, in relation to an individual, suffering from a physical or mental impairment that prevents the individual from engaging in any employment for which the individual is reasonably suited by virtue of the individual's education, training or experience and that can reasonably be expected to last for the remainder of the individual's lifetime;
+"Year's Maximum Pensionable Earnings" for a calendar year has the meaning assigned by section 18 of the Canada Pension Plan.
+(1.1) [Application of "surplus"] ¾ The definition "surplus" in subsection (1) applies for the purpose of subsection 147.3(7.1) of the Act.
+8503(2)(a) of the Regulations
+. . .
+(2) Permissible benefits ¾ For the purposes of paragraph 8502(c), the following benefits may, subject to the conditions set out in respect of each benefit, be provided under a defined benefit provision of a pension plan:
+(a) Lifetime retirement benefits ¾ lifetime retirement benefits provided to a member where the benefits are payable in equal periodic amounts, or are not so payable only by reason that
+(i) the benefits payable to a member after the death of the member's spouse or common-law partner are less than the benefits that would be payable to the member were the member's spouse or common-law partner alive,
+(ii) the plan provides for periodic cost-of-living adjustments to be made to the benefits, where the adjustments
+(A) are determined in such a manner that they do not exceed cost-of-living adjustments warranted by increases in the Consumer Price Index after the benefits commence to be paid,
+(B) consist of periodic increases at a rate not exceeding 4 per cent per annum after the time the benefits commence to be paid,
+(C) are based on the rates of return on a specified pool of assets after the benefits commence to be paid, or
+(D) consist of any combination of adjustments described in clauses (A) to (C),
+and, in the case of adjustments described in clauses (C) and (D), the present value (at the time the member's benefits commence to be paid) of additional benefits that can reasonably be expected to be paid as a consequence of the adjustments does not exceed the greater of
+(E) the present value (at the time the member's benefits commence to be paid) of additional benefits that could reasonably be expected to be paid as a consequence of adjustments warranted by increases in the Consumer Price Index after the member's benefits commence to be paid, and
+(F) the present value (at the time the member's benefits commence to be paid) of additional benefits that would be paid as a consequence of adjustments at a fixed rate of 4 per cent per annum after the time the member's benefits commence to be paid,
+(iii) where the plan does not provide for periodic cost-of-living adjustments to be made to the benefits, or provides only for such adjustments as are described in clause (ii)(A) or (B), the plan provides for cost-of-living adjustments to be made to the benefits from time to time at the discretion of any person, where the adjustments, together with periodic cost-of-living adjustments, if any, are warranted by increases in the Consumer Price Index after the benefits commence to be paid,
+(iv) the amount of the benefits is increased as a consequence of additional lifetime retirement benefits becoming provided to the member under the provision,
+(v) the amount of the benefits is determined with a reduction computed by reference to the member's age, duration of service, or both (or with any other similar reduction), and the amount is subsequently adjusted to reduce or eliminate the portion, if any, of the reduction that is not required for the benefits to comply with the conditions in paragraph (3)(c),
+(vi) the amount of the benefits is determined with a reduction computed by reference to the following benefits and the amount is subsequently adjusted to reduce or eliminate the reduction:
+(A) disability benefits to which the member is entitled under the Canada Pension Plan or a provincial pension plan as defined in section 3 of that Act,
+(B) benefits to which the member is entitled under an employees' or workers' compensation law of Canada or a province in respect of an injury or disability, or
+(C) benefits to which the member is entitled pursuant to a sickness or accident insurance plan or a disability insurance plan,
+(vii) the amount of the benefits is determined with a reduction computed by reference to other benefits provided under the provision in respect of the member that are permissible under paragraph (c), (d), (k) or (n), and the amount is subsequently adjusted to reduce or eliminate the reduction,
+(viii) the amount of the benefits is reduced as a consequence of benefits that are permissible under paragraph (c), (d), (k) or (n) becoming provided under the provision in respect of the member,
+(ix) the amount of the benefits payable to the member while the member is in receipt of remuneration from a participating employer is less than the amount of the benefits that would otherwise be payable to the member if the member were not in receipt of the remuneration, or
+(x) the amount of the benefits is adjusted in accordance with plan terms that were submitted to the Minister before April 19, 2000, where the benefits have commenced to be paid before 2003 and the adjustment is approved by the Minister;
+. . .
+8504(1)(a)(i) of the Regulations
+(i) the aggregate of all amounts each of which is, in respect of a calendar year after 1990 (in this paragraph referred to as a "specified year") in which the member was, at any time, connected with an employer who participated in the plan in the year for the benefit of the member, the lesser of
+(A) the amount determined by the formula
+.02 × A × B/C
+where
+A is the aggregate of all amounts each of which is the member's compensation for the specified year from an employer who participated under the provision in the year for the benefit of the member,
+B is the greatest of all amounts each of which is the average wage for a calendar year not before the specified year and not after the year of commencement, and
+C is the average wage for the specified year, and
+(B) the amount determined by the formula
+D × E
+where
+D is the defined benefit limit for the year of commencement, and
+E is the fraction of the specified year that is pensionable service of the member under the provision, and
+. . .
+147.4(1) of the ITA
+(1) RPP annuity contract ¾ Where
+(a) at any time an individual acquires, in full or partial satisfaction of the individual's entitlement to benefits under a registered pension plan, an interest in an annuity contract purchased from a licensed annuities provider,
+(b) the rights provided for under the contract are not materially different from those provided for under the plan as registered,
+(c) the contract does not permit premiums to be paid at or after that time, other than a premium paid at that time out of or under the plan to purchase the contract,
+(d) either the plan is not a plan in respect of which the Minister may, under subsection 147.1(11), give a notice of intent to revoke the registration of the plan or the Minister waives the application of this paragraph with respect to the contract and so notifies the administrator of the plan in writing, and
+(e) the individual does not acquire the interest as a consequence of a transfer of property from the plan to a registered retirement savings plan or a registered retirement income fund,
+the following rules apply for the purposes of this Act:
+(f) the individual is deemed not to have received an amount out of or under the registered pension plan as a consequence of acquiring the interest, and
+(g) other than for the purposes of sections 147.1 and 147.3, any amount received at or after that time by any individual under the contract is deemed to have been received under the registered pension plan.
+Mr. Thompson’s Testimony
+[7] Mr. Thompson, the Appellant’s actuary, testified that the commuted amount was equal to $19,565, which is the amount, on an annualized basis, by which the members lifetime retirement benefits (LRBs) under the provision (of the pension plan) have been reduced by virtue of the transfer of the indexation value to the RRSP. As explained by Mr. Thompson, the amount of indexation which can subsequently be transferred tax‑free to an RRSP is directly proportional to the LRBs given-up. He also explained that the flat amount of $19,565 represents the annualized amount of LRBs given up by the member upon the transfer of the indexation value remaining in his original pension plan and not initially expended for the purchase of the separate annuity. In order to arrive at the $19,565 figure, Mr. Thompson explained that he took the difference between an indexed pension fund and a non-indexed pension, $197,000, and converted it into LRBs. He added that these LRBs were then adjusted for the prescribed factors such as mortality and inflation and that this was then the maximum which could be transferred tax‑free to an RRSP. This, he explained, is the cost of indexing on an annualized basis. He finally stated that the plan allowed his client up to $197,000 of indexation value and therefore the transfer of $108,886 fell well within the limits set by the ITA.
+Respondent’s position
+[8] The Respondent’s position is reflected in his written submissions of which the following relevant parts are worth citing:
+18. We know that the appellant’s benefits had commenced to be paid not under a provision of the RPP, but rather under the annuity which he had purchased. Paragraph 147.4(1)(g) of the ITA specifically states that for the transfer rules in subsection 147.3 of the ITA, and thus for the calculation of the prescribed amount eligible for transfer to a RRSP, amounts received at or after the acquisition of an annuity contract are deemed not to have been received under the RPP. This provision reads as follows:
+147.4 (1) Where
+(a) at any time an individual acquires, in full or partial satisfaction of the individual’s entitlement to benefits under a registered pension plan, an interest in an annuity contract purchased from a licensed annuities provider,
+(b) the rights provided for under the contract are not materially different from those provided for under the plan as registered,
+(c) the contract does not permit premiums to be paid at or after that time, other than a premium paid at that time out of or under the plan to purchase the contract,
+(d) either the plan is not a plan in respect of which the Minister may, under subsection 147.1(11), give a notice of intent to revoke the registration of the plan or the Minister waives the application of this paragraph with respect to the contract and so notifies the administrator of the plan in writing, and
+(e) the individual does not acquire the interest as a consequence of a transfer of property from the plan to a registered retirement savings plan or a registered retirement income fund,
+the following rules apply for the purposes of this Act:
+(f) the individual is deemed not to have received an amount out of or under the registered pension plan as a consequence of acquiring the interest, and
+(g) other than for the purposes of sections 147.1 and 147.3, any amount received at or after that time by any individual under the contract is deemed to have been received under the registered pension plan.
+19. The appellant’s assertions at paragraph 28 of his arguments to the effect that benefits had commenced to be paid for the purposes of the calculation in Reg. 8517(4) are thus not accurate as the ITA has specifically dealt with benefits payable under annuity contracts at subsection 147.4(1) of the ITA to deem such benefits not to be considered received under the RPP for purposes of the transfer rules. This topic has been the subject of the Minister’s published positions in the past as follows:
+Question 2 - Paying indexing from a DB plan after annuity purchase
+Does the Income Tax Act (ITA) permit a defined benefit pension plan to provide lifetime retirement benefits (LRBs) by means of an annuity purchased from an insurance company and yet continue to pay to index those benefits from the registered pension plan (RPP)?
+Answer 2
+When an individual acquires an annuity in satisfaction of the individual's entitlement to benefits under a registered pension plan, the individual then becomes entitled to rights under the annuity contract. The Act allows pension plans to index a member's LRBs up to the change in the federal Consumer Price Index (CPI) in the years following pension commencement.
+When a member's LRBs are provided by purchasing an annuity, paragraph 147.4(1)(g) of the Act specifies that these amounts are not considered to be paid from the registered pension plan for purposes of the registration rules. Therefore, there would be no LRBs remaining in the plan following the annuity purchase, so there would be nothing left to index. Furthermore, there is no provision in the Act for an RPP to provide for an individual's benefits to be indexed while they are paid under an annuity contract.
+Furthermore, the flat rate 4% indexing provision permitted by paragraph 8503(2)(a) of the Income Tax Regulations (ITR) was specifically introduced by the Department of Finance to simplify the purchase of annuities for those individuals not restricted by the CPI maximum indexing provision as stipulated by paragraph 8504(1)(b) of the ITR.[1]
+20. However, whether one considers that the benefits had commenced to be paid or not, the result of the calculation under Reg. 8517(4) would, in all cases, be the same, that is, the amount of LRBs commuted as a result of the transfer to the appellant’s RRSP would be $0:
+• Paragraph 8517(4)(a) of the Regulations applies where the pension is in pay (from the plan or provision), and the member decides to have part or all of it commuted and transferred to an RRSP. Where that is the case, the amount used for "A" in the A x B formula of Reg. 8517(1) is simply the annual amount by which the pension payments are reduced as a result of the commutation and transfer. In the appellant’s case, as he continued to receive the full amount of his LRBs of $52,934 after the transfer, this amount is $0.
+• Paragraph 8517(4)(b) of the Regulations applies where the amount is commuted and transferred before the pension payments begin from the provision. Where that is the case, the normalized pension assumptions set out in subsection 8517(5) apply. The amount of LRBs commuted is the amount by which the normalized pension computed using the assumptions of subsection 8517(5) is reduced as a result of the transfer. Again, in the appellant’s case this amount is $0 as he continued receiving his LRBs of $52,934.
+• Paragraph 8517(4)(c) of the Regulations applies where, in conjunction with a transfer from an RPP on behalf of an individual, another payment is also made from the plan on behalf of the individual. This paragraph provides that the reduction in the individual’s LRBs or normalized pension, as the case may be, as a result of that other payment (the annuity payment in this case) is taken into account in determining the LRBs commuted in connection with the transfer. In the appellant’s case, the total LRB of $52,934 minus the payment out of the annuity of $52,934 is equal to $0.[2]
+21. Subsection 147.3(4) of the ITA limits the amount which an individual may transfer to a RRSP without immediate income tax consequences to the lesser of the commuted value or the prescribed amount calculated at Reg. 8517(1). That prescribed amount is equal to the annualized amount of the LRBs which were reduced as a result of the transfer multiplied by an age-related present value factor.
+22. The Minister has calculated this amount to be nil, as the appellant continued to receive the full amount of LRBs to which he was entitled after the transfer. As a result, the “A” factor in the formula at Reg. 8517(1) is $0 and the corresponding amount of LRBs given up and the “prescribed amount” is also “nil”. There is, therefore, no amount in the case at hand that can be transferred to the appellant’s RRSP tax free under the terms of subsection 147.3(4) of the ITA.
+Indexation of benefits
+23. Reg. 8503(2)(a)(ii) deals specifically with periodic cost of living adjustments and provides that these may be made to LRBs where the adjustments:
+(A) are determined in such a manner that they do not exceed cost-of-living adjustments warranted by increases in the Consumer Price Index after the benefits commence to be paid,
+(B) consist of periodic increases at a rate not exceeding 4 per cent per annum after the time the benefits commence to be paid,
+(C) are based on the rates of return on a specified pool of assets after the benefits commence to be paid, or
+(D) consist of any combination of adjustments described in clauses (A) to (C).[3]
+24. The appellant states at paragraph 45 of his arguments that Reg. 8503(2)(a) “excepted” the appellant’s indexation rights “from the requirement of equal periodic payment”. His argument, however, ignores the requirement that the increases in LRBs be “periodic”. Indexation is not in and of itself a LRB but rather an incremental increase to LRBs according to the terms of the Plan and the ITA. The appellant’s Plan limited this incremental increase to the rate which the Plan assets could provide for, calculated by Mr. Thompson in the wind-up report to be 2%, and further limited the indexation to the increases in the Consumer Price Index in accordance with Reg. 8504(1)(b).[4]
+25. As explained by Gilles Lalonde at the hearing, the definition of LRBs is calculated according to the terms of the Plan and excludes ancillary benefits such as indexation. In this case, that amount was calculated to be an amount of $52,934.[5]
+26. Mr. Lalonde also explained that the calculation of the LRBs reduced as a result of a transfer is done at a certain point in time for the purpose of Reg. 8517(1), that is, at the date of transfer.[6] Even if the appellant’s annuity had provided for indexation, the LRBs on September 5, 2001 would still have been $52,934 as indexation would not have applied until year two. As a result, there would be no reduction of LRBs as a result of the transfer of the remaining plan assets to his RRSP.
+27. Although pension laws may provide for a transfer, the Act must be complied with for income tax purposes as is illustrated by the following extract from an article appearing in the 1994 Canadian Tax Journal:
+The Income Tax Act provides different rules for the transfer of funds from an RPP to an RRSP or a RRIF depending on whether the RPP is a money purchase or a defined benefit plan. Subsection 147.3(1) allows transfers from money purchase plans without limit, provided only that the transfer is a direct plan-to-plan transfer so that it is not first received by the member and then redeposited; that it is a single amount and not a stream of payments; and that the pension plan member is the annuitant under the RRSP or RRIF. The prescribed Revenue Canada form is T2151, “Record of Direct Transfer of a ‘Single Amount’.”
+Subsection 147.3(4) requires that a transfer from a defined benefit plan to an RRSP or a RRIF meet all of the requirements listed above for transfers from money purchase plans. In addition, the amount eligible for transfer must not exceed the commencing (unindexed) pension entitlement earned to the date of transfer multiplied by the age-related factor set out in regulation 8517(1). Any excess amount transferred is included in the taxpayer's income in the year and is considered to be a premium paid by the taxpayer to an RRSP. To the extent that the taxpayer has RRSP deduction room, an offsetting deduction will be available.
+It is quite possible for the amount that the pension law requires to be transferred, as determined under the Canadian Institute of Actuaries' transfer value recommendations, to exceed the amount that can be transferred under tax law (particularly in the case of indexed pensions and early retirements with unreduced payments).[7]
+(our emphasis)
+28. While it was admitted that the Act would have provided for the use of the entire amount available in the Plan in an indexed annuity without immediate tax consequences, this is not what the appellant chose to do, and the Court must deal with what was actually done and not what could have been done.[8]
+29. The Act provides for a different set of rules for transfers from RPP’s to annuities and RRSP’s as they are very different instruments. An annuity provides for payment of a periodic amount over the lifetime of an annuitant and is set in stone, with no possibility of withdrawing more than that periodic amount at any time.
+30. Marcel Théroux of Mercer Human Resources Consulting provides some insight as to the purpose of these transfer rules:
+Transfers from RPP provisions to other RPP provisions or RRSP’s are restricted. The scheme of the ITA is to prevent the withdrawal from RPP’s of amounts in excess of the value of the benefits legitimately promised under the RPP’s. Another purpose of these rules is to prevent the reconfiguration of a DB benefit into a MP benefit that would provide a greater annuity amount than allowed under the exporting DB provision…
+…Transfer from DB provisions to MP provisions, RRSP’s and RRIF’s are similarly restricted to single amounts. No actuarial surplus may be transferred. In addition, the transferred amount cannot exceed a prescribed amount. This is best understood by means of an example.
+Suppose we have a member of an RPP who has earned a DB pension of $15,000 per year. The commuted value of that pension is $160,000. The member is 53 years of age and he asks that the $160,000 be transferred to his RRSP. The prescribed amount, a function of the member’s age, is a multiple of his lifetime retirement benefit. At age 53, the multiple is 10 and the prescribed amount is $150,000. The excess cannot be transferred on a tax exempt basis. If the $10,000 excess is transferred directly to a RRSP, it is deemed to have been paid from the RPP to the member and to have been contributed to the RRSP. To the extent that the individual has RRSP contribution room, the deemed contribution may be deducted, thereby offsetting the deemed income inclusion…
+…While the ITA need not give any justification for this rule, its policy origins lies in the PA system. It is considered objectionable to allow the $15,000 DB pension to be commuted to an RRSP that could permit a greater annuity amount to be paid. The RRSP balance of $160,000, assuming no prescribed amount mechanism, could be used to purchase an annuity greater than the $15,000 if, for example, certain ancillary benefits of the DB pension were removed. The ability to “strip” ancillaries is restricted by means of the prescribed amount.[9] (our underlining)
+31. In the case at hand, the appellant has attempted to “strip” the ancillary benefit of indexation which was meant to have provided for increased periodic pension payments in years two and following, until the appellant’s death. As Mr. Thompson had determined that the plan assets could not provide for indexation at a rate greater than 2%, and indexation was capped under the terms of the Plan at the amount the assets could provide, the appellant chose to remove the funds available for indexation from the Plan and transfer this amount to his RRSP where he felt he could obtain a better return.[10] Unfortunately, this contravened the terms of subsection 147.3(4) of the Act.
+32. As mentioned in the Canadian Tax Reports commentary to subsection 147.3(4):
+The amount which can be transferred pursuant to subsection 147.3(4) is limited to the “prescribed amount” as described in regulation 8517. Basically, the prescribed amount is equal to the annualized amount of the individual members lifetime retirement benefits foregone as a result of the transfer from the defined benefit RPP, multiplied by what is referred to as a “present value factor”. Generally speaking, the amount of the individual’s lifetime retirement benefits foregone at any time will be equal to the amount (expressed on an annualized basis) that would be paid to the individual under the defined benefit RPP at that time, on the assumption that the amount had vested and was in fact payable at that time. Where retirement benefits have commenced to be paid to the individual, the amount will simply be that by which his lifetime retirement benefits under the defined benefit plan are reduced as a result of the transfer…
+…In simple terms then, the amount transferable under subsection 147.3(4) at any time will generally be equal to the annualized lifetime retirement benefits which have accrued to the individual as of that time, multiplied by the present value factor.[11] (our emphasis)
+33. The appellant’s LRB was properly calculated by both parties to be the amount of $52,934. This was the amount which had vested and was due to him in 2001 at the time of the transfer to the RRSP as indexation does not affect the LRB until years two and following.
+34. By choosing to receive his LRBs by way of a non-indexed annuity, the appellant gave up his right to receive the remaining funds in the Plan on a tax deferred basis. The amount transferred to the RRSP did not provide for a periodic payment and did not meet the definition of LRBs for the purposes of the Act.
+35. While there is no question as to the fact that the appellant was entitled to receive the full amount of assets in the Plan, the excess over the amount required to provide for his LRBs through the acquisition of an annuity contract was not an amount which could have been received without tax implications unless it had been added to the annuity to provide for periodic incremental indexation payments at the rate set out in the Plan.
+36. The Appellant argues that he was entitled to indexation in an amount in excess of what was transferred to his RRSP, irregardless of the fact that, at the time of the transfer no indexation was actually payable, and the fact that the terms of the Plan limited his entitlement to an amount that the funds remaining in the Plan, after providing for the base pension, could provide.[12]
+37. The Appellant’s argument is unfounded as even Mr. Thompson agreed that his calculation of an annualized value of $19,565 contained in his letter dated July 8, 2005 represented a best case scenario, and not the situation of the appellant’s RPP in which indexation was capped at the amount that the funds available in the Plan could provide.[13]
+38. The Appellant’s arguments also ignore the forms of providing for the Pension and indexing which were set out in section 9 of the Plan, that is, either purchase of an indexed annuity or payment of the pension from the pension fund.
+39. No provision exists either in the ITA or in the Regulations for the transfer of a lump sum amount to a RRSP for the purpose of indexation of pension benefits.
+Analysis
+[9] Paragraph 8503(2)(m) of the Regulations allows for the payment of a lump sum under a defined benefit provision of an RPP. The amount may be paid into an RRSP subject to the limit imposed by subsection 147.3(4) of the ITA. Subsection 147.3(4) of the ITA sets out the requirements that a transfer from a defined benefit RPP to a money purchase RPP, an RRSP or a registered retirement income fund (RRIF) must meet in order to avoid immediate tax consequences. That subsection basically provides for the transfer of an amount that:
+1) is a single amount;
+2) is transferred in full or partial satisfaction of the transferor’s entitlement under the RPP;
+3) is an amount no portion of which relates to an actuarial surplus; and
+4) does not exceed the prescribed amount.
+[10] The prescribed amount is calculated under subsection 8517(1) of the Regulations using the formula A x B where:
+A is the amount of the individual’s lifetime retirement benefits (LRBs) under the provision commuted in connection with the transfer, as determined under subsection 8517(4) of the Regulations, and B is the present value factor corresponding to the individual’s age at the time of the transfer.
+[11] Subsection 8517(4) of the Regulations sets out the method of calculation of a member’s LRBs under a defined benefit provision of an RPP commuted in connection with the transfer of an amount on behalf of the individual in full or partial satisfaction of the individual’s entitlement to benefits under that provision, for the purpose of the formula in subsection 8517(1) of the Regulations.
+[12] In other words, the amount which can be transferred pursuant to subsection 147.3(4) of the ITA is limited to the prescribed amount as described in section 8517 of the Regulations. Basically, the prescribed amount is equal to the annualized amount of the individual member’s LRBs forgone as a result of the transfer from a defined benefit RPP (to a money purchase RPP, an RRSP or a RRIF), multiplied by what is referred to as “a present value factor”. Generally speaking, the amount of the individual’s LRBs forgone at any given time will be equal to the amount (expressed on an annualized basis) that would be paid to the individual under a defined benefit RPP. Paragraph 8517(4)(a) of the Regulations provides that where retirement benefits have commenced to be paid to the individual, the amount will simply be that by which his LRBs under the defined benefit plan are reduced as a result of the transfer. Paragraph 8517(4)(b) of the Regulations provides that where retirement benefits have not yet commenced to be paid under the provision to the individual, the RPP, the LRBs (expressed on an annualized basis) under the RPP will be the amount by which the normalized pension (calculated pursuant to 8517(5)) is reduced as a result of this transfer. This “normalized pension” (see paragraph 8517(5)) is basically the amount of annual LRBs that would be payable to him under the RPP if such benefits commenced to be paid to the individual at that time, on the assumption that the individual had attained 65 years of age at that time and that the provision provided for the immediate vesting of the benefits at that time, and subject to other conditions and assumptions as set out in paragraph 8517(5). Paragraph 8517(4)(c) of the Regulations applies where, in conjunction with a transfer from an RPP on behalf of an individual, another payment is also made from the plan on behalf of the individual. This paragraph provides that the reduction in the individual’s LRBs or normalized pension, as the case may be, as result of that other payment is taken into account in determining the LRBs commuted in connection with the transfer.
+[13] In the present case, the Respondent disagrees with the Appellant’s assertions that the benefits had commenced to be paid for the purposes of the calculation in subsection 8517(4) since the ITA specifically deals with benefits payable under annuity contracts at subsection 147.4(1), deeming such benefits not to be received under the RPP for the purposes of the transfer rules. In other words, the Respondent argued, relying on paragraph 147.4(1)(g) of the ITA, that the value of A (the amount of the individual’s LRBs under the provision commuted in connection with the transfer) cannot be determined under paragraph 8517(4)(a).
+[14] Paragraph 147.4(1) provides that where at any time an interest in an annuity contract is purchased in full or partial satisfaction of the individual’s entitlement to benefits under an RPP, the amount used to purchase the annuity contract is deemed not to have been received under the RPP and thus ought not to be included in the income of the individual, and any amount later received by the individual under the annuity contract is deemed to have been received under the RPP, as long as the following conditions have been met:
+1.
+the annuity contract is purchased from a licensed annuities provider;
+2.
+the rights provided for under the contract are not materially different from those provided for under the RPP as registered;
+3.
+the contract does not permit premiums to be paid at or after that time, other than a premium paid at that time out of or under the RPP to purchase the contract;
+4.
+either the plan is not one in respect of which the Minister may give a notice of intent to revoke the registration of the RPP pursuant to subsection 147.1(11) of the ITA or the administrator of the Plan has received the Minister’s written waiver of the application of this condition;
+5.
+the interest in the annuity contract was not acquired as a consequence of a transfer of property from the RPP to an RRSP or a RRIF.
+The transfer for the purchase of the annuity cannot therefore be considered an amount received by the Appellant from the RPP. The ITA does not purport to penalize an individual for having used part of his or her LRBs to purchase an un-indexed annuity. Paragraph 147.4(1) states that only payments flowing from the annuity will be deemed received under the Plan.
+[15] With regards to the present case, paragraph 147.4(1)(g) deems amounts received under the annuity contract to have been received under the Plan. It does not deem amounts paid to be treated as if they had not been paid. Nor does it affect amounts paid in “partial satisfaction” of other amounts due under the Plan. The exception for the purposes of subsections 147.1 and 147.3 of the ITA exists to prevent the second tier rollover of amounts derived from an annuity contract issued in full or partial satisfaction of the individual’s entitlement. The paragraph does not deem amounts paid under an annuity not to have been paid under the Plan, for the purposes of determining whether paragraph 8517(4)(a) or paragraph 8517(4)(b) applies.
+[16] Consequently, the transfer of $108,886.04 from the Plan to an RRSP (on September 5, 2001) was made after benefits had commenced to be paid from the annuity (on September 1, 2001) and, as a result of the definition in paragraph 8517(4)(a) of the Regulations, the commuted amount is the amount by which the LRBs are reduced, expressed on an annualized basis.
+[17] In fact, the only real argument the Respondent has advanced in support of the assertion that the transfer exceeded the allowable limits is that, because indexation is no longer considered an LRB after partial satisfaction of the Plan’s obligations by the purchase of an unindexed annuity, the value of the benefits commuted upon the transfer of the amount available to fund indexation, for the purposes of the formula in subsection 8517(1) of the Regulations, is nil. In other words, the Respondent suggests that once an unindexed annuity had been purchased to partially satisfy the Plan’s obligations, there remained no LRBs that could be given up by the taxpayer. According to the Respondent, indexing could have been incorporated as an LRB had it been included in the purchase of the annuity; however, once the non-indexed annuity payments began, the value of the LRBs became nil and any subsequent transfer of this amount to an RRSP was subject to immediate tax consequences by its inclusion in the Appellant’s income. The Respondent alleges then, that indexation is not part of LRBs, but rather an exception to the LRBs. However, the evidence before the Court is that the value for A in subsection 8517(1) of the Regulations is $19,565 and not zero, unless the Court accepts the Respondent’s view that indexation is excluded from the definition of LRBs by subsection 8503(2) of the Regulations. The only question which remains to be answered in the present case then is: Does the indexation portion of the defined benefits provision, the Plan, constitute an LRB?
+[18] Sections 9.1 and 9.2 of the Plan create defined benefit provisions. I agree with the Appellant that the provisions fall within the definition of “benefit provision” and “lifetime retirement benefits” found in section 8500 of the Regulations. I also agree with the Appellant that subparagraph 8503(2)(a)(ii) of the Regulations clearly contemplates that the indexation provided for in section 9.2 of the Plan forms part of the lifetime retirement benefits and that the purpose of that subparagraph is to set out the range of permissible benefits for the purposes of paragraph 8502(c) of the Regulations. It does not exclude indexation from the definition of an LRB. The exception set out in subparagraph 8503(2)(a)(ii) frees payments of indexation amounts from the requirement that they be equal and periodic (only requiring them to be periodic). This is the meaning of the words “or are not so payable only by reason that” which are found immediately prior to subparagraph 8503(2)(a)(i). At any rate, subparagraph 8503(2)(a)(iii) allows indexation benefits to be considered LRBs in the absence of both periodicity and equality of payments.
+[19] I also agree with the Appellant that statements in the wind‑up Report have very little bearing on the issue at bar. The Plan, a legally binding document, spells out what the Appellant was entitled to. The Plan and the wind‑up Report are very distinct documents, intended for separate purposes altogether. The evidence clearly showed that the wind-up report summarizes the economic effect of the Plan for the stated purpose of satisfying the Régie des rentes du Québec.
+[20] Nothing in the ITA prevents amounts being transferred in separate transactions in order to meet obligations under the Plan.
+[21] Consequently, since I find persuasive both the Appellant’s view that indexation is not excluded from the definition of LRB by subsection 8503(2) of the Regulations and the evidence that the value for A in subsection 8517(1) of the Regulations is $19,565, I conclude that the Appellant has clearly met the requirement whereby the amount transferred (to his RRSP) under section 147.3(4) of the ITA must not exceed the “prescribed amount”.
+[22] For these reasons, the appeal under subsection 147.3(10) and paragraph 56(1)(a) is allowed, with costs, and the late filing penalties as well as the tax in respect of over-contributions of his RRSP for the 2003, 2003 and 2004 taxation years are cancelled.
+Signed at Ottawa, Canada, this 2nd day of February 2009.
+“Paul Bédard”
+Bédard J.
+CITATION: 2009 TCC 80
+COURT FILE NO.: 2006-3052(IT)G
+STYLE OF CAUSE: MARVYN YUDELSON v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: March 27, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: February 2, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Aaron Rodgers
+Counsel for the Respondent:
+Susan Shaughnessy
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Aaron Rodgers
+Firm: Spiegel Sohmer Inc.
+Montreal, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Registered Plans Directorate, RPP Consultation – 2002, November 21, 2002, Question 2, http://www.cra-arc.gc.ca/tax/registered/consultations/rpp_cqa02-e.html#q2 (annexed to the Respondent’s written pleadings).
+[2] Subsection 8517(4) of the Regulations, Respondent’s Authorities, Tab 1, page 2197.
+[3] Respondent’s Authorities, Tab 1, pages 2159 and 2160.
+[4] Exhibit A-1, Tab 14, Wind Up Actuarial Valuation, Section IV, s. 1a).
+[5] Transcripts of the hearing, testimony of Gilles Lalonde, questions 264 - 265.
+[6] Transcripts of the hearing, testimony of Gilles Lalonde, questions 276 – 279.
+[7] Ian Cudlipp and Alan Macnaughton, "Transferring funds from a pension plan to an eligible RRSP or RRIF: the new opportunities", (1994), Vol. 42, No. 1, Can. Tax J., 222 at page 229, Respondent’s Authorities, Tab 4, at pages 54-55.
+[8] Bronfman Trust v. The Queen, [1987] 1 S.C.R. 32, (annexed to the Respondent’s written pleadings).
+[9] Marcel Théroux, “Tax Planner Guides, 5 – What a Tax Planner Needs to Know about Registered Pension Plans”, Carswell, Taxnetpro, Tax & Estate Planning, Respondent’s Authorities, Tab 6.
+[10] Transcripts of the hearing, testimony of Fred Thompson, question 74.
+[11] Canadian Tax Reporter, Volume 4, [¶21,556c], page 20,669 (Toronto: CCH Canadian Limited, loose-leaf edition), Respondent’s Authorities, Tab 7.
+[12] Written Representations of the Appellant, paragraphs 51 and 52.
+[13] Transcripts of the hearing, testimony of Fred Thompson, questions 94 to 114; letter dated July 8, 2005, Exhibit A-1, Tab 23.

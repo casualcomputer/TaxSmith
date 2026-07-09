@@ -1,0 +1,151 @@
+---
+title: "Romphf c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29036/index.do"
+last_modified: "2009-01-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 55"
+citation2: ""
+neutral_citation: "2009 CCI 55"
+decision_date: "2009-01-27"
+language: "fr"
+item_id: "29036"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6845
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:15:36.827000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "75ab36acecece8c838a0ef9a555ed7b75e5e503b8a6f3224dc976e9abfcb7d30"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Romphf c. La Reine
+
+- Citation: 2009 CCI 55
+- Decision date: 2009-01-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6845, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Romphf c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-01-27
+Référence neutre
+2009 CCI 55
+Numéro de dossier
+2008-2577(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-2577(IT)I
+ENTRE :
+DIANNE L. ROMPHF,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appels entendus à Saskatoon (Saskatchewan), le 9 décembre 2008.
+Devant : L’honorable juge G. A. Sheridan
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocate de l’intimée :
+Me Brooke Sittler
+____________________________________________________________________
+JUGEMENT
+Conformément aux motifs du jugement ci‑joints, l’appel interjeté à l’égard de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2004 est accueilli et les pénalités imposées en vertu du paragraphe 163(2) de la Loi de l’impôt sur le revenu sont annulées. L’appel interjeté à l’égard de la nouvelle cotisation établie pour l’année d’imposition 2005 est rejeté.
+La Cour ordonne que les droits de dépôt de 100 $ versés par l’appelante lui soient remboursés.
+Signé à Ottawa, Canada, ce 27e jour de janvier 2009.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 13e jour de mars 2009.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2009 CCI 55
+Date : 20090127
+Dossier : 2008-2577(IT)I
+ENTRE :
+DIANNE L. ROMPHF,
+appelante,
+and
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] L’appelante a interjeté appel des nouvelles cotisations établies à l’égard de ses années d’imposition 2004 et 2005. Elle n’a pas été représentée à l’audience, et a été la seule personne à y témoigner.
+[2] Les questions en litige ont été énoncées au paragraphe 18 de la réponse à l’avis d’appel :
+[TRADUCTION]
+18. Les questions en litige sont les suivantes :
+a) le ministre du Revenu national (le « ministre ») a‑t‑il eu raison d’inclure des revenus d’entreprise non déclarés de 4 962,26 $ dans les revenus de l’appelante pour l’année d’imposition 2004?
+b) le ministre a‑t‑il eu raison de refuser la déduction de dépenses s’élevant à 9 167,18 $ pour 2004 et à 6 158,77 $ pour 2005?
+c) le ministre a‑t‑il eu raison d’imposer des pénalités de 405,50 $, en vertu du paragraphe 163(2) de la Loi de l’impôt sur le revenu, à l’égard des revenus d’entreprise non déclarés pour l’année d’imposition 2004?
+d) la Cour peut‑elle accorder à l’appelante la mesure de redressement qu’elle a demandée, à savoir d’ordonner à l’Agence du revenu du Canada (l’« ARC ») de dédommager l’appelante pour toute faute qui, selon l’appelante, aurait été commise à son endroit par des représentants de l’ARC?
+[…]
+[3] En ce qui concerne l’alinéa d) cité ci‑dessus, au début de l’audience, l’appelante a avisé la Cour qu’elle avait renoncé à sa demande de dédommagement quant aux fautes prétendument commises par des représentants de l’Agence du revenu du Canada.
+[4] Pendant les années d’imposition en cause, l’appelante, en tant que travailleuse indépendante, fournissait des services de tenue de livres à un u deux clients et elle occupait aussi un emploi à temps partiel en tant que commis comptable. Selon le témoignage de l’appelante, ce serait peu dire que d’affirmer qu’elle réussissait difficilement à joindre les deux bouts durant ces années‑là.
+[5] La première question est de savoir si l’appelante a déclaré des revenus en moins pour 2004, la seule année pour laquelle le ministre du Revenu national (le « ministre ») a imposé des pénalités en vertu du paragraphe 163(2) de la Loi de l’impôt sur le revenu (la « Loi »). Au départ, l’appelante affirmait que lorsque le vérificateur avait calculé qu’il fallait majorer les revenus de l’appelante de 4 962,26 $, il avait probablement compté en double certains dépôts faits par chèque. L’appelante a expliqué qu’à cause de ses difficultés financières, elle avait deux comptes bancaires et transférait continuellement des sommes entre ces deux comptes. Quoique l’explication de l’appelante soit plausible, il lui faut l’étayer par des preuves pour voir son appel réussir. Comme l’appelante ne tenait aucuns livres et registres, elle n’a pas pu présenter de relevés bancaires ou de chèques payés pour appuyer sa version des faits. Par conséquent, je ne peux pas dire que les conclusions du vérificateur étaient incorrectes.
+[6] La deuxième question est de savoir si les dépenses d’entreprise dont l’appelante avait demandé la déduction pour 2004 et 2005 étaient exagérées. Le ministre a refusé toutes les déductions dont l’appelante avait fait la demande, exception faite des dépenses téléphoniques, les seules pour lesquelles l’appelante avait présenté des pièces justificatives. Lorsque l’appelante a été contre‑interrogée, elle a reconnu avoir confié ses déclarations de revenus pour 2004 et 2005 à un spécialiste en déclarations fiscales. Il semble que ce dernier ait simplement rempli les déclarations de revenus de l’appelante en y inscrivant les montants qui lui semblaient appropriés compte tenu des activités de l’appelante. Soulagée de voir que ses déclarations indiquaient qu’elle n’avait aucun impôt à payer, l’appelante les a acceptées telles quelles, les a signées puis les a produites. Force m’est de reconnaître qu’à l’audience, l’appelante a eu le mérite d’admettre qu’elle avait agi de façon irréfléchie. Lors du contre‑interrogatoire de l’appelante, on lui a énuméré les déductions qu’elle avait demandées, et elle a alors admis qu’ayant maintenant fait leur examen détaillé, elle se rendait compte que les déductions demandées dépassaient les dépenses qu’elle avait vraiment engagées. Malheureusement, comme l’appelante n’a conservé aucune pièce justificative quant à ses véritables dépenses, je ne peux pas lui accorder d’autres déductions pour des dépenses d’entreprises.
+[7] Comme je l’ai déjà mentionné, l’appelante occupait un emploi de commis comptable en 2004 et 2005. Bien qu’elle ait demandé la déduction de certaines dépenses relatives à cet emploi, le ministre a eu raison d’en refuser la déduction, car ces demandes n’avaient pas été étayées par le formulaire T2200, comme l’exige l’article 8 de la Loi.
+[8] La dernière question en litige est de savoir si des pénalités auraient dû être imposées à l’appelante relativement aux revenus qu’elle n’avait pas déclarés en 2004. C’est au ministre qu’incombe le fardeau de prouver qu’il a eu raison d’imposer des pénalités en vertu du paragraphe 163(2) de la Loi. Comme cette disposition est de nature pénale, la décision du ministre est soumise à une norme de preuve plus stricte que celle qui s’appliquerait à une décision prise en vertu du paragraphe 152(4) de la Loi[1]. Ainsi, il faut se demander si l’appelante a « sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission » dans sa déclaration de revenus pour 2004.
+[9] Pour appuyer la position de l’intimée voulant que l’imposition des pénalités était justifiée en l’espèce, l’avocate de l’intimée a souligné que l’appelante était commis comptable et qu’elle avait suivi des cours de comptabilité. Compte tenu de sa formation, l’appelante aurait dû connaître son obligation de tenir des livres et registres et de produire une déclaration de revenus exacte. De plus, comme l’appelante avait tiré des revenus des mêmes sources durant les années précédentes, elle aurait dû avoir une bonne idée de ses revenus et de ses dépenses pour 2004 et 2005.
+[10] Si l’être humain était infaillible, il serait très facile d’accepter la façon dont l’intimée a qualifié la conduite de l’appelante. En appliquant une norme plus réaliste à la conduite de l’appelante, on peut conclure que même si elle s’est comportée de manière irréfléchie, sa conduite était à tout le moins compréhensible. L’appelante peinait à joindre les deux bouts et se trouvait dans une situation difficile. Bien qu’elle se soit décrite comme « commis comptable », son travail s’apparentait davantage à de la simple saisie de données comptables. L’appelante avait essayé d’améliorer ses connaissances comptables, mais il n’en reste pas moins qu’elle avait seulement suivi pendant un an un cours de comptable général accrédité à un collège communautaire. L’appelante n’était aucunement spécialiste en matière fiscale. En ne tenant aucuns livres et registres et en ne vérifiant pas sa déclaration de revenus pour 2004, l’appelante a agi de façon irréfléchie, mais, à elle seule, cette conduite ne suffit pas à justifier l’imposition de pénalités en vertu du paragraphe 163(2) de la Loi. Compte tenu des circonstances de la présente affaire, l’intimée n’a pas su me convaincre que la conduite de l’appelante justifiait l’imposition de pénalités en vertu du paragraphe 163(2) de la Loi. Par conséquent, les pénalités imposées en vertu de cette disposition pour l’année 2004 sont annulées.
+[11] Pour les motifs exposés ci‑dessus, l’appel interjeté à l’égard de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2004 est accueilli et les pénalités imposées en vertu du paragraphe 163(2) de la Loi sont annulées. L’appel interjeté à l’égard de la nouvelle cotisation établie à l’égard de l’année d’imposition 2005 est rejeté.
+Signé à Ottawa, Canada, ce 27e jour de janvier 2009.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 13e jour de mars 2009.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2009 CCI 55
+No DU DOSSIER DE LA COUR :
+2008‑2577(IT)I
+INTITULÉ :
+Dianne L. Romphf et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Saskatoon (Saskatchewan)
+DATE DE L’AUDIENCE :
+Le 9 décembre 2008
+MOTIFS DU JUGEMENT :
+L’honorable juge G. A. Sheridan
+DATE DU JUGEMENT :
+Le 27 janvier 2009
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Brooke Sittler
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Venne v. Her Majesty the Queen, [1984] C.T.C. 223 (C.F. 1re inst.).

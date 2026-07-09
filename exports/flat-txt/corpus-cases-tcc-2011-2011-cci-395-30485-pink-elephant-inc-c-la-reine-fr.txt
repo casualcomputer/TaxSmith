@@ -1,0 +1,138 @@
+Title: Pink Elephant Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30485/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-395-30485-pink-elephant-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2011-08-31
+
+# Pink Elephant Inc. c. La Reine
+
+- Citation: 2011 CCI 395
+- Decision date: 2011-08-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7285, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pink Elephant Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-08-31
+Référence neutre
+2011 CCI 395
+Numéro de dossier
+2011-144(IT)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-144(IT)I
+ENTRE :
+PINK ELEPHANT INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 7 juillet 2011 à Toronto (Ontario).
+Devant : L’honorable juge Wyman Webb
+Comparutions :
+Pour l’appelante :
+Me Timothy Fitzsimmons
+M. Adam Patchet – stagiaire en droit
+Avocate de l’intimée :
+Me Alisa Apostle
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés par l’appelante à l’encontre de la nouvelle cotisation établie à l’égard de ses années d’imposition 2006 et 2007 sont accueillis, et l’affaire est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation en tenant compte du fait que l’appelante a droit aux déductions demandées au titre de ses dépenses en services de restauration pour 2006 et 2007, étant donné que l’exception prévue à l’alinéa 67.1(2)a) de la Loi de l’impôt sur le revenu est applicable à ces dépenses. L’appelante a donc le droit de déduire les montants de 33 750 $ pour 2006 et de 41 275 $ pour 2007, montants dont la déduction lui avait été refusée dans le calcul de son revenu pour ces années d’imposition‑là. L’appelante a droit aux dépens, qui sont fixés à 2 500 $.
+Signé à Halifax (Nouvelle-Écosse), ce 31e jour d’août 2011.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 3e jour de novembre 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+Référence : 2011 CCI 395
+Date : 20110831
+Dossier : 2011-144(IT)I
+ENTRE :
+PINK ELEPHANT INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] En l’espèce, la question en litige est de savoir si l’appelante a le droit de déduire la totalité des dépenses en service de restauration qu’elle a supportées dans le calcul de son revenu pour 2006 et 2007 en application de la Loi de l’impôt sur le revenu (la « Loi »), ou si de telles dépenses étaient assujetties à la restriction prévue au paragraphe 67.1(1) de la Loi. Plus particulièrement, la question est de savoir si l’exception prévue à l’alinéa 67.1(2)a) de la Loi était applicable à ces dépenses. Les montants relatifs aux dépenses en service de restauration dont la déduction a été refusée dans le calcul du revenu de l’appelante par suite de l’application, par l’intimée, de la restriction prévue au paragraphe 67.1(1) de la Loi étaient de 33 750 $ pour 2006 et de 41 275 $ pour 2007.
+[2] L’appelante donne de la formation en technologies de l’information. Elle donne des séances de formation ouvertes au public dans diverses villes. Si une société a plus de six personnes qui vont suivre la formation, l’appelante donne alors, une formation privée dans les locaux de la société. Les séances de formation ouvertes au public sont données dans un hôtel, et le petit déjeuner et le déjeuner sont fournis aux participants. Les repas ne sont pas fournis si la formation a lieu dans les locaux d’un client. Les frais de participation à une séance de formation ouverte au public varient entre 2 000 $ et 10 000 $, selon le cours. La facture et le reçu délivrés relativement à un cours précis ne mentionnent que le coût total du cours pour le participant. Les repas ne sont pas facturés séparément aux participants, et les montants payés pour les repas ne sont pas non plus indiqués séparément sur la facture ou sur le reçu concernant le cours.
+[3] L’appelante a demandé une déduction de la totalité du montant supporté au titre des dépenses en service de restauration relativement à la fourniture des repas aux participants en 2006 et en 2007, mais l’Agence du Revenu du Canada (l’« ARC ») a appliqué la restriction prévue au paragraphe 67.1(1) de la Loi à une partie des dépenses en services de restauration pour chacune de ces deux années. La partie à laquelle cette restriction a été appliquée était de 67 500 $ pour 2006 et de 82 550 $ pour 2007. L’ARC a donc refusé des dépenses en services de restauration de 33 750 $ pour 2006 et de 41 275 $ pour 2007.
+[4] En 2006 et en 2007[1], le paragraphe 67.1(1) et l’alinéa 67.1(2)a) de la Loi prévoyaient ce qui suit :
+67.1(1) Pour l’application de la présente loi, sauf les articles 62, 63, 118.01 et 118.2, le montant payé ou payable pour des aliments, des boissons ou des divertissements pris par des personnes est réputé correspondre à 50 % de la moins élevée des sommes suivantes :
+a) la somme réellement payée ou à payer;
+b) la somme qui serait raisonnable dans les circonstances.
+[…]
+67.1(2) Le paragraphe (1) ne s’applique pas au montant payé ou payable par une personne pour des aliments, des boissons ou des divertissements dans les cas suivants :
+a) le montant est payé ou payable pour des aliments, des boissons ou des divertissements fournis contre paiement ou en vue de l’obtention d’un bénéfice dans le cours normal des activités d’une entreprise exploitée par cette personne et qui consiste à fournir contre paiement ces aliments, ces boissons ou ces divertissements;
+[5] L’avocate de l’intimée a reconnu que, si les exceptions prévues au paragraphe 67.1(2) de la Loi ne faisaient pas partie de la Loi, la restriction prévue au paragraphe 67.1(1) de la Loi serait applicable aux dépenses en services de restauration dont la déduction est demandée par l’appelante. En l’espèce, la question en litige est de savoir si l’exception prévue à l’alinéa 67.1(2)a) de la Loi est applicable aux dépenses en services de restauration supportées par l’appelante.
+[6] Dans l’arrêt La Reine c. Hypothèques Trustco Canada, 2005 CSC 54, 2005 DTC 5523 (angl.), [2005] 5 C.T.C. 215, 340 N.R. 1, 259 D.L.R. (4e) 193, [2005] 2 R.C.S. 601, la Cour suprême du Canada a fait les observations suivantes :
+10 Il est depuis longtemps établi en matière d’interprétation des lois qu’« il faut lire les termes d’une loi dans leur contexte global en suivant le sens ordinaire et grammatical qui s’harmonise avec l’esprit de la loi, l’objet de la loi et l’intention du législateur » : voir 65302 British Columbia Ltd. c. Canada, [1999] 3 R.C.S. 804, par. 50. L’interprétation d’une disposition législative doit être fondée sur une analyse textuelle, contextuelle et téléologique destinée à dégager un sens qui s’harmonise avec la Loi dans son ensemble. Lorsque le libellé d’une disposition est précis et non équivoque, le sens ordinaire des mots joue un rôle primordial dans le processus d’interprétation. Par contre, lorsque les mots utilisés peuvent avoir plus d’un sens raisonnable, leur sens ordinaire joue un rôle moins important. L’incidence relative du sens ordinaire, du contexte et de l’objet sur le processus d’interprétation peut varier, mais les tribunaux doivent, dans tous les cas, chercher à interpréter les dispositions d’une loi comme formant un tout harmonieux.
+[7] Dans l’arrêt Canada c. Stapley, 2006 CAF 36, 2006 DTC 6075, 345 N.R. 320, [2006] 3 C.T.C. 188, le juge Sexton, s’exprimant au nom de la Cour d’appel fédérale, a fait les observations suivantes :
+c) Le préjudice auquel la disposition cherche à remédier
+22 Le paragraphe 67.1(1) énonce une règle qui s’applique au calcul du revenu. Le contribuable doit inclure dans son revenu le revenu tiré d’une entreprise. Le revenu tiré d’une entreprise se définit comme le bénéfice qu’un contribuable tire d’une entreprise (paragraphe 9(1) de la LIR). Pour calculer le bénéfice de son entreprise, le contribuable ne peut pas déduire le montant de ses frais personnels ou de subsistance (alinéa 18(1)h) de la LIR). Toutefois, le contribuable peut déduire les dépenses raisonnables effectuées en vue de tirer un revenu d’une entreprise (alinéa 18(1)a) de la LIR). Le paragraphe 67.1(1) limite le montant des déductions autorisées à l’alinéa 18(1)a) à l’égard des dépenses pour les aliments, les boissons et les divertissements.
+23 La logique veut que le paragraphe 67.1(1) remplisse la fonction suivante en ce qui concerne l’esprit de la loi. Pour réduire le montant de l’impôt à verser, le contribuable tentera de diminuer la valeur de son revenu. Pour ce faire, il pourra notamment augmenter le montant des déductions prévues à l’alinéa 18(1)a). Le contribuable pourra ainsi tenter de combiner ses frais personnels et ses frais d’entreprise pour les déduire ensemble à titre de dépenses d’entreprise en vertu de l’alinéa 18(1)a). Par exemple, le contribuable pourrait désigner le coût d’un dîner avec un client comme une dépense d’entreprise entièrement déductible en vertu de l’alinéa 18(1)a) au lieu de la désigner comme une dépense personnelle non déductible, tel que prévu à l’alinéa 18(1)h). Tenant compte de cette réalité, le paragraphe 67.1(1) fixe arbitrairement le pourcentage déductible correspondant à la « double nature » d’une telle dépense à 50 %, soit la moitié comme dépense en vue de tirer un revenu, la moitié comme frais personnels.
+[8] Il me semble que, pour interpréter l’exception prévue à l’alinéa 67.1(2)a) de la Loi, il devrait être tenu compte de la raison pour laquelle la restriction prévue à l’article 67.1 a été ajoutée à la Loi. La fourniture de repas contre paiement faite par une personne dans le cadre normal des activités de l’entreprise de cette personne (que la fourniture de repas représente une petite ou une grande partie de l’activité de cette entreprise) n’est pas le préjudice cerné par la Cour d’appel fédérale.
+[9] La restriction quant au montant dont la déduction peut être demandée au titre de dépenses pour des aliments et des boissons ne s’applique pas si les aliments et les boissons sont fournis contre paiement (ou en vue de l’obtention d’un bénéfice) dans le cours normal des activités d’une entreprise qui consistent à fournir contre paiement ces aliments ou ces boissons. L’avocate de l’intimée a reconnu que l’exception ne s’appliquerait pas seulement à une personne dont l’entreprise avait pour unique activité de fournir des repas contre paiement. Je souscris à cette déclaration. Autrement, une personne qui tenait un hôtel et un restaurant serait assujettie à la restriction relativement aux montants payés pour les aliments et les boissons qui seraient servis dans le restaurant. Il ne me semble pas qu’une personne qui tenait un hôtel et un restaurant serait assujettie à la restriction quant au montant dépensé pour des aliments et des boissons, mais qu’une personne qui ne tenait qu’un restaurant serait exemptée de la restriction.
+[10] L’exception prévue à l’alinéa 67.1(2)a) de la Loi s’applique à des sommes dépensées par une personne donnée pour des aliments ou des boissons, si la personne, dans le cours normal de ses activités qui consistent à fournir contre paiement des aliments et des boissons, fournit contre paiement (ou en vue de l’obtention d’un bénéfice) de tels aliments ou de telles boissons. Il me semble que de tels aliments ou de telles boissons sont offerts dans le cours normal des activités qui consistent à offrir des aliments et des boissons, que leur fourniture représente une petite ou une grande partie des activités exercées dans le cours normal de l’exploitation de l’entreprise de cette personne. Par exemple, comme l’a reconnu l’ARC au paragraphe 5 du bulletin d’interprétation IT‑518R, une ligne aérienne qui offre des repas à ses clients serait exemptée de la restriction en ce qui concerne ses dépenses pour aliments et boissons. Il semble évident que la fourniture d’aliments et de boissons serait une petite partie de l’activité exercée par une ligne aérienne. L’avocate de l’intimée a soutenu que la restriction prévue à l’article 67.1 de la Loi ne s’appliquait pas aux lignes aériennes en raison des dispositions du paragraphe 67.1(4) de la Loi. Voici la teneur de ce paragraphe :
+(4) Pour l’application du présent article :
+a) aucun montant payé ou payable pour un voyage à bord d’un avion, d’un train ou d’un autobus ne peut être considéré comme payé ou payable pour des aliments, des boissons ou des divertissements pris pendant le voyage;
+b) sont assimilés à des divertissements les loisirs et les amusements.
+[11] Le montant payé par la ligne aérienne pour les aliments et les boissons servis à ses clients ne serait pas un montant payé pour un voyage à bord d’un avion. Le paragraphe 67.1(4) de la Loi serait applicable aux passagers, et, en raison de cette disposition, il n’est pas nécessaire pour les passagers aériens (qui sont autorisés à déduire le coût de billets d’avion dans le calcul de leur revenu pour l’application de la Loi) d’attribuer une partie du coût du billet d’avion aux aliments et boissons qui leurs sont servis[2]. Cette disposition ne s’applique pas à la ligne aérienne elle‑même qui a supporté un montant pour les aliments et boissons fournis à ses passagers. L’exemption que la ligne aérienne aurait besoin d’invoquer pour déduire la totalité du montant dépensé pour de tels aliments et de telles boissons est l’exemption prévue à l’alinéa 67.1(2)a) de la Loi.
+[12] Les séances de formation étaient données sur des périodes allant de deux à 13 jours. Aux séances de formation ouvertes au public (qui étaient données dans un hôtel), le petit‑déjeuner et le déjeuner étaient fournis. Dans les documents de promotion préparés, il était précisé que le petit‑déjeuner et le déjeuner seraient fournis. L’appelante a offert environ 35 séances de formation ouvertes au public en 2006 et environ 43 séances ouvertes au public en 2007. Le revenu tiré des séances de formation ouvertes au public représentait environ 30 % du revenu total de l’appelante pour 2006 et environ 38 % du revenu total de l’appelante pour 2007. Il semble évident que le fait de donner des séances de formation ouvertes au public faisait partie du cours normal des activités de l’appelante, et que la fourniture du petit‑déjeuner et du déjeuner aux participants faisait partie de l’activité qui consistait à donner des séances de formation au public. Étant donné que chaque participant payait un montant compris entre 2 000 $ et 10 000 $ pour participer aux séances de formation ouvertes au public, ces séances étaient manifestement données contre paiement, et, comme les repas étaient inclus dans le prix, ceux‑ci étaient aussi offerts contre paiement.
+[13] L’avocate de l’intimée a fait valoir qu’étant donné que l’appelante n’avait pas désigné séparément le montant que les participants payaient pour les repas, les repas n’avaient pas été fournis contre paiement. L’appelante n’a pas non plus précisé le montant que les participants payaient pour l’examen qu’ils devaient passer ni le montant que les participants payaient pour le matériel de cours ou pour les cours magistraux mêmes. Le fait de ne pas désigner chaque élément inclus dans le prix ne signifie pas qu’aucun élément particulier n’est fourni contre paiement. Cela signifie simplement qu’une attribution raisonnable doit être faite, si nécessaire, pour déterminer le montant payé à l’égard de tout élément particulier inclus dans le prix. Si une personne acquiert un fonds et un immeuble pour un seul prix, cela ne signifie pas que soit le fonds soit l’immeuble a été acquis gratuitement.
+[14] L’avocate de l’intimée a aussi fait valoir qu’étant donné que certains participants s’inscrivaient à des séances de formation avant que l’endroit où devait avoir lieu la séance ne fût déterminé, les repas n’étaient pas fournis contre paiement. Toutefois, il me semble qu’il était clair que les repas devaient être fournis à des séances de formation ouvertes au public, quel que soit l’endroit où ces séances devaient se tenir. Que le participant ne sache pas l’endroit où la séance de formation devait se tenir au moment où il s’inscrivait initialement à un cours ne change pas le fait que les repas devaient être fournis à la séance de formation (quel que soit l’endroit où la séance serait tenue). Chaque participant payait entre 2 000 $ et 10 000 $ pour participer au cours, prix qui incluait le petit‑déjeuner et le déjeuner pour chaque journée de cours, et les repas étaient donc offerts contre paiement.
+[15] L’appelante avait également soulevé la question de la restriction quant aux montants en cause dans un appel interjeté sous le régime de la procédure informelle. L’article 2.1, le paragraphe 18(1) et l’article 18.1 de la Loi sur la Cour canadienne de l’impôt prévoient ce qui suit :
+2.1 Pour l’application de la présente loi, « total de tous les montants » s’entend du total de tous les montants déterminés par le ministre du Revenu national en vertu de la Loi de l’impôt sur le revenu ou à l’égard desquels il a établi une cotisation, à l’exception toutefois des intérêts ou des pertes déterminés par ce ministre.
+18(1) Les articles 18.1 à 18.28 s’appliquent, si le contribuable l’a demandé dans son avis d’appel ou à toute date ultérieure prévue dans les règles de la Cour, aux appels interjetés en vertu de la Loi de l’impôt sur le revenu dans les cas suivants :
+a) le total de tous les montants en cause est égal ou inférieur à 12 000 $;
+b) le montant de la perte en cause déterminé aux termes du paragraphe 152(1.1) de cette loi est égal ou inférieur à 24 000 $.
+18.1 Le jugement qui fait droit à un appel visé au paragraphe 18(1) est réputé comporter une disposition ordonnant que le total de tous les montants en cause ne soit pas réduit de plus de 12 000 $ ou, selon le cas, que le montant de la perte en cause ne soit pas augmenté de plus de 24 000 $.
+[16] L’avocate de l’intimée a déclaré que la nouvelle cotisation d’impôt sur le revenu établie en vertu de la Loi pour 2006, et qui était en cause, était inférieure à 12 000 $, et que la nouvelle cotisation d’impôt sur le revenu établie en vertu de la Loi pour 2007, et qui était en cause, était inférieure à 12 000 $, mais que le total des montants pour les deux années en cause était supérieur à 12 000 $. Aucune pénalité n’a été imposée en vertu de la Loi.
+[17] Dans la décision Maier c. La Reine, 1994 A.C.I. no 1260, le juge Garon (tel était alors son titre) a conclu que le total de tous les montants en cause se rapporte au total des montants en cause dans une cotisation (ou une nouvelle cotisation) particulière et non dans un avis d’appel. Lorsqu’un avis d’appel se rapporte à plus d’une cotisation (ou d’une nouvelle cotisation), il ne s’agit pas de savoir si les montants globaux en cause en vertu de l’avis d’appel sont supérieurs à 12 000 $, mais il s’agit plutôt de savoir si les montants globaux en cause dans une cotisation ou une nouvelle cotisation particulière sont supérieurs à 12 000 $. Par conséquent, la limite de 12 000 $, le cas échéant, s’applique à chaque cotisation (ou nouvelle cotisation) qui fait l’objet de l’appel. En l’espèce, étant donné que le montant d’impôt de chacune des nouvelles cotisations établies en vertu de la Loi (étant donné qu’il y avait une nouvelle cotisation pour 2006 et une nouvelle cotisation distincte pour 2007) est inférieur à 12 000 $, la limite ne s’applique pas.
+[18] En conséquence, les appels interjetés par l’appelante à l’encontre de la nouvelle cotisation établie à l’égard de ses années d’imposition 2006 et 2007 sont accueillis, et l’affaire est déférée au ministre pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation en tenant compte du fait que l’appelante a droit aux déductions demandées au titre des dépenses en services de restauration pour 2006 et 2007, étant donné que l’exception prévue à l’alinéa 67.1(2)a) de la Loi est applicable à ces dépenses. L’appelante a donc le droit de déduire les montants de 33 750 $ pour 2006 et de 41 275 $ pour 2007, montants dont la déduction lui avait été refusée dans le calcul de son revenu pour ces années d’imposition‑là.
+[19] L’appelante a droit aux dépens, qui sont fixés à 2 500 $.
+Signé à Halifax (Nouvelle‑Écosse), ce 31e jour d’août 2011.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 3e jour de novembre 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+RÉFÉRENCE : 2011 CCI 395
+No DU DOSSIER DE LA COUR : 2011-144(IT)I
+INTITULÉ : PINK ELEPHANT INC.
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 7 juillet 2011
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W.Webb
+DATE DU JUGEMENT : Le 31 août 2011
+COMPARUTIONS :
+Pour l’appelante :
+Me Timothy Fitzsimmons
+M. Adam Patchet – stagiaire en droit
+Avocate de l’intimée :
+Me Alisa Apostle
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Timothy Fitzsimmons
+Cabinet : Fraser Milner Casgrain, LLP
+Toronto (Ontario)
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Le paragraphe 67.1(1) de la Loi a été modifié relativement aux montants qui étaient payés ou payables après le 18 mars 2007, mais les modifications ne sont pas pertinentes en l’espèce.
+[2] Pour les personnes qui ont suivi le cours donné par l’appelante, les dispositions du paragraphe 67.1(3) de la Loi seraient applicables pour que chaque personne soit réputée avoir payé 50 $ par jour pour les aliments et boissons fournis.

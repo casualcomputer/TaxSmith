@@ -1,0 +1,167 @@
+Title: Ellaway v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/406683/index.do
+Corpus path: corpus/cases/tcc/2019/2019-tcc-118-406683-ellaway-v-the-queen-en.md
+Document type: case_law
+Last modified: 2019-05-22
+
+# Ellaway v. The Queen
+
+- Citation: 2019 TCC 118
+- Decision date: 2019-05-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4391, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ellaway v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-05-22
+Neutral citation
+2019 TCC 118
+File numbers
+2018-1736(IT)G
+Judges and Taxing Officers
+John R. Owen
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2018-1736(IT)G
+BETWEEN:
+MARY RUBY ELLAWAY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on May 2, 2019, at London, Ontario
+Before: The Honourable Justice John R. Owen
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Dominik Longchamps
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal from the reassessment made under the Income Tax Act for the 2016 taxation year, notice of which is dated September 12, 2017, is dismissed. Each party shall bear their own costs.
+Signed at Ottawa, Canada, this 22nd day of May 2019.
+“J.R. Owen”
+Owen J.
+Citation: 2019 TCC 118
+Date: 20190522
+Docket: 2018-1736(IT)G
+BETWEEN:
+MARY RUBY ELLAWAY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Owen J.
+I. Introduction
+[1] This is an appeal by Doctor Mary Ruby Ellaway (the “Appellant”) against the reassessment of her 2016 taxation year (the “Taxation Year”) by notice of reassessment dated September 12, 2017 (the “Reassessment”). The Reassessment denied $59,188 of moving expenses claimed by the Appellant in respect of a move from Australia to Canada in February 2016 (the “moving expenses”). The Appellant represented herself and was the only witness.
+II. Facts
+[2] At the commencement of the hearing the parties tendered a Statement of Agreed Facts (the “SAF”), which states as follows:
+1. Before February 3, 2016, the appellant was living in Australia in a house she owned and did not own property in Canada.
+2. Before February 3, 2016, the appellant was working in Australia and did not hold an employment or office in Canada.
+3. Before February 3, 2016, the appellant owned personal possessions such as furniture, clothing and personal items in Australia and not in Canada.
+4. Before February 3, 2016, the appellant held an Australian passport but no Canadian passport.
+5. Before February 3, 2016, all of the appellant’s family resided in Australia.
+6. Before February 3, 2016, the appellant owned a driver’s license valid in Australia and issued by the Australian authorities but did not hold a driver’s license in Canada.
+7. Before February 3, 2016, the appellant was not physically present in Canada.
+8. On February 3, 2016, the appellant entered Canada with her husband with the intent to stay permanently and with no intention of leaving Canada.
+9. On May 15, 2016, the appellant applied for a permanent resident status.
+10. Until July 1, 2018, the appellant had a one year renewing contract with her employer in Canada and now holds an active indeterminate hospital appointment.
+11. The appellant first entered Canada with a work visa and was granted her permanent residency on September 20, 2016.
+12. The appellant incurred expenses of $63,609 in the 2016 taxation year that would be considered allowable moving expenses if the appellant was eligible to claim moving expenses.
+13. The appellant included in her return of income for the 2016 taxation year $59,188 claimed as moving expenses under section 62 of the Income Tax Act.
+14. The Minister issued a Notice of Reassessment dated September 12, 2017, in which the appellant’s deduction for moving expenses was denied for the 2016 taxation year.
+15. The appellant served on the Minister a Notice of Objection dated September 27, 2017 pursuant to section 165 of the Income Tax Act.
+16. The Appellant filed a Notice of Appeal on May 12, 2018 with the Tax Court of Canada.
+[3] In determining the Appellant’s tax liability for the Taxation Year, the Minister relied on the assumptions of fact set out in paragraph 7 of the Reply. The assumptions of fact that are not explicitly addressed in the SAF are as follows:
+a) The Appellant is an Australian citizen.
+b) The Appellant had a work permit in 2003 to 2005 allowing her to work in Canada.
+c) Before February 3rd, 2016, the Appellant kept no residential ties with Canada.
+. . .
+[4] These assumptions of fact are to be accepted by the Court as true unless the Appellant demolishes the assumptions. [1]
+[5] The Appellant testified that she left Australia on February 2, 2016 and arrived in Canada on February 3, 2016 to take up employment as a doctor. The Appellant’s former home in Australia remained vacant until it was sold in December 2016.
+[6] The Appellant stated that when making her decision to move to Canada, she considered the expense of moving and the relief for that expense she believed she would receive in the form of a deduction from income. The Appellant testified that this belief was based on the notes to form T1‑M E (15) and the contents of Interpretation Bulletin IT-178R3, which is referenced in those notes. In particular, the Appellant stated that neither the notes nor Interpretation Bulletin IT-178R3 referred to the requirement in paragraph (c) of the definition of “eligible relocation” in subsection 248(1) of the Income Tax Act (the “ITA”) that the move be from one residence in Canada to another residence in Canada.
+III. Positions of the Parties
+[7] The Appellant submits that the “in Canada” requirement in paragraph (c) of the definition of “eligible relocation” in subsection 248(1) of the ITA was concealed from her, that concealment is a form of misrepresentation and that the result is unfair because she had factored the cost saving resulting from the deduction for moving expenses into her decision to move to Canada. Accordingly, the Minister should be estopped from relying on the “in Canada” requirement in paragraph (c) of the definition of “eligible relocation”.
+[8] The Respondent submits that the Court is required to apply the law to the facts and that statements of opinion regarding the law in administrative documents such as interpretation bulletins are not binding on the Court. On the facts, the Appellant did not meet the condition in paragraph (c) of the definition of “eligible relocation” because she moved from a residence in Australia to a residence in Canada and at the time her move to Canada commenced the Appellant was not “absent from but resident in Canada”.
+IV. Analysis
+[9] Subsection 62(1) of the ITA provides for the deductibility from specified sources of income of moving expenses paid by a taxpayer in respect of an “eligible relocation” as defined in subsection 248(1) of the ITA. The relevant statutory provisions state:
+62(1) There may be deducted in computing a taxpayer’s income for a taxation year amounts paid by the taxpayer as or on account of moving expenses incurred in respect of an eligible relocation, to the extent that
+(a) they were not paid on the taxpayer’s behalf in respect of, in the course of or because of, the taxpayer’s office or employment;
+(b) they were not deductible because of this section in computing the taxpayer’s income for the preceding taxation year;
+(c) the total of those amounts does not exceed
+(i) in any case described in subparagraph (a)(i) of the definition “eligible relocation” in subsection 248(1), the total of all amounts, each of which is an amount included in computing the taxpayer’s income for the taxation year from the taxpayer’s employment at a new work location or from carrying on the business at the new work location, or because of subparagraph 56(1)(r)(v) in respect of the taxpayer’s employment at the new work location, and
+(ii) in any case described in subparagraph (a)(ii) of the definition “eligible relocation” in subsection 248(1), the total of amounts included in computing the taxpayer’s income for the year because of paragraphs 56(1)(n) and (o); and
+(d) all reimbursements and allowances received by the taxpayer in respect of those expenses are included in computing the taxpayer’s income.
+(2) Moving expenses of students — There may be deducted in computing a taxpayer’s income for a taxation year the amount, if any, that the taxpayer would be entitled to deduct under subsection (1) if the definition “eligible relocation” in subsection 248(1) were read without reference to subparagraph (a)(i) of that definition and if the word “both” in paragraph (c) of that definition were read as “either or both”.
+(3) Definition of “moving expenses” — In subsection (1), “moving expenses” includes any expense incurred as or on account of
+(a) travel costs (including a reasonable amount expended for meals and lodging), in the course of moving the taxpayer and members of the taxpayer’s household from the old residence to the new residence,
+(b) the cost to the taxpayer of transporting or storing household effects in the course of moving from the old residence to the new residence,
+(c) the cost to the taxpayer of meals and lodging near the old residence or the new residence for the taxpayer and members of the taxpayer’s household for a period not exceeding 15 days,
+(d) the cost to the taxpayer of cancelling the lease by virtue of which the taxpayer was the lessee of the old residence,
+(e) the taxpayer’s selling costs in respect of the sale of the old residence,
+(f) where the old residence is sold by the taxpayer or the taxpayer’s spouse or common-law partner as a result of the move, the cost to the taxpayer of legal services in respect of the purchase of the new residence and of any tax, fee or duty (other than any goods and services tax or value-added tax) imposed on the transfer or registration of title to the new residence,
+(g) interest, property taxes, insurance premiums and the cost of heating and utilities in respect of the old residence, to the extent of the lesser of $5,000 and the total of such expenses of the taxpayer for the period
+(i) throughout which the old residence is neither ordinarily occupied by the taxpayer or by any other person who ordinarily resided with the taxpayer at the old residence immediately before the move nor rented by the taxpayer to any other person, and
+(ii) in which reasonable efforts are made to sell the old residence, and
+(h) the cost of revising legal documents to reflect the address of the taxpayer’s new residence, of replacing drivers’ licenses and non‑commercial vehicle permits (excluding any cost for vehicle insurance) and of connecting or disconnecting utilities,
+but, for greater certainty, does not include costs (other than costs referred to in paragraph (f)) incurred by the taxpayer in respect of the acquisition of the new residence.
+248(1) “eligible relocation” means a relocation of a taxpayer in respect of which the following apply:
+(a) the relocation occurs to enable the taxpayer
+(i) to carry on a business or to be employed at a location (in section 62 and this definition referred to as “the new work location”) that is, except if the taxpayer is absent from but resident in Canada, in Canada, or
+(ii) to be a student in full-time attendance enrolled in a program at a post-secondary level at a location of a university, college or other educational institution (in section 62 and in this definition referred to as “the new work location”),
+(b) the taxpayer ordinarily resided before the relocation at a residence (in section 62 and this definition referred to as “the old residence”) and ordinarily resided after the relocation at a residence (in section 62 and this definition referred to as “the new residence”),
+(c) except if the taxpayer is absent from but resident in Canada, both the old residence and the new residence are in Canada, and
+(d) the distance between the old residence and the new work location is not less than 40 kilometres greater than the distance between the new residence and the new work location;
+[10] The Appellant permanently moved from her home in Australia to her new home in Canada in order to be employed at a new work location in Canada. There is no dispute that prior to the move the Appellant ordinarily resided at her old home in Australia and that after the move the Appellant ordinarily resided at her new home in Canada. There is also no dispute that prior to February 3, 2016 the Appellant was a resident of Australia and was not a resident of Canada and that the Appellant moved to Canada to be employed as a doctor in Canada.
+[11] Paragraphs (b) and (c) of the definition of “eligible relocation” in subsection 248(1) of the ITA together require in clear and unambiguous terms that before the move the Appellant ordinarily resided at a residence in Canada and that after the move the Appellant ordinarily resided at a residence in Canada. An exception to the “in Canada” requirement in paragraph (c) is provided only if at the time of the move the Appellant was “absent from but resident in Canada”. [2] Unfortunately, at the time the Appellant commenced the move from her old home in Australia to her new home in Canada on February 2, 2016, the Appellant was not absent from but resident in Canada.
+[12] The Appellant submits that the Minister should be estopped from relying on the “in Canada” requirement in paragraph (c) of the definition of “eligible relocation” because this requirement was concealed from her in form T1‑M E (15) and Interpretation Bulletin IT-178R3.
+[13] Paragraph 1 of Interpretation Bulletin IT-178R3 states:
+¶1. If an individual changes residences in Canada because of starting to carry on a business or to be employed at a new location, amounts paid for “eligible moving expenses” (see ¶s 12 to 17 below) incurred in moving from the old residence to the new residence may be deducted. However, the move must result in the taxpayer living at least 40 kilometres closer to the new work or business location and the deductibility of such expenses is subject to the limits discussed in ¶s 2 to 4 below. As determined by the Federal Court of Appeal, in the case of Dianne M. Giannakopoulos v. MNR, [1995] 2 CTC 316, 95 DTC 5477, the 40-kilometre distance is measured using the shortest normal route available to the travelling public.
+Taxpayers who are absent from Canada, but resident in Canada for tax purposes, should also refer to ¶ 19 below.
+[Emphasis added.]
+[14] I cannot agree with the Appellant that Interpretation Bulletin IT-178R3 conceals the “in Canada” requirement in paragraph (c) of the definition of “eligible relocation”. The Bulletin quite clearly addresses the situation where “an individual changes residences in Canada”. The Bulletin also highlights that a different rule may apply only if a taxpayer is absent from Canada but resident in Canada.
+[15] Even if Interpretation Bulletin IT-178R3 did not accurately or completely describe the law applicable to moving expenses, it has long been established that interpretation bulletins are not binding on the taxpayer, the Minister or this Court. [3] This has led to the observation by the Federal Court of Appeal that information bulletins do not create estoppels. [4]
+[16] For the foregoing reasons, the Appellant’s move from Australia to Canada commencing on February 2, 2016 is not an “eligible relocation” and the moving expenses paid by the Appellant for that move are not deductible under subsection 62(1) of the ITA. Accordingly, the appeal is dismissed.
+[17] Because the Appellant was self-represented and the hearing proceeded based on a statement of agreed fact, each party shall bear their own costs.
+Signed at Ottawa, Canada, this 22nd day of May 2019.
+“J.R. Owen”
+Owen J.
+CITATION:
+2019 TCC 118
+COURT FILE NO.:
+2018-1736(IT)G
+STYLE OF CAUSE:
+MARY RUBY ELLAWAY v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+London, Ontario
+DATE OF HEARING:
+May 2, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice John R. Owen
+DATE OF JUDGMENT:
+May 22, 2019
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Dominik Longchamps
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] House v. The Queen, 2011 FCA 234 at paragraphs 30 to 32.
+[2] The exception is intended to address circumstances where Canadian residents are temporarily absent from Canada such as military personnel, ambassadors or students: Dixon v. The Queen, 2001 FCA 216, 2001 CarswellNat 1411 (FCA).
+[3] Vaillancourt v. The Queen, [1991] 3 F.C. 663, 132 N.R. 133, 52 F.T.R. 135 (FCA) at page 674.
+[4] Minister of National Revenue v. JP Morgan Asset Management (Canada) Inc., 2013 FCA 250 at paragraph 75. See also Vallelunga v. The Queen, 2016 FC 1329 at paragraphs 9 to 12.

@@ -1,0 +1,253 @@
+---
+title: "Humber College Institute of Technology & Advanced Learning v. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31170/index.do"
+last_modified: "2013-05-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 146"
+citation2: ""
+neutral_citation: "2013 CCI 146"
+decision_date: "2013-05-07"
+language: "fr"
+item_id: "31170"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5064
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:19:08.168000+00:00"
+cases_cited_count: 2
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e946e3f33ae6c89148c2a335402b6cee447d8a34a603e984b86c20ba87109332"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Humber College Institute of Technology & Advanced Learning v. La Reine
+
+- Citation: 2013 CCI 146
+- Decision date: 2013-05-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5064, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Humber College Institute of Technology & Advanced Learning v. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-05-07
+Référence neutre
+2013 CCI 146
+Numéro de dossier
+2012-1721(GST)I
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2012-1721(GST)I
+ENTRE :
+THE HUMBER COLLEGE INSTITUTE
+OF TECHNOLOGY & ADVANCED LEARNING,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+___________________________________________________________________
+Appel entendu le 16 avril 2013 à Toronto (Ontario)
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Avocat de l’appelant :
+Me David M. Sherman
+Avocat de l’intimée :
+Me Tony Cheung
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en vertu de la Loi sur la taxe d’accise (la « Loi ») pour les périodes s’étant terminées le 1er avril 2007 et le 31 juillet 2008 est accueilli, et l’affaire est déférée au ministre du Revenu national pour qu’il établisse une nouvelle cotisation en tenant compte du fait que les intérêts à payer, conformément à l’article 280 de la Loi, sont les intérêts sur le montant de la taxe sur les produits et services payable à la date d’échéance des paiements, selon la définition figurant dans les motifs ci‑joints, moins le montant de remboursement déductible en application du paragraphe 259(3) de la Loi; autrement dit, les intérêts doivent être payés uniquement sur le montant net.
+Signé à Vancouver (Colombie-Britannique), ce 7e jour de mai 2013.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 19e jour de juin 2013.
+M.-C. Gervais
+Référence : 2013 CCI 146
+Date : 20130507
+Dossier : 2012-1721(GST)I
+ENTRE :
+THE HUMBER COLLEGE INSTITUTE
+OF TECHNOLOGY & ADVANCED LEARNING,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge C. Miller
+[1] Il s’agit d’un exemple intéressant d’une loi censée aider un contribuable, mais qui cause en fait plus de tort à un contribuable bien intentionné qu’à un contribuable moins bien intentionné. Certains, dont assurément M. Sherman, l’avocat de l’appelant, estiment que celle-ci donne lieu à une absurdité. M. Cheung, l’avocat de l’intimée, n’y voit aucune absurdité et maintient que la loi fait exactement ce qu’elle est censée faire. Permettez-moi d’expliquer brièvement ce qu’il en est.
+[2] En raison du retard dans la production de la déclaration et d’une demande de remboursement, The Humber College Institute of Technology & Advanced Learning (« Humber ») a fait l’objet d’une cotisation au titre d’intérêts sur le montant total de la taxe sur les produits et services (« TPS ») découlant de l’achat de certains immeubles, sans qu’il soit tenu compte du remboursement de 67 % auquel avait droit Humber. Si Humber n’avait pas de lui-même pris l’initiative de produire la déclaration et de demander le remboursement, qui a donné lieu à une cotisation, et que le ministre du Revenu national (le « ministre ») avait plutôt établi une cotisation à son égard sans qu’il ait produit quoi que ce soit, le paragraphe 296(2.1) de la Loi sur la taxe d’accise (la « Loi ») serait venu à la rescousse du contribuable : le remboursement de 67 % aurait compensé la TPS rétroactivement pour ce qui est de la période pour laquelle la cotisation concernant la taxe a été établie et le contribuable n’aurait donc pas eu à payer d’intérêts au titre du paragraphe 280(1) de la Loi sur le montant total de la TPS.
+Les faits
+[3] Les parties ont fourni un exposé conjoint des faits, que je reproduis avec des modifications mineures d’ordre rédactionnel afin que celui-ci soit conforme aux définitions données dans les présents motifs.
+[traduction]
+Le contexte
+1. L’appelant est The Humber College Institute of Technology and Advanced Learning (« Humber »).
+2. Pendant toute la période en cause, Humber était inscrit aux fins de la TPS/TVH, avec le numéro d’inscription 10749 7273 RT0001; il est donc un « inscrit » au sens du paragraphe 123(1) de la Loi et sa période de déclaration est le mois civil.
+3. Humber est un « collège public » au sens du paragraphe 123(1) de la Loi et est un « organisme déterminé de services publics » au sens du paragraphe 259(1) de la Loi.
+Les achats et la déclaration de la TPS
+4. Humber a acheté les immeubles suivants (les « immeubles ») aux montants indiqués; la clôture des achats a eu lieu aux dates indiquées ci‑après :
+3120, boul. Lakeshore Ouest, Toronto (Ontario)
+(« Immeuble 1 »)
+5 450 000 $
+24 avril 2007
+3170, boul. Lakeshore Ouest, Toronto (Ontario)
+(« Immeuble 2 »)
+4 800 000 $
+9 juillet 2008
+110 Carrier Drive, Toronto (Ontario)
+(« Immeuble 3 »)
+6 850 000 $
+16 juillet 2008
+5. En raison du paragraphe 228(4) de la Loi, Humber, à titre d’inscrit, était tenu d’établir sa cotisation au titre de la TPS et de la payer sur chacun des achats ci-dessus. Comme Humber est un déclarant mensuel, la date limite pour la production de la déclaration et le paiement de la taxe, au titre de l’alinéa 228(4)a), était un mois suivant la fin du mois de l’achat (les « dates d’échéance des paiements »), soit :
+Immeuble 1 : 31 mai 2007
+Immeuble 2 : 31 août 2008
+Immeuble 3 : 31 août 2008
+6. Les montants de TPS exigible (la « TPS à payer ») étaient les suivants :
+Immeuble 1 : 5 450 000 $ * 0,06 = 327 000 $
+Immeuble 2 : 4 800 000 $ * 0,05 = 240 000 $
+Immeuble 3 : 6 850 000 $ * 0,05 = 342 500 $
+Total 909 500 $
+7. Comme Humber est un « organisme déterminé de services publics » au sens du paragraphe 259(1) de la Loi et un « collège public » au sens du paragraphe 123(1), Humber a, en règle générale, droit, en vertu du paragraphe 259(3) de la Loi, à un remboursement correspondant à 67 % de la TPS qu’il paye sur les achats (s’il n’a pas droit à des crédits de taxe sur les intrants), notamment l’achat d’immeubles.
+8. Humber avait donc droit aux remboursements suivants (qui correspondent à 67 % de la TPS à payer) (les « remboursements relatifs aux trois immeubles ») :
+Immeuble 1 : 327 000 $ * 0,67 = 219 090 $
+Immeuble 2 : 240 000 $ * 0,67 = 160 800 $
+Immeuble 3 : 342 500 $ * 0,67 = 229 475 $
+Total 609 365 $
+9. En vertu du paragraphe 228(6) de la Loi, Humber aurait eu le droit d’utiliser les remboursements relatifs aux trois immeubles pour compenser la TPS payable aux dates d’échéance des paiements s’il avait fait des paiements à ces dates. Les remboursements relatifs aux trois immeubles soustraits, les sommes dues (les « sommes nettes dues ») étaient les suivantes :
+Immeuble 1 : 327 000 $ - 219 090 $ = 107 910 $
+Immeuble 2 : 240 000 $ - 160 800 $ = 79 200 $
+Immeuble 3 : 342 500 $ - 229 475 $ = 113 025 $
+Total 300 135 $
+10. Humber a omis de déclarer les achats et de payer les sommes nettes dues (300 135 $ au total) aux dates d’échéance des paiements.
+11. Humber a indiqué qu’il avait omis d’établir sa propre cotisation de TPS à payer (et de demander les remboursements relatifs aux trois immeubles correspondants). Humber a déclaré la totalité des immeubles (1, 2 et 3) sur sa déclaration mensuelle de TPS/TVH pour la période du 1er août au 31 août 2008 (la « déclaration d’août 2008 »). Le ministre a reçu cette déclaration et le paiement qui l’accompagne le 25 septembre 2008 (la « date réelle du paiement »).
+12. Dans la déclaration d’août 2008, Humber a déclaré un montant de TPS de 1 035 655 $ et a déduit des remboursements s’élevant à 846 918,95 $. (Il a également demandé dans sa déclaration des crédits de taxe sur les intrants qui ne sont pas contestés.) Humber a joint à sa déclaration un paiement de 202 502,40 $.
+13. Humber a également présenté une demande de remboursement relatif aux organismes de services publics en vertu de l’article 259 de la Loi, pour un montant de 846 918,95 $, demande sur laquelle reposait la déduction des remboursements de 846 918,95 $ dans la déclaration d’août 2008. Le ministre a reçu cette demande de remboursement le 26 septembre 2008.
+14. Le montant de TPS indiqué dans la déclaration d’août 2008 incluait la somme de 909 500 $ (TPS à payer) figurant au point 6 ci-dessus (ainsi que d’autres montants non pertinents en l’espèce). Les remboursements indiqués dans la déclaration d’août 2008 (et demandés dans la demande de remboursement relatif aux organismes de services publics) incluaient la somme de 609 365 $ calculée pour les trois immeubles figurant au point 8 ci-dessus (ainsi que d’autres montants non pertinents en l’espèce).
+Les cotisations et l’opposition
+15. Le ministre a délivré un avis de cotisation en date du 21 octobre 2008 et établi la taxe à payer sur l’achat des immeubles à compter des dates d’échéance des paiements, plus les intérêts applicables en vertu du paragraphe 280(1) de la Loi.
+16. Le ministre a délivré un avis de cotisation en date du 14 novembre 2008 à l’égard de la demande de remboursement et autorisé un remboursement de 846 918,95 $ (qui comprenait les remboursements relatifs aux trois immeubles totalisant 609 365 $) pour la période de déclaration se terminant le 31 août 2008.
+17. Vu les deux avis de cotisation ci-dessus, le ministre a établi une cotisation au titre d’intérêts sur l’achat des immeubles à compter des dates d’échéance des paiements, mais a autorisé un crédit pour les remboursements seulement à compter de la date de la demande des remboursements. Autrement dit, le ministre a dans les faits établi une cotisation au titre des intérêts sur la TPS à payer (909 500 $) plutôt que sur les sommes nettes dues (300 135 $), pour la période correspondant aux dates d’échéance des paiements jusqu’à la date réelle du paiement.
+18. Le 22 décembre 2008, Humber a fait opposition à la cotisation au titre d’intérêts et a demandé une réduction du montant des intérêts au motif que les remboursements auraient dû être appliqués à compter des dates d’échéance des paiements plutôt qu’à compter de la date réelle du paiement, de sorte que les intérêts à payer sur le montant en retard soient calculés sur les sommes nettes dues (300 135 $) plutôt que sur la TPS à payer (909 500 $).
+19. Le ministre a ratifié la cotisation par un avis en date du 2 mars 2012 et Humber a interjeté appel de la cotisation auprès de la Cour.
+Date : 10 avril 2013.
+La question à trancher
+[4] Humber doit-il payer des intérêts, conformément au paragraphe 280(1) de la Loi, sur le montant total de la TPS dont le paiement était en retard ou simplement sur le montant dû si l’on tient compte du montant du remboursement déductible en vertu du paragraphe 259(3) de la Loi? S’il doit payer des intérêts sur le montant total, alors, l’appelant demande à la Cour de formuler une recommandation à l’intention du ministre pour qu’il renonce aux intérêts.
+Les dispositions législatives applicables
+[5] Les dispositions pertinentes de la loi sont les suivantes :
+Obligation de payer la taxe :
+paragraphes 228(4) et (6) de la Loi :
+228(4) Le redevable de la taxe prévue à la section II relativement à un immeuble qui lui a été fourni par une personne qui n’est pas tenue de percevoir la taxe et n’est pas réputée l’avoir perçue est tenu :
+a) s’il est un inscrit et a acquis le bien pour l’utiliser ou le fournir principalement dans le cadre de ses activités commerciales, de payer la taxe au receveur général au plus tard le jour où il est tenu de produire sa déclaration pour la période de déclaration où la taxe est devenue payable et d’indiquer la taxe dans cette déclaration;
+b) sinon, de payer la taxe au receveur général et de présenter au ministre, en la forme et selon les modalités déterminées par celui-ci, une déclaration la concernant et contenant les renseignements requis, au plus tard le dernier jour du mois suivant le mois civil où la taxe est devenue payable.
+[…]
+228(6) Dans le cas où une personne produit, à un moment donné et conformément à la présente partie, une déclaration où elle indique un montant (appelé « versement » au présent paragraphe) qu’elle est tenue de verser en application des paragraphes (2) ou (2.3) ou de payer en application des paragraphes (2.1) ou (4) ou des sections IV ou IV.1 et qu’elle demande dans cette déclaration, ou dans une autre déclaration ou une demande produite conformément à la présente partie avec cette déclaration, un remboursement qui lui est payable à ce moment en application de la présente partie, compte non tenu de la section III, la personne est réputée avoir versé à ce moment au titre de son versement, et le ministre avoir payé à ce moment au titre du remboursement, ce versement ou, s’il est inférieur, le montant du remboursement.
+Obligation de payer les intérêts :
+article 280 de la Loi :
+(1) Sous réserve du présent article et de l’article 281, la personne qui ne verse pas ou ne paie pas un montant au receveur général dans le délai prévu par la présente partie est tenue de payer des intérêts sur ce montant, calculés au taux réglementaire pour la période commençant le lendemain de l’expiration du délai et se terminant le jour du versement ou du paiement.
+Remboursement :
+paragraphes 259(3) et (5) de la Loi :
+(3) Sous réserve des paragraphes (4.1) à (4.21) et (5), le ministre rembourse la personne (sauf une personne désignée comme municipalité pour l’application du présent article, un inscrit visé par règlement pris en application du paragraphe 188(5) et une institution financière désignée) qui, le dernier jour de sa période de demande ou de son exercice qui comprend cette période, est un organisme déterminé de services publics, un organisme de bienfaisance ou un organisme à but non lucratif admissible. Le montant remboursable est égal au total des montants suivants :
+a) le montant qui correspond au pourcentage établi de la taxe exigée non admise au crédit relativement à un bien ou à un service, sauf un bien ou un service visés par règlement, pour la période de demande;
+b) dans le cas d’une personne faisant partie d’une catégorie réglementaire qui réside dans une province participante, le montant déterminé selon les modalités réglementaires pour l’application du nouveau régime de la taxe à valeur ajoutée harmonisée ou, dans les autres cas, le montant qui correspond au pourcentage provincial établi de la taxe exigée non admise au crédit relativement à un bien ou à un service, sauf un bien ou un service visés par règlement, pour la période de demande.
+[…]
+(5) Un remboursement prévu au présent article relativement à une période de demande de l’exercice d’une personne est accordé si la personne en fait la demande après le premier jour de cet exercice où elle est un organisme déterminé de services publics, un organisme de bienfaisance ou un organisme à but non lucratif admissible et dans les quatre ans suivant le jour ci-après :
+a) si la personne est un inscrit, le jour où elle est tenue de produire une déclaration aux termes de la section V pour la période de demande;
+b) sinon, le dernier jour de la période de demande.
+Application d’un montant de remboursement non demandé
+paragraphe 296(2.1) de la Loi :
+(2.1) Le ministre, s’il constate les faits ci-après relativement à un montant (appelé « montant de remboursement déductible » au présent paragraphe) lors de l’établissement d’une cotisation concernant la taxe nette d’une personne pour une période de déclaration de celle-ci ou concernant un montant (appelé « montant impayé » au présent paragraphe) qui est devenu payable par une personne en vertu de la présente partie, applique tout ou partie du montant de remboursement déductible en réduction de la taxe nette ou du montant impayé comme si la personne avait payé ou versé, à la date visée aux sous-alinéas a)(i) ou (ii), le montant ainsi appliqué au titre de la taxe nette ou du montant impayé :
+a) le montant de remboursement déductible aurait été payable à la personne à titre de remboursement s’il avait fait l’objet d’une demande produite aux termes de la présente partie à la date suivante et si, dans le cas où le remboursement vise un montant qui fait l’objet d’une cotisation, la personne avait payé ou versé ce montant :
+(i) si la cotisation concerne la taxe nette pour la période de déclaration, la date limite de production de la déclaration aux termes de la section V pour la période,
+(ii) si la cotisation concerne un montant impayé, la date à laquelle ce montant est devenu payable par la personne;
+b) le montant de remboursement déductible n’a pas fait l’objet d’une demande produite par la personne avant le jour où l’avis de cotisation lui est envoyé;
+c) le montant de remboursement déductible serait payable à la personne s’il faisait l’objet d’une demande produite aux termes de la présente partie le jour où l’avis de cotisation lui est envoyé, ou serait refusé s’il faisait l’objet d’une telle demande du seul fait que le délai dans lequel il peut être demandé a expiré avant ce jour.
+Analyse
+[6] L’appelant soulève deux arguments. D’abord, celui qui repose sur une interprétation textuelle, contextuelle et téléologique de l’article 280 de la Loi, à savoir que les intérêts ne s’appliquent que sur le montant après remboursement de 33 % de la TPS impayée, étant donné que c’était l’argent que Humber devait envoyer à l’Agence du revenu du Canada (l’« ARC »). Deuxièmement, le paragraphe 296(2.1) de la Loi doit être interprété de manière à s’appliquer en faveur de Humber, afin d’éviter la situation absurde où un contribuable fautif est plus avantagé qu’un contribuable comme Humber qui divulgue volontairement les transactions immobilières et produit les documents y afférents.
+[7] La position de l’intimée est simplement que l’obligation de payer la TPS et la demande de remboursement, bien qu’elles soient toutes les deux liées aux mêmes transactions immobilières, se présentent à des moments différents. Par exemple, pour l’immeuble 1, l’obligation est née le 31 mai 2007, alors que la demande de remboursement n’a été faite que le 26 septembre 2008 : les intérêts sont donc dus sur le montant total jusqu’à cette date tardive.
+[8] La disposition relative au paiement d’intérêts sur le montant de la TPS est l’article 280 de la Loi, qui exige de « payer des intérêts sur ce montant ». J’examinerai d’abord l’argument de l’appelant, à savoir que cette disposition, interprétée de manière textuelle, contextuelle et téléologique, exige seulement que des intérêts soient calculés sur la TPS après l’application du remboursement, c’est-à-dire sur les sommes nettes dues (environ 300 000 $). Cet argument nécessite une interprétation de l’article 280 de la Loi, que je ferai d’une manière textuelle, contextuelle et téléologique. J’aborderai également l’argument de l’absurdité dans le contexte de l’interprétation de l’article 280 de la Loi, nonobstant le fait que cette question a été abordée par les avocats des parties dans le contexte de l’interprétation du paragraphe 296(2.1) de la Loi.
+[9] Selon la Loi, le terme « montant » signifie essentiellement argent ou valeur en argent. Le paragraphe 228(4) de la Loi est la disposition qui oblige le contribuable à « payer la taxe ». Je constate que des intérêts sont appliqués sur un montant, non sur la taxe. Le paragraphe 259(3) de la Loi, cependant, exige que le ministre « rembourse la personne » dans certaines circonstances, ce qui s’applique en l’espèce. Le paragraphe 259(5) de la Loi précise à quel moment le remboursement doit être effectué, en fait à la demande du contribuable, qui a quatre ans pour présenter une telle demande. Donc, en ce qui concerne l’immeuble 1, par exemple, Humber pouvait, le 31 mai 2007, déclarer la taxe et demander le remboursement, de sorte qu’il aurait été tenu de verser et de payer une taxe nette d’environ 107 000 $ au lieu de 327 000 $.
+[10] L’appelant soutient que ce résultat est exactement ce qui était prévu par le gouvernement lorsqu’il a introduit le remboursement, c’est-à-dire que le remboursement, tel qu’il est énoncé dans le document TPO889 publié par le ministère des Finances le 8 août 1989, avait pour but de ne pas imposer un fardeau supérieur à celui subi avant la réforme. Le document technique poursuit en énonçant de qui suit :
+[…] Ce système n’entraînera aucune complication supplémentaire pour les vendeurs, puisque ces organismes sélectionnés du secteur public paieront la taxe totale due au moment de l’achat et présenteront ensuite une demande de ristourne. […]
+[11] Cela renforce le point de vue de l’intimée, à savoir qu’il s’agit d’un problème de date, mais il est clair que le remboursement vise à réduire la complexité inutile afin d’atteindre l’objectif qu’est celui de ne pas imposer un fardeau plus lourd. En fait, des organismes de services publics tels que Humber n’avaient pas à payer davantage que sous l’ancien régime. Le mécanisme de remboursement était une façon d’atteindre cet objectif efficacement, sans que les fournisseurs aient à déterminer quel taux de TPS ils devraient appliquer. Compte tenu de l’objectif et du mécanisme pour y parvenir, les intérêts sont-ils alors supposés s’appliquer à un montant de TPS supérieur à la taxe censée être perçue auprès d’un organisme de services publics tel que Humber? Le cas échéant, Humber subirait effectivement un fardeau plus lourd.
+[12] Si on examine selon le contexte la loi imposant des intérêts à un organisme de services publics, il faut tenir compte de toutes les dispositions susmentionnées. Si on examine le libellé des dispositions, il est vrai que celles-ci peuvent être interprétées littéralement de manière à imposer une taxe sur la TPS brute, bien qu’il y ait une certaine ambiguïté quant au montant à verser dans le cas présent. Toutefois, non seulement une interprétation littérale semble ne pas correspondre à une interprétation téléologique, elle ne cadre pas non plus avec l’analyse contextuelle.
+[13] J’examine d’abord le paragraphe 296(2.1) de la Loi pour fournir un contexte à l’interprétation du paragraphe 280(1). Ce paragraphe reconnaît effectivement qu’un organisme de services publics comme Humber, qui peut avoir omis de demander un remboursement, se verra automatiquement accorder un crédit sur la taxe appliquée rétroactivement, de telle sorte qu’aucun intérêt ne sera calculé sur le montant total de la TPS avant le remboursement. Trois conditions doivent être remplies pour obtenir ce crédit. Premièrement, aux termes de l’alinéa 296(2.1)a) de la Loi, le contribuable aurait eu droit au remboursement s’il l’avait demandé au moment où il était tenu de produire la déclaration de TPS : il s’agit, en fait, d’une condition d’admissibilité. Aux termes de l’alinéa 296(2.1)c) de la Loi, si le contribuable avait fait sa demande au moment de la cotisation, le remboursement serait payable au contribuable. Cela prévoit évidemment la possibilité que le ministre n’ait pas, au moment de l’établissement de la cotisation, déjà effectué le remboursement ou porté celui‑ci au crédit du contribuable. Aux termes de l’alinéa 296(2.1)b) de la Loi, le contribuable, au moment de l’établissement de la cotisation, n’avait pas déjà demandé le remboursement. Cela semble tenir compte de la situation où le ministre n’a pas fait le remboursement ou porté celui‑ci au crédit du contribuable, mais a reçu une demande en ce sens. L’interaction entre les alinéas 296(2.1)b) et c) de la Loi n’est pas parfaitement claire pour moi, mais je sais qu’ensemble ils ont pour effet de veiller à ce que le crédit ou le remboursement ne soit pas versé en double. Cependant, il ressort clairement de la portée générale du paragraphe 296(2.1) de la Loi que le remboursement offert à un organisme de services publics tel que Humber est censé coïncider l’imposition de la taxe.
+[14] Ainsi, dans ce contexte, je me demande pourquoi un collège qui n’a pas demandé le remboursement obtiendrait l’application rétroactive, tandis qu’un collège qui a demandé le remboursement, comme Humber, n’obtiendrait pas celle‑ci? Je ne peux que conclure que le paragraphe 296(2.1) de la Loi présume simplement que le collège demandant le remboursement obtiendrait naturellement l’application rétroactive. Plus précisément, cela ne répond pas au deuxième argument de M. Sherman, à savoir que le paragraphe 296(2.1) de la Loi s’applique à Humber, nonobstant le fait que celui-ci ne satisfait pas à l’exigence énoncée à l’alinéa 296(2.1)b) de la Loi : je me penche simplement sur la question de savoir si la disposition relative au paiement d’intérêts, soit le paragraphe 280(1) de la Loi, peut être interprétée d’une manière textuelle, contextuelle et téléologique comme évitant l’imposition d’intérêts sur un montant avant remboursement dans la situation dont je suis saisi.
+[15] Le libellé des paragraphes 259(3) et (5) de la Loi appuie également, selon le contexte, cette conclusion. Conformément au paragraphe 259(3) de la Loi, le ministre doit, sous réserve du paragraphe (5) de la Loi, rembourser un collège autorisé. Le paragraphe (5) de la Loi fixe des délais au ministre pour verser le remboursement, en fait à la demande du collège en tout temps dans les quatre ans suivant la date à laquelle a été produite la déclaration pour la période de demande. Cela s’apparente à un prêt à demande. Si vous êtes un collège, vous avez droit à un remboursement – il suffit de le demander et, même si vous ne le demandez pas, le paragraphe 296(2.1) de la Loi vous permet de l’obtenir comme si vous l’aviez demandé rétroactivement dès le début. C’est tout à fait logique. Si le droit de demander le remboursement naît le premier jour, aussi le droit à ce que celui-ci compense la TPS à payer doit-il naître le premier jour afin de déterminer le montant des intérêts dus par le collège.
+[16] De plus, le paragraphe 259(5) de la Loi fait référence à un « un remboursement prévu au présent article relativement à une période de demande ». Encore une fois, le remboursement est expressément lié à la période de demande pendant laquelle naît le droit au remboursement. Cela est conforme à l’idée que la taxe et le remboursement sont inextricablement liés à une transaction. Le remboursement ne vise pas une période de demande ultérieure, mais seulement la période antérieure : il va de pair avec l’imposition de la taxe. Le montant prévu au paragraphe 280(1) de la Loi que Humber a omis de payer et qui est assujetti à des intérêts ne peut être le montant intégral de la TPS, mais seulement le montant qui, comme la loi le précise, devait être payé, soit le montant restant une fois le remboursement appliqué.
+[17] M. Cheung, l’avocat de l’intimée, soutient que la décision de l’ancien juge en chef Garon dans l’affaire Claude Paquin c. Sa Majesté la Reine[1] est déterminante quant à l’issue du présent appel. Je suis en désaccord. L’ancien juge en chef Garon était saisi d’une affaire relative à des remises de taxe tardives où il était réclamé des crédits de taxe sur les intrants (« CTI »). Ceux-ci n’ont été accordés qu’à compter de la date de la présentation tardive de la déclaration. Des intérêts ont été imputés, par conséquent, sur l’intégralité de la taxe à payer, sans déduire rétroactivement les CTI de la taxe. Fait intéressant, le paragraphe 296(2) de la Loi n’a jamais été mentionné. Manifestement, la déduction des CTI n’a pas été appliquée au moment où le contribuable y aurait eu droit, mais seulement lorsqu’il en a fait la demande. Cependant, le droit aux CTI n’est pas le même que le droit aux remboursements, compte tenu de l’interprétation contextuelle et téléologique des dispositions législatives liées aux remboursements. Les CTI ne sont pas inextricablement liés à la transaction donnant lieu à la TPS. Les CTI ne sont pas propres aux organismes de services publics clairement désignés, qui bénéficient d’un traitement spécial.
+[18] Jusque-là, j’ai appliqué une méthode d’interprétation textuelle, contextuelle et téléologique favorable à l’égard l’article 280 de la Loi et j’ai conclu que le montant devant être versé est le montant de la TPS après remboursement. Ce raisonnement favorable est confirmé par ce que je qualifierais de méthode d’interprétation défavorable, à savoir que l’interprétation de l’intimée aboutirait à une absurdité.
+[19] Permettez-moi d’abord de définir ce qui pourrait être considéré comme une absurdité en l’espèce. Si Humber demande un remboursement, celui-ci ne s’applique qu’au moment de la demande. Si Humber ne demande pas le remboursement, celui-ci s’applique rétroactivement. En fait, si vous demandez un remboursement, vous payez des intérêts; si vous ne demandez pas de remboursement, vous ne payez pas d’intérêts.
+[20] Humber avait trois choix quand il a découvert l’erreur qu’il avait faite dans sa déclaration. Premièrement, il aurait pu ne rien faire et attendre que l’ARC découvre l’erreur et établisse la cotisation, auquel cas le paragraphe 296(2.1) de la Loi s’appliquerait et des intérêts auraient été imputés uniquement sur le montant net de la TPS (de 33 %). Deuxièmement, il pouvait produire tardivement une déclaration de TPS en déclarant les achats d’immeubles, ne pas demander le remboursement et attendre la cotisation. Encore une fois, le paragraphe 296(2.1) de la Loi s’appliquerait et des intérêts ne seraient exigés que sur les 33 %. Troisièmement, il pouvait faire ce qu’il a fait, soit produire la déclaration et demander le remboursement, ce qui a conduit le ministre à réclamer des intérêts sur l’intégralité de la TPS.
+[21] Il semble absurde que, le 25 septembre 2008, soit le jour où le ministre a reçu la déclaration produite tardivement par Humber, il soit implicite par l’application du paragraphe 296(2.1) de la Loi que des intérêts n’étaient exigibles que sur un montant net, mais que le lendemain, soit le 26 septembre, jour où le gouvernement a reçu la demande de remboursement, Humber devait maintenant payer des intérêts sur le montant intégral de TPS, soit le montant brut. Comme dirait M. Spock, c’est tout à fait illogique.
+[22] Manifestement, le paragraphe 296(2.1) de la Loi existe pour aider un collège qui n’a pas fait la demande de remboursement, non pour nuire au collège qui demande un remboursement qu’il n’a pas encore obtenu.
+[23] Est-ce absurde? Dans l’arrêt Rizzo & Rizzo Shoes Ltd (Re)[2], le juge Iacobucci avait ceci à dire :
+D’après Côté, op. cit., [Pierre-André Côté, Interprétation des lois, 2e éd. Cowansville, Québec, Yvon Blais, 1991], on qualifiera d’absurde une interprétation qui mène à des conséquences ridicules ou futiles, si elle est extrêmement déraisonnable ou inéquitable, si elle est illogique ou incohérente, ou si elle est incompatible avec d’autres dispositions ou avec l’objet du texte législatif (aux pp. 430 à 432). Sullivan partage cet avis en faisant remarquer qu’on peut qualifier d’absurdes les interprétations qui vont à l’encontre de la fin d’une loi ou en rendent un aspect inutile ou futile (Sullivan, Construction of Statutes, op. cit., [Ruth Sullivan, éd., Driedger on the Construction of Statutes, 3ième éd. (Toronto, Butterworths, 1994)], à la p. 88).
+[24] Le Dictionary of Words and Phrases de Carswell définit ainsi le mot « absurdité » : [traduction] « incompatible avec le simple bon sens; logiquement contradictoire, dénué de sens, ridicule » et, en ce qui concerne l’interprétation des lois, [traduction] « manque d’harmonie entre les parties d’une loi ou entre une partie d’une loi et son ensemble, ou encore, incompatibilité entre la loi prise dans son ensemble et un résultat particulier de son application. Le critère de l’absurdité est donc un critère objectif fondé sur la comparaison de deux choses. Le critère n’est pas de savoir si une cour ou un juge croit que le fait d’interpréter des termes clairs et non ambigus selon leur sens ordinaire donne lieu à un résultat absurde ». Cette citation est tirée de l’affaire ontarienne Carfrae Estates Ltd. v. Gamble (1979)[3].
+[25] Le juge Webb a examiné ce concept en détail dans la décision Pawlak c La Reine[4], où il a étudié le paragraphe 296(2) de la Loi, la disposition apparentée au paragraphe 296(2.1) de la Loi. Il a affirmé qu’une interprétation littérale de l’alinéa 296(2)b) de la Loi aboutira à des résultats illogiques :
+[…] Une interprétation littérale de la disposition aurait des conséquences illogiques, à savoir que le fait de demander les CTI dans une déclaration produite en dehors des délais impartis ferait en sorte que les appelants ne pourraient pas obtenir que ces CTI soient pris en considération dans le calcul de leur taxe nette, mais que le fait de ne pas inclure ces CTI dans une déclaration produite en dehors des délais impartis ferait en sorte que les appelants pourraient voir ces CTI pris en considération dans le calcul de leur taxe nette.
+[26] Je ne donnerai pas plus de détails sur cette affaire à ce stade-ci, autrement que pour la citer en exemple relativement au principe selon lequel la loi ne doit pas être interprétée de manière à produire des conséquences absurdes.
+[27] La comparaison, à mon avis, doit se faire entre les dispositions pertinentes de la Loi considérée globalement, tel qu’il est indiqué ci-dessus, et un résultat particulier de son application. Comme je l’ai conclu en appliquant une méthode constructive, la Loi vise à ce que le remboursement soit utilisé pour compenser la taxe au moment où celle-ci est exigible. Le résultat de l’application du paragraphe 280(1) de la Loi ne ferait pas que conduire littéralement à un manque d’harmonie, mais aussi à un résultat totalement opposé à l’esprit de la loi.
+[28] Ainsi, Humber est tenu en vertu du paragraphe 280(1) de la Loi de payer des intérêts sur un montant qu’il a omis de payer quand il le fallait. Je conclus que, si l’on applique une méthode d’interprétation textuelle, contextuelle et téléologique, la seule interprétation logique est que le montant qu’il a omis de payer n’était pas le montant intégral de la TPS, mais le montant moins le montant de son billet à demande virtuel. En outre, je conclus qu’il serait absurde de statuer autrement.
+[29] Le deuxième argument que l’appelant a soulevé en s’appuyant sur l’affaire Pawlak déjà mentionnée est que le paragraphe 296(2.1) de la Loi doit être interprété comme s’appliquant à la situation de Humber. J’ai évoqué le paragraphe 296(2.1) de la Loi pour donner un contexte à l’interprétation du paragraphe 280(1) de la Loi. J’examine maintenant la question de savoir s’il est possible de considérer que, dans les faits, le paragraphe 296(2.1) de la Loi écarte l’exigence énoncée à l’alinéa 296(2.1)b) de la Loi, ce que l’appelant suggère que je fasse en s’appuyant sur l’argument relatif à l’absurdité.
+[30] Il est plus difficile pour l’appelant de formuler un tel argument, parce que le libellé de l’alinéa 296(2.1)b) de la Loi laisse peu de place à l’ambiguïté, contrairement au libellé plus général du paragraphe 280(1) de la Loi. L’appelant fait valoir que l’alinéa 296(2.1)b) de la Loi vise à éviter de doubler le remboursement et que, par conséquent, je devrais ignorer le sens ordinaire de l’exigence selon laquelle aucune demande ne doit pas avoir été présentée, à condition que la demande n’ait pas, au moment de la nouvelle cotisation, donné lieu au remboursement. L’appelant soutient qu’il s’agit d’une méthode semblable à celle qu’a suivie le juge Webb dans l’affaire Pawlak, bien que cela soit à propos du paragraphe 296(2) de la Loi traitant des CTI. Mais ce n’est pas tout à fait le cas.
+[31] Je suis disposé à m’en remettre aux observations générales du juge Webb afin d’appuyer ma conclusion portant sur le premier argument, en particulier celle concernant le résultat absurde, mais l’application de son raisonnement plus précis quant au paragraphe 296(2) de la Loi ne peut être appliqué carrément au paragraphe 296(2.1) de la Loi. Il y a quelques différences importantes.
+[32] Premièrement, l’alinéa 296(2)b) de la Loi contient la formulation supplémentaire « s’il l’a été, a été refusé par le ministre ». Cela a amené le juge Webb à affirmer ce qui suit :
+17. Si on souscrivait à une interprétation littérale de l’alinéa 296(2)b) de la Loi et que la Cour rendait une ordonnance, comme le prévoit le paragraphe 309(1) de la Loi, exigeant du ministre qu’il établisse une nouvelle cotisation à l’égard de la taxe nette des appelants conformément au paragraphe 296(2) de la Loi, alors, quand les nouvelles cotisations seraient établies à l’égard des appelants conformément à ladite ordonnance, les conditions énoncées à l’alinéa 296(2)b) de la Loi seraient remplies, étant donné qu’à la date d’établissement des nouvelles cotisations, les CTI demandés auraient été auparavant refusés par le ministre. Je ne crois pas que le législateur voulait que les personnes visées par une cotisation de taxe nette se voient refuser la possibilité de bénéficier des dispositions prévues par le paragraphe 296(2) de la Loi pour ensuite voir cet avantage restauré par une ordonnance de la Cour demandant au ministre d’établir une nouvelle cotisation à leur égard.
+[33] De même, le juge Webb a conclu que l’alinéa 296(2)b) de la Loi pouvait s’appliquer :
+19. Il me semble que la condition énoncée à l’alinéa 296(2)b) de la Loi a pour but de faire en sorte que le contribuable n’ait pas déjà bénéficié des CTI au moment où sa taxe nette est calculée pour une période de déclaration donnée. Par conséquent, la condition énoncée à l’alinéa 296(2)b) de la Loi est remplie pourvu que des CTI n’aient pas déjà été accordés au moment où la taxe nette de la personne concernée est calculée pour une période de déclaration donnée. En l’espèce, les appelants remplissent cette condition.
+[34] Enfin, comme l’a fait observer le juge Webb, l’intimée n’a pas fait valoir que les appelants n’avaient pas satisfait aux exigences énoncées à l’alinéa 296(2)b) de la Loi.
+[35] Je n’ai pas la même disposition de la Loi et ce ne sont pas les mêmes circonstances qui me sont présentées. Je ne sais pas comment je peux interpréter une exigence selon laquelle « le montant de remboursement déductible n’a pas fait l’objet d’une demande produite par la personne avant le jour où l’avis de cotisation lui est envoyé » d’une manière autre que la façon dont le texte est formulé. Le but de cette disposition m’aide à résoudre une certaine ambiguïté en ce qui concerne l’imposition d’intérêts suivant l’article 280 de la Loi, mais ce n’est pas suffisant pour l’emporter sur le sens clair de l’exigence elle-même. Humber a-t-il fait une demande avant l’établissement de la cotisation? Oui, il l’a fait : le paragraphe 296(2.1) de la Loi ne s’applique tout simplement pas à son cas. Si ce n’est pas le résultat escompté, et j’ai conclu qu’il ne l’est probablement pas, alors la Cour ne peut pas tout simplement passer outre à l’exigence. Si ce que dit clairement la disposition ne sert pas l’objectif visé, il revient aux législateurs de modifier le libellé.
+[36] Ce n’est pas l’application du paragraphe 296(2.1) de la Loi qui conduit à un résultat absurde, mais sa non-application à la situation de Humber qui donne lieu à une interprétation absurde de l’article 280 de la Loi. Je n’admets pas le deuxième argument de l’appelant, à savoir que les termes clairs du paragraphe 296(2.1) de la Loi peuvent faire l’objet d’une interprétation large au point où il est possible, en fait, de ne pas en tenir compte.
+[37] J’accueille cependant l’appel en me fondant sur le premier argument de l’appelant, à savoir que, en vertu de l’article 280 de la Loi, des intérêts s’appliquent sur le montant après remboursement dû par Humber et je défère donc l’affaire au ministre pour qu’il établisse une nouvelle cotisation en fonction de ce fait. Si je fais erreur dans cette interprétation, alors je recommanderais, dans les circonstances, qu’il soit fait une demande de renonciation aux intérêts.
+Signé à Vancouver (Colombie-Britannique), ce 7e jour de mai 2013.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 19e jour de juin 2013.
+M.-C. Gervais
+RÉFÉRENCE : 2013 CCI 146
+NO DU DOSSIER DE LA COUR : 2012-1721(GST)I
+INTITULÉ : THE HUMBER COLLEGE INSTITUTE OF TECHNOLOGY & ADVANCED LEARNING c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 16 avril 2013
+MOTIFS DU JUGEMENT : L’honorable juge Campbell J. Miller
+DATE DU JUGEMENT: Le 7 mai 2013
+COMPARUTIONS :
+Avocat de l’appelant :
+David M. Sherman
+Avocat de l’intimée :
+Tony Cheung
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : David M. Sherman
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Canada)
+[1] 2004 CCI 597.
+[2] [1998] 1 R.C.S. 27.
+[3] 97 D.L.R. (3d) 162, au paragraphe 164.
+[4] 2012 CCI 355.

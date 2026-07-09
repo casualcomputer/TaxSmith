@@ -1,0 +1,280 @@
+Title: Lipson v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27095/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-148-27095-lipson-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-04-19
+
+# Lipson v. The Queen
+
+- Citation: 2006 CCI 148
+- Decision date: 2006-04-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 965, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lipson v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-04-19
+Référence neutre
+2006 CCI 148
+Numéro de dossier
+2002-1862(IT)G
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-1862(IT)G
+ENTRE :
+JORDAN B. LIPSON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus sur preuve commune avec les appels d'Earl Lipson (2002-1864(IT)G) le 22 février 2006 à Toronto (Ontario).
+Devant : L'honorable juge en chef D.G.H. Bowman
+Comparutions :
+Avocat de l'appelante :
+Me Peter K. Guselle
+Avocat de l'intimée :
+Me Jag Gill, c.r.
+____________________________________________________________________
+JUGEMENT
+Il est ordonné que les appels des nouvelles cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1994, 1995 et 1996 soient rejetés, avec dépens.
+Une seule série d'honoraires d'avocat à l'instruction doit être établie pour Earl Lipson et Jordan B. Lipson.
+Signé à Ottawa, Canada, ce 19e jour d'avril 2006.
+« D.G.H. Bowman »
+Le juge en chef Bowman
+Traduction certifiée conforme
+ce 8e jour de mai 2006.
+Noëlla Goulet, traductrice
+Dossier : 2002-1864(IT)G
+ENTRE :
+EARL LIPSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus sur preuve commune avec les appels de Jordan B. Lipson
+(2002-1862(IT)G) le22 février 2006 à Toronto (Ontario).
+Devant : L'honorable juge en chef D.G.H. Bowman
+Comparutions :
+Avocat de l'appelant :
+Me Peter K. Guselle
+Avocat de l'intimée :
+Me Jag Gill, c.r.
+____________________________________________________________________
+JUGEMENT
+Il est ordonné que les appels des nouvelles cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1994, 1995 et 1996 soient rejetés, avec dépens.
+Une seule série d'honoraires d'avocat à l'instruction doit être établie pour Earl Lipson et Jordan B. Lipson.
+Signé à Ottawa, Canada, ce 19e jour d'avril 2006.
+« D.G.H. Bowman »
+Le juge en chef Bowman
+Traduction certifiée conforme
+ce 8e jour de mai 2006.
+Noëlla Goulet, traductrice
+Référence : 2006CCI148
+Date : 20060419
+Dossier : 2002-1862(IT)G
+ENTRE :
+JORDAN B. LIPSON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+- ET -
+Dossier : 2002-1864(IT)G
+ENTRE :
+EARL LIPSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge en chef Bowman
+[1] Dans ces deux appels, les questions en litige et les faits essentiels sont sensiblement les mêmes. Les appels sont interjetés à l'encontre des nouvelles cotisations établies pour les années d'imposition 1994, 1995 et 1996. Des exposés conjoints des faits (ECF) et des conclusions distincts ont été déposés pour Earl Lipson ( « M. Lipson » ) et pour Jordan B. Lipson ( « Mme Lipson » ).
+[2] L'argumentation a été fondée sur l'ECF déposé pour M. Lipson, reproduit à l'annexe A des présents motifs. Aucune autre preuve n'a été présentée. Les avocats conviennent que la décision concernant les appels de Mme Lipson sera conforme à celle rendue pour les appels formés par M. Lipson.
+[3] La seule question en litige est de savoir si les opérations visées en l'espèce, admises comme étant des opérations d'évitement au sens du paragraphe 245(3) de la Loi de l'impôt sur le revenu ( « LIR » ), constituent un abus relevant de l'article 245, justifiant ainsi le traitement réservé aux cotisations par le ministre du Revenu national. Je suis d'avis qu'elles le sont pour les motifs qui suivent.
+[4] Les faits, énoncés plus en détail dans l'ECF, peuvent être résumés brièvement. Earl et son épouse, Jordanna ( « Mme Lipson » ), ont convenu, le 24 avril 1994, d'acheter une résidence personnelle à Toronto pour la somme de 750 000 $. Le 31 août 1994, Mme Lipson a contracté un emprunt de 562 500 $ auprès de la Banque de Montréal (la « banque » ) et a remis à celle-ci un billet à ordre payable sur demande et portant intérêt. Elle a acquis auprès de M. Lipson 20 actions et 5/6 d'une entreprise familiale, Lipson Family Investments Limited, pour la somme de 562 500 $, qui constituerait, semble-t-il, leur juste valeur marchande ( « jvm » ). Elle a payé M. Lipson au moyen de l'argent emprunté auprès de la banque en lui faisant un chèque à ce montant.
+[5] Le 1er septembre 1994, M. et Mme Lipson ont emprunté auprès de la banque la somme de 562 500 $ garantie par une hypothèque sur la nouvelle maison. L'emprunt de 562 500 $ sur l'hypothèque a servi à rembourser le prêt à demande consenti à Mme Lipson par la banque.
+[6] M. Lipson n'a pas exercé le choix prévu au paragraphe 73(1) de la LIR afin de soustraire son transfert d'actions à Mme Lipson à l'application de ce paragraphe. Selon le plan envisagé, le fait de ne pas exercer de choix en vertu du paragraphe 73(1), même si le bien avait, à ce qu'il semble, été vendu à la jvm, faisait en sorte que la vente était réputée avoir été réalisée au prix de base rajusté ( « pbr » ) pour M. Lipson si bien qu'elle ne donnait lieu à aucun gain ni à aucune perte. Toujours selon le plan, tout gain ou toute perte ou encore tout revenu ou toute perte découlant des actions au moment de leur réalisation ou de leur réception par Mme Lipson seraient réputés être ceux de M. Lipsonaux termes des paragraphes 74.1(1) et 74.2(1). Il était apparemment prévu que l'article 74.5 n'exclut pas l'application des paragraphes 74.1(1) et 74.2(1).
+[7] La façon dont le plan était censé fonctionner, donc, était que le revenu tiré de dividendes sur les actions ou la perte résultant du paiement d'intérêts sur l'hypothèque devait être attribué à M. Lipson, qui a déduit les frais d'intérêt moins les dividendes. Le paragraphe 20(3) (intérêt sur l'argent emprunté pour rembourser un emprunt antérieur contracté aux fins prévues à l'alinéa 20(1)c)) a été invoqué pour justifier la déduction des intérêts.
+[8] Il y a, en l'espèce, un élément que je trouve un tant soit peu curieux et pour lequel je n'ai pas obtenu de réponse satisfaisante : qui a payé les intérêts sur l'hypothèque? L'efficacité du stratagème exigeait que Mme Lipson engage et paie les intérêts. Si M. Lipson a payé les intérêts en son nom propre, on ne pourrait pas affirmer que Mme Lipson a engagé et payé des frais d'intérêt en achetant les actions de M. Lipson. Il n'a pourtant jamais été établi clairement que Mme Lipson a payé les intérêts qui ont donné lieu à la perte attribuée à M. Lipson. L'avocat m'a informé que l'argent provenait d'un compte conjoint. Je présume que si le nom des deux époux figurait à l'engagement, leur responsabilité à l'égard des intérêts était conjointe. Je n'ai pas à me pencher davantage sur cette question étant donné que j'en suis venu à la conclusion que l'article 245 interdit cette déduction. Si j'avais conclu que le stratagème ne constituait pas un abus au sens de l'article 245, j'aurais alors eu à déterminer quelle fraction des intérêts, s'il en est, a été payée par Mme Lipson. Le but global du stratagème était de toute évidence de faire en sorte que les intérêts sur l'hypothèque prise à l'égard de la maison soient déductibles par M. Lipson. Il me paraît extrêmement bizarre que M. Lipson obtienne une déduction pour des intérêts sur de l'agent emprunté sous prétexte de permettre à son épouse d'acheter ses actions.
+[9] Une autre question, sans aucun rapport avec l'article 245, exige à mon avis une réponse. Le but du stratagème était de donner l'impression qu'un emprunt était contracté pour rembourser l'argent utilisé pour acquérir les actions, alors qu'en réalité, il a été contracté pour acheter une maison et permettre à M. Lipson de déduire les intérêts sur de l'argent emprunté pour acheter la maison. S'il les payait directement, il ne pouvait pas les déduire parce qu'après tout, ce n'est pas lui qui achetait les actions. C'est lui qui les vendait. Ils ont donc dû s'organiser pour qu'on puisse considérer que Mme Lipson a payé les intérêts sur l'hypothèque, touché les dividendes et subi la perte de manière à ce que celle-ci puisse revenir à M. Lipson. Il devait incomber à Mme Lipsonde payer les intérêts sur l'argent emprunté pour tirer un revenu d'une entreprise ou d'un bien. Tout à fait en dehors de la question de savoir qui a payé les intérêts, on pourrait se poser l'autre question suivante : même en supposant que Mme Lipson a payé les intérêts, étant donné qu'ils ont délibérément fait en sorte que le revenu ne soit pas attribué à Mme Lipson, mais à M. Lipson, comment peut-on dire que le but de Mme Lipson était de gagner un revenu alors que le but était de s'assurer que le revenu était réputé être celui de M. Lipson aux fins de l'impôt? Je présume que l'on ferait sûrement valoir que l'utilisation faite en vue de tirer un revenu qui est prévue par l'alinéa 20(1)c) comprend le revenu qui revient à l'époux dont les actions viennent d'être acquises par l'épouse. Il est probable que les dividendes versés à Mme Lipson, qui auraient de toute façon été assujettis à l'impôt dans les mains M. Lipson s'il n'y avait pas eu vente à Mme Lipson, étaient destinés à faire ressortir la notion de « perte » une fois combinés aux frais d'intérêt. Il aurait été un peu trop flagrant de payer les intérêts à partir du compte conjoint et de les attribuer à M. Lipson sans les réduire d'un revenu en dividendes.
+[10] Les prétentions des appelants et les mesures de cotisation du ministre ne m'ont pas été présentées avec la clarté à laquelle je me serais attendu ou que j'aurais souhaitée. Les paragraphes 9, 10, 11, 12, 13 et 14 de l'avis d'appel sont reproduits ci-après :
+[TRADUCTION]
+9. Dans sa déclaration de revenus pour l'année d'imposition 1994, l'appelant a déduit, conformément au paragraphe 74.1(1) de la Loi, une perte au titre des actions au montant de 12 948 $, découlant des frais d'intérêt applicables à l'hypothèque.
+10. Dans sa déclaration de revenus pour l'année d'imposition 1995, l'appelant a déclaré, conformément au paragraphe 74.1(1) de la Loi, un revenu net au titre des actions, constitué d'un dividende imposable au montant de 53 546 $ versé par la société relativement aux actions, moins des frais d'intérêt de 47 371 $ applicables à l'hypothèque.
+11. Dans sa déclaration de revenus pour l'année d'imposition 1996, l'appelant a déduit, conformément au paragraphe 74.1(1) de la Loi, une perte au titre des actions, constituée d'un dividende imposable au montant de 12 895 $ versé par la société relativement aux actions, moins des frais d'intérêt de 44 572 $ applicables à l'hypothèque.
+12. Dans une lettre du 15 septembre 1997 adressée au comptable de l'appelant, Revenu Canada (selon le nom que le ministère portait à l'époque) a fait savoir que la déduction par l'appelant des frais d'intérêt aux montants indiqués plus haut serait refusée au motif que les [TRADUCTION] « véritables fins économiques auxquelles l'argent emprunté a été utilisé étaient l'achat d'une résidence principale pour le contribuable et son épouse. En conséquence, les frais d'intérêt applicables à l'argent emprunté n'ont pas été versés en vue de tirer un revenu d'une entreprise ou d'un bien, et leur déduction, par le contribuable ou son épouse, n'est pas admissible en vertu de l'alinéa 20(1)c) de la Loi de l'impôt sur le revenu. Cette position est conforme à de nombreuses décisions judiciaires, y compris la décision rendue récemment dans l'affaire Singleton v. The Queen, 96DTC1850 » .
+13. Le ministre a établi de nouvelles cotisations à l'égard de l'appelant de la façon suivante :
+a) il a refusé la perte au titre des actions déduite par l'appelant dans son année d'imposition 1996 en rajoutant à son revenu le montant de 44 572 $;
+b) il a augmenté le revenu au titre des actions déclaré par l'appelant dans son année d'imposition 1995 en y rajoutant la somme de 47 371 $;
+c) il a refusé la perte au titre des actions déduite par l'appelant dans son année d'imposition 1994 en rajoutant à son revenu la somme de 12 948 $.
+14. L'avis de confirmation porte que les nouvelles cotisations établies partent du principe que l'opération entre l'appelant et son épouse [TRADUCTION] « était une opération d'évitement aux termes du paragraphe 245(3). Les attributs fiscaux ont été déterminés conformément aux paragraphes 245(2) et 245(5) de la Loi. Les déductions que vous avez demandées et qui se chiffraient à 12 948 $ en 1994, à 47 371 $ en 1995 et à 44 572 $ en 1996 ont été refusées aux termes du paragraphe 245(5) » .
+[11] Les paragraphes 3, 4, 5, 6 et 7 de la réponse à l'avis d'appel sont reproduits ci-après :
+[TRADUCTION]
+3. En ce qui concerne le paragraphe 9 de l'avis d'appel, il reconnaît que l'appelant a demandé une déduction pour frais d'intérêt de 12 948,19 $ dans le calcul de son revenu pour l'année d'imposition 1994. Il affirme que l'appelant n'a déclaré aucun dividende imposable provenant de la société Lipson Family Investments Limited (la « société » ). Il nie tous les autres faits qui y sont allégués.
+4. Pour ce qui est du paragraphe 10 de l'avis d'appel, il reconnaît que l'appelant a demandé une déduction pour frais d'intérêt de 47 370,55 $ dans le calcul de son revenu pour l'année d'imposition 1995. Il affirme que l'appelant a déclaré des dividendes imposables de 128 531,25 $ versés par la société. Il nie tous les autres faits qui y sont allégués.
+5. Pour ce qui est du paragraphe 11 de l'avis d'appel, il reconnaît que l'appelant a demandé une déduction pour frais d'intérêt de 44 572,95 $ dans le calcul de son revenu pour l'année d'imposition 1996. Il affirme que l'appelant a déclaré des dividendes imposables de 30 948,64 $ versés par la société. Il nie tous les autres faits qui y sont allégués.
+6. En ce qui touche le paragraphe 13 de l'avis d'appel, il reconnaît que le ministre du Revenu national (le « ministre » ) a établi de nouvelles cotisations à l'égard de l'appelant pour les années d'imposition 1994, 1995 et 1996, les avis connexes étant datés du 20 juin 1998, en vue de refuser les déductions pour frais d'intérêt de 12 948,19 $, de 47 370,55 $ et de 44 572,95 $ respectivement. Il nie tous les autres faits qui y sont allégués.
+7. Pour ce qui est du paragraphe 14 de l'avis d'appel, il reconnaît que l'avis de confirmation est essentiellement tel qu'il y est allégué.
+[12] Ce qui semble s'être produit, du moins selon les actes de procédure, c'est que l'appelant a déduit le montant du revenu net ou de la perte nette qui aurait été déduit par Mme Lipson, n'eut été des règles d'attribution. Le ministre a refusé la perte nette. La question de savoir s'il aurait pu être moins généreux et refuser les frais d'intérêt, mais laisser le revenu en dividendes à l'appelant est un point qu'il n'est pas nécessaire que j'examine plus à fond. Ce qui a été fait ne l'a pas été par suite d'une détermination conforme à l'article 245. L'article 245 a été invoqué bien après l'établissement de la cotisation pour justifier le refus non fondé sur l'article 245.
+[13] Selon le paragraphe 12 de l'avis d'appel, que l'intimée reconnaît, les frais d'intérêt ont été refusés par le ministre au motif que :
+[TRADUCTION]
+[...] les véritables fins économiques auxquelles l'argent emprunté a été utilisé étaient l'achat d'une résidence principale pour le contribuable et son épouse. En conséquence, les frais d'intérêt applicables à l'argent emprunté n'ont pas été versés en vue de tirer un revenu d'une entreprise ou d'un bien, et leur déduction, par le contribuable ou son épouse, n'est pas admissible en vertu de l'alinéa 20(1)c) de la Loi de l'impôt sur le revenu. Cette position est conforme à de nombreuses décisions judiciaires, y compris la décision rendue récemment dans l'affaire Singleton v. The Queen, 96DTC1850.
+[14] Au moment où le dossier a atteint le stade de l'opposition ou, en tout cas, au moment où cette cour en a été saisie, la décision de première instance rendue dans l'affaire Singleton v. The Queen, 96 DTC 1850, avait été infirmée par la Cour d'appel fédérale et la Cour suprême du Canada. Le ministre s'est alors plus ou moins écarté du fondement initial de la cotisation et a concentré sa position principale sur l'article 245 de la LIR, la disposition générale anti-évitement ( « DGAE » ). Il est manifestement acceptable d'invoquer la DGAE à n'importe quel stade à la lumière de la décision rendue par la Cour d'appel fédérale dans l'affaire S.T.B. Holdings Ltd. v. R., [2003] 1 C.T.C. 36 au sujet de l'interprétation du paragraphe 245(7). La question de savoir si le ministre aurait dû ou non s'en tenir à sa position sur la véritable fin économique de l'emprunt est une question intéressante, mais elle a en quelque sorte été absorbée par la question plus vaste de la DGAE. La Couronne croit qu'elle demeure pertinente dans le cadre de la DGAE. Le ministre a mis tous ses oeufs dans le panier de la DGAE en invoquant l'arrêt S.T.B. Holdings Ltd. Il ne fait aucun doute qu'en l'absence de cet arrêt, il aurait fallu que la Couronne invoque d'autres motifs.
+[15] J'ai demandé à l'avocat de l'intimée, Me Gill, si la Couronne renonçait au fondement initial de la cotisation, c.-à-d. le principe que le répartiteur a tiré de l'arrêt Singleton. Sa réponse n'a pas été aussi précise qu'elle aurait pu l'être, étant donné qu'il tentait, à mon avis, de maintenir le concept de la « véritable fin économique » dans le contexte de la DGAE.
+[16] Qu'il soit utile ou non de pousser plus loin ce raisonnement, nous avons en tout cas affaire ici à un avantage fiscal (les intérêts sur de l'argent emprunté ont été déduits) et à une opération d'évitement. Il s'agit d'un fait admis et évident. La série d'opérations avait pour but de rendre déductibles des intérêts qui ne l'auraient pas été si l'argent avait tout simplement été utilisé pour acheter la maison.
+[17] Dans l'arrêt Evans v. The Queen, 2005 DTC 1762, j'ai examiné à fond et tenté d'appliquer les principes énoncés par la Cour suprême du Canada dans l'affaire Canada Trustco Mortgage Co. v. Canada [2005 DTC 5523] et dans l'affaire Mathew v. Canada [2005 DTC 5538] ( « l'arrêt Kaulius » ). Il ne servirait à rien de reproduire ici ce qui y a été dit. J'ai conclu qu'il n'avait pas été établi que la série d'opérations en cause constituait un « évitement fiscal abusif » . Il y a seulement deux passages que j'entends reproduire en l'espèce (étant donné que de longs extraits tirés de l'arrêt Canada Trustco Mortgage Co. ont été reproduits dans l'arrêt Evans). Le premier est tiré du numéro 66 de l'arrêt Canada Trustco Mortgage Co. :
+66. L'approche relative à l'art. 245 de la Loi de l'impôt sur le revenu peut se résumer ainsi.
+1. Trois conditions sont nécessaires pour que la RGAÉ s'applique :
+(1) il doit exister un avantage fiscal découlant d'une opération ou d'une série d'opérations dont l'opération fait partie (par. 245(1) et (2));
+(2) l'opération doit être une opération d'évitement en ce sens qu'il n'est pas raisonnable d'affirmer qu'elle est principalement effectuée pour un objet véritable - l'obtention d'un avantage fiscal n'étant pas considérée comme un objet véritable;
+(3) il doit y avoir eu évitement fiscal abusif en ce sens qu'il n'est pas raisonnable de conclure qu'un avantage fiscal serait conforme à l'objet ou à l'esprit des dispositions invoquées par le contribuable.
+2. Il incombe au contribuable de démontrer l'inexistence des deux premières conditions, et au ministre d'établir l'existence de la troisième condition.
+3. S'il n'est pas certain qu'il y a eu évitement fiscal abusif, il faut laisser le bénéfice du doute au contribuable.
+4. Les tribunaux doivent effectuer une analyse textuelle, contextuelle et téléologique unifiée des dispositions qui génèrent l'avantage fiscal afin de déterminer pourquoi elles ont été édictées et pourquoi l'avantage a été conféré. Le but est d'en arriver à une interprétation téléologique qui s'harmonise avec les dispositions de la Loi conférant l'avantage fiscal, lorsque ces dispositions sont lues dans le contexte de l'ensemble de la Loi.
+5. La question de savoir si les opérations obéissaient à des motivations économiques, commerciales, familiales ou à d'autres motivations non fiscales peut faire partie du contexte factuel dont les tribunaux peuvent tenir compte en analysant des allégations d'évitement fiscal abusif fondées sur le par. 245(4). Cependant, toute conclusion à cet égard ne constituerait qu'un élément des faits qui sous-tendent l'affaire et serait insuffisante en soi pour établir l'existence d'un évitement fiscal abusif. La question centrale est celle de l'interprétation que les dispositions pertinentes doivent recevoir à la lumière de leur contexte et de leur objet.
+6. On peut conclure à l'existence d'un évitement fiscal abusif si les rapports et les opérations décrits dans la documentation pertinente sont dénués de fondement légitime relativement à l'objet ou à l'esprit des dispositions censées conférer l'avantage fiscal, ou si ces rapports et opérations diffèrent complètement de ceux prévus par les dispositions.
+7. Si le juge de la Cour de l'impôt s'est fondé sur une interprétation correcte des dispositions de la Loi de l'impôt sur le revenu et sur des conclusions étayées par la preuve, les tribunaux d'appel ne doivent pas intervenir en l'absence d'erreur manifeste et dominante.
+[18] À mon avis, la consigne de la Cour suprême du Canada est de procéder à une analyse textuelle, contextuelle et téléologique non seulement des articles qui confèrent l'avantage fiscal, mais aussi de l'article même qui, selon le ministre, interdit l'avantage, c.-à-d. l'article 245. Il s'agit d'un principe général d'interprétation des lois qui est largement appliqué, et il n'y a aucune raison, selon moi, pour ne pas l'appliquer à l'article 245, ainsi qu'à tout autre article de la LIR. On aurait tort de ne pas donner à l'article 245 le même genre d'interprétation textuelle, contextuelle et téléologique que la Cour suprême du Canada exige que soit donnée à toutes les autres dispositions de la LIR.
+[19] En règle générale, l'intérêt sur l'argent emprunté est déductible lorsque l'argent est utilisé à une fin commerciale. Il ne l'est pas lorsque l'argent sert à une fin qui n'est pas admissible (p. ex. une fin non commerciale ou personnelle). Un des objets de l'alinéa 20(1)c) est « d'encourager l'accumulation de capitaux susceptibles de produire des revenus et ce en permettant au contribuable de déduire les frais d'intérêt liés à leur acquisition » . (Entreprises Ludco Ltée c. Canada, [2001] 2 R.C.S. 1082, cité dans Novopharm Limited v. The Queen, 2003 DTC 5195, aux pages 5204 et 5205; Tennant v. The Queen, 96 DTC 6121 aux pages 6126 et 6127 (C.S.C))
+[20] Le paragraphe 20(3) autorise la déduction des intérêts sur de l'argent emprunté pour rembourser un emprunt antérieur contracté à des fins commerciales. Le paragraphe 20(3) remplit essentiellement la fonction pratique de faciliter le refinancement dans le monde des affaires. Son but n'est pas de faciliter les tours de prestidigitation fiscale par lesquels l'emprunt temporaire contracté par une femme pour payer à son époux des actions dont ce dernier conserve les attributs fiscaux est remplacé par un emprunt de fonds qui finit par servir à payer une nouvelle maison.
+[21] Le paragraphe 73(1) a pour objet de faciliter les transferts de biens entre époux ou conjoints sans attributs fiscaux immédiats. De tels transferts, s'il s'agit de biens non amortissables, sont réputés avoir lieu au pbr pour l'auteur du transfert, à moins que ce dernier ne choisisse de soustraire le bien à l'application du paragraphe 73(1). Si l'application du paragraphe 73(1) est exclue par l'exercice d'un choix, le transfert est réputé avoir lieu à la jvm. En fait, le transfert a bel et bien eu lieu à la jvm, mais le prix de transfert réputé était le pbr pour M. Lipson. Autrement dit, Mme Lipson a acquis le bien aux fins de l'impôt au pbr pour M. Lipson. Si le bien est vendu, le gain en capital revient de toute façon à M. Lipson.
+[22] Aux termes du paragraphe 74.1(1), tout revenu ou toute perte est attribuable à M. Lipson. L'objet de l'article 74.1 est de prévenir le fractionnement du revenu. L'article 74.5 exclut les règles d'attribution des articles 74.1 et 74.2 lorsque la contrepartie du transfert est au moins égale à la jvm du bien et que l'auteur du transfert exerce le choix prévu au paragraphe 73(1). Le défaut d'exercer un choix en vertu du paragraphe 73(1) a entraîné l'application des règles d'attribution. En l'espèce, les règles d'attribution sont essentiellement utilisées pour faire en sorte que le revenu de dividendes attribué rapporte à M. Lipson la déduction au titre des intérêts.
+[23] J'estime que la série d'opérations en cause ici a engendré une utilisation abusive des dispositions de la LIR, en particulier de l'alinéa 20(1)c) et du paragraphe 20(3). Dans la mesure où l'on recourt au paragraphe 73(1) et à l'article 74.1 pour faire cette utilisation abusive et pour mettre à exécution l'ensemble du stratagème, ces deux dispositions sont également utilisées de manière abusive. Cette série d'opérations ne remplit aucun des objets des dispositions dont j'ai parlé plus haut. L'objet global, de même que l'usage qui a été fait de chaque disposition visaient à rendre déductibles les intérêts sur l'argent utilisé pour acheter une résidence personnelle.
+[24] Aux paragraphes 44 et 45 de l'arrêt Canada Trustco Mortgage Co., la Cour suprême du Canada a précisé ce qui suit :
+L'interprétation contextuelle et téléologique des dispositions de la Loi invoquées par le contribuable et l'application des dispositions interprétées correctement aux faits d'une affaire donnée sont au coeur de l'analyse fondée sur le par. 245(4). Il faut d'abord interpréter les dispositions générant l'avantage fiscal pour en déterminer l'objet et l'esprit. Il faut ensuite déterminer si l'opération est conforme à cet objet ou si elle le contrecarre. L'analyse globale porte donc sur une question mixte de fait et de droit. L'interprétation textuelle, contextuelle et téléologique de dispositions particulières de la Loi de l'impôt sur le revenu est essentiellement une question de droit, mais l'application de ces dispositions aux faits d'une affaire dépend nécessairement des faits.
+Cette analyse aboutit à une conclusion d'évitement fiscal abusif dans le cas où le contribuable se fonde sur des dispositions particulières de la Loi de l'impôt sur le revenu pour obtenir un résultat que ces dispositions visent à empêcher. Ainsi, il y a évitement fiscal abusif lorsqu'une opération va à l'encontre de la raison d'être des dispositions invoquées. Un mécanisme qui contourne l'application de certaines dispositions, comme des règles anti-évitement particulières, d'une manière contraire à l'objet ou à l'esprit de ces dispositions peut également donner lieu à un abus. Par contre, l'existence d'un abus n'est pas établie lorsqu'il est raisonnable de conclure qu'une opération d'évitement au sens du par. 245(3) était conforme à l'objet ou à l'esprit des dispositions conférant l'avantage fiscal.
+[25] L'alinéa 20(1)c) visait à autoriser la déduction des intérêts sur de l'argent emprunté à des fins commerciales, ce qui a comme corollaire que les intérêts sur l'argent emprunté pour une utilisation personnelle (comme l'achat d'une résidence) ne sont pas déductibles. Cet objet est contrecarré par le présent mécanisme, qui se sert de l'alinéa 20(1)c) et du paragraphe 20(3) conjointement avec les règles d'attribution du paragraphe 73(1) et des articles 74.1 et 74.2 pour en venir à une fin que ces dispositions n'ont jamais visée.
+1. [26] Le paragraphe 20(3) fait l'objet d'une utilisation abusive pour la raison suivante : la vente des actions a constitué un mécanisme utilisé dans un contexte familial pour financer l'achat d'une résidence familiale. Le produit du premier prêt temporaire est passé de la banque à Mme Lipson, à M. Lipson puis au vendeur de la résidence dans une séquence préétablie. Il a atteint sa destination et son objet ultimes dans les mains du vendeur une journée après l'emprunt initial, qui avait pour objet apparent l'achat d'actions. Le paragraphe 20(3) est au coeur du stratagème. Son utilisation abusive réside dans le supposé rattachement à l'emprunt hypothécaire ultérieur des attributs fiscaux de l'utilisation initiale et passagère, par Mme Lipson, du produit du premier emprunt.
+[27] De prime abord, on pourrait prétendre que l'utilisation faite en l'espèce du paragraphe 20(3) est exactement celle visée par la loi, c'est-à-dire imprégner le prêt de refinancement des attributs fiscaux découlant de l'utilisation de l'argent de l'emprunt initial. Cet argument serait à mon avis un sophisme. L'utilisation initiale et soit-disant commerciale n'a jamais eu pour objet de se perpétuer dans le refinancement. En fait foi a) l'annulation à des fins fiscales de l'effet de la vente d'actions par M. Lipson à Mme Lipson conjuguée au b) passage immédiat et inévitable de l'argent emprunté auprès de la banque entre les mains de Mme Lipson et de M. Lipson jusqu'à sa destination ultime, soit entre les mains du vendeur de la maison. Le paragraphe 20(3) visait à répondre à l'argument possible selon lequel un refinancement comme tel modifie l'objet d'un emprunt initial. Il n'avait pas pour objet de perpétuer, après un refinancement, l'existence d'un objet initial qui s'est éteint avant le refinancement. Il visait plutôt à faciliter la réalisation des fins de l'alinéa 20(1)c) et non à aider à les renverser.
+[28] Je souscris aux observations formulées par Me Gill aux paragraphes 32 et 33 de son argumentation écrite :
+[TRADUCTION]
+32. L'appelant a utilisé l'alinéa 20(1)c) de concert avec les règles d'attribution du paragraphe 73(1) et des articles 74.1 et 74.2 pour obtenir un résultat qui « va à l'encontre de la raison d'être » de l'alinéa 20(1)c) et des dispositions en matière d'attribution, c.-à-d. que les opérations entraînent l'évitement de l'impôt par un fractionnement du revenu de telle sorte que les frais d'intérêt sont devenus déductibles dans les mains de l'épouse de l'appelant.
+33. Le mécanisme conçu par l'appelant « contourne l'application » des alinéas 18(1)a) et 18(1)h), qui auraient pour effet d'interdire la déduction des intérêts hypothécaires sur la maison de l'appelant.
+[29] Chaque affaire à laquelle la DGAE est appliquée dépend des faits qui lui sont propres, et la Cour suprême du Canada a reconnu la composante factuelle importante dont la Cour canadienne de l'impôt doit tenir compte. Tant dans l'arrêt Evans que dans l'affaire Overs v. R., 2006 TCC 26, il y avait, si l'on s'en tient aux faits, un fondement au caractère commercial ou à la planification successorale (bien que j'estime que la planification successorale n'a pas été un élément majeur à prendre en considération dans l'arrêt Evans). On peut faire la même distinction entre l'arrêt Canada Trustco Mortgage Co. et l'arrêt Kaulius. Le stratagème visé en l'espèce ne comporte pas de tels caractéristiques de rachat. Il faut faire preuve de discernement pour distinguer l'évitement abusif de l'évitement fiscal acceptable. Il ne s'agit pas d'un processus purement mécanique, ni d'une détermination discrétionnaire ou subjective. Il s'agit d'appliquer les principes énoncés par la Cour suprême du Canada.
+[30] Pour déterminer si une opération ou une série d'opérations constitue un évitement fiscal abusif, on peut avoir à tenir compte d'un certain nombre de facteurs et à leur accorder le poids qu'ils méritent dans les circonstances. Ces facteurs comprennent l'objet des dispositions législatives invoquées, le résultat global que l'utilisation des dispositions combinées vise à atteindre et le caractère authentique ou factice inhérent à l'opération.
+[31] L'espèce est, à mon sens, un exemple évident d'évitement fiscal abusif. Que le transfert des actions de M. Lipson à Mme Lipson vise une fin commerciale ou une autre fin non fiscale, s'il en est, il est utile à l'objectif qui consiste à rendre déductibles par M. Lipsonles intérêts versés sur l'achat de la maison.
+[32] Je n'en appelle pas, en l'espèce, à une quelconque « politique obligatoire » se substituant aux dispositions particulières de la LIR. J'examine simplement l'objet évident des diverses dispositions qui sont invoquées et je conclus que ces objets ont été renversés et que ces articles ont été pris à contre-pied. J'ai mentionné plus haut que l'article 245 devait lui-même être assujetti à une analyse textuelle, contextuelle et téléologique. S'il a jamais existé une affaire à laquelle l'article devait s'appliquer, c'est bien celle-ci. Cela me rappelle ce que le juge Cartwright (tel était alors son titre) a affirmé dans l'affaire Harris v. M.N.R., 66 DTC 5189 :
+[TRADUCTION]
+Bien qu'il ne soit pas nécessaire d'exprimer d'opinion sur les autres moyens d'appel contestés par l'avocat de l'intimé, vu mes conclusions sur les points étudiés précédemment, j'ai l'intention de donner brièvement mon opinion sur la position adoptée sur la question e) susmentionnée et qui a été bien débattue.
+Le paragraphe 137(1) de la Loi de l'impôt sur le revenu porte ce qui suit :-
+137. (1) Dans le calcul du revenu aux fins de la présente loi, aucune déduction ne peut être faite à l'égard d'un débours fait ou d'une dépense faite ou engagée, relativement à une affaire ou opération qui, si elle était permise, réduirait indûment ou de façon factice le revenu.
+Si, contrairement à l'opinion que j'ai exprimée, nous avions accepté la prétention de l'appelant portant que l'affaire contenue dans le bail était assujettie à l'article 18 et que, selon une interprétation fidèle du bail et des termes de cet article, l'appelant avait de prime abord droit à la déduction pour amortissement de 30 425,80 $ qu'il demande, je n'hésiterais pas à conclure qu'il s'agissait d'une déduction relative à une dépense engagée relativement à une affaire qui, si elle était permise, réduirait de façon factice le revenu de l'appelant et que conséquemment le paragraphe 137(1) interdit. Les mots « un débours fait ou une dépense contractée » dans ce paragraphe, peuvent s'appliquer à une réclamation pour amortissement ou pour une allocation à l'égard du coût en capital et, si le bail recevait cette interprétation, l'affaire y contenue constituerait un exemple de la nature de l' « affaire ou opération » visée par le paragraphe 137(1) (c'est moi qui souligne).
+[33] C'est l'approche téléologique de la version antérieure de l'article 245 qui a été énoncée par le juge Cartwright que j'adopte respectueusement en l'espèce. La Cour suprême du Canada nous a fourni des lignes directrices assez claires sur la façon d'appliquer l'article 245, et elle a également énoncé des restrictions rigoureuses quant à son application. Toutefois, si l'article 245 doit être de quelque utilité, il doit être appliqué à cette sorte même d'opération artificielle qui nous occupe ici et qu'il vise de toute évidence.
+[34] Les appels sont rejetés avec dépens. Une seule série d'honoraires d'avocat à l'instruction doit être établie pour Earl Lipson et Jordan B. Lipson.
+Signé à Ottawa, Canada, ce 19e jour d'avril 2006.
+« D.G.H. Bowman »
+Le juge en chef Bowman
+Traduction certifiée conforme
+ce 8e jour de mai 2006.
+Noëlla Goulet, traductrice
+ANNEXE A
+2002-1864(IT)G
+COUR CANADIENNE DE L'IMPÔT
+ENTRE :
+EARL LIPSON,
+appelant
+- et -
+SA MAJESTÉ LA REINE,
+intimée.
+EXPOSÉ CONJOINT DES FAITS ET CONCLUSION
+L'appelant et l'intimée s'entendent sur les faits suivants :
+1. L'appelant et Jordanna Lipson étaient mariés.
+2. Le 24 avril 1994, l'appelant et Jordanna Lipson ont conclu une convention d'achat-vente pour l'achat d'une résidence personnelle située au 34, Hawarden Crescent, à Toronto (Ontario) (le « bien » ).
+3. Le prix d'achat du bien était de 750 000 $, et un dépôt de 50 000 $ a été fait.
+4. Le 27 août 1994, l'appelant et Jordanna Lipson ont signé une lettre adressée à leur avocat et indiquant que la Banque de Montréal (la « banque » ) leur consentait un prêt de 562 500 $ le 1er septembre 1994 pour constituer une hypothèque sur le nouveau bien.
+5. L'avocat devait accepter la lettre à titre d'instruction irrévocable qui lui était donnée de réacheminer à la banque le produit complet de l'avance sur prêt hypothécaire de la banque afin de rembourser intégralement le prêt à demande du même montant consenti le 31 août 1994 à Jordanna Lipson.
+6. L'instruction ne pouvait être annulée qu'avec la pleine autorisation écrite de la banque.
+7. Le 30 août 1994, l'appelant et Jordanna Lipson ont signé une charge foncière ou hypothèque immobilière à titre de débiteurs conjoints.
+8. Le 31 août 1994, les opérations suivantes ont eu lieu :
+(i) Jordanna Lipson a emprunté 562 500 $ auprès de la banque et a remis à celle-ci un billet portant intérêt;
+(ii) conformément à un protocole d'entente, l'appelant a transféré 20 actions et 5/6 de la société Lipson Family Investments Limited (la « société » ) à Jordanna Lipson pour la somme de 562 500 $, qui représenterait la juste valeur marchande des actions;
+(iii) Jordanna Lipson a remis à l'appelant un chèque de 562 500 $ comme paiement des actions;
+(iv) l'appelant a transmis les fonds au compte de fiducie de l'avocat s'occupant de l'achat du bien.
+9. La banque n'aurait pas prêté 562 500 $ sans garantie à Jordanna Lipson, si l'appelant n'avait pas consenti à ce que le prêt de Jordanna Lipson soit remboursé au moyen du prêt hypothécaire décrit au numéro 4 ci-dessus.
+10. Jordanna Lipson ne touchait pas un revenu suffisant pour payer elle-même les intérêts sur l'emprunt bancaire ou l'hypothèque.
+11. Pour fixer le nombre d'actions transférées par l'appelant à Jordanna Lipson (20 5/6), on est parti du principe que leur juste valeur marchande correspondait au montant du prêt bancaire (562 500 $) consenti à Jordanna Lipson. S'il advenait que la juste valeur marchande soit remise en cause par les autorités fiscales, le nombre d'actions précisé dans le protocole d'entente devait être modifié de manière à ce que la juste valeur marchande des actions corresponde à 562 500 $.
+12. Le 1er septembre 1994, les opérations suivantes ont eu lieu :
+(i) l'acte de transfert, désignant l'appelant et Jordanna Lipson à titre de copropriétaires, a été enregistré;
+(ii) la charge foncière ou l'hypothèque immobilière a été enregistrée;
+(iii) l'avocat de l'appelant a utilisé les fonds reçus de l'appelant le 31 août 1994 pour verser 562 500 $ sur le prix d'achat du bien;
+(iv) la banque a avancé la somme de 562 500 $ à l'avocat de l'appelant agissant comme fiduciaire à titre de produit de l'hypothèque sur le bien;
+(v) l'avocat de l'appelant a appliqué le produit de l'hypothèque de 562 500 $ au remboursement du prêt consenti par la banque à Jordanna Lipson.
+13. Toutes les opérations décrites ci-dessus ont été structurées suivant les conseils du comptable de l'appelant.
+14. L'appelant n'a pas exercé de choix pour soustraire le transfert des actions de la société à Jordanna Lipson à l'application du paragraphe 73(1) de la Loi de l'impôt sur le revenu, qui aurait eu, si ce n'était de l'application de l'article 245 de la Loi, les conséquences suivantes :
+a) les actions auraient été réputées avoir été vendues par l'appelant pour un produit égal à ce qui constitue, pour lui, le prix de base rajusté ( « PBR » ) des actions et avoir été acquises par Jordanna Lipson au même PBR de sorte qu'il n'y aurait eu aucun gain imposable ni aucune perte jusqu'à ce que les actions soient vendues par Jordanna Lipson;
+b) tout revenu ou toute perte découlant des actions et calculé dans les mains de Jordanna Lipson aurait été réputé être le revenu ou la perte de l'appelant en vertu du paragraphe 74.1(1) de la Loi.
+15. La perte constatée pour 1994 et calculée dans les mains de Jordanna Lipson faisait suite à la déduction des intérêts sur l'hypothèque, en remplacement du prêt consenti pour l'acquisition des actions. En 1995, des dividendes imposables ont été versés sur les actions transférées et ont dépassé les frais d'intérêt. En 1996, des dividendes imposables ont été versés sur les actions transférées et leur montant était inférieur à celui des frais d'intérêt. Tous les éléments de revenu ou de perte se rapportant aux actions transférées pour les années en cause ont été dûment déclarés par l'appelant, conformément au paragraphe 74.1(1) de la Loi. L'appelant et l'intimée conviennent que le montant des frais d'intérêt déclaré par l'appelant pour les années en cause n'est pas en litige, et ils conviennent en outre que, n'eut été de l'application de l'article 245 de la Loi, ces frais d'intérêt auraient été à juste titre déductibles par l'appelant en vertu de l'alinéa 20(1)c) de la Loi.
+16. L'appelant et l'intimée conviennent également que les opérations décrites ci-dessus étaient des opérations d'évitement au sens du paragraphe 245(3) de la Loi de l'impôt sur le revenu.
+17. Ni l'appelant ni l'intimée n'ont appelé de témoins.
+FAIT à Toronto (Ontario) ce 17e jour de janvier 2005.
+____________________________________
+Peter K. Guselle
+Fogler Rubinoff LLP
+Avocats
+95, rue Wellington Ouest, pièce 1200
+Toronto-Dominion Centre
+Toronto (Ontario)
+M5J 2Z9
+Avocat de l'appelant
+FAIT à Toronto (Ontario) ce 17e jour de janvier 2005.
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Avocat de l'intimée
+____________________________________________
+Par : J.S. Gill
+Ministère de la Justice
+Bureau régional de l'Ontario
+The Exchange Tower
+130, rue King Ouest, pièce 3400
+C.P. 36
+Toronto (Ontario)
+M5X 1K6
+Avocat de l'intimée
+RÉFÉRENCE:
+2006CCI148
+Nos DES DOSSIERS DE LA COUR :
+2002-1862(IT)G et 2002-1864(IT)G
+INTITULÉ DE LA CAUSE :
+JORDAN B. LIPSON et
+EARL LIPSON c.
+SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE :
+Toronto (Ontario)
+DATE DE L'AUDIENCE :
+Le 22 février 2006
+MOTIFS DU JUGEMENT PAR :
+L'honorable juge en chef
+D.G.H. Bowman
+DATE DU JUGEMENT ET DES MOTIFS DU JUGEMENT :
+Le 19 avril 2006
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Peter K. Guselle
+Avocat de l'intimée :
+Me Jag Gill, c.r.
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+FOGLER, RUBINOFF
+Étude :
+Tour Royal Trust, pièce 4400
+Toronto-Dominion Centre
+Toronto (Ontario)
+M5K 1G8
+Pour l'intimée :
+John H. Sims
+Procureur général du Canada
+Ottawa, Canada

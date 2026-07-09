@@ -1,0 +1,126 @@
+Title: Hougassian c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27650/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-293-27650-hougassian-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2007-05-08
+
+# Hougassian c. La Reine
+
+- Citation: 2007 CCI 293
+- Decision date: 2007-05-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 406, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hougassian c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-05-08
+Référence neutre
+2007 CCI 293
+Numéro de dossier
+2005-3159(IT)G
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-3159(IT)G
+ENTRE :
+JACK HOUGASSIAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 8 mai 2007 à Kitchener (Ontario)
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Avocat de l’appelant :
+Me J. Stephen Schmidt
+Avocate de l’intimée :
+Me Justine Malone
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu (la « Loi ») pour l’année d’imposition 2000 relativement aux pénalités imposées conformément au paragraphe 163(2) de la Loi sur des revenus d’intérêts non déclarés de 275 435 $ est rejeté avec dépens.
+Signé à Ottawa (Ontario), ce 22e jour de mai 2007.
+« Wyman W. Webb »
+Le juge Webb
+Traduction certifiée conforme
+ce 4e jour d’octobre 2007.
+Suzanne Bolduc, LL.B.
+Référence : 2007CCI293
+Date : 20070522
+Dossier : 2005-3159(IT)G
+ENTRE :
+JACK HOUGASSIAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] L’appelant a fait l’objet d’une nouvelle cotisation par laquelle une somme de 275 435 $ a été ajoutée à ses revenus pour l’année 2000 à titre de revenus d’intérêts supplémentaires et une pénalité lui a été imposée en vertu du paragraphe 163(2) de la Loi de l’impôt sur le revenu (la « Loi ») relativement aux revenus d’intérêts non déclarés en question. Une nouvelle cotisation a par ailleurs été établie relativement à d’autres revenus non déclarés pour 2000 et une pénalité a été imposée sur cette somme en vertu du paragraphe 163(2) de la Loi pour l’année 2000; toutefois, ces autres sommes ne sont pas visées par le présent appel. La seule question soumise à la Cour dans le cadre du présent appel concerne la pénalité imposée en vertu du paragraphe 163(2) de la Loi sur des revenus d’intérêts non déclarés de 275 435 $ en 2000.
+[2] Le montant de revenus d’intérêts que l’appelant a effectivement déclaré dans sa déclaration de revenus de 2000 était de 985 $. Comme le montant des revenus d’intérêts non déclarés (qui n’est pas contesté) se chiffrait à 275 435 $, le montant total de revenus d’intérêts de l’appelant pour 2000 était de 276 420 $. L’appelant a par conséquent déclaré moins que 0,36 % de ses intérêts réels dans sa déclaration de revenus.
+[3] Linda Death, la représentante des Services bancaires aux particuliers de la Banque de Montréal qui était chargée des comptes bancaires de l’appelant, a expliqué, dans son témoignage, que l’appelant avait négocié, pour ses comptes, un taux d’intérêt spécial plus élevé que le taux habituel. L’appelant a confirmé cette affirmation en expliquant que le taux d’intérêt spécial l’avait motivé à transférer ses comptes à la Banque de Montréal.
+[4] Comme les comptes portaient intérêt à un taux spécial, deux feuillets T5 étaient établis chaque année : un premier feuillet généré par le système informatique de la Banque de Montréal, qui calculait les intérêts au taux habituel, et un second feuillet T5 modifié, qui remplaçait le feuillet informatisé. Ce second T5 était rédigé à la main par Linda Death, qui faisait le nécessaire pour le faire livrer à Mme Hougassian, l’épouse de l’appelant, ou pour le faire prendre par celle‑ci.
+[5] Les intérêts en question se rapportaient à un certain compte conjoint ouvert au nom de l’appelant et de son épouse. Les montants inscrits dans ce compte bancaire oscillaient entre un minimum d’environ 3,4 millions de dollars et un maximum de plus de 6,1 millions de dollars. Il ressort de la preuve présentée que le feuillet T5 généré par l’ordinateur de la Banque de Montréal relativement à ce compte faisait état d’intérêts de 7 807 $. Toutefois, le carnet de banque relatif à ce compte indique que le montant des intérêts pour les mois de janvier et de février (les deux mois où le solde du compte était au plus bas) s’établissait à 13 869 $ et 13 796 $ respectivement.
+[6] Pour chacune des années (y compris 2000), l’appelant s’est contenté de prendre les feuillets T5 et les autres renseignements fiscaux que sa femme avait versés dans des chemises de classement et de les remettre à leur expert‑comptable, qui s’occupait de préparer leurs déclarations de revenus personnelles. C’était le même comptable qui préparait depuis plusieurs années leurs déclarations de revenus personnelles. L’appelant n’était pas très minutieux et il n’examinait pas sa déclaration de revenus après que son comptable l’avait préparée, sauf pour vérifier s’il devait de l’argent ou avait droit à un remboursement et pour la signer. Il a expliqué que, s’il avait vérifié le montant déclaré à titre de revenus d’intérêts, il se serait immédiatement rendu compte que le montant de 985 $ était incorrect.
+[7] Les revenus totaux de l’appelant pour l’année 2000 s’élevaient à 3 154 851 $ et l’avocate de l’intimée a fait valoir que les revenus d’intérêts non déclarés ne représentaient qu’un faible pourcentage des revenus totaux de l’appelant pour 2000 et qu’en n’examinant que le revenu total, on ne remarquerait pas les intérêts manquants. Toutefois, les revenus totaux de l’appelant étaient constitués de cinq éléments – les revenus d’emploi (2 000 000 $), les dividendes (3 022 $), les intérêts (985 $), les revenus de la société (31 038 $) et les gains en capital imposables (1 119 806 $), le tout d’après la déclaration de revenus reconstituée de l’appelant pour 2000. Le montant d’intérêts constitue un poste distinct dans la déclaration de revenus et il est évident que le montant déclaré est trop bas. Il a bien fallu que quelqu’un inscrive la somme de 985 $ à titre de revenus d’intérêts dans la déclaration de revenus de l’appelant. L’année précédente, le montant d’intérêts payés qui était inscrit sur ce compte était de 124 403 $. Avec des intérêts de plus de 100 000 $ l’année précédente et un revenu tiré d’un emploi de 2 000 000 $ ainsi que des gains en capital imposables excédant un million de dollars pour l’année 2000, l’inscription de la somme de 985 $ seulement à titre d’intérêts pour 2000 ne peut pas s’expliquer par une simple négligence. Le comptable qui a préparé la déclaration de revenus n’a pas été appelé à témoigner. L’appelant a déclaré que ce comptable est maintenant âgé de 83 ans et que de nombreux détails lui échappent.
+[8] L’appelant est un homme d’affaires très prospère et intelligent qui savait de toute évidence qu’il avait gardé des sommes d’argent élevées dans le compte bancaire en question en 2000 et qui savait qu’il avait droit à un taux d’intérêt plus élevé que le taux habituel consenti par la Banque de Montréal. L’appelant a expliqué que le feuillet T5 informatisé de 7 807 $ qui avait été établi pour 2000 était trop bas, compte tenu des montants qu’il avait maintenus dans ce compte en 2000. De toute évidence, si la somme de 7 807 $ est trop faible, celle de 985 $ est loin de correspondre aux intérêts accumulés.
+[9] Ainsi qu’il a déjà été signalé, la seule question en litige dans la présente affaire est celle de savoir si l’imposition d’une pénalité en vertu du paragraphe 163(2) de la Loi relativement à des revenus d’intérêts non déclarés est valide.
+[10] Dans la décision Venne v. The Queen, [1984] C.T.C. 223, 84 DTC 6247, le juge Strayer, de la Section de première instance de la Cour fédérale, a déclaré ce qui suit au sujet du sens de l’expression « faute lourde » aux fins des pénalités prévues au paragraphe 163(2) de la Loi :
+La « faute lourde » doit être interprétée comme un cas de négligence plus grave qu’un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la loi.
+(Non souligné dans l’original.)
+[11] Ainsi qu’il a été mentionné plus haut, l’inscription de la somme de 985 $ seulement à titre d’intérêts pour 2000 ne peut pas s’expliquer en l’espèce par une simple négligence. Ce geste témoigne d’une indifférence au respect de la Loi. En l’espèce, l’appelant a expliqué qu’il laissait son comptable préparer ses déclarations de revenus et qu’il intervenait très peu dans cette préparation. Il a ajouté qu’il n’avait que de très brefs échanges avec son comptable lorsqu’il passait le voir pour lui communiquer des renseignements et qu’il se contentait de prendre sa déclaration de revenus lorsqu’elle était prête, y jetant un coup d’œil, la signant et la déposant. Il s’agit donc de savoir si l’appelant peut se soustraire à l’imposition de la pénalité prévue au paragraphe 163(2) de la Loi au motif qu’il n’a pas lui-même rempli la déclaration de revenus (et, par conséquent, n’a pas inscrit la somme de 985 $ à titre d’intérêts) et qu’il n’a pas examiné la déclaration de revenus en détail.
+[12] Dans la décision Udell v. M.R.N., 70 DTC 6019, le juge Cattanach de la Cour de l’Échiquier du Canada a estimé que, dans cette affaire, la faute lourde du comptable ne pouvait être imputée à l’appelant. Il convient toutefois de souligner que, dans l’affaire Udell, l’appelant avait tenu une comptabilité complète et exacte de ses revenus et qu’il avait transmis tous ces documents à son comptable. En l’espèce, rien ne permet de penser que le feuillet T5 modifié afférent au compte en question a été remis au comptable. Le feuillet T5 modifié de 2000 afférent à ce compte n’a pas été produit et on ne sait pas avec certitude si ce feuillet T5 modifié a été placé au mauvais endroit ou s’il a été versé dans les dossiers remis au comptable. Linda Death a expliqué que le feuillet T5 modifié était produit chaque année et qu’il était remis à Mme Hougassian. J’accepte le témoignage de Mme Death et je conclus donc qu’un feuillet T5 modifié a été établi pour 2000 et qu’il a été remis à Mme Hougassian.
+[13] Dans la décision DeCock v. M.RN., 84 DTC 1523, le juge Rip a tenu les propos suivants :
+34 L’appelant connaît très bien les conséquences que peut entraîner l’envoi d’une déclaration d’impôt qui comporte, disons, une omission de revenu. Il avait déjà été condamné auparavant pour non-déclaration de revenu et avait dû payer une amende et une pénalité. Nous ne pouvons le croire lorsqu’il nous décrit son comportement, quand il a signé sa déclaration : il prétend n’avoir jeté qu’un « coup d’œil » sur la déclaration afin de vérifier l’adresse, mais il n’était même pas assez curieux de connaître ses revenus pour l’année ou, chose encore plus difficile à accepter, le montant des impôts qu’il avait à payer.
+35 Certes, si nous acceptons la déposition de l’appelant, son comptable a été d’une négligence extrême. Mais un contribuable, en particulier un homme d’affaires qui sait d’où proviennent ses revenus, ne saurait s’exonérer de toute responsabilité en confiant ses affaires fiscales à un professionnel et s’en remettre à lui aveuglément, sans hésitation et même, comme en l’espèce, sans manifester le moindre intérêt.
+(Non souligné dans l’original.)
+[14] Dans la décision plus récente Foreman v. R., [2001] 1 C.T.C. 2342, le juge Rip a fait les commentaires suivants :
+21 Nous ne sommes pas en présence d’une affaire où une erreur est attribuable au seul comptable, comme dans l’affaire Udell v. M.N.R. Dans cette affaire, le contribuable a minutieusement tenu un livre de comptes, qu’il a remis au comptable chargé de préparer sa déclaration de revenus. Des registres complets et exacts ont été remis au comptable. Ce n’est assurément pas ce qui s’est produit en l’espèce. M. Foreman était partie à toute faute lourde commise par Mme Job. Il savait — ou il aurait dû savoir — que la déclaration de revenus contenait des erreurs. M. Foreman se souciait peu de savoir si les dispositions de la Loi étaient respectées, dans la mesure où il obtenait un remboursement.
+[15] Dans l’affaire DeCosta v. R., 2005 DTC 1436, le juge en chef Bowman a examiné la décision Udell et les deux décisions précitées du juge Rip et a déclaré ce qui suit :
+9 Je n’ai aucune difficulté à concilier la décision du juge Cattanach avec celles du juge Rip. Elles découlent toutes d’une conclusion de fait tirée par la cour concernant le rôle joué par les contribuables. Les questions qui se posent dans chaque cas, si on fait abstraction de la question de la préméditation qui n’est pas pertinente en l’espèce, sont les suivantes :
+a) « le contribuable a-t-il commis une faute en faisant un faux énoncé ou une omission dans la déclaration de revenus? »
+b) « la faute était-elle assez grave pour justifier l’utilisation de l’épithète « lourde » qui est quelque peu péjoratif? »
+Selon moi, ces questions rejoignent le principe énoncé par le juge Strayer dans la décision Venne c. La Reine, 84 DTC 6247.
+[...]
+11 Pour établir la distinction entre la faute « ordinaire » ou la négligence et la faute « lourde », il faut examiner plusieurs facteurs. Un de ces facteurs est bien entendu l’importance de l’omission relative au revenu déclaré. Il y a aussi la faculté du contribuable de découvrir l’erreur, ainsi que le niveau d’instruction du contribuable et son intelligence apparente. Il n’existe aucun facteur qui soit prédominant. Il faut accorder à chacun des facteurs le poids qu’il convient dans le contexte de l’ensemble de la preuve.
+12 Qu’en est‑il ici? Un homme fort intelligent qui déclare un revenu d’emploi de 30 000 $ et qui omet de déclarer des ventes brutes d’environ 134 000 $ et des bénéfices nets de 54 000 $. Même si son comptable doit assumer une certaine part de responsabilité, je ne crois pas que l’on peut dire que l’appelant peut signer nonchalamment sa déclaration et passer outre à l’omission d’un montant qui représente presque le double du montant qu’il a déclaré. Une attitude aussi cavalière va au‑delà du simple manque d’attention.
+(Non souligné dans l’original.)
+[16] En l’espèce, l’erreur était de taille. Seulement 985 $ ont été déclarés en intérêts. Or, le montant total de revenus d’intérêts de l’appelant pour 2000 s’élevait à 276 420 $. L’appelant a par conséquent déclaré moins que 0,36 % de ses intérêts réels dans sa déclaration de revenus. L’appelant est la personne qui a négocié un taux d’intérêts plus élevé sur son compte et il était au courant du solde du compte et de l’ampleur des intérêts que ce solde devait produire. Tout examen rapide des rubriques de la déclaration de revenus lui aurait permis de constater que les intérêts déclarés ne correspondaient pas à la réalité. Il avait la possibilité d’examiner sa déclaration de revenus mais il n’avait ni le désir ni l’intérêt de le faire. Le défaut de l’appelant de déceler l’erreur et de s’assurer que le montant exact d’intérêts soit effectivement déclaré ne s’explique pas en l’espèce pas une simple négligence; elle démontre que l’appelant était indifférent au respect de la Loi.
+[17] L’appel est par conséquent rejeté avec dépens.
+Signé à Ottawa (Ontario), ce 22e jour de mai 2007.
+« Wyman W. Webb »
+Le juge Webb
+Traduction certifiée conforme
+ce 4e jour d’octobre 2007.
+Suzanne Bolduc, LL.B.
+RÉFÉRENCE : 2007CCI293
+No DU GREFFE : 2005-3159(IT)G
+INTITULÉ : JACK HOUGASSIAN
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Kitchener (Ontario)
+DATE DE L’AUDIENCE : Le 8 mai 2007
+MOTIFS DU JUGEMENT PAR : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 22 mai 2007
+COMPARUTIONS :
+Pour l’appelant :
+Me J. Stephen Schmidt
+Avocate de l’intimée :
+Me Justine Malone
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Me J. Stephen Schmidt
+Cabinet : J. Stephen Schmidt Professional Corporation
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Canada)

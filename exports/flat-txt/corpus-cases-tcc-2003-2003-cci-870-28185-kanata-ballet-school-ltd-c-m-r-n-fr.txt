@@ -1,0 +1,33 @@
+Title: Kanata Ballet School Ltd. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28185/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-870-28185-kanata-ballet-school-ltd-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2003-11-26
+
+# Kanata Ballet School Ltd. c. M.R.N.
+
+- Citation: 2003 CCI 870
+- Decision date: 2003-11-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1966, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kanata Ballet School Ltd. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-11-26
+Référence neutre
+2003 CCI 870
+Numéro de dossier
+2003-1337(EI)
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Le JavaScript de votre fureteur est désactivé. Veuillez télécharger le PDF via l'icône PDF.

@@ -1,0 +1,153 @@
+Title: Connolly v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/67014/index.do
+Corpus path: corpus/cases/tcc/2014/2014-tcc-55-67014-connolly-v-the-queen-en.md
+Document type: case_law
+Last modified: 2014-02-20
+
+# Connolly v. The Queen
+
+- Citation: 2014 TCC 55
+- Decision date: 2014-02-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5964, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Connolly v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-02-20
+Neutral citation
+2014 TCC 55
+File numbers
+2011-2705(IT)G
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-2705(IT)G
+BETWEEN:
+MICHELLE C. CONNOLLY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on September 19, 2013, at Halifax, Nova Scotia
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Counsel for the Appellant:
+M. Gerard Tompkins, Q.C.
+Counsel for the Respondent:
+Catherine M.G. McIntyre
+____________________________________________________________________
+JUDGMENT
+The appeal from the Notice of Assessment dated February 2, 2010, issued pursuant to subsection 160(1) of the Income Tax Act and confirmed on June 3, 2011 is dismissed with costs awarded to the Respondent.
+Signed at Ottawa, Canada, this 20th day of February 2014.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2014TCC55
+Date: 20140220
+Docket: 2011-2705(IT)G
+BETWEEN:
+MICHELLE C. CONNOLLY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller J.
+[1] This appeal is from an assessment made under subsection 160(1) of the Income Tax Act (the “Act”). The Minister of National Revenue (the “Minister”) assessed the Appellant for the amount of $76,884.17 in respect of cheques she received from her common law spouse, Wayne MacVicar, while he was a tax debtor. The cheques were deposited into the Appellant’s bank account between February 10, 2003 and October 31, 2003.
+[2] Mr. MacVicar’s tax debt related to the June 10, 2002 reassessment of his 2000 year when the amount of $125,815 was included in his income. As a result of the reassessment, the balance due for that year was $102,059.89.
+[3] The Appellant is a business analyst with the province of Nova Scotia. She and Mr. MacVicar have lived together since 1990. Their first home was an apartment which they rented; and, in 1994, they moved into a house which the Appellant had purchased. It was the Appellant’s evidence that the house was in her name only and she alone financed it.
+[4] In 1992, 1997 and later in 2004, Mr. MacVicar filed for bankruptcy. Each time his only creditor was the Minister.
+[5] In 2002 and 2003, Mr. MacVicar operated a painting business under the name Paradigm Painting. He was also the major shareholder, sole director and sole officer of Guzzler’s Dining Room & Lounge Limited (“Guzzler’s”).
+[6] According to the Appellant, Mr. MacVicar had poor credit and he relied on her for assistance to finance his businesses. She knew that Mr. MacVicar had declared bankruptcy in 1992 and 1997[1] and she claimed to have been his banker by extending him credit to pay his business and living expenses. The living expenses were made up of rent which she stated she charged him; food and incidentals; and, a treadmill. The business expenses were payroll expenses; truck and truck insurance payments; payments to Mr. MacVicar’s credit card; and, other miscellaneous business expenses.
+[7] It was the Appellant’s evidence that Mr. MacVicar did not have a bank account and she primarily used one of her three accounts to help him with his businesses. She deposited the cheques he received from his businesses into this account and withdrew amounts in cash so he could pay his workers and other expenses. She also had a line of credit which was used only by Mr. MacVicar for his businesses. She leased a truck in her name for Mr. MacVicar to use in his businesses. The truck was used only by Mr. MacVicar. The Appellant stated that the truck was registered in Mr. MacVicar’s name but his cell phone was registered in her name.
+[8] As evidence for these expenses and loans, the Appellant submitted a spreadsheet which she created in 2011 at the objections stage of this case. She also referred to bank records which showed withdrawals from and deposits into her bank accounts; cheques made out to cash; and, cheques made payable to Mr. MacVicar. By her calculations, between February 10, 2003 and October 31, 2003, Mr. MacVicar had given her cheques which totalled $76,884.17. However, according to her spreadsheet, he was still indebted to her at the end of October 2003. She calculated his indebtedness to her at the end of October 2003 to be $47,309.07 or $106,890.57, if she included the cash amounts she lent to Mr. MacVicar.
+[9] Mr. MacVicar testified that his main sources of income in 2002 and 2003 were his painting business and Guzzler’s. In his painting business, the majority of his income was from Kiel Developments Ltd. and Austin Contracting Ltd. He received wages and a vehicle allowance each month from Guzzler’s.
+[10] From February 10, 2003 to October 23, 2003, Mr. MacVicar endorsed his paycheques from his painting business and his cheques from Guzzler’s and gave them to the Appellant who deposited them into one of her accounts.
+[11] Mr. MacVicar stated he had 4 or 5 employees in his painting business and he paid them by cash. It was Mr. MacVicar’s evidence that he would not have had any employees if the Appellant had not lent him the money. He stated that he didn’t know how much he borrowed from the Appellant but he has repaid her everything he borrowed.
+[12] At the hearing, it was the Appellant’s position that Mr. MacVicar was indebted to her and the cheques she received from him were payments to reduce this indebtedness. The satisfaction of that debt was consideration for the funds given to her.
+[13] The Respondent took the position that the Appellant gave no consideration for the funds at the time of transfer. Counsel for the Respondent argued that there were no loans between the Appellant and Mr. MacVicar. In the alternative, if there were loans, they were not legally enforceable because there was only a moral obligation to repay amounts. The debt could not have been consideration for the transfers for the purposes of subsection 160(1) of the Act.
+[14] At the end of the hearing, counsel for the Appellant asked if I would reserve my decision until the Federal Court of Appeal rendered its decision in The Queen v Danielle Lemire, 2013 FCA 242. Both counsel filed written submissions on whether the Lemire decision applied to the present appeal.
+[15] In his submissions, counsel for the Appellant submitted that the decision in Lemire supported many of the arguments made in the present case in that:
+(a) The Appellant did not receive a personal benefit from the amounts deposited into her account.
+(b) In Lemire, the money was immediately withdrawn from Ms. Lemire’s account and given to Dupuis (the tax debtor), based on his instructions. In the present case, the Appellant received the cheques from Mr. MacVicar with the instructions that she was to pay his business expenses for him.
+(c) As in Lemire, there was no written agreement between the Appellant and Mr. MacVicar with respect to their arrangements.
+(d) Lemire was found to be acting as an agent for Dupuis. In the present case, the Appellant was agent for Mr. MacVicar for the purpose of paying his business expenses.
+(e) Lemire stopped facilitating the arrangement between her and Dupuis when she was advised by Revenue Quebec that she could be assessed. In the present case, the Appellant was contacted by Canada Revenue Agency (“CRA”) in 2004, 2006 and 2007. From the Appellant’s perspective, she answered all of the questions and clarified the situation so that the CRA seemed satisfied. In a telephone conversation with Ron Nicks, an employee with CRA, the Appellant was told that the CRA would not be proceeding with a section 160 assessment.
+(f) There was no transfer of ownership of the amounts deposited into the Appellant’s account. The Appellant was not enriched by the transactions between her and Mr. MacVicar. The funds deposited were used to pay his business expenses and any excess was applied to the amounts he owed her for living expenses.
+[16] Counsel for the Respondent submitted that the decision in Lemire is factually distinguishable from the Appellant’s situation. In Lemire, the court relied on very specific provisions of the civil code of Quebec pertaining to mandates between parties. In the present appeal, agency (the common law concept that corresponds to the civil code mandate) was not argued. The Respondent argued that the Lemire decision is not relevant to this appeal.
+The Law
+[17] Subsection 160(1) of the Act applies where there has been a transfer of property between non-arm’s length parties for no or inadequate consideration and the transferor was liable for tax when the property was transferred. The policy behind this provision was explained in Medland v R, [1999] 4 CTC 293, 98 D.T.C. 6358 (FCA) as follows:
+…the tax policy embodied in, or the object and spirit of subsection 160(1), is to prevent a taxpayer from transferring his property to his spouse in order to thwart the Minister's efforts to collect the money which is owed (sp) to him.
+[18] Four requirements must be satisfied for subsection 160(1) of the Act to apply:
+(a) There must be a transfer of property;
+(b) The transferor and transferee must not have been dealing at arm’s length;
+(c) There must be no or inadequate consideration flowing from the transferee to the transferor;
+(d) The transferor must have been liable for tax when the property was transferred. See Williams v R, [2000] 4 CTC 2115, 54 DTC 2340 (TCC).
+[19] At the hearing of this appeal, the only issue raised and argued was the requirement at (c). Counsel for the Appellant described the issue as follows:
+But I think this is a very narrow situation in one context and that's whether it's on the evidence permissible or appropriate to recognize the debt and/or the payment of expenses incurred by the appellant relating to the money that was received by her as the $77,000(sp) amount.
+…
+However, the issue of consideration, obviously, is the tough decision to be made in this case, whether there is enough evidence to establish consideration, such that, either all of this assessment should be vacated or certainly a substantial portion of it.[2]
+[20] Since the decision in Lemire, counsel for the Appellant has submitted that the requirement at (a) is also at issue. He wrote that the Appellant was agent for Mr. MacVicar for the purposes of paying his business expenses. She did not receive beneficial ownership of the funds deposited into her account and there was no transfer of the funds.
+[21] It is my view that it is too late for the Appellant to argue that she was acting as agent for Mr. MacVicar when she received the cheques in issue. Agency was neither pleaded in the Notice of Appeal nor argued at the hearing of the appeal. The Appellant cannot now, after the close of the evidence, raise a new issue.
+[22] For the sake of completeness I will also address the other submissions made by the Appellant with respect to Lemire.
+[23] Counsel submitted that the Appellant received the cheques from Mr. MacVicar with the instructions that she was to pay his business expenses for him. This submission is not supported by the evidence. There was no testimony from either the Appellant or Mr. MacVicar that he endorsed his cheques to the Appellant with the instructions that she was to pay his business expenses. The evidence from both parties was that the cheques were endorsed to the Appellant to repay her for the monies she had lent to Mr. MacVicar.
+[24] In his written submissions concerning the applicability of the Lemire decision, counsel stated that the Appellant continued to facilitate the arrangement between her and Mr. MacVicar because the CRA officers who contacted her did not tell her she would be assessed. In particular, counsel stated that Ron Nicks told the Appellant that CRA would not be proceeding with a section 160 assessment against her; and, this was confirmed by the evidence given by Mr. Nicks.
+[25] Counsel’s submission with respect to Mr. Nick’s evidence is incorrect. Mr. Nicks’ testimony did not confirm the Appellant’s statement. When asked if he told the Appellant that a section 160 assessment would not be issued, Mr. Nicks stated:
+I told her that I wasn't going to raise the assessment because I wasn't going to be assigned to the file anymore.[3]
+[26] The evidence did show that the Appellant was contacted by officers of the CRA in 2004, 2006 and 2007. In February 2004, the Appellant was asked for details concerning a cheque of $35,570.33 which had been deposited in her bank account on November 7, 2003. The cheque was made out to Mr. MacVicar and was from Austin Contracting Ltd. The Appellant responded that she cashed the cheque for Mr. MacVicar but it was not credited to her account. She sent the CRA a copy of her bank account transactions to support her statement.
+[27] This cheque was not included in the amount assessed to the Appellant.
+[28] The Appellant was next contacted in October 2006 by Ron Nicks of CRA. The next letter from the CRA to the Appellant was in November 2007 and this letter referred to the cheques which are at issue in this appeal. This was a pre-assessment letter and the Appellant was given 30 days to respond. In reply, she wrote that when Mr. MacVicar’s cheques were deposited in her account, the funds were immediately withdrawn and given to Mr. MacVicar. In a further letter to the CRA, the Appellant enclosed a copy of a bank draft dated November 6, 2003 for $80,000 which she said included the money in question. The bank draft was made out to Mr. MacVicar’s lawyer.
+[29] The evidence has shown that the bank draft for $80,000 did not include any of the funds from the cheques in issue in this appeal.
+[30] The question raised by counsel for the Appellant was whether the funds deposited into the Appellant’s bank account were transferred to her.
+[31] The Appellant’s position at the hearing was that the cheques deposited into her account were payments on Mr. MacVicar’s indebtedness to her. If this was true, it necessarily followed that the Appellant had both legal and beneficial ownership of the cheques when she received them.
+[32] It was clear from the Appellant’s testimony that the funds given to her by Mr. MacVicar and deposited into her account were transferred to her. She used two of the cheques deposited into her account to purchase two Guaranteed Investment Certificates for $15,000 each in her name. In my view, this showed that the Appellant had both legal and beneficial ownership of those funds. She had control over how the funds would be used once the cheques were endorsed to her and she deposited them into her account. She used the funds as she saw fit. The requirement at (a) was met. There was a transfer of property.
+[33] The question is whether the Appellant has given evidence to show that she gave adequate consideration for the funds she received from Mr. MacVicar at the time of the transfer.
+[34] A loan can be consideration for the purposes of subsection 160(1) but the onus was on the Appellant to demonstrate that a loan existed at the time of transfer, and the fair market value of that loan. In this case, I have concluded from the inconsistencies in the evidence and the lack of contemporaneously made records or receipts that the Appellant has not met the onus.
+[35] There was nothing in writing to support that the Appellant made loans to Mr. MacVicar. There was nothing in writing between the Appellant and Mr. MacVicar to document their arrangement. However, this alone would not have been fatal to the Appellant’s case if I had found that she had given credible evidence to support a loan.
+[36] I have found that there were inconsistencies in the Appellant’s evidence and there were inconsistencies between the Appellant’s evidence and that of Mr. MacVicar. As a result, I have concluded that the Appellant has not established that a loan existed between her and Mr. MacVicar at the time the cheques were transferred to her. I have also concluded that the Appellant was not credible. My conclusions were based on the following.
+[37] The Appellant’s explanation to the CRA with respect to the cheques in issue changed. When she was first contacted in November 2007, she wrote that the funds were immediately withdrawn and given to Mr. MacVicar. It was only at the objection stage of this case that she alleged she made loans to Mr. MacVicar and the cheques were a repayment of those loans.
+[38] The only contemporaneous records provided were banking records and vehicle agreements in the Appellant’s name. The banking records showed the deposit of the cheques from Mr. MacVicar and they showed money going out of the Appellant’s bank accounts. The monies debited to her accounts were cheques to Mr. MacVicar; some amounts were cash or cheques payable to cash and some were cheques to pay Mr. MacVicar’s credit card. Nothing in the bank records showed whether there was a loan arrangement between the Appellant and Mr. MacVicar. Also, when Mr. MacVicar declared bankruptcy in 2004, he did not include a debt to the Appellant as one of his liabilities.
+[39] As I stated earlier, the Appellant provided a spreadsheet which she claimed was a reconstruction of the various amounts that she lent to Mr. MacVicar and his repayments. The spreadsheet was prepared in 2011. The problem that I have with this evidence is that the Appellant stated that she used Mr. MacVicar’s records to prepare the spreadsheet. However, she did not photocopy those records or bring them to trial. More importantly, Mr. MacVicar testified that he no longer had the relevant records at the time that the Appellant prepared the spreadsheet. He stated that he destroyed his records after his bankruptcy in 2004.[4]
+[40] The amounts recorded in the Appellant’s spreadsheet were taken from her banking records but she herself stated that she “guessed” at the actual use of most of the funds. She stated:
+…it's unfortunate it's guess work because there's no detail there. And I don't have that good of a memory that I can remember specifically what I was doing 10 years ago with regard to the money.[5]
+The Appellant also guessed at the amount of money that Mr. MacVicar owed her at the end of October 2003. According to her it was $47,309.07 or $106,890.57.
+[41] The Appellant stated that she had kept contemporaneous records on her computer of the amounts she lent to Mr. MacVicar in 2002 and 2003 but she did not bring these records to Court. She alleged that she had destroyed the records.
+[42] Additional inconsistencies between the Appellant and Mr. MacVicar were as follows: According to the Appellant, Mr. MacVicar did not have a bank account during the relevant period. However, Mr. MacVicar stated that he had two business bank accounts in 2003. There was no documentary evidence of the two business accounts but he did have a personal bank account. Three of the documents included in evidence were cheques written to the Appellant on Mr. MacVicar’s personal account. The Appellant wrote on her spreadsheet that she charged interest on the amounts she lent to Mr. MacVicar. However, Mr. MacVicar disagreed that interest was charged. The Appellant testified that she made truck payments and paid for the insurance on Mr. MacVicar’s truck. Whereas, Mr. MacVicar testified that Guzzler’s made the payments on the truck. The Appellant stated that Mr. MacVicar paid her rent and his share of the expenses each month. Mr. MacVicar agreed that he paid rent but the parties did not agree on the amount paid. The Appellant did not declare rental income in her tax returns.
+[43] In an appeal such as this, when the onus is on the Appellant, she must bring more than guesstimates to support her position. There were too many inconsistencies; no reliable documentary evidence of a loan; and, only her unsupported statement of a loan. The Appellant has not met her onus. It is my view that the Appellant has failed to establish that she gave adequate or any consideration for the amounts transferred to her. The appeal is dismissed with costs to the Respondent.
+Signed at Ottawa, Canada, this 20th day of February 2014.
+“V.A. Miller”
+V.A. Miller J.
+CITATION: 2014TCC55
+COURT FILE NO.: 2011-2705(IT)G
+STYLE OF CAUSE: MICHELLE C. CONNOLLY AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Halifax, Nova Scotia
+DATE OF HEARING: September 19, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: February 20, 2014
+APPEARANCES:
+Counsel for the Appellant:
+M. Gerard Tompkins, Q.C.
+Counsel for the Respondent:
+Catherine M.G. McIntyre
+COUNSEL OF RECORD:
+For the Appellant:
+Name: M. Gerard Tompkins, Q.C.
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Transcript at pages 127 - 128
+[2] Transcript at pages 284 - 285
+[3] Transcript at page 254
+[4] Transcript at page 211
+[5] Transcript at page 105

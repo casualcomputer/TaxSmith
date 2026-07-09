@@ -1,0 +1,196 @@
+---
+title: "CHR Investment Corporation v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/461445/index.do"
+last_modified: "2020-01-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2020 TCC 17"
+citation2: ""
+neutral_citation: "2020 TCC 17"
+decision_date: "2020-01-30"
+language: "en"
+item_id: "461445"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4264
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-07-24T06:11:52.339000+00:00"
+cases_cited_count: 11
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d6c6654473cb1ae4d2a525c026dc2c3b5b2a6c07c0a731b3f7b98b75d9ec8f76"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# CHR Investment Corporation v. The Queen
+
+- Citation: 2020 TCC 17
+- Decision date: 2020-01-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4264, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+CHR Investment Corporation v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2020-01-30
+Neutral citation
+2020 TCC 17
+File numbers
+2017-4745(IT)G
+Judges and Taxing Officers
+Bruce Russell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2017-4745(IT)G
+BETWEEN:
+CHR INVESTMENT CORPORATION,
+Applicant
+(Appellant)
+and
+HER MAJESTY THE QUEEN,
+Respondent
+(Respondent)
+Motion heard on September 6, 2019 at Calgary, Alberta
+Before: The Honourable Justice B. Russell
+Appearances:
+Counsel for the Appellant:
+Sophie Virji
+Jehad Haymour
+Counsel for the Respondent:
+Carla Lamash
+AMENDED ORDER
+IT IS ORDERED that each of the six underlying questions to which the Respondent declined to give an undertaking be answered by the Respondent within 45 days of the issuance date of this order. Costs are granted to the Applicant/Appellant fixed at $3,750.
+This Amended Order is issued in substitution of the Order dated November 29, 2019 to amend above-noted appearances of counsel.
+Signed at Ottawa, Canada, this 17th day of January 2020.
+“B.Russell”
+Russell J.
+Citation: 2020TCC17
+Date: 20200130
+Docket: 2017-4745(IT)G
+BETWEEN:
+CHR INVESTMENT CORPORATION,
+Applicant
+(Appellant)
+and
+HER MAJESTY THE QUEEN,
+Respondent
+(Respondent)
+AMENDED REASONS FOR ORDER
+Russell J.
+I. Introduction:
+[1] The Applicant (Appellant) (hereafter, Appellant), CHR Investment Corporation has brought an interlocutory motion pursuant to section 110 of the Tax Court of Canada Rules (General Procedure), for an order that the Respondent Crown answer six underlying undertaking requests made by the Appellant in the course of its discovery examination of the Respondent. The Respondent took each of these undertaking requests “under advisement” and subsequently informed the Appellant that none of these requested undertakings would be given; because, the Respondent asserts, each of the six particular questions respectively underlying the six denied undertaking requests “is irrelevant and or constitutes a fishing expedition”.
+[2] The underlying appeal is of five reassessments raised March 30, 2017 of the Appellant’s respective 2009, 2010, 2011, 2012 and 2013 taxation years. They are general anti-avoidance rule (GAAR) reassessments per section 245 of the federal Income Tax Act (Act). They deny the Appellant the ability to utilize tax attributes including a loss carryover amount and a SR&ED carryover amount acquired by the Appellant through a corporate reorganization. The Appellant had utilized these tax attributes to reduce its income for each of those five taxation years.
+[3] In Canada Trustco, [2005] 5 C.T.C 215, the Supreme Court of Canada pronounced three requirements for application of the GAAR. The second is the need to establish “abusive tax avoidance” per subsection 245(4); that is, to show that “it cannot be reasonably concluded that a tax benefit would be consistent with the object, spirit or purpose of the provisions relied upon by the taxpayer”. The sole issue of in this appeal is whether subsection 245(4) is met - that is, whether the Appellant's use of the tax attributes constituted misuse or abuse of subsections 37(6.1), 111(5) and 127(9.1) (collectively, the streaming rules) and or paragraph 256(7)(b) of the Act.
+II. Background:
+[4] The Respondent's position as to the object, spirit and purpose of the streaming rules and paragraph 256(7)(b) is pleaded at para. 45 of the Reply, as follows:
+45. In reassessing the Appellant the Minister assumed:
+(a) the general scheme of the Act is to prohibit the transfer of tax attributes between arm's length parties, subject to certain express and permissive exceptions;
+(b) subsections 37(6.1), 111(5) and 127(9.1) and paragraph 256(7)(b) of the Act are part of this legislative scheme;
+(c) the object, spirit and purpose of subsections 37(6.1), 111(5) and 127(9.1) of the Act is to prevent the arm's length transfer of tax attributes to shelter from tax the income of the person acquiring access to the attributes, subject to an exception permitting the ongoing use of tax attributes if they are used in the same or a similar business; and
+(d) subsection 256(7) forms part of the provisions in the Act that prevents [sic] the trading of losses between arm's length parties.
+[5] The six declined undertaking requests are:
+1.To provide a copy of the letter that the Canada Revenue Agency (CRA) Legislative Policy Directorate wrote to the Department of Finance on February 1, 2001.
+2. To advise as to whether the CRA Legislative Policy Directorate received any response from the Department of Finance to the February 1st correspondence, and if it did, to provide a copy of same.
+3. To provide a copy of the correspondence from the CRA Legislative Policy Directorate to the Department of Finance dated March 8, 2004.
+4. To enquire of the CRA Legislative Policy Directorate if the Department of Finance responded to the correspondence dated March 8, 2004.
+5. To provide a copy of the letter written by the CRA Legislative Policy Directorate in 2007 asking the Department of Finance to recommend legislative amendments.
+6. To enquire of the CRA Legislative Policy Directorate as to whether there was a response from the Department of Finance relative to the above requested undertaking [i.e. #5 above] and if so to provide a copy of the same.
+[6] The grounds for the Appellant’s motion include that the six unanswered questions, “...relate to [Appellant’s] line of inquiry regarding the testing of the limits of the facts assumed by the Minister [of National Revenue] in paragraph 45 of the Reply by seeking documentation referenced in the 2009 Fall Report of the Auditor General of Canada, a public document...presented to Parliament, that contradicts or limits such facts.” The motion grounds include further that the Appellant, “...is entitled to production of the documents that may fairly lead to a train of inquiry that advances the Appellant's case or damages the Respondents’ case, which these documents do.”
+[7] The Appellant asserts that the text of the streaming rules clearly captures when and when not utilization of tax attributes will be permitted, determined by whether there had been an acquisition of de jure control. In the absence of an acquisition of de jure control, the Respondent must establish that there had been a misuse or abuse of the streaming rules and or paragraph 256(7)(b) of the Act for its GAAR reassessments to prevail. The Appellant further asserts that evolution of the streaming rules indicates a broadening over time of circumstances when tax attributes, particularly losses, can be utilized. Answers to the six refused undertakings/questions would assist the Appellant to know the basis or bases of the policy pleaded by the Respondent in para. 45 of the Reply in respect of subsection 245(4) of the Act.
+[8] The threshold for relevancy in respect of questions asked on discovery examination is notably low, as the following references note.
+(a) from Baxter v. R., 2004 TCC 636 (general procedure), para. 13:
+As summarized by Bowman, ACJ as he then was, upon review of pertinent authorities, “[r]elevancy on disclosure must be broadly and liberally construed and wide latitude should be given;” [as well] “[a] motions judge should not second guess the discretion of counsel by examining minutely each question or asking counsel for the party being examined [sic, party examining] to justify each question or explain its relevancy;” [and further] “[t]he motions judge should not seek to impose his or her views of relevancy on the judge who hears the same by excluding questions that he or she may consider irrelevant but which, in the context of the evidence as a whole, the trial judge may consider relevant;” [and finally,] “[p]atently irrelevant or abusive questions or questions designed to embarrass or harass the witness or delay the case should not be permitted.”
+(b) from MP Western Properties Inc. v. R., 2017 TCC 82 (general procedure), para. 19, under the heading “General Principles of Discovery”, per V. Miller J:
+...Relevancy at discovery is a lower threshold than that at trial: 4145356 Canada Ltd. v. R., 2010 TCC 613 (General Procedure). In fact, Rule 90 of the Rules expressly provides that the production of a document at discovery is not an admission of its relevance or admissibility.
+(c) from Teelucksingh v. R., 2010 TCC 94 (general procedure), para.15, per Bowie, J.:
+As well, per Bowie, J., “[t]he threshold of relevance is relatively low, but pure fishing expeditions are not permitted”, and, “[t]he examining party is entitled to have any information, and production of any documents, that may fairly lead to a train of enquiry that may directly or indirectly advance his case, or damage that of the opposing party”.
+(d) from John Fluevog Boots & Shoes Ltd. v. R, 2009 TCC 345 (general procedure), para. 18:
+Generally on a motion such as this [the Court] would intervene to prevent counsel from pursuing questions only if they were: (1) clearly abusive; (2) clearly a delaying tactic; or (3) clearly irrelevant”. [and] “The term ‘fishing expedition’ has been generally used to describe an indiscriminate request for production, in the hope of uncovering helpful information.
+(e) per Hugessen, J. in Montana Band v. Canada, [2000] 1 FC 267 (TD), para 5 - extracted (with noted emphasis) in R. v. Lehigh Cement Limited, 2011 FCA 120, para. 30:
+The general purpose of examination for discovery is to render the trial process fairer and more efficient by allowing each party to inform itself fully prior to trial of the precise nature of all the other parties’ positions so as to define fully the issues between them. It is in the interest of Justice that each party should be as well informed as possible about the positions of the other parties and should not be put at a disadvantage by being taken by surprise at trial. It is sound policy for the Court to adopt a liberal approach to the scope of the questioning on discovery since any error on the side of allowing questions may always be corrected by the trial judge who retains the ultimate mastery over all matters relating to admissibility of evidence; on the other hand any error which unduly restricts the scope of discovery may lead to serious problems or even injustice at trial.
+(f) from Lehigh Cement, supra, para. 34
+While, “...the general principles established in the caselaw are useful, they do not provide a magic formula that is applicable to all situations. In such matters, it is necessary to follow the case-by-case rule.”
+[9] Also there is jurisprudence which considers suitability of discovery questions in a GAAR context similar to herein.
+[10] In Superior Plus Corp. v. R., 2015 TCC 132 (general procedure); aff’d 2015 FCA 241, the Federal Court of Appeal (FCA) upheld the decision of this Court per Hogan, J. to compel production and answers to refused questions, on the basis that the GAAR was invoked, “in circumstances where a change in the Income Tax Act's underlying policy is in issue” (para. 7). The FCA noted its prior decision of Lehigh Cement (supra) that information pertaining to the policy of the Act can be relevant on discovery, “even if not taxpayer specific” where the Respondent itself had established relevance by disclosing an internal policy memorandum dealing with the same subject. Relevance also could be established where the refused documents had been prepared in the context of the audit of the current taxpayer or had been considered by officials involved in the audit (para. 8, Superior).
+[11] In Superior Plus Corp. v. R., 2016 TCC 217 (general procedure), this Court per Hogan, J. determined that views of the federal Department of Finance as to policy underlying the federal Income Tax Act were irrelevant. “It is with reference to legislative intent, not the intent of an individual official of Finance, that the GAAR analysis is made. Whether individual Finance officials believe such a policy to exist has no bearing on the object, spirit or purpose of the relevant provisions...” (para. 79).
+[12] In MP Western Properties Inc. v. R., 2019 FCA 19, the FCA did not interfere with the decision of V. Miller, J. which, “...refused the broad request for all correspondence between the legislative policy division, income tax rulings directorate and/or the GAAR Committee of the CRA and legislative division of the Department of Finance for the period 2001 through 2012 with respect to the legislative scheme in the ITA dealing with transfer of corporate losses, finding such request to be 'a fishing expedition of vague and far-reaching scope', 'overly broad' and an ‘onerous task to satisfy’.” (paras. 13, 27-9).
+[13] Also, I have reviewed the recent decision of Total Energy Services Inc. v. Her Majesty 2019 TCC 112 (general procedure), per my colleague Visser J., wherein a motion to compel was considered in the context of a GAAR issue similar to that in this present motion.
+III. Legal analysis:
+[14] Here, the Appellant seeks to challenge the “policy” underlying the streaming rules, that the Respondent has pleaded at para. 45 of the Reply as being the policy the Minister applied per subsection 245(4) in raising the appealed reassessments. While whether that is or is not the correct policy is a question of law rather than of fact, and thus strictly speaking not susceptible to evidentiary proof, the jurisprudence already accepts that documentation is admissible in relation to this issue at the discovery stage, including documentation as was in CRA's file in relation to the taxpayer's audit and or objection stages, and documentation that had been considered by a CRA official involved in the taxpayer's audit or objection stages.
+[15] Additionally, there is basis for consideration that judicial deference, however slight, might be accorded the Respondent's enunciated version, of what is the particular policy, as anticipated by subsection 245(4). It is well established that a degree of judicial deference, again however slight, can be accorded statements of the Minister as to interpretation of fiscal legislation that are published in tax interpretation bulletins and information circulars.
+[16] So, seeking to show from other CRA or related documentation (whether or not a copy happens to have been lodged in CRA's audit or objection files of the particular taxpayer, or otherwise considered by CRA in respect of the particular taxpayer) that the Minister's pleaded policy for subsection 245(4) purposes does not wholly conform with other administrative fiscal statements on the same subject should be acceptable, at least at the discovery stage. That is not to permit fishing expeditions, which are broad questions seeking to land any document that might swim by, as opposed to focused questions seeking production of a relatively well defined document, should it exist.
+[17] I now consider the six refused requests that are the subject of this motion. First, each involves a request for a specific document if any such document exists - these questions are not blanket and general requests for, for example, all particular documentation covering a broad subject area and coming into existence between two specified dates.
+1. To provide a copy of the letter that the Canada Revenue Agency (CRA) Legislative Policy Directorate wrote to the Department of Finance on February 1, 2001.
+Decision: The document should be produced. This is a focused request for one document, made relevant by para. 45 of the Reply, and is not a fishing expedition seeking any number of pages of broadly described documentation. While policy per subsection 245(4) of the Act is a question of law, it is relevant to know and test the bases of the Minister’s statement as to what is the underlying policy. The Minister’s view may attract, however slight, judicial deference, as do for example CRA administrative publications such as IT bulletins. As well, it still is for the trial judge to determine relevance and admissibility in the context of the case when presented at trial. It would be inappropriate to be zealous in restricting the intended broad ambit of discovery examinations, in the absence of clear irrelevance, clear abuse or clear delaying tactic. This is an application of the “case-by-case” rule, per the FCA in Lehigh Cement, supra.
+2. To advise as to whether the CRA Legislative Policy Directorate received any response from the Department of Finance to the February 1st correspondence, and if it did, to provide a copy of same.
+Decision: If such document exists, it should be produced. This again is a focused request for one document, made relevant by para. 45 of the Reply, and is not a fishing expedition seeking any number of pages of broadly described documentation. While policy per subsection 245(4) of the Act is a question of law, it is relevant to know and test the bases of the Minister’s statement as to what is the underlying policy. The Minister’s view may attract, however slight, judicial deference, as do for example CRA administrative publications such as IT bulletins. As well, it still is for the trial judge to determine relevance and admissibility in the context of the case when and if the document is presented at trial. It would be inappropriate to be zealous in restricting the intended broad ambit of discovery examinations, in the absence of clear irrelevance, clear abuse or clear delaying tactic. This is an application of the “case-by-case” rule per the FCA in Lehigh Cement, supra.
+3. To provide a copy of the correspondence from the CRA Legislative Policy Directorate to the Department of Finance dated March 8, 2004.
+Decision: The document should be produced. This is a focused request for one document, made relevant by para. 45 of the Reply, and is not a fishing expedition seeking any number of pages of broadly described documentation. While policy per subsection 245(4) of the Act is a question of law, it is relevant to know and test the bases of the Minister’s statement as to what is the underlying policy. The Minister’s view may attract, however slight, judicial deference, as do for example CRA administrative publications such as IT bulletins. As well, it still is for the trial judge to determine relevance and admissibility in the context of the case when presented at trial. It would be inappropriate to be zealous in restricting the intended broad ambit of discovery examinations, in the absence of clear irrelevance, clear abuse or clear delaying tactic. This is an application of the “case-by-case” rule, per the FCA in Lehigh Cement, supra.
+4. To enquire of the CRA Legislative Policy Directorate if the Department of Finance responded to the correspondence dated March 8, 2004, and if so to provide a copy such response.
+Decision: If such document exists, it should be produced. This again is a focused request for one document, made relevant by para. 45 of the Reply, and is not a fishing expedition seeking any number of pages of broadly described documentation. While policy per subsection 245(4) of the Act is a question of law, it is relevant to know and test the bases of the Minister’s statement as to what is the underlying policy. The Minister’s view may attract, however slight, judicial deference, as do for example CRA administrative publications such as IT bulletins. As well, it still is for the trial judge to determine relevance and admissibility in the context of the case when and if the document is presented at trial. It would be inappropriate to be zealous in restricting the intended broad ambit of discovery examinations, in the absence of clear irrelevance, clear abuse or clear delaying tactic. This is an application of the “case-by-case” rule per the FCA in Lehigh Cement, supra.
+5. To provide a copy of the letter written by the CRA Legislative Policy Directorate in 2007 asking the Department of Finance to recommend legislative amendments.
+Decision: The document should be produced. This is a focused request for one document, made relevant by para. 45 of the Reply, and is not a fishing expedition seeking any number of pages of broadly described documentation. While policy per subsection 245(4) of the Act is a question of law, it is relevant to know and test the bases of the Minister’s statement as to what is the underlying policy. The Minister’s view may attract, however slight, judicial deference, as do for example CRA administrative publications such as IT bulletins. As well, it still is for the trial judge to determine relevance and admissibility in the context of the case when presented at trial. It would be inappropriate to be zealous in restricting the intended broad ambit of discovery examinations, in the absence of clear irrelevance, clear abuse or clear delaying tactic. This is an application of the “case-by-case” rule, per the FCA in Lehigh Cement, supra.
+6. To enquire of the CRA Legislative Policy Directorate as to whether there was a response from the Department of Finance relative to the above requested undertaking [i.e., #5 above], and if so to provide a copy of the same.
+Decision: If such document exists, it should be produced. This again is a focused request for one document, made relevant by para. 45 of the Reply, and is not a fishing expedition seeking any number of pages of broadly described documentation. While policy per subsection 245(4) of the Act is a question of law, it is relevant to know and test the bases of the Minister’s statement as to what is the underlying policy. The Minister’s view may attract, however slight, judicial deference, as do for example CRA administrative publications such as IT bulletins. As well, it still is for the trial judge to determine relevance and admissibility in the context of the case when and if the document is presented at trial. It would be inappropriate to be zealous in restricting the intended broad ambit of discovery examinations, in the absence of clear irrelevance, clear abuse or clear delaying tactic. This is an application of the “case-by-case” rule per the FCA in Lehigh Cement, supra.
+[18] Costs fixed at $3,750.00 will go to the Appellant.
+This Further Amended Reasons for Order is issued in substitution of the Amended Reasons for Order dated January 17, 2020 to add a missing word in paragraph 16 and to add a neutral citation.
+Signed at Ottawa, Canada, this 30th day of January 2020.
+“B.Russell”
+Russell J.
+CITATION:
+COURT FILE NO.:
+2020 TCC 17
+2017-4745(IT)G
+CITATION:
+STYLE OF CAUSE:
+CHR INVESTMENT CORPORATION AND THE QUEEN
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+September 6, 2019
+REASONS FOR ORDER BY:
+The Honourable Justice B. Russell
+DATE OF ORDER:
+DATE AMENDED ORDER
+DATE OF AMENDED REASONS FOR ORDER
+DATE OF FURTHER AMENDED REASONS FOR ORDER
+November 29, 2019
+January 17, 2020
+January 17, 2020
+January 30, 2020
+APPEARANCES:
+Counsel for the Applicant (Appellant):
+Sophie Virji
+Jehad Haymour
+Counsel for the (Respondent) Respondent:
+Carla Lamash
+COUNSEL OF RECORD:
+For the Applicant (Appellant):
+Name:
+Sophie Virji
+Jehad Haymour
+Firm:
+Bennett Jones LLP
+Calgary, Alberta
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

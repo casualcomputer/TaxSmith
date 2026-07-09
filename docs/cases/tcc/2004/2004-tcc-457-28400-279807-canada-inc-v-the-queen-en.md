@@ -1,0 +1,158 @@
+---
+title: "279807 Canada Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28400/index.do"
+last_modified: "2004-06-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 457"
+citation2: ""
+neutral_citation: "2004 TCC 457"
+decision_date: "2004-06-29"
+language: "en"
+item_id: "28400"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1919
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:16:15.745000+00:00"
+cases_cited_count: 0
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "13695bb1fc658ba15f60d8b00e655f8fa4d5bcffd22854acf15ec68810cf7580"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 279807 Canada Inc. v. The Queen
+
+- Citation: 2004 TCC 457
+- Decision date: 2004-06-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1919, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+279807 Canada Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-06-29
+Neutral citation
+2004 TCC 457
+File numbers
+2003-4335(GST)APP
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2003‑4335(GST)APP
+BETWEEN:
+2749807 CANADA INC.,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Application heard on June 14, 2004, at Québec, Quebec Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel for the Applicant:
+William Noonan
+Counsel for the Respondent:
+Frank Archambault
+____________________________________________________________________
+ORDER
+Upon application for an order extending the time for appealing the assessment bearing number T‑02‑DSI‑055FC and issued on November 21, 2002, which was made under the Excise Tax Act, relative to the goods and services tax (GST);
+And upon hearing what was alleged by the parties;
+The application is granted in accordance with the attached Reasons for Order, and the Notice of Appeal received with the application constitutes a valid Notice of Appeal if the appropriate filing fees are paid to the Registry of the Court no later than July 30, 2004.
+Signed at Ottawa, Canada, this 29th day of June 2004.
+Tardif J.
+Translation certified true
+on this 2nd day of July 2004.
+Maria Fernandes, Translator
+Citation: 2004TCC457
+Date: 20040629
+Docket: 2003-4335(GST)APP
+BETWEEN:
+2749807 CANADA INC.,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR ORDER
+Tardif J.
+[1] This is an application for an extension of time to appeal an assessment bearing number T-02-DSI-055FC and issued on November 21, 2002.
+[2] The contents of the motion read as follows:
+[translation]
+. . .
+MOTION OF THE APPLICANT TO EXTEND THE TIME TO APPEAL TO THE COURT OF QUEBEC
+(Article 93.1.13 of An Act respecting the ministère du Revenu)
+TO ONE OF THE HONOURABLE JUSTICES OF THE COURT OF QUEBEC, SITTING IN THE CHAMBRE DE PRATIQUE, IN AND FOR THE DISTRICT OF MONTRÉAL, THE APPLICANT RESPECTFULLY STATES THE FOLLOWING:
+1. On or around October 29, 2002, the Respondent informed the Applicant that, further to its notices of objection, amendments would be made to its notice of assessment for the QST, as it appears in a copy of a letter from Mr. François Fontaine, which is filed as Exhibit R‑1;
+2. On December 31, 2002, the Respondent issued the Applicant a notice of reassessment for the QST, as it appears in a copy of that notice of assessment, which is filed as Exhibit R‑2;
+3. Upon receipt of this notice of reassessment, on or around January 8, 2003, the Applicant forwarded it to its attorney and business advisor at the time, Mr. Richard Corriveau, as it appears in a copy of the Applicant’s fax activity report, which is filed as Exhibit R‑3;
+4. The Applicant knew that Mr. Richard Corriveau, a former lawyer, was experiencing personal problems, but it mistakenly believed that he had assumed the responsibility of securing a lawyer’s services to make the motion for appeal before this Honourable Court, since the Applicant had mandated him to do so.
+5. The facts reveal that the Applicant was dealing with said Richard Corriveau as business consultant on certain cases and believed that he had taken the professional undertaking to protect the interests of the Applicant as it had requested;
+6. The Applicant discovered that no action had been taken in this regard when it received a garnishee from the Toronto Dominion Bank dated October 30, 2003, a copy of which the Applicant received on November 5, 2003, as it appears in a copy of this notice filed as Exhibit R‑4;
+7. Upon receipt, the Applicant traced the notice of assessment and had the case forwarded to the undersigned counsel;
+8. It was not possible for the Applicant to act, having taken the necessary measures to file a motion for appeal before this Honourable Court;
+9. The Applicant always had the intention of appealing notice of assessment R‑2;
+10. The Respondent had initially assessed the tax return in an arbitrary manner;
+11. Originally, the Respondent had forgotten to allow inputs, thus demonstrating the lack of seriousness of the original assessment;
+12. The Respondent changed its mind, as it finally allowed the inputs;
+13. Assessment R‑2 remains nonetheless arbitrary and without justification;
+14. No more than one year passed since December 31, 2002, that is, the mailing date of notice of assessment R‑2;
+15. The Applicant, through its undersigned counsel, asks this Honourable Court for an extension of time to appeal in order to file its motion to appeal notice of assessment R‑2 before this Honourable Court for a period of fifteen (15) days following the judgment date on this motion;
+16. This motion is well founded in fact and in law;
+[3] In response to the motion, the Respondent countered as follows:
+[translation]
+. . .
+In response to the application for an order to extend the time within which the Applicant may file a notice of appeal regarding the notice of appeal regarding the notice of assessment dated November 21, 2002, the Deputy Attorney General of Canada sets out the following:
+1.) On October 26, 2001, the Respondent issued to the Applicant a notice of assessment bearing number T‑01‑DS1‑124PP, covering the period from July 1st, 1997 to July 31, 2001;
+2.) On January 15, 2002, the Applicant objected to that assessment;
+3.) In a decision on the objection, the Respondent issued a notice of reassessment dated November 21, 2002, bearing number T‑02DS1‑055FC;
+4.) The Applicant failed to file a notice of appeal with the Tax Court of Canada within ninety (90) days, as specified under section 306 of the Excise Tax Act;
+5.) The application to extend the time to file a notice of appeal before the Tax Court of Canada was filed with the Registry of the Court on December 1st, 2003.
+6.) The Respondent argues that such application for extension should be dismissed for the following reasons:
+(a) The Applicant did not show that it could not act, or give a mandate to act on its behalf within the time to appeal otherwise limited by subparagraph 305(5)(b)(iii) of the Act;
+(b) The Applicant did not show that the application was made as soon as circumstances permitted in accordance with subparagraph 305(5)(b)(iii) of the Act;
+FOR THESE REASONS, the Deputy Attorney General of Canada asks this Court to dismiss the Applicant's application to extend the time with costs.
+. . .
+[4] Mr. Robin Thibault was the only person to testify. He briefly described the Applicant’s role; he also indicated that, generally speaking, he was in charge of special projects.
+[5] He testified that for approximately ten years, the Applicant entrusted Richard Corriveau with all legal cases. A lawyer by trade, he was disbarred from the Barreau du Québec. Mr. Thibault affirmed that he and his boss were both aware of Corriveau’s disbarment.
+[6] Having developed a sound trusting relationship over the years, the business for which he worked relied on Mr. Corriveau to challenge the merits of the assessments issued with regard to the goods and services tax ("GST") as well as the Quebec sales tax ("QST").
+[7] With regard to the first stage, that is, the objection, Mr. Corriveau had retained the services of someone named Jean Lelièvre. As the objection resulted in a substantially lower assessment, the Applicant, once again, retained the services of Mr. Corriveau, so that he could find a competent and qualified person to initiate the appeal process following the significantly reduced assessment, yet confirmed for a considerable amount.
+[8] The witness indicated having met and conversed with Mr. Corriveau on a few occasions and, each time, the latter had allegedly told him that everything was under control. Several months passed after the mandate to prepare and seek a notice of appeal was given; when the Respondent initiated execution procedures through seizure, the Applicant ascertained that Mr. Corriveau had betrayed its trust and that he had never assumed the mandate that he had been given.
+[9] Arguing that it has fallen victim to the incompetence, the indifference or the ignorance of its agent, Mr. Corriveau, the Applicant submits its application for an extension of time to file an appeal. It adds that it has good and valid reasons to vacate, if not considerably reduce the assessment that had already been substantially reduced following the objection.
+[10] Is relying on an allegedly qualified and competent person to act in itself an acceptable excuse to justify and explain a failure to act within the prescribed time? I do not believe so.
+[11] Anyone should automatically ensure that the person whom he or she mandates skilfully and adequately carries out the mandate.
+[12] In this case, Mr. Corriveau had acted skilfully during the objection process. The latter had retained the services of an individual named Jean Lelièvre; it resulted in a substantial reduction of the initial assessment, thereby suggesting that he had the skills to carry out any mandate in relation to the progression of the case. The fact that he had been highly successful in the objection was certainly a determining factor for any reasonable person to believe that the following procedures would be prepared according to requirements. As for the time passed, it was normal for a reasonable layperson to believe that this was not abnormal since time limits applicable to such challenges are, unfortunately, always very long.
+[13] The argument that the reduced reassessment amount, which was still considerably high, would normally have resulted in greater vigilance on the Applicant's part as well as a constant follow‑up of its case, is certainly a valid one.
+[14] Conversely however, given that the amounts owing were so high, it was highly unlikely that someone would be reckless to the point of being indifferent about the outcome of his or her case.
+[15] This approach supports the interpretation that the Applicant had complete confidence in Mr. Corriveau, despite his professional setbacks. Having correctly acted at the objection stage, the Applicant had no reason or serious motive for doubting his competence or ability to conduct and pursue the case.
+[16] A mandate can be executed in good or bad faith. In a hypothetical case of bad faith, it could arise out of ignorance, carelessness, an error, an omission or negligence. For all of this unsatisfactory behaviour, variables may range from very minor to very serious.
+[17] Where a mandate is not executed in accordance with the principal's expectations and the resulting non‑execution proves to be fatal for his or her rights, the penalty for the principal does not depend on the seriousness of the agent's act: it is total and final.
+[18] Admittedly, there are recourses with respect to responsibility: however, where it is possible to remedy the repercussions of a behaviour resulting in a loss of a right, particularly where it can be done without any prejudice to the opposing party, an application allowing a person to assert his or her rights should be allowed.
+[19] Lastly, while this court is not bound by the decisions of the Court of Quebec, especially where the relevant legal provisions are not the same, I believe it is important, insofar as it is possible, to help ensure that the judgments on a single issue are consistent. To that effect, Counsel for the Applicant submitted that the same motion had been filed before the Court of Quebec, which has jurisdiction with respect to the QST.
+[20] It involved the same facts and reasons, the only distinction being that the applicable legal provisions, that is, An Act respecting the ministère du Revenu – (article 93.1.13), were different because it addressed the QST, whereas the Excise Tax Act – (article 305.1) addressed the GST. The case, however, dealt with the same period and the same business transactions.
+[21] The application is allowed.
+Signed at Ottawa, Canada, this 29th day of June 2004.
+Tardif J.
+Translation certified true
+on this 2nd day of July 2004.
+Maria Fernandes, Translator

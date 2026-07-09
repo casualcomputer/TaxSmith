@@ -1,0 +1,179 @@
+---
+title: "Gagnon v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27522/index.do"
+last_modified: "2006-02-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 56"
+citation2: ""
+neutral_citation: "2006 TCC 56"
+decision_date: "2006-02-28"
+language: "en"
+item_id: "27522"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 17
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:18:51.583000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "91d06298249d1e84093dce4dee341a4058ba35bab7cce9c6c7a35dfdf88b794d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gagnon v. The Queen
+
+- Citation: 2006 TCC 56
+- Decision date: 2006-02-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 17, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gagnon v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-02-28
+Neutral citation
+2006 TCC 56
+File numbers
+2005-1495(IT)I
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-1495(IT)I
+BETWEEN:
+LUC GAGNON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+[OFFICIAL ENGLISH TRANSLATION]
+Appeals heard December 13, 2005, at Québec, Quebec
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Agent for the Appellant:
+Charles Bourgeois
+Counsel for the Respondent:
+Anne Poirier
+____________________________________________________________________
+JUDGMENT
+The appeals of the assessments established under the Income Tax Act for the 2000, 2001 and 2002 taxation years are dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 28th day of February 2006.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 29th day of May 2006.
+Elizabeth Tan, Translator
+Citation: 2006TCC56
+Date: 20060228
+Docket: 2005-1495(IT)I
+BETWEEN:
+LUC GAGNON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] The Appellant is contesting the new assessments established against him by the Minister of National Revenue (the "Minister") [according to the net worth method] for the 2000 to 2002 taxation years (the "relevant period"). The Minister added unreported business income in the amounts of $16,109 in 2000 and $13,660 in 2002, and imposed a penalty in accordance with subsection 163(2) of the Income Tax Act (the "Act").
+[2] The issue in this case addressed only the following three points:
+(i) The Appellant claims that his former spouse, Christiane L'Hérault, paid him $3,250; $3,875; and $4,875 in 2000, 2001, and 2002 respectively, as contributions to their cost of living together. He claims that his former spouse's contributions should be deducted from his cost of living as established by the Minister.
+(ii) When establishing the Appellant's cost of living for 2001, the Minister set expenses at $2,472 under the heading "tobacco, alcohol and drinks." The Appellant claims he often had many visitors on the weekends at his cottage and he was responsible for purchasing food and drinks for them, and then they would repay him. His guests allegedly repaid him $1,200 in 2001. The Appellant claims the $1,200 should be deducted from his cost of living.
+(iii) The Appellant claims that in July 2000, Gérard Brosseau gave him all the equipment related to the restaurant he owned for $1. He claims that over the course of the relevant period, he sold part of the equipment for $6,200. He claims that the proceeds of disposition from the sale of the equipment was income from the sale of non-taxable goods and thus the product of disposition should be deducted from his unreported income established by the Minister using the net worth method.
+Background
+[3] During the relevant period, the Appellant was running a business that consisted of performing repair and renovation work. He also made cupboards and counters.
+[4] The Minister used the net worth method to establish the Appellant's unreported income further to the following observations:
+(i) the Appellant had only one bank account that he used for both personal and business purposes;
+(ii) the accounting records do not distinguish between personal expenses and those for the purpose of earning business income;
+(iii) the Appellant did not deposit all his business income into the bank account and he did not have a record to account for the non-deposited income.
+Burden of proof
+[5] The first issue to deal with is the burden of proof on the Appellant in his appeals. My colleague, Tardif J., had the opportunity to address burden of proof in a decision that, as in the present case, raised the issue of applying net worth.
+[6] In Bastille v. Her Majesty the Queen, 99 DTC 431, [1999] 4 C.T.C. 2155, at paragraph 5, et seq., he wrote:
+[5] I think it is important to point out that the burden of proof rests on the appellants, except with respect to the question of the penalties, where the burden of proof is on the respondent.
+[6] A NET WORTH assessment can never reflect the kind of mathematical accuracy that is both desired and desirable in tax assessment matters. Generally, there is a certain degree of arbitrariness in the determination of the value of the various elements assessed. The Court must decide whether that arbitrariness is reasonable.
+[7] Moreover, use of this method of assessment is not the rule. It is, in a way, an exception for situations where the taxpayer is not in possession of all the information, documents and vouchers needed in order to carry out an audit that would be more in accordance with good auditing practice, and most importantly, that would produce a more accurate result.
+[8] The bases or foundations of the calculations done in a net worth assessment depend largely on information provided by the taxpayer who is the subject of the audit.
+[9] The quality, plausibility and reasonableness of that information therefore take on absolutely fundamental importance.
+[7] Another of my colleagues, Bowman J. (as he was then), made the following statement in Ramey v. The Queen, [1993] T.C.J. No. 142 (Q.L.), ([1993] 2 C.T.C. 2119, 93 DTC 791), at paragraph 6:
+I am not unappreciative of the enormous, indeed virtually insuperable, difficulties facing the appellant and his counsel in seeking to challenge net worth assessments of a deceased taxpayer. The net worth method of estimating income is an unsatisfactory and imprecise way of determining a taxpayer's income for the year. It is a blunt instrument of which the Minister must avail himself as a last resort. A net worth assessment involves a comparison of a taxpayer's net worth, i.e. the cost of his assets less his liabilities, at the beginning of a year, with his net worth at the end of the year. To the difference so determined there are added his expenditures in the year. The resulting figure is assumed to be his income unless the taxpayer establishes the contrary. Such assessments may be inaccurate within a range of indeterminate magnitude but unless they are shown to be wrong they stand. It is almost impossible to challenge such assessments piecemeal. The only truly effective way of disputing them is by means of a complete reconstruction of a taxpayer's income for a year. A taxpayer whose business records and method of reporting income are in such a state of disarray that a net worth assessment is required is frequently the author of his or her own misfortunes.
+Preliminary Statement
+[8] In these appeals, only Isabelle Pouliot, of the Canada Customs and Revenue Agency (the Agency), testified in support of the Minister's position. The Appellant testified. His ex-spouse and Raymond Gagnon also testified in support of the Appellant's position. The Appellant also produced some documents (Exhibit A-1) in support of his position.
+Analysis
+Contribution to the cost of living together
+[9] The Appellant testified that his ex-spouse, Ms. L'Hérault, lived with him from January 1 to June 30, 2000 (26 weeks), from June 1 to December 31, 2001 (31 weeks) and from January 1 to October 31, 2002 (39 weeks). He explained that during this period of living together, Ms. L'Hérault contributed to the cost of living together, at $125 per week in cash and food costs.
+[10] The Appellant had Ms. L'Hérault testify in support of his position. Ms. L'Hérault essentially corroborated the Appellant's claims. However, when counsel for the Respondent began questioning Ms. L'Hérault on the likelihood that she lived with the Appellant in 2000, considering that during this same period she was paying close to $400 per month (Exhibit I-6) for accommodations she was renting on rue Doyon in Québec, and considering that she was divorced from the Appellant at that time (Exhibit I-3), her replies became confused, ambiguous, and incomprehensible. Strangely, from that moment on, she could not remember anything anymore. It must be noted that, faced with the unlikelihood that the Appellant and Ms. L'Hérault lived together during 2000, the agent for the Appellant admitted that his client made a mistake by claiming he lived with Ms. L'Hérault during 2000.
+[11] After this, how can the Appellant's testimony be trusted when it is not supported by relevant documentary evidence or by the testimony of credible witnesses? Since the Appellant's evidence on this issue relied solely on his testimony and that of Ms. L'Hérault, testimony that I find has very little probative value, I find that the Minister was right to not deduct the amounts allegedly paid by Ms. L'Hérault to the Appellant from the Appellant's cost of living.
+Saleof the restaurant equipment
+[12] The Appellant made the following claim on this point in his Notice of Appeal. I quote:
+[translation]
+In order to close his restaurant-motel as quickly as possible, Gérard Brosseau sold all the equipment related to the restaurant, namely tables, chairs, stove, refrigerator, warmer, air conditioning for $1.00, in July 2000.
+After cleaning and carrying out the necessary repairs, through advertisements in the Journal de Québec, the invoices for which are attached, I was able to sell everything for a total of $6,200.00 distributed over 2000, 2001, and 2002.
+[13] The Appellant's testimony on this point essentially restates the facts alleged in his Notice of Appeal. His testimony was not supported by relevant documentary evidence or testimony by credible witnesses. At most, the Appellant submitted invoices regarding classified ads he took out in the Journal de Montréal (Exhibit A-1) for the purpose of selling some equipment. Unfortunately, the Appellant cannot have the purchasers of the equipment testify in support of his position because, of course, he does not remember their names. However, he could have at least had Gérard Brosseau testify. He was not only the seller of the equipment but also one of his good clients. He did not do so. From this, I presume that the evidence would not have been favourable to him. Considering the low probative value I give the Appellant's testimony that is not supported by sufficient documentary evidence or by testimony by credible witnesses, I find that the Appellant did not meet his burden of proof on this issue.
+[14] At any rate, even if the Appellant had convinced me that the purchase of this equipment for such a low price ($1) and the sale of this equipment for $6,200, I would have found that the product of disposition of this equipment was business income. I restate that only the non-taxable portion of the capital gain can be deducted as an adjustment in the calculation of net worth.
+Tobacco, alcohol and drinks
+[15] As a reminder, when establishing the Appellant's cost of living for 2001, the Minister set expenses under "tobacco, alcohol and drinks" at $2,472. In his Notice of Appeal, the Appellant claims that $1,200 should be deducted from his cost of living for that year-an amount that allegedly corresponds to the amount reimbursed by his guests for the cost of food and drinks that he bought for them. The Appellant's claims on this issue in the Notice of Appeal are worth citing:
+[translation]
+(c) The following amounts were considered when establishing my cost of living under the heading "tobacco, alcohol and drinks":
+- 2000: $1,275.00
+- 2001: $2,472.00
+- 2002: $1,162.15
+I ask that the authorities at the Canada Customs and Revenue Agency consider an amount of $1,542.00 for 2001 instead of the established amount of $2,742.00. Since it is public knowledge that, for more than 15 years now, during weekends spent at the cottage I co-own with André Langevin, I am in charge of purchasing the required food and drinks for us and our guests. Some weekends, there could be between 8 and 12 guests. After taking care of purchasing all the victuals, I was reimbursed by each of the guests.
+Since I was often alone to prepare all the meals, the guests did not want me to pay any part of the food and drinks. An amount of $1,200.00 should therefore be deducted from the $2,742.00 already considered for 2001.
+[16] I must point out that the $2,472 was established by the Minister based on the Appellant's credit card statements and he is linked to the purchase of drinks at the SAQ. I also note that the Appellant did not contest the amounts added to his cost of living for 2000 and 2002, amounts that were also related to the purchase of drinks at the SAQ.
+[17] The Appellant first testified that the average weekly cost of his wine purchases for personal use was around $20 during the relevant period. The Appellant also explained that the $1,200 reimbursed in 2001 by his guests was related to the sale of wine to them after they had exhausted their own wine stock during their stay at the Appellant's cottage. This leads me to believe that the guests purchased and brought their own wine. But, in his Notice of Appeal, the Appellant claimed, "that he was responsible for purchasing the required drinks and food..." I also note that in the Appellant's testimony, the $1,200 reimbursement was related solely to the purchase of wine for his guests and not to the purchase of food and wine as he claimed in the Notice of Appeal. Moreover, the testimony of Raymond Gagnon seems to contradict the Appellant's version on this point, to a certain extent. In fact, Raymond Gagnon stated that to his knowledge, the Appellant was responsible for purchasing the victuals for his guests and not drinks or wine. Finally, I find it difficult to explain why the Appellant did not, in his Notice of Appeal, ask for a reduction in his cost of living in 2001 for an amount equal to the cost of food he allegedly purchased for his guests and for which these guests allegedly reimbursed him. I have difficulty explaining the fact that the Appellant is asking for a reduction in his cost of living for only 2000 and 2002 even though he claims in his Notice of Appeal that he has been purchasing wine and food for his guests for over 15 years.
+[18] Considering the difference between the Appellant's claims in the Notice of Appeal and his testimony, considering the difference between his testimony and the testimony of Raymond Gagnon and finally, considering the low probative value I grant the Appellant's testimony, I find that the Appellant did not convince me that the Minister erred on this issue.
+[19] For these reasons, the appeals are dismissed.
+Signed at Ottawa, Canada, this 28th day of February 2006.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 29th day of May 2006.
+Elizabeth Tan, Translator
+CITATION:
+2006TCC56
+COURT FILE NO.:
+2005-1495(IT)I
+STYLE OF CAUSE:
+Luc Gagnon and Her Majesty the Queen
+PLACE OF HEARING:
+Québec, Quebec
+DATE OF HEARING:
+December 13, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Paul Bédard
+DATE OF JUDGMENT:
+February 28, 2006
+APPEARANCES:
+Agent for the Appellant:
+Charles Bourgeois
+Counsel for the Respondent:
+Anne Poirier
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

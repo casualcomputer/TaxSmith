@@ -1,0 +1,149 @@
+Title: Blackburn Radio Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31133/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-98-31133-blackburn-radio-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2013-02-05
+
+# Blackburn Radio Inc. c. La Reine
+
+- Citation: 2013 CCI 98
+- Decision date: 2013-02-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4781, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Blackburn Radio Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-02-05
+Référence neutre
+2013 CCI 98
+Numéro de dossier
+2011-67(IT)G
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-67(IT)G
+ENTRE :
+BLACKBURN RADIO INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue le 5 février 2013, à Toronto (Ontario)
+Devant : L’honorable juge J. M. Woods
+Comparutions :
+Avocat de l’appelante :
+Me Daniel Sandler
+Avocates de l’intimée :
+Me Josée Tremblay
+Me Serena Sial
+ORDONNANCE
+À la suite d’une demande de l’appelante en vue d’obtenir une majoration des dépens, il est ordonné que ces derniers soient majorés de 25 000 $ au total, inclusion faite des débours et des dépens liés à la présente requête.
+Signé à Toronto (Ontario), ce 5e jour d’avril 2013.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 11e jour d’octobre 2013.
+Mario Lagacé, jurilinguiste
+Référence : 2013 CCI 98
+Date : 20130405
+Dossier : 2011-67(IT)G
+ENTRE :
+BLACKBURN RADIO INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+La juge Woods
+[1] Par la présente requête, Blackburn Radio Inc. (« Blackburn ») souhaite que l’on majore les dépens qui lui ont été adjugés après qu’elle obtenu eu gain de cause en appel (2012 CCI 255), au motif que le ministère public aurait dû accepter une offre de règlement raisonnable.
+[2] Dans une lettre datée du 5 juillet 2011, Blackburn a offert de régler le différend à condition que l’appel soit accueilli en entier, sans frais. La lettre indiquait que Blackburn avait de solides arguments et que, si l’offre n’était pas acceptée et si l’appel était fructueux, elle solliciterait des dépens conformément au projet de paragraphe 147(3.1) des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles »).
+[3] Le ministère public a rejeté l’offre, sans contre-offre, pour les motifs suivants : 1) il lui était interdit de faire une contre-offre de compromis parce que la question en litige était du type « tout ou rien », 2) il considérait que sa position était fondée en droit, et 3) l’offre de Blackburn n’était pas une offre de règlement du genre de celle que les Règles envisageaient, mais une demande de consentement à jugement.
+[4] Au début de l’audience, l’avocat de Blackburn a déclaré que la requête mettait en cause une importante question de principe, à savoir s’il fallait prendre en compte, lors de l’adjudication des dépens, d’une offre de règlement qui ne comportait pas un élément de compromis.
+[5] Blackburn sollicite une majoration importante des dépens, soit de 6 472,20 $ (conformément au tarif) à 58 914,95 $. Le montant demandé représente les dépens d’indemnisation partielle (50 p. 100 des dépens avocat-client) jusqu’à la date de signification de l’offre de règlement et les dépens d’indemnisation substantielle (80 p. 100 des dépens avocat-client) postérieurement à cette date. Elle sollicite également les dépens liés à la présente requête.
+[6] Les honoraires et débours réels de Blackburn (exclusion faite de la présente requête) s’élèvent à 83 524,70 $.
+Les dispositions applicables
+[7] Les paragraphes 147(1) et (3) des Règles, dont le texte figure ci-après, confèrent à la Cour une latitude considérable pour ce qui est de l’adjudication des dépens.
+147. (1) La Cour peut fixer les frais et dépens, les répartir et désigner les personnes qui doivent les supporter.
+[…]
+(3) En exerçant sa discrétion conformément au paragraphe (1), la Cour peut tenir compte :
+a) du résultat de l’instance;
+b) des sommes en cause;
+c) de l’importance des questions en litige;
+d) de toute offre de règlement présentée par écrit;
+e) de la charge de travail;
+f) de la complexité des questions en litige;
+g) de la conduite d’une partie qui aurait abrégé ou prolongé inutilement la durée de l’instance;
+h) de la dénégation d’un fait par une partie ou de sa négligence ou de son refus de l’admettre, lorsque ce fait aurait dû être admis;
+i) de la question de savoir si une étape de l’instance,
+(i) était inappropriée, vexatoire ou inutile,
+(ii) a été accomplie de manière négligente, par erreur ou avec trop de circonspection;
+j) de toute autre question pouvant influer sur la détermination des dépens.
+[8] En 2010, le Comité des Règles de la Cour a proposé d’apporter des modifications à l’article 147 en rapport avec les offres de règlement. La proposition la plus récente est énoncée dans la Directive sur la procédure no 18, qu’il reste à faire approuver par le gouverneur en conseil. La Directive sur la procédure no 17 informe les parties à un litige que la Cour a pour pratique de se conformer à la modification proposée en attendant que celle-ci soit approuvée. La décision à laquelle je suis arrivé dans le cadre de la présente requête serait la même, que l’on tienne compte de la modification proposée ou non.
+Analyse
+[9] Le point de départ de mon analyse est la thèse raisonnable selon laquelle, dans les cas où il y a une question importante à trancher, il ne faudrait pas s’attendre à ce que le ministère public concède cette question ou s’expose à une majoration de dépens. Cette thèse n’a pas été contestée par Blackburn et elle trouve appui dans la décision OMERS Realty Corp. v. Ontario (Minister of Finance), 2012 ONSC 159. Comme l’indique le juge Lederer :
+[traduction]
+[8] […] Je signale que le fait d’accepter une solution de 14 p. 100 aurait obligé le ministre à concéder pour ainsi dire une proposition importante. La question à trancher était sérieuse. Il devrait être loisible à une partie d’obtenir qu’une question de cette nature soit tranchée sans avoir à craindre qu’une offre de règlement qu’elle estime inacceptable entraîne une majoration des dépens.
+[10] En l’espèce, il est évident que le ministère public pensait qu’il y avait une question sérieuse à trancher. Le problème semble être qu’il ne s’était pas rendu compte de la faiblesse de sa position. La position de Blackburn, qui reposait sur les dispositions de la Loi de l’impôt sur le revenu ainsi que sur des décisions judiciaires faisant autorité, était manifestement correcte. Les références applicables sont indiquées ci‑dessous.
+a) lorsque la Cour annule une cotisation aux termes du sous‑alinéa 171(1)b)(i) de la Loi, le ministre du Revenu national n’est pas autorisé à établir une nouvelle cotisation au-delà d’un délai de prescription. Cela fait nettement contraste avec une cotisation que la Cour a renvoyée au ministre pour nouvelle cotisation aux termes du sous-alinéa 171(1)b)(iii);
+b) lorsque l’annulation d’une cotisation donne lieu à un paiement d’impôt en trop, le ministre est tenu de le rembourser aux termes du paragraphe 164(4.1) de la Loi;
+c) lorsqu’une cotisation est annulée pour cause de prescription, cela peut donner lieu à un paiement d’impôt en trop parce que la cotisation antérieure existe toujours. Ce principe est énoncé dans l’arrêt Lornport Investments Ltd. v. The Queen, 92 DTC 6231 (CAF), à la page 6233 :
+[…] Il me semble que, par son ordonnance, la Cour a reconnu judiciairement que la deuxième nouvelle cotisation, délivrée en dehors des délais prescrits par la Loi, n’a par conséquent pas été délivrée légalement. Pour ce motif, elle n’a pas remplacé ni annulé la première nouvelle cotisation. À mon avis, celle-ci continue d’exister.
+d) Quant à la question de savoir si Blackburn devait s’opposer à une nouvelle cotisation frappée de prescription, il est relativement clair que cela n’était pas nécessaire : Canadian Marconi Company v. The Queen, 91 DTC 5626 (CAF).
+[11] Si le ministère public avait été au courant de ces décisions judiciaires, il aurait dû se rendre compte que sa position était faible et concéder l’affaire plutôt que d’amener Blackburn à engager frais d’un litige.
+[12] Il aurait été utile pour Blackburn dans le cadre de la présente requête d’invoquer les décisions judiciaires pertinentes dans son « offre de règlement ». L’arrêt Lornport, en particulier, était un aspect important de l’affaire et il n’y a pas été fait référence dans la lettre d’offre.
+[13] Mais cela ne veut pas dire que Blackburn ne devrait pas bénéficier d’un certain allègement de ses frais. Comme le ministère public pensait qu’il y avait une question sérieuse à trancher, Blackburn s’est retrouvée obligée à engager d’importants frais juridiques. À mon avis, il faudrait pour cela lui accorder une indemnisation supérieure à ce que le tarif prévoit.
+[14] Dans les litiges de nature fiscale, le travail que comportent ces derniers entre de plus en plus en ligne de compte lors de l’adjudication des dépens. Cette question a également été étudiée dans un litige en matière de propriété intellectuelle : Consorzio Del Prosciutto Di Parma .c Maple Leaf Meats Inc., 2002 CAF 417 (Maple Leaf Meats).
+[15] Le ministère public est d’avis que la complexité ne devrait pas entrer en ligne de compte, et il prend appui sur la démarche traditionnellement admise qu’a énoncée le juge Bowman (tel était alors son titre) dans la décision Banque Continentale du Canada c. La Reine, [1994] ACI no 863. Le problème est que la jurisprudence a évolué depuis que la décision Banque Continentale a été rendue, et l’arrêt Maple Leaf Meats de la Cour d’appel fédérale en est un exemple.
+[16] Les frais réels de Blackburn s’élèvent à 83 524,70 $, une somme qui, d’après moi, est raisonnable dans les circonstances du présent appel. Les dépens que prévoit le tarif équivalent à moins de 8 p. 100 de ce montant, ce qui, dans les circonstances, n’est pas une indemnisation suffisante.
+[17] J’adjugerais à Blackburn des dépens fixés à 25 000 $, inclusion faite des débours et des dépens liés à la requête.
+[18] Au vu de cette conclusion, il n’est pas nécessaire que je commente le fait de savoir s’il est nécessaire qu’une offre de règlement comporte un élément de compromis. Au profit des lecteurs, j’exposerai brièvement les positions des parties.
+[19] L’avocat de Blackburn a invoqué deux arrêts de la Cour d’appel de l’Ontario selon lesquels une offre de règlement faite sans compromis peut, quand les circonstances s’y prêtent, constituer une offre de règlement valide faisant entrer en jeu les règles applicables en matière de dépens. La raison en est que, si la position d’une partie est faible, il convient que le tribunal possède le pouvoir d’adjuger des dépens de façon à la dissuader peut-être de poursuivre ce litige : Data General (Canada) Ltd. v. Molnar Systems Group Inc. (1991), 6 OR (3d) 409, et Walker Estate v. York Finch General Hospital (1999), 43 OR (3d) 689.
+[20] Dans l’arrêt Data General, le juge en chef adjoint Morden fait remarquer ce qui suit, à la page 415 :
+[traduction]
+L’article 49 des Règles a pour objet d’encourager les parties à convenir de mettre fin à un litige – d’une manière plus rapide et moins coûteuse que par un jugement du tribunal à l’issue d’un procès. L’incitation à conclure un règlement est un mécanisme qui permet à un demandeur de faire une offre sérieuse au sujet de son estimation de la valeur de la demande, ce qui oblige le défendeur à examiner tôt (c’est-à-dire au moment de la signification de l’offre) et avec soin le fond de l’affaire. Dans bien des cas, il n’existe aucun moyen de défense sur le fond à l’encontre d’une demande en paiement d’une somme déterminée et, compte tenu de l’objet de cette règle, je ne vois pas pourquoi, dans un tel cas, l’offre que fait le demandeur doit être inférieure au plein montant de la demande. La règle a pour but de dissuader le défendeur de recourir au processus judiciaire, et ce qu’il en coûte de plus au demandeur pour retarder le prononcé du jugement inévitable; à mon sens, il n’existe aucune raison de principe valable pour laquelle un demandeur devrait renoncer à une partie de sa demande afin de pouvoir bénéficier de la règle. Je ne crois pas que, dans une telle situation, le fait d’avoir à faire face à une telle offre cause un préjudice injuste au défendeur.
+[21] Dans l’arrêt Walker Estate, la Cour (le juge en chef adjoint Morden et les juges Doherty et Moldaver) indique que [traduction] « [l]’absence de compromis doit être prise en considération, de pair avec le fait que le [défendeur] se fondait sur un moyen de défense important ».
+[22] La position du ministère public selon laquelle une offre de règlement se doit de comporter un élément de compromis repose en grande partie sur une décision de la présente cour : McKenzie c. La Reine, 2012 CCI 329, dans laquelle le juge Boyle fait état des motifs suivants :
+[11] Je n’accepte pas le fait qu’une offre de règlement consistant à ce que l’appel soit accueilli en totalité, sans frais, sous la menace d’une demande de dépens sur une base d’indemnisation substantielle si la Cour devait accueillir l’appel, constitue une offre de règlement à ce titre. Je suis d’avis que, pour que de tels dépens puissent être envisagés, l’offre de règlement doit faire intervenir une certaine part de compromis. Cette interprétation est étayée par les décisions Imperial Oil Resources Ltd. c. Canada (Procureur général), 2011 CF 652, et Hine c. La Reine, 2012 CCI 295.
+[12] Dans le cas contraire, la pratique normale des deux parties à chaque appel consisterait à proposer que l’appel soit accueilli ou retiré, sans dépens, en vue de présenter une demande de dépens majorés dans le cas où elles auraient gain de cause, et, ce faisant, elles iraient à l’encontre des règles, des pratiques et des considérations ordinaires qui s’appliquent à l’adjudication des dépens.
+[23] Au vu de la conclusion que j’ai tirée plus tôt, il est préférable que la question soit examinée à une autre occasion.
+[24] Enfin, je remercie les avocats des deux parties pour leurs observations concernant la présente requête.
+Signé à Toronto (Ontario), ce 5e jour d’avril 2013.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 11e jour d’octobre 2013.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2013 CCI 98
+No DU DOSSIER DE LA COUR : 2011-67(IT)G
+INTITULÉ : BLACKBURN RADIO INC. ET
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 5 février 2013
+MOTIFS DE L’ORDONNANCE : L’honorable juge J. M. Woods
+DATE DE L’ORDONNANCE : Le 5 avril 2013
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Daniel Sandler
+Avocates de l’intimée :
+Me Josée Tremblay
+Me Serena Sial
+AVOCATS INSCRITS
+AU DOSSIER :
+Pour l’appelante :
+Nom : Daniel Sandler
+Cabinet : Couzin Taylor LLP
+Toronto (Ontario)
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Ontario)

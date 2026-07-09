@@ -1,0 +1,200 @@
+---
+title: "Perrino c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27434/index.do"
+last_modified: "2004-12-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 797"
+citation2: ""
+neutral_citation: "2004 CCI 797"
+decision_date: "2004-12-17"
+language: "fr"
+item_id: "27434"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 226
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:44:19.988000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4938828df7ea275bb63acc9c184de86668c409495205b4779b511b5289aa97b4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Perrino c. La Reine
+
+- Citation: 2004 CCI 797
+- Decision date: 2004-12-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 226, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Perrino c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-12-17
+Référence neutre
+2004 CCI 797
+Numéro de dossier
+2004-1149(IT)I
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-1149(IT)I
+ENTRE :
+MANDALINE PERRINO,
+appelante,
+Et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus les 8 et 10 septembre 2004, à Toronto (Ontario)
+Devant : L'honorable juge C.H. McArthur
+Comparutions :
+Représentant de l'appelante :
+Basharat Butt
+Avocat de l'intimée :
+Me Craig Maw
+____________________________________________________________________
+JUGEMENT
+Les appels des nouvelles cotisations établies en vertu de la Loi de l'impôt sur le revenu à l'égard des années d'imposition 1997 et 1998 sont accueillis, et les nouvelles cotisations sont renvoyées au ministre du Revenu national pour que celui-ci fasse un nouvel examen et établisse une nouvelle cotisation en fonction du fait que, dans le calcul de ses revenus, l'appelante avait droit à la déduction de dépenses de 12 843 $ pour l'année d'imposition 1997 et de 19 109 $ pour l'année d'imposition 1998.
+Signé à Ottawa, Canada, ce 17e jour de décembre 2004.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 23e jour de juin 2005.
+Hélène Tremblay, traductrice
+Référence : 2004CCI797
+Date : 20041217
+Dossier : 2004-1149(IT)I
+ENTRE :
+MANDALINE PERRINO,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge McArthur
+[1] Ces appels concernent les nouvelles cotisations établies à l'égard des années d'imposition 1997 et 1998. La question ici est de savoir si l'appelante a corroboré les dépenses qui lui avaient été refusées par le ministre du Revenu national, et si elle a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire qui viendrait justifier les pénalités appliquées en application du paragraphe 163(2) de la Loi de l'impôt sur le revenu.
+[2] L'appelante était cuisinière dans une auberge de la région de Toronto pendant les années en litige. Son beau-père, Emilio Pellegrino[1], est un entrepreneur en peinture qui, en 1997, se remettait d'une faillite. Pour l'aider, l'appelante s'est présentée comme l'exploitante de Auburn Painting qui avait principalement un client, Magnum Homes, un constructeur de maisons dans de nouveaux lotissements.
+[3] L'appelante était représentée par un comptable, M. Basharat Butt. Ses déclarations de revenus initiales produites pour les années d'imposition 1997 et 1998 avaient été établies par un représentant de TB Tax Services avec les renseignements qu'elle lui avait fournis. Elle a déclaré les revenus provenant de son emploi à plein temps. Ces revenus ne sont pas contestés. Dans ces mêmes déclarations, elle a déclaré, pour Auburn Painting, des revenus bruts de 7 000 $ pour 1997 et de 18 000 $ pour 1998.
+[4] Lorsqu'il a établi la nouvelle cotisation de l'appelante, le ministre a inclus dans le revenu de l'appelante des revenus non déclarés de 8 551 $ pour 1997 et de 28 255 $ pour 1998, a refusé des dépenses de 7 393 $ pour 1997 et de 13 360 $ pour 1998, et a imposé des pénalités de 953 $ pour 1997 et de 4 556 $ pour 1998 en application du paragraphe 163(2) de la Loi. Les montants que le ministre a inclus en tant que revenus non déclarés sont tirés du grand livre général de Magnum Homes, qui avait payé Auburn Painting. De plus, il y avait un montant de 240 $ représentant un revenu provenant de Torino Drywall.
+[5] À la suite de la vérification effectuée par le ministre, Auburn Painting a retenu les services de M. Butt. De fait, M. Butt a effectué sa propre vérification. Il a minutieusement repéré tous les revenus et tous les reçus de dépenses récupérables. Il a demandé à M. Pellegrino de faire signer à plusieurs sous-traitants des factures qui n'existaient pas auparavant. En conclusion, il acceptait le total des revenus bruts de 61 800 $ établi par le ministre, à une exception près de 780 $[2].
+[6] Voici donc les deux questions en litige : (i) le montant des dépenses d'Auburn Painting; (ii) l'imposition des pénalités. Je vais d'abord traiter des dépenses. Dans ses déclarations de revenus initiales, l'appelante a déduit des dépenses d'un total de 27 570 $ pour 1997 et 1998, et le ministre en a refusé 20 753 $ pour en admettre environ 7 000 $.
+[7] Après un examen comptable rigoureux effectué par M. Butt et après plusieurs modifications, l'appelante a déduit des dépenses totalisant 20 506 $ pour 1997 et 40 820 $ pour 1998[3]. Ces montants sont différents de ceux qui sont
+indiqués dans l'avis d'appel et sont les montants définitifs examinés par Jack Batth, le vérificateur représentant le ministre. Le ministre a admis des dépenses de 3 291 $ pour 1997 et de 6 784 $ pour 1998. Les dépenses refusées sont de 17 215 $ et de 34 036 $ pour les deux années respectives. Pour les raisons ci-dessous, je suis prêt à admettre un total de dépenses de 9 552 $ pour 1997 et de 12 325 $ pour 1998. En résumé, l'appelante a demandé des déductions totales de 61 326 $, le ministre a admis un total de 10 075 $, et moi j'admets un total de 21 877 $.
+[8] Un grand livre général actualisé a été présenté par M. Butt quelques semaines avant l'audience et M. Batth, le vérificateur représentant le ministre, l'a examiné. M. Batth a admis certains des paiements indiqués, mais en a refusé la plupart. M. Butt a réexaminé toute la comptabilité de l'appelante à l'aide de factures. Bon nombre de ces factures avaient été établies peu avant le réexamen. Au contre-interrogatoire, M. Butt a demandé à M. Batth s'il avait étudié les comptes qui avaient fait l'objet d'un réexamen, et il a ajouté qu'il s'agissait [traduction] « de la seule preuve nécessaire. De plus, aujourd'hui, nous l'avons présentée à la Cour. Ne s'agit-il pas de documents authentiques? » . M. Batth a répondu qu'il avait bel et bien étudié les documents mais qu'ils étaient insatisfaisants parce qu'il n'y avait pas de chèques y correspondant ou de noms de personnes qui auraient déclaré les paiements effectués. M. Batth a dit : [traduction] « Authentiques, je ne le sais pas. À mon avis, pour démontrer que ces personnes ont vraiment reçu les paiements. Normalement, quand on paie une personne, elle déclare le même montant. Si vous aviez un chèque ou quelque chose du genre, à ce moment-là, nous pourrions [...] Mais ce n'est pas le cas » .
+[9] La plupart des dépenses qui ont été refusées par le ministre étaient des paiements versés à des sous-traitants. En plus du témoignage oral de M. Pellegrino, la déduction des paiements versés aux sous-traitants était appuyée par des lettres ou par des factures obtenues de différents sous-traitants. M. Pellegrino a obtenu ces documents longtemps après la vérification. De plus, il a produit une note censément signée par Nicolina Luong qui indique ce qui suit[4] :
+[TRADUCTION]
+Madame, Monsieur,
+Je soussignée, Nicolina Luong, ai loué des unités locatives à Auburn Painting en 1997 et 1998. Le coût total des unités locatives pour les deux années s'élevait à 9 600 $.
+Je vous prie d'accepter, Madame, Monsieur, l'expression de mes sentiments distingués.
+« Nicolina Luong »
+[10] M. Butt a présenté des factures (pas de chèques oblitérés) au vérificateur représentant le ministre. Ce dernier les a toutes refusées. Les montants les plus importants sont ceux correspondant aux sous-traitants qui ont effectué les travaux de peinture. Notamment :
+(i)
+Mamaca Painting
+4 158 $
+(ii)
+Painting & Decorating
+7 000 $
+(iii)
+Mamaca Painting
+4 963 $
+(iv)
+Painting & Decorating
+3 885 $
+(v)
+Daniel La Course
+7 867 $
+(vi)
+Daniel La Course
+9 052 $
+Un exemple de facture établie et signée après la vérification se lit comme suit :
+[TRADUCTION]
+Madame, Monsieur,
+Je soussigné, Daniel Lacourse, ai travaillé pour Auburn Painting en tant que sous-traitant en 1997 et 1998. Le revenu que j'ai gagné pendant cette période s'élève à 16 920 $.
+Je vous prie d'accepter, Madame, Monsieur, l'expression de mes sentiments distingués.
+« Daniel Lacourse »
+[11] Nous détenons les éléments de preuve de deux comptables honnêtes. Ils ont des intérêts divergents et, bien sûr, ne sont pas considérés comme des témoins experts ou impartiaux.
+[12] Le comptable de l'appelante a fait un énorme travail pour obtenir les factures et les autres preuves de paiement. Les documents qu'il a présentés sont
+censément signés par des sous-traitants ou des fournisseurs de peinture. Certains semblent authentiques, et d'autres sont douteux.
+[13] Le comptable représentant le ministre a refusé la plupart des dépenses, sauf celles pour lesquelles on a produit des chèques oblitérés ou d'autres preuves de paiement. Le ministre n'a pas pu déterminer que les sous-traitants avaient des numéros de TPS valides et il n'a pas pu trouver de registres indiquant qu'ils avaient inclus dans leurs revenus imposables les montants qui, à ce qu'il paraît, leur auraient été versés. Il va de même pour le loyer censément payé à Nicolina Luong, s'élevant à 9 600 $ pour les deux années en litige, pour l'utilisation de son garage comme entrepôt.
+[14] En 1997, l'appelante a déduit 20 500 $ de dépenses et le ministre en a admis 3 291 $. Des montants refusés, je suis prêt à admettre ce qui suit : (i) un montant de 500 $ pour de la peinture Sherwin Williams (même s'il n'y a pas de chèque oblitéré, la facture me semble authentique); (ii) la facture de Daniel Lacourse d'un montant de 9 052 $ (il n'y a pas de document ou de preuve à l'appui autre que le témoignage d'Emilio Pellegrino, mais je suis tout de même convaincu que l'appelante avait recours à des peintres sous-traitants, et M. Lacourse est le seul qui fait l'objet d'une déduction pour 1997). Les montants suivants sont refusés : la facture d'Ultra Comfort s'élevant à 1 398 $ semble représenter une dépense personnelle; la facture de Regal Crest s'élevant à 2 340 $ correspond à du travail effectué à Newmarket et n'est pas admise parce qu'elle ne semble pas concerner un projet de Magnum Homes et qu'aucune corroboration n'a été présentée, comme c'est aussi le cas pour Emilio Painting.
+[15] Également, je n'admets pas les dépenses de 9 600 $ déduites censément pour le loyer versé à Nicolina Luong. Étant donné la nature de l'entreprise, je ne crois pas le témoignage de M. Pellegrino indiquant qu'il avait besoin de louer un espace de garage pour une somme d'environ 9 600 $ sur deux ans. Il avait recours, en grande partie, à des peintres indépendants qui fournissaient normalement leurs propres outils. Je conclus donc que pour l'année 1997, des dépenses additionnelles de 9 552 $ sont admises.
+[16] Pour l'année d'imposition 1998, j'accepte la facture de Daniel Lacourse, d'un montant de 7 867 $, et celle de Mamaca Painting, d'un montant de 4 158 $, ainsi que le paiement d'hydroélectricité de 300 $. La facture de Mamaca datée du 4 août 1998 semble authentique. Elle indique les montants précis liés aux travaux de peinture de maisons situées sur des lots précis, pour l'année 1998. Cependant, le reçu établi et signé pour Mamaca peu avant le procès est vague et combine les montants pour 1997 et 1998. De plus, les montants ne correspondent pas à ce qui est indiqué sur la facture datée du 4 août 1998.
+[17] La facture de Daniel Lacourse correspond à 1997. J'admets le paiement d'hydroélectricité de 300 $ parce que M. Batth semble avoir changé d'idée. À la page 22 de la transcription de son témoignage, la conversation suivante a eu lieu au sujet d'un chèque oblitéré de 300 $ pour l'hydroélectricité :
+[TRADUCTION]
+Q. À quelle dépense ceci renvoie-t-il?
+R. C'est pour l'hydro, le paiement qui est pour le garage. En fait, c'est juste un endroit pour les outils ou l'équipement.
+Q. Est-ce que vous considériez cette dépense comme étant personnelle?
+R. Oui, je la considérais personnelle, mais c'était avant ce qui a été présenté aujourd'hui. Alors là, je ne suis pas certain.
+Le reste des dépenses déduites par l'appelante pour 1998 sont refusées pour les raisons données par M. Batth. De ces dépenses, les plus importantes étaient celles de Painting & Decorating, dont la facture est datée du 7 décembre 1998 et porte le numéro A0001. Je suis sceptique parce que la première facture, selon l'ordre chronologique, porte le numéro A0002 et est datée du 9 septembre 1998, soit environ trois mois avant l'établissement de la facture portant le numéro A0001. Il s'agit d'une question qui demeure inexpliquée. De surcroît, il n'y a pas de chèque oblitéré ou d'autre preuve de paiement correspondant à ces factures.
+[18] Je suis du même avis que l'intimée en ce qui concerne son rejet des autres factures. Il serait difficile de conclure qu'elles sont authentiques. Surtout celles établies au nom de l'appelante quelques mois seulement avant le procès sur du simple papier à lettre et censément signées par des personnes inconnues. Je mettrais ma crédibilité en jeu si j'acceptais ces factures sans plus de preuves, comme des chèques oblitérés ou le témoignage des signataires. Je conclus donc que, pour l'année d'imposition 1998, l'appelante a le droit de déduire la somme additionnelle de 12 325 $.
+Pénalité
+[19] L'appelante était une cuisinière à plein temps et ne connaissait pas beaucoup l'entreprise de peinture. Malgré tout, elle se présentait comme entrepreneure en peinture. Elle essayait d'aider son beau-père, mais elle doit tout de même être
+tenue responsable de ses actes. Elle se présentait clairement comme la seule propriétaire d'Auburn Painting pour les besoins des registres et de la production des déclarations de revenus. Auburn n'accordait pas beaucoup d'importance à la comptabilité avant que M. Butt ne s'en charge après la vérification menée par le
+ministre. La tâche qu'il devait accomplir était très difficile parce qu'il y avait très peu de registres. Pour refaire le casse-tête, il a dû s'adresser à la personne qui avait créé tout le désordre. M. Pellegrino a trouvé quelques reçus, mais la plus grande partie de ce qu'il a présenté à la Cour était constituée d'attestations qu'il avait lui-même établies et qui étaient censément signées par des sous-traitants. Ces attestations n'étaient pas appuyées par des chèques oblitérés ou par des preuves directes fournies par les sous-traitants. Le vérificateur représentant le ministre était incapable de repérer les numéros de TPS ou les déclarations de revenus des sous-traitants dans lesquelles des paiements versés par l'appelante auraient été compris dans les revenus. L'appelante assumait la responsabilité d'Auburn. Elle savait que les registres étaient incomplets. Elle devait bien savoir que les chiffres qu'elle avait initialement fournis à TB Tax Services étaient seulement des estimations approximatives faites par son beau-père. Elle a agi avec un « degré important de négligence qui [correspond] à une action délibérée » , comme il est indiqué dans les motifs du jugement de l'affaire Venne c. La Reine.[5]
+[20] De toute évidence, la preuve est insatisfaisante. Toutefois, dans ce cas-ci, l'appelante avait, selon la prépondérance des probabilités, plus de dépenses d'entreprise que ce qui lui avait été accordé.
+[21] À mon avis, les éléments de preuve fournis par M. Butt étaient crédibles. Ceux fournis par l'appelante n'ont pas vraiment aidé. Le témoignage de M. Pellegrino représentait un effort, conscient et inconscient, de considérer les événements du passé en fonction de ses intérêts actuels. Le vérificateur représentant le ministre s'est scrupuleusement efforcé d'examiner chacun des éléments présentés par M. Butt. De façon générale, il s'est montré strict et exigeait des preuves corroborantes avant d'admettre une dépense.
+[22] En conclusion, les appels sont accueillis et l'affaire est renvoyée au ministre du Revenu national pour que celui-ci fasse un nouvel examen et établisse une nouvelle cotisation permettant à l'appelante de déduire des dépenses totales de 12 843 $ pour 1997 et de 19 109 $ pour 1998. Les pénalités imposées en application du paragraphe 163(2) de la Loi doivent être rajustées en fonction des nouvelles déductions.
+Signé à Ottawa, Canada, ce 17e jour de décembre 2004.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 23e jour de juin 2005.
+Hélène Tremblay, traductrice
+RÉFÉRENCE :
+2004CCI797
+No DU DOSSIER DE LA COUR :
+2004-1149(IT)I
+INTITULÉ DE LA CAUSE :
+Mandaline Perrino et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Toronto (Ontario)
+DATES DE L'AUDIENCE :
+Les 8 et 10 septembre 2004
+MOTIFS DU JUGEMENT PAR :
+L'honorable C.H. McArthur
+DATE DU JUGEMENT :
+Le 17 décembre 2004
+COMPARUTIONS :
+Représentant de l'appelante :
+Basharat Butt
+Avocat de l'intimée :
+Me Craig Maw
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l'appelante :
+Nom :
+S/O
+Cabinet :
+S/O
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Le mot qu'a choisi l'appelante pour désigner son beau-père en anglais (father-in-law) donnait à penser qu'elle était sa bru, mais M. Pellegrino désignait l'appelante comme étant sa belle-fille (stepdaughter).
+[2] Les revenus modifiés de l'appelante, tels qu'ils sont établis dans l'avis d'appel, sont de 21 116 $ pour 1997 et de 39 878 $ pour 1998, pour un total de 60 994 $.
+[3] Ces montants sont tirés des onglets 1 et 2 de la pièce A-1, qui est un imprimé complet du grand livre des revenus et des dépenses pour 1997 et 1998.
+[4] Pièce A-1, no 4.
+[5] 84 DTC 6247 à 6256.

@@ -1,0 +1,148 @@
+Title: Shaw c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29756/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-210-29756-shaw-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-04-19
+
+# Shaw c. La Reine
+
+- Citation: 2010 CCI 210
+- Decision date: 2010-04-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6502, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Shaw c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-04-19
+Référence neutre
+2010 CCI 210
+Numéro de dossier
+2008-3894(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-3894(IT)I
+ENTRE :
+CONNIE SHAW,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appel entendu le 8 avril 2010, à Hamilton (Ontario)
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocate de l’intimée :
+Me Sandra K.S. Tsui
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2005 et 2006 est accueilli, et les cotisations sont déférées au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations en tenant compte du fait que l’appelante a droit à des déductions pour la résidence d’un membre du clergé de 10 148 $ pour 2005 et de 10 383 $ pour 2006.
+L’appelante a droit aux dépens, le cas échéant, conformément au tarif.
+Signé à Toronto (Ontario), ce 19e jour d’avril 2010.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 21e jour de juin 2010.
+François Brunet, réviseur
+Référence : 2010 CCI 210
+Date : 20100419
+Dossier : 2008-3894(IT)I
+ENTRE :
+CONNIE SHAW,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] En l’espèce, la Cour est appelée à rechercher si l’appelante, Mme Connie Shaw, a droit à la déduction pour la résidence d’un membre du clergé prévue à l’alinéa 8(1)c) de la Loi de l’impôt sur le revenu (la « Loi »). Les cotisations en cause portent sur les années d’imposition 2005 et 2006.
+[2] Mme Shaw a demandé des déductions pour la résidence d’un membre du clergé s’élevant à 10 148 $ pour 2005 et à 10 383 $ pour 2006. Ces déductions ont été entièrement refusées.
+Les faits
+[3] Les faits sont constants.
+[4] Depuis de nombreuses années, Mme Shaw est employée par la Province d’Ontario comme aumônière au Centre correctionnel de Guelph.
+[5] Depuis 2002, Mme Shaw est en congé de maladie prolongé et reçoit des prestations de La Great‑West, compagnie d’assurance‑vie, en vertu du régime d’assurance‑salaire (le « Régime ») de son employeur.
+[6] Selon les modalités du Régime, les cotisations sont versées à parts égales par l’employeur et l’employé, sauf pendant les périodes de maladie, où seul l’employeur verse des cotisations au Régime.
+[7] Selon l’alinéa 6(1)f) de la Loi, si les prestations reçues en vertu du Régime dépassent les cotisations versées, l’excédent doit être inclus dans le calcul du revenu tiré d’un emploi. Les montants inclus dans les revenus de Mme Shaw à ce titre sont de 29 856 $ pour 2005 et de 30 444 $ pour 2006.
+Analyse
+[8] Voici le texte concernant la déduction pour la résidence du membre du clergé de l’alinéa 8(1)c) de la Loi :
+8(1) Sont déductibles dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi ceux des éléments suivants qui se rapportent entièrement à cette source de revenus, ou la partie des éléments suivants qu’il est raisonnable de considérer comme s’y rapportant :
+[…]
+c) lorsque le contribuable, au cours de l’année :
+(i) d’une part, est membre du clergé ou d’un ordre religieux ou est ministre régulier d’une confession religieuse,
+(ii) d’autre part :
+(A) soit dessert un diocèse, une paroisse ou une congrégation,
+(B) soit a la charge d’un diocèse, d’une paroisse ou d’une congrégation,
+(C) soit s’occupe exclusivement et à plein temps du service administratif, du fait de sa nomination par un ordre religieux ou une confession religieuse,
+le montant, n’excédant pas sa rémunération pour l’année provenant de sa charge ou de son emploi, égal :
+(iii) soit au total des montants, y compris les montants relatifs aux services publics, inclus dans le calcul de son revenu pour l’année en vertu de l’article 6 relativement à la résidence ou autre logement qu’il a occupé dans le cadre ou en raison de l’exercice de sa charge ou de son emploi, à titre de membre ou ministre qui ainsi dessert un diocèse, une paroisse ou une congrégation, a ainsi la charge d’un diocèse, d’une paroisse ou d’une congrégation ou est ainsi occupé à un service administratif,
+(iv) soit au loyer et aux services publics qu’il a payés pour son lieu principal de résidence (ou autre logement principal) qu’il a occupé habituellement au cours de l’année, ou à la juste valeur locative d’une telle résidence (ou autre logement) lui appartenant, ou appartenant à son époux ou conjoint de fait, jusqu’à concurrence du moins élevé des montants suivants :
+(A) le plus élevé des montants suivants :
+(I) le produit de la multiplication de 1 000 $ par le nombre de mois de l’année (jusqu’à concurrence de dix) au cours desquels il est une personne visée aux sous‑alinéas (i) et (ii),
+(II) le tiers de sa rémunération pour l’année provenant de sa charge ou de son emploi,
+(B) l’excédent éventuel du montant visé à la subdivision (I) sur le montant visé à la subdivision (II) :
+(I) le loyer payé ou la juste valeur locative de la résidence ou du logement, y compris les services publics,
+(II) le total des montants représentant chacun un montant déduit, au titre de la même résidence ou du même logement, dans le calcul du revenu d’un particulier pour l’année provenant d’une charge, d’un emploi ou d’une entreprise (sauf un montant déduit par le contribuable en application du présent alinéa), dans la mesure où il est raisonnable de considérer que le montant se rapporte à tout ou partie de la période pour laquelle le contribuable a déduit un montant en application du présent alinéa;
+[Non souligné dans l’original.]
+[9] La partie du texte que j’ai soulignée ci‑dessus, selon laquelle la déduction ne peut pas dépasser la rémunération tirée d’une charge ou d’un emploi par le contribuable pour l’année, constitue le seul moyen de l’intimée.
+[10] Il faut rechercher si le revenu tiré du Régime par Mme Shaw constitue une rémunération aux fins de l’alinéa 8(1)c) de la Loi.
+[11] Avant de me pencher sur cette question, je tiens à faire un bref commentaire au sujet de l’exigence prévue au sous‑alinéa 8(a)c)(ii) de la Loi. Au début de l’audience, l’avocate de l’intimée a déclaré que celle-ci ne ferait pas l’objet de débats, car cette question n’avait pas été soulevée clairement dans la réponse à l’avis d’appel. On a fait référence à une décision que j’ai rendue récemment, Fraser c. La Reine, 2010 CCI 23. L’avocate de l’intimée a souligné que l’intimée ne reconnaissait pas que cette exigence‑là avait bel et bien été remplie.
+[12] Pour ce qui est de la question principale, l’avocate de l’intimée soutient que les prestations reçues par l’appelante en vertu du Régime ne sont pas assimilables à une rémunération, et ce, même si elles constituent un revenu tiré d’un emploi en application de l’alinéa 6(1)f) de la Loi.
+[13] À mon avis, il ne faut pas interpréter le terme « rémunération » de façon aussi restrictive aux fins de l’alinéa 8(1)c) de la Loi.
+[14] L’alinéa 8(1)c) de la Loi a une portée restreinte : elle vise le ministre du culte. L’objet apparent de cette disposition est de lui accorder une aide fiscale relativement au logement. Il est peu probable que le législateur ait voulu accorder cette aide au ministre en bonne santé et la refuser à celui qui est malade. En l’absence d’une disposition législative opérant clairement cette distinction, je ne saurais retenir la thèse de l’intimé.
+[15] Le terme « rémunération » n’est pas défini dans la Loi. Selon les dictionnaires, ce terme semble avoir le sens très large de paiement pour des services. Les définitions suivantes sont tirées du Shorter Oxford English Dictionary, 3e édition :
+[traduction]
+1. Rembourser, indemniser, compenser quelque chose (services, etc.)
+2. Récompenser (une personne); payer (une personne) pour des services fournis ou du travail effectué.
+[16] Vu la vaste portée de cette définition, la rémunération pourrait englober les avantages fournis par l’employeur, y compris le revenu provenant d’un régime d’assurance‑salaire. Compte tenu de l’objet de l’alinéa 8(1)c) de la Loi, il est raisonnable de donner une interprétation assez large à ce terme.
+[17] L’avocate de l’intimée cite la décision Blauer c. La Reine, 2007 CCI 706, 2008 DTC 2409, dans laquelle, le juge Hershfield a conclu que les prestations d’assurance‑invalidité reçues par un non‑résident ne sont pas imposables car, aux fins du sous‑alinéa 115(1)a)(i) de la Loi, elles ne constituent pas un revenu tiré de « fonctions exercées dans le cadre d’un emploi ».
+[18] À mon avis, on peut opérer une distinction entre les faits de l’affaire Blauer et la présente espèce : les textes, contextes et objets des dispositions en cause sont différents.
+[19] Le sous‑alinéa 115(1)a)(i) de la Loi appelle un rattachement de fonctions précises au revenu en cause, car cette disposition vise à restreindre l’impôt aux seuls revenus gagnés au Canada.
+[20] Je suis d’avis que la décision du juge Hershfield n’enseigne pas qu’il n’existe aucun lien entre le revenu provenant d’un régime d’assurance‑invalidité et les services fournis. Manifestement, ce lien existe, puisque les prestations sont versées au titre d’un contrat de travail.
+[21] Par ces motifs, je conclus que le revenu reçu par l’appelante du régime d’assurance‑salaire constitue une rémunération aux fins de l’alinéa 8(1)c) de la Loi.
+[22] L’appel est donc accueilli. L’appelante a droit aux dépens, le cas échéant, conformément au tarif.
+Signé à Toronto (Ontario), ce 19e jour d’avril 2010.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 21e jour de juin 2010.
+François Brunet, réviseur.
+RÉFÉRENCE :
+2010 CCI 210
+No DU DOSSIER DE LA COUR :
+2008-3894(IT)I
+INTITULÉ :
+Connie Shaw c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Hamilton (Ontario)
+DATE DE L’AUDIENCE :
+Le 8 avril 2010
+MOTIFS DU JUGEMENT :
+L’honorable juge J. M. Woods
+DATE DU JUGEMENT :
+Le 19 avril 2010
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Sandra K.S. Tsui
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée :
+Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

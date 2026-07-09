@@ -1,0 +1,201 @@
+Title: John Doe c. Le Roi
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521114/index.do
+Corpus path: corpus/cases/tcc/2023/2023-cci-92-521114-john-doe-c-le-roi-fr.md
+Document type: case_law
+Last modified: 2023-06-21
+
+# John Doe c. Le Roi
+
+- Citation: 2023 CCI 92
+- Decision date: 2023-06-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5837, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+John Doe c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2023-06-21
+Référence neutre
+2023 CCI 92
+Numéro de dossier
+2013-954(IT)G, 2015-3261(IT)G, 2019-3239(IT)G, 2019-4191(IT)G
+Juges et Officiers taxateurs
+Sylvain Ouimet
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 2013-954(IT)G
+2015-3261(IT)G
+2019-3239(IT)G
+2019-4191(IT)G
+ENTRE :
+MONSIEUR UNTEL[*],
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+Devant : l’honorable juge Sylvain Ouimet
+Comparutions :
+Avocat de l’appelant :
+L’appelant lui-même
+Avocate de l’intimé :
+Me Nadine Taylor Pickering
+[TRADUCTION FRANÇAISE OFFICIELLE]
+ORDONNANCE MODIFIÉE
+Conformément aux motifs ci-joints, la Cour conclut qu’elle doit, de sa propre initiative, ordonner que :
+l’ensemble des dossiers de la Cour portant les numéros 2013-954(IT)G, 2015-3261(IT)G, 2019-3239(IT)G et 2019-4191(IT)G soient mis sous scellés, à l’exception des deux documents suivants :
+-la version caviardée de l’ordonnance du 31 mai 2023,
+-la version caviardée de la présente ordonnance de confidentialité;
+l’ordonnance du 31 mai 2023 sera caviardée par la Cour afin de protéger l’identité de M. Untel;
+la présente ordonnance de confidentialité sera caviardée par la Cour afin de protéger l’identité de M. Untel;
+le paragraphe 1 des présentes fait l’objet des exceptions suivantes :
+-les parties, leurs avocats, toute autre personne agissant au nom des parties, ainsi que la Cour et les membres de son personnel peuvent avoir accès au dossier de Cour au besoin,
+-le tuteur et curateur public peut avoir accès à la version non caviardée de l’ordonnance du 31 mai 2023 et de la présente ordonnance de confidentialité;
+il est interdit aux parties, à leurs avocats ou à toute autre personne agissant au nom des parties de rendre publique toute information ayant pour effet de permettre l’identification de l’appelant;
+toute procédure dans le cadre des présents appels se déroule en l’absence de public, sauf autorisation préalable de la Cour;
+la présente ordonnance de confidentialité demeurera en vigueur jusqu’à ce que la Cour ordonne qu’elle soit révisée ou modifiée en fonction des circonstances qui pourraient survenir au cours du traitement de l’affaire.
+LA COUR DONNE INSTRUCTION au greffier de la Cour et à tout sténographe judiciaire officiel de prendre toutes les mesures appropriées pour assurer l’exécution de la présente ordonnance.
+Aucuns dépens ne sont adjugés.
+La présente ordonnance modifiée est rendue en remplacement de l’ordonnance datée du 31 mai 2023.
+Signé à Vancouver (Colombie-Britannique), ce 21e jour de juin 2023.
+« Sylvain Ouimet »
+Le juge Ouimet
+Traduction certifiée conforme
+ce 9e jour de janvier 2024.
+Guillaume Chénard, réviseur
+Référence : 2023 CCI 92
+Date : 20230621
+Dossiers : 2013-954(IT)G
+2015-3261(IT)G
+2019-3239(IT)G
+2019-4191(IT)G
+ENTRE :
+MONSIEUR UNTEL,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Ouimet
+I. INTRODUCTION [1] Entre 2013 et 2019, M. Untel a déposé quatre appels visant les années d’imposition 2005, 2006, 2009, 2010, 2011, 2014, 2015 et 2016 (les « appels »).
+[2] Entre janvier 2014 et septembre 2022, huit audiences sur l’état de l’instance des appels ont eu lieu à Vancouver, en Colombie-Britannique. Durant les audiences, M. Untel s’est toujours représenté lui-même.
+[3] Suivant la dernière de ces audiences, la Cour a conclu que, pour que les appels de M. Untel puissent se poursuivre, elle devait déterminer si M. Untel était frappé d’incapacité ou non.
+[4] Dans une ordonnance du 31 mai 2023 (l’« ordonnance du 31 mai 2023 »), la Cour a ordonné à l’avocat de l’intimé d’informer le tuteur et curateur public de la Colombie-Britannique qu’elle croyait que M. Untel n’avait peut-être pas la capacité d’ester en justice.
+II. LA QUESTION À TRANCHER [5] La question est la suivante :
+-La Cour devrait-elle rendre une ordonnance de confidentialité pour préserver la confidentialité des renseignements médicaux de M. Untel?
+III. ANALYSE A. Obtention d’une ordonnance de confidentialité devant la Cour canadienne de l’impôt – Exigences procédurales
+(1) La demande en vue d’obtenir une ordonnance de confidentialité doit être présentée par voie de requête [6] Conformément à l’article 16.1 des Règles de la Cour canadienne de l’impôt (procédure générale) (DORS/90‑688a) (les « Règles »), la Cour peut, sur présentation d’une requête par une partie, ordonner qu’une partie d’un document soit traitée comme confidentielle au moment du dépôt du document. L’article 16.1 des Règles est libellé ainsi :
+Ordonnance de confidentialité
+16.1 (1) La Cour peut, sur requête, ordonner que tout ou partie d’un document soit considéré comme confidentiel au moment de son dépôt et elle en fixe les conditions de reproduction, de destruction et de non-divulgation.
+(2) Dans le cas où la Cour rend une telle ordonnance, une partie ou un avocat inscrit au dossier ne peut avoir accès à tout ou partie du document confidentiel qu’aux conditions établies par la Cour quant à la reproduction, la destruction et la non-divulgation
+(3) L’ordonnance demeure en vigueur jusqu’à ce que la Cour en décide autrement.
+[7] Par conséquent, pour que la Cour rende une ordonnance de confidentialité, une requête doit être déposée par une partie. En l’espèce, ni M. Untel ni l’avocat de l’intimé n’ont présenté une telle requête. Compte tenu des circonstances, et plus particulièrement du fait que la Cour estime que M. Untel pourrait être incapable d’ester en justice et que des renseignements médicaux le concernant ont été divulgués au cours de l’instance, la Cour conclut qu’elle doit, de sa propre initiative, déterminer si une ordonnance de confidentialité devrait être rendue pour préserver la confidentialité des renseignements médicaux de M. Untel.
+[8] Je suis d’avis que les renseignements médicaux de M. Untel devraient demeurer confidentiels jusqu’à ce que la Cour détermine si ce dernier a la capacité d’ester en justice aux termes des Règles.
+[9] Dans la décision Canada c. Dow Chemical Canada ULC[1], la Cour d’appel fédérale explique la source de la compétence de la Cour canadienne de l’impôt de contrôler sa propre procédure :
+Dans l’arrêt Windsor (City) c. Canadian Transit Co., 2016 CSC 54, au paragraphe 33, la Cour suprême du Canada a conclu que la Cour fédérale ne possède pas de compétence inhérente, mais qu’elle possède uniquement la compétence qui lui est conférée par sa loi constitutive. Puisque la Cour de l’impôt est également une cour d’origine législative, cette conclusion s’applique aussi à elle. […]
+Bien que la Cour de l’impôt n’ait pas de compétence inhérente, elle possède une compétence implicite par déduction nécessaire. Dans l’arrêt R. c. Cunningham, 2010 CSC 10, au paragraphe 19, la Cour suprême du Canada a confirmé que les cours d’origine législative possèdent une compétence implicite par déduction nécessaire pour qu’elles puissent exercer leurs fonctions judiciaires. Comme la Cour de l’impôt est une cour d’origine législative, elle possède elle aussi cette compétence implicite. Par conséquent, « sont compris dans les pouvoirs conférés par la loi habilitante non seulement ceux qui y sont expressément énoncés, mais aussi, par déduction, tous ceux qui sont de fait nécessaires à la réalisation de l’objectif du régime législatif [...] » (ATCO Gas & Pipelines Ltd. c. Alberta (Energy and Utilities Board), 2006 CSC 4, par. 51)[2].
+[Non souligné dans l’original.]
+[10] Suivant cet arrêt, je suis d’avis que j’ai compétence pour rendre une ordonnance de confidentialité de ma propre initiative lorsqu’il est dans l’intérêt de la justice de le faire compte tenu des circonstances. Je suis également d’avis que ces circonstances incluent les situations où un contribuable se représente lui-même et où la Cour estime que le contribuable pourrait ne pas avoir la capacité d’ester en justice. En pareille situation, la Cour ne peut pas s’attendre à ce que le contribuable soit en mesure de demander lui-même une ordonnance de confidentialité. En outre, l’article 9 des Règles dispose que la Cour peut, en tout temps, dispenser de l’observation de toute règle si l’intérêt de la justice l’exige. Une telle démarche est nécessaire en l’espèce.
+[11] Par conséquent, la Cour doit prendre des mesures pour déterminer si les renseignements médicaux de M. Untel doivent demeurer confidentiels jusqu’à ce qu’il soit possible de déterminer s’il a la capacité d’ester en justice aux termes des Règles[3].
+(2) À quel moment la requête doit-elle être présentée? [12] Aux termes de l’article 16.1 des Règles, lorsqu’une requête est présentée et accueillie, la Cour peut ordonner qu’un document ou une partie d’un document soit considéré comme confidentiel au moment de son dépôt. L’expression « au moment de son dépôt » et le bon sens dictent que, en principe, une telle requête doit être faite au moment du dépôt des documents et non après que les documents ont déjà été versés au dossier de la Cour. En appliquant ce raisonnement aux transcriptions de l’audience, une requête visant à préserver la confidentialité d’une partie d’une transcription de l’audience devrait être déposée au début de la procédure ou juste avant que les renseignements confidentiels ne soient abordés durant l’audience.
+[13] Comme il a été mentionné, l’article 9 des Règles permet à la Cour, en tout temps, de dispenser de l’observation de toute règle si l’intérêt de la justice l’exige. Une fois de plus, je suis d’avis que, compte tenu des circonstances, il est dans l’intérêt de la justice de permettre à la Cour de déterminer si les renseignements médicaux de M. Untel, qui ont déjà été divulgués, devraient être rendus confidentiels à ce point-ci.
+(3) Une autre exigence [14] Dans l’affaire Sierra Club du Canada c. Canada (Ministre des Finances)[4], la Cour suprême du Canada a déclaré que pour obtenir une ordonnance de confidentialité, le requérant doit démontrer que les renseignements dont la confidentialité est demandée ont toujours été traités comme des renseignements confidentiels. La Cour a déclaré ce qui suit au paragraphe 60 de l’arrêt :
+[...] Pour l’obtenir, le requérant doit démontrer que les renseignements en question ont toujours été traités comme des renseignements confidentiels et que, selon la prépondérance des probabilités, il est raisonnable de penser que leur divulgation risquerait de compromettre ses droits exclusifs, commerciaux et scientifiques : AB Hassle c. Canada (Ministre de la Santé nationale et du Bien-être social), [1998] A.C.F. no 1850 (QL) (C.F. 1re inst.), par. 29-30. J’ajouterais à cela l’exigence proposée par le juge Robertson que les renseignements soient « de nature confidentielle » en ce qu’ils ont été « recueillis dans l’expectative raisonnable qu’ils resteront confidentiels », par opposition à « des faits qu’une partie à un litige voudrait garder confidentiels en obtenant le huis clos » (par. 14).
+[15] En l’espèce, les renseignements qui, selon la Cour, doivent rester confidentiels sont des renseignements médicaux. Il s’agit de renseignements de « nature confidentielle ». Dans l’affaire Osif v. College of Physicians and Surgeons of Nova Scotia, la Cour d’appel de la Nouvelle-Écosse a déclaré que la confidentialité est une caractéristique de la relation entre les professionnels de la santé et leurs patients; qu’il ne fait aucun doute que le public considère que leurs dossiers médicaux sont confidentiels et s’attend à ce que, sauf dans des circonstances limitées, ils le restent; et que la confidentialité de ces dossiers est un aspect d’intérêt public important[5]. Je suis d’accord.
+[16] La Cour estime que les renseignements médicaux de M. Untel ont été recueillis par son ou ses médecins dans l’expectative qu’ils demeurent confidentiels. Ces renseignements n’ont été communiqués à la Cour que dans le but d’étayer des demandes d’ajournement, notamment parce que M. Untel était ou avait été hospitalisé ou était sous l’influence de médicaments.
+[17] Pour ces motifs, la Cour a conclu que les renseignements médicaux de M. Untel ont toujours été traités comme des renseignements confidentiels.
+B. Cadre d’analyse de l’exercice du pouvoir discrétionnaire du juge de rendre une ordonnance de confidentialité
+[18] En règle générale, le public peut assister aux audiences et consulter les dossiers judiciaires, et les médias sont libres de poser des questions et de formuler des commentaires sur les activités des tribunaux[6]. La Cour suprême du Canada a reconnu à de nombreuses reprises que le principe de la publicité des débats judiciaires est protégé par le droit constitutionnel à la liberté d’expression[7].
+[19] L’on peut déroger au principe de l’audience publique en demandant au tribunal de garder des renseignements confidentiels. Dans l’arrêt Sherman (Succession) c. Donovan, la Cour suprême du Canada a réexaminé le critère qu’elle avait établi dans l’arrêt Sierra Club relativement à l’exercice du pouvoir discrétionnaire d’un tribunal de garder des renseignements confidentiels. La Cour a déclaré que pour obtenir une ordonnance de confidentialité, la personne qui demande au tribunal d’exercer son pouvoir discrétionnaire doit établir que :
+-la publicité des débats pose un risque sérieux pour un intérêt public important;
+-l’ordonnance sollicitée est nécessaire pour écarter ce risque sérieux pour l’intérêt mis en évidence, car d’autres mesures raisonnables ne permettront pas d’écarter ce risque; et
+-du point de vue de la proportionnalité, les avantages de l’ordonnance l’emportent sur ses effets négatifs[8].
+(1) La publicité des débats pose un risque sérieux pour un intérêt public important [20] La Cour doit déterminer si la divulgation des renseignements médicaux de M. Untel présenterait un risque sérieux pour un « intérêt public ». Pour répondre à cette question, la Cour doit donc déterminer si les renseignements médicaux d’une personne sont d’« intérêt public ».
+[21] Les renseignements médicaux d’une personne sont privés par nature. Dans l’arrêt Sherman (Succession), la Cour suprême du Canada a déclaré que le droit à la vie privée n’est un intérêt public important que dans certaines circonstances. En effet, la reconnaissance d’un intérêt public en matière de vie privée pourrait menacer la forte présomption de publicité si la vie privée est définie trop largement sans tenir compte de son caractère public[9]. La Cour a déclaré que, pour établir un risque sérieux pour un intérêt public important aux fins d’application du critère, il ne suffit pas de démontrer l’existence de simples inconvénients sur la vie privée[10].
+[22] La dignité d’une personne constitue une dimension de sa vie privée. La protection de la dignité est un intérêt public important qui peut être menacé par la publicité des débats judiciaires[11]. La Cour suprême du Canada a expliqué que pour maintenir l’intégrité du principe de la publicité des débats judiciaires, un intérêt public important à l’égard de la protection de la dignité devrait être considéré comme sérieusement menacé seulement dans des cas limités[12].
+[23] La Cour suprême du Canada a déclaré que « protéger les gens contre la menace à leur dignité qu’entraîne la diffusion de renseignements révélant des aspects fondamentaux de leur vie privée dans le cadre de procédures judiciaires publiques constitue un intérêt public important pour l’application du test »[13]. Pour la Cour suprême, il s’agit essentiellement de protéger la dignité d’une personne, et cet intérêt est compromis lorsque les renseignements révèlent quelque chose de sensible sur elle en tant qu’individu, par opposition à des renseignements d’ordre général révélant peu ou rien sur ce qu’elle est en tant que personne[14]. Par conséquent, les renseignements qui constituent des détails intimes ou personnels concernant une personne peuvent être gardés confidentiels[15]. À mon avis, ce principe s’applique aux renseignements médicaux d’une personne, en particulier aux renseignements médicaux de la nature de ceux de M. Untel.
+[24] En outre, dans l’affaire Société Radio-Canada c. La Reine, la Cour suprême du Canada a reconnu que les situations exigeant la protection des personnes vulnérables justifient la limitation de la publicité des débats[16]. Selon moi, M. Untel est une personne vulnérable et il est justifié de limiter la publicité des débats judiciaires afin de protéger ses renseignements médicaux. Le droit au respect de la vie privée de M. Untel comprend le droit de ne pas divulguer ses renseignements médicaux, car ils révèlent des renseignements personnels et sensibles le concernant. En outre, comme l’a indiqué la Cour d’appel de la Nouvelle-Écosse dans l’arrêt Osif[17], la confidentialité est une caractéristique de la relation entre les professionnels de la santé et leurs patients, et il ne fait aucun doute que le public considère que les dossiers médicaux sont confidentiels et s’attend à ce qu’ils le demeurent.
+[25] En l’espèce, je suis d’avis que les renseignements médicaux de M. Untel sont suffisamment sensibles pour que la publicité des débats judiciaires constitue un risque sérieux pour un intérêt public important, étant donné que les renseignements concernent une maladie mentale. Les renseignements personnels sensibles qui, s’ils sont exposés, peuvent donner lieu à un risque grave, comprennent les renseignements relatifs à des problèmes de santé stigmatisés[18].
+[26] Par conséquent, la Cour a conclu que la publicité des débats fait peser un risque sérieux sur un intérêt public important, à savoir la vie privée de M. Untel et plus particulièrement sa dignité.
+(2) L’ordonnance demandée est nécessaire pour prévenir ce risque sérieux mis en évidence, car les autres mesures raisonnables ne pourraient prévenir ce risque [27] La Cour doit examiner s’il existe des options raisonnables autres que l’ordonnance de confidentialité et déterminer la portée de l’ordonnance pour s’assurer qu’elle n’est pas trop vaste[19].
+[28] En l’espèce, il n’y a pas d’autres options à l’ordonnance de confidentialité. La mise en preuve des renseignements médicaux de M. Untel était et demeure nécessaire pour assurer le bon déroulement des appels, puisque des renseignements qui devraient demeurer confidentiels ont dû être divulgués pour soutenir les demandes d’ajournement. En outre, la Cour s’est fondée sur ces mêmes renseignements, qui se retrouvent dans l’ordonnance du 31 mai 2023, pour conclure que M. Untel pourrait être incapable d’ester en justice. Étant donné que ces renseignements sont nécessaires au dossier de M. Untel, ils devaient être divulgués.
+[29] En ce qui concerne la portée de l’ordonnance, la Cour doit veiller à ce qu’elle ne soit pas trop vaste. La Cour a envisagé quatre options. La première consiste à sceller l’ensemble du dossier. La deuxième consiste à caviarder tous les renseignements médicaux dans tous les documents du dossier de la Cour. La troisième option consiste à remplacer le nom de M. Untel par un pseudonyme dans l’ensemble du dossier. La quatrième option consiste à mettre sous scellés la majeure partie du dossier et à remplacer le nom de M. Untel par un pseudonyme dans les documents qui ne sont pas sous scellés.
+[30] La mise sous scellés de l’ensemble du dossier n’est pas l’option retenue par la Cour, car il existe d’autres options plus ciblées qui permettront à la Cour d’atteindre l’objectif ultime, à savoir préserver la confidentialité des renseignements médicaux de M. Untel.
+[31] Il est difficile de caviarder les documents, car certains d’entre eux ne contiennent pratiquement que des renseignements médicaux. Ceux-ci devaient être déposés dans leur intégralité afin de garantir une meilleure compréhension des questions à trancher et, s’ils étaient caviardés, ils le seraient en quasi-totalité. En outre, il serait impossible de caviarder tous les renseignements médicaux de M. Untel dans tous les documents déposés auprès de la Cour, et en particulier les centaines de pages des transcriptions de l’audience. Cela imposerait une charge déraisonnable à la Cour et ne constituerait pas une bonne utilisation des ressources judiciaires.
+[32] Pour les mêmes raisons, caviarder le nom de M. Untel de tous les documents déposés auprès de la Cour n’est pas l’option retenue par la Cour.
+[33] La Cour a donc choisi la quatrième option. L’ensemble du dossier doit être mis sous scellés, à l’exception de deux documents, jusqu’à ce qu’il soit déterminé si M. Untel a la capacité d’ester en justice. La question devrait être réexaminée une fois que cette affaire sera résolue, et les documents et les transcriptions du procès pourront être caviardés au besoin par M. Untel ou par son avocat. Seules l’ordonnance du 31 mai 2023 et la présente ordonnance de confidentialité ne seront pas sous scellés; par contre, elles seront caviardées par la Cour afin de remplacer le nom de l’appelant par le pseudonyme « Monsieur Untel » ou « M. Untel ». D’autres renseignements devront être caviardés par la Cour afin de préserver la confidentialité de l’identité de M. Untel. Ces renseignements peuvent être facilement repérés et caviardés. Cette façon de faire permettra de garantir la confidentialité de l’identité de M. Untel et donc de respecter son droit à la vie privée et sa dignité. Elle permettra également de rendre l’audience aussi publique que possible.
+(3) Pour ce qui est de la question de proportionnalité, les avantages de l’ordonnance l’emportent sur ses effets négatifs [34] À cette étape, la Cour doit déterminer si les effets bénéfiques de l’ordonnance de confidentialité l’emportent sur ses effets préjudiciables, notamment les effets sur le principe de la publicité et de l’accessibilité des débats judiciaires[20].
+[35] En l’espèce, la Cour est d’avis que les effets bénéfiques de l’ordonnance de confidentialité l’emportent sur ses effets préjudiciables parce que le droit à la vie privée sera protégé, tandis que les faits pertinents sur la question de fond seront conservés dans les archives publiques. M. Untel risque de subir un préjudice grave si son identité n’est pas gardée confidentielle, alors que le préjudice pour l’intérêt public et le principe de la publicité des débats est minime, puisque les renseignements portant sur la question de savoir si M. Untel est capable d’ester en justice sont encore accessibles au public et que les détails sur les questions d’ordre fiscal le concernant seront divulgués ultérieurement, lorsque la question de sa capacité d’ester en justice aura été tranchée.
+LA COUR ORDONNE QUE :
+l’ensemble des dossiers de la Cour portant les numéros 2013-954(IT)G, 2015-3261(IT)G, 2019-3239(IT)G et 2019-4191(IT)G soient mis sous scellés, à l’exception des deux documents suivants :
+-la version caviardée de l’ordonnance du 31 mai 2023,
+-la version caviardée de la présente ordonnance de confidentialité;
+l’ordonnance du 31 mai 2023 sera caviardée par la Cour afin de protéger l’identité de M. Untel;
+la présente ordonnance de confidentialité sera caviardée par la Cour afin de protéger l’identité de M. Untel;
+le paragraphe 1 des présentes fait l’objet des exceptions suivantes :
+-les parties, leurs avocats, toute autre personne agissant au nom des parties, ainsi que la Cour et les membres de son personnel peuvent avoir accès au dossier de Cour au besoin,
+-le tuteur et curateur public peut avoir accès à la version non caviardée de l’ordonnance du 31 mai 2023 et de la présente ordonnance de confidentialité;
+il est interdit aux parties, à leurs avocats ou à toute autre personne agissant au nom des parties de rendre publique toute information ayant pour effet de permettre l’identification de l’appelant;
+toute procédure dans le cadre des présents appels se déroule en l’absence du public, sauf autorisation préalable de la Cour;
+la présente ordonnance de confidentialité demeurera en vigueur jusqu’à ce que la Cour ordonne qu’elle soit révisée ou modifiée en fonction des circonstances qui pourraient survenir au cours de l’affaire.
+LA COUR DONNE INSTRUCTION au greffier de la Cour et à tout sténographe judiciaire officiel de prendre toutes les mesures appropriées pour assurer l’exécution de la présente ordonnance.
+Aucuns dépens ne sont adjugés.
+Signé à Vancouver (Colombie-Britannique), ce 21e jour de juin 2023.
+« Sylvain Ouimet »
+Le juge Ouimet
+Traduction certifiée conforme
+ce 9e jour de janvier 2024.
+Guillaume Chénard, réviseur
+RÉFÉRENCE :
+2023 CCI 92
+NOS DES DOSSIERS DE LA COUR :
+2013-954(IT)G, 2015-3261(IT)G,
+2019-3239(IT)G, 2019-4191(IT)G
+INTITULÉ :
+MONSIEUR UNTEL ET
+SA MAJESTÉ LE ROI
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Sylvain Ouimet
+DATE DE L’ORDONNANCE :
+Le 21 juin 2023
+COMPARUTIONS :
+Avocat de l’appelant :
+L’appelant lui-même
+Avocate de l’intimé :
+Me Nadine Taylor Pickering
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimé :
+Me Shalene Curtis-Micallef
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Canada c. Dow Chemical Canada ULC, 2022 CAF 70 [Dow Chemical].
+[2] Dow Chemical, par. 79 et 80.
+[3] Selon la Directive sur la procédure no 16 de la Cour canadienne de l’impôt, la Cour peut, de sa propre initiative, caviarder dans les actes de procédure les renseignements personnels et confidentiels. La Cour peut également ordonner que certains documents soient traités comme confidentiels, auquel cas ces documents sont alors mis sous scellés et ne peuvent être consultés par le public.
+[4] Sierra Club du Canada c. Canada (Ministre des Finances), 2002 CSC 41 [Sierra Club].
+[5] Osif v. College of Physicians and Surgeons of Nova Scotia, 2008 NSCA 113 [Osif], par. 22.
+[6] Sherman (Succession) c. Donovan, 2021 CSC 25 [Sherman (Succession)], par. 1.
+[7] Sherman (Succession), par 1.
+[8] Sherman (Succession), par. 38.
+[9] Sherman (Succession), par. 56.
+[10] Sherman (Succession), par. 59.
+[11] Sherman (Succession), par. 61.
+[12] Sherman (Succession), par. 63.
+[13] Sherman (Succession), par. 73.
+[14] Sherman (Succession), par. 75.
+[15] Sherman (Succession), par. 75.
+[16] Société Radio-Canada c. La Reine, 2011 CSC 3, par. 19.
+[17] Osif, par. 22.
+[18] Sherman (Succession), par. 77.
+[19] Sierra Club, par. 62.
+[20] Sierra Club, par. 69.
+[*] Pseudonyme de l’appelant.

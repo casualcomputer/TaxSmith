@@ -1,0 +1,229 @@
+Title: Bonavia Jr. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29245/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-289-29245-bonavia-jr-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-05-28
+
+# Bonavia Jr. c. La Reine
+
+- Citation: 2009 CCI 289
+- Decision date: 2009-05-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7014, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bonavia Jr. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-05-28
+Référence neutre
+2009 CCI 289
+Numéro de dossier
+2006-3535(IT)G
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-3535(IT)G
+ENTRE :
+GEORGE BONAVIA, FILS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 26 novembre 2008, à Ottawa, Canada.
+Devant : L’honorable juge Réal Favreau
+Comparutions :
+Avocat de l’appelant :
+Me Robert McMechan
+Avocats de l’intimée :
+Me Daniel Bourgeois
+Me Pascal Tétrault
+____________________________________________________________________
+JUGEMENT
+L’appel de la nouvelle cotisation, dont l’avis est daté du 28 avril 2005, par laquelle le ministre du Revenu national a ajouté un montant de 118 097 $ au revenu de l’année d’imposition 2001 de l’appelant est rejeté avec dépens, conformément aux motifs de jugement ci‑joints.
+Signé à Montréal (Québec), ce 28e jour de mai 2009.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 2e jour de juillet 2009.
+François Brunet, réviseur
+Référence : 2009 CCI 289
+Date : 20090528
+Dossier : 2006-3535(IT)G
+ENTRE :
+GEORGE BONAVIA, FILS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] La Cour est saisie d’un appel d’une nouvelle cotisation, dont l’avis est daté du 28 avril 2005, par laquelle le ministre du Revenu national (le « ministre ») a ajouté un montant de 118 097 $ au revenu de l’année d’imposition 2001 de l’appelant au motif qu’il s’agissait d’une prestation reçue par celui‑ci dans le cadre d’un régime enregistré d’épargne‑retraite en vertu de l’alinéa 56(1)h) et du paragraphe 146(8) de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.), dans sa forme modifiée (la « Loi »).
+[2] Les faits pertinents sont énoncés dans l’exposé conjoint des faits du 26 novembre 2008 que les parties ont déposé à l’audience. Les parties conviennent également que sont authentiques les documents inclus dans le recueil conjoint de documents qui a été produit sous la cote A‑1 dans le présent appel. L’exposé conjoint des faits se lit comme suit :
+[traduction]
+1. Le 7 juin 1999, un montant de 126 661,80 $ (l’« épargne‑retraite ») a été payé par le régime de pension de la fonction publique de l’appelant et transféré dans un REER immobilisé, compte no [...], à la Banque Royale du Canada (la « Banque Royale ») [1].
+2. Le 28 juin 1999, l’appelant a conclu une entente avec la Banque Royale en vue d’établir un fonds de revenu viager (le « fonds ») conformément à la Loi de 1985 sur les normes de prestation de pension et il a également demandé à la Banque Royale de lui payer les versements mensuels maximaux admissibles à l’aide du fonds, de façon qu’il puisse faire face à ses dépenses quotidiennes[2].
+3. Le 8 juillet 1999, un montant de 126 999,31 $ a été transféré du REER immobilisé de l’appelant au fonds[3]. Pendant la période allant du mois de juillet 1999 au mois de mars 2001, l’appelant a reçu des versements mensuels du fonds, les montants y afférents variant de 601,89 $ à 641,08 $ (les « versements mensuels »), lesquels ont été déposés directement dans son compte de chèque personnel[4].
+4. Le fonds était enregistré à titre de fonds de revenu de retraite en vertu de la Loi de l’impôt sur le revenu.
+Les relations entre l’appelant et NBI in Trust inc.
+5. Le 6 février 2001, l’appelant a présenté une demande de prêt à NBI in Trust inc. (« NBI ») [5].
+6. Le 6 février 2001, l’appelant a également signé une procuration[6].
+7. Le 1er mars 2001, l’appelant a signé un formulaire T2151 de l’Agence des douanes et du revenu du Canada. Quelque temp après cette date, le tampon « Canadian Corporation Creation Centre 1062363 RREMCCCC » a été apposé sur le formulaire T2151 que l’appelant avait signé[7].
+8. Le 19 mars 2001, un montant de 74 975 $ a été transféré du fonds à un compte de banque détenu par Canadian Corporation Creation Centre (« CCCC ») au Canada Trust, compte no [...]. Le 23 avril 2001, un montant de 42 959,43 $ a été transféré du fonds au compte de CCCC.
+9. Le 27 mars 2001, NBI a émis un chèque de 52 167 $ au nom de l’appelant, lequel a été encaissé le 30 mars 2001[8].
+10. Le 30 avril 2001, NBI a émis un chèque de 30 501 $ au nom de l’appelant, lequel a été encaissé le 1er mai 2001 ou vers cette date[9].
+La nouvelle cotisation visée par l’appel
+11. Le 4 avril 2005, un vérificateur de l’Agence du revenu du Canada, a informé l’appelant qu’un montant de 118 097,14 $ serait ajouté à son revenu de l’année d’imposition 2001 à titre de retrait de son régime de pension agréé[10].
+12. Avant que le vérificateur de Revenu Canada communique avec lui en 2005, l’appelant n’avait jamais entendu parler de CCCC et n’était pas au courant de l’existence de CCCC.
+13. Par avis de nouvelle cotisation daté du 28 avril 2005, l’Agence du revenu du Canada a ajouté un montant de 118 097 $ au revenu de l’appelant pour l’année d’imposition 2001 au motif qu’il s’agissait pour lui d’une prestation reçue dans le cadre d’un régime enregistré d’épargne‑retraite relevant de l’alinéa 65(1)h) et du paragraphe 146(8) de la Loi de l’impôt sur le revenu[11].
+14. L’appelant s’est opposé à la nouvelle cotisation au moyen d’un avis d’opposition que l’Agence du revenu du Canada a reçu le 15 juin 2005[12].
+15. Le 31 août 2006, l’Agence du revenu du Canada a délivré à l’appelant l'avis de ratification suivant :
+« le montant de 118 097 $ que vous avez transféré au « Régime de retraite des employés et membres de Canadian Corporation Creation Centre » constitue une prestation reçue dans le cadre d’un régime enregistré d’épargne‑retraite. Le montant a été inclus dans votre revenu conformément à l’alinéa 56(1)h) et au paragraphe 146(8). »[13]
+Les activités illicites de CCCC et de NBI
+16. Par la suite, le ministère du Procureur général de l’Ontario a informé l’appelant qu’il avait été victime des activités illicites de CCCC et de NBI et qu’il avait droit à l'indemnité de 117 934,43 $ qui devait être répartie au prorata entre les victimes de ces activités illicites[14].
+17. Le 22 mars 2007, l’appelant a reçu l'indemnité du gouvernement de l’Ontario à titre de victime du crime commis par CCCC et par NBI, au montant calculé au prorata de 92 731,05 $, qu’il utilise pour un rachat de service ouvrant droit à pension au gouvernement du Canada[15].
+CCCC et NBI
+18. NBI était une société qui avait été constituée en vertu de la Loi sur les sociétés par actions de l’Ontario le 15 novembre 1999.
+19. CCCC a été constituée en société en vertu de la Loi sur les corporations canadiennes, dont les lettres patentes ont été émises le 23 février 2000.
+20. Selon les statuts constitutifs, les administrateurs initiaux de CCCC étaient Michel Roland, Pierre Lesage et David McKenzie. Cette société avait notamment pour objet d’attirer des propriétaires de petites entreprises, de promouvoir leurs intérêts et d'assurer divers services à ses membres.
+21. Le 21 juin 2000, CCCC a constitué une fiducie censée gérer un régime de pension pour ses employés et membres[16].
+22. Le 18 juillet 2000, Michel Roland, en sa qualité de président de CCCC, a demandé l’agrément d’un régime de pension appelé : « Régime de retraite des employés et membres de Canadian Corporation Creation Center » (le « régime »)[17]. L’agrément a été accordé par l’Agence des douanes et du revenu du Canada (l’« ADRC ») telle qu’elle s’appelait alors, le 19 décembre 2000, l’agrément entrant en vigueur le 24 juillet 2000, en vertu de l’article 147.1 de la Loi de l’impôt sur le revenu[18].
+23. Le 30 mars 2001 ou vers cette date, le montant de 254 044,33 $ a été viré du compte de CCCC au Canada Trust à un compte bancaire détenu par NBI au Canada Trust (numéro [...]). Le 2 mai 2001 ou vers cette date, le montant de 250 000 $ a été viré du compte de CCCC au Canada Trust à un autre compte au Canada Trust détenu par NBI (numéro [...]).
+24. Le 28 septembre 2001, la Commission des services financiers de l’Ontario a révoqué l’agrément provincial du régime[19].
+25. Le 11 décembre 2001, l’ADRC a délivré un avis d’intention de retirer l’agrément conformément au paragraphe 147.1(11) de la Loi de l’impôt sur le revenu au motif que le régime en question ne répondait pas aux conditions d’agrément énoncées au paragraphe 8501(1) du Règlement de l’impôt sur le revenu (le « Règlement »). En particulier :
+a) le principal objet du régime ne consistait pas en le versement périodique de montants à des particuliers, après leur retraite pour les services qu’ils ont rendus à titre d’employés;
+b) il n’y avait aucune relation employeur‑employé entre CCCC et les membres du régime[20].
+26. CCCC n’a pas interjeté appel de l’avis d’intention de retirer l’agrément.
+27. Le 11 janvier 2002, un avis de retrait a été délivré conformément au paragraphe 147.1(12) de la Loi de l’impôt sur le revenu, la date du retrait étant le 24 juillet 2000, soit la date initiale d’entrée en vigueur du régime.
+28. L’appelant n’avait aucune connaissance des faits admis aux paragraphes 18 à 27 du présent exposé conjoint des faits tant que le vérificateur n’a pas communiqué avec lui, en 2005.
+[3] La Cour est appelée à décider si le montant de 118 097,14 $ doit être inclus dans le calcul du revenu de l’appelant pour l’année d’imposition 2001 :
+a) au motif que l’appelant a reçu les montants en 2001 « dans le cadre » de son fonds enregistré de revenu de retraite (le « FERR »), au sens du paragraphe 146.3(5) de la Loi;
+b) subsidiairement, au motif que les fonds ont été virés de la Banque Royale à CCCC suivant les instructions de l’appelant ou au profit de l’appelant, au sens du paragraphe 56(2) de la Loi.
+[4] Le ministre a modifié le fondement de la nouvelle cotisation parce que le fonds constitué par l’appelant à la Banque Royale avait été enregistré à titre de fonds de revenu de retraite au sens du paragraphe 146.3(1) de la Loi et non en tant que régime enregistré d’épargne‑retraite.
+[5] Selon la thèse de l’appelant, il n’a reçu aucun montant au cours de son année d’imposition 2001 à titre de prestation dans le cadre d’un régime enregistré d’épargne‑retraite ou d’un fonds enregistré de revenu de retraite. Il soutient que l’entente conclue avec NBI était un contrat de prêt et que le montant global de 82 668 $ qu’il a reçu en 2001 représentait le montant du prêt qui était avancé.
+[6] L’appelant soutient en outre qu’il n’a pas conclu d’entente prévoyant la remise ou l’extinction de quelque droit ou obligation découlant de son fonds et qu’il n’a pas demandé à la Banque Royale de virer quelque montant que ce soit de son fonds à CCCC.
+[7] L’appelant soutient en outre qu’il a demandé un prêt à NBI et que :
+a) la procuration que l’appelant a remise à NBI était uniquement censée permettre à celle‑ci de recouvrer le montant du prêt plus les intérêts en recevant les versements mensuels qui étaient dus à l’appelant;
+b) l’appelant a signé le formulaire T2151 parce qu’il croyait comprendre qu’il fallait le faire afin de protéger son épargne‑retraite en s’assurant qu’elle continue à être détenue par un régime enregistré;
+c) l’appelant n’a pas autorisé les retraits effectués de son régime enregistré d’épargne‑retraite et les documents censés autoriser pareils retraits étaient des faux;
+d) NBI et CCCC ont pris des dispositions et produit des documents dans l’intention de tromper l’appelant et les autres personnes qui pouvaient se fier à elles pour occulter ce qui se passait réellement, à savoir le vol de l’épargne‑retraite;
+e) les virements du fonds étaient uniquement le résultat d’une fraude et d’un stratagème dont l’appelant a été victime, de sorte qu’ils ne donnent pas lieu à l’application de la Loi.
+Analyse
+[8] Les règles applicables aux FERR sont énoncées à l’article 146.3 de la Loi. L’expression « fonds de revenu de retraite » est définie comme suit au paragraphe 146.3(1) de la Loi :
+« fonds de revenu de retraite » Fonds visé par entente entre un émetteur et un rentier aux termes de laquelle l’émetteur, contre les biens qui lui sont transférés, s’engage à verser au rentier et, si le rentier en fait le choix, à son époux ou conjoint de fait après son décès, chaque année, à compter au plus tard de la première année civile suivant l’année de l’entente, un ou plusieurs montants dont le total est au moins égal au minimum à retirer pour l’année, chaque versement ne pouvant toutefois dépasser la valeur des biens détenus dans le cadre du fonds immédiatement avant le moment du versement.
+[9] Lorsque le ministre accepte un « fonds de revenu de retraite » aux fins d’enregistrement, ce fonds devient un FERR. Pour être enregistré à titre de FERR, le contrat conclu entre le rentier et l’émetteur doit comporter des conditions fort strictes se rapportant à l’utilisation des biens détenus dans le cadre du fonds, lesquelles sont énoncées au paragraphe 146.3(2) de la Loi. En particulier, les conditions figurant dans les dispositions suivantes doivent être remplies :
+Alinéa 146.3(2)b)
+b) elle prévoit qu’aucun versement dans le cadre du fonds ne peut être cédé, en totalité ou en partie;
+Sous‑alinéa 146.3(2)c)(ii)
+(ii) d’autre part, que les biens détenus dans le cadre du fonds ne peuvent être nantis, cédés ou aliénés de quelque façon, en garantie d’un prêt ou dans un autre but que celui de permettre à l’émetteur de faire au rentier les versements visés à l’alinéa a);
+Alinéa 146.3(2)d)
+d) elle prévoit que, à la suite du décès du rentier, l’émetteur doit distribuer les biens détenus dans le cadre du fonds au moment du décès ou un montant égal à la valeur de ceux‑ci à ce moment, sauf si l’époux ou le conjoint de fait du rentier devient rentier du fonds;
+Alinéa 146.3(2)g)
+g) elle prévoit qu’aucun avantage ou prêt subordonné à l’existence du fonds ne peut être accordé au rentier ou à une personne avec qui celui‑ci a un lien de dépendance, à l’exception :
+(i) d’un avantage dont la valeur doit être ajoutée au calcul du revenu du rentier,
+(ii) d’un montant visé à l’alinéa (5)a) ou b),
+(iii) de l’avantage provenant de la fourniture de services de gestion ou de placement concernant le fonds;
+[...]
+[10] Le paragraphe 146.3(5) de la Loi exige que les sommes reçues par le contribuable au cours de l'année d’imposition dans le cadre d’un FERR soient incluses dans le calcul de son revenu de l’année. La partie introductive du paragraphe 146.3(5) se lit comme suit :
+(5) Prestations imposables. Il doit être inclus dans le calcul du revenu d’un contribuable pour une année d’imposition les sommes qu’il a reçues au cours de l’année dans le cadre d’un fonds enregistré de revenu de retraite, sauf la partie de ces sommes qu’il est raisonnable de considérer comme étant :
+a) une partie de la somme comprise dans le calcul du revenu d’un autre contribuable en vertu des paragraphes (6) et (6.2);
+b) une somme reçue à l’égard du revenu de la fiducie en vertu du fonds pour une année d’imposition pour laquelle la fiducie n’était pas exonérée de l’impôt en vertu du paragraphe (3.1);
+c) un montant qui se rapporte à des intérêts, ou à un autre montant inclus dans le calcul du revenu autrement que par l’effet du présent article, et qui constituerait un montant libéré d’impôt, au sens de l’alinéa b) de la définition de cette expression au paragraphe 146(1), si le fonds était un régime enregistré d’épargne‑retraite.
+[11] L’article 146.3 de la Loi contient un ensemble de règles visant l'exclusion de la révision, la modification ou la substitution d’un fonds qui ne remplit pas les conditions d’acceptation par le ministre énoncées à l’article 146.3 de la Loi aux fins de l’enregistrement pour l’application de la Loi. Ces règles sont énoncées aux paragraphes 146.3(11), (12) et (13) de la Loi, qui se lisent comme suit :
+(11) Modification du fonds après enregistrement. Dans le cas où, à une date donnée postérieure à l’acceptation par le ministre d’enregistrer un fonds de revenu de retraite pour l’application de la présente loi, le fonds est révisé ou modifié ou un nouveau fonds est substitué – l’un et l’autre étant appelés « fonds modifiés » au présent paragraphe – et où le fonds modifié ne répond pas aux conditions prévues au présent article pour que le ministre accepte de l’enregistrer pour l’application de la présente loi, les règles suivantes s’appliquent :
+a) le fonds modifié est réputé, pour l’application de la présente loi, ne pas être un fonds enregistré de revenu de retraite;
+b) le contribuable qui était rentier du fonds avant que celui‑ci soit devenu un fonds modifié doit ajouter comme revenu retiré du fonds à ce moment une somme égale à la juste valeur marchande des biens détenus dans le cadre du fonds immédiatement avant ce moment, dans le calcul de son revenu pour l’année d’imposition qui comprend la date donnée.
+(12) Idem. Pour l’application du paragraphe (11), toute entente qui prévoit, en totalité ou en partie, la remise ou l’extinction de quelque droit ou obligation découlant d’un fonds de revenu de retraite en échange ou remplacement d’un autre droit ou d’une autre obligation ou autrement – à l’exclusion d’une entente dont les seuls objet et effets juridiques consistent à réviser ou modifier le fonds – ou toute entente qui prévoit le versement d’une somme, par le biais d’un prêt ou autre, en garantie d’un droit découlant d’un fonds de revenu de retraite est réputée substituer un nouveau fonds au fonds initial.
+(13) Idem. Dans le cas où, à on moment donné, un avantage ou un prêt est accordé ou continue de l’être à cause de l’existence d’un fonds enregistré de revenu de retraite – avantage ou prêt qui ne saurait être accordé aux fins d’enregistrement du fonds, étant donné la condition posée par l’alinéa (2)g) – le fonds est réputé, pour l’application du paragraphe (11), être révisé ou modifié à ce moment et ne pas répondre ainsi à la condition posée par l’alinéa (2)g).
+[12] Lorsque l’appelant a présenté une demande de prêt à NBI, il avait déjà reçu des versements mensuels du fonds du mois de juillet 1999 au mois de mars 2001; les sommes allaient de 601,89 $ à 641,08 $, lesquelles étaient déposées dans son compte de chèque personnel. Afin d’obtenir le prêt, l’appelant a signé une procuration et rempli le formulaire T2151, comme l’exigeait l’ADRC pour les virements faits à partir du fonds.
+[13] L’appelant a témoigné qu’il voulait simplement obtenir un prêt pour acheter une maison et céder ses versements mensuels afin de rembourser le prêt. L’appelant affirme ne jamais avoir autorisé que l’on entame le capital du fonds, qui devait demeurer intact. Toutefois, il a bel et bien accepté que le capital du fonds soit transféré à un autre régime enregistré en signant le formulaire T2151. L’appelant a également déclaré n’avoir jamais été au courant de l’existence de CCCC et n’avoir jamais discuté avec NBI du transfert du capital du fonds en faveur de CCCC.
+[14] L’appelant voulait simplement obtenir un prêt garanti par les versements mensuels provenant de son FERR, ce qui est contraire à l’objet et à l’esprit de la Loi et des conditions de son FERR. Il est spécifiquement prévu à l’alinéa 146.3(2)b) de la Loi qu’aucun versement effectué dans le cadre d’un FERR ne peut être cédé, en totalité ou en partie.
+[15] Cela veut dire que l’appelant devait transférer le capital de son FERR dans un autre régime enregistré, qui ne pouvait pas être un autre FERR, et c’est la raison pour laquelle l’appelant a signé le formulaire T2151. L’appelant a également témoigné qu’il aurait fort bien pu avoir signé un formulaire T2033. Le véhicule offert par les promoteurs du stratagème était un régime de pension qui était enregistré au moment où le capital du FERR de l’appelant était transféré.
+[16] Malheureusement pour l'appelant, le régime enregistré de pension n’était pas un régime de pension qui remplissait les conditions d’enregistrement en vigueur, de sorte que le ministre l’a radié rétroactivement du registre. Par conséquent, les deux virements du capital du fonds à un compte bancaire détenu par CCCC constituaient un retrait du capital du FERR de l’appelant, qui devait être inclus dans le revenu de l’appelant pour l’année d’imposition 2001, conformément au paragraphe 146.3(5) de la Loi.
+[17] La Loi suppose que tout virement de biens détenus dans le cadre du fonds qui est fait suivant les instructions du rentier est un montant reçu par le rentier dans le cadre du FERR. Il y a une exception à cette règle au paragraphe 146.3(14) de la Loi : un virement à un autre FERR est réputé ne pas être un montant reçu par le rentier dans le cadre d’un FERR.
+[18] Le terme « reçu » aux fins de la Loi englobe non seulement les sommes en espèces ou les biens entre les mains du contribuable, mais aussi les avantages obtenus par le contribuable ou dont celui-ci jouit sans qu'ils soient nécessairement entre ses mains. Cette interprétation a été retenue par la Section de première instance de la Cour fédérale dans la décision Morin v. R., 75 DTC 5061, paragraphe 24 :
+Cette proposition, nous regrettons de le dire, nous semble absolument inadmissible, car le mot recevoir ou toucher veut évidemment dire en bénéficier ou en profiter. En recevoir les avantages sans être obligé de l’avoir dans ses mains. [...]
+[19] La lecture élargie du terme « reçu » au sens de la Loi a été suivie par la jurisprudence, notamment dans les décisions Simser v. R., 2005 DTC 5001 (Cour d’appel fédérale) et Bertrand v. R., 2007 DTC 190 (Cour canadienne de l’impôt).
+[20] Outre la lecture élargie du terme « reçu », la jurisprudence a aussi fait usage de la notion de « réception réputée ». Dans la décision Belusic v. R., 3 C.T.C. 2908, le juge Bowman a énoncé, au paragraphe 13, les conditions d’application de la notion de la « réception réputée » à un paiement effectué en faveur d’un tiers :
+[…] J’estime que, pour que le montant de 3 281,30 $ soit réputé avoir été reçu par l’appelant par suite du paiement fait par Postes Canada à la ville de London, il faudrait qu’il soit satisfait à l’une des conditions suivantes ou aux deux :
+a) l’appelant avait autorisé le paiement ou y avait acquiescé;
+b) même s’il n’avait pas autorisé le paiement ou n’y avait pas acquiescé, l’appelant était à tout le moins tenu en droit d’effectuer le remboursement, de sorte que le paiement fait par Postes Canada à la ville de London avait eu pour effet de le dégager de cette obligation.
+[21] La Cour a suivi cette approche dans la décision Toth v. R., 2006 DTC 2479. La Cour a conclu que M. Toth avait reçu les montants dans le cadre de son REER, et ce, même s’il n’avait tiré aucun avantage du produit de son REER et même si le paiement n’avait pas été autorisé ou ne résultait pas d’une obligation juridique.
+[22] En l’espèce et vu la preuve produite par l’appelant, il me semble clair que les montants virés à partir de son FERR, à la Banque Royale, ont été à juste titre inclus dans le calcul de son revenu en vertu du paragraphe 146.3(5) de la Loi. Ce virement de fonds était destiné au service d'une dette future et il s’agissait donc d’un avantage. En outre, ce virement a été autorisé par l’appelant. Enfin, étant donné qu’il avait signé la procuration, l’appelant avait juridiquement l'obligation de transférer les fonds à NBI, mais il a été libéré de cette obligation lorsque NBI a décidé de diriger le paiement vers une autre entité, CCCC.
+[23] Même si l'on supposait que l’appelant n’a pas reçu les montants virés conformément au paragraphe 146.3(5) de la Loi, ces montants devraient néanmoins être inclus dans le revenu de l’appelant conformément au paragraphe 56(2) de la Loi.
+[24] Le paragraphe 56(2) de la Loi se lit comme suit :
+Paiements indirects — Tout paiement ou transfert de biens fait, suivant les instructions ou avec l’accord d’un contribuable, à toute autre personne au profit du contribuable ou à titre d’avantage que le contribuable désirait voir accorder à l’autre personne – sauf la cession d’une partie d’une pension de retraite conformément à l’article 65.1 du Régime de pensions du Canada ou à une disposition comparable d’un régime provincial de pensions au sens de l’article 3 de cette loi ou d’un régime provincial de pensions visé par règlement – doit être inclus dans le calcul du revenu du contribuable dans la mesure où il le serait si ce paiement ou transfert avait été fait au contribuable.
+[25] Le paragraphe 56(2) de la Loi vise à prévenir l’évitement de l'impôt au moyen du partage du revenu. Il s’agit d’une disposition anti‑évitement précise, en ce sens qu’elle est uniquement applicable afin d'exclure le partage du revenu lorsque les quatre conditions d’application sont expressément remplies.
+[26] Dans l’arrêt Newman v. M.N.R., 98 DTC 6297, la Cour suprême du Canada a statué que le paragraphe 56(2) de la Loi appelle la réunion de quatre conditions. Au paragraphe 32, la cour a formulé comme suit celles-ci :
+Le paragraphe 56(2) énonce dans son libellé même les quatre conditions préalables à son application :
+(1) le paiement doit être fait à une autre personne que le contribuable à l’égard duquel une nouvelle cotisation est établie;
+(2) la répartition doit être faite suivant les instructions ou avec l’accord du contribuable à l’égard duquel une nouvelle cotisation est établie;
+(3) le paiement doit être fait au profit du contribuable à l’égard duquel une nouvelle cotisation est établie ou à une autre personne à titre d’avantage que ce contribuable souhaitait voir accorder à cette autre personne;
+(4) le paiement aurait été inclus dans le revenu du contribuable à l’égard duquel une nouvelle cotisation est établie si ce dernier l’avait reçu lui‑même.
+[27] Je suis d'avis que ces quatre conditions sont réunies en l’espèce; en effet :
+a) le paiement à une autre personne : les 19 mars et 23 avril 2001, les montants de 74 975 $ et de 42 959,43 $ ont respectivement été virés à partir du fonds de l’appelant à CCCC;
+b) suivant les instructions ou avec l’accord de l’appelant : au mois de mars 2001, l’appelant a signé le formulaire T2151. Il croyait comprendre que ce formulaire signé pouvait uniquement être utilisé à une fin – à savoir autoriser la Banque Royale à transférer le capital de son fonds. L’appelant ne peut renier cette autorisation au motif que le tampon de CCCC a été apposé après coup, étant donné qu’il a signé un document en blanc;
+c) le paiement est fait au profit de l’appelant : en l’absence du virement de fonds, l’appelant n’aurait pas pu obtenir les fonds nécessaires pour acheter la maison. L’appelant a témoigné avoir appris que les fonds avaient été virés du fait qu’il avait obtenu le prêt. Il y avait un lien direct entre l'obtention des fonds de NBI et le virement du capital de son fonds à CCCC;
+d) le paiement aurait été imposable s’il avait été reçu par l’appelant : si les montants avaient été versés directement à l’appelant, ils auraient été inclus dans le revenu de celui‑ci conformément au paragraphe 146.3(5) de la Loi.
+[28] L’appelant a été pour le moins négligent en signant les documents qui ont donné lieu à l’inclusion des montants en question dans son revenu. Dans l’arrêt Nunn v. R., 2007 DTC 6111, la Cour d’appel fédérale a clairement dit que le contribuable ne doit pas échapper aux conséquences de ses actes du fait qu’une fraude ou une erreur a été commise. Au paragraphe 22, la Cour a fait l'observation suivante :
+L’achat des actions dans le cadre d’un placement non admissible a eu pour effet d’enclencher automatiquement l’application du paragraphe 146(1). Ce résultat est sans aucun doute dur, mais il serait inéquitable d’exonérer un contribuable de son obligation fiscale en se fondant sur une erreur ou sur une fraude.
+[29] On s'est exprimé dans le même sens dans les décisions Vankerk v. R., 2006 DTC 6199, Dubuc c. R., 2004 DTC 2811 et Deschamps v. R. [2007] 3 C.T.C. 2298. Dans la décision Deschamps, la Cour a fait l'observation suivante, au paragraphe 15 :
+L’appelant n’a peut‑être pas fait preuve de diligence en signant ces documents, mais cela ne l’exempte pas des conséquences.
+[30] Par ces motifs, l’appel est rejeté avec dépens.
+Signé à Montréal (Québec), ce 28e jour de mai 2009.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 2e jour de juillet 2009.
+François Brunet, réviseur
+RÉFÉRENCE : 2009 CCI 289
+No DU DOSSIER DE LA COUR : 2006-3535(IT)G
+INTITULÉ : George Bonavia, fils c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Ottawa (Canada)
+DATE DE L’AUDIENCE : Le 26 novembre 2008
+MOTIFS DU JUGEMENT : L’honorable juge Réal Favreau
+DATE DU JUGEMENT : Le 28 mai 2009
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Robert McMechan
+Avocats de l’intimée :
+Me Daniel Bourgeois
+Me Pascal Tétrault
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Robert McMechan
+Cabinet : Robert McMechan, LLB, LLM
+Ottawa, Canada
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Recueil de documents, onglets 1 à 5.
+[2] Recueil de documents, onglets 2 et 4.
+[3] Recueil de documents, onglets 6 et 33.
+[4] Recueil de documents, onglet 33.
+[5] Recueil de documents, onglet 17.
+[6] Recueil de documents, onglet 18.
+[7] Recueil de documents, onglet 19.
+[8] Recueil de documents, onglet 21.
+[9] Recueil de documents, onglet 22.
+[10] Recueil de documents, onglet 41.
+[11] Recueil de documents, onglet 44.
+[12] Recueil de documents, onglet 46.
+[13] Recueil de documents, onglet 48.
+[14] Recueil de documents, onglet 53.
+[15] Recueil de documents, onglet 54.
+[16] Recueil de documents, onglet 8.
+[17] Recueil de documents, onglets 9 et 10.
+[18] Recueil de documents, onglet 16.
+[19] Recueil de documents, onglet 27.
+[20] Recueil de documents, onglet 32.

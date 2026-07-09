@@ -1,0 +1,211 @@
+Title: Chu v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29395/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-444-29395-chu-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-09-11
+
+# Chu v. The Queen
+
+- Citation: 2009 TCC 444
+- Decision date: 2009-09-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6886, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chu v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-09-11
+Neutral citation
+2009 TCC 444
+File numbers
+2009-2442(IT)APP
+Judges and Taxing Officers
+Joe E. Hershfield
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-2442(IT)APP
+BETWEEN:
+KAREN CHU,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application heard on common evidence with the applications of
+Karen Chu 2009-2076(GST)APP and Tai Shen Chu 2009-2080(IT)APP
+and Reasons for Order delivered orally from the Bench
+on August 27, 2009 and August 28, 2009 at Toronto, Ontario
+Before: The Honourable Justice J.E. Hershfield
+Appearances:
+Counsel for the Applicant:
+Nick Ranieri
+Counsel for the Respondent:
+Alexandra Humphrey
+___________________________________________________________________
+ORDER
+Having heard the application for an Order extending the time within which a Notice of Objection to assessments made under the Income Tax Act for the 2003 and 2004 taxation years may be served;
+And having heard what was alleged and argued by the parties;
+The application is dismissed for the reasons set out in the attached Reasons for Order.
+Signed at Ottawa, Canada this 11th day of September, 2009.
+"J.E. Hershfield"
+Hershfield J.
+Docket: 2009-2076(GST)APP
+BETWEEN:
+KAREN CHU,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application heard on common evidence with the applications of
+Karen Chu 2009-2442(IT)APP and Tai Shen Chu 2009-2080(IT)APP
+and Reasons for Order delivered orally from the Bench
+on August 27, 2009 and August 28, 2009 at Toronto, Ontario
+Before: The Honourable Justice J.E. Hershfield
+Appearances:
+Counsel for the Applicant:
+Nick Ranieri
+Counsel for the Respondent:
+Alexandra Humphrey
+____________________________________________________________________
+ORDER
+Having heard the application for an Order extending the time within which a Notice of Objection to the assessment in respect of the period from January 1, 2003 to December 31, 2004, made under the Excise Tax Act may be served;
+And having heard what was alleged and argued by the parties;
+The Application is dismissed for the reasons set out in the attached Reasons for Order.
+Signed at Ottawa, Canada this 11th day of September, 2009.
+"J.E. Hershfield"
+Hershfield J.
+Docket: 2009-2080(IT)APP
+BETWEEN:
+TAI SHEN CHU,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application heard on common evidence with the applications of
+Karen Chu 2009-2442(IT)APP and Karen Chu 2009-2076(GST)APP
+and Reasons for Order delivered orally from the Bench
+on August 27, 2009 and August 28, 2009 at Toronto, Ontario
+Before: The Honourable Justice J.E. Hershfield
+Appearances:
+Counsel for the Applicant:
+Nick Ranieri
+Counsel for the Respondent:
+Alexandra Humphrey
+____________________________________________________________________
+ORDER
+Having heard the application for an Order extending the time within which a Notice of Objection to assessments made under the Income Tax Act for the 2003 and 2004 taxation years may be served;
+And having heard what was alleged and argued by the parties;
+The application is dismissed for the reasons set out in the attached Reasons for Order.
+Signed at Ottawa, Canada this 11th day of September, 2009.
+"J.E. Hershfield"
+Hershfield J.
+Citation: 2009TCC444
+Date: 20090911
+Docket: 2009-2442(IT)APP
+BETWEEN:
+KAREN CHU,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+AND BETWEEN:
+Docket: 2009-2076(GST)APP
+KAREN CHU,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+AND BETWEEN:
+Docket: 2009-2080(IT)APP
+TAI SHEN CHU,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+(Edited from the transcript of Reasons delivered orally from the Bench
+on August 28, 2009 at Toronto, Ontario)
+Hershfield J.
+[1] The three applications before me are made for the extension of time to file notices of objection to certain assessments issued by the Canada Revenue Agency (“CRA”). Two such assessments concern the applicant, Karen Chu, one issued pursuant to the provisions of the Income Tax Act, the other pursuant to those of the Excise Tax Act, GST portions. A third assessment concerns the applicant, Tai Shen Chu. It was issued pursuant to the provisions of the Income Tax Act.
+[2] The requirements that must be met for this Court to grant the extensions sought are set out in subsection 166.2(5) of the Income Tax Act and subsection 304(5) of the Excise Tax Act.
+[3] The requirements of each such provision are the same. Amended Notices of Reply to all the applications plead that the applications were not made within the required time limit prescribed in paragraph (a) of each of those subsections.
+[4] The time by which applications must be made in order for this Court to deal with them must be within one year plus 90 days from the time notices of assessment were mailed by the CRA. The express language of the subject provisions is as follows. With respect to the Income Tax Act, paragraph 166.2(5)(a), it reads:
+(5) No application shall be granted under this section unless
+(a) the application was made under subsection 166.1(1) within one year after the expiration of the time otherwise limited by this Act for serving a notice of objection …
+[5] The time otherwise limited is set out in paragraph 165(1)(a) of the Income Tax Act:
+165.(1) A taxpayer who objects to an assessment under this Part may serve on the Minister a notice of objection, in writing, setting out the reasons for the objection and all relevant facts,
+(a) where the assessment is in respect of the taxpayer for a taxation year and the taxpayer is an individual (other than a trust) or a testamentary trust, on or before the later of
+(i) …
+and the applicable date in this case is:
+(ii) the day that is 90 days after the day of mailing of the notice of assessment; …
+[6] Under the provisions of the Excise Tax Act, the time limitation is virtually the same as can be seen from paragraph 304(5)(a) of the Excise Tax Act, which refers to the one year and refers back to subsection 301(1.1) in reference to the 90 days, giving us the one-year plus 90-day time limit running from the time that the notices of assessment were mailed by the CRA.
+[7] Counsel for the applicants acknowledges that the subject applications were not made within the required time. The outside dates by which the applications must have been made and the dates they were in fact made are as follows: In respect of the applicant Karen Chu and her application under the Income Tax Act, the required outside date by which the application had to be made, is July 4, 2008. The date that the application was actually made is January 9, 2009.
+[8] In respect of that applicant's GST assessment and application, the date by which she was required to file the application is July 25, 2008, and the date she actually filed it is January 9, 2009.
+[9] In respect of the applicant Tai Shen Chu, the required date by which he would have had to have filed the application to fall within these provisions would be July 4, 2008, and the actual date of filing was January 9, 2009.
+[10] I acknowledge at the outset of these reasons that this case is troublesome in that the applicants’ failure to file timely objections is not a result of anything they failed to do. Indeed, they took appropriate steps to file timely objections and believed that they had done so.
+[11] They were led to believe by a third party engaged to represent them that the necessary steps had been taken to appeal the subject assessments. This is a case of professional negligence, aggravated by deceit, the result of which is that the applicants have lost their right to pursue their objection to, or to appeal, the subject assessments.
+[12] Regrettably, I have no jurisdiction to remedy this situation. Where a person suffers damage as a result of the negligence and deception of a professional adviser, the remedy lies elsewhere.
+[13] In this case, the tortfeasor appears to be Taxperts Corp. (“Taxperts”). The applicants first retained the services of Taxperts to deal with the CRA audit that preceded the subject assessments. In turn, Taxperts contracted or delegated the work to a chartered accountant who I will refer to as Mr. H..
+[14] The subject assessments followed and Taxperts and Mr. H. continued to work for the applicants, who were assured by Mr. H. that he would file the required notices to appeal the assessments. An affidavit of Mr. H. admits that he is an alcoholic and that he was drinking at least on an occasional basis after having joined Alcoholics Anonymous in 2003.
+[15] More relevant to the applications before me, he admitted to increased drinking and deteriorated health during the period he was responsible to respond to the subject assessments. He admits that he was called repeatedly by the applicants about opposing the assessments and that he assured them that the appeals had been filed. This was a bold-faced deception, admitted to by Mr. H.. He admitted repeatedly misleading the applicants as well as Taxperts on the status of the assessments.
+[16] As I have said, I have no jurisdiction to remedy this situation. The authorities on the subject and on like provisions have all confirmed that this Court has no jurisdiction to extend the one-year plus 90-day deadline prescribed by Parliament, regardless of the equities.
+[17] One case of this Court, Hickerty v. R., 2007,[1] relied on by the applicants did however embrace a more generous approach to the provision by applying the doctrine of discoverability so that the starting time in determining the expiry of a deadline would not commence on the day that is 90 days after the date of mailing of the notice of assessment, but rather when the taxpayer, who reasonably believed a required filing had been made, discovered the failure.
+[18] However, with respect, the language of the subject provisions is absolutely, unambiguously clear. It does not suggest that receipt of the notice of assessment is relevant. Accordingly, the authorities have found, for example, that proof of failure of the postal service resulting in a non-receipt does not change the start date of the prescribed limitation period. This was confirmed by the Federal Court of Appeal in 2000, in Schafer v. Canada.[2] Essentially, such decisions frustrate the application of the doctrine of discoverability. I believe my hands are tied.
+[19] In Hickerty, the judge did take, as noted, a different approach, effectively applying the doctrine of discoverability. In that case, the applicant was under the mistaken but reasonable belief that she had validly instituted an appeal in accordance with the requirements of the Tax Court of Canada Act and its Rules. The judge started the time limitation period set out in paragraph 167(5)(a) relating to extensions of time to file appeals in the Income Tax Act, to the date that the applicant reasonably became aware that the intended appeal was not validly made. In that case, the appeal had not been validly commenced because it was sent to the CRA instead of the Court.
+[20] With respect, I believe a different rationale might be found in that case to warrant its result. In that case, the question was whether a filing had been made. Addressing an error of that nature which involves the Tax Court of Canada Act and its Rules might not bar a finding that a filing in fact had been made in that case and that an extension was not needed.
+[21] In any event, this case is very different. Here, we have a taxpayer who has chosen to deal with a firm offering professional services. That firm failed to perform its professional obligations. It was negligent in my view and this Court is not an insurer against such malfeasance.
+[22] I cannot massage the language of the subject provision; I have no jurisdiction to do so. There is no place for me to do that given the clear statutory language of the subject provisions and I cannot apply the doctrine of discoverability.
+[23] Indeed, although admittedly only obiter dicta (as acknowledged by Justice Woods of this Court in her 2005 decision in Nagle v. R.[3]), the Federal Court of Appeal in Carlson v. R.[4] in 2002 rejected the application of that doctrine in the context of the subject provision.
+[24] The Hickerty decision distinguished Carlson on the basis of the time taken to bring the application. In Carlson, the delay was years, some six years. That rationale to distinguish Carlson, in and by itself, is not persuasive in my view.
+[25] Applicants’ counsel makes the same argument in respect of other authorities relied on by the respondent, namely that they deal with applicants whose applications reflected substantial delays compared to the few months delay in the applications at bar.
+[26] Again, with respect, I find such distinctions do not warrant adopting an approach to the subject provision that embraces a doctrine that suggests that a little late should be treated differently than very late.
+[27] There is a bright line, a bright timeline here that Parliament says must be observed. Acting diligently to rectify a problem upon learning of it, does not change that bright line. Being in the dark, at no fault of your own, that a clock is ticking, does not change that bright line.
+[28] My biggest misgiving in this case in having no choice but to deny the applications, is that I am suggesting that the applicants have a fertile case for damages against Taxperts. It is a misgiving because that means potentially I have invited further litigation in a different forum with more issues and more costs. For example: What are their damages?
+[29] Ironically, this Court has exclusive jurisdiction to determine that question definitively in the first instance. Nonetheless, that is where the matter stands. Regardless that I take little satisfaction in passing the problem on to another forum, all I can do is hope that the applicants here will receive adequate compensation for their reliance on the professional services of Taxperts.
+[30] I note before closing that while the Amended Reply to these applications deals only with the time-limit requirement of the subject provisions, counsel for the respondent raised the question of whether the applicants acted with sufficient diligence to warrant a finding that they acted as soon as circumstances permitted, which is another requirement to be met under the subject provisions for this Court to grant the extension.
+[31] I repeat, in this context, without hesitation, that I find that the Chus were diligent in their efforts to object to these matters as soon as reasonably possible or as soon as might reasonably have been expected in the circumstances.
+[32] I also note that I have considered the case of this Court in 2007 of Cheam Tours Ltd. (c.o.b. Airport Link Shuttle) v. Canada (M.N.R.),[5] which was also referred to and relied on by applicants’ counsel. That case looks to this Court's power to cure a technical defect.
+[33] In my view, the case before me goes beyond curing a technical defect. This is not a case for bending a provision to prevent depriving a taxpayer of their day in Court by exposing them to unintended obstacles or traps.
+[34] In this case, we have an overt failure to comply with the legislation. There are no hidden traps, and the failure to comply is not as a result of a technical defect.
+[35] In this case, where a presumably competent practitioner failed to comply with a clear statutory requirement, it is not for me to rectify the situation by ignoring the express language of the Act, even though it may well be equitable for me to do so, particularly given that the respondent should not be seeking to collect more taxes than the law requires if that is the case. But I have no equitable jurisdiction to give effect to a remedy that would allow that determination to be made.
+[36] Accordingly, it is incumbent on me to deny the applications.
+Signed at Ottawa, Canada, this 11th day of September, 2009.
+"J.E. Hershfield"
+Hershfield J.
+CITATION: 2009TCC444
+COURT FILE NOS.: 2009-2442(IT)APP; 2009-2076(GST)APP;
+2009-2080(IT)APP
+STYLE OF CAUSE: KAREN CHU AND THE QUEEN;
+AND BETWEEN KAREN CHU AND THE QUEEN; AND BETWEEN TAI SHEN CHU AND THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: August 27 and August 28, 2009
+REASONS FOR ORDER BY: The Honourable Justice J.E. Hershfield
+DATE OF ORDER: September 11, 2009
+APPEARANCES:
+Counsel for the Applicant:
+Nick Ranieri
+Counsel for the Respondent:
+Alexandra Humphrey
+COUNSEL OF RECORD:
+For the Applicant:
+Name: Nick Ranieri
+Firm: 2200 Yonge Street, Suite 221
+2nd Floor Concourse
+Toronto, Ontario, M4S 2C6
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2007 TCC 482; 2007 D.T.C. 1311.
+[2] 2000 D.T.C. 6542; [2000] F.C.J. No. 1480.
+[3] 2005 TCC 462; [2005] 4 C.T.C. 2182 (T.C.C.).
+[4] 2002 FCA 145; [2002] 2 C.T.C. 212 (F.C.A.).
+[5] 2008 TCC 18; [2008] 4 C.T.C. 2001.

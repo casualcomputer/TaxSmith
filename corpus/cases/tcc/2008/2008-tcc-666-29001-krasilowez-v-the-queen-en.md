@@ -1,0 +1,140 @@
+---
+title: "Krasilowez v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29001/index.do"
+last_modified: "2008-12-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 666"
+citation2: ""
+neutral_citation: "2008 TCC 666"
+decision_date: "2008-12-04"
+language: "en"
+item_id: "29001"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6750
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:33:33.433000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d68d7ea0b282a49fc798a11e3e58c676c2a0cf831b04e15d133d46380efdfdb7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Krasilowez v. The Queen
+
+- Citation: 2008 TCC 666
+- Decision date: 2008-12-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6750, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Krasilowez v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-12-04
+Neutral citation
+2008 TCC 666
+File numbers
+2007-4140(IT)I
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-4140(IT)I
+BETWEEN:
+IRMGARD KRASILOWEZ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 26, 2008 at Regina, Saskatchewan
+Before: The Honourable Justice G. A. Sheridan
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Cam Regehr
+____________________________________________________________________
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal of the assessment for the 2005 Pre-Bankruptcy Period is dismissed on the basis that the assessment for that year was a nil assessment.
+The appeal of the assessment for the 2005 Post-Bankruptcy Period is allowed and referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to a refund of $360 plus interest.
+Signed at Ottawa, Canada, this 4th day of December, 2008.
+“G. A. Sheridan”
+Sheridan J.
+Citation: 2008TCC666
+Date: 20081204
+Docket: 2007-4140(IT)I
+BETWEEN:
+IRMGARD KRASILOWEZ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] The Appellant became bankrupt on September 23, 2005; accordingly, the Minister of National Revenue assessed her 2005 income under the special provisions in the Income Tax Act applicable to bankruptcy which require separate assessments for the period prior and subsequent to the declaration of bankruptcy.
+[2] The Appellant appealed the assessments of the 2005 Pre-Bankruptcy Period and the 2005 Post-Bankruptcy Period.
+Pre-Bankruptcy Period
+[3] In respect of the 2005 Pre-Bankruptcy Period, the Respondent brought a motion to have the appeal dismissed on the ground that no tax was owed under that assessment. In paragraph 2 of the Notice of Appeal the Appellant pleaded that “… Canada Revenue Agency retained my 2005 pre‑bankruptcy tax refund of $366.25 plus interest of $3.99 as a set‑off…”. This admission was confirmed on cross-examination.
+[4] However, the Appellant argued that the assessment was incorrect in that the Minister ought to have assessed the 2005 taxation year as one 12-month period. In support, she referred the Court to the definition of the word “year” under the Interpretation Act.
+[5] There is no merit to the Appellant’s argument. The provisions of paragraph 128(2)(d) require the Minister to assess tax on each of the Pre‑Bankruptcy Period and Post-Bankruptcy Period:
+(2) Where an individual has become a bankrupt, the following rules are applicable:
+….
+(d) except for the purposes of subsections 146(1), 146.01(4) and 146.02(4) and Part X.1,
+(i) a taxation year of the individual is deemed to have begun at the beginning of the day on which the individual became a bankrupt, and
+(ii) the individual’s last taxation year that began before that day is deemed to have ended immediately before that day;
+These deeming provisions supersede any general provisions in the Interpretation Act.
+[6] Given the Appellant’s admission and that the case law establishes that there can be no appeal from a nil assessment[1], the appeal of the 2005 Pre-Bankruptcy Period is dismissed.
+Post-Bankruptcy Period
+[7] At the commencement of the hearing, counsel for the Respondent advised the Court that the Respondent was prepared to consent to judgment allowing the appeal on the basis that the Appellant was entitled to a refund for the Post‑Bankruptcy Period of $360 plus interest on that amount. The Appellant confirmed that this was the outcome she was seeking in respect of the Post-Bankruptcy Period assessment; however, she was also seeking an order or a direction from the Court requiring the Canada Revenue Agency to pay that amount directly to her.
+[8] Under subsection 171(1) of the Income Tax Act, the Court may dispose of an appeal of an assessment by:
+(a) dismissing it; or
+(b) allowing it and
+(i) vacating the assessment,
+(ii) varying the assessment, or
+(iii) referring the assessment back to the Minister for reconsideration and reassessment.
+[9] From this it is clear that the jurisdiction of the Tax Court of Canada does not extend to the issuing of orders to the Canada Revenue Agency as to how refunds should be made. It goes without saying that the Minister is required to comply with the applicable provisions of the Act in carrying out such duties.
+[10] The appeal of the 2005 Post-Bankruptcy Period is allowed and referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to a refund of $360 plus interest on that amount.
+Signed at Ottawa, Canada, this 4th day of December, 2008.
+“G. A. Sheridan”
+Sheridan, J.
+CITATION: 2008TCC666
+COURT FILE NO.: 2007-4140(IT)I
+STYLE OF CAUSE: IRMGARD KRASILOWEZ AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Regina, Saskatchewan
+DATE OF HEARING: November 26, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice G. A. Sheridan
+DATE OF JUDGMENT: December 4, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Cam Regehr
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Interior Savings Credit Union v. Canada, [2007] 4 C.T.C. 55 (F.C.A.).

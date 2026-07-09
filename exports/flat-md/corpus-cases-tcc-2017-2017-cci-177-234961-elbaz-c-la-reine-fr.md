@@ -1,0 +1,189 @@
+---
+title: "Elbaz c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/234961/index.do"
+last_modified: "2017-09-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 CCI 177"
+citation2: ""
+neutral_citation: "2017 CCI 177"
+decision_date: "2017-09-08"
+language: "fr"
+item_id: "234961"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2196
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:22:42.986000+00:00"
+cases_cited_count: 17
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a875733cab34c0222be0ff002235cc5522d23d5b4c15eead8c967ef9222276a3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Elbaz c. La Reine
+
+- Citation: 2017 CCI 177
+- Decision date: 2017-09-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2196, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Elbaz c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-09-08
+Référence neutre
+2017 CCI 177
+Numéro de dossier
+2015-2825(IT)G
+Juges et Officiers taxateurs
+Guy R. Smith
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2015-2825(IT)G
+ENTRE :
+YANAÏ ELBAZ,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Requête entendue le 13 février 2017, à Montréal (Québec).
+Devant : L'honorable juge Guy R. Smith
+Comparutions :
+Avocat de l'appelant :
+Me Andy Noroozi
+Avocate de l'intimée :
+Me Anne Poirier
+ORDONNANCE
+VU l’avis de requête visant à obtenir la mise en suspens de l’appel de l’appelant devant notre Cour à l’encontre des avis de cotisation établis par l’Agence du revenu du Canada en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2006 à 2011 inclusivement;
+ET vu les observations des parties;
+La requête en mise en suspens est rejetée, selon les motifs de l’ordonnance ci‑joints.
+Signé à Ottawa, Canada, ce 8e jour de septembre 2017.
+« Guy Smith »
+Juge Smith
+Référence : 2017 CCI 177
+Date : 20170908
+Dossier : 2015-2825(IT)G
+ENTRE :
+YANAÏ ELBAZ,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L’ORDONNANCE
+Le juge Smith
+I. Aperçu [1] L’appelant a présenté une requête afin d’obtenir la mise en suspens de son appel à la Cour canadienne de l’impôt (la « Cour ») relativement aux avis de cotisation établis par l’Agence du revenu du Canada (l’« ARC ») en vertu de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.) (la « Loi »), pour les années d’imposition 2006 à 2011 inclusivement.
+[2] L’appelant demande la mise en suspens de l’appel en attendant l’issue d’une procédure pénale visant plusieurs chefs d’accusation liés à ses activités financières. Bien que les accusations aient été déposées contre l’appelant le 14 février 2013, lorsque la présente requête a été entendue, aucune date n’avait encore été fixée pour le procès pénal.
+[3] Après avoir examiné la requête en sursis, à laquelle s’oppose l’intimée, je suis d’avis que l’instance devant la Cour ne doit pas être suspendue.
+II. La nature de l’appel fiscal [4] Afin de situer la question précise à laquelle doit maintenant répondre la Cour dans le contexte plus large des avis de cotisation établis par l’ARC, notons tout d’abord que les avis de cotisation s’appuient sur le paragraphe 152(7) de la Loi, qui prévoit que « le ministre n’est pas lié par les déclarations ou renseignements fournis par un contribuable » et qu’« il peut, indépendamment de la déclaration ou des renseignements ainsi fournis […] fixer l’impôt à payer en vertu de la présente partie ». Si tel est le cas, la cotisation est réputée « être valide et exécutoire » conformément au paragraphe 152(8) de la Loi.
+[5] De cette manière, l’ARC peut déterminer l’impôt du contribuable dont l’actif ne semble pas correspondre au revenu déclaré en se fondant sur la valeur nette de l’actif. Lorsqu’il établit une cotisation aux termes du paragraphe 152(7) de la Loi, le ministre n’est pas obligé d’identifier la source du revenu ou la provenance du patrimoine qui constitue le fondement de la cotisation établie selon la méthode de l’avoir net : Boroumand c. La Reine, 2015 CCI 239, par. 69; Hsu c. La Reine, 2001 CAF 240, par. 3; et Molenaar c. La Reine, 2004 CAF 349, au par. 4 :
+[4] À partir du moment où le ministère établit selon des données fiables un écart, substantiel dans le cas présent, entre les actifs d'un contribuable et ses dépenses et où cet écart demeure inexpliqué et inexplicable, le ministère a assumé son fardeau de preuve. Il appartient alors au contribuable d'identifier la source et d'établir la nature non imposable de ses revenus.
+[6] Il incombera par conséquent à l’appelant de réfuter le bien‑fondé des hypothèses du ministre en identifiant les différentes sources de son revenu ou la provenance de son patrimoine.
+[7] C’est donc dans le contexte d’une cotisation fondée sur l’avoir net que se situent les revendications et la requête en sursis de l’appelant.
+[8] A l’appui de sa requête, l’appelant indique que les infractions pénales qui lui sont reprochées visent quatre des six années en cause dans le présent appel et il prétend que la question de l’existence d’une source de revenu sera soulevée dans les deux instances. Selon lui, il y a donc un lien factuel et temporel entre les deux instances.
+[9] Il ajoute que l’obligation de « témoigner sur des faits liés de près ou de loin aux accusations criminelles dont [il] fai[t] l’objet » (avis de requête, déclaration sous serment, par. 6) portera atteinte à son droit au silence et qu’il en subira un préjudice, puisqu’il a l’intention de se prévaloir de ce droit lors de la poursuite pénale.
+[10] L’appelant soutient par ailleurs que « [s]on témoignage ne sera protégé par aucune garantie procédurale et pourrait être utilisé contre [lui] dans le cadre des procédures criminelles » (avis de requête, déclaration sous serment, par. 7). Étant donné l’absence de garantie procédurale, il serait alors forcé de choisir entre son droit au silence dans l’instance pénale et son droit d’appel à notre Cour.
+[11] Finalement, l’appelant prétend que, nonobstant les dispositions légales (qui seront examinées ci‑dessous) qui visent à éviter que son témoignage soit utilisé contre lui dans une autre instance (en l’occurrence, la poursuite pénale), s’il y a le moindre risque d’un préjudice, notre Cour devrait exercer son pouvoir discrétionnaire et accorder le sursis.
+III. Le fardeau de la preuve [12] L’appelant soutient également qu’un appel devant notre Cour déclenche un fardeau de la preuve plus onéreux que celui d’un simple procès civil, étant donné la présomption de validité de la cotisation (comme il est expliqué ci‑haut).
+[13] Il ne fait aucun doute que l’appelant sera obligé de témoigner (ou du moins de citer des témoins à comparaître) et de fournir des éléments de preuve afin de convaincre la Cour du bien‑fondé de ses prétentions et de « démolir » ainsi les hypothèses de fait sur lesquelles les avis de cotisation sont fondées, à défaut de quoi les cotisations seront confirmées » : Hickman Motors Ltd. c. Canada, [1997] 2 R.C.S. 336, par. 92. Telle est la nature même d’un litige fiscal. La question est alors de savoir si, ce faisant, l’appelant en subira un préjudice.
+IV. Le droit applicable [14] La jurisprudence de la Cour sur la question de la suspension temporaire des procédures n’est pas abondante, peut-être parce qu’après le consentement des parties, les décisions ont été rendues sans être publiées.
+[15] Avant toute analyse d’une requête en sursis d’instance, la Cour doit d’abord déterminer s’il existe un lien réel entre les deux litiges mettant en cause le contribuable. Si tel est le cas, la Cour mènera l’analyse du bien‑fondé de la requête en sursis d’instance tout en sachant qu’il s’agit là « [d’]une mesure discrétionnaire extraordinaire qui doit être fondée sur des raisons impérieuses » : Imperial Oil Limited c. La Reine, 2003 CCI 46, par. 50, et Gregory c. La Reine, [2001] A.C.I. no 50 (QL) (C.C.I.).
+[16] Dans l’affaire Obonsawin c. La Reine, 2004 CCI 3, l’appelant avait intenté une poursuite en dommages‑intérêts à la Cour supérieure de justice de l’Ontario en alléguant un abus de pouvoir ou un abus de procédure de la part de l’ARC. Il avait alors demandé à notre Cour de suspendre son appel en attendant la décision de la Cour supérieure. Le juge C. Miller s’est exprimé ainsi :
+[17] Au moment de décider de l'opportunité d'accorder une suspension - même une suspension temporaire comme en l'espèce -, il faut d'abord et avant tout se préoccuper de la meilleure façon de servir les intérêts de la justice. Cela est particulièrement difficile lorsque des instances sont en cours devant deux tribunaux de compétence concurrente. Moins les compétences se chevauchent, moins la situation est problématique. Dans la présente affaire, la CSJO a manifestement la compétence exclusive d'entendre les demandes de dommages‑intérêts fondées sur le droit public qui sont présentées dans le cadre d'actions en responsabilité délictuelle. Comme je l'ai mentionné plus haut, la Cour canadienne de l'impôt a compétence exclusive pour instruire les questions de fond en matière fiscale. Il n'y a pas de chevauchement entre la compétence de la Cour canadienne de l'impôt et celle de la CSJO : les questions soumises à l'examen de chacun des deux tribunaux sont entièrement distinctes.
+[Non souligné dans l’original]
+[17] Le juge C. Miller s’est ensuite demandé si la poursuite de l’appel causait un préjudice à l’appelant (ce qu’il a présenté comme étant une condition essentielle) et, dans l’affirmative, s’il en résulterait aussi un préjudice pour la partie adverse. À supposer que la Cour soit d’avis que les deux parties subiraient un préjudice, il faudrait alors tenir compte de divers « facteurs comme les inconvénients, les dépenses, le droit applicable à l'opération, le lieu où se trouvaient les parties ainsi que les circonstances particulières de l’affaire » (par. 20).
+[18] Le juge C. Miller a de nouveau examiné une requête en sursis dans Blackmore c. La Reine, [2012] 3 C.T.C. 2010. Dans cette affaire, le contribuable avait demandé le sursis de son appel fiscal en alléguant qu’il serait [TRADUCTION] « obligé de répondre à des questions compromettantes qui pourraient ensuite être utilisées contre lui dans une procédure pénale » (par. 45). À cet égard, le juge C. Miller a conclu que le risque d’un préjudice était peu élevé et que l’appelant bénéficierait de la protection [TRADUCTION] « des dispositions de la Charte [canadienne des droits et libertés] et de la Loi sur la preuve » (par. 52). D’autre part, il a expliqué qu’un sursis de l’appel fiscal causerait un préjudice à la Couronne et à [TRADUCTION] « l’administration de la justice » (par. 55).
+[19] Il y a quelques décisions pertinentes de la Cour d’appel fédérale qu’il faut examiner dans le présent appel, mais je vais d’abord examiner certaines décisions portées à l’attention de la Cour par l’intimée où il était question de suspendre une instance civile en attendant la conclusion d’une procédure pénale.
+[20] Dans l’affaire Obadia c. Sam Levy & associés inc., 1997 CanLII 10483 (C.A. QC), l’appelant avait demandé le sursis d’une procédure en faillite en alléguant que son droit à un procès équitable en matière pénale risquait d’être mis en péril. Quant aux prétentions de l’appelant, la Cour d’appel du Québec a affirmé ce qui suit :
+[11] À l'audience, l'avocat des appelants reconnaît qu'il appartient à ceux‑ci de faire la démonstration du risque de mise en péril du droit à un procès équitable. À cette fin, la Cour est d'avis que des allégations d'ordre général ne suffisent pas et qu'il incombe à celui qui demande la suspension, même si les instances sont reliées par des contextes factuels identiques, de préciser des motifs démontrant le préjudice dans la conduite de la défense au criminel.
+[…]
+[16] En bref, la règle n'est toujours pas la suspension et celui qui la requiert doit démontrer que les circonstances risquent de mettre en péril son droit à un procès équitable au criminel. La simple possibilité de dévoilement de la défense n'est pas en soi suffisante et ne confère pas aux circonstances le caractère exceptionnel nécessaire. Enfin il convient dans ces cas, de citer l'article 11 du Code criminel :
+Aucun recours civil pour un acte ou une omission n'est suspendu ou atteint du fait que l'acte ou omission constitue une infraction criminelle.
+et de considérer comme en l'espèce, que le but des procédures en faillite n'est pas d'obtenir de la preuve pour l'instance criminelle mais bien pour la fin légitime de poursuivre la réalisation des actifs du failli.
+[Non souligné dans l’original]
+[21] Par la suite, la Cour du Québec s’est appuyée sur la décision Obadia, précitée, dans la décision Aviva Compagnie d’assurance du Canada c. Barbeau, 2011 QCCQ 15355, où la Cour a aussi refusé une demande de sursis de l’instance civile en attendant la conclusion des procédures pénales. Après avoir revu les motifs de l’appelant, et s’appuyant sur la décision Obadia, précitée, la Cour a indiqué que :
+[8] En somme, le procès au civil et celui au criminel procèdent d'une manière indépendante et « fonctionnent de façon parallèle ». Comme la règle bien connue, le criminel ne tient pas le civil en état. Pour obtenir la suspension de l'instance civile, le requérant ne peut donc pas simplement présenter une série d'allégations générales, théoriques ou imprécises. Il doit faire la démonstration que ses droits fondamentaux risquent d'être mis en péril dans le procès criminel si la suspension de l'instance civile n'est pas accordée.
+[9] En l'espèce, tant en ce qui concerne la demande de suspension de l'instance qu'à l'égard des conclusions subsidiaires, le Tribunal estime que la requête du défendeur ne satisfait pas aux règles se dégageant de la jurisprudence. En réalité, dans l'état actuel des choses, les éléments que soulève le défendeur participent avant tout de l'expression hypothétique ou théorique d'une crainte, sans que soit établi le risque réel dont il pourrait souffrir.
+[Non souligné dans l’original]
+[22] Dans la décision Bergeron c. Tremblay, 2012 QCCA 1301 (« Bergeron »), le requérant cherchait à suspendre son interrogatoire après défense dans une instance civile, car il estimait que les mesures imposées par le juge de première instance afin de protéger ses droits étaient insuffisantes et qu’il existait un « risque important que des informations puissent être divulguées ». La Cour d’appel du Québec a cependant jugé que les mesures étaient suffisantes pour protéger les droits fondamentaux du requérant :
+[8] Selon l’article 11 du Code criminel, aucun recours civil pour un acte ou une omission n’est suspendu ou atteint du fait que l’acte ou l’omission constitue une infraction criminelle. Par conséquent, la règle veut que « le criminel ne tient pas le civil en état » et pour faire exception à cette règle, le requérant doit démontrer que, sans la suspension de l’instance civile, ses droits fondamentaux à une défense pleine et entière seraient nécessairement menacés ou compromis.
+[9] En principe, les droits du requérant dans les procédures criminelles intentées contre lui sont protégés par les dispositions constitutionnelles des articles 7, 11 et 13 de la Charte canadienne des droits et libertés. La jurisprudence actuelle de la Cour suprême reconnaît notamment trois garanties procédurales en matière d’auto‑incrimination afin d’éviter qu’un témoignage que doit rendre l’accusé dans une affaire civile ne puisse ensuite être utilisé contre lui dans les procédures criminelles :
+L’immunité contre l’utilisation de la preuve empêche que le témoignage incriminant qu’un individu a été contraint de livrer soit utilisé directement contre lui dans une instance ultérieure. L’immunité contre l’utilisation de la preuve dérivée empêche que le témoignage incriminant qu’un individu a été contraint de livrer serve à obtenir d’autres éléments de preuve, sauf si ces éléments de preuve peuvent être découverts par d’autres moyens. L’exemption constitutionnelle confère une forme de droit absolu de ne pas témoigner lorsque les procédures engagées visent ou servent essentiellement à recueillir des éléments de preuve qui permettront de poursuivre le témoin. Ensemble, ces garanties nécessaires établissent les paramètres à l’intérieur desquels un témoignage incriminant peut être obtenu.
+[Non souligné dans l’original]
+[23] Aux décisions qui ont été portées à l’attention de la Cour, j’ajouterais Ludmer c. Procureur général du Canada et Agence du revenu du Canada, 2015 QCCS 1218; Ungava Mineral Exploration Inc. c. Procureure générale du Québec, 2016 QCCS 4711, et plus récemment Gravel c. Agence du revenu du Québec, 2016 QCCS 3578 (« Gravel »), où la Cour a conclu qu’il n’y avait pas lieu de suspendre les procédures, puisque « les objectifs d’accessibilité à la justice et de célérité des recours militent en faveur du refus de la suspension de l’instance » (par. 40).
+[24] Afin de compléter mon analyse jurisprudentielle, je vais maintenant revoir les décisions pertinentes de la Cour d’appel fédérale.
+[25] Dans Jolly Farmer Products Inc. c. La Reine, 2007 CAF 8, plusieurs actionnaires avaient demandé la suspension de leur appel en attendant la conclusion de l’un des appels mettant en cause la société. En première instance, la Cour avait ordonné que les appels des actionnaires soient entendus immédiatement après celui de la société et que tous les interrogatoires préalables soient terminés avant une certaine date.
+[26] La décision a été portée devant la Cour d’appel fédérale et le juge en chef Richard (tel était alors son titre) a noté qu’il s’agissait d’un appel d’une décision interlocutoire portant sur une question de procédure et non sur une question de fond mettant en cause les actionnaires et la société. Il a ajouté :
+[13] Le critère pertinent à appliquer à une demande de sursis est mentionné dans RJR‑MacDonald Inc. c. Canada (P.G.), [1994] 1 R.C.S. 311. Il incombe aux appelants de démontrer qu’il y a une question sérieuse à trancher, qu’ils subiraient un préjudice irréparable et que la prépondérance des inconvénients milite en faveur de l’octroi d’un sursis.
+[Non souligné dans l’original]
+[27] La Cour a ensuite examiné chaque élément de l’analyse avant de conclure qu’elle devait rejeter la requête en sursis. Elle a ajouté qu’il était « également dans l’intérêt public que les procédures judiciaires soient effectuées dans un délai raisonnable » (par. 24).
+[28] Plus récemment, dans Mylan Pharmaceuticals ULC c. AstraZeneca Canada, Inc., 2011 CAF 312 (« Mylan »), l’intimée avait demandé la suspension de l’appel devant la Cour d’appel fédérale jusqu’à ce que la Cour suprême du Canada se prononce dans un pourvoi mettant en cause différentes sociétés pharmaceutiques. La demande de suspension a été rejetée.
+[29] À la Cour d’appel fédérale, le juge Stratas a indiqué qu’il fallait distinguer une situation où l’on « interdit à un autre organisme d’aller de l’avant et d’exercer les pouvoirs que lui a conférés le législateur et qu’il exerce habituellement » d’une situation « où la Cour décide de n’exercer sa compétence que plus tard » (par. 5). Dans le premier cas, il faut satisfaire aux critères énoncés par la Cour suprême du Canada dans RJR‑MacDonald, précité.
+[30] Cependant, selon le juge Stratas, lorsque qu’il est question de reporter l’audience à une date ultérieure, il n’est plus nécessaire d’appliquer ces critères rigides :
+[5] […] Lorsqu'elle choisit cette voie, la Cour exerce un pouvoir qui n'est pas sans ressembler à l'établissement d'un calendrier ou à l'ajournement d'une affaire. Ce genre de décision repose sur des considérations discrétionnaires d'ordre général. Il y a les considérations d'intérêt public — la nécessité que les instances se déroulent équitablement et avec célérité —, mais il s'agit, sur le plan qualitatif, d'un facteur différent des considérations d'intérêt public qui s'appliquent lorsque la Cour interdit à un autre organisme de faire ce que le législateur l'autorise à faire. Par conséquent, les critères rigoureux énoncés dans l'arrêt RJR‑MacDonald ne s'appliquent pas dans un tel cas. Cela ne signifie pas que la Cour reportera une affaire de manière inconsidérée. Tout dépend des circonstances factuelles présentées à la Cour. Dans certains cas, il sera difficile de persuader la Cour, comme lorsque le délai demandé est long ou qu'il entraînera de lourdes conséquences pour une partie ou le grand public. Dans d'autres cas, il sera plus facile de la convaincre.
+[6] La conclusion voulant que le critère fixé dans l'arrêt RJR‑MacDonald ne s'applique pas lorsque la Cour choisit de n'exercer sa compétence qu'à une date ultérieure est étayée par d'autres décisions de notre Cour : Boston Scientifique Ltée c. Johnson & Johnson Inc., 2004 CAF 354; Epicept Corporation c. Ministre de la Santé, 2011 CAF 209.
+[Non souligné dans l’original]
+[31] Après avoir conclu qu’il n’existait pas de lien direct entre le pourvoi à la Cour d’appel fédérale et celui à la Cour suprême du Canada, la Cour d’appel fédérale a rejeté la demande de suspension. Selon le juge Stratas, la nécessité d’un « lien très direct entre les questions en litige » (par. 19) vient du fait qu’un long retard pourrait précéder la décision de la Cour suprême, et qu’il était même possible que la Cour suprême ne se prononce jamais sur la question précise qui intéressait l’intimée devant la Cour fédérale.
+[32] Il découle de l’examen de la jurisprudence que la demande de suspension « repose sur des considérations discrétionnaires d’ordre générale » (Mylan, par. 5) et que la Cour doit notamment se demander si, « eu égard à l’ensemble des circonstances, l’intérêt de la justice justifie que l’appel soit retardé » (Mylan, par. 14).
+[33] En fin de compte, la suspension d’une procédure est l’exception et non la règle, et le critère dominant demeure le meilleur intérêt de la justice (Gravel, par. 15).
+V. Analyse et conclusion [34] L’appelant prétend qu’il existe un lien factuel et temporel entre les deux litiges. Il est néanmoins indéniable que notre Cour a compétence exclusive quant à l’interprétation de la Loi et que sa compétence en la matière ne chevauche en rien celle de la Cour du Québec quant aux procédures pénales. De plus, comme l’indique l’arrêt Obadia, précité, aux par. 11 et 16, l’appel à notre Cour et la procédure pénale peuvent procéder d’une manière indépendante et de façon parallèle « même si les instances sont reliées par des contextes factuels identiques » (voir aussi R. c. Jarvis, 2002 CSC 73, [2002] 3 R.C.S. 757, par. 97).
+[35] Quant à la question du fardeau de la preuve, je n’accepte pas les prétentions de l’appelant, qui s’appuie sur la décision Mascouche (Ville) c. Houle, 1999 CanLII 13256 (C.A. QC), pour dire que la présomption de la validité des cotisations dont découle son obligation de fournir des éléments de preuve afin de démolir les hypothèses du ministre lui cause un préjudice particulièrement grave. Le fardeau de la preuve est celui d’une instance civile. Il s’agit de convaincre la Cour selon la prépondérance des probabilités, ce qui est la norme pour tous les appels devant notre Cour.
+[36] De plus, je ne suis pas convaincu que l’obligation de témoigner dans la présente instance portera atteinte au droit de l’appelant de ne pas témoigner dans l’instance pénale. J’en arrive à cette conclusion parce que les droits de l’appelant seront « protégés par les dispositions constitutionnelles des articles 7, 11 et 13 de la Charte canadienne des droits et libertés » et que la jurisprudence reconnaît plusieurs « garanties procédurales en matière d’auto‑incrimination afin d’éviter qu’un témoignage que doit rendre l’accusé dans une affaire civile ne puisse ensuite être utilisé contre lui dans les procédures criminelles » : Bergeron, par. 9.
+[37] L’appelant a porté à l’attention de la Cour la décision de R. c. Nedelcu, 2012 CSC 59, [2012] 3 R.C.S. 311, dans laquelle la Cour suprême a indiqué qu’un témoignage donné lors d’un interrogatoire préalable dans une procédure civile antérieure ne peut servir à « démontrer la culpabilité du témoin, c’est‑à‑dire pour prouver […] l’un ou plusieurs des éléments constitutifs de l’infraction reprochée au témoin lors de son procès ultérieur » (par. 9). La Cour suprême a précisé que le témoignage antérieur pouvait cependant servir à « attaquer la crédibilité du témoin » (par. 11) si celui-ci choisissait de témoigner à son procès pénal, ce qui est distinct de la détermination de sa culpabilité. À mon avis, cette décision ne fait que confirmer le principe voulant qu’un témoignage antérieur ne puisse servir à établir la culpabilité du témoin dans son procès pénal.
+[38] Je n’accepte pas, pour les mêmes raisons, que la Cour devrait ordonner la suspension des procédures dès qu’il existe le moindre risque qu’un élément de preuve soit dévoilé. Il ressort de la jurisprudence sur cette question qu’un tribunal en matière pénale a les moyens de protéger les droits d’un accusé et, en l’occurrence, ceux de l’appelant.
+[39] Avant de conclure, je rappelle qu’un juge de première instance peut toujours imposer des mesures supplémentaires (par exemple, ordonnance de confidentialité et mise sous scellés) afin de « protéger davantage le droit d’un accusé à un procès équitable et à une défense pleine et entière » : Bergeron, précité, par. 4 et 10, et Ménard c. Matteo, 2012 QCCS 4899, par. 26 à 28.
+[40] Bien que Monsieur Elbaz n’ait pas réclamé des mesures accessoires lors de la présente requête en sursis, rien n’empêche qu’il en fasse la demande, au moment opportun, en s’adressant au juge de première instance.
+[41] À mon avis, l’appelant n’a pas su convaincre la Cour du bien‑fondé de sa requête en sursis, et ainsi, pour l’ensemble de ces motifs, la requête est rejetée.
+Signé à Ottawa, Canada, ce 8e jour de septembre 2017.
+« Guy Smith »
+Juge Smith
+RÉFÉRENCE :
+2017 CCI 177
+Nº DU DOSSIER DE LA COUR :
+2015-2825(IT)G
+INTITULÉ:
+YANAÏ ELBAZ c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Le 13 février 2017
+MOTIFS DE L’ORDONNANCE
+PAR :
+L'honorable juge Guy R. Smith
+DATE DE L’ORDONNANCE :
+Le 8 septembre 2017
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Andy Noroozi
+Avocate de l'intimée :
+Me Anne Poirier
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant:
+Nom :
+Me Andy Noroozi
+Cabinet :
+Starnino Mostovac
+Montréal (Québec)
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

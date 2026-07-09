@@ -1,0 +1,212 @@
+---
+title: "P.R. Investments Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27366/index.do"
+last_modified: "2006-12-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 686"
+citation2: ""
+neutral_citation: "2006 CCI 686"
+decision_date: "2006-12-18"
+language: "fr"
+item_id: "27366"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 188
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:27:16.814000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9c2c29bcbffa35c3c40797f1703e269bef71663d95b2ab9b38d6c184991d810b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# P.R. Investments Inc. v. The Queen
+
+- Citation: 2006 CCI 686
+- Decision date: 2006-12-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 188, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+P.R. Investments Inc. v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-12-18
+Référence neutre
+2006 CCI 686
+Numéro de dossier
+2006-1650(GST)I
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2006-1650(GST)I ENTRE :
+P.R. INVESTMENTS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appel entendu le 11 décembre 2006 à Regina (Saskatchewan)
+Devant : L’honorable juge D.W. Beaubier
+Comparutions :
+Avocat de l’appelante :
+Me Gregory A. Swanson
+Avocate de l’intimée :
+Me Penny L. Piper
+____________________________________________________________________
+JUGEMENT
+Conformément aux motifs du jugement ci-joints, l’appel à l’égard d’une cotisation établie en vertu de la Loi sur la taxe d’accise, dont l’avis est daté du 26 mai 2006, est rejeté.
+Signé à Yorkton (Saskatchewan) ce 18e jour de décembre 2006.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 11e jour de février 2008.
+Jean-François Leclerc-Sirois, LL.L, LL.B.
+Référence : 2006CCI686
+Date : 20061218
+Dossier : 2006-1650(GST)I
+ENTRE :
+P.R. INVESTMENTS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge Beaubier
+[1] Le présent appel, interjeté sous le régime de la procédure informelle, a été entendu le 11 décembre 2006 à Regina (Saskatchewan). L’appelante a fait témoigner Wade Probe, un des membres de son conseil d’administration, et Nigel Crook, son comptable agréé. L’intimée a fait témoigner l’agent des appels chargé du dossier, Trevor Schneider, comptable général licencié.
+[2] L’objet de l’appel est résumé aux paragraphes 11 à 21 de la réponse à l’avis d’appel. Ces paragraphes sont rédigés en ces termes :
+[traduction]
+11. Lorsqu’il a établi la cotisation de taxe nette à l’égard de l’appelante pour la période pertinente, le ministre a tenu compte de la taxe percevable non déclarée quant à des honoraires de gestion reçus par l’appelante, décrits avec plus de détails ci‑après :
+période de déclaration
+honoraires de gestion
+taxe percevable
+31-12-2000
+43 000,00
+3 010,00
+31-12-2001
+53 000,00
+3 710,00
+31-12-2002
+24 050,00
+1 683,50
+120 050,00
+8 403,50
+12. L’appelante s’est opposée à la cotisation au moyen d’un avis d’opposition daté du 15 décembre 2004. Elle a contesté la cotisation établie à l’égard de la taxe percevable non déclarée quant aux honoraires de gestion reçus ou à recevoir au cours de la période pertinente.
+13. Le ministre a confirmé la cotisation par un avis de décision daté du 27 février 2006.
+14. L’appelante a déposé un appel à la Cour de l’impôt le 26 mai 2006 et l’a signifié au ministre le 21 juin 2006. Elle a contesté la cotisation au titre de taxe percevable non déclarée pour les honoraires de gestion décrits au paragraphe 11 ci-avant.
+15. Pour établir la cotisation au titre de taxe percevable non déclarée et pour confirmer la cotisation, le ministre s’est fondé sur les hypothèses de fait suivantes :
+a) l’appelante est une société constituée en vertu des lois de la Saskatchewan;
+b) au cours de la période pertinente, 50 % des actions de l’appelante étaient détenues par Wade Probe (« Wade ») et l’autre 50 % par Tim Probe (« Tim »);
+c) Wade, Tim et Barrie Probe (« Barrie ») sont frères;
+d) tout au long de la période pertinente, l’appelante a été propriétaire d’immeubles contenant des locaux commerciaux et des unités d’habitation;
+e) durant la période pertinente, l’appelante a loué des biens immobiliers à usage commercial, a offert des services de gestion immobilière et des services de construction;
+f) les fournitures mentionnées à l’alinéa précédent étaient taxables à un taux de 7 %;
+g) lors de la période pertinente, l’appelante louait aussi les unités d’habitation se trouvant dans les immeubles dont elle était propriétaire;
+h) l’appelante était un inscrit aux termes de la Loi sur la taxe d’accise (la « Loi »);
+i) pendant la période pertinente, l’appelante a fourni des services de gestion immobilière aux personnes liées (le « groupe lié ») suivantes :
+(i) Probe Investments, une société de personnes composée de Tim, de Barrie et de Wade,
+(ii) Tim, à titre de propriétaire d’une entreprise individuelle,
+(iii) Innsbrook Apartments Inc., dont Wade est l’unique actionnaire,
+(iv) Pro-Braun Enterprises Ltd., dont Wade est l’unique actionnaire,
+(v) St. Joe’s Holding Ltd. (selon l’avis d’appel, Barrie et Bonnie Probe – l’épouse de Barrie – sont les actionnaires et les administrateurs de cette société);
+j) le groupe lié et l’appelante étaient propriétaires d’unités d’habitation à usage locatif (les « unités ») dans au moins 14 immeubles d’habitation à usage locatif (les « immeubles ») dans la province de la Saskatchewan;
+k) dans le cadre de sa prestation de services de gestion immobilière au groupe lié, l’appelante :
+(i) a loué les unités se trouvant dans les immeubles;
+(ii) a assuré l’entretien et la réparation des immeubles et de leurs unités;
+(iii) a mené la collecte des loyers auprès des locataires des immeubles;
+(iv) a déboursé des frais relatifs aux immeubles, notamment des frais liés à l’entretien et aux réparations, aux services publics, aux taxes municipales, aux permis, aux assurances, à l’amélioration des immobilisations et aux salaires;
+(v) a établi les états des revenus et dépenses pour les immeubles dont les membres du groupe lié étaient propriétaires;
+l) les services de gestion immobilière fournis par l’appelante au groupe lié sont des fournitures taxables à un taux de 7 %;
+m) aucun des membres du groupe lié n’était un inscrit aux fins de la TPS;
+n) les membres du groupe lié n’avaient pas droit aux crédits de taxe sur les intrants à l’égard de la taxe payable relativement aux services de gestion immobilière fournis par l’appelante;
+o) l’appelante a inscrit dans ses registres les contreparties, décrites comme des honoraires de gestion, reçues pour les services de gestion immobilière pour lesquels de la taxe était percevable comme suit :
+période de déclaration
+honoraires de gestion
+taxe
+percevable
+31-12-2000
+43 000,00
+3 010,00
+31-12-2001
+53 000,00
+3 710,00
+31-12-2002
+24 050,00
+1 683,50
+120 050,00
+8 403,50
+p) l’appelante était tenue de percevoir au moins 8 403,50 $ de taxe pour les services de gestion fournis au groupe lié et d’en rendre compte;
+q) l’appelante était tenue de produire ses déclarations sur une base trimestrielle, la fin de l’exercice étant le 31 janvier;
+r) l’appelante a omis de déclarer les 8 403,50 $ de taxe percevable en ce qui concerne les services de gestion immobilière qu’elle a fournis au groupe lié pendant la période pertinente et d’en rendre compte.
+B. QUESTION EN LITIGE
+16. Dans le présent appel, la question est de savoir si, en établissant la cotisation de taxe nette à l’égard l’appelante pour la période pertinente, le ministre a eu raison de tenir compte de la taxe percevable non déclarée, d’un montant de 8 403,50 $, se rapportant aux services de gestion qu’elle a fournis.
+C. DISPOSITIONS LÉGISLATIVES, MOYENS INVOQUÉS ET CONCLUSIONS RECHERCHÉES
+17. Il se fonde sur les paragraphes 123(1), 221(1) et 225(1) et sur les articles 126, 152, 155, 165, 168, 169, 228, 238, 280, 281.1 et 296 de la Loi sur la taxe d’accise, L.R.C. (1985), ch. E-15, dans a forme modifiée (la « Loi »); sur le Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants, DORS/91-45, et sur l’article 18.3009 de la Loi sur la Cour canadienne de l’impôt.
+18. Il soutient que l’appelante a fait une fourniture taxable de services de gestion immobilière au groupe liée en échange d’une contrepartie égale au montant des honoraires de gestion qu’elle a reçus et inscrits dans ses registres, comme l’indique le paragraphe 11 de la présente réponse.
+19. Il soutient aussi que les services de gestion fournis au groupe lié étaient taxables à un taux de 7 % et que l’appelante était tenue de percevoir les 8 403,50 $ de taxe percevable pour la période pertinente et d’en rendre compte, comme l’indique le paragraphe 11 de la présente réponse.
+20. Par conséquent, il soutient que le ministre a correctement établi la cotisation à l’égard de l’appelante en ce qui concerne la taxe percevable non déclarée, en vertu des articles 165, 168, 228, 296 et des paragraphes 221(1) et 225(1) de la Loi.
+21. De plus, si l’appelante affirmait ne pas avoir reçu de contrepartie en échange des services de gestion, ce qui n’est pas admis mais bien nié, il soutient que l’appelante a fourni des services de gestion à des personnes liées. Ces personnes n’étaient pas des inscrits aux fins de la TPS et elles n’avaient pas droit aux crédits de taxe sur les intrants. Conformément aux articles 126 et 155 de la Loi, l’appelante est réputée avoir reçu une contrepartie équivalente à la juste valeur marchande des services de gestion. Il soutient que la juste valeur marchande de ces services est au moins équivalente aux honoraires de gestion inscrits par l’appelante dans ses registres et pour lesquels de la taxe est percevable, comme l’indique le paragraphe 11 de la présente réponse.
+[3] Les hypothèses 15 a) à j) et l) à r) n’ont pas été réfutées ou ont été confirmées par la preuve. En ce qui concerne l’hypothèse k), les alinéas (i) et (ii) sont vrais quant aux unités et aux immeubles de l’appelante; l’alinéa (iii) est vrai, mais c’était le gardien de deux appartements situés à Moose Jaw qui faisait la collecte des loyers pour ensuite les remettre à l’appelante; les alinéas (iv) et (v) sont vrais.
+[4] Les états financiers de l’appelante indiquent que les [traduction] « honoraires de gestion » dont il est question dans la cotisation correspondent aux [traduction] « revenus d’honoraires de gestion ». Les loyers provenant de toutes les unités locatives appartenant aux divers propriétaires étaient versés à l’appelante. Selon le témoignage de Wade Probe, les « revenus d’honoraires de gestion » étaient versés aux autres entités pour acquitter diverses menues dépenses non consignées attribuables à des réparations, à de l’assurance et ainsi de suite. Toutefois :
+1. Autant les réparations que l’assurance ont des rubriques dans les états financiers présentés à la Cour. Lors des témoignages de Nigel et de Wade, ces états ont étés reconnus comme étant fondamentalement similaires à ceux qu’avait établis ce dernier.
+2. L’appelante n’a pas présenté de reçus, de factures ni de chèques ou de relevés de transaction des autres entités à l’égard des prétendues menues dépenses engagées par ces dernières.
+3. L’appelante et ces autres entités étaient soit des personnes morales, soit des entreprises dotées d’un statut juridique constituées à des fins commerciales ou fiscales. Pour cette raison, elles ont l’obligation de tenir des registres convenables. Leur statut commercial leur a conféré des avantages; elles doivent aussi en assumer les obligations, y compris celle de fournir des reçus adéquats et celle de tenir des registres convenables que leur impose l’article 286 de la Loi sur la taxe d’accise.
+[5] Par conséquent, l’appel est rejeté pour le motif que la cotisation est conforme aux registres de l’appelante et que celle-ci n’a fourni aucun reçu ni document lui permettant de réfuter ses propres registres et pièces justificatives qui ont servi de fondement à l’établissement de la cotisation. Dans de telles circonstances, et en l’absence de tels éléments, la simple preuve par témoignage ne peut être acceptée. L’appelante n’a pas su se décharger du fardeau qui lui incombait : celui de réfuter les hypothèses du ministre.
+Signé à Yorkton (Saskatchewan) ce 18e jour de décembre 2006
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 11e jour de février 2008.
+Jean-François Leclerc-Sirois, LL.L, LL.B.
+RÉFÉRENCE :
+2006CCI686
+Nº DU DOSSIER DE LA COUR :
+2006-1650(GST)I
+INTITULÉ :
+P.R. Investments Inc. et
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Regina (Saskatchewan)
+DATE DE L’AUDIENCE :
+Le 11 décembre 2006
+MOTIFS DU JUGEMENT :
+L’honorable juge D.W. Beaubier
+DATE DU JUGEMENT :
+Le 18 décembre
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Gregory A. Swanson
+Avocate de l’intimée :
+Me Penny L. Piper
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Gregory A. Swanson
+Cabinet :
+Robertson Stromberg Pedersen LLP
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Canada)

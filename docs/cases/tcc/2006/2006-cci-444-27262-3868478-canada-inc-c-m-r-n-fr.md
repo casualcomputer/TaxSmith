@@ -1,0 +1,277 @@
+---
+title: "3868478 Canada Inc. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27262/index.do"
+last_modified: "2006-08-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 444"
+citation2: ""
+neutral_citation: "2006 CCI 444"
+decision_date: "2006-08-04"
+language: "fr"
+item_id: "27262"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 803
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:50:30.310000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9125d919312f4d6d9bedc4dc26ce47306190fd8673e8ccb376cf86ab8b2092d6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 3868478 Canada Inc. c. M.R.N.
+
+- Citation: 2006 CCI 444
+- Decision date: 2006-08-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 803, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+3868478 Canada Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-08-04
+Référence neutre
+2006 CCI 444
+Numéro de dossier
+2005-1427(EI)
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+No de dossier : 2005-1427(EI)
+ENTRE :
+3868478 CANADA INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+3868478 Canada Inc. (2005-1429(CPP)) à Toronto (Ontario), le 25 juillet 2006.
+Devant : M. le juge en chef D.G.H. Bowman
+Comparutions :
+Représentant de l’appelante :
+Dr R.J. Barakauskas
+Avocat de l’intimé :
+Me Aleksandrs Zemdegs
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté en vertu du paragraphe 103(1) de la Loi sur l’assurance‑emploi pour la période du 2 janvier 2003 au 29 novembre 2004 est rejeté.
+Signé à Ottawa, Canada, ce 4e jour d’août 2006.
+« D.G.H. Bowman »
+Juge en chef Bowman
+Traduction certifiée conforme
+ce 31e jour de mai 2007.
+Maurice Audet, réviseur
+No de dossier : 2005-1429(CPP)
+ENTRE :
+3868478 CANADA INC.
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+3868478 Canada Inc. (2005-1427(EI)) à Toronto (Ontario), le 25 juillet 2006.
+Devant : M. le juge en chef D.G.H. Bowman
+Comparutions :
+Représentant de l’appelante :
+Dr R.J. Barakauskas
+Avocat de l’intimé :
+Me Aleksandrs Zemdegs
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté en vertu du paragraphe 28(1) du Régime de pensions du Canada pour la période du 2 janvier 2003 au 29 novembre 2004, est rejeté.
+Signé à Ottawa, Canada, ce 4e jour d’août 2006.
+« D.G.H. Bowman »
+Juge en chef Bowman
+Traduction certifiée conforme
+ce 31e jour de mai 2007.
+Maurice Audet, réviseur
+Référence : 2006CCI444
+Date : 20060804
+Nos de dossiers : 2005-1427(EI)
+2005-1429(CPP)
+ENTRE :
+3868478 CANADA INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge en chef Bowman
+[1] Les présents appels intéressent les décisions prises par le ministre du Revenu national en vertu du Régime de pensions du Canada (« RPC ») et de la Loi sur l’assurance‑emploi (« LAE ») voulant que cinq hygiénistes dentaires aient exercé un emploi assurable ou ouvrant droit à pension pendant différentes périodes entre le 1er janvier 2003 et le 29 novembre 2004.
+[2] La société appelante est la propriété et sous le contrôle du Dr R.J. Barakauskas, dentiste, et elle offre des soins dentaires à la pratique dentaire de ce dernier. À cette fin, elle retient les services d’hygiénistes dentaires agréés.
+[3] Le Dr Barakauskas conteste la conclusion du ministre selon laquelle les hygiénistes en cause étaient engagées dans le cadre d’un contrat de louage de services. Il soutient que leurs services étaient plutôt retenus par la voie d’un contrat d’entreprise.
+[4] Les hypothèses sur lesquelles reposent les décisions pour les besoins de la LAE et du RPC sont les mêmes. Le paragraphe 7 de la réponse à l’avis d’appel déposé dans l’appel visant le RPC est ainsi rédigé :
+[TRADUCTION]
+(a) l’appelante offre des soins dentaires à la pratique dentaire qui appartient au Dr R.J. Barakauskas et est exploitée par ce dernier;
+(b) le Dr R.J. Barakauskas est l’unique actionnaire de l’appelante;
+(c) les travailleuses ont été engagées à titre d’« hygiénistes dentaires » dans le cadre d’un contrat écrit;
+(d) les périodes en cause visant les travailleuses sont les suivantes :
+- Tamara Brown Richardson du 1er janvier 2003 au 11 mai 2004
+- Jayne Clare du 1er janvier 2003 au 26 novembre 2004
+- Cathy Medal du 1er janvier 2003 au 29 novembre 2004
+- Susan Miotto du 13 novembre 2003 au 26 novembre 2004
+- Jill Tyndall du 1er janvier 2003 au 31 décembre 2003
+(e) les travailleuses étaient toutes des hygiénistes dentaires agréées, membres en règle de l’Ordre des hygiénistes dentaires de l’Ontario;
+(f) les fonctions des travailleuses englobaient la fourniture de soins dentaires préventifs et curatifs ainsi que le détartrage périodontique aux patients de l’actionnaire de l’appelante;
+(g) les travailleuses exerçaient leurs fonctions au cabinet de la pratique dentaire exploitée par l’actionnaire de l’appelante;
+(h) les travailleuses;
+(i) l’actionnaire de l’appelante fournissait gratuitement et sans bail, aux travailleuses, les installations et le matériel nécessaires pour exercer leurs fonctions;
+(j) les travailleuses étaient tenues de porter l’uniforme habituellement utilisé dans les hôpitaux pendant l’exercice de leurs fonctions et cet uniforme était fourni gratuitement par l’actionnaire de l’appelante;
+(k) les travailleuses recevaient un taux horaire fixe;
+(l) l’actionnaire de l’appelante établissait les horaires de travail des travailleuses en fonction de leur disponibilité;
+(m) les heures de travail des travailleuses étaient consignées sur une feuille de temps;
+(n) les travailleuses étaient payées par chèque à la quinzaine;
+(o) les travailleuses devaient offrir leurs services en personne;
+(p) l’appelante avait le droit de ne plus recourir aux services des travailleuses;
+(q) la pratique dentaire a été vendue en 2005.
+[5] Le Dr Barakauskas a reconnu l’exactitude des hypothèses susmentionnées, à l’exception du paragraphe (o). Il a déclaré qu’une hygiéniste pouvait demander à une autre hygiéniste de la remplacer. De plus, en ce qui concerne le paragraphe (j), il a mis en doute l’emploi du terme [TRADUCTION] « tenues ». L’appelante fournissait les uniformes et, comme les hygiénistes préféraient ceux portés dans les hôpitaux, c’est ce modèle que l’appelante leur a fourni.
+[6] Les décisions touchant la situation des hygiénistes dentaires sous le régime du RPC et de la LAE sont difficiles à concilier.
+[7] Dans la décision TLS Health Services Inc. v. Canada, [2002] A.C.I. no 631 (QL), le juge Rip a conclu que six hygiénistes dentaires exerçaient un emploi assurable et ouvrant droit à pension chez un dentiste.
+[8] Dans les décisions Bradford v. Canada, [1988] T.C.J. No. 818 (QL), Arthur c. Canada, [1995] A.C.I. no 947 (QL), Tsimerman c. Canada, [1998] A.C.I. no 1132 (QL), Witherell c. Canada, [2000] A.C.I. no 782 (QL), et 509023 Alberta Ltd. v. Canada, [2004] T.C.J. No 628 (QL), les juges de la présente cour ont tous décidé que les hygiénistes dentaires étaient des entrepreneurs indépendants et non des employés.
+[9] Le juge Rip a distingué quatre des cinq décisions de la façon suivante :
+39 L’avocat de l’appelante soutient que les tribunaux ont constamment conclu que les services d’hygiène dentaire sont complémentaires à la pratique dentaire, qu’ils ne sont pas nécessaires à la pratique et que, par conséquent, ils ne sont pas considérés comme étant intégrés à la pratique. Il a cité les décisions suivantes : Bradford v. M.N.R. [voir la note 12 ci‑dessous], Arthur c. Canada [voir la note 13 ci‑dessous], Tsimerman c. Canada [voir la note 14 ci‑dessous] et Witherell c. Canada [voir la note 15 ci‑dessous].
+Note 12 :
+[1988] T.C.J. No. 818 (Q.L.).
+Note 13 :
+[1995] A.C.I. no 947 (Q.L.).
+Note 14 :
+[1998] A.C.I. no 1132 (Q.L.).
+Note 15 :
+[2000] A.C.I. no782 (Q.L.).
+40 Dans le jugement Bradford, le juge du procès a conclu que l’hygiéniste dentaire consignait ses propres heures de travail. L’hygiéniste dentaire a témoigné qu’elle choisissait le type de travail et le lieu de travail les plus rentables. Le juge du procès était également d’avis que les intentions et les objectifs du dentiste et de l’hygiéniste dentaire ressortaient clairement de leur relation. Le contrat ne comportait aucune lacune. Ce n’est pas le cas en l’espèce. À mon avis, après avoir considéré le témoignage des trois témoins, j’accorde une plus grande crédibilité au témoignage de Mme Fawcett, selon lequel Mme Loro jouait un rôle important à l’égard des heures de travail de Mme Fawcett.
+41 Dans l’affaire Arthur, précitée, Mme Arthur recevait une rémunération de 75 $ par jour travaillé au bureau du dentiste, plus 25 p. 100 de ses factures. Elle assumait également 25 p. 100 des mauvaises créances. Toujours dans l’affaire Arthur, l’appelante pouvait diminuer son tarif. D’autres dentistes adressaient des patients à Mme Arthur. Celle-ci faisait également la promotion de ses services en donnant des conférences et, par exemple, en distribuant du dentifrice et de la soie dentaire. Elle avait également imprimé et distribué ses propres cartes d’affaires. En l’espèce, il n’y a certainement aucun élément similaire aux faits de cette affaire; Mme Fawcett n’avait pas à chercher des patients ni à promouvoir ses services.
+42 Dans l’affaire Tsimerman, l’hygiéniste dentaire n’avait pas d’heures de travail fixes et ni de nombre minimum ou maximum d’heures de travail. Elle traitait également des patients qui n’étaient pas des patients du dentiste, ce qui n’est pas le cas en l’espèce. L’hygiéniste dentaire dans l’affaire Tsimerman semblait avoir une plus grande liberté que Mme Fawcett à l’égard du choix des patients qu’elle traitait.
+43 Finalement, dans l’affaire Witherell, le dentiste retenait 50 p. 100 des honoraires gagnés par l’hygiéniste dentaire pour les installations et l’équipement qui lui étaient fournis et l’autre portion de 50 p. 100 des honoraires était versée à l’hygiéniste dentaire. De plus, une clientèle suffisante pour générer un revenu donné lui était garantie. Le revenu de Mme Fawcett n’était pas déterminé en fonction des honoraires chargés aux patients et elle ne versait aucun montant pour l’utilisation de l’équipement et des installations.
+[10] Les contrats écrits intervenus entre l’appelante et les hygiénistes prévoyaient ce qui suit (je reproduis le texte du contrat visant Jill Tyndall puisqu’il est représentatif des autres) :
+[TRADUCTION]
+CONTRAT DE FOURNITURE DE SERVICES D’HYGIÈNE DENTAIRE
+ENTRE :
+(Jill Tyndall)
+(l’hygiéniste)
+et 3868478 CANADA INCORPORATED
+(société offrant au Dr Ramunas J. Barakauskas des services techniques en matière de soins dentaires)
+L’hygiéniste dentaire offre des soins dentaires préventifs, le détartrage périodontique curatif ainsi que le curetage du cément radiculaire selon les besoins des patients du Dr R. J. Barakauskas.
+L’hygiéniste recommande le protocole thérapeutique approprié pour chaque patient. Après consultation avec le Dr Barakauskas, après avoir reçu les ordonnances requises par l’Ordre royal des chirurgiens dentistes de l’Ontario et après avoir obtenu le consentement requis du patient, elle donne les soins dentaires nécessaires.
+L’hygiéniste est responsable de l’efficacité du programme préventif et périodontique offert aux patients du Dr Barakauskas, et elle fournit les services susmentionnés sans instruction ni intervention précise du Dr Barakauskas, à l’exception de ce qu’exigent les divers organismes de réglementation dentaire et la législation en la matière adoptée en Ontario.
+Obligations de la société
+La société offre à l’hygiéniste un milieu sûr et propre lui permettant de donner les soins prévus.
+La société fournit le matériel et la salle habituellement considérés comme nécessaires pour donner des soins dentaires efficaces.
+Sous réserve des exigences précises de la Loi sur les hygiénistes dentaires, de la Loi sur les professions de la santé réglementées et de l’Ordre royal des chirurgiens dentistes de l’Ontario, les deux parties confirment que l’hygiéniste exploite sa propre entreprise et elles conviennent que l’hygiéniste exerce le contrôle sur les soins qu’elle donne dans le cadre de la présente entente.
+Obligations de l’hygiéniste
+L’hygiéniste donne d’une façon compétente, professionnelle et agréable les soins dentaires dont les patients du Dr Barakauskas ont besoin.
+L’hygiéniste doit demeurer membre en règle de l’Ordre des hygiénistes dentaires de l’Ontario et fournir la preuve requise qu’elle détient un permis d’exercice de la profession en Ontario.
+L’hygiéniste souscrit sa propre assurance responsabilité professionnelle.
+L’hygiéniste suit des cours de formation continue à ses propres frais.
+L’hygiéniste a l’obligation de facturer la société pour ses services d’une manière continue et de fournir les renseignements sur les comptes que les experts‑comptables de la société pourraient exiger pour vérifier les factures susmentionnées.
+Honoraires
+La société paye à l’hygiéniste dentaire des honoraires pour les services prévus par la présente entente en fonction d’un taux de 40,00 $ l’heure. Ces honoraires pourront être revus au moment de l’éventuel renouvellement du contrat. Les honoraires sont payables à la quinzaine.
+Il appartient à l’hygiéniste de remettre les retenues prévues par la loi, quelles qu’elles soient.
+Autres conventions
+L’hygiéniste peut conclure un contrat d’entreprise avec d’autres dentistes à la condition que ces ententes n’aient pas d’incidence importante sur sa capacité de fournir les services prévus au présent contrat.
+Tous les dossiers et les renseignements connexes relatifs aux patients demeurent la propriété du Dr Barakauskas et ne peuvent être utilisés par l’hygiéniste en dehors du cadre du présent contrat, ni divulgués à une autre partie sans l’autorisation écrite expresse du Dr Barakauskas. L’hygiéniste conserve toutefois l’accès à ces renseignements si elle en a besoin dans le cadre d’une enquête touchant la fourniture des services prévus au présent contrat.
+Durée du contrat
+Le contrat a effet du 1er septembre 2001 au 30 juin 2002.
+Le contrat peut être renouvelé annuellement pour une période de douze mois, à compter du 1er juillet 2002, avec le consentement des deux parties. Le renouvellement peut se faire par entente verbale.
+Résiliation du contrat
+Le contrat peut être résilié selon les modalités suivantes :
+a) immédiatement, si le permis d’exercice de l’hygiéniste est révoqué par l’Ordre des hygiénistes dentaires de l’Ontario et/ou dans l’éventualité d’une faute lourde ou de négligence de la part de l’hygiéniste dans la prestation de ses services, et/ou dans l’éventualité d’un manquement grave ou répété à l’une ou l’autre de ses obligations prévues au présent contrat;
+b) en tout temps, d’un commun accord;
+c) par l’hygiéniste, sur avis écrit de quatre semaines;
+d) par la société, sur avis écrit de quatre semaines à l’hygiéniste.
+Signé : J. Tyndall (hygiéniste)
+(signature) (dirigeant de la société)
+[11] Je ne reproduirai pas d’extraits du célèbre arrêt Wiebe Door Services Ltd. c. M.R.N., [1986] 3 C.F. 553, de la Cour d’appel fédérale. Cette décision a été confirmée pour l’essentiel par l’arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] 2 R.C.S. 983, de la Cour suprême du Canada.
+[12] Le critère à quatre volets énoncés dans ces décisions est bien connu, à tout le moins dans les provinces de common law : l’exercice d’un contrôle, la propriété de l’outillage, la possibilité de profit ou le risque de perte et l’intégration (ou l’organisation). Ce critère [ou les critères, selon la façon de voir les quatre éléments] ne peut être appliqué mécaniquement. L’importance de chacun des éléments doit être appréciée dans le contexte global de l’affaire et aucun élément donné n’a plus de poids que les autres.
+[13] Je vais d’abord examiner le volet touchant l’exercice d’un contrôle. Cet élément pourrait avoir un plus grand poids dans les affaires qui se déroulent au Québec, où le Code civil du Québec a son importance. Dans la présente affaire, le Dr Barakauskas ne disait pas, et ne pouvait dire, aux hygiénistes comment donner les soins dentaires, mais il leur indiquait sans aucun doute quel patient elles devaient soigner et c’est son cabinet qui fixait les rendez‑vous. Lorsqu’il est question de professionnels, que ce soit des médecins, des avocats ou des hygiénistes dentaires, on avance parfois que la nature même de leur travail en qualité de professionnels n’est pas susceptible du genre de contrôle qui pourrait justifier la Cour de conclure qu’ils exercent un emploi. À mon avis, cet argument n’est pas convaincant. Il signifierait qu’un professionnel peut rarement, sinon jamais, être un employé. Or, les règles de droit n’étayent tout simplement pas cette thèse.
+[14] Je crois que le Dr Barakauskas exerçait un degré de contrôle suffisant pour satisfaire à cette partie du critère énoncé dans l’arrêt Wiebe Door. Il convient notamment de reproduire le texte des articles 4 et 5 de la Loi sur les hygiénistes dentaires, L.O. 1991, ch. 22, de l’Ontario :
+Actes autorisés
+4. Dans l’exercice de l’hygiène dentaire, un membre est autorisé, sous réserve des conditions et restrictions dont est assorti son certificat d’inscription, à accomplir les actes suivants :
+1. Le détartrage des dents et le polissage des racines, y compris le curetage des tissus avoisinants.
+2. Des actes d’orthodontie et de restauration. 1991, ch. 22, art. 4.
+Exigences supplémentaires relatives aux actes autorisés
+5. (1) Le membre ne doit pas accomplir d’actes autorisés en vertu de l’article 4 à moins qu’un membre de l’Ordre royal des chirurgiens dentistes de l’Ontario ne l’ordonne. 1991, ch. 22, par. 5(1).
+Motifs permettant de conclure à une faute professionnelle
+(2) Un sous‑comité du comité de discipline conclut qu’un membre a commis une faute professionnelle non seulement d’après les motifs énoncés au paragraphe 51 (1) du Code des professions de la santé, mais également si le membre contrevient au paragraphe (1). 1991, ch. 22, par. 5 (2).
+[15] On paraît également satisfaire aux autres critères. Le dentiste fournit tout l’outillage. L’hygiéniste est payée selon un taux horaire et elle n’a aucun engagement financier ni placement à risque. Le critère de l’intégration est rarement appliqué (ni, d’ailleurs, compris). Son origine semble remonter à la déclaration faite par lord Denning dans l’arrêt Stevenson Jordan and Harrison Ltd. v. McDonald & Evans, [1952] 1 TLR 101, à la page 111. Le passage suivant tiré de l’ouvrage Street on Torts, 8e édition, aux pages 446 et 447 est utile.
+[TRADUCTION]
+A. CONTRÔLE
+Le terme habituellement employé par les tribunaux est « contrôle ». « […] Le critère définitif […] intéresse la nature et le degré du contrôle précis qui est exercé sur le présumé employé4 ». La personne est un employé lorsque l’employeur « conserve le contrôle sur la manière concrète dont elle exécute le travail »5.
+Dans une simple société industrielle, comme l’Angleterre au siècle dernier, où le travail était accompli par des ouvriers agricoles ou des artisans sous l’autorité d’employeurs qui avaient autant, sinon plus, de compétences techniques qu’eux-mêmes, il suffisait habituellement d’établir que l’employeur pouvait dire à l’ouvrier non seulement quelle tâche il devait accomplir, mais aussi comment il devait l’accomplir. Si l’employeur pouvait faire ces deux choses, l’ouvrier était un employé. Mais maintenant, avec l’apparition dans l’industrie d’une nouvelle catégorie de gestionnaires, qui sont des personnes distinctes des propriétaires, et avec un si grand nombre d’employés possédant une quelconque compétence technique qu’aucun de leur employeur ne possède, les relations sont devenues plus subtiles et ne peuvent pratiquement plus être définies de façon exacte : le critère appliqué antérieurement n’est pas nécessairement adéquat6. Bref, le « contrôle » est devenu une fiction juridique plutôt qu’une réalité technique.
+Pour décider si le degré de « contrôle » exercé sur une autre personne est suffisant pour que ce dernier soit un « employé », il faut tenir compte de plusieurs facteurs, dont aucun n’est déterminant. Il s’agit d’une règle de droit, mais l’application de ces facteurs aux circonstances de l’espèce est une question de fait. Les critères comprennent la mesure dans laquelle l’employeur peut exercer un contrôle quant aux particularités du travail, le fait de savoir si le mode de paiement est fonction du temps ou de l’ouvrage exécuté, celui de savoir à qui appartient l’outillage, le matériel et les locaux utilisés7, la compétence requise pour effectuer le travail, l’intention des parties, la liberté de l’employeur de choisir la main‑d’œuvre8 et le pouvoir de congédiement. Tous ces éléments, et de nombreux autres, mais en particulier et de plus en plus souvent ceux mentionnés dans la citation du lord juge DENNING reproduite ci‑dessous, doivent être pris en considération pour décider si l’on peut inférer que ce droit de contrôle existe. Le lord juge DENNING a affirmé ce qui suit9 :
+Il est souvent facile de reconnaître un contrat de travail lorsqu’il y en a un, mais il est difficile de dire où est la différence [entre un contrat de travail et un contrat d’entreprise]10. Le capitaine d’un navire, le chauffeur, le reporter d’un journal sont tous employés en vertu d’un contrat de travail, mais le pilote d’un navire, le chauffeur de taxi et le collaborateur de journal sont employés en vertu d’un contrat d’entreprise. Une caractéristique qui semble se retrouver dans toutes ces affaires établit que, dans le cas d’un contrat de travail, un homme est employé comme partie d’une entreprise et son travail est effectué à titre de partie intégrante de l’entreprise; tandis que, dans le cas d’un contrat d’entreprise, son travail, même s’il est fait pour l’entreprise, n’est pas intégré à celle-ci mais lui est uniquement accessoire11.
+B. EXAMEN DE CERTAINES DÉCISIONS PARTICULIÈRES
+Dans la majorité des affaires, décider de l’état de la personne ne soulève aucune difficulté12. Les employés d’usine, le personnel de bureau officiel, les ouvriers agricoles, etc., sont manifestement des employés; les propriétaires d’un garage, les constructeurs de maisons et les nettoyeurs à sec sont les entrepreneurs indépendants des membres du grand public qui retiennent leurs services. L’exemple typique de l’homme qui pourrait appartenir à l’un ou l’autre groupe, selon les circonstances, est celui du vendeur13. De même, un chauffeur est un employé, mais un chauffeur de taxi ne l’est pas14.
+(1) PERSONNEL HOSPITALIER
+Les tribunaux judiciaires ont souvent dû décider si les membres de personnels hospitaliers sont des employés. Après beaucoup d’incertitude, il est maintenant établi que les infirmières, les technologues en radiologie15, les chirurgiens titulaires16 et les adjoints médicaux17 qui travaillent à plein temps pour des hôpitaux sont des employés. On a également conclu que les anesthésistes à temps partiel étaient des employés parce qu’ils font partie de l’organisation de l’hôpital18. Les chirurgiens et les consultants relevant du Service national de la santé, même s’ils sont engagés uniquement à temps partiel ou à titre occasionnel, sont pour les mêmes raisons considérés comme des employés de l’administration hospitalière. Ce n’est que dans les cas où le chirurgien ou le consultant traite le patient dans le cadre d’un contrat intervenu entre lui et le patient que l’administration hospitalière n’assume aucune responsabilité délictuelle pour les fautes qu’il a commises.
+[Notes en bas de page omises.]
+[16] Il est fort possible qu’en énonçant le critère relatif à l’intégration, lord Denning tentait simplement de surmonter les difficultés que soulève l’application du critère ayant trait au contrôle, lequel nécessite parfois de faire des distinctions artificielles. C’est le point de vue qui semble ressortir de l’ouvrage Clerk & Lindsell on Torts, 16e édition, aux paragraphes 3 à 6.
+[17] Si le critère relatif à l’intégration a une quelconque signification, on pourrait penser que la fonction d’hygiéniste est une partie intégrante et essentielle de la pratique dentaire. Elle n’est ni extrinsèque ni accessoire à cette pratique. La facture que le dentiste envoie au patient comporte, dans le total qui y est inscrit, une somme visant les services fournis par l’hygiéniste. Le nettoyage et le détartrage des dents ainsi que les instructions données aux patients quant aux méthodes appropriées d’hygiène buccale font partie de la pratique dentaire au même titre que le fraisage et l’extraction. Si l’application du critère relatif à l’intégration est difficile, c’est que l’entrepreneur indépendant peut faire partie intégrante de l’organisation de l’entreprise tout autant qu’un employé.
+[18] Je ne crois pas que nous puissions indéfiniment traiter le critère relatif à l’intégration de cette façon, en niant l’évidence, en le surveillant du coin de l’œil d’un air embarrassé, en faisant celui qui tente de ne pas savoir qu’il existe, en refusant d’en parler et en sachant qu’il est là mais en reconnaissant à peine son existence. Il fait indéniablement partie de nos règles de droit, mais il faut le mettre en perspective sans lui accorder plus d’importance qu’il n’en a. En l’espèce, pour ce qu’il vaut, ce facteur milite en faveur de l’existence d’une relation employeur-employé.
+[19] En fin de compte, il faut faire preuve de bon sens dans l’appréciation de tous les facteurs. Au paragraphe 44 de l’arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., le juge Major mentionne :
+Selon le juge MacGuigan, c’est le juge Cooke qui a fait la meilleure synthèse du problème dans la décision Market Investigations, Ltd. c. Minister of Social Security, [1968] 3 All E.R. 732 (Q.B.D.), p. 737-738 (suivie par le Conseil privé dans l’arrêt Lee Ting Sang c. Chung Chi-Keung, [1990] 2 A.C. 374, lord Griffiths, p. 382) :
+[TRADUCTION] Les remarques de LORD WRIGHT, du LORD JUGE DENNING et des juges de la Cour suprême des États-Unis laissent à entendre que le critère fondamental à appliquer est celui-ci : « La personne qui s’est engagée à accomplir ces tâches les accomplit-elle en tant que personne à son compte? » Si la réponse à cette question est affirmative, alors il s’agit d’un contrat d’entreprise. Si la réponse est négative, alors il s’agit d’un contrat de service personnel. Aucune liste exhaustive des éléments qui sont pertinents pour trancher cette question n’a été dressée, peut-être n’est‑il pas possible de le faire; on ne peut non plus établir de règles rigides quant à l’importance relative qu’il faudrait attacher à ces divers éléments dans un cas particulier. Tout ce qu’on peut dire, c’est qu’il faudra toujours tenir compte du contrôle même s’il ne peut plus être considéré comme le seul facteur déterminant; et que des facteurs qui peuvent avoir une certaine importance sont des questions comme [page 1004] celles de savoir si celui qui accomplit la tâche fournit son propre outillage, s’il engage lui-même ses aides, quelle est l’étendue de ses risques financiers, jusqu’à quel point il est responsable des mises de fonds et de la gestion, et jusqu’à quel point il peut tirer profit d’une gestion saine dans l’accomplissement de sa tâche.
+Le juge Major résume brièvement la question au paragraphe 47 de l’arrêt Sagaz :
+47 Bien qu’aucun critère universel ne permette de déterminer si une personne est un employé ou un entrepreneur indépendant, je conviens avec le juge MacGuigan que la démarche suivie par le juge Cooke dans la décision Market Investigations, précitée, est convaincante. La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l’employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s’il engage lui-même ses assistants, quelle est l’étendue de ses risques financiers, jusqu’à quel point il est responsable des mises de fonds et de la gestion et jusqu’à quel point il peut tirer profit de l’exécution de ses tâches.
+[20] J’ai examiné ce point plus longuement que je ne l’aurais fait autrement en raison des opinions apparemment divergentes qu’ont émises les membres de la présente cour en ce qui touche les hygiénistes dentaires, en particulier quant au rôle que joue le critère relatif à l’intégration. Chaque situation est un cas d’espèce. Même si les hygiénistes pouvaient à l’occasion demander à quelqu’un de les remplacer et pouvaient travailler pour d’autres dentistes, je ne crois pas que ce fait à lui seul soit prédominant, ni que l’ensemble de la preuve puisse légitimement étayer la conclusion selon laquelle les hygiénistes accomplissaient leurs tâches « en tant que personne[s] à [leur] compte ».
+[21] Les appels sont rejetés.
+Signé à Ottawa, Canada, ce 4e jour d’août 2006.
+« D.G.H. Bowman »
+Juge en chef Bowman
+Traduction certifiée conforme
+ce 31e jour de mai 2007.
+Maurice Audet, réviseur
+RÉFÉRENCE :
+2006CCI444
+NOS DE DOSSIERS DE LA COUR :
+2005-1427(EI) et 2005-1429(CPP)
+INTITULÉ DE LA CAUSE :
+3868478 Canada Inc. et
+le ministre du Revenu national
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 25 juillet 2006
+MOTIFS DU JUGEMENT PAR :
+M. le juge en chef D.G.H. Bowman
+DATE DU JUGEMENT ET DES MOTIFS DU JUGEMENT :
+Le 4 août 2006
+COMPARUTIONS :
+Représentant de l’appelante :
+Dr R.J. Barakauskas
+Avocat de l’intimé :
+Me Aleksandrs Zemdegs
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimé :
+Me John Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

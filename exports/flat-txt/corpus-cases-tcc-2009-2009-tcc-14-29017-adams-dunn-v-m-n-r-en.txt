@@ -1,0 +1,357 @@
+Title: Adams Dunn v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29017/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-14-29017-adams-dunn-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2009-01-19
+
+# Adams Dunn v. M.N.R.
+
+- Citation: 2009 TCC 14
+- Decision date: 2009-01-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6765, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Adams Dunn v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-01-19
+Neutral citation
+2009 TCC 14
+File numbers
+2008-2027(EI)
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2008-2027(EI)
+BETWEEN:
+CEDRICK ADAMS DUNN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on November 5, 2008, at Percé, Quebec
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Agent for the Appellant:
+Marie-Anne Adams
+Counsel for the Respondent:
+Vlad Zolia
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the determination made by the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 19th day of January 2009.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 26th day of January 2009.
+Brian McCordick, Translator
+Citation: 2009 TCC 14
+Date: 20090119
+Docket: 2008-2027(EI)
+BETWEEN:
+CEDRICK ADAMS DUNN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] On December 3, 2007, Cedrick Adams Dunn ("the Worker") asked the Minister of National Revenue ("the Minister") to determine whether he was employed in insurable employment under the Employment Insurance Act ("the Act") while working for Denis Dunn ("the Payor") from June 17, 2007, to August 11, 2007 ("the relevant period"). The Minister determined that the Worker was employed in insurable employment during the period in which he worked for the Payor, and that he accumulated 692 insurable hours during that period. The Worker is appealing solely from the Minister's determination concerning the hours of insurable employment. It should also be noted that the Payor is seeking $10,000 in damages.
+[2] I should immediately note that the Court does not have jurisdiction to make any decision with respect to the issue of the claim for $10,000 in damages.
+[3] In making his determination, the Minister relied on the following assumptions of fact, set out in paragraph 15 of the Reply to the Notice of Appeal:
+(a) The Payor owns a 40-foot fishing vessel called the Marie‑K‑D. (admitted)
+(b) The Payor is the Appellant's father. (admitted)
+(c) The Payor lived in Rivière-au-Renard. (admitted)
+(d) The Payor was the holder of a crab fishing allocation and a 62,000‑pound turbot fishing quota. (denied as worded)
+(e) The Payor delivered his catches to a company called Les Pêcheries Gaspésiennes. (admitted)
+(f) Denis Dunn alone bore all the expenses related to his boat and to fishing. (admitted)
+(g) The Appellant bore no financial responsibility for the expenses incurred in making catches. (admitted)
+(h) On June 15, 2007, Les Pêcheries Gaspésiennes notified the Payor that, for the remainder of the season, all turbot was to be delivered gutted. (admitted)
+(i) The Appellant was attending school in June 2007. (admitted)
+(j) The Payor hired the Appellant as a fisherman's helper at that time. (admitted)
+(k) On September 28, 2007, the Payor told a representative of the Respondent that fishing was done 7 days a week. (denied as worded)
+(l) On September 28, 2007, the Appellant told a representative of the Respondent that he did not work Sundays during the fishing season except once his father took note of his hours of work. (denied as worded)
+(m) On August 9, 2007, the Payor gave the Appellant a Record of Employment (ROE) which stated that his first day of work was June 24, 2007, that his last day of work was August 4, 2007, that the number of insurable hours was 881, and that the insurable earnings totalled $2,779.69. (denied as worded)
+(n) The Appellant was entered in the Payor's payroll journal for 881 hours over six weeks of fishing, broken down as follows:
+Ending
+Week 1
+June 30
+98 hours
+Week 2
+July 7
+295 hours
+Week 3
+July 14
+101 hours
+Week 4
+July 21
+101 hours
+Week 5
+July 28
+196 hours
+Week 6
+August 4
+90 hours
+(admitted)
+(o) On September 28, 2007, the Payor told a representative of the Respondent that a normal fishing day ranged from 15 to 20 hours. (admitted)
+(p) 196 hours in one week meant an average of 28 hours per day. (denied as worded)
+(q) The hours for the weeks of July 7 and July 28 were exaggerated, and the Respondent deemed the number for each to be 101 hours. (denied)
+(r) A 50-hour week preparing for fishing and a 50‑hour week for storage following the last fishing period were added to the Appellant's period of employment. (admitted)
+(s) The Appellant's period of employment with the Payor was from June 17, 2007, to August 11, 2007. (denied)
+(t) The Appellant's insurable hours totalled 692 and were as follows:
+Week ending
+June 23
+Preparatory week
+50 hours
+June 30
+98 hours
+July 7
+101 hours
+July 14
+101 hours
+July 21
+101 hours
+July 28
+101 hours
+August 4
+90 hours
+August 11
+Storage week
+50 hours
+(denied)
+[4] The Worker testified. The Payor and his wife testified in support of the Worker's position. In addition, Louise Dessureault, the appeals officer who handled the file, testified in support of the Respondent's position.
+The testimony of the Worker, the Payor and the Payor's wife
+[5] The Worker, the Payor and the Payor's wife essentially testified as follows:
+(i) The Worker worked for 881 hours from March 4, 2007, to April 18, 2007, and those hours were worked as follows:
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Total
+Week of March 4 to March 10, 2007
+10
+10
+10
+10
+10
+50
+Week of March 11 to March 17, 2007
+10
+6
+7
+5
+6
+6
+10
+50
+Week of March 18 to March 24, 2007
+10
+6
+6
+6
+6
+6
+10
+50
+Week of March 25 to March 31, 2007
+10
+7
+5
+10
+4
+4
+10
+50
+Week of April 29 to May 5, 2007
+10
+10
+5
+3
+10
+2
+10
+50
+Week of June 24 to June 30, 2007
+19
+14
+16
+18
+15
+16
+98
+Week of July 1 to July 7, 2007
+8
+15
+13
+18
+16
+15
+95
+Week of July 15 to July 21, 2007
+7
+18
+13
+15
+19
+14
+15
+101
+Week of July 8 to July 14, 2007
+19
+18
+16
+15
+19
+14
+101
+Week of July 22 to July 28, 2007
+20
+16
+17
+18
+12
+13
+96
+Week of July 29 to August 4, 2007
+19
+14
+14
+13
+18
+12
+90
+Week of August 12 to August 18, 2007
+11
+9
+10
+9
+11
+50
+881
+(ii) The work done by the Worker in March 2007 (200 hours over four weeks) essentially consisted in knitting fishing nets, repairing nets, setting up nets, assembling the frames, and checking the floats and dragnets. I should note that the Payor owned 300 fishing nets. The evidence also disclosed that the Payor fished alone until June 17, 2007, and that he used only 50 of his 300 nets during that period. However, I note that the Worker's evidence was silent with respect to the number of nets used by the Payor after June 15, 2007, and with respect to the number of nets repaired in March 2007. The Worker (who, it should be emphasized, was a Grade 11 student in 2007), explained that he did the 200 hours of work after classes, on weekends and during school breaks. I should also note that, based on those individuals' testimony, the Worker did the same turbot fishing preparation work for his father on a volunteer basis in 2006.
+(iii) The work done by the Worker during the week ending May 5, 2007 (50 hours of work) consisted in preparing the boat for the turbot fishing season, which began on May 20 of that year.
+(iv) The work done by the Worker during the period from June 24, 2007, to August 4, 2007 (581 hours of work over six weeks) consisted in turbot fishing on the Payor's fishing vessel.
+(v) The work done by the Worker during the week ending August 18, 2007 (50 hours) essentially consisted in cleaning the boat prior to its storage and checking the fishing nets prior to their storage.
+[6] The evidence further disclosed as follows:
+(i) The Payor's fishing season began on May 20, 2007, and ended on August 4, 2007.
+(ii) From May 20, 2007, to June 15, 2007, the Payor delivered and sold to Les Pêcheries Gaspésiennes Inc. ("the buyer") all its turbot catches, which were not gutted.
+(iii) On June 15, 2007, the buyer notified the Payor that its turbot catches would thereafter have to be delivered gutted.
+(iv) As a result of the buyer's new directives, it was no longer possible for the Payor to fish without a helper.
+(v) For the week of May 20, 2007, to May 26, 2007, the Payor's sales totalled $33,228.
+(vi) For the week of May 27, 2007, to June 2, 2007, the Payor's sales totalled $2,023.
+(vii) For the week of June 3, 2007, to June 9, 2007, the Payor's sales totalled $40,239.
+(viii) For the week of June 10, 2007, to June 16, 2007, the Payor's sales totalled $5,940.
+(ix) For the week of June 17, 2007, to June 23, 2007, the Payor's sales totalled $5,503.
+(x) For the week of June 24, 2007, to June 30, 2007, the Payor's sales totalled $5,283.
+(xi) For the week of July 1, 2007, to July 7, 2007, the Payor's sales totalled $5,549.
+(xii) For the week of July 8, 2007, to July 14, 2007, the Payor's sales totalled $4,950.
+(xiii) For the week of July 15, 2007 to July 21, 2007, the Payor's sales totalled $2,318.
+(xiv) For the week of July 22, 2007, to July 28, 2007, the Payor's sales totalled $2,256.
+(xv) The Worker agreed with the Payor on a remuneration based on a percentage of the turbot that the Payor sold to the buyer during the period that the Worker was fishing on board the Payor's vessel. In the instant case, the Worker received remuneration of
+(1) $470.71 for the week of June 24, 2007, to June 30, 2007, that is to say, 8% of the Payor's sales during that period;
+(2) $776.98 for the week of July 1, 2007, to July 7, 2007, that is to say, 14% of the Payor's sales during that period;
+(3) $693.14 for the week of July 8, 2007, to July 14, 2007, that is to say, 14% of the Payor's sales during that period;
+(4) $324.63 for the week of July 15, 2007, to July 21, 2007, that is to say, 14% of the Payor's sales during that period;
+(5) $315.88 for the week of July 22, 2007, to July 28, 2007, that is to say, 14% of the Payor's sales during that period;
+(6) $198.35 for the week of July 29, 2007, to August 4, 2007, that is to say, 14% of the Payor's sales during that period.
+(xvi) The buyer prepared the Worker's pay and his Record of Employment (ROE).
+(xvii) The Worker's ROE (Exhibit A-1), which was filled out by the buyer on the Payor's behalf, stated that the first day of work was June 24, 2007, and that the last day of work was August 4, 2007.
+(xviii) The EI benefit claim filled out by the Worker (Exhibit I‑2) states that he worked for
+16 hours on July 29, 2007;
+16 hours on July 30, 2007;
+16 hours on July 31, 2007;
+16 hours on August 1, 2007;
+16 hours on August 2, 2007;
+16 hours on August 3, 2007; and
+16 hours on August 4, 2007.
+I would note once again that the Worker, the Payor and the Payor's spouse testified that the Worker worked for
+No hours on July 29, 2007;
+19 hours on July 30, 2007;
+14 hours on July 31, 2007;
+14 hours on August 1, 2007;
+13 hours on August 2, 2007;
+18 hours on August 3, 2007; and
+12 hours on August 4, 2007.
+(xix) Since the Worker had newly entered the workforce, he needed to accumulate 840 insurable hours in order to be eligible for EI benefits.
+Analysis and determination
+The law
+[7] The relevant provisions of the Act and the Regulations thereunder read as follows:
+Section 5(1)(a) of the Act
+Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+. . .
+Section 10 of the Employment Insurance Regulations
+(1) Where a person's earnings are not paid on an hourly basis but the employer provides evidence of the number of hours that the person actually worked in the period of employment and for which the person was remunerated, the person is deemed to have worked that number of hours in insurable employment.
+(2) Except where subsection (1) and section 9.1 apply, if the employer cannot establish with certainty the actual number of hours of work performed by a worker or by a group of workers and for which they were remunerated, the employer and the worker or group of workers may, subject to subsection (3) and as is reasonable in the circumstances, agree on the number of hours of work that would normally be required to gain the earnings referred to in subsection (1), and, where they do so, each worker is deemed to have worked that number of hours in insurable employment.
+(3) Where the number of hours agreed to by the employer and the worker or group of workers under subsection (2) is not reasonable or no agreement can be reached, each worker is deemed to have worked the number of hours in insurable employment established by the Minister of National Revenue, based on an examination of the terms and conditions of the employment and a comparison with the number of hours normally worked by workers performing similar tasks or functions in similar occupations and industries.
+(4) Except where subsection (1) and section 9.1 apply, where a person's actual hours of insurable employment in the period of employment are not known or ascertainable by the employer, the person, subject to subsection (5), is deemed to have worked, during the period of employment, the number of hours in insurable employment obtained by dividing the total earnings for the period of employment by the minimum wage applicable, on January 1 of the year in which the earnings were payable, in the province where the work was performed.
+(5) In the absence of evidence indicating that overtime or excess hours were worked, the maximum number of hours of insurable employment which a person is deemed to have worked where the number of hours is calculated in accordance with subsection (4) is seven hours per day up to an overall maximum of 35 hours per week.
+(6) Subsections (1) to (5) are subject to section 10.1.
+Employment Insurance (Fishing) Regulations
+INTERPRETATION
+1. (1) The definitions in this subsection apply in these Regulations.
+"buyer" means a person who buys a catch for the purpose of reselling it, either in the form in which it was caught or after processing, and not for the purpose of using it as food, feed or bait. (acheteur)
+"catch" means any natural product or by-product of the sea, or of any other body of water, caught or taken by a crew and includes fresh fish, cured fish, Irish moss, kelp and whales, but does not include fish scales or seals, and
+(a) where only a portion of a catch is delivered to a buyer, means the portion delivered; and
+(b) where more than one catch or portion of a catch is delivered to a buyer at one time, means the catches or portions that are delivered. (prise)
+"crew" means a group of fishers who generally engage in making a catch together or who have actually engaged in making a catch together and, in the case of a single fisher, "crew" or "member of a crew", as the case may be, means that single fisher.
+(équipage)
+"cured fish" means the following fish and fish products:
+(a) salted groundfish, smoked herring, pickled mackerel, pickled turbot, pickled herring, pickled and salted alewives, pickled trout and other pickled fish products; and
+(b) cod oil and cod livers. (poisson traité)
+"employer" means a person included by section 3 as the employer of a fisher. (employeur)
+"fisher" means a self-employed person engaged in fishing and includes a person engaged, other than under a contract of service or for their own or another person’s sport,
+(a) in making a catch;
+(b) in any work incidental to making or handling a catch, whether the work consists of loading, unloading, transporting or curing the catch made by the crew of which the person is a member, or of preparing, repairing, dismantling or laying-up the fishing vessel or fishing gear used by that crew in making or handling the catch, where the person engaged in any such incidental work is also engaged in making the catch; or
+(c) in the construction of a fishing vessel for their own use or for the use of a crew of which the person is a member in making a catch. (pêcheur)
+"fishing gear" means any specialized equipment, other than hand tools or clothing, used by a crew exclusively in making a catch. (engins de pêche)
+"fresh fish" means fish that is not cured fish. (poisson frais)
+"major attachment claimant" means a claimant who qualifies to receive benefits and has $3,760 or more of insurable earnings from employment as a fisher in their qualifying period. (prestataire de la première catégorie)
+"minimum wage", in respect of the earnings of a fisher from the catch of a crew, means the minimum wage in effect in the province where the fisher resides on January 1 of the year in which the catch is sold. (salaire minimum)
+"minor attachment claimant" means a claimant who qualifies to receive benefits and has less than $3,760 of insurable earnings from employment as a fisher in their qualifying period. (prestataire de la deuxième catégorie)
+(2) An employer who is engaged in work incidental to a catch that is generally performed on shore shall not, at any time, be regarded as a member of the crew that made the catch.
+SOR/2000-394, s. 1; SOR/2001-74, s. 1.
+[8] In the case at bar, the Worker had to satisfy me that the Minister was unreasonable in his determination of the number of hours that the Worker worked during his period of employment.
+[9] I should note from the outset that the Worker has not satisfied me that he worked for 200 hours in March 2007. First of all, I find it implausible that a young man 16 years of age could have accumulated so many hours of work (even when the one‑week break in March 2007 is taken into consideration) while attending his classes and doing the assignments that would normally be associated with the classes. I find it equally implausible that the work purportedly done in March by the Payor and the Worker (which, as we have seen, supposedly consisted in knitting 50 fishing nets, repairing and setting up nets, assembling the frames and checking the floats and dragnets) took 200 hours for the workers to do, and roughly the same number of hours for the Payor. Moreover, the fairly substantial difference between the testimony given by the Worker, the Payor and the Payor's wife on the one hand, and the EI benefit claim (Exhibit I‑2) on the other, with regard to the number of hours worked, notably for the week ending August 4, 2007, only added to my doubts concerning the number of hours actually worked in March 2007.
+[10] Even if the Worker had satisfied me that he truly did 200 hours of work, those hours would not have been considered insurable, because they would not have been under a contract of service, since, in my opinion, that contract was entered into on or after June 15, 2007, not in or before March 2007. Indeed, the evidence clearly discloses that, prior to June 15, 2007, the Payor had no intention of hiring any helper. Did he not in fact fish on his own before that date? On June 15, 2007, the buyer sent the Payor a notice stating that all turbot catches would have to be delivered gutted. As a result of this notice, the Payor could not longer fish alone. It was at this time that the Worker's services were hired and that a contract of service was entered into.
+[11] Thus, the Worker has not satisfied me that the Minister unreasonably determined the period of employment and the hours actually worked during that period.
+[12] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 19th day of January 2009.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 26th day of January 2009.
+Brian McCordick, Translator
+CITATION: 2009 TCC 14
+COURT FILE NO.: 2008-2027(EI)
+STYLE OF CAUSE: CEDRICK ADAMS DUNN AND M.N.R.
+PLACE OF HEARING: Percé, Quebec
+DATE OF HEARING: November 5, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: January 19, 2009
+APPEARANCES:
+Agent for the Appellant:
+Marie-Anne Adams
+Counsel for the Respondent:
+Vlad Zolia
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

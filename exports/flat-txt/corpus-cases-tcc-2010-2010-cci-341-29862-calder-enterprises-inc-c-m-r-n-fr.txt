@@ -1,0 +1,263 @@
+Title: Calder Enterprises Inc. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29862/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-341-29862-calder-enterprises-inc-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2010-06-21
+
+# Calder Enterprises Inc. c. M.R.N.
+
+- Citation: 2010 CCI 341
+- Decision date: 2010-06-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6419, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Calder Enterprises Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-06-21
+Référence neutre
+2010 CCI 341
+Numéro de dossier
+2009-2549(EI)
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2009-2549(EI)
+ENTRE :
+CALDER ENTERPRISES INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+Calder Enterprises Inc. (2009-2548(CPP)),
+le 17 mai 2010, à Edmonton (Alberta).
+Devant : L’honorable juge Paul Bédard
+Comparutions :
+Représentant de l’appelante :
+M. Terry Calder
+Avocats de l’intimé :
+Me Marla Teeling
+Me Scott England
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté et la décision du ministre du Revenu national est confirmée, conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 21e jour de juin 2010.
+« Paul Bédard »
+Juge Bédard
+Traduction certifiée conforme
+ce 11e jour d’août 2010.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Dossier : 2009-2548(CPP)
+ENTRE :
+CALDER ENTERPRISES INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+Calder Enterprises Inc. (2009-2549(EI)),
+le 17 mai 2010, à Edmonton (Alberta).
+Devant : L’honorable juge Paul Bédard
+Comparutions :
+Représentant de l’appelante :
+M. Terry Calder
+Avocats de l’intimé :
+Me Marla Teeling
+Me Scott England
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté et la décision du ministre du Revenu national est confirmée, conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 21e jour de juin 2010.
+« Paul Bédard »
+Juge Bédard
+Traduction certifiée conforme
+ce 11e jour d’août 2010.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2010 CCI 341
+Date : 20100621
+Dossiers : 2009-2549(EI),
+2009-2548(CPP)
+ENTRE :
+CALDER ENTERPRISES INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Le ministre du Revenu national (le « ministre ») a décidé que : i) Carey Stoney (le « travailleur ») exerçait un emploi assurable et ouvrant droit à pension au sens de l’alinéa 5(1)a) de la Loi sur l’assurance‑emploi (la « Loi ») et l’alinéa 6(1)a) du Régime de pensions du Canada (le « RPC ») au cours de la période du 1er janvier 2006 au 30 septembre 2007 (la « période pertinente ») parce qu’il avait été embauché au moyen d’un contrat de louage de services conclu avec l’appelante; ii) le travailleur n’exerçait pas pour l’appelante un emploi exclu aux termes de l’alinéa 5(2)i) et du paragraphe 5(3) de la Loi parce que, selon le ministre, le travailleur et l’appelante auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance. L’appelante interjette appel des décisions du ministre.
+[2] L’appelante exploitait une entreprise de camionnage dans le cadre de laquelle elle transportait du propane en vrac pour ECL (« ECL »), son seul client. Pendant la période pertinente, l’appelante fournissait à ECL un camion et un chauffeur. Carey Stoney (frère de l’actionnaire de l’appelante) a été engagé comme chauffeur par l’appelante.
+[3] L’appelante fait valoir que le travailleur était un entrepreneur indépendant et qu’il n’exerçait pas un emploi dans le cadre d’un contrat de louage de services.
+[4] Chaque affaire soulevant la question de savoir si une personne est un employé ou un entrepreneur indépendant repose sur les faits qui lui sont propres. Il faut accorder à chacun des quatre éléments (degré de contrôle, propriété de l’outillage, possibilité de profit et risque de perte) du critère à plusieurs volets énoncé dans les arrêts Wiebe Door Services Ltd. c. M.N.R., [1986] 3 C.F. 553, 87 DTC 5025, et 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] 2 R.C.S. 983, le poids approprié suivant les faits de l’affaire. En outre, depuis de récentes décisions de la Cour d’appel fédérale, l’intention des parties au contrat est devenue un facteur dont le poids semble varier d’une affaire à l’autre (Royal Winnipeg Ballet c. M.R.N., 2006 CAF 87; Wolf c. Canada, [2002] 4 C.A.F. 396; City Water International Inc. c. Canada, 2006 CAF 350; Équipe de ski Capitale nationale Outaouais c. M.R.N., 2008 CAF 132).
+[5] Les faits sur lesquels le ministre s’est appuyé pour prendre sa décision dans l’affaire relative au RPC ([2009‑2548(CPP)) sont énoncés au paragraphe 5 de la réponse à l’avis d’appel :
+[traduction]
+a) l’appelante exploitait une entreprise de camionnage, dans le cadre de laquelle elle transportait du propane en vrac; (admis)
+b) l’appelante était propriétaire d’un seul camion, qu’elle utilisait à des fins commerciales; (admis)
+c) l’appelante a conclu avec un client (ci‑après « ECL ») une entente visant la fourniture d’un camion et des services d’un chauffeur; (admis)
+d) le propane est une « marchandise dangereuse » et son transport est rigoureusement réglementé par le gouvernement; (admis)
+e) l’unique actionnaire de l’appelante était Terry Calder (ci‑après l’« actionnaire »); (admis)
+f) le travailleur est le frère de l’actionnaire; (admis)
+g) le travailleur a été engagé comme chauffeur et ses fonctions incluaient le chargement, le transport et le déchargement du propane; (admis)
+h) l’actionnaire participait activement à l’entreprise et il était le principal chauffeur de l’appelante; (admis)
+i) le travailleur et l’appelante n’ont pas conclu de contrat écrit; (admis)
+j) le travailleur a commencé à travailler pour l’appelante en janvier 2003; (admis)
+k) le travailleur a cessé de travailler pour l’appelante le 30 septembre 2007, lorsque l’entreprise a mis fin à ses activités; (admis)
+l) le travailleur gagnait une commission fixe équivalant à 31 pour 100 des revenus bruts réalisés au moyen du camion; (admis)
+m) les revenus tirés du camion dépendaient du nombre de kilomètres parcourus; (nié)
+n) l’appelante payait le travailleur deux fois par mois; (admis)
+o) l’appelante exigeait que le camion soit utilisé sept jours par semaine; (admis)
+p) ECL fournissait suffisamment de travail pour que le camion serve à temps plein; (admis)
+q) le travailleur conduisait le camion lorsque l’actionnaire ne le conduisait pas; (admis)
+r) le travailleur travaillait habituellement du dimanche au mercredi; (admis)
+s) le travailleur conservait un registre du travail accompli; (admis)
+t) le travailleur était placé dans une situation de subordination; (nié)
+u) le travailleur faisait rapport à ECL de façon quotidienne; (nié)
+v) ECL attribuait les tâches au travailleur; (admis)
+w) ECL fixait le calendrier de livraison; (admis)
+x) ECL établissait les itinéraires que devait suivre le travailleur; (admis)
+y) le camion était muni d’un système de suivi qui enregistrait le nombre de kilomètres parcourus et l’itinéraire suivi; (admis)
+z) le travailleur faisait rapport à l’appelante deux fois par jour; (admis)
+aa) le travailleur était tenu de présenter des carnets de route et des connaissements; (admis)
+bb) le travailleur était tenu d’assister à des réunions sur la sécurité tenues par ECL; (admis)
+cc) ECL offrait de la formation au travailleur; (admis)
+dd) le travailleur informait l’appelante lorsqu’il devait s’absenter; (admis)
+ee) le travailleur ne pouvait engager un assistant; (nié)
+ff) le travailleur n’était pas tenu de se trouver un remplaçant; (admis)
+gg) il incombait à l’appelante de remplacer le travailleur; (nié)
+hh) l’appelante fournissait tous les outils et le matériel nécessaires, y compris le camion, un poste bande publique et un appareil radio émetteur‑récepteur; (admis)
+ii) ECL fournissait les remorques nécessaires au transport du propane; (admis)
+jj) le travailleur fournissait son propre téléphone cellulaire; (admis)
+kk) le travailleur ne pouvait pas utiliser le camion de l’appelante pour effectuer du travail pour d’autres; (nié)
+ll) le camion de l’appelante était habituellement garé sur le terrain d’ECL; (admis)
+mm) l’appelante payait la totalité des frais d’exploitation, y compris l’essence, l’huile, les réparations et l’entretien, l’immatriculation, les assurances et les permis; (admis)
+nn) le travailleur se rendait aux locaux d’ECL et en revenait par ses propres moyens; (admis)
+oo) le travailleur n’avait pas de possibilité de profit ni de risque de perte; (admis)
+pp) le travailleur ne facturait pas la TPS à l’appelante; (admis)
+qq) le travailleur n’avait pas investi de fonds dans l’entreprise; (admis)
+rr) le travailleur n’était pas responsable de la gestion de l’entreprise; (admis)
+ss) le travailleur n’exploitait pas une entreprise pour son propre compte lorsqu’il rendait des services pour l’appelante. (nié)
+[6] Les faits sur lesquels le ministre s’est appuyé pour prendre sa décision dans l’affaire relative à l’AE (2009‑2549(EI)) sont énoncés au paragraphe 5 de la réponse à l’avis d’appel :
+[traduction]
+a. l’appelante exploitait une entreprise de camionnage dans le cadre de laquelle elle transportait du propane en vrac; (admis)
+b. l’appelante était propriétaire d’un seul camion, qu’elle utilisait à des fins commerciales; (admis)
+c. l’appelante a conclu avec un client (ci‑après « ECL ») une entente visant la fourniture d’un camion et des services d’un chauffeur; (admis)
+d. le propane est une « marchandise dangereuse » et son transport est rigoureusement réglementé par le gouvernement; (admis)
+e. l’unique actionnaire de l’appelante était Terry Calder (ci‑après l’« actionnaire »); (admis)
+f. le travailleur est le frère de l’actionnaire; (admis)
+g. le travailleur a été engagé comme chauffeur et ses fonctions incluaient le chargement, le transport et le déchargement de propane; (admis)
+h. l’actionnaire participait activement à l’entreprise et il était le principal chauffeur de l’appelante; (admis)
+i. le travailleur et l’appelante n’ont pas conclu de contrat écrit; (admis);
+j. le travailleur a commencé à travailleur pour l’appelante en janvier 2003; (admis)
+k. le travailleur a cessé de travailler pour l’appelante le 30 septembre 2007, lorsque l’entreprise a mis fin à ses activités; (admis)
+l. la durée de l’emploi du travailleur était raisonnable; (admis)
+m. le travailleur gagnait une commission fixe équivalant à 31 pour 100 des revenus bruts réalisés au moyen du camion; (admis)
+n. les revenus tirés du camion dépendaient du nombre de kilomètres parcourus; (nié)
+o. l’appelante payait le travailleur deux fois par mois; (admis)
+p. l’appelante payait toujours le travailleur à intervalles réguliers; (admis)
+q. le taux de salaire du travailleur était raisonnable; (admis)
+r. l’appelante exigeait que le camion soit utilisé sept jours par semaine; (admis)
+s. ECL fournissait suffisamment de travail pour que le camion serve à temps plein; (admis)
+t. le travailleur conduisait le camion lorsque l’actionnaire ne le conduisait pas; (admis)
+u. le travailleur travaillait habituellement du dimanche au mercredi; (admis)
+v. le travailleur conservait un registre du travail accompli; (admis)
+w. le travailleur était placé dans une situation de subordination; (nié)
+x. le travailleur faisait rapport à ECL de façon quotidienne; (nié)
+y. ECL attribuait les tâches au travailleur; (admis)
+z. ECL fixait le calendrier de livraison; (admis)
+aa. ECL établissait les itinéraires que devait suivre le travailleur; (admis)
+bb. le camion était muni d’un système de suivi qui enregistrait le nombre de kilomètres parcourus et l’itinéraire suivi; (admis)
+cc. le travailleur faisait rapport à l’appelante deux fois par jour; (admis)
+dd. le travailleur était tenu de présenter des carnets de route et des connaissements; (admis)
+ee. le travailleur était tenu d’assister à des réunions sur la sécurité tenues par ECL; (admis)
+ff. ECL offrait de la formation au travailleur; (admis)
+gg. le travailleur informait l’appelante lorsqu’il devait s’absenter; (admis)
+hh. le travailleur ne pouvait engager un assistant; (nié)
+ii. le travailleur n’était pas tenu de se trouver un remplaçant; (admis)
+jj. il incombait à l’appelante de remplacer le travailleur; (nié)
+kk. les conditions d’emploi du travailleur étaient raisonnables; (admis)
+ll. l’appelante fournissait tous les outils et le matériel nécessaires, y compris le camion, un poste bande publique et un appareil radio émetteur‑récepteur; (admis)
+mm. ECL fournissait les remorques nécessaires au transport du propane; (admis)
+nn. le travailleur fournissait son propre téléphone cellulaire; (admis)
+oo. le travailleur ne pouvait pas utiliser le camion de l’appelante pour effectuer du travail pour d’autres; (nié)
+pp. le camion de l’appelante était habituellement garé sur le terrain d’ECL; (admis)
+qq. l’appelante payait la totalité des frais d’exploitation, y compris l’essence, l’huile, les réparations et l’entretien, l’immatriculation, les assurances et les permis; (admis)
+rr. le travailleur se rendait aux locaux d’ECL et en revenait par ses propres moyens; (admis)
+ss. le travailleur n’avait pas de possibilité de profit ni de risque de perte; (admis)
+tt. le travailleur ne facturait pas la TPS à l’appelante; (admis)
+uu. le travailleur n’avait pas investi de fonds dans l’entreprise; (admis)
+vv. le travailleur n’était pas responsable de la gestion de l’entreprise; (admis)
+ww. le travailleur n’exploitait pas une entreprise pour son propre compte lorsqu’il rendait des services pour l’appelante; (admis)
+xx. l’appelante a mentionné que le travailleur était traité de la même manière qu’une personne sans lien de dépendance; (admis)
+yy. le ministre a examiné tous les faits pertinents qui ont été portés à sa connaissance. (nié)
+[7] Seul M. Calder a témoigné à l’audience.
+Témoignage de M. Calder
+[8] En général, le témoignage de M. Calder paraissait digne de foi. Il a d’abord parlé, d’une façon évasive, des discussions qui avaient eu lieu entre lui et le travailleur avant qu’ils ne concluent un contrat oral. Il a précisé qu’il avait été convenu avec le travailleur que l’appelante ne déduirait pas de sa rémunération des cotisations au titre de l’AE et du RPC ni aucune autre somme. Il a ajouté qu’il avait en outre été convenu que le travailleur serait responsable de ses propres versements. En réalité, M. Calder a davantage parlé de l’objet visé par la conclusion du contrat que de l’entente devant être constatée par celui‑ci. Il a plus tard témoigné explicitement que les parties n’avaient certainement pas voulu établir une relation employeur‑employé.
+[9] Monsieur Calder a expliqué que les revenus tirés du camion étaient également tributaires du poids du chargement. Il a ajouté que le travailleur pouvait engager un assistant et qu’en réalité, au début de la relation, le travailleur travaillait pour d’autres. Il convient de signaler immédiatement que M. Calder a admis que le travailleur ne s’était jamais fait remplacer au cours de la période pertinente et que l’appelante n’avait jamais eu à trouver un remplaçant pour le travailleur pendant cette période. Dans son témoignage, M. Calder a également déclaré que l’appelante obligeait le travailleur à fournir son propre téléphone cellulaire. Enfin, il a ajouté qu’à une occasion, l’appelante avait remboursé au travailleur des frais d’hébergement et de repas qu’il avait engagés dans le cadre de son travail pour elle.
+Analyse et conclusion
+[10] J’examinerai d’abord la question de l’intention. Quels sont les éléments de preuve dont je suis saisi quant à l’intention de l’appelante et du travailleur au regard de la relation juridique intervenue entre eux? Premièrement, il importe de signaler que je ne dispose d’aucune entente écrite. Deuxièmement, le travailleur n’a pas témoigné de vive voix. Le seul témoignage oral présenté est celui de M. Calder. Ce témoignage, très vague et évasif à ce sujet, ne permet pas de savoir quels sont les points dont les parties ont réellement discuté avant de conclure le contrat. Il me semble que les parties ont davantage parlé des objectifs qui les ont incitées à passer le contrat que de la nature du contrat qu’elles voulaient conclure. Je ne puis inférer du témoignage de M. Calder qu’il était de l’intention commune des parties que le travailleur soit un entrepreneur indépendant et non un employé. Lorsque l’intention des parties ne peut pas être établie, il est tout à fait approprié, et même nécessaire, d’examiner l’ensemble des faits pour découvrir la relation juridique qui en ressort. À cet égard, les quatre éléments du critère à plusieurs volets énoncé dans l’arrêt Wiebe Door sont pertinents et utiles pour établir l’intention des parties au contrat et la nature juridique de celui‑ci.
+[11] Passant maintenant aux faits de la présente affaire, je dois me demander quels facteurs donnent à penser que le travailleur exploitait une entreprise à son compte.
+Degré de contrôle
+i. Il ne faisait l’objet d’aucune supervision directe de la part de M. Calder.
+ii. Il était chauffeur professionnel : il savait quoi faire et il connaissait l’ensemble de la réglementation applicable au transport de propane.
+iii. Il pouvait travailler pour n’importe qui d’autre.
+iv. Il pouvait se faire remplacer.
+Outillage
+v. Il fournissait son propre téléphone cellulaire.
+Possibilité de profit et risque de perte
+vi. Il pouvait augmenter son revenu en travaillant pendant un plus grand nombre d’heures.
+[12] Quels facteurs donnent à penser que le travailleur était un employé de l’appelante?
+Outillage et matériel
+i. L’appelante fournissait la totalité de l’outillage et du matériel nécessaire, y compris le camion.
+Responsabilité au titre d’un investissement et de la gestion
+ii. Le travailleur n’assumait aucune responsabilité de cette nature.
+Possibilité de profit et risque de perte
+iii. Le travailleur n’avait aucune dépense et aucune responsabilité lui faisant courir un risque de perte.
+iv. En réalité, il n’y avait aucune possibilité pour lui d’augmenter son revenu puisque la réglementation en matière de sécurité empêche les chauffeurs de camion transportant du propane de conduire pendant plus d’un nombre d’heures donné et que le travailleur conduisait uniquement lorsque M. Calder ne conduisait pas.
+Degré de contrôle
+v. Le travailleur recevait des instructions d’ECL. En fait, le travailleur faisait rapport à ECL de façon quotidienne. ECL attribuait des tâches au travailleur. ECL fixait le calendrier de livraison. ECL établissait l’itinéraire que devait suivre le travailleur. ECL obligeait le travailleur à respecter un code vestimentaire. Le travailleur était tenu d’assister à des réunions sur la sécurité tenues par ECL. ECL offrait de la formation au travailleur. En réalité, l’appelante avait délégué à ECL la plus grande partie de son autorité à l’égard du travailleur.
+vi. Le travailleur faisait également rapport à M. Calder à intervalles réguliers.
+vii. Le travailleur informait l’appelante lorsqu’il devait s’absenter.
+[13] Il s’agit donc en l’espèce d’un travailleur qui, si j’en crois les allégations de l’appelante, était un entrepreneur indépendant, mais qui ne fournissait aucun camion dans le cadre de sa présumée entreprise de camionnage : il n’était pas responsable d’assurer le camion, il ne payait pas l’essence et, en réalité, il ne courait aucun risque de responsabilité. Il se présentait pour conduire le camion de l’appelante, vêtu d’un uniforme (une chemise et un pantalon noir) qu’ECL obligeait l’appelante à lui faire porter. Dans ces circonstances, je ne puis conclure que le fait que l’appelante n’exerçait pas un contrôle sur la façon dont le travailleur conduisait le camion renverse le constat général selon lequel le travailleur n’exploitait pas une entreprise pour son propre compte.
+Le ministre a-t-il régulièrement exercé son pouvoir discrétionnaire?
+[14] Ce point n’est pas en litige puisque l’appelante a reconnu indirectement qu’elle et le travailleur auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance. Il convient de signaler, à cet égard, que l’appelante a admis que le taux de salaire du travailleur était raisonnable. L’appelante a en outre reconnu que la durée de l’emploi du travailleur était raisonnable. Enfin, elle a admis que le travailleur était traité de la même façon que l’aurait été une personne sans lien de dépendance.
+[15] Pour ces raisons, les appels sont rejetés.
+Signé à Ottawa, Canada, ce 21e jour de juin 2010.
+« Paul Bédard »
+Juge Bédard
+Traduction certifiée conforme
+ce 11e jour d’août 2010.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE : 2010 CCI 341
+NOS DES DOSSIERS DE LA COUR : 2009-2549(EI), 2009-2548(CPP)
+INTITULÉ : Calder Enterprises Inc. c. M.R.N.
+LIEU DE L’AUDIENCE : Edmonton (Alberta)
+DATE DE L’AUDIENCE : Le 17 mai 2010
+MOTIFS DU JUGEMENT : L’honorable juge Paul Bédard
+DATE DU JUGEMENT : Le 21 juin 2010
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Terry Calder
+Avocats de l’intimé :
+Me Marla Teeling
+Me Scott England
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

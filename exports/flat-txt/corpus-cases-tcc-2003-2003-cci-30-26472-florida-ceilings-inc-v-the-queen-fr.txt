@@ -1,0 +1,100 @@
+Title: Florida Ceilings Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26472/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-30-26472-florida-ceilings-inc-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2003-02-10
+
+# Florida Ceilings Inc. v. The Queen
+
+- Citation: 2003 CCI 30
+- Decision date: 2003-02-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3156, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Florida Ceilings Inc. v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-02-10
+Référence neutre
+2003 CCI 30
+Numéro de dossier
+2002-3516(GST)G
+Juges et Officiers taxateurs
+Alexander A. Sarchuk
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier: 2002-3516(GST)G
+ENTRE :
+FLORIDA CEILINGS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+_______________________________________________________________
+Requête entendue le 13 janvier 2003, à Toronto (Ontario)
+Par : L'honorable juge A. A. Sarchuk
+Comparutions :
+Avocat de l'appelante :
+Me Ross Morrison
+Avocats de l'intimée :
+Mes Shatru Ghan et Michael Appavoo
+_______________________________________________________________
+ORDONNANCE
+VU la requête présentée par l'avocat de l'intimée en vue d'obtenir une ordonnance de rejet du présent appel en raison du défaut de l'appelante de déposer un avis d'opposition à l'avis de (nouvelle) cotisation qui fait l'objet du présent appel;
+APRÈS AVOIR lu les affidavits de Sylvia Faulkner et de Michael Mahoney, qui ont été déposés;
+APRÈS AVOIR entendu les avocats des parties;
+ET considérant que l'avocat de l'intimée a demandé des dépens;
+IL EST ordonné que la requête en rejet soit accordée, que le prétendu appel soit annulé et que soient adjugés des frais de 50 pourcent des dépens taxés.
+Signé à Toronto (Ontario), ce 10e jour de février 2003.
+« A. A. Sarchuk »
+J.C.C.I.
+Traduction certifiée conforme
+ce 29e jour de novembre 2004.
+Sophie Debbané, réviseure
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence: 2003CCI30
+Date: 20030210
+Dossier: 2002-3516(GST)G
+ENTRE :
+FLORIDA CEILINGS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L'ORDONNANCE
+Le juge Sarchuk, C.C.I.
+[1] Il s'agit d'une requête présentée par l'intimée en vue d'obtenir une ordonnance de rejet de l'appel de l'appelante aux motifs suivants :
+[traduction]
+1. L'avis d'appel indique qu'une cotisation a été établie à l'égard de l'appelante pour la période terminée le 31 mars 1995.
+2. Un avis de (nouvelle) cotisation daté du 12 juillet 1995 a été établi à l'égard de la période de déclaration du 01.04.91 au 31.03.95 (la « période de déclaration » ).
+3. Aucun avis d'opposition n'a été déposé à l'égard de l'avis de (nouvelle) cotisation.
+4. L'appelante est hors délai pour présenter un avis d'opposition à l'avis de cotisation.
+5. Le document intitulé avis de (nouvelle) cotisation daté du 4 décembre 2001 n'est pas un avis de (nouvelle) cotisation; il est, en fait, un relevé du montant dû. De plus, le document ne concerne pas la période de déclaration et n'est aucunement une cotisation.
+[2] Après avoir lu les affidavits de Sylvia Faulkner et de Michael Mahoney et après avoir entendu les avocats des parties, j'ai conclu que le document sur lequel s'appuie l'appelante n'était pas un « avis de nouvelle cotisation » [1]. Ainsi, le seul avis de nouvelle cotisation valide est celui daté du 12 juillet 1995 établi à l'égard de la période du 1er avril 1991 au 31 mars 1995. Puisque aucun avis d'opposition n'a été déposé et puisque l'appelante est hors délai pour déposer un avis d'opposition, aucun appel ne peut être entendu par la présente cour.
+[3] De plus, je dois souligner que, même si j'avais conclu que le document était en fait une nouvelle cotisation, l'appel n'aurait pu être considéré par la présente cour, car, peu importe l'angle sous lequel on le lit, on ne peut que tirer la conclusion qu'il s'agit d'une cotisation portant qu'aucune taxe n'est payable à l'égard de laquelle on ne peut interjeter appel. Par conséquent, la Cour fait droit à la demande d'ordonnance visant l'annulation du soi-disant appel.
+[4] L'avocat de l'intimée demande que des dépens lui soient adjugés dans la présente affaire. L'avocat de l'appelante a plaidé qu'étant donné les circonstances et le comportement de l'Agence des douanes et du revenu du Canada (ADRC), qui ont donné lieu au dépôt de l'avis d'appel, des dépens ne devraient pas être adjugés.
+[5] La situation est quelque peu inhabituelle. D'une part, nous ne serions pas ici aujourd'hui si la Division du recouvrement de l'ADRC n'avait pas, pour reprendre les mots utilisés par Mme Faulkner dans son affidavit, [traduction] « délivré par inadvertance » ce document. Bien que la négligence de la personne responsable soit un fait dont je dois tenir compte, il est également bien fondé de conclure qu'il était évident, après un examen raisonnable de ce document, qu'il ne s'agissait pas d'une nouvelle cotisation.
+[6] L'alinéa 147(5)b) des Règles de la Cour canadienne de l'impôt (procédure générale) prévoit ce qui suit :
+Sous réserve des dispositions de la Loi, la Cour a entière discrétion pour adjuger les frais et dépens aux parties à une instance, pour en déterminer la somme, pour les répartir et pour désigner les personnes qui doivent les supporter.
+[...]
+(5) Nonobstant toute autre disposition des présentes règles, la Cour peut, à sa discrétion :
+[...]
+b) adjuger l'ensemble ou un pourcentage des dépens taxés jusqu'à et y compris une certaine étape de l'instance;
+[...]
+[7] Étant donné les faits qui m'ont été exposés, je conclus que l'adjudication de 50 pourcent des dépens taxés serait appropriée dans les circonstances.
+Signé à Toronto (Ontario), ce 10e jour de février 2003.
+« A. A. Sarchuk »
+J.C.C.I.
+Traduction certifiée conforme
+ce 29e jour de novembre 2004.
+Sophie Debbané, réviseure
+[1]
+Pièce A-1 mentionnée dans l'affidavit de Sylvia Faulkner.

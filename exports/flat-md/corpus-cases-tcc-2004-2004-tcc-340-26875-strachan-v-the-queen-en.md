@@ -1,0 +1,148 @@
+---
+title: "Strachan v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26875/index.do"
+last_modified: "2004-05-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 340"
+citation2: ""
+neutral_citation: "2004 TCC 340"
+decision_date: "2004-05-04"
+language: "en"
+item_id: "26875"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 714
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:30:44.502000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "899417b3eb3e5b1c0be5ec73df08def6a42a2d854ab8dfaf5f03ddb9b6877abd"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Strachan v. The Queen
+
+- Citation: 2004 TCC 340
+- Decision date: 2004-05-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 714, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Strachan v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-05-04
+Neutral citation
+2004 TCC 340
+File numbers
+2002-821(IT)I
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-821(IT)I
+BETWEEN:
+IAN M. STRACHAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on December 3, 2002 at Calgary, Alberta
+Before: The Honourable Judge L.M. Little
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Elena Sacluti
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1999 and 2000 taxation years are allowed, without costs, and the appeals are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 4th day of May 2004.
+"L.M. Little"
+Little J.
+Citation: 2004TCC340
+Date: 20040504
+Docket: 2002-821(IT)I
+BETWEEN:
+IAN M. STRACHAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little, J.
+A. FACTS:
+[1] The Appellant and Deborah Ann Di Massimo (the "Mother") are the natural parents of Briana Di Massimo.
+[2] The Appellant and the Mother signed a Maintenance Agreement dated the 12th day of May 1992.
+[3] The Maintenance Agreement was made pursuant to section 6 of the Alberta Parentage and Maintenance Act, S.A. 1990, c. P-O. 7. Pursuant to the Maintenance Agreement the Appellant agreed to pay maintenance payments ("Maintenance Payments") for the expected child in the amount of $200.00 per month commencing on the 15th day of October 1992 and thereafter on the 15th day of each month (Exhibit A-2).
+[4] Briana Di Massimo ("Briana") was born on September 27, 1992.
+[5] The Appellant commenced to make maintenance payments to the Mother on October 15, 1992 in the amount of $200.00 per month as required by the Maintenance Agreement.
+[6] In determining his income for the 1992, 1993, 1994, 1995, 1996, 1997 and 1998 taxation years the Appellant deducted $2,400.00 ($200.00 x 12) per year for each of the above years in connection with the Maintenance Payments that he made to the Mother on behalf of Briana.
+[7] The Minister of National Revenue (the "Minister") allowed the deduction of the Maintenance Payments claimed by the Appellant for the 1992-1998 taxation years.
+[8] By Notices of Reassessment dated the 22nd day of October 2001 the Minister reassessed the Appellant's 1999 and 2000 taxation years to reduce the Maintenance Payments paid by the Appellant to nil.
+B. ISSUE:
+[9] Is the Appellant entitled to deduct Maintenance Payments in the amount of $2,400.00 per year that he paid to the Mother on behalf of Briana in determining his income for the 1999 and 2000 taxation years?
+C. ANALYSIS:
+[10] During the hearing of the appeals the Appellant stated that the Mother had included the Maintenance Payments in determining her income for the 1999 and 2000 taxation years.
+[11] The Appellant provided the Court with copies of the income tax returns of the Mother for the 1999 and 2000 taxation years. The income tax returns indicate that the Mother reported support payments of $2,400.00 in each taxation year.
+[12] Counsel for the Respondent maintained that the Maintenance Agreement was not an agreement obtained pursuant to an order made by a competent tribunal.
+[13] Paragraph 56.1(4) of the Income Tax Act reads as follows:
+"support amount" means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient, if the recipient has discretion as to the use of the amount, and
+. . .
+(b) the payer is a natural parent of a child of the recipient and the amount is receivable under an order made by a competent tribunal in accordance with the laws of a province.
+[14] In the recent decision of Robert Fraser v. The Attorney General of Canada, [2004] F.C.J. No. 550 the Federal Court of Appeal held that payments made by Mr. Fraser pursuant to a Maintenance Agreement prepared under the Alberta Parentage and Maintenance Act would qualify as child support payments within the meaning of the relevant provisions of the Income Tax Act.
+[15] I agree with the reasoning of the Federal Court of Appeal in Robert Fraser v. The Attorney General of Canada (supra). I believe that the Fraser decision supports a finding in favour of the Appellant's appeals.
+[16] The appeals are allowed, without costs, to permit the Appellant to deduct the following maintenance payments:
+1999 taxation year - $2,400.00
+2000 taxation year - $2,400.00
+Signed at Vancouver, British Columbia, this 4th day of May 2004.
+"L.M. Little"
+Little J.
+CITATION:
+2004TCC340
+COURT FILE NO.:
+2002-821(IT)I
+STYLE OF CAUSE:
+Ian M. Strachan and
+Her Majesty the Queen
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+December 3, 2002
+REASONS FOR JUDGMENT BY:
+The Honourable Judge L.M. Little
+DATE OF JUDGMENT:
+May 4, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Elena Sacluti
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

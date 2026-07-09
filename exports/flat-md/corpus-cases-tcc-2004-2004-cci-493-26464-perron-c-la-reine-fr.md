@@ -1,0 +1,197 @@
+---
+title: "Perron c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26464/index.do"
+last_modified: "2004-07-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 493"
+citation2: ""
+neutral_citation: "2004 CCI 493"
+decision_date: "2004-07-09"
+language: "fr"
+item_id: "26464"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3149
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:15:19.131000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "97dd8119689c300eefb8f4bd8a3c570cecd6b96d4f3ffc89996bf9a67a0d85ac"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Perron c. La Reine
+
+- Citation: 2004 CCI 493
+- Decision date: 2004-07-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3149, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Perron c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-07-09
+Référence neutre
+2004 CCI 493
+Numéro de dossier
+2000-4205(IT)G
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2000-4205(IT)G
+ENTRE :
+LÉO PERRON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de Jeannette Perron (2000-4208(IT)G) le 20 mai 2004 à Montréal (Québec)
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Avocat de l'appelant :
+Me Christopher Mostovac
+Avocate de l'intimée :
+Me Stéphanie Côté
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1995, 1996, 1997 et 1998 sont admis, avec frais, et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 9e jour de juillet 2004.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Dossier : 2000-4208(IT)G
+ENTRE :
+JEANNETTE PERRON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de Léo Perron (2000-4205(IT)G) le 20 mai 2004 à Montréal (Québec)
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Avocat de l'appelante :
+Me Christopher Mostovac
+Avocate de l'intimée :
+Me Stéphanie Côté
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1995, 1996, 1997 et 1998 sont admis, avec frais, et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 9e jour de juillet 2004.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Référence : 2004CCI493
+Date : 20040709
+Dossiers : 2000-4205(IT)G
+2000-4208(IT)G
+ENTRE :
+LÉO PERRON,
+JEANNETTE PERRON,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx
+[1] Ces appels ont été entendus sur preuve commune. Ils concernent des pertes agricoles relativement à l'exploitation d'une ferme d'élevage de chevaux de course pour l'année 1995 et pour les années 1996, 1997 et 1998, la location de stalles d'écurie pour chevaux.
+[2] La question en litige est de savoir si les appelants étaient des agriculteurs de la catégorie 1 ou de la catégorie 2. Ils ont été cotisés comme appartenant à la catégorie 2. Ils souhaitent appartenir à la catégorie 1.
+[3] La notion de catégories d'agriculteurs en application de la Loi de l'impôt sur le revenu (la « Loi » ) a été formulée par le juge Dickson de la Cour suprême du Canada dans Moldowan c. La Reine, [1978] 1 R.S.C. 480, aux pages 487 et 488, comme suit :
+16 À mon avis, la Loi de l'impôt sur le revenu envisage dans son ensemble trois catégories d'agriculteur :
+(1) le contribuable qui peut raisonnablement s'attendre à tirer de l'agriculture la plus grande partie de son revenu ou à ce que ce soit le centre de son travail habituel. Ce contribuable, dont l'agriculture est le gagne-pain, est exempté de la limite imposée par le par. 13(1) pour les années où il subit des pertes provenant de son exploitation agricole;
+(2) le contribuable qui ne considère pas l'agriculture, ou l'agriculture et une source secondaire de revenu, comme son gagne-pain mais pour qui l'exploitation d'une ferme est une entreprise secondaire. Ce contribuable a droit aux déductions prévues au par. 13(1) au titre des pertes provenant d'une exploitation agricole;
+(3) le contribuable qui ne considère pas l'agriculture, ou l'agriculture et une source secondaire de revenu, comme son gagne-pain et qui poursuit une activité agricole comme passe-temps. Les pertes de ce contribuable provenant de son exploitation agricole qui ne constitue pas une entreprise, ne sont pas déductibles.
+[4] Le paragraphe 13(1) ci-dessus mentionné est maintenant le paragraphe 31(1) de la Loi.
+[5] Les témoins des appelants ont été monsieur Charles Perron, madame Johanne Perron et les appelants. Le vérificateur, monsieur Robert Larochelle, a témoigné pour la partie intimée.
+[6] Monsieur Charles Perron a relaté qu'en 1968, son père, monsieur Léo Perron, s'était associé avec une autre personne pour exploiter une entreprise de grossiste en appareils, accessoires et pièces de chauffage à l'huile sous le nom de : Chauffage Premier Inc. Monsieur Perron était alors actionnaire à 50 p. 100 dans le capital-actions. En 1986, il a racheté la part de son associé qui désirait se retirer.
+[7] Monsieur Charles Perron a commencé à travailler pour l'entreprise en 1984. Il avait vingt ans. Après l'acquisition des parts de l'associé par son père, en 1986, Charles explique qu'il est devenu de plus en plus celui qui était en charge de l'entreprise. Il en est maintenant le gérant. L'entreprise a entre 150 à 175 clients et dessert un territoire qui va de St-Jérôme à Ste-Hyacinthe.
+[8] Le témoin relate qu'en 1988, ses parents ont acquis des chevaux et que son père a commencé à venir moins souvent aux bureaux de l'entreprise. Son père est demeuré l'actionnaire majoritaire. Il détient 99 p. 100 des actions. Il a continué à agir à titre d'administrateur de l'entreprise mais de moins en moins dans le champ opérationnel. Sur le plan administratif, son père vérifiait quelquefois les comptes recevables et c'est lui qui a déterminé les montants de salaire pour les années 1995 et 1996, et ceux des dividendes pour les années 1997 et 1998.
+[9] Toutefois, les deux personnes qui peuvent signer les chèques sont Charles et sa soeur Johanne.
+[10] Monsieur Charles Perron relate aussi que de 1986 à 1989, c'est sa mère madame Jeannette Perron, qui faisait la tenue de livres de l'entreprise, jusqu'au moment où il a fallu que l'entreprise se convertisse aux systèmes informatisés. Madame Johanne Perron, la fille des appelants, qui connaissait bien l'informatique, a alors commencé à travailler dans l'entreprise. Elle a remplacé sa mère dans ses tâches de travail et en fait beaucoup d'autres. Elle travaille à plein temps à l'entreprise.
+[11] Lors de son témoignage, l'appelante, madame Perron a relaté que son mari et elle, étaient propriétaires de chevaux depuis 1988. En 1990, ils ont acheté une ferme à Ste-Rosalie : une ferme inoccupée depuis cinq ans, mais qui avait été une ferme pour l'élevage de chevaux. La maison et les bâtiments ont été retapés et ils y ont déménagé en 1991.
+[12] Madame Jeannette Perron confirme qu'elle n'est pas retournée travailler à l'entreprise après 1989. Elle aide son mari à l'écurie. Ils travaillent ensemble. Leur fils Yves et un autre employé ont aidé aux travaux d'élevage et d'entraînement des chevaux jusqu'en 1996.
+[13] Elle relate qu'au début, l'appelant, monsieur Perron, se rendait à l'entreprise une fois ou deux par semaine. Par la suite, ce fut une fois ou deux par mois.
+[14] Les appelants s'étaient fait un plan d'affaires. Ils voyaient deux chevaux courir chaque semaine et gagner en moyenne des bourses de 1 000 $ par semaine. En 1988, un de leurs chevaux avait gagné une bourse de 15 000 $. Les courses durent huit mois par année et il y a une moyenne de 25 courses par année.
+[15] Mais les événements ne se sont pas déroulés de cette façon. Madame Perron relate que les économies du couple se sont engouffrées dans l'exploitation de cette ferme incluant tous les RÉER de monsieur Perron ainsi que la majeure partie des siens. Elle dit qu'ils ont été malchanceux avec leurs chevaux qui ont eu des maladies et des boiteries. Ils ne se vendaient pas bien aux encans.
+[16] Les faits relatés par madame Johanne Perron n'ont pas été différents. Elle a relaté que lorsqu'elle a pris des congés de maternité en 1996 et en 2000, l'entreprise a engagé quelqu'un pour la remplacer. Ce n'est pas sa mère qui l'a remplacée.
+[17] Monsieur Léo Perron a confirmé que le rôle de Charles dans le commerce d'appareils de chauffage a grandi avec les années. Il a expliqué que sa journée à la ferme commence à 6 heures. Il doit soigner les chevaux, les entraîner, passer la niveleuse sur la piste d'entraînement d'un demi mille, réparer les clôtures et tout le reste. Il s'agit d'un travail de sept jours par semaine, de longues journées sans compter les heures. Il pouvait passer une nuit à l'accouchement d'une jument.
+[18] En 1996, il a commencé à prendre des pensionnaires à 8 $ par jour avec le foin.
+[19] Monsieur Perron a mentionné que la ferme venait d'être vendue à monsieur Yves St-Jacques, un des anciens employés de la ferme.
+[20] Il n'y a pas eu vraiment de contre-interrogatoire sur l'emploi du temps des appelants. Le contre-interrogatoire s'est surtout porté sur les possibilités de rentabilité de l'entreprise.
+[21] Monsieur Robert Larochelle, vérificateur, a relaté qu'il a passé trois jours à la ferme des appelants à compter du 29 septembre 1992. Monsieur Perron lui aurait dit qu'il allait aux bureaux de Chauffage Premier Inc., deux à trois fois par semaine et qu'à l'occasion, il faisait des livraisons sur la Rive-Sud.
+[22] Le témoin dit qu'il a appliqué l'article 31 de la Loi parce que la ferme n'était pas le seul emploi du temps de monsieur Perron. Il a aussi pris en compte le peu de rentabilité de la ferme, bien que pour les fins de l'article 31, il ait considéré que l'entreprise avait une expectative raisonnable de profits.
+[23] Les avocats des deux parties se sont référés en plus de la décision de la Cour suprême dans Moldowan à quelques autres décisions dont notamment la décision de la Cour d'appel fédérale dans Canada c. Donnelly, (C.A.) [1998] 1 C.F. 513 (Q.L.).
+[24] Je me réfèrerai à cette décision dont parties des paragraphes 8, 9, 11, 12, 20 et 21 se lisent ainsi :
+8 Pour déterminer si l'agriculture est la principale source de revenu d'un contribuable, il faut établir une comparaison favorable entre cette source de revenu et l'autre source de revenu du contribuable sous l'angle des capitaux investis, du temps consacré à chacune et de la rentabilité présente et future. Il s'agit d'un critère à la fois relatif et objectif. Ce n'est pas une simple question de proportion. Ces trois facteurs doivent être soupesés et aucun d'eux n'est décisif. Malgré tout, il ne saurait y avoir de doute que le facteur de la rentabilité est le principal obstacle auquel se heurtent les contribuables qui cherchent à convaincre les tribunaux que l'agriculture est leur principale source de revenu. Il en est ainsi parce que les contribuables ont la charge de prouver que le revenu net qu'ils pourraient raisonnablement s'attendre de tirer de l'agriculture est considérable par rapport à leur autre source de revenu: il s'agit invariablement d'un revenu d'emploi ou de profession libérale. ...
+9 En résumé, les capitaux investis, le temps consacré à l'activité et la rentabilité sont les facteurs cumulatifs qui détermineront si l'agriculture sera considérée comme une « entreprise secondaire » visée par les dispositions relatives à la perte agricole restreinte. ...
+...
+11 En ce qui concerne le temps consacré à l'élevage, je ne suis pas convaincu que le contribuable a modifié son orientation professionnelle en 1980 au point que l'exercice de la médecine est devenu une entreprise secondaire en regard de son entreprise d'élevage. ...
+12 L'analyse du facteur de la rentabilité permet de dissiper les doutes qui subsistent quant à savoir si la principale source de revenu d'un contribuable est l'agriculture. Il existe une différence entre le genre de preuve qu'un contribuable doit produire concernant la rentabilité en vertu de l'article 31 de la Loi et le genre de preuve applicable à l'expectative raisonnable de profit. Dans ce dernier cas, le contribuable n'a qu'à démontrer qu'il a ou avait une expectative de profit, que ce soit un dollar ou un million de dollars. Il est bien établi en droit fiscal que les termes « expectative raisonnable de profit » et « expectative de bénéfices raisonnables » ne sont pas synonymes. En ce qui concerne la rentabilité prévue à l'article 31, toutefois, le montant est pertinent parce qu'il permet de comparer un revenu agricole potentiel avec le revenu que le contribuable a effectivement tiré de l'autre occupation. Autrement dit, nous cherchons des éléments de preuve de nature à appuyer une conclusion d'expectative raisonnable de bénéfices « considérables » en provenance de l'agriculture.
+...
+20 Il est bien établi que l'article 31 de la Loi vise à empêcher les « gentlemen-farmers » qui disposent d'un revenu considérable de déduire la totalité des pertes agricoles qu'ils subissent : voir l'arrêt Morrissey c. Canada, supra, aux pages 420 à 423. Plus souvent qu'autrement, cet arrêt est invoqué par les agriculteurs qui sont disposés à poursuivre l'exploitation de leur entreprise en demeurant ouvertement indifférents aux pertes subies. Concrètement et sur le plan juridique, ces agriculteurs sont des agriculteurs amateurs, mais le ministre leur accorde la déduction limitée prévue à l'article 31 de la Loi. Ces affaires concernent presque toujours des éleveurs de chevaux qui achètent ou élèvent des chevaux en vue de les faire courir. En vérité, ces entreprises ont rarement même une expectative raisonnable de profit, encore moins les éléments essentiels pour constituer la principale source de revenu de leur propriétaire.
+21 Peut-être bien qu'en droit fiscal il faut établir une distinction entre le fermier qui va à la ville et le citadin qui va à la campagne. Les personnes qui insisteront à l'avenir pour obtenir un allégement fiscal dans des circonstances semblables aux circonstances de l'espèce devraient le faire par les voies législatives et non par l'entremise de la Cour canadienne de l'impôt. Le système judiciaire ne peut plus se permettre d'encourager les contribuables ou leurs avocats à engager de telles poursuites dans l'attente du triomphe de l'espoir sur l'expérience.
+[25] Je suis d'avis que la preuve n'a pas révélé que les appelants étaient des agriculteurs qui étaient disposés à poursuivre l'exploitation de leur entreprise en demeurant indifférents aux pertes subies. Dans cette perspective, ils n'étaient pas les « gentlemen-farmers » décrits au paragraphe 20 de la décision ci-dessus. Au cours des années, les appelants ont modifié l'exploitation de la ferme pour tenter d'en réduire les pertes et d'en arriver à un certain degré de rentabilité.
+[26] Selon la décision Donnelly ci-dessus, trois éléments permettent de déterminer si le revenu d'un contribuable provient principalement de l'agriculture, ou de l'agriculture et de quelque autre source, au sens du paragraphe 31(1) de la Loi. Il s'agit des capitaux investis, du temps consacré à l'agriculture en rapport avec celui consacré à l'autre source de revenu et de la rentabilité présente et future de l'activité agricole.
+[27] L'importance des capitaux investis n'a pas été mise en doute par l'intimée. Le questionnement de l'intimée était à l'égard de la rentabilité de l'entreprise. Je crois toutefois que cet élément doit être considéré subséquemment à l'emploi du temps.
+[28] Contrairement à ce que la preuve avait révélé dans la décision Donnelly ci-dessus et décrit au paragraphe 11 de cette décision, les appelants ont modifié leur orientation professionnelle au point que l'entreprise d'élevage et de location de stalles est devenue leur activité première. La description de leur emploi du temps faite par les appelants au vérificateur et à l'audience fait état d'un temps presque totalement consacré aux activités de la ferme.
+[29] En ce qui concerne l'aspect de profitabilité sur lequel s'est attardée l'avocate de l'intimée, je me réfère à cet égard à l'analyse du juge Dickson dans Moldowan (supra), aux pages 486 et 488 :
+13 ... Ce qui distingue la principale « source » de revenu du contribuable, c'est l'expectative raisonnable de revenu en provenance des diverses sources, ainsi que ses habitudes et sa façon coutumière de travailler. On peut analyser ces éléments, notamment à l'égard de chaque source de revenu, en examinant le temps consacré à celle-ci, les capitaux engagés et la rentabilité présente et future. Un changement dans les habitudes ou la façon de travailler d'un contribuable ou dans ses expectatives raisonnables peut indiquer une modification de la principale source de revenu, mais cela demeure une question de fait dans chaque cas.
+...
+17 ... D'autre part, une personne qui change de travail et concentre ses forces et ses capitaux dans l'agriculture avec l'espoir d'en tirer son revenu principal ne perd pas son droit de déduire la totalité de ses frais d'établissement.
+[30] Je crois que les appelants se sont retrouvés dans cette situation. Ils ont changé de travail et ont concentré leurs forces et leurs capitaux dans l'agriculture avec l'espoir d'en tirer un revenu substantiel.
+[31] Je conclus donc que les appelants font partie de la première catégorie telle que décrite dans l'arrêt Moldowan. En conséquence, les appels sont accordés avec frais.
+Signé à Ottawa, Canada, ce 9e jour de juillet 2004.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE :
+2004CCI493
+Nos DES DOSSIERS DE LA COUR :
+2000-4205(IT)G
+2000-4208(IT)G
+INTITULÉS DES CAUSES :
+Léo Perron et Sa Majesté la Reine
+Jeannette Perron et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+le 20 mai 2004
+MOTIFS DE JUGEMENT PAR :
+l'hon. juge Louise Lamarre Proulx
+DATE DU JUGEMENT :
+le 9 juillet 2004
+COMPARUTIONS :
+Pour les appelants :
+Me Christopher Mostovac
+Pour l'intimée :
+Me Stéphanie Côté
+AVOCAT INSCRIT AU DOSSIER:
+Pour les appelants :
+Nom :
+Me Christopher Mostovac
+Étude :
+Starnino Mostovac
+Montréal (Québecj)
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

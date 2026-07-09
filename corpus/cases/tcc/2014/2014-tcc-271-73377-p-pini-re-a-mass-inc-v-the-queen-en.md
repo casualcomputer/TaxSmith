@@ -1,0 +1,275 @@
+---
+title: "Pépinière A. Massé Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/73377/index.do"
+last_modified: "2014-09-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 271"
+citation2: ""
+neutral_citation: "2014 TCC 271"
+decision_date: "2014-09-12"
+language: "en"
+item_id: "73377"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5157
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:34:46.849000+00:00"
+cases_cited_count: 3
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8e46fcc23450798a48f3428f1d87a6cb2ef0fc571af48e809b595a53d2dc50cf"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Pépinière A. Massé Inc. v. The Queen
+
+- Citation: 2014 TCC 271
+- Decision date: 2014-09-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5157, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pépinière A. Massé Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-09-12
+Neutral citation
+2014 TCC 271
+File numbers
+2011-3900(GST)G
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2011-3900(GST)G
+BETWEEN:
+PÉPINIÈRE A. MASSÉ INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on July 2, 3, 4 and 5, 2013, at Montreal, Quebec.
+Before: The Honourable Justice B. Paris
+Appearances:
+Counsel for the Appellant:
+Louis-Frédérick Côté
+Counsel for the Respondent:
+Josée Fournier
+JUDGMENT
+The appeal from the reassessment made under the Excise Tax Act for the periods from October 1, 2003, to December 31, 2009, is allowed in part, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 12th day of September 2014.
+“B. Paris”
+Paris J.
+Translation certified true
+on this 20th day of January 2015.
+Erich Klein, Revisor
+Citation: 2014 TCC 271
+Date: 20140912
+Docket: 2011-3900(GST)G
+BETWEEN:
+PÉPINIÈRE A. MASSÉ INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Paris J.
+[1] The appellant is appealing from an assessment made by the Minister of Revenue of Quebec under Part IX of the Excise Tax Act (the ETA) denying input tax credits (ITCs) in the amount of $45,951.42 for the periods from October 1, 2003, to December 31, 2009, and imposing penalties in the amount of $11,744.02 under section 285 of the ETA.
+[2] The Minister maintains that the appellant is not entitled to the ITCs at issue because the supporting documents it provided do not meet the documentation requirements laid down by the ETA and the Input Tax Credit Information (GST/HST) Regulations (the Regulations). Indeed, the Minister presumed that the invoices produced by the appellant in support of the ITCs were accommodation invoices because the suppliers whose names appeared on them did not provide any services to the appellant. At the hearing, counsel for the respondent specified that the respondent is not disputing that the appellant received supplies of temporary workers and that it paid the amounts appearing on the invoices issued for those supplies, but is saying that the supplies were not received from the suppliers indicated on the invoices.
+[3] The disallowed ITCs relate to personnel placement services allegedly acquired by the appellant from twelve separate suppliers, namely:
+Suppliers
+ITCs claimed and denied
+1. 7152523 Canada Inc.
+$2,194.98
+2. 9207-7049 Québec inc.
+$757.54
+3. 6890628 Canada Inc.
+$4,332.42
+4. 9185-5361 Québec inc.
+$988.45
+5. Tech Ly Services
+$4,838.08
+6. 9174-5141 Québec inc.
+$4,333.46
+7. 9162-7208 Québec inc.
+$2,214.17
+8. Tan Ny Chanh
+$4,619.02
+9. 9163-3594 Québec inc.
+$1,303.30
+10. Chan Maureen
+$7,839.91
+11. 9118-7906 Québec inc.
+$11,838.48
+12. B.K. Farm Services
+$691.60
+TOTAL
+$45,951.42
+[4] For the purposes of these reasons, I will refer to the above numbered corporations by the first four digits of their names.
+[5] The appellant maintains that the invoices issued by those corporations represent genuine commercial transactions between the corporations and the appellant and that the appellant is entitled to the ITCs claimed. The appellant also argues that the assessments made for the periods from October 1, 2003, to September 30, 2005, were statute-barred and disputes the penalties imposed under section 285 of the ETA.
+Relevant legislation [6] The relevant provisions with regard to GST are paragraph 169(4)(a) of the ETA and section 3 of the Regulations as well as section 285 of the ETA. In the present case, the relevant excerpts read as follows:
+Excise Tax Act
+169(4) A registrant may not claim an input tax credit for a reporting period unless, before filing the return in which the credit is claimed,
+(a) the registrant has obtained sufficient evidence in such form containing such information as will enable the amount of the input tax credit to be determined, including any such information as may be prescribed; and
+. . .
+285. Every person who knowingly, or under circumstances amounting to gross negligence, makes or participates in, assents to or acquiesces in the making of a false statement or omission in a return, application, form, certificate, statement, invoice or answer (each of which is in this section referred to as a “return”) made in respect of a reporting period or transaction is liable to a penalty of the greater of $250 and 25% of the total of
+(a) if the false statement or omission is relevant to the determination of the net tax of the person for a reporting period, the amount determined by the formula
+A - B
+where
+. . .
+(b) if the false statement or omission is relevant to the determination of an amount of tax payable by the person, the amount, if any, by which
+(i) that tax payable
+exceeds
+(ii) the amount that would be the tax payable by the person if the tax were determined on the basis of the information provided in the return, and
+(c) if the false statement or omission is relevant to the determination of a rebate under this Part, the amount, if any, by which
+(i) the amount that would be the rebate payable to the person if the rebate were determined on the basis of the information provided in the return
+exceeds
+(ii) the amount of the rebate payable to the person.
+Input Tax Credit Information (GST/HST) Regulations
+3. For the purposes of paragraph 169(4)(a) of the Act, the following information is prescribed information:
+. . .
+(b) where the total amount paid or payable shown on the supporting documentation in respect of the supply or, if the supporting documentation is in respect of more than one supply, the supplies, is $30 or more and less than $150,
+(i) the name of the supplier or the intermediary in respect of the supply, or the name under which the supplier or the intermediary does business, and the registration number assigned under subsection 241(1) of the Act to the supplier or the intermediary, as the case may be,
+. . .
+(c) where the total amount paid or payable shown on the supporting documentation in respect of the supply or, if the supporting documentation is in respect of more than one supply, the supplies, is $150 or more,
+(i) the information set out in paragraphs (a) and (b),
+(ii) the recipient’s name, the name under which the recipient does business or the name of the recipient’s duly authorized agent or representative,
+(iii) the terms of payment, and
+(iv) a description of each supply sufficient to identify it.
+Facts [7] Since 1980, the appellant has operated a business growing and wholesaling strawberry plants. The shares of the appellant are held in equal parts by Alain Massé and his spouse.
+[8] The appellant harvests strawberry plants in the spring and fall. Those harvested in the spring are for export to the United States, while those harvested in the fall are sold in Quebec. The plants are cleaned and categorized and put into baskets and boxes in the sorting room located in the appellant’s warehouse on the farm. The appellant uses subcontractors to provide temporary workers to do this work, for which they are paid on a piecework basis. The appellant also has a few employees who are responsible for supervising the work and for quality control. At harvest time, each subcontractor supplies 35 to 40 workers to the appellant, and staff turnover was very high.
+[9] Alain Massé testified that during the periods at issue he had dealt with three subcontractors: Ms. Cuc (also called “Marguerite”), her husband Dung Hoang, and Mohan Singh Chandi. They transported the workers by bus to the appellant’s farm and helped supervise their own workers. With regard to Ms. Cuc and Mr. Hoang, Mr. Massé said that, until 2007 or 2008, he dealt rather with Ms. Cuc, but that Mr. Hoang subsequently took over and that Ms. Cuc no longer came.
+[10] Mr. Massé filed with the Court cards that the appellant used to record the number of baskets or boxes of strawberry plants finished by each worker and, at the end of a predetermined period, Mr. Massé calculated the total work done by the workers of each subcontractor. Mr. Massé said that, since Ms. Cuc, Mr. Hoang and Mr. Chandi had difficulty writing in French, he prepared the invoices for them and marked on those invoices the work completed by the workers on their teams as well as the amount the appellant owed for the work. He also wrote in the name, address, and tax number of the corporations or businesses that Ms. Cuc and Mr. Hoang used, according to what he had been told beforehand. In the case of Mr. Chandi, Mr. Massé entered part of this information, and Mr. Chandi also entered some himself, including the name of the company that was to receive payment.
+[11] During the periods at issue, Ms. Cuc and Mr. Hoang used the following ten corporations or businesses for the purpose of billing the appellant:
+9118-7906 Québec inc.
+Chan Maureen
+9163-3594 Québec inc.
+Tan Ny Chanh
+Tech Ly Services
+9185-5361 Québec inc.
+6890628 Canada Inc.
+9207-7049 Québec inc.
+7152523 Canada Inc.
+[12] During the periods at issue from October 1, 2003, to October 1, 2005, Ms. Cuc and Mr. Hoang billed the appellant under the name Chan Maureen. Starting in October 2006, they invoiced under a new name each season. Mr. Massé testified that Ms. Cuc and Mr. Hoang informed him at the beginning of the season, that is, in the spring or in the fall, of the name in which they wished the payments to be issued by the appellant for the temporary workers they supplied.
+[13] Mr. Massé testified that Ms. Cuc or Mr. Hoang always gave him reasonable excuses for the name changes, but did not provide any clarification in that regard. He also said that he asked them, each time there was a new name, to provide him with information on the new entities, and that Ms. Cuc or Mr. Hoang gave him corporate charters or similar documents and the GST and QST registration numbers of the new entities. Mr. Massé said that he then asked Daniel Rainville, the appellant’s external accountant, to verify that the tax numbers were valid. According to him, the tax numbers thus provided were always valid at the time.
+[14] Mr. Rainville confirmed that Mr. Massé asked him to verify the tax numbers and that the numbers provided were valid at the time of verification.
+[15] For most of the periods at issue, Mr. Chandi used his company 3943828 Canada Inc. (which operated under the name HD Farm) to bill the appellant. However, according to Mr. Massé, Mr. Chandi billed the appellant using the following two companies, with respect to which the Minister denied ITCs:
+9174-5141 Québec inc.
+9162-7208 Québec inc.
+[16] Mr. Massé did not specify how or when Mr. Chandi informed him that he used these other companies, and not HD Farm Services, nor did Mr. Massé say whether Mr. Chandi had provided any reason for the change. The information obtained by the appellant in 2012 from the Registraire des entreprises du Québec reveals that Mr. Chandi was neither a shareholder nor a director of those corporations and that the sector in which the two corporations operated was the manufacture of clothing.
+[17] Mr. Chandi testified for the appellant, but his testimony was very vague. He said that he might have gotten workers from 9174 to work for the appellant, but he did not give any further detail concerning that company, and he did not give any testimony at all regarding 9162.
+[18] The appellant also called as witness Mr. Hoang. He said that he had never provided temporary workers to the appellant and had never received a cheque from the appellant, although he said that he had worked [Translation] “a few days” a year for the appellant. According to him, he was paid for his work by a certain Mr. Soou, an obscure individual whose address and telephone number he did not know. In my view, Mr. Hoang is not at all credible.
+[19] The appellant filed a subpoena addressed to Ms. Cuc, which it had not been possible to serve on Ms. Cuc. According to the person found at Ms. Cuc’s address, she was out of the country for a few months. Ms. Cuc’s son also confirmed that she was in Vietnam for an extended period.
+[20] The appellant also called as witness Hari Ménshi Arimé, who was hired by Ms. Cuc to work for the appellant in the fall of 2008 and in the fall of 2009. She testified that a friend gave her the telephone number of Ms. Cuc, who was looking for workers. Ms. Cuc supervised the work of Ms. Arimé and her other workers at the appellant’s farm and paid them weekly in cash. She saw Mr. Dung Hoang only a few times at the appellant’s farm, but was able to identify him on a photo taken there.
+[21] The Revenu Québec auditor, Ghislain Fortin, who conducted the audit of the appellant, testified that about half of the cheques issued by the appellant to the twelve businesses in question in these proceedings were cashed at cheque-cashing centres. That was the reason the appellant was selected for an audit.
+[22] After examining the appellant’s records, Mr. Fortin concluded that all of the appellant’s accounts other than the ITC account were in order and that the appellant was correctly reporting its taxes. However, he denied the ITCs claimed with regard to the twelve businesses mentioned at paragraph 3 above because, according to the audits of ten of those businesses by other Revenu Québec auditors, the businesses were suppliers of accommodation invoices (SAIs). Those auditors testified before this Court. The results of the audits were all very similar: the businesses did not report the taxes on supplies; the payments for the supplies went (either wholly or in part) through cheque-cashing centres; and the businesses stated that their field of activity was the manufacture of clothing (except 6890628 Canada Inc., which stated that it operated in real estate).
+[23] When the auditors were able to visit these businesses’ premises, they noted that there was little or no activity and that few or no workers were on-site. In addition, they received no cooperation from those in charge of the businesses despite numerous attempts to contact them. In the end, the auditors concluded that the businesses had neither the resources nor the staff to provide the services that were supposed to have been provided to the clients. In cross-examination, the auditors admitted that these conclusions were with respect to the manufacture of clothing and that they had not taken any particular steps to look into whether the businesses in question carried on activities of personnel placement agencies.
+[24] Of the twelve businesses in question in this case, two were not audited in the fashion described earlier. Créations Chan, operated by Chan Maureen, was not audited by Revenu Québec, but because a number of cheques payable to Chan Maureen were deposited in the account of 9118, the auditor who audited that company concluded that 9118 had used the name and tax numbers of Chan Maureen to bill clients for the supply of temporary agricultural workers and that the invoices issued were accommodation invoices. Mr. Fortin based on this same conclusion his denial of ITCs on certain payments made by the appellant to Chan Maureen that were deposited in the account of 9118. Mr. Fortin had not seen any invoices relating to those cheques, but he assumed that the payments were amounts that had been invoiced to the appellant by 9118. However, at the hearing, the appellant produced the invoices relating to most of those payments, which were in the name of Chan Maureen.
+[25] The auditor who conducted the audit of 9118 admitted moreover that 9118 occasionally provided temporary workers and that some of its invoices were genuine.
+[26] BK Farm Services is the second business that was not audited. Mr. Fortin denied ITCs with respect to the taxes paid by the appellant to BK Farm Services because, according to his report, there appeared to have been an SAI and the tax numbers had been cancelled at the time of the transaction. Neither the respondent nor the appellant provided testimony or documentary evidence with regard to that business.
+Positions of the parties The appellant [27] The appellant points out that the respondent does not dispute that the appellant did receive the supplies of temporary workers and did pay the amounts appearing on the invoices presented for these supplies, and argues that there is no evidence that the appellant was involved in any way in the failure of the corporations and businesses in question to remit the GST collected on these supplies.
+[28] Regarding the supporting documents (the invoices) produced by the corporations and businesses, the appellant maintains that all of the information required under subsection 169(4) of the ETA and section 3 of the Regulations appears on them. The only controversial element concerns the name of the supplier or of the intermediary that appears on the invoices; it must thus be determined whether the corporations and businesses whose names appear on the invoices acted as suppliers or intermediaries.
+[29] The Revenu Québec auditors did not direct their attention to whether the corporations and businesses in question were involved as placement agencies, and the fact that they had few or no employees is not determinative because they could have hired self-employed workers if necessary.
+[30] According to the appellant, if the corporations and businesses were SAIs, they were SAIs in the clothing industry, not in personnel placement. In addition, some of the auditors acknowledged that a few of these corporations and businesses were mixed SAIs and that their activities were in part genuine.
+[31] The appellant maintains that there is no evidence establishing that it was in collusion with Ms. Cuc, Mr. Hoang, or Mr. Chandi with regard to the changes of corporations, and asserts that it dealt with them in good faith. The appellant regularly verified the tax numbers and asked for information regarding each of the businesses.
+[32] The appellant relied on the fact that the name appearing on the invoices could be either that of a supplier or that of an intermediary, in accordance with section 3 of the Regulations. In its opinion, the evidence shows that the businesses whose names appeared on the invoices could have been either suppliers of placement services or intermediaries between Ms. Cuc, Mr. Hoang and Mr. Chandi on the one hand and the appellant on the other for the purpose of personnel placement.
+[33] With regard to the statute-barred periods, the appellant submits that the respondent did not discharge her burden of proving that there was a misrepresentation that is attributable to neglect, carelessness or wilful default, or that it committed fraud in making a return within the meaning of the ETA.
+[34] Finally, the appellant argues that the respondent did not discharge her burden with regard to the penalties for gross negligence and that these must therefore be cancelled.
+The respondent
+[35] The respondent submits that the conditions laid down by subsection 169(4) of the ETA and section 3 of the Regulations are not met with respect to the invoices issued in the names of the twelve businesses in question because those invoices were not issued for services rendered. The appellant always dealt with Ms. Cuc, Mr. Hoang and Mr. Chandi, and it did not succeed in establishing any connections between them and the twelve businesses.
+[36] The respondent maintains that none of the businesses in question had the capacity to provide the services that were supposedly provided given the number and the frequency of the changes in businesses.
+[37] In addition, in the case of 9118, BK Farm and Chan Maureen, the tax numbers were invalid at the time certain payments were made by the appellant.
+Analysis Statute-barred periods [38] In my view, the respondent did not discharge her burden of proof with respect to the statute-barred periods.
+[39] First, BK Farm Services and Chan Maureen, two of the three businesses that billed the appellant between October 2003 and September 2006, were not audited and, consequently, the respondent was unable to establish that these two businesses could not have been involved as placement agencies to provide workers to the appellant or that they did not have the resources needed to do so.
+[40] It also seems that the auditor, Mr. Fortin, was wrong to assume that a part of the invoices during that period were issued in the name of 9118. Mr. Fortin never saw the invoices or cheques for those transactions. The appellant’s accountant verified those cases, and all of the cheques and invoices he found were in the name of Chan Maureen, not 9118.
+[41] Although the name Chan Maureen was mentioned in the audit report on 9118, the auditor did not try to contact Chan Maureen or to visit Chan Maureen’s place of business. It seems that certain cheques payable to Chan Maureen were deposited in the account of 9118, which led the auditor to assume that 9118 used the name and tax number of Chan Maureen to issue false invoices. On the other hand, the auditor himself concluded that Ms. Chan and 9118 offered a placement service for agricultural workers, but that the extent of that activity was not clear.
+[42] In the case of BK Farm Services, there was a total lack of evidence with regard to its activities.
+[43] Given that there was no audit of Chan Maureen’s and BK Farm’s activities and no evidence regarding their relationship with Ms. Cuc and Mr. Hoang, I cannot conclude that they did not provide workers to the appellant as indicated on the invoices issued to the appellant. Thus, the respondent has not proven that the invoices of these businesses were false invoices.
+[44] Nor did the respondent adduce any evidence that the GST numbers of Chan Maureen or BK Farm had been cancelled at the time of the payments made by the appellant.
+[45] With regard to 9163, in whose name Ms. Cuc invoiced the appellant in the fall of 2006, given the evidence provided by the respondent, I conclude that it is an SAI. The auditor’s testimony that the said company did not have the resources to provide agricultural workers was not contradicted.
+[46] It remains therefore to be determined whether the appellant made a misrepresentation attributable to neglect, carelessness or wilful default in claiming ITCs with respect to 9163 such that the Minister was entitled to reopen those periods for assessment purposes.
+[47] In the circumstances, given the evidence adduced at the hearing, I do not believe that, as regards the statute-barred periods, the appellant was neglectful or careless in not inquiring or checking further with regard to Ms. Cuc or Mr. Hoang or 9163, and the respondent did not succeed in demonstrating that the appellant should have suspected that Ms. Cuc or Mr. Hoang did not honestly identify the supplier of workers. I conclude that the appellant regularly verified the tax numbers of the businesses that invoiced it for the workers and that the numbers were valid during the relevant periods. In addition, in 2006, there had not yet been the frequent changes of businesses by Ms. Cuc and Mr. Hoang that occurred later.
+[48] In addition, the evidence adduced at the hearing does not allow me to conclude that the appellant was in collusion with Ms. Chan or Ms. Cuc. I find that it did not receive any undue advantage because of the transactions at issue.
+Non-statute-barred periods [49] For the second part of the periods at issue, the burden of proof is on the appellant. The nature of the burden was well defined by my colleague Justice Lamarre in Kosma-Kare Canada Inc. v. Canada, 2014 TCC 13, 2014 CarswellNat44, at paragraph 48:
+. . . To do so, it must put forward a prima facie case showing the inaccuracy of the assumptions relied on by the Minister when making the assessment. Such a case is supported by evidence which creates such a degree of probability in its favour that it must be accepted if believed by the Court, unless it is rebutted or the contrary is proved (Stewart v. Canada, [2000] T.C.J. No. 53 (QL). If the appellant makes such a prima facie case, the Minister must then refute that prima facie case and prove the assumptions he relied upon (Hickman Motors Ltd. v. Canada, [1997] 2 S.C.R. 336). However, the initial burden of proof put on the taxpayer cannot be lightly, capriciously or casually shifted, since the taxpayer has information within his reach and under his control (Orly Automobiles Inc. v. Canada, 2005 FCA 425, [2005] G.S.T.C. 200).
+[50] In the case at bar, the appellant did not lead any evidence showing that the businesses whose names appeared on the invoices for the periods actually provided workers to the appellant. Mr. Massé testified that he had always dealt with Ms. Cuc, Mr. Hoang and Mr. Chandi for the hiring of temporary workers and was never in contact with the directors or officers of the corporations or businesses in question.
+[51] Given the evidence filed by the respondent, I find that the businesses whose names were on the invoices for the non-statute-barred periods in question provided no services to the appellant because they had neither the staff nor the resources needed to do so. According to the auditors’ investigations, those businesses were SAIs in the clothing industry and did not report the taxes collected on the amounts they invoiced for their alleged services. They used cheque-cashing centres for the cheques they received and the audits conducted on-site revealed little or no commercial activity. In light of this evidence, largely uncontradicted by the appellant, I am of the view that it is not likely that these businesses, which were defrauding the government, were at the same time carrying on legitimate activities in the field of personnel placement. In my view, it is probable that these businesses were consistent in their operations and that they did not provide services to the appellant.
+[52] In addition, there is no evidence that Ms. Cuc, Mr. Hoang or Mr. Chandi ever explained to Mr. Massé what their connections were with those corporations and businesses or, more importantly, that it was those corporations and businesses, not they, who were providing the workers. Although Mr. Massé testified that Ms. Cuc and Mr. Hoang had used family or administration issues to justify the changes of corporation or business, his testimony on this point was very limited and very vague. In the case of Mr. Chandi, Mr. Massé did not say whether that individual had given any reason at all for the changes of corporation on his invoices. In any case, it seems that Mr. Massé never asked what role these corporations and businesses played or what their relationship was with Ms. Cuc, Mr. Hoang and Mr. Chandi.
+[53] In addition, there is no reliable evidence that Mr. Chandi used 9162 or 9174 to obtain workers for the appellant. I am of the view that Mr. Chandi’s testimony is not credible. He did not provide any clarification regarding his business relationship with 9174 or how he could have contacted it, and he seemed uncertain as to the circumstances surrounding his alleged use of that company. Furthermore, he said nothing about 9162.
+[54] According to Mr. Massé, Mr. Chandi used the name of 9162 twice in the fall of 2006 and the name of 9174 twice in the fall of 2007 in billing the appellant. It seems that those were the only times that Mr. Chandi billed the appellant using a name other than HD Farm Services in the 10 years that Mr. Chandi provided workers to the appellant as a subcontractor. In my view, it is surprising that Mr. Chandi could not remember the circumstances of those billing changes.
+[55] I note as well that the unbiased testimony of Ms. Arimé contradicts the argument that the businesses whose names were on the invoices provided workers to the appellant. Ms. Arimé said that it was Ms. Cuc who hired her to work for the appellant in the fall of 2008 and 2009 and that she did not mention 6890 and 7152, in whose names Ms. Cuc or Mr. Hoang billed the appellant for those periods. Ms. Arimé also testified that she had got the name and telephone number of Ms. Cuc from friends who had told her that Ms. Cuc was looking for workers. Lastly, according to Ms. Arimé, it was Ms. Cuc who paid for the work. Ms. Arimé’s testimony tends to establish that Ms. Cuc used names of businesses that had nothing to do with the supply of workers to bill the appellant in those instances. In my view, it is more likely that, during the other periods at issue, the other businesses in whose names Ms. Cuc billed the appellant did not provide workers to the appellant either.
+[56] The appellant’s argument that the corporations and businesses named on the invoices were intermediaries of Ms. Cuc, Mr. Hoang and Mr. Chandi is not confirmed by the evidence either; this is purely speculative at best. There is no evidence tending to establish that Ms. Cuc, Mr. Hoang or Mr. Chandi represented the corporations and businesses to Mr. Massé as being involved as intermediaries for them.
+[57] From this I conclude that, with regard to the non-statute-barred periods, the appellant failed to discharge its burden of proving that the corporations and businesses in question provided it with workers or acted as intermediaries for the purpose of so doing.
+[58] The appellant also maintains that it exercised due diligence with regard to the changes in corporations by its subcontractors and should not be held liable if their activities prove to be fraudulent. However, the case law clearly states that, even in the absence of evidence of knowledge, connivance or collusion between the recipient of services and the supplier of accommodation invoices, if the name and tax number of the supplier on the invoice are not those of the real supplier, the recipient is not entitled to ITCs. In Entreprises DRF inc. v. M.N.R, 2013 TCC 95, Justice Angers summarized the relevant law and observed, at paragraphs 43 to 48:
+Counsel for the appellant referred to certain cases which acknowledged that absent evidence of knowledge, connivance or collusion between the recipient and the provider of invoices of convenience, the recipient was entitled to ITCs if services were actually rendered and the tax was paid in good faith by the recipient (see, inter alia, Centre de la Cité Pointe‑Claire v. Her Majesty the Queen, [2001] T.C.J. No. 674, at paragraphs 37 to 40; Airport Auto Limited v. Canada, [2003] T.C.J. No. 683, at paragraph 19; Joseph Ribkoff Inc. v. Canada, [2003] T.C.J. No. 351, at paragraphs 100, 101 and 104; Sport Collection Paris Inc. v. Canada, [2006] T.C.J. No. 299, at paragraph 17.
+Indeed, numerous cases hold that it is not up to the recipient to bear the risk arising from fraud committed by one of its providers. However, the unanimous judgment of the Federal Court of Appeal in Systematix Technology Consultants Inc. v. Canada, [2007] F.C.J. No. 836 is interpreted as putting an end to the application of this approach favourable to the recipients.
+In that case, the Federal Court of Appeal was called upon to consider the possibility for a registrant to claim ITCs in a context where, for various reasons, the suppliers had no valid registration numbers for GST purposes. Justice Sexton stated he was of the view that “the legislation is mandatory in that it requires persons who have paid GST to suppliers to have valid GST registration numbers from those suppliers when claiming input tax credits.”
+In Comtronic Computer Inc. v. Canada, [2010] T.C.J. No. 22, Justice Boyle of this Court stated that he was bound to follow that decision of the Federal Court of Appeal which he interpreted as deciding that in GST collection and remittance matters, it is the purchaser who must bear the risk of supplier identity theft and wrongdoing.
+Thus, a recipient is eligible for ITCs only if the GST number that appears on an invoice must be validly assigned to the actual supplier (see 9088‑2945 Québec Inc. v. Canada, [2013] T.C.J. No. 48, at paragraphs 13, 14 and 16).
+In Constructions Marabella Inc. v. Canada, [2012] T.C.J. No. 319, a case similar to the present one, it is not the registration number that is in question but rather the very identity and existence of the supplier. As Deputy Judge Batiot of this Court mentioned in that case, “Clearly, if it is not a true supplier, its registration number is invalid in respect of the recipient claiming the ITC. The supplier’s name must match the registration number, and the supplier must in fact be the supplier.” Accordingly, just proving that the services were actually rendered will not suffice to be entitled to ITCs.
+[59] I agree with Justice Angers. The fact that a recipient took steps to verify the identity of the real supplier changes nothing as to the solution to be applied, because the recipient must prove that the supplier whose tax number is on the invoice is the service provider.
+Penalties [60] The burden is on the respondent to prove that the appellant made false statements or omissions in its returns and that those false statements or omissions were made knowingly or under circumstances amounting to gross negligence.
+[61] Since I am satisfied that the corporations and businesses at issue for the non‑statute-barred periods did not provide workers to the appellant, it follows that the claims of ITCs by the appellant in respect of the invoices in question are false statements.
+[62] However, I cannot find that the appellant made these statements knowingly or under circumstances amounting to gross negligence.
+[63] First, the respondent has not shown that the appellant participated in the false invoice scheme in this case. There is no evidence that leads me to believe that the appellant received an advantage from the false invoices.
+[64] For its part, the appellant, in my view, took reasonable precautions to ensure that the businesses on the invoices existed and were registered in accordance with the ETA, and therefore it was not negligent in its ITC claims.
+[65] Mr. Massé requested the entity’s registration documents, for example, its articles of incorporation, from Ms. Cuc and Mr. Hoang each time they changed the name on the invoices, and he asked Mr. Rainville, the appellant’s accountant, to verify the tax numbers of the corporations and businesses used by the subcontractors.
+[66] In my view, the respondent has not established that the appellant’s approach with regard to the changes of the businesses used by Ms. Cuc, Mr. Hoang and Mr. Chandi starting in the spring of 2006 was so inadequate as to amount to gross negligence. On the contrary, it seems to me that the appellant was, rather, an innocent victim of a false invoice scheme.
+Conclusion [67] The appeal is allowed in part, and the assessments for the periods from October 1, 2003, to September 30, 2006, including the associated penalties, shall be vacated, and the penalties for the non-statute-barred periods will also be cancelled.
+[68] Given that both parties had limited success, no costs will be awarded.
+Signed at Ottawa, Canada, this 12th day of September 2014.
+“B. Paris”
+Paris J.
+Translation certified true
+on this 20th day of January 2015.
+Erich Klein, Revisor
+CITATION:
+2014 TCC 271
+COURT FILE NO.:
+2011-3900(GST)G
+STYLE OF CAUSE:
+PÉPINIÈRE A. MASSÉ INC. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+July 2, 3, 4 and 5, 2013
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Paris
+DATE OF JUDGMENT:
+September 12, 2014
+APPEARANCES:
+Counsel for the appellant:
+Louis-Frédérick Côté
+Counsel for the respondent:
+Josée Fournier
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Louis-Frédérick Côté
+Firm:
+Spiegel Sohmer Inc.
+Montreal, Quebec
+For the respondent
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

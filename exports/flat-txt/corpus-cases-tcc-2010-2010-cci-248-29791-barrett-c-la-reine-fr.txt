@@ -1,0 +1,126 @@
+Title: Barrett c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29791/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-248-29791-barrett-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-05-05
+
+# Barrett c. La Reine
+
+- Citation: 2010 CCI 248
+- Decision date: 2010-05-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6597, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Barrett c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-05-05
+Référence neutre
+2010 CCI 248
+Numéro de dossier
+2009-2976(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-2976(IT)I
+ENTRE :
+CYRIL BARRETT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appel entendu le 28 avril 2010, à St. John’s (Terre‑Neuve‑et‑Labrador)
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Devon E. Peavoy
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2004 est rejeté.
+Signé à Ottawa, Canada, ce 5e jour de mai 2010.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 16e jour de juin 2010.
+Mario Lagacé, jurilinguiste
+Référence : 2010 CCI 248
+Date : 20100505
+Dossier : 2009-2976(IT)I
+ENTRE :
+CYRIL BARRETT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] En 2004, Go West Drywall a fait un chèque de 5 070 $ à l’ordre d’une personne nommée Cyril Barrett pour des services fournis par cette personne.
+[2] Au moyen d’une cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2004, cette somme‑là a été incluse dans les revenus de l’appelant, Cyril Barrett. Une pénalité pour faute lourde a aussi été imposée à ce dernier.
+[3] L’appelant affirme qu’il y a eu erreur sur la personne et que le revenu en question a plutôt été gagné par son fils, qui porte le même nom que lui.
+[4] En l’espèce, il y a trois questions en litige :
+a) Le revenu en cause a‑t‑il été gagné par l’appelant, ou par son fils?
+b) Était‑il opportun d’imposer une pénalité pour faute lourde à l’appelant?
+c) La cotisation a‑t‑elle été établie à l’égard d’une année d’imposition frappée de prescription?
+Contexte
+[5] L’appelant est résidant de Terre‑Neuve‑et‑Labrador, mais il a travaillé dans d’autres provinces de temps à autre. Le fils de l’appelant était résidant de la Colombie‑Britannique pendant la période en cause.
+[6] L’Agence du revenu du Canada (l’« ARC ») a mené une vérification à l’égard de l’appelant après avoir découvert que trois feuillets de renseignements T5018 provenant de trois entrepreneurs différents indiquaient que des paiements avaient été faits à Cyril Barrett pour des services fournis par ce dernier. Tous ces entrepreneurs étaient établis en Colombie‑Britannique. Aucun de ces paiements n’avait été inscrit dans les déclarations de revenus produites par l’appelant et par son fils.
+[7] Cette vérification a mené à l’inclusion de plus de 20 000 $ dans les revenus de l’appelant pour les années d’imposition 2003, 2004 et 2005. Le présent appel porte sur la somme incluse dans les revenus de l’appelant pour 2004.
+[8] Le paiement fait pendant l’année d’imposition 2003 – 7 539 $ – avait trait à des services fournis en Colombie‑Britannique à la société Paraline Ventures Ltd. La cotisation établie à l’égard de l’appelant pour 2003 a été annulée quand l’appelant a démontré qu’il travaillait à l’extérieur de la Colombie‑Britannique pendant la période visée. L’ARC a reconnu que le travail en question avait été fait par le fils de l’appelant.
+[9] Le paiement fait pendant l’année d’imposition 2005 – 11 185 $ – avait trait à des services fournis à la société Ivory Interiors Ltd. Aux stades de la vérification et de l’appel, l’appelant a d’abord nié avoir travaillé pour Ivory Interiors Ltd. Toutefois, lorsqu’on l’a informé qu’un représentant de cette société était prêt à témoigner à ce sujet, l’appelant a reconnu avoir reçu ce paiement‑là.
+[10] Pour ce qui est du paiement fait par Go West Drywall pendant l’année d’imposition 2004, l’appelant a affirmé à l’audience qu’il n’était pas celui à qui le paiement avait été fait. Le fils de l’appelant a affirmé avoir reçu le paiement de Go West Drywall, et il a dit que ce paiement avait été gagné par lui et ses amis.
+Analyse
+[11] Vu l’ensemble de la preuve, je suis convaincue que la cotisation établie à l’égard de l’appelant pour l’année d’imposition 2004 est correcte.
+[12] Lorsqu’ils ont témoigné, l’appelant et son fils ont été fort évasifs, surtout quand est venu le temps d’identifier les signatures apposées sur divers documents. Ni l’un ni l’autre de ces témoins n’était crédible.
+[13] Je tiens aussi à souligner que l’appelant a admis à l’ARC qu’il avait menti au sujet du paiement fait par Ivory Interiors Ltd. Lorsque l’ARC l’a défié d’expliquer pourquoi il avait changé de position pour le paiement fait en 2005, mais pas pour le paiement fait en 2004, l’appelant a répondu que c’est parce qu’il avait été pris à mentir.
+[14] L’intimée soutient que sa position est étayée par la présence de la signature de l’appelant au verso du chèque fait par Go West Drywall. L’avocate de l’intimée m’a demandé de constater la similitude entre cette signature‑là et les signatures de « Cyril Barrett » que portent les formulaires de déclaration de revenus de l’appelant (pièce R‑1, onglets 1 et 3).
+[15] Je suis d’accord avec l’avocate de l’intimée; toutes ces signatures semblent être similaires.
+[16] Je veux aussi préciser que les signatures mentionnées ci‑dessus sont très différentes des signatures apposées au verso des chèques faits en 2003 par Paraline Ventures Ltd. Dans ce deuxième cas, il a été admis que les revenus avaient été gagnés par le fils de l’appelant.
+[17] Prise dans son ensemble, la preuve m’a convaincue que l’appelant avait délibérément omis de déclarer des revenus de 5 070 $ pour l’année d’imposition 2004. Le ministre du Revenu national était donc en droit d’établir une cotisation relativement à ce montant‑là après la fin de la période normale de nouvelle cotisation et d’imposer une pénalité pour faute lourde à l’appelant.
+[18] L’appel est rejeté.
+Signé à Ottawa, Canada, ce 5e jour de mai 2010.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 16e jour de juin 2010.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2010 CCI 248
+No DU DOSSIER DE LA COUR :
+2009-2976(IT)I
+INTITULÉ :
+Cyril Barrett c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+St. John’s (Terre‑Neuve‑et‑Labrador)
+DATE DE L’AUDIENCE :
+Le 28 avril 2010
+MOTIFS DU JUGEMENT :
+L’honorable juge J. M. Woods
+DATE DU JUGEMENT :
+Le 5 mai 2010
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Devon E. Peavoy
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+s.o.
+Cabinet :
+Pour l’intimée :
+Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,309 @@
+Title: Thomassin v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28298/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-702-28298-thomassin-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-12-06
+
+# Thomassin v. The Queen
+
+- Citation: 2007 TCC 702
+- Decision date: 2007-12-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1882, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Thomassin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-12-06
+Neutral citation
+2007 TCC 702
+File numbers
+2006-914(IT)G
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-914(IT)G
+BETWEEN:
+LUCIE THOMASSIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on September 12, 2007, at Québec, Quebec
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel for the Appellant:
+Claude St-Hilaire
+Counsel for the Respondent:
+Susan Shaughnessy
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 1999, 2000 and 2001 taxation years is dismissed with costs to the Respondent and the decision of the Minister of National Revenue is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, the 6th day of December 2007.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 20th day of February 2008.
+François Brunet, Revisor
+Citation: 2007TCC702
+Date: 20071206
+Docket: 2006-914(IT)G
+BETWEEN:
+LUCIE THOMASSIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal in relation to the 1999, 2000 and 2001 taxation years.
+[2] To determine the assessments that are being appealed from, the Respondent relied on the following assumptions of fact:
+[Translation]
+...
+6. During the years in issue, the Appellant operated a business as a clairvoyant and naturopath, and for the sale of natural products, as a sole proprietor.
+7. During these years, the Appellant did not prepare any sale invoices for her business and kept no books of account.
+8. The lack of adequate records prompted the Minister to conduct an audit using the net worth method. The result is attached to this reply as Schedule "A" and it shows a significant discrepancy in relation to the income reported on the Appellant's income tax returns for the years in issue.
+9. During the years in issue, the Appellant played "video poker" on an almost daily basis, necessitating the withdrawal of large sums of money from her bank accounts and on her credit cards.
+10. A number of unexplained deposits were discovered during the analysis of the Appellant's bank account and credit card records.
+11. When filing her returns for the years in issue, the Appellant reported total incomes of $8,141, $6,623 and $7,454, respectively, for the 1999, 2000 and 2001 taxation years.
+12. By notice of reassessments dated March 7, 2005, the Minister of National Revenue made the following changes in the Appellant's income for each of the years in issue:
+1999
+2000
+2001
+Total income reported
+Previouly
+$8,141
+$6,623
+$7,454
+Add: Undeclared business income
+established by net worth
+$63,821
+$104,664
+$113,639
+Subtotal:
+$71,962
+$111,287
+$121,093
+Subtract: Business expenses
+allowed by reassessments:
+Housing cost (additional
+portion allowed)
+($2,442)
+($2,455)
+($2,455)
+Purchase of products
+($8,463)
+($31,256)
+Business travel (training)
+($200)
+($400)
+Subcontracting (housekeeping)
+($1,351)
+($3,825)
+Revised total income:
+‑‑‑‑‑‑‑‑‑‑‑
+$69,520
+‑‑‑‑‑‑‑‑‑‑‑
+$98,818
+‑‑‑‑‑‑‑‑‑‑‑
+$83,157
+Penalty under subsection 163(2) ITA
+$6,201
+$11,129
+$10,944
+Housing cost:
+13. When filing her income tax returns, the Appellant claimed a deduction for the costs of using her residence for business purposes in the amounts of $3,372.70 for the 1999 taxation year and $3,390.10 for each of 2000 and 2001, representing 29% of her total housing expenses.
+14. In the reassessments dated March 7, 2005, the Minister of National Revenue allowed an additional deduction in the amount of $2,442 for 1999 and $2,455 for each of 2000 and 2001 respectively, thereby increasing to 50% the proportionate use of the residence for business purposes.
+Purchase of products:
+15. In the reassessments dated March 7, 2005, the Minister of National Revenue allowed a deduction in the amount of $8,463 for 2000 and $31,256 for 2001 on the basis of the invoices supplied by the Appellant and on the basis of the amounts indicated on her credit card statements.
+Travel:
+16. In the reassessments dated March 7, 2005, the Minister of National Revenue allowed a deduction in the amount of $200 in 2000 and $400 in 2001 for the expenses related to training that the Appellant claims to have taken in Switzerland. No documents were supplied in support of the additional expenses claimed by the Appellant in this regard.
+Subcontracting – housekeeping:
+17. During an interview with the Minister's representative, the Appellant reported paying some sums of money to Colombe Legros for housekeeping services at her residence during the years in issue. The Minister of National Revenue allowed 50% of the amount claimed in 2000 and 2001 as an expense, that is, the proportion of the residence used for business purposes.
+18. By notice of objection received by the Minister on April 4, 2005, the Appellant objected to the notices of reassessment issued on March 7, 2005 for her 1999, 2000 and 2001 taxation years.
+19. By notice of reassessments dated December 28, 2005, the Minister of National Revenue reduced the penalties under subsection 163(2) of the Income Tax Act to $5,883 for the 1999 taxation year, $9,529 for the 2000 taxation year and $6,581 for the 2001 taxation year.
+20. Concerning the 1999 and 2000 taxation years, the Appellant made a misrepresentation of facts through neglect, carelessness or wilful default, warranting the reassessments after the normal reassessment periods applicable to the Appellant for those years.
+21. Concerning the three years in issue, the Appellant knowingly or under circumstances amounting to gross negligence made a false statement or omission when filing her income tax returns.
+[3] The issues in the case at bar are:
+(a) Was the Minister of National Revenue warranted in adding the amounts of $61,379, $92,195 and $75,703 to the Appellant's income for the 1999, 2000 and 2001 taxation years, respectively?
+(b) Did the Appellant make a misrepresentation of the facts attributable to neglect, carelessness or wilful default, warranting the reassessments after the normal reassessment periods applicable to the Appellant for the 1999 and 2000 taxation years?
+(c) Did the Appellant knowingly or under circumstances amounting to gross negligence make a false statement or omission when filing her income tax returns for the 1999, 2000 and 2001 taxation years?
+[4] At the outset of the hearing, the Appellant stated that she admitted the content of paragraphs 1, 3 and 10 of the Reply to the Notice of Appeal ("the "Reply), which reads as follows:
+[Translation]
+1. He denies the facts set out in paragraph 1 of the notice of appeal and states that the Department of National Revenue allowed the Appellant a business deduction for the purchase of products in the amount of $8,463 for the 2000 taxation year and $31,256 for the 2001 taxation year;
+. . .
+3. Concerning paragraph 4 of the notice of appeal, he admits that the portion of Appellant's home which was used for business purposes was 50%, but he points out that the Appellant had previously claimed a deduction of 29% of housing expenses when filing her income tax returns for the years in issue, and that an additional deduction of 21% of the housing expenses was allowed as a deduction when the reassessments dated March 7, 2005 were issued for each of the years in issue.
+. . .
+10. A number of unexplained deposits were discovered during the analysis of the Appellant's bank account and credit card records.
+[5] The Appellant testified in support of her appeal. For the years in question, she said, she worked as a fortune-teller with tarot cards. At the same time, she operated a business selling natural products. She also stated that she was a compulsive gambler with a particular attraction to video poker machines. In order to engage in this activity, she frequented various gambling places, such as bars and the racetrack, where she did her best to go unnoticed.
+[6] She stated that she had no assets other than her car and her home, both leased; she explained that she generally received clients in the morning who wanted their fortune told.
+[7] In 1999, in return for her services, her clients gave her what money they wished to give her, which was generally paid in cash. For 2000 and the following years, she charged a fixed amount of $20, always paid by cheque.
+[8] Concerning business activities related to the sale of natural products, she did not keep any record of her purchases or her sales; the profits were determined at the end of the year not from accounting entries or any documents but essentially from estimates made arbitrarily according to a percentage recommended by the natural products suppliers. In other words, she was determining her profit in a totally arbitrary way based on a percentage of profit suggested by the wholesaler.
+[9] She also confessed that her passion for gambling was certainly an illness but that this activity had nevertheless proved to be very profitable during the years 1999, 2000, 2001 and 2002.
+[10] To demonstrate the profitability of her gambling activities, she prepared and submitted a table; she said more than once that her winnings were larger than those appearing in the table. She used a portion of her winnings to live, buy clothes and indulge herself, and did not record this spending.
+[11] It may be useful to reproduce the table the Appellant prepared (Exhibit A-1):
+1999
+2000
+2001
+2002
+Withdrawal
+Deposit
+Withdrawal
+Deposit
+Withdrawal
+Deposit
+Withdrawal
+Deposit
+53,994.25
+55,151.42
+74,542.52
+74,026.39
+83,519.86
+84,499.21
+5,744.29
+5,246.78
+[12] To explain the considerable discrepancies between reported income and determined income, she stated that she had received substantial amounts from a certain Robert Bilodeau: $25,000 on two occasions, for a total of $50,000. No documents evidenced these payments. He was a person living in the United States who died during the assessment period. According to the Appellant, this person was courting her and sometimes resided with her. He was, she said, a very generous person.
+[13] The audit revealed that the Appellant had made trips to Switzerland, as shown by exhibits attesting to the purchase of plane tickets.
+[14] She stated that these were business and training trips for which she requested the deduction of her expenses, as they were made for the purpose of earning income.
+[15] Asked to provide supporting documents so that the auditor could analyze their relevance, she said she did not have any, notwithstanding some attempts made unsuccessfully to obtain them, and she added that if it was important she could always try to obtain them.
+[16] Those are the Appellant's main submissions in support of her appeal.
+[17] The Respondent called the auditor to testify about the origin of the assessment that was made using the net worth method.
+[18] To justify his use of this method, the witness explained that the Appellant had no system of bookkeeping and almost no supporting documents, as she had confirmed in the course of her testimony.
+[19] He also reported some confused, vague and general explanations that could not be supported since there was no bookkeeping or documentation.
+[20] The auditor stressed that it had been completely impossible for him to draw any reliable conclusions, adding that the Appellant had altered her version of the facts several times.
+Analysis
+[21] I have seldom seen a case that combined so many inconsistencies, and especially so many equally dubious explanations. I note that the burden of proof was on the Appellant.
+[22] The substantial income that was determined by the net worth method, and that the Appellant had not reported, is described in paragraph 12 of the Reply.
+12. By notice of reassessments dated March 7, 2005, the Minister of National Revenue made the following changes in the Appellant's income for each of the years in issue:
+1999
+2000
+2001
+Total income reported
+previously
+$8,141
+$6,623
+$7,454
+Add: Undeclared business income
+established by net worth
+$63,821
+$104,664
+$113,639
+Subtotal:
+$71,962
+$111,287
+$121,093
+Subtract: Business expenses
+allowed by reassessments:
+Housing cost (additional
+portion allowed)
+($2,442)
+($2,455)
+($2,455)
+Purchase of products
+($8,463)
+($31,256)
+Business travel (training)
+($200)
+($400)
+Subcontracting (housekeeping)
+($1,351)
+($3,825)
+Revised total income:
+‑‑‑‑‑‑‑‑‑‑‑
+$69,520
+‑‑‑‑‑‑‑‑‑‑‑
+$98,818
+‑‑‑‑‑‑‑‑‑‑‑
+$83,157
+Penalty under subsection 163(2) ITA
+$6,201
+$11,129
+$10,944
+[23] To explain the very large discrepancies, the Appellant advanced in support of her claims some explanations that were essentially oral and not validated or confirmed by anything whatsoever. Here are some of the dubious and thoroughly improbable explanations:
+· A certain Robert Bilodeau gave her $25,000 on two occasions during two different years. He resided in the United States and is now deceased.
+· She won money by playing video poker, over a four-year period.Yes, after thousands and thousands of times playing video poker, she made some profits that she even described by means of a table. She even added that the winnings were greater than those appearing in the table, since she was using a portion of them to live and indulge herself.
+· She was carrying on a particular activity (fortune telling); but, contrary to the usual practice in this area, she agreed to be paid in cash only during the first year, in 1999. Subsequently, she accepted only payments by cheque.
+[24] The table prepared by the Appellant to show that playing games of chance had been profitable for her, and the income she reported for the years in question, after determination through a totally arbitrary estimate, are highly unusual elements that raise such doubts as to their likelihood that they dictate a finding that they are simply not credible. After stating that this was her net income, she corrected herself and said it was actually gross income.
+[25] Asked to reconcile her tax return with the income she had reported in the process of attempting to lease a car, she was unable to provide a reasonable explanation.
+[26] The Appellant's appeal is founded essentially on the credibility of the explanations she has submitted. In other words, everything rests on the quality, but also on the plausibility, of her explanations. Her testimony was replete with inconsistent, confused and unfounded explanations, which is unacceptable for a person who is operating a business. And I found it very strange that the only available accounting was that demonstrating the profitability of her activities connected with games of chance.
+[27] During her testimony the Appellant sought to demonstrate that she was unaware of the common practices involved in the operation of a business and that she suffered from an illness which, surprisingly, was extremely profitable for her financially.
+[28] The Appellant provided no document or reasonable explanation to support her reported income, which was estimated, moreover, in an essentially arbitrary manner.
+[29] In reply to a question, the Appellant at first said this was her net income, then, when it was pointed out to her that this contradicted the contents of her income tax returns, corrected herself and stated that this was her gross income.
+[30] Is it plausible that the Appellant was paid exclusively by means of cheques for her fortune telling services? To ask the question is to answer it. Indeed, I put no faith in her explanation since, for a start, the amounts in question are marginal. Furthermore, the cheques generally come from people with no known address; and finally, the custom in such matters is that the services are paid for in cash.
+[31] As to the burden of proof that the Respondent had to discharge before being able to establish an assessment for the 1999 and 2000 taxation years after the normal the limitation period, we reproduce here subsection 152(4) of the Act. The applicable penalties are provided for in subsection 163(2) of the Act. These read as follows:
+152. ...
+(4) Assessment and reassessment [limitation period] – The Minister may at any time make an assessment, reassessment or additional assessment of tax for a taxation year, interest or penalties, if any, payable under this Part by a taxpayer or notify in writing any person by whom a return of income for a taxation year has been filed that no tax is payable for the year, except that an assessment, reassessment or additional assessment may be made after the taxpayer's normal reassessment period in respect of the year only if
+(a) the taxpayer or person filing the return
+(i) has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return or in supplying any information under this Act, or
+(ii) has filed with the Minister a waiver in prescribed form within the normal reassessment period for the taxpayer in respect of the year; or
+(b) the assessment, reassessment or additional assessment is made before the day that is 3 years after the end of the normal reassessment period for the taxpayer in respect of the year and
+(i) is required pursuant to subsection 152(6) or would be so required if the taxpayer had claimed an amount by filing the prescribed form referred to in that subsection on or before the day referred to therein,
+(ii) is made as a consequence of the assessment or reassessment pursuant to this paragraph or subsection 152(6) of tax payable by another taxpayer,
+(iii) is made as a consequence of a transaction involving the taxpayer and a non-resident person with whom the taxpayer was not dealing at arm's length,
+(iii.1) is made, if the taxpayer is non-resident and carries on a business in Canada, as a consequence of
+(A) an allocation by the taxpayer of revenues or expenses as amounts in respect of the Canadian business (other than revenues and expenses that relate solely to the Canadian business, that are recorded in the books of account of the Canadian business, and the documentation in support of which is kept in Canada), or
+(B) a notional transaction between the taxpayer and its Canadian business, where the transaction is recognized for the purposes of the computation of an amount under this Act or an applicable tax treaty.
+(iv) is made as a consequence of a payment or reimbursement of any income or profits tax to or by the government of a country other than Canada or a government of a state, province or other political subdivision of any such country,
+(v) is made as a consequence of a reduction under subsection 66(12.73) of an amount purported to be renounced under section 66, or
+(vi) is made in order to give effect to the application of subsection 118.1(15) or 118.1(16).
+163. ...
+(2) False statements or omissions – Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a "return") filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty of the greater of $100 and 50% of the total of
+(a) the amount, if any, by which
+(i) the amount, if any, by which
+(A) the tax for the year that would be payable by the person under this Act
+exceeds
+(B) the amounts that would be deemed by subsections 120(2) and (2.2) to have been paid on account of the person's tax for the year
+if the person's taxable income for the year were computed by adding to the taxable income reported by the person in the person's return for the year that portion of the person's understatement of income for the year that is reasonably attributable to the false statement or omission and if the person's tax payable for the year were computed by subtracting from the deductions from the tax otherwise payable by the person for the year such portion of any such deduction as may reasonably be attributable to the false statement or omission
+exceeds
+(ii) the amount, if any, by which
+(A) the tax for the year that would have been payable by the person under this Act
+exceeds
+(B) the amounts that would be deemed by subsections 120(2) and (2.2) to have been paid on account of the person's tax for the year
+had the person's tax payable for the year been assessed on the basis of the information provided in the person's return for the year, ...
+[32] The facts constituting the evidence, both for the prescribed years' assessment and to justify the penalties, are appreciably similar:
+· The total absence of any bookkeeping and, what is even more serious, the absence of all the basic documents required to support such bookkeeping;
+· A false and misleading statement made to a third party in order to obtain financing in the context of a car leasing contract;
+· A huge difference among the reported incomes, which were established not on the basis of any documents or records but by arbitrary estimate;
+· Gross neglect amounting to gross negligence as a result of her reckless lack of concern about her basic duty to establish the most elementary bookkeeping.
+[33] I simply do not believe the Appellant. Her testimony as a whole must be dismissed without hesitation. In matters of credibility, there are often some disquieting aspects that make the assessment a more difficult, if not painful, exercise, since the consequences are often disastrous for the person who gives testimony that is not credible. In this case, it is quite otherwise, as there is no doubt that I must reject the testimony, the sole component of the evidence.
+[34] The Appellant has or had serious problems as a compulsive player of video poker games. Intelligent and talkative, she said she is very honest and, when it comes to the management of her business, self-taught. Notwithstanding the qualities she claims to have, she retained no supporting documentation, although that has been shown to be absolutely basic for any minimal supervision in the management of a business. Yet she argued, with a chart in support, that her gambling activities were profitable.
+[35] During the periods in question, the Appellant was either an ignorant or naive person or someone who knew perfectly well what she was doing by failing to keep any bookkeeping records or any supporting documentation as to her business activities, hoping that this would serve her cause well. I think that the second hypothesis is the one that must be favoured.
+[36] Not only were the statements and explanations unconvincing, they seemed to me, on the contrary, simply implausible.
+[37] Consequently, the appeal is dismissed on the ground that the assessments for the years covered by the appeal are indeed warranted.
+[38] I reach the same conclusion concerning the penalties and the Respondent's right to assess for the years for which the normal assessment period has expired. Costs to the Respondent.
+Signed at Ottawa, Canada, the 6th day of December 2007.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 20th day of February 2008.
+François Brunet, Revisor
+CITATION: 2007TCC702
+COURT FILE NO.: 2006-914(IT)G
+STYLE OF CAUSE: Lucie Thomassin and Her Majesty the Queen
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: September 12, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: December 6, 2007
+APPEARANCES:
+Counsel for the Appellant:
+Claude St-Hilaire
+Counsel for the Respondent:
+Susan Shaughnessy
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Claude St-Hilaire
+Firm: Quessy Henry St-Hilaire
+City: Québec, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,205 @@
+Title: Harris c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/316671/index.do
+Corpus path: corpus/cases/tcc/2018/2018-cci-148-316671-harris-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2018-07-23
+
+# Harris c. La Reine
+
+- Citation: 2018 CCI 148
+- Decision date: 2018-07-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4964, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Harris c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-07-23
+Référence neutre
+2018 CCI 148
+Numéro de dossier
+2017-660(IT)I
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2017-660(IT)I
+ENTRE :
+ROY HARRIS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 31 octobre 2017 et le 5 juillet 2018, à Vancouver (Colombie-Britannique)
+Devant : L’honorable juge Randall S. Bocock
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocats de l’intimée :
+Me Shannon Fenrich
+Me Patrick Cashman
+JUGEMENT ET ORDONNANCE
+CONFORMÉMENT aux motifs de jugement et à l’ordonnance ci-joints :
+1. la requête préliminaire de l’intimée afin de faire annuler les appels concernant les années d’imposition 2006, 2007, 2008 et 2009 est accueillie, au motif qu’aucun avis d’opposition n’a été déposé pour l’une ou l’autre des années d’imposition indiquées et que la Cour n’a par conséquent pas compétence pour entendre les appels, conformément au paragraphe 166.1 de la Loi de l’impôt sur le revenu, LRC 1985, ch.1, telle que modifiée;
+2. l’appel concernant l’année d’imposition 2014 est accueilli, uniquement jusqu’à hauteur des dépenses d’entreprise de 7 868,69 $ auxquelles a droit l’appelant pour l’année d’imposition 2014;
+3. compte tenu des éléments de preuve dont disposait la Cour, il n’y a aucun appel en instance concernant l’année d’imposition 2015, dont la cotisation a été établie selon la déclaration de revenus produite, et pour laquelle aucun montant d’impôt n’est à payer;
+4. il n’y aura aucune adjudication de dépens;
+5. ces affaires sont renvoyées au ministre du Revenu national pour nouvel examen et nouvelle cotisation.
+Signé à Toronto, Ontario, ce 23e jour de juillet 2018.
+Le juge Bocock
+Référence : 2018 CCI 148
+Date : 20180723
+Dossier : 2017-660(IT)I
+ENTRE :
+ROY HARRIS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE JUGEMENT ET ORDONNANCE
+Le juge Bocock
+[1] Le présent appel concerne six années d’imposition, séparables en deux groupes : le premier groupe comprend les années d’imposition 2006, 2007, 2008 et 2009 et le second groupe, les années d’imposition 2014 et 2015. L’intimée a déposé une requête préliminaire au début de l’instruction de l’affaire, pour contester la compétence de la Cour d’entendre le premier groupe d’appel (la requête préliminaire). Le second groupe concernait des dépenses d’entreprise refusées. Les présents motifs distincts concernent la décision de la Cour pour les deux groupes.
+I. Historique des procédures et contexte
+[2] L’appelant, M. Harris, est un plaideur frustré. Il croit avoir été lésé par un certain nombre de personnes et d’institutions depuis plus de 30 ans, en lien avec un litige d’ordre commercial de longue date remontant aux années 1980. Ses allégations contre des cabinets comptables, des cabinets d’avocats, des banques à charte, les gouvernements de la Colombie-Britannique et du Canada, des organismes de réglementation (instituts de comptables agréés et barreaux) et des membres de la magistrature ont été rejetées par la Cour suprême de la Colombie-Britannique et la Cour fédérale. Au début de l’instruction du présent appel, il s’est enflammé à propos de son litige en matière d’impôt. Il a tenté d’assigner des témoins à comparaître relativement à des négociations commerciales alléguées et à son droit allégué à des pertes d’entreprise de 100 millions de dollars découlant de ces négociations. Malheureusement M. Harris n’a jamais demandé à déduire une telle perte d’entreprise. Le ministre du Revenu national (le ministre), logiquement, n’a jamais refusé une telle déduction. Ces pertes ne sont pas en litige devant la Cour. Lors de l’audition d’une requête préalable à l’audience concernant les assignations à comparaître, qui a eu lieu par téléconférence, la Cour a expliqué ces faits essentiels à M. Harris et a restreint les questions en litige aux avis de cotisation pour les six années.
+[3] Durant l’appel téléphonique, la Cour a annulé quatre assignations à comparaître et a indiqué qu’elle n’autoriserait aucune des autres (il y en avait plus de 20). Il n’y avait aucun fait, élément de preuve ou document pertinent au litige que l’un ou l’autre de ces témoins aurait pu produire en raison de ces assignations à comparaître. La Cour a également fait savoir qu’elle n’entendrait aucune requête, aucun témoignage ni aucune observation concernant la perte d’entreprise de 100 millions de dollars qui est non pertinente, dont la déduction n’a pas été demandée et qui n’a pas été plaidée. Cet avis a été répété à M. Harris au début de l’audience et, lorsque c’était nécessaire, tout au long de cette dernière. Il était accompagné d’un avertissement quant à l’adjudication des dépens, aux termes du paragraphe 10(2) des Règles de la Cour canadienne de l’impôt (procédure informelle). M. Harris a en fin de compte reconnu que ses préoccupations concernant la perte non contestée privaient ses autres appels de ses efforts et de son attention.
+II. Premier groupe : requête préliminaire concernant les années d’imposition 2006, 2007, 2008 et 2009
+a) La nature de la requête
+[4] Au premier jour de l’audition de la requête préliminaire, l’intimée a appelé Mme Alice Fung à témoigner. Mme Fung, agente de vérification de la conformité à l’Agence du revenu du Canada (ARC), a donné les dates suivantes auxquelles M. Harris a produit ses déclarations pour les années d’imposition 2006 à 2009 inclusivement. Ces déclarations ont été produites en retard, après que le ministre eut établi les cotisations, conformément au paragraphe 152(7) de la Loi de l’impôt sur le revenu, L.R.C. 1985, ch.1, telle que modifiée (la Loi). M. Harris a produit sa déclaration de revenus le 21 mai 2015 pour chacune des années d’imposition allant de 2006 à 2009 inclusivement, et a fait une production subséquente le 11 septembre 2015.
+[5] Grâce aux éléments de preuve par affidavit déposés, le ministre a établi qu’un avis de nouvelle cotisation pour chacune des années d’imposition indiquée ci-dessus avait été envoyé le 26 mars 2016. Le même déposant a indiqué que M. Harris n’a jamais déposé d’avis d’opposition pour l’une ou l’autre des années d’imposition 2006 à 2009 après la nouvelle cotisation établie le 26 mars 2016.
+b) Les observations de M. Harris
+[6] M. Harris s’est dit d’accord avec les dates et a confirmé qu’il n’avait pas déposé d’avis d’opposition pour l’une ou l’autre des années d’imposition. Toutefois, il soutient ce qui suit :
+a. pour d’autres années d’imposition, les dépenses refusées dans ces quatre années pour lesquelles il fait appel ont été autorisées, et une telle incohérence est injuste;
+b. des fiscalistes lui ont dit que s’il ne devait pas d’impôt, il n’avait pas à produire de déclaration de revenus;
+c. il est injuste de lui retirer le droit à ces pertes parce qu’il a à tort fait appel avant de s’opposer.
+c) La Loi
+[7] Le droit qu’a un contribuable de s’opposer à une cotisation ou à une nouvelle cotisation est énoncé au paragraphe 165(1) de la Loi.
+Opposition à la cotisation
+165 (1) Le contribuable qui s’oppose à une cotisation prévue par la présente partie peut signifier au ministre, par écrit, un avis d’opposition [...]
+[...]
+a) s’il s’agit d’une cotisation, pour une année d’imposition, relative à un contribuable [...]
+[...]
+(ii) le quatre-vingt-dixième jour suivant la date d’envoi de l’avis de cotisation;
+[8] Si le contribuable laisse passer cette date, il peut présenter une demande de prorogation en application du paragraphe 166.1(1).
+Prorogation du délai par le ministre
+166.1 (1) Le contribuable qui n’a pas signifié d’avis d’opposition à une cotisation en application de l’article 165 [...] peut demander au ministre de proroger le délai pour signifier l’avis ou présenter la requête.
+[9] Toutefois, certaines conditions limitent le pouvoir consenti au ministre d’accorder une prorogation, conformément à ce qui est énoncé à l’alinéa 166.1(7)a).
+Conditions d’acceptation de la demande
+(7) Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande est présentée dans l’année suivant l’expiration du délai par ailleurs imparti pour signifier un avis d’opposition ou présenter une requête; [...]
+[10] Si le ministre refuse d’accorder une prorogation, un contribuable peut s’adresser à la Cour qui, de la même manière, peut rejeter la demande si certains délais prescrits au paragraphe 166.2(5) de la Loi n’ont pas été respectés.
+Acceptation de la demande
+(5) Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande a été présentée en application du paragraphe 166.1(1) dans l’année suivant l’expiration du délai par ailleurs imparti pour signifier un avis d’opposition ou présenter une requête; [...]
+d) Analyse et décision
+[11] Aucun avis d’opposition n’a été déposé jusqu’à maintenant auprès du ministre pour les quatre années pour lesquelles M. Harris fait appel. Les avis de nouvelle cotisation ont été émis le 24 mars 2016. Ces nouvelles cotisations ont été établies relativement à des déclarations déposées en retard. La première période de quatre-vingt-dix jours prévue à l’alinéa 165(1)a) est arrivée à échéance le 22 juin 2016. La période d’une année additionnelle pour demander une prorogation au ministre afin de déposer un avis d’opposition en application du paragraphe 166.1(1), ou pour demander une prorogation à la Cour aux termes du paragraphe 166.2(1), est arrivée à échéance le 22 juin 2017.
+[12] La jurisprudence concernant l’expiration d’un tel délai et la nécessité de déposer un avis d’opposition est sans équivoque. La signification d’un avis d’opposition ou d’une demande de prorogation pour en déposer un dans les délais prescrits est une condition préalable à l’introduction d’un appel : Bormann c. Canada, 2006 CAF 83, aux paragraphes 3, 4 et 5.
+[13] Aucun des autres arguments de M. Harris ne résiste à la preuve. Le ministre n’est pas tenu d’établir, pour une année d’imposition, une cotisation identique à celle d’une autre année; son obligation est plutôt d’établir correctement une cotisation pour chaque déclaration de revenus sur le fond, conformément à la Loi : Roywood Investments Ltd. v HMQ, 79 DTC 5451, au paragraphe 5457 (CF), confirmé par 81 DTC 5148 (CAF).
+[14] En ce qui a trait aux délais pour déposer un avis d’opposition et à l’argument de M. Harris concernant l’iniquité de la condition préalable à l’opposition, la Cour canadienne de l’impôt n’est pas une Cour en equity : Christie c. La Reine, 2006 CCI 255, au paragraphe 6.
+[15] En raison de ce qui précède, la Cour accueille la requête de l’intimée. Les appels concernant les années d’imposition 2006, 2007, 2008 et 2009 sont annulés. La Cour n’a pas compétence pour entendre les appels lorsque le ministre n’a jamais reçu aucun avis d’opposition à la nouvelle cotisation ni demande de prorogation pour en déposer un. La condition préalable visée au paragraphe 169(1) ne peut légalement être écartée.
+II. Second groupe – dépenses refusées pour les années d’imposition 2014 et 2015
+a) Observations supplémentaires nécessaires
+[16] Les années d’imposition 2014 et 2015 traitent exclusivement de dépenses d’entreprise. Les deux parties se sont entendues sur ce point, qui paraît évident à la Cour. Il est également évident que les préoccupations de M. Harris relativement à la perte de 100 millions de dollars non réclamée l’ont empêché d’apporter à la Cour, le premier jour de l’audience, les pièces justificatives, les reçus et les factures qu’il prétendait avoir en sa possession. Il a affirmé à la conclusion de l’audience de cette journée qu’il pourrait produire ces documents.
+[17] La Cour a accepté sans réserve l’affirmation de M. Harris. Elle a décidé de lui donner un certain temps pour signifier les documents à l’intimée et les déposer à la Cour. Ils ont été reçus conformément à l’ordonnance applicable à la fin de 2017. L’intimée a demandé que son avocat ait la possibilité de mener un contre-interrogatoire au sujet des pièces justificatives de dépenses. La Cour a accueilli sa demande et, par la suite, a autorisé des observations limitées. Après ces observations limitées, la Cour pourrait rendre sa décision relativement aux dépenses d’entreprise refusées. Le contre-interrogatoire et la présentation des observations ont eu lieu le 5 juillet 2018, au deuxième jour de l’audience. La Cour peut donc maintenant rendre sa décision.
+b) Réception de renseignements additionnels
+[18] Il s’agissait en général de pièces justificatives de dépenses, de factures et de reçus s’inscrivant dans les catégories suivantes :
+location d’un bureau à domicile et services publics;
+frais d’Internet;
+frais de téléphone;
+frais afférents à un véhicule à moteur;
+dépenses liées au matériel informatique;
+entreposage;
+primes d’assurance-santé;
+primes d’assurance-vie;
+frais juridiques.
+[19] En premier lieu, aucune facture n’a été fournie relativement aux primes d’assurance-vie. Par conséquent, aucune déduction additionnelle n’est autorisée.
+[20] L’avocat de l’intimée a affirmé qu’aucun impôt additionnel n’était payable en 2015. Le ministre avait initialement établi la cotisation de M. Harris en fonction de la déclaration produite. La déclaration produite indiquait que le contribuable n’avait aucun impôt à payer et avait droit à un remboursement. Par conséquent, il n’y avait aucun litige entre les parties ou devant la Cour concernant une cotisation d’impôt. La Cour a examiné la déclaration de revenus de M. Harris pour 2015 et les feuilles de travail sommaires du spécialiste en déclarations de revenus. Ces documents ont révélé que toutes les dépenses d’entreprise réclamées avaient été acceptées. Selon la déclaration de revenus produite, les ventes brutes, les commissions et les honoraires s’élevaient à 30 000 $, les dépenses d’entreprise étaient de 7 809,24 $ et les frais d’utilisation de la résidence à des fins commerciales s’élevaient à 2 910 $, pour un revenu d’entreprise net de 19 280,76 $. En outre, en raison de divers crédits d’impôt, aucun impôt fédéral sur le revenu n’était à payer. Le ministre n’a pas réévalué ces montants et a plutôt établi [traduction] « une cotisation portant qu’aucun impôt n’était payable ». On ne peut interjeter appel d’une cotisation portant qu’aucun impôt n’est payable : Canada (Procureur général) c. Bruner, 2003 CAF 54, au paragraphe 3. Par conséquent, la Cour limitera sa décision à l’année d’imposition 2014.
+[21] Pour 2014, le ministre ne conteste pas que M. Harris a exploité une entreprise connue sous le nom de Electronic Express. Dans le cadre de cette entreprise, M. Harris a fourni à ses clients des données d’analyses portant sur les habitudes de consommation de divers groupes de consommateurs. Il a produit une déclaration de revenus indiquant un revenu d’entreprise net de 17 436,23 $ en 2014, plus tard réduit à 8 739 $ au moyen d’une demande de redressement d’une déclaration T1. Le ministre affirme que le revenu d’entreprise net est de 25 639 $ pour 2014. Le ministre a rejeté presque toutes les dépenses déclarées. Comme il n’est pas possible de savoir avec certitude quelles dépenses ont précédemment été acceptées par le ministre, la Cour décidera simplement de manière générale, en fonction de ses reçus, quelles sont les dépenses d’entreprise pour lesquelles M. Harris devrait avoir droit à une déduction. En fonction de la preuve dont elle dispose, la Cour a effectué la révision suivante, point par point.
+c) Analyse des dépenses selon la catégorie
+Location d’un bureau à domicile et services publics
+[22] M. Harris a produit un certificat de propriétaire concernant le loyer total payé. Il a également produit un historique des factures de British Columbia Hydro. Sa résidence personnelle couvrait 700 pieds carrés, dont environ 150 pieds carrés étaient utilisés à des fins principalement commerciales. Je présume que ces lieux ont parfois été utilisés à des fins personnelles, et que les lieux principalement réservés à des fins personnelles ont aussi été utilisés à des fins commerciales de temps en temps. Il serait raisonnable d’estimer que le taux d’utilisation des lieux à des fins commerciales était de 22 %.
+[23] Ainsi, pour 2014, M. Harris a droit à des dépenses d’entreprise de 3 069 $ pour le loyer, et de 49,90 $ pour les services publics.
+Frais d’Internet et de téléphone
+[24] Il est clair que l’entreprise de M. Harris dépend dans une large mesure de ces services. L’existence de la plupart des entreprises actuelles repose sur ces services. Lorsque des entreprises sont exploitées à partir de la résidence personnelle, il est pratiquement impossible de délimiter les usages personnels par rapport aux usages commerciaux. Il est clair que M. Harris utilise son téléphone intelligent et sa tablette pour ses communications personnelles et ses blogues. Il est aussi probable qu’il utilise ces appareils à des fins commerciales. De la même façon, il serait naïf de croire que son ordinateur de bureau ne sert pas à l’occasion à un usage personnel. Pour ces raisons, et puisque la technologie occupe une place importante dans l’entreprise de M. Harris et dans sa vie personnelle, un partage de 80 % pour l’entreprise et de 20 % pour usage personnel de tous les frais d’Internet et de téléphone serait raisonnable. Cela exclurait la ligne 1-800 distincte qui. logiquement, est exclusivement utilisée pour les appels entrants liés à l’entreprise. Ainsi, les dépenses d’Internet et de téléphone de M. Harris à des fins commerciales, et par conséquent ses dépenses d’entreprise, sont les suivantes :
+[EN BLANC]
+Totaux pour 2014
+Portion des dépenses de l’entreprise
+Téléphone Rogers
+158,82 $
+127,06 $
+Frais pour la ligne 1-800
+171,69 $
+171,69 $
+Primus
+875,76 $
+700,60 $
+Internet (Shaw)
+1 478,70 $
+1 182,96 $
+Total des dépenses d’entreprise pour Internet et le téléphone
+2 684,97 $
+2 182,31 $
+Frais d’entreposage
+[25] M. Harris a versé des sommes considérables pour l’entreposage d’ordinateurs, de dossiers d’entreprise, d’appareils de stockages de données et de fichiers désuets et inutilisés. Même si ce n’est pas là une méthode d’entreposage très efficiente, l’ARC et la Cour ne peuvent juger ces pratiques commerciales. M. Harris a reconnu que bon nombre des dossiers concernaient des poursuites qui n’ont rien à voir avec son entreprise actuelle, et des dispositifs de stockage de données et des disques qu’il hésitait à jeter. Logiquement, un partage 50:50 entre les besoins commerciaux et personnels est raisonnable. Ainsi, les dépenses d’entreprise concernant l’entreposage s’élèvent à 686,70 $ pour 2014.
+Frais de véhicule à moteur
+[26] M. Harris a reconnu que le seul usage commercial de son véhicule, qui est autrement utilisé à des fins personnelles, avait trait aux visites faites à son conseiller juridique américain (également son cousin), habituellement pas plus de 14 fois par an, à Bellingham, dans l’État de Washington. Le trajet aller-retour est estimé à 150 kilomètres. Aucun registre ou calendrier n’a été déposé pour appuyer ces déplacements. Ces 2 000 km par année semblent peu élevés comparativement aux kilomètres parcourus à des fins personnelles. Les autres activités commerciales de M. Harris peuvent être menées à distance. Même ces déplacements commerciaux allégués ont une composante personnelle et aucune facture n’a été présentée concernant les services juridiques de ce conseiller juridique américain. Tout bien pesé, il n’y a pas suffisamment d’éléments de preuve pour montrer que les dépenses ont été engagées à des fins commerciales et qu’il ne s’agissait pas simplement d’une dépense personnelle. Aucune déduction n’est accordée pour des frais afférents à un véhicule à moteur.
+Dépenses liées au matériel informatique
+[27] Comme pour les frais de téléphone et d’Internet ci-dessus, et dans la logique du refus d’admettre les frais afférents au véhicule à moteur, les ordinateurs et appareils électroniques constituent des outils essentiels pour l’entreprise de M. Harris. Ses dépenses totales indiquées dans une facture s’élevaient à 1 839,97 $US ou 2 350,97 $. Un taux de 80 % sera accepté pour ses dépenses à des fins commerciales. Ainsi, ses dépenses liées au matériel informatique devraient être de 1 880,78 $ pour 2014.
+Primes d’assurance
+[28] Les dépenses concernant des primes d’assurance ont été engagées pour M. Harris lui-même et non pour des employés. Il s’agit de dépenses personnelles qui ne sont pas déductibles en tant que dépenses d’entreprise.
+Frais juridiques
+[29] M. Harris a payé à un cabinet d’avocats, dont la pratique se limite aux questions fiscales, des honoraires d’avocat totalisant 819 $ en 2015, comme le prouve une facture. Comme cette facture concerne l’année d’imposition 2015 et a déjà été acceptée, la Cour n’en tiendra pas compte.
+III. Conclusion et dépens
+[30] En fonction de ce qui précède, M. Harris a droit aux dépenses d’entreprise suivantes pour l’année d’imposition 2014 :
+Poste de dépense
+Dépenses d’entreprise pour l’année d’imposition 2014
+Bureau à domicile et services publics
+3 118,90 $
+Internet et téléphone
+2 182,31 $
+Entreposage
+686,70 $
+Dépenses liées au matériel informatique
+1 880,78 $
+Dépenses totales de l’entreprise
+7 868,69 $
+[31] Étant donné l’état des dossiers d’entreprise de M. Harris, et puisqu’il n’a pas été en mesure d’apporter des reçus pour ses dépenses le premier jour de l’audience, il n’y aura aucune adjudication de dépens.
+Signé à Toronto, Ontario, ce 23e jour de juillet 2018.
+Le juge Bocock
+RÉFÉRENCE :
+2018 CCI 148
+No DU DOSSIER DE LA COUR :
+2017-660(IT)I
+INTITULÉ :
+ROY HARRIS c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 31 octobre 2017
+MOTIFS DU JUGEMENT :
+L’honorable juge Randall S. Bocock
+DATE DU JUGEMENT :
+Le 23 juillet 2018
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Shannon Fenrich
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+s.o.
+Cabinet :
+s.o.
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

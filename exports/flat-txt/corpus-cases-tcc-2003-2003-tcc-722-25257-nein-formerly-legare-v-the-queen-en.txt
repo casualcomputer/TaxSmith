@@ -1,0 +1,161 @@
+Title: Nein (formerly Legare) v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25257/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-722-25257-nein-formerly-legare-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-10-15
+
+# Nein (formerly Legare) v. The Queen
+
+- Citation: 2003 TCC 722
+- Decision date: 2003-10-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2386, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Nein (formerly Legare) v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-10-15
+Neutral citation
+2003 TCC 722
+File numbers
+2003-15(IT)I
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-15(IT)I
+BETWEEN:
+GISELE NEIN (FORMERLY LEGARE),
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on September 29, 2003, at Regina, Saskatchewan
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+Counsel for the Appellant:
+Gregory Swanson
+Counsel for the Respondent:
+Anne Jinnouchi
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2000 taxation year is allowed, and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+The Appellant is awarded party-and-party costs throughout which are fixed at $700.
+Signed at Saskatoon, Saskatchewan, this 15th day of October 2003.
+"D.W. Beaubier"
+Beaubier, J.
+Citation: 2003TCC722
+Date: 20031015
+Docket: 2003-15(IT)I
+BETWEEN:
+GISELE NEIN (FORMERLY LEGARE),
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+REASONS FOR JUDGMENT
+Beaubier, J.
+[1] This appeal pursuant to the Informal Procedure was heard at Regina, Saskatchewan on September 29, 2003. The Appellant and her husband Gregory Nein testified. The Respondent called the Appellant's former husband, Elwin Hanoski. All of the witnesses were intelligent and literate.
+[2] Paragraphs 1 to 5 inclusive of the Appellant's Notice of Appeal were established by the evidence and are true. They read:
+1. The Appellant hereby appeals to the Tax Court of Canada from the reassessment of her 2000 T1 personal income tax return and the confirmation thereof, after objection, on the 30th day of September, 2002.
+2. The Appellant resides at Regina, in the Province of Saskatchewan.
+3. Pursuant to the said reassessment, the Minister has included in the Appellant's income for 2000 certain child support payments which both the Appellant and the payer of the support elected to be non-taxable and non-deductible.
+4. By court order made prior to May 1997, Elwin Hanoski, was required to make annual payments to the Appellant for child support.
+5. In 2000, a form T1157 "Election for Child Support Payments", duly signed by both the Appellant and the payer was delivered to and accepted by Canada Customs and Revenue Agency. The form evidences the agreement of the parties thereto that they have elected that the annual child support payments will be neither taxable or deductible to the parties. By letter dated June 28, 2000, CCRA confirmed receipt of the form and that the child support payable under the Appellant's agreement with Elwin Hanoski would not be taxable after January 1, 2000.
+[3] The Respondent's response to them is contained in sub-paragraphs 12(i) to (o) of the Respondent's assumptions which read:
+(i) in error, the Election was forwarded by the Canada Customs and Revenue Agency (the "CCRA") to the Appellant for her signature;
+(j) the Election was erroneously accepted by the CCRA as a valid election;
+(k) the Spouse did not intend to make the Election;
+(l) the Election is null and void;
+(m) there is no valid Election;
+(n) during the 2000 taxation year, child support payments payable to the Spouse pursuant to an order or agreement were $7,000.00; and
+(o) there is no commencement date in respect of the child support payments received by the Appellant.
+[4] Mrs. Nein's testimony is believed. She made the following assertions, which the Court accepts as true:
+1. In 1992, 1996, 1997 and 2003 Mr. Hanoski tried to reduce his $700 per month child maintenance payments to the Appellant for his son, Jason.
+2. In 1999 she discussed the possibility of requiring more maintenance due to Jason needing braces and having other additional expenses.
+3. When she received Exhibit A-3, form T1157, from CCRA duly filled out and signed by Mr. Hanoski, Mrs. Nein thought that it represented Mr. Hanoski's method of dealing with Jason's additional needs.
+4. She discussed the election with Mr. Hanoski by telephone on or about April 10, 1999, the day before Jason's birthday in the following words:
+Mr. Hanoski: "Did you sign that form yet?"
+Mrs. Nein: "Do you know what it says?"
+Mr. Hanoski: "Just stay out of my business!"
+That was the beginning and end of that subject. That testimony by Mrs. Nein carries the ring of truth as to a customary conversation between two estranged former spouses. Moreover, having seen both of them on the stand it seems likely.
+5. She sent the election, which she had received from CCRA, back to CCRA in about June of 2000, because it would not apply until her taxes were calculated after December 31, 2000.
+6. She acted on the election to her detriment in 2000 and thereafter by:
+(a) Not buying her usual level of RRSPs to offset her taxes from Jason's maintenance.
+(b) Not saving money to pay her income tax on the maintenance.
+[5] Mr. Hanoski's testimony is not accepted for the following reasons:
+1. He filled out Exhibit A-3.
+2. He alleges that he returned it as erroneous on the day he signed it, January 21, 2000, but:
+(a) If he had found it to be in error (as he says), why did he not tear it up and why did CCRA keep it?
+(b) Why is CCRA's stamp "Delivered by hand February 29, 2000, Regina D.D./B.D." dated February 29th? Mr. Hanoski gave his guess that they misplaced it. But there is no testimony from any CCRA representative who might have knowledge respecting CCRA's date stamp.
+(c) The form T1157 is clear and its second paragraph states that by signing it Mr. Hanoski is electing that his payments are not to be deductible.
+(d) While Mr. Hanoski denied any advantage from the election for him, in fact the evidence is that by its completion, he did not have to face any further litigation from Mrs. Nein for additional support.
+[6] In the Court's view, this litigation is not between Mr. Hanoski and Mrs. Nein. Rather, it is between CCRA and Mrs. Nein. Mrs. Nein received the completed election (Exhibit A-3) from CCRA. She completed it pursuant to CCRA's instructions. She returned it to CCRA on June 8, 2000 with Exhibit A-5, the following letter:
+June 8, 2000.
+H. Busby
+Enquiries & Adjustments
+Surrey BC V3T 5E1
+re: Account # [deleted by the Court]
+Dear H. Busby,
+In March I received a letter from you stating that I needed to sign form T1157 Election for Child Support Payments in order for it to be valid. Therefore, enclosed please find the completed form.
+Please confirm back in writing receipt of this document. Also, please indicate in writing, that in fact this form means that as of the 2000 Taxation year I no longer should claim my maintenance income as declared INCOME on line 128. Thank you in advance for your attention to this matter.
+Sincerely,
+Giséle Légaré
+110 Plant Cr.
+Regina SK S4N 5C3
+(306) 789-0426
+In return on June 28, 2000 CCRA replied in Exhibit A-6 as follows:
+June 28, 2000
+GISELE H LEGARE
+Account Number
+110 PLANT CRES [deleted by the Court]
+REGINA SK S4N 5C3
+Dear Madam:
+Re: Form T1157, "Election for Child Support Payments"
+We received Form T1157, "Election for Child Support Payments." We have updated our records with the information provided on this form. Based on this information, the child support payable under your order or agreement with Elwin Hanoski will not be taxable after January 1, 2000.
+If you need more information, you may call our General Enquiries personnel at 1-800-959-8281.
+Yours sincerely,
+D. Drahovzal
+T1 Client Services
+[7] In the face of CCRA's actions and the findings of this Court that Mr. Hanoski's testimony is not credible and Mrs. Nein's evidence (including the testimony of Mr. Nein contradicting Mr. Hanoski) is accepted, the assumptions quoted are refuted.
+[8] The appeal is allowed. This matter is referred back to the Minister of National Revenue for reconsideration and reassessment accordingly. The Appellant is awarded party-and-party costs throughout which are fixed at $700.
+Signed at Saskatoon, Saskatchewan, this 15th day of October 2003.
+"D.W. Beaubier"
+Beaubier, J.
+CITATION:
+2003TCC722
+COURT FILE NO.:
+2003-15(IT)I
+STYLE OF CAUSE:
+Gisele Nein (formerly Legare) v. Her Majesty the Queen
+PLACE OF HEARING:
+Regina, Saskatchewan
+DATE OF HEARING:
+September 29, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Beaubier
+DATE OF JUDGMENT:
+October 15, 2003
+APPEARANCES:
+Counsel for the Appellant:
+Gregory Swanson
+Counsel for the Respondent:
+Anne Jinnouchi
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Gregory Swanson
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

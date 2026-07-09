@@ -1,0 +1,241 @@
+---
+title: "Bonner c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28208/index.do"
+last_modified: "2007-02-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 79"
+citation2: ""
+neutral_citation: "2007 CCI 79"
+decision_date: "2007-02-16"
+language: "fr"
+item_id: "28208"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2022
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:57:49.525000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "88d4d3aefd129633f6dbd73b986474cf6f522b2a6ec35e97e65fcc1b2ffea673"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bonner c. La Reine
+
+- Citation: 2007 CCI 79
+- Decision date: 2007-02-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2022, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bonner c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-02-16
+Référence neutre
+2007 CCI 79
+Numéro de dossier
+2005-3073(EI)
+Juges et Officiers taxateurs
+Michael H. Porter
+Sujets
+Loi sur l'assurance-emploi
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2005-3073(EI)
+ENTRE :
+RONALD BONNER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 8 février 2007, à Edmonton (Alberta).
+Devant : L’honorable juge suppléant M.H. Porter
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Carrie Mymko
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli, en partie, et la décision du ministre est modifiée conformément aux motifs de jugement ci‑joints.
+Signé à Edmonton (Alberta), ce 9e jour de février 2007.
+« M.H. Porter »
+Juge suppléant Porter
+Traduction certifiée conforme
+ce 17e jour de mars 2008.
+Maurice Audet, réviseur
+Référence : 2007CCI79
+Date : 20070209
+Dossier : 2005-3073(EI)
+ENTRE :
+RONALD BONNER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant Porter
+[1] La question en litige dans la présente affaire consiste à savoir si le ministre du Revenu national (le « ministre ») a décidé à juste titre que l’appelant n’exerçait pas un emploi assurable sous le régime de la Loi sur l’assurance‑emploi (la « Loi sur l’AE ») pendant la période du 15 septembre 2001 au 14 décembre 2002.
+[2] Il ressort sans équivoque de la preuve que l’appelant exerçait un emploi chez Hearn Stratton Construction Ltd. (« Hearn ») aux termes d’un contrat de louage de services. Le père de l’appelant, James Bonner, est l’actionnaire majoritaire de la société à dénomination numérique 293594 Alberta Ltd., laquelle est propriétaire à 100 pour 100 de Hearn. Par conséquent, l’appelant et Hearn, à titre de personnes liées, sont réputés avoir entre eux un lien de dépendance en application de l’alinéa 5(2)i) de la Loi sur l’AE et le ministre a fait connaître sa décision en ce sens par une lettre du 12 octobre 2004. Le ministre n’a pas exercé le pouvoir discrétionnaire qui lui est conféré à l’alinéa 5(3)b) de la Loi sur l’AE. L’appelant a interjeté appel de cette décision auprès de la Cour.
+Le droit
+[3] Les dispositions pertinentes de la Loi sur l’AE sont ainsi rédigées :
+5(2) N’est pas un emploi assurable :
+a) […]
+[…]
+i) l’emploi dans le cadre duquel l’employeur et l’employé ont entre eux un lien de dépendance.
+5(3) Pour l’application de l’alinéa (2)i) :
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l’impôt sur le revenu;
+b) l’employeur et l’employé, lorsqu’ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[4] Dans l’arrêt Légaré c. Canada, [1998] ACF no 878, de la Cour d’appel fédérale, le juge Marceau a déclaré ce qui suit :
+La Loi confie au ministre le soin de faire une détermination à partir de la conviction à laquelle son examen du dossier peut le conduire. L’expression utilisée introduit une sorte d’élément de subjectivité et on a pu parler de pouvoir discrétionnaire du ministre, mais la qualification ne devrait pas faire oublier qu’il s’agit sans doute d’un pouvoir dont l’exercice doit se fonder pleinement et exclusivement sur une appréciation objective des faits connus ou supposés. Et la détermination du ministre n’est pas sans appel. La Loi accorde, en effet, à la Cour canadienne de l’impôt le pouvoir de la réviser sur la base de ce que pourra révéler une enquête conduite, là, en présence de tous les intéressés. La Cour n’est pas chargée de faire la détermination au même titre que le ministre et, en ce sens, elle ne saurait substituer purement et simplement son appréciation à celle du ministre : c’est ce qui relève du pouvoir dit discrétionnaire du ministre. Mais la Cour doit vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et après cette vérification, elle doit décider si la conclusion dont le ministre était « convaincu » paraît toujours raisonnable.
+[5] Dans l’arrêt Denis c. Canada (Ministre du Revenu national), [2004] ACF 26, également prononcé par la Cour d’appel fédérale, le juge en chef Richard a tenu les propos suivants :
+Le rôle du juge de la Cour canadienne de l’impôt dans un appel d’une détermination du ministre sur les dispositions d’exclusion contenues aux paragraphes 5(2) et (3) de la Loi est de s’enquérir de tous les faits auprès des parties et les témoins appelés pour la première fois à s’expliquer sous serment et de se demander si la conclusion du ministre paraît toujours raisonnable. Toutefois, le juge ne doit pas substituer sa propre opinion à celle du ministre lorsqu’il n’y a pas de faits nouveaux et que rien ne permet de penser que les faits connus ont été mal perçus (voir Pérusse c. Canada (ministre du Revenu national - M.R.N.), 2000 A.F.C. no 310, 10 mars 2000).
+[6] À mon sens, la Cour ne peut substituer son opinion sur la situation à celle du ministre, mais elle doit plutôt vérifier si le ministre pouvait raisonnablement, d’un point de vue objectif, en arriver à la décision qu’il a prise, compte tenu des faits nouveaux susceptibles d’avoir été révélés par la preuve dans le cadre de l’appel. Dans la négative, et seulement dans ce cas, la Cour doit examiner la preuve et prononcer une nouvelle décision.
+Les faits
+[7] Seul le père de l’appelant, James Bonner, a témoigné pendant le présent appel. L’appelant lui‑même n’a pas comparu, malgré que l’audience ait déjà été reportée. James Bonner a précisé que son fils se trouvait aux États-Unis pour une affaire d’immigration et qu’il ne pouvait être présent. Il n’en souhaitait pas moins que l’audience se poursuive.
+[8] James Bonner a donc été le seul témoin. Il m’a fait l’impression d’être très franc, bien que quelque peu contrarié par suite de ses rapports avec les fonctionnaires responsables de l’affaire. Néanmoins, même si son témoignage est quelque peu intéressé, j’arrive à la conclusion qu’il s’agit d’un homme très honnête et j’accepte son témoignage comme véridique, dans la mesure où il connaissait les faits.
+[9] Dans la réponse à l’avis d’appel, on mentionne que le ministre s’est appuyé sur les hypothèses de fait suivantes, dont l’exactitude a été admise ou niée par James Bonner comme il est précisé.
+[TRADUCTION]
+7.
+(a) le payeur exploitait une entreprise dans le secteur de la construction; (admise)
+(b) la structure du capital‑actions du payeur était la suivante : 293594 Alberta Ltd. 100 % (admise)
+(c) James Bonner (ci‑après l’« actionnaire ») était le principal actionnaire de 293594 Alberta Ltd.; (admise)
+(d) l’appelant est le fils de l’actionnaire; (admise)
+(e) l’appelant et le payeur avaient entre eux un lien de dépendance au sens de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.), et ses modifications (la « Loi »); (admise)
+(f) l’appelant a été embauché comme ouvrier/gérant; (niée)
+(g) l’appelant avait notamment pour fonctions : effectuer du travail manuel, conduire l’équipement, ramasser les fournitures, préparer les soumissions, ramasser le courrier, calculer la paie, distribuer les chèques de paie et payer les factures; (admise)
+(h) l’actionnaire était à l’étranger pendant une partie de la période pertinente; (admise)
+(i) l’appelant gagnait le salaire fixe de 15,00 $ l’heure qui a ultérieurement été augmenté à 20,00 $ l’heure; (admise)
+(j) le payeur fixait le taux de salaire versé à l’appelant; (niée)
+(k) le payeur ne payait pas l’appelant à intervalles réguliers; (admise avec précisions)
+(l) le payeur ne rétribuait pas l’appelant de la même manière que ses autres employés; (niée)
+(m) le payeur remettait à l’appelant des fonds de la société pour qu’il distribue les salaires aux autres employés de la société et qu’il paye les factures envoyées à cette dernière; (admise)
+(n) le payeur a émis les chèques suivants à l’intention de l’appelant ; (admise)
+Émission Somme Encaissement
+20 nov. 2001 1 084,30 $ 23 nov. 2001
+10 déc. 2001 861,40 $ 11 déc. 2001
+2 janv. 2002 876,00 $ 25 janv. 2002
+27 mai 2002 1 000,00 $ 6 juin 2002 (prêt)
+14 juin 2002 1 049,65 $ 20 juin 2002
+2 juillet 2002 1 082,82 $ 4 juillet 2002
+12 juillet 2002 575,00 $ 16 juillet 2002
+16 juillet 2002 523,08 $ 16 juillet 2002
+26 juillet 2002 1 044,69 $ 26 juillet 2002
+31 juillet 2002 1 044,69 $ 2 août 2002
+14 nov. 2002 9 141,62 $ 14 nov. 2002 (paies autres travailleurs incluses)
+2 janv. 2003 2 871,51 $ 7 janv. 2003 (frais inclus)
+2 janv. 2003 1 123,99 $ 7 janv. 2003 (frais)
+(o) l’appelant recevait aussi les avances;
+(admise avec précisions)
+(p) le payeur a également effectué quelques transferts directs au compte bancaire de l’appelant;
+(admise avec précisions)
+(q) l’appelant fournissait des services bénévoles au payeur;
+(niée)
+(r) le 16 décembre 2002, le payeur a établi à l’égard de l’appelant un relevé d’emploi qui comporte les renseignements suivants :
+Premier jour de travail 15 septembre 2001
+Dernier jour de travail 14 décembre 2002
+Poste Gérant
+Total des heures assurables 2103 heures
+Total des heures assurables 39 660 $
+(admise avec précisions)
+(s) le 24 février 2003, l’appelant a présenté une demande de prestations faisant état des renseignements qui suivent :
+Désignation de l’emploi Gérant
+Premier jour de travail 15 octobre 2001
+Dernier jour de travail 14 décembre 2002
+Rétribution habituelle 20 $ l’heure
+Heures habituelles 40 heures par semaine, 5 jours par
+semaine
+(admise avec précisions)
+(t) le payeur a établi à l’égard de l’appelant des relevés T4 énonçant les revenus suivants :
+2001 4 446 $
+2002 15 920 $ (admise)
+(u) les documents relatifs à la paie du payeur montrent ce qui suit :
+Premier jour de travail de l’appelant 8 novembre 2001
+L’appelant n’a pas travaillé Janv., févr., mars, avril
+et août 2002
+Total des heures travaillées 1290 heures
+(admise)
+(v) lorsque l’appelant travaillait au chantier de construction du payeur, il s’y trouvait généralement du lever au coucher du soleil, six ou sept jours par semaine; (admise)
+(w) l’appelant a travaillé seulement à temps partiel pour le payeur en janvier, en février, en mars, en avril et en août 2002; (admise)
+(x) le payeur supervisait le travail de l’appelant; (niée)
+(y) le payeur fournissait les outils et le matériel, y compris un camion, du matériel de compactage, des levés, des génératrices, des soudeuses, des échafaudages, des pompes, des appareils de chauffage et un chargeur; (admise)
+(z) l’appelant fournissait son propre véhicule; (admise)
+(aa) le payeur remboursait l’appelant des dépenses d’entreprise engagées par ce dernier; (admise)
+(bb) le payeur assumait la totalité des dépenses d’exploitation, y compris les repas et l’hébergement de ses employés; (admise)
+(cc) l’appelant ne remplaçait personne lorsqu’il a été engagé et il n’a pas été remplacé lorsqu’il a quitté; (admise avec précisions)
+(dd) l’appelant exerçait chez le payeur un emploi aux termes d’un contrat de louage de services; (admise)
+(ee) le ministre a tenu compte de tous les faits pertinents qui ont été portés à sa connaissance, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli;
+(ff) le ministre était convaincu qu’il était raisonnable de conclure que l’appelant et le payeur n’auraient pas conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+(ee) et (ff) – ne sont pas des exposés de faits
+[10] James Bonner a expliqué à la Cour que, pendant la période en cause, sa société avait conclu deux accords de coentreprise avec un certain Robert Archibald (« M. Archibald »). Celui-ci exploitait sa propre société, R.A. Enterprises. Les accords n’ont pas été constatés par écrit, il s’agissait uniquement d’ententes verbales. Les deux hommes travaillaient ensemble de cette façon depuis plus de 20 ans.
+[11] Les activités de l’entreprise touchaient à l’excavation. Un projet se déroulait dans le Waskesieu Prince Albert National Park, en Saskatchewan, et l’autre à Carrot Creek. Hearn a financé les projets tandis que M. Archibald a organisé et supervisé les travaux jusqu’à l’étape du compactage. James Bonner ne participait en rien à l’exécution des travaux et il n’a visité chacun des chantiers qu’à une seule occasion. La plupart du temps, il était à l’étranger, comme l’a mentionné le ministre.
+[12] James Bonner a expliqué comment, une fois chacun des projets terminés, lui et M. Archibald se partageaient tout simplement les profits à parts égales. M. Archibald, qui était chargé d’embaucher et de renvoyer les employés, d’obtenir le matériel nécessaire et de veiller à la mise en œuvre des projets, avait donc tout intérêt à maintenir les coûts aussi bas que possible.
+[13] Comme le financement du projet incombait à Hearn, les contrats étaient conclus avec cette société, et les travailleurs étaient embauchés par elle. M. Archibald agissait comme gérant et mandataire de Hearn à ces fins, même s’il ne figurait pas lui‑même dans le livre de paie. Cependant, c’est M. Archibald qui embauchait les travailleurs et qui avait le pouvoir de les renvoyer s’il le jugeait nécessaire.
+[14] Lorsque l’avocate du ministre lui a demandé s’il croyait que son fils avait été embauché seulement parce qu’il était le fils de son père, James Bonner a nié cette assertion avec véhémence. Il a affirmé que M. Archibald avait approché l’appelant directement et que ce dernier lui avait demandé s’il devait accepter ce travail ou non. James Bonner a déclaré qu’il avait répondu à son fils qu’il devait décider par lui‑même. De toute évidence, l’appelant a choisi d’accepter le travail.
+[15] À mon sens, il ressort clairement du témoignage de James Bonner qu’il n’avait absolument rien à voir avec l’embauche de son fils, la façon dont il accomplissait son travail, les moments où il travaillait ni la rétribution qui lui était versée. Ces questions relevaient entièrement de M. Archibald. Il me paraît tout aussi clair que le ministre a totalement négligé cet aspect de la situation lorsqu’il a pris sa décision.
+[16] La plus grande confusion régnait dans la présente affaire en ce qui concerne les dates du début et de la fin de l’emploi de l’appelant ainsi que les avances sur salaire. Je vais me pencher sur chacune de ces questions un peu plus loin. Elles touchent franchement davantage à la façon dont il convient de calculer ses heures de travail pour l’obtention de prestations d’AE qu’à la question de savoir s’il existait un lien de dépendance entre lui et la société de son père. Le ministre paraît avoir omis de tenir compte d’un fait essentiel, soit que M. Archibald avait un intérêt financier distinct à l’égard de Hearn. Manifestement, il n’y avait pas de lien de dépendance entre M. Archibald et Hearn. Le coût de la rémunération et des avantages sociaux versés à l’appelant incombait clairement à M. Archibald, lequel avait la situation bien en main.
+[17] Selon James Bonner, l’hypothèse (f) est inexacte. Il affirme que, depuis qu’il connaît M. Archibald, ce dernier n’a jamais étiqueté les gens qu’il embauchait. La personne se rendait sur les lieux et travaillait pour lui et accomplissait les tâches nécessaires. Aucun aspect de la présente affaire ne repose sur ce point.
+[18] James Bonner a affirmé que c’est M. Archibald qui fixait le taux de salaire de l’appelant. À strictement parler, c’est plutôt Hearn, puisque tous les travailleurs, y compris l’appelant, étaient au service de cette société et que M. Archibald agissait pour le compte de celle‑ci lorsqu’il embauchait du personnel, mais ni la société ni James Bonner ne participaient à l’établissement du taux de salaire : c’est M. Archibald qui s’en chargeait.
+[19] Quant à l’hypothèse (k), James Bonner a déclaré qu’aucun des travailleurs n’avait des heures normales de travail. Parfois, ils travaillaient sans relâche pendant deux ou trois semaines. À d’autres moments, ils prenaient une semaine ou quelques jours de congé. Les projets cessaient en décembre lorsque le sol était gelé et qu’il devenait impossible de poursuivre les travaux. C’est la raison pour laquelle ils n’étaient pas payés à intervalles réguliers.
+[20] Manifestement, il ne s’agit pas d’une situation dont la Cour est généralement saisie et où l’employeur ne paye pas les membres de sa propre famille lorsque les fonds viennent à manquer. Tous les travailleurs étaient payés de la même manière, y compris l’appelant, de sorte qu’il n’y a rien d’irrégulier ou de particulier quant à la façon dont l’appelant était rétribué.
+[21] Selon James Bonner, l’hypothèse (l) est effectivement inexacte. La seule différence entre l’appelant et les autres travailleurs en ce qui touche la façon dont le salaire était versé tient au fait que, vers la fin de 2002, l’appelant est devenu responsable de la paie. En outre, on lui remettait des fonds en provenance de Hearn pour qu’il puisse payer les autres travailleurs par l’intermédiaire de son compte à la Banque de Nouvelle‑Écosse. Il était facile de transférer les fonds dans son compte, puis il payait aux autres travailleurs les sommes qui leur étaient dues. Cette mesure a été prise pour des raisons pratiques uniquement et n’entraînait aucun avantage pour l’appelant.
+[22] L’hypothèse (o) concerne les avances. Avant d’aller travailler en Saskatchewan, James Bonner a prêté 300,00 $ à l’appelant afin qu’il puisse acheter de l’essence pour se rendre au chantier. Cette somme a été retenue sur son chèque de paie et remise à James Bonner. De même, à une autre occasion, l’épouse de James Bonner a acheté quelque chose pour le compte de l’appelant et la somme lui a été remboursée directement au moyen d’une retenue sur la paie de ce dernier, avant même qu’il ne touche son chèque.
+[23] James Bonner a affirmé qu’il était arrivé à tous les autres travailleurs de recevoir de temps à autre des avances de M. Archibald et que cela était tout à fait habituel dans ce secteur d’activité. J’accepte cette preuve.
+[24] Quant à l’hypothèse (q), James Bonner a mentionné que les membres de la famille se rendaient tous service les uns aux autres sans être payés. Si j’ai bien compris, ces services n’avaient rien à voir avec les travaux effectués par l’appelant dans le cadre des projets pour lesquels il était payé, conformément aux directives de M. Archibald, de la façon habituelle, comme les autres employés. La preuve ne permet nullement de penser que l’appelant travaillait aux projets bénévolement ou qu’il fournissait des services supplémentaires sans être payé; en réalité, la preuve est plutôt à l’effet contraire.
+[25] Les hypothèses (r) et (s) avancées par le ministre en ce qui concerne respectivement le relevé d’emploi et la demande de prestations sont fondées. Les dates, heures et sommes qui figurent dans ces documents sont totalement erronées. Le ministre semble n’avoir pas tenu compte du fait que des documents modifiés, comportant des dates, des heures et des sommes plus exactes, ont été produits. Néanmoins, cet aspect de l’affaire est déconcertant. James Bonner n’a pu expliquer ce qui avait donné lieu à ces erreurs. Elles sont à ce point flagrantes qu’il m’est impossible de penser qu’elles ont été commises intentionnellement et M. Bonner a soutenu qu’elles avaient été corrigées avant qu’un quelconque inconvénient ne soit causé.
+[26] James Bonner a tenté de montrer que les fonctionnaires qui ont pris la décision pour le compte du ministre ont fait preuve de mauvaise foi. Il estimait que la décision relative à l’appel auprès du ministre avait été prise avant que les faits ne soient fournis. J’estime qu’il n’y a aucune mauvaise foi. J’arrive à la conclusion que James Bonner est tout simplement déconcerté face au processus suivi. Une décision a initialement été prise par l’agent des décisions et a fait l’objet d’un appel auprès du ministre. Une certaine Diane Burton a effectivement travaillé pour le compte du ministre. Elle a reçu une télécopie faisant état de la décision relative au RPC et à l’AE en octobre 2003. En mars 2004, elle a mentionné dans une lettre qu’elle procédait à son enquête. En octobre 2004, la décision était imminente. M. Bonner semblait penser que la télécopie d’octobre 2003 provenait de Mme Burton et qu’on avait déjà statué sur l’affaire avant même que cette dernière n’ait procédé à son enquête. Je suis entièrement convaincu que ce n’est pas le cas. La télécopie est simplement un document constatant la décision prise par l’agent des décisions, cette décision faisant l’objet d’un appel auprès du ministre.
+[27] Tels sont les faits saillants.
+Conclusion
+[28] Il me semble évident que, si le ministre avait été saisi d’éléments établissant la présence d’un intermédiaire entre Hearn et le père, James Bonner, d’une part, et l’appelant d’autre part, à savoir M. Archibald, il n’aurait pu logiquement faire autrement que de tirer une conclusion différente. Il ressort sans équivoque de la preuve présentée devant moi – dont le ministre n’a pas eu connaissance, pour une raison obscure, puisque les hypothèses de fait en auraient fait mention – que les modalités d’emploi, la rétribution versée ainsi que la durée, la nature et l’importance du travail accompli relevaient entièrement de M. Archibald et étaient directement sous son contrôle. Hearn et le père de l’appelant n’avaient rien à voir avec ces questions et leur rôle consistait simplement à fournir du financement. L’ensemble de la preuve tirée des documents relatifs à la paie montre que l’appelant travaillait à peu près le même nombre d’heures que les autres travailleurs. Il ressort clairement du témoignage de James Bonner que l’appelant ne bénéficiait d’aucun traitement de faveur de la part de M. Archibald. Ce dernier n’agissait tout simplement pas ainsi dans son rôle de superviseur. Il avait un intérêt financier, quoique sans lien de dépendance, à l’égard de Hearn, même s’ils avaient constitué une coentreprise. M. Archibald était responsable des modalités d’emploi, c’est lui qui contrôlait les « circonstances de l’emploi » de l’appelant, et non pas Hearn ou James Bonner.
+[29] Le ministre a tout naturellement été indigné des erreurs constatées dans les documents, c.‑à‑d. les relevés d’emploi et les demandes de prestations. Lorsque ces documents sont inexacts, cela est troublant et le ministre était à juste titre méfiant. Un examen minutieux montre sans équivoque que ces erreurs sont à ce point flagrantes qu’il ne pouvait s’agir que de très mauvaises erreurs, comme l’a signalé James Bonner, et qu’elles n’ont pas été commises frauduleusement.
+[30] À mon avis, si le ministre avait été saisi de la même preuve que celle produite devant la Cour pendant l’audition du présent appel, il n’aurait pu raisonnablement et objectivement parvenir à la conclusion que, compte tenu de toutes les circonstances, notamment les éléments prévus à l’alinéa 5(3)b) de la Loi sur l’AE, les parties n’auraient pas conclu entre elles un contrat de travail à peu près semblable si elles n’avaient pas eu un lien de dépendance. Au contraire, la situation dont je suis saisi constitue un exemple parfait de cas d’absence de lien de dépendance entre l’employeur et l’employé.
+[31] Pour ces raisons, l’appel est accueilli en partie, la décision du ministre est modifiée sur le fondement que l’emploi de l’appelant chez Hearn Construction, entre le 8 novembre 2001 et le 8 décembre 2001, et entre le 1er mai 2002 et le 14 décembre 2002, constituait un emploi assurable sous le régime de la Loi sur l’AE.
+Signé à Edmonton (Alberta), ce 9e jour de février 2007.
+« M.H. Porter »
+Juge suppléant Porter
+Traduction certifiée conforme
+ce 17e jour de mars 2008.
+Maurice Audet, réviseur
+RÉFÉRENCE : 2007CCI79
+NO DU DOSSIER DE LA COUR : 2005-3073(EI)
+INTITULÉ DE LA CAUSE : RONALD BONNER
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Edmonton (Alberta)
+DATE DE L’AUDIENCE : Le 8 février 2007
+MOTIFS DU JUGEMENT PAR : L’honorable juge suppléant M.H. Porter
+DATE DU JUGEMENT : Le 9 février 2007
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Carrie Mymko
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

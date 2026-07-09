@@ -1,0 +1,164 @@
+Title: Finch v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26342/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-353-26342-finch-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-05-20
+
+# Finch v. The Queen
+
+- Citation: 2004 TCC 353
+- Decision date: 2004-05-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3289, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Finch v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-05-20
+Neutral citation
+2004 TCC 353
+File numbers
+2003-4054(IT)I
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-4054(IT)I
+BETWEEN:
+DAVID ANDREW FINCH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on April 30, 2004, at Toronto, Ontario.
+Before: The Honourable D.G.H. Bowman, Associate Chief Justice
+Appearances:
+Counsel for the Appellant:
+Leigh Somerville Taylor
+Counsel for the Respondent:
+Annie Paré
+____________________________________________________________________
+JUDGMENT
+It is ordered that the appeals from the assessments made under the Income Tax Act for the 1997, 1998, 1999 and 2000 taxations years are dismissed.
+Signed at Montréal, Quebec, this 20th day of May 2004.
+"D.G.H. Bowman"
+Bowman, A.C.J.
+Citation: 2004TCC353
+Date: 20040520
+Docket: 2003-4054(IT)I
+BETWEEN:
+DAVID ANDREW FINCH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowman, A.C.J.
+[1] These appeals are from assessments of non-resident withholding tax imposed in 1997, 1998, 1999 and 2000 against the appellant under paragraph 212(1)(d) of the Income Tax Act. The income on which the tax was imposed was rent from property at 59 Bricker Avenue, Waterloo, Ontario. The issue boils down to the question: who was the beneficial owner of the property on Bricker Avenue?
+[2] The property was bought in 1990 when the appellant was a university student in Waterloo. It was registered in the appellant's name. He lived in the property until he moved to Scotland in 1994. During that period he rented part of the property to other students. He collected the rent and used it to pay expenses, including the mortgage payments under a second mortgage to Canada Trustco Mortgage Company ("Canada Trustco").
+[3] The property, as stated, was registered in the appellant's name. Nowhere is there any document, registered or unregistered, stating that the appellant held the property as trustee, bare trustee or nominee for Finch Travel Ltd. ("Finch Travel"), a company owned by his father Graham Finch and his mother.
+[4] When the property was purchased the down payment was provided by Finch Travel in the amount of $47,645.38. The appellant is shown as the chargor and Finch Travel is shown as the chargee. A second mortgage in favour of Canada Trustco in the amount of $136,500.00 was put on the property. The appellant signed as chargor and his father Graham Finch signed as guarantor.
+[5] Before the appellant moved to Scotland he gave his father, Graham Finch, a power of attorney. The property continued to be rented to students. A form of lease was put in evidence and it was between Graham Finch and the lessee. The rents were collected by Graham Finch and, if they were paid by cheque, the cheques were made payable to Graham Finch. The moneys were deposited to the account of Finch Travel, which, starting in 1992, declared them as forming part of its rental income or loss. In its financial statements it showed the property as forming part of its fixed assets. The income or loss declared was as follows:
+1992
+Loss ($ 2,296.00)
+1993
+Loss ($ 26,720.00)
+1994
+Loss ($ 5,907.00)
+1995
+Loss ($ 101.00)
+1996
+Income $ 6,787.00
+1997
+Loss ($ 4,563.00)
+1998
+Income $ 1,629.00
+1999
+Income $ 4,288.00
+2000
+Income $ 10,149.00
+[6] In 2000 the property was sold. A loss of $4,415.00 on the Waterloo property is shown, presumably on the land, and recapture of capital cost allowance of $12,234.00 was declared.
+[7] In 1993 Finch Travel's chartered accountants wrote to the company's lawyers about updating the corporate minute book. They stated:
+PURCHASE OF PROPERTY
+On September, 1990, the company purchased a rental property in Waterloo, Ontario for $184,145. This property was purchased by David Finch held in trust for the company. Please execute a trust agreement between parties.
+This request seems to have been ignored.
+[8] When the property was sold, the appellant's lawyers wrote to Revenue Canada in Kitchener and requested a Non-Resident Clearance Certificate. The first paragraph of their letter of February 25, 2000 reads:
+We are the Solicitors for the vendor herein who is selling the above mentioned property with scheduled closing date of May 3rd, 2000 and he is a resident of Scotland.
+Schedule A to the request reads:
+Finch Travel Ltd. did not pay any money to David Andrew Finch during the whole of the time it has managed the property up to the date of closing and he has not earned any income from the property.
+Finch Travel Ltd. did include all income earned in managing the property in its annual Tax Returns.
+[9] The appellant, through his counsel, now argues that he should not be assessed non-resident withholding tax for two reasons:
+(a) the property belonged to Finch Travel;
+(b) nothing was paid or credited to him.
+[10] The only witness was the appellant's mother, who was a shareholder of Finch Travel as well as its secretary and its bookkeeper. She stated that it was her understanding and intent that Finch Travel was the owner and that her son held the property for it.
+[11] The inconsistencies are obvious. On the one hand we have the property being bought in the name of the appellant who gives a mortgage to Finch Travel, which advances the down payment. The appellant signs nothing indicating the existence of a trust. We have the accountants treating the property as belonging to Finch Travel and the income as being that of Finch Travel. Moreover they write to the lawyers and ask them to prepare a trust document. The lawyers ignore the request and when the property is sold they write to Revenue Canada ("CCRA") requesting a Non-Resident Clearance Certificate. If the property belonged to Finch Travel taking a mortgage would be inconsistent with that position, as would the request for a clearance certificate.
+[12] The short answer is that the clients find themselves in this situation because the lawyers and accountants were unable to get their acts together.
+[13] Where the evidence is equivocal I think the form of the documents must take precedence over vague and unexpressed intents. In Collins v. The Queen, 96 DTC 1034 (affirmed 98 DTC 6281) I said:
+While Mr. Collins described the complex legal structure that his advisors developed for the holding of the business as "a bunch of mumbo-jumbo", both he and his wife are too intelligent to be oblivious to the fact that each owned different portions of the corporate empire and that they did so for good reasons. Whatever notion of "share and share alike" they may have had, their real intent was that reflected in the legal structure that they knowingly adopted on the advice of their lawyers and accountants. That intent is borne out as well in the manner in which dividends and salary were paid by the various corporate entities. The income from the various corporations was treated as the income of the spouse to whom it was paid. Similarly the corporate minutes reflect the carefully structured ownership. If one knowingly and intentionally adopts one legal structure to achieve a particular fiscal or commercial result it would take far more cogent evidence than I have seen here to permit a taxpayer to discard one portion of that structure when that portion turns out to be fiscally inconvenient. It is not, after all, as if the Sherkston shares were acquired by Mr. Collins and thereafter quickly disposed of. The shares were held over three years during which the shareholdings changed. Mr. Collins was no stranger to corporate reorganizations. In the same year as he acquired the shares in Sherkston, there was a reorganization of the share ownership of GCC and CCC.
+[14] The same is true here. The legal form of the documents points to beneficial ownership in the appellant but the accounting treatment is inconsistent with that position. The legal form prevails in my view.
+[15] Counsel for the appellant argued that nothing had been paid or credited to the appellant and that accordingly paragraph 212(1)(d) was inapplicable. The relevant portion of that provision reads:
+212(1) Every non-resident person shall pay an income tax of 25% on every amount that a person resident in Canada pays or credits, or is deemed by Part I to pay or credit, to the non-resident person as, on account or in lieu of payment of, or in satisfaction of,
+. . . . .
+(d) rent, royalty or similar payment, including, but not so as to restrict the generality of the foregoing, any payment
+. . . . .
+[16] I agree that no amounts were physically transmitted to the appellant in Scotland. However, rent was paid to the appellant's father who was his agent and since I have found that the legal and beneficial owner was the appellant, payment to the appellant's agent constitutes payment to the appellant. Accordingly it is unnecessary to consider counsel's submissions on the meaning of the word "credit".
+[17] Counsel for the appellant argued that by accepting the inclusion of the rent in the income of Finch Travel, the Minister was in fact taxing the same amounts in two persons' hands. I agree that double taxation is undesirable and should be avoided if possible but here the double taxation arises not by any act of the CCRA but rather because of the acts of the professional advisors.
+[18] In any event double taxation in this case is more apparent than real. The total losses declared by Finch Travel over the period 1992 to 2000 were $39,587.00. The income declared in four of the years totals $22,853.00 for a net loss of $16,734.00 over the period. If the appellant had elected, as a non-resident, to be taxed on a net basis, as section 216 permits, he would have declared those losses but they would probably have been no use to him as a non-resident unless he had other Canadian sources of income. The company seems to have been able to take advantage of those losses. Quite apart from the legal position, the double taxation hypothesis, as a matter of economics, is illusory.
+[19] Finally, the appellant's counsel argues that it would have been impossible to describe the appellant as trustee in the deed because it could not have been registered under the Land Titles Act. Section 62 of the Land Titles Act, R.S.O. 1990, c. L.5 reads:
+62.--(1) A notice of an express, implied or constructive trust shall not be entered on the register or received for registration.
+Description of owner as a trustee
+(2) Describing the owner of freehold or leasehold land or of a charge as a trustee, whether the beneficiary or object of the trust is or is not mentioned, shall be deemed not to be a notice of a trust within the meaning of this section, nor shall such description impose upon any person dealing with the owner the duty of making any inquiry as to the power of the owner in respect of the land or charge or the money secured by the charge, or otherwise, but, subject to the registration of any caution or inhibition, the owner may deal with the land or charge as if such description had not been inserted.
+Owners described as trustees to be joint
+tenants
+(3) Where two or more owners are described as trustees, the property shall be held to be vested in them as joint tenants unless the contrary is expressly stated.
+Saving
+(4) Nothing in this section prevents the registration of a charge given for the purpose of securing bonds or debentures of a corporation, but the registration of such a charge is not a guarantee that the steps necessary to render the charge valid have been duly taken, R.S.O. 1990, c. L.5, s. 62.
+[20] I do not read that section as preventing the appellant from being a trustee of the property for Finch Travel. The fact that subsection (1) may prevent him from being shown as a trustee on title would not prohibit his being a trustee. Whether he is or is not must be determined objectively independently of the rules under the Ontario Land Titles system. If he had been shown as trustee under subsection (2) it would at least have been some evidence that he was not the beneficial owner.
+[21] At all events, regardless of the way title is described in the registry office, I think the appellant was the beneficial owner of the property and of the rents arising from it. Accordingly, amounts paid to his agent, Graham Finch, are subject to withholding tax under subsection 212(1)(d).
+[22] The appeals are dismissed.
+Signed at Montréal, Quebec, this 20th day of May 2004.
+"D.G.H. Bowman"
+Bowman, A.C.J.
+CITATION:
+2004TCC353
+COURT FILE NO.:
+2003-4054(IT)I
+STYLE OF CAUSE
+David Andrew Finch and
+Her Majesty The Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+April 30, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable D.G.H. Bowman, Associate Chief Justice
+DATE OF JUDGMENT AND REASONS FOR JUDGMENT:
+May 20, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Leigh Somerville Taylor
+Counsel for the Respondent:
+Annie Paré
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Leigh Somerville Taylor
+Firm:
+Fitzsimmons & Company
+Barristers & Solicitors
+North York City Centre
+Suite 1510, 5140 Yonge Street
+Toronto, Ontario
+M2N 6L7
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,119 @@
+Title: Bellefleur c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27619/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-380-27619-bellefleur-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2006-07-11
+
+# Bellefleur c. La Reine
+
+- Citation: 2006 CCI 380
+- Decision date: 2006-07-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 440, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bellefleur c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-07-11
+Référence neutre
+2006 CCI 380
+Numéro de dossier
+2005-3406(GST)I
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2005-3406(GST)I
+ENTRE :
+SHAWN BELLEFLEUR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 21 juin 2006, à Moncton (Nouveau-Brunswick)
+Devant : L'honorable juge François Angers
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Catherine McIntyre
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi sur la taxe d'accise, dont l'avis porte le numéro 04076519112370001 et est daté du 27 mai 2004, est rejeté, selon les motifs du jugement ci-joints.
+Signé à Edmundston (Nouveau-Brunswick), ce 11e jour de juillet 2006.
+Juge Angers
+Référence : 2006CCI380
+Date : 20060711
+Dossier : 2005-3406(GST)I
+ENTRE :
+SHAWN BELLEFLEUR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] L'appelant porte en appel le refus du ministre du Revenu national (le « ministre » ) d'accorder la demande de remboursement de la taxe sur les produits et services (la TPS/TVH) pour habitation neuve. En fait, il s'agit de rénovations faites à la maison de l'appelant et la question en litige est de déterminer si les rénovations effectuées par l'appelant constituaient des « rénovations majeures » au sens de la définition de cette expression au paragraphe 123(1) de la Loi sur la taxe d'accise (la « Loi » ). Le paragraphe 256(2) de la Loi donne droit au remboursement réclamé par l'appelant.
+[2] Les dispositions législatives applicables au présent litige sont les suivantes :
+256. (1) Les définitions qui suivent s'appliquent au présent article.
+« immeuble d'habitation à logement unique » Est assimilé à un immeuble d'habitation à logement unique :
+a) l'immeuble d'habitation à logements multiples de deux habitations;
+b) tout autre immeuble d'habitation à logements multiples, s'il est visé à l'alinéa c) de la définition de « immeuble d'habitation » au paragraphe 123(1) et contient une ou plusieurs habitations qui sont destinées à être fournies comme chambres dans un hôtel, un motel, une auberge, une pension ou un gîte semblable et qui ne seraient pas considérées comme faisant partie de l'immeuble d'habitation si celui-ci n'était pas visé à cet alinéa.
+« Remboursement » - habitation construite par soi-même
+(2) Le ministre verse un remboursement à un particulier dans le cas où, à la fois :
+a) le particulier, lui-même ou par un intermédiaire, construit un immeuble d'habitation -- immeuble d'habitation à logement unique ou logement en copropriété -- ou y fait des rénovations majeures, pour qu'il lui serve de résidence habituelle ou serve ainsi à son proche;
+b) la juste valeur marchande de l'immeuble, au moment où les travaux sont achevés en grande partie, est inférieure à 450 000 $;
+c) le particulier a payé la taxe prévue à la section II relativement à la fourniture par vente, effectuée à son profit, du fonds qui fait partie de l'immeuble ou d'un droit sur ce fonds, ou relativement à la fourniture effectuée à son profit, ou à l'importation par lui, d'améliorations à ce fonds ou, dans le cas d'une maison mobile ou d'une maison flottante, de l'immeuble (le total de cette taxe prévue au paragraphe 165(1) et aux articles 212 et 218 étant appelé « total de la taxe payée par le particulier » au présent paragraphe);
+d) selon le cas :
+(i) le premier particulier à occuper l'immeuble après le début des travaux est le particulier ou son proche,
+(ii) le particulier effectue par vente une fourniture exonérée de l'immeuble, et la propriété de celui-ci est transférée à l'acquéreur avant que l'immeuble ne soit occupé à titre résidentiel ou d'hébergement.
+Le montant remboursable est égal au montant suivant :
+e) si la juste valeur marchande visée à l'alinéa b) est d'au plus 350 000 $, 8 750 $ ou, s'il est inférieur, le montant représentant 36 % du total de la taxe payée par le particulier avant l'envoi de la demande de remboursement au ministre;
+f) sinon, le résultat du calcul suivant :
+A × [(450 000 $ - B)/100 000 $]
+où :
+A représente 8 750 $ ou, s'il est inférieur, le montantreprésentant 36 % du total de la taxepayée par le particulier avant l'envoi de la demande de remboursement au ministre,
+B la juste valeur marchande de l'immeublevisée à l'alinéa b).
+[3] Le paragraphe 123(1) se lit en partie comme suit :
+« rénovations majeures » Fait l'objet de rénovations majeures le bâtiment qui est rénové ou transformé au point où la totalité, ou presque, du bâtiment qui existait immédiatement avant les travaux, exception faite des fondations, des murs extérieurs, des murs intérieurs de soutien, des planchers, du toit et des escaliers, a été enlevée ou remplacée, dans le cas où, après l'achèvement des travaux, le bâtiment constitue un immeuble d'habitation ou fait partie d'un tel immeuble.
+[4] L'appelant a commencé ses travaux de rénovation en juillet 2003. Il n'est pas contesté qu'il s'agit d'un immeuble à logement unique qui sert de résidence habituelle à l'appelant et aux membres de sa famille. Les travaux ont été terminés vers le 4 mars de l'année suivante.
+[5] La résidence est située à Memramcook, au Nouveau-Brunswick. Il s'agit d'une résidence de deux étages qui, avant les rénovations, avait une superficie habitable de 1 260 pieds carrés. Au rez-de-chaussée, on trouvait un salon et une salle à manger, une cuisine, une salle de toilette avec salle de lavage, une chambre à coucher, un vestibule et un escalier menant au premier étage. À cet étage, on trouvait une salle de bain complète et deux chambres à coucher.
+[6] L'appelant a confié ses travaux de rénovation à une firme d'entrepreneurs spécialisés. Le coût des rénovations selon l'entente était de 65 000 $ incluant la TVH. Les détails des travaux confiés et effectués à la résidence de l'appelant se trouvent à la pièce A-1. Il s'agit principalement de l'ajout d'un garage double à la maison existante et, à l'étage, d'une chambre à coucher et d'une salle familiale. Au rez-de-chaussée, une véranda a été ajoutée à l'entrée principale de la maison, deux fenêtres et une porte ont été enlevées du mur donnant au garage double qui fut ajouté à la maison, un vestibule a été ajouté derrière le nouveau garage et finalement la salle de lavage a été agrandie.
+[7] Au premier étage, on trouve maintenant la nouvelle chambre à coucher de même que la salle familiale au-dessus du garage. Les deux chambres à coucher et la salle de bain complète déjà existantes sont demeurées. La fenêtre qui existait le long du mur où le garage a été construit a été retirée. Trois garde-robes ont été construites et ajoutées au premier étage.
+[8] Au rez-de-chaussée et au premier étage, l'appelant a aussi fait des travaux d'électricité, de plomberie et de peinture et a construit une structure permettant d'intégrer la nouvelle partie à la partie existante. L'appelant a remplacé son système de chauffage en installant un système de chauffage à l'électricité. Les fenêtres ont été remplacées et le revêtement extérieur de la vieille et de la nouvelle partie de la maison a été refait. Cet ajout, sans comprendre le garage, a rajouté 682 pieds carrés de superficie habitable à la partie existante.
+[9] L'appelant a déposé des photos qui démontrent sa résidence avant et après les travaux de même que des croquis décrivant les lieux avant et après.
+[10] L'appelant a soumis sa demande de remboursement le 5 mars 2004. Il ne fait aucun doute que le traitement de sa demande a été un peu lent et frustrant pour celui-ci. L'appelant a étudié la formule de demande de même que les énoncés de politique émis par le ministère dans le but d'aider les réclamants et toute autre publication qu'il pouvait trouver. Selon lui, il satisfait à toutes les exigences mentionnées dans ces documents, quoiqu'il reconnaît qu'il est parfois difficile de réconcilier tout ce qui est publié. Sur ce dernier point, qu'il me suffise de noter que la formule de demande indique à la section C que le réclamant doit cocher s'il s'agit d'un ajout majeur. La Loi ne fait pas référence à cette catégorie. Elle ne parle d'un remboursement à un particulier que s'il s'agit de la construction d'un immeuble d'habitation ou de rénovations majeures à un tel immeuble. Un ajout doit donc faire partie des rénovations majeures et doit donc être traité en tant que tel.
+[11] Le seul point en litige consiste donc en celui identifié au début des présentes. Pour que des rénovations soient qualifiées de majeures, il faut qu'elles correspondent à la définition que l'on trouve dans la Loi. Il faut donc que la totalité ou presque du bâtiment ait été enlevée ou remplacée, à l'exception des fondations, des murs extérieurs et des murs de soutien, des planchers, du toit et des escaliers.
+[12] La description des travaux de rénovation effectués à la maison de l'appelant ne correspond pas à la définition de « rénovations majeures » . En fait, la partie existante de la maison n'a presque pas été modifiée, si ce n'est de l'installation d'un nouveau système de chauffage et le remplacement des fenêtres et du revêtement extérieur.
+[13] Il s'agit plutôt, à mon avis, de déterminer si l'ajout du garage, d'une salle familiale et d'une chambre à coucher dans la nouvelle partie fait en sorte qu'il est possible de conclure que la maison préexistante a été incorporée dans une nouvelle résidence ou si ces ajouts font en sorte qu'ils ont été incorporés dans la maison préexistante. Cette détermination est tirée d'une décision du juge Hershfield de cette Cour dans Erickson c. La Reine, [2001] G.S.T.C. 19, où ce dernier était appelé à décider une question semblable, soit celle de déterminer si un ajout à une résidence constitue la construction d'un nouvel immeuble d'habitation ou d'un bâtiment ou s'il s'agit simplement de la rénovation d'un immeuble d'habitation en y ajoutant une nouvelle partie.
+[14] Le juge Hershfield reconnaît que la Loi ne mentionne rien sur la question de l'ajout. Prenant en considération les propos de la Cour d'appel fédérale dans l'arrêt Sneyd c. La Reine, [2000] G.S.T.C. 46, sur les dispositions visant un remboursement de TPS, le juge Hershfield concluait qu'un ajout ne donne pas droit à un remboursement de TPS à moins que l'ajout incorpore ou conserve l'immeuble préexistant à un point tel que l'ajout constitue essentiellement un nouvel immeuble d'habitation, de sorte que la partie préexistante de l'immeuble ne devient qu'une infime partie de ce nouvel immeuble d'habitation. Il concluait que l'ajout d'un garage double, même si on doublait la superficie habitable, ne constituait que des rénovations significatives mais insuffisantes aux termes de la définition.
+[15] Je souscris aux propos du juge Hershfield. En l'espèce, à mon avis, les rénovations et l'ajout d'une nouvelle partie à la résidence préexistante de l'appelant ne constituent pas un nouvel immeuble à un point tel qu'il me soit possible de conclure que la partie préexistante a été consommée et ne forme qu'une infime partie d'une nouvelle résidence. Pour ces motifs, l'appel est rejeté.
+Signé à Edmundston, Nouveau-Brunswick, ce 11e jour de juillet 2006.
+Juge Angers
+RÉFÉRENCE : 2006CCI380
+N º DU DOSSIER DE LA COUR : 2005-3406(GST)I
+INTITULÉ DE LA CAUSE : Shawn Bellefleur et Sa Majesté La Reine
+LIEU DE L'AUDIENCE : Moncton (Nouveau-Brunswick)
+DATE DE L'AUDIENCE : le 21 juin 2006
+MOTIFS DU JUGEMENT PAR : L'honorable juge François Angers
+DATE DU JUGEMENT : le 11 juillet 2006
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Catherine McIntyre
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Étude :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

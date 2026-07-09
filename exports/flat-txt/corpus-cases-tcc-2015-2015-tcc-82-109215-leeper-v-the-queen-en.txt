@@ -1,0 +1,138 @@
+Title: Leeper v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/109215/index.do
+Corpus path: corpus/cases/tcc/2015/2015-tcc-82-109215-leeper-v-the-queen-en.md
+Document type: case_law
+Last modified: 2015-04-16
+
+# Leeper v. The Queen
+
+- Citation: 2015 TCC 82
+- Decision date: 2015-04-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2865, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Leeper v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-04-16
+Neutral citation
+2015 TCC 82
+File numbers
+2013-3881(IT)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-3881(IT)I
+BETWEEN:
+BLAKE A. LEEPER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on October 20, 2014, at Nanaimo, British Columbia.
+Before: The Honourable Justice B. Paris
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Whitney Dunn
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2011 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 16th day of April 2015.
+“B.Paris”
+Paris J.
+Citation: 2015 TCC 82
+Date: 20150416
+Docket: 2013-3881(IT)I
+BETWEEN:
+BLAKE A. LEEPER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Paris J.
+[1] Mr. Leeper is appealing the denial of a portion of the medical expense tax credit (“METC”) he claimed in his 2011 taxation year. At issue are expenses incurred for the purchase of natural health products including vitamins, minerals, herbs and naturopathic supplements which were prescribed to Mr. Leeper’s spouse, Denise Leeper, by a naturopathic physician to treat her cancer.
+[2] The Minister of National Revenue (the “Minister”) denied the METC on the basis that the natural health products could lawfully be acquired for use by a patient without a prescription, and that the purchase of the products was not recorded by a pharmacist. The Minister determined that the cost of the products therefore did not qualify as medical expenses because they did not fall within paragraph 118.2(2)(n) of the Income Tax Act (the “Act”) The relevant parts of that provision read as follows:
+118.2(2) Medical expenses. For the purposes of subsection (1), a medical expense of an individual is an amount paid
+. . .
+(n) for
+(i) drugs, medicaments or other preparations or substances . . .
+(A) . . .
+(B) that can lawfully be acquired for use by the patient only if prescribed by a medical practioner or dentist, and
+(C) the purchase of which is recorded by a pharmacist, . . .
+Facts
+[3] The facts in this case are largely undisputed. As part of Ms. Leeper’s integrated cancer treatment, she saw Dr. Neil McKinney, a naturopathic physician in Victoria, B.C. Dr. McKinney prescribed natural health products to Ms. Leeper, largely to treat the side effects of her chemotherapy. Mr. Leeper testified that his spouse could not tolerate the prescription drugs available to treat those side effects. Most of the prescribed products were purchased by Mr. or Ms. Leeper directly from Dr. McKinney while the remainder were purchased from a health food store.
+[4] One of the assumptions made by the Minister in assessing was that the products in issue could be purchased “over the counter” which I take to mean that the products could be acquired without a prescription. This assumption was not refuted by Mr. Leeper. He testified that most of the products could be purchased at a health food store, but that some were only available at Dr. McKinney’s office.
+[5] Mr. Leeper produced a letter written by Dr. McKinney in which the doctor described the substances he prescribed to Ms. Leeper. He stated that “some are prescription drugs . . . dispensed by a pharmacist.” The cost of those drugs was included in the METC that was allowed to Mr. Leeper. Dr. McKinney also stated in his letter that “Other medications were Chinese herbal formulations . . . only dispensed through licensed practitioners” and “vitamins, restricted and general use botanicals, and other naturopathic medicines.” Only those substances are in issue in this appeal, and since Dr. McKinney distinguished between them and the prescription drugs dispensed by a pharmacist referred to previously, I infer from this statement that the herbal formulations, vitamins, botanicals and naturopathic medicines were not prescription drugs dispensed by a pharmacist. In any event, there is no evidence before me that would indicate that a prescription was required to obtain those substances lawfully.
+Appellant’s Position
+[6] Mr. Leeper submits that the definition of “drugs” in paragraph 118.2(2)(n) of the Act should be interpreted in a way that would include the natural health products prescribed by Dr. McKinney.
+[7] First, he says that the condition set out in clause 118.2(2)(n)(B) (“clause (B)”) that the substance must be one “that can lawfully be acquired for use by the patient only if prescribed by a medical practitioner or dentist” simply requires that a medical practitioner be involved in the process by which the patient acquires the substance. He submits that this reading of clause (B) would exclude from METC eligibility any products purchased as a result of self‑diagnosis. He says that a medical practitioner’s involvement would ensure that the use of the substance by the patient would be medically responsible and therefore “lawful”.
+[8] While I agree with Mr. Leeper that clause (B) requires the intervention of a medical practitioner in the acquisition process, clause (B) also requires that the prescribed substance only be legally obtainable with a prescription. This in my view is the plain and ordinary meaning of the wording of clause (B).
+[9] Parliament added the requirement found in clause (B) to paragraph 118.2(2)(n) in 2008, in response to decisions of this Court which allowed METC claims for the cost of substances which had been prescribed by a doctor but which were legally obtainable without a prescription (Breger v. The Queen, 2007 TCC 254 and Norton v. The Queen, 2008 TCC 29). Therefore, it is also clear that the intention of Parliament was to limit the METC to medications lawfully obtainable only by prescription.
+[10] The evidence in this case supports the Respondent’s position that the natural products prescribed by Dr. McKinney could legally be obtained without a prescription, and I find that the requirement in clause (B) has not been met.
+[11] In the absence of the Charter arguments raised by Mr. Leeper, this finding would dispose of the appeal, and it is therefore not necessary for me to consider his argument that the purchase of the natural products was recorded by a pharmacist, since naturopathic physicians in B.C. are granted certain powers to dispense prescription drugs to their patients under the Health Professions Act of British Columbia, [RSBC 1996] c. 183, and since Dr. McKinney recorded the purchase of the natural health products in issue. However, it appears to me that while a naturopathic physician in B.C. may be granted certain powers of dispensing prescription drugs, only a person who is registered as a member of the College of Pharmacists of British Columbia falls within the definition of “pharmacist” under section 25.8 of the Health Professions Act of B.C. There was no evidence to show that Dr. McKinney was a member of the College of Pharmacists of B.C., and I find that Mr. Leeper has not therefore shown that the purchase of the natural health products were recorded by a pharmacist.
+Charter
+[12] Mr. Leeper also argues that paragraph 118.2(3)(n) of the Act violates his or his spouse’s rights under sections 7 and 15(1) of the Charter. Those provisions read as follows:
+7. Everyone has the right to life, liberty and security of the person and the right not to be deprived thereof except in accordance with the principles of fundamental justice.
+. . .
+15(1) Every individual is equal before and under the law and has the right to the equal protection and equal benefit of the law without discrimination and, in particular, without discrimination based on race, national or ethnic origin, colour, religion, sex, age or mental or physical disability.
+[13] Mr. Leeper submitted that this case is distinguishable from the case of Ali and Markel v. Canada, 2008 FCA 190, in which the Federal Court of Appeal held that the requirement for exclusion of off the shelf drugs from METC eligibility did not violate the taxpayer’s section 7 or section 15 Charter rights.
+[14] In Ali and Markel, the Federal Court of Appeal referred to the decision of the Supreme Court of Canada in Auton (Guardian ad litem of) v. British Columbia (Attorney General), [2004] 3 S.C.R. 657 and stated at paragraph 12 that:
+In my view, this is a case in which the subsection 15(1) issue can be addressed in a simpler manner. In Auton, the Supreme Court of Canada held that subsection 15(1) of the Charter will not be infringed where the benefit that is sought is not one that is provided by the law that is being challenged. In the present case, the benefit claimed by the appellants is the METC in respect of the cost of Dietary Supplements that are purchased "off the shelf". That is what they claimed in their tax returns and it is the entitlement to that claim that they sought to establish in their notices of appeal to the Tax Court of Canada. In Ray, this Court confirmed that such a benefit is not one that is provided by paragraph 118.2(2)(n) of the ITA. How then can it be discriminatory to deny the appellants a benefit (the METC in respect of the cost of "off the shelf" drugs) that no one gets?
+[15] The Federal Court of Appeal went on to hold that paragraph 118.2(2)(n) was not discriminatory in purpose or effect in respect of the Dietary Supplements in issue in that case:
+15. With respect to the matter of direct discrimination, the definition of medical expenses in subsection 118.2(2) of the ITA does not explicitly exclude the cost of Dietary Supplements. Moreover, nothing in the provisions of the ITA dealing with the METC points to the express adoption by Parliament of a discriminatory policy with respect to the non-availability of the METC in relation to the cost of Dietary Supplements. Accordingly, I conclude that the legislative choice not to extend the METC to include the cost of Dietary Supplements in the definition of medical expenses in subsection 118.2(2) of the ITA does not constitute direct discrimination.
+. . .
+17. With respect to the legislative scheme at issue in this case, the definition of "medical expense" in subsection 118.2(2) of the ITA contains an enumeration of the specific types of costs that are eligible for the METC. This indicates a legislative purpose of limiting the availability of the METC to a specific list of items. Paragraph 118.2(2)(n) of the ITA exemplifies this purpose by drawing a line between items that meet the "recorded by a pharmacist" requirement and those that do not. Thus, paragraph 118.2(2)(n) of the ITA is fully consistent with the purpose and scheme of the METC legislation which is to only provide the METC in respect of specifically enumerated types of medical expenses and not with respect to all types of medical expenses.
+[16] Mr. Leeper argues that in this case his spouse’s cancer is a life-threatening disease, whereas the medical conditions of the taxpayers in Ali and Markel (fibromyalgia and chronic fatigue syndrome) were not. He referred to a Canada Revenue Agency administrative publication entitled “List of Eligible Medical Expenses” which included “cancer treatment” but which did not specifically include fibromyalgia or chronic fatigue syndrome, and to other administrative and statutory provisions dealing with serious or life-threatening medical conditions which refer to cancer but not to fibromyalgia or chronic fatigue syndrome.
+[17] Mr. Leeper has not shown, though, how the relative seriousness of a disease or condition would affect the subsection 15(1) analysis undertaken by the Federal Court of Appeal in Ali and Markel, and in my view, the nature or seriousness of a taxpayer’s condition or disease does not impact that analysis. Also, if Mr. Leeper’s proposition were accepted, it would mean that a subsection 15(1) right to equality would not apply equally to all persons suffering from a serious disease, something that runs counter to the basic notion of equality rights.
+[18] I find that Mr. Leeper has not shown that his case is distinguishable from the case of Ali and Markel and I conclude that neither his nor his spouse’s section 15 Charter rights are infringed by paragraph 118.2(2)(n).
+[19] The Federal Court of Appeal in Ali and Markel also held that the taxpayers’ section 7 rights were not infringed by paragraph 118.2(2)(n). In Ali and Markel, the Court wrote:
+22. In my view, the ability to resist an income tax assessment on the basis of section 7 of the Charter has been sufficiently dealt with by Justice Rothstein at paragraphs 29 and 30 of the decision of this Court in Mathew v. Canada, [2003] F.C.J. No. 1470, 2003 FCA 371, in which he stated:
+[29] I will accept that the power of reassessment of a taxpayer implicates the administration of justice. However, I do not accept that reassessments of taxpayers result in a deprivation of liberty or security of the person.
+[30] If there is a right at issue in the case of reassessments in income tax, it is an economic right. In Gosselin, [2002] 4 S.C.R. 429, McLachlin C.J.C., for the majority, observed that in Irwin Toy Ltd. v. Quebec (A.G.), [1989] 1 S.C.R. 927 at 1003, Dickson C.J.C., for the majority, left open the question of whether section 7 could operate to protect "economic rights fundamental to human...survival". However, there is no suggestion in Gosselin that section 7 is broad enough to encompass economic rights generally or, in particular, in respect of reassessments of income tax. I am, therefore, of the view that the appellants have not demonstrated a deprivation of any right protected by section 7 of the Charter.
+[Emphasis added.]
+[20] Mr. L eeper relies on the decision of the Supreme Court of Canada in Canada (Attorney General) v. Bedford, 2013 SCC 72 to ground his section 7 argument. In Bedford, the Supreme Court held that certain sections of the Criminal Code relating to prostitution infringed the section 7 Charter rights of prostitutes by depriving them of security of the person. However, in Bedford, the Supreme Court found that there was a “sufficient causal connection” between the impugned Criminal Code provisions and the prostitutes’ security of the person. The Court held that these provisions imposed dangerous conditions on prostitution.
+[21] In the case before me, it has not been shown that there is a sufficient causal connection between paragraph 118.2(2)(n) of the Act and Ms. Leeper’s security of the person. While I have great sympathy for Ms. Leeper’s situation, I do not accept that paragraph 118.2(2)(n) imposes dangerous conditions upon her, since that provision does not prevent her from obtaining the natural products that she requires. At most, it imposes, indirectly, a higher cost to her of those substances and thereby creates an economic barrier to that course of medical treatment. This engages economic rights, which are not protected by section 7 of the Charter. This point was made by the Federal Court of Appeal in Mathew v. Canada (2003 FCA 371) at paragraphs 29 and 30:
+I will accept that the power of reassessment of a taxpayer implicates the administration of justice. However, I do not accept that reassessments of taxpayers result in a deprivation of liberty or security of the person.
+If there is a right at issue in the case of reassessments in income tax, it is an economic right. In Gosselin, McLachlin C.J.C., for the majority, observed that in Irwin Toy Ltd. v. Quebec (A.G.), [1989] 1 S.C.R. 927 at 1003, Dickson C.J.C., for the majority, left open the question of whether section 7 could operate to protect "economic rights fundamental to human...survival". However, there is no suggestion in Gosselin that section 7 is broad enough to encompass economic rights generally or, in particular, in respect of reassessments of income tax. I am, therefore, of the view that the appellants have not demonstrated a deprivation of any right protected by section 7 of the Charter.
+[22] The cited paragraphs were relied upon by the Court in Ali and Markel (supra, at para. 22). Leave to appeal the Ali and Markel decision to the Supreme Court of Canada was refused. These decisions are binding on this Court and I therefore conclude that Mr. Leeper has not shown that paragraph 118.2(2)(n) infringes on his spouse’s section 7 Charter rights.
+[23] For these reasons, the appeal is dismissed.
+Signed at Vancouver, British Columbia, this 16th day of April 2015.
+“B.Paris”
+Paris J.
+CITATION:
+2015 TCC 82
+COURT FILE NO.:
+2013-3881(IT)I
+STYLE OF CAUSE:
+BLAKE A. LEEPER AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Nanaimo, British Columbia
+DATE OF HEARING:
+October 20, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Paris
+DATE OF JUDGMENT:
+April 16, 2015
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Whitney Dunn
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

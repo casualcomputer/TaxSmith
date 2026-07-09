@@ -1,0 +1,143 @@
+Title: Mohammed v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26993/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-265-26993-mohammed-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-05-26
+
+# Mohammed v. The Queen
+
+- Citation: 2006 CCI 265
+- Decision date: 2006-05-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 538, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mohammed v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-05-26
+Référence neutre
+2006 CCI 265
+Numéro de dossier
+2005-2687(IT)I
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2006CCI265
+Date : 20060526
+Dossier : 2005-2687(IT)I
+ENTRE :
+AKIM MOHAMMED,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+________________________________________________________________
+Pour l'appelant : L'appelant lui-même Avocate de l'intimée : Me Kandia Aird
+________________________________________________________________
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L'ORDONNANCE
+(Rendus oralement à l'audience à Toronto (Ontario), le 25 avril 2006.)
+Le juge Bowie
+[1] La présente est une requête préliminaire du Procureur général du Canada en vue d'annuler les appels de M. Mohammed. Les moyens de la requête reposent sur le fait que les appels de M. Mohammed n'ont pas été correctement interjetés car l'appelant n'a pas signifié un ou plusieurs avis d'opposition valides dans les délais prescrits par la Loi de l'impôt sur le revenu.
+[2] Avant d'analyser le bien-fondé de la requête, j'estime nécessaire de souligner que je condamne fermement le retard injustifié de l'intimée dans le traitement de la présente affaire. L'avis d'appel dans la présente affaire a été déposé à la Cour le 8 août 2005. La Loi sur la Cour canadienne de l'impôt dispose qu'à la suite de la transmission de l'avis d'appel, l'intimée dispose de 60 jours pour y répondre. Il y a longtemps que nous avons dépassé les 60 jours et aucune réponse n'a été produite, et ce n'est que le 13 avril 2006, soit huit mois après le dépôt de l'avis d'appel, qu'une requête a été présentée pour contester le droit de l'appelant d'interjeter appel.
+[3] Absolument aucune explication ne m'a été fournie sur les raisons pour lesquelles il y a eu un tel retard. Il n'y a sûrement aucune explication manifeste pour cela, ni aucune explication pour le fait qu'aucune réponse n'a été déposée. L'avis d'appel a été déposé. Je comprends assez bien que le ministre du Revenu national, ou le Procureur général, ou ceux qui agissent en leur nom, peuvent très bien soutenir que les appels n'ont pas été correctement présentés car il n'y avait pas d'avis d'opposition valide, ce qui bien entendu est une condition préalable nécessaire à la validité de tout appel devant la présente Cour en vertu de la Loi de l'impôt sur le revenu. Toutefois, il n'y a rien dans la Loi de l'impôt sur le revenu, la Loi sur la Cour canadienne de l'impôt ou les Règles qui justifie de retarder le dépôt de la réponse sur ce fondement. Il n'y a aucune raison pour que le Sous-procureur général du Canada ne puisse pas déposer de réponse et affirmer dans sa réponse que l'appel n'a pas été correctement présenté.
+[4] Aucune explication ne m'a été fournie pour cela et je veux qu'il soit clair que je condamne fermement la façon dont la question a été gérée. Je prends le temps de dire tout cela car c'est loin d'être la première fois que je vois ce type de retard lorsque le ministre soutient que les appels n'ont pas été correctement présentés.
+[5] Récemment, j'ai rendu des motifs de jugement dans une autre affaire où j'ai condamné la pratique qui consiste à soumettre des requêtes en vue d'annuler des appels sur le fondement de motifs qui peuvent très bien être soulevés dans la réponse et ensuite être débattus lors de l'audience de l'appel. Je veux qu'il soit clair que dans la présente affaire, je n'admets pas la façon dont la présente question a été soumise à la Cour. Tout cela étant dit, je me penche maintenant sur le bien-fondé de la requête qui m'est soumise.
+[6] L'appelant, M. Mohammed, a fait faillite en septembre 2003. Cela a eu comme conséquence qu'il avait deux années d'imposition en 2003, l'une se terminant en septembre 2003 et l'autre se terminant le 31 décembre 2003. Il semble que son syndic a rempli les déclarations pour les deux années d'imposition et en conséquence, des cotisations ont été établies. Pour des raisons non expliquées, mais sans importance particulière, la cotisation pour la période postérieure à la faillite a été établie le 13 mai 2004 et la cotisation pour la période antérieure à la faillite a été établie plus d'un mois plus tard, soit le 25 juin 2004. Le 20 juillet 2004, le syndic a été libéré et je suppose que l'appelant a également été libéré à ce moment-là.
+[7] Il n'y a pas eu de nouvelle cotisation pour la période antérieure à la faillite en 2003. Il y a eu de nouvelles cotisations pour la période postérieure à la faillite. La première de ces nouvelles cotisations a eu lieu le 12 mai 2005, et la seconde le 2 mars 2006. La question qui se pose immédiatement à moi est de savoir, à l'égard des deux années d'imposition de 2003, si un avis d'opposition valide avait soutenu l'avis d'appel. L'avis d'appel prétend interjeter appel à l'égard des deux périodes, soit celles postérieure et antérieure à la faillite.
+[8] La requête est soutenue par une déclaration sous serment faite par Warren O'Dwyer le 12 avril 2006. M. O'Dwyer a aussi témoigné oralement devant moi. Il se décrit comme un agent des litiges au bureau des litiges de l'Agence du revenu du Canada à Toronto et déclare que cela lui donne des connaissances directes sur les faits qu'il expose, à l'exception de ce qui est déclaré être fondé sur des renseignements qu'il croit véridiques. Je suis en train de lire le reste de la déclaration sous serment et je ne vois rien qui est énoncé comme fondé sur des renseignements qu'on croit véridiques. Dans sa déclaration sous serment, il déclare que :
+[TRADUCTION]
+L'appelant a déposé sa déclaration de revenus T1 générale le 7 avril 2004.
+Le ministre du Revenu national a établi une cotisation à l'appelant pour l'année d'imposition 2003 par un avis de cotisation daté du 25 juin 2004.
+Le ministre a établi une nouvelle cotisation à l'appelant pour l'année d'imposition 2003 par un avis de nouvelle cotisation daté du 12 mai 2005.
+Il déclare que :
+[TRADUCTION]
+Le 90e jour suivant la date de mise à la poste de l'avis de nouvelle cotisation était le 10 août 2005.
+Il se réfère à l'avis d'appel déposé à la Cour le 8 août et affirme que :
+[TRADUCTION]
+Après avoir attentivement examiné les dossiers de l'ARC et y avoir fait des recherches, je n'ai pas été en mesure de trouver d'avis d'opposition à l'avis de nouvelle cotisation du ministre reçu au plus tard le 10 août 2005, soit le dernier jour pour présenter un avis d'opposition à la suite de la mise à la poste de l'avis de nouvelle cotisation mentionné ci-dessus.
+Son témoignage oral avait le même sens. Il a déclaré dans son témoignage oral qu'il avait fait des recherches dans le système d'archives électroniques des dossiers de l'ARC et qu'il n'avait trouvé aucun avis d'opposition. Lors de ce témoignage oral, il n'a pas du tout mentionné comment ce système fonctionnait ou comment les documents déposés y étaient intégrés. Il a déclaré que si un document était transmis au ministre, il serait intégré dans le système, mais il n'a rien dit sur la façon de procéder à cette intégration, par qui ce serait fait, ni comment les dossiers étaient conservés ou consultés.
+[9] Le fait que sa déclaration sous serment ne révèle pas que l'appelant avait deux années d'imposition en 2003 et le fait que cette déclaration sous serment ne mentionne pas la deuxième nouvelle cotisation qui a eu lieu en 2006 pour la période postérieure à la faillite me laisse dubitatif quant à l'étendue de sa recherche ou de sa compréhension des dossiers qu'il a trouvés lors de cette recherche.
+[10] L'appelant a répondu à la requête par une déclaration sous serment à laquelle il a joint 15 pièces, parmi lesquelles la plus importante se trouve à l'onglet 5, qui est une lettre portant l'adresse de l'appelant au-dessus et qui est jointe à d'autres documents. Elle est adressée à, et je cite :
+[TRADUCTION]
+Agence du revenu du Canada
+Centre fiscal
+Centre fiscal de Surrey
+9755 King George Highway
+Surrey (C.-B.) V3T 5E1
+On y trouve joint, également sur le papier à en-tête de M. Mohammed et portant la même adresse, un document qui indique [TRADUCTION] : « Objet : déclaration de revenus pour l'année 2003 - antérieure et postérieure à la faillite » , comportant son nom, sa date de naissance et son numéro d'assurance sociale. Le document a pour titre : « Avis d'opposition pour analyse et réexamen ou, subsidiairement, avis d'appel » . Ce document-là a deux pages de long et il est daté du 18 novembre 2004, ce qui est la même date que celle de la lettre de présentation. Les troisième et quatrième pages portent également l'en-tête de M. Mohammed. Elles sont destinées à la même adresse à Surrey, en Colombie-Britannique, elles sont datées du 18 novembre 2004 et leur titre est [TRADUCTION] : « Objet : Déclaration de revenus pour l'année 2003 - documents de la période postérieure à la faillite joints » . Elles portent le nom de l'appelant, sa date de naissance et son numéro d'assurance sociale, et au-dessous de cela apparaît [TRADUCTION] : « (1) Avis de changement d'adresse, (2) documents supplémentaires de la période postérieure à la faillite joints » . Ce document indique également que des documents allant de (a) à (j) y sont joints. Le tout est signé par M. Mohammed et comporte la note suivante au bas de la page [TRADUCTION] : « Par : livraison en personne au bureau local de Kitchener (Ontario) et par télécopie à Revenu Canada » ainsi que le numéro de télécopie (604) 585-5769, dont je pense qu'il n'est pas contesté qu'il s'agit du numéro de télécopie du centre fiscal de Surrey, en Colombie-Britannique.
+[11] La pièce R-1, que M. O'Dwyer identifie comme ayant été trouvée dans les dossiers de l'ARC, semble être une photocopie d'une télécopie constituée des deux pages que je viens de décrire comme étant le troisième document à l'onglet 5 de la déclaration sous serment de l'appelant, suivi d'un certain nombre de reçus et d'autres documents qui, si je comprends bien, sont les documents décrits aux alinéas 2(a) à 2(j) de la lettre du 18 novembre intitulée [TRADUCTION] : « Déclaration de revenus pour l'année 2003 - documents de la période postérieure à la faillite joints » .
+[12] Ce qui manque à cette télécopie-là, c'est la lettre de présentation et, ce qui est plus important encore, le document de deux pages qui porte le titre [TRADUCTION] « Avis d'opposition et pour analyse et réexamen » et ainsi de suite. Le témoignage de M. O'Dwyer indiquait que la pièce R-1 avait été reçue par télécopie au centre fiscal de Surrey, mais sans les deux pages importantes intitulées « Avis d'opposition » . Bien entendu, il n'a aucune connaissance de cela. Il peut seulement déclarer que ce qu'il a trouvé dans les dossiers de l'ARC était la pièce R-1, telle qu'elle apparaît sans ces pages.
+[13] Lors de son témoignage, l'appelant a déclaré qu'il avait télécopié tout le document, y compris les deux pages intitulées « Avis d'opposition » , au centre fiscal de Surrey et qu'il avait remis en personne les documents au bureau fiscal de Kitchener, en Ontario. La télécopie a été envoyée le 18 novembre 2004 et la livraison en personne a été effectuée à Kitchener le 19 novembre 2004.
+[14] J'ai déjà souligné que le témoignage de M. O'Dwyer n'était pas sans failles; je peux dire la même chose de celui de M. Mohammed. Il semble assez clair à l'étude de la pièce R-1, sur laquelle, comme c'est le cas pour la majorité des télécopies, et comme cela est exigé pour toutes les transmissions par télécopie, l'appareil de transmission a indiqué le numéro de la page au-dessus de chaque page, et qui indique d'ailleurs la date du 18 novembre 2004, et toutes les pages semblent avoir été transmises à 21 h 53. Cependant, il importe de noter que les pages sont numérotées de 1 à 33 et que la page 1 est la troisième des documents. Cela signifie la page intitulée [TRADUCTION] « Déclaration de revenus pour l'année 2003 - documents de la période postérieure à la faillite joints » , soit le troisième document apparaissant à l'onglet 5 de la déclaration sous serment de M. Mohammed, ce qui conduit à la conclusion presque irrésistible que les deux pages qui s'intitulent [TRADUCTION] « Avis d'opposition » ne font pas partie de la télécopie envoyée au centre fiscal de Surrey.
+[15] Bien entendu, M. Mohammed a été interrogé à ce sujet lors du contre-interrogatoire. Il a émis l'hypothèse selon laquelle il avait peut-être envoyé deux télécopies ce jour-là, puis il a déclaré qu'il n'avait pas de bordereau de confirmation de transmission pour la deuxième télécopie, du moins pas avec lui. La dernière page de l'onglet 5 de la déclaration sous serment de M. Mohammed semble être le bordereau de confirmation de transmission d'une télécopie comportant 33 pages, ce qui, bien entendu, correspondrait au fait que la télécopie ne comprenait pas les deux pages intitulées [TRADUCTION] « Avis d'opposition » , et sur le bordereau de transmission de cette télécopie-là, deux choses sont écrites à la main et, je suppose, par M. Mohammed. L'une énonce [TRADUCTION] « Tous les documents ci-dessus ont été envoyés par télécopie » , et la seconde [TRADUCTION] « Le 19 novembre 2004, tous les documents ont été livrés au bureau de Revenu Canada à Kitchener. »
+[16] En ce qui a trait à la télécopie, étant donné que M. Mohammed a pris soin d'inclure le bordereau de transmission à la dernière page de l'onglet 5 de sa déclaration sous serment, étant donné qu'il n'y a pas d'autre bordereau de transmission, une chose que M. Mohammed a tenté d'expliquer en déclarant que son télécopieur était très vieux, qu'il l'avait acheté à une vente-débarras, qu'il ne fonctionnait pas très bien et qu'il n'émettait pas toujours de bordereau de transmission comme il l'aurait dû, je ne suis pas d'avis qu'il faille accepter l'idée qu'il y avait peut-être une deuxième télécopie contenant les deux pages avec les mots importants [TRADUCTION] « Avis d'opposition » .
+[17] Premièrement, si une télécopie avait été envoyée en deux parties, j'aurais pensé que M. Mohammed s'en souviendrait avec plus de certitude. Étant donné qu'il a pris soin de noter la livraison à la main sur le bordereau de transmission que nous avons, je m'attendrais à ce que s'il y avait une deuxième télécopie, il l'aurait noté sur le bordereau de transmission, et il aurait peut-être fait une note du fait qu'il n'y avait pas de deuxième bordereau de transmission, si celui-ci avait été en fait détruit par le télécopieur, comme il l'a suggéré.
+[18] En ce qui a trait à l'existence, selon M. Mohammed, d'un avis d'opposition envoyé par télécopie au centre fiscal de Surrey, ma conclusion de fait est que cet envoi n'a pas eu lieu. Je conclus que le document qui constitue la pièce R-1, ou du moins son original, a été transmis par télécopie exactement dans la forme sous laquelle il apparaît dans la pièce R-1. La question qui continue de se poser est de savoir si un avis d'opposition a été remis au bureau fiscal de Kitchener le 19 novembre. Si je n'ai pas été clair à ce sujet auparavant, je devrais l'être maintenant sur le fait que l'importance de la livraison d'un avis d'opposition le 19 ou le 18 novembre, selon le cas, découle du fait que selon la preuve que j'ai entendue, il semble qu'un tel avis d'opposition serait reçu à temps pour constituer un avis d'opposition valide en ce qui a trait à la période antérieure à la faillite de 2003, car même si cet avis de cotisation est daté du 25 juin, je serais conduit à penser qu'il ne s'est pas rendu à M. Mohammed, ou même à la poste, avant le mois d'octobre 2004.
+[19] La mise à la poste de cet avis de cotisation n'est particulièrement mentionnée ni dans la déclaration sous serment de M. O'Dwyer, ni dans son témoignage oral. M. Mohammed indique dans sa déclaration sous serment que n'ayant pas reçu les avis de cotisation, il est allé les chercher sur le site Web de l'ARC. Il semble qu'il a trouvé un sommaire d'une cotisation, mais la première preuve que j'ai qu'il l'a reçue semble être une lettre que l'ARC lui a envoyée le 8 octobre 2004 indiquant simplement [TRADUCTION] : « Vous trouverez ci-joint les renseignements demandés. Si vous avez des questions, veuillez appeler le service à la clientèle... » . Un numéro de téléphone est joint à la lettre. Les documents joints à cette lettre sont les avis de cotisation datés du 13 mai 2004 pour la période postérieure à la faillite et du 25 juin 2004 pour la période antérieure à la faillite.
+[20] En l'absence de preuves de la mise à la poste de ces documents et étant donné les affirmations de M. Mohammed dans sa déclaration sous serment, je conclurais que ces documents n'ont pas été mis à la poste aux dates qu'ils indiquent et, en fait, qu'ils n'ont pas été mis à la poste du tout avant le 8 octobre 2004.
+[21] J'en reviens à la question de la preuve de la livraison par M. Mohammed au bureau fiscal de Kitchener, qui indique simplement qu'il s'y est rendu le 19 novembre et qu'il avait le document, et par ce terme il entend un document qui se compose des deux premiers documents de l'onglet 5 de sa déclaration sous serment et d'éléments supplémentaires consistant en des reçus que j'ai trouvés comme étant les pages 3 à 33 de la pièce R-1. Il a déclaré avoir mis le document en question dans une enveloppe que lui avait donnée l'ARC et ensuite il l'a confié au réceptionniste du bureau de l'ARC à Kitchener le 19 novembre. Il a été longuement contre-interrogé sur ce point, et son témoignage n'a pas été ébranlé.
+[22] Vu mes conclusions selon lesquelles les deux pages intitulées [TRADUCTION] « Avis d'opposition » , ou bien devrais-je dire les trois pages intitulées [TRADUCTION] « Avis d'opposition » , car la première page de l'onglet 5 de la déclaration sous serment de M. Mohammed, de même que la deuxième page, porte les mots [TRADUCTION] « Avis d'opposition » , il n'y a pas d'explication logique sur le fait qu'elles ne font pas partie de la télécopie, mais qu'elles auraient été incluses dans le colis livré par M. Mohammed le 19 novembre.
+[23] Toutefois, vu le témoignage qu'il a présenté sous serment et qui, comme je l'ai dit, n'a pas été ébranlé lors du contre-interrogatoire, je suis tenté de conclure selon la prépondérance de la preuve qu'il a en fait déposé ces documents le 19 novembre et que ceux-ci comprenaient les trois premières pages de l'onglet 5 ainsi que tous les éléments de la pièce R-1.
+[24] Bien entendu, selon l'intimée, si l'appelant avait fait une telle livraison, la recherche de M. O'Dwyer aurait permis de trouver le document au centre fiscal de Kitchener. Toutefois, il apparaît clairement de la preuve de M. O'Dwyer qu'il n'a pas posé de questions au centre fiscal de Kitchener. Il n'avait pas de connaissance particulière de ce qui se passait ou ne se passait pas au centre fiscal de Kitchener. Bref, son témoignage est simplement que s'ils avaient reçu le document en question à Kitchener, il aurait été intégré dans le système électronique et une recherche dans ce système aurait permis de le retrouver. Je ne suis pas d'avis qu'il s'agit d'une preuve très convaincante, en particulier parce que la déclaration sous serment de M. O'Dwyer est sensée être fondée sur des connaissances directes et vu que son témoignage oral n'était même pas insuffisant à l'égard du fonctionnement du système électronique et de la personne qui avait entré les données, et ainsi de suite, comme j'y ai fait allusion plus tôt.
+[25] Toutefois, cela ne règle pas la question en litige. Me Aird dans ses allégations m'a renvoyé à trois décisions. Deux décisions proviennent de la présente Cour, et à mon avis elles ne sont d'aucun secours, puisqu'elles dépendent simplement des faits particuliers en fonction de la preuve particulière devant les deux juges en question dans ces affaires-là. La troisième décision a été rendue par la Cour d'appel fédérale dans l'affaire McClelland c. Canada[1] et il s'agissait d'un appel d'une décision de la présente Cour annulant l'avis d'appel au motif que l'appelant n'avait pas signifié d'avis d'opposition au ministre dans les délais prescrits par le paragraphe 165(1) de la Loi de l'impôt sur le revenu. Cet appel-là fut rejeté, mais dans les motifs du jugement de la Cour d'appel fédérale, le juge Sexton a déclaré ce qui suit au paragraphe 5 :
+Le juge de la Cour de l'impôt a de plus statué qu'aucun avis d'opposition valide n'avait été déposé par l'appelant. L'appelant a fait valoir qu'une lettre qu'il avait envoyée à un agent de recouvrement au sujet de ses arriérés d'impôt pour 1988 et les années ultérieures constituaient un avis d'opposition valide pour les différentes années d'imposition, soit 1998, 1999 et 2000. La Loi de l'impôt sur le revenu exige qu'un avis d'opposition soit envoyé au chef des appels. Par conséquent, une lettre adressée à l'agent de recouvrement ne suffit pas.
+[26] Je souligne que le juge Sexton se réfère en particulier à la façon d'envoyer un avis d'opposition, et si ma lecture du paragraphe 5 est correcte, il suggère que cela était au moins aussi important, sinon plus, que le fait que la lettre sur laquelle l'appelant s'appuyait avait trait à une année d'imposition différente. Le paragraphe 165(1) de la Loi dispose :
+Le contribuable qui s'oppose à une cotisation prévue par la présente partie peut signifier au ministre, par écrit, un avis d'opposition exposant les motifs de son opposition et tous les faits pertinents, dans les délais suivants [...].
+Par la suite, il prescrit le délai pendant lequel cela doit être fait et pour les besoins de la présente affaire, ce serait dans les 90 jours suivant la date de mise à la poste de l'avis de cotisation. Le paragraphe (2) dispose ensuite :
+L'avis d'opposition prévu au présent article est signifié au chef des Appels d'un bureau de district ou d'un centre fiscal de l'Agence des douanes et du revenu du Canada soit par personne, soit par courrier.
+On remarque immédiatement que le paragraphe (2) comporte une obligation et cela, bien entendu, est renforcé par les motifs du jugement du juge Sexton dans l'affaire McClelland. On suppose que l'obligation existe parce que de nombreux documents sont signifiés soit par courrier soit par personne à l'ARC dans de nombreux bureaux à travers le Canada. Un avis d'opposition est un document de grande importance car (et ceci n'est pas remis en cause devant moi), un avis d'opposition valide signifié dans les formes prescrites est une condition préalable nécessaire à un appel devant la présente Cour.
+[27] L'importance du document est évidente et l'importance du document est la raison pour laquelle l'obligation existe et le fait qu'il s'agit d'une obligation est souligné à la fois par la Loi d'interprétation et par le jugement dans l'affaire McClelland. Le paragraphe 165(6) dispose :
+Le ministre peut accepter un avis d'opposition signifié en vertu du présent article malgré l'inobservation des modalités prévues au paragraphe (2).
+On ne peut nier, je pense, qu'il s'agit là d'un pouvoir discrétionnaire du ministre. L'opposition entre les obligations contenues aux paragraphes (1) et (2) et la permission contenue au paragraphe (6) n'est pas le résultat d'une erreur de rédaction et si, dans une cause particulière, le ministre refuse d'accepter un avis d'opposition signifié de façon irrégulière comme étant valide, à mon avis, la présente Cour n'a aucun pouvoir ni de renverser son refus, ni de rendre valide un avis d'opposition signifié de façon irrégulière.
+[28] Revenons à l'onglet 5 de la déclaration sous serment de l'appelant. Je répète que cela est adressé à l'ARC, au centre fiscal de Surrey, à l'adresse municipale de ce bureau. Ce n'est tout simplement pas adressé au chef des appels. Il en résulte qu'il n'y a pas, en l'espèce, d'avis d'opposition qui a été signifié de façon valide, comme l'exige le paragraphe 165(2), ou qui a été accepté par le ministre en vertu du paragraphe 165(6). Si je comprends bien, il en résulte que l'appelant n'a pas d'avis d'opposition valide, qu'il n'a pas la possibilité d'y remédier à l'égard de la période antérieure à la faillite de 2003 et qu'il n'a pas d'avis d'opposition valide pour la période postérieure à la faillite.
+[29] L'intimée a déclaré au paragraphe 7 de ses observations écrites déposées avec la requête, et je cite :
+[TRADUCTION]
+L'appelant a déposé son avis d'appel dans le délai prescrit pour signifier un avis d'opposition selon le paragraphe 165(1) de la Loi de l'impôt sur le revenu et l'intimée acceptera de considérer l'avis d'appel déposé le 8 août 2005 comme un avis d'opposition.
+Le paragraphe 7 ne fait pas référence à la période antérieure à la faillite. En ce qui a trait à la période postérieure à la faillite, il n'y est pas non plus fait expressément référence dans ce même paragraphe. En fait, il est difficile de dire si le paragraphe 7 visait à couvrir les deux années d'imposition de 2003. Toutefois, la dernière nouvelle cotisation de la période postérieure à la faillite a eu lieu le 2 mars 2006 et il en résulte que l'appelant est encore dans le délai de 90 jours pour signifier un avis d'opposition à cet avis de cotisation-là. Cependant, cela nécessiterait qu'il signifie un nouvel avis d'opposition.
+[30] Le présent appel n'est simplement pas correctement interjeté et il sera annulé. Je vais ordonner que les droits de dépôt soient remboursés à l'appelant car il semble que plusieurs de ses difficultés actuelles peuvent être attribuées à la façon dont toute la présente affaire a été gérée par l'ARC et par le Sous-procureur général. L'appelant se trouve dans une position où il doit déposer un nouvel appel et il n'y a aucune raison qui justifie qu'il doive payer deux fois des droits de dépôt, à moins bien entendu que, lorsqu'il signifiera son nouvel avis d'opposition, il réussit à résoudre la question sans avoir à interjeter de nouvel appel. Il ne s'agit pas d'un sujet sur lequel je peux faire des commentaires dans le cadre de la présente requête.
+[31] Une ordonnance sera rendue annulant les appels pour les deux périodes de 2003, soit celles antérieure et postérieure à la faillite, et l'appelant obtiendra le remboursement de ses droits de dépôt.
+Signé à Ottawa, Canada, ce 26e jour de mai 2006.
+« E. A. Bowie »
+Le juge Bowie
+Traduction certifiée conforme
+ce 28e jour de juin 2006.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE :
+2006CCI265
+NUMÉRO DU DOSSIER DE LA COUR :
+2005-2687(IT)I
+INTITULÉ DE LA CAUSE :
+Akim Mohammed et
+Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Toronto (Ontario)
+DATE DE L'AUDIENCE :
+le 25 avril 2006
+MOTIFS DE L'ORDONNANCE PAR :
+L'honorable juge E. A. Bowie
+DATE DE L'ORDONNANCE :
+le 1er mai 2006
+COMPARUTIONS :
+Pour l'appelant :
+l'appelant lui-même
+Avocat de l'intimée :
+Me Kandia Aird
+AVOCATS INSCRITS AU DOSSIER :
+Nom :
+s.o.
+Étude :
+s.o.
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] n ° A-488-03, 22 septembre 2004, [2004] A.C.F. n ° 1555.

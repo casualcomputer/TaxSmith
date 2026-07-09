@@ -1,0 +1,178 @@
+---
+title: "Kelly v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30731/index.do"
+last_modified: "2012-02-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 66"
+citation2: ""
+neutral_citation: "2012 TCC 66"
+decision_date: "2012-02-27"
+language: "en"
+item_id: "30731"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7526
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:34:24.468000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a2e8a5e0a8a4a714f19dbb8329b885354247f0c0012421311f5cb0a770bfc42a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kelly v. The Queen
+
+- Citation: 2012 TCC 66
+- Decision date: 2012-02-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7526, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kelly v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-02-27
+Neutral citation
+2012 TCC 66
+File numbers
+2010-1454(IT)G
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-1454(IT)G
+BETWEEN:
+MARY KELLY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on December 1, 2011 at Toronto, Ontario
+Before: The Honourable Justice G. A. Sheridan
+Appearances:
+Counsel for the Appellant:
+Jeffrey Radnoff
+Counsel for the Respondent:
+Thang Trieu
+____________________________________________________________________
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeals from the reassessments made under the Income Tax Act for the 2005 and 2006 taxation years are allowed, without costs, and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the following basis:
+1. the Appellant’s rental income for 2005 and 2006 was $2,218.79 and $304.67, respectively;
+2. the Appellant incurred business expenses in 2005 for realty tax and common area costs of $1,519.26 and $1,848.72; respectively, and
+3. in 2006, the Appellant incurred business expenses for realty tax and common area costs of $739.59 and $1,848.72, respectively.
+Signed at Vancouver, British Columbia this 27th day of February, 2012.
+“G. A. Sheridan”
+Sheridan J.
+Citation: 2012 TCC 66
+Date: 20120227
+Docket: 2010-1454(IT)G
+BETWEEN:
+MARY KELLY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan J.
+[1] The Appellant, Mary Kelly, is a registered nurse who in the late 1980’s purchased a studio apartment (“Unit”) in a condominium building (“Condominium”) at a ski resort near Collingwood, Ontario. She is appealing the reassessments by the Minister of National Revenue under the Income Tax Act of her 2005 and 2006 taxation years.
+[2] In each of those years, the Minister disallowed her claims for rental losses of $8,555 and $10,702, respectively, on the assumption that the Appellant acquired the Unit for her personal use. Though not pleaded as an assumption, one of the grounds relied on in the Reply was that the Appellant had not undertaken any activities relating to the Unit in pursuit of profit.
+[3] The Minister’s alternative position was that, if the Unit was a source of business income, the expenses claimed had not been proven and/or were for capital expenditures.
+[4] The Minister’s assumptions regarding the Appellant’s ownership of the Unit are set out in subparagraphs 5(a) to (f) of the Reply to the Notice of Appeal:
+a) the Appellant owned a studio condominium (the “Unit”) in a building registered as Grey Condominium Corporation No. 37 (the “Condominium”), located near Collingwood, Ontario;
+b) the Unit was maintained for the Appellant’s personal use;
+c) unit owners of the Condominium could contribute their units to a rental pool which operated under the name of Mountain Springs Resort and Conference Centre (the “Resort”);
+d) the Resort provided short term rental accommodation throughout the year to resort guests and groups;
+e) MSL Management Inc. (the “Management”), a wholly owned subsidiary of the Condominium, operated the Resort on behalf of the unit owners of the Condominium;
+f) Under a Lease Management Agreement (the “Agreement”) between the Management and unit owners:
+i) all revenues and expenses of the Resort were pooled and shared on a quarterly basis by unit owners who were a part of the Resort on the basis of their respective ownership interests by unit type;
+ii) the unit owners could opt out of the Resort each year but they were nonetheless bound by all the rules in the Agreement for rental of their unit;
+iii) the unit owners who opted out of the Resort could not rent their units for periods of less than thirty days; and
+iv) the unit owners who opted out of the Resort could not rent their unit for more than three times in any calendar year;
+v) the unit owners were responsible for the payment of their monthly condo fees and property taxes; and
+vi) the unit owners were responsible for owner staying charges in the event they used their unit;
+…
+[5] The Appellant was the only witness to testify. She did not dispute that part of her motivation in purchasing the Unit was her interest in skiing but contended that she was mainly attracted to its income-producing potential. Though somewhat shaken by the rigourous cross-examination of counsel for the Respondent, she nevertheless stood her ground. Her inability, on occasion, to recall or explain fully the details of each transaction underpinning her claims did not diminish her overall credibility.
+Analysis
+1. Was there a Business?
+[6] Both counsel relied on the test in Stewart v. R., [2002] 2 S.C.R. 645 to determine whether, given the personal aspect to of the Appellant’s activity, there existed a source of income:
+54 It should also be noted that the source of income assessment is not a purely subjective inquiry. Although in order for an activity to be classified as commercial in nature, the taxpayer must have the subjective intention to profit, in addition, as stated in Moldowan, this determination should be made by looking at a variety of objective factors. Thus, in expanded form, the first stage of the above test can be restated as follows: “Does the taxpayer intend to carry on an activity for profit and is there evidence to support that intention?” This requires the taxpayer to establish that his or her predominant intention is to make a profit from the activity and that the activity has been carried out in accordance with objective standards of businesslike behaviour.
+55 The objective factors listed by Dickson J. in Moldowan at p. 486 were (1) the profit and loss experience in past years, (2) the taxpayer's training, (3) the taxpayer's intended course of action, and (4) the capability of the venture to show a profit. As we conclude below, it is not necessary for the purposes of this appeal to expand on this list of factors. As such, we decline to do so; however, we would reiterate Dickson J.'s caution that this list is not intended to be exhaustive, and that the factors will differ with the nature and extent of the undertaking. […]
+[7] Of particular importance to the present case is the Court’s caution in the second half of paragraph 55 that:
+[…] although the reasonable expectation of profit is a factor to be considered at this stage, it is not the only factor, nor is it conclusive. The overall assessment to be made is whether or not the taxpayer is carrying on the activity in a commercial manner. However, this assessment should not be used to second-guess the business judgment of the taxpayer. It is the commercial nature of the taxpayer's activity which must be evaluated, not his or her business acumen.
+[Emphasis added.]
+[8] In my view, in reassessing the Appellant, the Minister encroached into the territory of second-guessing the Appellant’s business acumen. Counsel for the Respondent submitted that because of its self-serving quality, the Appellant’s testimony regarding her subjective intentions when acquiring the Unit should be given little weight. However, this concern is counterbalanced by the evidence of objective factors pointing to commercial activity and also overlooks Stewart’s warning that, in each case, such factors will “differ with the nature and the extent of the undertaking”[1].
+[9] Turning first to the Appellant’s subjective intentions, I accept her evidence that she saw the Unit as an opportunity to combine earning extra income with her enjoyment of skiing. Like the taxpayer in Stewart, the Appellant acquired her Unit as a “turnkey operation” with management of the rental pooling agreement and financing provided by the vendor. She did not, however, have Mr. Stewart’s business acumen. The Appellant was a registered nurse who, for “a couple of years”[2], had rented out a basement suite in her home. Mr. Stewart, on the other hand, had “held senior positions with the Toronto Transit Commission”[3] and was “an experienced real estate investor [who] … in the past acquired and disposed of several rental properties”[4]. As such, he was able to subject the vendor’s projections to a rigourous analysis whereas the Appellant took at face value the promotional materials of the Condominium vendors. She was influenced, in part, by the active involvement in the Condominium promotion of Todd Brooker who, at that time, was one of Canada’s well-known World Cup ski champions. Under the circumstances, I do not find unreasonable her belief that the rental of her Unit would cover her carrying costs i.e., the mortgage payments, property taxes and other fees, with some profit left over.
+[10] Counsel for the Respondent took the Appellant to task for her failure to produce the Lease Rental Agreement to show the profit/loss distribution between Management and the unit owners. However, on cross-examination, the Appellant acknowledged that the Quarterly Statement of Owner’s Account (Exhibit A-1, Tab 15) issued by Management showed her Unit percentage share of profits/losses as .54593%. She distinguished that percentage from the owners’ 58% share of the revenue and losses of the Resort. This distinction and the correctness of the resulting calculations as set out in Exhibit A-1, Index, Tab 14 and Tab 15 were conceded by the Respondent, subject to the Court finding there was a business source. Furthermore, given the detailed assumptions set out in paragraph 5(f) of the Reply, at some stage, at least, the Minister seems to have had quite a good look at the Lease Management Agreement. In the circumstances, I can see no justification for drawing a negative inference from the Appellant’s failure to produce the Lease Management Agreement at trial.
+[11] As for the Minister’s assumption that the Appellant never contributed her Unit to the pool, I accept her evidence to the contrary. Her evidence that she used the Unit personally “less than 10%” of the 120 days it was available to her in each calendar year was unshaken on cross-examination.
+[12] Counsel for the Respondent also contended that the losses consistently incurred by the Appellant from 1987 to 2006 pointed to a lack of commerciality in the venture. He held up in contrast the positive actions taken by the taxpayer in Stewart to render more profitable his property rental business:
+10 The appellant tried to reduce the amount of financing on the units. In 1991, he increased the frequency of first mortgage payments on the units from monthly to weekly, thereby reducing the amortization period significantly. He sold one of the Park Woods units in 1991 and used the proceeds to pay down the debt on the other unit. By 1994, the appellant had paid off the promissory notes on all of the units. The appellant also exited the White Oaks rental pool arrangement in 1995 because of high vacancies and poor management and set up his own management company. In 1996, he changed management companies for the Park Woods unit.
+[13] First of all, it is interesting to note that, notwithstanding the difference in their skill sets and degree of direct involvement, both Mr. Stewart and the Appellant ultimately found themselves on the losing end of what had initially seemed a promising venture. In Stewart, the Court expressly rejected the notion that the mere fact of losses having been incurred signifies that no business source exists. The Court went on to cite the words of former Chief Justice Bowman in Bélec v. The Queen, 95 D.T.C. 121 at page 123:
+“It would be … unacceptable to permit the Minister [to say] to the taxpayer … ‘The fact that you lost money … proves that you did not have a reasonable expectation of profit, but as soon as you earn some money, it proves that you now have such an expectation.’”
+[14] Secondly, holding the Appellant to the same standard as Mr. Stewart overlooks the difference in the degree of control each had over their respective undertakings. The Minister himself assumed at subparagraph 5(e) of the Reply that the Management “… operated the Resort on behalf of the unit owners of the Condominium”[5]. By its very nature, the Unit rental undertaking did not lend itself to the same level of active involvement Mr. Stewart enjoyed in his business venture. It is against this factual backdrop that the Appellant’s conduct in the face of losses must be considered. At first, she simply accepted Management’s reassurance that things would eventually turn around. When losses continued to accrue and she began to have trouble making her mortgage payments, she tried to sell the Unit, the only real “action” open to her. This proved unsuccessful. I found reasonable her explanation that the recession which followed her 1989 purchase of the Unit resulted in the devaluation of the Unit. Further complicating both the rental and resale of the Unit was on-going litigation between Management and municipal authorities over certain Condominium deficiencies. Finally, the development, in the meantime, of similar resort properties in the area had reduced the demand for units like the Appellant’s.
+[15] While the history of losses set out in subparagraph 5(j) and paragraph 6 of the Reply is a relevant consideration, I am satisfied that the Appellant has met her onus of rebutting its force in light of the other considerations.
+[16] All in all, I am persuaded that the Unit rental constituted a source of business income for the Appellant.
+2. What Expenses are Properly Deductible?
+Concessions
+[17] At the hearing, the Respondent conceded that in 2005 and 2006 the Appellant had rental income of $2,218.79 and $304.67 and business expenses for realty taxes of $1,519.26 and $793.59, respectively.
+[18] The only expenses remaining in dispute were the amounts claimed in 2005 and 2006 for common area costs, mortgage interest and in 2005 only, a special assessment.
+Common Area Costs
+[19] In 2005 and 2006, the Appellant claimed a total of $2,506.92 for common area costs. This works out to $208.91 per month. At the hearing, she estimated the common area costs at approximately $223 per month. In evidence was a copy of a letter from the current management of the Condominium (Exhibit A-1, Tab 13) showing the monthly “common element fees” for a unit like the Appellant’s to have been $223.53 in 2005 and 2006. Counsel for the Respondent argued that no weight should be given to this document on the basis that it was hearsay and other better evidence ought to have been produced, for example, the Appellant’s banking records.
+[20] I agree with counsel for the Respondent that banking records would have been more reliable than the letter from the Condominium management. However, even leaving aside this document, I have no reason to doubt the Appellant’s oral evidence. A review of the “Statement of Adjustments” on the final closing for the Unit purchase (Exhibit R-1) shows that when the Appellant first purchased the Unit in 1992, the monthly common area fees were $99.20. It can reasonably be assumed that by 2005, this amount would have increased. In these circumstances, it strikes me as reasonable to average the initial $99.20 fee with the amount originally claimed by the Appellant in her return, $208.91. This makes for a monthly common area cost of $154.06 or annual common area costs for 2005 and 2006 of $1,848.72.
+Mortgage Interest
+[21] When the Appellant originally purchased her Unit, it was mortgaged through the vendor. Her evidence was that by 2002, she was defaulting on her payments and was forced to mortgage her residence to pay out the vendor’s mortgage on the Unit. In 2005 and 2006, she claimed mortgage interest of $4,482 and $4,382.98, respectively.
+[22] The only documentation in support of her claim was a print out of interest calculations from an online mortgage calculator based on a principal amount of $79,200 with an interest rate of 6.05% amortized over 25 years with a 5-year term (Exhibit A-1, Tab 11). However, no foundation was laid for the use of such variables in the calculation. The Appellant did not testify to the terms of the mortgage. Furthermore, there was nothing to corroborate her evidence that the proceeds from the mortgage on her residence had been used to pay out the Unit mortgage. In these circumstances, the Appellant has not succeeded in proving her entitlement to the mortgage interest claimed.
+Special Assessment
+[23] In 2005 only, the Appellant claimed $2,191 in respect of a special assessment levied by the Condominium corporation to pay for the removal and replacement of siding on the Condominium. Counsel for the Appellant characterized this payment as covering a shortfall in the Condominium corporation’s operating budget and argued that as such, it ought to be deductible. However, I am persuaded by counsel for the Respondent that it was, in fact, an expenditure on account of capital and is, therefore, not deductible under subparagraph 18(1)(b) of the Act.
+Conclusion
+[24] The appeals from the assessments of the 2005 and 2006 taxation years are allowed and referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with these Reasons for Judgment. In view of the mixed result, each party shall bear its own costs.
+Signed at Vancouver, British Columbia this 27th day of February, 2012.
+“G. A. Sheridan”
+Sheridan J.
+CITATION: 2012 TCC 66
+COURT FILE NO.: 2010-1454(IT)G
+STYLE OF CAUSE: MARY KELLY AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: December 1, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice G. A. Sheridan
+DATE OF JUDGMENT: February 27, 2012
+APPEARANCES:
+Counsel for the Appellant:
+Jeffrey Radnoff
+Counsel for the Respondent:
+Thang Trieu
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Jeffrey Radnoff
+Firm: Radnoff Law Offices
+Barristers and Solicitors
+375 University Avenue, Suite 701
+Toronto, Ontario
+M5G 2J5
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Above.
+[2] Transcript, page 48, lines 8-12.
+[3] At paragraph 7.
+[4] Above.
+[5] At subparagraph 5(e) of the Reply.

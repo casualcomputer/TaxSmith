@@ -1,0 +1,158 @@
+---
+title: "Strum c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/420115/index.do"
+last_modified: "2019-08-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 CCI 167"
+citation2: ""
+neutral_citation: "2019 CCI 167"
+decision_date: "2019-08-14"
+language: "fr"
+item_id: "420115"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4220
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T18:12:02.509000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "cd91e0ebf551d09340813522cc743fb71cfa7c1a079a48167b2b8a51174f247b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Strum c. La Reine
+
+- Citation: 2019 CCI 167
+- Decision date: 2019-08-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4220, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Strum c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-08-14
+Référence neutre
+2019 CCI 167
+Numéro de dossier
+2018-4367(IT)I
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2018-4367(IT)I
+ENTRE :
+JAMES STRUM,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 22 mars 2019, à Halifax (Nouvelle-Écosse)
+Devant : L’honorable juge B. Russell
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Caitlin Ward
+Me Grace Jothiraj (stagiaire)
+JUGEMENT
+L’appel interjeté à l’encontre de trois nouvelles cotisations établies le 19 novembre 2018 aux termes de la Loi de l’impôt sur le revenu (Canada) pour les années d’imposition 2013, 2014 et 2015 de l’appelant est rejeté sans dépens.
+Signé à Halifax (Nouvelle-Écosse), ce 14e jour d’août 2019.
+« B. Russell »
+Le juge Russell
+Référence : 2019 CCI 167
+Date : 20190814
+Dossier : 2018-4367(IT)I
+ENTRE :
+JAMES STRUM,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Russell
+Introduction
+[1] Dans le cadre de la présente procédure informelle d’appel, James Strum, l’appelant, a interjeté appel à l’encontre de trois nouvelles cotisations établies le 19 novembre 2018 par le ministre du Revenu national (le ministre). Les nouvelles cotisations constituent l’obligation fiscale de l’appelant pour les années d’imposition 2013, 2014 et 2015 respectivement en application de la Loi de l’impôt sur le revenu, dans sa version modifiée (la Loi). La nouvelle cotisation pour l’année d’imposition 2013 ayant été établie après l’expiration de la période normale de nouvelles cotisations, il est possible qu’elle soit « prescrite ».
+[2] Plus précisément, l’appelant interjette appel du rejet de certaines dépenses de l’entreprise réclamées tel qu’il est indiqué dans chacune des nouvelles cotisations – en 2013 (6 104 dollars), en 2014 (4 246 dollars) et en 2015 (3 929 dollars). Le seul revenu d’entreprise perçu au cours de ces trois années a été de 50 dollars en 2014. Le ministre a autorisé une des catégories de dépense réclamées – les paiements de frais comptables à hauteur de 318 dollars en 2013, de 293 dollars en 2014 et de 323 dollars en 2015. Les dépenses réclamées par l’appelant constituent 50 % des dépenses totales qu’il a déclaré avoir engagées pour les besoins de son entreprise. Les 50 % restants ont été alloués à son épouse, qui participe aux activités de l’entreprise.
+Preuve
+[3] L’appelant, qui n’était pas représenté, a été le seul témoin présent à l’audience. À titre d’éléments de preuve, il a mentionné qu’en 2010, sa femme et lui ont établi une entreprise, en participant à ce que l’appelant a appelé un [traduction] « plan de commercialisation à plusieurs niveaux » appelé « Mona Vie » en vue de vendre des jus. La réussite de cette entreprise repose sur le recrutement de personnes chargées de vendre le produit, en offrant au recruteur un avantage financier sur les ventes de son équipe. Pendant toute la période pertinente, l’appelant a autrement été employé à temps complet.
+[4] Tout au long de ces six années, entre 2010 et 2015, l’appelant a recruté pour son entreprise seulement une personne qui, après une courte période, a cessé de participer. L’appelant n’a connu aucune année rentable pour cette entreprise (ni les trois années en litige ni les trois années initiales, à savoir 2010, 2011 et 2012). Selon son témoignage, il a continuellement essayé de réussir. Il ne s’attendait pas à ce qu’il soit si difficile de recruter des personnes pour son entreprise et de les fidéliser. Il a indiqué avoir rencontré (de même que son épouse, qui a participé elle aussi) des [traduction] « clients » potentiels autour d’un café ou d’un repas, afin de discuter de leur participation éventuelle. Il a consigné chaque mois les kilomètres qu’il a parcourus avec son véhicule, sans toutefois tenir un registre à proprement parler. Il ne possède aucun dossier comprenant les noms des personnes qu’il a essayé de recruter et il n’a fourni aucun nom au cours de l’audience.
+[5] Les dépenses les plus concrètes que l’appelant a réclamées pour les années 2013, 2014 et 2015 concernent des « frais de repas et de divertissement » – respectivement 1 628, 1 069 et 1 607 dollars; le « téléphone et autres commodités » – respectivement 2 427, 1 120 et 2 914 dollars; des « frais de véhicule à moteur » – respectivement 3 587, 3 070 et 1 938 dollars; des « déductions pour amortissement » – respectivement 1 641, 1 010 et 748 dollars; des « frais de bureau » – respectivement 1 079, 108 dollars et néant; des « frais de déplacement » – respectivement néant, 1 112 dollars et néant. Ces montants, qui ont la particularité de ne représenter que 50 % des dépenses réclamées par l’appelant, sont étonnamment importants, étant donné l’absence quasi totale de revenus et le peu d’affaires consignées. Par ailleurs, le ministre a autorisé au cours des trois années précédentes (2010, 2011 et 2012) les pertes importantes alors réclamées par l’appelant, sans contestation subséquente.
+[6] En contre-interrogatoire, l’appelant a reconnu que, bien qu’il ait réclamé des dépenses de « publicité et promotion » pour les trois années (320, 150 et 160 dollars), il a en réalité assuré la promotion de son entreprise par voie de [traduction] « bouche-à-oreille » seulement et il a mentionné avoir passé des [traduction] « appels téléphoniques spontanés ». Il ne possède aucun registre des [traduction] « clients » avec lesquels il a pris des repas. En 2014, sa femme et lui se sont rendus à Terre-Neuve-et-Labrador pour rendre visite à des proches et il a déclaré avoir discuté avec ces derniers, par la même occasion, de leur participation éventuelle à l’entreprise (ce qu’ils ont tous refusé). Dans un document intitulé [traduction] « Repas et divertissement » joint au lot de reçus (pièce no A-3), voici ce que l’appelant déclare :
+[traduction] (…) chaque fois que j’ai pris un repas auquel aucun prospect potentiel n’a participé, mon épouse et moi avons discuté de l’entreprise, pour pouvoir prendre ce repas en compte dans le calcul de l’impôt.
+Observations
+[7] Dans son argumentation, l’appelant s’est exprimé de manière brève et générale, en disant qu’il avait connu des échecs au cours de l’exploitation de son entreprise. Il a expliqué qu’il a essayé de tenir des registres, qu’il s’agit de sa première entreprise et qu’elle se porte mal. Dans son argumentation, l’intimée a quant à elle soutenu que le litige comprenait deux questions : d’une part, le ministre était en droit de refuser les dépenses pour les trois années en litige et, d’autre part, la nouvelle cotisation pour l’année 2013 est valide, même si elle a été établie après l’expiration de la période normale de nouvelle cotisation de trois ans. L’intimée a précisé également que l’entreprise était [traduction] « inactive » au cours des années en litige. Les indicateurs de l’activité d’une entreprise de nature commerciale, tels qu’ils ont été indiqués dans Stewart c. Canada, 2002 CSC 46, étaient absents. L’intimée s’est toutefois abstenue de soutenir que l’entreprise avait purement et simplement cessé ses activités et elle n’a pas plaidé ce point. La déduction des frais comptables liés à l’entreprise pour chacune des années examinées laisse à penser que le ministre n’a pas considéré que l’entreprise avait cessé ses activités.
+La nouvelle cotisation pour l’année d’imposition 2013 est-elle prescrite?
+[8] Je traiterai dans un premier temps de la question de savoir si la nouvelle cotisation pour l’année d’imposition 2013 est [traduction] « prescrite », comme l’estime l’appelant. Afin de rejeter cette affirmation, je dois parvenir à la conclusion qu’en application du sous-alinéa 152(4)a)(i) de la Loi, comme il a été soutenu en l’espèce, l’appelant a fait une présentation erronée des faits dans l’année d’imposition 2013 et que cette dernière découle d’une « négligence, inattention ou omission volontaire ». Il incombe à l’intimée de prouver ces deux éléments du sous-alinéa 152(4)a)(i), dont voici le contenu :
+Cotisation et nouvelle cotisation
+(4) Le ministre peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire concernant l’impôt pour une année d’imposition, ainsi que les intérêts ou les pénalités, qui sont payables par un contribuable en vertu de la présente partie ou donner avis par écrit qu’aucun impôt n’est payable pour l’année à toute personne qui a produit une déclaration de revenu pour une année d’imposition. Pareille cotisation ne peut être établie après l’expiration de la période normale de nouvelle cotisation applicable au contribuable pour l’année que dans les cas suivants :
+a) le contribuable ou la personne produisant la déclaration :
+(i) soit a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement sous le régime de la présente loi,
+[9] L’appelant a-t-il fait une présentation erronée des faits – ce que l’intimée soutient en l’espèce, à savoir que l’appelant a déclaré en 2013 des dépenses personnelles à titre de dépenses de l’entreprise? Je suis d’avis que le fait d’avoir réclamé des frais de publicité sans avoir entrepris d’activités de publicité constitue une présentation erronée des faits. Toutefois, il ne s’agit pas d’une dépense personnelle déclarée faussement à titre de dépense de l’entreprise. Dans les éléments de preuve documentaire de l’appelant, il est indiqué que l’appelant a réclamé des frais de repas pour des repas auxquels seuls son épouse et lui ont participé et au cours desquels ils ont apparemment discuté de l’entreprise en vue de réclamer le repas en tant que dépense, ce qui ne correspond pas à l’objectif prévu à l’alinéa 18(1)a) de la Loi, à savoir « de tirer un revenu de l’entreprise ». Il s’agit manifestement d’une dépense de l’entreprise réclamée qui s’avère être en réalité une dépense personnelle. Je garde à l’esprit qu’il incombe à l’intimée de prouver ce point, mais qu’en fin de compte, j’analyserai les éléments de preuve présentés au cours de l’audience par les deux parties.
+[10] Sur la base de ce qui précède, je conclus à l’existence d’au moins deux présentations erronées des faits en ce qui concerne la déclaration pour l’année d’imposition 2013.
+[11] Si le sous-alinéa 152(4.01)a)(i) n’a été soulevé par aucune des parties, j’estime toutefois qu’il est nécessaire de l’aborder. Dans un passage pertinent, il est indiqué qu’une nouvelle cotisation établie après la période normale de nouvelle cotisation est possible,
+dans la mesure où il est raisonnable de considérer qu’elle se rapporte à l’un des éléments suivants : (…) en cas d’application de l’alinéa (4)a) (…) une présentation erronée des faits (…) effectuée par négligence, inattention ou omission volontaire (…) [Non souligné dans l’original.]
+Au vu des deux présentations erronées des faits, qui se rapportent toutes deux à des dépenses de l’entreprise réclamées, je considère qu’« il est raisonnable de considérer que [la nouvelle cotisation] se rapporte » non seulement à ces deux dépenses précises pour l’année d’imposition 2013, mais aussi aux autres dépenses de l’entreprise réclamées pour ladite année. J’estime qu’il serait inapproprié d’exiger un élément de preuve quant à une présentation erronée des faits effectuée par négligence, inattention ou omission volontaire, car chacune des dépenses de l’entreprise réclamées (par opposition à seulement une ou quelques-unes) contribuant au montant total réclamé pourraient être ouvertes en application des sous-alinéas 152(4)a)(i) et 152(4.01)a)(i) pour chaque poste de dépense réclamé. Cela ne signifie pas que l’année d’imposition 2013, qui est manifestement prescrite, peut être ouverte, au motif des présentations erronées des faits pour les dépenses de l’entreprise réclamées dans les présentes, pour tout aspect de la déclaration autre que les dépenses de l’entreprise réclamées.
+[12] Par conséquent, je conclus que la nouvelle cotisation pour l’année d’imposition 2013 n’est pas prescrite, mais qu’elle est au contraire valide. Cette nouvelle cotisation est contestée par l’appelant à l’égard des dépenses de l’entreprise réclamées seulement, et rien d’autre.
+Les dépenses réclamées sont-elles déductibles?
+[13] Je traiterai à présent de la deuxième question en litige, qui consiste à déterminer si le rejet des dépenses réclamées pour les années d’imposition 2013, 2014 et 2015 est valide et dans quelle mesure.
+[14] Je ne fais pas droit aux réclamations concernant les frais de véhicule à moteur, au motif que l’appelant n’a pas fourni d’éléments de preuve permettant de définir la finalité de ces déplacements et l’identité des personnes que l’appelant et son épouse ont rencontrées à ces occasions. En l’absence de registre des déplacements et d’une liste des [traduction] « clients » potentiels rencontrés, je ne dispose pas d’éléments de preuve suffisants pour considérer lesdits frais de véhicule à moteur comme des dépenses de l’entreprise, et non comme de simples dépenses personnelles.
+[15] Il en va de même pour les réclamations des frais de téléphone et autres commodités, des frais de bureau et des déductions pour amortissement correspondantes. Je ne dispose d’aucun élément de preuve adéquat pour déterminer si lesdites dépenses réclamées sont de nature professionnelle ou simplement personnelle. L’absence de revenus comptabilisés par l’entreprise (outre 50 dollars en 2014) et de « clients » au cours de ces trois années appuie ma conclusion selon laquelle lesdites dépenses étaient personnelles et ne peuvent être considérées comme des dépenses de l’entreprise déductibles.
+[16] Je suis du même avis en ce qui concerne les « frais de repas et divertissement » réclamés. Une fois encore, l’appelant n’a fourni aucun registre des personnes qu’il a rencontrées à l’occasion de ces dépenses et aucune personne n’a été appelée à témoigner de sa rencontre avec l’appelant. Par ailleurs, je dispose de la déclaration de l’appelant mentionnée précédemment selon laquelle une part non définie de ces dépenses de repas et de divertissement ont concerné des repas que l’appelant a pris seul, en compagnie de son épouse et partenaire commerciale, en prenant soin de discuter en partie de l’entreprise afin de rendre les dépenses déductibles. Comme il a été indiqué précédemment, afin d’être déductible, une dépense de l’entreprise doit avoir une finalité conforme à celle qui est décrite à l’alinéa 18(1)a) de la Loi.
+[17] Les dépenses réclamées pour le « déplacement en 2014 » concernent un voyage à l’île de Terre-Neuve-et-Labrador afin de rendre visite à de la famille, et il est indiqué qu’à cette occasion, l’appelant a discuté de la participation desdits proches dans l’entreprise. Les renseignements à ma disposition sont loin d’être suffisants pour me permettre d’autoriser cette dépense à titre de dépense de l’entreprise. Aucun autre membre de la famille de l’appelant n’a témoigné et aucun d’eux n’a intégré l’entreprise. J’estime que cette dépense est incontestablement de nature personnelle; les éléments de preuve sont totalement inadéquats pour attester desdites discussions, ils sont superficiels et ils n’ont servi qu’à essayer de dissimuler en dépense de l’entreprise un voyage (relativement dispendieux) en vue de rendre visite à de la famille.
+[18] Quant à la dernière catégorie des dépenses réclamées, à savoir les « dépenses restantes », celle-ci se compose de montants mineurs placés sous les intitulés « publicité et promotion », « assurance », « fournitures », « entretien et réparations » et « autres dépenses » pour chacune des années d’imposition 2013, 2014 et 2015. Ces montants ont eux aussi été justifiés de manière inadéquate, alors qu’il incombait à l’appelant de justifier toutes les dépenses réclamées pour les trois années en litige. Étant donné que l’appelant a reconnu n’avoir entrepris aucune activité de publicité et s’être contenté de l’effet de « bouche-à-oreille » et qu’il a fourni des explications insuffisamment détaillées, je ne suis pas enclin à autoriser ces dépenses.
+[19] Je tiens à faire remarquer qu’une fois qu’une année manifestement prescrite est ouverte, comme cela est le cas en l’espèce pour l’année d’imposition 2013, il incombe alors au contribuable d’apporter les éléments de preuve prima facie permettant de réfuter toute hypothèse plaidée par le ministre – à l’image des cotisations et des nouvelles cotisations pour une année d’imposition qui n’est pas présumée prescrite.
+Conclusion :
+[20] Par conséquent, l’appel pour chacune des années d’imposition 2013, 2014 et 2015 est rejeté, sans dépens dans le cadre de la présente procédure informelle.
+Signé à Halifax (Nouvelle-Écosse), ce 14e jour d’août 2019.
+« B. Russell »
+Le juge Russell
+RÉFÉRENCE :
+2019 CCI 167
+NO DU DOSSIER DE LA COUR :
+2018-4367(IT)I
+INTITULÉ :
+JAMES STRUM c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Halifax (Nouvelle-Écosse)
+DATE DE L’AUDIENCE :
+Le 22 mars 2019
+MOTIFS DU JUGEMENT :
+L’honorable juge B. Russell
+DATE DU JUGEMENT :
+Le 14 août 2019
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Caitlin Ward
+Me Grace Jothiraj (stagiaire)
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimé :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

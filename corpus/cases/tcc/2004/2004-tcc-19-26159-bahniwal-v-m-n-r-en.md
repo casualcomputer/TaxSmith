@@ -1,0 +1,207 @@
+---
+title: "Bahniwal v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26159/index.do"
+last_modified: "2004-01-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 19"
+citation2: ""
+neutral_citation: "2004 TCC 19"
+decision_date: "2004-01-08"
+language: "en"
+item_id: "26159"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3957
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:57:40.397000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "763fe8555ed0918896b6a98d05e211af95c454f3ffbd3b0438bbe991dd48de8e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bahniwal v. M.N.R.
+
+- Citation: 2004 TCC 19
+- Decision date: 2004-01-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3957, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bahniwal v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-01-08
+Neutral citation
+2004 TCC 19
+File numbers
+2002-4225(EI)
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2002-4225(EI)
+BETWEEN:
+NASIB KAUR BAHNIWAL,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+SURINDER P.S. MANN,
+Intervenor.
+____________________________________________________________________
+Appeal heard on December 4, 2003 at Kelowna, British Columbia
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+Counsel for the Appellant:
+G.M. Andy Advani
+Counsel for the Respondent:
+Counsel for the Intervenor:
+Bruce Senkpiel
+G.M. Andy Advani
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decision of the Minister is vacated in accordance with the attached Reasons for Judgment.
+The Appellant is granted such costs as are permitted under the Employment Insurance Act.
+Signed at Saskatoon, Saskatchewan, this 8th day of January, 2004.
+"D.W. Beaubier"
+Beaubier, J.
+Docket: 2002-4226(CPP)
+BETWEEN:
+NASIB KAUR BAHNIWAL,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+SURINDER P.S. MANN,
+Intervenor.
+____________________________________________________________________
+Appeal heard on December 4, 2003 at Kelowna, British Columbia
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+Counsel for the Appellant:
+G.M. Andy Advani
+Counsel for the Respondent:
+Counsel for the Intervenor:
+Bruce Senkpiel
+G.M. Andy Advani
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decision of the Minister is vacated in accordance with the attached Reasons for Judgment.
+Signed at Saskatoon, Saskatchewan, this 8th day of January, 2004.
+"D.W. Beaubier"
+Beaubier, J.
+Citation: 2004TCC19
+Date: 20040108
+Docket: 2002-4225(EI)
+BETWEEN:
+NASIB KAUR BAHNIWAL,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+SURINDER P.S. MANN,
+Intervenor.
+Docket: 2002-4226(CPP)
+AND BETWEEN:
+NASIB KAUR BAHNIWAL,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+SURINDER P.S. MANN,
+Intervenor.
+REASONS FOR JUDGMENT
+Beaubier, J.
+[1] These appeals were heard together on common evidence at Kelowna, British Columbia on December 4, 2003. The Appellant testified and called her employer and son-in-law, Surinder Mann, the intervenor in each case; Judith McAllister, C.G.A., Mr. Mann's accountant; and Kehar Singh Khaira, an employee of Mr. Mann during the period. The Respondent called Brian Lundgrun, the investigations officer for Human Resources and Development Canada ("HRDC") in this matter.
+[2] Paragraphs 3 to 8 inclusive of the Reply to the Notice of Appeal set out the matters in dispute. They read:
+3. In response to the Appellant's appeal of a ruling under section 91 of the Employment Insurance Act, S.C. 1996 c.23 (the "Act"), the Respondent determined that the Appellant was not employed by Surinder Mann ("Mann") in insurable employment during the period from July 29 to October 23, 2000 (the "Period").
+4. In determining that the Appellant was not employed in insurable employment with Mann during the period, the Respondent relied on the following assumptions of fact:
+a) Surinder Mann ("Mann") operates an orchard at two locations in Oliver, B.C.;
+b) Mann operates his orchard business as a proprietorship;
+c) the Appellant is Mann's mother-in-law;
+d) the Appellant lived with Mann during the Period;
+e) the Appellant received a record of employment from Mann showing a period of employment from July 29 to October 23, 2000;
+f) the Appellant's record of employment dated October 24, 2000 alleges 730 insurable hours of employment;
+g) Mann's Earnings and Deductions summary reports prepared on September 29, 2000 and October 6, 2000 does not record any hours or days worked by the Appellant;
+h) the Appellant did not show up on Mann's Earnings and Deductions summary reports until October 21, 2000;
+i) Mann's records allege the Appellant worked more hours per day than the other workers during the Period;
+j) the Appellant did not work the number of hours shown on her record of employment;
+k) the Appellant was not employed under a contract of service for the Period;
+l) Mann and the Appellant were in a non arm's length relationship during the Period; and
+m) having regard to all of the circumstances of the employment it is not reasonable to conclude that Mann and the Appellant would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+B. ISSUES TO BE DECIDED
+5. The issue is whether the Appellant was employed in insurable employment with Mann during the period. In the alternative, if it is found that the Appellant was employed under a contract of service with Mann the issue is whether the Appellant and Mann were dealing with each other at arm's length for the purposes of paragraphs 5(2)(i) and 5(3)(b) of the Act.
+C. STATUTORY PROVISIONS RELIED ON
+6. He relied on paragraphs 5(1)(a), 5(2)(i) and 5(3)(b) and subsection 2(1) of the Act, and section 251 of the Income Tax Act.
+D. GROUNDS RELIED ON AND RELIEF SOUGHT
+7. He respectfully submits that the Appellant was not employed in insurable employment with Mann during the Period as she was not engaged under a contract of service within the meaning of paragraph 5(1)(a) of the Act.
+8. In the alternative, he submits that the Appellant and Mann were related and that the Appellant's employment was excluded employment pursuant to paragraph 5(2)(i) of the Act. He submits that the Appellant and Mann are not deemed to be dealing with each other at arm's length within the meaning of 5(3)(b) of the Act as the Minister is not satisfied that, having regard to all the circumstances of the employment, a substantially similar contract of employment would exist if the parties had been dealing with each other at arm's length.
+[3] Assumption 4 a) is incorrect. Mr. Mann operated a 22 acre fruit (apples, cherries and peaches) orchard and a 6 acre farm on which he grew tomatoes and peppers. Assumptions 4 b) subject to the above, c), e), f), g), h), i) and l) were not refuted by the evidence. Assumption 4 d) is wrong: the Appellant lived on another property with her widowed daughter, grandchildren and husband. The remaining assumptions are the subject of the dispute.
+[4] At the outset, the Court finds that the Appellant was employed in a contract of service by Mr. Mann during the Period. In particular, the Court was convinced by the testimony of Mr. Khaira who testified that he worked for Mr. Mann and that the Appellant was a fellow employee during the Period. The Court also found that the Appellant had an honest demeanour and was credible. She is 65 years old, illiterate and does not speak English. She is also thin, muscular and in excellent physical condition. She appears to be what she says she is: a woman who does agricultural field work in season for a living. None of the Appellant's witnesses testified to the contrary.
+[5] The Appellant worked under the control of Mr. Mann and, like his other employees, did as he directed or his straw boss directed, working in the fruit orchard or fields. She did not own any tools, but used the field equipment at hand. Like the others, she was paid twice a year, by cheque, when Mr. Mann had the money from sales of fruit and vegetables to pay them. She deposited the cheque in her own Royal Bank account as recorded in the bank book which she could not read, but understood that it represented her bank and her money. She was completely integrated into the field workers and the operation of the farm as an experienced, working farm hand who came to work with the others and, because she lived 5 or 6 minutes away, sometimes worked longer than the others.
+[6] Pursuant to the Notice of Appeal and the Federal Court of Appeal's decision in Canada v. Jencan Ltd., [1998] 1 F.C. 187, paragraph 31, this Court must find if the Minister: (1) acted in bad faith or for an improper purpose or motive – there is no evidence of this; or (2) took into account an irrelevant factor – Appellant's counsel alleged that this did happen on account of anonymous calls of complaints about the Appellant to HRDC, but there is no evidence that this had any other effect than to cause the investigation of the Appellant, which the Court finds was a proper occurrence. Nonetheless HRDC did incorrectly find that the Appellant resided in Mr. Mann's residence during the Period (assumption 4 d)); or (3) failed to take into account all of the relevant circumstances. It is these last factors that the Court must review.
+[7] The Appellant initialled a typed form application for employment insurance benefits dated April 20, 2001. She would not have "signed" or initialled it since she was in India from the end of October, 2000 until May 18, 2001. Moreover no exhibited document originating from anyone other than HRDC and Ms. McAllister was typed or in the pristine condition of the application (Exhibit R-4). It was exhibited by Mr. Lundgrun. Mr. Lundgrun testified that he met with Mr. Mann in the course of his investigation and it was confrontational and terminated quickly. He telephoned the Appellant and arranged an appointment for her with an HRDC officer who could speak the Appellant's language which the Appellant did not attend. He first saw the Appellant at this hearing.
+[8] Thus, the Appellant did not meet with HRDC; she is the employer's mother-in-law; assumptions 4 g), h) and i) were in evidence before HRDC. But assumption 4 d) is wrong and is a sufficient "factor" to warrant being an assumption, so it played a part in the decision of the Minister. Moreover, living in the same household indicates a degree of closeness that may exist. In particular, the Appellant was asked by Respondent's counsel if she babysat the Mann children and she stated that she did not and that her widowed daughter cared for her three children and was assisted by her in-laws.
+[9] As an aside respecting the anonymous calls to HRDC and the questions about babysitting it might be noted that many would be jealous of Mr. Mann. He married his wife, who was already resident in Canada, and immigrated to Canada and worked as a field labourer for years. Then he got a year-to-year lease of the 22 acre orchard which continues to this day. He has since purchased the 6 acre field farm where he lives with his family. He sells much of his produce in Vancouver to which he trucks it himself. He has made a remarkable success in Canada by virtue of hard work. Mr. and Mrs. Bahniwal chose a good son-in-law, so there might also be jealousy associated with that. In other words, anonymous calls to HRDC might occur because of something other than the truth.
+[10] On the basis of the foregoing finding that Mrs. Bahniwal did not live in Mr. Mann's residence, the Court finds that the Minister has taken into consideration a false and irrelevant factor as a result of which this Court may redetermine the Minister's decision. The evidence before the Court is that Mrs. Bahniwal was an employee of Mr. Mann and that she worked the hours described during the Period in question. Therefore the appeals are allowed.
+[11] The Appellant is awarded such disbursements and costs as are permitted by the Employment Insurance Act.
+Signed at Saskatoon, Saskatchewan, this 8th day of January, 2004.
+"D.W. Beaubier"
+Beaubier, J.
+CITATION:
+2004TCC19
+COURT FILE NO.:
+2002-4225(EI)
+2002-4226(CPP)
+STYLE OF CAUSE:
+Nasib Kaur Bahniwal v. MNR
+PLACE OF HEARING:
+Kelowna, British Columbia
+DATE OF HEARING:
+December 4, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Beaubier
+DATE OF JUDGMENT:
+January 8, 2004
+APPEARANCES:
+Counsel for the Appellant
+and for the Intervenor:
+G.M. Andy Advani
+Counsel for the Respondent:
+Bruce Senkpiel
+COUNSEL OF RECORD:
+For the Appellant
+and for the Intervenor:
+Name:
+G.M. Andy Advani
+Firm:
+Advani Law Office
+Oliver, British Columbia
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

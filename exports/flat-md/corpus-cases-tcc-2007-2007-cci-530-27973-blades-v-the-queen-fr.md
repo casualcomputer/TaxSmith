@@ -1,0 +1,161 @@
+---
+title: "Blades v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27973/index.do"
+last_modified: "2007-09-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 530"
+citation2: ""
+neutral_citation: "2007 CCI 530"
+decision_date: "2007-09-06"
+language: "fr"
+item_id: "27973"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1821
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:18:56.357000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f0c2baf846b359808a2f9d87492f5fc6aaf691a8f65ee3a76d9a9ed75910e0df"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Blades v. The Queen
+
+- Citation: 2007 CCI 530
+- Decision date: 2007-09-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1821, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Blades v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-09-06
+Référence neutre
+2007 CCI 530
+Numéro de dossier
+2004-2593(GST)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2004-2593(GST)I
+ENTRE :
+LOVITTE J. BLADES,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 27 août 2007, à Yarmouth (Nouvelle-Écosse)
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Deanna M. Frappier
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de l’avis de cotisation portant le numéro 01CB‑888266541‑02, qui a été établi en vertu de la Loi sur la taxe d’accise à l’égard de l’appelant à titre d’administrateur de la société Southernmost Points Enterprises Limited relativement à un montant de TVH non versé, est rejeté sans dépens.
+Signé à Halifax (Nouvelle-Écosse), ce 6e jour de septembre 2007.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 16e jour d’octobre 2007.
+Marie-Christine Gervais, traductrice
+Référence : 2007CCI530
+Date : 20070906
+Dossier : 2004-2593(GST)I
+ENTRE :
+LOVITTE J. BLADES,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] La question en litige en l’espèce est de savoir si l’appelant est responsable, à titre d’administrateur de Southernmost Points Enterprises Limited (la « société »), de la TVH non versée de la société.
+[2] La société exploitait une entreprise de restauration à Clark’s Harbour (Nouvelle‑Écosse) ou dans les environs. L’appelant a commencé à jouer un rôle dans la société à la demande du propriétaire de la société qui demeurait au New Jersey et qui lui avait demandé de l’aider à s’occuper de la société après que la femme qui devait s’en occuper a quitté le pays pour des raisons liées à l’immigration. L’appelant a indiqué que cela s’était passé peu de temps après que la société a commencé ses activités, quoiqu’il ne pouvait pas se souvenir de l’année exacte où cela s’était produit. Dans la réponse, il est indiqué que la première année pour laquelle il y avait de la TVH non versée était l’année 1997. L’appelant a admis que c’était probablement en 1997 qu’il avait commencé à jouer un rôle dans la société. Je conclus donc que l’appelant a commencé à jouer un rôle dans la société en 1997.
+[3] L’appelant a indiqué qu’il ne se souvenait pas qu’il était devenu un administrateur de la société. Toutefois, il a écrit une lettre datée du 19 janvier 2004 à l’Agence du revenu du Canada (l’« ARC ») dans laquelle il a indiqué que [traduction] « à compter du 1er octobre 2001, mon épouse et moi démissionnons en tant qu’administrateurs de Southernmost Point Enterprises Ltd. par l’intermédiaire de notre avocat, Me Donald S. Miller, Port Saxon, compté de Shelburne (Nouvelle‑Écosse) ». Par conséquent, il semble clair que l’appelant savait qu’il était un administrateur. De plus, l’intimée a formulé comme hypothèse que l’appelant était un administrateur de la société pendant toutes les périodes pertinentes. Dans l’arrêt Hickman Motors Limited v. Her Majesty The Queen, 1997 CarswellNat 3046, (sub nomine Hickman Motors Ltd. v. Canada) 148 D.L.R. (4e) 1, (sub nomine Hickman Motors Ltd. v. Minister of National Revenue) 213 N.R. 81, [1997] 2 R.C.S. 336, (sub nomine Hickman Motors Ltd. v. Minister of National Revenue) 131 F.T.R. 317 (note), [1998] 1 C.T.C. 213, 97 DTC 5363, le juge L'Heureux‑Dubé de la Cour suprême du Canada a formulé les commentaires suivants relativement aux hypothèses émises par le ministre :
+92 […] En établissant des cotisations, le ministre se fonde sur des présomptions : (Bayridge Estates Ltd. c. M.N.R., 59 D.T.C. 1098 (C. de l'É.), à la p. 1101), et la charge initiale de « démolir » les présomptions formulées par le ministre dans sa cotisation est imposée au contribuable (Johnston c. Minister of National Revenue, [1948] R.C.S. 486; Kennedy c. M.R.N., 73 D.T.C. 5359 (C.A.F.), à la p. 5361). Le fardeau initial consiste seulement à « démolir » les présomptions exactes qu'a utilisées le ministre, mais rien de plus : First Fund Genesis Corp. c. La Reine, 90 D.T.C. 6337 (C.F. 1re inst.), à la p. 6340.
+93 L'appelant s'acquitte de cette charge initiale de « démolir » l'exactitude des présomptions du ministre lorsqu'il présente au moins une preuve prima facie : Kamin c. M.R.N., 93 D.T.C. 62 (C.C.I.); Goodwin c. M.R.N., 82 D.T.C. 1679 (C.R.I.).
+Comme aucun autre élément de preuve n’a été présenté concernant la question de savoir si l’appelant était un administrateur, je conclus que l’appelant n’a pas « démoli » cette hypothèse et que, par conséquent, il était un administrateur de la société pendant toutes les périodes pertinentes en l’espèce.
+[4] La société a exploité l’entreprise de restauration jusqu’à ce que celle‑ci ferme ses portes en 2001. La société a demandé la protection de la loi sur les faillites le 26 février 2002.
+[5] La TVH non versée concernait les années se terminant le 31 décembre 1997, le 31 décembre 1998, le 31 décembre 1999 et le 31 décembre 2000, de même que chacun des mois durant la période allant du 1er janvier 2001 au 31 août 2001. Un tableau dans la réponse indique les montants en litige pour ces périodes. Vraisemblablement, la société a cessé de produire ses déclarations annuellement et a commencé à les produire mensuellement en janvier 2001.
+[6] Les éléments suivants, qui ne sont pas contestés par l’appelant, sont également mentionnés dans la réponse :
+[traduction]
+10e) le ministre a demandé que l’appelant produise les déclarations de TVH pour les périodes se terminant le 31 décembre 1997 et le 31 décembre 1998 en mars 1999 et en juillet 1999, respectivement.
+f) les déclarations de TPS/TVH pour les périodes se terminant le 31 décembre 1997 et le 31 décembre 1998 ont été reçues en février 2001;
+[7] Par conséquent, les déclarations pour ces deux années n’ont été reçues que quelque temps après la date limite de production. Le montant de taxe nette à payer pour 1997 est de 16 700,06 $. Le montant de taxe nette à payer pour 1998 est de 22 326,62 $. Le montant total de taxe nette à payer pour toutes les périodes (y compris les années 1997 et 1998) est de 58 298,41 $. Par conséquent, environ 67 % de la taxe non versée concerne ces deux années pour lesquelles les déclarations n’ont été produites que plusieurs mois après la date à laquelle elles avaient été demandées, ce qui était déjà plusieurs mois après la date limite de production des déclarations. Il semble donc évident que personne ne faisait quoi que ce soit pour s’assurer que la TVH était versée.
+[8] L’appelant a indiqué qu’un commis comptable avait été engagé pour s’occuper de cela et qu’il avait supposé que le commis comptable s’occupait de la TVH à verser. Toutefois, après avoir reçu les demandes de production des déclarations de TVH en 1999, il aurait certainement dû être évident pour lui que personne ne s’occupait du versement de la TVH.
+[9] Le principal argument de l’appelant était que la banque ne lui permettait pas de payer les montants de TVH. Il n’est indiqué nulle part que l’appelant a essayé de faire un paiement et que la banque l’a refusé. L’appelant a indiqué qu’au printemps 2001, il a rencontré le directeur de la banque de la société et que celui‑ci lui a dit que la banque n’honorerait plus les chèques tirés sur le compte de la société. Même en sachant cela, l’appelant a quand même choisi de continuer d’exploiter l’entreprise à l’été 2001 dans l’espoir que la situation se redresse et que tous les créanciers puissent être payés.
+[10] La responsabilité des administrateurs est énoncée à l’article 323 de la Loi sur la taxe d’accise (la « Loi »). Les paragraphes (1) et (3) de la Loi pour les périodes en litige sont rédigés en ces termes :
+(1) Les administrateurs de la personne morale au moment où elle était tenue de verser une taxe nette comme l’exigent les paragraphes 228(2) ou (2.3), sont, en cas de défaut par la personne morale, solidairement tenus, avec cette dernière, de payer cette taxe ainsi que les intérêts et pénalités y afférents.
+[...]
+(3) L’administrateur n’encourt pas de responsabilité s’il a agi avec autant de soin, de diligence et de compétence pour prévenir le manquement visé au paragraphe (1) que ne l’aurait fait une personne raisonnablement prudente dans les mêmes circonstances.
+[11] Dans l’arrêt Worrell v. R., 2000 CarswellNat 2344, [2000] G.S.T.C. 91, la Cour d’appel fédérale a mentionné ce qui suit :
+68. J'estime qu'il est essentiel de ne pas perdre de vue la question qui est au cœur du présent appel, savoir si les administrateurs en l'espèce ont exercé la diligence raisonnable requise pour prévenir le défaut de versement de la compagnie. Il ne s'agit pas nécessairement de la même chose que de se demander s'il était raisonnable de leur part, du point de vue commercial, de continuer à exploiter l'entreprise. Pour être en mesure d'invoquer le moyen de défense tiré du paragraphe 227.1(3), il faut normalement qu'ils aient pris des mesures positives qui, si elles aboutissaient, auraient pu prévenir le défaut de versement. Il faut donc examiner si ce qu'ont fait ces administrateurs pour prévenir le défaut satisfait à la norme de soin, de diligence et d'habileté qu'aurait observée une personne raisonnablement prudente dans des circonstances comparables.
+69. Il ne suffira normalement pas que les administrateurs aient continué à exploiter l'entreprise, sachant qu'un défaut de versement était probable mais dans l'espoir que la compagnie reprendrait pied avec une reprise de l'économie ou une amélioration de sa position sur le marché. Dans ces conditions, les administrateurs seront généralement tenus pour avoir accepté le risque inhérent à la gageure que la compagnie serait subséquemment en mesure de verser les sommes dues. Le public n'a pas à assurer contre son gré ce risque, aussi raisonnable qu'il soit du point de vue commercial pour les administrateurs de continuer à exploiter l'entreprise sans rien faire pour prévenir les défauts de versement à l'avenir.
+70. Cette conclusion a été récemment tirée dans Ruffo c. R., [1998] 2 C.T.C. 2203 (C.C.I.), décision confirmée par notre Cour le 13 avril 2000 (A‑429‑97), et où Mme le juge Lamarre‑Proulx de la Cour canadienne de l'impôt s'est prononcée en ces termes (paragraphe [20]) :
+Je suis d'avis que la jurisprudence de notre Cour est constante sur la diligence qui doit avoir été exercée par l'administrateur d'une corporation pour lui permettre d'échapper à la responsabilité prescrite par le paragraphe 227.1(1) de la Loi. Elle est la diligence qui s'est préoccupée de prévenir le manquement et peut dans bien des cas, se différencier de la diligence que doit exercer l'administrateur envers la corporation.
+71. Un peu plus loin, elle a cité avec approbation cette affirmation du juge Rip de la Cour canadienne de l'impôt dans Merson c. R., 89 DTC 22 (page 28) :
+La prudence qu'exige le paragraphe 227.1(3) pour agir avec soin, diligence et habileté diffère de celle que doit exercer l'administrateur qui exécute ses fonctions, en vertu du droit des compagnies, quoique le paragraphe 227.1(3) et l'alinéa 122(1)b) de la Loi sur les sociétés par actions, par exemple, emploient des mots identiques. Le soin, la diligence et l'habileté que le paragraphe 227.1(3) exige de l'administrateur ne reposent pas sur les obligations de ce dernier envers la corporation; ils reposent sur l'une des obligations de la corporation en vertu de la Loi et l'omission, par la corporation, d'exécuter cette obligation. On s'attend à ce que l'administrateur qui gère une entreprise prenne des risques pour accroître la rentabilité et c'est à cette attente que se mesurent les obligations du soin, de la diligence et de l'habileté. Le degré de prudence qu'exige le paragraphe 227.1(3) ne laisse aucune place au risque.
+72. Je n'interprète pas l'affirmation faite par le juge Rip que « le degré de prudence qu'exige le paragraphe 227.1(3) ne laisse aucune place au risque » comme signifiant que l'article 227.1 impose une présomption de responsabilité aux administrateurs dont la compagnie se révèle en fin de compte incapable d'acquitter les sommes en souffrance. Pareille conception serait indubitablement contraire au paragraphe 227.1(3), qui n'entre en jeu que dans le cas où Revenu Canada ne peut recouvrer l'argent que la compagnie aurait dû verser.
+73. Je pense au contraire qu'il a voulu dire par là que si les administrateurs décident de maintenir l'entreprise en activité dans l'espoir que la compagnie sera remise à flot et sera en mesure de rattraper les défauts de versement après coup, et que la compagnie fasse quand même faillite sans avoir payé ce qu'elle devait au fisc, ils ne peuvent arguer en défense qu'une personne raisonnable aurait accepté le risque qu'ils ont couru. Le moyen de défense tiré du paragraphe 227.1(3) ne peut servir que si les administrateurs peuvent prouver qu'ils ont agi avec le soin, la diligence et l'habileté qu'un homme d'affaires raisonnablement prudent aurait exercé dans des circonstances comparables pour prévenir le défaut.
+(Non souligné dans l’original)
+[12] Dans l’arrêt Worrell, la Cour d’appel fédérale a statué que le fait que la banque avait pris le contrôle des finances de la compagnie n’exonérait pas les administrateurs de leur responsabilité possible concernant les retenues à la source non versées et la TPS non versée, mais que cela pouvait être un facteur à prendre en compte pour décider si les administrateurs satisfaisaient aux exigences du moyen de défense de la diligence raisonnable. Lorsque la Cour d’appel fédérale a examiné la question du moyen de défense de la diligence raisonnable dans le cadre du contrôle par la banque des finances d’une société, elle a formulé les commentaires suivants :
+77 Étant donné les restrictions que leur imposait le contrôle de fait exercé par la banque sur les finances de la compagnie, je conclus des faits de la cause que les administrateurs ont exercé, pour prévenir les défauts de versement, le même degré de soin, de diligence et d'habileté qu'une personne raisonnablement prudente dans des circonstances comparables. Le fait que Mme McKinnon ait continué à préparer les chèques de versement, manifestement sans l'espoir réaliste que la banque les honorerait tous, indique aussi que ces administrateurs n'ignoraient pas la dette de la compagnie envers Revenu Canada.
+78 Ce qui est bien plus important encore à mon avis, c'étaient les efforts soutenus de M. Humphreys pour trouver un nouvel investisseur, étant donné sa conviction que dès lors, la compagnie pourrait être rapidement remise à flot. Il a dit aux administrateurs sa confiance qu'un nouvel investisseur pourrait être trouvé. De fait, il a identifié des investisseurs potentiels dans les semaines qui suivirent son engagement, a parlé à 12 personnes qui exprimaient leur intérêt à cet égard, et a trouvé une personne qui était d'accord pour mettre son argent dans la compagnie, mais qui ne convenait pas à la banque pour des raisons qui ne sont pas divulguées.
+79 Tant que ces efforts étaient poursuivis en bonne foi par une personne qui avait fait ses preuves dans le renflouement des compagnies dans le secteur du bâtiment, les administrateurs d'Abel pouvaient raisonnablement dire que, si un investisseur pouvait être trouvé et approuvé par la banque, la compagnie pourrait obtenir le cautionnement nécessaire pour soumissionner pour des contrats lucratifs, ce qui pourrait avoir pour effet d'engager la banque à accroître sa marge de crédit ou, à tout le moins, à honorer le prochain chèque de versement d'Abel.
+[13] En l’espèce, contrairement à l’affaire Worrell, rien dans la preuve n’indiquait que l’appelant avait pris d’autres mesures que celle de continuer à exploiter l’entreprise pour prévenir le défaut de versement de la TVH. Rien n’indiquait que l’appelant avait essayé de trouver des investisseurs ou de prendre des mesures pour éviter que la société continue de ne pas verser la TVH après que la banque a indiqué qu’elle n’honorerait plus les chèques de la société.
+[14] Dans la présente affaire, très peu d’éléments de preuve ont été présentés concernant les mesures que l’administrateur a prises pour s’assurer que la TVH soit versée. En fait, les déclarations de TVH pour les années 1997 et 1998 n’ont été produites qu’en février 2001. La TVH non versée provenant de ces déclarations représentait approximativement les deux tiers du montant total de la TVH non versée pour l’ensemble des périodes. L’appelant a témoigné que la société n’a fait de l’argent qu’au cours des premières années, soit la première ou la deuxième année, mais il semble évident que personne n’a jamais essayé de verser la TVH, même lorsque la société avait les fonds nécessaires. Par conséquent, l’appelant n’a pas établi qu’il avait pris les mesures bien précises qu’il aurait fallu qu’il prenne pour satisfaire aux exigences du paragraphe 323(3) de la Loi. Il n’a donc pas satisfait aux exigences du moyen de défense fondé sur la diligence raisonnable qui est prévu dans ce paragraphe.
+[15] L’appelant a également soulevé la question de savoir s’il avait cessé d’être un administrateur plus de deux ans avant que la cotisation n’ait été établie à son égard pour la TVH non versée. Le paragraphe 323(5) de la Loi prévoit ce qui suit à cet égard :
+(5) L’établissement d’une telle cotisation pour un montant payable par un administrateur se prescrit par deux ans après qu’il a cessé pour la dernière fois d’être administrateur.
+[16] L’appelant a mentionné avoir reçu une forme de correspondance de l’ARC dans laquelle il était indiqué qu’il pouvait se prévaloir de ce moyen de défense. Il n’a toutefois pas produit la correspondance en preuve. En l’espèce, l’avis de cotisation a été déposé comme pièce, et la date figurant sur l’avis de cotisation était le 10 mars 2003. Comme l’appelant l’a mentionné précédemment, dans sa propre lettre à l’ARC, il a indiqué qu’il avait démissionné en tant qu’administrateur le 1er octobre 2001. Par conséquent, la cotisation établie à son égard à titre d’administrateur a été établie moins de deux ans après qu’il a cessé d’être un administrateur, et les dispositions du paragraphe 323(5) ne s’appliquent pas.
+[17] Par conséquent, l’appel relatif à la cotisation établie à l’égard de l’administrateur de la société pour la TVH non versée est rejeté sans dépens.
+Signé à Halifax (Nouvelle-Écosse), ce 6e jour de septembre 2007.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 16e jour d’octobre 2007.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE : 2007CCI530
+NO DU DOSSIER : 2004-2593(GST)I
+INTITULÉ : LOVITTE J. BLADES c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Yarmouth (Nouvelle-Écosse)
+DATE DE L’AUDIENCE : Le 27 août 2007
+MOTIFS DU JUGEMENT PAR : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 6 septembre 2007
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Deanna M. Frappier
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,227 @@
+---
+title: "Mailhot c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26804/index.do"
+last_modified: "2005-02-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 132"
+citation2: ""
+neutral_citation: "2005 CCI 132"
+decision_date: "2005-02-22"
+language: "fr"
+item_id: "26804"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3484
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:13:13.552000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c570ed55d800af3f8dae04f368b15691998ab9fcb764fbe73af0f94973313b92"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mailhot c. La Reine
+
+- Citation: 2005 CCI 132
+- Decision date: 2005-02-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3484, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mailhot c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-02-22
+Référence neutre
+2005 CCI 132
+Numéro de dossier
+2004-2790(IT)I
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-2790(IT)I
+ENTRE :
+LÉO-PAUL MAILHOT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 2 février 2005, à Trois-Rivières (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Antonia Paraherakis
+____________________________________________________________________
+JUGEMENT
+L'appel des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2000 et 2001 est rejeté, sans frais, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 22e jour de février 2005.
+« Alain Tardif »
+Juge Tardif
+Référence : 2005CCI132
+Date : 20050222
+Dossier : 2004-2790(IT)I
+ENTRE :
+LÉO-PAUL MAILHOT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit d'un appel relatif aux années d'imposition 2000 et 2001.
+[2] L'appel soulève les deux questions suivantes :
+· Le ministre du Revenu national (le « ministre » ) était-il justifié de refuser d'accorder à l'appelant une déduction de 1 681 $ et de 2 570 $ respectivement à titre de dépenses d'automobile dans le calcul de son revenu d'entreprise net pour les années d'imposition 2000 et 2001?
+· Le ministre était-il justifié de refuser d'accorder à l'appelant une déduction de 5 201 $ et de 4 520 $ respectivement à titre de frais de repas et de représentation dans le calcul de son revenu d'entreprise net pour les années d'imposition 2000 et 2001?
+[3] Après avoir été assermenté, l'appelant admis les faits suivants :
+a) Au cours des années d'imposition 2000 et 2001, l'appelant exploitait une entreprise à titre de courtier en assurances; (admis)
+b) L'appelant n'a tenu aucun livre et registre comptable relativement à son entreprise au cours des années d'imposition 2000 et 2001; (admis)
+c) En produisant sa déclaration de revenu pour l'année d'imposition 2000, l'appelant a déclaré un revenu d'entreprise brut de 73 265 $ et un revenu d'entreprise net de 41 091 $; (admis)
+d) En produisant sa déclaration de revenu pour l'année d'imposition 2001, l'appelant a déclaré un revenu d'entreprise brut de 56 463 $ et un revenu d'entreprise net de 20 803 $; (admis)
+e) L'appelant a, notamment, déduit des montants à titre de dépenses d'automobile et de frais de repas et de représentation dans le calcul de son revenu d'entreprise net pour les années d'imposition 2000 et 2001; (admis)
+f) Les dépenses d'automobile déduites par l'appelant pour les années d'imposition 2000 et 2001 respectivement incluent, notamment, des dépenses de 1 681 $ et de 2 570 $; (admis)
+g) Les pièces justificatives au soutien de ces dépenses d'automobile ont été demandées à l'appelant; (admis)
+k) Les frais de repas et de représentation déduits par l'appelant pour l'année d'imposition 2000 incluent, notamment, les dépenses suivantes :
+Boissons alcooliques................
+Repas (jours non ouvrables)....... Divertissements......................
+Autres dépenses personnelles.....
+SOUS-TOTAL......................
+TOTAL (50%)......................
+5 072,02 $
+2 954,48 $
+817,62 $
+275,90 $
+9 120,02 $
+4 520,19 $
+(admis)
+l) Les frais de repas et de représentation déduits par l'appelant pour l'année d'imposition 2001 incluent, notamment, les dépenses suivantes :
+Boissons alcooliques................
+Repas (jours non ouvrables).......
+Divertissements......................
+Autres dépenses personnelles.....
+SOUS-TOTAL......................
+TOTAL (50%)......................
+5 580,00 $
+4 236,73 $
+320,04 $
+265,89 $
+10 402,66 $
+5 200,83 $
+(admis)
+m) Les pièces justificatives au soutien de ces frais de repas et de représentation ont été demandées à l'appelant; (admis)
+n) La majorité des pièces justificatives relatives aux dépenses pour boissons alcooliques soumises par l'appelant suite à cette demande sont des reçus de carte de crédit qui n'indiquent pas la nature ou l'objet de la dépense; (admis)
+o) Aucun détail n'a été fourni par l'appelant relativement au but des dépenses pour boissons alcooliques; (admis)
+p) Les dépenses pour repas sont toutes relatives à des repas consommés les vendredi soir, samedi, dimanche ou autres jours fériés; (admis)
+q) Les dépenses de divertissements sont principalement des dépenses pour l'achat de billets de spectacles ou de cinéma pour lesquels aucun détail n'a été fourni relativement aux clients ayant bénéficié de ces dépenses; (admis)
+r) Les autres dépenses personnelles sont principalement des dépenses pour l'achat de fleurs et de cadeaux pour lesquels aucun détail n'a été fourni relativement aux clients ayant bénéficié de ces dépenses; (admis)
+[4] L'appelant a nié les hypothèses de fait suivantes :
+h) La majorité des pièces justificatives soumises par l'appelant relativement à ces dépenses d'automobile sont des reçus de carte de crédit qui n'indiquent pas la nature ou l'objet de la dépense; (nié)
+i) Ces dépenses d'automobile ont été encourues par l'appelant à son bénéfice personnel; (nié)
+j) Ces dépenses d'automobile n'ont aucun lien avec l'entreprise que l'appelant exploitait au cours des années d'imposition 2000 et 2001; (nié)
+s) Ces frais de repas et de représentation ont été encourus par l'appelant à son bénéfice personnel; (nié)
+t) Ces frais de repas et de représentation n'ont aucun lien avec l'entreprise que l'appelant exploitait au cours des années d'imposition 2000 et 2001;
+[5] Au début de l'audience, j'ai longuement expliqué à l'appelant que le fardeau de la preuve lui incombait et, surtout, ce que signifiait une telle obligation.
+[6] L'appelant a indiqué qu'il oeuvrait dans le domaine des assurances depuis de nombreuses années. Au cours de sa carrière, il a affirmé avoir fait l'objet de deux vérifications et, dans les deux cas, avoir obtenu satisfaction quant à ses prétentions, et ce, même s'il n'avait aucune comptabilité ou registre à l'appui de ses prétentions. Cependant, il a plus tard indiqué que la Cour du Québec avait déjà refusé d'accepter ses explications, alors que la Cour canadienne de l'impôt les aurait acceptées.
+[7] Il a indiqué n'avoir jamais été informé, malgré son expérience, qu'il devait avoir une comptabilité ou des registres permettant de faire la lumière sur toutes les dépenses réclamées dans le cadre de l'exploitation de son entreprise.
+[8] Selon lui, il fallait tout simplement s'en remettre à sa version des faits, selon laquelle toutes les dépenses réclamées concernaient des dépenses effectuées dans le but de gagner un revenu ou de l'augmenter.
+[9] L'autocotisation ne signifie pas que les citoyens peuvent faire une déclaration de revenus et imputer à ces revenus des dépenses de toute nature et provenance. Pour être déductibles, les dépenses doivent avoir été faites dans le but de gagner des revenus. À cet égard, il ne suffit pas d'affirmer et de conclure qu'une dépense avait un tel objectif.
+[10] S'autocotiser signifie déclarer ses revenus et ses dépenses, et cela, non pas d'une manière arbitraire. L'autocotisation est en quelque sorte une reddition de comptes susceptible de faire l'objet d'une vérification, qui doit être préparée en conformité avec les dispositions pertinentes de la Loi de l'impôt sur le revenu.
+[11] Il est donc impératif que toute personne assujettie à l'obligation de produire une déclaration de revenus soit en mesure d'expliquer, de justifier et de démontrer le bien-fondé de ses prétentions. Il ne suffit pas de faire des affirmations verbales ou des déclarations générales et englobantes pour établir la pertinence de ses revenus et de ses dépenses. Une pareille approche risque de créer certains problèmes, voire même une déception.
+[12] Pour être en mesure de justifier adéquatement tant ses revenus que ses dépenses, il est nécessaire de conserver des pièces justificatives adéquates permettant de faire l'analyse appropriée afin de vérifier la conformité aux dispositions légales applicables.
+[13] Ces pièces justificatives doivent être accessibles, d'où l'importance d'une certaine discipline administrative.
+[14] L'appelant a répété que personne ne lui avait indiqué qu'il devait avoir une comptabilité et des registres comprenant les détails relatifs à ses revenus et ses dépenses. Il n'a donc rien conservé, si ce n'est les copies attestant de paiements par carte de crédit, lesquelles ne font référence à aucun détail ou explication.
+[15] Après avoir soutenu qu'il ne connaissait pas la nécessité de consigner les détails permettant d'identifier la nature, l'objet et le but des dépenses, il a dû reconnaître s'être conformé à de telles exigences dans le cas de quelques factures identifiées par le vérificateur.
+[16] Il a affirmé qu'il avait délibérément choisi d'abandonner une telle pratique étant donné qu'il ne croyait pas que cela était utile ou nécessaire, d'autant plus que, dans le passé, il avait obtenu gain de cause sans de tels détails ou références sur les factures pour les dépenses qu'il réclamait.
+[17] La grande majorité des dépenses qui furent refusées étaient relatives à des achats de boissons alcoolisées à la Société des alcools du Québec et à des dépenses pour des repas consommés le vendredi soir, le samedi et le dimanche.
+[18] Eu égard à la nature et au moment des dépenses, il aurait été d'autant plus important de noter autant de détails que possible pour en justifier la pertinence; en effet, la simple lecture des reçus suscitait un certain doute sur la question de savoir si ces dépenses avaient été en partie ou en totalité des dépenses essentiellement personnelles. Il était donc important d'avoir assez de détails pour pouvoir réfuter la nature et l'objet apparent ou présumé des dépenses.
+[19] L'appelant s'est toujours replié derrière des explications pouvant se résumer comme suit :
+· J'ai toujours fait cela et je n'ai jamais eu de problème, même lors de deux vérifications précédentes, dont l'une a fait l'objet d'un jugement de cette cour.
+· Je ne savais pas que cela était nécessaire ou même utile.
+· Certaines dépenses étaient peut-être de nature personnelle en tout ou en partie, mais cela devait compenser des dépenses que je n'ai pas réclamées.
+· Les dépenses déductibles non réclamées et les dépenses personnelles réclamées étaient à peu près égales. « Ça arrive à peu près quitte » , dira-t-il exactement.
+[20] L'appelant, un courtier d'assurances, n'évoluait pas en vase clos. Il traitait avec des clients et rencontrait dans le cours de ses affaires toute la gamme d'individus qui composent la société. Il ne peut prétendre, comme il l'a fait, qu'il croyait que sa méthode était adéquate.
+[21] Assumer ses obligations en matière fiscale n'est pas quelque chose de discrétionnaire où la personne concernée est juge et partie quant à la nature des dépenses qu'elle veut voir imputer à ses revenus.
+[22] Le législateur a prévu des dispositions très précises, dont la plupart sont expliquées dans divers documents facilement accessibles à ceux et à celles qui sont préoccupés et soucieux de soumettre un dossier conforme.
+[23] En l'espèce, l'appelant a tenu pour acquis qu'il décidait lui-même ce qui était déductible et ce qui ne l'était pas; selon lui, advenant une vérification ou une contestation de ses explications, il fallait accepter sans questionner ce qu'il avait fait et ses explications essentiellement verbales, non corroborées par quoi que ce soit.
+[24] Malheureusement, les choses ne sont pas aussi simples. Tout contribuable doit être en mesure de justifier et d'expliquer les dépenses qu'il veut opposer à ses revenus. Pour être en mesure de relever un tel fardeau, il est indispensable de pouvoir compter sur des outils crédibles et valables, telle une bonne comptabilité, divers registres et tous les détails nécessaires pour faire une analyse rationnelle.
+[25] Si une personne choisit de ne rien garder et de ne rien avoir qui permet une telle vérification, elle s'expose à devoir vivre avec les conséquences qui risquent de ne pas être conformes à ses attentes.
+[26] En l'espèce, malgré les excuses de l'appelant quant à sa façon de faire et malgré ses explications générales essentiellement verbales, je conclus qu'il n'a pas relevé le fardeau de la preuve qui lui incombait.
+[27] Bien plus, la prépondérance de la preuve a largement démontré que la cotisation avait été correctement établie à partir des informations et des documents disponibles, soit des factures sans aucune annotation portant sur des dépenses essentiellement personnelles par leur nature même et dont la nature est souvent corroborée par le moment où elles ont été faites, soit les fins de semaine.
+[28] L'appelant a aussi fait valoir que l'avis de cotisation n'avait aucun fondement juridique puisque le ministre ne l'avait pas lui-même signé. Le tribunal a pu constater que l'avis de cotisation avait été signé pour le ministre et en son nom par monsieur Louis Turcotte.
+[29] Il s'agissait là d'une procédure usuelle tout à fait conforme aux exigences. D'ailleurs, l'intimée a établi cette conformité par la production d'une copie de la délégation de pouvoir :
+Publications GouvCan --- Délégations ministérielles,
+1999/09/27 - Délégation des pouvoirs et fonctions du
+ministre de revenu national - Loi de l'impôt sur le revenu
+Le présent document remplace la délégation des pouvoirs et des fonctions du ministre effectuée aux termes de l'article 900 du Règlement de l'impôt sur le revenu. 1. Aux termes du paragraphe 220(2.01) de la Loi de l'impôt sur le revenu modifiée.
+1999/09/27 - Délégation des pouvoirs et fonctions du ministre de revenu national - Loi de l'impôt sur le revenu
+Date : 27 septembre 1999
+Autorisation
+Le présent document remplace la délégation des pouvoirs et des fonctions du ministre effectuée aux termes de l'article 900 du Règlement de l'impôt sur le revenu.
+1. Aux termes du paragraphe 220(2.01) de la Loi de l'impôt sur le revenu modifiée (la Loi), j'autorise, par la présente, toute personne qui occupe le poste de sous-ministre délégué ou de sous-ministre adjoint, au ministère du Revenu national, ou toute personne autorisée à exercer les fonctions de l'un de ces postes, à exercer les pouvoirs et à remplir les fonctions conférés au Ministre en vertu de la Loi et de son Règlement.
+2. J'autorise tout fonctionnaire qui occupe, au ministère du Revenu national, un poste énuméré dans l'annexe ci-jointe, ou toute personne autorisée à exercer les fonctions de ce poste, à exercer les pouvoir et à remplir les fonctions qui sont conférés au Ministre en vertu des dispositions de la Loi et de son Règlement qui sont énoncées dans l'annexe ci-jointe.
+.......... Martin Cauchon, C.p., député
+.......... Date
+Remarque
+Aux termes du paragraphe 220(1) de la Loi de l'impôt sur le revenu, le sous-ministre du Revenu national peut exercer les pouvoirs et fonctions conférés au ministre du Revenu national en vertu de la Loi de l'impôt sur le revenu.
+Annexe
+Paragraphe 165(3)
+Sur réception de l'avis d'opposition, le ministre examine de nouveau la cotisation et l'annule, la ratifie ou la modifie et en avise le contribuable
+Postes de l'administration centrale
+Directeur, Division des appels en matière d'impôt
+Gestionnaire, Division des appels en matière d'impôt
+Postes régionaux
+Chef des appels
+Chef d'équipe, Appels
+Gestionnaire des cas d'oppositions complexes
+(Je souligne.)
+[30] Pour toutes ces raisons, l'appel est rejeté.
+Signé à Ottawa, Canada, ce 22e jour de février 2005.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE :
+2005CCI132
+No DU DOSSIER DE LA COUR :
+2004-2790(IT)I
+INTITULÉ DE LA CAUSE :
+Léo-Paul Mailhot c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Trois-Rivières (Québec)
+DATE DE L'AUDIENCE :
+le 2 février 2005
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge Alain Tardif
+DATE DU JUGEMENT :
+le 22 février 2005
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Antonia Paraherakis
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l'appelant :
+Pour l'intimée :
+John H. Sims, c.r. sous-ministre de la Justice
+et sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,666 @@
+---
+title: "Buckingham v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29787/index.do"
+last_modified: "2010-05-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 247"
+citation2: ""
+neutral_citation: "2010 TCC 247"
+decision_date: "2010-05-06"
+language: "en"
+item_id: "29787"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6593
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:22:39.775000+00:00"
+cases_cited_count: 2
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fb976e5ecbd2fdb872c6cd373b71697f4919b4d2a8fa35b7fb15b5bdc2a2a355"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Buckingham v. The Queen
+
+- Citation: 2010 TCC 247
+- Decision date: 2010-05-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6593, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Buckingham v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-05-06
+Neutral citation
+2010 TCC 247
+File numbers
+2008-2817(IT)G
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-2817(IT)G
+BETWEEN:
+KEVIN RICHARD BUCKINGHAM,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard together on common evidence with the appeal of
+Kevin Richard Buckingham (2008-2877(GST)G)
+on March 8 and 9, 2010 at Fredericton, New Brunswick
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Counsel for the Appellant:
+Andrew D. Rouse
+Counsel for the Respondent:
+Darlene M. Lamey
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments of the Appellant as a director of Mosaic Technologies Corporation (“Mosaic”) and its subsidiary corporations are allowed and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is not liable as a director of Mosaic, Multimedia Ventures (Alberta) Inc., Multimedia Ventures Inc., and 6678 British Colombia Ltd. for any amounts that any of these companies failed to remit under the Income Tax Act (Canada), the Canada Pension Plan or the Employment Insurance Act or any of the penalties and interest related to these amounts.
+Signed at Toronto, Ontario, this 6th day of May, 2010.
+“Wyman W. Webb”
+Webb, J.
+Docket: 2008-2877(GST)G
+BETWEEN:
+KEVIN RICHARD BUCKINGHAM,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard together on common evidence with the appeal of
+Kevin Richard Buckingham (2008-2817(IT)G)
+on March 8 and 9, 2010 at Fredericton, New Brunswick
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Counsel for the Appellant:
+Andrew D. Rouse
+Counsel for the Respondent:
+Darlene M. Lamey
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment of the Appellant as a director of Mosaic Technologies Corporation by Notice of Assessment – Third Party No. A106067, dated April 20, 2005, for the unremitted GST/HST amounts together with the related interest and penalties is dismissed.
+Signed at Toronto, Ontario, this 6th day of May, 2010.
+“Wyman W. Webb”
+Webb, J.
+Citation: 2010TCC247
+Date: 20100506
+Dockets: 2008-2817(IT)G
+2008-2877(GST)G
+BETWEEN:
+KEVIN RICHARD BUCKINGHAM,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb, J.
+[1] The Appellant was assessed, pursuant to section 323 of the Excise Tax Act, as a director of Mosaic Technologies Corporation (“Mosaic”) for the following amounts of unremitted GST/HST and the penalties and interest related thereto[1]:
+Date of the Assessment of Mosaic
+Period Covered
+Payment Due Date
+Unremitted GST/HST
+Penalty and interest
+Unremitted GST/HST, penalties and interest
+September 23, 2003
+Jan. 1/03 to Mar. 31/03
+April 30, 2003
+$86,614
+$15,938
+$102,552
+September 3, 2004
+Apr. 1/03 [2] to June 30/03
+July 30, 2003[3]
+$53,827
+$8,523
+$62,350
+Total:
+$140,441
+$24,461
+$164,902
+[2] The Appellant was also assessed, pursuant to section 227.1 of the Income Tax Act, the provisions of the applicable provincial income tax statutes, section 21.1 of the Canada Pension Plan and section 83 of the Employment Insurance Act, as a director of each of the following companies, for unremitted source deductions (federal income tax, provincial income tax, CPP premiums, and EI premiums) and the penalties and interest related thereto:
+Multimedia Ventures (Alberta) Inc.
+Date of Assessment
+Period Covered
+Federal Tax
+Provincial Tax
+CPP
+EI
+Penalty and Interest
+Total
+Oct. 16, 2002
+Aug. 16/02 to Aug. 31/02
+$14
+$14
+Nov. 19, 2002
+Sept. 1/02 to Sept. 15/02
+$1,018
+$1,018
+Dec. 6, 2002
+Sept. 16/02 to Sept. 30/02
+$1,044
+$1,044
+Jan. 14, 2003
+Oct. 1/02 to Nov. 30/02
+$10,319
+$10,846
+$21,165
+Jan. 29, 2003
+Dec. 1/02 to Dec. 31/02
+$11,292
+$3,748
+$15,039
+May 30, 2003
+Jan. 1/03 to Feb. 28/03
+$12,913
+$7,877
+$9,946
+$5,632
+$10,568
+$46,934
+May 30, 2003
+Mar. 1/03 to Apr. 30/03
+$21,068
+$12,851
+$9,634
+$43,553
+July 9, 2003
+June 1/03 to June 15/03
+$265
+$265
+Aug. 4, 2003
+June 1/03 to June 15/03
+$5,081
+$3,099
+$1,247
+$9,427
+Oct. 7, 2003
+Jan. 1/02 to Dec. 31/02
+$3,936
+$1,131
+$5,067
+April 7, 2004
+June 16/03 to June 30/03
+$973
+$1,851
+$2,324
+$1,093
+$1,645
+$7,886
+Total
+$61,646
+$25,678
+$16,206
+$6,725
+$41,160
+$151,412
+Multimedia Ventures Inc.
+Date of Assessment
+Period Covered
+Federal Tax
+Provincial Tax
+CPP
+EI
+Penalty and Interest
+Total
+Dec. 6, 2002
+Sept. 1, 2002 to Sept. 30, 2002
+$547
+$547
+Jan. 17, 2003
+Oct. 1, 2002 to Oct. 31, 2002
+$497
+$497
+Mar. 26, 2003
+Jan. 1, 2002 to Dec. 31, 2002
+$3,234
+$3,234
+Mar. 26, 2003
+Jan. 1, 2003 to Feb. 28, 2003
+$2,986
+$2,986
+June 11, 2003
+Mar. 1, 2003 to Apr. 30, 2003
+$12,512
+$4,775
+$17,287
+July 9, 2003
+May 1, 2003 to May 31, 2003
+$586
+$586
+Aug. 4, 2003
+May 1, 2003 to May 31, 2003
+$3,477
+$2,121
+$854
+$6,452
+Oct. 8, 2003
+January 1, 2002 to December 31, 2002
+$2,420
+$674
+$3,094
+April 7, 2004
+April 1, 2003 to June 30, 2003
+$3,481
+$2,123
+$2,084
+$182
+$1,922
+$9,792
+Total
+$19,470
+$4,244
+$4,504
+$182
+$16,075
+$44,475
+6678 British Columbia Ltd.
+Date of Assessment
+Period Covered
+Federal Tax
+Provincial Tax
+CPP
+EI
+Penalty and Interest
+Total
+Oct. 16, 2002
+Aug. 16/02 to Aug. 31/02
+$6
+$6
+Nov. 19, 2002
+Sept. 1/02 to Sept. 15/02
+$1,070
+$1,070
+Dec. 6, 2002
+Sept. 16/02 to Sept. 30/02
+$1,062
+$1,062
+Dec. 20, 2002
+Oct. 1/02 to Nov. 30/02
+$7,696
+$9,336
+$17,032
+Jan. 17, 2003
+Oct. 1/02 to Oct. 15/02
+$1,122
+$1,122
+Jan. 28, 2003
+Dec. 1/02 to Dec. 31/02
+$1,664
+$1,606
+$3,270
+April 25, 2003
+Jan. 1/03 to Feb. 28/03
+$1,934
+$5,284
+$3,511
+$8,734
+$19,463
+April 25, 2003
+March 1/03 to March 15/03
+$3,086
+$1,883
+$2,614
+$1,478
+$2,570
+$11,632
+June 2, 2003
+March 16,/03 to April 15/03
+$9,373
+$5,718
+$4,124
+$19,216
+June 4, 2003
+April 16/03 to April 30/03
+$4,564
+$2,784
+$1,991
+$9,339
+Aug. 1, 2003
+June 1/03 to June 15/03
+$4,808
+$2,933
+$1,988
+$9,729
+Aug. 27, 2003
+Jan. 1/02 to Dec. 31/02
+$2,303
+$1,179
+$3,481
+April 7, 2004
+Jan. 1/03 to June 30/03
+$2,555
+$1,558
+$2,289
+$805
+$1,805
+$9,012
+Total
+$26,320
+$14,876
+$21,850
+$5,794
+$36,593
+$105,434
+Mosaic
+Date of Assessment
+Period Covered
+Federal Tax
+Provincial Tax
+CPP
+EI
+Penalty and Interest
+Total
+Dec. 6, 2002
+Sept. 16/02 to Sept. 30/02
+$1,122
+$1,122
+Feb. 20, 2003
+Oct. 1/02 to Dec. 31/02
+$30,192
+$13,463
+$43,655
+Feb. 26, 2003
+Jan. 16/03 to Jan. 31/03
+$1,428
+$1,428
+March 12, 2003
+Jan. 16/03 to Jan. 31/03
+$7,943
+$4,845
+$2,092
+$14,879
+March 26, 2003
+Jan. 1/03 to Feb. 28/03
+$16,252
+$9,914
+$9,969
+$5,509
+$11,397
+$53,041
+June 11, 2003
+March 1/03 to April 30/03
+$37,626
+$22,952
+$16,022
+$76,600
+July 9, 2003
+June 1/03 to June 15/03
+$125
+$125
+Oct. 8, 2003
+Jan. 1/02 to Dec. 31/02
+$3,558
+$949
+$4,508
+April 7, 2004
+June 1/03 to Aug. 31/03
+$4,102
+$2,502
+$2,751
+$1,540
+$2,292
+$13,187
+Total
+$96,115
+$40,213
+$16,278
+$7,049
+$48,890
+$208,545
+[3] There are some assessments that cover the same period or periods of time as others. However since these assessments are assessments of income tax amounts and CPP and EI premiums that should have been remitted in relation to salaries or wages paid to employees, the additional assessments for a period for which an assessment was already issued presumably simply reflect additional amounts that should have been remitted for that period. Such assessments would therefore not be intended to reflect the entire amounts that should have been remitted for that period. This would not be the same as an assessment of income tax liability for a taxation year which reflects the total tax liability for a taxation year. The Appellant did not contest that any of the amounts in relation to which he was assessed as a director were not payable by Mosaic or any of its subsidiaries. The only basis for the Appellant’s appeal was that he was not liable for such amounts as a result of the provisions of subsection 227.1(3) of the Income Tax Act and subsection 323(3) of the Excise Tax Act.
+[4] The assessed amounts also include amounts for provincial income taxes. In the Notice of Appeal filed by the Appellant, there is a reference to the Income Tax Act, the Canada Pension Plan and the Employment Insurance Act. Counsel for the Appellant confirmed in writing following the hearing that the Appellant was not appealing that part of the assessment that was based on provincial income taxes that should have been remitted (which would include the interest and penalties related to these amounts). If the Appellant would have been appealing the assessment of these amounts, then the issue would have been whether this Court has jurisdiction to hear that appeal.
+[5] This Court was formed by an Act of Parliament, the Tax Court of Canada Act. The jurisdiction of this Court is set out in section 12 of that Act and in particular subsection 12(1) of this Act provides as follows:
+12. (1) The Court has exclusive original jurisdiction to hear and determine references and appeals to the Court on matters arising under the Air Travellers Security Charge Act, the Canada Pension Plan, the Cultural Property Export and Import Act, Part V.1 of the Customs Act, the Employment Insurance Act, the Excise Act, 2001, Part IX of the Excise Tax Act, the Income Tax Act, the Old Age Security Act, the Petroleum and Gas Revenue Tax Act and the Softwood Lumber Products Export Charge Act, 2006 when references or appeals to the Court are provided for in those Acts.
+(emphasis added)
+[6] Under the statute by which this Court was formed, the jurisdiction is limited to appeals under the statutes named in subsection 12(1) and some other statutes and other matters listed in the other subsections of section 12. No jurisdiction is granted to this Court under the Tax Court of Canada Act to hear appeals on matters arising under any provincial income tax statute.
+[7] Subsection 84(2) of the New Brunswick Income Tax Act (which is the province where the head office of Mosaic was located and where it appears that a significant part of the operations of the companies was located) provides as follows:
+84(2) Subject to subsection (4), an appeal from an assessment under this Act lies to the Court in respect of any question relating,
+(a) in the case of an individual, to the determination of
+…
+(v) the liability of a director to pay an amount under section 227.1 of the Federal Act as that section applies for the purposes of this Act because of section 109…
+[8] Section 109 of the New Brunswick Income Tax Act provides as follows:
+109 Section 227.1 of the Federal Act applies for the purposes of this Act.
+[9] Court is defined in section 1 of this Act as follows:
+“Court” means The Court of Queen’s Bench of New Brunswick;
+[10] Therefore it is clear that any appeal that the Appellant may wish to pursue in relation to the assessment of the amounts that should have been remitted under the New Brunswick Income Tax Act would have to be made to the Court of Queen’s Bench of New Brunswick.
+[11] Multimedia Ventures (Alberta) Inc., Multimedia Ventures Inc., and 6678 British Colombia Ltd. were subsidiaries of Mosaic. Mosaic and its subsidiaries carried on an education business. The Appellant and his family acquired control of Mosaic around 1997. At that time, Mosaic (then named “Mosaic Recycle Paper”) was a Vancouver shell company that had been a publicly traded company for several years. Following the acquisition of Mosaic, the Appellant started looking for acquisitions to commence carrying on business. The company acquired two schools (applied multimedia training centers), Pitman Business College (which was the oldest secretarial school in Canada), and a small college in Regina.
+[12] In addition to the schools that were acquired, Mosaic also had a division that prepared online courses for large corporations and governments. In the draft share exchange offer (which is discussed further below) the company is described in early 2003 as follows:
+Mosaic Technologies Corporation is a publicly listed, Fredericton New Brunswick based e-learning educational technologies company which designs and develops world-class products and services for its customers and clients by integrating traditional teaching methodologies and technology enhanced interactive learning activities through its facilities across Canada.
+[13] The Appellant was the chairman of the board of Mosaic. The company also had a president and Chief Executive Officer (Don Whitty) and a Chief Financial Officer (Stephen Hutchinson).
+[14] In 1998 or 1999 the shares of Mosaic started to trade on the TSX Venture Exchange. Mosaic earned a profit in 2000. The following table shows the profit (or loss) earned (or incurred) by Mosaic during the years 1999 to 2002:
+1999
+2000
+2001
+2002
+Profit (Loss)
+($970,899)
+$253,110
+($451,161)
+($1,446,396)
+[15] Mosaic was only profitable for one year following its rebirth as an education company. The Appellant stated that it was profitable for the first three quarters of 2001 but following the events of 9/11 (September 11, 2001), the business environment changed significantly. As the Appellant stated:
+A. After 9/11, it became clear really to the Board and myself that...and senior management, that things weren’t quite going to be the same again. And like I said before, six (6) months after 9/11, the phones virtually stopped ringing, not just with us, but with everybody.
+[16] Subsection 323(3) of the Excise Tax Act and subsection 227.1(3) of the Income Tax Act provide a defence for a director in relation to an assessment for unremitted amounts by a corporation, which is the same in both statutes. Subsection 83(2) of the Employment Insurance Act and subsection 21.1(2) of the Canada Pension Plan provide that subsections 227.1(2) to (7) of the Income Tax Act apply for the purposes of those Acts and therefore the same defence is available to a director who is assessed for unremitted premiums under the Employment Insurance Act and unremitted contributions under the Canada Pension Plan. Subsection 323(3) of the Excise Tax Act provides as follows:
+(3) A director of a corporation is not liable for a failure under subsection (1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.[4]
+[17] In Higgins v. The Queen 2007, TCC 469, [2007] G.S.T.C. 103 I made the following comments:
+6 The Federal Court of Appeal in Soper v. R., [1997] 3 C.T.C. 242, completed a detailed analysis of the due diligence defence in subsection 227.1(3) of the Income Tax Act which has identical wording to that found in subsection 323(3) of the Act. The Federal Court of Appeal noted that federal statutes with the same language should be interpreted in the same manner. In particular the Federal Court of Appeal was focused on the provisions of the Canada Business Corporations Act (“CBCA”) which also imposes a duty upon a director and uses the same language as found in the Act and the Income Tax Act in relation to the due diligence defence. In Soper, supra, Robertson J. A. of the Federal Court of Appeal made the following comments:
+19 In my view, it is not simply a fortuitous occurrence that subsection 227.1(3) of the Income Tax Act adopts the same language as found in subsection 122(1)(b) of the Canada Business Corporations Act, for both statutory provisions relate to the standard of care to be exercised. Admittedly, the CBCA provision deals with the standard of care owed to the corporation while the taxation provision concerns the standard of care owed to the Crown and Canadian taxpayers. However, that distinction does not serve to nullify the relevance of the standard set out in the CBCA, if only because of the presumption of coherence between statutes. That elementary principle of statutory interpretation is explained by P.-A. Côté in The Interpretation of Legislation in Canada, 2nd ed. (Cowansville, Quebec: Les Editions Yvon Blais Inc., 1991) at 288, 290:
+Different enactments of the same legislature are supposedly as consistent as the provisions of a single enactment. All legislation of one Parliament is deemed to make up a coherent system. Thus, interpretations favouring harmony between statutes should prevail over discordant ones, because the former are presumed to better represent the thought of the legislator.
+This presumption of coherence in enactments of the same legislature is even stronger when they relate to the same subject matter, in pari materia. Apparent conflicts between statutes should be resolved in such a way as to re-establish the desired harmony.
+...
+To sum up, the presumption of coherence in related legislation applies particularly to statutes of the same legislature. But it is also relevant to statutes of different jurisdictions, as one legislature may be deemed to imitate the form or be consistent with the substance of a statute enacted by another.
+Thus, in order to determine whether the common law standard of care was modified by statute, it is both appropriate and instructive to consider not only the due diligence provision set out at subsection 227.1(3) of the Income Tax Act but also the analogous, and virtually identical, standard of care provisions found in the Canada Business Corporations Act.
+7 The conclusion of Robertson J. A. was that the provisions of paragraph 122(1)(b) of the CBCA and subsection 227.1(3) of the Income Tax Act provided for an objective subjective test to be applied in analyzing the standard set out in these sections.
+8 The Supreme Court of Canada in Peoples Department Stores Inc (Trustee of) v. Wise, 2004 S.C.C. 68, [2004] 3 S.C.R. 461, made the following comments in relation to the objective subjective test as set out by the Federal Court of Appeal in Soper:
+63 The standard of care embodied in s. 122(1)(b) of the CBCA was described by Robertson J.A. of the Federal Court of Appeal in Soper v. R. (1997), [1998] 1 F.C. 124 (Fed. C.A.), at para. 41, as being "objective subjective". Although that case concerned the interpretation of a provision of the Income Tax Act, it is relevant here because the language of the provision establishing the standard of care was identical to that of s. 122(1)(b) of the CBCA. With respect, we feel that Robertson J.A.'s characterization of the standard as an "objective subjective" one could lead to confusion. We prefer to describe it as an objective standard. To say that the standard is objective makes it clear that the factual aspects of the circumstances surrounding the actions of the director or officer are important in the case of the s. 122(1)(b) duty of care, as opposed to the subjective motivation of the director or officer, which is the central focus of the statutory fiduciary duty of s. 122(1)(a) of the CBCA.
+9 The Supreme Court of Canada again noted that because the language in paragraph 122(1)(b) of the CBCA is identical to that found in subsection 227.1(3) of the Income Tax Act (which is also identical to the language set out in subsection 323(3) of the Act) the provisions are to be interpreted in the same manner. Therefore, in my opinion, the conclusion is that the Supreme Court of Canada has modified the objective subjective test as set out by the Federal Court of Appeal in Soper and instead has adopted an objective standard that now should be used not only for the purposes of paragraph 122(1)(b) of the CBCA but also for the purposes of section 227.1(3) of the Income Tax Act and subsection 323(3) of the Act.
+10 The Supreme Court of Canada in Peoples Department Stores Inc. also made the following comments in relation to this duty:
+67 Directors and officers will not be held to be in breach of the duty of care under s. 122(1)(b) of the CBCA if they act prudently and on a reasonably informed basis. The decisions they make must be reasonable business decisions in light of all the circumstances about which the directors or officers knew or ought to have known. In determining whether directors have acted in a manner that breached the duty of care, it is worth repeating that perfection is not demanded. Courts are ill-suited and should be reluctant to second-guess the application of business expertise to the considerations that are involved in corporate decision making, but they are capable, on the facts of any case, of determining whether an appropriate degree of prudence and diligence was brought to bear in reaching what is claimed to be a reasonable business decision at the time it was made.
+11 Therefore the issue in this case is whether the Appellants have acted prudently on a reasonably informed basis and have met the objective standard imposed upon them of exercising the duty of care, diligence and skill to prevent the failure to remit the HST that a reasonable prudent person would have exercised in comparable circumstances.
+[18] It seems to me, as I had concluded in Higgins, that since:
+(a) the objective subjective standard as described by Justice Robertson in Soper, was determined based on his review of paragraph 122(1)(b) of the Canada Business Corporations Act (the “CBCA”) (which he described in paragraph 19 of his decision as “the analogous, and virtually identical, standard of care provisions” as found in subsection 227.1(3) of the Income Tax Act); and
+(b) the Supreme Court of Canada in Peoples Department Stores Inc. (Trustee of) v. Wise, 2004 S.C.C. 68, [2004] 3 S.C.R. 461 in dealing with the standard of care imposed by paragraph 122(1)(b) of the CBCA specifically addressed the objective subjective standard as set out by Justice Robertson in Soper and indicated that it should be an objective standard,
+that the standard of care imposed by subsection 227.1(3) of the Income Tax Act and subsection 323(3) of the Excise Tax Act should be the same as the standard of care imposed by paragraph 122(1)(b) of the CBCA and therefore is an objective standard.
+[19] The Appellant in this case also sought to classify himself as an “outside director” until 2003. This classification is based on the comments of Justice Robertson in Soper when he stated that:
+32 … I intend to focus on the category of cases respecting the distinction between inside and outside directors since that line of authority is the most pertinent to this appeal.
+33 At the outset, I wish to emphasize that in adopting this analytical approach I am not suggesting that liability is dependent simply upon whether a person is classified as an inside as opposed to an outside director. Rather, that characterization is simply the starting point of my analysis. At the same time, however, it is difficult to deny that inside directors, meaning those involved in the day-to-day management of the company and who influence the conduct of its business affairs, will have the most difficulty in establishing the due diligence defence. For such individuals, it will be a challenge to argue convincingly that, despite their daily role in corporate management, they lacked business acumen to the extent that that factor should overtake the assumption that they did know, or ought to have known, of both remittance requirements and any problem in this regard. In short, inside directors will face a significant hurdle when arguing that the subjective element of the standard of care should predominate over its objective aspect.
+(emphasis added)
+[20] Although, as noted above, it does not seem to me that there is any longer a subjective element to the standard of care, the distinction between inside directors and outside directors is still relevant. The Supreme Court of Canada in Peoples Department Stores Inc. (Trustee of) stated that:
+67 Directors and officers will not be held to be in breach of the duty of care under s. 122(1)(b) of the CBCA if they act prudently and on a reasonably informed basis. The decisions they make must be reasonable business decisions in light of all the circumstances about which the directors or officers knew or ought to have known.
+[21] The circumstances about which inside directors (those involved in the day-to-day management of the company and who influence the conduct of its business affairs) will know (or ought to know) will be different from the circumstances about which outside directors will know (or ought to know). Therefore it seems to me that the distinction between inside directors and outside directors is still relevant and is still the starting point for the analysis. Inside directors would know or would be expected to know more about the day-to-day operations of the company, the circumstances related to the financial affairs of a company (and its ability to meet its remittance obligations and its compliance with these obligations) and about potential problems than outside directors.
+[22] It is the position of the Appellant that he was not an inside director of Mosaic until February 13, 2003. However, it seems to me that the Appellant was an inside director long before February 13, 2003 and was an inside director prior to the first default in the remittance of payroll amounts or GST/HST that is in issue in this Appeal.
+[23] The Appellant and his family acquired Mosaic in 1997. The Appellant is the only person who was a director of all of the companies listed above. It seems obvious from the testimony of the Appellant that he was directly involved in the acquisitions of the businesses that were directly or indirectly acquired by Mosaic. The Appellant was also the largest shareholder of Mosaic.
+[24] The Chief Financial Officer (Stephen Hutchinson) resigned in the spring of 2002. Prior to his resignation, Robert Baird, who appears to be the person who was responsible for preparing the remittance forms and the GST/HST returns, reported to Stephen Hutchinson. During cross examination the Appellant acknowledged that he directed Robert Baird. Although it is not clear when the Appellant began directing Robert Baird, it is more likely than not that this occurred following the resignation of Stephen Hutchinson in the spring of 2002. The Appellant also referred to Robert Baird’s office being at the other end of the building which indicates that the Appellant had an office at Mosaic. Since the Appellant had an office at Mosaic and was directing Robert Baird this indicates that the Appellant was involved in the day-to-day operations of Mosaic. The Appellant also had signing authority for the bank account of the company which indicates that he was involved in the day-to-day operations.
+[25] The Appellant also referred to various initiatives that Mosaic was pursuing to raise capital. It appears that following the events of 9/11, a great deal of the Appellant’s time would have been devoted to pursuing options to raise capital and deal with the declining sales. The Appellant noted in his testimony that he and Don Whitty had travelled to Toronto in early 2002 to arrange to have the paperwork started for a proposed equity issue.
+[26] It also appears that the other directors were resigning their positions. The following shows the dates of resignation from the Board of Directors of Mosaic, for those persons who were directors as of September 11, 2001, based on the documents that were filed under the CBCA:
+Name
+Date of Resignation
+Richard Buckingham
+Carey Edwards
+May 10, 2002
+Allen Ruben
+February 28, 2003
+Michael Bishop
+Brian Neill
+March 1, 2003
+Lucille Pacey
+[27] The Appellant stated that Michael Bishop (who is related to the Appellant) also had resigned as a director. Although the Appellant could not provide a specific date he stated that Michael Bishop left “quite early”. The Appellant also stated that Lucille Pacey (who lived in Vancouver) had also resigned as a director, although again the Appellant could not provide a specific date.
+[28] The Appellant also stated, in an affidavit that he had previously submitted to the CRA to support another director whom the CRA was proposing to assess, that he arbitrarily appointed the other person as a director of one of the subsidiary companies without that person’s consent. In the Affidavit (which was sworn on November 20, 2004) the Appellant stated as follows:
+1. I was a director of Mosaic Technologies Corporation (“Mosaic”) and played a significant role in the operation of Mosaic.
+2. Mosaic had two subsidiary companies, Multimedia Ventures Inc. (“MVI”) and Multimedia Ventures (Alberta) Inc. (“MVAI”). MVI and MVAI operated multimedia training centers in Manitoba and Alberta respectively.
+3. When Mosaic purchased the multimedia training centers, I put Allen Ruben (“Ruben”) down as a director for both MVI and MVAI as he was director of Mosaic and I thought the companies needed at least two directors.
+4. I did not receive and never did receive Ruben’s consent to make him a director of MVI and MVAI.
+5. There was never a director’s meeting held with respect to MVI or MVAI and Ruben was not involved in any way with the operation of either company.
+[29] This illustrates that the Appellant had a significant amount of influence over Mosaic and its subsidiaries. The Appellant also acknowledged in the first paragraph of his affidavit that he “played a significant role in the operation of Mosaic”.
+[30] It seems to me that the Appellant was an inside director before the first default in remittances which is in issue in this appeal occurred (which would be in the fall of 2002).
+[31] Therefore the issue is whether the Appellant, as an inside director, “act[ed] prudently and on a reasonably informed basis”. Were his decisions “reasonable business decisions in light of all the circumstances about which [he] knew or ought to have known”?
+[32] In this case, it seems to me that the analysis in relation to the employee deductions should be dealt with separately from the analysis related to the unremitted GST/HST. In McKinnon v. The Queen 2003 TCC 884, 2004 D.T.C. 2049, [2004] 2 C.T.C. 2302, then Associate Chief Justice Bowman made the following comments:
+18 Another argument that is frequently made in these cases and which I regard as fallacious runs somewhat as follows: “You were stealing from money held in trust for the Crown to run your business and pay your employees”. This is, I think, an inaccurate and unfair characterization. It implies that there is a separate account (or cookie jar if you will) into which the payroll deductions are put and then withdrawn to pay the company's expenses. The fact is there is no cookie jar, real or notional, and no money to put into it even if there were. The net amount paid to the employees is all there is to go around. The employees, suppliers and other creditors are paid because if they are not the business will be closed down. Where, as here, unforeseen supervening events make it impossible for the payroll deductions to be paid to the government, I do not think there is anything the appellant could reasonably have done to ensure the payment.
+[33] The amounts for payroll deductions are not funded by a third party but are paid from whatever resources the company might have available to it. The remittance obligations are part of the costs related to the employees. During cross examination the Appellant stated at one point that there was not usually much money in the account. He also admitted that the amounts that had been deducted from the payroll payments were being used to pay other bills. However, no specific amounts were identified and no banking statements were introduced to show the amount that was in the bank account at any particular time. While an employer may have continuing obligations to employees, it does not necessarily mean that the employer has received the necessary funds to pay these obligations. For example, if the total amount of salaries payable on a particular day is $100,000 and the total source deductions that are to be deducted therefrom and remitted is $25,000, the net amount payable to the employees is $75,000. If the employer only has $75,000 in its bank account, then paying the employees $75,000 will reduce the bank account balance to nil. There simply would not be any money left to hold in trust. No third party has paid $100,000 to the employer to cover the payroll and the employer must fund both the $75,000 payable to the employees and the $25,000 payable for the source deductions from whatever sources it might have, if it can. This is different from the amounts to be remitted for GST/HST which are funded by the third parties upon whom the GST/HST is imposed. I will therefore deal with these remittance obligations separately.
+Unremitted Payroll Amounts
+[34] As noted above the first year that Mosaic made a profit (and the only year that it made a profit) was 2000. At the end of December 2000 the company had just under $760,000 in cash and short term deposits. The total current assets of the company at that time were over $2.1 million. The Appellant also stated that the company was profitable for the first three quarters of 2001. However there were a number of events that were beyond the control of the company that led to its demise.
+[35] As had been previously mentioned, the events of 9/11 had a detrimental affect on the business of the company. As well the company had signed a non‑binding letter of intent with Innovatia in relation to a proposed contract with Nortel. In order to be able to fulfill its obligations under this contract the company had to hire additional employees. The contract was expected to produce revenues of approximately $4 million a quarter. That would have been a very significant amount for a company that reported total revenue in 2000 for 12 months of $4.9 million.
+[36] However a formal contract was never executed. The Appellant described the circumstances as follows:
+A. So the first three (3) quarters of 2001, the company was profitable and we were getting ready to... We had signed a letter of intent, I believe, late 2001, a non-binding letter of intent with Innovatia to start a very significant contract for Nortel. So the company had to wrap up its intellectual capacity by way of hiring people to handle the contract.
+Q. H’m.
+A. In 2001, about midway through it, Nortel were dragging their heels a bit, then we had 9/11, and the bottom seemed to fall out really of everything in the technology business, and...
+Q. And when you say technology business, are you talking about your business or...
+A. Our business, our customers’ businesses. Everything seemed to get put on hold back at that point in time. So meanwhile, we had a fair... We had a fair buildup of people to handle execution of the contract, so we started... Really in 2001, we started letting people go because Innovatia and Nortel were dragging their heels with the big contract. I think it was 4 million dollars a quarter or something. It was quite significant for our company at the time.
+[37] The Appellant first referred to the letter of intent being signed late 2001 but then referred to Nortel “dragging their heels” and then 9/11 occurring, so it seems to me that the Appellant simply incorrectly referred to late 2001 for the signing of the letter of intent and this letter of intent was signed in late 2000 or early 2001.
+[38] Also, sometime after 9/11, the bonding company with whom Mosaic had been dealing, ceased writing vocational school training bond insurance. The example provided by the Appellant was that instead of the company paying $5,000 to post a bond for $500,000, the company had to post the cash collateral for the whole amount in order to operate the school. This would obviously tie up their cash. Included with the financial statements for 2002 is a note that identifies the following “Restricted deposits”:
+2002
+2001
+Deposits with Private Post Secondary Education Commission of British Columbia
+$74,460
+Deposits with insurance companies in relation to performance bonds
+$87,500
+$87,500
+Guaranteed Investment Certificates bearing interest at 2% per annum, maturing October 31, 2003 (note 15(b))
+$50,000
+$211,960
+$87,500
+[39] At the end of 2001 the company had just under $245,000 in cash and short-term deposits and its current assets were just over $1.5 million. The position of the company had deteriorated from what it was at the end of 2000.
+[40] In early 2002, recognizing that the company was going to require additional capital, the Appellant worked on a proposed equity issue. The company with which they were dealing was American Capital Partners from Toronto and the proposal was that American Capital Partners would arrange for a capital injection of $750,000. The transactions were never consummated as American Capital Partners could not raise the necessary funds to make the capital injection. The Appellant described this event and the possibility of raising equity in the marketplace as follows:
+A. It never happened because they couldn’t raise the money, and things got progressively worse through 2002, and...
+Q. And when you say “things got progressively worse”, what do you mean?
+A. Well, you couldn’t raise any equity.
+Q. Okay.
+A. The financial markets at that point in time, after the Internet implosion we will call it, in 2001/2002, in that timeframe, the market was very jittery of any of this technology stuff, which just a year before, they couldn’t get enough of it.
+Q. Okay.
+A. So things just got very tough.
+Q. Okay. Okay. So the equity raise didn’t work. They weren’t able to raise because of the markets at that time?
+A. That’s correct.
+[41] Mosaic did not have a line of credit with its bank. Prior to his resignation from the company, Steve Hutchinson traveled to Winnipeg and met with the account manager of the company’s bank to explore the possibility of establishing a line of credit for the company. However the talks with the bank to establish a line of credit were not successful. The Appellant indicated that the bank was simply not willing to lend any money to them at that point in time.
+[42] To reduce expenses, the company started to lay off employees and curtailed travel for the executive and management personnel of the company. Obviously the company also ceased hiring new employees.
+[43] They had also contacted another brokerage company (Northern Securities) to determine if they could raise additional funds. These talks were not successful.
+[44] However another company, Global Inter-Tech Inc. (“GITI”), was interested in Mosaic. This company had several of the same shareholders as American Capital Partners. This company had cash and they wanted to do a merger with Mosaic. The Appellant started working on this proposal in August or September 2002. The documents that were submitted at the hearing included a draft copy of the Share Exchange Offer Information Circular which indicated that GITI had offered to exchange two GITI shares (priced at $0.20 each) for one share of Mosaic. American Capital Partners Ltd. acted as the agent for GITI. The share exchange offer was conditional on at least 51% of the issued shares of Mosaic being tendered under the offer.
+[45] The share exchange offer proposed by GITI was not accepted by the shareholders of Mosaic. The Appellant had noted that the share exchange offer would have been very dilutive to the shareholders of Mosaic. Although the Appellant was the largest shareholder, there were other persons who held significant numbers of shares and they were not comfortable with the proposed share exchange. The Appellant indicated that:
+A ….The shareholders of Mosaic and the shareholders of Inter-tech Global in the end couldn’t get their arms around who was providing what, and it just didn’t work.
+[46] The deal failed. Since the Appellant was personally involved in negotiating with GITI in relation to the merger, it appears to me that the reason that the merger failed was not the fault of the Appellant.
+[47] In the notes to the Consolidated Financial Statements for Mosaic for the year ended December 31, 2002, there is also a reference to the company raising $170,000 from a non-executive director and $350,000 from TomaNet Inc. in March 2003. The Appellant did not address either one of these initiatives. Both are described on the same page as the paragraph to which counsel for the Respondent directed the Appellant’s intention on cross examination. They are described in the second paragraph below the paragraph to which counsel for the Respondent drew his attention during cross examination. It is not clear why the Appellant did not mention these initiatives but since they appear in the notes to the audited financial statements it appears that these are two other initiatives that were undertaken to raise funds for the company. The $350,000 was described as money to fund the immediate working capital requirements.
+[48] Also in February 2003 (which would have been around the time that the share exchange offer deal failed) the Appellant met with the auditors of the company in Saint John, New Brunswick and engaged the auditors to sell assets to raise cash. The auditors visited the facilities and prepared information booklets to attract offers for the assets. In particular Mosaic was trying to sell four schools and the software development company located in Miramichi, New Brunswick.
+[49] They received expressions of interest for two of the schools in March of 2003. The Appellant’s recollection was that potential purchasers were interested in purchasing two of the schools for approximate $1.3 million. However, no firm offers were received. The auditors then arranged for interested persons to submit bids for the properties. A bid of $1 million was received for the school in Calgary and a bid of $300,000 was received for Pitman College. The company that bid $1 million for the Calgary school could not raise the required funds and the sale of the Pitman College took too long and Mosaic went out of business before the deal was completed.
+[50] In the latter part of 2002, Mosaic had commenced discussions with Maxim Training Corp (UK) Limited (“Maxim”) about a possible sale of Mosaic’s Development Group. The assets that were being sold were intellectual property (the proprietary systems that they had developed for online courses). On May 5, 2003 the Appellant wrote to Maxim to outline the general terms of the proposed sale of Mosaic’s Development Group to Maxim for $1.6 million. The parties subsequently entered into an agreement of purchase and sale. Mosaic received a total amount of $600,000 by June, 2003 in relation to the sale of these assets to Maxim. The balance of $1,000,000 was to be paid in September.
+[51] Of the amounts received, $100,000 was paid to the Canada Revenue Agency (the “CRA”) as partial payment of the outstanding amounts payable by Mosaic or its subsidiary corporations for unremitted payroll deductions or unremitted GST/HST.
+[52] Mosaic never received the balance of $1 million from the sale of its intellectual property. The purchaser did not send the payment when it was due in September of 2003 and went into receivership.
+[53] In early 2003 the Appellant personally started dealing with the CRA in relation to the amounts that were outstanding from Mosaic to the CRA for unremitted payroll deductions.
+[54] The first remittances for which the Appellant was assessed, are minor amounts for penalties and interest that are in relation to amounts that should have been remitted in September 2002 ($14.36 for Multimedia Ventures (Alberta) Inc. and $6.43 for 6678 British Columbia Limited). There are significant amounts that relate to the period from October 1, 2002 to November 30, 2002 for Multimedia Ventures (Alberta) Inc. ($10,318.83 of federal tax) and for 6678 British Columbia Ltd. ($7,696.03 of CPP) and for periods after that time.
+[55] It appears from the schedules that the assessment against the Appellant for unremitted amounts essentially relates to the remittances that should have been made in December 2002 and thereafter. It appears that some amounts were paid in relation to the remittances that were due after this date but obviously any payments were not sufficient. The assessments cover more than one month in several instances and it is not possible to determine how much of the assessment relates to each month during the period. It would appear that of the amount assessed against the Appellant, only $6,380.09 (or 1.3% of the total amount assessed of $509,868.07 in relation to unremitted payroll deductions) relates to amounts that it appears should have been remitted before December 2002.
+[56] The periods identified in the Reply are not uniform for each company (for example some periods for Mosaic are for one-half of a month (e.g. January 16, 2003 to January 31, 2003), others are for two months (e.g. January 1, 2003 to February 28, 2003) and others are for the year (January 1, 2002 to December 31, 2002). Some periods overlap other periods. As well there is no indication of the amount that should have been remitted for each period. The issue in this case is whether the Appellant has met the standard of care imposed upon him pursuant to subsection 227.1(3) of the Income Tax Act to prevent the failure to remit. Therefore it seems to me that it is important to determine what amounts the company failed to remit and when such amounts should have been remitted so that the actions that the Appellant took prior to such failure to remit can be examined to see if such actions satisfy the standard of care as set out in subsection 227.1(3) of the Income Tax Act. A better way to organize the information would have been to identify for each particular period of time for which amounts should have been remitted, the amount that should have been remitted for such period, the date such amount should have been remitted, the amount that the CRA has received in relation to such period, and the date that the payment was made. The penalties and interest arise because amounts were not remitted as and when they should have been remitted and could be calculated based on the above information. It seems to me that in determining whether the Appellant has met the standard of care imposed upon him, the critical information relates to the actual remittances that should have been made (and were not) – i.e. what should have been remitted and when should it have been remitted – so that the actions of the directors taken to prevent the failure to remit can be examined.
+[57] It is impossible to discern from the information as presented any particular amount that the companies did remit for the period from December 2002 to August 31, 2003. It is also not possible to determine how payments were applied by the CRA and whether, for example, a payment for a remittance for February 2003 may have been applied to an earlier outstanding balance. Counsel for the Respondent (with the consent of counsel for the Appellant) submitted into evidence copies of diary information printed from CRA’s computer system. In total approximately 620 pages of information were submitted. Perhaps buried somewhere deep within this mound of paper lies the answer to these questions. In my opinion it is not appropriate to simply submit huge volumes of paper and then expect the Judge to be able to find some nugget of relevant facts buried deep within the mound of paper. The parties are the ones who are familiar with the facts and the documents that are being submitted and if there is some part of the document that is relevant, the parties should highlight that part. In any event it appears that the diary notes deal with the actions taken to collect the outstanding arrears and the responses received from the representatives of Mosaic. Therefore these deal with the actions or steps taken to cure the defaults, not the actions or steps taken to prevent the failure to remit.
+[58] In Worrell v. R., [2000] G.S.T.C. 91, 2000 D.T.C. 6593, [2001] 1 C.T.C. 79, all of the Justices of the Federal Court of Appeal agreed that the directors in that case had satisfied the due diligence test in subsection 227.1(3) of the Income Tax Act and subsection 323(3) of the Excise Tax Act. Justice Evans stated, in that case, that:
+77 Given the limitations placed upon them by the bank's de facto control of the company's finances, I am satisfied that, on the facts of this case, the directors exercised the degree of care, diligence and skill to prevent failures to remit that would have been shown by a reasonably prudent person in comparable circumstances. That Ms. McKinnon continued to prepare remittance cheques, admittedly without a realistic hope that the bank would honour them all, also indicates that the directors were not unmindful of the company's debt to Revenue Canada.
+78 Much more important, in my view, were Mr. Humphreys' continued efforts to find a new investor, given his belief that the company could then quickly be turned around. He told the directors that he was confident that a new investor could be found. Indeed, he identified potential investors within two weeks of being hired, spoke with twelve people who expressed an interest in investing in Abel and produced one who was willing to invest, but who proved unacceptable to the bank for reasons that are not disclosed.
+79 As long as these efforts were being made in good faith by a person with a successful track record in rescuing companies in the construction industry, the directors of Abel could reasonably say that, if an investor were found and approved by the bank, the company would obtain bonding and be in a position to bid on lucrative contracts, which might well have persuaded the bank to increase its line of credit again or, at least, to honour Abel's next remittance cheque.
+80 Hence, if Mr Humphreys had succeeded in finding an investor acceptable to the bank, the failures to remit might have been prevented. The fact that, in the event, he was not successful and the failures occurred, does not render the directors liable if they had made reasonable efforts to prevent them. The Court would be reluctant to second guess the likely efficacy of the directors' efforts to prevent failures to remit from occurring.
+81 However, it would not have been open to the directors to have relied indefinitely on Mr. Humphreys' advice if there was no indication of potential investor interest in the company. The company's viability and the likelihood of its attracting new investors would have had to be reassessed from time to time in order for the directors successfully to invoke the due diligence defence provided by subsection 227.1(3).
+(emphasis added)
+[59] The directors in that case were directors of Abel Metal Limited (“Abel”). The facts of that case are summarized by Justice Evans as follows:
+7 Abel had been in business in the Toronto area for the best part of thirty years, manufacturing and supplying non-structural metal components used in construction. During the recession that hit the construction industry in the late 1980s and early 1990s Abel suffered serious losses. It began to experience financial difficulties in the fall of 1992, which continued into the following year. Nonetheless, in 1993 it still employed seventy people.
+8 Abel's bank, the Canadian Imperial Bank of Commerce, expressed concern over the company's April 1993 financial statement. As a result, one of the directors, Mr. Lapointe, gave a personal guarantee to the bank of Abel's debt, which then stood at $1.6 million. Abel had reached the limit of its credit line by either the fall of 1992, or early in 1993. Although in the past Abel had always paid its bills, on September 30, 1993 the bank dishonoured a company remittance cheque to Revenue Canada for insufficient funds, without giving prior notice to its customer.
+9 Abel's already difficult financial situation had been made worse when its request for bonding in June 1993 was refused because there was insufficient equity in the company. The formal letter of refusal from the bonding company was dated August 30, 1993. Unless Abel could come up with new capital of some $350,000, or find another source of bonding, the refusal of bonding would severely limit its ability to obtain profitable new contracts and to contain its already serious cash flow problem.
+10 In an attempt to extricate itself from its financial troubles, on October 16, 1993 Abel engaged a Mr. Humphreys, a chartered accountant, who had had considerable success in assisting other companies in the construction industry that had fallen into financial difficulty. Together with two of Abel's directors, he met with bank officials to discuss the bank's concerns and to try to work out solutions.
+11 However, on October 18, only two days later, the bank dishonoured a cheque for $46,000 drawn by Abel in favour of the Receiver General of Canada in respect of September payroll source deductions. At about the same time, the bank started to reduce the company's line of credit. In a letter dated October 22, 1993 the bank informed Abel that it should be careful not to issue cheques that would take it beyond its credit limit with the bank. The bank also appointed BDO Dunwoody to “monitor” Abel's finances and to report to the bank on the company's prospects.
+12 The bank also required the directors of Abel to seek approval almost daily for permission to pay the company's creditors. After the October cheque was dishonoured for insufficient funds, it was clear both to the directors and Mr. Humphreys that the bank could not be counted on to honour any cheques issued by Abel in respect of G.S.T. or source deduction remittances. Nonetheless, Ms. McKinnon continued to prepare remittance cheques in the hope that the bank would honour them, which, on a few occasions, it did on a discretionary basis.
+13 Mr. Humphreys was satisfied that Abel was a viable company: it was well established in the construction business and had weathered previous cyclical downturns in the industry. His view was that, with an injection of new capital, the company could be turned around quickly and, even if none were forthcoming, Abel would be profitable within eighteen months.
+14 Despite strenuous efforts, Mr. Humphreys could produce only one potential investor, but he was not acceptable to the bank. At this point, on April 27, 1994, the bank decided to call in its loans and Abel filed for bankruptcy. The company probably had been insolvent for the previous twelve months, even though it had apparently paid all its bills before the bank first dishonoured the first remittance cheque in September 1993.
+15 Nearly all of the company's debt to Revenue Canada for unremitted payments, from which the respondents' personal liability derives, accrued after October 18, 1993 when the bank started to exercise control over the cheques issued by Abel. After Abel filed for bankruptcy, the trustee paid some of the money owing, namely, all the outstanding employee portions of the deductions. However, the employer portions of C.P.P. and U.I., and the G.S.T., were not paid. The unpaid remittances (including interest and late payment penalties) amounted to $133,747.00 and were the subject of the assessments with which this appeal is concerned.
+[60] The bank in Worrell reduced the line of credit that had been available to the company. In this case, Mosaic did not have a line of credit and the bank refused to provide a line of credit to the company. It is important to note that Justice Evans placed particular emphasis on the continued efforts to find new investors as he described these efforts as being “much more important”. In this case, the Appellant pursued several options in 2002 and 2003 to obtain an investor. It seems to me that if any of these initiatives would have been successful, the required remittances would have been made.
+[61] In The Queen v. Wheeliker [1999] 2 C.T.C. 395, 99 D.T.C. 5658 the Federal Court of Appeal held that the directors were liable for the unremitted payroll deductions of the non-profit corporation of which they were directors. Justice Létourneau[5] stated that:
+50 The evidence revealed that no positive steps were taken to prevent the Corporation's failure to remit current and future source deductions when it started to experience financial difficulties. At the January 13 and February 3, 1993 meetings, no action was taken by the directors with respect to the matter.
+[62] In this case positive steps were taken by the Appellant as noted above.
+[63] Counsel for the Respondent referred to the case of Comparelli v. The Queen, 2009 D.T.C. 1057, [2009] 5 C.T.C. 2005[6]. However it seems clear that the company in that case had little revenue and the efforts of the director in that case to find new investors did not occur until “almost five months after the failure to remit had occurred”[7]. The efforts of the director in that case were directed at curing defaults after the failure to remit had occurred and not in preventing the failure to occur.
+[64] In Smith v. The Queen, 2001 FCA 84, [2001] 2 C.T.C. 192, 2001 D.T.C. 5226, Justice Sharlow writing on behalf of the Federal Court of Appeal, stated that:
+31 The Tax Court Judge appears to have recognized the efforts made by Mr. Smith in and after June of 1995, but he noted, at paragraph 138:
+The actions that he took did not have the effect of ensuring that Revenue Canada received any of the monies here.
+and, at paragraph 142:
+The Court is satisfied that the actions taken by the Appellant did nothing to prevent the failure.
+32 It appears to me that these comments reveal another error in the Tax Court Judge's application of the due diligence defence. A director is required only to act reasonably in the circumstances. The fact that his efforts are unsuccessful does not establish that he has failed to act reasonably.
+(emphasis added)
+[65] In McKinnon (referred to above), then Associate Chief Justice Bowman stated as follows:
+16 I revert then to the question “what could Mr. McKinnon reasonably have done to prevent the failure?” The single most significant contributing factor was the wholly unexpected refusal of Rideau to pay the agreed amount. Mr. McKinnon instructed his lawyer to proceed with legal actions but this is time consuming and expensive and was met with stonewalling, prevarication and arrogance by Rideau and its lawyers. Mr. McKinnon did all he could to keep the company afloat and ensure that its obligations were met. I regard the Canada Customs and Revenue Agency's stock response of “You should have pulled the plug and let the whole business go down the drain” as neither commercially realistic nor morally defensible. It implies that a person, such as Mr. McKinnon, who has put all he owns and all his time into the creation of a business can simply walk away from it and abandon all he has built up and leave his employees and their families in the lurch. If everyone did this it would mean that many more businesses that manage to survive would simply fold as soon as the going gets rough.
+17 These cases are usually difficult. We start from the irrefutable fact that the payroll deductions or goods and services tax were in fact not remitted and so the CCRA looks to the directors. If one is so minded it is as a rule easier to dismiss an appeal by a director than to allow it. Frequently the director who is assessed is in difficult financial straits, cannot afford a lawyer and attempts to represent himself or herself. It is easy for the CCRA or the judge, with the benefit of hindsight, to tell the director all of the things he should have done. Here the CCRA is telling Mr. McKinnon “you should not have gotten into the business in the first place and once in it you should have gotten out sooner” I dare say that might have prevented the failure but everyone, including the government would have lost. That course of action would have been unreasonable.
+[66] It seems to me that we have the same question in this case. What more could the Appellant have done? It must be remembered that his actions have to be examined in light of the circumstances and information that was available at the time. Knowledge of subsequent events cannot now be used to second guess his decisions. It seems to me that perhaps the single most significant contributing factor to the unremitted payroll amounts is the hiring of additional staff to fulfill the obligations that would have arisen under the contract to provide training to Nortel. This was a very substantial opportunity for the company. Nortel and its financial highs and lows have certainly been the subject of media attention. I take judicial notice of the fact that Nortel did not file for bankruptcy protection until January of 2009. It is easy, knowing what we know now, to criticize the decision to hire additional staff based on a letter of intent to provide services to Nortel. However as noted by the Supreme Court of Canada in Peoples Department Stores Inc. (Trustee of):
+67 Directors and officers will not be held to be in breach of the duty of care under s. 122(1)(b) of the CBCA if they act prudently and on a reasonably informed basis. The decisions they make must be reasonable business decisions in light of all the circumstances about which the directors or officers knew or ought to have known. In determining whether directors have acted in a manner that breached the duty of care, it is worth repeating that perfection is not demanded. Courts are ill-suited and should be reluctant to second-guess the application of business expertise to the considerations that are involved in corporate decision making, but they are capable, on the facts of any case, of determining whether an appropriate degree of prudence and diligence was brought to bear in reaching what is claimed to be a reasonable business decision at the time it was made.
+(emphasis added)
+[67] It seems to me that the decision to hire the additional employees in anticipation of the proposed contract with Nortel would have been a reasonable decision when it was made. It must be remembered that this decision was made in 2000 or 2001, several years before Nortel went into bankruptcy.
+[68] After the events of 9/11, when the Appellant knew that the business environment had changed, he took positive steps to obtain new capital for the company. Several steps were taken before the first failure to remit payroll deductions that is the subject of this appeal. There were discussions with American Capital Partners about a capital injection of $750,000 (which appear to have advanced beyond a preliminary discussion phase), the CFO met with the account manager of Mosaic’s bank to determine if the bank would establish a line of credit for the company, the company laid off employees and reduced other expenses, the company had some discussions with Northern Securities (which appear to have not progressed beyond a very preliminary stage) and the Appellant worked on a proposed share exchange deal with GITI. The talks with the representatives of GITI commenced in 2002. All of these steps were taken before any significant defaults, which are in issue in this appeal, occurred.
+[69] It also seems reasonable that while the Appellant is trying to arrange for a capital injection or a merger or the sale of a division or assets, that the company should continue to operate as long as there is a reasonable expectation that such events would occur. It does not seem to me that this reasonable expectation would have ended before the deal with GITI collapsed. After the deal with GITI collapsed in February 2003, the steps changed from seeking capital injections to liquidating assets. It seems to me that the liquidation of assets was more directed towards paying arrears (or correcting defaults) than it would be in preventing defaults from occurring.
+[70] There would be a time delay from the time when the GITI deal collapsed and the employment of employees could be terminated. Reasonable notice is required to terminate employment without cause. As Justice Major noted in The Queen in right of the Province of British Columbia v. Ossie Sylvester, [1997] 2 S.C.R. 315:
+1 Employment involves, among other things, a contract between the employer and employee. An employee who is wrongfully dismissed without reasonable notice of termination is entitled to damages for breach of contract. These damages represent the salary the employee would have earned had the employee worked during the notice period, less any amounts credited to mitigation.
+[71] Employees simply cannot be dismissed without proper notice. This would mean that the obligation to pay salaries (or compensation for proper notice) will continue after any decision is made to dismiss employees and such costs (which will give rise to requirements to remit amounts under the applicable legislation) will be incurred regardless of whether the company has sufficient revenue to cover such costs. No third party is necessarily providing the funds to the company to cover such costs.
+[72] As well since Maxim was acquiring a division it seems reasonable that the employees of that division would be retained until the sale was completed and it seems to me that the Appellant would have had a reasonable expectation that the deal with Maxim would close.
+[73] As a result, in my opinion, the Appellant has met the standard of care required by him in relation to the unremitted payroll amounts that are the subject of this appeal. As noted, the appeal does not relate to the amounts that were assessed in relation to the income tax that should have been remitted under any provincial income tax statute and the penalties and interest that relate to those amounts.
+Unremitted GST/HST
+[74] As I had noted above, it seems to me that the liability of the Appellant for unremitted GST/HST amounts should be analysed separately. While the same standard of care will apply for the purposes of subsection 323(3) of the Excise Tax Act, the circumstances related to the failure to remit GST/HST are different. The decisions and actions of the Appellant in relation to the remittance of net tax under the Excise Tax Act are different from the decisions and actions related to the payroll deductions.
+[75] There are two amounts of unremitted GST/HST that are in issue in these appeals. The first is for the period from January 1, 2003 to March 31, 2003 and the amount of unremitted GST/HST is $86,614. The second is for the three month period immediately following this first period and the amount of unremitted GST/HST for this period is $53,827. The Appellant did not challenge either of these amounts. While there is no third party who directly provides the funds for payroll deductions (which have to be paid from whatever sources of funds the employer may have), the recipient of the particular taxable supply does pay the GST/HST to the supplier[8].
+[76] The obligation to remit GST/HST is an obligation to remit the net tax[9] which is the difference between the amount of GST/HST that was collectible (or collected) in a particular reporting period and the input tax credits that are claimed by the supplier in accordance with the provisions of the Excise Tax Act. Therefore even though a particular supplier has made taxable supplies (and therefore has GST/HST that is collectible or collected), that supplier will not have an obligation to remit an amount in relation to a particular reporting period if the input tax credits claimed for that reporting period exceed the amount that is collectible or collected for that reporting period.
+[77] In this case, the Appellant indicated that Robert Baird was preparing the GST/HST return for the period from January 1, 2003 to March 31, 2003 and Robert Baird had indicated to the Appellant that the company would be entitled to a refund. Robert Baird did not testify at the hearing.
+[78] The assessment for unremitted GST/HST only relates to Mosaic. It is not clear whether the other companies were also making taxable supplies or whether all taxable supplies were made by Mosaic. The assessment for the period from January 1, 2003 to March 31, 2003 is based on the GST/HST return that was prepared by Robert Baird and which was filed after the filing due date for this return. This return indicates that the following was the amount of the total sales and the amount of the GST/HST that was collected or collectible:
+Total Sales: $219,931.00
+GST/HST collected or collectible: $110,636.89
+[79] This would indicate a sales tax rate of slightly over 50%. Obviously something is not correct. But what? The Appellant did not lead any evidence in relation to this matter. It is possible that the sales amount is incorrect, the GST/HST collected or collectible amount is incorrect or both are incorrect. Without any evidence I am unable to determine which amount or amounts are incorrect. It seems to me that since the GST/HST collected or collectible amount has a direct bearing on the liability to remit net tax, that it is more likely than not that greater care would be taken to ensure that this amount is correct. In any event, the Appellant did not challenge the amount assessed as net tax of $86,614.46 (which is the $110,636.89 amount referred to above minus input tax credits claimed of $24,022.43).
+[80] Net tax, for the purposes of the Excise Tax Act, is based on GST/HST collected or collectible on taxable supplies and available input tax credits. Simply because the company was losing money does not necessarily mean that the company has input tax credits that exceed its GST/HST collected or collectible. There was no evidence nor was there any discussion of whether any of the schools operated by Mosaic or its subsidiaries qualified as vocational schools for the purposes of Part III of Schedule V to the Excise Tax Act. A supply, other than a zero-rated supply, that is made by a vocational school and that is described in paragraph 8 of Part III of Schedule V to the Excise Tax Act, is an exempt supply for the purposes of the Excise Tax Act. GST/HST payable in relation to property or services acquired for the purpose of making exempt supplies will not give rise to input tax credits[10]. According to the consolidated financial statements for Mosaic for 2002, the amounts incurred for salaries and wages was greater than any other expense item. No GST or HST is payable in relation to salaries and wages and therefore no input tax credit would be generated by this expenditure. There may also be other expenditures on which no GST/HST would be paid. An amount is shown in the consolidated financial statements for Mosaic for 2002 as “Head office general and administrative” which could include salaries for head office or administration staff.
+[81] In order for the Appellant to establish that it was reasonable for him to do nothing in relation to the remittance of GST/HST for the period from January 1, 2003 to March 31, 2003, it seems to me that it would have been necessary to hear from Robert Baird to confirm the accuracy of his comments and to explain the circumstances related to his comments that the company would be entitled to a refund under the Excise Tax Act for this period. The Appellant also did not adduce any evidence with respect to the amount of taxable supplies made by the company during the period from January 1, 2003 to March 31, 2003. Since a large portion of the company’s expenses were for salaries (which would not generate input tax credits), it does not seem to me that the Appellant has established that it would be reasonable to assume that the company would be entitled to a refund under the Excise Tax Act for this period.
+[82] The GST/HST amounts would be funded by a third party (the customers who paid GST/HST to the company). There is no indication of any positive steps that the Appellant took in relation to the obligation to remit net tax under the Excise Tax Act (which the company would have received from its customers) on April 30, 2003 and July 30, 2003. According to the GST/HST return filed by Mosaic, the company collected (or had the right to collect) $110,636.89 of GST/HST for the period from January 1, 2003 to March 31, 2003 which was $24,022.43 (the amount of its input tax credits) greater than its liability for net tax. No explanation was provided to explain why the net tax amount was not remitted by April 30, 2003. Neither did the Appellant provide any explanation for why the net tax amount of $53,827 was not remitted for the subsequent period. Prior to the time when these amounts were to be remitted (April 30, 2003 and July 30, 2003) the company had switched from trying to locate additional capital to liquidating assets. The liquidation of assets was not undertaken to prevent failures to remit GST/HST. As noted by the Appellant, the decision to sell assets was made to realize cash so that the company could pay its bills. This would be done to cure defaults in remittances, not prevent failures to remit. As a result, it does not seem to me that the Appellant has satisfied the standard of care imposed on him pursuant to subsection 323(3) of the Excise Tax Act to prevent the failure to remit the net tax that was payable on April 30, 2003 and July 30, 2003.
+Conclusion
+[83] The appeals from the assessments of the Appellant as a director of Mosaic and its subsidiary corporations are allowed and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is not liable as a director of Mosaic, Multimedia Ventures (Alberta) Inc., Multimedia Ventures Inc., and 6678 British Colombia Ltd. for any amounts that any of these companies failed to remit under the Income Tax Act (Canada), the Canada Pension Plan or the Employment Insurance Act or any of the penalties and interest related to these amounts.
+[84] The appeal from the assessment of the Appellant as a director of Mosaic for the unremitted GST/HST amounts together with the related interest and penalties is dismissed.
+[85] Since the Appellant was partially successful, no costs will be awarded.
+Signed at Toronto, Ontario, this 6th day of May, 2010.
+“Wyman W. Webb”
+Webb, J.
+CITATION: 2010TCC247
+COURT FILE NOS.: 2008-2817(IT)G
+2008-2877(GST)G
+STYLE OF CAUSE: KEVIN RICHARD BUCKINGHAM AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Fredericton, New Brunswick
+DATE OF HEARING: March 8 and 9, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: May 6, 2010
+APPEARANCES:
+Counsel for the Appellant:
+Andrew D. Rouse
+Counsel for the Respondent:
+Darlene M. Lamey
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Andrew D. Rouse
+Firm: Peter Oley Rouse
+Fredericton, New Brunswick
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Each separate amount in this table and in the following tables has been rounded to the nearest dollar. As a result the total amounts as set out in these tables vary slightly from the total amounts as set out in the Reply. The “Total” column at the right hand side of each table reflects the amounts as shown in this column in the tables as set out in the Reply, rounded to the nearest dollar. Since each separate amount has been rounded to the nearest dollar, the total as stated in the last column on the right hand side of the table will not necessarily be the sum of the rounded amounts as they appear in the applicable row. The differences are minor.
+[2] In the Reply the period is stated to be from 01 Apr 01 to 30 Jun 03. However since only one payment due date is listed (July 30, 2003) and since the Period Covered, as noted in the Particulars of Assessment attached to the Notice of Assessment that was sent to the Appellant, was stated to be 01-Apr-03 to 30-Jun-03, it seems obvious that the reference to 01 as the year in the Reply should be to 2003.
+[3] In the Reply the payment due date is stated to be July 30, 2003. Nothing in this case turns on whether the payment due date should be July 31, 2003 instead of July 30, 2003, based on subsections 238(1) and 228(2) and the definition of “month” in subsection 123(1) of the Excise Tax Act, as the Appellant has not appealed the determination of the amounts shown for GST/HST, penalties or interest. Therefore the date of July 30 as set out in the Reply is used.
+[4] In subsection 227.1(3) of the Income Tax Act the words “of a corporation” are not included. This is not a material difference between this subsection and subsection 323(3) of the Excise Tax Act.
+[5] Justice Létourneau is identified as dissenting. However, Justice Noël, who was writing on behalf of the majority stated that:
+21 On the issues of the applicable standard of care and its application to the facts of this case, I agree with the reasons of my colleague, Létourneau J.A. and would dispose of these appeals as he suggests.
+[6] An appeal from this decision of Justice Valerie Miller was dismissed by the Federal Court of Appeal (2009 D.T.C. 301, [2009] 5 C.T.C. 2005).
+[7] Paragraph 45 of this decision.
+[8] If the debt (or part of a debt) owing to the supplier should become a bad debt, then an adjustment to the net tax of the supplier for the reporting period in which the debt is written off can be made.
+[9] Sections 225 and 228 of the Excise Tax Act.
+[10] Subsection 169(1) and the definition of “commercial activity” in subsection 123(1) of the Excise Tax Act.

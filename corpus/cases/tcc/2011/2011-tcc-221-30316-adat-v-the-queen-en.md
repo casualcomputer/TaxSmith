@@ -1,0 +1,172 @@
+---
+title: "Adat v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30316/index.do"
+last_modified: "2011-04-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 221"
+citation2: ""
+neutral_citation: "2011 TCC 221"
+decision_date: "2011-04-20"
+language: "en"
+item_id: "30316"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 8065
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:39:23.657000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9f6f932510cf948377e3011314114bc6bfd9b65cd29b197264b2196941446b8b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Adat v. The Queen
+
+- Citation: 2011 TCC 221
+- Decision date: 2011-04-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8065, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Adat v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-04-20
+Neutral citation
+2011 TCC 221
+File numbers
+2009-2588(IT)G
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-2588(IT)G
+BETWEEN:
+SABRINA ADAT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 13, 2011, at Toronto, Ontario
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+Alnaz I. Jiwa
+Counsel for the Respondent:
+Ian Theil
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2006 taxation year is dismissed without costs.
+Signed at Ottawa, Canada, this 20th day of April 2011.
+"Campbell J. Miller"
+C. Miller J.
+Citation: 2011 TCC 221
+Date: 20110420
+Docket: 2009-2588(IT)G
+BETWEEN:
+SABRINA ADAT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+C. Miller J.
+[1] Ms. Adat appeals her 2006 assessment which included $39,300 as child support amounts in her income on the basis the child support payments were made pursuant to a 1996 order and, therefore, captured by the old regime for child support payments. Ms. Adat claims the 1996 order was varied by a subsequent 2006 order, which amended an earlier 2000 order, and thus, in accordance with paragraph 56(1)(b) of the Income Tax Act (the "Act") and the definition of "Commencement Day" in the Act, should be covered by the new regime of taxation of child support payments.
+[2] Ms. Adat and her ex-husband, Mr. Nurani, married in 1987 in Vancouver and separated in 1992. Their one child, Alisha Nurani, was born in 1991. In 1994, Ms. Adat obtained an order from the British Columbia Superior Court for full custody that also permitted her and the child to move to Toronto. The order also set child support payments at $1,150 per month.
+[3] In July 1995, the British Columbia Superior Court varied the child support amount to $850 per month.
+[4] On July 8, 1996, Justice Lissaman of the Ontario Court (General Division) made the following order (in part):
+2. THIS COURT ORDERS that the Respondent shall pay to the Applicant child support in the amount of $1,150.00 commencing July 1, 1996 and on the 1st day of each and every month thereafter for so long as the child is a "child of the marriage" as defined by the Divorce Act (Canada) and increased on the anniversary date in proportion to the increase in COLA as published by Statistics Canada for all Canada.
+[5] On June 20, 2000, Justice O’Connell of the Ontario Superior Court of Justice made the following order (in part):
+1. The Respondent shall continue to pay child support in the amount of $1,050.00 per month.
+2. The enforcement of arrears of child support in the amount of $17,000.00 plus is stayed until the Case Conference being held on August 11, 2000.
+3. The Respondent shall have Summer access to the child, Alisha from June 30, 2000 to July 31, 2000 or July 31, 2000 to August 31, 2000 with five days notice, as of today, to the Petitioner as to when the Respondent is exercising access.
+[6] On May 18, 2006, Justice O’Connell made the following order:
+1. Pursuant to Rule 59.06(1) of the Rules of Civil Procedure, due to the error contained in the previous Order of Mr. Justice O’Connell dated June 20, 2000, that Order is hereby rectified by deleting paragraph 1 thereof and inserting in its place the following paragraph 1: "The Respondent shall continue to pay present child support in the amount of $1,150.00 per month. The Order of Justice Lissaman dated July 8, 1996 to continue."
+[7] It is of note that Justice O’Connell’s handwritten endorsements at the time of the 2006 motion read:
+Order to issue as requested in paragraph 1 in form to be approved by counsel – no order as to costs.
+Upon hearing submissions of counsel and pursuant to Rule 59.06(1) I am satisfied that Order of June 20, 2000 contained an error and that Order should have read present support of $1,150.00 to continue – i.e. Order of Lissaman J. dated July 8, 1996 to continue. Order to issue accordingly.
+[8] The paragraph 1 that Justice O’Connell referred to is presumably the paragraph 1 of Mr. Nurani’s notice of motion which reads:
+State the order or orders requested on this motion.
+1. An Order pursuant to Rule 59.06(1) of the Rules of Civil Procedure, rectifying the Order of Mr. Justice O’Connell dated June 20, 2000, and correcting a numerical error made due to inadvertence contained therein by amending the reference to the amount of $1,050.00 per month set out in paragraph 1, to the amount of $1,150.00 per month.
+[9] Mr. Nurani was not particularly diligent in the early years in meeting his obligation to make the child support payments. Indeed, a record of maintenance payments from British Columbia Family Maintenance Enforcement Program ("FMEP") shows amounts due in 1997, 1998, 1999 and 2000, including the Cost of Living Allowance ("COLA") adjusted amounts to the end of March 2000 of $39,073, with Mr. Nurani having paid only $19,450. In July 2000, presumably as a result of the 2000 order altering payments (incorrectly) to $1,050, the FMEP showed in their account statement only $1,050 due per month, with no adjustment for COLA. In July 2006, FMEP again amended their records to reflect the obligation to pay $1,150 (again presumably in light of Justice O’Connell’s 2006 order amending the 2000 order), but again with no reflection of any adjustment for COLA.
+[10] In 2006, Mr. Nurani made nine payments of $1,150, one at $1,500, two of $1,650, one of $5,000 and one of $19,000 to FMEP. FMEP continued to collect payments from Mr. Nurani throughout 2007 and 2009 in amounts of $1,650, $1,400, $1,050 and from 2007 on, $1,150. FMEP showed in their records from June 2006 on, a requirement to pay only $1,150 with no COLA adjustment. In a Statement of Payments Disbursed for the period January 2006 to June 2009, the FMEP indicates:
+The account summary does not include $48,300 that we are currently holding and waiting for distribution.
+[11] There was no evidence from anyone from FMEP as to how or why this large debt was accumulated. Ms. Adat speculated it was for her daughter’s education or as some sort of accumulated security obtained from Mr. Nurani given his previous track record.
+Issue
+[12] Is Ms. Adat required to bring the amount of child support payments she received in 2006 into income? This hinges on the interpretation of paragraph 56(1)(b) of the Act and the definition of commencement day. Those sections read:
+56.(1) Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year,
+…
+(b) the total of all amounts each of which is an amount determined by the formula
+A - (B + C)
+where
+A is the total of all amounts each of which is a support amount received after 1996 and before the end of the year by the taxpayer from a particular person where the taxpayer and the particular person were living separate and apart at the time the amount was received,
+B is the total of all amounts each of which is a child support amount that became receivable by the taxpayer from the particular person under an agreement or order on or after its commencement day and before the end of the year in respect of a period that began on or after its commencement day, and
+C is the total of all amounts each of which is a support amount received after 1996 by the taxpayer from the particular person and included in the taxpayer's income for a preceding taxation year;
+…
+(4) The definitions in this subsection apply in this section and section 56.
+…
+"commencement day" at any time of an agreement or order means
+(a) where the agreement or order is made after April 1997, the day it is made; and
+(b) where the agreement or order is made before May 1997, the day, if any, that is after April 1997 and is the earliest of
+(i) the day specified as the commencement day of the agreement or order by the payer and recipient under the agreement or order in a joint election filed with the Minister in prescribed form and manner,
+(ii) where the agreement or order is varied after April 1997 to change the child support amounts payable to the recipient, the day on which the first payment of the varied amount is required to be made,
+(iii) where a subsequent agreement or order is made after April 1997, the effect of which is to change the total child support amounts payable to the recipient by the payer, the commencement day of the first such subsequent agreement or order, and
+(iv) the day specified in the agreement or order, or any variation thereof, as the commencement day of the agreement or order for the purposes of this Act.
+…
+[13] This legislation dramatically changed the regime of taxation of child support from the pre-June 1997 period, where the recipient was required to bring such amounts into income. After May 1997, the recipient was no longer required to do so.
+[14] The first question to be answered then, in determining if Ms. Adat is subject to the old or new regime, in accordance with the approach suggested by the Federal Court of Appeal in the case of Holbrook v. R[1] is: under what agreement or order was the amount payable?
+[15] The orders to consider in that regard are the 1996 order of Justice Lissaman and the 2000 order of Justice O’Connell, as rectified in 2006 by invoking the slip Rule in subsection 59.06(1) of the Ontario Rules of Civil Procedure.[2] If I take Justice O’Connell’s order of 2006 and insert those words in the 2000 order, the order in 2000 would read:
+1. The Respondent shall continue to pay present child support in the amount of $1,150.00 per month. The Order of Justice Lissaman dated July 8, 1996 to continue.
+[16] However that order is to be interpreted, it is clear that Justice O’Connell intended the payments were to be made pursuant to the 1996 order. His use of the word "continue" in both sentences of that paragraph would certainly suggest that was his intention.
+[17] The second question is, does that order have a commencement day? It is the interpretation of the order that is at the nub of the dispute in answering this second question. The Appellant argues that all Justice O’Connell was asked to do, and all that he did, was alter the $1,050 figure to what it should have been - $1,150 and that there was no intention to reinstitute, via the slip rule, the COLA adjustment requirement. The Respondent disagrees, indicating Justice O’Connell’s order says what it says, and more importantly his handwritten endorsements are clear that not only was he keeping the $1,150 per month requirement, he was also making clear that the 1996 order was to continue in force, and that order contained the COLA adjustment requirement. With respect, it has been left ambiguous. The FMEP does not appear to have adjusted their records to reflect any requirement for the COLA adjustment. The Respondent concedes that if I interpret the 2000 order, as amended, as dropping the COLA requirement, then that does constitute a variation of the child support amount and the new regime comes into play due to the operation of the definition of commencement day in subparagraph 56.1(4)(b)(ii).
+[18] It all comes down to what Justice O’Connell intended by "i.e. order of Lissaman J. dated July 8, 1996 to continue". Did he intend that the obligation on Mr. Nurani was only $1,150 or did he intend that the obligation was $1,150 plus COLA?
+[19] Appellant’s counsel raised a couple of arguments in this regard. First, relying on principles gleaned from the interpretation of contracts, he suggested that the specific overrides the general and that Justice O’Connell’s first sentence specifically states $1,150 with no mention of COLA, and it is this provision that should govern. Second, he argues that had Justice O’Connell truly intended that the 1996 order, in all respects, was to govern, then he would not have had to include the first sentence. This suggests the afterthought, "i.e. order of Lissaman J. dated July 8, 1996 to continue" was gratuitous and not intended to so fundamentally alter the original 2000 order, which clearly did not retain the COLA obligation.
+[20] Unfortunately, I have little evidence of what was said before Justice O’Connell, though I do note that the notice of motion is limited to relying on the slip rule to change the $1,050 to $1,150, with the usual blanket provision "and such further and other relief as to this Honourable Court may seem just". Did Justice O’Connell deem it just that Ms. Adat was to continue to get the COLA adjustment, recognizing that this would leave the tax burden with her? Or did he deem it just that she only get the $1,150 per month with no COLA adjustment and no tax burden? Only one person knows for sure and he did not appear in front of me.
+[21] If Justice O’Connell had not added, "i.e. order of Lissaman J. dated July 8, 1996 to continue", I would have easily concluded that the 2000 order varied the child support amount by dropping the requirement for the annual COLA adjustment and, therefore, the new regime would apply and Ms. Adat would not be taxable. It appears that FMEP did not calculate any COLA adjustment after the 2000 order. Unfortunately, it has not been made clear whether any of the $48,000 excess payments collected by FMEP from Mr. Nurani have anything to do with any COLA adjustment. Practically, one avenue for me to follow is to take Justice O’Connell’s order at its face value that the 1996 order, including COLA, is still in effect and provide FMEP with a copy of this conclusion so that they can do the appropriate calculation of arrears based on COLA adjustments to date and pay Ms. Adat accordingly. An unacceptable result would be that Ms. Adat be responsible for tax based on receipt of only the $1,150, as that would suggest that the 1996 order was indeed varied by dropping the COLA adjustment requirement.
+[22] While I have some concerns that Justice O’Connell may not have had the COLA element in mind, I find I cannot ignore his explicit words that the 1996 order was to remain in force. This language specifically precludes any interpretation that there was any intention to vary. I recognize this appears to do more than what the notice of motion requested, but I have no knowledge of what was argued before him to know if argument was limited to simply changing the $1,050 to the $1,150. He clearly felt the need to say more and he must have done so for a reason. I recognize this is an unfortunate finding for Ms. Adat, but I would be turning a blind eye completely to the explicit wording of Justice O’Connell’s order, simply on the basis of speculation. I am not prepared to do so.
+[23] This Court has no authority to order the FMEP to behave in a certain way, but I would certainly recommend to Ms. Adat that she provide the FMEP with a copy of these reasons so that they know that this Court is of the view that Mr. Nurani is obligated, pursuant to Justice O’Connell’s order, to pay not only $1,150 per month but to also pay all COLA adjustments on that amount as required by the 1996 order. I presume they would distribute such funds to Ms. Adat as soon as possible, given the considerable excess funds in their possession.
+[24] I dismiss Ms. Adat’s appeal, but in the circumstances, I make no award of costs against her.
+Signed at Ottawa, Canada, this 20th day of April 2011.
+"Campbell J. Miller"
+C. Miller J.
+CITATION: 2011 TCC 221
+COURT FILE NO.: 2009-2588(IT)G
+STYLE OF CAUSE: SABRINA ADAT AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: April 13, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT: April 20, 2011
+APPEARANCES:
+Counsel for the Appellant:
+Alnaz I. Jiwa
+Counsel for the Respondent:
+Ian Theil
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Alnaz I. Jiwa
+Firm: Jiwa & Associates
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2007 FCA 145.
+[2] R.R.O. 1990, Regulation 194.

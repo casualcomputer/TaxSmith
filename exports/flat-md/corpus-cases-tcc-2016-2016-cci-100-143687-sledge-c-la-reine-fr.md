@@ -1,0 +1,222 @@
+---
+title: "Sledge c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/143687/index.do"
+last_modified: "2016-04-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 CCI 100"
+citation2: ""
+neutral_citation: "2016 CCI 100"
+decision_date: "2016-04-18"
+language: "fr"
+item_id: "143687"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3124
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:05:03.864000+00:00"
+cases_cited_count: 18
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7cd801a09f1c07d6d162400624639665357c69dad108265f2c69f4e73fde3ff6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sledge c. La Reine
+
+- Citation: 2016 CCI 100
+- Decision date: 2016-04-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3124, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sledge c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-04-18
+Référence neutre
+2016 CCI 100
+Numéro de dossier
+2012-5179(IT)G
+Juges et Officiers taxateurs
+Rommel G. Masse
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier :
+ENTRE :
+TERRANCE SLEDGE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 2 décembre 2015 à Toronto (Ontario)
+Devant : L’honorable Rommel G. Masse, juge suppléant
+Comparutions :
+Avocat de l’appelant :
+Me Jeffrey Radnoff
+Avocat de l’intimée :
+Me Laurent Bartleman
+JUGEMENT
+L’appel relatif aux cotisations établies au titre de la Loi de l’impôt sur le revenu à l’égard de l’année d’imposition 2008 est rejeté, conformément aux motifs du jugement ci-joints.
+L’intimée a droit à ses dépens.
+Signé à Kingston (Ontario), ce 18e jour d’avril 2016.
+« Rommel G. Masse »
+Le juge suppléant Masse
+Traduction certifiée conforme
+ce 7e jour de décembre 2016.
+Mario Lagacé, jurilinguiste
+Référence : 2016 CCI 100
+Date : 20160418
+Dossier : 2012-5179(IT)G
+ENTRE :
+TERRANCE SLEDGE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant Masse
+Aperçu [1] L’appelant interjette appel de la pénalité pour faute lourde qui lui a été imposée en vertu du paragraphe 163(2) de la Loi de l’impôt sur le revenu, L.R.C., 1985, ch. 1 (5e suppl.) (la « Loi ») pour l’année d’imposition 2008. L’appelant a déclaré des pertes d’entreprise très élevées. Si elles avaient été admises, tout l’impôt payé ou retenu à la source pour l’année d’imposition 2008 et les années antérieures lui aurait été remboursé. Le fait est que l’appelant n’a jamais possédé ni exploité quelque entreprise que ce soit, en 2008 ou à tout autre moment, et les pertes d’entreprise déclarées étaient fausses. L’Agence du revenu du Canada (« l’ARC ») a rejeté lesdites pertes et a pénalisé l’appelant conformément au paragraphe 163(2) de la Loi. La présente affaire vise seulement les pénalités imposées.
+Contexte factuel [2] L’appelant est né au Texas et est âgé de 45 ans. Il a obtenu son diplôme d’études secondaires, mais il n’a pas fréquenté l’université ni suivi de cours de comptabilité ou de fiscalité. Il a servi dans la marine américaine où il a occupé le rang de maître des communications et a détenu une autorisation de sécurité de niveau Très secret. Lorsqu’il a immigré au Canada en 1995, il a d’abord travaillé dans le domaine des ventes pour une entreprise familiale. Il a été engagé par FedEx en 1997 comme manutentionnaire de fret et il y travaille aujourd’hui comme gestionnaire des opérations.
+[3] En 1998, l’appelant a fait la rencontre d’un dénommé Lloyd chez son barbier de quartier. Son nom de famille est inconnu. Les deux hommes se voyaient environ deux fois par semaine chez le barbier, où ils ont appris à se connaître et sont devenus amis. Ils y discutaient d’une multitude de sujets, dont éventuellement l’impôt sur le revenu.
+[4] Avant 2008, l’appelant faisait appel à H&R Block pour la préparation de ses déclarations de revenus, mais, vers 2008 ou 2009, il s’est mis à la recherche d’un nouveau préparateur de déclarations de revenus.
+[5] Vers le mois de mars 2009, Lloyd a discuté avec l’appelant d’une entreprise nommée Fiscal Arbitrators (« FA »), spécialisée en déclarations de revenus et réputée rapide et efficace. FA aurait recalculé ses déclarations des 10 dernières années pour lui obtenir le remboursement d’impôts payés en trop. Lloyd a expliqué à l’appelant que les honoraires relatifs à ces services étaient de 500 $, en plus d’un pourcentage de tout remboursement obtenu. Lloyd avait avec lui une mallette contenant de la documentation et des dossiers d’autres personnes ayant retenu les services de FA. Quelque temps plus tard, l’appelant a de nouveau rencontré Lloyd et la sœur de celui-ci, également cliente de FA, au restaurant « Dave and Buster’s ». La sœur de Lloyd a dit à l’appelant qu’elle avait reçu un bon service de la part de FA et qu’elle avait rapidement obtenu son remboursement. Bien entendu, l’appelant s’est montré préoccupé par la légalité de cette démarche, ce à quoi Lloyd lui a répondu qu’il s’agissait d’un processus tout à fait légal et que FA était une entreprise semblable à H&R Block. L’appelant a aimé l’idée de faire la queue comme il devait le faire dans le cas de H&R Block. Il a alors décidé de retenir les services de FA.
+[6] À la fin du mois d’avril 2009, Lloyd s’est rendu chez l’appelant, qui lui a fourni ses relevés T4 des 10 dernières années ainsi qu’un chèque de 500 $ couvrant les frais initiaux (par comparaison, les frais de H&R Block sont d’environ 100 $). Quelque temps plus tard, l’appelant a rencontré Lloyd dans une très belle maison, disposée comme un bureau. Lloyd lui a présenté de la documentation, soit sa déclaration de revenus de 2008 déjà préparée. L’appelant a affirmé ne pas avoir passé en revue sa déclaration avant de la signer. Lloyd a simplement tourné les pages en lui indiquant où signer. Les pages des documents à signer étaient identifiées par des marque-pages jaunes sur lesquels était inscrit « signer ici ». L’appelant reconnaît avoir apposé sa signature aux endroits où elle était requise et n’avoir tout simplement pas lu sa déclaration.
+[7] Une copie de la déclaration de revenus de 2008 de l’appelant est déposée à l’onglet 3 de la pièce R-1. Si l’appelant avait pris la peine de jeter un coup d’œil à sa déclaration de revenus, il y aurait découvert des informations manifestement fausses. L’appelant y a déclaré un revenu d’entreprise brut de 87 864,91 $. Il a également déclaré des dépenses d’entreprise totales de 369 416,47 $, entraînant des pertes d’entreprise de 281 551,56 $. Toute cette information est absolument fausse. Le seul revenu important de l’appelant au cours de l’année d’imposition 2008 était un revenu d’emploi de 74 461,79 $. L’appelant n’a jamais possédé ou exploité d’entreprise en 2008 et il n’a jamais engagé les dépenses d’entreprise qui ont été déclarées. Il admet avoir signé sa déclaration. On peut voir juste au-dessus de sa signature la certification habituelle : « J’atteste que les renseignements donnés dans cette déclaration et dans tous les documents annexés sont exacts, complets et révèlent la totalité de mes revenus. » La vérité est que l’appelant n’a fait aucun effort pour s’assurer que sa déclaration était exacte et complète; il a tout simplement fait confiance à Lloyd. Il a également signé une demande de report rétrospectif de pertes pour les années d’imposition 2005, 2006 et 2007. Il affirme ne pas savoir s’il avait signé ce document, puisqu’il ne l’a pas regardé avant de le signer. La préposition « par » apparaît avant sa signature à la fois dans la déclaration de revenus et la demande de report rétrospectif de pertes. Il ignore qui a écrit « par » avant sa signature et à quoi cela renvoie. Il soutient que la préposition « par » ne figurait pas sur les documents lorsqu’il les a signés. Il dit ne pas avoir remarqué que la case 490, qui est réservée à l’identification des spécialistes en déclarations de revenus, avait été laissée en blanc.
+[8] Il soutient également ne pas avoir regardé les chiffres inscrits sur sa déclaration. Il a vu le nombre 281 000 $ au bas d’une page, mais il croyait qu’il s’agissait du montant total d’impôt qu’il avait payé au cours des dix dernières années. S’il avait regardé plus attentivement, il aurait clairement vu qu’il s’agissait d’un montant représentant une perte d’entreprise nette. Il est indiqué, juste en haut à droite de la signature de l’appelant, qu’il réclamait un remboursement d’un peu plus de 16 000 $. Il s’agit d’une somme importante. L’appelant déclare ne pas l’avoir vu au moment de signer la déclaration. Je trouve son affirmation peu convaincante. Il souhaitait que FA prépare sa déclaration de revenus dans le but d’obtenir un remboursement pour les impôts payés en trop au cours des dix dernières années. Cela fait partie de la nature humaine de vouloir connaître le montant du remboursement auquel une personne peut s’attendre. Il déclare lui-même que [traduction] « C’était l’idée même. Cela n’a jamais été à propos d’autre chose que le trop payé en impôt des dix dernières années » (transcription, page 22). Les seules discussions entre Lloyd et l’appelant concernant le contenu de la déclaration ont porté sur le trop payé en impôt des dix dernières années. L’appelant n’a pas posé de questions. Lloyd n’a pas donné d’explications.
+[9] L’ARC a commencé à envoyer des lettres à l’appelant, lui demandant des renseignements sur ses pertes d’entreprise (par exemple la lettre du 4 décembre 2009, pièce R-1, onglet 6). L’appelant a déclaré ignorer ce qui se passait. Il était confus et très contrarié; il a donc communiqué avec Lloyd qui lui a demandé de lui envoyer les lettres. D’autres lettres ont suivi. Lloyd lui a donné le nom de Larry Watts, de FA, qui pourrait l’aider avec ces lettres. Toutefois, toutes les réponses rédigées par FA pour l’appelant étaient dénuées de sens. Malgré tout, l’appelant les a signées et envoyées à l’ARC. Il soutient qu’il n’avait aucun autre recours ni personne vers qui se tourner à l’exception de FA. Toute cette correspondance n’a aidé en rien à la résolution de la situation puisque les lettres rédigées par FA pour l’appelant ne répondaient tout simplement pas aux questions soulevées par l’ARC. L’appelant a fini par réaliser que le recours aux services de FA avait été une grave erreur. Il a communiqué avec l’ARC par téléphone pour demander de l’aide et des conseils pour le guider; il s’est entretenu avec une certaine Debbie. Il lui a dit qu’une erreur avait été commise et qu’il était en mode panique en raison de l’ampleur astronomique des montants en jeu. On lui a répondu d’en appeler de la cotisation.
+[10] Après ce fiasco avec FA, l’appelant est retourné chez H&R Block.
+[11] Il n’a jamais obtenu de remboursement. Le ministre du Revenu national (le « ministre ») a rejeté les pertes d’entreprise déclarées ainsi que la demande de report rétrospectif des pertes et il lui a imposé une pénalité en vertu du paragraphe 163(2) de la Loi. L’appelant s’est opposé à cette cotisation, mais le ministre l’a ratifiée, d’où le présent appel.
+[12] On fait valoir que l’appelant ne devrait pas être passible de pénalités pour faute lourde puisqu’il se fiait à un spécialiste en déclarations de revenus et à un ami en qui il avait confiance; il croyait que tout était tout à fait légitime. Il témoignait toute sa confiance à Lloyd et à FA et il n’avait aucune raison de douter d’eux. Il ignorait totalement que sa déclaration de revenus de 2008 contenait de faux renseignements. On soutient qu’il n’a pas fait preuve d’aveuglement volontaire et qu’il n’a pas commis de faute lourde. Lloyd et FA sont peut-être des fraudeurs; il n’en demeure pas moins que l’appelant est une victime de leur conduite frauduleuse. Il serait injuste de punir l’appelant pour les actions de Lloyd et de FA. Par conséquent, l’appelant demande à la Cour d’accueillir son appel avec dépens et de faire annuler les pénalités et les intérêts qui font l’objet du présent appel.
+[13] L’intimée est d’avis que l’appelant n’a jamais possédé ni exploité quelque type d’entreprise que ce soit au cours de l’année d’imposition 2008 et que les pertes d’entreprise qu’il a déclarées sont manifestement fausses. Ces faux énoncés sont d’une telle ampleur qu’ils permettraient à l’appelant, s’ils étaient admis, de récupérer tout l’impôt payé ou retenu de 2005 à 2008. L’intimée fait valoir que l’appelant a fait preuve d’aveuglement volontaire ou a autrement commis une faute lourde quant à la fausseté des énoncés fournis dans sa déclaration de revenus. Les pénalités pour faute lourde imposées en vertu du paragraphe 163(2) de la Loi sont donc justifiées. L’intimée invite la Cour à rejeter l’appel avec dépens.
+Dispositions législatives [14] Le paragraphe 163(2) de la Loi est libellé en partie comme suit :
+163(2) Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d’imposition pour l’application de la présente loi, ou y participe, y consent ou y acquiesce est passible d’une pénalité […]
+[15] En vertu du paragraphe 163(3), le ministre a la charge d’établir les faits qui justifient l’imposition de la pénalité.
+Analyse [16] En l’espèce, je procéderai à la même analyse que celle faite dans les décisions récentes Daszkiewicz c. La Reine, 2016 CCI 44, et Lauzon c. La Reine, 2016 CCI 71.
+[17] Notre régime fiscal repose à la fois sur l’autocotisation et l’autodéclaration. Il est fondé sur un « système de confiance » et dépend de l’honnêteté et de l’intégrité du contribuable. Le contribuable a le devoir de déclarer la totalité de son revenu imposable de manière complète, correcte et exacte, peu importe qui prépare sa déclaration de revenus. Par conséquent, le contribuable doit être vigilant et s’assurer que les renseignements fournis dans sa déclaration sont complets et exacts. Comme l’a indiqué le juge Martineau au paragraphe 11 de la décision Northview Apartments Ltd. c. Canada (Procureur général), 2009 CF 74, « Le régime fiscal repose sur l’autocotisation et l’autodéclaration, dont sont responsables les contribuables envers l’ARC ».
+[18] Dans l’arrêt R. c. Jarvis, 2002 CSC 73, la Cour suprême du Canada a expliqué les responsabilités et les devoirs des contribuables, ainsi que certaines mesures prévues dans la Loi pour en favoriser l’observation :
+49 Toute personne résidant au Canada au cours d’une année d’imposition donnée est tenue de payer un impôt sur son revenu imposable, calculé selon les règles prescrites par la Loi (LIR, article 2 [...]). Le processus de perception des impôts repose principalement sur l’autocotisation et l’autodéclaration : tous les contribuables sont tenus d’estimer le montant de leur impôt annuel payable (art. 151) et d’en informer l’ADRC dans la déclaration de revenu qu’ils sont tenus de produire (par. 150(1)). [...] Dès qu’il reçoit la déclaration de revenu d’un contribuable, le ministre l’examine « avec diligence », fixe le montant de l’impôt à payer ou celui du remboursement et envoie au contribuable un avis de cotisation à cet effet (par. 152(1) et (2)). Sous réserve de certaines restrictions, le ministre peut par la suite établir une nouvelle cotisation ou une cotisation supplémentaire concernant l’impôt du contribuable pour une année d’imposition (par. 152(4)).
+50 Bien que l’observation volontaire de la loi et l’autocotisation constituent les éléments essentiels du régime réglementaire de la LIR, le système fiscal est doté de [traduction] « mécanismes de persuasion visant à inciter les contribuables à déclarer leurs revenus » […] Par exemple, pour favoriser l’aspect d’autodéclaration du régime, l’art. 162 de la LIR établit des peines pécuniaires pour les personnes qui omettent de produire leur déclaration de revenu. De même, pour inciter le contribuable à faire preuve de minutie et d’exactitude dans le cadre de l’autocotisation, l’art. 163 de la Loi prévoit le même type de pénalités pour les personnes qui omettent de façon répétée de déclarer un montant à inclure, qui sont complices d’un faux énoncé ou d’une omission ou qui commettent une faute lourde à cet égard.
+51 Il découle des caractéristiques fondamentales de l’autocotisation et de l’autodéclaration que le succès de l’application du régime fiscal repose avant tout sur la franchise du contribuable. Comme le juge Cory l’a affirmé dans l’arrêt Knox Contracting, précité, p. 350 : « Le système d’imposition dépend entièrement de l’intégrité du contribuable qui déclare et évalue son revenu. Pour que le système fonctionne, les déclarations doivent être remplies honnêtement. » Il n’est donc pas étonnant que la Loi tente de restreindre le risque qu’un contribuable essaie de « tirer profit du régime d’autodéclaration pour tenter d’éviter de payer sa pleine part du fardeau fiscal en violant les règles énoncées dans la Loi »[...]
+[Non souligné dans l’original. Références omises.]
+[19] Les pénalités prévues à l’article 163 de la Loi ont été établies pour assurer l’intégrité de notre régime d’autocotisation et d’autodéclaration et pour inciter le contribuable à faire preuve de minutie et d’exactitude dans la préparation de sa déclaration de revenus, peu importe qui la prépare.
+[20] J’ai maintes fois déclaré que je suis d’avis que la décision d’assujettir ou non un contribuable aux pénalités prévues au paragraphe 163(2) de la Loi doit être prise à la lumière des responsabilités et des devoirs imposés au contribuable dans le cadre d’un régime d’autocotisation et d’autodéclaration, c’est-à-dire de déclarer des revenus complets et exacts.
+[21] Deux éléments doivent nécessairement être prouvés avant de rendre un contribuable passible des pénalités prévues au paragraphe 163(2) :
+a) le contribuable doit avoir fait un faux énoncé dans une déclaration;
+b) le contribuable doit avoir, sciemment ou dans des circonstances équivalant à faute lourde, fait ce faux énoncé, ou y avoir participé, consenti ou acquiescé.
+[22] Il n’y a aucun doute que la déclaration de revenus de 2008 de l’appelant comportait de faux énoncés. L’appelant n’a jamais possédé ni exploité quelque entreprise que ce soit au cours de cette année-là et ne pouvait donc pas déclarer des dépenses d’entreprise dépassant 281 000 $. Sa déclaration de pertes d’entreprise n’a aucun fondement en fait et est manifestement fausse.
+[23] Je suis convaincu que l’appelant n’avait pas connaissance des faux énoncés inscrits dans sa déclaration puisqu’il n’a simplement pas pris la peine de l’examiner avant de la signer.
+[24] Cependant, je conclus que la Couronne a démontré selon la prépondérance des probabilités que l’appelant a fait de faux énoncés dans sa déclaration de revenus ou y a participé, consenti ou acquiescé dans des circonstances équivalant à une faute lourde. J’en viens à cette conclusion pour les motifs qui suivent.
+[25] Il y a une différence entre la négligence ordinaire et la faute lourde. La négligence s’entend du défaut d’agir avec autant de soins que ne l’aurait fait une personne raisonnablement prudente et minutieuse dans les mêmes circonstances. La faute lourde doit être interprétée comme un cas de négligence plus grave qu’un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui correspond à une action délibérée, une indifférence au respect de la loi; voir la décision Venne c. Canada, [1984] A.C.F. no 314 (QL). Les pénalités prévues au paragraphe 163(2) ne devraient être imposées que dans les affaires où le comportement du contribuable est caractérisé par un degré élevé de faute, prenant la forme de la connaissance ou de la mauvaise conduite insouciante.
+[26] Il est également bien établi que la faute lourde peut comprendre l’« ignorance volontaire » [aussi appelée «aveuglement volontaire»]. Cette notion bien connue en droit criminel a été expliquée par le juge Cory de la Cour suprême du Canada dans l’arrêt R. c. Hinchey, [1996] 3 R.C.S. 1128. Selon la règle, si une partie qui a des soupçons omet délibérément de se renseigner davantage parce qu’elle désire demeurer dans l’ignorance, elle est réputée être au courant.
+[27] Il est depuis longtemps établi que la notion d’« aveuglement volontaire » est applicable aux affaires fiscales et est comprise dans le sens de l’expression « faute lourde » utilisée au paragraphe 163(2) de la Loi; voir l’arrêt Canada c. Villeneuve, 2004 CAF 20, et l’arrêt Panini c. Canada, 2006 CAF 224, au paragraphe 43.
+[28] Pour établir la distinction entre la négligence ordinaire et la faute lourde, il faut examiner plusieurs facteurs, à savoir :
+a) l’importance de l’omission relative au revenu déclaré;
+b) la faculté du contribuable de découvrir l’erreur;
+c) le niveau d’instruction du contribuable et son intelligence apparente;
+d) l’effort réel de se conformer à la loi.
+Aucun facteur n’est prédominant. Il faut accorder à chacun de ces facteurs le poids qui lui convient dans le contexte de l’ensemble de la preuve (voir la décision DeCosta c. La Reine, 2005 CCI 545, au paragraphe 11; la décision Bhatti c. La Reine, 2013 CCI 143, au paragraphe 24; et la décision McLeod c. La Reine, 2013 CCI 228, au paragraphe 14).
+[29] Dans le jugement Torres c. La Reine, 2013 CCI 380, le juge Miller a fait un examen très approfondi de la jurisprudence touchant les pénalités pour faute lourde applicables en vertu du paragraphe 163(2) de la Loi. Il a résumé au paragraphe 65 les principes directeurs à appliquer, à savoir :
+a) La connaissance d’un faux énoncé peut être déduite d’un aveuglement volontaire.
+b) La notion d’aveuglement volontaire peut être appliquée aux pénalités pour faute lourde prévues par le paragraphe 163(2) de la Loi […]
+c) Pour savoir s’il y a eu ou non aveuglement volontaire, il faut tenir compte du niveau d’instruction et d’expérience du contribuable.
+d) Pour conclure à un aveuglement volontaire, il doit y avoir eu nécessité de s’informer, ou soupçon d’une telle nécessité.
+e) Les facteurs laissant supposer la nécessité de s’informer avant la production d’une déclaration […] comprennent ce qui suit :
+i) l’importance de l’avantage ou de l’omission;
+ii) le caractère flagrant du faux énoncé et la facilité avec laquelle il peut être décelé;
+iii) l’absence, dans la déclaration elle-même, d’une attestation du spécialiste qui a établi la déclaration;
+iv) les demandes inusitées du spécialiste;
+v) le fait que le spécialiste était auparavant inconnu du contribuable;
+vi) les explications inintelligibles du spécialiste;
+vii) le point de savoir si d’autres personnes ont eu recours au spécialiste ou ont fait des mises en garde à l’encontre de ce dernier, ou le point de savoir si le contribuable lui-même hésite à s’en ouvrir à d’autres.
+f) Le dernier critère de l’aveuglement volontaire est le fait que le contribuable ne s’enquiert pas auprès du spécialiste pour comprendre la déclaration de revenus, ni ne s’enquiert aucunement auprès d’un tiers, ou auprès de l’ARC elle-même.
+Cette liste n’est certainement pas exhaustive.
+[30] L’appelant est une personne intelligente détenant un diplôme d’études secondaires, qui occupait lors de son service dans la marine américaine un poste de responsabilité et qui occupe actuellement un poste de responsabilité à FedEx. Les concepts de base d’administration des affaires tels que les pertes et les profits ne sont pas complexes au point de lui échapper. Le niveau d’instruction de l’appelant n’est pas déficient au point où il puisse invoquer l’ignorance. Le niveau d’instruction, d’expérience et d’intelligence de l’appelant ne sont pas des facteurs pouvant lui permettre d’échapper à la conclusion qu’il a fait de faux énoncés dans des circonstances équivalant à faute lourde.
+[31] En l’espèce, l’appelant a, en apposant sa signature, certifié que les informations figurant dans sa déclaration étaient complètes et exactes. Bien qu’il avait le devoir de vérifier l’exactitude de sa déclaration de revenus, il ne l’a pas fait. Il l’a tout simplement signée, sans même prendre la peine de la regarder. Si l’appelant avait pris la peine de jeter un simple coup d’œil à sa déclaration de revenus, il aurait immédiatement découvert des renseignements manifestement faux. Son seul intérêt était de recevoir un remboursement d’impôts qu’il aurait prétendument payés en trop au cours des dix dernières années. Il ne s’est même pas demandé comment il se faisait que ses anciens spécialistes en déclaration de revenus de chez H&R Block, professionnels renommés, n’aient pas vu quelque chose d’aussi flagrant alors que Lloyd, l’ami qu’il s’est fait au salon de barbier, dont il ne connaît même pas le nom de famille, et des spécialistes en déclaration de revenus inconnus de chez FA, qu’il n’a jamais rencontrés, l’aient aussi facilement découvert. À mon avis, le fait d’avoir refusé de se renseigner sur le contenu de sa déclaration de revenus, même de façon générale, est non seulement une preuve d’aveuglement volontaire, mais aussi d’un comportement justifiant l’imposition d’une faute lourde.
+[32] L’appelant soutient qu’il a entièrement fait confiance à Lloyd et à FA. Il fait valoir qu’il a été trahi par Lloyd et qu’il n’est qu’une innocente victime. Dans certains cas, un contribuable peut faire porter le blâme à des professionnels négligents ou malhonnêtes auxquels il accordait sa confiance. Par exemple, dans le jugement Lavoie c. La Reine, 2015 CCI 228, les contribuables se fiaient à un avocat qu’ils connaissaient depuis plus de 30 ans, un ami digne de confiance. Il existe également d’autres exemples de ce type auxquels l’avocat de l’appelant fait référence dans son recueil de jurisprudence. Il est à noter que toutes ces décisions dépendent des faits particuliers de chaque affaire.
+[33] Cependant, on peut citer de nombreuses décisions où les contribuables n’ont pu échapper à des pénalités pour faute lourde parce qu’ils ont fait aveuglément confiance à leur spécialiste en déclarations sans au moins prendre quelques mesures pour vérifier l’exactitude des renseignements qui figuraient dans leurs déclarations de revenus. Indépendamment de l’aveuglement volontaire, les contribuables qui ne prennent aucune mesure pour vérifier l’intégralité et l’exactitude des renseignements figurant dans leurs déclarations de revenus s’exposent à des pénalités pour faute lourde.
+[34] Dans la décision Gingras c. Canada, [2000] A.C.I. no 541 (QL), tout comme en l’espèce, les appelants ont affirmé avoir toujours agi de bonne foi et avoir cru que l’entreprise de leur spécialiste en déclarations était responsable et fiable, ajoutant qu’ils avaient peu ou n’avaient pas de connaissances en matière fiscale. Le juge Tardif a écrit ceci :
+19 Le fait d’avoir recours à un expert ou à quelqu’un qui se présente comme tel, n’excuse en rien la responsabilité de ceux qui attestent, par leur signature, la véracité de leur déclaration.
+20 Les appelants ont signé une déclaration de revenus qui contenait des renseignements faux et mensongers et ne peuvent prétendre que cela a été fait à leur insu. Ils avaient l’obligation de s’assurer que toutes [sic] les informations et renseignements contenus dans leur déclaration étaient véridiques. Dans l’hypothèse où la théorie soumise par Ratelle [le spécialiste en préparation de déclarations de revenus], à l’effet que tout contribuable avait droit, une fois durant sa vie, à une exemption totale d’impôt, ce qui n’est pas le cas, cela ne leur permettait pas ni ne justifiait pour autant de soumettre de faux énoncés pour se prévaloir du supposé privilège.
+Il a ajouté ce qui suit :
+30 L’imputabilité des faux renseignements fournis dans une déclaration de revenus incombe au signataire de la dite [sic] déclaration et non au mandataire qui l’a complété [sic], peu importe ses compétences ou qualifications.
+31 En matière de pénalités, le fardeau de la preuve incombe à l’intimée. La prépondérance de la preuve soumise a largement établi que les appelants avaient soumis dans leur déclaration respective des faux énoncés importants ayant des effets significatifs sur leur fardeau fiscal. Il s’agissait d’éléments dont ils ne pouvaient pas ignorer la fausseté. Le Tribunal peut comprendre que les contribuables puissent être incapables, inexpérimentés et incompétents quand vient le temps de préparer leur déclaration de revenus. Par contre, il est tout à fait répréhensible d’attester par sa signature que les renseignements fournis sont exacts alors que l’on sait ou devrait savoir qu’elle contient de faux énoncés. Un tel comportement est suffisant pour conclure à une faute lourde justifiant l’imposition des pénalités applicables.
+[Non souligné dans l’original.]
+[35] Dans le jugement DeCosta, précité, le juge en chef Bowman a affirmé ceci :
+12 […] Même si son comptable doit assumer une certaine part de responsabilité, je ne crois pas que l’on peut dire que l’appelant peut signer nonchalamment sa déclaration et passer outre à l’omission d’un montant qui représente presque le double du montant qu’il a déclaré. Une attitude aussi cavalière va au-delà du simple manque d’attention.
+[36] Dans la décision Laplante c. La Reine, 2008 CCI 335, l’appelant, tout comme en l’espèce, a omis d’examiner sa déclaration de revenus avant de la signer. Cela a été considéré comme une faute lourde. Le juge Bédard a écrit ceci :
+15 De toute façon, je suis d’avis que la négligence de l’appelant (soit le fait de ne pas examiner du tout ses déclarations de revenus avant de les signer) était assez grave pour justifier l’épithète « lourde » qui est quelque peu péjoratif [sic]. L’attitude de l’appelant était si cavalière en l’espèce qu’elle traduisait une indifférence totale au respect de la Loi. L’appelant n’a‑t‑il pas admis que, s’il avait examiné ses déclarations de revenus avant de les signer, il aurait nécessairement décelé les nombreux faux énoncés qui y apparaissaient, énoncés qui auraient été faits par monsieur Cloutier? L’appelant ne peut pas se dégager ici de sa responsabilité en pointant du doigt son comptable. En tentant de se soustraire ainsi à toute responsabilité à l’égard de ses déclarations de revenus, l’appelant se trouve à rejeter négligemment du revers de la main les responsabilités, les devoirs ou les obligations que lui impose la Loi. En l’espèce, la Loi imposait au minimum à l’appelant l’obligation de jeter un coup d’œil sur ses déclarations de revenus avant de les signer, d’autant plus qu’en l’espèce il a admis que cet examen rapide lui aurait permis de déceler les faux énoncés que son comptable avait faits.
+[Non souligné dans l’original.]
+[37] Dans le jugement Brown c. La Reine, 2009 CCI 28, le juge Bowie a affirmé ceci :
+20 Par ailleurs, pour ce qui est des pénalités pour faute lourde imposées à l’appelant en vertu de la Loi de l’impôt sur le revenu, l’appelant a lui-même clairement affirmé au début de son témoignage qu’il n’avait jamais porté attention aux revenus et aux dépenses indiqués dans les déclarations pour les quatre années en cause lorsqu’il les signait. L’appelant a dit qu’il conservait ses dossiers, préparait des tableaux de ventilation à partir de ses dossiers et qu’il donnait les tableaux à une spécialiste en déclarations de revenus, qui se servait des documents qu’elle recevait de l’appelant pour préparer les déclarations de revenus de ce dernier. La spécialiste n’a pas témoigné, mais, si l’on se fie à la version des faits de l’appelant, il reste que l’appelant était quand même tenu d’examiner ses déclarations de revenus avant de les signer et de les produire auprès du ministre. La déclaration que le contribuable fait lorsqu’il signe sa déclaration de revenus est ainsi rédigée :
+J’atteste que les renseignements donnés dans cette déclaration et dans tous les documents annexés sont exacts, complets et révèlent la totalité de mes revenus [...]
+Le fait de signer une déclaration de revenus et de faire, par le fait même, la déclaration précitée sans même vérifier le contenu de la déclaration – ce qu’a fait l’appelant, si j’ai bien compris son témoignage – constitue, à lui seul, une faute lourde qui justifie l’imposition des pénalités.
+[Non souligné dans l’original.]
+[38] La décision rendue par le juge Bédard dans l’affaire Gélinas c. La Reine, 2009 CCI 136, est particulièrement pertinente. Il a déclaré ce qui suit :
+11 À mon avis, l’appelant a aussi commis une faute lourde en 2004. En effet, je suis d’avis que la négligence de l’appelant (soit le fait de ne pas examiner du tout sa déclaration avant que son comptable ne la fasse parvenir à l’Agence des douanes et du revenu du Canada) était assez grave pour justifier l’épithète « lourde » qui est quelque peu péjorative. L’attitude de l’appelant était si cavalière en l’espèce qu’elle traduisait une indifférence totale au respect de la Loi. Si l’appelant avait examiné sa déclaration de revenu pour l’année d’imposition 2004, il aurait nécessairement décelé le faux énoncé qui y apparaissait (énoncé qui aurait été fait par son comptable) compte tenu de l’ordre de grandeur des revenus non déclarés et des autres facteurs analysés ci-haut. L’appelant ne peut pas se dégager ici de sa responsabilité en pointant du doigt son comptable. En tentant de se soustraire ainsi à toute responsabilité à l’égard de ses déclarations de revenu, l’appelant se trouve à rejeter négligemment du revers de la main ses responsabilités, les devoirs et les obligations que lui impose la Loi. En l’espèce, la Loi imposait au minimum à l’appelant l’obligation de jeter un coup d’œil sur sa déclaration de revenu pour l’année d’imposition 2004 avant que son comptable ne l’expédie, d’autant plus qu’en l’espèce un examen rapide lui aurait permis, à mon avis, de déceler le faux énoncé que son comptable aurait fait.
+[Non souligné dans l’original.]
+[39] Dans le jugement Brochu c. La Reine, 2011 CCI 75, la Cour a maintenu les pénalités pour faute lourde imposées à une contribuable qui s’était simplement fiée aux déclarations de sa comptable que tout était en règle. La contribuable a affirmé avoir rapidement feuilleté sa déclaration de revenus et a prétendu qu’elle ne comprenait pas les termes « revenus d’entreprise » et « crédit », mais elle n’a pourtant posé aucune question à sa comptable ni à qui que ce soit d’autre pour s’assurer que ses revenus et ses dépenses étaient correctement comptabilisés. Le juge Favreau de la Cour était d’avis que, parce que la contribuable n’avait pas songé à la nécessité de s’informer, elle avait été négligente, ce qui constituait une faute lourde. Cette affaire n’est pas très différente de celle en l’espèce.
+[40] Dans la décision Janovsky c. La Reine, 2013 CCI 140, la juge V. A. Miller a déclaré ceci :
+22 L’appelant dit avoir passé en revue sa déclaration avant de la signer et ne pas avoir posé de questions. Il a déclaré qu’il faisait confiance aux FA car il s’agissait d’experts en fiscalité. Cette déclaration est, selon moi, peu vraisemblable. Il a assisté à une seule réunion avec les FA en 2009. Il n’avait jamais entendu parler de ces derniers auparavant et, pourtant, entre la réunion qu’il a eue avec eux et la production de sa déclaration en juin 2010, il n’a jamais posé de questions sur les FA. Il n’a mis en doute ni leurs titres de compétence ni leurs prétentions. Dans son désir de toucher un remboursement élevé, l’appelant n’a pas essayé de se renseigner sur eux.
+23 Compte tenu du niveau d’instruction de l’appelant et de l’ampleur du faux énoncé qu’il a fait dans sa déclaration de 2009, je suis d’avis que l’appelant savait que les montants indiqués dans sa déclaration étaient faux.
+24 Si je me trompe et si l’appelant n’a pas fait sciemment ce faux énoncé, je conclus dans ce cas qu’il a fait montre d’aveuglement volontaire. S’il est vrai qu’il ne comprenait pas la terminologie qu’ont utilisée les FA dans sa déclaration ni la façon dont les FA avaient calculé ses dépenses, il avait dans ce cas le devoir de se renseigner auprès de personnes étrangères aux FA. Dans un régime d’autocotisation tel que le nôtre, l’appelant avait le devoir de s’assurer que son revenu et ses dépenses étaient correctement déclarés. Notre régime d’imposition est fondé sur un système d’autodéclaration et d’autocotisation, et son succès dépend de l’honnêteté et de l’intégrité des contribuables : R c. McKinlay Transport Ltd., [1990] 1 RCS 627. L’attitude cavalière de l’appelant témoigne d’un tel degré de négligence ou d’aveuglement volontaire qu’elle doit être qualifiée de faute lourde : Chénard c. La Reine, 2012 CCI 211.
+[Non souligné dans l’original.]
+[41] Dans le jugement Bhatti, précité, le juge C. Miller a fait remarquer ce qui suit :
+30 […] Il est tout simplement insuffisant d’affirmer ne pas avoir vérifié ses déclarations. Confier aveuglément ses obligations à quelqu’un d’autre sans même une vérification minimale de l’exactitude de la déclaration va au-delà de l’imprudence. Donc, même si elle n’a pas sciemment omis de déclarer le revenu, elle a certainement adopté l’attitude cavalière du laisser-aller. [...]
+[42] Un autre exemple récent est donné dans la décision Atutornu c. La Reine, 2014 CCI 174, où les contribuables ont simplement signé leurs déclarations de revenus là où l’on leur avait indiqué de signer, se sont aveuglément fiés aux conseils de leur spécialiste sans lire ni examiner leurs déclarations et n’ont fait aucun effort pour vérifier l’exactitude de leurs déclarations de revenus. Le juge Jorré a conclu que les pénalités pour faute lourde imposées en vertu du paragraphe 163(2) étaient appropriées dans les circonstances.
+Conclusion [43] On ne peut contester que la déclaration de revenus de 2008 de l’appelant contient de faux énoncés, étant donné qu’il n’exploitait aucune entreprise et qu’il n’a subi absolument aucune perte d’entreprise, a fortiori des pertes s’élevant à plus de 281 000 $. Par suite de l’examen de l’ensemble de la preuve et de la jurisprudence récente, je conclus que l’appelant a fait de faux énoncés dans sa déclaration de revenus ou y a participé, consenti ou acquiescé dans des circonstances équivalant à faute lourde. Il lui convenait de laisser à Lloyd et à FA le soin de s’occuper de tout et n’a rien fait pour vérifier l’exactitude des renseignements inscrits dans sa déclaration de revenus. Il a tout simplement signé sa déclaration là où l’on lui a dit de signer, sans y jeter un coup d’œil. Ce faisant, il a attesté qu’elle contenait des renseignements complets et exacts, ce qui n’était pas le cas. Il avait le devoir de remplir sa déclaration avec soin et exactitude, mais il a failli à ce devoir en ne faisant absolument aucun effort pour s’assurer que les renseignements inscrits dans sa déclaration de revenus étaient exacts et complets. Sans grand effort, il aurait rapidement et facilement découvert les renseignements manifestement faux qui figuraient dans la déclaration de revenus. L’appelant a non seulement fait preuve de négligence, mais il a également commis une faute lourde. Il est donc à juste titre assujetti aux pénalités imposées en vertu du paragraphe 163(2) de la Loi.
+[44] Son appel est rejeté pour l’ensemble des motifs qui précèdent. L’intimée a droit à ses dépens.
+Signé à Kingston (Ontario), ce 18e jour d’avril 2016.
+« Rommel G. Masse »
+Le juge suppléant Masse
+Traduction certifiée conforme
+ce 7e jour de décembre 2016.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2016 CCI 100
+No DU DOSSIER DE LA COUR :
+2012-5179(IT)G
+INTITULÉ :
+TERRANCE SLEDGE c. LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 2 décembre 2015
+MOTIFS DU JUGEMENT :
+L’honorable Rommel G. Masse, juge suppléant
+DATE DU JUGEMENT :
+Le 18 avril 2016
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Jeffrey Radnoff
+Avocat de l’intimée :
+Me Laurent Bartleman
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Me Jeffrey Radnoff
+Cabinet :
+Dioguardi Tax Law
+Mississauga (Ontario)
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

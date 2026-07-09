@@ -1,0 +1,323 @@
+Title: Gladwin Realty Corporation v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/365737/index.do
+Corpus path: corpus/cases/tcc/2019/2019-tcc-62-365737-gladwin-realty-corporation-v-the-queen-en.md
+Document type: case_law
+Last modified: 2019-04-18
+
+# Gladwin Realty Corporation v. The Queen
+
+- Citation: 2019 TCC 62
+- Decision date: 2019-04-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4311, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gladwin Realty Corporation v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-04-18
+Neutral citation
+2019 TCC 62
+File numbers
+2016-1733(IT)G
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Income Tax Act
+Notes
+A correction was made on April 25, 2019
+Decision Content
+Docket: 2016-1733(IT)G
+BETWEEN:
+THE GLADWIN REALTY CORPORATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on January 23, 2019, at Montreal, Quebec.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Counsel for the Appellant:
+Wilfrid Lefebvre
+Jonathan Lafrance
+Counsel for the Respondent:
+Marie-France Camiré
+Natalie Goulard
+Dominic Bédard-Lapointe
+AMENDED JUDGMENT
+The Appeal is dismissed, with costs, in accordance with the attached reasons for judgment.
+This Judgment is issued in substitution of the Judgment dated March 21st, 2019.
+Signed at Ottawa, Canada, this 18th day of April 2019.
+“Robert J. Hogan”
+Hogan J.
+Citation: 2019 TCC 62
+Date: 2019-04-18
+Docket: 2016-1733(IT)G
+BETWEEN:
+THE GLADWIN REALTY CORPORATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+Hogan J.
+I. OVERVIEW
+[1] The Gladwin Realty Corporation Inc. (the “Appellant”) carries on a commercial real estate business. The Appellant’s indirect shareholders are all of the same member’s family (the “Individual Shareholders”).
+[2] Sometime in the Appellant’s 2007 taxation year, the Appellant decided to sell a commercial real estate property that it had acquired in Ottawa and held for a long time (the “Property”). The evidence shows that the Appellant consulted its long-standing tax advisor (the “Tax Advisor”) to devise a plan to minimize the amount of tax payable in connection with the sale of the Property and to maximize the distribution of the net proceeds of the sale to the Individual Shareholders.
+[3] The Tax Advisor proposed a plan (the “Plan”) that would enable allegedly, the Appellant, to distribute the full amount to the Individual Shareholders as a tax-free capital dividend of the capital gain realized on the sale of the Property.
+[4] To achieve the above result, a complex series of transactions were implemented to generate two capital gains, and a capital loss to offset one of the gains. This involved first, causing the Appellant to transfer the Property to a newly formed limited partnership next, having the Partnership sell the Property, and then causing the Partnership to distribute a portion of the proceeds of the sale to the limited partner prior to its first year end. Critical to the Plan was the treatment provided for under subsections 40(3.1) and (3.12) of the Income Tax Act (the “Act”).
+[5] The series of transactions was carefully orchestrated so that the capital loss was realized after the Appellant had distributed the entire capital gain to its direct corporate shareholder as a tax-free capital dividend. The end result was that the Appellant paid corporate income tax on one capital gain yet the Individual Shareholders would eventually stand to receive a tax-free distribution equal to the entire capital gain.
+[6] Upon completion of the audit of the Appellant’s taxation year ended on September 30, 2008 (the “2008 Taxation Year”), the Minister of National Revenue (the “Minister”) issued a Notice of Determination (the “Notice”) pursuant to subsection 152(1.11) and the general anti-avoidance rule (the “GAAR”) found at section 245 of the Act to reduce the Appellant’s capital dividend account (“CDA”) by $12,155,827, an amount equal to one-half of the second capital gain (the “Excessive Amount”). I surmise that, if the Appeal fails, the Appellant will be assessed a penalty under subsection 184(2) of the Act unless an election is made under subsection 184(3) to treat the excessive capital dividend as a taxable dividend for the Appellant’s corporate shareholder. [1] This is an appeal from the Minister’s determination.
+II. FACTUAL BACKGROUND
+[7] The parties essentially agree on the underlying facts and have submitted to the Court a Joint Book of Documents as well as a Partial Agreed Statement of Facts (“PASF”). The PASF is appended to these reasons as Appendix A. The Respondent also called the Tax Advisor to testify at the hearing.
+[8] The parties agree that there are a “Tax Benefit” and “Avoidance Transactions” for the purpose of the GAAR. They disagree, however, as to whether the Avoidance Transactions in this case (the “Avoidance Transactions”) are abusive which is required to trigger the application of the GAAR. There is no dispute between the parties with regard to the fact that the Excessive Amount should be subtracted from the Appellant’s CDA with effect prior to the payment of the capital dividend should I find that the GAAR applies.
+Key Transactions
+[9] Below, I highlight the key transactions as they were implemented, with a particular focus on the relevant provisions of the Act that were relied upon to achieve the Tax Benefit.
+[10] On February 6, 2007, Gladwin GP Inc. (“GP”) was incorporated.
+[11] Subsequently on March 1, 2007, the Appellant and GP created the Gladwin Limited Partnership (the “Partnership”).
+[12] The Partnership’s fiscal year ends were designated so that the Partnership had two fiscal year ends that fell within the Appellant’s 2008 Taxation Year. This ensured that the Appellant would be subject to tax only on the first capital gain in its 2008 Taxation Year. The Partnership’s first fiscal period was designated to end on October 1, 2007 (the “First Fiscal Year End”). The Partnership’s second fiscal period was designated to end on September 29, 2008 (the “Second Fiscal Year End”).
+[13] On April 10, 2007, the Appellant transferred the Property to the Partnership on a tax-free rollover basis under subsection 97(2) of the Act. As a result of this transaction, the Appellant became the sole limited partner of the Partnership. This step ensured that the capital gain that would arise on the sale of the Property would be realized by the Partnership rather than by the Appellant directly.
+[14] On June 22, 2007, the Partnership entered into an agreement of purchase and sale of the Property with Canadian Urban Limited. The sale was completed on August 8, 2007, before the Partnership’s First Fiscal Year End.
+[15] The sale gave rise to a capital gain in the amount of $23,346,822 (the “First Capital Gain”), one-half of which was added to the Appellant’s CDA.
+[16] On August 8, 2007, the Partnership lent $24,463,142 to the Appellant’s direct shareholder, Shabholdings Inc. (“Shabholdings”), and received a promissory note (the “Shabholdings Note”).
+[17] On September 26, 2007, the Appellant was discontinued under the Canada Business Corporations Act and continued under the BVI Business Companies Act, 2004. Prior to its discontinuance, the Appellant was a Canadian-controlled private corporation (“CCPC”) as defined in the Act. As a result of its discontinuance, it gave up its CCPC status. However, after this step, the Appellant remained a private corporation and a Canadian corporation resident in Canada. Initially, the Tax Advisor tried to explain that this step was undertaken to limit director’s liability concerns (as the BVI Business Companies Act, 2004 was allegedly a more friendly statute in this respect). However, the Tax Advisor quickly admitted that the real reason behind it was the avoidance of the additional tax (the “Additional Tax”) on investment income (which includes taxable capital gains) under section 123.3 of the Act. The Tax Advisor acknowledged that this was beneficial because the Appellant would have been unable to recover part of the Additional Tax under the refundable dividend tax on hand mechanism (the “RDTOH Mechanism”) since the entire capital gain was to be distributed as a capital dividend. [2] The Tax Advisor’s testimony appeared to me to be scripted and rehearsed. He attempted to provide non-tax reasons for each of the Avoidance Transactions. I did not find him to be credible in this regard.
+[18] On September 28, 2007, the Partnership distributed $24,647,301 to the Appellant (the “Distribution”). As a result of the Distribution, the Appellant’s adjusted cost base (“ACB”) of its partnership interest became negative by an amount of $24,311,654 by virtue of the application of paragraph 53(2)(c) of the Act.
+[19] Consequently, on October 1, 2007, a capital gain in the amount of the negative ACB of the Appellant’s interest in the Partnership ($24,311,654) was deemed to have been realized by virtue of the application of subsection 40(3.1) (the “Second Capital Gain”), which allegedly resulted in an increase of $12,155,827 in the Appellant’s CDA. The Appellant’s ACB of its partnership interest became to nil.
+[20] Immediately after the Partnership’s First Fiscal Year End, the Appellant’s share of the First Capital Gain, as well as its share of the income earned by the Partnership during its fiscal period, was allocated to the Appellant. An amount of $11,673,410 was added to the Appellant’s CDA and the ACB of the Appellant’s interest in the Partnership was increased to an amount of $24,352,695 as a result of this allocation, pursuant to subparagraph 53(1)(e)(i).
+[21] Following the above, the entire amount of the capital gain realized on the sale of the Property was effectively added to the Appellant’s CDA. Then, on May 30, 2008, the Appellant declared and paid a capital dividend to Shabholdings in the amount of $23,829,237, which resulted in a corresponding increase in Shabholdings’ CDA. The Appellant paid the dividend by distributing a portion of the Shabholdings Note.
+[22] In its tax return for its 2008 Taxation Year, the Appellant elected to realize a capital loss (the “Offsetting Capital Loss”) equal to the amount of the Second Capital Gain pursuant to subsection 40(3.12) of the Act. As a result of the election, the Appellant avoided paying income tax on the Second Capital Gain.
+[23] The above transactions illustrate that the Avoidance Transactions were carried out with clockwork precision for the purpose of creating the Second Capital Gain and the Offsetting Capital Loss in order to allow the Appellant to distribute the entire amount of the First Capital Gain as a tax-free capital dividend. The PASF and the viva voce and documentary evidence in the record, considered together, confirm that the Avoidance Transactions were specifically designed to achieve this result. [3]
+[24] Generally, my overall impression of the Tax Advisor’s testimony is that it was centred on establishing (to no avail) that there were primarily non-tax reasons for the transaction steps. Given the sophistication of the Plan and its carefully synchronised steps, it is clear that the Plan was implemented to achieve the Tax Benefit. The Tax Advisor’s testimony initially also appeared to contradict the concession made by the Appellant that the key transactions were Avoidance Transactions as defined in the Act. For this reason and those discussed in paragraph 17 above, I have concluded that no weight should be given to the Tax Advisor’s testimony. [4]
+[25] Additionally, the Partnership’s role in the Avoidance Transactions was clearly transitory in nature. The Property was transferred to the Partnership on April 10, 2007 and sold shortly thereafter on June 22, 2007. The proceeds of sale were loaned to the direct shareholder on August 8, 2007 and the Distribution occurred on September 28, 2007. The short time between these steps demonstrates that the Partnership structure was established and used for the purpose of securing the Tax Benefit for the Appellant.
+III. POSITIONS OF THE PARTIES
+[26] The Respondent submits that the Avoidance Transactions are abusive because they violate an observable policy in the Act that prohibits eligible corporations from paying in respect of capital gains excessive capital dividends that escape taxation under sophisticated tax planning arrangements.
+[27] According to the Respondent, the purpose of the provisions of the Act that govern the payment of capital dividends (the “CDA Mechanism”) is to ensure that a capital gain is taxed in the same manner, whether it is earned directly by an individual or indirectly through a corporation. The CDA Mechanism is not intended to allow over-integration, which is the result achieved by the Appellant under the Avoidance Transactions in the absence of the application of the GAAR.
+[28] In contrast, the Appellant argues that the Avoidance Transactions are not abusive because they produce results that are mandated under the Act. First, the Appellant disputes the Respondent’s characterization of the Second Capital Gain as artificial. In this regard, the Appellant observes that a partnership interest is capital property capable of producing capital gains and losses if disposed of separately. Likewise, a partner is subject to tax on that partner’s allocated share of a capital gain realized by virtue of the disposition of capital property by a partnership. The Appellant submits that both gains realized by the Appellant are real economic gains that reflect economic realities. The Appellant further notes that in many instances the treatment mandated under subsection 40(3.1) could give rise to double taxation.
+[29] According to the Appellant, Parliament, in enacting subsection 40(3.1), intended to dissuade limited partners from withdrawing capital from a partnership in excess of the limited partner’s ACB. If that happens, a capital gain is deemed to arise under subsection 40(3.1). The taxable portion of the capital gain must be reported by the limited partner like all other capital gains that may arise in connection with the disposition of a partnership interest. Likewise, at the time the Avoidance Transactions were implemented, the Act also allowed for the non-taxable portion of the capital gain to be added to a corporation’s CDA balance, regardless of whether or not the taxable capital gain would ultimately be subject to corporate income tax. Similarly, at that time, where a capital loss was deemed to arise under subsection 40(3.12), the Act provided that the non-deductible portion of the capital loss was to be subtracted from a corporation’s CDA balance, regardless of whether or not the capital loss was effectively used to offset a taxable capital gain. These additions and subtractions are to be made at the particular time that the capital gain and loss were deemed to arise.
+[30] The Appellant further suggests that the CDA Mechanism allows taxpayers to benefit from timing differences between the realization of capital gains and losses. The CDA simply tracks capital gains and losses as they are realized. A taxpayer can dispose of capital property first and add the non-taxable portion of the capital gain to the taxpayer’s CDA. A capital dividend may then be declared from the account. A capital loss can then be realized in connection with the disposition of a separate property. If a capital loss is realized after the payment of the aforementioned capital dividend, the benefit associated with the receipt of a capital dividend is not clawed back under the Act. At this point, it is somewhat trite to observe that technical compliance with the provisions of the Act is a given before the GAAR is considered to come into play. [5]
+[31] The Respondent does not dispute the Appellant’s assertion that the CDA Mechanism allows private corporations to benefit from timing strategies. According to the Respondent, what is offensive in the instant case is that the Second Capital Gain was intentionally created by causing the Property to be sold by the Partnership in a manner that deliberately caused subsection 40(3.1), a specific anti-avoidance provision, and subsection 40(3.12), an relieving provision, to apply. This was done for the purpose of artificially inflating the balance of the Appellant’s CDA so that the entire amount of the First Capital Gain could be paid out as a tax-free capital dividend. Accordingly, this result violates the principle of integration that is embedded in the provisions of the Act that govern the payment of capital dividends and is inconsistent with the underlying rationale of subsections 40(3.1) and 40(3.12) of the Act.
+IV. ANALYSIS
+A. Interpretation under the GAAR
+[32] As noted above, the Appellant concedes that the transactions in the Series of Transactions were Avoidance Transactions within the meaning of subsection 245(3) of the Act. Therefore, the sole issue that I must decide is whether the Avoidance Transactions can be found to be abusive. To determine this question, I must apply a two-step approach.
+[33] The first step involves identifying the object, spirit and purpose of the relevant rules. Statutory interpretation under the GAAR differs from traditional word-based interpretation. [6] Whereas, under the traditional rule of statutory interpretation, the analysis seeks to determine what the meaning of a provision is, under the GAAR, statutory interpretation is used to determine the object, spirit or purpose of the provision. [7] The object, spirit or purpose is the rationale underlying the provision. Transactions may be found to be abusive of a provision’s underlying rationale, even though they are consistent with the literal, contextual and purposive meaning of the words of the statute. [8]
+[34] The second step requires determining whether the avoidance transaction falls within or frustrates that rationale. In this regard, it is necessary to understand how the taxpayer relied on the statute and to identify the overall result of the avoidance transaction.
+[35] A transaction will be considered abusive tax avoidance (1) when a taxpayer relies on specific provisions of the ITA to achieve an outcome those provisions seek to prevent (2) when a transaction defeats the underlying rationale of the provisions relied on or (3) when a transaction circumvents the application of certain provisions, such as specific anti-avoidance rules, in a manner that frustrates or defeats the object, spirit or purpose of those provisions. [9] The Minister bears the burden of persuasion in this respect, with the benefit of any doubt going to the taxpayer. [10]
+B. Interpretation of the Relevant Provisions
+[36] I begin the abuse analysis by considering the object, spirit and purpose of the provisions of the Act that are alleged to have been abused. The relevant provisions of the CDA Mechanism are subsections 83(2), 89(1) and 184(2) of the Act as well as subsections 40(3.1) and 40(3.12) of the Act (which I will refer to as the “Negative ACB Rules”). In her Amended Reply, the Respondent also alleged that paragraphs 53(1)(e) and 53(2)(c) in addition to subsections 96(1) and 97(2) of the Act were abused. At the hearing, the Respondent did not pursue the matter on that basis.
+[37] The Respondent identified in the following terms the legislative policy behind subsection 40(3.1) and 40(3.12), section 89, subsection 83(2) and section 184: [11]
+a) subsection 40(3.1) of the Act is a speciﬁc anti-avoidance provision and its object, spirit and purpose are to prevent investors in partnerships from extracting funds in excess of the cost of their investment in the partnerships, on a tax-free basis;
+b) the object, spirit and purpose of subsection 40(3.l2) is to provide relief from the application of subsection 40(3.1) and not to facilitate a series of transactions resulting in an artiﬁcial increase in a partner’s CDA account;
+[…]
+f) the object, spirit and purpose of section 89 and subsection 83(2) of the Act are to achieve integration such that the total tax incurred on income earned, both at the corporate level and at the individual shareholder’s level, is equal to the tax that would be incurred, had the individual shareholder earned the income directly. Accordingly, for capital gain purposes, the non-taxable portion of the capital gain that is added to the CDA can be distributed as a tax free dividend; and
+g) the object, spirit and purpose of section 184 of the Act is to [sic] discourage excessive CDA distribution by imposing Part III tax on such distribution, at a rate of 60%.
+(1) The CDA Mechanism
+[38] In the instant case, the Respondent has conceded that, but for the application of the GAAR, the text of the provisions at issue would allow the Appellant to claim the Tax Benefit sought under the Plan. That being said, the text remains relevant as it can shed light on the underlying rationale of the provisions. I will keep the text of the provisions in mind while analyzing their context and purpose.
+[39] It is widely accepted that a Capital Dividend Account is a notional account maintained by private corporations to keep track of certain types of tax-free surpluses accumulated over time. In this regard, the definition of “Capital Dividend Account” allows a private corporation to determine its CDA balance at a particular time so that it may elect in a prescribed form to pay a tax-free capital dividend to its shareholders without incurring a liability under Part III of the Act. To this end, CDA balance at a particular time is determined, in accordance with the definition found at subsection 89(1), by adding, inter alia, (i) the tax-free portion of capital gains, (ii) the amount of tax-free capital dividends received by the corporation from other corporations and (iii) the proceeds of certain life insurance policies and subtracting, inter alia, (iv) the non-deductible portion of capital losses and (v) capital dividend distributions made before the particular time. In 2013, subsection 89(1) was amended on a prospective basis to exclude from the computation of the CDA capital gains and losses triggered by subsections 40(3.1) and 40(3.12). I will return to this later.
+[40] If the account is positive, a private corporation may elect under subsection 83(2) to pay a tax-free capital dividend to its shareholders. If the amount in respect of which there is an election under subsection 83(2) exceeds the corporation’s CDA balance, the corporation is liable to tax under Part III on the excess amount. In that case, the capital dividend remains tax-free for the shareholders. However, under subsection 185(4), each person who receives a portion of the excess capital dividend is jointly and severally liable with the corporation for a proportionate share of the Part III tax and interest. The rate of the Part III tax has been set to roughly offset the benefit enjoyed by individual taxpayers who receive excessive capital dividends that remain tax-free in their hands.
+[41] The legislative history of the CDA Mechanism confirms that subsections 89(1), 83(2), and 184(2) were added to the Act to give partial effect to two of the recommendations contained in the 1966 Report of the Royal Commission on Taxation (the “Carter Commission”). [12] The Carter Commission proposed that capital gains be taxed as ordinary income. More importantly, the Carter Commission recommended that income should be taxed at the same rate whether it is earned directly or indirectly by a corporation. This is commonly referred to as the principle of integration.
+[42] Parliament did not implement the first recommendation fully. Rather it was decided that, in order, inter alia, to encourage investment only one-half of a capital gain should be taxed. However, consistent with the principle of integration, the CDA Mechanism was adopted to ensure that only one-half of a capital gain would be subject to income tax if the gain was realized indirectly by a private corporation. The CDA Mechanism has been described as “the quintessential expression of integration between personal and corporate income taxation with respect to the treatment of capital gains [. . .] because it ‘includes amounts that a corporation may distribute to its shareholders without triggering taxation at the shareholder level.’” [13]
+[43] Two other sophisticated integration mechanisms were added to the Act to further the policy of integration. They are the RDTOH Mechanism described briefly earlier and the dividend tax credit mechanism that allows an individual to receive a credit for a portion of the income tax that may have been borne by the corporation.
+[44] The Appellant observes that the integration mechanisms described above often fall well short of the mark. For example, an individual shareholder may enjoy the benefit of the dividend tax credit regardless of whether or not the dividend was paid out by a corporation from its taxable surpluses. Further, capital gains earned by public corporations are often subject to double tax. [14]
+[45] For these reasons, the Appellant claims that the Respondent is wrong to suggest that the underlying rationale or purpose of the CDA Mechanism is one of integration. For the Appellant, integration is, at best, a concept.
+[46] While I agree with the Appellant’s observation that there are noticeable shortcomings in the integration mechanism described above, this does not detract from the fact that subsections 89(1), 83(2) and 184(2) are intended to promote integration. These provisions allow private corporations to keep track of the tax-free portion of capital gains, determine when and how capital dividends may be paid without an additional level of tax, and penalize corporations that pay out excessive capital dividends to their shareholders.
+[47] Turning now to the legislative amendments to subsection 89(1), I find that they are not instructive in considering whether the Avoidance Transactions were abusive. In The Queen v. Oxford Properties Group Inc., [15] the Federal Court of Appeal (the “FCA”) stated that the Court must consider whether an amendment “clarifies” the law or modifies it.
+[48] If there were no legislative amendment to subsection 89(1), but for the application of the GAAR, a taxpayer would not be barred from adding amounts to or subtracting amounts from its CDA when subsections 40(3.1) and 40(3.12) apply. In contrast, the legislative amendment eliminates all additions or subtractions to the CDA following the application of these provisions, no matter the context. Accordingly, the effect of this change is much broader than the outcome that would have resulted if Parliament had left the issue to be decided through the application or non-application of the GAAR.
+(2) The Negative ACB Rules
+[49] The object, spirit and purpose of subsection 40(3.1) is understood by examining its effect, and confirmed by considering the notes released concurrently with its enactment.
+[50] Partnerships often make distributions from free cash flow or borrowings as contrasted with accumulated net income. A common example would be a professional partnership that borrows against the value of work in progress (“WIP”). Because the WIP has not been billed yet, such a distribution could cause the ACB of the partnership interest to become negative. It was for this reason that partnership interests were excluded from the application of subsection 40(3). Subsection 40(3) deems a capital gain to arise when a taxpayer’s ACB in capital property becomes negative. If the provision applied to the professional partnership, it would give rise to an unfortunate result considering that the WIP eventually would be billed in the normal course of business and the partners would pay tax on the income produced by such work.
+[51] The above said, the tax authorities discovered that tax shelter planning arrangements were often structured to take advantage of the exclusion of partnership interests from the application of subsection 40(3).
+[52] The structure of a tax-sheltered partnership investment typically involves three or four key ingredients. First, the arrangement is often structured to allow the investor to benefit from tax write-offs in excess of the amount that the partner invests from the partner’s own financial resources. A loan is typically arranged by the tax shelter promoter which is drawn down by the partner to increase the partner’s investment in the partnership. The partnership then uses the funds to incur expenses or to acquire depreciable property that qualifies for accelerated depreciation treatment. The partnership realizes a loss and the loss flows out to the partner.
+[53] The loss reduces the partner’s ACB in the partnership interest. If the arrangements are properly structured, the partner claims the loss and benefits from a tax saving that exceeds the cash invested from the partner’s own resources. The loan still remains to be repaid. If the partner simply disposes of the partnership interest, a capital gain will likely be triggered. This is unattractive from a tax savings standpoint.
+[54] In the above case, it is best to defer realization of the capital gain. In the absence of subsection 40(3.1), the partnership could make a cash distribution to its partners. The cash distribution could be funded from many different sources. It could then be used to repay the loan, leaving the realization of the deferred capital gain to a later date. Subsection 40(3.1) was enacted to prevent this very result.
+[55] Accordingly, when the ACB of a limited partner’s or other passive partner’s partnership interest becomes negative, subsection 40(3.1) of the Act deems the partner to have realized a capital gain equal to the negative ACB of the partner’s interest in the partnership at the end of the partnership’s fiscal period. [16]
+[56] Subsection 40(3.1) was specifically targeted so as not to affect the tax situation of general partners that are actively engaged in the business of the partnership. This is a situation quite different from that of a tax shelter or other passive investors. The provision applies only with respect to limited partners or specified members of a partnership who have been specified members at all times since becoming a member of the partnership. [17]
+[57] The 1994 Budget Supplementary Information describes subsection 40(3.1) as an anti-avoidance provision and explains its raison d’être as follows:
+The adjusted cost base (ACB) of a taxpayer’s property reflects the cost to a taxpayer of the property and is taken into account in computing a capital gain or loss on the sale of the property. In certain circumstances the ACB of a taxpayer’s property may become negative in which case the taxpayer is treated as having realized a capital gain. This rule generally does not apply where the property is a partnership interest; this exception recognizes that a partner’s negative ACB may result from legitimate, and possibly temporary, circumstances such as the withdrawal of partnership capital or where losses of the partnership are allocated to the partner for tax purposes.
+Certain tax shelters have been structured to utilize this exception to permit limited or passive investors to claim tax-deductible losses and receive cash distributions which exceed the amount invested: that is, to extract tax-free from the partnership more than the cost of the partnership interest to the investor. The budget proposes that limited and certain other passive partners will be required to report as a capital gain any negative ACB in their partnership interest at the end of a fiscal period of the partnership.
+These rules are a logical extension of the existing limited partnership “at-risk” rules which constrain the amount of losses that may be flowed out to an investor. In particular, the budget proposal will ensure that the at-risk rules cannot be circumvented by having partnership loss allocations precede distributions. Subject to transitional provisions, the new rules will apply to fiscal periods of partnerships ending after February 22, 1994. [18]
+[58] The above passage indicates that the purpose and effect of subsection 40(3.1) are to dissuade taxpayers from extracting from a partnership on a tax-free basis funds in excess of their investment in the partnership. When this occurs, the provision triggers a tax liability in the form of a capital gain equal to the negative ACB. The ACB is then returned to nil. [19]
+[59] In my opinion, the above demonstrates that subsection 40(3.1) was not intended to encourage taxpayers to deliberately trigger its application for the purpose of creating a capital gain which through intentional planning, would soon be offset by an offsetting capital loss by means of an election under subsection 40(3.12) of the Act as discussed immediately below.
+[60] In enacting subsection 40(3.1), the legislator was cognizant of the fact that this provision could produce harsh results in many instances. It is not uncommon for taxpayers to use limited partnership structures to carry on business in common for commercial purposes.
+[61] The following example illustrates the harsh effect of subsection 40(3.1) in the above context. In the oil and gas sector, multiple producers may pool their resources to finance downstream distribution assets such as a pipeline. [20] They may create a limited partnership for this purpose. Generally speaking, this structure affords the limited partners the benefits of limited liability. At the same time, for tax purposes, the transparent nature of the partnership allows the limited partners to consolidate the income and losses from their various business activities.
+[62] In that context, it is possible for the partnership to make cash distributions that temporarily exceed the allocation of the partners’ proportionate share of the net income. If the cash distribution causes their ACB of the partnership interest to become negative, a capital gain is deemed to arise under subsection 40(3.1) of the Act. When the differences due to timing reverse themselves, a limited partner will be subject to tax on that partner’s proportionate share of the income. This will restore the partner’s ACB to a positive amount. The purpose of subsection 40(3.12) in this context is to alleviate what would eventually amount to double taxation.
+[63] The deemed capital loss under subsection 40(3.12) is equal to the lesser of the capital gain deemed by subsection 40(3.1) and the ACB of the partner’s interest at that time. Under paragraph 111(1)(b) of the Act, the deemed loss could be carried forward up to three years to offset the capital gain created by subsection 40(3.1).
+[64] From on the above example and the technical notes accompanying the introduction of subsection 40(3.12), it is clear to me that subsection 40(3.12) is a relieving provision intended to attenuate the harsh effect mandated by subsection 40(3.1).
+[65] At the risk of sounding redundant, I observe that the above example is quite different from the facts of the present case. Here the Appellant deliberately caused subsections 40(3.1) and 40(3.12) to apply for the purpose of achieving the tax benefit at issue in this case. This result was deliberately planned out and was to be achieved (i) by having the Property transferred to a newly formed partnership for the purpose of its sale, (ii) by causing the Appellant to become a limited partner, a condition required under subsection 40(3.1), and (iii) by distributing the Shabholdings Note shortly before the First Fiscal Year End of the Partnership and making an election under subsection 40(3.12) at Second Fiscal Year End.
+[66] As noted earlier, the two year ends of the Partnership were established with clockwork precision to ensure that the Second Capital Gain and the Offsetting Capital Loss both arose in the Appellant’s 2008 Taxation Year. In addition, the First and Second Capital Gain were timed perfectly to allow the addition of two gains to the Appellant’s CDA, thus enabling the payment of the capital dividend equal to the entire amount of the First Capital Gain prior to the realization of the Offsetting Capital Loss.
+[67] In summary, subsection 40(3.1) is a specific anti-avoidance rule that was enacted to dissuade partnerships from making cash distributions to their limited partners in excess of the ACB of the limited partners’ partnership interest. That provision and the alleviating rule in subsection 40(3.12) were not enacted to encourage taxpayers to deliberately create offsetting gains and losses for the purpose of inflating their CDA.
+C. Does the overall Result of the Avoidance Transactions constitutes an Abuse of the CDA Mechanism Through a Misuse of the Negative ACB Rules?
+[68] I will now undertake the second step of the abuse analysis, namely determining whether the Avoidance Transactions fall within or frustrate the underlying rationale of the CDA Mechanism by virtue of the creation of the Second Capital Gain and the Offsetting Capital Loss under subsections 40(3.1) and 40(3.12).
+[69] It is now well established that the overall result or effect of Avoidance Transactions should be taken into account in determining whether or not such transactions fall within or frustrate the underlying rationale of the provisions relied upon to secure the tax benefit. [21] The conclusions in this case are largely based on the particular context in which the Avoidance Transactions were implemented and the result that the transactions were intended to produce. The outcome may very well be different in another context.
+[70] In Copthorne, the Supreme Court of Canada confirmed that “[w]hile the focus must be on the transaction, where it is part of a series, it must be viewed in the context of the series to enable the court to determine whether abusive tax avoidance has occurred. In such a case, whether a transaction is abusive will only become apparent when it is considered in the context of the series of which it is a part and the overall result that is achieved”. [22]
+[71] In that case, the Court observed that a vertical amalgamation would have been a reasonable and simpler course of action and concluded that a horizontal amalgamation was carried out to avoid the elimination of the paid-up capital of the subsidiary corporation that would result from a vertical amalgamation. Because this represented a duplication of the capital invested by the group in the parent corporation, the result was abusive.
+[72] In the instant case, there appears to be no dispute as to the purpose and effect of the Avoidance Transactions. In paragraph m) of the PASF, the Appellant acknowledges that its representative had discussions with its Tax Advisor and legal counsel to determine the best timing to generate two capital gains and an offsetting capital loss for the purpose of generating two increases in the Appellant’s CDA in connection with the sale of the Property while paying no tax on the Second Capital Gain. This was done intentionally by structuring the Avoidance Transactions so that they would fit within subsection 40(3.1) while benefiting from the tax relief afforded under subsection 40(3.12) of the Act.
+[73] As noted during oral argument, this is not the first time that this Court has been tasked with determining the outcome of transactions designed to artificially increase a corporation’s CDA through the realization of a capital gain that was soon thereafter offset by a matching capital loss.
+[74] In the pre-GAAR era case of 2529-1915 Québec Inc. v. The Queen (the “Four Appeals”), [23] two lawyers devised a sophisticated tax plan (the “CDA Tax Plan”) which, in their belief, resulted in the realization of a capital gain that was subsequently offset by a capital loss. The objective of the plan was to artificially increase the CDA balances of numbered corporations and subsequently transfer these amounts to arm’s length third parties in exchange for a fee.
+[75] A series of 13 newly formed corporations, each with minimal assets, was created. The first corporation, using a daylight loan, then subscribed for preferred shares in the second corporation. The second corporation, the third corporation, and so on, each in turn used the proceeds from the subscription to acquire an identical block of shares of the next corporation until the twelfth corporation had acquired the preferred shares issued by the thirteenth corporation.
+[76] The last 12 corporations then declared a stock dividend in favour of their preferred shareholder through the issuance of high value and low ACB shares.
+[77] These shares were then sold to trigger a capital gain. [24] The corporations having generated capital gains (for a cumulative gain of $109,998,900), then paid out a capital dividend. In the same taxation year, the preferred shares were sold, giving rise to offsetting capital losses.
+[78] The Tax Court struck down the CDA Tax Plan, basing its decision on the application of the doctrine of sham. The Four Appeals were dismissed by the FCA. In short, for slightly different reasons, both courts concluded that the parties never intended to create real capital gains. Thus, the requisite element of deceit was present and the transactions were found to be shams. [25]
+[79] The Appellant’s counsel argued that the decisions in the Four Appeals are not instructive in the instant case because the series of transactions in the Four Appeals was set aside on the basis of the doctrine of sham. I agree with the Appellant’s position that the Four Appeals lack precedential value in the instant case. That said, I observe that, as a general rule, it is more difficult for the Respondent to defend an assessment by relying on the application of the doctrine of sham than by invoking the GAAR.
+[80] In the former case, because the Appellant typically leads viva voce and documentary evidence to show that the transactions reflect the parties’ true intention, the Respondent is ultimately tasked with showing the opposite through the marshalling of circumstantial evidence. That evidence must show that the objective reality surrounding the transactions is quite different from the parties’ ostensible intent as set out in the documents executed to give effect to the transactions under review. Only then can the court conclude that the transactions, by reason of lack of compliance with the provisions of the Act, do not produce the tax results sought by the parties.
+[81] In the case of a GAAR challenge, the bar is somewhat lower for the reason that the debate is not centred on proving or disproving that the alleged avoidance transactions are reflective of the parties’ true intent. In the GAAR cases, it is conceded that the transactions work from a purely technical standpoint; the Crown has simply to persuade the Court that the Avoidance Transactions are abusive, considering the analysis discussed earlier.
+[82] In light of the negative outcome in the Four Appeals, it was somewhat surprising to see that some tax planners persisted in using a very similar high low stock dividend arrangement to manufacture capital losses for their clients in the post-GAAR era, as was the case with the avoidance transactions considered in Triad Gestco Ltd. v. Canada. [26] In brief, in that case, a “value shift” was implemented whereby the high value of common shares was shifted to preferred shares. The common shares then had a nominal value and high cost and they were transferred to a personal trust in order to trigger a loss. This technique was used to manufacture a paper loss to offset real capital gains. The FCA held that this plan was subject to the GAAR.
+[83] Specifically, the FCA found that the capital gains system was aimed at taxing increases in “economic power.” Further, the provisions relied upon by the taxpayer were intended to provide relief in the form of an offset against capital gains where a taxpayer had suffered an economic loss on the disposition of property. Because the taxpayer had attempted to offset a real capital gain with a paper loss, this policy of the Act was abused or misused.
+[84] I agree with the Respondent’s argument that the facts and circumstances surrounding the creation of the First and Second Capital Gains and the Offsetting Capital Loss are somewhat different from the facts and circumstances set out in Triad Gestco. The First Capital Gain is a real economic gain that arises from the sale of the Property. The Second Capital Gain is deemed to arise as a consequence of the distribution of the Shabholdings Note. Therefore, the nature of the First and Second Capital Gains in the instant case is somewhat different from the loss that was realized in the Triad Gestco case. Equally, the Offsetting Capital Loss here is slightly different from the manufactured capital loss considered in that case.
+[85] The above said, Triad Gestco is relevant because it underscores the principle that Avoidance Transactions may be found to be abusive when the overall result of the avoidance transactions conflicts with the underlying purpose of the rules in the Act that deal with the realization of capital gains and losses. In the instant case, the GAAR applies because the Avoidance Transactions were specifically designed to achieve a result that was, in the case of subsections 40(3.1) and 40(3.12), inconsistent with the rationale underlying each of those provisions and equally inconsistent with the rationale of the provisions that form part of the CDA Mechanism, for the reasons noted earlier.
+[86] Here, the Appellant achieved a result which led to significant over-integration and, but for the application of the GAAR, would have allowed the Appellant to pay a capital dividend equal to the entire capital gain realized from the sale of the Property.
+[87] According to the Appellant, the Negative ACB Rules could not have been misused or abused because the deemed capital gain and offsetting loss were results mandated under the Act. However, as I noted earlier, the Appellant carefully crafted the Avoidance Transactions to achieve this result. In Triad Gestco, the FCA rejected a similar argument. [27]
+[88] Considering all of the above, I am of the view that subsections 40(3.1) and 40(3.12) were not intended to allow the Appellant to achieve the Tax Benefit that it sought to obtain through the implementation of the Avoidance Transactions. The result that was expected through the deliberate triggering of those provisions is inconsistent with the rationale underlying each of those provisions, for the reasons noted earlier.
+[89] Similarly, the expected results of the Avoidance Transactions are also inconsistent with the CDA Mechanism, which was enacted for the purpose of achieving integration and not over-integration, for the reasons noted earlier.
+[90] For these reasons, the appeal is dismissed with costs.
+This Reasons for Judgment is issued in substitution of the Reasons for Judgment dated March 21st, 2019.
+Signed at Ottawa, Canada, this 18th day of April 2019.
+“Robert J. Hogan”
+Hogan J.
+APPENDIX A
+PARTIAL AGREED STATEMENT OF FACTS
+The Appellant and the Respondent agree on the following facts, provided that such admissions are made for the purpose of these proceedings only, and the parties are permitted to adduce additional evidence which is not contrary to these agreed facts.
+1) Background
+a) The Appellant is a corporation originally incorporated under the Business Corporations Act (Ontario) on July 18, 2001.
+b) Prior to September 26, 2007, the Appellant’s name was The Gladwin Corporation.
+c) The Appellant had taxation year ends on September 26, 2007, September 30, 2007, and September 30, 2008.
+d) As of January 1, 2003, and at all relevant times thereafter, the Appellant’s sole shareholder was Shabholdings Inc. Its sole director was Mark Shabinsky at all relevant times.
+e) At all relevant times, Shabholdings Inc.’s shareholders were:
+i. IM Shabholdings Inc., (33.33%), held in return solely by the Ian and Melissa Shabinsky Family Trust, whose beneficiaries are Ian Shabinsky, Melissa Shabinsky and the issue of Ian and Melissa Shabinsky;
+ii. ML Shabholdings Inc., (33.33%), held in return solely by the M&L Shabinsky Family Trust, whose beneficiaries are Mark Shabinsky, Lynn Shabinsky and the issue of Mark and Lynn Shabinsky;
+iii. LMA Shabholdings (No. 1) Inc., (16.67%), held in return solely by the LMA Shabinsky Family Trust, whose beneficiaries are Laya Shabinsky, Margo Shabinsky Sherman, Andrea Shabinsky Borer and the issue of Margo Shabinsky Sherman and Andrea Shabinsky Borer; and
+iv. LMA Shabholdings (No. 2) Inc. (16.67%), held in return solely by the LMA Shabinsky Family Trust, whose beneficiaries are Laya Shabinsky, Margo Shabinsky Sherman, Andrea Shabinsky Borer and the issue of Margo Shabinsky Sherman and Andrea Shabinsky Borer.
+(See the Appellant’s corporate structure on Schedule A, forming part of this Partial Agreed Statement of Facts)
+f) Sol and Laya Shabinsky are married and have four children:
+i. Mark Shabinsky;
+ii. Ian Shabinsky;
+iii. Margo Shabinsky Sherman; and
+iv. Andrea Shabinsky Borer.
+g) Mark Shabinsky is married to Lynn Shabinsky and Ian Shabinsky is married to Melissa Shabinsky.
+h) Mark Shabinsky, the Appellant, Shabholdings Inc., and the shareholders of Shabholdings Inc., were not dealing at arm’s length at all relevant limes.
+i) On July 20, 2001, the Appellant purchased land and building located at 2215 Gladwin Crescent, Ottawa, Ontario (Real Estate Assets) for the amount of $11,200,000.
+2) Transactions
+J) On February 6, 2007, Gladwin GP Inc. was incorporated, its shareholders are Mark Shabinsky (33.33%), Ian Shabinsky (33.33%) and Sol Shabinsky (33.33%), Mark Shabinsky was a director at all relevant times.
+k) The Appellant and Gladwin GP Inc., entered into a Limited Partnership Agreement, which was made effective as of March 1, 2007. The limited partnership created thereunder was named The Gladwin Limited Partnership (Partnership), Tire Appellant held initially a 99% partnership interest therein, as limited partner, and Gladwin GP Inc., held the remaining 1%, as general partner.
+l) The Partnership was created primarily for the purpose of effecting the sale of the Real Estate Assets and distributing the proceeds therefrom to the Appellant.
+m) On March 3 and on April 10, 2007, Mark Shabinsky had discussions with Jerry Wise at RSM Richter LLP and Don Brazeau at Brazeau Seller LLP to determine the best timing to generate two capital gains and therefore, two increases to the Appellant’s capital dividend account (CDA) in connection with the potential sale of the Real Estate Assets.
+n) On April 10, 2007, the Appellant entered into an Asset Rollover Agreement with the Partnership whereby the Real Estate Assets were transferred by the Appellant In consideration for the assumption by the Partnership of the mortgages related thereto and an increase in the Appellant’s limited partnership interest. The parties agreed to jointly make, execute and file the election required under subsection 97(2) ITA. The adjusted cost base of the Appellant’s interest in the Partnership was in the amount of $335,658 following such transfer.
+o) On or around April 11, 2007, it was recommended that the Partnership's fiscal period should be determined by its general partner, Gladwin GP Inc., at its sole discretion.
+p) On May 8, 2007, the Appellant entered into a listing agreement with Cushman & Wakefield Lepage in respect of the Real Estate Assets.
+q) On May 10, 2007, the Appellant was continued under the Canada Business Corporations.
+r) On June 22, 2007, Gladwin GP Inc., as general partner for the Partnership, entered into an Agreement of Purchase and Sale, whereby it agreed to sell the Real Estate Assets to Canadian Urban Limited, for the purchase price of $34,940,000.
+s) On July 4, 2007, Gladwin GP Inc.’s intent was for the Partnership to have a floating year ending on the closest Sunday to May 31st.
+t) After July 5, 2007, it was determined that the Partnership’s fiscal period would be a floating year ending on the closest Monday to September 30th.
+u) The Partnership's first fiscal periods were to end on October 1, 2007, and then, on September 29, 2008.
+v) The reasons for choosing a floating year end were for the Appellant:
+i. to benefit from the maximum deferral period for corporate tax purposes in respect of the income realized by the Partnership in its fiscal period ended October 1, 2007; and
+ii. to be in a position, within the same taxation year, to make a subsection 40(3.12) ITA election, in respect of the Partnership’s fiscal period ended on September 29, 2008, to offset the deemed capital gam generated by subsection 40(3.1) ITA, at the end of the Partnership’s fiscal period ended on October 1, 2007.
+w) The closing in respect of the sale of the Real Estate Assets occurred on August 8, 2007, and a capital gain in the amount of $23,346,822 was realized by the Partnership.
+x) On August 8, 2007, the Partnership lent $24,463,142 to Shabholdings Inc., and received a promissory note (Shabholdings Note).
+y) On September 26, 2007, the Appellant was discontinued under the Canada Business Corporations Act, continued under the BVI Business Companies Act, 2004, and changed its name to The Gladwin Realty Corporation.
+z) On September 28, 2007, before the end of the Partnership’s first fiscal period but after the continuation of the Appellant under the BVI Business Companies Act, 2004, Gladwin GP Inc., resolved to distribute an amount of $24,649,766 as follows:
+i. $2,465 to Gladwin GP Inc.; and
+ii. $24,647,301 to the Appellant.
+aa) The distribution to the Appellant was partially satisfied through the assignment of the Shabholdings Note. As a result of this distribution, the adjusted cost base of the Appellant’s interest in the Partnership became negative by an amount of $24,311,654, pursuant to subparagraph 53(2)(c)(v) of the Act.
+bb) On October 1, 2007, by virtue of subsection 40(3.1) ITA, a capital gain in the amount of the negative adjusted cost base of the Appellant’s interest in the Partnership ($24,311,654) was deemed to have been realized, thereby resulting in an increase of the Appellant’s CDA in an amount of $12,155,827. Pursuant to subparagraph 53(l)(e)(vi) ITA, the adjusted cost base of the Appellant’s interest in the Partnership became nil, as a result of an increase in the amount of the capital gain realized under subsection 40(3.1) ITA.
+cc) On October 1, 2007, the Partnership allocated the capital gain in the amount of $23,346,822, realized on the disposition of the Real Estate Assets (as well as the income realized during its 2007 fiscal period) to the Appellant, An amount of $11,673,410 was added to the Appellant’s CDA. The adjusted cost base of the Appellant’s interest in the Partnership was increased up to an amount of $24,352,695 as a result of the allocation pursuant to subparagraph 53(1)(e)(i) ITA.
+dd) On May 30, 2008, the Appellant declared a capital dividend in the amount of $23,829,237 to Shabholdings Inc., thereby resulting in a corresponding increase of Shabholdings Inc.’s CDA, The dividend was paid through the distribution of a portion of the Shabholdings Note.
+ee) On May 30, 2008, Shabholdings Inc. declared the following capital dividends to each of its shareholders, which resulted in corresponding increases to their respective CDAs;
+IM Shabholdings Inc., in the amount of $7,943,079;
+ML Shabholdings Inc., in the amount of $7,943,079;
+LMA Shabholdings (No. 1) Inc., in the amount of $3,971,540; and
+LMA Shabholdings (No. 2) Inc., in the amount of $3,971,540.
+ff) In its tax return for its taxation year ended on September 30, 2008, the Appellant elected to realize a capital loss in the amount of $24,311,653 pursuant to subsection 40(3.12) ITA, which corresponds to the capital gain realized pursuant to subsection 40(3.1) ITA earlier in that taxation year. As a result, the adjusted cost base of the Appellant’s interest in the Partnership was decreased by a corresponding amount, down to $41,041, pursuant to subparagraph 53(2)(c)(i.2) ITA.
+gg) The Appellant and the Partnership have been inactive following the transactions described herein.
+3) Series of Transactions
+hh) The following transactions constitute a series of transactions (Series of Transactions) for the purposes of subsection 248(10) ITA:
+i. The incorporation of Gladwin GP Inc. on February 6, 2007, and its utilization as the general partner of the Partnership;
+ii. The creation of the Partnership, effective as of March 1, 2007, with the Appellant as its sole limited partner;
+iii. The transfer of the Real Estate Assets to the Partnership on a rollover basis pursuant to subsection 97(2) ITA, on April 10, 2007;
+iv. The conclusion of an Agreement of Purchase and Sale in respect of the Real Estate Assets, on June 22, 2007;
+v. The decision that the Partnership fiscal period would be a floating year ending on the closest Monday to September 30, at some point after July 5, 2007;
+vi. The sale of the Real Estate Asset, on August 8, 2007, resulting a gain of $23,346,822;
+vii. The loan of $24,463,142 from the partnership to Shabholdings Inc., on August 8, 2007;
+viii. The continuation of tire Appellant under the BVI Business Companies Act, 2004, on September 26, 2007;
+ix. The distribution, on September 28, 2007, of substantially all of the Partnership’s assets to its partners, in an amount of $24,649,766;
+x. The allocation of the gain realized by the Partnership to its partners, on October 1, 2007;
+xi. The declaration of a capital dividend in the amount of $23,829,237 by the Appellant in favour of Shabholdings Inc., on May 30, 2008;
+xii. The declaration of capital dividends by Shabholdings Inc., to its shareholders in an aggregate amount of $23,829,237, on May 30, 2008; and
+xiii. The Appellant’s election under subsection 40(3.12) ITA, to offset the gain triggered by 40(3.1) on October 1, 2007.
+(See the timeline showing the most relevant steps of the Series of Transactions on Schedule B, forming part of this Partial Agreed Statement of Facts. Schedule B is appended as a Schedule to these reasons for judgment.)
+4) Tax Benefit
+ii) The Series of Transactions resulted, directly or indirectly, in a tax benefit.
+5) Avoidance Transactions
+jj) The Avoidance Transactions within the Series of Transactions described at subparagraphs hh) included the transactions described at subparagraphs i, ii, iii, v, vii, viii, xi, xii, and xiii, as they were not undertaken or arranged primarily for bona fide purposes other than to obtain a tax benefit. (the “Avoidance Transactions”)
+6) Determination Process
+kk) Throughout the course of the audit, the Canada Revenue Agency has exposed its position, at the time, to the Appellant.
+ll) The Minister issued a Notice of Determination on March 27, 2014, with respect to the Appellant’s taxation year ending September 30, 2008. Pursuant to the Notice, the Minister decreased the Appellant’s CDA available for distribution during that taxation year by $12,155,827. The Minister also issued corresponding Notices of Determination to Shabholdings Inc., IM Shabholdings Inc., ML Shabholdings Inc., LMA Shabholdings (No. l) Inc., and, DMA Shabholdings (No. 2) Inc.
+mm) The Appellant filed a Notice of Objection against the Notice of Determination on June 25, 2014.
+nn) The Minister confirmed the Notice of Determination on March 1st 2016.
+7) Related appeals
+oo) The result in the Appellant’s appeal will determine the outcome of the related appeals involving Shabholdings Inc., IM Shabholdings Inc., ML Shabholdings Inc., LMA Shabholdmgs (No. 1) Inc., and LMA Shabholdings (No. 2) Inc., all currently held in abeyance.
+SCHEDULE A - CORPORATE CHART
+CITATION:
+2019 TCC 62
+COURT FILE NO.:
+2016-1733(IT)G
+STYLE OF CAUSE:
+THE GLADWIN REALTY CORPORATION V. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+January 23, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Robert J. Hogan
+DATE OF AMENDED JUDGMENT AND REASONS FOR JUDGMENT:
+April 17, 2019
+APPEARANCES:
+Counsel for the Appellant:
+Wilfrid Lefebvre
+Jonathan Lafrance
+Counsel for the Respondent:
+Marie-France Camiré
+Natalie Goulard
+Dominic Bédard-Lapointe
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Wilfrid Lefebvre
+Jonathan Lafrance
+Firm:
+Norton Rose Fulbright
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] In this context, the tax benefit (the “Tax Benefit”) is the avoidance of Part III tax on the payment of the Excessive Amount.
+[2] Section 123.3 of the Act imposes an additional, refundable tax of 6 2/3% (2008 federal figure) on investment income of a CCPC. The purpose of the refundable tax is to ensure that investment income is taxed at approximately 50% (i.e., at a rate of similar to the top marginal personal tax rate), thus eliminating any deferral benefit. Once the CCPC pays a taxable dividend (eligible on non-eligible), it qualifies for a dividend refund equal to the lesser of 33 1/3% of the dividends paid and the balance in the RDTOH account.
+[3] Tab 10 of the Joint Book of Documents (email from Jerry Wise to Don Brazeau dated March 3, 2007) is a copy of an email sent by the Appellant’s Tax Advisor wherein the logic behind the choice of the Partnership’s two year ends is explained.
+[4] The concession made that the transactions were Avoidance Transactions must be also be weighed in the balance when judging the Tax Advisor’s credibility.
+[5] Copthorne Holdings Ltd. v. Canada, 2011 SCC 63, [2011] 3 S.C.R. 721 at para. 66 (Copthorne).
+[6] The Queen v. Oxford Properties Group Inc., 2018 FCA 30 at paras. 40-46.
+[7] Copthorne, supra note 5 at para. 70.
+[8] Ibid., at para. 109.
+[9] Ibid., at para. 72.
+[10] Ibid.
+[11] Respondent’s Amended Reply at para. 18.
+[12] Report of the Royal Commission on Taxation, 1966.
+[13] Stuart Hoegner, “The Best Things in Life are (Tax-)Free: A Current Look at the Capital Dividend Account,” Personal Tax Planning feature (2002) 50:4 Can. Tax J. 1426, at p. 1427.
+[14] As pointed out to the Appellant at the hearing, since 1972, Parliament has taken many steps to reinforce the concept of integration. For example, the taxable preferred share regime was introduced to combat after tax financing by corporations. This is achieved by causing issuers of taxable preferred shares to pay a so-called “advance corporation tax” under Part VI.1 of the Act when they pay dividends on such shares. The “term preferred share” regime is a similar mechanism that operates differently by denying the corporate dividend recipient, the inter-corporate dividend deduction under section 112.
+[15] Supra, note 6.
+[16] Subsection 40(3.11) provides the formula to be followed in calculating the exact amount of the deemed capital gain.
+[17] See subsections 40(3.13) and 40(3.14).
+[18] Canada, Department of Finance, 1994 Budget, Tax Measures: Supplementary Information, February 22, 1994, at p. 42.
+[19] See subparagraph 53(1)(e)(vi) of the Act.
+[20] Again in the oil and gas sector, a similar structure may be used where an oil producer invites a limited number of institutional investors to invest capital in a pipeline. In that case, however, the investment would further need to be structured so as to avoid the specified investment flow-through rules found in section 122.1 of the Act.
+[21] Lipson v. Canada, 2009 SCC 1 [2009] 1 S.C.R. 3, at para 34; Copthorne, supra note 5, at para. 71.
+[22] Copthorne, supra note 5, at para. 71.
+[23] 2008 FCA 398.
+[24] The arrangement used by the taxpayers in the Four Appeals is commonly referred to as a “high low stock dividend arrangement”.
+[25] Under the doctrine of sham, the legal relationships that are purported to exist are ignored if the evidence shows that they are different from the legal relationships, if any, that the parties truly intended to create among themselves. In my view, in deciding the Four Appeals, the FCA was influenced, inter alia, by the artificiality of the transactions carried out to inflate the various corporations’ CDA accounts.
+[26] 2012 FCA 258, [2014] 2 F.C.R. 199, (Triad Gestco).
+[27] Triad Gestco, supra note 26, at paras. 40 and 41. See also 1207192 Ontario Limited v. The Queen, 2012 FCA 259 and The Queen v. Global Equity Fund Ltd., 2012 FCA 272.

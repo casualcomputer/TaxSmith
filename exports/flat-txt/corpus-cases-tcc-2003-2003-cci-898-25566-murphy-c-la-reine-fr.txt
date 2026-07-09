@@ -1,0 +1,74 @@
+Title: Murphy c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25566/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-898-25566-murphy-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2003-12-22
+
+# Murphy c. La Reine
+
+- Citation: 2003 CCI 898
+- Decision date: 2003-12-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2465, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Murphy c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-12-22
+Référence neutre
+2003 CCI 898
+Numéro de dossier
+2003-1430(IT)I
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2003CCI898
+Date : 20031222
+Dossier : 2003‑1430(IT)I
+ENTRE :
+STEPHEN J. MURPHY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Pour l’appelant : L’appelant lui‑même Avocat de l’intimée : Me Eric Sherbert
+____________________________________________________________________
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience
+à Hamilton (Ontario), le 24 octobre 2003.)
+Le juge McArthur
+[1] Le ministre du Revenu national a refusé la déduction qu’a demandée l’appelant pour l’année d’imposition 2001 au titre d’un crédit d’impôt non remboursable au montant de 6 923 $ relativement à un montant pour conjoint au motif que son épouse avait déclaré un revenu net pour cette année de 27 598,92 $. La question en litige consiste à savoir si le revenu de 27 598,92 $ que son épouse a généré et perçu en 1995 peut être considéré à titre de son revenu pour l’année 2001 en vertu du sous‑alinéa 118(1)a)(ii) de la Loi de l’impôt sur le revenu. Pour trancher cette question en litige, la Cour doit interpréter le terme « revenu ». Les faits ne sont pas contestés.
+[2] L’appelant est ingénieur à la retraite, et son épouse, Megan Murphy, est une physiothérapeute retraitée. Le revenu net de 27 598,92 $ qu’a déclaré Megan dans sa déclaration de revenus pour l’année 2001 représentait la somme reportée de l’année 1995 conséquemment à une modification apportée aux dispositions législatives concernant la date de clôture de l’exercice pour les professions médicales. Selon l’appelant, le revenu reporté de l’année 1995 correspondait à l’impôt payable sur le revenu et non le revenu en soi qui a été en fait perçu en 1995 et non en 2001. Si l’objectif de la déduction au titre de montant pour conjoint vise à fournir un soutien aux particuliers qui, en fait, subviennent aux besoins d’un conjoint qui n’a généré aucun revenu pour une année donnée, l’appelant déclare que l’appel devrait être accueilli.
+[3] Selon l’intimée, le revenu net de l’épouse de l’appelant était de 27 598 $ pour l’année 2001, ce qui correspond au montant que représente la lettre C dans la formule que prévoit le sous‑alinéa 118(1)a)(ii) de la Loi. En conséquence, l’appelant est privé de la déduction d’un crédit d’impôt non remboursable au titre d’un montant pour conjoint en vertu de l’alinéa 118(1)a) pour l’année d’imposition 2001. L’alinéa 118(1)a) stipule en partie ceci :
+118(1) Le produit de la multiplication du total des montants visés aux alinéas a) à e) par le taux de base pour l'année est déductible dans le calcul de l'impôt payable par un particulier en vertu de la présente partie pour une année d'imposition;
+a) si, à un moment de l'année, le particulier est marié ou vit en union de fait
+et subvient aux besoins de son époux ou conjoint de fait dont il ne vit pas séparé pour cause d'échec de leur mariage ou union de fait, la somme de 7 131 $ et du résultat du calcul suivant :
+où :
+6 055 $ - (C – 606 $)
+C représente 606 $ ou, s'il est plus élevé, soit le revenu de l'époux ou conjoint de fait pour l'année soit, si le particulier et son époux ou conjoint de fait vivent séparés à la fin de l'année pour cause d'échec du mariage ou union de fait, le revenu de l'époux ou conjoint de fait pour l'année pendant le mariage ou union de fait et alors qu'ils ne vivaient pas séparés;
+[…]
+[4] La question en litige découle de l’application des articles 34.1 et 34.2 de la Loi. L’épouse de l’appelant était une physiothérapeute qui a fourni ses services en tant que travailleuse autonome jusqu’au milieu de l’année 2000. L’objectif de l’article 34.1 en vigueur après 1994 visait à mettre fin à la pratique qui consistait à reporter un revenu gagné pendant un exercice pour presque une année additionnelle. Suivant l’entrée en vigueur de cette nouvelle disposition législative, un particulier peut être imposé sur presque deux années pour un revenu gagné pendant une année.
+[5] En conséquence, l’application des paragraphes 34.1(1) et 249.1(4) permet à un contribuable d’étaler ses revenus pour l’année 1995 ou 1996 sur un certain nombre d’années, selon une formule prévue à cette fin. Megan Murphy s’est prévalue des avantages prévus aux articles 34.1 et 34.2 et a donc déclaré les revenus gagnés en 1995 pour l’année d’imposition 2001. En fait, elle n’a généré aucun revenu en 2001, puisqu’elle a pris sa retraite vers le milieu de l’année 2000. Comme il a été mentionné précédemment, le paragraphe 118(1) est en partie rédigé ainsi : « Le produit de la multiplication du total des montants visés aux alinéas a) à e) par le taux de base pour l’année est déductible […] » et pour l’époux ou le conjoint de fait, sous la lettre C qui renvoie à la formule « C représente 606 $ ou, s’il est plus élevé, soit le revenu de l’époux ou conjoint de fait pour l’année [...] ». Le nœud du litige en l’espèce est le terme « revenu » et consiste à déterminer si la somme de 27 598 $ déclarée pour l’année d’imposition 2001 constitue le revenu de l’épouse de l’appelant.
+[6] D’autres définitions figurent notamment au paragraphe 34.2(6) qui est en partie rédigé ainsi :
+34.2(6) Aucun montant n'est déductible en application du paragraphe (4) dans le calcul du revenu qu'un contribuable tire d'une entreprise pour une année d'imposition dans les cas suivants :
+a) […]
+c) le contribuable est un particulier et, selon le cas :
+(i) au début de l’année, l’entreprise n’est pas exploitée principalement par le particulier ou par les associés d’une société de personnes dont il est un associé,
+[…]
+L’intimée déclare que ce paragraphe prive l’appelant du droit de réclamer une déduction au motif que Megan Murphy n’exploitait plus une entreprise en 2001. À mon avis, ce paragraphe fait référence au contribuable qui réclame une déduction et non à l’épouse de ce dernier. De même, je reviens au terme « revenu », tel qu’il apparaît dans l’alinéa 118(1)c) de la Loi. Il n’est pas stipulé qu’il s’agit du « revenu gagné » pendant l’année où la déduction est demandée. On fait simplement référence au « revenu ». Que pourrait être la somme de 27 598 $ sinon un revenu? Ce fait est admis. Le paragraphe ne prévoit aucune restriction quant au terme « revenu ».
+[7] L’épouse de l’appelant a déclaré un revenu de 27 598 $ pour l’année 2001, et je ne peux ignorer le sens clair et ordinaire du terme « revenu », comme il est mentionné au paragraphe. Par conséquent, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 22e jour de décembre 2003.
+« C. H. McArthur »
+Juge McArthur
+Traduction certifiée conforme,
+ce 15e jour d’avril 2004.
+Nancy Bouchard, traductrice

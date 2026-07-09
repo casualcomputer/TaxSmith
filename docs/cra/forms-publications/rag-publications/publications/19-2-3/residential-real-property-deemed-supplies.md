@@ -1,0 +1,792 @@
+---
+title: "Residential Real Property - Deemed Supplies"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/19-2-3/residential-real-property-deemed-supplies.html
+last_modified: 2025-03-03
+---
+# Residential Real Property - Deemed Supplies
+
+GST/HST memorandum 19.2.3 June 1998
+
+Overview
+
+Certain provisions of the Act deem that a sale of residential real property has taken place. These deemed sales are usually a deemed self-supply when certain properties are first leased under particular conditions or a deemed sale due to a change in use of the residential real property. Deemed sales of residential real property are discussed under the following headings:
+
+- [Self-supply of a residential complex](#P53_1524)
+
+    - ["Rent-to-own" vs "sale"](#P172_10267)
+
+    - [Emphyteutic or life leases](#P302_16902)
+
+    - [Self-supply where land leased and building sold](#P362_19704)
+
+    - [Termination of condominium agreement](#termination)
+
+    - [Fair market value](#P412_23270)
+
+- [Exceptions to the self-supply rules for residential complexes](#P492_28058)
+
+    - [Personal use by builder](#P497_28119)
+
+    - [Student residence](#P513_29335)
+
+    - [Communal organizations](#P524_30018)
+
+    - [Remote work site election](#P535_30701)
+
+- [Self-supply of a residential trailer park](#supply)
+
+- [Self-supply of land leased for other residential purposes](#P695_396)
+
+- [Non-substantial renovation](#P745_43451)
+
+- [Change-in-use](#P847_47825)
+
+    - [Property converted to residential use](#P897_49695)
+
+    - [Property appropriated for personal use](#P928_51761)
+
+    - [Changes in the personal use of a residential complex](#changes)
+
+    - [Changes in non-personal use of a residential complex](#P1013_55798)
+
+    - [Changes affecting a residential complex used in commercial activity](#P1046_58650)
+
+    - [Real property credit](#P1071_60573)
+
+- [Self-supply vs change-in-use](#P1096_62547)
+
+- [Appendix: Calculating the Real Property Credit](#appendix)
+
+Disclaimer
+
+The information in this memorandum does not replace the law found in the *Excise Tax Act* and its Regulations. It is provided for your reference. As it may not completely address your particular operation, you may wish to refer to the Act or appropriate Regulation, or contact a Canada Revenue Agency (CRA) GST/HST Rulings Centre for more information. These centres are listed in GST/HST Memorandum 1.2, [Canada Revenue Agency GST/HST Rulings Centres](https://www.canada.ca/E/pub/gm/1-2/README.html). If you wish to make a technical enquiry on the GST/HST by telephone, please call the toll-free number 1-800-959-8287.
+
+If you are located in the Province of Quebec, please contact Revenu Québec by calling the toll-free number 1-800-567-4692 for additional information.
+
+## Self-supply of a residential complex
+
+General rules ss 191(1) ss 191(3)
+
+1. If a builder constructs or substantially renovates a residential complex that is:
+
+- a single-unit residential complex,
+
+- a residential condominium unit, or
+
+- a multiple-unit residential complex,
+
+and subsequently supplies
+
+- the single-unit residential complex,
+
+- the residential condominium unit, or
+
+- a residential unit in the multiple-unit residential complex
+
+by way of lease, licence or similar arrangement for use by an individual as a place of residence, the builder is deemed to have sold and repurchased (i.e., self-supplied) the residential complex at its fair market value generally when the unit is first rented. In the case of a multiple-unit residential complex, such as an apartment building, the builder is treated as having sold and repurchased the whole of the residential complex, i.e., the whole apartment building, at its fair market value generally when the first unit is first rented.
+
+2. If a builder constructs or substantially renovates a residential complex that is:
+
+- a single-unit residential complex,
+
+- a residential condominium unit, or
+
+- a multiple-unit residential complex
+
+in the course of the builder's business and then occupies
+
+- the single-unit residential complex,
+
+- the residential condominium unit, or
+
+- one of the units in the multiple-unit residential complex
+
+as his or her own place of residence, the same treatment applies: the builder is deemed to have sold and repurchased (i.e., self-supplied) the residential complex at its fair market value.
+
+Addition to multiple unit residential complex ss 191(4)
+
+3. This self-supply rule also applies to cases where a builder sells a building or part of the building in which the residential unit is located but the related land is the subject of a ground lease (see paragraphs 31 and 32) and to the construction or substantial renovation of an addition to a multiple-unit residential complex. For example, if a new floor or wing is added to a multiple-unit residential complex, the builder is treated as having sold and repurchased the addition at its fair market value.
+
+4. When a builder is deemed to have self-supplied a property, the builder is required to account for the GST/HST based on the fair market value of the complex in calculating the builder's net tax. (For a discussion of fair market value, see paragraphs 35 to 45.)
+
+Purpose of self-supply rules: level playing field
+
+5. The self-supply rules outlined in paragraphs 1 to 4 apply only to "builders" and their purpose is to remove the potential tax advantage a builder would have in constructing or substantially renovating a residential complex and then offering the residential complex for rent or appropriating it for the builder's personal use. A person who is not a builder who wanted to do the same would have to purchase the new or substantially renovated residential complex in a completed state from a builder and would have to pay GST/HST on the purchase. In the absence of the self-supply rules, the builder who constructs or substantially renovates a residential complex would generally experience a competitive advantage through tax savings on the non-taxable value that is added to the residential complex, such as the value of employed labour, financing costs and profit which would otherwise be realized through the sale price established by a builder who sells the residential complex.
+
+6. The precise meaning of builder is significant to the application of the self-supply rules. See Section 19.2, *Residential Real Property* for a discussion of the meaning of builder along with other terms used in this section of Chapter 19.
+
+Applies to lease, licence or similar arrangement subpara 191(1)(b)(i)
+
+7. Note that the self-supply rules that apply to a supply of a residential complex are triggered only if the supply is by way of lease, licence or similar arrangement. The self-supply rules are not triggered if the supply of the residential complex is made under an agreement of purchase and sale. (For a discussion of cases where the building is sold and the land is leased, see paragraphs 29 to 32.)
+
+Exception for personal use ss 191(5)
+
+8. The self-supply rules that apply to a residential complex that is a single-unit residential complex or a residential condominium unit are triggered where a builder who is an individual occupies the complex as a place of residence if the builder has claimed input tax credits (ITCs). For information on the exemption that exists for a builder who is an individual and who builds his or her own residential complex or that of the builder's former spouse, a relative or, effective January 1, 2001, a former common-law partner, see paragraphs 46 and 47.
+
+Time of liability: single-unit residential complex and residential condominium unit
+
+para 191(1)(d)
+
+9. In the case of a newly constructed or substantially renovated single-unit residential complex or residential condominium unit, the builder must generally self-assess GST/HST on the fair market value of the particular unit and its related land and common areas at the time possession of the unit is given to a person under a lease, licence or similar arrangement entered into for the purpose of an individual occupying the unit as a place of residence.
+
+Time of liability: multiple-unit residential complex or an addition to a multiple-unit residential complex para 191(3)(d)
+
+10. In the case of a newly constructed or substantially renovated multiple-unit residential complex or addition to a multiple-unit residential complex, the builder must generally self-assess GST/HST on the fair market value of the whole of the substantially completed multiple-unit residential complex or addition when possession of the first unit is given under a lease, licence or similar arrangement as a place of residence of an individual.
+
+Timing and substantial completion ss 191(9)
+
+11. Generally, substantial completion occurs before occupancy is given to the first individual. For GST/HST purposes, "substantial completion" means that the construction or substantial renovation of the complex is at a stage of completion (generally, 90% or more) so that an individual is able to reasonably inhabit the premises. Minor repairs, adjustments or upgrades that are still outstanding do not reasonably impair the use and enjoyment of the housing unit as a place of residence. If possession is given before substantial completion, the tax liability does not arise from self-supply until the time of substantial completion. In any case, substantial completion is deemed to occur no later than the time when 90% of the units in the complex are occupied.
+
+Head leases ss 191(10)
+
+12. Note that if a builder of a residential complex leases:
+
+- a single unit residential complex,
+
+- a unit in a multiple unit residential complex,
+
+- a unit in an addition to a multiple unit residential complex,
+
+- land that will be used for exempt residential purposes, or
+
+- a site in a residential trailer park
+
+to a person who subleases the property, the builder may be required to self-assess if the person who sublets the property is doing so for exempt residential purposes. These exempt residential purposes are either to have an individual occupying the premises as a place of residence for at least one month or to provide short-term accommodation at a cost of $20 or less per day. The builder is required to self-assess when possession is given to the first occupant of the premises. In effect, the builder is treated as if the builder were leasing directly to the first tenant of the premises, regardless of the number of sub-leases intervening between the builder and the eventual tenant.
+
+Lease triggers liability
+
+13. In most cases, the triggering of GST/HST liability upon possession of the complex being given under a lease, licence or similar arrangement means that the builder and the person have entered into a written lease. Nevertheless, an unwritten lease, i.e., a verbal agreement, might exist that would trigger the GST/HST liability based on the fair market value of the property on the date that the person takes possession under the lease.
+
+Registrants ss 169(1) Non-registrants s 257
+
+14. A registrant builder is generally entitled to claim ITCs on costs incurred with respect to the construction of the complex. If a builder is not a registrant, a rebate of GST/HST related to acquisition and construction costs may be claimed at the time of self-supply. (See Section 19.3.6, *Rebate on Non-Registrant's Sale of Real Property*.)
+
+No ITC
+
+15. The builder cannot claim ITCs for expenses in respect of the property incurred after the time of the self supply if the property is being used for personal use or in exempt activities-either as a personal residence of the builder or leased under a long-term residential lease.
+
+### "Rent-to-own" vs "sale"
+
+Policy statement P-164*Rent to own agreements* Policy statement P-111,*Meaning of Sale*
+
+16. Rent-to-own agreements are subject to a wide range of terms and conditions. Because the self-supply rules apply only where there is a supply by way of lease, licence or similar arrangement, it is necessary to determine if a rent-to-own agreement represents a supply by way of sale or a supply by way of lease, licence or similar arrangement. In determining if the self-supply rules apply, it is important to distinguish between two categories of agreements:
+
+- a binding purchase and sale agreement with a transfer of ownership at or before the end of a specified period of occupancy, or
+
+- a lease, licence or similar arrangement with an option to purchase the unit at any time within the occupancy period.
+
+Type 1: binding purchase and sale agreement
+
+17. The first category of rent-to-own agreements (those which involve a transfer of ownership at or before the end of a specified period of occupancy) generally trigger a sale of the property for GST/HST purposes when possession is first transferred to the recipient under the agreement. A "sale" in respect of property is defined in section 123 to include "any transfer of the ownership of the property and a transfer of the possession of the property under an agreement to transfer ownership of the property".
+
+Sale or lease
+
+18. Factors which may indicate a sale of the property for GST/HST purposes include:
+
+- the agreement for the transfer of possession is referred to and understood by both parties to be a purchase and sale of the complex;
+
+- the recipient acquires legal title to the property after payment of a specified amount or after a specified period of time;
+
+- the recipient is required to buy the property from the supplier during or at the termination of the occupancy period;
+
+- a deposit is paid at the time the agreement is entered into and the deposit is to be applied to the balance due on sale of the property;
+
+- payments under the agreement are referred to as instalments, interest or similar amounts;
+
+- reference in the agreement is made to the new housing rebate entitlement; and
+
+- the recipient is liable for property taxes, utility payments and other amounts payable in respect of the property.
+
+19. A rent-to-own agreement may constitute a sale of the real property if the agreement is the basis on which ownership of the property is subsequently transferred. A supply is considered to be by way of sale, for example, where:
+
+- the rent-to-own agreement contains a binding purchase and sale clause;
+
+- possession is given under an agreement to transfer the ownership of the complex to the recipient; or
+
+- at the option of the purchaser, ownership of the complex may be transferred back to the vendor within a specified period of time, provided the agreement to transfer ownership to the purchaser is binding upon the vendor and purchaser.
+
+20. Each of the agreements described above constitutes a sale of property because each results in a binding transfer of ownership of the property or the transfer of possession of the property under a binding agreement to transfer ownership of the property.
+
+Type 2: option to purchase
+
+21. A rent-to-own agreement in the second category (those which involve a lease, licence or similar arrangement with an option to purchase the residential complex at any time within or at the conclusion of the occupancy period) does not normally constitute a sale. If the agreement does not directly result in the current or intended transfer of ownership of the property, the transaction is generally considered to be a lease, licence or similar arrangement, and not a sale, in respect of the property.
+
+22. If the agreement does not result in a sale as discussed above, the builder may be liable for tax under the self-supply provisions of section 191 on the fair market value of the residential complex at the time possession is given to a person for the purpose of occupancy under a lease, licence or similar arrangement by an individual as a place of residence.
+
+An individual enters into a binding rent-to-own agreement with the builder of a newly constructed residential complex. The agreement states that the individual will take possession of the residential complex at the outset of the agreement, but the sale will not be closed and title will not be transferred until the end of the rental period.
+
+The agreement between the builder and the individual is considered to be an agreement of purchase and sale. A sale is considered to have occurred when possession of the complex is given to the individual under an agreement to transfer the ownership of the complex. The self-supply rules of section 191 do not apply because the recipient is a purchaser under an agreement of purchase and sale of the complex and possession of the complex is given under an agreement of purchase and sale.
+
+#### Example 2
+
+An individual enters into an agreement with a builder to acquire a newly constructed residential complex. Under the agreement, the individual will take possession of the complex on a particular date and title will be transferred on payment of the balance due. The individual and the builder agree to the legal relationship of landlord and tenant in respect of the complex until transfer of ownership. The builder provides a guarantee at the option of the individual to "buy back" the complex for a stated price within a year after the initial transfer of ownership. This agreement constitutes a sale for GST/HST purposes.
+
+#### Example 3
+
+An individual enters into an agreement with a builder to take possession of a newly constructed residential complex for a period of one year as the individual's place of residence. The individual is required to make monthly payments throughout the year. The agreement also contains an option to purchase the complex which can be exercised at any time within one year of occupancy by the individual.
+
+This agreement constitutes a supply by way of lease, licence or similar arrangement for GST/HST purposes and the builder will be required to account for tax on the self-supply that occurs under section 191 when possession of the complex is given to the individual. If the individual exercises the option to purchase the complex, the sale of the complex will be exempt under section 4 of Part I of Schedule V (sale of a residential complex by a builder who had been liable for tax under the self-supply rules).
+
+Further information
+
+23. For further information, see the discussion on the meaning of "sale" contained in section 19.1, *Real Property and the GST/HST*. See also the next topic in this section, "Emphyteutic or life leases".
+
+### Emphyteutic or life leases
+
+Policy statement P-174
+
+24. A supply of real property under an emphyteutic lease is considered a supply of real property by way of lease, licence or similar arrangement for GST/HST purposes.
+
+25. An emphyteutic lease is a type of lease which is found in civil law in the Province of Quebec. In some respects, it is similar to long-term leases found in common law provinces. Essentially, an emphyteutic lease is a lease wherein the lessor permits a lessee to use the land (and any immovables on it) for a given period of time (not less than 10 years, nor more than 100 years) in return for consideration.
+
+26. The consideration has two components: 1) monetary consideration as rent, and 2) consideration from the undertaking of construction or improvements or both that will increase the value of the property. At the end of the lease period, all improvements made to the land by the lessee revert to the lessor (with or without compensation to the lessee for the improvements.)
+
+27. The consideration payable in respect of the arrangement includes both the monetary rental amount and the value of the construction or improvements or both to the land. The timing of liability rules for supplies by way of lease, licence or similar arrangement apply in respect of the applicable consideration. Depending on the circumstances, sections 190 (conversion of real property to residential use) or 191 (self-supply of residential complex) may apply to trigger the self-supply rules.
+
+28. An agreement which was initially characterized as an emphyteutic lease may lose that characterization during the lease period, e.g., as a result of the triggering of default provisions in the agreement. Regardless of the characterization of the agreement as an emphyteutic lease or an ordinary lease, the agreement is still considered to be a lease for the purposes of the Act and not a sale.
+
+An emphyteutic lease agreement is for a term of 99 years. The lessor agrees to grant the lease subject to the following terms:
+
+- the lessee undertakes to construct certain structures on the property;
+
+- when the agreement expires, the lessor will become the owner of all buildings and improvements on the property without compensation to the lessee;
+
+- certain wrongs (which include failure by the lessee to pay instalments of rent, taxes or insurance premiums, or any other amount payable under the agreement on the due date), if not righted within specified limits, will lead to default and possibly termination of the agreement by the lessor; and
+
+- the lessor has the right to cancel the agreement if the lessee has not started construction by a certain date.
+
+The supply made under this agreement is considered to be a supply of real property by way of lease, license or similar arrangement for purposes of the GST/HST.
+
+### Self-supply where land leased and building sold
+
+Single unit residential complex or residential condominium unit subpara 191(1)(b)(ii)
+
+29. Subparagraph 191(1)(b)(ii) applies the self-supply rules to builders who give possession of a single-unit residential complex or residential condominium unit under an arrangement whereby the residential unit (i.e., building or unit) is sold, but the related land is leased. Builders in such cases are required to self-assess GST/HST on the fair market value of the building and the land at the later of the time construction or substantial renovation is substantially complete and the time possession of the complex is given to the purchaser. In this case, the sale of the building or unit to the purchaser is an exempt supply under section 5.1 of Part I of Schedule V (where the lease of the land included in the complex is a supply exempted by subparagraph 7(a)(i) of Part I of Schedule V). See the discussion of exempt sales in Section 19.2.1, *Residential Real Property- Sales* in this chapter.
+
+Rebate for purchase of residential unit (building only) s 254.1
+
+30. The purchaser may be entitled to claim a GST/HST new housing rebate based on the consideration payable for the residential unit (building only). For a complete discussion, see Section 19.3.2, *Rebate for Builder-Built Unit (Land Leased)*.
+
+Multiple unit residential complex subpara 191(3)(b)(i.1)
+
+31. Effective November 26, 1997, the self-supply rules are imposed on a builder if the builder gives possession of a residential unit in a multiple unit residential complex, such as an apartment building, under an arrangement whereby the building or part of the building in which the residential unit is located is sold, but the related land is leased. The builder is required to account for tax on the fair market value of the land and building. The self-supply rules apply unless possession is given under a written sale agreement that was entered into before November 26, 1997.
+
+Addition to multiple unit residential complex subpara 191(4)(b)(i.1)
+
+32. Similarly, the self-supply rules are imposed on a builder of an addition to an existing multiple unit residential complex, e.g., a new floor or wing, if the builder gives possession of a residential unit in the addition under an arrangement whereby the part of the building in which the residential unit is located is sold, but the related land is leased. The builder is required to account for tax on the fair market value of the land and that part of the building. The self-supply rules apply unless possession is given under a written sale agreement that was entered into before November 26, 1997.
+
+### Termination of condominium agreement
+
+Termination of agreement ss 191(2)
+
+33. A builder may incur a tax liability arising from the self-supply of a residential condominium unit under the following conditions:
+
+- the builder of a substantially completed residential condominium unit gives possession of the unit to the purchaser under an agreement of purchase and sale,
+
+- this possession is given after 1990 and before the condominium complex is registered, and
+
+- the agreement is terminated (otherwise than by performance of the agreement) without entering into a new agreement after the purchaser has occupied the unit or resupplied it by way of lease.
+
+34. In this situation, the builder is liable to pay GST/HST on the fair market value of the unit at the time the agreement is terminated. A subsequent sale of the condominium unit is exempt under section 4 of Part I of Schedule V (sale of a complex previously self-supplied by the builder).
+
+### Fair market value
+
+ss 123(1) & [s 154][Notice of Ways and Means Motion, November 26, 1997]
+
+35. "Fair market value" is the fair market value of a property less any applicable GST/HST [and provincial levies such as land transfer tax. The provincial levies that are excluded when determining the fair market value of real property are listed in the *Taxes, Duties and Fees (GST/HST) Regulations*].
+
+Policy statement P-165
+
+36. Generally, the Department's view is that the fair market value represents the highest price, expressed in terms of money or money's worth, obtainable in an open and unrestricted market between knowledgeable, informed and prudent parties acting at arm's length, neither party being under any compulsion to transact.
+
+Fair market value
+
+37. When self-assessing on the fair market value of real property, three aspects of the fair market value are relevant:
+
+- the objects of fair market value appraisals,
+
+- the factors affecting measurements of value, and
+
+- the methods.
+
+Objects
+
+38. The provisions of section 191 specify the objects that are deemed to be self-supplied. The fair market value of these objects is the basis of the self-assessments. The objects that would be assessed under these provisions include a residential complex, a residential condominium unit, a single unit residential complex and a multiple unit residential complex, and an addition to a multiple-unitresidential complex. Except for this last item, these are defined in the Act. To comply with the requirements to self-assess under section 191, the definitions in the Act must be used to describe the object of the fair market value appraisal.
+
+39. The objects also include the related land, common areas, and appurtenances to the building or addition.
+
+40. The Department generally looks to the legal description of the property to identify it. However, the objects of self-assessments as defined by the Act do not always coincide with the legal description of real property that is used to register the property at a provincial land registry or land titles office.
+
+For example, a residential complex includes only the land subjacent and immediately contiguous to the building that is reasonably necessary for its use and enjoyment as a place of residence. This amount of land is generally considered to be a half hectare. If there is a residential complex on 10 hectares, the legal description of a property may consist of the plan and lot number or a surveyed outline. That legal description will not coincide with the definition of a residential complex pursuant to subsection 123(1). For GST/HST purposes, when the builder supplies the residential complex by way of lease, licence or similar arrangement, section 136 may deem that there are two supplies. One supply is of a residential complex with the land that is reasonably necessary for its use and enjoyment as a place of residence and the other supply is the remaining land that is not part of the residential complex. (For additional discussion of the amount of land that forms part of a residential complex, see Section 19.2.1, *Residential Real Property-Sales*. For examples of the application of section 136, see Section 19.1, *Real Property and the GST/HST*.)
+
+Factors
+
+41. Many factors affect the value of a property: a location near schools, services or transportation, picturesque views, the age of the house, a quiet neighbourhood, the size of the house or indoor access to a garage. Other factors may be of legal nature such as zoning that permits an office in a house or a liability for sewer obstructions.
+
+42. An encumbrance is a factor that can limit the use of the property or impose an obligation on the owner. It may cause a reduction in the fair market value of the property.
+
+Methods
+
+43. Professional appraisers generally use three methods or approaches to determine fair market value: the cost method, the direct comparison method, and the discounted cash flow method (also called the income method). Different approaches may be used for different components of the object being appraised. Revenue Canada recognizes that no method should be excluded categorically.
+
+44. Although there is no legislative requirement for any person required to self-assess to hire an appraiser, if Revenue Canada disagrees with the value used for self-assessment purposes, it may request its own appraisal.
+
+Appraisals
+
+45. As noted in paragraph 35, fair market value is the fair market value before adding taxes such as GST/HST. If an appraisal is obtained, it is always advisable to ensure that the appraisal states that the amounts shown exclude the GST/HST and other taxes as required by section 154.
+
+## Exceptions to the self-supply rules for residential complexes
+
+### Personal use by builder
+
+Self-supply rules do not apply ss 191(5)
+
+46. The self-supply rules do not apply if the builder is an individual and if, after the construction or substantial renovation of a residential complex or addition to a residential complex is substantially completed, it is used primarily (more than 50%) as the builder's place of residence (or that of another individual who is a former spouse, a relative or, effective January 1, 2001, a former common-law partner), provided that the builder did not claim any ITCs in respect of the construction or substantial renovation. The residential complex or addition cannot have been used for any other purpose between the time the construction or substantial renovation is substantially completed and the time it is used primarily as the builder's place of residence.
+
+47. The builder may trigger the self-supply rules by claiming the available ITCs on the costs of construction or substantial renovation, including those related to the purchase of the land. If a builder has paid tax under the self-supply rules, a new housing rebate may be available under section 256, but only in respect of the amount of tax paid or payable pursuant to the self-supply rules.
+
+### Student residence
+
+Exception ss 191(6)
+
+48. A university, public college or school authority that is the builder of a newly constructed or substantially renovated residential complex or an addition to a residential complex is not subject to the self-supply rules if the complex or addition is constructed, acquired, or substantially renovated primarily for the purpose of providing a place of residence for students attending the university, college or school. Note that a "school authority" includes a private school at the elementary or secondary level, that meets the standards of educational instruction established by the government of the province in which the school is operated.
+
+### Communal organizations
+
+Exemption ss 191(6.1)
+
+49. If the construction or substantial renovation of a residential complex or addition to a residential complex is carried out exclusively for the purpose of providing a place of residence for members of a community, society or body by a builder to whom section 143 of the *Income Tax Act* applies (e.g., a religious community), the self-supply rules will not apply. This exemption from the self-supply rules is similar to the exemption provided in respect of university residences. Such organizations cannot claim ITCs on the GST/HST costs incurred in constructing the complex (e.g., materials, acquisition of the land, construction services).
+
+### Remote work site election
+
+Election ss 191(7)
+
+50. A registrant builder of a residential complex may elect to deem the supply of a residential complex at a remote work site not to be a supply and the occupation of the complex not to be occupation as a place of residence or lodging. The effect of this election is to defer GST/HST payable under the self-supply rules in section 191. This election may be made in respect of the construction, substantial renovation, addition to, or acquisition of the residential complex by the builder if, at the time of the election, an individual who is
+
+- an employee of the registrant,
+
+- a contractor of the registrant,
+
+- a subcontractor of one the contractors, or
+
+- an employee of a contractor or subcontractor,
+
+is required to be at the work location to carry out his or her work duties and cannot reasonably be expected to establish and maintain a self-contained, domestic establishment at that work location because of its remoteness from any established community.
+
+Availability of ITCs
+
+51. The builder may claim ITCs for ongoing inputs to maintain and run the complex until such time as the complex is sold or supplied by way of lease, licence or similar arrangement primarily (more than 50%) to persons who are not listed in the preceding paragraph or not related to such individuals.
+
+Policy statement P-090
+
+52. The election may also be available if the self-contained domestic establishment could not be established and maintained for other reasons such as financial difficulties of the employee, contractor, sub-contractor or one of the employees of the contractor or sub-contractor, lack of community services or lack of available housing. However, one of the reasons that the self-containeddomestic establishment cannot reasonably be expected to be established and maintained at the work location must be that the work location is remote from an established community.
+
+Same as *Income Tax Act*, but not "special work sites"
+
+53. The meaning of "remoteness from any established community" and "self-contained domestic establishment" in subsection 191(7) are interpreted in the same manner as such phrases are interpreted for the purpose of subparagraph 6(6)(a)(ii) of the *Income Tax Act*. Note that the remote work site election does not apply to "special work sites".
+
+Remoteness - the general rule
+
+54. As a general rule, a work location without available housing at the location is considered "remote" if the nearest established community with a population of 1,000 or more is no closer than 80 kilometres by the most direct route normally travelled in the circumstances. Cases not meeting this general rule are not necessarily disqualified from the election; each can be considered on its own merits.
+
+55. When determining whether a work location is in fact remote from an established community, factors such as the following should be considered:
+
+- the size of the community and available housing at the work location,
+
+- the availability of transportation,
+
+- the distance from an established community, and
+
+- the time required to travel that distance.
+
+Established community
+
+56. The term "established community" is interpreted to mean a body of people who reside in the same locality and who are permanently settled in that location. Where an established community is in an area which is not "remote" (based on the general rule) from a work location, the location may still meet the requirements of being a remote work site if community services and available housing are limited to the extent that workers could not reasonably be expected to establish and maintain a self-contained domestic establishment at that community. Where there is more than one established community located in an area which is not remote from a work location, the sum total of the services and housing available in all established communities should be considered.
+
+Self-contained domestic establishment ss 123(1)
+
+57. The Act defines "self-contained domestic establishment" as having the same meaning as in subsection 248(1) of the *Income Tax Act.* That subsection defines self-contained domestic establishment to mean: "a dwelling-house, apartment, or other similar place of residence in which place a person as a general rule sleeps and eats".
+
+A GST/HST registrant engineering company begins work on the construction of a power plant in northern Saskatchewan. The company has constructed a complex at the site to house the employees who will be working on the construction of the plant and for employees subsequently involved in the operation of the plant. The community closest to the site is 120 kilometres away and has a total population of 1,200. Accordingly, the site at which the engineering company is constructing the power plant meets the requirement of "remoteness" as the site is situated more than 80 kilometres from the closest established community.
+
+#### Example 2
+
+A registrant constructs a hotel in Banff, Alberta. The registrant is required under a municipal by-law to construct an additional complex to house its employees. Banff has a population of approximately 7,000 residents. Upon completion of the complex, employees of the registrant occupy the premises as their place of residence during the eight-month period for which they are under contract with the employer.
+
+In these circumstances, the employees' premises do not satisfy the requirements of the election under subsection 191(7). The employees could reasonably be expected to maintain their own self-contained domestic establishment in Banff (an "established community") due to the size of its population and the facilities and community resources available.
+
+## Self-supply of a residential trailer park
+
+Self-supply required ss 190(4)
+
+58. Under paragraph 7(b) of Part I of Schedule V, the supply of a site in a residential trailer park for a period of at least one month by way of lease, licence or similar arrangement is an exempt supply. (See Section 19.2.2, *Residential Real Property-Rentals*.) A person who first supplies a site in a residential trailer park on this exempt basis is deemed, under subsection 190(4), to have made and received a supply by way of sale of the entire residential trailer park. The person is deemed to have paid and collected tax calculated on the fair market value of the entire park at the time the person first gives possession or occupancy of the site to the recipient of the exempt supply. This treatment of the first supply of a site by way of lease, licence or similar arrangement parallels the treatment under the self-supply rules of the first supply of a unit in a multiple-unit residential complex where a residential unit is first supplied by way of lease, licence or similar arrangement for residential purposes.
+
+Exceptions
+
+59. There is no requirement to self-assess if:
+
+(a) the supplier of sites in an existing residential trailer park has previously rented sites in the park on an exempt basis; and
+
+(b) (i) the park was acquired by the supplier as an exempt residential trailer park under section 5.3 of Part I of Schedule V, or
+
+(ii) the supplier was previously required to account for tax on the park under the change-in-use rules or under subsection 190(4) as a result of making exempt supplies of sites in the trailer park,
+
+provided the supplier was not entitled to claim any ITCs in respect of the acquisition of the park or improvements to the park since the last change in use or last application of subsection 190(4), in which the supplier was deemed to have made a supply of the land included in the park.
+
+First use of additional area ss 190(5)
+
+60. Subsection 190(5) deals with the situation where an existing residential trailer park is increased in size. The park operator is deemed to have made and received a supply of the additional land used in the residential trailer park and to have collected and paid tax calculated on the fair market value of the additional area at the time the person first gives possession or occupancy of any site in the additional area under an exempt rental. This is parallel to the self-supply rules relating to an addition to a multiple unit residential complex.
+
+Exceptions
+
+61. As with subsection 190(4), subsection 190(5) does not apply where the last acquisition of the land was an exempt supply under section 5.3 of Part I of Schedule V, or where tax has already been accounted for under this provision or pursuant to a change-in-use provision, provided the supplier was not entitled to claim any ITCs in respect of the acquisition of the additional area or improvements to the area since the last change of use or the last application of this subsection in which the supplier was deemed to have made a supply of the land included in the additional area.
+
+Further information
+
+62. For further information on the supply of sites in a residential trailer park, see Section 19.5, *Land*. See Section 19.2, *Residential Real Property* for comments on the definition of "residential trailer park".
+
+## Self-supply of land leased for other residential purposes
+
+General rule ss 190(3)
+
+63. Subsection 190(3) requires a person who supplies land by way of lease, licence or similar arrangement where that supply is exempt under section 6.1[Footnote1](#fn1) or paragraph 7(a)[Footnote2](#fn2) of Part I of Schedule V to self-assess tax on the fair market value of the property.
+
+64. The supplier in each of these cases is treated as having sold and re-acquired the land and is required to account for GST/HST on the fair market value of the land at the time possession of the land is given to the recipient of the supply.
+
+Exceptions paras 190(3)(c), (d) and (e)
+
+65. Subsection 190(3) does not apply if:
+
+- the last use of the land by the supplier was under an arrangement for the supply of the land described by paragraphs 6.1(a) or 7(a) of Part I of Schedule V (i.e., where there is a new lease, but the use of the land has not changed);
+
+- as a result of supplying the land by way of lease, licence or similar arrangement, the supplier is deemed to have made a supply under the change-in-use rules; or
+
+- the recipient of the supply is acquiring possession of the land for purposes of constructing a residential complex in the course of a commercial activity (in which case the recipient (not the supplier) may be required to self-supply the property (land and building) under section 191).
+
+subpara 190(3)(e)(ii)
+
+66. Subsection 190(3) does not apply to the supplier if the recipient will, in turn, make a supply of the land which is exempt pursuant to paragraph 6.1(a) of Part I of Schedule V (in which case, it is the recipient who may be required to self-supply under subsection 190(3)).
+
+A landowner leases land to another person, the lessee, who intends to use the land for residential purposes. This lease is exempt under subparagraph 7(a)(i) of Part I of Schedule V. The lessee will purchase taxable construction services to have a house built on the leased land. (Neither the lessee nor the contractor is a builder as defined in the legislation.) At the time possession of the land is transferred under the lease, the landowner is subject to the self-supply rules on the fair market value of the land.
+
+### Example 2
+
+A landowner leases land to a builder who will build a house on the land. Once the house is completed, the builder will sell the house to an individual, but sublease the land. In example 1, when the landowner transferred possession of the land under the lease, the landowner was required to self-assess on the fair market value of the land. In this example, the landowner is not required to self-assess because the builder, as recipient of the supply, is acquiring possession of the land for the purposes of constructing a residential complex in the course of a commercial activity (i.e., self-supply under section 191).
+
+## Non-substantial renovation
+
+Exempt supply
+
+67. Where the renovation or alteration of a residential complex is not a "substantial renovation", as defined in subsection 123(1) and discussed in Section 19.2, *Residential Real Property*, the sale of the property is generally exempt from GST/HST as a sale of a used residential complex.
+
+Special self-supply rule s 192
+
+68. If a person (renovator) carries out a renovation or alteration of a residential complex that is not a substantial renovation, and if such a renovation or alteration is made in the course of a business of making supplies of real property, the person may be subject to the self-supply rule in section 192 which taxes some of the value added by the renovator.
+
+Taxable costs
+
+69. Under this rule, the renovator is deemed to have made and received a taxable supply of certain costs, and is liable to account for GST/HST deemed collected with respect to such costs. The costs on which GST/HST applies must meet the following requirements:
+
+- they are in respect of the renovation or alteration;
+
+- they are amounts that would be included in the renovator's adjusted cost base for income tax purposes if the residential complex were capital property of the renovator and the renovator were a taxpayer;
+
+- they are not in respect of interest or other financial services; and
+
+- they are not for property or services on which GST/HST was paid or payable by the renovator.
+
+70. As a result, the renovator is liable to account for GST/HST on the total of such renovation costs as wages, salaries and employee benefits payable to employees of the renovator who are involved with on-site renovation work as well as on contracts entered into with non-registrants (i.e., small suppliers).
+
+Non-taxable costs
+
+71. There is no deemed self-supply on ordinary repair and maintenance costs that would not have been included in the building's adjusted cost base for income tax purposes. Generally, an expenditure is to be added to the adjusted cost base of a residential complex if it enhances the building beyond what is usually considered a replacement or repair. Although repairs and maintenance are normally expenses, they are to be capitalized when incurred to make a building ready for use or resale, as in the case of renovators. (For more information on whether an expenditure is an expense or an addition to the adjusted cost base of a residential complex, please contact your local Revenue Canada tax services office.)
+
+No GST/HST on profits
+
+72. GST/HST does not apply to a renovator's normal mark-up in respect of the sale of the renovated complex.
+
+Timing of liability
+
+73. GST/HST liability arises at the earlier of the time the renovation is substantially completed and the time ownership of the complex is transferred.
+
+No ITC
+
+74. Even if the renovator is a registrant, the renovator is not entitled to ITCs with respect to this special payment of GST/HST under section 192 and other GST/HST costs since the use or eventual sale of the complex is an exempt supply.
+
+75. This rule generally ensures that renovators who use their own labour will pay equivalent amounts of GST/HST when compared to those who use independent contractors. In other words, the GST/HST payable under section 192 should be approximately equal to the (non-creditable) GST/HST that would be charged by an independent contractor on the contractor's services.
+
+A consumer purchases a previously occupied home from a renovator who has renovated it to a point that falls short of being a substantial renovation. The consumer then arranges for further renovations to be performed by an independent contractor, so that the combined renovations by the renovator and the independent contractor constitute a substantial renovation.
+
+In this situation:
+
+- the renovator is subject to the self-supply rule under section 192;
+
+- the renovator is not able to claim an ITC for the tax paid under section 192;
+
+- the sale by the renovator to the consumer is an exempt sale of a residential complex;
+
+- the consumer pays GST/HST on the supply of services by the independent contractor; and
+
+- the consumer cannot claim the GST/HST new housing rebate for tax paid to the independent contractor, unless the work done by the independent contractor after acquiring the home from the renovator is a substantial renovation in relation to the home subsequent to the home's acquisition (in which case, section 256 may apply).
+
+## Change-in-use
+
+Deemed supply
+
+76. Some deemed supplies result from change-in-use of a residential complex. The provisions that govern the change-in-use of residential real property are:
+
+ss 190(1)
+
+deems a substantial renovation if non-residential real property is converted to a residential complex (person who holds or uses the real property is generally treated as a builder);
+
+ss 190(2)
+
+deems a supply by way of sale with tax applying on the fair market value of capital real property if an individual appropriates the property for the personal use and enjoyment of the individual, another individual related to the individual, a former spouse of the individual or, effective January 1, 2001, a former common-law partner;
+
+s 207
+
+sets out the rules for GST/HST-registered individuals who cease using capital real property in a commercial activity or reduce the extent to which the property is used in a commercial activity (e.g., a property converted from use in a commercial activity to an exempt residential use);
+
+s 208
+
+sets out the rules for GST/HST-registered individuals who begin using capital real property in a commercial activity or increase the extent to which the property is used in a commercial activity (e.g., cease using or reduce the extent to which a property is used as an exempt-use residential property).
+
+Application
+
+77. The application of these change-in-use rules to transactions involving a residential complex is discussed under the following headings:
+
+- Property converted to residential use
+
+- Property appropriated for personal use
+
+- Changes in the personal use of a residential complex
+
+- Changes in non-personal use of a residential complex
+
+- Changes affecting a residential complex used in commercial activity.
+
+78. For a comprehensive discussion of capital real property and the change-in-use provisions, see Section 19.4.2, *Commercial Real Property-Deemed Supplies*.
+
+### Property converted to residential use
+
+Deemed substantial renovation ss 190(1)
+
+79. If a person converts non-residential real property into a residential complex without newly constructing or substantially renovating the property, the conversion is deemed to be a substantial renovation. In such a situation, the person may be treated as a builder who substantially renovated the complex.
+
+80. This rule ensures that where a person is engaged in the business of buying used business or commercial premises and converting these to residential complexes for resale, the same GST/HST rules apply as if the complexes were newly constructed and sold by the builder. Further, by treating the person as a builder, where the person sells the residential complex to an individual who intends to use the complex as the individual's primary residence, the individual, if eligible, may claim a housing rebate under section 254.
+
+para 190(1)(f)
+
+81. An exception to this rule that treats the person as a builder occurs if the person is an individual who acquires the property to hold or use exclusively as a place of residence of the individual or another individual who is related to, a former spouse of or, effective January 1, 2001, a former common-law partner of the individual. An exception also occurs if the person is a personal trust that acquires the property to hold or use exclusively as a place of residence of a individual who is a beneficiary of the trust.
+
+82. The rule also ensures that, if an individual converts a building used in the individual's business to use as the individual's primary place of residence, and if tax is paid on the conversion to residential use (see paragraph 84), then by treating the individual as having substantially renovated the complex, the individual, if eligible, may claim the housing rebate under subsection 256 (rebate for owner-built homes).
+
+83. If the person supplies by way of lease, licence or similar arrangement the building or a unit in the building for exempt residential purposes, the self-supply rules of section 191 may be triggered.
+
+### Property appropriated for personal use
+
+Tax on fair market value ss 190(2)
+
+84. An individual must pay tax on the fair market value of the property (i.e., there is a deemed sale) in circumstances where:
+
+- the individual appropriates real property for the personal use and enjoyment of the individual, a related individual, a former spouse or, effective January 1, 2001, a former common-law partner of the individual,
+
+- the property was held for supply, or was capital property for use in a business or a commercial activity of the individual, immediately before the appropriation, and
+
+- the property was not a residential complex.
+
+85. Note that the change-in-use rules in either subsections 207(1) or 207(2) may also apply and deem a taxable supply by way of sale. However, double taxation is avoided because the formula for calculating the GST/HST liability under subsections 207(1) or 207(2) subtracts any GST/HST deemed collected under section 190. (See paragraph 90.)
+
+Exception
+
+86. Subsection 190(2) may not apply if the conversion or appropriation applies to the non-residential portion of a building which is owned by an individual and that building is already used primarily as the individual's place of residence, since the whole of the building would be considered a residential complex prior to the change in use.
+
+### Changes in the personal use of a residential complex
+
+Change from personal use to exempt use
+
+87. GST/HST would generally not be payable nor recoverable if all or a portion of a personal-use residential complex is converted for use in providing an exempt supply. For example, a doctor who converts all or part of his or her personal home into an office for a medical practice.
+
+Increase in personal use
+
+88. GST/HST would generally not be payable nor recoverable if the personal use of a residential complex increases, e.g., an owner moves into a house that the owner had previously rented to an unrelated person. In this case, the property was a residential complex and, hence, there is no tax liability.
+
+Change from non-personal use to personal use ss 207(1)
+
+89. A GST/HST liability is triggered if a change-in-use of a residential complex that was being used in commercial activities results in the property being used primarily (i.e., more than 50%) for other purposes or personal use. In such a case, there is a deemed sale of the property that was used in commercial activities and, except where the supply is an exempt supply, the individual registrant is deemed to have paid and collected GST/HST on the sale.
+
+For example, an individual who is a registrant owns a residential complex which is in a rental pool and is supplied by way of short-term leases. Later, this individual ceases the rental activity and moves into the property to use it as a place of residence. In this case, the individual is deemed to have paid and collected GST/HST on the deemed supply of the residential complex resulting from the change in use.
+
+Tax liability ss 207(1)
+
+90. The GST/HST liability is calculated as **A** - **B** where:
+
+**A** is the basic tax content of the property at the particular time, and
+
+**B** is the tax, if any, that the individual is deemed to have collected under section 190.
+
+91. For information on basic tax content, see the Appendix.
+
+Decrease in personal use
+
+92. GST/HST may not be payable or recoverable if the personal use of a residential complex decreases (i.e., non-personal use increases) to the extent that the residential complex is considered no longer to be used primarily for the personal use and enjoyment of the individual owner. An example of this is where a person moves from his or her home and rents it to an unrelated person for the purpose of its occupancy as a place of residence by an individual. Even though there is a change in use, ITCs are not available in respect of tax paid or payable on the last acquisition of the complex or subsequent improvements to the complex, since the complex was not acquired nor improved to any extent for consumption, use or supply in the course of commercial activities of the individual owner.
+
+### Changes in non-personal use of a residential complex
+
+Change of residential complex status
+
+93. GST/HST is neither payable nor recoverable upon the conversion of an exempt-use residential complex to an exempt-use non-residential complex. For example, if a dentist were to move the dentist's office to an apartment in a building which the dentist owns and which was being rented as a residence, there would be no GST/HST payable or recoverable. The exclusive use remains in exempt activities.
+
+Change of exempt use s 190(1), s 191, s 257, ss 193(1)
+
+94. If a doctor were to convert an office, previously used only for her medical practice, into a residence to be rented to an unrelated person, subsection 190(1) would deem the doctor to be the builder and to have substantially renovated a residential complex. A GST/HST liability would be triggered on the fair market value of the property under the self-supply rules of section 191. In such circumstances, a non-registrant doctor may claim a rebate under section 257 for an amount that is equal to the basic tax content of the property prior to self-supply. If the doctor were a registrant, she could claim the real property credit under section 193 for the GST/HST previously paid or payable on the last acquisition and subsequent improvement costs prior to the time that the self-supply liability was triggered. (See paragraphs 100 and 101.)
+
+Change from commercial use to non-personal use s 190, s 191
+
+95. A change from a commercial use to a non-personal exempt use generally results in GST/HST being payable on the deemed supply of the property (or portion). If the property begins to be used as a residential complex, subsection 190(1) might apply to deem a substantial renovation of the complex and the person might be deemed to be a builder of the complex. In this case, GST/HST would generally be payable on a subsequent sale, either an actual sale or a deemed sale under the self-supply rules. For either the actual sale or the deemed sale, the GST/HST liability would be calculated on the fair market value of the property.
+
+If an owner of an office building converted the building into apartments and rented the apartments, subsection 190(1) would deem the owner to be a builder of the residential complex and to have substantially renovated the complex. As a result, the self-supply rules in section 191 would generally apply to trigger a GST/HST liability when an apartment in the building is first rented.
+
+Note: The deemed sale under the change-in-use-rules pursuant to subsections 206(4) or (5) or 207(1) or (2) would not normally apply under such circumstances because section 195.1 deems that the residential complex is not capital property until after the self-supply occurs. This avoids potential double taxation under the change-in-use rules and the self-supply rules. (See paragraph 102.)
+
+### Changes affecting a residential complex used in commercial activity
+
+Change from entirely exempt to entirely commercial
+
+96. If a residential complex that is rented as long-term residential accommodation is converted to commercial use, the tax that was paid or payable on the last acquisition of the property may be recovered as an ITC when the registrant begins to use the property as capital property in commercial activities.
+
+97. For example, if a registrant were to convert an entire building from being used exclusively as long term residential accommodation to being used exclusively in commercial activities, subsection 206(2) (or 208(2) for individuals) would apply to deem the registrant to have received a supply by way of sale of the property. When the property begins to be used in commercial activities, it ceases to be a residential complex, and the registrant is deemed to have received a supply by way of sale which is not an exempt supply. The registrant is also deemed to have paid tax in respect of the acquisition of the property and the registrant may claim ITCs in respect of this deemed tax.
+
+Some commercial use
+
+98. If the residential complex is the place of residence of the registrant or an individual who is related to, a former spouse of or, effective January 1, 2001, a former common-law partner of the registrant, and if only part of the residential complex is converted to commercial use by the registrant such that, at the particular time the registrant begins to use the property as capital property in commercial activities, the property as a whole is still used primarily as a place of residence of the registrant, then the property has not ceased to be used primarily for personal use and enjoyment at that time and no change in use occurs.
+
+99. For further information concerning beginning use of real property in commercial activities, see section 19.4.2, *Commercial Real Property-Deemed Supplies.*
+
+### Real property credit
+
+Non-registrant ss 257(1)
+
+100. Upon making a taxable sale of real property, including a deemed taxable sale, an individual is entitled to reclaim some or all of the GST/HST, if any, which is embedded in the cost of the property. If the individual is not a GST/HST registrant, a rebate of tax may be available under section 257 (see Section 19.3.6, *Rebate on Non-Registrant's Sale of Real Property*). If the individual is a GST/HST registrant, the embedded tax may be recovered using the provisions of subsection 193(1).
+
+Registrant ss 193(1)
+
+101. Subsection 193(1) provides that, where a registrant makes a taxable sale of real property, the registrant may claim, at the time of sale, an ITC for previously non-creditable or non-rebatable tax paid by the registrant in respect of the property. This prevents the application of tax to a price that already includes an element of tax.
+
+A Winnipeg doctor who is a GST/HST registrant acquires a building for $200,000 plus $14,000 GST. The building is used exclusively as medical offices. The doctor upgrades the parking area of the building at a cost of $4,000 plus $280 GST. Later, the doctor appropriates the building to use as the doctor's personal residence. Under the provisions of subsection 190(2), the doctor is required to self-assess on the fair market value of the property at the time of the appropriation. The doctor has not been able to claim ITCs for tax paid or payable in respect of the original acquisition of the building and the improvements because the property was being used in exempt activities. As a result of the self-assessment caused by subsection 190(2), subsection 193(1) will allow the doctor a credit based on the basic tax content of the property. In the absence of the provisions of subsection 193(1), tax would have applied twice to this property.
+
+See the appendix attached to this section for a detailed example of calculating a real property credit under subsection 193(1).
+
+## Self-supply vs change-in-use
+
+Self-supply overrides change-in-use s 195.1
+
+102. Where a registered builder acquires a residential complex for use as capital property in commercial activities of the registrant and the registrant begins to use the property exclusively for use other than in commercial activities, there could be double taxation if both the self-supply rules of section 191 and the change-in-use rules in sections 206 or 207 applied to the acquisition. Accordingly, section 195.1 provides that the change-in-use rules do not apply at the same time as the self-supply rules for builders of a residential complex or an addition to a multiple-unit residential complex. This is accomplished by deeming that the residential complex, or the addition to the residential complex, is not capital real property until such time as section 191 applies or until the builder has received an exempt supply by way of sale of the property. The residential complex is effectively treated as inventory for use in a commercial activity until it is deemed to be sold under section 191 or is actually sold to a third party and reacquired in such a manner that the acquisition of the complex is exempt (i.e., as a "used" residential complex). The effect of this is to remove any possibility of a GST/HST liability arising twice on the same supply under these provisions. (For additional information on the change-in-use rules, see the discussion in section 19.4.2, *Commercial Real Property-Deemed Supplies*.)
+
+A corporation converts part of an office building into an apartment complex for the purpose of leasing the residential units to individuals as places of residence. Under subsection 190(1), the corporation is deemed to be a builder who has substantially renovated that part of the building as a residential complex. Under section 195.1, the part of the building that is now a residential complex is deemed not to be capital property until a tax liability is triggered under the self-supply rules resulting in the corporation being deemed to have received a taxable supply of the complex. Therefore, the self-supply rules and not the change-in-use rules apply. The self-supply liability under subsection 191(3) is the amount of GST/HST calculated on the fair market value of the residential complex (i.e., the part of the building that is the residential complex). The tax liability arises either when a unit in the complex is first occupied by an individual as a place of residence or when the complex is substantially completed, whichever is later.
+
+## Appendix: Calculating the Real Property Credit
+
+Calculating the credit ss 193(1)
+
+1. Persons who are not public sector bodies (other than a financial institution) calculate the real property credit for the amount of tax embedded in the property as
+
+**A** × **B**
+
+where:
+
+**A** is the lesser of
+
+- the basic tax content of the property at the particular time; and
+
+- the tax payable in respect of the supply that would have been payable if an election had not been made under section 167[Footnote3](#fn3);
+
+**B** is the percentage use of the property immediately before the particular time otherwise than in commercial activities.
+
+Basic tax content ss 123(1)
+
+2. The basic tax content of real property is determined by way of a formula. Simply stated, the basic tax content of a property is arrived at by:
+
+1. totalling all amounts of tax payable at the time the property was last acquired or imported[Footnote4](#fn4),
+
+2. adding any amounts of tax payable at any time on improvements (goods and services) acquired, imported or brought into a participating province after the last acquisition or importation,
+
+3. deducting all amounts of tax recoverable by way of rebate, refund or remission (other than ITCs), and
+
+4. multiplying the net amount by a factor that takes into account any depreciation in the fair market value of the property since the property was last acquired.
+
+Calculating basic tax content
+
+3. For most registrants who are individuals calculating basic tax content for purposes of subsection 193(1), the basic tax content of a property is calculated as follows:
+
+**(A - B) × C**
+
+where
+
+**A** = total of:
+
+i) tax payable in respect of the claimant's last acquisition or importation of the property;
+
+ii) tax payable in respect of improvements to the property acquired, imported or brought into a participating province after the property was last acquired or imported;
+
+iii) tax that would have been payable in either of the preceding situations but for subsection 153(4) [Footnote5](#fn5) or section 167 applying or the fact that the property or improvements were acquired by the claimant for consumption, use or supply exclusively in commercial activities;
+
+and
+
+iv) tax under section 218 and 218.1 (tax payable on imported taxable supplies), and Division IV.1 (tax self-assessed on property brought into a participating province from a non-participating province) that the claimant would have been liable to pay if the property or improvement were not for consumption, use or supply exclusively in the course of commercial activities of the claimant.
+
+**B** = total of
+
+i) any tax referred to in **A** (above) that the claimant was exempt from paying under any other Act or law;
+
+ii) all amounts of tax referred to in **A**(i) and **A**(ii) above which the claimant was entitled to recover by way of a rebate, refund, or remission or would have been entitled to recover, if the property or improvement had been acquired for use exclusively in activities that are not commercial activities, other than ITCs and amounts referred to in **B**(i);
+
+iii) the amounts of tax referred to in **A**(iii) and **A**(iv) above which the claimant was entitled to recover by way of a rebate, refund, remission or otherwise under this or any other Act or law or would have been entitled to recover if the tax had been payable and the property or improvement had been acquired for use exclusively in activities that were not commercial activities, other than ITCs and amounts referred to in **B**(i);
+
+**C** = the lesser of 1, and
+
+fair market value at the time the basic tax content is being determined ÷ consideration payable on the last acquisition + consideration for improvements.
+
+Determining the real property credit is a three-step process. If the doctor in paragraph 101 were to calculate the real property credit, the doctor would
+
+1. determine the fair market value of the property,
+
+2. calculate the basic tax content,
+
+3. calculate the real property credit.
+
+Step 1: fair market value
+
+**Fair market value:** An appraisal of the property determined its fair market value to be $250,000 (net of tax).
+
+Step 2: basic tax content
+
+**Basic tax content** **= (A - B) × C**
+
+where:
+
+**A** = $14,000 + $280 = $14,280
+
+**B** = nil
+
+**C** = the lesser of 1, and
+
+$250,000 / ($200,000 + $4,000)
+
+= $250,000 / $204,000
+
+= 1.225, therefore
+
+**C** = 1.
+
+Basic tax content = (**A - B)× C = ($14,280 - 0) × 1 = $14,280.**
+
+Step 3: real property credit
+
+**Real property credit** **= (A × B)**
+
+**A** = the lesser of the tax payable on the sale ($250,000 × 7% = $17,500) and the basic tax content of the property ($14,280).
+
+**B** = percentage use of the property in non-commercial activities immediately prior to the sale (i.e., 100%).
+
+**=** $14,280.

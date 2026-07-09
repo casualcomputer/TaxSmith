@@ -1,0 +1,356 @@
+---
+title: "101139810 Saskatchewan Ltd. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/218345/index.do"
+last_modified: "2017-01-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 TCC 3"
+citation2: ""
+neutral_citation: "2017 TCC 3"
+decision_date: "2017-01-26"
+language: "en"
+item_id: "218345"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2963
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:29:45.844000+00:00"
+cases_cited_count: 14
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f17f303e28ef8d12e19ede542b1fcb94898781dfd597c38c42077539dcdbb211"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 101139810 Saskatchewan Ltd. v. The Queen
+
+- Citation: 2017 TCC 3
+- Decision date: 2017-01-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2963, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+101139810 Saskatchewan Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-01-26
+Neutral citation
+2017 TCC 3
+File numbers
+2014-2389(IT)G
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2014-2389(IT)G
+BETWEEN:
+101139810 SASKATCHEWAN LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeal of 101139807 Saskatchewan Ltd. (2014-2391(IT)G), on June 22, 2016, at Regina, Saskatchewan.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the Appellant:
+David Chodikoff and Graham Purse
+Counsel for the Respondent:
+Suzanie Chua
+JUDGMENT
+The appeal from the reassessment dated April 10, 2014 made under the Income Tax Act for the 2009 taxation year is dismissed with costs in accordance with the attached Reasons for Judgment.
+Signed at Quebec City, Quebec, this 26th day of January 2017.
+“Réal Favreau”
+Favreau J.
+Docket: 2014-2391(IT)G
+BETWEEN:
+101139807 SASKATCHEWAN LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeal of 101139810 Saskatchewan Ltd. (2014-2389(IT)G), on June 22, 2016, at Regina, Saskatchewan.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the Appellant:
+David Chodikoff and Graham Purse
+Counsel for the Respondent:
+Suzanie Chua
+JUDGMENT
+The appeal from the reassessment dated April 10, 2014 made under the Income Tax Act for the 2009 taxation year is dismissed with costs in accordance with the attached Reasons for Judgment.
+Signed at Quebec City, Quebec, this 26th day of January 2017.
+“Réal Favreau”
+Favreau J.
+Citation: 2017 TCC 3
+Date: 20170126
+Dockets: 2014-2389(IT)G
+2014-2391(IT)G
+BETWEEN:
+101139810 SASKATCHEWAN LTD.,
+101139807 SASKATCHEWAN LTD.,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Favreau J.
+[1] The appellants, 101139810 Saskatchewan Ltd. (“810”) and 101139807 Saskatchewan Ltd. (“807”), have been reassessed pursuant to subsection 55(2) of the Income Tax Act, R.S.C. 1985, c. 1 (5th supp.), as amended (the “Act ), in respect of dividends that they received as part of a series of transactions designed to extract corporate surplus on a tax-deferred basis prior to an arm’s length sale of shares.
+[2] By way of the reassessments dated April 10, 2014, the Minister of National Revenue (the “Minister”) has re-characterized the deemed dividends received by the appellants as capital gains for the 2009 taxation year ending April 1, 2009 for each of the appellants. Each appellant was reassessed a capital gain of $1,299,999 based on an assumed fair market value of 34 shares in 101008231 Saskatchewan Ltd. (“8231”) held by each appellant to be $1,300,000 as reported by the appellants.
+[3] The appeals brought by the appellants were heard on common evidence. Counsel for the appellants called one witness, Mr. Case, the sole shareholder of the appellants and counsel for the respondent also called one witness, Mary-Lou Saccary, the Canada Revenue Agency’s auditor.
+THE FACTS
+[4] The facts are not in dispute and were provided by way of a Statement of Agreed Facts which is reproduced below:
+The parties, through their respective counsel, agree, for the purpose of this appeal only, and any appeal therefrom, that the following facts are true and that the documents contained in the joint book of documents are accurate copies of authentic documents. The parties are free to make submissions with respect to, and are not to be taken as agreeing to, the degree of relevance or weight to be attributed to these facts and documents. The parties are free to seek to introduce additional facts in evidence at trial, however, such facts may not be inconsistent with the facts herein, unless the parties agree. This agreement shall not bind the parties in any other action.
+1. Century Sound & Music Ltd. (“CSM”) was incorporated in 1961 and later changed its name to ‘Audio Warehouse Ltd’.
+2. CSM sold audio and electronic equipment to retail and wholesale customers. The original shareholder of CSM was Mr. Blair Case’s father-in-law. Over time, through gifts and purchase acquisitions, by June 2001, Mr. Case owned 33.33% or 34 shares in CSM.
+3. Mr. Brian Melby and Mr. Don Rae each worked at CSM prior to becoming co-owners with Mr. Case.
+4. On May 17, 2000, 101008231 Saskatchewan Ltd. (“8231”) was incorporated and Mr. Case was the sole shareholder.
+5. On or about June 30, 2001, Mr. Case transferred 34 shares in CSM to 8231 under s. 85(1) of the Income Tax Act (the “Act”) and received a promissory note for $560,999 and 100 common shares of 8231.
+6. Immediately after the s. 85(1) transaction with 8231, Mr. Case owned 101 common shares of 8231.
+7. Mr. Case and 8231 reported the transaction in respect of 34 CSM shares, as follows: fair market value was $561,000; adjusted cost base was $350,000; and the agreed amount for purposes of s. 85(1) of the Act, was $561,000.
+8. In the 2001 taxation year, Mr. Case reported capital gains of $211,000 and utilised $101,953 of capital gains deduction in respect of the June 30, 2001 transaction with 8231.
+9. By late 2008, Messrs. Case, Melby and Rae each owned, indirectly through their holding companies, 33.33% interest or 34 shares in CSM.
+10. Each of the shareholders handled different aspects of the business of CSM and gross sales were about $29 million. However, Messrs. Case, Melby and Rae disagreed about the future business direction for CSM and by the fall of 2008, Mr. Case decided to completely divest his ownership in CSM. He commenced negotiations with Messrs. Melby and Rae to sell his indirect one-third share to both of them equally.
+11. To determine the arm’s length sale price for Mr. Case’s indirect shareholding in CSM, Grant Thornton and the Virtus Groups were invited to provide estimated valuations of CSM. The valuation reports placed the value of CSM between $7,420,000 and $7,970,000 and Messrs. Case, Melby and Rae accepted the fair market value of 34 shares in CSM held by 8231 was $2,600,000.
+12. The issued and outstanding shares in the capital of CSM immediately prior to March 6, 2009 were as follows:
+a) 101006523 Saskatchewan Ltd. (“6523”) – 34 Class A common shares;
+b) 101008331 Saskatchewan Ltd. (“8331”) – 34 Class A common shares;
+and
+c) 8231 – 34 class A common shares.
+13. 8331 was solely owned by Mr. Rae and 6523 was solely owned by Mr. Melby.
+14. None of Messrs. Case, Melby or Rae was related to the others.
+15. Prior to the ultimate sale of 34 CSM shares to Messrs. Melby and Rae, 8231 owned other assets which fair market value totalled $1,261,764 in addition to 34 CSM shares.
+16. In contemplation of the sale of Mr. Case’s 33.33% indirect interest in CSM equally to the remaining shareholders, the parties obtained tax advice from Rotelick & Associates, an accounting firm.
+17. The tax advice from Rotelick & Associates centred on minimising (sic) tax payable by Mr. Case within the confines of the law as the Rotelicks understood, on the sale transactions to Mr. Melby’s and Mr. Rae’s holding companies.
+18. Based on tax advice from Rotelick & Associates, a number of corporate reorganisation transactions occurred immediately prior to the ultimate sale of 17 CSM shares to each of Mr. Rae’s and Mr. Melby’s holding companies, as follows:
+a) 101139810 Saskatchewan Ltd. (9810”) and 101139807 Saskatchewan Ltd. (“9807”) were each incorporated on March 6, 2009 by Mr. Case as the sole shareholder.
+b) 9810 and 9807 were incorporated solely for the corporate re-organisation that was effected for Mr. Case to divest his shareholding in CSM to the other two remaining shareholders.
+c) On or about March 6, 2009, Mr. Case transferred 34 common shares of 8231 to 9807 under s. 85(1) of the Act and received 1 Class C common share in 9807. Mr. Case and 9807 reported the transactions in respect of 34 common shares of 8231 as follows: fair market value was $1,300,000; adjusted cost base was $1; and the agreed amount for purposes of s. 85(1) of the Act was $1.
+e) On or about March 6, 2009, Mr. Case exchanged 1 Class C share in 9810 for 120 Class A common shares in 9810 under s. 86(1) of the Act, and the fair market value and adjusted cost base of the 1 Class C share were $1,300,000 and $1, respectively.
+f) On or about March 6, 2009, Mr. Case exchanged 1 Class C share in 9807 for 120 Class A common shares in 9807 under s. 86(1) of the Act, and the fair market value and adjusted cost base of the 1 Class C share were $1,300,000 and $1, respectively.
+g) On or about March 7, 2009, 8231 transferred 17 Class A common shares of CSM to 9810 under s. 85(1) of the Act and received 17 Class B redeemable shares in 9810.
+h) 9231 and 9810 reported the transaction in respect of 17 Class A shares of CSM as follows: fair market value of $1,300,000; the adjusted cost base was $280,500; and the agreed amount under s. 85(1) of the Act was $280,500.
+i) On or about March 7, 2009, 8231 transferred 17 Class A common shares of CSM to 9807 under s. 85(1) of the Act and received 17 Class B redeemable shares in 9807.
+j) 8231 and 9807 reported the transaction in respect of 17 Class A shares of CSM as follows: fair market value of $1,300,000; the adjusted cost base was $280,500; and the agreed amount s. 85(1) of the Act was $280,500.
+k) The redemption value of 17 Class B shares in each of 9810 and 9807 was respectively, $1,300,000.
+l) On March 8, 2009, 9810 redeemed 17 Class B Shares in the capital of 9810 held by 8231 for their redemption amount of $1,300,000 and issued to 8231 a promissory note in the amount of $1,300,000, payable on demand, resulting in a deemed dividend to 8231 in the amount of $1,299,999.
+m) 8231 reported for tax purposes, the deemed dividend from the redemption of 17 Class B shares it held in 9810 as taxable dividend received of $1,019,500 and dividend deduction of $1,019,500.
+n) On March 8, 2009, 9807 redeemed 17 Class B Shares in the capital of 9807 held by 8231 for their redemption amount of $1,300,000 and issued to 8231 a promissory note in the amount of $1,300,000, payable on demand, resulting in a deemed dividend to 8231 in the amount of $1,299,999.
+o) 8231 reported for tax purposes, the deemed dividend from the redemption of 17 Class B shares it held in 9807 as taxable dividend received of $1,019,500 and dividend deduction of $1,019,500.
+p) On March 9, 2009, 8231 redeemed 34 Class A shares in the capital of 8231 held by 9807 for their redemption amount of $1,300,000 and issued to 9807 a promissory note in the amount of $1,300,000, payable on demand. The redemption resulted in a deemed dividend to 9807 in the amount of $1,299,999.
+q) 9807 reported for tax purposes, the deemed dividend from the redemption of 34 Class A shares it owned in 8231 as taxable dividend received of $1,300,000 and claimed a dividend deduction of $1,300,000.
+r) On March 9, 2009, 8231 redeemed 34 Class A shares in the capital of 8231 held by 9810 for their redemption amount of $1,300,000 and issued to 9810 a promissory note in the amount of $1,300,000 payable on demand. The redemption resulted in a deemed dividend to 9810 in the amount of $1,299,999.
+s) 9810 reported for tax purposes, the deemed dividend from the redemption of 34 Class A shares it owned in 8231 as taxable dividend received of $1,300,000 and claimed a dividend deduction of $1,300,000.
+t) On or about March 9, 2009, 8231 and 9810 each offset the $1,300,000 promissory note each issued to the other.
+u) On or about March 9, 8231 and 9807 each offset the $1,300,000 promissory note each issued to the other.
+v) Following the reorganization set out above, Mr. Case owned 100% of 8231, 100% of 9807 (which owned 17 shares in the capital of CSM) and 100% of 9810 (which owned 17 shares in the capital of CSM), and throughout the foregoing reorganization steps, direct or indirectly, held 34 shares in the capital of CSM.
+19. On or about April 1, 2009, Mr. Case disposed of 120 Class A common shares of 9810 to 8331 for $1,300,000 and 120 Class A common shares of 9807 to 6523 for $1,300,000.
+20. With respect to the sale of 9810 and 9807, Mr. Case reported in the 2009 taxation year:
+a) capital gains of $2,599,998;
+b) capital gains reserve of $1,038,689; and
+c) capital gains deduction of $238,529, which fully utilised Mr. Case’s lifetime capital gains deduction.
+[5] On April 5, 2012, the Minister reassessed 8231, Mr. Case’s holding corporation, but on or about July 19, 2013, the Minister vacated the reassessment against 8231.
+[6] As stated in paragraph 15 of the notices of appeal, the current appeals relate to amounts after “safe income” and other adjustments were agreed on between the appellants and the Canada Revenue Agency (“CRA”).
+THE ISSUES
+[7] The primary issues in this case are as follows:
+(a) whether subsection 55(2) is applicable such that the deemed dividends received by the appellants on the redemption of shares by 8231 should be recharacterized as capital gains. An underlying concern in these appeals is that in applying subsection 55(2), the result is double or triple taxation; and
+(b) whether the designation under paragraph 55(5)(f) is available to the appellants?
+POSITIONS OF THE PARTIES
+[8] The appellants contest the Minister’s decision on the basis that:
+(a) taking the transactions in aggregate, including the capital gains incurred by the sole shareholder of each of the appellants, Mr. Blair Case, there was not a significant reduction in the portion of the capital gains as required under subsection 55(2);
+(b) the legislative intent behind subsection 55(2) is not to multiply the tax liability;
+(c) subsection 55(2) is an anti-avoidance provision and is not analogous to a penalty thus it is not intended to confer an administrative discretion on the taxing authorities;
+(d) the Minister’s approach ignores the economic substance and commercial reality of the relevant transactions; and
+(e) the Minister’s refusal to permit a designation under paragraph 55(5)(f) of the Act is contrary to the intention of subsection 55(2).
+[9] The respondent submits that:
+(a) the Act applies to every person resident in Canada and nothing in subsections 55(2), 84(3) and the definition of the term “disposition” in subsection 248(1) of the Act allows for tax relief based on so-called “related” transactions, e.g., where a related person had reported tax liability derived from earlier ownership of the same shares (income from dividend, gain from disposition, etc.). The preamble in subsection 55(2) is explicit. It applies where a corporation resident in Canada has received a taxable dividend. Based on the facts of the transactions as reported by the parties, the Minister correctly applied subsection 55(2) to the appellants; and that
+(b) the appellants did not at any time, make a designation under paragraph 55(5)(f) of the Act, of any portion of the taxable dividend of $1,299,999 as a separate dividend. As such, the Minister is precluded from accepting that a portion of the taxable dividend was a separate dividend. Accordingly, subsection 55(2) applied to the whole dividend that the Minister under-assessed by $564,246 but she is not appealing her own reassessment.
+THE APPLICABLE LAW
+[10] The Minister’s reassessments were based on subsection 55(2) of the Act, which at the relevant time, stated as follows:
+Where a corporation resident in Canada has received a taxable dividend in respect of which it is entitled to a deduction under subsection 112(1) or (2) of 138(6) as part of a transaction or event or a series of transactions or events, one of the purposes of which (or, in the case of a dividend under subsection 84(3), one of the results of which) was to effect a significant reduction in the portion of the capital gain that, but for the dividend, would have been realized on a disposition at fair market value of any share of capital stock immediately before the dividend and that could reasonably be considered to be attributable to anything other than income earned or realized by any corporation after 1971 and before the safe-income determination time for the transaction, event or series, notwithstanding any other section of this Act, the amount of the dividend (other than the portion of it, if any, subject to tax under Part IV that is not refunded as a consequence of the payment of a dividend to a corporation where the payment is part of the series)
+(a) shall be deemed not to be a dividend received by the corporation;
+(b) where a corporation has disposed of the share, shall be deemed to be proceeds of disposition of the share except to the extent that it is otherwise included in computing such proceeds; and
+(c) where a corporation has not disposed of the share, shall be deemed to be a gain of the corporation for the year in which the dividend was received from the disposition of a capital property.
+[11] Subsection 55(2) of the Act is an anti-avoidance provision that was introduced in the 1979 federal budget. It was directed against arrangements designed to use the intercorporate dividend exemption to unduly reduce a capital gain on a sale of shares. It treats the dividends in these situations either as proceeds from the sale of shares or as capital gains and not as dividends received by the corporation.
+[12] Subsection 55(2) of the Act is applicable where the following conditions are met:
+(a) the taxpayer is a corporation resident in Canada;
+(b) the taxpayer received a taxable dividend in respect of which it is entitled to a deduction under subsections 112(1) or (2);
+(c) the dividend is received as part of a transaction or series of transactions which is deemed by subsection 248(10) of the Act to include any related transactions or events completed in contemplation of the series; and
+(d) where dividends are declared and paid by a corporation, one of the purposes of the dividend was to effect a significant reduction in a capital gain that would, but for the dividend, have been realized on a disposition at fair market value of any share; or
+in the case of deemed dividends under subsection 84(3) of the Act, which is the situation in these appeals, if the result (not the purpose) of the dividend is to effect a significant reduction in a capital gain that would, but for the deemed dividend, have been realized on a disposition at fair market value of any share.
+[13] Generally, there are three exceptions to subsection 55(2). The first exception is included in the charging provision and covers situations where the dividend can reasonably be attributable to anything other than income earned or realized by any corporation after 1971 (commonly referred to as the “safe income” dividend). Safe income is protected from the application of subsection 55(2) because this income has been subject to corporate income tax and should therefore be allowed to be paid as a tax-free dividend to other Canadian corporations (Explanatory Notes relating to Income Tax, published on December 1997, by the Minister of Finance, p. 184).
+[14] Subsection 55(3) of the Act sets out circumstances in which subsection 55(2) does not apply to dividends. Pursuant to paragraph 55(3)(a), subsection 55(2) will not apply in respect of dividends received in the course of certain related-party transactions provided there was not, at any particular time, a disposition of property or a significant increase in the total direct interest in a corporation in the circumstances outlined in subparagraphs 55(3)(a)(i) to (v). Paragraph 55(3)(b) provides an exception for dividends received in the course of certain corporate organizations where, generally, the objective is to distribute property pro rata, among a corporation’s corporate shareholders on a tax-deferred basis, commonly referred to as a “butterfly” or divisive reorganization. None of the exceptions mentioned in subsection 55(3) is applicable in these appeals.
+[15] The appellants argue that refusing to permit a designation under paragraph 55(5)(f) would be contrary to the intention of subsection 55(2). Specifically, paragraph 55(5)(f) states as follows:
+(5) Applicable rules – For the purposes of this section,
+(f) where a corporation has received a dividend any portion of which is a taxable dividend,
+(i) the corporation may designate in its return of income under this Part for the taxation year during which the dividend was received any portion of the taxable dividend to be a separate taxable dividend, and
+(ii) the amount, if any, by which the portion of the dividend that is a taxable dividend exceeds the portion designated under subparagraph (i) shall be deemed to be a separate taxable dividend.
+[16] Generally speaking, paragraph 55(5)(f) permits a corporation that has received a dividend to segregate the amount of the dividend into two separate taxable dividends. The designation is typically made in the taxpayer’s return for the taxation year during which the dividend was received.
+ANALYSIS
+[17] The onus is on the appellants to demonstrate the inapplicability of subsection 55(2) of the Act. In Brelco Drilling Ltd. v R, [1999] 3 CTC 95, 99 DTC 5253 (FCA), Linden J.A., speaking for the majority, clearly applied that rule:
+16. To avoid the operation of section 55(2) the taxpayer bears the onus “to establish the inapplicability of section 55(2) of the Act.
+[18] In these appeals, there is no dispute that the appellants are corporations resident in Canada and that each appellant received a taxable dividend from 8231 as a result of the redemption of shares pursuant to subsection 84(3) of the Act in respect of which, it was entitled to claim a deduction under subsection 112(1).
+[19] The deemed dividends were received by the appellants as part of a series of transactions that began with the reorganization of the capital of 8231, which culminated to the sale of the shares of the appellants by Mr. Case to 101008331 Saskatchewan Ltd. (“8331”) and 101006523 Saskatchewan Ltd. (“6523”), each corporation owned by persons unrelated to Mr. Case. There is no dispute whether there was a series of transactions and the appellants did not argue that the dividends fall within an exception under subsection 55(3).
+[20] Accordingly, what must be determined is whether the transactions met the remaining requirements of subsection 55(2). Specifically, the focus in the case at bar is whether the result of the deemed dividends was to effect a significant reduction in the portion of the capital gains that, but for the dividends, would have been realized on a disposition at fair market value.
+[21] As established in the ensuing discussion, in my view, subsection 55(2) applies to the deemed dividends received by the appellants.
+A. Was one of the results of the deemed dividend to effect a significant reduction in the capital gain?
+[22] The appellants are of the view that in determining whether there was a significant reduction in the capital gain or not, the transactions must be considered in their entirety and not in isolation. Specifically, it is submitted that since Mr. Case personally reported capital gains arising from the sale to 8331 and 6523 of his shares in the appellants, there was not a significant reduction and additionally, the “unrealized appreciation” was not avoided by the use of intercorporate dividends. The appellants have proposed to the Court a modification to the party realizing the capital gain.
+[23] The appellants rely on the Tax Court of Canada case 729658 Alberta Ltd v R, 2004 TCC 474, 2004 DTC 2909 as support for the proposition that the appropriate approach is to consider the aggregate capital gains reported in respect of the series of transactions.
+[24] In addition, the appellants argue that the objective behind subsection 55(2) as described in Nassau Walnut Investments Inc. v R, [1995] 2 CTC 2057, 1995 CarswellNat 444 (TCC), affirmed [1998] 1 CTC 33, [1997] 2 FC 279 (FCA) was not offended. In Nassau Walnut, the Tax Court stated at paragraph 12 that subsection 55(2) was enacted to:
+. . .. prevent the avoidance of tax on capital gains by taxpayers taking advantage of subsections 84(3) and 112(1) which results in the receipt of a tax-free dividend for tax purposes instead of proceeds of a disposition of shares . . .
+[Emphasis added].
+[25] The appellants are of the view that the intercorporate dividends flowing from 8231 to the appellants were in conjunction with the proceeds of disposition rather than instead of, such that there was no avoidance of tax on capital gains.
+[26] In my view, it is clear from a plain and ordinary reading of subsection 55(2) that this provision is meant to apply to a corporation and not to an individual shareholder and thus, the capital gains realized by Mr. Case has no relevance in the analysis. Furthermore, I do not agree with the appellants’ proposed approach of looking at the transactions in their entirety in determining if the result of a deemed dividend was a reduction in capital gains as it goes beyond the wording of the provision. To accept the Appellants’ approach would be to ignore the reduction of the notional capital gain as a result of an 84(3) deemed dividend, which is contrary to the words of subsection 55(2).
+[27] Furthermore, the appellants’ contention is inconsistent with the explicit policy underpinnings of subsection 55(2). As discussed further below, the transactions come within the purview of arrangements that Parliament sought to prevent with subsection 55(2).
+(i) The plain and ordinary meaning of subsection 55(2)
+[28] In determining the meaning of subsection 55(2), the principles of statutory interpretation as they relate to taxing statutes should be looked at.
+[29] Since Stubart Investments Ltd. v R, [1984] 1 SCR 536 (SCC), the strict approach is no longer considered appropriate in the interpretation of tax statutes and the modern approach, which requires a textual, contextual and purposive analysis, governs.
+[30] Given the particular nature of tax statutes and with a view to enabling taxpayers to safely rely on the words of the provisions when arranging their tax affairs, the courts have stated that the modern approach must be balanced with a careful consideration of the actual words of the Act. As stated by the Supreme Court of Canada in Canada Trustco Mortgage Co. v R, 2005 SCC 54, [2005] 2 SCR 601 at paragraph 10:
+It has long been established as a matter of statutory interpretation that “the words of an Act are to be read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament”…The interpretation of a statutory provision must be made according to a textual, contextual and purposive analysis to find a meaning that is harmonious with the Act as a whole. When the words of a provision are precise and unequivocal, the ordinary meaning of the words play a dominant role in the interpretive process. On the other hand, where the words can support more than one reasonable meaning, the ordinary meaning of the words plays a lesser role. The relative effects of ordinary meaning, context and purpose on the interpretive process may vary, but in all cases the court must seek to read the provisions of an Act as a harmonious whole.
+[Emphasis added].
+[31] As stated by Justice Lamarre (as she was then) in Ottawa Air Cargo Centre Ltd. v R, 2007 TCC 193, [2007] 3 CTC 2577, at paragraph 14, affirmed 2008 FCA 54, the modern approach is not a “licence to rewrite the law” and “the judiciary must not usurp the role of Parliament”.
+[32] The courts have stated that section 55 is a complex provision and have found that portions of subsection 55(2) are not clear and are ambiguous (please see D & D Livestock Ltd. v R, 2013 TCC 318, 2013 DTC 1251 (Eng.), at paragraph 26 and Lamont Management Ltd. v R, [2000] 3 FC 508, 2000 DTC 6256 (FCA), at paragraph 20. In Brelco Drilling Ltd., cited above, in which the calculation of safe income on hand was at issue, the Federal Court of Appeal stated at paragraph 30 that the words of subsection 55(2) are difficult to understand.
+[33] Parts of section 55 are effectively complex and ambiguous but by applying the facts of this case to the phrase: “. . . one of the results of which [ ] is to effect a significant reduction in the portion of the capital gain that, but for the dividend, would have been realized on a disposition at fair market value of any share of capital stock immediately before the dividend . . .” there is no ambiguity. As per Justice Robertson in Placer Dome Inc. v R, [1997] 1 CTC 72, [1996] FCJ No. 1435 (FCA), the purpose cannot replace clear statutory language. Therefore, I favour the respondent’s position that the text of the provision should govern.
+[34] The question arising from subsection 55(2) is whether the result of a dividend under subsection 84(3) received by a corporation was to effect a significant reduction in the portion of the capital gain that, but for the deemed dividend, would have been realized on a disposition at fair market value immediately before the dividend.
+[35] Pursuant to Placer Dome Inc., cited above, it is clear that the “purpose” test in subsection 55(2) requires a subjective understanding whereas an objective approach is required for the “results” test at paragraph 23.
+[36] Looking at the language of the provision, it can be inferred from the opening words, “[w]here a corporation resident in Canada . . .”, that the capital gain subsequently referred to in the charging provision must be determined in reference to the Canadian resident corporation receiving the dividend. There is no mention of an individual in the provision.
+[37] In any event, I agree with the respondent’s position that the appellants and Mr. Case are not the same taxpayer for purposes of subsection 55(2). Subsection 55(2) opens with the words “a corporation” and subsequently in paragraph (a) states “shall be deemed not to be a dividend received by the corporation”. I would argue that this choice of wording supports the interpretation that another entity cannot be used in place of the corporation for purposes of the subsection 55(2) analysis.
+[38] Furthermore, the use of the words “would have been realized on a disposition” suggests that the provision refers to a hypothetical capital gain of the dividend recipient corporation. Put another way, subsection 55(2) asks: if the corporation had sold any shares before it received the dividend, what would have been the amount of the capital gain? This capital gain is the starting point of the comparison.
+[39] Case law confirms this interpretation. The Federal Court of Appeal in Kruco Inc. v Canada, 2003 FCA 284, [2003] FCJ No 1012, at paragraph 35, discussed the approaches Parliament considered in order to prevent the avoidance of tax on the unrealized appreciation in the value of the underlying assets of a corporation by the use of tax-free intercorporate dividends:
+A more focussed and less cumbersome approach was adopted. Subsection 55(2) (when read in conjunction with paragraph 55(5)(f)) provides, in effect, that when a dividend (paid or deemed) has effected a significant reduction of the capital gain which would have resulted from a notional sale of the shares at fair market value, and this gain can reasonably be attributed to anything other than "income earned or realized" after 1971, the dividend is deemed to be a capital gain to the extent of the portion so attributed. Conceptually, this approach captures the tax applicable to the portion of the notional gain attributable to an increase in value of the underlying assets while maintaining the tax-free treatment of that part of this gain attributable to "income earned or realized" since 1971.
+[Emphasis added].
+[40] The line of inquiry does not go beyond a notional sale and notional capital gain.
+[41] That the “significant reduction” test concerns a notional capital gain as opposed to an actual gain is further buttressed by the specificity of the timing of the capital gain as enunciated in subsection 55(2). Specifically, subsection 55(2) states that the relevant time is immediately before the (deemed) dividend. Accordingly, subsection 55(2) does not consider the actual capital gains realized by Mr. Case which occurred after the deemed dividends, and thus, the appellants’ approach must fail.
+[42] Assuming the analysis stops with a plain reading of subsection 55(2), it follows that subsection 55(2) is applicable since the result of the deemed dividends was to effect a significant reduction in the hypothetical capital gains of the appellants, as set out below.
+[43] A capital gain is calculated by taking the difference of the proceeds of disposition and the adjusted cost base in respect of the relevant property. Ignoring the deemed dividend, the notional capital gain of each of the appellants in respect of a disposition of any share of capital stock immediately before the dividend would have been $1,299,999 ($1,300,000 less an adjusted cost base of $1). As a result of the definition of “proceeds of disposition” in paragraph 54(j) which does not include the amount of dividends deemed by subsections 84(2) or (3), the proceeds of disposition ($1,300,000) is reduced by the amount of the subsection 84(3) deemed dividend ($1,299,999), resulting in proceeds of disposition of $1 and effectively a capital gain of nil. Accordingly, the capital gain that would have been realized is reduced significantly going from $1,299,999 to nil as a result of the deemed dividend.
+[44] The result of a plain and ordinary reading of subsection 55(2) is such that the deemed dividends received by the appellants should be recharacterized.
+(ii) A purposive analysis
+[45] Much of the appellants’ submissions refer to the intention and purpose of subsection 55(2). Counsel for the appellants suggests that a purposive interpretation is more appropriate such that this Court should consider the commercial and economic realities of the transactions. It is also submitted that the result of applying subsection 55(2) would lead to absurd results that are contrary to the intention of the provision.
+[46] A number of cases have attempted to describe the general purpose of subsection 55(2). It is clear that subsection 55(2) is an anti-avoidance provision that exists to prevent what is commonly known as ‘capital gains stripping’ or the conversion of taxable capital gains into tax-free intercorporate dividends (see Placer Dome, cited above, at paragraph 1).
+[47] In order to prevent double taxation at the corporate level, the Act provides that, generally, dividends paid from one corporation to another are in effect exempt from income tax pursuant to subsection 112(1) of the Act. Without such provision, the corporation earning income giving rise to a dividend would be taxed, and the dividend recipient corporation would also be subject to taxation on the dividend income.
+[48] However, as a result of these tax-free intercorporate dividends, there is an incentive to pay such dividends to reduce the fair market value of the shares, thereby decreasing the capital gain that would result on the disposition of the shares. Subsection 55(2) is designed to impose limitations on the use of tax-free intercorporate dividends to ensure that the unrealized appreciation since 1971 in the value of the underlying assets of the corporation is not avoided. In Lamont Management Ltd., cited above, Justice Rothstein described at paragraphs 3 and 4, the mischief subsection 55(2) is intended to address:
+3 The Income Tax Act provides that, in accordance with specified provisions, dividends received by one corporation from another are exempt from income tax6. The purpose of the exemption is to preclude double taxation at the corporate level, i.e. once by the corporation earning the income giving rise to the dividend and again by the corporation receiving the dividend income.
+4 In circumstances where the Income Tax Act provides that dividends paid from one corporation to another are exempt from taxation, there is an incentive for the shareholding corporation to receive capital gains in the form of dividends. Section 55 is an anti-avoidance provision that is intended to limit use of tax exempt intercorporate dividends where they would otherwise be taxable. Where the limitation applies, the intercorporate dividend will be deemed not to be a dividend, but rather, proceeds of disposition of property, or a gain, of the recipient corporation, subject to tax at the rate applicable to capital gains. However, where the intercorporate dividend is attributable to "income earned or realized by any corporation", the anti-avoidance provision does not apply and the intercorporate dividend will continue to be treated as a dividend. This is sometimes referred to as "safe income".
+[Emphasis added].
+[49] Justice Lamarre Proulx in Gestion Jean-Paul Champagne Inc. v Minister of National Revenue, 97 DTC 155, [1996] 2 CTC 2537 (TCC), at paragraph 51 interpreted Parliament’s intention through a broader lens:
+We are surely dealing here with a provision whose purpose is to regulate tax avoidance and, more particularly, a provision that supplements the effect of subsection 84(3) of the Act. In a situation in which a corporate redeems its own shares where those shares are held by another corporation, Parliament’s intent is to prevent everything from being a non-taxable intercorporate dividend.
+[Emphasis added].
+[50] Justice Woods (as she then was) in 729658 Alberta Ltd, cited above, was of the view that the legislative scheme was not apparent from subsection 55(2) and deferred to the description by the government described by Noël J.A. in Kruco Inc., cited above:
+The goal was to ensure that the capital gain inherent in the shares of a corporation that is attributable to an unrealized appreciation since 1971 in the value of the underlying assets of the corporation was not avoided by the use of intercorporate tax-free dividends (subsection 112(1)).
+At the same time, Parliament did not want to impede the tax-free flow of dividends that were attributable to income which had already been taxed.
+Conceptually, this approach captures the tax applicable to the portion of the notional gain attributable to an increase in value of the underlying assets while maintaining the tax-free treatment of that part of this gain attributable to ‘income earned or realized’ since 1971.
+[Emphasis added].
+[51] In Ottawa Air, cited above, Justice Lamarre (as she was then) found that the 1979 federal budget clearly described the purpose of subsection 55(2) as an anti-avoidance provision to ensure that a capital gain is recognized to the extent of the unrealized and untaxed appreciation since 1971 in the value of underlying assets:
+27 The mischief that subsection 55(2) is aimed at is clearly described in the 1979 federal budget which introduced this provision. Because of its importance in these appeals, I reproduce the relevant passage in its entirety:
+Important amendments will be introduced to clarify and reinforce the intent of the anti-avoidance provision relating to artificial or undue reductions in capital gains.
+Concerns have been expressed as to the legislative scope and intended application of this anti-avoidance provision. A number of plans have been developed whereby, as a preliminary step to certain sales of shares, a corporate vendor extracts what are in substance sale proceeds in the form of tax-free intercorporate dividends or deemed dividends to decrease the value — or increase the cost base — of the shares to the point where capital gains tax is avoided. These tax-free dividends frequently exceed the earnings of the corporation to be sold. Such excessive dividends are usually motivated only by the vendor's desire to reduce his exposure to capital gains tax.
+As a general rule, the objective of the tax law is that on most arm's-length and on certain non-arm's-length intercorporate share sales, a capital gain should arise at least to the extent that the sale proceeds reflect the unrealized and untaxed appreciation since 1971 in the value of underlying assets. This objective will generally be achieved where tax-free dividends on shares are limited to post-1971 taxed retained earnings.
+Rules will be introduced to clarify the intention of the law in this respect. These rules will ensure that where it can reasonably be considered that one of the main purposes of a tax-free intercorporate dividend was to reduce the proceeds on a disposition of a share, the capital gain otherwise determined will be adjusted to reflect the extent to which aggregate tax-free dividends have exceeded post-1971 taxed retained earnings.
+[Emphasis added].
+[52] From the foregoing, it is clear that Parliament intended to limit tax-free intercorporate dividends; however, only to the extent that the unrealized and untaxed appreciation in the value of underlying assets is realized such that income that has already been taxed should not be caught by subsection 55(2). The appellants’ position focuses on this objective. Relying on 729658 Alberta, cited above, the appellants take the view that this exception was met since Mr. Case reported capital gains and thus the appreciation was taxed except in respect of the capital gains deduction amount of $238,529 claimed by Mr. Case under section 110.6 of the Act. That provision was not available to 8231 if it had sold 34 CSM shares because the capital gain deduction only applies to individual taxpayers.
+[53] In 729658 Alberta, cited above, the appellant corporations were reassessed pursuant to subsection 55(2). In this case, as part of a series of transactions leading up to a share sale to an arm’s length purchaser, the two appellants purchased shares of an operating company from two individual shareholders, who each solely owned one of the appellants, in exchange for promissory notes and shares of the appellants pursuant to subsection 85(1). The parties elected the amount of the promissory note as the agreed amount. As a result of these transactions, the individual shareholders each realized taxable dividends (presumably due to section 84.1). The operating company then declared and paid taxable dividends to the appellants, following which the appellants sold their respective shares of the operating company to an arm’s length buyer for cash equaling the agreed amount. Justice Woods held that subsection 55(2) should not apply to recharacterize the dividends on the basis that no tax had been avoided as the individual shareholders realized the appreciation in the form of taxable dividends:
+The transactions also resulted in tax being paid on the untaxed appreciation in the value of the underlying assets of Comcare. Messrs. Lauterstein and Nickerson realized this income in the form of taxable dividends. The Crown has not suggested that there has been any tax leakage by having this tax paid by Messrs. Lauterstein and Nickerson rather than by the holding companies nor by having the gain realized in the form of dividends rather than capital gains. The amount of tax that was paid, then, appears to be what Parliament had intended.
+[Emphasis added].
+[54] Justice Woods came to her conclusion because the Crown did not appear to raise issue about tax leakage, nor with the fact that the appellants essentially modified the party being subject to tax or the form in which the gain was realized (i.e. dividends as opposed to capital gains). It begs the question, would Justice Woods have found otherwise had the Crown brought forth the argument of tax leakage?
+[55] In my opinion, Justice Woods’ approach cannot be applied to the case at hand with the present set of facts.
+[56] The individual taxpayers in 729658 Alberta made a subsection 85(1) election with their holding companies such that the deemed proceeds to them and the deemed costs to their holding companies of the operating company shares, was the fair market value less the safe income and tax was paid by the individual transferors of a subsection 85(1) transfer by way of taxable dividends received and only a small portion of the accrued gain, an amount equal to the safe income estimate, was transferred to the holding companies. Subsection 55(2) applied in 729658 Alberta but the dividend was exempt as a “safe income” dividend under paragraph 55(5)(f).
+[57] In contrast, Mr. Case transferred 34 common shares of 8231 to each appellant on a fully tax-deferred basis under subsection 85(1) and 8231 transferred to each appellant 17 CSM shares that had the untaxed accrued gain, also on a fully tax-deferred basis, so that 8231 would not realize any capital gain. Therefore, the “unpaid tax on the appreciation of the underlying asset” was avoided by the deemed dividend that arose from the redemption and since the appellants applied the deduction under section 112, the analysis under subsection 55(2) was triggered.
+[58] The appellants’ argument that capital gains were not significantly reduced because the capital gain deduction claimed by Mr. Case was relatively minor compared to the total accrued gain (i.e. $238,529/2,600,000 or 10%) is irrelevant: firstly, because Mr. Case and the appellants are not the same taxpayers for purposes of subsection 55(2) analysis; and secondly, because subsection 55(2) only applies to a corporation.
+[59] As mentioned earlier, there are three general exceptions to subsection 55(2): (i) the part of the capital gain that could reasonably be considered to be attributable to income earned or realized by any corporation after 1971 and before the safe-income determination time for the transaction, event or series (subsection 55(2)); (ii) dividends received in certain related party transactions (paragraph 55(3)(a)); and (iii) dividends received in certain butterfly reorganizations (paragraph 55)(3)(b)). In order to avoid the application of subsection 55(2), it was incumbent on the appellants to ensure that the dividends deemed to be paid by 8231 fell within one of these exceptions provided for by law. Instead, the Appellants walked right into a situation Parliament clearly wanted to be caught by subsection 55(2).
+(iii) Commercial and Economic Realities
+[60] The appellants argue that the Minister’s approach is “divorced from the commercial realities and economic substance of the transaction”. The appellants cite National Trust Co. v H & R Block Canada Inc., 2003 SCC 66, [2003] 3 SCR 160, at paragraph 29, as support, wherein Justice Bastarache stated, in part, the following:
+We must interpret the buyer’s duty to account under s. 16(2) in light of the rules of statutory interpretation and, in particular, of commercial realities.
+[61] These comments must however be reconciled with the comments of Justice McLachlin (as she was then) in Shell Canada Ltd. v R., [1999] SCJ No. 30, [1999] 3 SCR 622, at paragraph 40:
+Second, it is well established in this Court’s tax jurisprudence that a searching inquiry for either the “economic realities” of a particular transaction or the general object and spirit of the provision at issue can never supplant a court’s duty to apply an unambiguous provision of the Act to a taxpayer’s transaction. Where the provision at issue is clear and unambiguous, its terms must simply be applied: Continental Bank, supra, at para. 51, per Bastarache J.; Tennant, supra, at para. 16, per Iacobucci J.; Canada v. Antosko, [1994] 2 S.C.R. 312, at pp. 326-27 and 330, per Iacobucci J.; Friesen v. Canada, [1995] 3 S.C.R. 103, at para. 11, per Major J.; Alberta (Treasury Branches) v. M.N.R., [1996] 1 S.C.R. 963, at para. 15, per Cory J.
+[Emphasis added].
+[62] The commercial reality is that Mr. Case wanted to sell his interest in CSM to Mr. Melby and Mr. Rae, who are parties unrelated to Mr. Case. The reorganization and sale was structured by the accountants for Mr. Case to save tax and to allow him to utilize the remainder of his lifetime capital gain deduction. The evidence shows that Mr. Case received cash and property in exchange for 120 Class A common shares from each of the appellants, effectively selling his 33.33% indirect interest in CSM which was the reason for the tax planning done by the Rotelicks. Clearly, the impugned transactions were linked to the sale of the appellants’ 34 CSM shares to unrelated parties.
+B. Double or Triple Taxation
+[63] Counsel for the appellants argues that the Minister’s interpretation, which on the face, arguably results in the multiplication of capital gains tax and is inconsistent with the goal of avoiding double taxation. It is submitted that this is an absurd result. The appellants contend that the reassessments are analogous to being penal in nature and that to accept this would be to give the Minister an administrative discretion in choosing which taxpayer must be subject to the resultant tax.
+[64] The main question before us is: would the imposition of subsection 55(2) to recharacterize two deemed dividends, one deemed to be paid to each of the appellants, in respect of which capital gains tax was paid by an individual shareholder, offend the general policy in tax law of preventing double taxation? Moreover, is the result of double taxation absurd in this particular instance?
+[65] Taking a narrow construction of the concept of double taxation, it may be argued that the result of allowing the Minister’s reassessments is not, in fact, double taxation as the same amount is not being taxed twice in the hands of the same taxpayer. I do, however, appreciate that in applying subsection 55(2), the same amount is being taxed in the hands of more than one person, being Mr. Case and the appellants, and thus there is, arguably, what may be seen as double taxation. This is indeed an unfortunate result. To this, I note the comments of the Federal Court of Appeal in Scott Jones and Ascot Enterprises, [1996] 1 CTC 384, 96 DTC 6015 (FCA):
+15 . . . As noted by Le Dain J.A. (as he then was) in Perrault Ibid. at page 402‑03 (D.T.C. 6277-78):
+. . . The incidence of taxation depends on the manner in which a taxpayer arranges his affairs. Just as he may arrange them to attract as little taxation as possible, so he may unfortunately arrange them in such a manner as to attract more than is necessary.
+[66] Applying these comments to the instant case, the appellants and the relevant parties had the opportunity to structure the transactions otherwise. Unfortunately, the arrangement undertaken by these parties attracted additional tax. The unfair consequence that is double taxation does not persuade me, however, that it would be incorrect to apply subsection 55(2) to both appellants.
+[67] In addition, I am unable to accept the appellants’ submission that there is triple taxation. If subsection 55(2) is applicable to recharacterize both of the deemed dividends to the appellants, it suffices to point out that each appellant would only be liable for capital gains on half of the total underlying value.
+[68] To the extent subsection 55(2) is found to apply and both appellants are subject to capital gains, it is ultimately the purchasers, indirectly through the appellants, who would be liable for the tax, the result of which could be seen as unfair. Nevertheless, in my view, the perceived unfairness resulting from the recharacterization of the deemed dividends received by each of the appellants as capital gains should not be determinative in resolving the issue at hand. To find that subsection 55(2) should not apply on the basis of fairness would be to offend Parliament’s express legislative intention. Parliament has clearly provided for this result, presumably to limit the potential for tax avoidance through the use of tax planning techniques.
+[69] It also begs the question, would the result be any less absurd for the Minister to apply subsection 55(2) to recharacterize only one of the two deemed dividends? Or, further, by not applying subsection 55(2) at all, even though, I would argue, Parliament intended for this very structure to be caught by this provision? I would argue no.
+[70] Accordingly, in my opinion, there is no double taxation assuming double taxation involves taxing the same amount in the hands of the same taxpayer twice, and in the event there is, it should not prevent the application of subsection 55(2).
+[71] There is a general principle in tax that double taxation is not acceptable. As noted by Justice Hamlyn in Carlson & Associates Advertising Ltd v R., [1997] TCJ No. 366, 1997 CarswellNat 589, at paragraph 29, affirmed [1998] FCJ No. 423 (FCA).
+. . . There is a general presumption in law against taxing the same income dollars twice. Double taxation can only be considered to exist where it is equitable and/or the language of the taxing Act is clear and unequivocal.
+[72] At paragraph 30 of the judgment, Justice Hamlyn stated:
+There is a valid concern to prevent the same amount from being taxed twice, whether in the hands of a single taxpayer (See Perrault v. R. (1978), 78 D.T.C. 6272 (Fed. C.A.), at pages 6277-8.) or any two “persons” within the scheme of the particular taxation provision unless explicitly provided for in statute.
+[Emphasis added].
+[73] In Prosperous Investments Ltd. v Minister of National Revenue, [1992] TCJ No. 6, [1992] 1 CTC 2218, at paragraph 28 (TCC), Justice Bowman (as he was then) expressed a narrower view of double taxation:
+“Double taxation” has been the subject of academic comment and judicial observation. It is an emotive term used to attack what is perceived to be the inequity of taxing the same dollars twice. As such it is essentially a red herring, at least where the same amount is not being taxed twice in the same taxpayer’s hands. The fundamental question is not whether a corresponding amount is being taxed in the shareholder/employee’s hands but whether it is truly a part of the corporation’s cost of doing business.
+[Emphasis added].
+[74] The Federal Court of Appeal in Scott Jones and Ascot Enterprises, cited above, expressed a similar view to that of Justice Bowman (as he then was) in respect of subsection 56(2) of the Act:
+15 I do not agree with counsel that to apply subsection 56(2) would lead to double taxation. Double taxation exists where a single payment is taxed twice in the hands of the same taxpayer. See Perrault v. R., 78 D.T.C. 6272 (F.C.A.). Here, the benefit would be taxed once in the hands of Ascot pursuant to subparagraph 69(1)(b)(i) and once in the hands of the applicant pursuant to subsection 56(2).
+[Emphasis added].
+[75] In Sochatsky v R, 2011 TCC 41, [2011] 3 CTC 2055, at paragraph 43, Justice Jorré of this Court explained that there is not a general rule against taxing the same amount in the hands of two different taxpayers:
+With respect to double taxation, there is no general rule against the taxation of the same amount in the hands of two different taxpayers. Perhaps the most common example of this is when profits of a corporation which are taxed in the hands of the corporation are taxed again in the hands of the shareholder when they are paid out as dividends.
+[76] I am inclined to favour a narrow construction of double taxation such that it arises where the same amount is taxed in the hands of the same person. Mr. Case and the appellants are not the same persons. Thus, taking a strict approach it follows that there is no double taxation in the instant case. To this end, I note the comments of Justice Archambault in Donohue Forest Products Inc. v R, [2003] 1 CTC 2010, 2001 DTC 823, at paragraph 76, affirmed 2002 FCA 422, who appropriately points out that the Act does not nullify the fact that a corporation has a separate legal personality from those of its shareholders:
+In corporate law, the property of a business corporation belongs to the corporation, not to its shareholders. A corporation has a legal personality separate from those of its shareholders. The Act creates no legal fiction which would have the effect of nullifying this distinction or by virtue of which the property of a corporation would be considered that of the shareholders. On the contrary, the Act recognizes that a gain or loss may be realized at the same time by shareholders in respect of their shares and by the corporation in respect of its own property. If there were a rule preventing the double taxation of a gain or the double deduction of a loss (whether or not there is concomitance) in respect of a corporation's shares and underlying assets, the respondent's position might be defensible. That is not the case, however.
+[77] In a more recent case, JDI 2000 Transport Ltd. v. R, 2010 TCC 310, [2010] 5 CTC 2374, Justice Woods was faced with the issue of double taxation in respect of expense deductions and shareholder benefits, and touched on the notion a harsh result. In this case, the Minister denied certain deductions claimed by the appellant corporation on the grounds that such expenses were personal expenses of the director and shareholder of the appellant and also imposed gross negligence penalties. The Minister also assessed the director to include the amounts in income as shareholder benefits under subsection 15(1) of the Act. The appellant accepted that these amounts were properly included in the director/shareholder’s income but suggested that to avoid double taxation, it should be entitled to a deduction. Justice Woods allowed the appeal in part with respect to reducing penalties, noting as follows at paragraphs 13 and 15:
+The avoidance of harsh tax consequences is not a sufficient justification for a deduction. If the expenditures are appropriations by Mr. Dhillon in his capacity as a shareholder, the legislation does not permit their deduction as they are not laid out for the purpose of earning income.
+. . .
+. . . The fact that the result is harsh is something that is clearly contemplated by the legislation, presumably to discourage abuse.
+[Emphasis added].
+[78] In the context of specific anti-avoidance provisions, Justice Marceau of the Federal Court of Appeal in Outerbridge Estate v Canada, [1991] 1 CTC 113, 90 DTC 6681 (FCA), at paragraph 14 stated that such a provision is subsidiary in nature, existing to prevent tax avoidance in respect of the particular transaction and “not simply to double the tax normally due nor to give the taxing authorities an administrative discretion to choose between possible taxpayers”.
+[79] The issue of double taxation was considered by Justice Linden in respect of section 55 in Brelco Drilling Ltd., cited above. Specifically, Justice Linden stated at paragraph 32:
+This Court has explained that the object and purpose of section 55 is to prevent capital gains stripping. This purpose is not inconsistent with the goal of avoiding double taxation. On the contrary, it was enacted to prevent abuse of the very section which seeks to avoid double taxation.
+[80] As elaborated further above, Parliament enacted in subsection 55(2) a rule specifically designed to avoid double taxation of the same amount of income earned by a corporation. The mechanism used is the safe income dividend deduction. In this case, the Minister is not doubling the tax normally done. The Minister applied the appropriate tax measures to separate transactions made by different taxpayers.
+C. Is the Designation under Paragraph 55(5)(f) Available?
+[81] Counsel for the respondent submitted that the Minister is precluded from accepting that a portion of the taxable dividend was a separate dividend on the basis that the appellants did not at any time make a designation. Counsel for the appellants submits that the Minister was incorrect in refusing to permit a designation under paragraph 55(5)(f) of the Act.
+[82] It is well established in Nassau Walnut Investments Inc., cited above, that the right to claim the benefit of paragraph 55(5)(f) is available to taxpayers once the taxpayer is assessed under subsection 55(2).
+[83] As the appellants have been reassessed under subsection 55(2), they are entitled to rely on paragraph 55(5)(f) to designate a separate dividend but this dividend election would serve no purpose in this instance as safe income deduction in the amount of $564,246 has been allowed to each appellant (please refer to paragraph 6 and subparagraph 9(b) above).
+[84] For these reasons, the appeals are dismissed with one set of costs for both appeals.
+Signed at Quebec City, Quebec, this 26th day of January 2017.
+“Réal Favreau”
+Favreau J.
+CITATION:
+2017 TCC 3
+COURT FILE NOS.:
+2014-2389(IT)G
+2014-2391(IT)G
+STYLES OF CAUSE:
+101139810 Saskatchewan Ltd. v. HMQ
+101139807 Saskatchewan Ltd. v. HMQ
+PLACE OF HEARING:
+Regina, Saskatchewan
+DATE OF HEARING:
+June 22, 2016
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Réal Favreau
+DATE OF JUDGMENT:
+January 26, 2017
+APPEARANCES:
+Counsel for the Appellants:
+David Chodikoff and Graham Purse
+Counsel for the Respondent:
+Suzanie Chua
+COUNSEL OF RECORD:
+For the Appellants:
+Names:
+David Chodikoff and Graham Purse
+Firm:
+Miller Thompson LLP
+Toronto, Ontario
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

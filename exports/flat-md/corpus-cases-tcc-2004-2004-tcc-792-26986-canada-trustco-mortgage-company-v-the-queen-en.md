@@ -1,0 +1,373 @@
+---
+title: "Canada Trustco Mortgage Company v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26986/index.do"
+last_modified: "2004-12-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 792"
+citation2: ""
+neutral_citation: "2004 TCC 792"
+decision_date: "2004-12-17"
+language: "en"
+item_id: "26986"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 531
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:43:37.821000+00:00"
+cases_cited_count: 0
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "251e50a025d6a7c29edebc980962899248501858de8b23115d08d72b8130d04d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Canada Trustco Mortgage Company v. The Queen
+
+- Citation: 2004 TCC 792
+- Decision date: 2004-12-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 531, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Canada Trustco Mortgage Company v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-12-17
+Neutral citation
+2004 TCC 792
+File numbers
+2003-3554(GST)G
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2003-3554(GST)G
+BETWEEN:
+CANADA TRUSTCO MORTGAGE COMPANY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard from November 29, 2004 to December 2, 2004, at Toronto, Ontario.
+Before: The Honourable D.G.H. Bowman, Associate Chief Justice
+Appearances:
+Counsel for the Appellant:
+Al Meghji
+Sean Aylward
+D'Arcy Schieman
+Counsel for the Respondent:
+David Chodikoff
+John McLaughlin
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated August 19, 2002, and bears number 08BP0104415, is allowed with costs and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the reasons for judgment on the basis that the portion of the amounts paid by the trusts referred to in the Agreed Statement of Facts on which the Minister has assessed goods and
+services tax forms part of the consideration paid for exempt financial services, and also on the basis of the concession made by the respondent at trial with respect to the National Housing Act insured Mortgage-backed Securities.
+Signed at Ottawa, Canada, this 17th day of December 2004.
+"D.G.H. Bowman"
+Bowman, A.C.J.
+Citation: 2004TCC792
+Date: 20041217
+Docket: 2003-3554(GST)G
+BETWEEN:
+CANADA TRUSTCO MORTGAGE COMPANY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowman, A.C.J.
+[1] This appeal is from an assessment of the Goods and Services Tax ("GST") made under the Excise Tax Act ("E.T.A.") by the Minister of National Revenue for the period from January 1, 1997 to December 31, 1998.
+[2] The issue is whether GST is exigible in respect of a portion of the payments made to Canada Trustco Mortgage Company ("CTM" or the "appellant") by three trusts to which the appellant sold groups of residential mortgages. The Minister of National Revenue assessed GST, calculated in the manner set out below, on the basis that the amounts subjected to tax were fees for servicing the mortgages and were excluded from "financial service" as defined, because they are management or administrative services provided to the trusts whose principal activity was the investing of funds. The appellant contends that no portion of the amounts are taxable and a number of reasons are advanced.
+[3] CTM carries on the business of lending money on mortgages. It has to borrow money for that purpose. The interest rate that it pays on the money that it borrows depends, at least in part, on the type of assets that are used to secure its borrowing. Therefore CTM enters into transactions which are described as "asset-backed securitization transactions". These transactions involve transferring the more secure assets (such as residential mortgages) into a separate entity (in this case a trust) and having that entity raise money on the commercial paper market. The relatively lower risk attached to such assets permits the money to be borrowed at a lower interest rate than would have been required had the commercial paper been issued directly by CTM.
+[4] The sale of the mortgages to the trusts involved a transfer of the beneficial ownership which was inextricably bound up with an agreement whereby CTM agreed to service the mortgages. This included collecting and accounting for payments made by the mortgages and dealing with defaults, foreclosures and renewal of mortgages. It continued to bear an economic risk of loss on the mortgages. CTM's servicing of the mortgages was done on behalf of the trusts. To the mortgagor nothing changed after the sale. The transfer was not registered in the registry office and the mortgagor would, in the normal course, have no reason to know of the existence of the trusts.
+[5] It is clear that CTM made a supply of services to the trusts in conjunction with the sale of the mortgages. That however is not the issue. The issues are:
+1) Whether the principal activity of the trusts is the investing of funds.
+2) Whether the sale and servicing of the mortgages were two elements of a single supply, or two distinct supplies.
+3) If the latter, whether the servicing of the mortgages was incidental to their sale and whether both supplies were sold to the trusts for a single consideration as contemplated by section 138 of the E.T.A.
+4) Whether section 139 of the E.T.A. applies to deem the supply of services to be exempt.
+[6] I start the analysis with a brief description of the statutory regime under which the case arises. Subsection 165(1) of the E.T.A. imposes on the recipient of a taxable supply a tax of 7 percent on the value of the consideration for the supply. Supply is defined in section 123 as the supply of a property or service. Taxable supply is a supply made in the course of a commercial activity. The definition of commercial activity excludes the making of exempt supplies which are defined as supplies included in Schedule V. Part VII of Schedule V, to the extent relevant here, refers to a supply of a financial service. Financial service is defined at length in subsection 123(1). It is agreed by counsel for both parties that the sale of the mortgages by CTM to the trusts as well as the servicing of the mortgages would be the supply of financial services, subject only to the respondent's position that under the definition in subsection 123(1) financial service does not include
+(q) the provision, to a corporation, partnership or trust the principal activity of which is the investing of funds, of
+(i) a management or administrative service, or
+(ii) any other service (other than a prescribed service),
+where the supplier is a person who provides management or administrative services to the corporation, partnership or trust.[1]
+[7] The appellant's position is that the servicing of the mortgage does not fall within the exception in paragraph (q). The appellant contends further that even if it does the payment forms part of a single composite consideration for an exempt supply. The appellant relies in addition on section 138 of the E.T.A. which reads
+Incidental supplies - For the purposes of this Part, where
+(a) a particular property or service is supplied together with any other property or service for a single consideration, and
+(b) it may reasonably be regarded that the provision of the
+other property or service is incidental to the provision of the particular property or service,
+the other property or service shall be deemed to form part of the particular property or service so supplied.
+[8] In the further alternative the appellant relies upon section 139
+Financial services in mixed supply - For the purposes of this Part, where
+(a) one or more financial services are supplied together with one or more other services that are not financial services, or with properties that are not capital properties of the supplier, for a single consideration,
+(b) the financial services are related to the other services or the properties, as the case may be,
+(c) it is the usual practice of the supplier to supply those or similar services, or those or similar properties and services, together in the ordinary course of the business of the supplier, and
+(d) the total of all amounts, each of which would be the consideration for a financial service so supplied if that financial service had been supplied separately, is greater than 50% of the total of all amounts, each of which would be the consideration for a service of property so supplied if that service or property had been supplied separately,
+the supply of each of the services and properties shall be deemed to be a supply of a financial service.
+[9] I have set out above a somewhat abbreviated version of the facts for the purpose of stating the issues. A more detailed exposition of the facts is contained in a partial Agreed Statement of Facts ("ASF") which is attached as Schedule A to these reasons. A large number of documents were also put in evidence. They are essentially the documents relating to the creation of SMART TRUST, PURE TRUST and MASTER TRUST and the sale to them of the residential mortgages by CTM. It is agreed that SMART TRUST is representative of the others. I shall therefore refer only to the documents relating to that trust.
+[10] Two further preliminary points should be mentioned:
+(a) Paragraph 18 of the ASF refers to pools of the National Housing Act insured Mortgage-backed Securities. There is an issue in paragraph 24 to 27 of the notice of appeal of the pleadings on fees paid on the sale of pools of these mortgages to the public. The respondent has agreed that the GST assessed in respect of these fees should be deleted.
+(b) In paragraph 23 of the ASF it is stated that the appellant recorded as a "normal servicing fee" in its financial statements for 1997, 125 basis points, as opposed to 25 basis points. The Minister assessed GST on the basis of the amount represented by the 125 basis points. It is accepted that this was an error and that even if the respondent's position is otherwise upheld an amount equal to the portion of the payment represented by the additional 100 basis points will have to be deleted from the amount upon which the GST was levied.
+[11] I come then to the first question that must be answered: Is paragraph (q) of the definition of financial service in subsection 123(1) applicable? CTM provides management or administrative services to a trust. Is SMART TRUST a trust whose principal activity is the investing of funds. ("... une fiducie dont l'activité principale consiste à investir des fonds.") Counsel for the appellant argues that SMART TRUST does not carry on its activities to earn a profit and that it is implicit in the word "invest" that there be a profit motive. Therefore its principal activity is not investing funds but merely acting as a conduit for the purpose of raising money for CTM or the other institutions that sell assets to it in the course of similar forms of asset-backed securitization transactions. It is merely a financing vehicle.
+[12] With respect, I am unable to accept this proposition. Article Two of the Declaration of Trust reads:
+ARTICLE TWO
+ACTIVITIES OF THE TRUST
+Section 2.01 Activities of the Trust. The Trust will carry on activities in order to produce income for the benefit of the Beneficiary. The activities of the Trust will be the purchase, acquisition, creation and administration of Asset Interests which the Trust purchases or otherwise acquires or creates from time to time for the purpose of producing income therefrom, which purchase, acquisition or creation is to be funded through the issuance of Notes from time to time pursuant to the terms of the Trust Indenture, all in accordance with and subject to the terms and conditions of the Programme Agreements, together with all -such activities as may be reasonably incidental to the foregoing or necessary in connection with the performance by the Trust of its obligations under the Programme Agreements. The activities of the Trust will be deemed to have been established on the date of purchase, acquisition or creation of the first of the Asset Interests by the Trust and not before that date. The Trust shall not engage directly or indirectly in any activity other than the activities described in this Section 2.01.
+[13] The beneficiary referred to in the article is United Way, a charitable organization. The purpose as stated in the Declaration of Trust is to earn a profit, albeit a small one, ($10,000) which is distributed to the beneficiary. Everything else goes to CTM in accordance with the Master Mortgage Sale Agreement.
+[14] Quite apart from the statement in Article Two of the trust purpose, I do not think that a profit motive is necessarily an essential ingredient of investing. Counsel referred to a number of dictionary definitions that suggest that to invest implies the placement of money for profit but not all standard dictionaries, either in English or in French, support this view. In most cases investing is done for the purpose of earning a profit, but where the word stands by itself I do not think it is appropriate to add "with a view to profit". Parliament is quite capable of spelling out the requirement of a profit motive when it chooses to do so (for example "with a reasonable expectation of profit", "for the purpose of gaining or producing income"). I do not think it is reasonable to suggest that an institution that borrows two and one half billion dollars from the public and buys that amount in mortgages or other securities yielding a greater return than the interest it pays does not have as its principal activity the "investing of funds".
+[15] I turn then to the next issue. Are the sale and servicing of the mortgages two elements of the same supply or are these two distinct supplies? This question is not the same as whether we are dealing with two separate supplies where one is incidental to the other. The second question does not arise in the context of this first issue although it is relevant if we are required to consider the possible application of section 138.
+[16] There is a great deal of jurisprudence on the question of single supply. I can do no better than refer to the leading case decided by Justice Rip, O.A. Brown Ltd. v. Canada, [1995] G.S.T.C. 40. In that case the appellant bought livestock for its customers, not as agent but on its own account. It charged the customers disbursements and a clearing commission in addition to the cost of livestock. The Minister assessed GST on the commission and other disbursements.
+[17] Justice Rip said at pages 40-5 to 40-7:
+The GST legislation is of recent vintage in Canada and Canadian courts have not judicially considered what may constitute a single or multiple supply for purpose of GST. The Value Added Tax statute in the United Kingdom contains many provisions similar to our GST. In the English cases the issue has been defined as whether the supply in question comprises a compound supply or a multiple supply. A compound supply is a supply where there are a number of constituent elements which, if supplied separately, some would have been taxed and some not. With respect to these types of supplies, it is necessary to determine the quality of the final compound supply for tax purposes regardless of its constituent elements. A multiple supply has been defined as a transaction involving the supply of a number of separable goods or services. Each supply must be considered as an independent supply for tax purposes, the single consideration being apportioned among the separate supplies as appropriate.
+In deciding this issue, it is first necessary to decide what has been supplied as consideration for the payment made. It is then necessary to consider whether the overall supply comprises one or more than one supply. The test to be distilled from the English authorities is whether, in substance and reality, the alleged separate supply is an integral part, integrant or component of the overall supply. One must examine the true nature of the transaction to determine the tax consequences. The test was set out by the Value Added Tax Tribunal in the following fashion:
+In our opinion, where the parties enter into a transaction involving a supply by one to another, the tax (if any) chargeable thereon falls to be determined by reference to the substance of the transaction, but the substance of the transaction is to be determined by reference to the real character of the arrangements into which the parties have entered.
+One factor to be considered is whether or not the alleged separate supply can be realistically omitted from the overall supply. This is not conclusive but is a factor that assists in determining the substance of the transaction. The position has been framed in the following terms:
+What should constitute a single supply of services as opposed to two separate supplies, is not laid down in express terms by the value added tax enactments. It would therefore be wrong to attempt to propound a rigid and precise definition lacking statutory authority. One must, it seems to us, merely apply the statutory language, interpreting its terminology, so far as the ordinary meaning of the words allows, with the aim of making the statutory system of value added tax a practical workable system. For this purpose one should look at the degree to which the services alleged to constitute a single supply are interconnected, the extent of their interdependence and intertwining, whether each is an integral part or component of a composite whole. Whether the services are rendered under a single contract, or for a single undivided consideration, are matters to be considered, but for the reasons given above are not conclusive. Taking the nature, content and method of execution of the services, and all the circumstances, into consideration against the background of the value added tax system, particularly its methods of accounting for and payment of tax, if the services are found to be so interdependent and intertwined, so much integral parts or mere components or items of a composite whole, that they cannot sensibly be separated for value added tax purposes into separate supplies of services, then Parliament, in enacting the value added tax system, must be taken to have intended that they should be treated as a single system, otherwise, they should be regarded for value added tax purposes as separate supplies.
+The fact that a separate charge is made for one constituent part of a compound supply does not alter the tax consequences of that element. Whether the tax is charged or not charged is governed by the nature of the supply. In each case it is useful to consider whether it would be possible to purchase each of the various elements separately and still end up with a useful article or service. For if it is not possible then it is a necessary conclusion that the supply is a compound supply which cannot be split up for tax purposes.
+This passage was approved by the Federal Court of Appeal in HiddenValley Golf Resort Assn. v. The Queen, [2000] G.S.T.C. 42.
+[18] The approach taken by Rip J. in O.A. Brown did not depend upon the application of the specific provisions of sections 138 or 139. The premise upon which the resolution in O.A. Brown is based is that a distinction must be drawn between multiple supplies and a single supply.
+[19] The administrative position of the Canada Revenue Agency is set out in a release dated April 26, 2004, P-077R2 - Single and Multiple Supplies. A portion of the release is reproduced below:
+Issue
+At issue is whether a transaction consisting of several elements is a single supply or two or more supplies. This distinction is important in cases where a combination of elements is supplied, some of which would be taxable at 7% or 15%, and some of which would be zero-rated or exempt from the GST/HST, if supplied separately.
+Decision
+It is the Canada Revenue Agency's (CRA's) position that, for GST/HST purposes, the determination of whether a transaction consisting of several elements is to be regarded as a single supply or multiple supplies is based on a determination of fact.
+The CRA will use the following principles to determine whether a transaction consisting of several elements is to be regarded as a single supply or multiple supplies.
+1. Every supply should be regarded as distinct and independent.
+2. A supply that is a single supply from an economic point of view should not be artificially split.
+3. There is a single supply where one or more elements constitute the supply and any remaining elements serve only to enhance the supply.
+Discussion
+General Comments
+The following text discusses how to apply the principles set out above in order to determine whether a particular transaction consists of a single supply or multiple supplies. However, because of the variety of situations in both traditional and electronic commerce in which such a determination must be made, it is difficult to provide guidance covering every eventuality.
+Multiple supplies occur when one or more of the elements can sensibly or realistically be broken out.
+[20] For the principle in O.A. Brown to apply there must be an inextricable interdependency between the two elements so that they are integral parts of a composite whole that cannot, as a matter of commercial reality, be sensibly separated into separate supplies. Whether these criteria are met depends upon a number of factual considerations and these will vary from case to case. Here we have a sale of mortgages of which the servicing is not only an integral part but is requisite as a matter of commercial exigency. There is an intimate commercial relationship between CTM and the trusts in which CTM not only holds the registered title to the mortgages in trust for the trusts, but also performs the very services which are essential to the commercial viability of the trusts' investment. For someone other than CTM to service the mortgages would, as a practical matter, be commercially infeasible and would be inimical to the raison d'être of the transaction.
+[21] In my opinion on the basis of the foregoing we are dealing here with a single supply of the type contemplated by O.A. Brown.
+[22] This conclusion is sufficient to dispose of the case. Nonetheless, out of respect for the arguments of counsel, I shall deal with the alternative positions advanced. It is apparent that at least for the purposes of this case three categories of supply (or supplies) are contemplated by the statute and the case law:
+(a) Single supplies comprising two or more elements that are "inextricably bound up with each other" and are "intertwined and interdependent..." (the O.A. Brown principle).
+(b) Incidental supplies of the type described in section 138. The application of this section is premised on there being two services or properties supplied for a single consideration, one of which is incidental to the provision of the other supply or service. I shall describe these supplies as the dominant and the subservient supply.
+(c) The category described in section 139 in which financial services are mixed with non-financial services for a single consideration. A number of conditions must be met for section 139 to apply - the financial services must be related to the other services, the supplier must supply those services in the ordinary course of its business and the portion of the consideration for the financial services must be over 50 percent of the total consideration.
+[23] What will be apparent, I believe, is that the line between these categories is not always easy to draw. The three categories - single supplies with several elements, multiple supplies where one is dominant and others are subservient or incidental and mixed financial and non-financial supplies - can merge rather easily into each other with subtle shifts of emphasis.
+[24] I shall therefore consider the possible application of sections 138 and 139. One of the conditions of section 138 is that there be a single consideration. Another is that one supply be incidental to the other. The consideration for the servicing in this case is not stated to be a separate identifiable fee: it is stated to be part of, or an adjustment to, the purchase price. Article Two of the Master Mortgage Sale Agreement between SMART TRUST and CTM provides for CTM to provide the trust with a purchase notice setting out details of the mortgages that it proposes to sell to the trust. Section 2.02 reads:
+Acceptance of Mortgages. If the Trust agrees to the terms and conditions set out in the Purchase Notice, it shall signify its acceptance thereof by having the Administrative Agent execute and return to the Seller such Purchase Notice at least two Business Days before the proposed Closing Date referred to in the Purchase Notice (or such lesser period as is agreed to by the Trust and the Seller). If the Trust fails to accept such Purchase Notice within such period it shall be deemed to have declined such Purchase. Upon its acceptance of a Purchase Notice, but subject to compliance by the Seller with the conditions precedent set out in Sections 3.01(2) and (3), there shall exist a binding agreement between the Trust and the Seller for the purchase of the Mortgages set out therein for a purchase price equal to the Closing Payment less the amount to be deposited by the Seller pursuant to Section 3.01(3) plus the amounts payable hereunder to the Seller on account of the Deferred Amount, in each case in respect of such Purchase.
+Section 5.01 of Article Five reads:
+Purchases on a Serviced Basis. All sales of Purchased Mortgages pursuant to the provisions of this Agreement shall be on a serviced basis, meaning that the Trust shall have no obligation to service the Purchased Mortgages or collect the payments thereunder or to pay further compensation to the Seller for its services in connection therewith as provided for hereunder. The Seller acknowledges that the responsibility for servicing the Purchased Mortgages is that of the Seller until the Trust designates a Servicer pursuant to Section 8.03 and until such time the Seller will carry out and fulfil such responsibility by performing its obligations hereunder or by appointing an agent acceptable to the Trust to perform such obligations on its behalf. If the Seller should appoint an agent to perform its obligations hereunder, the Seller shall remain responsible for the performance by such agent of its obligations hereunder and be liable to the Trust for any failure on the part of such agent to perform such obligations.
+Article Six reads in part:
+Application of Mortgage Proceeds. (1) On each Settlement Date, the Trust will apply out of all moneys deposited into the Collections Account (i) on account of principal pursuant to Sections 2.04, 4.02, 5.02(1)(a), 5.03(3), 7.03, 7.04, 7.06, 8.05 and 8.07; and (ii) pursuant to any draw made by the Trust from the proceeds of issuance of Subordinated Notes, in repayment of its current principal obligations under the Senior Notes or the Liquidity Agreement, as the case may be, at such time, an amount that would reduce the Program Amount to an amount equal to the aggregate Net Book Value of all Purchased Mortgages that are not Defaulted Mortgages on such Settlement Date.
+(2) On each Settlement Date, the Trust will apply the balance of the moneys so deposited into the Collections Account,
+(a) first, at the option of the Trust, in payment to any holder of an Adverse Claim referred to in Section 5.03(2) to the extent that the Seller has been deemed to have received a Collection pursuant thereto but has not made the payment required pursuant to Section 5.03(3);
+(b) second, in reimbursement of any amount paid by the Seller pursuant to Section 5.04;
+(c) third, in payment of the funding obligations of the Trust incurred by it during the period commencing, in respect of the first Settlement Date, on the related Closing Date and, in respect of each succeeding Settlement Date, on the day following the immediately preceding Settlement Date and ending in each case on such Settlement Date under the Senior Notes and the Liquidity Agreement, as the case may be, in respect of the Program Amount on the immediately preceding Settlement Date and any hedging transaction (other than the Swap Transaction) entered into by the Trust in connection therewith, and under the Subordinated Notes;
+(d) fourth, in payment of any Settlement Amount (as defined in any agreement evidencing a Swap Transaction) payable to the Trust in respect of the immediately preceding Settlement Period;
+(e) fifth, in payment of any Servicer Fees in respect of the immediately preceding Settlement Period;
+(f) sixth, in satisfaction of the aggregate Program Fee payable to the Trust in respect of the period commencing, in respect of the first Settlement Date, on the related Closing date and, in respect of each succeeding Settlement Date, on the day following the immediately preceding Settlement Date and ending in each case on such Settlement Date; and
+(g) seventh, in repayment of any amounts drawn by the Trust from the proceeds of issuance of the Subordinated Notes which remain unpaid at such time.
+(3) The balance of the amounts held in the Collections Account after the applications of Section 6.01(2) shall be paid to the Seller by deposit into the Deferred Purchase Account as an adjustment to the purchase price of the Purchased Mortgages. The Trust will, on behalf of the Seller, apply such amounts on each Settlement Date,
+(a) first, by retention in the Deferred Purchase Account (and investment thereof in investments permitted by the Issuer Trustee with the return thereon to be maintained therein) of an amount equal to the aggregate Required DPA Amount at such time;
+(b) second, in payment of any amount due from the Seller hereunder, as an adjustment to the purchase price of the Purchased Mortgages; and
+(c) last, subject to Section 6.01(4), by payment of the balance thereof to the Seller on account of the Deferred Amounts by wire transfer or as otherwise agreed by the parties.
+[25] The passages quoted above represent the agreement between the parties and, in the absence of evidence that the agreement is different, establish conclusively that the consideration for the sale of the mortgages and the servicing of the mortgages was a single consideration.
+[26] The respondent however argues that an entry in the financial statements of CTM establishes that there was a separate consideration equal to 25 basis points on the face amount of the mortgages. The following note appears in the financial statements of CTM for 1997 and 1998:
+(f) Securitizations
+Where groups of loans are sold to special purpose entities under terms which transfer the significant risks and rewards of ownership to third parties, the transaction is recognized as a sale and the related loan assets are removed from the balance sheet. Gains on these sales are recorded as other income in the statement of earnings only when funds have been received and there is no recourse to the funds. Fees earned for servicing the portfolio of loans are recorded as fees in the statement of earnings as they are earned.
+[27] The Minister's reliance upon the financial statements of CTM is evident from two letters sent to the appellant by officials of the CRA. Mr. E.H. Gauthier, Deputy Assistant Commissioner wrote on July 2, 2002:
+The CCRA agrees that an indicator of a single consideration is whether there is a separately identifiable charge for the non-exempt supply. However, the CCRA does not agree that only the agreement between the parties determines whether there is a separate charge made. The CCRA examines all of the relevant information including the books and records of a registrant to determine the tax status of a transaction. Your own financial statements, "The Summary of Significant Accounting Policies (Note 1. to the Financial Statements)" states: "Fees earned for servicing the portfolio of loans are recorded in the statement of earnings as they are earned." This indicates that an actual, separate fee, and not just a notional one, is being charged for the mortgage servicing aspect notwithstanding that the agreement may not be clear on this issue. For this reason section 139 is not available to exempt the supply of mortgage servicing.
+Similarly, Mr. Drew Burrell wrote on February 29, 2000:
+The fact that the Master Mortgage Sale Agreement does not specify the consideration for the supply of servicing the mortgages is not an indication that the supply of servicing was in fact for nil consideration or for a single consideration that is part of the consideration for the sale of the mortgages. CTM's financial statements recognize the servicing fees as material based on standards set by OSFI and section 3860 of the CICA handbook. The notes attached to the financial statements indicate "normal servicing fees are recognized as other income in the statement of earnings when collected". Amounts recognized as mortgage-backed security administration fees recorded in general ledger account 3150 are based on the cash flow from the interest spread as determined under the provisions of the agreement.
+[28] There is in my view no basis for the respondent to assume that a note in the financial statements of a party to a transaction who is not even the person primarily liable for the GST can override the intentions of both parties as evidenced in the agreement between them. The 25 basis points were based, according to the evidence, on guidelines issued by the Office of the Superintendent of Financial Institutions ("OSFI") with respect to NHA-insured mortgage-backed securities. It is clearly not based on any agreement between CTM and the trust. There is no evidence that the trust or its administrator (CIBC World Markets) even knew of the 25 basis points being recorded in CTM's accounts.
+[29] It has often been observed that accounting entries do not create reality, but they should reflect it. The notes to the financial statements and the recording of an amount in account 3150 of the books of CTM neither create nor reflect reality. The substance of the transaction is contained in the agreement between the parties.
+[30] It should be observed that the 25 basis points on which the Minister is levying GST is itself only a very small portion of the difference between the net book value of the mortgages sold to the trust and the amount ultimately received by CTM, which is normally called the "excess spread". This is defined in the report of the expert accounting witness, Loraine D. McIntosh:
+What is Securitization?
+In its simplest form, securitization is a method of funding "receivables" (including but not limited to mortgage and other loans, leases, credit card balances, and trade receivables) through the issuance of tradeable securities backed by those receivables. In a typical transaction, an enterprise such as Canada Trust Mortgage Corporation (i.e. - the "Seller") would pool and sell a group of mortgage loans or other assets to a single seller or multi-seller securitization conduit (typically a Trust or other form of special purpose vehicle) which in turn issues securities to investors to finance the purchase. Sellers enter into these types of transactions for many reasons, including increased liquidity, regulatory capital relief, lower cost of funding, funding diversification, and improved balance sheet metrics.
+Securitization transactions take on many different forms - from an outright sale of the receivables with no continuing involvement by the Seller to transactions where the Seller retains the right and / or obligation to reacquire the receivables at some future date (i.e. - securities repurchase agreements or "repos"). Most transactions, however, fall somewhere in between these two extremes. In most cases the Seller has some continuing involvement with the transferred pool of receivables, both through the provision of credit enhancement, liquidity support or limited recourse protection to the securitization conduit and through the retention of ongoing servicing responsibilities with respect to the transferred pool. Credit enhancement or recourse is provided through a variety of means, including cash reserves, deferred purchase price amounts, holdbacks, or overcollateralization. The credit enhancement provided by the Seller typically enables the conduit to issue securities with a higher credit rating, thereby lowering the overall cost of funds for the Seller. Transactions in Canada are also almost exclusively structured such that the assets are sold on a fully serviced basis, without any specific servicing compensation to the Seller.
+The Seller is generally entitled to receive any "excess spread" generated by the transferred pool. For purposes of these transactions, "excess spread" is defined as the difference between the yield on the transferred assets and the securitization conduit's cost of funds, including hedging costs less (i) any losses due to obligor default, (ii) program fees, and (iii) other conduit expenses / distribution requirements (including liquidity fees, third party credit enhancement fees, trustee fees, rating agency fees, etc). Although not specified in the legal agreements, this entitlement to "excess spread" is in substance viewed as compensation to the Seller in exchange for providing credit enhancement and / or liquidity support and for servicing the portfolio.
+[31] The Minister appears to accept that the excess spread is exempt from GST except for the small portion that is represented by the 25 basis points.
+[32] In my view there is a single consideration and even if it could be said that there are two supplies the supply of the servicing is clearly incidental to the sale. Therefore, section 138 would be applicable.
+[33] If section 138 were not applicable, section 139 would apply. Even if the O.A. Brown principle did not apply, it would need as a minimum to be accepted that financial services are supplied with one or more non-financial services for a single consideration and the services are related. The consideration for the financial services, (the sale of the mortgages) if they were supplied separately, is obviously greater than 50 percent of the total. Certainly it is in the ordinary course of CTM's business to supply such services.
+[34] A question of interpretation arises in section 139. It is whether the words in paragraph (c) "... those or similar services" refer to the financial services or the non-financial services, or both, as mentioned in paragraph (a). The French version incorporates the English paragraph (a) into the preamble and (b) uses the expression "ces services ou des services semblables". Clearly the condition is met if both types of services are supplied in the ordinary course of the supplier's business. The scale upon which CTM engages in these asset-backed securitization transactions and their frequency brings this activity within its ordinary course of business. Whether the condition in section 139 is met if only financial services or only related non-financial services are performed by the supplier in the course of its business is a question best left to another day.
+[35] Any one of the following three hypotheses would justify the exemption of the amount on which GST was levied.
+(a) The sale of the mortgages to the trust and the servicing of those mortgages are two integral components of a single supply. The O.A. Brown principle is in my view applicable and determinative.
+(b) Even if the servicing of the mortgages is a separate supply it is incidental to the sale and both were provided for a single consideration. Therefore the servicing is deemed to form part of the supply of the mortgages under section 138.
+(c) Even if the servicing of the mortgages is not a financial service it is provided with the supply of the mortgages and they are supplied for a single consideration. The supply of the mortgages and the supply of the services are related. The supply of those services is made in the ordinary course of CTM's business. If it were possible to supply the financial services separately (the sale of the mortgages) the consideration for them is much greater than 50 percent. Indeed, even if we were to separate the sale of the mortgages at their net book value from the excess spread and treat the excess spread as consideration for a separate supply, it is obvious that the 25 basis points forms a very small portion of the excess spread which the Minister has treated as exempt.
+[36] If I had to choose between the three hypotheses I think that the closest fit is the O.A. Brown principle, although any of the three hypotheses that I have set out above could apply to render exempt the amounts on which GST was levied.
+[37] The appeal from the assessment made under the E.T.A. is allowed with costs and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the portion of the amounts paid by the trusts referred to in the Agreed Statement of Facts on which the Minister has assessed goods and services tax forms part of the consideration paid for exempt financial services, and also on the basis of the concession made by the respondent at trial with respect to the NHA insured Mortgage-backed Securities.
+Signed at Ottawa, Canada, this 17th day of December 2004.
+"D.G.H. Bowman"
+Bowman, A.C.J.
+SCHEDULE A
+COURT FILE NO. 2003-3554(GST)G
+TAX COURT OF CANADA
+BETWEEN:
+CANADA TRUSTCO MORTGAGE COMPANY
+Appellant,
+- and -
+HER MAJESTY THE QUEEN
+Respondent.
+AGREED STATEMENT OF FACTS (PARTIAL)
+The parties to this proceeding admit, for the purposes of this proceeding only, the truth of the following facts:
+A. INTRODUCTION
+1. At all material times the Appellant was:
+(a) regulated in Canada by the Office of the Superintendent of Financial Institutions ("OSFI" ); and
+(b) a "listed financial institution" as defined in subsection 123(1) of the Excise Tax Act (Canada) (the "Act").
+2. The circumstances and transaction documents which inform the appeal are described in part in paragraphs 3 to 29 below.
+B. SMART TRUST
+3. A trust known as "SMART TRUST" was established under the laws of the Province of Ontario pursuant to a Declaration of Trust made on May 8, 1996 by CIBC Trust Corporation (an authentic copy of which is attached hereto at Tab 1).
+2
+4. Pursuant to the terms of a "Master Mortgage Sale Agreement" between SMART TRUST and the Appellant dated January 20, 1997 (an authentic copy of which is attached hereto at Tab 2), the Appellant sold three groups of mortgages to SMART TRUST, on:
+(a) January 23, 1997, as described in a Purchase Notice of such date executed by SMART TRUST and the Appellant (an authentic copy of which is attached hereto at Tab 3);
+(b) March 4, 1997, as described in a Purchase Notice of such date executed by SMART TRUST and the Appellant (an authentic copy of which is attached hereto at Tab 4); and
+(c) June 16, 1998, as described in a Purchase Notice of such date executed by SMART TRUST and the Appellant (an authentic copy of which is attached hereto at Tab 5).
+C. PURE TRUST
+5. A trust known as "PURE TRUST" was established under the laws of the Province of Ontario pursuant to a Declaration of Trust made on December 16, 1994 by The Royal Trust Company (an authentic copy of which is attached hereto at Tab 6).
+6. Pursuant to a Mortgage Purchase and Servicing Agreement dated June 11, 1997 between the Appellant, The Royal Trust Company as trustee of PURE TRUST, and the Royal Bank of Canada as Financial Services Agent (an authentic copy of which is attached hereto at Tab 7), the Appellant sold mortgages to PURE TRUST on June 11, 1997, as described in a Purchase Notice of such date executed by PURE TRUST and the Appellant (an authentic copy of which is attached hereto at Tab 8).
+7. Pursuant to a Mortgage Purchase and Servicing Agreement dated February 24, 1998 between the Appellant, The Royal Trust Company as trustee of PURE TRUST, and the Royal Bank of Canada as Financial Services Agent (an authentic
+3
+copy of which is attached hereto at Tab 9), the Appellant sold mortgages, on terms similar to those of the June 11, 1997 transaction, to PURE TRUST on February 24, 1998, as described in a Purchase Notice of such date executed by PURE TRUST and the Appellant (an authentic copy of which is attached hereto at Tab 10).
+8. The terms and conditions of the Mortgage Purchase and Servicing Agreements with PURE TRUST were substantially similar to the Master Mortgage Sale Agreement with SMART TRUST.
+D. MASTER TRUST
+9. A trust known as "CANADIAN MASTER TRUST" ("MASTER TRUST") was established under the laws of the Province of Ontario pursuant to a Deed of Settlement dated as of December 15, 1995 by Associated Assets Acquisition Corporation and The Trust Company of Bank of Montreal (an authentic copy of which is attached hereto at Tab 11).
+10. Pursuant to a "Mortgage Purchase and Servicing Agreement" dated April 18, 1997, between the Appellant and The Trust Company of Bank of Montreal as trustee of MASTER TRUST (an authentic copy of which is attached hereto at Tab 12), the Appellant sold mortgages to MASTER TRUST, on:
+(a) April 22, 1997, as described in a Purchase Request of such date executed by The Trust Company of Bank of Montreal as trustee of MASTER TRUST and the Appellant (an authentic copy of which is attached hereto at Tab 13); and
+(b) November 7, 1997, as described in a Purchase Request of such date executed by The Trust Company of Bank of Montreal as trustee of MASTER TRUST and the Appellant (an authentic copy of which is attached hereto at Tab 14).
+4
+11. The terms and conditions of the Mortgage Purchase and Servicing Agreement with MASTER TRUST were substantially similar to the Master Mortgage Sale Agreement with SMART TRUST.
+E. TRUSTS
+12. The Appellant dealt with each of SMART TRUST, PURE TRUST, and MASTER TRUST (the "Conduit Trusts") on an arms-length basis.
+13. Each of the Conduit Trusts borrowed funds in the commercial paper market and, as described above, purchased interests in mortgages from the Appellant.
+14. Such mortgages had been issued by the Appellant and/or a person closely related to it.
+15. Each agreement under which the interests in the mortgages were transferred from the Appellant to a Conduit Trust provided for payment of amounts by the Conduit Trust to the Appellant.
+16. The Appellant and each Conduit Trust entered into a derivative contract in respect of the serviced mortgages sold to the Conduit Trust, under which the Appellant was obligated to make payments at a floating rate to the Conduit Trust and entitled to receive payments at a fixed rate from the Conduit Trust.
+17. An authentic copy of the derivative contract entered into by the Appellant and:
+(a) SMART TRUST, dated January 20, 1997, as supplemented January 23, 1997, is attached hereto at Tab 15;
+(b) The Royal Trust Company in its capacity as trustee of PURE TRUST, dated June 11, 1997, as supplemented on June 11, 1997, is attached hereto at Tab 16; and
+5
+(c) The Trust Company of Bank of Montreal as trustee of MASTER TRUST dated April 18, 1997, as supplemented on April 22, 1997, is attached hereto at Tab 17.
+F. NHA MBS PROGRAM
+18. Under the National Housing Act-insured Mortgage-Backed Securities ("MBS") Program:
+(a) the Appellant issued residential mortgages that were insured under the National Housing Act (the "NHA") through the Canada Mortgage and Housing Corporation (the "NHA Mortgages");
+(b) the Appellant established numerous pools of the NHA Mortgages; and
+(c) public investors acquired an undivided interest in such pools through the issuance of investment certificates by the Appellant.
+G. OSFI
+19. The Appellant is regulated by the Office of the Superintendent of Financial Institutions ("OSFI") and required to follow OSFI guidelines.
+20. Of relevance in this matter are OSFI Guideline D-3, "Accounting for NHA­insured Mortgage-backed Securities", and OSFI Guideline D-4, "Transfers of Financial Assets with Recourse", which together regulated the Appellant's financial reporting for the mortgages at issue in this litigation.
+21. OSFI Guideline D-4, "Transfers of Financial Assets with Recourse", dated July 1994 (an authentic copy of which is attached hereto at Tab 18) states that, for a transaction that is a sale:
+. . .
+In accounting for a transfer of financial assets with recourse, a transferor should comply
+with the following clarifications and interpretations:
+. . .
+6
+· where the transferor continues to service the assets sold, the normal servicing fee should be recognized over the servicing period as earned
+. . .
+22. OSFI Guideline D-3, "Accounting for NHA-insured Mortgage-backed Securities", dated July 1992 (an authentic copy of which is attached hereto at Tab 19) outlines the accounting requirements for an issuer-servicer of NHA-insured MBS; inter alia, it provides the following guidance regarding the accounting treatment of servicing activities:
+Interest Spread
+. . .
+The cash flows from the interest spread represent two separate forms of compensation to the issuer-servicer:
+· a fee to service the pool of mortgages on behalf of the holders of the mortgage-backed securities (the normal servicing fee); and
+· part of the consideration (sales proceeds) received from the sale of the mortgage-backed securities to investors (the net interest spread).
+NormalServicing Fee
+The normal servicing fee represents a reasonable estimate of a market-based fee to service the pool of underlying mortgages over the life of the mortgage-backed securities. The normal servicing fee rate is to be no less than the market-based rates established by CMHC from time to time. Currently these rates are 25 basis points for homeowner and mixed (generally homeowner and multiple family) mortgage pools, and 15 basis points for multiple family and social housing mortgage pools.
+23. In preparing its financial statements for 1997 and 1998, the Appellant followed OSFI Guidelines D-3 and D-4, except that in preparing its financial statements for 1997, the Appellant recorded as a "normal servicing fee" an amount of 125 basis points, as opposed to 25 basis points. An authentic copy of the Appellant's Non­Consolidated Financial Statements (including Notes thereto) for:
+(a) the Year Ended December 31, 1997 is attached hereto at Tab 20; and
+(b) the Year Ended December 31, 1998 is attached hereto at Tab 21.
+24. In its Notes to Non-Consolidated Financial Statements for the Year Ended:
+7
+(a) December 31, 1997, the Appellant reported as "Fees" $20,051,000 for "Mortgage Servicing", a significant component of which was the amount recorded in its General Ledger Account 3150 for 1997; and
+(b) December 31, 1998, the Appellant reported as "Fees" $14,542,000 for "Mortgage Servicing", a significant component of which was the amount recorded in its General Ledger Account 3150 for 1998.
+25. Consistent with OSFI Guidelines D-3 and D-4, the Appellant's "Summary of Significant Accounting Policies" in its Non-Consolidated Financial Statements for the Year Ended December 31, 1998 described the treatment of servicing fees in Note 1(f) as follows:
+Where groups of loans are sold to special purpose entities under terms which transfer the significant risks and rewards of ownership to third parties, the transaction is recognized as a sale and the related loan assets are removed from the balance sheet. Gains on these sales are recorded as other income in the statement of earnings only when funds have been received and there is no recourse to the funds. Fees earned for servicing the portfolio of loans are recorded as fees in the statement of earnings as they are earned.
+26. A substantially identical Note was made to the Appellant's Non-Consolidated Financial Statements for the year ended December 31, 1997.
+H. ASSESSMENT
+27. By Notice of Assessment No. 08BPO104415 dated August 19, 2002 (the "Assessment", being a letter an authentic copy of which is attached hereto with supporting schedules at Tab 22), the Minister of National Revenue (the "Minister"):
+(a) determined that the following amounts, which pertained to amounts received by the Appellant and described in OSFI Guidelines D-3 and D-4 as "normal servicing fees" would be subject to assessment for Goods & Services Tax ("GST"):
+1997 $ 9,777,633.37; and
+1998 $ 9,681,598.91; and
+8
+(b) assessed the Appellant for the following amounts of GST, which the Minister calculated by multiplying the amounts described above in subparagraph 9(a) by the fraction 7/107:
+1997 $ 639,658.26
+1998 $ 633,375.63
+Total: $1,273,033.89.
+28. The Minister also assessed the Appellant a penalty amount of $371,118.38 and an interest amount of $280,831.19.
+29. The total assessed amount was $1,924,983.46.
+The parties hereto agree that this Agreed Statement of Facts (Partial) does not preclude either party from calling evidence to supplement the facts agreed to herein, it being accepted that such evidence may not contradict the facts agreed.
+9
+DATED at the City of Toronto, in the Province of Ontario, this 24th day of November, 2004.
+OSLER, HOSKIN & HARCOURT LLP
+___________________________________
+Per: Al Meghji/Sean Aylward
+Counsel for the Appellant
+Osler, Hoskin & Harcourt LLP
+P.O. Box 50
+1 First Canadian Place
+Toronto, Ontario
+Canada, M5X 1B8
+Telephone: (416) 862-5677/5901
+Facsimile: (416) 862-6666
+Solicitor for the Appellant
+Morris A. Rosenberg
+Deputy Attorney General of Canada
+__________________________________
+Per: Harry Erlichman
+Counsel for the Respondent
+Department of Justice Canada
+Ontario Regional Office
+The Exchange Tower
+First Canadian Place
+130 King Street West
+Suite 3400, Box 36
+Toronto, Ontario M5X IK6
+Telephone: (416) 973-3108
+Facsimile: (416) 973-0810
+Solicitor for the Respondent
+TO: The Registrar
+Tax Court of Canada
+31d Floor - 200 Kent Street Ottawa, ON KIA OMI
+CITATION:
+2004TCC792
+COURT FILE NO.:
+2003-3554(GST)G
+STYLE OF CAUSE:
+Canada Trustco Mortgage Company and Her Majesty The Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+November 29 to December 2, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable D.G.H. Bowman, Associate Chief Justice
+DATE OF JUDGMENT AND REASONS FOR JUDGMENT:
+December 16, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Al Meghji
+Sean Aylward
+D'Arcy Schieman
+Counsel for the Respondent:
+David Chodikoff
+John McLaughlin
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+Osler, Hoskin & Harcourt
+First Canadian Place
+Toronto, Ontario M5X 1B8
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Paragraph (9) was amended in 2000 retroactively to 1990 to add a reference to "investment plan" as defined in subsection 149(5). The amendment is not relevant here.

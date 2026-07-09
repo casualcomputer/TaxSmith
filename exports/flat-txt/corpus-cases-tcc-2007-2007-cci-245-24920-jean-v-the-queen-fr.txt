@@ -1,0 +1,145 @@
+Title: Jean v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/24920/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-245-24920-jean-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2007-04-23
+
+# Jean v. The Queen
+
+- Citation: 2007 CCI 245
+- Decision date: 2007-04-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2350, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jean v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-04-23
+Référence neutre
+2007 CCI 245
+Numéro de dossier
+2006-3069(IT)I
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-3069(IT)I
+ENTRE :
+MICHEL JEAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 28 mars 2007, à Ottawa (Ontario)
+Devant : L’honorable juge L.M. Little
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Ryan R. Hall
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre des cotisations établies en application de la Loi de l’impôt sur le revenu à l’égard des années d’imposition 2002, 2003 et 2004 sont accueillis sans dépens, et les cotisations sont déférées au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations conformément aux motifs du jugement ci‑joints.
+Signé à Vancouver (Colombie‑Britannique), ce 23e jour d’avril 2007.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 6e jour de juin 2007.
+Hélène Tremblay, traductrice
+Référence : 2007CCI245
+Date : 20070423
+Dossier : 2006-3069(IT)I
+ENTRE :
+MICHEL JEAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Little
+A. FAITS
+[1] L’appelant et son ancienne conjointe de fait, Muriel Jamieson (ci‑après « Mme Jamieson »), ont acheté deux biens locatifs avant l’année d’imposition 1999 (les « biens locatifs »).
+[2] Les biens locatifs étaient situés aux adresses suivantes :
+1. 10, rue Chapel, Aylmer (Québec)
+(Remarque : La Ville d’Aylmer a depuis été fusionnée avec la Ville de Gatineau (Québec).)
+2. 205, rue Wilbrod, Ottawa (Ontario)
+[3] Au cours de l’année d’imposition 1999, l’appelant et Muriel Jamieson ont mis fin à leur union de fait.
+[4] Dans ses déclarations de revenus pour les années d’imposition 2002, 2003 et 2004, l’appelant a demandé des déductions au titre de pertes locatives nettes à l’égard des biens locatifs en fonction de ce qui suit :
+Année Pertes
+2002 8 335 $
+2003 11 560 $
+2004 7 883 $
+[5] Dans des avis de nouvelle cotisation datés du 30 janvier 2006, le ministre du Revenu national (le « ministre ») a établi de nouvelles cotisations à l’égard des années d’imposition 2002, 2003 et 2004 de l’appelant et a refusé les déductions au titre de pertes locatives nettes demandées par l’appelant.
+B. POINT EN LITIGE
+[6] Il s’agit de savoir si l’appelant a droit aux déductions au titre de pertes locatives nettes demandées à l’égard des années d’imposition 2002, 2003 et 2004.
+C. ANALYSE ET DÉCISION
+[7] La preuve qui m’a été présentée indiquait qu’après leur séparation en 1999, l’appelant et Mme Jamieson ne s’entendaient pas du tout sur de nombreuses questions, y compris la propriété et l’exploitation des biens locatifs ainsi que la communication de renseignements financiers concernant les biens en cause.
+[8] Dans une lettre adressée à Jason D. McKay, un vérificateur auprès de l’Agence du revenu du Canada (l’« ARC »), l’appelant, en parlant des biens locatifs, a écrit :
+[TRADUCTION]
+Dès le départ, ces biens avaient été achetés dans le but d’en tirer des revenus. Ces revenus ont toujours été déclarés. Je n’avais pas de données précises pour les années 2002, 2003 et 2004. Cependant, ceci ne change rien au but visé, soit de tirer des revenus des biens. (Je souligne.)
+[9] Dans sa lettre à M. McKay, l’appelant écrit aussi :
+[TRADUCTION]
+Depuis que j’ai acheté les biens avec Muriel Jamieson, j’ai toujours déclaré les revenus qui en étaient tirés. Cependant, depuis 2002, madame Jamieson refuse de me communiquer le montant des revenus tirés de nos biens. Pour l’obtenir, j’ai dû intenter, en 2002, une poursuite devant la Cour supérieure de justice de l’Ontario visant à obtenir les renseignements financiers concernant mes biens. À ce jour, madame Jamieson ne m’a pas communiqué de renseignement financier concernant nos biens. (Voir pièce A-8)
+(Remarque : Cette lettre n’est pas datée, mais il semble que l’appelant l’ait envoyée au vérificateur par télécopieur le 10 octobre 2005.)
+[10] Comme il a été indiqué ci‑dessus, l’appelant a intenté des poursuites devant la Cour supérieure de l’Ontario contre Mme Jamieson.
+[11] Le 17e jour de mai 2004, monsieur le juge Charbonneau de la Cour supérieure de l’Ontario a rendu une ordonnance selon laquelle :
+[TRADUCTION]
+1) D’ici 60 jours, les deux parties doivent produire des reçus, des pièces justificatives et des relevés de compte faisant état de toute dépense prétendument engagée par l’une ou l’autre des parties à l’égard des biens et de tous les revenus gagnés par l’une et l’autre d’entre elles. Si l’intimée ne peut pas produire de copies, la Cour lui ordonne de remettre toutes les boîtes de documents à M. Webster, l’avocat du requérant, pour qu’il fasse des copies des documents demandés par le requérant puis rende les documents originaux à l’intimée.
+2) La Cour ordonne à l’intimée de donner au requérant libre accès au sous‑sol du bien situé au 205, rue Wilbrod, à Ottawa afin que ce dernier puisse obtenir les documents qui pourraient s’y trouver. L’intimée peut demander la présence d’un tiers de son choix pendant la visite du requérant. (Voir pièce A-17)
+[12] L’appelant soutient qu’il n’a jamais reçu de documents financiers de la part de Mme Jamieson concernant le bien situé sur la rue Wilbrod faisant l’objet de l’ordonnance du juge Charbonneau.
+[13] L’appelant affirme qu’en 2005, il a conclu un règlement avec Mme Jamieson et s’est désisté de l’instance. Conformément au règlement, l’appelant a obtenu la propriété du bien situé au 10, rue Chapel, et Mme Jamieson a obtenu la propriété du bien situé au 205, rue Wilbrod.
+[14] L’appelant soutient toujours qu’au cours des années d’imposition 2002, 2003 et 2004, il a dû effectuer divers paiements concernant les biens locatifs, notamment des paiements pour la deuxième hypothèque. (Voir pièce A-10)
+[15] Malgré le fait que la preuve présentée à la Cour n’était pas complète, je suis convaincu que l’appelant exploitait une entreprise de location avec Mme Jamieson au cours des années d’imposition 2002, 2003 et 2004.
+[16] De plus, compte tenu de la preuve qui m’a été présentée et du témoignage sous serment que j’ai entendu, je suis convaincu que l’appelant a droit aux déductions demandées à l’égard des paiements d’intérêts faits à la société Exceed Mortgage Corporation pour la deuxième hypothèque :
+Année Paiements d’intérêts
+2002 6 695,26 $
+2003 5 895,03 $
+2004 6 351,87 $
+(Remarque : Des lettres envoyées par la société Exceed Mortgage Corporation font état des paiements d’intérêts. Voir pièce R-1, onglet 7.)
+[17] Afin de trancher la question concernant la déduction des intérêts payés à l’égard de la deuxième hypothèque, j’ai examiné les commentaires du juge Iacobucci dans l’arrêt Tennant v. The Queen, 96 DTC 6121, et je partage son avis.
+[18] Dans l’arrêt Johnston v. M.N.R., [1948] S.C.R. 486, la Cour suprême du Canada a statué qu’il incombait au contribuable de prouver l’invalidité de la cotisation. En ce qui concerne les autres demandes formulées par l’appelant dans ses avis d’appel, je conclus qu’il n’a pas été en mesure de prouver l’invalidité des nouvelles cotisations.
+[19] Les appels sont accueillis sans dépens, et le ministre doit établir de nouvelles cotisations à l’égard de l’appelant afin d’admettre les déductions énoncées au paragraphe 16 ci‑dessus.
+Signé à Vancouver (Colombie-Britannique), ce 23e jour d’avril 2007.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 6e jour de juin 2007.
+Hélène Tremblay, traductrice
+RÉFÉRENCE :
+2007CCI245
+N° DE DOSSIER :
+2006-3069(IT)I
+INTITULÉ :
+Michel Jean et
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Ottawa (Ontario)
+DATE DE L’AUDIENCE :
+Le 28 mars 2007
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge L.M. Little
+DATE DU JUGEMENT :
+Le 23 avril 2007
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Ryan R. Hall
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

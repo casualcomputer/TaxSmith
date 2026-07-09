@@ -1,0 +1,237 @@
+---
+title: "Andre Lamy Medicine Professional Corporation v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/482684/index.do"
+last_modified: "2020-07-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2020 TCC 61"
+citation2: ""
+neutral_citation: "2020 TCC 61"
+decision_date: "2020-07-20"
+language: "en"
+item_id: "482684"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4591
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-07-24T06:07:41.867000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fc4b0edc3e999158536bbf69b22e897db8a35a9c66aa1f0c1dff3cb91f35692e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Andre Lamy Medicine Professional Corporation v. The Queen
+
+- Citation: 2020 TCC 61
+- Decision date: 2020-07-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4591, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Andre Lamy Medicine Professional Corporation v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2020-07-20
+Neutral citation
+2020 TCC 61
+File numbers
+2017-2714(IT)G
+Judges and Taxing Officers
+Steven K. D'Arcy
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2017-2714(IT)G
+BETWEEN:
+ANDRE LAMY MEDICINE PROFESSIONAL CORPORATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on December 12, 2019 at Hamilton, Ontario
+Before: The Honourable Justice Steven K. D'Arcy
+Appearances:
+Counsel for the Appellant:
+Kevin Scullion
+Counsel for the Respondent:
+Stan McDonald
+JUDGMENT
+In accordance with the attached reasons for judgment:
+The appeal from assessments made under the Income Tax Act for the taxation years of the Appellant ending January 1, 2014 (the 2013 taxation year) and January 1, 2015 (the 2014 taxation year) is allowed, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to the scientific research and experimental development tax credits claimed by the Appellant in its tax return for each of the 2013 and 2014 taxation years.
+The parties have 30 days from the date of the judgment herein to arrive at an agreement on costs, failing which they are directed to file written submissions on costs within 60 days of the date of the judgment. Such submissions shall not exceed 15 pages. If the parties fail to reach an agreement on costs and no written submissions are filed, costs shall be awarded to the Appellant pursuant to the tariff.
+Signed at Antigonish, Nova Scotia, this 20th day of July 2020.
+“S. D’Arcy”
+D'Arcy J.
+Citation: 2020 TCC 61
+Date: 20200720
+Docket: 2017-2714(IT)G
+BETWEEN:
+ANDRE LAMY MEDICINE PROFESSIONAL CORPORATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+D'Arcy J.
+[1] The Appellant has appealed assessments in respect of its taxation years ending on January 1, 2014 (the 2013 taxation year) and January 1, 2015 (the 2014 taxation year). When assessing the Appellant, the Minister disallowed claimed scientific research and experimental development (“SR&ED”) tax credits in the amounts of $93,828.00 and $107,642.00 for the 2013 and 2014 taxation years respectively.
+[2] At the commencement of the hearing, the parties filed a Statement of Agreed Facts (the “SAF”) and a Joint Book of Documents (Exhibit AR-1). The SAF is attached as Schedule 1 to these Reasons for Judgment. The parties agreed on the admissibility and authenticity of the documents included in Exhibit AR-1 and further agreed that those documents can be taken as proof of the truth of their contents. As a result, I accepted the documents as filed by the parties.
+[3] I heard from one witness during the hearing, Dr. Andre Lamy (“Dr. Lamy”). The SAF states that Dr. Lamy is the director, president, and secretary/ treasurer of the Appellant. He is the Appellant’s controlling mind. I found Dr. Lamy to be a very credible witness.
+I. Issue Before the Court
+[4] In her Reply, the Respondent stated the following: “the Minister admits that the SR&ED for which the tax credits in question were claimed fits within the definition of SR&ED pursuant to subsection 248(1) of the Income Tax Act, R.S.C. 1985 . . ..” Counsel for the Respondent informed the Court, at the commencement of the hearing, that the Respondent accepts that the research projects undertaken were SR&ED and that “the amounts, the quantum [specified by the Appellant] are correct”. In short, the Respondent accepts that $93,828 and $107,642 were spent in the 2013 and 2014 taxation years on qualifying SR&ED.
+[5] The issue before the Court is whether the Appellant carried out the SR&ED or whether Dr. Lamy conducted the research in his personal capacity.
+II. Relevant Facts
+[6] The SAF notes that the Appellant was incorporated on June 23, 2008.
+[7] Dr. Lamy testified that for the past 23 years he has been a cardiac surgeon and a researcher in cardiac surgery. He performs all of his work as a cardiac surgeon at the Hamilton General Hospital. He is not an employee of the hospital; he is an “individual contractor as a cardiac surgeon”. He performs his research in his home and at his office in the Population Health Research Institute at the Hamilton General Hospital.
+[8] Dr. Lamy noted that all of his research is directed towards cardiac surgery. That research is a direct result of his experience with his patients, particularly with respect to complications that arise during surgery. He stated that his research attempts to improve the survival of patients, by either finding better techniques to decrease complications that arise during surgery or determining which medications can improve the survival of his patients after surgery.
+[9] He has performed this research continuously over the last 22 years, normally working on 4 to 6 projects at any point in time. He noted that during this period (and in fact for most of the last 23 years) he has worked seven days a week.
+[10] He stated that, once the Appellant was incorporated in 2008, he performed all of his work as a surgeon, and carried out all of his research, as an employee of the Appellant. He testified that the Appellant, and no one else, pays him for the time he spends conducting research.
+[11] The agreement at tab 5 of Exhibit AR-1 supports Dr. Lamy’s testimony. This agreement is an employment agreement between the Appellant and Dr. Lamy (the “Employment Agreement”). One of the recitals to the Employment Agreement states that the Appellant is engaged in the business of the practice of medicine and activities related to and ancillary to the practice of medicine. Dr. Lamy stated that activities related to and ancillary to the practice of medicine include the research he performs on behalf of the Appellant.
+[12] Section 1.3 of the Employment Agreement states the following:
+Time to be Devoted: During the period of his employment hereunder, the Employee [Dr. Lamy] acknowledges that unless specifically set out herein, it shall be necessary for him to devote all of his working time and attention to the affairs of the Corporation and/or its affiliates. For greater certainty, the Employee shall not devote any time whatsoever to any business whatsoever (other than for and on behalf of the Corporation or any of its affiliates).
+[13] Dr. Lamy testified that he has complied with this provision. Since 2008 he has not devoted his time to any business other than the business of the Appellant of performing cardiac surgery and conducting medical research. He did however devote some time to a non-business activity, namely teaching. As stated in paragraph 5 of the SAF, he was an employee of the Faculty of Health Sciences at McMaster University where his teaching duties included lecturing on research methodology and the inclusion of students in cardiac surgery.
+[14] Dr. Lamy noted that, as required under the relevant provincial legislation, he is required to bill the Government of Ontario in his own name and under his personal billing number for the medical services he performs on behalf of the Appellant. Section 4.2 of the Employment Agreement provides that any money or securities Dr. Lamy receives in respect of these billings are received for, or on behalf of, the Appellant. In other words, the Appellant earns the amounts billed to the Government of Ontario in Dr. Lamy’s name.
+[15] The SAF states the following at paragraphs 6 to 8:
+6. During the 2013 and 2014 taxation years, Dr. Lamy was involved in experimental projects relating to advancements in cardiac surgical techniques and treatments. There were two studies known as the Vision study, that included projects referred to throughout as “Vision” and “Coronary”, and the Compass study, that included projects referred to throughout as “Compass” and “Accelerate” (the “Projects”).
+7. The Projects constituted scientific research and experimental development (“SRED”) within the meaning of the Income Tax Act (the “Act”).
+8. Careful SRED time tracking dockets were kept as required, and detailed representations and information packages regarding the Projects were prepared.
+[16] Dr. Lamy provided a brief description of each of the four projects.
+[17] With respect to the Coronary Project, he testified that it related to bypass surgery. He referred to two techniques that are used when conducting bypass surgery. One is called a cardiopulmonary bypass, or the pump. This involves stopping the heart while the bypass is performed. The second technique is called off-pump. A pump is not used and the bypass is performed while the heart is beating. Dr. Lamy noted that there was much discussion in the medical community with respect to which technique is better. As a result, he decided that he would try to answer that question by starting the Coronary Project. He has been working on the project for ten years and it is not yet completed. He worked on this project during the 2013 and 2014 taxation years.
+[18] The Vision Project involves identifying when a person has had a heart attack during cardiac surgery. The project involves 15,000 patients in eight or nine countries around the world. During the 2013 and 2014 taxation years, Dr. Lamy helped design the trials for the project.
+[19] The Compass Project is a large trial project. Dr. Lamy was involved in a small portion of the project; that portion involved testing the medication Rivaroxaban with certain patients. Dr. Lamy noted this his involvement related to the small portion of the test population who had undergone cardiac surgery. He worked on the project during the 2013 and 2014 taxation years and continues to work on the project today.
+[20] The last project, the Accelerate Project, was a trial that did not go well. It was in relation to diabetes and bypass surgery medication. He worked on the project during the 2013 and 2014 taxation years. The project ended shortly after 2014.
+[21] During the 2013 and 2014 taxation years, he spent approximately 52 to 57 per cent of his time working on these four projects. He testified that he conducted all of his research as an employee of the Appellant.
+[22] I was taken to contracts that relate to two of the projects: the Coronary Project and the Compass Project. I was not provided with any contracts in respect of the Vision Project or the Accelerate Project.
+[23] The contract with respect to the Coronary Project (the “Coronary Agreement”) is Tab 4 of Exhibit AR-1. The parties signed the agreement in late January and early February 2010. It is between the Hamilton Health Sciences Corporation (referred to in the agreement as the Institution), Dr. Lamy (referred to in the agreement as the Investigator) and McMaster University through the Population Health Research Institute (referred to in the agreement as PHRI). In the recitals to the agreement it is noted that the Canadian Institute of Health Research provided a grant for the study.
+[24] The recitals to the Coronary Agreement further state:
+WHEREAS the Investigator [Dr. Lamy] and Institution [Hamilton Health Sciences Corporation] possess the resources and expertise to carry out a portion of the Study and wish to assist PHRI by acting as a recruiting centre for the Study.
+[25] It appears from this recital that Dr. Lamy and the Hamilton Health Sciences Corporation recruited people to participate in the study. It also appears from Article 1 of the Coronary Agreement that Dr. Lamy and the Hamilton Health Sciences Corporation also participated in the study. It is not clear to me what their participation under the Coronary Agreement involved, since I was not provided with a description of the study as that term is used in the agreement. It would appear from the recitals that a description of the study is contained in a protocol developed by PHRI and a steering committee. I was not provided with a copy of this protocol.
+[26] Article 1 of the Coronary Agreement provides that in consideration for the performance of the study the Hamilton Health Sciences Corporation and/or Dr. Lamy will be paid specified amounts on a “per-subject” (patient) basis.
+[27] Dr. Lamy testified that no amounts were paid under the Coronary Agreement to either him or the Appellant. He noted that in order for payments to have been made in respect of the Coronary Project, either he or the Appellant would have had to have completed the box at the bottom of page 14 of Tab 4 of Exhibit AR-1 (this is page 2 of Exhibit B to the Coronary Agreement). This box was not completed.
+[28] Tab 3 of Exhibit AR-1 contains a letter of understanding with respect to the Compass Project (the “Compass Letter of Understanding”). The letter is signed by the Hamilton Health Sciences Corporation (identified in the letter as “HHSC”) and Dr. Lamy. The purpose of the Compass Letter of Understanding appears to be to discuss HHSC’s and Dr. Lamy’s role in the Compass Project, which was sponsored and funded by Bayer Healthcare AG. Dr. Lamy noted that worldwide there were approximately 27,000 patients who participated in the Compass Project.
+[29] The letter states that Bayer Healthcare AG has authorized Bayer Inc., a corporation with an address in Toronto, to act on its behalf regarding all matters related to the conduct of the study in Canada.
+[30] The Compass Letter of Understanding indicates that Bayer Inc. has entered into a clinical trial service agreement with HHSC, pursuant to which HHSC is to manage the Compass Project, including supervising the investigators. The letter refers to Dr. Lamy as being the “Principal Investigator.” In his testimony, Dr. Lamy clarified that there were approximately 600 investigators involved in the Compass Project and that he was the local Principal Investigator, meaning he was the Principal Investigator for the patients in the Hamilton hospital.
+[31] It appears that the role of the Principal Investigator was to pre-screen patients and then recruit qualifying patients for the project. Appendix A states that the Principal Investigator shall carry out the “Study Activity”. The Compass Letter of Understanding does not explain this term. It appears to relate to activities HHSC was required to perform under its agreement with Bayer Inc. I was not provided with a copy of that agreement.
+[32] On the second page of the Compass Letter of Understanding it is stated that HHSC, on behalf of Bayer Inc., shall pay Dr. Lamy for the services provided in accordance with Appendix B to the letter of understanding. Dr. Lamy testified that HHSC did not pay any amounts to either him or the Appellant in respect of the Compass Project. The only monies he received were the amounts paid to him by the Appellant as salary.
+[33] Dr. Lamy noted that in order for payments to be made in respect of the Compass Project, either he or the Appellant would have had to complete the box at the bottom of page 14 of Tab 3 of Exhibit AR-1 (this is page 2 of Exhibit B to the Compass Letter of Understanding). This box was not completed.
+[34] Dr. Lamy testified that he signed the Coronary Agreement and the Compass Letter of Understanding in his capacity as an employee of the Appellant, since he provided the services specified in the agreement and the Compass Letter of Understanding as an employee of the Appellant.
+III. Disposition of Appeal
+[35] Section 37(1) of the Income Tax Act provides, in part, that a taxpayer who carries on a business in Canada may claim, in computing the taxpayer’s income from the business, the total of all expenditures of a current nature made by the taxpayer in the year on SR&ED related to a business of the taxpayer, carried on in Canada and directly undertaken by the taxpayer.
+[36] As I noted previously, the issue before the Court is whether the Appellant carried out the SR&ED or whether Dr. Lamy conducted such research in his personal capacity. This is a question of fact.
+[37] The Respondent presented no witnesses in support of her factual conclusion that Dr. Lamy carried out the SR&ED in his personal capacity. In paragraph 10 of her Reply, the Minister states that “in determining the Appellant’s tax liability for the taxation years under appeal, the Minister relied on the following . . . .” Paragraph 10 of the Reply then continues with contains six subparagraphs numbered a) to f). The only subparagraphs that support the Minister’s argument that Dr. Lamy, and not the Appellant, conducted the SR&ED are subparagraphs 10 e) and f) of the Reply. These subparagraphs contain the following factual conclusions:
+e) the SR&ED in question was undertaken by Dr. Lamy in his personal capacity; and
+f) the SR&ED in question was not undertaken directly by the Appellant nor on behalf of the Appellant by Dr. Lamy.
+[38] The Reply does not contain any assumptions of fact made by the Minister that support these two factual conclusions. As a result, I will base my decision on the relevant evidence before me, namely, the testimony of Dr. Lamy, the admissions made by the parties, the 11 facts contained in the SAF and three of the documents included in Exhibit AR-1. The remaining two documents in Exhibit AR‑1, i.e., the notices of assessment for the relevant years, are not relevant to the issue of who, as a question of fact, carried out the SR&ED.
+[39] As I noted previously, Dr. Lamy testified that he performed all of his research activities as an employee of the Appellant. His testimony is consistent with the admissions made by the Respondent and the subjective evidence before me.
+[40] Paragraph 4 of the SAF states: “The Appellant was the medical professional corporation of Dr. Lamy and carried on the business of performing cardiac surgery, providing associated medical care to patients and researching improvements in cardiac surgical methodology and clinical outcomes.” In other words, the Respondent accepts that the Appellant carried on a business in Canada and that this business included research related to improvements in cardiac surgical methodology.
+[41] The research conducted in the carrying out of the four projects at issue in this appeal related to advancements in cardiac surgical techniques and treatments. The research included clinical trials. This is part of the business carried on by the Appellant.
+[42] Further, in her Reply, the Respondent accepted the allegation of fact contained in paragraph 5 of the Notice of Appeal. This paragraph states the following: “The Appellant exercised due diligence and kept careful scientific research and experimental development time tracking dockets as required, and prepared detailed representations and information packages regarding the research projects.” The fact that the Appellant kept records and prepared detailed representations and information packages regarding the research carried on in respect of the four projects supports a factual finding that the Appellant carried out the research.
+[43] Since Dr. Lamy is the only employee of the Appellant, clearly he is the only one conducting the business of the Appellant, namely performing surgery, providing care to patients and conducting medical research. In other words, if the Appellant carried out the research in question in these appeals, then Dr. Lamy had to perform the research work.
+[44] The Employment Agreement specifically provides that Dr. Lamy shall not devote any of his time to any business other than the business of the Appellant. He testified that he complied with this provision and I received no evidence to contradict his testimony.
+[45] Dr. Lamy noted that the $93,828 and $107,642 claimed by the Appellant in the 2013 and 2014 taxation years respectively as SR&ED expenses represent salary that the Appellant paid to him for those years. Dr. Lamy testified that the Appellant paid him the salary in consideration for his work on the four research projects. The Respondent accepts that the $93,828 and $107,642 were amounts spent on SR&ED.
+[46] On the basis of these facts and the other evidence before me, I conclude that the Appellant performed the SR&ED. Dr. Lamy physically performed his research as an employee of the Appellant.
+[47] This resolves the issue before the Court with respect to the Vision and Accelerate Projects. However, the Respondent argues that the documents provided with respect to the Coronary Project and the Compass Project are not consistent with a factual finding that the Appellant performed the SR&ED. I do not agree.
+[48] Dr. Lamy testified that the Coronary Project was his idea and that he started the research project 10 years ago as an employee of the Appellant.
+[49] At some point in time others, including the Hamilton Health Sciences Corporation, began to participate in the project. Someone was able to obtain financing to assist with the research project. None of this financing was paid to either the Appellant or Dr. Lamy. I assume it was paid to the Hamilton Health Sciences Corporation.
+[50] This is also what occurred with respect to the Compass Project. Financing was received from a third party, Bayer Inc., but none of the funds were paid to either the Appellant or Dr. Lamy.
+[51] It was the Appellant, not a third party, that paid Dr. Lamy, as its employee, for the research services he performed in respect of the Coronary Project, the Compass Project and the other two projects. In paragraph 9 of the SAF, the Respondent accepts that costs were incurred for the four projects. As I noted previously, the only costs incurred in respect of the four projects were the salary amounts of $93,828 and $107,642 paid by the Appellant to Dr. Lamy. Counsel for the Respondent informed the Court that the Minister accepts the quantum of these payments.
+[52] That it was Dr. Lamy who signed the Coronary Agreement and the Compass Letter of Understanding does not change the fact that he performed the research activities as an employee of the Appellant. Dr. Lamy acknowledged that he signed the Coronary Agreement and the Compass Letter of Understanding as Andre Lamy. He noted that this is how he signs all documents. However, he stated that he signed the documents in his capacity as an employee of the Appellant, since he provided the services as an employee of the Appellant.
+[53] Dr. Lamy’s testimony is supported by the billings made for his medical services. He bills the Government of Ontario for such services in his own name. The Respondent does not challenge the Appellant’s position that any monies received in respect of such services are received by Dr. Lamy for and on behalf of the person providing the service, i.e., his employer, the Appellant. The result is the same with respect to the research activities: Dr. Lamy signed his own name on the contracts, but he provided the services as an employee of the Appellant.
+[54] The evidence before me is that from 2008 until the present time any activities of Dr. Lamy relating to the business of the Appellant, including researching improvements in cardiac surgery, were activities of his employer, the Appellant.
+IV. Conclusion
+[55] For the foregoing reasons, the appeal with respect to the assessments made under the Income Tax Act for the taxation years of the Appellant ending January 1, 2014 (the 2013 taxation year) and January 1, 2015 (the 2014 taxation year) is allowed, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to the SR&ED tax credits claimed by the Appellant in its tax return for each of the 2013 and 2014 taxation years.
+[56] The parties have 30 days from the date of the judgment herein to arrive at an agreement on costs, failing which they are directed to file written submissions on costs within 60 days of the date of the judgment. Such submissions shall not exceed 15 pages. If the parties fail to reach an agreement on costs and no written submissions are filed, costs shall be awarded to the Appellant pursuant to the tariff.
+Signed at Antigonish, Nova Scotia, this 20th day of July 2020.
+“S. D’Arcy”
+D'Arcy J.
+Schedule 1
+TAX COURT OF CANADA
+BETWEEN:
+ANDRE LAMY MEDICINE PROFESSIONAL CORPORATION
+Appellant
+- and -
+HER MAJESTY THE QUEEN
+Respondent
+STATEMENT OF AGREED FACTS
+The Appellant and the Respondent, by their solicitors, agree to the following facts in the hearing of the above noted matter, in conjunction with any evidence called at the hearing which is not inconsistent with the below facts.
+The Appellant was a corporation located at 2114 Turnberry Road in the City of Burlington, Ontario.
+The Appellant was incorporated on June 23, 2008.
+Dr. Lamy was the Director, President and Secretary of the Appellant.
+The Appellant was the medical professional corporation of Dr. Lamy and carried on the business of performing cardiac surgery, providing associated medical care to patients and researching improvements in cardiac surgical methodology and clinical [outcomes].
+Dr. Lamy was also employed as a Professor of the Faculty of Health Sciences at McMaster University where his teaching duties included lecturing on research methodology and the inclusion of students in cardiac surgery.
+During the 2013 and 2014 taxation years, Dr. Lamy was involved in experimental projects relating to advancements in cardiac surgical techniques and treatments. There were two studies known as the Vision study, that included projects referred to throughout as "Vision" and "Coronary", and the Compass study, that included projects referred to throughout as "Compass" and "Accelerate" (the “Projects").
+The Projects constituted scientific research and experimental development ("SRED”) within the meaning of the Income Tax Act (the "Act").
+Careful SRED time tracking dockets were kept as required, and detailed representations and information packages regarding the Projects were prepared.
+Costs of the Projects were incurred. SRED tax credits in relation to those costs were claimed by the Appellant for its 2013 and 2014 taxation years in the amounts of $93,828.00 and $107,642.00, respectively, pursuant to subsection 248(1) of the Act.
+10. The Research Agreements leading to the Projects were signed by Dr. Lamy without noting his capacity as director of the Appellant.
+ll. Dr. Lamy was not required by his employment agreement with McMaster University to undertake research within the meaning of subsection 248(1) of the Act.
+Dated at Halifax, Nova Scotia this 9th day of December, 2019.
+Attorney General of Canada
+Department of Justice Canada
+Atlantic Regional Office
+Tax Law Services Section
+Suite 1400, Duke Tower
+5251 Duke Street
+Halifax NS B3J 1P3
+Telephone: (902)426-8803
+Fax: (902) 426-8802
+Email: stanmcdonald@justice.gc.ca
+Per : Stan McDonald
+Telephone: (902) 426-8803
+Email: stan.mcdonald@justice.gc.ca
+Counsel for the Respondent
+Dated at Hamilton, Ontario, this 9th day of December, 2019.
+I James Street South, 10th Floor
+Hamilton, Ontario
+L8P 4R5
+Telephone: (289)813-8383
+Fax: (289)813-7746
+Email:kjs@scullionlaw.ca
+Counsel for the Appellants
+CITATION:
+2020 TCC 61
+COURT FILE NO.:
+2017-2714(IT)G
+STYLE OF CAUSE:
+ANDRE LAMY MEDICINE PROFESSIONAL CORPORATION v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Hamilton, Ontario
+DATE OF HEARING:
+December 12, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Steven K. D'Arcy
+DATE OF JUDGMENT:
+July 20, 2020
+APPEARANCES:
+Counsel for the Appellant:
+Kevin Scullion
+Counsel for the Respondent:
+Stan McDonald
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Kevin Scullion
+Firm:
+Scullion Law
+Hamilton, Ontario
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

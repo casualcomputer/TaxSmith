@@ -1,0 +1,193 @@
+---
+title: "Pekofsky v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/71817/index.do"
+last_modified: "2014-06-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 183"
+citation2: ""
+neutral_citation: "2014 TCC 183"
+decision_date: "2014-06-03"
+language: "en"
+item_id: "71817"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5388
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:43:46.142000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0fd8514567b6009d371b166304028383a44e5e0870f7434dd1653475db428db4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Pekofsky v. The Queen
+
+- Citation: 2014 TCC 183
+- Decision date: 2014-06-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5388, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pekofsky v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-06-03
+Neutral citation
+2014 TCC 183
+File numbers
+2013-421(IT)I
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-421(IT)I
+BETWEEN:
+Carrie Pekofsky,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on April 28, 2014, at Montreal, Quebec.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Gabriel Girouard
+JUDGMENT
+The appeal made under the Income Tax Act (ITA) is allowed and the determination dated March 12, 2012, is referred back to the Minister of National Revenue for redetermination on the basis that the appellant is entitled to the credit for mental or physical impairment with respect to her daughter pursuant to sections 118.3 and 118.4 of the ITA, for the 2009, 2010, 2011 and 2012 taxation years.
+Signed at Ottawa, Canada, this 3rd day of June 2014.
+“Lucie Lamarre”
+Lamarre J.
+Citation: 2014 TCC 183
+Date: 20140603
+Docket: 2013-421(IT)I
+BETWEEN:
+Carrie Pekofsky,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Lamarre J.
+[1] The appellant is appealing a determination by the Minister of National Revenue (Minister) disallowing the disability tax credit amount transferred from an individual that she claimed, pursuant to sections 118.3 and 118.4 of the Income Tax Act (ITA), in respect of her daughter for the 2010, 2011 and 2012 taxation years.[1]
+[2] The appellant’s daughter was born in March 1997. She has been diagnosed with Tourette syndrome and is dyslexic. Although she is able to perform day‑to‑day functions such as washing, eating and dressing by herself, she does, according to her own testimony and the appellant’s, have significant difficulty with her short-term memory, and also experiences serious difficulties with goal setting and judgment (being slower than her peers in reasoning and decision making). The daughter testified that she is constantly isolated at school to enable her to catch up on what the others learn in regular school hours. At home, her mother constantly has to remind her of the things she has to do during the day (including taking her pills regularly).
+[3] The Minister disallowed the credit on the basis that he was not convinced that the daughter had anything more than academic problems, which, according to the case law, do not constitute an impairment that qualifies one for the credit.
+[4] The appellant filed a psychologist’s report prepared after her daughter had completed her elementary school, which diagnosed a learning disability in reading comprehension and which recommended that she continue receiving tutoring at high school (Dr. Yaniv Elharrar’s Report, Exhibit A-1). While in elementary school, she completed the full Davis Dyslexia Correction Program at Dyslexiability Inc. (Exhibit A-8).
+[5] Dr. Elharrar completed, on October 25, 2010, an Application for a Supplement for Handicapped Children form for the Régie des rentes du Québec, indicating that the appellant’s daughter was diagnosed with a learning disability on June 25, 2009 (Exhibit A‑2).
+[6] On March 18, 2011, Dr. Elharrar completed a disability tax credit certificate (Exhibits R-1, and A-3). Although he indicated that the appellant’s daughter was not markedly restricted in performing the mental functions necessary for everyday life, he also indicated that she had been suffering since 2009 from impairments of speaking and mental functions, the cumulative effect of which was equivalent to a marked restriction in a basic activity of a daily living. The mental functions referred to were adaptive functioning, memory, problem-solving, goal-setting and judgment.
+[7] In that same certificate, Dr. Elharrar explained that the appellant’s daughter had a neurological disorder caused by Tourette syndrome with a comorbid learning disability.
+[8] In May 2013, the appellant’s daughter was seen by another psychologist, Dr. Elsa Lo, who confirmed the diagnosis of Tourette syndrome with comorbid attention difficulties (Exhibit A-4). Dr. Lo completed a disability tax credit certificate in which she indicated that her patient was markedly restricted in performing the mental functions necessary for everyday life all or substantially all of the time, and added that this situation had existed presumably since the child’s birth in 1997 (Exhibit A-5).
+[9] Dr. Lo explained that the appellant’s daughter suffered from Tourette syndrome with comorbid attention deficit/hyperactivity disorder, which resulted in significant impairment in memory (both verbal and visual-spatial) and poor executive functioning that affected planning and self-monitoring.
+[10] Dr. Lo answered “no” to the question whether the impairment had improved to such an extent that the patient would no longer be markedly restricted.
+Statutory Provisions [11] The relevant portions of sections 118.3 and 118.4 of the ITA are appended to the present reasons.
+Analysis [12] The purpose of sections 118.3 and 118.4 of the ITA has been analyzed in Johnston v. Canada, [1998] CarswellNat 169, [1998] F.C.J. No. 169 (QL). The Federal Court of Appeal said the following:
+10 The purpose of sections 118.3 and 118.4 is not to indemnify a person who suffers from a severe and prolonged mental or physical impairment, but to financially assist him or her in bearing the additional costs of living and working generated by the impairment. As Bowman T.C.J. wrote in Radage v. R. at p. 2528:
+The legislative intent appears to be to provide a modest relief to persons who fall within a relatively restricted category of markedly physically or mentally impaired persons. The intent is neither to give the credit to every one who suffers from a disability nor to erect a hurdle that is impossible for virtually every disabled person to surmount. It obviously recognizes that disabled persons need such tax relief and it is intended to be of benefit to such persons.
+The learned Judge went on to add, at p. 2529, and I agree with him:
+If the object of Parliament, which is to give to disabled persons a measure of relief that will to some degree alleviate the increased difficulties under which their impairment forces them to live, is to be achieved the provisions must be given a humane and compassionate construction.
+11 Indeed, although the scope of these provisions is limited in their application to severely impaired persons, they must not be interpreted so restrictively as to negate or compromise the legislative intent.
+[13] It is clear that here the appellant’s daughter has a severe and prolonged impairment in mental functions. The other condition for the credit is that the impairment in mental functions be such that the daughter’s ability to perform a basic activity of daily living is markedly restricted, and this must be certified by a medical practitioner in prescribed form.
+[14] Mental functions necessary for everyday life are defined in paragraph 118.4(1)(c.1) of the ITA as being memory, problem solving, goal-setting and judgment, and adaptive functioning. Further the patient must, all or substantially all of the time, be unable or require an inordinate amount of time to perform those mental functions.
+[15] In Canada (Attorney General) v. Buchanan, 2002 FCA 231, 2002 CarswellNat 1204, [2002] 3 C.T.C. 301, 2002 DTC 7397, it is stated at paragraph 18 that “[t]he Tax Court’s consideration of the matter will be on the basis of the evidence adduced in the Tax Court, even if that evidence was not before the Minister when he made his assessment.”
+[16] Dr. Elharrar’s report indicated that the appellant’s daughter had significant restrictions the cumulative effect of which was such that her ability to perform a basic activity of daily living was markedly restricted. Dr. Lo’s report indicated that her patient was markedly restricted in performing the mental functions necessary for everyday life all or substantially all of the time.
+[17] I am therefore satisfied that, read together, the certificates completed by those two different psychologists support the conclusion that the appellant’s daughter was markedly restricted in her ability to perform a basic activity of daily living. The filing of those certificates was not opposed or challenged by the respondent.
+[18] It has however been held in the case law that the filing of completed medical practitioners’ forms is not determinative. This Court must also be satisfied that the legal requirements are in fact met (Walkowiak v. The Queen, 2012 TCC 453, 2012 CarswellNat 5006, [2013] 2 C.T.C. 2087, 2013 DTC 1036).
+[19] I had the privilege of seeing and hearing both the mother and the daughter in court.
+[20] Although not a psychologist myself, I was able to sense the accuracy of the conclusions reached by the psychologists. It is my understanding that the daughter has problems in coping not only with her learning activities at school but also with her daily activities, on account of her short-term memory impairment and her dysfunction with regard to the ability to use her judgment. The mother explained, amongst other things, that she constantly needs to supervise her daughter and that everything takes more time for her daughter to accomplish than is the case for other children of her age.
+[21] I am therefore prepared to accept that the legal requirements for the disability tax credit (the disability here being the impairment of the mental functions necessary for everyday life) have been met.
+[22] A question was raised in court with respect to the years for which the credit should be granted. The appellant is asking that she receive it for 2009 and the years following.
+[23] In the Reply to the Notice of Appeal, it is stated that the respondent disallowed the credit for 2010, 2011 and 2012. Neither the T2201 form nor the determination under appeal was filed in evidence. As mentioned earlier, the Notice of Appeal did not specify any particular year. One of the medical certificates completed specifies that the disability was diagnosed in 2009. Dr. Lo’s certificate indicates that the disability has existed since birth.
+[24] Paragraph 118.3(1)(b) of the ITA requires that the individual claiming the credit have filed with the Minister the medical certificate for the relevant taxation year. In my view, the certificates filed in evidence cover the 2009 taxation year and the years thereafter.
+[25] I would therefore allow the appeal and refer the determination back to the Minister for redetermination on the basis that the appellant is entitled to the credit for mental or physical impairment with respect to her daughter pursuant to sections 118.3 and 118.4 of the ITA, for the 2009, 2010, 2011 and 2012 taxation years.
+Signed at Ottawa, Canada, this 3rd day of June 2014.
+“Lucie Lamarre”
+Lamarre J.
+Income Tax Act
+118.3 (1) Credit for mental or physical impairment — Where
+(a) an individual has one or more severe and prolonged impairments in physical or mental functions,
+(a.1) the effects of the impairment or impairments are such that the individual’s ability to perform more than one basic activity of daily living is significantly restricted where the cumulative effect of those restrictions is equivalent to having a marked restriction in the ability to perform a basic activity of daily living or are such that the individual’s ability to perform a basic activity of daily living is markedly restricted or would be markedly restricted but for therapy that
+(i) is essential to sustain a vital function of the individual,
+(ii) is required to be administered at least three times each week for a total duration averaging not less than 14 hours a week, and
+(iii) cannot reasonably be expected to be of significant benefit to persons who are not so impaired,
+(a.2) in the case of an impairment in physical or mental functions the effects of which are such that the individual’s ability to perform a single basic activity of daily living is markedly restricted or would be so restricted but for therapy referred to in paragraph (a.1), a medical practitioner has certified in prescribed form that the impairment is a severe and prolonged impairment in physical or mental functions the effects of which are such that the individual’s ability to perform a basic activity of daily living is markedly restricted or would be markedly restricted, but for therapy referred to in paragraph (a.1), where the medical practitioner is a medical doctor or, in the case of
+(i) a sight impairment, an optometrist,
+(ii) a speech impairment, a speech-language pathologist,
+(iii) a hearing impairment, an audiologist,
+(iv) an impairment with respect to an individual’s ability in feeding or dressing themself, an occupational therapist,
+(v) an impairment with respect to an individual’s ability in walking, an occupational therapist, or after February 22, 2005, a physiotherapist, and
+(vi) an impairment with respect to an individual’s ability in mental functions necessary for everyday life, a psychologist,
+(a.3) in the case of one or more impairments in physical or mental functions the effects of which are such that the individual’s ability to perform more than one basic activity of daily living is significantly restricted, a medical practitioner has certified in prescribed form that the impairment or impairments are severe and prolonged impairments in physical or mental functions the effects of which are such that the individual’s ability to perform more than one basic activity of daily living is significantly restricted and that the cumulative effect of those restrictions is equivalent to having a marked restriction in the ability to perform a single basic activity of daily living, where the medical practitioner is, in the case of
+(i) an impairment with respect to the individual’s ability in feeding or dressing themself, or in walking, a medical doctor or an occupational therapist, and
+(ii) in the case of any other impairment, a medical doctor,
+has certified in prescribed form that the impairment is a severe and prolonged mental or physical impairment the effects of which are such that the individual’s ability to perform a basic activity of daily living is markedly restricted or would be markedly restricted but for therapy referred to in paragraph (a.1),
+(b) the individual has filed for a taxation year with the Minister the certificate described in paragraph (a.2) or (a.3), and
+(c) no amount in respect of remuneration for an attendant or care in a nursing home, in respect of the individual, is included in calculating a deduction under section 118.2 (otherwise than because of paragraph 118.2(2)(b.1)) for the year by the individual or by any other person,
+there may be deducted in computing the individual’s tax payable under this Part for the year the amount determined by the formula . . . .
+118.4 (1) Nature of impairment — For the purposes of subsection 6(16), sections 118.2 and 118.3 and this subsection,
+(a) an impairment is prolonged where it has lasted, or can reasonably be expected to last, for a continuous period of at least 12 months;
+(b) an individual’s ability to perform a basic activity of daily living is markedly restricted only where all or substantially all of the time, even with therapy and the use of appropriate devices and medication, the individual is blind or is unable (or requires an inordinate amount of time) to perform a basic activity of daily living;
+(b.1) an individual is considered to have the equivalent of a marked restriction in a basic activity of daily living only where all or substantially all of the time, even with therapy and the use of appropriate devices and medication, the individual’s ability to perform more than one basic activity of daily living (including for this purpose, the ability to see) is significantly restricted, and the cumulative effect of those restrictions is tantamount to the individual’s ability to perform a basic activity of daily living being markedly restricted;
+(c) a basic activity of daily living in relation to an individual means
+(i) mental functions necessary for everyday life,
+(ii) feeding oneself or dressing oneself,
+(iii) speaking so as to be understood, in a quiet setting, by another person familiar with the individual,
+(iv) hearing so as to understand, in a quiet setting, another person familiar with the individual,
+(v) eliminating (bowel or bladder functions), or
+(vi) walking;
+(c.1) mental functions necessary for everyday life include
+(i) memory,
+(ii) problem solving, goal-setting and judgement (taken together), and
+(iii) adaptive functioning;
+(d) for greater certainty, no other activity, including working, housekeeping or a social or recreational activity, shall be considered as a basic activity of daily living; and
+(e) feeding oneself does not include
+(i) any of the activities of identifying, finding, shopping for or otherwise procuring food, or
+(ii) the activity of preparing food to the extent that the time associated with the activity would not have been necessary in the absence of a dietary restriction or regime; and
+(f) dressing oneself does not include any of the activities of identifying, finding, shopping for or otherwise procuring clothing.
+CITATION:
+2014 TCC 183
+COURT FILE NO.:
+2013-421(IT)I
+STYLE OF CAUSE:
+Carrie Pekofsky v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+April 28, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT:
+June 3, 2014
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Gabriel Girouard
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] In court, the appellant said that she also claimed the credit for the 2009 taxation year. The years at issue were not referred to in her Notice of Appeal and counsel for the respondent did not explain why the determination did not refer to 2009 either. The respondent stated at paragraph 2 of the Reply to the Notice of Appeal that “[t]he appellant filed the form T-2201-Disability Tax Credit Certificate (hereinafter “T2201”) on January 23 2012 for the 2010, 2011 and 2012 taxation years.” However, this form was not filed in evidence.

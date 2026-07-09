@@ -1,0 +1,70 @@
+---
+title: "ARCHIVED - Capital Property - Some Adjustments to Cost Base"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it456rsr/archived-capital-property-some-adjustments-cost-base.html
+last_modified: 2017-11-07
+---
+# ARCHIVED - Capital Property - Some Adjustments to Cost Base
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO: **IT-456RS**
+
+DATE: October 30, 1992
+
+SUBJECT: INCOME TAX ACT**Capital Property ¨ Some Adjustments to Cost Base**
+
+REFERENCE: SPECIAL RELEASE
+
+REFERENCE:
+
+Application
+
+The purpose of this Special Release is to revise Interpretation Bulletin IT-456R dated July 9, 1990 to reflect amendments to the law.
+
+Bulletin Revisions
+
+1. Paragraph 8 of the bulletin is cancelled and replaced by the following:
+
+"8. Subsection 84(9) provides that for greater certainty, where a taxpayer's shares of a corporation are redeemed, acquired or cancelled by the corporation, the taxpayer is deemed to have disposed of the shares to the corporation. Therefore, where a taxpayer's shares (including a partnership's shares) in a corporation are redeemed, acquired or cancelled, subsection 85(4) is applicable in those cases where the corporation is controlled, directly or indirectly in any manner whatever (see subsection 256(5.1) and the current version of IT-64), immediately after the transaction by:
+
+(a) the taxpayer,
+
+(b) the taxpayer's spouse, or
+
+(c) (where the taxpayer is a corporation) a person or group of persons by whom the taxpayer was controlled, directly or indirectly in any manner whatever.
+
+If the taxpayer realizes a capital loss in such circumstances, subsection 85(4) deems the loss to be nil and, together with paragraph 53(1)(f.2), provides for the loss to be added to the ACB of the taxpayer's remaining shares.
+
+Subsections 93(2), 112(3), 112(3.1) and 112(3.2) apply to reduce the amount of the loss otherwise determined from the disposition of a share that is a capital property where certain dividends have been paid on that share. Where the loss from a disposition, after July 13, 1990, of a share is both a loss to which subsection 85(4) applies and a loss to which subsection 93(2), 112(3), 112(3.1) or 112(3.2) would have applied but for paragraphs 40(2)(e) and 85(4)(a), the addition to the ACB of the remaining shares under paragraph 85(4)(b) is reduced by any reduction to that loss required to be made under subsection 93(2), 112(3), 112(3.1) or 112(3.2)."
+
+2. Part (b) of paragraph 10 of the bulletin is cancelled and replaced by the following:
+
+"(b) Any amount received by the taxpayer after 1971 on a reduction of the paid-up capital of the corporation in respect of the share is deducted under subparagraph 53(2)(a)(ii), except to the extent that the amount is deemed by subsection 84(4) or, (for ACB calculations after 1989) subsection 84(4.1), to be a dividend received by the taxpayer."
+
+3. Paragraph 11 of the bulletin is cancelled and replaced by the following:
+
+"11. With certain exceptions, a loss sustained by a taxpayer on the disposition of a property will represent a "superficial loss" pursuant to paragraph 54(i), where the same or identical property (referred to as "substituted property") is:
+
+(a) acquired by the taxpayer, the taxpayer's spouse or a corporation controlled, directly or indirectly in any manner whatever, by the taxpayer within the period beginning 30 days before and ending 30 days after the disposition, and
+
+(b) owned 30 days after the disposition by the person who acquired the property.
+
+The superficial loss is added to the ACB of the substituted property by virtue of paragraph 53(1)(f). However, for ACB calculations after July 13, 1990, if the superficial loss would also have been subject to a reduction under subsection 112(3), 112(3.1) or 112(3.2), had paragraph 40(2)(g) not applied, such reduction reduces the amount of the superficial loss that is otherwise added to the ACB of the substituted property under paragraph 53(1)(f)."
+
+4. The French version only of paragraph 13 of the bulletin is revised by replacing part (a) and the preamble to part (b) with the following:
+
+"(a) déduire, en vertu du sous-alinéa 53(2)h)(i), tout montant qui lui a été versé par la fiducie après 1971 et avant le moment du calcul sous forme de distribution ou de paiement de capital, autre que le produit d'une disposition de la participation au capital ou d'une partie de celle-ci, dans la mesure où ce montant devient payable avant 1988,
+
+(b) déduire, en vertu du sous-alinéa 53(2)h)(i.1), tout montant qui lui est devenu payable après 1987 (sous réserve des règles transitoires dont il est question au numéro 14 ci-dessous) et avant le moment du calcul, à l'égard de toute participation, autre que le produit d'une disposition de la totalité ou d'une fraction de toute participation au capital, sauf dans la mesure où une fraction de cette participation"
+
+5. Part (a) of paragraph 15 of the bulletin is cancelled and replaced by the following:
+
+"(a) a trust referred to in subparagraph 108(1)(j)(ii) (i.e. a trust governed by certain registered funds or plans, an employees' profit sharing plan, an employee benefit plan or an employee trust, a "master trust" referred to in paragraph 149(1)(o.4) or, for 1990 and subsequent taxation years, a foreign retirement arrangment,"

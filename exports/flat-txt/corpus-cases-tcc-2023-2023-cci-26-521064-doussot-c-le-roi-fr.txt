@@ -1,0 +1,142 @@
+Title: Doussot c. Le Roi
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521064/index.do
+Corpus path: corpus/cases/tcc/2023/2023-cci-26-521064-doussot-c-le-roi-fr.md
+Document type: case_law
+Last modified: 2023-05-25
+
+# Doussot c. Le Roi
+
+- Citation: 2023 CCI 26
+- Decision date: 2023-05-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5823, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Doussot c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2023-05-25
+Référence neutre
+2023 TCC 26
+Numéro de dossier
+2020-2107(IT)I
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2020-2107(IT)I
+ENTRE :
+TONY DOUSSOT,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+Devant : L’honorable juge Patrick Boyle
+ORDONNANCE
+LA COUR ORDONNE :
+1. Le greffe crée un nouveau dossier d’appel. Les documents que M. Doussot a déposés pour la présente requête sont réputés être un avis d’appel valable déposé à la date à laquelle la présente requête a été déposée. Au besoin, la Cour accorde une prorogation au titre de l’article 167 de la Loi.
+2. Dans un délai de 90 jours, M. Doussot dépose un avis d’appel modifié ou un nouvel avis d’appel qui traite des questions suivantes :
+(1) les modalités de l’entente conclue;
+(2) la question de savoir si le libellé de l’entente de règlement correspond à l’entente réellement conclue;
+(3) la question de savoir si l’avis de nouvelle cotisation met correctement en oeuvre cette entente;
+(4) tout autre motif de contestation de la validité de l’entente de règlement.
+Ces renseignements sont nécessaires pour que l’intimé puisse comprendre pleinement l’avis d’appel de M. Doussot et y répondre. Ils sont également nécessaires pour que les parties et la Cour se concentrent sur les questions en litige.
+3. L’intimé dépose sa réponse dans les 60 jours suivant le dépôt de l’avis d’appel modifié de M. Doussot.
+Signé à Toronto, Ontario, ce 3e jour de mars 2023.
+« Patrick Boyle »
+Le juge Boyle
+Référence : 2023 CCI 26
+Date : 20230303
+Dossier : 2020-2107(IT)I
+ENTRE :
+TONY DOUSSOT,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+MOTIFS DE L’ORDONNANCE
+Le juge Boyle
+[1] M. Doussot a déposé la présente requête le 30 novembre 2022.
+I. Le contexte
+[2] Le 17 novembre 2020, M. Doussot a déposé un avis d’appel à la Cour canadienne de l’impôt sous le régime de notre procédure informelle. Il n’avait pas d’avocat, et c’est encore le cas. Après que l’intimé eut déposé sa réponse, M. Doussot et l’intimé ont conclu un règlement le 11 mars 2022. Le 28 mars 2022, le juge de service a signé le jugement sur consentement qu’on avait rédigé cette semaine‑là. L’entente de règlement signée par les parties et déposée à la Cour était jointe au jugement. Notre Cour a fermé le dossier le 6 avril 2022.
+[3] Après avoir reçu l’avis de nouvelle cotisation le 20 avril 2022, M. Doussot a envoyé à l’avocate du ministère de la Justice qui avait représenté l’intimé et qui avait signé l’entente de règlement, ainsi qu’au ministre du Revenu national elle‑même, un courriel dans lequel il affirmait s’opposer officiellement à l’avis de nouvelle cotisation et demandait qu’ils ouvrent de nouveau son dossier à la Cour. Il affirmait que l’avis de nouvelle cotisation de l’Agence du revenu du Canada (ARC) n’était pas conforme au règlement. M. Doussot a ensuite envoyé plusieurs autres courriels à l’avocate du ministère de la Justice et au ministre.
+[4] Notre greffe, de bon droit, a transmis les courriels du M. Doussot à l’avocate de l’intimée afin de connaître la position de l’avocate. Le greffe a ensuite remis les documents au juge francophone principal de la Cour afin qu’il donne des directives sur la réponse à donner à M. Doussot. En raison de la retraite de la juge en chef adjointe bilingue, le juge en chef avait ordonné que les demandes envoyées à son cabinet en français soient remises au juge francophone principal. Ce juge était et est toujours le juge en chef adjoint par intérim de la Cour.
+[5] Le greffe a répondu au courriel de M. Doussot le 24 août 2022. Un agent du greffe a décrit de façon juste ce que M. Doussot devait faire :
+« Si vous n’êtes pas d’accord avec la nouvelle cotisation, vous devez déposer un avis d’opposition auprès du chef des appels à l’Agence du revenu du Canada.
+Si après avoir fait ce qui précède et que vous n’êtes pas satisfait de la décision de l’Agence du revenu du Canada ou si nous n’avez pas reçu de réponse après 90 jours de l’avis d’opposition soumis, vous pouvez déposer un avis d’appel à la Cour canadienne de l’impôt. »
+II. Le droit et les règles pertinents
+[6] Notre Cour doit tous les jours rendre des jugements sur consentement et expliquer aux contribuables comment déposer leurs documents. C’est sans doute le cas de toutes les cours de première instance. Les fonctionnaires de notre Cour se dévouent chaque jour à aider les Canadiens qui doivent traiter avec la Cour, et nos juges font de même avec les parties qui comparaissent sans avocat. La réputation de notre Cour à cet égard découle de son énorme travail. Le juge en chef Marc Noël de la Cour d’appel fédérale a récemment affirmé:
+[TRADUCTION]
+Comme je l'ai dit, plusieurs ont critiqué cette complexité croissante. Mais pensons également aux parties sans avocat qui ne peuvent payer des services juridiques, mais qui doivent faire face aux mêmes complexités. Je profite de l'occasion pour rendre hommage aux juges de la Cour de l'impôt pour leur travail considérable lorsqu'ils aident des parties sans avocat sous le régime de la procédure informelle. Ils font tout ce qu'ils peuvent pour informer les contribuables de leurs droits, tout en s'assurant de rester impartiaux. Ce n'est pas facile, mais c'est aussi indispensable. Il faut féliciter les juges de la Cour de l'impôt d'avoir recours à la procédure informelle afin de promouvoir l'accès à la justice. Toutes les cours devraient suivre leur exemple. [1]
+[7] Notre Cour connaît très bien sa compétence légale et est tenue, juridiquement et moralement, de ne pas l’outrepasser. Notre Cour, comme toutes les cours supérieures, a la compétence inhérente de régler sa propre procédure. De plus, notre Cour a ses propres règles, selon la Loi sur la Cour canadienne de l’impôt et les Règles de la Cour canadienne de l’impôt; le comité des règles veille à ce que les Règles soient utiles et restent à jour.
+[8] Le paragraphe 172(2) des Règles porte sur le nouvel examen d’appels dans des circonstances exceptionnelles. On peut facilement trouver les Règles au site Web de la Cour. Ce paragraphe exige manifestement le dépôt d’une requête, et ne s’applique manifestement que dans des circonstances exceptionnelles :
+172(2) Une partie peut demander, par voie de requête dans l’instance, selon le cas :
+a) l’annulation ou la modification d’un jugement en raison d’une fraude ou de faits survenus ou découverts après qu’il a été rendu;
+172(2) A party who seeks to,
+(a) have a judgment set aside or varied on the ground of fraud or of facts arising or discovered after it was made,
+…
+may make a motion for the relief claimed.
+[9] Il est difficile de considérer l’envoi de documents par M. Doussot à la Cour comme le dépôt d’une requête. Notre greffe lui a conseillé de s’opposer à l’avis de nouvelle cotisation le plus récent, celui qui met l’entente en oeuvre, et, si l’affaire n’était pas réglée avec l’ARC, de déposer un nouvel avis d’appel à notre Cour à l’égard de cette nouvelle cotisation et de cette nouvelle opposition. C’est la façon normale et habituelle de demander à notre Cour de décider si une entente de règlement est valide ou si la nouvelle cotisation qui s’ensuit est conforme à l’entente de règlement.
+[10] Dans la décision Québec Fonte inc. c La Reine, 2020 CCI 126, notre Cour a affirmé :
+Analyses et conclusions
+33 La Cour a compétence pour décider si une entente entre le fisc et un contribuable qui établit la manière dont un contribuable doit faire l’objet d’une nouvelle cotisation est applicable, elle a compétence pour ordonner l’établissement de nouvelles cotisations conformes aux ententes en l’absence de circonstances viciant l’opération, et elle a compétence pour autoriser le dépôt de désistements après l’établissement de nouvelles cotisations conformes à l’entente de règlement : voir l’arrêt Smerchanski c. Ministre du Revenu national, [1977] 2 R.C.S. 23; l’arrêt University Hill Holdings Inc. c. Canada, 2017 CAF 232; les décisions Oberoi c. La Reine, 2006 CCI 293, 1390758 Ontario Corporation c. La Reine, 2010 CCI 572, Huppe c. La Reine, 2010 CCI 644; SoftSim Technologies Inc. c. La Reine, 2012 CCI 181; Davies c. La Reine, 2016 CCI 104, et Granofsky c. La Reine, 2016 CCI 181.
+34 Dans University Hill, la Cour d’appel fédérale s’est dite d’accord avec la décision antérieure dans Galway c. Ministre du Revenu national [1974] 1 C.F. 600, qui portait sur les jugements par consentement, et dont les principes s’appliquent également aux ententes de règlement que notre Cour doit faire appliquer, en précisant que la Cour doit s’assurer « que le jugement recherché relève de sa compétence et qu’il peut être rendu » : voir le paragraphe 66 et suivants. Voir aussi le paragraphe 18 de Huppe, où le juge Webb s’est exprimé dans le même sens.
+[11] La Cour d’appel fédérale (2022 CAF 75) a confirmé la décision Québec Fonte et a affirmé, au paragraphe 7 : « Bref, nous sommes tous d’avis que la CCI s’est bien dirigée en droit [...] ».
+III. La décision de la Cour d’appel fédérale
+[12] M. Doussot a interjeté appel de la lettre de notre greffe à la Cour d’appel fédérale. Dans des motifs assez longs (2022 CAF 199), cette Cour a rejeté l’appel et a affirmé, au paragraphe 14 :
+[...] une telle demande doit être faite par requête, et non, comme ici, par la voie d’un simple courriel. Il ne s’agit pas là d’un caprice procédural, mais d’une exigence incontournable, puisque pour réussir, un requérant doit prouver que l’annulation ou la modification du jugement en cause est justifiée en raison d’une fraude ou de faits survenus ou découverts après que ledit jugement ait été rendu. Cela requiert une preuve, d’où la nécessité d’une requête en bonne et due forme adressée à la CCI.
+IV. Le nouvel avis d’opposition
+[13] En raison de la décision de la Cour d’appel fédérale et des documents déposés pour la requête, la Cour croit comprendre que le contribuable a effectivement déposé un nouvel avis d’opposition à la nouvelle cotisation mettant en oeuvre le jugement sur consentement. Cependant, cette décision et ces documents indiquent clairement que le ministre était d’avis que l’avis d’opposition n’était pas valable.
+[14] Il semble que l’intimé se soit fondé sur le paragraphe 165(1.2) de la Loi de l’impôt sur le revenu, qui interdit les oppositions aux nouvelles cotisations mettant en oeuvre des ententes de règlement et des jugements sur consentement.
+[15] Pour les raisons exposées dans Québec Fonte, ce paragraphe n’empêche pas le contribuable qui a fait l’objet d’une nouvelle cotisation après une entente de règlement d’affirmer que cette nouvelle cotisation n’est pas conforme à l’entente.
+[16] Selon le paragraphe 169(1) de la Loi, M. Doussot pouvait déposer un avis d’appel à l’égard de son opposition dans les 90 jours suivant la réponse du ministre. L’article 167 dispose qu’après cette période, le contribuable peut toujours interjeter appel à notre Cour dans un délai d’un an.
+[17] M. Doussot a déposé les documents pour sa requête dans ce délai d’un an. Vu les circonstances, la Cour accepte de considérer ces documents comme étant également une demande de prorogation du délai pour déposer l’avis d’appel. La Cour estime également que ces documents, avec les documents que M. Doussot avait d’abord envoyés à notre Cour, et vu sa comparution à la Cour d’appel fédérale, satisfont aux exigences du paragraphe 169(5). M. Doussot peut donc faire appel à notre Cour au motif que l’avis de nouvelle cotisation n’est pas conforme à l’entente qu’il a conclue avec l’ARC.
+[18] Il semble que M. Doussot ait également communiqué directement avec le cabinet du ministre du Revenu national. Le ministre a notamment répondu qu’on ne pouvait déposer d’avis d’opposition à la nouvelle cotisation en cause. Cela semble être manifestement une erreur de droit, même si on ne l’a apparemment pas reconnu lors de l’instance à la Cour d’appel fédérale. Notre Cour est manifestement compétente si on affirme, lors d’un appel, qu’une nouvelle cotisation n’est pas conforme à une entente de règlement valide, et cela, malgré le paragraphe 165(1.2) de la Loi, qui dispose :
+[...] aucune opposition ne peut être faite par un contribuable à une cotisation établie en application des paragraphes [...] 169(3) [...]. Il est entendu que cette interdiction vaut pour les oppositions relatives à une question pour laquelle le contribuable a renoncé par écrit à son droit d’opposition.
+. . . no objection may be made by a taxpayer to an assessment made under subsection . . . 169(3) . . . nor, for greater certainty, in respect of an issue for which the right of objection has been waived in writing by the taxpayer.
+V. Conclusion
+[19] Malgré le parcours inhabituel, discutable et très tortueux qui a mené à la situation actuelle, les documents que M. Doussot a déposés à l’appui de la présente requête indiquent clairement ce qui suit :
+i. M. Doussot interjette appel à notre Cour de la nouvelle cotisation à laquelle il s’est déjà opposé;
+ii. il conteste la validité de l’entente de règlement;
+iii. il affirme que la nouvelle cotisation n’est pas conforme à l’entente;
+iv. il affirme que le libellé de l’entente de règlement ne correspond pas à l’entente réellement conclue.
+[20] Pour ces motifs, l’ordonnance de la Cour à l’égard de la requête est la suivante :
+1. Le greffe crée un nouveau dossier d’appel. Les documents que M. Doussot a déposés pour la présente requête sont réputés être un avis d’appel valable déposé à la date à laquelle la présente requête a été déposée. Au besoin, la Cour accorde une prorogation au titre de l’article 167 de la Loi.
+2. Dans un délai de 90 jours, M. Doussot dépose un avis d’appel modifié ou un nouvel avis d’appel qui traite des questions suivantes :
+(1) les modalités de l’entente conclue;
+(2) la question de savoir si le libellé de l’entente de règlement correspond à l’entente réellement conclue;
+(3) la question de savoir si l’avis de nouvelle cotisation met correctement en oeuvre cette entente;
+(4) tout autre motif de contestation de la validité de l’entente de règlement.
+Ces renseignements sont nécessaires pour que l’intimé puisse comprendre pleinement l’avis d’appel de M. Doussot et y répondre. Ils sont également nécessaires pour que les parties et la Cour se concentrent sur les questions en litige.
+3. L’intimé dépose sa réponse dans les 60 jours suivant le dépôt de l’avis d’appel modifié de M. Doussot.
+Signé à Toronto, Ontario, ce 3e jour de mars 2023.
+« Patrick Boyle »
+Le juge Boyle
+RÉFÉRENCE :
+2023 CCI 26
+NO DU DOSSIER DE LA COUR :
+2020-2107(IT)I
+INTITULÉ :
+TONY DOUSSOT ET SA MAJESTÉ LE ROI
+MOTIFS DE L’ORDONNANCE PAR :
+L’honorable juge Patrick Boyle
+DATE DE L’ORDONNANCE :
+Le 3 mars 2023
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimé :
+Me Éliane Mandeville
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimé :
+François Daigle Sous-procureur général du Canada Ottawa, Canada
+[1] Allocution à la conférence annuelle de 2022 de la Fondation canadienne de fiscalité, débat des juges, 20 novembre 2022. L'ancien juge en chef Donald Bowman de notre Cour aimait répéter qu'un célèbre juriste canadien et ancien juge en chef de la Cour suprême du Canada avait décrit notre Cour comme [TRADUCTION] "le bijou du système judiciaire fédéral.: https://www.lawnow.org/the-tax-court-of-canada-an-introduction.

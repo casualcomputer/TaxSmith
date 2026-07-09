@@ -1,0 +1,327 @@
+---
+title: "Manna v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/367193/index.do"
+last_modified: "2019-04-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 TCC 70"
+citation2: ""
+neutral_citation: "2019 TCC 70"
+decision_date: "2019-04-03"
+language: "en"
+item_id: "367193"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4320
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T12:16:31.626000+00:00"
+cases_cited_count: 12
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "067ce69675d464929c5d4ccb7232dd6d1b7840a1ffb1b0221979df2634a959c6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Manna v. The Queen
+
+- Citation: 2019 TCC 70
+- Decision date: 2019-04-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4320, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Manna v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-04-03
+Neutral citation
+2019 TCC 70
+File numbers
+2017-3939(IT)I
+Judges and Taxing Officers
+Dominique Lafleur
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2017-3939(IT)I
+BETWEEN:
+MARIA MANNA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on February 8, 2019, at Victoria, British Columbia
+Before: The Honourable Justice Dominique Lafleur
+Appearances:
+Agent for the Appellant:
+Jeremy Maddock
+Counsel for the Respondent:
+Kiel Walker
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act, notice of which is dated October 4, 2017, and bears number 4607674, is dismissed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Montréal, Quebec, this 3rd day of April 2019.
+“Dominique Lafleur”
+Lafleur J.
+Citation: 2019 TCC 70
+Date: 20190403
+Docket: 2017-3939(IT)I
+BETWEEN:
+MARIA MANNA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Lafleur J.
+I. OVERVIEW
+[1] Maria Manna (the “Appellant” or “Mrs. Manna”) is appealing to this Court from a reassessment issued by the Minister of National Revenue (the “Minister”) under section 160 of the Income Tax Act (R.S.C., 1985, c. 1 (5th Supp.), as amended) (the “Act”), the notice of which is dated October 4, 2017, in the amount of $22,500. The notice of reassessment was issued in respect of the transfer of a sailboat (the “Sailboat”) made to her by her spouse, Christopher Grew. After considering the notice of objection filed by Mrs. Manna in respect of an original assessment issued by the Minister, the notice of which was dated October 26, 2016, in the amount of $46,498.50, the Minister reduced the amount assessed to $22,500 on the basis that the fair market value of the Sailboat at the time of the transfer was $22,500.
+[2] The Respondent is of the view that the Minister correctly reassessed Mrs. Manna since all the requirements of subsection 160(1) of the Act were met. More particularly, there was a transfer of the Sailboat by Mr. Grew to Mrs. Manna on September 21, 2015, without consideration having been paid by Mrs. Manna; at all relevant times Mr. Grew and Mrs. Manna were married; and Mr. Grew was liable to pay tax under the Act for taxation years 2005 to 2010.
+[3] However, the Appellant is of the view that the reassessment should not stand as the Minister did not adduce any evidence with respect to the underlying assessments (as defined below). According to the Appellant, since the underlying assessments were issued on November 27, 2014, they were issued outside the normal reassessment period; hence, the Minister had the onus to adduce evidence showing misrepresentation attributable to neglect, carelessness or wilful default or fraud in filing a return on the part of Mr. Grew. Furthermore, other issues with respect to the value of the Sailboat and the retroactive effect of an amendment to section 160 of the Act were raised by the Appellant.
+[4] In these reasons, all references to statutory provisions are references to the Act, unless otherwise indicated.
+II. THE ACT
+[5] The relevant sections of the Act are set out in the Schedule at the end of these reasons.
+III. THE FACTS AND THE EVIDENCE
+[6] At the hearing, only Mrs. Manna testified. The Respondent did not call any witnesses.
+[7] Mrs. Manna is a sales and catering manager, vocalist, producer and is also an ordained minister. She has been married to Christopher Grew since 2002. Mrs. Manna testified that although she has her own bank account, her husband takes care of all their finances, as well as all tax matters as she is not good with numbers.
+[8] Mrs. Manna testified that she did not understand the assessment. Before she received the assessment, she had no knowledge of her husband’s tax situation; however, she knew that her husband was being audited by the Canada Revenue Agency (the “CRA”) at the end of 2014.
+1. The transfer of the Sailboat
+[9] According to Mrs. Manna, she received the Sailboat as a gift from her husband on August 22, 2010. Mrs. Manna testified that Mr. Grew bought the Sailboat in June 2010 for US$45,000 (CAN$46,498.50 at that time) and imported it from the United States. Furthermore, she testified that there are no documents that support August 22, 2010, as the date of the gift of the Sailboat. The Sailboat was sold by Mrs. Manna in September 2016 for CAN$27,500.
+[10] Mrs. Manna used the Sailboat for pleasure trips every weekend between May and October. In 2013, Mrs. Manna renamed the boat Jazz Diva (it was named Sea-n-Me before that). She paid for marina fees, insurance premiums and repairs to the Sailboat. Mrs. Manna filed, as Exhibit A-1, an invoice dated July 22, 2015, detailing repairs made to the Sailboat after she had hit rocks with it. She also applied for a pleasure craft licence (Exhibit A-2) in 2015. She claims that she did not know before that time that she had to obtain a licence for the Sailboat. According to Mrs. Manna, this was the first licence issued for the Sailboat in Canada. As part of the process to obtain the licence, a letter of intent dated September 21, 2015, was sent to Transport Canada; in the letter, Mr. Grew indicated that he “. . . wish[ed] to transfer ownership of . . .” the Sailboat to his wife (Exhibit R‑1).
+2. The underlying assessments
+[11] The Minister reassessed Mr. Grew under the Act by notices dated November 27, 2014, for taxation years 2005 to 2012 (the “underlying assessments”). At the hearing, neither the Respondent nor the Appellant adduced any evidence in respect of the underlying assessments. No copy of the notices of reassessment for taxation years 2005 to 2012 was filed in the Court record. Furthermore, no evidence was adduced concerning the day of sending of a notice of an original assessment in respect of Mr. Grew or the day of sending of an original notification that no tax is payable by Mr. Grew for these taxation years.
+[12] The Respondent relied on the assumptions of facts found at paragraph 11 of the Reply to the Notice of Appeal, the relevant part reading as follows:
+b) Christopher Grew is indebted to the Canada Revenue Agency (hereinafter “CRA”) for the taxation years 2005, 2006, 2007, 2008, 2009, 2010, 2011 and 2012 for unreported income as a result of an audit;
+. . .
+f) for taxation years 2005 to 2012, the Appellant and [Christopher Grew] declared the following net income:
+BLANK
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+Maria Manna
+$0
+$20,153
+$22,782
+$524
+$2,866
+$170
+$8,883
+$13,838
+Christopher Grew
+$39,214
+$10,000
+$8,375
+$0
+$0
+$0
+$0
+$0
+. . .
+n) as of October 26, 2016, Christopher Grew had an outstanding debt with the Minister in the amount of $385,047.87 with respect to the taxtion [sic] years 2005, 2006, 2007, 2008, 2009 and 2010, detailed as follows:
+Date of assessment
+Year
+Federal tax
+Provincial tax
+Canada Pension Plan
+Unwarranted refund
+Penalty
+Interest
+Total
+November 27, 2014
+2005
+$16,390.18
+$2,000.78
+$2,485.86
+$4,363.53
+$12,125.08
+$32,898.67
+$70.264.10
+November 27, 2014
+2006
+$20,504.80
+$8,243.69
+$3,821.40
+$1,247.68
+$14,998.08
+$33,939.89
+$82,755.54
+November 27, 2014
+2007
+$22,066.82
+$9,315.67
+$3,979.80
+$837.58
+$16,110.03
+$29,023.95
+$81,333.85
+November 27, 2014
+2008
+$16,646.65
+$6,738.40
+$4,098.60
+$150.00
+$11,767.52
+$17,936.29
+$57,337.46
+November 27, 2014
+2009
+$5,802.38
+$2,003.36
+$4,237.20
+$150.00
+$3,979.80
+$6,227.83
+$22,400.57
+November 27, 2014
+2010
+$22,483.34
+$10,122.89
+$4,326.30
+$16,960.28
+$17,063.54
+$70,956.35
+Total
+BLANK
+$103,894.17
+$38,424.79
+$22,949.16
+$6,748.79
+$75,940.79
+$137,090.17
+$385,047.87
+[13] The assumptions of facts relied upon by the Minister refer to Mr. Grew’s outstanding tax debts for taxation years 2005 to 2010 only (paragraph 11n) of the Reply) and do not indicate any amount of tax debts for taxation years 2011 and 2012. At the hearing, the Respondent acknowledged that for the purposes of this appeal, Mr. Grew was liable to pay tax under the Act for taxation years 2005 to 2010 only.
+IV. ISSUES
+[14] In this appeal, the parties acknowledged that there was a transfer of property, namely the Sailboat, which was made by Mr. Grew to his wife, Mrs. Manna, without consideration having been paid by Mrs. Manna. The parties also acknowledged that Mr. Grew was reassessed under the Act for taxation years 2005 to 2012 by notices of reassessment dated November 27, 2014.
+[15] Therefore, the questions in issue are the following:
+Was the Sailboat transferred on August 22, 2010, or on September 21, 2015, and what was the fair market value of the Sailboat at the time of transfer?
+With respect to the underlying assessments,
+(i) what is the effect of the 2013 amendments to subparagraph 160(1)(e)(ii)?
+(ii) who bears the onus with respect to the underlying assessments and did the Minister have the onus of proving that the taxation years in respect of which Mr. Grew’s liability for tax arose (2005 to 2010) were not statute-barred or that Mr. Grew had made any misrepresentation that is attributable to neglect, carelessness, or wilful default or has committed any fraud in filing his income tax returns?
+V. PARTIES’ POSITIONS
+1. The Appellant
+[16] According to Mrs. Manna’s testimony, the transfer of the Sailboat was made on August 22, 2010. Furthermore, the Appellant argues that as the appraisal from the CRA indicates that the fair market value of the Sailboat as at September 21, 2015, “falls to the lower end of the range” (Exhibit A-4), an amount of $20,000 is the best estimate of the fair market value of the Sailboat as at August 22, 2010, and not an amount of $22,500.
+[17] The Minister bears the onus to prove the correctness of the underlying assessments. Furthermore, as the underlying assessments were issued outside the normal reassessment period, the onus was on the Minister to adduce evidence proving misrepresentation attributable to neglect, carelessness or wilful default or fraud by Mr. Grew. As the Minister did not adduce any evidence, the present appeal should be allowed, and the reassessment issued to Mrs. Manna under section 160 should be vacated.
+2. The Respondent
+[18] The Minister was justified in reassessing Mrs. Manna under subsection 160(1) as the four requirements outlined in Canada v. Livingston, 2008 FCA 89, 2008 DTC 6233 [Livingston] for a liability under section 160 were met in this case: (i) the Sailboat was transferred from Mr. Grew to Mrs. Manna as of September 21, 2015 (Exhibit R-1, Letter of Intent); (ii) the fair market value of the Sailboat as of September 21, 2015, was $22,500 (Exhibit R‑4) and no consideration was paid by Mrs. Manna to Mr. Grew; (iii) Mrs. Manna and Mr. Grew were married at the time of the transfer of the Sailboat; (iv) Mr. Grew was liable to pay tax under the Act at the time of the transfer in the amount of $103,894.17 for taxation years 2005 to 2010 (without taking interest into account).
+[19] The Respondent was of the view that the onus was not on the Minister to prove the correctness of the underlying assessments.
+VI. ANALYSIS
+[20] Section 160 is a tax collection tool which prevents taxpayers who have incurred a tax liability from transferring property to certain non-arm’s length individuals in an attempt to shield the property from the collection of a tax debt.
+[21] When section 160 is successfully applied, a transferee becomes liable for the transferor’s tax liability for the taxation year of the transfer, or any preceding year, to the extent that the fair market value of the property transferred exceeds the consideration given for the property.
+[22] In Livingston (supra, para. 17), the Federal Court of Appeal set out four conditions that must be satisfied prior to section 160 being engaged:
+[17] In light of the clear meaning of the words of subsection 160(1), the criteria to apply when considering subsection 160(1) are self-evident:
+1) The transferor must be liable to pay tax under the Act at the time of transfer;
+2) There must be a transfer of property, either directly or indirectly, by means of a trust or by any other means whatever;
+3) The transferee must either be:
+i. The transferor’s spouse or common-law partner at the time of transfer or a person who has since become the person’s spouse or common-law partner;
+ii. A person who was under 18 years of age at the time of transfer; or
+iii. A person with whom the transferor was not dealing at arm’s length.
+4) The fair market value of the property transferred must exceed the fair market value of the consideration given by the transferee.
+[23] As indicated above, the issue in this appeal is not whether Mr. Grew transferred the Sailboat to his spouse, Mrs. Manna, without consideration. The issues are the date of transfer, the fair market value of the Sailboat at the time of transfer as well as those relating to the underlying assessments.
+1. Date of transfer and fair market value of the Sailboat
+[24] For the following reasons, I am of the view that the Sailboat was transferred to Mrs. Manna on September 21, 2015. Also, I am of the view that the fair market value of the Sailboat at that time was $22,500, as established by the CRA appraiser (Exhibit A-4), given the absence of any evidence contradicting the value from the Appellant.
+[25] Mrs. Manna’s testimony did not convince me on a balance of probabilities that the Sailboat was transferred on August 22, 2010. Mrs. Manna did not adduce any documents in evidence dated prior to 2015 showing that she was the owner of the Sailboat. Mrs. Manna testified that she paid the insurance premiums, marina fees and all other fees associated with the Sailboat, but she did not present any receipts to that effect, except for a receipt dated July 2015, which indicated that she had paid for some repairs to the Sailboat. However, the Letter of Intent (Exhibit R-1) clearly indicates that Mr. Grew intended to transfer the Sailboat to Mrs. Manna in September 2015; further, I do not find it plausible that Mrs. Manna would have used the Sailboat for five years without knowing that she had to apply for a pleasure craft licence, which she did apply for in September 2015.
+2. The underlying assessments
+(i) Effect of the amendments to subparagraph 160(1)(e)(ii)
+[26] Subparagraph 160(1)(e)(ii) was amended by Bill C-34 to add the following underlined language, effective for assessments made after December 20, 2002:
+(ii) the total of all amounts each of which is an amount that the transferor is liable to pay under this Act (including, for greater certainty, an amount that the transferor is liable to pay under this section, regardless of whether the Minister has made an assessment under subsection (2) for that amount) in or in respect of the taxation year in which the property was transferred or any preceding taxation year,
+[Emphasis added.]
+[27] According to the Appellant, the fact that the amendment used the words “for greater certainty” implies that prior to 2013 paragraph 160(1)(e) was “uncertain or ambiguous in its effect on tax liability which had yet to be assessed at the time of the transfer”. For the following reasons, I do not agree with the Appellant’s argument; this would be the case even if I had concluded that the transfer of the Sailboat took place on August 22, 2010, which I did not.
+[28] This amendment is aimed at catching a two-step transfer and this is not the situation in the present case. Furthermore, it is a well-settled principle that a tax liability exists as soon as income is earned and that the assessment is at most a confirmation of its existence (Garland v. M.N.R., 88 DTC 1271; The Queen v. Simard-Beaudry Inc. et al., 71 DTC 5511 (F.C.T.D.)). Accordingly, the fact that the underlying assessments were issued to Mr. Grew for taxation years 2005 to 2012 on November 27, 2014, after the alleged date of transfer of the Sailboat of August 22, 2010, would not have had any impact on the liability of Mrs. Manna under subsection 160(1) even if I had concluded that the Sailboat was transferred on August 22, 2010.
+(ii) Onus and limitation period
+[29] In an appeal of a section 160 assessment, a taxpayer is entitled to challenge the underlying assessment, and raise any defence the primary taxpayer could have raised against the underlying assessment if the latter had appealed directly (Gaucher v. The Queen, 2000 DTC 6678 at para. 9 (FCA), and Canada v. 594710 British Columbia Ltd., 2018 FCA 166 at para. 5). As a result, Mrs. Manna is entitled to challenge the correctness of the underlying assessments issued to Mr. Grew, and she can raise the issue of the limitation period with respect to the underlying assessments.
+Onus
+[30] For the following reasons, I am of the view that the Appellant bears the burden of showing that the underlying assessments were incorrect.
+[31] The Appellant argues that the Respondent is asking me to rely on Mr. Grew’s underlying assessments in blind faith and that this Court should not allow that. Also, the Appellant is taking the view that the Respondent ought to have called evidence on Mr. Grew’s tax liability. I do not agree with the Appellant.
+[32] As indicated very recently by Justice D’Auray in Monsell v. The Queen, 2019 TCC 5, [2019] T.C.J. No. 19 (QL), the general rule is that a taxpayer “bears the onus of establishing that an assessment or reassessment is incorrect” (para. 22). As an exception to that general rule, where the facts concerning the underlying assessments are exclusively within the knowledge of the Minister, the onus will then be shifted to the Minister to show the correctness of the underlying assessment. Justice Paris summarized the applicable principle in Mignardi v. The Queen, 2013 TCC 67, [2013] T.C.J. No. 66 (QL) (para. 41), as follows:
+[41] I return now to the proposition that appears to flow from the Gestion Yvan Drouin Inc. case that the Minister bears the onus to prove the underlying tax liability in every appeal from a derivative liability assessment under subsection 160(1) or section 227.1 of the ITA or sections 323 or 325 of the ETA. I agree with respondent’s counsel that such a conclusion is inconsistent with the decisions of the Supreme Court and Federal Court of Appeal to which I have referred. It is only where the facts concerning the underlying tax debt are exclusively or peculiarly within the knowledge of the Minister that the burden will be shifted. Each case will turn on its own facts. Although there may be situations where the tax liability of the original tax debtor is something that is solely within the knowledge of the Crown, more often a taxpayer will have access to that information from the original tax debtor. It should be recalled that one of the bases on which a person is assessed under those provisions is his or her relationship with the tax debtor, either as in this case as a director of the debtor corporation or as a party not dealing at arm’s length with the tax debtor. As a result of this relationship, a taxpayer may very well already have or be able to obtain the information required to verify the existence or amount of the underlying liability.
+[Emphasis added.]
+[33] In the present case, Mrs. Manna has been married to Mr. Grew since 2002; they were still married at the time of the hearing. Although Mrs. Manna testified to the fact that her husband took care of all of their finances and tax matters, I find it difficult to believe that she could not have simply asked her husband for the documents and information needed to challenge the underlying assessments. The Appellant could have adduced evidence to challenge the underlying assessments but she decided not to do so.
+[34] Furthermore, the Reply to the Notice of Appeal contains an assumption that Mr. Grew had unreported income for taxation years 2005 to 2012 (para. 11b)). Mrs. Manna had the ability to obtain information as to the facts regarding the underlying assessments, but decided to adduce no evidence to challenge the underlying assessments.
+The limitation period
+[35] The Minister is entitled to assess a taxpayer outside the normal reassessment period provided the requirements of subsection 152(4) are met. In such a case, the onus is on the Minister to establish the right to reassess after the normal reassessment period by proving that the taxpayer “has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return . . . ” (Vine Estate v. The Queen, 2014 TCC 64 at para. 27, 2014 DTC 1088).
+[36] In her Notice of Appeal, the Appellant made an allegation under the title “Issues” and “Legal Basis” that the underlying assessments had been issued after the normal reassessment period (paragraphs 7b. and 13). In the Reply to the Notice of Appeal, the Attorney General of Canada (the “AGC”) did not specifically deny that allegation, but in paragraph 7, the AGC denied all allegations of fact explicitly or implicitly contained in the remainder of the Notice of Appeal (that is, after para. 6).
+[37] At the hearing, neither the Respondent nor the Appellant adduced any evidence in respect of the underlying assessments. No copy of the notices of (re)assessment for taxation years 2005 to 2010 was filed in the Court record. Furthermore, no evidence was adduced concerning the day of sending of a notice of an original assessment in respect of Mr. Grew or the day of sending of an original notification that no tax is payable by Mr. Grew for these taxation years. The pleadings do not contain any information as to the date of the original assessments issued to Mr. Grew. However, the Appellant argued that since the underlying assessments were issued outside the normal reassessment period and since the Minister did not adduce any evidence of misrepresentation attributable to neglect, carelessness or wilful default on the part of Mr. Grew, the reassessment against her must be set aside.
+[38] Given the total absence of evidence concerning the day of sending of a notice of an original assessment in respect of Mr. Grew or the day of sending of an original notification that no tax is payable by Mr. Grew for these taxation years, which is the starting point of the limitation period under paragraph 152(3.1)(b), I am not in a position to determine whether the underlying assessments were issued to Mr. Grew outside the normal reassessment period.
+[39] Paragraph 152(3.1)(b) reads as follows:
+152(3.1) Definition of normal reassessment period — For the purposes of subsections (4), (4.01), (4.2), (4.3), (5) and (9), the normal reassessment period for a taxpayer in respect of a taxation year is
+. . .
+(b) in any other case, the period that ends three years after the earlier of the day of sending of a notice of an original assessment under this Part in respect of the taxpayer for the year and the day of sending of an original notification that no tax is payable by the taxpayer for the year.
+[40] The question remains as to whether the Appellant should have adduced evidence to show that the underlying assessments were in fact issued outside of the normal reassessment period or whether the Respondent should have adduced evidence showing that the underlying assessments were not statute-barred.
+[41] In Trojan v. The Queen, 2006 TCC 2, 2006 DTC 2212 [Trojan], the initial notices of assessment and the notices of reassessment were not before the Court, but the Minister included in the reply the issue of the reassessment being statute‑barred. The Court held that the Minister thus had the burden to prove that the taxation years could be reassessed under subsection 152(4).
+[42] In the present case, as indicated above, the AGC denied all facts found in the remainder of the Notice of Appeal, which would include the facts that the underlying assessments were statute-barred, which is different from the situation in Trojan, supra, where the Minister specifically acknowledged in the reply that the reassessments were issued after the normal reassessment period.
+[43] In Fournier v. The Queen, 2004 TCC 786, Justice Archambault had to determine whether the question of the limitation period could be raised even if the appellant did not raise it in his pleadings and in the absence of evidence concerning the starting point of the limitation period. He concluded that he could not vacate the assessment on the basis of a principle of procedural fairness as the respondent did not know that she was to present evidence justifying an assessment outside the normal reassessment period. The Federal Court of Appeal upheld Justice Archambault’s decision (Fournier v. Canada, 2005 FCA 131, [2005] F.C.J. No. 606 (QL) [Fournier]):
+[15] The judge was right to abstain from adjudicating this question, which was not at issue, and from finding against the respondent in breach of procedural fairness, particularly in the total absence of evidence concerning the starting point of the prescription. He was required to judge on the basis of law and evidence, not on the strength of a first impression.
+[44] However, in the present case, the Appellant did raise the issue of the limitation period in her Notice of Appeal. Nonetheless, the dates of the initial assessments must be before the Court for the Court to examine the issue of the reassessments being statute-barred or not. In the present case, the Court has no information as to the dates of the original assessments. I find that the Appellant should have adduced evidence in that respect. I am of the view that the Appellant must provide the relevant facts and grounds in support of her claim that the underlying assessments were issued outside the normal reassessment period. I am bound to judge on the basis of law and evidence as presented at the hearing and not “on the strength of a first impression” as stated by the Federal Court of Appeal in Fournier, supra.
+[45] In the absence of such evidence, the Minister did not bear the onus of proving that there was misrepresentation attributable to neglect, carelessness or wilful default or fraud on the part of Mr. Grew.
+[46] In light of the absence of evidence as to the starting point of the limitation period found in subsection 152(3.1), and given my conclusion that the Appellant bears the onus of proving that the underlying assessments were incorrect but did not adduce any evidence in that respect, I find that the underlying assessments were correct. Consequently, Mr. Grew was liable to pay tax under the Act for taxation years 2005 to 2010 in an amount far greater than the fair market value of the Sailboat.
+VII. CONCLUSION
+[47] For the foregoing reasons, the appeal is dismissed, without costs.
+Signed at Montréal, Quebec, this 3rd day of April 2019.
+“Dominique Lafleur”
+Lafleur J.
+152(3.1) Definition of “normal reassessment period” — For the purposes of subsections (4), (4.01), (4.2), (4.3), (5) and (9), the normal reassessment period for a taxpayer in respect of a taxation year is
+. . .
+(b) in any other case, the period that ends three years after the earlier of the day of sending of a notice of an original assessment under this Part in respect of the taxpayer for the year and the day of sending of an original notification that no tax is payable by the taxpayer for the year.
+. . .
+152(4) Assessment and reassessment [limitation period] — The Minister may at any time make an assessment, reassessment or additional assessment of tax for a taxation year, interest or penalties, if any, payable under this Part by a taxpayer or notify in writing any person by whom a return of income for a taxation year has been filed that no tax is payable for the year, except that an assessment, reassessment or additional assessment may be made after the taxpayer’s normal reassessment period in respect of the year only if
+(a) the taxpayer or person filing the return
+(i) has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return or in supplying any information under this Act, or
+. . .
+160(1) Tax liability re property transferred not at arm’s length — Where a person has, on or after May 1, 1951, transferred property, either directly or indirectly, by means of a trust or by any other means whatever, to
+(a) the person’s spouse or common-law partner or a person who has since become the person’s spouse or common- law partner,
+(b) a person who was under 18 years of age, or
+(c) a person with whom the person was not dealing at arm’s length,
+the following rules apply:
+(d) the transferee and transferor are jointly and severally, or solidarily, liable to pay a part of the transferor’s tax under this Part for each taxation year equal to the amount by which the tax for the year is greater than it would have been if it were not for the operation of sections 74.1 to 75.1 of this Act and section 74 of the Income Tax Act, chapter 148 of the Revised Statutes of Canada, 1952, in respect of any income from, or gain from the disposition of, the property so transferred or property substituted for it, and
+(e) the transferee and transferor are jointly and severally, or solidarily, liable to pay under this Act an amount equal to the lesser of
+(i) the amount, if any, by which the fair market value of the property at the time it was transferred exceeds the fair market value at that time of the consideration given for the property, and
+(ii) the total of all amounts each of which is an amount that the transferor is liable to pay under this Act (including, for greater certainty, an amount that the transferor is liable to pay under this section, regardless of whether the Minister has made an assessment under subsection (2) for that amount) in or in respect of the taxation year in which the property was transferred or any preceding taxation year,
+but nothing in this subsection limits the liability of the transferor under any other provision of this Act or of the transferee for the interest that the transferee is liable to pay under this Act on an assessment in respect of the amount that the transferee is liable to pay because of this subsection.
+CITATION:
+2019 TCC 70
+COURT FILE NO.:
+2017-3939(IT)I
+STYLE OF CAUSE:
+MARIA MANNA
+AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Victoria, British Columbia
+DATE OF HEARING:
+February 8, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Dominique Lafleur
+DATE OF JUDGMENT:
+April 3, 2019
+APPEARANCES:
+Agent for the Appellant:
+Jeremy Maddock
+Counsel for the Respondent:
+Kiel Walker
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,159 @@
+---
+title: "D-Win Computer Systems Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31203/index.do"
+last_modified: "2013-05-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 187"
+citation2: ""
+neutral_citation: "2013 CCI 187"
+decision_date: "2013-05-10"
+language: "fr"
+item_id: "31203"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5043
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:18:53.884000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5c2e41d0deaa765d4dd61307bc34efef8df925c8c0bcc4a12c37dce1487df52d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# D-Win Computer Systems Inc. c. La Reine
+
+- Citation: 2013 CCI 187
+- Decision date: 2013-05-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5043, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+D-Win Computer Systems Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-05-10
+Référence neutre
+2013 CCI 187
+Numéro de dossier
+2011-3694(GST)I
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2011-3694(GST)I
+ENTRE :
+D-WIN COMPUTER SYSTEMS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 10 mai 2013 à Ottawa, Canada
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Avocat de l’appelante :
+Me Jonathan P.M. Collings
+Avocate de l’intimée :
+Me Serena Sial
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre des nouvelles cotisations établies au titre de la partie IX de la Loi sur la taxe d’accise pour les périodes allant du 1er avril 2004 au 31 mars 2005, du 1er avril 2005 au 31 mars 2006, du 1er avril 2006 au 31 mars 2007 et du 1er avril 2007 au 31 mars 2008 est accueilli, sans frais, et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, conformément aux motifs ci‑joints prononcés de vive voix à l’audience.
+Signé à Ottawa, Canada, ce 14e jour de juin 2013.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 17e jour de juillet 2013.
+C. Laroche, traducteur
+Dossier : 2011-3694(GST)I
+ENTRE :
+D-WIN COMPUTER SYSTEMS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+TRANSCRIPTION RÉVISÉE DES MOTIFS DU JUGEMENT
+RENDUS ORALEMENT
+Que la transcription révisée ci‑jointe des motifs rendus oralement à l’audience tenue à Ottawa, Canada, le 10 mai 2013, soit versée au dossier. J’ai révisé la transcription (certifiée par le sténographe judiciaire) par souci de stylistique et de clarté, et pour n’y apporter que des corrections mineures. Je n’y ai apporté aucune modification de fond.
+Signé à Ottawa, Canada, ce 14e jour de juin 2013.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 17e jour de juillet 2013.
+C. Laroche, traducteur
+Référence : 2013 CCI 187
+Date : 20130614
+Dossier : 2011-3694(GST)I
+ENTRE :
+D-WIN COMPUTER SYSTEMS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Appel entendu et décision rendue oralement à l’audience,
+le 10 mai 2013, à Ottawa, Canada.)
+Le juge Boyle
+[1] Voici les motifs du jugement que j’ai rendu dans l’appel relatif à la TPS de D‑Win Computer Systems Inc., entendu aujourd’hui à Ottawa; l’appel, interjeté sous le régime de la procédure informelle, porte sur la demande de crédits de taxe sur les intrants produite par l’appelante à l’égard de son projet de développement immobilier, lequel avait fait l’objet d’un choix concernant les coentreprises, conformément aux dispositions de l’article 273.
+[2] Dès l’ouverture de l’audience, l’intimée a abandonné son moyen préliminaire de contestation de l’appel se rapportant à 2005 et 2006. De plus, elle a concédé que l’appel de la contribuable devait être accueilli en ce qui concerne les 20 730,12 $ de crédits de taxe sur les intrants en cause, étant convaincue que D-Win avait payé ces intrants, y compris la TPS applicable, en dehors du cadre de la coentreprise visée par l’article 273.
+[3] Les faits mis en preuve sont clairs et nets. Tous les documents de l’appelante étaient pertinents et organisés de façon logique, et ils ont été admis en preuve sur consentement. Les dépositions des deux témoins appelés par la contribuable ont été présentées de manière très efficace. L’intimée n’a pas contre-interrogé M. Baldwin et elle n’a adressé qu’une seule question à M. McConnell. De même, les deux avocats étaient bien préparés, et leur argumentation était précise; pour cela, ainsi que pour les concessions faites, les deux parties et leurs avocats méritent des éloges.
+[4] L’appelante, D-Win Computer Systems Inc., a acquis le bien-fonds à mettre en valeur de son seul actionnaire et administrateur, M. Baldwin. Au départ, celui-ci et sa femme projetaient d’y construire leur propre résidence, mais leur situation personnelle a changé. Il s’agissait du premier projet de développement immobilier pour D-Win comme pour M. Baldwin. En vertu d’un contrat rédigé par M. Baldwin, D-Win a embauché un entrepreneur en construction compétent, Eagle Designers and Builders, comme entrepreneur général. Par le passé, M. Baldwin avait engagé Eagle à deux reprises pour effectuer des travaux sur des fondations.
+[5] Suivant les termes du contrat, Eagle devait construire les maisons pour le compte de D-Win selon la méthode du prix coûtant majoré, ce qui lui assurait une somme fixe par unité. Le contrat traitait aussi du financement et des répartitions.
+[6] D-Win et Eagle ont présenté aux autorités fiscales un formulaire de choix concernant une coentreprise en vertu de l’article 273 de la Loi sur la taxe d’accise, Eagle y étant désigné comme entrepreneur du projet et D-Win comme coentrepreneur. De façon générale, lorsque le choix prévu à l’article 273 est fait, les opérations entre les parties à la coentreprise sont réputées ne pas créer de palier supplémentaire de perception de la TPS ou de crédits de taxe sur les intrants.
+[7] Pour ce qui est de l’opération en cause ici, les alinéas 273(1)a) et c) prévoient expressément ce qui suit : (i) d’une part, les fournitures acquises par Eagle au nom de D-Win sont réputées l’avoir été par Eagle, et non par D-Win; (ii) d’autre part, les fournitures effectuées par Eagle au profit de D-Win sont réputées ne pas être des fournitures.
+[8] La réalisation du projet de développement immobilier de D-Win ne s’est pas faite aussi rondement que M. Baldwin l’avait souhaité. Pour les besoins du présent appel, qu’il suffise de dire que D-Win n’était pas satisfaite de la prestation d’Eagle, non plus que de ses déclarations comptables. Toutefois, je ne dispose d’aucune preuve permettant de croire qu’Eagle n’a pas demandé les CTI auxquels elle avait droit en qualité d’entrepreneur, en application de l’alinéa 273(1)a) pour toute la TPS payée sur les intrants afférents aux maisons construites.
+[9] S’étant retrouvée dans une fâcheuse situation financière en raison du projet, D‑Win veut désormais, par le présent appel, réclamer les crédits de taxe sur les intrants au motif qu’elle a avancé à son entrepreneur général les sommes requises pour payer les tiers fournisseurs. Elle fait valoir que son droit aux CTI est la conséquence de l’application du paragraphe 141.01(4), une fois que l’on a appliqué le paragraphe 141.01(7).
+[10] Le paragraphe 141.01(7), qui s’applique notamment au paragraphe (4), vise les cas où une disposition législative relative à la TPS porte « que la contrepartie d’une fourniture est réputée ne pas en être une », « qu’une fourniture est réputée effectuée à titre gratuit » ou « qu’une personne est réputée ne pas avoir effectué une fourniture ».
+[11] L’avocat de la contribuable prétend qu’au moins une des conditions préalables mentionnées au paragraphe 141.01(7) est satisfaite du fait du choix effectué en vertu de l’article 273 et, en particulier, de l’application de l’alinéa 273(1)a). Je ne puis accepter cet argument. Il est clair que, en l’espèce, l’acquisition d’un intrant par Eagle au nom de D-Win est réputée, suivant l’alinéa 273(1)a), faite par Eagle, et non par D-Win. Autrement dit, la présomption s’applique eu égard à l’acquéreur de l’intrant. Il ne s’agit pas d’une règle portant qu’une contrepartie est réputée ne pas en être une, qu’une fourniture est réputée effectuée à titre gratuit ou encore que D-Win est réputée ne pas avoir effectué une fourniture.
+[12] Même si je poursuis ma lecture jusqu’à l’alinéa 273(1)c), que n’a pas invoqué l’avocat de la contribuable, mais selon lequel certaines fournitures effectuées par l’entrepreneur Eagle au profit du coentrepreneur D-Win sont réputées ne pas être des fournitures, je ne vois pas comment on peut donner raison à la contribuable, et cela, parce qu’elle conclut son argumentation en appliquant le paragraphe 141.01(4) pour établir son droit aux CTI. Or, ainsi que le précise le paragraphe 141.01(4), pour que s’applique ce paragraphe, il faut, dans un premier temps, que le fournisseur effectue la fourniture taxable d’un bien à titre gratuit. Cette condition ne saurait se vérifier pour ce qui concerne les fournitures effectuées entre Eagle et D‑Win. Au regard des faits et du droit, il ne fait aucun doute que les deux parties se sont échangé moult contreparties, comme le prévoyait leur contrat. En outre, même si la contribuable avait raison d’affirmer que, suivant le paragraphe 141.01(7), l’article 273 n’intervient pas dans l’application du paragraphe 141.01(4), on ne peut pas même prétendre qu’une fourniture quelconque est réputée avoir été effectuée à titre gratuit. Enfin, même si les alinéas 273(1)a) et c) s’appliquent tous les deux, comme nous l’avons vu précédemment, aucune fourniture n’y est réputée effectuée à titre gratuit. Pour toutes ces raisons, le paragraphe 141.01(4) ne peut s’appliquer en l’espèce.
+[13] Pour les motifs qui précèdent, l’argument de droit avancé par la contribuable ne peut être retenu. L’appel sera rejeté, sauf quant aux sommes susmentionnées que l’intimée a concédées à l’appelante.
+[14] Je soulignerais par ailleurs que cette conclusion semble appropriée en ce qui concerne, à tout le moins, l’ensemble des intrants provenant de tiers. D-Win a décidé, suivant l’article 273, qu’Eagle, en qualité d’entrepreneur, serait celle qui aurait droit aux CTI se rapportant à la TPS perçue par les tiers sur les fournitures. Aucune preuve ne permet de conclure qu’Eagle n’a pas réclamé tous les CTI auxquels elle avait droit, qu’elle a exigé ou perçu de la TPS auprès de D-Win ou qu’elle a remis quelque montant de TPS lorsque D-Win lui a donné des fonds pour acquitter les factures de ces tiers. Par conséquent, si D-Win devait maintenant obtenir des crédits de taxe sur les intrants relativement à la TPS payée par Eagle aux fournisseurs tiers, il en résulterait indubitablement une double comptabilisation de ces crédits – ou du moins ne pourrait-on pas écarter le risque d’une double prise en compte.
+[15] L’appel est accueilli en partie, mais uniquement jusqu’à hauteur des crédits de taxe sur les intrants concédés par l’intimée, lesquels s’élèvent à 20 730,12 $.
+Signé à Ottawa, Canada, ce 14e jour de juin 2013.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 17e jour de juillet 2013.
+C. Laroche, traducteur
+RÉFÉRENCE : 2013 CCI 187
+No DU DOSSIER DE LA COUR : 2011-3694(GST)I
+INTITULÉ : D-WIN COMPUTER SYSTEMS INC. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Ottawa, Canada
+DATE DE L’AUDIENCE : Le 10 mai 2013
+MOTIFS DU JUGEMENT : L’honorable juge Patrick Boyle
+DATE DU JUGEMENT : Le 14 juin 2013
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Jonathan P.M. Collings
+Avocate de l’intimée :
+Me Serena Sial
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Jonathan P.M. Collings
+Cabinet : Low Murchison Radnoff s.r.l.
+1565, av. Carling, bureau 400
+Ottawa (Ontario) K1Z 8R1
+Pour l’intimée : William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada

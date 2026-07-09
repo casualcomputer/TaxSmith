@@ -1,0 +1,972 @@
+Title: Town Properties Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26904/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-375-26904-town-properties-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-05-28
+
+# Town Properties Ltd. v. The Queen
+
+- Citation: 2004 TCC 375
+- Decision date: 2004-05-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 776, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Town Properties Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-05-28
+Neutral citation
+2004 TCC 375
+File numbers
+2001-4371(IT)G
+Judges and Taxing Officers
+Terrence O'Connor
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2001-4371(IT)G
+BETWEEN:
+DIANE BAKER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Bronwen Lapointe (2001-4372(IT)G), Michael Stone (2001-4373(IT)G),
+and Town Properties Ltd. (2002-114(IT)G) on February 6, 2004
+at Victoria, British Columbia
+Before: The Honourable Justice T. O'Connor
+Appearances:
+Counsel for the Appellant:
+George F. Jones, Q.C.
+Counsel for the Respondent:
+Eric Douglas
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 1998, 1999 and 2000 taxation years are dismissed in accordance with the attached Reasons for Judgment. Costs are awarded to the Respondent.
+Signed at Ottawa, Canada, this 28th day of May 2004.
+"T. O'Connor"
+O'Connor, J.
+Docket: 2001-4372(IT)G
+BETWEEN:
+BRONWEN LAPOINTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Diane Baker, (2001-4371(IT)G), Michael Stone (2001-4373(IT)G),
+and Town Properties Ltd. (2002-114(IT)G) on February 6, 2004
+at Victoria, British Columbia
+Before: The Honourable Justice T. O'Connor
+Appearances:
+Counsel for the Appellant:
+George F. Jones, Q.C.
+Counsel for the Respondent:
+Eric Douglas
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 1998, 1999 and 2000 taxation years are dismissed in accordance with the attached Reasons for Judgment. Costs are awarded to the Respondent.
+Signed at Ottawa, Canada, this 28th day of May 2004.
+"T. O'Connor"
+O'Connor, J.
+Docket: 2001-4373(IT)G
+BETWEEN:
+MICHAEL STONE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Diane Baker (2001-4371(IT)G), Bronwen Lapointe (2001-4372(IT)G,
+and Town Properties Ltd. (2002-114(IT)G) on February 6, 2004
+at Victoria, British Columbia
+Before: The Honourable Justice T. O'Connor
+Appearances:
+Counsel for the Appellant:
+George F. Jones, Q.C.
+Counsel for the Respondent:
+Eric Douglas
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 1998 and 1999 taxation years are dismissed in accordance with the attached Reasons for Judgment. Costs are awarded to the Respondent.
+Signed at Ottawa, Canada, this 28th day of May 2004.
+"T. O'Connor"
+O'Connor, J.
+Docket: 2002-114(IT)G
+BETWEEN:
+TOWN PROPERTIES LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Diane Bake (2001-4371(IT)G), Bronwen Lapointe (2001-4372(IT)G,
+and Michael Stone (2001-4373(IT)G), on February 6, 2004
+at Victoria, British Columbia
+Before: The Honourable Justice T. O'Connor
+Appearances:
+Counsel for the Appellant:
+George F. Jones, Q.C.
+Counsel for the Respondent:
+Eric Douglas
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 31 March 1998, 31 March 1999 and 30 June 1999 taxation years are dismissed in accordance with the attached Reasons for Judgment. Costs are awarded to the Respondent.
+Signed at Ottawa, Canada, this 28th day of May 2004.
+"T. O'Connor"
+O'Connor, J.
+Citation: 2004TCC375
+Date: 20040528
+Docket: 2001-4371(IT)G
+BETWEEN:
+DIANE BAKER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+AND BETWEEN
+2001-4372(IT)G
+BRONWEN LAPOINTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+AND BETWEEN
+2001-4373(IT)G
+MICHAEL STONE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+AND BETWEEN
+2002-114(IT)G
+TOWN PROPERTIES LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN
+Respondent.
+REASONS FOR JUDGMENT
+O'Connor, J.
+[1] These appeals were heard on common evidence. They were argued on the basis of an Agreed Statement of Facts which reads as follows:
+The Activity
+1. Town Properties Ltd. (the "Company") is a company duly incorporated under the laws of the Province of British Columbia.
+2. At all material times, the Company owned and operated a commercial office building located on View Street in the city of Victoria in the Province of British Columbia and this was its sole asset and source of income.
+3. The Company carried on a business the principal purpose of which was to earn income from property.
+4. At all material times, the Company employed at least six individuals as custodians for the purpose of providing cleaning and maintenance services for its tenants (the "Workers").
+5. The cleaning and maintenance services provided by the Workers included janitorial services, ordering supplies, security of the premises and coordinating the maintenance and repairs of equipment.
+6. The Workers worked four hours per day, five days per week and their regular hours were from 6 p.m. to 10 p.m. from Monday to Friday.
+7. The names of the Workers and their monthly hours of work are attached as Schedule A to this Agreed Statement of Facts.
+8. Certain insurance policies contain definitions of the term "full-time employee". The majority of these policies define a full-time employee as one who works at least 20 hours per week, though there are a few policies that require a person to work 25 hours per week in order to be considered a full-time employee. Examples of policies that define full-time employees as ones working at least 20 hours per week are attached as exhibits B, C and D to this Agreed Statement of Facts.
+9. The Workers were not covered by any insurance policy in the nature of those referred to in paragraph 8.
+10. The Statistics Canada "Guide to the Labour Force Survey", revised February 2002, defines "full-time employment" as consisting of persons who usually work 30 hours or more per week at their main or only job. This definition applies to 1996 and subsequent years. Excerpts from the Survey are attached as exhibit E to this Agreed Statement of Facts.
+11. The Human Resources Development Canada website defines "voluntary part-time work" in the following manner:
+Employees choose to work fewer hours than the standard 37.5 or 40 hours per week. This practice may be temporary (that is, established for a specific period) or permanent.
+Excerpts from the HRDC website are attached as exhibit F to this agreed statement of facts.
+Reassessments of Town Properties Ltd.
+12. In computing income for its taxation years ending 31 March 1998, 31 March 1999, 30 June 1999 and 30 June 2000, the Company claimed the small business deduction (the "Deduction") pursuant to subsection 125(1) of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), as amended (the "Act").
+13. By Notices dated 1 August 2001 the Minister reassessed the Company's 31 March 1998, 31 March 1999 and 30 June 1999 taxation years to disallow the Deduction.
+14. By Notice dated 31 August 2001 the Company objected to the (re)assessment of each of the Taxation Years.
+15. By Notices dated 28 December 2001 the Minister confirmed the reassessments of the Company's 31 March 1998, 31 March 1999 and 30 June 1999 taxation years and varied the assessment of its 30 June 2000 taxation year to disallow the Deduction.
+Reassessment of Michael Stone
+16. On 31 December 1998 Michael Stone exchanged common shares of Sansom Holdings Ltd. ("Sansom") at an agreed transfer value of $200,000 for Sansom preferred shares and by so doing realized a capital gain in the amount of $200,000. This exchange of shares was elected on pursuant to section 85 of the Act and Form T2057 was filed with the Minister.
+17. On 1 January 1999 Mr. Stone exchanged common shares of Sansom at an agreed transfer value of $200,000 for Sansom preferred shares and by so doing realized a capital gain in the amount of $200,000. This exchange of shares was elected on pursuant to section 85 of the Act and Form T2057 was filed with the Minister.
+18. At all material times, the only asset owned by Sansom was two shares in the Company.
+19. In computing income for the 1998 taxation year, Mr. Stone did not claim any capital gains deduction and did not report any disposition of qualified small business corporation shares.
+20. By Notice dated 13 January 2000 the Minister reassessed Mr. Stone's 1998 taxation year to include a capital gain in the amount of $200,000 and to allow a capital gains deduction for the disposition of qualified small business corporation shares (the "Capital Gains Deduction") in the amount of $150,000 in respect of the sale of shares of Sansom.
+21. In computing income for the 1999 taxation year, Mr. Stone again claimed the Capital Gains Deduction in the amount of $150,000 in respect of the sale of shares of Sansom.
+22. By Notices dated 6 July 2001, the Minister reassessed Mr. Stone to disallow the Capital Gains Deduction in the 1998 and 1999 taxation years.
+23. The reassessment for the 1998 and 1999 taxation years were confirmed on November 22, 2001.
+Reassessment of Bronwen Lapointe
+24. On 31 December 1998 Bronwen Lapointe exchanged common shares of Lapointe Baker Holdings Ltd. ("Lapointe") at an agreed transfer value of $200,000 for Lapointe preferred shares and by so doing realized a capital gain in the amount of $200,000. This exchange of shares was elected on pursuant to section 85 of the Act and Form T2057 was filed with the Minister.
+25. On 1 January 1999 Ms. Lapointe exchanged common shares of Lapointe at an agreed transfer value of $200,000 for Lapointe preferred shares and by so doing realized a capital gain in the amount of $200,000. This exchange of shares was elected on pursuant to section 85 of the Act and Form T2057 was filed with the Minister.
+26. At all material times, the only asset owned by Lapointe was one share in the Company.
+27. In computing income for the 1998 taxation year, Ms. Lapointe failed to report a capital gain on the transfer of the Lapointe shares and did not claim the Capital Gains Deduction.
+28. In computing income for the 1999 taxation year, Ms. Lapointe reported a capital gain in the amount of $200,000 and claimed the Capital Gains Deduction in the amount of $150,000 in respect of the sale of shares of Lapointe.
+29. In computing income for the 2000 taxation year, Ms. Lapointe deducted a minimum tax carry-over in the amount of $3,092.00 from her federal tax payable for the year.
+30. On 14 September 1999 the Minister reassessed the 1998 taxation year of Ms. Lapointe to include a capital gain of $200,000 on the transfer of the Lapointe shares and to allow the Capital Gains Deduction in the amount of $150,000.
+31. By Notices dated 6 July 2001, the Minister reassessed Ms. Lapointe to disallow the Capital Gains Deduction in the 1998 and 1999 taxation years and to reduce the minimum tax carry-over to nil in the 2000 taxation year.
+32. The reassessment for the 1998, 1999 and 2000 taxation years were confirmed on November 22, 2001.
+Reassessment of Diane Baker
+33. On 31 December 1998 Diane Baker exchanged 50 common shares of M & G Baker Holdings Ltd. ("M & G") at an agreed transfer value of $200,062 for 50 M & G preferred shares and by so doing realized a capital gain in the amount of $200,000. This exchange of shares was elected on pursuant to section 85
+34. On 1 January 1999 Ms. Baker exchanged 50 common shares of M & G at an agreed transfer value of $200,062 for 50 M & G preferred shares and by so doing realized a capital gain in the amount of $200,000. This exchange of shares was elected on pursuant to section 85 of the Act and Form T2057 was filed with the Minister.
+35. At all material times, the only asset owned by M & G was one share in the Company.
+36. In computing income for the 1998 taxation years, Ms. Baker did not claim any capital gains deduction and did not report any disposition of qualified small business corporation shares.
+37. By way of a T1 Adjustment request dated 21 June 1999, Ms. Baker sought to claim a capital gains deduction and report the disposition of qualified small business corporation shares.
+38. By Notice dated 26 July 1999 the Minister reassessed Ms. Baker's 1998 taxation year to include a capital gain in the amount of $200,000 and to allow the Capital Gains Deduction in the amount of $150,000 in respect of the sale of shares of M & G.
+39. In computing income for the 1999 taxation year, Ms. Baker again claimed the Capital Gains Deduction in the amount of $150,000 in respect of the sale of shares of M & G.
+40. In computing income for the 2000 taxation year, Ms. Baker deducted a minimum tax carry-over in the amount of $4,579.94 from her federal tax payable for the year.
+41. By Notices dated 6 July 2001, the Minister reassessed Ms. Baker to disallow the Capital Gains Deduction in the 1998 and 1999 taxation years and to reduce the minimum tax carry-over to nil in the 2000 taxation year.
+42. The reassessments for the 1998, 1999 and 2000 taxation years were confirmed on November 22, 2001.
+SCHEDULE A
+TOWN PROPERTIES LTD.
+PAYROLL HOURS WORKED
+1997 - 2001
+HOURS WORKED
+1997
+JAN
+FEB
+MAR
+APR
+MAY
+JUN
+JUL
+AUG
+SEP
+OCT
+NOV
+DEC
+TOTAL
+Maria
+Achadinha
+92
+80
+84
+88
+88
+84
+92
+24
+88
+92
+80
+92
+984
+Jessie Campbell
+92
+80
+84
+88
+88
+84
+92
+84
+88
+103
+40
+72
+995
+Colleen Taylor
+92
+80
+84
+88
+88
+84
+92
+40
+68
+92
+80
+24
+912
+Rita Chaves
+92
+80
+84
+88
+88
+84
+92
+84
+28
+92
+80
+92
+984
+Teresa Scholefield
+88
+80
+84
+88
+88
+84
+92
+84
+88
+64
+80
+92
+1012
+Gloria Tytgat
+88
+80
+84
+88
+88
+84
+32
+84
+88
+92
+80
+92
+980
+Sandra Campbell
+44
+24
+68
+544
+480
+504
+528
+528
+504
+492
+444
+472
+535
+440
+464
+5935
+1998
+Maria
+Achadinha
+92
+80
+88
+88
+84
+88
+32
+84
+88
+76
+84
+92
+976
+Jessie Campbell
+92
+80
+88
+88
+84
+88
+92
+84
+88
+88
+20
+92
+984
+Colleen Taylor
+80
+88
+84
+84
+52
+80
+64
+88
+84
+84
+92
+880
+Rita Chaves
+92
+80
+88
+84
+84
+88
+92
+84
+88
+88
+84
+36
+988
+Teresa Scholefield
+88
+80
+88
+88
+84
+88
+92
+64
+88
+84
+84
+92
+1020
+Gloria Tytgat
+88
+80
+88
+84
+84
+88
+92
+44
+88
+88
+84
+92
+1000
+Sandra Campbell
+36
+72
+60
+64
+60
+292
+452
+480
+528
+516
+504
+528
+552
+484
+528
+508
+504
+556
+6140
+1999
+Maria
+Achadinha
+84
+80
+92
+84
+84
+88
+84
+40
+76
+84
+88
+76
+960
+Jessie Campbell
+84
+80
+92
+88
+84
+88
+88
+88
+88
+84
+40
+80
+984
+Colleen Taylor
+84
+80
+92
+84
+84
+88
+64
+48
+88
+84
+88
+92
+976
+Rita Chaves
+84
+80
+92
+84
+84
+88
+84
+88
+32
+80
+88
+92
+976
+Teresa Scholefield
+84
+80
+92
+84
+84
+88
+84
+88
+88
+64
+84
+92
+1012
+Gloria Tytgat
+84
+80
+92
+84
+84
+88
+48
+88
+88
+84
+88
+92
+1000
+Sandra Campbell
+60
+88
+76
+28
+48
+20
+320
+504
+480
+552
+508
+504
+528
+512
+528
+536
+508
+524
+544
+6228
+2000
+JAN
+FEB
+MAR
+APR
+MAY
+JUN
+JUL
+AUG
+SEP
+OCT
+NOV
+DEC
+TOTAL
+Maria
+Achadinha
+84
+84
+92
+76
+92
+88
+84
+12
+60
+88
+88
+84
+932
+Jessie Campbell
+84
+84
+92
+76
+64
+80
+84
+92
+84
+88
+52
+64
+944
+Colleen Taylor
+84
+84
+92
+76
+92
+88
+4
+92
+84
+88
+88
+84
+956
+Rita Chaves
+84
+84
+92
+76
+92
+88
+84
+92
+44
+68
+88
+84
+976
+Teresa Scholefield
+84
+84
+28
+8
+204
+Gloria Tytgat
+84
+84
+92
+76
+92
+88
+84
+92
+40
+88
+88
+84
+992
+Sandra Campbell
+92
+20
+80
+64
+20
+32
+308
+Ann B. Rina
+76
+92
+88
+64
+92
+64
+88
+80
+644
+Andrea Johnson
+80
+64
+36
+84
+264
+504
+504
+552
+456
+552
+528
+504
+552
+504
+528
+520
+516
+6220
+2001
+Maria
+Achadinha
+80
+80
+88
+84
+88
+84
+88
+52
+60
+92
+88
+68
+952
+Jessie Campbell
+92
+80
+88
+84
+92
+84
+88
+92
+80
+92
+88
+52
+1012
+Colleen Taylor
+92
+80
+88
+84
+92
+84
+80
+40
+80
+92
+88
+84
+984
+Rita Chaves
+80
+80
+88
+84
+88
+84
+88
+92
+20
+92
+88
+84
+968
+Gloria Tytgat
+80
+80
+88
+40
+40
+328
+Ann B. Rina
+52
+80
+88
+84
+88
+84
+88
+92
+80
+92
+88
+44
+960
+Andrea Johnson
+40
+44
+88
+84
+88
+92
+80
+92
+88
+84
+780
+Sandra Campbell
+8
+52
+64
+40
+164
+Marybeth Gabriel
+40
+24
+32
+96
+516
+480
+528
+504
+576
+504
+528
+552
+488
+552
+528
+488
+6244
+2002
+Maria Achadinha
+92
+80
+84
+256
+Jessie Campbell
+56
+80
+84
+220
+Colleen Taylor
+92
+80
+84
+256
+Rita Chaves
+92
+80
+84
+256
+Ann B. Rina
+92
+80
+84
+256
+Andrea Johnson
+92
+80
+84
+256
+Marybeth Gabroe
+36
+36
+552
+480
+504
+1536
+[2] I have included Schedule 'A' since it is quite relevant. I have not included Schedules 'B', 'C', 'D', 'E' and 'F' of the Agreed Statement of Facts but can confirm that the summaries of same contained in Respondent's Written Submissions are accurate.
+[3] The Respondent's Written Submissions read as follows:
+Overview
+1. In order to qualify for certain highly preferential tax treatment, the Appellants seek a finding that employees who work only four hours per day, five days per week are engaged in full-time employment. An analysis of the case law, the purpose of the provision in question, and basic common sense dictate that a higher standard and more objective test must be established.
+Statement of Facts
+2. The facts are as set out in the Agreed Statement of Facts.
+3. Town Properties Ltd. ("Town Properties") is a corporation that earns rental income from a commercial office building located in the City of Victoria. Through the relevant period, it employed at least six individuals as custodians for the purpose of providing cleaning services for its tenants. These individuals worked from 6:00 pm to 10:00 pm from Monday to Friday, for a total of 20 hours per week.
+4. The Appellants assumed that the custodians qualified as full-time employees of Town Properties. On that basis, Town Properties claimed the small business deduction under subsection 125(1) of the Income Tax Act (the "Act") and the individual shareholders claimed the capital gains deduction for qualified small business corporation shares under section 110.6 of the Act.
+5. The Minister of National Revenue reassessed the Appellants to deny those claims.
+Points in Issue
+6. The issue is whether an individual working only 20 hours per week for an employer is engaged in full-time employment with that employer.
+Submissions
+The Act
+7. The significance of the phrase "full-time employees" arises from the definition of "specified investment business" in subsection 125(7) of the Act. In order to qualify for the small business deduction under subsection 125(1) of the Act, a corporation must earn income from "active business". "Active business" is defined in subsection 125(7) as being any business "other than a specified investment business ...".
+Respondent's Authorities, Tab 12
+8. If the activities of Town Properties fall within the definition of "specified investment business" then it does not carry on active business and does not qualify for the small business deduction. The definition of "specified investment business" is as follows:
+"specified investment business" carried on by a corporation in a taxation year means a business ... the principal purpose of which is to derive income (including ... rents...) from property but ... does not include a business carried on by the corporation in the year where
+(a) the corporation employs in the business throughout the year more than 5 full-time employees, ...
+9. Similarly, the individual shareholders' eligibility for the capital gains deduction depends on Town Properties having carried on "active business". If Town Properties did not have at least five full-time employees, the individual shareholders do not qualify for the deduction.[1]
+"Full-time" means "regular working hours of each day"
+10. Case law, dictionary definitions and the use of the term in other Federal legislation supports an objective definition of "full-time" that is identified for corporations of any nature. The most recent and authoritative of these sources define a "full-time employee" as one who is employed for the entirety of a normal working day.
+11. In the case of Hughes & Co. Holdings Ltd., Justice Muldoon of the Federal Court Trial Division considered the definition of "full-time employee". In paragraphs 38 through 40, the Court reviewed a number of dictionary definitions. At paragraph 40, Justice Muldoon concludes that a person is not a full-time employee if "his services were 'not required for the normal work day, week, month or year'... " or if "he was regularly employed to work fewer than the regular working hours of each working day ..."
+Respondent's Authorities, Tab 4, Para. 40.
+12. In the Tax Court decision of Woessner v. The Queen, Justice Beaubier also considered the issue of whether or not certain workers were full-time employees. Like Justice Muldoon, he initially referred to a dictionary definition.[2] He went on to consider the decision in Hughes & Co. and adopt the definition set out in that case. Justice Beaubier found that the workers in question were not full-time employees for the following reasons:
+They were not required to work a normal day, week or month. They were regularly employed to work fewer than the regular working hours of each day.
+Respondent's Authorities, Tab 3, Para. 15.
+13. In the Dictionary of Canadian Law, "full-time employee" is defined as "an employee whose regular work week exceeds thirty hours" and "full-time employment" is defined as occupying a position "where the employee is required to work at least twenty-nine hours per week."
+Respondent's Authorities, Tab 5.
+14. The Canadian Oxford Dictionary defines "full-time" as "occupying or using the whole of the available working time" and "the total normal duration of work."
+Respondent's Authorities, Tab 6.
+15. Certain Federal legislation contains definitions of terms similar to "full-time employment", though these definitions are typically for the purpose of specific circumstances. Nonetheless, they offer some guidance. These references include the following:
+Public Service Superannuation Regulations: "where normal hours of work per week are established ... the greater of the normal hours of work per week so established and 30 hours per week"; "where no normal hours of work per week are established ... 37.5 hours per week";[3]
+Immigration and Refugee Protection Regulations: "For the purpose of this section, full-time work is equivalent to at least 37.5 hours of work per week"; "'full-time job equivalent' means 1,950 hours of paid employment";[4]
+Immigration and Refugee Protection Act: ... if appointed as full-time members, must devote the whole of their time to the performance of their duties under this Act";[5]
+CanadaLabour Code: "The full-time members of the Board must not hold any other employment or office in respect of which they receive any remuneration."[6]
+16. The references to "full-time employment", or other such similar terms, set out above support defining "full-time employment" as employment in which one is "regularly employed to work the regular working hours of each day". On any application of this definition, it is clear that four hours per day is far less than the regular working hours of a day. If one is to attach a specific number of hours to this definition, the minimum number of hours mentioned is 29 per week.
+Appellants' position
+17. The Appellants' rely upon the definition of "full-time employment" set out in Ben Raedarc Holdings Ltd. v. The Queen.[7] However, Hughes & Co. is a decision of the Federal Court Trial Division and should be accorded greater weight than Ben Raedarc. Further, Woessner is a General Procedure decision of the Tax Court decided subsequent to the Ben Raedarc matter. For these reasons, the definitions of "full-time employment" applied in both Hughes & Co. and Woessner is to be preferred.
+18. There do exist dictionary definitions[8] and legislative references[9] which might suggest a definition of "full-time employment" that takes into account the normal working hours of a particular class of employees, however these references appear in the context of legislation that has very narrow and specific purposes. It is therefore inappropriate to apply such a definition to a provision of the Act (subsection 125) that must encompass the entire spectrum of property-related businesses operating in Canada.
+19. In any event, there is no evidence before the Court regarding the standard number of hours worked by custodians. Therefore, the Appeals should be dismissed even if the Appellants' definition of "full-time employment" is applied.
+20. An examination of the purpose of section 125 makes it clear that the definition of "full-time employee" suggested by the Appellants' is inconsistent with the objectives of Parliament.
+Purpose is to ensure that "active" meant truly active
+21. In Lerric Investments Corp. v. The Queen, the Federal Court of Appeal sought to interpret a definition contained in subsection 125(7). The Court recognized that it was difficult to ascertain whether and how the provision was to apply and therefore supported an investigation of the scheme of the legislation. The Court quoted with approval the comments of the Trial Judge, Justice Bowman, regarding the scheme of the legislation:
+The concept of specified investment business seems to have been a response to certain decisions of the courts which treated virtually any commercial activity of a corporation, however passive, ... as an active business. ...
+The result was the introduction of the concept of specified investment business the purpose of which [sic] to ensure that "active" meant truly active and that the word not be, in effect, judicially written out of the Act. Therefore the object of the new legislation was to ensure that the business of a corporation that invested in rental properties would not be considered "active" unless there was sufficient activity in the corporation's business to justify the employment of over five full-time employees.
+Respondent's Authorities, Tab 1, Para. 6.
+22. The Federal Court of Appeal then went on to make its own comments regarding the scheme of section 125:
+Section 125 distinguishes between active and inactive corporations, only the former being eligible for the small business deduction. Ordinarily, a business whose income is primarily derived from property is treated as inactive and therefore ineligible for the deduction. Subparagraph 125(7)(e)(i) provides an exception to this rule and allows the small business deduction to a corporation that derives income from property indicia of activity. As Bowman JTCC explained, the requirement that the corporation employ more than five full-time employees simply operates as a test to ensure that a corporation is sufficiently active such that it should qualify for the deduction.
+Respondent's Authorities, Tab 1, Para. 9.
+23. Defining "full-time employment" to be equivalent to the standard number of hours worked in the industry is inconsistent with section 125's goal (as stated by Justice Bowman and the Federal Court of Appeal) of ensuring that a certain minimum level of activity exists in a corporation prior to allowing it the small business deduction. Such a test would lead to differing definitions of "full-time employment" between industries. Section 125 would thus be applied in an inconsistent and subjective manner, violating the principal that similarly situated taxpayers should be taxed equally.
+24. As Justice Bowman noted, the very problem with the rental industry was that such corporations earned passive income. That limited level of activity was considered by Parliament to be too low to warrant be considered "active business" and gaining the tax benefits that go with that label. It would be contrary to common sense and to the scheme of the legislation to now say that such corporations are carrying on "active business" as long as they are no more passive than other corporations in the rental industry. Such corporations must engage in activity that is above the average for the rental industry, not merely at the average.
+25. Justice Bowman and the Federal Court of Appeal recognized that, in section 125, Parliament sought to increase the level of activity corporations were required to engage in if they were to qualify for the small business deduction. To find that 20 hours of work per week is sufficient activity would be to erode the language of the section. This is precisely what Justice Bowman and the Federal Court of Appeal were not prepared to do.
+Ordinary meaning of the phrase is clear
+26. The expression "full-time employment" is a common one in our society. Justice Muldoon decided that "Parliament expressed the term "full-time employment" in the ordinarily understood use of the words."[10]
+27. In The Queen v. Gaudet, the Federal Court of Appeal sought to discover "the ordinary meaning of the words used by the legislator" in determining what constituted a full-time student. The Court ultimately simply applied common sense and found that the facts of that case meant that the Appellant failed on "even a vague understanding of the ordinary meaning of the words".
+Respondent's Authorities, Tab 2, Para. 5.
+28. After examining the scheme of section 124, Justice Bowman also concluded that he must "draw the line where one's good sense tells one to draw it".[11]
+29. Applying basic common sense to the issue in the Appeals of Town Properties and the individual shareholders, it is clear that 20 hours of work per week cannot constitute full-time employment on any reasonable definition. Setting the standard so low would lead to absurd situations of after school jobs amounting to full-time employment and would render the difference between full-time and part-time virtually meaningless. If one were employed for only 20 hours per week, one could easily take on a second job that involved an equal number of hours. That alone would demonstrate that the person was not fully occupied by their initial 20 hours of employment.
+30. The custodians working for Town Properties work only from 6:00 pm to 10:00 pm. They would actually be able to work a full 9:00 to 5:00 day in addition to their custodial duties. Clearly, their employment with Town Properties does not take up the "regular working hours of the day" and does not amount to full-time employment.
+Order Sought
+31. The Respondent requests that the Appeals be dismissed with costs.
+[4] The Appellant referred to Raedarc Holdings Ltd. v. The Queen, 98 DTC 1218 (TCC). Relevant excerpts from that decision are found at 1224 and 1225 and read as follows:
+No single consideration will allow the Court to arrive at the answer because the meaning ascribed to the term in another statute does not mean that the legislators intended to adopt that meaning under the Act unless they specifically said so. Likewise the Court cannot adopt holus bolus the evidence of any one witness or group of witnesses as to what the term means under the Act nor can it ascribe to it the definition set out in a number of insurance policies.
+Webster's Third New International Dictionary describes 'full-time' as:
+The amount of time considered the normal or standard amount for working during a given period (as a day, week or month).
+The Oxford English Dictionary, Second Edition, Volume VI defines 'full-time' as:
+The total number of hours normally allotted to daily or weekly work, etc.
+The Oxford English Dictionary defines 'part-time' as:
+Employed, occurring, lasting, etc. for part of the time or for less than the customary time.
+The Dictionary of Canadian Law, Second Edition, refers to:
+Full-time basis. In relation to an employee of a particular class, means engaged to work, throughout the year, all or substantially all of the normally scheduled hours of work established for persons in that class of employees. Pension Benefits Standards Act, R.S.C. 1985 (2d Supp.), c. 32, s. 2.
+Full-time employee. An employee whose regular work week exceeds thirty hours. Inflation Restraint Act, 1982, S.O. 1982, c. 55, s. 4.
+Full-time employment. Employment requiring continuous service in an office or position, where the employee is normally required to work the minimum number of hours prescribed by the person having authority to establish the hours of such employment.
+From such references the Court considers that in the absence of a clear definition in the Act, in terms of the minimal number of hours that must be worked to qualify one as a 'full-time employee' under the relevant sections, it must consider in the circumstances of this case what were the normally scheduled hours of work established for janitors in the Vancouver area during the periods in question and whether or not the workers here worked all or substantially all of those hours. What was considered to be the normal or standard amount of time for janitors to work during the years in question? Did the workers in question work less than the customary time?
+What were the minimum number of hours prescribed by the person who had authority to establish the hours of employment?
+In the case at bar there was evidence led by the Appellants, from persons who were very knowledgeable in the field as to what hours a janitorial staff were normally required to work in the Victoria area and they gave reasons for establishing such hours which reasons were not unreasonable and were not challenged.
+Further, no evidence was introduced by the Respondent, nor did it come out in the cross-examination, that the evidence given by the witnesses called by the Appellants was unreliable, inaccurate or not according to standards established in the Victoria area.
+The Court is satisfied that some of the workers in question were full-time employees of the Appellant, Town Properties Ltd. during the relevant years.
+In so deciding, the Court has considered the argument raised by counsel for the Respondent that having due regard to the ratio decendi in Corporation Notre-Dame de Bon-Secours, supra, as well as Symes v. Canada, 94 DTC 6001 [1993] 4 S.C.R. 695 and the technical notes to the Income Tax Act and Regulations, 8th Edition, referable to section 125 of the Act, that the workers here do not qualify.
+However, nothing in those notes or cases assist the Court here in deciding what the legislators meant by the term 'full-time employee' in the absence of further specifications.
+The tenure of the notes indicate that the intention of the legislators was to give some relief to small businesses and small family types of businesses, but such an intention does not detract from the fact that no minimum number of hours were referred to nor is there anything in the notes to indicate that the legislators did not intend that such relief might accord to a business like that of the Appellants, given the facts that have been established here.
+This business was a substantial one, in terms of income and expenses. It operated a real estate business and employed a substantial number of employees as well as utilizing the services of agents.
+The Court finds that some of the employees were 'full-time employees' given the established facts here. Such employees were those who worked all or substantially all of four hours per day, five days a week, throughout the years in question, in accordance with the Court's finding as to what constituted a 'full-time employee', as indicated above.
+One would think that it would be a relatively easy task, providing records were kept properly, of proving that there were more than five full-time employees during the years in question. However, in this case there are some difficulties for the Appellants in light of the evidence adduced.
+The evidence in that regard is somewhat confusing and contradictory.
+If the Court were to accept holus bolus the evidence of the witnesses called on behalf of the Appellant, it would have to find that there were more than five 'full-time employees' throughout the year in question.
+Michael Stone said that there were six full-time employees on the janitorial staff and that they were managed by Jessie Campbell. He said that there were six because each one took a floor for security and safety purposes. But he was obviously of the belief that at least six persons worked four hours per day, five days per week throughout the year.
+He believed that Exhibit R-3 and Exhibit A-1, Tab 5 would show that there were more than six full-time employees during the years in question but he did not examine these documents closely and he did not point out the basis for such a conclusion. He had to rely on the timesheets.
+Dick Lawson said that there were six full-time employees on the janitorial staff during the years in question.
+The timesheets were prepared by Jessie Campbell and the bookkeeping by Equitex. It is obvious that he accepted them as factual and accurate.
+He said that the employees worked from 6 to 10, five days per week and that it took 24 person hours to do the cleaning each week. He did not keep the records himself and obviously he could not confirm from his own knowledge that there were six full-time employees there throughout the years in question.
+With respect to Exhibit R-3 he could only say that he may have seen it. It was prepared by the bookkeeper for Equitex and he may have discussed it with him. "He had no reason to question its accuracy".
+Jessie Campbell was the author of the timesheets at Exhibit A-1, Tab 5. Her evidence was that there are normally five full-time employees plus herself. She said that there are always six in total.
+Her timesheets were prepared at the end of each month or totalled. She said, "that is all that I do", obviously referring to her method of recording the hours.
+The years in question are the taxation years of Town Properties Ltd. ending March 31, 1991, March 31, 1992 and March 31, 1993.
+Apart from the general evidence of the witnesses that there were always six full-time employees, the only other evidence was provided at Exhibit A-1, Tab 5 Exhibit R-3 and Exhibit R-4.
+From Exhibit R-3 the Court concludes that the reference to 1992 and 1993 were the fiscal years of Town Properties Ltd. but it contains conflicting information. At the top of the document are written the words "six individuals, five days per week, four hours per day".
+However, when one looks at the list of workers for 1992 there are only four employees who have the full twelve months of employment and one other has eleven months of work. For the year 1993 there were only four. Only these persons could reasonably be considered by the Court as having worked "substantially all of the regular hours" so as to possibly include Colleen Carpenter as a full-time employee in 1992. Various other workers were there only for portions of the year not approaching the required number of months.
+However, The Queen v. Hughes, supra , is in support of the proposition that subparagraph 125(7)(e)(i) of the Act requires that to avoid "specified investment business status", a taxpayer must have "more than five full-time employees". This clearly means at least six full-time employees.
+[5] Counsel for the Appellant also referred to certain other decided cases and to certain dictionary definitions, extracts from the Public Service Superannuation Act and from the Pension Benefits Standards Act. In my opinion the Authorities referred to by the Appellant are not sufficiently on point to lead to the conclusion that the janitors of Town Properties Ltd. were engaged in "full-time employment". In my opinion the Authorities referred to by counsel for the Respondent more closely meet or compare with the facts in the present appeals in particular the decisions in Hughes & Co. and Woessner referred to at paragraph 17 of the Respondent's Written Submissions.
+[6] I have been persuaded that the Respondent's Written Submissions are correct and applicable and consequently on that basis the appeals are dismissed with costs.
+Signed at Ottawa, Canada, this 28th day of May 2004.
+"T. O'Connor"
+O'Connor, J.
+CITATION:
+2004TCC375
+COURT FILE NOS.:
+2001-4371(IT)G; 2001-4372(IT)G;
+2001-4373(IT)G; 2002-114(IT)G
+STYLE OF CAUSE:
+Diane Baker v. The Queen,
+Bronwen Lapointe v. The Queen
+Michael Stone v. The Queen
+Town Properties Ltd. v. The Queen
+PLACE OF HEARING:
+Victoria, British Columbia
+DATE OF HEARING:
+February 6, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice T. O'Connor
+DATE OF JUDGMENT:
+May 28, 2004
+APPEARANCES:
+Counsel for the Appellants:
+George F. Jones, Q.C.
+Counsel for the Respondent:
+Eric Douglas
+COUNSEL OF RECORD:
+Counsel for the Appellants:
+Name:
+George F. Jones, Q.C.
+Firm:
+Jones Emery Hargreaves Swan
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Subsection 110.6(1) of the Act. Respondent's Authorities, Tab 13.
+[2] Respondent's Authorities, Tab 3, Para. 13.
+[3] Subsection 3(2). Respondent's Authorities, Tab 7.
+[4] Subsections 80(7) and 88(1). Respondent's Authorities, Tab 8.
+[5] Paragraph 153(1)(h). Respondent's Authorities, Tab 9.
+[6] Subsection 11(1). Respondent's Authorities, Tab 10.
+[7] (1997), 98 DTC 1218 (TCC).+
+[8] Respondent's Authorities, Tab 5, "full-time basis", for example.
+[9] Respondent's Authorities, Tab 11.
+[10] Respondent's Authorities, Tab 4, Para. 40
+[11] Respondent's Authorities, Tab 1, Para. 8.

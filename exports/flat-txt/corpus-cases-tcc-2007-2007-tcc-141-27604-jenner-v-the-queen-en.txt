@@ -1,0 +1,137 @@
+Title: Jenner v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27604/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-141-27604-jenner-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-05-15
+
+# Jenner v. The Queen
+
+- Citation: 2007 TCC 141
+- Decision date: 2007-05-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 425, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jenner v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-05-15
+Neutral citation
+2007 TCC 141
+File numbers
+2004-3516(GST)I
+Judges and Taxing Officers
+Pierre Archambault
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Citation: 2007TCC141
+Date: 20070515
+Docket: 2004-3516(GST)I
+BETWEEN:
+BRIAN JENNER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+(Delivered orally from the bench on December 11, 2006, at
+Québec, Quebec, and modified for more clarity and precision.)
+Archambault J.
+[1] Brian Jenner is appealing from an assessment established by the Minister of National Revenue (Minister) under the Excise Tax Act (Act). The Minister refused to grant part of the input tax credits (ITC) regarding the purchase of a Land Rover sport utility vehicle, the retail price of which is $83,000. The Minister only granted the ITC calculated based on a deemed cost of $30,000 because he considered it a passenger vehicle that did not benefit from the exclusion set out in the Income Tax Act (ITA) for vehicles acquired for the operation of a car sale or rental business.
+[2] The relevant legislative provisions are reproduced below. First there is section 201 and subsection 123(1) of the Act that set out the rules for calculating the ITC for passenger vehicles:
+201. Value of passenger vehicle – For the purpose of determining an input tax credit of a registrant in respect of a passenger vehicle that the registrant at a particular time acquires, imports or brings into a participating province for use as capital property in commercial activities of the registrant, the tax payable by the registrant in respect of the acquisition, importation or bringing in, as the case may be, of the vehicle is deemed to be the lesser of
+(a) the tax that was payable by the registrant in respect of the acquisition, importation or bringing in, as the case may be, of the vehicle; and
+(b) the amount determined by the formula
+(A × B) - C
+where
+A is the tax that would be payable by the registrant in respect of the vehicle if the registrant acquired the vehicle at the particular time
+(i) where the registrant is bringing the vehicle into a participating province at the particular time, in that province, and
+(ii) in any other case, in Canada
+for consideration equal to the amount deemed under paragraph 13(7)(g) or (h) of the Income Tax Act to be, for the purposes of section 13 of that Act, the capital cost to a taxpayer of a passenger vehicle to which that paragraph applies
+...
+C is … zero.
+123(1) Definitions ‑ (1) In section 121, this Part and Schedules V to X,
+“passenger vehicle” has the meaning assigned by subsection 248(1) of the Income Tax Act;
+[Emphasis added.]
+Subsection 248(1) ITA states:
+"passenger vehicle" means an automobile acquired after June 17, 1987 (other than an automobile acquired after that date pursuant to an obligation in writing entered into before June 18, 1987) and an automobile leased under a lease entered into, extended or renewed after June 17, 1987;
+"automobile" means
+(a) motor vehicle that is designed or adapted primarily to carry individuals on highways and streets and that has a seating capacity for not more than the driver and 8 passengers,
+but does not include
+...
+(d) except for the purposes of section 6, a motor vehicle acquired to be sold, rented or leased in the course of carrying on a business of selling, renting or leasing motor vehicles or a motor vehicle used for the purpose of transporting passengers in the course of carrying on a business of arranging or managing funerals;
+[Emphasis added.]
+Paragraph 13(7)(g) ITA states:
+(7) Rules applicable ‑ Subject to subsection 70(13), for the purposes of paragraphs 8(1)(j) and 8(1)(p), this section, section 20 and any regulations made for the purpose of paragraph 20(1)(a),
+[...]
+(g) where the cost to a taxpayer of a passenger vehicle exceeds $20,000 or such other amount as is prescribed, [1] the capital cost to the taxpayer of the vehicle shall be deemed to be $20,000 or that other prescribed amount, as the case may be;
+[Emphasis added.]
+[3] The two parties agreed from the start that the resolution of the case depended on whether the Land Rover was acquired in the course of carrying on a business of renting or leasing vehicles. Mr. Jenner admitted that if it were a simple vehicle rental or lease (and not carrying on a rental or lease business), admitted, he would not have the right to more than he had already been granted.
+[4] At the start of the hearing, Mr. Jenner admitted all the facts the Minister took for granted at paragraph 5 of the Response to the Notice of Appeal as follows:
+[translation]
+…
+(b) the Appellant registered for GST purposes;
+(c) the Appellant is President and CEO of The Helicopter Association of Canada (HAC), of which the Quebec establishment is located in the Appellant's residence at 2577 Chemin du Foulon, Sillery, Quebec, G1T 1X9;
+(d) the Appellant is also an employee of HAC;
+(e) on October 16, 2003, the Appellant acquired a Land Rover utility vehicle, Range Rover model, for which the retail price is $83,000;
+(f) at that time, the Appellant was also the owner of a Monaco brand camper, The Executive model;
+(g) on January 1, 2004, the Appellant rented these vehicles to HAC for the period of January 1, 2004, to December 31, 2008;
+(h) the lease sets out that the vehicles were to be registered and insured under the joint names of the HAC and the Appellant;
+(i) for the duration of the lease, HAC is responsible for the running maintenance and operating costs;
+(j) the Appellant is the sole user of the vehicles rented to HAC;
+(k) the Appellant claimed an input tax credit (ITC) for the acquisition of the Range Rover vehicle calculated on the retail price of the vehicle;
+(l) The Minister only granted the ITC on the amount prescribed by the Act for a passenger vehicle, namely $30,000.
+[5] During his testimony, Mr. Jenner produced the rental contract (Exhibit A‑1) and it shows the agreement was for the rental of two vehicles, including a camper that is not in question and the Land Rover. Paragraph 2 of the contract specifically sets out that lessee, namely Mr. Jenner's employer, was responsible for "all running maintenance and operating costs of the Vehicles" and the lessor, Mr. Jenner, described in the agreement as the owner, was responsible for "major repairs of the Vehicles." The contract only concerns the rental of the vehicles. It has nothing to do with providing any type of service whatsoever. Mr. Jenner admitted that the only property subject to the rental was the camper and the sport utility vehicle and that he did not rent vehicles to other clients.
+[6] The question the Court is faced with is the following: in these circumstances, can Mr. Jenner be considered as having carried on a vehicle or recreational vehicle rental or lease business during the relevant period?
+[7] The Court, without hesitation, finds that Mr. Jenner's activities did not constitute the operation of a business and that the passages Mr. Jenner relied on to justify his position, the comments of L'Heureux-Dubé J. in Hickman Motors Ltd. v. Canada, [1997] 2 S.C.R. 336, 1997 CarswellNat 3046[2], were taken out of context and are of no use to him.
+[8] From my understanding of the issue in Hickman Motors, which is based on the explanations provided to me during the hearing, the issue was whether the parent company, after acquiring a heavy equipment rental business from a subsidiary during a liquidation, could be considered as having carried on this rental business and with the right to the capital cost allowance, even if it had only held this business for five days, after which the business was sold to another company.
+[9] The comments by L’Heureux‑Dubé J. are not helpful for determining whether the rent Mr. Jenner earned should be considered as business income or as property income. The case law adopts the following statements by Iacobucci J.[3] who, regarding paragraph 144 of Hickman Motors on the distinction between the two types of income, cites professor Vern Krishna and summarizes his statements as follows: "He distinguishes between the two on the basis that "business" connotes some kind of activity." He also cites from the same paragraph, the following by Peter W. Hogg and Joanne E. Magee in Principles of Canadian Income Tax Law (1995), at page 195: "A gain acquired without systematic effort is not income from a business. It may be income from property, such as rent, interest or dividends." As Iacobucci J. stated, at the end of paragraph 144: "Unless the taxpayer actually uses the asset "as part of a process that combines labour and capital" (Krishna, supra, at p. 276), any income earned therefrom does not qualify as income from a business, but rather falls into the category of income from property."
+[10] In my opinion, the decision rendered by the Supreme Court in Hickman Motors does not modify this approach. Income from property is income that can be mainly attributed to this source. It does not require important work to exist, whereas income from a business generally requires two elements: work and capital. Sometimes there is little or no capital. However, work (for example, service provision) is necessary to the production of business income. We will use the example of a doctor carrying out his medical profession with minimal capital of $1,000, as was the case in Grenier v. The Queen, 2003 DTC 227, [2005] 2 C.T.C. 2210, para. 3. A doctor carrying out his profession in a hospital may very well carry out a business with very little of his own capital. However, in general, a business requires the combination of capital and work. This approach has allowed the courts to distinguish between income from property and income from a business.
+[11] In this case, Mr. Jenner acquired the two vehicles, the camper and the Land Rover, which he rented to his employer because the employer needed them so it could provide them to Mr. Jenner for his duties as president and CEO, and the employer did not want to acquire the vehicles. The rent to which Mr. Jenner was entitled allowed him to repay the cost of acquiring the vehicles and, in his opinion, make a profit.[4] According to the lease between him and his employer, the employer was responsible for the costs of use and general maintenance and Mr. Jenner, as lessor, was only responsible for major repairs. Wisely, in my opinion, Mr. Jenner even obtained an extended guarantee from the manufacturer of the Land Rover, which allowed him to limit his financial risk, since major repairs would be taken on by a third party.
+[12] Once the Land Rover was acquired, he no longer had much to do as lessor, other than cash in the rental fees every month or every year. It was as the lessee's employee that he drove the vehicles and took care of the running maintenance. I restate that under the terms of the lease, Mr. Jenner had no obligation to provide anything other than the use of the Land Rover and the camper. Considering he had only one client and the maintenance of these vehicles did not require any intervention by him as lessee, except if there was a major repair—and the evidence did not show that such an expense was incurred—he cannot be considered as having operated a rental business.
+[13] I see absolutely no distinction between Mr. Jenner's activity as a lessor who makes a profit from property and that of all the building owners who rent them out and take the financial risk associated with doing so, particularly in cases where there are repairs to be made and when there is non-payment of rent and collection measures must be taken. Mr. Jenner is in the same situation as these building lessors, and maybe even in a better position, since it is his employer/lessee who is responsible for the maintenance of the vehicles. The owners of buildings are recognized by the case law as earning property income.
+[14] For all these reasons, I find that Mr. Jenner's appeal should be dismissed, and without cost to the Respondent, because it was an informal procedure.
+Signed at Ottawa, Canada, this 15th day of May 2007.
+"Pierre Archambault"
+Archambault J.
+Translation certified true
+on this 18th day of July 2007
+Elizabeth Tan, Translator
+CITATION: 2007TCC141
+COURT FILE No.: 2004-3516(GST)I
+STYLE OF CAUSE: BRIAN JENNER v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: December 11, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice Pierre Archambault
+DATE OF JUDGMENT: December 20, 2006
+DATE OF REASONS
+FOR JUDGMENT: May 15, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Louis Cliche
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] According to subsection 7307(1) of the Income Tax Regulations, the prescribed amount for the purposes of this paragraph for a vehicle acquired after 2000 is $30,000.
+[2] In particular paras. 46 and 47 of the decision:
+46 The trial judge, asking the wrong questions, inferred the absence of business purpose, and the absence of intention to earn income, from the fact that the property was merely “available for leasing”. This inference is incorrect and constitutes an error of law. Where machinery is rented out, the essential core operations may at times be limited to accepting rental revenue and assuming the business risk and other obligations. At any time during that period, any client could demand the execution of any of the contractual obligations, such as fixing an engine, for example. Where, because a rental business is fortunate enough to experience no mechanical breakdowns or accidents during a period of time, it “passively” accepts rental revenue and assumes business risk and obligations, it does not necessarily follow that it is not carrying on a business during that period. Holding otherwise would imply that rental businesses are “intermittent”, that is, that they carry on a business only when something goes wrong in the operations. Such a proposition is unacceptable.
+47 Contrary to my colleague Iacobucci J.’s opinion at paras. 145 and 158 of his reasons, even if the appellant “passively” received rental income during a period of time, it does not necessarily follow that it did not carry on an active business. In Carland (Niagara) Ltd. v. M.N.R., 64 D.T.C. 139, at p. 141, the Tax Appeal Board stated that:
+It is not necessary that there be sustained activity before it can be maintained that a business is carried on; there may be and often are periods of quiescence in almost any business enterprise. . . . [The Commissioner of Inland Revenue v. The South Behar Railway Co., Ltd., (1925) 12 T.C. 657] indicates how little need be done to constitute a carrying on of business. I find, as a fact, that some measure of business, be it greater or lesser, never ceased to be conducted at any material time. Always, the premises were open to any customer who might call there.
+Also, I note the following comment in John Durnford, “The Distinction Between Income from Business and Income from Property, and the Concept of Carrying On Business” (1991), 39 Can. Tax J. 1131, at p. 1191:
+Indeed, depending on the nature of the business, the mere presence of long periods of inactivity will not alone indicate that a business is not being carried on.
+[Emphasis added.]
+[3] Although Iacobucci J. was dissenting in Hickman Motors, his comments accurately reflect the legal situation, in my opinion.
+[4] I accept his testimony that he did make a profit, even if the statements of income were not submitted to evidence to justify the claim.

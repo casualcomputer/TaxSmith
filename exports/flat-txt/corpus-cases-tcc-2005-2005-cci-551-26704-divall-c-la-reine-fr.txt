@@ -1,0 +1,184 @@
+Title: Divall c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26704/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-551-26704-divall-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2005-08-26
+
+# Divall c. La Reine
+
+- Citation: 2005 CCI 551
+- Decision date: 2005-08-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3450, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Divall c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-08-26
+Référence neutre
+2005 CCI 551
+Numéro de dossier
+2004-4520(IT)I
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-4520(IT)I
+ENTRE :
+BARRY D. DIVALL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 10 août 2005, à Saskatoon (Saskatchewan).
+Devant : L’honorable juge D. W. Beaubier
+Comparutions :
+Représentant de l’appelant :
+Al Aessie
+Avocate de l’intimée :
+Me Penny L. Piper
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie à l’égard de l’appelant en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2000 et 2002 est rejeté.
+Signé à Regina, Saskatchewan, ce 26e jour d’août 2005.
+« D. W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme ce 17e jour de mars 2009.
+Alya Kaddour‑Lord, traductrice
+Référence : 2005CCI551
+Date : 20050826
+Dossier : 2004-4520(IT)I
+ENTRE :
+BARRY D. DIVALL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Beaubier
+[1] Le présent appel, interjeté sous le régime de la procédure informelle, a été entendu à Saskatoon, en Saskatchewan, le 10 août 2005. L’appelant a été le seul témoin à comparaître.
+[2] Les questions en litige sont énoncées aux paragraphes 8 à 18 de la réponse à l’avis d’appel, lesquels sont ainsi rédigés :
+[traduction]
+8. Une nouvelle cotisation a été établie à l’égard de l’appelant pour les années d’imposition 2000 et 2002. Les avis de nouvelle cotisation étaient datés du 1er décembre 2003.
+9. Dans la nouvelle cotisation qu’il a établie à l’égard de l’appelant pour l’année d’imposition 2000, le ministre du Revenu national (le « ministre ») a augmenté le revenu d’entreprise net de l’appelant en ajoutant 12 712 $ au montant de la récupération de la déduction pour amortissement (la « DPA ») en application du paragraphe 13(1) de la Loi de l’impôt sur le revenu (la « Loi »), et il a réduit de 18 869 $ la perte en capital que l’appelant avait déclarée au titre de la disposition du bien en application de l’alinéa 39(1)b) de la Loi. Dans la nouvelle cotisation qu’il a établie à l’égard de l’appelant pour l’année d’imposition 2002, le ministre a ramené le montant de la perte en capital reportée prospectivement sur cette année de 6 930 $ à 2 204 $ en application de l’alinéa 39(1)b) de la Loi.
+10. L’appelant s’est opposé aux nouvelles cotisations au moyen d’un avis qui a été reçu le 23 janvier 2004.
+11. Le ministre a établi de nouvelles cotisations à l’égard de l’appelant au moyen d’avis datés du 24 septembre 2005.
+12. Dans les nouvelles cotisations qu’il a établies à l’égard de l’appelant, le ministre a réduit le revenu d’entreprise net de celui‑ci de 7 254 $ pour l’année d’imposition 2000, et ce, en réduisant le montant de la récupération de la DPA qui devait être inclus dans son revenu, et il a refusé à l’appelant la perte en capital reportée sur une année ultérieure de 2 204 $ qu’il a déclarée pour l’année d’imposition 2002.
+13. Quand il a établi ces nouvelles cotisations pour les années d’imposition 2000 et 2002, le ministre a tenu les faits suivants pour acquis :
+a) L’appelant a acheté le bien situé à l’adresse 633 Ave. N South (le « bien ») en 1983;
+b) L’appelant s’est servi du bien dans le cadre de son entreprise de réparation de carrosserie, exploitée sous le nom de BD Autobody, dont il était le seul et unique propriétaire;
+c) L’appelant a acheté le bien au coût de 78 285 $, réparti de la manière suivante : 19 190 $ pour le terrain et 59 095 $ pour le bâtiment;
+d) En 1994, l’appelant a présenté un choix au ministre afin de déclarer un gain en capital réalisé sur le bien;
+e) En 1994, lorsqu’il a présenté son choix au ministre, l’appelant a fixé à 115 000 $ la juste valeur marchande du bien à la fin du mois de février 1994;
+f) Lorsqu’il a présenté son choix au ministre, l’appelant n’a pas précisé quelle était la répartition de la juste valeur marchande entre le terrain et le bâtiment;
+g) Pendant l’année d’imposition 1998, l’appelant a loué le bien au moyen d’un contrat de bail assorti d’une option d’achat en faveur du locataire;
+h) Le contrat était d’une durée de deux ans, du 15 juillet 1998 au 15 juillet 2000;
+i) Pendant toute la durée du bail, le loyer du bien a été fixé à 1 200 $ par mois;
+j) L’option d’achat du bien a été évaluée à 14 000 $, somme qui devait être déduite du prix d’achat;
+k) Pendant l’année d’imposition 2000, l’appelant a vendu le bien pour un montant de 112 000 $;
+l) Le produit de la vente du bien était réparti de la manière suivante :
+Terrain
+30 000 $
+Bâtiment
+54 466 $
+Produit de disposition total
+84 466 $
+Revenus de location déjà déclarés
+27 534 $
+Total reçu
+112 000 $
+m) Dans le choix présenté en 1994, le prix de base rajusté du terrain a été fixé à 30 000 $;
+n) La disposition du terrain par l’appelant n’a donné lieu à aucun gain ou perte en capital pour l’année d’imposition 2000;
+o) La fraction non amortie du coût en capital (la « FNACC ») du bâtiment et de l’équipement de l’appelant pour l’année d’imposition 2000, avant la disposition du bien, s’élevait à 34 588 $;
+p) L’appelant avait droit à une DPA de 482 $ pour l’année d’imposition 2000;
+q) L’appelant avait récupéré une DPA de 19 396 $ pour l’année d’imposition 2000, calculée de la manière suivante :
+Produit de la disposition – bâtiment
+54 466 $
+FNACC – Bâtiment et équipement
+34 588 $
+DPA déductible
+482 $
+Récupération
+19 396 $
+B. LES QUESTIONS À TRANCHER
+14. Les questions à trancher sont les suivantes :
+r) Le ministre a‑t-il correctement calculé le revenu d’entreprise net de l’appelant pour l’année d’imposition 2000?
+s) L’appelant a‑t‑il enregistré une perte en capital pendant l’année d’imposition 2000?
+t) L’appelant peut‑il reporter des pertes en capital sur l’année d’imposition 2002, et, le cas échéant, quel montant peut‑il reporter?
+C. LES DISPOSITIONS LÉGISLATIVES, LES MOYENS INVOQUÉS ET LA RÉPARATION DEMANDÉE
+10. Pour les années d’imposition 2000 et 2002, il se fonde sur le paragraphe 13(1) et les alinéas 39(1)b) et 111(1)b) de la Loi, dans sa version modifiée.
+11. L’appelant a récupéré une DPA de 19 396 $ pour l’année d’imposition 2000 en application du paragraphe 13(1) de la Loi.
+12. L’appelant ne peut déduire une perte en capital au titre de la disposition du bien pour l’année d’imposition 2000 en application de l’alinéa 39(1)b) de la Loi.
+13. L’appelant ne dispose d’aucune perte en capital qu’il pourrait reporter sur l’année d’imposition 2002 en vertu de l’alinéa 111(1)b) de la Loi.
+[3] La preuve n’a pas permis de réfuter les allégations 13a) à p) inclusivement. Aucun expert n’est venu comparaître en faveur de l’appelant afin de réfuter les montants dont il est fait état dans les allégations.
+[4] Par conséquent, la question que la Cour doit trancher est de savoir quelle est la portée du bail qui a été signé par l’appelant le 9 novembre 1998, et qui était assorti d’une option d’achat devant être levée le 15 juin 2000 (pièce A‑2). Si l’entente est explicite, il sera inutile d’examiner d’autres documents.
+[5] Le bail vise la période allant du 15 juillet 1998 au 15 juillet 2000 et concerne les locaux occupés par l’atelier de carrosserie. Le loyer pour l’atelier s’élevait à 1 200 $ par mois plus la TPS, payable d’avance à partir du 15 juillet 1998. Pendant la durée du bail déposé sous la cote A‑2, l’appelant louait une autre partie du bâtiment à un tiers pour un loyer de 550 $ par mois. L’appelant a payé les taxes foncières pendant toute la durée du bail.
+[6] Le prix d’achat, les conditions de paiement et la ventilation du prix d’achat sont décrits aux paragraphes 3 à 7 du bail avec option. Ces paragraphes sont ainsi rédigés :
+[traduction]
+LE PRIX D’ACHAT
+3. Le prix d’achat du bien s’élève à cent douze mille dollars (112 000 $), monnaie ayant cours légal au Canada.
+LES CONDITIONS
+4. Les acheteurs verseront le prix d’achat aux vendeurs de la manière suivante :
+a) La somme de 14 000 $ représentant la contrepartie de l’option d’achat du bien sera déduite du prix d’achat.
+b) Toutes les sommes payées à titre de loyer en vertu du contrat de bail conclu entre Barry David Divall et Donna Gail Divall, les propriétaires, et Leonard Ekvall et Greg Stock, les locataires, visant les locaux situés au 633A Avenue N South, Saskatoon (Saskatchewan), seront déduites du prix d’achat.
+c) Le solde du prix d’achat sera payé au moyen d’un nouveau prêt hypothécaire.
+5. Les acheteurs acceptent de payer la taxe sur les produits et services (la « TPS ») en sus du prix d’achat. Toutes les sommes versées au titre de la TPS sur les loyers payés en vertu du bail susmentionné seront créditées aux acheteurs au titre de la TPS payable sur le produit de la vente.
+LE RÈGLEMENT DU PRIX D’ACHAT
+6. Les acheteurs verseront le prix d’achat aux avocats des vendeurs, en y additionnant ou en en soustrayant les rajustements indiqués ci‑dessous, au plus tard à la date de clôture, et les fonds ainsi versés seront détenus en fiducie par les avocats des vendeurs jusqu’à l’exécution ou à la résiliation du présent contrat.
+LA VENTILATION DU PRIX D’ACHAT
+7. Le prix d’achat sera réparti de la manière suivante :
+Terrain et bâtiment 107 000 $
+Biens meubles 5 000 $
+Prix d’achat total 112 000 $
+[7] Par conséquent :
+1. La somme de 14 000 $ représentant la contrepartie de l’option d’achat a été payée le 9 novembre 1998, et elle aurait été perdue si l’option n’avait pas été levée selon les conditions prévues. Autrement, la somme de 14 000 $ devait être déduite du prix d’achat.
+2. Le loyer payé chaque 15e jour du mois par les locataires devait être payé en temps opportun en tant que loyer. Si tel était le cas, l’option restait en vigueur, et le montant du loyer versé était déduit du solde du prix d’achat devant être payé le 15 juin 2000. Autrement, on considérait simplement qu’il s’agissait d’un loyer payé et reçu en vertu d’un bail expiré, et l’appelant conservait les sommes touchées.
+3. Les parties aux contrats n’avaient pas de lien de dépendance entre elles. Par conséquent, la juste valeur marchande du bien pendant toutes les périodes pertinentes correspondait à celle qui était fixée dans le bail avec option.
+[8] La question dont la Cour est saisie est de savoir si les 14 000 $ payés en contrepartie de l’option d’achat, et les 1 200 $ versés chaque mois au titre du loyer constituaient en fait des acomptes sur le prix d’achat du bien. Dans la décision Viceroy Rubber and Plastics Limited v. The Minister of National Revenue, 93 DTC 347, à la page 353, le juge Brulé semble s’être fondé sur les trois critères suivants :
+1. Il était justifié de croire que les preneurs lèveraient leur option d’achat. En l’espèce, la signature du bail a été considérablement retardée parce que les locataires ne pouvaient obtenir le financement nécessaire à l’achat du bien en premier lieu. Vu les moyens financiers restreints des locataires, l’appelant a tenu à ce que le paiement exigé d’avance au titre de l’option d’achat soit important (14 000 $), et à ce que le loyer soit fixé au maximum de leur capacité de paiement. Ce loyer était à peu près le double de ce que son autre locataire lui payait. Les faits donnent lieu à deux constatations : premièrement, les locataires ne disposaient pas de fonds suffisants, et il était très envisageable qu’ils ne puissent obtenir le financement nécessaire à l’achat; deuxièmement, entre le moment de la signature du bail et l’expiration de celui‑ci, ils allaient avoir considérablement réduit le montant qu’ils allaient devoir emprunter. L’appelant a reconnu qu’il n’aurait pas signé le bail avec option s’il n’avait pas été certain de ce second aspect.
+2. Le preneur a acquis presque tous les avantages et les risques inhérents à la propriété du bien. En l’espèce, cela n’a pas été le cas. L’appelant recevait un autre loyer pour le bien, et il payait l’impôt foncier. Toutefois, il faudrait souligner que ces deux éléments pouvaient se contrebalancer; il n’existe aucune preuve à cet égard.
+3. La véritable intention des parties faisant l’acquisition du bail. Il est admis que l’appelant avait l’intention de vendre le bien. Les locataires ont versé plus de 10 % des 112 000 $ en contrepartie de l’option d’achat, et ils ont payé un loyer excessif; ils souhaitaient manifestement acheter le bien. Par conséquent, dès le départ, les parties voulaient que l’option soit levée : il s’agissait d’une vente.
+[9] Tout bien considéré, il découle de ce qui précède que les 14 000 $ payés au titre de l’option ainsi que les sommes payées à titre de loyer représentaient des acomptes sur le prix d’achat. Les deux parties avaient convenu d’un objectif commun qui consistait pour les locataires à s’efforcer de verser autant d’argent que possible dans les meilleurs délais, et ce, pour réduire au maximum le solde qu’ils allaient devoir payer après avoir levé l’option, de façon à être en mesure d’obtenir une hypothèque pour ce montant.
+[10] En substance, la transaction était une vente.
+[11] Aucun expert n’a déposé afin d’indiquer que la valeur de 30 000 $ qui a été attribuée au terrain dans la nouvelle cotisation devrait être modifiée. La validité du reste de cette nouvelle cotisation reposait sur la conclusion de la Cour à l’égard de la transaction en tant que telle. Ladite conclusion confirme la nouvelle cotisation telle qu’elle est décrite dans la réponse.
+[12] L’appel est rejeté.
+Signé à Regina (Saskatoon), ce 26e jour de février 2005.
+« D. W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme ce 17e jour de mars 2009.
+Alya Kaddour‑Lord, traductrice
+RÉFÉRENCE :
+2005CCI551
+NO DU DOSSIER DE LA COUR :
+2004-4520(IT)I
+INTITULÉ :
+Barry Divall et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Saskatoon (Saskatchewan)
+DATE DE L’AUDIENCE :
+Le 10 août 2005
+MOTIFS DU JUGEMENT :
+L’honorable juge Beaubier
+DATE DU JUGEMENT :
+Le 26 août 2005
+COMPARUTIONS :
+Mandataire de l’appelant :
+A. J. Aessie
+Avocate de l’intimée :
+Me Penny L. Piper
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

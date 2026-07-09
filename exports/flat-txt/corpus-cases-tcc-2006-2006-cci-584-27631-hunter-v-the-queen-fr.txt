@@ -1,0 +1,128 @@
+Title: Hunter v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27631/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-584-27631-hunter-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-10-31
+
+# Hunter v. The Queen
+
+- Citation: 2006 CCI 584
+- Decision date: 2006-10-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 420, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hunter v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-10-31
+Référence neutre
+2006 CCI 584
+Numéro de dossier
+2006-910(IT)I
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-910(IT)I
+ENTRE :
+JOHN HUNTER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 20 octobre 2006, à Regina (Saskatchewan)
+Devant : L'honorable juge D.W. Beaubier
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Lyle Bouvier
+____________________________________________________________________
+JUGEMENT
+L'appel à l'encontre de la nouvelle cotisation établie en application de la Loi de l'impôt sur le revenu à l'égard de l'année d'imposition 2004 est rejeté conformément aux motifs du jugement ci-joints.
+Signé à Kelowna (Colombie-Britannique), ce 31e jour d'octobre 2006.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 18e jour de décembre 2006.
+Hélène Tremblay, traductrice
+Référence : 2006CCI584
+Date : 20061031
+Dossier : 2006-910(IT)I
+ENTRE :
+JOHN HUNTER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Beaubier
+[1] Le présent appel a été instruit sous le régime de la procédure informelle à Regina (Saskatchewan), le 20 octobre 2006. L'appelant était le seul témoin.
+[2] Les points litigieux sont énoncés aux paragraphes 5 à 13, inclusivement, de la réponse à l'avis d'appel. Ces paragraphes sont rédigés ainsi :
+[TRADUCTION]
+5. Dans le calcul de ses revenus pour l'année d'imposition 2004, l'appelant a déduit le montant de 15 050 $ au titre d'autres dépenses d'emploi.
+6. Dans une lettre datée du 26 avril 2005, la Section de la revue de la précotisation de l'ARC a demandé à l'appelant de fournir, entre autres, les renseignements énoncés ci-dessous concernant ses autres dépenses d'emploi s'élevant à 15 050 $;
+a) une copie du formulaire réglementaire qui s'applique, à savoir soit le T2200, « Déclaration des conditions de travail » , soit le TL2, « Déduction de frais de repas et d'hébergement » ;
+b) si ses frais lui ont été remboursés par son employeur, une lettre indiquant le montant reçu, la dépense à laquelle il se rapporte et la partie du montant comprise dans le feuillet T4;
+c) si certaines dépenses ont été engagées dans le cadre des fonctions de son emploi et imputées à la carte de crédit de l'employeur, le détail des montants demandés et des montants compris dans le feuillet T4, le cas échéant.
+7. Dans une lettre datée du 24 juin 2005, la Section de la revue de la précotisation de l'ARC a informé l'appelant que sa déduction au titre d'autres dépenses d'emploi serait rajustée à la baisse. Elle passerait de 15 050 $ à 4 837,50 $ pour les raisons suivantes :
+a) à défaut de reçus, les frais de repas se limitent à 15 $ par repas et à un maximum de 45 $ par jour, par personne, et il peut seulement déduire 50 % des frais de repas admissibles;
+b) la demande de remboursement de la TPS/TVH à l'intention des salariés et des associés a été rajustée en conséquence;
+c) les demandes ont été rajustées à la baisse en fonction d'un examen sommaire des renseignements reçus et pourraient faire l'objet d'un autre examen ultérieurement.
+8. Dans l'établissement de la cotisation à l'égard de l'appelant pour l'année d'imposition 2004, le ministre du Revenu national (le « ministre » ) a rajusté à la baisse le montant demandé au titre d'autres dépenses d'emploi, qui est passé de 15 050 $ à 4 837,50 $, parce qu'à défaut de reçus, les frais de repas se limitent à 15 $ par repas et à un maximum de 45 $ par jour, par personne, et l'appelant peut seulement déduire 50 % des frais de repas admissibles. L'avis de cotisation est daté du 11 juillet 2005.
+9. L'appelant a déposé un avis d'opposition à cette cotisation. L'avis est daté du 3 août 2005.
+10. Le ministre a ratifié la cotisation dans une lettre datée du 17 janvier 2006.
+11. La cotisation établie à l'égard de l'appelant pour l'année d'imposition 2004 et la ratification de cette cotisation reposent sur les hypothèses de fait suivantes :
+a) l'activité principale de l'employeur de l'appelant était le transport de marchandises;
+b) pendant l'année d'imposition 2004, l'appelant travaillait à titre de conducteur de camion sur longue distance pour son employeur;
+c) dans le cadre des fonctions de son emploi, l'appelant devait se déplacer régulièrement à l'extérieur de la municipalité où il devait habituellement se présenter au travail, et ce, dans des véhicules utilisés par son employeur pour transporter des marchandises;
+d) l'appelant devait défrayer lui-même les frais de repas qu'il engageait dans le cadre des fonctions de son emploi;
+e) l'appelant ne recevait pas d'allocation ou de remboursement de son employeur pour ses frais de repas;
+f) dans le calcul de son revenu, l'appelant a demandé une déduction de 15 050 $ relativement à ses repas, selon le calcul suivant :
+215 jours x 70 $ / jour = 15 050 $
+g) l'appelant s'est vu accorder une déduction de 4 837,50 $ relativement à ses repas, selon le calcul suivant :
+215 jours x 45 $ / jour = 9 675 $ x 50 % = 4 837,50 $
+h) l'appelant n'a pas dépensé plus de 45 $ par jour pour ses repas.
+Autres faits importants
+12. Pendant l'année d'imposition 2004, l'employeur de l'appelant était 566679 Saskatchewan Ltd. (l' « employeur » ).
+B. QUESTIONS EN LITIGE
+13. La question est de savoir si l'appelant a le droit de déduire des sommes supplémentaires en sa qualité d'employé d'une entreprise de transport en vertu de l'alinéa 8(1)g) de la Loi de l'impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.) (la « Loi » ).
+[3] Aucune des hypothèses formulées au paragraphe 11 de la réponse à l'avis d'appel n'a été réfutée. Notamment, l'appelant n'a pas témoigné ou produit de preuve pour réfuter l'hypothèse 11h). Son témoignage concernait généralement les frais de repas, mais il n'a présenté aucun élément de preuve au sujet des frais personnels qu'il aurait engagés en 2004 en sus de la somme de 45 $ par jour. De plus, il n'a pas fourni de reçus.
+[4] L'appelant a parlé en termes généraux des allocations quotidiennes de déplacement des fonctionnaires fédéraux et a déposé des pièces pour étayer ses arguments. Toutefois, ceux-ci ne s'appliquent pas en l'espèce. Il a aussi allégué que les conducteurs de camion faisaient l'objet d'un traitement discriminatoire prohibé par la Charte. Cependant, la Charte ne s'applique pas à cette catégorie de personnes.
+[5] Je conclus donc que la Cour ne dispose d'aucune preuve lui permettant d'annuler la cotisation ou la nouvelle cotisation établies à l'égard de l'appelant.
+[6] L'appel est rejeté.
+Signé à Kelowna (Colombie-Britannique), ce 31e jour d'octobre 2006.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 18e jour de décembre 2006.
+Hélène Tremblay, traductrice
+RÉFÉRENCE : 2006CCI584
+N ° DU DOSSIER : 2006-910(IT)I
+INTITULÉ : John Hunter c. La Reine
+LIEU DE L'AUDIENCE : Regina (Saskatchewan)
+DATE DE L'AUDIENCE : Le 20 octobre 2006
+MOTIFS DU JUGEMENT PAR : L'honorable juge D.W. Beaubier
+DATE DU JUGEMENT : Le 31 octobre 2006
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Lyle Bouvier
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,211 @@
+---
+title: "Clermont v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/228698/index.do"
+last_modified: "2017-03-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 TCC 32"
+citation2: ""
+neutral_citation: "2017 TCC 32"
+decision_date: "2017-03-16"
+language: "en"
+item_id: "228698"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2286
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:26:46.620000+00:00"
+cases_cited_count: 13
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "cd49ae9acc66f3c43cd3966072d8f488f8079ba2c76eae75420b47636b6a203f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Clermont v. The Queen
+
+- Citation: 2017 TCC 32
+- Decision date: 2017-03-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2286, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Clermont v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-03-16
+Neutral citation
+2017 TCC 32
+File numbers
+2016-1580(GST)I
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2016-1580(GST)I
+BETWEEN:
+STÉPHANE CLERMONT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on October 11, 2016, at Québec, Quebec.
+Before: The Honourable Associate Chief Justice Lucie Lamarre
+Appearances:
+Counsel for the appellant:
+Normand Roy
+Counsel for the respondent:
+Alex Boisvert
+Yan Gaudreau
+JUDGMENT
+The appeal from the assessment made under Part IX of the Excise Tax Act, the notice of which is dated September 17, 2014, for the period from December 1, 2013, to February 28, 2014, is dismissed.
+Signed at Ottawa, Canada, this 16th day of March 2017.
+“Lucie Lamarre”
+Associate Chief Justice Lamarre
+Citation: 2017 TCC 32
+Date: 20160316
+Docket: 2016-1580(GST)I
+BETWEEN:
+STÉPHANE CLERMONT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre A.C.J.
+[1] The appellant is appealing from an assessment made under Part IX of the Excise Tax Act (ETA) by the Agence du revenu du Québec (ARQ) on behalf of the Minister of National Revenue (Minister) on September 17, 2014, in which the appellant is asked to pay $12,526.50 in Goods and Services Tax (GST) that he should have paid for the period from December 1, 2013, to February 28, 2014, in addition to a penalty of $309.39 plus interest for failure to file.
+[2] The appellant was not a registrant within the meaning of the ETA during this period.
+[3] He was investigated by the Saint‑Eustache Police Service (SPVSE), which was attempting to dismantle a cannabis production ring (Operation Blackout).
+[4] Following this investigation, the appellant, his brother Mario Clermont and his nephew Hunt Clermont were charged with operating a greenhouse for the production of cannabis for sale, located in a garage at 603‑603A, 25th Avenue in Saint-Eustache, belonging to Patrick Hunt Clermont.
+[5] The appellant pleaded guilty on April 27, 2015, to the charge of producing cannabis in Saint‑Eustache between November 1, 2013, and March 6, 2014 (transcript made at Court of Québec, Criminal Division, on April 27, 2015, Exhibit A‑1, tab 6, pages 3–4). He also pleaded guilty on the same day to a charge of possession on or about March 6, 2014, of cannabis and cannabis resin for the purpose of trafficking (Exhibit A‑1, tab 6, pages 4–5). The appellant acknowledged that 30 kg of cannabis had been seized from his residence during a search that had taken place that day.
+[6] The Crown dropped the other charges brought against the appellant, namely, possession of cannabis for the purpose of trafficking, between November 1, 2013, and March 6, 2014, and theft of electricity from Hydro Québec during the same period (see Information, Exhibit A‑1, tab 5, and transcript, Exhibit A-1, tab 6, pages 4–6).
+[7] In addition, before the Court of Québec, the appellant had admitted that the keys seized from his home during the search on March 6, 2014, gave access to the garage in Saint‑Eustache where the cannabis production greenhouse was located and that they also gave access to a locked room inside that was used for drying the plants. The appellant also admitted that $61,000 had been found in his residence (transcript, Exhibit A‑1, tab 6, pages 9–10).
+[8] At the hearing in this case, he stated that this money had been found in the handles of his treadmill, which was in his bedroom, but that the money did not belong to him and he had not known that it was there. He also said that he had not known that the keys found at his house opened the locked door of the drying room. The 30 kg of cannabis found in his home had been packed in 134 packets, individually wrapped in vacuum-sealed pouches, giving the distinct impression of being ready for sale (see photos taken during search, Exhibit I‑1).
+[9] The appellant also admitted that he had declared $52,000 in income in 2009 and that over the course of the years 2010 to 2013, his declared income had decreased (coming to an annual average of $32,000). During this period, he owned two rental properties purchased in 1993 and 1999 and two vehicles purchased in 2002 and 2004 (and a third as of 2012) (see audit report, Exhibit I‑11, page 12 of 12).
+[10] Alexandre Fleury, a detective sergeant with the SPVSE, was the lead investigator for Operation Blackout. He testified in this case with respect to that investigation and the appellant’s involvement in the cannabis production at issue. Counsel for the appellant raised a general objection to the part of his testimony that might constitute hearsay.
+[11] I reserved my decision on this objection, but it will suffice here, for the purposes of this case, to relate only those facts of which Mr. Fleury had personal knowledge.
+[12] The investigation began in January 2013. Mr. Fleury obtained a general warrant to enter the garage housing the greenhouse in April 2013. He was present with the other police officers during the execution of the first warrant. It was a surreptitious entry conducted without the owners’ knowledge.
+[13] There he noted the presence of a complete, professional cannabis-production facility. He himself took photographs of a five-gallon bucket of cannabis leaves (Exhibit I‑3), as later confirmed by Health Canada. However, he could find no sign of plants growing at that time. Tests were carried out that failed to detect the presence of the excess heat normally found in premises where cannabis is produced.
+[14] On November 17, 2013, Mr. Fleury asked that the electrical installations connecting the garage to the Hydro Québec network be rechecked, at which point it was discovered that the installations had been altered using a by-pass, and an abnormal level of heat was detected coming from the production greenhouse.
+[15] On December 17, 2013, Mr. Fleury obtained a second mandate to enter the same premises surreptitiously with other police officers. This time, he observed that the cannabis production was indeed operational, with everything organized for speed and efficiency. There were timers and an automatic lighting system. During this visit, they had photographed cannabis plants in various stages of growth. There were 941, according to calculations he had performed with his colleagues. They also photographed a quantity of cannabis buds being dried in a locked room (all of the photographs were filed as Exhibit I‑5). Mr. Fleury estimated that the drying room contained 4 kg of cannabis ready for sale.
+[16] Mr. Fleury returned to the premises in February 2014, drafted the wiretap orders and had surveillance cameras installed outside. At the time, he observed loud ventilation noises and a persistent odour of cannabis. It was apparent that there was daily activity in the greenhouse and that the appellant went there regularly. Indeed, the appellant admitted in his testimony that he monitored the property.
+[17] All of this culminated in the search of the garage on March 6, 2014. According to the photographs taken that day by Mr. Fleury and his colleagues (Exhibit I‑7), the set-up was comparable to the one found there on December 17, 2013, except that the pots were not arranged in the same way. The appellant’s residence was also searched in his absence on the same day. The appellant was arrested at the airport on March 9, 2014, on his way back from a vacation, and charged with the various counts mentioned above.
+[18] Mr. Fleury did not testify about whether the appellant was involved in cannabis trafficking. He said that the purpose of his investigation was to dismantle the production. However, he did note that the production was sufficient for trafficking, and he sent his investigation report and all the information he had to the ARQ for the purposes of a financial audit.
+[19] The respondent called to the stand Suzanne De Larochellière, a Sûreté du Québec drug specialist. She testified as an expert in cannabis cultivation and the estimation of its market value.
+[20] Ms. De Larochellière explained that indoor cannabis cultivation required a good ventilation and air exchange system. To grow the cuttings, they are placed under 1,000-Watt lamps with large lampshades and white plastic on the walls to ensure the best lighting possible. This was the type of set-up she could see in the photographs of the greenhouse.
+[21] A production cycle, from cutting to flowering, may take between 39 and 45 days, and even as many as 60 days. On average, a producer can expect six to eight harvests a year.
+[22] She also mentioned, in her testimony, that a plant produced an average of 2.5 to 5 ounces per bud (the part of the plant prized by consumers), and the purchase price of a pound of cannabis varies, in the province of Quebec, between $1,600 and $2,200 ($1,800 a pound on average).
+[23] To his Notice of Appeal, the appellant attached a document from Sergeant Pascal Bouchard from the Sûreté du Québec dated March 31, 2014, stating first that the quantity of cannabis produced by one marijuana plant varies from 1.5 to 5 ounces. Next, Sergeant Bouchard mentioned that the quantity of cannabis produced by a marijuana plant is between 1.5 and 2.5 ounces. Although I agreed to accept the filing of this document in evidence as Exhibit A‑2 because this was an informal procedure, I expressed reservations as to its reliability. First, the figures in the report do not appear to be consistent; second, Sergeant Bouchard was not called to testify on this topic; and third, Ms. De Larochellière’s opinion was that a quantity below 2.5 ounces per plant was not credible.
+[24] Ms. De Larochellière also analyzed the photographs filed in evidence. Although she did not have all the specifics, she was able to establish, based on the quality of the lighting, the spacing between the plants, the ventilation, the flats, the buds and the flowering plants, that the greenhouse must have produced at least one harvest, but more likely two harvests over the course of four and a half months (between November 1, 2013, and mid-March 2014).
+[25] Finally, Magali Gosselin, an underworld auditor for the ARQ, testified. She performed the audit that resulted in the assessment under appeal. She began her audit in May 2014 after receiving from the intelligence division information from the Operation Blackout investigations. Several individuals were involved, including the appellant, his brother Mario and his nephew Patrick.
+[26] In the appellant’s case, she audited his declared income and analyzed his assets. She did not, however, attempt to establish undeclared income using the net worth method.
+[27] She relied on the police investigation report drafted by Suzanne De Larochellière in February 2008 (which is practically identical to the report filed at the hearing as Exhibit I‑10) to calculate the income from the cultivation of cannabis in the garage located at 603-603A, 25th Avenue in Saint‑Eustache.
+[28] Therefore, bearing in mind that a harvest from a cutting is collected on average after 39 to 45 days, she calculated that there had been at least one harvest during the period from December 1, 2013, to February 28, 2014, relying on the number of plants and kilos of buds found by the police in December 2013. She counted a minimum of 2.5 ounces of buds per plant and an average of 10 plants per lamp. She accepted the $1,800 per pound suggested by Ms. De Larochellière as the average price.
+[29] When the police entered in December 2013, they counted 941 plants and 4 kg of buds. She therefore calculated that the 941 plants produced 2,352.5 ounces (941 x 2.5 ounces), or approximately 147 pounds of cannabis. At the price of $1,800 per pound, that would produce $264,654 in revenues. For the 4 kg of buds found by the police officers in the drying room, she converted this quantity into approximately 141 ounces, or 8.82 pounds, representing $15,876 (8.82 x $1,800). She therefore arrived at total revenues of $280,530 ($264,654 + $15,876) for this harvest.
+[30] Because, according to the police investigation, the appellant, his brother Mario and his nephew Patrick were considered business partners, each was assessed for taxes to be recovered on all of the supplies, given their solidary liability for the payment of the taxes.
+[31] The ARQ registered the appellant under the ETA as of December 1, 2013. He was given the status of small supplier for the first $30,000 in sales for the year. She calculated the tax on a sales amount of $250,530 at $12,526.50 (5% x $250,530).
+[32] Also, no input tax credit was allowed because the appellant did not file any accounting records or evidence demonstrating that he had paid GST at the time of purchase of the goods or services used in the course of his commercial activities.
+[33] Finally, a penalty of $309.39 for failure to file was imposed pursuant to section 280.1 of the ETA.
+[34] On cross-examination, Ms. Gosselin acknowledged that the police investigation did not cover the sales, but stated that, for the ARQ, a harvest implies subsequent sales. She was not aware of the guilty plea made by the appellant in April 2015, as this occurred after her file was closed, the assessment having been made in September 2014.
+The appellant’s arguments
+[35] According to the appellant, there is no evidence of resale. The fact of having pleaded guilty to the production of cannabis during the period at issue does not in itself prove that the appellant earned profits from its sale. In support of this, there was no charge of possession for the purpose of trafficking for that same period. During the surreptitious entry that took place in December 2013, the police apparently did not find any packets of cannabis ready for sale, though, during the search of March 6, 2014, they seized such packets. According to the appellant, these packets must have been the result of a production that had allegedly started 60 days earlier, in late December 2013. There had therefore been no sale during the period at issue (from December 1, 2013, to February 28, 2014) because the plants had not reached maturity.
+[36] In the absence of a finding of a net worth establishing a gap between the appellant’s real and declared income, and given that the Crown withdrew the charge of possession of cannabis for the purpose of trafficking between November 1, 2013, and March 6, 2014, the appellant considers that the Minister established his assessment on cannabis sales based on incorrect premises and that there was no compelling evidence proving the existence of these sales. Relying on Dubé v. Cliche, 2003 CanLII 12554 (QCCA), and Lavoie v. Perras, 2004 CanLII 16405 (QCCA), the appellant argues that the police evidence constitutes hearsay and should not have been filed in the record.
+Arguments of the respondent
+[37] The respondent submits that there is sufficient evidence to find that the assessment is valid.
+[38] The appellant admitted to having produced cannabis between November 1, 2013, and March 6, 2014, and to having possessed 30 kg of cannabis the day of the search at his home on March 6, 2014, for the purpose of trafficking.
+[39] According to Ms. De Larochellière, the buds and flowering plants in the photographs that she had seen led her to believe that the greenhouse should have produced at least one and more likely two harvests during the period from November 1, 2013, and March 6, 2014.
+[40] On December 17, 2013, during the second surreptitious entry, the photographs show the cannabis plants at various stages of growth. Mr. Fleury and his colleagues had counted 941 plants altogether and estimated that there had been, at that time, a quantity of 4 kg of cannabis already ready for sale.
+[41] Ms. Gosselin, the auditor in the file, had produced a very modest assessment of the revenues generated by the production of cannabis during the period at issue. She had considered only the revenues from a single harvest, counting the minimum of 2.5 ounces of buds per plant, at the average price that Ms. De Larochellière had suggested.
+[42] In addition, the respondent argues that the method used to reconstitute the appellant’s revenues on which GST was being claimed from him, namely, the use of police data and the information from Ms. De Larochellière, was justified. The appellant had declared an average of only $30,000 in annual income for a few years, which seemed clearly insufficient to support his lifestyle, taking into account the assets he possessed.
+[43] According to the respondent, the appellant’s guilty plea and the seizure of cannabis from his home establish on a balance of probabilities that he was involved in the trafficking of narcotics and that he had made a taxable supply.
+[44] In this respect, the respondent submits that the appellant had solidary liability for the collection and remittance of GST on the taxable supplies made with his business partners Mario Clermont and Patrick Hunt Clermont in the course of the illegal sales of narcotics during the period at issue.
+Analysis
+[45] The appellant cited the decision of the Supreme Court of Canada in F.H. v. McDougall, 2008 SCC 53, [2008] 3 S.C.R. 41, on the issue of the burden of proof. The Court held that in civil matters, there is only one standard of proof, the balance of probabilities (para. 40). Therefore, “the only practical way in which to reach a factual conclusion in a civil case is to decide whether it is more likely than not that the event” or the “alleged event occurred” (paras. 44 and 49). The Court added that the evidence had to be clear and convincing to satisfy the balance of probabilities test. However, there is no objective standard to measure sufficiency (para. 46).
+[46] Also, an acquittal, or the fact that no criminal charges are laid for lack of evidence, is not determinative for the purposes of establishing, in tax appeals, whether an assessment has been properly made. This is because the standard of proof in a criminal trial is proof beyond a reasonable doubt, while in civil matters, it is proof on a balance of probabilities (Molenaar v. The Queen, 2003 TCC 468, para. 51, aff’d 2004 FCA 349; Brown v. The Queen, 2012 TCC 251, paras. 58-59, aff’d 2013 FCA 111).
+[47] It is equally well established in the case law that making supplies in the course of the operation of a narcotics business constitutes commercial activity and the supplies constitute taxable supplies for which GST is payable by the buyers, and that this tax must be collected and remitted to the Minister by the maker of the supplies (Ouellette v. The Queen, 2009 TCC 443, para. 19; Boisvert v. The Queen, 2016 TCC 195, para. 68; Molenaar, supra, paras. 51 to 53 (TCC) and paras. 4 and 5 (FCA).
+[48] Furthermore, the net assets method is not the only method available for making a reassessment when the taxpayer has not kept reliable books and records of all his income, including income from illegal sources. The Minister may issue an arbitrary assessment using any method that is appropriate in the circumstances (Brown, supra, para. 60 (TCC); Korki v. The Queen, 2010 TCC 384, para. 18, aff’d 2011 FCA 287; Armeni c. Agence du Revenu du Québec, 2012 QCCQ 11807, paras. 26-27, aff’d 2014 QCCA 1746).
+[49] As for the police evidence used by the Minister to establish the assessment, the appellant has not raised any valid grounds to reject this approach. The police evidence was obtained from searches and seizures carried out by the SPVSE and authorized by warrant. The appellant has not challenged the validity of the warrants. The approach of making a tax assessment on the basis of circumstantial evidence based on police evidence has already been upheld as valid by the courts (Brown, supra, paras. 19 to 23 (FCA); Armeni, supra, paras. 24 to 33 (QCCQ)).
+[50] Moreover, the evidentiary rules raised in Lavoie v. Perras, supra, cited by the appellant, were followed here, in that the lead investigator of the SPVSE, Mr. Fleury, testified in this appeal to establish the facts of the police investigation of which he had personal knowledge and that were entered in evidence.
+[51] Similarly, Ms. De Larochellière testified to explain her expert report. Her testimony was not contradicted. I find that the information contained in Sergeant Bouchard’s report, attached to the notice of appeal, cannot be accepted because it is contradictory and could not be tested on cross-examination.
+[52] The transcript taken when the appellant pleaded guilty before the Court of Québec was filed in evidence by the appellant himself (Exhibit A‑1, tab 6).
+[53] Since Mr. Clermont’s right to an appeal was exercised in Quebec, the evidentiary rules of the Civil Code of Québec (CCQ) are applicable, particularly those relating to proof and admissions (section 40 of the Canada Evidence Act, Vincent v. The Queen, 2005 TCC 330, para. 21).
+[54] The guilty plea entered by the appellant before the Court of Québec and evidence filed constitute extrajudicial admissions (article 2852 CCQ), which were introduced in evidence with the filing of the transcript reproducing them. The transcript constitutes a record of a court of justice and is therefore an authentic act that is proof of its content and is admissible pursuant to articles 2814, para. 3, and 2818 CCQ: Scarapicchia v. Industrielle (L’), Compagnie d’assurance-vie, [1989] J.Q. no 3443 (QL), Superior Court of Québec, at paragraph 34.
+[55] The probative force of these extrajudicial admissions is left to the appraisal of the court (article 2852 of the CCQ). I am of the view that by introducing them in his Book of Documents, the appellant established their existence and is bound by their content, which is presumed to be true. Here, I echo the comments of Justice Favreau of this Court in Desroches v. The Queen, 2013 TCC 81, at paragraphs 41 and 42:
+[41] Article 2852 of the C.C.Q. sets out the rules regarding the probative force of an admission as follows:
+Art. 2852. An admission made by a party to a dispute or by an authorized mandatary makes proof against him if it is made in the proceeding in which it is invoked. It may not be revoked, unless it is proved to have been made through an error of fact.
+The probative force of any other admission is left to the appraisal of the court.
+[42] Even though, according to article 2852 of the C.C.Q. the probative force of an extrajudicial admission is left to the appraisal of the court, according to legal doctrine, any extrajudicial statement in which a person admits to a fact that is against his interests is presumed to be true and a court should not be able to dismiss an extrajudicial admission by a party without a valid reason. Professor Léo Ducharme in his Précis de la preuve, supra, made the following comments on this subject at paragraphs 755 to 757:
+[translation]
+. . . Indeed, article 2852 C.C.Q. draws a very clear distinction between the probative force of a judicial admission and the probative force of an extrajudicial admission. . . .
+However, a court cannot dismiss an extrajudicial admission by a party without a valid reason since any statement in which a person admits to a fact that is against his interests is presumed to be true. In these conditions, it is normal that a party be bound by an admission it has made, unless it shows why the court should not believe it.
+[56] In this case, the appellant submits that the Minister has no evidence that he sold the quantity of cannabis for which he has been issued an assessment. It is true that the assessment is based on inferences drawn from a police investigation. However, the evidence submitted by the respondent is based on the direct testimony of the lead investigator, who personally participated in the searches, as well as the testimony of Ms. De Larochellière, an expert in cannabis cultivation and the estimation of its market value.
+[57] The appellant admitted that he had participated in the production of cannabis and that he had regular access to the greenhouse that had been searched. He said that his role was merely to monitor it. However, I have reason to doubt that this was his only role and that he did not share in the revenues from this production during the period at issue.
+[58] First, he denied before me that he had the key to the drying room in the greenhouse (a locked interior room containing the finished product of cannabis ready for sale, according to the testimony of Investigator Fleury). However, this key was found on the set of keys seized at his home, and he admitted to having access to that room at the time of pleading guilty, before the Court of Québec, to the charges of producing cannabis (between November 1, 2013, and March 6, 2014) and of possession of cannabis on March 6, 2014, for the purpose of trafficking. This contradiction alone undermines the credibility of the appellant, who provided two different stories to two different courts.
+[59] Second, a large amount of money, $61,000, was found in his home. This money was found in the handles of the treadmill in his bedroom. He said before me that he had not known that the money was there and that it did not belong to him. He did not call anyone to testify in support of this story. Who else, if not the appellant, would have had access to his home—his bedroom, no less—to hide the money there without his knowledge?
+[60] Third, 30 kg of cannabis, packed in 134 individually wrapped packets and ready for sale, were found when his residence was searched on March 6, 2014. He admitted in his guilty plea that he had this quantity in his possession for the purpose of trafficking. Although the guilty plea does not apply to the period at issue here, it can be inferred that the appellant was familiar with cannabis trafficking.
+[61] The appellant submits that the packets of cannabis found in his home must have come from plants that were cultivated after December 2013, based on his calculation that a production cycle lasts 60 days. These packets brought him no income because they were seized. He adds that the plants found in the greenhouse during the search of December 17, 2013, were not used by him for the sale of cannabis. He supports this statement by arguing that, on the one hand, the police did not find packets ready for sale at that time, and, on the other hand, no charges had been brought against him for possession of cannabis for the purpose of trafficking between November 1, 2013, and March 6, 2014.
+[62] As I mentioned above, the fact that there was no criminal charge of possession of cannabis for the purpose of trafficking is not determinative on its own because the standard of proof differs in criminal matters.
+[63] Nor is it conclusive that the police did not find packets ready for sale in the greenhouse during the search of December 17, 2013. There could very well have been packets in the appellant’s home, as was the case on March 6, 2014, or elsewhere, or they could have been about to be prepared at the time of the seizure, or they could have been prepared gradually as each plant reached the end of its cycle.
+[64] There were 941 plants and 4 kg of cannabis there ready for sale on December 17. Although the plants were not all at the same stage of growth, according to Ms. De Larochellière, it takes 39 to 45 days (sometimes 60 days) for a plant to mature. I therefore conclude that these plants had all reached the cannabis-production stage by mid-February 2014 at the latest (with some of the plants completing their cycles earlier). It is entirely plausible that the harvest from this production was sold during the period at issue (which stretches from December 1, 2013, to February 28, 2014).
+[65] Finally, the appellant declared only about $30,000 in his income tax returns for the years 2010 to 2013. This declared income is low for a taxpayer who owns two buildings and three vehicles and who takes vacations abroad. It is not unreasonable to conclude that he was earning undeclared income from an illicit source.
+[66] Given the appellant’s tainted credibility following his implausible testimony, I find that there is a preponderance of sufficiently persuasive evidence on which to base a finding that the appellant earned income from the sale of cannabis during the periods at issue.
+[67] Ms. De Larochellière noted in her testimony that a cannabis producer can bring in an average of 6 to 8 harvests per year, which means at least one harvest every two months. Because the appellant has admitted to producing cannabis since November 1, 2013, and given the quantity of cannabis plants and buds found in the greenhouse on December 17, 2013, I find that it is more than likely that he harvested the fruits of this production at least once between December 1, 2013, and February 28, 2014, the period at issue. Furthermore, the calculation performed by the auditor was very conservative, in that she used the smallest amount of cannabis that could be extracted from the plants and buds found in the greenhouse, at the average price suggested by Ms. De Larochellière.
+[68] To conclude, even if the appellant had to share the income attributed to him with the other two partners, the respondent is correct to submit that he has solidary liability for the full amount of tax owing on this income. This solidary obligation arises from article 1525 CCQ, the second paragraph of which provides that solidarity between debtors is presumed where an obligation is contracted for the service or carrying on of an enterprise. The third paragraph of article 1525 states that the carrying on by one or more persons of an organized economic activity, whether or not it is commercial in nature, consisting of producing, administering or alienating property, or providing a service, constitutes the operation of an enterprise.
+[69] I therefore find, on a balance of probabilities, that the appellant is liable for the payment of the amount of $12,526.50 in tax claimed by the Minister, as well as for the penalty for the failure to file plus interest.
+[70] For all these reasons, the appeal is dismissed and the assessment under appeal is confirmed.
+Signed at Ottawa, Canada, this 16th day of March, 2017.
+“Lucie Lamarre”
+Lamarre A.C.J.
+CITATION:
+2017 TCC 32
+COURT FILE NUMBER:
+2016-1580(GST)I
+STYLE OF CAUSE:
+STÉPHANE CLERMONT v.
+HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Québec, Quebec
+DATE OF HEARING:
+October 11, 2016
+REASONS FOR JUDGMENT BY:
+The Honourable Associate Chief Justice Lucie Lamarre
+DATE OF JUDGMENT:
+March 16, 2017
+APPEARANCES:
+Counsel for the Appellant:
+Normand Roy
+[BLANK]
+[BLANK]
+Counsel for the Respondent:
+Alex Boisvert
+Yan Gaudreau
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Normand Roy
+Firm:
+Normand Roy, Lawyer
+Québec, Quebec
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

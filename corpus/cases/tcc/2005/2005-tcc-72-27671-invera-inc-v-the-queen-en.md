@@ -1,0 +1,190 @@
+---
+title: "Invera Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27671/index.do"
+last_modified: "2005-01-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 72"
+citation2: ""
+neutral_citation: "2005 TCC 72"
+decision_date: "2005-01-20"
+language: "en"
+item_id: "27671"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 492
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:08:00.109000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "98b3fc04fb24e4308a089851e8ffb28713fec0763d886096002cdd0bc57e4b72"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Invera Inc. v. The Queen
+
+- Citation: 2005 TCC 72
+- Decision date: 2005-01-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 492, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Invera Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-01-20
+Neutral citation
+2005 TCC 72
+File numbers
+2001-360(GST)G
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2001-360(GST)G
+BETWEEN:
+INVERA INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 16, 2004 at Montréal, Quebec.
+Before: The Honourable D.G.H. Bowman, Associate Chief Justice
+Appearances:
+Counsel for the Appellant:
+Stéphane Eljarrat
+Counsel for the Respondent:
+Benoît Denis
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated February 25, 2000 and bears number GG10118, is allowed with costs and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the reasons for judgment on the basis that the fees charged to the appellant’s non-resident clients that are in issue in this appeal are zero-rated.
+Signed at Ottawa, Canada, this 20th day of January 2005.
+“D.G.H. Bowman”
+Bowman, A.C.J.
+Citation: 2005TCC72
+Date: 20050120
+Docket: 2001-360(GST)G
+BETWEEN:
+INVERA INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowman, A.C.J.
+[1] This appeal is from an assessment made under the Goods and Services Tax (“GST”) provisions of the Excise Tax Act (“E.T.A.”) for the period from January 1, 1996 to August 31, 1999. In that period the appellant was an information and technology company which provided software systems to the metal manufacturing, distribution and processing industry.
+[2] The following statements in the Notice of Appeal are admitted in the Reply to Notice of Appeal.
+The Appellant is a duly constituted corporation under the Canada Business Corporations Act, as amended, having its head office and its principal establishment at 4333 St. Catherine Street West, in the City of Westmount, Province of Québec.
+Throughout the Relevant Period, the Appellant was an information and technology company which provided software systems to the metal manufacturing, distribution and processing industry.
+Throughout the Relevant Period, the Appellant was providing training services in regard of the software sold to non‑resident distributors and customers of its wholly owned United States subsidiary. Such training services:
+(a) included a complete review of the policies and the procedures associated with using the software;
+(b) pertained to a specialized field of knowledge, namely the implementation of newly acquired software systems, designed specifically for the metal industry; and
+(c) were provided sometimes in Canada, sometimes outside Canada.
+Throughout the Relevant Period, the Appellant did not charge the Goods and Services Tax (“G.S.T.”) when such training services were provided in Canada to such non‑resident distributors and customers.
+. . . . .
+[3] The appellant was assessed tax, interest and penalties on the consideration paid for the services when they were rendered in Canada. The issue is whether the services that the appellant provided to non‑resident distributors and customers of its U.S. subsidiary were zero‑rated when they were provided in Canada.
+[4] Section 123 of the E.T.A. defines zero‑rated supply to be a supply included in Schedule VI. Section 23 of Part V of Schedule VI of the E.T.A. reads as follows:
+23 – A supply of an advisory, professional or consulting service made to a non‑resident person, but not including a supply of
+(a) a service rendered to an individual in connection with criminal, civil or administrative litigation in Canada, other than a service rendered before the commencement of such litigation;
+(b) a service in respect of real property situated in Canada;
+(c) a service in respect of tangible personal property that is situated in Canada at the time the service is performed; or
+(d) a service of acting as an agent of the non‑resident person or of arranging for, procuring or soliciting orders for supplies by or to the person.
+The French version reads:
+23 – La fourniture d’un service consultatif ou professionnel au profit d’une personne non-résidente, à l’exclusion des fournitures suivantes :
+a) un service rendu à un particulier dans le cadre d’une instance criminelle, civile ou administrative au Canada, sauf s’il est rendu avant le début de l’instance;
+b) un service lié à un immeuble situé au Canada;
+c) un service lié à un bien meuble corporel qui est situé au Canada au moment de l’exécution du service;
+d) un service de mandataire de la personne ou un service consistant à faire passer des commandes pour des fournitures à effectuer par la personne ou à son profit, à obtenir de telles commandes ou à faire des démarches en vue d’en obtenir.
+[5] The general provision in Part V of Schedule VI is section 7 which reads:
+7. – A supply of a service made to a non-resident person, but not including a supply of
+(a) a service made to an individual who is in Canada at any time when the individual has contact with the supplier in relation to the supply;
+(a.1) a service that is rendered to an individual while that individual is in Canada;
+(b) an advisory, consulting or professional service;
+(c) a postal service;
+(d) a service in respect of real property situated in Canada;
+(e) a service in respect of tangible personal property that is situated in Canada at the time the service is performed;
+(f) a service of acting as an agent of the non-resident person or of arranging for, procuring or soliciting orders for supplies by or to the person;
+(g) a transportation service; or
+(h) a telecommunication service.
+[6] Section 7 provides a general zero-rating for services rendered to non‑residents, and removes from that general provision a number of services, including advisory, consulting or professional services. The zero‑rating of such services when rendered to a non-resident is, however, revived in section 23, with a number of exceptions some of which are the same as those in section 7. There is a presumption against finding tautology in legislation but the apparent repetitiveness in sections 7 and 23 is, I think, justifiable to prevent ambiguity. The result is that professional, consulting or advisory services made to a non‑resident are zero‑rated unless they fall within the four exceptions in section 23.
+[7] The respondent’s position is that the services rendered to the employees of the non-resident customers of the appellant were “training” (in French, “formation”) and that they fall within paragraphs 7(a) for the period January 1, 1996, to June 30, 1996, or 7(a.1) for the period following June 30, 1996.
+[8] In considering this argument it is necessary to describe briefly the type of service rendered by the appellant to its non-resident clients. The technology involved in the type of software that the appellant supplies to its non‑resident clients is highly complex and in some cases requires that the client send employees to Canada.
+[9] The best description of the type of service provided is found in the testimony of Mr. Ram Panda, the President of the appellant.
+Q. And the services that are at issue today, the services for which we are claiming that they are zero-rated, could you give the Court a rough idea of what percentage of your overall activities or overall sales it represents?
+A. I believe I have actually, had our V.P. Finance prepare a document, the issue in question in terms of dollars, I think it’s less than half a percent (0.5%) of our sales, I believe I have a backup that I can provide you and the Court. But just to give you a background, when the customer purchases our software, the customer receives essentially all the material that helps the person implement and install the software, like all the manuals, et cetera. We typically get involved because in the U.S. we have a company in the U.S. that distributes the software, et cetera. Our role here, we only get involved if a customer has a specific need that he’s unable to resolve because of a business need with the software. So they have to from time to time come to us to seek advice, to help them along in that specific case. I’ll give you a typical example, once upon a time at one of our customers in Chicago, the U.S. Trade Authorities came to them and they wanted, going back several years, to pull out specific types of steel with specific batches that they received from a specific source and how they processed and sold, they wanted a whole statistics and there was no way any software can just simply provide that in a report. So they had to come to us and say look, they had to first explain to us their problem and then we had to give them advice on taking them through how they can piece together this information and prepare this report.
+The second typical example would be, let’s say for customer went and bought another company and they decided to change their year-end, their fiscal year-end, let’s say they went from September the thirtieth (30th) to December thirty-first (31). It seems like a simple thing in accounting side, but the processes involved when they have databases and data that’s synchronized to specific month-ends and year-ends, it’s very complex to change that sort of thing. And it’s a very unique thing because this is not a generic thing that we can just tell all the customers, well, this is the procedure, this is how you do it. So we have to understand how they want to represent their statistics, what impact would they have on their accounting, what impact would they have on their order fulfilment, et cetera. These are services we do provide. And in most cases, these services are provided on site and very infrequently, if we have a restriction on our ability to send the people out, we ask the customers to come here to Montreal otherwise this is a very tiny part of our sales. Just to repeat myself, it’s less than half a percent (0.5%) of our sales.
+[10] What is apparent from the above testimony and from Mr. Panda’s evidence generally, which I accept, is that the appellant provides consulting and professional services in a highly technical area involving the application of the software to a very specific purpose in the metal industry. The respondent draws a distinction between “training” and “advisory, consulting and professional services”. “Training” is used on some of the invoices but to the extent that it implies a mere routine basic educative process in how to use the software in a computer it is a misnomer. It is far more than that. It is advice by highly trained professionals in the application of the software to a specific purpose. In my view the service provided to the appellant’s clients falls precisely with the words “advisory, consulting and professional services”. Indeed, this conclusion is consistent with the CCRA’s own interpretation. In the Revenue Canada Questions and Answers Database the following appears:
+A “consulting” service refers to a service of providing information, instruction or expert advice. A consultant generally provides services related to a field of specialized knowledge of training.
+An advisory or consulting service may address business, management, marketing, data processing, public relations and other issues or problems faced by the client. An advisory or consulting service does not include any work that might be undertaken or performed as a result of the plans or recommendations accepted by the client or the advice provided to the client.
+A “professional” service is generally defined in terms of the individual providing the service. If the person making the supply of the service is other than an individual — for example, a partnership or company — the Department will consider the status of the individual professional or professionals assigned to provide the service in determining whether the service is a professional service.
+[11] It is clear from the evidence that the persons giving the advisory or consulting service here are highly skilled professionals. In Montgomery v. M.N.R., [1996] 1 C.T.C. 2796, revised [1998] 1 C.T.C. 58, restored [1999] 2 C.T.C. 196, the following observation was made:
+Equally I think that it is clear that the annual membership dues paid by him are “professional” membership dues. We have come a long way from the days when the only recognized professions were the clergy and the military. Somewhat later law and medicine became recognized as “professions”. Since that time the expression has come to cover a vast variety of callings: dentists, land surveyors, artists, ministers, teachers, nurses, secretaries, dancers, therapists, scientists, accountants, professors, social workers, druggists, engineers, computer specialists, and writers to mention only a few that come to mind.
+[12] In my view, neither paragraph 7(a) nor paragraph 7(a.1) has any application. The services are provided to the non-resident client by giving advice and consulting services to employees of the client. Counsel for the respondent noted that in paragraph (a) the word is “fourni” (“made” in English) whereas in paragraph (a.1) the word is “rendu” (“rendered” in English). Since I do not think either paragraph applies the distinction between the words “made” and “rendered” (“fourni” and “rendu”) is not a meaningful one for the purposes of this case, whatever may be its significance in a different context.
+[13] Quite apart from the interpretation of paragraphs 7(a) and 7(a.1), section 23 deals specifically with consulting advisory and professional services. To exclude the services provided here from zero-rating on the basis of paragraphs 7(a) or 7(a.1) would render nugatory section 23. This is a clear case in which both venerable Latin maxims expressio unius est exclusio alterius and generalia specialibus non derogant apply.
+[14] Counsel for the respondent also mentioned section 18 of Part V of Schedule VI. That section reads:
+18. — A supply made to a non-resident person, other than an individual, who is not registered under Subdivision d of Division V of Part IX of the Act of a service of instructing non‑resident individuals in, or administering examinations in respect of, courses leading to certificates, diplomas, licences or similar documents, or classes or ratings in respect of licences, that attest to the competence of the individuals to whom the service is rendered or the examination is administered to practise or perform a trade or vocation.
+[15] The argument is that since section 18 deals with a certain type of service (i.e., made to non-resident persons who are not individuals in a field leading to certification or accreditation), any other type of training is impliedly excluded. The word “training” is not used in this section.
+[16] Essentially this section deals with a certain type of instruction. It does not in my view exclude the type of consultative and advisory service provided by the appellant to its clients. The simple fact of the matter is we are not dealing here with training in the rather rudimentary sense in which the auditor evidently envisaged it. Although the word “training” is used in the invoices and the notice of appeal it obviously in this case encompasses a broad range of advisory and consultative services. Had Parliament intended to exclude all training it would have done so in the manner used in sections 7 and 23, i.e. a broad initial inclusion, subject to a relatively broad set of exclusions which are themselves subject to being revived in other specific provisions. For example, paragraph 7(b) is excluded from the opening words of section 7 and restored in section 23. Paragraphs 7(a) or 7(a.1) arguably could exclude certain types of training which then enjoy a very limited revival in section 18. Indeed I daresay all consultation and advice have an educative element, whether it be in the field of law, computers, medicine, fashion or interior decorating.
+[17] It seems that the scheme of Schedule VI, Part V, is that some services to non-residents are specifically excluded in section 7 but are restored in other sections of Part V whereas some services that are not specifically excluded by section 7 are nonetheless specifically zero-rated in other sections.
+[18] I am fortified in my conclusion that the services here are zero‑rated by the fact that precisely the same issue with this company arose under the Quebec sales tax legislation in Invera Inc. c. Québec (Sous‑Ministre du Revenu) (no. 500‑02‑092098-016, 11 July 2003), Court of Quebec.
+[19] The Honourable Mr. Justice Dumais, after quoting section 191.10 of the Quebec Sales Tax Act, (which is substantially the same as section 23 of Part V of Schedule VI to the E.T.A.) said:
+[17] En fait, l’article précité détaxe « le service de conseil, de consultation ou professionnel », cependant que l’article 185 détaxe « la fourniture de service », avec des exceptions autres que la situation décrite en l’article 191.10.
+[18] Si les services vendus à une personne ne résidant pas au Québec, pour consommation hors Québec sont un « service de conseil, de consultation ou professionnel », ils dépassent le cadre général de l’article 185, et en sont une division bien précisée. Sans cette spécificité, l’article 191.10 n’a pas de raison d’exister.
+[19] Ou, plus spécifiquement: est taxée la fourniture d’un service à une personne qui ne réside pas au Québec, s’il s’agit d’un « service de conseil, de consultation ou professionnel » (art. 185 précité, dans ses deux versions, avant et après le 23 avril 1996).
+[20] While I am not bound by the decisions of superior courts of the provinces they should, where possible, be followed in the interests of comity and consistency. In this case I am in complete agreement with Justice Dumais’ conclusion.
+[21] The appeal from the assessment made under the E.T.A. is allowed with costs and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the fees charged to the appellant’s non-resident clients that are in issue in this appeal are zero-rated.
+Signed at Ottawa, Canada, this 20th day of January 2005.
+“D.G.H. Bowman”
+Bowman, A.C.J.
+CITATION:
+2005TCC72
+COURT FILE NO.:
+2001-360(GST)G
+STYLE OF CAUSE:
+Invera Inc. and
+Her Majesty The Queen
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+November 16, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable D.G.H. Bowman, Associate Chief Justice
+DATE OF JUDGMENT AND REASONS FOR JUDGMENT:
+January 20, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Stéphane Eljarrat
+Counsel for the Respondent:
+Benoît Denis
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Stéphane Eljarrat
+Firm:
+Davies Ward Phillips & Vineberg LLP
+Barristers & Solicitors
+26th Floor, 1501 McGill College Ave.
+Montréal (Quebec) H3A 3N9
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

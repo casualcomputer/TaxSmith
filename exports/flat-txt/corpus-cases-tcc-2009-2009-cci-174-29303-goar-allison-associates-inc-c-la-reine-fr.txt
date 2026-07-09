@@ -1,0 +1,113 @@
+Title: Goar, Allison & Associates Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29303/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-174-29303-goar-allison-associates-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-04-03
+
+# Goar, Allison & Associates Inc. c. La Reine
+
+- Citation: 2009 CCI 174
+- Decision date: 2009-04-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7103, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Goar, Allison & Associates Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-04-03
+Référence neutre
+2009 CCI 174
+Numéro de dossier
+2007-3173(IT)I
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2009 CCI 174
+Date : 20090403
+Dossier : 2007-3173(IT)I
+ENTRE :
+GOAR, ALLISON & ASSOCIATES INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Représentant de l’appelante : David Bazar
+Avocat de l’intimée : Me Amit Ummat
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience à
+Welland (Ontario), le 15 janvier 2009.)
+Le juge Miller
+[1] Je suis disposé à rendre jugement en l’espèce. Il s’agit d’une intéressante affaire d’interprétation législative qui a été introduite par Goar, Allison & Associates Inc. dans le cadre de la procédure informelle. Elle vise l’interaction de deux dispositions relatives à des pénalités prévues par la Loi de l’impôt sur le revenu (la « Loi »), à savoir les paragraphes 162(1) et 162(2.1).
+[2] Les faits ne sont pas en litige. Les parties les ont présentés dans un exposé conjoint des faits, lequel est joint à l’annexe « A ». Il est inutile que je les passe en revue. Ils sont connus de tous.
+[3] Je vais toutefois lire les dispositions de la Loi. Premièrement, le paragraphe 162(1) est rédigé comme suit :
+162(1) Toute personne qui ne produit pas de déclaration de revenu pour une année d’imposition selon les modalités et dans le délai prévus au paragraphe 150(1) est passible d’une pénalité égale au total des montants suivants : […]
+Cette disposition précise ensuite comment il faut calculer la pénalité.
+[4] Le paragraphe 162(2.1) est ainsi libellé :
+162(2.1) Malgré les paragraphes (1) et (2), la pénalité dont une société non‑résidente est passible pour défaut de produire une déclaration de revenu pour une année d’imposition aux termes de ces paragraphes correspond au plus élevé des montants suivants :
+a) le montant déterminé selon les paragraphes (1) et (2), selon le cas;
+b) le plus élevé des montants suivants :
+(i) 100 $,
+(ii) le produit de 25 $ par le nombre de jours, jusqu’à concurrence de 100, depuis le jour où la déclaration devait être produite jusqu’au jour où elle est produite.
+[5] Il s’agit simplement de savoir si le paragraphe 162(2.1) s’applique dans le cas où, comme en l’espèce, aucune pénalité pécuniaire n’a été fixée en vertu du paragraphe 162(1). Selon moi, les termes employés au paragraphe 162(2.1) doivent recevoir leur sens littéral; c’est‑à‑dire qu’ils visent le contribuable passible d’une pénalité.
+[6] L’appelante n’était pas passible d’une pénalité puisqu’elle n’avait aucun revenu. Le libellé du paragraphe 162(2.1) ne vise pas le contribuable qui produit tardivement une déclaration de revenus, auquel cas la contribuable en l’espèce serait manifestement passible de la pénalité pécuniaire prévue à cette disposition. Ce n’est pas ce qu’énoncent les termes qui y figurent. Ils portent que l’appelante doit être passible d’une pénalité qui correspond à une somme pécuniaire. Quelle est donc la pénalité dont l’appelante est passible suivant le paragraphe 162(1)? Aucune. Zéro. Aucun revenu, aucune pénalité. Par conséquent, la condition préalable à respecter pour que le paragraphe 162(2.1) s’applique n’a tout simplement pas été remplie, et aucune pénalité ne peut donc être imposée sur le fondement de cette disposition.
+[7] L’intimée m’a renvoyé à une observation que M. le juge Laskin a faite dans une opinion dissidente formulée dans l’arrêt Ministre du Revenu national c. Panko[1] :
+27 […] En fait, dire qu’une personne encourt une pénalité consiste simplement à l’exposer à ce risque; ce n’est qu’au moment où les procédures ou démarches nécessaires pour l’imposer sont engagées que la pénalité prend effet. […]
+[8] Si j’applique cette observation aux faits dont je suis saisi, il me faut alors me demander si l’appelante était exposée au risque d’encourir la pénalité prévue au paragraphe 162(1). Je dois répondre par la négative. Si l’appelante avait été une société résidente, elle n’aurait pas été exposée au risque d’être condamnée à une pénalité puisqu’elle n’avait aucun impôt à payer. Je ne crois pas que l’observation faite par le juge Laskin aide l’intimée.
+[9] Enfin, l’intimée a invoqué les notes explicatives[2] présentées au moment de la publication du paragraphe 162(2.1) en octobre 1998. Il est utile de réitérer le texte de ces notes, lesquelles sont ainsi rédigées :
+[…] Le nouveau paragraphe 162(2.1) contient une règle spéciale servant au calcul des pénalités imposées en application des paragraphes 162(1) (défaut de déclaration de revenu) et 162(2) (récidive) de la Loi. La règle, qui s’applique à toutes les sociétés non‑résidentes, est qu’une pénalité imposée aux termes de ces deux paragraphes est égale au plus élevé des montants suivants : le montant déterminé selon le paragraphe 162(1) ou 162(2), selon le cas; et le plus élevé de 100 $, ou de 25 $ par jour écoulé, jusqu’à concurrence de 100, depuis le jour où la déclaration devait être produite. Le paragraphe 162(2.1) a donc pour effet d’assujettir les sociétés non‑résidentes aux pénalités prévues aux paragraphes 162(1) et (2) en cas de défaut de déclaration de revenu; de plus, en raison du rôle de cette déclaration de revenu comme déclaration de renseignements dans le cas des sociétés qui demandent à être exonérées d’impôt au Canada en vertu d’un traité fiscal, ces sociétés sont ainsi passibles des pénalités prévues au paragraphe 162(7) de la Loi si une déclaration de renseignements distincte est exigible à leur égard.
+[10] Selon moi, la première partie de cette note explicative étaye l’idée voulant que le contribuable doive être passible d’une pénalité d’un montant déterminé en application du paragraphe 162(1). Cependant, la dernière partie de la note pourrait être invoquée à l’appui de la thèse de la Couronne.
+[11] L’avocat de l’intimée fait valoir que la dernière partie de la note précise que la déclaration de revenus d’une société non‑résidente doit être traitée comme une déclaration de renseignements pour l’application de la pénalité. Les déclarations de renseignements feraient l’objet d’une pénalité suivant le paragraphe 162(7) de la même façon que suivant le paragraphe 162(2.1). Même s’il est possible que cette interprétation reflète bien l’intention du législateur, je ne suis pas franchement convaincu que les auteurs de cette note ont raison. J’estime que les termes employés dans la disposition sont clairs à leur lecture même et que les notes explicatives susmentionnées ne peuvent l’emporter sur leur signification non équivoque. S’il avait eu l’intention de traiter les déclarations de revenus de non‑résidents comme des déclarations de renseignements assujetties aux pénalités prévues au paragraphe 162(7), le législateur aurait pu, et il aurait dû, employer des termes plus directs et plus précis.
+[12] Lorsque le législateur impose une pénalité à un contribuable, et en l’espèce à un non‑résident, je suis d’avis que la disposition fixant cette pénalité doit être parfaitement limpide. S’il existe une ambiguïté, elle doit être résolue en faveur du contribuable. Or, la disposition particulière applicable en l’espèce ne comporte, à mon sens, aucune ambiguïté. S’il n’a pas d’impôt à payer, le non‑résident n’est pas passible de la pénalité prévue au paragraphe 162(2.1).
+[13] L’appel est accueilli et l’affaire est renvoyée au ministre pour nouvelle cotisation compte tenu du fait qu’aucune pénalité fondée sur le paragraphe 162(2.1) n’est justifiée.
+Signé à Ottawa, Canada, ce 3e jour d’avril 2009.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+Ce 1er jour de juin 2009.
+Julie Boulanger, LL.M.
+ANNEXE « A »
+[TRADUCTION]
+EXPOSÉ CONJOINT DES FAITS
+1) L’appelante a produit une déclaration de revenus des sociétés T-2 relative à 2005 le 29 décembre 2006.
+2) Le ministre a initialement établi une cotisation relative à l’année d’imposition 2005 de l’appelante le 16 janvier 2007.
+3) Aucun impôt fédéral n’a été fixé.
+4) Le ministre a fixé, en application du paragraphe 162(2.1) de la Loi de l’impôt sur le revenu (la « Loi »), des pénalités pour production tardive s’élevant à 2 500 $.
+5) L’appelante a produit un avis d’opposition le 22 janvier 2007.
+6) Le ministre a confirmé la dette fiscale de l’appelante pour l’année d’imposition 2005 le 11 juin 2007.
+7) Lorsqu’il a ainsi établi et confirmé la dette fiscale de l’appelante pour l’année d’imposition 2005, le ministre s’est appuyé sur les hypothèses de fait suivantes :
+a. l’appelante est une société non-résidente;
+b. l’appelante exploitait une entreprise au Canada pendant l’année d’imposition 2005;
+c. l’exercice financier de l’appelante se termine le 31 décembre;
+d. l’appelante avait l’obligation de produire une déclaration T2 dans les six mois suivant la fin de son exercice financier;
+e. le ministre a reçu la déclaration de revenus relative à 2005 de l’appelante le 29 décembre 2006;
+f. la déclaration de revenus relative à 2005 de l’appelante devait être produite au plus tard le 30 juin 2006.
+RÉFÉRENCE : 2009 CCI 174
+NO DU DOSSIER DE LA COUR : 2007-3173(IT)I
+INTITULÉ : Goar, Allison & Associates Inc. et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Welland (Ontario)
+DATE DE L’AUDIENCE : Le 15 janvier 2009
+MOTIFS DU JUGEMENT : L’honorable juge Campbell J. Miller
+DATE DU JUGEMENT : Le 23 janvier 2009
+COMPARUTIONS :
+Représentant de l’appelante :
+David Bazar
+Avocat de l’intimée :
+Me Amit Ummat
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : s.o.
+Cabinet : s.o.
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] [1972] R.C.S. 319.
+[2] 2007 Notes explicatives du ministère des Finances relatives à la Loi de l’impôt sur le revenu, Carswell, page 1525, note explicative du 27 octobre 1998 – paragraphe 162(2.1).

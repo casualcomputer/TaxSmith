@@ -1,0 +1,182 @@
+---
+title: "Denis v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27960/index.do"
+last_modified: "2003-05-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 304"
+citation2: ""
+neutral_citation: "2003 TCC 304"
+decision_date: "2003-05-02"
+language: "en"
+item_id: "27960"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1808
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:13:07.823000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "63c307ea016a1a8b29e2aeecd9a98c24f2d89572e5a49a60c9e4f509d428f3ec"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Denis v. M.N.R.
+
+- Citation: 2003 TCC 304
+- Decision date: 2003-05-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1808, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Denis v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-05-02
+Neutral citation
+2003 TCC 304
+File numbers
+2002-1180(EI), 2002-1341(EI)
+Judges and Taxing Officers
+Jerome F. Somers
+Subjects
+Employment Insurance Act
+Decision Content
+Dockets: 2002-1180(EI)
+2002-1341(EI)
+BETWEEN:
+FRANCINE DENIS
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeals heard on March 11, 2003, at Québec, Quebec
+Before: The Honourable Deputy Judge J.F. Somers
+Appearances
+Counsel for the Appellant:
+Me Jérôme Carrier
+Counsel for the Respondent:
+Me Marie-Claude Landry
+____________________________________________________________________
+JUDGMENT
+The appeals are dismissed and the Minister’s decisions are confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 2nd day of May 2003.
+“J.F. Somers”
+D.J.T.C.C.
+Citation: 2003TCC304
+Date: 20030502
+Dockets: 2002-1180(EI)
+2002-1341(EI)
+BETWEEN:
+FRANCINE DENIS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Deputy Judge Somers, T.C.C.
+[1] These appeals were heard on common evidence on March 11, 2003, at Québec, Quebec.
+[2] The appellant appeals from the decisions of the Minister of National Revenue (the “Minister”) according to which the employment held during the periods at issue, namely, from February 22 to September 17, 1999, from May 22 to September 22, 2000, and from June 25 to September 28, 2001, with Gérard Lapointe, who incorporated himself in 1999 under the name of Gérard F. Lapointe Inc., the payer, was not insurable on the ground that she and the payer did not deal at arm’s length.
+[3] Subsection 5(1) of the Employment Insurance Act (the “Act”) reads in part as follows:
+5.(1) Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+[...]
+[4] Subsections 5(2) and (3) of the Act read in part as follows:
+(2) Insurable employment does not include
+[...]
+(i) employment if the employer and employee are not dealing with each other at arm’s length.
+[...]
+(3) For the purposes of paragraph (2)(i),
+(a) the question of whether persons are not dealing with each other at arm’s length shall be determined in accordance with the Income Tax Act; and
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm’s length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length.
+[5] Section 251 of the Income Tax Act reads in part as follows:
+Section 251: Arm’s length.
+(1) For the purposes of this Act,
+(a) related persons shall be deemed not to deal with each other at arm’s length; and
+[...]
+(2) Definition of “related persons”.
+For the purpose of this Act, “related persons”, or persons related to each other, are
+(a) individuals connected by blood, relationship, marriage or common-law partnership or adoption;
+(b) a corporation, and
+(i) a person who controls the corporation, if it is controlled by one person,
+(ii) a person who is a member of a related group that controls the corporation; or
+(iii) any person related to a person described in subparagraph (i) or (ii); and
+[...]
+[6] The burden of proof lies with the appellant. She must establish on a balance of probabilities that the Minister’s decisions are unfounded in fact and in law. Each case must be decided on its own merits.
+[7] In making his decisions, the Minister relied on the following assumptions of fact set out in paragraph 5 of the Reply to the Notice of Appeal in docket 2002-1180(EI), which were admitted or denied:
+[Translation]
+(a) The payer, the appellant’s common-law spouse, operated a business offering plastering and house painting services. (admitted)
+(b) During the period at issue, the payer was the sole owner of the business; he incorporated himself in September 1999 under the name of “Gérard F. Lapointe Inc.” (admitted)
+(c) The payer hired only two people as a rule, including the appellant and her brother (S. Denis). Occasionally, the payer hired additional employees for short periods. (admitted)
+(d) The appellant worked for the payer for 14 years. (admitted)
+(e) The appellant owned the building where the payer’s office and warehouse were situated; she received no compensation from the payer for the use of these premises. (denied)
+(f) The main duties of the appellant consisted of
+· Answering the telephone.
+· Billing customers.
+· Preparing the payroll.
+· Handling the accounts receivable, accounts payable and trade accounts payable.
+· Making bank deposits.
+· Doing the errands required. (admitted)
+(g) The payer hired an outside accountant, paid at $100 a month, to review the appellant’s work, enter the data in the computer that the appellant had compiled manually, calculate source deductions and prepare the various government returns. (admitted)
+(h) The appellant had no work schedule to follow and her hours were not recorded by the payer. (denied)
+(i) During the period at issue, the appellant was allegedly paid in cash while the other employees were paid by cheque. (denied)
+(j) During the period at issue, there is no evidence of the remuneration allegedly paid to the appellant. (denied)
+(k) The appellant allegedly received a fixed remuneration of $450 a week, regardless of the hours actually worked. (denied)
+(l) According to the payer’s 1999 payroll journal, the appellant allegedly worked during the weeks of February 21 to February 27, May 2 to May 7, May 23 to May 29 and continuously thereafter from June 14 to September 17, whereas she provided services to the payer during weeks when she was not entered in the payroll journal. (denied)
+(m) The alleged period of employment of the appellant does not coincide with the business’ period of activities. (denied)
+[8] The assumptions of fact set out in paragraph 5 of the Reply to the Notice of Appeal in docket 2002-1341(EI) are substantially similar to those listed above.
+[9] The appellant was the common-law spouse of Gérard Lapointe, the payer, when he operated a business offering plastering and house painting services. In September 1999, the payer set up a company, of which he was the sole shareholder, under the name of Gérard F. Lapointe Inc.
+[10] According to the payer’s payroll journal (Exhibit A-4), the appellant worked in 1999 during the weeks of February 21 to February 27, May 2 to May 7, May 23 to May 29 and June 14 to September 17, 1999. According to the records of employment filed in evidence, the appellant worked for the payer from February 22 to September 17, 1999, (Exhibit A-1), from May 22 to September 22, 2000, (Exhibit A-2), and from June 25 to September 28, 2001, (Exhibit A-3).
+[11] The appellant worked for the payer for 14 years. Her main duties consisted of answering the telephone, invoicing customers, preparing the payroll, handling the accounts payable and the trade accounts payable, making bank deposits and doing errands. In addition, according to the payer, the appellant cleaned the office.
+[12] The payer hired an accountant for $100 a month to review the appellant’s work, enter the data compiled manually by the appellant in the computer, calculate source deductions and prepare the various government returns.
+[13] The appellant was the owner of the building in which the office and warehouse for the payer’s business were situated. Gérard Lapointe confirmed that he did not pay rent to the appellant but in lieu of compensation he took care of the heating, electricity and maintenance expenses.
+[14] According to the payer, the appellant worked from 42 to 43 hours a week; if she worked fewer hours in one week, she made up for it the following week.
+[15] The office occupied by the appellant was equipped with a computer, a telephone, a calculator and a filing cabinet, all belonging to the payer. The office furnishings, however, belonged to the appellant.
+[16] Gérard Lapointe stated that he paid the appellant in cash if he could not use his line of credit and that he did the same for the other employees. He added that he advanced money to the appellant during and outside the periods at issue, that he deducted these advances from her salary and that she was always remunerated for her work for the payer.
+[17] The appellant on occasion used her own car to run errands but, according to the payer, he paid for the gas.
+[18] On cross-examination, Gérard Lapointe stated that the appellant cleaned the office: she vacuumed it once a day. He said that the office furnishings belonged to the appellant as did the typewriter, the shelving and the desk, but the computer was his.
+[19] The payer stated that he did not know whether the appellant had done work for him outside the periods at issue. He added that she had run errands as needed but could not give details.
+[20] In the register of disbursements, filed as Exhibit I-1, it is indicated that the payer paid “office rent” on November 1, 1999, in the amount of $500.00, on November 25, 1999, in the amount of $200.00 and on March 6, 2000, in the amount of $400.00. According to the register prepared by the appellant, the rent was not paid on a regular basis nor was it the same amount every time.
+[21] Gérard Lapointe acknowledged that the writing appearing on a number of invoices and tenders filed as Exhibits I-2 and I-3 was definitely that of the appellant. It should be noted that a number of these invoices were prepared by the appellant outside the periods at issue. He also acknowledged that the appellant had prepared the register of disbursements (Exhibit I-1), and that a number of entries had been made outside the said periods.
+[22] Lyne Courcy, an appeals officer with the Canada Customs and Revenue Agency, contacted the appellant by telephone on January 23, 2002, and after the telephone conversation completed two reports, one for the period of 1999 and the other for the periods of 2000 and 2001. In her report for the periods of 2000 and 2001, the appeals officer included the additional information taken from one of the two statutory declarations, namely, that of October 30, 2001, made by the appellant to France L. Beaulieu, a Human Resources Development Canada officer (Exhibit I‑9). In her testimony, the appellant acknowledged that the facts described in these reports reflected the reality.
+[23] In her statutory declarations, the appellant stated that the business on average hired two employees, including herself and the brother of Gérard Lapointe but from time to time other employees were hired as required.
+[24] She explained that her duties consisted of answering the telephone, doing the invoicing, paying the trade accounts payable, making bank deposits, writing cheques and making clean copies of the tenders.
+[25] According to her statements, she worked 40 hours a week and did not record the number of hours worked because she was paid a fixed salary of $450.00 a week. She added that she may have worked less than 40 hours in some weeks but made up the time the following week and said she was paid by cheque or in cash.
+[26] She admitted that she might have worked for the payer outside the periods at issue. In her statement of October 30, 2001, she acknowledged that the pay cheques were not consistent with the salary journal and explained that the payer had lent her money in February or March 2001 and by agreement the loan was to be deducted from her pay in the summer of 2001. However, the appellant stated that she did not know the exact amount of the loan.
+[27] On cross-examination, the appellant admitted that she had prepared the register of disbursements (Exhibit I-1), the invoices (Exhibit I-2), the customer invoices (Exhibit I-4), the statement of taxes paid to the suppliers (Exhibit I-5) and the deposit slips (Exhibit I-7). Impressive numbers of those documents were prepared by the appellant outside the periods at issue.
+[28] Only four pay cheques (Exhibit I-8), in the amounts of $225, $300, $340 and $715.12, were filed in evidence and, on this subject, the appellant explained that her other pay had been given to her in cash.
+[29] According to the reports of the appeals officer (Exhibit I-9), the appellant worked outside the periods at issue without remuneration. The appellant prepared an impressive number of documents for purposes of the business while she was not on the payroll.
+[30] In Attorney General of Canada v. Jencan Ltd., [1998] 1 F.C. 187, Isaac, C.A. of the Federal Court of Appeal stated:
+…And, as I already said, there are specific grounds for interference implied by the requirement to exercise a discretion judicially. The Tax Court is justified in interfering with the Minister's determination under subparagraph 3(2)(c)(ii)-by proceeding to review the merits of the Minister's determination-where it is established that the Minister: (i) acted in bad faith or for an improper purpose or motive; (ii) failed to take into account all of the relevant circumstances, as expressly required by paragraph 3(2)(c)(ii); or (iii) took into account an irrelevant factor.
+[31] In Légaré v. Canada (Minister of National Revenue - M.N.R.), [1999] F.C.J. No. 878, Marceau J. of the Federal Court of Appeal stated:
+…In fact, the Act confers the power of review on the Tax Court of Canada on the basis of what is discovered in an inquiry carried out in the presence of all interested parties. The Court is not mandated to make the same kind of determination as the Minister and thus cannot purely and simply substitute its assessment for that of the Minister: that falls under the Minister's so-called discretionary power. However, the Court must verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so, it must decide whether the conclusion with which the Minister was "satisfied" still seems reasonable.
+[32] According to the principles established by the authorities cited above, this Court must ask itself whether the Minister’s decisions result from the proper exercise of his discretionary power. The Court must first require that that appellant present evidence of wilful or arbitrary conduct by the Minister.
+[33] No evidence was adduced to show that the appellant had received a salary, with the exception of a few cheques written during the periods at issue. The appellant explained that her remuneration was paid to her in cash or by cheque and that the payer had given her a loan that was deducted from her salary. The appellant was unable to tell the Court the amount of the loan and there was no reference to it in the book of disbursements. The appellant is not credible on this point.
+[34] According to the documentary evidence, the appellant throughout the year completed the bookkeeping manually; she therefore worked for the payer for no remuneration outside the periods at issue. The appellant also did errands for the payer, outside the periods at issue, without being remunerated.
+[35] The payer used the appellant’s property during the periods at issue without paying rent on a regular basis for the space occupied for the purposes of the business. The explanation given by Gérard Lapointe on this subject is that he paid the bills for heating and electricity and maintenance expenses for the property but he did not adduce any accounting records to that effect.
+[36] In contrast to the other employees, the appellant received advances on her salary. Furthermore, there is no record of the amounts advanced or of the amounts deducted from her pay.
+[37] The working conditions would not have been similar if the appellant and the payer had been dealing with each other at arm’s length.
+[38] In the circumstances, the Court is satisfied that the appellant was not able to show, on a balance of probabilities, that the Minister acted wilfully or arbitrarily.
+[39] The appellant’s employment is not included in insurable employment within the meaning of paragraph 5(2)(i) and subsection 5(3) of the Act.
+[40] Consequently, the appeals are dismissed and the decisions of the Minister are confirmed.
+Signed at Ottawa, Canada, this 2nd day of May 2003.
+“J.F. Somers”
+D.J.T.C.C.

@@ -1,0 +1,536 @@
+Title: Kandasamy c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/66884/index.do
+Corpus path: corpus/cases/tcc/2014/2014-cci-47-66884-kandasamy-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2014-02-17
+
+# Kandasamy c. La Reine
+
+- Citation: 2014 CCI 47
+- Decision date: 2014-02-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5958, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kandasamy c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-02-17
+Référence neutre
+2014 CCI 47
+Numéro de dossier
+2013-1263(IT)I
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-1263(IT)I
+ENTRE :
+THILEEBAN KANDASAMY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Collin Terpstra (2012‑4474(IT)I et 2013‑2385(IT)I), de Jenny Peih‑Chir Tsai (2013‑735(IT)I), d’Andrew Yadegari (2013‑1509(IT)I), de Thomas Havey (2013‑1793(IT)I), de Hilar Myron (2013‑2596(IT)I), de Sassan Ghazan‑Shahi (2013‑2592(IT)I) de Bita Hashemi (2013‑2597(IT)I) et de Brendon Trotter (2012‑4621(IT)I et 2013‑89(IT)I),
+les 9 et 10 janvier 2014, à Toronto (Ontario).
+Devant : L’honorable juge en chef Gerald J. Rip
+Comparutions :
+Avocats de l’appelant :
+Me Steven Barrett
+Me Derrick McIntosh
+Avocats de l’intimée :
+Me John Grant
+Me Rishma Bhimji
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie au titre de la Loi de l’impôt sur le revenu pour l’année d’imposition 2011 est accueilli, avec dépens entre parties, et l’affaire est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation en tenant compte du fait que l’appelant a le droit de demander le crédit d’impôt pour études et pour manuels scolaires.
+Signé à Ottawa, Canada, ce 17e jour de février 2014.
+« Gerald J. Rip »
+Juge en chef Rip
+Traduction certifiée conforme
+ce 15e jour d’avril 2014.
+Espérance Mabushi, M.A. Trad. Jur.
+Dossiers : 2012-4474(IT)I
+2013-2385(IT)I
+ENTRE :
+COLLIN TERPSTRA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Thileeban Kandasamy (2013‑1263(IT)I), de Jenny Peih‑Chir Tsai (2013‑735(IT)I), d’Andrew Yadegari (2013‑1509(IT)I), de Thomas Havey (2013‑1793(IT)I), de Hilary Myron (2013‑2596(IT)I), de Sassan Ghazan‑Shahi (2013‑2592(IT)I), de Bita Hashemi (2013‑2597(IT)I) et de Brendon Trotter (2012‑4621(IT)I et 2013‑89(IT)I),
+les 9 et 10 janvier 2014, à Toronto (Ontario).
+Devant : L’honorable juge en chef Gerald J. Rip
+Comparutions :
+Avocats de l’appelant :
+Me Steven Barrett
+Me Derrick McIntosh
+Avocats de l’intimée :
+Me John Grant
+Me Rishma Bhimji
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre des nouvelles cotisations établies au titre de la Loi de l’impôt sur le revenu pour les années d’imposition 2010 et 2011 est accueilli, avec dépens entre parties, et l’affaire est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations en tenant compte du fait que l’appelant a le droit de demander le crédit d’impôt pour études et pour manuels scolaires.
+Signé à Ottawa, Canada, ce 17e jour de février 2014.
+« Gerald J. Rip »
+Juge en chef Rip
+Traduction certifiée conforme
+ce 15e jour d’avril 2014.
+Espérance Mabushi, M.A. Trad. Jur.
+Dossier : 2013-735(IT)I
+ENTRE :
+JENNY PEIH‑CHIR TSAI,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+__________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Thileeban Kandasamy (2013‑1263(IT)I), de Collin Terpstra (2012‑4474(IT)I et 2013‑2385(IT)I), d’Andrew Yadegari (2013‑1509(IT)I), de Thomas Havey (2013‑1793(IT)I, de Hilary Myron (2013‑2596(IT)I), de Sassan Ghazan‑Shahi (2013‑2592(IT)I), de Bita Hashemi (2013‑2597(IT)I) et de Brendon Trotter (2012‑4621(IT)I et 2013‑89(IT)I),
+les 9 et 10 janvier 2014, à Toronto (Ontario).
+Devant : L’honorable juge en chef Gerald J. Rip
+Comparutions :
+Avocats de l’appelante :
+Me Steven Barrett
+Me Derrick McIntosh
+Avocats de l’intimée :
+Me John Grant
+Me Rishma Bhimji
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie au titre de la Loi de l’impôt sur le revenu pour l’année d’imposition 2011 est accueilli, avec dépens entre parties, et l’affaire est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation en tenant compte du fait que l’appelante a le droit de demander le crédit d’impôt pour études et pour manuels scolaires.
+Signé à Ottawa, Canada, ce 17e jour de février 2014.
+« Gerald J. Rip »
+Juge en chef Rip
+Traduction certifiée conforme
+ce 15e jour d’avril 2014.
+Espérance Mabushi, M.A. Trad. Jur.
+Dossier : 2013-1509(IT)I
+ENTRE :
+ANDREW YADEGARI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Thileeban Kandasamy (2013‑1263(IT)I), de Collin Terpstra (2012‑4474(IT)I et 2013‑2385(IT)I), de Jenny Peih‑Chir Tsai (2013‑735(IT)I), de Thomas Havey (2013‑1793(IT)I), de Hilary Myron (2013‑2596(IT)I), de Sassan Ghazan‑Shahi (2013‑2592(IT)I), de Bita Hashemi (2013‑2597(IT)I) et de Brendon Trotter (2012‑4621(IT)I et 2013‑89(IT)I),
+les 9 et 10 janvier 2014, à Toronto (Ontario).
+Devant : L’honorable juge en chef Gerald J. Rip
+Comparutions :
+Avocats de l’appelant :
+Me Steven Barrett
+Me Derrick McIntosh
+Avocats de l’intimée :
+Me John Grant
+Me Rishma Bhimji
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre des nouvelles cotisations établies au titre de la Loi de l’impôt sur le revenu pour les années d’imposition 2010 et 2011 est accueilli, avec dépens entre parties, et l’affaire est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations en tenant compte du fait que l’appelant a le droit de demander le crédit d’impôt pour études et pour manuels scolaires.
+Signé à Ottawa, Canada, ce 17e jour de février 2014.
+« Gerald J. Rip »
+Juge en chef Rip
+Traduction certifiée conforme
+ce 15e jour d’avril 2014.
+Espérance Mabushi, M.A. Trad. Jur.
+Dossier : 2013-1793(IT)I
+ENTRE :
+THOMAS HAVEY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Thileeban Kandasamy (2013‑1263(IT)I), de Collin Terpstra (2012‑4474(IT)I et 2013‑2385(IT)I), de Jenny Peih‑Chir Tsai (2013‑735(IT)I), d’Andrew Yadegari (2013‑1509(IT)I), de Hilary Myron (2013‑2596(IT)I), de Sassan Ghazan‑Shahi (2013‑2592(IT)I), de Bita Hashemi (2013‑2597(IT)I) et de Brendon Trotter (2012‑4621(IT)I et 2013‑89(IT)I),
+les 9 et 10 janvier 2014, à Toronto (Ontario).
+Devant : L’honorable juge en chef Gerald J. Rip
+Comparutions :
+Avocats de l’appelant :
+Me Steven Barrett
+Me Derrick McIntosh
+Avocats de l’intimée :
+Me John Grant
+Me Rishma Bhimji
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie au titre de la Loi de l’impôt sur le revenu pour l’année d’imposition 2011 est accueilli, avec dépens entre parties, et l’affaire est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation en tenant compte du fait que l’appelant a le droit de demander le crédit d’impôt pour études et pour manuels scolaires.
+Signé à Ottawa, Canada, ce 17e jour de février 2014.
+« Gerald J. Rip »
+Juge en chef Rip
+Traduction certifiée conforme
+ce 15e jour d’avril 2014.
+Espérance Mabushi, M.A. Trad. Jur.
+Dossier : 2013-2596(IT)I
+ENTRE :
+HILARY MYRON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Thileeban Kandasamy (2013‑1263(IT)I), de Collin Terpstra (2012‑4474(IT)I et 2013‑2385(IT)I), de Jenny Peih‑Chir Tsai (2013‑735(IT)I), d’Andrew Yadegari (2013‑1509(IT)I), de Thomas Havey (2013‑1793(TI)I), de Sassan Ghazan‑Shahi (2013‑2592(IT)I), de Bita Hashemi (2013‑2597(IT)I) et de Brendon Trotter (2012‑4621(IT)I et 2013‑89(IT)I),
+les 9 et 10 janvier 2014, à Toronto (Ontario).
+Devant : L’honorable juge en chef Gerald J. Rip
+Comparutions :
+Avocats de l’appelante :
+Me Steven Barrett
+Me Derrick McIntosh
+Avocats de l’intimée :
+Me John Grant
+Me Rishma Bhimji
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie au titre de la Loi de l’impôt sur le revenu pour l’année d’imposition 2011 est accueilli, avec dépens entre parties, et l’affaire est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation en tenant compte du fait que l’appelante a le droit de demander le crédit d’impôt pour études et pour manuels scolaires.
+Signé à Ottawa, Canada, ce 17e jour de février 2014.
+« Gerald J. Rip »
+Juge en chef Rip
+Traduction certifiée conforme
+ce 15e jour d’avril 2014.
+Espérance Mabushi, M.A. Trad. Jur.
+Dossier : 2013-2592(IT)I
+ENTRE :
+SASSAN GHAZAN‑SHAHI,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Thileeban Kandasamy (2013‑1263(IT)I), de Collin Terpstra (2012‑4474(IT)I et 2013‑2385(IT)I), de Jenny Peih‑Chir Tsai (2013‑735(IT)I), d’Andrew Yadegari (2013‑1509(IT)I), de Thomas Havey (2013‑1793(IT)I), de Hilary Myron (2013‑2596(IT)I), de Bita Hashemi (2013‑2597(IT)I) et de Brendon Trotter (2012‑4621(IT)I et 2013‑89(IT)I),
+les 9 et 10 janvier 2014, à Toronto (Ontario).
+Devant : L’honorable juge en chef Gerald J. Rip
+Comparutions :
+Avocats de l’appelante :
+Me Steven Barrett
+Me Derrick McIntosh
+Avocats de l’intimée :
+Me John Grant
+Me Rishma Bhimji
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie au titre de la Loi de l’impôt sur le revenu pour l’année d’imposition 2011 est accueilli, avec dépens entre parties, et l’affaire est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation en tenant compte du fait que l’appelante a le droit de demander le crédit d’impôt pour études et pour manuels scolaires.
+Signé à Ottawa, Canada, ce 17e jour de février 2014.
+« Gerald J. Rip »
+Juge en chef Rip
+Traduction certifiée conforme
+ce 15e jour d’avril 2014.
+Espérance Mabushi, M.A. Trad. Jur.
+Dossier : 2013-2597(IT)I
+ENTRE :
+BITA HASHEMI,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Thileeban Kandasamy (2013‑1263(IT)I), de Collin Terpstra (2012‑4474(IT)I et 2013‑2385(IT)I), de Jenny Peih‑Chir Tsai (2013‑735(IT)I), d’Andrew Yadegari (2013‑1509(IT)I), de Thomas Havey (2013‑1793(IT)I), de Hilary Myron (2013‑2596(IT)I), de Sassan Ghazan‑Shahi (2013‑2592(IT)I) et de Brendon Trotter (2012‑4621(IT)I et 2013‑89(IT)I),
+les 9 et 10 janvier 2014, à Toronto (Ontario).
+Devant : L’honorable juge en chef Gerald J. Rip
+Comparutions :
+Avocat de l’appelante :
+Me Steven Barrett
+Me Derrick McIntosh
+Avocats de l’intimée :
+Me John Grant
+Me Rishma Bhimji
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie au titre de la Loi de l’impôt sur le revenu pour l’année d’imposition 2011 est accueilli, avec dépens entre parties, et l’affaire est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation en tenant compte du fait que l’appelante a le droit de demander le crédit d’impôt pour études et pour manuels scolaires.
+Signé à Ottawa, Canada, ce 17e jour de février 2014.
+« Gerald J. Rip »
+Juge en chef Rip
+Traduction certifiée conforme
+ce 15e jour d’avril 2014.
+Espérance Mabushi, M.A. Trad. Jur.
+Dossiers : 2012-4621(IT)I
+2013-89(IT)I
+ENTRE :
+BRENDON TROTTER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Thileeban Kandasamy (2013‑1263(IT)I), de Collin Terpstra (2012‑4474(IT)I et 2013‑2385(IT)I), de Jenny Peih‑Chir Tsai (2013‑735(IT)I), d’Andrew Yadegari (2013‑1509(IT)I), de Thomas Havey (2013‑1793(TI)I), de Hilary Myron (2013‑2596(IT)I), de Sassan Ghazan‑Shahi (2013‑2592(IT)I) et de Bita Hashemi (2013‑2597(IT)I),
+les 9 et 10 janvier 2014, à Toronto (Ontario).
+Devant : L’honorable juge en chef Gerald J. Rip
+Comparutions :
+Avocats de l’appelant :
+Me Steven Barrett
+Me Derrick McIntosh
+Avocats de l’intimée :
+Me John Grant
+Me Rishma Bhimji
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre des nouvelles cotisations établies au titre de la Loi de l’impôt sur le revenu pour les années d’imposition 2010 et 2011 est accueilli, avec dépens entre parties, et l’affaire est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations en tenant compte du fait que l’appelant a le droit de demander le crédit d’impôt pour études et pour manuels scolaires.
+Signé à Ottawa, Canada, ce 17e jour de février 2014.
+« Gerald J. Rip »
+Juge en chef Rip
+Traduction certifiée conforme
+ce 15e jour d’avril 2014.
+Espérance Mabushi, M.A. Trad. Jur.
+Référence : 2014 CCI 47
+Date : 20140217
+Dossier : 2013-1263(IT)I
+ENTRE :
+THILEEBAN KANDASAMY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossiers : 2012-4474(IT)I
+2013-2385(IT)I
+ET ENTRE :
+COLLIN TERPSTRA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossiers : 2012-4621(IT)I
+2013-89(IT)I
+ET ENTRE :
+BRENDON TROTTER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2013-735(IT)I
+ET ENTRE :
+JENNY PEIH-CHIR TSAI,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2013-1509(IT)I
+ET ENTRE :
+ANDREW YADEGARI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2013-1793(IT)I
+ET ENTRE :
+THOMAS HAVEY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2013-2596(IT)I
+ET ENTRE :
+HILARY MYRON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2013-2597(IT)I
+ET ENTRE :
+BITA HASHEMI,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2013-2592(IT)I
+ET ENTRE :
+SASSAN GHAZAN-SHAHI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge en chef Rip
+[1] Après avoir obtenu un doctorat en médecine (« M.D ») d’une université, la personne qui souhaite exercer la médecine en Ontario est tenue de s’inscrire à un programme postdoctoral en médecine pour être admissible à l’obtention d’un permis d’exercice de la médecine en Ontario[1]. Les programmes postdoctoraux de résidence en médecine sont administrés par l’entremise de facultés ou d’écoles de médecine à des universités canadiennes, conjointement avec des hôpitaux, appelés des hôpitaux universitaires, affiliés à l’université. La personne, désignée comme étant un « résident », paie des droits d’inscription à l’université, mais non des droits de scolarité. Le résident peut suivre le programme pour une période allant de deux à sept ans, en fonction de la spécialité médicale qu’il souhaite entreprendre. Le résident peut travailler 50 heures ou plus par semaine rémunérées dans un hôpital universitaire sous la supervision de médecins chevronnés qui sont nommés par l’université. [Cette partie est appelée la partie « clinique » du programme.] Les programmes comprennent aussi deux à quatre heures par mois de cours théoriques. L’université délivre au résident le formulaire prescrit appelé « Certificat pour frais de scolarité, montant relatif aux études et montant pour manuels » (formulaire T2202A) qu’il faut produire auprès du ministre du Revenu national (le « ministre »).
+[2] Les neuf appelants étaient inscrits à des programmes de résidence en médecine dans des universités ontariennes. Chaque appelant interjette appel à l’encontre de nouvelles cotisations dans lesquelles le ministre a refusé leur demande de crédit d’impôt pour études et pour manuels scolaires au titre de l’article 118.6 de la Loi de l’impôt sur le revenu (la « Loi »), en tenant pour acquis qu’aucun des appelants n’était inscrit à un « programme de formation admissible » en tant qu’étudiant à temps plein à un « établissement d’enseignement agréé » au sens du paragraphe 118.6(1) de la Loi.
+[3] Les appels ont été entendus sur preuve commune. Les noms des appelants, les années visées par l’appel et l’université à laquelle chaque appelant était inscrit pour le programme postdoctoral sont les suivants :
+Nom
+Année(s) visée(s) par l’appel
+Université [2]
+Thileeban Kansasamy
+2011
+Toronto
+Andrew Yadegari
+2010‑2011
+Western
+Thomas Havey
+2011
+Toronto
+Collin Terpstra
+2010‑2011
+McMaster
+Hilary Myron
+2011
+Ottawa
+Sassan Ghazan-Shahi
+2011
+Queen’s
+Bita Hashemi
+2011
+Toronto
+Brendon Trotter
+2010‑2011
+McMaster
+Jenny Peih-Chir Tsai
+2011
+Toronto
+[4] Les dispositions pertinentes de l’article 118.6 de la Loi sont ainsi libellées :
+(1) Les définitions qui suivent s’appliquent aux articles 63 et 64 et à la présente sous‑section.
+(1) For the purposes of sections 63 and 64 and this subdivision,
+« établissement d’enseignement agréé »
+"designated educational institution" means
+a) Un des établissements d’enseignement suivants situés au Canada :
+(a) an educational institution in Canada that is
+(i) université, collège ou autre établissement d’enseignement agréé soit par le lieutenant-gouverneur en conseil d’une province au titre de la Loi fédérale sur les prêts aux étudiants, soit par une autorité compétente en application de la Loi fédérale sur l’aide financière aux étudiants, ou […]
+(i) a university, college or other educational institution designated by the Lieutenant Governor in Council of a province as a specified educational institution under the Canada Student Loans Act, designated by an appropriate authority under the Canada Student Financial Assistance Act, or …
+« programme de formation admissible » Programme d’une durée minimale de trois semaines consécutives, aux cours ou aux travaux duquel l’étudiant doit consacrer dix heures par semaine au moins et […]
+"qualifiying educational program" means a program of not less than three consecutive weeks duration that provides that each student taking the program spend not less than ten hours per week on courses or work in the program and …
+(2) Le montant obtenu par la formule suivante est déductible dans le calcul de l’impôt payable par un particulier en vertu de la présente partie pour une année d’imposition :
+(2) There may be deducted in computing an individual’s tax payable under this Part for a taxation year the amount determined by the formula
+A x B
+A x B
+où :
+where
+A représente le taux de base pour l’année :
+A is the appropriate percentage for the year; and
+B la somme des produits suivants :
+B is the total of the products obtained when
+a) 400 $ multipliés par le nombre de mois de l’année pendant lesquels le particulier est inscrit à un programme de formation admissible comme étudiant à temps plein d’un établissement d’enseignement agréé, […]
+(a) $400 is multiplied by the number of months in the year during which the individual is enrolled in a qualifying educational program as a full‑time student at a designated educational institution, and …
+Pour que le montant soit déductible, l’inscription du particulier doit être attestée par un certificat délivré par l’établissement — sur le formulaire prescrit contenant les renseignements prescrits — et présenté au ministre et,
+[…]
+if the enrolment is proven by filing with the Minister a certificate in prescribed form issued by the designated educational institution and containing prescribed information …
+[5] Mon collègue, le juge Paris, a instruit un appel semblable dans l’affaire Pan c. La Reine[3] en 2010. Un certain nombre de résidents avaient interjeté appel à l’encontre de cotisations dans lesquelles les demandes de crédit d’impôt pour études avaient été refusées et ils ont eu gain de cause. Dans la décision Pan, la Couronne avait soutenu que les résidents n’étaient pas inscrits à un programme de formation admissible, parce qu’ils recevaient un avantage au titre du programme en bénéficiant d’une formation gratuite. Le juge Paris a conclu que, dans le contexte du paragraphe 118.6(1) de la Loi, le terme « avantage » désigne, selon l’intention du législateur, un bénéfice financier ou important évaluable en argent plutôt qu’un bénéfice immatériel. Un enseignement gratuit offert par l’université ne comporte aucun avantage pécuniaire accordé aux résidents.
+[6] En l’espèce, la Couronne a soutenu une position différente et a refusé les demandes de crédit d’impôt pour études. Le ministre a fait valoir, en autres choses, que le programme est administré par un hôpital, et non par une université, que les résidents ne consacrent pas aux cours dix heures par semaine au moins et qu’ils ne sont pas des étudiants à temps plein d’une université.
+Le témoignage de Mme Rhonda Trowell
+[7] Mme Rhonda Trowell, directrice, équipe de mise en œuvre de la stratégie pour la Professional Association of Residents of Ontario (le « PARO »), et l’agent négociateur pour les résidents de l’Ontario, ont tous les deux témoigné et déposé un affidavit à l’appui des appelants. Je reconnais que le travail de Mme Trowell au PARO lui permet de bien connaître les exigences relatives à l’enseignement et à l’obtention de permis pour des résidents en Ontario. Dans son affidavit, étayé par son témoignage, Mme Trowell a décrit le programme de résidence en Ontario, son objet, ses exigences, son administration, la nature du travail et des études des résidents ainsi que les questions liées en général à un [traduction] « programme de résidence ». Le contre‑interrogatoire de Mme Trowell a permis de clarifier son témoignage, mais il ne l’a pas considérablement remis en question. Je me suis largement fondé sur le témoignage de Mme Trowell.
+[8] Mme Trowell a expliqué que le programme de résidence est un programme de formation de plusieurs années que tous les médecins et tous les chirurgiens en Ontario doivent suivre et réussir à l’issue de leur formation dans une école de médecine afin d’être autorisés à exercer la médecine. Tout programme de résidence doit être agréé par le Collège royal des médecins et chirurgiens du Canada (le « Collège royal ») ou par le Collège des médecins de famille du Canada (le « CMFC »), selon la spécialité choisie par le résident.
+[9] Le programme permet de former les résidents afin qu’ils puissent exercer la médecine dans la spécialité de leur choix, par exemple la pédiatrie, l’ophtalmologie, l’orthopédie, la neurologie, etc.
+[10] La présence des résidents à l’hôpital leur donne la formation pratique qui leur permet finalement d’exercer leur profession de manière autonome. La formation comprend la prise en charge clinique directe des patients, un travail qu’ils exercent sous supervision et évaluation. Ils participent aux visites des médecins à l’hôpital. Ils effectuent aussi de la recherche et des études en médecine et préparent des présentations à faire lors de visites à but éducatif auprès des malades. Ils assistent également, entre autres choses, à des exposés magistraux et à des conférences. Lors de visites auprès des malades, l’on s’attend à ce que les résidents expliquent à leurs collègues le problème de santé particulier qui se pose.
+[11] Après avoir terminé un programme de résidence, la personne doit passer un examen administré par le Collège royal ou par le CMFC, selon la spécialité, en vue d’obtenir un certificat lui permettant d’exercer la médecine de manière autonome.
+[12] Dès l’obtention d’un doctorat en médecine, le médecin présente normalement une demande d’admission à un programme de résidence dans une spécialité particulière à une école de médecine d’une université reconnue. Lorsque l’université accepte la demande d’admission du médecin au programme de résidence, elle avise l’Ordre des médecins et chirurgiens de l’Ontario (l’« OMCO »). L’OMCO est l’organisme professionnel qui régit les médecins en Ontario.
+[13] Chaque université reconnue est affiliée à un ou plusieurs hôpitaux universitaires où les résidents sont engagés pour entreprendre une formation clinique et pour offrir des services cliniques au grand public. L’université considère les résidents comme des étudiants de l’université. L’hôpital verse une rémunération aux résidents.
+[14] Le médecin présente une demande à une université reconnue pour être admis à un programme de résidence. Le résident paie des droits d’inscription à l’université pour être inscrit à son programme. L’université affecte l’étudiant à l’hôpital universitaire auquel elle est affiliée ou à un hôpital en particulier si elle est affiliée à plus d’un.
+[15] L’OMCO accorde un permis restreint, connu sous le nom de [traduction] « certificat d’immatriculation », au résident pour qu’il exerce la médecine. Le permis, appelé « certificat de formation postdoctorale » n’autorise le résident à exercer la médecine que sous la supervision de médecins et de chirurgiens membres du personnel à l’hôpital où le résident travaille. Le résident n’est pas autorisé à exercer la médecine de façon autonome, sans supervision. L’OMCO ne délivre un certificat d’immatriculation que s’il est convaincu que le résident satisfait à toutes les normes et qualifications de l’OMCO. L’étudiant ne peut pas exercer la médecine et ne peut pas être un résident s’il n’a pas de certificat d’immatriculation. Au début de chaque année de résidence, le résident doit demander un nouveau certificat d’immatriculation.
+[16] Les hôpitaux universitaires sont dotés d’équipes médicales comprenant des médecins ainsi que des résidents qui suivent une formation pour devenir des médecins autorisés à exercer la profession de façon autonome par l’intermédiaire de ce programme. Les médecins et les chirurgiens membres du personnel qui assurent la supervision des résidents ont aussi un statut double : ils ont des droits hospitaliers à l’hôpital universitaire et sont aussi des professeurs qui occupent des postes universitaires à la faculté de médecine de l’université à laquelle l’hôpital est affilié. Chaque université désigne un directeur de programme pour son programme de résidence.
+[17] Alors que les programmes de résidence sont établis et administrés par les universités, l’ensemble, ou presque, de l’instruction et du travail concernant le programme se font dans les hôpitaux universitaires ou dans d’autres établissements de santé aux termes de l’entente d’affiliation conclue entre l’hôpital et l’université, y compris, en Ontario, environ 200 hôpitaux communautaires. L’Université de Toronto dispose d’au moins dix hôpitaux universitaires et, outre le directeur de programme, il peut y avoir un directeur de site à chaque hôpital.
+[18] Les résidents inscrits à un programme travaillent à l’hôpital ou à un autre établissement de santé environ 50 à 60 heures par semaine, 48 semaines par année, selon le programme. Ils travaillent entre huit et dix heures par jour, cinq jours par semaine, et sont « de garde » la nuit pendant la semaine ou 24 heures pendant les fins de semaine. L’emploi de résidents permet aux hôpitaux de continuer à fonctionner les nuits et les fins de semaine.
+[19] Il y a également un très petit nombre de résidents qui travaillent à temps partiel, par exemple trois jours par semaine. La durée d’un programme suivi par un résident à temps partiel serait, dans un cas pareil, le double de celle d’un résident à temps plein. (Aucun des appelants n’était résident à temps partiel).
+[20] La PARO a conclu une entente avec le Council of Academic Hospitals of Ontario (le « CAHO »), qui représente tous les hôpitaux universitaires en Ontario. L’entente régit les conditions d’emploi des résidents et reconnaît que les résidents sont à la fois des médecins employés par les hôpitaux et des stagiaires postdoctoraux inscrits à un programme universitaire agréé menant à l’obtention d’un permis ou d’un certificat. Les résidents sont rémunérés par l’université selon l’échelle salariale prévue par l’entente conclue entre la PARO et le CAHO.
+[21] Si, pour une raison quelconque, le résident n’est plus inscrit au programme de résidence à une université, y compris par suite de l’expulsion du résident par l’université, le médecin cesse d’être un résident. L’OMCO révoque le certificat d’immatriculation du résident, qui ne fait plus partie du personnel médical de l’hôpital. La personne n’est plus autorisée à exercer la médecine en Ontario. La décision appartient à l’université. Toutefois, un résident peut aussi être licencié par l’hôpital. L’entente conclue entre la PARO et le CAHO prévoit une protection pour les résidents contre le renvoi non motivé par les hôpitaux, mais le licenciement par l’université est reconnu comme étant un [traduction] « motif valable » de licenciement du résident de son emploi à l’hôpital.
+[22] Chaque programme de résidence fait l’objet d’un agrément et d’une révision périodique par le Collège royal et, en ce qui concerne les programmes de médecine familiale, par le CMFC. Les normes générales qui s’appliquent aux programmes visent à ce que le type de formation et d’instruction reçu par les résidents soit régi par le Collège royal ou par le CMFC. Les normes en question incluent des programmes de stage organisés dans les hôpitaux auxquels participent les résidents et [traduction] « d’autres expériences éducatives » afin que les résidents puissent avoir les compétences nécessaires pour exercer la médecine dans la spécialité de leur choix. Les normes établissement aussi l’exigence selon laquelle chaque résident inscrit au programme doit faire l’objet d’une évaluation.
+[23] Le Collège royal établit aussi des normes, des exigences et des objectifs précis pour chaque spécialité. Par exemple, les exigences du programme des résidents en orthopédie peuvent être différentes de celles du programme des résidents en pédiatrie en ce qui concerne la prise en charge clinique du patient, la recherche et la chirurgie. Les exigences du Collège royal sont minimales et les universités peuvent avoir un programme dont les exigences dépassent les exigences minimales.
+[24] Tout au long de son programme de résidence et au cours de chaque stage, le résident fait l’objet d’une évaluation continue. Chaque université établit ses propres politiques sous réserve des exigences du Collège royal et du CMFC. Les évaluations, appelées [traduction] « fiches d’évaluation en cours de formation » se font par écrit. Si le résident obtient des résultats insatisfaisants, il peut faire l’objet d’une « remédiation » ou d’une « probation » scolaire ou il peut être renvoyé du programme. Le résident peut se prévaloir du processus d’appel qui est propre à chaque université. Chaque université a sa propre politique, mais la remédiation ou la probation scolaire prévoient généralement pour le résident précis une prolongation de la résidence au cours de laquelle il refait les stages qui ont été considérés comme insatisfaisants.
+[25] À la fin d’un programme, un résident fait l’objet d’une évaluation finale globale. Pour qu’un résident puisse passer les examens obligatoires pour obtenir un certificat qui sont administrés par le Collège royal ou par le CMFC en vue d’entreprendre l’exercice autonome de la médecine dans une spécialité, il doit faire l’objet d’une évaluation au sein de son programme de formation en résidence pour qu’on puisse établir s’il a satisfait aux exigences du programme. Cette évaluation se fait au moyen de ce que l’on appelle la « fiche d’évaluation en fin de formation », qui constitue une confirmation selon laquelle le résident a réussi le programme. Si le résident ne fait pas constater sa réussite par une fiche d’évaluation en fin de formation, il ne peut pas prendre part aux examens obligatoires pour l’obtention d’un certificat du Collège royal ou du CMFC. Au cours du programme de résidence, les résidents se préparent habituellement, et de manière continue, aux examens du Collège royal et du CMFC en passant des modèles d’examens administrés par le programme.
+[26] La province de l’Ontario finance les universités reconnues pour les programmes de résidence. Le ministère de la Formation et des Collèges et Universités de l’Ontario utilise des codes d’inscription à temps plein et les universités considèrent les résidents comme des étudiants à temps plein inscrits à l’université précise[4].
+Les témoins de l’intimée
+[27] L’intimée a appelé cinq témoins, tous des représentants des universités concernées.
+[28] Le Dr Lorne Wiesenfeld est médecin et vice‑doyen des études postdoctorales de la faculté de médecine de l’Université d’Ottawa. Il supervise 67 programmes de résidence et de fellowship à l’université. La Dre Hilary Myron était étudiante au programme de pédiatrie de l’université.
+[29] Le Dr Wiesenfeld a expliqué que, lorsqu’un résident éventuel présente une demande d’admission à un programme de résidence à l’Université d’Ottawa, on fait correspondre les étudiants aux programmes offerts à l’Université et la spécialité dans laquelle le demandeur veut poursuivre ses études. Si le demandeur est admis à un programme précis, la faculté de médecine de l’Université d’Ottawa envoie une lettre de nomination au demandeur. La première lettre de nomination de la Dre Myron était datée du 31 mars 2010 et notamment donnait des précisions et des explications sur le programme, la pédiatrie dans son cas, la source de financement, à savoir le ministère de la Santé et des Soins de longue durée de l’Ontario, ainsi que les niveaux de formation, c’est-à-dire l’[traduction] « année postdoctorale 1 » et [traduction] l’« année postdoctorale 2 ». Elle a accepté une deuxième nomination le 28 février 2012 pour une l’[traduction] « année postdoctorale 3 ». Après avoir terminé le programme, elle devait obtenir un certificat de formation postdoctorale de l’OMCO. La lettre de nomination précisait également qu’elle [traduction] « pouvait être affectée, pour une durée variable, à tout hôpital, à toute institution ou à tout stage pédagogique se rapportant au programme de formation de l’Université ».
+[30] L’Université d’Ottawa a facturé à Dre Myron en 2010 des droits d’inscription de 350 $, qui ont augmenté depuis. Si un résident ne paie pas les droits, il est suspendu. Les droits représentent le coût d’administration et de supervision du programme. Ils ne financent pas entièrement le cours. Le financement est assuré par le gouvernement de l’Ontario.
+[31] Un des arguments avancés par l’intimée est que le temps que les résidents consacrent à des cours théoriques est inférieur aux dix heures par semaine exigées pour qu’un programme soit considéré comme un « programme de formation admissible » au sens de l’article 118.6 de la Loi. Le Dr Wiesenfeld a témoigné que la faculté de médecine de l’Université d’Ottawa exige que les résidents participent à ce que l’on appelle des programmes « demi‑journée académique », qui peuvent s’étaler sur une demi‑journée ou une journée entière. Il s’agit d’un volet hebdomadaire obligatoire du programme de l’Université d’Ottawa, et les étudiants doivent arrêter leur service à l’hôpital pour participer au programme « demi-journée académique ». Le programme peut se dérouler à l’hôpital ou à l’université.
+[32] Le Comité de résidence du programme, présidé par le directeur du programme et par des directeurs de site, détermine si un résident a satisfait aux exigences médicales pour une promotion au niveau suivant du programme.
+[33] L’Université d’Ottawa délivre un diplôme [traduction] « général » au résident qui réussit le programme de l’Université. Cela lui permet de se présenter à l’examen du Collège royal ou du CMFC.
+[34] Enfin, le Dr Wiesenfeld a déclaré que [traduction] « toute personne qui participe [au programme] est nommée par l’université ». L’Université d’Ottawa considère le programme de résidence postdoctoral comme des études universitaires.
+[35] M. Scott Rumas, directeur du bureau des études postdoctorales en médecine de l’école Schulich de médecine et de médecine dentaire de l’Université Western a également témoigné pour l’intimée. M. Rumas a produit la copie d’une lettre qu’il avait écrite le 6 janvier 2014 en réponse à une lettre provenant du ministère de la Justice. Dans la lettre, le ministère de la Justice semblait demander qu’on lui fournisse [traduction] « l’ensemble des documents, notes, règlements administratifs, contrats, politiques, accords et tout renseignements concernant la définition de l’expression "étudiant à temps plein" au programme de résidence postdoctoral de l’Université Western », relativement à plusieurs appelants. Dans sa réponse, M. Rumas a décrit la nomination du résident, les responsabilités liées aux études médicales postdoctorales et d’autres sujets, qui sont tous des éléments que Mme Trowell et le Dr Wiesenfeld ont mentionnés plus tôt et qui concordent avec leur témoignage. Je n’ai rien trouvé dans le témoignage de M. Rumas qui permettrait d’établir une distinction importante entre le programme de l’Université Western et celui de l’Université d’Ottawa ou celui généralement décrit par Mme Trowell.
+[36] Mme Sharon Cameron, directrice des études postdoctorales en médecine à la l’Université McMaster, M Jordan Sinnett, directeur du programme de résidence à l’Université Queen’s, et Mme Loretta Muharuma, directrice des opérations, bureau des études postdoctorales de la faculté de médecine de l’Université de Toronto, ont également témoigné. Leur témoignage était compatible avec le témoignage antérieur. La seule différence qu’il pourrait y avoir concerne les programmes « demi-journée académique ». À l’Université McMaster, chaque programme comporte sa propre demi‑journée académique qui est obligatoire. Mme Muharuma a expliqué que les programmes « demi‑journée académique » à l’Université de Toronto sont contrôlés par chaque département de la faculté, qui a son propre programme d’études, et ne sont pas contrôlés d’une manière centrale. Elle a témoigné que le programme demi‑journée académique est obligatoire en neurologie, mais qu’elle ne savait pas ce qu’il en était pour les autres spécialités. Tous les témoins ont confirmé que leur université délivre des certificats aux résidents ayant réussi leur programme d’études afin de leur permettre de se présenter aux examens du Collège Royal ou du CMFC.
+[37] Je tiens à réitérer la position de la Couronne :
+a) chacun des appelants consacre moins de dix heures par semaine aux cours d’un programme au sens de l’expression « programme de formation admissible » au paragraphe 118.6(1) de la Loi;
+b) aucun des appelants n’est un « étudiant à temps plein », encore moins un étudiant, et, par conséquent, ils ne sont pas admissibles et ne peuvent pas déduire de montant à titre crédit d’impôt pour études suivant le paragraphe 118.6(2) de la Loi;
+c) aucun appelant n’est inscrit à un programme de formation admissible comme étudiant à temps plein d’un établissement d’enseignement agréé.
+[38] L’avocat de l’intimée a soutenu que, compte tenu du fait que l’expression « étudiant à temps plein » au paragraphe 118.6(2) de la Loi n’est pas définie, il faudrait se référer à l’expression, telle qu’elle est employée dans la législation d’[traduction] « accompagnement », à savoir les règlements pris en vertu de la Loi fédérale sur les prêts aux étudiants (la « LFPE ») et de la Loi fédérale sur l’aide financière aux étudiants (la « LFAFE »). L’expression « étudiant à temps plein » est définie au paragraphe 2(1) du Règlement fédéral sur les prêts aux étudiants[5] pour l’application de la LFPE et de ses règlements de la manière suivante :
+« étudiant à temps plein » Personne :
+"full‑time student" means a person
+a) qui, durant une période confirmée d’une période d’études, est inscrite à des cours qui représentent, par rapport au nombre de cours que l’établissement d’enseignement agréé exige pour reconnaître que des études sont suivies à temps plein :
+(a) who, during a confirmed period within a period of studies, is enrolled in courses that constitute
+[…]
+…
+(ii) soit au moins 60 pour cent de ce nombre, dans les autres cas;
+(ii) at least 60 per cent of a course load recognized by the specified educational institution as constituting a full course load, in any other case,
+b) dont la principale activité pendant les périodes confirmées de cette période d’études est de suivre ces cours;
+(b) whose primary occupation during the confirmed periods within that period of studies is the pursuit of studies in those courses, and
+c) qui se conforme aux exigences du paragraphe 3(1). (full‑time student)
+(c) who complies with the requirements of subsection 3(1); (étudiant à temps plein)
+[39] Pour l’application du règlement concernant la LFAFE, le terme « cours » est ainsi défini :
+2(1) […]
+Formation ou enseignement formels constituant un élément essentiel d’un programme d’études de niveau postsecondaire offert à un établissement d’enseignement agréé, ou considéré comme tel par cet établissement. La présente définition ne comprend ni l’enseignement formel ni la formation pratique requis pour l’adhésion à une corporation professionnelle ou l’exercice d’un métier ou d’une profession, sauf si cet enseignement ou cette formation est nécessaire à l’obtention d’un diplôme ou d’un certificat de l’établissement agréé. (course)
+2(1) …
+formal instruction or training that constitutes, or is determined by a specified educational institution to be equivalent to, an essential element of a program of studies at a post‑secondary school level at that specified educational institution but does not include any formal instruction or practical training required for acceptance in a professional corporation or for the practice of any trade or profession, unless that formal instruction or practical training is necessary to obtain a degree, certificate or diploma from that specified educational institution; (cours)
+[40] Les définitions des expressions « étudiant à temps plein » et « cours » figurant dans la LFAFE[6] sont identiques aux définitions de ces expressions mentionnées dans le règlement concernant la LFPE.
+[41] Pour être considéré comme un « étudiant à temps plein » pour l’application du règlement concernant la FLPE et du règlement concernant la LFAFE, l’activité principale de la personne doit être de « suivre ces cours » auxquelles elle est inscrite. Et un « cours » est une « formation » ou un « enseignement » formels constituant des études de niveau postsecondaire offertes à un établissement d’enseignement agréé. Cette définition ne comprend ni l’enseignement ni la formation requis pour l’adhésion à une corporation professionnelle, telle que le Collège royal ou le CMFC, sauf si — et il s’agit ici d’un « sauf » important — cet enseignement ou cette formation est nécessaire à l’obtention d’un certificat de l’établissement agréé, c’est‑à‑dire l’université, en l’espèce.
+[42] Selon la Couronne, l’activité principale du résident est celle d’un employé de l’hôpital et non celle d’un étudiant. La seule fois où un résident n’est pas un employé de l’hôpital au cours de son programme de résidence, c’est lorsqu’il n’est pas rémunéré. Et la seule fois où le résident n’est pas rémunéré est lorsqu’il participe aux programmes demi‑journée académique. La partie du programme de résidence qu’occupent les demi‑journées académiques est inférieure à dix heures par semaine. Les « études » qui sont rémunérées ne peuvent pas être incluses dans les dix heures par semaine que le résident doit consacrer à un programme de formation admissible. La Couronne estime qu’un résident ne peut pas être à la fois un étudiant à temps plein et un employé à temps plein.
+[43] La Couronne a renvoyé à l’arrêt Mayo Foundation for Medical Education and Research et al. v. United States[7]. Dans cet arrêt, la Mayo Foundation a demandé à la Cour suprême des États-Unis de conclure que le département américain du Trésor n’avait pas compétence pour établir une règle selon laquelle les résidents en médecine étaient tenus de payer une cotisation sociale. La Cour suprême des Etats-Unis a confirmé l’arrêt de la Cour d’appel des États‑Unis pour le huitième circuit[8]. L’Internal Revenue Code ne définit pas le terme « étudiant » ni ne parle de résidents en médecine. La Cour a conclu qu’en se concentrant sur le nombre d’heures travaillées et le nombre d’heures consacrées aux études, on pouvait raisonnablement établir une distinction entre les travailleurs qui poursuivaient des études et les étudiants qui travaillaient : les employés qui effectuaient des heures de travail suffisamment longues pour être considérés comme des employés à temps plein répondaient à la mesure conventionnelle prévue du temps de travail. La règle n’établissait pas de distinction entre la formation en salle de classe et la formation clinique. Il a été conclu que l’intention du Congrès était de faire en sorte que les résidents — qui effectuaient de longues heures de travail, étaient hautement qualifiés, et bénéficiaient généralement de conditions de travail dont certaines ou toutes étaient semblables à celles des personnes qui poursuivaient une carrière — participent à l’atteinte des objectifs du Social Security Act et en bénéficient.
+[44] La Cour d’appel des États-Unis a conclu que le département du Trésor avait compétence pour établir la règle.
+[45] L’avocat de l’intimée a également renvoyé aux motifs du jugement rendus par mon collègue le juge Archambault, dans la décision Chabaud c. La Reine[9]. Le Dr Chabaud détenait un doctorat en biologie moléculaire et avait reçu un revenu de 36 101 $ (c’est‑à‑dire, 36 601 $ — 500 $) pour effectuer des travaux de recherche en laboratoire. Le ministre n’a pas nié le fait que les 36 601 $ constituaient une bourse d’études ou de perfectionnement (fellowship) au sens du sous‑alinéa 56(1)a) de la Loi, mais a estimé que le contribuable n’avait droit à aucune exemption pour un montant excédant 500 $ au titre du sous‑alinéa 56(3)a) de la Loi, parce que le contribuable n’était pas un étudiant et, ainsi, n’avait pas droit à un crédit d’impôt pour études.
+[46] Le juge Archambault a rejeté l’appel au motif que les 36 601 $ ne pouvaient pas constituer une bourse d’études, une bourse de perfectionnement ou une subvention de recherches, parce qu’ils n’avaient pas été payés au contribuable en tant qu’aide financière. Les 36 601 $ avaient été reçus en tant que revenu d’emploi; le contribuable était un employé du laboratoire où il menait ses travaux de recherche.
+[47] Pour conclure que le Dr Chabaud était un employé, le juge Archambault a formulé les observations suivantes :
+[…] il n’existe aucune différence pertinente entre le travail de stagiaire chercheur exécuté par M. Chabaud et celui du stagiaire en droit, du résident en médecine, du stagiaire en comptabilité ou de l’apprenti. Tous doivent acquérir plus d’expérience avant de passer à la prochaine étape de leur carrière. Il est de connaissance judiciaire que les médecins résidents, tout comme les stagiaires en droit, doivent travailler plusieurs mois sous la supervision d’un « patron » ou d’un « maître de stage » avant d’être admissibles à leur ordre professionnel respectif. Durant cette période, ils reçoivent une rémunération pour leur travail, tout en acquérant une plus grande expérience dans leur domaine respectif.
+[48] Ni l’arrêt Mayo Foundation ni la décision Chabaud ne sont utiles. Dans les deux cas, il a été conclu les personnes concernées étaient des employés. Dans l’affaire Mayo Foundation, la Cour suprême des États‑Unis devait décider si les résidents étaient soit des employés soit des étudiants; ils ne pouvaient pas avoir les deux statuts selon la loi sur la sécurité sociale. Telle n’est pas la situation en l’espèce. Dans la décision Chabaud, la Cour a conclu que le Dr Chabaud, qui ne suivait pas des cours d’un programme de formation admissible, mais qui effectuait de la recherche, était un employé. En l’espèce, les appelants ne contestent pas qu’ils sont des employés. Mme Trowell a décrit les résidents comme étant des personnes ayant un statut double, celui d’étudiant et celui d’employé.
+[49] L’intimée cherche à donner une importance particulière au statut d’employé contrairement à celui d’étudiant pour les résidents. Ainsi, l’avocat de l’intimée a renvoyé aux règlements pris en vertu de la LFPE et de la LFAFE quant au nombre de cours que l’université exige pour reconnaître que des études sont suivies à temps plein et, en particulier, que la principale activité de l’étudiant à temps plein est de suivre ces cours.
+[50] Le paragraphe 118.6(1) de la Loi renvoie à la fois à la LFPE et à la LFAFE pour définir l’expression « établissement d’enseignement agréé ». Le paragraphe 118.6(2) de la Loi exige que l’étudiant soit inscrit à « temps plein » pour qu’il ait le droit de demander un crédit d’impôt pour études; pourtant, le législateur ne définit pas cette expression dans la Loi ni ne mentionne la définition de l’expression « étudiant à temps plein » dans d’autres lois, comme il l’a fait en ce qui concerne l’expression « établissement d’enseignement agréé ». L’expression « étudiant à temps plein » qui figure dans les règlements pris en vertu de la LFPE et de la LFAFE n’est pas définie pour l’application de l’article 118.6 de la Loi.
+[51] Pour avoir droit au crédit d’impôt pour études, le paragraphe 118.6(2) de la Loi exige entre autres que le particulier soit inscrit à un programme de formation admissible comme étudiant à temps plein d’un établissement d’enseignement agréé. Chacun des témoins a reconnu que les résidents qui participent au programme de résidence de leur université sont inscrits comme étudiants à temps plein à l’université.
+[52] L’intimée soutient que le programme de résidence n’est pas offert à un établissement d’enseignement agréé, mais qu’il se déroule à un hôpital et non à une université, au sens du paragraphe 118.6(1) de la Loi.
+[53] Les facultés et les écoles de médecine des universités sont responsables des programmes de résidence. Le résident éventuel présente une demande à l’université pour être admis au programme de formation postdoctorale de l’université. La décision d’accepter ou de refuser la demande appartient à l’université. Il n’y a pas de droits de scolarité qui sont facturés aux résidents, mais le gouvernement de l’Ontario considère ceux‑ci comme des étudiants à temps plein pour l’octroi de subventions financières aux universités. Les enseignants sont des médecins nommés par l’université à divers rangs professoraux. L’université considère les résidents comme des étudiants à temps plein. Elle détermine si un résident peut passer à l’étape suivante dans le programme de résidence. L’université peut prendre des mesures disciplinaires à l’égard d’un résident, et la décision lie l’hôpital. Il est vrai que la partie clinique du programme se déroule à l’hôpital − et c’est la partie la plus importante du programme − mais elle exercée sous le couvert et sous la tutelle de l’université.
+[54] À la lecture du paragraphe 118(6) de la Loi, je ne trouve pas du tout illogique qu’une personne puisse être à la fois un étudiant à temps plein et un employé à temps plein ou même qu’elle puisse exploiter sa propre entreprise à temps plein tout en étant étudiant à temps plein. Ce n’est pas la situation que préfère la personne ordinaire, mais ce n’est pas un choix peu fréquent que de nombreuses personnes, aussi bien des résidents que d’autres, sont obligées de faire.
+[55] La définition de l’expression « programme de formation admissible » renvoie à un étudiant qui suit le programme et qui consacre au moins dix heures par semaine « aux cours ou aux travaux » du programme. Le terme « ou » qui figure dans l’expression « cours ou travaux » à la définition de l’expression « programme de formation admissible » au paragraphe 118.6(1) de la Loi doit être conjonctif. Le terme « ou » permet à un particulier de suivre un programme de formation admissible qui est entièrement composé de cours théoriques ou un programme qui consiste entièrement en des travaux. Suivant l’expression, un particulier peut également suivre un programme de formation admissible qui est composée à la fois de cours théoriques et de travaux, ce qui est le cas en l’espèce. Et ce n’est pas parce qu’une personne est rémunérée pour son travail qu’elle ne peut pas être considérée comme un étudiant. Nous ne sommes pas à l’époque du contrat de services gratuits.
+[56] Le sous‑alinéa 118.6a)(ii) de la Loi définit l’expression « établissement d’enseignement agréé » de manière à y inclure un établissement d’enseignement reconnu par le ministre des Ressources humaines et du Développement des compétences comme offrant à une personne des cours qui visent à donner ou augmenter la compétence nécessaire à l’exercice d’une activité professionnelle. Ainsi, le législateur a envisagé des situations dans lesquelles des particuliers exerçant une activité professionnelle qui n’est pas de nature universitaire peuvent s’inscrire à un programme d’études afin d’acquérir la compétence nécessaire à l’exercice de cette activité professionnelle. Le programme d’études peut être composé à la fois de cours et de travaux. En d’autres termes, ces particuliers exercent leur activité professionnelle en même temps qu’ils prennent des cours afin d’acquérir des compétences ou d’améliorer les compétences qu’ils possèdent pour l’accomplissement de leur travail. Ces particuliers qui consacrent au moins dix heures à des cours ou des travaux à un établissement d’enseignement agréé pour une durée minimale de trois semaines consécutives peuvent avoir droit à un crédit d’impôt pour études.
+[57] Les mêmes principes s’appliquent aux résidents. Je ne puis souscrire à l’argument selon lequel ils n’ont pas droit à un crédit d’impôt pour études s’ils répondent aux exigences du sous‑alinéa 118.6(1)a)(i) de la Loi et du paragraphe 118.6(2) de la Loi et s’ils sont inscrits en tant qu’étudiants à temps plein. L’avocat de l’intimée m’a surpris avec son argument selon lequel il ne serait pas raisonnable ou équitable pour les stagiaires en droit cherchant à obtenir leur admission au barreau ou les étudiants qui apprennent la comptabilité et qui souhaitent devenir des comptables professionnels agréés que j’accorde aux résidents le droit de demander les crédits d’impôt pour études. Selon ce que j’ai compris, les cours offerts à des stagiaires en droit et à des étudiants qui apprennent la comptabilité en Ontario ne sont pas offerts par un établissement d’enseignement agréé et il s’agirait de l’une des raisons pour lesquelles ils n’auraient pas le droit de demander le crédit d’impôt pour études. Les contribuables se plaignent souvent du caractère inéquitable de la Loi et, souvent, leurs plaintes sont fondées. Toutefois, c’est la première fois, en trente ans de carrière comme juge, que j’entends la Couronne avancer qu’elle serait lésée parce que la Loi n’est peut-être pas équitable.
+[58] Les appels sont accueillis avec dépens entre parties.
+Signé à Ottawa, Canada, ce 17e jour de février 2014.
+« Gerald J. Rip »
+Juge en chef Rip
+Traduction certifiée conforme
+ce 15e jour d’avril 2014.
+Espérance Mabushi, M.A. Trad. Jur.
+RÉFÉRENCE : 2014 CCI 47
+Nos DES DOSSIERS DE LA COUR : 2013-1263(IT)I, 2012‑4474(IT)I, 2013‑2385(IT)I, 2013‑735(IT)I, 2013‑1509(IT)I, 2013‑1793(IT)I, 2013‑2596(IT)I, 2013‑2592(IT)I, 2013‑2597(IT)I, 2012‑4621(IT)I et 2013‑89(IT)I
+INTITULÉ : THILEEBAN KANDASAMY c. LA REINE
+COLLIN TERPSTRA c. LA REINE
+JENNY PEIH‑CHIR TSAI c. LA REINE
+ANDREW YADEGARI c. LA REINE
+THOMAS HAVEY c. LA REINE
+HILARY MYRON c. LA REINE
+SASSAN GHAZAN-SHAHI c. LA REINE
+BITA HASHEMI c. LA REINE
+BRENDON TROTTER c. LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATES DE L’AUDIENCE : Les 9 et 10 janvier 2014
+MOTIFS DU JUGEMENT : L’honorable juge en chef Gerald J. Rip
+DATE DU JUGEMENT : Le 17 février 2014
+COMPARUTIONS :
+Avocats des appelants :
+Me Steven Barrett
+Me Derrick McIntosh
+Avocats de l’intimée :
+Me John Grant
+Me Rishma Bhimji
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom : Derrick McIntosh
+Cabinet : Sack, Goldblatt Mitchell LLP
+Toronto (Ontario)
+Pour l’intimée : William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Selon ce que j’ai compris, la procédure est semblable dans les autres provinces.
+[2] Il y a six universités en Ontario qui offrent un doctorat en médecine ainsi que des programmes postdoctoraux qui permettent aux étudiants d’être admissibles à l’obtention d’un permis d’exercice de la médecine en Ontario. En plus des universités figurant sur la liste ci‑dessus, il faut mentionner l’École de médecine du Nord de l’Ontario située à Sudbury.
+[3] 2010 CCI 147, 2010 D.T.C. 1138.
+[4] Les renseignements de Mme Trowell sont fondés sur des lettres provenant de divers représentants de l’Université Queen’s, de l’Université McMaster et de l’Université de Toronto ainsi que de l’Ontario Operating Funds Distribution Manual (art. 3.2.1), documents qui sont tous annexés à l’affidavit.
+[5] DORS / 93‑392.
+[6] Le paragraphe 2(2) de la LFAFE, DORS/95‑329.
+[7] 131 S.Ct. 704 (2011).
+[8] 568 F. 3d 675. Voir aussi Minnesota v. Apfel, 151 F 3rd 742 (8th Cir. 1998).
+[9] 2011 CCI 438, 2011 DTC 1313, 2012 DTC 1076 [Trad. Angl.].

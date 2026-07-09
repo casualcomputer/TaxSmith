@@ -1,0 +1,183 @@
+Title: Landrek Inc. v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28593/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-137-28593-landrek-inc-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2008-04-03
+
+# Landrek Inc. v. M.N.R.
+
+- Citation: 2008 TCC 137
+- Decision date: 2008-04-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1060, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Landrek Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-04-03
+Neutral citation
+2008 TCC 137
+File numbers
+2007-3925(EI)
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2007-3925(EI)
+BETWEEN:
+LANDREK INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on February 27, 2008, at Québec, Quebec
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel for the Appellant:
+Jérôme Carrier
+Counsel for the Respondent:
+Sylvain Ouimet
+____________________________________________________________________
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act is dismissed and the decision of the Minister of National Revenue is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 3rd day of April 2008.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 16th day of May 2008.
+Brian McCordick, Translator
+Citation: 2008TCC137
+Date: 20080403
+Docket: 2007-3925(EI)
+BETWEEN:
+LANDREK INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal from a decision that the work done by Marc Landry from January 1, 2003 to December 31, 2005, and from January 1, 2006 to December 31, 2006, for the Appellant Landrek Inc., was an insurable contract of service even though it would normally be excluded under paragraph 5(2)(i) of the Employment Insurance Act ("the Act").
+[2] Specifically, the Minister of National Revenue ("the Minister") determined that the Appellant and the Worker were deemed to be dealing with each other at arm's length because he was satisfied, after analyzing all the relevant facts, that the Appellant and the Worker would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[3] The Minister made his decision based on the following assumptions of fact:
+[TRANSLATION]
+5. . . .
+(a) The Appellant was incorporated on October 21, 1991. (admitted)
+(b) The Appellant operated a business that manufactured wooden frames and distributed wooden doors and hardware. (admitted)
+(c) The Appellant operated throughout the year. (admitted)
+(d) The business was open Monday to Friday from 8 a.m. to 5 p.m. (admitted)
+(e) The Appellant's sales, as at October 31, 2006, amounted to $1,375,329. (admitted)
+(f) The Appellant employed three of the shareholders and 11 additional workers during the peak periods. (denied)
+(g) The Worker began working for the Appellant in 1991. (denied)
+(h) The Worker was a sales representative at the showroom and on the road; he met with customers and provided estimates. (admitted)
+(i) The Worker also hired personnel and supervised the plant's employees. (admitted)
+(j) The Worker worked 32 to 40 hours a week for the Appellant. (denied)
+(k) The Worker had no fixed schedule but was generally asked to perform his services during the business's hours of operation. (denied)
+(l) The Worker was paid $42,000 a year. (admitted)
+(m) During the period in issue, the Worker received the following bonuses, which were determined by the board of directors: $12,000 in 2003; no bonus in 2004; $6,500 in 2005; and $7,000 in 2006. (admitted)
+(n) The salary was paid to the Worker regularly each week by cheque. (admitted)
+(o) Travel expenses actually incurred by the Worker were reimbursed by the Appellant. (admitted)
+(p) Like all employees, the Worker had income protection and group prescription drug insurance. (admitted)
+(q) The Worker had six weeks of annual vacation. (denied)
+(r) Decisions important to the Appellant were made by the directors. (denied)
+(s) The Appellant had the right to exercise control over the Worker and made use of that right. (denied)
+6. . . .
+(a) The Appellant's voting shareholders were (admitted)
+Claude Landry
+Denis Landry
+The Worker
+Luc Landry
+26% of the shares
+26% of the shares
+26% of the shares
+22% of the shares
+(b) Claude Landry, Denis Landry, Luc Landry and the Worker are brothers. (admitted)
+(c) The Worker is related by blood to a group of persons that control the Appellant. (admitted)
+7. . . .
+(a) The Worker's salary and bonus were decided by agreement among the directors. (admitted)
+(b) The Worker's annual remuneration, including the bonuses, varied from $45,316 to $55,656 for the years 2003 to 2006, which are in issue. (admitted)
+(c) The Worker received the same annual remuneration and same bonuses as the two other shareholding workers. (admitted)
+(d) The Appellant also paid bonuses of $200 to $800 to unrelated employees. (admitted)
+(e) Having regard to his duties and responsibilities with the Appellant, the Worker's remuneration was reasonable. (denied)
+(f) The Worker had been working for the Appellant for several years. (admitted)
+(g) The Worker worked for the Appellant throughout the year. (admitted)
+(h) The duration of the Workers' employment was reasonable. (denied)
+(i) The Appellant's employees had two weeks of winter vacation and two weeks of summer vacation. Another employee had five weeks, and Claude and Denis Landry had six weeks. (denied)
+(j) The Appellant considers Claude and Denis Landry employees. (admitted)
+(k) The Worker and his brothers are governed by a shareholders' agreement and the terms and conditions of the employments are decided by the directors. (denied)
+(l) The Appellant had an active corporate life, with two or three directors' meetings a year. (admitted)
+(m) The Worker's work was necessary and important to the sound operation of the Appellant's business. (admitted)
+(n) The terms and conditions of the Worker's employment, as well as its nature and importance, were reasonable. (denied)
+[4] First of all, the facts alleged in subparagraphs 5 (a), (b), (c), (d), (e), (h), (i), (l), (m), (n), (o) and (p) and in subparagraphs 7 (a), (b), (c), (d), (f), (g), (j), (l) and (m) were admitted; the others, namely subparagraphs 5(f), (g), (j), (k), (q), (r), (s) and 7(e), (h), (i), (k) and (n), were denied.
+[5] Marc Landry testified. He explained that he worked as a traveling salesperson selling wooden frames, wooden doors and hardware starting in the early 1980s.
+[6] In 1984, he began working as a sales representative for Valco Métal Inc., a company that had $5 to $6 million in annual sales.
+[7] He received a 5% commission for his work as a salesperson. This corresponded to an annual salary of approximately $35,000, which included all expenses incurred in the performance of his duties. He described himself as self‑employed.
+[8] One of Marc Landry's brothers was working for the same company at the time. The company in question went bankrupt in the early 1990s, whereupon Marc Landry and his two brothers decided, along with their parents, to create the Appellant corporation. Each person owned 20% of the corporation's share capital.
+[9] The business that was created essentially worked in the same field as Valco Métal Inc.
+[10] The new company's clientele, which consisted primarily of building contractors, was essentially the same as that of Valco Métal Inc.
+[11] Marc Landry explained that purchases made by building contractors accounted for 90% of the business's sales, and purchases made by walk-in customers at the industrial park location accounted for 10% of sales.
+[12] When Marc Landry's mother died, her 20% of the share capital was bequeathed to Marc Landry's father, who consequently held 40% of the share capital.
+[13] Marc Landry's father then sold the 20% that he inherited from his spouse to Luc Landry, Marc's brother. However, Luc Landry did not do any remunerated work for the Appellant corporation.
+[14] Later on, the father sold his original 20% of the share capital as follows: 6% to Claude, 6% to Denis, 6% to Marc, and, lastly, 2% to Luc.
+[15] Marc Landry then explained that he and his brothers Claude and Denis essentially had the same duties and shared the territory in which they sold various products, chiefly wooden doors and frames. All three brothers were concerned about the quality of the service offered to the companies with which they were doing business.
+[16] The annual sales were more or less the same every year. Marc Landry's brothers refused to consider the idea of expanding or developing their business. There were a few reasons for this, including the fact that the premises where the work was done were of limited size and did not permit the business to expand.
+[17] Marc Landry explained that his brothers were clearly content with the status quo and were contemplating eventual retirement.
+[18] He explained that, during the high season, which ran from March to October, they worked roughly 35 hours a week, while from November to February they worked approximately 25 to 30 hours a week.
+[19] The business hired roughly seven people during the busiest period, whereas only four employees were sufficient to meet demand during the slow period, and a secretary-receptionist looked after the office and showroom. Marc Landry explained that she was the person who most often made the sales to individuals.
+[20] At first, the work done at the plant was managed by a foreperson. Once the employees were sufficiently familiar with their work, the foreperson position was left vacant when the last incumbent left.
+[21] Mr. Landry explained that a shareholders' agreement was signed; under its terms, unanimity was required in order to pay a dividend, and since unanimity could not be achieved, the Appellant corporation never paid any dividends.
+[22] However, bonuses could be paid with the approval of a majority of votes. Thus, the shareholders and employees were paid a bonus, though the amount granted to the shareholders was much more generous than the amount granted to the employees.
+[23] Marc Landry asserted that the expenses incurred in the course of his work were reimbursed by the Appellant. As for travel expenses, he used his personal car, but the Appellant reimbursed related expenses at the same rate that the government pays its employees.
+[24] The wage paid to plant employees varied from $11.00 to $12.25 an hour and the terms and conditions of their employment were absolutely not comparable to those of Marc, Claude and Denis Landry, the three shareholders who each held 26% of the shares.
+[25] Marc Landry ended his testimony by stating that he disagreed with the idea of paying employment insurance premiums because he would never receive any employment insurance benefits.
+[26] He also stated that when he was working for Valco Métal Inc., he was a self‑employed salesperson and did not have to pay any employment insurance premiums.
+[27] Mr. Landry testified in such a clear, simple and very direct fashion that the overall picture of the situation and the relevant circumstances were established very quickly and in a manner that left no room for any confusion or interpretation.
+[28] In fact, no new considerations emerged from the evidence.
+[29] The Appellant denied subparagraph 5(f) because it never had 11 workers, just seven or eight of them; as for subparagraph (j), the Worker worked 35 hours a week, not 32 to 40 hours; and as for subparagraph (k), the evidence showed that it was consistent with the facts. The contents of subparagraphs (k) and (r) were confirmed by Mr. Landry's testimony. As far as subparagraph 5(s) is concerned, this is a question of law. Mr. Landry's testimony was very revealing in this regard: his brothers exercised true control and ensured that things were going properly and meeting their expectations.
+[30] Lastly, the Appellant denied subparagraphs 7 (e), (h), (i), (k) and (n), essentially for reasons of interpretation. It is true that different people may have different views of what is reasonable.
+[31] The approach taken by counsel for the Appellant, which is based on a comparison between the terms and conditions of people who work for the company, warrants a finding that the situation was completely unreasonable.
+[32] However, things are completely different when the question of what is reasonable is assessed having regard to a comparable situation where the shareholders are at arm's length from each other and not related. The comparison with the salary paid to the employees is neither appropriate nor relevant.
+[33] In the case at bar, the investigation obtained all the relevant facts and the analysis that followed was completely sound. Consequently, its findings are completely reasonable.
+[34] Moreover, Marc Landry made several assertions that discredited the Appellant corporation's case.
+[35] He admitted that he was an employee. He admitted that he might have had to pay a similar wage to an outsider who had the same duties as he did.
+[36] In fact, in this regard, he explained that the appeal was a personal matter, because he disagreed with the idea of having to pay employment insurance premiums knowing all the while that he would never receive any benefits.
+[37] He added that he did not pay such premiums when he was a self-employed salesperson for another company that did business in the same field.
+[38] It must be understood that employment insurance premiums are not payable on a voluntary basis. They must be paid if the work was done in accordance with the parameters contained in the Act.
+[39] The burden of proof was on the Appellant. However, the Appellant did not show that the Minister's analysis was deficient in any respect. Rather, it confirmed that the findings of the analysis were correct.
+[40] In this regard, the clarity, simplicity and spontaneity of the answers given by Mr. Landry greatly simplified the Court's task of deciding whether the Minister's work and findings were reasonable; indeed, Mr. Landry's unambiguous admissions and assertions confirm that the decision under appeal was well-founded.
+[41] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 3rd day of April 2008.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 16th day of May 2008.
+Brian McCordick, Translator
+CITATION: 2008TCC137
+COURT FILE NO.: 2007-3925(EI)
+STYLE OF CAUSE: LANDREK INC. AND M.N.R.
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: February 27, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: April 3, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Jérôme Carrier
+Counsel for the Respondent:
+Sylvain Ouimet
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Jérôme Carrier
+Firm: Lévis, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

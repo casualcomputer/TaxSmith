@@ -1,0 +1,274 @@
+Title: Ngai c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29324/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-370-29324-ngai-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-07-21
+
+# Ngai c. La Reine
+
+- Citation: 2009 CCI 370
+- Decision date: 2009-07-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7063, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ngai c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-07-21
+Référence neutre
+2009 CCI 370
+Numéro de dossier
+2007-3220(IT)G
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-3220(IT)G
+ENTRE :
+CYNTHIA NGAI,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appels entendus le 2 mars 2009, à Toronto (Ontario)
+Devant : L'honorable juge en chef Gerald J. Rip
+Comparutions :
+Avocats de l'appelante :
+Me John David Buote
+Me Stella Kyriacou
+Avocat de l'intimée :
+Me Laurent Bartleman
+________________________________________________________________
+JUGEMENT
+Les appels interjetés à l'encontre des cotisations établies en vertu de la Loi de l'impôt sur le revenu (la « Loi ») pour les années d'imposition 1999, 2000 et 2001 sont accueillis et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations suivant ce qui est mentionné aux paragraphes 41, 46, 47, 52, 53, 54, 55, 56, 57, 58 et 59 des motifs du jugement.
+Les appels interjetés à l'encontre des cotisations établies en vertu de la Loi pour les années d'imposition 2002 et 2003 sont rejetés.
+L'intimée aura droit à 66 ⅔ % de ses dépens.
+Signé à Ottawa, Canada, ce 21e jour de juillet 2009.
+« Gerald J. Rip »
+Le juge en chef Rip
+Traduction certifiée conforme
+ce 11e jour de janvier 2010.
+Yves Bellefeuille, réviseur
+Référence : 2009 CCI 370
+Date : 20090721
+Dossier : 2007-3220(IT)G
+ENTRE :
+CYNTHIA NGAI,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge en chef Rip
+[1] Les présentes sont les motifs du jugement rendu à l'égard des appels interjetés par Cynthia Ngai à l'encontre des cotisations d'impôt sur le revenu établies pour les années 1999, 2000, 2001, 2002 et 2003 dans lesquelles le ministre du Revenu national (le « ministre ») a refusé la déduction de dépenses demandée par l'appelante en partant du principe qu'elle n'exploitait pas d'entreprise. À titre subsidiaire, le ministre se demande si, dans l'éventualité où l'appelante exploitait une entreprise, les dépenses dont la déduction était demandée a) avaient été faites en vue de tirer un revenu d'une entreprise, comme l'exige l'alinéa 18(1)a) de la Loi de l'impôt sur le revenu (la « Loi »), et b) étaient raisonnables dans les circonstances, suivant l'article 67 de la Loi. Le ministre allègue également que certaines des dépenses dont l'appelante avait demandé la déduction étaient des frais personnels, ce qui contrevient à l'alinéa 18(1)h) de la Loi.
+[2] Avant l'audience, les avocats de l'appelante et de l'intimée ont convenu des montants qui seraient en litige si la Cour arrivait à la conclusion qu'une entreprise était exploitée pendant l'une des années visées par l'appel. Ces montants apparaissent à l'annexe A des présents motifs.
+[3] En 1998, Mme Ngai a acheté de la Chine des meubles en bois de style Ming remis à neuf afin de les revendre en Amérique du Nord. Elle avait acheté les meubles avec l'aide de sa soeur à Hong Kong qui [TRADUCTION] « avait de l'expérience avec la Chine » parce qu'elle travaillait pour une société d'import‑export. Sa soeur lui avait montré des photographies de meubles et lui avait recommandé lesquels acheter.
+[4] La soeur de Mme Ngai avait financé l'achat des meubles. Aucun accord formel n'avait été conclu concernant le remboursement du prêt consenti pour l'achat des meubles; le prêt ne portait pas intérêt.
+[5] L'entreprise a été exploitée par Mme Ngai dans la région de Toronto. L'appelante a enregistré le nom « commercial » « Things U Select » en décembre 1998. La marchandise en provenance de la Chine devait arriver à Toronto au printemps 1999. Madame Ngai a également demandé un prêt bancaire en 1999, et on lui a accordé une marge de crédit d'exploitation.
+[6] Avant l'arrivée des stocks, Mme Ngai a cherché un endroit où elle pourrait vendre la marchandise. Elle est allée voir des marchés aux puces et des marchés d'antiquités dans la région de Toronto. Elle a également conçu une page Web, car elle espérait pouvoir vendre des meubles aux États‑Unis.
+[7] Madame Ngai n'avait jamais vendu de meubles chinois. Lorsqu'elle était enfant, elle avait travaillé dans le magasin de ses parents à Hong Kong. Elle a dit qu'elle avait également exploité une entreprise de graphisme et de linotypie en Angleterre de 1974 à 1987. Au Canada, Mme Ngai a vendu de l'assurance‑vie et de la publicité. Elle a également vendu des machines à coudre et des livres lors de diverses expositions, notamment l'Exposition nationale canadienne. L'appelante a dit qu'elle avait suivi un cours de commerce de [TRADUCTION] « quelques semaines ». Lors du contre‑interrogatoire, elle n'a pas pu dire quel revenu il aurait fallu que l'entreprise génère pour être rentable.
+[8] Lorsque Mme Ngai a été mise à pied en 1998, elle s'est rendue à Hong Kong pour assister aux funérailles d'un de ses parents. C'est à ce moment‑là qu'elle a décidé de vendre des meubles parce que cela avait l'air [TRADUCTION] « intéressant et excitant ». À titre de préparation en vue d'exploiter son entreprise, elle a notamment interrogé des gens à Hong Kong et fait des recherches sur l'internet. En faisant une recherche avec « Google » au sujet des meubles chinois, elle a découvert qu'il y avait un marchand dans le quartier Yorkville, à Toronto, qui vendait des meubles [TRADUCTION] « très chers ». Elle a visité ce magasin.
+[9] Les stocks sont arrivés à des moments différents, au printemps 1999 et plus tard. L'appelante a reçu environ 200 meubles, tous assemblés, ainsi que plus de 1 200 tables portatives ou plateaux, qui mesuraient chacun 11 pouces par 14 pouces. Au total, 2 178 articles ont été envoyés à l'appelante aux fins de vente. Il s'agit des seuls stocks qu'elle a reçus. Elle a dit que certains des meubles étaient [TRADUCTION] « très encombrants ». Certains des meubles étaient [TRADUCTION] « énormes » et lourds et ne correspondaient pas aux styles américains. Elle a par la suite acheté certains accessoires pour rendre les meubles plus attrayants.
+[10] Au printemps 1999, Mme Ngai a loué quatre kiosques à un marché aux puces situé à Pickering. Chaque kiosque mesurait 10 pieds par 10 pieds; un kiosque était utilisé pour vendre les meubles et les trois autres étaient utilisés aux fins d'entreposage. Plus tard, elle a entreposé une partie des meubles dans un entrepôt en libre service afin de [TRADUCTION] « réduire les coûts le plus possible ».
+[11] Madame Ngai a loué un kiosque à la mi‑juillet 1999 au marché d'antiquités de Harbourfront, dans le quartier touristique du centre‑ville de Toronto. Le marché de Harbourfront était ouvert sept jours par semaine, de 9 h à 21 h, et Mme Ngai a dit qu'elle [TRADUCTION] « était là tous les jours ». En 1999, Mme Ngai n'a rien vendu au marché de Harbourfront.
+[12] Le marché de Harbourfront exigeait que les kiosques soient loués pour une période d'un an, et les kiosques du marché de Pickering étaient loués à la semaine.
+[13] Une des soeurs de l'appelante, Patricia Ngai, qui demeurait également à Toronto, s'occupait de l'un des kiosques pendant que Mme Ngai s'occupait de l'autre kiosque. Madame Ngai a dit qu'elle ne pouvait pas être à deux endroits à la fois. Elle ne se souvenait pas combien de temps elle avait passé à chacun des kiosques. Madame Ngai a expliqué que le marché de Harbourfront était un marché d'antiquités [TRADUCTION] « de luxe », tandis que le marché de Pickering était un marché aux puces où l'on vendait des [TRADUCTION] « articles bon marché ». Les gens allaient au marché aux puces pour dénicher de bonnes affaires, selon elle. Toutefois, elle vendait des articles de qualité sensiblement équivalente aux deux endroits.
+[14] Madame Ngai a déclaré des ventes totalisant 31 104 $[1] pour les quatre années. De ce total, 44 % des ventes ont eu lieu en 1999. Environ 40 % des ventes, soit 12 504 $, ont été effectuées pendant une période de quatre semaines allant du 18 juillet 1999 au 8 août 1999[2]. Toutes ces ventes ont eu lieu le dimanche, une [TRADUCTION] « journée achalandée », selon Mme Ngai. En 2000, Mme Ngai a déclaré des ventes s'élevant à 11 017 $, soit environ 30 % des ventes totales.
+[15] Madame Ngai a expliqué que les ventes avaient été plus élevées en 1999 parce que les gens étaient curieux. Les acheteurs potentiels demandaient également des meubles d'un style qu'elle avait déjà vendu. D'après son estimation du coût de la marchandise, son profit correspondait à plus de dix fois le coût des articles. Elle n'a toutefois pas commandé d'autres meubles, en partie parce qu'elle n'avait pas d'argent pour le faire. Elle s'est également plainte du fait qu'il fallait beaucoup de temps pour vendre un article. Elle utilisait sa marge de crédit, de 14 250 $, pour payer la location des kiosques et il ne lui restait plus d'argent pour acheter d'autres stocks, ce qu'elle a d'ailleurs mentionné à plusieurs reprises.
+[16] L'appelante s'est rendu compte qu'elle avait de la difficulté à vendre les meubles dès la fin de l'été 1999. Les meubles qu'elle avait achetés étaient faits de bois naturel et, en raison des variations de température à Toronto, le bois avait commencé à se fendre, ce qui rendait les meubles difficiles à vendre. De plus, en raison du poids des meubles, elle ne pouvait pas les livrer seule; elle [TRADUCTION] « avait besoin de main‑d'oeuvre ». Elle a dit [TRADUCTION] : « Je m'étais rendu compte qu'il n'était pas aussi simple que je le pensais d'exploiter l'entreprise; puis mes dépenses augmentaient, mais mon revenu n'augmentait pas de façon comparable. » Elle a également témoigné que les gens à Toronto lui avaient dit que le marché n'était plus aussi bon qu'il l'avait été. Voilà des choses que l'appelante a dit ne pas avoir prévues au moment de se lancer en affaires.
+[17] Madame Ngai n'a pas commandé d'autres stocks parce qu'elle essayait de mettre fin à ses problèmes. Les gens recherchaient des aubaines, et elle devait vendre la marchandise moins cher que ce qu'elle avait prévu. Après la première année, ou même pendant celle‑ci — son témoignage est contradictoire —, elle a décidé que son entreprise n'était pas très lucrative. Madame Ngai a admis qu'après la première année, elle voulait [TRADUCTION] « se débarrasser » des stocks. Elle a mentionné qu'elle s'était rendu compte, au cours de la première année, qu'elle ne pouvait plus continuer comme ça. Elle a commencé à se chercher un emploi.
+[18] Madame Ngai n'était pas prête à affronter les obstacles qui se sont dressés devant elle. Elle a admis qu'elle n'avait pas effectué suffisamment de recherches avant de commencer [TRADUCTION] : « Mais, parfois, il faut commencer après avoir fait quelques recherches. On ne peut pas juste faire des recherches et ne jamais rien faire; on ne sait alors jamais quand commencer, quand commander et quand arrêter. Pourquoi alors se lancer en affaires? En affaires, il faut tout essayer pour voir ce qui fonctionne. Si rien ne fonctionne, alors il faut s'arrêter. »
+[19] En 2000, Mme Ngai s'est trouvé un emploi de vendeuse d'automobiles. En tant qu'agente de vente, ses heures de travail variaient et elle était capable d'aller au marché de Pickering et au marché de Harbourfront tous les jours. Elle a dit qu'elle s'était entendue avec les vendeurs des kiosques près des siens aux deux endroits. Ces personnes devaient lui laisser un message sur son téléavertisseur ou son téléphone portable si un client manifestait de l'intérêt à l'égard d'un meuble. Si un des vendeurs voisins vendait un article pour l'appelante, elle lui versait une commission de 10 %. Madame Ngai essayait d'éviter que les vendeurs des autres kiosques vendent des articles; elle essayait de faire en sorte que les clients éventuels reviennent la voir le soir afin qu'elle puisse réaliser la vente. Elle utilisait également son téléavertisseur et son téléphone portable pour recevoir des messages durant la journée et elle rappelait le soir, alors qu'il n'y avait pas de frais à payer.
+[20] Madame Ngai a cessé d'occuper les kiosques du marché de Pickering en juillet 2000 et au marché de Harbourfront en avril 2003. Elle a cessé ses activités au marché de Pickering, même s'il s'agissait de l'endroit où elle avait réalisé toutes ses ventes en 1999. Cependant, elle a dit que le marché de Harbourfront avait un meilleur système de sécurité et que les gens s'y comportaient mieux. La [TRADUCTION] « bonne clientèle » était au marché de Harbourfront. Elle a expliqué qu'elle préférait vendre ses articles dans un marché d'antiquités plutôt que dans un marché aux puces, où elle devait donner de [TRADUCTION] « trop gros » rabais. De plus, au marché de Harbourfront, il y avait des gens qui pouvaient surveiller ses stocks quand elle n'était pas sur les lieux. Au marché de Harbourfront, on retrouvait davantage d'articles dont la qualité était comparable à la présumée qualité des articles qu'elle vendait. En 2000, elle a également vendu des meubles à un endroit situé à l'intersection des rues Queen et Dufferin. À cet endroit, sa présence n'était pas nécessaire. Si je comprends bien son témoignage, le propriétaire des lieux avait accepté de vendre les meubles pour elle et de déduire du loyer le produit des ventes. Si les ventes dépassaient le loyer, on lui remettait l'excédent.
+[21] Au cours des dernières années, Mme Ngai a également essayé de vendre des meubles à des détaillants, mais sans succès. Elle a fait un peu d'argent en vendant des meubles au prix coûtant lors de ventes‑débarras. Elle se débarrassait des tables portatives en les donnant aux clients qui achetaient des marchandises dont le prix excédait 400 $ ou, lorsqu'elle travaillait comme vendeuse d'automobiles, aux personnes à qui elle vendait une automobile.
+[22] Patricia Ngai a témoigné pour le compte de Mme Ngai. Patricia Ngai aidait sa soeur à vendre les meubles au marché de Pickering lorsque celle‑ci avait besoin d'aide. Elle a dit que l'appelante venait la chercher après le travail et lui payait ensuite le souper.
+[23] Patricia Ngai a confirmé que Mme Ngai louait une automobile pendant les années en cause et que l'automobile de Patricia Ngai était utilisée à des fins personnelles.
+[24] Lorsqu'elle travaillait au marché de Pickering, Patricia Ngai [TRADUCTION] « ne vendait pas beaucoup »; elle vendait surtout de [TRADUCTION] « petits articles » qui coûtaient de 20 $ à 30 $. Il lui arrivait également de travailler au marché de Harbourfront. Par temps froid, elle ne travaillait pas tous les jours. Elle ne se souvenait pas de l'année où elle avait travaillé pendant l'été. Patricia Ngai se souvenait que sa soeur était au marché de Harbourfront tous les jours, plus souvent qu'au marché de Pickering.
+[25] L'arrêt Stewart c. La Reine[3] a mis fin au débat sur le critère de l'« expectative raisonnable de profit » pour ce qui est de déterminer si les activités d'un contribuable constituent une source de revenu aux fins de l'article 9 de la Loi. La Cour suprême a proposé de recourir à une méthode à deux volets pour déterminer si un contribuable a une source de revenu. D'abord, l'activité est‑elle exercée en vue de réaliser un profit, ou s'agit‑il d'une démarche personnelle? Il s'agit ici de distinguer les activités commerciales des activités personnelles. Ensuite, s'il ne s'agit pas d'une démarche personnelle, la source du revenu est‑elle une entreprise ou un bien? (La question en litige en l'espèce est de savoir si les activités exercées par Mme Ngai constituaient une entreprise.) Le premier volet vise la question de savoir s'il y a ou non une source de revenu, et le deuxième volet permet de qualifier la source d'entreprise ou de bien[4]. Même si une activité peut être une démarche personnelle, si elle est exercée d'une manière suffisamment commerciale, elle sera considérée comme une source de revenu aux fins de l'article 9.
+[26] Les juges Iacobucci et Bastarache ont averti que le critère de l'existence d'une source en vue de réaliser un profit ne doit faire l'objet d'une analyse que dans les situations où l'activité en cause comporte un aspect personnel[5]. Lorsqu'il est établi que l'activité est de nature commerciale, il n'est pas nécessaire que la Cour analyse les décisions commerciales du contribuable. Les juges mentionnent que, pour qu'une activité soit qualifiée de commerciale, le contribuable doit avoir l'intention subjective de réaliser un profit et il faut qu'il se soit comporté en homme d'affaires sérieux. La détermination de l'intention subjective peut être effectuée au moyen de divers facteurs objectifs. L'expectative raisonnable de profit est un facteur à prendre en considération à ce stade, mais elle n'est ni le seul facteur, ni un facteur déterminant[6]. D'autres facteurs objectifs énumérés par le juge Dickson dans l'arrêt Moldowan c. M.R.N.[7] comprennent : (1) l'état des profits et pertes pour les années antérieures, (2) la formation du contribuable, (3) la voie sur laquelle il entend s'engager, et (4) la capacité de l'entreprise de réaliser un profit.
+[27] L'avocat de l'appelante a décrit Mme Ngai comme une personne peu versée en affaires. Je suis d'accord. Elle était également inexpérimentée et peut‑être têtue, mais ce dernier trait de caractère n'est pas nécessairement un défaut si grave dans le domaine des affaires.
+[28] Le fait d'être peu versé ou naïf ne dispense pas de l'obligation d'établir qu'il y avait par ailleurs une intention de tirer un profit d'une entreprise. Dans Stewart, les juges ont averti qu'il faut que cette intention soit étayée par des éléments de preuve indiquant que le contribuable s'est comporté en homme d'affaires sérieux. Lorsqu'on analyse des éléments de preuve susceptibles d'étayer l'intention d'un contribuable d'exercer une activité en vue de réaliser un profit et d'établir un comportement d'homme d'affaires sérieux, il faut au moins se demander ce qu'une personne raisonnable exploitant une entreprise aurait pu faire dans des circonstances semblables aux faits de l'espèce.
+[29] En 1998, Mme Ngai a commencé à dresser des plans en vue de vendre des meubles dans l'intention de réaliser un profit. Madame Ngai n'exerçait pas ces activités en vue d'en tirer un avantage personnel. Attendre des clients à un kiosque jour après jour n'est pas un passe‑temps et cela ne procure aucune satisfaction personnelle.
+[30] Avant de se lancer en affaires, Mme Ngai avait pris des mesures pour obtenir du financement afin de pouvoir payer ses dépenses courantes, comme le loyer. Elle avait loué des kiosques pour y vendre les meubles et avait pris des dispositions pour entreposer les meubles plus tard en 1999.
+[31] Les activités de préparation et de planification de la vente des meubles avaient un caractère commercial.
+[32] L'intimée dit que Mme Ngai n'a jamais exploité l'entreprise de vente de meubles. Je ne suis pas d'accord. Elle a exploité l'entreprise en 1999 et au moins jusqu'à la fin de l'été 2000. Elle a acheté des stocks afin de les vendre à profit et elle a mis les meubles en vente. Le fait qu'elle avait une perception trop optimiste de l'avenir de l'entreprise ou qu'elle manquait peut‑être d'expérience pour exploiter une telle entreprise ne signifie pas qu'elle n'exploitait pas une entreprise : elle avait un local d'affaires, des clients et des ventes. Le fait qu'elle avait très peu de clients et de ventes ne signifie également pas qu'il n'y avait pas d'entreprise.
+[33] Au cours de l'année 1999 et au moins jusqu'en juillet 2000, lorsqu'elle a quitté le marché de Pickering, Mme Ngai exploitait une entreprise de vente de meubles. En 2000, elle a finalement ou définitivement conclu que l'entreprise n'était pas rentable et a décidé d'y mettre fin. Cependant, elle avait besoin de temps pour se défaire du reste des stocks et mettre fin aux activités de l'entreprise. Les stocks étaient constitués de meubles endommagés et de tables portatives. En 2000, Mme Ngai n'avait aucune idée de la valeur des stocks. On peut dire qu'un homme d'affaires raisonnable aurait peut‑être conclu qu'il serait plus rentable de jeter les meubles que de payer des frais d'entreposage et d'avoir d'autres dépenses pendant les trois années qui ont suivi.
+[34] Ce n'est toutefois pas ce que Mme Ngai a décidé de faire. Elle a attendu jusqu'en 2003 pour trouver d'autres façons de disposer des meubles, peut‑être en raison de son manque d'expérience en matière d'exploitation d'une entreprise ou parce qu'elle voulait vendre les meubles à ce qu'elle croyait être un bon prix.
+[35] Ce n'est que pour la période qui vient après que Mme Ngai avait décidé qu'il fallait mettre fin à l'entreprise qu'il y a lieu de se demander si elle exploitait une entreprise. Lorsqu'une personne décide de mettre fin à une entreprise, il faut lui donner le temps de cesser ses opérations de manière ordonnée. L'entreprise de Mme Ngai était très modeste. La question est donc de savoir si elle avait besoin d'environ deux ans et demi pour fermer l'entreprise, compte tenu du fait qu'elle n'a pas acheté de nouveaux stocks et que les stocks existants étaient endommagés.
+[36] Je n'ai été saisi d'aucun élément de preuve montrant que, dans des circonstances semblables à celles de Mme Ngai, un homme d'affaires raisonnable aurait besoin d'une période s'étendant du milieu de l'année 2000 à l'année 2003 pour liquider l'actif de l'entreprise de façon ordonnée. Malgré les recherches qu'elle a effectuées et les efforts qu'elle a déployés afin de se préparer pour se lancer en affaires, Mme Ngai n'avait absolument aucune expérience en matière d'achat de meubles aux fins de revente ou en matière de vente de meubles. Elle s'est fiée à sa soeur à Hong Kong, laquelle lui a recommandé quels meubles et quels genres de meubles acheter aux fins de revente au Canada. Elle s'est fiée à sa soeur parce qu'elle travaillait pour une société d'import‑export. Madame Ngai a dit que les meubles chinois étaient [TRADUCTION] « à la mode » à ce moment‑là et que cela avait eu une incidence sur sa décision de vendre des meubles. Cependant, rien dans la preuve ne montre que sa soeur connaissait quoi que ce soit au sujet des meubles, de l'effet que les conditions météorologiques canadiennes auraient sur les meubles et du marché pour les meubles au Canada. Les seuls travaux de recherche ou de préparation que Mme Ngai a faits pour l'entreprise envisagée ont été de parler à des gens à Hong Kong, de faire des vérifications sur l'internet et de visiter un magasin de meubles anciens à Yorkville.
+[37] Madame Ngai a dit qu'elle avait voulu se débarrasser des meubles à partir de la fin de l'année 1999. En 2000, elle a commencé à faire d'autres projets, parce qu'elle s'était rendu compte que l'entreprise qu'elle avait lancée en 1999 était vouée à l'échec. Elle s'est trouvé un emploi de vendeuse d'automobiles, mais elle a continué d'essayer de se défaire des meubles. Aucun homme d'affaires raisonnable se trouvant dans sa situation n'aurait essayé de poursuivre ses activités après le mois d'août 2000, lorsque les dernières ventes de l'année ont été réalisées, à tout le moins pour les raisons suivantes :
+a) Madame Ngai n'avait pas les moyens de financer l'entreprise pour une période prolongée. C'était sa soeur qui avait acheté les meubles pour elle et payé les frais d'expédition de ceux‑ci au Canada; le prêt ne comportait aucune modalité de remboursement. La marge de crédit d'exploitation que la banque lui avait accordée était utilisée pour payer les dépenses quotidiennes, comme le loyer. Elle n'avait pas les moyens d'acheter d'autres stocks, par exemple.
+b) Il n'y a aucune preuve concernant le coût à Hong Kong des meubles livrés au Canada. Dans l'état des résultats des activités d'une entreprise figurant dans la déclaration de revenus pour 1999, Mme Ngai a déclaré des stocks d'ouverture de 21 206,70 $ et des ventes de 10 502 $. Dans sa déclaration de revenus pour 2000, Mme Ngai a déclaré des stocks d'ouverture de 19 342,75 $. Ce montant comprendrait le coût des accessoires achetés en 1999. Madame Ngai ne pouvait pas expliquer, avec quelque certitude que ce soit, comment le coût des biens achetés chaque année était déterminé. Je tiendrai pour acquis que le coût des meubles était de 21 206,70 $ et que les meubles étaient alors en bon état.
+Rien dans la preuve ne montre que les meubles étaient endommagés lors de leur départ de Hong Kong ou de leur arrivée à Toronto. Les meubles s'étaient fendus et sont devenus endommagés après leur arrivée au Canada. Il serait raisonnable de conclure qu'après être devenus endommagés, la valeur des meubles a baissé. Toutefois, même si Mme Ngai a reconnu que les meubles étaient endommagés — facteur qui a joué un rôle clé dans la constatation que la vente des meubles constituait un grave problème —, elle n'était pas prête à considérer le fait que la valeur des meubles avait peut‑être baissé ou bien qu'il serait peut‑être plus difficile de vendre les meubles.
+c) Elle a fermé les kiosques au marché de Pickering, où elle avait réalisé toutes ses ventes en 1999, afin de concentrer ses ressources au marché de Harbourfront, où elle n'avait réalisé aucune vente en 1999. À son avis, le marché de Harbourfront était un marché d'antiquités plus haut de gamme que le marché aux puces de Pickering. Cependant, les meubles qu'elle avait à vendre étaient des meubles endommagés dont la valeur était manifestement inférieure au prix coûtant. Or, si le marché de Harbourfront était un marché plus haut de gamme, les clients de ce genre de marché seraient‑ils intéressés par de la marchandise endommagée?
+d) Madame Ngai a continué de mettre en vente des biens dans un marché plus haut de gamme. Rien dans la preuve ne montre qu'elle avait envisagé de baisser le prix des meubles en raison des nouvelles circonstances. En fait, elle a continué de louer les installations d'entreposage et les kiosques. Pendant les années en litige, elle a payé 58 994 $ pour la location d'installations d'entreposage et de kiosques. Elle n'a jamais envisagé de faire évaluer ses stocks pour déterminer s'il valait la peine de dépenser plus d'argent pour garder les meubles. Elle n'a pas tenu compte — ou ne voulait pas tenir compte — du fait que la valeur des meubles était peut‑être bien inférieure à leur coût et que, d'après son expérience en matière de ventes, poursuivre l'entreprise serait une perte de temps et d'argent.
+[38] Néanmoins, si on tient pour acquis que l'entreprise a cessé ses activités en août 2000, il faut accorder au moins six mois à Mme Ngai pour lui permettre de liquider l'actif de son entreprise. Je lui permettrai donc de déduire les dépenses d'entreprise payées pour les années 1999 et 2000 et pour les mois de janvier et de février 2001.
+[39] Cependant, dans certains cas, les dépenses déduites par Mme Ngai étaient excessives et elles doivent être réduites en conséquence. Certaines dépenses n'étaient tout simplement pas raisonnables dans les circonstances. Madame Ngai a surestimé les dépenses qu'elle avait le droit de déduire. Par exemple, elle a déduit, à titre d'espace de bureau, un montant pour la location du sous‑sol de la résidence, une maison de plain‑pied, où elle demeurait avec sa soeur. Le sous‑sol comprenait les installations de lavage, la fournaise, le réservoir d'eau chaude, et ainsi de suite. Madame Ngai a dit qu'elle avait un bureau dans le sous‑sol et qu'elle s'en servait pour délivrer les reçus aux clients, lire des livres sur les affaires et réfléchir. Elle a déduit 50 % des dépenses relatives à la résidence à titre de dépenses d'entreprise.
+[40] La déduction des parties des montants encore en litige au début de l'audience pour les années 1999 et 2000 et les mois de janvier et de février 2001 doit être accordée ou refusée en fonction des explications fournies aux paragraphes 41 à 59 inclusivement[8].
+Loyer
+[41] Le loyer payé par Mme Ngai concernait les kiosques situés au marché de Pickering et au marché de Harbourfront ainsi que les installations d'entreposage des meubles. Madame Ngai utilisait les kiosques pour vendre les meubles et des articles connexes. Étant donné la quantité d'articles dont elle avait fait l'acquisition, elle avait également besoin d'espace pour entreposer ses stocks. Il s'agit là de dépenses raisonnables payées en vue de gagner un revenu en 1999 et en 2000. J'accorderai 16,67 % du loyer payé en janvier et en février 2001. Il ne fait aucun doute qu'il s'agissait d'une location sans lien de dépendance. Je refuserai d'accorder tout loyer que l'appelante peut avoir payé à sa soeur ou déduit à titre d'espace de bureau.
+Téléphone et services publics
+[42] Madame Ngai avait deux téléphones portables et deux lignes téléphoniques terrestres et, dans chaque cas, un était utilisé à des fins d'affaires et l'autre à des fins personnelles. Elle avait également un téléavertisseur. Sa position était que les téléphones personnels étaient utilisés à des fins personnelles seulement et que les téléphones d'affaires étaient utilisés à des fins d'affaires seulement. Madame Ngai a témoigné qu'elle avait utilisé les téléphones d'affaires pour appeler Hong Kong afin de se renseigner au sujet de la livraison de la marchandise et de communiquer avec sa soeur à Hong Kong au sujet de l'entreprise et des produits, et pour faire des appels locaux afin de livrer les produits aux clients, de communiquer avec les gens qui surveillaient les kiosques, de chercher à obtenir des ventes et d'exécuter d'autres activités commerciales quotidiennes. Le téléavertisseur était utilisé pour réduire les frais de téléphone portable.
+[43] Le fait que Mme Ngai avait besoin de deux téléphones pour son entreprise ainsi que d'un téléavertisseur est une décision commerciale que celle‑ci a prise et je ne suis pas disposé à en refuser la déduction.
+[44] Cependant, comme je l'ai mentionné précédemment, j'ai conclu que Mme Ngai avait tendance à exagérer ses besoins pour ce qui est de l'entreprise. Selon la preuve, une grande partie des ventes ont eu lieu le dimanche pendant les mois d'été en 1999, et seulement au marché de Pickering.
+[45] Madame Ngai se servait souvent du téléphone d'affaires pour appeler sa soeur, Patricia Ngai, laquelle passait fréquemment la soirée à jouer au casino à Orillia. Madame Ngai a témoigné que les appels qu'elle faisait pour communiquer avec une personne avec qui elle demeurait étaient des appels de nature commerciale. Par exemple, elle appelait Patricia Ngai pour lui demander si elle pouvait s'occuper d'un kiosque. J'ai du mal à accepter que les frais relatifs à ces appels ont été versés pour tirer un revenu d'une entreprise.
+[46] J'accorderai à Mme Ngai 50 % des frais déduits pour les téléphones et le téléavertisseur qui sont décrits à l'annexe A pour les années 1999 et 2000, ainsi que 8 ½ % des frais déduits pour l'année 2001.
+[47] J'accorderai la déduction demandée par Mme Ngai pour les frais d'internet, qui sont décrits comme des frais de publicité dans l'annexe A. Lorsqu'elle s'est lancée en affaires, Mme Ngai avait bon espoir que son entreprise serait couronnée de succès et elle considérait l'internet comme une façon de générer un revenu. Elle avait un site Web où elle annonçait les meubles qu'elle vendait, entre autres choses. Elle doit avoir le droit de déduire les dépenses rajustées dont elle demande maintenant la déduction pour les années 1999 et 2000 dans l'annexe A, ainsi que 16,67 % des dépenses pour 2001.
+Véhicule automobile
+[48] Les frais afférents à un véhicule automobile dont Mme Ngai a demandé la déduction pour ses déplacements entre ses différents lieux de travail et sa résidence ne sont pas déductibles. De la même façon, les dépenses que Mme Ngai a déduites pour ses déplacements de sa résidence aux installations d'entreposage ne sont pas déductibles.
+[49] Dans l'arrêt Henry c. M.R.N.[9], la Cour suprême a refusé d'accorder la déduction des frais afférents à un véhicule demandée par un anesthésiste exploitant une entreprise à son propre compte pour les déplacements effectués entre son domicile et l'hôpital le matin et l'après‑midi pendant l'année ainsi que la déduction pour amortissement relative à l'automobile.
+[50] En ce qui concerne l'affirmation que Mme Ngai se rendait aux kiosques et aux installations d'entreposage tous les jours, si on tient compte des ventes réalisées, je crois que Mme Ngai et sa soeur ont exagéré lorsqu'elles ont parlé de la fréquence des visites de Mme Ngai. J'aurais préféré disposer, à cet égard, d'une preuve obtenue de témoins impartiaux, soit des gens qui tenaient des kiosques au marché de Pickering ou au marché de Harbourfront et qui, de préférence, communiquaient avec Mme Ngai pendant la journée lorsque des clients éventuels visitaient le kiosque de Mme Ngai et démontraient de l'intérêt envers un meuble.
+[51] Je ne veux pas dire que je ne crois pas que Mme Ngai se rendait aux kiosques régulièrement. Cela signifie simplement qu'elle ne s'y rendait pas chaque jour. Les frais afférents à un véhicule automobile payés pour les déplacements entre le marché de Pickering, le marché de Harbourfront et les installations d'entreposage sont déductibles. Cependant, je me demande si un homme d'affaires raisonnable se rendrait aux installations d'entreposage tous les jours.
+[52] Je permettrai à Mme Ngai de déduire 25 % des frais afférents à un véhicule automobile qu'elle a eus en 1999 et en 2000 et qui sont décrits à l'annexe A. J'arrondirai à 8½ % la partie des frais afférents à un véhicule automobile que l'appelante pourra déduire pour l'année 2001. Il s'agit de la manière la plus équitable et la plus efficace de déterminer les frais afférents à un véhicule automobile; il ne serait avantageux pour personne d'effectuer une répartition quotidienne des frais, déplacement par déplacement, y compris des frais de location, pour les années 1999, 2000 et 2001.
+Frais d'intérêts
+[53] Les frais d'intérêts déduits comprennent les intérêts relatifs à une marge de crédit et à des soldes impayés pour des achats effectués au moyen de cartes de crédit. Je ne refuserai pas la déduction de 318,95 $ demandée pour l'année 1999 à l'égard de la marge de crédit de Mme Ngai.
+[54] Pour l'année 2000, Mme Ngai a demandé la déduction de frais d'intérêts de 1 487 $ à l'égard de sa marge de crédit et de 3 118 $ à l'égard de soldes de carte de crédit. Certaines des sommes payées au moyen des cartes de crédit semblent être des dépenses personnelles : dépenses aux cinémas Cineplex, achats fréquents à des postes d'essence et au moins un achat chez Holt Renfrew, quoique ce dernier achat puisse être lié à l'achat d'accessoires pour l'entreprise. La majorité des dépenses étaient effectuées dans des restaurants. Le seul élément de preuve dont j'ai été saisi à l'égard des restaurants était que Mme Ngai ne cuisinait pas et que sa soeur et elle allaient au restaurant presque tous les soirs; c'est ce que les factures de carte de crédit reflètent. Le coût des repas aux restaurants n'est pas une dépense d'entreprise. Certains éléments surlignés semblent liés à l'entreprise, par exemple Bureau en gros et Pagenet. Un grand nombre des achats ne sont pas identifiés. Je refuserai 90 % des frais d'intérêts sur les soldes des cartes de crédit pour l'année 2000 et pour les mois de janvier et de février 2001, et je ne modifierai pas la déduction demandée pour l'année 1999. J'accorderai également la déduction des intérêts relatifs à la marge de crédit ainsi que des frais bancaires pour les années 1999 et 2000 et pour les deux premiers mois de l'année 2001.
+Frais de gestion
+[55] Les frais de gestion auraient été engagés en 2000. Comme aucun élément de preuve n'a été présenté à l'appui de ces dépenses, leur déduction ne sera pas accordée.
+Frais de bureau, fournitures et autres dépenses
+[56] Madame Ngai a demandé la déduction de frais de bureau. Il ne s'agit pas de montants importants. Elle a entre autres demandé la déduction des frais mensuels de la Banque Royale et des frais de location d'un ordinateur VISA. J'accorderai la déduction de ces éléments.
+[57] Je permettrai également à l'appelante de déduire le coût des fournitures de bureau pour 1999 et 2000.
+[58] Comme l'appelante n'a pas donné d'explications complètes au sujet des autres dépenses payées en 1999, leur déduction doit donc être refusée.
+[59] La taxe d'affaires payée pour les années 1999 et 2000 et pour les mois de janvier et de février 2001 est déductible dans le calcul du revenu tiré d'une entreprise.
+[60] Par conséquent, les appels interjetés à l'égard des années d'imposition 1999, 2000 et 2001 sont accueillis, mais les montants des dépenses dont la déduction est demandée pour chacune des années seront réduits conformément aux paragraphes 41 à 59 des présents motifs. Les appels interjetés à l'égard des années 2002 et 2003 sont rejetés. L'intimée aura droit à 66 ⅔ % de ses dépens.
+Signé à Ottawa, Canada, ce 21e jour de juillet 2009.
+« Gerald J. Rip »
+Le juge en chef Rip
+Traduction certifiée conforme
+ce 11e jour de janvier 2010.
+Yves Bellefeuille, réviseur
+ANNEXE A
+TABLEAU DES MONTANTS ENCORE EN LITIGE
+1999
+2000
+2001
+2002
+2003
+Publicité
+1 249,76 $
+87,37 $
+250,00 $
+854,70 $
+537,90 $
+Taxe d'affaires
+65,00
+412,75
+147,25
+687,90
+265,90
+Fret
+5 928,41
+NÉANT
+500,00
+503,34
+NÉANT
+Intérêts et cartes de crédit
+318,95
+2 793,99
+3 760,90
+2 622,48
+1 238,28
+Frais de gestion
+NÉANT
+817,79
+NÉANT
+NÉANT
+NÉANT
+Véhicule automobile
+7 503,00
+7 280,58
+5 153,34
+4 011,01
+4 898,45
+Frais de bureau
+516,69
+90,00
+35,00
+NÉANT
+NÉANT
+Autres
+511,00
+NÉANT
+NÉANT
+NÉANT
+NÉANT
+Loyer
+13 009,00
+19 551,75
+14 585,29
+10 141,15
+1 706,67
+Téléphone et services publics
+736,81
+1 965,36
+1 784,52
+1 417,77
+1 638,01
+Fournitures
+3 426,28
+293,27
+NÉANT
+NÉANT
+NÉANT
+REMARQUE : Les montants relatifs aux intérêts et au véhicule automobile susmentionnés sont les montants réclamés modifiés, c'est‑à‑dire les montants modifiés au début de l'audience.
+TOTAL
+33 264,90
+33 292,86
+26 216,30
+20 238,35
+10 285,21
+Moins le revenu
+7 925,23
+7 617,03
+2 460,89
+2 637,62
+2 353,82
+Montant (perte) en litige
+25 339,37
+26 312,53 $
+23 765,41 $
+17 600,73 $
+7 931,39 $
+RÉFÉRENCE : 2009 CCI 370
+No DU DOSSIER DE LA COUR : 2007-3220(IT)G
+INTITULÉ : CYNTHIA NGAI c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Toronto (Ontario)
+DATE DE L'AUDIENCE : Le 2 mars 2009
+MOTIFS DU JUGEMENT : L'honorable juge en chef Gerald J. Rip
+DATE DU JUGEMENT : Le 21 juillet 2009
+COMPARUTIONS :
+Avocats de l'appelante :
+Me John David Buote
+Me Stella Kyriacou
+Avocat de l'intimée :
+Me Laurent Bartleman
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+John David Buote
+Cabinet :
+J.D. Buote & Associates
+Brampton (Ontario)
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Madame Ngai a déclaré des ventes (y compris les taxes) de 10 502,31 $ en 1999, de 12 527,28 $ en 2000, de 3 083,69 $ en 2001, de 2 637,62 $ en 2002 et de 2 353,82 $ en 2003. Ces montants varient légèrement des montants proposés par l'Agence du revenu du Canada.
+[2] Les ventes de Mme Ngai en 1999 correspondaient à 44,5 % de la totalité des ventes.
+[3] [2002] 2 R.C.S. 645, 2002 CSC 46.
+[4] Ibid., par. 50.
+[5] Ibid., par. 53.
+[6] Ibid., par. 54.
+[7] [1978] 1 R.C.S. 480, à la p. 486.
+[8] J'ai supposé que les frais payés en janvier et en février 2001 représentent 16,67 % de tous les frais payés en 2001 et j'ai rajusté les montants en conséquence. Par exemple, lorsque Mme Ngai a droit à 100 % de la déduction demandée, seulement 16,67 % du montant de la déduction demandée pour 2001 sera accordé, étant donné qu'elle n'exploitait pas d'entreprise après février 2001.
+[9] [1974] R.C.S. 155. Voir aussi Libera c. M.R.N., Commission de révision de l'impôt, 3 avril 1981, 81 D.T.C. 276, Zolghadr c. La Reine, 2008 CCI 669, par. 15.

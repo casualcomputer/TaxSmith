@@ -1,0 +1,166 @@
+---
+title: "St-Hilaire v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27335/index.do"
+last_modified: "2006-12-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 661"
+citation2: ""
+neutral_citation: "2006 TCC 661"
+decision_date: "2006-12-01"
+language: "en"
+item_id: "27335"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 875
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:31:28.957000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2ef4a614653babca8e2dbc60ed92fb9e0c763d29a996cc793cc8a00de01e9362"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# St-Hilaire v. The Queen
+
+- Citation: 2006 TCC 661
+- Decision date: 2006-12-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 875, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+St-Hilaire v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-12-01
+Neutral citation
+2006 TCC 661
+File numbers
+2006-1516(IT)APP
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-1516(IT)APP
+BETWEEN:
+NOEL ST-HILAIRE,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application heard on October 19, 2006 at Winnipeg, Manitoba
+Before: The Honourable Justice L.M. Little
+Appearances:
+For the Applicant:
+The Applicant himself
+Counsel for the Respondent:
+Adrianne Edmunds
+____________________________________________________________________
+ORDER
+Upon reading the application for an Order extending the time within which Notices of Objection to assessments made under the Income Tax Act for the 2002 and 2003 taxation years may be served;
+And upon hearing the parties;
+This Court orders that the application in respect of the 2002 taxation year be dismissed in accordance with the attached Reasons for Order.
+The application in respect of the 2003 taxation year is dismissed, as withdrawn.
+Signed at Vancouver, British Columbia, this 1st day of December 2006.
+"L.M. Little"
+Little J.
+Citation: 2006TCC661
+Date: 20061201
+Docket: 2006-1516(IT)APP
+BETWEEN:
+NOEL ST-HILAIRE,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Little J.
+[1] On April 18, 2006 the Applicant filed a Notice of Appeal for the 2003 taxation year.
+[2] On or about April 18, 2006 the Applicant filed an Application to extend the time within which an appeal might be filed for the 2003 taxation year. This document was received by the Tax Court on May 1, 2006.
+[3] On July 20, 2006 the Respondent filed a Reply to an Application for an Extension of Time to file a Notice of Objection for the 2003 taxation year.
+[4] In the Reply the Respondent indicated that there is no issue to be decided by the Court for the 2003 taxation year in that the Applicant has been allowed a deduction for employment expenses as claimed.
+[5] The parties appeared before me in Winnipeg, Manitoba on October 19, 2006.
+[6] At the commencement of the hearing the Applicant made the following points:
+(1) The Applicant requests an extension of time to file a Notice of Objection for the 2002 taxation year and wishes to discontinue his appeal for the 2003 taxation year;
+(2) The Applicant maintains that the relevant documents issued by the Canada Revenue Agency (the "CRA") were sent to him at 504 Cherrier Street instead of 501 Cherrier Street.
+[7] Because of the new points raised by the Applicant I adjourned the Application. I also requested that counsel for the Respondent provide the Court with the following information:
+(a) A copy of the Notice of Assessment issued on April 3, 2003 for the 2002 taxation year;
+(b) Information from the CRA concerning the address used for sending Notices of Assessment or Reassessment to the Applicant for the 2002 taxation year.
+[8] By letter dated November 1, 2006 counsel for the Respondent provided me with a copy of the Reconstructed Notice of Assessment which was issued on April 3, 2003 for the 2002 taxation year. This Assessment was sent to the Applicant at the following address:
+101 Berrydale Avenue
+Winnipeg, Manitoba
+R2M 1M2
+[9] The letter from counsel for the Respondent dated November 1, 2006 contains the following statement:
+The Notice of Assessment for the 2002 taxation year was mailed to 101 Berrydale Avenue. The Appellant indicated in Court that this was his previous address, and that his current address is 501 Cherrier Street. The Appellant contended that mail was being forwarded to 504 Cherrier Street in error. However, none of the files of the Canada Revenue Agency or the Department of Justice indicate that any correspondence was sent to such an address.
+[10] The letter from counsel for the Respondent also contains information on the mailing addresses used by the CRA. The mailing addresses used by the CRA for the Applicant were:
+Effective Date
+Mailing Address
+Source User ID
+2004 08 19
+501 Cherrier St.
+Winnipeg MB
+R2J 0M1 Canada
+T1 Return
+2003 03 27
+101 Berrydale Ave.
+Winnipeg MB
+R2M 1M2 Canada
+T1 Return
+ANALYSIS AND DECISION:
+Mailing Address
+[11] Based on the information before me I am satisfied that the CRA used the address of 101 Berrydale Avenue when it mailed the Notice of Assessment for the 2002 taxation year to the Applicant.
+Notice of Assessment for 2002
+[12] As is noted above, the Notice of Assessment for the 2002 taxation year was issued on April 3, 2003. If the Applicant wished to object to this assessment he should have filed a Notice of Objection within 90 days of April 3, 2003, i.e. on or before July 2, 2003. I am advised by counsel for the Respondent that the Applicant filed a Notice of Objection for the 2002 taxation year on February 24, 2005. I am advised by counsel for the Respondent that the Notice of Objection filed for the 2002 taxation year was not accepted by the CRA because it was filed beyond the time limit for the filing of a Notice of Objection. I am also advised by counsel for the Respondent that the Applicant did not file an Application to Extend the time for filing a Notice of Objection for the 2002 taxation year.
+[13] The Income Tax Act contains strict time limits for the filing of a Notice of Objection. The Applicant failed to meet the 90-day time limit for filing a Notice of Objection for the 2002 taxation year. I have no authority to extend the 90-day time limit unless the Applicant has filed an Application to extend the time within one year of the date that the Notice of Objection should have been filed. An Application to extend the time for the filing of a Notice of Objection for the 2002 year was not filed in this case and the time for doing so has passed.
+[14] The Application by the Applicant for extending the time limit with respect to the 2002 taxation year is dismissed.
+[15] The Application made by the Applicant to extend the time limit for filing a Notice of Objection for the 2003 taxation year was withdrawn by the Applicant at the hearing.
+Signed at Vancouver, British Columbia, this 1st day of December 2006.
+"L.M. Little"
+Little J.
+CITATION:
+2006TCC661
+COURT FILE NO.:
+2006-1516(IT)APP
+STYLE OF CAUSE:
+Noel St-Hilaire and
+Her Majesty the Queen
+PLACE OF HEARING:
+Winnipeg, Manitoba
+DATE OF HEARING:
+October 19, 2006
+REASONS FOR ORDER BY:
+The Honourable Justice L.M. Little
+DATE OF ORDER:
+December 1, 2006
+APPEARANCES:
+For the Applicant:
+The Applicant himself
+Counsel for the Respondent:
+Adrianne Edmunds
+COUNSEL OF RECORD:
+For the Applicant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

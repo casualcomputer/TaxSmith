@@ -1,0 +1,351 @@
+Title: DiCaita c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/492876/index.do
+Corpus path: corpus/cases/tcc/2021/2021-cci-5-492876-dicaita-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2021-02-11
+
+# DiCaita c. La Reine
+
+- Citation: 2021 CCI 5
+- Decision date: 2021-02-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4662, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+DiCaita c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2021-02-11
+Référence neutre
+2021 CCI 5
+Numéro de dossier
+2019-1732(IT)I
+Juges et Officiers taxateurs
+Rommel G. Masse
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2019-1732(IT)I
+ENTRE :
+ANTHONY DICAITA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 8 octobre 2020, à Hamilton (Ontario)
+Devant : L’honorable juge suppléant Rommel G. Masse
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Acinkoj Magok
+JUGEMENT
+L’appel interjeté à l’encontre des nouvelles cotisations établies en application de la Loi de l’impôt sur le revenu pour les années d’imposition 2012 et 2013 est accueilli en partie, et l’affaire est renvoyée au ministre aux fins de réexamen et d’établissement d’une nouvelle cotisation conformément aux motifs du jugement ci-joints.
+Signé à Kingston (Ontario), ce 11e jour de février 2021.
+« Rommel G. Masse »
+Le juge suppléant Masse
+Référence : 2021 CCI 5
+Date : 20210211
+Dossier : 2019-1732(IT)I
+ENTRE :
+ANTHONY DICAITA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant Masse
+[1] L’appelant interjette appel de nouvelles cotisations établies aux termes de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.) (la « Loi »), pour ses années d’imposition 2012 et 2013. Est en litige la déductibilité des dépenses déboursées relativement à deux biens locatifs, l’un situé à Vancouver (Colombie-Britannique) et l’autre à Phoenix (Arizona).
+Contexte factuel
+[2] L’appelant était le seul témoin présent lors de l’audience du présent appel. Il est le directeur général d’un organisme de bienfaisance à Toronto. Je suis d’avis qu’il était un témoin articulé, intelligent, honnête, bien organisé et crédible. Il est propriétaire de deux biens locatifs : un logement dans une habitation en rangée située à 754 Millyard Road, Vancouver (Colombie-Britannique) (le « bien à Vancouver ») et une habitation unifamiliale se trouvant à 3524 Paradise Lane, à Phoenix (Arizona), aux États-Unis (le « bien à Phoenix »).
+a) Le bien à Vancouver
+[3] Il s’agit d’un logement dans un immeuble d’habitation en copropriété en rangée comprenant 56 logements et qui a été construit dans les années 1970. L’appelant possède ce logement depuis 1989. Il a toujours été un bien locatif. Le logement se trouve dans un quartier attrayant de Vancouver et son taux d’occupation a toujours été élevé. Le taux de rotation des locataires est faible et il est facile de trouver de nouveaux locataires. Le loyer mensuel s’élève à 1 500 $. Le taux de rotation des locataires étant faible, outre l’application d’une couche de peinture fraîche et la réalisation de réparations mineures, il n’est guère possible de faire plus. Au fil des ans, l’état du logement s’est détérioré en raison de l’usure et il [traduction] « accusait son âge ».
+[4] L’immeuble d’habitation est géré par le conseil de copropriété (« conseil »). En avril 2010, le conseil a entrepris d’importants travaux d’assainissement de l’immeuble d’habitation afin de régler des problèmes comme la pourriture, la moisissure, l’amiante, les fuites d’eau, ainsi que des problèmes structurels. Le projet portait uniquement sur les parties communes extérieures de l’immeuble d’habitation et ne concernait en rien l’espace intérieur des logements. Ce projet à long terme a duré 20 à 22 mois. Son coût a dépassé 6 000 000 $.
+[5] Pendant les travaux d’assainissement, l’intégralité de l’immeuble d’habitation est devenue un chantier de construction en activité. Des échafaudages entouraient l’immeuble, des toiles étaient drapées autour des échafaudages et le chantier comportait des bennes à ordures, des matériaux de construction, des véhicules de construction et des ouvriers en construction étaient aussi présents sur les lieux. Cette situation a beaucoup perturbé la vie de tous les habitants de l’immeuble. À l’époque, le locataire de l’appelant a exprimé son mécontentement à cet égard et a demandé une réduction importante du loyer. L’appelant a refusé. Par conséquent, le locataire a quitté le logement au cours du mois de novembre 2010.
+[6] L’appelant a essayé de remettre le logement en location, mais lorsque les locataires éventuels ont constaté les perturbations causées par les travaux de construction extérieurs en cours, ils ont cessé de manifester leur intérêt pour le logement. Ils étaient également inquiets du temps que cela prendrait pour terminer les travaux. Le projet d’assainissement a rendu très difficile la mise en location de tout logement dans l’immeuble. L’appelant a néanmoins tenté, en vain, de mettre son logement en location. L’appelant pense que si le projet d’assainissement, sur lequel il n’exerçait aucun contrôle, n’avait pas eu lieu, son logement serait resté en location.
+[7] L’appelant a décidé qu’il profiterait du temps pendant lequel le logement n’était pas en location, au cours des travaux d’assainissement, pour y faire des travaux de réparation qui étaient bien nécessaires, en raison de l’usure du temps et de la nécessité de remplacer certains appareils usés et qui avaient atteint leur durée de vie utile, et qui tardaient depuis trop longtemps. Un grand nombre de ces appareils contenus dans le logement dataient de l’époque où l’immeuble a été construit, dans les années 1970.
+[8] En janvier 2012, l’appelant a embauché un entrepreneur pour effectuer les travaux de réparation nécessaire à l’intérieur de son logement. Les travaux ont commencé au début de l’année 2012 et ont terminé en mai 2012. Cependant, les travaux d’assainissement extérieurs ont pris du retard et cela a eu des répercussions directes sur la capacité de l’appelant de mettre son logement en location, même après l’achèvement des travaux de réparation intérieurs. Le logement est demeuré inoccupé jusqu’en novembre 2012, mais il a finalement été loué en décembre 2012.
+[9] Les travaux de réparation réalisés dans le logement ont consisté à remplacer certains appareils de salle de bain, les lavabos, les tables de toilette, les toilettes, les armoires de cuisine, les comptoirs, des appareils, le foyer encastrable, les portes, le matériel, les poignées de porte, les garde-corps, les moquettes ou le plancher, à effectuer certains travaux de menuiserie en ce qui concerne les plinthes et à peindre. L’appelant a déboursé près de 24 000 $ pour achever les travaux de réparation. Selon ses estimations, ces frais n’ont représenté que 5 % environ de la juste valeur marchande du logement. L’appelant fait valoir que les travaux effectués dans le logement n’ont pas consisté à reconstruire ou à remettre en état la structure. Comme il ne s’agissait pas de modifier la structure, la conception ou l’aménagement, aucun permis de construction n’a été exigé. Tous les appareils électroménagers ou autres types d’appareils ont été remplacés par des articles de qualité et de valeur comparables. Aucun de ces articles n’a été mis à niveau. Les travaux de réparation n’étaient pas destinés à avoir une incidence importante sur la valeur du logement. Après les réparations, le logement a été mis en location pour 2 200 $ par mois, soit une augmentation de 700 $ par mois. Ce prix de location correspond à celui de logements comparables.
+[10] L’appelant demande une déduction de 22 483 $ sous la rubrique des travaux de réparation et d’entretien pour son année d’imposition 2012. Le ministre du Revenu national (le « ministre ») est d’avis que ces dépenses ne sont pas déductibles, car le logement ne pouvait pas être loué et, par conséquent, l’appelant n’avait pas une source de revenus. Subsidiairement, les dépenses ne sont pas déductibles comme dépenses d’exploitation courantes, car elles sont à juste titre classées dans la catégorie des dépenses en capital et, par conséquent, elles ne sont pas déductibles aux termes de l’alinéa 18(1)b) de la Loi.
+b) Le bien à Phoenix
+[11] Ce bien a été construit dans les années 1990. L’appelant l’a acheté au début des années 2000. En 2013, plusieurs problèmes survenus à Phoenix ont nécessité l’attention de l’appelant : il s’agissait notamment de problèmes liés au locataire, de la réparation du toit, de la piscine et du spa, ainsi que de questions concernant l’aménagement paysager. L’appelant a profité d’un voyage avec sa famille à Las Vegas pour se rendre à Phoenix depuis Las Vegas, afin de régler en personne les problèmes liés au bien avec son gestionnaire immobilier. Il est resté pendant plusieurs jours à l’hôtel avec sa femme. Les dépenses déclarées à titre de dépenses de location étaient exclusivement liées au temps passé à Phoenix, et non à Las Vegas, et elles se rapportaient à la nourriture, à l’hébergement et aux déplacements. Une fois que les problèmes liés au bien à Phoenix ont été réglés, il est retourné à Toronto avec sa femme. L’appelant a d’abord déclaré le total des frais de déplacement qui correspondait au prix des billets d’avion pour deux personnes, aux frais de nourriture, d’hébergement et de location d’un véhicule pour se rendre à Phoenix depuis Las Vegas, ainsi que des sommes mineures qui se rapportaient aux frais d’essence, de stationnement à l’aéroport, de médicaments et au coût d’un cadeau destiné au gestionnaire immobilier de l’appelant.
+Sommes en litige
+a) L’année d’imposition 2012
+[12] L’appelant conteste tous les refus de dépenses de location en 2012 de la manière suivante :
+Dépenses de location
+Dépenses déclarées en 2012
+Dépenses autorisées en 2012
+Dépenses refusées en 2012 (somme en litige)
+Entretien et réparations
+22 483 $
+---
+22 483 $
+Gestion et administration
+3 656 $
+---
+3 656 $
+Frais de bureau
+786 $
+---
+786 $
+Autres dépenses
+5 618 $
+---
+5 618 $
+Intérêts hypothécaires
+10 063 $
+3 927 $
+6 137 $
+Impôts fonciers
+2 570 $
+1 150 $
+1 420 $
+Entreprise de gestion immobilière Rancho
+1 323 $
+73,00 $
+1 250 $
+Total des dépenses de location
+41 350 $
+b) L’année d’imposition 2013
+[13] L’intimée fait valoir que la somme litigieuse pour 2013 s’élève à 4 923,15 $. Elle concerne les frais de déplacement entre Toronto et Phoenix pour régler les problèmes liés au bien locatif situé à Phoenix. Le ministre a autorisé la déduction des dépenses de location d’une voiture de 689 $ pour effectuer des déplacements entre Las Vegas et Phoenix.
+Questions
+[14] Les questions en litige dans le présent appel sont les suivantes :
+a) La somme de 22 483 $ dépensée pour le bien à Vancouver pour l’année d’imposition 2012 est-elle classée à juste titre dans la catégorie des dépenses en capital ou dans celle des dépenses d’exploitation courantes?
+b) D’autres sommes sont-elles déclarées comme dépenses de location déductibles pour l’année d’imposition 2012?
+c) Tous les frais de déplacement déclarés et qui ont été payés relativement au bien à Phoenix sont-ils, à juste titre, déductibles pour l’année d’imposition 2013?
+Thèses des parties
+a) L’appelant
+[15] L’appelant affirme que les travaux effectués dans le bien à Vancouver étaient de la nature de dépenses d’exploitation courantes, et non de celle de dépenses en capital. En outre, la déduction d’autres dépenses annualisées, que l’appelant a déclarées comme des dépenses de location, a été refusée à tort. L’appelant affirme que la déduction de tous les frais de déplacement qu’il a payés relativement au bien à Phoenix, et non simplement celle des dépenses de location d’une voiture, aurait dû avoir été autorisée pour 2013.
+b) L’intimée
+[16] L’intimée affirme que l’appelant a dépensé la somme de 22 483 $ pour le bien à Vancouver à titre d’importants travaux de rénovation, de sorte qu’il s’agit de dépenses en capital et que ces dernières ne devraient pas être considérées comme des dépenses d’exploitation courantes. L’intimée, en faisant quelques concessions, fait valoir que la déduction des autres dépenses effectuées en 2012 a été autorisée à juste titre. L’intimée accepte de faire quelques concessions concernant les frais de déplacement en 2013 relativement au bien à Phoenix, comme cela est expliqué plus loin dans les présents motifs.
+Discussion
+a) Les dispositions législatives applicables
+[17] Il est toujours utile de revenir aux principes fondamentaux énoncés dans la Loi au sujet du calcul du revenu et des pertes d’une entreprise ou d’un bien. Ils sont énoncés à l’article 9 de la Loi qui est rédigé en ces termes :
+Revenu 9 (1) Sous réserve des autres dispositions de la présente partie, le revenu qu’un contribuable tire d’une entreprise ou d’un bien pour une année d’imposition est le bénéfice qu’il en tire pour cette année.
+Perte (2) Sous réserve de l’article 31, la perte subie par un contribuable au cours d’une année d’imposition relativement à une entreprise ou à un bien est le montant de sa perte subie au cours de l’année relativement à cette entreprise ou à ce bien, calculée par l’application, avec les adaptations nécessaires, des dispositions de la présente loi afférentes au calcul du revenu tiré de cette entreprise ou de ce bien.
+[18] Un contribuable peut donc déduire des dépenses engagées pour réaliser un profit, sous réserve des exceptions prévues par la Loi. L’article 18 de la Loi fixe des exceptions d’ordre général quant aux déductions. Les dispositions pertinentes de l’article 18 sont les suivantes :
+Exceptions d’ordre général 18(1) Dans le calcul du revenu du contribuable tiré d’une entreprise ou d’un bien, les éléments suivants ne sont pas déductibles :
+Restriction générale a) les dépenses, sauf dans la mesure où elles ont été engagées ou effectuées par le contribuable en vue de tirer un revenu de l’entreprise ou du bien;
+Dépense ou perte en capital b) une dépense en capital, une perte en capital ou un remplacement de capital, un paiement à titre de capital ou une provision pour amortissement, désuétude ou épuisement, sauf ce qui est expressément permis par la présente partie;
+[…]
+Frais personnels ou de subsistance h) le montant des frais personnels ou de subsistance du contribuable – à l’exception des frais de déplacement engagés par celui-ci dans le cadre de l’exploitation de son entreprise pendant qu’il était absent de chez lui;
+[19] L’alinéa 18(1)a) dispose qu’une dépense n’est déductible que dans la mesure où elle a été déboursée dans le but de tirer un revenu d’une entreprise ou d’un bien. À l’alinéa 18(1)b), la déduction des dépenses effectuées au titre des dépenses en capital est refusée. À l’alinéa 18(1)h), la déduction des frais personnels ou de subsistance est refusée. Enfin, l’article 67 de la Loi porte que les dépenses déductibles par ailleurs doivent être raisonnables compte tenu de toutes les circonstances.
+b) Le bien à Vancouver constituait-il une source de revenus?
+[20] Un contribuable ne peut pas, à des fins fiscales, déduire des dépenses liées à une activité ou à un bien, sauf si cette activité ou ce bien est une source de revenus. Pour qu’une activité ou un bien soit classé ainsi, le contribuable doit établir que son intention prédominante est de réaliser un profit, conformément à des normes objectives de comportement d’homme d’affaires sérieux [1] .
+[21] Il ne fait aucun doute que l’intention prédominante de l’appelant a toujours été de réaliser un profit sur ses biens locatifs. Le logement à Vancouver a été loué sans interruption pendant plusieurs années avant les réparations et il a été mis en location après l’achèvement des travaux d’assainissement extérieurs et de réparation intérieurs. Je conclus également que l’appelant a mené ses activités de location du bien à Vancouver conformément aux normes objectives de comportement d’homme d’affaires sérieux.
+[22] L’Agence du revenu du Canada (ARC) a d’abord fait valoir que le bien à Vancouver n’était pas une source de revenus, car au cours de l’année d’imposition 2012, il ne pouvait pas être loué. Je ne suis pas de cet avis. Je conclus que le logement était une source de revenus avant, pendant et après les travaux de rénovation. Le logement était loué au moment où les travaux d’assainissement extérieurs ont été entrepris. Lorsque le locataire a quitté le logement, l’appelant a, en vain, tenté de le mettre en location, mais les travaux d’assainissement extérieurs l’en ont empêché. L’appelant a profité du fait que le logement était inoccupé pour faire des travaux de réparation. Lorsque les réparations à l’intérieur du logement ont été terminées, l’appelant a une nouvelle fois tenté de mettre le logement en location, mais il n’a réussi à le faire qu’en décembre 2012, après l’achèvement du projet consistant à effectuer d’importants travaux d’assainissement à l’extérieur.
+[23] On ne m’a pas renvoyé à une disposition législative ni à une jurisprudence ayant force exécutoire qui enseigne qu’un bien dont on tire un revenu, mais qui ne peut temporairement pas être loué, ne constitue pas une source de revenus. Pour qu’un bien soit considéré comme une source de revenus, il n’est pas nécessaire qu’il génère des revenus à chaque étape de son exploitation. Selon l’arrêt Stewart [2] , l’intention prédominante de réaliser un profit, conformément à des normes objectives de comportement d’hommes d’affaires sérieux, doit être établie. Cela a été clairement établi. Le fait que le logement soit resté inoccupé de janvier à novembre 2012 signifie uniquement qu’aucun revenu n’était tiré de ce bien pendant cette période. Cela ne signifie pas que le bien n’était pas une source de revenus. Bien que le gestionnaire immobilier de l’appelant n’ait pas essayé de mettre le bien en location (voir la pièce R-2), l’appelant a tenté, en vain, de trouver des locataires par d’autres moyens. Bien que le logement ait été inoccupé ou qu’il n’ait pas pu être loué, il est demeuré une source de revenus pendant l’exécution des travaux.
+[24] Je conclus que le bien de Vancouver constituait une source de revenus pour l’appelant avant et après l’achèvement des travaux de rénovation extérieurs et pendant l’exécution de ceux-ci.
+c) Dépenses en capital ou dépenses d’exploitation courantes
+[25] Ayant conclu que le logement était une source de revenus, il convient de classer toutes les dépenses relatives au logement comme dépenses de nature capitale ou de nature courante. Cela est important, car les dépenses courantes peuvent être déduites du revenu ou reportées comme une perte. Les dépenses en capital ne sont pas déductibles dans le calcul du revenu provenant d’une entreprise ou d’un bien. Il en est ainsi parce que l’alinéa 18(1)b) de la Loi interdit de déduire toute dépense en capital, sauf ce qui est expressément permis dans la Loi. Cependant, étant donné qu’un bien amortissable se détériore et devient désuet au fil du temps, l’alinéa 20(1)a) de la Loi autorise la déduction d’une partie du coût en capital du bien, comme le permet le Règlement.
+[26] Nulle part dans la Loi ou le Règlement ne sont clairement définis les termes « dépense en capital » ou « dépense d’exploitation ». La question de savoir si une dépense particulière devrait être considérée comme une dépense courante ou si elle devrait être capitalisée doit être tranchée conformément aux principes comptables généralement reconnus et elle n’est pas abordée dans une disposition précise de la Loi [3] .
+[27] Selon la définition classique qui lui est donnée, une dépense en capital est une dépense engagée en vue de procurer [traduction] « un avantage durable » et qui comprend aussi la [traduction] « conservation d’un bien ». Il ne s’agit pas d’une dépense qui ne crée aucun actif identifiable [4] . De toute évidence, si à la suite des travaux de réparation, quelque chose qui n’existait pas avant est créé, la dépense aura tendance à être une dépense en capital.
+[28] Dans l’arrêt Hare c. Canada [5] , la Cour d’appel fédérale a conclu que la question de savoir si les rénovations sont des dépenses courantes ou en capital est une question de fait qu’il est préférable de laisser au juge de première instance de trancher.
+[29] Le juge Hershfield de notre cour a conclu que lorsqu’on cherche à savoir si certains travaux sont des dépenses courantes ou en capital, il faut examiner l’« objet et la nature des travaux qui sont exécutés » [6] . Lors de l’analyse de l’objet et de la nature des travaux qui sont exécutés, il convient de se fonder sur la jurisprudence, la lettre de la Loi et le sens commun [7] .
+[30] Dans l’arrêt Cousineau c. La Reine [8] , le juge Bédard de notre Cour fournit une analyse approfondie afin de déterminer dans quels cas une dépense est une dépense en capital ou une dépense d’exploitation. Je trouve utile de citer de longs passages de ses motifs, en commençant par le paragraphe [10] :
+[10] La nature des dépenses ne repose sur aucun critère rigide. Il faut plutôt examiner la nature des dépenses engagées (Marklib Investments II-A Ltd. c. R., 2000 D.T.C. 1413 (C.C.I.) (P.G.) para. 18).
+[11] Le critère prédominant en matière de dépenses capitalisables ou d’exploitation est l’intention et le but des dépenses engagées.
+[12] La juge Lamarre Proulx dans la décision Bergeron c. M.R.N., 90 D.T.C. 1511 (C.C.I.) para. 33, a relevé la jurisprudence pertinente :
+Les principes que je retire de ces arrêts sont les suivants :
+sont de la nature de dépenses afférentes au revenu, les réparations qui ont pour but de remettre à son état d’usage normal la partie ou la propriété qui est réparée.
+sont de la nature du capital, les travaux qui ont pour but de remplacer un bien par un bien nouveau et les travaux qui apportent un tel degré d’amélioration à un bien qu’il en devient un nouveau bien. Ce bien doit soit avoir une valeur importante par rapport au reste de la propriété ou être en soi un bien. Les travaux pour changement d’usage d’un local, d’une pièce ou l’addition d’un nouveau local ou pièce sont habituellement de la nature d’une dépense à titre de capital. Ainsi en serait-il pour un changement de système de chauffage.
+quoique le facteur d’acquisition récente n’entre pas en ligne de compte quand il n’y a pas changement d’exploitation, l’augmentation de la valeur de l’immeuble, par rapport au prix d’achat due aux réparations, est une indication que le prix ou partie du prix des dépenses est de la nature du coût d’acquisition d’un immeuble.
+les dépenses doivent aussi être raisonnables dans les circonstances, (art. 67 de la Loi). Il faut se demander si raisonnablement elles sont faites pour tirer du revenu ou pour l’augmentation de la valeur du bien et dans quelle proportion. Peuvent être pris en compte les profits futurs si les dépenses en question diminuent les dépenses postérieures et également je suppose l’escalade imprévue des coûts.
+[13] Pour rechercher ce but, il faut notamment vérifier si les réparations visaient à améliorer l’immeuble existant ou à le rendre différent (Hare c. R., 2011 TCC 294 para. 16). Ainsi, si quelque chose est créée suite aux réparations qui n’existaient pas avant, la dépense tendra à être capitalisable. Si la dépense permet plutôt de « garder l’immeuble dans un état pour ainsi dire identique à celui dans lequel il se trouvait avant que les réparations soient effectuées, ces réparations ont alors été, à bon droit, portées au compte des dépenses courantes » (Chambers v. R., [1998] 1 C.T.C. 3273 (C.C.I.) para. 14).
+[14] Pour rechercher si les réparations ont amélioré l’immeuble au point de créer quelque chose de nouveau, on peut prendre en compte l’apparence, la nécessité, ou non, de quitter l’immeuble pendant les réparations ainsi que le montant engagé comparativement à la valeur de l’immeuble (Chambers v. R., [1998] 1 C.T.C. 3273 (C.C.I.) para. 15). On peut également vérifier si les dépenses ne visaient qu’à réparer la défectuosité (Marklib Investments II-A Ltd. v. R., précitée, para. 27).
+[15] On peut aussi vérifier s’il s’agissait de réparations usuelles d’un immeuble en état de location ou plutôt de réparations de remise en état locatif d’un immeuble (Leclerc c. R., [1998] 2 C.T.C. 2578 (T.C.C.) para. 12). Dans l’affaire Hare c. R., précitée, des dépenses avaient été engagées avant que l’immeuble ne soit loué. Les dépenses ont été jugées capitalisables, car les dépenses avaient été engagées en vue de préparer le bien aux fins de location.
+[16] Le moment des réparations peut aussi être pris en compte pour rechercher le but des dépenses en cause.
+[17] L’ARC a aussi signalé plusieurs critères qui ont été considérés par la jurisprudence, à savoir (ARC, Bulletin d’interprétation IT‑128R, « Déduction pour amortissement – Biens amortissables » (21 mai 1985) no 4) :
+– L’avantage durable;
+– Dépense d’entretien ou d’amélioration;
+– Dépense sur une partie intégrante du bien ou pour acquérir un bien;
+– Valeur de la dépense par rapport à la valeur du bien entier ou par rapport à la moyenne des frais d’entretien ou de réparations;
+– Nécessité de faire des réparations lors de l’acquisition d’un bien usagé pour le remettre en bon état;
+– Dépenses en prévision d’une vente.
+[31] La jurisprudence donne plusieurs exemples de rénovations qui ont été considérées comme des dépenses courantes :
+Remplacer une terrasse construite il y a 20 ans pour un coût de 8 146 $, ce qui représente 3,1 % du prix total de la maison – Lewin c. La Reine [9] .
+Effectuer des réparations dont le coût s’élève à 29 823 $ pour remettre dans son état original un duplex acheté pour 419 000 $ – Janota c. La Reine [10] .
+La réalisation d’importants travaux de réparation en raison de dommages causés par un ouragan et par un locataire n’a pas amélioré l’état de la maison au-delà de celui dans lequel elle se trouvait initialement – Martinello c. La Reine [11] .
+Rendre au toit son état d’origine pour 6 900 $ – Palangio c. La Reine [12] .
+Remplacer une partie du toit d’un garage par une partie durant plus longtemps – Aon Inc. c. La Reine [13] .
+[32] Les dépenses immobilières suivantes ont été considérées être de la nature du capital :
+Effectuer d’importantes rénovations pour qu’un bien qui était en mauvais état puisse être loué : Fiore v. The Queen [14] ; Hare c. R. [15] .
+Effectuer des rénovations pour reconstruire un bâtiment et créer un bien de valeur durable : Fotherby c. La Reine [16] ; Scharfe c. La Reine [17] ; Bishop c. Canada [18] ; Mbénar c. Canada [19] .
+Remplacer des fenêtres avec des cadres en bois par des fenêtres avec des cadres en vinyle; Peach c. La Reine [20] .
+[33] Compte tenu de tous les arrêts qui précèdent, il devient évident qu’il peut s’avérer difficile d’appliquer le critère permettant d’établir si une dépense particulière est de nature capitale ou de nature courante. Des situations différentes pourraient entraîner des résultats différents. Selon les circonstances, une même dépense peut être imputée soit aux dépenses courantes, soit à aux dépenses en capital. Finalement, la question de savoir si une dépense est engagée au titre du revenu ou du capital ne peut être tranchée qu’après avoir tenu compte de l’intégralité des faits. Aucun critère n’est déterminant et il est nécessaire d’examiner collectivement les critères.
+[34] Le principal critère qu’il faut appliquer pour établir si une dépense est de nature courante ou capitale est l’« objet et la nature » de la dépense. Pour parvenir à ma conclusion, j’ai tenu compte des critères suivants, à la lumière de l’ensemble des éléments de preuve.
+i) Amélioration et avantage durable
+[35] En l’espèce, les réparations ont permis d’améliorer le logement, ce qui a constitué un avantage durable. Cependant, il est évident que toutes les réparations impliquent d’une certaine manière l’amélioration d’un bien. La question est de savoir si l’amélioration était suffisamment importante pour justifier la création d’une immobilisation qui diffère de celle qui existait déjà. En l’espèce, je suis d’avis que cela n’est pas le cas.
+[36] Le bien était un logement locatif qui se trouvait dans un quartier attirant de Vancouver. Cela était toujours le cas après les réparations. À mon avis, les réparations n’ont pas donné lieu à quelque chose de nouveau. Elles n’ont pas créé un nouvel actif et elles ont simplement permis de moderniser ce qui existait déjà. Comme l’a déclaré le juge Hershfield dans l’arrêt Hare [21] au paragraphe 44 :
+[44] Il est certain que les décisions qui ont été rendues dans ce domaine donnent à entendre que le fait que des réparations créent un avantage durable ne les empêche pas pour autant d’être considérées comme une dépense courante. L’analyse devient d’autant plus difficile qu’elle s’éloigne de la perspective traditionnelle. Remplacer un toit ou des armoires de cuisine, c’est peut-être effectuer des réparations, même si ces travaux ont une valeur durable. Cet écart de l’analyse traditionnelle semble découler du fait que toutes les réparations auront inévitablement une valeur durable quelconque ainsi que du cycle continu répétitif des réparations attribuables à l’usage, à l’âge et à des problèmes imprévus. Une telle réalité exige, ou du moins a causé, un changement d’orientation et je suis d’accord avec l’avocat de l’appelant lorsqu’il dit qu’il faut avant tout mettre l’accent sur l’objet et la nature des travaux qui sont exécutés.
+[37] Selon les éléments de preuve de l’appelant, que j’accueille, les travaux effectués à l’intérieur du logement ont visé à redonner au logement son état d’origine, et non à créer un nouvel actif. Les travaux ont été réalisés pour remplacer des articles usés et ayant atteint leur durée de vie utile. Selon ce qu’a décrit l’appelant, il semble y avoir eu beaucoup de réparations. Cependant, elles ont été effectuées pour un coût inférieur à 24 000 $, ce qui ne représente pas une somme importante, si l’on tient compte des travaux réalisés. Les réparations n’ont ni nécessité des permis de construction ni créé des difficultés par rapport au code du bâtiment. Les travaux n’ont pas compris le réaménagement du logement et ils n’ont pas modifié l’agencement ou la taille ou augmenté celle-ci ni amélioré ou modifié la fonctionnalité du logement. Les matériaux et articles achetés étaient des produits comparables et ils n’étaient pas censés être de meilleure qualité par rapport aux produits ou matériaux d’origine. L’intention du contribuable était de continuer à pouvoir louer le logement; en d’autres termes, à faire en sorte que son état se prête à son utilisation normale. Les réparations visaient à réparer et non à rénover. Selon le juge Hershfield, dans l’arrêt Hare [22] au paragraphe 15, malgré la nature durable des réparations et bien que certains travaux aient comporté des rénovations, si les réparations n’ont pas changé le caractère du bien, n’ont pas transformé le bien en quelque chose de neuf ou ne l’ont pas remplacé par quelque chose de neuf, elles peuvent être considérées comme des dépenses courantes. Il faut se concentrer sur le but des réparations : se demander si elles visaient à améliorer l’immobilisation ou à la rendre différente. Le fait que ces réparations soient censées améliorer un bien et que ce soit inévitable, et qu’elles pourraient même ne se produire qu’une fois, ne signifie pas qu’il ne s’agit pas de réparations.
+[38] Je conclus que l’amélioration apportée au logement n’était pas suffisante pour justifier la création d’une immobilisation qui diffère de celle qui existait déjà. Les réparations n’ont pas changé le caractère du bien ou n’ont pas transformé le bien en quelque chose de neuf.
+ii) Réparations usuelles
+[39] Les réparations usuelles d’un bien en état de location, même celles qui sont coûteuses, indiquent que les dépenses sont de nature courante. Il n’y a rien d’inhabituel à remplacer des armoires de cuisine en mauvais état et démodées. Il en va de même pour les autres réparations que l’appelant a décrites. Par ailleurs, si les dépenses sont extravagantes et anormales pour un bien locatif, il est moins probable que les dépenses soient classées comme courantes et qu’elles orientent l’analyse vers des dépenses en capital. Bien que les dépenses décrites par l’appelant puissent être rares, elles sont habituelles.
+iii) Moment des réparations
+[40] Parfois, lorsqu’on détermine la nature et l’objet des réparations, le moment où les réparations ont été exécutées peut être un critère important dans l’ensemble de l’analyse.
+[41] On peut soutenir avec succès qu’aucune des réparations prises individuellement ne correspondrait à une dépense en capital. Cependant, si je comprends bien l’avocate de l’intimée, elle fait valoir que puisque les réparations ont toutes été exécutées en une fois, l’ampleur totale des réparations est telle que lorsqu’elles sont combinées, elles transforment le logement en un nouvel actif et il s’agit donc de dépenses de nature capitale. L’intimée invoque l’affaire de Méthé v. M.N.R. [23] . Dans cette affaire, le juge Taylor a affirmé ce qui suit au paragraphe 8 :
+[traduction] [8] […] Je ne peux que signaler que le remplacement d’un élément (une porte, une fenêtre, un plancher, etc.) qui normalement « pourrait constituer une réparation », lorsqu’il est effectué dans le contexte d’un projet de rénovation intégrale, pourrait très facilement constituer une dépense en capital qui se différencie d’une dépense courante. Je citerais le passage à partir de la page 2210 (D.T.C. 224 de l’arrêt Wagar (précité) :
+[traduction] […] Par conséquent, à mon avis, la nature d’une dépense individuelle peut en soi, dans des situations comme celle en l’espèce, constituer le seul critère en fonction duquel la distinction est faite. De toute évidence, le remplacement d’une « porte » peut correspondre à une réparation, mais il peut aussi constituer une dépense en capital dans les situations où l’aperçu général de ce que l’ensemble des réparations a permis d’accomplir est une reconstruction ou rénovation complète de la structure. Lorsque le ministre établit une cotisation, il est habilité à dresser un aperçu de l’ensemble du programme des dépenses et il peut s’avérer presque nécessaire, dans certains cas, de ventiler de façon quelque peu arbitraire les dépenses « courantes » et « en capital ». Je ne connais pas une jurisprudence selon laquelle le ministre doit reconnaître tous les postes de dépenses comme des dépenses « courantes », plutôt que de considérer que certaines de ces dépenses sont de même nature que l’achat de l’immobilisation d’origine et qu’elles permettent l’exécution de ce programme de dépenses en capital.
+[Non souligné dans l’original.]
+[42] Cependant, l’Agence du revenu du Canada (l’« ARC ») reconnaît elle-même que plusieurs réparations faites en même temps ne permettent pas nécessairement la reclassification de la nature des réparations. L’alinéa 4d) du bulletin d’interprétation IT-128R énonce :
+[traduction]
+[...] lorsque des travaux de réparation, qui correspondent au cumul de petits travaux dont le coût aurait été imputé aux dépenses courantes, sont exécutés, si chacun d’eux avait été effectué au moment où le besoin survenait, le fait que ces travaux n’ont pas été effectués plus tôt ne change pas la nature de ceux-ci au moment où ils sont accomplis, quel que soit leur coût total.
+[43] Je partage le point de vue selon lequel des dépenses ne sont pas de nature « capitale » simplement parce que de nombreuses réparations sont effectuées toutes en même temps. Ce n’est que lorsque la réalisation de plusieurs réparations donne lieu à une amélioration importante du bien remis en état au-delà de son état d’origine ou à la création d’un actif différent de celui qu’il a remplacé que le coût des réparations sera imputé aux dépenses « en capital », comme cela a été le cas dans l’arrêt Shabro Investments Ltd. v. R. [24] Je m’inspire beaucoup plus de l’opinion du juge Hershfield énoncée au paragraphe 52 de l’arrêt Hare [25] :
+[52] [...] je tiens à faire remarquer qu’il est passablement certain que, d’une façon générale, le traitement des réparations à titre de dépenses courantes ne changera pas simplement parce qu’un certain nombre de réparations sont effectuées en même temps. Les décisions faisant autorité ne semblent pas donner à entendre que les tribunaux feront une appréciation rétrospective de la décision qu’un propriétaire prend au sujet du moment où il effectuera des réparations qui peuvent, par exemple, être effectuées à divers stades d’usure, lorsqu’un bien est inoccupé ou lorsque le marché locatif est lent ou encore lorsqu’il est possible de réaliser des économies, notamment lorsque le propriétaire décide de procéder à de multiples réparations qui peuvent, lorsqu’elles sont effectuées ensemble, sembler constituer des rénovations, alors qu’elles pourraient d’une façon plus appropriée être considérées comme des réparations cycliques de la nature d’une restauration, sans aucune intention de changer le caractère du bien.
+[44] En l’espèce, je retiens l’argument de l’appelant selon lequel le moment où les réparations ont eu lieu était fortuit, en ce sens que l’interruption de la location lui a donné l’occasion d’effectuer toutes les réparations nécessaires en même temps, d’une manière plus efficace et rentable, sans déranger son locataire. Le moment où les réparations ont été réalisées était simplement un hasard. La nature et l’objet des réparations sont déterminants. En l’espèce, j’estime que le moment où les réparations ont été effectuées n’est pas un critère important.
+iv) Bien inoccupé pendant les réparations
+[45] L’intimée affirme que le logement devait être inoccupé pour effectuer les réparations et, par conséquent, qu’on devrait considérer que les dépenses sont de nature capitale. Bien que le logement ait été effectivement inoccupé entre les locations, cela ne signifie pas qu’il devait l’être pour effectuer les réparations. Il était simplement plus facile d’accomplir les réparations si le logement était inoccupé. Le juge McArthur de notre Cour a fait remarquer, au paragraphe 24 de l’arrêt Janota c. La Reine [26] qu’il est plus pratique de laisser inoccupé un bien locatif pendant la réalisation des travaux nécessaires, lesquels permettront ensuite d’exiger un loyer plus élevé. Le fait que le logement de l’appelant ait été inoccupé pendant les réparations n’est pas un critère important dans les circonstances de l’espèce.
+v) Coût des réparations par rapport à la valeur du bien
+[46] Le coût global des réparations comparativement à la valeur marchande de l’ensemble du bien pourrait aider à établir, dans le cadre de l’analyse, si les dépenses sont de nature capitale ou courante [27] .
+[47] En l’espèce, les éléments de preuve précisent que la valeur globale des réparations effectuées à l’intérieur du logement était inférieure à 24 000 $. Selon les éléments de preuve de l’appelant, cela représentait approximativement 5 % de la juste valeur marchande totale du logement. Aucun élément de preuve quant à la juste valeur marchande du logement n’est admissible. Cependant, je tiens pour fait notoire que les prix de l’immobilier sont très élevés dans le centre-ville de Vancouver et qu’ils sont parmi les plus élevés au Canada. Si l’appelant a raison de dire que 24 000 $ représentent approximativement 5 % de la valeur du logement, le logement ne vaut que près de 480 000 $, ce qui est peu dans le contexte de la flambée du marché immobilier à Vancouver. La valeur marchande pourrait très bien être beaucoup plus élevée, ce qui abaisserait le pourcentage. Un faible pourcentage de la juste valeur marchande, en l’espèce un pourcentage à un chiffre, indique qu’il s’agit de dépenses courantes, et non de dépenses en capital.
+vi) Augmentation du loyer
+[48] Le montant du loyer payé pour le logement s’élevait à 1 500 $ par mois avant l’achèvement des réparations à l’intérieur et celui des travaux d’assainissement à l’extérieur. Il a ensuite été fixé à 2 200 $, soit une augmentation importante de 700 $. Si je comprends bien son argument, l’avocate de l’intimée fait observer que la capacité d’appliquer une telle augmentation au montant du loyer révèle que le coût des réparations correspondait à des dépenses en capital, en ce sens que les réparations ont augmenté la valeur de l’immobilisation, ce qui a permis d’exiger un loyer plus élevé.
+[49] Je suis d’avis que les travaux d’assainissement extérieurs, qui étaient indépendants de la volonté de l’appelant, ont considérablement amélioré l’immeuble et donc le logement – encore plus que les réparations effectuées à l’intérieur – et qu’ils ont fortement contribué à augmenter la valeur marchande du logement, probablement de l’ordre de 107 000 $. Les réparations à l’intérieur ont coûté moins de 24 000 $. L’augmentation du montant du loyer est probablement due aussi bien aux travaux d’assainissement extérieurs qu’aux réparations intérieures. Je suis d’avis que l’augmentation du montant du loyer n’est pas un critère important dans les circonstances uniques de l’espèce. De toute manière, il n’est pas surprenant qu’un logement bien entretenu permette d’exiger un loyer plus élevé par rapport à un logement qui nécessite beaucoup de réparations [28] .
+[50] La nature et l’objet des travaux, lorsqu’ils sont examinés à la lumière des critères qui précèdent, m’amènent à conclure que les dépenses en l’espèce étaient de nature courante et non de nature capitale. Les réparations effectuées par l’appelant n’ont pas donné lieu à la création d’une immobilisation qui diffère de celle qui existait déjà. Les réparations visaient à réparer et non à rénover. Elles ont été réalisées pour redonner au bien son état d’origine. Il n’y a pas eu de changements importants apportés à la structure physique, à l’agencement ou à la fonctionnalité du logement. Les dépenses étaient modestes comparativement à la valeur du bien. Les mêmes réparations, si elles avaient été effectuées progressivement, au fil des ans, auraient coûté plus cher et auraient causé plus de désagréments. Le fait d’avoir réalisé toutes les réparations en même temps n’a pas changé leur caractère. Les réparations n’ont pas été une excuse pour moderniser le logement afin d’attirer une autre catégorie de locataires ou pour modifier le caractère du bien. Au contraire, il s’agissait d’une amélioration qui découlait incidemment de réparations qui étaient de la nature d’une restauration [29] .
+[51] Je conclus que le coût des réparations, qui s’est élevé à 23 483 $ pour l’année d’imposition 2012, correspond à une dépense de nature courante et non de nature capitale.
+Déductibilité des frais annualisés de 2012
+[52] Le ministre n’a pas autorisé la déduction de la somme de 2 613,71 $ versée à l’entreprise de gestion immobilière Colyvan Pacific, ainsi que celle des intérêts hypothécaires de 6 137 $, celle des impôts fonciers de 1 420 $ et celle des frais versés à l’entreprise de gestion immobilière Rancho et afférents au bien à Vancouver de 1 250 $, pour le motif que ces dépenses ont été engagées au titre du capital. Le ministre fait valoir que le bien à Vancouver n’était pas en état d’être loué de janvier 2012 à novembre 2012 et, par conséquent, ces dépenses devraient être capitalisées conformément à l’alinéa 18(1)b) de la Loi. Selon l’avis que j’ai déjà exprimé aux paragraphes 22 à 24 des présents motifs, le fait que le logement était inoccupé ne signifie pas qu’il n’était pas une source de revenus.
+[53] J’admets que le bien à Vancouver pouvait effectivement être loué de janvier à novembre 2012, mais les locataires éventuels se montraient prudents par rapport à la location du logement en raison des désagréments causés pendant plusieurs mois par le projet d’assainissement extérieur. Les travaux d’assainissement extérieurs étaient totalement indépendants de la volonté de l’appelant. J’admets que les propriétaires des autres logements qui y résidaient ont continué d’y habiter pendant le projet d’assainissement. Le locataire de l’appelant souhaitait rester dans le logement à condition que l’appelant fasse d’importantes concessions financières.
+a) Frais de gestion et d’administration en 2012 : 3 656 $
+[54] L’appelant a demandé une déduction pour les 3 656 $ déclarés comme dépenses de location pour l’année d’imposition 2012 à titre de frais de gestion et d’administration. Le ministre avait initialement rejeté la demande de déduction pour l’intégralité de cette somme. Dans ses observations écrites, l’appelant ventile ainsi cette somme :
+Entreprise de gestion immobilière Colyvan Pacific
+2 851,32 $
+Entreprise de gestion immobilière Rancho
+90,44 $
+Licence d’exploitation
+263,00 $
+Frais de bureau divers
+341,62 $
+Garantie de logement
+110,06 $
+Total
+3 656,38 $
+[55] Le ministre a déjà autorisé la déduction de la somme totale de 90,44 $ en ce qui concerne les frais versés à l’entreprise de gestion immobilière Rancho et afférents au bien à Vancouver, celle de la somme de 263 $ versée au titre de la licence d’exploitation, celle de la somme de 361 $ correspondant aux fournitures de bureau et celle de la somme de 110 $ qui correspond aux frais de garantie de logement (voir la réponse de l’intimée à l’alinéa 10b)). Par conséquent, seule la somme de 2 851,32 $ versée à Colyvan Pacific est en litige. Le ministre concède que l’appelant a le droit de demander la déduction d’une partie de cette somme, soit 237,61 $, à titre de dépenses de location supplémentaires pour le mois de décembre 2012, lorsque le logement était loué. L’intimée affirme que la somme restante de 2 613,71 $ est imputable aux dépenses faites aux mois de janvier à novembre 2012, lorsque le logement était inoccupé et qu’il ne pouvait pas être loué et, par conséquent, la déduction demandée pour cette somme n’a pas été autorisée. Cette somme devrait être capitalisée. Pour les motifs déjà énoncés aux paragraphes 22 à 24, je ne suis pas de cet avis.
+[56] Je conclus que la somme de 2 613,71 $ est déductible à titre de dépense courante.
+b) Intérêts hypothécaires pour 2012
+[57] L’appelant a demandé une déduction pour la somme de 10 063 $ au titre des intérêts hypothécaires se rapportant au bien à Vancouver, pour l’année d’imposition 2012. Le ministre a rejeté la demande de déduction pour la somme de 6 137 $, encore une fois pour le motif que le logement ne pouvait pas être loué et, par conséquent, cette somme ne devrait pas être capitalisée. Pour les motifs mentionnés plus haut, je ne suis pas d’accord. Je conclus donc que la somme de 6 137 $ est déductible en tant que dépense courante.
+c) Impôts fonciers pour 2012
+[58] L’appelant a demandé une déduction pour la somme de 2 570 $ au titre des impôts fonciers se rapportant au bien à Vancouver, pour l’année d’imposition 2012. Le ministre a rejeté la demande de déduction pour les 1 420 $ de cette somme, encore une fois pour le motif que le logement ne pouvait pas être loué et, par conséquent, cette somme devrait être capitalisée. Pour les motifs mentionnés plus haut, je ne suis pas d’accord. Je conclus donc que la somme de 1 420 $ est déductible en tant que dépense courante.
+d) Frais versés à l’entreprise de gestion immobilière Rancho pour 2012
+[59] L’appelant a demandé une déduction pour la somme de 1 323 $ au titre des frais versés à l’entreprise de gestion immobilière Rancho. Le ministre a rejeté la demande de déduction pour les 1 250 $ de cette somme, encore une fois pour le motif que le logement ne pouvait pas être loué et, par conséquent, cette somme devrait être capitalisée. Pour les motifs mentionnés plus haut, je ne suis pas d’accord. Je conclus donc que la somme de 1 250 $ est déductible en tant que dépense courante.
+Frais de bureau à domicile – 2012
+[60] L’appelant a déclaré la somme de 786 $ (en réalité 790,64 $ d’après la facture présentée à la Cour) comme dépense de location à titre de frais de bureau. Apparemment, cette dépense concernait l’achat d’un iPad d’Apple. Il y a eu aussi quelques questions concernant la somme de 49,19 $ dédiée à un programme de préparation fiscale Intuit. Le ministre a rejeté la demande de déduction pour le coût du iPad au motif qu’il s’agissait d’une dépense personnelle. Il ne fait aucun doute qu’un iPad peut être utilisé de multiples façons, tant à des fins personnelles que professionnelles. Dans ses observations écrites, l’appelant affirme que toutes les sommes compilées dans la rubrique [traduction] « Frais de bureau à domicile » (qui comprennent l’iPad et le programme fiscal) sont imputées aux [traduction] « frais de bureau à domicile », en fonction de la superficie de son domicile, à hauteur de 13,57 % de la superficie totale, afin de tenir compte de l’utilisation professionnelle d’une partie de son domicile. Par conséquent, la partie professionnelle de ces dépenses est déjà regroupée dans la demande de déduction de l’appelant pour les dépenses de bureau à domicile. La partie restante correspondrait à une dépense personnelle. Je conclus donc que la somme déclarée de 786 $ a déjà été comptabilisée.
+[61] Par ailleurs, il convient de mentionner que l’appelant a déclaré la somme totale des frais de bureau à domicile de 3 664,59 $ pour 2012 et de 3 494,87 pour 2013 (voir les pièces R-3a et 3b). Il s’agit de sommes considérables. Je conviens avec l’intimée qu’un contribuable doit passer énormément de temps à travailler à domicile pour réserver une telle portion importante des dépenses liées au domicile à des fins professionnelles. En l’espèce, l’appelant a fait appel à des sociétés de gestion immobilière pour qu’elles gèrent ses biens et il les a grassement payées pour leur travail. Par conséquent, j’ai du mal à croire qu’il a consacré énormément de temps à des questions ayant exclusivement trait aux biens locatifs, dans son bureau à domicile. Je conclus que ces sommes déclarées ne sont pas raisonnables. L’ARC a déjà autorisé la déduction des frais de bureau à domicile de 1 763 $ pour 2012 et de 2 333 $ pour 2013, ainsi que celle des dépenses déclarées au poste des fournitures de bureau de 361 $, en application du paragraphe 18(2) de la Loi (voir la page 9 de la réponse de l’intimée à l’avis d’appel). Compte tenu de toutes les circonstances, cela est raisonnable.
+Autres dépenses pour 2012 – 5 618 $
+[62] L’appelant conteste le rejet d’une demande de déduction pour d’autres dépenses déclarées de 5 618 $. Cependant, il fait valoir que l’ARC a classé par catégorie et regroupé les postes de dépenses d’une manière qu’il a du mal à comprendre. L’appelant affirme que d’après les renseignements dont il dispose, ces autres dépenses se rapportent à des frais de services bancaires de 201,37 $, plus les frais de bureau à domicile de 3 664,59 $, soit au total 3 865,96 $. Il n’a pas d’explication concernant le solde.
+[63] L’intimée souligne que l’appelant n’a pas démontré comment ces dépenses, en lien avec les revenus tirés de ses biens locatifs, ont été faites. Il incombe à l’appelant d’établir, selon la prépondérance des probabilités, que le ministre n’a pas examiné correctement les dépenses déclarées et qu’il a, à tort, rejeté sa demande de déduction pour ces dépenses [30] . Le ministre a déjà autorisé la déduction des frais de services bancaires de 201 $ et de 113 $ pour les années d’imposition 2012 et 2013, respectivement. Comme cela a été indiqué plus haut, le ministre a déjà autorisé la déduction des frais de bureau à domicile de 1 763 $ et de 2 333 $ pour les années d’imposition 2012 et 2013, respectivement. J’ai déjà conclu que cela était raisonnable. Compte tenu de l’absence d’éléments de preuve quant aux détails des dépenses qui comprenaient la somme de 5 618 $ en tant [traduction] qu’« autres dépenses », la déduction de ces dépenses n’est pas autorisée.
+Frais de déplacement pour se rendre en Arizona en 2013
+[64] L’appelant soutient que les dépenses suivantes se rapportent à son voyage de retour entre Toronto et Phoenix :
+Billets d’avion (de l’appelant et de son épouse)
+1 614,20 $
+Hébergement (quatre nuitées)
+2 503,81 $
+Essence
+75,37 $
+Stationnement à l’aéroport
+90,00 $
+Location de véhicules
+689,00 $
+Cadeau pour le gestionnaire immobilier
+79,53 $
+Nourriture (à l’extérieur de l’hôtel)
+516,49 $
+Médicaments/nourriture
+43,75 $
+Total
+5 612,15 $
+a) Billets d’avion
+[65] La somme totale de 1 614,20 $ correspondait à l’achat de billets d’avion pour deux personnes, à savoir l’appelant et son épouse, pour se rendre à Las Vegas, au départ de Toronto, puis pour retourner à Toronto au départ de Phoenix. Cependant, l’appelant a loué un véhicule à Las Vegas pour se rendre à Phoenix, ce qui lui a coûté 689 $. Le ministre a convenu que ce segment du trajet a été effectué à des fins professionnelles et il a autorisé la déduction de cette somme. Lors du procès, l’appelant a reconnu qu’il n’aurait pas dû demander une déduction pour la totalité de la somme de 1 614,10 $, puisque la moitié de cette somme était afférente à son épouse et, par conséquent, elle était de nature personnelle. En conséquence, il demande une déduction pour la moitié de cette somme, soit 807,10 $.
+[66] Selon l’intimée, le voyage pour se rendre à Las Vegas a été effectué pour des motifs entièrement personnels, pour l’appelant et son épouse. La demande de déduction pour le prix du vol entre Toronto et Las Vegas a donc été rejetée. L’intimée fait valoir que seule la demande d’une déduction pour la dépense de location correspondant à la partie du vol effectué par l’appelant entre Phoenix et Toronto devrait être autorisée. Le ministre a déjà autorisé la demande d’une déduction pour la location d’une voiture de 689 $ (ce que j’estime être généreux), mais il reconnaît que la demande d’une déduction pour une dépense de location supplémentaire de 363,58 $ devrait être autorisée, à titre de frais de déplacement, en ce qui concerne son billet d’avion correspondant à la partie du trajet effectué au départ de Phoenix et à destination de Toronto. Je suis du même avis. L’appelant affirme qu’il était plus rentable de prendre l’avion pour aller à Las Vegas et de louer un véhicule pour se rendre à Phoenix, puis de prendre un vol vers Toronto à partir de Phoenix, que d’acheter un billet d’avion de retour entre Toronto et Phoenix et de louer un véhicule à Phoenix. Je ne suis pas de cet avis. Ce n’est tout simplement pas ce qu’indiquent les documents présentés. Je suis prêt à autoriser la déduction de la somme de 363,58 $ à titre de frais de déplacement, en plus de la déduction déjà autorisée de la somme de 689 $ qui correspond à la location d’un véhicule.
+b) Hébergement et nourriture
+[67] L’appelant demande une déduction pour la somme de 2 503,81 $ qui correspond aux frais d’hébergement et de repas à l’hôtel. Il demande aussi une déduction pour la somme supplémentaire de 516,49 $ afférente aux repas consommés à l’extérieur de l’hôtel, pendant son séjour à Phoenix. Je conclus que l’appelant a passé quatre nuits à Phoenix, du 1er au 5 avril, date à laquelle il a quitté Phoenix. Les frais journaliers se sont élevés à 404 $ pour le prix de la chambre et à 4,48 $ pour la taxe d’hébergement, par nuit, soit au total 408,48 $ par nuit. Cela représente la somme totale de 1 633,92 $ (408,48 x 4). Je suis prêt à autoriser la déduction des dépenses de location de 1 633,92 $, à titre d’hébergement.
+[68] La facture de l’hôtel présentée indiquait aussi la somme de 465,67 $ qui se rapportait aux repas consommés à l’hôtel. Dans ses observations écrites, l’appelant fait valoir que les seuls repas qu’il a consommés à l’hôtel ont été un dîner et un souper, le 1er avril, un déjeuner et un souper le 2 avril et seulement un déjeuner le 3 avril, soit cinq repas au total. Pour deux déjeuners, un dîner et deux soupers, la somme est importante. L’appelant demande aussi une déduction pour la somme de 516,49 $ au titre des repas consommés à l’extérieur de l’hôtel. Dans ses observations écrites, l’appelant fait valoir que cette somme correspond à deux déjeuners, à quatre dîners et à deux soupers. La somme totale déclarée concernant les repas consommés lors d’un voyage d’affaires de plus de cinq jours s’élève à 982,16 $. Pour une personne, cette somme est tout simplement déraisonnable. L’appelant n’a pas réussi à me convaincre que cette somme ne concernait que lui et si tel était le cas, cette dépense est déraisonnablement élevée. Je suis d’avis qu’en ce qui concerne les repas consommés à Phoenix, demander une déduction pour la moitié de cette somme est raisonnable et son autorisation reste généreuse. Par conséquent, j’autorise la déduction de la somme de 491,08 $ (982,16 $ x ½) au titre des repas. Bien que quelque peu arbitraire, je suis d’avis que cela est raisonnable, compte tenu de toutes les circonstances.
+c) Essence, stationnement à l’aéroport et cadeau
+[69] L’intimée reconnaît que l’appelant devrait avoir le droit de déduire les dépenses supplémentaires de 75,37 $, de 90 $ et de 79,53 $, respectivement, au titre de l’essence, du stationnement à l’aéroport et du cadeau remis à son gestionnaire immobilier.
+d) Médicaments
+[70] L’appelant déclare 43,75 $ dépensés pour l’achat d’un écran solaire. Cette dépense étant de nature personnelle, sa déduction n’est pas autorisée.
+Règlement de l’appel
+[71] Pour les motifs qui précèdent, l’appel est accueilli en partie et l’affaire est renvoyée au ministre pour nouvel examen et établissement d’une nouvelle cotisation en se fondant sur ce qui suit :
+a) Bien à Vancouver –2012
+La déduction des dépenses de location courantes de 23 483 $ est autorisée, au titre des travaux de réparation et d’entretien.
+La déduction des dépenses de location courantes de 2 613,71 $ est autorisée, au titre des frais de gestion et d’administration. Cette dépense vient s’ajouter à la somme de 237,61 $ versée à Colyvan, à la somme de 263 $ dépensée pour la licence d’exploitation, à la somme de 90,44 $ payée à l’entreprise de gestion immobilière Rancho, à la somme de 361 $ déboursée pour l’achat de fournitures de bureau et à la somme de 100 $ correspondant aux frais de garantie de logement, pour lesquelles le ministre a déjà autorisé une déduction.
+La déduction des dépenses de location courantes de 6 137 $ est autorisée, au titre des intérêts hypothécaires, en plus de la somme de 3 926 $ pour laquelle le ministre a déjà autorisé une déduction.
+La déduction des dépenses de location courantes de 1 420 $ est autorisée, au titre des impôts fonciers, en plus de la somme de 1 150 $ pour laquelle le ministre a déjà autorisé une déduction.
+La déduction des dépenses de location courantes de 1 250 $ est autorisée, au titre des frais versés à l’entreprise de gestion immobilière Rancho, en plus des sommes pour lesquelles le ministre a déjà autorisé des déductions.
+b) Frais de déplacement afférents au bien en Arizona – 2013
+La déduction des dépenses de location courantes de 363,58 $ est autorisée, au titre des déplacements. Cette dépense vient s’ajouter à la somme de 689 $ pour laquelle le ministre a déjà autorisé une déduction, au titre de la location d’un véhicule.
+La déduction des dépenses de location courantes de 1 633,92 $ est autorisée, au titre de l’hébergement.
+La déduction de la dépense de location courante de 491,08 $ est autorisée, au titre des repas consommés à Phoenix, en Arizona. Cela comprend les sommes de 258,25 $ et de 114,29 $ que l’intimée a reconnues.
+Le ministre reconnaît qu’une déduction pour les dépenses de location courante de 75,37 $, de 90 $ et de 79,53 $ devrait être autorisée, au titre de l’essence, du stationnement à l’aéroport et du cadeau offert au gestionnaire immobilier, respectivement.
+[72] Le contribuable n’a droit à aucune autre mesure de redressement.
+Signé à Kingston (Ontario), ce 11e jour de février 2021.
+« Rommel G. Masse »
+Le juge suppléant Masse
+RÉFÉRENCE :
+2020 CCI 5
+NO DU DOSSIER DE LA COUR :
+2019-1732(IT)I
+INTITULÉ :
+ANTHONY DICAITA c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Hamilton (Ontario)
+DATE DE L’AUDIENCE :
+Le 8 octobre 2020
+MOTIFS DU JUGEMENT :
+L’honorable juge suppléant Rommel G. Masse
+DATE DU JUGEMENT :
+Le 11 février 2021
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Acinkoj Magok
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+S.O.
+Cabinet :
+S.O.
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Arrêt Stewart c. Canada, 2002 CSC 46.
+[2] Ibid.
+[3] Rainbow Pipe Line Co. Ltd. c. Canada, 2002 CAF 259, par. 11, 12 et 14.
+[4] The Minister of National Revenue v. Algoma Central Railway, [1968] R.C.S. 447.
+[5] Hare c. Canada, 2013 CAF 80, par. 11 [Hare (CAF)].
+[6] Hare c. La Reine, 2011 CCI 294, par. 44 [Hare (CCI)].
+[7] Hare (CCI), précité, par. 45.
+[8] Cousineau c. La Reine, 2013 CCI 375.
+[9] Lewin c. La Reine, 2008 CCI 618 (CanLII).
+[10] Janota c. La Reine, 2010 CCI 395 (CanLII). Le bien a été laissé inoccupé pendant la réalisation des réparations, comme en l’espèce. Une fois les réparations terminées, un loyer plus élevé a été exigé.
+[11] Martinello c. La Reine, 2010 CCI 432 (CanLII). Les dommages causés par un ouragan ont rendu la maison inhabitable pendant un certain temps.
+[12] Palangio c. La Reine, 2012 CCI 405 (CanLII).
+[13] Aon Inc. c. La Reine, 2017 CCI 166 (CanLII). Les réparations ont coûté plus de 4 000 000 $. Le garage a été endommagé en raison de l’exposition au sel, à la neige, à la pluie et à la circulation. Des réparations ont été réalisées de manière à ce que le garage ne cause « aucun souci » pour les 20 à 30 prochaines années.
+[14] Fiore v. The Queen, [1993] 2 C.T.C. 68.
+[15] Hare (CAF), précité, note 4.
+[16] Fotherby c. La Reine, 2008 CCI 343 (CanLII).
+[17] Scharfe c. La Reine, 2010 CCI 39 (CanLII). Des granges dans une exploitation agricole, y compris une vieille grange, ont été améliorées et transformées de façon à pouvoir les louer comme lieu d’entreposage frigorifique.
+[18] Bishop c. Canada, 2010 CAF 137 (CanLII).
+[19] Mbénar c. Canada, 2012 CAF 180 (CanLII). Le juge Favreau, le juge de première instance, a indiqué que les dépenses se rapportaient à de gros travaux de rénovation qui correspondaient à une réhabilitation complète d’un immeuble qui était en décrépitude et dangereux pour les locataires.
+[20] Peach c. La Reine, 2020 CCI 12 (CanLII) (porté en appel devant la CAF).
+[21] Hare (CCI), précité, par. 44.
+[22] Hare (CCI), précité, par. 15.
+[23] Méthé v. M.N.R., [1986] 1 C.T.C. 2493.
+[24] Shabro Investments Ltd. v. R., 79 D.T.C. 5104 (CAF)
+[25] Hare (CCI), précité.
+[26] Janota c. La Reine, précité, note 11.
+[27] Chambers v. R., [1998] 1 C.T.C. 3273 (CCI)
+[28] Voir, par exemple, l’arrêt Janota c. La Reine, précité à la note 11.
+[29] Hare (CCI), précité, par. 55.
+[30] Hickman Motors Ltd. c. Canada, [1997] 2 R.C.S. 336.

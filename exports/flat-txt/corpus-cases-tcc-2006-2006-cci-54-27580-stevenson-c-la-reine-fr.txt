@@ -1,0 +1,129 @@
+Title: Stevenson c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27580/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-54-27580-stevenson-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2006-07-20
+
+# Stevenson c. La Reine
+
+- Citation: 2006 CCI 54
+- Decision date: 2006-07-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 74, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Stevenson c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-07-20
+Référence neutre
+2006 CCI 54
+Numéro de dossier
+2001-2280(IT)G
+Juges et Officiers taxateurs
+Theodore E. Margeson
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2006CCI54
+Date : 20060720
+Dossier : 2001-2280(IT)G
+ENTRE :
+M. JANET STEVENSON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l'audience à Saint John (Nouveau-Brunswick), le 19 décembre 2005.)
+Le juge Margeson
+[1] La question dont la Cour est saisie est de savoir si le ministre du Revenu national a correctement établi la cotisation de l'appelante pour les années d'imposition 1994, 1995 et 1996 en incluant dans les revenus de cette dernière une dette envers Carcroft Holdings Inc. (la « société » ) qu'elle n'a pas remboursée, selon le ministre.
+[2] Il est aussi question de savoir si, pour les années 1994, 1995 et 1996, l'appelante a reçu un avantage au titre d'intérêts correspondant aux montants indiqués dans la réponse.
+[3] L'exactitude des montants en cause n'a pas été contestée devant la Cour. Elle a été confirmée par le comptable qui a témoigné pour le compte de l'appelante.
+[4] La question est donc de savoir si ces montants ont été définis correctement comme représentant des prêts ou une dette de sorte que le ministre puisse appliquer les dispositions du paragraphe 15(2) de la Loi de l'impôt sur le revenu.
+[5] D'entrée de jeu, je peux affirmer qu'aucune preuve pouvant réfuter les hypothèses contenues dans la réponse n'a été présentée à la Cour.
+[6] À elles seules, sans autre élément de preuve, ces hypothèses suffisent à établir prima facie le bien-fondé des allégations que l'appelante doit réfuter.
+[7] Le ministre est en droit de s'appuyer sur les hypothèses contenues dans la réponse jusqu'à ce qu'elles soient réfutées d'une manière qui permet à la Cour de conclure que l'appelante a prouvé, selon la prépondérance des probabilités, que la cotisation était inexacte.
+[8] L'appelante veut convaincre la Cour qu'on n'aurait pas dû tenir compte des montants en cause ici dans l'établissement de sa cotisation. Elle soutient qu'ils ne représentent pas un prêt ou une dette et que rien ne vient prouver qu'il s'agit d'un prêt ou d'une dette.
+[9] Tout d'abord, les hypothèses contenues dans la réponse traitent de plusieurs aspects de cette question, et aucune preuve n'est venue réfuter ces hypothèses. L'appelante ne s'est pas présentée devant la Cour et elle n'a pas témoigné.
+[10] De plus, la personne qui a témoigné pour le compte de l'appelante a présenté à la Cour des preuves démontrant que les montants en cause ont été inscrits dans les registres de la société comme des prêts à un actionnaire.
+[11] Ceci suffit pour établir prima facie que l'appelante a reçu des prêts.
+[12] La Cour renvoie à la transcription de l'interrogatoire préalable, au cours duquel l'appelante a aussi eu l'occasion de réfuter les allégations concernant la présence d'un prêt ou d'une dette ou d'expliquer pourquoi les montants n'auraient pas dû être inscrits dans les registres de la société comme des prêts.
+[13] Elle aurait pu dire, comme il est indiqué dans certaines des causes mentionnées, qu'il y avait eu une erreur, que les registres étaient inexacts ou qu'il s'agissait de montants qu'elle recevait pour réduire les dividendes ou les capitaux propres.
+[14] Elle aurait pu dire qu'il s'agissait de récompenses pour du travail accompli pour la société dans des années antérieures, qu'elle n'avait pas à les déclarer en application du paragraphe 15(2) et que, si nécessaire, elle était prête à subir des conséquences découlant de l'application d'un autre article ou d'un autre paragraphe.
+[15] Elle a eu amplement l'occasion de se justifier, mais elle ne l'a pas fait. De surcroît, elle ne s'est pas présentée en Cour et n'a pas fourni la moindre explication.
+[16] Essentiellement, l'avocate de l'appelante demande à la Cour de conclure que l'absence de preuve démontrant qu'elle avait contracté une dette en se faisant consentir un prêt ou que le prêt devait être remboursé faisait en sorte que la Cour devait présumer qu'il ne s'agissait pas d'un prêt mais de montants de nature différente. Cependant, l'avocate n'a pas précisé quelle devrait être la nature des montants, et personne n'a pu présenter à la Cour une preuve permettant de définir ces montants d'une façon qui contredirait ce qu'ils semblent être prima facie.
+[17] La Cour examine la preuve qui lui est présentée, notamment le libellé utilisé dans les états financiers établis par le comptable de la société.
+[18] Il est vrai que ce qu'a indiqué le comptable dans les états financiers ne constitue pas nécessairement un élément de preuve. Cependant, s'il établit des documents financiers pour la « société » où il est question de ce qui nous intéresse ici et où il mentionne la « société » et lui attribue des « prêts à un actionnaire » ou une « dette d'un actionnaire » , de prime abord, ceci laisse entendre à la Cour qu'il s'agit d'une dette d'un actionnaire.
+[19] Si l'appelante veut contredire cette conclusion et démontrer que les montants constituent autre chose qu'une dette d'un actionnaire, il lui incombe de se présenter devant la Cour et de définir les montants dans son témoignage.
+[20] Dans les documents de la société, les montants sont définis comme une dette d'un actionnaire ou des prêts à un actionnaire, et le solde des prêts à un actionnaire y apparaît.
+[21] Selon la transcription de l'interrogatoire préalable, l'appelante a eu l'occasion d'expliquer ce que constituent les montants s'ils ont été mal définis. Le ministre a cité à comparaître un témoin qui a examiné tous les documents qui lui avaient été présentés ainsi que les états financiers établis par le comptable de la société. D'après son témoignage et tous les autres éléments de preuve présentés à la Cour, la seule conclusion possible est que les montants doivent constituer un prêt à un actionnaire.
+[22] L'avocat de l'intimée a, à juste titre, demandé à la Cour de tirer une conclusion défavorable à l'égard de l'appelante parce qu'elle n'a pas témoigné.
+[23] Une autre personne est venue témoigner, soit l'épouse du comptable. Elle a témoigné de façon compétente et impartiale, et, selon la Cour, de façon franche. Elle est venue donner le coup de grâce à l'argument de l'appelante voulant que les montants ne représentent pas des prêts. L'épouse du comptable a affirmé qu'ils ont été assortis d'un échéancier et mis en place comme des prêts.
+[24] Si les montants ne sont pas des prêts, ils représentent certainement une dette quelconque, au sens donné à ce terme par la jurisprudence. De toute évidence, les paragraphes 15(1) et 15(2) ne définissent pas le terme « prêt » .
+[25] Le paragraphe 15(1) traite d'un avantage conféré à un contribuable ou à un actionnaire.
+[26] À mon avis, le paragraphe 15(2) a une portée plus large. Il est rédigé en ces termes :
+Lorsqu'une personne (autre qu'une société résidant au Canada) ou une société de personnes (autre qu'une société de personnes dont chaque associé est une société résidant au Canada) est actionnaire d'une société donnée, est rattachée à un actionnaire d'une société donnée, ou est un associé d'une société de personnes ou un bénéficiaire d'une fiducie qui est actionnaire d'une société donnée, et a reçu au cours d'une année d'imposition un prêt consenti par la société donnée, [...] ou est devenue sa débitrice [...]
+[27] Il s'agit ici d'un libellé assez vaste. Rien de ce libellé ne porte à croire que les montants en cause dans la présente affaire ne représentent pas une dette.
+[28] La Cour conclut qu'il s'agit de prêts à un actionnaire.
+[29] Rien dans le paragraphe 15(1) n'indique qu'il doit y avoir une intention de frauder ou de ne pas rembourser l'argent.
+[30] Cela résume l'interprétation du ministre. Il semble que ce dernier n'ait pas appliqué le paragraphe 15(1) en l'espèce parce qu'il ne voulait pas imposer de pénalité, la disposition en question lui donnant le droit de le faire.
+[31] C'est la seule raison que la Cour a trouvée pour justifier l'omission du ministre d'appliquer le paragraphe 15(1). Ce n'est pas parce que le vérificateur ne pensait pas qu'il était question d'un prêt. Il avait un document indiquant que les montants en cause représentaient une dette d'un actionnaire ou des prêts à un actionnaire.
+[32] Compte tenu de la preuve produite, la Cour conclut que l'appelante n'a pas réfuté les hypothèses énoncées dans la réponse. De plus, la preuve qui lui a été soumise amène la Cour à la conclusion inéluctable selon laquelle il existait une dette visée par le paragraphe 15(2).
+[33] L'avocat renvoie à la décision Kwong c. Canada, no 91-1695(IT)G, 12 mai 1993, [1993] A.C.I. no 196, à l'onglet 2 du recueil de jurisprudence et de doctrine de l'intimée.
+[34] Le juge Bonner indique notamment ce qui suit :
+L'article 15 de la Loi est centré sur les sorties d'argent ou d'actifs d'une corporation [...]
+[35] En l'espèce, la Cour est convaincue qu'il y a eu une sortie d'argent ou d'actifs de la société.
+[36] C'est exactement ce qui s'est passé. Il y a eu une sortie d'argent de la société, des actifs ont, de toute évidence, été retirés et n'ont pas été remplacés. En fait, ils ont été remplacés par la dette, mais il n'y a pas eu de remboursement.
+[37] Rien ne démontre qu'il devait y avoir un remboursement ou qu'il y a bel et bien eu un remboursement.
+[38] Ensuite, le juge Bonner cite ce qui suit :
+[TRADUCTION]
+Ainsi, un actionnaire, qu'il ait ou non l'intention d'éluder l'impôt sur des fonds reçus d'une corporation, est obligé d'inclure dans son revenu le montant de tout prêt qui lui est consenti par la compagnie ou de toute dette contractée en sa faveur.
+[39] Le terme « dette » englobe certainement les montants qui ont été transférés de la trésorerie de la société à l'appelante ou au profit de l'appelante. Ces montants représentent des prêts ou une dette, et probablement les deux.
+[40] Les montants n'ont pas à représenter une dette découlant d'opérations directes entre la société et les personnes rattachées aux actionnaires. Un contribuable peut contracter une dette envers une société de toutes sortes de façons, non seulement au moyen d'un prêt direct qui doit être remboursé ou qui n'a pas à l'être.
+[41] Il ne serait pas approprié de donner une interprétation restrictive ou étroite à la disposition. C'est ce que l'avocate de l'appelante semble demander à la Cour de faire lorsqu'elle lui demande de conclure que les montants ne représentent pas des prêts.
+[42] Quoi qu'il en soit, la Cour conclut qu'il s'agit de prêts. Si les montants ne constituent pas des prêts, alors ils représentent certainement une dette.
+[43] Le juge Bonner déclare ce qui suit :
+Bien qu'il soit évident que le paragraphe 15(2) ait une très grande portée et puisse constituer un piège pour une personne qui ne fait pas preuve de prudence, [...]
+C'est probablement la raison pour laquelle il a été adopté. Le juge Bonner ajoute ce qui suit :
+[...] le Parlement a prévu un moyen permettant de ne pas tomber sous le coup de cette disposition. Je veux parler de l'alinéa 15(2)b), grâce auquel on peut éviter l'inclusion du prêt dans le revenu en le remboursant dans le délai imparti.
+[44] En l'espèce, le moyen de défense de l'appelante aurait donc pu être que la dette devait être remboursée, et qu'elle l'a été dans le délai imparti. L'appelante aurait aussi pu expliquer pourquoi la dette n'a pas été remboursée dans le délai imparti.
+[45] La Cour sait bien qu'il existe des décisions qui indiquent qu'un contribuable n'est pas lié par ce qui est inscrit dans les états financiers ou par une décision prise par un comptable. C'est bien vrai. Mais il est impossible de parvenir à une conclusion différente dans des circonstances où l'on interprète un document comme un relevé de prêt à un actionnaire, où les états financiers eux-mêmes sont établis par le comptable de la société dans le but d'être produits au fisc, où l'opération est définie, dans les états en question, comme un prêt à un actionnaire ou un compte de prêt à un actionnaire et où l'appelante n'a pas profité de l'occasion qui lui a été donnée aujourd'hui de venir expliquer à la Cour qu'il y a eu une erreur dans la description des montants.
+[46] Dans la présente affaire, l'appelante ne s'est jamais présentée pour dire que le compte de prêt à un actionnaire, tel qu'établi dans les états financiers, était inexact.
+[47] Étant donné tous les éléments de preuve qui lui ont été présentés, la Cour est convaincue que les opérations qui sont survenues au cours de la période pendant laquelle le prêt à l'actionnaire a été contracté consistaient en le versement de montants d'argent à la contribuable ou à son nom, ce qui est indubitablement suffisant pour donner lieu à un prêt.
+[48] Rien n'est venu prouver que les opérations pouvaient être autre chose, comme des avances ayant pour but de réduire les capitaux propres. La Cour est convaincue qu'il n'y a pas de preuve démontrant que les montants avancés à l'appelante sont autre chose que des prêts ou une dette établis par la société à l'égard de la contribuable.
+[49] La Cour estime qu'il n'y avait pas d'erreur en l'espèce en ce qui a trait à la définition des montants comme des prêts à un actionnaire.
+[50] Comme l'a indiqué l'avocat de l'intimée, un examen complet des opérations effectuées par la société pendant une certaine période, et non seulement pendant les années en litige, a été fait par le commis comptable de l'appelante et aussi par le comptable qui a témoigné aujourd'hui au nom de l'Agence du revenu du Canada. La Cour n'a donc aucune raison de remettre en question ce témoignage.
+[51] Le témoignage du comptable était franc. Celui-ci a montré à la Cour ses documents de travail et a expliqué comment il en est arrivé aux chiffres indiqués. Ces chiffres ne sont pas contestés. La Cour doit donc conclure que l'appelante n'a pas réfuté les hypothèses contenues dans la réponse.
+[52] L'appelante n'a pas prouvé, selon la prépondérance des probabilités, que la cotisation établie par le ministre est inexacte. La Cour doit donc rejeter l'appel et confirmer la cotisation établie par le ministre.
+Signé à New Glasgow (Nouvelle-Écosse), ce 20e jour de juillet 2006.
+« T. E. Margeson »
+Le juge Margeson
+Traduction certifiée conforme
+ce 28e jour d'octobre 2006.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2006CCI54
+N ° DU DOSSIER : 2001-2280(IT)G
+INTITULÉ : M. Janet Stevenson c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Saint John (Nouveau-Brunswick)
+DATE DE L'AUDIENCE : Le 19 décembre 2005
+MOTIFS DU JUGEMENT PAR : L'honorable juge T. E. Margeson
+DATE DU JUGEMENT MODIFIÉ : Le 27 janvier 2006
+COMPARUTIONS :
+Avocate de l'appelante :
+Me Nicole Gallant
+Avocat de l'intimée :
+Me John W. Smithers
+AVOCATS INSCRITS AU DOSSIER :
+Pour la demanderesse :
+Nom : Me Nicole Gallant
+Cabinet : Patterson Palmer
+Pour l'intimée : Me John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

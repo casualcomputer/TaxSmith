@@ -1,0 +1,190 @@
+---
+title: "Connolly c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/67014/index.do"
+last_modified: "2014-02-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 55"
+citation2: ""
+neutral_citation: "2014 CCI 55"
+decision_date: "2014-02-20"
+language: "fr"
+item_id: "67014"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5964
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:07:40.025000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "70223239c4267dba4320a1432fe6493e4cb760801bd5858a5bab4c57a18c81af"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Connolly c. La Reine
+
+- Citation: 2014 CCI 55
+- Decision date: 2014-02-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5964, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Connolly c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-02-20
+Référence neutre
+2014 CCI 55
+Numéro de dossier
+2011-2705(IT)G
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-2705(IT)G
+ENTRE :
+MICHELLE C. CONNOLLY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 19 septembre 2013, à Halifax (Nouvelle-Écosse).
+Devant : L'honorable juge Valerie Miller
+Comparutions :
+Avocat de l'appelante :
+Me M. Gerard Tompkins, c.r.
+Avocate de l'intimée :
+Me Catherine M. G. McIntyre
+JUGEMENT
+L'appel relatif à l'avis de cotisation du 2 février 2010 établi en vertu du paragraphe 160(1) de la Loi de l'impôt sur le revenu et ratifié le 3 juin 2011 est rejeté, et les dépens sont adjugés à l'intimée.
+Signé à Ottawa, Canada, ce 20e jour de février 2014.
+« V. A. Miller »
+La juge V. A. Miller
+Traduction certifiée conforme
+ce 29e jour de mai 2014.
+Yves Bellefeuille, réviseur
+Référence : 2014 CCI 55
+Date : 20140220
+Dossier : 2011-2705(IT)G
+ENTRE :
+MICHELLE C. CONNOLLY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge V. A. Miller
+[1] Le présent appel porte sur une cotisation établie en vertu du paragraphe 160(1) de la Loi de l'impôt sur le revenu (la « Loi »). Le ministre du Revenu national (le « ministre ») a établi à l'égard de l'appelante une cotisation de 76 884,17 $ relativement à des chèques que cette dernière avait reçus de son conjoint de fait, Wayne MacVicar, à une époque où celui-ci était un débiteur fiscal. Ces chèques avaient été déposés dans le compte bancaire de l'appelante du 10 février au 31 octobre 2003.
+[2] La dette fiscale de M. MacVicar avait trait à une nouvelle cotisation qui avait été établie le 10 juin 2002 relativement à son année d'imposition 2000 et par laquelle la somme de 125 815 $ avait été incluse dans son revenu. Par suite de cette nouvelle cotisation, le solde à payer pour cette année-là s'élevait à 102 059,89 $.
+[3] L'appelante exerce la profession d'analyste d'entreprise en Nouvelle‑Écosse. M. MacVicar et elle vivent ensemble depuis 1990. Leur premier domicile a été un appartement qu'ils ont loué; en 1994, ils se sont installés dans une maison que l'appelante avait achetée. Selon le témoignage de cette dernière, la maison a été inscrite à son nom seulement et elle seule l'a financée.
+[4] En 1992, en 1997 et, plus tard, en 2004, M. MacVicar a déclaré faillite et, chaque fois, son seul créancier était le ministre.
+[5] En 2002 et en 2003, M. MacVicar exploitait une entreprise de peinture appelée Paradigm Painting. Il était également le principal actionnaire, l'unique administrateur et l'unique dirigeant de Guzzler's Dining Room & Lounge Limited (« Guzzler's »).
+[6] Selon l'appelante, M. MacVicar avait une mauvaise cote de crédit et il comptait sur elle pour l'aider à financer ses entreprises. Elle savait que M. MacVicar avait déclaré faillite en 1992 et en 1997[1] et elle disait lui avoir servi de banquier en lui avançant des fonds pour payer ses dépenses d'entreprise et ses frais de subsistance. Ces derniers se composaient d'un loyer que, selon ses dires, elle lui facturait, des frais de nourriture et de frais accessoires, ainsi que d'un tapis roulant. Les dépenses d'entreprise étaient les dépenses relatives à la paye, les paiements pour une camionnette et les paiements d'assurance relatifs à ce véhicule, les paiements relatifs à la carte de crédit de M. MacVicar, de même que d'autres dépenses d'entreprise diverses.
+[7] L'appelante a déclaré que M. MacVicar n'avait pas de compte bancaire et qu'elle se servait principalement de l'un de ses trois comptes pour l'aider à exploiter ses entreprises. Elle déposait dans ce compte les chèques qu'il recevait de ses entreprises à lui et elle en retirait des montants en espèces afin qu'il puisse payer ses travailleurs et régler d'autres dépenses. Elle avait aussi une marge de crédit dont seul se servait M. MacVicar pour ses entreprises. Elle louait une camionnette en son nom pour que M. MacVicar puisse s'en servir pour ses entreprises. Lui seul se servait de ce véhicule. L'appelante a déclaré que la camionnette était immatriculée au nom de M. MacVicar, mais que le téléphone portable dont il se servait était inscrit à son nom à elle.
+[8] À titre de preuve concernant les dépenses et les prêts, l'appelante a produit une feuille de calcul qu'elle avait établie en 2011, à l'étape de l'opposition dans la présente affaire. Elle a également fait référence à des documents bancaires faisant état de retraits et de dépôts dans ses comptes bancaires, de chèques au porteur ainsi que de chèques à M. MacVicar. Selon ses calculs, du 10 février 2003 au 31 octobre 2003, M. MacVicar lui avait remis des chèques totalisant 76 884,17 $. Cependant, d'après sa feuille de calcul, il lui devait encore de l'argent à la fin d'octobre 2003. Elle a calculé que la somme qu'il lui devait à ce moment-là était de 47 309,07 $, ou de 106 890,57 $ si elle incluait les montants en espèces qu'elle avait prêtés à M. MacVicar.
+[9] Monsieur MacVicar a témoigné qu'en 2002 et en 2003, ses principales sources de revenus étaient son entreprise de peinture et Guzzler's. Dans son entreprise de peinture, la majeure partie de ses revenus provenait de Kiel Developments Ltd. et d'Austin Contracting Ltd. Tous les mois, il recevait de Guzzler's un salaire et une allocation pour frais afférents à un véhicule.
+[10] Du 10 février 2003 au 23 octobre 2003, M. MacVicar a endossé les chèques qu'il a reçus de son entreprise de peinture ainsi que ceux qu'il a reçus de Guzzler's et il les a remis à l'appelante, qui les a déposés dans l'un de ses comptes à elle.
+[11] M. MacVicar a déclaré que son entreprise de peinture comptait quatre ou cinq employés et qu'il les payait en argent comptant. Il a ajouté qu'il n'aurait pas eu d'employés si l'appelante ne lui avait pas prêté les fonds requis. Il ignorait combien d'argent il avait emprunté à l'appelante, mais il lui avait remboursé la totalité de ses emprunts.
+[12] À l'audience, l'appelante a fait valoir que M. MacVicar lui devait de l'argent et que les chèques qu'il lui avait remis étaient des paiements destinés à réduire sa dette. Le règlement de cette dernière constituait la contrepartie des fonds qu'il lui remettait.
+[13] L'intimée a soutenu que l'appelante n'accordait aucune contrepartie pour les fonds au moment du transfert. L'avocate de l'intimée a fait valoir qu'il n'y avait pas de prêts entre l'appelante et M. MacVicar. Subsidiairement, s'il existait bel et bien des prêts, ceux-ci n'avaient pas force exécutoire, car il n'existait qu'une obligation morale de rembourser les montants. La dette n'aurait pas pu constituer une contrepartie à l'égard des transferts pour l'application du paragraphe 160(1) de la Loi.
+[14] À l'issue de l'audience, l'avocat de l'appelante a demandé que je reporte le prononcé de ma décision jusqu'à ce que la Cour d'appel fédérale tranche l'affaire R. c. Danielle Lemire, 2013 CAF 242. Les deux avocats ont déposé des observations écrites quant à la question de savoir si l'arrêt Lemire s'appliquait au présent appel.
+[15] Dans ses observations, l'avocat de l'appelante a fait valoir que l'arrêt Lemire étayait un grand nombre des arguments invoqués en l'espèce :
+a) l'appelante n'avait pas tiré un avantage personnel des montants versés dans son compte;
+b) dans l'affaire Lemire, l'argent était immédiatement retiré du compte de Mme Lemire et remis à M. Dupuis (le débiteur fiscal), selon les instructions de ce dernier. En l'espèce, l'appelante a reçu les chèques de M. MacVicar avec pour instruction de payer pour lui ses dépenses d'entreprise;
+c) comme dans l'affaire Lemire, il n'y a pas eu d'entente écrite entre l'appelante et M. MacVicar au sujet de leurs arrangements;
+d) il a été conclu que Mme Lemire agissait comme mandataire de M. Dupuis. En l'espèce, l'appelante était la mandataire de M. MacVicar pour ce qui était du paiement des dépenses d'entreprise de ce dernier;
+e) Mme Lemire a cessé de faciliter la mise en oeuvre de l'arrangement conclu entre elle et M. Dupuis quand Revenu Québec l'a informée qu'elle était susceptible de faire l'objet d'une cotisation. En l'espèce, l'Agence du revenu du Canada (l'« ARC ») a communiqué avec l'appelante en 2004, en 2006 et en 2007. De l'avis de l'appelante, elle a répondu à toutes les questions et a éclairci la situation, ce qui a semblé satisfaire l'ARC. Lors d'une conversation téléphonique avec M. Ron Nicks, un employé de l'ARC, celui‑ci a déclaré à l'appelante que l'ARC n'établirait pas une cotisation en vertu de l'article 160;
+f) il n'y a pas eu de transfert de propriété des montants déposés dans le compte de l'appelante. Cette dernière ne s'est pas enrichie grâce aux opérations effectuées entre elle et M. MacVicar. Les fonds déposés ont servi à payer les dépenses d'entreprise de ce dernier, et tout excédent a été déduit des montants qu'il lui devait au titre des frais de subsistance.
+[16] L'avocate de l'intimée a fait valoir qu'il y a une différence entre les faits dont il est question dans l'arrêt Lemire et la situation de l'appelante. Dans l'arrêt Lemire, la Cour d'appel fédérale s'est fondée sur des dispositions bien précises du Code civil du Québec qui se rapportent au mandat. Dans le présent appel, la question du mandat (en common law) n'a pas été débattue. D'après l'intimée, l'arrêt Lemire n'est pas pertinent à l'égard du présent appel.
+Le droit applicable
+[17] Le paragraphe 160(1) de la Loi s'applique dans les cas où il y a eu un transfert de biens entre personnes ayant un lien de dépendance, et ce, sans contrepartie ou moyennant une contrepartie insuffisante, et où l'auteur du transfert avait un montant d'impôt à payer au moment du transfert. La politique qui sous‑tend cette disposition est expliquée dans l'arrêt Medland c. La Reine, 1998 CanLII 7895 (C.A.F.), de la manière suivante :
+[...] la politique fiscale qui sous-tend le paragraphe 160(1), ou son objet et son esprit consistent à empêcher un contribuable de transférer ses biens à son conjoint afin de faire échec aux efforts déployés par le ministre pour percevoir l'argent qui lui est dû.
+[18] Il est nécessaire de satisfaire à quatre exigences pour que le paragraphe 160(1) de la Loi s'applique :
+a) il doit y avoir un transfert de biens;
+b) le bénéficiaire et l'auteur du transfert doivent avoir un lien de dépendance;
+c) il ne doit y avoir aucune contrepartie ou une contrepartie insuffisante entre le bénéficiaire et l'auteur du transfert;
+d) l'auteur du transfert devait être tenu de payer de l'impôt au moment du transfert des biens. Voir Williams c. La Reine, [2000] A.C.I. no 459 (QL) (C.C.I.).
+[19] À l'audition du présent appel, la seule question soulevée et débattue a été l'exigence énoncée au point c). L'avocat de l'appelante a décrit la question en ces termes :
+[TRADUCTION]
+Je crois que nous avons affaire ici à une situation très restreinte dans un contexte unique et il s'agit de savoir si, au vu de la preuve, il est admissible ou approprié d'admettre que la dette ou le paiement des dépenses que l'appelante a supportées relativement aux fonds qu'elle a reçus est le montant de 77 000 $.
+[...]
+Cependant, il est évident que la question de la contrepartie est la question difficile à trancher en l'espèce, et il s'agit de savoir s'il y a suffisamment d'éléments de preuve pour établir l'existence d'une contrepartie, de sorte qu'il y aurait lieu d'annuler la cotisation soit en totalité soit, assurément, en grande partie[2].
+[20] L'avocat de l'appelante a fait valoir que, depuis que l'arrêt Lemire a été rendu, l'exigence énoncée au point a) est également en cause. Il a écrit que l'appelante agissait comme mandataire de M. MacVicar pour ce qui était du paiement de ses dépenses d'entreprise. L'appelante n'a pas obtenu la propriété bénéficiaire des fonds déposés dans son compte, et il n'y a pas eu de transfert des fonds.
+[21] Je suis d'avis qu'il est trop tard pour que l'appelante puisse faire valoir qu'elle agissait comme mandataire de M. MacVicar quand elle a reçu les chèques en question. La question du mandat n'a été ni soulevée dans l'avis d'appel ni débattue à l'audition de l'appel. L'appelante ne peut pas maintenant, après la présentation de la preuve, soulever une nouvelle question.
+[22] Par souci d'exhaustivité, je traiterai également des autres observations que l'appelante a présentées relativement à l'arrêt Lemire.
+[23] L'avocat de l'appelante a fait valoir que l'appelante avait reçu les chèques de M. MacVicar avec pour instruction de payer pour lui ses dépenses d'entreprise. Il s'agit là d'un argument que la preuve n'étaye pas. Ni l'appelante ni M. MacVicar n'ont témoigné que ce dernier endossait les chèques qu'il remettait à l'appelante en lui donnant pour instruction de payer ses dépenses d'entreprise. Selon le témoignage des deux parties, les chèques étaient endossés en faveur de l'appelante afin de rembourser à cette dernière les fonds qu'elle avait prêtés à M. MacVicar.
+[24] Dans ses observations écrites concernant l'applicabilité de l'arrêt Lemire, l'avocat de l'appelante a déclaré que l'appelante avait continué de faciliter la mise en oeuvre de l'arrangement conclu entre elle et M. MacVicar parce que les agents de l'ARC qui avaient communiqué avec elle ne lui avaient pas dit qu'elle ferait l'objet d'une cotisation. En particulier, il a déclaré que M. Ron Nicks avait dit à l'appelante que l'ARC n'établirait pas à son égard une cotisation fondée sur l'article 160, et que cela a été confirmé par le témoignage de M. Nicks.
+[25] L'observation de l'avocat de l'appelante au sujet du témoignage de M. Nicks est inexacte. Le témoignage de ce dernier ne confirme pas ce que l'appelante a déclaré. Quand on lui a demandé s'il avait dit à l'appelante qu'une cotisation fondée sur l'article 160 ne serait pas établie, M. Nicks a répondu :
+[TRADUCTION]
+Je lui ai dit que je n'établirais pas la cotisation parce que je ne serais plus affecté au dossier[3].
+[26] Il ressort bel et bien de la preuve que des agents de l'ARC ont communiqué avec l'appelante en 2004, en 2006 et en 2007. En février 2004, on lui a demandé des précisions à propos d'un chèque de 35 570,33 $ déposé dans son compte bancaire le 7 novembre 2003. Le chèque était payable à M. MacVicar et venait d'Austin Contracting Ltd. L'appelante a répondu qu'elle avait encaissé le chèque pour M. MacVicar, mais qu'il n'avait pas été porté au crédit de son compte. Elle avait envoyé à l'ARC une copie de ses opérations bancaires à l'appui de ce qu'elle avait déclaré.
+[27] Ce chèque n'a pas été inclus dans le montant de la cotisation établie à l'égard de l'appelante.
+[28] Ensuite, en octobre 2006, M. Ron Nicks, de l'ARC, a communiqué avec l'appelante. La lettre suivante que l'ARC a envoyée à l'appelante datait de novembre 2007 et il y était question des chèques qui sont en cause dans le présent appel. Il s'agissait d'une lettre préalable à une cotisation, et l'on accordait à l'appelante un délai de 30 jours pour y répondre. En réponse, elle a écrit que, lorsque les chèques de M. MacVicar avaient été déposés dans son compte, les fonds avaient été aussitôt retirés et remis à M. MacVicar. Dans une autre lettre adressée à l'ARC, l'appelante a joint une copie d'une traite bancaire du 6 novembre 2003 d'un montant de 80 000 $, qui, selon ses dires, incluait les fonds en question. La traite bancaire était établie au nom de l'avocat de M. MacVicar.
+[29] Selon la preuve, la traite bancaire de 80 000 $ n'incluait aucun des fonds provenant des chèques qui sont en cause dans le présent appel.
+[30] La question que l'avocat de l'appelante a soulevée était celle de savoir si les fonds déposés dans le compte bancaire de l'appelante lui avaient été transférés.
+[31] À l'audience, l'appelante a fait valoir que les chèques déposés dans son compte étaient des paiements à déduire de la somme que M. MacVicar lui devait. Si c'était le cas, il s'ensuivrait nécessairement que l'appelante avait à la fois la propriété en common law et la propriété bénéficiaire des chèques lorsqu'elle les a reçus.
+[32] Il est clairement ressorti du témoignage de l'appelante que les fonds que M. MacVicar lui a donnés et qui ont été déposés dans son compte lui ont été transférés. Elle s'est servie de deux des chèques déposés dans son compte pour acheter, en son nom, deux dépôts à terme de 15 000 $ chacun. À mon avis, cela montre que l'appelante avait la propriété en common law et la propriété bénéficiaire de ces fonds. Elle exerçait un contrôle sur la façon dont les fonds pouvaient être utilisés une fois que les chèques étaient endossés et qu'elle les déposait dans son compte. Elle utilisait les fonds à sa guise. L'exigence énoncée au point a) est remplie. Il y a eu un transfert de biens.
+[33] La question est de savoir si l'appelante a établi qu'elle avait accordé une contrepartie suffisante pour les fonds reçus de M. MacVicar au moment du transfert.
+[34] Un prêt peut être une contrepartie pour l'application du paragraphe 160(1), mais il incombait à l'appelante d'établir qu'il existait un prêt au moment du transfert, de même que sa juste valeur marchande. Dans le cas présent, j'ai conclu, en me fondant sur les incohérences relevées dans la preuve ainsi que sur le manque de documents ou de reçus contemporains, que l'appelante ne s'est pas acquittée du fardeau qui lui incombait.
+[35] Il n'y avait aucun écrit à l'appui du fait que l'appelante avait prêté des fonds à M. MacVicar. L'appelante et M. MacVicar n'avaient pas de document qui établissait leur arrangement. Toutefois, ce fait à lui seul n'aurait pas porté un coup fatal à la cause de l'appelante si j'avais conclu qu'elle avait fourni des éléments de preuve dignes de foi à l'appui de l'existence d'un prêt.
+[36] J'ai conclu qu'il y avait des incohérences dans la preuve de l'appelante, ainsi qu'entre cette preuve et celle de M. MacVicar. Je suis donc arrivée à la conclusion que l'appelante n'a pas établi qu'il existait un prêt entre elle et M. MacVicar à l'époque où les chèques lui ont été transférés. J'ai également conclu que l'appelante n'était pas digne de foi. Mes conclusions reposent sur les points suivants.
+[37] L'explication que l'appelante a donnée à l'ARC au sujet des chèques en cause a changé. Quand on a communiqué avec elle la première fois, en novembre 2007, elle a écrit que les fonds avaient été immédiatement retirés et remis à M. MacVicar. Ce n'est qu'à l'étape de l'opposition dans la présente affaire qu'elle a allégué qu'elle avait prêté des fonds à M. MacVicar et que les chèques avaient servi à rembourser ces prêts.
+[38] Les seuls documents contemporains fournis ont été des documents bancaires et des contrats de véhicule établis au nom de l'appelante. Les documents bancaires faisaient état du dépôt des chèques de M. MacVicar, ainsi que de sorties de fonds des comptes bancaires de l'appelante. Les sommes débitées de ses comptes étaient des chèques faits à M. MacVicar; certains des montants étaient en espèces ou des chèques au porteur, et d'autres étaient des chèques destinés à payer la carte de crédit de M. MacVicar. Rien dans les documents bancaires ne montrait qu'il existait une entente de prêt entre l'appelante et M. MacVicar. De plus, quand ce dernier a déclaré faillite en 2004, il n'a pas inclus dans son passif une dette due à l'appelante.
+[39] Comme je l'ai déclaré plus tôt, l'appelante a produit une feuille de calcul qui, d'après elle, illustrait les divers montants qu'elle avait prêtés à M. MacVicar ainsi que les remboursements que celui-ci avait faits. La feuille de calcul a été établie en 2011. Le problème que me pose cet élément de preuve est que l'appelante a déclaré qu'elle s'était servie de documents de M. MacVicar pour établir la feuille de calcul. Cependant, elle n'a pas photocopié ces documents et ne les a pas non plus apportés à l'instruction. Fait plus important, M. MacVicar a déclaré qu'il n'avait plus en main les documents pertinents à l'époque où l'appelante avait établi la feuille de calcul. Il a déclaré qu'il avait détruit ses documents après avoir fait faillite en 2004[4].
+[40] Les montants consignés dans la feuille de calcul de l'appelante sont tirés de ses documents bancaires, mais elle-même a déclaré qu'elle avait [TRADUCTION] « estimé » l'utilisation réelle de la plupart des fonds. Comme elle l'a dit :
+[TRADUCTION]
+[...] il est regrettable qu'il s'agisse d'estimations parce qu'il n'y a là aucun détail. Et ma mémoire n'est pas assez bonne pour que je puisse me souvenir avec précision de ce que j'ai fait des fonds il y a 10 ans de cela[5].
+L'appelante a aussi estimé le montant d'argent que M. MacVicar lui devait à la fin d'octobre 2003. Selon elle, il s'agissait soit de 47 309,07 $, soit de 106 890,57 $.
+[41] L'appelante a déclaré qu'elle avait tenu dans son ordinateur des documents contemporains au sujet des montants qu'elle avait prêtés à M. MacVicar en 2002 et en 2003, mais elle n'a pas soumis ces documents à la Cour. Elle a allégué qu'elle les avait détruits.
+[42] D'autres incohérences ont aussi été relevées entre l'appelante et M. MacVicar. Selon l'appelante, M. MacVicar n'avait pas de compte bancaire au cours de la période en cause. Cependant, celui-ci a déclaré qu'il avait deux comptes bancaires d'entreprise en 2003. Il n'existait aucune preuve documentaire de ces deux comptes d'entreprise, mais il possédait bel et bien un compte bancaire personnel. Trois des documents inclus dans la preuve étaient des chèques à l'appelante tirés sur le compte personnel de M. MacVicar. L'appelante a écrit sur sa feuille de calcul qu'elle avait facturé des intérêts sur les montants qu'elle avait prêtés à M. MacVicar. Cependant, celui-ci a contesté ce fait. L'appelante a déclaré qu'elle avait effectué des paiements relatifs à la camionnette de M. MacVicar et qu'elle avait payé les frais d'assurance connexes. Ce dernier a plutôt témoigné que c'était Guzzler's qui avait fait les paiements relatifs à ce véhicule. L'appelante a déclaré que M. MacVicar lui payait tous les mois un montant de loyer et sa part des dépenses. M. MacVicar a convenu qu'il payait un montant de loyer, mais les parties n'étaient pas d'accord sur le montant payé. L'appelante n'a pas déclaré de revenu de location dans ses déclarations de revenus.
+[43] Dans un appel comme celui-ci, où le fardeau pèse sur les épaules de l'appelante, celle-ci est tenue de produire plus que des montants estimatifs à l'appui de ce qu'elle avance. Il y avait trop d'incohérences, aucun élément de preuve documentaire fiable quant à l'existence d'un prêt et uniquement sa propre déclaration, non corroborée, à propos de l'existence d'un prêt. L'appelante ne s'est pas acquittée du fardeau qui lui incombait. Je suis d'avis qu'elle n'est pas parvenue à établir qu'elle a fourni une contrepartie suffisante, ou quelque contrepartie que ce soit, pour les montants qui lui ont été transférés. L'appel est rejeté, et les dépens sont adjugés à l'intimée.
+Signé à Ottawa, Canada, ce 20e jour de février 2014.
+« V. A. Miller »
+La juge V. A. Miller
+Traduction certifiée conforme
+ce 29e jour de mai 2014.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2014 CCI 55
+No DU DOSSIER DE LA COUR : 2011-2705(IT)G
+INTITULÉ : MICHELLE C. CONNOLLY c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Halifax (Nouvelle-Écosse)
+DATE DE L'AUDIENCE : Le 19 septembre 2013
+MOTIFS DU JUGEMENT : L'honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 20 février 2014
+COMPARUTIONS :
+Avocat de l'appelante :
+Me M. Gerard Tompkins, c.r.
+Avocate de l'intimée :
+Me Catherine M. G. McIntyre
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom : Me M. Gerard Tompkins, c.r.
+Cabinet :
+Pour l'intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Transcription, pages 127 et 128.
+[2] Transcription, pages 284 et 285.
+[3] Transcription, page 254.
+[4] Transcription, page 211.
+[5] Transcription, page 105.

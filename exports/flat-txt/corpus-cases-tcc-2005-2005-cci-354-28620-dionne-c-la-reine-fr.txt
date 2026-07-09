@@ -1,0 +1,139 @@
+Title: Dionne c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28620/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-354-28620-dionne-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2005-05-20
+
+# Dionne c. La Reine
+
+- Citation: 2005 CCI 354
+- Decision date: 2005-05-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1152, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dionne c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-05-20
+Référence neutre
+2005 CCI 354
+Numéro de dossier
+2004-3295(IT)I
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2005CCI354
+Dossier : 2004-3295(IT)I
+ENTRE :
+CLAUDE DIONNE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+CERTIFICAT DE TRANSCRIPTION
+DES MOTIFS DU JUGEMENT
+Prière de déposer la transcription certifiée conforme ci‑jointe des motifs du jugement que j’ai rendus oralement à l’audience tenue à Toronto (Ontario), le 3 mars 2005.
+« Diane Campbell »
+Juge Campbell
+Signé à Ottawa, Canada, ce 20e jour de mai 2005.
+Traduction certifiée conforme
+ce 27e jour de mars 2006.
+Christian Laroche, LL.B.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+No du dossier de la Cour : 2004-3295(IT)I
+Référence : 2005CCI354
+COUR CANADIENNE DE L’IMPÔT
+Loi de l’impôt sur le revenu
+E N T R E :
+CLAUDE DIONNE,
+appelant,
+- et -
+SA MAJESTÉ LA REINE,
+intimée.
+--- Appel entendu par la juge Campbell de la Cour canadienne de l’impôt, dans la salle d’audience no 2, au 200, rue King Ouest, 9e étage, Toronto (Ontario), le 3e jour de mars 2005.
+MOTIFS DU JUGEMENT
+----------------
+COMPARUTIONS :
+Me K. AIRD Pour l’intimée
+M. Dan W. Burtnick - Greffier/technicien judiciaire – données numériques
+TABLE DES MATIÈRES
+INDEX DES INTERROGATOIRES :
+DÉCISION : 3
+--- L’audience a commencé à 9 h 17.
+Je prononce un jugement oral dans une affaire que j’ai entendue hier, à savoir l’appel interjeté par Claude Dionne. Le présent appel intéresse les années d’imposition 2000, 2001 et 2002 de l’appelant. La réponse à l’avis d’appel a été produite tardivement et, conformément au paragraphe 18.16(4) de la Loi sur la Cour canadienne de l’impôt, les faits allégués dans l’avis d’appel sont donc réputés vrais aux fins de l’appel, à moins que l’intimée ne réfute ces présomptions et ne s’acquitte du fardeau de la preuve, lequel incombe maintenant au ministre.
+Pendant les années visées par l’appel, l’appelant exerçait le métier de mécanicien d’entretien d’établissement qualifié à l’intérieur de la province de l’Ontario et il a travaillé pour un certain nombre d’employeurs à différents lieux de travail au cours de chacune des années d’imposition. En qualité de mécanicien d’entretien d’établissement, l’appelant est membre de l’Association of Millwrights of Ontario, qu’il désigne comme son organisation syndicale. C’est par l’intermédiaire de sa section locale qu’il a obtenu une liste d’emplois possibles établie à son intention, emplois qu’il avait le loisir d’accepter ou de refuser. La durée de certains de ces emplois pouvait aller de plusieurs jours à plusieurs mois.
+Lorsque cela était possible, il conduisait de son domicile à son lieu de travail. Quand il avait de longues journées de travail à accomplir, il lui arrivait de séjourner à un motel près du lieu de travail. Il a mentionné une occasion où il a loué et meublé un appartement situé près du lieu de travail. Il a affirmé qu’il avait besoin de son véhicule pour se rendre à son travail et en revenir, parce que son lieu de travail se trouvait parfois dans des régions éloignées. Il avait en outre besoin de son véhicule pour transporter ses outils.
+Il a affirmé avoir vu dans un bulletin d’interprétation qu’il était raisonnable de réclamer une somme de 33,00 $ par jour pour les repas et il s’en est donc tenu à cette somme pour les frais qu’il a déduits à ce titre. Il a également demandé une petite déduction chaque année pour du matériel, comme du ruban pour machines à écrire et du papier, mais il a précisé que ces sommes n’étaient pas liées à son travail de mécanicien d’entretien d’établissement, mais plutôt à ses travaux relatifs à d’éventuels brevets.
+Enfin, l’appelant a déduit la somme de 5 000,00 $ en 2001 et de 5 500,00 $ en 2002 à titre d’honoraires payés à deux avocats différents. Les services du premier avocat ont été retenus pour l’obtention d’une autorisation de sécurité lui permettant de se rendre à un de ses lieux de travail, parce qu’il faisait l’objet d’accusations de voies de fait dont il a finalement été absous. Le deuxième avocat a reçu des honoraires dans le cadre d’une action pour congédiement injustifié intentée contre Ontario Hydro, un des employeurs de l’appelant.
+Au moment de la vérification, l’appelant n’avait produit qu’un formulaire T-2200 « Déclarations de conditions de travail », même s’il avait travaillé pour un certain nombre d’employeurs pendant chacune des années d’imposition.
+À l’audience, l’appelant a produit d’autres formulaires T-2200, mais certains employeurs n’avaient toujours pas fourni ce formulaire, malgré les demandes en ce sens que leur avait faites l’appelant.
+La question en litige est donc celle de savoir si l’appelant a le droit de déduire ces autres dépenses d’emploi, y compris les honoraires d’avocats, les frais de véhicule à moteur, les repas, l’hébergement et le matériel, pour chacune des années d’imposition visées par l’appel.
+Le paragraphe 8(1) de la Loi énonce les diverses déductions dont les contribuables peuvent se prévaloir dans le calcul de leur revenu tiré d’une charge ou d’un emploi pour une année d’imposition.
+Selon la restriction générale prévue au paragraphe 8(2), seuls les montants mentionnés au paragraphe 8(1) sont déductibles dans le calcul du revenu du contribuable.
+La première déduction pertinente prévue au paragraphe 8(1) figure à l’alinéa 8(1)b). Il s’agit des frais judiciaires ou extrajudiciaires engagés par un employé lorsqu’il peut déduire les sommes payées à ce titre pour recouvrer le traitement ou salaire qui lui est dû par son employeur ou ancien employeur ou pour établir un droit à ceux‑ci.
+Les sommes que l’appelant a payées au premier avocat afin d’obtenir l’autorisation de sécurité lui permettant d’accéder au lieu de travail malgré les accusations de voies de fait portées contre lui ne peuvent aucunement être assimilées à des frais engagés pour recouvrer le salaire qui lui serait dû ou pour établir un droit à un tel salaire. L’alinéa 8(1)b) ne peut être interprété de manière à permettre à l’appelant de déduire ces honoraires d’avocat.
+Les honoraires versés au second avocat découlent d’une déclaration introduite en décembre 1995 pour congédiement injustifié. Apparemment, cette affaire est toujours en instance. Même si la déclaration fait mention d’une perte de salaire à compter du 21 mars 1995, soit la date à laquelle il a été mis fin à son emploi, comme l’un des cinq chefs de dommages, aucun des éléments de preuve dont je suis saisie, exception faite de la déclaration, n’établit que l’appelant obtiendra gain de cause dans son action.
+Bien que, sous réserve de la déclaration et du témoignage de l’appelant, la preuve soit muette sur ce point, il découle de la production tardive de la réponse que le fait énoncé au premier paragraphe de l’avis d’appel de l’appelant est réputé vrai à moins d’une preuve contraire présentée par le ministre.
+L’appelant a soutenu au premier paragraphe de son avis qu’il avait engagé des frais judiciaires ou extrajudiciaires pour recouvrer du salaire d’un ancien employeur ou pour établir son droit à ce salaire. Je suis donc disposée à permettre la déduction des honoraires payés à l’avocat relativement à la déclaration. Le seul élément de preuve produit par l’appelant pour étayer les sommes versées à son avocat au cours de ces années est la pièce A‑4, à savoir un grand livre du client établi par Allen Welman, l’avocat en question, et portant sur la période allant de décembre 1995 à décembre 2002.
+Selon ce grand livre, ces sommes constituent des sommes en fiducie détenues par l’avocat et servant à payer les débours. Le grand livre de fiducie montrait un solde d’ouverture de 1 042,95 $ en janvier 2001 ainsi que deux autres provisions de 400,00 $ et de 500,00 $ versées en fiducie à Me Welman en 2002.
+Je suis prête à laisser le bénéfice du doute à l’appelant à cet égard et à lui permettre de déduire la somme de 1 042,95 $ à titre d’honoraires d’avocat en 2001 et la somme de 900,00 $ en 2002. Toutefois, aucun autre élément de preuve présenté devant moi ne me justifie d’accorder, à titre de frais judiciaires ou extrajudiciaires, des sommes supérieures à celles inscrites dans le grand livre de fiducie.
+Selon l’alinéa 8(1)h), un contribuable peut déduire les frais de déplacement engagés pour exercer les fonctions de son emploi si, à la fois : (1) il « a été habituellement tenu d’exercer les fonctions de son emploi ailleurs qu’au lieu d’affaires de son employeur ou à différents endroits » et (2) il « a été tenu, en vertu de son contrat d’emploi, d’acquitter les frais de déplacement qu’il a engagés pour l’accomplissement des fonctions de sa charge ou de son emploi ».
+En outre, l’alinéa 8(1)h.1) porte qu’un contribuable peut déduire les frais afférents à un véhicule à moteur, sauf s’il a reçu une allocation qui n’est pas incluse dans le calcul de son revenu ou s’il a demandé une déduction pour l’année en application de l’alinéa 8(1)f), dans le cas où, encore une fois : (1) il « a été habituellement tenu d’accomplir les fonctions de son emploi ailleurs qu’au lieu d’affaires de son employeur ou à différents endroits » et (2) il « a été tenu, aux termes de son contrat d’emploi, d’acquitter les frais afférents à un véhicule à moteur qu’il a engagés dans l’accomplissement des fonctions de sa charge ou de son emploi ».
+Parallèlement à ces dispositions, le paragraphe 8(10) précise qu’un contribuable ne peut déduire un montant en application des alinéas 8(1)h) et 8(1)h.1) que s’il joint à sa déclaration de revenu pour l’année un formulaire prescrit, T‑2200, signé par son employeur, qui atteste que les conditions énoncées aux dispositions applicables ont été remplies quant au contribuable au cours de l’année.
+Le seul formulaire produit auprès du ministre visait l’emploi de l’appelant chez Jervis Webb pour le mois de juillet 2001 uniquement. Selon ce formulaire, l’appelant n’était pas tenu de travailler ailleurs qu’au lieu d’affaires de l’employeur, à savoir un chantier de construction à Brampton, ni à différents endroits pour l’employeur, et il n’était pas tenu de fournir le matériel utilisé dans l’accomplissement des fonctions de son emploi ou de payer ce matériel. Par conséquent, en ce qui touche l’unique formulaire produit et les conditions de travail qui y sont précisées, l’appelant ne peut, suivant ces dispositions, déduire des frais de déplacement ou des frais afférents à un véhicule à moteur pour son emploi chez cet employeur particulier en juillet 2001.
+L’appelant a produit à titre de pièce A‑7 cinq formulaires d’employeurs T‑2200 pour l’année 2000 (il a eu dix employeurs cette année‑là), quatre formulaires T‑2200 pour l’année 2001 (au cours de laquelle il a eu six employeurs) et deux formulaires T‑2200 pour l’année 2002.
+L’intimée a appelé Lisa Day, coordonnatrice de la paye pour Comstock Canada, à témoigner. C’est elle qui a rempli les deux formulaires T‑2200 produits par l’appelant pour 2002 ainsi que l’un des quatre autres formulaires visant l’année d’imposition 2001. Elle a confirmé les renseignements fournis dans ces trois formulaires, à savoir que l’appelant n’était pas tenu de travailler ailleurs qu’au lieu d’affaires de l’employeur ni à différents endroits, qu’il avait reçu une allocation, comprise dans son relevé T-4, et qu’il n’était pas obligé d’être absent, durant une période d’au moins douze heures, de la municipalité dans laquelle était situé l’établissement de l’employeur où il se présentait habituellement pour son travail. À la lumière de ces trois formulaires et du témoignage de Mme Day, l’appelant ne peut déduire des frais en application de ces dispositions en ce qui concerne cet employeur pour ces périodes.
+Les autres formulaires visant 2001 et 2002 fournissent un éventail de réponses. Selon deux des formulaires, lesquels ont été remplis par Jervis Webb Company pour différentes périodes en 2001, l’appelant n’était pas tenu de travailler ailleurs qu’au lieu d’affaires de l’employeur ni à différents endroits et il n’était pas obligé d’être absent durant une période d’au moins douze heures. Ces formulaires étaient signés par deux employés différents de Jervis Webb Company; l’un mentionnait que l’appelant était tenu de payer ses propres dépenses tandis que l’autre mentionnait qu’une allocation était versée à l’appelant. Compte tenu de la condition précisée par l’employeur dans ces formulaires, l’appelant n’est pas justifié de déduire des frais en application de ces dispositions relativement à cet employeur pour ces périodes.
+L’autre formulaire visant 2001 concernait un emploi chez Aecon Industrial. Selon ce formulaire, l’appelant, là encore, n’était pas obligé d’être absent, durant une période d’au moins douze heures, de la municipalité dans laquelle était situé l’établissement de l’employeur, mais il était tenu de travailler ailleurs qu’au lieu d’affaires de son employeur ou à différents endroits. Dans un des formulaires visant l’année 2000, on a répondu « non » à ces deux questions, tandis que dans les quatre autres formulaires présentés pour l’année 2000, on a répondu « oui » à ces deux questions. Pour décider de ce qu’il convient de faire de ces quatre ou cinq autres formulaires donnant une réponse affirmative à ces deux questions ou à moins l’une d’entre elles, je crois qu’il est raisonnable et équitable de les examiner à la lumière de la preuve et des faits présentés à l’audience.
+Selon son propre témoignage, l’appelant n’était en général pas obligé d’être absent, durant une période d’au moins douze heures, de l’établissement de l’employeur où il se présentait habituellement pour son travail. Il a affirmé qu’on ne lui avait pas demandé de se rendre à d’autres lieux de travail de cet employeur et il n’a pu se souvenir avec précision que d’une seule occasion où il est allé chercher du matériel pour un employeur au magasin Canadian Tire local.
+En règle générale, les dépenses engagées par un employé pour se rendre à son lieu de travail et en revenir ne sont pas déductibles. En l’espèce, l’appelant n’a pas réussi à établir qu’il était tenu par son employeur, de quelque manière que ce soit, de se déplacer pour se rendre à d’autres lieux de travail; l’appelant a simplement engagé des frais pour effectuer le trajet entre son domicile et son lieu de travail, et il a cherché à les déduire.
+Les frais liés à de tels déplacements sont manifestement d’ordre personnel en l’espèce et l’appelant ne peut donc pas les déduire; cela comprend sa déduction prévue au titre de la location d’un appartement et du mobilier, lesquels lui permettaient d’être près de son lieu de travail pendant cette période.
+Quant aux frais relatifs au matériel, qui se chiffrent à 100,00 $ ou moins pour chacune des trois années, il ressort du témoignage de l’appelant que ce matériel consistait pour l’essentiel en des fournitures de bureau servant à son entreprise de brevets et que ces frais n’avaient pas de lien avec l’exercice des fonctions de son emploi de mécanicien d’entretien d’établissement pour les divers employeurs pendant les périodes pertinentes. Par conséquent, l’appelant ne pourra déduire ces sommes à titre de dépenses pendadnt les années en cause, puisqu’elles ne sont pas reliées à son emploi.
+Enfin, en ce qui concerne la déduction pour repas demandée par l’appelant, le paragraphe 8(4) prévoit que, sauf si l’employé était obligé d’être absent, durant une période d’au moins douze heures, de la municipalité dans laquelle était situé l’établissement ou le lieu d’affaires de l’employeur où l’employé se présentait habituellement pour son travail, l’employé ne peut déduire, en application de l’alinéa 8(1)f) ou h), les frais engagés pour les repas qu’il a pris alors que ses fonctions l’obligeaient à être absent de son domicile.
+En l’espèce, l’appelant n’était pas un employé permanent. Il était embauché pour effectuer certains travaux dans le cadre du contrat d’emploi signé avec son employeur et, une fois ces travaux terminés, son travail pour cet employeur prenait fin même si le projet, lui, se poursuivait. L’appelant se présentait habituellement pour son travail à un lieu de travail donné pendant un projet et les sommes engagées au titre des repas alors qu’il travaillait à ce lieu particulier ne peuvent donc être déduites de son revenu aux termes du paragraphe 8(4).
+Comme il est mentionné plus haut, l’appelant, dans son témoignage, a affirmé que ses employeurs ne l’avaient jamais obligé à travailler ailleurs pour eux sur une base temporaire, de façon que l’appelant soit tenu d’être absent pendant plus de douze heures du lieu habituel où il se présentait pour son travail. La déduction demandée chaque année au titre des frais de repas est donc refusée.
+Enfin, je souhaite signaler que l’appelant était manifestement perturbé lorsque l’intimée lui a remis un recueil de jurisprudence et de doctrine pendant l’audience. Il estime avoir été désavantagé d’une manière inéquitable, puisqu’il n’a pas eu le temps nécessaire pour examiner ce document et y répondre de façon appropriée.
+J’ai déjà eu l’occasion de demander aux avocats de l’intimée de veiller à ce que l’appelant se représentant lui‑même ait possession du recueil de jurisprudence et de doctrine au moins un jour ou deux avant l’audience.
+Je comprends la frustration de l’appelant. Toutefois, après avoir revu la jurisprudence contenue dans le recueil, je ne vois rien qui aurait pu changer mon opinion quant aux faits dont je suis saisie dans le présent appel. J’aurais tiré les mêmes conclusions aujourd’hui, compte tenu des dispositions applicables et de la preuve pertinente qui m’a été présentée, même en l’absence de la jurisprudence comprise dans le recueil de jurisprudence et de doctrine.
+En conclusion, les appels sont accueillis, sans frais, afin de permettre à l’appelant de déduire la somme de 1 042,95 $ en 2001 et la somme de 900,00 $ en 2002 au titre des honoraires d’avocat engagés pour établir l’existence de son droit à un salaire.
+À tous les autres égards, les appels sont rejetés.
+Traduction certifiée conforme
+ce 27e jour de mars 2006.
+Christian Laroche, LL.B.
+RÉFÉRENCE :
+2005CCI354
+NO DU DOSSIER DE LA COUR :
+2004-3295(IT)I
+INTITULÉ DE LA CAUSE :
+Claude Dionne c,
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 2 mars 2005
+MOTIFS DU JUGEMENT :
+L’honorable juge Diane Campbell
+DATE DU JUGEMENT
+ORAL : Le 3 mars 2005
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Kandia Aird
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Avocat de l’appelant :
+Nom :
+Cabinet :
+Avocat de l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

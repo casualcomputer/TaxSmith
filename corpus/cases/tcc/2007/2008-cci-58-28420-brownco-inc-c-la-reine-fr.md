@@ -1,0 +1,456 @@
+---
+title: "Brownco Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28420/index.do"
+last_modified: "2007-01-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 58"
+citation2: ""
+neutral_citation: "2008 CCI 58"
+decision_date: "2007-01-25"
+language: "fr"
+item_id: "28420"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1219
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:00:50.518000+00:00"
+cases_cited_count: 2
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e9a71bdca78f0302244ffa27350b353563f99f83ba1c499a5d4a1c55d180e8b5"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Brownco Inc. c. La Reine
+
+- Citation: 2008 CCI 58
+- Decision date: 2007-01-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1219, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Brownco Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-01-25
+Référence neutre
+2008 CCI 58
+Numéro de dossier
+2005-3161(IT)G
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-3161(IT)G
+ENTRE :
+BROWNCO INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu les 14 et 15 février 2007, à Kitchener (Ontario).
+Devant : L’honorable juge B. Paris
+Comparutions :
+Avocat de l’appelante :
+Me George Voisin
+Avocat de l’intimée :
+Me Ifeanyi Nwachukwu
+____________________________________________________________________
+JUGEMENT
+L’appel des nouvelles cotisations établies en application de la Loi de l’impôt sur le revenu pour les années d’imposition 2002 et 2003 est rejeté avec dépens, selon les motifs de jugement ci‑joints.
+Signé à Ottawa, Canada, ce 25e jour de janvier 2008.
+« B. Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 18e jour d’avril 2008.
+Christian Laroche
+Référence : 2008CCI58
+Date : 20080125
+Dossier : 2005-3161(IT)G
+ENTRE :
+BROWNCO INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] L’appelante s’occupe de construction d’habitations à Barrie, en Ontario, et dans les environs. Au cours des années d’imposition en question, ses actions étaient détenues à égalité de parts par deux autres sociétés : Bost Investments Inc. (« Bost ») et 1476577 Ontario Inc. (« 147 »). L’appelante a produit ses déclarations de revenus pour ses années d’imposition qui ont pris fin le 31 octobre 2002 et le 31 octobre 2003, compte tenu du fait qu’elle n’était pas associée à Bost au sens de l’alinéa 256(1)a) de la Loi de l’impôt sur le revenu (L.R.C. 1985, ch. 1 (5e suppl.)) (la « Loi ») et qu’elle avait donc le droit de demander l’entière déduction accordée aux petites entreprises en vertu du paragraphe 125(1) de la Loi. Le ministre du Revenu national (le « ministre ») a établi de nouvelles cotisations à l’égard de l’appelante en vue de refuser la demande de déduction accordée aux petites entreprises, compte tenu du fait que l’appelante et Bost étaient des sociétés associées et que l’appelante n’avait pas droit à la déduction accordée aux petites entreprises parce que Bost contrôlait l’appelante, directement ou indirectement, de quelque manière que ce soit.
+[2] L’appelante interjette appel de ces nouvelles cotisations.
+[3] Il s’agit de savoir si Bost contrôlait l’appelante à un moment donné au cours des années d’imposition 2002 et 2003 de l’appelante, directement ou indirectement, de quelque manière que ce soit, comme le prévoit l’alinéa 256(1)a) de la Loi, de sorte que les deux sociétés sont associées pour l’application de la Loi.
+Les faits
+[4] Les parties ont déposé un exposé conjoint partiel des faits, qui est rédigé comme suit :
+[traduction]
+1. L’appelante, Brownco Inc., est une société privée sous contrôle canadien (« SPCC »); elle a été constituée en personne morale en vertu des lois de l’Ontario le 13 juin 2000 et elle exploite activement une entreprise dans le cadre de laquelle elle construit et vend des habitations dans la région de Barrie, en Ontario.
+2. Lors de la constitution en personne morale, Bost Investments Corp. (« Bost ») a souscrit à une action ordinaire. Bost était contrôlée par Garo Bostajian (« Garo »), par l’entremise d’une fiducie familiale.
+3. Au cours des exercices 2000 et 2001, du fait que Bost possédait toutes les actions de Brownco, Bost exerçait un contrôle de droit sur cette dernière. En produisant leurs déclarations de revenus T2 pour les années 2000 et 2002, Bost et Brownco ont déclaré qu’elles étaient des sociétés associées aux fins de l’impôt sur le revenu.
+4. Au cours des années d’imposition 2002 et 2003 (la « période pertinente »), l’appelante s’occupait de construction d’habitations sous le nom commercial Grandview Homes, à Barrie, en Ontario.
+5. Pendant la période pertinente, l’appelante faisait partie d’un groupe de sociétés qui s’occupaient d’aménagement foncier et de construction d’habitations, dont la plupart étaient également exploitées sous le nom commercial Grandview Homes.
+6. Au cours des années d’imposition 2002 et 2003, la structure d’entreprise du groupe de sociétés Bost était telle qu’elle est indiquée à l’onglet 11 de la pièce 1, qui constitue le recueil conjoint de documents, volume 1 (omis).
+7. Bost Investments Corp. (« Bost ») ou Garo Bostajian, individuellement ou par l’entremise d’une fiducie, possédaient au moins 50 p. 100 des actions de chaque société, comme suit :
+Société
+% détenu par Bost
+% détenu par Garo Bostajian
+Activités
+Fournisseur de lots
+Lotco Limited
+100 %
+Acquéreur des lots de promoteurs
+Lotco II Limited
+--
+100 %
+Fiducie familiale Garo
+Bostajian
+Acquéreur des lots de promoteurs
+et aménagement foncier
+Promoteur de lots
+Cambridge Centre Village Inc.
+100 %
+Aménagement foncier
+Doon Creek Ltd
+50 %
+--
+Aménagement foncier
+Greengate Village Inc.
+50 %
+--
+Aménagement foncier
+Dodge Drive Limited
+50 %
+--
+Aménagement foncier
+Tepco Holdings Inc
+50 %
+--
+Aménagement foncier
+Entreprises de construction
+Buildco Inc.
+100 %
+--
+Construction d’habitations
+Buildcap Inc.
+100 %
+--
+Construction d’habitations
+Ridgeview Homes Inc.
+50 %
+--
+Construction d’habitations
+Novelco Inc
+50 %
+--
+Construction d’habitations
+Buildplus Inc
+50 %
+--
+Construction d’habitations
+Brownco Inc
+50 %
+--
+Construction d’habitations
+1205584 Ontario Ltd.
+50 %
+--
+Construction d’habitations
+1488533 Ontario Inc.
+50 %
+--
+Construction d’habitations
+1517267 Ontario Inc.
+50 %
+--
+Construction d’habitations
+1589855 Ontario Inc.
+50 %
+--
+Construction d’habitations
+1136364 Ontario Ltd.
+50 %
+Construction d’habitations
+Location de biens immobiliers
+Bost Properties Inc.
+100 %
+Propriétaire de biens locatifs immobiliers
+8. Pendant la période pertinente, Bost et 1476577 Ontario Limited (« 147 »), qui étaient toutes deux des SPCC, possédaient chacune 50 p. 100 des actions ordinaires émises et en circulation de l’appelante.
+9. La société 147 a acquis sa part de 50 p. 100 dans Brownco le 31 octobre 2001, lorsque Brownco a émis 49 actions additionnelles en faveur de Bost et 50 actions en faveur de 147.
+10. Le nombre d’actions émises et en circulation de Brownco et le capital déclaré afférent à ces actions au cours des années visées par l’appel étaient :
+Actionnaire
+Nombre d’actions émises
+Capital déclaré
+Bost
+50 actions ordinaires
+50 $
+147
+50 actions ordinaires
+50 $
+11. Les actions émises et en circulation de Bost étaient détenues comme suit :
+Fiducie familiale Garo Bostajian
+1 000 actions ordinaires
+Garo Bostajian (« Garo »)
+761 490 actions spéciales de catégorie A
+Succession Boghos Bostajian
+507 960 actions spéciales de catégorie A
+12. Garo réside à Kitchener, dans la municipalité régionale de Waterloo.
+13. Le nombre d’actions émises et en circulation de 147 et le capital déclaré afférent à ces actions sont :
+Actionnaire
+Nombre d’actions émises
+Capital déclaré
+Randy Brown
+50 actions ordinaires
+50 $
+Linda Brown
+50 actions ordinaires
+50 $
+14. Pendant la période pertinente, Randy Brown (« M. Brown ») résidait à Barrie, en Ontario, avec son épouse, Linda Brown.
+15. Garo et Brown ne sont pas unis par les liens du sang, par le mariage ou par l’adoption.
+16. Depuis la constitution de Brownco en personne morale, Garo occupe la charge de secrétaire‑trésorier de l’appelante et M. Brown occupe la charge de président de l’appelante.
+17. Conformément à la convention unanime d’actionnaires la (« CUA ») conclue le 31 octobre 2001 entre Brownco, Bost et 147, les activités de Brownco sont gérées par un conseil d’administration composé d’au moins deux administrateurs. Bost et 147 avaient chacune le droit d’élire, et elles ont de fait élu, un membre du conseil d’administration.
+18. Pendant la période pertinente, le conseil d’administration de l’appelante était composé de deux administrateurs, à savoir Garo (la personne désignée par Bost) et M. Brown (la personne désignée par 147).
+19. La personne désignée par Bost, Garo, présidait le conseil d’administration.
+20. La majorité des voix à une réunion du conseil d’administration l’emportait et, en cas de partage des voix, le président du conseil d’administration, Garo, avait voix prépondérante.
+21. « Grandview Homes » est le nom conçu par Bost, aux fins de la commercialisation. Pendant la période pertinente, Brownco utilisait le nom commercial « Grandview Homes » dans le cadre de ses activités de commercialisation.
+22. Bost prend des arrangements avec d’autres entreprises de construction, et notamment avec Brownco. Selon les arrangements qui avaient été pris, les entreprises de construction utilisaient le nom Grandview Home aux fins de la commercialisation. Les arrangements que Bost avait pris avec les autres entreprises de construction étaient semblables à ceux qu’elle avait pris avec Brownco. Bost essayait d’acquérir et s’était organisée pour acquérir des lots et s’occupait du financement et elle était responsable de certaines questions administratives.
+23. Pendant la période pertinente, Bost avait pris les arrangements énoncés au paragraphe 22 avec Brownco ainsi qu’avec les entreprises de construction, et notamment Ridgeview Homes Inc., Novelco Inc., 1205584 Ontario Ltd., 1488533 Ontario Inc., 1517267 Ontario Inc. et 1589855 Ontario Inc. Bost détenait 50 p. 100 des actions de chacune de ces sociétés.
+24. Pendant la période pertinente, Bost détenait 50 p. 100 des actions de Tepco Holdings Inc., Buildplus Inc., Doon Creek Ltd., Dodge Drive Limited, et Greengate Village Inc. Ces sociétés ne s’occupaient pas de la construction d’habitations. Elles s’occupaient d’aménagement foncier, et aucune d’elles n’exerçait ses activités dans la région de Barrie.
+25. Conformément à la CUA, 147 est responsable des services suivants en ce qui concerne la gestion de Brownco :
+a) véhicule et remorque sur le chantier
+b) frais de nettoyage et de déchargement
+c) supervision du chantier
+d) main-d’œuvre sur le chantier
+e) nettoyage du lot
+f) enlèvement des ordures
+g) nettoyage final
+h) petits outils
+i) téléphone cellulaire et téléphone sur le chantier
+j) divers matériaux de finition
+k) prestation de services
+l) travaux d’entretien dans le cadre du TARION (programme de garantie d’habitations de l’Ontario).
+26. Conformément à la CUA, Bost est responsable des services suivants en ce qui concerne la gestion de Brownco :
+a) services de tenue de livres;
+b) efforts visant l’obtention de terrains à bâtir. En général, cela veut dire que Bost ou une société liée conclut des ententes avec des tiers en vue d’acheter des terrains à bâtir;
+c) organisation du financement bancaire.
+27. Indépendamment de la CUA, les tâches de gestion de Bost, en ce qui concerne la gestion de Brownco, se rapportent aux questions suivantes :
+a) prise de dispositions en vue de l’obtention de lettres de crédit
+b) versement de la TPS
+c) examen du statut en ce qui concerne la Commission de la sécurité professionnelle et de l’assurance pour les gens de métier
+d) opérations bancaires courantes
+e) paiement des factures
+f) administration courante du bureau
+28. Conformément à la CUA, Brownco verse à 147 et à Bost un montant de 3 000 $ par habitation achevée et vendue.
+29. Conformément à la CUA, Brownco accumule et paie des frais de gestion additionnels s’élevant au même montant à chacune des sociétés 147 et Bost en vue de ramener le revenu annuel imposable de Brownco au plafond annuel applicable aux petites entreprises selon la définition figurant dans la Loi de l’impôt sur le revenu.
+30. Conformément à la CUA, le revenu annuel de la société après impôt doit être distribué en parts égales par Brownco à 147 et à Bost, sans nuire à la capacité de Brownco de continuer à exploiter son entreprise.
+31. Au début de l’exercice 2002 (soit le 1er novembre 2001) de Brownco, le bilan faisait état d’un montant de 119 950 $ dû à Bost. À la fin de l’exercice 2002 (soit le 31 octobre 2002), le montant que Brownco devait à Bost a augmenté pour atteindre 1 220 000 $.
+32. Les recettes de Brownco, pour l’exerce ayant pris fin le 31 octobre 2002, s’élevaient à 9 591 262 $.
+33. Pour l’exercice 2002, le cabinet comptable BDO Dunwoody LLP a déclaré les montants suivants à l’égard de Brownco :
+a) revenu avant impôt
+b) frais de gestion versés à 147
+c) frais de gestion versés à Lotco Limited (rattachée à Bost)
+d) frais de gestion versés à Lotco II Limited (rattachée à Bost)
+e) frais de gestion versés à Buildcap Inc. (rattachée à Bost)
+Total
+213 249 $
+448 000 $
+90 000 $
+66 000 $
+292 200 $
+1 209 249 $
+34. Au début de l’exercice 2003 (soit le 1er novembre 2002), le solde d’ouverture du montant que Brownco devait à Bost était de 1 220 000 $ et, à la fin de l’exercice (soit le 31 octobre 2003), le montant de la dette a été ramené à 120 000 $.
+35. Les recettes de Brownco pour l’exercice qui a pris fin le 31 octobre 2003 s’élevaient à 9 102 229 $.
+36. Pour l’exercice 2003, le cabinet comptable BDO Dunwoody LLP a déclaré les montants suivants à l’égard de Brownco :
+a) revenu avant impôt
+b) frais de gestion versés à 147
+c) frais de gestion versés à Lotco II Limited (rattachée à Bost)
+d) frais de gestion versés à Buildcap Inc. (rattachée à Bost)
+Total
+219 975 $
+228 500 $
+60 000 $
+168 500 $
+676 975 $
+37. Brownco a produit ses déclarations de revenus pour les exercices 2002 et 2003, compte tenu du fait qu’elle n’était pas associée à Bost et qu’elle avait donc droit à une déduction accordée aux petites entreprises.
+38. Par des avis datés du 15 avril 2005, le ministre a établi de nouvelles cotisations à l’égard de l’obligation fiscale de Brownco au cours des années d’imposition 2002 et 2003 en refusant les déductions pour petites entreprises de 31 903 $ et de 35 040 $ respectivement, compte tenu du fait que Brownco et Bost étaient des sociétés associées au sens du paragraphe 256(1) de la Loi de l’impôt sur le revenu, combiné au paragraphe 256(5.1) de la Loi de l’impôt sur le revenu.
+[5] MM. Brown et Bostajian ont témoigné à l’audience, ainsi que M. Greg Weiler, qui est comptable chez BDO Dunwoody et qui s’occupait de la préparation des états financiers de l’appelante.
+[6] M. Bostajian est un ingénieur civil qui a commencé à construire des habitations dans la région de Kitchener en 1989. À un moment donné, il a créé Bost, qui a commencé à utiliser le nom commercial « Grandview Homes » pour commercialiser les habitations que son entreprise construisait. Selon la preuve, Grandview Homes jouissait d’une bonne réputation parmi les acheteurs d’habitations et parmi les gens des métiers de la construction, et M. Bostajian s’efforçait de conserver cette réputation.
+[7] Un certain nombre d’entreprises de construction dans lesquelles Bost avait une participation ont été créées au cours des quelques années suivantes (voir le paragraphe 7 de l’exposé conjoint partiel des faits). Ces sociétés utilisaient le nom commercial Grandview Homes et Bost s’occupait de leur financement ainsi que de l’acquisition des lots. Bost s’occupait également de l’administration de ces sociétés. M. Bostajian a dit que ces sociétés étaient des [traduction] « sociétés franchisées » par Bost.
+[8] Selon M. Bostajian, sauf en ce qui concerne Buildco Inc. et Buildcap Inc., Bost détenait 50 p. 100 des actions de ces sociétés et le franchisé détenait le reste des actions. Bost et le franchisé désignaient chacun un administrateur et la personne désignée par Bost avait une voix prépondérante, comme dans le cas de l’appelante.
+[9] M. Brown a commencé à s’occuper de construction vers 1998; lorsqu’il a rencontré M. Bostajian, en 1998, il construisait des habitations à forfait. À ce moment‑là, M. Brown cherchait de nouvelles occasions d’affaires dans le domaine de la construction.
+[10] M. Brown a témoigné que, lors de leur première rencontre, M. Bostajian lui avait proposé de devenir un franchisé de Grandview Homes; M. Bostajian, d’autre part, a déclaré qu’il n’avait pas immédiatement offert de faire de M. Brown un franchisé, mais qu’il avait plutôt proposé qu’ils travaillent ensemble à la construction de quelques habitations dans la région de Kitchener‑Waterloo, de façon qu’il puisse s’assurer que M. Brown était un bon constructeur.
+[11] Quoi qu’il en soit, par suite de leur rencontre, M. Brown et M. Bostajian ont noué une relation d’affaires dans le cadre de laquelle M. Brown devait construire trois habitations à la fin de 1998 et en 1999 sur les lots achetés par M. Bostajian ou par l’une des sociétés de celui‑ci. Les bénéfices tirés de la vente des habitations étaient partagés également entre M. Brown et M. Bostajian.
+[12] M. Bostajian a déclaré qu’à la fin de 1998, il avait dit à M. Brown qu’il voulait que celui‑ci lance une franchise Grandview Homes dans la région de Barrie en vue de construire des habitations sur des lots qu’une de ses sociétés avait acquis. Même si M. Bostajian a déclaré vouloir que M. Brown devienne un franchisé, lorsque ce dernier s’est installé à Barrie, il a dirigé les activités d’une des sociétés existantes de Bost, appelée Buildco Inc. M. Brown a géré les activités de Buildco à Barrie de 1998 à 2001.
+[13] Finalement, le 13 juin 2000, l’appelante a été constituée en personne morale, Bost étant son seul actionnaire. Bost a fourni le capital initial de 120 000 $ sous la forme d’un prêt d’actionnaire. MM. Brown et Bostajian sont devenus administrateurs de l’appelante lorsque celle‑ci a été constituée en personne morale; M. Brown a été désigné comme président et M. Bostajian comme secrétaire‑trésorier.
+[14] MM. Brown et Bostajian ont tous deux témoigné que lorsque l’appelante a été constituée en personne morale, M. Brown devait être actionnaire à égalité de parts, mais que par suite d’une erreur, aucune action n’avait été émise en sa faveur.
+[15] M. Bostajian a déclaré que quelqu’un, faisant partie de son cabinet comptable, avait initialement porté l’erreur à son attention au début de l’année 2001, et qu’on lui avait conseillé d’attendre la fin de l’exercice de l’appelante pour corriger l’erreur. Le 31 octobre 2001, 49 actions additionnelles de l’appelante ont été émises en faveur de Bost et 50 actions ont été émises en faveur de 147, de façon que ces deux sociétés détiennent le même nombre d’actions. L’appelante a produit ses déclarations pour les années d’imposition 2002 et 2003 compte tenu du fait qu’elle n’était pas associée à Bost.
+[16] Au moment où les actions additionnelles ont été émises, le 31 octobre 2001, Bost, l’appelante et 147 ont conclu une convention unanime d’actionnaires (la « CUA »). Cette convention renfermait des dispositions portant sur la gestion et sur la gouvernance de l’entreprise de l’appelante, énonçant des restrictions à l’égard du transfert d’actions, prévoyant un droit de premier refus à l’égard de la vente d’actions et indiquant les procédures à suivre dans le cas d’une vente d’actions conformément à la convention.
+[17] La CUA prévoyait que Bost et 147 désigneraient chacune un administrateur, et qu’en cas de partage des voix, le président du conseil d’administration aurait la voix prépondérante. La convention prévoyait également que, sauf entente contraire, la personne désignée par Bost présiderait le conseil d’administration. MM. Bostajian et Brown ont témoigné que cette disposition avait été incluse en vue de protéger le nom commercial « Grandview Homes ».
+[18] L’appelante a été inactive jusqu’au début de son exercice, le 1er novembre 2000. À un moment donné après cette date, elle a commencé à construire des habitations. En 2002 et en 2003, Lotco Ltd., qui appartenait à cent pour cent à Bost, a fourni la plupart des lots sur lesquels l’appelante construisait des habitations. La preuve montrait qu’au cours de cette période, Lotco avait fourni 253 lots à l’appelante, alors que l’appelante avait de sa propre initiative acquis 25 lots. MM. Bostajian et Brown ont témoigné que M. Bostajian consultait M. Brown avant que Lotco achète les lots et que les deux parties s’entendaient sur les lots que Lotco devait acquérir pour l’appelante. D’autres lots acquis par Lotco ont été attribués à Novelco Inc., une autre société dans laquelle Bost détenait une participation de 50 p. 100 et qui exerçait ses activités à Barrie. Au cours de la période en question, Lotco a attribué 93 lots à Novelco.
+[19] Le coût pour Lotco des lots attribués à l’appelante semble être de l’ordre de 10 à 15 millions de dollars, le paiement comptant au moment de la conclusion s’élevant à deux ou trois millions de dollars. L’appelante était entièrement financée par Lotco pour les lots que cette dernière lui transférait. Le coût des lots que l’appelante avait acquis de sa propre initiative s’élevait à 954 000 $, le paiement comptant au moment de la conclusion s’élevant à 95 440 $. Le reste des prix d’achat a été financé à l’aide de prêts hypothécaires accordés par le vendeur.
+[20] L’appelante avait réalisé des recettes de 9 591 262 $ pour son exercice qui avait pris fin le 31 octobre 2002 et de 9 102 229 $ pour son exercice ayant pris fin le 31 octobre 2003. Après que les frais de gestion eurent été payés à 147 et à certaines sociétés du groupe Bost, l’appelante avait un revenu imposable de 213 249 $ en 2002 et de 219 975 $ en 2003.
+[21] Bost a financé les activités de l’appelante au moyen d’avances des facilités de crédit que Bost avait organisées avec la Banque Royale du Canada au mois de mai 2001, au montant de cinq millions de dollars, remboursable sur demande. Bost utilisait les facilités de crédit en vue de financer les activités d’un certain nombre d’autres sociétés s’occupant de construction et d’aménagement foncier dans lesquelles elle détenait une participation. Les facilités de crédit ont été portées à six millions de dollars au mois d’août 2002. L’appelante a garanti le montant intégral de la dette de Bost en vertu des facilités de crédit, comme on l’a fait pour les autres sociétés de Bost qui utilisaient ces facilités.
+[22] Le montant maximum des avances que Bost avait consenties à l’appelante à l’aide des facilités de crédit ne semble pas avoir excédé 2 291 585 $ au cours des années en question.
+[23] Il n’y avait pas d’accord de financement écrit entre Bost et l’appelante, mais M. Bostajian a déclaré que l’appelante devait verser à Bost des intérêts s’élevant à un demi pour cent (1/2 %) de plus que le taux que la Banque Royale du Canada exigeait de Bost.
+La position de l’intimée
+[24] Le paragraphe 256(1) de la Loi énonce les circonstances dans lesquelles une société est associée à une autre société. En établissant la nouvelle cotisation de l’appelante, le ministre s’est fondé sur l’alinéa 256(1)a), qui est rédigé comme suit :
+Sociétés associées – Pour l’application de la présente loi, deux sociétés sont associées l’une à l’autre au cours d’une année d’imposition si, à un moment donné de l’année :
+a) l’une contrôle l’autre, directement ou indirectement, de quelque manière que ce soit;
+[25] Le sens à attribuer à l’expression « contrôle l’autre, directement ou indirectement, de quelque manière que ce soit » est précisé au paragraphe 256(5.1), qui est rédigé comme suit :
+Contrôle de fait – Pour l’application de la présente loi, lorsque l’expression "contrôlée, directement ou indirectement, de quelque manière que ce soit", est utilisée, une société est considérée comme ainsi contrôlée par une autre société, une personne ou un groupe de personnes – appelé "entité dominante" au présent paragraphe – à un moment donné si, à ce moment, l’entité dominante a une influence directe ou indirecte dont l’exercice entraînerait le contrôle de fait de la société. Toutefois, si cette influence découle d’un contrat de concession, d’une licence, d’un bail, d’un contrat de commercialisation, d’approvisionnement ou de gestion ou d’une convention semblable – la société et l’entité dominante n’ayant entre elles aucun lien de dépendance – dont l’objet principal consiste à déterminer les liens qui unissent la société et l’entité dominante en ce qui concerne la façon de mener une entreprise exploitée par la société, celle‑ci n’est pas considérée comme contrôlée, directement ou indirectement, de quelque manière que ce soit, par l’entité dominante du seul fait qu’une telle convention existe.
+[26] L’intimée affirme que Bost avait le contrôle de fait de l’appelante d’un certain nombre de façons. Premièrement, aux termes de la CUA, l’administrateur désigné par Bost avait une voix prépondérante aux réunions du conseil d’administration. Cela garantissait le contrôle de Bost sur les activités commerciales et sur la gouvernance d’entreprise de l’appelante. Deuxièmement, l’intimée affirme que l’influence déterminante de Bost découlait de son rôle en tant que fournisseur dominant, sinon en tant que fournisseur exclusif, des terrains à bâtir (par l’entremise d’une société liée) en faveur de l’appelante. Finalement, le financement direct et indirect des activités de l’appelante par Bost [traduction] « garantissait sa dominance économique et son influence déterminante sur les affaires financières de l’appelante ».
+[27] L’intimée affirme également que l’appelante n’est pas protégée par l’exception prévue au paragraphe 256(5.1) parce que l’appelante et Bost avaient entre elles un lien de dépendance et parce que la CUA n’était pas une convention semblable à celles qui sont énumérées dans l’exception et que son objet principal n’était pas de décider de la façon dont l’appelante exploitait son entreprise.
+[28] L’intimée soutient subsidiairement que, s’il est conclu que Bost n’exerçait pas un contrôle de fait sur l’appelante, l’appelante et Bost sont réputées être associées en vertu du paragraphe 256(2.1) de la Loi, parce que l’un des principaux motifs de leur existence juridique distincte consistait à leur permettre de se prévaloir de la déduction accordée aux petites entreprises et, par conséquent, de réduire le montant de leur impôt payable en vertu de la Loi.
+[29] Le paragraphe 256(2.1) est rédigé comme suit :
+Présomption d’association en cas d’évitement – Pour l’application de la présente loi, s’il est raisonnable de considérer qu’un des principaux motifs de l’existence distincte de plusieurs sociétés au cours d’une année d’imposition consiste à réduire les impôts qui seraient payables par ailleurs en vertu de la présente loi ou à augmenter le crédit d’impôt à l’investissement remboursable prévu à l’article 127.1, ces sociétés sont réputées être associées les unes aux autres au cours de l’année.
+La position de l’appelante
+[30] L’avocat de l’appelante a soutenu que la disposition relative à la voix prépondérante de la CUA ne conférait pas à Bost le contrôle de fait de l’appelante. Il a déclaré que le critère qui s’applique au contrôle de fait a été énoncé dans l’arrêt Silicon Graphics c. R., 2002 CAF 260, où la Cour d’appel fédérale a dit ce qui suit :
+[...] pour que l’on puisse conclure à un contrôle de fait, une personne ou un groupe de personnes doivent avoir le droit et la capacité manifestes de procéder à une modification importante du conseil d’administration ou des pouvoirs du conseil ou d’influencer d’une façon directe les actionnaires qui auraient autrement la capacité de choisir le conseil d’administration.
+L’avocat a affirmé que Bost n’avait pas le droit ni la capacité de procéder à une modification importante du conseil d’administration et qu’elle n’avait qu’une influence restreinte à l’égard des activités de la société. En outre, la voix prépondérante ne s’appliquait pas aux assemblées des actionnaires et, par conséquent, Bost n’exerçait pas une influence plus grande que 147, lorsqu’il s’agissait d’élire le conseil d’administration.
+[31] L’appelante a également soutenu que la voix prépondérante accordée à l’administrateur désigné par Bost ne conférait pas un contrôle de fait à Bost parce que cette dernière était en tout temps assujettie aux obligations fiduciaires qui incombent à l’administrateur d’une société, telles qu’elles sont énoncées dans la Loi sur les sociétés par actions de l’Ontario, L.R.O. 1990, c. B. 16 (la « LSA »).
+[32] L’avocat a cité l’arrêt rendu par la Cour suprême du Canada dans l’affaire Magasins à rayons Peoples Inc. (Syndic de) c. Wise, [2004] A.C.S. no 64 (QL), au sujet des obligations imposées à l’administrateur en vertu de la Loi canadienne sur les sociétés par actions, L.R.C. 1985, ch. C‑44 (lesquelles sont identiques à celles qui sont prévues dans la LSA de l’Ontario), où la cour a dit ce qui suit :
+35 En vertu de l’obligation fiduciaire prévue par la loi, les administrateurs et les dirigeants doivent agir avec intégrité et de bonne foi au mieux des intérêts de la société. Ils doivent respecter la confiance qui leur a été accordée et gérer les actifs qui leur sont confiés de manière à réaliser les objectifs de la société. Ils doivent éviter les conflits d’intérêts avec la société. Ils ne doivent pas profiter du poste qu’ils occupent pour tirer un avantage personnel. Ils doivent préserver la confidentialité des renseignements auxquels leurs fonctions leur donnent accès. Les administrateurs et les dirigeants doivent servir la société de manière désintéressée et avec loyauté et intégrité : voir K. P. McGuinness, The Law and Practice of Canadian Business Corporations (1999), p. 715.
+[33] L’appelante a également renvoyé aux dispositions de la LSA de l’Ontario qui interdisent aux administrateurs d’effectuer des transactions internes et exigent que ceux‑ci divulguent tout conflit d’intérêts. L’appelante a également renvoyé aux dispositions de la LSA de l’Ontario qui autorisent un tribunal à intervenir en vue d’empêcher tout abus à l’égard des actionnaires minoritaires.
+[34] L’avocat de l’appelante a maintenu qu’à cause de ces obligations envers la société, l’administrateur désigné par Bost ne pouvait pas exercer de contrôle sur l’appelante dans le seul intérêt de Bost.
+[35] L’appelante a soutenu qu’en ce qui concerne la question de l’influence économique que Bost exerçait sur elle, sa dette au cours des années visées par l’appel n’était pas trop élevée et ne pouvait pas être considérée comme étant remboursable sur demande, étant donné que la CUA obligeait Bost à assurer le financement. Ce financement n’était pas important au point que Bost exerçait un contrôle de fait sur l’appelante.
+[36] L’appelante affirme que le fait qu’elle comptait sur Bost ou sur ses sociétés liées pour lui fournir des terrains à bâtir n’entraînait pas de dépendance économique envers Bost. À part le fait que toutes les recettes de l’appelante provenaient de tiers et non de Bost, l’appelante a soutenu qu’elle aurait pu obtenir les lots d’autres sources.
+[37] Il a été soutenu que même s’il est conclu que Bost exerçait une influence qui aurait pu avoir pour effet de lui accorder un contrôle de fait sur l’appelante, l’appelante n’était néanmoins pas contrôlée par Bost, parce que les conditions à remplir pour que l’exception prévue au paragraphe 256(5.1) s’applique étaient réunies. L’appelante a fait valoir qu’étant donné que l’intimée avait admis, dans la réponse à l’avis d’appel, que MM. Brown et Bostajian n’avaient entre eux aucun lien de dépendance, il devrait être conclu que l’appelante et Bost n’avaient pas non plus entre elles de lien de dépendance, de sorte que la première condition énoncée au paragraphe 256(5.1) était remplie. L’appelante dit ensuite que la convention par laquelle Bost exerçait une influence sur l’appelante était la CUA, qui était semblable à un contrat de concession, à une licence, à un bail, à un contrat de commercialisation, d’approvisionnement ou de gestion. Enfin, l’appelante a soutenu que l’objet principal de la CUA consistait à déterminer les liens unissant l’appelante et Bost en ce qui concerne la façon de mener l’entreprise exploitée par l’appelante et que l’objet principal de la disposition relative à la voix prépondérante figurant dans la CUA était de protéger la marque de commerce « Grandview Homes ». L’appelante a soutenu que, cela étant, la CUA faisait partie intégrante des dispositions générales qui avaient été prises entre l’appelante et Bost au sujet de la franchise et qu’il s’agissait donc d’une entente du genre envisagé au paragraphe 256(5.1).
+[38] L’appelante s’est fondée sur la décision rendue par la Cour dans l’affaire Lenester Sales Ltd. c. R., 2003 CCI 531. Dans cette affaire‑là, la contribuable avait acquis une franchise de GTS Ltd. en vue d’exploiter un magasin Giant Tiger. Le ministre avait établi une nouvelle cotisation à l’égard de la contribuable en vue de refuser la demande de déduction accordée aux petites entreprises, compte tenu du fait que la contribuable était contrôlée par GTS et que, cela étant, elle était associée à GTS. Le ministre a supposé que GTS contrôlait la contribuable, en partie, par suite des conditions de certains arrangements bancaires et financiers ainsi que par suite des conditions figurant dans une convention d’actionnaires conclue entre la contribuable et GTS. Le ministre a pris la position selon laquelle la convention d’actionnaires ainsi que les arrangements financiers et bancaires n’étaient pas visés par le libellé de l’exception prévue au paragraphe 256(5.1).
+[39] Dans la décision Lenester, le juge en chef adjoint Bowman (maintenant juge en chef) a conclu que GTS ne contrôlait pas la contribuable, mais il a ensuite conclu que les arrangements bancaires et financiers ainsi que la convention d’actionnaires étaient visés par l’exception énoncée au paragraphe 256(5.1), compte tenu du fait qu’ils faisaient partie des dispositions générales que les parties avaient prises au sujet de la franchise et qu’ils faisaient « [...] tous partie de l’éventail extrêmement vaste d’arrangements contractuels et financiers entre les franchiseurs et les franchisés prévus par le paragraphe 256(5.1) ».
+Analyse
+[40] J’examinerai d’abord la question de savoir si la voix prépondérante accordée à l’administrateur désigné par Bost avait pour effet de conférer à Bost le contrôle de fait de l’appelante.
+[41] Il ressort clairement de la jurisprudence que ce genre de disposition, en ce qui concerne la voix prépondérante (que ce soit à une assemblée d’actionnaires ou à une réunion du conseil d’administration), ne confère pas à son titulaire un contrôle de droit sur la société (voir par exemple Alpine Drywall & Decorating Ltd. v. Minister of National Revenue (1967) S.C.R. 223)).
+[42] Toutefois, dans la décision rendue en première instance dans l’affaire Alpine Drywall ([1966] Ex. C.R. 1148), le juge Cattanach était clairement d’avis qu’une voix prépondérante suffisait pour conférer à son titulaire le contrôle de fait sur la société. À la page 1157, la cour a dit ceci :
+[traduction]
+[...] ces circonstances conféreraient le contrôle de Jager à l’appelante à toutes fins utiles et pour l’application de la législation de l’Alberta sur les sociétés [...]
+Dans l’arrêt Alpine Drywall, la Cour suprême a semblé partager cet avis; en effet, elle a dit (à la page 229) que la disposition relative à la voix prépondérante dans ce cas‑là [traduction] « pourrait être considérée comme conférant le contrôle de fait » à son titulaire.
+[43] À l’appui de cette position, il y a également les commentaires qui ont été faits dans « Associated Corporations », Minor R.B. 1983 Carswells (page 47) :
+[traduction]
+Les lois, statuts ou règlements administratifs des sociétés prévoient souvent qu’en cas de partage des voix, la personne qui préside l’assemblée des actionnaires ou la réunion du conseil d’administration a une voix prépondérante en plus de toute voix qu’elle peut avoir par suite des actions qu’elle détient. De toute évidence, lorsqu’un actionnaire possède 50 p. 100 des actions avec droit de vote d’une société, il ne lui manque qu’une action pour contrôler cette société selon le critère énoncé dans la décision Buckerfield. Si, du fait qu’il préside la réunion, cet actionnaire a droit à une voix prépondérante, il contrôle à toutes fins utiles la société.
+[Non souligné dans l’original.]
+[44] Quant à l’argument de l’appelante selon lequel Bost n’avait pas, comme l’a dit la Cour d’appel fédérale dans l’arrêt Silicon Graphics Ltd. c. R., 2002 CAF 260, « la capacité [...] de procéder à une modification importante du conseil d’administration ou des pouvoirs du conseil », cette capacité serait inutile si l’administrateur désigné par cette personne avait effectivement la majorité des voix à une réunion du conseil d’administration.
+[45] À mon avis, lorsqu’il s’agit de décider qui exerce le contrôle de fait d’une société, il importe peu qu’un actionnaire contrôle les prises de décisions du conseil d’administration du fait qu’il peut élire la majorité des administrateurs ou du fait que l’administrateur qu’il a désigné a la majorité des voix à une réunion du conseil d’administration. Le point auquel le contrôle prend naissance est peut‑être différent, mais en pratique, dans un cas comme dans l’autre, le même degré de contrôle de fait existe.
+[46] De plus, les obligations fiduciaires imposées aux administrateurs par la LSA de l’Ontario, lesquelles ont été mentionnées par l’avocat de l’appelante, ne sont pas pertinentes lorsqu’il s’agit de savoir qui a le contrôle d’une société pour l’application de la Loi de l’impôt sur le revenu, parce que le contrôle peut être détenu et exercé sans que ces obligations fiduciaires soient violées.
+[47] Étant donné que j’ai conclu que Bost exerçait un contrôle de fait sur l’appelante, il faut décider si le contrôle de fait est visé par l’exception énoncée au paragraphe 256(5.1). L’exception est libellée comme suit :
+[...] Toutefois, si cette influence découle d’un contrat de concession, d’une licence, d’un bail, d’un contrat de commercialisation, d’approvisionnement ou de gestion ou d’une convention semblable – la société et l’entité dominante n’ayant entre elles aucun lien de dépendance – dont l’objet principal consiste à déterminer les liens qui unissent la société et l’entité dominante en ce qui concerne la façon de mener une entreprise exploitée par la société, celle‑ci n’est pas considérée comme contrôlée, directement ou indirectement, de quelque manière que ce soit, par l’entité dominante du seul fait qu’une telle convention existe.
+[48] Selon la première condition, il ne doit y avoir aucun lien de dépendance entre la société (l’appelante dans ce cas‑ci) et la présumée « entité dominante » (Bost).
+[49] Comme l’a signalé l’avocat de l’appelante, l’intimée a admis que MM. Bostajian et Brown n’avaient entre eux aucun lien de dépendance. Toutefois, le ministre soutient que M. Bostajian et Bost avaient un lien de dépendance avec l’appelante.
+[50] La jurisprudence indique que, pour qu’il soit conclu à l’existence d’un lien de dépendance, les facteurs pertinents à prendre en considération sont :
+1) l’existence d’une volonté commune qui dirige les négociations pour les deux parties à l’opération;
+2) des parties à une opération agissant de concert sans intérêts distincts;
+3) le contrôle de fait.
+(voir Peter Cundill & Associates Ltd. v. The Queen, 91 DTC 5543 (C.A.F.))
+[51] En l’espèce, l’avocat de l’intimée soutient que les deux premiers facteurs sont présents, en ce qui concerne M. Bostajian et Bost, d’une part, et l’appelante, d’autre part. Il affirme que Bost a financé tous les frais d’établissement de l’appelante ainsi que les frais associés aux coûts d’acquisition. Il a déclaré que Bost avait consenti des prêts ne portant pas intérêt, allant jusqu’à 1,2 million de dollars, à Brownco, au moyen de facilités de crédit au nom de Bost auprès de la Banque Royale.
+[52] L’avocat a également fait valoir que Garo avait fait en sorte que l’appelante fournisse une garantie à l’égard des facilités de crédit, et ce, bien que les mêmes facilités aient également été utilisées par d’autres sociétés [traduction] « franchisées » de Bost. L’avocat a également soutenu que l’émission d’actions de l’appelante en faveur de 147 et l’attribution de la part revenant à Bost, en ce qui concerne les frais de gestion de l’appelante, en faveur de certaines sociétés du groupe Bost constituaient une preuve additionnelle que Garo était l’âme dirigeante de l’appelante.
+[53] Je note que, contrairement aux prétentions de l’intimée, la preuve montrait que l’appelante devait payer des intérêts sur le montant financé par Bost pour l’achat de lots ainsi que pour la construction d’habitations à un taux donnant à entendre l’absence de lien de dépendance. Je note également que l’émission des actions de l’appelante en faveur de 147 a eu lieu avant les années ici en cause, à un moment où, comme l’appelante l’admet, Bost exerçait un contrôle de droit sur l’appelante. Il s’agit de savoir si la capacité de Bost de diriger l’appelante a continué après que 147 eut acquis les actions.
+[54] Sur ce point, l’intimée signale que des frais de gestion étaient versés à des sociétés liées à Bost. Toutefois, les frais en question étaient d’un montant égal au montant des frais de gestion versés à 147 et, selon la preuve, ils étaient versés pour des services fournis par les sociétés de Bost. En outre, les paiements ont été effectués conformément à la convention d’actionnaires, conclue par Bost et par 147, à l’égard desquelles aucune allégation de lien de dépendance n’a été faite. Les modalités de paiement des frais de gestion étayent donc la prétention selon laquelle l’appelante, Bost et M. Bostajian n’avaient entre eux aucun lien de dépendance.
+[55] Il est vrai que Bost a financé les frais d’établissement de l’appelante, mais ces montants ont été traités comme des prêts d’actionnaire, ce qui est également compatible avec des opérations sans lien de dépendance.
+[56] L’autre facteur sur lequel l’intimée s’est fondée était la garantie fournie par l’appelante à l’égard des facilités de crédit accordées à Bost, pour lesquelles la totalité de la dette se rapportait à un certain nombre de sociétés franchisées du groupe Bost ainsi qu’à l’appelante.
+[57] MM. Bostajian et Brown n’ont donné aucune explication au sujet de cet arrangement, et l’avocat de l’appelante n’en a pas non plus parlé dans son argumentation.
+[58] Rien ne montrait que l’appelante avait reçu un avantage pour avoir garanti le montant des facilités de crédit, en sus de ses propres besoins, ou que les conditions de l’emprunt contracté par l’appelante auprès de Bost étaient plus favorables pour celle‑ci parce que l’appelante avait donné la garantie. Jusqu’à concurrence des montants avancés, l’appelante assumait un risque pour le compte de parties non liées. Le fait que Bost et M. Bostajian ont fait en sorte que l’appelante fournisse la garantie, apparemment au détriment de ses propres intérêts, prouve le rôle de ces parties à titre d’âmes dirigeantes de l’appelante. Le fait que l’appelante était prête à accepter le risque en faveur d’autres sociétés de Bost peut uniquement s’expliquer par l’existence d’une volonté commune dirigeant les négociations pour les parties à l’opération.
+[59] Je conclus donc que l’appelante, Bost et Garo avaient entre eux un lien de dépendance et que la première condition énoncée au paragraphe 256(5.1) n’est pas remplie.
+[60] Je suis également d’avis que le contrôle accordé à Bost par suite de la voix prépondérante conformément à la CUA ne découle pas « d’un contrat de concession, d’une licence, d’un bail, d’un contrat de commercialisation, d’approvisionnement ou de gestion ou d’une convention semblable, dont l’objet principal consistait à déterminer les liens qui unissaient la société et l’entité dominante en ce qui concerne la façon de mener une entreprise exploitée par la société », comme ce doit être le cas pour que l’exception s’applique.
+[61] Je ne suis pas d’accord pour dire que la CUA est semblable à un contrat de franchise. Selon le Black’s Law Dictionary, un contrat de franchise est :
+[traduction]
+Le contrat entre un franchiseur et un franchisé établissant les conditions de la relation de franchise.
+[62] La CUA ne mentionne pas l’octroi d’une franchise en faveur de l’appelante et ne fait pas non plus mention du nom commercial « Grandview Homes » sur lequel la franchise que Bost avait censément accordée à l’appelante était fondée. De fait, je ne puis rien voir dans la CUA qui puisse être considéré comme se rapportant à l’existence d’une franchise que Bost aurait accordée à l’appelante.
+[63] La CUA ne renferme pas non plus de clause portant sur l’octroi d’une licence, sur un bail, ou sur un contrat de commercialisation ou d’approvisionnement de quelque produit par l’appelante ou par une autre partie à la convention ou en faveur de l’appelante ou d’une autre partie à la convention.
+[64] Toutefois, la clause 2.2 ainsi que les clauses 2.4 à 2.7 de la CUA traitent de la gestion de l’appelante et, dans cette mesure, la CUA peut être considérée comme semblable à un contrat de gestion. Les clauses pertinentes de la CUA sont rédigées comme suit :
+[traduction]
+2.2 Gestion
+Les activités de la société seront gérées par un conseil d’administration composé d’au moins deux administrateurs. Bost et 1476577 Ontario désigneront chacune un administrateur. Les règlements administratifs de Brownco renfermeront les précisions suivantes :
+a) L’un ou l’autre administrateur peut, sur préavis de 30 jours donné à Brownco et à l’autre administrateur, demander la tenue d’une réunion du conseil d’administration;
+b) Le quorum est d’au moins un administrateur;
+c) La majorité des voix à une réunion du conseil d’administration l’emportera. En cas de partage des voix, la personne qui préside la réunion du conseil d’administration aura une voix prépondérante;
+d) Sauf entente contraire, la personne désignée par Bost présidera le conseil d’administration;
+e) Chaque actionnaire aura raisonnablement accès aux livres et registres de Brownco au cours des heures d’ouverture normales.
+2.4 Fonds se rattachant à la construction et lots
+Bost prendra des arrangements en vue du financement bancaire des activités de la société. La société versera des intérêts à Bost au taux préférentiel, plus 0,5 p. 100, pour ce financement bancaire. Bost s’efforcera d’obtenir des terrains à bâtir pour Brownco.
+2.5 Vente d’habitations par Brownco
+Brownco s’efforcera de vendre des habitations en vue de réaliser un profit.
+2.6 Services de gestion fournis par 1476577 Ontario
+La société 1476577 Ontario sera responsable des services ci‑après énumérés et en assumera le coût :
+a) véhicule et remorque sur le chantier
+b) frais de nettoyage et de déchargement
+c) supervision du chantier
+d) main-d’œuvre sur le chantier
+e) nettoyage du lot
+f) enlèvement des ordures
+g) nettoyage final
+h) petits outils
+i) téléphone cellulaire et téléphone sur le chantier
+j) divers matériaux de finition
+k) prestation de services
+l) travaux d’entretien dans le cadre de la couverture offerte par TARION
+Brownco versera à 1476577 Ontario pour les services susmentionnés un montant unitaire de 3 000 $, plus le montant mentionné à l’article 2.8.
+2.7. Services de gestion fournis par Bost
+Bost ou une société affiliée de Bost fournira des services complets de comptabilité et de gestion et en assumera le coût et s’efforcera de fournir des terrains à bâtir. Pour ces services, Brownco versera à Bost ou à la société affiliée qui fournit le service un montant unitaire de 3 000 $, plus le montant mentionné à l’article 2.8.
+[65] L’objet principal de la CUA devient alors pertinent.
+[66] En plus des dispositions relatives à la gestion de la CUA, certaines conditions portent sur le calcul des gratifications à verser à chaque actionnaire pour les services de gestion qu’il fournit, sur le droit de premier refus afférent à la vente d’actions et sur l’obligation d’obtenir l’autorisation du conseil d’administration pour tout transfert d’actions. Étant donné le nombre de droits et d’obligations dont il est question dans la CUA, il est impossible de dire que son objet principal était de traiter de l’une quelconque de ces questions plutôt que des autres. Il n’y a rien dans la convention qui montre que les parties estimaient que certains droits et certaines obligations créés par la convention avaient plus d’importance que les autres. Étant donné que selon la loi, « l’objet principal » de la convention doit être celui qui est énoncé au paragraphe 256(5.1), la convention n’est pas admissible dans ce cas‑ci.
+[67] Même si l’objet principal de la convention se rapportait aux services de gestion qui y étaient prévus, j’aurais néanmoins conclu que la convention n’était pas visée par l’exception parce que les dispositions particulières de la CUA n’énonçaient pas la façon de mener l’entreprise exploitée par l’appelante comme l’exige le libellé du paragraphe 256(5.1). La liste des tâches de gestion assignées à chaque actionnaire indique ce que chaque actionnaire doit faire, mais ne précise pas comment ces tâches doivent être accomplies ou, plus précisément comment l’entreprise de l’appelante doit être menée.
+[68] À mon avis, l’objet principal de la CUA ne consistait pas non plus à déterminer les liens qui unissaient Bost et l’appelante. Selon ses termes mêmes, l’objet de la CUA consistait à déterminer les liens qui unissaient Bost et 147. Le préambule de la CUA est rédigé comme suit :
+[traduction]
+Bost et 1476577 Ontario veulent établir certaines obligations et certains droits mutuels à l’égard des actions qu’elles détiennent dans la société; [...]
+Dans son témoignage, M. Brown a convenu que tel était l’objet de la CUA.
+[69] Je ne suis pas d’accord avec l’appelante pour dire que les faits de la présente affaire sont semblables à ceux qui existaient dans Lenester Sales Ltd. v. The Queen. En effet, dans la décision Lenester, il a été conclu que les arrangements bancaires et financiers ainsi que les conventions d’actionnaires qui accordaient censément le contrôle de fait à GTS faisaient partie des dispositions générales qui avaient été prises entre la contribuable et GTS au sujet de la franchise et faisaient partie de l’éventail extrêmement large des arrangements contractuels et financiers prévus au paragraphe 256(5.1) que les franchiseurs et les franchisés avaient pris.
+[70] Il est possible de faire une distinction d’avec la décision Lenester parce que, dans cette affaire‑là, les parties avaient conclu un contrat écrit de franchise et que la preuve montrait que les arrangements bancaires et financiers et les conventions d’actionnaires en question visaient à faciliter le contrat de franchise.
+[71] En l’espèce, il n’y a pas de contrat écrit de franchise et la preuve ne montre pas qu’il y ait eu un contrat de franchise oral entre Bost et l’appelante. Les témoignages de MM. Bostajian et Brown ne renfermaient aucun détail au sujet des conditions du présumé contrat de franchise, et aucune explication n’était donnée au sujet de la raison pour laquelle le contrat n’avait pas été consigné par écrit. En l’absence d’une preuve satisfaisante de l’existence d’un contrat de franchise, rien ne permet de conclure que la CUA faisait partie d’un contrat de franchise.
+[72] En outre, la disposition relative à la voix prépondérante de la CUA n’est pas limitée à l’octroi d’un contrôle à Bost lorsqu’il s’agit de voter, aux réunions du conseil d’administration, sur des questions touchant l’achalandage associé au nom commercial « Grandview Homes ». Bost pouvait se prévaloir de la voix prépondérante à n’importe quelle fin et cette voix conférait à Bost une influence déterminante sur l’appelante, laquelle avait une portée beaucoup plus étendue que l’objet de la disposition tel qu’il a été énoncé par M. Bostajian.
+[73] Pour ces motifs, je ne suis pas convaincu que la disposition relative à la voix prépondérante ait été incluse dans la CUA en vue de faciliter quelque présumé contrat de franchise.
+[74] En résumé, les circonstances dans lesquelles le contrôle de fait de l’appelante est accordé à Bost en l’espèce ne répondent pas aux conditions énoncées dans l’exception prévue au paragraphe 256(5.1).
+[75] S’il avait fallu examiner l’argument de l’intimée selon lequel l’appelante est réputée avoir été associée à Bost en vertu du paragraphe 256(2.1) de la Loi, j’aurais conclu que l’un des principaux motifs de l’existence distincte de l’appelante au cours des années en question se rapportait à la réduction d’impôt.
+[76] MM. Brown et Bostajian ont tous deux témoigné qu’ils n’avaient jamais discuté de questions fiscales en créant l’appelante, mais les circonstances entourant la constitution de l’appelante en personne morale m’amènent à conclure que l’économie d’impôt était un motif important de la création de la société et de son existence continue.
+[77] MM. Brown et Bostajian ont déclaré qu’en constituant l’appelante en personne morale, ils voulaient créer une société franchisée Grandview Homes dans laquelle M. Brown pourrait avoir une participation et qu’ils cherchaient à limiter la responsabilité de Bost et de M. Bostajian.
+[78] En ce qui concerne la première raison, il semble que même avant la création de l’appelante, M. Brown et l’une des sociétés Bost partageaient déjà également les bénéfices tirés de la construction d’habitations. C’était le cas pour les habitations construites à Kitchener et à Waterloo, en 1998, ainsi que pour les habitations que Buildco avait construites à Barrie jusqu’en 2001. Le partage des responsabilités entre M. Brown et les sociétés Bost au cours des premières années semble également correspondre au partage des responsabilités entre Bost et 147 en ce qui concerne l’appelante.
+[79] On n’a pas expliqué pourquoi la création de l’appelante était avantageuse pour M. Brown, étant donné que l’achalandage créé par l’appelante aurait été accumulé au profit du nom commercial « Grandview Homes », plutôt qu’au profit de l’appelante. Le contrôle afférent au transfert d’actions de l’appelante conformément à la CUA est une autre indication que la création de l’appelante ne comportait qu’un avantage restreint pour M. Brown.
+[80] L’absence de contrat de franchise formel écrit, le fait que toutes les ententes et tous les documents juridiques concernant l’appelante ont été préparés par les avocats de Bost et qu’ils étaient signés par M. Brown sans avis juridique indépendant ainsi que la nature illimitée du pouvoir de veto de l’administrateur désigné par Bost m’amènent également à douter que MM. Brown et Bostajian voulaient avant tout simplement créer une société franchisée qui devait être exploitée par M. Brown.
+[81] Je ne suis pas non plus convaincu que M. Bostajian, qui a admis être celui qui avait décidé d’utiliser une structure selon laquelle les actions de l’appelante et des autres sociétés « franchisées » de Bost seraient détenues à égalité de parts, n’ait pas été au courant des conséquences fiscales associées à ces arrangements. Bost avait recours à des conseillers professionnels, des avocats et des comptables, qui l’ont aidée à créer ces sociétés, et les dispositions de la CUA portant sur le paiement des frais de gestion par l’appelante montrent bien qu’il y avait planification fiscale.
+[82] La planification fiscale est également évidente dans le cas de deux autres entreprises de construction franchisées de Bost, Ridgeview Homes Ltd. et 1205584 Ontario Inc. Initialement, Bost détenait 51 p. 100 des actions de chaque société, l’autre actionnaire en détenant 49 p. 100, et chaque société comptait deux administrateurs (chaque actionnaire en désignant un). Le 31 octobre 2001, des actions additionnelles de chaque société ont été émises en faveur de l’actionnaire qui détenait 49 p. 100 des actions, de façon que chaque actionnaire détienne le même nombre d’actions, et l’administrateur désigné par Bost a obtenu une voix prépondérante. M. Bostajian a procédé à ces changements parce que la structure, en ce qui concerne le nombre d’actions, devait être la même pour toutes les sociétés franchisées et qu’il voulait que tous les franchisés estiment être aussi importants que lui en leur accordant la moitié des droits de vote. En l’absence d’explication au sujet de la raison pour laquelle Bost devait utiliser, en ce qui concerne le nombre d’actions détenues, la même structure pour ces sociétés que pour les autres sociétés, et compte tenu du fait que la voix prépondérante de Bost avait pour effet de conférer à Bost le contrôle de ces sociétés, ni l’une ni l’autre des raisons invoquées par M. Bostajian au sujet du changement n’est vraisemblable. Selon toute probabilité, le rajustement du nombre d’actions visait à éviter les règles auxquelles les sociétés associées étaient assujetties aux termes de la Loi.
+[83] Je ne puis non plus accepter qu’en créant l’appelante, M. Bostajian se préoccupait de sa responsabilité légale ainsi que de celle de Bost. Aucune question de ce genre ne s’était posée au cours des trois années où M. Brown avait construit des habitations pour Bost ou pour Buildco sans qu’il y ait de société et la raison pour laquelle la question se serait posée en 2001 n’est pas évidente.
+[84] Dans l’ensemble, je suis convaincu que la preuve montre qu’en l’absence de motifs d’ordre fiscal, il est peu probable que l’appelante aurait été constituée en personne morale ou qu’elle aurait continué à exister au cours des années en cause.
+[85] Pour ces motifs, l’appel est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 25e jour de janvier 2008.
+« B. Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 18e jour d’avril 2008.
+Christian Laroche
+RÉFÉRENCE : 2008CCI58
+DOSSIER DE LA COUR : 2005-3161(IT)G
+INTITULÉ : BROWNCO INC.
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Kitchener (Ontario)
+DATE DE L’AUDIENCE : Les 14 et 15 février 2007
+MOTIFS DU JUGEMENT : L’honorable juge B. Paris
+DATE DU JUGEMENT : Le 25 janvier 2008
+COMPARUTIONS :
+Avocat de l’appelante :
+Me George Voisin
+Avocat de l’intimée :
+Me Ifeanyi Nwachukwu
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : George Voisin
+Cabinet : Voisin Lubczuk
+Kitchener (Ontario)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

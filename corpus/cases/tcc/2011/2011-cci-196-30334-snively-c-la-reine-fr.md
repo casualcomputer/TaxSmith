@@ -1,0 +1,261 @@
+---
+title: "Snively c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30334/index.do"
+last_modified: "2011-05-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 196"
+citation2: ""
+neutral_citation: "2011 CCI 196"
+decision_date: "2011-05-03"
+language: "fr"
+item_id: "30334"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 8051
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:53:35.526000+00:00"
+cases_cited_count: 4
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "650ed938111b222442aef77fac07e2b6a54627b15ad859ebd25df6b3d24e2f7f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Snively c. La Reine
+
+- Citation: 2011 CCI 196
+- Decision date: 2011-05-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8051, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Snively c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-05-03
+Référence neutre
+2011 CCI 196
+Numéro de dossier
+2010-298(GST)I
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2010-298(GST)I
+ENTRE :
+DONALD SNIVELY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu les 26 et 27 janvier 2011 à Hamilton (Ontario)
+Devant : L’honorable juge Brent Paris
+Comparutions :
+Avocat de l’appelant :
+Me James R.W. McNeill
+Avocat de l’intimée :
+Me Kashayar Haghgouyan
+____________________________________________________________________
+JUGEMENT
+Comme l’intimée l’a admis, l’appel interjeté à l’encontre de la nouvelle cotisation fondée sur l’article 323 de la Loi sur la taxe d’accise, dont l’avis est daté du 6 novembre 2009 et porte le numéro 47453, pour la période allant du 1er décembre 1999 au 30 avril 2000, est accueilli, et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, au motif que la responsabilité de l’appelant à l’égard de la TPS que JDR Tools and Equipment (1994) Inc. n’a pas payée ainsi que des intérêts et pénalités afférents est réduite à 96 109,26 $.
+Signé à Ottawa, Canada, ce 3e jour de mai 2011.
+« B. Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 17e jour de juin 2011.
+Christian Laroche, LL.B.
+Juriste-traducteur et traducteur-conseil
+Référence : 2011 CCI 196
+Date : 20110503
+Dossier : 2010-298(GST)I
+ENTRE :
+DONALD SNIVELY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] Il s’agit d’un appel relatif à une cotisation établie au titre de l’article 323 de la Loi sur la taxe d’accise (la « LTA »)[1] à l’égard de l’appelant, en qualité d’administrateur de JDR Tools and Equipment (1994) Inc. (« JDR ») pour la taxe sur les produits et services (« TPS ») impayée ainsi que les intérêts et pénalités afférents pour la période allant du 1er décembre 1999 au 30 avril 2000.
+[2] Selon le paragraphe 323(1) de la LTA, l’administrateur d’une personne morale est tenu de payer tout montant de taxe nette dont cette personne morale est redevable ainsi que les intérêts et pénalités afférents. Voici le texte de cette disposition :
+323(1) Les administrateurs d’une personne morale au moment où elle était tenue de verser, comme l’exigent les paragraphes 228(2) ou (2.3), un montant de taxe nette ou, comme l’exige l’article 230.1, un montant au titre d’un remboursement de taxe nette qui lui a été payé ou qui a été déduit d’une somme dont elle est redevable, sont, en cas de défaut par la personne morale, solidairement tenus, avec cette dernière, de payer le montant ainsi que les intérêts et pénalités afférents.
+[3] Cependant, l’administrateur n’encourt pas de responsabilité aux termes du paragraphe 323(1) s’il a agi avec diligence raisonnable pour prévenir le manquement. Ce moyen de contestation est énoncé au paragraphe 323(3) :
+323(3) L’administrateur n’encourt pas de responsabilité s’il a agi avec autant de soin, de diligence et de compétence pour prévenir le manquement visé au paragraphe (1) que ne l’aurait fait une personne raisonnablement prudente dans les mêmes circonstances.
+[4] De plus, selon le paragraphe 323(5), l’établissement d’une cotisation à l’encontre d’un administrateur à l’égard de la responsabilité prévue au paragraphe 323(1) se prescrit par deux ans après qu’il a cessé pour la dernière fois d’être administrateur :
+323(5) L’établissement d’une telle cotisation pour un montant payable par un administrateur se prescrit par deux ans après qu’il a cessé pour la dernière fois d’être administrateur.
+La position de l’appelant
+[5] Dans la présente affaire, l’appelant soutient que la cotisation visée par l’appel est prescrite, parce qu’elle a été établie plus de deux ans après la date de sa démission à titre d’administrateur de JDR.
+[6] Subsidiairement, il fait valoir que, s’il a été administrateur de JDR à l’époque pertinente, il a fait preuve de diligence raisonnable pour prévenir le manquement de JDR quant au paiement de la TPS exigée.
+[7] L’appelant a également contesté le montant de la dette de JDR au titre de la TPS dont il pourrait être tenu responsable. Toutefois, à l’audience, l’avocat de l’intimée a admis que le montant de la cotisation établie à l’égard de l’appelant devait être réduit de 229 821,35 $ à 96 109,26 $[2]. L’appelant n’a pas contesté les montants révisés.
+Les faits
+[8] L’appelant travaille dans l’industrie de la construction depuis qu’il a terminé ses études secondaires. En 1985, il a créé sa propre entreprise de construction, mais celle-ci a mis fin à ses activités en 1992 après avoir éprouvé des problèmes financiers.
+[9] JDR a été constituée en personne morale sous le régime de la Loi sur les sociétés par actions[3] (la « LSA ») de l’Ontario en décembre 1993. L’appelant était le seul actionnaire de JDR et en est devenu le seul administrateur en juin 1994. Il a expliqué que la société poursuivait des activités de construction et de location de matériel lourd à Hamilton et dans la région avoisinante, en Ontario.
+[10] Vers la fin d’août 2002, l’associé de JDR dans un grand projet de construction a fait faillite, ce qui a sensiblement affaibli la capacité de JDR de poursuivre ses activités. L’appelant a expliqué qu’à l’époque, il a consulté l’avocat de JDR, Me John Hammond, et décidé que l’entreprise devait réduire progressivement ses activités, vendre son équipement et utiliser l’argent pour payer ses factures.
+[11] Le 3 septembre 2002, l’appelant a remis à Me Hammond, au siège social de la société, sa lettre écrite de démission en qualité d’administrateur et de dirigeant de JDR. Voici le texte de la lettre :
+[traduction]
+Cher John,
+Conformément à la conversation téléphonique que nous avons eue il y a deux semaines, je vous informe par la présente lettre de ma démission en qualité d’administrateur et de dirigeant de JDR Tools & Equipment.
+Comme nous l’avons dit, l’ensemble de l’équipement qui appartient à JDR Tools & Equipment sera vendu cet automne et le produit de la vente sera affecté au paiement des dettes de l’entreprise.
+Je continuerai à agir à titre de signataire autorisé jusqu’à ce que les travaux en cours soient terminés, ce qui devrait avoir lieu d’ici la fin de l’année.
+Si vous avez d’autres directives à me transmettre, veuillez me téléphoner.
+Je vous prie d’agréer, cher John, l’expression de mes sentiments distingués.
+« John Snively »
+[12] Me Hammond a confirmé qu’il avait reçu la lettre de l’appelant le 3 septembre 2002 et qu’il avait remis celle-ci à un commis de son bureau pour qu’il la classe avec les documents de la société.
+[13] L’avocat de l’intimée n’a pas contesté la preuve concernant la démission de l’appelant, et je conclus que celui-ci a cessé d’être administrateur de droit de JDR à la date à laquelle il a envoyé la lettre à Me Hammond.
+[14] L’appelant a mentionné que personne n’a été nommé administrateur à sa place après sa démission et que, à compter de cette date, il n’y a pas eu d’administrateur chez JDR. Il a précisé qu’à la fin de novembre 2002, tout l’équipement de JDR avait été vendu et que les contrats dont les travaux n’étaient pas terminés avaient été transférés à une nouvelle société à dénomination numérique dont les actions appartenaient à deux des ex-employés de JDR. L’appelant était le seul administrateur de la nouvelle société.
+[15] L’appelant avait continué, au nom de JDR, à recouvrer les montants dus à celle‑ci au titre des travaux que l’entreprise avait exécutés pour ses clients. Ces sommes d’argent avaient été déposées dans le compte bancaire de JDR et avaient ensuite servi à rembourser les créanciers. L’appelant a expliqué que ces opérations financières étaient à peu près terminées à la fin de juillet 2003 et que, selon lui, les comptes bancaires avaient été fermés peu de temps après.
+[16] Bien que JDR n’ait jamais été formellement liquidée, l’appelant a soutenu que l’entreprise est devenue inactive après la fin de novembre 2002, puisque son équipement avait été vendu et que ses contrats avaient été pris en charge par la nouvelle société.
+[17] En février 2004, JDR a fait l’objet d’une nouvelle cotisation fondée sur la LTA au titre des montants de TPS qu’elle n’aurait pas, selon le ministre du Revenu national (le « ministre »), recouvrés et versés relativement aux paiements reçus d’un client à l’égard de la construction d’un hôtel pour celui-ci à Grimsby, en Ontario, au cours de la période allant du 1er décembre 1999 au 30 avril 2000.
+[18] JDR s’est opposée à la nouvelle cotisation. En novembre 2004, alors que l’opposition était toujours pendante, les comptables de JDR ont préparé des états financiers et déposé des déclarations de revenus pour les exercices financiers de JDR terminés les 31 août 2003 et 31 août 2004. L’appelant a admis que ces mesures avaient été prises sur ses ordres et qu’il avait signé les déclarations de revenus à titre de « signataire autorisé » de JDR. Aucun montant au titre des revenus ou dépenses ne figurait sur les états financiers de l’année terminée le 31 août 2004, ni aucun changement touchant l’actif, le passif ou l’avoir des actionnaires pour l’année. L’appelant a donné l’explication suivante : [traduction] « nous nous sommes fait dire que nous devions produire les déclarations, faute de quoi le gouvernement nous condamnerait à verser une amende de 200 $ par jour ».
+[19] Le 31 mars 2005, l’appelant a signé un formulaire de l’Agence du revenu du Canada intitulé « Business Consent Form » (Formulaire de consentement de l’entreprise), afin d’autoriser la communication de renseignements concernant JDR au cabinet d’avocats Inch Hammond, dont le nom figurait comme représentant de JDR. Je présume que le formulaire de consentement concernait l’opposition que JDR avait déposée à l’égard de la nouvelle cotisation de février 2004, étant donné qu’aucun élément de preuve ne montre qu’Inch Hammond représentait JDR sur d’autres questions à l’époque. Selon une clause du formulaire, celui-ci devait être signé par une personne comme « un propriétaire, un associé d’une société de personnes, un directeur d’une société, un agent d’une organisation à but non lucratif ou un fiduciaire d’une succession » et l’appelant a souligné qu’il avait signé à titre de « propriétaire ».
+[20] Le 11 octobre 2005, une cotisation a été établie à l’encontre de l’appelant sous le régime de l’article 323 de la LTA relativement au montant de TPS que, selon le ministre, JDR avait omis de payer. L’appelant s’est opposé à la cotisation et était alors également représenté par Inch Hammond.
+[21] Par la suite, le 2 mars 2007, l’opposition de JDR a été accueillie en partie et le montant de TPS exigé sur les paiements que JDR avait reçus de son client a été supprimé. Le ministre a accepté l’argument de JDR selon lequel celle-ci avait agi en qualité de surveillante des travaux dans le cadre du projet de construction d’hôtel pour le compte du client et avait conclu des contrats avec des fournisseurs de produits et de services également dans le cadre du projet à titre de mandataire du client. En conséquence, le ministre a admis que les montants que le client avait payés à JDR étaient des remboursements de sommes d’argent que celle‑ci avait versées aux fournisseurs pour le compte du client et qu’aucune TPS ne devait être payée sur ces montants.
+[22] Cependant, cette description de la relation juridique entre JDR et son client a incité le ministre à refuser les crédits de taxe sur les intrants (les « CTI ») de 288 366,06 $ que JDR avait déduits relativement à la TPS qu’elle avait payée sur les fournitures du contrat de construction d’hôtel dont le client lui avait remboursé le coût. Étant donné que le client de JDR a remboursé à celle-ci les paiements qu’elle avait versés aux fournisseurs, JDR a effectivement payé la TPS en qualité de mandataire de son client, et non pour son propre compte, et n’avait droit à aucun CTI.
+[23] JDR n’a pas contesté le refus des CTI et l’appelant soutient que ceux-ci ont été déduits par erreur. Il a dit que, tout au long de la période au cours de laquelle JDR a exercé ses activités, il s’en est remis totalement à la comptable de l’entreprise, Mme Deb Ellis, pour le traitement des questions liées à la TPS. Il a dit que Mme Ellis avait travaillé pour lui pendant plusieurs années et qu’il n’avait aucune raison de douter des compétences de cette personne comme commis‑comptable, car, au cours des vérifications précédentes, l’Agence du revenu du Canada (l’« ARC ») n’avait relevé aucune erreur touchant le travail qu’elle avait accompli. Il a ajouté que, avant l’établissement de la nouvelle cotisation à l’encontre de la société en février 2004, aucun indice ne donnait à penser qu’un problème existait à l’égard des déclarations de TPS de JDR pour les périodes pertinentes.
+Premier point en litige : la cotisation établie à l’encontre de l’appelant était-elle prescrite?
+[24] L’appelant soutient que le délai de prescription de deux ans prévu au paragraphe 323(5) a expiré avant la cotisation initiale établie contre lui le 11 octobre 2005 et que, par conséquent, il n’encourt pas de responsabilité à l’égard du défaut de paiement de la TPS dont JDR était redevable au titre de la LTA.
+[25] L’avocat de l’appelant fait valoir que le délai de prescription de deux ans a commencé à courir à compter de la démission de celui-ci, le 3 septembre 2002, et que les mesures qu’il a prises pour le compte de la société après cette date visaient simplement à mettre fin aux activités de l’entreprise; de plus, il s’agissait de mesures de nature [traduction] « résiduelle » qui, en tout état de cause, ont été prises avant le 11 octobre 2003. Les autres mesures que l’appelant a prises au nom de la société après cette date l’ont été à titre d’actionnaire ou de signataire autorisé, mais non en qualité d’administrateur de JDR.
+[26] Pour sa part, l’intimée répond que l’appelant a continué à diriger et à superviser les activités de JDR après avoir démissionné comme administrateur et qu’il était donc un « administrateur réputé » de la société, conformément au paragraphe 115(4) de la LSA, dont voici le libellé :
+115(4) Si tous les administrateurs démissionnent ou sont destitués par les actionnaires sans être remplacés, quiconque dirige ou supervise les activités commerciales et les affaires internes de la société est réputé un administrateur pour l’application de la présente loi.
+[27] Il est bien établi que, étant donné que le mot « administrateur » n’est pas défini dans la LTA, il convient d’examiner la loi sous le régime de laquelle la personne morale concernée a été constituée pour savoir si une personne en était administrateur à une date donnée pour l’application de l’article 323[4]. Je conviens avec l’avocat de l’intimée que la situation de l’appelant était visée par le paragraphe 115(4) de la LSA et que, après avoir démissionné, l’appelant a continué d’agir à titre d’administrateur réputé.
+[28] Il me semble que le rôle que l’appelant a joué à titre de seul administrateur et directeur de JDR n’a changé d’aucune façon après qu’il eut remis sa démission à Me Hammond. Aucun autre administrateur n’a été nommé à sa place et aucun élément de preuve ne montre que la direction et la supervision des activités de JDR ont été confiées à une autre personne. JDR a continué à exercer ses activités et à exécuter les travaux de construction et contrats de location existants jusqu’à la fin de novembre 2002 et, pendant cette période, l’appelant a dirigé ces activités de la même façon qu’il l’avait fait avant de démissionner. Je ne puis voir aucun changement important quant à la nature ou à l’importance du rôle que l’appelant a joué dans les activités de JDR après sa démission. La quantité de travail qu’il a accomplie pour l’entreprise a diminué après que celle-ci eut vendu la majeure partie de son équipement et transféré ses contrats à la nouvelle entreprise, mais il est évident que l’appelant demeurait responsable.
+[29] En plus de prendre des mesures pour recouvrer les sommes d’argent dues à JDR, l’appelant a supervisé le travail de Mme Ellis en 2003. Il n’a pas dit à quelle date celle‑ci avait cessé de travailler pour JDR, mais c’était après la fin de juillet 2003, parce qu’il a dit que c’est elle qui avait fermé les comptes bancaires.
+[30] Étant donné que j’ai conclu que l’appelant avait agi en qualité d’administrateur réputé de JDR après sa démission, je dois décider s’il a cessé d’agir à ce titre plus de deux ans avant l’établissement de la cotisation à son endroit au titre de l’article 323.
+[31] Dans Bremner c. La Reine[5], le juge en chef Rip a examiné la question de savoir à quel moment l’administrateur réputé cesse d’agir à ce titre. Dans cette affaire, l’appelant soutenait qu’il n’encourait pas de responsabilité aux termes de l’article 323 de la LTA, parce que la cotisation en question n’avait pas été établie dans les deux années suivant la date à laquelle il avait cessé d’agir en qualité d’administrateur pour la société. L’appelant n’avait jamais été nommé formellement administrateur de la société, mais il a admis qu’il avait agi à titre d’administrateur réputé ou d’administrateur de fait de la société à compter de la date de la constitution de celle-ci. Cependant, il a dit qu’il avait cessé d’être un administrateur réputé ou un administrateur de fait dès que la société avait mis fin à ses activités.
+[32] Le juge en chef Rip a décidé que, tout comme dans le cas de l’administrateur de droit, le mandat de l’administrateur réputé ne prend pas fin simplement parce que la société cesse ses activités commerciales, parce que « [l]es administrateurs des sociétés ont des devoirs qui subsistent après la fin de l’exploitation de leurs activités »[6]. La Cour a cité avec approbation l’extrait suivant de l’ouvrage Business Corporations in Canada – Legal and Practical Aspects :
+24 Selon la règle générale qui s'applique aux administrateurs de droit, le mandat de l'administrateur ne prend pas fin simplement parce que les activités commerciales ont cessé. La société continue d'exister même si ses activités commerciales ont pris fin. L'avocat de l'intimée a allégué que [TRADUCTION] « il n'y a aucune raison pour que l'administrateur de fait, qui a volontairement choisi de se présenter lui‑même comme un administrateur à des tiers, puisse se soustraire à sa responsabilité selon des conditions plus favorables que l'administrateur de droit ». Cet argument est persuasif. Paul Martel, dans l'édition à feuilles mobiles de l'ouvrage Business Corporations in Canada – Legal and Practical Aspects, assimile les responsabilités de l'administrateur de fait à celles de l'administrateur de droit, au paragraphe 21-16 :
+[TRADUCTION]
+Un administrateur qui exerce cette fonction alors que les formalités requises n'ont pas été intégralement respectées ou qui continue d'agir comme administrateur malgré le fait qu'il ait démissionné de ce poste est un administrateur de fait soumis aux mêmes responsabilités qu'un administrateur de droit.
+Comme son nom l'indique, l'administrateur de fait sera considéré comme un administrateur si, dans les faits, il agit comme tel en posant des actes normalement réservés aux administrateurs : par exemple, participer aux réunions du conseil d'administration, signer des résolutions du conseil, prendre des décisions d'administration ou d'aliénation ou y participer, donner des instructions au nom de la société, se présenter aux tiers comme un administrateur, etc.
+[Renvoi omis.]
+[Non souligné dans l’original.]
+[33] Tout en concluant qu’aucune règle fixe ne permettait de déterminer le moment où l’administrateur de fait ou l’administrateur réputé cessait d’être administrateur, le juge en chef Rip a formulé les remarques suivantes :
+26 [...] Le comportement de la personne est important. Il manquera quelque chose dans la relation entre le particulier et la société. Comme tout administrateur, l'administrateur de fait ou l'administrateur « réputé » cessera d'être administrateur lorsque les actionnaires éliront son remplaçant ou lorsqu'il démissionnera. Si aucune de ces situations ne se produit, l'administrateur conserve son mandat. L'administrateur de fait ou l'administrateur « réputé » peut également mettre fin à son mandat en donnant un avis à cet effet à la société et en cessant vraiment de diriger ou de superviser la gestion de la société. Dans la présente affaire, le lien d'administrateur entre M. Bremner et Excel n'était pas rompu. Je reconnais qu'il peut être difficile pour l'unique actionnaire d'une société de délaisser les activités normalement dévolues à l'administrateur, mais si cette personne accomplit les tâches d'un administrateur, alors elle est administrateur. Dans le présent appel, les faits suivants, entre autres, appuient la conclusion selon laquelle M. Bremner a continué d'être administrateur de fait après le 1er septembre et en octobre 2000 : il était l'unique actionnaire d'Excel et la seule personne à avoir géré et supervisé Excel; aucun élément de preuve n'indique qu'il a informé des tiers, créanciers ou autres, à l'exception peut‑être de son fils, lequel n'a pas témoigné, qu'il ne se présentait plus comme un administrateur d'Excel; il a continué d'agir au nom d'Excel après septembre 2000, des paiements ayant notamment été faits pour le compte d'Excel au regard des arriérés de TPS.
+27 Dans sa lettre du 10 avril 2001, M. Bremner a indiqué au fisc qu'il [TRADUCTION] « était » cadre d'Excel et a demandé à l'ADRC de modifier ses dossiers en conséquence. Le fait qu'il a écrit au fisc donne à penser qu'il s'occupait encore de diriger ou de superviser les actions d'Excel, peu importe leur importance.
+[Renvoi omis.]
+[34] La Cour d’appel fédérale a confirmé la décision rendue dans Bremner[7] et souligné que « le titre d’administrateur d’une personne qui résulte [du paragraphe 115(4) de la LSA] doit être considéré comme valide au moins tant que cette personne dirige ou supervise les activités commerciales et les affaires internes de la société en cause »[8].
+[35] La Cour d’appel fédérale a également explicitement appuyé la conclusion selon laquelle il n’est pas nécessaire que les activités de l’administrateur réputé aient été importantes pour qu’elles soient considérées comme une poursuite de la gestion de l’entreprise :
+6 Le juge de la Cour de l’impôt a conclu que, par la correspondance entretenue avec l’ADRC, l’appelant a établi qu’il gérait encore les actions de la société, peu importe leur importance.
+7 À notre avis, cette conclusion est irréfutable et suffisante pour trancher l’appel puisqu’elle établit que le délai de prescription de deux ans n’expirerait par avant avril 2003, date postérieure au 1er octobre 2002, date d’établissement de la cotisation.
+[36] Dans la présente affaire, la preuve montre qu’après le 10 octobre 2003, l’appelant a pris un certain nombre de mesures que je qualifierais de mesures de gestion des affaires de JDR :
+- il a fait produire par JDR un avis d’opposition aux cotisations de TPS qui avaient été établies en février 2004 et a donné des directives à l’avocat représentant JDR au sujet de l’opposition;
+- il a demandé aux comptables de JDR de préparer des états financiers et des déclarations de revenus pour JDR;
+- il a signé les déclarations de revenus en question;
+- il a signé le formulaire de consentement autorisant l’ARC à communiquer des renseignements concernant JDR à Inch Hammond.
+[37] Il appert également de la preuve que JDR a produit des déclarations de TPS entre 2003 et 2005. L’agent de l’ARC qui a témoigné a dit que les déclarations en question montraient que l’entreprise ne devait aucune taxe nette pour la période en cause. L’appelant a mentionné à l’audience que Mme Ellis avait probablement déposé les déclarations, mais je déduis qu’elle agissait encore sous les ordres de l’appelant lorsqu’elle l’a fait.
+[38] L’explication de l’appelant selon laquelle il agissait comme signataire autorisé ou comme actionnaire après le 3 septembre 2002 n’est pas convaincante. En l’absence d’élément de preuve établissant que son pouvoir se limitait à celui de signer des documents au nom de la société et qu’une autre personne était responsable en fin de compte des affaires de celle-ci, je suis d’avis que les mesures prises par l’appelant pour le compte de JDR l’ont été alors qu’il était administrateur réputé. Je suis également d’avis que, lorsqu’une seule personne s’occupe de la direction et de la supervision des affaires de la société, cette personne est une administratrice réputée, indépendamment du nom donné à son poste. À l’alinéa 2(1)f) de la LSA, le mot « administrateur » est défini comme suit : « indépendamment de son titre, personne qui occupe le poste d’administrateur d’une société ». [Non souligné dans l’original.]
+[39] À mon avis, l’appelant a continué d’agir comme administrateur réputé de JDR bien après le 10 octobre 2003; en conséquence, la cotisation visée par l’appel a été établie à l’intérieur du délai prévu au paragraphe 323(5) de la LTA.
+[40] Je crois que les mesures que l’appelant a prises et que j’ai mentionnées au paragraphe 39 qui précède suffisent pour dire qu’il était visé par le paragraphe 115(4) de la LSA, mais il me semble également que l’appelant a minimisé l’ampleur des activités de la société ainsi que de la direction et de la supervision qu’il a exercées à leur égard après la fin de juillet 2003.
+[41] D’abord, j’estime que le témoignage de l’appelant selon lequel les comptes bancaires de JDR ont été fermés peu après la fin de juillet 2003 est problématique. L’appelant a mentionné qu’il croyait que le relevé bancaire de juillet 2003 était le dernier relevé se rapportant au compte, mais je souligne que, le 31 juillet 2003, le solde de clôture de ce même compte s’élevait à 64 645 $. L’affirmation de l’appelant selon laquelle il a tenté de savoir de la banque à quel moment le compte avait été fermé, mais [traduction] « n’avait reçu aucune réponse » n’est pas convaincante. Aucune explication n’a été donnée quant à la raison pour laquelle le relevé de compte final n’a pas été produit : il n’a nullement été sous-entendu que les registres de l’entreprise ne pouvaient être trouvés ou que des relevés bancaires étaient manquants. Les registres bancaires de la société qui sont postérieurs à juillet 2003 sont importants, parce qu’ils pourraient jeter un éclairage sur les activités que la société a poursuivies et sur la direction et la supervision dont elles ont fait l’objet. En l’absence d’éléments de preuve démontrant de façon convaincante que ces registres n’étaient pas disponibles, je déduis que les documents en question n’auraient pas été favorables à la cause de l’appelant.
+[42] Il a également été mis en preuve que JDR n’avait pas vendu la totalité de son équipement à la fin de novembre 2002, contrairement à ce que l’appelant a soutenu. Selon les états financiers, JDR était encore propriétaire d’immobilisations ayant une valeur comptable de 88 574 $ le 31 août 2004. En contre-interrogatoire, l’appelant a admis qu’il [traduction] « pourrait s’agir de biens qui n’avaient pas encore été vendus ». À mon avis, il a probablement été nécessaire de prendre des mesures à l’égard de ces biens en 2003 et 2004, que ce soit pour les conserver en lieu sûr ou pour tenter de les vendre. Il me semble également que la direction de cette activité aurait incombé à l’appelant, comme c’était le cas pour les affaires fiscales de l’entreprise.
+Deuxième point en litige : diligence raisonnable
+[43] Le prochain point est de savoir si l’appelant a établi qu’il avait exercé la diligence raisonnable exigée par le paragraphe 323(5) de la LTA.
+[44] La norme de prudence énoncée au paragraphe 323(5) comporte des éléments tant objectifs que subjectifs[9]. Dans Smith c. La Reine[10], la juge Sharlow a décrit ces éléments comme suit :
+10 L'élément subjectif de la norme de prudence applicable à un administrateur donné dépendra de ses qualités personnelles, y compris ses connaissances et son expérience. En général, une personne expérimentée en affaires ou en questions financières sera tenue à une norme plus élevée qu'une personne qui n'a pas de connaissances ou d'expérience en affaires et dont le statut d'administrateur reflète, par exemple, un simple lien familial. Toutefois, la défense de diligence raisonnable ne sera d'aucune aide à un administrateur qui n'a pas tenu compte des obligations imposées aux administrateurs par la loi, ou qui n'a fait aucun cas d'un problème dont il connaissait l'existence, ou dont il aurait dû connaître l'existence comme toute personne prudente en pareilles circonstances (Hanson c. Canada (2000) 260 N.R. 79, [2000] 4 C.T.C. 215, 2000 D.T.C. 6564 (C.A.F.)).
+11 En évaluant objectivement l'aspect raisonnable de la conduite d'un administrateur, il y a lieu de tenir compte de facteurs comme le volume, la nature et la complexité des affaires de la société, ainsi que de ses coutumes et pratiques. Plus une entreprise est importante et complexe, plus il sera raisonnable que les administrateurs se partagent les responsabilités, ou qu'ils délèguent le règlement de certaines questions au personnel de la société et à des conseillers extérieurs auxquels ils accordent leur confiance.
+[45] Dans la présente affaire, l’appelant était le seul administrateur de JDR et la seule personne responsable de la direction quotidienne de l’entreprise. Il était un homme d’affaires expérimenté et avait déjà possédé et exploité une autre entreprise de construction avant de constituer JDR en société.
+[46] En ce qui concerne les éléments objectifs à prendre en compte, peu de détails ont été donnés à l’audience au sujet du volume, de la nature et de la complexité des affaires de JDR. Cependant, il appert d’une série d’états financiers de l’entreprise qui ont été produits que, pour l’exercice financier terminé le 31 août 2002, JDR avait un revenu net[11] de 2,16 millions de dollars, des dépenses de 2,44 millions de dollars et une perte nette de 280 000 $. Compte tenu de la taille de cette entreprise, il était raisonnable de s’attendre à ce que l’appelant délègue les tâches de tenue de livres à une personne compétente.
+[47] Malgré l’expérience qu’il avait et le rôle qu’il a joué au sein de l’entreprise, l’appelant soutient qu’il ignorait que les demandes de CTI étaient inexactes et qu’il n’avait aucune raison de penser qu’une erreur avait été commise. En conséquence, pour soutenir qu’il avait exercé une diligence raisonnable dans la présente affaire, il se fonde sur le fait qu’il a délégué la responsabilité relative aux versements de TPS à Mme Ellis et sur son ignorance de tout problème lié au travail de celle‑ci.
+[48] Pour pouvoir invoquer avec succès le moyen de défense de la diligence raisonnable, l’appelant doit prouver que Mme Ellis avait, de son propre chef, et sans qu’il lui ait donné l’ordre de le faire, demandé des CTI auxquels la société n’avait pas droit. Il doit également établir qu’elle était qualifiée et compétente et qu’il avait exercé le degré approprié de surveillance à l’égard du travail de cette personne. Comme l’a expliqué le juge Bowie dans Stafford c. La Reine[12], « la délégation de responsabilités doit être accompagnée d’une surveillance appropriée ».
+[49] L’avocat de l’intimée fait valoir que la surveillance exercée par l’appelant à l’égard du travail de Mme Ellis n’était pas suffisante pour satisfaire au devoir de prudence que lui imposait le paragraphe 323(5). Il souligne à ce sujet l’admission de l’appelant selon laquelle il n’a jamais pris la peine de discuter avec Mme Ellis des déclarations de TPS qu’elle préparait et déposait pour le compte de JDR. Toujours selon l’avocat, aucun élément de preuve ne montre les qualifications et l’expérience particulières que Mme Ellis possédait, de sorte qu’il n’est pas possible de savoir s’il était raisonnable de la part de l’appelant de s’en remettre à cette personne pour la comptabilisation de la TPS.
+[50] L’avocat de l’appelant soutient pour sa part que Mme Ellis était une commis‑comptable compétente et expérimentée et que, étant donné qu’il n’y avait jamais eu de problème quant à la façon dont elle avait préparé les déclarations de TPS avant la période en cause, il était raisonnable que l’appelant n’ait pas surveillé de plus près le travail qu’elle accomplissait. Selon l’avocat, une plus grande diligence n’est nécessaire que lorsque l’administrateur se trouvant dans cette situation est mis au courant d’un problème lié aux versements de TPS. Étant donné que JDR avait déjà fait l’objet de vérifications de la part de l’ARC et qu’aucun problème n’avait été décelé quant à la façon dont Mme Ellis avait tenu les livres, l’avocat affirme qu’il n’y a pas lieu de reprocher à l’appelant le degré de surveillance qu’il a exercé.
+[51] Cependant, la déclaration de l’appelant selon laquelle le problème était imputable à une erreur de Mme Ellis n’a pas été corroborée; c’est pourquoi j’ai du mal à accepter cette thèse. Mme Ellis n’a pas été appelée comme témoin. Cet aspect me préoccupe, parce que les demandes de CTI étaient incompatibles avec la façon dont JDR avait traité le projet de construction de l’hôtel Grimsby aux fins des versements de TPS. Plus précisément, JDR n’a pas payé de TPS sur les sommes d’argent qu’elle a reçues de son client dans le cadre du projet au motif qu’elle payait les fournisseurs en qualité de mandataire du client en question, mais elle a tout de même réclamé un montant de près de 300 000 $ de CTI relativement aux mêmes fournitures, comme si elle avait payé les fournisseurs en qualité de mandante. J’ai du mal à croire qu’une personne aussi expérimentée que l’appelant sur les questions liées à la TPS dise que Mme Ellis aurait pu commettre une erreur de cette envergure. Aucune explication n’a été donnée non plus quant au fait que les CTI ont été réclamés sur cinq déclarations de TPS mensuelles consécutives que JDR a produites sans que personne n’ait relevé l’erreur. Bien entendu, la personne la mieux placée pour expliquer ce qui s’est passé est Mme Ellis elle-même. L’appelant n’ayant pas appelé cette personne à la barre des témoins, je suis incité à conclure que le témoignage de celle-ci aurait été défavorable à la cause de l’appelant sur ce point[13].
+[52] Même si je reconnaissais que les demandes relatives aux CTI découlaient d’une erreur de la part de Mme Ellis, l’appelant n’a présenté aucun élément de preuve concernant la formation et les qualifications de cette personne. En l’absence de cette preuve, je ne puis dire s’il était raisonnable de la part de l’appelant de croire qu’elle pouvait calculer de manière compétente les montants de TPS dont la société était redevable à l’égard du contrat de construction de l’hôtel de Grimsby. De plus, je ne puis dire si Mme Ellis a été informée que JDR agissait en qualité de mandataire de son client dans le cadre de ce projet et j’ignore également s’il s’agissait d’un type d’accord semblable à ceux que JDR avait conclus précédemment, de sorte que Mme Ellis aurait su comment comptabiliser la TPS.
+[53] Le paragraphe 323(3) exige un examen des circonstances ayant mené au défaut de paiement du montant dû au titre de la TPS. Dans l’affaire Worrell v. The Queen[14], la Cour d’appel fédérale a souligné qu’après avoir tenu compte des caractéristiques de l’administrateur en question, y compris son niveau de compétence, d’expérience et de savoir au regard de ses fonctions, elle doit se demander :
+[…] si, dans des circonstances similaires, un administrateur raisonnablement prudent, avec un niveau de compétence, d'expérience et de connaissances comparables, aurait fait de même.
+[Non souligné dans l’original.]
+L’appelant n’ayant présenté aucun élément de preuve au sujet des circonstances entourant le calcul et la réclamation des CTI en cause, il m’est impossible de dire que sa conduite respectait la norme de prudence imposée par le paragraphe 323(3) de la LTA; en conséquence, l’appelant ne s’est pas acquitté du fardeau qui lui incombait de démontrer qu’il avait agi avec la diligence nécessaire pour prévenir le manquement de l’entreprise en ce qui concerne le paiement du montant de TPS dû pour la période allant du 1er décembre 1999 au 30 avril 2000.
+[54] Pour les motifs exposés ci-dessus, l’appel est accueilli en partie, et l’affaire est renvoyée au ministre pour nouvel examen et nouvelle cotisation, au motif que la responsabilité de l’appelant à l’égard de la TPS que JDR n’a pas payée ainsi que des intérêts et pénalités afférents est réduite à 96 109,26 $.
+Signé à Ottawa, Canada, ce 3e jour de mai 2011.
+« B. Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 17e jour de juin 2011.
+Christian Laroche, LL.B.
+Juriste-traducteur et traducteur-conseil
+RÉFÉRENCE : 2011 CCI 196
+No DU DOSSIER DE LA COUR : 2010-298(GST)I
+INTITULÉ : DONALD SNIVELY c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Hamilton (Ontario)
+DATE DE L’AUDIENCE : Les 26 et 27 janvier 2011
+MOTIFS DU JUGEMENT : L’honorable juge Brent Paris
+DATE DU JUGEMENT : Le 3 mai 2011
+COMPARUTIONS :
+Avocat de l’appelant :
+Me James R.W. McNeill
+Avocat de l’intimée :
+Me Kashayar Haghgouyan
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : James R.W. McNeill
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L.R.C. (1985), ch. E-15, dans sa version modifiée.
+[2] L’intimée a admis que l’appelant n’était responsable qu’à l’égard des montants suivants de TPS que JDR n’avait pas payés ainsi que des intérêts et pénalités afférents dont JDR était redevable :
+Période terminée le
+Taxe
+Pénalité
+Intérêt
+Total
+31 déc.1999
+31 janv. 2000
+38 345,40 $
+8 339,95 $
+13 774,91 $
+60 460,26 $
+29 févr. 2000
+4 235,63 $
+2 543,95 $
+2,953,12 $
+9 732,70 $
+31 mars 2000
+0 $
+0 $
+0 $
+0 $
+30 avril 2000
+11 484 $
+6 660,25 $
+7 772,05 $
+25 916,30 $
+Total
+54 064,63 $
+17 544,15 $
+24 500,08 $
+96 109,26 $
+[3] L.R.O. 1990, chap. B.16.
+[4] Kalef v. The Queen, 95 D.T.C. 6132 (C.A.F.), au paragraphe 10.
+[5] 2007 CCI 509.
+[6] Précitée, au paragraphe 28.
+[7] 2009 CAF 146.
+[8] Précité, au paragraphe 8.
+[9] Soper v. The Queen, 97 D.T.C. 5407.
+[10] 2001 CAF 84.
+[11] Après déduction des coûts de construction. Pièce A-7.
+[12] 2009 CCI 247, au paragraphe 16.
+[13] Blatch v. Archer (1774), 1 Cowp. 63; voir également Léger c. R. (2000), 2001 D.T.C. 471, au paragraphe 16.
+[14] Worrell v. R. 2000 D.T.C. 6593, au paragraphe 26.

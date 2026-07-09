@@ -1,0 +1,165 @@
+Title: Dynamex Canada Corp c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29767/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-71-29767-dynamex-canada-corp-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2008-01-31
+
+# Dynamex Canada Corp c. M.R.N.
+
+- Citation: 2008 CCI 71
+- Decision date: 2008-01-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6513, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dynamex Canada Corp c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-01-31
+Référence neutre
+2008 CCI 71
+Numéro de dossier
+2005-2696(EI)
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi sur l'assurance-emploi
+Régime de pensions du Canada
+Contenu de la décision
+Dossiers : 2005-2696(EI)
+2005-2697(CPP)
+ENTRE :
+DYNAMEX CANADA CORP.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[traduction française officielle] ___________________________________________________________________
+Appels entendus le 11 décembre 2006 à Ottawa (Ontario)
+Devant : L’honorable juge E.A. Bowie
+Comparutions :
+Avocat de l’appelante :
+Me Guy Dussault
+Avocate de l’intimé :
+Me Josée Tremblay
+____________________________________________________________________
+JUGEMENT
+Les appels intentés en vertu du paragraphe 103(1) de la Loi sur l’assurance‑emploi (la « Loi ») et de l’article 28 du Régime de pensions du Canada (le « Régime ») sont accueillis, et les décisions du ministre du Revenu national rendues en vertu des articles 93 de la Loi et 27.2 du Régime sont modifiées de manière à ce qu’elles indiquent que Gareth Palmer n’exerçait pas, pour le compte de l’appelante, un emploi assurable aux termes de la Loi, ni un emploi ouvrant droit à une pension aux termes du Régime durant la période débutant le 13 août 2003 et se terminant le 11 avril 2004.
+Signé à Ottawa (Canada) ce 31e jour de janvier 2008.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 17e jour de mars 2008.
+Jean-François Leclerc-Sirois, LL.B, M.A. Trad. jur.
+Référence : 2008CCI71
+Date : 20080131
+Dossiers : 2005-2696(EI)
+2005-2697(CPP)
+ENTRE :
+DYNAMEX CANADA CORP.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge Bowie
+[1] Les présents appels sont interjetés en vertu des articles 103 de la Loi sur l’assurance‑emploi[1] (la « Loi ») et 28 du Régime de pensions du Canada[2] (le « Régime ») à l’égard des décisions rendues par le ministre du Revenu national (le « ministre ») en vertu des articles 93 de la Loi et 27.2 du Régime. Ces décisions sont venues confirmer des décisions de l’Agence du revenu du Canada rendues en vertu des articles 90 de la Loi et 26.1 du Régime et portant que Gareth Palmer exerçait, pour le compte de l’appelante, un emploi assurable et ouvrant droit à pension durant la période débutant le 13 août 2003 et se terminant le 11 avril 2004 (la « période »). L’unique question en litige dans les présents appels est de savoir si le contrat liant l’appelante et M. Palmer était un contrat de louage de services, comme l'ont conclu l’Agence et le ministre, ou un contrat de service, comme l’affirme l’appelante.
+[2] La société appelante est un transporteur public qui mène diverses activités commerciales, dont un grand nombre ont trait au transport de marchandises. L’activité commerciale visée par les présents appels est un service de messagerie qu’elle exploite dans la ville de Toronto et dans ses environs. M. Palmer a été engagé au moyen d’un contrat écrit, prenant manifestement la forme d’un contrant type utilisé par l’appelante. Bien que le contrat compte 16 pages, dont les sept dernières constituent les annexes A à D, la preuve révèle que le contrat est désuet à certains égards et que la relation de travail entre Dynamex et M. Palmer ne correspondait pas exactement à son contenu. Par exemple, selon le contrat écrit, M. Palmer était tenu de transporter le titre de propriété de son véhicule à Dynamex pour la durée de son emploi. Cette stipulation faisait partie du contrat en raison d’une disposition réglementaire exigeant que le permis de messager et le titre de propriété du véhicule utilisé indiquent le même nom. Puisque le règlement a été modifié, la stipulation n’est plus appliquée, même si elle se trouve toujours dans le contrat. Une convention collective entre l’appelante et la Section locale 938 des Teamsters était aussi en vigueur durant la période. Cette convention régissait elle aussi certaines des modalités de la relation de travail.
+[3] M. Peter Zeppieri est le directeur de l’exploitation de l’appelante. M. James Aitken est son président. Ils sont les seuls à avoir témoigné. Je n’ai aucune raison de douter de la véracité de leurs témoignages. L’appelante emploie environ 1 800 conducteurs qui fournissent des services de messagerie à ses clients partout au Canada. M. Palmer est l’un des 375 conducteurs qui travaillent dans la région de Toronto. L’appelante qualifie ces conducteurs de [traduction] « propriétaires‑exploitants », puisqu’ils fournissent tous à la fois leur véhicule et leurs services. Ils sont tenus de fournir un véhicule en bon état de marche et adapté aux marchandises qu’ils doivent livrer. Dans le cas des messagers, il s’agit habituellement de voitures. Les propriétaires-exploitants doivent garder leurs véhicules en bon état de marche et ils doivent en assumer les frais d’entretien, de réparation et de carburant. Ils doivent aussi souscrire une assurance responsabilité et payer les contraventions relatives à des infractions aux règlements de la circulation. L’appelante souscrit une assurance sur marchandises qui protège les biens de ses clients se trouvant dans les véhicules. Dans le cas où un accident immobilise le véhicule d’un propriétaire-exploitant, celui-ci doit immédiatement communiquer avec Dynamex afin qu’elle puisse envoyer un autre propriétaire-exploitant pour récupérer les marchandises et les livrer dans les délais prévus.
+[4] En plus de ses conducteurs, l’appelante emploie une équipe de vente ayant pour tâche de conclure des contrats de transport avec des entreprises. Elle emploie aussi des répartiteurs et du personnel administratif et de supervision. Deux superviseurs s’occupent des 375 conducteurs de la région de Toronto. Toutes ces personnes sont des employés de Dynamex. Il n’y a pas de doute que les clients sont ceux de l’appelante, puisqu’ils passent des contrats avec elle pour faire transporter leurs marchandises, qu’ils reçoivent des factures de sa part et qu’ils la paient. L’appelante affirme qu’elle fournit des services à ses clients par l’intermédiaire des propriétaires-exploitants qui sont ses sous-traitants, et non pas des employés.
+[5] Les messagers offrent essentiellement deux types de services : le service régulier et le service sur demande. Dans le cadre du service régulier, les messagers fournissent un service continuel et quotidien à un client, une banque par exemple. Dans le cadre du service sur demande, les messagers fournissent un service spécial à de nombreux clients, en fonction des besoins ponctuels de ces derniers. M. Palmer fournissait un service régulier à la Banque Mercantile (la « Banque ») durant la période. De temps à autre, il fournissait aussi des services sur demande. En tant que messager régulier pour la Banque Mercantile, M. Palmer se présentait quotidiennement à la Banque, où on lui assignait directement ses tâches. Il accomplissait ses tâches comme bon lui semblait; il n’avait qu’à s’assurer de faire les livraisons au bon endroit et dans les délais prévus. Il remplissait quotidiennement un relevé de parcours où les livraisons faites durant la journée étaient résumées. Il remettait ce relevé à la Banque, et non pas à l’appelante. Cette dernière facturait périodiquement à la Banque les services fournis par M. Palmer et elle payait ce dernier en fonction d’un pourcentage de cette facturation. Le taux normal était de 55 %, mais M. Aitken a témoigné que les parcours réguliers étaient affichés et assignés aux conducteurs en fonction de leur ancienneté, et que les propriétaires‑exploitants pouvaient parfois négocier les tarifs de ces parcours. Le pourcentage pouvait varier, selon les circonstances particulières.
+[6] Le service sur demande consiste en des livraisons demandées par des clients de façon ponctuelle, le plus souvent par téléphone. Les répartiteurs de Dynamex transmettent les commandes aux messagers, qui sont libres de les accepter ou de les refuser. Dans les cas où M. Palmer acceptait de faire une livraison sur demande, il se rendait chez le client pour y recevoir les marchandises et la lettre de transport, et il effectuait ensuite la livraison. M. Palmer devait respecter le délai fixé par le client dans sa commande, mais il pouvait organiser le ramassage et la livraison en fonction de son horaire de la journée. À la fin de la journée, tous les conducteurs doivent déposer leurs lettres de transport à l’un des trois endroits situés dans la région métropolitaine de Toronto que l’appelante a prévus à cette fin. Les boîtes de dépôt sont ouvertes et vidées par un employé administratif de Dynamex. M. Palmer n’a jamais été obligé de se rendre chez l’appelante. M. Aitken a déclaré que certaines livraisons sur demande pouvaient avoir été plus payantes que la norme établie.
+[7] L’appelante a fourni un uniforme à M. Palmer. L’uniforme était composé de pantalons bleus, d’une chemise bleue ornée du logo de Dynamex, et d’un manteau d’hiver. Dans son témoignage, M. Zeppieri a affirmé que l’uniforme était fourni parce que les clients voulaient que les conducteurs aient une apparence convenable et qu’ils puissent être reconnus. M. Palmer portait une carte d’identité que lui avait fournie la Banque Mercantile afin qu’il puisse être identifié comme un messager de la Banque par ses clients. L’envers de la carte l’identifiait comme un messager de Dynamex. M. Palmer, comme tous les propriétaires-exploitants, devait avoir un téléavertisseur et une radio bidirectionnelle pour communiquer avec les répartiteurs de Dynamex. Cette dernière louait les téléavertisseurs et était propriétaire des radios, qu’elle avait achetées à un prix variant entre 250 $ et 300 $. Dynamex louait un téléavertisseur et une radio à chaque messager au prix de 27,50 $ par période de 15 jours, ce qui correspondait au temps qu’elle prenait pour régler ses comptes avec les propriétaires-exploitants. Certains d’entre eux possédaient leur propre radio, auquel cas ils n’avaient pas à en louer une.
+[8] M. Palmer et tous les autres propriétaires-exploitants avaient jusqu’au 15 mars de chaque année pour remplir un formulaire où ils indiquaient les périodes de congé annuel qu’ils souhaitaient prendre. Les congés étaient accordés en fonction de leurs demandes, des exigences opérationnelles et de l’ancienneté. En cas de maladie ou de tout autre événement les empêchant de travailler, les propriétaires-exploitants pouvaient engager un conducteur remplaçant, à condition que l’appelante ait préalablement autorisé le recours à ce remplaçant. C’est parce que l’appelante ne voulait pas être représentée auprès du public et de ses clients par des personnes peu recommandables qu’elle a établi l’exigence de l’autorisation préalable. Le recours au conducteur remplaçant était restreint aux cas où le propriétaire-exploitant était incapable de travailler. Autrement, la politique de Dynamex exigeait qu’il y ait un seul conducteur par véhicule.
+[9] Dynamex payait M. Palmer et tous les autres propriétaires-exploitants à la fin de chaque période de 15 jours. Le montant reçu représentait un pourcentage de la somme facturée à la Banque Mercantile par Dynamex pour son service régulier, et un pourcentage des lettres de transport pour les services sur demande fournis durant la période. Les frais de location de la radio et du téléavertisseur, soit 27,50 $, et un montant de cotisation syndicale étaient retenus sur le paiement, mais aucunes retenues au titre de l’impôt sur le revenu, de l’assurance-emploi ou du Régime de pensions du Canada n’étaient faites. Dynamex n’a jamais remis de formulaires T4 en application de la Loi de l’impôt sur le revenu à ses propriétaires‑exploitants, puisqu’elle a toujours affirmé qu’ils n’étaient pas des employés. Toutefois, M. Aitken a témoigné que l’appelante remet des formulaires T4A aux propriétaires-exploitants, et ce, à la demande de l’Agence du revenu du Canada, laquelle craignait que certains d’entre eux ne produisaient pas de déclaration d’impôt sur le revenu et ne déclaraient pas leur revenu.
+[10] L’avocat de l’appelante a cité certaines décisions dont les faits sont au moins superficiellement similaires à ceux de la présente affaire. Les arguments de l’avocate de l’intimé étaient surtout fondés sur deux éléments : l’arrêt de la Cour d’appel fédérale dans Dynamex Canada Inc. v. Mamona et al[3] et le fait que M. Palmer et tous les autres messagers de Dynamex à Toronto sont visés par une convention collective négociée par le syndicat des Teamsters et l’appelante.
+[11] L’arrêt Mamona concernait plusieurs messagers qui travaillaient pour Dynamex à Winnipeg. Dans son témoignage, M. Aitken a affirmé qu’ils avaient précédemment travaillé pour Zipper Courrier, une entreprise acquise par Dynamex, et que leurs conditions de travail au moment pertinent n’étaient pas les mêmes que celles des messagers de Dynamex travaillant ailleurs. De façon plus importante, il s’agit d’une affaire où un inspecteur avait conclu, aux fins de la partie III du Code canadien du travail[4] (le « Code »), que Mme Mamona et les autres messagers étaient des employés de Dynamex, et qu’ils avaient ainsi droit à une indemnité de congé annuel en vertu des dispositions relatives aux normes du travail de la partie III. Cette décision a été confirmée par un arbitre nommé en application du Code. La décision de l’arbitre a ensuite été confirmée par la Section de première instance de la Cour fédérale et par la Cour d’appel fédérale dans le cadre d’un contrôle judiciaire mené en vertu de l’article 18.1 de la Loi sur les Cours fédérales[5]. Les décisions de la Cour fédérale et de la Cour d’appel fédérale portaient presque entièrement sur les principes régissant le contrôle judiciaire, bien que la Cour d’appel fédérale ait conclu que la décision de l’arbitre était conforme à la norme de contrôle de la décision raisonnable. Ce qui est plus significatif quant à la présente affaire, c’est que l’Agence du revenu du Canada, à qui un des messagers a demandé de rendre une décision sur la question, a conclu que les emplois des messagers n’étaient pas assurables aux fins de la Loi[6]. Cette décision ne semble pas avoir fait l’objet d’un appel devant le ministre ou d’autres instances. L’arrêt Mamona n’est donc d’aucun secours à l’intimé en l’espèce.
+[12] Si j’ai bien compris la position de l’avocate de l’intimé, elle soutient que l’existence d’une convention collective visant les propriétaires-exploitants est un indice important, et peut-être même déterminant, permettant de conclure qu’ils sont des employés plutôt que des fournisseurs de services. Cependant, il est clair, à la lumière du Code et de la convention collective, que tel n’est pas le cas. Le Code définit le terme « employé » de façon à y inclure expressément celui d’« entrepreneur dépendant », et il définit clairement ce second terme de manière à y inclure certaines personnes engagées aux termes de contrats de service plutôt que de contrats de louage de services. Ces définitions, de même que celle du terme « employeur » ne laissent aucun doute quant au fait que la partie I du Code prévoit qu’il peut y avoir négociation collective entre des entrepreneurs dépendants, engagés aux termes de contrats de service plutôt que de contrats de louage de services, et les entreprises auxquelles ils fournissent leurs services. Ces définitions sont rédigées en ces termes :
+3(1) Les définitions qui suivent s’appliquent à la présente partie.
+[…]
+« employé » Personne travaillant pour un employeur; y sont assimilés les entrepreneurs dépendants et les agents de police privés. Sont exclus du champ d’application de la présente définition les personnes occupant un poste de direction ou un poste de confiance comportant l’accès à des renseignements confidentiels en matière de relations du travail.
+« employeur » Quiconque :
+a) emploie un ou plusieurs employés;
+b) dans le cas d’un entrepreneur dépendant, a avec celui-ci des liens tels, selon le Conseil, que les modalités de l’entente aux termes de laquelle celui-ci lui fournit ses services pourrait faire l’objet d’une négociation collective.
+« entrepreneur dépendant » Selon le cas :
+a) le propriétaire, l’acheteur ou le locataire d’un véhicule destiné au transport, sauf par voie ferrée, du bétail, de liquides ou de tous autres produits ou marchandises qui est partie à un contrat, verbal ou écrit, aux termes duquel :
+(i) il est tenu de fournir le véhicule servant à son exécution et de s’en servir dans les conditions qui y sont prévues,
+(ii) il a droit de garder pour son usage personnel le montant qui lui reste une fois déduits ses frais sur la somme qui lui est versée pour son exécution;
+b) le pêcheur qui a droit, dans le cadre d’une entente à laquelle il est partie, à un pourcentage ou à une fraction du produit d’exploitation d’une entreprise commune de pêche à laquelle il participe;
+c) la personne qui exécute, qu’elle soit employée ou non en vertu d’un contrat de travail, un ouvrage ou des services pour le compte d’une autre personne selon des modalités telles qu’elle est placée sous la dépendance économique de cette dernière et dans l’obligation d’accomplir des tâches pour elle.
+[…]
+Tout au long de la convention collective, les conducteurs-messagers sont qualifiés de [TRADUCTION] « propriétaires-exploitants », et M. Zeppieri et M. Aitken ont pris soin d’utiliser ce terme dans leurs témoignages. L’intention des parties quant à la nature de leur relation est exprimée aux clauses 1.01 et 1.04 de la convention collective :
+[traduction]
+1.01 La société reconnaît par les présentes le syndicat comme unique agent négociateur pour le compte de tous les entrepreneurs dépendants engagés par la société dans tous ses domaines d’activité, exception faite des superviseurs, du personnel de rang supérieur à celui de superviseur, du personnel de bureau, des membres de l’équipe de vente, des répartiteurs et des préposés à la recherche.
+Il est entendu que le terme « entrepreneur dépendant » englobe tous les « propriétaires-exploitants ».
+[…]
+1.04 La société et les propriétaires-exploitants considèrent que leur relation est celle qui unit un propriétaire et un entrepreneur dépendant, et non pas un employeur et un employé. Rien dans les présentes ne peut être interprété comme étant l’expression d’une intention contraire.
+[…]
+Le contrat personnel de M. Palmer contient essentiellement les mêmes clauses :
+[traduction]
+1.01 Le terme « entrepreneur dépendant » englobe tous les « propriétaires‑exploitants ». L’embauche de tout propriétaire-exploitant est assujettie au présent contrat, dont les modalités peuvent compléter celles de la convention collective, mais pas les contredire. […]
+1.02 La société et le propriétaire-exploitant considèrent que leur relation est celle qui unit un propriétaire et un entrepreneur dépendant, et non pas un employeur et un employé. Rien dans les présentes ne peut être interprété comme étant l’expression d’une intention contraire.
+[13] L’existence de la convention collective n’aide en rien la position de l’intimé. Plus encore, ses modalités lui sont fatales, sauf s’il peut être démontré qu’elles sont incompatibles avec l’application des règles de la common law aux faits de la présente affaire[7].
+[14] Les principes qui s’appliquent au présent type d’affaire sont bien établis. La Cour d’appel fédérale les a commodément résumés dans Wiebe Door c. M.R.N.[8]. La Cour suprême du Canada les a confirmés récemment dans 671122 Ontario Ltd. c. Sagaz Industries Inc.[9]. Ma tâche est de considérer les faits de la présente affaire à la lumière de ces principes et d’y appliquer les critères énoncés dans les arrêts en question, tout en tenant compte du fait que ces critères ne sont pas exhaustifs et que l’importance devant être accordée à chacun d’eux change selon les circonstances de chaque affaire.
+[15] L’appelante avait le droit d’exercer un certain contrôle sur quelques uns des aspects du travail de M. Palmer. Il s’agissait d’aspects tels que son habillement et son apparence, et d’autres aspects où sa conduite envers les clients aurait pu rejaillir sur l’appelante. Il devait, bien entendu, respecter un horaire, remettre des rapports à la Banque et déposer lettres de transport dans les boîtes de dépôt de l’appelante. Il s’agissait toutefois là d’exigences opérationnelles. À condition de respecter les obligations contractuelles de Dynamex à l’égard de ses clients, M. Palmer était libre d’effectuer son travail comme il le voulait, de fixer l’ordre de ses livraisons et d’engager un conducteur remplaçant lorsqu’il n’était pas disponible, à condition que Dynamex ait préalablement autorisé le recours à ce remplaçant. À mon avis, le critère du contrôle tend à donner raison à l’appelante.
+[16] Le critère de la propriété des instruments de travail est lui aussi favorable à la position voulant que M. Palmer ait été engagé aux termes d’un contrat de service. Le véhicule qu’il devait fournir était son principal instrument de travail. Dynamex a investi du capital en achetant de l’équipement radio, mais cet investissement était beaucoup moins important que celui fait par les conducteurs qui achetaient leurs véhicules. De plus, elle récupérait cet investissement grâce aux paiements de location mensuels que la plupart des conducteurs devaient faire.
+[17] M. Palmer et les autres propriétaires-exploitants pouvaient employer divers moyens pour faire augmenter leurs revenus nets, et ce autant en faisant croître leurs revenus qu’en réduisant leurs dépenses. Ils pouvaient choisir d’utiliser un véhicule à faible consommation d’essence plutôt qu’un véhicule énergivore. Ils pouvaient réduire considérablement la consommation d’essence et les coûts de réparation de leurs véhicules en s’assurant de les conduire et de les entretenir soigneusement. L’organisation efficace de leurs trajets aurait donné le même résultat. M. Palmer pouvait accepter d’effectuer des livraisons sur demande qui s’incorporaient efficacement dans le parcours qu’il empruntait pour la Banque Mercantile. Selon le témoignage de M. Aitken, les conducteurs pouvaient parfois négocier les taux de commission pour certaines tâches. Tous ces facteurs font en sorte que le comportement des conducteurs pouvait influencer la rentabilité de leur travail – ce qui constitue assurément une des caractéristiques fondamentales de l’entrepreneuriat.
+[18] Le contrat de M. Palmer lui faisait aussi courir le risque de subir des pertes importantes. Les amendes liées à des infractions aux règlements de la circulation, les dommages causés au véhicule et la possibilité d’être tenu responsable des dommages causés à des tiers dans le cadre du travail constituaient tous des risques pouvant entraîner des pertes. Certains de ces risques étaient très importants, et M. Palmer pouvait se protéger contre certains d’entre eux au moyen de contrats d’assurance. Il était même tenu de contracter une assurance contre le recours des tiers. Cependant, les pertes imprévues constituent toujours un risque dans les cas où les travailleurs fournissent leurs propres véhicules.
+[19] Tous ces facteurs permettent, à divers degrés, de conclure à l’existence d’un contrat de service. L’entreprise exploitée par M. Palmer était nécessairement intégrée à celle de l’appelante – tel sera toujours le cas pour un entrepreneur dépendant – mais cela n’est pas incompatible avec l’existence d’un contrat de service plutôt que d’un contrat de louage de services. L’avocat de l’appelante a cité un certain nombre de décisions rendues par la Cour dans des affaires portant sur les mêmes questions relatives aux messagers[10], de même qu’une décision de la Cour suprême de la Colombie-Britannique, Tajarobi v. Corporate Couriers Ltd.[11], et une décision de la Cour du Banc de la Reine du Nouveau-Brunswick, Erb v. Expert Delivery Ltd.[12]. Dans toutes ces affaires, les faits étaient très semblables à ceux de la présente affaire; dans tous les cas, les tribunaux ont conclu que les messagers, habituellement des propriétaires-exploitants, étaient des entrepreneurs plutôt que des employés[13]. Il semble qu’aucune de ces décisions n’ait été portée en appel. Il est difficile de comprendre pourquoi le ministre du Revenu national et le procureur général refusent soit d’accepter que ces décisions de la Cour règlent la question quant aux entrepreneurs dépendants, soit de les porter en appel devant la Cour d’appel fédérale.
+[20] Les appels sont accueillis, et les décisions du ministre rendues en vertu des articles 93 de la Loi et 27.2 du Régime sont modifiées de manière à ce qu’elles indiquent que M. Palmer n’exerçait pas, pour le compte de l’appelante, un emploi assurable aux termes de la Loi, ni un emploi ouvrant droit à pension aux termes du Régime durant la période. Compte tenu du nombre de décisions de la Cour ayant déjà donné lieu aux mêmes conclusions dans des cas semblables, je suis désolé de ne pas pouvoir adjuger des dépens considérables à l’appelante.
+Signé à Ottawa (Canada) ce 31e jour de janvier 2008.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 17e jour de mars 2008.
+Jean-François Leclerc-Sirois, LL.B, M.A. Trad. jur.
+RÉFÉRENCE :
+2008CCI71
+Nos DES DOSSIERS DE LA COUR :
+2005-2696(EI) et 2005-2697(CPP)
+INTITULÉ :
+Dynamex Canada Corp. et
+Le ministre du Revenu national
+LIEU DE L’AUDIENCE :
+Ottawa (Canada)
+DATE DE L’AUDIENCE :
+Le 11 décembre 2006
+MOTIFS DU JUGEMENT :
+L’honorable juge E.A. Bowie
+DATE DU JUGEMENT :
+Le 31 janvier 2008
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Guy Dussault
+Avocate de l’intimé :
+Me Josée Tremblay
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Guy Dussault
+Cabinet :
+Cain Lamarra Casgrain Wells
+Pour l’intimé :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Canada)
+[1] L.C. 1996, ch. 23, modifiée.
+[2] L.R.C. (1985), ch. C-8, modifiée.
+[3] (2002) 218 F.T.R. 269 (C.F. 1re inst.); conf. par (2003) 305 N.R. 295 (C.A.F.).
+[4] L.R.C. (1985), ch. L-2.
+[5] L.R.C. (1985), ch. F-7.
+[6] 305 N.R. 295, p. 12.
+[7] Royal Winnipeg Ballet c. M.R.N., [2007] 1 R.C.F. 35.
+[8] [1986] 3 C.F. 553 (C.A.F.).
+[9] [2001] 2 R.C.S. 983.
+[10] DHL Express (Canada) Ltd. c. Canada, 2005 CCI 178; Velocity Express Canada Ltd. v.
+Canada, QL [2002] A.C.I. no 136; Tiger Courier Inc. c. Canada, 2001 CanLII 699; Flash Courier Services Inc. c. Canada, 2000 CanLII 164; Mayne Nickless Transport Inc., 1999 CanLII 266.
+[11] 2006 BCSC 454.
+[12] [1995] A.N-B. no 381 (QL).
+[13] Dans Tajarobi et Erb, cette conclusion était une opinion incidente. Ces deux décisions portaient sur le droit à un préavis raisonnable de cessation d’emploi.

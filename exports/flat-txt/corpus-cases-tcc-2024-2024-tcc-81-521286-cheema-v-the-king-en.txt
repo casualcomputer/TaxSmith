@@ -1,0 +1,204 @@
+Title: Cheema v. The King
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521286/index.do
+Corpus path: corpus/cases/tcc/2024/2024-tcc-81-521286-cheema-v-the-king-en.md
+Document type: case_law
+Last modified: 2024-05-31
+
+# Cheema v. The King
+
+- Citation: 2024 TCC 81
+- Decision date: 2024-05-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5706, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cheema v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2024-05-31
+Neutral citation
+2024 TCC 81
+File numbers
+2022-2125(IT)I
+Judges and Taxing Officers
+Jean Marc Gagnon
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2022-2125(IT)I
+BETWEEN:
+KABIR CHEEMA,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on February 29, 2024 at Calgary, Alberta and Written Submissions filed on April 4, 5, 16 and 19, 2024
+Before: The Honourable Justice Jean Marc Gagnon
+Appearances:
+Agent for the Appellant:
+Kam Grewal
+Counsel for the Respondent:
+Yetunde Elizabeth Akinyinka
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal from a Notice of Reassessment dated July 2, 2021, for the Appellant’s 2016 taxation year, is hereby allowed, without costs, and the Notice of Reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant’s total increase in revenue shall be reduced by the amount of $19,132.00 from $133,187.00 to $114,055.00. This reduction shall be the sole adjustment.
+Signed at Ottawa, Canada, this 31st day of May 2024.
+“J M Gagnon”
+Gagnon J.
+Citation: 2024 TCC 81
+Date: 20240531
+Docket: 2022-2125(IT)I
+BETWEEN:
+KABIR CHEEMA,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Gagnon J.
+I. Introduction
+[1] This is an appeal by Mr. Kabir Cheema from a reassessment made by notice dated July 2, 2021, under the Income Tax Act (Act), in respect of his 2016 taxation year (Reassessment). In reassessing the Appellant for that year beyond the normal reassessment period under subsection 152(4) of the Act, the Minister of National Revenue (Minister) increased the Appellant’s income by a total amount of $133,187. The inclusion consists of two sources: (1) a profit imposed on income account of $72,968 realized on the disposition of a real property on Falconridge Drive NE, Calgary, Alberta (Property) and (2) using an alternative assessment technique named the bank deposit analysis (BDA), an undeclared income of $60,219 (Unreported Revenue). The Minister imposed no gross negligence penalties under section 163 of the Act.
+[2] The Appellant has instituted the Appeal under the informal procedure. In the event of a complete or partial success, the Appellant will then be subject to the limitation applicable to appeal in informal procedure exceeding $25,000, leaving him liable with respect to any excess.
+[3] The Appellant was at the relevant time a real estate associate in the Calgary region. He started in 2016 until he applied in 2018 before the Real Estate Council of Alberta for a voluntary lifetime withdrawal from industry membership.
+II. Issues in Dispute
+[4] There are two main issues that have to be decided in this appeal:
+whether the Minister is statute barred from reassessing the Appellant under paragraph 152(4)(a) of the Act; which in essence requires the Court to decide whether the Appellant made a misrepresentation in filing his 2016 income tax return attributable to neglect, carelessness or wilful default with respect of the Property, the Unreported Revenue, or both; and
+if so, whether the Minister is justified to reassess the Appellant and include the amount of $133,197 or a part thereof, related to the Property and the Unreported Revenue, in his 2016 income tax return.
+[5] Although the first issue will be addressed first, the determination of the second issue is relevant and crucial to the determination of the first, particularly in determining whether there has been a misrepresentation in filing the Appellant’s 2016 tax return, which is alleged to be the total undeclared disposition of the Property and the Unreported Revenue. Accordingly, I will address both undeclared income issues at the time and in the context of determining whether there has been a misrepresentation and if so, deal with the issue of whether the same would amount to neglect, carelessness or wilful default afterwards. Each source will be addressed separately.
+III. Position of the Parties
+[6] The Appellant argued that he did not earn an undeclared income of $133,187 in 2016, and neither would he have made a gain of $72,968 in selling the Property or failed to include a revenue of $60,219 in his income.
+[7] The Appellant adds that he did not make a misrepresentation that is attributable to neglect, carelessness or wilful default and did not commit fraud. The Appellant is of the view that specific expenses reduced any gain on the sale of the Property to nil. And, pointing to a number of bank entries of one specific bank account while the Appellant operates through various bank accounts is not sufficient for the Respondent to meet the Respondent’s burden in order to reassess the Unreported Revenue. Supposition and conjuncture are not sufficient. Therefore, the Respondent is foreclosed from reassessing the Appellant’s 2016 taxation year.
+[8] According to the Respondent, the Appellant made a false statement/misrepresentation in his 2016 income tax return in admitting his omission to declare the sale of the Property because he thought no gains resulted from the sale. Failing to explain bank statements supporting the Unreported Revenue resulted also in a false statement by the Appellant. The Respondent is also of the view that it was established that the misrepresentations in reporting his income were attributable to neglect, carelessness or wilful default. The Respondent’s onus under subparagraph 154(4)(a)(i) of the Act is not particularly heavy.
+[9] In support of the Respondent’s position in respect of the Property and the Unreported Revenue inclusions, paragraph 7 of the Reply includes the following assumptions of fact that the Minister relied on to reassess the Appellant:
+About the Property:
+i) the Appellant was involved in real estate disposition transactions in the 2016 taxation year;
+ii) the Appellant owned property located at 1243 Falconridge Drive NE, Calgary, Alberta (the “Property”);
+iii) the Appellant described the Property as a two bedroom, one bath bungalow with a detached two car garage;
+iv) the Appellant held the Property from October 20, 2016 to November 21, 2016, a period of 33 days;
+v) the Appellant never listed the Property for rent;
+vi) the Appellant sold the Property in November of 2016;
+vii) the Appellant incurred a gain of $72,967.50 from the sale of the Property, calculated as follows:
+Proceeds of Disposition $290,231.00
+Less: Adjusted Cost Base $215,416.00
+Less: Outlays & Expenses $1,847.50
+Gain Realized on Disposition $72,967.50
+viii) the Appellant did not report $72,967.50 of profits from the sale of the Property;
+ix) the gain from the sale of the Property was on income account;
+About the Unreported Revenue:
+x) the Appellant held a personal bank account at BMO ending in 3507 (“3507”) in the 2016 taxation year;
+xi) 3507 was the Appellant’s primary bank account;
+xii) only the Appellant’s income was deposited into 3507;
+xiii) the Appellant’s spouse held her own personal bank account for which she only made deposits of her income into that account;
+xiv) deposits of income from the Appellant’s spouse and other family members were not made to 3507;
+xv) the Appellant reported total income of $175,781 in the 2016 taxation year, calculated as follows:
+Year 2016
+Universal Child Care Benefits $ 720
+Dividends $ 2,106
+Gross Commission Income $ 172,955
+Total Reported Income $ 175,781;
+xvi) the Appellant earned and failed to report income of $60,219 in the 2016 taxation year.
+IV. Analysis
+A. Law
+[10] Subsection 152(3.1) of the Act sets out the normal periods for reassessing. I do not believe that there is any dispute that the reassessment under appeal was made outside the normal assessment period so it is not necessary to delve into the detail of such provision.
+[11] Subsection 152(4) of the Act is a provision that allows the Minister to reassess a taxpayer’s return outside the normal assessment period. The part relevant to this appeal reads as follows:
+(4) Assessment and reassessment. The Minister may at any time make an assessment, reassessment or additional assessment of tax for a taxation year, interest or penalties, if any, payable under this Part by a taxpayer or notify in writing any person by whom in a return of income for a taxation year has been filed that no tax is payable for the year, except that an assessment, reassessment or additional assessment may be made after the taxpayer’s normal reassessment period in respect of the year only if
+(a)The taxpayer or person filing the return
+(i) has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return or in supplying any information under this Act, or
+(ii) has filed with the Minister a waiver in prescribed form within the normal reassessment period for the taxpayer in respect of the year;
+[Underlining added.]
+[12] No fraud is alleged by the Respondent. And there is no waiver filed with the Minister.
+[13] The purpose of a statutory limitation period is to give some certainty to the tax system. In the Tingley [1] decision, the Tax Court mentions about the normal assessment period:
+The very purpose of the limitation period is to provide a window during which the Minister may review and make such reassessment and yet provide the taxpayer who has not made misrepresentations some certainty in their tax affairs.
+[14] Clearly, the goal of certainty expressed above is dependent on the taxpayer not having made any misrepresentations. Where a misrepresentation is made, subsection 152(4) of the Act allows the Minister to reassess beyond the normal reassessment period. However, such provision has limits. About lost opportunities to collect taxes, in Regina Shoppers [2], the Federal Court of Appeal states:
+The mere fact that a taxpayer may ultimately benefit from a failure of the taxing authority to properly reassess obviously does not constitute authority for reassessment which is not found in the legislation itself. There is no rule of equity or of common law which may somehow assist the taxing authority to obtain revenue which it has lost solely and entirely through its own negligence or failure to exercise the powers granted to it by the Act.
+[15] Therefore, if the Minister can support that the conditions of paragraph 152(4)(a) of the Act are satisfied, this will mean that the Minister has the legislative authority to pursue the lost revenue. In Jencik [3], Bonner J stated this premise clearly:
+The Minister’s right to reassess for 1994 to 1998 [the “statute barred years”] was therefore dependent on the Appellant having made misrepresentations attributable to neglect, carelessness or wilful default or having committed fraud as set out in subparagraph 152(4)(a)(i) of the Act.
+[16] In DiCosmo [4], the Federal Court of Appeal stated that the issue of whether an assessment is statute-barred must be specifically pleaded in order to ensure fairness and to permit all evidence to be put before the Court.
+[17] In the case at bar, the Notice of Appeal raised the issue of the Reassessment issued after the normal reassessment period. In addition, the Respondent is of the view to have fulfilled the conditions to rely on paragraph 152(4) of the Act beyond the normal reassessment period. Therefore, the statute-bar issue is properly before the Court and will be addressed with respect to each issue under appeal.
+[18] In Vine Estate [5], Webb JA described the Minister’s onus to support a reassessment beyond the normal reassessment period in a two-step process as follows:
+In this case, there is no allegation of any fraud. Therefore, the onus is on the Minister to prove, on a balance of probabilities, that the taxpayer or the person filing the return:
+(a) has made a misrepresentation; and
+(b) such misrepresentation is attributable to neglect, carelessness or wilful default.
+[19] Webb JA further stated:
+As in any civil case, if a person has the onus of proof for particular facts, the question for the trier of fact is whether, based on all of the evidence admitted during the hearing, that person has proven, on a balance of probabilities, that such facts exist. There is no shifting onus.
+[20] The misrepresentation through neglect or carelessness or wilful default required under subsection 152(4) of the Act must have been made when filing the return. A misrepresentation has occurred if there is an incorrect statement on the return form, at least one that is material to the purposes of the return and to any future reassessment. It remains a misrepresentation even if the Minister could or does, by a careful analysis of the supporting material, perceive the error on the return form. Generally, it is established when the taxpayer fails to exercise reasonable care in complying with the Act. [6] It would undermine the self-reporting nature of the tax system if taxpayers could be careless in the completion of returns while providing accurate basic data in working papers, on the chance that the Minister would not find the error but, if he did within four years, the worst consequence would be a correct reassessment at that time. [7] This latter position from the Federal Court of Appeal is decisive in the present appeal.
+[21] In a statute barred year situation, and an alternative assessment technique was used, a taxpayer can win by showing that the Minister’s alternative assessment technique is fundamentally flawed. The Bousfield [8] decision also summarized the ways a taxpayer can attack an alternative assessment technique:
+(a) by showing that the taxpayer’s income or revenue can be more accurately calculated using the taxpayer’s own books and records;
+(b) by accepting that the alternative assessment technique used by the Minister is appropriate but attacking components of the calculation in an effort to reduce the income or revenue;
+(c) if the year in question is statute barred, by showing that the alternative assessment technique used by the Minister is fundamentally flawed;
+(d) by presenting a different alternative assessment technique that more accurately calculates the taxpayer’s income or revenue; or
+(e) by accepting that the alternative assessment technique used by the Minister was appropriate but showing that the income or revenue calculated by the technique was from a non-taxable source.
+B. Property
+[22] The evidence at the hearing supported, on the balance of probabilities, that the Appellant did not declare the disposition of the Property in filing his 2016 income tax return, and the explanation and evidence provided by the Appellant for not doing so, that his expenses have erased any possible gain, did not convince the Court. The Court is of the view that a misrepresentation was clearly made when filing the 2016 return and such was done through negligence or at least carelessness or wilful default as required under subsection 152(4) of the Act. The Minister was then allowed to reassess the Appellant’s 2016 taxation year.
+[23] Two individuals testified at the hearing: the auditor from the Canada Revenue Agency (CRA) having signed the audit report for the Appellant’s 2016 taxation year and the Appellant. Both were called by the Appellant and were cross-examined by the Respondent.
+[24] One important factor is that the Appellant’s written submissions maintain that the Appellant should be entitled to a capital gain treatment and that gain should be reduced to $12,467 (as opposed to the Minister’s determination of $72,967). The $12,467 gain, whether on income or capital account, is the gain determined by the Minister less two additional expenses that were introduced in evidence by the Appellant at the hearing. A first referral fee of $40,500 paid by the Appellant to 1728778 Alberta Ltd. (then doing business under First Point Financial and held 50-50 by the Appellant and his partner Mr. Maninder Walia) and a second referral fee of $20,000 paid by the Appellant to Mrs. Kanwaldeep Walia (Mr. Walia’s spouse). According to the Appellant, both referral fees were paid in connection with the sale of the Property. The Appellant referred to several documents to support his right to the deductions including a document (Exhibit A-5) prepared by him to support the expenses incurred in selling the Property, the Statement of Adjustments and Trust Statement prepared by counsel acting on the sale, and more specifically a one-page document (Exhibit A-6) presented for each arrangement supporting the existence of the referral fee claimed and referred to in the document. The Appellant has confirmed that these arrangement documents were not submitted to the CRA as they did not request them.
+[25] In addition, the Court is not convinced that, on the balance of probabilities, the evidence introduced at the hearing, including the Appellant’s testimony, supports that the Appellant can claim an additional total expense of $60,500 against the gain realised on the sale of the Property. The evidential weight of the documents listed in paragraph 24 to establish the nature of the two payments made and claimed at the hearing as expenses is not sufficient. The documents are far too ambiguous, vague, unclear and unreliable as to the true nature of the payments made at closing. A clear contradiction exists between what the parties to the arrangements may have agreed on and the explanation submitted by the Appellant at the hearing. And, one of the two documents is incomplete. In both cases, it seems like if the parties were looking to achieve two opposite results, one being making a non taxable payment (a loan agreement) and another being making a taxable payment (a referral fee). Unfortunately, this duality has the opposite effect and creates uncertainty, as it cannot be both. No other witness testified to give a clear meaning to these arrangements. Only one thing is clear, the arrangements supposedly entered into the parties are not clear. And, with such ambiguity, the Court cannot rely on the sole testimony of the Appellant to conclude that the real and sole intention was to pay commissions.
+[26] The Court is not prepared to consider any other potential expenses against the sale of the Property. The Appellant did not properly address or introduce any of these other possible expenses, and at the face of the document that may support each such expense, none has showed any sufficient probative value.
+[27] In that context, the Court is forced to deny the tax treatment claimed by the Appellant. The Respondent has satisfied his burden under subsection 152(4) of the Act and the remaining evidence submitted at the hearing does not satisfy, on the balance of probabilities, a different result. The Court is satisfied that an unreported gain was realized by the Appellant and the expenses claimed as introduced cannot be allowed as the Court is not convinced of their probative value.
+[28] As to whether the gain shall be on capital or income account, the absence of any disclosure of such disposition by the Appellant in filing his 2016 income tax return forces the Court to rely only on the evidence at the hearing to determine whether the income account treatment should stand. On this point, the Appellant did not elaborate except to maintain that he wanted to rent the Property. Unfortunately, the details and the issues faced by the Appellant about the financing structure, the circumstances leading the Appellant to show an interest in the Property, his experience as a real estate agent at the time, his knowledge about the possible role of the Alberta Health Services (AHS), the probative sale rules that governed the sale of the Property, the reasons for not being able to realize, not until the sale of the Property was finalised, the status and the conditions of the Property do not convince the Court that the determination of a sudden sale came to mind.
+[29] Moreover, the Court is not convinced that the real intent of the Appellant, when showing interest in buying the Property, was at all relevant times for rental purposes only. The financial aspect of the project, the discovery in entering the house, the immediate and promptness of renovation on the main floor and in the basement, while the Appellant would have been overtaken by discouragement due to the appearance of the premises and a trip to India for family emergency, are difficult to conceive. The Court finds it hard to believe that the Appellant was faced with so many events in such a short period of time that the only option was to sell the Property quickly and make a profit of approximately $70,000, all in one-month of ownership. The Appellant’s motivations in this project deserve more credit. Unfortunately, the Court believes that the probative value of the Appellant’s testimony is insufficient to support a recharacterization of the gain realized on the sale of the Property. The Court is facing a lack of evidence to support, on the balance of probabilities, the Appellant’s position to claim a different characterization of the gain. In other words, the evidence is not sufficient to reverse the Reassessment.
+C. Unreported Revenue
+[30] Unfortunately for the Appellant, the same conclusion should apply with respect to the Unreported Revenue and the conditions of subsection 152(4) of the Act. A misrepresentation was clearly made when filing the 2016 return and such was done through negligence, carelessness or wilful default as required under subsection 152(4) of the Act. The Minister was then allowed to reassess the Appellant’s 2016 taxation year.
+[31] Before the Court reviews whether the Respondent has met the burden imposed by subsection 152(4) of the Act, it should be said that subsection 152(7) of the Act allows the Minister to assess a taxpayer using an alternative assessment technique. [9] The subsection does not establish a specific technique that must be used. [10] And, the Court does not have to be satisfied that it was necessary for the Minister to use an alternative assessment technique. The Minister can use an alternative assessment technique at any time regardless of the state of the taxpayer’s records. [11]
+[32] In addition, in the Lacroix [12] decision, the Federal Court of Appeal dealing with a situation of a reassessment issued beyond the normal reassessment period and where the reassessment was based on a net worth method, confirmed that the Respondent in order to satisfy the burden under subsection 152(4) of the Act does not need to prove the source of income detected through the application of the alternative assessment technique used by the CRA. In addition, about the burden of proof under subparagraph 152(4)(a)(i) of the Act, the Federal Court of Appeal added:
+[32] What, then, of the burden of proof on the Minister? How does he discharge this burden? There may be circumstances where the Minister would be able to show direct evidence of the taxpayer’s state of mind at the time the tax return was filed. However, in the vast majority of cases, the Minister will be limited to undermining the taxpayer’s credibility by either adducing evidence or cross-examining the taxpayer. Insofar as the Tax Court of Canada is satisfied that the taxpayer earned unreported income and did not provide a credible explanation for the discrepancy between his or her reported income and his or her net worth, the Minister has discharged the burden of proof on him within the meaning of subparagraph 152(4)(a)(i) and subsection 162(3).
+[33] In the present case, the central point is about a list of deposits the Appellant made in 2016 in his main bank account with Bank of Montreal (BMO Account). The CRA conducted his BDA audit referring only to the BMO Account although the Appellant had others accounts with various financial institutions. The Appellant was asked to explain a list of deposits in the BMO Account. In the event no or unsatisfactory explanation was provided, the CRA would consider such deposits as Unreported Revenue.
+[34] The Appellant’s submissions in respect of the Unreported Revenue and the CRA’s BDA refer to several points that the Court would like to briefly comment on.
+[35] First, the Appellant argued that all his bank accounts were not reviewed by the CRA and exclusions from taxable deposits were missing. On this point, the Appellant was allowed to introduce all evidence and explanations about any and all situations he may perceive or believe to be relevant to support his case. This was entirely within the Appellant’s discretion and the Appellant cannot rely on how the CRA conducted the audit to support his position. The Act does not force the CRA to act in a specific or particular manner when conducting au audit. The CRA has some flexibilities in this regard, although not all conducts are allowed. But, in this case, the situation was under the Appellant’s control.
+[36] Second, the presence of two auditors is not, in and of itself, a reason to support the position of the Appellant. The Appellant knew that position of the CRA and had occasions to submit his explanations, including before the Court in a full day hearing. This is not the role of the Court or possible for the Appellant to direct the CRA on how to conduct an audit.
+[37] Finally, and the most relevant part of the Appellant’s submissions are reference to specific cheques that the Appellant argued shall reduce the amount of unidentified Deposits and therefore the Unreported Revenue amount. The Appellant referred to Exhibits A-2, A-3 and A-4.
+[38] The Appellant’s reference to Exhibits A-3 and A-4 is difficult to understand in the present case as the Unreported Revenue relies on BMO Account transfers and the Appellant relied on two cheques from 1728778 Alberta Ltd. (Exhibit A-4) to argue non-taxable deposits from the corporation. The difficulty is that these two cheques do not appear on the list of deposits the Appellant was asked to explain in Exhibit A-1 (Explanation of Final Adjustments – 2016). And, the two cheques from the corporation have not been deposited into the BMO Account at least not directly but in Scotia Bank account. In any event, if it is only for that reason and the discussions that took place at the hearing about the two cheques, the Court does not believe that the shareholders loans situation is particularly relevant here.
+[39] The Appellant’s reference to Exhibit A-2 is different. The Appellant thought that specific cheques listed in Exhibit A-2 justifies a reduction of the unidentified deposits listed in CRA’s Explanation of Final Adjustments - 2016 in Exhibit A-1 (page 3). After a careful review of Exhibits A-1 and A-2, the Court is of the view that the circumstances support that all the cheques in Exhibit A-2 (except for one dated May 25, 2015) are in the unidentified deposits list of Exhibit A-1 (page 3). Most of the 12 cheques in Exhibit A-2 are listed individually on page 3 of Exhibit A-1 except for two sequences where one deposit is considered to have been made for two cheques. On the unidentified deposits list on page 3 of Exhibit A-1, the $17,132 deposit (dated February 11, 2016) of Exhibit A-1 is considered to be for cheques in the amount of $14,132 and $3,000 (dated February 9 and 10, 2016, respectively) of Exhibit A-2, and the deposit of $4,225 (dated June 6, 2016) of Exhibit A-1 is considered to be for cheques in the amount of $3,530 and $695 (both dated June 3, 2016) of Exhibit A-2.
+[40] 10 cheques are from the Appellant (inter-account transfers) and two are from a third party. The Respondent is of the view that the 10 personal cheques do not reflect, in and of itself, a sufficient explanation to justify to be removed from the unidentified deposits list. The reason is that the same exercise as completed with the deposits in the BMO Account should be completed with the other Appellant’s account where the cheque is drawn from. Without this duplicate exercise, it would be too obvious to rely on false explanations. The Court accepts the Respondent’s position in this respect. Unfortunately, the Appellant did not provide such backup, and the Respondent cannot be find responsible for that.
+[41] This evidence with respect to the 10 personal cheques is lacking as it does not explain the source of the funds that came initially from the Appellant’s other personal bank accounts. The Court is unable to ascertain the nature of the funds transferred to the BMO Account. Nothing precludes such funds from being commissions or taxable income. The Court cannot therefore accept that, on the balance of probabilities, such funds shall be excluded from the variance as being not taxable while no proof exists as to the nature of the source fund itself.
+[42] With respect to the remaining cheques, the Respondent has conceded that one should be allowed and removed from the unidentified deposits list of Exhibit A-1 (page 3). The cheque is in the amount of $5,000.
+[43] As for the last cheque from 1842290 Alberta Ltd. of $14,132, the situation was discussed in the examination-in-chief of the CRA auditor. The auditor came back on his initial position that the cheque was included in the unidentified deposits list of Exhibit A-1 (page 3) to say that it was ultimeraly not. And, because it was not, it should not be backed out either. With the $5,000 cheque, the auditor confirmed it was on the unidentified deposits list of Exhibit A-1 (page 3) so it could be removed.
+[44] The review by the Court of the unidentified deposits list of Exhibit A-1 (page 3) and Exhibit A-2 allows a different conclusion. The Court, as explained in paragraph 39 above, believes that a deposit in the amount of $17,132 on February 11, 2016 includes in fact the $14,132 cheque. Considering that the Court understands from the Respondent’s position that the sole reason for not excluding the cheque from 1842290 Alberta Ltd. in the amount of $14,132 from the unidentified deposits list of Exhibit A-1 (page 3) is the fact that the cheque was not originally listed, the Court is inclined to give the Appellant the benefit of the doubt and accept that an additional $14,132 should be withdrawn from the list like for the $5,000 conceded by the Respondent.
+V. Conclusion
+[45] Based on the foregoing, the appeal will be allowed, without costs, and the Reassessment is referred back to the Minister for reconsideration and reassessment on the basis that the Appellant’s Unreported Revenue shall be reduced by the amount of $19,132.00 from $60,219.00 to $41,087.00. This reduction shall be the sole adjustment.
+Signed at Ottawa, Canada, this 31st day of May 2024.
+“J M Gagnon”
+Gagnon J
+CITATION:
+2024 TCC 81
+COURT FILE NO.:
+2022-2125(IT)I
+STYLE OF CAUSE:
+KABIR CHEEMA v. HIS MAJESTY THE KING
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+February 29, 2024, Written submissions received on April 4, 5, 16 and 19, 2024
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Jean Marc Gagnon
+DATE OF JUDGMENT:
+May 31, 2024
+APPEARANCES:
+Agent for the Appellant:
+Kam Grewal
+Counsel for the Respondent:
+Yetunde Elizabeth Akinyinka
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] Tingley v R, 1998 CanLII 31446 (TCC) [Tingley].
+[2] Canada v Regina Shoppers Mall Ltd., 1991 CanLII 13935 (FCA) [Regina Shoppers].
+[3] Jencik v The Queen, 2004 TCC 295 [Jencik].
+[4] DiCosmo v Canada, 2017 FCA 60 [DiCosmo].
+[5] Vine Estate v Canada, 2015 FCA 125 [Vine Estate].
+[6] See Vine Estate and John G. Nesbitt v Canada, 1996 CanLII 11569 (FCA) [Nesbitt].
+[7] Ibid.
+[8] Bousfield v The King, 2022 TCC 169 [Bousfield].
+[9] See Bousfield referring to Guibord v The Queen, 2011 FCA 344 and Hsu v The Queen, 2001 FCA 240 [Hsu].
+[10] Bousfield referring to Hsu (supra). Ramey v The Queen (1993), 1993 CanLII 17094.
+[11] Bousfield referring to Berezuik v The Queen, 2010 TCC 296; Francisco v The Queen, 2003 CanLII 54814; Milkowski v The Queen, 2007 TCC 680.
+[12] Lacroix v The Queen, 2008 FCA 241 [Lacroix].

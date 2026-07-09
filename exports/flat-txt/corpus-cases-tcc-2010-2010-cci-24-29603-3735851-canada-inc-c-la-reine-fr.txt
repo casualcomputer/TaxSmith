@@ -1,0 +1,114 @@
+Title: 3735851 Canada Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29603/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-24-29603-3735851-canada-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-01-13
+
+# 3735851 Canada Inc. c. La Reine
+
+- Citation: 2010 CCI 24
+- Decision date: 2010-01-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6172, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+3735851 Canada Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-01-13
+Référence neutre
+2010 CCI 24
+Numéro de dossier
+2009-2452(IT)G
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-2452(IT)G
+ENTRE :
+3735851 CANADA INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________
+Requête entendue le 4 décembre 2009, à Ottawa, Canada.
+Devant : L'honorable juge Judith Woods
+Comparutions :
+Représentante de l'appelante :
+Ellen de Casmaker
+Avocat de l'intimée :
+Me Gatien Fournier
+________________________________________________________________
+JUGEMENT
+Vu la requête de l'intimée, la Cour ordonne que l'avis d'appel soit radié et que l'appel soit rejeté. Chacune des parties assumera ses propres dépens.
+Signé à Toronto (Ontario), ce 13e jour de janvier 2010.
+« J. M. Woods »
+Le juge Woods
+Traduction certifiée conforme
+ce 4e jour de mai 2010.
+Yves Bellefeuille, réviseur
+Référence : 2010 CCI 24
+Date : 20100113
+Dossier : 2009-2452(IT)G
+ENTRE :
+3735851 CANADA INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Woods
+[1] Le 11 juin 2009, un appel a été introduit devant la Cour à l'égard d'une cotisation établie sous le régime de la Loi de l'impôt sur le revenu relativement à l'année d'imposition 2001.
+[2] La Cour est saisie d'une requête présentée par l'intimée à l'égard du présent appel. Par cette requête, l'intimée vise à obtenir une ordonnance portant :
+[TRADUCTION]
+1. que l'appel soit rejeté au motif qu'une condition préalable pour interjeter appel n'a pas été satisfaite, contrairement à l'alinéa 58(3)b) des Règles de la Cour canadienne de l'impôt (procédure générale) (les « Règles »);
+2. à titre subsidiaire, que l'avis d'appel soit radié en application de l'alinéa 58(1)b) des Règles;
+3. à titre subsidiaire, une fois de plus, que l'avis d'appel soit annulé en application de l'alinéa 53c) des Règles;
+4. que l'appelante soit sommée de se faire représenter par avocat conformément au paragraphe 30(2) des Règles;
+5. que l'appelante soit sommée de produire un avis d'appel modifié selon l'article 48 et la formule 21(1)a) des Règles;
+6. que le délai imparti pour le dépôt d'une réponse à l'avis d'appel modifié soit prolongé, en application de l'article 12 des Règles, de sorte que l'intimée dispose d'un délai de 30 jours suivant la date à laquelle l'avis d'appel modifié de l'appelante lui est signifié;
+7. que la Cour accorde les autres mesures de redressement qu'elle estime appropriées;
+8. que la Cour accorde à l'intimée les dépens de la présente requête.
+[3] Au début de l'audience, l'appelante a obtenu l'autorisation de s'y faire représenter par son administratrice Ellen de Casmaker.
+[4] Malheureusement pour l'appelante, il est manifeste que l'appel ne pourra être accueilli devant la Cour puisque la Cour canadienne de l'impôt n'a pas compétence pour instruire la question en litige. En conséquence, l'avis d'appel doit être radié et l'appel rejeté.
+[5] De façon générale, la Cour canadienne de l'impôt a pour compétence d'examiner l'exactitude d'une cotisation ou d'une nouvelle cotisation. Cette compétence tire son origine des paragraphes 169(1) et 171(1) de la Loi de l'impôt sur le revenu.
+[6] En l'espèce, l'appelante ne conteste pas l'exactitude de la cotisation. En réalité, l'appelante a obtenu gain de cause à l'étape de l'opposition.
+[7] L'appel a été interjeté parce que l'intimée, en raison du fait que la déclaration de revenus n'avait pas été produite dans le délai de trois ans prévu au paragraphe 164(1) de la Loi, a refusé de traiter un remboursement ou un crédit découlant de l'opposition à l'égard de laquelle l'appelante a obtenu gain de cause. Le montant du remboursement s'élève à 25 664,29 $.
+[8] La Cour canadienne de l'impôt n'a aucune compétence en ce qui touche les remboursements comme celui en cause. Je conviens donc avec l'intimée qu'il n'existe aucun moyen raisonnable d'appel et que l'avis d'appel doit être radié sur ce fondement.
+[9] À la lumière de cette conclusion, j'estime, comme l'intimée, que l'appel doit être rejeté.
+[10] L'intimée a demandé les dépens.
+[11] Je ne pense pas qu'il serait opportun d'accorder des dépens dans la présente affaire. Le ministre du Revenu national a lui‑même informé l'appelante, par une lettre datée du 3 juin 2009, qu'elle devait s'adresser à la Cour canadienne de l'impôt. Compte tenu de la correspondance entre Mme de Casmaker et l'Agence du revenu du Canada, il était relativement clair que le redressement que tentait d'obtenir l'appelante ne relevait pas de la compétence de la Cour. Chacune des parties assumera ses propres dépens.
+Signé à Toronto (Ontario), ce 13e jour de janvier 2010.
+« J. M. Woods »
+Le juge Woods
+Traduction certifiée conforme
+ce 4e jour de mai 2010.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2010 CCI 24
+NO DU DOSSIER DE LA COUR : 2009-2452(IT)G
+INTITULÉ : 3735851 Canada Inc. et Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Ottawa (Ontario)
+DATE DE L'AUDIENCE : Le 4 décembre 2009
+MOTIFS DU JUGEMENT : L'honorable juge J. M. Woods
+DATE DU JUGEMENT : Le 13 janvier 2010
+COMPARUTIONS :
+Représentante de l'appelante :
+Ellen de Casmaker
+Avocat de l'intimée :
+Me Gatien Fournier
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom : s/o
+Cabinet :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

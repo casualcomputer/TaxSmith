@@ -1,0 +1,127 @@
+Title: Kuntz c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31227/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-218-31227-kuntz-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2013-07-02
+
+# Kuntz c. La Reine
+
+- Citation: 2013 CCI 218
+- Decision date: 2013-07-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5132, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kuntz c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-07-02
+Référence neutre
+2013 CCI 218
+Numéro de dossier
+2011-2978(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-2978(IT)I
+ENTRE :
+LAWRENCE P. KUNTZ,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 2 juillet 2013, à Edmonton (Alberta)
+Devant : L’honorable juge Judith M. Woods
+Comparutions :
+Pour l’appelant
+L’appelant lui-même
+Avocates de l’intimée :
+Mme Debjani Poddar (stagiaire en droit)
+Me Paige Atkinson
+JUGEMENT MODIFIÉ
+(Le jugement n’a été modifié que pour corriger le nom d’une des avocates. Le texte n’a pas changé.)
+La Cour ordonne que l’appel interjeté à l’encontre d’une cotisation établie au titre de la Loi de l’impôt sur le revenu pour l’année d’imposition 2008 soit rejeté. Chaque partie supportera ses propres frais.
+Signé à Toronto (Ontario), ce 18e jour de juillet 2013.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 6e jour d’août 2013.
+C. Laroche, traducteur
+Référence : 2013 CCI 218
+Date : 20130718
+Dossier : 2011-2978(IT)I
+ENTRE :
+LAWRENCE P. KUNTZ,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT MODIFIÉS
+(Les motifs n’ont été modifiés que pour corriger le nom d’une des avocates. Le texte n’a pas changé.)
+La juge Woods
+[1] Lawrence Kuntz a interjeté appel à l’encontre d’une cotisation établie au titre de la Loi de l’impôt sur le revenu pour l’année d’imposition 2008. Les questions à trancher consistent à savoir si le ministre du Revenu national a eu raison de refuser une exemption pour résidence principale et d’imposer une pénalité pour avoir produit en retard la déclaration de revenus.
+L’exemption pour résidence principale
+[2] En 2008, M. Kuntz a réalisé un gain en capital imposable de 32 880 $ sur la vente d’une maison mobile. Ce gain, soutient-il, est admissible à l’exemption pour résidence principale.
+[3] Le ministère public est d’avis que l’exemption pour résidence principale n’est pas applicable, car M. Kuntz n’a jamais habité la maison.
+[4] M. Kuntz a acheté la maison mobile en mai 2006. Cette maison, a-t-il déclaré dans son témoignage, appartenait auparavant à sa mère et était louée à des tiers quand il l’a achetée.
+[5] M. Kuntz a déclaré qu’il a eu l’intention de s’installer dans la maison après quelques mois. Il a donc résilié le bail après un certain temps, et les locataires sont partis à la fin du mois de mars 2007.
+[6] Après le départ des locataires, M. Kuntz a commencé à réparer et à rénover la maison, et les travaux ont pris fin en mai 2008.
+[7] Selon M. Kuntz, on lui a offert d’acheter la maison à peu près au moment où les travaux ont pris fin. Il a convenu de la vendre parce que les travaux avaient été difficiles et qu’il ne souhaitait plus l’habiter. La vente a eu lieu en juin 2008.
+[8] Pendant toute cette période, M. Kuntz a vécu dans un appartement locatif qu’il occupait depuis 1999.
+[9] Après le départ des locataires en mars 2007, M. Kuntz a acheté de nouveaux appareils ménagers et il a apporté quelques meubles qu’il avait dans son appartement. Mais jamais il n’est resté plus de 24 heures ou n’a pris un repas dans la maison, et un entrepreneur lui a dit qu’il était impossible d’y rester à cause de l’ampleur des travaux de rénovation. De plus, M. Kuntz a déclaré qu’il était impossible d’habiter la maison à cause de l’utilisation abusive qu’en avaient fait les anciens locataires.
+[10] Dans sa déclaration de revenus pour 2008, M. Kuntz a déclaré un revenu locatif de 262 $ ainsi qu’une perte locative nette de 8 858 $. Il a déclaré que cette perte aurait dû s’appliquer à l’année précédente, car la maison n’avait pas été louée en 2008.
+[11] Je suis d’avis de conclure que le ministre a refusé à juste titre l’exemption pour résidence principale parce que la maison mobile n’a pas été « normalement habité[e] » par M. Kuntz. Cette condition précise figure dans la définition d’une « résidence principale » que l’on trouve à l’article 54 de la Loi de l’impôt sur le revenu, dont le passage applicable est le suivant :
+54. Définitions – Les définitions qui suivent s’appliquent à la présente sous-section.
+[…]
+« résidence principale » S’agissant de la résidence principale d’un contribuable pour une année d’imposition, bien — logement, ou droit de tenure à bail y afférent, ou part du capital social d’une société coopérative d’habitation acquise dans l’unique but d’acquérir le droit d’habiter un logement dont la coopérative est propriétaire — dont le contribuable est propriétaire au cours de l’année conjointement avec une autre personne ou autrement, à condition que :
+a) le contribuable étant un particulier autre qu’une fiducie personnelle, le logement soit normalement habité au cours de l’année par le contribuable, par son époux ou conjoint de fait ou ex-époux ou ancien conjoint de fait ou par un enfant du contribuable; […]
+[Non souligné dans l’original.]
+[12] La disposition législative qui précède ne précise pas le temps précis durant lequel la résidence principale doit être habitée, mais il y est indiqué que cette dernière doit être occupée à titre de résidence par le propriétaire ou une personne qui lui est liée. C’est ce qui ressort clairement du mot « inhabit » (« habiter ») qui, en général, signifie le fait d’occuper un lieu comme résidence (Shorter Oxford English Dictionary). Dans le cas présent, M. Kuntz n’a jamais habité la maison mobile. Il a peut-être bien eu l’intention d’y vivre un jour, mais cela n’est jamais arrivé. Dans de telles circonstances, on ne peut se prévaloir de l’exemption pour résidence principale.
+La pénalité pour production tardive
+[13] M. Kuntz s’est vu imposer une pénalité prévue au paragraphe 162(1) de la Loi de l’impôt sur le revenu pour avoir omis de produire dans le délai prescrit la déclaration de revenus pour 2008. La pénalité s’élève à 1 044,06 $.
+[14] Le paragraphe 162(1) prévoit ce qui suit :
+162.(1) Défaut de déclaration de revenu – Toute personne qui ne produit pas de déclaration de revenu pour une année d’imposition selon les modalités et dans le délai prévus au paragraphe 150(1) est passible d’une pénalité égale au total des montants suivants :
+a) 5 % de l’impôt payable pour l’année en vertu de la présente partie qui était impayé à la date où, au plus tard, la déclaration devait être produite;
+b) le produit de 1 % de cet impôt impayé par le nombre de mois entiers, jusqu’à concurrence de 12, compris dans la période commençant à la date où, au plus tard, la déclaration devait être produite et se terminant le jour où la déclaration est effectivement produite.
+[15] Selon le témoignage de l’agent des litiges affecté à l’affaire, il ressort des dossiers informatiques de l’Agence du revenu du Canada (ARC) que la déclaration de revenus de M. Kuntz pour 2008 a été produite par voie électronique le 22 juillet 2009 (voir la pièce R‑3). Le délai prescrit était le 30 avril 2009.
+[16] M. Kuntz a indiqué qu’il n’avait aucune preuve pour contester ce fait, mais qu’il pensait que son comptable avait produit la déclaration dans le délai prévu. Ce témoignage bref et vague ne suffit pas pour réfuter la preuve que le ministère public a produite.
+[17] Compte tenu de la preuve dans son ensemble, je conclus que la pénalité en question a été imposée à juste titre.
+Conclusion
+[18] À la lumière des conclusions qui précèdent, l’appel est rejeté.
+Signé à Toronto (Ontario), ce 18e jour de juillet 2013.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 6e jour d’août 2013.
+C. Laroche, traducteur
+RÉFÉRENCE : 2013 CCI 218
+No DU DOSSIER DE LA COUR : 2011-2978(IT)I
+INTITULÉ : LAWRENCE P. KUNTZ et
+SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Edmonton (Alberta)
+DATE DE L’AUDIENCE : Le 2 juillet 2013
+MOTIFS DU JUGEMENT : L’honorable juge J.M. Woods
+DATE DES MOTIFS
+DU JUGEMENT MODIFIÉS : Le 18 juillet 2013
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocates de l’intimé :
+Mme Debjani Poddar (stagiaire en droit)
+Me Paige Atkinson
+AVOCATS INSCRITS
+AU DOSSIER :
+Pour l’appelante :
+Nom : S.O.
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Ontario)

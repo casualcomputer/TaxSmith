@@ -1,0 +1,310 @@
+---
+title: "Lupien c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/127527/index.do"
+last_modified: "2016-01-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 CCI 2"
+citation2: ""
+neutral_citation: "2016 CCI 2"
+decision_date: "2016-01-05"
+language: "fr"
+item_id: "127527"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3054
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:14:34.936000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9bac37434954c4611471e58b1e3523787b337b8a09d8c1dde12fe8177640e4bb"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lupien c. La Reine
+
+- Citation: 2016 CCI 2
+- Decision date: 2016-01-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3054, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lupien c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-01-05
+Référence neutre
+2016 CCI 2
+Numéro de dossier
+2010-1719(IT)G
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-1719(IT)G
+ENTRE :
+RENÉ LUPIEN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu sur preuve commune avec l’appel de 3775305 Canada inc. (auparavant les Enduits LCR inc./ LCR Coatings Inc.) (2010‑1720(IT)G)
+les 15 et 16 juillet 2013 à Québec (Québec)
+et le 3 décembre 2013, à Montréal (Québec),
+par l’honorable juge Gaston Jorré
+et décision rendue le 5 janvier 2016 par
+l’honorable juge en chef adjointe Lucie Lamarre
+Comparutions :
+Avocat de l’appelant :
+Me Jacques Demers
+Avocat de l’intimée :
+Me Michel Lamarre
+JUGEMENT
+Selon les motifs du jugement ci-joints, l’appel de la cotisation établie en vertu de l’article 160 de la Loi de l’impôt sur le revenu, dont l’avis est daté du 31 août 2007 et porte le numéro 47153, est rejeté pour l'essentiel, mais l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant pour acquis que le montant de la cotisation aurait dû être 136 739,39 $ au lieu de 136 773,10 $. La taxation d'un seul mémoire de frais est accordée à l’intimée dans cette cause et dans la cause 2010-1720(IT)G.
+Signé à Ottawa, Canada, ce 5e jour de janvier 2016.
+« Lucie Lamarre »
+Juge en chef adjointe Lamarre
+Dossier : 2010-1720(IT)G
+ENTRE :
+3775305 CANADA INC.
+(auparavant les Enduits LCR inc. / LCR Coatings Inc.),
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu sur preuve commune avec l’appel de
+René Lupien (2010‑1719(IT)G) les 15 et 16 juillet 2013 à Québec (Québec),
+et le 3 décembre 2013, à Montréal (Québec),
+par l’honorable juge Gaston Jorré
+et décision rendue le 5 janvier 2016 par
+L’honorable juge en chef adjointe Lucie Lamarre
+Comparutions :
+Avocat de l’appelante :
+Me Jacques Demers
+Avocat de l’intimée :
+Me Michel Lamarre
+JUGEMENT
+Selon les motifs du jugement ci-joints, l’appel de la cotisation établie en vertu de l’article 160 de la Loi de l’impôt sur le revenu, dont l’avis est daté du 30 août 2007 et porte le numéro 47152, est rejeté. La taxation d'un seul mémoire de frais est accordée à l’intimée dans cette cause et dans la cause 2010‑1719(IT)G.
+Signé à Ottawa, Canada, ce 5e jour de janvier 2016.
+« Lucie Lamarre »
+Juge en chef adjointe Lamarre
+Référence : 2016 CCI 2
+Date : 20160105
+Dossiers : 2010-1719(IT)G
+ENTRE :
+RENÉ LUPIEN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+ET
+Dossier : 2010-1720(IT)G
+ENTRE :
+3775305 CANADA INC.
+(auparavant les Enduits LCR inc. / LCR Coatings Inc.),
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge en chef adjointe Lamarre
+Introduction [1] Les appelants font appel de cotisations fondées sur l’article 160 de la Loi de l’impôt sur le revenu (Loi).
+[2] L’appelante, 3775305 Canada inc., auparavant appelée les Enduits LCR inc.\LCR Coatings Inc. (LCR), a fait l'objet d'une cotisation pour un montant de 136 739,39 $ au motif que la société Revêtements Antoni Coatings inc. (Antoni, maintenant la société M.C.D. Wood Finishings inc.), avec laquelle elle a un lien de dépendance, lui aurait transféré la somme de 185 837,14 $ sans qu’elle ait donné de contrepartie équivalente à ce transfert.
+[3] Selon le ministre du Revenu national (ministre), Antoni aurait payé 478 845,99 $ à LCR de la façon suivante. Antoni a payé 300 000 $ par billet à ordre en plus d’assumer les dettes de LCR d’une valeur de 178 845,99 $, alors que la valeur des actifs qu’elle aurait acquis de LCR n'aurait été que de 293 008,85 $. Or, le 30 juin 2002, au moment du transfert, Antoni avait une dette fiscale de 136 739,39 $.
+[4] L’appelant René Lupien est l’actionnaire et l'unique administrateur de LCR. Il a un lien de dépendance avec celle-ci. Il a fait l'objet d'une cotisation pour un montant de 136 773,10 $ au motif qu’il aurait reçu en 2003 et en 2004 des dividendes provenant de LCR excédant 185 837,14 $. Or, selon le ministre, LCR avait toujours, au moment du versement de ces dividendes, une dette fiscale de 136 739,39 $, avec la conséquence que René Lupien est solidairement responsable avec LCR de cet impôt impayé. La différence entre le montant de la cotisation, soit 136 773,10 $, et la dette fiscale de LCR de 136 739,39 $ est inexpliquée. Il s’agit probablement d’une erreur commise au cours de la cotisation et doit être corrigée[1].
+[5] Les appelants prétendent qu’ils ne peuvent être tenus solidairement responsables en vertu de l’alinéa 160(1)e) de la Loi, car le ministre aurait dû attribuer une valeur d’au moins 185 837,14 $ à l’achalandage de LCR au moment du transfert de ses actifs à Antoni. Le ministre prétend que LCR n’avait aucun achalandage. Les appelants ne contestent aucune autre condition de l’application de l’article 160.
+[6] Si LCR a raison, LCR n’avait aucune dette fiscale au moment où les dividendes ont été payés à René Lupien et les deux appels devront être accueillis. S’il y a de l’achalandage, mais que la valeur de l’achalandage est de moins de 185 837,14 $, les appels devront être accueillis en partie dans la mesure où l’achalandage excède 49 097,75 $, soit la différence entre 185 837,14 $ et 136 739,39 $. S’il n’y a pas d’achalandage, ou s’il y a de l’achalandage mais que la valeur de l’achalandage est de moins de 49 097,75 $, les appels devront être rejetés.
+[7] Il y a deux questions en litige. Premièrement, l’appelante, 3775305 Canada inc., auparavant appelée LCR, avait‑elle de l’achalandage au 30 juin 2002? Deuxièmement, s’il y avait de l’achalandage, quelle en était la valeur?
+[8] Les personnes suivantes ont témoigné : Normand Guindon, ancien président de Chemcraft International inc., notamment pendant la période pertinente dans ce litige; Claude Lupien, propriétaire d’Antoni et le frère de René Lupien; Bernard Côté, comptable agréé, qui, pendant la période pertinente dans ce litige, a reçu le mandat de faire la vérification d’Antoni et de LCR; Denys Goulet, évaluateur membre de l’Institut canadien des experts en évaluation d'entreprises, témoin de l’appelant; et Lucie Demers, également évaluateur membre de l’Institut canadien des experts en évaluation d'entreprises, employée de l’Agence du revenu du Canada (ARC). Denys Goulet et Lucie Demers ont témoigné en tant que témoins experts. Bernard Côté a témoigné en tant que témoin des faits.
+[9] L’appelant René Lupien n’a pas témoigné.
+[10] De nombreux documents ont été versés de consentement au dossier.
+[11] Les appels ont été entendus les 15 et 16 juillet 2013 et 3 décembre 2013 par le juge Jorré. Les parties ont accepté par lettre du 14 juillet 2015 que la décision sur ces appels soit rendue par un autre juge de la Cour en se basant sur les transcriptions et les pièces aux dossiers de la Cour.
+Les faits [12] En 1990, Antoni est fondée par Claude Lupien, qui détient indirectement 100 % des actions d’Antoni, compagnie qui œuvre dans la fabrication de laques ainsi que dans le développement de vernis et de teintures.
+[13] À partir de 1993, René Lupien travaille pour Antoni à titre de contrôleur et il est aussi administrateur de cette société.
+[14] Avant de fonder Antoni, Claude Lupien était actionnaire d’une société dans le groupe Chemcraft. Chemcraft œuvrait dans le même domaine qu’Antoni.
+[15] La société italienne Milesi Spa (Milesi) désirait pénétrer les marchés canadien et américain.
+[16] Le 15 mai 2000, une entente de distribution exclusive est signée entre Antoni et Milesi. Antoni importera les produits Milesi et les distribuera au Canada et dans 23 États des États-Unis. Une copie de cette entente est à l’onglet 7 de la pièce I‑1.
+[17] Les termes de l’entente ne sont pas entièrement clairs quant à sa durée (article 4 à la deuxième page). Par exemple, la phrase suivante : “[t]he present agreement will be renewed previous consent of the parts”, est difficile à comprendre.
+[18] Par ailleurs, il est clair qu’il y a une durée initiale d’un an, que Milesi peut mettre fin à l’entente par simple avis après un an si Antoni ne vend pas les quantités minimums de produits prévues au cours de la première année et que l’une ou l’autre des parties peut mettre fin au contrat à la fin de la première année en donnant un préavis de trois mois.
+[19] Pour le reste, bien qu’il y ait un peu d’ambiguïté, on comprend à la lecture des autres dispositions de l’entente qu’avant la fin janvier tous les ans les parties doivent s’entendre sur les quantités cibles de produits à vendre au cours de la prochaine année, qu’une condition essentielle de la validité de l’entente est qu’Antoni doit atteindre les cibles et que, si les cibles ne sont pas atteintes, Milesi peut y mettre fin en donnant un certain préavis.
+[20] En résumé, il semble, à la base, qu’il y ait une intention que l’entente soit renouvelée tous les ans. Toutefois, si les cibles ne sont pas atteintes, Milesi peut mettre fin à l’entente. Si les parties ne peuvent pas s’entendre sur les cibles, le contrat prendra fin.
+[21] Par ailleurs, René Lupien fonde en juin 2000, à titre d’actionnaire et d’administrateur unique, LCR. Il demeure employé d’Antoni et continue de s’occuper de l’administration d’Antoni.
+[22] La fin de l’année financière de LCR et d’Antoni est le 31 janvier de chaque année.
+[23] Antoni a confié à LCR la distribution des produits Milesi au Canada et aux États‑Unis. Par ailleurs, Antoni a continué de fabriquer, vendre et distribuer ses propres produits.
+[24] Il n’y a pas de contrat écrit entre Antoni et LCR relativement à la distribution des produits Milesi. Le témoignage de Claude Lupien sur cette question est vague et ne permet pas de déterminer, en supposant qu’il y ait un contrat, quelles seraient ses modalités. Entre autres, son témoignage ne permet pas de savoir s’il avait une durée déterminée ou déterminable ou si Antoni pouvait y mettre fin à tout moment.
+[25] Le ministre a tenu pour acquis que LCR exploitait son entreprise à l'établissement d’Antoni et utilisait les locaux, le personnel, les équipements et le logiciel comptable d’Antoni. Selon la preuve toutefois, René Lupien était à la fois un employé de LCR (le seul employé) et d'Antoni. À l’onglet 11 de la pièce I‑1, on peut constater les salaires reçus par René Lupien d’Antoni et de LCR, au cours des années 2000, 2001 et 2002.
+[26] Antoni commandait les produits à Milesi, les importait, les entreposait dans ses locaux et les manutentionnait. LCR distribuait les produits et s’occupait aussi du service après‑vente. C’est seulement quand LCR vendait des produits qu’elle achetait la quantité correspondante de produits d’Antoni. Antoni recevait un certain pourcentage comme rémunération pour ses services. Les produits Milesi restaient donc la propriété d’Antoni jusqu’au moment où LCR achetait les produits, et c'est à partir de ce moment que cette dernière devenait responsable de les assurer[2].
+[27] À certains moments dans son témoignage, Claude Lupien semble suggérer que LCR a repris le contrat de distribution entre Antoni et Milesi et qu’avant la vente à Chemcraft International inc. (« Chemcraft ») dont je parlerai plus loin, Antoni a récupéré le contrat. Factuellement, il ressort de la preuve que ce ne soit pas le cas. C’est Antoni qui a toujours fait les commandes de produits auprès de Milesi pour ensuite les revendre à LCR.
+[28] Antoni et LCR avaient des représentants et des distributeurs. Ceux‑ci pouvaient vendre des produits distribués par Antoni ou LCR, mais les produits Milesi devaient être commandés à LCR et, à part quelques exceptions, les produits autres que ceux de Milesi devaient être commandés à Antoni[3].
+[29] En 2001, Normand Guindon, président de Chemcraft, et Claude Lupien se rencontrent au cours d’une foire commerciale aux États‑Unis. Normand Guindon mentionne à Claude Lupien que Chemcraft souhaite acheter Antoni. Pour Chemcraft, un élément essentiel de la transaction proposée est la distribution des produits Milesi.
+[30] Par la suite, Chemcraft envoie, le 15 novembre 2001, une lettre d’intention reflétant son intérêt. Cette lettre ne fait aucune mention de LCR, car à ce stade Chemcraft ne sait pas que LCR existe. Le prix d’achat suggéré pour l’achat des actions d’Antoni est d'environ 2,2 millions de dollars et la valeur accordée à l’achalandage est de 1,2 million de dollars. Des engagements de non‑concurrence à signer par les administrateurs et les dirigeants d’Antoni sont aussi prévus. Le tout est sous réserve de vérification. Chemcraft se réserve le droit d'acheter les actifs au lieu des actions.
+[31] Après une vérification diligente, Chemcraft est mise au courant de l’existence de LCR et veut acquérir LCR et Antoni. Chemcraft veut être sûre de tout acquérir. Un facteur qui a poussé Chemcraft à vouloir être sûre de tout acquérir était le fait qu’il y avait eu dans le passé un conflit juridique entre Claude Lupien et Chemcraft après son départ de Chemcraft. Ce conflit juridique a été réglé hors cour.
+[32] Un protocole d’entente entre LCR, Antoni et Chemcraft est signé le 29 avril 2002. On y prévoit que Chemcraft va acheter les actifs de LCR et d’Antoni. Le prix est de 2,2 millions de dollars. Il est également prévu que Claude Lupien sera employé par Chemcraft pour une période d’un an après l’acquisition d’Antoni et que Claude et René Lupien devront signer des ententes de non‑concurrence.
+[33] Antoni achète les actifs de LCR par contrat signé le 30 juin 2002[4]. Le prix d’achat des actifs est de 332 632,80 $. Le prix doit être payé de la façon suivante : Antoni doit assumer le passif de 21 433,36 $ indiqué à l’annexe B du contrat et doit également émettre un billet à ordre de 311 199,44 $ en faveur de LCR. Le contrat énumère les biens achetés et leur valeur à l’annexe A. L’annexe B énumère chaque élément du passif et sa valeur.
+[34] Aucun achalandage ne se trouve parmi les biens acquis énumérés à l’annexe A. Toutefois, il est prévu à la clause 5.2 du contrat que LCR changera son nom et n’utilisera pas dans son nom, ou au cours de ses opérations, les mots « REVÊTEMENTS ANTONI COATINGS INC. » ou les mots « ENDUITS LCR INC./LCR COATINGS INC. » Il est également prévu que LCR n’utilisera pas des mots semblables. Le contrat contient également une clause d’ajustement du prix.
+[35] Après la signature du contrat du 30 juin 2002, on aurait découvert que le montant des passifs déclarés au contrat était sous-évalué de 157 412,63 $.
+[36] En fait, Antoni a payé à LCR un total de 478 845,99 $ au lieu du montant de 332 632,80 $ prévu au contrat. Ce montant a été payé de la façon suivante : Antoni a assumé les dettes de LCR d’une valeur totale de 178 845,99 $ et a émis à LCR un billet à ordre de 300 000 $ (et non de 311 199,44 $ comme prévu au contrat).
+[37] Il n’y a pas de nouveau contrat qui modifie le contrat du 30 juin 2002.
+[38] Dans son témoignage, Claude Lupien n’a pas décrit de négociation ou de discussions avec son frère au sujet du contrat du 30 juin 2002 et n’a pas expliqué comment les frères sont arrivés au prix de 332 632,80 $ dans le contrat. Il n’a pas non plus décrit de négociation ou de discussions après le 30 juin 2002 avec son frère relativement à l’augmentation du prix, qui est passé de 332 632,80 $ au montant de 478 845,99 $ qui a été payé. En contre‑interrogatoire, il a reconnu qu’un chiffre approximatif de 300 000 $ aurait été lancé entre les deux frères sous réserve de confirmation par les états financiers[5].
+[39] Par contre, Claude Lupien a expliqué pourquoi il croyait qu’un prix de 478 845,99 $ était justifié. Selon lui, ce prix de 478 845,99 $ était justifié parce que cela correspondait à peu près au quart du prix payé par Chemcraft, et LCR représentait à peu près 25 % à 30 % du chiffre d’affaires d’Antoni et de LCR ensemble[6]. Toutefois, il faut noter que le chiffre d’affaires aux états financiers pour l’exercice financier 2002 d’Antoni indique des ventes de 3 584 650 $ tandis que le chiffre d’affaires aux états financiers pour l’exercice financier 2002 de LCR indique des ventes de 698 411 $, soit un total pour les deux sociétés de 4 283 061 $. Les ventes de LCR représentent environ 16 % du total[7].
+[40] Quelques jours avant le 31 juillet 2002, Normand Guindon se rend en Italie pour rencontrer personnellement le président de Milesi afin de s’assurer qu’après l’achat d’Antoni Chemcraft gardera le droit exclusif de distribuer les produits Milesi au Canada et aux États-Unis. Monsieur Milesi l’assure verbalement qu’il gardera la distribution si les cibles de vente sont atteintes; Normand Guindon et M. Milesi se serrent la main.
+[41] Le 31 juillet 2002, Chemcraft achète les actifs d’Antoni, y compris les formules des produits d'Antoni, en considérant qu’Antoni a préalablement acheté les actifs de LCR. Le prix d’achat total est de 2 697 248 $ (2,2 millions de dollars pour l’achat des actifs et le reste représente la prise en charge des passifs) et un montant de 755 993 $ est imputé à l’achalandage.
+[42] René Lupien signe le 31 juillet 2002 un engagement de non‑concurrence avec Chemcraft. Il ne reçoit aucun paiement en contrepartie de cet engagement. L’entente fait mention du fait que Chemcraft achète les actifs d’Antoni et qu’une partie du prix d’achat payé par Chemcraft à Antoni permettra à Antoni de payer le billet à ordre en faveur de LCR.
+Achalandage [43] Le ministre a tenu pour acquis au paragraphe 17p) de la réponse à l’avis d’appel dans les deux causes que LCR a reçu 185 837,14 $ de plus que la juste valeur marchande des actifs vendus par LCR à Antoni[8].
+[44] Deux observations s’imposent. Premièrement, le 30 juin 2002, Antoni et LCR signent un contrat pour l’achat par Antoni des biens de LCR pour un prix de 332 632 $. Après la découverte que LCR a des dettes additionnelles, Antoni paye un total de 478 845,99 $, une augmentation d’environ 44 % par rapport au prix convenu de 332 632 $, et ce, malgré le fait qu’il n’y a aucun autre contrat écrit qui identifie l’achat d’un bien additionnel. De plus, la preuve n’a pas révélé de négociations entre Claude et René Lupien relativement à l’augmentation de la somme payée par Antoni. Ceci ne reflète pas un comportement habituel de personnes qui n’ont aucun lien de dépendance.
+[45] Deuxièmement, selon les appelants, le montant additionnel payé au-delà du prix convenu (332 632 $) au contrat du 30 juin 2002 est compensé par l’achalandage d’une valeur se situant entre 150 000 $ et 200 000 $, selon l’expertise de M. Goulet. Compte tenu de l’importance que l’on veut maintenant attribuer à l’achalandage, il est pour le moins étonnant que la liste d’actifs à l’annexe A du contrat ne fasse aucune mention de cet achalandage.
+[46] En quoi consiste cet achalandage? Ce n’est pas évident. Il ne peut s’agir d’achalandage personnel à René Lupien, car LCR ne peut le vendre[9]. S’agit-il d’un contrat? Il ne peut s’agir du contrat avec Milesi, car la preuve est claire que c’est toujours Antoni qui avait la relation contractuelle avec Milesi.
+[47] S’agit‑il d’un contrat entre Antoni et LCR qui prévoit que LCR fera la distribution des produits Milesi pour Antoni? Il y a surtout absence de preuve relativement à cette question. S’il y a un tel contrat, il est impossible de déterminer sa valeur sans en connaître les dispositions. Entre autres, il serait fondamental de savoir les conditions relatives à la durée. Y a‑t‑il un terme fixe? Le contrat peut-il être terminé sans préavis, ou doit-il y avoir un préavis? Si oui, quelle est la période de ce préavis? Une compagnie ne payerait pas pour mettre fin à un contrat si elle peut simplement donner le préavis requis par le contrat.
+[48] Le témoignage de Claude Lupien et les documents n’apportent pas d’information quant aux termes d’un tel contrat entre Antoni et LCR pour la distribution de produits Milesi, en supposant qu’il y ait un tel contrat. René Lupien n’a pas témoigné. Le contrat du 30 juin 2002 n'en parle pas. Selon toute logique, l’inférence est qu’il n’était pas nécessaire d’en parler. De fait, soit qu’il n’y eût pas de contrat, soit qu’il y eût un contrat qui pouvait être terminé sans préavis, soit qu’il y eût un contrat et le préavis nécessaire aurait été donné.
+[49] Selon le contrat de vente du 31 juillet 2002 entre Chemcraft et Antoni, LCR avait 18 clients ou distributeurs. En comparant les listes de clients d’Antoni et de LCR, on peut constater que 14 des clients de LCR sont également clients d’Antoni, y compris les deux distributeurs Contemporary Furniture et Ferreira Pitts. Ces deux distributeurs sont liés par contrat de distribution avec Antoni et ces deux contrats font partie de ce qu’Antoni vend à Chemcraft. Le contrat de vente du 31 juillet 2002 ne fait aucune mention d’un contrat de distribution entre LCR et Contemporary Furniture ou entre LCR et Ferreira Pitts[10].
+[50] Tous les clients de LCR au cours de sa première année étaient également clients d’Antoni[11].
+[51] Claude Lupien a témoigné qu’Antoni était rémunérée pour les services fournis à LCR sous forme d’un pourcentage des ventes de LCR. Les états financiers de LCR indiquent des frais d’entreposage de 0 $, de 69 095 $ et de 14 440 $ payés par LCR à une compagnie liée, donc Antoni, au cours des exercices financiers 2001, 2002 et 2003 respectivement. Les états financiers n’indiquent aucune autre dépense payée à Antoni. Ces montants sont très variables et ne sont pas un pourcentage fixe des ventes de LCR.
+[52] Bernard Côté est comptable agréé et a reçu le mandat d’agir comme vérificateur d’Antoni et de LCR. Il a témoigné comme témoin factuel. Il a expliqué qu’il a présumé que l’excédent de 185 837,14 $ payé à LCR au‑delà du montant de 293 009 $ pour les biens énumérés à l’annexe A du contrat était de l’achalandage. À un moment après le 31 juillet 2002, après la conclusion des deux transactions, il a fait le calcul que l’on trouve à la pièce A‑4. Ce calcul compare les bénéfices relatifs d’Antoni et de LCR. En considérant son calcul, il était d'avis qu’une attribution à LCR de 25 % du montant de 775 993 $ payé par Chemcraft à Antoni pour l’achalandage était raisonnable.
+[53] Le calcul fait par M. Côté fusionne les résultats pour l’exercice financier 2002 et les cinq premiers mois de l’année suivante, soit les cinq derniers mois de l'exploitation de LCR. Pour ces 17 mois combinés, LCR reçoit environ 26 % des bénéfices combinés de LCR et d’Antoni. Par contre, si l’on examine l’exercice financier 2002 et les cinq premiers mois de l’année suivante séparément, il apparaît qu’au cours de l’exercice financier 2002 LCR reçoit environ 40 % des bénéfices combinés, tandis que pour les cinq premiers mois de l’année suivante LCR reçoit seulement 12 % des bénéfices combinés.
+Expertise de Denys Goulet [54] Le mandat de M. Goulet était le suivant :
+Le but du présent rapport consiste à estimer la juste valeur marchande de la part de l’achalandage payée par Chemcraft [755 993 $], lors de la clôture de la Transaction [entre Chemcraft et Antoni], qui était attribuable aux activités de LCR en date du 31 juillet 2002 […][12].
+Comme il lui manquait certains documents et que la transaction remontait à longtemps, il a fait ce qu’on appelle un rapport sur une estimation de la valeur.
+[55] Monsieur Goulet a considéré qu’il faut examiner les transactions du 30 juin 2002 et du 31 juillet 2002 comme un tout et qu’on ne peut examiner isolément la transaction du 30 juin 2002.
+[56] Monsieur Goulet croit, sans toutefois l’avoir pris en considération dans son évaluation, que Chemcraft était un acheteur spécial, soit un acquéreur qui, pour des raisons qui lui sont propres, telles que la possibilité de réaliser des économies d’échelle, des synergies ou des avantages stratégiques à long terme, serait susceptible de payer une prime pour acquérir une entreprise. Sans en tenir compte explicitement, c’est une considération qu’il faut garder à l’esprit en établissant la valeur, selon M. Goulet.
+[57] Monsieur Goulet mentionne que, dans le cadre de l’évaluation d’une entreprise, on doit prendre en considération la « valeur de nuisance », soit la capacité d’un actionnaire de bloquer une transaction, et comme, selon lui, René Lupien avait une telle capacité, il a pris en compte, dans son analyse, cet élément.
+[58] Monsieur Goulet a tenu pour acquis, entre autres :
+1. que l’ensemble de la rémunération versée aux dirigeants d’Antoni et de L.C.R. et aux membres de leur famille, correspondait à celle qu’un éventuel acquéreur de la totalité des actions en circulation d’Antoni et de L.C.R. aurait eu globalement à assumer;
+2. que les opérations entre parties liées, notamment les opérations entre Antoni et L.C.R. ont été conclues aux mêmes conditions qu’avec des parties traitant à distance;
+3. qu’il existait une entente verbale entre Antoni et L.C.R. en vertu de laquelle L.C.R. était le distributeur exclusif des produits Milesi pour le compte d’Antoni;
+4. qu’un éventuel acquéreur des actions ou des actifs d’Antoni aurait continué à honorer l’entente de distribution des produits Milesi conclue verbalement entre Antoni et L.C.R. aux mêmes conditions que celles qui prévalaient au cours de l’exercice 2002 et ce pour une période de temps raisonnable[13].
+[59] Il y a quatre grands points qui découlent de l’analyse de M. Goulet : le fait que si Chemcraft n’acquérait pas LCR, la transaction tomberait; le fait que même si, contractuellement, la transaction a été faite dans deux documents distincts, sur le plan des affaires, il ne s’agissait que d’une seule transaction; le fait que René Lupien n’a reçu aucune rémunération pour son engagement à ne pas concurrencer Chemcraft; et le fait que la distribution des produits Milesi était une activité qui pouvait être très rapidement intégrée à Chemcraft.
+[60] Monsieur Goulet a choisi d’évaluer la portion du prix d’achat attribuable à l’achalandage de LCR selon deux approches fondées sur le marché : premièrement, une analyse à partir des paramètres de la transaction réalisée entre Chemcraft et Antoni et, deuxièmement, une analyse basée sur des transactions de sociétés ouvertes comparables. Il a également retenu l’approche fondée sur le rendement et, plus particulièrement, la méthode de la capitalisation du flux monétaire net représentatif avant frais financiers.
+[61] La première approche fondée sur le marché était de comparer les ventes d’Antoni et de LCR prises ensemble et les ventes d’Antoni seulement, tant pour l’exercice financier 2001 que pour l’année 2002. Il a conclu que la rentabilité ne serait pas la même si LCR n’était pas incluse dans la transaction d’Antoni et de Chemcraft. Monsieur Goulet a donc estimé, sur cette base, que la valeur de l’achalandage de LCR se situait quelque part entre 175 000 $ et 245 000 $.
+[62] La deuxième approche fondée sur le marché était de comparer la transaction ayant eu lieu entre Antoni, LCR et Chemcraft à d’autres transactions du même type où il s'agit de sociétés ouvertes œuvrant sensiblement dans le même domaine. Monsieur Goulet a conclu qu’en achetant à la fois LCR et Antoni, Chemcraft a payé environ 34 % moins cher que si elle avait acheté directement une société ouverte, et il a fait remarquer que c’était normal puisqu’une société ouverte a beaucoup plus d’envergure (chiffre d’affaires et taille) qu’une société privée. Il a donc appliqué ce facteur de réduction aux ventes et il a déterminé que la juste valeur marchande de l’achalandage de LCR à la date d’évaluation se situait entre 120 000 $ et 190 000 $.
+[63] La dernière approche utilisée par M. Goulet était d’estimer la valeur de LCR en fonction de sa propre performance financière et il a considéré non seulement ses bénéfices passés, mais également ses bénéfices futurs. Par cette méthode d’évaluation, il est arrivé à la conclusion que la juste valeur marchande de l’achalandage de LCR à la date d’évaluation se situait entre 160 000 $ et 230 000 $.
+[64] En tenant compte de l’ensemble des résultats obtenus selon les différentes méthodes appliquées, du fait que, selon lui, René Lupien aurait pu à tout moment faire avorter la transaction entre Antoni et Chemcraft et du fait qu’il a signé un engagement de non-concurrence sans qu’aucune rémunération ne soit prévue[14], M. Goulet a conclu que la juste valeur marchande de l’achalandage de LCR à la date d’évaluation se situait dans une fourchette allant de 150 000 $ à 200 000 $.
+Expertise de Lucie Demers [65] Mme Demers a, quant à elle, fait un autre type de rapport d’évaluation, soit un rapport d’évaluation exhaustif et a déterminé la juste valeur marchande de l’achalandage de LCR au 30 juin 2002.
+[66] Mme Demers a considéré qu’il y avait eu deux transactions entre les parties, une première entre LCR et Antoni et une deuxième entre Antoni et Chemcraft. Elle a donc pris en compte, dans son évaluation, seulement les faits entourant l’acquisition de LCR par Antoni.
+[67] Mme Demers a tenu pour acquis qu’il n’existait pas de contrat exclusif de distribution de produits entre Antoni et LCR et qu’advenant une mésentente entre les deux frères la poursuite des activités de LCR serait compromise. Elle a retenu une telle hypothèse parce que, lors d’une entrevue avec René Lupien, ce dernier lui a dit qu’il n’avait nullement été mis au courant du contrat intervenu entre Milesi et Antoni et qu’Antoni ne lui avait pas dit qu’il y avait des objectifs d’achat de produits à atteindre pour que le contrat demeure valide. Si Antoni avait donc donné le droit exclusif de distribution des produits Milesi à LCR comme elle le prétend, elle lui aurait, en toute logique, donné les détails du contrat.
+[68] Mme Demers ne croit pas que les opérations ayant eu lieu entre Antoni et LCR se soient faites aux mêmes conditions qu’entre des parties sans lien de dépendance. Elle a donné l’exemple que LCR n’avait pas de marge de crédit, parce que c’était Antoni qui la finançait en ne lui demandant pas de payer les stocks.
+[69] Mme Demers croit que la seule raison qui a fait en sorte que Chemcraft veuille acquérir LCR en même temps qu’Antoni était qu’elle ne voulait pas que le litige qui s’était déroulé avec Claude Lupien dans le passé se reproduise.
+[70] Mme Demers ne croit pas que Chemcraft ou Antoni était un acquéreur spécial. Pour pouvoir utiliser ce terme, il aurait fallu, par exemple, qu’un autre acheteur veuille procéder à l’acquisition de LCR et que cet autre acheteur fasse systématiquement des acquisitions de distributeurs à cette période. De plus, elle mentionne que Chemcraft était indifférente à la structure que prendrait la vente, puisqu’elle a mentionné dans la lettre d’intention et dans le protocole d’entente qu’elle pouvait soit acheter les actifs, soit acheter les actions, selon la méthode fiscale la plus avantageuse possible.
+[71] Dans son évaluation, Mme Demers n’a pas considéré la présence d’une « valeur de nuisance », car Chemcraft n’avait pas obligatoirement besoin d’acquérir LCR pour avoir le droit de distribuer exclusivement les produits Milesi.
+[72] Mme Demers n’a pas accordé de valeur à l’engagement de non‑concurrence signé par René Lupien dans la détermination de la juste valeur marchande de l’achalandage de LCR, car, dans la lettre d’intention de novembre 2001, Chemcraft avait déjà mentionné qu’en échange du prix d’achat elle voulait qu’Antoni, ses filiales, ses dirigeants et ses administrateurs signent un engagement de non‑concurrence, René Lupien étant un administrateur d’Antoni à cette époque.
+[73] Mme Demers a utilisé, pour son analyse, l’approche fondée sur les bénéfices et, plus particulièrement, la méthode de la capitalisation du flux monétaire.
+[74] En examinant les états financiers, elle a découvert qu’en date du 30 juin 2002 LCR avait réalisé légèrement moins de ventes qu’à pareille date l’an précédent. Elle n’est donc pas d’accord avec la prétention que le chiffre d’affaires de LCR était en pleine croissance et qu’il fallait considérer dans la détermination de la valeur de l’achalandage les bénéfices futurs pouvant être réalisés par LCR, surtout que LCR était fragile en tant qu’entité puisque son chiffre d’affaires provenait à 82 % de seulement deux clients et que ces clients étaient aussi des clients d’Antoni[15], ou encore parce qu’il n’y avait aucune constance dans ses dépenses (par exemple, les dépenses de loyer en 2001 sont de 0 $ et, en 2002, de 70 000 $). Elle souligne également que les bénéfices de LCR étaient surévalués, puisqu’elle n’assumait pas certaines des dépenses qu’elle était censée assumer, Antoni l’aidant. Pour toutes ces raisons, elle a conclu que LCR n’avait aucun achalandage en date du 30 juin 2002 et que les seuls actifs de LCR qui avaient pu être vendus étaient l’encaisse, les stocks et les comptes clients.
+Analyse [75] La Cour d’appel fédérale a examiné la nature de l’achalandage dans l’arrêt TransAlta Corporation c. Canada[16]. Aux paragraphes 51 à 55, la Cour dit :
+La notion d’achalandage
+[51] Le juge de la Cour de l’impôt s’est fondé sur la définition suivante de l’achalandage, élaborée par lord Macnaghten dans Muller aux p. 223 et 224 :
+[TRADUCTION] Qu’est-ce que l’achalandage? Il s’agit d’une chose très facile à décrire, mais très difficile à définir. Il s’agit de l’avantage que procurent la renommée, la réputation et les relations d’une entreprise. Il s’agit de la force d’attraction qui amène la clientèle. C’est une chose qui distingue une entreprise établie depuis longtemps d’une nouvelle d’entreprise qui vient d’être créée. L’achalandage d’une entreprise doit émaner d’un centre particulier ou d’une source particulière. Quelle que soit l’étendue de l’influence de l’entreprise, l’achalandage ne vaut rien à moins d’exercer un pouvoir d’attraction suffisant pour amener l’eau au moulin. L’achalandage est composé de divers éléments. Sa composition est différente d’un métier à l’autre et, dans un secteur, d’une entreprise à l’autre. Un élément peut être prépondérant dans un cas, alors qu’un autre élément l’emporte dans un autre cas. Analyser l’achalandage et le diviser dans ses parties constituantes, le réduire de la façon dont les commissaires veulent le faire jusqu’à ce qu’il ne reste que des cendres là où l’entreprise est exploitée, alors que tout le reste s’évapore, me semble aussi utile en pratique que de réduire le corps humain en diverses substances dont il serait composé. L’achalandage d’une entreprise forme un tout, et dans un cas comme celui‑ci, il faut le considérer comme un tout.
+[52] Cette définition a été élaborée il y a plus d’un siècle, à une époque où la clientèle et la bonne réputation étaient considérées comme les principaux éléments de l’achalandage. Bien que cette définition soit toujours utile, il faut également tenir compte des importants développements survenus dans les domaines des affaires, de la comptabilité, de l’évaluation et du droit au cours du dernier siècle pour bien comprendre la notion moderne d’achalandage.
+[53] Comme l’a indiqué lord Macnaghten, l’achalandage est un concept difficile à définir. Il se compose de divers éléments et sa composition varie d’un métier à l’autre et, dans un même secteur, d’une entreprise à l’autre. Par conséquent, même après des études poussées et de nombreuses publications sur le sujet, les milieux juridiques et comptables n’ont pas encore arrêté une définition. À l’instar des comptables, j’en conclus que toute tentative de définir l’achalandage est vouée à l’échec. Il convient plutôt de dégager les diverses caractéristiques inhérentes à la notion d’achalandage pour ensuite procéder à une analyse au cas par cas.
+[54] Comme nous l’avons vu au début des présents motifs, trois caractéristiques doivent être présentes pour qu’il y ait achalandage : a) l’achalandage doit être un actif incorporel non déterminé, par opposition à un bien corporel ou à un bien incorporel déterminé, comme une marque de fabrique, un brevet ou une franchise; b) l’achalandage doit découler de l’attente de futurs gains, rendements ou autres avantages supérieurs à ceux que produirait normalement une entreprise comparable; c) l’achalandage doit être indissociable de l’entreprise à laquelle il se rattache et ne peut normalement être vendu séparément de l’entreprise en exploitation. En présence de ces trois caractéristiques, il est raisonnable de conclure qu’il y a achalandage : voir John W. Durnford, « Goodwill in the Law of Income Tax », Canadian Tax Journal 759, vol. 29, no 6 (1981) (Durnford), p. 763 à 775; voir aussi Muller, précité; Manitoba Fisheries Ltd. c. Canada, [1979] 1 R.C.S. 101; Dominion Dairies Limited c. Ministre du Revenu national (1965), 66 D.T.C. 5028 (C. de l’É.); Les Placements A & N Robitaille Inc. c. Le Ministre du Revenu national (1994), 96 D.T.C. 1062 (C.C.I.); FCT c. Murray (1998), 155 ALR 67 (Aus. H.C.).
+[55] Une réputation établie, la satisfaction de la clientèle, un produit ou un procédé exclusif qui confère une situation de monopole, une bonne gestion ou une gestion astucieuse, un emplacement favorable, l’efficacité opérationnelle, des relations de travail harmonieuses, la publicité, la qualité des produits et la situation financière sont tous considérés comme des facettes de l’achalandage, dans la mesure où ils respectent les trois caractéristiques : voir Durnford, aux pages 772 et 773.
+[76] Il ressort de ce que je viens de citer que l’achalandage est un tout qui peut être composé de divers éléments. Encore faut‑il démontrer l'existence de ces éléments qui apporteraient une valeur additionnelle aux autres actifs acquis.
+[77] En l'instance, il faut que l’achalandage ait une valeur d’au moins 49 097,75 $ avant que l’effet soit de réduire les cotisations en question.
+[78] Il n’y a aucun doute que Chemcraft voulait acquérir le tout.
+[79] Selon les appelants, il faut tenir compte i) du fait qu’il y a en réalité, sur le plan économique, une seule et unique transaction où Chemcraft achète Antoni et LCR, ii) de l’effet de levier pour Chemcraft qui résultait du fait de combiner la distribution de tous les produits achetés avec celle de ses propres produits, iii) de l’existence d’un contrat exclusif de distribution des produits Milesi au Canada et aux États‑Unis entre LCR et Antoni, iv) de la réputation des produits Milesi, v) de la « valeur de nuisance » de LCR et vi) du fait que l’achalandage est un tout, comme l’indique la jurisprudence.
+[80] Bien qu’il soit exact que Chemcraft souhaitait tout acheter et que la transaction du 31 juillet 2002 soit partie du contexte, Antoni et LCR étaient des personnes juridiques différentes et la transaction du 30 juin 2002 entre ces deux sociétés est une transaction distincte de celle du 31 juillet 2002 entre Chemcraft et Antoni. Il est nécessaire d’examiner séparément la vente entre Antoni et LCR.
+[81] Sur le plan factuel, même en supposant qu’il y avait un contrat de distribution des produits Milesi entre Antoni et LCR, nous n’avons pas de preuve quant aux termes de ce contrat. Claude Lupien aurait pu témoigner à ce sujet. Il ne l’a pas fait. René Lupien n’a pas témoigné du tout.
+[82] L’intimée a demandé à la Cour de tirer une conclusion défavorable de l’absence de témoignage de la part de René Lupien. Dans le cas présent, quant aux termes du contrat qu’il pouvait y avoir entre Antoni et LCR, il y a lieu de tirer une telle conclusion défavorable de l’absence de témoignage de la part de René Lupien.
+[83] Quant à l'éventuelle nécessité de terminer de façon prématurée le contrat de distribution entre LCR et Antoni, il aurait été nécessaire d’en traiter dans le contrat du 30 juin 2002 et l’on y aurait attaché une valeur. Le contrat entre Antoni et LCR ne fut nullement une entrave à la transaction avec Chemcraft, soit parce qu’il pouvait être terminé sans préavis, soit parce que la période de préavis était très courte et ne posait aucun problème. La conséquence est que ce contrat n’avait pas, non plus, de « valeur de nuisance ».
+[84] Plus généralement, sur le plan pratique, LCR n’avait pas un pouvoir de « nuisance » appréciable, et ce, pour la raison suivante : Antoni pouvait nuire à LCR plus que LCR pouvait nuire à Antoni, car LCR était presque complètement dépendante d'Antoni. Si Antoni mettait fin au contrat de distribution avec LCR, LCR n’avait plus rien à distribuer.
+[85] La renommée des produits Milesi a certainement une valeur, mais la marque Milesi n’appartenait pas à LCR et ne peut pas créer de l’achalandage qui appartient à LCR. Le contrat de distribution est entre Antoni et Milesi et non entre Milesi et LCR. Ce contrat ne peut pas créer d’achalandage appartenant à LCR non plus.
+[86] Quant à l’effet de levier qu’invoquent les appelants, il s’agit des avantages provenant de la distribution commune non seulement des produits Milesi, mais également des produits d’Antoni, avec les produits qu’avait déjà Chemcraft. Pour Chemcraft, ces avantages ont une valeur financière. La logique d’un tel argument est que le vendeur, étant conscient de la valeur de ces avantages, peut réussir à obtenir par négociation qu’on lui paie une portion de cette valeur. Pour que LCR puisse négocier l'obtention d'une partie de cette valeur, il aurait fallu que LCR soit en mesure de bloquer le transfert de la distribution des produits Milesi à Chemcraft. Pour les raisons décrites ci‑dessus, LCR n’était pas en mesure de nuire au transfert. C’est Antoni qui avait le contrat exclusif de distribution avec Milesi.
+[87] Il a été question de la liste de clients de LCR, mais la liste ne peut avoir de valeur appréciable vu que les clients étaient presque tous des clients d’Antoni, y compris les deux distributeurs de LCR, qui étaient également distributeurs d’Antoni.
+[88] Les appelants ont soulevé le fait que René Lupien a signé l’entente de non‑concurrence sans recevoir de rémunération directe, que cette entente fait allusion au fait que René Lupien profite indirectement de l’achat des avoirs d’Antoni par Chemcraft puisqu’une partie du prix payé par Chemcraft permet à Antoni d'acquitter le prix qu’elle a payé à LCR pour l’achat de ses biens et que le protocole d’entente du 29 avril 2002 prévoyait cette entente de non-concurrence.
+[89] Tout cela est exact, mais ceci ne peut aider les appelants. En supposant qu’il y ait une valeur appréciable à l’engagement de René Lupien de ne pas faire concurrence à Chemcraft, LCR ne possédait aucun droit qui lui aurait permis de vendre un tel engagement personnel de René Lupien à qui que ce soit[17].
+[90] Je suis d’accord avec les appelants que l’achalandage est une catégorie résiduelle de biens qui peut comprendre plusieurs éléments de nature très variée. Par contre, il faut quand même qu’il y ait des éléments d’achalandage.
+[91] Sur le plan factuel, je ne suis pas convaincue de l’existence d’éléments d’achalandage, sauf une exception dont je traiterai un peu plus loin.
+[92] Il y a aussi une autre raison qui mène à la même conclusion. Le contrat du 30 juin 2002 est très spécifique. Antoni achète les biens énumérés à l’annexe A. Il n’y a aucune mention à l’annexe A d’achalandage ou d’élément qui puisse constituer de l’achalandage.
+[93] Les appelants n’ont pas prétendu qu’il y a eu une modification du contrat, ou un deuxième contrat, pour acheter autre chose, et il n’y a aucune preuve qui démontre qu’il y aurait eu une modification du contrat ou un deuxième contrat. En supposant qu’hypothétiquement il y ait un achalandage appréciable, LCR ne peut avoir vendu à Antoni ce qui n’est pas prévu au contrat du 30 juin 2002. Il n’est pas inutile de se rappeler qu’Antoni a acheté des actifs et non la société LCR.
+[94] Tel qu'il est mentionné plus haut, il n’y a qu’une exception. La clause 5.2(c) du contrat du 30 juin 2002, où LCR s’engage à changer son nom et à ne plus utiliser ce nom. Un nom peut constituer de l’achalandage, mais Antoni et LCR ne lui ont pas attribué de valeur dans le contrat du 30 juin 2002. Ils n’ont même pas fait mention du nom à l’annexe A.
+[95] La clause 2.1(n) du contrat du 31 juillet 2002 entre Chemcraft et Antoni donne, entre autres, le droit exclusif à Chemcraft d’utiliser le nom de LCR.
+[96] Quelle est la valeur du nom de LCR? La preuve factuelle ne permet pas de penser que le nom de LCR pouvait avoir une valeur appréciable. La preuve factuelle est que ce qui était important pour Chemcraft était les produits Milesi et, aussi, les produits d’Antoni, y compris les formules d’Antoni. Quand Chemcraft a envoyé sa lettre d’intention en novembre 2001, elle ne savait pas que LCR existait. La preuve ne permet pas de conclure que le nom de LCR avait une valeur appréciable.
+[97] En résumé, la preuve factuelle ne démontre pas qu’il y ait des éléments d’achalandage, encore moins qu’il y aurait au moins 49 097,75 $ en valeur d’achalandage.
+[98] Bien que j'estime que cela ne soit pas nécessaire, avant de conclure je vais faire quelques commentaires relatifs à l’expertise de M. Goulet.
+[99] Parmi les éléments qui ont un impact important sur toute expertise sont la question formulée pour l’expert et l’exactitude ou non des faits sur lesquels l’opinion est fondée.
+[100] La mission confiée à M. Goulet était « d’estimer la juste valeur marchande de la part de l’achalandage payée par Chemcraft Sadolin inc. en date du 31 juillet 2002, qui était attribuable aux activités de [LCR] »[18]. Bien qu’il y ait un lien, ce n’est pas directement la question qu’il faut trancher dans ce litige. La question ici est : quelle est la valeur de l’achalandage vendu par LCR à Antoni?
+[101] Aux fins de son analyse, M. Goulet a présumé, entre autres :
+1. que l’ensemble de la rémunération versée aux dirigeants d’Antoni et de L.C.R. et aux membres de leur famille, correspondait à celle qu’un éventuel acquéreur de la totalité des actions en circulation d’Antoni et de L.C.R. aurait eu globalement à assumer;
+2. que les opérations entre parties liées, notamment les opérations entre Antoni et L.C.R. ont été conclues aux mêmes conditions qu’avec des parties traitant à distance;
+3. qu’il existait une entente verbale entre Antoni et L.C.R. en vertu de laquelle L.C.R. était le distributeur exclusif des produits Milesi pour le compte d’Antoni;
+4. qu’un éventuel acquéreur des actions ou des actifs d’Antoni aurait continué à honorer l’entente de distribution des produits Milesi conclue verbalement entre Antoni et L.C.R. aux mêmes conditions que celles qui prévalaient au cours de l’exercice 2002 et ce pour une période de temps raisonnable.
+[102] J'estime que ces présomptions ne sont pas réalistes dans le contexte factuel de ce litige.
+[103] Pour ce qui est de la première présomption, quant à la rémunération payée dans le contexte d’une entreprise familiale incorporée, on ne peut présumer que la rémunération payée aux propriétaires qui sont également administrateurs ou employés, notamment la rémunération payée par LCR à René Lupien, soit la même qui serait payée par l’entreprise à un employé non lié. Par exemple, contrairement à ce qui arrive dans le cas de la rémunération d’une personne non liée, un propriétaire unique qui est employé peut très bien choisir un salaire plus bas pour diverses raisons, telle la planification fiscale, puisque l’augmentation de profits qui en résulte pourrait ultérieurement lui être payée en dividendes.
+[104] Quant à la deuxième présomption, Antoni et LCR n’opèrent pas aux mêmes conditions que si elles n’étaient pas liées. Ceci se voit dans le comportement après la vente du 30 juin 2002 quand, après la découverte de dettes additionnelles de LCR, Antoni a tout simplement augmenté le prix payé.
+[105] Cela se voit également aux états financiers. Claude Lupien a témoigné qu’Antoni était rémunérée sous forme de pourcentage pour les services fournis à LCR. Toutefois, selon les états financiers, les frais payés par LCR à Antoni semblent très variables d’une année à l’autre, et il semble que le pourcentage varie d’une année à l’autre par rapport aux ventes. Pour les huit mois de l’exercice financier 2001, LCR, qui avait des ventes de 165 000 $, n’a rien payé en frais d’entreposage à Antoni, tandis que, pour l’exercice financier 2002, LCR, qui avait des ventes de 698 000 $, a payé 69 000 $ en frais d’entreposage à Antoni. Pour les cinq mois d’exploitation de l’exercice financier 2003, LCR, qui avait des ventes de 290 000 $, a payé 14 400 $ en frais d’entreposage à Antoni[19]. Entre compagnies non liées au cours de l’exercice financier 2001, une compagnie n'aurait pas rendu ses services gratuitement à l’autre compagnie.
+[106] Quant aux deux dernières présomptions, tel qu’on l'a déjà vu, le contrat entre LCR et Antoni ne pouvait avoir de valeur parce qu’il pouvait être terminé rapidement et il s’ensuit qu’il n’y avait aucune obligation de continuer ce contrat.
+[107] Les états financiers ne représentent pas fidèlement les bénéfices de LCR si les transactions entre Antoni et LCR et entre René Lupien et LCR ne sont pas faites selon les mêmes modalités que le seraient des transactions entre tiers, notamment quant aux prix. S’il avait été nécessaire de considérer les expertises, puisque les estimations faites par M. Goulet dépendent dans une grande mesure des états financiers de LCR, notamment des bénéfices y indiqués, la conséquence aurait été que les résultats de ses calculs ne pourraient pas être acceptés tels quels[20].
+Conclusion [108] La preuve ne révèle pas d’éléments d’achalandage qui pourraient avoir de valeur appréciable. Quelle que soit cette valeur, elle serait très loin du seuil de 49 097,75 $ nécessaire avant qu’il puisse y avoir un effet pratique sur les cotisations. En conséquence, les appels sont rejetés pour l'essentiel.
+[109] Toutefois, comme il est indiqué au début de ces motifs, pour des raisons inconnues la cotisation de René Lupien est de quelques dollars de plus que la dette fiscale de LCR. L’appel de la cotisation de René Lupien sera accueilli uniquement pour corriger cela.
+Signé à Ottawa, Canada, ce 5e jour de janvier 2016.
+« Lucie Lamarre »
+Juge en chef adjointe Lamarre
+RÉFÉRENCE :
+2016 CCI 2
+Nos DES DOSSIERS DE LA COUR :
+2010-1719(IT)G et 2010-1720(IT)G
+INTITULÉ DES CAUSES :
+RENÉ LUPIEN c. LA REINE
+3775305 CANADA INC.
+(auparavant les Enduits LCR inc. / LCR Coatings Inc.), c. LA REINE
+LIEU DE L’AUDIENCE :
+Québec et Montréal (Québec)
+DATES DE L’AUDIENCE :
+Les 15 et 16 juillet 2013 et 3 décembre 2013
+MOTIFS DU JUGEMENT PAR :
+L’honorable Lucie Lamarre,
+juge en chef adjointe
+DATE DU JUGEMENT :
+Le 5 janvier 2016
+COMPARUTIONS :
+Avocat des appelants :
+Me Jacques Demers
+Avocat de l’intimée :
+Me Michel Lamarre
+AVOCATS INSCRITS AUX DOSSIERS :
+Pour les appelants :
+Me Jacques Demers
+Cabinet :
+O’Brien, Avocats s.e.n.c.r.l.
+Québec (Québec)
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Voir la deuxième page de la cotisation de René Lupien, qui est à la deuxième page de l’onglet 2 de la pièce A‑1.
+[2] Voir les pages 114 et 115 de la transcription. À la page 114, Claude Lupien dit, entre autres :
+Les produits qui étaient importés d’Italie étaient propriété d’Antoni Coatings, qui étaient entreposés dans les entrepôts d’Antoni Coatings. Au moment où est-ce que René faisait la vente, il devait, à ce moment-là, transférer ce compte recevable à L.C.R. Les produits étaient revendus aux consommateurs ou fabricants, si vous permettez. Ça fait qu’à ce moment-là, tout ce qui était des coûts d’entreposage était normalement absorbé par Antoni Coatings et non transféré.
+[3] Transcription, pages 164 à 168.
+[4] Pièce I‑1, onglet 3.
+[5] Transcription, pages 136 et 142.
+[6] Transcription, pages 95, 132 et 133.
+[7] Voir les états financiers aux pages 5‑55 de l’onglet 5 et 9‑12 de l'onglet 9 de la pièce I‑1. Les ventes de 3 584 650 $ d’Antoni ne comprennent pas ses ventes à LCR — voir la pièce I‑3. Pour les cinq mois d'exploitation de LCR au cours de l'année fiscale se terminant en 2003, LCR a eu des ventes d'environ 290 000 $ tandis que pour les mêmes cinq mois Antoni a eu des ventes d'environ 1 721 000 $, un total d'environ 2 011 000 $ pour les deux compagnies. Les ventes de LCR représentent environ 15% de ce total de 2 011 000 $. Ces montants ne comprennent pas l'inventaire en main à la fin des cinq mois. Voir les annexes 3.3 et 4.1 du rapport de M. Goulet, la pièce A‑5.
+[8] Cela suppose que la valeur des actifs énumérés à l’annexe A du contrat du 30 juin 2002 était de 293 009 $ en non de 332 632,80 $, tel qu’il est indiqué à l’annexe. La différence entre 293 009 $ et 332 632,80 $ provient du fait que LCR, en déposant sa déclaration de revenus, a déclaré la valeur de ces actifs comme étant de 293 009 $, y compris des stocks d'une valeur de 139 077 $. Au cours de la preuve, tout a procédé sur la base que la seule question était l’existence ou non d’achalandage d’une valeur de 185 837,14 $. La conclusion logique à tirer de la preuve était que les deux parties acceptaient la valeur de 293 009 $ pour les actifs décrits à l’annexe A du contrat du 30 juin 2002.
+[9] La non‑transmissibilité de l’achalandage personnel est bien reconnue. Voir le paragraphe 30 de Placements A & N Robitaille Inc. c. Canada, [1994] A.C.I. no 612 (QL).
+[10] Voir le contrat du 31 juillet 2002 entre Chemcraft et Antoni aux pages 5‑91 (numéros 2 et 3), 5‑106 et 5‑107, onglet 5, pièce I‑1.
+[11] Les ventes de la première année se trouvent dans les états financiers (page 9‑21, onglet 9, pièce I‑1) et l’énumération des clients se trouve aux pages 8‑2 à 8‑6, onglet 8, pièce I‑1.
+[12] Rapport d’expertise de Denys Goulet, pièce A‑5, page 1.
+[13] Pièce A-5, pages 7 et 8.
+[14] Rapport de M. Goulet, pièce A‑5, section 8.4, fin du deuxième paragraphe.
+[15] Toutefois, il faut noter que ce pourcentage de 82 % est relatif à l’année se terminant le 31 janvier 2001 (pages 8-2 à 8-6, onglet 8, pièce I‑1). Deux distributeurs, Contemporary Furniture Hardware et Ferreira Pitts, ont fait environ 82 % des ventes de LCR pour la première année de LCR, se terminant le 31 janvier 2001.
+[16] 2012 CAF 20. Voir aussi Manitoba Fisheries Ltd. c. La Reine, [1979] 1 R.C.S. 101, et Veuve Clicquot Ponsardin c. Boutiques Cliquot Ltée, 2006 CSC 23, [2006] 1 R.C.S. 824, au paragraphe 50.
+[17] La situation ici est très différente de celle d’un individu qui a une entreprise non constituée en société, qui, en même temps, vend les actifs de l'entreprise et s’engage à ne pas faire concurrence à l’acheteur. L’individu peut faire un tel engagement. Dans un tel cas, l’engagement pourrait constituer de l’achalandage et une portion du prix total payé par l’acheteur pourrait se rapporter à cet achalandage, et ce, que l’acheteur soit un individu ou une compagnie. Dans le présent cas, non seulement le contrat du 30 juin 2002 ne contenait aucun engagement de non-concurrence qu’Antoni pourrait ensuite revendre à Chemcraft, mais LCR n’avait aucun droit qui lui aurait permis de vendre un tel engagement.
+[18] Voir la première page de la pièce A‑5. La référence à Chemcraft Sadolin inc. est erronée, car c’est bien Chemcraft International inc. qui a acheté Antoni.
+[19] Voir les états financiers de LCR à l’onglet 9 de la pièce I‑1, notamment aux pages 9‑16 (note 5 relative à 2002 et à 2001), 9‑17 (deuxième ligne relative à 2002 et à 2001) et 9‑8 (deuxième ligne relative à 2003 et à 2002).
+[20] Dans son rapport d’expertise, Mme Demers a fait un ajustement pour tenir compte du fait qu’il s’agissait de personnes liées. Elle a ainsi fait un ajustement à la rémunération de René Lupien. Si, par exemple, on ajustait de 35 000 $ la rémunération de René Lupien dans les calculs de M. Goulet, cela aurait un impact important sur ses résultats. Au niveau des principes, c’est la bonne façon de faire. Il n’est pas toutefois nécessaire que je me prononce sur le rapport de Mme Demers.

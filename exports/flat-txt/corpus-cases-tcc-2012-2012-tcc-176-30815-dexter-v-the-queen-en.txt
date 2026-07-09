@@ -1,0 +1,179 @@
+Title: Dexter v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30815/index.do
+Corpus path: corpus/cases/tcc/2012/2012-tcc-176-30815-dexter-v-the-queen-en.md
+Document type: case_law
+Last modified: 2012-05-30
+
+# Dexter v. The Queen
+
+- Citation: 2012 TCC 176
+- Decision date: 2012-05-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7558, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dexter v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-05-30
+Neutral citation
+2012 TCC 176
+File numbers
+2011-672(IT)I
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-672(IT)I
+BETWEEN:
+KERRY MICHELE DEXTER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 3, 2012, at Ottawa, Canada
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+For the Appellant:
+The Appellant Herself
+Counsel for the Respondent:
+Shane Aikat
+____________________________________________________________________
+JUDGMENT
+The Appellant’s appeal is allowed and the matter is referred back to the Minister of National Revenue for reconsideration and redetermination on the basis that the Appellant had not been overpaid CCTB payments made during the period from August 2009 to May 2010. The Respondent shall pay costs to the Appellant which are fixed in the amount of $250.
+Signed at Halifax, Nova Scotia, this 30th day of May 2012.
+“Wyman W. Webb”
+Webb J.
+Citation: 2012TCC176
+Date: 20120530
+Docket: 2011-672(IT)I
+BETWEEN:
+KERRY MICHELE DEXTER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb J.
+[1] The issue in this appeal is whether the Appellant is the eligible individual in respect of her son for the purposes of the Canada Child Tax Benefit (the “CCTB”) for the period from July 2008 to May 2010 (the “period under appeal”). On June 18, 2010 a Notice of Determination for the CCTB was issued in relation to the 2007 and 2008 base taxation years which stated that the Appellant was not entitled to the CCTB in the amounts of $3,274 that had been paid to her during the period of July 2008 to June 2009 and $3,131 that had been paid to her during the period of July 2009 to May 2010.
+[2] The Appellant had disputed that all of the CCTB amounts had been paid to her as some of the payments were deposited into an account of her former husband. However, when the Appellant filed the notice for the CCTB she directed the Canada Revenue Agency to deposit the amounts into this account. She did not change these instructions until August or September 2009 (the first payment that was not deposited into this account was the one made for September 2009). Since the Appellant had directed that the CCTB payments would be made directly into the bank account of her former husband, she cannot now dispute whether she received these payments.
+[3] In the Reply (and in the Amended Reply) it is stated that the Appellant was notified that she was not eligible for the CCTB payments made during the period July 2008 to June 2009 because she was not the primary care giver for her son and for the period July 2009 to May 2010 because there was “a change to eligible children”. No further information or explanation of what “change to eligible children” had occurred was provided in either the Reply (or the Amended Reply) or during the hearing.
+[4] Under the Income Tax Act (the “Act”) the CCTB is treated as an overpayment of the person's liability under the Act and hence, if the individual is eligible, such amount is paid to the eligible individual as a refund of this overpayment. Under subsection 122.61(1) of the Act the overpayment amount is calculated on a monthly basis. This subsection provides, in part, as follows:
+122.61(1) Where a person ... [has] filed a return of income for the year, an overpayment on account of the person's liability under this Part for the year is deemed to have arisen during a month in relation to which the year is the base taxation year, equal to the amount determined by the formula
+1/12[(A - B) + C + M]
+where
+A is the total of
+(a) the product obtained by multiplying $1,090[1] by the number of qualified dependants in respect of whom the person was an eligible individual at the beginning of the month, and
+…
+C is the amount determined by the formula
+F – (G × H)
+where
+F is, where the person is, at the beginning of the month, an eligible individual in respect of
+(a) only one qualified dependant, $1,463[2], and
+…
+[5] The Appellant has two children – a daughter and a son. The only issue in this appeal is in relation to the amounts paid with respect to her son. Because the overpayment is deemed to have arisen during a month for which a person is an eligible individual in respect of a qualified dependant at the beginning of the month, this requires a determination of whether any particular person was an eligible individual at the beginning of each month in respect of that qualified dependant. As a result, it does not necessarily follow that because one particular person was the eligible individual in respect of a qualified dependant at the beginning of a particular month, that the same person would then be the eligible individual at the beginning of the following month in respect of that qualified dependant. The definitions of "eligible individual" and “qualified dependant” in section 122.6 of the Act provide that:
+"eligible individual" in respect of a qualified dependant at any time means a person who at that time
+(a) resides with the qualified dependant,
+(b) is the parent of the qualified dependant who primarily fulfils the responsibility for the care and upbringing of the qualified dependant,
+...
+and for the purposes of this definition,
+(f) where a qualified dependant resides with the dependant's female parent, the parent who primarily fulfils the responsibility for the care and upbringing of the qualified dependant is presumed to be the female parent,
+(g) the presumption referred to in paragraph (f) does not apply in prescribed circumstances, and
+(h) prescribed factors shall be considered in determining what constitutes care and upbringing;
+“qualified dependant” at any time means a person who at that time
+(a) has not attained the age of 18 years,
+(b) is not a person in respect of whom an amount was deducted under paragraph (a) of the description of B in subsection 118(1) in computing the tax payable under this Part by the person's spouse or common-law partner for the base taxation year in relation to the month that includes that time, and
+(c) is not a person in respect of whom a special allowance under the Children's Special Allowances Act is payable for the month that includes that time;
+[6] In this particular case the Respondent was disputing whether the Appellant’s son was residing with her during the period under appeal. If the Appellant’s son was not residing with her during the period under appeal, then the Appellant would not be an eligible individual in respect of her son (since she would not be residing with her son) and hence she would not be entitled to the CCTB. If the Appellant’s son was residing with her, the position of the Respondent is that the Appellant was not the parent who primarily fulfilled the responsibility for the care and upbringing of her son during the period under appeal.
+[7] Paragraph (f) of the definition of “eligible individual” referred to above provides a presumption if the child resides with the female parent. This paragraph provides that the female parent is presumed to be “the parent who primarily fulfils the responsibility for the care and upbringing of the qualified dependant,” if the child resides with that parent. This presumption does not apply in prescribed circumstances. The prescribed circumstances (in which the presumption would not be applicable) are set out in subsection 6301(1) of the Income Tax Regulations ("Regulations") and include, as one of these circumstances, the situation where "more than one notice is filed with the Minister under subsection 122.62(l) of the Act in respect of the same qualified dependant who resides with each of the persons filing the notices if such persons live at different locations".
+[8] The facts upon which the Minister relied in making the determination that the Appellant was not entitled to the CCTB payments made in relation to her son (and in confirming this determination following the serving of the notice of objection) were set out in paragraph 6 of the Amended Reply (and the same assumptions were set out in the same paragraph of the Reply) and were the following:
+6. In order to establish the determinations and confirming the same, the Minister relied on the following same assumptions of fact:
+(a) During the 1990 taxation year the Appellant and Claude Courville were married;
+(b) From the marriage to Claude Courville there were two children J and E;
+(c) During May 2008 the Appellant and Claude Courville separated and the child E remained in the care of Claude Courville;
+(d) Based on the information provided in the questionnaire issued to the Appellant the Minister concluded that the child E had not been in her care for the purposes of the CCTB for the period of June 2008 to May 2010 while the CCTB during this period for child E had been issued to her.
+[9] No assumptions were made with respect to whether Claude Courville had filed the notice contemplated by subsection 122.62(1) of the Act in relation to the Appellant’s son nor was there any evidence during the hearing that he had filed this notice. There was no suggestion that any of the other prescribed circumstances as set out in subsection 6301(1) of the Regulations were applicable in this case. As a result, if her son resided with her during any part of the period under appeal, the presumption that she was “the parent who primarily fulfils the responsibility for the care and upbringing of the qualified dependant” during this period will be applicable.
+[10] The only assumptions made in relation to whether the Appellant was the eligible individual in respect of her son during the period under appeal were that her son “remained in the care of Claude Courville” (paragraph 6 (c) in the Amended Reply) and that her son was not in “her care” (paragraph 6 (d) in the Amended Reply). There are two requirements that must be satisfied if a person is to be an eligible individual in respect of a qualified dependant:
+(a) the person must reside with the qualified dependant; and
+(b) the person must be “the parent of the qualified dependant who primarily fulfils the responsibility for the care and upbringing of the qualified dependant”.
+[11] The word “care” appears in paragraph (b) of the definition of “eligible individual”. The requirement as stated in paragraph (b) is that the person must be “the parent … who primarily fulfils the responsibility for the care and upbringing of the qualified dependant”. Paragraph (h) of the definition of “eligible individual” provides that:
+(h) prescribed factors shall be considered in determining what constitutes care and upbringing;
+[12] These prescribed factors are set out in section 6302 of the Regulations and are as follows:
+6302. For the purposes of paragraph (h) of the definition “eligible individual” in section 122.6 of the Act, the following factors are to be considered in determining what constitutes care and upbringing of a qualified dependant:
+(a) the supervision of the daily activities and needs of the qualified dependant;
+(b) the maintenance of a secure environment in which the qualified dependant resides;
+(c) the arrangement of, and transportation to, medical care at regular intervals and as required for the qualified dependant;
+(d) the arrangement of, participation in, and transportation to, educational, recreational, athletic or similar activities in respect of the qualified dependant;
+(e) the attendance to the needs of the qualified dependant when the qualified dependant is ill or otherwise in need of the attendance of another person;
+(f) the attendance to the hygienic needs of the qualified dependant on a regular basis;
+(g) the provision, generally, of guidance and companionship to the qualified dependant; and
+(h) the existence of a court order in respect of the qualified dependant that is valid in the jurisdiction in which the qualified dependant resides.
+[13] In The Queen v. Anchor Pointe Energy Ltd., 2003 FCA 294, [2004] 5 C.T.C. 98, Justice Rothstein (as he then was) in writing on behalf of the Federal Court of Appeal stated that:
+8 In the Reply to the Notice of Appeal, the Minister's assumptions are set forth, including assumptions arising as a result of the Global decision. Specifically, the Reply states at paragraph 10:
+In reassessing, the Minister assumed the following facts:
+...
+(q) FCA/CAFAPI, APII, APIII, APIV and APV did not purchase the seismic data for the purpose of determining the existence, location, extent or quality of an accumulation of oil or gas;
+(r) the seismic was not used for exploration purposes;
+...
+(z) the seismic data purchased by API, APII, APIII, APIV and APV does not qualify as a Canadian Exploration Expense ("CEE") within the meaning of s. 66.1(6)(a) of the Income Tax Act (the "Act").
+…
+24 Paragraph 10(z) was struck by Rip J. for an additional reason. He considered it to be a conclusion of law "that has no place among the Minister's assumed facts".
+25 I agree that legal statements or conclusions have no place in the recitation of the Minister's factual assumptions. The implication is that the taxpayer has the onus of demolishing the legal statement or conclusion and, of course, that is not correct. The legal test to be applied is not subject to proof by the parties as if it was a fact. The parties are to make their arguments as to the legal test, but it is the Court that has the ultimate obligation of ruling on questions of law.
+26 However, the assumption in paragraph 10(z) can be more correctly described as a conclusion of mixed fact and law. A conclusion that seismic data purchased does not qualify as CEE within the meaning of paragraph 66.1(6)(a) involves the application of the law to the facts. Paragraph 66.1(6)(a) sets out the test to be met for a CEE deduction. Whether the purchase of the seismic data in this case meets that test involves determining whether or not the facts meet the test. The Minister may assume the factual components of a conclusion of mixed fact and law. However, if he wishes to do so, he should extricate the factual components that are being assumed so that the taxpayer is told exactly what factual assumptions it must demolish in order to succeed. It is unsatisfactory that the assumed facts be buried in the conclusion of mixed fact and law.
+[14] It seems to me that whether her son was “in her care for the purposes of the CCTB” is a conclusion of mixed fact and law. The relevance of “care” for the purposes of the CCTB is in relation to whether the Appellant was the parent who was primarily responsible for the care and upbringing of her son. This can only be determined by applying the law to the facts. Section 6302 of the Regulations sets out the various factors that “are to be considered in determining what constitutes care and upbringing of a qualified dependant”. The Minister should have assumed the factual components of the test for “care and upbringing” not the conclusion that the child was “not … in her care for the purposes of the CCTB” or that the child was in the “care” of someone else. Therefore the assumptions in paragraphs 6 c) and d) of the Reply are not proper assumptions.
+[15] There are no facts that are assumed by the Minister in relation to either the issue of whether her son was residing with the Appellant or whether the Appellant was the parent who was primarily responsible for the care and upbringing of her son. As a result the Minister has the onus of proof with respect to any facts upon which the Minister may wish to rely in relation to these issues. In The Queen v. Loewen, 2004 FCA 146, Justice Sharlow, on behalf of the Federal Court of Appeal, made the following comments:
+11 The constraints on the Minister that apply to the pleading of assumptions do not preclude the Crown from asserting, elsewhere in the reply, factual allegations and legal arguments that are not consistent with the basis of the assessment. If the Crown alleges a fact that is not among the facts assumed by the Minister, the onus of proof lies with the Crown. This is well explained in Schultz v. R. (1995), [1996] 1 F.C. 423, [1996] 2 C.T.C. 127, 95 D.T.C. 5657 (Fed. C.A.) (leave to appeal refused, [1996] S.C.C.A. No. 4 (S.C.C.)).
+[16] Leave to appeal the decision of the Federal Court of Appeal in Loewen to the Supreme Court of Canada was refused ([2004] S.C.C.A. No. 298).
+[17] The only evidence in relation to whether her son was residing with her was provided by the Appellant. It is clear that when the Appellant left Claude Courville that her son did not leave with her. She was initially either living with a friend or at a women’s shelter. However, prior to August 2009 she was living at a place where her son could live with her and commencing the first of August 2009 her son started to live with her again. Therefore it is clear that for the period from July 2008 to July 2009 her son was not residing with her (and therefore she was not the eligible individual in respect of her son during this period) but for the period from August 2009 to May 2010, he was residing with her.
+[18] Since her son was residing with the Appellant during the period from August 2009 to May 2010 and since there was no evidence that Claude Courville had filed the relevant notice for CCTB in respect of their son, the presumption in paragraph (f) of the definition of “eligible individual” referred to above is applicable. As a result the Appellant is presumed to be “the parent who primarily fulfils the responsibility for the care and upbringing of the qualified dependant.” No evidence was called to rebut this presumption and therefore the Appellant has satisfied both conditions that are necessary for her to be the eligible individual in respect of her son for the period from August 2009 to May 2010 – he was residing with her and she was the parent who was primarily responsible for his care and upbringing during this time.
+[19] Counsel for the Respondent had requested that the judgment that is issued not address whether there was an overpayment but simply refer the matter back to the Minister for redetermination. The reason for this request was that during the hearing the Appellant stated that she had remarried. The Canada Revenue Agency had not taken her spouse’s income into account in determining whether there was an overpayment of CCTB. The only basis upon which it was determined that there was an overpayment was the basis referred to above. There was no evidence with respect to the amount of the Appellant’s spouse’s income. However, in her notice of appeal which was filed on February 27, 2011, the Appellant did state that:
+I am now remarried and unemployed my husband is my sole provider.
+[20] An individual’s CCTB for a particular month is, in accordance with the formula as set out in subsection 122.61(1) of the Income Tax Act (the “Act”), reduced by the amount of that individual’s adjusted income for the base taxation year for that month. For the first six months of any particular calendar year, the base taxation year is the second preceding taxation year and for the last six months of any particular calendar year, the base taxation year is the immediately preceding taxation year[3].
+[21] “Adjusted income” is defined in section 122.6 of the Act as follows:
+“adjusted income”, of an individual for a taxation year, means the total of all amounts each of which would be the income for the year of the individual or of the person who was the individual's cohabiting spouse or common-law partner at the end of the year if in computing that income no amount were
+(a) included
+(i) under paragraph 56(1)(q.1) or subsection 56(6),
+(ii) in respect of any gain from a disposition of property to which section 79 applies, or
+(iii) in respect of a gain described in subsection 40(3.21), or
+(b) deductible under paragraph 60(y) or (z);
+[22] In determining the Appellant’s adjusted income for any particular base taxation year, the income of the person who was her cohabiting spouse or common‑law partner at the end of such year, would have to be added to her income. “Cohabiting spouse or common-law partner” is defined in section 122.6 of the Act as follows:
+“cohabiting spouse or common-law partner” of an individual at any time means the person who at that time is the individual's spouse or common-law partner and who is not at that time living separate and apart from the individual and, for the purpose of this definition, a person shall not be considered to be living separate and apart from an individual at any time unless they were living separate and apart at that time, because of a breakdown of their marriage or common-law partnership, for a period of at least 90 days that includes that time;
+[23] In this appeal the relevant base taxation years are 2007 and 2008. The 2007 base taxation year is relevant for the monthly payments made during the period July 2008 to June 2009 and the 2008 base taxation year is relevant for the monthly payments made during the period July 2009 to May 2010 (since the period under appeal ends with the month of May 2010). In this case since the Appellant was not an eligible individual in respect of her son for the period June 2008 to July 2009, it is irrelevant whether she had a cohabiting spouse or common-law partner at the end of the 2007 base taxation year. However, since the Appellant was an eligible individual in respect of her son during the period August 2009 to May 2010, her entitlement to CCTB payments during this period could be affected if she had (or was deemed to have had) a spouse or common-law partner at the end of 2008 (depending on his income). There was, however, no evidence that she had a spouse or common-law partner at the end of 2008 nor was there any evidence that she and her spouse had made the joint election as contemplated by subsection 122.62(7) of the Act as it read prior to being amended in 2011[4]. There also was no evidence of her current spouse’s income for any year. Therefore there is no basis to make any finding that any adjustment should be made to her payments made during the period August 2009 to May 2010.
+[24] It also seems to me that it is important to review the nature of the appeal in this case. This was an appeal from a determination made by the Minister for the CCTB for the 2007 and 2008 base taxation years. Subsection 152(1.2) of the Act provides, in part, that:
+152 (1.2) Paragraphs 56(1)(l) and 60(o), this Division and Division J, as they relate to an assessment or a reassessment and to assessing or reassessing tax, apply, with any modifications that the circumstances require, to a determination or redetermination under subsection (1.01) and to a determination or redetermination of an amount under this Division or an amount deemed under section 122.61 to be an overpayment on account of a taxpayer’s liability under this Part,
+[25] CCTB payments are monthly refunds of overpayments of a person’s tax liability[5]. This appeal is from a determination of whether there was an overpayment of the Appellant’s tax liability (which resulted in a refund paid as CCTB). While it is necessary to determine whether the Appellant was an eligible individual at the beginning of each month during the period under appeal, this is not the ultimate question that is the subject of the appeal. The question is whether the overpayment of the Appellant’s tax liability (which was paid as CCTB payments) was correct. Therefore the judgment, just as it would if this was an appeal from an assessment or reassessment, must address the issue of her liability under the Act, which in this case arises from the determination that she was overpaid an amount of CCTB.
+[26] As a result the Appellant’s appeal is allowed and the matter is referred back to the Minister of National Revenue for reconsideration and redetermination on the basis that the Appellant had not been overpaid CCTB payments made during the period from August 2009 to May 2010. The Respondent shall pay costs to the Appellant which are fixed in the amount of $250.
+Signed at Halifax, Nova Scotia, this 30th day of May 2012.
+“Wyman W. Webb”
+Webb J.
+CITATION: 2012TCC176
+COURT FILE NO.: 2011-672(IT)I
+STYLE OF CAUSE: KERRY MICHELE DEXTER AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Canada
+DATE OF HEARING: April 3, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: May 30, 2012
+APPEARANCES:
+For the Appellant:
+The Appellant Herself
+Counsel for the Respondent:
+Shane Aikat
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] This amount is adjusted annually as provided in subsection 122.61(5) of the Act.
+[2] This amount is adjusted annually as provided in subsection 122.61(5) of the Act.
+[3] For individuals, a taxation year is the calendar year (subsection 249(1) of the Act).
+[4] Subsection 122.62(7) of the Act was amended by 2011, c. 24, s. 39, effective for events occurring after June 2011.
+[5] Subsection 122.61(1) of the Act.

@@ -1,0 +1,287 @@
+Title: Lirette v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28936/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-593-28936-lirette-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-10-29
+
+# Lirette v. The Queen
+
+- Citation: 2008 TCC 593
+- Decision date: 2008-10-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1376, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lirette v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-10-29
+Neutral citation
+2008 TCC 593
+File numbers
+2008-522(IT)I
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-522(IT)I
+BETWEEN:
+ESTATE OF THE LATE CELY LIRETTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Lionel C. Lirette (2008-523(IT)I)
+on October 21, 2008, at Edmonton, Alberta
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Agent for the Appellant:
+Lionel C. Lirette
+Counsel for the Respondent:
+Deborah McGuire
+____________________________________________________________________
+JUDGMENT
+The appeals under the Income Tax Act in relation to the determination of the business investment loss of the Appellant for 1998 and the capital loss of the Appellant for 2005 in relation to the investments held in Taylor Ventures Ltd. are allowed, in part and without costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that:
+(a) the amount of the business investment loss for Cely Lirette for 1998 in relation to these investments is $231,874 and the amount of her allowable business investment loss related thereto for 1998 is $173,905; and
+(b) The appeal in relation to the claim of a capital loss for Cely Lirette for 2005 is dismissed.
+Signed at Ottawa, Ontario, this 29th day of October 2008.
+“Wyman W. Webb”
+Webb J.
+Docket: 2008-523(IT)I
+BETWEEN:
+LIONEL C. LIRETTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Estate of the Late Cely Lirette (2008-522(IT)I)
+on October 21, 2008, at Edmonton, Alberta
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Agent for the Appellant:
+Lionel C. Lirette
+Counsel for the Respondent:
+Deborah McGuire
+____________________________________________________________________
+JUDGMENT
+The appeal under the Income Tax Act in relation to the determination of the business investment loss of the Appellant for 1998 in relation to the investments held in Taylor Ventures Ltd. is allowed, in part and without costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the amount of the business investment loss for Lionel Lirette in relation to these investments for 1998 is $29,619 before the amount is deducted therefrom as required under subparagraph 39(1)(c)(viii) and subsection 39(9) of the Income Tax Act.
+Signed at Ottawa, Ontario, this 29th day of October 2008.
+“Wyman W. Webb”
+Webb J.
+Citation: 2008TCC593
+Date: 20081029
+Docket: 2008-522(IT)I
+BETWEEN:
+ESTATE OF THE LATE CELY LIRETTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2008-523(IT)I
+AND BETWEEN:
+LIONEL C. LIRETTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb J.
+[1] These appeals relate to the determination of the amount of the business investment losses (“BIL”) that were realized by Cely Lirette and Lionel Lirette in 1998. An additional issue is whether Cely Lirette incurred a capital loss in her final taxation year which ended in 2005 when she passed away. While one of the Appellants is described as the Estate of Cely Lirette, the taxation years in issue are 1998 and 2005. The 2005 taxation year ended immediately before her death. These are not taxation years of the estate as a trust but are taxation years of Cely Lirette before she passed away. Therefore the Appellant in those appeals would have been more accurately described as Cely Lirette, deceased, as represented by her Executor. The other Appellant is Lionel Lirette who is Cely Lirette’s son and who is also the Executor of her estate.
+[2] The issues in these cases were described by counsel for the Respondent as follows:
+ISSUES for Lionel Lirette 2008-523(IT)I
+(1) Whether the Appellant is entitled to a Business Investment Loss (BIL) in excess of the amount allowed by the Minister.
+1998 - Mr. Lirette was allowed $17,120 BIL but wants $71,856.
+ISSUES for the Estate of Cely Lirette 2008-522(IT)I
+(1) Where the Appellant is entitled to a BIL in excess of the amount allowed by the Minister.
+1998 - Ms. Lirette was allowed $256,990 BIL but wants $653,325
+(2) Whether the Appellant is entitled to a capital loss in the 2005 tax year.
+2005 – Ms. Lirette wants to claim Capital Loss of $331,050
+[3] Therefore the only issue raised by the Respondent with respect to the BIL for 1998 for Cely Lirette and Lionel Lirette is the quantum of the BIL. There was no dispute that the requirements to claim a BIL, as set out in paragraph 39(1)(c) of the Income Tax Act, were satisfied. The only issue is the amount of such loss. The issue for the 2005 taxation year of Cely Lirette is whether she incurred a capital loss in that year in relation to the investments in question. Neither Cely Lirette nor Lionel Lirette had claimed a BIL when their 1998 income tax returns were filed nor was a capital loss claimed in Cely Lirette’s 2005 tax return. The BILs referred to above were allowed following an adjustment request that was made by Lionel Lirette. Lionel Lirette had also requested that a capital loss be allowed for Cely Lirette’s 2005 taxation year but that request was denied.
+[4] Generally, in dealing with a claim for a BIL or a capital loss, the property that was acquired (and the disposition of which gave rise to the loss) can be readily identified. That is not the case in these appeals. Lionel Lirette, his father Laurie Lirette (who passed away in 1992) and his mother, Cely Lirette, had purchased investments that were described by Lionel Lirette as “shares” in certain projects and were described by the Respondent as debts. The investments could not be both shares and debt at the same time.
+[5] Lionel Lirette described the investments as “shares” in various projects that were owned by Taylor Ventures Ltd. There was no indication that Laurie Lirette, Cely Lirette and Lionel Lirette were involved in Taylor Ventures Ltd. otherwise than as arm’s length investors. One of the investments was described as “shares” in Special Investment Club. A handwritten document was issued by Taylor Ventures Ltd. when an investment was acquired. One of these documents, which is dated June 15, 1991, stated as follows:
+Rec’d $30,500 for 50 shares in Special Investment Club.
+[6] This document was signed by Taylor Ventures Ltd. – R. Taylor. Lionel Lirette indicated that these receipts were the only documents that any of the investors received to confirm the investments that they had acquired. If the investors wanted to sell their investments, they had to sell them back to Taylor Ventures Ltd. and these receipts would be surrendered for payment. Lionel Lirette had indicated that Ralph Taylor was the person who controlled Taylor Ventures Ltd. Ralph Taylor had indicated to the investors on several occasions that they would be guaranteed a minimum return of 20% per annum on their investments. If an investment was redeemed prior to the project being sold, the amount that would be paid was the cost amount plus the 20% per annum return. If the investors held on to the investments until the particular project was sold, the amount that the investors would receive would be based on the net amount realized on the sale of that project.
+[7] The investment had the characteristic of a share as the value of the investment was linked to the value of certain assets and in particular to the net amount that would be realized on the sale of those assets. A debt would usually generate a rate of return based on the amount lent not on the amount realized on a sale of assets.
+[8] In general Taylor Ventures Ltd. was acquiring land for development. Some of the projects were described as 120 acres Linley Valley, Delta Industrial Park, Parkway Ind’l Park Nanaimo, 43 Acre Ind’l Park Langley, Laguna View S/D Nanaimo, and 180 Acres South Nanaimo.
+[9] Lionel Lirette confirmed that separate corporations were not formed to carry on the various projects. The only corporation that was involved in these projects was Taylor Ventures Ltd. and Taylor Ventures Ltd. owned the assets that were part of the various projects.
+[10] Although Lionel Lirette consistently referred to the investments as shares in the projects as if the investors were acquiring an interest in the project assets, there was no indication that Taylor Ventures Ltd. had executed any declaration of trust to confirm that the assets related to the different projects were being held in trust for the different investors (which would have given the investors a beneficial interest in the project assets). If such a declaration had been made it presumably would have affected the liquidation of the assets of Taylor Ventures Ltd. by the trustee in bankruptcy as Taylor Ventures Ltd. would not have been the beneficial owner of such assets.
+[11] Since neither Cely Lirette not Lionel Lirette received any amount or any property following the bankruptcy of Taylor Ventures Ltd., this would suggest that they did not acquire any interest in the project assets and that the project assets were owned by Taylor Ventures Ltd. and not by separate corporations. If the project assets would have been owned by separate corporations (and shares of these corporations issued to the investors), Taylor Ventures Ltd. would not have been the sole shareholder of these project corporations. If the project assets would have been owned by the investors or other corporations, then presumably the investors would have received the project assets or their proportionate share of the assets or of the proceeds arising from the liquidation of the assets from the trustee in bankruptcy of Taylor Ventures Ltd.
+[12] No share certificates of Taylor Ventures Ltd. were issued to Lionel Lirette, or his mother or his father. The only documents that they received, as noted above, were receipts in the form of the receipt described above for the shares in “Special Investment Club”. Each receipt showed the name of the person to whom it had been issued, the amount received and the number of “shares” acquired in the particular project. Copies of several of the receipts were introduced into evidence and these receipts all referred to the investments acquired as “shares”. There is no evidence to establish the jurisdiction under which Taylor Ventures Ltd. was incorporated. It should be noted that the Canada Business Corporations Act (“CBCA”), for example, grants the security holder the option of whether a certificate will be issued. Section 49 of the CBCA provides as follows:
+49. (1) Every security holder is entitled at their option to a security certificate that complies with this Act or a non-transferable written acknowledgment of their right to obtain such a security certificate from a corporation in respect of the securities of that corporation held by them.
+[13] “Security” is defined in the CBCA as follows:
+"security" means a share of any class or series of shares or a debt obligation of a corporation and includes a certificate evidencing such a share or debt obligation;
+[14] Therefore, at least under the CBCA, there is no requirement to issue share certificates.
+[15] A copy of a newsletter issued by Taylor Ventures Ltd. dated May 29, 1992, was introduced into evidence. This newsletter is addressed “to all shareholders”. Paragraph 4 of this newsletter states that:
+4. Our shareholder meetings will be held every Tuesday at 6:30 p.m. at Helen's Deli at 463 E. Columbia St., New West. These meetings will be informal in nature.
+- come and have coffee & sandwiches
+- come and ask questions
+- come and buy shares
+- come and sell shares
+[16] The newsletter also described shares for sale in Kelowna, Nanaimo 120 Ac. Linley Valley and 180 Acres South Nanaimo. Paragraph 7 of the newsletter stated that:
+7. For those who wish to invest $50,000 or more, collateral will be provided. Taylor Ventures has approximately 150 clear title properties available for this purpose.
+[17] This option for collateral was exercised by Cely Lirette. The collateral however consisted simply of Taylor Ventures Ltd. delivering the original title certificates for properties that it held. Cely Lirette was not listed as an encumbrancer in the certificate. When Taylor Ventures Ltd. went into bankruptcy, the original title certificates had to be returned to the trustee in bankruptcy and Cely Lirette did not receive any amount in relation to the certificates. This is consistent with the investment being in the form of shares of Taylor Ventures Ltd. If the investment would have been debt, then a mortgage on the property could have been granted to Cely Lirette and she would have held an encumbrance on the property.
+[18] Copies of the agendas of three of the meetings of Taylor Ventures Ltd. – Investor Meetings, were also introduced into evidence. In the agenda for the meeting held on February 23 and 24, 1994 one of the items on the agenda is described as “43 acre project Langley shares for sale”. Another item refers to the “share return example” and there is a table listing the “cash-in value for shares” with the different projects listed and the amounts that would be paid for the shares in the projects.
+[19] In the agenda for the meeting held on September 24 and 25, 1997 again there is a table showing the cash-in values for shares for the various projects.
+[20] In the agenda for the meeting held on November 26 and 27, 1997, item number 3, was as follows:
+3. Share cash-ins (on hold)
+- It is not possible at this time to redeem shares
+- Our money is invested in land, and we must have land sales in order to cash in shares
+- We have had a soft real estate market for 4 years now, and it is causing hardship
+[21] The November 26 and 27, 1997 meeting would have been the last meeting prior to Taylor Ventures Ltd. going into bankruptcy in 1998. As a result of the bankruptcy of Taylor Ventures Ltd., Cely Lirette and Lionel Lirette lost all of the money that they had invested in the “shares” that had not been redeemed prior to the bankruptcy as no amounts were paid to them by the trustee in bankruptcy.
+[22] A copy of the final return for Laurie Lirette was submitted during the hearing. In that return the election was made to deem him to have disposed of some of his investments for proceeds of disposition equal to the fair market value of the investments. The investments were described as shares.
+[23] Copies of the election made with the 1994 income tax returns for Cely Lirette and Lionel Lirette were also introduced. In the elections that were made with the 1994 returns the investments were described as shares. This election permitted taxpayers to claim unrealized capital gains and utilize any part of the $100,000 capital gains deduction that had not been used. This election was for any capital property owned on February 22, 1994 (with special provisions for non-qualifying real property for which the capital gains deduction had been eliminated earlier). For any capital gain arising after February 22, 1994, the capital gains deduction is only available if such capital gain is realized as a result of the disposition of qualified shares of a small business corporation or qualified farm property and, for dispositions that occurred after May 1, 2006, qualified fishing property.
+[24] The Appeals Officer of the Canada Revenue Agency (“CRA”) who dealt with the notices of objection that were filed in these cases testified during the hearing. She indicated that she had discussions with another auditor for the CRA in Vancouver, British Columbia. Taylor Ventures Ltd. had carried on its business in British Columbia. The other auditor had indicated to the Appeals Officer that Cely Lirette and Lionel Lirette were not shown as shareholders of Taylor Ventures Ltd. Little weight will, however, be given to this evidence. The person who testified at the hearing was not the person who reviewed the registers and ledgers of Taylor Ventures Ltd., and therefore it is not clear exactly which records were reviewed and whether all of the registers and ledgers of Taylor Ventures Ltd. were reviewed. The auditor for the CRA in British Columbia also had indicated that the CRA was not interested in the investors and this would raise the question of what efforts were made to locate the registers and ledgers of the company and to determine the identity of the shareholders. If the CRA was not interested in the investors, this would suggest that little, if any, effort would have been made to accurately determine the identity of the shareholders of a bankrupt company. The Appeals Officer did not indicate whether the books and records of Taylor Ventures Ltd. reflected the amounts that had been received from Laurie Lirette, Cely Lirette and Lionel Lirette as debt.
+[25] It is the position of the Respondent that the investments were debts and not shares. However, in my opinion, the evidence indicates that the investments were in the form of shares and not debts. It seems to me that the only logical explanation was that the investors were acquiring special classes of preferred shares of Taylor Ventures Ltd. The shares were retractable, i.e. redeemable at the option of the holder, and the redemption price was based on the value of certain assets of Taylor Ventures Ltd. The 20% guaranteed amount, which was referred to by Lionel Lirette, was simply a determination of the redemption price of the shares if the shares were redeemed prior to the sale of the project. Once the project was sold, the shares would be redeemed for the net proceeds realized as a result of the sale of the project.
+[26] What is clear from this case is that Cely Lirette invested a substantial sum of money with Taylor Ventures Ltd. All the documentation produced by Taylor Ventures Ltd. describes the investments as shares. Cely Lirette had some of her investments redeemed by Taylor Ventures Ltd. in 1994, 1995 and 1996 and Lionel Lirette had some of his investments redeemed by Taylor Ventures Ltd. in 1995 which shows that Taylor Ventures Ltd. recognized the “shares” as property. In these circumstances I find therefore, that on the balance of probabilities, that Cely Lirette and Lionel Lirette owned shares in Taylor Ventures Ltd., although the terms and conditions attached to such shares are not at all clear.
+[27] The next issue is the amount of the BIL that was incurred in 1998 when Taylor Ventures Ltd. went into bankruptcy. The following table lists the investments held by Cely Lirette in 1998, the out‑of‑pocket cost of these investments to her or Laurie Lirette and the adjusted cost base (“ACB”) to her of these investments in 1998. These amounts were determined based on the documents that were introduced at the hearing which were a copy of Laurie Lirette’s final tax return, a copy of the election filed by Cely Lirette in 1994, a copy of Cely Lirette’s 1994, 1995, and 1996 income tax returns, a copy of a number of the receipts for purchases of investments, and a copy of the schedule of the investments that were held by Cely Lirette and Lionel Lirette that was prepared by Taylor Ventures Ltd. and dated April 17, 1997. There was no dispute that the list of investments dated April 17, 1997 was an accurate list of the number of shares of each investment that were held by Cely Lirette although the parties did dispute the amounts shown as the cost. The schedule also showed the share value as of April 1997 (and the “profit” that would be realized if the investments were redeemed). For the purposes of the following table only the number of shares and the amounts identified as “your cost” were used.
+Cely Lirette
+Investment
+Cost
+ACB
+84 shares “special investment club”
+$51,290
+$90,300
+5 shares “120 acres Linley Valley”
+$5,000
+$7,000
+3 shares “Delta Industrial Park”
+$9,000
+$9,000
+6 shares “Parkway Ind’l Park Nanaimo”
+$18,402
+$18,402
+30 shares “Laguna View S/D Nanaimo”
+$93,000
+$106,500
+7 shares “43 Acre Ind’l Park Langley”
+$42,600
+$45,672
+2 shares “180 acres South Nanaimo”
+$12,600
+$16,400
+4 shares “Kelowna”
+$24,900
+$37,600
+$256,792
+$330,874
+[28] In the T664 election form filed with Cely Lirette’s 1994 income tax return, the total ACB of the 84 shares “Special Investment Club” was shown as $55,660 before the election was made. In the report prepared by Taylor Ventures Ltd. dated April 17, 1997, the cost of these shares was shown as $51,290. This difference of $4,370 arises as a result of the capital gain claimed in the final return of Laurie Lirette that was filed for 1992 as a result of his death. The out‑of‑pocket cost would be $51,290 as this would have been the amount paid by Laurie Lirette to Taylor Ventures Ltd. A capital gains deduction was claimed in Laurie Lirette’s 1992 income tax return.
+[29] In the T664 election form filed with Cely Lirette’s 1994 income tax return, the election was made with respect to a total of 17 shares “120 acres Linley Valley”. The total elected amount was $23,800 for these 17 shares and therefore the ACB per share would have been $1,400. In 1995 12 of theses shares were sold and the ACB used for these 12 shares was 12 x $1,400 = $16,800. The ACB of the remaining 5 shares would be $1,400 x 5 = $7,000.
+[30] The $5,000 cost of the 5 shares “120 acres Linley Valley” reflects the cost of 5 shares purchased on March 18, 1992 and does not reflect the average cost nor does it reflect the ACB before the election that would be determined pursuant to section 47 of the Income Tax Act. The $5,000 cost is the amount used by Taylor Ventures Ltd. in its schedule dated April 17, 1997.
+[31] The 3 shares “Delta Industrial Park” and the 6 shares “Parkway Ind’l Park Nanaimo” are not included in the T664 election form filed with Cely Lirette’s 1994 income tax return. These investments are included in the list of investments issued by Taylor Investments Ltd. dated April 17, 1997.
+[32] The 3 shares “Delta Industrial Park” were acquired on October 1, 1994 for $9,000.
+[33] On May 25, 1994, 5 shares “Parkway Industrial Park” were acquired for $15,000 and on September 30, 1994, 4 shares “Parkway Industrial Park” were acquired for $12,600. As a result the ACB of each share of “Parkway Industrial Park” was $27,600/9 shares = $3,067 per share. In 1996, 3 shares “Parkway Industrial Park” were sold. However, instead of using 3 x $3,067 = $9,201 as the ACB, the amount that was used was $9,450 (which would be 3/4 x $12,600). The ACB of the 6 remaining shares “Parkway Industrial Park” reflect the corrected ACB of $3,067 per share x 6 shares = $18,402. The cost has also been adjusted to reflect the average cost.
+[34] In the T664 election form filed with Cely Lirette’s 1994 income tax return, the election was made with respect to a total of 70 shares “Laguna View S/D Nanaimo”. The total elected amount was $248,500 for these 70 shares and therefore the ACB per share would have been $3,550. In 1995, 40 of theses shares were sold and the ACB used for these 40 shares was 40 x $3,550 = $142,000. The ACB of the remaining 30 shares would be $3,550 x 30 = $106,500.
+[35] The $93,000 cost of the 30 shares “Laguna View S/D Nanaimo” reflects the cost of the 30 shares purchased on May 27, 1993. Since all 70 shares were acquired at a cost of $3,100 per share, this cost does reflect the average cost and the ACB before the election that would be determined pursuant to section 47 of the Income Tax Act. The $93,000 cost amount is the amount used by Taylor Ventures Ltd. in its schedule dated April 17, 1997.
+[36] In the T664 election form filed with Cely Lirette’s 1994 income tax return, the election was made with respect to a total of 5 shares “43 Acre Ind’l Park Langley”. The amount shown as the cost of these 5 shares “43 Acre Ind’l Park Langley” was $30,000. In addition to these 5 shares “43 Acre Ind’l Park Langley”, 1 share “43 Acre Ind’l Park Langley” was acquired on August 26, 1993 for $6,100 and 1 share “43 Acre Ind’l Park Langley” was acquired on December 31, 1993 for $6,500. Therefore a total of 7 shares “43 Acre Ind’l Park Langley” would have been held on February 22, 1994. Since these shares are identical properties the ACB of these shares (before the election) would have been $42,600/7 = $6,086. The correct ACB of the 5 shares would have been $30,430 and not $30,000.
+[37] The relevant amount for determining the ACB of the shares for which the election was filed, following the 1994 election, is the designated amount (subs. 110.6(19) of the Income Tax Act) since there was no indication that the fair market value of the investments as of February 22, 1994 was different from the amounts as stated on the election form. The averaging required under section 47 of the Income Tax Act in determining the ACB of the shares “43 Acre Ind’l Park Langley” would have affected the amount of the capital gain that would have been realized as a result of electing for proceeds of disposition of $33,500. The cost in the table reflects the total cost of the 7 shares and the ACB reflects the elected amount for 5 shares ($33,500) plus the ACB of the two additional shares (taking into account the averaging that is required by section 47 of the Income Tax Act which would be 2 x $6,086 = $12,172) for a total ACB of $45,672.
+[38] In the T664 election form filed with Cely Lirette’s 1994 income tax return, the total ACB of the 4 shares “Kelowna” was shown as $27,200 before the election was made. In the report prepared by Taylor Ventures Ltd. dated April 17, 1997, the cost of these shares was shown as $24,900. This difference of $2,300 arises as a result of the capital gain claimed in the final return of Laurie Lirette that was filed for 1992 as a result of his death. The out‑of‑pocket cost would be $24,900 as this would have been the amount paid by Laurie Lirette to Taylor Ventures Ltd. A capital gains deduction was claimed in Laurie Lirette’s 1992 income tax return.
+[39] Therefore the ACB to Cely Lirette of the shares held by Cely Lirette in Taylor Ventures Ltd. would have been $330,874 when Taylor Ventures Ltd. went into bankruptcy in 1998. This would also be the amount of the BIL that she would have incurred (before taking into account the reduction required by subparagraph 39(1)(c)(viii) and subsection 39(9) of the Income Tax Act) since she would, pursuant to subsection 50(1) of the Income Tax Act, be deemed to have disposed of her shares of Taylor Ventures Ltd. in 1998 for no proceeds of disposition. Subsection 50(1) of the Income Tax Act provides, in part, as follows:
+50. (1) For the purposes of this subdivision, where
+…
+(b) a share (other than a share received by a taxpayer as consideration in respect of the disposition of personal-use property) of the capital stock of a corporation is owned by the taxpayer at the end of a taxation year and
+(i) the corporation has during the year become a bankrupt (within the meaning of subsection 128(3)*),
+and the taxpayer elects in the taxpayer's return of income for the year to have this subsection apply in respect of the debt or the share, as the case may be, the taxpayer shall be deemed to have disposed of the debt or the share, as the case may be, at the end of the year for proceeds equal to nil and to have reacquired it immediately after the end of the year at a cost equal to nil.
+[40] It should be noted that this subsection deems the shares to have been disposed of by Cely Lirette at the end of 1998 for no proceeds of disposition and also to have been reacquired by Cely Lirette immediately after the end of 1998 for no cost which would mean that the ACB of these shares after 1998 would be nil. Although the election was not made by Cely Lirette in her 1998 tax return, the Respondent has permitted her to late file this election (subsection 220(3.2) of the Income Tax Act and section 600 of the Income Tax Regulations).
+[41] Therefore although Cely Lirette may still have held these investments at the time of her death (if Taylor Ventures Ltd. was not dissolved) (and therefore would have had a deemed disposition of these assets immediately before her death as a result of the provisions of subsection 70(5) of the Income Tax Act), the ACB of these investments would be nil as a result of the deemed disposition that occurred in 1998 pursuant to subsection 50(1) of the Income Tax Act. Therefore no capital loss would arise from the deemed disposition of these assets as a result of her death.
+[42] The following table lists the investments held by Lionel Lirette in 1998, the out‑of‑pocket cost of these investments to him and the ACB to him of these investments in 1998. These amounts were determined based on the documents that were introduced at the hearing which were a copy of the election filed by Lionel Lirette in 1994, a copy of the capital gains schedule from Lionel Lirette’s 1995 income tax return, and a copy of the schedule of the investments that were held by Lionel Lirette that was prepared by Taylor Ventures Ltd. and dated April 10, 1997. There was no dispute that the list of investments dated April 10, 1997 was an accurate list of the number of shares of each investment that were held by Lionel Lirette although the parties did dispute the amounts shown as the cost. The schedule also showed the share value as of April 1997 (and the “profit” that would be realized if the investments were redeemed). For the purposes of the following table only the number of shares and the amounts identified as “your cost” were used.
+Lionel Lirette
+Investment
+Cost
+ACB
+26 ¼ shares “special investment club”
+$16,000
+$28,218.75
+1 share “120 acres Linley Valley”
+$1,120
+$1,400.00
+$17,120
+$29,618.75
+[43] For Lionel Lirette, the ACB of his shares in 1998 was $29,619 and this would have been the amount of his BIL, (before taking into account the reduction required by subparagraph 39(1)(c)(viii) and subsection 39(9) of the Income Tax Act) as a result of the deemed disposition of these shares pursuant to subsection 50(1) of the Income Tax Act at the end of 1998.
+[44] Lionel Lirette, on his own behalf and on behalf of his mother, is also claiming an additional amount for the BIL in 1998 in relation to the guarantee. However, the guarantee was simply a promise to redeem the shares for a particular amount. That amount was 20% per annum in addition to the original cost if the shares were redeemed prior to the project being sold. This amount was not payable unless the shares were redeemed before the project was sold. Since none of these investments had been redeemed by Cely Lirette or Lionel Lirette prior to the bankruptcy of Taylor Ventures Ltd. (which would have resulted in a deemed dividend and possibly a capital gain or loss), there was no amount owing by Taylor Ventures Ltd. under this “guarantee”. Therefore there was no debt owing by Taylor Ventures Ltd. to Cely Lirette or Lionel Lirette in 1998.
+[45] The total amount of the losses claimed by Cely Lirette were $663,325 for 1998 and $331,050 for 2005 for a total of $994,375 yet the total out‑of‑pocket costs of the investments (i.e. the total amount paid to Taylor Ventures Ltd.) was only $256,792. The total amount claimed as losses was about 3.87 times the amount invested. The amount claimed as losses is excessive and reflects two claims for losses on the same investments – one in 1998 and the other in 2005. As noted above, the amount of the BIL for 1998 will be $330,874 (before the amount is deducted as required by subparagraph 39(1)(c)(viii) and subsection 39(9) of the Income Tax Act), which reflects the revised ACB of the shares and no amount will be allowed as a capital loss in 2005.
+[46] It should be noted that when shares were redeemed by Cely Lirette in 1994, 1995 and 1996 and Lionel Lirette in 1995, a capital gain was claimed. It would also appear from the tax returns for Cely Lirette for 1994, 1995 and 1996 and the capital gains schedule for Lionel Lirette for 1995, that no capital gains deduction was claimed. Since the shares were redeemed by Taylor Ventures Ltd., subsection 84(3) of the Income Tax Act would have applied, which would have resulted in a deemed dividend to the extent that the amount paid exceeded the paid‑up capital of these shares. This deemed dividend amount would not have been included in determining the proceeds of disposition of these shares as a result of paragraph (j) of the definition of proceeds of disposition in section 54 of the Income Tax Act. Therefore in addition to the deemed dividend, a capital gain or a capital loss might also have been realized depending on the amount of the proceeds of disposition (excluding the amount of the deemed dividend) and the ACB to Cely Lirette or Lionel Lirette of the shares. Since there was no dispute that the requirements to claim a BIL, as set out in paragraph 39(1)(c) of the Income Tax Act, were satisfied, there was no dispute that the investments were capital property of Cely Lirette and Lionel Lirette.
+[47] The BIL for Cely Lirette for 1998 is reduced by the amount of any capital gains for which a capital gains deduction was claimed. Paragraph 39(1)(c) and subsection 39(9) of the Income Tax Act provide as follows:
+39. (1) For the purposes of this Act,
+…
+(c) a taxpayer's business investment loss for a taxation year from the disposition of any property is the amount, if any, by which the taxpayer's capital loss for the year from a disposition after 1977
+(i) to which subsection 50(1) applies, or
+(ii) to a person with whom the taxpayer was dealing at arm's length
+of any property that is
+(iii) a share of the capital stock of a small business corporation, or
+(iv) a debt owing to the taxpayer by a Canadian-controlled private corporation (other than, where the taxpayer is a corporation, a debt owing to it by a corporation with which it does not deal at arm's length) that is
+(A) a small business corporation,
+(B) a bankrupt (within the meaning assigned by subsection 128(3)) that was a small business corporation at the time it last became a bankrupt, or
+(C) a corporation referred to in section 6 of the Winding-up and Restructuring Act that was insolvent (within the meaning of that Act) and was a small business corporation at the time a winding-up order under that Act was made in respect of the corporation,
+exceeds the total of
+(v) in the case of a share referred to in subparagraph (iii), the amount, if any, of the increase after 1977 by virtue of the application of subsection 85(4) in the adjusted cost base to the taxpayer of the share or of any share (in this subparagraph referred to as a “replaced share”) for which the share or a replaced share was substituted or exchanged,
+(vi) in the case of a share referred to in subparagraph (iii) that was issued before 1972 or a share (in this subparagraph and subparagraph (vii) referred to as a “substituted share”) that was substituted or exchanged for such a share or for a substituted share, the total of all amounts each of which is an amount received after 1971 and before or on the disposition of the share or an amount receivable at the time of such a disposition by
+(A) the taxpayer,
+(B) where the taxpayer is an individual, the taxpayer's spouse or common-law partner, or
+(C) a trust of which the taxpayer or the taxpayer's spouse or common-law partner was a beneficiary
+as a taxable dividend on the share or on any other share in respect of which it is a substituted share, except that this subparagraph shall not apply in respect of a share or substituted share that was acquired after 1971 from a person with whom the taxpayer was dealing at arm's length,
+(vii) in the case of a share to which subparagraph (vi) applies and where the taxpayer is a trust referred to in paragraph 104(4)(a), the total of all amounts each of which is an amount received after 1971 or receivable at the time of the disposition by the settlor (within the meaning assigned by subsection 108(1)) or by the settlor's spouse or common-law partner as a taxable dividend on the share or on any other share in respect of which it is a substituted share, and
+(viii) the amount determined in respect of the taxpayer under subsection (9) or (10), as the case may be.
+…
+(9) In computing the business investment loss of a taxpayer who is an individual (other than a trust) for a taxation year from the disposition of a particular property, there shall be deducted an amount equal to the lesser of
+(a) the amount that would be the taxpayer's business investment loss for the year from the disposition of that particular property if paragraph (1)(c) were read without reference to subparagraph (1)(c)(viii), and
+(b) the amount, if any, by which the total of
+(i) the total of all amounts each of which is twice the amount deducted by the taxpayer under section 110.6 in computing the taxpayer's taxable income for a preceding taxation year that
+(A) ended before 1988, or
+(B) begins after October 17, 2000,
+(i.1) the total of all amounts each of which is
+(A) 3/2 of the amount deducted under section 110.6 in computing the taxpayer's taxable income for a preceding taxation year that
+(I) ended after 1987 and before 1990, or
+(II) began after February 27, 2000 and ended before October 18, 2000, or
+(B) the amount determined by multiplying the reciprocal of the fraction in paragraph 38(a) that applies to the taxpayer for each of the taxpayer's taxation years that includes February 28, 2000 or October 18, 2000 by the amount deducted under section 110.6 in computing the taxpayer's taxable income for that year, and
+(i.2) the total of all amounts each of which is 4/3 of the amount deducted under section 110.6 in computing the taxpayer's taxable income for a preceding taxation year that ended after 1989 and before February 28, 2000
+exceeds
+(ii) the total of all amounts each of which is an amount deducted by the taxpayer under paragraph (1)(c) by virtue of subparagraph (1)(c)(viii) in computing the taxpayer's business investment loss
+(A) from the disposition of property in taxation years preceding the year, or
+(B) from the disposition of property other than the particular property in the year,
+except that, where a particular amount was included under subparagraph 14(1)(a)(v) in the taxpayer's income for a taxation year that ended after 1987 and before 1990, the reference in subparagraph (i.1) to “3/2” shall, in respect of that portion of any amount deducted under section 110.6 in respect of the particular amount, be read as “4/3”.
+[48] Subparagraph 39(1)(c)(viii) and subsection 39(9) of the Income Tax Act reduce the amount of the BIL by the amount of any capital gain for which a deduction was claimed under section 110.6 of the Income Tax Act. Since the amount of the capital gain for which such a deduction was claimed for Cely Lirette is set out as an assumption in the Reply to her appeal and this amount was not disputed and since this amount was less than the amount of the BIL that was allowed before the application of subparagraph 39(1)(c)(viii) and subsection 39(9) of the Income Tax Act, the amount that would be determined under subparagraph 39(1)(c)(viii) and subsection 39(9) of the Income Tax Act can be ascertained for Cely Lirette and this amount is $99,000. Even though the incorrect ACB was used for one of the investments in her 1994 election, the capital gain that would have resulted from the designated amount chosen for the election filed with her 1994 income tax return cannot be adjusted as part of this appeal since her 1994 year is not under appeal. The amount that Cely Lirette has claimed under section 110.6 of the Income Tax Act is still the same.
+[49] Therefore, the amount of the BIL for Cely Lirette for 1998 and the amount of her allowable business investment loss for that year are as follows:
+BIL (before the subs. 39(9) reduction): $330,874
+Reduction as determined under subs. 39(9): $99,000
+BIL: $231,874
+Allowable business investment loss: $173,905
+[50] The reduction that would be required under subparagraph 39(1)(c)(viii) and subsection 39(9) of the Income Tax Act cannot be determined for Lionel Lirette. Since the reduction that was set out as an assumption in the Reply to his appeal was equal to the BIL that was otherwise determined, it is not possible to ascertain the total amount of capital gains for which he may have claimed a deduction under section 110.6 of the Income Tax Act. It is possible that he may have claimed an amount under section 110.6 of the Income Tax Act in a taxation year for which his return was not submitted into evidence. It is not possible to determine what other properties he may have owned and disposed of.
+[51] Therefore the only amount that can be determined for Lionel Lirette is the amount of his BIL before the reduction that will be required under subparagraph 39(1)(c)(viii) and subsection 39(9) of the Income Tax Act. This amount is $29,619.
+[52] As a result, the appeals are allowed, in part and without costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that:
+a. the amount of the BIL for Cely Lirette for 1998 is $231,874 and the amount of her allowable business investment loss for 1998 is $173,905;
+b. the amount of the BIL for Lionel Lirette for 1998 is $29,619 before the amount is deducted therefrom as required under subparagraph 39(1)(c)(viii) and subsection 39(9) of the Income Tax Act; and
+c. The appeal in relation to the claim of a capital loss for Cely Lirette for 2005 is dismissed.
+Signed at Ottawa, Ontario, this 29th day of October 2008.
+“Wyman W. Webb”
+Webb J.
+CITATION: 2008TCC593
+COURT FILE NOS.: 2008-522(IT)I, 2008-523(IT)I
+STYLE OF CAUSE: ESTATE OF THE LATE CELY LIRETTE AND HER MAJESTY THE QUEEN
+and
+LIONEL C. LIRETTE AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Edmonton, Alberta
+DATE OF HEARING: October 21, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: October 29, 2008
+APPEARANCES:
+Agent for the Appellant:
+Lionel C. Lirette
+Counsel for the Respondent:
+Deborah McGuire
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

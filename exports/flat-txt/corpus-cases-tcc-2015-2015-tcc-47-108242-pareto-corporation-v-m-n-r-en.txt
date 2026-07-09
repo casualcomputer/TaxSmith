@@ -1,0 +1,361 @@
+Title: Pareto Corporation v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/108242/index.do
+Corpus path: corpus/cases/tcc/2015/2015-tcc-47-108242-pareto-corporation-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2015-02-20
+
+# Pareto Corporation v. M.N.R.
+
+- Citation: 2015 TCC 47
+- Decision date: 2015-02-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2760, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pareto Corporation v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-02-20
+Neutral citation
+2015 TCC 47
+File numbers
+2010-3302(EI), 2010-3304(CPP), 2011-1040(CPP), 2011-1041(EI), 2011-1366(EI), 2011-1367(CPP), 2011-3246(CPP), 2011-3249(EI), 2011-3734(CPP), 2011-3736(EI)
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Employment Insurance Act
+Decision Content
+Dockets: 2010-3302(EI)
+2010-3304(CPP)
+BETWEEN:
+PARETO CORPORATION, by its TRUSTEE IN BANKRUPTCY, KPMG INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+LING CHENG,
+Intervenor.
+Appeals heard on common evidence with the appeals of Pareto Corporation (2011-1040(CPP), 2011-1041(EI), 2011-1366(EI), 2011-1367(CPP), 2011‑3246(CPP), 2011-3249(EI), 2011-3734(CPP), 2011-3736(EI)) on October 20, 21, 22 and 23, 2014, at Toronto, Ontario.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Counsel for the Appellant:
+Louise Summerhill
+Counsel for the Respondent:
+Samantha Hurst
+For the Intervenor:
+The Intervenor herself
+JUDGMENT
+The appeals from the determinations made by the Minister of National Revenue that the Intervenor was, for the purposes of the Employment Insurance Act and the Canada Pension Plan, employed by the Appellant in insurable and pensionable employment are dismissed in accordance with the attached reasons for judgment.
+Signed at Calgary, Alberta, this 20th day of February 2015.
+“Robert J. Hogan”
+Hogan J.
+Dockets: 2011-1040(CPP)
+2011-1041(EI)
+2011-1366(EI)
+2011-1367(CPP)
+2011-3734(CPP)
+2011-3736(EI)
+BETWEEN:
+PARETO CORPORATION, by its TRUSTEE IN BANKRUPTCY, KPMG INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Appeals heard on common evidence with the appeals of Pareto Corporation (2010-3302(EI), 2010‑3304(CPP), 2011‑3246(CPP), 2011-3249(EI) on October 20, 21, 22 and 23, 2014, at Toronto, Ontario.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Counsel for the Appellant:
+Louise Summerhill
+Counsel for the Respondent:
+Samantha Hurst
+JUDGMENT
+The appeals from the determinations made by the Minister of National Revenue that Stephen King, Andy Nguyen Ha La, and Yue Na Gong were, for the purposes of the Employment Insurance Act and the Canada Pension Plan, employed by the Appellant in insurable and pensionable employment are dismissed in accordance with the attached reasons for judgment.
+Signed at Calgary, Alberta, this 20th day of February 2015.
+“Robert J. Hogan”
+Hogan J.
+Dockets: 2011-3246(CPP)
+2011-3249(EI)
+BETWEEN:
+PARETO CORPORATION, by its TRUSTEE IN BANKRUPTCY, KPMG INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+SALIMA A. DAOUD,
+Intervenor,
+and
+EUGENE AFESE AKONDENG,
+Intervenor.
+Appeals heard on common evidence with the appeals of Pareto Corporation (2010-3302(EI), 2010-3304(CPP), 2011‑1040(CPP), 2011-1041(EI), 2011-1366(EI), 2011-1367(CPP), 2011-3734(CPP), 2011-3736(EI)) on October 20, 21, 22 and 23, 2014, at Toronto, Ontario.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Counsel for the Appellant:
+Louise Summerhill
+Counsel for the Respondent:
+Samantha Hurst
+For the Intervenors:
+The Intervenors themselves
+JUDGMENT
+The appeals from the determinations made by the Minister of National Revenue that the 1386 individuals listed in Schedule A were, for the purposes of the Employment Insurance Act and the Canada Pension Plan, employed by the Appellant in insurable and pensionable employment are dismissed in accordance with the attached reasons for judgment.
+Signed at Calgary, Alberta, this 20th day of February 2015.
+“Robert J. Hogan”
+Hogan J.
+Citation: 2015 TCC 47
+Date: 20150220
+Dockets: 2010-3302(EI)
+2010-3304(CPP)
+BETWEEN:
+PARETO CORPORATION, by its TRUSTEE IN BANKRUPTCY, KPMG INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+LING CHENG,
+Intervenor,
+and
+Dockets: 2011-1040(CPP), 2011-1041(EI)
+2011-1366(EI), 2011-1367(CPP)
+2011-3734(CPP), 2011-3736(EI)
+BETWEEN:
+PARETO CORPORATION, by its TRUSTEE IN BANKRUPTCY, KPMG INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+and
+Dockets: 2011-3246(CPP),
+2011-3249(EI)
+BETWEEN:
+PARETO CORPORATION, by its TRUSTEE IN BANKRUPTCY, KPMG INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+SALIMA A. DAOUD,
+Intervenor,
+and
+EUGENE AFESE AKONDENG,
+Intervenor.
+REASONS FOR JUDGMENT
+Hogan J.
+I. Overview [1] These are appeals from determinations — and from the resulting assessments — made by the Minister of National Revenue (the “Minister”) under the Employment Insurance Act (“EIA”) and the Canada Pension Plan (“CPP”) that the 1386 individuals (the “Workers”) listed in Schedule A appended to these reasons were employed by Direct Sales Force Inc. (“DSF”), the predecessor corporation to the Appellant, Pareto Corporation (“Pareto”), in insurable and pensionable employment during the 2008 and 2009 taxation years, and that Stephen King, Andy Nguyen Ha La, and Yue Na Gong were employed by DSF in insurable and pensionable employment during the 2010 tax year.
+[2] The Appellant requested a review of the determinations, and they were confirmed by the Minister. The Appellant now concedes that the Workers who are identified as managers in Schedule A were employed in insurable and pensionable employment. The Appellant argues that all of the other Workers, identified in Schedule A as a “field agent”, a “D or LS”, a “location scout”, or a “promotion agent”, were independent contractors providing services to the Appellant in the course of businesses carried on by them on their own account. The Appellant alleges that all of those Workers signed independent contractor’s agreements and acknowledged that they would not be entitled to receive benefits such as vacation and sick pay and that they would be responsible for their own taxes.
+[3] As a result of the concession noted above, only the status of those individuals identified in Schedule A as a “field agent”, a “D or LS”, a “location scout”, or a “promotion agent” remains in dispute. The parties agreed that the Workers whose role was described in Schedule A as a “D or LS”, a “location scout”, or a “promotion agent” performed the same function as field agents. Therefore, for the purpose of these appeals, a reference to field agents includes field agents, D or LS workers, location scouts, and promotion agents.
+[4] The appeals were heard on common evidence.
+II. Factual Background [5] During the relevant period, DSF, a predecessor to the Appellant, hired the Workers to provide intercept marketing services for DSF’s clients in Canada.
+[6] Most of the Workers identified in Schedule A were employed as field agents assigned to promote the services of DSF’s clients. For example, if the client was a bank, field agents were responsible for finding new subscribers for the bank’s fee‑based credit cards. If the client was a telecommunication service provider, the field agents were tasked with finding new subscribers for that client’s telecommunication services.
+[7] The evidence shows that the field agents worked at high‑traffic locations, such as airports, transit stations, shopping malls, or directly from the premises of DSF’s clients.
+[8] The parties filed a Partial Statement of Agreed Facts, which reads as follows:
+PARTIAL STATEMENT OF AGREED FACTS
+The parties to this proceeding admit, for the purposes of this proceeding only, the truth of the following facts, and the authenticity of the documents cited herein:
+1) General
+1. The Pareto Corporation was incorporated in Ontario pursuant to the Business Corporations Act.
+2. On January 11, 2010, Pareto Corporation acquired all of the shares of Direct Sales Force Inc. (“DSF”).
+3. On March 17, 2011, the Pareto Corporation amalgamated with Pareto Inc. and Direct Sales Force Inc., retaining the name Pareto Corporation (hereinafter “Pareto” or the “Appellant”).
+4. On October 2, 2013, Pareto made an assignment in bankruptcy and its appeals to the Tax Court of Canada were held in abeyance.
+5. On March 6, 2014, Pareto decided to continue to prosecute its appeals in the Tax Court of Canada.
+6. The parties agree that workers designated as managers in Schedule A were employed by Pareto during the 2008 and 2009 years (the “Period”).
+2) The Appellant
+7. During the Period, Pareto was in the business of providing various intercept and marketing sales services.
+8. The Appellant sent its agents to various locations to market its clients’ products and services including: the major banks, Costco, Shoppers Drug Marts, movie theatres, malls, shopping centres, Sobeys, Staples, IGA grocery stores, airports, gas stations and subway stations.
+3) Worker Category #1: Field Sales Agents
+a) General Characteristics
+9. All Workers identified in the third column of Schedule A, attached, as “Field Agent” are Field Sales Agents working with the Appellant during all or part of the Period.
+10. Field Sales Agents were hired for an indefinite period of time, pursuant to a verbal agreement, a written Independent Contractor Agreement or a written Employment Agreement.
+11. Field Sales Agents performed the following duties:
+a) promoted products or services;
+b) assisted in the setting up and dismantling of the kiosk displays from time to time;
+c) advised customers of the rewards and benefits of a product or service;
+d) distributed program information; and
+e) accepted customer applications.
+12. Field Sales Agents were not required to provide their services exclusively to the Appellant.
+13. MBNA, one of the Appellant’s clients, insisted that all Field Sales Agents marketing its product be made employees, and the Appellant complied.
+b) Control
+14. The Appellant did not directly supervise Field Sales Agents.
+15. Field Sales Agents worked varied hours, seven days per week.
+16. Field Sales Agents recorded and reported to the Appellant their hours of work.
+17. In working for the Appellant, Field Sales Agents were required to:
+a) comply with the Appellant’s company policies and procedures;
+b) provide adequate notice to their Program Manager if they needed additional material;
+c) clock in and out in accordance with the Appellant’s policy;
+d) promote and sell various products and services inside malls, office towers, stores and airports and at special events;
+e) ensure that all applications were completed accurately;
+f) fully disclose all fees associated with any product or service offered;
+g) call out and draw attention to the product or service being marketed;
+h) possibly travel to various locations during the week;
+i) ensure the proper delivery of all completed applications;
+j) assist in the setting up of kiosks from time to time;
+18. Some Field Sales Agents were required to comply with the additional policies and codes of ethics that had been established by the Appellant’s clients during training sessions.
+19. Field Sales Agents risked forfeiting their shift’s compensation if:
+a) they failed to call their Program Manager as and when required;
+b) they failed to clock in and out;
+c) they lost or misplaced a completed application; or
+d) they failed to notify the Program Manager more than 12 hours before being late or absent from any shift.
+c) Ownership of Tools and Equipment
+20. Field Sales Agents provided their own cell phones.
+d) Subcontracting Work and Hiring Assistants
+21. Field Sales Agents who were under written contract could not assign the agreement, or subcontract or delegate the services contemplated under the agreement without obtaining the prior written approval of the Appellant.
+e) Chance of Profit and Risk of Loss
+22. The Appellant determined the fees charged to its clients.
+23. Field Sales Agents were paid in their personal names.
+24. Field Sales Agents did not receive bonuses, benefits, vacation pay or paid leave.
+25. Field Sales Agents were not reimbursed for expenses such as transportation to and from work and work-related use of their cell phones.
+f) Intention
+26. Field Sales Agents who signed the Independent Contractor Agreement intended to be independent contractors.
+27. Field Sales Agents who signed the Employment Agreement intended to be employees.
+28. The Appellant made source deductions from some of the Field Sales Agents’ remuneration.
+6) Worker Category #3: Location Scout
+a) General Characteristics
+29. Robert Sanderson was the only Location Scout working for the Appellant during the Period.
+30. Sanderson was to establish new locations where the Appellant could place its intercept marketing agents.
+31. Sanderson was hired for an indefinite period of time, pursuant to a verbal agreement.
+32. Sanderson did not usually work in an office, but was out searching for clients in his designated territory, the Greater Toronto Area, 90% of the time.
+33. Sanderson coordinated schedules with client coordinators on when the Appellant would be allowed to set up in new retail locations.
+34. Sanderson was not required to provide his services exclusively to the Appellant.
+b) Control
+35. The Appellant did not directly supervise Sanderson.
+36. Sanderson’s hours were flexible.
+37. In working for the Appellant, Sanderson was required to:
+a) be available to work on-call;
+b) record his hours of work on timesheets;
+c) provide sales reports and account updates to the Appellant on a regular basis;
+d) comply with the Appellant’s company policies and procedures; and
+e) meet sales quotas and targets.
+38. The Appellant determined Sanderson’s priorities and deadlines.
+39. The Appellant did not train Sanderson.
+40. The Appellant had the right to terminate Sanderson’s services for various reasons, such as the failure to meet sales quotas or to follow company policy.
+c) Ownership of Tools and Equipment
+41. Sanderson provided his own vehicle and cell phone.
+42. Sanderson was responsible for the maintenance and repair of his tools and equipment.
+d) Subcontracting Work and Hiring Assistants
+43. Sanderson provided his services personally.
+e) Chance of Profit and Risk of Loss
+44. The Appellant determined Sanderson’s rate of pay, which was a fee per location booked and an hourly rate.
+45. The Appellant determined the bi-weekly timing of payments to Sanderson.
+46. The Appellant determined the method of payment to Sanderson, which was payment by direct deposit.
+47. Sanderson was paid in his personal name.
+48. Sanderson did not receive bonuses, benefits, vacation pay or paid leave.
+49. Sanderson was not required to invoice the Appellant.
+50. Sanderson incurred expenses for transportation and his cell phone.
+51. The Appellant did not reimburse Sanderson for his expenses.
+52. The Appellant was ultimately responsible for resolving customer complaints which resulted from Sanderson’s performance.
+53. The Appellant determined if any of Sanderson’s work needed to be redone and covered the related costs.
+54. The Appellant provided the guarantee on work performed by Sanderson.
+f) Intention
+55. The Appellant intended Sanderson to be an independent contractor.
+8) Individual worker appeals
+179. Andy Nguyen Ha La entered into an Employment Agreement with the Appellant on August 13, 2010.
+180. Andy Nguyen Ha La was a sales agent for the Appellant.
+181. Andy Nguyen Ha La promoted the Bank of Montreal Mastercard and the Shell Mastercard.
+182. Ling Cheng was a sales agent for the Appellant.
+183. Ling Cheng promoted the Citi MasterCard and the TD Bank Visa Card.
+184. Stephen King was a sales agent for the Appellant.
+185. Stephen King promoted the Primus telephone and internet plans.
+186. Yue Na Gong was a sales agent for the Appellant.
+187. Yue Na Gong entered into an Independent Contractor Agreement with the Appellant on April 19, 2010.
+188. Yue Na Gong promoted the Primus telephone and Internet plans.
+III. Analysis [9] Distinguishing employment from an independent contractor arrangement can be challenging because working conditions and relationships are unique to every workplace and are constantly evolving.[1]
+[10] The distinction turns on the following definitions of “employment”:
+(a) Paragraph 5(1)(a) of the EIA defines it as:
+employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise.
+(b) Subsection 2(1) of the CPP provides as follows:
+“employment” means the state of being employed under an express or implied contract of service or apprenticeship, and includes the tenure of an office.
+[11] The leading case on this issue is Wiebe Door Services Ltd. v. M.N.R.[2] which was confirmed by the Supreme Court of Canada in 671122 Ontario Ltd. v. Sagaz Industries Canada Inc.[3] The question is always whether or not the person “is performing [the services] as a person in business on his own account”.[4] Sagaz summarizes the test enunciated in Wiebe Door as follows:
+. . . In making this determination, the level of control the employer has over the worker’s activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker’s opportunity for profit in the performance of his or her tasks.
+It bears repeating that the above factors constitute a non-exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case.[5]
+[Emphasis added.]
+[12] In addition to these factors, the subjective intention of the parties must also be considered. Where one can establish a common intent of the parties with regard to the type of working relationship they wished to establish, this intent must be considered in the Court’s analysis of the foregoing factors.
+[13] It is important to bear in mind, however, that the intention of the parties is only relevant to the extent that it is reflected in the facts of the case. The subjective intention of the parties is not determinative on its own. Justice Mainville of the Federal Court of Appeal made the following clarification in 1392644 Ontario Inc. o/a Connor Homes v. Minister of National Revenue:[6]
+37 . . . the legal status of independent contractor or of employee is not determined solely on the basis of the parties[’] declaration as to their intent. That determination must also be grounded in a verifiable objective reality.
+[14] Connor Homes mandates a two-step analysis. First, the intention of the parties must be ascertained in order to determine what kind of relationship they wished to create. In the light of that intent, the second step is to analyze the facts of the case to determine whether the expression of the parties’ intent conforms to the objective reality of their relationship. In this second step, the Court must apply the four Wiebe Door factors, namely: (i) control, (ii) ownership of tools, (iii) chance of profit and (iv) risk of loss, to determine whether the factual reality reflects the subjective intention of the parties.
+A. Intention of the Parties [15] In light of the foregoing, I must first determine whether the parties intended to enter into a contract of service, indicating an employee‑employer relationship, or a contract for services, which indicates an independent contractor relationship.
+[16] From the evidence, it is clear that the Appellant desired to employ the Workers under independent contractor arrangements. The question is whether the Workers agreed with this characterization of the relationship.
+[17] The evidence shows that the Appellant treated the Workers as independent contractors. The Workers did not receive sick or vacation pay, and no payroll deductions were made from their earnings.
+[18] For the most part, the Workers appear to have accepted their status as independent contractors. Only 10 of the Workers took the position that they were employees. Five witnesses appearing on behalf of the Appellant confirmed that their position was that of independent contractors. They also confirmed that it was the Appellant’s practice to cause newly hired Workers to sign independent contractor agreements. I have no reason to believe that the other Workers did not accept their status as independent contractors.
+[19] Therefore, considering the evidence as a whole, I am satisfied that the Workers intended to be independent contractors. The 10 Workers who allegedly questioned their status as independent contractors did not testify. I infer from the evidence that they were hired as independent contractors and chose to contest their status after the fact.
+B. Wiebe Door/Sagaz Factors (1) Control [20] Control, in the context of distinguishing employees from independent contractors, is often defined as the ability or right of a payer to exercise control over how a worker performs his duties. The more control the payer has over its personnel, the more the relationship will resemble that of employer-employee. Similarly, the more independence workers enjoy in determining how they will execute their tasks, the more they will appear to be in business for themselves.
+[21] The Appellant argues that the Workers were not subject to its direction and control because the evidence shows the following:
+(a) The Workers could choose their own work schedule under the Appellant’s flexible work arrangement policy;
+(b) The Workers were not required to work exclusively for the Appellant;
+(c) The Workers were subject to minimum direction and control; and
+(d) The Workers rarely attended at the Appellant’s office.
+[22] In my opinion, the fact that the Workers enjoyed flexible work arrangements does not preclude a finding that they were subject to the direction and control of the Appellant. Flexible work arrangements are often implemented as a means of retaining workers who wish to work on a part-time basis or who strive to maintain a better work‑life balance. Such arrangements are becoming more of a norm for sales personnel who do not maintain a work space at their employer’s office.
+[23] In the instant case, the documentary evidence contradicts the Appellant’s witnesses’ testimony that the field agents were free to determine how they performed their functions. Four of the five service agreements filed as exhibits were between the Appellant and a financial institution. Each of the agreements required the Appellant to ensure that its field agents underwent security checks, were properly trained, followed procedures for completing and submitting customer applications and maintained confidentiality of client information.
+[24] Michael Prestia was called by the Appellant to testify. During the period at issue during these appeals, he worked with CIBC as the manager of direct acquisitions and oversaw CIBC’s relationship with the Appellant. He testified that CIBC enforced a strict ethical sales policy that required field agents to provide potential customers with full disclosure with regard to the credit cards that they were hired to promote. If a field agent failed to comply with the policy, the field agent would be barred from promoting CIBC products. All of the banks employed mystery shoppers to ensure that the field agents assigned to their credit card programs complied with their sales policies.
+[25] The banks also required that field agents be exclusive to their campaigns. In other words, a field agent could not simultaneously promote financial products for competing banks. If a campaign was terminated, the field agents were precluded from joining a competing campaign during a cooling-off period.
+[26] Other evidence supports the conclusion that the field agents were under the direction and control of the Appellant. For example, the program managers’ responsibilities included “hiring, firing and training employees; planning, assigning, and directing work; appraising performance; rewarding and disciplining employees; addressing complaints and resolving issues.”[7] This description of responsibilities suggests that the program managers’ tasks included training and hiring field agents and disciplining them if they failed to execute their duties properly.
+[27] The evidence shows that the managers did in fact perform these duties. For example, in an e-mail dated July 5, 2010, Mr. Syed, a program manager for the Appellant, listed the sales averages of the field agents who reported to him, and commented on their performance. He rebuked the agents who had recruited an insufficient number of new clients and praised those who appear to have hit targets set for them. Mr. Syed also pointed out that some of the agents submitted incomplete customer applications and that he would penalize them if they continued to make mistakes. The evidence shows that the Appellant’s program managers shared in the commissions earned by the Appellant for new customers enrolled by field agents working under the programs that they managed. I infer that this is why Mr. Syed was preoccupied with the performance of the field agents who reported to him. His compensation structure was designed to encourage him to monitor and maximize the sales performance of his team members.
+[28] Shreeti Karki, who was called as a witness by the Appellant, also confirmed that the program managers supervised their field agents’ performance. For example, she acknowledged that she was trained by her manager, Saad Dastagir. She testified that he would visit her work location frequently throughout the period she worked for the Appellant. Ms. Karki confirmed that she was required to attend BMO training sessions at the Appellant’s office and that she would advise her manager when she began and finished her shift.
+[29] The evidence also shows that the Appellant’s clients measured the Appellant’s sales performance by tracking the acquisition cost per new customer enrolled under their agreements with the Appellant. The acquisition cost per new customer represents the amount of money paid to the Appellant by its client plus incidental costs, divided by the total number of customers enrolled over the period. As the Appellant’s business grew substantially over the period under review, I infer that it did so because the Appellant took steps to meet or exceed its clients’ expectations with respect to this important metric. If enrolment of new customers fell, the client’s acquisition cost per new customer would rise. I surmise that this would have jeopardized the Appellant’s chances of having its contract renewed. In my opinion, the Appellant could not afford to adopt a lax approach towards how their field agents accomplished their customer enrolment duties.
+[30] On balance, the control factor favours the conclusion that there was an employer-employee relationship.
+C. Tools [31] The evidence shows that few tools were used by the field agents to perform their duties. With respect to the service agreements with the banks, the kiosks, marketing material and application forms were provided by the banks to the Appellant. The Appellant then arranged to provide this material to its field agents without charge. The field agents would often use their own cell phones to communicate with the program managers to whom they reported.
+[32] In light of the fact that the Appellant arranged for the marketing material, application forms and kiosks, when used, to be supplied to the field agents, this factor is indicative of a contract of service.
+D. Chance of Profit and Risk of Loss [33] For the most part, a field agent’s compensation mirrored the fee arrangement negotiated between the Appellant and the client. The Appellant earned an hourly rate and commissions for accepted customer applications under a particular program. The Appellant then shared part of the hourly rate and commissions with its field agents assigned to that program. Program managers, whom the Appellant now concedes were employees, were remunerated on a similar basis with the exception that the commissions that they earned were based on the accepted customer applications for the sales teams that reported to them.
+[34] Under the Appellant’s agreement with one client, MBNA, field agents staffing the program had to be employees. It is noteworthy that the Appellant’s fee arrangement with MBNA and the compensation arrangement established for field agents employed in that program were similar to those in the Appellant’s agreements with other banks. Likewise, the description of the Appellant’s supervisory duties under the MBNA agreement is similar to the description of its supervisory duties under the agreements with other banks.
+[35] Michael Moore testified that he negotiated his rate of pay with the Appellant. It appears from the evidence that Mr. Moore’s relationship with the Appellant was unique among field agents However, in my opinion, it is not uncommon for more highly skilled workers to negotiate their pay. This does not mean that they are independent contractors.
+[36] The field agents invested no capital in order to earn their compensation. They were paid an hourly rate plus commission. Therefore, they did not have a risk of loss.
+[37] Michael Kuipers and Neil Spivack, shareholders of the Appellant, claimed that Workers were able to subcontract their services. The evidence does not support this allegation. The field agents had to be trained under the program they were assigned to. They had to be familiar with how to complete the customer applications and with the client’s product disclosure policies. The independent contractor agreement barred field agents from soliciting other workers to terminate their relationship with the Appellant. Field agents had to undergo a security check.
+[38] Ms. Karki stated that when she was sick she informed her program manager, who arranged to get a replacement.
+[39] The evidence also shows that the program managers were responsible for hiring field agents. Because their compensation structure was based on the performance of the team they supervised, I doubt that program managers would have allowed field agents to subcontract their duties. Mr. Moore claimed he subcontracted out some of his shifts, but it was unclear whether he arranged to be replaced by field agents already employed by the Appellant.
+[40] Finally, there is no evidence in the record to suggest that any field agents other than Mr. Moore actually subcontracted their duties.
+[41] On balance, I find that this factor is indicative of a contract of service.
+IV. Conclusion [42] Each of the parties marshalled a number of cases, as is typical for these types of appeals. They submit that the appeals in those cases and the present appeals raise common issues and that the appeals in those cases have facts similar to those in this appeal. Suffice it to say that the application of the Wiebe Door factors requires a determination of what the objective reality of the parties’ relationship is, which is largely a fact‑finding exercise and is thus case-specific. None of the cited cases are determinative of this question.
+[43] On balance, the Wiebe Door/Sagaz factors favour a finding that the field agents were employees of the Appellant. The objective reality of the situation is that the Appellant had significant control over these Workers. When considered as a whole, the facts and evidence before the Court indicate that the Workers were not in business on their own account. Accordingly, I find that the field agents were not performing their services as independent contractors notwithstanding the fact that they may have entered into independent contractor agreements stating otherwise. The intention that the field agents would be independent contractors was not reflected in the objective reality of their working relationship with the Appellant and therefore cannot prevail. For these reasons, I would dismiss the appeals with respect to all of the workers in question herein.
+Signed at Calgary, Alberta, this 20th day of February 2015.
+“Robert J. Hogan”
+Hogan J.
+CITATION:
+2015 TCC 47
+COURT FILE NOS.:
+2010-3302(EI), 2010-3304(CPP)
+2011-1040(CPP), 2011-1041(EI)
+2011-1366(EI), 2011-1367(CPP)
+2011-3734(CPP), 2011-3736(EI)
+2011-3246(CPP), 2011-3249(EI)
+STYLE OF CAUSE:
+PARETO CORPORATION BY ITS TRUSTEE IN BANKRUPTCY, KPMG INC. v. THE MINISTER OF NATIONAL REVENUE AND LING CHENG
+PARETO CORPORATION BY ITS TRUSTEE IN BANKRUPTCY, KPMG INC. v. THE MINISTER OF NATIONAL REVENUE
+PARETO CORPORATION BY ITS TRUSTEE IN BANKRUPTCY, KPMG INC. v. THE MINISTER OF NATIONAL REVENUE AND SALIMA A. DAOUD AND EUGENE AFESE AKONDENG
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+October 20, 21, 22 and 23, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT:
+February 20, 2015
+APPEARANCES:
+Counsel for the Appellant:
+Louise Summerhill
+Counsel for the Respondent:
+Samantha Hurst
+For the Intervenors in files 2010-3302(EI), 2010-3304(CPP),
+2011-3246(CPP), 2011-3249(EI)
+The Intervenors themselves
+COUNSEL OF RECORD:
+For the Appellant:
+Louise Summerhill
+Firm:
+Aird & Berlis LLP
+Toronto, Ontario
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+For the Intervenors:
+[1] Vern, Krishna, The Fundamentals of Income Tax Law (Toronto: Carswell, 2009).
+[2] [1986] 3 F.C. 553.
+[3] [2001] 2 S.C.R. 983, 2001 SCC 59.
+[4] Ibid., at para. 47.
+[5] Ibid., at paras. 47 and 48.
+[6] 2013 FCA 85.
+[7] Exhibit R-1, Respondent's Book of Documents at Tab 4, p.11 of 23.

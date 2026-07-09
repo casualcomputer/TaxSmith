@@ -1,0 +1,120 @@
+Title: Vincent c. Canada (Emploi et Développement social)
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/304082/index.do
+Corpus path: corpus/cases/tcc/2017/2017-cci-254-304082-vincent-c-canada-emploi-et-d-veloppement-social-fr.md
+Document type: case_law
+Last modified: 2017-12-19
+
+# Vincent c. Canada (Emploi et Développement social)
+
+- Citation: 2017 CCI 254
+- Decision date: 2017-12-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7901, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vincent c. Canada (Emploi et Développement social)
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-12-19
+Référence neutre
+2017 CCI 254
+Numéro de dossier
+2017-902(OAS)
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Loi sur la sécurité de la vieillesse
+Contenu de la décision
+Dossier : 2017-902(OAS)
+ENTRE :
+VIRGINIA VINCENT,
+appelante,
+et
+LE MINISTRE, EMPLOI ET DÉVELOPPEMENT SOCIAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur le fondement des observations écrites des parties dues le 30 novembre 2017, découlant d’un appel qui a débuté à Edmonton (Alberta)
+Devant : L’honorable juge Randall S. Bocock
+Comparutions:
+Représentant l’appelante :
+M. Al Tywoniuk
+Avocat de l’intimé :
+Me Allan Mason
+JUGEMENT
+CONFORMÉMENT aux motifs du jugement ci-joints, l’appel portant sur la détermination du revenu de l’appelante par le ministre d’Emploi et Développement social est rejeté au motif que l’inclusion du paiement forfaitaire de 11 683,00 $ dans le calcul du revenu total pour 2014 et dans le calcul du revenu aux fins de déterminer l’admissibilité de l’appelante au supplément de revenu garanti était appropriée.
+Signée à Ottawa, Canada, ce 19e jour de décembre 2017.
+“R.S. Bocock”
+Juge Bocock
+Référence : 2017 CCI 254
+Date : 20171219
+Dossier : 2017-902(OAS)
+ENTRE :
+VIRGINIA VINCENT,
+appelante,
+et
+LE MINISTRE, EMPLOI ET DÉVELOPPEMENT SOCIAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bocock
+I. Introduction et faits [1] Le ministre d’Emploi et Développement social (« ministre ») a refusé à Virginia Vincent (« Mme Vincent ») des prestations du supplément de revenu garanti (« SRG ») pour la période allant du mois de juillet 2015 au mois de juin 2016. Le ministre a procédé ainsi après avoir recalculé son revenu aux fins du SRG pour l’année de référence 2014. Ce nouveau calcul a suivi la nouvelle cotisation émise par l’Agence du revenu du Canada (« ARC ») portant sur le revenu de Madame Vincent pour l’année de base 2014 (« l’année de base »). L’ARC a ajouté un montant supplémentaire à titre d’autres pensions/pensions de retraite en tant que montant forfaitaire. Ceci a eu pour effet d’augmenter le revenu de Madame Vincent provenant de cette source de revenu pour l’année de base de 2 356,00 $ à 14 039,00 $ et d’augmenter son revenu total à 35 553,00 $ (« revenu total »).
+[2] L’année de référence est utilisée par le ministre afin de déterminer si le revenu de Madame Vincent est sous le seuil de revenu permettant le paiement d’une prestation du SRG pour la période de paiement subséquente. Le ministre affirme que la somme forfaitaire a eu pour effet d’augmenter le revenu de Madame Vincent au-delà du seuil maximal aux fins du SRG, ce qui a eu comme conséquence de rendre Madame Vincent inadmissible aux prestations du SRG. La décision du ministre inclut une détermination de revenu. Ainsi, lorsque Madame Vincent s’est prévalue de son droit d’appel, le Tribunal de la sécurité sociale a renvoyé cette affaire devant notre Cour aux termes de la Loi sur la sécurité de la vieillesse, L.R.C., 1985, ch. O-9 (LSV).
+[3] L’ARC a émis une nouvelle cotisation suite à la réception des formulaires T1198 (État d’un paiement forfaitaire rétroactif admissible) et T4A de la Alberta Pensions Services Corporation indiquant que Madame Vincent avait reçu une prestation de retraite forfaitaire supplémentaire en 2014.
+[4] Sur la base de ces formulaires T1198 et T4A, l’ARC a modifié le revenu total de Madame Vincent. De plus, l’ARC a appliqué l’article 110.2 de la Loi de l’impôt sur le revenu, L.R.C. 1985, ch.1, telle que modifiée (LIR). Cet ajustement discrétionnaire a alloué la portion de 9 326,00 $ de la somme forfaitaire à des années d’imposition avant 2014 aux fins de calculer l’impôt payable. Par conséquent, Madame Vincent n’a pas payé d’impôt sur le revenu sur ce montant réalloué en 2014. Toutefois, le revenu total de Madame Vincent en 2014 n’a pas été modifié par l’ARC. L’ajout de la somme forfaitaire en 2014 a un effet direct sur le calcul du revenu aux fins des prestations de la SRG. Ce qui donne lieu au présent appel devant la Cour.
+[5] En ce qui a trait à la façon dont devrait se dérouler cette audience, le représentant de Madame Vincent a demandé que cet appel se fasse sur la foi d’observations écrites, et ce, en raison des problèmes de santé persistants de Madame Vincent. Par requête adressée à la Cour et conformément à la discrétion qui est accordée par les règles pertinentes, l’audience s’est déroulée sur la base d’observations écrites. La période pour fournir des observations écrites a pris fin le 30 novembre 2017. Par conséquent, la Cour s’apprête à rendre sa décision sur la foi des observations reçues.
+(a) Question en litige [6] La question primordiale devant la Cour est de déterminer si le ministre a bien calculé le revenu de Madame Vincent pour l’année de référence (2014) aux fins de calculer ses prestations du SRG pendant la période de paiement.
+(b) Faits supplémentaires [7] Le T1198 qui a été préparé par les fonctionnaires des pensions de l’Alberta Pensions Services Corporation le 25 septembre 2014 a indiqué la somme de 11 683,39 $ comme étant un « paiement forfaitaire rétroactif ». Le T1198 a également étalé le paiement forfaitaire total sur quatre ans : 12,56 $ en 2011, 4 634,88 $ en 2012, 4 679,40 en 2013 et (par le biais d’une entrée inscrite à la main) 2 356,56 $ en 2014. Le T4A correspondant a consigné la somme de 14 039,95 $ comme étant des prestations de pensions ou de pensions de retraite, soit un montant supérieur de 2 356,00 $ à celui consigné dans le T1198. Puisque ces montants divergents ont un effet sur la détermination du revenu total pour 2014, la Cour tentera de régler ce différend plus loin dans ses motifs.
+II. Le droit : calculer le revenu « admissible » aux fins du SRG a) La période à calculer [8] La période de calcul n’est pas contestée. L’année civile de référence est 2014 et la période de paiement va du mois de juillet 2015 au 30 juin 2016 : la LSV, à l’article 10.
+b) Calcul du revenu aux fins du SRG : ce qui doit être inclus et ce qui doit être exclu. [9] Les exigences portant sur l’inclusion des montants à inclure dans le calcul du revenu aux fins du SRG sont prévues à la LSV et aux Règlements. Ces règles prévoyant le calcul du revenu à ces fins diffèrent de celles prévues à la LIR bien qu’elles y fassent référence.
+[10] L’article 2 de la LSV définit le revenu d’un retraité comme étant le revenu calculé en vertu de la LIR. La LIR, de par l’alinéa 56(1)a)(i), prévoit l’inclusion des prestations de retraite :
+ARTICLE 56 : Montants à inclure pour l’année
+56(1) Sans préjudice de la portée générale de l’article 3, sont à inclure dans le calcul du revenu d’un contribuable pour une année d’imposition,
+Les prestations de retraite, les prestations d’assurance-chômage, etc.
+(a) toute somme reçue par le contribuable au cours de l’année au titre, ou en paiement intégral ou partiel :
+(i) d’une prestation de retraite ou de pension, y compris, sans préjudice de la portée générale de ce qui précède,
+…
+(C) tout paiement versé dans le cadre d’un régime de pension déterminé …
+[11] Afin de calculer le revenu d’une personne aux fins de la Loi sur la SV et aux fins des prestations du SRG, il est nécessaire de suivre une démarche précise. La LSV renvoie un contribuable à la LIR. La LIR fournit une orientation générale portant sur les montants de pension à inclure. Aux fins du SRG, il est nécessaire de se tourner vers la LSV et les Règlements. Le calcul du revenu aux fins du SRG est alors effectué. Si le revenu d’un contribuable excède le seuil maximal permis, les prestations du SRG ne sont pas versées.
+(c) Les observations de Madame Vincent [12] Le représentant de Madame Vincent fait valoir plusieurs arguments à l’appui de sa prétention que le montant forfaitaire devrait être exclu du revenu admissible aux fins du SRG. Ces représentations peuvent être résumées ainsi :
+(i) La somme de 9 325,00 $ ne devrait pas être incluse dans le revenu total pour l’année de référence parce qu’elle découle de montants forfaitaires versés en 2014, mais qui sont attribuables à des années antérieures; (ii) Malgré le fait que l’ARC a augmenté le revenu total d’un montant de 14 039,00 $, elle a néanmoins « réduit le revenu de Madame Vincent pour l’année 2014 d’un montant de 9 325,00, soit le montant du paiement qui est attribuable à des années antérieures »; (iii) Il est clair que le T1198 attribue la somme de 9 325,00 $ aux années d’imposition 2011, 2012 et 2013; (iv) Le montant des prestations du SRG qui a été refusé représente une somme considérable pour Madame Vincent et constitue un fardeau financier pour elle. III. Discussion et décision [13] Les opinions et les sentiments du représentant de Madame Vincent correspondent à ceux de plusieurs autres qui se présentent devant notre Cour concernant la question du calcul du revenu aux fins du SRG. Ils prétendent que le revenu aux fins du SRG devrait être fondé sur le revenu imposable et non sur le revenu total. C’est malheureusement le contraire qui doit se produire. Bien que certains ajustements soient permis au revenu total (revenu de la Partie I, Division B) aux fins de la détermination du SRG, les paiements de pension forfaitaires rétroactifs n’en font pas partie : Gaisford c. Canada (Ministre des Ressources humaines et du Développement des compétences), 2011 CAF 28, au paragraphe 4. Madame Vincent n’a pas eu à payer d’impôt sur les paiements forfaitaires rétroactifs, car, bien qu’ils soient inclus dans le calcul du revenu total, ces paiements pourraient constituer une déduction du revenu imposable dans le cas où l’article 110.2 de la LIR s’appliquerait. Cette réattribution discrétionnaire du ministre se fait au niveau du revenu imposable. Toutefois, le fait qu’une portion de la somme forfaitaire ne soit pas incluse dans le calcul du revenu imposable pour une année donnée ne signifie pas qu’elle est exclue du revenu total. Plutôt, le calcul du revenu imposable (Partie I, Division C) et la déduction d’une partie d’un paiement de pension forfaitaire rétroactif ne sont pas pertinents aux fins de calculer le revenu total (Partie I, Division B) et le revenu aux fins du SRG : Burchill c. SMR, CAF 145 aux paragraphes 4 et 5.
+[14] Pour ce motif d’appel précis, Madame Vincent ne peut avoir gain de cause. En résumé, elle n’a pas payé d’impôt sur la portion de la somme forfaitaire payée en 2014 en raison de la déduction prévue à l’article 110.2, mais elle doit l’inclure dans le calcul du revenu total pour 2014 aux fins du SRG. L’ARC a bien illustré ceci dans l’avis de nouvelle cotisation qui fait la distinction entre les montants initiaux de revenu total et de revenu imposable pour 2014 et les montants révisés : 35 353,00 $ en hausse de 23 870,00 $ contre 20 366,00 $ en hausse de 18 008,00 $. Puisque les prestations du SRG sont établies sur le revenu total (sujettes à certaines exclusions) et non le revenu imposable, les montants déterminés sont généralement exacts.
+[15] En ce qui concerne la dernière question portant sur la prétention de Madame Vincent qu’il y aurait eu une double prise en compte, il n’est pas clair qu’il y ait une erreur dans le calcul du revenu total pour 2014. En 2014, le montant de 2 356,56 $ qui apparaissait en tant que « paiement forfaitaire rétroactif admissible » était initialement inclus dans sa déclaration de revenu en tant que revenu de pension pour 2014.
+[16] Soit dit en passant, ce montant est égal au montant qui est payé en 2014 en tant que somme forfaitaire rétroactive. Qui plus est, il s’agit de la moitié des montants payés en tant que paiements forfaitaires rétroactifs en 2012 et en 2013. Le total du montant de 2 356,56 $ indiqué dans la note manuscrite et du montant déclaré initialement est égal au montant total des paiements forfaitaires rétroactifs pour 2012 et 2013. À la lumière de la preuve présentée, la Cour ne peut déterminer ce qui est exact. Le montant de 2 356,56 $ indiqué sur le T1198 et sur le T4A doit-il s’ajouter au montant déjà reçu et déclaré par Madame Vincent? Si oui, ses prestations de retraite pour 2014 seraient alors égales aux paiements forfaitaires de 2012 et de 2013. Autrement, le montant de 2 356,56 $ est-il compté en double? Heureusement, une telle erreur serait sans conséquence. La marge d’erreur ne fait aucune différence en ce qui a trait au calcul du seuil du revenu maximal aux fins des prestations du SRG. Dans le cas contraire, la Cour aurait demandé des renseignements supplémentaires et aurait pris une décision. Toutefois, même si la somme avait été prise en compte deux fois, le revenu de Madame Vincent serait toujours au-delà du seuil maximal aux fins des prestations du SRG. Par conséquent, la Cour n’a pas à faire suite à la demande pour des renseignements supplémentaires pour rejeter cette dernière affirmation.
+[17] Pour les motifs précités, l’appel est rejeté sans dépens. Sur la base du T4A daté du 25 septembre 2014 et reçu par l’ARC de la Alberta Pension Services Corporation et sur la base des autres montants de revenus, la détermination du revenu aux fins des prestations du SRG par le ministre était correcte.
+Signé à Ottawa (Canada), ce 19e jour de décembre 2017.
+« R.S. Bocock »
+Juge Bocock
+RÉFÉRENCE :
+2017 CCI 254
+DOSSIER DE LA COUR :
+2017-902(OAS)
+INTITULÉ :
+VIRGINIA VINCENT ET LE MINISTRE DE L’EMPLOI ET DU DÉVELOPPEMENT SOCIAL
+LIEU DE L’AUDIENCE :
+Edmonton (Alberta)
+DATE DE L’AUDIENCE :
+Le 30 novembre 2017
+MOTIFS DU JUGEMENT :
+L’honorable juge Randall S. Bocock
+DATE DU JUGEMENT :
+Le 19 décembre 2017
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Al Tywoniuk
+Avocat de l’intimé :
+Me Allan Mason
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+[BLANK / EN BLANC]
+Cabinet :
+[BLANK / EN BLANC]
+Pour l’intimé :
+Nathalie G. Drouin
+Sous-procureur général du Canada
+Ottawa, Canada

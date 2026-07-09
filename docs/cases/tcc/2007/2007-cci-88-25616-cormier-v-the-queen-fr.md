@@ -1,0 +1,203 @@
+---
+title: "Cormier v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25616/index.do"
+last_modified: "2007-02-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 88"
+citation2: ""
+neutral_citation: "2007 CCI 88"
+decision_date: "2007-02-19"
+language: "fr"
+item_id: "25616"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2423
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:57:19.178000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "82053e46b00b09251ee2928e861776b0d6f966ce61b43044b8b28709cb00c4b9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Cormier v. The Queen
+
+- Citation: 2007 CCI 88
+- Decision date: 2007-02-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2423, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cormier v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-02-19
+Référence neutre
+2007 CCI 88
+Numéro de dossier
+2003-4404(IT)G
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-4404(IT)G
+ENTRE :
+JOANNE CORMIER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 20 juin 2006, à Moncton (Nouveau‑Brunswick).
+Devant : L’honorable juge François Angers
+Comparutions :
+Avocat de l’appelant :
+Me Guy G. Couturier
+Avocate de l’intimée :
+Me Carole Benoit
+JUGEMENT
+Les appels interjetés à l’égard des cotisations établies en application de la Loi de l’impôt sur le revenu pour les années d’imposition 1997, 1998, 1999 et 2000 sont rejetés, avec dépens, conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 19e jour de février 2007.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 3e jour de janvier 2008
+Mario Lagacé, jurilinguiste
+Référence : 2007CCI88
+Date : 20070219
+Dossier : 2003-4404(IT)G
+ENTRE :
+JOANNE CORMIER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Il s’agit d’un appel concernant les années d’imposition 1997, 1998, 1999 et 2000 de l’appelante. Cette dernière a initialement fait l’objet d’une cotisation le 2 avril 2001, pour l’année d’imposition 2000, et le 14 juin 2001, pour les années d’imposition 1997, 1998 et 1999. Une nouvelle cotisation a été établie à l’égard de l’appelante le 3 avril 2003, pour les quatre années d’imposition. Le ministre du Revenu national (le « ministre ») a inclus des versements de pension alimentaire pour enfants s’élevant à 5 700 $ pour les années 1997, 1998 et 1999 et à 2 850 $ pour l’année 2000 dans le revenu de l’appelante parce que cette dernière avait omis d’en faire état dans ses déclarations de revenus. L’appelante a également fait l’objet d’une cotisation au titre de pénalités pour production tardive répétée relativement à ses années d’imposition 1997, 1998 et 1999. L’appelante a produit un avis d’opposition et les nouvelles cotisations ont été ratifiées par le ministre le 9 septembre 2003.
+[2] L’appelante et Roger Poirier se sont mariés le 21 juillet 1984. Ils ont eu un enfant, qui est né le 17 juillet 1989. Ils se sont séparés le 9 août 1996, et ils ont tous deux rencontré un médiateur de la Division de la famille de la Cour du Banc de la Reine du Nouveau‑Brunswick pour discuter de la garde, des droits de visite et de la pension alimentaire pour l’enfant. Le 7 novembre 1996, ils ont signé une entente selon laquelle ils avaient la garde conjointe de leur enfant et la résidence principale de ce dernier serait celle de sa mère. Ils ont également convenu que l’entente signée ferait l’objet d’une ordonnance judiciaire. Le 20 novembre 1996, la Division de la famille de la Cour du Banc de la Reine du Nouveau‑Brunswick a rendu une ordonnance conforme à l’entente écrite du 7 novembre. Le paragraphe pertinent relatif à la pension alimentaire est ainsi rédigé :
+L’intimé, Roger Poirier, paiera le montant de $ 475.00 par mois envers le soutien de J.P., payable directement à la requérante, le 1er de chaque mois, à partir du 1er novembre, et ce jusqu’à ordonnance contraire de la Cour. Le montant de soutien sera revisé le ou vers le 1er mai 1997.
+[3] D’après l’appelante, la dernière phrase du paragraphe susmentionné a été libellée de cette façon pour tenir compte des nouvelles lignes directrices devant être formulées en mai 1997. Roger Poirier a commencé à faire les versements le 1er décembre 1996 et, selon l’appelante, son dernier versement a été effectué le 1er mai 1997. L’appelante affirme qu’il ne faisait jamais ses versements le premier jour de chaque mois et que les paiements étaient souvent effectués en deux versements. Elle a en outre déclaré dans son témoignage que son mari et elle avaient convenu verbalement que les versements postérieurs à mai 1997 devaient être effectués en conformité avec les nouvelles lignes directrices, et qu’elle recevait en moyenne 375 $ par mois, somme qui englobait le remboursement des frais de garde de jour.
+[4] L’appelante a retenu les services d’un avocat en mars 1997. Dans une lettre qu’elle a écrite à l’avocat de M. Poirier le 24 mars 1997, l’avocate de l’appelante signale que les questions de la garde, de la pension alimentaire et du partage des dettes et des biens matrimoniaux ainsi que de la résidence familiale avaient fait l’objet d’une entente. La seule question à trancher était celle du partage de la pension dont l’appelante bénéficiait auprès de son employeur. Une offre a été présentée à cet égard. Elle était accompagnée d’une demande voulant qu’un accord de séparation soit rédigé de manière à notamment prévoir que les questions de la garde et des aliments soient réglées en conformité avec l’ordonnance par consentement du 20 novembre 1996. L’avocat de M. Poirier a répondu le 1er mai. Sa lettre touche à d’autres points litigieux, mais ne fait nullement état de la pension alimentaire pour l’enfant, sauf en ce qui concerne l’engagement de M. Poirier à souscrire à une assurance‑vie dont le produit devait être détenu en fiducie et devait servir à payer les pensions alimentaires pour l’enfant dans l’éventualité de son décès. Les deux parties se sont subséquemment entendues sur ces autres questions. Le 10 juillet 1997, l’avocat de M. Poirier a de nouveau écrit à l’avocate de l’appelante. Il souhaitait cette fois l’informer qu’il s’occupait d’obtenir de M. Poirier les renseignements financiers nécessaires relatifs au revenu de ce dernier de sorte que la question de la pension alimentaire puisse être tranchée conformément aux nouvelles lignes directrices.
+[5] L’appelante a signé un contrat familial (accord de séparation) le 21 juillet 1997. Dans la lettre accompagnant le contrat, son avocate fait mention de la pension alimentaire pour enfants et elle demande que les déclarations de revenus de M. Poirier pour les trois années antérieures lui soient envoyées. Elle propose en outre que les frais de garde de jour s’élevant à 75 $, qui avaient jusque‑là été payés intégralement par l’appelante, soient payés en parts égales par les deux parties, et elle réitère que la pension alimentaire devra être fixée en conformité avec les nouvelles lignes directrices. Le contrat familial a été signé par M. Poirier le 28 août 1997. La lettre d’accompagnement adressée par l’avocat de M. Poirier à l’avocate de l’appelante donne des renseignements sur les déclarations de revenus de M. Poirier de 1994 à 1996 et sur le taux de salaire de ce dernier à ce moment‑là. Il demande à l’avocate de lui confirmer que l’appelante consentirait au montant de pension alimentaire « prévu par la table », à la vente de la maison, à l’acquittement de toutes les dettes exigibles et au divorce définitif.
+[6] Le contrat familial est libellé de la façon suivante sous la rubrique intitulée [TRADUCTION] « Garde » :
+[TRADUCTION]
+Convenu en conformité avec l’ordonnance par consentement du 20 novembre 1996 qui est jointe aux présentes à l’annexe « A ».
+[7] Le 19 mai 1998, l’appelante a signé une requête en divorce. Dans la partie traitant des arrangements existants pris par les époux au sujet de l’enfant, l’appelante déclare qu’elle reçoit 475 $ par mois (imposable) pour l’enfant et que les arrangements relatifs à la pension alimentaire sont respectés. Elle demande que cette somme soit réduite à 345 $ par mois, mais libre d’impôt. La requête a toutefois été signifiée à l’avocat de M. Poirier le 6 mai 1999, soit presque un an plus tard. L’appelante a reçu de son avocate une lettre datée du 14 mai 1999 l’informant que l’avocat de M. Poirier avait reçu sa requête et qu’il demanderait à M. Poirier de signer une ordonnance par consentement de sorte que la pension alimentaire payable pour l’enfant soit conforme aux tables de pensions alimentaires.
+[8] Dans une autre lettre adressée à l’avocat de M. Poirier, le 31 août 1999, l’avocate de l’appelante demande qu’on lui confirme que M. Poirier acceptait de signer une ordonnance par consentement touchant la pension alimentaire pour enfants, selon laquelle le montant de cette pension serait fixé conformément aux nouvelles lignes directrices en la matière. L’avocat de M. Poirier a répondu le 15 septembre 1999. Cette lettre comporte une offre relative à la pension alimentaire, qui a été communiquée à l’appelante le même jour. Dans une autre lettre envoyée le 30 septembre 1999, l’avocat de M. Poirier propose certains changements concernant les visites auprès de l’enfant et il conclut en mentionnant que M. Poirier fournira des états financiers et des déclarations de revenus et qu’il versera la pension alimentaire pour enfants conformément aux Lignes directrices fédérales sur les pensions alimentaires pour enfants.
+[9] L’avocate de l’appelante a répondu le 4 novembre 1999. Les deux derniers paragraphes de cette lettre sont ainsi libellés :
+[TRADUCTION]
+En ce qui concerne la pension alimentaire pour enfants, vous m’avez mentionné que vous alliez me fournir les états financiers et les déclarations de revenus de votre client et je vous demanderais de me les faire parvenir dans un délai de 7 jours.
+Si je n’ai pas ces documents en ma possession, je n’aurai d’autre choix que de produire le dossier d’instruction afin d’obtenir une date d’audience puisqu’il y a maintenant un certain temps que nous tentons de conclure une entente dans cette affaire.
+[10] Le 10 novembre 1999, l’avocat de M. Poirier a écrit à l’avocate de l’appelante pour lui faire savoir que les parties s’étaient entendues sur la question du droit de visite et que la pension alimentaire serait fixée conformément aux lignes directrices sur le fondement d’un revenu de 39 520 $ par année, mais que la somme serait réduite de 30 pour 100 suivant l’entente des parties. M. Poirier devait en outre payer la moitié de toutes les dépenses supplémentaires liées aux études et aux activités parascolaires de l’enfant et la moitié des frais de garde de jour à l’école. Joint à la lettre se trouvait un état financier fait sous serment par M. Poirier dans lequel figurait un paiement de 475 $ à titre d’une partie de sa dépense mensuelle concernant la pension alimentaire pour enfants ainsi qu’une allocation de 100 $ par mois pour l’enfant. À cette lettre était également jointe la cotisation établie à l’égard de M. Poirier pour son année d’imposition 1996, selon laquelle il avait déduit de son revenu pour cette année‑là une somme de 950 $ au titre de la pension alimentaire pour enfants (l’équivalent de deux mois de pension alimentaire). Elle comprenait aussi ses déclarations de revenus pour 1997 et pour 1998, dans lesquelles il déduisait 5 700 $ à titre de versements de pension alimentaire.
+[11] Dans une autre lettre, datée du 24 janvier 2000, qu’il adresse à l’avocate de l’appelante, l’avocat de M. Poirier signale que leurs clients respectifs ont convenu d’une pension alimentaire pour enfants de 228 $, à savoir 70 pour 100 de 325 $, payable mensuellement. Il propose que les autres dépenses, comme celles engagées au titre de la garde de jour de l’enfant et des activités parascolaires, soient réglées selon les besoins puisque ceux‑ci changent tous les mois et que la communication entre les deux parties est suffisamment bonne pour qu’elles soient en mesure de régler ces questions elles‑mêmes. L’avocate de l’appelante a envoyé cette lettre à sa cliente le 31 janvier 2000 en lui demandant de confirmer si cette proposition lui paraissait acceptable.
+[12] La réponse à la lettre du 24 janvier est parvenue le 28 juin 2000. L’avocate de l’appelante écrit qu’elle a rencontré sa cliente et que cette dernière était disposée à accepter un paiement total de pension alimentaire pour enfants de 350 $, dont 200 $ seraient payables aux termes d’une ordonnance par consentement. Elle demande que l’avocat de M. Poirier rédige le projet d’ordonnance par consentement ainsi qu’une deuxième entente entre les parties, selon laquelle M. Poirier s’engagerait à payer la somme de 100 $ par mois libre d’impôt le premier jour de chaque mois, jusqu’à ce que le tribunal prononce une nouvelle ordonnance.
+[13] Une ordonnance par consentement a été signée par M. Poirier et l’appelante le 18 juillet 2000 et approuvée par la Cour du Banc de la Reine le 25 juillet 2000. L’ordonnance par consentement renvoie notamment à la pension alimentaire pour enfants, à l’ordonnance par consentement signée par les parties et approuvée par ce tribunal le 20 novembre 1996, et au fait que les parties avaient consenti à modifier cette ordonnance par consentement en ce qui touche la pension alimentaire payable par M. Poirier. Les deux parties ont reconnu que la pension alimentaire pour un enfant s’élevait à 339 $ par mois selon les lignes directrices, mais elles ont convenu d’un versement de 250 $ par mois débutant le premier jour de juillet 2000. Les parties ont également confirmé que l’ordonnance par consentement du 20 novembre 1996 s’appliquait toujours, sous réserve des modifications susmentionnées.
+[14] Les parties ont finalement obtenu le divorce le 25 août 2000, et des mesures accessoires ont été prononcées conformément à l’ordonnance par consentement du 18 juillet 2000.
+[15] La première question en litige en l’espèce consiste à savoir si l’appelante était tenue d’ajouter à son revenu, pour les années d’imposition 1997, 1998, 1999 et 2000, les versements de pension alimentaire qu’elle avait reçus de M. Poirier pendant ces années jusqu’en juin 2000 inclusivement.
+[16] Les dispositions législatives applicables qui permettent de décider si le contribuable a l’obligation d’inclure les versements de pension alimentaire pour enfants dans son revenu et si le payeur de la pension alimentaire a le droit de déduire ces versements de son revenu se trouvent aux articles 56, 56.1, 60, 60.1 et 118 de la Loi de l’impôt sur le revenu (la « Loi »). Avant les modifications législatives apportées en 1997, la pension alimentaire pour enfants était considérée comme une source de revenu et elle devait être incluse dans le revenu du contribuable qui la recevait. Les nouvelles dispositions ont éliminé le régime d’inclusion et de déduction pour les pensions alimentaires pour enfants et elles prévoient donc une exonération fiscale pour le contribuable qui les reçoit.
+[17] Avant les modifications, l’alinéa 56(1)b) était libellé de la façon suivante :
+56. (1) Sommes à inclure dans le revenu de l’année
+Sans préjudice de la portée générale de l’article 3, sont à inclure dans le calcul du revenu d’un contribuable pour une année d’imposition :
+[...]
+b) Pension alimentaire – un montant reçu par le contribuable au cours de l’année, en vertu d’une ordonnance ou d’un jugement rendus par un tribunal compétent ou en vertu d’un accord écrit, à titre de pension alimentaire ou autre allocation payable périodiquement pour subvenir aux besoins du contribuable ou d’enfants de celui‑ci ou aux besoins à la fois du contribuable et de ces enfants, si le contribuable, pour cause d’échec de son mariage, vivait séparé de son conjoint ou ancien conjoint tenu d’effectuer le paiement, au moment de la réception du paiement et durant le reste de l’année.
+[18] L’alinéa 56(1)b), qui a été modifié en 1997 et en 1998, est rédigé comme suit :
+Sous-section d – Autres sources de revenu
+56.(1) Sommes à inclure dans le revenu de l’année – Sans préjudice de la portée générale de l’article 3, sont à inclure dans le calcul du revenu d’un contribuable pour une année d’imposition :
+[...]
+b) Pension alimentaire – le total des montants représentant chacun le résultat du calcul suivant :
+A - (B +C)
+où :
+A représente le total des montants représentant chacun une pension alimentaire que le contribuable a reçue après 1996 et avant la fin de l’année d’une personne donnée dont il vivait séparé au moment de la réception de la pension,
+B le total des montants représentant chacun une pension alimentaire pour enfants que la personne donnée était tenue de verser au contribuable aux termes d’un accord ou d’une ordonnance à la date d’exécution ou postérieurement et avant la fin de l’année relativement à une période ayant commencé après cette date,
+C le total des montants représentant chacun une pension alimentaire que le contribuable a reçue de la personne donnée après 1996 et qu’il a incluse dans son revenu pour une année d’imposition antérieure;
+[modifié par L.C. 1998, ch. 19]
+56.(1) Sommes à inclure dans le revenu de l’année ‑ Sans préjudice de la portée générale de l’article 3, sont à inclure dans le calcul du revenu d’un contribuable pour une année d’imposition :
+[...]
+b) Pension alimentaire – le total des montants représentant chacun le résultat du calcul suivant :
+A - (B +C)
+où :
+A représente le total des montants représentant chacun une pension alimentaire que le contribuable a reçue après 1996 et avant la fin de l’année d’une personne donnée dont il vivait séparé au moment de la réception de la pension,
+B le total des montants représentant chacun une pension alimentaire pour enfants que la personne donnée était tenue de verser au contribuable aux termes d’un accord ou d’une ordonnance à la date d’exécution ou postérieurement et avant la fin de l’année relativement à une période ayant commencé à cette date ou postérieurement,
+C le total des montants représentant chacun une pension alimentaire que le contribuable a reçue de la personne donnée après 1996 et qu’il a incluse dans son revenu pour une année d’imposition antérieure;
+[19] Le soulignement ajouté dans la version modifiée de 1998 est mineur et ne visait qu’à signaler la modification apportée en 1997.
+[20] Il n’est pas contesté que, selon l’ordonnance par consentement approuvée par le tribunal le 20 novembre 1996, M. Poirier doit verser à l’appelante une pension alimentaire ou une allocation payable périodiquement pour subvenir aux besoins de l’enfant. Ces paiements étaient manifestement imposables entre les mains de l’appelante en application de l’alinéa 56(1)b) de la Loi. Il s’agit donc de savoir si les circonstances en l’espèce permettent de conclure que les montants de pension alimentaire que l’appelante était en droit de recevoir de M. Poirier constituaient des montants de pension alimentaire pour enfants reçus après 1996 aux termes d’un accord ou d’une ordonnance à la date d’exécution ou postérieurement, lequel accord a été signé après avril 1997, à la condition, bien sûr, que le payeur et le bénéficiaire vivent séparés.
+[21] Les expressions « date d’exécution », « pension alimentaire » et « pension alimentaire pour enfants » sont définies au paragraphe 56.1(4) de la Loi.
+Par. 56.1(4) Définitions – Les définitions qui suivent s’appliquent au présent article et à l’article 56.
+« date d’exécution » Quant à un accord ou une ordonnance :
+a) si l’accord ou l’ordonnance est établi après avril 1997, la date de son établissement;
+b) si l’accord ou l’ordonnance est établi avant mai 1997, le premier en date des jours suivants, postérieur à avril 1997 :
+(i) le jour précisé par le payeur et le bénéficiaire aux termes de l’accord ou de l’ordonnance dans un choix conjoint présenté au ministre sur le formulaire et selon les modalités prescrits,
+(ii) si l’accord ou l’ordonnance fait l’objet d’une modification après avril 1997 touchant le montant de la pension alimentaire pour enfants qui est payable au bénéficiaire, le jour où le montant modifié est à verser pour la première fois,
+(iii) si un accord ou une ordonnance subséquent est établi après avril 1997 et a pour effet de changer le total des montants de pension alimentaire pour enfants qui sont payables au bénéficiaire par le payeur, la date d’exécution du premier semblable accord ou de la première semblable ordonnance,
+(iv) le jour précisé dans l’accord ou l’ordonnance, ou dans toute modification s’y rapportant, pour l’application de la présente loi.
+« pension alimentaire » Montant payable ou à recevoir à titre d’allocation périodique pour subvenir aux besoins du bénéficiaire, d’enfants de celui-ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas :
+a) le bénéficiaire est l’époux ou le conjoint de fait ou l’ex-époux ou l’ancien conjoint de fait du payeur et vit séparé de celui-ci pour cause d’échec de leur mariage ou union de fait et le montant est à recevoir aux termes de l’ordonnance d’un tribunal compétent ou d’un accord écrit;
+b) le payeur est le père naturel ou la mère naturelle d’un enfant du bénéficiaire et le montant est à recevoir aux termes de l’ordonnance d’un tribunal compétent rendue en conformité avec les lois d’une province.
+« pension alimentaire pour enfants » Pension alimentaire qui, d’après l’accord ou l’ordonnance aux termes duquel elle est à recevoir, n’est pas destinée uniquement à subvenir aux besoins d’un bénéficiaire qui est soit l’époux ou le conjoint de fait ou l’ex-époux ou l’ancien conjoint de fait du payeur, soit le père ou la mère d’un enfant dont le payeur est le père naturel ou la mère naturelle.
+[22] L’appelante fait valoir que M. Poirier n’était plus tenu de lui verser la somme de 475 $ par mois à titre de pension alimentaire pour leur enfant parce que cette exigence est devenue caduque en mai 1997. Son argument se fonde sur le fait que l’ordonnance par consentement prévoit clairement cette situation lorsqu’elle énonce que « [l]e montant de soutien sera révisé le ou vers le 1er mai 1997 ». Il s’appuie également sur la conduite des parties en ce que l’appelante affirme que le montant de pension alimentaire mensuel a été réduit après mai 1997 et que la correspondance échangée entre leurs avocats étaye cette assertion. L’appelante invoque en outre la définition du terme « pension alimentaire », laquelle exige que le paiement soit à recevoir aux termes d’un accord écrit ou d’une ordonnance d’un tribunal compétent, et elle laisse entendre qu’il n’y a ni l’un ni l’autre en l’espèce. Quant à la « date d’exécution », l’appelante avance aussi que, comme l’ordonnance par consentement du 20 novembre 1996 a cessé d’exister lorsque les parties ont convenu de se conformer aux nouvelles lignes directrices, la date à laquelle le contrat familial d’août 1997 a pris effet, soit le 28 août 1997, doit être réputée être la « date d’exécution » suivant le sous‑alinéa b)(ii) de la définition du terme « date d’exécution » donnée au paragraphe 56.1(4) de la Loi. À titre subsidiaire, elle fait valoir que la date du 28 août 1997 doit être considérée comme la « date d’exécution » suivant le sous‑alinéa b)(iii) de la définition puisque l’ordonnance par consentement de 1996 a été modifiée par le contrat familial subséquent d’août 1997.
+[23] Certes, dans l’ordonnance par consentement du 20 novembre 1996, les parties ont convenu que le montant de pension alimentaire devait être révisé vers le 1er mai 1997, mais cette ordonnance ne précise pas que l’obligation de M. Poirier de verser une pension alimentaire prendra fin à cette date. En réalité, l’ordonnance par consentement prévoit que la pension alimentaire pour enfants (« le soutien ») est payable jusqu’à ce que le tribunal prononce une ordonnance contraire, et aucune ordonnance de cette nature n’a été rendue par le tribunal avant que le divorce ne soit accordé en juillet 2000. De même, les parties n’ont pas conclu d’accord écrit visant à modifier le montant de pension alimentaire pour enfants que M. Poirier devait verser à l’appelante. Le contrat familial du 28 août 1997 signé par les deux parties renvoie à l’ordonnance par consentement du 20 novembre 1996, et cette ordonnance portait uniquement sur la garde et la pension alimentaire pour enfants. Elle n’avait pas pour effet de modifier l’ordonnance par consentement. Une lecture attentive de la correspondance échangée entre les avocats de l’appelante et de M. Poirier révèle sans équivoque que les parties avaient l’intention de se conformer aux nouvelles lignes directrices, mais qu’elles n’en sont arrivées à un accord relatif au montant à verser que très peu de temps avant la date du divorce. À mon avis, cela montre clairement qu’aucun accord n’était intervenu entre l’appelante et M. Poirier autre que l’engagement, comme l’a reconnu d’emblée l’appelante à l’instruction, de suivre les nouvelles lignes directrices. L’obligation alimentaire, à mon sens, n’est pas devenue caduque en mai 1997; toutes les sommes subséquemment versées l’ont été par suite de l’ordonnance par consentement du 20 novembre 1996 et elles constituaient des montants de pension alimentaire pour enfants imposables entre les mains de l’appelante. Compte tenu de cette conclusion et du fait que le contrat familial de 1997, comme il a simplement maintenu en vie l’ordonnance par consentement du 20 novembre 1996 (voir la clause 6 du contrat familial), a donc laissé inchangé le total des montants de pension alimentaire pour enfants payables, les exigences fixées au sous‑alinéa b)(ii) de la définition du terme « date d’exécution » ne sont pas remplies. Il est toutefois évident que le contrat familial et l’ordonnance par consentement signés par les parties le 18 juillet 2000 ont eu pour effet de modifier le montant de pension alimentaire pour enfants fixé dans l’ordonnance par consentement du 20 novembre 1996. En fait, l’ordonnance de mesures accessoires prononcée par le tribunal le 25 juillet 2000 renvoie aux paragraphes 7 et 8 de l’affidavit de M. Poirier produit dans le cadre de la requête en divorce, lequel affidavit renvoie à son tour à l’ordonnance par consentement du 20 novembre 1996. J’estime que cela satisfait à l’exigence énoncée au sous‑alinéa b)(ii) de la définition de l’expression « date d’exécution ».
+[24] Dans l’éventualité où la présente cour conclurait que les paiements sont imposables entre ses mains, l’appelante soutient qu’elle n’a reçu la somme de 5 700 $ pendant aucune des années d’imposition frappées d’appel. Pour étayer sa position, elle a déclaré dans son témoignage qu’elle avait reçu, en moyenne, une somme de 375 $ par mois. Elle a en outre présenté les états de compte que la Caisse Populaire lui a délivrés pour la période d’octobre 1998 à décembre 2000 afin de montrer que certains dépôts constituaient selon elle des paiements reçus de M. Poirier parce qu’il s’agissait de chiffres ronds. Elle n’a toutefois pas été en mesure d’obtenir les états de compte relatifs à un autre compte. En 1999, l’appelante a reçu 475 $ pour chacun des mois de février, d’avril, de mai et de septembre. Cette somme est identique au montant du paiement mensuel fixé dans l’ordonnance par consentement du 20 novembre 1996. Il ressort en outre que M. Poirier payait en deux versements mensuels, soit un de 275 $ et l’autre de 200 $. Le versement de 275 $ a été fait neuf mois sur douze, ce qui reflète une certaine tendance compatible avec l’ordonnance par consentement. On peut observer cette même tendance en 2000, à l’exception d’un paiement de 475 $ fait en avril 2000. Aucun des états de compte ne montre un paiement mensuel de 375 $.
+[25] Dans son témoignage, l’appelante a également affirmé qu’elle ne savait pas que M. Poirier avait déduit des paiements de pension alimentaire pour enfants de 475 $ par mois de mai 1997 à 2003. Or, l’avocat de M. Poirier a adressé à l’avocate de l’appelante une lettre datée du 10 novembre 1999 (pièce R‑15), dans laquelle se trouve un état financier fait sous serment par M. Poirier selon lequel il engageait une dépense de 475 $ par mois à titre de pension alimentaire; cette lettre comprenait en outre les déclarations de revenus de 1997 et de 1998 de M. Poirier, qui montraient que ce dernier avait déduit 5 700 $ à titre de versements de pension alimentaire pendant chacune de ces deux années.
+[26] Dans sa requête en divorce datée du 9 mai 1998, l’appelante a déclaré que les arrangements convenus entre elle et M. Poirier au sujet de la pension alimentaire pour l’enfant visaient le paiement d’une somme imposable de 475 $ par mois et que ces arrangements étaient respectés. Rien ne permet de penser qu’une procédure d’exécution a été introduite, et M. Poirier n’a pas témoigné. La correspondance entre les avocats ne permet pas de penser qu’on a omis de respecter les modalités prévues dans l’ordonnance par consentement du 20 novembre 1996. À la lumière de la preuve susmentionnée, il m’est impossible de connaître la somme réellement reçue par l’appelante et il ne me reste que la somme que M. Poirier affirme avoir versée et que l’appelante reconnaît, dans sa requête en divorce, avoir reçue.
+Pénalités pour production tardive répétée
+[27] Les dispositions qui autorisent le ministre à imposer des pénalités pour production tardive répétée se trouvent au paragraphe 162(2) de la Loi, lequel est rédigé de la façon suivante :
+(2) Récidive. La personne qui ne produit pas de déclaration de revenu pour une année d’imposition selon les modalités et dans le délai prévus au paragraphe 150(1) après avoir été mise en demeure de le faire conformément au paragraphe 150(2) et qui, avant le moment du défaut, devait payer une pénalité en application du présent paragraphe ou du paragraphe (1) pour défaut de production d’une déclaration de revenu pour une des trois années d’imposition précédentes est passible d’une pénalité égale au total des montants suivants :
+a) 10 % de l’impôt payable pour l’année en vertu de la présente partie qui était impayé à la date où, au plus tard, la déclaration devait être produite;
+b) le produit de 2 % de cet impôt impayé par le nombre de mois entiers, jusqu’à concurrence de 20, compris dans la période commençant à la date où, au plus tard, la déclaration devait être produite et se terminant le jour où la déclaration est effectivement produite.
+[28] Le ministre a établi une cotisation au titre de pénalités pour production tardive répétée à l’égard de l’appelante pour les années d’imposition 1997, 1998 et 1999. Le paragraphe 150(1) prévoit que les particuliers doivent produire une déclaration de revenus pour une année d’imposition donnée au plus tard le 30 avril de l’année d’imposition suivante. Il n’est pas contesté que l’appelante n’a pas produit ses déclarations de revenus pour 1997, 1998 et 1999 selon les modalités et dans le délai prévus au paragraphe 150(1) de la Loi. Elle croyait qu’elle n’avait pas à produire de déclaration parce qu’elle estimait ne pas avoir d’impôt à payer puisque son employeur déduisait l’impôt de son salaire. En ce qui concerne les années d’imposition postérieures à 1998, l’appelante avance également que, suivant le paragraphe 150(1.1), lorsqu’un particulier contribuable n’a pas d’impôt à payer, le paragraphe 150(1) ne s’applique pas. Il ressort sans équivoque de la preuve que les déclarations de revenus pour les trois années d’imposition susmentionnées ont été produites par l’appelante le 13 mars 2001.
+[29] Le paragraphe 162(2) énonce une deuxième exigence : une mise en demeure de produire une déclaration pour l’année doit avoir été signifiée conformément au paragraphe 150(2) de la Loi. Cette mise en demeure doit avoir été signifiée à personne ou envoyée sous pli recommandé. L’appelante soutient que la Couronne a omis d’établir qu’une telle mise en demeure lui avait été envoyée ou réellement signifiée.
+[30] Le témoignage de Karen Sceviour, agente des litiges auprès de l’Agence du revenu du Canada (l’« Agence »), a établi, au moyen d’un imprimé d’ordinateur appelé [TRADUCTION] « historique des mesures d’exécution », que des demandes de production des déclarations de revenus pour les années d’imposition 1997, 1998 et 1999 ont été envoyées à l’appelante et que des mises en demeure la sommant de produire ses déclarations de revenus pour ces années d’imposition lui ont par la suite été signifiées. L’historique des mesures d’exécution révèle que, pour deux de ces trois années, une formule TX14D, soit la demande proprement dite de production d’une déclaration de revenus, a été délivrée à deux occasions parce que le premier envoi par la poste avait été retourné sans avoir été réclamé. Une recherche d’adresse a été effectuée et la formule TX14D a été délivrée à nouveau le 17 janvier 2001 pour les années d’imposition 1997 et 1998. Le 27 février 2001, une formule TX14D a été délivrée pour l’année d’imposition 1999. La formule de mise en demeure TX14D est envoyée sous pli recommandé tandis que la formule de demande TX11 est envoyée par courrier ordinaire.
+[31] Selon le témoignage de Mme Sceviour, la pièce R‑1, onglet 22, établit que la mise en demeure du 17 janvier 2001 a été envoyée sous pli recommandé à l’appelante. La signature de cette dernière figure sur le document de Postes Canada à titre de signature du destinataire en date du 25 janvier 2001. La pièce R‑1, onglet 23, est un autre document de Postes Canada montrant la signature de l’appelante à titre de destinataire; la date de la signature est le 13 mars 2001.
+[32] Dans son témoignage, l’appelante a affirmé qu’elle avait reçu de l’Agence, à la fin janvier 2001, une mise en demeure de produire ses déclarations de revenus dans un délai de 90 jours, mais elle nie que cette mise en demeure lui a été envoyée sous pli recommandé vers le 17 janvier 2001. Elle nie aussi qu’une mise en demeure analogue de production de sa déclaration de revenus pour 1999 lui a été envoyée vers le 27 février 2001. Pourtant, les trois déclarations de revenus ont été produites le 13 mars 2001. De toute évidence, l’appelante se conformait aux mises en demeure que l’Agence lui avait envoyées. Les mesures qu’elle a prises pour se conformer à ces mises en demeure établissent à ma satisfaction que le ministre a effectivement envoyé celles‑ci sous pli recommandé comme l’exige la Loi.
+[33] La troisième exigence devant être remplie pour que le ministre puisse établir une cotisation au titre de pénalités pour production tardive répétée est celle voulant que le contribuable ait fait l’objet, antérieurement à la date du défaut de production, d’une cotisation au titre d’une pénalité en application du paragraphe 162(1) ou 162(2) quant à une déclaration de revenus pour l’une ou l’autre des trois années d’imposition précédentes. Selon les documents tenus par l’Agence, l’historique de production de l’appelante révèle que cette dernière a fait l’objet d’une cotisation au titre d’une pénalité pour production tardive de 339,49 $ pour son année d’imposition 1995. L’appelante a en outre fait l’objet d’une cotisation au titre d’une pénalité pour production tardive de 470,03 $ pour son année d’imposition 1996. Ces deux pénalités satisfont à la troisième exigence. C’est donc à bon droit que le ministre a établi des cotisations au titre de pénalités pour production tardive répétée à l’égard de l’appelante.
+[34] L’appelante a des antécédents de production tardive et le seul élément de preuve à l’appui de son moyen de défense fondé sur la diligence raisonnable tient au fait qu’elle s’est conformée aux mises en demeure dès que celles‑ci lui ont été transmises. Elle avance également qu’elle estimait ne pas avoir à produire de déclaration de revenus parce qu’elle croyait que tous ses impôts avaient été payés puisqu’ils avaient été déduits de son salaire. Ces raisons sont manifestement inacceptables compte tenu de ses antécédents de production tardive, qui remontent à 1995. Le contribuable qui se conforme sans délai à une mise en demeure du ministre de produire une déclaration de revenus fait peut‑être preuve de diligence raisonnable quant à cette mise en demeure, mais certainement pas quant au défaut de produire une déclaration de revenus conformément à l’alinéa 150(1)d) de la Loi. On s’attend à ce que le contribuable satisfasse aux exigences de la Loi avec un degré élevé de diligence (voir la décision Bennett (T.J.) v. Canada, [1995] 2 C.T.C. 2308). La preuve en l’espèce ne permet pas de conclure que l’appelante a agi avec diligence raisonnable.
+[35] Les appels sont donc rejetés avec dépens.
+Signé à Ottawa, Canada, ce 19e jour de février 2007.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 3e jour de janvier 2008.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2007CCI88
+NO DU DOSSIER DE LA COUR : 2003-4404(IT)G
+INTITULÉ DE LA CAUSE : Joanne Cormier c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Moncton (Nouveau-Brunswick)
+DATE DE L’AUDIENCE : Le 20 juin 2006
+MOTIFS DU JUGEMENT PAR : L’honorable juge François Angers
+DATE DU JUGEMENT : Le 19 février 2007
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Guy G. Couturier
+Avocate de l’intimée :
+Me Carole Benoit
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Me Guy G. Couturier
+Cabinet : Guy G. Couturier c.p. Inc.
+Avocat – Lawyer
+Moncton (Nouveau-Brunswick)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

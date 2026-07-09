@@ -1,0 +1,233 @@
+Title: 1663255 Ontario Inc. c. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30179/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-19-30179-1663255-ontario-inc-c-m-n-r-fr.md
+Document type: case_law
+Last modified: 2011-01-24
+
+# 1663255 Ontario Inc. c. M.N.R.
+
+- Citation: 2011 CCI 19
+- Decision date: 2011-01-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7742, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+1663255 Ontario Inc. c. M.N.R.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-01-24
+Référence neutre
+2011 CCI 19
+Numéro de dossier
+2010-659(CPP)
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Régime de pensions du Canada
+Contenu de la décision
+Référence : 2011 CCI 19
+Date : 24 janvier 2011
+Dossiers : 2010-659(CPP)
+2010-660(CPP
+ENTRE :
+1663254 ONTARIO INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Révisés à partir de la transcription des motifs du jugement rendus oralement à l’audience le 3 décembre 2010, à Ottawa, Canada)
+La juge Campbell
+[1] Ces deux appels ont été entendus ensemble sur preuve commune. À la suite d’examens du Programme des cotisations au Régime de pensions du Canada, le ministre du Revenu national – que j’appellerai le « ministre » – a établi en mars 2009, à l’endroit des deux sociétés appelantes, des cotisations au titre du Régime de pensions du Canada – j’appellerai cela les « cotisations au RPC » – ainsi que les intérêts et les pénalités applicables, pour les années d’imposition 2006 et 2007.
+[2] Ces cotisations concernaient deux travailleurs, M. André Thériault et M. Michael Skelton. La question en litige dans les deux appels est la même, à savoir si ces deux travailleurs ont été engagés par les sociétés appelantes aux termes d’un contrat d’entreprise ou d’un contrat de louage de services ou, pour dire les choses plus simplement, si ces travailleurs étaient des employés ou des entrepreneurs indépendants des sociétés appelantes. S’ils étaient des employés, ils exerçaient un emploi assurable et, si je conclus qu’ils étaient des entrepreneurs indépendants, ce n’était évidemment pas le cas.
+[3] J’ai entendu le témoignage de deux personnes : M. John Van Zanten et M. Michael Skelton. Le ministre s’est fondé sur les hypothèses de fait qui sont jointes à mes motifs en tant qu’annexes « A » et « B ».
+[4] M. Van Zanten a témoigné au sujet de la structure organisationnelle de base qui a pris naissance après que M. Skelton et lui eurent collaboré dans le cadre d’un arrangement commercial en mars 2005. M. Skelton a soumis à M. Van Zanten un projet commercial concernant les activités de démarrage d’un fournisseur de services d’épissure de fibres optiques auprès d’entreprises de télécommunication. M. Van Zanten a fait ce qu’il a appelé un examen « diligent » dans la région et a découvert que ces deux travailleurs étaient des personnes hautement qualifiées et en demande en Ontario. Très peu d’autres personnes possédaient les compétences que requiert la soudure de câbles à fibres optiques. Des démarches avaient été faites auprès de M. Van Zanten en vue d’obtenir du financement, et il ressort de son témoignage qu’après avoir « fait ses devoirs » et décidé de se lancer dans cette entreprise avec ces deux personnes, il s’est servi d’un modèle qu’on lui avait remis à l’Université Queen’s au sujet d’entreprises de construction; en se fondant sur son expérience d’avocat, il a constitué plusieurs sociétés à numéro, dont deux étaient les sociétés appelantes.
+[5] M. Van Zanten continue de gérer les registres de toutes ces sociétés à numéro et il s’occupe de très près des activités commerciales. Comme ce dernier l’a confirmé dans son témoignage, ce sont les travailleurs qui procurent les compétences nécessaires et particulières que requiert le succès de cette activité commerciale. Les deux travailleurs sont des soudeurs de câbles à fibres optiques spécialisés dont la responsabilité, d’après la preuve, consiste à épisser des câbles à fibres optiques pour divers clients de l’une des sociétés, Direct Fibre Tek Solutions Inc. Dans les présents motifs, j’appellerai simplement cette entreprise « DF ».
+[6] M. Van Zanten a déclaré qu’au moment d’établir son modèle organisationnel et d’agir à titre de conseiller d’affaires auprès des appelantes, il a suivi le modèle « propriétaire-exploitant » des entreprises de construction. Il a ajouté que le but des parties était d’éviter toute apparence de relation employeur‑employé en raison des restrictions plutôt sévères que la Loi de 2000 sur les normes d’emploi de l’Ontario imposait en ce qui concerne les heures de travail des employés. Si les travailleurs étaient des employés, leur entreprise commerciale serait moins lucrative parce que, en tant qu’employés, ils ne pourraient pas accomplir plus qu’un certain nombre d’heures par semaine. En fait, M. Van Zanten a déclaré qu’il ne se serait jamais lancé dans cette entreprise commerciale avec les travailleurs s’il s’était révélé impossible d’éviter que ceux-ci soient considérés comme des employés et, de ce fait, assujettis aux dispositions de la Loi de 2000 sur les normes d’emploi et limités par ces dernières.
+[7] M. Van Zanten a qualifié les sociétés appelantes d’intermédiaires constituées pour des raisons de planification fiscale, en tant qu’instruments par l’intermédiaire desquels l’argent était versé aux travailleurs et en tant que moyen de clarifier la relation entre les parties et les sociétés, et ce, conformément au modèle d’entreprise qu’il avait obtenu de l’Université Queen’s et à l’intention des parties.
+[8] DF a eu recours aux services de ces deux travailleurs. Quand un client avait besoin de faire faire des travaux relatifs à la fibre optique, il communiquait toujours avec les travailleurs, directement par l’entremise du gestionnaire de projets. Cela se faisait le plus souvent par courriel. Le travail de DF, une fois que les travailleurs avaient terminé le travail et produit une ébauche de compte, consistait à établir le compte définitif destiné au client. M. Van Zanten a toutefois déclaré que les travailleurs ne facturaient pas eux-mêmes leurs services à DF. Il a confirmé que les appelantes ne recevaient jamais d’information sur les travaux, de bons de travail, de factures ou de détails quelconques concernant ces projets de travail.
+[9] Selon son témoignage, aucune des sociétés à numéro n’annonçait ses services, ne possédait une ligne téléphonique ou un bureau d’affaires et n’avait de clients ou de biens. De plus, les appelantes n’avaient aucune autre source de revenus, à part les fonds transmis par DF aux travailleurs. Quand un projet était terminé et qu’elle avait reçu les fonds qui s’y rapportaient, DF réglait en premier ses dépenses et ce n’était que s’il y avait des fonds excédentaires disponibles que ceux-ci étaient transmis aux travailleurs par l’intermédiaire des appelantes. Aucun chèque n’était échangé, et les fonds étaient versés au moyen de dépôts. D’après M. Van Zanten, si DF n’avait plus d’argent après avoir réglé ses dépenses, les travailleurs ne recevaient pas d’argent à l’égard du projet en question.
+[10] Le témoin suivant, M. Skelton, a déclaré qu’il fait partie d’un groupe très restreint et particulier en Ontario qui possède des compétences spécialisées en matière de soudure de fibres optiques. Les entreprises qui ont besoin de ces compétences savent qui sont les membres de ce groupe et les sollicitent activement en vue de la fourniture de services d’épissure de câbles à fibres optiques. Dans la plupart des cas, elles communiquent directement par courriel avec les travailleurs, même si ceux-ci sont considérés comme les clients de DF. Les deux travailleurs fixent leurs horaires en fonction des travaux en cours et des projets qu’ils viennent tout juste d’accepter. Ces horaires dépendent en grande partie par les besoins des clients mais, jusqu’à un certain point, les travailleurs sont en mesure de structurer leurs horaires afin de pouvoir s’acquitter de leurs engagements familiaux ou personnels.
+[11] M. Skelton a témoigné qu’il n’avait jamais eu à régler une plainte d’un client, mais que, s’il y en avait eu une, le client aurait vraisemblablement communiqué directement avec lui et il aurait réglé le problème dans son temps libre et sans être payé. C’est le gestionnaire de projet du client qui communique directement aux travailleurs tous les renseignements ou tous les détails nécessaires à l’exécution d’un projet de travail. Les appelantes ne prennent jamais part au processus et aucun de ces renseignements ne leur est jamais transmis.
+[12] M. Skelton a commencé à travailler dans ce domaine à titre d’employé d’entreprises telles que Centrix et Accon, qui le rémunéraient à l’heure quel que soit le nombre de travaux qu’il accomplissait. Il bénéficiait d’un régime d’avantages sociaux ainsi que de généreuses indemnités de congé annuel. Dans le contexte du système actuel, les travailleurs ne bénéficient d’aucun avantage, d’aucun régime d’assurance-médicaments et d’assurance‑maladie, d’aucun jour de maladie et d’aucune période de congé. M. Skelton reconnaît qu’il est l’unique actionnaire des sociétés appelantes pertinentes et que ces dernières servaient d’intermédiaires par l’entremise desquelles transitaient les fonds transmis par DF pour les projets terminés. Il a reconnu qu’il n’avait aucune expertise ou connaissance spéciale qui lui permettrait d’expliquer pour quelle raison le réseau des entreprises avait été établi, car c’était M. Van Zanten qui l’avait mis sur pied. En fait, en contre‑interrogatoire, M. Skelton a déclaré qu’il n’était pas sûr de ce qu’était un administrateur. Il savait toutefois qu’il entendait être un entrepreneur indépendant dans la relation d’affaires qu’il entretenait avec M. Van Zanten, afin de ne pas être restreint en ce qui concerne le nombre d’heures de travail qu’il pouvait exécuter et augmenter ainsi la marge de profit. Il a expliqué que son rendement pécuniaire n’est pas fondé sur le nombre d’heures qu’il travaille; ce rendement est plutôt lié, premièrement, au fait que DF dispose en fin de compte d’une marge de profit à l’égard d’un projet de travail et, deuxièmement, à sa propre efficacité, qui lui permet d’exécuter rapidement les projets. Il a comparé cette situation à celle de l’industrie automobile où, si l’on facture un tarif horaire pour une tâche en particulier et qu’il est possible d’en exécuter plusieurs différentes dans ce délai d’une heure et de les facturer, cela augmente la possibilité de profit.
+[13] Enfin, en ce qui concerne le matériel et les instruments de travail, M. Skelton a déclaré qu’il possédait une boîte à outils de base contenant des instruments à couper, des tournevis, etc., mais que tout le matériel spécialisé servant au travail d’épissure était fourni par DF, et non par les appelantes. Les clients ne fournissaient aucun outil, mais procuraient ce qu’il fallait pour pouvoir laisser des articles particuliers au lieu de travail.
+[14] Passons maintenant à mon analyse. Je dois dire pour commencer que, la première fois où j’ai parcouru les hypothèses de fait du ministre, qui étaient énoncées dans la réponse et dont certaines paraissaient contradictoires, je n’étais pas certaine de la raison pour laquelle l’intimé mettait en doute la relation d’affaires qu’entretenaient les parties en l’espèce. Maintenant que j’ai entendu la preuve, la raison pour laquelle ces questions ont été soulevées devant la Cour, comme elles l’ont été hier, me laisse encore plus perplexe.
+[15] Après avoir examiné la totalité de la preuve de ces deux témoins à propos de la relation d’affaires et après avoir examiné de nouveau les diverses décisions jurisprudentielles, la seule conclusion que je puis tirer ici est que ces deux travailleurs sont manifestement des entrepreneurs indépendants. En fait, s’il y a une affaire qui permet très clairement de décider que de tels travailleurs ne sont pas des employés, c’est bien celle-ci. Les travailleurs sont seuls actionnaires de chacune des sociétés appelantes respectives, et ces dernières détiennent chacune 25 % des actions de DF. Les travailleurs n’ont pas mis par écrit la nature de leur relation d’affaires, mais la preuve confirme qu’ils avaient la claire intention d’éviter toute relation employeur‑employé et qu’ils avaient des motifs valables pour qu’il en soit ainsi. Ils voulaient éviter le régime horaire que doivent respecter les employés aux termes de la Loi de 2000 sur les normes d’emploi en Ontario. Jamais M. Van Zanten ne se serait lancé dans cette entreprise si on les avait obligés de se conformer à ce régime, et M. Skelton a clairement déclaré dans son témoignage qu’il avait travaillé comme employé dans le passé et qu’il voulait maintenant avoir la liberté de se lancer dans une telle entreprise parce qu’il était motivé par la possibilité de réaliser des profits dans un domaine aussi spécialisé, où les clients étaient à la recherche de son expertise.
+[16] L’intention qu’avaient les parties de mener les affaires des travailleurs à titre d’entrepreneurs indépendants est étayée par la manière dont toutes les parties se sont ensuite comportées à l’égard de l’exécution des projets de travail. Dans les présents appels, il s’agit plus que d’une simple déclaration d’intention de la part des parties quant à la forme que leur relation devait revêtir. Les faits de l’espèce confirment leur intention déclarée et, contrairement à certaines affaires, il n’y a aucune opinion contradictoire entre les appelantes et les travailleurs quant à la nature de leur relation.
+[17] Si j’ai bien compris l’argument que l’intimé a invoqué à propos du facteur de l’intention, ses avocats ont déclaré que l’intention des parties n’était pas claire, qu’il n’existait aucun contrat écrit, que l’intention est incompatible avec les facteurs énoncés dans l’arrêt Wiebe Door Services v. The Minister of National Revenue, 87 D.T.C. 5025, et que les clients n’avaient pas d’autre choix que de communiquer directement avec les travailleurs parce que les appelantes n’avaient pas de téléphone. En réponse, premièrement, je pense que l’intention des parties n’aurait pas pu être plus claire; deuxièmement, l’absence de contrat écrit ne fait aucune différence, car les parties avaient manifestement conclu une entente verbale qu’elles semblaient comprendre et à laquelle elles se conformaient toutes; troisièmement, les facteurs énoncés dans l’arrêt Wiebe Door, que je passerai sous peu en revue dans mes motifs, étayent leur intention déclarée; quatrièmement, les clients communiquaient directement avec les travailleurs à cause de leur expertise et, en fait, ils contournaient DF, avec laquelle ils avaient conclu les contrats.
+[18] La manière dont les parties ont décidé de décrire leur relation d’affaires n’est pas déterminante, sauf si elle reflète cette relation telle qu’elle existe dans
+la réalité. Comme je l’ai déclaré dans mes motifs de jugement dans l’affaire National Capital Outaouais Ski Team c. Le ministre du Revenu national, [2007] A.C.I. no 82, et je cite :
+[33] […] il faut revenir aux principes de base énoncés par la Cour suprême dans l’arrêt Sagaz Industries. Plus précisément, des déclarations à l’égard de l’intention incluses dans une entente ne sont pas déterminantes à moins qu’elles reflètent la situation juridique réelle des parties. Par conséquent, les cours doivent évaluer tous les faits pertinents et toutes les circonstances pertinentes pour déterminer si ces faits et circonstances reflètent l’intention que les parties ont initialement énoncée. […]
+[19] Pour ce qui est maintenant critère à quatre volets énoncé dans l’arrêt Wiebe Door ainsi que dans l’arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] A.C.S. no 61, de la Cour suprême du Canada, ces facteurs sont le contrôle, les instruments de travail, la possibilité de profit ou le risque de perte, de même que l’intégration. Les travailleurs exerçaient un contrôle absolu sur le moment et l’endroit où ils exécutaient les diverses tâches de leur travail ainsi que sur la façon dont ils les exécutaient. Les appelantes n’exerçaient aucun contrôle. En fait, elles n’avaient jamais connaissance des projets de travail, des horaires, de l’identité des clients, ou du coût des travaux. Aucun détail relatif aux projets ou aux contrats n’est consigné dans les registres des appelantes.
+[20] Comme cela a été souligné dans la jurisprudence, ce n’est pas le contrôle réel que l’on exerce qui est important, mais le « droit » d’exercer ce contrôle. Cependant, même sous cet angle, il n’existe aucune preuve à l’appui du fait que les appelantes disposaient d’une forme quelconque de pouvoir ou de droit latent de contrôler ces travailleurs d'une façon d'une autre. Ces derniers agissaient comme des agents libres à tous les égards, sans être entravés dans la manière dont ils abordaient les projets de travail. C’était DF, et non les appelantes, qui détenait les contrats conclus avec les clients. DF établissait les factures et, après avoir réglé ses dépenses, versait le profit aux travailleurs, par l’intermédiaire des sociétés appelantes, par dépôt direct.
+[21] Les rares comptes rendus que faisaient les travailleurs concernant l’éventuelle facturation d’un projet étaient adressés là encore à DF, et non aux appelantes. S’il y avait un contrôle quelconque sur les travailleurs, il résultait des exigences des clients, ce qui est caractéristique d’un grand nombre d’entreprises. Les appelantes avaient une existence indépendante, légalement reconnue. Les travailleurs étaient les seuls actionnaires et administrateurs de chaque société appelante pertinente mais, dans les circonstances appropriées, cela ne les empêche toutefois pas de porter un autre chapeau qui permet de les reconnaître comme des entrepreneurs indépendants.
+[22] Je crois que, si l’on prend du recul et si l’on examine objectivement l’ensemble de la relation qu’entretiennent les appelantes et les travailleurs, il est clair que les appelantes étaient des intermédiaires et un moyen de parvenir à une fin. Il était loisible aux parties, à titre de contribuables, de structurer leurs affaires commerciales de la manière qui convenait le mieux à leurs besoins. Il s’agit là du moyen qu’ils ont choisi. Le juge Tardif, de la Cour canadienne de l’impôt, déclare ce qui suit dans la décision Groupe A.B.H. Assurances Inc. c. Le ministre du Revenu national, [1997] A.C.I. no 1358, au paragraphe 19 :
+[19] Ainsi, il a été établi que la compagnie ne pouvait pas, à toutes fins pratiques, procéder au congédiement de l’une ou l’autre des trois personnes, dont le travail est à l’origine du présent litige, sans mettre en péril la survie même de
+la compagnie. Le licenciement d’un employé est l’expression ultime du pouvoir de contrôle. Faute d’un tel pouvoir de congédiement, ou de réprimande, le pouvoir de contrôle devient alors fictif et inopérant.
+[23] Ces conclusions s’appliquent elles aussi aux présents appels. M. Van Zanten a déclaré que les appelantes n’étaient aucunement au courant des projets de travail et il leur était donc impossible de donner des instructions aux travailleurs ou d’exercer un contrôle sur eux. Les appelantes n’avaient aucun achalandage dans leurs registres. Il s’agissait essentiellement de sociétés fictives. M. Van Zanten a déclaré que les appelantes ne seraient, et je cite, [traduction] « [d’]aucune utilité » si les travailleurs n’étaient pas là. Même si les appelantes avaient le droit de congédier les travailleurs, ce que la preuve n’étayait pas, que retireraient-elles d’un tel geste? Celui-ci serait à ce point préjudiciable pour les appelantes que leur existence même ne serait plus requise. Là où allaient les travailleurs, les clients les suivaient.
+[24] Ainsi que l’a déclaré le juge Tardif dans la décision que je viens tout juste de citer – à défaut d’un pouvoir de congédiement ou de réprimande, le contrôle est tout simplement fictif et inopérant.
+[25] Même si l’intimé a laissé entendre qu’étant donné que les appelantes et les travailleurs ne déclaraient aucune dépense, ce critère ne favorisait pas les appelantes, je ne suis pas d’accord, car je crois que cet énoncé mène à une conclusion inexacte. Premièrement, les contribuables ont le « droit » de déduire des dépenses. Ils ne sont pas tenus de le faire. Deuxièmement, c’était DF, et non les appelantes, qui possédait et fournissait la totalité des outils spécialisés dont les travailleurs avaient besoin pour exécuter les projets relatifs à la fibre optique. Les travailleurs possédaient les boîtes à outils habituelles, mais les appelantes n’avaient aucun bien, aucun outil, aucun matériel ni aucun achalandage.
+[26] Là encore, je ne souscris pas à la manière dont l’intimé qualifie le facteur du profit ou de
+la perte. Du point de vue des travailleurs, s’ils travaillaient plus efficacement, cela voulait dire qu’ils avaient plus d’argent. M. Skelton a déclaré que c’était pour cette raison qu’il n’embaucherait pas quelqu’un pour le remplacer, car cela entraînerait une perte de profit. Les travailleurs ne touchaient aucun salaire et ne bénéficiaient d’aucun régime d’avantages sociaux et, indirectement, ils supportaient en partie les dépenses de chaque projet de travail parce qu’ils n’avaient droit au profit, s’il y en avait, qu’une fois que toutes les dépenses connexes étaient payées. S’il n’y avait pas de profit, ils ne recevaient pas d’argent à l’égard d’un projet. On est loin de la nature d’une relation employeur‑employé pour ce qui est de ce facteur. Même sous l’angle des appelantes, il n’y avait aucune possibilité de profit ou aucun risque de perte, car elles ne faisaient office que de simples intermédiaires pour le transfert des fonds.
+[27] Quant au facteur de l’intégration, les travailleurs n’étaient pas entièrement intégrés aux appelantes. Si les travailleurs laissaient tomber les appelantes, les clients les suivraient à cause de leurs compétences spécialisées. Rien ne prouve qu’aucun des clients déciderait de rester avec les appelantes si les travailleurs s’en allaient. Les clients étaient ceux des travailleurs ou de DF même si, dans les registres de DF, c’était cette dernière qui détenait les contrats conclus avec les clients.
+[28] Les travailleurs sont des entrepreneurs indépendants d’après la totalité des facteurs énoncés dans l’arrêt Wiebe Door et, en ce sens, ces facteurs étayent l’intention déclarée des parties d’être des entrepreneurs indépendants. La question centrale, qu’a définie le juge Major dans l’arrêt Sagaz est, et je cite : « […] si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte » ou, comme j’aime le dire simplement : « à qui appartient l’entreprise? ». Les travailleurs faisaient des affaires par eux-mêmes ou conjointement dans le cadre de cette entreprise et s’exposaient eux-mêmes à une possibilité de profit ou à un risque de perte, selon le cas. Le scénario du profit ou de la perte est entièrement subordonné à la propre initiative des travailleurs, et n'a aucun lien avec les appelantes. Il ne peut y avoir qu’une seule conclusion en l’espèce, et c’est qu’il ne s’agissait pas de l’entreprise des appelantes. Comme l’a déclaré M. Van Zanten, et je crois le citer à partir de son témoignage : [traduction] « Nous sommes ceux qui exploitent l’entreprise ». Les travailleurs sont des entrepreneurs indépendants dans tous les sens du terme, et ma conclusion est entièrement étayée par la preuve et, jusqu’à un certain point, par les hypothèses de fait mêmes sur lesquelles le ministre s’est fondé. En conséquence, les appels sont accueillis.
+Signé à Vancouver (Colombie-Britannique), ce 24e jour de janvier 2011.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 12e jour de mars 2014.
+Marie-Christine Gervais
+Annexe « A »
+[traduction]
+Hypothèses de fait, 2010-659(CPP)
+Renseignements sur l’entreprise
+a) L’appelante exploitait une entreprise de fourniture de services de technicien en fibre optique à un certain nombre de fournisseurs de services de télécommunication (l’« entreprise »);
+b) l’appelante fournissait ses services à Direct Fibre Tek Solutions Inc. (« DFTS »);
+c) les clients de DFTS étaient Atrai Networks LP, Cogeco Câble Inc, Tandem Networks, Aecon Utilities, etc.;
+d) André Thériault détenait 100 % des actions ordinaires de l’appelante;
+e) les actionnaires et leur pourcentage de participation dans DFTS étaient les suivants :
+• 1663255 Ontario Inc. (appelante)25 %
+• 1663254 Ontario Inc.25 %
+• 1649378 Ontario Inc.25 %
+• 1649377 Ontario Inc.25 %;
+f) André Thériault contrôlait les activités quotidiennes de l’appelante et prenait les principales décisions d’affaires qui la concernaient;
+g) les actionnaires des quatre sociétés actionnaires de DFTS, dont le travailleur, contrôlaient les activités quotidiennes de DFTS et prenaient les principales décisions d’affaires la concernant;
+Contrôle
+h) le travailleur n’était pas engagé aux termes d’un contrat écrit;
+i) les fonctions du travailleur consistaient à épisser des câbles à fibres optiques pour le compte de clients de DFTS;
+j) le travailleur était hautement qualifié dans son domaine;
+k) le travailleur exerçait ses fonctions à divers endroits dans l’Est de l’Ontario;
+l) le travailleur était tenu de communiquer par courriel avec DFTS et ses clients;
+m) les heures de travail du travailleur étaient fondées sur les besoins des clients de DFTS;
+n) le travailleur était tenu d’effectuer de longues heures de travail, au besoin;
+Propriété des instruments de travail et du matériel
+o) le travailleur, DFTS et ses clients fournissaient au travailleur la totalité des instruments de travail, de l'équipement et du matériel nécessaires à l’exécution de son travail, et ce, sans frais;
+p) le travailleur, DFTS et ses clients étaient chargés de l’entretien et de la réparation des instruments de travail et de l'équipement qu’employait le travailleur;
+Sous-traitance et embauche d’assistants
+q) le travailleur fournissait ses services personnellement;
+r) le travailleur n’embauchait pas de remplaçants ou d’aides;
+Aspects économiques
+s) le travailleur était rémunéré en fonction des fonds dont l’appelante disposait dans son compte bancaire;
+t) l’appelante déterminait le taux de rémunération du travailleur;
+u) le travailleur était payé par chèque;
+v) le travailleur n’était pas tenu d’établir des factures pour être rémunéré;
+w) l’appelante n’accordait au travailleur aucune prime, aucune indemnité de vacances ni aucunes vacances payées;
+x) au cours de la période, le travailleur a fourni ses services exclusivement à l’appelante;
+y) le travailleur n’a supporté aucune dépense dans l'exercice de ses fonctions;
+z) le travailleur a acheté des fournitures, qui ont été remboursées au moyen des factures que DFTS établissait pour ses clients;
+Responsabilité en matière d’investissement et de gestion
+aa) les clients déterminaient s’il y avait des travaux à refaire et ils supportaient les coûts connexes;
+bb) l’appelante ne disposait pas d’autres travailleurs qui fournissaient les mêmes services que ceux du travailleur;
+cc) le travailleur a déclaré le revenu tiré de l’appelante à titre d’« autre revenu » et n’a pas déduit de dépenses dans ses déclarations de revenus personnelles pour les années d’imposition 2006 et 2007, de la manière suivante :
+Année
+Autre revenu
+2006
+15 300 $
+2007
+44 500 $
+dd) l’appelante a déclaré les « frais administratifs et de gestion » qui suivent à titre de revenu dans son état des résultats :
+Année
+Revenu
+2006
+17 100 $
+2007
+44 800 $
+ee) l’appelante a déclaré les « frais administratifs et de gestion » qui suivent à titre de dépenses dans son état des résultats :
+Année
+Dépenses
+2006
+15 300 $
+2007
+44 500 $
+ff) le travailleur n’a pas facturé la TPS à l’appelante;
+gg) l’appelante n’a pas facturé la TPS à DFTS.
+Annexe « B »
+[traduction]
+Hypothèses de fait, 2010-660(CPP)
+Renseignements sur l’entreprise
+a) L’appelante exploitait une entreprise de fourniture de services de technicien en fibre optique à un certain nombre de fournisseurs de services de télécommunication (l’« entreprise »);
+b) l’appelante fournissait ses services à Direct Fibre Tek Solutions Inc. (« DFTS »);
+c) les clients de DFTS étaient Atrai Networks LP, Cogeco Câble Inc, Tandem Networks, Aecon Utilities, etc.;
+d) Michael Skelton détenait 100 % des actions ordinaires de l’appelante;
+e) les actionnaires et leur pourcentage de participation dans DFTS étaient les suivants :
+• 1663255 Ontario Inc.25 %
+• 1663254 Ontario Inc. (appelante)25 %
+• 1649378 Ontario Inc.25 %
+• 1649377 Ontario Inc.25 %;
+f) Michael Skelton contrôlait les activités quotidiennes de l’appelante et prenait les principales décisions d’affaires qui la concernaient;
+g) les actionnaires des quatre sociétés actionnaires de DFTS, dont le travailleur, contrôlaient les activités quotidiennes de DFTS et prenaient les principales décisions d’affaires la concernant;
+Contrôle
+h) le travailleur n’était pas engagé aux termes d’un contrat écrit;
+i) les fonctions du travailleur consistaient à épisser des câbles à fibres optiques pour le compte de clients de DFTS;
+j) le travailleur était hautement qualifié dans son domaine;
+k) le travailleur exerçait ses fonctions à divers endroits;
+l) le travailleur était tenu de communiquer par courriel avec DFTS et ses clients;
+m) les heures du travailleur étaient fondées sur les besoins des clients de DFTS;
+n) le travailleur était tenu d’effectuer de longues heures de travail, au besoin;
+Propriété des instruments de travail et du matériel
+o) le travailleur, DFTS et ses clients fournissaient au travailleur la totalité des instruments de travail, de l'équipement et du matériel nécessaires à l’exécution de son travail, sans frais pour le travailleur;
+p) le travailleur, DFTS et ses clients étaient chargés de l’entretien et de la réparation des instruments de travail et de l'équipement qu’employait le travailleur;
+Sous-traitance et embauche d’adjoints
+q) le travailleur fournissait ses services personnellement;
+r) le travailleur n’embauchait pas de remplaçants ou d’aides;
+Aspects économiques
+s) le travailleur était rémunéré en fonction des fonds dont l’appelante disposait dans son compte bancaire;
+t) l’appelante déterminait le taux de rémunération du travailleur;
+u) le travailleur était payé par chèque;
+v) le travailleur n’était pas tenu d’établir des factures pour être rémunéré;
+w) l’appelante n’accordait au travailleur aucune prime, aucune indemnité de vacances ni aucunes vacances payées;
+x) au cours de la période, le travailleur a fourni ses services exclusivement à l’appelante;
+y) le travailleur n’a supporté aucune dépense dans l'exercice de ses fonctions;
+z) le travailleur a acheté des fournitures, qui ont été remboursées au moyen des facteurs que DFTS établissait pour ses clients;
+Responsabilité en matière d’investissement et de gestion
+aa) les clients déterminaient s’il y avait des travaux à refaire et ils supportaient les coûts connexes;
+bb) l’appelante ne disposait pas d’autres travailleurs qui fournissaient les mêmes services que ceux du travailleur;
+cc) le travailleur a déclaré le revenu tiré de l’appelant à titre d’« autre revenu » et n’a pas déduit de dépenses dans ses déclarations de revenus personnelles pour les années d’imposition 2006 et 2007, de la manière suivante :
+Année
+Autre revenu
+2006
+24 700 $
+2007
+37 500 $
+dd) l’appelante a déclaré les « frais administratifs et de gestion » qui suivent à titre de revenu dans son état des résultats :
+Année
+Revenu
+2006
+26 600 $
+2007
+67 700 $
+ee) l’appelante a déclaré les « frais administratifs et de gestion » qui suivent à titre de dépenses dans son état des résultats :
+Année
+Dépenses
+2006
+24 700 $
+2007
+67 500 $
+ff) le travailleur n’a pas facturé la TPS à l’appelante;
+gg) l’appelante n’a pas facturé la TPS à DFTS.
+RÉFÉRENCE : 2011 CCI 19
+Nos DES DOSSIERS DE LA COUR : 2010-659(CPP)
+2010-660(CPP)
+INTITULÉ : 1663254 ONTARIO INC. c. LE MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE : Ottawa, Canada
+DATE DE L’AUDIENCE : Le 2 décembre 2010
+MOTIFS DU JUGEMENT : L’honorable juge Diane Campbell
+DATE DU JUGEMENT RENDU
+ORALEMENT : Le 3 décembre 2010
+COMPARUTIONS :
+Représentante de l’appelante :
+Mme Susan Tataryn
+Avocats de l’intimé :
+Me Serena Sial
+Me Andrew Miller
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimé : Myles J. Kirvan Sous-procureur général du Canada Ottawa, Canada

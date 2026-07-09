@@ -1,0 +1,172 @@
+---
+title: "Carroll Pontiac Buick Limited c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28789/index.do"
+last_modified: "2008-07-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 428"
+citation2: ""
+neutral_citation: "2008 CCI 428"
+decision_date: "2008-07-25"
+language: "fr"
+item_id: "28789"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1509
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:32:43.258000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e601ff20c909514fb8db42b9eb54acfed45ac879ec9d6a80f4715c46aa2dba1e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Carroll Pontiac Buick Limited c. La Reine
+
+- Citation: 2008 CCI 428
+- Decision date: 2008-07-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1509, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Carroll Pontiac Buick Limited c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-07-25
+Référence neutre
+2008 CCI 428
+Numéro de dossier
+2007-2048(GST)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2007‑2048(GST)I
+ENTRE :
+CARROLL PONTIAC BUICK LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 21 juillet 2008, à Halifax (Nouvelle‑Écosse).
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Avocat de l’appelante :
+Me Bruce S. Russell, c.r.
+Avocat de l’intimée :
+Me Martin Hickey
+____________________________________________________________________
+JUGEMENT
+L’appel formé contre la cotisation établie en vertu de la Loi sur la taxe d’accise pour la période allant du 1er janvier 2002 au 28 février 2005, par avis de cotisation n° 01CB0103003, daté du 28 juillet 2005, est accueilli, sans dépens, et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, au motif que l’appelante n’a pas négligé de déclarer et de verser la TVH découlant de l’utilisation personnelle des véhicules de tourisme, selon les sommes de 18 704,56 $, 20 068,50 $, 23 653,47 $ et 24 661,80 $, pour les périodes se terminant le 28 février 2002, le 28 février 2003, le 29 février 2004 et le 28 février 2005 respectivement.
+Signé à Halifax (Nouvelle‑Écosse), ce 25e jour de juillet 2008.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 31e jour d’octobre 2008.
+D. Laberge, LL.L.
+Référence : 2008CCI428
+Date : 20080725
+Dossier : 2007‑2048(GST)I
+ENTRE :
+CARROLL PONTIAC BUICK LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] Une cotisation de TVH a été établie à l’égard de l’appelante pour la période allant du 1er janvier 2002 au 28 février 2005, selon les sommes suivantes, qui sont contestées :
+Augmentation de la TVH percevable :
+Période terminée le 28 février 2002 : 18 704,56 $
+Période terminée le 28 février 2003 : 20 068,50 $
+Période terminée le 28 février 2004 : 23 653,47 $
+Période terminée le 28 février 2005 : 24 661,80 $
+Total : 87 088,33 $
+[2] L’appelante était le concessionnaire d’une marque d’automobiles à Halifax (Nouvelle‑Écosse). Elle autorisait certains de ses employés à se servir de véhicules de démonstration pour leur propre usage. Un avantage représentant les frais pour droit d’usage et les frais d’exploitation était donc conféré à ces employés aux fins de l’application de la Loi de l’impôt sur le revenu. En outre, selon l’article 173 de la Loi sur la taxe d’accise, l’appelante était censée avoir perçu la TVH à raison de l’avantage total imposable pour les employés, selon la Loi de l’impôt sur le revenu, et à raison des sommes remboursées par les employés.
+[3] Après l’instauration de la TPS au début des années 90, l’appelante a appris qu’elle serait tenue de verser la TPS (et plus tard la TVH) au titre des avantages sociaux, en conséquence des dispositions de l’article 173 de la Loi sur la taxe d’accise. L’appelante a décidé qu’elle n’allait pas prendre à sa charge le coût de la TPS se rapportant aux avantages sociaux et elle a donc décidé de faire payer par ses employés une somme égale à la TPS qu’elle était tenue de verser au titre des avantages sociaux. Avec l’adoption de la TVH, le montant augmentait, mais le principe subsistait : l’appelante faisait payer par ses employés une somme égale à la TVH qu’elle devait payer pour l’avantage représentant les frais pour droits d’usage et les frais d’exploitation.
+[4] Avant les périodes visées par l’appel, la nécessité de recenser les sommes qui avaient été déduites par l’appelante dans ses systèmes internes de comptabilité avait rendu difficile pour elle la tâche de suivre les sommes en question. Durant les périodes visées par l’appel, les sommes étaient indiquées par les lettres « HST TB » sur les talons des chèques de paie remis aux employés et dans les documents internes de l’appelante, les lettres TB signifiant « taxable benefit (avantage fiscal) ». La somme totale perçue à titre de « HST TB » par l’appelante auprès de ses employés durant les périodes visées par l’appel correspondait à la somme totale établie par l’intimée en tant que TVH qui était censée être perçue conformément à l’article 173 de la Loi sur la taxe d’accise au titre des avantages procurés aux employés durant ces périodes, c’est‑à‑dire l’avantage se rapportant aux frais pour droit d’usage et l’avantage se rapportant aux frais d’exploitation.
+[5] Au moment de produire ses déclarations de TVH pour les périodes en cause, l’appelante incluait, dans la TVH qu’elle devait payer, la somme totale qu’elle avait perçue auprès de ses employés. Comme je l’ai dit, cette somme correspondait exactement à la TVH que l’appelante était censée avoir perçue en vertu de l’article 173 de la Loi sur la taxe d’accise.
+[6] L’intimée est d’avis que l’appelante percevait la TVH auprès de ses employés et qu’elle devait donc verser cette somme en sus de son obligation d’inclure, dans le calcul de sa taxe nette selon l’article 225 de la Loi sur la taxe d’accise, les sommes qu’elle était censée avoir perçues en vertu de l’article 173 de la Loi sur la taxe d’accise. L’avocat de l’intimée a cité l’arrêt 800537 Ontario Inc. [Acura West] c. La Reine, 2005 CAF 333, [2005] G.S.T.C. 165, 2005 G.T.C. 1553. Cependant, dans cet arrêt, les sommes que percevait la contribuable auprès de ses clients représentaient la TPS payable par ses clients.
+[7] Je ne puis partager la position adoptée par l’intimée dans la présente affaire. Il m’apparaît évident que les sommes que les employés devaient payer visaient à rembourser l’appelante d’une partie des frais qu’elle supportait en fournissant les automobiles aux employés, et que l’appelante ne percevait pas de sommes censées représenter la TVH payable par les employés. L’appelante avait décidé que la somme que les employés seraient tenus de payer correspondrait à la TVH qu’elle‑même devait payer puisqu’elle était censée avoir perçu une somme en application de l’article 173 de la Loi sur la taxe d’accise.
+[8] Si l’intimée a raison, alors il pourrait en résulter d’autres cas où devraient être versées des sommes qui sont perçues par une personne pour se dédommager de ses obligations au titre de la TPS ou de la TVH. Par exemple, une association condominiale demandera aux propriétaires des habitations de payer des charges de copropriété pour amortir les dépenses communes afférentes à la copropriété. Ces charges de copropriété seront exonérées de la TPS ou de la TVH en raison des dispositions du paragraphe 13 de la partie I de l’annexe V de la Loi sur la taxe d’accise. Les charges de copropriété seraient vraisemblablement fondées sur les coûts supportés par l’association condominiale. Supposons que l’un de ces coûts se rapporte à l’enlèvement de la neige et qu’il se chiffre à 3 000 $, plus la TVH de 13 p. 100, soit un total de 3 390 $. Au moment de fixer les charges de copropriété, l’association condominiale voudra percevoir la somme de 3 390 $ pour l’enlèvement de la neige, et elle percevra donc une somme qui sera fondée sur la TVH qu’elle a payée ou qu’elle devra payer. Si, comme l’affirmerait sans doute l’intimée, cette somme de 390 $ qui est perçue se rapporte à la TVH et si elle devait par conséquent être versée, alors l’association condominiale n’aurait pas les fonds suffisants pour s’acquitter de ses obligations, et je ne crois pas que ce soit là l’objectif recherché par les articles 222 et 225 de la Loi sur la taxe d’accise.
+[9] Il n’importe pas non plus de savoir si l’association condominiale ventile les charges de copropriété pour montrer aux copropriétaires comment elles ont été calculées, ou si elle envoie simplement aux copropriétaires un avis des charges en question, sans aucune ventilation. Pourquoi une association condominiale qui présente une ventilation détaillée des charges de copropriété devrait‑elle verser, à titre de somme perçue comme taxe ou à raison d’une taxe, une partie des charges ainsi perçues, alors qu’une autre association condominiale faisant payer par les copropriétaires exactement les mêmes charges (d’après les mêmes éléments) serait dispensée de l’obligation de verser une TVH? Dans chaque cas, l’association condominiale percevrait une somme auprès des copropriétaires pour se dédommager de son obligation de payer la TVH au titre des biens et services qu’elle acquiert. À mon avis, comme dans la présente affaire, il ne serait pas dans l’esprit des articles 222 et 225 de la Loi sur la taxe d’accise que l’association condominiale soit tenue de verser les sommes qu’elle perçoit pour se dédommager de la TVH qu’elle a supportée ou devra supporter.
+[10] Dans l’arrêt Hypothèques Trustco Canada c. Canada, 2005 CSC 54, 2005 DTC 5523, [2005] 5 C.T.C. 215, 340 N.R. 1, 259 D.L.R. (4th) 193, [2005] 2 R.C.S. 601, la Cour suprême du Canada écrivait ce qui suit :
+10 Il est depuis longtemps établi en matière d’interprétation des lois qu’« il faut lire les termes d’une loi dans leur contexte global en suivant le sens ordinaire et grammatical qui s’harmonise avec l’esprit de la loi, l’objet de la loi et l’intention du législateur » : voir 65302 British Columbia Ltd. c. Canada, [1999] 3 R.C.S. 804, par. 50. L’interprétation d’une disposition législative doit être fondée sur une analyse textuelle, contextuelle et téléologique destinée à dégager un sens qui s’harmonise avec la Loi dans son ensemble. Lorsque le libellé d’une disposition est précis et non équivoque, le sens ordinaire des mots joue un rôle primordial dans le processus d’interprétation. Par contre, lorsque les mots utilisés peuvent avoir plus d’un sens raisonnable, leur sens ordinaire joue un rôle moins important. L’incidence relative du sens ordinaire, du contexte et de l’objet sur le processus d’interprétation peut varier, mais les tribunaux doivent, dans tous les cas, chercher à interpréter les dispositions d’une loi comme formant un tout harmonieux.
+[11] Les articles 222 et 225 de la Loi sur la taxe d’accise prévoient notamment ce qui suit :
+222. (1) La personne qui perçoit un montant au titre de la taxe prévue à la section II est réputée, à toutes fins utiles et malgré tout droit en garantie le concernant, le détenir en fiducie pour Sa Majesté du chef du Canada, séparé de ses propres biens et des biens détenus par ses créanciers garantis qui, en l’absence du droit en garantie, seraient ceux de la personne, jusqu’à ce qu’il soit versé au receveur général ou retiré en application du paragraphe (2).
+225. (1) Sous réserve des autres dispositions de la présente sous‑section, la taxe nette pour une période de déclaration donnée d’une personne correspond au montant, positif ou négatif, obtenu par la formule suivante :
+A – B
+où :
+A représente le total des montants suivants :
+a) les montants devenus percevables et les autres montants perçus par la personne au cours de la période donnée au titre de la taxe prévue à la section II; […]
+[12] À mon avis, les références aux sommes perçues au titre de la taxe, dans les articles 222 et 225, ne comprennent pas les sommes perçues dans le cas présent, qui n’étaient pas perçues à titre de taxe payable par les employés, mais étaient perçues pour dédommager l’appelante de la TVH qu’elle devait verser en raison des dispositions de l’article 173 de la Loi sur la taxe d’accise. Selon moi, cette interprétation s’accorde avec l’esprit de la Loi sur la taxe d’accise et avec la nécessité de considérer les dispositions de cette Loi comme un tout harmonieux. Comme je le disais plus haut, il y a maints autres cas où des sommes sont perçues pour permettre à une personne de se dédommager de la TPS ou de la TVH qu’elle doit verser et, si toutes ces sommes sont considérées comme des sommes perçues au titre de la taxe, alors cela conduira à des résultats non voulus. L’effet net du procédé par lequel l’appelante fait payer cette somme par ses employés est que le fardeau représenté par l’assujettissement à la TVH a été transféré aux employés qui ont pu utiliser les véhicules. Selon la règle générale, énoncée dans l’article 165 de la Loi sur la taxe d’accise, c’est l’acquéreur de la fourniture taxable, et non le fournisseur, qui paie la taxe. Puisque les employés étaient les acquéreurs de la fourniture des véhicules, alors, à mon avis, l’effet net du transfert du fardeau de la TVH aux employés contribue à l’harmonie tout entière de la Loi sur la taxe d’accise.
+[13] L’article 173 de la Loi sur la taxe d’accise envisage le cas où un employé rembourse à un employeur une partie des coûts afférents à la fourniture de l’automobile. Cette disposition prévoit notamment ce qui suit :
+173. (1) Dans le cas où un inscrit effectue la fourniture d’un bien ou d’un service, sauf une fourniture exonérée ou détaxée, au profit d’un particulier ou d’une personne liée à celui‑ci et que, selon le cas :
+a) un montant (appelé « avantage » au présent paragraphe) relatif à la fourniture est à inclure, en application des alinéas 6(1)a), e), k) ou l) ou du paragraphe 15(1) de la Loi de l’impôt sur le revenu, dans le calcul du revenu du particulier pour son année d’imposition,
+b) la fourniture se rapporte à l’utilisation ou au fonctionnement d’une automobile, et le particulier ou une personne qui lui est liée paie un montant (appelé « montant de remboursement » au présent paragraphe) qui réduit le montant relatif à la fourniture qui serait à inclure par ailleurs, en application des alinéas 6(1)e), k) ou l) ou du paragraphe 15(1) de la Loi de l’impôt sur le revenu, dans le calcul du revenu du particulier pour son année d’imposition,
+les présomptions suivantes s’appliquent :
+c) dans le cas de la fourniture d’un bien autrement que par vente, l’inscrit est réputé, pour l’application de la présente partie, utiliser le bien dans le cadre de ses activités commerciales lorsqu’il prend des mesures en vue de le livrer au particulier ou à la personne liée à celui‑ci; dans la mesure où l’inscrit a acquis ou importé le bien, ou l’a transféré dans une province participante, pour effectuer cette fourniture, il est réputé, pour l’application de la présente partie, l’avoir ainsi acquis, importé ou transféré dans la province pour utilisation dans le cadre de ses activités commerciales;
+d) pour le calcul de la taxe nette de l’inscrit :
+(i) le total de l’avantage et des montants de remboursement est réputé être la contrepartie totale payable relativement à la livraison du bien ou à la prestation du service, au cours de l’année, au particulier ou à la personne qui lui est liée,
+[…]
+[Non souligné dans l’original.]
+[14] Puisqu’une somme était déduite des chèques de paie des employés, somme qui était désignée par « HST TB », les employés payaient à leur employeur l’usage qu’ils avaient des automobiles. Cela avait pour effet de réduire la somme que les employés allaient devoir inclure dans leur revenu suivant les alinéas 6(1)e) et 6(1)k) de la Loi de l’impôt sur le revenu. Il ne serait pas légitime à mon avis d’assujettir les employés à l’impôt sur le plein montant des avantages représentés par les frais pour droit d’usage et les frais d’exploitation, sans qu’il soit tenu compte des sommes qui étaient déduites de leurs chèques de paie. Il s’agit manifestement de sommes que les employés payaient pour l’usage des automobiles qui leur étaient fournies par leur employeur. Ces sommes étaient calculées d’après la TVH que devait payer l’employeur, mais c’était simplement le moyen de calculer la somme en cause. Par conséquent, à mon avis, la somme qui était déduite des chèques de paie d’un employé allait réduire la somme incluse dans son revenu aux fins de l’application de la Loi de l’impôt sur le revenu et correspondant aux avantages représentés par les frais pour droits d’usage et les frais d’exploitation.
+[15] Les sommes en question étaient donc des remboursements pour l’application de l’article 173 de la Loi sur la taxe d’accise. Puisque la contrepartie totale pour l’application de l’article 173 est le total de l’avantage et du remboursement, le calcul de la TVH censée être perçue en vertu de l’article 173 de la Loi sur la taxe d’accise n’est pas modifié par le fait que ces sommes sont traitées comme des remboursements. Par exemple, pour la période terminée le 28 février 2002, la somme totale déduite des chèques de paie des employés au titre des frais pour droit d’usage était de 14 709,36 $, et donc la somme totale de tous les frais pour droit d’usage, pour tous les employés durant cette période, qui serait incluse dans l’avantage (aux fins de l’application de l’alinéa 173(1)a) de la Loi sur la taxe d’accise) serait de 105 067,32 $, c’est‑à‑dire 119 776,68 $ moins 14 709,36 $. La TVH qui est censée avoir été perçue par l’appelante est fondée sur le total des avantages et des remboursements, et la contrepartie totale pour l’application de l’article 173 de la Loi sur la taxe d’accise sera donc de 119 776,68 $. La somme qui sera incluse à titre de TVH perçue lorsque sera calculée la taxe nette de l’appelante selon l’article 225 de la Loi sur la taxe d’accise sera donc égale à la somme calculée par l’appelante. C’est également la somme établie en vertu de l’article 173 par l’intimée. La différence est que la somme perçue par l’appelante auprès de ses employés n’est pas, à mon avis, perçue au titre de la taxe, mais simplement perçue en tant que remboursement partiel du coût de la fourniture des véhicules aux employés, remboursement fondé sur le calcul de la TVH que doit payer l’appelante. Cette somme est un remboursement aux fins de l’application de l’article 173.
+[16] Le fait de considérer comme un remboursement cette somme payée par les employés ne devrait pas être vu différemment du cas où l’employeur déciderait que les employés paieront la facture d’essence, les assurances et les autres frais que l’appelante prenait à sa charge en fournissant les véhicules à ses employés.
+[17] L’appelante a, avec l’approbation du vérificateur de l’Agence du revenu du Canada, changé de « HST TB » en « STBYCHRG » (frais pour droit d’usage) la désignation des sommes déduites. La somme déduite demeure la même, mais ce simple changement de désignation dans le compte paraît dissiper tout argument de l’Agence du revenu du Canada selon lequel l’appelante perçoit la TVH. La désignation d’un compte ne devrait pas déterminer l’obligation fiscale selon la Loi sur la taxe d’accise. Ainsi que l’écrivait le juge en chef adjoint Bowman (avant qu’il devienne juge en chef) dans la décision VanNieuwkerk c. La Reine 2003 CCI 670, [2004] 1 C.T.C. 2577 :
+6. […] Cette cour a eu maintes fois l’occasion de dire que les écritures comptables ne créent pas la réalité. Elles ne font que refléter la réalité. Il doit y avoir une réalité sous‑jacente pouvant exister indépendamment des écritures comptables.
+[18] La simple désignation par « HST TB » des sommes déduites ne fait pas des sommes en cause des sommes perçues au titre de la taxe, et le changement de désignation en « STBYCHRG » n’a pas non plus ce résultat. C’est la réalité sous‑jacente qu’il faut considérer. Comme je le disais plus haut, cette réalité sous‑jacente est que les sommes ont été perçues pour dédommager l’appelante de son obligation de payer la TVH découlant des dispositions de l’article 173 de la Loi sur la taxe d’accise, et non au titre de la taxe selon les articles 222 et 225 de la Loi sur la taxe d’accise.
+[19] L’article 18.3009 de la Loi sur la Cour canadienne de l’impôt prévoit notamment ce qui suit :
+18.3009 (1) Dans sa décision d’accueillir un appel visé à l’article 18.3001, la Cour rembourse à la personne qui a interjeté appel le droit de dépôt qu’elle a acquitté en vertu de l’alinéa 18.15(3)b), et la Cour peut, conformément aux modalités prévues par ses règles, allouer les frais et dépens à cette personne, si le montant en litige est réduit de plus de moitié et si :
+[…]
+c) dans le cas d’un appel interjeté en vertu de la partie IX de la Loi sur la taxe d’accise :
+(i) le montant en litige n’excède pas 7 000 $,
+(ii) le total des fournitures pour l’exercice précédent de la personne n’excède pas 1 000 000 $.
+[20] Puisque le présent appel est un appel mentionné dans l’article 18.3001 de la Loi sur la Cour canadienne de l’impôt, et puisque la somme en litige dépasse 7 000 $, il ne peut être adjugé de dépens à l’appelante.
+[21] En conséquence, l’appel est accueilli, sans dépens, et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, au motif que l’appelante n’a pas négligé de déclarer et de verser la TVH découlant de l’utilisation personnelle des véhicules de tourisme, selon les sommes de 18 704,56 $, 20 068,50 $, 23 653,47 $ et 24 661,80 $, pour les périodes se terminant le 28 février 2002, le 28 février 2003, le 29 février 2004 et 28 février 2005 respectivement.
+Signé à Halifax (Nouvelle‑Écosse), ce 25e jour de juillet 2008.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 31e jour d’octobre 2008.
+D. Laberge, LL.L.
+RÉFÉRENCE : 2008CCI428
+N° DU DOSSIER DE LA COUR : 2007‑2048(GST)I
+INTITULÉ : CARROLL PONTIAC BUICK LIMITED ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Halifax (Nouvelle‑Écosse)
+DATE DE L’AUDIENCE : Le 21 juillet 2008
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 25 juillet 2008
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Bruce S. Russell, c.r.
+Avocat de l’intimée :
+Me Martin Hickey
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Me Bruce S. Russell, c.r.
+Cabinet : McInnes Cooper
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

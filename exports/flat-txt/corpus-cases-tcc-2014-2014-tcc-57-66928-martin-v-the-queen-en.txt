@@ -1,0 +1,105 @@
+Title: Martin v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/66928/index.do
+Corpus path: corpus/cases/tcc/2014/2014-tcc-57-66928-martin-v-the-queen-en.md
+Document type: case_law
+Last modified: 2014-06-19
+
+# Martin v. The Queen
+
+- Citation: 2014 TCC 57
+- Decision date: 2014-06-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5962, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Martin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-06-19
+Neutral citation
+2014 TCC 57
+File numbers
+2012-3495(IT)G
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2014 TCC 57
+Date: 20140219
+Docket: 2012-3495(IT)G
+BETWEEN:
+LOUIS-FRED MARTIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Motions heard on February 11, 2014, at Montréal, Quebec.
+Before: The Honourable Justice Gaston Jorré
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Mounes Ayadi
+Counsel for Claude Prévost:
+Marie Pettigrew
+ORDER AND REASONS FOR ORDER
+[1] The Court has before it five motions filed by the appellant and a motion to quash the subpoena addressed to Claude Prévost.
+[2] The appellant is appealing from the determination of a loss. It is not entirely clear what the nature of the loss is, but it appears to be a capital loss of more than $14,000,000 related to the loss of his clients. At times, the appellant also seemed to be expecting other outcomes that are not under the Court's jurisdiction.
+[3] If a party wishes to examine an individual other than a party, it must receive prior authorization from the Court. This is in accordance with Rule 99 of the Tax Court of Canada Rules (General Procedure).
+[4] Absent such an order, a third party is under no obligation to answer the party's questions.
+[5] The appellant did not obtain an order under Rule 99, but sent written questions to five individuals who are not parties.
+[6] The five individuals in question did not respond and the appellant filed motions for the Court to order:
+(a) the arrest of these five individuals;
+(b) the detention of these five individuals until they answer the written questions.
+[7] The appellant did not convince me that there is any basis to these motions.
+[8] The five individuals had no obligation to answer the questions the appellant had sent.
+[9] As a result, the five motions are dismissed.
+[10] The week before the hearing of these motions, the appellant obtained subpoenas.
+[11] A subpoena for Claude Prévost was sent by registered mail to the Autorité des marchés financiers. This subpoena summoned Mr. Prévost to the hearing of the appellant's five motions. Mr. Prévost, now retired, was the assistant general director of Business Services
+[12] The subpoena was not served on “any person”, as required by the rule, and no witness fee was sent with the subpoena.
+[13] Under the circumstances of the five motions filed by the appellant, Mr. Prévost's testimony could not be relevant to these motions.
+[14] As a result, the subpoena addressed to Mr. Prévost is quashed.
+[15] Considering the nature of the motions and considering the motions are unfounded, the hearing of the motions and serving subpoenas would be a waste of time and resources for the parties, the Court and certain third parties.
+[16] The appellant had previously filed another motion that was heard and decided on June 20, 2013. This motion was dismissed because some of the outcomes being sought were not under the Court's jurisdiction. For example, one such motion asked [translation] "that the right to private property be included in the Canadian Charter of Human Rights."
+[17] Another reason the June 20, 2013, motion was dismissed is that, to a certain extent, it seeks a decision on the merits of the appeal.
+[18] Before the June 2013, hearing, the appellant had served a subpoena on Quebec's Deputy Minister of Finance and the Economy and on the Commissioner of the Canada Revenue Agency. Neither was able to provide any relevant testimony for the June 2013 motion and the Court quashed those two subpoenas after the June 17, 2013, hearing.
+[19] The Court heard the appellant at the March 1, 2013, June 17, 2013, June 20, 2013, and February 11, 2014, hearings. It noted that the appellant was having trouble understanding the proceeding before the Court and that this Court's jurisdiction is generally limited to appeals from assessments or determinations made by the Minister of National Revenue.
+[20] As a result, considering the Court's inherent power to control its process, it orders the following, of its own initiative and for the purpose of avoiding unnecessary proceedings:
+(a) In this proceeding:
+(i) the appellant shall obtain the Court's authorization prior to filing new motions;
+(i) the appellant shall obtain the Court's authorization prior to obtaining a subpoena to summon an individual to appear at the hearing of a motion.
+(b) With regard to the hearing on the merits, the appellant shall obtain the Court's prior authorization if he wishes to serve a subpoena on Claude Prévost, to Quebec's Deputy Minister of Finance and the Economy or to the Commissioner of the Canada Revenue Agency.
+Costs will be in the cause.
+Signed at Ottawa, Ontario, this 19th day of February 2014.
+"Gaston Jorré"
+Jorré J.
+Translation certified true
+on this 8th day of April 2014.
+Elizabeth Tan, Translator
+CITATION: 2014 TCC 57
+COURT FILE NO.: 2012-3495(IT)G
+STYLE OF CAUSE: LOUIS-FRED MARTIN v. THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: February 11, 2014
+REASONS FOR ORDER BY: The Honourable Justice Gaston Jorré
+DATE OF ORDER: February 19, 2014
+APPEARANCES:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Mounes Ayadi
+Counsel for Claude Prévost:
+Marie Pettigrew
+COUNSEL OF RECORD:
+For the appellant:
+Firm:
+For the respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Ontario

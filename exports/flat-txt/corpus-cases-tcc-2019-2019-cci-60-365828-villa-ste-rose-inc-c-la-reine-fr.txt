@@ -1,0 +1,257 @@
+Title: Villa Ste-Rose Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/365828/index.do
+Corpus path: corpus/cases/tcc/2019/2019-cci-60-365828-villa-ste-rose-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2019-03-15
+
+# Villa Ste-Rose Inc. c. La Reine
+
+- Citation: 2019 CCI 60
+- Decision date: 2019-03-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4313, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Villa Ste-Rose Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-03-15
+Référence neutre
+2019 CCI 60
+Numéro de dossier
+2016-5445(GST)G
+Juges et Officiers taxateurs
+Johanne D’Auray
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2016-5445(GST)G
+ENTRE :
+VILLA STE-ROSE INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu les 18 et 19 octobre 2018, à Montréal (Québec) et le 3 décembre 2018, par téléconférence, à Ottawa (Ontario).
+Prétentions écrites soumises par l’appelante le 18 janvier 2019 et par l’intimée le 7 février 2019.
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Avocates de l’appelante :
+Me Camille Janvier-Langis
+Me Ariane Hunter-Meunier
+Avocats de l’intimée :
+Me Christian Lemay
+Me Gabriel Déry
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Partie IX de la Loi sur la taxe d’accise, dont l’avis est daté du 30 octobre 2015, pour la période du 1er novembre 2014 au 30 novembre 2014 est accueilli avec frais contre l’intimée.
+Signé à Montréal, Québec, ce 15ième jour de mars 2019.
+« Johanne D’Auray »
+Juge D’Auray
+Référence : 2019 CCI 60
+Date : 20190315
+Dossier : 2016-5445(GST)G
+ENTRE :
+VILLA STE-ROSE INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge D’Auray
+I. Contexte
+[1] L’appelante n’est pas inscrite pour les fins de la TPS (« non-inscrit »). Elle exploite un centre d’hébergement pour personnes aînées semi-autonomes et en perte d’autonomie. Ses fournitures sont exonérées. Un incendie a détruit le centre d’hébergement. L’appelante a dû faire construire un nouvel immeuble afin de poursuivre ses activités.
+[2] Quand un immeuble est construit par un non-inscrit, la Loi sur la taxe d’accise, Partie IX-TPS (la « Loi »), répute une fourniture taxable au constructeur, en l’espèce, l’appelante. En d’autres mots, l’appelante devait s’autocotiser et payer la TPS sur la juste valeur marchande de l’immeuble qu’elle a fait construire.
+[3] La construction du nouvel immeuble s’est terminée le 1er novembre 2014. Tout au long de la construction de l’immeuble, l’appelante a payé la TPS à ses fournisseurs. Étant un non-inscrit, l’appelante ne pouvait réclamer des crédits sur les intrants (« CTI »). Afin de pallier cette situation le législateur a mis en place un mécanisme de remboursement qui fait en sorte que le fardeau fiscal d’un non-inscrit n’est pas plus lourd que celui d’un inscrit, ce dernier pouvant réclamer des CTI dans le cadre de ses activités commerciales.
+[4] L’appelante a produit sa déclaration de TPS en retard relativement au montant de la TPS à payer sur l’immeuble. À cette déclaration, l’appelante avait aussi joint ses demandes de remboursement.
+[5] La ministre du Revenu national (la « ministre ») a établi une cotisation imposant des intérêts et une pénalité pour production tardive sur l’intégrité du montant de la TPS à payer par l’appelante sur l’immeuble sans tenir compte des montants des remboursements réclamés par l’appelante.
+[6] Lors de l’audience, l’intimée a fait valoir que dès qu’une personne produit une déclaration de TPS en retard, elle doit payer des intérêts et une pénalité pour production tardive sur le montant de taxe à payer sur l’immeuble, sans tenir compte des remboursements. Selon l’intimée, dans les cas de productions tardives de la déclaration de TPS, la ministre n’a pas à compenser le montant de la TPS à payer par les montants des remboursements réclamés par l’appelante pour les fins du calcul des intérêts selon le paragraphe 280(1) et de la pénalité selon l’article 280.1 de la Loi. Selon l’intimée, la compensation au paragraphe 228(6) s’applique seulement dans les situations où la personne produit sa déclaration de TPS dans les délais.
+[7] Cependant, dans ses prétentions écrites remises après l’audience, l’intimée fait valoir que selon le paragraphe 228(6) de la Loi, la ministre devait opérer compensation le 28 septembre 2015 entre le montant de la TPS à payer et les remboursements. Cela étant dit, l’intimée maintient sa position que l’appelante doit payer les intérêts et la pénalité sur le montant de la TPS à payer sans tenir compte des remboursements demandés.
+[8] Quant à l’appelante, elle fait valoir que les intérêts et la pénalité ne peuvent s’appliquer que sur la différence entre le montant de la TPS à payer sur l’immeuble et les montants des remboursements auxquels l’appelante est en droit d’obtenir. L’appelante s’appuie sur la décision Humber College [1] , dans cette affaire le juge Miller de notre Cour a admis l’appel dans une affaire quasi identique.
+II. Faits
+[9] Lors de l’audience, les parties ont déposé une entente partielle sur les faits :
+LES PARTIES CONVIENNENT DE CE QUI SUIT :
+1. Le préambule fait partie intégrante de la présente entente partielle des parties sur les faits;
+Le contexte
+2. L’appelante est Villa Ste-Rose Inc.;
+3. L’appelante a été constituée le 6 décembre 2007 en vertu de la Partie 1A de la Loi sur les compagnies et est actuellement régie par la Loi sur les sociétés par actions;
+4. L’appelante exploite un centre d’hébergement pour personnes aînées semi-autonomes et en perte d’autonomie dans un immeuble situé au 319, boulevard Marc-Aurèle Fortin à Laval (ci-après, l’« Immeuble »);
+5. Les fournitures rendues par l’appelante sont exonérées en TPS;
+6. Ainsi, pendant toute la période en cause et à l’heure actuelle, l’appelante n’était pas inscrite au fichier de la TPS;
+La reconstruction et la déclaration de TPS
+7. Le 1er février 2013, un incendie a détruit l’Immeuble de l’appelante et cette dernière a mandaté un entrepreneur, afin de le reconstruire;
+8. Dans le cadre de la reconstruction de l’Immeuble, l’appelante a payé de la TPS à l’entrepreneur aux termes des factures émises par ce dernier;
+9. La reconstruction s’est terminée en totalité, ou en grande partie, le 1er novembre 2014;
+10. La première location est datée du 1er novembre 2014;
+11. En raison du paragraphe 191(3) de la LTA, l’appelante est réputée avoir effectué et reçu, par vente, la fourniture taxable de son immeuble locatif le 1er novembre 2014, soit la date à laquelle les travaux ont été achevés en grande partie et à laquelle la première location a eu lieu;
+12. En raison du paragraphe 238(2) de la LTA, à titre de non inscrite, le délai pour la production de la déclaration et le paiement de la taxe par l’appelante expirait le mois suivant la période du 1er novembre 2014 au 30 novembre 2014, soit au plus tard le 31 décembre 2014;
+13. Le montant de TPS exigible était de 736 864,18 $;
+14. L’appelante n’a pas produit de déclaration de TPS au 31 décembre 2014;
+15. Au 30 novembre 2014, l’appelante était éligible à demander des remboursements à l’égard des sommes suivantes :
+i. Une somme de 265 271,10 $ à titre de remboursement de la TPS pour fonds et bâtiments loués à des fins résidentielles, le tout en raison du paragraphe 256.2(3) de la LTA;
+ii. Une somme de 595 376,20 $ à titre de remboursement de la TPS, le tout en raison du paragraphe 257(1) de la LTA;
+16. Le 28 septembre 2015, le ministre a reçu :
+i. Une déclaration de taxe nette de 736 864,18 $ fondée sur une juste valeur marchande des travaux de 14 737 283,60 $;
+ii. Une demande de remboursement de la TPS pour immeuble locatif neuf (FP-524) pour la somme de 265 271,10 $ (suite à une correction intervenue le 13 octobre 2015);
+iii. Une demande générale de remboursement de la TPS (FP-189) pour la somme de 595 376,20 $;
+Les cotisations et l’opposition
+17. Le 30 octobre 2015, le ministre a délivré un avis de cotisation relativement à la TPS exigible sur la fourniture à soi-même de 736 864,18 $ et a cotisé :
+i. Une pénalité de 22 105,92 $ pour défaut de produire en vertu de l’article 280.1 de la LTA;
+ii. Des intérêts débiteurs de 27 984,09 $ en application du paragraphe 280(1) de la LTA;
+18. Dans le cadre du même avis de cotisation, le ministre a reconnu un crédit à l’appelante au montant de 860 665,48 $;
+19. Le ministre a calculé les intérêts sur le montant de 736 864,18 $ exigible à titre de TPS, et ce, pour la période du 1er janvier 2015 au 26 octobre 2015 et il a autorisé un crédit pour les remboursements FP-189 et FP 524 à compter de la date de confirmation des demandes de remboursement, soit le 26 octobre 2015;
+20. L’appelante a notifié à l’intimé un avis d’opposition le ou vers le 28 janvier 2016 à l’encontre de la cotisation délivrée le 30 octobre 2015;
+21. Le ou vers le 3 octobre 2016, l’intimée a notifié l’appelante de sa décision de maintenir en totalité la cotisation émise en [sic] l’encontre de l’appelante, d’où le présent appel;
+III. Questions en litige
+[10] Est-ce que les intérêts selon le paragraphe 280(1) et la pénalité pour production tardive selon l’article 280.1 de la Loi s’appliquent sur la totalité de la TPS exigible sur l’immeuble soit, un montant de 736 864,18 $ sans que ce montant soit compensé par les montants de remboursements soit, un montant de 860 665,48 $?
+[11] Ou, est-ce que les intérêts et la pénalité pour production tardive s’appliquent sur la différence entre le montant de TPS exigible de 736 864,18 $ et les remboursements auxquels l’appelante a droit pour un montant de 860 665,48 $?
+[12] Est-ce que la défense de diligence raisonnable s’applique à la pénalité imposée par la ministre en vertu de l’article 280.1 de la Loi?
+IV. Analyse
+[13] Le mécanisme des dispositions pertinentes de la Loi s’impose en l’espèce.
+[14] Selon la définition de « constructeur » à l’article 123 de la Loi, l’appelante est un constructeur.
+[15] En tant que constructeur, l’appelante devait s’autocotiser le 1er novembre 2014 selon le paragraphe 191(3) de la Loi. Selon cette disposition, l’appelante est réputée avoir effectué une vente de fourniture taxable de l’immeuble à elle-même le jour où les travaux sont achevés en grande partie ou, s’il est postérieur, le jour où la possession ou l’utilisation de l’habitation est transférée à la personne où l’habitation est occupée par lui. En l’espèce, le 1er novembre 2014.
+[16] En vertu de cette même disposition, le constructeur est réputé avoir effectué la vente et reçu la fourniture taxable relative à l’immeuble et avoir payé à titre d’acquéreur et perçu à titre de fournisseur la taxe relative à la fourniture, calculée sur la juste valeur marchande de l’immeuble. Le paragraphe 191(3) de la Loi énonce ce qui suit :
+191(3) Pour l’application de la présente partie, lorsque les conditions suivantes sont réunies :
+a) la construction ou les rénovations majeures d’un immeuble d’habitation à logements multiples sont achevées en grande partie,
+b) le constructeur, selon le cas :
+(i) transfère à une personne, qui n’est pas l’acheteur en vertu du contrat de vente visant l’immeuble, la possession ou l’utilisation d’une habitation de celui-ci aux termes d’un bail, d’une licence ou d’un accord semblable conclu en vue de l’occupation de l’habitation à titre résidentiel,
+(i.1) transfère à une personne la possession ou l’utilisation d’une habitation de l’immeuble aux termes d’une convention prévoyant :
+(A) d’une part, la fourniture par vente de tout ou partie du bâtiment faisant partie de l’immeuble,
+(B) d’autre part, la fourniture par bail du fonds faisant partie de l’immeuble ou la fourniture d’un tel bail par cession,
+(ii) étant un particulier, occupe lui-même à titre résidentiel une habitation de l’immeuble,
+c) le constructeur, la personne ou tout particulier qui a conclu avec celle-ci un bail, une licence ou un accord semblable visant une habitation de l’immeuble est le premier à occuper une telle habitation à titre résidentiel après que les travaux sont achevés en grande partie,
+le constructeur est réputé :
+d) avoir effectué et reçu, par vente, la fourniture taxable de l’immeuble le jour où les travaux sont achevés en grande partie ou, s’il est postérieur, le jour où la possession ou l’utilisation de l’habitation est transférée à la personne ou l’habitation est occupée par lui;
+e) avoir payé à titre d’acquéreur et perçu à titre de fournisseur, au dernier en date de ces jours, la taxe relative à la fourniture, calculée sur la juste valeur marchande de l’immeuble ce jour-là.
+[Je souligne.]
+[17] Cependant, comme l’appelante n’est pas un inscrit et que ses activités sont exonérées, l’appelante n’est pas en mesure de réclamer des CTI. Ainsi, si la Loi ne prévoyait aucun mécanisme de remboursement, l’appelante serait fiscalement désavantagée vis-à-vis d’autres constructeurs inscrits qui, dans le cadre de leurs activités commerciales, sont en droit de réclamer des CTI, soit la TPS qu’ils ont payée à leurs fournisseurs lors de la construction d’un immeuble.
+[18] Afin de pallier cette situation envers un constructeur non-inscrit, le législateur a créé un mécanisme de remboursement. En l’espèce, l’appelante a droit à deux remboursements. Le remboursement visé au paragraphe 257(1) de la Loi qui permet à l’appelante de réclamer en grande partie la TPS qu’elle a payée aux fournisseurs lors de la construction de l’immeuble. Le deuxième remboursement selon le paragraphe 256.2(3) est pour fonds et bâtiments loués à des fins résidentielles.
+Vente d’immeuble par un non-inscrit
+257 (1) Sous réserve des paragraphes (1.1) et (2), le ministre rembourse au non-inscrit qui effectue la fourniture taxable d’un immeuble par vente un montant égal au moins élevé des montants suivants :
+a) la teneur en taxe de l’immeuble au moment de la fourniture;
+b) la taxe qui est payable relativement à la fourniture, ou qui le serait en l’absence des articles 167 ou 167.11.
+257 (2) Le remboursement n’est versé que si la personne en fait la demande dans les deux ans suivant le jour où la contrepartie de la fourniture est devenue due ou a été payée sans qu’elle soit devenue due.
+Remboursement pour fonds et bâtiment loués à des fins résidentielles
+256.2 (3) Sous réserve des paragraphes (7) et (8), le ministre rembourse une personne (sauf une coopérative d’habitation) dans le cas où, à la fois :
+a) la personne, selon le cas :
+(i) […]
+(ii) est le constructeur d’un immeuble d’habitation ou d’une adjonction à un immeuble d’habitation à logements multiples qui transfère la possession ou l’utilisation d’une habitation de l’immeuble ou de l’adjonction à une autre personne aux termes d’un bail conclu en vue de l’occupation de l’habitation à titre résidentiel et, par suite de ce transfert, elle est réputée par l’article 191 avoir effectué et reçu, par vente, la fourniture taxable (appelée « achat présumé » au présent paragraphe) de l’immeuble ou de l’adjonction.
+b) à un moment donné, la taxe devient payable pour la première fois relativement à l’achat auprès du fournisseur ou la taxe relative à l’achat présumé est réputée avoir été payée par la personne;
+c) au moment donné, l’immeuble ou l’adjonction, selon le cas, est une habitation admissible de la personne ou comprend une ou plusieurs telles habitations;
+d) la personne ne peut inclure, dans le calcul de son crédit de taxe sur les intrants, la taxe relative à l’achat auprès du fournisseur ou la taxe relative à l’achat présumé.
+256.2 (7) Un remboursement n’est accordé en vertu du présent article que si, à la fois :
+a) la personne en fait la demande dans les deux ans suivant la fin du mois ci-après :
+(i) dans le cas du remboursement prévu au paragraphe (5), le mois où elle effectue la fourniture exonérée visée au sous-alinéa (5)a)(ii),
+(ii) dans le cas du remboursement prévu au paragraphe (6), le mois au cours duquel la taxe visée à ce paragraphe est réputée avoir été payée par elle,
+(iii) en ce qui concerne les autres remboursements pour habitation, le mois où la taxe devient payable par elle pour la première fois, ou est réputée avoir été payée par elle pour la première fois, relativement à l’habitation ou à un droit y afférent, ou relativement à l’immeuble d’habitation ou à l’adjonction dans lequel elle est située, ou à un droit dans cet immeuble ou cette adjonction;
+b) dans le cas où le remboursement fait suite à une fourniture taxable que la personne a reçue d’une autre personne, la personne a payé la totalité de la taxe payable relativement à cette fourniture;
+c) dans le cas où le remboursement fait suite à une fourniture taxable relativement à laquelle la personne est réputée avoir perçu la taxe au cours d’une de ses périodes de déclaration, la personne a indiqué la taxe dans sa déclaration produite aux termes de la section V pour la période de déclaration et a versé la totalité de la taxe nette qui était à verser d’après cette déclaration.
+[Je souligne.]
+[19] Quant aux paragraphes 238(2), 228(1), 228(4) et l’alinéa 228(2)b) de la Loi, ces derniers énoncent les obligations d’un non-inscrit quant à la production de la déclaration et les versements de TPS au receveur général.
+Production par un non-inscrit
+238(2) Le non-inscrit est tenu de présenter une déclaration au ministre dans le mois suivant chacune de ses périodes de déclaration pour laquelle il doit verser la taxe nette.
+Calcul de la taxe nette
+228 (1) La personne tenue de produire une déclaration en application de la présente section doit y calculer sa taxe nette pour la période de déclaration qui y est visée, sauf si les paragraphes (2.1) ou (2.3) s’appliquent à la période de déclaration.
+Versement
+(2) La personne est tenue de verser au receveur général le montant positif de sa taxe nette pour une période de déclaration dans le délai suivant, sauf les paragraphes (2.1) ou (2.3) s’appliquent à la période de déclaration :
+a) [. . .]
+b) dans les autres cas, au plus tard le jour où la déclaration visant la période est à produire.
+Autocotisation lors de l’acquisition d’un immeuble
+4) Le redevable de la taxe prévue à la section II relativement à un immeuble qui lui a été fourni par une personne qui n’est pas tenue de percevoir la taxe et n’est pas réputée l’avoir perçue est tenu :
+a) s’il est un inscrit et a acquis le bien pour l’utiliser ou le fournir principalement dans le cadre de ses activités commerciales, de payer la taxe au receveur général au plus tard le jour où il est tenu de produire sa déclaration pour la période de déclaration où la taxe est devenue payable et d’indiquer la taxe dans cette déclaration;
+b) sinon, de payer la taxe au receveur général et de présenter au ministre, en la forme et selon les modalités déterminées par celui-ci, une déclaration la concernant et contenant les renseignements requis, au plus tard le dernier jour du mois suivant le mois civil où la taxe est devenue payable.
+[Je souligne.]
+[20] Selon le paragraphe 228(4), l’appelante devait produire et payer la TPS pour un montant de 736 864,18 $, le 31 décembre 2014. L’appelante a produit sa déclaration de TPS le 28 septembre 2015; elle était donc en retard. Dans sa déclaration de TPS, l’appelante avait aussi joint ses demandes de remboursement, ces dernières ont été produites dans les délais prescrits par la Loi.
+[21] Cependant, le paragraphe 228(6) de la Loi permet à la ministre d’opérer compensation entre la TPS à payer et les remboursements. Ainsi, selon cette disposition la ministre doit compenser la TPS à payer par les remboursements dès que la personne produit une déclaration de TPS et qu’elle joint à cette déclaration une demande de remboursement.
+Compensation de remboursement
+(6) Dans le cas où une personne produit, à un moment donné et conformément à la présente partie, une déclaration où elle indique un montant (appelé « versement » au présent paragraphe) qu’elle est tenue de verser en application des paragraphes (2) ou (2.3) ou de payer en application des paragraphes (2.1) ou (4) ou des sections IV ou IV.1 et qu’elle demande dans cette déclaration, ou dans une autre déclaration ou une demande produite conformément à la présente partie avec cette déclaration, un remboursement qui lui est payable à ce moment en application de la présente partie, compte non tenu de la section III, la personne est réputée avoir versé à ce moment au titre de son versement, et le ministre avoir payé à ce moment au titre du remboursement, ce versement ou, s’il est inférieur, le montant du remboursement.
+[Je souligne.]
+[22] Selon le paragraphe 228(6) de la Loi, dès qu’une personne produit à un « moment donné » ou « at any time » (dans la version anglaise de la Loi) une déclaration de TPS, la ministre doit opérer compensation entre la TPS à payer et les remboursements. En l’espèce l’appelante a produit sa déclaration de TPS et ses demandes de remboursement le 28 septembre 2015. À cette, date la ministre devait opérer compensation entre la TPS à payer sur l’immeuble et les remboursements.
+[23] Le paragraphe 296(2.1) de la Loi opère aussi compensation entre la TPS à payer et les montants de remboursement dans certains cas. Le paragraphe 296(2.1) oblige la ministre à opérer compensation entre la TPS à payer et les remboursements, si elle constate que la personne a droit à un remboursement même si cette personne ne l’a pas demandé. Ce paragraphe fait en sorte que la ministre peut opérer compensation, même si le délai pour demander un tel remboursement est expiré. La ministre peut donc agir de manière rétroactive. Le paragraphe 296(2.1) énonce ce qui suit :
+Application d’un crédit non demandé
+296 (2.1) - Le ministre, s’il constate les faits ci-après relativement à un montant (appelé « montant de remboursement déductible » au présent paragraphe) lors de l’établissement d’une cotisation concernant la taxe nette d’une personne pour une période de déclaration de celle-ci ou concernant un montant (appelé « montant impayé » au présent paragraphe) qui est devenu payable par une personne en vertu de la présente partie, applique tout ou partie du montant de remboursement déductible en réduction de la taxe nette ou du montant impayé comme si la personne avait payé ou versé, à la date visée aux sous-alinéas a)(i) ou (ii), le montant ainsi appliqué au titre de la taxe nette ou du montant impayé :
+a) le montant de remboursement déductible aurait été payable à la personne à titre de remboursement s’il avait fait l’objet d’une demande produite aux termes de la présente partie à la date suivante et si, dans le cas où le remboursement vise un montant qui fait l’objet d’une cotisation, la personne avait payé ou versé ce montant :
+(i) si la cotisation concerne la taxe nette pour la période de déclaration, la date limite de production de la déclaration aux termes de la section V pour la période,
+(ii) si la cotisation concerne un montant impayé, la date à laquelle ce montant est devenu payable par la personne;
+b) le montant de remboursement déductible n’a pas fait l’objet d’une demande produite par la personne avant le jour où l’avis de cotisation lui est envoyé;
+c) le montant de remboursement déductible serait payable à la personne s’il faisait l’objet d’une demande produite aux termes de la présente partie le jour où l’avis de cotisation lui est envoyé, ou serait refusé s’il faisait l’objet d’une telle demande du seul fait que le délai dans lequel il peut être demandé a expiré avant ce jour.
+[Je souligne.]
+[24] L’intimée fait valoir que l’alinéa 296(2.1) b) de la Loi n’a pas d’application en l’espèce. Je suis d’accord avec l’intimée, l’alinéa 296(2.1)b) ne s’applique pas dans le présent litige, car les demandes de remboursement ont été produites par l’appelante avant que l’avis de cotisation lui soit envoyé.
+[25] Dans la décision Humber College, précitée, ce dernier devait s’autocotiser sur ses immeubles et avoir recours aux remboursements afin de récupérer une partie de la TPS payée pendant la construction des immeubles. Tout comme le cas en l’espèce, Humber College avait également déposé ses déclarations de TPS en retard. La ministre a établi une cotisation selon l’article 280 de la Loi en calculant les intérêts sur la totalité de la TPS exigible sans tenir compte des remboursements réclamés par Humber College.
+[26] Cependant, dans Humber College, la TPS à payer était supérieure aux remboursements. Humber College faisait valoir que les intérêts ne s’appliqueraient que sur la différence entre le montant de TPS à payer et les montants de remboursement.
+[27] Le juge Miller, dans l’affaire Humber College, note que dans les situations où une personne doit s’autocotiser sur un immeuble selon le paragraphe 191(3) de la Loi, et qu’elle est en retard dans la production de sa déclaration de TPS, trois choix s’imposent :
+− Premièrement, Humber College aurait pu ne rien faire et attendre que la ministre constate qu’il devait s’autocotiser et qu’il était en droit de réclamer des remboursements, auquel cas le paragraphe 296(2.1) s’appliquerait et des intérêts auraient été imputés uniquement sur le montant net de la TPS à payer.
+− Deuxièmement, Humber College aurait pu produire tardivement une déclaration de TPS en déclarant les achats d’immeubles, ne pas demander le remboursement et attendre la cotisation. Encore une fois, le paragraphe 296(2.1) de la Loi s’appliquerait; la TPS payable serait compensée par les remboursements et des intérêts s’appliqueraient que sur le montant net à payer.
+− Troisièmement, Humber College pouvait faire ce qu’il a fait, soit produire une déclaration de TPS et demander le remboursement, ce qui a conduit la ministre à imposer des intérêts sur l’intégralité de la TPS.
+[28] Tout comme dans Humber College, l’appelante a adopté le troisième scénario. L’appelante ne savait pas qu’elle devait s’autocotiser sur l’immeuble et qu’elle avait droit à des remboursements. C’est à la suite d’une rencontre avec un expert en TPS, qu’elle a appris que la Loi exigeait qu’elle s’autocotise. À cet effet, l’appelante a promptement produit une déclaration de TPS avec ses demandes de remboursement. Si l’appelante avait choisi le deuxième scénario, soit de produire sa déclaration de TPS, le 28 septembre 2015, attendre la cotisation de la ministre, et demander des remboursements, le paragraphe 296(2.1)b) de la Loi s’appliquerait. L’appelante n’aurait pas à payer des intérêts ou une pénalité, puisque qu’en vertu de ce paragraphe la ministre aurait compensé entre la TPS payable et les remboursements. Le premier scénario énoncé par le juge Miller donne le même résultat, une personne qui ne fait rien et qui attend que la ministre constate qu’une personne a droit à un remboursement, cette personne ne paiera pas d’intérêts ou de pénalité sur le montant intégral de la TPS payable. Ce montant sera compensé par les remboursements selon le paragraphe 296(2.1). Par conséquent, une personne qui dépose une déclaration et des demandes de remboursement, dès qu’elle s’aperçoit que la loi l’exigeait, se retrouve dans une situation défavorable d’un point de vue fiscal, comparativement à la personne qui ne fait rien et attend que la ministre constate qu’une personne a droit à des remboursements.
+[29] Lors de l’audience, la position de l’intimée était que le paragraphe 228(6) de la Loi ne s’appliquait pas quand une personne produisait sa déclaration de TPS en retard. Conséquemment, la ministre ne pouvait pas opérer compensation. Ainsi, selon l’interprétation préconisée par l’intimée, la TPS à payer et les remboursements devaient être analysés de manières distinctes. L’appelante ayant produit sa déclaration de TPS en retard, elle devait payer des intérêts et une pénalité sur la TPS à payer sans que la ministre compense le montant de la TPS à payer par les remboursements. Par conséquent, lors de l’audience, l’intimée a fait valoir que l’appelante devait payer des intérêts pour la période du 1er janvier au 26 octobre 2015 [2] et une pénalité sur le montant intégral de TPS à payer de 736 864,18 $, sans tenir compte des demandes de remboursement de 860 665,48 $. L’intimée a également fait valoir que l’affaire Humber College a été entendue sous le régime de la procédure informelle; cette décision n’a donc aucune valeur jurisprudentielle. De plus, selon l’intimée, le juge Miller n’a pas traité du paragraphe 228(6) de la Loi dans ses motifs, par conséquent, je ne dois pas appliquer cette décision en l’espèce.
+[30] Lors de l’audience l’appelante a fait valoir que je devais adopter le raisonnement du juge Miller dans Humber College. De plus, l’appelante a fait valoir que le paragraphe 228(6) de la Loi n’était pas pertinent au débat.
+[31] Après l’audience, lors d’une téléconférence, j’ai demandé des prétentions écrites aux parties quant à l’application du paragraphe 228(6) de la Loi. J’étais d’avis que ce paragraphe opérait compensation, il était donc pertinent pour les fins du litige.
+[32] Dans ses prétentions écrites, l’intimée a modifié sa position. Selon l’intimée, la ministre devait opérer compensation selon le paragraphe 228(6) de la Loi, le 28 septembre 2015 date où l’appelante a produit sa déclaration de TPS et ses demandes de remboursement. Cependant, l’intimée plaide que la ministre a correctement imposé les intérêts et la pénalité sur la totalité de la TPS payable, sans tenir compte des remboursements.
+[33] Dans ses prétentions écrites, l’appelante a également modifié son argument. Elle fait valoir que selon le paragraphe 228(6) de la Loi, la ministre devait opérer compensation le 28 septembre 2015. Cela étant dit, elle s’appuie sur l’interprétation donnée par le juge Miller dans Humber College. À cet égard, elle fait valoir que le mot « montant » au paragraphe 280(1) (intérêts) et l’article 280.1 de la Loi (pénalité pour production tardive) réfère à un montant net, soit la différence entre la TPS payable et les remboursements.
+[34] Je suis d’avis que l’article 228 de la Loi et plus particulièrement le paragraphe 228(6) règle le litige. Sans adopter le même raisonnement que le juge Miller, certains de ses commentaires ont pour effet de renforcer ma conclusion à l’égard de ces dispositions.
+[35] Le paragraphe 228(1) de la Loi réfère au calcul de la taxe nette. Le paragraphe 228(2) énonce qu’une personne doit verser au receveur général le montant positif de sa taxe nette. Le paragraphe 228 (4) s’applique dans le cas d’une autocotisation et énonce que la personne doit payer la taxe dans un délai prescrit.
+[36] Le paragraphe 228(6) de la Loi s’applique aux paragraphes 228(2) et 228(4). Le paragraphe 228(6) opère compensation entre la taxe payable et les remboursements. Dès qu’une personne dépose une déclaration de TPS « à un moment donné » ou dans la version anglaise de la Loi « at any time » et qu’elle joint à cette déclaration une demande de remboursement, la personne est réputée « à ce moment » (en l’espèce, le 28 septembre 2015) avoir versé son versement et la ministre avoir payé « à ce moment » (le 28 septembre 2015) un montant au titre de remboursement.
+[37] Si le paragraphe 228(6) s’applique au paragraphe 228(4), la taxe à payer selon le paragraphe 228(4) doit être une taxe nette, sinon quelle serait le rôle du paragraphe 228(6) à l’égard du paragraphe 228(4). Ces paragraphes doivent être lus dans le cadre des dispositions de l’article 228 qui réfère toutes à des taxes nettes.
+[38] Selon le paragraphe 228(6), la TPS est réputée versée par la personne et les remboursements réputés payés par la ministre à ce moment, le 28 septembre 2015. Par conséquent, l’intérêt selon le paragraphe 280 (1) et la pénalité selon l’article 280.1 sont applicables sur le montant de la taxe nette payable. En l’espèce, les remboursements étant supérieurs à la TPS payable, des intérêts et une pénalité ne peuvent être imposés par la ministre. Il va de soi que pour que le paragraphe 228(6) s’applique, la demande de remboursement jointe à la déclaration de TPS doit être produite dans le délai requis par la Loi. À cet égard, le paragraphe 228(6) énonce « un remboursement qui lui est payable à ce moment en application de la présente partie ». En l’espèce, la question ne se pose pas, car les demandes de remboursement ont été faites dans le délai de deux ans de la fourniture taxable.
+[39] Cette interprétation cadre avec l’objectif de la Loi et la raison d’être des dispositions sur les remboursements. Par exemple,
+- Dans le cadre d’une autocotisation, une personne qui produit dans les délais sa déclaration de TPS et y joint sa demande de remboursement, le paragraphe 228(6) de la Loi opère compensation. Dans un tel cas, la personne n’aura aucun intérêt ni pénalité à payer.
+- Dans le cas où une personne produit sa déclaration de TPS en retard et à cette déclaration elle joint une demande de remboursement, le paragraphe 228(6) de la Loi opère compensation. Le paragraphe 228(6) s’appliquant au paiement de la taxe selon le paragraphe 228(4), une personne qui dépose sa déclaration de TPS en retard devra payer des intérêts selon le paragraphe 280(1) et une pénalité pour production tardive selon l’article 280.1, sur le montant compensé, soit sur la différence entre le montant de TPS payable réduit par les remboursements.
+- Dans un cas où lors d’une vérification, la ministre constate qu’une personne a droit à un remboursement, même si cette personne ne l’a pas demandé, la ministre pourra accorder un remboursement et opérer compensation selon le paragraphe 296(2.1) de la Loi, si cette personne a un montant de TPS payable.
+[40] Cette interprétation des dispositions applicables de la Loi fait aussi en sorte qu’un non-inscrit constructeur d’un immeuble ne soit pas désavantagé à l’égard d’un constructeur inscrit sous le régime de la TPS. Un constructeur inscrit qui dans le cadre de ses activités commerciales paie de la TPS et réclame des CTI. Si cet inscrit produisait une déclaration de TPS en retard, les intérêts et la pénalité ne s’appliqueraient que sur le montant net à payer et non pas sur le montant brut de la TPS à payer, puisque c’est toujours le montant net qui est imposé, soit la TPS à payer moins les CTI. Il est donc tout à fait logique que le même traitement s’applique à des constructeurs non-inscrits.
+[41] De plus, tel que l’a énoncé le juge Miller dans l’affaire Humber College, le remboursement est expressément lié à la période de demande pendant laquelle naît le droit au remboursement. Cela est conforme à l’idée que la taxe et le remboursement sont inextricablement liés à une transaction. Le remboursement ne vise pas une période de demande ultérieure, mais seulement la période antérieure : il va de pair avec l’imposition de la taxe. Le montant prévu au paragraphe 280(1) de la Loi que l’appelante a omis de payer et qui est assujetti à des intérêts ne peut être que le montant net compensé par les remboursements, puisqu’il s’agit de la véritable dette que la personne a envers les autorités fiscales. À mon avis, cette interprétation prend tout son sens à la lumière des paragraphes 228(1), 228(2), 228(4) et 228(6) qui réfèrent à une taxe nette et à une compensation entre la TPS payable et les remboursements.
+[42] De plus, l’examen des libellés des dispositions relatives aux remboursements demandés par l’appelante aux paragraphes 256.2(3) et 257(1) de la Loi appuie également une interprétation qui cadre avec les objectifs ci-haut mentionnés quant aux dispositions en litige. Selon le libellé de ces dispositions, dès qu’une personne effectue une fourniture taxable suite à une autocotisation relative à un immeuble et qu’elle demande un remboursement, cette personne est en droit de recevoir un remboursement.
+[43] Si je retenais l’argument de l’intimée, le résultat serait absurde. Tel que je l’énonce au paragraphe 27 de ces motifs, selon les deux premiers scénarios, une personne qui ne fait rien ou une personne qui ne dépose que sa déclaration sans y joindre ses demandes de remboursement se retrouvait dans une meilleure situation fiscale qu’une personne qui a commis une erreur et qui procède à une autocotisation. Dans ces situations le paragraphe 296.1 de la Loi s’appliquerait et la personne n’aurait pas à payer de l’intérêt et une pénalité sur le montant intégral de la TPS. Cela encouragerait les personnes à faire fi de l’autocotisation. Ce n’est sûrement pas ce que le législateur a voulu.
+[44] Dans l’affaire Rizzo & Rizzo Shoes Ltd (Re) [3] , le juge Iacobucci dans un jugement unanime de la Cour suprême du Canada énonce l’interprétation à suivre quand l’interprétation préconisée par une partie donne un résultat absurde :
+21. Bien que l’interprétation législative ait fait couler beaucoup d’encre (voir par ex. Ruth Sullivan, Statutory Interpretation (1997); Ruth Sullivan, Driedger on the Construction of Statutes (3e éd. 1994) (ci-après « Construction of Statutes »); Pierre André Côté, Interprétation des lois (2e éd. 1990)), Elmer Driedger dans son ouvrage intitulé Construction of Statutes (2e éd. 1983) résume le mieux la méthode que je privilégie. Il reconnaît que l’interprétation législative ne peut pas être fondée sur le seul libellé du texte de loi. À la p. 87, il écrit ce qui suit :
+[TRADUCTION] Aujourd’hui il n’y a qu’un seul principe ou solution: il faut lire les termes d’une loi dans leur contexte global en suivant le sens ordinaire et grammatical qui s’harmonise avec l’esprit de la loi, l’objet de la loi et l’intention du législateur.
+22. Je m’appuie également sur l’art. 10 de la Loi d’interprétation, L.R.O. 1980, ch. 219, qui prévoit que les lois « sont réputées apporter une solution de droit » et doivent « s’interpréter de la manière la plus équitable et la plus large qui soit pour garantir la réalisation de leur objet selon leurs sens, intention et esprit véritables »
+[. . .]
+26. À mon avis, les conséquences ou effets qui résultent de l’interprétation que la Cour d’appel a donnée des art. 40 et 40a de la LNE ne sont compatibles ni avec l’objet de la Loi ni avec l’objet des dispositions relatives à l’indemnité de licenciement et à l’indemnité de cessation d’emploi elles-mêmes. Selon un principe bien établi en matière d’interprétation législative, le législateur ne peut avoir voulu des conséquences absurdes. D’après Côté, op. cit., on qualifiera d’absurde une interprétation qui mène à des conséquences ridicules ou futiles, si elle est extrêmement déraisonnable ou inéquitable, si elle est illogique ou incohérente, ou si elle est incompatible avec d’autres dispositions ou avec l’objet du texte législatif (aux pp. 430 à 432). Sullivan partage cet avis en faisant remarquer qu’on peut qualifier d’absurdes les interprétations qui vont à l’encontre de la fin d’une loi ou en rendent un aspect inutile ou futile (Sullivan, Construction of Statutes, op. cit., à la p. 88).
+[45] Par conséquent, je suis d’avis que les intérêts selon le paragraphe 280(1) et la pénalité pour production tardive selon l’article 280.1 de la Loi ne s’appliquent que sur le montant net, c’est-à-dire sur le montant de TPS payable compensé par les remboursements. En l’espèce, les remboursements étant supérieurs à la TPS à payer, la ministre n’était pas justifiée d’imposer des intérêts et une pénalité pour production tardive.
+[46] Étant donné ma conclusion à la première question, je n’ai pas à décider de la question relative à la pénalité pour production tardive.
+V. Dispositif
+[47] L’appel est accueilli avec frais contre l’intimée.
+Signé à Montréal, Québec, ce 15ième jour de mars 2019.
+« Johanne D’Auray »
+Juge D’Auray
+RÉFÉRENCE :
+2019 CCI 60
+Nº DU DOSSIER DE LA COUR :
+2016-5445(GST)G
+INTITULÉ DE LA CAUSE :
+VILLA STE-ROSE INC. c SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+Ottawa (Ontario)
+DATE DE L’AUDIENCE :
+Les 18 et 19 octobre 2018 et le 3 décembre 2018
+MOTIFS DE JUGEMENT PAR :
+L’honorable juge Johanne D’Auray
+DATE DU JUGEMENT :
+Le 15 mars 2019
+COMPARUTIONS :
+Avocates de l’appelante :
+Me Camille Janvier-Langis
+Me Ariane Hunter-Meunier
+Avocats de l’intimée :
+Me Christian Lemay
+Me Gabriel Déry
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Camille Janvier-Langis
+Me Étienne Gadbois
+Cabinet :
+Dentons Canada s.e.n.c.r.l.
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] The Humber College Institute of Technology & Advanced Learning c Sa Majesté la Reine, 2013 CCI 146.
+[2] Date de la confirmation des demandes de remboursement.
+[3] Rizzo & Rizzo Shoes Ltd. (Re), [1998] 1 RSC 27.

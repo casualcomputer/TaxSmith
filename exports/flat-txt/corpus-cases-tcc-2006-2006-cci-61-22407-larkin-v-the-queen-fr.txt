@@ -1,0 +1,129 @@
+Title: Larkin v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/22407/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-61-22407-larkin-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-02-03
+
+# Larkin v. The Queen
+
+- Citation: 2006 CCI 61
+- Decision date: 2006-02-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2265, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Larkin v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-02-03
+Référence neutre
+2006 CCI 61
+Numéro de dossier
+2004-3715(IT)I
+Juges et Officiers taxateurs
+Theodore E. Margeson
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-3715(IT)I
+ENTRE :
+FRANK A. LARKIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 17 novembre 2005 à Toronto (Ontario)
+Devant : L'honorable T. E. Margeson
+Comparutions :
+Représentant de l'appelant :
+M. Richard Korzeniewski
+Avocat de l'intimée :
+Me Stacey Sloan
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'égard de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2002 est rejeté conformément aux motifs du jugement ci-joints.
+Signé à New Glasgow (Nouvelle-Écosse), ce 3e jour de février 2006.
+« T.E. Margeson »
+Juge Margeson
+Traduction certifiée conforme
+ce 20e jour d'avril 2006.
+Aleksandra Koziorowska
+Référence : 2006CCI61
+Date : 20060203
+Dossier : 2004-3715(IT)I
+ENTRE :
+FRANK A. LARKIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Margeson
+[1] Il s'agit d'un appel d'une cotisation établie par le ministre à l'égard de l'année d'imposition 2002, dans laquelle le ministre a inclus 10 382,40 $ dans le revenu de l'appelant au motif que ce revenu n'était pas exonéré de l'impôt canadien en vertu de la Convention fiscale entre le Canada et le Royaume-Uni.
+[2] Selon l'appelant, le montant n'était pas imposable au Canada parce qu'il s'agissait d'un revenu de pension provenant d'Irlande auquel l'appelant avait droit en raison des cotisations qu'il avait versées en Irlande alors qu'il y travaillait.
+[3] L'appelant a comparu avec son représentant, qui a dit qu'il ne se sentait pas très bien et qu'il ne pouvait pas mener l'affaire de manière appropriée.
+[4] Après avoir entendu les deux parties, la Cour a estimé que l'appelant était en mesure de fournir les éléments de preuve nécessaires pour appuyer sa position. La preuve était simple et claire.
+[5] Dans son témoignage devant la Cour, l'appelant a dit qu'il ne contestait pas les prétentions qui figurent dans la réponse à l'avis d'appel et qui sont rédigées ainsi :
+[traduction]
+a) l'appelant était un résident de fait du Canada tout au long de l'année d'imposition 2002, et il l'était depuis plusieurs années;
+b) l'appelant a reçu un montant total de 5 739,42 $ du fonds enregistré de revenu de retraite et un montant total de 4 421,28 $ à titre de prestations canadiennes de retraite ou de pension, montants qu'il a correctement inclus dans le calcul du total de son revenu imposable net pour l'année d'imposition 2002;
+c) l'appelant avait droit au montant pour revenu de pension, un crédit d'impôt
+non-remboursable, et s'est vu accorder le maximum déductible, c'est-à-dire 1 000,00 $, pour l'année d'imposition 2002;
+d) l'appelant a reçu 10 382,40 $CAN en pension de vieillesse à caractère contributif (la « pension de vieillesse » ) de la République d'Irlande pendant l'année d'imposition 2002 et a correctement inclus ce montant dans le total de son revenu net pour l'année;
+e) l'appelant a versé des cotisations au régime de pension de vieillesse pendant les années d'imposition antérieures, alors qu'il travaillait;
+f) l'appelant a omis d'inclure le revenu provenant de la pension de vieillesse, à savoir le montant de 10 382,40 $CAN, dans son revenu imposable pour l'année d'imposition 2002.
+[6] L'appelant a aussi mentionné que la pension de vieillesse qu'il recevait d'Irlande était très importante pour lui, qu'elle constituait l'essentiel de ce qu'il avait reçu, et qu'il ne pouvait pas se permettre de se départir d'une bonne partie de ce montant. Il estimait qu'il ne devait pas payer de l'impôt sur ce montant. Son représentant lui avait dit qu'il s'agissait d'un montant déductible.
+Arguments de l'intimée
+[7] L'avocat de l'intimée soutient que la seule question en litige est de savoir si le revenu de pension reçu d'Irlande était imposable. Il a renvoyé au paragraphe 2(1) de la Loi de l'impôt sur le revenu (la « Loi » ), qui exige que tous les revenus soient déclarés. De plus, le paragraphe 2(3) prévoit que le contribuable doit déterminer les revenus qu'il a reçus de toute provenance. Le paragraphe 56(1) stipule que le contribuable droit inclure tous les revenus de pension dans le calcul de son revenu.
+[8] L'article 110 de la Loi permet au contribuable de déduire certains montants dans le calcul du revenu imposable. En ce qui concerne l'appelant, le seul fondement possible pour une déduction est le sous-alinéa 110(1)f)(i), qui traite d' « une somme exonérée de l'impôt sur le revenu au Canada par l'effet d'une disposition de quelque convention ou accord fiscal avec un autre pays qui a force de loi au Canada [...] » .
+[9] Le paragraphe 248(1) définit l'expression « prestation de retraite ou de pension » , qui inclurait le montant en litige.
+[10] Les dispositions pertinentes de l'ancienne Convention fiscale entre le Canada et l'Irlande tendent à éviter la double imposition. Elles sont ainsi libellées :
+Article I 1. Les impôts qui font l'objet de la présente Convention sont :
+a) au Canada : les impôts sur le revenu, y compris l'impôt de sécurité de la vieillesse sur le revenu, qui sont établis par le Gouvernement du Canada (ci-après appelés « impôt canadien » ).
+b) en Irlande : l'impôt sur le revenu, y compris la surtaxe et l'impôt sur les bénéfices des corporations (ci-après appelés « impôt irlandais » ).
+Article XI 1. Toute pension ou annuité tirée de sources situées au Canada par un particulier résidant en Irlande sera exonérée de l'impôt canadien.
+2. Toute pension ou annuité tirée de sources situées en Irlande par un particulier résidant au Canada sera exonérée de l'impôt irlandais.
+[11] En vertu des dispositions de l'article 110 de la Loi, le montant en litige est exonéré de l'impôt irlandais. Il n'existe aucune autre disposition susceptible d'aider l'appelant.
+[12] L'appel doit être rejeté.
+Arguments de l'appelant
+[13] À l'audience, l'appelant a demandé que sa plaidoirie soit reportée jusqu'à ce que son représentant se sente mieux et soit en mesure de la présenter par écrit. La Cour a donné à l'appelant jusqu'au 17 décembre 2005 pour présenter sa plaidoirie par écrit et a permis à l'intimée d'y répondre, si elle le voulait, dans un délai de 10 jours.
+[14] Une lettre provenant de l'appelant a été reçue le 13 décembre 2005. L'appelant y a indiqué que son représentant était toujours malade, qu'il ne pouvait pas agir pour le compte de l'appelant et qu'il ne le représenterait plus.
+[15] En s'adressant à la Cour, l'appelant s'est contenté de reprendre ce qu'il avait dit lors de son témoignage et d'affirmer que l'argent devait être exonéré d'impôt puisqu'il l'avait gagné de nombreuses années auparavant, alors qu'il résidait en Irlande, et qu'il devrait pouvoir utiliser sa pension pour subvenir aux besoins liés à sa vieillesse.
+[16] L'intimée n'a pas tenu à présenter d'autres arguments.
+Analyse et décision
+[17] La Cour comprend que l'appelant soit contrarié parce que les prestations qu'il a reçues sont imposées au Canada, et il n'est pas le seul à cet égard. Cependant, la Cour conclut qu'il est évident que le montant en litige est imposable en vertu de la Loi, et il n'y a aucune disposition qui ferait en sorte que le montant soit exonéré de l'impôt canadien.
+[18] Les dispositions de la Convention entre le Canada et l'Irlande n'ont pas pour effet de soustraire le montant touché par l'appelant pour l'année en litige de l'impôt canadien.
+[19] L'appel est rejeté, et la cotisation établie par le ministre est confirmée.
+Signé à New Glasgow (Nouvelle-Écosse), ce 3e jour de février 2006.
+« T.E. Margeson »
+Juge Margeson
+Traduction certifiée conforme
+ce 20e jour d'avril 2006.
+Aleksandra Koziorowska
+RÉFÉRENCE : 2006CCI61
+N º DU DOSSIER DE LA COUR : 2004-3715(IT)I
+INTITULÉ : Frank A. Larkin c. S.M.R.
+LIEU DE L'AUDIENCE : Toronto (Ontario)
+DATE DE L'AUDIENCE : Le 17 novembre 2005
+MOTIFS DU JUGEMENT : L'honorable juge T. E. Margeson
+DATE DU JUGEMENT : Le 3 février 2006
+COMPARUTIONS :
+Représentant de l'appelant :
+M. Richard Korzeniewski
+Avocat de l'intimée :
+Me Stacey Sloan
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,163 @@
+Title: Kajtor c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/304748/index.do
+Corpus path: corpus/cases/tcc/2018/2018-cci-6-304748-kajtor-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2018-01-05
+
+# Kajtor c. La Reine
+
+- Citation: 2018 CCI 6
+- Decision date: 2018-01-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7272, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kajtor c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-01-05
+Référence neutre
+2018 CCI 6
+Numéro de dossier
+2012-4290(IT)G
+Juges et Officiers taxateurs
+Bruce Russell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-4290(IT)G
+Entre :
+KATALIN KAJTOR,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 7 juillet 2017, à Hamilton (Ontario)
+Devant : L’honorable juge Russell
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocate de l’intimée :
+Me Dominque Gallant
+JUGEMENT MODIFIÉ
+L’appel de la nouvelle cotisation établie le 25 juin 2010 sous le régime de la Loi de l’impôt sur le revenu fédérale (la « Loi ») pour l’année d’imposition 2008 de l’appelante est accueilli, sans dépens, et cette nouvelle cotisation est renvoyée au ministre pour nouvel examen et nouvelle cotisation, étant entendu que l’appelante ne doit pas faire l’objet d’une pénalité en application du paragraphe 163(2) de la Loi, conformément aux motifs du jugement modifiés ci‑joints.
+Le présent jugement modifié remplace le jugement du 5 janvier 2018.
+Signé à Ottawa (Ontario), ce 8e jour de février 2018.
+« B. Russell »
+Juge Russell
+Traduction certifiée conforme
+ce 16e jour d’octobre 2018.
+Elisabeth Ross, jurilinguiste
+Référence : 2018CCI6
+Date : 20180208
+Dossier : 2012-4290(IT)G
+Entre :
+KATALIN KAJTOR,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT MODIFIÉS
+Le juge Russell
+Introduction
+[1] L’appelante, Katalin Kajtor, fait appel d’une nouvelle cotisation établie le 25 juin 2010 sous le régime de la Loi de l’impôt sur le revenu fédérale (la « Loi ») pour son année d’imposition 2008, dans laquelle cotisation on lui refusait la déduction d’une perte d’entreprise et on lui imposait une pénalité pour « faute lourde » en vertu du paragraphe 163(2) de la Loi. La pénalité s’élevait à 24 760 $, à laquelle s’ajoutaient une pénalité provinciale et les intérêts, pour un total d’environ 41 000 $.
+[2] La seule question en litige en l’espèce porte sur la pénalité pour faute lourde. Le rejet de la demande de déduction d’une perte d’entreprise de 178 172 $ n’est pas contesté.
+[3] Aux termes du paragraphe 163(3) de la Loi, dans les appels visant des pénalités imposées en vertu de l’article 163, il incombe à l’intimée, la Couronne, d’établir les faits qui justifient l’imposition de la pénalité.
+La preuve
+[4] L’appelante, qui défend elle-même sa cause, a témoigné et a présenté des documents en preuve. Elle a immigré au Canada de Roumanie il y a environ 25 ans. Elle a arrêté ses études au niveau secondaire. Au Canada, elle a travaillé comme couturière. Elle y a eu un fils, qu’elle élève seule depuis les quinze dernières années, et ce dernier vient d’entamer des études universitaires. Elle travaille comme commis dans un entrepôt du sud-ouest de l’Ontario d’une société multinationale.
+[5] Selon le témoignage de l’appelante, environ sept ans auparavant, le compagnon de l’appelante, Brian Shaw, avait reçu un appel de son frère, Jim Shaw, qui lui annonçait que l’Agence du revenu du Canada (l’« ARC ») l’avait informé qu’il recevrait un remboursement d’impôt d’environ 50 000 $. Peu de temps avant, Jim Shaw avait fait appel aux services d’un certain conseiller fiscal qui se targuait de pouvoir aider les contribuables recevant surtout des T4 à obtenir des remboursements d’impôt beaucoup plus élevés. (En contre-interrogatoire, Brian Shaw, qui travaille comme gérant dans l’entrepôt où travaillait l’appelante, a affirmé que son frère Jim Shaw travaillait dans une usine de pièces d’automobile, que celui‑ci n’était pas comptable, mais qu’il avait travaillé comme vérificateur institutionnel pendant vingt ans). L’appelante et Brian Shaw étaient sceptiques sur ce que leur disait Jim Shaw, et ont attendu de voir si des problèmes juridiques en découleraient.
+[6] Environ deux mois plus tard, Jim Shaw a apparemment reçu un chèque de l’ARC d’environ 50 000 $, au titre d’un remboursement d’impôt sur le revenu. L’appelante a témoigné que Jim Shaw leur avait dit avoir appelé l’ARC pour confirmer qu’il pouvait encaisser le chèque sans problème et avoir été informé qu’il n’y aurait aucun problème. (Jim Shaw n’a pas été appelé à témoigner et n’était pas présent à l’audience.) Ensuite, l’appelante et Brian Shaw se sont rendus dans la ville où vivait Jim Shaw pour voir de leurs propres yeux le chèque qu’il avait reçu. L’appelante a affirmé qu’ils avaient vu le chèque et conclu que ce que Jim Shaw avait fait était légal.
+[7] L’appelante a témoigné qu’elle et Brian Shaw ont décidé de faire de même, c’est-à-dire d’embaucher le même spécialiste en déclarations de revenus dans le dessein d’obtenir un remboursement d’impôt sur le revenu plus élevé.
+[8] L’appelante a déposé en preuve, à la pièce A-1, une courte liste de documents y compris un extrait de la Charte des droits du contribuable de l’ARC. L’appelante a attiré l’attention de la Cour sur plusieurs des dispositions succinctes de cette charte, notamment l’article 14, libellé ainsi : « Vous êtes en droit de vous attendre à ce que nous vous mettions en garde contre des stratagèmes fiscaux douteux en temps opportun ». Cette disposition s’accompagne notamment de la précision suivante : « Toutefois, nous ne pouvons faire de telles mises en garde qu’après avoir pris connaissance de ces stratagèmes et avoir pu établir leur nature douteuse. »
+[9] L’appelante a conclu son témoignage principal en affirmant qu’elle croyait avoir été traitée sans égards par l’ARC, qu’elle n’avait rien à se reprocher, qu’elle avait vu le chèque de Jim Shaw et que ce dernier avait confirmé auprès de l’ARC que tout était en règle. Certes, elle avait signé un document et, si elle avait su que c’était malhonnête, elle n’aurait pas [traduction] « écouté » ces conseils. Elle et Brian Shaw, aujourd’hui son fiancé, sont innocents dans cette affaire.
+[10] En contre-interrogatoire, elle a confirmé avoir terminé sa 12e année d’études avant de quitter la Roumanie, il y a 25 ans, et avoir été employée à faire du travail manuel dans un entrepôt depuis quinze ans. Elle a confirmé son témoignage sur Jim Shaw et sur le fait qu’elle avait décidé d’aller voir le chèque de remboursement. Elle ne connaissait pas en détail les mécanismes qui rendaient possible l’augmentation du remboursement d’impôt. Elle avait toujours fait appel à des tiers pour remplir ses déclarations de revenus, le plus souvent H&R Block. Elle payait 80 $ ou 100 $ et recevait un remboursement d’environ 1 000 $. Elle n’avait jamais payé un prix proportionnel au remboursement obtenu, seulement un prix forfaitaire.
+[11] En contre-interrogatoire, elle a aussi reconnu (pièce R-2) son avis d’opposition du 5 juillet 2010 portant sa signature, ainsi que les pièces jointes. Parmi ces pièces, il y avait un document qu’elle avait signé, portant l’en-tête « Financial Consulting Solutions » (« FCS ») et en dessous le titre [traduction] « Promesse de payer/Frais de consultation », dans lequel elle s’engageait à verser à FCS [traduction] « 30 % de mon remboursement d’impôt pour l’année fiscale 2008, dès que je le recevrai ». Il y était aussi précisé qu’elle acceptait de [traduction] « demander un report rétrospectif d’une perte pour obtenir un remboursement de mes impôts pour les années 1999 à 2007 et de payer à [FCS] 45 % du montant net de mon remboursement d’impôt, pour les années visées par le report rétrospectif [1999 à 2007], dès qu’il est reçu. » Ce document comporte sa signature, datée du 9 septembre 2009, ainsi que son numéro de téléphone, son numéro d’assurance sociale et sa date de naissance.
+[12] Elle a affirmé qu’elle avait signé ce document chez Jim Shaw et qu’aucun représentant de FCS n’était présent. Elle n’a posé aucune question à Jim Shaw. Elle a aussi reconnu (pièce A-1) son formulaire de l’ARC intitulé « Demande de redressement d’une T1 » (T1-ADJ E 08/08), qui est vide, à l’exception, juste au-dessus de la case réservée à la signature, de la déclaration dactylographiée [traduction] « veuillez ajuster la déclaration de revenus ci-dessus afin d’y inclure les montants ci-dessus conformément à l’état des résultats annexé et aux reçus originaux » et du mot [traduction] « par » écrit à la main immédiatement à gauche de l’espace où devait signer l’appelante et où figure sa signature.
+[13] Juste au-dessus de la signature de l’appelante et dans la case du formulaire réservée à la signature était imprimée l’attestation figurant habituellement dans ce formulaire de l’ARC : « J’atteste que les renseignements donnés dans ce formulaire et dans les documents annexés sont, à ma connaissance, exacts et complets. » L’appelante a signé le formulaire vide et l’a laissé à FCS. Elle a témoigné qu’elle n’avait pas lu l’attestation et savait que la mention [traduction] « par » apparaissait. Elle a aussi déclaré ne jamais avoir vu le document rempli.
+[14] Dans la même pièce se trouve la deuxième et dernière page du formulaire de 2008 de l’ARC pour la demande de report rétrospectif d’une perte (T1A E (08)). FCS a aussi remis ce formulaire à Jim Shaw afin qu’il le fasse signer par l’appelante. Encore une fois, le formulaire était complètement vide, à l’exception de l’inscription [traduction] « par » ajoutée à la main à gauche de l’espace réservé à la signature, où l’appelante a signé. Juste au-dessus de cet espace, dans la même case, apparaissait l’attestation figurant habituellement sur ce formulaire de l’ARC : « J’atteste que les renseignements fournis dans ce formulaire sont, à ma connaissance, exacts et complets. »
+[15] L’appelante, dans le formulaire intitulé [traduction] « État des résultats des activités de mandataire » (pièce R-3), annexé à la demande de redressement d’une T1 pour l’année d’imposition 2008, déclarait une perte de 178 172 $. Ce document portait aussi la signature de l’appelante, ainsi que la phrase dactylographiée suivante : [traduction] « J’atteste être le mandant de la mandataire Katalin Kajtor et je déclare que tous les renseignements sont complets et exacts au 2008‑12-31. »
+[16] Pour le reste, ce document d’une page abonde en énoncés fictifs, où il est par exemple affirmé que le [traduction] « service d’entreprise » fourni par l’appelante est [traduction] « mandataire » et que la [traduction] « somme versée au mandant pour services rendus » est de « 185 177,10 $ » – le tout s’ajoutant au revenu de 51 546 $ figurant dans son formulaire T4. De plus, au bas du document, juste au-dessus du nom de l’appelante écrit en lettres moulées, apparaissait la mention suivante, en caractère gras et souligné : [traduction] « Le présent état des résultats a été préparé par le mandant et constitue votre reçu original! »
+[17] En contre-interrogatoire, l’appelante a affirmé que, dans son souvenir, ce document ne comportait aucun chiffre lorsqu’elle l’a signé. Elle n’a jamais cru que c’était illégal. Elle est encore une fois revenue sur le fait qu’elle avait vu le chèque de Jim Shaw. Elle affirme que l’ARC aurait dû les prévenir qu’il s’agissait d’un programme frauduleux.
+[18] Brian Shaw a lui aussi témoigné, principalement pour répéter les propos de l’appelante. Il a affirmé que son frère Jim Shaw leur avait également dit qu’il avait consulté le fils de son épouse, qui est policier, au sujet d’une personne dont le nom, Tom Thompson, apparaissait sur une carte de visite qui lui avait été donnée relativement à FCS et qu’il avait été informé que les services de police ne disposaient d’aucun renseignement sur cette personne. Brian Shaw a aussi déclaré que Jim Shaw leur avait dit qu’il avait téléphoné à [traduction] « la ligne d’information de l’ARC » pour savoir si le nom de Tom Thompson éveillait des soupçons et qu’il n’avait rien appris de préoccupant ou de pertinent. Je considère que ce témoignage ne constitue pas du ouï-dire puisqu’il n’a pas été présenté pour sa valeur probante, mais bien pour expliquer la conduite de l’appelante et les raisons pour lesquelles la pénalité pour faute lourde devrait être levée.
+[19] Brian Shaw a aussi affirmé que l’appelante s’était uniquement rendue coupable d’avoir fait confiance à son frère et au gouvernement. Il a aussi affirmé que, sans lui, l’appelante n’aurait pas participé à l’opération. Il trouve [traduction] « désolant que les travailleurs puissent être traités ainsi ».
+[20] En contre-interrogatoire, il a décrit l’emploi actuel et les emplois antérieurs de son frère Jim Shaw (voir ce qui précède) et a affirmé qu’il ne savait pas vraiment pourquoi ce dernier aurait eu droit à un remboursement aussi important. Il n’était pas présent lorsque son frère a téléphoné à l’ARC. La [traduction] « ligne d’information » menait simplement à un enregistrement.
+[21] L’appelante n’a fait témoigner personne d’autre, et l’intimée n’a fait témoigner personne. La preuve a été examinée plutôt en détail parce que, comme il a été mentionné précédemment, le fardeau de la preuve qui incombe habituellement aux appelants incombe en l’espèce à l’intimée étant donné que la question en litige porte sur une pénalité imposée au titre de l’article 163.
+La question en litige
+[22] Comme cela a été établi précédemment, la question en l’espèce est celle de savoir si l’imposition, en vertu du paragraphe 163(2), de la pénalité pour « faute lourde » pour l’année d’imposition 2008 de l’appelante était justifiée.
+Les observations
+[23] Dans ses observations, l’appelante a affirmé qu’elle avait signé un document qu’elle n’aurait pas dû signer et qu’elle avait fait confiance à d’autres personnes. On la tient responsable d’une escroquerie fiscale. Elle a l’impression d’être punie pour une faute qu’elle n’avait pas l’intention de commettre. Elle n’a jamais reçu d’argent (au titre d’un remboursement), contrairement à d’autres. Elle a fait confiance au gouvernement. Il est injuste qu’on exige des intérêts sur la pénalité. Si elle a commis une erreur, c’est aussi le cas du gouvernement. Le gouvernement n’a pas perdu d’argent. Le gouvernement aurait dû la prévenir. Elle a vu le chèque de Jim Shaw, lequel selon elle confirmait la légalité de tout le programme, avant de décider de faire appel au même spécialiste en déclarations de revenus.
+[24] L’intimée soutient dans ses observations, en résumé, qu’il s’agissait d’un dossier semblable à d’autres, que l’on appelle les dossiers « Fiscal Arbitrator ». Si c’est trop beau pour être vrai, c’est généralement parce que ce n’est pas vrai. Dans certains cas, dont peut-être celui de Jim Shaw, l’ARC établit la cotisation conformément à la déclaration produite, émet un chèque en conséquence, même si le montant est élevé, et établit ultérieurement une nouvelle cotisation pour récupérer la somme. Qu’un chèque soit émis ou non, la pénalité pour faute lourde peut être infligée. Le facteur important en l’espèce est que l’appelante a signé les formulaires avant qu’ils soient remplis. C’est ce qui a causé le problème. L’intimée estime que, en l’espèce, les deux témoins (l’appelante et Brian Shaw) étaient très crédibles et dignes de foi. L’appelante travaillait, avait toujours payé ses impôts à temps et recevait des remboursements peu élevés.
+[25] L’intimée fait également valoir que l’appelante avait signé le formulaire de redressement T1 non rempli pour son année d’imposition 2008. L’intimée a fait l’analyse des « signaux d’alerte » énumérés dans Torres c. La Reine, 2013 CCI 380, une décision qui a fait jurisprudence en matière d’imposition de pénalités pour faute lourde dans les cas où l’appelant a recours à un spécialiste en déclarations de revenus véreux : l’appelante ignorait l’« importance » du remboursement d’impôt demandé; l’appelante ne savait rien du « caractère flagrant » du faux énoncé; le facteur « absence d’attestation du spécialiste ayant établi la déclaration » ne s’appliquait pas; le facteur « demandes inusitées du spécialiste » ne s’appliquait pas; le facteur « spécialiste auparavant inconnu du contribuable » était pour sa part d’une importance notable – l’appelante savait uniquement que Jim Shaw avait fait appel à cette personne et elle avait vu une carte de visite. Elle savait que des informations avaient été demandées à la police. Elle ne s’est pas vraiment intéressée aux titres de compétence du spécialiste. Malgré cela, elle a accepté de signer des formulaires vides et a fait confiance au spécialiste.
+[26] L’intimée a aussi affirmé que le facteur des « explications inintelligibles » ne s’appliquait pas puisque l’appelante n’avait ni demandé ni reçu d’explications et que le facteur de la « mise en garde » ne s’appliquait pas non plus. Le conjoint de l’appelante l’avait en fait encouragée à faire appel au spécialiste, et c’est ce qu’il a fait lui aussi. Le facteur des « honoraires » aurait dû être un signal d’alarme, puisque l’appelante a dû payer un prix proportionnel au remboursement. Même si elle avait l’impression que Jim Shaw avait vérifié auprès de la [traduction] « ligne d’information » de l’ARC, qui n’a apporté aucun renseignement sur cette [traduction] « escroquerie », elle ne s’est informée auprès d’aucun professionnel fiable.
+[27] L’intimée a invoqué plusieurs autres affaires, dont les références sont données ci-après. Elle a soutenu que l’appelante n’avait déployé aucun effort pour se conformer à la loi et qu’elle espérait obtenir un remboursement, donc que la pénalité avait été imposée à juste titre. Les pénalités sont sévères, mais ce facteur est sans incidence sur l’issue de la présente affaire. L’intimée a laissé la question des dépens à la discrétion de la Cour.
+Discussion
+[28] Le passage pertinent en l’espèce de la disposition sur la « faute lourde » au paragraphe 163(2) est rédigé ainsi :
+(2) Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d’imposition pour l’application de la présente loi, ou y participe, y consent ou y acquiesce est passible d’une pénalité égale, sans être inférieure à 100 $, à 50 % du total des montants suivants […]
+[29] Les deux éléments à établir pour l’application du paragraphe 163(2) sont les suivants :
+a) il y a un faux énoncé ou une omission dans la déclaration;
+b) la personne, sciemment ou par faute lourde, fait le faux énoncé ou l’omission, y consent ou y acquiesce.
+[30] Il a été établi dans la décision Venne c. Canada, [1984] A.C.F. no 314 (C.F.P.I.) que, pour qu’il y ait faute lourde, il faut plus que de la simple négligence. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée ou à une indifférence au respect de la loi.
+[31] J’ai pris en considération la jurisprudence suivante : la décision Torres (précitée); l’arrêt Strachan c. R., 2015 CAF 60; la décision Lauzon c. R., 2016 CCI 71; l’arrêt Lauzon c. R., 2016 CAF 298; la décision Tomlinson c. R., 2016 CCI 246; la décision Chartrand c. R., 2015 CCI 298. Ainsi qu’il est établi dans Torres (précitée), au paragraphe 62, il est de droit constant que la faute lourde peut comprendre l’aveuglement volontaire. Voir aussi Villeneuve c. Canada, 2004 CAF 20.
+[32] L’appelante n’a pas contesté que de faux énoncés ont été faits dans sa demande de redressement T1 pour 2008. Les faux énoncés se rapportaient à la déclaration d’une perte d’entreprise pour l’année 2008 d’un montant total de 178 172 $. L’appelante soutient avoir inconsciemment participé au faux énoncé ou fait faire cet énoncé par une autre personne en ayant, sans le savoir, fait appel à un spécialiste en déclarations de revenus véreux. La question qui reste à trancher est celle de savoir si c’est parce qu’elle a agi sciemment ou a commis une faute lourde, y compris l’aveuglement volontaire, que l’appelante a fait un faux énoncé, y a consenti ou y a acquiescé.
+[33] Je prends note que rien dans la preuve ne montre que l’appelante savait réellement que de faux énoncés avaient été faits en son nom dans sa déclaration révisée de 2008. Il convient aussi de souligner l’opinion de l’intimée selon laquelle l’appelante et Brian Shaw étaient tout à fait crédibles dans leurs témoignages – une opinion à laquelle je souscris.
+[34] L’appelante a-t-elle fait preuve de négligence à un degré correspondant à une action délibérée ou à une indifférence au respect de la loi?
+[35] J’aurais répondu à cette question par l’affirmative, n’eût été le témoignage clair et incontesté de l’appelante selon lequel elle a voulu voir le chèque de remboursement de Jim Shaw avant de décider de faire appel aux mêmes spécialistes en déclarations de revenus. À mon avis, pour un profane en matière fiscale, il s’agissait d’une précaution importante et raisonnable pour vérifier la légalité du travail des spécialistes en déclarations de revenus embauchés par Jim Shaw. La situation et le niveau de scolarité de l’appelante sont tels qu’ils ne lui auraient pas permis de savoir qu’il se peut très bien que, pour l’application de la loi, le ministre émette des chèques de remboursement d’un montant élevé en se fiant à la déclaration de revenus telle qu’elle a été déposée pour ensuite – lors de l’établissement d’une nouvelle cotisation environ un an plus tard – annuler complètement la première cotisation et exiger soudainement la restitution de la somme qui avait été remise.
+[36] L’appelante s’est aussi fiée à ce qu’on lui avait dit, soit, d’une part, que Jim Shaw avait parlé à l’ARC et avait été informé qu’il pouvait encaisser le chèque et, d’autre part, qu’il avait appelé la [traduction] « ligne d’information » de l’ARC et qu’un membre de la famille appartenant aux forces de l’ordre avait fait une vérification d’antécédents judiciaires, et que cela n’avait révélé aucun motif de préoccupation. L’intimée ne doute pas que ces précautions ont été prises. Elle considère qu’elles sont insuffisantes et que l’appelante aurait dû consulter un spécialiste fiable en déclarations de revenus pour se renseigner sur les compétences de ces nouveaux spécialistes en déclarations de revenus.
+[37] Bien qu’il soit évident, avec du recul, qu’il aurait été souhaitable que l’appelante consulte un spécialiste fiable, s’agissant d’évaluer si cette dernière s’est suffisamment renseignée, j’estime que cette mesure n’était pas nécessaire. L’appelante n’avait pas l’habitude de discuter de questions fiscales avec des professionnels, hormis les spécialistes en déclarations de revenus chez H&R Block, et elle n’avait aucun motif manifeste et impérieux de pousser ses recherches au-delà de celles qu’elle avait menées ou dont on l’avait informée.
+[38] La décision d’appliquer ou non la pénalité prévue au paragraphe 163(2) repose en grande partie sur les faits.
+[39] Pour ce qui est de la jurisprudence tirée de la décision Torres (précitée), laquelle propose une liste de facteurs constituant des « signaux d’alerte » montrant qu’il faut se renseigner et établit que, si le contribuable ne cherche pas à obtenir des renseignements, il peut être conclu à l’aveuglement volontaire constituant une faute lourde, je renvoie aux paragraphes 25 et 26 des présents motifs, où il est établi que l’intimée estimait qu’un grand nombre de ces signaux ne s’appliquaient pas en l’espèce.
+[40] Le principal facteur sur lequel s’est appuyée l’intimée était que l’appelante avait signé deux documents sans qu’ils soient remplis. J’accorde aussi une grande importance à ce facteur. Cependant, j’estime que, vu l’ensemble des circonstances, les mesures qu’a prises l’appelante pour se renseigner et vérifier, selon elle, la légitimité des spécialistes en déclarations de revenus font qu’elle n’est pas entrée dans le territoire de la faute lourde, y compris par aveuglement volontaire équivalent à une action délibérée.
+[41] Je n’accorde pas une grande importance au fait que la signature de l’appelante ait été précédée du mot écrit à la main [traduction] « par » ni à la question de savoir si elle a expressément lu l’attestation figurant dans les formulaires de l’ARC près de l’espace prévu pour la signature. Pour ce qui est de ces attestations, elle devait de toute façon savoir que sa signature servait à attester la véracité des renseignements fournis, bien que cela n’ait pas été le cas à cause de l’intervention des personnes sans scrupules dont elle avait retenu les services. Le fait est qu’elle leur a fait confiance, après s’être convaincue en faisant les recherches exposées dans les présents motifs. Bien que ces recherches eussent pu être plus poussées, j’estime qu’elles suffisent à infirmer une conclusion d’aveuglement volontaire relativement à la décision de l’appelante de faire confiance aux nouveaux spécialistes en déclarations de revenus.
+[42] Je n’accorde pas une très grande importance au fait que l’appelante se soit attendue à ce que l’ARC en fasse plus pour mettre le public en garde contre les spécialistes en déclarations de revenus véreux. Je présume que l’ARC fait son possible à cet égard. Or, je remarque que, parmi les recherches qu’a menées l’appelante ou dont elle a été informée ayant servi à vérifier si le spécialiste en déclarations de revenus était ou non [traduction] « réglo », deux visaient précisément l’ARC (appels téléphoniques sur le chèque reçu par Jim Shaw et à la [traduction] « ligne d’information »), et ni l’une ni l’autre n’a révélé de motifs de préoccupation.
+[43] Pour revenir à [traduction] « [l’]état des résultats d’activités de mandataire », selon la preuve, l’appelante ne se souvenait pas précisément de l’avoir signé et ne pouvait dire si les sommes déclarées (alignées à droite de la seule page du document) y figuraient lorsqu’elle l’a signé. Il comportait les mentions [traduction] « mandataire » et [traduction] « somme versée au mandant pour services rendus ». L’appelante a terminé ses études secondaires et a toujours occupé des emplois modestes. Elle a immigré d’Europe de l’Est (dix-huit ans auparavant, soit) et l’anglais n’est pas sa langue maternelle. Je répète : il est impossible de savoir si l’appelante a vu le formulaire rempli avant qu’il soit déposé en son nom. Et, bien sûr, il incombe à l’intimée de prouver les faits qui justifient la pénalité.
+[44] Il reste deux éléments à souligner. Premièrement, l’un des signaux d’alerte relevés dans Torres se rapporte à la question de savoir si quiconque parmi les proches du contribuable, y compris le conjoint, l’aurait mis en garde contre l’embauche du nouveau spécialiste en déclarations de revenus. Cela n’a pas été le cas en l’espèce, bien au contraire. En effet, comme Brian Shaw l’a déclaré, il a encouragé l’appelante à recourir aux services de ce spécialiste (ce qu’il semble avoir fait lui aussi, pour s’en mordre les doigts par la suite). Ainsi, si ce facteur est important dans une direction, c’est‑à‑dire lorsqu’un conjoint ou quasi‑conjoint met l’autre en garde contre l’embauche du spécialiste, il devrait demeurer pertinent lorsque la situation est à l’opposé, c’est-à-dire lorsque le conjoint encourage le contribuable à participer. Dans son témoignage, l’appelante n’a pas ouvertement cherché à rejeter la faute ou la responsabilité sur Brian Shaw; mais son principal argument demeure qu’elle a été impliquée dans cette histoire parce qu’elle a fait confiance aux mauvaises personnes.
+[45] Deuxièmement, dans sa plaidoirie, l’avocate de l’intimée, Me Gallant, a équitablement déclaré qu’après avoir entendu le témoignage de l’appelante, y compris dans le contre‑interrogatoire qu’elle a mené, l’intimée reconnaît que l’appelante ne savait pas qu’elle avait signé une fausse déclaration faisant état d’une perte d’entreprise d’un montant élevé. Je suis du même avis et j’estime en outre que l’appelante n’a pas signé les documents par aveuglement volontaire, étant donné les recherches qu’elle avait menées ou dont on l’avait informée. En outre, comme je l’ai déjà souligné, l’intimée a reconnu que l’appelante était un témoin crédible.
+[46] L’appelante a répété n’avoir reçu aucun remboursement, contrairement à d’autres contribuables, mais qu’on lui a toutefois imposé la même pénalité. Je n’accorde aucun poids à cette observation, qui découle de la fausse idée que se font des profanes en matière fiscale selon laquelle le ministre du Revenu national (le « ministre ») ne mettrait pas tout en œuvre pour recouvrer des remboursements d’impôts indûment versés, avec les intérêts.
+[47] Je reconnais que la majorité des appels de ce type sont rejetés. Cependant, chaque appel est différent et la question elle-même repose sans aucun doute sur les faits propres à l’espèce. Vu l’agencement unique des circonstances propres au présent appel, examinées précédemment, je ne peux conclure avec certitude que l’appelante doit se faire imposer la pénalité prévue au paragraphe 163(2). Il s’agit d’une pénalité sévère qu’a prévue le législateur, et il doit s’ensuivre que l’intention du législateur était de réserver cette pénalité, d’après le juge qui examine l’affaire, aux circonstances qui la justifient manifestement.
+Conclusion
+[48] Vu ce qui précède, le présent appel est accueilli, sans dépens, et la nouvelle cotisation établie le 25 juin 2010 est renvoyée au ministre pour nouvel examen et nouvelle cotisation, étant entendu que l’appelante ne doit pas faire l’objet d’une pénalité en application du paragraphe 163(2) de la Loi.
+Les présents motifs du jugement modifiés remplacent les motifs du jugement du 5 janvier 2018
+Signé à Ottawa, Canada, le 8 février 2018.
+« B. Russell »
+Juge Russell
+Traduction certifiée conforme
+ce 16e jour d’octobre 2018.
+Elisabeth Ross, jurilinguiste
+RÉFÉRENCE :
+2018CCI6
+NO DU DOSSIER DE LA COUR :
+2012-4290(IT)G
+INTITULÉ :
+KATALIN KAJTOR c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Hamilton (Ontario)
+DATE DE L’AUDIENCE :
+Le 7 juillet 2017
+MOTIFS DU JUGEMENT :
+L’honorable juge B. Russell
+DATE DU JUGEMENT :
+Le 5 janvier 2018
+DATE DU JUGEMENT ET DES MOTIFS DU JUGEMENT MODIFIÉS :
+Le 8 février 2018
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle‑même
+Avocate de l’intimée :
+Me Dominique Gallant
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

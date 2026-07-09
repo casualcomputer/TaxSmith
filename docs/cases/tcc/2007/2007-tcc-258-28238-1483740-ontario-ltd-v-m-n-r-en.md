@@ -1,0 +1,178 @@
+---
+title: "1483740 Ontario Ltd. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28238/index.do"
+last_modified: "2007-07-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 258"
+citation2: ""
+neutral_citation: "2007 TCC 258"
+decision_date: "2007-07-17"
+language: "en"
+item_id: "28238"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2085
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:54:16.420000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "468b7147f44262f4939651e3e3ab1a6da432b1166efb3c8ead2a2797bb37d2be"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 1483740 Ontario Ltd. v. M.N.R.
+
+- Citation: 2007 TCC 258
+- Decision date: 2007-07-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2085, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+1483740 Ontario Ltd. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-07-17
+Neutral citation
+2007 TCC 258
+File numbers
+2006-1894(CPP)
+Judges and Taxing Officers
+Norris Weisman
+Subjects
+Canada Pension Plan
+Employment Insurance Act
+Decision Content
+Citation 2007TCC258
+Court File No. 2006-1894(CPP)
+2006-1893(CPP)
+TAX COURT OF CANADA
+IN RE: the Excise Tax Act
+BETWEEN:
+1483740 ONTARIO LTD. and FRANK JOSEPH BERTUCCI
+Appellants
+- and -
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+* * * * *
+HEARD BEFORE MR. JUSTICE WEISMAN
+in the Courts Administration Service, Courtroom Number 6C,
+180 Queen Street West,
+Toronto, Ontario
+on Friday, March 30, 2007 at 3:17 p.m.
+* * * * *
+ORAL REASONS
+APPEARANCES:
+Mr. Frank Bertucci on behalf of the Appellants
+Mr. Josh Hunter on behalf of the Respondent
+A.S.A.P. Reporting Services Inc. 8 (2007)
+200 Elgin Street, Suite 1004 130 King Street, Suite 1800
+Ottawa, Ontario K2P 1L5 Toronto, Ontario M5X 1E3
+(613) 564-2727 (416) 861-8720
+(ii)
+INDEX
+PAGE
+Reasons and Decision by Mr. Justice Weisman 1
+Toronto, Ontario
+‑‑‑ Upon commencing the oral reasons on Friday, March 30, 2007 at 3:17 p.m.
+THE COURT: I have heard two appeals today, and I heard them together on common evidence, by Frank Joseph Bertucci and a limited company, 1483740 Ontario Limited, of which Mr. Bertucci is the sole shareholder and director, against a decision by the Respondent, the Minister of National Revenue, which found that Mr. Bertucci was an employee of the Appellant limited company, under a contract of service from January 1, 2002 to December 31, 2003, and accordingly both Appellants were liable for Canada Pension Plan contributions.
+In order to resolve this issue, the total relationship between the parties must be considered in order to resolve the central and fundamental question as to whether the Appellant, Mr. Bertucci, was performing his services for the numbered company as a person of business on his own account, or was performing them in his capacity as an employee.
+The evidence I have heard in the matter must be subjected to the four-fold test laid down in Wiebe Door Services v. M.N.R., 87 DTC 5025, as confirmed in 671122 Ontario Limited v. Sagaz Industries Canada, [2001] 2 S.C.R. No. 983 and Precision Gutters Ltd. v. Canada, [2002] F.C.J. No. 771 (F.C.A.), as elaborated upon by Légaré v. Canada, [1999] F.C.J. No. 878 (F.C.A.) and Pérusse v. Canada, [2000] F.C.J. No. 310 (F.C.A.).
+The four-fold test involves consideration of the elements of control, ownership of tools, chance of profit and risk of loss.
+In respect of the control element, Mr. Bertucci concedes that as the sole director, sole shareholder and sole worker of the limited company, he had the right to control himself, which would accordingly indicate that he was an employee.
+Ownership of tools; this case is unusual with reference to the ownership of tools factor, because the limited company Appellant, by whom the Appellant, Mr. Bertucci, was engaged, owned no tools. A considerable number of the tools necessary for Mr. Bertucci to perform his services were provided by Canada Post to the limited company Appellant for its use, and the use of its employees or independent contractors.
+These tools included a post office, sorting trollies, metal boxes for mail storage, mailbags carried by postmen, and mail buckets for mail storage en route.
+The Appellant, Mr. Bertucci, provided a vehicle, which was an important tool given the spread-out nature of his route in Maple, Ontario, requiring that he drive, as opposed to walk, to make his deliveries.
+He also provided a cell phone for use on his delivery route. The vehicle and cell phone, on a per-monthly basis, cost approximately $350.
+Technically, therefore, the limited company Appellant provided no tools which would normally indicate that the Appellant, Mr. Bertucci, provided the tools necessary to accomplish his functions, which would indicate that he was an independent contractor.
+In my view, this is too narrow an interpretation of the law. The test of an independent contractor is whether he or she has the tools necessary to fulfill his or her function.
+Without getting too technical as to the source of the tools, it is manifest that Mr. Bertucci did not have the necessary tools.
+In my view, the tools factor accordingly points to his being an employee.
+Chance of profit; the limited company Appellant was paid $2,600 per month to deliver the mail and assorted packages, brochures, and advertising materials.
+The limited company, in turn, paid Mr. Bertucci $2,400 per month for this service.
+The evidence is that Mr. Bertucci was free to hire helpers, and under the particular rules of the closely controlled Maple Post Office with which he was associated, he was expected to appear in person at least three months of the year.
+This means that for nine months of the year, he could profit by engaging others as independent contractors at less than the $2,400 per month he was assured from the limited company Appellant, and retain the difference.
+All of this arises out of the fact that he was not required to do the work personally.
+During the period under review, he could also personally bid on routes in other municipalities, such as Richmond Hill and Woodbridge, where he was free to retain others to do the work at less than he was being paid by Canada Post, and retain the difference as profit.
+Thirdly when he could find the time, Mr. Bertucci offered to assist other mail deliverers, who were either ill or on vacation, thereby augmenting his profit.
+Counsel for the Minister argued that during the period under review, Mr. Bertucci in fact did not hire others to do his route, and did not go to Canada Post and obtain other routes.
+But the law is not whether he actually profited, but whether he had a chance to make a profit. And that factor accordingly indicates that he was an independent contractor.
+Risk of loss; when Mr. Bertucci was ill or on vacation, he had to engage helpers to do his route, because the mail had to be delivered, and he paid them from $100 to $110 per day.
+Mr. Bertucci candidly volunteered the evidence that if he was engaging someone for as much as a month at a time, he could negotiate a lower wage.
+Given an average of twenty-three mail delivery days per month, this cost, even at a $100 per day, would be $2,300 per month, plus Mr. Bertucci's $350 per month fixed vehicle and cell phone expenses, would exceed the $2,400 being paid him by the limited company Appellant, and accordingly he would face a risk of loss of $250 per month.
+This factor accordingly also indicates that he was an independent contractor.
+The examination of these four factors are only in service of understanding the legal nature of the relationship between the parties.
+In this regard, Mr. Bertucci never charged the limited company GST for his services, which indicates that he was an employee.
+Next, we have a statement from the court of the Queen's Bench in England, in the case of Ready Mixed Concrete v. Minister of Pensions, [1968] 1 All E.R. 433 (Q.B.D.):
+"Freedom to do a job either by one's own hand or by another's is inconsistent with a contract of service."
+Mr. Bertucci had that freedom, which accordingly would indicate that he was an independent contractor.
+Thirdly, Mr. Bertucci candidly stated, "I am entrepreneurial." This resonates with the following statement from Wolf v. Canada, [2002] F.C.J. No. 375 in the Federal Court of Appeal at paragraph 118:
+"We are dealing here with a type of worker who chooses to offer his services as an independent contractor rather than as an employee and with a type of enterprise that chooses to hire independent contractors rather than employees. The worker deliberately sacrifices security for freedom…"
+Further down, in Paragraph 120, the court says:
+"If specific factors have to be identified, I would name lack of job security, disregard for employee-type benefits, freedom of choice and mobility concerns."
+referring to the type of worker that chooses to be an independent contractor rather than an employee.
+Finally, in considering the relationship between the parties, I come to the intentions of the parties.
+Referring to The Royal Winnipeg Ballet v. Canada, [2006] F.C.J. 339, Mr. Justice Noel stated:
+"…In my view, this is a case where the characterization which the parties have placed on their relationship ought to be given great weight… But in a close case such as the present one, where the relevant factors point in both directions with equal force, the parties’ contractual intent, and in particular their mutual understanding of the relationship, cannot be disregarded."
+It is eminently clear that Mr. Bertucci, and therefore his limited company, intended the he be an independent contractor, and where the four-fold test produces equivocal results, as in this matter before me -- because control and tools point to the employee result, whereas the chance of profit and risk of loss point to the independent contractor result -- the intention of the parties should be given great weight, and that points to Mr. Bertucci being an independent contractor.
+I would like to comment on the chance of profit and risk of loss factors.
+One would have thought that if one's vocation involved both a chance of profit and a risk of loss, which are the very essence of a commercial enterprise, that would be a strong indication that the worker was an independent contractor carrying on business in his or her own right.
+Faced with the converse situation, however, where the worker in question had no chance of profit and no risk of loss, the Federal Court of Appeal in City Water International Inc. versus Canada, [2006] F.C.J. No. 1653, found workers to be independent contractors, based on the indeterminacy of the four-fold Wiebe guidelines and the common intention of the parties.
+The burden was upon the Appellant to demolish the assumptions set out in the Minister's reply to the Notice of Appeal.
+In the Minister's reply with respect to Mr. Bertucci, if one peruses the main assumption in Paragraph 12 of the Minister's reply, it is apparent that the assumptions do not address the essential elements of the four-fold test of control, chance of profit or risk of loss, but only address the tool guidelines in a perfunctory manner.
+Accordingly, they do not support the Minister's decision, which is objectively unreasonable. I find that Mr. Bertucci was carrying on business in his own right as a mailman.
+As a result, these two appeals will be allowed, and the two decisions of the Minister will be vacated.
+I appreciate your assistance, and I wish you a good day.
+--- Whereupon the hearing adjourned at 3:34 p.m.
+I HEREBY CERTIFY THAT I have, to the best
+of my skill and ability, accurately recorded
+by Stenomask and transcribed therefrom, the
+foregoing proceeding.
+Nancy Greggs, CCR
+CITATION:
+2007TCC258
+COURT FILES NO.:
+2006-1894(CPP) and
+2006-1893(CPP)
+STYLE OF CAUSE:
+1483740 Ontario Ltd. and
+Frank Joseph Bertucci and
+The Minister of National Revenue
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+March 30, 2007
+ORAL REASONS FOR
+JUDGMENT BY:
+The Honourable N. Weisman,
+Deputy Judge
+DATE OF ORAL JUDGMENT: March 30, 2007
+APPEARANCES:
+Agent for the Appellant:
+Frank Joseph Bertucci
+Counsel for the Respondent:
+Josh Hunter
+COUNSEL OF RECORD:
+Counsel for the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada Ottawa, Canada

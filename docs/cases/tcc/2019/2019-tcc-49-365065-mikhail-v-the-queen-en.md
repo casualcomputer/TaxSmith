@@ -1,0 +1,259 @@
+---
+title: "Mikhail v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/365065/index.do"
+last_modified: "2019-03-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 TCC 49"
+citation2: ""
+neutral_citation: "2019 TCC 49"
+decision_date: "2019-03-01"
+language: "en"
+item_id: "365065"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4307
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T12:18:53.840000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d3235706f92ca8a7f2f8d9a502c554240baa67a9e683538efe7dc8507c293d66"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mikhail v. The Queen
+
+- Citation: 2019 TCC 49
+- Decision date: 2019-03-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4307, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mikhail v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-03-01
+Neutral citation
+2019 TCC 49
+File numbers
+2018-1079(IT)I, 2018-1080(IT)I, 2018-1081(IT)I
+Judges and Taxing Officers
+Siobhan Monaghan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2018-1079(IT)I
+BETWEEN:
+HELLEN MIKHAIL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeals of Younan Mikhail (2018-1080(IT)I) and 1526818 Ontario Inc. (2018‑1081(IT)I) on December 6, 2018 at Hamilton, Ontario
+Before: The Honourable Justice K.A. Siobhan Monaghan
+Appearances:
+Agent for the Appellant:
+Angelo Carere
+Counsel for the Respondent:
+Max Kruger
+JUDGMENT
+In accordance with the attached Reasons for Judgment:
+The appeal from reassessments made pursuant to the Income Tax Act with respect to the Appellant’s 2012 and 2013 taxation years is allowed, without costs, and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Toronto, Ontario, this 1st day of March 2019.
+“K.A. Siobhan Monaghan”
+Monaghan J.
+Docket: 2018-1080(IT)I
+BETWEEN:
+YOUNAN MIKHAIL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeals of Hellen Mikhail (2018-1079(IT)I) and 1526818 Ontario Inc. (2018‑1081(IT)I) on December 6, 2018 at Hamilton, Ontario
+Before: The Honourable Justice K.A. Siobhan Monaghan
+Appearances:
+Agent for the Appellant:
+Angelo Carere
+Counsel for the Respondent:
+Max Kruger
+JUDGMENT
+In accordance with the attached Reasons for Judgment:
+The appeal from reassessments made pursuant to the Income Tax Act with respect to the Appellant’s 2010 and 2011 taxation years is allowed, without costs, and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Toronto, Ontario, this 1st day of March 2019.
+“K.A. Siobhan Monaghan”
+Monaghan J.
+Docket: 2018-1081(IT)I
+BETWEEN:
+1526818 ONTARIO INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeals of Hellen Mikhail (2018-1079(IT)I) and Younan Mikhail (2018‑1080(IT)I) on December 6, 2018 at Hamilton, Ontario
+Before: The Honourable Justice K.A. Siobhan Monaghan
+Appearances:
+Agent for the Appellant:
+Angelo Carere
+Counsel for the Respondent:
+Max Kruger
+JUDGMENT
+In accordance with the attached Reasons for Judgment:
+The appeal from a reassessment made pursuant to the Income Tax Act with respect to the Appellant’s 2013 taxation year is quashed.
+The appeal from reassessments made pursuant to the Income Tax Act with respect to the Appellant’s 2010, 2011 and 2012 taxation years is dismissed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Toronto, Ontario, this 1st day of March 2019.
+“K.A. Siobhan Monaghan”
+Monaghan J.
+Citation: 2019 TCC 49
+Date: 20190301
+Docket: 2018-1079(IT)I
+BETWEEN:
+HELLEN MIKHAIL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2018-1080(IT)I
+AND BETWEEN:
+YOUNAN MIKHAIL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2018-1081(IT)I
+AND BETWEEN:
+1526818 ONTARIO INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Monaghan J.
+I. Introduction
+[1] This case involves appeals by 1526818 Ontario Inc., carrying on business as Queenslake Pharmacy, (the “Corporation”) and its two shareholders, Younan Mikhail and Hellen Mikhail, who are husband and wife. The appeals were heard on common evidence and relate to the taxation of certain incentives and rebates (collectively, “Rebates”) received from drug manufacturers and suppliers (collectively, the “Manufacturers”). The Minister asserts the Rebates are taxable income both to the Corporation and to the Mikhails. The Appellants disagree.
+[2] None of the Notices of Appeal dispute that the Rebates were income of the Corporation. Although all three taxpayers have appealed their reassessments, the main complaint is that the unreported Rebates were both included in income of the Corporation, and included in the income of the shareholders. In the words of the Appellants’ representative “this is double taxation and thus punitive”. In his view, any Rebates included in the income of Mr. and Mrs. Mikhail should not be taxable as income of the Corporation as well. In other words, the Appellants claim that any amounts included in Mr. and Mrs. Mikhail’s income were part of the remuneration paid by the Corporation for services the Mikhails rendered to the Corporation and thus should be deductible by the Corporation. The Notices of Appeal also dispute the amount of the Rebates received.
+[3] The Respondent’s position is that the Rebates were income earned by the Corporation, since it is the only taxpayer that purchased pharmaceuticals from the Manufacturers that paid the Rebates. Accordingly, these amounts must be included in the Corporation’s income. However, the Respondent further claims that these amounts were appropriated by the shareholders (the Mikhails) and therefore properly are included in their income also, as shareholder benefits. At trial, Respondent’s counsel asserted that if the Rebates were paid by the Corporation to the individuals otherwise than in their capacity as shareholders, the amounts nonetheless are to be added to the Corporation’s income because any such amounts paid to the individuals were not expenses incurred for the purpose of earning income.
+II. Nil Assessment
+[4] One of the reassessments under appeal issued to the Corporation is dated March 16, 2016 and relates to the Corporation’s taxation year ending on October 31, 2013. However, that reassessment assessed no tax, interest or penalties and thus is a nil assessment. It is well established that a taxpayer may not appeal a nil assessment. Accordingly, the Corporation’s appeal in respect of its 2013 taxation year is quashed.
+III. Remaining Issues in the Appeal
+[5] The parties agree that the reassessments issued to Mr. Mikhail and to the Corporation to be addressed in this appeal [1] were issued beyond the normal reassessment period for the relevant taxation years. [2] However, the Respondent is of the view that the reassessments were validly issued because those Appellants made a misrepresentation in their returns for those taxation years that is attributable to neglect, carelessness, or wilful default.
+[6] As noted above, the Respondent claims the Rebates are taxable to the Corporation, as it had the relationship with the Manufacturers that gave rise to the Rebates, but also to the individuals qua shareholder. The Appellants’ representative argued that, because the individual taxpayers were employed by the Corporation, the amounts included in their income in respect of the Rebates should be deductible by the Corporation in computing its income and no double taxation should result.
+[7] Where a person who receives a benefit from a corporation is both a shareholder and an employee of that corporation, the capacity in which the individual receives that benefit is relevant to the tax consequences. Chopp v. The Queen, [3] relied on by both parties, explains this very point:
+. . . If a shareholder is also an employee of the corporation and receives a benefit in his capacity as employee, the value of that benefit would be taxed under paragraph 6(1)(a) of the Act. A corporation is ordinarily permitted to deduct as a business expense the cost of a benefit received or enjoyed by an employee qua employee. A corporation, however, is not permitted to deduct any amount with respect to a benefit conferred on a shareholder qua shareholder because the corporate/shareholder relationship is not incidental to the corporation’s business. A shareholder benefit is more like a dividend and less like a business expense. Therefore, a benefit taxed under subsection 15(1) will usually result in some form of double taxation because the shareholder will be taxed on an amount which has not been deducted in computing the income of the corporation. In appropriate circumstances, this will be a harsh, but necessary result.
+[Emphasis added.]
+[8] Accordingly, there are five issues in this Appeal:
+Were the Rebates paid to or enjoyed by Mr. and Ms. Mikhail and, if so, was it in their capacity as shareholders or did such payments constitute remuneration for services;
+If the Rebates were paid to or enjoyed by the Mikhails, are the payments deductible by the Corporation in computing its income;
+Was the amount added to income the correct amount of unreported Rebates;
+Is the Minister entitled to reassess Mr. Mikhail beyond the normal reassessment period for his 2010 and 2011 taxation years; and
+Is the Minister entitled to reassess the Corporation beyond the normal reassessment period for its 2010, 2011, and 2012 taxation years.
+IV. Background
+[9] The Corporation carries on a pharmacy business. In the relevant taxation years, Hellen and Younan Mikhail were the only two shareholders of the Corporation, owning 49% and 51% of the equity, respectively. Younan Mikhail is a member of the Canadian Pharmacists’ Association and is a licensed pharmacist. In the relevant taxation years, he acted as the pharmacist for the Corporation and managed the pharmacy business on a full-time basis. Mr. Mikhail was not an employee of the Corporation but rather was paid fees by the Corporation which he reported as income from professional activities. In the relevant taxation years, Ms. Mikhail worked part-time in the Corporation’s business assisting with management of paperwork, billings and payments and other tasks. She was an employee and so reported her income from the Corporation as income from employment.
+[10] Apparently, the Corporation and the Mikhails were reassessed in the context of a targeted audit program conducted by the Canada Revenue Agency (“CRA”) which examined various incentives paid by drug suppliers and manufacturers to pharmacies. Rebates were paid by cheque but also in other forms. Respondent’s counsel stated there were misunderstandings in the industry regarding the appropriate treatment of these incentives for tax purposes leading to the targeted audit program. In particular, the Corporation received a letter from the CRA in September 2015 stating that the CRA had information indicating that the Corporation had received incentives from generic pharmaceutical manufacturers and reminding the Corporation that incentives received as part of a business, regardless of the payment format, had to be accounted for as business income. The correspondence offered the Corporation the opportunity to correct its tax returns without civil penalties.
+[11] In November, 2015, Mr. and Ms. Mikhail filed amendments to their tax returns for 2010 and 2011 (Mr. Mikhail) and 2012 and 2013 (Ms. Mikhail), in the form of a T1 Adjustment for each such year. [4] The amendments were filed on the basis that certain Rebates received by the Corporation would be included in their income, as income from professional activities in the case of Mr. Mikhail, and as income from employment in the case of Ms. Mikhail. Mr. Mikhail added 100% of the Corporation’s unreported Rebates in the 2010 and 2011 taxation years to his professional income. Ms. Mikhail added 100% of the unreported Rebates in the 2012 and 2013 taxation years to her employment income. This approach was taken notwithstanding that in all four years both were shareholders and rendered services to the Corporation.
+[12] The Minister apparently accepted those adjustments to the returns and reassessed Mr. and Ms. Mikhail accordingly by reassessments dated March 3, 2016. By concurrent notices of reassessment dated March 16, 2016, the Minister also reassessed the Corporation to add to its income, in its 2010, 2011, 2012 and 2013 taxation years, the unreported Rebates that had been reported as income by Mr. and Ms. Mikhail as described in the previous paragraph. When the Appellants realized that the same amounts were being included in the Mikhails’ income and the Corporation’s income, they objected to the reassessments. All of the reassessments were confirmed by the Minister, leading to these appeals.
+V. The Rebates and the Individual Taxpayers
+[13] Thus, although the Minister reassessed the Mikhails in accordance with the amendments to the income tax returns they filed, they now appeal those reassessments.
+[14] It is well established that in income tax cases, with very limited exceptions, the facts assumed by the Minister in making the assessment or reassessment are assumed to be the facts, in the absence of evidence to the contrary. This means that the taxpayer bears the burden of disproving (or, to use the term often used in the jurisprudence, “demolishing”) those assumed facts. The rationale for this principle is simple. With rare exceptions, it is the taxpayer who knows or ought to know the facts relevant to the tax assessment.
+[15] The burden of proof is a “balance of probabilities”. This means that the taxpayer must establish that the taxpayer’s version of the facts is more likely than not the correct one or, put another way, that the facts assumed by the Minister are not the correct facts.
+[16] In reassessing the Corporation and the Mikhails, the Minister assumed the following facts:
+1. The Corporation included as income any Rebates received as cheques payable to the Corporation, but did not include any Rebates received in other forms;
+2. The Corporation purchased pharmaceutical products from different Manufacturers;
+3. The Manufacturers offered Rebates to the Corporation dependent on the volume of the Corporation’s purchases from the Manufacturers;
+4. There were discussions between the Manufacturers and the Corporation regarding the purpose and the amounts of the Rebates;
+5. The Corporation or Mr. and Mrs. Mikhail received Rebates in the form of traveller’s cheques, reloadable credit cards and gift cards; [5]
+6. The Rebates would not have been paid but for the business relationship between the Corporation and the Manufacturers;
+7. The Rebates were earned by the Corporation and not by the shareholders, Mr. and Ms. Mikhail;
+8. The Rebates were based on pre-defined percentages of purchases by the Corporation from the Manufacturers and would not have been received but for the Corporation buying and selling the Manufacturers’ products;
+9. Certain Rebates were received by the Corporation or its shareholders but not included in the Corporation’s income; and
+10. Those Rebates were appropriated by the shareholders.
+[17] Based on Mr. Mikhail’s testimony, there does not appear to be any disagreement with respect to most of these assumed facts. Mr. Mikhail agreed that the Manufacturers sometimes had provided Rebates in the form of traveller’s cheques, gift cards and prepaid credit cards (sometimes referred to in these reasons as “In-Kind Rebates”). He even spoke about receiving envelopes of cash from one Manufacturer, but stated that the cash was placed in the Corporation’s cash register. He admitted the Rebates were tied to sales by the Corporation of the Manufacturers’ products. His complaints were that the Manufacturers did not provide the Corporation with a yearend receipt or statement of total amounts received, and that they should have in order that the amount of Rebates received was known for tax and accounting purposes. He does not understand why the Manufacturers did not advise the Corporation, or its accountant, how much the Corporation received as Rebates.
+[18] Only in 2015, when the CRA sent the correspondence to the Corporation regarding Rebates described above, did Mr. Mikhail seek the information from the Manufacturers about In-Kind Rebates. The Manufacturers responded with a summary of the gift cards and prepaid credit cards that had been given to the Corporation each year. Mr. Mikhail testified that he was unable to confirm the amounts at that time because, in 2015, he could not remember what had been received in 2010, 2011, 2012 and 2013. However, he accepted what the Manufacturers told him regarding the amounts. Mr. Carrere, the Appellants’ accountant, testified that following discussions with Mr. Mikhail, the information received from the Manufacturers was used to prepare the T1 Adjustments for Mr. and Mrs. Mikhail.
+[19] However, Mr. Mikhail was also clear that any gift cards or prepaid credit cards received were used to purchase items for the pharmacy, and not for his or his wife’s personal consumption. For example, he said he had purchased paper for the printer, containers from Zehr’s, a lab coat, containers (tanks) for methadone, juice, cabinets, a fax machine and a computer. He admitted he purchased a computer for his home but said that it was used for business purposes in the evenings. He reiterated several times that he and his wife did not personally benefit from the Rebates and that those amounts were not deposited in their personal accounts.
+[20] So why then did the Mikhails report the In-Kind Rebates in their amended income tax returns as income they had received?
+[21] Mr. Mikhail claims that he had explained that the gift cards, traveller’s cheques and prepaid credit cards had been used to purchase items for the pharmacy, but that he did not have evidence satisfactory to the CRA. He could not tie a particular purchase for the pharmacy to a gift card or prepaid credit card. He denied that he was missing books and records or receipts for the purchased items. Rather, he could not link a receipt for a particular purchase to a particular In-Kind Rebate. He did not have a way to prove that the In-Kind Rebates were used for purchases for the pharmacy. As a result, he decided that he and his wife would report the amounts as additional remuneration. Even though they would pay a higher rate of tax on the Rebates than the Corporation would, they took this approach to make it easy for the CRA. He observed that had the Rebates been reported as the Corporation’s income, the applicable tax would have been about 20% instead of the approximately 40% applicable to his income. Although he didn’t necessarily like the approach they adopted because of this rate difference, they took it to make it easy for the CRA. He was concerned that to do anything other than report it personally would require approvals within the CRA. He wanted to resolve the issue and decided on what he thought would be an easy out.
+[22] While he adopted this approach to make it easy for the CRA, he did not anticipate that the amounts would be taxed twice – once in the Corporation, and a second time in his and his wife’s personal hands. He said he accepted the higher rate of personal tax only to make it easy for the CRA.
+[23] Mr. Carrere, the Appellants’ accountant, testified that following the CRA’s correspondence and discussions with Mr. Mikhail, he prepared T1 Adjustments for Mr. and Ms. Mikhail, increasing their income to add the unreported Rebates as determined based on the information supplied by the Manufacturers. As Mr. Mikhail was not an employee, his T1 Adjustment reflected an increase in his income from professional activities. Ms. Mikhail was an employee of the Corporation and so her T1 Adjustment reflected increased employment income from the Corporation. [6] Mr. Carrere stated that, as a result, the Corporation’s transaction journal was adjusted to increase the management fee paid to Mr. Mikhail and the employment income paid to Ms. Mikhail by the amounts included in their income in the relevant taxation years.
+[24] The effect of these T1 Adjustment filings was to increase the individuals’ income by the unreported Rebates but with no effect on the Corporation’s income for the relevant years, because the additional income (unreported Rebates) it admittedly earned was offset by additional remuneration expense (the amounts added to the income of Mr. and Ms. Mikhail). In other words, although Mr. Mikhail testified that they did not receive the benefit of the In-Kind Rebates, the management fee paid to Mr. Mikhail and the employment income paid to Ms. Mikhail were increased in order to reflect what was considered easiest for the CRA to accept – including the unreported Rebates in their income rather than the Corporation’s income.
+[25] I found Mr. Mikhail’s testimony regarding the circumstances surrounding the Rebates and the decision to report the Rebates in his and his wife’s personal income tax returns credible. I am satisfied on a balance of probabilities that the In-Kind Rebates were used to purchase items for the Corporation and its pharmacy and that the Mikhails’ decision to include the unreported Rebates as income personally was motivated by the desire to resolve the issue in a way that made it easy for the CRA to accept. Mr. Mikhail spoke about this several times in the course of his testimony (often unprompted by a particular question). I found his testimony in this regard consistent, straightforward and unwavering, even under cross-examination. In fact, Mr. Mikhail corrected counsel for the Respondent’s misunderstanding of what he meant when he had said they had included the amount in their personal accounts to make it easy: the In-Kind Rebates were not deposited in his and his wife’s personal accounts, but rather had been included in their personal income tax returns as income to make it easy for the CRA to get its taxes and allow him to move on.
+[26] The Appellants’ representative asked that I accept that the unreported Rebates were income in the hands of the individuals, notwithstanding the testimony to the effect that the amounts were not received or enjoyed by the Mikhails personally. He suggested that that result would be an appropriate compromise. However, my assessment of the evidence and resulting findings of fact do not support that result. Accordingly, I am unable to accede to his suggestion. Rather, I conclude that the unreported In-Kind Rebates were not received or otherwise enjoyed by the Mikhails personally and accordingly their appeals should be allowed.
+VI. Younan Mikhail and Assessments Beyond the Normal Reassessment Period
+[27] In view of my conclusion that Mr. Mikhail’s appeal should be allowed, I do not need to consider whether his reassessments are valid notwithstanding that they were issued beyond the normal reassessment period.
+VII. The Corporation and Reassessments Beyond the Normal Reassessment Period
+[28] As described above, the Corporation was reassessed in respect of its 2010, 2011 and 2012 taxation years beyond the normal reassessment period. The Minister may not reassess a taxpayer for a particular taxation year following the normal reassessment period for that year, except in certain circumstances. This is sometimes referred to as statute-barring. In this case, the Minister alleges the Corporation made a misrepresentation in filing its returns for the 2010, 2011 and 2012 taxation years and that that misrepresentation is attributable to neglect, carelessness or wilful default. Therefore, the Respondent claims the reassessments are not statute-barred.
+[29] The onus to establish the misrepresentation and the neglect, carelessness or wilful default that would permit the Minister to reassess beyond the normal reassessment period lies with the Respondent. While the standard is not a high one, the Respondent must present evidence to substantiate the misrepresentation and the neglect, carelessness or wilful default. The Minister cannot rely on the assumptions of fact to do so, but can rely on the evidence of the taxpayer.
+[30] In his testimony, Mr. Mikhail agreed that the Manufacturers had provided Rebates to the Corporation in the form of gift cards, prepaid credit cards and traveller’s cheques. Mr. Mikhail said the In-Kind Rebates were used to purchase items for the pharmacy. He also claimed that, without a summary from the Manufacturers, he did not know the amount received.
+[31] Mr. Carrere testified that, as the Corporation’s accountant, he was responsible for maintaining the Corporation’s transaction journal. To do this, he received summaries from the cash register twice a month and monthly bank statements. The cash register summaries showed the amount of receipts (broken down between over-the-counter sales and drug sales), how much tax was collected and whether any cash was used to purchase items for the pharmacy. Mr. Carrere stated that Rebates received in cash and deposited in the Corporation’s cash register, as described by Mr. Mikhail, would have been reflected in these summaries, included as sales, and taken up in the normal accounting for the Corporation.
+[32] Respondent’s counsel asked Mr. Carrere whether this would be true only of cash. Mr. Carrere testified that anything that was not of a debit or credit nature (e.g., gift cards and traveller’s cheques) would be reflected in the cash register summaries and bank statements as cash. However, Mr. Mikhail testified that he used the In-Kind Rebates to purchase items for the pharmacy at various stores. I am not satisfied that the In-Kind Rebates used in that manner would appear in the cash register summaries or bank statements as cash sales. Indeed, when Mr. Carrere was testifying regarding gift cards, prepaid credit cards and traveller’s cheques being accounted for as cash, it was in the context of the Respondent’s counsel questioning him regarding the pharmacy’s customers using those forms of payment at the pharmacy. In my view, it seems far more likely that an In-Kind Rebate, such as a gift card or prepaid credit card received by the Corporation and used by Mr. Mikhail to purchase items for the pharmacy, would not appear in the cash register summaries or bank statements as cash receipts. Rather, Mr. Mikhail would have simply taken the gift card or prepaid credit card with him to make the relevant purchase.
+[33] Accordingly, while I accept that the cash rebates were reported as cash sales, I am far from satisfied that the same is true of the In-Kind Rebates. In my view, those receipts would have been outside the purview of the cash register summaries and bank statements because they were used by Mr. Mikhail to purchase items for the pharmacy.
+[34] Mr. Mikhail admitted in his testimony that In-Kind Rebates were received. As discussed above, in response to the CRA’s targeted audit program, the Mikhails filed amendments and conceded that the returns previously filed were incorrect – the Corporation failed to include In-Kind Rebates as income. In other words, the Corporation admitted that it made a misrepresentation in its returns by not including those amounts in income even if it sought to deduct an offsetting amount. Moreover, the evidence is the amounts were not paid to the Mikhails so no deduction is available and the Corporation’s income was understated.
+[35] The Corporation was assisted in maintaining its books and records and in preparing its tax returns by an accountant. Mr. Mikhail testified that he did not know, in the absence of a receipt or other documentation from the Manufacturers, the amount of the Rebates that needed to be included in the Corporation’s income. In his view, they should have told the Corporation, CRA or the accountant, the total amount paid and, in the absence of that information, he didn’t know how much was received until he contacted the Manufacturers after the CRA correspondence.
+[36] In my view, the Corporation should have known that In-Kind Rebates are required to be included in its income, just as Rebates paid by cheque were, particularly given that the In-Kind Rebates are “near” cash items. All Rebates were received by the Corporation from Manufacturers with which it had a commercial relationship in the course of its business. The obligation to maintain a record of those receipts for the Corporation was not the Manufacturers’ obligation. The Corporation should have taken steps to ensure that any amounts received as Rebates, regardless of form, were properly accounted for and reflected in its books and records. In my view, the failure to do so was negligent and resulted in the understatement of the Corporation’s income. Therefore, the misrepresentation made was attributable to neglect, the Minister has met the requisite onus, and the reassessments of the Corporation are not statute‑barred.
+[37] I have summarized the evidence, and my findings based on that evidence, in the discussion above concerning the appeals by Mr. and Mrs. Mikhail. In summary, I agree that the In-Kind Rebates were received by the Corporation and were properly included by the Minister in its income. I am satisfied that the amounts were not received by, or otherwise applied for the benefit of, Mr. or Mrs. Mikhail and so are not proper expenses of the Corporation deductible in computing its income in the relevant taxation years.
+[38] As noted above, the Appellants also disputed the amount of In-Kind Rebates included as income, notwithstanding that the amounts were computed based on material obtained from the Manufacturers. The Appellants asserted that the amounts that the Manufacturers reported in the summary provided were not correct. However, other than that assertion, there was no evidence that the amount the Manufacturers said they paid was incorrect. While I admit mistakes may be made, I am not persuaded that is what happened here. The Manufacturers would have no motivation to overstate the amounts. Moreover, Mr. Mikhail testified that in 2015, when he received the summaries from the Manufacturers, he could not remember how much had been received. It is not clear why his memory would be better in 2018. The Corporation has not persuaded me that the Minister’s assumption regarding the unreported amounts is incorrect.
+[39] Therefore, the Corporation’s appeal of the reassessments for its 2010, 2011 and 2012 taxation years is dismissed.
+VIII. Conclusion
+[40] For the above reasons:
+The appeal by the Corporation of the notice of reassessment dated March 31, 2016 for the taxation year ended October 31, 2013 is quashed;
+The appeal by the Corporation of the reassessments of its 2010, 2011 and 2012 taxation years is dismissed;
+The appeal by Younan Mikhail of the reassessments of his 2010 and 2011 taxation years is allowed;
+The appeal by Hellen Mikhail of the reassessments of her 2012 and 2013 taxation years is allowed; and
+No costs will be awarded to any party.
+Signed at Toronto, Ontario, this 1st day of March 2019.
+“K.A. Siobhan Monaghan”
+Monaghan J.
+CITATION:
+2019 TCC 49
+COURT FILE NOS.:
+2018-1079(IT)I
+2018-1080(IT)I
+2018-1081(IT)I
+STYLES OF CAUSE:
+HELLEN MIKHAIL v. HER MAJESTY THE QUEEN
+YOUNAN MIKHAIL v. HER MAJESTY THE QUEEN
+1526818 ONTARIO INC. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Hamilton, Ontario
+DATE OF HEARING:
+December 6, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Justice K.A. Siobhan Monaghan
+DATE OF JUDGMENT:
+March 1, 2019
+APPEARANCES:
+Agent for the Appellants:
+Angelo Carere
+Counsel for the Respondent:
+Max Kruger
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+n/a
+Firm:
+n/a
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] That is, other than the reassessment for the Corporation’s 2013 taxation year. The appeal of that reassessment has been quashed and will not be considered further in this appeal.
+[2] Ms. Mikhail’s reassessments under appeal were issued within the normal reassessment period.
+[3] 95 DTC 527(T.C.C.).
+[4] It is not clear whether an amended income tax return was filed for the Corporation because the Appellants took the view that the amounts added to Mr. and Ms. Mikhail’s income should be deductible by the Corporation in computing its income. On that basis, the Corporation’s income would remain unchanged. No amended corporate return was mentioned at the hearing and I therefore assume none was considered necessary or filed.
+[5] Paragraph 13 l. of the Reply to the Corporation’s Notice of Appeal refers to gift baskets but, based on the assumption in paragraph 13 k. and the evidence at trial, this seems to be an error and it appears that the reference should have been to gift cards. There was no suggestion at the trial that gift baskets were received. The same assumptions are in paragraphs 8 j. and 8 k., respectively, of the Replies to the Mikhail’s Notices of Appeal.
+[6] Notwithstanding that the Mikhails both were described as employees in the Notices of Appeal and by their representative at the outset of the hearing, only Ms. Mikhail was treated as an employee by the Corporation.

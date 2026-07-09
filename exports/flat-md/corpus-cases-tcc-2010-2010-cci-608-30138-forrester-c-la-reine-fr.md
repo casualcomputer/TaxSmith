@@ -1,0 +1,155 @@
+---
+title: "Forrester c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30138/index.do"
+last_modified: "2010-12-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 608"
+citation2: ""
+neutral_citation: "2010 CCI 608"
+decision_date: "2010-12-22"
+language: "fr"
+item_id: "30138"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7790
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:20:18.054000+00:00"
+cases_cited_count: 7
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "64c4bbbf91e6e8c8821c897f61b85ddb8eb1060562df176ff8c414106287a324"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Forrester c. La Reine
+
+- Citation: 2010 CCI 608
+- Decision date: 2010-12-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7790, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Forrester c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-12-22
+Référence neutre
+2010 CCI 608
+Numéro de dossier
+2009-3678(IT)I
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-3678(IT)I
+ENTRE :
+PETER J. FORRESTER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 5 juillet 2010 à Calgary (Alberta).
+Devant : L’honorable juge François Angers
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Robert Neilson
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2001 est rejeté conformément aux motifs du jugement ci‑joints.
+Signé ce 22e jour de décembre 2010.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 10e jour de février 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+Référence : 2010 CCI 608
+Date : 20101222
+Dossier : 2009-3678(IT)I
+ENTRE :
+PETER J. FORRESTER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Il s’agit d’un appel concernant l’année d’imposition 2001 de l’appelant. Le 1er mars 2007, le ministre du Revenu national (le « ministre ») a établi une cotisation à l’égard de l’appelant pour l’année d’imposition 2001 conformément au paragraphe 152(7) de la Loi de l’impôt sur le revenu (la « Loi »), étant donné que l’appelant n’avait pas produit de déclaration de revenus pour l’année d’imposition en question.
+[2] Dans la cotisation établie à l’égard de l’appelant pour l’année d’imposition 2001, le ministre a inclus un revenu d’emploi de 136 000 $ et un revenu d’intérêt de 36 $, et a établi un impôt fédéral de 30 958 $, un impôt provincial de 12 313 $, une pénalité pour production tardive de 7 356 $ et des intérêts sur arriérés de 21 226 $. Aucun crédit n’a été accordé au titre d’acomptes provisionnels.
+[3] Le 27 mars 2008, l’appelant a produit sa déclaration de revenus pour l’année d’imposition 2001. Dans cette déclaration, l’appelant a inclus un revenu de profession libérale brut de 109 355 $ et un revenu de profession libérale net de 101 999 $. Il a demandé une déduction de 1 496 $ au titre de cotisations au Régime de pensions du Canada (le « RPC »). L’appelant a calculé que son impôt fédéral était de 20 414 $ et que son impôt provincial était de 8 106 $, mais, surtout, il a demandé un crédit de 30 100 $ au titre d’impôt sur le revenu payé par acomptes provisionnels.
+[4] Le 23 mai 2008, le ministre a établi une nouvelle cotisation à l’égard de l’appelant pour l’année d’imposition 2001 de ce dernier de la manière suivante :
+1) Il a supprimé le revenu d’emploi de 136 000 $.
+2) Il a inclus le revenu de profession libérale brut de 109 355 $ tel qu’il avait été déclaré.
+3) Il a inclus le revenu de profession libérale net de 101 999 $ tel qu’il avait été déclaré.
+4) Il a réduit de 9 859 $ l’impôt fédéral établi, en le faisant passer de 30 958 $ à 21 099 $.
+5) Il a réduit de 3 400 $ l’impôt provincial établi, en le faisant passer de 12 313 $ à 8 913 $.
+6) Il a réduit de 2 254 $ la pénalité pour production tardive, en la faisant passer de 7 356 $ à 5 102 $.
+7) Il a réduit de 9 043 $ les intérêts sur arriérés courus jusqu’à la date de la nouvelle cotisation, en les faisant passer de 29 314 $ à 20 271 $.
+[5] Le ministre n’a pas accordé le crédit de 30 100 $ demandé par l’appelant au titre d’impôt payé par acomptes provisionnels, étant donné que l’appelant n’avait effectué aucun versement par acomptes provisionnels au titre de son obligation fiscale pour l’année d’imposition 2001. Le ministre n’a pas non plus accordé la déduction concernant les cotisations au RPC à payer pour le revenu d’un travail indépendant, car l’appelant n’avait pas produit sa déclaration de revenus pour l’année d’imposition en cause dans le délai prévu de quatre ans, ce que l’appelant ne conteste pas.
+[6] L’appelant reconnaît que sa déclaration de revenus pour l’année d’imposition 2001 devait être produite le 15 juin 2002 et qu’il n’a pas respecté ce délai. Il a produit sa déclaration de revenus le 27 mars 2008. L’appelant interjette appel de la cotisation en se fondant sur le fait qu’il avait effectué des versements par acomptes provisionnels en 2001 au titre de son obligation fiscale pour l’année d’imposition 2001, et que les intérêts et la pénalité établis par l’Agence du revenu du Canada (l’« ARC ») n’avaient donc pas été établis correctement, étant donné que l’ARC n’avait pas tenu compte de ces versements par acomptes provisionnels.
+[7] Selon l’intimée, la Cour ne peut accorder aucune mesure de redressement relativement à l’établissement d’intérêts et d’une pénalité ni à l’égard de la question de savoir si l’appelant avait effectué des versements par acomptes provisionnels au titre de son obligation fiscale pour l’année d’imposition 2001.
+[8] L’appelant est avocat. Avant 2001, il avait constitué en société la Peter J. Forrester Professional Corporation, à la demande d’un cabinet d’avocats auquel il était sur le point de se joindre. Pendant ces années‑là, la femme de l’appelant s’était occupée de la tenue des comptes de l’appelant et de celle de la société professionnelle de ce dernier, jusqu’à leur divorce. Pour l’année d’imposition 2001, la société professionnelle de l’appelant avait effectué des paiements à l’Agence des douanes et du revenu du Canada (tel était alors le nom de l’Agence) au moyen de ce qu’il a appelé le compte de retenues sur la paie de sa société professionnelle, et il croyait que ces paiements constituaient des acomptes provisionnels versés au titre de l’impôt sur le revenu des particuliers retenu par sa société professionnelle.
+[9] La société professionnelle de l’appelant n’a jamais produit de déclaration de revenus pour l’année d’imposition 2001 et n’a pas non plus délivré, pour cette année d’imposition‑là, de feuillet T4 précisant le montant d’impôt retenu à la source. La société professionnelle a depuis été dissoute.
+[10] Après avoir déposé son avis d’opposition à la cotisation visée par l’appel, l’appelant avait reçu une lettre de l’ARC (pièce R‑3) l’avisant que l’ARC avait examiné les objections soulevées. Concernant la question des acomptes provisionnels, l’ARC a écrit à l’appelant qu’il semblait que des paiements d’environ 28 515 $ avaient été faits pour 2001 dans le compte de retenues sur la paie de sa société. L’ARC a ensuite précisé qu’il s’agissait là d’une question qui n’est pas habituellement traitée dans le cadre du processus d’opposition, mais qu’elle allait tout de même examiner la question à condition que certains documents soient fournis, en particulier des copies des chèques tirés pour le versement des acomptes provisionnels. L’ARC a ajouté que s’il était conclu que les acomptes provisionnels avaient été clairement versés au titre des retenues sur la paie, il (l’appelant) serait peut‑être autorisé à déduire un montant pour l’impôt retenu à la source. Elle (l’ARC) n’allait envisager une telle déduction que si la société professionnelle établissait et produisait un T4 Sommaire et un T4 Supplémentaire (le « feuillet T4 ») pour la période en cause, et, une fois que cela serait fait, il pourrait être nécessaire d’établir une nouvelle cotisation à l’égard de l’appelant relativement à sa déclaration de revenus afin de tenir compte du feuillet T4 faisant état de l’impôt retenu, et de supprimer ou de rajuster le revenu de profession libérale net contenu dans la déclaration modifiée. Il était aussi expliqué dans la lettre que, pour le moment, la cotisation devait être ratifiée en ce qui concerne les intérêts et la pénalité pour production tardive.
+[11] L’appelant a produit un relevé de compte (pièce A‑1) de sa société professionnelle démontrant que des paiements avaient été effectués à divers moments en 2001, mais aucun représentant de l’ARC n’a été appelé à comparaître afin d’expliquer ce relevé. L’appelant se fonde sur ce document et le produit comme preuve qu’il a versé des acomptes provisionnels pour le compte de sa société professionnelle au moyen du compte de retenues sur la paie de la société, et que ces paiements représentaient de l’impôt sur le revenu retenu à la source pour le compte de l’appelant.
+[12] Le comptable de l’appelant a déclaré qu’il avait établi la déclaration de revenus de 2001 de l’appelant et qu’il avait reçu de l’ARC en mars 2008 les renseignements qu’il avait utilisés pour demander le crédit de 30 100 $, à savoir le montant des acomptes provisionnels versés par la société professionnelle de l’appelant.
+[13] Les questions dont la Cour est saisie sont celles de savoir si la Cour peut accorder une mesure de redressement à l’appelant relativement aux intérêts et à la pénalité établis et si la Cour a compétence pour accorder une mesure de redressement relativement au crédit d’impôt de 30 100 $, à savoir le montant payé par la société professionnelle au titre de l’obligation fiscale de l’appelant pour son année d’imposition 2001.
+[14] La dernière question pourrait être reformulée comme ceci : la décision sur la question de savoir si un impôt a été payé déborde‑t-elle du cadre d’une cotisation et, par conséquent, sort‑elle de la compétence de la Cour? La raison pour laquelle la question est posée ainsi réside dans la description des pouvoirs et de la compétence de la Cour au paragraphe 171(1) de la Loi, qui prévoit ce qui suit :
+171(1) La Cour canadienne de l’impôt peut statuer sur un appel :
+a) en le rejetant;
+b) en l’admettant et en :
+(i) annulant la cotisation,
+(ii) modifiant la cotisation,
+(iii) déférant la cotisation au ministre pour nouvel examen et nouvelle cotisation.
+[15] Il s’ensuit dès lors que, pour que la Cour ait compétence, la question doit découler de la cotisation et de l’impôt payé ou retenu faisant partie de cette cotisation. Il y a des courants de jurisprudence quelque peu divergents qui aboutissent à des conclusions différentes quant à la question de savoir si les paiements de l’impôt dû font partie de la cotisation. L’appelant se fonde sur la décision Aallcann Wood Suppliers Inc. v. The Queen, 94 DTC 1475, qu’il cite comme faisant autorité au sujet de la thèse selon laquelle un appelant qui interjette appel d’une cotisation est autorisé à contester les hypothèses du ministre. Les faits de Aallcann ne sont pas semblables à ceux de l’espèce. Dans Aallcann, le contribuable voulait interjeter appel de la détermination faite relativement aux pertes pour l’année d’imposition 1988 afin de pouvoir reporter ces pertes sur des années antérieures, mais il en a été empêché parce que la cotisation de l’année 1988 était une cotisation néant. Le juge Bowman, tel était alors son titre, avait conclu que la Cour pouvait déterminer le montant des pertes pour l’année d’imposition 1988 dans un appel relatif à une autre année à laquelle ces pertes avaient été appliquées. Ainsi, Aallcann appuie la thèse selon laquelle la Cour a compétence pour examiner une année visée par une cotisation néant lorsque les calculs portant sur cette année ont une incidence réelle sur une autre année d’imposition (voir Liampat Holdings Limited v. The Queen, 96 DTC 6020).
+[16] Un courant de jurisprudence plus récent appuie la thèse selon laquelle les montants retenus à la source ne font pas partie de la cotisation, ce qui fait en sorte que les questions relatives à ces montants ne relèvent pas de la compétence de la Cour. Dans Valdis v. The Queen, [2001] 1 C.T.C. 2827, le juge Hamlyn a déclaré ce qui suit, au paragraphe 17 :
+[...] À mon avis, au paragraphe 152(1), le législateur a déterminé que, par une « cotisation » d’impôt, le ministre « fixe l’impôt pour l’année [...] éventuels payables » et non l’impôt pour l’année dû par un contribuable après que des retenues à la source effectuées par un employeur sont soustraites de l’impôt exigible selon la cotisation d’impôt pour l’année. Je conclus que l’on ne peut dire que l’impôt sur le revenu retenu par un employeur est un élément constitutif d’une cotisation d’impôt qui peut faire l’objet d’un appel en vertu de l’article 169. [...]
+[17] Dans Neuhaus c. La Reine, 2002 CAF 391, la Cour d’appel fédérale a conclu que la question des montants payés au moyen de retenues à la source est un problème de recouvrement et ne fait pas partie en tant que telle de la cotisation. Voir aussi Boucher c. La Reine, 2004 CAF 47. Depuis que ces deux décisions ont été rendues, la Cour a statué de façon constante qu’elle n’avait pas compétence pour trancher la question de savoir si de l’impôt avait été retenu. Voir Curwen c. Canada, 2005 CCI 226, Pintendre Autos Inc. c. Canada, 2003 CCI 818, Surikov c. Canada, 2008 CCI 161 et Welford c. Canada, 2009 CCI 464.
+[18] En conséquence, les différends qui portent sur des montants payés sont des problèmes de recouvrement, et le paragraphe 222(2) de la Loi confère à la Cour fédérale la compétence pour connaître de ces différends. La Cour n’a pas compétence pour accorder la mesure de redressement demandée par l’appelant, y compris la renonciation aux intérêts et aux pénalités (voir Hardtke v. The Queen, 2005 DTC 676), étant donné qu’une telle renonciation relève entièrement du pouvoir discrétionnaire du ministre.
+Signé ce 22e jour de décembre 2010.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 10e jour de février 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+RÉFÉRENCE : 2010 CCI 608
+No DU DOSSIER DE LA COUR : 2009-3678(IT)I
+INTITULÉ : Peter J. Forrester c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Calgary (Alberta)
+DATE DE L’AUDIENCE : Le 5 juillet 2010
+MOTIFS DU JUGEMENT : L’honorable juge François Angers
+DATE DU JUGEMENT : Le 22 décembre 2010
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Robert Neilson
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa (Canada)

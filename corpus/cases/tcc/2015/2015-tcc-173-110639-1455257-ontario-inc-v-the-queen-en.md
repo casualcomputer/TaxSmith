@@ -1,0 +1,236 @@
+---
+title: "1455257 Ontario Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/110639/index.do"
+last_modified: "2015-07-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 TCC 173"
+citation2: ""
+neutral_citation: "2015 TCC 173"
+decision_date: "2015-07-07"
+language: "en"
+item_id: "110639"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2666
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:16:35.850000+00:00"
+cases_cited_count: 2
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2a61c3d06f7ae88f5b9f85a5ccd2e6b1502c31600de98d14eb3f85746745c640"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 1455257 Ontario Inc. v. The Queen
+
+- Citation: 2015 TCC 173
+- Decision date: 2015-07-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2666, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+1455257 Ontario Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-07-07
+Neutral citation
+2015 TCC 173
+File numbers
+2012-4138(IT)G
+Judges and Taxing Officers
+Kathleen T. Lyons
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-4138(IT)G
+BETWEEN:
+1455257 ONTARIO INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion heard on March 6, 2015 at Toronto, Ontario
+Before: The Honourable Justice K. Lyons
+Appearances:
+Counsel for the Appellant:
+Domenic Marciano
+Counsel for the Respondent:
+Craig Maw
+ORDER
+WHEREAS the respondent brought a motion for:
+(a) To adjourn the appeal for 60 days to allow steps to be taken by the appellant to revive its corporate status pursuant to the subsection 241(5) of Ontario Business Corporations Act and to advise the Court and the respondent as to its progress in doing so.
+(b) In the alternative, to quash the appeal as the appellant is and was at all relevant times, a dissolved corporation and lacks capacity to initiate an appeal to the Tax Court of Canada and to take any action within this appeal including, but not limited to, the bringing of a motion.
+(c) In the further alternative, to require the appellant to post security for costs in the amount of $7,000 or other amount as the Court deems just, and to require undertakings from the former director and/or another interested person in his or her personal capacity to comply with all Orders and Judgments issued by the Tax Court of Canada in this appeal.
+(d) Such other relief as this Honourable Court may deem just.
+UPON reading the materials filed and hearing from appellant counsel and respondent counsel;
+THIS COURT ORDERS THAT:
+1. The appeal is adjourned for 60 days to allow steps to be taken by the appellant to revive its corporate status pursuant to subsection 241(5) of the Ontario Business Corporations Act.
+2. The appellant shall confirm to the Court, in writing, that it has been revived within ten days of the date of its revival and simultaneously inform the respondent.
+3. The respondent’s motion is granted with costs.
+Signed at Nanaimo, British Columbia, this 7th day of July 2015.
+“K. Lyons”
+Lyons J.
+Citation: 2015 TCC 173
+Date: 20150707
+Docket: 2012-4138(IT)G
+BETWEEN:
+1455257 ONTARIO INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Lyons J.
+[1] The respondent brought a motion for an Order:
+(a) To adjourn the appeal for 60 days to allow the appellant, 1455257 Ontario Inc., (“1455257”) to revive its corporate status pursuant to subsection 241(5) of the Ontario Business Corporations Act, RSO 1990, c. B.16 as amended (the “OBCA”) and to advise the Court and the respondent as to its progress.[1]
+(b) Alternatively, to quash the appeal.
+(c) In the further alternative, to require 1455257 to post security for costs in the amount of $7,000 or other just amount, and to require undertakings from the former director and/or other interested person in his or her personal capacity to comply with all Orders and Judgments issued by the Tax Court in this appeal.
+I. Background Facts [2] 1455257 was incorporated on December 15, 2000. It became a dissolved corporation on or around January 29, 2007 and the corporate certification was cancelled by the Province of Ontario on February 11, 2007 pursuant to section 241 of the OBCA.
+[3] The Minister of National Revenue issued a Notice of Assessment, dated October 18, 2010, against 1455257 pursuant to section 160 of the Income Tax Act (the “Act”) relating to the tax indebtedness of 1473661 Ontario Limited as at that date.
+[4] 1455257 objected to the Assessment. The Minister then issued a Notice of Confirmation of the Assessment. Consequently, 1455257 filed a Notice of Appeal with the Court on October 16, 2012.
+[5] The respondent’s Reply to the Notice of Appeal was filed with the Court on December 31, 2012.
+[6] By Orders dated June 13, 2013 and October 31, 2013, the Court ordered that both parties serve a partial disclosure list of documents, pursuant to section 81 of the Tax Court of Canada Rules (General Procedure) (“Rules”), on the opposing party by August 6, 2013; complete examinations for discovery by January 6, 2014; satisfy undertakings given at the discovery by April 7, 2014 and communicate, in writing, with the Hearings Coordinator on or before May 7, 2014. Those steps were completed.
+[7] Prior to the dissolution, Enrico Lisi was the president, secretary and the sole director of 1455257.[2]
+[8] The issues are:
+1. Whether 1455257 lacks the capacity to continue with the appeal?
+2. If not, who instructs counsel on behalf of 1455257?
+3. Whether 1455257 is to post security for costs to pursue the appeal and if the former director or other interested person is required to provide a personal undertaking to comply with all Orders and Judgments of this Court?
+II. Law [9] Subsections 241(5) and 242(1) of the OBCA are the relevant provisions. These provide as follows:
+Revival
+241.(5) Where a corporation is dissolved under subsection (4) or any predecessor of it, the Director on the application of any interested person, may, in his or her discretion, on the terms and conditions that the Director sees fit to impose, revive the corporation; upon revival, the corporation, subject to the terms and conditions imposed by the Director and to the rights, if any, acquired by any person during the period of dissolution, shall be deemed for all purposes to have never been dissolved. 1999, c. 12, Sched. F, s. 9.
+Actions after dissolution
+242.(1) Despite the dissolution of a corporation under this Act,
+(a) a civil, criminal or administrative action or proceeding commenced by or against the corporation before its dissolution may be continued as if the corporation had not been dissolved;
+(b) a civil, criminal or administrative action or proceeding may be brought against the corporation as if the corporation had not been dissolved;
+(c) any property that would have been available to satisfy any judgment or order if the corporation had not been dissolved remains available for such purpose; and
+(d) title to land belonging to the corporation immediately before the dissolution remains available to be sold in power of sale proceedings. R.S.O. 1990, c. B.16, s. 242 (1); 1998, c. 18, Sched. E, s. 27 (1, 2).
+III. Parties’ positions [10] The respondent’s position is that as a dissolved corporation, 1455257 did not have the capacity to bring the appeal, to conduct any other step in the appeal nor instruct counsel unless and until it is revived. Thus, upon dissolution 1455257 ceased to be a legal entity incapable of initiating and continuing with the appeal. Allowing 1455257 to initiate proceedings and take further litigation steps constitutes an abuse of the Court’s process. Direction from the Court is necessary to bind a person with capacity relating to any Orders of the Court.
+[11] 1455257’s position is that it is defending an assessment issued against it by the Minister after it was dissolved capable of taking all litigation steps “as if the corporation had not been dissolved” in accordance with paragraph 242(1)(b) of the OBCA. Enrico Lisi, as director, is implicitly authorized to continue to provide instructions on behalf of 1455257 “as if the corporation had not been dissolved.”
+[12] Further, no rule exists under the Rules addressing security for costs applicable to 1455257’s situation. Rule 160 applies only to an appellant “resident outside of Canada”.
+[13] Finally, no provision exists in the Act, under the Rules or otherwise requiring a personal undertaking to comply with all Orders and Judgments issued by the Tax Court as a pre-condition to pursue a statutory right of appeal.
+IV. Analysis [14] If a corporation fails to comply with the governing legislation specified in section 241 of the OBCA, there is a risk of dissolution.[3] Upon default, a notice of dissolution is issued. Under subsection 241(4), the certificate of incorporation is then cancelled. However, subsection 241(5) enables any interested party to remedy the default and apply for the corporation to be revived. Upon revival, the corporation is deemed for all purposes to have never been dissolved.
+[15] A dissolved corporation may be sued civilly, prosecuted or be subject to an administrative proceeding. Paragraph 242(1)(a) of the OBCA authorizes a dissolved corporation to continue to pursue an action or proceeding, by or against it, that was commenced prior to its dissolution as if the corporation had not been dissolved. Paragraph (b) authorizes the bringing of an action or proceeding against the dissolved corporation after its dissolution as if the corporation had not been dissolved.
+[16] The principal focus in this application is the interpretation of paragraph 242(1)(b) of the OBCA and the conflicting lines of authorities. Numerous authorities were provided by each of the parties. I will address only the key authorities in these reasons. The respondent became aware sometime between January 2014 to May 7, 2014 that 1455257 had been dissolved in 2007.
+[17] The respondent argued that the appeal was brought by, not against, 1455257 after its dissolution (in 2007) and lacked capacity in its dissolved state to initiate the appeal in 2012 nor can it bring any further steps unless and until it is revived. [4]
+[18] She relies on the decision of GMC Distribution Ltd. v Her Majesty the Queen, 2012 TCC 262, [2012] TCJ No. 206 in which Webb J. held that unless and until GMC, a dissolved OBCA corporation, is revived, it could not continue with the action. [5] This finding was made in the context of an application for leave of the Court by a non-lawyer to represent GMC. Webb J. relied on the decision in Reliable Life Insurance v Ingle, [2009] OJ No. 2312, which also involved a motion for leave to grant an individual the ability to represent two dissolved un‑revived corporations so that the corporations could mount a full defence to a civil action.
+[19] Similar to GMC, Reliable involved paragraph 242(1)(a) in which Master Haberman held that unless and until the corporations do what is required to be revived, they are non-entities and have no rights in the litigation.[6] He referred to the decision in Wolf Offshore Transport Ltd. v Sulzer Canada Inc., [1992] NJ No. 82 in which the Court noted that a dissolved company is akin to a deceased person, non-existent and without any capacity unless it is revived within the time permissible under the OBCA.[7] He also referred to the decision in Swale Investments Ltd. v National Bank of Greece (Canada), [1997] OJ No. 4997 in which the Court held that while a dissolved corporation may be sued “as if it had not been dissolved,” it does not have the ability to defend itself unless and until it is revived.[8] At paragraph 44, Master Haberman states:
+I am satisfied that while a dissolved corporation may be sued “as if it had not been dissolved”, it does not have the ability to defend itself unless and until it is revived. If the shareholder is concerned about his personal exposure and whether he will be able to defend in the shoes of the corporation when he is sued, the onus is on him to take steps to revive the companies in order to protect his personal interests….
+[20] The Ontario Superior Court of Justice in 1141824 Ontario Ltd v Shannon [2010] OJ No. 2165 and the Ontario Superior Court of Justice Commercial List in Cold River Resources LLC v 1279514 Ontario Inc., [2012] OJ No. 5867 applied the principle in Reliable and in the later case the Court agreed with Master Haberman’s characterization of the provisions under consideration.
+[21] 1455257 argued that the appeal of the assessment issued against it, constitutes a defence in accordance with paragraph 242(1)(b) “as if the corporation had not been dissolved” and revival was unnecessary.
+[22] It relied on the decision of 460354 Ontario Inc. v Her Majesty the Queen, 92 DTC 6534 (FCTD), in which the Court held that the right to take advantage of an appeal procedure in the context of an administrative proceeding (the assessment) must be available to a dissolved corporation by virtue of the statute which authorizes the action. 460354 had voluntarily dissolved and challenged reassessments issued following its dissolution. Subsequently, the Minister moved to strike 460354’s appeal because it had no capacity, as a dissolved corporation, to challenge the reassessments. Dismissing the motion, the Court held that the issuance of an assessment against a taxpayer under the Income Tax Act is an administrative proceeding within the meaning of paragraph 241(1)(b) (now 242(1)(b)) of the OBCA. Thereafter, the taxpayer has the right to exercise all his rights of appeal - from the filing of a notice of objection and ultimately launching an appeal - as part of the appeal procedure under the Income Tax Act because all subsequent steps are directed against the assessment. Therefore, all subsequent steps (the appeal) are consequential upon the assessing action of the Minister.
+[23] That approach was affirmed by the Federal Court of Appeal in the decision of 495187 Ontario Ltd. v Her Majesty the Queen, 94 DTC 6229 (FCA).[9] 495187, an OBCA corporation, was reassessed unbeknownst to the Minister and the Tax Court in dealing with the appeal over one year after its dissolution.[10] The Federal Court of Appeal allowed 495187’s appeal, directed that it was the proper party to the appeal and noted that the Minister’s position was untenable.
+[24] 1455257 also relied on the decision in Malamas v Crerar Properties Corp., [2009] OJ No. 4726, 2009 CarswellOnt 6878 (Ont Sup Ct). Malamas brought a motion to strike Crerar’s statement of defence because of its lack of capacity. Malamas had commenced the action after Crerar had been dissolved. Matlow J. dismissed the motion based on his interpretation and finding that implicit in paragraph 242(1)(b) is the right of Crerar to defend itself because that provision authorized the bringing of an action against Crerar and it would be “unthinkable” and a “presumption against absurdity” for the law to recognize the right of Malamas to bring an action against Crerar and, at the same time, deny Crerar the right to defend itself. [11]
+[25] The Court in Tomken Kamato (V) Ltd. v 752458 Ontario Ltd., 2014 CarswellONT 10331 (Ont Sup Ct) preferred the analysis in Malamas to that of Reliable.[12] Tomken’s motion was dismissed and 752458 was permitted to defend the motion, bring its own motion, and proceed with the counterclaim. The Court held that the courts’ interpretation of paragraph 242(1)(b) in Malamas, is consistent with the language in paragraph 242(1)(a), which authorizes a corporation that is sued before it is dissolved to defend the action as if it had not been dissolved, and noted that in Reliable the only issue was whether two dissolved corporations could be represented by a non-lawyer. Despite the Court’s comment that Malamas was rendered one month prior to Reliable and was not referenced in Reliable, I note that the decision in Reliable was rendered on May 27, 2009 and Malamas was rendered on November 9, 2009.
+[26] 1455257 submitted that any comments made in Reliable and GMC with respect to the capacity of a dissolved corporation to defend itself were rendered per incuriam, obiter dicta and conflicted with relevant jurisprudence (460354 and 495187). As well, the Wolf and the Swale decisions dealt with a dissolved corporation “initiating” a claim after dissolution against a third party, not defending a claim.
+[27] For the reasons that follow, in my view the finding in each of the decisions in GMC and Reliable that revival is necessary is correct. In addition to GMC having moved for leave to allow a non‑lawyer to represent GMC, the respondent sought to have the appeal dismissed because of a lack of capacity of GMC. Webb J. concluded, based on the decisions in Reliable, and indirectly on Wolf and Swale, that GMC could not in its dissolved state bring a motion and allowed the respondent’s motion. At paragraph 9, Webb J. found:
+As a result, even though subsection 242(1) of the OBCA provides that the Appellant’s appeal under the Income Tax Act will continue despite the dissolution of the Appellant, unless and until the Appellant is revived under the OBCA the Appellant cannot take any action in relation to this appeal, including the bringing of a motion …
+[28] Whilst focussed on paragraph (a) because GMC was assessed and then filed an appeal prior to its dissolution, Webb J. interpreted subsection 242(1), comprising both paragraphs (a) and (b), as requiring the revival of a corporation as necessary before it could continue to defend itself.
+[29] Contrast that approach with Malamas in which the Court construed paragraph 242(1)(a) as containing a defence, whereas paragraph 242(1)(b) did not. The later provision was interpreted as expressly authorizing the bringing of an action as against Crerar, as a dissolved corporation, but does not authorize Crerar to defend itself against actions brought. The Court viewed this as a gap in the legislation and presumption against absurdity and interpreted paragraph (b) to include an implicit recognition of the right of Crerar to defend itself consistent with paragraph 242(1)(a). The Court reached that conclusion on a narrow textual analysis despite finding an absurdity in the legislation.
+[30] Unlike the textual analysis in Malamas, in Reliable, on which GMC is based, the Court construed the language in paragraph 242(1)(a) contextually factoring in the statutory regime in section 242 and in deciding that revival is necessary notes that anyone interested can revive pursuant to subsection 241(5). This is illustrated below:
+30 Dissolution is quiet different from bankruptcy. It does not protect a corporation from its creditors. It does not permit the corporation to escape its debts or its liabilities or to reduce them. A dissolved corporation may still be sued civilly, prosecuted in a criminal court or investigated in an administrative proceeding. Their property also remains available to satisfy any judgments and orders made against them after dissolution. In fact, if they distribute their property to others after dissolution, each shareholder of the corporation remains liable to pay claims under s. 242, to the extent of the amount they received. Those who make such claims can sue the shareholders directly to recover that property from them.
+31 The purpose of s. 242 is to ensure that a corporation cannot escape its debts by falling into a state of non-compliance so that it can be dissolved. The goal of s. 243 is to allow a creditor to recover what it is owed even if the dissolved corporation siphons off its property to others.
+32 Anyone who has an interest in the outcome of these events can step in and revive the corporation. One would normally expect the shareholders to do this, as they potentially have exposure if any of the property of the corporation fell into their hands, as apparently occurred here.
+[31] It is my view that the contextual analysis in Reliable is proper given the language in the provision. Further, I disagree with 1455257 that the remarks in that case and that of GMC are obiter dicta.
+[32] In Malamas, it is of some import that prior to the resumption of the previously adjourned motion, Crerar had applied for revival and did all it needed to do. The hold up, as noted by the Court, was the processing of the application by governmental authorities. It may well be that the Court was influenced in deciding as it did because the application for revival had already been made. In taking such steps, it appears that Crerar also viewed revival as necessary.
+[33] Another difficulty I have with the Malamas line of reasoning is that having found as it did, it then posited several germane questions including who would be entitled to instruct counsel, who would pay the costs of the defence and what would become of the assets of the corporation as to the actual use before they were forfeited to the Crown. However, the Court declined to address those questions and noted that such questions can be left for others. These were some of the concerns, which I share in the present appeal, that were raised by Master Haberman in Reliable.
+[34] In GMC, the Court also relied on the decision of Cotton Inc. v 1397945 Ontario Ltd., 2010 ONSC 6548 in which the Court found that since the three corporate entities registrations had been cancelled, they are non-entities and cannot prosecute nor defend an action but could be sued by virtue of section 242 of the OBCA.
+[35] Turning to the decision of 460354, rendered in 1992, and the decision of 495187, the legislature has since changed the wording in subsection 241(5) to provide that upon revival, a corporation “shall be deemed for all purposes to have never been dissolved” which differs from the previous wording in that provision.
+[36] I find that upon dissolution in 2007, 1455257 ceased to exist. To cure that impediment, 1455257 needs to be resuscitated and unless and until it is revived by virtue of subsection 241(5) of the OBCA it lacks capacity to pursue or defend the appeal. Thus upon revival 1455257 "shall be deemed for all purposes to have never been dissolved”.
+[37] Whilst it may be inconvenient for 1455257 to revive, I find it is necessary to revive its corporate capacity which 1455257 had the ability to do at the time the assessment had issued against it in 2010. Upon revival, 1455257 will be restored to its legal position and “shall be deemed for all purposes to have never been dissolved” pursuant to subsection 241(5). In my view this validates the bringing of the appeal and all consequential steps; inherent in that is 1455257’s ability to defend itself.
+[38] In view of my finding, it is unnecessary to consider the remaining issues.
+[39] The respondent’s motion is allowed. The appeal is adjourned for 60 days from the date of this Order to allow 1455257 to take steps to revive its corporate status pursuant to subsection 241(5) of the OBCA.
+[40] Costs are awarded to the respondent in the event.
+Signed at Nanaimo, British Columbia, this 7th day of July 2015.
+“K. Lyons”
+Lyons J.
+CITATION:
+2015 TCC 173
+COURT FILE NO.:
+2012-4138(IT)G
+STYLE OF CAUSE:
+1455257 ONTARIO INC. and HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+March 6, 2015
+REASONS FOR ORDER BY:
+The Honourable Justice K. Lyons
+DATE OF ORDER:
+July 7, 2015
+APPEARANCES:
+Counsel for the Appellant:
+Domenic Marciano
+Counsel for the Respondent:
+Craig Maw
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Domenic Marciano
+Firm:
+Marciano Beckenstein LLP
+Concord, ON
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Affidavit was filed by Raphael Rutman in support of the motion.
+[2] Corporation Profile Report
+[3] Notice of dissolution
+241.(1) Where the Director is notified by the Minister of Finance that a corporation is in default of complying with any of the following Acts, the Director may give notice by registered mail to the corporation or by publication once in The Ontario Gazette that an order dissolving the corporation will be issued unless the corporation remedies its default within 90 days after the notice is given:
+0.1 Alcohol and Gaming Regulation and Public Protection Act, 1996.
+1. Corporations Tax Act.
+2. Employer Health Tax Act.
+3. Fuel Tax Act.
+4. Gasoline Tax Act.
+5. Land Transfer Tax Act.
+6. Retail Sales Tax Act.
+6.1 Taxation Act, 2007.
+7. Tobacco Tax Act. 2004, c. 31, Sched. 4, s. 1; 2008, c. 19, Sched. V, s. 1; 2010, c. 1, Sched. 1, s.12.
+Idem
+(2) Where the Director is notified by the Commission that a corporation has not complied with sections 77 and 78 of the Securities Act, the Director may give notice by registered mail to the corporation or by publication once in The Ontario Gazette that an order dissolving the corporation will be issued unless the corporation complies with sections 77 and 78 of the Securities Act within ninety days after the giving of the notice. R.S.O. 1990, c. B.16, s. 241 (2).
+Same, non-filing
+(3) Where a corporation fails to comply with a filing requirement under the Corporations Information Act or fails to pay a fee required under this Act, the Director may give notice in accordance with section 263 to the corporation or by publication once in The Ontario Gazette that an order dissolving the corporation will be issued unless the corporation, within 90 days after the notice is given, complies with the requirement or pays the fee. 1998, c. 18, Sched. E, s. 26 (1).
+Order for dissolution
+(4) Upon default in compliance with the notice given under subsection (1), (2) or (3), the Director may by order cancel the certificate of incorporation and, subject to subsection (5), the corporation is dissolved on the date fixed in the order. R.S.O. 1990, c. B.16, s. 241 (4).
+…
+Time limit for application
+(5.1) The application referred to in subsection (5) shall not be made more than 20 years after the date of dissolution. 2006, c. 34, Sched. B, s. 37.
+Articles of revival
+(6) The application referred to in subsection (5) shall be in the form of articles of revival which shall be in prescribed form. R.S.O. 1990, c. B.16, s. 241 (6).
+Certificate of revival
+(7) Upon receipt of articles of revival and any other prescribed documents, the Director, subject to subsection (5), shall endorse thereon in accordance with section 273 a certificate which shall constitute the certificate of revival. R.S.O. 1990, c. B.16, s. 241 (7).
+Interpretation
+(1.1) In this section and section 244,
+“proceeding” includes a power of sale proceeding relating to land commenced pursuant to a mortgage. 1998, c. 18, Sched. E, s. 27 (3).
+Service after dissolution
+(2) For the purposes of this section, the service of any process on a corporation after its dissolution shall be deemed to be sufficiently made if it is made upon any person last shown on the records of the Ministry as being a director or officer of the corporation before the dissolution. R.S.O. 1990, c. B.16, s. 242 (2).
+Notice of action
+(3) A person who commences an action, suit or other proceeding against a corporation after its dissolution, shall serve the writ or other document by which the action, suit or other proceeding was commenced, on the Public Guardian and Trustee in accordance with the rules that apply generally to service on a party to an action, suit or other proceeding. 1998, c. 18, Sched. E, s. 27 (4).
+Same, power of sale proceeding
+(4) A person who commences a power of sale proceeding relating to land against a corporation after its dissolution shall serve a notice of the proceeding on the Public Guardian and Trustee in accordance with the notice requirements in the Mortgages Act that apply with respect to a person with an interest in the land recorded in the records of the appropriate land registry office. 1998, c. 18, Sched. E, s. 27 (4).
+[4] The respondent referred to Rule 21 of the Rules of Civil Procedure and that “capacity” means that the plaintiff is without legal capacity to commence or continue the action or the defendant does not have the legal capacity to be sued.
+[5] GMC had failed to file tax returns and was dissolved pursuant to the provisions of subsection 241(4) of the OBCA. Paragraph 242(1)(a) applies because GMC had filed the appeal three years prior to the dissolution. GMC had failed to pay an adverse 2009 costs award and prosecute the appeal of eight years with due dispatch.
+[6] At paragraph 33, the Court in Reliable shows some concern because the individual was unable to say who would instruct him in view of the companies having been dissolved or who would honour a cost order at the conclusion of the trial if such an order is granted.
+[7] Wolf, the plaintiff, involved a CBCA corporation that had dissolved in 1985. Approximately one and a half months after the dissolution, Wolf commenced an action in the Newfoundland Supreme Court (Trial Division). In 1990 it revived its corporate status and the question centred on the impact of the revival on the action. The Court held that section 242 does not permit a dissolved corporation to initiate a claim after dissolution.
+[8] Swale, the plaintiff, was dissolved and initiated a claim three years after dissolution. The defendant moved for an Order dismissing the action on the ground that Swale initiated the action after its dissolution. The Court held that section 242 of the OBCA did not apply to an action commenced by a dissolved corporation after dissolution.
+[9] In a very brief decision, the Court affirmed that the substantive issue in this appeal was correctly dealt with by Jerome, A.C.J. in 460354 Ontario Inc. v The Queen, [1992] 2 C.T.C. 287, 95 D.L.R. (4th) 351 (F.C.T.D.).
+[10] The Minister argued that the Tax Court’s decision is a nullity and suggested that it be revived in order to further appeal to the Federal Court Trial Division. The Federal Court did not require revival of 495187 and held that the style of cause should reference the last director/shareholder of the taxpayer given its dissolved status.
+[11] Malamas sought but was denied leave by the Ontario Divisional Court to appeal the interpretation of section 242: Malamas v Crerar Properties Corp., 2010 CarswellOnt 3435 (Ont Div Ct).
+[12] In September 2012, Tomken issued a claim against 752458 which defended and counterclaimed in January 2013 and six days later 752468 was dissolved. Tomken brought a motion for summary judgment, seeking dismissal of the counterclaim on the basis that 752458 had no capacity to defend the motion, bring a motion, or proceed with the counterclaim.

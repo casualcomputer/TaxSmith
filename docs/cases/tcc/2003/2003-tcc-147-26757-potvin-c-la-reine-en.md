@@ -1,0 +1,157 @@
+---
+title: "Potvin c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26757/index.do"
+last_modified: "2003-03-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 147"
+citation2: ""
+neutral_citation: "2003 TCC 147"
+decision_date: "2003-03-18"
+language: "en"
+item_id: "26757"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3503
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:26:30.201000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3a9857fd93b085c42f32080d1d6ab2aecc50d23cd7919328a3348397831d169e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Potvin c. La Reine
+
+- Citation: 2003 TCC 147
+- Decision date: 2003-03-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3503, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Potvin c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-03-18
+Neutral citation
+2003 TCC 147
+File numbers
+2002-2198(GST)I
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2002-2198(GST)I
+BETWEEN:
+RICHARD POTVIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on March 11, 2003, at Ottawa, Ontario.
+Before: The Honourable Judge Lucie Lamarre
+Appearances:
+Agent for the Appellant:
+Louis Leclair
+Counsel for the Respondent:
+Justine Malone
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under Part IX of the Excise Tax Act, notice of which is dated March 8, 2002, and bears number 18472, for the periods from October 1, 1998, to December 31, 1998, and from January 1, 1999, to February 13, 1999, is dismissed.
+Signed at Ottawa, Canada, this 18th day of March 2003.
+"Lucie Lamarre"
+J.T.C.C.
+Translation certified true
+on this 28th day of April 2004.
+Sophie Debbané, Revisor
+Citation: 2003TCC147
+Date: 20030318
+Docket: 2002-2198(GST)I
+BETWEEN:
+RICHARD POTVIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre, J.T.C.C.
+[1] This is an appeal under the informal procedure from an assessment made by the Minister of National Revenue (the "Minister") pursuant to section 323 of the Excise Tax Act(the "Act"). In making the assessment, the Minister required the appellant to remit the Goods and Services Tax ("GST") payable by the corporation 1270560 Ontario Limited (the "Corporation") and the interest and penalties relating to the amounts not remitted by the Corporation in the amount of $31,568.20 for the periods from October 1, 1998, to December 31, 1998, and from January 1, 1999, to February 13, 1999.
+[2] The relevant portions of section 323 of the Act read as follows:
+323. (1) Liability of directors - Where a corporation fails to remit an amount of net tax as required under subsection 228(2) or (2.3), the directors of the corporation at the time the corporation was required to remit the amount are jointly and severally liable, together with the corporation, to pay that amount and any interest thereon or penalties relating thereto.
+323(2) Limitations - A director of a corporation is not liable under subsection (1) unless
+(a) a certificate for the amount of the corporation's liability referred to in that subsection has been registered in the Federal Court under section 316 and execution for that amount has been returned unsatisfied in whole or in part;
+...
+(3) Diligence - A director of a corporation is not liable for a failure under subsection (1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+[3] The appellant relies on subsection 323(3) above in his attempt to be exempted from joint and several liability with the Corporation.
+Facts
+[4] The facts on which the Minister relied in making the assessment are found in paragraph 8 of the Reply to the Notice of Appeal and read as follows:
+[TRANSLATION]
+(a) the Corporation was incorporated on February 5, 1998, under the laws of the Province of Ontario;
+(b) the Corporation operated a restaurant named "Spaguccis on the Water and Fine Catering";
+(c) at all material times, the appellant was a director of the Corporation and held the office of president;
+(d) on or about April 1, 1998, the Corporation was a registrant under Part IX of the Act under GST account number 872221841RT0001;
+(e) at all material times, the Corporation was required to file quarterly returns to calculate its net tax (the "GST") pursuant to the Act and, for GST purposes, had a year ending on December 31;
+(f) at all material times, the Corporation was required by the Act to collect and remit the GST amount to the Receiver General;
+(g) the Corporation ceased its operations on or about February 13, 1999;
+(h) at the time it closed, the Corporation had submitted only the return for the period ending on September 30, 1998;
+(i) the Minister assessed the Corporation for the amount of GST payable by the Corporation for the periods ending on September 30, 1998, December 31, 1998, and February 13, 1999, plus related interest and penalties;
+(j) the Corporation failed to remit to the Receiver General the amount of GST assessed for the periods referred to in subparagraph 8(i) above plus related interest and penalties;
+(k) a certificate specifying the amount for which the Corporation is liable was registered in the Federal Court pursuant to section 316 of the Act on April 30, 1999, and there was a failure of enforcement in respect of all or part of this amount;
+(l) while a director of the Corporation, the appellant did not take concrete steps to prevent the failure by the Corporation to remit the amount of the GST plus related interest and penalties; and
+(m) while a director of the Corporation, the appellant did not exercise the degree of care, diligence and skill to prevent the failure by the Corporation to remit the said amounts that a reasonably prudent person would have exercised in comparable circumstances.
+[5] The appellant explained at the hearing that, before investing in the Corporation, he was a truck driver and then a taxi driver for the disabled. Early in 1998, a friend of his, Sam Bousada, encouraged him to invest a large part of his savings, that is, the amount of $37,500, in a corporation that operated the restaurant, Spaguccis. In exchange, the Corporation gave him a note secured by a chattel mortgage on the restaurant. The appellant explained that, since he did not find this security sufficient, he had the shares of the Corporation turned over to him. In fact, according to a preliminary shareholders' agreement signed by all of the shareholders of the Corporation, the appellant and his friend, Sam Bousada, (who had also invested $37,500) held 50 per cent of the shares of the Corporation until the note was completely repaid. The other shareholders were the corporation 1085198 Ontario Inc. (31.45 per cent), Gilles Lortie (15.32 per cent) and Jeff Tyler (3.23 per cent) (see Exhibit A-2, pages 6-8).
+[6] I understand from the appellant's testimony that 1085198 Ontario Inc. was owned by a person named Kenneth Harry Zalba, who was someone in the restaurant business that Mr. Bousada knew. The appellant, for his part, had no expertise in this area. Despite all this, the appellant indicated in his testimony that he had advanced an additional amount of $12,500 to Mr. Zalba personally after investing the initial amount of $37,500 in the Corporation.
+[7] According to the appellant's testimony, it would seem that Mr. Bousada's lawyer had asked the appellant to be the president of the Corporation without explaining the liabilities connected with that position. Mr. Bousada was the vice-president and Mr. Zalba, the secretary-treasurer. As such, the appellant had signing authority for all operations of the Corporation. Thus, a banking resolution of the Canadian Imperial Bank of Commerce gave the three directors authority to sign any document on behalf of the Corporation (Exhibit A-2, pages 10-14).
+[8] Despite this, the appellant said he never signed anything for the Corporation and was never in charge of the Corporation's affairs. He said that everything was controlled by Mr. Zalba, who had even opened another bank account without his knowledge. The appellant said that for him it was just an investment, nothing more. Moreover, in 1998, he worked for an "import-export" business for which he travelled outside Canada on a regular basis. However, the appellant acknowledged in his testimony that, beginning in September 1998, he was made aware of the mismanagement of the Corporation's affairs.
+[9] At the same time, Mr. Bousada and the appellant asked a chartered accountant, John Khouri, to audit the books of the Corporation. In the course of the audit, Mr. Khouri noticed that Mr. Zalba had appropriated Corporation funds to pay his personal credit cards (Exhibit A-1, page 7). Furthermore, a person named Rob Blundell, who provided bookkeeping services for various restaurants, indicated in a letter addressed to Mr. Bousada dated November 12, 1998, that he had noted a number of irregularities in the financial management of the Spaguccis restaurant, operated by the Corporation (for example, the fact that there were no invoices to account for the expenses and that the personal expenses were paid from the Corporation's account).
+[10] Mr. Blundell wrote the following, inter alia (Exhibit A-1, page 15):
+There appears to be a lack of information being shared between the owners, which can lead to unexpected surprises such as the tax arrears that I informed you of this morning.
+[11] During the same period, the appellant indicated his intention to Mr. Zalba to buy back from him all his shares in the Corporation (see the letter of October 28, 1998, Exhibit A-2, page 23). He also indicated in the letter that a number of questions had been dealt with following a meeting he had had on October 1, 1998, in the office of the lawyer who represented Mr. Bousada and him, in the presence of all of the other shareholders in the Corporation, including Mr. Zalba. In this letter, the appellant proposed, inter alia, to create for Mr. Lortie (treasurer) the position of a director while retaining the other directors' positions that were already filled by them, namely, the appellant as president, Mr. Bousada as vice-president and Mr. Zalba as secretary.
+[12] Paradoxically, on October 29, 1998, the appellant had to sign, together with Messrs. Bousada, Lortie and Tyler, two shareholders' resolutions removing Mr. Zalba as director and signing officer for the Corporation (Exhibit A-2, pages 16-17 and Exhibit A-3). The appellant explained that they consulted a lawyer who advised them to do this after they had noted Mr. Zalba's mismanagement of the restaurant and his bad faith.
+[13] On November 5, 1998, Mr. Zalba had allegedly advised the appellant and Mr. Bousada that, under the terms of the shareholders' agreement, he was authorized to keep his position as a director, but he agreed to sell his shares on his own terms (Exhibit A-1, pages 13-14). It seems that the appellant and Mr. Bousada did not follow up on the offer, and Mr. Zalba's lawyer notified the appellant by a letter dated November 26, 1998, that Mr. Zalba would resume management of the restaurant starting on January 25, 1999 (Exhibit A-1, page 16). In his testimony, the appellant said that Mr. Zalba never ceased to be in charge of the restaurant. It appears that it was Mr. Tyler who handled the restaurant's management following the removal of Mr. Zalba, but despite everything, Mr. Zalba controlled the entire operation.
+[14] In another letter also dated November 26, 1998, and addressed to the appellant by Mr. Zalba's lawyer, the lawyer hinted that the information that the appellant was waiting for in order to complete the audit of the Corporation's books had been given to the chartered accountant. He reiterated Mr. Zalba's intention to sell his shares to the appellant (Exhibit A-1, pages 17-18).
+[15] Subsequently, on January 25, 1999, it was Mr. Zalba who offered to buy back the shares from the other shareholders (Exhibit A-1, page 19). To this, the lawyer now representing the appellant, Mr. Bousada and Mr. Lortie answered as follows on January 27, 1999 (Exhibit A-1, pages 21-22):
+This is further to your letter dated January 25, 1999 outlining the tentative agreements reached between your client, Ken Zalba, and Rick Potvin and Sam Bousada (hereafter referred to as the "Bousada Agreement"), and between Ken Zalba and Gilles Lortie (hereafter referred to as the "Lortie Agreement").
+Bousada Agreement
+This confirms the general thrust of the Bousada Agreement as set out in your letter of January 25, 1999. In addition, my clients require a clear undertaking in case of default to indemnify them with respect to the outstanding tax liabilities, for which, at the moment, they are personally liable. In this connection, Mr. Zalba would also provide two detailed schedules of payment within 30 days of the execution of a tentative agreement. The first schedule of payment would cover the outstanding tax liabilities, and the second schedule of payment would cover the purchase price for the equity and debt of the Messrs. Potvin and Bousada in 1270560 Ontario Ltd.
+With respect to the assets available for security, it [is] my understanding that Mr. Zalba has or controls other assets, namely, a majority holding in Spaguccis Market Place on Rideau Street in Ottawa. As such, my clients would require this additional asset and Mr. Ken Zalba's personal guarantee as security.
+Mr. Potvin has also made several loans to Mr. Zalba totalling over $25,000.00 Mr. Potvin is prepared to forgive these loans, provided that prior to the execution of the Bousada Agreement, Mr. Potvin receives a payment of $2,500.00 from Mr. Zalba.
+[...]
+[16] Later correspondence, dated January 29, 1999, shows that Mr. Zalba was no longer interested in buying out the other shareholders and was prepared to transfer all his shares in exchange for a full release from all his liabilities and actions for which he might be held liable towards the Corporation (Exhibit A-1, pages 23-24).
+[17] On February 1, 1999, the appellant and the other two shareholders, Sam Bousada and Gilles Lortie, answered that they did not agree to this and asked Mr. Zalba to provide all of the documentation relating to the affairs of the Corporation within 10 days failing which they would commence legal proceedings (Exhibit A-1, page 25).
+Analysis
+[18] In my opinion, the documentary evidence as a whole contradicts the appellant's oral testimony with regard to his lack of awareness about the management of the restaurant's affairs and his role as president. In his testimony, the appellant tried to convince the Court that he had agreed to become president on the recommendation of Sam Bousada's lawyer, with no further detailed explanation of his responsibilities as such, simply to fill the position in order to accommodate him. He said that his involvement in the Corporation was limited solely to his investment and that he had never intended to put any further effort into the management of the restaurant operated by the Corporation. He fully relied on Mr. Zalba since the appellant himself had no experience in the restaurant business and had a job that often took him out of the country. According to him, he had no way of verifying whether the GST remittances were made by the Corporation because he did not control the Corporation's affairs and Mr. Zalba was reluctant to provide information.
+[19] However, the documentary evidence gives us quite a different perspective. From the many exchanges between the lawyers representing the appellant and Mr. Bousada and the lawyer of Mr. Zalba, the appellant appears as a key figure in the Corporation. This documentation clearly shows that the appellant was aware of Mr. Zalba's mismanagement and that he instructed his accountant to audit the books of the Corporation. Mr. Blundell, who had also audited the books, had warned Mr. Bousada of the possibility that the tax liabilities had not been paid. It is true that this letter was addressed to Mr. Bousada, but the evidence shows that the appellant and Mr. Bousada were in regular contact concerning the Corporation. Furthermore, following a meeting of all the shareholders on October 1, 1998, the appellant had not only offered Mr. Zalba to buy out his shares but had indicated to him his intention to change the board of directors, of which he proposed to remain president. Moreover, the appellant had to sign a shareholders' resolution whereby Mr. Zalba was removed from his functions.
+[20] Despite all this, the appellant and the other shareholders apparently did nothing to improve the management of the Corporation's affairs. The appellant contented himself with saying that it was Mr. Tyler, a minority shareholder, who had taken over the management, under Mr. Zalba's control, after he was removed. In my opinion, this is not very realistic. The appellant and Mr. Bousada between them held 50% of the shares of the Corporation. The appellant invested an amount of $37,500 in the Corporation and lent $12,500 to Mr. Zalba personally. It is difficult to imagine that he was content to play a passive role in the Corporation and was unaware of what was going on. He acknowledged that Mr. Zalba was a manager who lacked integrity. The appellant instructed an accountant to audit the books of the Corporation and tried on several occasions to dissociate himself from Mr. Zalba. Finally, in the correspondence dated January 27, 1999, addressed to Mr. Zalba's lawyer by the lawyer representing the appellant, Sam Bousada and Gilles Lortie, it is clearly indicated that Messrs. Bousada and Potvin were aware of their personal liability for the Corporation's tax debts.
+[21] While the appellant had known since September 1998 that the financial management of the Corporation was deficient, as president of the Corporation, he had a duty to ensure that the GST was remitted in a timely fashion. He had to know at this time that these tax remittances were likely to pose a potential problem.
+[22] In this context, it is appropriate to reproduce the words of Judge Robertson of the Federal Court of Appeal in Soper v. Canada, [1998] 1 F.C. 124; [1997] F.C.J. 881, at paragraph 53:
+In my view, the positive duty to act arises where a director obtains information, or becomes aware of facts, which might lead one to conclude that there is, or could reasonably be, a potential problem with remittances. Put differently, it is indeed incumbent upon an outside director to take positive steps if he or she knew, or ought to have known, that the corporation could be experiencing a remittance problem. The typical situation in which a director is, or ought to have been, apprised of the possibility of such a problem is where the company is having financial difficulties. For example, in Byrt (H.) v. M.N.R., [1991] 2 C.T.C. 2174 (T.C.C.), an outside director signed financial statements revealing a corporate deficit and thus he knew, or ought to have known, that the company was in financial trouble. The same director also knew that the business integrity of one of his co-directors, who was the president of the corporation too, was questionable. In these circumstances, having made no efforts to ensure that remittances to the Crown were made, the outside director was held personally liable for amounts owing by the corporation to Revenue Canada. According to the Tax Court Judge the outside director had, in contravention of the statutory standard of care, failed to "heed what is transpiring within the corporation and his experience with the people who are responsible for the day-to-day affairs of the corporation" (supra, at page 2184, per Rip T.C.J.).
+[23] I find, therefore, that the evidence amply shows that the appellant was able to take action and ensure that the GST remittances were correctly made. He cannot now claim that he was a victim of the control exercised by Mr. Zalba. The documents tendered in evidence in my opinion show that the appellant enjoyed a greater role within the Corporation than he would have us believe at this hearing. As president of the Corporation, he was jointly and severally liable with the Corporation for the GST remittances. Since they were not remitted, he is legally liable within the meaning of section 323 of the Act. I also find that the appellant did not demonstrate, on a balance of probabilities, that he exercised the degree of care, diligence and skill to prevent the failure in question that a reasonably prudent person would have exercised in comparable circumstances.
+[24] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 18th day of March 2003.
+"Lucie Lamarre"
+J.T.C.C.
+Translation certified true
+on this 28th day of April 2004.
+Sophie Debbané, Revisor

@@ -1,0 +1,148 @@
+Title: Rotondi c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29895/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-378-29895-rotondi-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-07-13
+
+# Rotondi c. La Reine
+
+- Citation: 2010 CCI 378
+- Decision date: 2010-07-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6388, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rotondi c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-07-13
+Référence neutre
+2010 CCI 378
+Numéro de dossier
+2009-2924(IT)I
+Juges et Officiers taxateurs
+Steven K. D'Arcy
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-2924(IT)I
+ENTRE :
+ONORIO ROTONDI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 30 juin 2010 à Toronto (Ontario) et décision rendue à
+l’audience par conférence téléphonique le 6 juillet 2010.
+Devant : L’honorable juge Steven K. D’Arcy
+Comparutions :
+Représentant de l’appelant :
+M. Thomas Rhoden
+Avocat de l’intimée :
+Me Khashayar Haghgouyan
+____________________________________________________________________
+JUGEMENT
+Les appels sont accueillis, sans dépens, et l’affaire est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que l’appelant a le droit de déduire, dans le calcul de son revenu d’entreprise net pour les années d’imposition 2003 et 2004, les dépenses de 16 709 $ et de 13 741 $ respectivement.
+Signé à Antigonish (Nouvelle‑Écosse), ce 13e jour de juillet 2010.
+« S. D’Arcy »
+Juge D’Arcy
+Traduction certifiée conforme
+ce 2e jour de septembre 2010.
+Espérance Mabushi, M.A.Trad. Jur.
+Dossier : 2009-2924(IT)I
+ENTRE :
+ONORIO ROTONDI,
+appelant,
+et
+SA MAJESTÉ LA REINE
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Devant : L’honorable juge Steven K. D’Arcy
+Représentant de l’appelant :
+M. Thomas Rhoden
+Avocat de l’intimée :
+Me Khashayar Haghgouyan
+____________________________________________________________________
+VERSION RÉVISÉE DES MOTIFS DU JUGEMENT PRONONCÉS ORALEMENT
+Je requiers que soit déposée la version révisée ci-jointe des motifs du jugement prononcés oralement par conférence téléphonique le 6 juillet 2010. J’ai révisé les motifs du jugement prononcés oralement au niveau du style, de la clarté et de l’exactitude. Je n’y ai apporté aucun changement quant au fond.
+Signé à Antigonish (Nouvelle‑Écosse), ce 13e jour de juillet 2010.
+« S. D’Arcy »
+Juge D’Arcy
+Traduction certifiée conforme
+ce 2e jour de septembre 2010.
+Espérance Mabushi, M.A.Trad. Jur.
+Référence : 2010 CCI 378
+Date : 20100713
+Dossier : 2009-2924(IT)I
+ENTRE :
+ONORIO ROTONDI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+VERSION RÉVISÉE DES MOTIFS DU JUGEMENT PRONONCÉS ORALEMENT
+(Prononcés oralement par conférence téléphonique le 6 juillet 2010)
+Le juge D’Arcy
+[1] L’appelant a contesté les avis de nouvelle cotisation relativement à ses années d’imposition 2003 et 2004. Voici les motifs du jugement que j’ai prononcés oralement.
+[2] Dans ses déclarations de revenu pour les années d’imposition 2003 et 2004, l’appelant a déclaré les revenus d’entreprise nets suivants :
+- Pour l’année d’imposition 2003, le revenu d’entreprise net de 21 044 $ découlant d’un revenu d’entreprise brut de 46 188 $ et de dépenses déductibles de 25 144 $.
+- Pour l’année d’imposition 2004, un revenu d’entreprise net de 25 085 $ découlant d’un revenu d’entreprise brut de 51 950 $ et de dépenses déductibles de 26 865 $.
+[3] Dans l’établissement de la nouvelle cotisation de l’appelant, le ministre du Revenu national (le « ministre ») a accepté le revenu d’entreprise brut déclaré. Toutefois, il a réduit le montant des dépenses déductibles pour les années d’imposition 2003 et 2004 à 4 449 $ et à 4 749 $ respectivement.
+[4] L’appelant a interjeté appel de la décision du ministre au sujet des rajustements des dépenses déductibles.
+[5] L’appelant était l’unique témoin à l’audience et j’ai conclu qu’il était digne de foi.
+[6] L’appelant est un installateur de cloisons sèches. Pendant les années en cause, il a travaillé à un certain nombre de projets de lotissement dans la région du Grand Toronto, notamment à Oakville, à Mississauga, à Newmarket et dans d’autres régions au nord de Toronto.
+[7] Selon le témoignage de l’appelant, il devait fournir les outils utilisés dans l’installation des cloisons sèches, tels que : escabeaux, scies à cloison sèche, outils à caractère général, échafaudages, casques protecteurs, bottes de sécurité, etc.
+[8] L’appelant a retenu les services d’un aide‑comptable pour remplir sa déclaration de revenu. L’aide‑comptable avait dit à l’appelant que celui‑ci n’était pas tenu de lui fournir les reçus de toutes les dépenses liées à son activité, et qu’il pouvait remplir la déclaration de revenu à l’aide des copies des relevés de compte bancaire et des relevés de compte Visa de l’appelant, et à l’aide des reçus pour les articles qui n’apparaissaient pas sur ces relevés.
+[9] Malheureusement, après la vérification effectuée par l’Agence du revenu du Canada, l’aide‑comptable a disparu et l’appelant n’était donc pas en mesure d’obtenir les copies des documents de travail et des pièces justificatives que l’aide‑comptable avait utilisées pour remplir ses déclarations.
+[10] L’appelant a alors retenu les services de M. Rhoden en tant que comptable et c’est ce dernier qui a représenté l’appelant à l’audience.
+[11] À l’aide des relevés de compte bancaire de l’appelant en tant que document source, M. Rhoden a réussi à dresser des listes de dépenses engagées par l’appelant en 2003 et en 2004. M. Rhoden n’a pas pu rendre compte de toutes les dépenses contenues dans la déclaration de revenu de l’appelant, mais il a été en mesure d’établir le détail de dépenses s’élevant à 14 053 $ pour l’année d’imposition 2003 et à 10 990 $ pour l’année d’imposition 2004. M. Rhoden a fait le rapprochement entre chaque montant déclaré et les relevés bancaires de l’appelant.
+[12] Au cours de son témoignage, l’appelant s’est exprimé sur la plupart des articles figurant sur les listes.
+[13] L’intimée a soutenu que l’appelant ne devrait pas avoir le droit de déduire les montants figurant sur les listes parce qu’il n’a pas fourni de reçus à l’appui des dépenses. Je ne souscris pas à l’opinion de l’intimée.
+[14] Certes, il appartient à l’appelant de prouver que les faits sur lesquels le ministre s’est fondé pour établir les nouvelles cotisations sont erronés.
+[15] La tâche du contribuable d’établir la preuve des dépenses devient plus difficile lorsqu’il n’a pas fourni au tribunal des documents ou des reçus, mais il lui est toujours loisible de présenter un témoignage oral relativement à ces dépenses. À ce sujet, la Cour suprême du Canada s’est exprimée en ces termes dans Hickman Motors Ltd. c. Canada, [1997] 2 R.C.S. 336, au paragraphe 87 :
+[…] lorsque la LIR [Loi de l’impôt sur le revenu] n’exige aucun document d’appui, le témoignage crédible d’un contribuable suffit, malgré l’absence de documents.
+[16] En l’espèce, l’appelant a décrit en détail chacune des catégories de dépenses figurant sur les listes établies par son représentant. Il a expliqué la nature de chaque article et comment la dépense contribuait à tirer un revenu dans le cadre de l’activité d’installation de cloisons sèches.
+[17] Eu égard au témoignage de l’appelant, je conclus qu’il ressort des listes établies par son représentant une indication des dépenses engagées par l’appelant pour tirer un revenu de l’activité d’installation de cloisons sèches et que tous les montants figurant sur les listes sont raisonnables.
+[18] Il convient de souligner toutefois que le ministre a accordé la déduction d’une partie des frais d’utilisation d’un véhicule à moteur figurant sur les listes établies par le représentant de l’appelant. Plus particulièrement, l’appelant s’est vu accorder une déduction de 1 793 $ pour son année d’imposition 2003 et de 1 998 $ pour son année d’imposition 2004. Dans le calcul du total des dépenses déductibles engagées par l’appelant, j’ai déduit ces montants des frais d’utilisation d’un véhicule à moteur, lesquels montants figuraient sur les listes établies par le représentant de l’appelant.
+[19] Dans ses déclarations, l’appelant avait demandé la déduction de 10 748 $ et de 12 042 $, respectivement, pour les années d’imposition 2003 et 2004 sous la rubrique Achats. Ces montants semblent s’ajouter aux dépenses incluses dans les listes établies par le représentant de l’appelant.
+[20] L’appelant n’a pas été en mesure de décrire à la Cour les dépenses incluses dans les Achats. C’est l’aide‑comptable disparu qui était arrivé à ces montants, et l’appelant n’a aucune idée des achats que l’aide‑comptable avait inclus dans ses calculs.
+[21] Le représentant de l’appelant a soutenu que les montants inscrits sous la rubrique Achats doivent se rapporter à l’achat des outils que l’appelant devait avoir pour exercer son activité, et que je devrais accorder la totalité des déductions demandées de 10 748 $ et de 12 042 $ ou une partie de celles‑ci.
+[22] Je ne puis partager l’opinion du représentant de l’appelant. Aucun élément de preuve ne m’a été présenté quant à la nature des articles inscrits sous la rubrique Achats. Je ne dispose d’aucun moyen de savoir si les articles que l’aide‑comptable avait inclus dans son calcul des achats avaient été acquis en vue de tirer un revenu de l’activité d’installation de cloisons sèches, si les dépenses étaient imputables au revenu ou au capital, ou si elles étaient raisonnables.
+[23] En bref, en ce qui concerne les montants cités ci-dessus, l’appelant ne s’est pas acquitté du fardeau de la preuve qui lui incombait.
+[24] En résumé, l’appelant a le droit de déduire, en plus des montants accordés par le ministre, les dépenses de 12 260$ et de 8 992 $ pour les années d’imposition 2003 et 2004 respectivement.
+[25] Pour les motifs exposés ci‑dessus, l’appel est accueilli, sans dépens, et l’affaire est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que l’appelant a le droit de déduire, dans le calcul de son revenu d’entreprise net relatif à son activité d’installation de cloisons sèches pour les années d’imposition 2003 et 2004, les dépenses de 16 709 $ et de 13 741 $ respectivement.
+« S. D’Arcy »
+Juge D’Arcy
+Traduction certifiée conforme
+ce 2e jour de septembre 2010.
+Espérance Mabushi, M.A.Trad. Jur.
+RÉFÉRENCE : 2010 CCI 378
+NO DU DOSSIER DE LA COUR : 2009-2924(IT)I
+INTITULÉ : ONORIO ROTONDI
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : TORONTO (ONTARIO)
+DATE DE L’AUDIENCE : Le 30 juin 2010
+Le 6 juillet 2010
+MOTIFS DU JUGEMENT : L’honorable juge Steven K. D’Arcy
+DATE DU JUGEMENT : Le 13 juillet 2010
+COMPARUTIONS :
+Représentant de l’appelant :
+M. Thomas Rhoden
+Avocat de l’intimée :
+Me Khashayar Haghgouyan
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant : s/o
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

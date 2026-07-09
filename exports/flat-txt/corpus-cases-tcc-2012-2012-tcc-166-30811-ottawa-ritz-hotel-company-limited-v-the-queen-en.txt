@@ -1,0 +1,128 @@
+Title: Ottawa Ritz Hotel Company Limited v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30811/index.do
+Corpus path: corpus/cases/tcc/2012/2012-tcc-166-30811-ottawa-ritz-hotel-company-limited-v-the-queen-en.md
+Document type: case_law
+Last modified: 2012-05-18
+
+# Ottawa Ritz Hotel Company Limited v. The Queen
+
+- Citation: 2012 TCC 166
+- Decision date: 2012-05-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7554, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ottawa Ritz Hotel Company Limited v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-05-18
+Neutral citation
+2012 TCC 166
+File numbers
+2011-879(IT)I
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-879(IT)I
+BETWEEN:
+OTTAWA RITZ HOTEL COMPANY LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 2, 2012, at Ottawa, Canada
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Agent for the Appellant:
+Jack R. Bowerman
+Counsel for the Respondent:
+Tanis Halpape
+____________________________________________________________________
+JUDGMENT
+The Appellant’s appeal is dismissed, without costs.
+Signed at Halifax, Nova Scotia, this 18th day of May 2012.
+“Wyman W. Webb”
+Webb J.
+Citation: 2012TCC166
+Date: 20120518
+Docket: 2011-879(IT)I
+BETWEEN:
+OTTAWA RITZ HOTEL COMPANY LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb J.
+[1] The Appellant is a corporation that paid a dividend in the amount of $32,000 during its fiscal year ending March 31, 2007. The tax return for this 2007 taxation year was not filed until June 5, 2010. The Appellant claimed a dividend refund in the amount of $10,667 in its 2007 tax return but this dividend refund was denied. A penalty was also assessed under subsection 162(2) of the Income Tax Act (the “Act”).
+[2] Subsection 129(1) of the Act provides as follows:
+129. (1) Where a return of a corporation's income under this Part for a taxation year is made within 3 years after the end of the year, the Minister
+(a) may, on sending the notice of assessment for the year, refund without application an amount (in this Act referred to as its “dividend refund” for the year) equal to the lesser of
+(i) 1/3 of all taxable dividends paid by the corporation on shares of its capital stock in the year and at a time when it was a private corporation, and
+(ii) its refundable dividend tax on hand at the end of the year; and
+(b) shall, with all due dispatch, make the dividend refund after sending the notice of assessment if an application for it has been made in writing by the corporation within the period within which the Minister would be allowed under subsection 152(4) to assess tax payable under this Part by the corporation for the year if that subsection were read without reference to paragraph 152(4)(a).
+[3] A dividend refund is the lesser of two amounts – 1/3 of all taxable dividends paid in a particular taxation year and the corporation’s refundable dividend tax on hand at the end of such year. A dividend refund, as provided in this subsection, may be paid by the Minister without any application for such refund being made by the taxpayer (paragraph (a)). If the Minister does not voluntarily pay the refund, the taxpayer may apply for this refund and then the Minister must pay the refund (paragraph (b)). However, it is a condition for either situation that the corporation’s return for the particular year for which it will be claiming the refund must be filed within 3 years after the end of this year. If the return is not filed within this three year period, neither paragraph (a) nor paragraph (b) is applicable.
+[4] In Tawa Developments Inc. v. The Queen, 2011 TCC 440, 2011 DTC 1324, Justice Hogan confirmed that the failure to file the tax return within the three year period referred to subsection 129(1) of the Act, “made the dividend refund provision in subsection 129(1) inoperative … and the refund unobtainable”. Since the Appellant did not file its tax return for its 2007 taxation year within three years from the end of this taxation year, the provisions of paragraphs (a) and (b) of subsection 129(1) are not applicable and the Minister is not obligated to pay the dividend refund amount to the Appellant.
+[5] While it was not raised during the hearing, Justice Hogan did note in Tawa Developments Inc., above, that if the dividend refund amount is not paid to the corporate taxpayer, then the refundable dividend tax on hand of that corporate taxpayer is not reduced by the amount of such dividend refund that could have been paid but was not paid because the tax return was not filed within the required three year period. Therefore the refundable dividend tax on hand of the Appellant is not reduced by the $10,667 claimed by the Appellant when it did file its tax return for its 2007 taxation year on June 5, 2010 as such amount has not been paid to the Appellant.
+[6] The Appellant was also assessed a penalty under subsection 162(2) of the Act. This subsection provides as follows:
+(2) Every person
+(a) who fails to file a return of income for a taxation year as and when required by subsection 150(1),
+(b) on whom a demand for a return for the year has been served under subsection 150(2), and
+(c) by whom, before the time of failure, a penalty was payable under this subsection or subsection (1) in respect of a return of income for any of the 3 preceding taxation years
+is liable to a penalty equal to the total of
+(d) an amount equal to 10% of the person's tax payable under this Part for the year that was unpaid when the return was required to be filed, and
+(e) the product obtained when 2% of the tax payable under this Part for the year that was unpaid when the return was required to be filed is multiplied by the number of complete months, not exceeding 20, from the date on which the return was required to be filed to the date on which the return was filed.
+[7] The time period within which a tax return for a corporate taxpayer must be filed is set out in paragraph 150(1)(a) of the Act:
+150. (1) Subject to subsection (1.1), a return of income that is in prescribed form and that contains prescribed information shall be filed with the Minister, without notice or demand for the return, for each taxation year of a taxpayer,
+(a) in the case of a corporation, by or on behalf of the corporation within six months after the end of the year if
+(i) at any time in the year the corporation
+(A) is resident in Canada, …
+[8] There was no dispute that the Appellant was resident in Canada. Therefore the Appellant was required to file its tax return for its 2007 taxation year (which ended on March 31, 2007) by the end of September 2007.
+[9] The Appellant had failed to file its tax return for its 2007 taxation year as and when required by subsection 150(1) of the Act. Although a copy of the demand that was sent to the Appellant was not submitted during the hearing, a copy of the letter from the Canada Revenue Agency dated June 12, 2008 was submitted. The first paragraph of this letter states that:
+This letter acknowledges your request for additional time to comply with our notice to file the above-mentioned tax return.
+[10] The tax return referred to above in the letter was the tax return for the Appellant for the period ending March 31, 2007. Therefore it is more likely than not that the demand to file the tax return for its taxation year ending March 31, 2007 had been served on the Appellant. In this letter the Canada Revenue Agency stated that unless the tax return was filed by August 31, 2008 further compliance action may be initiated.
+[11] A penalty was payable under subsection 162(1) of the Act by the Appellant in respect of its tax return for its 2006 taxation year. Therefore all of the conditions for the imposition of the penalty under subsection 162(2) of the Act (as set out in paragraphs (a), (b) and (c) of this subsection) have been satisfied.
+[12] Then Associate Chief Justice Bowman in Kadrie v. The Queen, 2001 DTC 967 confirmed that a due diligence defence was available for a taxpayer who had been assessed a penalty under subsection 162(1) of the Act. It does not seem to me that there is any reason why such a defence should not also be available to a person who has been assessed a penalty under subsection 162(2) of the Act. The Appellant will, however, need to establish that the requirements of the due diligence defence have been satisfied.
+[13] Justice Létourneau, on behalf of the Federal Court of Appeal, in Les Résidences Majeau Inc. v. The Queen, 2010 FCA 28, stated as follows:
+7 As far as the penalty is concerned, we are satisfied that the judge did not make any mistake in upholding it. To avoid this penalty, the appellant had to establish that it was duly diligent.
+8 According to Corporation de l'école polytechnique v. Canada, 2004 FCA 127, a defendant may rely on a defence of due diligence if either of the following can be established: that the defendant made a reasonable mistake of fact, or that the defendant took reasonable precautions to avoid the event leading to imposition of the penalty.
+9 A reasonable mistake of fact requires a twofold test: subjective and objective. The subjective test is met if the defendant establishes that he or she was mistaken as to a factual situation which, if it had existed, would have made his or her act or omission innocent. In addition, for this aspect of the defence to be effective, the mistake must be reasonable, i.e. a mistake a reasonable person in the same circumstances would have made. This is the objective test.
+10 As already stated, the second aspect of the defence requires that all reasonable precautions or measures be taken to avoid the event leading to imposition of the penalty.
+[14] Although the penalty in issue is not identified in this decision of the Federal Court of Appeal, it appears from the decision[1] of Justice Tardif which was appealed to the Federal Court of Appeal that the penalty in issue is the penalty that was, prior to April 1, 2007, imposed under section 280 of the Excise Tax Act. The imposition of this penalty was also subject to the due diligence defence (see Pillar Oilfield Projects Ltd. v. The Queen, [1993] G.S.T.C. 49).
+[15] In this case it is the failure to file the tax return for 2007 (following a demand to file this return) which followed a failure to file the tax return for the 2006 taxation year as and when required that has resulted in the imposition of the penalty under subsection 162(2) of the Act. There is no reasonable mistake of fact in this case.
+[16] The due diligence defence may also be established if the Appellant took all reasonable precautions to avoid the failure to file its tax return.
+[17] Edgar Mitchell was the President of the Appellant. His wife passed away suddenly on December 29, 2008 at the age of 49. Jack Bowerman, C.A. CMA, was the accountant for the Appellant. His mother passed away in the spring of 2009. He also had surgery on his left hand in the fall of 2009 and was unable to work for 2 months.
+[18] While the sudden passing of his wife was a traumatic event for the President of the Appellant, it happened over one year after the tax return for 2007 was required to be filed as provided in subsection 150(1) of the Act. The events that affected the accountant took place one and a half to two years after the 2007 tax return for the Appellant was required to be filed.
+[19] The Appellant has failed to establish that it took all reasonable precautions to avoid the failure to file its corporate tax return for 2007 by the end of September 2007 (when it was required to be filed under subsection 150(1) of the Act). No explanation was provided for the failure to file its tax return for its 2006 taxation year as and when that return was due.
+[20] As a result the Appellant’s appeal is dismissed, without costs.
+Signed at Halifax, Nova Scotia, this 18th day of May 2012.
+“Wyman W. Webb”
+Webb J.
+CITATION: 2012TCC166
+COURT FILE NO.: 2011-879(IT)I
+STYLE OF CAUSE: OTTAWA RITZ HOTEL COMPANY LIMITED AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Canada
+DATE OF HEARING: April 2, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: May 18, 2012
+APPEARANCES:
+Agent for the Appellant:
+Jack R. Bowerman
+Counsel for the Respondent:
+Tanis Halpape
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2009 TCC 286, [2009] G.S.T.C. 90, [2009] 2009 G.S.T.C. 118.

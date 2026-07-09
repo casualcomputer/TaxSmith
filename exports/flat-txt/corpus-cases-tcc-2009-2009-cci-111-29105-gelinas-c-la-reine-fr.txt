@@ -1,0 +1,149 @@
+Title: Gelinas c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29105/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-111-29105-gelinas-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-02-19
+
+# Gelinas c. La Reine
+
+- Citation: 2009 CCI 111
+- Decision date: 2009-02-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6668, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gelinas c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-02-19
+Référence neutre
+2009 CCI 111
+Numéro de dossier
+2008-2748(IT)I
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-2748(IT)I
+ENTRE :
+LINDSAY GELINAS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appel entendu à Toronto (Ontario), le 12 février 2009.
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Représentant de l’appelante :
+M. Mark L. Hendrikx
+Avocate de l’intimée :
+Me Sonia Singh
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2006 est accueilli, et la nouvelle cotisation est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation compte tenu du fait que l’appelante peut déduire de ses revenus des frais de déménagement s’élevant à 18 823,44 $.
+Le droit de dépôt de 100 $ versé par l’appelante doit lui être remboursé.
+Signé à Ottawa, Canada, ce 19e jour de février 2009.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 27e jour d’avril 2009.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2009CCI111
+Date : 20090219
+Dossier : 2008-2748(IT)I
+ENTRE :
+LINDSAY GELINAS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge Miller
+[1] La situation en cause dans la présente affaire, qui porte sur l’application de la déduction de frais de déménagement prévue au paragraphe 62(1) de la Loi de l’impôt sur le revenu (la « Loi »), est particulière. L’appelante, Mme Gelinas, veut déduire dans le calcul de ses revenus des frais de déménagement s’élevant à 18 823,44 $ qu’elle a engagés en 2006 lorsqu’elle s’est rapprochée d’au moins 40 kilomètres de son lieu de travail, la Lakeridge Health Corporation (« Lakeridge »), située à Oshawa, en Ontario. L’ancienne résidence de Mme Gelinas, située à Woodville, en Ontario, se trouvait à plus de 65 kilomètres de l’hôpital d’Oshawa, où Mme Gelinas travaillait avant et après son déménagement. La nouvelle résidence de Mme Gelinas, située à Whitby, se trouve seulement à quelques kilomètres de l’hôpital d’Oshawa.
+[2] Pour savoir si Mme Gelinas peut déduire dans le calcul de son revenu les frais de déménagement, il faut examiner la Loi minutieusement. Le paragraphe 62(1) de la Loi est ainsi rédigé :
+62(1) Un contribuable peut déduire dans le calcul de son revenu pour une année d’imposition les sommes qu’il a payées au titre des frais de déménagement engagés relativement à une réinstallation admissible dans la mesure où, à la fois :
+a) elles n’ont pas été payées en son nom relativement à sa charge ou à son emploi ou dans le cadre ou en raison de sa charge ou de son emploi;
+b) elles n’étaient pas déductibles par l’effet du présent article dans le calcul de son revenu pour l’année d’imposition précédente;
+c) leur total ne dépasse pas le montant applicable suivant :
+(i) dans le cas visé au sous-alinéa a)(i) de la définition de « réinstallation admissible » au paragraphe 248(1), le revenu du contribuable pour l’année tiré de son emploi au nouveau lieu de travail ou de l’exploitation de l’entreprise au nouveau lieu de travail, selon le cas,
+(ii) dans le cas visé au sous-alinéa a)(ii) de cette définition, le total des montants inclus dans le calcul du revenu du contribuable pour l’année par l’effet des alinéas 56(1)n) et o);
+d) les remboursements et allocations qu’il a reçus relativement à ces frais sont inclus dans le calcul de son revenu.
+[3] La « réinstallation admissible » est définie de la sorte à l’article 248 de la Loi :
+« réinstallation admissible » Réinstallation d’un contribuable relativement à laquelle les conditions suivantes sont réunies :
+a) elle est effectuée afin de permettre au contribuable :
+(i) soit d’exploiter une entreprise ou d’occuper un emploi à un endroit au Canada (appelé « nouveau lieu de travail » à l’article 62 et au présent paragraphe),
+(ii) soit de fréquenter, comme étudiant à temps plein inscrit à un programme de niveau postsecondaire, un établissement d’une université, d’un collège ou d’un autre établissement d’enseignement (appelé « nouveau lieu de travail » à l’article 62 et au présent paragraphe);
+b) la résidence que le contribuable habitait ordinairement avant la réinstallation (appelée « ancienne résidence » à l’article 62 et au présent paragraphe) et celle qu’il habitait ordinairement après la réinstallation (appelée « nouvelle résidence » à l’article 62 et au présent paragraphe) sont toutes deux situées au Canada;
+c) la distance entre l’ancienne résidence et le nouveau lieu de travail est supérieure d’au moins 40 kilomètres à la distance entre la nouvelle résidence et le nouveau lieu de travail.
+Toutefois pour l’application des paragraphes 6(19) à (23) et de l’article 62 à la réinstallation d’un contribuable qui est absent du Canada mais y réside, il n’est pas tenu compte des mots « au Canada » au sous-alinéa a)(i) de la présente définition ni de son alinéa b).
+[4] Pour avoir le droit de déduire dans le calcul de ses revenus les frais de déménagement qu’elle avait engagés, Mme Gélinas doit faire la preuve de ce qui suit :
+(i) Le déménagement visait à lui permettre de travailler à l’hôpital d’Oshawa, qui se trouve à un endroit au Canada.
+(ii) L’ancienne résidence et la nouvelle résidence de Mme Gelinas sont toutes deux situées au Canada. Ce fait n’a pas été remis en cause.
+(iii) La distance entre l’ancienne résidence et l’hôpital d’Oshawa est supérieure d’au moins 40 kilomètres à la distance entre la nouvelle résidence et l’hôpital d’Oshawa. Ce fait n’a pas non plus été remis en cause.
+[5] La seule question en litige est donc de savoir si le déménagement de Mme Gelinas visait à lui permettre de travailler à l’hôpital d’Oshawa. La Couronne soutient que comme Mme Gelinas travaillait déjà à l’hôpital, quoiqu’à temps partiel, celle‑ci n’a pas commencé à travailler dans un nouveau lieu de travail, car elle travaillait déjà là. En fait, le déménagement de Mme Gelinas n’aurait pas été nécessaire pour lui permettre d’occuper son nouvel emploi. La Couronne s’est fondée sur un passage de la décision rendue par le juge en chef Christie dans Bracken v. The Minister of National Revenue[1], selon laquelle quatre éléments doivent être réunis pour que des frais de déménagement puissent être déduits : un ancien lieu de travail, un nouveau lieu de travail, une ancienne résidence et une nouvelle résidence.
+[6] Avant de pouvoir me prononcer sur cette interprétation des exigences de la disposition portant sur la déduction des frais de déménagement, il me faut examiner les circonstances du déménagement de Mme Gelinas. Jusqu’en janvier 2006, Mme Gelinas travaillait à temps partiel pour Lakeridge, à Oshawa. Elle a dit qu’elle effectuait en moyenne deux quarts de travail par semaine au 7e étage de l’hôpital, au service de chirurgie‑urologie. À ce moment‑là, Mme Gelinas habitait à Woodville, en Ontario, soit à environ 65 kilomètres de l’hôpital d’Oshawa. Elle cherchait un emploi à temps plein et a donc présenté sa candidature pour des postes à Lindsay et à Peterborough, deux municipalités situées plus près de chez elle. Elle a aussi présenté sa candidature à un nouveau poste à temps plein auprès de Lakebridge à Oshawa (Lakebridge exploitait aussi des centres de santé à Bowmanville, à Whitby et à Port Perry). Le poste à temps plein à Oshawa était dans un autre service, celui d’orthopédie, que le poste à temps partiel que Mme Gelinas occupait alors. D’autres infirmières avaient aussi présenté leur candidature pour le poste à temps plein à Oshawa. Mme Gelinas a passé une entrevue avec Lakebridge et s’est fait offrir le poste à temps plein à Oshawa. Compte tenu des responsabilités différentes de ce nouveau poste, Mme Gelinas a dû suivre une formation avant de travailler pour le service d’orthopédie. Son nouveau poste à temps plein (40 heures par semaines) l’a fait passer à une nouvelle échelle salariale et lui a donné droit à des avantages sociaux supplémentaires.
+[7] Après avoir accepté ce nouvel emploi à temps plein auprès de Lakeridge, Mme Gelinas a décidé que la distance de 130 kilomètres qu’il lui fallait désormais parcourir quotidiennement n’était plus raisonnable, surtout à cause des conditions routières en hiver. Mme Gelinas a donc décidé de vendre sa résidence, et l’a inscrite au printemps. La résidence a finalement été vendue au mois d’octobre suivant, et, vers la fin de novembre, Mme Gelinas a emménagé dans sa nouvelle résidence située à Whitby, à seulement quelques kilomètres du Lakeridge Health Center d’Oshawa. Mme Gelinas a dû engager des frais de déménagement de 18 823,44 $.
+[8] L’analyse de ces faits non contestés m’amène à certaines conclusions. Premièrement, le déménagement de Mme Gelinas était lié à son travail. Elle a changé de résidence parce que son nouvel emploi lui demandait de faire l’aller‑retour de 130 kilomètres cinq fois par semaine plutôt que seulement deux fois par semaine, comme l’exigeait son ancien emploi à temps partiel. Deuxièmement, Mme Gelinas exerçait son nouvel emploi à un lieu de travail au Canada. Troisièmement, bien que Mme Gelinas exerçait son nouvel emploi dans le même centre de santé que son ancien emploi à temps partiel, elle travaillait dans un autre service, qui était installé à un autre étage; il s’agissait donc d’un emploi différent.
+[9] Compte tenu de ces faits, je n’hésite aucunement à conclure que le déménagement de Mme Gelinas constituait une réinstallation admissible au sens de la Loi, car, à mon avis, sa réinstallation lui a permis de travailler à un endroit au Canada. Mme Gelinas a déménagé pour pouvoir travailler à temps plein à Oshawa. Je conclus que les frais qu’elle a dû engager étaient liés à son travail, et qu’ils correspondent parfaitement au libellé et à l’esprit de la disposition portant sur la déduction des frais de déménagement.
+[10] En l’espèce, la difficulté vient du fait que l’intimée a présenté une décision de la Cour selon laquelle une réinstallation doit réunir quatre éléments pour être admissible, à savoir un ancien lieu de travail, un nouveau lieu de travail, une ancienne résidence et une nouvelle résidence. Cette interprétation vient du passage suivant, tiré de la décision du juge en chef Christie dans Bracken :
+À mon sens, le législateur envisage au paragraphe 62(1) l’existence de quatre éléments distincts : l’ancien lieu de travail, le nouveau lieu de travail, l’ancienne résidence, la nouvelle résidence, ainsi que la comparaison entre deux distances, soit d’une part la distance entre l’ancienne résidence et le nouveau lieu de travail, et d’autre part la distance entre la nouvelle résidence et le nouveau lieu de travail, celle‑là devant être supérieure à celle‑ci de 40 kilomètres ou plus pour que les frais de déménagement puissent être déduits. […]
+[11] Les auteurs de décisions postérieures à Bracken ne s’entendent pas quant à la validité de l’interprétation du juge en chef Christie (voir, entre autres, Templeton c. Canada[2], une décision contredisant Bracken, et Grill c. Canada[3] et Jaggers c. Canada[4], deux décisions où l’approche adoptée dans Bracken a été appliquée).
+[12] J’ai certaines réserves relativement à toute interprétation rigide qui exigerait à la fois l’existence d’un ancien lieu de travail et d’un nouveau lieu de travail. D’abord, l’expression « nouveau lieu de travail » sert simplement à expliquer les mots la précédant. Je ne vois pas pourquoi il faudrait lui donner un sens propre à créer un concept entièrement nouveau qui n’apparaît pas dans les termes essentiels de la disposition. Les mots qui précèdent cette expression sont « afin de permettre au contribuable […] d’occuper un emploi à un endroit au Canada ». Ce sont ces termes‑là, et non pas l’expression « nouveau lieu de travail », qui sont les termes essentiels de la disposition. Les termes essentiels ne traitent aucunement de l’existence d’un nouveau lieu de travail ou d’un nouvel emploi, même si le contexte est celui d’un déménagement du contribuable dans une nouvelle résidence pour pouvoir occuper un emploi. Cela donne donc à penser que le travail du contribuable doit changer pour l’amener à déménager. C’était d’ailleurs le cas de Mme Gelinas, dont la situation avait bel et bien changé; elle occupait un nouvel emploi.
+[13] À mon humble avis, l’expression « nouveau lieu de travail » qui a servi à décrire l’idée d’un déménagement permettant à un contribuable de travailler à un endroit au Canada ne devrait pas entraîner une interprétation restrictive de cette même idée. Comme l’a affirmé le juge en chef Rip dans Dalisay c. Canada[5] :
+[17] L’expression « nouveau lieu de travail » ne doit pas être interprétée strictement. Les mots « exploiter une entreprise ou occuper un emploi à un endroit au Canada » ont un sens fort général. Ces mots permettent une interprétation souple en fonction des faits. […]
+[14] L’expression « nouveau lieu de travail » sert simplement à définir l’exigence elle‑même; c’est là son seul rôle.
+[15] En interprétant l’expression « nouveau lieu de travail » de façon à ne pas exiger l’existence d’un ancien lieu de travail, j’évite d’ajouter de nouveaux mots à la définition d’installation admissible. Je tiens à souligner que dans Bracken, bien que le juge en chef Christie ait fait de l’existence d’un ancien lieu de travail un des éléments de son analyse, il ne s’est servi que de trois éléments lorsqu’il a appliqué la définition d’installation admissible, à savoir un nouveau lieu de travail, une ancienne résidence et une nouvelle résidence. Cela me donne à penser que le juge en chef Christie n’a pas établi des règles rigides qui doivent être suivies servilement. Je crois que l’approche qu’il faut adopter de façon générale, lorsque vient le temps de décider si des déductions, comme les frais de déménagement, doivent être permises, est celle qui a été mise de l’avant par le juge en chef Rip. À mon avis, il ne faut pas buter contre l’expression « nouveau lieu de travail » et l’interpréter comme exigeant l’existence d’un ancien lieu de travail. Il faut plutôt se demander si le contribuable a déménagé afin de pouvoir occuper un emploi à un endroit au Canada. Mme Gelinas s’est conformée à cette exigence.
+[16] Ma conclusion ne vise pas à permettre au contribuable dont le travail n’a pas changé de déduire des frais de déménagement s’il se rapproche d’au moins 40 kilomètres de son lieu de travail. Dans un tel cas, il n’y aurait aucun changement de travail qui permettrait au contribuable de prétendre avec succès que le déménagement lui avait permis d’occuper un emploi à son lieu de travail. La situation de Mme Gelinas est tout à fait différente. Son nouvel emploi la forçait à faire des déplacements inacceptables. Elle n’avait pas le choix de déménager. Elle pouvait s’accommoder de la distance entre son ancienne résidence et son lieu de travail alors qu’elle travaillait à temps partiel, mais cela n’était plus le cas quand elle a commencé à travailler à temps plein.
+[17] Si je devais appliquer l’approche du juge en chef Christie, exigeant qu’il y ait effectivement un ancien lieu de travail et un nouveau lieu de travail, je voudrais bien savoir où la Couronne fixerait la limite. La Couronne a clairement soutenu que le fait de passer du 7e au 6e étage d’un immeuble ne constitue pas un cas où un contribuable passe d’un ancien lieu de travail à un nouveau lieu de travail. Le juge en chef Rip a fait une observation fort intéressante dans le passage suivant, tiré de Dalisay :
+[19] Les mots « lieu de travail » et l’expression « nouveau lieu de travail » sont souples et dépendent du contexte dans lequel ils sont employés. Lorsque l’on se rapproche, sur une carte, pour trouver l’emplacement d’une adresse, on voit d’abord la province, puis la ville, puis le district, puis la rue, et enfin l’adresse. De même, la personne qui travaille à Edmonton peut informer une personne de son lieu de travail selon l’endroit d’où vient cette dernière. Si cette personne vient de l’étranger, la personne qui travaille à Edmonton peut décrire son lieu de travail comme étant situé au Canada ou en Alberta. Dans le cas d’une personne venant du Nouveau‑Brunswick, elle peut dire que son lieu de travail est situé en Alberta ou à Edmonton; dans le cas d’une personne venant de l’Alberta, elle peut décrire son lieu de travail comme étant situé à Edmonton ou dans un secteur d’Edmonton; mais si la personne vient d’Edmonton, elle peut dire que son lieu de travail est situé dans un secteur précis de la ville ou indiquer l’immeuble ou l’emplacement précis. Dans tous les cas, la personne décrit son « lieu de travail ». […]
+[18] Poussons cette théorie un peu plus loin. Si une infirmière demandait à une autre infirmière travaillant à l’hôpital d’Oshawa où elle travaille, celle‑ci répondrait sans doute qu’elle travaille au 7e étage, au service d’urologie. Contrairement à l’exigence voulant que la nouvelle résidence soit au moins 40 kilomètres plus près du lieu de travail que l’ancienne résidence, la Loi ne comporte aucune exigence de distance entre l’ancien lieu de travail et le nouveau lieu de travail. Cela entraîne deux conclusions : d’abord, comme je l’ai déjà dit, la Loi ne fait pas de l’existence d’un ancien lieu de travail une exigence essentielle; ensuite, un changement d’emploi demandant un déménagement aussi mineur que celui de passer d’un étage à un autre d’un immeuble pourrait tout aussi bien être considéré comme un déménagement d’un ancien lieu de travail à un nouveau lieu de travail. Je tiens à répéter que l’élément essentiel est que le changement de résidence a été rendu nécessaire par une modification de la situation d’emploi, et non pas qu’il y ait une distance minimale entre l’ancien lieu de travail et le nouveau lieu de travail.
+[19] Finalement, même si je devais accorder plus d’importance à l’expression « nouveau lieu de travail » que ne l’exige la Loi à mon avis, il faudrait donner une interprétation assez souple à cette expression pour que le mot « nouveau » s’applique à « travail » plutôt qu’à « lieu ». L’expression prendrait alors le sens de lieu d’un nouveau travail. Selon cette dernière interprétation, il est clair que Mme Gelinas pourrait déduire ses frais de déménagement dans le calcul de ses revenus, car il est certain qu’elle avait un nouveau travail (à temps plein au service d’orthopédie plutôt qu’à temps partiel au service de chirurgie‑urologie). De plus, le nouveau travail de Mme Gelinas se trouvait à un endroit au Canada, comme l’exige la Loi.
+[20] Comme je l’ai expliqué au début des présents motifs, la situation de Mme Gelinas est particulière. À première vue, il peut sembler illogique de conclure qu’un employé qui travaille au 7e étage et qui change d’emploi pour travailler au 6e étage pourrait déduire des frais de déménagement dans le calcul de ses revenus. Toutefois, lorsqu’il est clair que le déménagement avait pour but de permettre au contribuable d’occuper un nouveau poste à temps plein, alors, strictement parlant, toutes les exigences de la disposition permettant la déduction des frais de déménagement ont été remplies, et la situation correspond à l’intention du législateur, qui est d’aider les contribuables qui doivent déménager à cause de leur travail. L’appel est accueilli et la nouvelle cotisation est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation compte tenu du fait que Mme Gelinas a le droit de déduire de ses revenus la totalité des frais de déménagement dont elle avait demandé la déduction.
+Signé à Ottawa, Canada, ce 19e jour de février 2009.
+« Campbell J. Miller »
+Le juge C. Miller
+Traduction certifiée conforme
+ce 27e jour d’avril 2009.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2009CCI111
+No DU DOSSIER DE LA COUR :
+2008‑2748(IT)I
+INTITULÉ :
+Lindsay Gelinas et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 12 février 2009
+MOTIFS DU JUGEMENT :
+L’honorable juge Campbell J. Miller
+DATE DU JUGEMENT :
+Le 19 février 2009
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Mark L. Hendrikx
+Avocate de l’intimée :
+Me Sonia Singh
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelante :
+Nom :
+s.o.
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 84 DTC 1813.
+[2] [1997] A.C.F. no 396 (QL).
+[3] 2009CCI5.
+[4] [1997] A.C.I. no 477.
+[5] 2004CCI126.

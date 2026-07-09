@@ -1,0 +1,321 @@
+Title: Kossow v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30953/index.do
+Corpus path: corpus/cases/tcc/2012/2012-tcc-325-30953-kossow-v-the-queen-en.md
+Document type: case_law
+Last modified: 2012-09-14
+
+# Kossow v. The Queen
+
+- Citation: 2012 TCC 325
+- Decision date: 2012-09-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4827, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kossow v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-09-14
+Neutral citation
+2012 TCC 325
+File numbers
+2005-1974(IT)G
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-1974(IT)G
+BETWEEN:
+KATHRYN KOSSOW,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 26-29, May 2-6, & July 19, 2011,
+at Toronto, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Counsel for the Appellant:
+A. Christina Tari,
+Jason Puterman,
+Cindy Chiu
+Counsel for the Respondent:
+Arnold H. Bornstein,
+John Grant,
+Lorraine Edinboro,
+Patricia Lee
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act for the 2000, 2001 and 2002 years is dismissed in accordance with the attached Reasons for Judgment.
+Costs are awarded to the Respondent.
+Signed at Ottawa, Canada, this 14th day of September 2012.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2012TCC325
+Date: 20120914
+Docket: 2005-1974(IT)G
+BETWEEN:
+KATHRYN KOSSOW,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller J.
+[1] In 2000, 2001 and 2002 the Appellant participated in a leveraged-charitable donation[1] arrangement promoted by Berkshire Funding Initiatives Limited and Talisker Funding Limited (the “Berkshire Program” and sometimes “Program”). As a participant in the Berkshire Program, she made purported donations to and received charitable tax receipts from Ideas Canada Foundation (“Ideas”) in the amounts of $50,000, $60,000 and $50,000 in 2000, 2001 and 2002 respectively (the “Donations”). In the present appeal, the Appellant’s Donations were funded by 20% cash from her and 80% from a 25 year, non-interest bearing loan provided to her by one of the promoters of the Berkshire Program.
+[2] The Appellant claimed a tax credit in respect of the Donations of $50,000, $60,000 and $50,000 in 2000, 2001 and 2002. By notices of reassessment dated September 2, 2004, the Minister of National Revenue (the “Minister”) disallowed 80% of the tax credit claimed for each year. In a reassessment dated September 9, 2005, the Minister disallowed the entire tax credit for the 2002 taxation year.
+[3] The issues in this appeal are: (a) whether the Donations made by the Appellant were gifts within the meaning of subsection 118.1(1) of the Income Tax Act (the “Act”); (b) whether the general anti-avoidance rule is applicable to deny the tax credits to the Appellant; and, (c) who has the onus of proving the Minister’s assumptions when those assumptions involve third parties.
+[4] Based on my analysis of the facts and law, the appeal cannot succeed because I have concluded that the decision in Maréchaux v. The Queen, 2010 FCA 287 is determinative of the first issue in this appeal. As a result, I have also concluded that I do not have to address the second issue. In the circumstances of this appeal, it is not necessary for me to decide who had the onus of proving the Minister’s assumptions as there was sufficient evidence presented at the hearing which allowed me to make my decision.
+[5] At the hearing, the Respondent called the following witnesses who held the following positions during the years at issue. All witnesses, except the Canada Revenue Agency (“CRA”) employee, gave their evidence under subpoena issued by the Respondent.
+Yeti Agnew, lawyer for the MacLaren Art Centre;
+William Moore, Executive Director of the MacLaren Art Centre until December 2003;
+Jack Keslassy, Administrative Director of Berkshire Funding Initiatives Ltd., President of Berkshire Foundation Ltd. and Talisker Funding Ltd.;
+Allan Beach, lawyer for James Penturn, Berkshire Funding Initiatives Ltd., Talisker Funding Ltd., Joan Krawczyk Fine Art Inc. and Jennings Art Consultants Ltd.;
+David Sanderson, Executive Director of Ideas;
+Cheryl McCann, Valuation Specialist with the Canada Revenue Agency.
+[6] There were copious documents tendered as evidence in this appeal and the hearing lasted ten days.
+[7] Prior to deciding whether the Donations made by the Appellant were gifts and to put the Donations in context, I will summarize the main points in the evidence and, in so doing, will describe the Berkshire Program and what happened to the Donations after they were received by Ideas.
+Background
+[8] In these reasons, I have used the term Participant to represent an individual who made a donation to Ideas.
+[9] The Appellant obtained her Masters in Business Administration with a speciality in marketing in 1978 from York University. She conducted marketing research in the pharmaceutical industry first as a sole proprietor and later through Kossow Research and Associates which she had incorporated in 2001.
+[10] The Appellant learned of the Berkshire Program in October 2000 from her investment advisor, Donnovan DePass of Capital Management Group. She became a Participant in 2000 and 2001 through Mr. DePass. In 2002, she met directly with Jack Keslassy[2] (“Keslassy”) to become a Participant. (Later in these reasons, I will describe Keslassy’s role in the Berkshire Program.)
+[11] It was the Appellant’s evidence that she was attracted to the Berkshire Program because, according to its promotional material, Ideas donated to several arts related organizations and the Program would allow her to make a larger donation than she could otherwise make to support the arts. According to the Appellant, the tax savings was a secondary consideration.
+[12] I note that from 1988 to 1999, the Appellant made charitable donations which ranged from $201 to $1,360.
+The Berkshire Program
+[13] I do not know when the idea for the Berkshire Program was first conceived. However, Allan Beach (“Beach”), a partner with Fasken Martineau DuMoulin LLP (“Fasken”), testified that he became involved in the Berkshire Program in the early summer of 2000.
+[14] The Berkshire Program was conceived by a fundraising group and an art dealer group who worked in concert to develop the details of the Program.
+[15] The individuals in the fundraising group were James Penturn (“Penturn”), Richard Glatt (“Glatt”) and Jack Keslassy (“Keslassy”). It was their idea that the Donations from the Participants would consist of an interest-free loan component and a cash component.
+[16] The art dealer individuals were Hazel Hett (“Hett”), Gerard Jennings (“Jennings”), Joan Krawczyk (“Krawczyk”) and Elizabeth Sumption. The corporate entities in this group were Jennings Art Consultants Limited (“Jennings Art”), Joan Krawczyk Fine Art Inc. (“JKFA”) and Gower Street Gallery Limited, later renamed GSG Limited and hereinafter referred to as “GSG”. The art dealers arranged for works of art to be acquired by the MacLaren Art Centre (the “MacLaren”) using the funds raised in the Berkshire Program. The MacLaren is located in Barrie, Ontario.
+(a) The Fundraising Group
+[17] The individuals in the fundraising group had, at various times, been involved in the sale of tax shelter programs.
+[18] Keslassy worked for Penturn and Glatt since the early 1990s. Prior to the Berkshire Program, he had been the Administrative Director of AFE Consultants Limited, an art purchase and donation tax shelter. It was his evidence that he worked for Penturn at AFE Consultants Limited. When this tax shelter was impacted by the February 2000 budget, the Berkshire Program was created.
+[19] As early as August 25, 2000, Keslassy, as Administrative Director of The Berkshire Foundation Limited, contacted individuals and investment advisors to interest them in participating in the Berkshire Program. The Berkshire Foundation Limited was later renamed Talisker Funding Limited (“Talisker”) and I will refer to it as Talisker in these reasons. Keslassy was the President, director and sole shareholder of Talisker and he processed the paperwork for the Berkshire Funding Initiatives Limited (“Berkshire”).
+[20] Both Berkshire and Talisker promoted the Berkshire Program. Berkshire was the fundraiser and Talisker made the loans to the Participants.
+[21] Neither Penturn nor Glatt testified at the hearing. However, the evidence established that they were Co-Presidents of Berkshire.
+[22] On or before August 21, 2000, Penturn engaged David Sanderson to be the Executive Director of Ideas. David Sanderson had worked for James Penturn and his father, Norton Penturn in various tax shelter programs since the 1980’s.
+[23] Ideas was settled as a charitable trust on September 22, 2000 and it became a registered charity effective November 1, 2000[3]. Its role in the Berkshire Program was to issue charitable receipts to the Participants, to make donations to charities and to facilitate the circular flow of the Donations through an escrow account.
+[24] Berkshire recruited lawyers, accountants and investment advisors from across the country to be sales agents for the Berkshire Program. These sales agents signed an agency agreement with Berkshire and they were paid a commission based on the quantum of Donations they raised[4].
+[25] The sales agents were provided with promotional materials to describe the Program to their clients. According to these materials, some of the features of the Program were:
+- Support of educational and cultural institutions
+- Cash contribution of 30% of total donation; 20% used for the donation and 10% as a security deposit
+- Loan for 80% of total donation
+- Loan is interest free for 25 years
+- Security deposit to be invested by lender and guaranteed to meet or exceed benchmarked rate of return
+- Loan processing fee of 1-5%
+- Tax opinion from the law firm of Thorsteinssons, Canada’s largest law firm dealing exclusively in the area of taxation
+- Cumulative cash flow advantage of 40.88% in 2000, 52% in 2002 for residents of Ontario when they donated $50,000
+- Key Benefits – cash donation; no valuation risk; tax advantages
+[26] The Berkshire Program was in existence from 2000 until 2003. During this period, Talisker made more than $160,000,000[5] in loans to approximately 1200 Participants. Talisker stopped making loans in February 2003[6] because of proposed amendments to the Act[7].
+[27] Sometime in 2003, a new program called the Millennium Charitable Foundation came into existence and the Appellant participated in this program through Keslassy. I do not know any details about the Millennium Charitable Foundation except that the Appellant paid $16,000 to receive a charitable receipt of $48,000 from it.
+(b) The Art Dealers and The Art
+[28] According to this component of the Program, 88% of the Donations to Ideas were deposited into an escrow account held by Fasken on account of a gift which Ideas wanted to make to the MacLaren. However, the MacLaren had no control over 87.5% of those funds. They had to be used to purchase art which the dealers made available to the MacLaren at a price which the dealers dictated.
+[29] On a review of the evidence, I have concluded that Hett was the person who planned the art component of the Berkshire Program. Sometime prior to October 4, 2000[8], she agreed to help William Moore raise funds for the MacLaren through Ideas. They intended that the MacLaren would acquire an inventory of Rodin bronzes which it could sell over a period of years to raise money.[9] The MacLaren wanted to build a project called Art City in the city of Barrie, Ontario.
+[30] Hett negotiated an agreement with Gary Snell, owner of Gruppo Mondiale (“Gruppo”), that Gruppo would manufacture, in Italy, 12 sets of Rodin bronzes for the MacLaren. Each set was to contain 51 bronzes for a total of 612 bronzes. These were called the MacLaren Edition. Hett negotiated that the MacLaren Edition would be sold to JKFA for US $6,000,000[10].
+[31] Within a two day period, there were four contracts which were signed with respect to the MacLaren Edition of the Rodin bronzes. In the space of these two days, the price for the bronzes increased 18 fold from US $6,000,000 to US $108,840,000. The details were as follows.
+[32] On November 30, 2000, JKFA entered into a written contract with Gruppo for the MacLaren Edition of Rodin bronzes. At this time, JKFA also received 612 signed “Bills of Sale & Certificates of Title” which were to be released to the MacLaren as Gruppo was paid for each set. The contract specified that delivery, inspection and acceptance of the bronzes were to take place in Italy at JKFA’s expense.
+[33] A day after signing the contract with Gruppo, JKFA assigned its interest in the contract to GSG. Hett was a consultant to GSG. The same day, that is, December 1, 2000, GSG consigned the MacLaren Edition to Jennings Art for US $108,840,000. The sale was governed by a “Marketing and Consignment Contract” which had been made between the parties on August 15, 2000.
+[34] Again on December 1, 2000, Jennings Art agreed to sell the MacLaren Edition of Rodin bronzes to the MacLaren for US $108,840,000. There was no negotiation on the price to be paid by the MacLaren. It was decided by the vendor[11] with the use of a purported “Valuation Summary” prepared by Stewart Waltzer. I refer to the valuation as purported because it was not based in reality. It was prepared before the Rodin bronzes were manufactured; it was based on “numerous suppositions”; and, Stewart Waltzer had not even seen the plasters from which the bronzes would be made.
+[35] According to Beach, a dispute arose between JKFA and Gruppo and only 10 of the 12 sets of bronzes were completed, inspected and title transferred to the MacLaren. JKFA paid US $5,000,000 for the 10 sets. None of the bronzes was landed in Canada. The MacLaren has never received any of the MacLaren Edition bronzes.
+[36] There was no evidence before me which showed that the MacLaren Edition of the Rodin bronzes actually existed. None of the witnesses who appeared before me saw or inspected them. The declarations of inspection of the bronzes were completed by Hett or Gerard Jennings or Joan Krawczyk [12], the art dealers who helped to plan the Berkshire Program. The declarations of inspection were not made exhibits and no documents were submitted which would allow me to conclude that the MacLaren Edition of the Rodin bronzes were actually manufactured.
+[37] The MacLaren received title to 10 sets of the Rodin bronzes. However, even after it was apparent that the MacLaren would not get title to the remaining two sets of Rodin bronzes, funds continued to be deposited to the Fasken escrow account for the benefit of the MacLaren. The art dealers had to arrange for the MacLaren to acquire other pieces of art to support the amounts being deposited to the escrow account. They then arranged for the MacLaren to receive a collection of prints by Henry Moore in substitution for the two remaining sets of bronzes. Pursuant to a letter dated October 25, 2002, Jennings agreed to sell a set (676) of Henry Moore prints for US $35,000,000 to the MacLaren.
+[38] The complete collection of Henry Moore prints consisted of 693 prints. This collection had been sold to JKFA for US $1,450,000 on February 11, 2002 by Gilles Abrioux, an art dealer in Chicago.
+[39] Hett also arranged for the MacLaren to acquire 17 Rodin plasters which she owned. The cost of these plasters to the MacLaren was $3,256,000. There was no evidence with respect to the cost of these plasters to Hett. There was no evidence concerning the valuation of these plasters.
+(c) The Appellant as a Participant
+[40] To become a Participant in the Berkshire Program, the Appellant was required to complete the following steps, which she did in 2000, 2001 and 2002:
+(a) sign a Pledge to Ideas for the full amount of her Donation;
+(b) make a Loan Application for a 25 year, interest-free loan equal to 80% of her Donation to Talisker (I will refer to this as the “Loan Amount”);
+(c) sign a cheque for 20% of her Donation made payable to Talisker “as agent”;
+(d) pay Talisker a security deposit equal to 10% of her Loan Amount which was to be invested for the purpose of increasing to the Loan Amount in 25 years;
+(e) pay Talisker a loan processing fee of 1-5% of the Donation;
+(f) sign a document called a promissory note for the Loan Amount, due 25 years from the date on the note.
+[41] Ideas was the designated charity on the Loan Applications and the Loan Amounts could only be used to make donations to Ideas.
+[42] The Donation was conditional on the Loan Application being approved. If it was not approved, the Appellant’s deposit (20% of the Donation) would have been returned to her.
+[43] Talisker forwarded the Loan Amounts and the funds received “as agent” to Ideas who then sent charitable receipts to the Appellant.
+[44] The particulars of the Appellant’s transactions were as follows:
+Year
+Donation
+Loan
+Amount
+20% of
+Donation
+Security
+Deposit
+Loan
+Processing
+Fee
+Charitable
+Receipt
+2000
+$50,000
+$40,000
+$10,000
+$5,000
+$2,000
+$50,000
+2001
+$60,000
+$56,400[13]
+$12,000
+$6,000
+$2,400
+$60,000
+2002
+$50,000
+$40,000
+$10,000
+$5,000
+$2,000
+$50,000
+[45] As a result of the charitable receipts from Ideas, the Appellant claimed the following Tax Credits:
+Year
+Tax Credits
+2000
+$20,046
+2001
+$24,060
+2002
+$20,045
+[46] Pursuant to a power of attorney, Talisker invested the security deposits in mutual funds chosen by the Appellant from a list determined by Talisker.
+[47] The Appellant testified that she now believes that the investments will not be sufficient to repay the Loan Amounts at the maturity dates. She stated that she has invested additional funds so that she can meet her obligations when the loans mature. However, this testimony was not supported by any documentary evidence.
+[48] I note that Talisker has assigned the Appellant’s security deposits and debts to GSG. According to the statements received by the Appellant since 2003, her security deposits have been deposited in GSG Collateral Security Account. She testified that she has not made any inquiries about this investment.
+(d) The Circulation of the Loans Amounts
+[49] The circular flow of the Loan Amounts was succinctly described in the Respondent’s Submissions as follows:
+In a nutshell, Talisker borrowed money from a Canadian lender in order to make the loans to the participants. Talisker borrowed money from an offshore lender in order to repay the Canadian lender. The offshore lender used funds directed to it from the “donations” to make these loans to Talisker. Transactions involving parties other than the participants ensured that Talisker would be able to repay the Canadian lender[14].
+[50] In 2000, Talisker borrowed monies from Standard Mercantile Bancorp., Limited Partnership (“Standard”) pursuant to a Credit Facility Agreement, dated December 4, 2000. The amounts borrowed from Standard were used to make the loans to the Participants[15].
+[51] Beach described the circulation of the monies as follows:
+His loan was designed ‑‑ sorry, the Standard loan was designed as a daylight loan which would effectively move money through, I think, in this case, a series of accounts, bank accounts, established for each of the parties in the chain of payments. The end result of which would be some or all of that loan would end up back with Standard within 24 or 48 hours[16].
+[52] The return of the Loan Amounts to Standard within 24 to 48 hours was made possible through the use of an escrow account held by Fasken, a set of Directions which had been prepared by Beach and bank accounts held by each party in the chain of payments at various branches of the TD Bank in Toronto.
+[53] The parties in the chain of payments, the Directions and the circulation of the funds were as follows (For clarity, I have attached a diagram at Appendix ‘A’ to these reasons which illustrates the circulation of the Loan Amounts):
+(a) The advances from Standard were deposited to the bank account of Irwin Singer (“Singer”), in trust, who directed the TD Bank to credit the advances to the bank account of Talisker.
+(b) Talisker directed the TD Bank to combine the advances from Standard with the amounts paid to it “as agent” and issue bank drafts to Ideas in the names of each of the Participants for 100% of their Donation. Talisker gave the TD Bank a list of the Participants’ names with the Donation made by each Participant.
+(c) Ideas directed the TD Bank to deposit the proceeds of the bank drafts to its bank account. It then authorized the TD Bank to debit its account for 88% of the Donations and deliver a cheque or bank draft for this amount to Fasken on account of a gift to be made by Ideas to MacLaren.
+(d) Ideas directed Fasken to deposit 88% (on some occasions 86%) of the Donations to an escrow account held in trust for the MacLaren. (Ideas paid Berkshire 11% of the Donations for its fundraising services. The remaining 1% of the Donations was used by Ideas to pay its expenses and salaries and to make donations to charities chosen by Sanderson.)
+(e) The MacLaren authorized and directed Fasken to pay all amounts received from Ideas, except 0.5%, to Jennings Art. The 0.5% was paid to the MacLaren for its building fund.
+(f) Jennings Art directed Fasken to pay amounts to GSG. I assume that Jennings Art received a commission but the percentage was not put into evidence.
+(g) GSG directed Fasken to pay “the amounts as may from time to time be requested” in writing by Wigmore Investments Limited (“Wigmore”).
+(h) Wigmore directed Fasken to pay Talisker those amounts which Fasken had received on its behalf from GSG. According to the evidence, I conclude that GSG received at least 80% of the Donations and it directed that the Loan Amounts be paid to Wigmore who directed that they be paid to Talisker[17]. Elizabeth Sumption in Barbados gave directions for both GSG[18] and Wigmore[19]. According to Beach, these amounts were Wigmore’s advances to Talisker under their loan agreement[20].
+(i) Talisker directed Fasken to deposit the amounts received from Wigmore into Talisker’s bank account at the TD Bank.
+(j) Talisker directed the TD Bank to credit 80% of the Donation (the Loan Amount) to the account of Irwin Singer in trust.
+[54] The loan agreement between Talisker and Wigmore was made on October 12, 2000 and it specified that the advances given to Talisker could be used only for the Berkshire Program. Any amounts advanced by Wigmore to Talisker were interest free until December 31, 2010.
+[55] Talisker relied on advances from Standard in 2000 and 2001 to fund the Loan Amounts to the Participants in the Program. By 2002, Talisker used its own funds to fund the Loan Amounts[21]. However, even in 2002, the Loan Amounts circulated through Wigmore and returned to Talisker.
+[56] In cross examination, Beach was asked why GSG was directing the escrow account to make payments to Wigmore. The question and his answer follow:
+Q. Why was Gower Street Gallery permitting your firm or your escrow account to make payments to Wigmore?
+A. This was the mechanic in which it was ‑‑ well, it is part of the daylight loan we are discussing now, but this is how some or all of the money that originated with Irwin Singer would be ultimately repaid to Irwin Singer[22].
+He was later asked the same question but answered that he did not know the answer.
+[57] In conclusion, I could not ascertain the exact quantum of monies which was transferred between Jennings and GSG and Wigmore. However, I concluded from Beach’s evidence and exhibit R-7, Tab C1 page 24 that the Loan Amounts circulated through the escrow account and were returned to Standard within 24 to 48 hours.
+(e) The Amounts Reported in the Information Returns
+[58] Ideas reported the following amounts in its Information Returns. Its fiscal year end was August 31.
+August 31, 2001
+August 31, 2002
+August 31, 2003
+Gifts
+Received
+$81,725,350
+$85,551,485
+$37,894,705
+Gifts to
+MacLaren
+$71,771,420
+$75,605,932
+$33,157,540
+Gifts to Other
+Charities
+$235,458
+$183,500
+$15,000
+[59] Beach informed the MacLaren that the following amounts had been paid on its behalf.
+December 11, 2000 to
+August 31, 2001
+September 1, 2001 to
+August 31, 2002
+September1, 2002 to
+February 18, 2003
+$71,771,420
+$75,405,932
+$32,986,620
+He wrote that $141,831,761 went towards the acquisition of 10 sets of the Rodin bronzes; $3,256,000 went towards the acquisition of 17 Rodin plasters; and, $35,076,211 went towards the acquisition of 433 Henry Moore prints. The MacLaren also received $1,314,817 towards its building fund.
+[60] In its Information Returns, the MacLaren reported in its fiscal year end December 31, 2000, that it had received $63,975,933 and in its fiscal year end December 31, 2001, that it had received $71,124,299 from a registered charity. In its fiscal year end December 31, 2002, it reported that it had received nothing from a registered charity.
+[61] The essence of the Berkshire Program was that little cash was given to a few charities and the MacLaren was required to acquire art from the creators of the Program with the Donations allocated to it.
+[62] In conclusion, I note that the Appellant was not aware of most of these individuals or the transactions described above when she first became a Participant in the Berkshire Program. The aspects of the Program which directly affected her were described under the heading “The Appellant as a Participant”.
+[63] When the Appellant became a Participant in the Berkshire Program, she was not familiar with Ideas. However, she made no enquiries about it and she did not read the details related to her participation in the Program. She signed the Loan Application and the power of attorney without reading their terms.
+[64] I noted earlier that the Appellant stated that she was attracted to the Berkshire Program because it allowed her to make a larger donation than she could otherwise make to support the arts and that the tax savings was a secondary consideration.
+[65] On a review of the evidence, it is my view that the tax savings were the Appellant’s principal reason for making the Donation.
+Analysis
+[66] Section 118.1 of the Act allows a tax credit for individuals with respect to gifts made to a registered charity and other organizations. That section reads as follows:
+118.1(1) In this section,
+“total charitable gifts”, of an individual for a taxation year, means the total of all amounts each of which is the fair market value of a gift (other than a gift the fair market value of which is included in the total Crown gifts, the total cultural gifts or the total ecological gifts of the individual for the year) made by the individual in the year or in any of the five preceding taxation years (other than in a year for which a deduction under subsection 110(2) was claimed in computing the individual’s taxable income) to a qualified donee, to the extent that the amount was not included in determining an amount that was deducted under this section in computing the individual’s tax payable under this Part for a preceding taxation year;
+[67] In Maréchaux v. The Queen, 2010 FCA 287, the Federal Court of Appeal also dealt with a leveraged-charitable donation program. It agreed with the definition of gift adopted by the trial judge, Woods J., from The Queen v. Friedberg, 92 DTC 6031 (FCA) at 6032. It stated that for the purposes of section 118.1:
+…a gift is a voluntary transfer of property owned by a donor to a donee, in return for which no benefit or consideration flows to the donor
+[68] The Federal Court of Appeal also agreed with Woods J. that Mr. Maréchaux did not make a “gift” within the meaning of section 118.1 of the Act because he made the payment to the foundation expecting to receive a “significant benefit” in return. That benefit was an interest-free loan from a lender.
+[69] In the present case, Ms. Kossow’s Donations to Ideas were not separate from the financing she received from Talisker. Her Donations were conditional on her Loan Applications for interest-free loans being accepted. I conclude that, as in Maréchaux, Ms. Kossow did not make a gift within the meaning of section 118.1 of the Act. The 25 year interest-free loans were “significant benefits” which she received in return for making her Donations. The Appellant was able to transfer $50,000, $60,000 and $50,000 to Ideas by using only $17,000, $20,400 and $17,000 of her own money in 2000, 2001 and 2002 respectively. She accomplished this without having to pay interest on a commercial loan for the difference.
+[70] The appellant in Maréchaux received a second benefit from a “put option”. However, it is not necessary that there be two benefits to vitiate a gift. That a benefit flowed to Ms. Kossow in return for her Donation is sufficient to demonstrate that her Donation did not constitute a gift. The comments made by Woods J. in Maréchaux v. The Queen, 2009 TCC 587 are applicable:
+35 I would also comment that, even without the Put Option, the financing provided a significant benefit. It is self-evident that an interest-free loan for 20 years provides a considerable economic benefit to the debtor.
+[71] Counsel for Ms. Kossow argued that a gift is only vitiated where there is evidence of consideration from the donee to the donor. In support of her position, counsel relied on the recent decision of the Ontario Court of Appeal in McNamee v. McNamee, 2011 ONCA 533 where the court stated:
+31. It is helpful to remember that the issue is not whether the donor (or, for that matter, the donee) received some benefit from the estate freeze (Mr. McNamee Sr. accomplished his corporate planning; the boys received their common shares). The issue is whether the donee has provided any consideration to the donor for the transfer of the shares. For the reasons outlined above, the appellant provided no consideration in that regard. The fact that Mr. McNamee Sr. accomplished his corporate planning goals - including capping his value in the company at $2 million, with the right to draw out more if he wished; protection from creditors; and relief from possible tax consequences on his death - do not amount to consideration flowing from the appellant to him. Nor, we would add, did the appellant's continued employment with McNamee Concrete constitute consideration for the transfer of the shares in the circumstances. The appellant receives a good salary for his services as an employee of the enterprise, and the father's vague hope that his sons would continue with the company does not constitute consideration flowing from the boys. The shares were not transferred in order to ensure the sons' continued involvement in the company; they were transferred to give effect to the estate freeze plan. Motive underlying a donor's conduct is not the same thing as consideration flowing from the donee. (emphasis added)
+[72] It is my view that the Appellant has taken the statement of the Ontario Court of Appeal out of context and she has misinterpreted its scope. The statement in McNamee was made in the context of a Family Law matter where there was a disagreement whether shares received by the husband from his father were part of the matrimonial property. The question revolved around whether the shares had been gifted to the husband by his father.
+[73] Further, the statement made in McNamee was not intended to be one of general application. It has to be read in the context of the facts in that particular case. The Ontario Court of Appeal did not impose a restriction on the definition of the word “gift”. It did not purport to change the definition of gift. It relied on the following definition of “gift” in making its decision:
+24 The essential ingredients of a legally valid gift are not in dispute. There must be (1) an intention to make a gift on the part of the donor, without consideration or expectation of remuneration, (2) an acceptance of the gift by the donee, and (3) a sufficient act of delivery or transfer of the property to complete the transaction: Cochrane v. Moore, (1890), 25 Q.B.D. 57 (C.A.), at p. 72-73; Mossman and Flanagan, supra, at p. 441, Bruce Ziff, Principles of Property Law, 5th ed. (Toronto: Carswell, 2010), at p. 157.
+[74] Counsel also argued that, if I concluded that the Appellant received a benefit in return for the Donation, the Appellant should receive a tax credit for the cash portion of her Donation, $10,000, in 2002.
+[75] I disagree. As in Maréchaux, there was “only one interconnected transaction here”. No part of the Donation was given as a gift without expectation of a return.
+[76] The appeal is dismissed with costs to the Respondent.
+Signed at Ottawa, Canada, this 14th day of September 2012.
+“V.A. Miller”
+V.A. Miller J.
+Appendix “A”
+Berkshire Program
+CITATION: 2012TCC325
+COURT FILE NO.: 2005-1974(IT)G
+STYLE OF CAUSE: KATHRYN KOSSOW AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: April 26-29, May 2-6, July 19, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: September 14, 2012
+APPEARANCES:
+Counsel for the Appellant:
+A. Christina Tari,
+Jason Puterman,
+Cindy Chiu
+Counsel for the Respondent:
+Arnold H. Bornstein,
+John Grant,
+Lorraine Edinboro,
+Patricia Lee
+COUNSEL OF RECORD:
+For the Appellant:
+Name: A. Chritina Tari,
+Jason Puterman,
+Cindy Chiu
+Firm: Richler and Tari
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] A leveraged charitable donation program is one where part of the donation is made using borrowed funds which are to be repaid in the future.
+[2] Transcript page 126
+[3] Notice of Appeal, paragraph 4.5
+[4] Transcript pages 807-808
+[5] Exhibit R-6, Tabs 81, 98, 101 and 107
+[6] Transcript page 818
+[7] Transcript page 815
+[8] Exhibit R3, Tab 2
+[9] Exhibit R-3 Tabs 1, 2, 3, 5
+[10] Exhibit R-3, Tab 11
+[11] Transcript page 608.
+[12] Transcript page 1108
+[13] Exhibit AR-1, Tabs 20 and 22. The Appellant repaid Talisker the loan amount of $4,800 on September 14, 2001 and the loan amount of $3,600 on December 14, 2001.
+[14] Respondent’s Submissions paragraph 48
+[15] Transcript page 877
+[16] Transcript pages 1112 and 1113
+[17] See exhibit R-7, Tabs A-3 and C-1, page 24
+[18] Transcript page 1069
+[19] Transcript page 1124
+[20] Transcript page 1129
+[21] In 2000, 2001 and 2002, Talisker’s only source of income was the loan processing fees.
+[22] Transcript pages 1124-1125

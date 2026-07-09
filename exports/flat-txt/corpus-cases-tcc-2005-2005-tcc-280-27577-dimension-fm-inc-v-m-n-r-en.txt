@@ -1,0 +1,153 @@
+Title: Dimension FM Inc. v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27577/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-280-27577-dimension-fm-inc-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2005-05-05
+
+# Dimension FM Inc. v. M.N.R.
+
+- Citation: 2005 TCC 280
+- Decision date: 2005-05-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 72, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dimension FM Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-05-05
+Neutral citation
+2005 TCC 280
+File numbers
+2004-3066(EI)
+Judges and Taxing Officers
+Sylvio J. Savoie
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2004-3066(EI)
+BETWEEN:
+DIMENSION FM INC.,
+Appellant,
+and
+MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on March 9, 2005, at Montréal, Quebec
+Before: The Honourable S.J. Savoie, Deputy Judge
+Appearances:
+For the Appellant:
+Morena Del Grande
+Counsel for the Respondent:
+Emmanuelle Faulkner
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is confirmed, in accordance with the attached Reasons for Judgment.
+Signed at Grand-Barachois, New Brunswick, this 5th day of May, 2005.
+"S.J. Savoie"
+Savoie, D.J.
+Translation certified true
+on this 29th day of March, 2006
+Garth McLeod, Translator
+Citation: 2005TCC280
+Date: 20050505
+Docket: 2004-3066(EI)
+BETWEEN:
+DIMENSION FM INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Deputy Judge Savoie
+[1] This appeal was heard at Montréal, Quebec on March 9, 2005.
+[2] At issue was whether Russell Robinson, the worker, held insurable employment from February 10 to June 7, 2003, the period at issue, while in the service of the Appellant. On April 22, 2004, the Minister of National Revenue (the "Minister") informed the Appellant of his decision according to which the worker held insurable employment during the period at issue.
+[3] The Minister based his decision on the following assumptions of fact:
+(a) the Appellant, which was incorporated in 2001, operates a business that installs office cubicles and furniture; (admitted)
+(b) Frank Dicapua was the sole shareholder of the Appellant; (admitted)
+(c) the Appellant operates its business in the Montréal area and his main customers are Visa Desjardins, Amex and Microsoft; (admitted)
+(d) the worker installed offices and cubicles on the premises of the Payor's customers; he occasionally did office furniture removals; (admitted)
+(e) he worked primarily during the day, between 8.30 am and 4.30 pm, and occasionally in the evening; (admitted)
+(f) the worker had a flexible work schedule, but his hours of work were controlled by the supervisor of the Appellant, who was present on the job site; (admitted)
+(g) the supervisor of the Appellant planned and directed the work of the worker; (admitted)
+(h) the worker provided his own hand tools and cellular telephone; (admitted)
+(i) the worker received $20 an hour remuneration; (admitted)
+(j) the tasks performed by the worker were integrated into the activities of the Appellant; (admitted)
+(k) the customers were customers of the Appellant and not of the worker; (admitted)
+(l) during the period at issue, the Appellant paid to the worker the sum of $6,564.80 plus GST and QST for a total of $7,549.52; (denied)
+(m) during the period at issue, he worked for 328.25 hours, or $6,564.80 divided by $20. (denied)
+[4] The Appellant admitted all the facts assumed by the Minister, with the exception of those set out at paragraphs (l) and (m), where the Minister determined the number of insurable hours and insurable remuneration of the worker.
+[5] Frank DiCapua is the President of the Appellant. He testified that the worker had begun operating his own business and had moved to Ontarioto work at the end of his employment with the Appellant. He stated that he had retained the services of the worker as a sub-contractor. The Appellant employed between 12 and 14 employees, but when they were not sufficient for the task at hand, he would call the worker, who brought with him his men and his tools. He stated that, prior to February 7, 2003, the worker was one of his full-time employees. He paid the worker an hourly rate of $14 as an employee and $20 as a sub-contractor. He added that the worker received no paid vacations or any other leave.
+[6] Mr. DiCapua further stated to the investigator that the worker had no fixed work schedule or minimum number of hours per day or week of work. He told the Appellant when he was available. The supervisor of the Appellant controlled the worker's comings and goings and the number of hours he worked. The evidence of the Appellant showed that the worker could refuse to work and that when a replacement was found for him, if that were the case. Mr. DiCapua stated that the worker had employees whom he brought with him onto the site and that these were remunerated by the Appellant. Mr. DiCapua added that the worker had other customers. It was established that the worker was directed by the supervisor of the Appellant, who planned his work and how it was to be carried out. The evidence revealed that the worker, in carrying out his duties for the Appellant, used his own hand tools and cellular telephone and was paid at an hourly rate of $20, which had been set by the Appellant. It was established, furthermore, that the worker had been laid off as a result of a disagreement with the Appellant. Mr. DiCapua stated that the worker was working as a self-employed worker, that he had customers in Ontarioand that he would have called him more often had he been his employee. In speaking to the investigators, the worker partially corroborated the information given by Mr. DiCapua. He added, nonetheless, that he worked primarily from 8.30 am to 4.30 pm, but he had no other customers. He stated that he had had a single contract with another customer, but that had been before the period at issue. He added that his work for the Appellant ended when the Appellant stopped calling him. The worker told the investigators that he considered himself employed because he had worked for the Appellant during a period in which the Appellant had withheld source deductions. The worker explained invoice no. 229008, which forms part of Exhibit A-3, by saying that he had submitted it at the request of the Appellant, including in it the hours of work of Daniel Robinson, so that the latter could give him his pay, as the Appellant required.
+[7] The departmental investigators examined the documents provided by the Appellant, including the invoices submitted by the worker to the Appellant and the cheques from the Appellant that were cashed by the worker, totalling $7,742.12 for the period at issue. These documents showed that the worker was paid at an hourly rate of $20.
+[8] The Minister cited paragraph 5(1)(a) of the Employment Insurance Act (the "Act") in support of his conclusion with respect to the insurability of the worker's employment. I have reproduced below the paragraph in question:
+5.(1) Subject to subsection (2), insurable employment is:
+a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+[9] How does one determine whether employment is insurable in accordance with paragraph 5(1)(a) of the Act? The courts have decided this by laying down criteria in light of which the circumstances of an employment must be examined. MacGuigan, J.A. in Wiebe Door Services Ltd. v. Canada(Minister of National Revenue - M.N.R.), [1986] 3 F.C. 553, wrote, and I quote:
+Case law has established a series of tests to determine whether a contract is one of service or for the provision of services. While not exhaustive the following are four tests most commonly referred to:
+a) The degree or absence of control, exercised by the alleged employer;
+b) Ownership of tools;
+c) Chance of profit and risk of loss;
+d) Integration of the alleged employee's work into the alleged employer's business.
+[10] We must accordingly examine the evidence in light of these criteria.
+DEGREE OF CONTROL
+[11] The Minister's determination under this criterion was not disputed by the Appellant. The Appellant admitted that the worker's hours of work were recorded, and that the worker and his work were under the supervision of the Appellant. It was admitted that the worker worked primarily during the day between 8.30 am and 4.30 pm, and occasionally in the evening; that he had a flexible work schedule but that his hours of work were controlled by the supervisor of the Appellant, who was present on the work site and who planned and directed the work of the worker. With respect to control, the evidence is conclusive that the worker was in insurable employment.
+OWNERSHIP OF TOOLS
+[12] It has been established that the worker provided his own hand tools and cellular telephone. The evidence did not reveal whether he provided other tools which do not form part of a labourer's hand tools.
+CHANCE OF PROFIT AND RISK OF LOSS
+[13] The worker received $20 an hour remuneration. He asked the Appellant to be allowed to bring his men with him. The worker was always paid at an hourly rate of $20 an hour. No element of proof submitted to this Court has established how and how much the worker paid his men. On the invoices produced, the hours of the worker's employees were invoiced at the same hourly rate of $20. The worker informed the investigators that during the period at issue, he had worked only for the Appellant. The evidence obtained did not show that the worker ran a risk of loss or had a chance to make a profit. A review of the facts from the perspective of this criterion favours the existence of an employer-employee relationship.
+THE INTEGRATION TEST
+[14] It has often been said that the determination of employment under this criterion rests on the answer to the question: for whom was the worker working? If he was working within the framework of the objectives of the business, he was in insurable employment. If, on the other hand, he was operating his own business, he was a self-employed worker. When viewed from the perspective of this test, it is clear that we can conclude that a contract of service existed and not a contract for services.
+[15] The Supreme Court of Canada, in 671122 Ontario Ltd. v. Sagaz Industries Canada Inc. [2001] 2 S.C.R. 983 held that:
+...There is no one conclusive test which can be universally applied to determine whether a person is an employee or an independent contractor. What must always occur is a search for the total relationship of the parties. The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker's activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker and the worker's opportunity for profit in the performance of his or her tasks...
+[16] We must remember that the Appellant admitted most of the Minister's assumptions. This is not helpful to the Appellant in his proceedings to reverse the decision of the Minister.
+[17] In this connection, it is appropriate to recall the principle established by the Federal Court of Appeal in Elia v. Canada(Minister of National Revenue - M.N.R.), [1998] F.C.J. no. 316 in which Pratte J. said the following:
+Contrary to what the Judge believed, he therefore could have intervened and should have intervened if, as he asserted, the evidence established that the Minister's decision was unreasonable. However, it seems to us that the Judge's assertion is also inaccurate and based on an error of law, since the Judge did not take into account the well-settled rule that the allegations in the reply to the Notice of Appeal, in which the Minister states the facts on which he based his decision, must be assumed to be true as long as the Appellant has not proved them false.
+[18] The facts in the instant case, when analyzed in light of the case law cited previously, support the concept that the worker held insurable employment, since he was employed under a contract of service.
+[19] The Minister based his decision in determining the remuneration and the worker's insurable hours on subsections 9.1 and 10.2 of the Employment Insurance Regulations, and on section 2 of the Insurable Earnings and Collection of Premiums Regulations. I have reproduced below the sections in question:
+9.1 Where a person's earnings are paid on an hourly basis, the person is considered to have worked in insurable employment for the number of hours that the person actually worked and for which the person was remunerated.
+10.2 For the purposes of sections 9.1, 10, 10.01, 10.1, and 22,
+(a) an hour of work performed in insurable employment is considered to be a single hour of insurable employment, even if the hour is remunerated at an overtime rate of pay; and
+(b) if the addition of hours of insurable employment falling between the first day and the last day worked in a given period of employment results in a total number of hours that contains a fraction of an hour, the fraction shall be counted as a whole hour.
+INSURABLE EARNINGS
+Earnings from insurable employment
+2. (1) For the purposes of the definition "insurable earnings" in subsection 2(1) of the Act and for the purposes of these Regulations, the total amount of earnings that an insured person has from insurable employment is:
+(a) the total of all amounts, whether wholly or partly pecuniary, received or enjoyed by the insured person that are paid to the person by the person's employer in respect of that employment; and
+(b) the amount of any gratuities that the insured person is required to declare to the person's employer under provincial legislation.
+[20] In his Reply to the Notice of Appeal, the Minister had established the number of insurable hours at 328.25 and insurable earnings at $6,564.80. However, after reviewing the evidence from the Appellant, the Minister revised his findings and altered these data, which are now as follows:
+- Insurable earnings: $5,304.80
+- Number of insurable hours: 266
+[21] These new data have not been disputed by the Appellant. Ultimately, in the instant case, this Court must conclude that the Minister performed appropriately the task that Parliament entrusted to him and there are thus no grounds to intervene in his decision.
+[22] The appeal is accordingly dismissed and the decision of the Minister is confirmed.
+Signed at Grand-Barachois, New Brunswick, this 5th day of May, 2005.
+"S.J. Savoie"
+Savoie D.J.
+Translation certified true
+on this 29th day of March, 2006
+Garth McLeod, Translator
+CITATION: 2005TCC280
+DOCKET NO.: 2004-3066(EI)
+STYLE OF CAUSE: DIMENSION FM INC. AND M.N.R.
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: March 9, 2005
+REASONS FOR JUDGMENT: The Honourable S.J. Savoie, Deputy Judge
+DATE OF JUDGMENT: May 5, 2005
+APPEARANCES:
+For the Appellant:
+Morena Del Grande
+Counsel for the Respondent:
+Emmanuelle Faulkner
+SOLICITOR OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

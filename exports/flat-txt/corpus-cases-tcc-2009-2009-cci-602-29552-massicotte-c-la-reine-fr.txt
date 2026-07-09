@@ -1,0 +1,128 @@
+Title: Massicotte c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29552/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-602-29552-massicotte-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-11-30
+
+# Massicotte c. La Reine
+
+- Citation: 2009 CCI 602
+- Decision date: 2009-11-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6370, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Massicotte c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-11-30
+Référence neutre
+2009 CCI 602
+Numéro de dossier
+2008-3297(IT)I
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-3297(IT)I
+ENTRE :
+DILYS MASSICOTTE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appel entendu le 24 novembre 2009, à Toronto (Ontario)
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocat de l’intimée :
+Me Mark Tonkovich
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2004 et 2005 est accueilli partiellement, sans dépens, et la question est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse des nouvelles cotisations conformément aux motifs ci‑joints.
+Signé à Ottawa, Canada, ce 30e jour de novembre 2009.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 31e jour de mars 2010.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2009 CCI 602
+Date : 20091127
+Dossier : 2008-3297(IT)I
+ENTRE :
+DILYS MASSICOTTE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge Boyle
+[1] Le présent appel, instruit sous le régime de la procédure informelle, porte sur des déductions à l’égard de deux types de dépenses – déductions qui ont été refusées – demandées par l’appelante dans le calcul de ses pertes locatives pour 2004 et 2005. La catégorie de dépenses la plus considérable a trait à des sommes versées aux deux fils de l’appelante pour des travaux d’entretien et de réparation. Les autres sommes en litige sont des frais afférents à une automobile.
+[2] Mme Massicotte et son frère sont copropriétaires d’une maison jumelée de deux étages située à Toronto. Originalement, il y a plusieurs décennies, cette maison avait appartenu à leurs parents, puis elle est devenue la résidence de la famille de l’appelante et de la famille de son frère. En 1991, Mme Massicotte et son frère ont quitté les lieux pour convertir la maison en bien locatif. Ensemble, ils ont fait rénover le sous‑sol pour en faire un logement séparé du reste de la maison. Mme Massicotte et son frère ont exploité le bien locatif en tant que copropriétaires à parts égales.
+[3] L’exploitation de ce bien locatif a été la seule activité locative menée par Mme Massicotte pendant les années en cause. Par ailleurs, elle était propriétaire inscrite, conjointement avec son époux, d’un autre bien locatif, mais son époux a été le seul à déclarer des revenus et des pertes relativement à cet autre bien locatif. Il est possible que le frère de Mme Massicotte ait aussi été propriétaire indépendant d’autres biens locatifs.
+[4] Depuis 1991, le bien locatif de Mme Massicotte a produit des pertes pour la plupart des années, et de maigres bénéfices pour les quelques années restantes. Néanmoins, Mme Massicotte et son frère sont restés propriétaires de la maison parce qu’ils pensaient que la maison prenait beaucoup de valeur pendant la période en cause. Ils ont récemment mis la maison en vente.
+I. Paiements faits aux fils
+[5] Pendant les deux années en cause, les fils de Mme Massicotte étaient tous deux de jeunes adolescents. Mme Massicotte a témoigné leur avoir payé 7 500 $ chacun par année pour des travaux de ramassage d’ordures, de tonte de pelouse, de déneigement, de nettoyage et de peinture de logement pour les nouveaux locataires, de remise à neuf de planchers et d’autres travaux similaires de réparation et d’entretien.
+[6] Les sommes versées aux deux fils correspondaient à un salaire horaire de 12 $ à raison de 13 heures de travail par fin de semaine.
+[7] Les 15 000 $ payés aux deux fils chaque année dépassaient les revenus locatifs bruts annuels reçus pour le bien locatif. Pour chaque année en cause, Mme Massicotte et son frère ont déclaré des pertes locatives dépassant 15 000 $ relativement au bien locatif.
+[8] Une partie des sommes payées aux fils a été déposée dans un régime enregistré d’épargne‑étude (le « REEE ») au bénéfice des deux fils. Des relevés de compte du REEE déposés en preuve montrent qu’environ 100 $ par mois étaient déposés dans le REEE. Une autre partie des sommes servait à payer directement des dépenses comme des voyages scolaires, des frais d’inscription au hockey et de l’équipement de hockey. Des éléments de preuve montrent qu’un des fils de Mme Massicotte a participé à un voyage scolaire qui a coûté 380 $. Mme Massicotte a dit que les sommes restantes étaient payées en espèces à ses fils, habituellement de façon hebdomadaire. Les deux fils ont dépensé l’argent comme le font généralement les garçons de cet âge, par exemple en achetant des jeux vidéo et des consoles de jeu. Les seuls autres éléments de preuve présentés sont des reçus faisant état du paiement forfaitaire de 7 500 $ par année à chacun des fils en reconnaissance de services rendus. Aucun dossier détaillé ou contemporain des heures et des journées de travail et du travail fait par les fils n’a été déposé en preuve. Les fils de Mme Massicotte, aujourd’hui âgés de 19 et de 17 ans, n’ont pas témoigné.
+[9] Exception faite de quelques longues fins de semaine, il semble que les fils de Mme Massicotte ne travaillaient pas les jours de semaine, et ce, même pendant les congés scolaires et les vacances estivales. Mme Massicotte a reconnu que ses fils ne travaillaient pas 13 heures chaque fin de semaine, surtout pendant la saison de hockey et lorsque des anniversaires étaient célébrés la fin de semaine. Elle a aussi dit qu’ils n’avaient pas travaillé chaque dimanche, mais plutôt la majorité des dimanches. Cependant, Mme Massicotte est convaincue que ses fils rattrapaient le temps perdu lors des autres fins de semaines.
+[10] Mme Massicotte et son frère ont eu des problèmes avec certains de leurs locataires. La municipalité a envoyé des avis d’infraction qui indiquaient que la pelouse n’était pas tondue, que des ordures traînaient sur le terrain et que des automobiles non fonctionnelles y étaient entreposées. Ces avis ont été déposés en preuve. De plus, Mme Massicotte a dit que d’autres infractions avaient été constatées relativement au non-déneigement des trottoirs. Par conséquent, les fils de Mme Massiccotte ont commencé à tondre la pelouse et à ramasser les ordures de façon périodique la fin de semaine. Lorsque la neige s’accumulait au courant d’une semaine, ils déneigeaient les trottoirs la fin de semaine. J’admets que les deux fils de Mme Massicotte ont effectué ces travaux pendant la période en cause, mais je tiens à souligner que le lot ne mesure que 25 pieds de largeur par 136 pieds de profondeur et que, en plus d’une maison de trois chambres, le terrain comporte un garage détaché de la maison.
+[11] Compte tenu des éléments de preuve qui m’ont été présentés, je ne saurais reconnaître que la tonte de la pelouse, le déneigement et le ramassage périodique des ordures qui jonchaient le terrain ont occupé plus qu’une modeste partie des 26 heures prétendument travaillées chaque fin de semaine par les fils de Mme Massicotte.
+[12] En 2004, la principale locataire a été expulsée, et il semble qu’elle ait abandonné tous ses biens dans la maison, laissant celle‑ci dans un mauvais état. Il a donc fallu faire venir des bennes à ordure pour vider le logement, et faire plusieurs aller‑retour au dépotoir avec une remorque. Il a ensuite fallu effectuer de coûteux travaux de nettoyage, de réparation, et de remise à neuf des planchers, de même que des réparations de la salle de bains. Les fils de Mme Massicotte ont aidé à faire une grande part de ces travaux en 2004, mais, comme ils n’avaient que 12 et 14 ans, ils ne pouvaient pas conduire ou utiliser la ponceuse des parquets.
+[13] Il n’a pas été nécessaire de faire des travaux de cette envergure en 2005, mais il a tout de même été nécessaire de mener des travaux de nettoyage et de remise à neuf après l’expulsion d’un autre locataire.
+[14] Mme Massicotte a affirmé que les 13 heures de travail par semaine incluaient les déplacements entre la résidence de la famille et le bien locatif. Ces deux endroits étaient distants d’environ 30 à 35 kilomètres, et c’est Mme Massicotte et son époux qui conduisaient.
+[15] Il est tout à fait acceptable d’employer ses enfants adolescents et de leur verser un salaire raisonnable pour les travaux qu’ils effectuent. Le ramassage des ordures, l’entretien d’une pelouse, le déneigement et l’aide dans des travaux de peinture sont tous des travaux qui conviennent à des enfants de l’âge qu’avaient les fils de Mme Massicotte pendant les années en cause. Je ne suis pas convaincu qu’un salaire horaire de 12 $ est déraisonnable, mais il se situe certainement au sommet de l’échelle salariale qu’il était raisonnable de payer à un enfant de 12 ans en 2004. Je me demande aussi si, avec un salaire aussi élevé, il était raisonnable d’inclure le temps de déplacement dans le calcul des heures de travail.
+[16] Les éléments de preuve présentés par Mme Massicotte ne m’ont pas convaincu que ses fils avaient travaillé autant d’heures qu’elle prétend leur avoir payées pendant la période de deux ans. Les montants déclarés équivalent à 12 heures de travail chaque fin de semaine pour chacun des fils de Mme Massicotte. Comme les fils travaillaient seulement la fin de semaine, et il leur arrivait souvent de ne pas travailler le dimanche, pendant les fins de semaine de tournois de hockey et pendant certaines fins de semaine spéciales, je ne suis pas convaincu qu’ils ont travaillé autant d’heures que le prétend Mme Massicotte. De plus, bien que les éléments de preuve présentés m’aient convaincu que les fils ont effectué des travaux utiles pendant les années en question, je ne suis pas convaincu que les travaux dont ils étaient responsables ont totalisé 1 250 heures de travail sur une période de deux ans.
+[17] Compte tenu des éléments de preuve présentés en l’espèce, je suis convaincu que chacun des fils a rendu des services utiles à sa mère et à son oncle – les propriétaires du bien locatif en question. En fait, il serait tout à fait déraisonnable d’arriver à une autre conclusion. Cependant, je n’admets par qu’ils ont travaillé aussi souvent que l’a prétendu Mme Massicotte, et je n’admets pas que les services qu’ils ont rendus valaient vraiment 15 000 $, à savoir la somme déclarée. À mon avis, la valeur annuelle des travaux faits par chacun des fils de Mme Massicotte s’élevait à 500 $.
+[18] En outre, les éléments de preuve qui m’ont été présentés ne permettent pas de conclure que chacun des fils a été payé 7 500 $ par année. En partant du principe qu’ils ont chacun reçu plus de 500 $ par année, je suis d’avis que le montant dépassant 500 $ a été versé à chaque fils par sa mère, ou par son père et sa mère, à titre d’allocation ou d’autre paiement pour des dépenses personnelles. (Aucun élément de preuve ne me permet de conclure que le frère de Mme Massicotte a payé 50 % de ces sommes‑là.)
+II. Dépenses afférentes à une automobile
+[19] Pour chacune des années en cause, Mme Massicotte a demandé une déduction au titre de dépenses afférentes à une automobile. Les déductions demandées étaient appuyées par des pièces justificatives. Cependant, le carnet de route déposé en preuve, qui a servi à départager l’utilisation commerciale et l’utilisation personnelle de l’automobile, indique qu’environ 9 000 kilomètres en 2004 et 7 500 kilomètres en 2005 ont été parcourus relativement au bien locatif en cause. Au plus, 35 kilomètres séparaient ce bien de la résidence de Mme Massicotte. Le carnet de route ne faisait pas état de l’objet ou de la destination des déplacements. Mme Massicotte a reconnu que certains des déplacements inscrits au carnet avaient pour destination un bien locatif appartenant à son époux, et qu’ils n’avaient donc aucun lien avec le bien locatif en cause. Elle a aussi admis avoir toujours inscrit au carnet la distance totale parcourue dans une journée, et ce, même si elle partait parfois du bureau – ou elle allait déjà normalement en voiture – pour se rendre au bien locatif. Dans certains cas, ces deux façons de faire peuvent être raisonnables, mais, en l’espèce, je ne saurais comprendre en quoi sa part de 50 % de la propriété d’un seul bien locatif pouvait justifier l’équivalent de plus de deux aller‑retour par semaine entre sa résidence et le bien locatif.
+[20] L’Agence du revenu du Canada avait accordé une déduction de 260 $ pour chaque année, au titre de frais afférents à un véhicule à moteur, et j’ai cru comprendre que cela représentait 10 $ par deux semaines. À l’audience, l’intimée était prête à accorder des déductions supplémentaires de 832 $ pour 2004 et de 1 044 $ pour 2005 – ces déductions représentent environ la moitié des déductions demandées qui étaient encore en litige. Compte tenu des éléments de preuve présentés en l’espèce, je ne suis pas convaincu que Mme Massicotte a droit à des déductions dépassant celles qui lui ont déjà été accordées au titre de dépenses afférentes à l’utilisation commerciale d’une automobile.
+[21] L’appel de Mme Massicotte est accueilli partiellement et la question est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse des nouvelles cotisations en tenant seulement pour acquis que :
+(i) chacun des deux fils de Mme Massicotte a fourni des services d’une valeur de 500 $ et a reçu cette somme pour chacune des années 2004 et 2005;
+(ii) Mme Massicotte a droit à une déduction supplémentaire de 832 $, au titre de frais afférents à une automobile, dans le calcul de la perte nette résultant de l’exploitation du bien locatif en cause pour 2004;
+(iii) Mme Massicotte a droit à une déduction supplémentaire de 1 044 $, au titre de frais afférents à une automobile, dans le calcul de la perte nette résultant de l’exploitation du bien locatif en cause pour 2005;
+Signé à Ottawa, Canada, ce 30e jour de novembre 2009.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 31e jour de mars 2010.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2009 CCI 602
+No DU DOSSIER DE LA COUR :
+2008-3297(IT)I
+INTITULÉ :
+Dilys Massicotte c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 24 novembre 2009
+MOTIFS DU JUGEMENT :
+L’honorable juge Patrick Boyle
+DATE DU JUGEMENT :
+Le 30 novembre 2009
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me Mark Tonkovich
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

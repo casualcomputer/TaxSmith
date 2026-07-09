@@ -1,0 +1,130 @@
+Title: Fitzgerald c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28899/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-552-28899-fitzgerald-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2008-09-30
+
+# Fitzgerald c. M.R.N.
+
+- Citation: 2008 CCI 552
+- Decision date: 2008-09-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1407, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fitzgerald c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-09-30
+Référence neutre
+2008 CCI 552
+Numéro de dossier
+2008-1083(EI)
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2008-1083(EI)
+ENTRE :
+FRANCIS FITZGERALD,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 24 septembre 2008,
+à St. John’s (Terre-Neuve-et-Labrador)
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimé :
+Me Toks C. Omisade
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté par l’appelant en application de la Loi sur l’assurance‑emploi (la « Loi ») à l’encontre de la décision de l’intimé selon laquelle l’emploi qu’exerçait l’appelant auprès de Fitzgerald’s Convenience Limited pendant la période du 22 janvier 2006 au 2 septembre 2007 n’était pas assurable au sens de l’article 5 de la Loi est rejeté.
+Signé à Halifax (Nouvelle‑Écosse), ce 30e jour de septembre 2008.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 14e jour de novembre 2008
+Hélène Tremblay, traductrice
+Référence : 2008CCI552
+Date : 20080930
+Dossier : 2008-1083(EI)
+ENTRE :
+FRANCIS FITZGERALD,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] La question à trancher dans le présent appel est de savoir s’il était raisonnable de la part de l’intimé de conclure que l’emploi qu’exerçait Francis Fitzgerald auprès de Fitzgerald’s Convenience Limited (la « société ») pendant la période du 22 janvier 2006 au 2 septembre 2007 n’était pas assurable aux fins de la Loi sur l’assurance‑emploi (la « Loi »).
+[2] Le paragraphe 5(2) de la Loi prévoit en partie ce qui suit :
+N’est pas un emploi assurable :
+[...]
+i) l’emploi dans le cadre duquel l’employeur et l’employé ont entre eux un lien de dépendance.
+[3] Le paragraphe 5(3) de la Loi prévoit ce qui suit :
+(3) Pour l’application de l’alinéa (2)i),
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l’impôt sur le revenu;
+b) l’employeur et l’employé, lorsqu’ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[4] Les actions de la société étaient détenues à parts égales par Reginald et Mildred Fitzgerald. L’appelant est le frère de Reginald Fitzgerald. L’appelant et la société étaient donc des personnes liées aux fins de la Loi de l’impôt sur le revenu (la « LIR ») en raison des dispositions de l’alinéa 251(2)b) de la LIR, et sont réputés avoir entre eux un lien de dépendance selon l’alinéa 251(1)a) de la LIR. Par conséquent, la question en litige en l’espèce est de savoir si la décision du ministre du Revenu national (le « ministre ») selon laquelle l’appelant et la société n’auraient pas conclu entre eux un contrat de travail à peu près semblable pendant la période en cause s’ils n’avaient pas eu de lien de dépendance est raisonnable.
+[5] Dans la décision Porter c. M.N.R., 2005 CCI 364, la juge Campbell a examiné des décisions de la Cour et de la Cour d’appel fédérale concernant le rôle que joue la Cour dans ce type d’appels. Au paragraphe 13 de sa décision, la juge Campbell a affirmé ce qui suit :
+En résumé, le rôle de la Cour consiste à vérifier l’existence et l’exactitude des faits sur lesquels le ministre se fonde, à examiner tous les faits mis en preuve devant elle, notamment tout nouveau fait, et à décider ensuite si la décision du ministre paraît toujours « raisonnable » à la lumière des conclusions de fait tirées par la Cour. Elle doit accorder une certaine déférence au ministre dans le cadre de cet exercice.
+[6] La société exploitait un poste d’essence, un dépanneur et un magasin d’alcools. L’entreprise est ouverte environ 364 jours par année, de 7 h à 21 h chaque jour.
+[7] L’appelant et son épouse demeuraient en Ontario lorsque Reginald et Mildred Fitzgerald ont communiqué avec eux pour leur demander s’ils accepteraient de retourner à Terre‑Neuve‑et‑Labrador pour travailler dans leur entreprise. Reginald et Mildred Fitzgerald cherchaient quelqu’un qui pourrait s’occuper de la gestion de l’entreprise afin qu’ils puissent avoir un peu de temps libre.
+[8] L’appelant a été embauché à titre de caissier, de commis de magasin et d’homme à tout faire. Il commandait les fournitures, faisait du ménage et de la peinture, entretenait les réfrigérateurs, faisait des travaux de menuiserie, faisait du déneigement et effectuait tous les travaux de réparation nécessaires qu’il était en mesure de faire lui‑même. Par exemple, si une pompe à essence était défectueuse, il essayait de la réparer lui‑même avant de téléphoner au service de réparation. S’il ne s’agissait que d’une pièce brisée ou desserrée, il la réparait.
+[9] Il a affirmé qu’il accomplissait également des tâches supplémentaires autres que celles que les autres employés sans lien de dépendance devaient accomplir. Il faisait le plein des ambulances après les heures d’ouverture si une ambulance devait faire le plein. Il a affirmé que ceci arrivait environ une fois par mois. Pendant environ quatre jours à l’été 2007, il a travaillé à remplacer le conduit d’évacuation d’environ 100 pieds ainsi que la fosse septique. De plus, à la fermeture du magasin, soit à 21 h, il prenait la relève des employés qui étaient de service et il faisait la caisse. Les autres employés lui demandaient aussi son avis avant de déposer un chèque.
+[10] L’appelant était payé 16 $ l’heure en 2006 et ce, jusqu’en février 2007, alors qu’il a commencé à recevoir 12 $ l’heure. Sa paie a été réduite en février 2007 parce qu’il avait emménagé avec son épouse dans l’appartement situé au-dessus du magasin et qu’il ne payait pas de loyer. L’appartement était fourni par la société.
+[11] Initialement, l’appelant travaillait 45 heures par semaine. Il a par la suite réduit ses heures à 35 par semaine parce qu’il devait s’occuper de son épouse. Il a éventuellement dû arrêter de travailler parce que son épouse était très malade. L’épouse de l’appelant (Betty Fitzgerald) avait elle aussi travaillé auprès de la société, mais avait arrêté en 2006. Son emploi auprès de la société a aussi été l’objet d’un appel devant la Cour, et cet appel à l’encontre de la décision de l’intimé selon laquelle l’emploi qu’elle exerçait n’était pas assurable aux fins de la Loi a été rejeté (2007 CCI 665).
+[12] L’appelant a clairement affirmé qu’il n’aurait jamais quitté l’Ontario si l’offre qui avait été faite, à lui et à son épouse, avait été de moins de 16 $ l’heure. Toutefois, le critère à évaluer concerne la question de savoir si l’appelant aurait accepté des conditions d’emploi à peu près semblables si les parties n’avaient pas eu de lien de dépendance et non pas de savoir si l’appelant aurait personnellement accepté de déménager si le salaire offert avait été moins élevé. L’appelant a mis beaucoup d’accent sur le fait qu’il avait été embauché pour gérer l’entreprise, mais qu’il n’avait aucun contrôle sur l’embauche des employés, l’établissement des horaires ou la mise à pied d’employés, ce qui aurait normalement fait partie des tâches afférentes à la gestion d’une entreprise. Il a cependant souligné qu’il était chargé de commander les fournitures, mais Gertrude Wall, qui avait été embauchée en octobre 2007 comme employée à temps plein à 8,50 $ l’heure, était aussi chargée de commander les fournitures.
+[13] Mildred Fitzgerald, une des actionnaires de la société, est venue témoigner. Dans le questionnaire qu’elle a rempli pour l’intimé, elle a répondu aux questions suivantes :
+[traduction]
+28. Est-ce que quelqu’un a été embauché pour remplacer le travailleur?
+a. Quel était le taux de salaire de cette personne?
+b. Veuillez décrire les tâches de cette personne par rapport à celles exercées par le travailleur.
+Le travailleur dont le nom figurait à la première page du questionnaire était l’appelant. Les réponses fournies par Mildred Fitzgerald sont les suivantes :
+[traduction]
+Oui, un nouvel employé a été embauché pour remplacer le travailleur. Le nouvel employé gagnait 8,50 $ l’heure. Les tâches du nouvel employé sont les mêmes que celles exercées par l’ancien employé.
+[14] Pendant l’audience, Mildred Fitzgerald a affirmé que deux employés avaient quitté, soit l’appelant et un autre employé à temps plein. Elle a précisé qu’une seule personne avait été embauchée pour remplacer ces deux employés et que la liste des tâches de l’ancien employé s’appliquait aussi à l’autre employé qui avait quitté. Toutefois, ceci soulève la question de savoir si l’appelant aurait tout de même été embauché s’il n’avait pas été le frère de Reginald Fitzgerald. La personne qui a été embauchée pour remplacer les travailleurs (Gertrude Wall) a aussi témoigné pendant l’audience. Elle a affirmé que parmi les tâches qu’elle devait accomplir, elle faisait du ménage et du déneigement, elle commandait les fournitures, elle remplissait les étagères, elle travaillait à la caisse, elle générait les rapports à la fin de la journée et elle plaçait l’argent sous clé dans le coffre-fort. Elle ne faisait pas la caisse, mais ceci ne veut pas dire que ses responsabilités concernant l’argent étaient moindres, étant donné qu’elle contrôlait l’argent jusqu’au moment où elle quittait le magasin.
+[15] La principale question en l’espèce concerne le salaire de l’appelant comparativement à celui des autres employés qui n’avaient pas de lien de dépendance avec la société. D’autres employés qui n’avaient pas de lien de dépendance avec la société travaillaient auprès de celle-ci en même temps que l’appelant. Ces employés étaient payés entre 7 $ et 8,25 $ l’heure. L’employé qui a été embauché après le départ de l’appelant était payé 8,50 $ l’heure.
+[16] Même si le montant en espèces que recevait l’appelant est passé de 16 $ l’heure à 12 $ l’heure, lorsque le montant a été réduit, l’appelant a bénéficié d’un logement fourni par la société. L’appartement fourni à l’appelant et à son épouse faisait partie de la rémunération de l’appelant. À mon avis, l’intimé a eu raison d’inclure ceci dans son analyse visant à trancher si l’appelant et la société auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[17] Aucune valeur monétaire n’a été attribuée à l’appartement fourni à l’appelant et à son épouse. L’appelant a affirmé avoir réduit son nombre d’heures de travail, qui est passé de 45 heures par semaine à 35 heures par semaine. Dans l’hypothèse que l’appelant travaillait 35 heures par semaine en 2007, le fait de réduire sa paie de 4 $ l’heure ferait en sorte qu’il recevrait 140 $ de moins par semaine. Ce qui signifie qu’il recevrait environ 560 $ de moins par mois, laissant ainsi entendre que la valeur de l’appartement était d’environ 560 $ par mois.
+[18] Les tâches supplémentaires que l’appelant exécutait et que les employés sans lien de dépendance n’exécutaient pas étaient les tâches concernant la fosse septique et le conduit d’évacuation, le plein des ambulances, les travaux de réparation, la fermeture de la caisse et les conseils en ce qui a trait au dépôt des chèques. L’appelant n’a consacré qu’environ quatre jours aux travaux faits au conduit d’évacuation et à la fosse septique. Le plein des ambulances ne devait être fait qu’une fois par mois (même si c’était fait après les heures d’ouverture, l’appelant y consacrait probablement moins d’une heure). Il n’y avait aucun élément de preuve à l’appui du nombre d’heures que l’appelant consacrait aux travaux de réparation, à la fermeture de la caisse et à la prestation de conseils aux autres employés. Cependant, il ne semble pas raisonnable de penser que l’appelant devait faire des travaux de réparation à chaque heure de chaque jour, mais il est tout de même raisonnable de conclure qu’il devait parfois effectuer quelques réparations. De la même façon qu’il semble raisonnable de conclure que la fermeture de la caisse devait prendre un certain temps, mais pas assez pour justifier un taux de salaire pour chaque heure travaillée (ce qui comprendrait un grand nombre d’heures pendant lesquelles l’appelant effectuait d’autres tâches) environ deux fois plus élevé que ce que gagnaient les employés sans lien de dépendance qui effectuaient beaucoup des mêmes tâches que l’appelant. De plus, il ne semble pas raisonnable de penser que l’appelant passait un nombre important d’heures à donner des conseils sur le dépôt de chèques ou que cette tâche justifierait en soi la différence de paie.
+[19] Il ne semble pas raisonnable que ces tâches supplémentaires, outre la fermeture de la caisse, qui étaient effectuées de façon sporadique pendant la période d’emploi, justifient le fait que l’appelant était payé environ le double du salaire horaire pour chaque heure travaillée que ce qu’étaient payés les employés sans lien de dépendance. Il semble qu’il consacrait la majeure partie de son temps à accomplir les mêmes tâches que celles que devaient accomplir les employés sans lien de dépendance, y compris Gertrude Wall. Cependant, il gagnait un salaire horaire presque deux fois plus élevé (si on tient compte de l’appartement qui lui était gracieusement fourni) que ce que gagnaient les employés sans lien de dépendance.
+[20] De plus, la réponse écrite fournie par Mildred Fitzgerald dans laquelle il est souligné que le travailleur qui a été embauché pour remplacer l’appelant pour effectuer les mêmes tâches à un taux de salaire considérablement moins élevé établit clairement que la société et l’appelant n’auraient pas conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance. Pendant l’audience, Mildred Fitzgerald a laissé entendre que les réponses qu’elle a fournies dans le questionnaire cité ci-desssus ne s’appliquaient qu’au remplaçant de l’autre employé qui a quitté (étant donné qu’un seul employé a été embauché pour remplacer à la fois l’appelant et un autre employé à temps plein sans lien de dépendance), ce qui n’aide en rien la cause de l’appelant. Comme un seul employé a été embauché pour en remplacer deux, ceci porte à croire que la société et l’appelant n’auraient jamais conclu de contrat de travail si l’appelant n’avait pas été le frère de Reginald Fitzgerald.
+[21] Par conséquent, les faits dont j’ai été saisi ne me permettent pas de conclure qu’il était déraisonnable de la part du ministre de décider que les modalités d’emploi n’auraient pas été à peu près semblables si l’appelant et la société n’avaient pas eu de lien de dépendance. Je ne peux donc pas conclure que la décision du ministre était déraisonnable. L’appel est donc rejeté.
+Signé à Halifax (Nouvelle‑Écosse), ce 30e jour de septembre 2008.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 14e jour de novembre 2008
+Hélène Tremblay, traductrice
+RÉFÉRENCE : 2008CCI552
+N° DE DOSSIER : 2008-1083(EI)
+INTITULÉ : FRANCIS FITZGERALD ET M.R.N.
+LIEU DE L’AUDIENCE : St. John’s (Terre-Neuve-et-Labrador)
+DATE DE L’AUDIENCE : Le 24 septembre 2008
+MOTIFS DU JUGEMENT PAR : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 30 septembre 2008
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimé :
+Me Toks C. Omisade
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

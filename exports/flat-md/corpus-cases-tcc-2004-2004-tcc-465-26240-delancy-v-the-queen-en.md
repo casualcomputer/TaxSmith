@@ -1,0 +1,171 @@
+---
+title: "Delancy v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26240/index.do"
+last_modified: "2004-06-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 465"
+citation2: ""
+neutral_citation: "2004 TCC 465"
+decision_date: "2004-06-24"
+language: "en"
+item_id: "26240"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4037
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:18:19.067000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "abd0274301ca764c06557faeeb3169de1928a35fad2a85f19681475b8e4c200f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Delancy v. The Queen
+
+- Citation: 2004 TCC 465
+- Decision date: 2004-06-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4037, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Delancy v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-06-24
+Neutral citation
+2004 TCC 465
+File numbers
+2003-4131(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-4131(IT)I
+BETWEEN:
+OTEMAN DELANCY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 28, 2004 at Toronto, Ontario
+By: The Honourable Justice J.M. Woods
+Appearances:
+Counsel for the Appellant:
+J.K. Kivisto
+Counsel for the Respondent:
+John Grant
+____________________________________________________________________
+JUDGMENT
+The appeal in respect of a reassessment made under the Income Tax Act and the Excise Tax Act for the 2000 taxation year is dismissed.
+Signed at Ottawa, Canada, this 24th day of June, 2004.
+"J.M. Woods"
+J.M. Woods J.
+Citation:2004TCC465
+Date:20040624
+Docket: 2003-4131(IT)I
+BETWEEN:
+OTEMAN DELANCY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] This appeal concerns the deductibility of travel expenses incurred by a professional athlete who resided in the United States and was employed in Canada. The appellant submits that a person who maintains a permanent home in the United States while working temporarily in Canada should be allowed to deduct the living expenses incurred in Canada as reasonable travel expenses incurred in the course of employment.
+[2] During the 2000 taxation year, Oteman Delancy, professionally known as Oteman Sampson, was employed as a professional football player by the Calgary Stampeders and the Toronto Argonauts. During this period he was a resident of the United States and lived in hotels and apartments while working in Canada. Under his contracts of employment, Mr. Delancy was reimbursed for travel expenses incurred in connection with games away from his home clubs and was otherwise required to pay his own expenses.
+[3] In computing income for the 2000 taxation year, Mr. Delancy deducted expenses for hotels, apartments, meals and other living expenses in Calgary and Toronto where the home clubs were located and where he presumably performed the majority of his services. The following amounts were claimed:
+Agent's fee
+$1,500.00
+Food, beverage, entertainment (50%)
+4,000.00
+Lodging
+7,400.00
+Parking
+100.00
+Supplies
+500.00
+Phone, utilities, hydro
+1,800.00
+Total
+$15,300.00
+[4] In a reassessment of income tax for the 2000 taxation year, the Minister of National Revenue disallowed these deductions and also denied a claim for a rebate under subsection 253(1) of the Excise Tax Act. The parties agreed that the rebate issue would be determined by the outcome of the income tax issue.
+[5] Mr. Delancy did not attend the hearing and no one testified on his behalf. Counsel for both parties agreed that I should accept as facts the assumptions made by the Minister as set out in the Reply and I have done so.
+Statutory provisions
+[6] Mr. Delancy argued that his travel expenses should be deductible pursuant to paragraph 8(1)(h) or alternatively paragraph 115(1)(f) of the Income Tax Act. These provisions read:
+8.(1) In computing a taxpayer's income for a taxation year from an office or employment, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+...
+(h) where the taxpayer, in the year,
+(i) was ordinarily required to carry on the duties of the office or employment away from the employer's place of business or in different places, and
+(ii) was required under the contract of employment to pay the travel expenses incurred by the taxpayer in the performance of the duties of the office or employment,
+amounts expended by the taxpayer in the year (other than motor vehicle expenses) for travelling in the course of the office or employment, ...
+115.(1) For the purposes of this Act, the taxable income earned in Canada for a taxation year of a person who at no time in the year is resident in Canada is the amount, if any, by which the amount that would be the non-resident person's income for the year under section 3
+...
+exceeds the total of
+...
+(f) where all or substantially all of the non-resident person's income for the year is included in computing the non-resident person's taxable income earned in Canada for the year, such of the other deductions permitted for the purpose of computing taxable income as may reasonably be considered wholly applicable.
+Paragraph 8(1)(h)
+[7] Mr. Delancy submits that living expenses incurred in the cities where his home clubs were located are deductible pursuant to paragraph 8(1)(h) of the Act because they are reasonable travel expenses incurred in the course of employment. I do not agree.
+[8] Paragraph 8(1)(h) has been interpreted to allow a deduction only for travel expenses incurred by an employee in travelling to a place of work away from the usual place of employment: Healy v. R., [1979] C.T.C. 44 (F.C.A.); Chrapko v. R., [1988] 2 C.T.C. 342 (F.C.A.) and Hogg v. R., [2002] 3 C.T.C. 177 (F.C.A.).
+[9] The living expenses at issue were incurred in the cities where the employment was usually exercised. Mr. Delancy's ordinary place of work was Toronto when he was employed by the Toronto Argonauts and it was Calgary when he was employed by the Calgary Stampeders. Accordingly paragraph 8(1)(h) is of no assistance to him.
+[10] Mr. Delancy submits that, because he is a non-resident of Canada, his living expenses incurred while working in Canada should be accepted as reasonably connected to employment. In support of this position, counsel suggests that I refer to the United States tax treatment of travel expenses in analogous circumstances. Counsel referred to a tax guide prepared by the Internal Revenue Service that deals with travel expenses incurred by persons working temporarily in the United States. The guide states that if a non-resident works in the United States on a temporary basis, away from his regular place of work in a foreign country, the travel expenses incurred in the United States are deductible for United States income tax purposes. It is not clear to me that the position outlined in the IRS document is analogous to the facts in this appeal. Mr. Delancy's regular place of work was in Canada and there was no evidence that he had a regular place of work in the United States.
+[11] Even if expenses similar to those incurred by Mr. Delancy would be deductible for United States tax purposes, that would be of no assistance to Mr. Delancy in this appeal. Paragraph 8(1)(h) limits the circumstances in which travel expenses can be claimed by an employee. That provision has been reasonably interpreted to exclude expenses incurred by an employee in travelling to the main location of the employment.
+Paragraph 115(1)(f)
+[12] Mr. Delancy submits in the alternative that the expenses are deductible pursuant to paragraph 115(1)(f) of the Act. Counsel suggests that this provision permits a non-resident to deduct reasonable employment related expenses if the non-resident earns substantially all his income for the year in Canada.
+[13] I cannot accept the argument concerning paragraph 115(1)(f). If paragraph 115(1)(f) were as broad as counsel suggests, non-residents of Canada would be allowed to deduct greater employment expenses than residents of Canada. Paragraph 115(1)(f) does not have that result.
+[14] The deduction permitted under paragraph 115(1)(f) applies to deductions in computing taxable income. By virtue of the definition of "taxable income" in subsections 248(1) and 2(2), the deductions that are allowed under paragraph 115(1)(f) are only those listed in Division C of the Act. These deductions do not include general employment expenses and counsel did not suggest that the expenses claimed by Mr. Delancy are described in Division C. Accordingly, I cannot accept the submission that paragraph 115(1)(f) allows a deduction for the expenses at issue in this appeal.
+Agent's fee
+[15] Although Mr. Delancy's counsel submits that all the expenses claimed are travel expenses, the fee of $1,500 paid to Mr. Delancy's agent is not in that category. I was not referred to any provision of the Act that would provide a deduction for this type of expense and accordingly I conclude that the deduction of the agent's fee is prohibited by subsection 8(2). Under this provision, a taxpayer is prohibited from claiming a deduction in computing employment income unless the deduction is specifically authorized by section 8.
+[16] For the above reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 24th day of June, 2004.
+"J.M. Woods"
+J.M. Woods J.
+CITATION:
+2004TCC465
+COURT FILE NO.:
+2003-4313(IT)I
+STYLE OF CAUSE:
+Oteman Delancy v. The Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+April 28, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice J.M. Woods
+DATE OF JUDGMENT:
+June 24, 2004
+APPEARANCES:
+Counsel for the Appellant:
+J.K. Kivisto
+Counsel for the Respondent:
+John Grant
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+J.K. Kivisto
+Firm:
+Kivisto Law Firm
+Lake Worth, FL U.S.A.
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,141 @@
+---
+title: "Danial v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31200/index.do"
+last_modified: "2013-06-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 TCC 182"
+citation2: ""
+neutral_citation: "2013 TCC 182"
+decision_date: "2013-06-11"
+language: "en"
+item_id: "31200"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5039
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:04:29.054000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c9312b89734582c15663ccfe9316217da0ea564ff39f534959135cdf3f848374"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Danial v. The Queen
+
+- Citation: 2013 TCC 182
+- Decision date: 2013-06-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5039, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Danial v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-06-11
+Neutral citation
+2013 TCC 182
+File numbers
+2010-2074(IT)G
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-2074(IT)G
+BETWEEN:
+DR. BAHAUDDIN HASAN DANIAL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 29, 2013, at Toronto, Ontario
+Before: The Honourable Mr. Justice Randall Bocock
+Appearances:
+Counsel for the Appellant:
+Shanthi Devanand
+Counsel for the Respondent:
+Kathleen Beahen
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act for the 2004 and 2005 taxation years is hereby dismissed on the basis of the absence of any written agreement or applicable Court Order regarding spousal or dependant support.
+Costs are to be awarded to the Respondent.
+Signed at Ottawa, Canada, this 11th day of June 2013.
+“R.S. Bocock”
+Bocock J.
+Citation: 2013 TCC 182
+Date: 20130611
+Docket: 2010-2074(IT)G
+BETWEEN:
+DR. BAHAUDDIN HASAN DANIAL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bocock J.
+I. Facts
+[1] The Appellant, Dr. Danial, brings this Appeal under the Court’s General Procedure seeking to overturn the Minister’s reassessments denying the taxpayer’s deductibility of payments made to the Appellant’s ex-spouse, in the amount of $53,300.00 in taxation year 2004 and to the Appellant’s stepdaughter in the amounts of $18,000.00 in each of taxation years 2004 and 2005 (the “relevant period”).
+[2] The facts are not materially in dispute. The Appellant admitted under a Request to Admit that he and his ex-spouse irrevocably separated in April of 2004. It is also admitted that the Appellant’s stepdaughter was over 18 years of age during the relevant period. As to the amounts actually paid (as opposed to those amounts claimed), there is uncontradicted evidence that at a minimum the sum of $37,600.00 was paid to the Appellant’s ex-spouse in 2003 and 2004 and that the sum of $17,400.00 and $25,200.00 was paid to the Appellant’s stepdaughter in each of 2004 and 2005, respectively.
+[3] Originally in filing his tax returns, the Appellant had characterized the payments to the recipients as salary and wages and/or office expenses of his medical practice. In 2007, the Minister reassessed the taxpayer and disallowed such deductions. In submitting Notices of Objection to the Minister, Dr. Danial re-characterized the payments as support payments rather than salary, wages and/or office expenses.
+[4] As to evidence of a support agreement, Dr. Danial testified that at some point in 2004 he had prepared and submitted to his spouse a separation agreement written in Urdu providing for payments of monthly support to both his spouse (as she then was) and stepdaughter. The Appellant claimed that the Agreement was delivered to his ex-spouse but never acknowledged, executed or returned by her to the Appellant.
+[5] In addition, Dr. Danial testified that his spouse (now ex-spouse) suffers from Hepatitis C and is presently in the end stages of that illness. In fact, the hearing of this matter was delayed for many months as a result of treatment and physical and/or mental manifestations of the illness. Moreover, credible testimony was offered that the illness was likely contributing to some level of psychological dysfunction. Moreover, the Appellant was reluctant to add to his ex-spouse’s burden by forcing her to testify at the hearing.
+[6] In 2009, the Appellant’s spouse brought an application in the Superior Court of Justice for divorce, support payments and a determination of an equalization of net family property under applicable legislation.
+[7] An Order of the Court issued and thereafter monthly, periodic payments on account of support were made to the spouse and thereafter payments were deductible from income by the Appellant, all in accordance with the applicable legislation.
+II. Submissions
+[8] Appellant’s counsel submits that, although there is no evidence of a written agreement nor a Court Order applicable to the 2004 and 2005 taxation years, there is sufficient direct and indirect evidence of a verbal agreement regarding the requirement of the Appellant to pay support payments to his ex-spouse and stepdaughter. In short, as a result of that evidence the Court should recognize that the provisions of the Income Tax Act (the “Act”) have been satisfied.
+[9] In making such submissions, counsel directed the Court to the line of cases reflective within Hovasse v. Canada, 2011 TCC 143, 2011 DTC 1115, which indicates that there is no requirement for parties to have actually executed a written separation agreement in order for same to satisfy the provisions of the Act where the terms of that separation agreement are otherwise sufficiently clear and precise.
+[10] Counsel for the Respondent submitted that there was no evidence that the payments made in 2003, 2004 and 2005 were intended as support payments in any form until the Minister reassessed the taxpayer in 2007 and disallowed the salary, wages and office expenses initially claimed. Moreover, counsel submitted that there was no evidence of a written agreement or Court Order existing prior to 2009 which could possibly provide sufficient evidence, precision or direction to the Court. As such, no rational determination may be made of regular, periodic payments made on account of support payments nor of a direction or intention between the parties concerning deductibility by the payor and inclusion into income for the payee. In addition, counsel for the Respondent directed the Court to a line of cases which minimally requires the production of a written memorandum in some form reflecting details of payments and reference to a legal support obligation.
+III. Analysis and Decision
+[11] In order for the Appellant to qualify for deduction of support payments under the Act, payments must fall within the provisions of the definition of a “support amount” under subsection 56.1(4) which provides as follows:
+“support amount” — “support amount” means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and
+(a) the recipient is the spouse or common-law partner or former spouse or common-law partner of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage or common-law partnership and the amount is receivable under an order of a competent tribunal or under a written agreement; or
+(b) the payer is a legal parent of a child of the recipient and the amount is receivable under an order made by a competent tribunal in accordance with the laws of a province.
+[12] The issue of a Court Order is not relevant in this Appeal since same has not been pleaded nor factually asserted by the Appellant for the relevant period. The sole issue to be determined is whether the alleged verbal agreement, possibly reflected at some point by a memorandum in the Urdu language or a verbal agreement buttressed by direct evidence and part performance, meets the threshold established by the definition referenced above.
+[13] The language of the definition in subsection 56.1(4) of the Act is unequivocal. The agreement must be in written form. There is absolutely nothing by way of documentary evidence between the parties reflecting a meeting of the minds as to periodic payments of support amounts in 2004 and 2005. Regrettably, the Appellant was not able nor willing to push the point of reflecting an arrangement in written form. This may be reflective of his concern and the physical and mental condition of his ex-spouse.
+[14] The matter before the Court is similar to the case of Chappell v. Canada, 2004 TCC 39, [2003] T.C.J. No. 767. Specifically, Justice Campbell Miller of this Court stated the following at paragraphs 8 and 9;
+8 This is again one of those regrettable situations where a taxpayer makes the right and decent decision in not pursuing an ex-spouse to court for very human and compassionate reasons and in so doing is hit in the back of the head by the tax laws. But I cannot ignore the tax laws or we would have chaos.
+9 There was no written agreement made in 2000 that would allow the 1999 deductibility. I cannot pretend there was. Without one, the payments are not deductible and the case must be dismissed.
+[15] Even more starkly in this case perhaps is that there is not only no composite written agreement in 2004 or 2005, but there is absolutely no tangible evidence in any written form that the parties settled as between themselves the terms of regular, periodic support payments payable by the Appellant to his spouse and/or stepdaughter. In fact, there is countervailing evidence that the ex-spouse denies the existance of such payments. Further, while the ex-spouse’s medical condition may impede an adverse inference through her absence, the stepdaughter also did not testify as to the mutual intention of the alleged support payments she purportedly received. Given the absence of such evidence, in order to hold that a compliant support payment arrangement did exist in the relevant period would require the Court to imagine facts which simply did not exist in 2004 or 2005.
+[16] While such a creation may satisfy the present best intentions of the Appellant, in light of the dearth of evidence presented, it would render the textual and purposeful provisions of the Act meaningless. Accordingly, the Court is left with no alternative but to dismiss the Appeal with costs awarded to the Respondent.
+Signed at Ottawa, Canada, this 11th day of June 2013.
+“R.S. Bocock”
+Bocock J.
+CITATION: 2013 TCC 182
+COURT FILE NO.: 2010-2074(IT)G
+STYLE OF CAUSE: DR. BAHAUDDIN HASAN DANIAL AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: May 29, 2013
+REASONS FOR JUDGMENT BY: The Honourable Mr. Justice Randall Bocock
+DATE OF JUDGMENT: June 11, 2013
+APPEARANCES:
+Counsel for the Appellant:
+Shanthi Devanand
+Counsel for the Respondent:
+Kathleen Beahen
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Shanthi Devanand
+Firm: Shanthi Devanand Professional Corporation
+Mississauga, Ontario
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

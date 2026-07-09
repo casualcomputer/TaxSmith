@@ -1,0 +1,198 @@
+---
+title: "Tremblay v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31162/index.do"
+last_modified: "2013-04-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 TCC 133"
+citation2: ""
+neutral_citation: "2013 TCC 133"
+decision_date: "2013-04-30"
+language: "en"
+item_id: "31162"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4751
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:09:13.691000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "408ae1a34ee74f5d0bd44e9f220e9efa2075cab2298ab4dfa9540ad30d813f35"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Tremblay v. The Queen
+
+- Citation: 2013 TCC 133
+- Decision date: 2013-04-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4751, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tremblay v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-04-30
+Neutral citation
+2013 TCC 133
+File numbers
+2011-3661(IT)I
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-3661(IT)I
+BETWEEN:
+DANIEL TREMBLAY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on January 31, 2013, at Sherbrooke, Quebec
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Counsel for the appellant:
+Richard Généreux
+Counsel for the respondent:
+Emmanuel Jilwan
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made pursuant to the Income Tax Act is dismissed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 30th day of April 2013.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 10th day of May 2013.
+Elizabeth Tan, translator
+Citation: 2013 TCC 133
+Date: 20130430
+Docket: 2011-3661(IT)I
+BETWEEN:
+DANIEL TREMBLAY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] The appellant is appealing from a reassessment made by the Minister of National Revenue (the Minister) for the 2008 taxation year (the year in question) in which the Minister increased the appellant's taxable income by $60,692 (the reassessment) on the ground that the appellant, as an employee during the year in question, received this amount as payment for his personal expenditures from the company Hockey Top Gun Inc. (the company); during the entire year in question, he was an employee and shareholder of this company, and the amount was not included in the original T4 form submitted by the company.
+[2] In determining the appellant's tax liability for the year in question, the Minister relied on the following findings and assumptions of fact as stated at paragraph 8 of the Reply to the Notice of Appeal:
+[translation]
+(a) the facts presented and admitted above;
+(b) during the year in question, the appellant worked for Hockey Top Gun Inc. (the employer) as director;
+(c) during the year in question, the appellant was responsible for the employer's bookkeeping;
+(d) the appellant had a credit card in the employer's name;
+(e) the appellant used the employer's credit card to pay for personal expenses totalling $53,524.43 during the year in question, including purchases of gas, meals at restaurants, personal travel and hockey equipment for his son;
+(f) the appellant had access to the employer's bank account;
+(g) the appellant made withdrawals for a total of $7,167.62 for his own benefit during the year in question;
+(h) none of the amounts indicated above were noted in the employer's books as relating to the appellant;
+(i) the T4 the employer issued to the appellant for the year in question indicated an employment income of $9,230.00; and
+(j) none of the above-noted amounts were included on the original T4 issued by the employer for the year in question.
+[3] I must immediately note that the assumptions of fact the respondent listed at paragraph 8 of the reply to the notice of appeal were not challenged. I also note that the evidence showed the company had been granted a deduction regarding the $60,692 added to the appellant's income.
+[4] Throughout the audit and objection process, and at paragraph 8 of the Notice of Appeal, the appellant maintained that [translation] "the $60,692 was directly related to expenditures incurred by the company Hockey Top Gun Inc. from its business income, and not the appellant's personal expenses." However, in a dramatic turn of events at the hearing, the appellant admitted these were personal expenses. The appellant now claims that he could not be assessed based on subsection 5(1) of the Income Tax Act (the ITA) and paragraph 6(1)(a) of the ITA on the ground that it was as a shareholder of the company and not as an employee that the company conferred the $60,692 benefit on him. In other words, the appellant now claims that the Minister should rely on subsection 15(1) of the ITA to increase the appellant's taxable income by $60,692 for the year in question. The appellant's written arguments on this are worth citing in their entirety. They state:
+[translation]
+1 - At the hearing, the appellant admitted, for the purposes of the case only, that personal expenses of $60,692 had been incurred by the company Hockey Top Gun Inc.
+2 - The appellant challenges the validity of the assessment because it is based on subsection 5(1) and paragraph 6(1)(a) of the Income Tax Act (hereinafter the ITA).
+3 - The Minister of National Revenue (hereinafter the Minister) never considered assessing the appellant under subsection 15(1) of the ITA.
+4 - The respondent admitted paragraph 5 of the notice of appeal, namely that: [translation] "According to the CRA claim, this additional income was related to expenditures paid by Hockey Top Gun Inc. that were considered personal expenses by the appellant."
+5 - Moreover, the respondent admitted, in the testimony of one of her agents, that Hockey Top Gun Inc. had probably been granted a business expense in the calculation of its income for the amount of the personal expenses (the expenses claimed in the calculation of its income according to section 9 of the ITA).
+6 - In this case, the respondent clearly wanted the appellant's personal expenses to be deductible in the calculation of Hockey Top Gun Inc.'s income by using sections 5 and 6 of the ITA to assess the appellant. The Tax Court of Canada stated the following in Kowalchuk v. The Queen, 2005 TCC 757.
+The expenditures of the Company which are disallowed because they were not made for the purpose of producing income will be taxable as a benefit to Mr. Kowalchuk. The issue is whether the benefits are received by him in his capacity as a shareholder or an employee. Both types of benefits are taxable either as an employee benefit under subsection 6(1) of the Income Tax Act or as a shareholder benefit under subsection 15(1) of the Act. The difference in the characterization of the benefits will affect the deductibility by the Company because employee benefits will generally be deductible while shareholder benefits will not be.
+7 - Can the appellant be assessed under subsection 5(1) and paragraph 6(1)(a) of the ITA? Our answer to this is: no.
+8 - The appellant did not receive an advantage of $60,692 from Hockey Top Gun Inc. as an employee.
+9 - To determine whether a personal expense by a corporation must be included with the income of a taxpayer as an employee or shareholder, one of the issues to address was analyzed in Youngman v. The Queen, 90 DTC 6322 (FCA):
+It is now well settled that paragraph 15(1)(c) applies only when a shareholder has received, qua shareholder, a benefit or advantage from a corporation.... A shareholder receives no benefit for the purposes of paragraph 15(1)(c) if, in the same circumstances, he would have received the same benefit from a company of which he is not a shareholder.
+10 - In Stuart Bird v. The Queen, 2005 TCC 744, Lamarre J. applied the same test to determine whether subsection 15(1) or 6(1) was appropriate in the situation. She stated that:
+[42] I therefore consider that these were personal expenses that were charged to Renova. There was conferred on the appellant, as the sole shareholder of that corporation, a benefit within the meaning of subsection 15(1) of the Act that had to be included in his income for the taxation years at issue. It is obvious that, had he not been a shareholder of the corporation, such expenses would not have been reimbursed.
+11 - However, Madam Justice Lamarre stated that the Minister cannot rely on section 6 of the ITA to impose other costs on a taxpayer since the respondent did not present any relevant evidence and did not rely on this provision:
+[45] I therefore consider that the mileage and parking expenses totalling $5,702 ($4,393 + $1,309) in 1998 and $6,733 ($5,750 + $983) in 1999 were not personal expenses but were incurred for the purpose of earning business income. The appellant did not receive a benefit as a shareholder within the meaning of subsection 15(1) by being reimbursed by the corporation for those expenses. Furthermore, the respondent did not argue that the amounts thereof should be included in the appellant's income as a taxable allowance received in the course of his employment, pursuant to section 6 of the Act. In fact, the respondent even disputed the fact that the appellant was an employee of Renova, and anyhow no evidence was brought before the Court to support that view.
+12 - It is clear in this case that if the appellant had not been a shareholder of Hockey Top Gun Inc., he would have never received a reimbursement for his personal expenses.
+13 - Sections 5 and 6 of the ITA therefore do not support the assessment in question.
+14 - The Federal Court of Appeal, in Massicotte v. The Queen, 2008 FCA 60 did not wish to support the position of the Honourable Justice Archambault regarding his statements about the right of a court to support an assessment on a basis other than the one relied on by the Minister. The Honourable Justice Archambault stated (Massicotte v. The Queen, 2006 TCC 618):
+[44] If this procedural approach were to be applied to the facts in this appeal, would tax fairness and justice be well served if the outcome would be to allow a taxpayer to appropriate $240,000 from his own corporation, without having to pay any tax at all, while the other Canadian taxpayers are obliged to pay income tax when they receive either a salary or dividends from their corporations?
+[45] It must be remembered that the role of a judge is to ensure that assessments made by the Minister comply with the Act. If, on his own authority, a judge cited a section of the Act or a legal principle that allowed a taxpayer to successfully contest a Minister’s assessment, it is my view that few persons would be opposed. Therefore, why should a judge refrain from citing this type of rule or statutory provision in order to justify a Minister’s assessment? The fundamental role of a judge is to remain impartial. In my view, if a judge were to intervene only when such an action had the potential to prove advantageous for a taxpayer, that action would go against his or her duty to remain impartial.
+15 - The Tax Court of Canada is an independent and impartial court and it must not intervene to support the Minister's assessment on another factual or legal basis. The Tax Court of Canada is not a tribunal designated to preserve public funds.
+...
+Issue
+[5] Should the $60,692 benefit be added to the appellant's taxable income for the year in question pursuant to paragraph 6(1)(a) or subsection 15(1) of the ITA?
+Analysis and conclusion
+[6] The relevant provisions of the ITA state:
+6(1)(a) Value of benefits -- the value of board, lodging and other benefits of any kind whatever received or enjoyed by the taxpayer in the year in respect of, in the course of, or by virtue of an office or employment, except any benefit
+(i) derived from the contributions of the taxpayer’s employer to or under a deferred profit sharing plan, an employee life and health trust, a group sickness or accident insurance plan, a group term life insurance policy, a pooled registered pension plan, a private health services plan, a registered pension plan or a supplementary unemployment benefit plan,
+(ii) under a retirement compensation arrangement, an employee benefit plan or an employee trust,
+(iii) that was a benefit in respect of the use of an automobile,
+(iv) derived from counselling services in respect of
+(A) the mental or physical health of the taxpayer or an individual related to the taxpayer, other than a benefit attributable to an outlay or expense to which paragraph 18(1)(l) applies, or
+(B) the re-employment or retirement of the taxpayer, or
+(v) under a salary deferral arrangement, except to the extent that the benefit is included under this paragraph because of subsection 6(11);
+...
+15(1) Benefit conferred on shareholder -- Where at any time in a taxation year a benefit is conferred on a shareholder, or on a person in contemplation of the person becoming a shareholder, by a corporation otherwise than by:
+(a) the reduction of the paid-up capital, the redemption, cancellation or acquisition by the corporation of shares of its capital stock or on the winding-up, discontinuance or reorganization of its business, or otherwise by way of a transaction to which section 88 applies,
+(b) the payment of a dividend or a stock dividend,
+(c) conferring, on all owners of common shares of the capital stock of the corporation at that time, a right in respect of each common share, that is identical to every other right conferred at that time in respect of each other such share, to acquire additional shares of the capital stock of the corporation, and, for the purpose of this paragraph,
+(i) where
+(A) the voting rights attached to a particular class of common shares of the capital stock of a corporation differ from the voting rights attached to another class of common shares of the capital stock of the corporation, and
+(B) there are no other differences between the terms and conditions of the classes of shares that could cause the fair market value of a share of the particular class to differ materially from the fair market value of a share of the other class,
+the shares of the particular class shall be deemed to be property that is identical to the shares of the other class, and
+(ii) rights are not considered identical if the cost of acquiring the rights differs, or
+(d) an action described in paragraph 84(1)(c.1), 84(1)(c.2) or 84(1)(c.3),
+the amount or value thereof shall, except to the extent that it is deemed by section 84 to be a dividend, be included in computing the income of the shareholder for the year.
+[7] In my opinion, the wording of subsection 15(1) of the ITA provides that, for a benefit to be included in a shareholder's income calculation, the corporation must confer the benefit, which implies that the corporation must do something, namely perform the act of conferring. This requirement does not exist at paragraph 6(1)(a) of the ITA. The wording of paragraph 6(1)(a) only requires that the employee receive or enjoy a benefit. In Walford v. The Queen, [2011] 1 C.T.C. 2550, the Court restated the wide scope of paragraph 6(1)(a) of the ITA while confirming the passive role of the employer in the granting or enjoyment of the benefit:
+Under paragraph 6(1)(a) of the Income Tax Act, benefits of any kind whatever received or enjoyed by a taxpayer in a taxation year “in respect of, in the course of, or by virtue of an office or employment” are required to be included in a taxpayer’s income under subsection 3(a). The phrase "benefits of any kind whatever" is so broad that generally, only benefits specifically exempted by the legislation can escape its ambit. Further, an employee’s lack of authorization for a purchase does not remove the benefit received from the notion of “income”...
+[Emphasis added.]
+[8] In this case, the corporation did not take any action when the appellant incurred the personal expenses in question. Paragraph 8(h) of the Reply to the Notice of Appeal (which, as noted, was not challenged) indicates that [Translation] "none of the amounts indicated above were noted in the employer's books as relating to the appellant". This leads me to conclude that since no evidence to the contrary was submitted by the appellant, the company was unaware that the appellant incurred the personal expenses through the company. I must note that the appellant did not even testify on this point. The appellant could also have called a representative of the company to testify (and asked him to bring the relevant records from the company) to show that the appellant's benefit was not obtained without the company's knowledge but that the benefit had been conferred on him as a shareholder. The appellant did not do this. I infer that this evidence would have been unfavourable to him, and I find that subsection 15(1) of the ITA cannot apply in this case since the corporation did not take any action.
+[9] It is not inconsistent with paragraph 6(1)(a) for the corporation to have received a deduction following the payment of the appellant's personal expenses. This is revealed in the case law cited by the appellant at paragraph (6) of his written arguments, from Kowalchuk v. The Queen, 2005 TCC 757, in particular the following:
+Both types of benefits are taxable either as an employee benefit under subsection 6(1) of the Income Tax Act or as a shareholder benefit under subsection 15(1) of the Act. The difference in the characterization of the benefits will affect the deductibility by the Company because employee benefits will generally be deductible while shareholder benefits will not be.
+[Emphasis added.]
+[10] In Bird v. The Queen, cited by the appellant at paragraphs (10) and (11) of his written arguments, the respondent challenged the fact the appellant was an employee, contrary to the present case (paragraph 11 of the arguments, citation of paragraph 45 of the decision).
+[11] Moreover, paragraph 42 of Bird, cited by the appellant, concludes as follows:
+Furthermore, even if the appellant was an employee of Renova, as the Federal Court of Appeal said in Servais, supra, the same analysis applies to an employee who receives a personal benefit, qua employee, from his employer. If not taxable under section 15, he would nonetheless be subject to tax under section 6 of the Act.
+[12] As for Youngman v. The Queen, a reading indicates that the debate was not about the taxation of income under subsection 15(1) versus paragraph 6(1)(a) but rather on the issue of whether the appellant had actually received a benefit and what its value was.
+[13] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 30th day of April 2013.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 10th day of May 2013.
+Elizabeth Tan, translator
+CITATION: 2013 TCC 133
+COURT FILE NO.: 2011-3661(IT)I
+STYLE OF CAUSE: DANIEL TREMBLAY v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Sherbrooke, Quebec
+DATE OF HEARING: January 31, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: April 30, 2013
+APPEARANCES:
+Counsel for the appellant
+Richard Généreux
+Counsel for the respondent
+Emmanuel Jilwan
+COUNSEL OF RECORD:
+For the appellant:
+Name: Richard Généreux
+Firm: Richard Généreux
+Ile-des-Sœurs, Quebec
+For the respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,106 @@
+Title: Akanda Innovation Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/306571/index.do
+Corpus path: corpus/cases/tcc/2018/2018-tcc-35-306571-akanda-innovation-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2018-02-19
+
+# Akanda Innovation Inc. v. The Queen
+
+- Citation: 2018 TCC 35
+- Decision date: 2018-02-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7217, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Akanda Innovation Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-02-19
+Neutral citation
+2018 TCC 35
+File numbers
+2015-5215(IT)G, 2016-217(IT)G
+Judges and Taxing Officers
+Eugene P. Rossiter
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 2015-5215(IT)G
+2016-217(IT)G
+BETWEEN:
+AKANDA INNOVATION INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+The Honourable Eugene P. Rossiter, Chief Justice
+ORDER
+Upon a motion by the Appellant pursuant to Rule 12 of the Tax Court of Canada Rules (General Procedure) requesting that the Court extend the time that the Appellant has under subsection 140(2) of the Tax Court of Canada Rules (General Procedure) to have a judgment set aside;
+And upon written submissions by the parties;
+The motion is dismissed in accordance with the attached Reasons for Order.
+Signed at Ottawa, Canada, this 19th day of February 2018.
+“E.P. Rossiter”
+Rossiter C.J.
+Citation: 2018 TCC 35
+Date: 20180219
+Dockets: 2015-5215(IT)G
+2016-217(IT)G
+BETWEEN:
+AKANDA INNOVATION INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Rossiter C.J.
+[1] This is a motion by the Appellant pursuant to Rule 12 of the Tax Court of Canada Rules (General Procedure) requesting that the Court extend the time that the Appellant has under subsection 140(2) of the Tax Court of Canada Rules (General Procedure) to have a judgment set aside. The issue before the Court is therefore should the Court exercise its inherent jurisdiction under subsection 140(2) and set aside a judgment rendered against the Appellant for its failure to attend the status hearing on March 7, 2017.
+[2] The facts are fairly simple:
+a. The Appellant, Akanda Innovation Inc., brought forward a motion pursuant to General Procedure Rule 12 to extend the period of time that the Appellant has under subsection 140(2) of the Tax Court of Canada Rules (General Procedure) to have a judgment set aside, as well as to set aside that judgment which resulted from the failure to attend a status hearing on March 7, 2017.
+b. In May and July, 2013, the Minister reassessed the Appellant to deny them SR&ED expenditures and related investment tax credits (“ITCs”) for the 2007, 2008, 2009 and 2010 taxation years.
+c. Barrett Tax Law was retained by the Appellant to act as counsel. The Notices of Appeal were apparently drafted in a short period of time. The service that drafted the Notices of Appeal terminated its work on the pleadings and the counsel who was looking after the file with Barrett Tax Law resigned from the firm. Nonetheless the Notice of Appeal for the 2007, 2008 and 2009 taxation years was filed on November 18, 2015. The Notice of Appeal for 2010 was not submitted on time. Instead, an application for extension of time needed to be filed which was granted by the Court with a Notice of Appeal being created from the application itself.
+[3] An Order from the Court dated September 12, 2016 granted an extension of time to file the Appellant’s list of documents as well as set out a timetable for other pre-trial steps. Difficulties of communications in relation to the firm acting for the Appellant resulted in the Appellant never serving the list of documents. Apparently due to irreconcilable differences, the Appellant’s counsel removed themselves as counsel of record on January 6, 2017 but had filed a motion to amend the September 12, 2016 Order on January 12, 2017. On January 18, 2017 the Order was granted and the Appellant was however required to inform the Court before February 10, 2017 of new counsel. This was not complied with by the Appellant.
+[4] In an e-mail from the Appellant’s former counsel to the Appellant dated January 12, 2017 it was noted that the judge can take up to two weeks to issue a decision but “for now the Appellant should proceed as though the Court had granted their request”. The Appellant was also advised to retain new counsel. On March 7, 2017 a status hearing was held and the Respondent made a motion pursuant to Rule 125(8) and Rule 140(1) of the General Procedure Rules to have the appeal dismissed. Neither the Appellant nor Appellant’s counsel were present at the hearing. The Respondent’s motion was granted and the appeal was dismissed.
+[5] As noted, the only issue before the Court was whether the Court should exercise its inherent jurisdiction under Rule 140(2) and set aside the judgment rendered against the Appellant for the failure to attend the status hearing on March 7, 2017.
+[6] The law on this matter has been settled; the decision of Associate Chief Justice Bowman, as he then was, in Farrow v R., 2003 TCC 885, is instructive as he set out the principles to be considered in decided whether to set aside a default judgment:
+The principles upon which a court in its discretion will act to set aside a judgment legally entered were set forth by Lamont, J.A. in Klein v. Schile, [1921] 2 W.W.R. 78, 14 Sask. L.R. 220, when he said at p. 79:
+The circumstances under which a Court will exercise its discretion to set aside a judgment regularly signed are pretty well settled. The application should be made as soon as possible after the judgment comes to the knowledge of the defendant, but mere delay will not bar the application, unless an irreparable injury will be done to the plaintiff or the delay habeen wilful. Tomlinson v. Kiddo (1914) 7 WWR 93, 29 WLR 325, 7 Sask LR 132; Mills v. Harris & Craske (1915) 8 WWR 428, 8 Sask LR 114. The application should be supported by an affidavit setting out the circumstances under which the default arose and disclosing a defence on the merits. Chitty's Forms, 13th ed., p. 83.
+[7] I noted in Izumi v. R., 2014 TCC 107, that the correct and analytical framework is not to apply a rigid set of factors but rather to consider a more contextual approach.
+[8] In considering the requirements on this motion, I note the following:
+a. The continued intention to pursue the appeal. I would suggest that this requirement appears to be satisfied. The Appellant appears to have had a continued intention to pursue the appeal and the lack of compliance with the Tax Court’s procedures and process was due to lack of communication provided by the counsel of record on how the appeal was proceeding. It should be noted that there was a relatively high amount of money at stake and upon discovering the fact that the appeal had been dismissed, the Appellant had gotten new counsel and initiated a motion to reinstate the appeal rather quickly. It should be noted, however, that the Appellant did not comply with any of the discovery requirements; the standards as established by the case law appears to be one of outright neglect or lack of interest which does not appear to be satisfied here.
+b. The appeal has some merit. It seems that the appeal does appear to have some merit. This is a very low threshold and the original Notice of Appeal is clear as to the issues the Appellant is pursuing. The Appellant appears to have some support for the position.
+c. There is no prejudice to the Respondent arising from the delay. This is a requirement which is problematic for the Appellant. The Respondent asserts that the Appellant does not appear to have completed discovery obligations. There can be no dispute in this particular claim as looking at the relative effects of granting the motion, to allow the motion to succeed would likely disproportionately prejudice the Respondent due to the failure of the Appellant to carry out the fundamental obligation in litigation; that is, their discovery obligations. It is the Appellant’s fundamental obligation to prosecute the appeal on a timely basis – this does not occur.
+d. A reasonable explanation is given for the delay. I do not believe that this requirement has been satisfied. The Appellant claims that their lack of compliance with the Tax Court of Canada procedures was because of an e-mail received from their counsel saying that the Court had been satisfied of its intention to pursue the appeal. Because of this mistaken belief, the Appellant thought that the next step was to file a list of documents. As a result, no one appeared at the status hearing. This is simply not the case and the e-mail does not reflect this exchange. The Appellant was receiving Tax Court of Canada correspondence from at least the date of Appellant’s counsel withdrawing as counsel of record, including the January 19, 2017 Order requiring the Appellant to find new counsel and inform the Court of a new counsel of record by February 10, 2017. The e-mail of the Appellant’s counsel sent on January12, 2017 does not say what the Appellant claims it says as the e-mail never mentions the status issue has been resolved like the Appellant claims. What the e-mail does say is that he judge can take up to two weeks to issue a decision but for now the Appellant should proceed as though the Court has granted the request. This of course does not, in any way, guarantee that the issue has been resolved – only saying to proceed as thought the Court has been satisfied until contradicted by the evidence. The e-mail also suggests hiring new counsel, advice which was not heeded by the Appellant until after the March status hearing.
+[9] Having considered all of the foregoing, it is my view that the Appellant has not satisfied the requirements necessary for the Court to exercise their discretion and grant the motion requested, and as a result the motion is dismissed. There will be no order as to costs.
+Signed at Ottawa, Canada, this 19th day of February 2018.
+“E.P. Rossiter”
+Rossiter C.J.
+CITATION:
+COURT FILE NOs.:
+2018 TCC 35
+2015-5215(IT)G and 2016-217(IT)G
+STYLE OF CAUSE:
+AKANDA INNOVATION INC. v HMQ
+REASONS FOR ORDER BY:
+The Honourable Eugene P. Rossiter,
+Chief Justice
+DATE OF ORDER:
+February 19, 2018
+APPEARANCES:
+Counsel for the Appellant:
+Counsel for the Respondent:
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+David W. Chodikoff
+Firm:
+Miller Thomson LLP
+Toronto, Ontario
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

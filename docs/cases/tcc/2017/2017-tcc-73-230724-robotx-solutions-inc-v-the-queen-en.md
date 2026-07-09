@@ -1,0 +1,353 @@
+---
+title: "Robotx Solutions Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/230724/index.do"
+last_modified: "2017-05-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 TCC 73"
+citation2: ""
+neutral_citation: "2017 TCC 73"
+decision_date: "2017-05-03"
+language: "en"
+item_id: "230724"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2219
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:23:28.558000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4be9087938df78b35714d5155dc37b3899b9850f612487654793ac71881248b6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Robotx Solutions Inc. v. The Queen
+
+- Citation: 2017 TCC 73
+- Decision date: 2017-05-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2219, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Robotx Solutions Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-05-03
+Neutral citation
+2017 TCC 73
+File numbers
+2016-736(IT)I
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-736(IT)I
+BETWEEN:
+ROBOTX SOLUTIONS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on October 31 and December 14, 2016,
+at Montréal, Quebec.
+Before: The Honourable Justice Gaston Jorré
+Appearances:
+Agent for the appellant:
+Yves Hamelin
+Counsel for the respondent:
+Alain Gareau
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal from the assessment made under the Income Tax Act for the taxation year ending November 30, 2012, is dismissed without costs.
+Signed at Ottawa, Ontario, this 3rd day of May 2017.
+“Gaston Jorré”
+Jorré J.
+Citation: 2017 TCC 73
+Date: 20170503
+Docket: 2016-736(IT)I
+BETWEEN:
+ROBOTX SOLUTIONS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Jorré J.
+Introduction
+[1] The issue is whether the appellant conducted scientific research or experimental development during the performance of four contracts with clients.
+[2] Robotx Solutions Inc. (Robotx) is a private corporation established in 2002. According to the President of Robotx, Mathieu Billette, the appellant is a corporation that enhances equipment at the clients’ request, particularly by increasing their life expectancy, by improving their safety mechanisms with a view to making them compliant with current standards or by standardizing them to generate economies of scale.
+[3] During the taxation year ending November 30, 2012, the appellant claimed, when filing its T2 tax return, Scientific Research and Experimental Development (“SR&ED”) expenditures for some of the work performed for four contracts: [1]
+1. a contract for Diageo Canada (“DICA” project) aimed at improving the safety of employees using palletizers and depalletizers for cases of alcohol bottles;
+2. a contract for the MDA Corporation (“MDCO” project) intended to optimize the performance and security of a digitally controlled milling machine;
+3. a contract for the Municipality of Saint-Zotique (“VSZO” project) aimed at improving and integrating the control system of a drinking water filtration plant and 13 pumping stations;
+4. a contract for Metra Aluminium (“MEAL” project) aimed at minimizing production costs by adding a specific system to the production line.
+[4] In July 2014, the Minister of National Revenue issued an assessment against the appellant for the 2012 taxation year and disallowed $182,483 for SR&ED expenditures claimed in respect of the four contracts (“disallowed SR&ED expenditures”).
+[5] Accordingly, the Minister disallowed the investment tax credits of $48,043. No question of quantum was raised. [2]
+[6] The appellant chose to use the informal procedure and renounced the excess disallowed credits over $25,000.
+[7] Essentially, with respect to the work that resulted in the SR&ED expenditures claimed by the appellant, the Minister submitted that said work did not involve technological uncertainty and that it was not completed using a systematic investigation or search.
+[8] He submitted, on the contrary, that during the course of the work there were only technical issues that could be resolved by current practices that are part of existing scientific or technological knowledge. He also submitted that the appellant was unable to show that any technical advancements were made.
+[9] For these reasons, the Minister claimed that he properly disallowed the appellant’s claim.
+[10] As for the appellant, it challenged the Minister’s decision and submitted that its activities were eligible for the credit claimed.
+[11] In light of the foregoing, this Court must determine, for each contract, whether the Minister was correct when it concluded that the work that generated the disallowed expenses did not constitute SR&ED within the meaning of the Income Tax Act (Act).
+[12] At the hearing, in the Notice of Appeal and in the Reply to the Notice of Appeal, everyone referred to the
+1. project for Diageo Canada (DICA),
+2. project for MDA Corporation (MDCO),
+3. project for the Municipality of Saint-Zotique (VSZO),
+4. project for Metra Aluminium (MEAL). [3]
+[13] I will do the same, but it is important to bear in mind that when we speak of these projects, we are referring to the activities for which the appellant claimed SR&ED expenditures and not all expenses incurred for each of the four contracts.
+[14] There were two witnesses, one of whom was Mathieu Billette, the appellant’s President. Through this testimony, the appellant filed certain documentary evidence and photos to allow the Court to better understand the scope of the work performed. Jonathan Assouline, Research and Technology Advisor for the Canada Revenue Agency (CRA), also testified. Mr. Assouline is the official in charge who determined the eligibility of the appellant’s projects at the assessment stage. No expert witness was called to testify by either party.
+Applicable law
+[15] The definition of scientific research and experimental development for income tax purposes reads as follows at subsection 248(1) of the Act: [4]
+scientific research and experimental development means systematic investigation or search that is carried out in a field of science or technology by means of experiment or analysis and that is
+(a) basic research, namely, work undertaken for the advancement of scientific knowledge without a specific practical application in view,
+(b) applied research, namely, work undertaken for the advancement of scientific knowledge with a specific practical application in view, or
+(c) experimental development, namely, work undertaken for the purpose of achieving technological advancement for the purpose of creating new, or improving existing, materials, devices, products or processes, including incremental improvements thereto,
+and, in applying this definition in respect of a taxpayer, includes
+(d) work undertaken by or on behalf of the taxpayer with respect to engineering, design, operations research, mathematical analysis, computer programming, data collection, testing or psychological research, where the work is commensurate with the needs, and directly in support, of work described in paragraph (a), (b), or (c) that is undertaken in Canada by or on behalf of the taxpayer,
+but does not include work with respect to
+(e) market research or sales promotion,
+(f) quality control or routine testing of materials, devices, products or processes,
+(g) research in the social sciences or the humanities,
+(h) prospecting, exploring or drilling for, or producing, minerals, petroleum or natural gas,
+(i) the commercial production of a new or improved material, device or product or the commercial use of a new or improved process,
+(j) style changes, or
+(k) routine data collection; (activités de recherche scientifique et de développement expérimental).
+[16] The issue here is not one of basic research or applied research. The question is the following: was there experimental development within the meaning of the Act? In this appeal the relevant passages of the definition of “scientific research and experimental development” are as follows:
+Systematic investigation or search that is carried out in a field of. . .technology by means of experiment or analysis and that is
+. . .
+(c) experimental development, namely, work undertaken for the purpose of achieving technological advancement for the purpose of creating new, or improving existing, materials, devices, products or processes, including incremental improvements thereto,
+and. . .includes
+(d) work undertaken by. . .the taxpayer with respect to engineering, design, operations research, mathematical analysis, computer programming, data collection, testing. . .where the work is commensurate with the needs, and directly in support, of work described [in paragraph] (c) that is undertaken in Canada by. . . .
+but does not include work with respect to:
+. . .
+(f) quality control or routine testing of materials, devices, products or processes,
+. . .
+(i) the commercial production of a new or improved material, device or product or the commercial use of a new or improved process,
+. . .
+[17] In order to determine whether the work undertaken by the appellant meets the definition of the Act, the courts adopted certain criteria developed in 1998 by Judge Bowman (as he was then) in Northwest Hydraulic Consultants Ltd. v. Canada. [5] This approach was confirmed on a number of occasions, namely in the Federal Court of Appeal decisions RIS – Christie Ltd. v. Canada [6] and CW Agencies Inc. v. Canada [7] . See also the very recent decision of Justice D’Auray in Formadrain Inc. v. The Queen. [8] These criteria, as expressed by the Federal Court of Appeal in CW Agencies at paragraph 17, are as follows: [9]
+1. Was there a technological risk or uncertainty which could not be removed by routine engineering or standard procedures?
+2. Did the person claiming to be doing SRED formulate hypotheses specifically aimed at reducing or eliminating that technological uncertainty?
+3. Did the procedure adopted accord with the total discipline of the scientific method including the formulation testing and modification of hypotheses?
+4. Did the process result in a technological advancement?
+5. Was a detailed record of the hypotheses tested, and results kept as the work progressed?
+[Emphasis added.]
+[18] The purpose of this criteria is to help us determine whether a taxpayer engaged in “experimental development” within the meaning of the Act, as I explained in Les Abeilles service de conditionnement Inc. v. The Queen: [10]
+142 It must be borne in mind that these criteria are used to help determine whether or not a technological advancement has occurred. The first criteria, technological uncertainty, is one way of dealing with the technological advancement criteria; there can hardly be a technological advancement if one already knows how to achieve the end result; the second and third criteria are, inter alia, one way of ensuring that the work was undertaken for the purpose of achieving technological advancement and that it was not, for example, an advancement achieved by accident rather than work undertaken for the purpose of achieving technological advancement.
+143 The five criteria are not absolute. For example, there is no requirement that the work must result in a technological advancement; if the work was unsuccessful but undertaken for the purpose of achieving technological advancement, it may still qualify.
+[19] In light of these considerations, I must now determine whether the projects in question constituted experimental development.
+[20] Prior to specifically examining the projects, I will note that it was not always easy to follow the appellant’s evidence and that often the evidence was relatively general and vague.
+Facts and analysis
+[21] I will examine each project separately.
+DICA project
+[22] Considering that it is neither basic research nor applied research, the sole issue is whether it was experimental development, meaning “work undertaken for the purpose of achieving technological advancement for the purpose of creating new, or improving existing, materials, devices, products or processes, including incremental improvements thereto”.
+[23] It is also clear that, for this project, there was no effort made for the purpose of creating or improving materials or products.
+[24] It is therefore necessary to analyze the following:
+1. Was the work here undertaken for the purpose of achieving technological advancement?
+2. Was it undertaken for the purpose of creating new devices or processes, including incremental improvements thereto?
+[25] The DICA project was undertaken for Diageo Canada, a company specializing in alcohol products. The plant where the appellant carried out its work is located in the Municipality of Valleyfield.
+[26] In financial terms, the SR&ED expenditures claimed for this project, around $81,500, are by far the highest of the four projects. That is approximatively two thirds of the SR&ED expenditures claimed. [11]
+[27] According to the appellant, the project involved creating new platform‑securing procedures to improve palletizers and depalletizers for cases of alcohol bottles. [12] To better understand the project, it is useful to note that the plant where the equipment was located had five bottling lines. Each of the lines had a depalletizer to depalletize the cases of empty bottles in order to place them on the production line, and then, at the end of the production line was a palletizer for re-palletizing the same filled cases.
+[28] Each palletizer or depalletizer had a lifting platform used to raise or lower cases, as the production line was above floor level.
+[29] The equipment on which the securing work was conducted was attached using a network controller that controlled the entire production line. Robotx had to therefore secure the equipment to allow operators access to the palletizers’ and depalletizers’ platforms during production, whilst reducing downtime on the production line.
+[30] Specifically, the contract was for [translation] “[s]ecuring lifting platforms for depalletizers and palletizers”. [13]
+[31] Specifically, the purpose of the contract was as follows: [14]
+1– PROJECT ISSUE
+Eliminate the risk of the lifting platform for palletizers and depalletizers falling during an intervention that requires the presence of an operator/mechanic under the machine’s platform.
+Make the machines safe according to [current] standards. [15]
+[32] According to Mr. Billette, the equipment used for the work was outdated and no longer met current safety standards. Moreover, the original manufacturers no longer provided technical support for the equipment, which allegedly made data collection more complicated than initially expected.
+[33] Because the palletizers and depalletizers were not all unique, the initial idea put forward by Robotx was to develop a one-fits-all approach to be reused for each piece of equipment. This was, inter alia, the idea submitted to Diageo and that was what allowed Robotx to obtain the service contract presently in dispute. The appellant performed other work for Diageo, but only this project was subject to an application for a SR&ED tax credit.
+[34] According to Mr. Billette, the DICA project began with a preliminary analysis, that is to say, the development of a concept that allowed Robotx to validate the prices that it proposed in the tender. Since the appellant proposed lump sum prices, which represented a significant financial risk for it, it was crucial for the appellant to have some degree of certainty that it would be able to complete the project.
+[35] As for the project’s technological aspects, the appellant’s witness submitted that there were many: first, under the agreement between the parties, it was vital to ensure that the outdated equipment met the safety standards currently in force, and therefore, that the platform loaded with cases could not fall on the operators who had to clean the equipment. These changes had to take place while respecting the production flow.
+[36] Moreover, the obsolescence of the equipment and the loss of certain operators with on-the-ground knowledge of the use of the equipment allegedly raised significant technological uncertainties discovered only after the start of the work.
+[37] Finally, in terms of project development, there had to be a one-size-fits-all model to be used on all equipment, all within the confined spaces imposed by the original manufacturing of the equipment and their position with respect to the production line.
+[38] In order to address these uncertainties, Robotx attempted to use in its designs the maximum amount of the industry’s standard parts, in efforts to ensure ease of maintenance of the equipment following the adjustments.
+[39] As for the procedure adopted to complete the project, Mr. Billette submitted that first a hypothesis was adopted by a multidisciplinary team and then tested by validation. Following testing either by 3D simulation or directly on the production line, a new hypothesis was adopted and then retested, until the uncertainties were totally dissipated. According to him, this method is also adequately substantiated by two Excel files submitted by the appellant showing the testing conducted during the validations. [16] He submitted that as part of the project, about a hundred tests were attempted including tests by 3D simulation and in the plant.
+[40] Pertaining directly to the operation of the safety system, this system was integrated into the equipment’s existing systems by the positioning of two tubes with two supports for chrome shafts. In so doing, the space available became void, which forced the appellant to develop a system by pushing the limits in terms of the thickness of materials used.
+[41] Following these changes, a number of issues cascaded, which forced the appellant to conduct several tests and make a few modifications to the components used. Along the way, the option of a one-size-fits all system proved impossible to achieve, which required the implementation of new working hypotheses. However, the appellant was able to design and use a control panel in almost all the equipment, which ensured the communication of break system sensors with the rest of the safety system through automation.
+[42] At the end of the project, five out of ten machines were improved by the appellant. According to Mr. Billette, the search and results obtained during the project could probably be reused [translation] “up to a certain point” as part of similar mandates with similar equipment.
+[43] Financially, Robotx was unable to meet the objectives it had set for itself. Indeed, along the way, major cost overruns were noted, which led Diageo to give up on improving two production lines, as it chose to modernize them completely by purchasing new equipment.
+[44] As for Mr. Assouline, the respondent’s witness, he submitted that the appellant was unable to show that any technological advancement had been sought, and that therefore there was technological uncertainty relating to this project. The respondent acknowledged that the appellant had to work with fairly old equipment to make it compliant with current standards, but according to her, this did not amount to SR&ED work. [17]
+[45] According to him, there is nothing in the appellant’s testimony or documentation making it possible to identify the difficulties or nature of a problem that could not have been overcome by the technological knowledge currently available.
+[46] Furthermore, he claimed that the documentation submitted by the appellant identifying the various tests and hypotheses presented purely technical work, that is to say the identification of the problem, and then its resolution through the practical application of the technological knowledge generally available. None of the documents submitted indicate that there were technological limitations sought to be overcome, neither at the start of the project nor along the way.
+[47] Finally, upon reading said documentation, he is of the view that it is impossible to confirm when the work was conducted, which is a problem considering that the work began in 2011 and not 2012. [18]
+[48] Also, Mr. Assouline submitted that the missing information the appellant defined as being technological uncertainties is indeed information that could have been reasonably obtained prior to commencing the project since, in all likelihood, the information was held by Diageo.
+[49] The respondent therefore submitted that the DICA project can be defined as being normal development, which does not constitute SR&ED work.
+DICA analysis
+[50] As noted earlier, the purpose of the project was to make the palletizers or depalletizers compliant with current safety standards by eliminating the risk of the lifting platform falling when an operator or mechanic was under it.
+[51] In the case of palletizers or depalletizers that were modified, this was done by putting in place a new breaking device to block the lifting platform and an interlock system that ensured a complete shut-down as soon as the door to the space below the lifting platform was opened. [19] The intention was to do the same for the other palletizers and depalletizers, but this was abandoned for financial reasons with the client’s consent. [20]
+[52] Was this experimental development within the meaning of the Act? Was (i) work undertaken for the purpose of achieving technological advancement (ii) for the purpose of creating new or improving existing devices or processes?
+[53] It is worth noting that when the Act states “for the purpose of creating new, or improving existing, materials, devices, products or processes, including incremental improvements thereto”, one cannot read these words without taking into account the entire provision, notably, the requirement that the purpose must be technological advancement.
+[54] Technological advancement, novelty or improvement must be relative to the existing scientific and technological knowledge or existing materials, devices or processes. However, if novelty or improvement can be achieved through routine engineering, standard procedures or current knowledge (that are part of existing scientific and technological knowledge), it cannot be considered technological advancement. [21]
+[55] It is therefore not enough to improve a particular existing device or process; there must be improvement in relation to existing technology and one must be incapable of making any progress by using routine engineering, standard procedures or current knowledge.
+[56] Therefore, the improvement of an old machine that performs specific work to increase the level of safety cannot represent technological advancement if other machines doing the same work with the desired level of security already exist, or if the improvement can be done without technological advancement in terms of how to make the improvement. [22]
+[57] Let us first examine the issue of technological advancement in terms of creating or improving a “device”.
+[58] In this case, there is no evidence to suggest that palletizers and depalletizers meeting the required safety standards did not already exist or that there was an improvement from what already existed. As regards safety standards, upgrades were mentioned.
+[59] Accordingly, the appellant has not persuaded me that work was undertaken for the purpose of creating a new device or improving existing devices.
+[60] Second, let us examine the issue in terms of creating or improving “procedures”.
+[61] There is no doubt that there were some uncertainties at the outset and that various problems arose during the performance of the work; I have no doubt that it was not always obvious, when a problem was discovered, how exactly to solve the problem. [23]
+[62] However, it is not the mere fact that uncertainties exist, that problems arise and that it may take a certain effort to determine how to solve these problems that makes is so that the effort to solve these problems necessarily constitutes experimental development. There must be technological uncertainties. Many people who have undertaken renovations of old homes have experienced it: unknown situations as to what is hidden behind the wall, surprises when opening the wall, and so on. In and of itself, difficulties are not sufficient for the resolution of these problems to become experimental development. [24]
+[63] If one seeks to achieve technological advancement in respect of a process, [25] I would expect the novelty or improvement sought to be clearly and specifically described in relation to current processes. That is not the case here. [26]
+[64] The appellant has not demonstrated that, in order to fulfill the contract, it created or attempted to create new processes or new techniques in relation to those that already exist. Nor has it demonstrated that it has improved or attempted to improve one or more processes or techniques in relation to those that already exist under current technology. [27]
+[65] Therefore, the appellant has not persuaded me that the work undertaken for the Diageo contract was for the purpose of creating new processes or improving existing ones.
+[66] With respect to the Diageo contract, there is therefore no need to vary the assessment.
+[67] It is important to note that had I been of the view that work was undertaken for the purpose of improving current devices or processes, I would have had to examine the other criteria set out in CW Agencies.
+[68] On the one hand, I would have had to consider the issue below:
+Did the procedure adopted accord with the total discipline of the scientific method including the formulation testing and modification of hypotheses? [28]
+[69] On the other hand, I would have had to consider the following issue: could the uncertainties be resolved through routine engineering or standard procedures?
+[70] In the circumstances, there is no need to decide these issues, but I would note that, if it were necessary to consider them, generally the evidence presented does not seem to me to be sufficiently clear, precise and detailed to conclude that it is technological advancement.
+[71] Although the provisions of the Act do not require contemporary documentation with specific content to demonstrate experimental development work, it is very important to be able to present clear, detailed and precise evidence; this could be extremely difficult, if not impossible, in the absence of adequate documentation during the course of the work. [29] As stated by Judge Archambault in 116736 Canada Inc. v. Canada: [30]
+40 In my view, contemporary reports showing detailed records of each experiment attempted by a researcher could constitute evidence of a systematic investigation. Any taxpayer attempting to convince the Minister that he is entitled to deduct R&D expenditures without such evidence puts himself in a very precarious position. A taxpayer would be in a similar position when appearing before this Court to contest the Minister's refusal to allow the deduction of his R&D expenditures.
+MEAL project
+[72] This project is the second in terms of expenses claimed, namely, a little over $22,000.
+[73] Metra Aluminium is a manufacturer of aluminium extrusion. As part of the agreement signed with Metra Aluminium, Robotx was required to conceive, manufacture and install a device that Metra and Robotx called a [translation] “correction roller” or [translation] “plate rectifier” [31] that had to be integrated into an existing production line.
+[74] The device was meant to straighten out aluminium rectangular bars that protruded from an extrusion machine. Metra wanted to integrate the step of rectifying an aluminium plate directly into the production line, in order to avoid displacements, without motorization and in a safe manner. This would allow Metra to modify its processes in order to minimize the costs associated with the operation of its production line, particularly by reducing the number of times it took to manipulate the aluminium plates.
+[75] At the start of the project, the appellant’s intention was to create a fixed system, with no pivot, in order to ensure the flatness of the aluminium plate directly on the production line. However, after some experimentation, Robotx realized that this option was not optimal considering the inherent characteristics of the machine, including the established structures that could not be changed.
+[76] Therefore, a two-section system had to be put in place. Mr. Billette also argued that the client provided essential information over the course of the project, which brought about changes that could have been avoided at the design stage. 3D simulation testing was also carried out by the appellant, which allowed it to develop a number of prototypes to start the implementation in the factory.
+[77] Another challenge stemming from this project was combining existing processes based on old equipment with new processes and new generation equipment. No information was available on the possibility of simulating the behaviour of the material on the production line as not only was the temperature of the material very high, but also the alloy was confidential information.
+[78] According to the appellant, the main point of uncertainty of the project lay in the search for solutions to the complex problems identified during testing while creating a safe system that met the requirements and objectives set by the client. [32]
+[79] Mr. Assouline argued that the work presented by the appellant did not describe SR&ED issues, but rather problems presenting physical, dimensional and operational obstacles.
+[80] He also submitted that the work identified by the appellant in its application is merely a list of anticipated problems. He claimed that the work was nothing but details about the solution to be delivered to the client in order to meet demand and not work undertaken systematically with a view to eliminating technological uncertainty.
+[81] According to the information provided by the appellant in its application, Mr. Assouline submitted that the appellant did not provide any additional information that would allow the Minister to identify a technological uncertainty or a technological advancement.
+[82] The Minister’s position is therefore that the work claimed by the appellant is rather the normal development of equipment or a system to be incorporated into another to correct a technical problem of deformation of aluminium. According to the respondent, [translation] “[t]he development, design, testing and adjustment work stems entirely from standard practice in a context of product and equipment development”. [33]
+[83] Regrettably, based on the evidence provided, I cannot conclude that there was experimental development within the meaning of the Act.
+[84] I heard no evidence that the purpose was to achieve technological advancement for the purpose of creating a new device or a new process.
+[85] However, let us suppose that I had concluded that there was a new device or a new process.
+[86] There is no clear and detailed evidence of each stage of the work that would make it possible to conclude that specific individual work, some group work or all work was undertaken for the purpose of resolving technological uncertainties that could not be resolved with current methods and knowledge.
+[87] On the contrary, there is evidence to suggest that the uncertainties were not technological. On the one hand, along the way the client imposed, as it learned certain things on its own, new constraints. Such changes are not in and of themselves, for the appellant, a technological uncertainty.
+[88] On the other hand, certain things in the evidence are not necessarily techniques other than usual techniques. For example, the appellant stated that it used 3D simulation; in itself, at this level of generality, this does not help us to determine whether or not this was experimental development, as certain simulations are completely standard techniques. In our case, it is possible that “AUTOCAD” (Automated Computer Aided Design) software was simply used to see if it could create the device using different constraints, such as the layout of other production line devices, the space available, etc.; [34] such use of software would not show, in and of itself, that it is an unusual technique. However, if it is another form of unusual simulation, there is no evidence of that.
+[89] The onus is on the appellant to show technological uncertainty within the meaning of the Act.
+[90] Accordingly, I conclude that it is not experimental development and it is not necessary to vary the assessment for the MEAL project. It must stand.
+VSZO project
+[91] The appellant claimed approximately $15,000 in SR&ED expenditures for this project.
+[92] The tender form provided by the Municipality of Saint‑Zotique to the appellant indicated that the project title was [translation] “Upgrading water treatment plant control systems and pumping stations”. [35] The resolution of the municipality granting the contract to the appellant on August 21, 2012, contains the following description in its title [translation]: “Implementation of the Ethernet telemetry in sewage pumping stations and new program for the filtration plant”. [36]
+[93] The appellant’s call for tenders was for a lump sum of $436,249. Given that the municipality did not approve the contract until August 21, 2012, and that the appellant’s fiscal year end was November 30, 2012, the appellant was only able to start its work during the taxation year in issue. The appellant acknowledged that part of the work under the contract was not scientific research or experimental development.
+[94] I have the same issues with this project as I did with the two previous projects. These issues are such that the appellant did not persuade me that it carried out experimental development within the meaning of the Act.
+[95] The appellant’s evidence showed various difficulties that occurred during the execution of the project and not only during the 2012 taxation year. The appellant did not show that these difficulties could only be overcome by using methods other than the usual methods; there is no specific and clear evidence that shows that certain work or certain group work represented an effort that required the use of unusual methods.
+[96] However, there is an additional problem here. Even if I were of the view that there was experimental development over the life of the project, the evidence submitted pertained to the entire project. There is nothing in the evidence to draw a conclusion that specific work during the year at issue was experimental development.
+[97] It is therefore not necessary to vary the assessment for the VSZO project.
+MDCO project
+[98] The last project to analyze is the one with MDA Corporation, the MDCO project. In financial terms, it is the project with the smallest amount of expenses claimed, just under $4,000.
+[99] As part of the contract, according to the project summary contained in the appellant’s T‑661 form, Robotx was asked to design, develop and fine-tune new mechanisms and new components to optimize the performance and the safety of a digitally controlled milling machine. [37]
+[100] In essence, the project involved creating a mechanism with a protective part to add to a milling machine that MDA had to improve employee safety. [38] More generally, Robotx wanted to create a mechanism that could be integrated into various equipment with a rotating part, whether it be a milling machine, a drilling machine or other.
+[101] Mr. Billette testified that there was no such mechanism on the market. What was on the market for this type of device lacked rigidity and was not adaptable to all types of machines.
+[102] According to Mr. Billette, the technological obstacles to be overcome at the completion of this project were mainly linked to the fact that Robotx was unable to obtain technical support from the manufacturer and stakeholders who had previously used the machine.
+[103] As for Mr. Assouline, he submitted that the development of this system, as presented and described, does not meet the definition of SR&ED under the Act. According to him, it simply involves normal development or normal improvement for this type of equipment based on currently known technological knowledge.
+[104] Moreover, despite requests by the CRA for documentation supporting the appellant’s claim, Robotx never provided the documents it said it had in support of this project. Nevertheless, it appears that according to the review record, the CRA granted the appellant a time limit of more than five months to send the documents, when the typical timeframe is 30 days.
+[105] Ideally, with respect to the novelty of the devices considered, there was more extensive evidence that there were no devices meeting needs. However, I accept that what was considered was new.
+[106] However, as with the previous projects, the evidence does not support a finding that the uncertainties are technological uncertainties. [39]
+[107] There is therefore no need to vary the assessment with respect to the MDCO project.
+Conclusion
+[108] For these reasons, the appeal is dismissed without costs.
+Signed at Ottawa, Ontario, this 3rd day of May 2017.
+“Gaston Jorré”
+Jorré J.
+CITATION:
+2017 TCC 73
+COURT FILE NO.:
+2016-736(IT)I
+STYLE OF CAUSE:
+ROBOTX SOLUTIONS INC. v. THE QUEEN
+PLACE OF HEARING:
+Montréal, Quebec
+DATES OF HEARING:
+October 31 and December 14, 2016
+DATES OF RECEIPT OF THE TRANSCRIPTS:
+November 14, 2016, and January 3, 2017, respectively
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Gaston Jorré
+DATE OF JUDGMENT:
+May 3, 2017
+APPEARANCES:
+[BLANK]
+Agent for the appellant:
+Yves Hamelin
+Counsel for the respondent:
+Alain Gareau
+COUNSEL OF RECORD:
+[BLANK]
+For the appellant:
+[BLANK]
+Firm:
+[BLANK]
+For the respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] We know the amounts claimed, but the evidence does not allows us to determine what proportion of the total expenditures incurred on the contracts were claimed as SR&ED expenditures.
+For example, at page 98 of the transcript dated October 31, 2016, Mr. Billette explains that the amounts claimed only represent a portion of expenditures related to the contract with the Municipality of Saint-Zotique.
+Another example—where the largest amount of expenditures was claimed, the contract for Diageo Canada, we know that $81,522 was claimed (see page 5 of Tab 10 of Exhibit A‑1); however, it appears that larger amounts were incurred over the course of the contract. From reading the discussion about cost overruns at pages 77 and 78 of the transcript dated October 31, 2016, it appears that the total amount spent is greater, though it is difficult to know for sure, as the contract was in effect for more than one year. Furthermore, at page 37 of the same transcript, Mr. Billette makes reference to two [Translation] “projects” that the appellant had at the same time for Diageo Canada, one with scientific research and experimental development and one without scientific research and experimental development; one of the two [Translation] “projects” is one of the four contracts at issue here; the other [Translation] “project” likely represents another contract.
+[2] According to the Reply to the Notice of Appeal, the amounts claimed by the appellant as SR&ED and disallowed by the Minister for the 2012 taxation year are as follows:
+Employees
+$91,923
+Arms-length contract
+$31,800
+Prescribed proxy amount
+$59,360
+Total SR&ED expenditures claimed
+$182,483
+Provincial government assistance
+–$45,216
+Total qualified SR&ED expenditures
+$137,267
+Investment tax credit disallowed
+$48,043
+I note that in the documents filed by the appellant, the figures are slightly different. However, given that no question of quantum has been raised and given my conclusion, it is not necessary that I reconcile these differences.
+[3] The projects’ wording stems from the manner in which taxpayers are required to claim tax credits.
+[4] Version applicable as of November 30, 2012.
+[5] [1998] T.C.J. No. 340 (QL).
+[6] [1998] F.C.J. No. 1890 (QL).
+[7] 2001 FCA 393.
+[8] 2017 TCC 42.
+[9] These criteria were also adopted by the CRA in Information Circular 86-4R3 replaced by the Eligibility of Work for SR&ED Investment Tax Credits Policy dated December 19, 2012, and then April 24, 2015.
+[10] 2014 TCC 313.
+[11] See pages 5, 10, 15 and 20 at Tab 10 of Exhibit A‑1. The amounts claimed for the MDCO, MEAL and VSZO projects are $3,987, $22,606 and $15,007, respectively.
+[12] Five type 1 palletizers, and four type 2, 3, 4 and 5 depalletizers.
+[13] See purchase order at the last page of Tab 4 of Exhibit A‑1 and invoices at Tab 5 of Exhibit A‑1, for instance, the invoice of July 11, 2011, where it states, under [Translation] “Securing of lifting platforms”: “Bid solicitation— Securing lifting platforms for depalletizers and palletizers”.
+[14] See in the top left corner of the second page at Tab 15 of Exhibit A‑1.
+[15] I added the term [Translation] “current”. From time to time, cases fall from the lifting platforms and broken glass spreads all over, inter alia, under the lifting platforms. When this happens, an employee must remove the glass from the lifting platform. The text of the document is starkly clearer than the description of the project in Tab 10 of Exhibit A‑1, “T‑661” form, at pages 5 and 6.
+The description at page 5 of Tab 10 states in the second paragraph that [Translation] “[t]he project aims to improve business productivity and eliminate the risk of occupational injury”.
+Two comments—first, the project pertains solely to lifting platforms; no mention was made of other risks of accidents associated with bottling line operations.
+Second, although we speak of productivity during the presentation of the evidence, I did not see or hear anything concrete in the evidence indicating that the project was aimed at increasing the productivity of bottling lines per se. Certainly, the modifications should not have resulted in a reduction in production and it is possible that, incidentally, by making the lifting platforms safer, the downtown necessary for palletizing or depalletizing when required to clean under a lifting platform was reduced, but the evidence does not indicate that this was an objective.
+[16] Exhibit A‑1, Tabs 16 and 17; see also Tab 15.
+[17] Mr. Assouline did not testify as an expert witness. However, as a Research and Technology Advisor for the CRA, he is in the same position as an auditor and can testify based on the assessment.
+[18] I do not fully understand why the witness stated that exactly when the work was carried out cannot be established. For certain things, there is documentation; see Tab 17, Exhibit A‑1.
+[19] See, inter alia, pages 35, 36, 51, 52, 63 and 64 of the transcript of October 31, 2016.
+[20] Moreover, for two of the production lines that the appellant did not use, the problem was resolved because the client invested in and purchased two new production lines.
+[21] That is why the issue raised by the first criterion set out in CW Agencies, above, is the following: “Was there a technological risk or uncertainty which could not be removed by routine engineering or standard procedures?”
+[22] For example, if a machine’s electrical consumption is reduced by simply replacing its motor with a more electrically economical motor that already exists and the integration of the motor can be done very easily using well-known techniques, there can be no technological advancement. However, if one can successfully, or if an attempt is made to, upgrade an old machine using a new process that is much more resourcefully efficient, it is possible that it can be considered experimental development if work cannot be performed with routine engineering or standard procedures.
+[23] The causes of difficulty included the following: a lack of information pertaining to the operation of the palletizers and depalletizers, inter alia, because the original manufacturer no longer provided technical support for the machines; certain information that the appellant had to discover over the course of the work but that was known, for example, one or more lifting platforms worked differently in auto mode and in manual mode, information that had to be known by Diageo operators but that was not communicated to the appellant; constraints related to the space in which it was necessary to work.
+[24] Nor is it because a systematic effort is made to solve uncertainties and problems that this automatically constitutes an effort to overcome technological uncertainties and, therefore, experimental development. The renovations contractor formulates a plan prior to commencing the work; when problems arise, he or she has to revise the plan—[Translation] “make ‘hypotheses’” in a way—and test the new solution and, if necessary, revise the plan again.
+[25] Or in respect of a device.
+[26] The taxpayer stated that it increased its knowledge but this does not demonstrate that an effort was made to achieve a technological advancement.
+[27] The measure of novelty or improvement is not correlated to what the taxpayer knows; the measure is correlated to what is generally known.
+[28] CW Agencies, 2001 FCA 393.
+[29] See paragraph 94 and note 41 in Les Abeilles, 2014 TCC 313. I would note that in Les Abeilles, despite the Minister’s submissions during the course of the litigation, adequate background documentation was provided during the course of the work in question, electronic documentation; in addition, in Les Abeilles, the appellant had prepared and filed in evidence additional explanatory detailed and precise documentation created during and after the audit.
+[30] [1998] A.C.I. no 478 (QL).
+[31] See Tabs 8 and 9 of Exhibit A-1. When reviewing the invoice of January 16, 2012, it is not clear whether it is indeed a contract for one or two [Translation] “correction rollers”.
+[32] See page 16 at Tab 10 of Exhibit A‑1.
+[33] Exhibit I-1, scientific research and experimental development review report, page 6.
+[34] On the second last page of Tab 9 of Exhibit A-1, it can be seen that when the appellant and the client agreed to terminate the contract before the appellant attempted to assemble the device it created, the appellant undertook to provide the client not only with the parts of the device it manufactured, but also with the plans in AUTOCAD electronic format.
+[35] Exhibit A‑1, Tab 1, from the fifth to eighth page.
+[36] Exhibit A‑1, Tab 2, 2012-08-330 resolution.
+[37] Exhibit A‑1, Tab 10, T-661 form, MDCO project summary, page numbered 10.
+[38] See, inter alia, the purchase orders and invoicing at Tabs 6 and 7 of Exhibit A-1 where reference is made, for instance, to a [Translation] “milling machine protector”.
+[39] It was not shown that it was necessary to use unusual procedures or techniques.

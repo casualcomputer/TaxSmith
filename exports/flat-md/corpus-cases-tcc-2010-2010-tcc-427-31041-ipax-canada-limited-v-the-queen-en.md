@@ -1,0 +1,427 @@
+---
+title: "IPAX Canada Limited v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31041/index.do"
+last_modified: "2010-09-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 427"
+citation2: ""
+neutral_citation: "2010 TCC 427"
+decision_date: "2010-09-08"
+language: "en"
+item_id: "31041"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4877
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:02:36.667000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e544916d645163696226879b9075c8eb393ec342baf3c24b2e5052bd8ec08fc3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# IPAX Canada Limited v. The Queen
+
+- Citation: 2010 TCC 427
+- Decision date: 2010-09-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4877, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+IPAX Canada Limited v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-09-08
+Neutral citation
+2010 TCC 427
+File numbers
+2004-3464(GST)G
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2004-3464(GST)G
+BETWEEN:
+IPAX CANADA LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard together on common evidence with the appeals of Doreen Crawford (2004-4526(IT)G) and Garfield Crawford (2004-4527(IT)G) on April 15-16, 2010, and July 6-7, 2010 at Toronto, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Counsel for the Appellant:
+T. James Treloar
+Counsel for the Respondent:
+Lesley L'Heureux
+Ernesto Cáceres
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to the reassessment under the Excise Tax Act for the period May 1, 1994 to April 30, 2001 is allowed and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the Reasons for Judgment attached.
+If the parties are unable to reach an agreement with respect to costs by October 12, 2010, they may present written submissions by October 29, 2010.
+Signed at Ottawa, Canada, this 8th day of September, 2010.
+“V.A. Miller”
+V.A. Miller, J.
+Docket: 2004-4526(IT)G
+BETWEEN:
+DOREEN CRAWFORD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard together on common evidence with the appeals of IPAX Canada Limited (2004-3464(GST)G) and Garfield Crawford
+(2004-4527(IT)G) on April 15-16, 2010, and July 6-7, 2010
+at Toronto, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Counsel for the Appellant:
+T. James Treloar
+Counsel for the Respondent:
+Lesley L'Heureux
+Ernesto Cáceres
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to the Appellant’s 1995, 1996, 1997, 1998, 1999, and 2000 taxation years is allowed and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the Reasons for Judgment attached.
+If the parties are unable to reach an agreement with respect to costs by October 12, 2010, they may present written submissions by October 29, 2010.
+Signed at Ottawa, Canada, this 8th day of September, 2010.
+“V.A. Miller”
+V.A. Miller, J.
+Docket: 2004-4527(IT)G
+BETWEEN:
+GARFIELD CRAWFORD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard together on common evidence with the appeals of IPAX Canada Limited (2004-3464(GST)G) and Doreen Crawford
+(2004-4526(IT)G) on April 15-16, 2010, and July 6-7, 2010
+at Toronto, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Counsel for the Appellant:
+T. James Treloar
+Counsel for the Respondent:
+Lesley L'Heureux
+Ernesto Cáceres
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to the Appellant’s 1995, 1996, 1997, 1998, 1999, and 2000 taxation years is allowed and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the Reasons for Judgment attached.
+If the parties are unable to reach an agreement with respect to costs by October 12, 2010, they may present written submissions by October 29, 2010.
+Signed at Ottawa, Canada, this 8th day of September, 2010.
+“V.A. Miller”
+V.A. Miller, J.
+Citation: 2010TCC427
+Date: 20100908
+Docket: 2004-3464(GST)G
+BETWEEN:
+IPAX CANADA LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2004-4526(IT)G
+BETWEEN:
+DOREEN CRAWFORD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2004-4527(IT)G
+BETWEEN:
+GARFIELD CRAWFORD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller, J.
+[1] The income tax liability for Doreen Crawford and Garfield Crawford for the 1995, 1996, 1997, 1998, 1999 and 2000 taxation years was reassessed on a net worth basis to include the following amounts in income:
+Year
+Garfield Crawford
+Doreen Crawford
+1995
+$30,328
+$21,229
+1996
+$16,119
+$11,283
+1997
+$29,734
+$20,814
+1998
+$32,345
+$22,641
+1999
+$29,355
+$20,549
+2000
+$40,495
+$28,347
+The Minister of National Revenue (the “Minister”) relied on subsection 152(4) of the Income Tax Act (the “Act”) to reassess Doreen Crawford and Garfield Crawford’s 1995 taxation year beyond the statutory limitation period. The Minister relied on subsection 152(7) to assess the individual Appellants’ tax liability for the 2000 taxation year. Penalties pursuant to section 162 and subsection 163(2) of the Act were assessed for each of the individual Appellants.
+[2] The Appellant IPAX Canada Limited (“IPAX”) was reassessed for the period May 1, 1994 to April 30, 2001 to increase GST collectible from $244,948.78, which was the amount reported by IPAX, to $347,117.03. The Minister relied on subsection 298(4) of the Excise Tax Act (the “ETA”) to assess the quarterly reporting periods from May 1, 1994 to July 31, 1998 beyond the statutory limitation period. The Minister also assessed penalties pursuant to subsection 280(1) of the ETA.
+[3] IPAX was incorporated in 1979 with Garfield Crawford as sole shareholder, director and President of the company. It operated in Brampton, Ontario and was in the business of selling and servicing Beam central vacuum systems, security systems, skylights and garage doors. 1087847 Ontario Ltd. (“Beam of Barrie”) was incorporated in 1995 with Doreen and Garfield Crawford as equal shareholders. It carried on the same type of business as IPAX and it operated under the name Beam of Barrie.
+[4] The assessments for IPAX arose when the Minister found that there was a discrepancy between the sales reported by IPAX on its income tax returns and the sales reported on its GST returns. The evidence showed that the Canada Revenue Agency (“CRA”) contacted Mr. Crawford by telephone and letter on several occasions to arrange a meeting with him or his representative so that the books and records of IPAX could be reviewed. Mr. Crawford was totally uncooperative. He gave no information to Kirnal Matharu, the first auditor who worked on these files, or to Shawn Marshall, the auditor who produced the net worth statements for the individual Appellants.
+[5] Shawn Marshall stated that the first auditor who had worked on these files had obtained an Equifax credit report on Doreen Crawford which showed that she had various credit cards. He sent out requirements for information to American Express, the Toronto Dominion Bank and the Royal Bank of Canada in Brampton. On the basis of the information he received, Mr. Marshall wrote to Mr. and Mrs. Crawford on March 13, 2002 that they had understated their income for the years 1990 to 1995 and had failed to report income from 1996 to 2000 as their income tax returns had not been filed. On March 18, 2002, Garfield Crawford telephoned Mr. Marshall to say that his and his wife’s income tax returns for 1996 to 1999 had been filed. However, the evidence showed that the 1996, 1997, 1998 and 1999 income tax returns for Garfield Crawford and Doreen Crawford were only filed after the Appellants had been directed to file their returns. These returns were filed with the CRA on April 3, 2002.
+[6] The individual Appellants reported the following income:
+Year
+Garfield Crawford
+Doreen Crawford
+1995
+$1
+$1
+1996
+$10,000
+$7,000
+1997
+$10,000
+$7,000
+1998
+$10,000
+$7,000
+1999
+$11,000
+$7,500
+[7] Garfield Crawford stated that IPAX monitored alarm systems and it was the money which IPAX received for this service that he took as his income. He shared the money with his wife Doreen. In cross examination, he stated that he and Doreen received the following income:
+Year
+Doreen & Garfield Crawford
+1995
+$19,975
+1996
+$17,922
+1997
+$25,050
+1998
+$25,350
+1999
+$35,675
+However, they did not report the entire amounts on their income tax returns because they felt that they, as shareholders, had loaned so much money to IPAX[1] that they did not owe income taxes. They reported the income shown on their returns because CRA requested that they file income tax returns.
+Garfield and Doreen Crawford
+[8] Shawn Marshall produced the net worth statement for the Crawford household by calculating its Personal Expenditures based on Statistics Canada data for a family of two adults. He adjusted this data when he had additional information from cancelled cheques or credit card statements that indicated an amount different from the Statistics Canada amount for a specific item. In the calculation of the net worth, he included payments that reduced the mortgages on properties held by the Crawfords and he included the increases and decreases in the Due to Shareholder accounts in IPAX and Beam of Barrie. The discrepancy in total income was apportioned between Garfield and Doreen Crawford in accordance with the ratio of income reported by them.
+[9] Garfield and Doreen Crawford chose to challenge the net worth statement by disputing the amounts included as Personal Expenditures, by asserting that their personal expenditures were funded by non-taxable receipts of cash and by disputing the amount of the mortgage interest related to their principal residence and to a cottage property.
+[10] The Appellants submitted Financial Schedules (exhibit A-9) for the years under appeal. These schedules were produced by Terry Elder, a chartered accountant. Mr. Elder did not appear as a witness at the hearing of these appeals but the Notice to Reader contained at the beginning of these schedules reads as follows:
+NOTICE TO READER
+Based on information included in the documents listed in Schedule 6 and other information from Mr. and Mrs. Crawford, I have compiled the attached financial schedules with respect to Mr. Garfield Crawford and Mrs. Doreen Crawford for the calendar years ended 1996 to 2000.
+I have not performed an audit or a review engagement in respect of these financial schedules and, accordingly, I express no assurance thereon.
+These financial schedules have been prepared specifically in connection with a Pre-Hearing Conference at the Tax Court of Canada to be held in February 2009 and are not to be used for any other purpose,
+Personal Expenditures
+[11] One of the schedules included in exhibit A-9 was a schedule of Personal Expenditures which compared the amounts used by the CRA in the calculation of the net worth with amounts now put forward by the Crawfords. The Crawfords submitted documentary evidence to support only one of the amounts that they have used in their schedule for Personal Expenditures. I note that in exhibit A-9, Garfield Crawford disagreed with the amounts included in the net worth schedule for telephone expenses, medical expenses, eye care expenses and home entertainment expenses. However, at the examination for discovery he had agreed with the amounts used for these expenses in the net worth statements.
+[12] During the period under appeal, the Crawfords owned a principal residence at 74 Main Street, in Brampton, Ontario and Garfield Crawford had an interest in a cottage property. Each property had a mortgage on it. The Crawfords disputed the amount of mortgage interest included in the calculation of Personal Expenditures for these properties. The auditor who produced the net worth statements included the total mortgage interest paid on the principal residence and 75% of the mortgage interest paid on the cottage property in his calculation of Personal Expenditures.
+[13] It was the Crawfords’ position that the mortgage loan on their principal residence was obtained to inject money into IPAX. They stated that prior to 1992, IPAX obtained all loans in its own name and the loans were secured by a mortgage on their principal residence. However, their banker told them that they could get a better interest rate if the loans were in their personal names and they decided to follow his advice. They mortgaged their principal residence and the funds derived from the mortgage were loaned to IPAX.
+[14] The Appellants have submitted sufficient documentary evidence to support their position[2] with respect to the mortgage interest for their principal residence. The category marked mortgage interest in Personal Expenditures is to be reduced to the amounts of $6,734, $6,972, $5,999, $5,224, $4,993 and $5,089 for 1995, 1996, 1997, 1998, 1999 and 2000 respectively.
+[15] It was also Garfield Crawford’s position that he owned only 25% of the cottage property and the mortgage interest included in the Personal Expenditures schedule should be changed to reflect this. However, Mr. Crawford’s position is not supported by the documentary evidence. According to the mortgage document, Garfield Crawford owned 50% of the cottage property.[3] The amount of interest expense included in Personal Expenditures for the cottage property is to be reduced to reflect that Garfield Crawford owned 50% of this property.
+[16] The Crawfords have disagreed with the majority of the amounts included in the Personal Expenditures Schedule. The onus was on them to convince the Court that the amounts used by the auditor for personal expenditures were incorrect. They have been successful in this regard only with respect to the amounts used for mortgage interest expense.
+Receipts of Money
+[17] The Respondent has conceded that Garfield Crawford received the amount of $30,000 in January 1996 from the settlement of a court action. It was also conceded that he received insurance proceeds in the amounts of $8,267.18 and $1,953.15 in September 1996.
+[18] Garfield Crawford presented evidence which showed that he received a pension in 1999 and 2000 from the Workplace Safety & Insurance Board (“WSIB”). As well, he tendered a T5007 form from the WSIB which confirmed that he received $1,455.36 in 2001. It was his evidence that the WSIB compensation would have been in the approximate amount of $100/month for each of the years 1995 to 2000. The documents tendered by Mr. Crawford support his position[4]. However, contrary to Mr. Crawford’s belief, these amounts of compensation form part of his income and are to be included in his income.
+[19] Garfield Crawford has also stated that he had access to the pensions which were received by his step-father and his brother. However, he has not presented any evidence to support that these amounts were cash receipts given to him. The fact that he and his step-father had a joint bank account does not mean that the amounts deposited in that account belonged to Garfield Crawford. His step-father received only pension income during the relevant years and it was used to care for him so that he could live in his own home until 2001.
+[20] It was Garfield Crawford’s evidence that his brother was a schizophrenic and he had power of attorney over his brother’s affairs since 1995. His brother received a disability pension from the Canada Pension Plan (“CPP”) which was deposited into an account with the Bank of Montreal. The evidence showed that on November 16, 1998, Mr. Crawford wrote a cheque[5] on his brother’s bank account for the amount of $5,000. The cheque was made payable to IPAX. According to the passbook for this account, there were no other withdrawals from this account. The monies in this account were not owned by Garfield Crawford and were not non-taxable amounts received by him.
+[21] The individual Appellants alleged that they had other non-taxable amounts of money during the period. They were as follows:
+1995
+1996
+1997
+1998
+1999
+2000
+Sale of
+Art etc.
+$3,000
+$4,200
+$1,500
+Garage
+Sales
+$4,000
+$8,000
+$8,000
+$8,000
+$8,000
+$8,000
+Sale of
+Cars
+$8,500
+$10,500
+$3,150
+$11,800
+$1,500
+$4,050
+Casino
+Winnings
+$5,000
+$3,200
+[22] All of the amounts included in the table at paragraph 21 were estimates given by the individual Appellants. There was no documentation to support that they had access to any of these amounts. I find it totally implausible that the individual Appellants had annual sales of $8,000 from garage sales or that they earned the amounts they allege from the sale of cars. As well, on February 4, 2004, when Garfield Crawford was interviewed by Mr. Liu, the appeals officer, he was asked if he gambled. At that time he could not indicate any amount that he won as he said that the amounts were not significant. However, in 2009, when he prepared exhibit A-9 he could not only specify amounts that he allegedly won but he could also specify a time frame when the amounts were won. The Crawfords’ evidence with respect to these amounts of non-taxable receipts is totally self serving.
+[23] Based on the evidence which was before me, I have no difficulty in reaching the conclusion that the Minister was justified in opening the statute-barred years for Garfield Crawford and Doreen Crawford. They made misrepresentations relating to their income which were akin to wilful default.
+[24] I have also concluded that the Minister has satisfied the onus with respect to the imposition of penalties on the individual Appellants. They did not file their income tax returns for 1996, 1997, 1998 and 1999 until requested to do so. They did not file an income tax return for 2000. When they filed their returns for 1996 to 1999, they reported less income than they knew they had taken from IPAX. The amounts included in their income as a result of the net worth assessment are significant in comparison to the amounts of income declared by the individual Appellants.
+IPAX
+[25] The Minister assessed the GST liability for IPAX as shown in Schedule A attached to these reasons.
+[26] Clara Massara, an appeals officer with the CRA, testified that she met with Garfield Crawford and his accountant, Bruce Berry on December 9, 2003. Mr. Berry told her that he had prepared the income tax returns (“T2s”) for IPAX but its GST returns were prepared by an employee of IPAX[6]. He explained to Ms. Massara that the reason for the discrepancy between the sales reported on the T2s and those reported on the GST returns was as a result of inter-company sales from IPAX to Beam of Barrie. IPAX purchased all product used by both companies and product was transferred to Beam of Barrie as it was needed. At year end, he made an adjustment to account for these inter-company transactions. Beam of Barrie was not charged GST on these inter-company sales. If it had been charged GST, Beam of Barrie would have been entitled to ITCs for the inter-company purchases. Ms. Massara stated that she suggested that the transactions sounded like a “Wash Transaction”; the assessment would stand but perhaps the interest and penalty could be reduced. She stated that at the end of the meeting, she requested various documents and Mr. Berry was going to see if Beam of Barrie could claim the offsetting ITCs.
+[27] Ms. Massara stated that after she reviewed the financial statements filed with Beam of Barrie’s T2s and the net tax claimed by Beam of Barrie for GST purposes, she concluded that Beam of Barrie had claimed ITCs on all of the inter-company purchases[7]. She did not reduce the penalty assessed to IPAX because all of IPAX’s GST returns had been filed late.
+[28] At the hearing of these appeals, it was the Appellants’ position that the flow of money from Beam of Barrie to IPAX was a transfer of funds only. There was no transfer of product between the two companies as Beam of Barrie purchased its own inventory. It was also the Appellants’ position that some of the funds included in sales by their former accountant, Mr. Berry[8], were shareholder loans from Garfield Crawford.
+[29] Mr. Wayne Matheson, a chartered accountant, testified on behalf of the Appellants. He produced portions of the general ledger for IPAX, cheques from Beam of Barrie to IPAX and some deposit slips for IPAX’s bank account. It was his evidence that these documents supported the Appellants’ position and that Mr. Berry made a mistake when he prepared the T2 returns for IPAX.
+[30] I have given no weight to Mr. Matheson’s evidence. He relied on portions of the general ledger for IPAX but at no time was the entire general ledger presented to the court. His evidence was totally opinion evidence as he had no first hand knowledge of any of the documents.
+[31] The documents given to the CRA at the objection stage of these appeals do not support the Appellants’ position. At the objection stage of these files, Mr. Crawford gave the CRA the cheques which Beam of Barrie had issued to IPAX. Most of these cheques from Beam of Barrie to IPAX were marked with the notation “Re: Product”. In conclusion on this point, the Notice of Appeal filed in IPAX’s appeal does not support the position taken by the Appellants at the hearing of these appeals. In the Notice of Appeal, at paragraph 10 and 12, it is admitted:
+10. The two companies conduct day to day business in an integrated fashion. For simplicity and pragmatic reasons, IPAX purchases all inventory, almost exclusively from the franchisor Beam of Canada Ltd. When required by either company, the inventory was taken to the jobsite for incorporation into the contracts underway.
+…
+12. IPAX purchases all inventory in its name and claims the Input Tax Credits, “ITC”, for the GST paid to the suppliers.
+[32] I have also concluded that Garfield Crawford did not lend any monies to IPAX beyond that shown in IPAX’s financial statements. I have given no weight to the deposit slips tendered as evidence of shareholder loans. It was very clear that the notation “shareholders loan” had been written on some of the deposit slips subsequent to the date on the slip. Because the deposit slips have been photocopied many times, I have not been able to ascertain, with any certainty, whether any of the notations “shareholder loan” appeared on the original deposit slips.
+[33] Based on the evidence before me, I conclude that the Minister was justified in opening the statute-barred period for IPAX. There was a significant difference between the sales reported in the T2s and the GST returns. The fact that an adjusting entry had to be made each year in order to properly calculate the sales for the financial statements ought to have alerted the accountant or Mr. Crawford that there would be GST implications from this journal entry.
+[34] The appeals for Garfield Crawford and Doreen Crawford are allowed in accordance with these reasons. The appeal for IPAX is allowed to adjust the amount included in its revenue from the net worth calculations for the individual Appellants.
+[35] If the parties are unable to reach an agreement with respect to costs by October 12, 2010, they may present written submissions by October 29, 2010.
+Signed at Ottawa, Canada, this 8th day of September, 2010.
+“V.A. Miller”
+V.A. Miller, J.
+Schedule A
+IPAX CANADA LIMITED
+Year End: April 30
+Subject: Calculate re-assessment by correcting the derived sales, including Net Worth T2 adjustments & tax-included vs. tax-extra
+YEAR ENDING
+05-01-94 to
+04-30-95
+05-01-95 to
+04-30-96
+05-01-96 to
+04-30-97
+05-01-97 to
+04-30-98
+05-01-98 to
+04-30-99
+05-01-99 to
+04-30-00
+05-01-00 to
+04-30-01
+Gross Revenue – T2 Return:
+702,406.00
+551,404.00
+476,838.00
+740,952.00
+835,775.00
+760,088.00
+736,175.00
+Gross Revenue after T2 Audit:
+17,186.00
+43,505.00
+35,118.00
+52,027.00
+53,292.00
+56,217.00
+& confirmed by Appeals
+719,592.00
+594,909.00
+511,956.00
+792,979.00
+889,067.00
+816,305.00
+736,175.00
+** Derived GST Revenue:
+590,835.57
+497,590.14
+392,972.43
+358,017.29
+571,895.43
+549,852.29
+538,105.14
+Unreported GST Revenue:
+128,756.43
+97,318.86
+118,983.57
+434,961.71
+317.171.57
+266,452.71
+198,069.86
+*
+x 7/107 =
+x 7/107 =
+x 7/107 =
+x 7/107 =
+x 7/107 =
+x 7/107 =
+x 7/107 =
+GST Owing:
+8,423.32
+6,366.65
+7,783.97
+28,455.44
+20,749.54
+17,431.49
+12,957.84
+/ 4 quarters
+/ 4 quarters
+/ 4 quarters
+/ 4 quarters
+/ 4 quarters
+/ 4 quarters
+/ 4 quarters
+Additional GST per quarter:
+2,105.83
+1,591.66
+1,945.99
+7,113.86
+5,187.39
+4,357.87
+3,239.46
+SUMMARY:
+Total Additional GST / quarter:
+$ 25,542.06
+TOTAL additional GST:
+$ 102,168.25
+Total GST Assessment:
+$ 105,556.76
+Amount Over-Assessed:
+-$ 3,388.51
+** Note: Revenue for GST purposes was determined by taking the amount identified on the IPAX GST account as “GST Collected” and dividing this figure by 7% to obtain the “derived sales” of the corporation.
+* Auditor assessed 7% tax-extra and Appeals re-assessment calculated on a tax-included basis (7/107)
+CITATION: 2010TCC427
+COURT FILE NO.: 2004-3464(GST)G
+2004-4526(IT)G
+2004-4527(IT)G
+STYLE OF CAUSE: IPAX CANADA LIMITED AND
+HER MAJESTY THE QUEEN
+DOREEN CRAWFORD AND
+HER MAJESTY THE QUEEN
+GARFIELD CRAWFORD AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: April 15-16, 2010 and July 6-7, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: September 8, 2010
+APPEARANCES:
+Counsel for the Appellant:
+T. James Treloar
+Counsel for the Respondent:
+Lesley L'Heureux
+Ernesto Cáceres
+COUNSEL OF RECORD:
+For the Appellant:
+Name: T. James Treloar
+Firm: T. James Treloar Professional Corporation
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Transcript, page 249, lines 19 to 25
+[2] See exhibit A-6, tab 9 and exhibit A-4, tabs 2 and 3
+[3] See exhibit R-2, tab 23, page 2
+[4] See exhibit A-8, Tab 7
+[5] See exhibit A-7, tab 5, page 4
+[6] Doreen Crawford testified that she prepared the quarterly returns for IPAX.
+[7] That Beam of Barrie had claimed ITCs on all of the inter-company transfers of product was confirmed by a letter dated April 7, 2004 from Mr. Berry. See exhibit R-1, tab 16.
+[8] Mr. Berry died prior to the hearing of these appeals.

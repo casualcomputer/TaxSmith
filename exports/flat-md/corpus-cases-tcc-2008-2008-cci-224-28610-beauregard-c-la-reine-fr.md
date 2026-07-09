@@ -1,0 +1,138 @@
+---
+title: "Beauregard c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28610/index.do"
+last_modified: "2008-04-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 224"
+citation2: ""
+neutral_citation: "2008 CCI 224"
+decision_date: "2008-04-18"
+language: "fr"
+item_id: "28610"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1142
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:53:17.497000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "bbcacf2dd8b047afc767fb718ae798ef623b8418290a3ce38f66389752d7b79e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Beauregard c. La Reine
+
+- Citation: 2008 CCI 224
+- Decision date: 2008-04-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1142, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Beauregard c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-04-18
+Référence neutre
+2008 CCI 224
+Numéro de dossier
+98-3262(IT)I
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 98-3262(IT)I
+98-3695(IT)I
+ENTRE :
+MARCEL BEAUREGARD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 7 avril 2008, à Montréal (Québec).
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Pour l'appelant :
+l’appelant lui-même
+Avocats de l'intimée :
+Me Philippe Dupuis
+Me Simon Petit
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1987 et 1989 sont rejetés, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 18e jour d'avril 2008.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Référence : 2008CCI224
+Date : 20080418
+Dossiers : 98-3262(IT)I
+98-3695(IT)I
+ENTRE :
+MARCEL BEAUREGARD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+[1] Les années d’imposition en cause sont 1987 et 1989. Les sociétés en question sont : la Société de recherche audio-digitale enr. et la Société E.C.T. Systems.
+[2] Au début de son bref témoignage, l’appelant a relaté qu’il n’avait pas reçu la lettre de l’Agence du Revenu du Canada dont avait parlé un des avocats de l’intimée lors du témoignage d’un autre appelant au cours de la même audience. Cette lettre avait trait à la modification proposée de restreindre dans le temps l’application de la disposition prévoyant le pouvoir du ministre du Revenu national (le « Ministre ») de renoncer aux intérêts. Cette disposition est le paragraphe 220(3.1) de la Loi de l’impôt sur le revenu (la « Loi »).
+[3] Il me faut dire immédiatement que les débats judiciaires relatifs à la décision du Ministre de renoncer ou non, en totalité ou en partie, aux pénalités et intérêts, sont du ressort de la Cour fédérale du Canada et non de notre Cour.
+[4] Toutefois, pour l’information de l’appelant, je cite le paragraphe pertinent de la Loi et l’historique de cet article :
+220(3.1) Renonciation aux pénalités et aux intérêts -- Le ministre peut, au plus tard le jour qui suit de dix années civiles la fin de l'année d'imposition d'un contribuable ou de l'exercice d'une société de personnes ou sur demande du contribuable ou de la société de personnes faite au plus tard ce jour-là, renoncer à tout ou partie d'un montant de pénalité ou d'intérêts payable par ailleurs par le contribuable ou la société de personnes en application de la présente loi pour cette année d'imposition ou cet exercice, ou l'annuler en tout ou en partie. Malgré les paragraphes 152(4) à (5), le ministre établit les cotisations voulues concernant les intérêts et pénalités payables par le contribuable ou la société de personnes pour tenir compte de pareille annulation.
+Historique : Le paragraphe 220(3.1) a été remplacé par L.C. 2005, ch. 19, par. 48(1), applicable à compter de 2005. Toutefois, si un contribuable ou une société de personnes en fait la demande au ministre du Revenu national en vertu du paragraphe 220(3.1) pour une année d’imposition ou un exercice, ce paragraphe est réputé être libellé comme suit pour cette année d’imposition ou cet exercice :
+« (3.1) Le ministre peut renoncer à tout ou partie d’un montant de pénalité ou d’intérêts payable par ailleurs par un contribuable ou une société de personnes en application de la présente loi pour une année d’imposition ou un exercice, ou l’annuler en tout ou en partie. Malgré les paragraphes 152(4) à (5), le ministre établit les cotisations voulues concernant les intérêts et pénalités payables par le contribuable ou la société de personnes pour tenir compte de pareille annulation. »
+Ce paragraphe se lisait antérieurement comme suit :
+« (3.1) Le ministre peut, à tout moment, renoncer à tout ou partie de quelque pénalité ou intérêt payable par ailleurs par un contribuable ou une société de personnes en application de la présente loi, ou l'annuler en tout ou en partie. Malgré les paragraphes 152(4) à (5), le ministre établit les cotisations voulues concernant les intérêts et pénalités payables par le contribuable ou la société de personnes pour tenir compte de pareille annulation. »
+Le paragraphe 220(3.1) a été modifié par L.C. 1994, ch. 7, ann. VIII, par. 127(2) applicable aux années d'imposition 1985 et suivantes. Le paragraphe 220(3.1) se lisait antérieurement comme suit :
+« (3.1) Le ministre peut, à tout moment, renoncer à tout ou partie de quelque pénalité ou intérêt payable par ailleurs par un contribuable ou une société de personnes en application de la présente loi, ou l'annuler en tout ou en partie. »
+Le paragraphe 220(3.1) a été ajouté par L.C. 1994, ch. 7, ann. II, par. 181(1), applicable aux pénalités et aux intérêts relatifs aux années d'imposition 1985 et suivantes.
+[5] La circulaire d’information relative à cet article porte le numéro IC 98‑1R2.
+[6] Je reviens au sujet même de ces appels. Pour les deux années en litige le point principal était de savoir s’il existait une société véritable et si oui, si elle exploitait une entreprise. Pour l’année 1987 il y avait le point additionnel de l’admissibilité des dépenses comme dépenses en recherche scientifique et développement expérimental.
+[7] L'appelant a informé la Cour qu’il n’avait pas l’intention de présenter une preuve contraire aux affirmations du Ministre.
+[8] Les avocats de l’intimée ont alors demandé le rejet de l’appel en faisant valoir que l’appelant ne s’était pas déchargé de son fardeau de la preuve. Ils se sont également référés à diverses décisions de cette Cour relatives aux mêmes projets de recherche ou des projets analogues. Elles ont toutes, en conclusion, rejeté les appels. Ces décisions sont : McKeown c. Canada, [2001] A.C.I. no 236 (QL), Boudreault c. Canada, [2005] A.C.I. no 518 (QL), Brillon c. Canada, [2006] A.C.I. no 51 (QL); Binette c. Canada, [2006] A.C.I. no 80 (QL), Amar c. Canada, [2006] A.C.I. no 315 (QL), Raby c. Canada, [2006] A.C.I. no 365 (QL), Rouleau c. Canada, [2007] A.C.I. no 367 (QL), Lauger c Canada, [2007] A.C.I. no 434 (QL), Simard c. Canada, [2007] A.C.I. no 483 (QL), Foster c. Canada, [2007] A.C.I. no 538 (QL).
+[9] En ce qui concerne le fardeau de la preuve d’un contribuable en appel d’une cotisation, depuis l’arrêt de la Cour suprême du Canada dans Johnston c. M.N.R., [1948] R.C.S. 486, la jurisprudence a été constante : il incombe au contribuable d’établir que les présomptions de fait sur lesquelles le Ministre s’est fondé pour établir la cotisation sont erronées. Cette conclusion de la jurisprudence a de nouveau été confirmée par la Cour suprême du Canada en 2006 dans l’arrêt Placer Dome Canada Ltd c. Ontario (Ministre des finances), [2006] 1 R.C.S. 715.
+[10] Dans les circonstances de ces appels, soit l’existence d’une société et l’admissibilité des recherches en tant que répondant aux critères de l’article 2900 du Règlement de l’impôt sur le revenu, les présomptions de fait du Ministre sont déterminantes quant à l’issue de ces appels. L’appelant devait donc présenter une preuve à l’encontre de ces présomptions de fait, ce qu’il n’a pas fait.
+[11] En conséquence, les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1987 et 1989 doivent être rejetés.
+Signé à Ottawa, Canada, ce 18e jour d’avril 2008.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE : 2008CCI224
+Nºs DES DOSSIERS DE LA COUR : 98-3262(IT)I et 98-3695(IT)I
+INTITULÉ DE LA CAUSE : MARCEL BEAUREGARD c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 7 avril 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge Louise Lamarre Proulx
+DATE DU JUGEMENT : le 18 avril 2008
+COMPARUTIONS :
+Pour l'appelant :
+l'appelant lui-même
+Avocats de l'intimée :
+Me Philippe Dupuis
+Me Simon Petit
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

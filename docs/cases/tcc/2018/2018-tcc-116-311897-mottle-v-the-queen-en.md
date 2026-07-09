@@ -1,0 +1,142 @@
+---
+title: "Mottle v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/311897/index.do"
+last_modified: "2018-06-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 TCC 116"
+citation2: ""
+neutral_citation: "2018 TCC 116"
+decision_date: "2018-06-20"
+language: "en"
+item_id: "311897"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5087
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:45:25.155000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f9043970cd68448c56b7cf7900c49e5659cecc9d815c88a29138cd9655b258a2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mottle v. The Queen
+
+- Citation: 2018 TCC 116
+- Decision date: 2018-06-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5087, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mottle v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-06-20
+Neutral citation
+2018 TCC 116
+File numbers
+2017-2230(IT)I
+Judges and Taxing Officers
+Bruce Russell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2017-2230(IT)I
+BETWEEN:
+SANDRA ANNE MOTTLE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on April 24, 2018, at Kelowna, British Columbia
+Before: The Honourable Justice B. Russell
+Appearances:
+Agent for the Appellant:
+Robert Wignall
+Counsel for the Respondent:
+Marta Zemojtel
+JUDGMENT
+The appeal from the assessment raised December 11, 2015 under the Income Tax Act (Canada) is dismissed, without costs.
+Signed at Ottawa, Canada, this 20th day of June 2018.
+“B. Russell”
+Russell J.
+Citation: 2018TCC116
+Date: 20180620
+Docket: 2017-2230(IT)I
+BETWEEN:
+SANDRA ANNE MOTTLE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Russell J.
+[1] The Appellant, Ms. Mottle, has appealed (informal procedure) an assessment of her liability in the amount of $10,849.92 under the Income Tax Act (Canada) (Act) in respect of a non-arm’s length transfer of property to her. The assessment was raised by the Minister of National Revenue (Minister) on December 11, 2015, per subsection 160(2) of the Act. It is based on the Minister’s assumption that as of that date the Appellant’s spouse had an outstanding debt under the Act of $37,350.08 and that during the period September 6, 2013 to July 18, 2014 the Appellant’s spouse caused his employment paycheques to be electronically deposited into Ms. Mottle’s bank account.
+[2] This occurred on 20 different occasions during the said period, amounting to a total transferred as of July 18, 2014 of $10,849.92. The Respondent also pleaded as an assumption, which was not challenged, that the spouse’s debt under the Act as of April 22, 2013 was $36,255.55 and remained at that amount until June 23, 2014 when it was increased by $94.53 to the amount noted above of $37,350.08 as of the date of assessment. Thus the tax debt well exceeded the particular amount transferred on each of the said 20 occasions during the said September 6, 2013 to July 18, 2014 period.
+[3] The individual amounts transferred ranged from $100 on May 17, 2014 to $1,500 on September 6, 2013. The reason given for these transfers into the Appellant’s bank account was that the Appellant’s spouse did not himself have a bank account and it was convenient for his employer, an individual who was often out of town, to be able to pay the spouse’s wages by email transfer.
+[4] Do these 20 e-transfers of the Appellant’s spouse’s employment pay from his employer directly into the Appellant’s account constitute transfers under subsection 160(1) of the Act? That subsection provides:
+Tax liability re property transferred not at arm’s length
+160 (1) Where a person has, on or after May 1, 1951, transferred property, either directly or indirectly, by means of a trust or by any other means whatever, to
+(a) the person’s spouse or common-law partner or a person who has since become the person’s spouse or common- law partner,
+(b) a person who was under 18 years of age, or
+(c) a person with whom the person was not dealing at arm’s length,
+the following rules apply:
+(d) the transferee and transferor are jointly and severally, or solidarily, liable to pay a part of the transferor’s tax under this Part for each taxation year equal to the amount by which the tax for the year is greater than it would have been if it were not for the operation of sections 74.1 to 75.1 of this Act and section 74 of the Income Tax Act, chapter 148 of the Revised Statutes of Canada, 1952, in respect of any income from, or gain from the disposition of, the property so transferred or property substituted for it, and
+(e) the transferee and transferor are jointly and severally, or solidarily, liable to pay under this Act an amount equal to the lesser of
+(i) the amount, if any, by which the fair market value of the property at the time it was transferred exceeds the fair market value at that time of the consideration given for the property, and
+(ii) the total of all amounts each of which is an amount that the transferor is liable to pay under this Act (including, for greater certainty, an amount that the transferor is liable to pay under this section, regardless of whether the Minister has made an assessment under subsection (2) for that amount) in or in respect of the taxation year in which the property was transferred or any preceding taxation year,
+but nothing in this subsection limits the liability of the transferor under any other provision of this Act or of the transferee for the interest that the transferee is liable to pay under this Act on an assessment in respect of the amount that the transferee is liable to pay because of this subsection.
+[5] It can be seen that this provision applies to a comprehensive range of transfers - i.e. transfers of property, “…either directly or indirectly, by means of a trust or by any other means whatever…”. This wording is strikingly broad, and is so to enable capture of even very circuitous routings in respect of property being moved from tax debtor transferor to non-arm’s length transferee. I consider that this statutory language readily encompasses the situation in the case at bar whereby the Appellant’s spouse tax debtor caused his employment wage payments to be sent by his employer directly into the Appellant’s account. This is a transfer “by any other means whatever”.
+[6] The Appellant’s basic argument, made through her accountant representative, was that a substantial amount of this money that was transferred was earmarked for defraying household and family expenses. Evidence was introduced including bank account statements said to be reflecting household expenditures utilizing money received from the spouse’s employer by e-transfer. On this point, at the conclusion of the hearing I requested that both parties consider the decision of Yates v. Her Majesty, 2009 FCA 50, and provide written representations accordingly. This was done.
+[7] In this appellate decision of Yates, the appellant’s spouse, a tax debtor, had deposited his paycheques into his wife’s bank account. The Federal Court of Appeal (FCA) had no difficulty confirming the Tax Court decision below that this constituted a transfer. But the FCA further made clear that section 160 allowed no ability to view as consideration for the transfer the use or intended use of any of the transferred money for household or family expenses regardless of any legal obligation for the making of such expenditures.
+[8] The point was most clearly expressed in the concurring decision of Blais, J.A. at para. 67:
+A plain language interpretation of subsection 160(1) does not allow for a family law exception, nor does it allow for an exception for household expenses. If Parliament had wanted to provide for such exemptions, it would have done so expressly. It is not for our Court to read these exemptions into the Act.
+[9] Accordingly, I am obliged to deny the appeal, albeit without costs.
+Signed at Ottawa, Canada, this 20th day of June 2018.
+“B. Russell”
+Russell J.
+CITATION:
+2018TCC116
+COURT FILE NO.:
+2017-2230(IT)I
+STYLE OF CAUSE:
+SANDRA ANNE MOTTLE AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Kelowna, British Columbia
+DATE OF HEARING:
+April 24, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Russell
+DATE OF JUDGMENT:
+June 20, 2018
+APPEARANCES:
+Agent for the Appellant:
+Robert Wignall
+Counsel for the Respondent:
+Marta Zemojtel
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

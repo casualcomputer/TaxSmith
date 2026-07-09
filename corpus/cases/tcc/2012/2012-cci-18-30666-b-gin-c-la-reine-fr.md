@@ -1,0 +1,186 @@
+---
+title: "Bégin c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30666/index.do"
+last_modified: "2012-01-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 18"
+citation2: ""
+neutral_citation: "2012 CCI 18"
+decision_date: "2012-01-12"
+language: "fr"
+item_id: "30666"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7225
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:51:21.549000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0bd9d0251a9d865f2c76657e607ee0284eb23e4a353e1600f6bd04e3149ed0c8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bégin c. La Reine
+
+- Citation: 2012 CCI 18
+- Decision date: 2012-01-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7225, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bégin c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-01-12
+Référence neutre
+2012 CCI 18
+Numéro de dossier
+2010-2986(IT)I
+Juges et Officiers taxateurs
+Johanne D’Auray
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-2986(IT)I
+ENTRE :
+ANDRÉ BÉGIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 21 octobre 2011, à Montréal (Québec).
+Devant : L'honorable juge Johanne D'Auray
+Comparutions :
+Avocat de l'appelant :
+Me Serge Fournier
+Avocat de l'intimée :
+Me Gabriel Girouard
+____________________________________________________________________
+JUGEMENT
+Les appels des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2005 et 2006 sont rejetés.
+Signé à Ottawa, Canada, ce 12e jour de janvier 2012.
+« Johanne D’Auray »
+Juge D'Auray
+Référence : 2012 CCI 18
+Date : 20120112
+Dossier : 2010-2986(IT)I
+ENTRE :
+ANDRÉ BÉGIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge D'Auray
+[1] Les questions en litige dans le présent appel sont les suivantes :
+- Est-ce que le ministre était justifié d’ajouter aux revenus de l’appelant des commissions s’élevant à 33 883 $ pour l’année d’imposition 2005 et à 28 400 $ pour l’année d’imposition 2006 en vertu du paragraphe 9(1) de la Loi de l’impôt sur le revenu (la « Loi ») ?
+- Si je décidais que les commissions étaient imposables en vertu du paragraphe 9(1) de la Loi, est-ce que le ministre serait justifié de refuser à titre de déduction les primes rattachées auxdites polices d’assurance vie en vertu de l’alinéa 18(1)(h) de la Loi ?
+LES FAITS
+[2] Les faits suivants ont été admis par l’appelant à l’audience :
+a) L’appelant était courtier en assurance vie.
+b) Au cours des années en question, l’appelant a, parallèlement à ses activités habituelles en assurance vie, mis en place une activité commerciale lui permettant de réaliser des profits en souscrivant des polices d’assurance vie individuelles pour lui-même, sa conjointe et son père.
+c) L’appelant tirait un profit de cette activité, car les commissions qu’il recevait relativement à ces assurances vie individuelles étaient supérieures aux primes déboursées.
+d) Pour les années d’imposition 2005 et 2006, l’appelant a reçu, à titre de commissions pour les polices d’assurance vie individuelles, des montants de 33 883 $ et de 28 400 $ respectivement.
+e) Pour les années d’imposition 2005 et 2006, l’appelant a versé, à titre de primes d’assurance vie individuelles, des montants de 20 826 $ et de 15 721 $.
+f) L’appelant était le bénéficiaire des assurances vie de sa conjointe et de son père. Sa conjointe était la bénéficiaire de l’assurance vie de l’appelant.
+g) Pendant leur période d’assurance, l’appelant, sa conjointe et son père ont bénéficié des protections prévues dans ces polices.
+h) L’appelant savait, lors de la signature des contrats, qu’il allait abandonner les polices d’assurance vie peu de temps avant la fin de la période minimale d’adhésion qui était de 24 mois.
+i) La maison de courtage avec laquelle l’appelant faisait des affaires payait les primes relatives aux polices d’assurance vie individuelles à même le versement des commissions.
+j) L’objectif de l’appelant était de gagner un revenu en utilisant à son avantage le système de rémunération de certaines compagnies d’assurance vis-à-vis leurs vendeurs.
+[3] Lors de la production de ses déclarations de revenus, l’appelant a déclaré des revenus bruts de commissions s’élevant à 4 652 $ et à 1 892 $ pour les années d’imposition 2005 et 2006 respectivement. L’appelant a expliqué à l’Agence du Revenu du Canada (ARC) lors de la production de ses déclarations de revenus pourquoi, selon lui, il n’avait pas à inclure dans ses revenus les sommes reçues pour les commissions relatives aux assurances vie individuelles.
+[4] Les Assurances Luc Deguire Inc., le payeur, a produit des T4A indiquant des montants de 34 500 $ et de 28 400 $ pour les années d’imposition 2005 et 2006 respectivement. Ces sommes incluaient le montant de commissions que l’appelant avait reçu pour les polices d’assurance vie individuelles qu’il avait souscrites sur sa vie, celle de sa conjointe et celle de son père.
+[5] À l’audience, l’appelant a fait valoir que les commissions qu’il a reçues à l’égard des polices d’assurance vie individuelles ne devraient pas être incluses dans le calcul de ses revenus pour les années d’imposition 2005 et 2006. Subsidiairement, il a fait valoir que, si les commissions doivent être incluses à titre de revenu d’entreprise, les primes devraient être déductibles comme dépenses engagées dans le but de tirer un revenu d’entreprise.
+[6] À l’appui de sa thèse, il se réfère au paragraphe 27 du Bulletin d’interprétation IT-470 R qui se lit comme suit :
+[…] lorsqu’un vendeur d’assurance-vie acquiert une police d’assurance-vie et qu’il touche une commission sur cette police, celle-ci n’est pas imposable pourvu que le vendeur soit propriétaire de la police et qu’il soit tenu de verser les primes exigées à l’égard de cette police.
+[7] Cela étant dit, l’ARC a aussi mentionné que le paragraphe 27 du Bulletin ne vise que les cas où l’achat des polices a été fait dans un but personnel et non pas à titre d’investissement ou pour gagner un revenu d’entreprise.
+[8] Dans le cas présent, il a été admis à différentes reprises que l’achat des polices d’assurance vie individuelles par l’appelant avait été fait pour augmenter ses revenus. Je cite les paragraphes 2, 4 et 8 de l’avis d’appel :
+2. Au cours des années d’imposition 2005 et 2006, l’Appelant en plus des ses activités habituelles en assurances-vie a mis en place une activité commerciale lui permettant de réaliser des profits, soit la différence entre le montant des primes versées pour une assurance-vie spécifique et le montant des commissions versées par les assureurs en regard de ces assurances.
+[…]
+4. Ainsi, de façon parallèle à ses activités de courtier en assurances-vie, l’Appelant a mis en place diverses assurances-vie dont il a [sic] acquittait les primes et ce, de façon à obtenir des commissions pour par la suite laisser expirer les assurances sans avoir à rembourser les commissions reçues.
+[…]
+8. L’Appelant n’a jamais eu l’intention de maintenir ces polices d’assurance-vie après la période nécessaire à rendre acquises les commissions reçues en regard desdites assurances.
+[9] L’appelant a d’ailleurs confirmé ces allégations de faits lors de son témoignage à l’audience.
+ANALYSE
+[10] Je tiens d’abord à souligner que je ne suis pas liée par le Bulletin d’interprétation[1]. De plus, même s’il y avait un doute sur le sens de la Loi, je suis d’avis que l’appelant ne peut soulever ce bulletin dans le présent appel; l’appelant a acheté les polices d’assurance vie non pas dans un but personnel, mais plutôt pour gagner un revenu d’entreprise.
+[11] L’appelant me demande aussi de ne pas tenir compte de la décision Bilodeau[2], rendue par ma collègue, la juge Lamarre.
+[12] Dans cette décision, M. Bilodeau avait souscrit des polices d’assurance vie universelles avec des coûts d’assurance garantis pour lui et sa conjointe. Comme l’explique la juge Lamarre dans sa décision :
+[4] […] celui qui investit dans une telle police investit une somme plus importante dès le début, laquelle est déposée dans un fonds, dont les revenus s’accumulent libre d’impôt et servent à payer le coût d’assurance sur une période moyenne d’environ 5 à 7 ans, selon le taux de rendement dans le fonds.
+M. Bilodeau alléguait qu’il avait acquis les polices d’assurance à des fins personnelles, car il n’y avait aucune valeur de rachat pour les premières années. M. Bilodeau avait fait valoir que c’est la non-imposition de la commission qui lui permettait d’absorber le coût élevé de l’assurance. M. Bilodeau avait versé des primes totalisant 57 166,51 $ pour les deux polices et avait reçu une commission de 43 115 $.
+[13] M. Bilodeau s’appuyait sur le même bulletin d’interprétation pour faire valoir la non-imposition des commissions qu’il avait gagnées relativement à ces assurances pour lui et sa conjointe. Selon l’ARC, les achats avaient été faits à des fins d’investissement et, donc, le Bulletin d’interprétation ne s’appliquait pas.
+[14] La juge a conclu que M. Bilodeau avait gagné des commissions à titre d’agent d’assurance. Par conséquent, les commissions étaient imposables en vertu du paragraphe 9(1) de la Loi. Aux paragraphes 14 et 19 de sa décision, la juge Lamarre s’exprimait ainsi :
+[14] À mon avis, la commission reçue au montant de 43 115 $ est un revenu imposable aux termes du paragraphe 9(1) de la LIR. Il s’agit là d’un revenu que l’appelant tire de son entreprise. En effet, l’appelant a reçu cette somme dans le cadre de l’exercice de sa profession de courtier en assurance-vie. S’il n’avait pas été courtier, il n’aurait pas reçu cette commission. […]
+[…]
+[19] En conséquence, que les polices aient été acquises par l’appelant pour des fins personnelles, ou pour obtenir un rendement libre d’impôt, ne change rien à mon avis à l’imposabilité de la commission qu’il a reçue dans le cadre de l’exercice de sa profession.
+[15] L’appelant n’est pas d’accord avec la conclusion de la juge Lamarre. Selon lui, les commissions ne sont pas imposables, car les polices ont été souscrites à des fins personnelles. Les questions posées par l’appelant sont les suivantes :
+- Est-il logique d’imposer des commissions sur des polices dont on a payé les primes ?
+- Est-ce qu’un contribuable gagne un revenu d’affaires en spéculant sur sa propre vie ?
+[16] Il est difficile pour moi de répondre à ces questions qui sont, à mon avis, des questions qui touchent les politiques fiscales. Je dois me restreindre aux textes de la Loi. Dans le présent appel, il a été établi en preuve que l’appelant a acheté les polices d’assurance vie individuelles pour gagner un revenu au sens du paragraphe 9(1) de la Loi. Par conséquent, les prétentions de l’appelant, qui fait valoir en argument que les polices d’assurance vie ont été achetées à des fins personnelles, ne tiennent pas. De plus, comme l’indique ma collègue la juge Lamarre, que ce soit à des fins personnelles ou commerciales, les commissions ont été gagnées par le contribuable dans le cadre de l’exercice de sa profession d’agent d’assurance et, par conséquent, elles sont imposables.
+[17] Je suis donc d’accord avec l’intimée que les commissions de 33 883 $ et de 28 400 $ doivent être incluses dans le calcul du revenu de l’appelant pour les années d’imposition 2005 et 2006.
+[18] Ayant conclu que les commissions étaient imposables, je passe maintenant à la deuxième question en litige. Est-ce que l’appelant peut déduire dans le calcul de ses revenus les primes qu’il a payées pour l’achat des polices d’assurance vie individuelles ?
+[19] L’appelant soutient que les primes sont des dépenses engagées en vue de tirer un bénéfice d’une entreprise au sens du paragraphe 9(1) de la Loi.
+[20] L’intimée allègue que l’appelant ne peut pas déduire le montant des primes en vertu de l’alinéa 18(1)h) de la Loi. Elle fait aussi valoir que le fait qu’une dépense soit considérée comme faisant partie des frais personnels n’influe aucunement sur la qualification de la source de revenus à laquelle le contribuable tente de rattacher la dépense. L’intimée se fonde sur l’arrêt Stewart[3], où les juges Iacobucci et Bastarache affirmaient au paragraphe 57 :
+[…] que la déductibilité des dépenses présuppose l'existence d'une source de revenu et, partant, qu'elle ne doit pas être confondue avec l'examen préliminaire portant sur l'existence de cette source. Si la déductibilité d'une dépense particulière est en cause, ce n'est pas l'existence d'une source de revenu qui doit être mise en doute, mais plutôt le lien entre cette dépense et la source à laquelle elle est censée se rapporter. Le fait qu'une dépense soit considérée comme faisant partie des frais personnels ou de subsistance n'influe aucunement sur la qualification de la source de revenu à laquelle le contribuable tente de rattacher la dépense; cela signifie simplement que la dépense ne peut être rattachée à la source de revenu en question. […]
+[Je souligne.]
+[21] Les dispositions pertinentes de la Loi qui s’appliquent dans le présent appel sont le paragraphe 9(1), les alinéas 18(1)a) et 18(1)h) et la définition, à l’article 248, des frais personnels ou de subsistance :
+9. (1) Sous réserve des autres dispositions de la présente partie, le revenu qu’un contribuable tire d’une entreprise ou d’un bien pour une année d’imposition est le bénéfice qu’il en tire pour cette année.
+Exceptions d’ordre général
+18. (1) Dans le calcul du revenu du contribuable tiré d’une entreprise ou d’un bien, les éléments suivants ne sont pas déductibles :
+Restriction générale
+a) les dépenses, sauf dans la mesure où elles ont été engagées ou effectuées par le contribuable en vue de tirer un revenu de l’entreprise ou du bien;
+[…]
+Frais personnels ou de subsistance
+h) le montant des frais personnels ou de subsistance du contribuable — à l’exception des frais de déplacement engagés par celui-ci dans le cadre de l’exploitation de son entreprise pendant qu’il était absent de chez lui;
+La définition des frais personnels ou de subsistance se trouve à l’article 248 de la Loi. Je n’ai transcrit que la partie pertinente :
+Sont compris parmi les frais personnels ou de subsistance :
+a) […]
+b) les dépenses, primes ou autres frais afférents à une police d’assurance, un contrat de rentes ou à d’autres contrats de ce genre, si le produit de la police ou du contrat est payable au contribuable ou à une personne unie à lui par les liens du sang, du mariage, de l’union de fait ou de l’adoption, ou au profit du contribuable ou de cette personne;
+c) […]
+[Je souligne.]
+[22] Bien que les primes d’assurance aient été payées par l’appelant pour gagner un revenu d’entreprise, elles ne peuvent être déduites dans le calcul du revenu d’entreprise de l’appelant. La preuve a révélé que les primes sont afférentes à des polices d’assurance dont le produit, pendant qu’elles étaient en vigueur, était payable à l’appelant ou à sa conjointe. Les primes sont donc des frais personnels ou de subsistance qui ne sont pas déductibles en vertu de l’alinéa 18(1)h) de la Loi.
+[23] L’appelant ne peut donc pas déduire les primes relatives aux polices d’assurance vie individuelles de 20 826 $ et de 15 721 $ qu’il a souscrites pour les années d’imposition 2005 et 2006 respectivement.
+[24] Par conséquent, les appels des nouvelles cotisations établies en vertu de la Loi pour les années d’imposition 2005 et 2006 sont rejetés.
+Signé à Ottawa, Canada, ce 12e jour de janvier 2012.
+« Johanne D’Auray »
+Juge D'Auray
+RÉFÉRENCE : 2012 CCI 18
+Nº DU DOSSIER DE LA COUR : 2010-2986(IT)I
+INTITULÉ DE LA CAUSE : ANDRÉ BÉGIN c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 21 octobre 2011
+MOTIFS DU JUGEMENT PAR : L'honorable juge Johanne D'Auray
+DATE DU JUGEMENT : Le 12 janvier 2012
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Serge Fournier
+Avocat de l'intimée :
+Me Gabriel Girouard
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom : Me Serge Fournier
+Cabinet : BCF s.e.n.c.r.l.
+Montréal (Québec)
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Les politiques et l'interprétation administratives ne sont pas déterminantes, mais elles ont une certaine valeur et, en cas de doute sur le sens de la législation, elles peuvent être un "facteur important": le juge de Grandpré dans l'arrêt Harel c. Sous-ministre du Revenu du Québec, [1978] 1 R.C.S. 851, à la p. 859.
+[2] Bilodeau c. Sa Majesté la Reine, 2009 CCI 315.
+[3] Stewart c. Sa Majesté la Reine, [2002] 2 R.C.S. 645.

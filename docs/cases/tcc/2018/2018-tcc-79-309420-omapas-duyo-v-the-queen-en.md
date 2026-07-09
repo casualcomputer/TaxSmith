@@ -1,0 +1,204 @@
+---
+title: "Omapas Duyo v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/309420/index.do"
+last_modified: "2018-04-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 TCC 79"
+citation2: ""
+neutral_citation: "2018 TCC 79"
+decision_date: "2018-04-24"
+language: "en"
+item_id: "309420"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7439
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:49:10.882000+00:00"
+cases_cited_count: 6
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "eaaf32f50ffce2de9e3d96ada72dc0845bc866fd5716211dddeba9360b4cb5a2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Omapas Duyo v. The Queen
+
+- Citation: 2018 TCC 79
+- Decision date: 2018-04-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7439, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Omapas Duyo v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-04-24
+Neutral citation
+2018 TCC 79
+File numbers
+2016-3516(GST)I
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2016-3516(GST)I
+BETWEEN:
+GERARDO OMAPAS DUYO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on February 15, 2017, at Ottawa, Canada
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Agent for the Appellant:
+Sebastien Gauthier
+Counsel for the Respondent:
+Kira Caceres
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, the notice of which is dated September 16, 2015, is dismissed in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 24th day of April 2018.
+“Robert J. Hogan”
+Hogan J.
+Citation: 2018 TCC 79
+Date: 04242018
+Docket: 2016-3516(GST)I
+BETWEEN:
+GERARDO OMAPAS DUYO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Hogan J.
+I. INTRODUCTION
+[1] The appellant, Gerardo Omapas Duyo, appeals from the denial of his application for a GST/HST new housing rebate (the “NHR” or the “rebate”) of $25,015.70 in connection with the purchase of a property located at 170 Flowing Circle, Kanata, Ontario (the “Property”).
+[2] In 2014, the appellant and his spouse sought to purchase the Property, but were initially unable to obtain mortgage financing. They sought the assistance of a third party, Ms. Marites Yabut, as co-signer of the application for mortgage financing and the agreement of purchase and sale. The appellant and Ms. Yabut subsequently took title to the Property, and the appellant applied for the NHR under subsection 254(2) of the Excise Tax Act [1] (the “ETA” or the “Act”). The NHR allows an individual, identified in the Act as the “particular individual”, to recover a portion of the GST or HST paid for a new or substantially renovated property that is intended for use as the primary place of residence of the individual, or a relation of the individual. The Act contains a number of additional conditions, among which is the requirement that, where there is more than one purchaser, the term “particular individual” as used in subsection 254(2) applies to each purchaser. [2]
+[3] The Minister subsequently reassessed the appellant to deny the rebate application and assessed a rebate adjustment in the amount of $25,015.70, as well as arrears interest of $1,074.40.
+II. FACTS
+[4] The appellant, his wife, and Ms. Yabut testified at the hearing. Each of them was a credible witness. In any case, the facts were in large part uncontested.
+[5] On January 11, 2014, the appellant and his spouse first entered into an agreement of purchase and sale for the purchase the Property. However, prior to closing, the appellant and his spouse were unable to qualify for a mortgage on their own to finance the acquisition of the Property. The appellant and his spouse, finding themselves at risk of losing their deposit on the Property, therefore turned to Ms. Yabut to assist them with obtaining mortgage financing. Ms. Yabut is a friend of the appellant and his spouse, and is not a relation as contemplated by the Act, of either the appellant or his spouse.
+[6] Ms. Yabut agreed to be a co-mortgagor on the loan and to be a registered owner on title in order for the appellant and his spouse to receive financing approval. Ms. Yabut was also added as a co-purchaser to the fully executed agreement of purchase and sale. The appellant, his spouse, and Ms. Yabut were all consistent in their testimony that Ms. Yabut had only agreed to act as a co-purchaser for the purpose of aiding the appellant and his wife in obtaining mortgage financing, that she had never intended to reside at the Property, and that she had not otherwise contributed financially to the purchase or maintenance of the Property.
+[7] Concurrently with these steps, the appellant, his spouse, and Ms. Yabut also signed on Acknowledgement of Trust under which Ms. Yabut held title in trust for the appellant and his spouse.
+[8] On November 13, 2014, the appellant, his spouse and Ms. Yabut took possession of the Property and took legal title to the Property as joint tenants.
+[9] On December 8, 2014, the Canada Revenue Agency (“CRA”) received an NHR application in which the appellant claimed a rebate in the amount of $25,015.70 for which he had been credited by the builder. The rebate application was denied by the Minister by notice of assessment dated September 16, 2015. Notices of objection, confirmation, and appeal were issued, and the present appeal eventually ensued.
+III. ISSUE
+[10] The sole issue in this appeal is whether the appellant is entitled to the NHR pursuant to subsection 254(2) of the Act. The resolution of this issue, in turn, depends on whether Ms. Yabut took title as bare trustee for the appellant and his spouse as beneficial owners of the Property, and whether this was effective in exempting Ms. Yabut from inclusion in the category of “particular individual” within the meaning of subsection 254(2).
+IV. APPELLANT’S POSITION
+[11] The appellant’s position is that Ms. Yabut was not a “particular individual” within the meaning of subsection 254(2) because she co-signed the agreement of purchase and sale solely as bare trustee for the appellant and his spouse as beneficial owners and with the intention of assisting them with obtaining mortgage financing. The appellant argues that this is confirmed by the terms of the written Ackowlegment of Trust.
+V. RESPONDENT’S POSITION
+[12] The respondent argues that the appellant has not met the necessary preconditions for the rebate, as one of the co-purchasers, Ms. Yabut, did not intend to occupy the Property as her primary place of residence when the agreement of purchase and sale was signed and did not infect occupy it, contrary to the requirements of paragraphs 254(2)(b) and (g).
+[13] In confirming the reassessment for the taxation year at issue, the Minister relied on, inter alia, the assumptions set out in the Reply at paragraphs 10a) through m). Among the Minister’s assumptions of fact were the following: [3]
+. . .
+(c) on January 11, 2014, the appellant and his Spouse entered into an agreement of purchase and sale with Mattamy (Hope) Limited (the “Builder”) for a property located at 170 Flowing Circle, Kanata, ON (the “Property”) for consideration of $320,714.16;
+(d) prior to closing, the appellant and his Spouse were unable to qualify for a mortgage on their own with Computershare Trust Company of Canada (the “Lender”) to finance the acquisition of the Property;
+(e) Marites Yabut (“Yabut”) was a friend of the appellant and his Spouse;
+(f) Yabut is not related to the appellant or his Spouse;
+(g) on October 8, 2014, the Lender approved financing for the purchase of the Property on the condition that Yabut be a co-mortgagor on the loan along with the appellant and his Spouse and that she be a registered owner on title;
+(h) the Lender specifically required that Yabut be added as co-purchaser to the fully executed agreement of purchase and sale and its schedules;
+(i) On November 13, 2014, the appellant, his Spouse and Yabut took possession of the Property and took legal title to the Property as joint tenants;
+. . .
+VI. THE STATUTORY FRAMEWORK
+[14] The statutory framework for the NHR is primarily set out in subsection 254(2) of the ETA.
+[15] Paragraph 254(2)(b) requires that, at the time a particular individual becomes liable or assumes liability under an agreement of purchase and sale for a property, he or she must be acquiring the property for use as a primary place of residence for him or her personally or for a relative. Subsection 254(2) provides in full as follows:
+254(2) New housing rebate—Where
+(a) a builder of a single unit residential complex or a residential condominium unit makes a taxable supply by way of sale of the complex or unit to a particular individual,
+(b) at the time the particular individual becomes liable or assumes liability under an agreement of purchase and sale of the complex or unit entered into between the builder and the particular individual, the particular individual is acquiring the complex or unit for use as the primary place of residence of the particular individual or a relation of the particular individual,
+(c) the total (in this subsection referred to as the “total consideration”) of all amounts, each of which is the consideration payable for the supply to the particular individual of the complex or unit or for any other taxable supply to the particular individual of an interest in the complex or unit, is less than $450,000,
+(d) the particular individual has paid all of the tax under Division II payable in respect of the supply of the complex or unit and in respect of any other supply to the individual of an interest in the complex or unit (the total of which tax under subsection 165(1) is referred to in this subsection as the “total tax paid by the particular individual”),
+(e) ownership of the complex or unit is transferred to the particular individual after the construction or substantial renovation thereof is substantially completed,
+(f) after the construction or substantial renovation is substantially completed and before possession of the complex or unit is given to the particular individual under the agreement of purchase and sale of the complex or unit
+(i) in the case of a single unit residential complex, the complex was not occupied by any individual as a place of residence or lodging, and
+(ii) in the case of a residential condominium unit, the unit was not occupied by an individual as a place of residence or lodging unless, throughout the time the complex or unit was so occupied, it was occupied as a place of residence by an individual, or a relation of an individual, who was at the time of that occupancy a purchaser of the unit under an agreement of purchase and sale of the unit, and
+(g) either
+(i) the first individual to occupy the complex or unit as a place of residence at any time after substantial completion of the construction or renovation is
+(A) in the case of a single unit residential complex, the particular individual or a relation of the particular individual, and
+(B) in the case of a residential condominium unit, an individual, or a relation of an individual, who was at that time a purchaser of the unit under an agreement of purchase and sale of the unit, or
+(ii) the particular individual makes an exempt supply by way of sale of the complex or unit and ownership thereof is transferred to the recipient of the supply before the complex or unit is occupied by any individual as a place of residence or lodging,
+(h) where the total consideration is not more than $350,000, an amount equal to the lesser of $6,300 and 36% of the total tax paid by the particular individual, and
+(i) where the total consideration is more than $350,000 but less than $450,000, the amount determined by the formula
+A × ($450,000 - B)/$100,000
+where
+A is the lesser of $6,300 and 36% of the total tax paid by the particular individual, and
+B is the total consideration.
+[16] Section 254 refers to a “particular individual”. Where there is more than one purchaser, subsection 262(3) of the Act makes it clear that the term “particular individual” in section 254 refers to all purchasers as a group. [4] That provision reads as follows:
+262 (3) Group of individuals—If
+(a) a supply of a residential complex or a share of the capital stock of a cooperative housing corporation is made to two or more individuals, or
+(b) two or more individuals construct or substantially renovate, or engage another person to construct or substantially renovate, a residential complex,
+the references in sections 254 to 256 to a particular individual shall be read as references to all of those individuals as a group, but only one of those individuals may apply for the rebate under section 254, 254.1, 255 or 256, as the case may be, in respect of the complex or share.
+[17] Section 133 describes a “taxable supply” forpresent purposes as follows:
+133 Agreement as supply—For the purposes of this Part, where an agreement is entered into to provide property or a service,
+(a) the entering into of the agreement shall be deemed to be a supply of the property or service made at the time the agreement is entered into; and
+(b) the provision, if any, of property or a service under the agreement shall be deemed to be part of the supply referred to in paragraph (a) and not a separate supply.
+VII. ANALYSIS
+[18] A number of recent decisions of this Court [5] have held that, where a third party signs an agreement of purchase and sale and appears on title merely as trustee or agent for the taxpayer-owner, then the taxpayer’s eligibility for the rebate is not vitiated. In this respect, the most important such decision is the ruling of Justice Smith in Cheema, [6] which was recently overturned by the Federal Court of Appeal. [7]
+[19] The appeal herein was originally heard on February 15, 2017. Given the similarity between the facts of the present appeal and those in Cheema, this appeal was ordered held in abeyance on February 17, 2017, pending the decision of the Federal Court of Appeal (“FCA”).
+[20] In Cheema, Justice Smith considered a situation in which a friend of the taxpayer had acquired an undivided one percent interest in the property after co-signing with the taxpayer the agreement of purchase and sale and the application for mortgage financing. On the date of closing, but after the agreement of purchase and sale had been entered into, both individuals executed a declaration of trust stating that the third party held his undivided one percent interest in trust for the taxpayer and his wife as beneficial owners. [8] Justice Smith concluded that the taxpayer was not barred from claiming the rebate, despite the fact that the third party had signed the agreement of purchase and sale, because the third party, as trustee, was not a “particular individual” within the meaning of subsection 254(2). He commented as follows: [9]
+55 Since I have concluded that Dr. Akbari was a bare trustee and that only the Appellant was a “particular individual” for the purposes of subsection 254(2) of the ETA, it necessarily follows that the Appellant was also the person “who was liable under the agreement to pay the consideration” for the purpose of the definition of a “recipient”. The fact that the builder may have had a legal recourse against Dr. Akbari for the consideration changes nothing to the notion that it is the Appellant, as legal and beneficial owner, who was ultimately liable for the consideration under the terms of the Trust Declaration.
+. . .
+57 In the end, for the purposes of all the conditions set out in subsection 254(2) of the ETA, Dr. Akbari was merely a conduit or agent of the Appellant and his spouse. The Appellant is therefore entitled to the NHR.
+[emphasis added]
+[21] On appeal, the FCA in a majority judgement overturned Justice Smith’s decision. The FCA found that all signatories to an agreement of purchase and sale for a newly constructed home are required to fulfil the intention-to-occupy requirement with regard to qualifying for the NHR.
+[22] As was the case with the co-signer in Cheema, Ms. Yabut declared that she neither lived nor intended to live in the property. The requirement for obtaining the NHR, namely, that a particular individual must intend to occupy the property, was not met. Therefore, this appeal must meet the same fate as the appeal of Mr. Cheema.
+[23] As a final comment, I observe that the appellant in this case relied on essentially identical arguments to those made by the taxpayer in the Cheema appeal. In this regard, the appellant emphasized that, after signing the agreement of purchase and sale and two days prior to possession being taken of the property, he, his spouse, and Ms. Yabut, on November 11, 2014, entered into an acknowledgement of trust agreement, which stated that beneficial ownership of the Property was limited to the appellant and his spouse. The evidence shows that this information was provided to neither the lender nor the builder. Furthermore, the GST rebate application form filed with the CRA listed the appellant, his spouse, and Ms. Yabut as the owners of the Property.
+[24] In Cheema, the FCA dealt with this same issue. The majority stated that paragraph 254(2)(b) is drafted in a way that makes these types of facts irrelevant when determining whether a particular individual is entitled to a rebate: “It is the relationship of the person acquiring the complex to the builder – one of purchase and sale – that is relevant, not the relationship between co-purchasers.” [10]
+VIII. CONCLUSION
+[25] The appellant has not met the necessary preconditions for the NHR, as one of the co-purchasers under subsection 254(2) did not intend to occupy the Property as her primary place of residence and did not in fact occupy it, contrary to the requirements of paragraphs 254(2)(b) and (g). The appeal is therefore dismissed.
+Signed at Ottawa, Canada, this 24th day of April 2018.
+“Robert J. Hogan”
+Hogan J.
+CITATION:
+2018 TCC 79
+COURT FILE NO.:
+2017-3516(GST)I
+STYLE OF CAUSE:
+GERARDO OMAPAS DUYO v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Ottawa, Canada
+DATE OF HEARING:
+February 15, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT:
+April 24, 2018
+APPEARANCES:
+Agent for the Appellant:
+Sebastien Gauthier
+Counsel for the Respondent:
+Kira Caceres
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Excise Tax Act, R.S.C. 1985, c. E-15.
+[2] Ibid. subsection 262(3).
+[3] Reply, at paras. 10a)-m).
+[4] In Davidson v. The Queen, Judge McArthur noted that subsection 262(3) of the Act provides that, where a supply of a residential property is made to two or more individuals, the references in subsection 254 to a “particular individual” must be read as references to all of those individuals as a group: Davidson v. The Queen, 2002 GTC197 (TCC, informal procedure), at para. 7.
+[5] See, e.g., Ngai v. The Queen, 2017 TCC 79 (informal procedure) and Javaid v. The Queen, 2015 TCC 94 (informal procedure). But see Al-Hossain v. The Queen, 2014 TCC 379 (informal procedure) and Sharp v. The Queen, 2014 TCC 323 (informal procedure).
+[6] Cheema v. The Queen, 2016 TCC 251 (informal procedure) [Cheema].
+[7] The Queen v. Cheema, 2018 FCA 45.
+[8] Supra, note 6, at para. 12.
+[9] Ibid. at paras. 55 and 57.
+[10] Supra, note 7 at paragraph 94.

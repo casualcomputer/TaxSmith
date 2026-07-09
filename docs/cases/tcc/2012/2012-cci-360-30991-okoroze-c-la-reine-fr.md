@@ -1,0 +1,168 @@
+---
+title: "Okoroze c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30991/index.do"
+last_modified: "2012-10-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 360"
+citation2: ""
+neutral_citation: "2012 CCI 360"
+decision_date: "2012-10-16"
+language: "fr"
+item_id: "30991"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4810
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:21:07.715000+00:00"
+cases_cited_count: 7
+cases_citing_count: 8
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "62b84543ef54a171bfbf9e05cd6c7c0a618909336bc58e79e6b0d226d68b024e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Okoroze c. La Reine
+
+- Citation: 2012 CCI 360
+- Decision date: 2012-10-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4810, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Okoroze c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-10-16
+Référence neutre
+2012 CCI 360
+Numéro de dossier
+2012-2889(IT)G
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-2889(IT)G
+ENTRE :
+OBARO OKOROZE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête par écrit
+L’honorable juge B. Paris
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Alain Gareau
+____________________________________________________________________
+ORDONNANCE
+Vu la requête présentée par écrit par l’intimée en vue d’obtenir une ordonnance annulant l’avis d’appel de l’appelant et accordant à l’appelant 60 jours à compter de la date de la requête pour déposer et signifier un avis d’appel en bonne et due forme;
+Vu les observations écrites des parties;
+La Cour ordonne que la requête soit accueillie. L’appelant disposera de 60 jours à compter de la date de la présente ordonnance pour déposer un nouvel avis d’appel qui est conforme à l’alinéa 21(1)a) des Règles de la Cour canadienne de l’impôt (procédure générale).
+Signé à Ottawa, Canada, ce 16e jour d’octobre 2012.
+« B. Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 26e jour de février 2016.
+M.-C. Gervais
+Référence : 2012 CCI 360
+Date : 20121016
+Dossier : 2012-2889(IT)G
+ENTRE :
+OBARO OKOROZE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Paris
+[1] Sous le régime des articles 7 et 8 des Règles de la Cour canadienne de l’impôt (procédure générale) (« les Règles »)[1], l’intimée sollicite une ordonnance annulant l’avis d’appel en l’espèce et accordant à l’appelant 60 jours pour déposer et signifier un nouvel avis d’appel. La requête sera tranchée sur le fondement des observations écrites des parties.
+[2] Les articles 7 et 8 des Règles sont ainsi libellés :
+INOBSERVATION DES RÈGLES
+Effet de l’inobservation
+7. L’inobservation des présentes règles constitue une irrégularité et n’est pas cause de nullité de l’instance ni d’une mesure prise, d’un document donné ou d’une directive rendue dans le cadre de celle-ci. La Cour peut :
+a) soit autoriser les modifications ou accorder les conclusions recherchées, à des conditions appropriées, afin d’assurer une résolution équitable des véritables questions en litige;
+b) soit annuler l’instance ou une mesure prise, un document donné ou une directive rendue dans le cadre de celle‑ci, en tout ou en partie, seulement si cela est nécessaire dans l’intérêt de la justice.
+Irrégularité
+8. La requête qui vise à contester, pour cause d’irrégularité, une instance ou une mesure prise, un document donné ou une directive rendue dans le cadre de celle-ci, ne peut être présentée, sauf avec l’autorisation de la Cour :
+a) après l’expiration d’un délai raisonnable après que l’auteur de la requête a pris ou aurait raisonnablement dû prendre connaissance de l’irrégularité, ou
+b) si l’auteur de la requête a pris une autre mesure dans le cadre de l’instance après avoir pris connaissance de l’irrégularité.
+[3] L’intimée fait valoir que l’avis d’appel n’est pas conforme à l’alinéa 21(1)a) des Règles, parce qu’il ne contient pas les faits pertinents que l’appelant entend invoquer relativement aux questions à trancher ni les moyens sur lesquels il entend se fonder.
+[4] L’alinéa 21(1)a) des Règles exige que l’acte introductif d’instance dans un appel formé contre une cotisation établie en application de la Loi de l’impôt sur le revenu (la « LIR »)[2] soit déposé sur la formule 21(1)a). Cette formule, que l’appelant a jointe à son avis d’appel, énumère les renseignements qu’un avis d’appel doit contenir, y compris les faits pertinents, les dispositions législatives sur lesquelles l’appel est fondé, les moyens que l’appelant entend invoquer, les points en litige et les conclusions recherchées.
+[5] En réponse à la demande de l’intimée, l’appelant affirme qu’il a fourni tous les faits nécessaires dans son avis d’appel.
+[6] Dans son avis d’appel, l’appelant précise qu’il interjette appel à l’encontre des nouvelles cotisations établies pour ses années d’imposition allant de 2004 à 2009. Je constate toutefois qu’il a inclus dans son avis d’appel beaucoup de documents qui ne doivent pas normalement faire partie d’un avis d’appel. Certains de ces documents concernent des affaires qui ne relèvent pas de la compétence de la Cour.
+[7] Par exemple, l’appelant conteste certaines mesures de recouvrement prises par l’Agence du revenu du Canada (l’« ARC ») afin de récupérer les sommes dues selon les nouvelles cotisations. La Cour d’appel fédérale s’est exprimée ainsi dans l’arrêt Moss c. Canada[3] :
+Si des mesures de recouvrement illicites ou inappropriées sont utilisées et qu’il est prouvé qu’elles ont eu lieu, il est possible d’obtenir réparation en intentant une procédure auprès de la Cour fédérale, mais en droit, la Cour canadienne de l’impôt n’a pas la compétence d’infirmer ou d’annuler une nouvelle cotisation au motif que de telles mesures ont été prises.
+[8] L’appelant allègue également une conduite inadéquate de la part des agents de l’ARC qui s’occupent de son dossier. Toutefois, la conduite des fonctionnaires de l’ARC n’est pas un motif permettant de contester une cotisation; voir l’arrêt Main Rehabilitation Co. c. Canada :
+[…] il est également évident et manifeste que la Cour de l’impôt n’a pas compétence pour statuer qu’un avis de cotisation est nul parce qu’il constitue un abus de procédure reconnu en common law […] [traduction] et à l’égard des « dispositions d’allégement pour les contribuables » de la LIR[4].
+[9] De plus, l’appelant mentionne les « dispositions d’allégement pour les contribuables » de la LIR dans son avis d’appel. D’après ce que je comprends, il s’agit d’une référence aux dispositions d’équité du paragraphe 220(3.1) de la LIR. Toutefois, dans la décision Palin c. La Reine la Cour a conclu que les décisions du ministre sous le régime de ces dispositions doivent être rendues « par voie de contrôle judiciaire devant la Cour fédérale[5] ».
+[10] L’appelant remet également en question la nouvelle cotisation de son épouse, dans laquelle on lui a refusé des prestations fiscales pour enfants. Si l’épouse de l’appelant n’accepte pas cette nouvelle cotisation, elle doit prendre les mesures prévues par la LIR pour s’y opposer et en appeler elle‑même.
+[11] Ces affaires ne relèvent pas de la compétence de la Cour et elles ne sont pas dûment plaidées.
+[12] L’avis d’appel de l’appelant fait aussi mention de nombreux documents qui, selon lui, soutiennent sa cause. Les documents sur lesquels il entend se fonder feront partie de la preuve, parce que l’appelant s’en servira pour prouver les faits qu’il invoque afin de démontrer que les nouvelles cotisations sont erronées. Si l’appelant désire les produire en preuve, il doit les énumérer dans la liste des documents qu’il est tenu de déposer après la clôture des actes de procédures. Il ne convient pas de faire référence dans un acte de procédure aux éléments de preuve sur lesquels une partie entend se fonder[6].
+[13] Si on fait abstraction des passages de l’avis d’appel auxquels je renvoie ci‑dessus, ce qu’il reste ne satisfait pas aux exigences de l’alinéa 21(1)a) des Règles. Le reste de l’avis d’appel n’établit pas clairement à quels égards l’appelant croit que les nouvelles cotisations sont erronées, et il ne contient pas un bref énoncé des faits pertinents et des moyens sur lesquels il entend se fonder pour étayer sa position selon laquelle les nouvelles cotisations sont erronées.
+[14] Le juge Bowie de la Cour s’est exprimé ainsi dans la décision Zelinski v. The Queen[7] :
+L’acte de procédure a pour but de définir les questions faisant l’objet du litige entre les parties aux fins de production et de communication préalable ainsi qu’en prévision du procès. Il incombe aux parties de présenter un exposé concis des faits pertinents sur lesquels elles se fondent. Les faits pertinents sont ceux qui, dans l’éventualité où ils sont établis au cours du procès, concourront à démontrer que la partie ayant déposé l’acte de procédure a droit au redressement demandé. […]
+[15] La Cour a conclu que des actes de procédure irréguliers constituent une irrégularité au sens de l’article 7 des Règles (voir Kossow c. La Reine)[8]. Les Règles prévoient aussi expressément, à l’article 53, qu’un acte de procédure peut être radié. L’article 53 est libellé ainsi :
+Radiation d’un acte de procédure ou d’un autre document
+53. La Cour peut […] radier un acte de procédure ou tout autre document ou en supprimer des passages, en tout ou en partie, avec ou sans autorisation de le modifier parce que l’acte ou le document :
+a) peut compromettre ou retarder l’instruction équitable de l’appel,
+b) est scandaleux, frivole ou vexatoire;
+c) constitue un recours abusif à la Cour.
+[16] Je conviens avec l’intimée que les lacunes de l’avis d’appel sont tellement importantes que le redressement adéquat est de l’annuler et de donner à l’appelant 60 jours à compter de la date de mon ordonnance pour déposer et signifier un nouvel avis d’appel qui satisfait aux exigences de l’alinéa 21(1)a) des Règles et qui ne contient pas de document portant sur les questions susmentionnées à l’égard desquelles la Cour n’a pas compétence. Il s’agit de la façon de procéder qui a été approuvée par la Cour d’appel de l’Ontario dans l’arrêt Lysko v. Braley[9]. La Cour s’est exprimée ainsi au paragraphe 11 de cet arrêt :
+[traduction]
+Je souscris à la déclaration de la juge des requêtes au paragraphe 63; la déclaration « contient une pléthore d’éléments de preuve et de documents non pertinents et elle manque de concision au point qu’elle gêne les défendeurs dans l’élaboration d’un acte de procédure en réponse ». Donc, je conviens avec la juge des requêtes que, même si certaines des causes d’action devraient aller de l’avant, le redressement approprié consiste à radier l’acte de procédure dans son entier et à accorder à l’appelant l’autorisation de produire une nouvelle déclaration.
+[17] De la même façon, l’intimée en l’espèce est gênée dans la préparation d’une réponse en raison du fait que l’appelant a inclus une grande quantité de faits, de renseignements et d’éléments de preuve concernant des affaires qui ne relèvent pas de la compétence de la Cour, et en raison du manque de précision de ses oppositions aux nouvelles cotisations à l’égard desquelles il veut interjeter appel et des faits qu’il entend invoquer. Les contribuables qui agissent sans avocat et qui interjettent appel sous le régime de la procédure générale doivent respecter une norme raisonnable de conformité aux Règles afin que le litige puisse se dérouler de manière ordonnée, efficiente et équitable. Sous le régime de la procédure générale, l’appelant doit à tout le moins énoncer clairement dans l’acte de procédure les questions qu’il conteste et les faits pertinents sur lesquels il veut se fonder.
+[18] J’accueillerai la requête de l’intimée. L’avis d’appel est radié, et l’appelant dispose de 60 jours à compter de la date de la présente ordonnance pour déposer un nouvel avis d’appel conforme à l’alinéa 21(1)a) des Règles.
+Signé à Ottawa, Canada, ce 16e jour d’octobre 2012.
+« B. Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 11e jour de février 2016
+M.-C. Gervais
+RÉFÉRENCE : 2012 CCI 360
+No DU DOSSIER DE LA COUR : 2012-2889(IT)G
+INTITULÉ : OBARO OKOROZE ET LA REINE
+MOTIFS DE L’ORDONNANCE : L’honorable juge B. Paris
+DATE DE L’ORDONNANCE : Le 16 octobre 2012
+PARTIES :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Alain Gareau
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] DORS/2008-303.
+[2] L.R.C. 1985, ch. 1 (5e suppl.)
+[3] [2006] A.C.F. no 665 (QL), paragraphe 5, 2006 CAF 150.
+[4] 2004 CAF 403, paragraphe 6.
+[5] 2007 CCI 255, paragraphe 9.
+[6] Globtek Inc. c. La Reine, 2005 CCI 727.
+[7] 2002 DTC 1204.
+[8] 2008 CCI 422, confirmée par la Cour d’appel fédérale, 2009 CAF 83.
+[9] (2006) 79 O.R. 3d, 721.

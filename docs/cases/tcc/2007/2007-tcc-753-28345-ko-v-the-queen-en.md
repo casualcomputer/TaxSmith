@@ -1,0 +1,183 @@
+---
+title: "Ko v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28345/index.do"
+last_modified: "2007-03-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 753"
+citation2: ""
+neutral_citation: "2007 TCC 753"
+decision_date: "2007-03-19"
+language: "en"
+item_id: "28345"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1930
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:17:36.379000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ac5263976b20a773b1c628599c8f8e075175ae04358d4d4f7939119f06241d54"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ko v. The Queen
+
+- Citation: 2007 TCC 753
+- Decision date: 2007-03-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1930, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ko v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-03-19
+Neutral citation
+2007 TCC 753
+File numbers
+2005-1497(IT)G
+Judges and Taxing Officers
+Murray A. Mogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-1497(IT)G
+BETWEEN:
+ELIZABETH KO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on March 19, 2007, at Toronto, Ontario
+By: The Honourable Justice M.A. Mogan
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Jenny P. Mboutsiadis
+____________________________________________________________________
+JUDGMENT
+The appeals from reassessments made under the Income Tax Act for the 1997, 1998 and 1999 taxation years are dismissed, without costs.
+Signed at Ottawa, Canada, this 14th day of December, 2007.
+“M.A. Mogan”
+Mogan D.J.
+Citation: 2007TCC753
+Date: 20071214
+Docket: 2005-1497(IT)G
+BETWEEN:
+ELIZABETH KO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Mogan D.J.
+[1] The Appellant has appealed from reassessments of income tax for her three taxation years 1997, 1998 and 1999. During those years, the Appellant was an employee of Montreal Trust Company; and she reported employment income in the following amounts:
+1997
+$44,836
+1998
+39,812
+1999
+32,252
+Her income for 1999 was lower because her employment with Montreal Trust was terminated in October 1999.
+[2] By Notices of Reassessment dated August 25, 2004, the Minister of National Revenue (the “Minister”) added the following amounts to the Appellant’s reported income for the years under appeal:
+1997
+$ 29,065
+1998
+44,950
+1999
+168,944
+The Minister claims that the added amounts were derived from a certain criminal activity carried on by the Appellant with two other persons. The Appellant admits that she participated in the criminal activity but she claims in her Notice of Appeal that she did not receive any financial benefit from that activity. The principal issue in this appeal is whether the Appellant received any financial benefit from the criminal activity in each year and, if so, how much.
+[3] The Appellant was born in the Philippines in July 1960. She came to Canada and earned a B.A. degree at a Canadian university. In 1981, she started to work for the Montreal Trust Company as a data entry operator. She was later promoted to supervisor of data entry. By 1994, she was a research supervisor and, by 1996, she was a research analyst. At that time, Montreal Trust Company was a transfer agent for the securities of many listed public companies. In 1996‑97, part of the Appellant’s job was to identify and correct errors in share certificates issued by Montreal Trust.
+[4] An error in a share certificate could occur if two different persons with the same name had two different addresses, or if one person had two different addresses. If a share certificate was issued, in error, to the wrong person, it was the Appellant’s job to retrieve the certificate; send a memo to the department of Montreal Trust which maintained shareholder profiles; and send a second memo to the department which issued share certificates. It was the Appellant’s authority over the issuing of share certificates that got her into trouble with the law.
+[5] In 1996, Katie Wright was a real estate agent in Mississauga, Ontario. When the Appellant’s brother purchased a house in Mississauga in 1996, Katie Wright was the real estate agent on the transaction; and the Appellant met Katie. In the winter of 1996-97, the Appellant with her sisters and another brother decided to move from Scarborough (a suburb on the east side of Toronto) to Mississauga on the west side. They sold their home in Scarborough and purchased a home in Mississauga using Katie Wright as their agent. They moved to Mississauga in March 1997.
+[6] The Appellant stated in evidence that, after the move, she became “fast friends” with Katie Wright. They would go to the movies together and Katie would show her where to shop. In the course of this friendship, the Appellant told Katie where she worked and the nature of her job. According to the Appellant, Katie Wright had been bankrupt and had no credit rating. Also, Katie shared a dwelling with Marilyn Smith, an aesthetician. Early in the friendship, Katie told the Appellant that she needed capital. After some discussion, the Appellant suggested that Katie Wright and Marilyn Smith open a trading account at Canada Trust.
+[7] The idea was that the Appellant would lend money to Katie and Marilyn. They would deposit the borrowed funds in the trading account at Canada Trust. They would then buy and sell securities through that trading account in the hope of realizing capital gains. According to the Appellant, she cashed some Canada savings bonds (about $5,000); used her personal savings (about $3,000); and used her Visa card or line of credit (about $4,000) to lend $12,000 to Katie Wright and Marilyn Smith. The funds borrowed from the Appellant were deposited in the trading account of Katie and Marilyn and were used to purchase some Bell Canada shares.
+[8] In the same period (May and June 1997), Katie Wright borrowed about $2,000 from the Appellant to pay Katie’s personal bills. According to the Appellant, Katie came to see her late one evening in June 1997. Katie said that her son Michael needed $20,000 to $30,000 to buy thoroughbred horses to train for racing. Katie asked for the Appellant’s help. This late evening meeting with Katie Wright in June 1997 proved to be a turning point in the Appellant’s 16-year employment career at Montreal Trust. In the Appellant’s own words, she “started to do something wrong”.
+[9] The Appellant started to make up false share certificates in the name of Katie Wright or Marilyn Smith and she would deliver these certificates to Katie. The share certificates would be deposited in the trading account of Katie and Marilyn at Canada Trust, and then sold into the open market. Once the Appellant started down this path, there seemed to be no turning back. In the period from September 1997 to June 1999, there were eleven transactions in which false share certificates were delivered to Katie Wright and sold for an aggregate amount of $803,380.
+[10] Exhibit R-1 is a list of the shares represented by false share certificates produced by the Appellant and delivered to Katie Wright. The list from Exhibit R-1 is reproduced below.
+- 2,000 shares of Euro-Nevada sold on September 25, 1997 for $46,162.00
+- 1,000 shares of Euro-Nevada sold on October 3, 1997 for $23,605.00
+- 1,000 shares of Agnico Eagle sold on October 27, 1997 for $12,723.20
+- 612 shares of Nortel sold on November 10, 1997 for $82,607.45
+- 2,000 shares of Euro-Nevada sold on December 9, 1997 for $28,913.00
+- 2,300 shares of Franco-Nevada sold on January 15, 1998 for $59,361.04
+- 2,148 shares of Franco-Nevada sold on January 16, 1998 for $57,772.82
+- 1,000 shares of Franco-Nevada sold on February 18, 1998 for $30,907.00
+- 2,364 shares of Franco-Nevada sold on April 9, 1998 for $85,541.80
+- 1,000 shares of Nortel sold on June 16, 1999 for $122,815.00
+- 2,000 shares of Nortel sold on June 24, 1999 for $252,972.00
+[11] The Appellant is firm in her evidence that she did not receive the proceeds ($803,380) from the sale of shares represented by the false certificates. There are, however, many exhibits proving a frequent flow of money between the Appellant and Katie Wright and payments from the Canada Trust trading account to the Appellant. The Appellant described Katie’s frequent need of capital. At one time, Katie asked to borrow the Appellant’s Visa credit card with a $15,000 limit. The Appellant loaned her Visa card to Katie, and gave written authority for Katie and her son, Michael, to use the card. They used it.
+[12] The Appellant stated that she received some cheques from Katie to repay part of Katie’s (or her son’s) use of the Visa card but that she was never fully repaid. In the fall of 1997, Katie’s son, Michael, purchased a house at 2972 Oslo Crescent in Mississauga. Michael did not have the credit qualifications to obtain a mortgage and so the house was put in the Appellant’s name because she could and did obtain a mortgage for Michael. Exhibit A-6 is a record of the mortgage transaction.
+[13] In December 1997, Michael needed money in Florida to buy more horses. Later, Katie Wright needed money (about $100,000) to buy a condominium in Florida. The Appellant, for herself, purchased a new car and took a trip home to the Philippines. By the summer of 1999, after the sale of the Nortel shares for $252,972 (Exhibit R-1, last entry), the Appellant could not any longer cover her position with Montreal Trust. The Appellant started asking for repayment of her loans but Katie Wright would not answer or return her calls.
+[14] The last two transactions in Exhibit R-1 (see paragraph 10 above) were significantly bigger than any of the previous nine. They must have set off some alarm bells at Montreal Trust because an investigation was commenced in the department of the Company where the Appellant worked. She and other employees were interviewed. At first, she denied any knowledge of the wrongdoing, the production of false share certificates. Later, on or about October 30, 1999, the Appellant went to her manager and made a full confession disclosing her fraudulent activity in producing false share certificates.
+[15] The manager at Montreal Trust Company called in the police to question the Appellant and her employment was terminated immediately. She was arrested and charged with fraud over $5,000. On July 5, 2000, the Appellant pleaded guilty in Provincial Court at Toronto. She was convicted and placed on probation for 24 months. When this appeal was heard in 2007, she had regular employment. In Exhibit R-4 (a binder), Tab 11 is the record of her arrest; Tab 12 is a synopsis of her offence; Tab 14 is a copy of her probation Order, and tab 13 is a copy of a compensation Order requiring the Appellant to pay $1,293,461 to the Montreal Trust Company.
+[16] Katie Wright and Marilyn Smith were called as witnesses for the Respondent. Katie Wright acknowledged that she borrowed money from the Appellant; that she used the Appellant’s credit card; and that she asked the Appellant to obtain a mortgage on her son’s (Michael’s) house. Katie also acknowledged that she and Marilyn Smith opened a trading account at Canada Trust to buy and sell shares. She recalled receiving original share certificates from the Appellant but claimed that she was not told at first that they were fraudulent.
+[17] Marilyn Smith’s evidence was similar to Katie Wright’s except that she was not as involved as Katie in doing transactions with the Appellant. The Appellant’s first claim was that she did not receive any of the $803,380 obtained from the sale of shares listed in Exhibit R-1. Under cross-examination, however, she admitted that she received $29,065 from Katie Wright in 1997 and $44,950 in 1998. In other words, she admits receiving the amounts added to her reported income in the reassessments for those two years. The Appellant said that she could not recall how much she received from Katie in 1999.
+[18] Exhibit R-4 (the binder) contains copies of many documents like cheques and bank drafts showing money passing between the Appellant and Katie Wright. Some of those documents are summarized as follows:
+Tab 16 August 7, 1997 deposit of $18,210.54 in the Canada Trust trading account ($13,000 was cash);
+Tab 17 October 6, 1997 the Appellant is paid $9,000 from the Canada Trust account;
+Tab 19 November 21, 1997 cheque for $2,395 from Katie Wright to Appellant;
+Tab 20 December 18, 1997 bank draft from Canada Trust to Appellant for $10,770;
+Tab 21 February 21, 1998 cheque for $1,950 from Katie Wright to Appellant;
+Tab 22 March 13, 1998 bank draft from Canada Trust to Michael (Katie Wright’s son) for $30,000;
+Tab 23 October 6, 1998 bank draft (013502) from Canada Trust to Appellant for $5,000;
+Tab 24 October 6, 1998 bank draft (013503) from Canada Trust to Appellant for $5,000;
+Tab 26 January 18, 1999 bank draft from Canada Trust to Appellant for $8,294;
+Tab 27 January 25, 1999 bank draft from Canada Trust to Appellant for $41,910;
+Tab 28 March 16, 1999 bank draft from Canada Trust to Appellant for $18,000;
+Tab 30 May 3, 1999 cheque from Katie Wright to Appellant for $2,450; and
+Tab 31 June 18, 1999 bank draft from Canada Trust to Appellant for $30,000.
+[19] The above documents prove significant transactions between the Appellant and Katie Wright during a three-year period when the Appellant’s annual salary at Montreal Trust was in the range of $40,000. One might ask why the Appellant would lend her personal savings to a recent acquaintance who had become a “fast friend” and who the Appellant thought of as bankrupt; and why the Appellant would commence dishonest activities to help raise capital for such a new friend. To say that the Appellant is naïve would be an understatement notwithstanding the fraudulent share certificates. Having observed her closely as a witness, I conclude she had no business sense with respect to share transactions but she has a very real conscience. Also, in a social sense, she lacks street smarts in not distinguishing a true friend from an opportunist. It seems to me that the Appellant was trying to buy friendship, and went to dishonest lengths to do so.
+[20] By Notices of Reassessment dated April 18, 2002, the Minister added the entire $803,380 amount to the Appellant’s reported income for the years 1997, 1998 and 1999. When the Appellant objected, the Minister reassessed on August 25, 2004 to reduce the added amounts as follows:
+1997
+$ 29,065
+1998
+44,950
+1999
+168,944
+Under cross-examination, the Appellant accepted the amounts for 1997 and 1998.
+[21] For 1999, the Appellant did not produce any records of her transactions with Katie Wright. The documents listed in paragraph 18 above show the Appellant receiving at least $100,000 in 1999; and those documents were not all inclusive. The Minister took two years and four months after the first reassessments (April 2002) to issue the second reassessments (August 2004) excluding more than two-thirds of the $803,380. The Appellant has not satisfied the onus of showing that the amount $168,944 is wrong for 1999.
+[22] The Appellant used her position as an employee of Montreal Trust Company to embark upon a series of transactions from which she and others profited. The amounts she earned from this activity had the character of income. The amounts she earned were high in relation to her annual salary from employment. She did not report such amounts on her income tax returns. The Appellant will therefore lose her appeals with respect to the amounts added to her reported income, and also with respect to the imposition of penalties under subsection 163(2) of the Income Tax Act. The appeals are dismissed but there will be no costs awarded.
+Signed at Ottawa, Canada, this 14th day of December, 2007.
+“M.A. Mogan”
+Mogan D.J.
+CITATION: 2007TCC753
+COURT FILE NO.: 2005-1497(IT)G
+STYLE OF CAUSE: ELIZABETH KO and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: March 19, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice M.A. Mogan
+DATE OF JUDGMENT: December 14, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Jenny P. Mboutsiadis
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm: N/A
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,164 @@
+---
+title: "Chénard v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30445/index.do"
+last_modified: "2011-07-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 344"
+citation2: ""
+neutral_citation: "2011 TCC 344"
+decision_date: "2011-07-08"
+language: "en"
+item_id: "30445"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7918
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:27:14.714000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d3274069d66e6f58f4c4f4bb7694fbb5bf738597d7364d4e157603b8549f2fe4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Chénard v. The Queen
+
+- Citation: 2011 TCC 344
+- Decision date: 2011-07-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7918, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chénard v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-07-08
+Neutral citation
+2011 TCC 344
+File numbers
+2011-86(IT)APP
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-86(IT)APP
+BETWEEN:
+ALAIN CHÉNARD,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Application heard on April 6, 2011, at Ottawa, Ontario
+Before: The Honourable Justice B. Paris
+Appearances:
+Counsel for the applicant:
+Richard Généreux
+Counsel for the respondent:
+Paul Klippenstein
+Marie‑Eve Aubry
+____________________________________________________________________
+ORDER
+UPON application by the applicant for an order extending the time to appeal from reassessments made under the Income Tax Act for the 1998, 1999, 2000, 2001, 2002, 2003 and 2004 taxation years;
+AND UPON reading the documents filed in support of the application and allegations of the applicant and counsel for the respondent;
+THE COURT ORDERS THAT the time within which the appeal may be instituted be extended to the date of this Order and that the Notice of Appeal submitted with the application be considered as a valid Notice of Appeal.
+Signed at Vancouver, British Columbia, this 8th day of July 2011.
+“B. Paris”
+Paris J.
+Translation certified true
+on this 24th day of March 2014
+Daniela Guglietta, Translator
+Citation: 2011 TCC 344
+Date: 20110708
+Docket: 2011-86(IT)APP
+BETWEEN:
+ALAIN CHÉNARD,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR ORDER
+Paris J.
+[1] The applicant, Alain Chénard, seeks an extension of time to file a Notice of Appeal from reassessments made under the Income Tax Act (the Act) for the 1998 to 2004 taxation years. The reassessments, dated July 29, 2009, were confirmed by notices dated March 12, 2010, and this application was filed on December 30, 2010.
+[2] The respondent opposes the application on the ground that Mr. Chénard does not meet the conditions set out in paragraph 167(5)(b) of the Act, which is worded as follows:
+167(5)No order shall be made under this section unless
+(a) . . .
+(b) the taxpayer demonstrates that
+(i) within the time otherwise limited by section 169 for appealing the taxpayer
+(A) was unable to act or to instruct another to act in the taxpayer’s name, or
+(B) had a bona fide intention to appeal,
+(ii) given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application,
+(iii) the application was made as soon as circumstances permitted, and
+(iv) there are reasonable grounds for the appeal
+The evidence
+[3] In 2008, the applicant invested $12,500 in a scheme promoted by an Ottawa group called Financial Advantage. The applicant was told by one of the promoters, Philippe Joanisse, that his investment would yield a return of $75,000 after five years. Mr. Joanisse subsequently invited the applicant and other participants in the scheme to (attend) a presentation by representatives of another group, Fiscal Arbitrators, from
+Toronto
+. Mr. Joanisse acted as an interpreter during the meeting because the representatives of Fiscal Arbitrators only spoke English whereas the applicant and the other participants spoke French.
+[4] At the meeting, the participants were told that because of their investment with Financial Advantage, they could claim tax losses in the ten years prior to the year of their investment and that, at a cost of $700 plus 10% of the tax refunds obtained, Fiscal Arbitrators would prepare the amended returns. The applicant stated that he was told that the arrangement was legitimate and he truly believed that to be the case.
+[5] The applicant agreed to have Fiscal Arbitrators prepare amended income tax returns for him and he signed and filed them with the Canada Revenue Agency (the CRA) in November 2008. In those tax returns, the applicant claimed business losses of approximately $50,000 per year. Fiscal Arbitrators requested that the applicant forward to it all documents received by the CRA concerning the returns; it would then draft a response and send it to the applicant for him to sign and send to the CRA. Fiscal Arbitrators also insisted that the applicant communicate with the CRA only in writing. He was also told to request that the CRA communicate with him in writing in English because the directors of Fiscal Arbitrators did not speak French. The applicant is Francophone but speaks a little English.
+[6] In response to the amended returns, the CRA wrote (a letter) to the applicant on March 11, 2009, and asked him to provide documents to support the losses he claimed. The applicant gave the letter to Mr. Joanisse to send to Fiscal Arbitrators, but there is no indication that a response was prepared for the applicant to send to the CRA.
+[7] The CRA sent the applicant another letter on May 28, 2009, in which it informed him that it would not allow the deduction of the losses and that it intended to impose penalties under subsection 163(2) of the Act in respect of the losses claimed. The CRA gave him until June 26, 2009, to make representations on the penalties. The applicant says that he also gave this letter to Mr. Joanisse for him to send to Fiscal Arbitrators. Again, there is no evidence to suggest that Fiscal Arbitrators drafted a response to the letter for the applicant to send to the CRA. The applicant says that, every time he gave the letter to Mr. Joanisse, he was told that Fiscal Arbitrators was taking care of everything for him and that it was not unusual for the CRA to challenge the claims.
+[8] On July 8, 2009, the CRA informed the applicant in writing that it would impose the proposed penalties and notified him of his right to object. The reassessments were made on July 29, 2009. The applicant gave the reassessments to Mr. Joanisse for him to send to Fiscal Arbitrators. The applicant was given a completed Notice of Objection form by Fiscal Arbitrators which he signed and returned to the CRA on August 31, 2009.
+[9] The CRA then sent the applicant a letter on December 24, 2009, in which it requested additional information to support the objections. The applicant submitted the letter to Fiscal Arbitrators through Mr. Joanisse. There is nothing to suggest (no evidence) that Fiscal Arbitrators prepared any response to that letter.
+[10] On February 23, 2010, the CRA sent the applicant a follow-up letter regarding the request for information, which he forwarded to Fiscal Arbitrators. Fiscal Arbitrators drafted a letter to the CRA for the applicant’s signature and the letter was sent on March 2, 2010. The letter made little sense and provided no new information. The Minister confirmed the reassessments on March 12, 2010.
+[11] Towards the end of September, a collections officer for the CRA who sought to collect the amounts owing under the reassessments contacted the applicant. The applicant, therefore, contacted Mr. Joanisse to find out what was happening. The applicant (subsequently) learned that no Notice of Appeal had been prepared, but Mr. Joanisse assured him that Fiscal Arbitrators would take care of preparing one.
+[12] On October 14, 2010, Fiscal Arbitrators sent the applicant a letter addressed to the CRA that it drafted with respect to the applicant’s 2008 taxation year and which the applicant signed and forwarded to the CRA. It appears that the letter was drafted in response to a letter sent by the CRA to the applicant on October 4, 2010, but the letter was not filed in evidence and the applicant did not provide any details of the letter. However, this shows that at the time the applicant still trusted Fiscal Arbitrators to prepare the necessary documents regarding his tax affairs.
+[13] The applicant testified that after he received the call from the CRA collections officer, he became concerned about how Fiscal Arbitrators was handling his case. He asked his daughter, who worked at an accounting firm, to obtain information from the accountant regarding the letters he had received from the CRA. The accountant asked to see all the documents and then met with the applicant towards the end of October or early November 2010 and advised him to consult a lawyer to make this application to extend the time to file a notice of appeal. He met with a lawyer at the end of November in Montréal and instructed him to file the application, which he did on December 30, 2010.
+The parties’ submissions
+[14] Counsel for the applicant asserts that the applicant met all the conditions for granting the extension of time set out in paragraph 167(5)(b) of the Act. He submits that the applicant demonstrated an intention to appeal the reassessments after they were confirmed on March 12, 2010, when he sent the Notice of Confirmation to Fiscal Arbitrators. He expected Fiscal Arbitrators to prepare the necessary documents to challenge the reassessments, just as it had prepared the Notice of Objection for him.
+[15] Counsel for the applicant also asserts that the applicant was also unable to act or to instruct another to act in his name because he believed that Fiscal Arbitrators were already handling the matter for him.
+[16] Counsel for the respondent submits that the applicant did not make the application as soon as circumstances permitted owing to a lack of diligence on his part. Counsel for the respondent asserts that the applicant had known since March 12, 2010, that he had to take measures to challenge the reassessments, but that he did not take reasonable steps to ensure that those measures were taken. He did not follow-up with Fiscal Arbitrators prior to September 2010 and, even after he learned that no appeal had been filed, he did nothing to rectify the situation until late October 2010.
+[17] Counsel for the respondent also submits that the applicant did not demonstrate that he had an intention to appeal because he never asked Fiscal Arbitrators to prepare the documents required for an appeal. Furthermore, he did not demonstrate that he was unable to act at any time, and he could have hired someone other than Fiscal Arbitrators to act in his name.
+[18] Counsel for the respondent submits that, given all the circumstances, it would not be just and equitable to grant the application for extension of time having regard to the conditions set out in paragraph 167(5)(b) of the Act.
+The decision
+[19] In light of all the evidence, I am satisfied that the applicant had a bona fide intention to appeal the reassessments issued in respect of his 1998 to 2004 taxation years. By sending the Notice of Confirmation to Fiscal Arbitrators, he demonstrated that he wanted Fiscal Arbitrators to take measures to challenge the penalties assessed. According to the agreement between the applicant and Fiscal Arbitrators, Fiscal Arbitrators committed to preparing the documents the applicant was required to file with the CRA as a result of his request to amend his tax returns to claim losses. There is evidence that Fiscal Arbitrators had taken on this responsibility for the applicant. Fiscal Arbitrators had prepared at least two letters for the applicant to send to the CRA. It also drafted a Notice of Objection so that the applicant could challenge the imposition of the penalties. Fiscal Arbitrators prepared those documents in response to CRA documents that the applicant sent to it, without any explicit instructions from the applicant.
+[20] It is, therefore, reasonable to conclude that, when he sent the Notice of Confirmation to Fiscal Arbitrators, the applicant intended for Fiscal Arbitrators to prepare the necessary documents to challenge the reassessments.
+[21] Having concluded that the applicant had an intention to appeal the reassessments, I need not deal with the issue of whether the applicant was unable to act or to instruct another to act in his name within the time otherwise limited for appealing.
+[22] The more difficult issue in this case is whether the application was made as soon as circumstances permitted. It was not until late September 2010 that the applicant learned that no appeal had been instituted. At that point, he took what I believe to be reasonable measures to rectify the situation. First, he contacted Mr. Joanisse, who informed him that the necessary documents were being prepared. When he received no news from Fiscal Arbitrators in October, he asked his daughter to raise the matter with her employer, who was an accountant. From that point on, he followed the accountant’s instructions and hired a lawyer to make an application for an extension of time.
+[23] I am also satisfied that prior to late September 2010, it was not unreasonable for the applicant to believe that Fiscal Arbitrators was taking the necessary measures to prepare the appeal of the reassessments. Fiscal Arbitrators had prepared a Notice of Objection in for the applicant a timely fashion and it also drafted letters for him to send to the CRA. I will not comment on the substance or quality of the representations by Fiscal Arbitrators because they are not at issue in this case. I agree that the applicant had difficulty understanding those representations because they were not written in French and owing to his limited education. What is important for the present purposes is that up to the time of the Notice of Confirmation, to the applicant’s knowledge, Fiscal Arbitrators had prepared representations and the Notice of Objection for him. I accept that he considered that Fiscal Arbitrators to be professional tax advisors and therefore trusted these advisors to do what was required within the time limit prescribed in the Act. It is obvious that he was wrong to trust them, but until late September 2010 this fact was not evident to him. I am prepared to accept that, given the applicant’s limited education and his lack of business experience, until October 2010 he truly believed that Fiscal Arbitrators was a legitimate business. I also believe that the tactics employed by Fiscal Arbitrators to ensure that all communication with the CRA was in English increased the applicant’s reliance on Fiscal Arbitrators and reduced his ability to realize the questionable nature of its activities. Given the circumstances, I find that the application was made as soon as circumstances permitted. I also find that it would be just and equitable to grant the application in light of my comments above and the significant penalties at issue.
+Signed at Vancouver, British Columbia, this 8th day of July 2011.
+“B. Paris”
+Paris J.
+Translation certified true
+on this 24th day of March 2014
+Daniela Guglietta, Translator
+CITATION: 2011 TCC 344
+COURT FILE NO.: 2011-86(IT)APP
+STYLE OF CAUSE: ALAIN CHÉNARD v. THE QUEEN
+PLACE OF HEARING: Ottawa, Ontario
+DATE OF HEARING: April 6, 2011
+REASONS FOR ORDER: The Honourable Justice B. Paris
+DATE OF ORDER: July 8, 2011
+APPEARANCES:
+Counsel for the applicant:
+Richard Généreux
+Counsel for the respondent:
+Paul Klippenstein
+Marie-Eve Aubry
+COUNSEL OF RECORD:
+For the applicant:
+Name: Richard Généreux
+Firm: Montréal, Quebec
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

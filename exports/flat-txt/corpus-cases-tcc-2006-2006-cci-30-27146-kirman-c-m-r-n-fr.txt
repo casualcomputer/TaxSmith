@@ -1,0 +1,149 @@
+Title: Kirman c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27146/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-30-27146-kirman-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2006-02-09
+
+# Kirman c. M.R.N.
+
+- Citation: 2006 CCI 30
+- Decision date: 2006-02-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1015, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kirman c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-02-09
+Référence neutre
+2006 CCI 30
+Numéro de dossier
+2005-1732(EI)
+Juges et Officiers taxateurs
+Sylvio J. Savoie
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2005-1732(EI)
+ENTRE :
+HEIDI KIRMAN,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 19 octobre 2005 à Montréal (Québec)
+Devant : L'honorable S.J. Savoie, Juge suppléant
+Comparutions :
+Avocat de l'appelante :
+Me Alfredo Mancini
+Avocate de l'intimé :
+Me Anne-Marie Cantin
+____________________________________________________________________
+JUGEMENT
+L'appel est admis et la décision rendue par le Ministre est annulée selon les motifs du jugement ci-joints.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 9e jour de février 2006.
+« S.J. Savoie »
+Juge suppléant Savoie
+Référence : 2006CCI30
+Date : 20060209
+Dossier : 2005-1732(EI)
+ENTRE :
+HEIDI KIRMAN,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge suppléant Savoie
+[1] Cet appel a été entendu à Montréal (Québec) le 19 octobre 2005.
+[2] Le ministre du Revenu national (le « Ministre » ) a admis que l'appelante était à l'emploi de la payeuse, Steve's Music Store Inc., en vertu d'un contrat de louage de services durant la période en litige, soit du 1er mars 2003 au 9 avril 2004. Cependant, le Ministre a déterminé que l'emploi de l'appelante était exclu des emplois assurables en raison du lien de dépendance entre l'appelante et son père, Steve Kirman, l'unique actionnaire de la payeuse, selon les paragraphes 251 et 252 de la Loi de l'impôt sur le revenu et l'alinéa 5(2)i) de la Loi sur l'assurance-emploi qui se lit comme suit :
+5(2) N'est pas un emploi assurable :
+[...]
+i) l'emploi dans le cadre duquel l'employeur et l'employé ont entre eux un lien de dépendance.
+[3] Or, la Loi a prévu la démarche qui doit être suivie par le Ministre lorsqu'il est saisi d'une demande de déterminer l'assurabilité d'un emploi en pareilles circonstances à l'alinéa 5(3)b) de la Loi qui se lit comme suit :
+5(3) Pour l'application de l'alinéa (2)i)
+[...]
+b) l'employeur et l'employé, lorsqu'ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu'il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d'emploi ainsi que la durée, la nature et l'importance du travail accompli, qu'ils auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+[4] En rendant sa décision, le Ministre s'est fondé sur les faits présumés suivants énoncés au paragraphe 15 de la Réponse à l'avis d'appel :
+[TRADUCTION]
+a) la payeuse exploite un magasin de vente au détail d'instruments de musique depuis la constitution en société, qui a eu lieu le 24 janvier 1974;
+b) le siège social de la payeuse est situé à Montréal;
+c) la payeuse a environ 75 employés dans son bureau de Montréal;
+d) la payeuse exploite aussi deux autres magasins à Ottawa et à Toronto;
+e) l'appelante a commencé à travailler pour la payeuse en mai 1994;
+f) au début, elle travaillait comme gérante de bureau, mais au cours des trois dernières années, elle a aussi travaillé comme gérante de projets spéciaux;
+g) en tant que gérante de bureau, l'appelante était responsable d'une quinzaine d'employés de bureau qui s'occupaient des comptes débiteurs et créditeurs, des stocks, des commandes, etc.;
+h) en tant que gérante des projets spéciaux, l'appelante exerçait les tâches suivantes :
+- recherches sur la possibilité d'ouvrir de nouveaux secteurs du magasin, à savoir faire des études relatives au marché, aux magasins existants, et à la fourniture et à la demande de divers services et produits;
+- recherches sur des nouveaux produits à vendre ou services à offrir;
+- planification et organisation relativement au lancement de nouveaux secteurs;
+- planification de l'aménagement et de la structure des nouveaux secteurs dans les magasins existants;
+i) elle travaillait à plein temps, du lundi au vendredi de 10 h à 18 h;
+j) elle travaillait 35 heures par semaine;
+k) selon la déclaration du contrôleur de la payeuse, l'appelante travaillait quatre jours par semaine dans le bureau et, un jour par semaine, elle faisait des déplacements professionnels;
+l) dans sa déclaration, l'appelante a dit qu'elle travaillait au bureau 30 % du temps et qu'elle faisait des déplacements professionnels 70 % du temps;
+m) en 2003, l'appelante a touché un salaire de 600 $ par semaine;
+n) en 2003, elle a également reçu une prime de 40 000 $;
+o) le livre des salaires et le relevé d'emploi indiquent que l'appelante a reçu un salaire total de 71 200 $ tandis que le feuillet T4 indiquait un salaire total de 73 384 $ en 2003;
+p) elle a été la seule employée de la payeuse à recevoir une prime en 2003;
+q) le chèque représentant la prime a été émis le 25 juillet 2003, mais n'a été encaissé que le 15 janvier 2004;
+r) l'appelante a cessé de travailler le 9 avril 2004 pour prendre un congé de maternité;
+s) pendant son congé de maternité (prévu pour un an), la payeuse n'a embauché personne pour remplacer l'appelante;
+t) vu les responsabilités et la charge de travail de 35 heures par semaine de l'appelante, le salaire annuel de celle-ci n'était pas raisonnable.
+[5] L'appelante a admis les faits présumés du Ministre énoncés aux alinéas a) à i), k), l), n), q) et r) et elle a nié tous les autres.
+[6] L'appelante est à l'emploi de la payeuse depuis 1994. Elle a été embauchée comme gérant de bureau. Depuis trois ans elle occupe aussi le poste de gérant de projets spéciaux. Elle a suivi des études en communication au Collège Vanier et détient un diplôme en décoration intérieure du Collège LaSalle. Elle est employée à temps plein pour la payeuse, travaillant du lundi au vendredi de 10 h à 18 h, pour un minimum de 35 heures par semaine, souvent davantage. Elle a droit à trois semaines de vacances payées par année.
+[7] En tant que gérant de projets spéciaux, elle fait des études de marché sur les entreprises existantes, analyse les données de l'offre et de la demande des différents services et produits dans le contexte de sa recherche visant à mettre sur pied d'autres secteurs à l'entreprise.
+[8] L'appelante fait une recherche sur de nouveaux produits à vendre ou de services à offrir. Elle s'occupe également de la structure, de la disposition et de l'étalage des nouveaux secteurs établis dans les magasins existants. Depuis qu'elle occupe ce poste, elle a réalisé la mise sur pied d'un rayon d'équipement de studio et d'instruments en laiton, à l'intérieur de la compagnie, ainsi que d'un département de réparation. Elle s'est occupée, en outre, de l'expansion de la librairie et des rayons du vêtement et du cadeau. Il a été établi, en outre, que l'appelante s'occupait avec le comptable de la payeuse du secteur des ressources humaines et de la finance, ayant reçu du comptable une formation dans ce domaine.
+[9] Le procureur de l'appelante soutient que le Ministre a interprété faussement les faits recueillis, qu'il a pris une décision hâtive, qu'il a fait une enquête incomplète et que cette Cour a entendu une preuve contradictoire. Il soutient, en outre, que les faits sur lesquels s'est fondé le Ministre sont faux.
+[10]La preuve a établi que l'appelante, en entrevue, était nerveuse, elle pleurait. On n'a pas réussi à obtenir tous les détails. Certaines informations que l'on cherchait ont été fournies par la suite dans l'affidavit de Steve Kirman, le père de l'appelante et l'unique actionnaire de la payeuse. Cet affidavit a été produit à l'annexe de l'avis d'appel sous la cote A-1.
+[11]Certains faits ont été mis en lumière à l'audition, mais n'ont pas fait partie de ceux qui ont été portés à l'attention du Ministre. Parmi ceux-ci figure le boni de 40 000 $ dont a bénéficié l'appelante en 2003. Le Ministre a prétendu que l'appelante était la seule à recevoir un boni en 2003. Cependant, il a été révélé à l'audition par le comptable de la payeuse que 19 employés ont reçu un boni en 2003. Selon le comptable, la payeuse reconnaissait par ce fait la performance de la compagnie et de l'employé. Le boni n'est pas automatique et il n'est pas de l'ordre de 40 000 $ à chaque occasion.
+[12]Le Ministre a attaché beaucoup d'importance au fait que l'appelante touchait avec son boni une rémunération supérieure à celle du comptable. La preuve a établi, cependant, que 13 employés de la payeuse gagnaient plus que le comptable. Par ailleurs, l'appelante a fait valoir qu'elle a débuté avec la payeuse en 1994 alors que le comptable a été embauché en 1999.
+[13]La preuve a démontré que le salaire de 600 $ par semaine payé à l'appelante était son salaire de base auquel venait s'ajouter d'autres compensations, telles le boni.
+[14]Quant aux divergences sur le salaire de l'appelante, selon le livre des salaires et son relevé d'emploi, celles-ci ont été clairement expliquées dans la pièce A-3 produite à l'audition.
+[15]Contrairement à l'information recueillie par les enquêteurs, la preuve a révélé que la payeuse avait effectivement embauché d'autres personnes pendant le congé de l'appelante, admettant toutefois qu'il était difficile de trouver des remplaçants possédant les qualifications de l'appelante. Ainsi, la payeuse a distribué les tâches de l'appelante à d'autres employés et le comptable a assumé les tâches de celle-ci portant sur les affaires confidentielles et particulières.
+[16]La payeuse avait jugé qu'il ne fallait pas assurer une formation à ces remplaçants temporaires.
+[17]L'agente à l'admissibilité de l'Agence des douanes et du revenu du Canada, Danielle Lacoste, a témoigné à l'audition et déposé le rapport informatisé de sa décision sous la cote R-6. Elle affirme dans ce rapport, entre autres, ce qui suit :
+Je ne crois pas que les tâches effectuées par la travailleuse justifie [sic] un tel salaire, d'ailleurs elle a eu de la difficulté à me fournir des précisions sur ses fonctions exactes. Le contrôleur a confirmé qu'il ne paierait pas le même salaire à une personne non liée. De plus la travailleuse ne sera pas remplacée pour la durée de son congé.
+[18]J'ai déjà traité de la deuxième partie de cette affirmation. Quant à la première, on a demandé à madame Lacoste en contre-interrogatoire si elle avait consulté ailleurs, dans l'industrie, pour en arriver à une telle conclusion. Elle a affirmé que non, elle ne l'avait pas fait. Il va sans dire que cette opinion qu'elle a exprimé aurait beaucoup plus de valeur probante si elle représentait la conclusion d'une recherche ou encore si elle avait cité des statistiques provinciales ou fédérales. Il en existe.
+[19]Le Ministre a conclu qu'il existait entre la payeuse et l'appelante un contrat de louage de services, mais il a déterminé qu'en raison du lien de dépendance, l'appelante étant la fille de l'unique actionnaire de la payeuse, son emploi était exclu des emplois assurables en vertu de l'alinéa 5(2)i) de la Loi. Dans cette conjoncture, il appartient au Ministre de faire son analyse de l'emploi de la travailleuse selon le mandat que lui confie l'alinéa 5(3)b) de la Loi qui se lit comme suit :
+(3) Pour l'application de l'alinéa (2)i) :
+[...]
+b) l'employeur et l'employé, lorsqu'ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu'il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d'emploi ainsi que la durée, la nature et l'importance du travail accompli, qu'ils auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+[20]L'appelante demande à cette Cour de renverser la décision du Ministre.
+[21]Quant à la compétence et le pouvoir de cette Cour, la Cour d'appel fédérale en a prescrit les paramètres dans l'arrêt Légaré c. Canada (ministre du Revenu national - M.R.N.), [1999] A.C.F. no 878 où le juge Marceau s'exprimait de la façon suivante :
+La Loi confie au ministre le soin de faire une détermination à partir de la conviction à laquelle son examen du dossier peut le conduire. L'expression utilisée introduit une sorte d'élément de subjectivité et on a pu parler de pouvoir discrétionnaire du ministre, mais la qualification ne devrait pas faire oublier qu'il s'agit sans doute d'un pouvoir dont l'exercice doit se fonder pleinement et exclusivement sur une appréciation objective des faits connus ou supposés. Et la détermination du ministre n'est pas sans appel. La Loi accorde, en effet, à la Cour canadienne de l'impôt le pouvoir de la réviser sur la base de ce que pourra révéler une enquête conduite, là, en présence de tous les intéressés. La Cour n'est pas chargée de faire la détermination au même titre que le ministre et, en ce sens, elle ne saurait substituer purement et simplement son appréciation à celle du ministre : c'est ce qui relève du pouvoir dit discrétionnaire du ministre. Mais la Cour doit vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et après cette vérification, elle doit décider si la conclusion dont le ministre était « convaincu » paraît toujours raisonnable.
+[22]L'appelante avait le fardeau de prouver la fausseté des présomptions de fait sur lesquelles le Ministre s'est fondé pour rendre sa décision. À mon avis, elle s'est acquittée de cette tâche.
+[23]Selon le juge Marceau, dans l'arrêt Légaré précité, cette Cour « doit vérifier si les faits supposés ou retenus par le Ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et après cette vérification, elle doit décider si la conclusion dont le Ministre était « convaincu » paraît toujours raisonnable » .
+[24]Au terme de cette analyse, en raison des éléments de preuve recueillis à l'audition, cette Cour doit conclure que la conclusion dont le Ministre était convaincu ne paraît plus raisonnable.
+[25]Donc, l'appelante exerçait un emploi assurable auprès de la payeuse puisqu'il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités de l'emploi ainsi que la durée, la nature et l'importance du travail accompli, que l'appelante et la payeuse auraient conclu entre elles un contrat de travail à peu près semblable si elles n'avaient pas eu de lien de dépendance.
+[26]En conséquence, l'appel est accueilli et la décision rendue par le Ministre est annulée.
+Signé à Grand-Barachois, Nouveau-Brunswick, ce 9e jour de février 2006.
+« S.J. Savoie »
+Juge suppléant Savoie
+RÉFÉRENCE : 2006CCI30
+N º DU DOSSIER DE LA COUR : 2005-1732(EI)
+INTITULÉ DE LA CAUSE : Heidi Kirman et M.R.N.
+LIEU DE L'AUDIENCE : Montréal (Québec)
+DATE DE L'AUDIENCE : le 19 octobre 2005
+MOTIFS DE JUGEMENT PAR : L'honorable S.J. Savoie, Juge suppléant
+DATE DU JUGEMENT : le 9 février 2006
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Alfredo Mancini
+Avocate de l'intimé :
+Me Marie-Aimée Cantin
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom : Me Alfredo Mancini
+Étude : Kaufman Laramée
+Montréal (Québec)
+Pour l'intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Ontario

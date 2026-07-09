@@ -1,0 +1,163 @@
+---
+title: "Pilon c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30189/index.do"
+last_modified: "2011-02-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 67"
+citation2: ""
+neutral_citation: "2011 CCI 67"
+decision_date: "2011-02-04"
+language: "fr"
+item_id: "30189"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7733
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:08:45.593000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "29d63ee66ab84f35f85b0a06060cc94c0da32a6f9910cc1e617f0dbac1720aab"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Pilon c. La Reine
+
+- Citation: 2011 CCI 67
+- Decision date: 2011-02-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7733, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pilon c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-02-04
+Référence neutre
+2011 CCI 67
+Numéro de dossier
+2010-282(IT)I
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-282(IT)I
+ENTRE :
+MARC PILON,
+appelant,
+et
+SA MAJESTÉ
+LA REINE ,
+intimée.
+____________________________________________________________________
+Appels entendus le 26 novembre 2010, à Montréal (Québec).
+Devant : L’honorable juge Brent Paris
+Comparutions :
+Représentants de l’appelante :
+Mme Christina Meunier-Cyr (étudiante en droit)
+et M. Frédérick Houle (étudiant en droit)
+Avocat de l’intimée :
+Me Marc André Rouet
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2005 est accueilli, sans frais, et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte du fait que 15 363,46 $ était déductible à titre de dépenses courantes pour l’année d’imposition 2005.
+Les appels interjetés à l’encontre des nouvelles cotisations établies en vertu de la Loi pour les années d’imposition 2004, 2006 et 2007 sont rejetés.
+Signé à Ottawa, Canada, ce 4e jour de février 2011.
+« B. Paris »
+Juge Paris
+Référence : 2011 CCI 67
+Date : 20110204
+Dossier : 2010-282(IT)I
+ENTRE :
+MARC PILON,
+appelant,
+et
+SA MAJESTÉ
+LA REINE ,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] Le présent appel est interjeté sous le régime de la procédure informelle à l’encontre des nouvelles cotisations établies à l’égard de l’appelant pour les années d’imposition 2004 à 2007 inclusivement. Le ministre du Revenu national (le « ministre ») a établi une nouvelle cotisation à l’égard de l’appelant pour faire passer de 67 541 $ à 4 233 $ la perte locative qu’il avait déduite pour l’année d’imposition 2005, pour refuser le report rétrospectif de pertes autres qu’en capital de 27 993 $, de l’année d’imposition 2005 à l’année d’imposition 2004, et pour refuser un report prospectif de pertes autres qu’en capital de 3 300 $, de l’année d’imposition 2005 à l’année d’imposition 2006. Le ministre a aussi refusé certains crédits d’impôt pour frais de scolarité et crédits d’impôt pour études qui ne sont pas en litige.
+[2] En plus de contester la réduction de la perte locative et le refus du ministre d’autoriser les pertes autres qu’en capital en découlant, l’appelant cherche à augmenter la perte locative qu’il avait déduite initialement pour l’année d’imposition 2005 et à augmenter les reports prospectif et rétrospectif des pertes autres qu’en capital qu’il avait faits.
+[3] La question à trancher dans le présent appel consiste à déterminer si les dépenses de 89 758 $ pour des travaux effectués dans un duplex dont l’appelant est propriétaire et qui est situé au 7655/7657, rue Broadway, à LaSalle, au Québec (le « bien ») étaient déductibles à titre de frais de réparation et d’entretien, dans le calcul de son revenu tiré d’un bien en 2005.
+[4] Dans sa déclaration de revenus de 2005, l’appelant a demandé une déduction au titre de frais de réparation et d’entretien de 55 627 $ à l’égard du bien. Il a dit avoir dépensé un total de 85 580 $ pour réparer et pour entretenir le bien, montant dont il a déduit 65 % à titre de frais de location. Les 35 % restants ont été considérés comme des frais personnels, parce que l’appelant avait vécu dans le logement du haut à partir de juillet 2005 jusqu’à la fin de l’année.
+[5] Une cotisation a d’abord été établie à l’égard de l’appelant pour l’année d’imposition 2005 afin de permettre la déduction d’une perte locative (63 308 $) plus grande que celle qui avait été déduite (60 010 $). Il semble que le montant qui a été admis au‑delà de ce qui avait été déduit a été admis par erreur, mais cette question n’est pas en cause. En 2008, l’appelant a révisé la perte locative qu’il avait déduite pour l’année d’imposition 2005. Il a déduit un montant additionnel de 1 167 $ au titre de frais de réparation et d’entretien du bien, pour un total de 86 747,37 $, et il a supprimé le rajustement de 35 % visant à tenir compte de l’utilisation du bien à des fins personnelles.
+[6] L’Agence du revenu du Canada a examiné la demande de déduction révisée et elle a refusé la totalité du montant déduit pour les frais de réparation et d’entretien, en partant du principe que les montants n’avaient pas été payés pour gagner un revenu parce que le bien de l’appelant est devenu sa résidence principale et qu’il s’agissait de dépenses en capital.
+[7] Dans l’appel qu’il a interjeté à l’encontre des nouvelles cotisations, l’appelant cherche aussi à faire passer le montant des déductions pour les frais de réparation et d’entretien du bien à 89 758 $, soit une augmentation par rapport au montant de 85 580 $ de sa demande initiale et au montant de 86 747 $ de la demande révisée.
+[8] L’appelant a acheté le bien en 2001 pour 117 000 $. Au moment de l’achat, les deux logements étaient loués et les locataires existants sont restés. Le logement du haut avait une superficie approximative de 1 000 pieds carrés, tandis que le logement du bas, s’étendant sur le rez‑de‑chaussée et le sous‑sol, avait une superficie approximative de 1 800 pieds carrés.
+[9] En avril 2005, le locataire du logement du haut a déménagé sans donner d’avis. L’inspection de l’appartement a permis à l’appelant de constater que le logement était, selon lui, dans un état « désastreux ». Certaines portes intérieures étaient endommagées, sur certains murs on trouvait de nombreux petits trous causés par les cadres qui y avaient été collés ou accrochés, un carreau de vitre d’une porte extérieure avait été brisé et celle‑ci était difficile à ouvrir, le revêtement en linoléum de la salle à manger était usé et déchiré par endroits, dans la salle de séjour il manquait un luminaire et le tapis était déchiré et sale, dans la chambre arrière, il y avait de la moisissure et des dégâts d’eau en raison d’une fuite d’eau causée par un égout de toit bloqué. Dans la cuisine, il manquait une porte d’armoire, quelques tiroirs, ainsi qu’une poignée d’armoire et le coin d’une autre porte était brisé.
+[10] À ce moment, l’appelant a décidé de faire des travaux dans le logement du haut au lieu d’essayer de le louer. Au cours des trois mois qui ont suivi, il a effectué les travaux suivants : dans la cuisine, il a remplacé les armoires et les comptoirs, remplacé l’évier et changé son emplacement, ajouté un lave-vaisselle et remplacé le revêtement en linoléum par des carreaux de céramique; il a également remplacé une grande partie du câblage électrique, ajouté des prises de courant, remplacé ou ajouté des appareils de chauffage électrique et au moins plusieurs disjoncteurs. Il a remis à neuf les planchers en bois de la salle de séjour, de la salle à manger, du vestibule, des trois chambres à coucher et des placards, et remplacé les portes extérieures. Les murs ont été réparés, certaines fenêtres et certains cadres de porte ont été remplacés et l’appartement a été peint. Il semble aussi qu’une partie de la plomberie de la cuisine, le meuble de toilette et le ventilateur de la salle de bain ont été remplacés. Ces travaux ont été terminés en juin 2005.
+[11] Dans son témoignage, l’appelant a déclaré que, vers la même période, le locataire du logement du bas a décidé de déménager. L’appelant a déterminé que des travaux étaient également nécessaires pour ce logement, même s’il n’était pas dans un état aussi « désastreux » que ne l’avait été le logement du haut. Par conséquent, il a décidé d’emménager dans le logement du haut, qui venait d’être terminé, afin d’être plus facilement en mesure de travailler dans le logement du bas.
+[12] Selon le témoignage de l’appelant, de l’eau coulait dans le sous-sol par des fissures dans la fondation et de l’eau coulait dans la chambre arrière du rez‑de‑chaussée à partir de la même fuite de l’égout de toit qui avait causé des dommages dans le logement du haut. L’appelant a fait changer le drain agricole, et il a enlevé et remplacé toutes les finitions du sous‑sol. Il a aussi remplacé la partie abimée de la chambre arrière du rez‑de‑chaussée. Il a également affirmé qu’il devait aussi remplacer le système de chauffage à l’huile par un système de chauffage électrique parce que son assureur l’avait informé qu’il ne pouvait plus assurer d’établissements utilisant un système de chauffage à l’huile. Par conséquent, l’appelant a mis à niveau le coffret de branchement pour le faire passer de 100 A à 200 A. D’importants travaux de recâblage ont aussi été effectués dans tout le logement.
+[13] L’appelant a aussi déclaré que, par le passé, les planchers de la cuisine avaient été réparés un certain nombre de fois pour contrebalancer l’affaissement du sol sous la maison, et que, par conséquent, la hauteur des comptoirs avait été abaissée dans les faits. Puisque la cuisine était démodée et que les armoires étaient abimées, il a décidé de refaire la cuisine. Il a aussi fait souffler de l’isolant dans le plafond pour insonoriser les deux logements et les murs extérieurs du rez‑de‑chaussée ont été isolés.
+[14] L’appelant a déclaré que le bain de la salle de bain du rez‑de‑chaussée devait être remplacé parce qu’il était taché et, pour ce faire, la tuile céramique située autour du bain a dû être refaite. Les réservoirs d’eau chaude des deux logements ont été remplacés, l’appartement a été repeint et l’entrée de cour a été scellée à nouveau. L’appelant a effectué la plupart des travaux lui‑même, avec l’assistance d’amis et de parents qui l’ont aidé bénévolement.
+[15] Le représentant de l’appelant a soutenu que les dépenses qui avaient été faites par l’appelant pour effectuer des travaux et se procurer du matériel pour le bien constituaient des dépenses courantes et devraient être déductibles dans le calcul du revenu tiré d’un bien de l’appelant pour 2005. Il a affirmé que, pour déterminer si une dépense particulière constitue une dépense courante ou une dépense en capital, il faut prendre en considération toutes les circonstances de l’affaire, notamment l’objectif de l’appelant qui sous‑tend les dépenses et la question de savoir si les dépenses ont entraîné la création d’un nouveau bien.
+[16] Le représentant a affirmé que l’appelant n’avait pas effectué les travaux pour augmenter la valeur du bien, mais simplement pour réparer les dommages et remédier à l’usure et pour éviter les réparations futures. Les logements n’ont pas été agrandis et aucune preuve n’a permis de démontrer que les travaux effectués ont augmenté leur valeur. Le représentant de l’appelant a déclaré que celui‑ci avait cherché à effectuer les travaux de la manière la plus économique possible en utilisant des matériaux de remplacement de qualité comparable à celle des matériaux originaux.
+[17] En ce qui concerne l’utilisation du bien à des fins personnelles, le représentant de l’appelant a soutenu que l’appelant n’avait déduit aucune dépense pour le logement qu’il avait occupé en 2005 pour des travaux effectués pendant qu’il occupait le logement. Il a aussi soutenu que les dépenses supportées pour les travaux effectués dans les logements tandis qu’ils étaient vacants étaient déductibles parce que les logements étaient quand même considérés comme un bien dont l’appelant voulait tirer un revenu durant ces périodes.
+Analyse
+[18] Je me pencherai d’abord sur la question de la deductibilité des dépenses payées après le 1er juillet 2005 pour les travaux effectués dans le logement du bas.
+[19] Après avoir examiné l’ensemble de la preuve, je conclus que l’appelant a effectué les travaux dans ce logement avec l’intention de l’occuper en tant que résidence personnelle et, par conséquent, que les dépenses n’ont pas été faites pour tirer un revenu d’un bien.
+[20] D’après la nature et la portée des travaux, je suis convaincu qu’ils ne constituent pas des réparations faites au logement dans le but de le louer. J’estime que les travaux effectués allaient bien au‑delà de ce qui était nécessaire pour remédier à toutes les défectuosités du logement afin de le louer. Même si le logement avait été occupé de manière continue à partir du moment où l’appelant a acheté l’édifice, et malgré le fait qu’aucune plainte n’avait été formulée par le locataire à l’égard de la condition du bien, l’appelant a choisi d’enlever la plupart des finitions existantes et de restructurer la majorité du rez‑de‑chaussée. La cuisine a été remplacée, bon nombre des murs intérieurs ont été soit enlevés, soit déplacés, une aire ouverte pour la salle de séjour, la salle à dîner et la cuisine a été créée à partir de ce qui auparavant constituait trois pièces séparées. La salle de bain a été relocalisée dans ce qui était auparavant une chambre à coucher; l’escalier du sous‑sol a aussi été déplacé. Les portes battantes des chambres à coucher ont été remplacées par des portes coulissantes encloisonnées, de nouveaux placards ont été installés, une fenêtre de la cuisine a été remplacée par une nouvelle porte‑fenêtre coulissante. Une partie de la véranda a été fermée pour l’utiliser comme buanderie, et la porte du sous‑sol donnant sur l’extérieur a été réaménagée.
+[21] Dans son témoignage direct, l’appelant n’a fait aucune allusion à la plupart des changements qui ont été décrits plus haut, et il a donné l’impression que les travaux n’avaient été faits que pour remédier à l’usure et réparer les dommages du logement. L’ampleur des travaux n’est devenue apparente que grâce à l’examen des plans des travaux que l’appelant avait soumis à la Ville, à la demande de l’inspecteur en bâtiment.
+[22] Ma conclusion voulant que ces rénovations aient été faites à des fins personnelles a été renforcée par le coût de certains travaux qui semblent excessifs, par comparaison avec les montants dépensés pour le logement du haut. Par exemple, l’appelant a dépensé 14 000 $ pour des armoires de cuisine et 2 300 $ pour un meuble de toilette, près de 1 000 $ pour un bain et 450 $ pour un ensemble de robinet pour bain romain. Il a aussi installé des cuves de toilettes d’une pièce, un broyeur de déchets dans l’évier de la cuisine, ainsi qu’un système d’aspirateur central, en plus d’insonoriser le plafond du rez‑de‑chaussée.
+[23] Par comparaison, l’appelant a dépensé 4 900 $ pour des nouvelles armoires de cuisine dans le logement du haut, pour une cuisine d’environ la même grandeur. Il n’a déplacé aucun mur ni installé de porte coulissante encloisonnée, n’a pas isolé les murs extérieurs ni ajouté d’aspirateur central ou de broyeurs de déchets, et il a seulement changé l’armoire à pharmacie de la salle de bain. L’appelant a aussi choisi de souffler de la mousse isolante dans les murs extérieurs du rez‑de‑chaussée, alors qu’aucun isolant n’a été ajouté dans le logement du haut.
+[24] L’appelant a affirmé que le coût élevé des armoires de cuisine du logement du bas découlait du fait que le plafond était plus haut. Il a affirmé que la cuisine du bas avait un plafond de dix pieds, comparativement à celle du haut qui avait un plafond de huit pieds, et qu’il en coûtait donc plus cher pour installer des armoires allant jusqu’au plafond.
+[25] Je n’accepte pas cette explication. Tout d’abord, aucun élément de preuve n’a été présenté pour confirmer qu’il est nécessaire que des armoires de cuisine aillent jusqu’au plafond, et je suis d’avis qu’il n’y a aucune raison pour qu’il en soit ainsi. De plus, il m’est difficile de croire que le coût beaucoup plus élevé des armoires du logement du bas était dû uniquement à leur hauteur. Les cuisines des deux logements avaient environ la même grandeur et la même configuration, pourtant, le coût des armoires du logement du bas était près de trois fois plus élevé que celui des armoires du logement du haut. Je rejette également le fait que les nouvelles armoires en « thermoplastique » du logement du bas étaient de qualité inférieure aux anciennes armoires, comme l’a prétendu l’appelant. Des photographies des armoires du logement du haut prises avant leur remplacement montrent qu’il s’agit d’armoires encastrées très simples en contreplaqué, et l’appelant a témoigné que les armoires existantes du logement du bas étaient similaires. Il est très difficile de croire que les nouvelles armoires de 14 000 $ étaient de qualité inférieure aux armoires d’origine.
+[26] Je souligne également que l’appelant a témoigné que le logement du bas était en meilleur état que le logement du haut lorsque les locataires sont partis. L’appelant n’a donné aucune raison pour expliquer les finitions plus chères et la restructuration importante du logement du bas et, compte tenu du fait qu’il a emménagé dans ce logement après que les travaux aient été terminés en grande partie et qu’il y demeure toujours, j’en déduis qu’il avait l’intention dès le départ de rénover le logement pour son utilisation personnelle. En outre, si l’appelant avait eu l’intention de maximiser son revenu locatif, il serait demeuré dans le logement du haut et aurait loué le logement du bas, qui était plus grand et entièrement rénové. Même si l’appelant a affirmé qu’il avait emménagé dans le logement du bas parce le logement du haut pouvait être loué immédiatement et que les travaux dans celui du bas n’étaient pas terminées, à un autre moment pendant son témoignage, il a affirmé que la plupart des travaux dans le logement du bas étaient terminés à la fin de 2005. Il me semble que lorsqu’il a emménagé dans le logement du bas en avril 2006, il ne restait que de menus travaux à faire et, par conséquent, l’explication de l’appelant pour ce qui est d’emménager en bas est contredite par les faits.
+[27] L’appelant a également déclaré qu’il avait décidé d’occuper le logement du bas après le décès de sa mère, en mars 2006. L’appelant a affirmé qu’avant que sa mère ne devienne malade, il avait projeté d’aller vivre avec elle dans une maison dont il était propriétaire à Saint‑Basile‑le‑Grand et qui était située près de la résidence de sa mère. Cependant, cela semble avoir été un plan à long terme. Au début de son témoignage, l’appelant a déclaré avoir eu l’intention d’aller vivre à Saint‑Basile‑le‑Grand seulement après qu’il se serait marié et qu’il aurait eu des enfants. Dans ses déclarations de revenus de 2005 et de 2006, il a inscrit que son état civil était celui de célibataire et il n’a déclaré aucune personne à charge.
+[28] Même si j’avais conclu que l’appelant avait l’intention de louer le logement du bas après les rénovations, j’aurais conclu que les dépenses pour ce logement constituaient des dépenses en capital. Bien que certaines parties du travail puissent avoir été nécessaires en raison de l’usure ou de dommages, les travaux effectués allaient bien au‑delà de ce qui était nécessaire pour simplement remettre dans leur état d’origine ou dans un état équivalent les parties usées ou endommagées du logement. Cette question a été considérée comme un facteur important dans des affaires du même genre.
+[29] Dans Chambers c. Canada [1] , pour décider si certaines dépenses relatives à un bien locatif étaient des dépenses en capital ou des dépenses courantes, le juge Brulé a affirmé ce qui suit :
+14 Il semblerait que, si les réparations permettent de garder l’immeuble dans un état pour ainsi dire identique à celui dans lequel il se trouvait avant que les réparations soient effectuées, ces réparations ont alors été, à bon droit, portées au compte des dépenses courantes mais que, si les réparations ont pour résultat un nouvel immeuble, pour ainsi dire, ou un immeuble à tout le moins très différent, elles doivent être considérées comme des dépenses en capital.
+[30] Dans Gold Bar Developments Ltd. v. Canada [2] , le juge en chef adjoint Jérome a écrit ce qui suit :
+[traduction]
+8. Une dépense qui constitue une réparation ne sera pas acceptée comme déduction du revenu si elle devient si importante qu’elle constitue le remplacement du bien. Voir Canada Steamship Lines Limited v. Minister of National Revenue, [1966] C.T.C. 255, 66 D.T.C. 5205; M.N.R. v. Haddon Hall Realty Inc., [1961] C.T.C. 509, 62 D.T.C. 1001 et Minister of National Revenue v. Vancouver Tugboat Company, Limited, [1957] C.T.C. 178, 57 D.T.C. 1126.
+[31] Compte tenu de la description des travaux que j’ai effectuée plus haut, il me semble que le logement du bas a été transformé de façon considérable par les rénovations et qu’un résultat très différent du logement dans son état original a été atteint.
+[32] Je conclus également que l’appelant avait l’intention d’améliorer le logement, de le remettre en meilleur état et que ce fait appuie la conclusion voulant que les dépenses effectuées constituent des dépenses en capital : voir Gold Bar Developments Ltd. v. Canada, au paragraphe 5.
+[33] Enfin, le montant dépensé pour les rénovations – environ 70 000 $ – était considérable par rapport au coût d’acquisition initial du bien. La partie du coût d’acquisition total du bien attribuable au logement du bas aurait été de 65 % x 117 000 $ (117 000 $ étant le coût de l’ensemble du bien de l’appelant, incluant le terrain), ce qui équivaut à 76 500 $, ou légèrement plus que le total dépensé par l’appelant pour les rénovations.
+[34] En ce qui concerne les montants dépensés pour le logement du haut, je suis convaincu que la majorité des montants ont été dépensés pour réparer les dommages et remédier à l’usure. Je suis également convaincu que l’appelant n’a pas effectué les réparations avec l’intention d’occuper le logement, à part temporairement pendant qu’il rénovait le logement du bas en tant que sa résidence personnelle. Dans l’ensemble, les travaux semblent limités à la réparation des dommages ou des éléments usés, ce qui correspondait à une intention de louer les lieux. Cependant, je suis d’avis que le montant dépensé pour les travaux électriques constituait une dépense en capital. Aucune preuve permettant de démontrer l’existence d’un problème relativement au système électrique n’a été démontrée, à l’exception de l’utilisation d’un climatiseur individuel qui entraînait parfois le saut d’un disjoncteur. Toutefois, les travaux effectués allaient bien au‑delà de l’ajout d’un circuit électrique séparé pour un appareil de climatisation. Les matériaux seuls pour les travaux d’électricité ont coûté plus de 4 400 $. Même si l’appelant a affirmé qu’il était préoccupé par l’état du câblage, il n’a obtenu aucun avis professionnel à ce sujet. De plus, il a admis avoir ajouté des prises de courant supplémentaires pour tenir compte du plus grand nombre d’appareils électriques qui sont maintenant utilisés, par rapport à l’époque où le logement a été construit. Ces facteurs m’amènent à conclure qu’au moins 80 % des travaux d’électricité avaient pour but d’améliorer le logement et que, dans les faits, ils constituaient une amélioration et ne visaient pas à le réparer pour le remettre dans son état initial.
+[35] Selon la pièce A-1 les montants dépensés pour les travaux pour le logement du haut en 2005 remontaient à 19 812,86 $, mais l’appelant à reconnu que le montant de 875 $ indiqué pour « réparation asphalte » devait en être déduit parce qu’il faisait partie des dépenses pour le logement du bas. Le total revient alors à 18 937,86 $. Le montant dépensé pour l’électricité était 4 468,01 $ dont 80% est 3 574,40 $. Le total des dépenses déductibles serait alors 15 363,46 $.
+[36] Pour ces motifs, l’appel est accueilli en partie et l’affaire est déférée au ministre pour nouvel examen et nouvelle cotisation, compte tenu du fait que 15 363,46 $ (soit le montant dépensé pour le logement du haut, à l’exception de 80 % des dépenses pour les travaux d’électricité) étaient déductibles à titre de dépenses courantes pour l’année d’imposition 2005.
+Signé à Ottawa, Canada, ce 4e jour de février 2011.
+« B. Paris »
+Juge Paris
+RÉFÉRENCE : 2011 CCI 67
+No DU DOSSIER DE LA COUR : 2010-282(IT)I
+INTITULÉ : MARC PILON c.
+SA MAJESTÉ
+LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 26 novembre 2010
+MOTIFS DU JUGEMENT : L’honorable juge Brent Paris
+DATE DU JUGEMENT : Le 4 février 2011
+COMPARUTIONS :
+Représentants de l’appelant :
+Mme Christina Meunier-Cyr (étudiante en droit) et M. Frédérick Houle (étudiant en droit)
+Avocat de l’intimée :
+Me Marc André Rouet
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : S/O
+Cabinet : S/O
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa (Canada)
+[1] [1997] A.C.I. no 1244.
+[2] [1987] A.C.F. no 219.

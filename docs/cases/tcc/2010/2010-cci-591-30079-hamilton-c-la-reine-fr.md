@@ -1,0 +1,200 @@
+---
+title: "Hamilton c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30079/index.do"
+last_modified: "2010-11-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 591"
+citation2: ""
+neutral_citation: "2010 CCI 591"
+decision_date: "2010-11-17"
+language: "fr"
+item_id: "30079"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7607
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:26:02.208000+00:00"
+cases_cited_count: 9
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c3afe0b710ab9721962c8edc2c1f8e41dd1140f3c705c5a5fe2014a3c9f44e58"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hamilton c. La Reine
+
+- Citation: 2010 CCI 591
+- Decision date: 2010-11-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7607, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hamilton c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-11-17
+Référence neutre
+2010 CCI 591
+Numéro de dossier
+2009-2304(IT)I
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-2304(IT)I
+ENTRE :
+DALE V. HAMILTON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de Dale V. Hamilton
+(2009-1964(GST)I) les 5 et 6 juillet 2010, à Halifax (Nouvelle-Écosse).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Avocat de l’appelant :
+Me Daniel F. Wallace
+Avocate de l’intimée :
+Me Melanie Petrunia
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2005 est accueilli en partie, sans adjudication des dépens, l’affaire étant renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en conformité avec les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 17e jour de novembre 2010.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 12e jour de janvier 2011.
+Marie-Christine Gervais
+Dossier : 2009-1964(GST)I
+ENTRE :
+DALE V. HAMILTON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de Dale V. Hamilton
+(2009-2304(IT)I) les 5 et 6 juillet 2010, à Halifax (Nouvelle-Écosse).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Avocat de l’appelant :
+Me Daniel F. Wallace
+Avocate de l’intimée :
+Me Melanie Petrunia
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu des dispositions de la Loi sur la taxe d’accise, dont l’avis est daté du 10 mars 2009, pour la période allant du 31 mars 2004 au 31 décembre 2005, est accueilli en partie, sans adjudication des dépens, l’affaire étant renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en conformité avec les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 17e jour de novembre 2010.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 12e jour de janvier 2011.
+Marie-Christine Gervais
+Référence : 2010 CCI 591
+Date : 20101117
+Dossiers : 2009-2304(IT)I
+2009-1964(GST)I
+ENTRE :
+DALE V. HAMILTON,
+appelant
+et
+SA MAJESTÉ LA REINE,
+intimée
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Boyle
+[1] Les présents appels en matière d’impôt sur le revenu et de taxe de vente harmonisée (« TVH ») interjetés sous le régime de la procédure informelle ont été entendus ensemble à Halifax. Ils concernent une cotisation fondée sur la valeur nette établie pour l’année d’imposition 2005 de l’appelant. M. Hamilton est un travailleur indépendant exploitant une entreprise qui a fait l’objet d’une nouvelle cotisation en matière d’impôt sur le revenu pour l’année 2005 et d’une cotisation relative à de la TVH additionnelle pour les années 2004 et 2005, ainsi que de pénalités pour les revenus déclarés en moins et la TVH.
+I. Concessions des parties
+[2] Au début de l’instruction, l’intimée a fait les concessions suivantes à l’égard des sommes dont il est fait appel :
+1) La valeur de l’actif commercial doit faire l’objet d’un rajustement de 1 000 $, compte tenu du fait que le terrain en question a été vendu 23 000 $ et non 22 000 $;
+2) C’est à tort que l’on a ajouté 1 265 $ au montant dû au titre d’un prêt de Financement agricole Canada;
+3) Pour 2004, des crédits de taxe sur les intrants (« CTI ») additionnels de 3 123,37 $ doivent être accordés relativement à la TVH, des reçus satisfaisants ayant été produits avant l’instruction;
+4) Pour 2005, des CTI additionnels de 2 814,86 $ doivent être accordés relativement à la TVH, des reçus satisfaisants ayant été produits avant l’instruction;
+5) Les pénalités et les intérêts doivent être rajustés conformément aux paragraphes 1) à 4) ci-dessus.
+[3] Lors de l’instruction, la Couronne a reconnu que la question de l’utilisation d’une partie du domicile à des fins commerciales n’était pas pertinente en l’espèce.
+[4] Au cours de l’instruction, le contribuable a concédé la question des CTI liés au camion Volvo.
+II. Faits et historique de l’affaire
+[5] M. Hamilton exploitait une entreprise d’exploitation forestière pour son propre compte. Il assurait aussi, parfois le transport de gravier. (Au cours des années en cause, il ne s’est occupé ni de vente de gravier ni de soudure). Dans ses activités forestières, M. Hamilton faisait généralement tout le travail lui-même, de la coupe du bois à la livraison des billes à la scierie. Il assurait également le transport de billes appartenant à d’autres, les apportant jusqu’aux scieries. Les grandes scieries le payaient par chèque. Il arrivait à M. Hamilton d’employer des bûcherons pour abattre les arbres.
+[6] M. Hamilton est inscrit aux fins de la TVH. Dans le cadre de ses entreprises, et pour assurer leur conformité à la réglementation en matière d’impôt et de taxe, M. Hamilton a recours aux services d’un comptable et d’un commis-comptable externes.
+[7] M. Hamilton a fait l’objet d’une vérification relativement à ses années 2004 et 2005, en partie parce qu’il déclarait des pertes d’entreprise importantes par rapport à ses modestes revenus de placement, ce qui donnait lieu à des pertes s’élevant à des dizaines de milliers de dollars. Il était évident, en outre, qu’il exerçait une activité dont une grande partie des rentrées de fonds et des dépenses étaient en espèces.
+[8] Au début de la vérification, la vérificatrice de l’Agence du revenu du Canada (l’« ARC »), Mme Amanda Dawn Stright, a rencontré le comptable de M. Hamilton au bureau de ce dernier. Elle s’est également présentée chez le commis-comptable pour y consulter les registres comptables. Puis, elle s’est rendue à la résidence de M. Hamilton pour vérifier ses registres et ses actifs commerciaux. La réunion n’a pas duré longtemps. Il lui a en effet demandé de partir lorsqu’elle a souhaité examiner ses registres comptables afin de savoir comment il arrivait à s’en tirer financièrement, dans la mesure où ses activités commerciales étaient déficitaires et il n’avait aucune autre source de revenus. Elle est partie avant de pouvoir consulter les registres en question. Selon elle, on lui aurait demandé de partir. Selon M. Hamilton, lorsque la vérificatrice lui a demandé de justifier les pertes qu’il avait déclarées, il lui a montré la porte, disant aux vérificateurs qu’ils pouvaient soit partir de leur propre gré, soit être expulsés, car ils n’obtiendraient pas ses registres sans ordonnance d’un tribunal.
+[9] S’étant vue refuser l’accès aux registres, Mme Stright a regagné son bureau et, au vu des renseignements financiers et des documents tirés des déclarations de revenus et obtenus du comptable et du commis-comptable, elle a établi une cotisation fondée sur la valeur nette. La cotisation ainsi établie s’élevait à une somme qui paraissait exorbitante et à première vue déraisonnable compte tenu de ce qu’elle savait des activités commerciales de M. Hamilton et de son niveau de vie. Je n’ai aucun doute qu’elle a agi conformément aux directives et aux politiques de l’ARC, mais bien qu’elle ait peut-être eu le droit d’établir une nouvelle cotisation aussi élevée, je doute qu’elle ait eu raison de le faire. Mon impression à cet égard est confirmée par le fait qu’au vu des objections formulées, l’agent d’appel a immédiatement réduit de plus de deux tiers les sommes figurant dans la nouvelle cotisation.
+[10] En fait, M. Hamilton possédait une documentation assez abondante sur ses revenus et ses dépenses, même si certaines de ses rentrées de fonds étaient en espèces, comme l’étaient la plupart de ses dépenses, tant commerciales que personnelles. Lorsqu’a eu lieu l’audience, le contribuable était parvenu à justifier à la satisfaction de l’ARC, environ 90 p. 100 de ses retraits en espèces, au moyen de reçus correspondants aux dépenses effectuées. M. Hamilton est donc, dans une large mesure, lui‑même responsable de ses démêlés avec le fisc, et la plupart des plaintes qu’il a formulées sont dues à sa conduite. Il est clair qu’il s’est très mal comporté lors de la vérification initiale, en refusant de produire ses registres et de justifier ses déclarations de revenus.
+[11] Les principaux éléments des cotisations établies au titre de la TVH portent sur la question de savoir si la TVH exigible relativement à la vente d’un terrain par M. Hamilton, et sur le fait qu’il n’a pas obtenu de certains de ses fournisseurs, essentiellement les bûcherons avec qui il sous-traitait, le numéro d’inscription aux fins de la TVH, qui est nécessaire.
+III. Le droit applicable
+[12] Dans l’arrêt Hsu c. La Reine, 2001 CAF 240, 2001 DTC 5459, la Cour d’appel fédérale s’est exprimée en ces termes :
+Les évaluations de la valeur nette sont une solution de dernier recours communément employée dans les cas où le contribuable refuse de produire une déclaration de revenus, qu’il a produit une déclaration fort inexacte ou qu’il refuse de fournir des documents qui permettraient à Revenu Canada de vérifier le rendement (V. Krishna, The Fundamentals of Canadian Income Tax Law, 5e éd. (Toronto : Carswell, (1995) à la page 1089). La méthode de la valeur nette est fondée sur l’hypothèse selon laquelle une augmentation de la richesse d’un contribuable au cours d’une certaine période peut être imputée au revenu pour cette période à moins que le contribuable ne démontre le contraire (Bigayan, précité, à la page 1619). Cette méthode vise à libérer le ministre de l’obligation ordinaire qui lui incombe de prouver l’existence d’une source imposable de revenu. Le ministre est uniquement tenu de démontrer que la valeur nette du contribuable a augmenté entre deux dates. En d’autres termes, une évaluation de la valeur nette ne se rapporte pas à la détermination de la source ou de la nature de l’augmentation de la richesse du contribuable. Une fois qu’il est démontré qu’il y a eu augmentation, il incombe entièrement au contribuable de séparer son revenu imposable des gains provenant de sources non imposables (Gentile c. La Reine, [1988] 1 C.T.C. 253, à la page 256 (C.F. 1re inst.)).
+Par sa nature, une évaluation de la valeur nette est une estimation arbitraire et imprécise du revenu du contribuable. Toute iniquité perçue se rapportant à ce genre d’évaluation est réglée en reconnaissant que le contribuable est celui qui est le mieux placé pour connaître son revenu imposable. Lorsque le fondement factuel de l’estimation du ministre est inexact, il devrait être simple pour le contribuable de corriger à la satisfaction de la Cour l’erreur que le ministre a commise
+[13] Dans la décision Altimimi c. La Reine, 2007 CCI 553, [2008] 2 C.T.C. 2001, j’ai exposé de manière détaillée la structure des cotisations fondées sur la valeur nette.
+[14] S’agissant de contester une cotisation fondée sur la valeur nette, le contribuable peut procéder de deux manières. Il peut démontrer qu’il a tenu des registres adéquats permettant à la Cour de déterminer de manière satisfaisante le montant de son revenu ou de sa perte, ou bien, contester en appel tel ou tel élément de la cotisation fondée sur la valeur nette. En l’occurrence, bien que M. Hamilton ait tenu de nombreux registres et conservé de nombreux reçus, ceux-ci ne suffisent pas pour confirmer les pertes déclarées, et il a eu des rentrées de fonds et des dépenses en espèces dont ne rendent pas pleinement compte les registres produits. Il lui restait donc à contester tel ou tel élément de la cotisation fondée sur sa valeur nette.
+[15] Les règles régissant la documentation corroborante et les renseignements nécessaires pour justifier les CTI relatifs à la TVH et l’obligation absolue d’obtenir, afin d’avoir droit aux CTI, le numéro d’inscription aux fins de la taxe sur les produits et services / taxe de vente harmonisée (« TPS/TVH ») des fournisseurs, en application de l’alinéa 169(4)a) de la Loi sur la taxe d’accise (la « législation sur la TPS/TVH ») et de l’article 3 du Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants (TPS/TVH), ont été exposés de façon très détaillée par la Cour d’appel fédérale dans l’arrêt Systematix Technology Consultants Inc. c. Canada, 2007 CAF 226, [2007] G.S.T.C. 74, et dans la décision rendue par la Cour dans Comtronic Computer Inc. c. La Reine, 2010 CCI 55, [2010] G.S.T.C. 13.
+IV. Honoraires d’avocat et frais d’arpentage
+[16] Je considère, au vu des éléments de preuve fournis, que les honoraires d’avocat et les frais d’arpentage relatifs au terrain vendu en 2005, ont effectivement été réglés par M. Hamilton en 2005, et doivent par conséquent être pris en compte dans les calculs et les tableaux relatifs à la cotisation fondée sur la valeur nette. Ces sommes s’élèvent à 2 619 $.
+V. Prêt de Financement agricole Canada
+[17] Après l’audience, l’avocat de l’appelant a invoqué un nouvel argument concernant l’interprétation qui pourrait être donnée d’une page dans chacun de deux documents produits en preuve. Ces deux pages figurent dans le recueil de pièces de l’intimée. L’avocat du contribuable entend se fonder sur ces deux documents, l’un établi à titre d’annexe par l’ARC dans le cadre du calcul de la valeur nette, l’autre établi par Financement agricole Canada pour démontrer que c’est à tort que l’ARC a considéré qu’une avance de 18 000 $ avait été consentie par Financement agricole Canada en 2004, alors qu’en fait, cette avance avait été versée à M. Hamilton en 2005. Son avocat souhaite en outre produire de nouvelles preuves à l’appui de cette interprétation.
+[18] Ni le contribuable ni son avocat ne se souvenaient à l’audience, de ce prêt de Financement agricole Canada lorsqu’on leur a, à plusieurs reprises, demandé si un prêt accordé en 2005 ne permettait pas d’expliquer la perte dont le contribuable avait fait état.
+[19] On ne saurait en l’espèce admettre de nouvelles preuves. Il faudrait en effet pour cela fixer une nouvelle date d’audience pour revenir sur un certain nombre d’éléments déjà versés au dossier, même si on y relève plusieurs antinomies et bien que le contribuable et son avocat n’aient pas, au cours des témoignages et des plaidoiries, invoqué le document qui semblerait plaider en leur faveur, puis également permettre à l’ARC de produire une nouvelle contre-preuve concernant la manière dont a été établie l’annexe de l’ARC. L’appelant semble vouloir, après la fin de l’audience, ajouter un complément au dossier. Une telle procédure entraînerait pour tout le monde des coûts et des retards, et ce, pour régler une question qui aurait pu être, au vu des éléments de preuve déjà versés au dossier, soulevée au cours des plaidoiries. Je ne suis pas convaincu qu’il convienne en l’espèce d’admettre la production de nouveaux éléments de preuve et je n’entends par conséquent pas tenir compte du document additionnel produit par l’avocat du contribuable.
+[20] En ce qui concerne le nouvel argument concernant l’incompatibilité des deux documents, je ne vois aucune raison d’accorder en l’espèce le bénéfice du doute à une interprétation favorable à la thèse du contribuable. L’incompatibilité entre les deux documents aurait pu être relevée à l’audience et le contribuable aurait dû songer à produire de nouveaux éléments de preuve, soit par témoignage, soit par documents, afin d’éclaircir la question. Au contraire, ni le contribuable ni son avocat ne s’est souvenu qu’il aurait pu y avoir en 2005 cette avance en espèces effectuée au moyen d’un prêt consenti en 2004, malgré le rapprochement d’états bancaires détaillés manifestement établis en vue de l’instruction.
+[21] Je ne suis pas convaincu qu’au vu des éléments versés au dossier, il y ait lieu de modifier la cotisation fondée sur la valeur nette afin de prendre en compte ce prêt de Financement agricole Canada.
+[22] Je suis en outre conscient du fait que, si le prêt avait été consenti en 2005 plutôt qu’en 2004, cela aurait eu un effet équivalent, bien qu’en sens contraire au niveau de la vérification fiscale de 2004, elle aussi effectuée aux fins de l’établissement d’une cotisation fondée sur la valeur nette, et que cela aurait eu une incidence au niveau des questions dont la Cour est saisie au sujet de la TVH pour l’année 2004.
+VI. CTI et numéros d’inscription aux fins de la TVH
+[23] Il n’y a rien que la Cour puisse faire pour permettre à M. Hamilton de bénéficier des CTI relatifs aux fournitures pour lesquelles il n’a pas satisfait aux exigences légales impératives en matière de renseignements concernant ses fournisseurs, dont l’obtention de leur numéro d’inscription aux fins de la TPS/TVH. Cela ressort clairement de l’interprétation que, dans l’arrêt Systematix, précité, la Cour d’appel fédérale a donnée de la législation sur la TPS/TVH. Ces renseignements sont en effet requis en vertu de l’alinéa 169(4)a) de la législation sur la TPS/TVH, ainsi que par l’article 3 du Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants (TPS/TVH).
+VII. Les CTI relatifs à la vente du terrain
+[24] Je considère, au vu de la preuve, que la maison située sur le terrain vendu répond manifestement à la définition d’habitation figurant à l’article 123 de la législation sur la TPS/TVH, étant donné qu’il s’agit d’une maison individuelle qui, au moment de la vente, était vacante et dont la dernière occupation avait été à titre résidentiel. La maison et le terrain sur lequel elle est située constituent donc un immeuble d’habitation au sens de la définition contenue dans la disposition en cause. La partie du lot vendue avec la maison était raisonnablement nécessaire à l’usage résidentiel du bâtiment. C’est pourquoi il s’agissait d’une fourniture exonérée en vertu des règles figurant à l’annexe V‑I‑2 de la législation sur la TPS/TVH concernant les immeubles résidentiels non neufs. Les fournitures exonérées ne sont pas soumises à la TVH, car elles sont exclues de la définition d’activité commerciale et, par conséquent, de la définition de fourniture taxable, qui figurent toutes deux dans le paragraphe 123(1).
+VIII. Aucun autre changement concernant l’impôt sur le revenu ou la TVH
+[25] Je considère, au vu du dossier, qu’il n’y a lieu d’apporter aucun autre changement aux montants calculés relativement à l’impôt sur le revenu et à la TVH. Le contribuable n’a pas fourni à la Cour d’éléments de preuve crédibles lui permettant de contester le calcul de ses rentrées de fonds et de sa valeur nette. Il n’a présenté aucun argument raisonnable crédible pour s’opposer à tout autre aspect des chiffres et des calculs ayant servis à l’établissement de la cotisation fondée sur la valeur nette. Bref, il n’est pas parvenu à justifier les pertes qu’il avait déclarées, en expliquant qu’au cours de cette période, il avait vécu en partie de ses économies ou de prêts nouvellement obtenus.
+IX. Pénalités
+[26] Il s’est vu imposer des pénalités pour faute lourde relativement aux cotisations d’impôt sur le revenu et de TVH.
+[27] C’est à l’intimée qu’il appartient d’établir les faits justifiant l’imposition de ces pénalités. La norme de preuve à satisfaire est celle de la prépondérance des probabilités. Étant donné qu’il s’agit de l’imposition de pénalités, une norme de preuve plus stricte ne s’applique pas en l’occurrence.
+[28] Pour que puissent être confirmées les pénalités, l’intimée doit démontrer que l’appelant a fait, sciemment ou dans des circonstances équivalant à une faute lourde, de faux énoncés ou des omissions. Pour qu’il y ait faute lourde, il faut un degré important de négligence qui corresponde à une action délibérée ou une indifférence au respect de la Loi : Venne v. The Queen, 84 DTC 6247 (C.F. 1re inst.). En général, on ne considère pas que le ministre satisfait à cette norme de preuve si la conduite du contribuable cadre avec deux hypothèses viables et raisonnables, l’une qui justifie la pénalité et l’autre pas. Voir la décision de la Cour d’appel fédérale dans l’arrêt Panini c. Canada, 2006 CAF 224, 2006 DTC 6450, et la décision de la Cour canadienne de l’impôt dans Farm Business Consultants Inc. c. La Reine, [1994] A.C.I. 760, 95 DTC 200, et Harris c. La Reine, 2005 CCI 501, 2005 DTC 1179.
+[29] En ce qui concerne les autres pénalités ou les revenus déclarés en moins aux fins de l’impôt sur le revenu, le contribuable n’a pu, pour les expliquer, faire état d’aucune hypothèse viable et raisonnable. Les sommes en cause ne sont pas négligeables. Le contribuable savait qu’il avait d’importantes rentrées de fonds et dépenses en espèces. Relevons en outre qu’il n’a pas su expliquer comment il avait pu assumer les pertes découlant de ses activités génératrices de revenus sans épuiser ses placements ou s’endetter davantage. En ne déclarant pas certaines de ses activités ou opérations génératrices de revenus, M. Hamilton a commis à tout le moins une faute lourde. Les pénalités qui lui sont imposées à cet égard sont par conséquent confirmées.
+[30] En ce qui concerne les pénalités qui lui sont imposées au titre de la TVH, il convient, pour voir si c’est à juste titre qu’elles lui ont été imposées, de les classer dans deux catégories. D’abord, dans la mesure où les pénalités qui lui sont imposées au titre de la TVH concernent les revenus qu’il a déclarés en moins aux fins de l’impôt, c’est à bon droit que ces pénalités lui ont été imposées, et ce, pour la même raison que celle qui justifie les pénalités imposées pour non-déclaration de revenus. Les opérations liées aux revenus déclarés en moins ont eu une incidence directe en ce qui concerne la TVH.
+[31] Deuxièmement, en ce qui concerne les pénalités imposées au titre de la TVH à l’égard des CTI pour les fournitures dont les achats étaient justifiés par des factures, des reçus ou d’autres documents confirmant le paiement au fournisseur et la nature des services fournis, les CTI ont été refusés uniquement en raison de l’absence du numéro d’inscription du fournisseur aux fins de la TPS/TVH. Cette interprétation stricte des dispositions visées dans l’affaire Systematix peut se révéler injuste envers un acheteur qui a de bonne foi acquitté la TVH. Cela dit, la TVH doit néanmoins être acquittée. Je ne pense pas que M. Hamilton ait fait preuve d’une négligence délibérée ou grave telle qu’il lui faille acquitter les pénalités qui lui sont imposées uniquement parce qu’il a demandé des CTI relativement à certaines fournitures facturées, alors que la facture n’indiquait pas de numéro d’inscription aux fins de la TPS/TVH valable. Une telle chose peut en effet arriver à l’occasion à une entreprise canadienne, sans pour cela constituer une faute lourde. L’intimée n’a pas versé au dossier le rapport établi par l’ARC sur les pénalités, et son avocat, lors de l’interrogatoire principal de la vérificatrice de l’ARC qui a imposé des pénalités, ne lui a guère posé de questions à cet égard. En ce qui concerne ces montants uniquement, l’intimé ne s’est pas acquittée, comme il lui incombait de le faire, du fardeau de prouver que les pénalités étaient justifiées.
+[32] L’appel est accueilli en partie seulement, conformément à l’exposé circonstancié ci-dessus. Il n’y aura, en l’occurrence, aucune adjudication des dépens.
+Signé à Ottawa, Canada, ce 17e jour de novembre 2010.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 12e jour de janvier 2011.
+Marie-Christine Gervais
+RÉFÉRENCE : 2010 CCI 591
+Nos DES DOSSIERS : 2009-2304(IT)I, 2009-1964(GST)I
+INTITULÉ : DALE V. HAMILTON c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Halifax (Nouvelle-Écosse)
+DATES DE L’AUDIENCE : Les 5 et 6 juillet 2010
+MOTIFS DU JUGEMENT : L’honorable juge Patrick Boyle
+DATE DU JUGEMENT : Le 17 novembre 2010
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Daniel F. Wallace
+Avocate de l’intimée :
+Me Melanie Petrunia
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Daniel F. Wallace
+Cabinet : McInnes Cooper
+Halifax (Nouvelle-Écosse)
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa (Canada)

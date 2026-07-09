@@ -1,0 +1,148 @@
+Title: Ollivierre v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29434/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-490-29434-ollivierre-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-10-01
+
+# Ollivierre v. The Queen
+
+- Citation: 2009 TCC 490
+- Decision date: 2009-10-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6938, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ollivierre v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-10-01
+Neutral citation
+2009 TCC 490
+File numbers
+2008-1946(IT)I
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-1946(IT)I
+BETWEEN:
+MARVA A. OLLIVIERRE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on July 15, 2009 and
+on August 25, 2009, at Toronto, Ontario.
+Before: The Honourable Gerald J. Rip, Chief Justice
+Appearances:
+For the appellant:
+The appellant herself
+Counsel for the respondent:
+Brandon Siegal
+Darren Prevost
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 1996 taxation year is allowed, with costs if any, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the appellant is entitled to deduct the losses she incurred in carrying on a business in the year.
+It is further ordered that the filing fee of $100 be refunded to the Appellant.
+Signed at Ottawa, Canada, this 1st day of October 2009.
+"Gerald J. Rip"
+Rip C.J.
+Citation: 2009 TCC 490
+Date: 20091001
+Docket: 2008-1946(IT)I
+BETWEEN:
+MARVA A. OLLIVIERRE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Rip, C.J.
+[1] In this appeal (Informal Procedure) poorly drafted agreements conspired to complicate a modest taxpayer's fiscal problem. Ms. Ollivierre, the appellant wanted to deduct, in computing her income for 1996, monies laid out or disbursed by her for the benefit of her purported employer and for which she had right to be reimbursed but was not. The Minister of National Revenue disallowed the expenses on the basis that although the appellant was an employee she was not entitled to an employment expense pursuant to paragraph 8(1)(f) of the Income Tax Act ("Act") and, in the alternative, any purported business carried on by her was not undertaken in a sufficiently commercial manner that would result in the earning of income and did not constitute a source of income: sections 3, 4 and 9 of the Act.
+[2] Ms. Marva Ollivierre thought that in 1995 she entered into two agreements with the Canadian Artists Network: Black Artists in Action ("CAN: BAIA"), a "letter of agreement" to act as General Manager of a conference or festival known as CELAFI 1997 ("CELAFI"), an event entitled Celebrating African Identity: Entering the Millennium ("letter of agreement"), the other, a contract between her and CAN: BAIA where she was to act as an independent contractor to coordinate and promote a magazine called Revue Noire ("Revue Noire Agreement").
+[3] CAN: BAIA was an unincorporated non‑profit organization promoting art in the Black community. It had ceased to function at time of trial.
+[4] According to the letter of agreement, the General Manager, among other things, was responsible for:
+i) all logistics, administrative, implementation, refund on invested capital and human resources for CELAFI;
+ii) the coordination, facilitating and presentation of artists skills development/workshops;
+iii) hiring and management of all CELAFI administrative personnel;
+iv) control of all budgetary aspects of CELAFI, and;
+v) overseeing marketing and publicity matters.
+[5] The General Manager was to report directly to the Board of Directors. She was to oversee all funding applications and was to liaise with all CELAFI Committees. She was to share information with the Executive Director of CAN: BAIA.
+[6] CAN: BAIA was to reimburse the General Manager for travel, promotion, entertainment and "like" expenses.
+[7] Clause 16 of the letter of agreement provided that:
+The General Manager will indemnify and save harmless CAN: BAIA and its Board of Directors, employees and agents from any and all costs, losses, claims, demands, suits, actions, judgments and proceedings made brought or recovered against CAN: BAIA and arising out of this agreement. This clause survives the termination or expiry of this Agreement.
+[8] The letter of agreement is dated October 13, 1995 and was amended by an "Addendum to Letter of Agreement" on October 28. The addendum altered or cancelled provisions of various clauses in the agreement letter. One of the clauses was to effectively delete Clause 14 which had provided for payment to Ms. Ollivierre of "a monthly salary based upon $45,000 per year, to be invoiced to the Employer on the 15th of each month in the amount of $3,750.00".
+[9] The change to Clause 14 reads:
+Changes to Clause #14
+CAN: BAIA agrees to pay Marva Ollivierre a fee of $50,000.00 per year to be invoiced to CAN: BAIA in 24 instalments of $2,083.33 per. CAN: BAIA also agrees to pay to Marva Ollivierre a bonus of 20% of gross contract should CELAFI achieve its budgetary target.
+The G.M. shall submit all grant applications to Pres. Of Exec. Committee before submitting to Funders Ass.
+Clause to be added
+CAN: BAIA shall make instalment payments on contract on the 15th and 30th of each month during the term. CAN: BAIA shall make payment on bonus at the end of CELAFI post-production.
+[10] The Revue Noire Agreement is dated November 16, 1995. Ms. Ollivierre is referred to as the Programmer. The final line of the "RE: line" reads "PROGRAMMING EXPENSES AND FEES", and then continues "To be reimbursed and paid from the residual sale of the Magazine Publication Revue Noire according to the terms and conditions set out below".
+[11] The "Terms and Conditions" provide, among other things that CAN: BAIA is to administer all funds generated from Revue Noire magazine sales. Ms. Ollivierre was to be "responsible for all logistics associated with the implementation of all Programs for which she is responsible".
+[12] Paragraphs 4, 5 and 6 of the Revue Noire Agreement read as follows:
+4. The PROGRAMMER shall ensure that adequate documentation exists for all Program expenditures, and supply on request all vouchers evidencing expenditures.
+5. CAN: BAIA shall reimburse the PROGRAMMER for expenses and fees incurred for the implementation of the Programs.
+6. The PROGRAMMER agrees that all such expense reimbursement and fees are to be paid solely from the funds generated from Revue Noire magazine sales.
+[13] Paragraph 7 of the Revue Noire Agreement provides for indemnification by Ms. Ollivierre to CAN: BAIA similar to that provided in Clause 16 of the letter of agreement.
+[14] Neither the letter of agreement nor the Revue Noire Agreement makes reference to the other agreement. The Revue Noire Agreement, although it uses the word "fees", makes no provision for payment of any fees by CAN: BAIA to Ms. Ollivierre for her services and that appears to be the main problem in this appeal.
+[15] Neither term "budgetary target" in Clause 14 of the letter of agreement nor the terms "residual sale" and "funds generated" in the Revue Noire Agreement are defined. I have no idea what these words mean.
+[16] With respect to the Revue Noire Agreement, Ms. Ollivierre viewed her work as an independent contractor. She believed that she was to receive 20 per cent of the proceeds from the sale of the magazine Revue Noire. This alleged consideration is not specified or even alluded to in the Revue Noire Agreement. Ms. Ollivierre declared that it is the 20 per cent reference in Clause 14 of the Employment Agreement that was contemplated as payment for her work under the Revue Noire Agreement.
+[17] Neither of the two agreements was vetted by a lawyer before they were signed by Ms. Ollivierre. I note that both parties to this litigation as well as a Statement of Claim by Ms. Ollivierre against CAN: BAIA referred to the letter of agreement as an employment agreement, a contract of service. There are clauses in the letter of agreement, however, that would suggest that it may not be a contract of service, for example, Clause 16. However, no party originally argued that it was not a contract of service; the submissions of the parties assumed the letter of agreement was a contract of service. This may be an error of law.
+[18] For some time, apparently, Ms. Ollivierre was not being paid by CAN: BAIA for her services as General Manager under the letter of agreement and on October 23, 1997 she filed a Statement of Claim in the Ontario Court (General Division) against CAN: BAIA for a "a declaration that her employment with [CAN: BAIA] was constructively or, alternatively, wrongfully terminated on or about July 16, 1997" as well as for damages as a result of the constructive or wrongful termination of [her] employment in the amount of $16,706.64. She also claimed for mental distress, punitive damages and "expenses incurred pursuant to the Employment Contract". She was awarded $26,485 in a default judgment.
+[19] No action was taken by Ms. Ollivierre at the time against CAN: BAIA for any default in the Revue Noire Agreement or in respect of the 20 per cent bonus in new Clause 14 of the letter of agreement. Her lawyer advised her that such action was premature.
+[20] Only Ms. Ollivierre testified in the appeal at bar. She informed me that the only other potential witness who may have direct knowledge of the arrangement between her and CAN: BAIA, and who worked for CAN: BAIA, now resides in Jamaica.
+[21] In carrying on her duties under the Revue Noire Agreement, Ms. Ollivierre paid out of her own resources expenses and fees "for the implementation of the Programs". CAN: BAIA never reimbursed her. What she seeks to deduct in computing her income for 1996 are these expenses and fees that she incurred.
+[22] The respondent pleaded that Ms. Ollivierre did not provide any evidence that she actually disbursed her own funds. Ms. Ollivierre testified that she had prepared receipts for submission to CAN: BAIA for reimbursement under the agreement but a person who assisted her in her duties under the contract moved to Vancouver taking a number of her personal items, including her business records. This person also prepared some of the financial records for the Revue Noire Agreement. Ms. Ollivierre said she had made efforts earlier but had been unable to contact this person, who, in February 2001, committed suicide. According to the deceased's family, who wrote to Ms. Ollivierre in May 2001, they were informed by Vancouver police that about a week after her death, a male and female having ID from "the Landlord and Public Trustee" proceeded to remove everything from the deceased's apartment.
+[23] I found Ms. Ollivierre a credible witness. Notwithstanding that she could not provide the Canada Revenue Agency ("CRA") with documentary proof of her disbursements, there is sufficient evidence ― documents prepared by the deceased person who prepared an account, for example ― to corroborate her claim that she incurred the expenses. I accept her evidence on this matter.
+[24] Several weeks after the trial in this appeal I asked the parties to make further submissions with respect to whether the letter of agreement was an employment contract. In essence, I had questioned whether, perhaps, the two agreements may be business related and thus both may be sources of business income. The parties returned to Court to make submissions on this point.
+[25] The respondent's counsel appeared to concede that the letter of agreement was not an employment contract but, notwithstanding this, there were two separate agreements with two separate attempts at a source of income within the meaning of the Act. Section 9 of the Act provides that a taxpayer's loss for a taxation year from a business is his or her loss, if any, for the taxation year from a source. However, he said the Revue Noire Agreement fails as a separate attempt at a source of income for lack of commerciality. There was, in counsel's view, no possibility of profit disclosed in the Revue Noire Agreement; there was no provision for payment to be received by the appellant for her services under that agreement. Therefore, the Revue Noire Agreement could not constitute a source from which Ms. Ollivierre could earn income from a business.
+[26] Counsel for the respondent argued that the 20 per cent bonus referred to in the letter of agreement relates to Ms. Ollivierre's role as general manager and not to her functions as a programmer under the Revue Noire Agreement. The bonus relies on successful budgeting on behalf of the festival.
+[27] According to the respondent, the two functions in the two agreements are separate, the appellant's role as general manager was a unique relationship with CAN: BAIA and of a different nature from programming activities in the Revue Noire Agreement. They are, counsel inferred, separate watertight compartments.
+[28] In giving evidence, Ms. Ollivierre explained that she was one of several programmers, each responsible for a particular program for the festival and whose financial reward would depend on the program. Respondent's counsel concluded that "one may have multiple programmers for the festival but only one general manager of the non‑profit organization, and that speaks to them being two different and separate activities".
+[29] Respondent's counsel also distinguished the type of expenses included in each of the two agreements. As general manager, the appellant had the right to be reimbursed for travelling, promotions, entertainment and similar expenses. As programmer, she was entitled to be reimbursed for fees and expenses for the implementation of the program. Counsel concluded that the different nature of the expenses covered by the agreements indicate the different nature of the activity contemplated by each agreement.
+[30] Ms. Ollivierre was described by respondent's counsel as a sophisticated person capable of being "the point person" for a major festival. He also referred to Doe Eye Productions Canada Ltd., a company Ms. Ollivierre had incorporated and had incurred expenses in 1995. Ms. Ollivierre's sole proprietorship had a quantum of expenses in 1996 similar to what the corporation had in 1995. Since she was "capable of shifting expenses from a corporation" to herself, counsel suggested she was a sophisticated taxpayer and had sufficient expertise in business and in negotiating the two agreements with CAN: BAIA. This is quite a stretch.
+[31] In any event, the respondent's main argument is that the Revue Noire Agreement discloses no possibility of profit and cannot, therefore, be a source of income.
+[32] Ms. Ollivierre explained that CAN: BAIA had agreements with other programmers as well. She described the activity of one programmer who organized a team to prepare the music program for the festival.
+[33] According to Ms. Ollivierre this group was responsible for a music program along Queen Street in Toronto. Tickets were sold for the program and the receipts from the ticket sales paid for music at various venues. The difference between the ticket sales and the cost of the musicians was profit to the programmer in the same way that Ms. Ollivierre says she was to receive 20 per cent of the gross sales of Revue Noire. Ms. Ollivierre explained:
+… What I negotiated with Canbia is repayment not only for the act of putting this together and putting those aspects of the program together, but on the sale of Revue Noire I would get 20 per cent. In my head, in my mind, in terms of my negotiating with them, that was the profit. This was the business part of arranging it. …
+[34] Ms. Ollivierre argued that she undertook the role of programmer in the Revue Noire Agreement to make money; she did not do it for nothing. With respect to the program agreements Ms. Ollivierre testified the board of CAN: BAIA prepared the agreements and made them available to the programmers.
+[35] Respondent's counsel conceded that if Ms. Ollivierre was entitled to 20 per cent of the gross sales of Revue Noire "over and above the bare recuperation of her expenses as outlined in her programming agreement that would be a source of revenue". However, counsel insisted the written document is silent as to any profit.
+[36] Earlier in these reasons I commented on the credibility of the appellant. It is also obvious that the Revue Noire agreement in and by itself does not provide for any payment. According to Ms. Ollivierre, the reference to 20 per cent payment in the letter of agreement is for her services under the Revue Noire agreement. It is also clear that although Ms. Ollivierre is not quite the sophisticated taxpayer described by respondent's counsel, she is not someone who would work for nothing.
+[37] The parole evidence rule, that is, giving weight to oral evidence, may be used to clarify ambiguity in a contract. But there must be an ambiguity and the evidence must pertain to surrounding circumstances prevalent at the time of the contract.
+[38] Under the parole evidence rule when a contract is reduced to writing it cannot be varied, added to or subtracted by parole evidence or prior extrinsic matter in writing. However, an exception to the parole evidence rule permits the parties to lead evidence demonstrating that the written agreement is not the complete agreement; more precisely that it refers to any prior oral or written communication[1]. In United Brotherhood of Carpenters and Joiners of America, Local 579 v. Bradco Construction Ltd.,[2] Sopinka J. wrote that extrinsic evidence is admissible when there is ambiguity in the contract but cautioned that determining whether a provision is ambiguous is "far from easy".
+[39] The Revue Noire Agreement is ambiguous: there is no provision for payment in the Revue Noire Agreement notwithstanding that fees are contemplated in the "re: line" of the agreement. Also, as I have said, Ms. Ollivierre did not work for nothing. I am prepared to accept Ms. Ollivierre's parole evidence to describe the surrounding circumstances culminating in the letter of agreement, its amendment and the Revue Noire Agreement. I also find that as a programmer Ms. Ollivierre was carrying on a business on her own account. The 20 per cent reference in the letter of agreement is for her work as programmer under the Revue Noire Agreement. That agreement, in the letter of agreement, is a source of income to Ms. Ollivierre and she is entitled to deduct the losses she incurred in carrying out her obligations under the Revue Noire Agreement.
+[40] The appeal is allowed with costs, if any.
+Signed at Ottawa, Canada, this 1st day of October 2009.
+"Gerald J. Rip"
+Rip C.J.
+CITATION: 2009 TCC 490
+COURT FILE NO.: 2008-1946(IT)I
+STYLE OF CAUSE: MARVA A. OLLIVIERRE v.
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATES OF HEARING: July 15, 2009 and August 24, 2009
+REASONS FOR JUDGMENT BY: The Honourable Gerald J. Rip, Chief Justice
+DATE OF JUDGMENT: October 1, 2009
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Brandon Siegal
+Darren Prevost
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] H.G. Beale et al., Chitty no Contracts, 13 ed. (London: Sweet & Maxwell, 2008) vol. 1, at para. 12‑096, 12‑105. See also General Motors of Canada Ltd. v. R., 2008 FCA 142, 2008 D.T.C. 6381 (F.C.A.) at para. 27.
+[2] [1993] 2 S.C.R. 316.

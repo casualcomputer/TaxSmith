@@ -1,0 +1,168 @@
+---
+title: "Fiducie Mario Laquerre v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521200/index.do"
+last_modified: "2018-10-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2024 TCC 5"
+citation2: ""
+neutral_citation: "2024 TCC 5"
+decision_date: "2018-10-12"
+language: "en"
+item_id: "521200"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5655
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-11-02T08:48:52.215000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "90b1e17932b24a0a488f379b90c7848af49b32dfd09134342656791632654b93"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Fiducie Mario Laquerre v. The King
+
+- Citation: 2024 TCC 5
+- Decision date: 2018-10-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5655, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fiducie Mario Laquerre v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2024-01-19
+Neutral citation
+2024 TCC 5
+File numbers
+2011-1193(IT)G
+Judges and Taxing Officers
+Jean Marc Gagnon
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-1193(IT)G
+BETWEEN:
+FIDUCIE MARIO LAQUERRE,
+Applicant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Written motion by the applicant filed on July 5, 2023
+under Rule 172 of the Tax Court of Canada Rules (General Procedure).
+By: The Honourable Justice Jean Marc Gagnon
+Parties:
+Counsel for the Applicant:
+Jean-François Durand
+Counsel for the Respondent:
+Anne Poirier
+Christophe Tassé-Breault
+JUDGMENT
+UPON READING the Notice of Motion filed by the applicant on July 5, 2023, the respondent’s written submissions filed on November 30, 2023 and the applicant’s reply filed on December 4, 2023 and January 4, 2024:
+THE COURT dismisses the applicant’s motion, in accordance with the attached reasons, with costs in the amount of $1,000 payable by the applicant to the respondent within 30 days of the date of this judgment.
+Signed at Ottawa, Canada, this 19th day of January 2024.
+“J.M. Gagnon”
+Gagnon J.
+Translation certified true
+on this 22nd day of October 2024.
+Vera Roy, Jurilinguist
+Citation: 2024 TCC 5
+Date: 20240119
+Docket: 2011-1193(IT)G
+BETWEEN:
+FIDUCIE MARIO LAQUERRE,
+Applicant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Gagnon J.
+[1] On April 18, 2011, the applicant filed a notice of appeal in respect of its 2001, 2002, and 2004 taxation years (“Subject Years”). Ultimately, on October 16, 2018, the appeal in respect of the Subject Years was dismissed by the trial judge (“Judgment”) on presentation, at the outset of the appeal hearing on October 15, 2018, of a preliminary application for delay by the respondent under Rule 64 of the Tax Court of Canada Rules (General Procedure), SOR/90-688, as amended (“Rules”).
+[2] Rule 64 of the Rules reads as follows:
+64 The respondent if not in default under these rules or a judgment of the Court, may move to have an appeal dismissed for delay where the appellant has failed to prosecute the appeal with due dispatch.
+[3] Thus, the reasons for dismissing the appeal in respect of the Subject Years are related to the circumstances in which the applicant filed its appeal with the Court and the time taken to do so. The applicant’s grounds in support of its appeal filed in April 2011 are not central to the Judgment that the applicant is seeking to have set aside.
+[4] The minutes of the hearing held on October 15, 2018 reflect the debate that arose from the respondent’s application to dismiss the appeal for delay. As a result of this debate, the Judgment was issued granting the respondent’s application and dismissing the applicant’s appeal in respect of the Subject Years. Neither party to the Judgment brought an appeal.
+[5] The history of this Court file shows that, over a period of more than seven years, four counsel successively represented the applicant’s interests, timelines were amended, the applicant’s list of documents was filed on March 3, 2016, show-cause hearings were held, a case management judge was appointed, and, on November 14, 2017, hearing dates were set for October 15, 16 and 17, 2018. Ultimately, on the first day of the appeal hearing, a motion for the removal of counsel for the applicant was dealt with, and no counsel attended to represent the appellants (including the applicant), and only one representative acting on behalf of the trusts on the record (including the applicant) was present for the sole purpose of filing a document requesting the adjournment of all the files of the appellants (including that of the applicant) before the Court.
+[6] On July 5, 2023, the applicant filed a motion under Rule 172 (“Motion”) to set aside the Judgment dismissing the appeal in respect of the Subject Years, citing in particular paragraph 172(2)(a). The applicant requests that the Motion be decided on the basis of the written representations and without appearance of the parties in accordance with Rule 69.
+[7] In particular, the Motion states:
+[TRANSLATION]
+The motion seeks to reopen file 2011-1193(IT)G following receipt of the file (Access to Information). I can demonstrate that the CRA has not analyzed all the information. Counsel for the Tax Court of Canada were misled as a result of documents undisclosed by representatives of the CRA and the Investigations Division.
+The documents submitted clearly show a major negative impact on the judgments made. Counsel who represented it were therefore misled.
+In accordance with paragraph 172(2)(a), the applicant requests that the judgment be set aside because of changes to the judgment on account of fraud or facts that arose or were discovered after it was made.
+[8] Rule 172 provides as follows:
+172 (1) A judgment that,
+(a) contains an error arising from an accidental slip or omission, or
+(b) requires amendment in any matter on which the Court did not adjudicate,
+may be amended by the Court on application or of its own motion.
+(2) A party who seeks to,
+(a) have a judgment set aside or varied on the ground of fraud or of facts arising or discovered after it was made,
+(b) suspend the operation of a judgment, or
+(c) obtain other relief than that originally directed,
+may make a motion for the relief claimed.
+[9] The applicant states that the grounds for the Motion are as follows:
+[TRANSLATION]
+Following receipt of the Access to Information, the applicant can demonstrate that the CRA and the Investigations Division have had evidence since 2006 that Fiducie Mario Laquerre had not failed to report an amount of $261,734.69 for the 2001 taxation year.
+Fiducie Mario Laquerre contracted a loan with Fiducie ML, and this loan was repaid to Fiducie ML within 12 months. The applicant received a table of the investigations showing that cheques totalling $167,000 had been cashed in the Fiducie ML Bank of Montreal account. This amount was from Fiducie Mario Laquerre account 3391 for the period of November 1 to December 24, 2001.
+The applicant received the yellow file from Jeannot Roy showing an additional repayment of 250K from Fiducie Mario Laquerre to Fiducie ML from January 2002 to November 2002.
+[10] It should be noted that the Court can hear only the Motion to set aside the Judgment. Furthermore, in this context, the role of the Court is not to rule on the substance or merits of the appeal in respect of the Subject Years.
+[11] The Court also finds that the grounds the applicant relies on relate only to the substance or the merits of the appeal in respect of the Subject Years. None of the grounds relied on concern the fact that the Judgment on a motion under Rule 64 of the Rules was made because of fraud or facts that arose or were discovered after the date of the Judgment, as required by paragraph 172(2)(a).
+[12] Rule 64 of the Rules applies only to a motion to dismiss an appeal in connection with the appellant’s failure to prosecute the appeal with due dispatch. The situation considered in this context is subsequent to the appellant’s filing of the appeal before the Court. In the case at hand, this period is after April 18, 2011 and relates only to the applicant’s failure to prosecute its appeal before the Court with due dispatch.
+[13] The Judgment represents the Court’s decision as to whether the applicant prosecuted its appeal with due dispatch. It is not a decision on the substance or merits of the applicant’s appeal. The applicant’s disagreement with a decision on the merits would have warranted an appeal to the Federal Court of Appeal under section 27 of the Federal Courts Act. That was not done.
+[14] Alternatively, a motion may be made in accordance with Rule 172, and specifically paragraph 172(2)(a), as the applicant has done. However, in Doussot v. Canada, 2022 FCA 199, the Federal Court of Appeal notes that, to be successful under paragraph 172(2)(a):
+…an applicant must prove that setting aside or varying the judgment at issue is warranted on the grounds of fraud or of facts arising or discovered after the judgment was rendered. This requires evidence. It is therefore necessary to file a formal motion with the TCC.
+[15] The three grounds raised by the applicant relate to the merits of the appeal, namely that, in the applicant’s opinion, the appeal has merit. As quoted in paragraph 8 above, the grounds raise the fact that there was no failure to disclose an amount for the 2001 taxation year, that a loan was made and repaid within fewer than 12 months, and that an additional repayment was made from January 2002 to November 2002. None of these grounds have been shown to relate to the motion under Rule 64 of the Rules.
+[16] The Court is not satisfied, on a balance of probabilities, that the grounds the applicant relies on in support of the Motion establish that there was fraud on the part of the respondent or the Canada Revenue Agency in connection with the Judgment made, or that facts arose or were discovered after the date of the Judgment that were material for the purpose of the Judgment made under Rule 64 of the Rules or would likely have resulted in a different judgment under Rule 64 had they been brought forward initially.
+[17] The applicant does not specify the date on which it received the documents further to the access to information request. It refers the Court to a document from the Office of the Information Commissioner of Canada dated May 30, 2022.
+[18] The exhibits in support of the Motion contain essentially a reference to (i) documents related to the Court record of the appeal in respect of the Subject Years, (ii) court documents specifically involving the applicant, Mario Laquerre personally or one or more related parties grouped with the applicant for the purpose of the hearing (collectively “Named Persons”), (iii) documents and bank slips of the Named Persons in connection with the Subject Years, (iv) a document prepared by the Canada Revenue Agency in relation to the audit and banking documents of the Named Persons in the Subject Years, (v) a court document from a court record involving Mario Laquerre personally and references to banking operations in 2001, (vi) a Canada Revenue Agency internal communication relating to the Collections Section, and (vii) an email to which Mr. Mario Laquerre is a party.
+[19] The applicant’s reply to the respondent’s written representations refers to documents already in the Motion and other documents, including (i) bank analyses relating to the Subject Years, (ii) exhibits from which the applicant draws legal conclusions regarding the applicant’s tax audit, and (iii) a court document dated 2006 involving Mario Laquerre personally.
+[20] Unfortunately, a review of all these exhibits does not reveal material or sufficiently relevant evidence to support how the applicant could have prosecuted the appeal in respect of the Subject Years before the Court with due dispatch or with diligence. It also does not provide conclusive evidence to the Court to establish that there was fraud in the hearing that led to the Judgment or that facts arose or were discovered after the date of the Judgment and are of such importance as to vitiate the Judgment.
+[21] The Court is of the view that the applicant’s grounds, together with the exhibits, are essentially grounds the applicant might have wished to argue on the merits. Given the Judgment, this debate did not take place, and it is not the role of the Court to open this debate in deciding the Motion.
+[22] In light of the foregoing, the Court is of the view that the applicant’s evidence in support of the Motion has not established, on a balance of probabilities, fraud on the part of the respondent or the Canada Revenue Agency in connection with the Judgment or that facts arose or were discovered after the date of the Judgment that were material for the purposes of the Judgment made under Rule 64 of the Rules or could have given rise to a different judgment under Rule 64 had they been brought forward initially.
+[23] The Motion is dismissed, with costs in the amount of $1,000 payable by the applicant to the respondent within 30 days of this date.
+Signed at Ottawa, Canada, this 19th day of January 2024.
+“J.M. Gagnon”
+Gagnon J.
+Translation certified true
+on this 22nd day of October 2024.
+Vera Roy, Jurilinguist
+CITATION:
+2024 TCC 5
+COURT FILE NO.:
+2011-1193(IT)G
+STYLE OF CAUSE:
+FIDUCIE MARIO LAQUERRE AND HIS MAJESTY THE KING
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Jean Marc Gagnon
+DATE OF JUDGMENT:
+January 19, 2024
+PARTIES:
+Counsel for the Applicant:
+Jean-François Durand
+Counsel for the Respondent:
+Anne Poirier
+Christophe Tassé-Breault
+COUNSEL OF RECORD:
+For the Respondent:
+Shalene Curtis-Micallef
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,149 @@
+---
+title: "Moussa Reza Alavian Esmat Roboby v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25159/index.do"
+last_modified: "2004-12-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 809"
+citation2: ""
+neutral_citation: "2004 CCI 809"
+decision_date: "2004-12-14"
+language: "fr"
+item_id: "25159"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2605
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:44:49.552000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6af2e40c1dcf4a86c9d7bd3410ea2eae878bbcbc122565030ff6ef4bcdf9daf1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Moussa Reza Alavian Esmat Roboby v. The Queen
+
+- Citation: 2004 CCI 809
+- Decision date: 2004-12-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2605, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Moussa Reza Alavian Esmat Roboby v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-12-14
+Référence neutre
+2004 CCI 809
+Numéro de dossier
+2001-3710(GST)G
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence : 2004CCI809 Date : 20041214 Dossier : 2001-3710(GST)G
+ENTRE :
+MOUSSA REZA ALAVIAN, ESMAT ROBOBY,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+2001-3776(IT)G ET ENTRE :
+ESMAT ROBOBY, appelante, et
+SA MAJESTÉ LA REINE, intimée,
+2001-3777(IT)G ET ENTRE :
+MOUSSA REZA ALAVIAN, appelant, et
+SA MAJESTÉ LA REINE, intimée.
+Requêtes entendues le 9 décembre 2004, à Vancouver (Colombie-Britannique)
+Devant : L'honorable juge D. W. Beaubier
+Comparutions :
+Avocat des appelants :
+Me Steven M. Cook
+Avocat de l'intimée :
+Me David Jacyk
+ORDONNANCE ET MOTIFS DE L'ORDONNANCE
+[1] Ces trois requêtes en modification des actes de procédure, déposées par l'intimée, ont été entendues à Vancouver (Colombie-Britannique) le 9 décembre 2004. Elles ont pour but de faire ajouter les passages soulignés ci-dessous, pour plaider devant la Cour :
+2001-3710(GST)G, aux paragraphes 15, 18 et 20 :
+[TRADUCTION]
+15. Les questions sont de savoir :
+a) si les appelants sont tenus de payer la TPS à titre de constructeurs réputés avoir fourni un immeuble d'habitation conformément à l'article 191 de la Loi sur la taxe d'accise, L.R.C. 1985, ch. E-15, telle qu'elle a été modifiée (la « Loi » );
+b) si les pénalités ont été imposées à juste titre conformément à l'article 280 de la Loi;
+c) subsidiairement, si les appelants sont tenus de payer la TPS qu'ils ont omis de verser en ce qui concerne l'achat du lot sur lequel la résidence située au 1616, rue Parkway a été construite.
+[...]
+18. Il soutient aussi que les appelants ne peuvent pas se prévaloir de l'exception prévue par le paragraphe 191(5) parce que l'immeuble situé au 1616, rue Parkway n'était pas utilisé principalement à titre résidentiel et était utilisé principalement à des fins commerciales ou dans le cadre d'un projet comportant un risque à caractère commercial, ou que les appelants avaient au moins l'intention de vendre l'immeuble situé au 1616, rue Parkway.
+19. Il soutient aussi que les pénalités imposées aux appelants ont été imposées à juste titre, conformément à l'article 280 de la Loi.
+20. Subsidiairement, si la Cour juge que l'article 191 de la Loi ne s'applique pas pour assujettir les appelants à la TPS, les appelants sont quand même tenus de payer la TPS qu'ils ont omis de verser relativement à l'achat du lot sur lequel l'immeuble situé au 1616, rue Parkway a été construit.
+2001-3776(IT)G, aux paragraphes 17 et 18 :
+[TRADUCTION]
+D. MOYENS INVOQUÉS ET CONCLUSIONS RECHERCHÉES
+17. Il soutient respectueusement que les bénéfices découlant de la vente de l'immeuble situé au 1616, rue Parkway constituaient des revenus gagnés dans le cadre d'une entreprise ou d'un projet comportant un risque à caractère commercial dans l'année d'imposition 1996 en ce sens que, quand l'appelante a acheté l'immeuble situé au 1616, rue Parkway, elle avait au moins l'intention de le vendre.
+18. Subsidiairement au paragraphe 21, il soutient que l'inscription de l'immeuble situé au 1616, rue Parkway constituait une initiative claire et sans équivoque mettant en oeuvre un changement d'intention. L'inscription a fait que l'immeuble est passé d'une immobilisation à un actif détenu en vue de la vente de telle manière que, dans l'année d'imposition 1996, les bénéfices découlant de la vente de l'immeuble situé au 1616, rue Parkway constituaient des revenus gagnés dans le cadre d'une entreprise ou d'un projet comportant un risque à caractère commercial.
+[...]
+2001-3777(IT)G, aux paragraphes 20 et 21 :
+[TRADUCTION]
+D. MOYENS INVOQUÉS ET CONCLUSIONS RECHERCHÉES
+20. Il soutient respectueusement que les bénéfices découlant de la vente de l'immeuble situé au 1616, rue Parkway constituaient des revenus gagnés dans le cadre d'une entreprise ou d'un projet comportant un risque à caractère commercial dans l'année d'imposition 1996 en ce sens que, quand l'appelant a acheté l'immeuble situé au 1616, rue Parkway, il avait au moins l'intention de le vendre.
+21. Subsidiairement au paragraphe 21, il soutient que l'inscription de l'immeuble situé au 1616, rue Parkway constituait une initiative claire et sans équivoque mettant en oeuvre un changement d'intention. L'inscription a fait que l'immeuble est passé d'une immobilisation à un actif détenu en vue de la vente de telle manière que, dans l'année d'imposition 1996, les bénéfices découlant de la vente de l'immeuble situé au 1616, rue Parkway constituaient des revenus gagnés dans le cadre d'une entreprise ou d'un projet comportant un risque à caractère commercial.
+On demande également à ajouter un passage au début du paragraphe 17, ce à quoi on ne s'oppose pas, et à ajouter un passage aux introductions aux hypothèses des autres réponses, ce à quoi on ne s'oppose également pas. Toutefois, l'ajout proposé d'un renvoi au paragraphe 45(1) au paragraphe 19 du dossier no 2001-3777(IT)G et au paragraphe 16 du dossier no 2001-3776(IT)G est contesté.
+[2] En ce qui concerne ces requêtes :
+1. Elles sont essentiellement des questions de droit. Il n'y a pas d'autres hypothèses de fait.
+2. À l'audience des requêtes, aucune date n'avait été fixée pour l'audience des appels, les requêtes étaient en date du mois de novembre et il n'y avait aucun risque de surprise.
+3. Si les modifications sont permises, celles-ci pourraient exiger la tenue d'autres interrogatoires préalables relativement, entre autres, aux valeurs à différentes dates.
+[3] Aux paragraphes [15] à [17] inclusivement de l'affaire Smith Kline Beecham Animal Health Inc. c. La Reine, no 95-1077(IT)G, 4 novembre 1999, 2000 D.T.C. 1526, le juge Bonner a dit ce qui suit :
+[15] De plus, rien de ce qui est dit dans l'arrêt Continental Bank n'indique que le paragraphe 152(4) influe sur la modification demandée par l'intimée. Le paragraphe 152(4) restreint le droit du ministre d' « établir des nouvelles cotisations, des cotisations supplémentaires ou des cotisations d'impôt, d'intérêts ou de pénalités [...] » . La modification maintenant en question ne donnerait pas lieu à une nouvelle cotisation d'impôt. Il s'agit plutôt d'une tentative pour défendre la cotisation d'impôt existante en faisant valoir que, sur la foi des faits déjà plaidés, une responsabilité est imposée par une disposition de la Loi autre que celle qui avait été invoquée par le répartiteur.
+[16] Il est depuis longtemps établi en droit que la validité d'une cotisation dépend de l'application de la loi aux faits et non de l'analyse du répartiteur. Il est, je crois, peu probable que l'intention de la cour dans l'affaire Continental Bank, précitée, ait été de renverser des décisions comme Minden et Riendeau, précitées, sans les mentionner. Je suis donc d'avis que rien de ce qui est dit dans l'arrêt Continental Bank ne peut s'appliquer de manière à empêcher le ministre de se fonder sur l'article 245 dans la présente espèce.
+[17] Quoi qu'il en soit, je ne suis pas d'accord sur l'argument de l'appelante, qui dit essentiellement que le paragraphe 152(9) de la Loi est inapplicable parce que le ministre cherche par la modification à changer le fondement de la cotisation à un moment où il est trop tard pour ce faire en raison du paragraphe 152(4). Quand on lit le paragraphe 152(4) dans le nouveau contexte législatif, qui inclut le paragraphe 152(9), il est évident qu'on ne peut dire que le législateur entendait que le fait d'avancer des arguments à l'appui d'une cotisation existante puisse constituer l'exercice du pouvoir d'établir une nouvelle cotisation. L'article 152 distingue entre une cotisation et une nouvelle cotisation, d'une part, et le processus d'appel, d'autre part. Ce que demande l'intimée, c'est une modification de la réponse à l'avis d'appel qui lui permette de faire exactement ce que le libellé ordinaire du paragraphe 152(9) autorise, à savoir avancer un nouvel argument à l'appui de la cotisation selon la partie XIII. L'intimée cherche à avancer un nouvel argument, selon lequel la cotisation d'impôt existante est étayée par des dispositions de la Loi autres que celles qui avaient été invoquées par le répartiteur, et elle est en droit de le faire.
+[4] Les modifications proposées ont un concept semblable en général à celles dont le juge Bonner était saisi. Ce qui ressort des modifications proposées est soit que l'intention a été formulée à un moment différent en fonction d'un interrogatoire préalable, soit qu'une intention secondaire a été formulée en fonction des faits présumés. Les appelants ou leur avocat auraient eu les possibilités proposées en tête tout au long des processus d'évaluation et d'appel. Pour ce motif, la Cour accueille les requêtes en modification faites par l'intimée.
+[5] Les deux parties se voient accorder le droit de mener d'autres interrogatoires préalables relativement aux questions découlant de ces modifications; les interrogatoires en question doivent avoir lieu le 31 mars 2005 ou avant cette date, et tout engagement découlant de ces interrogatoires doit être respecté dans les 30 jours suivant la tenue des interrogatoires.
+[6] Il est ordonné que l'audience de ces appels ait lieu sur deux jours à compter du 30 mai 2005 à 9 h 30 à la Cour canadienne de l'impôt au 6e étage du 701, rue Georgia Ouest, à Vancouver (Colombie-Britannique).
+[7] Les dépens suivront l'issue de l'affaire.
+Signé à Saskatoon (Saskatchewan), ce 14e jour de décembre 2004.
+« D. W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 24e jour de janvier 2006.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE :
+2004CCI809
+NOS DES DOSSIERS :
+2001-3710(GST)G, 2001-3776(IT)G et 2001-3777(IT)G
+INTITULÉ DE LA CAUSE :
+Moussa Reza Alavian, Esmat Roboby c. Sa Majesté la Reine Esmat Roboby c. Sa Majesté la Reine Moussa Reza Alavian c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L'AUDIENCE :
+Le 9 décembre 2004
+MOTIFS DE L'ORDONNANCE PAR :
+L'honorable juge D.W. Beaubier
+DATE DE L'ORDONNANCE :
+Le 14 décembre 2004
+COMPARUTIONS :
+Avocat des appelants :
+Me Steven M. Cook
+Avocat de l'intimée :
+Me David Jacyk
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Cabinet :
+Pour l'intimée :
+Morris Rosenberg Sous-procureur général du Canada Ottawa, Canada

@@ -1,0 +1,237 @@
+---
+title: "La succession de feu Claude Ménard c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26460/index.do"
+last_modified: "2004-06-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 431"
+citation2: ""
+neutral_citation: "2004 TCC 431"
+decision_date: "2004-06-22"
+language: "en"
+item_id: "26460"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3144
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:18:49.560000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "cf6a18b8e987ac544196566b0495e96abdfb50b3e159edae8eea2dcd0ce59a6c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# La succession de feu Claude Ménard c. La Reine
+
+- Citation: 2004 TCC 431
+- Decision date: 2004-06-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3144, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+La succession de feu Claude Ménard c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-06-22
+Neutral citation
+2004 TCC 431
+File numbers
+2002-4945(IT)I
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-4945(IT)I
+BETWEEN:
+THE ESTATE OF THE LATE CLAUDE MÉNARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+__________________________________________________________________
+Appeals heard on April 23, 2004, at Montréal, Quebec
+Before: The Honourable Justice François Angers
+Appearances:
+Agent for the Appellant:
+Gilles Jarry
+Counsel for the Respondent:
+Nancy Dagenais
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments under the Income Tax Act for the 1990, 1991, 1992 and 1993 taxation years are allowed and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment so that the penalties imposed may be cancelled, in accordance with the attached Reasons for Judgment.
+Signed at Edmundston, New Brunswick, this 22nd day of June 2004.
+"François Angers"
+Angers J.
+Translation certified true
+on this 8th day of November 2004.
+Sharon Winkler Moren, Translator
+Citation: 2004TCC431
+Date: 20040622
+Docket: 2002-4945(IT)I
+BETWEEN:
+THE ESTATE OF THE LATE CLAUDE MÉNARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers J.
+[1] These are appeals by the estate of the late Claude Ménard from the assessments for the 1990, 1991, 1992 and 1993 taxation years. The Appellant is officially represented by Jean-Denis Ménard and Bertrand Ménard, the two sons of the late Claude Ménard. For these years, the late Claude Ménard claimed tax credits for charitable donations that the Minister of National Revenue (the "Minister") disallowed. The amount of the donations for the purpose of calculating tax credits amounts to $9,000, $9,500, $10,100 and $10,000 for each year respectively. In addition, the Minister imposed the penalty set out at subsection 163(2) of the Income Tax Act (the "Act") for each of the taxation years.
+[2] Jean-Denis Ménard testified for the Appellant. According to the witness, the late Claude Ménard was, at the time, under the impression that he was making actual donations for each of the years at issue. He purchased paintings from an individual and they were given to a charitable organization. He obtained a receipt, an appraisal certificate and a list of the paintings. He acknowledged that the late Claude Ménard never saw the paintings, never had them in his possession and did not choose the charitable organizations that were to receive the donations. According to the witness, the late Claude Ménard obtained information from Revenue Canada at the time and from the individual who prepared his income tax returns. According to the information collected, this was an acceptable practice.
+[3] It was not until 1996 that the late Claude Ménard allegedly became aware that the paintings in question were worthless. Jean-Denis Ménard also added that the late Claude Ménard had no means of knowing that the donated goods never reached the recipient in certain cases. He apparently received copies of the records and believed that the charitable organizations in question had in fact, received the donation. In addition, the fact that the individual who took care of everything had an art gallery prompted him to make these donations. It must be understood here that this individual took care of choosing the paintings, determining the purchase price, appraising the paintings, choosing the charitable organization and obtaining a receipt for tax purposes.
+[4] Claude Gauthier was the Revenue Canada investigator during the audit. The Appellant's name appeared on a list of taxpayers suspected of participating in a scheme in which the fair market value of goods given as donations to charitable organizations was overestimated. As a matter of fact, he audited the auction sale of certain goods given by taxpayers to the Fondation Chemin du Roy and Entraide-Cancer Jeunesse Estrie. In every case, it appeared that the goods given to these organizations were resold at auction and that the price obtained was on average from approximately 17% to 10.7% respectively of the amount indicated on the tax receipts. Further, some paintings referred to in this appeal were traced and the prices obtained will be dealt with later in my Reasons.
+[5] Consequently, Mr. Gauthier presented a summary of the correspondence he sent to the late Claude Ménard during his audit. Since the Appellant admitted these facts, I am going to reproduce paragraphs 4 (m) to 4 (r) of the Reply to the Notice of Appeal, which explain the steps undertaken by Mr. Gauthier with regard to Mr. Ménard.
+[TRANSLATION]
+(m) On December 15, 1995, the Revenue Canada Audit Division asked Claude Ménard to submit proof of purchase and payment for the goods referred to in the deductions of $9,000, $9,500, $10,100 and $10,000 as charitable donations made for the 1990, 1991, 1992 and 1993 taxation years, respectively, and appraisal certificates and proof of possession of these goods;
+(n) On January 23, 1996, the Audit Division had not received a reply to its letter dated December 15, 1995, and sent a letter to Claude Ménard, with a draft assessment in which it was intended to disallow the claims made for charitable donations for the 1990, 1991, 1992 and 1993 taxation years; the letter also informed Mr. Ménard of the possible application, for each of these tax years, of the penalty set out in subsection 163(2) of the Act; however, Mr. Ménard was given 15 days to submit all relevant records and explanations;
+(o) On January 31, 1996, Claude Ménard's wife indicated by telephone to the auditor that the December 15, 1995, letter had probably been lost;
+(p) At her request, the auditor sent a new letter to Claude Ménard on January 31, 1996, requesting proof of purchase and payment, appraisal certificates and proof of possession;
+(q) On March 8, 1996, the auditor, who had still not received any reply, sent Claude Ménard a new draft assessment disallowing the claims made as credit for charitable donations for the 1990, 1991, 1992 and 1993 taxation years and imposing a penalty; however, another 15-day period was given to Claude Ménard to submit all relevant records and explanations;
+(r) The audit was completed on March 28, 1996, without any word from Claude Ménard;
+[6] Once the audit was completed, the late Claude Ménard sent Revenue Canada a series of records for each of the years at issue, which I will analyze further on.
+[7] The statutory provisions relevant to this case on proof of gift and content requirements for receipts are found at subsections 118.1(1) and 118.1(2) of the Act and at subsection 3501(1) of the Income Tax Regulations (the "Regulations"):
+118.1(1) Definitions - In this section,
+. . .
+"total charitable gifts" of an individual for a taxation year means the total of all amounts each of which is the fair market value of a gift (other than a gift the fair market value of which is included in the total Crown gifts, the total cultural gifts or the total ecological gifts of the individual for the year) made by the individual in the year or in any of the 5 immediately preceding taxation years (other than in a year for which a deduction under subsection 110(2) was claimed in computing the individual's taxable income) to
+(a) a registered charity;
+. . .
+118.1(2) Proof of gift. A gift shall not be included in the total charitable gifts, total Crown gifts, total cultural gifts or total ecological gifts of an individual unless the making of the gift is proven by filing with the Minister, a receipt therefore that contains prescribed information.
+CONTENTS OF RECEIPTS
+3501(1) Every official receipt issued by a registered organization shall contain a statement that it is an official receipt for income tax purposes and shall show clearly in such a manner that it cannot readily be altered,
+(a) the name and address in Canada of the organization as recorded with the Minister;
+(b) the registration number assigned by the Minister to the organization;
+(c) the serial number of the receipt;
+(d) the place or locality where the receipt was issued;
+(e) where the donation is a cash donation, the day on which or the year during which the donation was received;
+(e.1) where the donation is a gift of property other than cash
+(i) the day on which the donation was received,
+(ii) a brief description of the property, and
+(iii) the name and address of the appraiser of the property if an appraisal is done;
+(f) the day on which the receipt was issued where that day differs from the day referred to in paragraph (e) or (e.1);
+(g) the name and address of the donor including, in the case of an individual, his first name and initial;
+(h) the amount that is
+(i) the amount of a cash donation, or
+(ii) where the donation is a gift of property other than cash, the amount that is the fair market value of the property at the time that the gift was made; and
+(i) the signature, as provided in subsection (2) or (3), of a responsible individual who has been authorized by the organization to acknowledge donations.
+1990
+[8] This is a statute-barred taxation year. In his income tax return for this year, the late Claude Ménard claimed the amount of $9,000 as a charitable donation pertaining to a receipt from the Fondation du Chemin du Roy Inc. dated February 26, 1991. The receipt mentions that it is for paintings, with no indication of how many or their description and does not specify the name of the appraiser. The donation was allegedly received on October 29, 1990, according to a letter bearing this date filed as evidence.
+[9] According to the information obtained during Revenue Canada's investigation, the goods given as donations to this organization were resold at auction and the price obtained was on average approximately 17% of the amount indicated on the tax receipts.
+[10] In April 1996, once the audit was completed, the Appellant sent certificates of authenticity and expertise, undated and unsigned, on letterhead from Galerie d'art J. Richard - 126233 Canada Inc., indicating a total worth of $9,000 regarding seven paintings that were well described but without details with regard to the basis of the appraisal.
+[11] The Appellant did not provide purchase invoices. It filed a cheque payable to Pierre Laberge dated April 15, 1991, in the amount of $3,600. This cheque contained no detail about its purpose and its date is later than the date the donation was received, i.e. October 29, 1990.
+1991
+[12] This is also a statute-barred taxation year. In his income tax return for this year, Claude Ménard claimed $9,500 as a charitable donation pertaining to a receipt from the organization Entraide-Cancer Jeunesse Estrie dated November 10, 1991. The receipt in question does not indicate if it is a financial donation or gift in kind. If it is a gift in kind, the name and address of an appraiser are not indicated. Moreover, the Appellant did not attach Schedule 3 to his income tax return in order to declare the disposition of designated personal-use property. According to a letter signed by the Appellant, the donation was allegedly made on October 18, 1991.
+[13] According to information obtained from Entraide-Cancer Jeunesse Estrie during the investigation, the goods delivered to this organization were resold at auction and the average price obtained was 10.7% of the amount indicated on the receipts issued for tax purposes. Three of the four paintings apparently referred to in the receipt of November 10, 1991, were resold for a fraction of the value mentioned on the appraisal certificate from the Galerie d'art Annie-Claude enr., which had issued the receipt. These are one painting by Lise Gervais, appraised at $7,250 and sold for $350, a painting by J. L. Simard, appraised at $550 and sold for $200, and a painting by J. P. Lafrance, appraised at $250 and sold for $100.
+[14] In April 1996, the late Claude Ménard delivered an appraisal certificate dated October 18, 1991, to Revenue Canada, signed by Émile Amireault of the Galerie d'art Annie-Claude enr., establishing a total value of $9,500 for four paintings. The four paintings are described therein and three match the paintings referred to in the previous paragraph. The market value of each painting is established but the basis for the assessment was not specified.
+[15] The Appellant produced an invoice for appraisal fees of $304.95 addressed to it. This invoice is not dated and it is impossible to know where it is from, except that it refers to a value of $9,500. A cheque from the Appellant payable to Émile Amireault, dated March 5, 1992, allegedly represented the purchase price of the paintings at issue for this year. No purchase invoice was filed in evidence and this cheque postdates the date of the donation.
+1992
+[16] In his income tax return for the 1992 taxation year, Claude Ménard claimed the amount of $10,100 as a charitable donation relating to a receipt from the Fondation du Mont Notre-Dame de Sherbrooke Inc. dated December 30, 1992. The receipt attached to the income tax return reads [TRANSLATION] "work of art" without specifying more; it does not indicate the name and address of an appraiser. No Schedule 3 was attached to the income tax return to declare the deposition of designated personal-use goods. According to a letter provided by Claude Ménard after the Revenue Canada audit, the donation was allegedly made on December 4, 1992.
+[17] According to information obtained during the investigation, this would be a donation of seven paintings that were receipted on December 30, 1992. These paintings were resold for much less than the market value declared by Claude Ménard after the audit. I am reproducing below the list of the paintings, their appraised value and their price when sold at auction:
+PAINTING
+APPRAISED VALUE
+SELLING PRICE
+L.P. Vigeant
+$900
+$140
+A. Prevost
+$950
+$220
+A.V. Breau
+$2,875
+$600
+M. Olechovsky
+$1,025
+$80
+E. Desprez
+$1,500
+$275
+E. Desprez
+$1,500
+$225
+L. Feito
+$1,350
+$350
+[18] The information sent to Revenue Canada after April 1996 contains an appraisal certificate dated December 4, 1992, signed by Émile Amireault of the Galerie d'art Annie-Claude enr. Each of the seven paintings described above is mentioned therein; however, the certificate does not set out the basis of the market value. No purchase invoice for these paintings was submitted. There is a cheque for $3,166.16 written by Claude Ménard payable to Émile Amireault dated March 8, 1993. This postdates the receipt from the Fondation du Mont Notre-Dame de Sherbrooke, i.e. December 30, 1992.
+1993
+[19] Claude Ménard claimed an amount of $10,000 for this taxation year related to a receipt dated December 28, 1993, from the organization Ensemble Musica Nova for this amount. The receipt does not mention that this is a gift in kind. Instead, it indicates the amount of $10,000. An invoice for appraisal fees was, however, submitted but does not describe the goods appraised nor the name and address of the appraiser. Claude Ménard attached no Schedule 3 to his income tax return to declare the disposition of designated goods.
+[20] In the documents provided by Claude Ménard in April 1996, there is an appraisal certificate dated December 19, 1993, signed by Émile Amireault of the Galerie d'art Annie-Claude enr. This certificate refers to six paintings and their total value is $10,000. The certificate gives no basis for the appraisal. No purchase invoice was filed. There is a photocopy of a cheque dated March 22, 1994, signed by the Appellant and payable to d'Émile Amireault in the amount of $2,166.16. This date is clearly later than the receipt from the Ensemble Musica Nova, i.e. December 28, 1993.
+[21] The Appellant's agent acknowledged that for the last three taxation years, where the Galerie d'art Annie-Claude enr. is at issue, Émile Amireault is not an independent expert. He acted simultaneously as seller, appraiser and intermediary for the purposes of obtaining tax receipts. He did not testify at the hearing. In fact, the Appellant's agents acknowledged at the hearing that there was a scheme but they declared that Claude Ménard, during the four years at issue, believed in the legitimacy of this procedure because of the steps he had taken to reassure himself of it.
+[22] These factual situations raise a number of questions. First of all, we must determine whether the 1990 and 1991 taxation years are statute-barred. If not, it must then be determined whether, during the 1990 to 1993 taxation years, there really were donations, whether the tax receipts at issue represent the fair market value of the donated property and whether the receipts are in compliance with sections 3500 and 3501 of the Regulations.
+[23] The onus is on the Respondent to justify the Notice of Reassessment for 1990 and 1991. The Respondent must establish, on the balance of probabilities, that the Appellant has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing his income tax returns or in supplying any information under the terms of subparagraph 152(4)(a)(ii) of the Act.
+[24] In Venne v. Canada (Minister of National Revenue) (F.C.T.D.), [1984] F.C.J. No. 314 (Q.L.) 84 DTC 6247, Justice Strayer described the burden of proof as follows:
+I am satisfied that it is sufficient for the Minister, in order to invoke the power under sub-paragraph 152(4)(a)(i) of the Act to show that, with respect to any one or more aspects of his income tax return for a given year, a taxpayer has been negligent. Such negligence is established if it is shown that the taxpayer has not exercised reasonable care. This is surely what the words "misrepresentation that is attributable to neglects" must mean, particularly when combined with other grounds such as "carelessness" or "wilful default" which refer to a higher degree of negligence or to intentional misconduct. Unless these words are superfluous in the section, which I am not able to assume, the term "neglect" involves a lesser standard of deficiency akin to that used in other fields of law such as the law of tort. . . .
+[25] The Appellant's Agents informed the Court of the steps undertaken by Claude Ménard with Revenue Canada in order to have reassure himself of the legitimacy of his actions. According to his estate's Agents, Claude Ménard was convinced that all was in order. The evidence, however, does not demonstrate the exact nature of the questions asked or the facts supporting the answers that were given. The case at bar is nonetheless, at the very least, an unusual factual situation. The individual from whom the paintings were purchased for donation purposes is the same individual who does the appraisal and finds the charity to give them to. It is also strange that a taxpayer should make a gift of artwork before even knowing how much these paintings would cost him. All the cheques used to purchase works of art bear a date later than that of the receipt issued by the charitable organization. The letter signed by Claude Ménard that accompanies the gift describes neither the number nor nature of the works. It is clear that Claude Ménard did not know what he was buying and did not know what it would cost him until the following spring. One thing is certain, at the time of payment and before the deadline for filing his income tax return, the Appellant knew the real cost of his purchase in relation to the amount of the receipt obtained. This substantial deviation, in my opinion, should be sufficient to alert a reasonable person to the fact that this was too good a deal. In 1990, the Appellant paid $3,600 for a $9,000 receipt and in 1991, he paid $3,037.05 for a $9,500 receipt.
+[26] The Appellant's Agents stated that it is not illegal to purchase goods at reduced prices for consumer use. However, when the same merchant who sells his merchandise at a reduced price simultaneously appraises it at three times the amount paid, looks after getting a receipt for tax purposes for the buyer for the value of his appraisal and takes care of selling it, this seems to me to be a far cry from the context of the discount retail sale of consumer goods. This type of situation should raise doubts in a reasonable and even minimally informed individual regarding the legitimacy and reasonableness of the scenario. In my opinion, Claude Ménard did not show due diligence in the circumstances. The Minister was therefore justified in assessing the two years at issue.
+[27] Was there, in the case at bar, a gift in the legal sense? This question was dealt with in a number of this Court's decisions in factual situations that are substantially similar to those in the case at bar. Justice Lamarre Proulx summarized this question in Décarie v. Canada, [1998] T.C.J. No. 412 (Q.L.), at paragraphs 20, 21 and 22 of her Reasons and I quote:
+20 In The Queen v. Friedberg, supra, Linden J.A. speaking for the Court explained that the Act does not define what a gift is and that the general principles of law with regard to gifts must be applied. I quote, at p. 2 of the English version:
+The Income Tax Act does not define the word "gift", so that the general principles of law with regard to gifts are utilized by the Courts in these cases. As Mr. Justice Stone explained in The Queen v. McBurney, 85 D.T.C. 5433, at p. 5435:
+The word gift is not defined in the statue. I can find nothing in the context to suggest that it is used in a technical rather than its ordinary sense.
+Thus, a gift is a voluntary transfer of property owned by a donor to a donee, in return for which no benefit or consideration flows to the donor (see Heald, J. in The Queen v. Zandstra [74 D.T.C. 6416] [1974] 2 F.C. 254, at p. 261). The tax advantage which is received from gifts is not normally considered a "benefit" within this definition, for to do so would render the charitable donations deductions unavailable to many donors.
+21 In Friedberg, supra, there was no evidence of a prior transfer of ownership to the alleged donor for one of the two gifts. The Court concluded that one cannot give what one does not have, and I quote, at p. 6 of the English version:
+The only legal conclusion that one can draw from the documents concerning the Abemayor Collection is that the taxpayer made a gift of the money to the ROM, with which it acquired the collection. He did not hold the title to the textiles, nor did he ever acquire the title, and one cannot give what one does not have.
+22 In Quebec as elsewhere, ownership of the property is an essential condition for a gift. A person cannot give what he or she does not own. Article 1806 of the Civil Code reads as follows:
+1806. Gift is a contract by which a person, the donor, transfers ownership of property by gratuitous title to another person, the donee; a dismemberment of the right of ownership, or any other right held by the person, may also be transferred by gift.
+Gifts may be inter vivos or mortis causa.
+[28] The Federal Court of Appeal also dealt with this matter in Chabot v. Canada, 2001 F.C.A. 383, in which it was a matter of determining whether the taxpayer was actually the owner of the donated property. Just as in this case, it was a matter of determining when the buyer of unspecified paintings became their owner:
+6 Article 1026 of the Civil Code of Lower Canada and article 1453 of the Civil Code of Québec require, in order for the purchaser of indeterminate paintings to acquire ownership, that the paintings have been determined and the acquirer has been notified that the property is certain and determinate. (The Civil Code of Lower Canada governs the donations made in 1992 and 1993 while the Civil Code of Québec governs the one made in 1994. With respect to the principles involved in this case, there are no material differences between the two Codes.)
+7 As Pourcelet observes in La Vente, 5th edition, Les Éditions Thémis, 1987:
+[TRANSLATION]
+The object of the obligation in the sale contract must be certain, determinate or determinable. There must be no misunderstanding with regard to the concrete nature of the object of the sale...
+(page 7)
+The sale contract is formed once the parties reach an agreement on the thing and the price.
+(page 13)
+Ownership may apply only to a certain and determinate thing. A thing is said to be certain and determinate when it is identified. This is the Roman species, that is, the set of traits that characterize an object and make it recognizable. Ownership is transferred only at the point when the thing is determinate, that is, when it becomes a certain object.
+(page 87)
+In Les Obligations, 4th edition, Éditions Yvon Blais Inc., 1993, Baudouin [sic] states:
+[TRANSLATION]
+Since the right of ownership is transferred by mere consent, the intention of the parties must have been directed towards a specific object. The material object of the obligation to deliver must therefore have been certain and determinate, that is, specifically identified.
+(page 308 no. 551)
+[29] In the case at bar, the Civil Code of Lower Canada is the relevant code. According to the evidence put forward, Claude Ménard fully trusted Émile Amireault and Pierre Laberge to choose the paintings, appraise them and choose a recipient. During the four taxation years at issue, none of the paintings was in Claude Ménard's possession. At the time of purchase, the Appellant did not know what he was buying nor the price he was going to pay. It was not until the following spring that he would make out a cheque to effect payment. The cheque does not explain the reason for payment and no purchase invoices were filed in evidence. The letters filed in evidence, which allegedly accompanied the gifts, do not specify the paintings. They refer to some works by certain artists or some works of art by various artists. The very simple reason for this type of letter is that the Appellant did not, as a matter of fact, know which work of art was involved because everything was left to the discretion of the owners of the involved art galleries. In my opinion, Claude Ménard never acquired ownership of the paintings and thus there were no donations for all the years at issue.
+[30] Because I have arrived at this conclusion, I do not need to look into the market value of the paintings. I will, however, comment that the evidence presented in this case did not meet the Appellant's burden of proof. An appraisal, first of all, must be done by an independent appraiser and be based on objective criteria. To that effect, I quote Justice Dussault of this Court in Gagnon v. Canada, [1991] T.C.J. No. 655 (Q.L.):
+20 In establishing the fair market value of an item, the courts have several times noted that an expert must not only demonstrate competence and impartiality or professional independence, but must provide an opinion based on objective criteria. Reference may be made in this regard inter alia to the decision of Judge Brulé of this Court in Conn v. M.N.R., 86 D.T.C. 1669. The decisions in Auciello v. M.N.R., 88 DTC 1739, and Friedberg v. The Queen, 89 DTC 5115, also recognize these requirements, which I would characterize as minimal.
+21 The definition of what is meant by fair market value has also been well established by the courts since the judgment of McIntyre J. of the British Columbia Supreme Court in Re Mann Estate, [1972] 5 W.W.R. 23, a judgment affirmed by the Court of Appeal of that province, [1973] C.T.C. 561, and by the Supreme Court of Canada, [1974] C.T.C. 222. In the recent judgment of the Federal Court Trial Division in Friedberg (supra), reference is made to the definition given by Mr. Richard Wise in an article on the point which essentially restates the tests indicated by the courts. In the judgment, the Court refers to this definition as follows, at p. 5120:
+The highest price, expressed in terms of money or money's worth, obtainable in an open and unrestricted market between informed and prudent parties, acting at arm's length, neither party being under compulsion to transact.
+[31] This is not the case here, since the appraisals were prepared by the owner-seller of the paintings, who chose the paintings and the recipient.
+[32] I must also stress, despite my conclusion regarding the validity of the gift, that the receipts do not comply with the requirements in paragraphs e.(l) and (h) in subsection 3501 (1) of the Regulations.
+[33] Was the Minister justified, in the case at bar, in imposing a penalty for each of the taxation years at issue? Subsection 163(2) of the Act imposes a penalty on "Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in making of, a false statement or omission in a return, form, certificate, statement or answer" . . .
+[34] In Chabot, supra, Justice Décary summarized the relevant case law with regard to the application of subsection 163(2):
+16 That paragraph is a penal provision, which must be narrowly construed "so that if there is a reasonable interpretation which will avoid the penalty in a particular case that construction should be adopted" (Strayer J. as he then was, Venne v. The Queen, 84 DTC 6247, at page 6256). And as Strayer J. recalls later on, the onus, under subsection 163(3), is on the Minister to prove that the penalty should be applied.
+17 That paragraph deals with blameworthy conduct on the part of a taxpayer in his or her formal relationship with Revenue Canada. Its purpose is not to punish the taxpayer simply because he or she sought, in good faith, to benefit from a tax advantage that was subsequently disallowed. Its purpose is not to punish the taxpayer because of a substantive disagreement regarding the nature of a transaction, all the relevant facts of which have been brought to the Minister's attention. As Cullen J. stated in Hudson Bay Mining and Smelting Co. v. Canada, [1986] 1 C.T.C. 484, his comments having been specifically approved by the Federal Court of Appeal when it dismissed the appeal from that decision at [1989] 2 C.T.C. 309 (F.C.A.):
+Whether a gift or partial consideration, is really a legal characterization to be determined by the Court. As counsel for the plaintiff put it, "The Ministry would have a distinct advantage if he could levy a penalty every time it disagrees with a taxpayer." Each case must be looked at carefully to determine if there is an omission or a false statement upon which to base a penalty. That is not the case here.
+Something more than mere disagreement must be determined: a false statement by a taxpayer, as an example, or gross negligence, or a finding by the tax department that an error was made deliberately. I do not believe there is the criminal onus of proving beyond a reasonable doubt, however. One cannot fault the plaintiff for putting the best possible light on the situation, including the suggested two deals, as long as the main feature is not hidden. I cannot find gross negligence here, or any attempt to bury information from the prying look of the Ministry. Even on a "balance of probabilities" burden, the defendant's case fails.
+(page 493)
+18 Also relevant are the comments made by Marceau and Strayer JJ. (as they then were), in Cloutier v. The Queen, 78 D.T.C. 6485, at page 6487, and in Venne (supra, paragraph 16) at page 6256:
+The question before the Court is whether the circumstances in which the omission occurred are such that gross negligence may be attributed to the taxpayer: "gross negligence" being taken to mean a relatively serious act of negligence, which is difficult to explain and socially inadmissible. The factual circumstances in themselves do not present a problem, they are all established; it is the way in which they should be regarded which is at issue, namely, what can be deduced from them concerning the acts of plaintiff which are at issue. This is not a question of fact in the sense of a question regarding an earlier factual circumstance or an event which took place at an earlier point in time, but a question of legal appraisal and judgment on the actions, which is not subject to proof but depends on the personal conviction of the individual making the decision.
+(Marceau J.)
+"Gross negligence" must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not.
+(Strayer J.)
+19 More recently, this Court applied subsection 163(2) to a case that it characterized as "wilful blindness." Despite numerous warnings served by the Department, the taxpayer had persisted in claiming tax credits for charitable gifts as part of a tax fraud involving an art dealer who had been found guilty of criminal offences (The Queen v. Duguay, 2000 D.T.C. 6620 (F.C.A.) and The Queen v. Côté, 2000 D.T.C. 6615 (F.C.A.)).
+[35] In the case at bar, the Minister takes the appellant to task for not having provided concrete evidence of possession of the goods that were donated. He is criticized for not knowing what he was buying, for not having personally chosen the charitable organization and for not having made payments until the year following that in which the gift was made. He is also taken to task for his lack of cooperation with regard to the auditor's repeated requests for records regarding the donations.
+[36] The Appellant's Agents explain this delay in responding to the auditor's requests by the fact that the initial request was just before the holidays. They state that Claude Ménard complied with the requests and sent everything he had in his possession. Jean-Denis Ménard, son of the late Claude Ménard, stressed that if his father had known at the time that the paintings had been sold at such low prices, he would not have made the donations. Allegedly, he was not informed of this fact until 1996. He also added that his father trusted the fact that these were reputable art galleries and that their methods were proper. He also obtained information from Revenue Canada and from the person who prepared his income tax returns.
+[37] Since Claude Ménard is deceased, it is impossible to know his version of the facts and rule on his credibility. However, his son, Jean-Denis Ménard, has convinced me that if there was any carelessness or default, they were insufficient for me to charge his father with gross negligence. The case at bar is not a matter of egregious behaviour in which it is possible to detect indifference on his part with regard to the law. The explanations provided do not allow me to conclude that the Appellant was acting intentionally. He believed, according to the information gathered and the records that he filed with his income tax returns and subsequently, that everything was properly done. I do not believe these circumstances are of gross negligence. The penalties imposed by the Minister are therefore without merit.
+[38] The appeals are allowed to the extent that the penalties imposed by the Minister are nullified. The assessments are therefore referred back to the Minister for reconsideration and reassessment in accordance with these Reasons.
+Signed at Edmundston, New Brunswick, this 22nd day of June 2004.
+"François Angers"
+Angers J.
+Translation certified true
+on this 8th day of November 2004.
+Sharon Winkler Moren, Translator

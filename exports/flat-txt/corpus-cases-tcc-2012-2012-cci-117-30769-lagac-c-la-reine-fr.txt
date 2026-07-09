@@ -1,0 +1,196 @@
+Title: Lagacé c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30769/index.do
+Corpus path: corpus/cases/tcc/2012/2012-cci-117-30769-lagac-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2012-04-05
+
+# Lagacé c. La Reine
+
+- Citation: 2012 CCI 117
+- Decision date: 2012-04-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7570, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lagacé c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-04-05
+Référence neutre
+2012 CCI 117
+Numéro de dossier
+2010-2419(GST)I
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2010-2419(GST)I
+ENTRE :
+LYNDA M. LAGACÉ,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de Richard Eastveld (2010-2421(GST)I) le 6 février 2012, à Montréal (Québec).
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Avocate de l’appelante :
+Me Anick Bouzouita
+Avocate de l’intimée :
+Me Joëlle Bitton
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu du paragraphe 323(1) de la Loi sur la taxe d’accise pour la période allant du 1er janvier 1998 au 31 décembre 2007, dont l’avis est daté du 15 septembre 2009 et porte le numéro PM‑15459, est rejeté. Les parties assumeront leurs propres frais.
+Signé à Vancouver (Colombie‑Britannique), ce 5e jour d’avril 2012.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 25e jour de mai 2012.
+Marie‑Christine Gervais
+Dossier : 2010-2421(GST)I
+ENTRE :
+RICHARD EASTVELD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de Lynda M. Lagacé (2010-2419(GST)I) le 6 février 2012, à Montréal (Québec).
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Avocate de l’appelant :
+Me Anick Bouzouita
+Avocate de l’intimée :
+Me Joëlle Bitton
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu du paragraphe 323(1) de la Loi sur la taxe d’accise pour la période allant du 1er janvier 1998 au 31 décembre 2007, dont l’avis est daté du 15 septembre 2009 et porte le numéro PM‑15457, est rejeté. Les parties assumeront leurs propres frais.
+Signé à Vancouver (Colombie‑Britannique), ce 5e jour d’avril 2012.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 25e jour de mai 2012.
+Marie‑Christine Gervais
+Référence : 2012 CCI 117
+Date : 20120405
+Dossier : 2010-2419(GST)I
+ENTRE :
+LYNDA M. LAGACÉ,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+ET ENTRE :
+Dossier : 2010-2421(GST)I
+RICHARD EASTVELD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Hogan
+[1] Les appelants, Lynda Lagacé et Richard Eastveld, interjettent appel de cotisations fondées sur la responsabilité des administrateurs dont ils ont fait l’objet en vertu de la Loi sur la taxe d’accise (la « LTA ») par suite de l’omission d’une société de verser 40 721 $ au titre de la taxe sur les produits et services (la « TPS ») y compris les intérêts et les pénalités, pour la période allant du 1er janvier 1998 au 31 décembre 2007. Les appels ont été entendus sur preuve commune à la demande des parties.
+[2] Mme Lagacé était l’unique administratrice de droit de la société en question, Eastveld Management Inc. (« Eastveld Management »).
+[3] La société s’occupait de courtage immobilier et elle employait Richard Eastveld, courtier immobilier agréé. M. Eastveld a fait l’objet d’une cotisation compte tenu du fait qu’il était un administrateur de fait d’Eastveld Management. La caractérisation par l’intimée de M. Eastveld à titre d’administrateur de fait de la société a été acceptée par l’avocate de M. Eastveld, qui a présenté des éléments de preuve montrant que M. Eastveld était l’unique administrateur actif de la société.
+[4] Le ministre du Revenu du Québec (le « ministre »), agissant pour le compte du ministre du Revenu national, s’est fondé sur les hypothèses de fait suivantes en établissant la cotisation de chaque appelant :
+[traduction]
+a) la société a été constituée en personne morale en vertu de la Loi canadienne sur les sociétés par actions (tel était alors son titre), L.R.C. 1985, ch. C‑44;
+b) la société est inscrite pour l’application de la partie IX de la LTA depuis le mois de septembre 1998 et porte le numéro d’inscription 879193191;
+c) la société a produit dans le délai par ailleurs imparti sa déclaration auprès du ministre pour les périodes annuelles de déclaration allant du 1er janvier 1998 au 31 décembre 2007, ou elle a produit des déclarations modifiées dans lesquelles la taxe nette, qui s’élevait à 21 368,44 $, était calculée;
+d) en produisant ses déclarations, la société n’a pas versé au receveur général le montant de la taxe nette qui y était calculé, ce montant étant dû au plus tard le jour où la déclaration pour la période en cause devait être produite;
+e) le 9 mai 2008, le certificat prévu à l’article 316 de la LTA, qui s’élevait à 35 638,65 $, a été enregistré à la Cour fédérale pour la période pertinente;
+f) il y a eu défaut d’exécution à l’égard du certificat;
+g) du 11 janvier 1999 au 15 septembre 2009, [les appelants étaient des administrateurs] de la société;
+h) au cours des périodes annuelles de déclaration pertinentes et au cours de la période où la société était tenue de verser la taxe nette calculée, [les appelants n’ont] pas démissionné, n’[ont] pas été remplacé[s] et n’[ont] pas été destitué[s] de [leurs] fonctions d’administrat[eurs] de la société;
+i) les appelants étaient au courant des difficultés financières auxquelles la société faisait face;
+j) [les appelants n’ont] pas agi avec autant de soin, de diligence et de compétence pour prévenir l’omission de la société de s’acquitter des obligations qui [leur] incombaient en vertu de la LTA que ne l’aurait fait une personne raisonnablement prudente dans les mêmes circonstances, et entre autres, de l’obligation mentionnée ci‑dessus à l’alinéa d), et [ils n’ont] pas pris toutes les mesures nécessaires à cet égard;
+k) [les appelants n’ont] pas pris les mesures appropriées en vue de mettre sur pied un système efficace visant à assurer que la société verse les sommes dues au ministre en vertu de la LTA.
+Le point litigieux
+[5] Il s’agit ici de savoir si les appelants, en leur qualité d’administrateurs d’Eastveld Management, sont responsables à l’égard de la TPS qu’Eastveld Management n’a pas versée ou s’ils ont satisfait aux conditions qui s’appliquent au moyen de défense fondé sur la diligence raisonnable prévu au paragraphe 323(3) de la LTA.
+La thèse des appelants
+[6] Les appelants invoquent le moyen de défense fondé sur la diligence raisonnable en vertu du paragraphe 323(3) de la LTA; ils affirment avoir agi avec autant de soin, de diligence et de compétence pour prévenir l’omission de la société de verser la TPS que ne l’aurait fait une personne raisonnablement prudente dans les mêmes circonstances. Selon l’avocate des appelants, M. Eastveld était l’âme dirigeante et l’unique administrateur actif de la société. Elle a qualifié M. Eastveld d’administrateur interne. En invoquant le fait que Mme Lagacé était une administratrice passive, l’avocate m’invite à faire preuve d’une plus grande clémence dans mon appréciation du moyen de défense fondé sur la diligence raisonnable qui a été présenté pour le compte de l’appelante.
+[7] Les appelants affirment que l’omission de la société de verser la TPS était directement attribuable aux actions négligentes du comptable fiscaliste indépendant de la société. Selon les appelants, le ministre a empiré les choses en imputant les paiements effectués par la société à d’autres dettes fiscales dont ils ne sont pas responsables.
+Analyse
+[8] Le paragraphe 323(1) de la LTA indique quelle est la responsabilité des administrateurs lorsqu’une société ne verse pas la taxe nette qui est due :
+323(1) Responsabilité des administrateurs – Les administrateurs d’une personne morale au moment où elle était tenue de verser, comme l’exigent les paragraphes 228(2) ou (2.3), un montant de taxe nette ou, comme l’exige l’article 230.1, un montant au titre d’un remboursement de taxe nette qui lui a été payé ou qui a été déduit d’une somme dont elle est redevable, sont, en cas de défaut par la personne morale, solidairement tenus, avec cette dernière, de payer le montant ainsi que les intérêts et pénalités afférents.
+[9] Les appelants invoquent le moyen de défense fondé sur la diligence raisonnable que le paragraphe 323(3) de la LTA met à la disposition de l’administrateur qui a fait l’objet d’une cotisation pour le motif qu’il est tenu de payer la taxe non versée par la société. Le paragraphe 323(3) prévoit ce qui suit :
+323(3) Diligence – L’administrateur n’encourt pas de responsabilité s’il a agi avec autant de soin, de diligence et de compétence pour prévenir le manquement visé au paragraphe (1) que ne l’aurait fait une personne raisonnablement prudente dans les mêmes circonstances.
+Nouvelle norme objective établie dans l’arrêt La Reine c. Buckingham
+[10] Dans une arrêt récent, La Reine c. Buckingham[1], la Cour d’appel fédérale a conclu que la cour doit appliquer une norme objective lorsqu’elle évalue le moyen de défense fondé sur la diligence raisonnable invoqué par un administrateur en vertu du paragraphe 323(3) de la LTA et du paragraphe 227.1(3) de la Loi de l’impôt sur le revenu (la « LIR »)[2].
+[11] Avant qu’une décision ait été rendue dans l’affaire Buckingham, l’arrêt qui faisait autorité quant au critère applicable était Soper c. Canada, dans lequel la Cour d’appel fédérale avait décidé que la norme objective subjective était le critère à appliquer[3]. Comme la cour l’a dit :
+[40] [...] La norme de prudence énoncée au paragraphe 227.1(3) de la Loi est fondamentalement souple. Au lieu de traiter les administrateurs comme un groupe homogène de professionnels dont la conduite est régie par une seule norme immuable, cette disposition comporte un élément subjectif qui tient compte des connaissances personnelles et de l’expérience de l’administrateur, ainsi que du contexte de la société visée, notamment son organisation, ses ressources, ses usages et sa conduite. Ainsi, on attend plus des personnes qui possèdent des compétences supérieures à la moyenne (p. ex. les gens d’affaires chevronnés).
+[41] La norme de prudence énoncée au paragraphe 227.1(3) de la Loi n’est donc pas purement objective. Elle n’est pas purement subjective non plus. Il ne suffit pas qu’un administrateur affirme qu’il a fait de son mieux, car il invoque ainsi la norme purement subjective. Il est également évident que l’intégrité ne suffit pas. Toutefois, la norme n’est pas une norme professionnelle. Ces situations ne sont pas régies non plus par la norme du droit de la négligence. La Loi contient plutôt des éléments objectifs, qui sont représentés par la notion de la personne raisonnable, et des éléments subjectifs, qui sont inhérents à des considérations individuelles comme la « compétence » et l’idée de « circonstances comparables ». Par conséquent, la norme peut à bon droit être qualifiée de norme « objective subjective ».
+Par la suite, la norme objective établie dans l’arrêt Magasins à rayons Peoples inc. (Syndic de) c. Wise[4] a remplacé le critère « objectif subjectif » de l’arrêt Soper.
+[12] Le 11 octobre 2011, dans deux décisions de la Cour canadienne de l’impôt, Gougeon c. La Reine, 2011 CCI 420, et Latulippe c. La Reine, 2011 CCI 388, le juge Angers a également mentionné la norme énoncée dans l’arrêt Buckingham. Comme le juge Angers l’a dit dans la décision Latulippe :
+[20] Je ne peux passer sous silence la récente décision de la Cour d’appel fédérale rendue dans l’affaire Buckingham c. La Reine, 2011 CAF 142, qui écarte la norme subjective et qui établit que le critère ne devrait être qu’un objectif. L’application de cette norme plus stricte fait en sorte que les arguments basés sur des lacunes personnelles devaient être écartés. [...]
+[Non souligné dans l’original.]
+La norme objective et son fondement
+[13] Dans l’arrêt Buckingham, la Cour d’appel fédérale a indiqué la façon d’appliquer la norme objective et elle a expliqué le fondement sous‑jacent que la Cour suprême du Canada avait énoncé dans l’arrêt Peoples à l’égard de l’établissement de cette norme :
+[38] Cette norme objective écarte le principe de common law selon lequel la gestion d’une société par un administrateur doit être jugée suivant les compétences, les connaissances et les aptitudes personnelles de celui-ci : Magasins à rayons Peoples, aux paragraphes 59 à 62. Si l’on qualifie cette norme d’objective, il devient évident que ce sont les éléments factuels du contexte dans lequel agissent l’administrateur qui sont importants, plutôt que les motifs subjectifs de ces derniers : Magasins à rayons, au paragraphe 63. L’apparition de normes plus strictes force les sociétés à améliorer la qualité des décisions des conseils d’administration au moyen de l’établissement de bonnes règles de régie d’entreprise : Magasins à rayons Peoples, au paragraphe 64. Des normes plus strictes empêchent aussi la nomination d’administrateurs inactifs choisis pour l’apparence ou qui ne remplissent pas leurs obligations d’administrateurs en laissant aux administrateurs actifs le soin de prendre les décisions. Par conséquent, une personne nommée administrateur doit activement s’acquitter des devoirs qui s’attachent à sa fonction, et il ne lui sera pas permis de se défendre contre une allégation de malfaisance dans l’exécution de ses obligations en invoquant son inaction : Kevin P. McGuinness, Canadian Business Corporations Law, 2e édition (Markham, Ontario: LexisNexis Canada, 2007), à la page 11.9.
+[Non souligné dans l’original.]
+Les facteurs contextuels sont pertinents
+[14] La Cour doit évaluer, selon une norme objective, si les appelants ont agi avec autant de soin, de diligence et de compétence pour prévenir le manquement que ne l’aurait fait une personne raisonnablement prudente dans les mêmes circonstances. Toutefois, il ne faut pas procéder à cette évaluation sans tenir compte des circonstances particulières auxquelles font face la société et les appelants. Dans l’arrêt Buckingham, la Cour d’appel fédérale a affirmé que les facteurs contextuels font partie d’une analyse objective :
+[39] Une norme objective ne signifie toutefois pas qu’il ne doit pas être tenu compte des circonstances propres à un administrateur. Ces circonstances doivent être prises en compte, mais elles doivent être considérées au regard de la norme objective d’une « personne raisonnablement prudente ». Comme l’a souligné la Cour dans Magasins à rayons Peoples au paragraphe 62 :
+Le texte de l’al. 122(1)b) de la LCSA qui énonce l’obligation de diligence reprend presque mot à mot celui que propose le Rapport Dickerson. La principale différence réside dans le fait que la version qui a été adoptée comprend les mots « en pareilles circonstances », ce qui modifie la norme légale en exigeant qu’il soit tenu compte du contexte dans lequel une décision donnée a été prise. Le législateur n’a pas introduit un élément subjectif relatif à la compétence de l’administrateur, mais plutôt un élément contextuel dans la norme de diligence prévue par la loi. Il est clair que l’al. 122(1)b) est plus exigeant à l’égard des administrateurs et des dirigeants que la norme traditionnelle de diligence prévue par la common law et expliquée, par exemple, dans la décision Re City Equitable Fire Insurance, précitée. [[1925] 1 Ch. 407]
+[15] Dans ce cas‑ci, le contexte comprend l’allégation des appelants selon laquelle la négligence du comptable fiscaliste de la société a contribué à l’omission de la société de verser la TPS.
+L’accent est mis sur les efforts visant à prévenir les défauts, et non sur les tentatives visant à y remédier
+[16] Dans l’arrêt Buckingham, la Cour d’appel fédérale fait expressément remarquer que le critère, en vertu des paragraphes 227.1(3) de la LIR et 323(3) de la LTA, exige un examen des mesures qu’un administrateur a prises en vue de prévenir le défaut de versement. La Cour dit ce qui suit :
+[40] L’objectif de l’examen prévu aux paragraphes 227.1(3) de la Loi de l’impôt sur le revenu et 323(3) de la Loi sur la taxe d’accise différera toutefois de celui qu’exige l’alinéa 122(1)b) de la LCSA, car les premières dispositions requièrent que l’administrateur s’acquitte de son obligation de soin, de diligence et d’habileté de manière à prévenir les défauts de versement. Pour invoquer ces moyens de défense, l’administrateur doit par conséquent démontrer qu’il s’est préoccupé des versements requis et qu’il s’est acquitté de son obligation de soin, de diligence et d’habileté afin de prévenir le défaut de la société de verser les montants visés.
+[17] Il ne suffit pas de prendre des mesures en vue de remédier aux omissions de verser la taxe nette; la question, lorsqu’il s’agit d’examiner le moyen de défense fondé sur la diligence raisonnable, consiste à établir les mesures qui ont été prises en vue de prévenir en premier lieu ces omissions. Un administrateur ne peut pas invoquer la diligence raisonnable, comme les appelants l’ont fait en l’espèce, en affirmant qu’il a négocié une entente par laquelle la société s’engageait à rembourser sa dette au fur et à mesure qu’elle gagnerait un revenu de commissions.
+[18] Les appelants n’ont pas réussi à me convaincre que l’omission de la société de verser la TPS était attribuable aux actions négligentes de M. Clayman. La preuve montre que l’obligation de la société au titre de la TPS a fait l’objet d’une cotisation compte tenu des déclarations que celle‑ci avait produites et des paiements qu’elle avait effectués. Le manque était attribuable au fait que la société n’avait pas versé toute la TPS qu’elle avait perçue.
+[19] L’intimée a fourni une lettre datée du 20 mars 2003, rédigée par M. Clayman et adressée aux deux appelants, au sujet de la TPS non versée de la société. Les passages pertinents de cette lettre sont libellés ainsi :
+[traduction]
+[...]
+À la suite des discussions que nous avons récemment eues au sujet des montants dus par Eastveld Management Inc. à Revenu Québec, lesquels s’élèvent en tout à environ 60 000 $ et sont en bonne partie composés des montants nets de la TPS et de la TVQ que la société doit, mais qu’elle n’a pas versés à Revenu Québec, ainsi que des pénalités et des intérêts accumulés par suite du non‑versement et de l’insuffisance des acomptes provisionnels qui auraient dû être payés.
+[...]
+(1) Eastveld Management Inc. doit sans aucun doute à Revenu Québec le montant approximatif susmentionné. Cette dette a été établie à l’aide de nos propres registres et, par conséquent, elle a été déclarée à Revenu Québec sur la base de l’autodéclaration au moyen des documents et autres éléments normalement utilisés par les contribuables à cette fin.
+(2) La dette ne résulte pas de quelque nouvelle cotisation concernant les montants déclarés à Revenu Québec. Si c’était le cas, la société aurait le droit de s’adresser directement au ministre en vue de s’opposer à tout ou partie de la nouvelle cotisation ou des nouvelles cotisations en envoyant un « avis d’opposition » tel que celui qui est normalement présenté en pareil cas.
+(3) Les administrateurs d’une société sont généralement personnellement responsables de la dette de la société au titre de la TPS et de la TVQ. Par conséquent, comme je vous l’ai par le passé fait savoir (et comme d’autres vous l’ont fait savoir), les actifs de Lynda peuvent être assujettis à une saisie à l’égard de cette dette.
+[...]
+J’aimerais faire remarquer, Lynda et Richard, sur le plan personnel, que vous êtes mes clients et mes amis depuis un bon nombre d’années et je comprends bien la frustration et le stress que cette situation vous a causés. Je ne voudrais pas que vous perdiez votre maison – ce qui est un scénario vraisemblable s’il n’est pas bientôt remédié à la situation. Je vous demande avec instance de tenir minutieusement compte de mes conseils antérieurs lorsque je vous ai recommandé d’emprunter sur votre maison un montant suffisant pour liquider la dette en question. À mon avis, le versement hypothécaire mensuel supplémentaire en vaut bien la peine compte tenu du soulagement que vous éprouveriez en mettant finalement un terme à cette affaire de la seule façon qui est selon moi possible eu égard aux circonstances. Au fur et à mesure que les rentrées de fonds de la société le permettront, vous pourrez rembourser le prêt et vos versements hypothécaires mensuels seront finalement ramenés à leurs montants antérieurs. Enfin, je vous prie également de tenir compte d’un autre conseil que je vous ai donné par le passé. L’insuffisance de fonds ne saurait constituer une excuse acceptable pour l’inobservation des exigences des lois et des règlements qui s’appliquent au régime de la TPS et de la TVQ. Toute personne (particulier ou société) qui exige et perçoit la TPS et la TVQ le fait à titre de mandataire de Revenu Québec et, par conséquent, les fonds y afférents doivent être remis à qui de droit. Je vous recommande donc encore une fois de mettre à part environ 15 p. 100 du montant des commissions déposées dans le compte bancaire de la société, de façon à pouvoir, au fur et à mesure que les acomptes provisionnels ou autres paiements deviennent exigibles, vous conformer aux exigences du régime.
+[Non souligné dans l’original.]
+[20] Cette lettre confirme que les appelants étaient au courant de l’omission de la société de verser la TPS. En outre, M. Clayman conseille aux appelants de prendre des mesures en vue de veiller à ce que la société ne continue pas à omettre de verser la TPS exigible dans l’avenir. Il est intéressant de noter que les appelants semblent ne pas avoir tenu compte des conseils de M. Clayman étant donné que la cotisation dont ils ont fait l’objet s’applique à la TPS impayée pour la période allant jusqu’au 31 décembre 2007.
+[21] Pour être retenu, un moyen de défense fondé sur la diligence raisonnable exige une preuve indiquant que les administrateurs ont pris des mesures concrètes en vue de prévenir le défaut. Si l’arrêt Buckingham est appliqué en l’espèce, il ne suffit pas de dire que Mme Lagacé ne devrait pas être tenue responsable parce qu’elle était une administratrice externe. La preuve montre qu’elle était dans les affaires avec M. Eastveld. Ils vivaient ensemble et ils travaillaient ensemble à l’entreprise depuis leur bureau à domicile. Les appelants avaient la charge d’établir qu’ils avaient pris des mesures en vue de prévenir l’omission de la société. Étant donné que la taxe n’a pas été payée lorsque les déclarations ont été produites, la seule déduction raisonnable que je puis faire est que la société ou les appelants ont utilisé les fonds à d’autres fins. Il n’a pas été allégué que le conseiller fiscal avait détourné des fonds de la société à son propre avantage.
+[22] Pour ces motifs, les appels sont rejetés, et les parties doivent assumer leurs propres frais.
+Signé à Vancouver (Colombie‑Britannique), ce 5e jour d’avril 2012.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 25e jour de mai 2012.
+Marie‑Christine Gervais
+RÉFÉRENCE : 2012 CCI 117
+No DES DOSSIERS DE LA COUR : 2010-2419(GST)I
+2010-2421(GST)I
+INTITULÉ : LYNDA M. LAGACÉ,
+RICHARD EASTVELD c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 6 février 2012
+MOTIFS DU JUGEMENT : L’honorable juge Robert J. Hogan
+DATE DU JUGEMENT : Le 5 avril 2012
+COMPARUTIONS :
+Avocate des appelants :
+Me Anick Bouzouita
+Avocate de l’intimée :
+Me Joëlle Bitton
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom : Anick Bouzouita
+Cabinet : Pinsky Zelman Segal Santillo
+Montréal (Québec)
+Pour l’intimée : Myles J. Kirvan
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] 2011 CAF 142.
+[2] [1998] 1 C.F. 124, L.R.C. 1985, ch. 1 (5e suppl.). Voir les par. 30 à 40 de l’arrêt Buckingham.
+[3] 97 DTC 5407, [1997] A.C.F. no 881 (QL).
+[4] 2004 CSC 68, [2004] 3 R.C.S. 461.

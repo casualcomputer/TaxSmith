@@ -1,0 +1,253 @@
+Title: Carpino  c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/484402/index.do
+Corpus path: corpus/cases/tcc/2020/2020-cci-88-484402-carpino-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2020-08-24
+
+# Carpino  c. La Reine
+
+- Citation: 2020 CCI 88
+- Decision date: 2020-08-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4554, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Carpino c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2020-08-24
+Référence neutre
+2020 CCI 88
+Numéro de dossier
+2018-3753(IT)I
+Juges et Officiers taxateurs
+David E. Spiro
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2018-3753(IT)I
+ENTRE :
+JOHN C. CARPINO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 17 août 2020, à Toronto (Ontario)
+Devant : L’honorable juge David E. Spiro
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Natanz Bergeron
+JUGEMENT
+Les appels interjetés à l’encontre des nouvelles cotisations établies le 16 août 2018, en application de la Loi de l’impôt sur le revenu pour les années d’imposition 2013 et 2014, sont rejetés, sans dépens.
+Signé à Toronto (Ontario), ce 24e jour d’août 2020.
+« David E. Spiro »
+Le juge Spiro
+Référence : 2020 CCI 88
+Date : 20200824
+Dossier : 2018-3753(IT)I
+ENTRE :
+JOHN C. CARPINO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Spiro
+[1] L’appelant, M. John Carpino, a déclaré un revenu total de 10 719 $ dans sa déclaration de revenus pour l’année d’imposition 2013, ainsi qu’un revenu total de 24 829 $ dans sa déclaration de revenus pour l’année d’imposition 2014 [1] .
+[2] Après avoir examiné les relevés bancaires de M. Carpino, et en application du paragraphe 152(7) de la Loi de l’impôt sur le revenu (la Loi), le ministre du Revenu national (le ministre) a établi de nouvelles cotisations d’impôt à l’égard de M. Carpino pour le motif qu’il avait omis de déclarer des revenus de 21 392 $ en 2013 et de 36 770 $ en 2014.
+[3] En réponse à l’avis d’appel de M. Carpino, le procureur général du Canada a relevé certains dépôts, effectués sur les comptes bancaires personnels de M. Carpino en 2013 et en 2014, que le ministre a estimé être des revenus de M. Carpino pour chacune de ces années et qu’il ne les a pas pris en compte dans le calcul de son revenu :
+2013
+2013
+Banque TD
+Banque RBC
+Moyen de paiement
+3 janvier
+720 $
+Espèces
+5 avril
+200 $
+Chèque
+28 mai
+9 000
+Espèces
+10 juillet
+200
+Espèces
+2 août
+800
+Espèces
+30 août
+1 500
+Espèces
+12 septembre
+4 000
+Espèces
+16 septembre
+2 900
+Espèces
+1er octobre
+2 000
+Espèces
+16 octobre
+952
+Espèces
+Total partiel
+20 752 $
+1 520 $
+Total
+22 272 $
+Montant d’argent admis dans les appels
+(880 $)
+Revenu total non déclaré
+21 392 $
+2014
+2014
+Banque TD
+Banque RBC
+Moyen de paiement
+20 février
+1 190 $
+Espèces
+5 mars
+380 $
+Espèces
+24 mars
+3 000
+Espèces
+7 mai
+5 000
+5 700
+Espèces
+9 mai
+4 000
+Espèces
+12 mai
+7 500
+7 500
+Espèces
+15 mai
+2 500
+Espèces
+Total partiel
+23 190 $
+13 580 $
+Total
+36 770 $
+Revenu total non déclaré
+36 770 $
+[4] Aucune pénalité pour faute lourde, aux termes du paragraphe 163(2) de la Loi, n’a été établie pour l’une ou l’autre des années d’imposition. M. Carpino a été le seul témoin au procès.
+Interrogatoire principal
+[5] M. Carpino est arrivé au Canada à l’âge de 14 ans, au sein d’une famille de neuf enfants. Il a commencé à travailler deux ans plus tard. Il a toujours conservé de l’argent chez lui pour montrer à ses parents tout ce qu’il économisait. Il a exercé une activité commerciale en tant que vendeur de voitures d’occasion à Orillia (Ontario) jusqu’à sa retraite en 2008.
+[6] À la mort du père de M. Carpino en 1992, la mère de M. Carpino s’est retrouvée seule chez elle, sans aucune aide. Elle souffrait de plusieurs problèmes médicaux qui se sont aggravés avec le temps. À compter de 1993, M. Carpino a apporté une aide importante à sa mère, notamment en prenant ses rendez-vous médicaux et en gérant ses achats, ses comptes bancaires et ses investissements. Il tenait à jour le livret bancaire de sa mère et avait pleinement accès à son compte.
+[7] Les investissements que M. Carpino a réalisés au nom de sa mère comprenaient des certificats de placement garanti et des investissements en dollars américains. M. Carpino a mentionné 100 000 $ que sa mère lui avait demandé d’investir en son nom.
+[8] Dans son témoignage, M. Carpino a déclaré que sa mère lui faisait des dons en espèces chaque mois, en remerciement de l’aide qu’il lui apportait. Il a déclaré qu’elle lui donnait au moins 1 000 $ par mois à titre de don. Parfois, les dons mensuels pouvaient s’élever à 1 200 $ ou à 1 400 $.
+[9] M. Carpino a déclaré que ces cadeaux prenaient des formes diverses. Par exemple, lorsque sa mère réalisait des bénéfices sur un investissement, elle les lui donnait intégralement. Lorsqu’il retirait 1 200 $ en espèces du compte bancaire de sa mère, elle conservait 900 $ et elle lui donnait 300 $ à titre de don.
+[10] Cet arrangement s’est poursuivi jusqu’au décès de sa mère en 2010, à l’âge de 89 ans. Selon M. Carpino, au total, de son vivant, sa mère lui a fait des dons en espèces de 70 000 $. Il a conservé une liasse d’argent chez lui dans un congélateur jusqu’en 2014 où, selon son témoignage, il a commencé à utiliser un coffre-fort à son domicile.
+[11] En 1994, M. Carpino s’est marié pour la seconde fois avec une femme âgée de 15 ans de moins que lui. Ils se sont séparés en 2009 et ils ont divorcé en 2012.
+[12] À la fin de l’année 2012, la Cour supérieure de justice de l’Ontario a ordonné à M. Carpino de verser à son ancienne épouse un paiement d’égalisation de 425 000 $ [2] . Dans son témoignage, M. Carpino a déclaré avoir payé 375 000 $ de cette somme d’argent, mais avoir retenu le dernier paiement de 50 000 $.
+[13] À cet égard, je reproduis ci-dessous les paragraphes 17 et 18 de l’ordonnance de la Cour supérieure de justice de l’Ontario, datée du 19 décembre 2012 (pièce R-4) :
+[traduction]
+BIENS
+17. Le père défendeur versera à la mère demanderesse un paiement d’égalisation de 425 000 $, lequel comprend les intérêts avant jugement, les dépens, l’arriéré alimentaire et toutes les autres demandes entre les parties sur le fondement du droit, de l’équité ou d’une coentreprise familiale.
+18. Le père défendeur paiera à la mère demanderesse le paiement d’égalisation selon les modalités qui suivent :
+a) 150 000 $ au plus tard le 14 décembre 2012 (en hypothéquant le domicile matrimonial);
+b) 90 000 $ en espèces au plus tard le 14 décembre 2012;
+c) le transfert ou l’affectation de l’hypothèque d’Orillia Alignment de 90 000 $ par le père défendeur à la mère demanderesse, dès que possible ou au plus tard le 14 décembre 2012;
+d) 45 000 $ à transférer ou à affecter au moyen de l’hypothèque de Ketchin, du produit de cette hypothèque ou en espèces, au plus tard le 31 janvier 2013;
+e) 50 000 $ au plus tard le 1er novembre 2014.
+[14] Dans son témoignage, M. Carpino a déclaré ne pas avoir effectué le paiement de 50 000 $ exigé au sous-paragraphe 18e) de l’ordonnance pour le motif que son ancienne épouse ne méritait pas de recevoir cette somme [3] .
+[15] Dans son témoignage, M. Carpino a déclaré avoir utilisé une ligne de crédit, garantie par sa maison, pour payer ses factures et ses dépenses. Il a également déclaré avoir mis en location la maison de ses parents après le décès de sa mère.
+[16] À la fin de l’année 2013, un ami a proposé à M. Carpino de créer ensemble une entreprise de vente de véhicules de plaisance. M. Carpino a fourni les fonds pour cette entreprise, laquelle était exploitée par une personne morale dont il était l’unique actionnaire. Il a déclaré dans son témoignage que son partenaire commercial s’était servi de l’entreprise pour s’enrichir au détriment de M. Carpino, en vendant des véhicules de plaisance aux États-Unis et en s’en appropriant les bénéfices.
+[17] M. Carpino soutient que la source de tous les dépôts en cause correspond aux dons en espèces d’un total de 70 000 $ que sa mère lui a offerts au cours des 18 dernières années de sa vie.
+[18] M. Carpino a présenté une déclaration du patrimoine familial net figurant dans un mémoire fourni par son ancienne épouse à la fin de l’année 2009, dans laquelle il est indiqué que les économies de M. Carpino comprenaient 70 000 $ en espèces [4] . Il a cité une autre partie du mémoire pour appuyer sa prétention selon laquelle son ancienne épouse avait photographié les 70 000 $ en espèces au domicile matrimonial plus tôt cette même année [5] .
+[19] À différents moments de son témoignage et dans ses communications avec l’Agence du revenu du Canada (l’Agence), M. Carpino a fourni des explications diverses concernant le fait d’avoir conservé 70 000 $ en espèces à son domicile. Voici ces explications :
+[TRADUCTION]
+disposer de fonds suffisants à portée de main pour partir en vacances avec sa seconde épouse [6] ;
+conserver de l’argent pour son ancienne épouse, au cas où la Cour supérieure de l’Ontario lui aurait ordonné de verser à celle-ci la moitié des 70 000 $ en espèces;
+conserver 70 000 $ hors de portée de son ancienne épouse.
+[20] Dans son témoignage, M. Carpino a déclaré avoir commencé à déposer cette somme sur ses comptes bancaires personnels à la banque Toronto-Dominion (TD ) et à la Banque Royale du Canada (RBC) une fois que son divorce a été réglé à la fin de l’année 2012, la Cour supérieure de justice de l’Ontario ne lui ayant pas ordonné de donner à son ancienne épouse la moitié des 70 000 $ en espèces.
+Contre-interrogatoire
+[21] Lors du contre-interrogatoire, M. Carpino a été invité à lire une copie de la lettre qu’il avait envoyée au vérificateur de l’Agence au cours de la vérification. À la lecture de cette lettre, M. Carpino a admis que l’un des dépôts inexpliqués en 2014 pouvait découler du produit d’une vente-débarras qu’il avait effectuée cette année-là [7] . M. Carpino avait écrit [traduction] « argent de la vente-débarras » à côté d’une entrée dans un document joint à la lettre – les 2 500 $ déposés le 15 mai 2014 [8] .
+[22] Après examen des documents joints à la lettre, il est important de souligner que M. Carpino a inscrit la mention [traduction] « argent de la vente-débarras » pour trois des dépôts inexpliqués de 2013 (4 000 $ le 12 septembre, 2 900 $ le 16 septembre et 2 000 $ le 1er octobre) [9] .
+[23] Lorsque l’avocate du ministre lui a demandé ce qu’il avait réellement vendu lors de ses ventes-débarras, M. Carpino a déclaré qu’il s’agissait exclusivement de meubles anciens, tel qu’un canapé, et d’autres biens d’ameublement provenant de son domicile, tels que des lampes à huile, entre autres.
+[24] M. Carpino a ensuite été invité à lire une copie d’une lettre qu’il avait envoyée au vérificateur de l’Agence, dans laquelle il déclarait avoir acheté des articles pour plus de 1 000 $ dans un magasin « Liquidation World » et d’autres articles pour plus de 1 100 $ dans un magasin « Goodwill » en 2013 et en 2014 pour les besoins de ses ventes-débarras. Une fois encore, le témoignage principal de M. Carpino s’est avéré inexact ou incomplet.
+Discussion
+[25] Dans son argumentation, l’avocate du ministre, Mme Bergeron, a décrit certains points clés du témoignage de M. Carpino comme étant [traduction] « peu plausibles ». Je souscris à la description de Mme Bergeron relativement au témoignage de M. Carpino.
+[26] Selon les éléments de preuve dans leur ensemble, je conclus que le témoignage de M. Carpino n’est ni crédible ni fiable. Plusieurs points clés de son témoignage manquent d’éléments essentiels, sont peu logiques, voire insensés, ou sont contradictoires.
+a) Si M. Carpino avait reçu au moins 1 000 $ de dons en espèces chaque mois de la part de sa mère pendant 18 ans, le total des dons en espèces se serait élevé à au moins 216 000 $, et non à 70 000 $. Il n’a fourni aucune explication concernant cette contradiction.
+b) M. Carpino n’a présenté aucun relevé des diverses sommes d’argent qu’il a soustraites à la liasse de 70 000 $ au cours des années 2013 et 2014, afin de les déposer sur ses comptes bancaires personnels.
+c) Il n’a présenté aucun relevé des dépôts bancaires d’un total de 70 000 $ entre 2013 et 2014. Il n’a établi de lien entre la somme totale des dons allégués et la somme totale des dépôts sur ses comptes bancaires personnels entre 2013 et 2014.
+d) Les explications diverses de M. Carpino concernant les motifs pour lesquels il a conservé 70 000 $ à son domicile sont illogiques. Pourquoi conserver cette somme à son domicile, alors qu’elle ne produit pas d’intérêts et se retrouve exposée aux vols, aux incendies et aux inondations? Il possédait déjà des comptes personnels à la TD et à la RBC. Pourquoi ne pas déposer les espèces en toute sécurité dans l’une de ces institutions financières et gagner des intérêts?
+e) Pourquoi M. Carpino aurait-il utilisé une ligne de crédit hypothécaire pour payer ses dépenses personnelles, engageant par la même occasion des frais importants et non déductibles sous la forme d’intérêts, s’il disposait de 70 000 $ en espèces à son domicile?
+f) Les explications de M. Carpino concernant les motifs pour lesquels il a conservé 70 000 $ à son domicile ont varié tout au long de son témoignage. Selon sa première explication, il préparait le paiement de vacances prévues avec sa seconde épouse. À première vue, cette explication n’est pas très logique. Peu de vacances, outre les plus extravagantes, coûteraient près de 70 000 $.
+g) Les craintes de M. Carpino à l’égard d’une ordonnance de la Cour supérieure de justice de l’Ontario lui enjoignant de verser la moitié des 70 000 $ en espèces à son ancienne épouse sont elles aussi illogiques.
+h) Aux termes de l’ordonnance de la Cour supérieure de justice de l’Ontario, M. Carpino était tenu de verser 90 000 $ à titre de paiement d’égalisation en espèces, au plus tard le 14 décembre 2012 [10] . Si M. Carpino disposait de 70 000 $ en espèces à son domicile, pourquoi ne se serait-il pas servi de cet argent pour payer la majeure partie de ce qu’il devait, au lieu d’emprunter 90 000 $ à la banque au moyen de sa ligne de crédit hypothécaire [11] ?
+i) Les explications de M. Carpino concernant la source des dépôts inexpliqués ont varié entre l’interrogatoire principal et le contre-interrogatoire. Dans un premier temps, il a déclaré, lors de l’interrogatoire principal, que tous les dépôts inexpliqués provenaient des dons de 70 000 $. Lors du contre-interrogatoire, il a toutefois admis avoir organisé une vente-débarras en 2014 et qu’il était possible que l’un des dépôts inexpliqués ait découlé de cette vente. La lettre qu’il a lui-même envoyée à l’Agence fait état du fait qu’il a organisé des ventes-débarras en 2013, dont les produits correspondent précisément à trois des dépôts inexpliqués pour cette année-là [12] .
+j) Dans son témoignage, M. Carpino a déclaré que son ancienne épouse avait photographié les 70 000 $ en espèces. Il n’a ni présenté cette photographie ni appelé son ancienne épouse à témoigner. Dans tous les cas, il est difficile de concevoir ce qu’une telle photographie illustrerait. Y verrions-nous l’intérieur d’un congélateur dont les étagères débordent de liasses de billets de 100 $? Il est regrettable que l’auteure de la photographie n’ait pas été présente dans la salle d’audience pour répondre aux questions concernant la photo alléguée des 70 000 $ en espèces.
+[27] Dans la décision Bachmann c. La Reine [13] , la juge Woods, en sa qualité de membre de notre Cour, a conclu que le témoignage des appelants était, à première vue, « tiré par les cheveux et [allait] à l’encontre du bon sens » [14] . C’est aussi une description juste des éléments de preuve de M. Carpino.
+Droit applicable
+[28] Le ministre peut conclure que la déclaration de revenu d’un contribuable pour une année d’imposition donnée ne correspond pas précisément au revenu du contribuable tiré de toutes sources pour l’année. Dans ce cas, il peut notamment effectuer une analyse des dépôts bancaires afin de vérifier le revenu du contribuable tiré de toutes les sources pour l’année. Cette analyse est réalisée en application du paragraphe 152(7) de la Loi :
+Cotisation indépendante de la déclaration ou des renseignements fournis
+152(7) Le ministre n’est pas lié par les déclarations ou renseignements fournis par un contribuable ou de sa part et, lors de l’établissement d’une cotisation, il peut, indépendamment de la déclaration ou des renseignements ainsi fournis ou de l’absence de déclaration, fixer l’impôt à payer en vertu de la présente partie.
+[29] En l’espèce, le ministre a procédé à une analyse des dépôts bancaires afin de vérifier si tous les dépôts inexpliqués effectués en 2013 et en 2014, ou une partie de ceux-ci, constituaient des revenus non déclarés pour ces années. Le juge Graham a décrit la procédure de manière adéquate dans la décision Bonhomme c. La Reine [15] :
+5. […] L’analyse des dépôts bancaires est une autre méthode visant à déterminer un revenu parfois utilisée par le ministre lorsqu’il considère que les dossiers d’un contribuable ne constituent pas une méthode adéquate pour vérifier son revenu. L’analyse des dépôts bancaires consiste généralement à examiner chacun des dépôts effectués par un contribuable sur son compte bancaire au-delà d’un certain montant. Le ministre demande au contribuable d’expliquer la source de chacun de ces dépôts. Étant donné que le contribuable ne peut pas expliquer la source, qu’il fournit une explication que le ministre juge inacceptable ou admet que la source est imposable et n’a pas été déclarée, le ministre inclut le dépôt dans les revenus du contribuable. Si le contribuable parvient à démontrer, à la satisfaction du ministre, qu’un dépôt donné provient d’une source non imposable ou a déjà été déclaré dans le revenu du contribuable, le ministre ne tient pas compte du dépôt.
+Conclusion
+[30] Il est peu probable qu’un contribuable ayant les moyens d’effectuer un paiement d’égalisation de 425 000 $ entre 2012 et 2014 ait gagné moins de 11 000 $ en 2013 et moins de 25 000 $ en 2014.
+[31] À cet égard, il convient de rappeler pourquoi M. Carpino a omis de verser 50 000 $ du paiement d’égalisation qu’il devait à son ancienne épouse. Il s’en est abstenu, non pas parce qu’il se trouvait dans l’impossibilité de payer cette somme, mais parce qu’il estimait que son ancienne épouse ne méritait pas de la recevoir.
+[32] Pour tous les motifs énoncés précédemment, M. Carpino n’a pas été en mesure de prouver, selon la prépondérance des probabilités, que les dépôts inexpliqués en 2013 et en 2014 provenaient d’un don de 70 000 $ fait par sa mère. Par conséquent, ses appels à l’encontre des nouvelles cotisations pour les années d’imposition 2013 et 2014 sont rejetés, sans dépens.
+Signé à Toronto (Ontario), ce 24e jour d’août 2020.
+« David E. Spiro »
+Le juge Spiro
+RÉFÉRENCE :
+2020 CCI 88
+Nº DU DOSSIER DE LA COUR :
+2018-3753(IT)I
+INTITULÉ :
+JOHN C. CARPINO c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 17 août 2020
+MOTIFS DU JUGEMENT :
+L’honorable juge David E. Spiro
+DATE DU JUGEMENT :
+Le 24 août 2020
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Natanz Bergeron
+AVOCATE INSCRITE AU DOSSIER :
+Pour l’appelant :
+Nom :
+S.O.
+Cabinet :
+S.O.
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Pièce R-1, à la page 14 et pièce R-2, à la page 45.
+[2] Pièce R-4, au paragraphe 17 de la page 4.
+[3] M. Carpino a expliqué que son ancienne épouse ne méritait pas de recevoir le paiement de 50 000 $, car elle avait versé une partie ou l’intégralité de ses revenus à ses parents pendant leur mariage.
+[4] Pièce A-1, page 2.
+[5] Pièce A-1, page 3.
+[6] C’est la seule explication que M. Carpino a fournie pour avoir conservé 70 000 $ à son domicile lorsqu’il a écrit au vérificateur de l’Agence (au 5e paragraphe d’une lettre envoyée par M. Carpino au vérificateur de l’Agence, datée du 6 septembre 2016, page 116 de la pièce R-3).
+[7] Pièce R-3, document joint à la lettre envoyée au vérificateur de l’Agence, datée du 6 septembre 2016, à la page 118.
+[8] Voir le paragraphe 3 qui précède.
+[9] Ces montants d’argent sont indiqués au paragraphe 3 qui précède. Voir la pièce R-3, document joint à la lettre envoyée au vérificateur de l’Agence, datée du 6 septembre 2016, à la page 117.
+[10] Pièce R-4, sous-paragraphe 18b) de la page 4, reproduit au paragraphe 13 qui précède.
+[11] Voir la pièce R-5 à la page 185 pour prendre connaissance des éléments de preuve concernant l’emprunt de 90 000 $.
+[12] Au paragraphe 10 de son avis d’appel, M. Carpino a indiqué que la vente-débarras de 2014 était la [traduction] « première vente-débarras [qu’il ait] jamais organisée », ce qui, de son propre aveu, était inexact.
+[13] Décision Bachmann c La Reine, 2015 CCI 51.
+[14] Décision Bachmann, précitée, note 13, au paragraphe 27.
+[15] Décision Bonhomme c. La Reine, 2016 CCI 152.

@@ -1,0 +1,182 @@
+---
+title: "Chow c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30352/index.do"
+last_modified: "2011-04-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 263"
+citation2: ""
+neutral_citation: "2011 CCI 263"
+decision_date: "2011-04-13"
+language: "fr"
+item_id: "30352"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7963
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:56:53.589000+00:00"
+cases_cited_count: 3
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "72f0dfad8089ff9108ca84b71f6f3769f02a7c64e006dbbac947649481637840"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Chow c. La Reine
+
+- Citation: 2011 CCI 263
+- Decision date: 2011-04-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7963, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chow c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-04-13
+Référence neutre
+2011 CCI 263
+Numéro de dossier
+2008-328(IT)G
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2011CCI263
+Date : 20110512
+Dossier : 2008-328(IT)G
+ENTRE :
+BILL CHOW,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience le 13 avril 2011, à Toronto (Ontario).)
+La juge V.A. Miller
+[1] L’appelant a porté en appel les nouvelles cotisations datées du 18 mai 2006 pour les années 2001, 2002 et 2003 et la nouvelle cotisation datée du 18 octobre 2007 pour l’année 2004. Le ministre du Revenu national (le « ministre ») a établi une nouvelle cotisation fondée sur la valeur nette. Les sommes de 22 043,72 $, 23 131,07 $, 55 233,38 $ et 31 395,34 $ ont été ajoutées aux revenus de l’appelant pour les années 2001, 2002, 2003 et 2004 respectivement. Les pénalités prévues au paragraphe 163(2) ont également été examinées.
+[2] L’appelant a produit sa déclaration de revenus pour l’année d’imposition 2001 dans les délais. En août 2004, il a été arrêté pour des infractions en matière de stupéfiants et, le 30 août 2004, on a exigé qu’il établisse des relevés de la valeur nette pour les années 2001, 2002, 2003 et 2004. À cet égard, l’appelant a retenu les services de John Klein, CGA, son comptable depuis 1997. L’appelant a produit sa déclaration de revenus pour les années 2002 et 2003 en octobre 2004 et sa déclaration de revenus pour l’année 2004 en septembre 2005.
+[3] L’appelant a fait état des revenus nets suivants dans ses déclarations de revenus :
+Année
+2001
+2002
+2003
+2004
+Revenu net
+34 197,60 $
+18 204,93 $
+43 842,34 $
+38 374,42 $
+Thèse de l’appelant
+[4] L’appelant soutient que tous ses revenus ont été déclarés dans les années en question et que M. Klein a fait plusieurs erreurs dans les relevés de valeur nette soumis à l’Agence du revenu du Canada (l’« ARC »). En particulier, l’avocat de l’appelant a dit que le montant d’argent dans les calculs de la valeur nette comprenait les montants indiqués sous les actifs dans les comptes bancaires. Par conséquent, les montants de 2 490 $, 4 390 $, 6 160 $, 49 725 $ et 32 974 $ en 2000, 2001, 2002, 2003 et 2004 respectivement figuraient en double dans les relevés de la valeur nette. L’appelant a également soutenu que le montant de 109 600 $ saisi par la police en 2004 correspondait aux économies qu’il avait faites au fil des ans. En 2004, un montant de 25 000 $ figurait en double dans les revenus de l’appelant. L’appelant a également contesté bon nombre des montants énoncés dans l’annexe portant sur les dépenses personnelles des relevés de la valeur nette.
+[5] L’avocat de l’intimée a convenu avec l’appelant qu’en 2004, l’actif désigné « intérêts commerciaux » a été énuméré deux fois dans les relevés de la valeur nette. Par conséquent, l’appel sera accueilli et le montant de 25 000 $ sera supprimé des « dépenses personnelles » en 2004.
+Faits
+[6] L’appelant est né et a grandi à Hamilton, en Ontario.
+[7] En 1989, il a obtenu son permis d’agent immobilier et a commencé à se livrer à cette activité. En 1994, il a commencé à se spécialiser dans l’immobilier commercial, particulièrement dans la location, et il est aujourd’hui courtier. Il a consacré beaucoup d’énergie à la création de son entreprise et a suivi des cours pour mettre à jour ses connaissances. D’après le témoignage de l’appelant, je déduis qu’il est un homme d’affaires averti.
+[8] En 2003, l’appelant a quitté Royal Lepage et est entré au service de The Effort Trust Co. En 2004, ils est mis à son compte.
+[9] En 2001, l’appelant a commencé à consommer de la cocaïne et il en est devenu dépendant en 2003. Il a continué à consommer de la drogue jusqu’à son arrestation en août 2004. Il a été accusé de huit chefs de possession de drogues en vue d’en faire le trafic, de possession de produits de la criminalité et de trafic. Le service de police de Hamilton a saisi la cocaïne, la marijuana, un ensemble de balances et 3 600 $ en argent comptant qui se trouvaient dans la voiture de l’appelant. Les policiers ont perquisitionné sa maison familiale et ont trouvé d’autres drogues ainsi que 106 000 $ en espèces. La police de Hamilton a évalué les drogues saisies à 44 303 $.
+[10] Le 5 juin 2006, l’appelant a plaidé coupable de trafic de cocaïne et de marijuana et de possession de produits de la criminalité. Il a été condamné à 30 mois dans un pénitencier fédéral, mais a purgé une peine de six mois.
+[11] Madame Duk-Yown Chow, la mère de l’appelant, a témoigné pour son fils. Elle a signalé que, lorsque son mari est décédé en 1993, elle a échangé sa Cadillac, a acheté une Chevrolet Corsica pour l’appelant et a reçu 10 000,19 $ en espèces. Elle a affirmé qu’en 1993 et en 1994, elle a donné 25 000 $ à l’appelant. Il a conservé cette somme avec ses économies dans une valise dans sa chambre.
+[12] L’appelant a affirmé qu’il a toujours vécu à la maison avec sa famille. Il a commencé à travailler comme camelot à l’âge de 12 ans. À 15 ans, il est entré au service du restaurant familial, et il produit des déclarations de revenus depuis qu’il a 16 ans. Lorsqu’il était au service de sa famille, il était rémunéré en espèces et il conservait cet argent à la maison. Lorsqu’il s’est lancé dans l’immobilier, il encaissait souvent ses chèques et conservait son argent à la maison. Il n’a jamais détenu d’actions ou de REER. La somme de 106 000 $ qui a été saisie dans sa chambre constituait ses économies personnelles qu’il avait faites au fil des ans.
+[13] Dans son témoignage, l’appelant a signalé que durant les premières années, il économisait de 5 000 $ à 10 000 $ par année. En 2003 et en 2004, il a économisé 20 000 $ chaque année. Il conservait cet argent dans sa chambre en liasses de 5 000 $. Il ne l’a jamais dépensé. À un autre moment dans son témoignage, l’appelant a affirmé qu’en 2003, lorsqu’avait atteint des sommets sa consommation de drogues, il a commencé à conserver son argent à la banque.
+[14] S’agissant des relevés de la valeur nette préparés par son comptable John Klein, l’appelant a indiqué que les chiffres qui y figuraient n’étaient pas exacts. Or, le 1er septembre 2005, il a signé lesdits relevés certifiant que les renseignements y figurant représentaient véritablement et entièrement ses revenus, ses dettes et ses frais de subsistance. En 2006, il est devenu [traduction] « mal à l’aise » avec son comptable et a retenu les services d’un avocat‑fiscaliste et d’un comptable judiciaire qui l’ont tous deux avisé que les relevés de la valeur nette préparés par M. Klein étaient inexacts.
+[15] L’appelant a affirmé qu’il n’a jamais utilisé de cartes de crédit à moins de devoir faire une dépense pour son entreprise. Toutefois, en mai 2004, il a utilisé sa carte de crédit pour finaliser l’achat de sa BMW.
+[16] En ce qui concerne sa consommation de drogues, l’appelant a indiqué qu’il a commencé à fumer de la marijuana à la fin des années 1990. En 2001, il a commencé à consommer de la cocaïne. Au départ, ses amis lui fournissaient de la drogue gratuitement. En 2002, il a commencé à acheter de la drogue avec ses propres fonds. Il consommait beaucoup de drogues. En 2003, il a commencé à vendre de la marijuana pour soutenir sa dépendance à la cocaïne. Toutefois, selon l’appelant, son revenu principal provenait toujours de l’immobilier. À l’heure actuelle, les souvenirs de l’appelant sont confus et il n’a consommé aucune drogue depuis son arrestation en 2004.
+Analyse et conclusion
+[17] La question de savoir si je retiens le témoignage de l’appelant concernant les calculs dans les annexes de la valeur nette repose sur les conclusions de crédibilité que je tirerai. En évaluant la crédibilité de l’appelant et de son témoin, je pourrai retenir leur témoignage en tout ou en partie ou pas du tout. Je peux retenir des parties de leur témoignage et en rejeter d’autres. Dans l’évaluation de la crédibilité, je peux tenir compte des incohérences ou des faiblesses dans les témoignages. Je peux prendre en compte la teneur générale de ceux-ci. C’est dire que j’ai toute la latitude pour rechercher si l’examen du témoignage à la lumière du sens commun donne à penser que les faits exposés sont impossibles ou hautement improbables[1].
+[18] Madame Chow a affirmé avoir donné 25 000 $ en espèces à son fils en 1993 ou en 1994. J’estime qu’il est improbable que l’appelant, si sa mère lui avait effectivement donné cet argent en 1993 et en 1994, l’aurait toujours en sa possession entre 2000 et 2004. Aucune preuve documentaire n’a été produite. Son témoignage est celui d’une mère qui essayait d’aider son fils.
+[19] L’appelant a témoigné que le « montant d’argent » figurant dans les annexes de la valeur nette était identique aux montants énumérés dans les comptes bancaires. Il n’a produit aucun document à l’appui de son observation. Il a affirmé que son ancien comptable a fait une erreur et qu’il lui a demandé de la corriger. J’estime que ce témoignage est douteux pour deux raisons. D’abord, l’appelant a signé les relevés de la valeur nette avant qu’ils ne soient présentés à l’ARC. Ensuite, l’appelant aurait pu assigner M. Klein à témoigner à l’audience, et je tire une conclusion défavorable du fait que M. Klein n’a pas été cité à comparaître.
+[20] Il ressort de l’onglet 17 de la pièce A-1 que l’appelant n’a pas uniquement fourni les renseignements figurant dans les annexes de la valeur nette, mais a également demandé à son comptable de les transmettre à son avocat‑fiscaliste, M. Paquette, pour qu’il [traduction] « fasse part de son avis sur les chiffres tels qu’ils étaient présentés ». Dans sa lettre adressée à M. Paquette, M. Klein a indiqué qu’il pouvait communiquer avec lui au besoin pour tout renseignement ou hypothèse supplémentaire. La Cour aurait pu disposer de ces renseignements et hypothèses supplémentaires si M. Klein avait été cité à comparaître. Je souligne que les calculs figurant dans les projets d’annexes envoyés à M. Paquette ont été modifiés.
+[21] Je ne peux retenir le témoignage de l’appelant s’il n’est pas corroboré par une preuve documentaire. Son témoignage était orienté. Je reconnais que l’appelant a vécu une période difficile dans sa vie. Or, il s’est lui‑même mis dans cette situation. Il s’en prend maintenant aux autres pour ses problèmes fiscaux. À l’audience du présent appel et lorsqu’il a parlé à Elaine Collingwood, l’agente des appels de l’ARC qui était chargée de son dossier à l’étape de l’objection, l’appelant s’est plaint de son comptable et l’a rendu responsable, lui et son avocat, de ses problèmes fiscaux. Dans sa conversation avec Elaine Collingwood, il a affirmé qu’il ne pouvait obtenir de renseignements de son comptable avant de lui payer ses honoraires. J’estime que l’appelant ne peut s’en prendre, pour ses problèmes fiscaux, qu’à lui‑même.
+[22] L’appelant voudrait me faire croire qu’il avait 106 000 $ en espèces dans sa chambre et que cette somme représentait des économies auxquelles il n’a jamais touché. Pourtant, il a commencé à se livrer au trafic de la marijuana et de la cocaïne pour [traduction] « assouvir sa dépendance à la cocaïne ». Franchement, j’estime que ce témoignage est invraisemblable. On lui a confisqué cet argent parce qu’il constituait un produit de la criminalité et j’estime que cet argent constituait effectivement un produit de la criminalité.
+[23] Toutefois, l’avocat de l’appelant a démontré, au moyen de documents présentés à la Cour, que les ajustements suivants devraient être apportés dans les annexes de la valeur nette :
+a) Le « prêt exigible » sous la rubrique « Dettes personnelles » était de 0 $, 14 561,31 $, 12 243,17 $ et 9 633,67 $ en 2000, 2001, 2002 et 2003 respectivement.
+b) Le solde de la carte de crédit en 2004 était de 7 875,36 $.
+c) La prime d’assurance‑vie de 163,54 $ en 2004 doit être supprimée. Elle n’apparaît nulle part ailleurs dans les dépenses personnelles.
+d) Les dépenses personnelles pour le transport étaient de 1 371,59 $, 1 822,71 $, 741,06 $ et 1 286,04 $ en 2001, 2002, 2003 et 2004.
+[24] L’avocat de l’appelant a allégué que M. Chow doit bénéficier d’un crédit pour les 109 600 $ qui ont été saisis lors de son arrestation. Il s’est fondé sur la jurisprudence 65302 British Columbia Ltd. c. R.[2] laquelle enseignerait que l’ordre public n’interdit pas la déduction du montant saisi au profit de Sa Majesté.
+[25] Dans l’arrêt 65302 British Columbia Ltd. c. R., le juge Iacobucci a déclaré ce qui suit au paragraphe 69 :
+Finalement, au par. 17, mon collègue fait observer que les amendes pénales ne sont pas, au sens juridique du terme, engagées en vue de tirer un revenu. Il est vrai que l’al. 18(1)a) permet expressément la déduction de dépenses engagées en vue de tirer un revenu de l’entreprise. Cependant, il est tout aussi vrai que si le contribuable ne peut démontrer que l’amende a en fait été encourue en vue de tirer un revenu, l’amende ou la pénalité ne peut alors être déduite et l’analyse s’arrête là.
+[26] L’alinéa 18(1)a) de la Loi de l’impôt sur le revenu (la « Loi ») énonce comme suit les restrictions qui s’appliquent aux déductions qui peuvent être faites du revenu d’une entreprise :
+Exceptions d’ordre général
+18. (1) Dans le calcul du revenu du contribuable tiré d’une entreprise ou d’un bien, les éléments suivants ne sont pas déductibles :
+Restriction générale
+a) les dépenses, sauf dans la mesure où elles ont été engagées ou effectuées par le contribuable en vue de tirer un revenu de l’entreprise ou du bien; […]
+[27] La confiscation de la somme de 109 600 $ par la police n’a pas permis à l’appelant de tirer un revenu de son entreprise. Comme je l’ai dit au paragraphe 6 de la décision Anjaria c. R.[3] :
+Premièrement, la confiscation du produit des activités criminelles n’était pas une dépense engagée par l’appelant. Le produit des activités criminelles était le bénéfice ou le revenu net gagné par l’appelant. La confiscation ne visait pas à permettre à l’appelant de gagner un revenu d’entreprise et n’aidait pas l’appelant à générer un revenu de son entreprise de vente de drogues. Le juge Angers a récemment statué sur l’appel Brizzi v. R., [2007] 4 C.T.C. 2334 (C.C.I. [procédure informelle]), dans lequel les faits étaient fort semblables à ceux qui sont ici en cause. Je souscris à la décision du juge Angers, et plus particulièrement au paragraphe 7, lorsqu’il a déclaré ce qui suit :
+[…] Selon moi, la perte subie du fait de la confiscation est une conséquence de l’exploitation d’une entreprise illégale et donc certainement pas une dépense ayant facilité ou généré la production d’un revenu.
+[28] Je suis également d’avis que l’article 67.6 de la Loi interdit la déduction du montant confisqué. L’article 67.6 de la Loi dispose :
+Non-déductibilité des amendes et pénalités
+67.6 Aucune déduction ne peut être faite dans le calcul du revenu au titre de toute amende ou pénalité (sauf celles visées par règlement) imposée sous le régime des lois d’un pays, ou d’une de ses subdivisions politiques – notamment un État, une province ou un territoire – par toute personne ou tout organisme public qui est autorisé à imposer pareille amende ou pénalité.
+[29] Cette disposition vise les amendes et pénalités imposées après le 22 mars 2004. Selon ce texte, aucune déduction ne peut être faite à l’égard de tout montant constituant une peine ou une pénalité, sauf quelques exceptions. La confiscation du produit de la criminalité est une pénalité pour des activités illégales.
+Pénalités prévues par le paragraphe 163(2)
+[30] Le paragraphe 163(2) de la Loi dispose notamment :
+Faux énoncés ou omissions
+(2) Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d’imposition pour l’application de la présente loi, ou y participe, y consent ou y acquiesce est passible d’une pénalité […]
+[31] Durant les années visées en l’espèce, l’appelant a fait appel à un comptable pour préparer ses déclarations de revenus. L’appelant a vérifié les renseignements qu’il a donnés à son comptable. Le présent appel soulève une question nouvelle en ce que l’appelant, sous les conseils de son comptable et de son avocat‑fiscaliste de l’époque, a préparé les annexes de la valeur nette. L’appelant a signé ces annexes, lesquelles indiquaient qu’il n’avait pas déclaré suffisamment de revenus pour chaque année.
+[32] L’appelant a affirmé qu’il a obtenu l’aide de professionnels pour préparer les annexes de la valeur nette et ses déclarations de revenus. Lorsqu’il les a signées, il ne faisait que suivre leurs instructions.
+[33] Dans la décision Venne c. R.[4], le juge Strayer a formulé les observations suivantes concernant la signification des mots « faute lourde » du paragraphe 163(2) de la Loi :
+[…] La « faute lourde » doit être interprétée comme un cas de négligence plus grave qu’un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la Loi.
+[34] Si je tiens compte de l’ensemble des éléments de preuve et des montants qui seront accordés dans le présent appel, je remarque que d’importants revenus n’ont pas été déclarés en 2001, 2002 et 2003. L’appelant est un homme d’affaires prospère. Durant les années visées en l’espèce, il n’avait que deux sources de revenus et il a pourtant choisi de ne déclarer que son revenu à titre d’agent immobilier. Il ne peut maintenant reprocher à son comptable d’avoir échoué dans sa tentative d’éviter des pénalités attribuables à une faute lourde. Comme le juge Rip l’a indiqué dans la décision DeCock c. Ministre du Revenu national[5] :
+Certes, si nous acceptons la déposition de l’appelant, son comptable a été d’une négligence extrême. Mais un contribuable, en particulier un homme d’affaires qui sait d’où proviennent ses revenus, ne saurait s’exonérer de toute responsabilité en confiant ses affaires fiscales à un professionnel et s’en remettre à lui aveuglément, sans hésitation et même, comme en l’espèce, sans manifester le moindre intérêt.
+[35] En l’espèce, je ne saurais retenir le témoignage de l’appelant selon lequel son comptable a été extrêmement négligent ou même négligent. Le comptable a utilisé les renseignements que l’appelant lui a fournis pour préparer ses déclarations de revenus. Comme je l’ai déjà dit, j’ai tiré une conclusion défavorable du fait que le comptable n’a pas été cité à témoigner comme témoin. Je conclus que le défaut de l’appelant de déclarer tous ses revenus en 2001, 2002 et 2003 était attribuable à une action délibérée et à une fausse représentation[6]. Il a délibérément dissimulé sa source de revenus provenant de ses activités illégales. Les pénalités sont confirmées pour les années 2001, 2002 et 2003. Si je tiens compte des concessions faites par l’intimée et des montants que j’ai accordés, je remarque qu’il n’y a aucun revenu non déclaré en 2004. Par conséquent, les pénalités à l’égard de cette année seront supprimées.
+[36] En conclusion, l’appel est accueilli comme suit :
+a) Dans la rubrique « Sommaire des dépenses personnelles », le montant de 25 000 $ sera déduit du total pour l’année 2004.
+b) Les montants énumérés à titre de « prêt exigible » sous la rubrique « Dettes personnelles » seront modifiés à 0 $, 14 $, 561,31 $, 12 243,17 $ et 9 633,67 $ en 2000, 2001, 2002 et 2003 respectivement.
+c) Le solde de la carte de crédit en 2004 est de 7 875,36 $.
+d) La prime d’assurance-vie de 163,54 $ en 2004 sera supprimée des dépenses personnelles.
+e) Les dépenses personnelles pour le transport sont de 1 371,59 $, 1 822,71 $, 741,06 $ et 1 286,04 $ en 2001, 2002, 2003 et 2004.
+[37] Les pénalités prévues au paragraphe 163(2) sont supprimées pour l’année 2004. À tous autres égards, l’appel est rejeté.
+[38] Aucuns dépens ne sont adjugés.
+Signé à Ottawa, Canada, ce 12e jour de mai 2011.
+« V.A. Miller »
+Juge Miller
+Traduction certifiée conforme
+Ce 11e jour d’août 2011.
+François Brunet, réviseur
+RÉFÉRENCE : 2011CCI263
+No DU DOSSIER DE LA COUR : 2008-328(IT)G
+INTITULÉ : BILL CHOW ET
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Les 11, 12 et 13 avril 2011
+MOTIFS DU JUGEMENT : L’honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 9 mai 2011
+DATE DES MOTIFS DU
+JUGEMENT : Le 12 mai 2011
+Comparutions :
+Avocat de l’appelant :
+Me Y. David Payne
+Avocat de l’intimée :
+Me Laurent Bartleman
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Y. David Payne
+Cabinet : Payne Law
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Nichols c. R., 2009 CCI 334, paragraphes 22 et 23
+[2] [1999] 3 R.C.S. 804
+[3] 2007 CCI 746
+[4] [1984] C.T.C. 223 (CF 1re inst.)
+[5] (1984) 84 D.T.C. 1523 (C.C.I.)
+[6] Dao c. R., 2010 CCI 84

@@ -1,0 +1,185 @@
+---
+title: "Leclair c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30525/index.do"
+last_modified: "2011-09-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 323"
+citation2: ""
+neutral_citation: "2011 CCI 323"
+decision_date: "2011-09-30"
+language: "fr"
+item_id: "30525"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7328
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:35:04.412000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5e2ad12e1e40cac6a7f533f87d7332017e6ced052e6176f163d0d81e2253facf"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Leclair c. La Reine
+
+- Citation: 2011 CCI 323
+- Decision date: 2011-09-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7328, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Leclair c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-09-30
+Référence neutre
+2011 CCI 323
+Numéro de dossier
+2010-482(IT)G
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-482(IT)G
+ENTRE :
+MICHELLE LECLAIR,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu le 14 juin 2011, à Saskatoon (Saskatchewan).
+Devant : L'honorable juge François Angers
+Comparutions :
+Avocat de l'appelante :
+Me Peter V. Abrametz
+Avocate de l'intimée :
+Me Ainslie Schroeder
+________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation établie en application du paragraphe 160(1) de la Loi de l'impôt sur le revenu est accueilli avec dépens, conformément aux motifs du jugement ci‑joints.
+Signé ce 30e jour de septembre 2011.
+« François Angers »
+Le juge Angers
+Traduction certifiée conforme
+ce 5e jour de décembre 2011.
+Yves Bellefeuille, réviseur
+Référence : 2011 CCI 323
+Date : 20110930
+Dossier : 2010-482(IT)G
+ENTRE :
+MICHELLE LECLAIR,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Michelle Leclair appelle d'une cotisation établie en vertu du paragraphe 160(1) de la Loi de l'impôt sur le revenu (la « Loi »). Le ministre a établi la cotisation en tenant pour acquis que le père de Mme Leclair, Philippe Joseph Lajeunesse, avait transféré sans contrepartie à l'appelante, sa fille, un immeuble (l'« immeuble ») qu'il possédait à Prince Albert, en Saskatchewan, alors qu'il devait de l'argent à l'Agence du revenu du Canada (l'« ARC »).
+[2] Le montant que M. Lajeunesse doit à l'ARC n'est pas contesté, ni le fait que ce montant excède le montant de la cotisation établie à l'égard de l'appelante, soit 53 000 $, au titre du paragraphe 160(1) de la Loi.
+[3] L'appelante est maintenant âgée de 23 ans. De 3 à 18 ans, elle a grandi et a vécu à l'immeuble en question. Elle a passé les cinq dernières années à Saskatoon et a fait un bref séjour à Prince Albert, en Saskatchewan. Depuis le 29 décembre 2010, elle demeure à Calgary pour ses études.
+[4] M. Lajeunesse était le propriétaire inscrit de l'immeuble. Le 29 juin 2006, il l'a fait transférer à l'appelante et a mentionné que l'adresse de celle‑ci était celle de l'immeuble, et ce, même si elle vivait à Saskatoon à ce moment‑là. M. Lajeunesse n'a jamais quitté les lieux et a continué d'habiter l'immeuble et de payer toutes les dépenses liées à l'habitation, à savoir les services publics, l'impôt foncier, les frais d'entretien et les réparations.
+[5] Au moment du transfert, l'appelante ne savait pas que son père devait de l'argent à l'ARC ni que le titre afférent à l'immeuble lui avait été transféré. Elle a seulement été mise au courant de la situation lorsqu'elle a visité son père en décembre 2008 et qu'on lui a montré une lettre qu'elle avait reçue de l'ARC à l'adresse de son père et qui renfermait l'avis de cotisation du 19 novembre 2008 visé par le présent appel.
+[6] Elle a consulté un avocat et, le 26 février 2009, elle a signé des autorisations de transfert ayant pour effet de transférer de nouveau l'immeuble à son père et donc de faire en sorte que le titre afférent à l'immeuble soit à son nom.
+[7] L'intimée reconnaît que l'appelante ne savait pas que son père lui avait transféré l'immeuble et qu'il l'avait fait sans son consentement. L'intimée reconnaît également que l'appelante a transféré de nouveau l'immeuble à son père dès qu'elle s'est rendu compte que l'immeuble lui avait été transféré.
+[8] La question est de savoir si, en vertu de l'article 160 de la Loi, l'appelante est tenue de payer la cotisation de 53 000 $ établie à l'égard du transfert de l'immeuble en sa faveur par son père.
+[9] Les conditions d'application du paragraphe 160(1) de la Loi sont les suivantes. Premièrement, l'auteur du transfert doit être tenu de payer des impôts en vertu de la Loi au moment du transfert. Cela n'est pas contesté en l'espèce, étant donné qu'il est admis que l'auteur du transfert devait à l'ARC un montant supérieur à la valeur de l'immeuble. Deuxièmement, il doit y avoir eu transfert de biens, directement ou indirectement, au moyen d'une fiducie ou de toute autre façon. Troisièmement, l'auteur du transfert et le bénéficiaire doivent avoir un lien de dépendance. Enfin, la juste valeur marchande des biens transférés doit excéder la juste valeur marchande de la contrepartie donnée par le bénéficiaire. Voici le texte intégral du paragraphe 160(1) :
+160(1) Lorsqu'une personne a, depuis le 1er mai 1951, transféré des biens, directement ou indirectement, au moyen d'une fiducie ou de toute autre façon à l'une des personnes suivantes :
+a) son époux ou conjoint de fait ou une personne devenue depuis son époux ou conjoint de fait,
+b) une personne qui était âgée de moins de 18 ans;
+c) une personne avec laquelle elle avait un lien de dépendance,
+les règles suivantes s'appliquent :
+d) le bénéficiaire et l'auteur du transfert sont solidairement responsables du paiement d'une partie de l'impôt de l'auteur du transfert en vertu de la présente partie pour chaque année d'imposition égale à l'excédent de l'impôt pour l'année sur ce que cet impôt aurait été sans l'application des articles 74.1 à 75.1 de la présente loi et de l'article 74 de la Loi de l'impôt sur le revenu, chapitre 148 des Statuts révisés du Canada de 1952, à l'égard de tout revenu tiré des biens ainsi transférés ou des biens y substitués ou à l'égard de tout gain tiré de la disposition de tels biens;
+e) le bénéficiaire et l'auteur du transfert sont solidairement responsables du paiement en vertu de la présente loi d'un montant égal au moins élevé des montants suivants :
+(i) l'excédent éventuel de la juste valeur marchande des biens au moment du transfert sur la juste valeur marchande à ce moment de la contrepartie donnée pour le bien,
+(ii) le total des montants dont chacun représente un montant que l'auteur du transfert doit payer en vertu de la présente loi au cours de l'année d'imposition dans laquelle les biens ont été transférés ou d'une année d'imposition antérieure ou pour une de ces années,
+aucune disposition du présent paragraphe n'est toutefois réputée limiter la responsabilité de l'auteur du transfert en vertu de quelque autre disposition de la présente loi.
+[10] L'appelante soutient que les cotisations établies en application de l'article 160 sont fondées sur les faits et que, comme l'auteur du transfert a transféré l'immeuble à l'appelante à son insu et sans son consentement, la cotisation est invalide. L'appelante soutient également que la responsabilité suivant l'article 160 ne s'applique pas étant donné que le transfert pouvait être annulé en tant que transfert frauduleux.
+[11] L'intimée fait valoir que l'application de l'article 160 n'est pas touchée par l'ignorance de l'appelante ou son absence de consentement à l'égard du transfert ou par son transfert de nouveau de l'immeuble à son père.
+[12] J'examinerai tout d'abord le second argument de l'appelante selon lequel la responsabilité suivant l'article 160 ne s'applique pas étant donné que le transfert pourrait être annulé en tant que transfert frauduleux. La disposition pertinente est l'article 3 de la loi de la Saskatchewan intitulée Fraudulent Preferences Act (Loi sur les préférences frauduleuses), soit le chapitre F‑21, R.S.S. 1978, qui est libellé ainsi :
+[TRADUCTION]
+Transferts consentis dans l'intention de frustrer les créanciers
+3. Sous réserve des articles 8, 9, 10 et 11, sont inopposables aux créanciers frustrés, lésés ou à qui le paiement de leurs créances a été remis à plus tard, les donations, transports, cessions ou transferts, les remises ou les paiements, soit d'objets, de biens meubles ou d'effets mobiliers, soit de lettres, d'obligations, de billets ou de valeurs, soit d'actions, de dividendes, de primes ou de gratifications d'une banque, compagnie ou personne morale, soit de tous autres biens meubles ou immeubles, effectués par une personne alors que celle‑ci est insolvable ou dans l'impossibilité de payer intégralement ses dettes ou qui se sait sur le point d'être insolvable, avec l'intention de frustrer, d'entraver, de léser ses créanciers, l'un quelconque ou plusieurs d'entre eux ou de remettre à plus tard le paiement de leurs créances.
+[13] On soutient que cette loi, qui est similaire à la Statute of Elizabeth et à d'autres lois, n'a pas pour effet d'annuler les transferts où l'auteur du transfert à préféré un créancier à un autre; elle a simplement pour effet de les rendre annulables (voir Winsor c. La Reine, no 88‑1113(IT), 16 août 1991, 91 D.T.C. 1170, et Bank of Montreal v. Bray (1997), 36 O.R. (3d) 99 (C.A. Ont.)). De plus, on soutient que la loi prévoit seulement que le transfert est inopposable à l'égard des créanciers et non qu'il est totalement nul. J'estime que cet argument n'est pas utile en l'espèce.
+[14] Il ne fait aucun doute que les mesures que le père de l'appelante a prises pour transférer la propriété de l'immeuble à l'appelante sans contrepartie doivent être considérées, à première vue, comme un don absolu en sa faveur. Cependant, un examen plus approfondi des faits soulève des doutes.
+[15] Pour savoir s'il y a bel et bien eu transfert de l'immeuble en faveur de l'appelante, il faut déterminer si toutes les conditions essentielles d'un don sont remplies. Selon le bulletin d'interprétation IT‑209R de l'ARC, une donation est généralement un transfert volontaire d'un bien sans contrepartie. Les seuls éléments requis pour qu'il y ait donation sont l'intention et la capacité pour le donateur de faire le don, la livraison complète au donataire et l'acceptation du don par le donataire. Dans la décision 2000‑0059963, l'ARC a reconnu l'effet qu'avait une renonciation valide : la partie faisant la renonciation est réputée ne jamais avoir reçu le produit de la disposition.
+[16] Le droit relatif aux dons a été examiné par le juge C. Miller dans la décision Benquesus c. La Reine, 2006 CCI 193. Il a mentionné ce qui suit aux paragraphes 7 et 8 au sujet de l'acceptation :
+7 Selon l'intimée, la preuve selon laquelle les enfants étaient « dans l'ensemble au courant » de la teneur des lettres de leur père à la fondation n'est pas suffisante pour constituer une acceptation. L'intimée ajoute qu'il n'y a pas eu acceptation concomitante par la fondation des arrangements présentés dans les lettres de M. Jacques Benquesus. Toutefois, le fait que la fondation ait inscrit le transfert des fonds à titre de prêts dans ses états financiers et qu'elle ait suivi les instructions des appelants, à savoir de conserver une partie des fonds à titre de don et de rembourser le reste aux appelants, donne certainement à penser que la fondation a accepté de façon précise les arrangements présentés dans les lettres de M. Jacques Benquesus. Cependant, c'est l'acceptation du don par les appelants qui est en cause. Le fait que les appelants « savaient que leur père avait fait les transferts à la fondation » et qu'ils « étaient dans l'ensemble au courant de la teneur des lettres », ainsi que la communication d'instructions à la fondation concernant les dons de bienfaisance et le remboursement de fonds, sont clairement le reflet d'une acceptation du don par les appelants. La norme de la preuve nécessaire pour conclure qu'il y a eu acceptation n'est pas particulièrement exigeante, comme l'indique le professeur Ziff dans son ouvrage intitulé Principles of Property Law, à la page 141 :
+[TRADUCTION]
+L'acceptation d'un don implique la compréhension de l'opération et une volonté de prendre le titre. Il s'agit là d'une exigence traitée avec peu de rigueur : en temps normal, l'acceptation est présumée exister. Le donataire peut contester cette présomption en rejetant son intérêt ou en y renonçant.
+8 De plus, le professeur Gillese dans son ouvrage intitulé Property Law indique ce qui suit :
+[TRADUCTION]
+Dans les cas où un don procure un avantage au donataire, les tribunaux présument généralement que le donataire accepte le don. Par conséquent, un don valide peut être fait à l'insu du donataire, mais le donataire a le droit de le refuser unilatéralement au moment où il en apprend l'existence.
+[17] Dans l'arrêt Biderman c. La Reine, no A‑535‑98, 4 février 2000, 2000 D.T.C. 6149, la Cour d'appel fédérale a examiné le droit sur les renonciations en ce qui a trait aux testaments et à l'article 160 de la Loi. Le juge Létourneau a formulé des commentaires détaillés à cet égard et il peut être utile de citer les passages pertinents :
+9 Deuxièmement, le juge de la Cour de l'impôt a conclu que M. Biderman n'avait pas véritablement renoncé au bien qui lui avait été légué par testament parce qu'il a continué de profiter de ce bien pendant près de trois ans en vivant lui‑même dans la maison avec ses trois enfants et parce qu'il a utilisé le bien pour négocier une entente avec Revenu Canada au sujet de sa dette.
+M. Biderman a‑t‑il validement renoncé à la maison familiale qui lui a été léguée par testament?
+10 Comme on l'a déjà mentionné, M. Biderman a signé deux renonciations, une avant le décès de son épouse et la deuxième près de trois ans après ce décès.
+11 Dans le contexte des testaments et des successions, la renonciation est l'acte par lequel une personne refuse d'accepter une succession qui lui est dévolue ou un intérêt qui lui est légué. Une telle renonciation peut être faite à n'importe quel moment avant que le bénéficiaire ne profite des biens [Note de bas de page 3 : Re Jung (1979), 99 D.L.R. (3d) 65, p. 70 (C.S. C.‑B.). Voir également Mellows, The Law of Succession, 5e éd., Butterworths, Londres, 1993, p. 420; Williams on Wills, The Law of Wills, vol. 1, Butterworths, Londres, 1995, p. 480.]. Cette renonciation ne requiert aucune forme particulière et elle peut même être attestée par la conduite de l'intéressé [Note de bas de page 4 : Id.].
+12 En l'espèce, la première renonciation informelle de M. Biderman en 1991 n'a, à mon avis, aucun effet légal et n'est d'aucune utilité pour lui. Dans ce cas, loin de différer du droit civil du Québec, la common law pose, comme condition de validité, que la renonciation soit faite après le décès du testateur, c'est‑à‑dire à un moment où le légataire est en droit d'hériter. Bien que le Code civil du Québec renferme une disposition précise interdisant expressément la renonciation concernant une succession qui n'est pas encore ouverte [Note de bas de page 5 : Voir l'art. 631. Voir également Germain Brière, Le nouveau droit des successions, 2e éd., Wilson et Lafleur Ltée, Montréal, 1997, p. 115.], la nature de la renonciation dans la common law et son effet rétroactif à la date du décès du défunt mène au même résultat. Dans la décision Bence v. Gilpin [Note de bas de page 6 : (1868) L.R. & Ex. 76.], citée dans Re McFaden [Note de bas de page 7 : [1937] O.W.N. 404 (H.C.O.).] et dans McLean & Kerr v. Hrab [Note de bas de page 8 : (1998), 75 O.T.C. 24 (Div. gén. de l'Ont.).], le juge en chef Kelly a déclaré :
+[TRADUCTION]
+Pour être valable, la renonciation doit être un acte par lequel une personne qui a droit à un bien provenant d'une succession y renonce immédiatement et avant de l'utiliser, ce qui équivaut en fait à dire : « Je ne serai pas le propriétaire de ce bien ».
+(Non souligné dans l'original)
+13 Il ne peut y avoir de droit à une succession tant que celle‑ci n'est pas ouverte puisqu'une donation testamentaire peut toujours être révoquée avant le décès. Une fois qu'elle est faite, la renonciation est rétroactive à la date du décès du défunt [Note de bas de page 9 : Re Jung (1979), 99 D.L.R. (3d) 65, p. 70 (C.S. C.‑B.). Voir également A. H. Oosterhoff on Wills and Succession, 4e éd., Carswell, Toronto, 1995, p. 492; Williams on Wills, The Law of Wills, vol. 1, Butterworths, London, 1995, p. 481.].
+14 Qui plus est, la conduite ultérieure de M. Biderman est totalement incompatible avec sa renonciation. Bien qu'il ait prétendu avoir renoncé à la fois à la donation et aux pouvoirs d'administration, il a commencé et continué d'agir ultérieurement comme l'exécuteur de la succession de son épouse. À ce titre, il a fait homologuer le testament le 15 mai 1992 [Note de bas de page 10 : Dossier d'appel, onglets 7 et 20, p. 134.]. En outre, il a signé, le 6 octobre 1994, l'acte translatif de propriété concernant la maison familiale [Note de bas de page 11 : Id., onglet 9.], de même que l'acte de transfert des actions et une déclaration de transmission de ces actions le 30 septembre 1994 [Note de bas de page 12 : Id., onglets 12 et 13.]
+[18] À la fin de sa décision, le juge Létourneau a fait les observations suivantes au sujet de l'article 160 de la Loi, des renonciations et de la jurisprudence pertinente :
+45 Toutefois, la situation est différente dans le cas d'une renonciation valide à une donation. La renonciation est rétroactive à la date du décès du défunt [Note de bas de page 34 : Re Jung, précité, notes 3, 65, p. 70 (C.S. C.‑B.); Mellows, précité, note 3, p. 420. Voir également la note 9.]. Comme il a été dit dans Sembaliuk et al. v. Sembaliuk [Note de bas de page 35 : (1984), 15 D.L.R. (4th) 303, pages 309 et 310 (C.A. Alb.).], la nature d'une renonciation valide fait en sorte que la donation n'est jamais acceptée :
+[TRADUCTION]
+En réalité, il n'y a pas de donataire d'une donation à laquelle on a renoncé. Le legs est caduc. Il peut aller aux créanciers ou à d'autres demandeurs, il peut aller à d'autres bénéficiaires, ou il peut aller au bénéficiaire du reliquat.
+46 Par conséquent, le bénéficiaire choisi n'est pas le propriétaire du bien donné en raison de la renonciation valide et il ne peut céder le legs auquel il a renoncé parce qu'il ne lui appartient pas. Autrement dit, [TRADUCTION] « une renonciation opère par voie d'annulation, et non par voie d'aliénation » [Note de bas de page 36 : Re Paradise Motor Co. Ltd., [1968] 2 All E.R. 625, p. 632 (C.A.).]. Cet énoncé du droit par la Cour d'appel britannique a été accepté par la Cour d'appel de l'Alberta dans l'affaire Sembaliuk et l'autorisation d'appel dans cette affaire a été refusée par la Cour suprême du Canada le 18 février 1985. Une renonciation n'implique pas une dévolution et une cession de bien. Par conséquent, lorsqu'il y a une renonciation valide, il n'y a, à mon avis, aucun transfert de bien, direct ou indirect, et l'alinéa 160(1)c) ne peut s'appliquer à la personne qui a fait cette renonciation.
+47 Si nous devions accepter la prétention de l'intimée, nous en arriverions à un résultat injuste, sinon absurde. Un débiteur fiscal ne pourrait signer une renonciation valide avant le décès de son conjoint. Il ne pourrait pas non plus en signer une après parce qu'il ne pourrait jamais renoncer à son droit d'hériter du bien. Ce droit qui correspond à la valeur nette du bien serait transféré et ce transfert tomberait sous le coup du paragraphe 160(1). Cette prétention aurait pour effet général de modifier radicalement la common law en présumant qu'une personne a acquis un droit dans une succession contre sa volonté, alors que les précédents jurisprudentiels indiquent clairement que [TRADUCTION] « la loi n'est pas assez absurde pour forcer un homme à accepter une succession contre sa volonté » [Note de bas de page 37 : Townson v. Tickell (1819), 3 B. & Ald. 31, 106 E.R. 575, aux pages 576 et 577 (C.B.R.); Bence v. Gilpin (1868), L.R. & Ex. 76, p. 82.]. Par conséquent, le bénéficiaire du reliquat en vertu du testament, dans les limites du paragraphe 160(1), devient responsable du paiement des impôts dus par le débiteur fiscal qui a renoncé à la donation.
+48 L'intimée s'appuie sur deux anciennes causes anglaises pour appuyer sa prétention que les appelants avaient un droit jusqu'au moment de la renonciation : Re Stratton's Deed of Disclaimer, Stratton and Others v. Inland Revenue Commissioners [Note de bas de page 38 : [1957] 2 All E.R. 594 (C.A.).] et Re Parsons, Parsons v. Attorney‑General [Note de bas de page 39 : [1942] All E.R. Annotated 496 (C.A.).]. En toute déférence, je ne crois pas que ces arrêts lui soient d'une grande utilité.
+49 L'affaire Parsons traitait de la question de savoir si l'époux [TRADUCTION] « était juridiquement apte à disposer » du legs au sens de l'alinéa 22(2)a) de la Finance Act, 1894, au cours de la période comprise entre le décès de la testatrice et la date de la renonciation par son époux. La Cour d'appel a dû interpréter les mots « juridiquement apte à disposer » qui, dans le contexte d'une disposition déterminative, devaient être interprétés, selon la Cour, dans leur sens large et courant. Par conséquent, elle a statué que le mari était juridiquement apte à disposer du legs par une renonciation. La Cour a expressément déclaré que l'interprétation de ces mots n'avait rien à voir avec le droit relatif à la renonciation des legs qui prévoit qu'une personne n'a aucun droit dans un legs auquel elle a renoncé et que la donation est nulle ab initio [Note de bas de page 40 : Id., p. 497. Voir également la Note de la rédaction, p. 496.].
+50 Dans Stratton's Deed of Disclaimer, la Cour d'appel s'est appuyée sur la décision rendue dans Re Parsons. Encore une fois, la Cour devait interpréter une disposition précise (le paragraphe 45(2) de la Finance Act, 1940) qui imputait au défunt, aux fins du paiement des droits de succession, une aliénation en faveur de la personne à l'avantage de laquelle le droit était éteint. Dans ce contexte particulier, la Cour a statué qu'une aliénation incluait une aliénation par renonciation parce qu'elle éteignait le droit de la personne qui avait signé la renonciation. La particularité du contexte est illustrée par cette déclaration du lord juge Jenkins, à la page 602 :
+[TRADUCTION]
+On pourrait dire, à tout le moins, qu'il est anormal qu'un avantage conféré par transfert soit passible de droits advenant le décès du testateur dans un délai de cinq ans, alors qu'un avantage tout à fait similaire conféré par voie de renonciation ne serait pas soumis à des droits au moment du décès de la personne qui a renoncé, quelle que soit la date à laquelle le décès puisse se produire après la date de la renonciation.
+51 Comme la Commission d'appel de l'impôt l'a fait remarquer dans Plaxton v. M.N.R. [Note de bas de page 41 : 60 D.T.C. 38, p. 41.], ces deux affaires traitaient d'un article d'une loi anglaise qui n'a aucune contrepartie dans les lois canadiennes correspondantes. Pour ce qui a trait à l'affaire Stratton's Deed of Disclaimer, la Cour d'appel de l'Alberta dans Sembaliuk, précité, a fait remarquer que la Cour d'appel britannique avait pris soin d'utiliser le terme « éteint » plutôt qu'un terme impliquant une cession ou un transfert.
+52 Je crois qu'il faudrait une disposition beaucoup plus précise et beaucoup plus claire que le paragraphe 160(1) actuel pour donner effet à la modification draconienne recherchée par l'intimée.
+[19] La Cour d'appel fédérale établit clairement que les donations testamentaires nulles ne tombent pas sous le coup de l'article 160 et que cette disposition ne modifie pas la common law. Rien dans l'article 160 n'indique que des règles différentes ou une modification possible de la common law s'appliquent à différents types de transferts; l'article doit être appliqué de la même façon aux donations entre vifs et aux donations testamentaires. Un transfert effectué au moyen d'une donation entre vifs doit être un transfert achevé et non pas un transfert nul; il n'est pas suffisant qu'une seule des parties ait eu l'intention de faire le don et l'ait effectué. À mon avis, l'article 160 ne doit pas être interprété comme s'il s'appliquait aux donations entre vifs nulles. Si une donation ne satisfait pas à l'une des trois conditions, elle est nulle ab initio. En l'espèce, on fait valoir que l'appelante ignorait l'existence du don et ne l'avait pas accepté et que, lorsqu'elle avait appris qu'un tel don lui avait été fait, elle l'avait refusé dans un délai acceptable en transférant de nouveau l'immeuble à son père. À mon avis, ce nouveau transfert constitue, dans les circonstances, une renonciation valide et il n'y a donc pas eu de transfert direct ou indirect du bien. Par conséquent, l'alinéa 160(1)c) ne peut pas s'appliquer à l'appelante. Dans la version anglaise de la Loi, le terme « dealing » figurant à l'alinéa 160(1)c) de la Loi (qui correspond au terme « avait » dans la version française de cet alinéa de la Loi) sous‑entend une action et non pas un état. J'estime que cette disposition ne s'applique pas, à moins que le bénéficiaire soit au courant du transfert. Le transfert ne tombe donc pas sous le coup de l'article 160.
+[20] L'appel est accueilli avec dépens.
+Signé à Ottawa, Canada, ce 30e jour de septembre 2011.
+« François Angers »
+Le juge Angers
+Traduction certifiée conforme
+ce 5e jour de décembre 2011.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2011 CCI 323
+NO DU DOSSIER DE LA COUR : 2010-482(IT)G
+INTITULÉ : Michelle Leclair c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Saskatoon (Saskatchewan)
+DATE DE L'AUDIENCE : Le 14 juin 2011
+MOTIFS DU JUGEMENT : L'honorable juge François Angers
+DATE DU JUGEMENT : Le 30 septembre 2011
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Peter V. Abrametz
+Avocate de l'intimée :
+Me Ainslie Schroeder
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom : Peter V. Abrametz
+Cabinet : Eggum Abrametz & Eggum
+Prince Albert (Saskatchewan)
+Pour l'intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

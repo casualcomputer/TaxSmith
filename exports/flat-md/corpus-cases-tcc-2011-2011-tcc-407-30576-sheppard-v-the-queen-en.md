@@ -1,0 +1,145 @@
+---
+title: "Sheppard v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30576/index.do"
+last_modified: "2011-06-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 407"
+citation2: ""
+neutral_citation: "2011 TCC 407"
+decision_date: "2011-06-28"
+language: "en"
+item_id: "30576"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7316
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:28:40.579000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b2dbdd9aacb96b49672c7cce2e6f6ba27f66301e7e228a56dfbf97b7b8d1faf8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sheppard v. The Queen
+
+- Citation: 2011 TCC 407
+- Decision date: 2011-06-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7316, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sheppard v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-06-28
+Neutral citation
+2011 TCC 407
+File numbers
+2011-519(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-519(IT)I
+BETWEEN:
+DEAN SHEPPARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 28, 2011 at Corner Brook,
+Newfoundland and Labrador
+By: The Honourable Justice Judith Woods
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Melanie Petrunia
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to an assessment made under the Income Tax Act for the 2008 taxation year is dismissed. Each party shall bear their own costs.
+Signed at Ottawa, Ontario this 26th day of August 2011.
+“J. M. Woods”
+Woods J.
+Citation: 2011 TCC 407
+Date: 20110826
+Docket: 2011-519(IT)I
+BETWEEN:
+DEAN SHEPPARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] Dean Sheppard appeals in respect of a penalty assessed under the Income Tax Act for the 2008 taxation year.
+[2] Subsection 163(1) of the Act provides for a penalty where a taxpayer has a failed to properly report income on more than one occasion. The penalty, which in this case is $1,407, is equal to 10 percent of the unreported amount in the second occurrence.
+[3] Subsection 163(1) provides:
+163.(1) Every person who
+(a) fails to report an amount required to be included in computing the person’s income in a return filed under section 150 for a taxation year, and
+(b) had failed to report an amount required to be so included in any return filed under section 150 for any of the three preceding taxation years
+is liable to a penalty equal to 10% of the amount described in paragraph (a), except where the person is liable to a penalty under subsection (2) in respect of that amount.
+Background
+[4] Mr. Sheppard does not dispute that he omitted income from tax returns on two occasions.
+[5] The first omission occurred in the 2005 tax return in which employment income in the amount of $837 was not reported. Mr. Sheppard explained that he inadvertently forgot to include this amount.
+[6] The second omission was for the 2008 taxation year, in which employment insurance benefits in the amount of $14,071 were not reported.
+[7] The omissions are acknowledged, but Mr. Sheppard submits that it would be unfair to impose the penalty.
+[8] First, Mr. Sheppard submits that he never received a T4 slip for the omitted benefits. Apparently there were other employment insurance benefits received for that year. Mr. Sheppard received a T4 slip in the amount of $15,645 for these benefits and he included this amount in his tax return. He submits that he thought that all employment insurance benefits would be reported on one T4 slip.
+[9] The amount that was reported was for regular employment insurance benefits which expired sometime during 2008. The omitted amount was received after the regular benefits expired and represents tuition for a truck driving course and supplementary income benefits. In the tax return, Mr. Sheppard claimed a credit for the cost of tuition that was paid for through these benefits.
+[10] The tax return was prepared by a friend who is experienced in tax return preparation and who volunteered to prepare Mr. Sheppard’s return without compensation.
+Discussion
+[11] As mentioned above, the penalty in s. 163(1) of the Act applies where there has been at least two failures to report income. Parliament has not provided any discretion to vacate the penalty and it can be quite harsh. This reflects the importance that Parliament has placed on the responsibility of all taxpayers to fully report their income.
+[12] Although the legislation does not explicitly provide discretion to vacate the penalty, this Court has implied such a discretion in exceptional circumstances. In general, it is necessary for the taxpayer to establish that he took reasonable measures to properly report the income.
+[13] I am not satisfied that reasonable measures were taken in this case.
+[14] First, Mr. Sheppard testified that he never received the second T4 slip regarding employment insurance benefits. I am reluctant to accept a self-interested assertion that a T4 slip was not received without further evidence. There is no evidence that the T4 slip was sent to the wrong address or any other evidence in support of a finding that the T4 slip was not received. Perhaps it was inadvertently mislaid by Mr. Sheppard.
+[15] However, even if the T4 slip was not received, this would not be a sufficient reason to not report the income.
+[16] Quite simply, the onus is on taxpayers to keep track of their income and properly report it. Reliance on T4 slips is not sufficient. The income tax return omitted a substantial amount of benefits, over $14,000.
+[17] In addition, in the tax return Mr. Sheppard claimed a tax credit for tuition paid. This amount was actually paid by way of a government benefit. By claiming this amount as an expense for purposes of the credit, and by not reporting the government benefit as income, Mr. Sheppard did not take proper care in the preparation of the tax return.
+[18] Innocent good faith is not sufficient to avoid the strict penalty under s. 163(1): Pillar Oilfield Projects Ltd. v Canada, [1993] GSTC 49, at para 27 which is reproduced below:
+… innocent good faith in the making of unintentional errors is not tantamount to due diligence. That defence requires affirmative proof that all reasonable care was exercised to ensure that errors not be made.
+[19] Mr. Sheppard testified that he did not understand the appropriate tax filing. I can understand that the tax filing was complex, but a taxpayer is under an obligation to ensure that all income is properly reported. If a taxpayer is not aware of the proper tax treatment of an amount received, competent advice should be sought. It was not suggested that the person who prepared the tax return for Mr. Sheppard had undertaken to provide such advice.
+[20] In order to avoid the strict liability penalty for a two-time failure to report income, a taxpayer must demonstrate that appropriate measures were taken to correctly report all income. I am not satisfied that Mr. Sheppard has done so.
+[21] I would conclude that the penalty has been properly imposed. The appeal will be dismissed.
+[22] As for costs, the respondent requested costs in the reply but abandoned this claim at the hearing. The parties will bear their own costs.
+Signed at Ottawa, Ontario this 26th day of August 2011.
+“J. M. Woods”
+Woods J.
+CITATION: 2011 TCC 407
+COURT FILE NO.: 2011-519(IT)I
+STYLE OF CAUSE: DEAN SHEPPARD and HER MAJESTY THE QUEEN
+PLACE OF HEARING: Corner Brook, Newfoundland and Labrador
+DATE OF HEARING: June 28, 2011
+REASONS FOR JUDGMENT BY: Hon. J.M. Woods
+DATE OF JUDGMENT: August 26, 2011
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Melanie Petrunia
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Ontario

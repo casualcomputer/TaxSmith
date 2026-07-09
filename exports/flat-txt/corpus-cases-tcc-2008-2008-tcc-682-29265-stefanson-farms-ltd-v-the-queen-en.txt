@@ -1,0 +1,131 @@
+Title: Stefanson Farms Ltd v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29265/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-682-29265-stefanson-farms-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-12-19
+
+# Stefanson Farms Ltd v. The Queen
+
+- Citation: 2008 TCC 682
+- Decision date: 2008-12-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7005, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Stefanson Farms Ltd v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-12-19
+Neutral citation
+2008 TCC 682
+File numbers
+2004-2159(IT)G
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-2159(IT)G
+BETWEEN:
+STEFANSON FARMS LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 6, 2008 at Winnipeg, Manitoba
+By: The Honourable Justice Judith Woods
+Appearances:
+Agent for the Appellant:
+Remi Smith
+Counsel for the Respondent:
+Lyle Bouvier
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to an assessment made under the Income Tax Act for the 1998 taxation year is dismissed. The respondent is entitled to costs.
+Signed at Toronto, Ontario this 19th day of December 2008.
+“J. Woods”
+Woods J.
+Citation: 2008TCC682
+Date: 20081219
+Docket: 2004-2159(IT)G
+BETWEEN:
+STEFANSON FARMS LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] Stefanson Farms Ltd. appeals an assessment made under the Income Tax Act for the 1998 taxation year.
+[2] The central dispute between the parties is the cost of inventory that was acquired by the appellant in the course of a partnership reorganization that was undertaken in the 1998 taxation year.
+[3] The respondent submits that the provisions of subsection 98(5) of the Act apply to the reorganization and that the cost of inventory acquired by the appellant is nil by virtue of subparagraph 98(5)(b)(i).
+[4] The appellant submits that subsection 98(5) does not apply and that the cost of inventory acquired is accordingly its fair market value under general principles. The fair market value was $227,245 at the relevant time and the appellant seeks a deduction for this amount in the 1998 taxation year. The deduction is being claimed under the cash basis of accounting. The method of accounting is not in dispute.
+[5] Subsection 98(5) of the Act is a rollover provision that permits a business to be transferred from a partnership to a partner on a tax-deferred basis. Essentially, the partnership is deemed to have disposed of its property at the cost amount for tax purposes, and the same amount becomes the cost of the property to the successor to the business.
+[6] In this case, the reorganization involved a change in the ownership of a family farm from a partnership to a corporation. The successor to the business is the appellant in this appeal.
+[7] The dispute centres on one of the elements of subsection 98(5), which is that the successor to the business must have been a partner in the partnership. The appellant submits that it never was a member of the partnership.
+[8] The relevant part of subsection 98(5) provides:
+(5) Where partnership business carried on as sole proprietorship. Where at any particular time after 1971 a Canadian partnership has ceased to exist and within 3 months after the particular time one, but not more than one, of the persons who were, immediately before the particular time, members of the partnership (which person is in this subsection referred to as the “proprietor”, whether an individual, a trust or a corporation) carries on alone the business that was the business of the partnership and continues to use, in the course of the business, any property that was, immediately before the particular time, partnership property and that was received by the proprietor as proceeds of disposition of the proprietor’s interest in the partnership, the following rules apply:
+[…]
+(b) the cost to the proprietor of each such property shall be deemed to be an amount equal to the total of
+(i) the cost amount to the partnership of the property
+immediately before that time,
+[…]
+(Emphasis added)
+Background
+[9] Randall Stefanson was the majority partner in the partnership that operated the farm before the reorganization, and he was the sole shareholder of the appellant which carried on the business after the reorganization. He was the only witness for the appellant at the hearing.
+[10] The transactions that are relevant to the appeal are not in dispute and are set out as assumptions in the reply to the notice of appeal. The relevant paragraphs are reproduced below.
+16. In confirming the Reassessments of the Appellant’s 1998 taxation year the Minister relied on the following assumptions:
+a) Prior to January 1, 1998, Randall Stephanson (“Randall”) and Anne Stephanson [sic] (“Anne”) were partners in a Family Partnership;
+b) Randall had a 99% interest in the partnership and Anne had a 1% interest in the Family Partnership;
+c) The Family Partnership assets included inventory, receivables and capital assets;
+d) The value of the inventory on January 1, 1998 was $277,245.00;
+e) The Family Partnership had calculated its income using cash basis.
+f) The value of the inventory of the Family Partnership as at December 31, 1997, had been expensed for tax purpose.
+g) By agreement dated October 16, 1998 and effective January 1, 1998 the Appellant purchased Randall’s interest in the Family Partnership for $418,406.00 and issued a Promissory Note to Randall for the purchase price plus one class A share;
+h) […]
+i) On January 3, 1998 the Appellant purchased Anne’s interest in the Family Partnership for $4,226.00 and issued a Promissory Note to Anne for the purchase price plus one class A share;
+j) […]
+k) The Appellant continued to operate the business formerly operated by the Family Partnership, using the property formerly owned by the partnership;
+l) The Appellant had an initial fiscal year ending December 31, 1998;
+m) The Appellant used the accrued method to calculate its cost of goods sold for the 1998 taxation year.
+n) […]
+Discussion
+[11] The issue boils down to whether the appellant and Ann Stefanson were partners for the period from January 1 to January 3, 1998. This was the period during the course of the reorganization beginning when the appellant purchased a partnership interest from Randall Stefanson and ending when Ann Stefanson sold her partnership interest to the appellant.
+[12] The appellant submits that it never was a partner in the partnership.
+[13] The problem that I have with this position is that the written agreements that were entered into suggest otherwise. Although the agreements do not explicitly state that the appellant and Mrs. Stefanson were to be partners, that is the clear implication of the documents. No other reasonable interpretation of what was intended by these agreements was suggested at the hearing.
+[14] I find that the agreements are relatively clear on their face that the appellant and Mrs. Stefanson were to be partners for the period from January 1 to January 3, 1998.
+[15] Mr. Stefanson testified that the documents were prepared by professional advisers and that he did not understand what the advisers had intended. That would not be uncommon. Business persons routinely sign complex agreements on the advice of professionals without a detailed understanding of them. It does not follow that the parties to the agreements should not be bound by them.
+[16] Mr. Stefanson also testified that his mother and the appellant did not conduct any partnership business during the relevant two day period. It was submitted that there could not be a partnership in these circumstances: Backman v. The Queen, 2001 DTC 5149, 2001 SCC 10.
+[17] In my view, this is a not a satisfactory reason for the appellant to disavow the written agreements. The circumstances in Backman were quite different. In this appeal it is the taxpayer that argues that the documents do not reflect the true state of affairs. That was not the case in Backman.
+[18] The situation before me has some similarity to The Queen v. 1524994 Ontario Ltd., 2007 FCA 74. In that case, a taxpayer created documents which it later argued did not represent the actual facts. The Federal Court of Appeal made short shrift of the taxpayer’s argument and held that the form of the documents should be respected. Reference may also be made to The Queen v. Gurd’s Products Company Limited, 85 DTC 5314 (FCA).
+[19] Finally, I would also note that there is insufficient factual evidence in this case to establish that no partnership business was carried on between January 1 and January 3. Mr. Stefanson made a brief statement to that effect but the evidence was not detailed enough for me to conclude that no partnership business was conducted during this period.
+[20] The appeal will be dismissed, with costs to the respondent.
+Signed at Toronto, Ontario this 19th day of December 2008.
+“J. Woods”
+Woods J.
+CITATION: 2008TCC682
+COURT FILE NO.: 2004-2159(IT)G
+STYLE OF CAUSE: STEFANSON FARMS LTD. AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Winnipeg, Manitoba
+DATE OF HEARING: November 6, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice J. Woods
+DATE OF JUDGMENT: December 19, 2008
+APPEARANCES:
+Agent for the Appellant:
+Remi Smith
+Counsel for the Respondent:
+Lyle Bouvier
+COUNSEL OF RECORD:
+For the Appellant:
+Name: n/a
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

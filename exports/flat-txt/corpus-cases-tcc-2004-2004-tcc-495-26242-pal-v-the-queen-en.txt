@@ -1,0 +1,131 @@
+Title: Pal v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26242/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-495-26242-pal-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-07-13
+
+# Pal v. The Queen
+
+- Citation: 2004 TCC 495
+- Decision date: 2004-07-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4039, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pal v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-07-13
+Neutral citation
+2004 TCC 495
+File numbers
+2001-751(IT)I
+Judges and Taxing Officers
+Michael J. Bonner
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2001-751(IT)I
+BETWEEN:
+SATYA PAL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard together with the appeal of Satya Pal (2001-333(GST)I) on March 14 and 15, 2002 and April 6, 2004 at Toronto, Ontario
+Before: The Honourable Justice M.J. Bonner
+Appearances:
+Counsel for the Appellant:
+James P. McReynolds
+Counsel for the Respondent:
+John Grant
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1994, 1995 and 1996 taxation years are dismissed.
+Signed at Ottawa, Canada, this 13th day of July 2004.
+"M.J. Bonner"
+Bonner, J.
+Citation: 2004TCC495
+Date: 20040713
+Docket:2001-751(IT)I
+BETWEEN:
+SATYA PAL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bonner, J.
+[1] This is an appeal from an assessment under the Income Tax Act (the "Act") for the taxation years 1994, 1995 and 1996. The appeal was heard by this Court and was dismissed by judgment dated March 22, 2002. Reasons for Judgment were delivered orally.
+[2] The Appellant then brought an application for judicial review to the Federal Court of Appeal. The result of that proceeding and the Reasons of that Court are summarized in the following passage from the Reasons for Judgment:
+The Tax Court Judge and all counsel and parties appear to have forgotten that exhibit A-6, an affidavit by a Mr. Sehmi outlining the amount of annual rent that he had paid in those years for the taxi licence to the Applicant.
+We are all satisfied that this constituted an error resulting in procedural unfairness amounting to a denial of natural justice.
+This application for judicial review will be allowed and the matter remitted to the Tax Court Judge for redetermination, taking into account exhibit A-6, which was ignored even though it had been properly introduced.
+[3] Following that decision a further hearing was held by this Court. At that hearing the parties were given the opportunity to adduce further evidence. The Appellant called Pritpal Singh Sehmi, the person whose affidavit was referred to in the Reasons of the Court of Appeal.
+[4] The appeal to this Court was from net worth assessments. The background to the assessments is explained in the earlier Reasons of this Court as follows:
+The Appellant appeals from assessments of income tax and section 163(2) penalties for the 1994, 1995 and 1996 taxation years. During those years the Appellant earned income from the rental of a taxi cab which he owned. He rented the cab out because he had sustained injuries in an automobile accident which prevented him from driving the cab himself...
+In the first instance the Appellant's income tax returns for the years under appeal were filed electronically. Income as reported by him was: for 1994, $3,997.00; for 1995, $7,403.00 and for 1996, $20,848.00.
+The Revenue authorities investigated the Appellant's financial affairs after discovering that the Appellant had, for purposes of inflating GST input tax credits, claimed personal expenses.
+It was clear that the Appellant's income could not be measured directly. The Appellant apparently did not keep, and certainly did not produce at the hearing, any reliable financial records which would permit the direct measurement of income. A net worth assessment therefore followed.
+[5] The following passages from the Notice of Appeal were admitted by the Respondent:
+a) The Appellant is the owner of a licence to operate a taxi cab at Toronto International Airport, that being Mississauga Taxicab plate number 25 and Ministry of Transportation plate number 443.
+and
+b) In September 1992, Mr. Pritpal Singh Sehmi entered into a lease agreement with the Appellant which provided that Mr. Sehmi would lease the taxi licence from the Appellant for the sum of $1,200.00 per month and that this amount could be changed by mutual agreement.
+[6] The following allegations in the Notice of Appeal were put in issue:
+The Appellant continued receiving lease payments in the amount of $1,200.00 per month through 1993, 1994, 1995 and up to and including August 1996. The Appellant and Mr. Sehmi agreed to the $1,200.00 per month figure, even though written agreements of January 1, 1994, August 23, 1994 and January 1, 1995 (sic). The continuation of the $1,200.00 per month was made as Mr. Sehmi was partially disabled from working on a full-time basis.
+The lease agreement was amended, effective September 1, 1996, to provide lease payments in the amount of $2,340.00 per month, but due to a continuing disability of Mr. Sehmi, the lease amount was agreed to be $1,170.00.
+The total lease payments received by Mr. Pal for plate rental in 1994 was $14,400.00, for 1995 was $14,400.00 and for 1996, was $14,280.00.
+Other than the income from the leasing of the licence plate, Mr. Pal had no other business income during the taxation years 1994, 1995 and 1996.
+[7] The affidavit of Mr. Sehmi is a document which on its face raises credibility questions for it suggests that he and the Appellant entered into a number of written agreements calling for payments to the Appellant which were not made. It reads in part:
+4. In September 1992, I attended at Mississauga General Hospital to visit Mr. Pal. At that time, I presented him with a lease agreement so that I could lease his City of Mississauga taxicab plate No. 25 and Ministry of Transport Permit No. 443 ("the Licence"). Mr. Pal and I agreed that I would pay him $1,200.00 per month commencing September 1992.
+5. I continued leasing the Licence and continued making payments in the amount of $1,200.00 per month.
+6. On January 1, 1994, I entered into an agreement with Mr. Pal to extend the lease and to pay $1,500.00. Further agreements were made, including August 23, 1994, December 20, 1994 and September 13, 1996. However, even though we had signed further agreements, I continued paying Mr. Pal $1,200.00 per month.
+7. The payments of $1,200.00 per month continued even during the period of time when I could not drive on a full-time basis, and Mr. Pal had agreed to reduce the lease payments to $600.00 a month.
+8. In September 1996, we agreed to a new lease with payments of $2,340.00 per month. However, as I was only working on a part-time basis, we agreed that payments would be made in the amount of $1,170.00.
+9. I paid Mr. Pal a total of $14,400.00 in 1994, $14,400.00 in 1995 and $14,280.00 in 1996.
+10. I make this affidavit in support of an appeal by Mr. Pal of taxation assessments.
+There was never any doubt that the document was relevant. The question was whether it should be given any weight.
+[8] Mr. Sehmi was not called as a witness at the first hearing before this Court. At that time counsel who then acted for the Appellant stated that Mr. Sehmi was unable to appear but he did not say why. Thus Mr. Sehmi was not available for cross-examination on his affidavit. Counsel for the Appellant did not request an adjournment to permit Mr. Sehmi to testify in person. In those circumstances, despite the failure of counsel for the Respondent to object to the affidavit, I considered it unsafe to rely on the document.
+[9] As noted in paragraph 3 of these Reasons, Mr. Sehmi did give evidence at the second hearing. In his examination in chief, he confirmed what was said in the affidavit. Not surprisingly, he was cross-examined on the differences between the amounts which he had agreed in writing to pay and the amounts which he said he had in fact paid. He was unable to offer a lucid explanation. At one stage in the cross-examination he stated that he was confused. At another stage, when asked directly how much he had paid to the Appellant, he responded that he did not know, that he would have to check his papers and that he did not have his papers. In my opinion Mr. Sehmi was not a credible witness. In the result he did nothing to advance the Appellant's case. The Appellant's income cannot be measured directly.
+[10] Thus despite the second hearing the position as set out in paragraph 11 of my reasons of March 15, 2002 remains unchanged:
+The onus is on the Appellant to establish on a balance of probabilities that the Minister's calculations of income are wrong. The onus is one which is relatively easy to discharge where the Minister has relied on a net worth calculation because of the inherent imprecision of the method. However, there must be some credible evidence showing error in the result in order to discharge the onus. Such evidence was not adduced here.
+[11] The appeal is dismissed.
+Signed at Ottawa, Canada, this 13th day of July 2004.
+"M.J. Bonner"
+Bonner, J.
+CITATION:
+2004TCC495
+COURT FILE NO.:
+2001-751(IT)I
+STYLE OF CAUSE:
+Satya Pal and Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+April 6, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice M.J. Bonner
+DATE OF JUDGMENT:
+July 13, 2004.
+APPEARANCES:
+Counsel for the Appellant:
+James P. McReynolds
+Counsel for the Respondent:
+John Grant
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+James P. McReynolds
+Firm:
+Solmon Rothbart Goodman
+Toronto, Ontario
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

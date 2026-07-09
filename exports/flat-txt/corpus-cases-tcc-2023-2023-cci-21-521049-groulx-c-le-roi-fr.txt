@@ -1,0 +1,275 @@
+Title: Groulx c. Le Roi
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521049/index.do
+Corpus path: corpus/cases/tcc/2023/2023-cci-21-521049-groulx-c-le-roi-fr.md
+Document type: case_law
+Last modified: 2023-02-07
+
+# Groulx c. Le Roi
+
+- Citation: 2023 CCI 21
+- Decision date: 2023-02-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5782, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Groulx c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2023-02-07
+Référence neutre
+2023 CCI 21
+Numéro de dossier
+2021-418(IT)I
+Juges et Officiers taxateurs
+Jean Marc Gagnon
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2021-418(IT)I
+ENTRE :
+MONIQUE GROULX,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+Appel entendu le 8 novembre 2022, à Ottawa (Canada)
+Devant : L'honorable juge Jean Marc Gagnon
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocate de l'intimé :
+Me Yvette Virok
+JUGEMENT
+1. L’appel à l'encontre de chacune des nouvelles déterminations, à savoir :
+les nouvelles déterminations datées du 19 juillet 2019 concernant l’allocation canadienne pour enfants pour les années de base 2015, 2016 et 2017 et du 20 mai 2020 concernant l’allocation canadienne pour enfants pour l’année de base 2018;
+est accueilli, sans frais, et le tout est déféré au ministre du Revenu national pour nouvelles déterminations conformément aux motifs du jugement ci-joints.
+2. L’appel à l'encontre de chacune des nouvelles cotisations, à savoir :
+les nouvelles cotisations datées du 22 juillet 2019 concernant le crédit équivalent pour personne entièrement à charge pour les années d'imposition 2016, 2017 et 2018 et la pénalité imposée en vertu du paragraphe 163(2) de la Loi de l’impôt sur le revenu, LRC 1985, c 1 (5e supp) pour les années d'imposition 2016 et 2017;
+est accueilli, sans frais, et le tout est déféré au ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément aux motifs du jugement ci-joints.
+Signé à Toronto, Ontario, ce 7e jour de février 2023.
+«J. M. Gagnon »
+Juge Gagnon
+Référence : 2023 CCI 21
+Date : le 7 février 2023
+Dossier : 2021-418(IT)I
+ENTRE :
+MONIQUE GROULX,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Gagnon
+I. Introduction
+[1] Il s'agit d'appels présentés par madame Monique Groulx à l'encontre des nouvelles déterminations et des nouvelles cotisations suivantes émises en vertu des articles 122.6 et 122.61 et des paragraphes 118(1), 163(2) et 248(1) de la Loi de l’impôt sur le revenu, LRC 1985, c 1 (5e supp), (« LIR ») et l’article 6302 du Règlement de l’impôt sur le revenu :
+(a) les nouvelles déterminations datées du 19 juillet 2019 concernant l’allocation canadienne pour enfants (« ACE ») pour les années de base 2015, 2016 et 2017;
+(b) la nouvelle détermination datée du 20 mai 2020 concernant l’ACE pour l’année de base 2018; et
+(c) les nouvelles cotisations datées du 22 juillet 2019 concernant le crédit équivalent pour personne entièrement à charge pour les années d’imposition 2016, 2017 et 2018 et la pénalité imposée en vertu du paragraphe 163(2) LIR pour les années d'imposition 2016 et 2017.
+[2] Aux fins d’établir et de maintenir les nouvelles cotisations et les nouvelles déterminations faisant l'objet des présents appels, la ministre du Revenu national (« ministre ») s'est fondée sur les hypothèses de fait suivantes énoncées à l’article 10 de la Réponse à l'avis d'appel :
+a) l’appelante est la mère de deux enfants :
+i. F. né en 1985
+ii. J. né en 2002
+[admis]
+b) J. est l’enfant issu de l’union de l’appelante et de monsieur Michel Cournoyer (ci-après « les parties » (SIC);
+[admis]
+c) au cours de la période en litige, les parties vivaient à la même adresse au 139 rue Durocher, Gatineau, Québec;
+[admis]
+d) les parties faisaient vie commune;
+[nié]
+e) durant les années d’imposition 2015, 2016, 2017 et 2018, les revenus nets des parties étaient les suivants :
+Année d’imposition
+Appelante
+M. Cournoyer
+Total
+2015
+64 772$
+720$
+65 492$
+2016
+70 239$
+17 006$
+87 245$
+2017
+69 786$
+59 704$
+129 490$
+2018
+71 106$
+30 576$
+101 682$
+[les revenus de l’appelante sont admis. L’appelante ignore les faits du paragraphe 10e) de la Réponse en ce qui concerne les revenus nets de monsieur Cournoyer, l’appelante n’ayant jamais été informé de ces informations antérieurement.]
+f) les prestations d’ACE sont établis (sic) en fonction de l’état civil et du revenu familial des personnes admissibles.
+[ignoré]
+[3] L’appelante et monsieur Michel Cournoyer sont les seuls témoins à l’audition. Madame Groulx témoigne pour elle-même et n’a appelé aucun autre témoin. Monsieur Cournoyer est l’unique témoin appelé par l’intimé. L’appelante n’a pas contre-interrogé monsieur. La Cour estime que le témoignage de l’appelante est crédible et bien que certaines explications sont hésitantes ou imprécises, la Cour accorde une fiabilité suffisante à son témoignage. Le témoignage de monsieur Cournoyer s’est avéré plus ciblé puisque limité à formuler des réponses aux questions qui lui étaient demandées. La Cour estime que le témoignage de monsieur Cournoyer est dans son ensemble crédible bien que certains éléments de son témoignage se sont avérés difficiles à concilier notamment quant aux évènements coïncidant avec les périodes et les années en litige. Sous réserve de ces remarques, les deux témoignages sont retenus.
+[4] Lors de la tenue des questions préliminaires, l’intimé a concédé au retrait de la pénalité pour faute lourde visée au paragraphe 163(2) LIR et imposée relativement aux années d’imposition 2016 et 2017 de l’appelante. En conséquence, l’appel relativement à chacune des années d’imposition 2016 et 2017 sera accueilli sur la base de cette concession.
+II. Question en litige
+[5] La seule question en litige consiste à déterminer si, durant les périodes et les années en appel, l'appelante et monsieur Michel Cournoyer étaient conjoints de fait ou vivaient en union de fait aux fins de l’article 122.6 LIR et de l’alinéa 118(1)b) LIR.
+III. Contexte
+[6] Madame Groulx, enseignante retraitée, explique qu'elle connaît monsieur Cournoyer depuis une vingtaine d'années. Au cours des périodes et des années pertinentes, monsieur Cournoyer occupe un emploi dans le secteur de la construction et de la rénovation à l’exception d’une période où il est sans emploi. À cette période, madame Groulx a déjà un premier fils Frédéric né en 1985. Elle fréquente monsieur Cournoyer au début des années 2000 alors qu’il occupe l’appartement d’un immeuble appartenant à son père situé rue Joffre, Gatineau, Québec. Madame Groulx habite déjà à cette période rue Durocher, Gatineau, Québec.
+[7] En 2002, madame Groulx donne naissance à Jacob. Monsieur Cournoyer est le père de Jacob. Bien que monsieur Cournoyer occupe toujours un appartement rue Joffre, Gatineau, leur relation est maintenant celle de conjoints de fait aux dires mêmes de l’appelante. Monsieur Cournoyer est plus présent dans le quotidien de la famille rue Durocher, Gatineau. Il est essentiellement présent le jour rue Durocher, Gatineau en plus de nuits occasionnelles. Lorsqu’il couche rue Durocher, Gatineau, le couple peut faire chambre à part depuis la naissance de Jacob. L’appelante et monsieur Cournoyer n’ont jamais été mariés et n’ont jamais discuté de cette possibilité.
+[8] En 2005, la situation se détériore au point de nécessiter une intervention policière entraînant le départ précipité de monsieur de la résidence de l’appelante. Selon l’appelante, cet évènement est le dénouement d’une situation conjugale se dégradant depuis un certain temps. L’appelante confirme qu’à compter de ce départ ils ne seront plus des conjoints de fait, les visites de monsieur ont cessé bien que monsieur puisse occasionnellement rendre visite à Jacob seulement. Monsieur Cournoyer confirme lors de son témoignage qu’ils ne sont plus des conjoints de fait, mais hésite à pouvoir confirmer l’année exacte bien que celle-ci se situe entre 2005 et 2008 au plus tard.
+[9] À la suite du décès de son père survenu en 2008, monsieur Cournoyer doit quitter rue Joffre, Gatineau. À ce moment, l’appelante et monsieur Cournoyer discute alors de la possibilité que madame loue à monsieur une chambre rue Durocher, Gatineau. Ce à quoi l’appelante consentira. Madame Groulx a déjà loué une chambre dans le passé et pour cette raison est en mesure d’apprécier ce que cette décision peut entraîner. Une présence masculine, au surplus le père de Jacob, et l’aide financière que la location devrait lui apporter sont les principaux motifs au soutien de la décision de l’appelante. La location d’une chambre par monsieur Cournoyer se poursuivra au-delà des années et périodes en litige. Jacob demeure avec l’appelante incluant au moment des périodes et années en litige.
+IV. Position de l’appelante
+[10] L’appelante allègue que bien que monsieur Cournoyer pouvait louer une chambre chez elle, elle ne vivait pas en union de fait avec monsieur Cournoyer après l’année 2005 qui correspond à une intervention policière. La relation de conjoint de fait s’est terminée au plus tard au cours de l’année 2005 et n’a jamais reprise depuis. La situation économique personnelle de madame et monsieur explique le fait que monsieur a loué une chambre chez elle bien que Jacob soit né de leur union en 2002. Elle ajoute que, pendant les périodes et les années en litige, ils n’ont jamais vécu ensemble en tant que couple ou conjoints de fait. Elle constitue alors pour elle-même et ses enfants son seul soutien. Monsieur Cournoyer n’a jamais fait partie du ménage pendant les périodes et les années en litige et exception faite du loyer qu’il lui verse pour la location d’une chambre il ne lui a jamais fourni de soutien financier ou toute autre forme de soutien quel qu’il soit pendant cette période.
+[11] Bien que l’appelante reconnaît que la situation peut sembler peu commune, la situation réelle est telle qu’il n’y a pas de relation conjugale impliquant monsieur Cournoyer et l’appelante ni lieu de les considérer conjoints de fait au cours des périodes en litige. Bien qu’elle sait ne pas être en mesure d’empêcher la libre pensée chez les gens du quartier, l’appelante affirme avoir toujours maintenu la même position pour toute fin que ce soit relativement au lien bien que limité qu’elle peut entretenir avec monsieur Cournoyer. Elle ne peut accepter que les autorités fiscales la considèrent conjointe de fait de monsieur Cournoyer aux fins des périodes et des années en litige.
+V. Position de l’intimé
+[12] Selon l’intimé, au cours des périodes en litige, l’appelante vivait dans une relation conjugale qui constitue une « union de fait » entre « conjoints de fait » tels que définis aux fins de la LIR. La présence de monsieur Cournoyer dans la résidence de l’appelante, et le comportement et les relations que les parties ont entretenus au cours des périodes en litige soutiennent une situation de conjoints de faits telle que développée par les tribunaux. L’intimé est d’avis qu’en conséquence il faut tenir compte du revenu de monsieur Cournoyer dans le calcul des montants d’ACE auxquels l’appelante a droit tout au long de ces périodes. De plus, cette même relation a pour effet d’invalider l’admissibilité de l’appelante au crédit pour personne entièrement à charge visé à l’alinéa 118(1)b) LIR pour les années d’imposition 2016, 2017 et 2018.
+VI. Analyse
+[13] Aux fins de la sous-section a.1 de la Section E de la Partie I LIR, l’ACE requiert qu’il soit tenu compte aux fins de déterminer le revenu modifié du particulier réclamant l’ACE le revenu de la personne qui était le conjoint de fait visé à la fin de l’année. Les conditions d’application du crédit pour personne entièrement à charge visé à l’alinéa 118(1)b) LIR requièrent que le particulier ne vit pas en union de fait à un moment de l’année.
+[14] Aux fins de l’ACE, l'article 122.6 LIR définit « époux ou conjoint de fait visé » :
+« époux ou conjoint de fait visé » Personne qui, à un moment donné, est l'époux ou conjoint de fait d’un particulier dont il ne vit pas séparé à ce moment. Pour l'application de la présente définition, une personne n'est considérée comme vivant séparée d'un particulier à un moment donné que si elle vit séparée du particulier à ce moment, pour cause d'échec de leur mariage ou union de fait, pendant une période d'au moins 90 jours qui comprend ce moment.
+(notre soulignement)
+[15] La définition de « union de fait » aux fins de la LIR se trouve au paragraphe 248(1) :
+« union de fait » Relation qui existe entre deux conjoints de fait. (common-law partnership)
+(notre soulignement)
+La définition de « conjoint de fait » aux fins de la LIR se trouve au paragraphe 248(1) :« conjoint de fait » En ce qui concerne un contribuable à un moment donné, personne qui, à ce moment, vit dans une relation conjugale avec le contribuable et qui, selon le cas :
+a) a vécu ainsi tout au long de la période de douze mois se terminant avant ce moment;
+b) est le père ou la mère d'un enfant dont le contribuable est le père ou la mère, compte non tenu des alinéas 252(1)c) et e) ni du sous-alinéa 252(2)a)(iii).
+Pour l'application de la présente définition, les personnes qui, à un moment quelconque, vivent ensemble dans une relation conjugale sont réputées, à un moment donné après ce moment, vivre ainsi sauf si, au moment donné, elles vivaient séparées, pour cause d'échec de leur relation, pendant une période d'au moins 90 jours qui comprend le moment donné.
+(notre soulignement)
+[16] Il n’est pas contesté que l'appelante se considérait être la conjointe de fait de monsieur Cournoyer jusqu’au moment justifiant une intervention policière en 2005. Aux yeux de l’appelante, la situation s’était alors envenimée à un point de non‑retour pour le couple. Monsieur Cournoyer parle plutôt lors de son témoignage d’embrouilles pour expliquer la séparation du couple.
+[17] Dans le cas présent, pour établir qu'elle n'était plus conjointe de fait de monsieur Cournoyer et donner droit à l’appel eu égard à chacune des périodes et années en litige, l’appelante doit démontrer, qu'après ce moment, elle vivait séparée de monsieur Cournoyer pour cause d'échec de leur union de fait pendant une période d'au moins 90 jours. Autrement dit, compte tenu de la durée de la période en litige, l’appelante aura gain de cause si elle est en mesure d’établir que durant les périodes et années en litige elle et monsieur Cournoyer ne vivaient plus dans une relation conjugale.
+[18] Pour déterminer si l'appelante ne vivait plus dans une relation conjugale même si elle vivait sous le même toit que monsieur Cournoyer, il y a lieu de référer aux facteurs élaborés dans Molodowich v Penttinen, (1980), 1980 CanLII 1537 (ON SC) [Molodowich], et confirmés par la Cour suprême du Canada dans l'arrêt M c H, [1999] 2 RCS 3 [M c H] et repris par cette Cour dans notamment Milot c Sa Majesté la Reine, [1996] 1 CTC 2247 [Milot] et Aukstinaitis c Canada, 2008 CCI 104 [Aukstinaitis]. Notre Cour réfère également aux décisions dans Pam Sanford c Sa Majesté la Reine, [2001] DTC 12 (confirmée en Cour d’appel fédérale 2002 DTC 7442) et Lavoie c Sa Majesté la Reine, 2001 DTC 5083 (C.A. Féd.) qui a suivi la décision Milot.
+[19] La Cour suprême du Canada dans l’affaire M c H mentionne relativement à l’affaire Molodowich :
+59 Molodowich c. Penttinen (1980), 1980 CanLII 1537 (ON SC), 17 R.F.L. (2d) 376 (C. dist. Ont.), énonce les caractéristiques généralement acceptées de l’union conjugale, soit le partage d’un toit, les rapports personnels et sexuels, les services, les activités sociales, le soutien financier, les enfants et aussi l’image sociétale du couple. Toutefois, il a été reconnu que ces éléments peuvent être présents à des degrés divers et que tous ne sont pas nécessaires pour que l’union soit tenue pour conjugale. (…) Pour être visés par la définition, ni les couples de sexe différent ni les couples de même sexe n’ont besoin de se conformer parfaitement au modèle matrimonial traditionnel afin de prouver que leur union est « conjugale ».
+60 Un couple de sexe différent peut certainement, après de nombreuses années de vie commune, être considéré comme formant une union conjugale, même sans enfants ni relations sexuelles. Évidemment, le poids à accorder aux divers éléments ou facteurs qui doivent être pris en considération pour déterminer si un couple de sexe différent forme une union conjugale variera grandement, presque à l’infini. Cela doit s’appliquer aussi aux couples de même sexe. Les tribunaux ont eu la sagesse d’adopter une méthode souple pour déterminer si une union est conjugale. Il doit en être ainsi parce que les rapports dans les couples varient beaucoup. (…)
+(notre soulignement)
+[20] Tels que repris à maintes reprises par cette Cour, notamment dans la décision du juge Favreau de cette Cour dans Perron c Canada, 2010 CCI 547, les éléments et circonstances généralement acceptés par la jurisprudence au Canada afin d’établir si un couple non marié sont des conjoints de fait incluent les facteurs suivants établis dans l’affaire Molodowich :
+Logement
+a) Les intéressés vivaient-ils sous le même toit?
+b) Couchaient-ils dans le même lit?
+c) Y avait-il quelqu'un d'autre qui habitait chez eux?
+Comportement sexuel et personnel
+a) Les intéressés avaient-ils des rapports sexuels? Sinon, pourquoi?
+b) Étaient-ils fidèles l'un à l'autre?
+c) Quels étaient leurs sentiments l'un pour l'autre?
+d) Existait-il une bonne communication entre eux sur le plan personnel?
+e) Prenaient-ils leurs repas ensemble?
+f) Que faisaient-ils pour s'entraider face aux problèmes ou à la maladie?
+g) S'offraient-ils des cadeaux à des occasions spéciales?
+Services
+Comment les intéressés agissaient-ils habituellement en ce qui concerne:
+a) la préparation des repas;
+b) le lavage et le raccommodage des vêtements;
+c) les courses;
+d) l'entretien du foyer;
+e) les autres services ménagers?
+Relations sociales
+a) Les intéressés participaient-ils ensemble ou séparément aux activités du quartier et de la collectivité?
+b) Quelle était la nature des rapports de chacun d'eux avec les membres de la famille de l'autre et comment agissaient-ils envers ces derniers, et inversement, quel était le comportement de ces familles envers les intéressés?
+Attitude de la société
+Quelle attitude et quel comportement la collectivité avait-elle envers les intéressés, considérés individuellement et en tant que couple?
+Soutien économique
+a) Quelles dispositions financières les intéressés prenaient-ils pour ce qui était de fournir les choses nécessaires à la vie (vivres, vêtements, logement, récréation, etc.) ou de contribuer à les fournir?
+b) Quelles dispositions prenaient-ils relativement à l'acquisition et à la propriété de biens?
+c) Existait-il entre eux des arrangements financiers particuliers que tous deux tenaient pour déterminants quant à la nature de leurs relations globales?
+Enfants
+Quelle attitude et quel comportement les intéressés avaient-ils à l'égard des enfants?
+[21] Si on applique ces facteurs aux faits particuliers propres à l'appelante, on peut tirer les conclusions suivantes :
+Logement
+a) Les intéressés vivaient-ils sous le même toit?
+b) Couchaient-ils dans le même lit?
+c) Y avait-il quelqu'un d'autre qui habitait chez eux?
+[22] La preuve établit clairement que l'appelante et monsieur Cournoyer vivaient sous le même toit avec leur fils Jacob au cours des périodes et années en litige. L'appelante et monsieur Cournoyer ont témoigné à l'effet que chacun avait sa propre chambre où se trouvait leur propre lit et effets personnels incluant un téléviseur dans le cas de monsieur Cournoyer. Ils ne partageaient jamais le même lit. Pendant les périodes en litige, l’appelante et monsieur Cournoyer occupaient chacun une chambre à l’étage de la résidence rue Durocher, Gatineau. Jacob occupait la chambre au rez-de-chaussée.
+[23] Selon la jurisprudence, il est admis que le simple fait de vivre sous le même toit ne suffit pas pour conclure que deux personnes soient conjoints de fait. Dans l'affaire Kelner c Canada, [1995] ACI no 1130, le juge Bowman (tel était alors son titre) a d'ailleurs tenu les propos suivants à ce sujet :
+16 Je me fonderai au départ sur la prémisse selon laquelle il est possible, en droit, que les conjoints vivent séparés même s'ils vivent sous un même toit.
+[24] Le juge Rip (alors juge en chef adjoint) a formulé le commentaire suivant dans l'affaire Aukstinaitis, précité :
+23 Le fait que l'appelante ait habité avec monsieur Mongeon sous le même toit n'est pas fatal à la cause de cette dernière. Ce n'est d'ailleurs qu'un des facteurs à tenir en ligne de compte.
+[25] Ce critère n’est donc pas déterminant dans les circonstances.
+Comportement sexuel et personnel
+a) Les intéressés avaient-ils des rapports sexuels? Sinon, pourquoi?
+b) Étaient-ils fidèles l'un à l'autre?
+c) Quels étaient leurs sentiments l'un pour l'autre?
+d) Existait-il une bonne communication entre eux sur le plan personnel?
+e) Prenaient-ils leurs repas ensemble?
+f) Que faisaient-ils pour s'entraider face aux problèmes ou à la maladie?
+g) S'offraient-ils des cadeaux à des occasions spéciales?
+[26] L'appelante a témoigné à l'effet qu'elle n'avait eu aucun rapport sexuel avec monsieur Cournoyer depuis son départ précipité en 2005. La compréhension de la Cour est que l’absence de relation conjugale à compter de ce moment explique l’absence de tels rapports. D’ailleurs durant la période 2005-2008 les visites de monsieur Cournoyer rue Durocher, Gatineau sont espacées et ne sont constituées que des visites à Jacob. L’appelante ne rend pas visite à monsieur Cournoyer rue Joffre, Gatineau.
+[27] Depuis 2008, elle a décrit leurs relations comme étant une relation entre personnes civilisées et souvent limitée à l’essentiel. Le décès du père de monsieur Cournoyer a mené aux discussions entre les deux parties au sujet de louer une chambre. L’appelante avait déjà loué une chambre dans le passé et était donc à même d’apprécier les conséquences qu’une telle situation entraînait. La Cour retient du témoignage de l’appelante une femme dont la vie sociale au cours des périodes pertinentes est restreinte à peu d’activités et dont le cercle d’amis semble absent. Donnant à la Cour le sentiment d’une personnalité davantage introvertie et réservée, la Cour croit dans le cas présent que l’appelante est en mesure de prendre la décision de louer 3 ans après la fin de la vie conjugale pour des raisons purement économiques et d’entraide occasionnelle et le bien de son fils, sans par ailleurs associer le geste à une situation entre conjoints de fait aux fins de la LIR.
+[28] La Cour retient des témoignages de l’appelante et de monsieur Cournoyer qu’ils n’ont pas fréquenté d’autres personnes durant les périodes en litige et qu’en conséquence ils sont restés fidèles. Toutefois, la Cour est d’avis que l’existence d’une relation conjugale ou de couple impliquant l’appelante et monsieur Cournoyer n’est pas responsable de cette fidélité, et que c’est plutôt le résultat de décisions personnelles prises de part et d’autre, et sans égard à l’autre, qui explique l’absence ou le peu de fréquentations que chacun a choisi d’adopter.
+[29] La Cour ne retient pas de la preuve que l’appelante et monsieur Cournoyer avaient durant les périodes en litige des sentiments l’un pour l’autre pouvant s’assimiler à des sentiments présents entre conjoints de fait ou mariés. Les situations de confidences, d’échanges, d’interactions et de complicités qui normalement seraient à un niveau ou un autre présentes dans une relation conjugale apparaissent à la Cour quasi inexistantes dans le cas présent. L’intimé a comparé la relation conjugale de l’appelante et monsieur Cournoyer à celle d’un vieux couple. Une relation conjugale peut certes évoluée, changée, variée et prendre une forme différente au cours d’une vie conjugale. Toutefois, la Cour ne retient pas une telle situation dans le cas présent en ce qui concerne les périodes et les années en litige.
+[30] Ils prenaient rarement un repas ensemble. Monsieur Cournoyer faisait son propre repas auquel Jacob pouvait se joindre compte tenu de l’horaire plus régulier de monsieur. Monsieur Cournoyer lavait sa propre vaisselle. L’appelante pouvait par la suite préparer son repas et laver sa vaisselle.
+[31] Durant les périodes et les années en litige, l’appelante pouvait occasionnellement permettre à monsieur Cournoyer d’utiliser sa voiture qui n’en avait pas. La preuve entendue laisse croire à la Cour à peu d’entraide entre l’appelante et monsieur Cournoyer. Ces situations d’entraide semblent d’ailleurs principalement limitées aux situations où l’appelante n’était pas en mesure d’accompagner Jacob à l’extérieur dans le cadre d’activités scolaires ou parascolaires. La Cour considère cette entraide minimaliste dans les circonstances.
+[32] Selon l’appelante, monsieur Cournoyer ne lui a jamais organisé de fête et ne lui a jamais offert de cadeaux.
+[33] Pour reprendre les propos du juge Rip dans l’affaire Aukstinaitis, précité, il semble que les contacts et échanges entre l'appelante et monsieur Cournoyer étaient plutôt minimes et limités à ce que l'on peut s'attendre de quiconque doit vivre et partager certains espaces avec une autre personne et essayer d'y vivre de façon civilisée. L’entraide entre l’appelante et monsieur Cournoyer apparaît minimaliste dans les circonstances.
+[34] La Cour est d’avis que la preuve ne permet pas de conclure que ce deuxième facteur porte atteinte à la position de l'appelante.
+Services
+Comment les intéressés agissaient-ils habituellement en ce qui concerne:
+a) la préparation des repas;
+b) le lavage et le raccommodage des vêtements;
+c) les courses;
+d) l'entretien du foyer;
+e) les autres services ménagers?
+[35] Selon les témoignages entendus, les adultes ne préparaient pas de repas ensemble. Monsieur Cournoyer se lève et se couche très tôt. Le soir venu, il préparait et mangeait le premier avec Jacob qui préférait habituellement la nourriture préparée par son père. L’appelante préparait son repas bien qu’il pouvait arriver à l’occasion qu’elle partage le repas préparé par monsieur Cournoyer. L’appelante a reconnu avoir mangé à l'occasion en même temps que lui bien que monsieur Cournoyer avait son propre horaire qui pouvait davantage accommoder Jacob. Cependant, aux dires mêmes de monsieur Cournoyer, ces occasions étaient rares. La vaisselle était l’affaire de chacun.
+[36] L’appelante ne s’occupait pas de la lessive de monsieur Cournoyer. Il avait accès à la salle de lavage et faisait sa propre lessive. Elle ne s’occupait pas non plus des vêtements de monsieur Cournoyer. Monsieur Cournoyer avait également accès à la cuisine, sa chambre, salle de bain, et selon l’appelante au salon, mais le moins possible. Madame s’occupait généralement de l’entretien ménager de la résidence à l’exception notamment de la chambre de monsieur Cournoyer dont il s’occupait lui-même. Monsieur Cournoyer pouvait être plus actif à l’extérieur lorsque les accumulations de neige étaient importantes.
+[37] Monsieur Cournoyer n’ayant pas de voiture. Il est possible que quelques fois ils aient pu se rendre ensemble pour effectuer chacun leur course. Les circonstances ont pu aussi justifier qu’ils partagent le coût de certains items, vivant après tout sous le même toit. À tout évènement, chacun faisait et payait sa propre épicerie. L’appelante assumait alors le coût de l’essence de sa voiture tout comme toutes les autres dépenses de la résidence, exception de certains moments où monsieur Cournoyer pouvait payer l’essence lorsqu’il lui était permis d’utiliser la voiture.
+[38] Monsieur Cournoyer n’assumait pas le travail ni le coût relatif à l’entretien et aux réparations que pouvait requérir la résidence. Ces travaux n’étaient pas accomplis par monsieur Cournoyer qui ne s’y intéressait généralement pas. L’appelante contactait plutôt son fils aîné en ce qui concerne ces travaux et ces réparations.
+[39] Dans l’ensemble, ce facteur apparaît favoriser l’absence d’une relation conjugale.
+Relations sociales
+a) Les intéressés participaient-ils ensemble ou séparément aux activités du quartier et de la collectivité?
+b) Quelle était la nature des rapports de chacun d'eux avec les membres de la famille de l'autre et comment agissaient-ils envers ces derniers, et inversement, quel était le comportement de ces familles envers les intéressés?
+[40] Selon le témoignage de l'appelante, elle ne faisait aucune activité sociale extérieure avec monsieur Cournoyer. À cet égard, aucun voyage n’a été évoqué. Les deux témoins à l’audition n’ont pas paru être très intéressés aux activités du quartier et de la collectivité. L’appelante a paru être une personne plutôt réservée, peu portée sur la vie du quartier et de sa collectivité.
+[41] Lorsque les parties formaient un couple, l’appelante admet qu’ils pouvaient fréquenter ensemble la famille de madame. Monsieur Cournoyer ne fréquente pas sa famille. Par contre, certains liens ont pu être maintenus avec la famille de l’appelante suite à l’échec de la relation conjugale. L’appelante a relaté l’exemple de la célébration du noël 2015 à la résidence Durocher, Gatineau au moment où monsieur Cournoyer y louait une chambre. La mère de l’appelante alors présente à la célébration avait invité monsieur Cournoyer à se joindre à eux alors que ce dernier n’y était pas au départ convié. Monsieur Cournoyer avait maintenu de bons rapports avec la mère de l’appelante, mais ne se sentait pas invité aux célébrations. Ce soir-là, l’appelante ne s’était pas opposée à ce que monsieur Cournoyer se joigne à eux. Monsieur Cournoyer a d’ailleurs précisé à son tour qu’étant une personne qui se couche tôt sa présence lorsqu’il pouvait être invité à un évènement s’avérait somme toute écourtée.
+[42] La Cour retient de ce facteur que monsieur Cournoyer avait conservé certains liens avec la famille de l’appelante. Il semble aussi que la présence lors ces rencontres de monsieur Cournoyer avec leur fils Jacob favorisait des relations plus cordiales. L’appelante n’a pas confirmé avoir conservé des liens avec la famille de monsieur Cournoyer.
+[43] Ce facteur n’apparaît pas à la Cour comme déterminant dans le cas présent. Certes monsieur Cournoyer a maintenu certains liens avec la famille de l’appelante. Toutefois, ces liens n’ont pas apparu à la Cour impliquer l’appelante, mais plutôt se produire en présence de monsieur Cournoyer accompagné de son fils Jacob.
+Attitude de la société
+Quelle attitude et quel comportement la collectivité avait-elle envers les intéressés, considérés individuellement et en tant que couple?
+[44] L’appelante a admis qu’à l’occasion rare d’une sortie en public les tiers pouvaient croire qu’elle et monsieur Cournoyer formaient des conjoints de fait. Ce constat pouvait d’autant plus être invitant puisqu’ils étaient alors accompagnés de Jacob. La Cour retient du témoignage de l’appelante que ces sorties en public se sont avérées rares plus particulièrement au cours des périodes et des années en litige. Dès que la question de conjoints de fait était soulevée, l’appelante affirme avoir toujours affirmé qu’ils ne formaient pas des conjoints de fait. L’appelante n’a jamais confirmé se présenter comme conjoints de fait. Monsieur Cournoyer a témoigné s’être toujours considéré célibataire incluant lors de la production des déclarations de revenu. Elle n’accompagnait pas non plus monsieur Cournoyer dans le cadre d’activités sociales ou encore pour visiter sa famille. Monsieur Cournoyer accompagné de son fils seulement sont les seules quelques occasions qui lui ont permis de se retrouver avec des membres de la famille de l’appelante.
+[45] En somme, ce facteur n’apparaît pas suffisamment déterminant dans le cas présent pour établir des conjoints de fait. Les activités ou occasions de s’afficher comme conjoints de fait sont somme toute isolées et totalement absentes dans le cas de la visite des familles respectives.
+Soutien (économique)
+Soutien économique
+a) Quelles dispositions financières les intéressés prenaient-ils pour ce qui était de fournir les choses nécessaires à la vie (vivres, vêtements, logement, récréation, etc.) ou de contribuer à les fournir?
+b) Quelles dispositions prenaient-ils relativement à l'acquisition et à la propriété de biens?
+c) Existait-il entre eux des arrangements financiers particuliers que tous deux tenaient pour déterminants quant à la nature de leurs relations globales?
+[46] Selon la preuve et sous réserve de ce qui suit, les dépenses relatives à la résidence et à la voiture de l’appelante étaient assumées entièrement par l’appelante. Durant les périodes et années en litige, un arrangement était en place entre l’appelante et monsieur Cournoyer en vertu duquel un loyer était versé par monsieur à l’appelante pour la location d’une chambre et l’accès à des pièces de la résidence Durocher, Gatineau. Bien que peu de détails ont été présentés lors des témoignages à l’audience tant quant à la façon dont cette mensualité avait été déterminée et ce qu’elle incluait, la Cour retient que le paiement habituellement mensuel effectué par monsieur Cournoyer était pour la location de sa chambre et les coûts de consommation de la résidence liés à son utilisation par lui. Chacun encourait ses propres dépenses récréatives, personnelles, et ses dépenses pour vivres et vêtements. L’appelante s’occupait aussi des dépenses de Jacob. Il n’y avait pas d’autre entente entre les parties.
+[47] Il est à noter que monsieur Cournoyer aurait connu au cours des périodes et des années en litige un intervalle sans emploi. Les témoignages ne sont pas clairs sur cet évènement ni sur la durée pertinente de cette période au cours des périodes et des années en litige. Pendant cette période monsieur Cournoyer n’aurait pas versé sa mensualité à l’appelante. L’appelante a mis en doute la durée de cet intervalle au cours de laquelle elle n’aurait pas reçu de compensation. Aussi, elle maintient qu’une compensation a été effectuée par monsieur Cournoyer lorsque sa situation économique s’est par la suite corrigée. Au surplus, monsieur Cournoyer a fait allusion lors de son témoignage au fait que lorsque cette période incertaine s’était terminée il a versé un montant plus important à l’appelante. La raison de ce montant supplémentaire est vague entre les parties. Par contre, le moment du début de cette compensation additionnelle versée à l’appelante correspond clairement à la période qui a suivi le retour sur le marché du travail de monsieur Cournoyer. La Cour considère que la durée de cet intervalle aux fins la période pertinente aurait excédé une année. La Cour retient donc que la preuve démontre que l’appelante a soutenu financièrement monsieur Cournoyer durant au moins une partie de cet intervalle incluse dans la période en litige, sous réserve d’une certaine compensation financière versée par la suite.
+[48] Le juge Rip dans l’affaire Aukstinaitis précitée avait rencontré une situation quelque peu similaire quant à un arrangement monétaire :
+Il n’est pas clair combien monsieur Mongeon contribuait financièrement pour cette cohabitation, mais il semble qu’il payait au moins pour l’excédent des coûts que sa présence occasionnait. À première vue, il est vrai qu’un tel arrangement puisse paraître « abusif » pour des gens n’habitant pas en union de fait. Néanmoins, il faut considérer que monsieur Mongeon est allé habiter chez l’appelante après avoir fait faillite et que cette dernière voulait qu’il puisse partir le plus tôt possible de chez elle.
+[49] Dans le cas présent, la Cour retient les motifs qui ont incité l’appelante à accepter cet arrangement avec monsieur Cournoyer bien qu’à certains moments elle a souhaité son départ. L’appelante était motivée au départ par l’aspect économique et les souhaits d’envisager le départ de monsieur Cournoyer sont devenus plus difficiles lorsque Jacob est informé par monsieur Cournoyer du souhait de l’appelante. D’ailleurs la Cour conserve un sentiment partagé sur la véritable intention de l’appelante d’avoir toléré cet arrangement locatif à tout le moins durant les périodes et années en litige. Monsieur Cournoyer à cet égard semble catégorique sur ses intentions de poursuivre l’arrangement locatif. Le témoignage de l’appelante à ce sujet présente une position beaucoup plus nuancée en suggérant que le désir de l’appelante était de mettre fin à l’arrangement financier avec monsieur Cournoyer, mais la chose compliquée par l’implication de Jacob. La Cour retient davantage le témoignage de l’appelante qui aux yeux de la Cour ne corrobore pas la position de monsieur Cournoyer.
+[50] De plus, il est clair pour la Cour que la contribution financière de monsieur Cournoyer ne visait pas directement les dépenses de l’appelante. Le partage des dépenses concernait les dépenses relatives à la résidence et non les dépenses personnelles de l'appelante.
+[51] Dans les circonstances, la Cour croit que le facteur économique comporte dans le cas présent des attributs mixtes.
+7. Enfants
+Quelle attitude et quel comportement les intéressés avaient-ils à l'égard des enfants?
+[52] Dans le cas sous étude, l’appelante et monsieur Cournoyer sont les parents de Jacob. Le fils aîné de l’appelante n’habitait pas dans la résidence rue Durocher, Gatineau au cours des périodes et des années en litige et le témoignage de monsieur Cournoyer n’a établi aucun lien avec l’aîné de l’appelante. Certes, il a été question de Jacob lors des témoignages à l’audience, mais l’emphase des propos a porté sur la situation des deux adultes. Toutefois, le fait demeure que Jacob contribue au maintien d’un lien entre ses parents.
+VII. Conclusion
+[53] Après avoir considéré l’ensemble de la preuve à l’audience, considéré les facteurs retenus par les tribunaux, soupesé les arguments de chaque partie, la Cour estime que l'appelante a apporté une preuve suffisamment convaincante, selon la prépondérance des probabilités, qu'elle ne vivait plus dans une relation conjugale avec monsieur Cournoyer aux cours des périodes et des années d’imposition en litige. La preuve testimoniale s’est avérée l’élément clé dans cette affaire.
+[54] Quelques facteurs militent en faveur du maintien de l'union de fait après la séparation survenue en 2005, mais la Cour est d’avis que la majorité des facteurs au cours des périodes et années d’imposition en litige tend vers la reconnaissance de la vie séparée du couple tout au long des périodes et années en litige. L’appréciation faite par la Cour de l’ensemble de la preuve favorise la position supportée par l’appelante qui somme toute se retrouve dans une situation unique.
+[55] Dans Molodowich, confirmée par la Cour suprême du Canada dans l’arrêt M c H, la cour précise que la mesure dans laquelle il sera tenu compte de chacun des sept éléments énumérés ci-dessus sera nécessairement fonction des circonstances de chaque cas. La Cour suprême du Canada dans M c H confirme entre autres que le poids à accorder aux divers éléments ou facteurs qui doivent être pris en considération pour déterminer une union conjugale variera grandement, presque à l’infini. Le genre humain n’est pas statique.
+[56] Pour la Cour, le témoignage de l'appelante est plus crédible et du fait corroboré par le témoignage de monsieur Cournoyer sous plusieurs aspects. Les explications de l’appelante quant aux éléments sensibles ou présentant des contradictions avec le témoignage de monsieur Cournoyer sont aussi plus crédibles et convaincantes.
+[57] La Cour accueille les appels. Les nouvelles déterminations et les nouvelles cotisations sont déférées au ministre du Revenu national pour nouvelles déterminations et nouvelles cotisations sur les bases suivantes :
+Annuler la réclamation d’un trop payé déterminé par la ministre eu égard aux années de base 2015, 2016 et 2017 au titre d’allocation canadienne pour enfants au montant de 247,16$, 532,68$ et 1 910,53$, respectivement, au motif que l’appelante ne vit pas en situation d’union de fait.
+Annuler la nouvelle détermination eu égard au titre d’allocation canadienne pour enfants eu égard à l’année de base 2018, au motif que l’appelante ne vit pas en situation d’union de fait.
+Accorder à chacune des années d’imposition 2016, 2017 et 2018 le crédit équivalent pour personne entièrement à charge que l'appelante a réclamé pour son enfant, au motif que l’appelante ne vit pas en situation d’union de fait.
+Annuler la pénalité pour faute lourde visée au paragraphe 163(2) LIR et imposée relativement aux années d’imposition 2016 et 2017 de l’appelante.
+Signé à Toronto, Ontario, ce 7e jour de février 2023.
+« J. M. Gagnon »
+Juge Gagnon
+RÉFÉRENCE :
+2023 CCI 21
+Nº DU DOSSIER DE LA COUR :
+2021-418(IT)I
+INTITULÉ DE LA CAUSE :
+MONIQUE GROULX ET SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Ottawa (Canada)
+DATE DE L’AUDIENCE :
+le 8 novembre 2022
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Jean Marc Gagnon
+DATE DU JUGEMENT :
+le 7 février 2023
+COMPARUTIONS :
+Pour l'appelante :
+l'appelante elle-même
+Avocate de l'intimé :
+Me Yvette Virok
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’intimé :
+François Daigle
+Sous-procureur général du Canada
+Ottawa, Canada

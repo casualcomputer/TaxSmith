@@ -1,0 +1,107 @@
+Title: 9050-8367 Québec Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27549/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-418-27549-9050-8367-qu-bec-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2005-08-16
+
+# 9050-8367 Québec Inc. c. La Reine
+
+- Citation: 2005 CCI 418
+- Decision date: 2005-08-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 111, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9050-8367 Québec Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-08-16
+Référence neutre
+2005 CCI 418
+Numéro de dossier
+2004-4298(GST)I
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2004-4298(GST)I
+ENTRE :
+9050-8367 QUÉBEC INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 22 juin 2005, à Québec (Québec).
+Devant : L'honorable juge François Angers
+Comparutions :
+Avocat de l'appelante :
+Me Daniel Petit
+Avocate de l'intimée :
+Me Gisèle Gauthier
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi sur la taxe d'accise, dont l'avis porte le numéro 226654, est daté du 10 septembre 2004 et vise la période du 1er septembre 1999 au 30 juin 2002, est rejeté, selon les motifs du jugement ci-joints.
+Signé à Edmundston (Nouveau-Brunswick), ce 16e jour d'août 2005.
+« François Angers »
+Juge Angers
+Référence : 2005CCI418
+Date : 20050816
+Dossier : 2004-4298(GST)I
+ENTRE :
+9050-8367 QUÉBEC INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Il s'agit d'un appel relatif à une cotisation établie le 12 novembre 2003 en vertu de la Loi sur la taxe d'accise (la « Loi » ). À la suite d'une opposition, un avis de nouvelle cotisation a été envoyé le 10 septembre 2004. Ces cotisations couvrent la période du 1er septembre 1999 au 30 juin 2002 (la « période » ).
+[2] La société 9050-8637 Québec Inc. ( « 9050 » ) est un inscrit aux fins de l'application de la taxe sur les produits et services ( « TPS » ). Durant la période en cause, 9050 exploitait un dépanneur avec station-service sous la raison sociale de Dépanneur Ouellet. Elle y effectuait des ventes de produits tels qu'épicerie et essence.
+[3] En avril 2003, l'intimée, par l'entremise de M. Clément Bernier, a procédé à une vérification relative à la période en litige. Certains écarts de TPS remis en trop pour les mois de septembre et d'octobre 1999 ont été constatés, de même que des écarts de crédits de taxe sur les intrants ( « CTI » ) réclamés en trop pour les mois de septembre, d'octobre et de décembre 1999. Pour la période se terminant le 30 septembre 1999, le vérificateur a constaté que deux montants identiques de CTI, de 4 040,73 $, avaient été réclamés et qu'il s'agissait d'une réclamation en double.
+[4] À la suite de l'avis d'opposition déposé par 9050, le vérificateur a constaté, après l'analyse de la conciliation des comptes de taxe du grand livre fournie par l'appelante, qu'il n'y avait pas d'écart autre que celui relatif au montant de CTI de 4 040,73 $ réclamé en double par l'appelante pour la période se terminant le 30 septembre 1999.
+[5] La société 9050 ne conteste pas le fait qu'elle a réclamé en double un CTI de 4 040,73 $ pour la période se terminant le 30 septembre 1999. Elle repose son motif d'appel uniquement sur le fait que la cotisation établie le 12 novembre 2003 ne respectait pas le délai prescrit dans la Loi et qu'en conséquence cette cotisation ne pouvait être établie à son égard.
+[6] Après avoir terminé sa vérification, M. Bernier a remis au comptable de 9050 un projet de cotisation, avec explication, daté du 23 juillet 2003. Ce projet invitait l'appelante à produire des faits nouveaux ou des observations dans les 21 jours suivant sa réception. Après avoir communiqué avec le comptable pour lui demander s'il avait de nouveaux éléments à apporter, et vu le fait que le comptable lui a dit ne pas avoir eu le temps de travailler dans le dossier, le vérificateur lui a fait parvenir un projet de renonciation afin de faire prolonger le délai de prescription. La renonciation n'a pas été signée et le comptable de l'appelante a dit à M. Bernier de fermer son dossier. La cotisation en litige a alors été établie le 12 novembre 2003.
+[7] Les déclarations de 9050 aux fins de la TPS ont été faites mensuellement jusqu'à la fin de 1999. Pour ce qui est du mois de septembre 1999, la date d'échéance pour sa production était le 1er novembre 1999. Le formulaire de déclaration de l'appelante produit en preuve pour la période du 1er au 30 septembre 1999 le confirme. Ce même formulaire, par contre, n'indique pas la date de sa signature par le représentant de 9050. Il indique par contre la date de sa réception au bureau du ministère comme étant le 15 novembre 1999.
+[8] Selon l'agent des oppositions, Alain Therrien, les formulaires de déclaration produits par l'appelante durant la période entre le 31 janvier 1998 et le 31 décembre 2002 permettent de constater que l'appelante avait toujours de la TPS à remettre au ministère sauf dans quatre cas, dont un seul où un montant appréciable est indiqué, ce cas étant la période se terminant le 30 septembre 1999. Un formulaire antérieur à cette date indique un remboursement de 48,47 $ alors que celui de septembre indique 2 086,34 $. M. Therrien a par la suite expliqué comment la réclamation d'un CTI en double a pu se produire. Selon son appréciation, l'appelante aurait dû se questionner sur cette erreur puisqu'elle était évidente.
+[9] Il s'agit donc de déterminer si la cotisation établie le 12 novembre 2003 est prescrite. En l'espèce, l'appelante était tenue de présenter une déclaration au ministre pour chacune de ses périodes de déclaration dans un délai d'un mois suivant la fin de la période de déclaration. Elle devait donc produire sa déclaration pour septembre 1999 le 1er novembre 1999, date d'ailleurs qui est indiquée sur le formulaire de déclaration fourni à l'appelante par le ministère concerné. Or, en l'espèce et selon le formulaire de déclaration de l'appelante, la déclaration n'a été reçue au ministère que le 15 novembre 1999 (onglet 8). Ce même formulaire aurait dû être daté par son auteur au moment où il a été signé, mais aucune date n'y est inscrite. Le sous-alinéa 298(1)a)(i) de la Loi établit la période où il est permis d'établir une cotisation en application de l'article 296. Ce sous-alinéa se lit comme suit :
+Sous réserve des paragraphes (3) à 6.1), une cotisation ne peut être établie à l'égard d'une personne en application de l'article 296 après l'expiration des délais suivants :
+a) s'agissant d'une cotisation visant l'un des montants suivants, quatre ans après le dernier en date du jour où la personne était tenue par l'article 238 de produire une déclaration pour la période et du jour de la production de la déclaration :
+(i) la taxe nette de la personne pour sa période de déclaration.
+[10] En d'autres mots, cet alinéa permet d'établir la date à partir de laquelle se calcule le délai de prescription de quatre ans pour l'établissement d'une cotisation. Cette date de commencement est la dernière de la date d'échéance pour la production et de la date où la déclaration a effectivement été produite. Or, en l'espèce, la dernière de ces dates est celle de la production de la déclaration auprès du ministère concerné, soit le jour où la déclaration a été reçue, c'est-à-dire le 15 novembre 1999. Si la déclaration avait été produite à la date d'échéance ou même plus tôt, la dernière des deux dates aurait été le 1er novembre 1999. En l'espèce, il fallait donc établir la cotisation dans les quatre ans à partir du 15 novembre 1999. Par conséquent, le délai pour établir une cotisation à l'égard de l'appelante n'était pas expiré le 12 novembre 2003.
+[11] Cette interprétation est celle qui a été retenue par la Cour d'appel fédérale dans l'arrêt Gaétan Paquet c. Sa Majesté la Reine, 2004 CAF 391, où le juge Noël disait que le paragraphe 298(1) ne pourrait être plus clair, et je cite :
+2 Cette disposition fait courir la prescription à compter du dernier en date du jour où la personne était tenue de produire sa déclaration et du jour où elle l'a produite. L'interprétation que propose l'appelant ferait en sorte que la prescription courrait à compter de la date où il était tenu de déposer sa déclaration, sans égard au fait qu'il ne l'a toujours pas produite.
+3 Il faudrait ignorer les mots clairs et non équivoques de cette disposition pour en arriver à cette interprétation, chose que la Cour s'est refusée de faire dans l'affaire Déziel c. Canada, [2004] A.C.F. no. 528, décision par laquelle nous sommes par ailleurs liés.
+4 Il est utile d'ajouter que le paragraphe 298(1) s'inscrit dans ce système d'autocotisation selon lequel il incombe à celui qui se procure des fournitures pour soi-même d'en faire la déclaration. L'appelant, en se plaignant du fait que la prescription ne court toujours pas à son égard, ne fait qu'invoquer sa propre turpitude. Au surplus, l'interprétation qu'il nous propose agirait comme incitatif à ne pas déclarer, chose qui évidemment n'était pas voulue.
+[12] L'avocat de l'appelante a mis en question l'authenticité de la date de réception du formulaire de déclaration, soutenant que le ministère pourrait jouer avec cette date dans le but de s'accorder un délai additionnel. Aucune preuve n'a été produite pouvant mettre en doute la date de réception, qui en l'occurrence est la date de production. Encore faudrait-il que le ministère, pour jouer avec les dates, puisse envisager quatre ans à l'avance un problème de délai dans l'établissement d'une cotisation. Cet argument est donc sans fondement.
+[13] En raison des motifs exposés ci-dessus, il ne m'est pas nécessaire de me pencher sur la question de savoir si l'appelante a fait une présentation erronée des faits par négligence, inattention ou omission volontaire. Dans une telle circonstance, une cotisation peut être établie à tout moment (voir paragraphe 298(4) de la Loi). Qu'il me suffise de dire qu'en l'espèce non seulement y-a-t-il eu admission de l'erreur commise par l'appelante en réclamant en double, pour la période se terminant le 30 septembre 1999, un CTI de 4 040,73 $, mais l'agent des oppositions a en plus témoigné qu'il s'agissait d'une erreur assez évidente qui aurait dû inciter l'appelante à se questionner, comme le démontre la preuve.
+[14] Pour ces motifs, l'appel est rejeté.
+Signé à Edmundston (Nouveau-Brunswick), ce 16e jour d'août 2005.
+« François Angers »
+Juge Angers
+RÉFÉRENCE : 2005CCI418
+N º DU DOSSIER DE LA COUR : 2004-4298(GST)I
+INTITULÉ DE LA CAUSE : 9050-8367 QUÉBEC INC. ET SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Québec (Québec)
+DATE DE L'AUDIENCE : le 22 juin 2005
+MOTIFS DE JUGEMENT PAR : L'honorable juge François Angers
+DATE DU JUGEMENT : le 16 août 2005
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Daniel Petit
+Avocate de l'intimée :
+Me Gisèle Gauthier
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom : Me Daniel Petit
+Étude : Petit Beaudoin Gaucher Robert Rousseau
+& Vaillancourt, Charlesbourg (Québec)
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Ontario

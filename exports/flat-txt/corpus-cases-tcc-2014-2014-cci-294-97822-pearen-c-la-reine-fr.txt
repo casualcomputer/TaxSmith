@@ -1,0 +1,107 @@
+Title: Pearen c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/97822/index.do
+Corpus path: corpus/cases/tcc/2014/2014-cci-294-97822-pearen-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2014-10-01
+
+# Pearen c. La Reine
+
+- Citation: 2014 CCI 294
+- Decision date: 2014-10-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5172, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pearen c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-10-01
+Référence neutre
+2014 CCI 294
+Numéro de dossier
+2014-692(IT)I
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2014-692(IT)I
+ENTRE :
+Scott Pearen,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 11 septembre 2014, à Vancouver (Colombie‑Britannique).
+Devant : L’honorable juge Lucie Lamarre
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Shankar Kamath
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie au titre de la Loi de l’impôt sur le revenu pour l’année d’imposition 2012 est accueilli afin qu’il soit tenu compte des sommes concédées par l’intimée à l’audience. L’appelant a droit à un crédit pour frais médicaux de 10 524 $.
+Signé à Ottawa, Canada, ce 1er jour d’octobre 2014.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 20e jour d’octobre 2014.
+Marie-Christine Gervais, traductrice
+Référence : 2014 CCI 294
+Date : 20141001
+Dossier : 2014-692(IT)I
+ENTRE :
+Scott Pearen,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] L’appelant a demandé un crédit d’impôt pour frais médicaux relativement à des frais médicaux s’élevant à 29 220 $ supportés au cours de son année d’imposition 2012.
+[2] De ce total, 26 869,30 $ ont été payés à SCI Healthcare (« SCI ») pour l’implantation d’un embryon dans une mère porteuse (un ovule d’une donneuse fécondé par l’appelant) dans le but de concevoir un enfant.
+[3] SCI étant située en Inde, l’appelant a aussi déduit des frais de 1 364,48 $ pour se rendre en Inde et déduit un total de 408 $ pour les repas qu’il a pris au cours de son séjour de 8 jours en Inde. Il a expliqué qu’il avait dû se rendre en Inde afin de faire l’objet d’actes médicaux pour l’intervention relative à la mère porteuse.
+[4] Il a produit la pièce A‑1, qui est une ventilation des frais qu’il a payés pour les services de SCI. Il a expliqué que les services in vitro et les services d’embryologie fournis avaient trait au processus de fécondation in vitro auquel il avait participé personnellement, étant donné que son sperme avait été utilisé pour créer l’embryon à implanter dans la mère porteuse.
+[5] L’intimée a concédé à l’audience que ces frais (totalisant 8 173 $CAN) et les frais de déplacement supportés afin d’aller en Inde pour l’intervention (les frais de déplacement de 1 364 $ et les frais de repas de 408 $) étaient déductibles en vertu des alinéas 118.2(2)g), h) et o) de la Loi de l’impôt sur le revenu (la « LIR »). En outre, par suite de cette concession, la déduction des frais relatifs à des soins de la vue de 579,15 $ supportés par l’appelant, qui avait initialement été refusée, a été accordée au titre des frais médicaux admissibles, étant donné que le total des frais médicaux était supérieur à 3 % du revenu de l’appelant pour l’année, une condition devant être remplie selon le paragraphe 118.2(1) de la LIR.
+[6] Le reste des frais dont la déduction a été refusée avaient trait aux frais payés relativement à la mère porteuse.
+[7] Pour les motifs énoncés dans l’affaire relative au dossier de Todd Edward Zanatta (2014‑562(IT)I) que j’ai entendue le même jour que la présente affaire et dans laquelle les mêmes arguments ont été soulevés, je conviens avec l’intimée qu’aucun des frais liés à la mère porteuse ne sont déductibles au titre de l’alinéa 118.2(2)a) de la LIR.
+[8] L’appel est donc accueilli afin qu’il soit tenu compte des sommes concédées par l’intimée à l’audience. L’appelant a droit à un crédit pour frais médicaux de 10 524 $ (8 173 $ + 1 364 $ + 408 $ + 579 $).
+Signé à Ottawa, Canada, ce 1er jour d’octobre 2014.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 20e jour d’octobre 2014.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE :
+NO DU DOSSIER DE LA COUR :
+2014-692(IT)I
+INTITULÉ :
+Scott Pearen c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE :
+Le 11 septembre 2014
+MOTIFS DU JUGEMENT :
+L’honorable juge Lucie Lamarre
+DATE DU JUGEMENT :
+Le 1er octobre 2014
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Shankar Kamath
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

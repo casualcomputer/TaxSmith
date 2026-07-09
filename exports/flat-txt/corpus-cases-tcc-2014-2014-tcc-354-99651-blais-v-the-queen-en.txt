@@ -1,0 +1,123 @@
+Title: Blais v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/99651/index.do
+Corpus path: corpus/cases/tcc/2014/2014-tcc-354-99651-blais-v-the-queen-en.md
+Document type: case_law
+Last modified: 2014-11-25
+
+# Blais v. The Queen
+
+- Citation: 2014 TCC 354
+- Decision date: 2014-11-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5222, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Blais v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-11-25
+Neutral citation
+2014 TCC 354
+File numbers
+2012-2730(IT)I
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-2730(IT)I
+BETWEEN:
+Guy Blais,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeals called for hearing on November 18, 2014, at Shawinigan, Quebec.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+For the appellant:
+No one appeared
+Counsel for the respondent:
+Emmanuel Jilwan
+JUDGMENT
+Whereas the appellant was not present when the case was called, although duly notified of the time and place of the hearing;
+Whereas the request for an adjournment filed by the appellant on November 13, 2014, to which the respondent had objected, was denied by the Chief Justice of this Court, and the appellant had been informed by letter mailed on November 14, 2014, of the denial of the adjournment (this Court's hearings coordinator being unable to reach the appellant by telephone because the number provided by the appellant was not in service);
+Whereas no one appeared on behalf of the appellant;
+Whereas an oral motion was brought to dismiss the appeals;
+The appeals from the reassessments made under the Income Tax Act for the 2004, 2005 and 2006 taxation years are dismissed for want of prosecution.
+Costs are awarded to the respondent under sections 10 et seq. of the Tax Court of Canada Rules (Informal Procedure).
+Signed at Ottawa, Canada, this 25th day of November 2014.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+On this 7th day of January 2015
+Margarita Gorbounova, Translator
+Citation: 2014 TCC 354
+Date: 20141125
+Docket: 2012-2730(IT)I
+BETWEEN:
+Guy Blais,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre J.
+[1] On June 28, 2012, the appellant filed a Notice of Appeal from reassessments for 2004, 2005 and 2006 regarding unreported income.
+[2] The appellant stated in the Notice that he had received advances and loans that should not be part of the additional income added by the Minister of National Revenue (the Minister), but never provided any documentation in support of these claims.
+[3] Based on the correspondence on the Court’s record, it can be seen that the respondent tried to contact the appellant several times.
+[4] Before filing his Reply to the Notice of Appeal on August 20, 2012, counsel for the respondent had asked the appellant for relevant documentation and had received no reply.
+[5] The first hearing was scheduled for June 25, 2013. Before that hearing, counsel for the respondent again tried to contact the appellant twice in writing as well as by leaving several voicemail messages, but never received a reply.
+[6] On the day of the hearing, June 25, 2013, the appellant failed to appear, and Justice Archambault of this Court dismissed the appeal with costs of $1,000 to the respondent. The judgement was signed on July 8, 2013.
+[7] On December 27, 2013, the appellant filed a motion to set the judgment aside.
+[8] The respondent objected to it in a letter dated January 20, 2014. Counsel for the respondent maintained at that time that the appellant was still not returning his calls, except twice without leaving a number he could be reached at.
+[9] The motion to set the judgment aside was scheduled to be heard on March 13, 2014, and the appellant failed to appear. I dismissed the motion the same day.
+[10] On March 14, 2014, the appellant came to the Court and said that he had been at the wrong courtroom the day before. After listening to his explanations, I gave him a chance and allowed his motion. I signed an order on March 21, 2014, setting aside the judgment dated July 8, 2013, and rescheduled the appeal to be heard on November 18, 2014.
+[11] On November 13, 2014, the appellant made an adjournment request stating that he had to undergo prostate surgery in the following weeks and attaching a medical note.
+[12] Counsel for the respondent objected arguing that the medical note does not indicate that the appellant could not appear at his trial on November 18, 2014. In addition, he argued that the appellant still had not provided any documentation in support of his claims.
+[13] The Chief Justice of this Court denied the adjournment request, and the Court's registry staff were not able to reach the appellant at the telephone number he had provided.
+[14] The letter informing him that the adjournment had been denied was mailed on Friday, November 14, 2014.
+[15] I am of the view that, by providing an incorrect telephone number, the appellant failed to take the measures needed for the Court to be able to inform him as soon as possible of the Chief Justice's denial of his request for adjournment.
+[16] The medical note did not state that the appellant was unable to appear in court on November 18, 2014.
+[17] This file has been open for over two years, and the appellant has shown a lack of interest and concern with regard to his appeal to the Court. The appellant failed to return the calls of counsel for the respondent and to co-operate with the respondent regarding the documentation needed in order to potentially settle this file, gave the Court the wrong telephone number, and failed to appear on the scheduled hearing date for a second time.
+[18] Therefore, I am of the view that the appeals should be dismissed for want of prosecution, with costs to the respondent.
+Signed at Ottawa, Canada, this 25th day of November 2014.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+On this 7th day of January 2015
+Margarita Gorbounova, Translator
+CITATION:
+2014 TCC 354
+COURT FILE NO:
+2012-2730(IT)I
+STYLE OF CAUSE:
+Guy Blais AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Shawinigan, Quebec
+DATE OF HEARING:
+November 18, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT:
+November 25, 2014
+APPEARANCES:
+For the appellant:
+No one appeared
+Counsel for the respondent:
+Emmanuel Jilwan
+COUNSEL OF RECORD:
+For:
+Name:
+Firm:
+For the respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

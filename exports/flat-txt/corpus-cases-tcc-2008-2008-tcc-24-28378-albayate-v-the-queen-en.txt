@@ -1,0 +1,312 @@
+Title: Albayate v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28378/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-24-28378-albayate-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-01-14
+
+# Albayate v. The Queen
+
+- Citation: 2008 TCC 24
+- Decision date: 2008-01-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1897, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Albayate v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-01-14
+Neutral citation
+2008 TCC 24
+File numbers
+2007-2616(IT)I
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-2616(IT)I
+BETWEEN:
+FAROUK A. ALBAYATE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of Loretta Albayate (2007‑2617(IT)I) on November 22, 2007 at Vancouver, British Columbia
+Before: The Honourable Justice L.M. Little
+Appearances:
+Agent for the Appellant:
+Loretta Albayate
+Counsel for the Respondent:
+Bruce Senkpiel
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2003 and 2004 taxation years are dismissed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 14th day of January 2008.
+"L.M. Little"
+Little J.
+Docket: 2007-2617(IT)I
+BETWEEN:
+LORETTA ALBAYATE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of Farouk A. Albayate (2007‑2616(IT)I) on November 22, 2007 at Vancouver, British Columbia
+Before: The Honourable Justice L.M. Little
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Bruce Senkpiel
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2003 and 2004 taxation years are dismissed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 14th day of January 2008.
+"L.M. Little"
+Little J.
+Citation: 2008TCC24
+Date: 20080114
+Dockets: 2007-2616(IT)I
+2007-2617(IT)I
+BETWEEN:
+FAROUK A. ALBAYATE,
+LORETTA ALBAYATE,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little J.
+A. FACTS
+[1] The Appellants are husband and wife.
+[2] The appeals were heard in Vancouver, British Columbia on common evidence.
+[3] In May 2003 the Appellants each purchased a one-half interest in a property located at 396 South Fletcher, in the town of Gibsons, British Columbia. The purchase price was $145,000. (The property located in Gibsons is hereinafter referred to as the “Property”.)
+[4] It is agreed by the parties that at the time of the purchase the Property was in very bad shape. The Property was uninhabitable and had been used as a “grow-op” for the production of drugs for a period of time and at other times by numerous transient tenants.
+[5] The Property is a two storey home containing 1300 square feet on level one and 1300 square feet on level two.
+[6] The parties also agree that the Appellants originally purchased the Property as their personal residence but due to financial constraints they decided to rent out level one of the Property.
+[7] Subsequent to the purchase, the Appellants spent a substantial sum of money carrying out extensive repairs to the Property.
+[8] In filing their income tax returns for the 2003 and 2004 taxation years, the Appellants reported the following rental losses:
+2003
+2004
+Farouk A. Albayate
+$8,973
+$11,669
+Loretta Albayate
+$8,973
+$15,327
+[9] By Notices of Assessment dated April 1, 2004 and March 30, 2005, the Minister of National Revenue (the “Minister”) initially assessed the 2003 and 2004 tax returns of the Appellants as filed.
+[10] By Notices of Reassessment dated July 27, 2006, the Minister revised the rental losses claimed by the Appellants in 2003 and 2004. The following adjustments were made by the Minister:
+Farouk A. Albayate
+2003 Taxation Year
+2004 Taxation Year
+Per Appellant
+Audit
+Adjustment
+Per Appellant
+Audit
+Adjustment
+Gross Rent
+$4,200
+$4,200
+nil
+$8,400
+$8,400
+nil
+Expenses
+-$22,147
+-$5,782
+$16,365
+-$35,396
+$7,899
+$27,497
+Net Income (loss)
+-$17,947
+-$1,582
+-$26,996
+$501
+50/50 split
+-$8,973
+-$791
+-$13,498
+$251
+Reported by Appellant
+-$8,973
+-$791
+$8,182
+-$11,669
+$251
+$11,920
+Loretta Albayate
+2003 Taxation Year
+2004 Taxation Year
+Per Appellant
+Audit
+Adjustment
+Per Appellant
+Audit
+Adjustment
+Gross Rent
+$4,200
+$4,200
+nil
+$8,400
+$8,400
+nil
+Expenses
+-$22,147
+-$5,782
+$16,365
+-$35,396
+$7,899
+$27,497
+Net Income (loss)
+-$17,947
+-$1,582
+-$26,996
+$501
+50/50 split
+-$8,973
+-$791
+-$13,498
+$251
+Reported by Appellant
+-$8,973
+-$791
+$8,182
+-$15,327
+$251
+$15,577
+[11] In revising the rental losses claimed by the Appellants for the 2003 and 2004 taxation years, the Minister adjusted the following expenses:
+Farouk A. Albayate:
+2003 Taxation Year
+(a) disallowed insurance expense - $2,066;
+(b) disallowed repairs and maintenance - $13,999; and
+(c) disallowed interest expense - $300.
+2004 Taxation Year
+Disallowed repairs and maintenance - $28,830.
+Loretta Albayate:
+2003 Taxation Year
+(a) disallowed insurance expense - $2,066;
+(b) disallowed repairs and maintenance - $13,988; and
+(c) disallowed interest expense - $300.
+2004 Taxation Year
+Disallowed repairs and maintenance - $28,830.
+B. ISSUE
+[12] The issue to be determined is whether the Appellants are entitled to deduct rental expenses in excess of the amounts already allowed by the Minister in determining rental income for the 2003 and 2004 taxation years.
+C. ANALYSIS AND DECISION
+(A) Disallowed Insurance Expense
+2003
+Farouk A. Albayate
+$2,066
+Loretta Albayate
+$2,066
+[13] The insurance expense claimed by the Appellants relates to a guarantee fee paid to the Canada Mortgage and Housing Corporation with respect to a mortgage on the Property with a term of five years.
+[14] The Minister determined that this fee should be allowed over a five year period. The Minister allowed the Appellants to deduct 20% of the fee in 2003 and 20% of the fee in 2004.
+[15] Because the fee claimed related to a mortgage with a term of five years, I believe that the position adopted by the Minister of allowing a deduction of 20% per year was correct. The appeal on this issue is dismissed.
+(B) Disallowed Repairs and Maintenance
+2003
+2004
+Farouk A. Albayate
+$13,999
+$28,830
+Loretta Albayate
+$13,988
+$28,830
+[16] The Appellants claim that the expenses spent on the Property in 2003 and 2004 were ordinary repairs that should be deductible in the year that the expenses were incurred. Counsel for the Respondent maintains that the expenses that were claimed were capital in nature and not deductible because of the prohibitions contained in paragraph 18(1)(b) of the Income Tax Act (the “Act”).
+[17] Paragraph 18(1)(b) of the Act reads as follows:
+18.(1) In computing the income of a taxpayer from a business or property no deduction shall be made in respect of
+…
+(b) an outlay, loss or replacement of capital, a payment on account of capital or an allowance in respect of depreciation, obsolescence or depletion except as expressly permitted by this Part;
+[18] The repairs in question made by the Appellants included the following items to level one of the Property:
+· a new refrigerator;
+· a new stove and microwave;
+· a new washer and dryer;
+· a new fireplace;
+· new doors and windows and new locks on the doors and windows;
+· new electric wiring and light fixtures
+· new plumbing and a new bathroom;
+· new furniture;
+· a new deck;
+· a new fence;
+· new flooring;
+· a new kitchen;
+and related labour costs.
+(Note – During the hearing Loretta Albayate conceded that the new stove, the new refrigerator and the new furniture should not be treated as repairs but as capital outlays.)
+[19] In support of the Minister’s position, that the amounts claimed as repairs were capital outlays, counsel for the Respondent referred to the decision of the Supreme Court of Canada in M.N.R. v. Haddon Hall Realty Inc., 62 DTC 1001.
+[20] The facts and issue in that case may be summarized as follows:
+1. The Respondent owned and operated a large apartment building in Montreal.
+2. Each year the Respondent incurred expenses for the replacement of stoves, refrigerators and window blinds which had become worn out, obsolete or unsatisfactory to the tenants.
+[21] In the Haddon Hall decision at pages 1001 and 1002, Justice Abbott said:
+…The sole matter in issue here is whether such expenditures were an income expense incurred to earn the income of the year 1955 and allowable as a deduction from gross income in that year under s. 12(1)(a) of the Income Tax Act, or a capital outlay to be amortized or written off over a period of years under the capital cost allowance regulations made under s. 11(1)(b) of the said Act.
+The general principles to be applied in determining whether a given expenditure is of a capital nature are fairly well established: Montreal Light Heat and Power Consolidated v. Minister of National Revenue; British Columbia Electric Railway Company Limited v. Minister of National Revenue. Among the tests which may be used in order to determine whether an expenditure is an income expense or a capital outlay, it has been held that an expenditure made once and for all with a view to bringing into existence an asset or an advantage for the enduring benefit of a trade is of a capital nature.
+Expenditures to replace capital assets which have become worn out or obsolete are something quite different from those ordinary annual expenditures for repairs which fall naturally into the category of income disbursements. Applying the test to which I have referred to the facts of the present case, the expenditures totalling $11,675.95, made by respondent in the year 1955 for replacing refrigerators, stoves and blinds in its apartment building were, in my opinion, clearly capital outlays within the provisions of s. 12(1)(b) of the Act.
+The appeal should be allowed, the judgments of the Exchequer Court and the Income Tax Appeal Board set aside and the assessment restored.
+Appeal allowed.
+[22] Counsel for the Respondent also referred to the decision of the Federal Court of Appeal in Fiore et al. v. The Queen, 93 DTC 5215.
+[23] The facts in the Fiore case indicate that the Appellants purchased two properties in 1984 for the price of $107,000. The facts also indicate that at the date of purchase the properties were in poor condition and the Appellants at once set about renovating the properties.
+[24] In the Fiore decision at page 5216, Justice Létourneau said:
+Where, as in the instant case, property is bought for a price ($107,000) below its ordinary capital value at the time of the purchase ($263,380 in 1983) and the expenses are necessary because of the condition of the buildings and are incurred to restore them to their ordinary value, we consider that those expenses are capital in nature.
+Further, the evidence in the record disclosed that the work done by the applicants considerably exceeded that of maintenance and repair done to preserve a capital asset, and in fact involved a significant improvement to that asset. Whereas the ordinary capital value of the buildings purchased was $263,380 in 1983, that of the renovated buildings had risen to $437,453 in 1988. The scope of the improvements made can be seen from the 1983 and 1988 valuation reports. Accordingly, there are now poured concrete foundations that did not exist before. Hardwood floors replaced plywood floors. Ceramic tile took the place of vinyl tile and linoleum. A low-amperage, obsolete electrical system (60 amperes) was replaced by a modern and more powerful system (125 amperes). Walls and ceilings were improved by using gypsum plaster board to replace prefit, plaster and plywood.
+These are only a few examples of the improvements which led the Tax Court of Canada judge to conclude that the property in question had become new property and that the expenses amounting to $174,150 were capital expenses. In the circumstances, this Court cannot find that this conclusion was arbitrary or unreasonable.
+[25] In this situation Loretta Albayate gave the following information concerning the Property:
+Assessed Value in July 2002
+-
+$162,800
+Our Purchase Price May 2003
+-
+$145,000
+Assessed Value in July 2003
+-
+$189,000
+Assessed Value in July 2004
+-
+$267,000
+Assessed Value in July 2005
+-
+$332,000
+(see Exhibit R-3)
+[26] During the hearing the Appellant, Loretta Albayate, said that in 2005 she and her husband fixed up the exterior of the Property. The work carried out on the Property in 2005 included a new roof, new vinyl siding, new soffits and new eavestroughing.
+[27] After considering the nature of the Property at the time of purchase and the extensive renovations to the Property carried out in 2003, 2004 and 2005, I have concluded that the expenses claimed in 2003 and 2004 were capital expenses and that the deduction of these expenses is prohibited by paragraph 18(1)(b) of the Act.
+[28] In reaching my conclusion, I also note that the assessed value of the Property at the time of the purchase in 2003 was $162,800 and the purchase price of $145,000 was lower than the assessed value. After the renovations made by the Appellants to the Property the assessed value of the Property in July 2005 was $332,000. This increase in the value of the Property after the renovations is similar to the situation referred to by Justice Létourneau in Fiore.
+(C) Disallowed Interest Expense
+2003
+Farouk A. Albayate
+$300
+Loretta Albayate
+$300
+[29] The interest expense claimed was interest paid on credit cards.
+[30] The evidence is that the credit cards were used by the Appellants to pay for the renovations.
+[31] Since I have concluded that the repairs that were claimed were non‑deductible capital expenses, the interest that has been claimed is not deductible.
+[32] The appeals are dismissed, without costs.
+Signed at Vancouver, British Columbia, this 14th day of January 2008.
+“L.M. Little”
+Little J
+CITATION: 2008TCC24
+COURT FILE NOS.: 2007-2616(IT)I
+2007-2617(IT)I
+STYLE OF CAUSE: Farouk A. Albayate and Loretta Albayate
+v. Her Majesty The Queen
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: November 22, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice L.M. Little
+DATE OF JUDGMENT: January 14, 2008
+APPEARANCES:
+Agent for the Appellants:
+Loretta Albayate
+Counsel for the Respondent:
+Bruce Senkpiel
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,387 @@
+Title: Donaldson v. The King
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521023/index.do
+Corpus path: corpus/cases/tcc/2022/2022-tcc-159-521023-donaldson-v-the-king-en.md
+Document type: case_law
+Last modified: 2022-12-09
+
+# Donaldson v. The King
+
+- Citation: 2022 TCC 159
+- Decision date: 2022-12-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5818, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Donaldson v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-12-09
+Neutral citation
+2022 TCC 159
+File numbers
+2016-1624(IT)G, 2016-3617(GST)G
+Judges and Taxing Officers
+David E. Spiro
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-1624(IT)G
+BETWEEN:
+DAVID DONALDSON,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on common evidence with the appeal of
+David Donaldson – 2016-3617(GST)G
+on November 15 and 16, 2022, at Calgary, Alberta
+Before: The Honourable Justice David E. Spiro
+Appearances:
+Counsel for the Appellant:
+Stephen Panunto
+Counsel for the Respondent:
+Damon Park and Mihai Beschea
+JUDGMENT
+The appeal from the assessment of May 3, 2012, made under subsection 227.1(1) of the Income Tax Act is dismissed, with costs.
+The Respondent is entitled to a single set of costs for this appeal and the related appeal in 2016-3617(GST)G. If the parties cannot agree on costs, I will receive written submissions on or before January 13, 2023 not exceeding five
+pages. If I receive no submissions, the Respondent is entitled to a single set of costs under the Tariff.
+Signed at Ottawa, Canada, this 9th day of December 2022.
+“David E. Spiro”
+Spiro J.
+Docket: 2016-3617(GST)G
+BETWEEN:
+DAVID DONALDSON,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on common evidence with the appeal of
+David Donaldson – 2016-1624(IT)G
+on November 15 and 16, 2022, at Calgary, Alberta
+Before: The Honourable Justice David E. Spiro
+Appearances:
+Counsel for the Appellant:
+Stephen Panunto
+Counsel for the Respondent:
+Damon Park and Mihai Beschea
+JUDGMENT
+The appeal of the assessment of May 3, 2012, made under subsection 323(1) of the Excise Tax Act is allowed, with costs to the Respondent. The assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the amount certified by the Federal Court on August 16, 2011 as payable under the Excise Tax Act by Robyn’s Transportation & Distribution Services Ltd. that has not been paid was $122,525.43.
+The Respondent is entitled to a single set of costs for this appeal and the related appeal in 2016-1624(IT)G. If the parties cannot agree on costs, I will receive written submissions on or before January 13, 2023 not exceeding five pages. If I receive no submissions, the Respondent is entitled to a single set of costs under the Tariff.
+Signed at Ottawa, Canada, this 9th day of December 2022.
+“David E. Spiro”
+Spiro J.
+Citation No.: 2022 TCC 159
+Date: 20221209
+Dockets: 2016-1624(IT)G
+2016-3617(GST)G
+BETWEEN:
+DAVID DONALDSON,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Spiro J.
+[1] The only issue is whether the Appellant, Mr. David Donaldson, exercised the degree of care, diligence and skill to prevent the failure by Robyn’s Transportation and Distributions Services Ltd. (the “Company”) of Calgary, Alberta to remit net tax under the Excise Tax Act (the “ETA”) and source deductions under the Income Tax Act (the “ITA”) that a reasonably prudent person would have exercised in comparable circumstances.
+[2] The Minister of National Revenue (the “Minister”) assessed Mr. Donaldson as a director of the Company in respect of the Company’s failure to remit net tax under subsection 323(1) of the ETA and source deductions under subsection 227.1(1) of the ITA.
+[3] The amounts assessed against Mr. Donaldson were $150,684.86 under subsection 323(1) of the ETA and $874,446.87 under subsection 227.1(1) of the ITA. At trial, the Respondent conceded that the Appellant’s GST appeal should be allowed, but only to reduce the amount assessed to $122,525.43, namely, the amount certified by the Federal Court on August 16, 2011 as payable by the Company under the ETA that had not been paid.
+[4] I heard evidence from Mr. Donaldson and from Mr. Ramesh Nagarajan who served as assistant controller and then controller of the Company during its period of financial crisis. I also heard evidence from Ms. Katherine Ricketts of the Canada Revenue Agency (the “CRA”) who was the officer responsible for raising the assessments at issue. Finally, I received an Agreed Statement of Facts from the parties. [1]
+The Due Diligence Defence
+[5] Under subsection 227.1(3) of the ITA, a director is not liable for the corporation’s failure to make remit source deductions if the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+[6] Similarly, under subsection 323(3) of the ETA, a director is not liable for the corporation’s failure to remit net tax if the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+Mr. David Donaldson
+[7] Mr. Donaldson provides “executive leadership and modest investment capital to a broad portfolio of businesses.” [2] His education includes an MBA from Queen’s University and a CPA (Certified Public Accountant) designation. At the conclusion of his evidence, I asked how he would have described himself in 2010. He said he would have described himself as:
+. . . an interim leader that provides restructuring services to businesses that run into trouble.
+JUSTICE SPIRO: And was it in that capacity that you began your term as a director of the company we're concerned with here, Robyn's Transportation?
+MR. DONALDSON: Yes. [3]
+[8] The Agreed Statement of Facts describes several occasions on which Mr. Donaldson invested in a business and later sold his position or the entire business to a third party. [4] I find that Mr. Donaldson was in the business of purchasing interests in troubled companies, turning them around, and disposing of his interest at a profit. [5] He became a director of the Company and its Chief Executive Officer in June 2006. At that time, he believed that he would be able to restructure the Company and sell his interest at a profit.
+[9] The first element of the restructuring happened in 2007 and resulted in Mr. Donaldson owning 50% of the shares of the holding company that owned all of the shares of the Company and all the shares of an affiliated equipment leasing company. [6] For simplicity, I will call that holding company “Holdco”.
+[10] The second element of the restructuring happened in early January 2011 when Mr. Donaldson agreed to acquire the 50% of Holdco owned by Mr. Robyn Jackson. [7] He agreed to do so after the Company lost its major client and entered a period of deep financial crisis. Mr. Donaldson intended to turn the Company around so he could sell Holdco at a profit.
+Mr. Robyn Jackson
+[11] Mr. Robyn Jackson incorporated the Company in 1976 to transport perishable goods by truck including meat and other produce. Mr. Jackson was at all times closely involved in maintaining client relationships, collecting accounts receivable, and managing the trucking operation as a whole. He held the office of Chief Operating Officer of the Company until its business ended in August 2011. [8]
+[12] Mr. Jackson stepped down as a director when Mr. Donaldson assumed control of the Company on May 31, 2011. [9] After assuming control of the Company, Mr. Donaldson kept Mr. Jackson on as manager of the trucking business. [10]
+The Company’s Financial Crisis and Mr. Donaldson’s Strategic Decisions
+[13] The Company’s financial crisis began in June 2010 when it lost its single most important client, XL Foods. That client accounted for about half of the Company’s business. As Chief Executive Officer, Mr. Donaldson spearheaded efforts to save the business after it lost the XL Foods account. He fired junior employees, reduced directors’ remuneration, closed one of the Company’s three truck terminals, sold trailers, factored receivables and provided his personal guarantee to the factoring company. He also brought in a new investor.
+[14] In order to deal with its severely diminished cash flow, the Company adopted a policy of paying employees and certain creditors before making remittances of net tax and source deductions to the CRA. In cross‑examination, Mr. Donaldson was asked:
+Q . . . whether [with] respect to GST or source deductions, when the company didn't make a remittance, that was because the company chose to pay other creditors, right?
+A In concert with CRA, yes.
+Q And why do you say in concert with CRA?
+A Because there was a restructuring plan that we were working [on] with CRA, and with their cooperation we kept the company going. [11]
+[15] Mr. Donaldson’s statement that the Company chose to pay other creditors “in concert with the CRA” is nonsense. Mr. Donaldson referred to “an agreement that we had with CRA at the time” which he explained as follows: “we were going to operate the business while we were working through the liabilities that were associated with CRA debts.” [12] It was entirely a corporate decision to pay employees and certain creditors before remitting source deductions to the CRA — it was not the CRA’s decision nor was it a decision made “in concert with the CRA”.
+[16] Mr. Donaldson decided that the Company should make no remittances of net tax on the GST side. He also decided that the Company could make some remittances of source deductions but only to the extent that it had cash on hand after paying its employees and creditors who threatened to shut down the business.
+[17] Mr. Donaldson wished to delay the inevitable collection action by the CRA as long as possible so he adopted a strategy of holding regular meetings with the CRA and promising to pay arrears of source deductions. Because the CRA never threatened to shut down the business, making current payroll remittances to the CRA was a low priority.
+[18] Mr. Donaldson made all strategic decisions for the Company. The broad scope of his corporate authority is reflected in a Memorandum of Understanding between Mr. Donaldson and Mr. Jackson dated January 5, 2011:
+Donaldson will set the Strategic sales and operational and administrative priorities and implement the reporting and review structure to ensure the implementation, maintenance and consistency of these priorities, in addition to the overall Corporate supervisory duties as President and CEO. [13]
+[19] Consistent with the assignment of responsibility for strategic decisions to Mr. Donaldson, Mr. Nagarajan (assistant controller from September 2010 to March 2011 and controller from March 2011 to August 2011) testified that Mr. Donaldson was the “ultimate authority” who gave instructions on when to release payroll cheques to employees. [14] In addition, he testified that “instruction would clearly come from Mr. Donaldson” to pay a creditor such as Penske (a leasing company) when it was necessary to prevent them from pulling their trailers and stopping the Company from delivering its freight. [15]
+[20] It was Company policy under Mr. Donaldson to deliver a cheque only if it was supported by cash in the bank. The Company’s cash position was reflected on a daily spreadsheet. Mr. Nagarajan testified that on any particular day Mr. Donaldson would decide who would be paid based on cash available and the priority of paying employees first followed by creditors who threatened to shut down the business:
+So that [the cash flow spreadsheet] would very clearly say how much money is coming in today, how much money is going out. And it'll show negative or positive. So the instruction by Mr. Donaldson is if the spreadsheet is negative we should not issue any cheques. He hates any cheques to be bounced and dealing with all the NSF, et cetera, including any secured creditors. [16]
+***
+Then all the payments, like so it'll be discussed and then instruction will be given to us who is the priority. So if I remember correctly, when I was dealing with it, the first two priorities, the employees. Pay all the employees. And that too, if somebody quits, so he won't be paid. The severance cheque, termination pay, vacation pay was not the priority. That will go last.
+So only regular pay. Anybody who's on the current payroll, the regular pay was the first priority. So then the instruction would be given to us that, you know, like depending on the situation, if the trailer company's threatening to pull the trailer, so then some money will be paid to them.
+Then some money would be paid to Penske. Then some would be paid to somebody else, depending like ENMAX or if the fuel company shuts down the pump. Obviously we thought fuel people cannot deliver, so instruction would be given. So these discussions when Joanne [Gunn] was there, Mr. Donaldson used to be there, they used to discuss and then tell how much to be paid to -- I think it was Esso, so I cannot recollect. I think it was fuel company. [17]
+[21] Joanne Gunn, who was mentioned by Mr. Nagarajan, was the Company’s billing and invoicing manager. [18]
+[22] After paying employees, the Company gave priority to paying creditors who threatened to shut down the business. Mr. Nagarajan testified that:
+. . . . accumulated losses created [an] impossible situation to function in the company. So each month it was loss, loss, loss, loss. So it was like -- sorry.
+Q No, please go ahead.
+A So it was like loss, loss, loss, so how the company was functioning was morning when you come you don't know who will garnish your account. So it was based on which fire to put out first. That's how the company was functioning.
+For example, one day ENMAX shut down. So everybody stopped. So ENMAX has to be paid, make a payment plan, so only then things can -- the company can keep the lights on. So it was so bad that even those utility bills were not paid on time and they were threatening to shut off many times.
+Phone, they were threatening. The Telus, which was hosting the server, they were threatening to shut down the server. And then the ERP TruckMate company, so which had the software, so they also couple of times, even at the last moment they said that they would shut down. So it was very bad. [19]
+[23] At one point, the cash flow crisis became so severe that Mr. Donaldson stopped coming to the office on a regular basis. The atmosphere in the office was like a “war room”. Mr. Nagarajan testified that Mr. Donaldson:
+. . . was avoiding the issues because it was very embarrassing. Like one day there is a garnishment. The next day truck drivers are standing outside. And then the third day somebody's shutting down the pump. Fourth day the software company will shut [us] down. [20]
+Failure to Remit Net Tax Under the Excise Tax Act
+[24] The Company failed to remit net tax as required under the ETA in respect of 13 reporting periods:
+Reporting Periods
+Failure to Remit
+Reporting Period Ended April 30, 2010
+$9,802.35
+Reporting Period Ended May 31, 2010
+$8,135.86
+Reporting Period Ended June 30, 2010
+$11,911.03
+Reporting Period Ended July 31, 2010
+$13,977.25
+Reporting Period Ended August 31, 2010
+$2,397.88
+Reporting Period Ended September 30, 2010
+$12,696.09
+Reporting Period Ended October 31, 2010
+$16,609.87
+Reporting Period Ended November 30, 2010
+$13,384.50
+Reporting Period Ended December 31, 2010
+$13,000.70
+Reporting Period Ended January 31, 2011
+$11,719.16
+Reporting Period Ended February 28, 2011
+$5,990.80
+Reporting Period Ended March 31, 2011
+$6,181.74
+Reporting Period Ended April 30, 2011
+$25,677.35 [21]
+[25] As noted earlier, the Company followed a policy of not making any remittances of net tax. Mr. Nagarajan testified that not a single cheque was cut for GST. The Company filed its monthly GST returns electronically but did not remit net tax payable. As Mr. Nagarajan explained “there was never a cheque cut for GST because there was no money.” [22]
+[26] Mr. Donaldson did not argue — nor could he argue on the facts — that he exercised the degree of care, diligence and skill to prevent the failure to remit net tax that a reasonably prudent person would have exercised in comparable circumstances. His due diligence defence fails in respect of his liability under subsection 323(1) of the ETA.
+Failure to Remit Source Deductions Under the Income Tax Act
+[27] Although payroll remittances were made on occasion, the Company failed to make payroll remittances for the following 25 pay periods:
+Pay Periods
+Failure to Remit
+July 22-31, 2010
+$51,224.48
+August 8-14, 2010
+$50,591.99
+August 22-31, 2010
+$42,508.27
+September 8-14, 2010
+$38,867.89
+September 22-30, 2010
+$37,948.57
+October 8-14, 2010
+$37,529.19
+October 22-31, 2010
+$38,699.06
+November 1-7, 2010
+$23,959.30
+November 8-14, 2010
+$4,357.97
+November 15-21, 2010
+$20,959.94
+November 22-30, 2010
+$11,902.10
+December 1-7, 2010
+$21,848.62
+December 15-21, 2010
+$18,466.78 [23]
+February 22-28, 2011
+$24,816.40
+March 8-14, 2011
+$25,914.44
+March 22-31, 2011
+$24,930.28
+April 8-14, 2011
+$23,615.21
+April 15-21, 2011
+$22,474.61
+May 1-7, 2011
+$24,670.95
+May 15-21, 2011
+$25,111.32
+June 1-7, 2011
+$25,650.71
+June 15-21, 2011
+$26,405.98
+June 22-30, 2011
+$21,540.65
+July 15-21, 2011
+$22,457.60
+July 22-31, 2011
+$18,143.06 [24]
+Regular Meetings with the CRA
+[28] Mr. Donaldson argued that meeting regularly with the CRA to deal with arrears of source deductions demonstrated that he exercised the degree of care, diligence and skill to prevent the failure to remit source deductions that a reasonably prudent person would have exercised in comparable circumstances. This argument has no merit. A director may try to prevent a corporation’s failure to remit before the failure occurs. That is the essence of prevention. One cannot prevent something from happening after it has already happened. Correcting missed payments of source deductions does not constitute due diligence to prevent the failure to remit those amounts in the first place. As Justice Smith noted in Tozer v The Queen, 2018 TCC 56 [Tozer]:
+[111] . . . . Since the Appellant must be taken to have known that Atcon Group was in serious financial difficulties by the end of April, 2009, the corrective measures undertaken during the fall of 2009 and 2010 do not absolve him of the necessity of having taken preventative measures when those financial difficulties should have become apparent to him.
+The Company’s Letter to the CRA of October 6, 2010
+[29] In a letter to the CRA dated October 6, 2010 signed by Mr. Donaldson and Mr. Jackson on behalf of the Company, [25] they acknowledge that the Company failed to remit any of the following source deductions as at the date of the letter:
+July 22-31, 2010
+$51,224.48
+August 8-14, 2010
+$50,591.99
+August 22-31, 2010
+$42,508.27
+September 8-14, 2010
+$38,867.89
+September 22-30, 2010
+$37,948.57
+[30] The total amount of arrears of source deductions at that time was $221,141.20. What was the Company’s plan to correct its past failures to remit? To pay employees first. The letter sent a clear message that the Company had “many families dependent on the business and payroll being met on time.” CRA would have to wait its turn.
+[31] However, the letter did promise that the Company’s “September and October 2010 filings will be submitted on time.” The Company did not submit any of those source deductions on time. [26] Indeed, the Company did not submit those source deductions at all.
+[32] The letter also promised that payments “for future withholdings will begin on November 5th 2010.” That never happened. [27] The letter of October 6, 2010 reflects a series of broken promises to the CRA. It does not reflect the exercise by Mr. Donaldson of the degree of care, diligence and skill to prevent the failure to remit source deductions that a reasonably prudent person would have exercised in comparable circumstances.
+Eight Source Deduction Cheques
+[33] The following individuals had signing authority on behalf of the Company, but none could sign a cheque on their own. Any two of the following individuals were required to sign every corporate cheque:
+(a) Mr. Donaldson;
+(b) Mr. Jackson;
+(c) Mr. Robert Martin (controller of the Company until he was replaced by Mr. Nagarajan who did not have signing authority); and
+(d) Ms. Joanne Gunn (manager of billing and invoicing services). [28]
+[34] With a view to demonstrating due diligence, Mr. Donaldson testified that he signed a total of eight source deduction cheques to CRA for the following pay periods:
+February 22-28, 2011
+$24,816.40
+March 8-14, 2011
+$25,914.44
+March 22-31, 2011
+$24,930.28
+April 8-14, 2011
+$23,615.21
+April 15-21, 2011
+$22,474.61
+May 1-7, 2011
+$24,670.96
+May 15-21, 2011
+$25,111.32
+July 15-21, 2011
+$22,457.60
+[35] At trial, Mr. Donaldson produced a copy of each of those cheques along with an accompanying remittance voucher. [29] He argued that his signature on each cheque is evidence of his exercise of the degree of care, diligence and skill to prevent the failure to remit source deductions that a reasonably prudent person would have exercised in comparable circumstances.
+[36] Each of the eight cheques was signed by Mr. Donaldson. There is no evidence that any of the cheques was counter-signed as required by Company policy. Mr. Donaldson explained why a particular cheque was not counter-signed:
+The second signer in this case would have been Robyn Jackson. His day‑to-day responsibilities in the business were to ensure that revenues were being billed and collections were being made. The agreement that we had with CRA at the time was we wanted to keep the business going, so we had agreed to make some payments to CRA, but we'd also agreed to make payments to fuel suppliers and to employees and to other vendors associated with keeping the business going.
+I was monitoring the activity of that and signing cheques for distribution. This wouldn't have been the only cheque that was presented to me on that bundle of activities to keep the business going. And so I would sign this cheque, I would give it back as part of a bundle and have the expectation that this cheque as well as the other cheques that were being distributed would be counter-signed and sent. [30]
+***
+Q MR. PANUNTO: Again I'd like to go back to this bundle and go slowly through each. So the first page, you said Mr. Jackson was supposed to sign it. Why didn't he sign it, as far as you know?
+A Well, I don't really know the answer to that question.
+Q What was your understanding of when this was going to be submitted?
+A The date that it was signed. It's supposed to be counter-signed and delivered that day.
+Q Who was responsible for actually delivering this cheque to CRA?
+A It would have been Robyn Jackson or someone in payroll or accounting that would be involved in providing payments to the other cheques that would come with a bundle like this.
+Q Were you ever told that it wasn't signed by Mr. Jackson?
+A No.
+Q Were you ever told it wasn't remitted to CRA?
+A No. [31]
+[37] Mr. Donaldson’s counsel took him to the remittance voucher that accompanied one of the cheques and asked:
+Q It states amount paid. What did you do to verify that amount was actually paid?
+A Well, this was attached to a cheque that I had signed, so the company practice was to deliver the cheques that had been signed and authorized for issuance. [32]
+[38] Mr. Donaldson’s counsel took him to another of the cheques he had signed, but had not been counter-signed. He was asked:
+Q . . . was it your understanding at the time that it was remitted to CRA?
+A Yes. [33]
+[39] Because it was not clear to me on the evidence, I asked Mr. Donaldson about the basis for his understanding:
+MR. DONALDSON: This was the practice of the company. When I was given a bundle of cheques, which was a process that would occur on a fairly regular basis, the Receiver General cheque would have been one of the cheques that were prepared based on the company's cash flow.
+And again, we were trying to ensure that the company stayed open, so there would be a small bundle of cheques, some payments to fuel suppliers, payment to Receiver General, payment to various other trade vendors that would keep the company going, and that bundle of cheques was matching to cash flows that were coming out of receipts and there was no reason to think that all the other cheques were being submitted but the Receiver General cheques were not.
+JUSTICE SPIRO: So you assumed that it was submitted?
+MR. DONALDSON: That's correct. [34]
+[40] During counsel’s cross-examination, I asked Mr. Donaldson to clarify an earlier answer he provided. He explained:
+. . . if a cheque is put in front of me [for] my signature that is paying remittances, I'm believing that those remittances are being paid. [35]
+[41] Mr. Donaldson was presented with a cheque, signed it, assumed it would be counter-signed, and assumed it would be delivered to the CRA. He made no enquiries. He asked no questions. He put in place no system for monitoring. He put in place no system for following up. His course of conduct amounts to negligence, not due diligence. As Justice Jorré observed in Fengos v The Queen, 2014 TCC 253:
+[23] But I come back to the obligation to do something, and not simply do nothing. This is evident first from the wording itself of subsection 323(3). The subsection states that the person must exercise the degree of care, diligence and skill that a reasonably prudent person would have exercised in comparable circumstances. A reasonably prudent person is not a person who does not ask questions and who never tries to find out what is happening with regard to remitting net tax. Therefore, he or she must do something because, if one is uniformed, it is impossible to prevent a failure.
+[Emphasis added]
+[42] The mere signing of a cheque, without more, does not reflect the exercise of the degree of care, diligence and skill to prevent the failure to remit source deductions that a reasonably prudent person would have exercised in comparable circumstances.
+[43] In several of his responses, Mr. Donaldson vaguely referred to what he called “company practice”. He never explained what that “practice” was or how he knew such a “practice” would ensure that cheques would be counter-signed and then delivered to the CRA. Mr. Nagarajan, who was in a position to know of any such practice, did not mention anything about it in his evidence in chief nor was he cross-examined on it by Mr. Donaldson’s counsel. In light of the paucity of evidence on the point, Mr. Donaldson cannot rely on what he loosely termed “company practice” to satisfy the due diligence standard. Whatever this “practice” was, there was no evidence that it constituted an established management system including, for example, periodic reporting. As Justice Smith observed in Tozer:
+[102] Since Chriss establishes that a director must carry out his or her duties “on an active basis”, it would appear to follow logically that a director cannot simply delegate his or her oversight duties to a subordinate, at least not without some evidence of an established management system involving, for example, periodic reporting. If a system had been put in place to prevent the failure of the corporation to make the remittances, the director could thus demonstrate that he or she was “specifically concerned with the tax remittances” (Balthazard, para. 32(e)).
+[44] Mr. Donaldson provided equally vague responses when asked in cross-examination how he informed himself that the eight source deduction cheques he signed were actually remitted to CRA. He said that he looked at the Company’s “balance sheet with respect to its liabilities to CRA, which were going down based on the cheques that were being issued to CRA.” [36] As no such balance sheets were in evidence, no one knows whether liabilities to the CRA were broken out separately on the balance sheet and whether the balance that Mr. Donaldson says he saw “going down” reflected current source deductions or arrears of source deductions. One cannot be duly diligent with respect to arrears of source deductions.
+[45] Looking at a balance sheet does not, without more, reflect the exercise of the degree of care, diligence and skill to prevent the failure to remit source deductions that a reasonably prudent person would have exercised in comparable circumstances.
+Three Source Deduction Cheques
+[46] Mr. Donaldson’s letter to the CRA dated July 18, 2011 confirms his lack of due diligence. [37] Among the attachments to that letter were three counter-signed source deduction cheques to CRA for the following pay periods:
+June 1-7, 2011
+$25,650.71
+June 15-21, 2011
+$26,405.98
+June 22-30, 2011
+$21,540.65
+[47] Although each cheque was counter-signed, and the cheques were actually delivered to the CRA, the letter includes the following caveat:
+3. . . . We will advise when these cheques can be deposited by CRA.
+[48] Permission to deposit those cheques was never provided by Mr. Donaldson or anyone else. Less than a month later, the business collapsed.
+Conclusion
+[49] Mr. Donaldson’s course of conduct during the Company’s financial crisis from June 2010 to August 2011 does not reflect the exercise of the degree of care, diligence and skill to prevent the Company’s failure to remit net tax or source deductions that a reasonably prudent person would have exercised in comparable circumstances. On the contrary, he chose to prioritize payments to employees and other creditors of the Company over payment of source deductions to the CRA. As the Federal Court of Appeal reminds us in Canada v Buckingham, 2011 FCA 142:
+[56] A director of a corporation cannot justify a defence under the terms of subsection 227.1(3) of the Income Tax Act where he condones the continued operation of the corporation by diverting employee source deductions to other purposes. The entire scheme of section 227.1 of the Income Tax Act, read as a whole, is precisely designed to avoid such situations. …
+[50] The Federal Court of Appeal sounded a similar note in Ahmar v Canada, 2020 FCA 65 where Justice Mactavish, on behalf of the Court, confirmed the continuing relevance of the Buckingham principles:
+[23] The Tax Court further found that Mr. Ahmar was clearly aware of Strong Forming’s tax obligations, its financial difficulties and his potential personal liability for the company’s tax debts. Instead of using some of the company’s revenues to satisfy its tax obligations, however, the Court found that Mr. Ahmar made the conscious decision to have Strong Forming defer payment of its HST debt, and to use these revenues to satisfy other obligations in the hopes of turning the company’s financial position around. As the Tax Court observed, this was precisely the situation that confronted this Court in Buckingham, above.
+[24] As this Court observed in Buckingham, where a company is facing financial difficulties “it may be tempting to divert these Crown remittances in order to pay other creditors and thus ensure the continuation of the operations of the corporation”. The Court held, however, that this was precisely the mischief that section 323 of the Excise Tax Act sought to avoid. This Court went on in Buckingham to state that the defence under section 323 “should not be used to encourage such failures by allowing a due diligence defence for directors who finance the activities of their corporation with Crown monies on the expectation that the failures to remit could eventually be cured”: both quotes from para. 49.
+[51] Mr. Donaldson’s appeal against the assessment made under subsection 227.1(1) of the ITA will, therefore, be dismissed. As I have already noted, his appeal against the assessment made under subsection 323(1) of the ETA will be allowed, but only in order for the Minister to make the conceded downward adjustment.
+[52] The Respondent is entitled to one set of costs in respect of both appeals. If the parties cannot agree on costs, I will receive written submissions on or before January 13, 2023. Each set of submissions should not exceed five pages. If no submissions are received, the Respondent is entitled to a single set of costs under the Tariff.
+Signed at Ottawa, Canada, this 9th day of December 2022.
+“David E. Spiro”
+Spiro J.
+CITATION:
+2022 TCC 159
+COURT FILE NO.:
+2016-1624(IT)G and 2016-3617(GST)G
+STYLE OF CAUSE:
+DAVID DONALDSON AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+November 15 and 16, 2022
+REASONS FOR JUDGMENT BY:
+The Honourable Justice David E. Spiro
+DATE OF JUDGMENT:
+December 9, 2022
+APPEARANCES:
+Counsel for the Appellants:
+Stephen Panunto
+Counsel for the Respondent:
+Damon Park and Mihai Beschea
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Stephen Panunto
+Firm:
+Goodfellow & Schuett Law
+Calgary, Alberta
+For the Respondent:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Agreed Statement of Facts, marked as Exhibit J-1.
+[2] Agreed Statement of Facts, para 3.
+[3] Transcript, November 16, 2022, page 33, lines 17-28.
+[4] These examples are briefly described in the Agreed Statement of Facts, para 3.
+[5] Mr. Donaldson carried on this business through personal holding companies. The holding company he used to purchase Mr. Jackson’s 50% interest in Holdco in 2011 was Capital Advocate Corporation (Agreed Statement of Facts, para 19). For purposes of these reasons, it is not necessary to distinguish between Mr. Donaldson as an individual and his personal holding company in respect of the acquisition and disposition of these investments.
+[6] Agreed Statement of Facts, paras 13 and 16. The name of the holding company was Robyn’s Transport (2007) Ltd. The name of the affiliated equipment leasing company was First Class Drivers and Truck Rental Services Ltd.
+[7] Agreed Statement of Facts, paras 17 and 21.
+[8] Mr. Jackson also held office of President until Mr. Donaldson acquired control of the Company in May 2011. See the final bullet point of the Memorandum of Understanding dated January 5, 2011 marked as Exhibit A-6.
+[9] Agreed Statement of Facts, para 12.
+[10] Agreed Statement of Facts, para 20. See also the Memorandum of Understanding dated January 5, 2011 marked as Exhibit A-6.
+[11] Transcript, November 16, 2022, page 23, lines 2-11.
+[12] Transcript, November 15, 2022, page 46, lines 22-24.
+[13] See the final bullet point of the Memorandum of Understanding dated January 5, 2011 marked as Exhibit A-6.
+[14] Transcript, November 16, 2022, page 100, lines 26-28.
+[15] Transcript, November 16, 2022, page 102, line 21 to page 103, line 2.
+[16] Transcript, November 16, 2022, page 93, lines 8-12.
+[17] Transcript, November 16, 2022, page 93, line 27 to page 94, line 21.
+[18] Transcript, November 15, page 28, lines 16-19.
+[19] Transcript, November 16, 2022, page 86, line 9 to page 87, line 3.
+[20] Transcript, November 16, 2022, page 111, lines 13-18.
+[21] Exhibit R-1. That exhibit reflects the amount of net tax the Company failed to remit for each reporting period.
+[22] Transcript, November 16, 2022, page 103, lines 3-27.
+[23] Exhibit R-3. The Company chose to make a payroll remittance of $3,959.30 for the period December 15-21. As the required remittance was $22,426.08, a shortfall of $18,466.78 remained.
+[24] Exhibit R-2a.
+[25] Exhibit A-1.
+[26] See para 23 above.
+[27] See para 23 above.
+[28] Agreed Statement of Facts, para 14.
+[29] Exhibit A-2.
+[30] Transcript, November 15, 2022, page 45, line 20 to page 46, line 8.
+[31] Transcript, November 15, 2022, page 47, lines 7-28.
+[32] Transcript, November 15, 2022, page 49, lines 7-12.
+[33] Transcript, November 15, 2022, page 50, lines 11-14.
+[34] Transcript, November 15, 2022, page 50, line 20 to page 51, line 9.
+[35] Transcript, November 16, 2022, page 16, lines 13-16.
+[36] Transcript, November 16, 2022, page 17, lines 19-25.
+[37] Exhibit A-3.

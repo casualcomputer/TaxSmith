@@ -1,0 +1,144 @@
+---
+title: "Eskandari v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27796/index.do"
+last_modified: "2007-07-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 419"
+citation2: ""
+neutral_citation: "2007 CCI 419"
+decision_date: "2007-07-18"
+language: "fr"
+item_id: "27796"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 275
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:27:31.485000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9dcfe44eb25c800307365d5dde126a340f4bf08794f3a7e442ada4911d07f6b4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Eskandari v. The Queen
+
+- Citation: 2007 CCI 419
+- Decision date: 2007-07-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 275, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Eskandari v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-07-18
+Référence neutre
+2007 CCI 419
+Numéro de dossier
+2007-12(IT)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-12(IT)I
+ENTRE :
+KAMRAN ESKANDARI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 28 juin 2007
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Lindsay D. Holland
+JUGEMENT
+L’appel de la nouvelle cotisation établie pour l’année d’imposition 2004 en vertu de la Loi de l’impôt sur le revenu est accueilli en partie et l’affaire est renvoyée au ministre du Revenu national pour réexamen et nouvelle cotisation se fondant sur une augmentation de 9 972,71 $ du prix de base ajusté du condominium de Toronto vendu par l’appelant en 2004. À tous autres égards, l'appel est rejeté.
+Signé à Halifax (Nouvelle-Écosse), ce 18e jour de juillet 2007
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce XXe jour de XX 2007.
+Paule Antonelli, traductrice
+Référence : 2007CCI419
+Date : 20070718
+Dossier : 2007-12(IT)I
+ENTRE :
+KAMRAN ESKANDARI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] L’appelant a acheté à Saeid Sarrafian le droit d’achat d’un condominium devant être construit à Toronto, droit détenu par M. Sarrafian. Celui-ci avait conclu une convention directe d’achat du condominium avec le promoteur, puis vendu à l’appelant son droit au titre de la convention. L’appelant avait d’abord prévu s’installer à Toronto et vivre dans le condominium. Mais après avoir passé une semaine dans le condominium, à Toronto, en 2003, il a changé d’avis et décidé de vendre le condominium. La vente a eu lieu en 2004.
+[2] Il y a deux points de litige en l’espèce. Tous deux ont trait au calcul du prix de base ajusté du bien de l’appelant. L’appelant estime avoir le droit d’ajouter deux montants à son prix de base ajusté :
+a) un montant de 9 972,71 $ décrit par l’appelant comme « commission d’intermédiaire »;
+b) un montant total de 19 444,15 $ constitué de 11 paiements mensuels des montants suivants :
+i) estimation des dépenses communes totales : 468,02 $ / mois,
+ii) estimation de l’impôt foncier : 235 $ / mois,
+iii) estimation de l’intérêt sur le prêt hypothécaire accordé par le vendeur, à 6 % : 1 064,63 $ / mois.
+Commission d’intermédiaire
+[3] L’appelant parle des 9 972,71 $ payés à la demande de Saeid Sarrafian comme d’une commission d’intermédiaire. C’est toutefois un montant payé à la personne à qui l’appelant a acheté le droit d’achat du condominium. Il ne s’agirait donc pas d’une commission d’intermédiaire versée à un tiers ayant fait office d’intermédiaire ou de mandataire pour l’affaire, mais d’un montant versé en fait à la personne ayant vendu à l’appelant le droit d’achat du condominium. Bien que le montant ait été viré sur un compte au nom de Mano J. Fooladi, l’appelant a indiqué dans son témoignage, que j’accepte, que c’étaient les renseignements relatifs au compte que lui avait donnés M. Sarrafian et que le montant avait donc été versé dans ce compte à usage de M. Sarrafian.
+[4] Conséquemment, ce montant aurait dû être ajouté au prix de base ajusté du bien, vu qu’il représentait une partie du coût d’achat du droit détenu par M. Sarrafian au titre de la convention d’achat-vente conclue avec le promoteur, et donc une partie du coût d’achat du condominium pour l’appelant.
+Dépenses communes / impôt foncier / intérêt
+[5] Le promoteur a avisé l’appelant que la signature de la convention d’achat‑vente du condominium devait être conclue le 5 août 2003. À cette date, toutefois, l’appelant n’était pas satisfait de l’état du bien. Dans son témoignage, il indique avoir passé quelques nuits dans le condominium : les couloirs n’étaient pas finis, si bien qu’il y avait beaucoup de poussière dans les couloirs; et on testait constamment le système d’alerte en cas d’incendie. Du coup, l’appelant a rendu les clés au promoteur et n’est plus retourné au condominium. Néanmoins, en ce qui concerne le promoteur, la date de signature était le 5 août 20003. Le promoteur a donc facturé à l’appelant les paiements mensuels suivants, pour la période de 11 mois entre le 5 août 2003 et la date où l’appelant a signé la vente, en juillet 2004 :
+a) estimation des dépenses communes : 468,02 $ / mois;
+b) estimation de l’impôt foncier : 235 $ / mois;
+c) estimation de l’intérêt sur le prêt hypothécaire accordé par le vendeur, à 6 % : 1 064,63 $ / mois.
+[6] L’appelant a déclaré avoir dû payer de l’intérêt supplémentaire parce qu’il avait signé la vente en juillet 2004 seulement.
+[7] La Cour d’appel fédérale a indiqué ce qui suit dans Her Majesty the Queen v. Stirling [1985] 1 C.T.C. 275, 85 DTC 5199 :
+[traduction]
+À notre sens, le « coût » dont il est question dans ces dispositions est le prix que consent à payer le contribuable pour obtenir le bien; il ne comprend pas toute dépense éventuellement encourue par le contribuable pour se mettre en état de payer ce prix ou de conserver le bien par la suite.
+[8] Les dispositions dont il est question sont ceux ayant trait au calcul du gain en capital.
+[9] En l’espèce, les 11 paiements de 1 767,65 $ chacun pour les dépenses communes, l’impôt foncier et l’intérêt sur le prêt hypothécaire accordé par le vendeur sont tous des montants payables pour la période suivant la date prévue pour la signature, suivant donc le 5 août 2003.
+[10] Dans son témoignage, l’appelant a déclaré que, selon lui, le condominium n’était alors pas prêt à être occupé, et qu’il avait communiqué avec le promoteur sans toutefois parvenir à le convaincre que le condominium n’était pas prêt à être occupé et que la date de signature devrait être repoussée. En conséquence, le paiement de ces éléments n’était pas un paiement pour l’achat du bien, mais plutôt un paiement des montants dus en juillet 2004 pour les frais des parties communes, l’impôt foncier et l’intérêt pour la période suivant la date de signature du 5 août 2003, lesquels devaient être payés par l’appelant pour que celui-ci soit en état de payer le prix d’achat.
+[11] De ce fait, il ne faut pas ajouter le montant de 19 444,15 $ au prix de base ajusté du bien et, ceci étant, l’appel portant sur ce point est rejeté.
+Signé à Halifax (Nouvelle-Écosse), ce 18e jour de juillet 2007
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce XXe jour de XX 2007.
+Paule Antonelli, traductrice
+RÉFÉRENCE : 2007CCI419
+No DU DOSSIER : 2007-12(IT)I
+INTITULÉ : Kamran Eskandari c. La Reine
+LIEU DE L’AUDIENCE : Halifax (Nouvelle-Écosse)
+DATE DE L’AUDIENCE : Le 28 juin 2007
+MOTIFS DU JUGEMENT PAR : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 18 juillet 2007
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Lindsay D. Holland
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

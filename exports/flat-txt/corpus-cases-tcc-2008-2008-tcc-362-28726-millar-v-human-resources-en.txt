@@ -1,0 +1,132 @@
+Title: Millar v. Human Resources
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28726/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-362-28726-millar-v-human-resources-en.md
+Document type: case_law
+Last modified: 2008-06-17
+
+# Millar v. Human Resources
+
+- Citation: 2008 TCC 362
+- Decision date: 2008-06-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1450, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Millar v. Human Resources
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-06-17
+Neutral citation
+2008 TCC 362
+File numbers
+2008-1143(OAS)
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Old Age Security Act
+Decision Content
+Docket: 2008-1143(OAS)
+BETWEEN:
+GUY MILLAR,
+Appellant,
+and
+MINISTER OF SOCIAL DEVELOPMENT,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 29, 2008, at Dieppe (Moncton), New Brunswick
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Christina Ham
+____________________________________________________________________
+JUDGMENT
+The appeal from the decision of the Respondent is dismissed, without costs.
+Signed at Ottawa, Ontario, this 17th day of June 2008.
+“Wyman W. Webb”
+Webb J.
+Citation: 2008TCC362
+Date: 20080617
+Docket: 2008-1143(OAS)
+BETWEEN:
+GUY MILLAR,
+Appellant,
+and
+MINISTER OF SOCIAL DEVELOPMENT,
+Respondent.
+REASONS FOR JUDGMENT
+Webb J.
+[1] The issue in this case is whether there has been a reduction in the Appellant’s pension income for the purposes of section 14 of the Old Age Security Act.
+[2] The Appellant and his spouse separated in 2007 and the Appellant is obligated to pay spousal support to his wife pursuant to a court order issued by the New Brunswick Court of Queen’s Bench. Although the court order provided that payments were to begin in 2007 no payments were actually made until 2008. The Appellant is now paying monthly amounts each one of which is in part paying the arrears and the balance of which is paying the current monthly obligation for spousal support. These amounts are being garnished from his Old Age and Canada Pension Plan payments.
+[3] Since the supplement amount payable under the Old Age Security Act for a particular payment period is based on the income as determined for the purposes of the Income Tax Act for the calendar year ending before that particular payment period, the spousal support amounts that the Appellant is paying in 2008 will not be reflected in his income, for the purposes of the Income Tax Act, until the end of 2008 and will not affect his supplement amount until July 2009. The Appellant requested that his change in income be taken into account in determining the supplement amount that should be paid to him in 2008 without waiting until July 2009.
+[4] Subsection 14(4) of the Old Age Security Act provides that:
+(4) Where in a current payment period a person who is an applicant, or who is an applicant’s spouse or common-law partner who has filed a statement as described in paragraph 15(2)(a), suffers a loss of income due to termination or reduction of pension income, the person may, not later than the end of the payment period immediately after the current payment period, in addition to making the statement of income required by subsection (1) in the case of the applicant or in addition to filing a statement as described in paragraph 15(2)(a) in the case of the applicant’s spouse or common-law partner, file a statement of the person’s estimated income for the calendar year in which the loss is suffered, other than pension income received by that person in that part of that calendar year that is before the month in which the loss is suffered, in which case the person’s income for the base calendar year shall be calculated as the total of
+(a) the person’s income for that calendar year, calculated as though the person had no pension income for that calendar year, and
+(b) any pension income received by the person in that part of that calendar year that is after the month immediately before the month in which the loss is suffered, divided by the number of months in that part of that calendar year and multiplied by 12.
+(emphasis added)
+[5] The Appellant argued that since the monthly payments for the arrears and the current obligations for spousal support are being garnished from his pension income, he has suffered a loss of pension income. He submitted that, therefore, he should be entitled to file an estimate of his income for 2008 pursuant to subsection 14(4) of the Old Age Security Act.
+[6] Pension income for the purposes of section 14 of the Old Age Security Act is defined in section 14 of the Old Age Security Regulations which provides that:
+14. For the purposes of section 14 of the Act, "pension income" means the aggregate of amounts received as
+(a) annuity payments;
+(b) alimony and maintenance payments;
+(c) employment insurance benefits;
+(d) disability benefits deriving from a private insurance plan;
+(e) any benefit, other than a death benefit, under the Canada Pension Plan or a provincial pension plan as defined in the Canada Pension Plan;
+(f) superannuation or pension payments, other than a benefit received pursuant to the Act or any similar payment received pursuant to a law of a provincial legislature;
+(g) compensation under a federal or provincial employee’s or worker’s compensation law in respect of an injury, disability or death;
+(h) income assistance benefits under an agreement referred to in subsection 33(1) of the Department of Human Resources Development Act by reason of a permanent reduction in the work force as described in that subsection; and
+(i) income assistance benefits under the Plant Workers’ Adjustment Program, the Fisheries Early Retirement Program or the Northern Cod Adjustment and Recovery Program by reason of a permanent reduction in the work force.
+[7] In order for the Appellant to succeed, it would be necessary to find that since the Appellant’s pensions have been garnished to pay his obligations for spousal support, the Appellant has not received the full amount of his pensions. If the Appellant has received the full amount of his pensions, even though a portion thereof has been garnished, then his “pension income”, as defined in section 14 of the Old Age Security Regulations would not have been reduced and the Respondent would have been correct to not accept the Appellant’s estimate of income.
+[8] Subsection 56(1) of the Income Tax Act provides that the following amounts are to be included in income:
+56. (1) Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year,
+(a) any amount received by the taxpayer in the year as, on account or in lieu of payment of, or in satisfaction of,
+(i) a superannuation or pension benefit including, without limiting the generality of the foregoing,
+(A) the amount of any pension, supplement or spouse's or common-law partner's allowance under the Old Age Security Act and the amount of any similar payment under a law of a province,
+(B) the amount of any benefit under the Canada Pension Plan or a provincial pension plan as defined in section 3 of that Act,
+[9] If the pension amount that has been garnished is not “received” by the Appellant, then this amount would not be included in his income since subsection 56(1) of the Income Tax Act provides for an income inclusion that is also based on pension amounts “received”.
+[10] In Mintzer v. The Queen, [1998] 3 C.T.C. 2380 Justice O’Connor stated that:
+2 The issue is whether a Canada Pension Plan benefit in the amount of $4,575 should have been included in the Appellant's taxable income in that year notwithstanding the fact that he did not actually receive it because the said amount had been set off against taxes allegedly owing by the Appellant in previous years.
+…
+5 Subsubparagraph 56(1)(a)(i)(B) includes in a taxpayer's income for the year the amount of any CPP benefits which were "received" by the taxpayer in a given year. The Appellant argued that because this amount, namely the amount in question was set-off against his alleged tax owing from previous years, it was never received by him in the year.
+6 Certain dictionary definitions of "receive" or "receipt" might leave one with the impression that something is not received unless it is actually taken into one's hands or possession. However the case law is clear that an amount may be included in income even where it is only notionally or constructively received.
+7 In Morin v. The Queen, 75 D.T.C. 5061, Lacroix J. of the Federal Court, Trial Division, stated as follows at page 5064:
+In the case at bar the provincial and federal statutes state that income tax is payable on the salary, wages or remuneration that an employee receives during a taxation year. In this case the plaintiff was recorded in his employer's books as being entitled to a salary of $16,268.84. He contends that since the government deducted the amount of tax, he did not receive his full salary, given the fact that the amount of the tax was deducted at source. In other words, the plaintiff puts forward as a proposition of law that in order to receive his salary in the legal sense, he must actually touch or feel it, or have it in his bank account.
+We regret to say that this proposition seems to us absolutely inadmissible, because the word "receive" obviously means to get or to derive benefit from something, to enjoy its advantages without necessarily having it in one's hands. In other words, the plaintiff can, and must, say, "what is left of my salary or income, after taxes, is $14,639.85"; it is not correct to say "My income is only $14,639.85".
+8 In The Queen v. Hoffman, 85 D.T.C. 5508, Rouleau J. of the Federal Court, Trial Division, stated as follows at 5510:
+If the proposition that income must be in the actual possession of the employee before it can be taxed is correct, then I would have to conclude that an employee's contributions to Canadian or provincial pension plans, deducted at source by the employer, are not income in the hands of the employee. Jurisprudence does not support this proposition.
+In Lucien Gingras v. M.N.R. [unreported decision dated March 26, 1973] the Tax Review Board noted (at page 4):
+The expression "touché" (received) does not necessarily mean that the full amount of the salary must be physically received by the payee or be deposited in full in his bank account.
+According to the interpretation of s. 5 it is sufficient to say that the amount of the salary was paid by the employer either to the employee himself or to his benefit, or that it was handed over to a third party under a federal or provincial statute.
+The fact that the defendant's employer deducted at source employee's social security contributions in the 1978 and 1979 taxation years does not support the proposition that he received income net of the withheld amounts. The amounts deducted and forwarded were for his eventual benefit.
+9 Finally, in The Queen v. Fairey, 91 D.T.C. 5230, Muldoon J. of the Federal Court, Trial Division found that money which was automatically deducted from a government employee's salary and deposited into a pension fund was in effect received by the taxpayer in the sense that it accrued to his credit and his entitlement to it could not be disputed.
+[11] In this case, the amounts were garnished from the Appellant’s pensions to pay his obligation to his spouse. Therefore, even though the spousal support payments are being garnished from the Appellant’s pensions, the full amount of the pensions (before the amount that is garnished is deducted therefrom) will still be considered to be received by the Appellant. This will be the case for the purposes of both the Income Tax Act and the Old Age Security Act. In my opinion, the word “received” should be interpreted in the same way for both statutes.
+[12] The Appellant argued that since the definition of “pension income” in the Old Age Security Regulations includes alimony payments that have been received, if his spousal support payments should be reduced, his spouse would be entitled to have her supplement amount based on an estimate of income. His argument is that if she should have that right if the spousal support amounts should decrease, then he should have the right if the spousal support amounts should increase. While it is not obviously clear why a decrease in alimony received will give rise to a right to have the supplement amount of the recipient based on his or her estimated income (since that person’s pension income will have decreased), but an increase in alimony payments will not give rise to the same right to the person paying the spousal support, this is the result of the definition of “pension income” in section 14 of the Old Age Security Regulations and section 14 of the Old Age Security Act. While the definition of “pension income” in section 14 of the Old Age Security Regulations is based, in part, on alimony received, there is no provision in this definition or in section 14 of the Old Age Security Act to adjust “pension income” for spousal support amounts that are paid. This will have to be addressed by Parliament if this is not the intended result.
+[13] Since the Appellant will be considered to have received the full amount of his pensions, even though parts thereof have been garnished to pay his obligations under the order issued by the New Brunswick Court of Queen’s Bench, there has not been a reduction of the Appellant’s pension income for the purposes of section 14 of the Old Age Security Act and the Appellant’s appeal from the decision of the Respondent is dismissed.
+Signed at Ottawa, Ontario, this 17th day of June 2008.
+“Wyman W. Webb”
+Webb J.
+CITATION: 2008TCC362
+COURT FILE NO.: 2008-1143(OAS)
+STYLE OF CAUSE: GUY MILLAR AND MINISTER OF SOCIAL DEVELOPMENT
+PLACE OF HEARING: Dieppe (Moncton), New Brunswick
+DATE OF HEARING: May 29, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: June 17, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent
+Christina Ham
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

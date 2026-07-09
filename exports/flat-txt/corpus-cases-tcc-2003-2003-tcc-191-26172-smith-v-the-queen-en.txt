@@ -1,0 +1,131 @@
+Title: Smith v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26172/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-191-26172-smith-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-04-25
+
+# Smith v. The Queen
+
+- Citation: 2003 TCC 191
+- Decision date: 2003-04-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3970, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Smith v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-04-25
+Neutral citation
+2003 TCC 191
+File numbers
+2002-2055(IT)I
+Judges and Taxing Officers
+Michael J. Bonner
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-2055(IT)I
+BETWEEN:
+WARD S. SMITH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 7, 2003 at Toronto, Ontario
+Before: The Honourable Judge Michael J. Bonner
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Jason J. Wakely
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2000 taxation year is dismissed.
+Signed at Toronto, Ontario, this 25th day of April 2003.
+"Michael J. Bonner"
+T.C.J.
+Citation: 2003TCC191
+Date: 20030425
+Docket: 2002-2055(IT)I
+BETWEEN:
+WARD S. SMITH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bonner, T.C.J.
+[1] This is an appeal from a redetermination by the Minister of National Revenue (the "Minister") of the Appellant's entitlement to the Goods and Services Tax Credit (GSTC) for the 2000 taxation year.
+[2] In his Notice of Appeal the Appellant stated:
+"On my 2000 tax return I indicated separated in the identification area of my tax return. I felt that this best described my situation. I was at the time and continue to be married. My wife and I share the same residence. It's this condition of being separated under the same roof that is the source of the dispute. I feel I am separated and the Minister of Revenue does not."
+[3] According to the Reply to the Notice of Appeal the redetermination was made on the basis that the Appellant was not separated and that the Appellant's cohabiting spouse, during the 2000 taxation year, was Bonita M. Kelly Smith. The Appellant's entitlement to GSTC for the 2000 taxation year was redetermined to be zero and the Appellant was requested to repay GSTC in the amount of $140.82 (the amount of $70.41 paid on July 5, 2001 plus the amount of $70.41 paid on October 5, 2001).
+[4] The dispute arises from the definition in s. 122.6 of the Income Tax Act of the term "cohabiting spouse". That definition was:
+"cohabiting spouse" of an individual at any time means the person who at that time is the individual's spouse and who is not at that time living separate and apart from the individual and, for the purpose of this definition, a person shall not be considered to be living separate and apart from an individual at any time unless they were living separate and apart at that time, because of a breakdown of their marriage, for a period of at least 90 days that includes that time;
+[5] The findings or assumptions of fact upon which the redetermination was based were the following:
+(a) throughout the 2000 taxation year, the Appellant's cohabiting spouse was Bonita M. Kelly Smith (the Appellant's Spouse);
+(b) throughout the 2000 taxation year, the Appellant, the Appellant's Spouse, and their child resided together in the same self‑contained domestic establishment located at 21 Elba Avenue, Scarborough, Ontario;
+(c) the Appellant and the Appellant's Spouse share title to the self‑contained domestic establishment referred to in paragraph 12(b) above;
+(d) during the 2000 taxation year, the Appellant and the Appellant's Spouse had a joint bank account;
+(e) in the 2000 taxation year, the assessed net income of the Appellant was the amount of $31,768.00;
+(f) in the 2000 taxation year, the assessed net income of the Appellant's spouse was the amount of $12,599.00.
+[6] The Appellant gave evidence at the hearing of the appeal. He said that in September of 1993 his marriage reached a low point. His wife left him and stayed away until March of 1995 when she returned as the couple attempted a reconciliation. The couple got along well for a year but then the relationship started to decline once again. The Appellant said that in September of 2000 he "made a mental choice to be separated".
+[7] The Appellant described living arrangements during the year 2000. He said that he and his spouse and their son who had been born in 1988 lived together in a 700 square foot house. The Appellant said that he was in a sense trapped in the house for he would be at a disadvantage if he moved out.
+[8] From January 2000 on the spouses slept apart, the Appellant behind a curtain on a pull‑out bed and Mrs. Smith in the bedroom. The couple did not have sexual relations during the year.
+[9] Mr. and Mrs. Smith ate together only infrequently, 10 to 15 times during the year. The two did share the food in the refrigerator. The Appellant paid the utilities save for the cost of cable which Mrs. Smith paid. The phone was listed in the Appellant's name. There was a joint bank account in the name of the Appellant and his spouse. The bank withdrew mortgage payments from that account. The Appellant alone made deposits and the other withdrawals. Both spouses supported and cared for their son.
+[10] The social life of the Appellant and his spouse was not entirely non‑existent. Mr. Smith indicated that they did on occasion rent a video and watch it together. At Christmas, the Appellant together with his spouse visited his parents. Mr. Smith stated that he bought a Christmas present for his wife but added that he did so in order to set a good example for his son.
+[11] The Appellant submitted that his freedom of thought must be respected. He said that he believed in his heart that he was separated and that he was entitled to choose or designate his own status.
+[12] The question whether the Appellant's spouse was his "cohabiting spouse" within the meaning of the s. 122.6 definition must be determined not by the Appellant's opinion but rather by application of the statutory definition properly construed, to the facts as established by the evidence.
+[13] The courts have long recognized that a matrimonial relationship may deteriorate to the point that the spouses live separate and apart despite the fact that both continue to live under the same roof. However, where they do continue to live under one roof there must be clear and convincing evidence that the matrimonial relationship has ended for all practical purposes. The following criteria are usually present in cases where a finding has been made that the spouses are living separate and apart[1]:
+(i) Spouses occupying separate bedrooms.
+(ii) Absence of sexual relations.
+(iii) Little, if any, communication between spouses.
+(iv) Wife performing no domestic services for husband.
+(v) Eating meals separately.
+(vi) No social activities together.
+[14] I accept the Appellant's evidence as true, as far as it went. Nevertheless I have concluded that the evidence falls short of establishing clearly that Mr. and Mrs. Smith lived separate and apart because of a breakdown of the marriage. Mr. Smith's testimony left me with the impression that the factual picture which he painted was incomplete. Mrs. Smith did not testify and it was not suggested that she was unavailable.
+[15] Neither the absence of sexual relations nor the separate sleeping arrangements are conclusive.
+[16] The number of meals eaten together was limited but that may have been due, at least in part, to the fact that Mrs. Smith worked three or four evenings per week as a waitress. I note that food was shared, at least to the extent of perishables in the fridge. It is not clear who prepared and shopped for the food.
+[17] There was no evidence regarding arrangements for carrying out domestic chores such as laundry and house cleaning. The couple did seem to successfully share the responsibility for raising their son.
+[18] There was some measure of joint social activity in the form of a Christmas visit by the spouses to Mr. Smith's parents. There was some joint entertainment in the form of renting and watching videos together.
+[19] It appears that in September of 2000 there occurred some sort of matrimonial crisis but it is not clear that it led the spouses to any sort of mutual repudiation of the matrimonial relationship. The Appellant removed Mrs. Smith's name from the union pension plan but did not suggest that the crisis led to any other change in the relationship. It was not suggested that the couple discussed the relationship or agreed to separate. It was not suggested that the Appellant advised his spouse of any decision to separate.
+[20] When the evidence of the relationship and living arrangements is viewed comprehensively, as it must be, the picture which emerges is that of a couple who throughout the year continued to live together despite a gradual matrimonial decline which had not reached the point of breakdown.
+[21] For the forgoing reasons the appeal will be dismissed.
+Signed at Toronto, Ontario, this 25th day of April 2003.
+"Michael J. Bonner"
+T.C.J.
+CITATION:
+2003TCC191
+COURT FILE NO.:
+2002-2055(IT)I
+STYLE OF CAUSE:
+Ward S. Smith and H.M.Q
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+February 7, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Judge
+Michael J. Bonner
+DATE OF JUDGMENT:
+April 25, 2003
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Jason J. Wakely
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Kelner v. The Queen, [1996] 1 C.T.C. 2687 per Bowman J. citing Cooper v. Cooper, (1972) 10 R.F.L. 184.

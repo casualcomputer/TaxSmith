@@ -1,0 +1,206 @@
+---
+title: "Carter c. Le Roi"
+source: "https://norma.lexum.com/tcc-cci/decisions/fr/item/521271/index.do"
+last_modified: "2024-05-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2024 CCI 71"
+citation2: ""
+neutral_citation: "2024 CCI 71"
+decision_date: "2024-05-16"
+language: "fr"
+item_id: "521271"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5511
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2026-05-08T09:00:30.247000+00:00"
+cases_cited_count: 3
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3129a7bd236a5ad2961e2c96ed56888a04607539ae249a325f7da3777a2ffcc0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Carter c. Le Roi
+
+- Citation: 2024 CCI 71
+- Decision date: 2024-05-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5511, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Carter c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2024-05-16
+Référence neutre
+2024 CCI 71
+Numéro de dossier
+2022-3096(IT)G
+Juges et Officiers taxateurs
+David E. Graham
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2022-3096(IT)G
+ENTRE :
+KATHRYN J. CARTER,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 30 avril et le 1er mai 2024, à Fredericton
+(Nouveau-Brunswick).
+Devant : L’honorable juge David E. Graham
+Comparutions :
+Avocat de l’appelante :
+Me John Loukidelis
+Avocats de l’intimé :
+Me Allan Mason
+Me Shane Isler
+JUGEMENT
+L’appel visant les nouvelles cotisations établies pour les années d’imposition 2015, 2016, 2017 et 2018 de l’appelante est accueilli.
+Les dépens sont adjugés en faveur de l’appelante. Les parties ont jusqu’au 17 juin 2024 pour parvenir à une entente sur les dépens, à défaut de quoi l’appelante aura jusqu’au 17 juillet 2024 pour signifier et déposer ses observations écrites sur les dépens, puis l’intimé aura jusqu’au 29 juillet 2024 pour signifier et déposer une réponse écrite. Ces observations ne doivent pas excéder dix pages. Si les parties n’informent pas la Cour qu’elles sont parvenues à une entente et qu’il n’y a pas de dépôt d’observations dans les délais susmentionnés, les dépens seront adjugés à l’appelante selon ce que prévoit le tarif.
+Signé à Ottawa, Canada, ce 16e jour de mai 2024.
+« David E. Graham »
+Le juge Graham
+Traduction certifiée conforme
+ce 4e jour de mai 2026.
+Guillaume Chénard, jurilinguiste principal
+Référence : 2024 CCI 71
+Date : 20240516
+Dossier : 2022-3096(IT)G
+ENTRE :
+KATHRYN J. CARTER,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Graham
+[1] Le présent appel concerne l’application de l’article 84.1 de la Loi de l’impôt sur le revenu à la vente d’actions d’entreprise familiale.
+[2] Les seules questions qui se posent sont celles de savoir si l’appelante a traité en toute indépendance avec la société qui a acheté ses actions dans l’entreprise familiale au moment de l’achat et si la société acheteuse était liée à l’entreprise familiale immédiatement après cet achat.
+[3] Je commence par exposer le contexte qui a donné lieu aux opérations en question, puis je décris ces opérations et enfin j’analyse si l’article 84.1 doit s’appliquer.
+I. Résumé des faits A. Historique de l’entreprise [4] Brown’s Paving Ltd. (« BPL ») exerce une activité d’asphaltage au Nouveau-Brunswick. L’entreprise a été créée par le grand-père de l’appelante et a été transmise de génération en génération depuis 1957.
+[5] Après le décès du grand-père de l’appelante, BPL a été transmise au père de l’appelante, Wallace Brown, et à son oncle, Calvin Brown. Après le décès de Calvin Brown, à la fin des années 1990, Wallace Brown est devenu l’unique actionnaire de BPL.
+B. Intégration de la nouvelle génération [6] À cette époque, Wallace Brown a fait entrer son neveu, Corey McAllister, dans l’entreprise. M. McAllister est le fils d’une des sœurs de Wallace Brown. Calvin Brown s’était occupé des ventes et des devis. Ce n’était pas l’un des points forts de Wallace Brown et il souhaitait recruter quelqu’un qui puisse remplir ce rôle. M. McAllister, qui était récemment diplômé d’un programme universitaire de génie civil, avait déjà travaillé pour BPL et possédait une expérience professionnelle dans le domaine des essais d’asphalte. Wallace Brown a estimé que M. McAllister serait un atout pour l’entreprise.
+[7] À peu près à la même époque, l’appelante, qui était à l’école secondaire, a commencé à travailler pour BPL. Comme le souhaitait son père, l’appelante a commencé au bas de l’échelle avec l’intention d’expérimenter tous les aspects de l’entreprise.
+[8] Pendant ses études secondaires, l’appelante travaillait l’été, d’abord comme signaleuse dans une équipe de ragréage, puis comme manœuvre. Après avoir obtenu son diplôme, elle a commencé à travailler à temps plein pour BPL en tant qu’opératrice d’équipement lourd. L’appelante a dit à son père qu’elle souhaitait un jour reprendre l’entreprise.
+[9] Pour mieux se préparer à l’avenir, l’appelante s’est inscrite à un programme d’études commerciales de deux ans. Elle a continué à travailler à BPL pendant l’été et y est retournée à temps plein après avoir obtenu son diplôme. C’est à ce moment-là qu’elle a commencé à diriger une équipe de ragréage et à faire des devis. Elle a utilisé ses nouvelles connaissances commerciales pour aider son père à mieux suivre les actifs de BPL et à mieux comprendre les finances de l’entreprise.
+[10] L’appelante a finalement décidé qu’un diplôme d’ingénieur civil de deux ans, axé sur les types de travaux effectués par BPL, lui serait bénéfique. M. McAllister avait un diplôme similaire et l’appelante pouvait en voir les avantages. Tout en poursuivant ses études, elle travaillait pour BPL pendant l’été. Elle est retournée à BPL à temps plein après avoir obtenu son diplôme, en 2005. Ses fonctions se sont ensuite étendues à l’arpentage routier, à l’échantillonnage et à l’analyse des sols, ainsi qu’à la mise en œuvre d’un programme de sécurité à l’échelle de l’entreprise pour que l’entreprise se conforme à la nouvelle réglementation gouvernementale.
+C. Enjeu de l’avenir [11] En 2007, M. McAllister et l’appelante ont tous deux discuté de manière indépendante avec Wallace Brown au sujet d’une prise de participation dans BPL.
+[12] M. McAllister a indiqué qu’il travaillait pour BPL depuis environ 10 ans et qu’il souhaitait participer à l’avenir de l’entreprise. Il a poussé Wallace Brown à le laisser acheter des actions.
+[13] L’appelante a réaffirmé à son père qu’elle souhaitait un jour reprendre l’entreprise. Ce dernier a indiqué à l’appelante qu’il se réjouissait de cette initiative, mais qu’il pensait que l’appelante bénéficierait de la participation continue de M. McAllister. Il a proposé d’émettre des actions pour chacun d’entre eux.
+D. Gel successoral [14] À la suite de ces conversations, Wallace Brown a conclu en 2007 un gel successoral par lequel il a échangé ses actions ordinaires de BPL contre des actions privilégiées de classe B sans droit de vote, rachetables à un montant égal à la juste valeur marchande de BPL au moment du gel et contre 1 000 actions privilégiées de classe A avec droit de vote.
+[15] Le même jour, Wallace Brown, l’appelante et M. McAllister ont souscrit respectivement 20 actions ordinaires de classe A, 40 actions ordinaires de classe B et 40 actions ordinaires de classe C.
+[16] Bien que Wallace Brown ait renoncé à une grande partie de ses intérêts dans la croissance future de BPL, il a continué à contrôler l’entreprise grâce à ses actions privilégiées avec droit de vote.
+E. Croissance importante [17] En 2013, BPL a connu une croissance importante. Sur l’insistance de l’appelante et de M. McAllister, l’entreprise avait réalisé des investissements substantiels dans des équipements supplémentaires et avait approximativement doublé ses effectifs. Par conséquent, elle a également doublé ses revenus.
+[18] Alors que la participation de M. McAllister et de l’appelante dans l’entreprise s’était accrue, celle de Wallace Brown avait considérablement diminué. Il était en quelque sorte en semi-retraite. Il était toujours intéressé par le travail qu’il aimait, comme l’entretien des équipements, mais ne s’intéressait guère à la gestion de l’entreprise.
+II. Opérations A. Désir de changement [19] Au début de 2014, BPL a dû faire face à une concurrence accrue dans les prix. M. McAllister était d’avis que l’entreprise devait contrôler ses coûts. Il estimait que l’appelante n’avait plus le cœur à l’ouvrage et a reconnu que BPL disposerait d’une plus grande flexibilité financière si elle n’avait pas à verser une part des bénéfices à l’appelante.
+[20] À la fin de 2014, M. McAllister a proposé à l’appelante d’acheter ses actions. L’appelante a été surprise. Elle n’avait pas envisagé de vendre ses actions. Elle a dit à M. McAllister qu’elle y réfléchirait.
+[21] En 2008, l’appelante a commencé à fréquenter l’homme qui allait devenir son mari. Il vivait dans une autre ville, à environ 60 à 90 minutes de BPL. L’appelante a emménagé avec lui en 2010 et a commencé à vivre ce qui s’est avéré être des années de lever très précoce et de longs trajets pour se rendre au travail. Le couple s’est marié en 2013.
+[22] Même si l’appelante n’avait pas envisagé de vendre ses actions, l’idée l’a séduite après réflexion. Elle appréciait son travail à BPL, mais pas les trajets. Son mari et elle souhaitaient fonder une famille et elle n’était pas sûre de pouvoir concilier ce projet avec les exigences de l’entreprise.
+B. Négociations [23] L’appelante a proposé de vendre ses actions à M. McAllister pour 800 000 $. M. McAllister lui a dit qu’il avait envisagé de proposer un prix plus proche de 250 000 $, bien qu’il ait déclaré que, dans son esprit, il s’attendait à un prix situé entre 300 000 $ et 500 000 $. Finalement, ils ont accepté que l’entreprise soit évaluée.
+[24] L’appelante et M. McAllister ont tous deux demandé à Wallace Brown d’approuver le rachat (à la fois à titre personnel et parce qu’il disposait d’un droit de préemption). Toutefois, Wallace Brown s’est tenu à l’écart des négociations.
+[25] Finalement, l’appelante et M. McAllister se sont mis d’accord sur un prix de 600 000 $. L’appelante a accepté ce prix à condition qu’elle reçoive le paiement intégral à la clôture de l’opération et que la vente soit structurée de manière à lui permettre d’utiliser son exonération de gains en capital pour mettre ses gains à l’abri.
+C. Avec quel argent? [26] M. McAllister n’avait pas les moyens d’acheter les actions de l’appelante. Il savait qu’il lui faudrait emprunter l’argent nécessaire. Il voulait s’assurer que les intérêts de ce prêt seraient déductibles.
+D. Conseils professionnels [27] L’appelante et M. McAllister ont décidé de faire appel à l’avocat de BPL pour documenter la vente des actions. À la suggestion de leur avocat, ils ont retenu les services d’un cabinet comptable pour obtenir des conseils fiscaux.
+[28] Le cabinet comptable a expliqué qu’il existait différentes façons de structurer l’opération. Il a recommandé une série d’opérations qui répondraient aux objectifs de l’appelante et de M. McAllister.
+E. Introduction de Corco [29] En décembre 2014, M. McAllister a transféré toutes ses actions de BPL à une société de portefeuille nouvellement créée, Corco Holdings Inc. (« Corco »). M. McAllister était l’unique actionnaire de Corco.
+[30] Bien que Corco ait joué un rôle important dans la stratégie fiscale, je conclus que M. McAllister était déjà en train de créer une société de portefeuille à des fins fiscales personnelles et qu’il en aurait créé une pour détenir ses actions même si l’achat des actions de l’appelante n’avait pas eu lieu.
+F. Opérations en litige [31] Les opérations en litige sont relativement simples.
+[32] À la fin de février 2015, BPL a emprunté 600 000 $ à une banque. BPL a consenti à la banque une sûreté sur l’ensemble de ses actifs. M. McAllister et Corco ont garanti le prêt et Corco a mis en gage ses actions dans BPL. Wallace Brown n’a pas garanti le prêt.
+[33] Au début de mars, Corco a acheté toutes les actions de l’appelante. Corco a payé les actions en émettant un billet à ordre payable sur demande de 600 000 $.
+[34] BPL a ensuite racheté ces actions de Corco en échange de 600 000 $ et Corco a utilisé cet argent pour payer le billet à ordre payable sur demande.
+[35] L’appelante a déclaré qu’elle ne savait pas comment M. McAllister prévoyait de financer l’achat des actions. M. McAllister a témoigné qu’il n’avait pas parlé du prêt à l’appelante. Je conclus que l’appelante et M. McAllister sont tous deux crédibles. Toutefois, sur ce point, je pense qu’une description plus précise serait que, lorsque les opérations ont eu lieu, l’appelante était consciente que des démarches supplémentaires devaient être entreprises, que quelqu’un allait devoir emprunter de l’argent et qu’il y aurait un rachat d’actions, mais, comme aucun de ces éléments ne la concernait, elle n’a pas prêté une attention particulière aux détails.
+[36] Je dois signaler que Wallace Brown n’a pas témoigné. Aucune des parties ne m’a demandé de tirer une conclusion défavorable de ce manquement et je ne l’ai pas fait. En tant qu’actionnaire de contrôle de BPL et partie à l’accord unanime des actionnaires, Wallace Brown avait manifestement la capacité de diriger la manière dont les opérations se sont déroulées. Toutefois, j’accepte le témoignage de l’appelante et de M. McAllister selon lequel Wallace Brown s’est tenu à l’écart des négociations et s’est contenté de faire ce qui lui était demandé pour la conclusion des opérations. En l’absence de toute preuve de sa part, je n’ai pas examiné ses motivations.
+G. Déclaration de revenus et établissement d’une nouvelle cotisation [37] L’appelante a déclaré un gain en capital de 599 960 $. Le rachat des actions de BPL détenues par Corco a donné lieu à un dividende réputé. Corco a demandé une déduction au titre de l’article 112, ce qui n’a entraîné aucune obligation fiscale.
+[38] Le ministre du Revenu national a établi une nouvelle cotisation à l’égard de l’appelante en application de l’article 84.1 afin de supprimer le gain en capital du revenu de cette dernière et de le remplacer par un dividende réputé.
+H. Avenir [39] BPL a remboursé le prêt en deux ou trois ans.
+[40] L’entreprise a continué de croître. En 2021, M. McAllister a acheté les actions privilégiées avec droit de vote de classe A et les actions ordinaires de Wallace Brown pour la somme de 1 000 000 $, de sorte que la totalité de la croissance future de l’entreprise lui revenait, ainsi qu’à Corco[1]. Wallace Brown a continué à détenir ses actions de gel privilégiées de classe B.
+III. Application de l’article 84.1 A. Critères à remplir [41] L’article 84.1 est une règle anti-évitement visant à empêcher le dépouillement des surplus. Plusieurs conditions doivent être remplies pour que l’article s’applique. Ces conditions, pour la plupart d’entre elles, ne sont pas en litige.
+[42] Les parties conviennent que l’article 84.1 ne s’applique aux opérations en question que si :
+a)l’appelante et Corco avaient un lien de dépendance lorsque Corco a acheté les actions de l’appelante; et
+b) immédiatement après la vente des actions de l’appelante, Corco et BPL étaient rattachées au sens du paragraphe 186(4).
+[43] Je conclus qu’aucun de ces critères n’a été rempli.
+B. L’appelante et Corco avaient entre elles un lien de dépendance [44] Les parties conviennent que l’appelante et Corco ne sont pas des personnes liées au sens du paragraphe 251(2) et que, par conséquent, la seule façon de considérer qu’elles ont un lien de dépendance est de déterminer si elles ont un lien de dépendance dans les faits, conformément à l’alinéa 251(1)c).
+[45] La jurisprudence établit que les parties peuvent être considérées comme ayant un lien de dépendance au sens de l’alinéa 251(1)c), si elles agissent de concert sans avoir d’intérêts distincts[2]. L’intimé soutient que l’appelante et Corco ont satisfait à ce critère. Il affirme que Corco était un facilitateur dont le seul rôle était de permettre à l’appelante d’utiliser sa déduction pour gains en capital. Je ne suis pas d’accord.
+[46] La théorie de l’intimé repose sur la prémisse erronée que l’appelante voulait se retirer de BPL et que M. McAllister et Corco ont accepté de l’aider à le faire de la manière la plus efficace possible sur le plan fiscal. Ce n’est pas du tout ce qui s’est passé.
+[47] M. McAllister a abordé l’appelante. C’est lui qui voulait qu’elle quitte la société. Elle n’avait pas envisagé de vendre ses actions.
+[48] L’appelante et Corco ont entamé des négociations serrées sur les conditions de la vente. L’appelante était disposée à vendre, mais seulement au bon prix et à condition de pouvoir utiliser son exonération des gains en capital.
+[49] Je conclus que les opérations ont été structurées de la manière dont elles l’ont été afin d’avantager Corco. Corco avait besoin d’un moyen de financer l’achat. M. McAllister n’avait ni les fonds disponibles ni la capacité de les emprunter. Il avait besoin de BPL pour financer le rachat et souhaitait que les intérêts soient déductibles par BPL. M. McAllister et Corco ont personnellement garanti le prêt parce que ce sont eux, et non Wallace Brown, qui devaient en bénéficier.
+[50] En revanche, l’appelante ne se souciait pas de savoir comment Corco avait organisé le financement ou si Corco l’avait de fait organisé, tant que l’appelante était payée intégralement à la clôture de l’opération. L’appelante a bénéficié du traitement des gains en capital, mais elle aurait également obtenu ce résultat si M. McAllister avait acheté ses actions. En outre, elle aurait obtenu ce résultat, que l’acquéreur ait acheté ses actions avec son propre argent ou avec de l’argent emprunté.
+[51] Les opérations n’étaient qu’une étape dans la stratégie à long terme de M. McAllister visant à ce que BPL lui appartienne, une stratégie qui a commencé en 2007 lorsqu’il a abordé Wallace Brown pour acheter des actions de BPL, s’est poursuivie en 2015 lorsque des changements de circonstances lui ont donné l’occasion de révoquer l’appelante en tant qu’actionnaire, et s’est rapprochée de la concrétisation complète en 2021 lorsque lui et Corco sont devenus les seuls détenteurs d’actions ordinaires de BPL.
+[52] L’intimé soutient que l’appelante, Corco, Wallace Brown et BPL n’étaient finalement pas dans une position différente de celle qu’ils auraient eue si BPL avait emprunté de l’argent et l’avait utilisé pour racheter les actions de l’appelante. Cette comparaison n’est pas juste. L’intimé me demande de comparer ce qui s’est réellement passé à un ensemble d’opérations qui n’auraient jamais eu lieu.
+[53] Les parties ne se sont retrouvées dans cette situation que parce que l’appelante, lorsqu’on le lui a demandé, était disposée à vendre ses actions à Corco. Si elle avait refusé, les éléments de preuve indiquent qu’aucune opération n’aurait eu lieu. Rien dans la preuve n’établit que BPL avait le droit de racheter ou d’acheter les actions de l’appelante. La convention unanime des actionnaires de BPL ne contenait pas de clause ultimatum. Même si l’appelante avait démissionné de son emploi auprès de BPL (ce qu’elle n’avait pas l’intention de faire), la convention unanime des actionnaires ne prévoyait qu’un mécanisme permettant à Wallace Brown et à M. McAllister (et non à BPL) de racheter ses actions.
+[54] L’intimé fait également valoir que Corco n’a pas bénéficié des opérations. Une fois de plus, cet argument repose sur la fausse prémisse que les opérations auraient autrement eu lieu au moyen d’un rachat des actions de l’appelante. Corco a de toute évidence bénéficié des opérations. Elle a considérablement augmenté sa part de la croissance future de BPL, qui est passée de 40 % à 66,7 %, une augmentation qui n’aurait pas eu lieu sans la vente et qui, compte tenu de ce que M. McAllister a payé à Wallace Brown pour ses actions en 2021, semble avoir été très lucrative pour Corco. En outre, Corco a bénéficié indirectement des liquidités supplémentaires dont BPL a disposé dès lors qu’elle n’a plus eu à verser de salaire à l’appelante.
+[55] Les parties m’ont renvoyé aux décisions suivantes : Brouillette c. La Reine[3], McMullen c. La Reine[4], Poulin c. La Reine[5] et RMM Canadian Enterprises Inc. c. La Reine[6]. Je conclus que les circonstances de l’appelante sont beaucoup plus semblables à celles où l’article 84.1 a été jugé inapplicable (Brouillette, McMullen et les circonstances de M. Poulin dans Poulin) qu’elles ne l’étaient à celles de RMM où l’article 212.1 a été jugé applicable ou à celles de M. Turgeon dans Poulin où l’article 84.1 a été jugé applicable.
+[56] En fin de compte, pour que l’appelante et Corco aient agi de concert sans intérêts distincts, il faut qu’il y ait quelque chose de plus que d’avoir les mêmes conseillers fiscaux et un intérêt commun à réaliser l’opération[7]. D’après les éléments de preuve dont je dispose, je ne vois pas en quoi consistait ce quelque chose de plus.
+C. Corco et BPL n’étaient pas rattachées [57] Ayant conclu que l’appelante et Corco n’avaient pas de lien de dépendance entre elles, il n’est pas nécessaire que j’examine si Corco et BPL étaient rattachées au sens du paragraphe 186(4). Je vais néanmoins examiner brièvement la question.
+[58] Les parties conviennent que Corco et BPL n’étaient pas rattachées au sens de l’alinéa 186(4)b). À première vue, il semblerait qu’elles n’aient pas non plus été rattachées au sens de l’alinéa 186(4)a) parce que BPL n’était pas contrôlée par Corco. Toutefois, le paragraphe 186(7) entraîne l’application du paragraphe 186(2). Selon le paragraphe186(2), BPL serait considérée comme contrôlée par Corco si plus de 50 % des actions de BPL assorties de droits de vote étaient détenues par une personne avec laquelle Corco avait un lien de dépendance.
+[59] Étant donné que, immédiatement après la vente des actions de l’appelante, Wallace Brown possédait plus de 90 % des actions avec droit de vote de BPL, le paragraphe 186(2) ne pouvait considérer que Corco contrôlait BPL que si Wallace Brown avait un lien de dépendance avec Corco. Rien dans la preuve ne vient appuyer une telle conclusion. Au contraire, tout indique que Wallace Brown n’a jamais eu un lien de dépendance avec Corco.
+IV. Conclusion [60] Sur le fondement des motifs qui précèdent, la nouvelle cotisation pour l’année d’imposition 2015 de l’appelante est annulée.
+V. Impôt minimum de remplacement [61] L’appel concernant les années d’imposition 2016, 2017 et 2018 de l’appelante porte sur des reports d’impôt minimum de remplacement résultant du gain en capital réalisé par l’appelante en 2015. Les parties conviennent que le résultat de l’appel concernant les années d’imposition 2016, 2017 et 2018 devrait être le même que le résultat de l’appel concernant l’année d’imposition 2015. Puisque j’ai annulé la nouvelle cotisation pour l’année d’imposition 2015, j’annulerai en conséquence les nouvelles cotisations pour les années d’imposition 2016, 2017 et 2018.
+Signé à Ottawa, Canada, ce 16e jour de mai 2024.
+« David E. Graham »
+Le juge Graham
+Traduction certifiée conforme
+ce 4e jour de mai 2026.
+Guillaume Chénard, jurilinguiste principal
+RÉFÉRENCE :
+2024 CCI 71
+NO DU DOSSIER DE LA COUR :
+2022-3096(IT)G
+INTITULÉ :
+KATHRYN J. CARTER c. SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Fredericton (Nouveau-Brunswick)
+DATE DE L’AUDIENCE :
+Le 30 avril et le 1er mai 2024
+MOTIFS DU JUGEMENT :
+L’honorable juge David E. Graham
+DATE DU JUGEMENT :
+Le 16 mai 2024
+COMPARUTIONS :
+Avocat de l’appelante :
+Me John Loukidelis
+Avocats de l’intimé :
+Me Allan Mason
+Me Shane Isler
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me John Loukidelis
+Cabinet :
+Loukidelis Professional Corporation
+Hamilton (Ontario)
+Pour l’intimé :
+Shalene Curtis-Micallef
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] M. McAllister a déclaré avoir acheté les actions de M. Brown. Il n’est pas clair s’il les a achetées personnellement ou s’il voulait dire que Corco les avait achetées. Puisque cette question n’a aucune incidence sur le présent appel, je prendrai son témoignage au pied de la lettre et j’accepterai qu’il les ait achetées.
+[2] McNichol c. La Reine, [1997] A.C.I. no 5 (QL).
+[3] 2005 CCI 203.
+[4] 2007 CCI 16.
+[5] 2016 CCI 154.
+[6] [1997] A.C.I. no 302 (QL).
+[7] Brouillette; McNichol; McMullen; et Poulin.

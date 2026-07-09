@@ -1,0 +1,249 @@
+Title: Massicolli v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30973/index.do
+Corpus path: corpus/cases/tcc/2012/2012-tcc-344-30973-massicolli-v-the-queen-en.md
+Document type: case_law
+Last modified: 2012-10-01
+
+# Massicolli v. The Queen
+
+- Citation: 2012 TCC 344
+- Decision date: 2012-10-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4817, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Massicolli v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-10-01
+Neutral citation
+2012 TCC 344
+File numbers
+2009-2575(IT)G
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-2575(IT)G
+BETWEEN:
+CARLO MASSICOLLI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on September 21, 2011, at Montréal, Quebec
+Before: The Honourable Justice B. Paris
+Appearances:
+Counsel for the appellant:
+Serge Racine
+David Champagne
+Counsel for the respondent:
+Mounes Ayadi
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2002, 2003 and 2004 taxation years are allowed in part with costs to the respondent, and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the appellant is entitled to the following additional deductions on account of motor vehicle expenses
+2002
+$2,786.38
+2003
+$4,849.57
+2004
+$4,502.76
+in order to take account of the adjustments to motor vehicle expense deductions granted by the respondent.
+Signed at Sherbrooke, Quebec, this 1st day of October 2012.
+“B. Paris”
+Paris J.
+Translation certified true
+On this 9th day of January 2012
+François Brunet, Revisor
+Citation: 2012 TCC 344
+Date: 20121001
+Docket: 2009-2575(IT)G
+BETWEEN:
+CARLO MASSICOLLI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Paris J.
+[1] This is an appeal from reassessments pertaining to the 2002, 2003 and 2004 taxation years. In making those reassessments, the Minister of National Revenue (the Minister) disallowed the following deductions claimed by the appellant on account of employment expenses:
+Description
+2002
+2003
+2004
+Research expenses
+N/A
+$134,697
+$152,199
+Payment of royalties
+N/A
+$19,222
+$32,952
+Salary to an assistant
+$19,181
+$9,522
+N/A
+Motor vehicle expenses
+$12,726
+$8,448
+$12,896
+[2] At the hearing before this Court, the parties agreed on the amount of the deductions for motor vehicle expenses to which the appellant was entitled for the three years in issue, specifically:
+2002
+$2,786.38
+2003
+$4,849.57
+2004
+$4,502.76
+[3] The appellant, for his part, is no longer contesting the disallowance of the royalty payments.
+[4] The issues still in dispute are whether the appellant was entitled to the research expense deductions in 2003 and 2004, and whether he was entitled to the deduction for salary paid to an assistant in 2002 and 2003.
+[5] With respect to the research expenses, it must be determined whether they were reasonable in the circumstances, within the meaning of section 67 of the Income Tax Act (the ITA), which reads as follows:
+67. In computing income, no deduction shall be made in respect of an outlay or expense in respect of which any amount is otherwise deductible under this Act, except to the extent that the outlay or expense was reasonable in the circumstances.
+[6] As for the salary that the appellant paid his spouse, it must be determined whether the appellant’s employment contract required him to incur the expenses, which are referred to in subparagraphs 8(1)(i)(ii) and subsection 8(10) of the ITA, which read as follows:
+8. (1) In computing a taxpayer’s income for a taxation year from an office or employment, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+. . .
+(i) [Dues and other expenses of performing duties] amounts paid by the taxpayer in the year as
+. . .
+(ii) office rent, or salary to an assistant or substitute, the payment of which by the officer or employee was required by the contract of employment,
+. . .
+to the extent that the taxpayer has not been reimbursed, and is not entitled to be reimbursed in respect thereof;
+(10) [Certificate of employer] An amount otherwise deductible for a taxation year under paragraph (1)(c), (f), (h) or (h.1) or subparagraph (1)(i)(ii) or (iii) by a taxpayer shall not be deducted unless a prescribed form, signed by the taxpayer’s employer certifying that the conditions set out in the applicable provision were met in the year in respect of the taxpayer, is filed with the taxpayer’s return of income for the year.
+[7] The only witness called to testify at the hearing was the appellant.
+Facts
+[8] The appellant was a securities broker with National Bank Financial (NBF) from January 1, 2002, to October 1, 2004, and with Desjardins Securities (DS) for the remainder of the 2004 taxation year.
+[9] During those years, the appellant earned 100% of his income in the form of commission income, specifically, $374,477 for the 2002 taxation year, $463,510 for the 2003 taxation year, and $376,262 for the 2004 taxation year.
+[10] Beginning in May 2003, the appellant partnered with Mark Auger, another investment advisor with NBF. They called their partnership Auger-Massicolli and, in these reasons for judgment, I will refer to them as “the partners”.
+[11] The appellant says that he had considerable success with his business in the years 2003 and 2004. Out of a total of roughly 800 brokers, he was one of the Top 50 NBF brokers in terms of assets under management in 2003 and 2004. He explains that it was important for him and Mr. Auger to be part of this Top 50 in order to benefit from the visibility that such a position confers. It was therefore a concern of theirs to attain or even exceed their objectives in terms of assets under management, so that they could be among the Top 50 brokers. The appellant estimates that asset management accounts for roughly 80% of NBF’s revenues.
+[12] The evidence discloses that the appellant did indeed experience an increase, and that he surpassed the objectives that he set for himself in 2003. NBF’s performance report for May 2003 states that the assets under the appellant’s management, which had previously totalled $70,604,172, stood at $123,733,248 at the time of printing the report. This is considerably above the $80-million objective that the appellant had set for himself.
+Research expenses
+[13] The partners’ business plan included, among other things, weekly contacts with their clients. This idea was inspired by a workshop that the partners attended with an American firm (Top Producer). At the workshop, it was shown that the more contacts brokers have with their clients, they more likely they are to retain their clientele and obtain names of potential clients. This was one of the best practices that the partners wanted to adopt.
+[14] One of the ways that the partners chose to establish contacts with their clients was to mail them economic information, such as financial research reports, or articles from newspapers and specialized magazines.
+[15] According to the appellant, securities brokerage firms, including NBF and DS, offer their brokers an information service. The service provides research reports that the brokers can send their clients. However, the appellant says that the purpose of the service offered by securities brokerage firms is to sell products offered by the financial institutions, and that the documents they prepare have a promotional flavour. This assertion is said to be confirmed by a written policy of NBF:
+[translation]
+In view of the marketing efforts that the company devotes to the preparation of documents of a promotional nature for our retail clientele, it would not be appropriate for us to defray the costs of mass mailings that investment advisors might send to their clientele.
+[16] As for costs, the appellant explained that the first financial research report from NBF was provided free of charge to each broker, and that each additional report cost $20.
+[17] Now, given the nature of the information and the cost of the services, the partners preferred to use the services of Sydwood Investments Inc. (Sydwood) to obtain the materials that they could include in the mailings to their clients.
+[18] Fifty percent of the shares of Sydwood are held by corporations controlled by Mr. Auger, and the other 50% are held by a corporation controlled by the Massicolli Family Trust. Mr. Auger and the appellant are also Sydwood’s directors. The only employees of Sydwood are the appellant’s wife Ms. Lafleur, and Mr. Auger’s wife Ms. Wood.
+[19] The appellant states that he did business with Sydwood to obtain information on various areas of interest to his clientele. Sydwood provided independent information in specific fields of activity related to the interests of its clientele at the relevant time. Thus, unlike the product offered by NBF, Sydwood’s product was adapted to the investments of each client.
+[20] According to the usual procedure, the appellant worked more closely with the clients and ascertained their information needs. He then informed his partner of those needs and asked that information be produced on subjects of special interest. The partners might also consult with each other to agree on the nature of the order from Sydwood. Mr. Auger then took care of placing the order with Sydwood.
+[21] Once the order was received, the employees performed research on the field or subject in question. Therefore, their task was to scan magazines and specialized newspapers like Barron’s, The Economist or the Financial Post, or La Presse or The Gazette, to find all the relevant articles on a given subject. The appellant said that if it was possible to find several articles of interest to the client, all the articles were sent to the client.
+[22] The NBF internal service was used for the mailings to clients, and the brokers were then billed for the cost.
+[23] Sydwood’s fee is fixed: regardless of the volume of work the corporation does, it receives a monthly amount equal to 0.15% (15 basis points) of the total assets generated by the two partners.
+[24] On the basis of the information provided by one Ms. Chartier, the appellant stated that the decision on billing was made by Mr. Auger before he was even involved with Sydwood. The Court was not provided any details regarding Ms. Chartier’s role in the affairs of Sydwood. The appellant also explained that the 15 basis point figure was established on the basis of the fees charged by accounting firms that offer the same service both in the US and in Canada. For example, the appellant stated that Infinity, a company owned by Ernst &Young, bills 15 to 40 basis points for the same kind of work. The appellant admits that he did not mention this comparison with other companies at the examination for discovery.
+[25] In addition, the appellant says that he always argued, in his prior communication with the CRA and counsel for the respondent, that the partners did business with Sydwood because no other company provided the same service.
+[26] The appellant’s share of the research fees paid to Sydwood was $134,697 for the months of May to December 2003, and $152,199 for the entire 2004 year.
+[27] Sydwood paid Ms. Lafleur a salary of $16,666 for the period from May to December 2003 and $24,999 in 2004, and it paid Ms. Wood a salary of $24,999 for each of the two years.
+Salary to an assistant
+[28] With respect to the expense consisting in a salary to an assistant, the appellant claims that he worked on building his client base from August 2001 to May 2003, and that it was in this context that Ms. Lafleur’s services were useful to him. He claims to have been an investment advisor since 1993, but that, from 1996 to 2000, he was a branch manager for NBF in Pointe-Claire and made no business investments during that time. He started over again in 2000 when he partnered with Michel Lamarre. That partnership ended in August 2001, and he had to build his own client base at that time. In May 2003, he formed another partnership, this time with Mark Auger.
+[29] Ms. Lafleur, the appellant’s spouse, worked for NBF until 2000. Her duties at that time were mainly administrative — telephone follow-ups, filing and photocopies, for example — but they also included the preparation and sending of mailings to prospective clients. In 2000, Ms. Lafleur was dismissed by NBF on the basis that NBF did not approve of two spouses working in the same office.
+[30] From January 2002 to May 2003, the appellant hired Ms. Lafleur as a personal assistant.
+[31] The salary of $19,181 that he paid her in 2002 was similar to the salary that she received while working for NBF. The salary of $9,522 paid in 2003 was pro‑rated because Ms. Lafleur was dismissed in late April 2003 and was hired the following month by Sydwood.
+[32] The appellant claims that he retained Ms. Lafleur’s services in order to attain the business objectives that he had set for himself. She gave him additional support to foster business development. Her responsibilities included the preparation of lists of potential clients, as well as mailings, telephone follow-ups, and the filing and archiving of records that he kept on potential clients. Having been trained by NBF, Ms. Lafleur allegedly developed a certain expertise on financial matters, which enabled her to follow the instructions that were given.
+[33] According to the appellant, the prospecting work done by Ms. Lafleur was intended to build his clientele. She could also do research on various fields in newspapers in order to prepare mailings for prospecting purposes. This prospecting enabled the appellant to establish contacts with potential clients. In May 2003, when Ms. Lafleur began to work for Sydwood, she also did research, but its purpose was to retain the client base that had already been established.
+[34] During these years 2002 and 2003, the appellant had access to assistants provided to him by NBF. On cross-examination, he explained that, during these years, NBF made three assistants and another investment advisor available to the appellant. Half of the assistants’ salaries, and their bonus, were paid by the partners, while the other half of their salaries was paid by NBF. The three assistants’ duties in 2002-2003 were the same was the duties that Ms. Lafleur performed when she had worked for the NBF earlier.
+[35] In addition, the appellant admitted that NBF did not demand, but rather permitted, that he hire an additional assistant at his own expense. The appellant had no written contract with NBF. He tendered Form T2200 in evidence; NBF states on the form that the decision is at the advisor’s discretion. In his opinion, NBF cannot force brokers to hire an assistant because every broker has a different business model, and this is why Form T2200, a general form sent to all brokers, bears the remark [translation] “discretionary”.
+The appellant’s argument
+Research expenses
+[36] In his argument, counsel for the appellant submitted that the Court, in determining whether the expense is reasonable, must not take into account the fact that Sydwood was related to its shareholders. In this regard, he cites the decision of Justice Archambault in Bertomeu v. The Queen:[1]
+22 . . . It must also be emphasized that section 67 does not refer to related persons, even though the fact that related persons were involved in this matter was one of the factors that the Minister’s auditor considered in applying that section.
+[37] He asserted that Sydwood was known to NBF’s compliance department and that the regulatory framework was adhered to. On this basis, he concluded that the research service used by the appellant was related to the type of activity that he carried out in the institution during the years 2003 and 2004.
+[38] Citing Bertomeu, counsel for the appellant discussed the integration principle and tried to show that, ultimately, given the redistribution in the form of dividends, the appellant did not save any taxes. However, such a finding is not warranted in view of the evidence.
+[39] Counsel for the appellant then cited Gabco Ltd. v. Minister of National Revenue,[2] in which Justice Cattanach of the Exchequer Court interpreted the words “reasonable in the circumstances” within the meaning of section 67:
+It is not a question of the Minister or this Court substituting its judgment for what is a reasonable amount to pay, but rather a case of the Minister or the Court coming to the conclusion that no reasonable business man would have contracted to pay such an amount having only the business consideration of the appellant in mind.
+[40] Counsel for the appellant asserted that, in view of the case law, the Court cannot put itself in the taxpayer’s shoes and question his business judgment. What must be evaluated is the usefulness of the material to the taxpayer. Moreover, in this case, it is submitted that there is a nexus between the appellant’s income and the service associated with the deduction claimed.
+[41] Counsel for the appellant submits that the information exchange between Sydwood and the partners is in the form of a subscription, given the fixed rate of 15 basis points. This information enables the partners to maintain close business ties with their clients by enabling the partners to provide information to their clients and thereby retain, and possibly increase, the assets under their management.
+[42] Indeed, it is alleged that the primary reason that the appellant decided to partner with Mr. Auger and use Sydwood’s services was to increase his prosperity through better client management and an improved quality of assets under management.
+[43] Counsel for the appellant adds that the words “reasonable in the circumstances” in section 67 are meant to exclude expenses incurred by a taxpayer for reasons other than business reasons, such as a payment of salary to family members. Thus, even poor business judgment should not be taken into account in assessing the reasonableness of an expense. That, it is submitted, is the doctrine of the decision of Justice Woods in Ankrah v. The Queen:[3]
+34 The phrase in section 67 “reasonable in the circumstances” is broad but I do not believe that it should apply to reduce expenses based on poor business judgment. Section 67 is commonly applied to reduce the quantum of expenses in cases where the taxpayer is motivated partly by something other than business reasons, such as a payment of salaries to family members. . . .
+[44] Counsel for the appellant also argues that the nature of the business must be taken into consideration in the analysis under section 67, and cites Nielsen Development Co. Ltd. v. The Queen, 2009 TCC 160, in support of that proposition.
+[45] He asserts that, in view of the context of the work done by the appellant, it was logical for him to incur research expenses because the research conferred added value to his services. These services, which were different from those offered by NBF, enabled the partners to form closer relationships with their clients.
+[46] Counsel for the appellant added that Mark Auger’s corresponding expenses were audited and accepted by the CRA. Sydwood was also audited and was qualified as a personal services business.
+Salary expense
+[47] Counsel for the appellant cites Schnurr v. The Queen,[4] a case decided by this Cour, where Associate Chief Justice Bowman (as he then was) held that the taxpayer was entitled to deduct the salary paid to his spouse because there was an implicit obligation in his employment contract to hire an assistant and pay the assistant a salary. With respect to this obligation, the Associate Chief Justice said:
+9. . . . It was however implicit in the relationship with Nesbitt Thomson that if Mr. Schnurr is to generate the sort of business for Nesbitt Thomson that it expected him to, he is required to hire someone to perform the type of services that his wife performed. . . .
+[48] In the instant case, counsel for the appellant states that his client had an implicit obligation to hire and pay and assistant, and that NBF agreed that the appellant’s wife could work for him.
+[49] Counsel for the appellant admitted that NBF did not formally require the appellant to hire an additional assistant, and that Form T2200 left it to Mr. Massicolli’s discretion whether to hire an assistant or not. The evidence has shown that NBF was made aware of the fact that the appellant hired an additional assistant and that this practice met the appellant’s business initiatives.
+[50] The appellant had no written employment contract with NBF. Thus, the business relationship between the parties was formed tacitly over the years.
+[51] For example, after Ms. Lafleur was dismissed by NBF, she continued, from home, to do the business development work that she had been doing. This was a service that was offered neither by NBF client services nor by Sydwood.
+Analysis
+Research expenses
+[52] With respect to section 67 of the ITA, it is clear that the Court cannot substitute its judgment for that of the appellant in order to determine whether the research expenses are reasonable or not. The Court must objectively analyse the expense, taking into account the appellant’s business interests. Such is the doctrine of Gabco, supra, where Justice Cattanach set out the test under the predecessor of section 67, cited by the appellant earlier.
+[53] This test was adopted by the Federal Court of Appeal in Petro‑Canada v. The Queen,[5] under the current section 67.
+[54] The Federal Court of Appeal also examined section 67 in Mohammad v. The Queen,[6] which involved the deductibility of interest paid by the taxpayer. At paragraph 28 of the decision, the Court stated:
+[28] When evaluating the reasonableness of an expense, one is measuring its reasonableness in terms of its magnitude or quantum. Although such a determination may involve an element of subjective appreciation on the part of the trier of fact, there should always be a search for an objective component. When dealing with interest expenses, the task can be objectified readily. For example, it would have been open to the Minister to challenge the amount of interest being paid on the $25,000 loan had the taxpayer agreed to pay interest in excess of market rates. The reasonableness of an interest expense can thus be measured objectively, namely, by reference to market rates. . . .
+[55] The burden was therefore on the appellant to establish, upon objective standards, that the research expenses were reasonable. Krishna, in his treatise The Fundamentals of Income Tax Law,[7] states that one determines the reasonableness of an expense “by comparing the expense in question with amounts paid in similar circumstances in comparable businesses.”
+[56] In the instant case, the appellant tried to show that the amounts that he paid to Sydwood were lower than what he would have paid if he had purchased the NBF reports at $20 per unit and sent them to his clients. The appellant also suggested that the materials that he sent his clients were of a higher quality than the NBF reports.
+[57] In my opinion, there is not enough evidence before the Court to come to this conclusion.
+[58] First of all, the appellant did not produce any NBF report so that it could be compared to the newspaper and magazine articles provided by Sydwood. Without being able to compare the respective products, there is no way to address the question of the value of the respective products or services.
+[59] Another allegation, namely that the research expenses were cheaper than purchasing the NBF reports, was not supported by the evidence either. In order to draw a conclusion on the subject, one would have to know the number of mailings sent out by the appellant that included articles found by Sydwood.
+[60] The appellant estimated that he sent out 500 sets of articles found by Sydwood to his clients every week, and that the weekly cost of using NBF’s service would have been roughly $10,000 (at a cost of $20 per report). However, the documents produced by the appellant included only two journals recording mailings to clients, and those journals indicated that 227 items were sent on September 2, 2003, and that 43 items were sent on September 25, 2003. This evidence is not sufficient to show that the appellant sent out weekly mailings or that he sent the mailings to as many clients at a time as he asserts.
+[61] The appellant also submitted that the cost of the service provided by Sydwood was comparable to similar services rendered by accounting firms in Canada and the United States. In particular, he mentioned Infinity, a company supposedly owned by Ernst & Young. According to the appellant, Infinity bills 15 to 40 basis points for the same type of service. However, this information was not corroborated; no details of these supposedly similar services were presented. Consequently, the appellant has not shown that Sydwood’s services were similar to those of Infinity.
+[62] I agree with counsel for the respondent that the only useful element to emerge from the evidence in terms of the value of Sydwood’s services is the fact that it paid annual salaries of $24,999 to the appellant and Mr. Auger’s spouses in order to perform research at Sydwood. They were the only employees of Sydwood, and the appellant admitted that no expertise was needed for the research work. The bulk of their work consisted in scanning specialized magazines and newspapers for relevant economic information at the appellant and Mr. Auger’s request.
+[63] Therefore, the expenses incurred by Sydwood to provide the research services were only $50,000 per year, and the appellant, as a Sydwood director, would undoubtedly have known. This amount covered the services rendered by Sydwood to both Mr. Auger and the appellant.
+[64] In addition to the salaries, Sydwood apparently incurred expenses related to the office located in Mr. Auger and his spouse’s home, as well as magazine and newspaper subscription costs. However, it is obvious to me that the expenses incurred by Sydwood were greatly inferior to the amounts billed for research. The appellant provided no explanation based on which his decision to pay Sydwood an amount greatly in excess of the cost of its services could be justified. In my opinion, this decision cannot be explained having regard to the appellant’s business interests. The appellant has not shown that there were business considerations in play other than the price and the quality of the research services rendered by Sydwood, and those were, in fact, the same services that Ms. Lafleur and Ms. Wood rendered to Sydwood. Nothing in the evidence suggests that the interposition of the Sydwood corporation added value to its service. In the absence of such an explanation, it has not been shown that this decision resulted from the exercise of his business judgment, and the Minister’s denial of the deduction of the expense cannot be considered a substitution of the Minister’s judgment for the appellant’s judgment.
+[65] With respect to this first issue, the appellant has not discharged his burden to prove that the research expenses were reasonable in the circumstances.
+Salary to an assistant
+[66] The case law stands for the proposition that the requirement to hire and pay the salary of an assistant within the meaning of subparagraph 8(1)(i)(ii) of the ITA can be implicit, and the essentiality of the expense is sufficient to conclude that there is an implicit requirement to hire and remunerate an assistant.
+[67] In Schnurr, cited by counsel for the appellant, this Court established that it is not necessary for the obligation to hire an assistant and pay his or her salary to be explicit. The obligation can be implied from the employer-employee relationship.
+[68] This “implicit requirement” principle was followed in Sauvé v. The Queen,[8] Vickers v. The Queen[9] and Morgan v. The Queen.[10]
+[69] However, it is important to note that it is not sufficient that the employment contract authorizes the taxpayer to hire an assistant and pay his or her salary. The contract must require it. In Morgan, supra, Justice Bowie stressed the meaning of the term “required” in subparagraph 8(1)i)(ii):
+Both the English verb “to require” and the verb “obliger” that appears in the French version of the Act are necessarily imperative.
+[70] In Morgan, Justice Bowie was unable to find that there was an implicit obligation, since the appellant testified that his employment contract allowed but did not require him to hire and pay an assistant.
+[71] In the instant case, the appellant expressly testified that NBF did not require him to hire and pay an assistant; this choice was left to his discretion. The decision in Morgan is clear in this regard: the verb “require” within the meaning of subparagraph 8(1)(i)(ii) is imperative.
+[72] It seems equally clear to me that the hiring of an assistant was not essential to the performance of the duties of his employment. The decision to hire Ms. Lafleur as an assistant was more of a choice or preference than a necessity.
+[73] The appellant testified that Ms. Lafleur was particularly helpful to him in a context where he was working to build a clientele for himself. While she looked after prospecting, he could maintain relationships with existing clients. The appellant’s practice might perhaps have been more difficult or less efficient without Ms. Lafleur’s help, but he did not present any evidence tending to show that it was essential to the performance of his duties as a broker, or that her duties could not have been performed by the assistants that NBF made available to him.
+[74] In addition, it is clear that the T2200 forms adduced in evidence are contradictory. The employer answered the question concerning the requirement to hire an assistant with a [translation] “yes” and then indicated [translation] “discretionary”. Given this contradiction, I cannot accord any weight to the forms. In any event, Form T2200 is merely prima facie evidence (see Schnurr and Morgan) and the appellant’s testimony is sufficient to refute the allegation that NBF required the hiring of an assistant.
+[75] Lastly, the fact that the Minister allowed Mr. Auger to deduct his entire share of the amounts paid to Sydwood in 2003 and 2004 is not relevant here. Reasonableness is a question of fact (see Petro‑Canada at paragraph 64) and must be decided on the evidence produced at the hearing. Moreover, the respondent is not bound by the treatment afforded Mr. Auger. The issue of inconsistent assessments was considered by the Federal Court of Appeal in Hawkes v. The Queen,[11] where Justice Strayer wrote:
+7 I would first observe that this Court in no way condones inconsistent assessments or conflicting information being provided to taxpayers as is virtually admitted to have happened here. Such conduct must surely be avoided if at all possible if taxpayers are to perceive the system as fair, equitable, and reasonable in application, a system with which they are expected to cooperate voluntarily.
+8 It is quite another matter, however, to say that the Minister must always be bound by his own mistakes. I do not understand that to be the established law.
+9 This Court had occasion recently to review the law in respect of inconsistent assessments concerning the same taxpayer and as between different taxpayers. In Ludmer et al v. H.M., this Court considered earlier jurisprudence and confirmed the basic principle that it is the duty of the Minister to assess, and if necessary reassess, taxpayers’ returns so as to apply correctly the law to the facts. If the taxpayer disagrees with any particular assessment he or she has the right to appeal to the Tax Court of Canada where the law and the facts can be fully reviewed and a further appeal may be brought to this Court. Thus the fact that the Minister has assessed one return of a taxpayer in a different way from another return, or has assessed two taxpayers involved in similar activities differently, is not proof that any particular assessment is incorrect. That is a matter for determination on appeal.
+[76] As a result, the appellant is not entitled to deduct the salary paid to his spouse in 2002 and 2003 in computing his income from employment.
+Disposition
+[77] For all these reasons, the appeals will be allowed in part, solely to take account of the adjustments to the motor vehicle expense deductions granted by the respondent. Since the respondent was largely successful, she shall be entitled to her costs.
+Signed at Sherbrooke, Quebec, this 1st day of October 2012.
+“B. Paris”
+Paris J.
+Translation certified true
+On this 9th day of January 2012
+François Brunet, Revisor
+CITATION: 2012 TCC 344
+COURT FILE NO.: 2009-2575(IT)G
+STYLE OF CAUSE: CARLO MASSICOLLI AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: September 21, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice B. Paris
+DATE OF JUDGMENT: October 1, 2012
+APPEARANCES:
+Counsel for the appellant:
+Serge Racine
+David Champagne
+Counsel for the respondent:
+Mounes Ayadi
+COUNSEL OF RECORD:
+For the appellant:
+Name: Serge Racine
+David Champagne
+Firm: Séguin Racine
+Laval, Quebec
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2006 TCC 85.
+[2] [1968] 2 Ex. C.R. 511, 68 DTC 5210.
+[3] 2003 TCC 413
+[4] 2004 TCC 684.
+[5] 2004 FCA 158 at paragraph 62.
+[6] (1997), [1998] 1 F.C. 165
+[7] (Toronto: Carswell, 2009) at page 286.
+[8] 2006 TCC 528.
+[9] 2004 TCC 678.
+[10] 2007 TCC 475.
+[11] 97 D.T.C. 5060.

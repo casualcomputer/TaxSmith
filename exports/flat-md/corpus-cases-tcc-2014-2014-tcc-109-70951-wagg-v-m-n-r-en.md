@@ -1,0 +1,155 @@
+---
+title: "Wagg v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/70951/index.do"
+last_modified: "2014-04-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 109"
+citation2: ""
+neutral_citation: "2014 TCC 109"
+decision_date: "2014-04-08"
+language: "en"
+item_id: "70951"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5278
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:50:28.503000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "858a5f944e098ff26dfd9713d5ee3a7c371c972f517d72d008b1ca4d4535047d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Wagg v. M.N.R.
+
+- Citation: 2014 TCC 109
+- Decision date: 2014-04-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5278, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wagg v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-04-08
+Neutral citation
+2014 TCC 109
+File numbers
+2012-3805(EI), 2012-3827(EI)
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2012-3805(EI)
+BETWEEN:
+SHELDON WAGG,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent;
+Docket: 2012-3827(EI)
+AND BETWEEN:
+GREAT WHITE LANDSCAPING & SNOW REMOVAL LTD.
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence on March 10, 2014
+at Hamilton, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+Counsel for the Appellants:
+David Lees
+Adam B. Davis, Student-at-Law
+Counsel for the Respondent:
+Gregory B. King
+____________________________________________________________________
+JUDGMENT
+The appeals with respect to a decision of the Minister of National Revenue that Sheldon Wagg was not engaged in insurable employment with Great White Landscaping & Snow Removal Ltd. for the period from January 1, 2011 to December 31, 2011 are dismissed, and the decision of the Minister is confirmed.
+Signed at Toronto, Ontario this 8th day of April 2014.
+“J.M. Woods”
+Woods J.
+Citation: 2014 TCC 109
+Date: 20140408
+Docket: 2012-3805(EI)
+BETWEEN:
+SHELDON WAGG,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent;
+Docket: 2012-3827(EI)
+AND BETWEEN:
+GREAT WHITE LANDSCAPING & SNOW REMOVAL LTD.
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] Sheldon Wagg and Great White Landscaping & Snow Removal Ltd. (“Great White”) appeal with respect to a decision of the Minister of National Revenue that Mr. Wagg was not engaged in insurable employment with Great White for the period from January 1, 2011 to December 31, 2011.
+[2] The issue to be determined is whether Mr. Wagg’s terms of employment were substantially similar to arm’s length terms. The Minister was not satisfied that the terms were arm’s length, and he concluded that the employment was not insurable pursuant to s. 5(3)(b) of the Employment Insurance Act. The test is whether this decision seems reasonable based on the evidence presented at the hearing (Simms v The Minister of National Revenue, 2005 TCC 378, para 7).
+Background
+[3] Mr. Wagg commenced a landscaping and snow removal business in 2001 as a sole proprietor. In 2007 the business continued in corporate form through Great White. At that time, Mr. Wagg was the sole shareholder of Great White and he worked in the business on a full-time basis. He also had some part time help.
+[4] Sheldon and Christine Wagg were married on October 30, 2010. They testified that Mr. Wagg transferred the shares of Great White to Mrs. Wagg on November 1, 2010. They seemed reluctant to divulge the reasons for the transfer in their testimony.
+[5] On January 6, 2012, Mr. Wagg applied for employment insurance benefits for the period from January 1, 2011 to December 31, 2011. He stated that he was laid off from Great White after that time because there was not enough business, but that he continued to work for the corporation without remuneration except for the reimbursement of expenses.
+[6] By way of background, I would mention that some of the documentary evidence introduced at the hearing tends to conflict with the Waggs’ testimony that Mr. Wagg transferred his shares on November 1, 2010. It appears that the Canada Revenue Agency (CRA) was concerned about this during their review, but the Minister has not put this at issue in these appeals. Accordingly, I will assume for purposes of these appeals that the shares of Great White were owned by Mrs. Wagg at the relevant time. This is significant because, if Mr. Wagg had owned the shares, his employment would automatically not be insurable under the relevant provisions of the Employment Insurance Act.
+Discussion
+[7] The sole question to be determined is whether, based on the evidence at the hearing, it is reasonable to conclude that Mr. Wagg’s employment was not substantially similar to arm’s length employment “having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed.”
+[8] The evidence as a whole satisfies me that it is reasonable to conclude that Mr. Wagg’s employment was not substantially similar to arm’s length terms.
+[9] I will first consider the remuneration. Mr. Wagg was employed at a flat bi-weekly salary of $1,560, plus 4 percent for vacation pay, and an additional $4,440 paid in December as a Christmas bonus.
+[10] At the hearing, Mr. and Mrs. Wagg testified that the salary was kept the same as in prior years. They submitted that the salary was within the range of arm’s length hourly rates for a person working a 40 hour work week. Mr. Wagg testified that these were the hours worked, on average.
+[11] One of the problems that I have with this position is that the work hours in a snow removal business must vary substantially with the weather. I think it is unlikely, therefore, that an arm’s length employer would provide remuneration to an arm’s length worker engaged in snow removal based on a fixed salary.
+[12] A second difficulty that I have is that no records were kept of the hours worked. I can understand how hours for a landscaping business could be regular, but I do not understand how hours could be accurately estimated by the appellants for the snow removal business without some type of records being kept. I am not satisfied based on the evidence presented that Mr. Wagg worked an average of 40 hours per week.
+[13] Accordingly, the appellants have not established that the remuneration reflects arm’s length terms.
+[14] I would add that I am also not satisfied that an arm’s length relationship would pay vacation pay for this type of work and also a large Christmas bonus. It makes more sense that an arm’s length relationship in a seasonal business would give days off for vacation rather than give extra pay. As for the bonus, it far exceeds what one would expect as a Christmas bonus for this type of work.
+[15] Counsel argued that the bonus was reasonable in the context of Mr. Wagg being laid off. There is not sufficient evidence to support the characterization of the bonus as severance.
+[16] For these reasons, I am satisfied that it is reasonable to conclude that Mr. Wagg’s employment was not substantially similar to arm’s length terms. My conclusion would not change even if the other factors mentioned in the legislation were arm’s length terms (terms and conditions, duration and nature and importance of work).
+[17] Before concluding, I would also comment that I found much of the testimony of Mr. and Mrs. Wagg to be far-fetched. They described an employment relationship in which Mr. Wagg’s day to day activities were directed in detail by Mrs. Wagg and that Mr. Wagg reported to her throughout the work day. As an example, they testified that Mrs. Wagg would recommend what type of lawnmower to use for a particular job.
+[18] The circumstances in this case are that this business had been operated by Mr. Wagg for about 10 years prior to his marriage to Mrs. Wagg. Mrs. Wagg had a full-time job as an educator. It is simply not plausible that the business operated on the basis suggested in their testimony.
+[19] The appeals will be dismissed.
+Signed at Toronto, Ontario this 8th day of April 2014.
+“J.M. Woods”
+Woods J.
+CITATION: 2014 TCC 109
+COURT FILE NOS.: 2012-3805(EI)
+2012-3827(EI)
+STYLES OF CAUSE: SHELDON WAGG v.THE MINISTER OF NATIONAL REVENUE and GREAT WHITE LANDSCAPING & SNOW REMOVAL LTD. v. THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING: Hamilton, Ontario
+DATE OF HEARING: March 10, 2014
+REASONS FOR JUDGMENT BY: The Honourable Justice Judith Woods
+DATE OF JUDGMENT: April 8, 2014
+APPEARANCES:
+Counsel for the Appellants:
+David Lees
+Adam B. Davis, Student-at-Law
+Counsel for the Respondent:
+Gregory B. King
+COUNSEL OF RECORD:
+For the Appellants:
+Name: David Lees
+Firm: Mills & Mills LLP
+Toronto, Ontario
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Ontario

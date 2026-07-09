@@ -1,0 +1,226 @@
+---
+title: "Sebag c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27003/index.do"
+last_modified: "2005-10-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 699"
+citation2: ""
+neutral_citation: "2005 CCI 699"
+decision_date: "2005-10-27"
+language: "fr"
+item_id: "27003"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 548
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:22:32.686000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "02d5db0191d8918ea8df06ad3f8c3d1b95d4e56bb71726522bc565ad474ef1a6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sebag c. La Reine
+
+- Citation: 2005 CCI 699
+- Decision date: 2005-10-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 548, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sebag c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-10-27
+Référence neutre
+2005 CCI 699
+Numéro de dossier
+2003-485(IT)G
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-485(IT)G
+ENTRE :
+ROBERT SEBAG,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+MICHÈLE SALCITO,
+partie jointe.
+____________________________________________________________________
+Appels entendus le 1er septembre 2005 à Montréal (Québec)
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Avocate de l'appelant :
+Me Josée Cavalancia
+Avocat de l'intimée :
+Me Julie David
+Avocat de la partie jointe :
+Me Yves Archambault
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2000 et 2001 sont accordés, avec frais, et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 27e jour d'octobre 2005.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Référence : 2005CCI699
+Date : 20051027
+Dossier : 2003-485(IT)G
+ENTRE :
+ROBERT SEBAG,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+MICHÈLE SALCITO,
+partie jointe.
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx
+[1] En date du 8 novembre 2004, cette Cour a rendu une ordonnance liant madame Michèle Salcito à l'appel de l'appelant, en vertu de l'article 174 de la Loi de l'impôt sur le revenu (la « Loi » ). Dans cette affaire, il y a donc un appelant, une partie jointe et l'intimée.
+[2] La question en litige est de savoir si pour les années 2000 et 2001, un montant de 50 000 $, payé en 12 versements mensuels de 4 166,66 $, et un montant de 33 333 $, payé en versements mensuels du même montant, par l'appelant à la partie jointe, sont de la nature d'une pension alimentaire au sens du paragraphe 56.1(4) de la Loi. Dans un tel cas, le montant pourrait être déduit par l'appelant en vertu de l'alinéa 60b) de la Loi et devrait être inclus dans le revenu de la partie jointe en vertu de l'alinéa 56(1)b) de la Loi.
+[3] Le ministre du Revenu national (le « Ministre » ) a refusé les déductions de 50 000 $ et 33 333 $ réclamées par l'appelant. Il a suivi, à cet égard, une décision de cette Cour, rendue le 4 juillet 2002 qui a accueilli l'appel de madame Michèle Salcito pour l'année d'imposition 1999 et a déterminé que les paiements périodiques totalisant la somme de 50 000 $ n'étaient pas de la nature d'une pension alimentaire.
+[4] Il faut mentionner à l'égard de cette décision que l'appelant n'avait pas participé à l'appel et que depuis ce jugement, il y a eu un jugement de la Cour supérieure du Québec en date du 5 juin 2005 qui a été rendu à la suite d'une longue audience sur, notamment, une demande de pension alimentaire. Ce jugement dont je parlerai par la suite a été déposé comme pièce A-5.
+[5] Pour établir ses cotisations, le Ministre s'est fondé sur les faits décrits au paragraphe 21 de la Réponse à l'avis d'appel (la « Réponse » ) comme suit :
+a) l'appelant et Michèle Salcito (ci-après désignée « ex-conjointe » ) se sont mariés le 26 juin 1978 et se sont séparés en 1993;
+b) de cette union, sont nés deux enfants Alexandra et Yannick;
+c) durant les années d'imposition 2000 et 2001, l'appelant vivait séparé de son ex-conjointe;
+d) le 3 août 1993, l'appelant et son ex-conjointe, assistés de leurs procureurs respectifs, ont signé un accord écrit. (voir Annexe A);
+e) le paragraphe 7 de l'entente est à l'effet que :
+« Au lieu de payer un montant global de 400 000 $ à Madame, Monsieur paiera à Madame une pension alimentaire de 4 166,66 $ par mois pour une période fixe de huit (8) ans à compter du 1er août 1993; ce montant ne sera pas indexé, mais la pension sera déductible par Monsieur de ses revenus imposables et sera déclarée par Madame comme un revenu; »
+f) le paragraphe 8 de l'entente prévoit que :
+« Sujet à tout ce qui précède, les parties reconnaissent qu'aucune pension alimentaire ou somme globale ne sera payée pour l'entretien réciproque de l'autre conjoint, chaque partie déclarant être autonome et en mesure de subvenir à leurs besoins respectifs, et que leurs obligations alimentaires réciproques se sont terminées de façon définitive; en conséquence, les parties renoncent irrévocablement à tout droit de nature alimentaire présent, passé ou futur, nonobstant tous changements dans les circonstances des parties; »
+g) le paragraphe 9 est à l'effet que :
+« Les parties avaient convenu dans cette entente que l'appelant paierait les dépenses raisonnables liées aux écoles, loisirs et habillement. »
+h) le 6 novembre 1997, l'honorable juge Jean-Louis Léger de la Cour supérieure a rendu jugement dans une requête sur mesures provisoires, faite par l'appelante, par laquelle il fixe à 2 000 $ par mois la pension alimentaire payable par l'appelant à l'ex-conjointe pour ses deux enfants;
+i) l'appelant a déduit durant les années d'imposition 2000 et 2001, la somme totale de 50 000 $ en 2000 et 33 333 $ en 2001 à titre de pension alimentaire ou autre allocation payable périodiquement pour subvenir aux besoins de l'ex-conjointe;
+j) l'ex-conjointe n'a pas inclus durant les années d'imposition 2000, la somme totale de 50 000 $ et 2001, la somme totale de 33 333 $ à titre de pension alimentaire ou autre allocation payable périodiquement pour subvenir à ses besoins personnels;
+k) le 28 juin 2002, l'honorable juge Lamarre de la Cour canadienne de l'impôt a accueilli l'appel de l'ex-conjointe et déterminé que les paiements périodiques totalisant la somme de 50 000 $, faits par l'appelant à son ex-conjointe durant l'année d'imposition 1999, ne doivent pas être inclus dans le revenu de l'appelante à titre de pension alimentaire ou autre allocation payable périodiquement.
+[6] Monsieur Robert Sebag, en tant qu'appelant, et madame Michèle Salcito, en tant que partie jointe, ont témoigné.
+[7] L'avocate de l'appelant se réfère d'abord à la convention de règlement, signée le 3 août 1993, produite comme pièce A-1. C'est en conformité avec cette entente signée par les deux parties que les paiements en litige ont été faits.
+[8] L'avocate se rapporte aux articles 7 à 9 intitulés « Pension alimentaire et autre entretien » et les articles 11 et 12 intitulés « Prestation compensatoire » :
+PENSION ALIMENTAIRE ET AUTRE ENTRETIEN
+7. Au lieu de payer un montant global de 400 000 $ à Madame pour elle-même, Monsieur paiera à Madame une pension alimentaire de 4 166,66 $ par mois pour une période fixe de huit (8) ans à compter du 1er août 1993; ce montant ne sera pas indexé, mais la pension sera déductible par Monsieur de ses revenus imposables et sera déclaré par Madame comme un revenu;
+8. Sujet à tout ce qui précède, les parties reconnaissent qu'aucune pension alimentaire ou somme globale ne sera payée pour l'entretien réciproque de l'autre conjoint, chaque partie déclarant être autonome et en mesure de subvenir à leurs besoins respectifs, et que leurs obligations alimentaires réciproques se sont terminées de façon définitive; en conséquence, les parties renoncent irrévocablement à tout droit de nature alimentaire présent, passé ou futur, nonobstant tous changements dans les circonstances des parties;
+9. Pour l'entretien des Enfants, Monsieur assumera seul les dépenses raisonnables des écoles, des sports, des loisirs et de l'habillement des Enfants;
+...
+PRESTATION COMPENSATOIRE
+11. Au lieu de partager le patrimoine familial, et en tant que prestation compensatoire, Monsieur paiera à Madame un montant total de 550 000 $ payable comme suit :
+(a)
+250 000 $ dans un délai de trente (30) jours;
+(b)
+150 000 $ dans un délai de six (6) mois;
+(c)
+150 000 $ dans un délai d'un an;
+12. En outre, dans un délai de trente (30) jours, Monsieur achètera au nom de Madame une voiture neuve Lumina APV dont il assumera le coût;
+[9] L'avocate de l'appelant demande à ce dernier d'expliquer ce qui paraît contradictoire entre l'article 7 et l'article 8.
+[10] L'appelant explique qu'au moment de la séparation, son ex-épouse avait 40 ans. Il y a eu entente entre les parties à la convention qu'une période de huit ans de paiement de pension alimentaire devrait lui permettre d'établir son autonomie. C'est ce que l'article 8 énonce. Cet article 8 est sous réserve de ce qui est exprimé à l'article 7. Il est sujet au paiement d'une pension alimentaire de 50 000 $ par année pendant huit ans. Selon l'article 8, les parties reconnaissent n'avoir droit à aucune pension alimentaire, ni être obligées à aucun droit de nature alimentaire et ce, immédiatement pour le mari et dans huit ans pour l'épouse.
+[11] L'appelant explique que dans huit ans, un de leurs enfants serait majeur et que l'autre aurait 16 ans. De plus, selon l'article 9 de la Convention, l'appelant assume seul les dépenses raisonnables des écoles, des sports, des loisirs et de l'habillement des enfants.
+[12] L'appelant relate que, lors de la signature de la Convention, les deux parties étaient assistées de leurs avocats respectifs.
+[13] Madame Salcito affirme que le montant de 400 000 $ constituait un montant global prévu à l'avance payable sur une base périodique. Elle explique que monsieur Sebag au moment de la séparation, ne pouvait lui payer la totalité du montant de la prestation compensatoire et qu'ils s'étaient entendus pour ce mode de paiement échelonné.
+[14] Elle admet qu'elle a inclus les montants dans le calcul de son revenu à partir de 1993, année de la signature de la Convention. Elle l'a fait parce que c'était ce qui était indiqué dans la Convention, mais pour elle, il s'agissait du paiement d'une somme forfaitaire. Ce sont des agents de Revenu Québec et des agents du bureau provincial de la perception des pensions alimentaires qui lui ont fait constater son erreur. Elle a été remboursée en 1999 en totalité par ce gouvernement pour des impôts versés en trop.
+Arguments
+[15] L'avocate de l'appelant se réfère à la décision de la Cour d'appel fédérale dans Gagné c. Canada, [2001] A.C.F. no 1573 (Q.L.), et plus particulièrement au paragraphe 10 de cette décision :
+10 Il est acquis, en droit civil québécois, que si la commune intention des parties dans un contrat est douteuse, le juge « doit essayer de rechercher ce que les parties ont réellement voulu par leur engagement » (Jean-Louis Baudouin, Les Obligations, 4e éd., 1993, Les Éditions Yvon Blais, p. 255). Le juge doit « accorder plus d'importance à la véritable intention des contractants qu'à l'intention apparente, objectivement manifestée par l'expression formelle » (p. 255), et il doit vérifier quel était l'effet que les parties voulaient donner au contrat (p. 256). Pour ce faire, le juge doit avoir une vue d'ensemble de l'intention des parties, ce qui suppose une analyse de toutes les clauses du contrat les unes par rapport aux autres (p. 258). S'il subsiste alors quelque doute quant à l'intention réelle des parties, le juge peut faire « l'examen de la façon dont les parties se sont conduites par rapport au contrat, dans leurs négociations, et surtout de leur attitude après sa conclusion, donc de l'interprétation qu'elles lui ont déjà donnée... » (pp. 258-259).
+[16] L'avocate rappelle la conduite des parties après la signature de la Convention qui a été pour la partie jointe d'inclure le montant dans le calcul de son revenu et pour l'appelant de le déduire. Elle fait aussi remarquer que les sommes payées, l'ont été en vertu de l'article 7 de la Convention et que cet article avait comme titre « Pension alimentaire et autre entretien » .
+[17] L'avocate de l'appelant fait aussi valoir en ce qui concerne le jugement de cette Cour pour l'année 1999, que l'appelant n'a pas été impliqué lors de l'audience qui a mené au jugement rendu le 4 juillet 2002.
+[18] L'avocate se rapporte au jugement de la Cour supérieure du Québec rendu en 2005 à l'issue d'une longue audience et qui a constaté dans plusieurs de ses paragraphes le paiement d'une pension alimentaire.
+[19] Pour sa part, l'avocat de la partie jointe fait valoir qu'il n'appartient pas aux parties de stipuler ce qui peut être déduit en fonction de la Loi mais que l'autorité de déduire et l'obligation d'inclure provient de la Loi. Il ne faut donc pas se fier à ce qui mentionné dans la Convention à l'égard de la déduction et de l'inclusion des montants en question.
+[20] L'avocat soumet qu'à l'article 7 de la Convention, il peut y avoir un anglicisme et que les mots « au lieu de » ont le sens de « in lieu of » . Ces mots en français ont le sens de « au titre de » . Ainsi, on lirait la clause 7 de la manière suivante : « Au titre d'un montant global de 400 000 $, Monsieur paiera à madame une pension alimentaire. » Donc, le but véritable de cette clause serait de payer un montant global de 400 000 $ sur une base fixe de huit ans.
+Analyse et conclusion
+[21] En ce qui concerne la décision de cette Cour rendue le 4 juillet 2002, les motifs de cette décision ont été lus à l'audience et leur transcription n'a pas été demandée. La décision de cette Cour est donc brève et se lit ainsi :
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1999 est admis, sans frais, et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte du fait que la somme de 50 000 $ reçue par l'appelante au cours de cette même année ne constituait pas un montant reçu à titre d'allocation périodique pour subvenir aux besoins de l'appelante, au sens du paragraphe 56.1(4).
+[22] Tel que déjà mentionné, l'appelant n'avait pas participé à l'audience ni comme témoin ni comme partie jointe. Il me faut aussi ajouter à cet égard que la décision de la Cour supérieure du Québec n'avait pas encore été rendue.
+[23] Non pas que cette cour lie notre Cour, mais le jugement a été rendu à la suite d'une longue audience et il est fort intéressant de lire les différentes constatations du juge. À cet égard, je cite les paragraphes 63, 64, 67, 78, 85, 91, 93, 94, 104, 187 et 188 :
+63 Par ailleurs, bien qu'elles aient négocié directement les termes de leur entente, les parties étaient alors assistées de leurs procureurs respectifs et elle fut d'ailleurs signée en leur présence.
+64 De ce qui précède, le Tribunal ne voit pas dans les circonstances entourant la conclusion de l'entente un motif de l'écarter.
+...
+67 Aux termes de la convention, madame a reçu :
+a) une somme globale de 400 000 $ à titre de pension alimentaire pour elle-même payable en 96 versements mensuels de 4 166,66 $ chacun (par. 7);
+b) une prestation compensatoire de 550 000 $ payable au complet dans un délai de 12 mois (par. 11); et
+c) elle conservait les sommes déposées en son nom dans un Régime enregistré d'épargne retraite et estimées à environ 250 000 $.
+Le tout formant un total de 1 200 000 $.
+..
+78 Elle dit avoir dû liquider tous ses actifs et dépenser la pension alimentaire mensuelle qu'elle touchait pour elle-même pour subvenir à leurs besoins.
+...
+85 Pour tous ces motifs, à la lumière des critères de l'arrêt Miglin le Tribunal ne retrouve rien dans la preuve qui le justifierait d'écarter l'accord du 3 août 1993 et, en conséquence, il sera entériné.
+...
+91 Il apparaît manifeste qu'à cette occasion madame la juge Zerbizias n'a fait que confirmer l'entente des parties et n'a pas ajouté aux obligations de monsieur quant à la pension alimentaire qu'il devait verser à madame.
+...
+93 La preuve révèle que monsieur a versé à madame, depuis août 2001, à titre alimentaire, 3 000 $ par mois aux termes d'une entente signée le 10 septembre 2003 (5 mois), 2 000 $ par mois selon l'ordonnance du juge Mongeon (9 mois) et 2 000 $ par mois selon l'ordonnance intérimaire prononcée en cours d'audience de la présente affaire (8 mois). Ces montants totalisent 49 000 $.
+94 Il demande d'être définitivement relevé de cette obligation alimentaire, s'étant acquitté de toutes celles qu'il avait assumées à cet égard dans la convention de 1993.
+104 Il est clair que monsieur devait remédier aux difficultés économiques que l'échec du mariage allait causer à madame et c'est ce qu'il a fait lorsque les parties ont convenu d'une pension alimentaire pour elle de 400 000 $ payable en huit ans.
+...
+187 ENTÉRINE et DONNE FORCE EXÉCUTOIRE à la convention portant sur les mesures accessoires conclue entre les parties le 3 août 1993 et leur ORDONNE de s'y conformer;
+188 REJETTE la demande de la demanderesse pour une pension alimentaire.
+[24] Dans les faits relatés par le juge dans la décision de la Cour supérieure du Québec, il n'avait pas à trancher à savoir si le montant en litige dans la présente affaire constituait une pension alimentaire ou pas. Toutefois, il s'y est toujours référé comme un montant de pension alimentaire que ce soit dans sa relation des faits décrits par les parties ou dans son analyse des faits et du droit.
+[25] Je me reporte maintenant à la définition de « Pension alimentaire » au paragraphe 56.1(4) de la Loi :
+« pension alimentaire » Montant payable ou à recevoir à titre d'allocation périodique pour subvenir aux besoins du bénéficiaire, d'enfants de celui-ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas :
+a) le bénéficiaire est l'époux ou le conjoint de fait ou l'ex-époux ou l'ancien conjoint de fait du payeur et vit séparé de celui-ci pour cause d'échec de leur mariage ou union de fait et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent ou d'un accord écrit;
+b) le payeur est légalement le père ou la mère d'un enfant du bénéficiaire et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent rendue en conformité avec les lois d'une province.
+[26] Une pension alimentaire est un montant payable ou à recevoir à titre d'allocation périodique pour subvenir aux besoins du bénéficiaire qui doit pouvoir utiliser ce montant à sa discrétion.
+[27] Il est vrai, ainsi que le dit l'avocat de la partie jointe, que les parties ne peuvent pas déterminer elles-mêmes ce qui peut être déduit et ce qui doit être inclus dans le calcul du revenu. Ce sont les dispositions de la Loi qui déterminent le mode de calcul du revenu. Toutefois, les termes d'une entente peuvent être pris en compte pour démontrer l'intention des parties au moment de la signature.
+[28] Selon la Cour d'appel fédérale dans Gagné (supra), le juge doit avoir une vue d'ensemble de l'intention des parties, ce qui suppose une analyse de toutes les clauses du contrat les unes par rapport aux autres.
+[29] Si je regarde les clauses de la Convention qui sont pertinentes et qui ont déjà été reproduites à l'article de ces motifs, il me semble qu'elles expriment clairement, que ce ne sera pas un montant global qui sera immédiatement payé à madame mais une pension alimentaire. Au lieu du paiement d'une somme globale, une pension alimentaire sera payée. Même si j'acceptais la position de l'avocat qu' « au lieu » doit se lire « au titre de » , le résultat serait le même : ce n'est pas un montant global qui a été payé mais une pension alimentaire.
+[30] Les parties ont divisé l'entente entre divers chapitres et ont donné des titres à ces chapitres. Les titres concernant les clauses de la Convention qui nous intéressent sont : « Pension alimentaire et autre entretien » et « Prestation compensatoire » . Ce serait modifier l'intention des parties que de décider qu'un paiement fait sous le chapitre de « Pension alimentaire » et qualifié de même dans le corps de l'article 7 n'est pas une pension alimentaire mais un paiement qui doit s'ajouter à celui de la prestation compensatoire.
+[31] Je considère que les termes de la clause 7 de la Convention ne peuvent porter qu'à une seule interprétation, c'est-à-dire qu'il s'agit du paiement d'une pension alimentaire. Cette pension est limitée dans le temps et quant au montant, cela ne lui enlève pas sa nature de pension alimentaire. L'épouse n'avait pas d'emploi rémunéré au moment de la séparation. Le paiement d'une allocation périodique sur une période huit ans lui permettrait de subvenir à ses besoins pendant la période jugée nécessaire à l'établissement de son autonomie et elle avait entière discrétion quant à ces montants. Voir à cet égard la décision de la Cour d'appel fédérale dans McKimmon c. M.R.N. (C.A.), [1990] 1 C.F. 600.
+[32] En conclusion, l'appelant est en droit de déduire dans le calcul de son revenu, les sommes payées en application de la clause 7 de la Convention. La partie jointe doit les inclure à son revenu.
+[33] L'appel est accordé avec frais.
+Signé à Ottawa, Canada, ce 27e jour d'octobre 2005.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE :
+2005CCI699
+No DU DOSSIER DE LA COUR :
+2003-485(IT)G
+INTITULÉ DE LA CAUSE :
+Robert Sebag et La Reine
+et Michèle Salcito
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+1er septembre 2005
+MOTIFS DE JUGEMENT PAR :
+l'hon. juge Louise Lamarre Proulx
+DATE DU JUGEMENT :
+le 27 octobre 2005
+COMPARUTIONS :
+Pour l'appelant :
+Me Josée Cavalancia
+Pour l'intimée :
+Me Julie David
+Pour la partie jointe :
+Me Yves Archambault
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelant :
+Nom :
+Me Josée Cavalancia
+Étude :
+Brouillette Charpentier Fortin
+Montréal (Québec)
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,235 @@
+Title: Québec Fonte Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/488591/index.do
+Corpus path: corpus/cases/tcc/2020/2020-tcc-126-488591-qu-bec-fonte-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2020-11-16
+
+# Québec Fonte Inc. v. The Queen
+
+- Citation: 2020 TCC 126
+- Decision date: 2020-11-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4643, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Québec Fonte Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2020-11-16
+Neutral citation
+2020 TCC 126
+File numbers
+2014-3008(GST)G
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2014-3008(GST)G
+BETWEEN:
+QUÉBEC FONTE INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Motions heard on September 15, 2020
+at Montreal, Quebec
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Counsel for the appellant:
+Régent Laforest
+Counsel for the respondent:
+Antoine Lamarre
+Normand Perreault
+ORDER
+Upon the motion of the appellant seeking the following relief:
+1. A direction under section 12 of the Tax Court of Canada Rules (General Procedure) extending the times prescribed in sections 64 and 68, in the interests of justice;
+2. An order stating that an agreement was reached between the parties on March 20, 2019, thereby constituting a validly executed settlement under the Civil Code of Québec;
+3. An order stating that the March 20, 2019, settlement constitutes a comprehensive and final settlement, putting an end to legal proceedings in three (3) cases before the following courts:
+(a) The Tax Court of Canada, docket: 2014-3008(GST)G, appeal from the Notice of Assessment issued on April 19, 2013, against the appellant under the Excise Tax Act;
+(b) The Court of Québec, docket 700-80-008082-148, appeal from the Notice of Assessment issued on April 19, 2013, pursuant to the Québec sales tax;
+(c) The Superior Court of Québec, docket 700-17-013142-160, action for damages against the respondents brought by the appellant;
+4. An order stating that the Settlement Agreement signed by the parties on April 3, 5 and 9, 2019, constitutes a document whose content is ineffective as against the settlement of March 20, 2019 and void between the parties;
+5. An order homologating the settlement validly executed on March 20, 2019, and ordering that it be enforced either by declaring that:
+(a) The period referred to by the tax auditor extends from January 1, 2011 to April 30, 2012, which is the period at issue resolved by the settlement;
+(b) Pursuant to the Settlement Agreement between the parties no amount is due in respect of the goods and services tax (GST) and the Quebec sales tax (QST) for the period at issue;
+(c) The tax authorities pay the applicant the amount of $550,000 as a global and final settlement of the three (3) legal proceedings that the settlement brought to an end;
+(d) Order the striking out of the legal mortgage and the seizures made during the proceedings to collect the amounts claimed by the tax authorities;
+6. An order stating that the appellant's appeal to the Tax Court of Canada is settled for all legal purposes, by the enforcement of the March 20, 2019, settlement;
+Upon the motion of the respondent seeking the following relief:
+an order quashing the appeals brought by Québec Fonte inc. from the reassessments made on April 19, 2013, in respect of the periods from January 1, 2011, to April 30, 2012, inclusive;
+or, in the alternative,
+an order confirming that the reassessments made on May 10, 2019, by the Minister of National Revenue conform to the Settlement Agreement signed by the appellant and counsel for the parties, on April 3, 5 and 9, 2019, pursuant to subsection 298(3) of the Excise Tax Act (the Settlement Agreement); and,
+an order noting the appellant's discontinuance dated April 3, 2019, delivered to the Minister of National Revenue in accordance with the Settlement Agreement, and dismissing the appeal pursuant to section 16.2 of the Tax Court of Canada Act; or,
+an order dismissing the appeal pursuant to section 64 of the Tax Court of Canada Rules (General Procedure) on the ground that the appellant failed to act with due dispatch.
+The Court orders as follows:
+For the reasons of the order attached hereto:
+The motion of the appellant is dismissed with costs to the respondent;
+The motion of the respondent is allowed with costs to the respondent;
+The appeal is dismissed with costs.
+Signed at Montreal, Quebec, this 16th day of November 2020.
+"Patrick Boyle"
+Boyle J.
+Translation certified true
+on this 3rd day of May 2021.
+François Brunet, Revisor
+Citation: 2020 TCC 126
+Date: 20201116
+Docket: 2014-3008(GST)G
+BETWEEN:
+QUÉBEC FONTE INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR ORDER
+Boyle J.
+[1] In July 2019, the respondent brought a motion asking the Court to quash the appeals brought by Québec Fonte against the GST reassessments made in 2013 for the 2011 and 2012 reporting periods on the grounds that the appellant and the respondent had entered into a written and signed Settlement Agreement in April 2019 (the Settlement Agreement) and that the respondent had made reassessments in May 2019 implementing the terms and conditions of this agreement.
+[2] Counsel for the appellant refused to confirm that the reassessments conformed to the adjustments set out in the agreement. The respondent is therefore not in a position to file the discontinuance signed by the appellant and delivered to the respondent at the time of settlement.
+[3] The respondent is citing the Settlement Agreement, including the discontinuance, and the reassessments of May 2019. The respondent also offered in evidence the correspondence between the parties until the Settlement Agreement was signed to confirm that the Settlement Agreement reflects the intentions of the parties and the agreements that they have entered into.
+[4] In response to the respondent's motion, on January 27, 2020, the appellant brought a motion seeking an order stating that the parties entered into a binding agreement on March 20, 2019, through their correspondence until that date, which then continued and resulted in the Settlement Agreement. The appellant argues that a separate and binding agreement setting aside the Settlement Agreement was entered into on March 20, 2019, at least with regard to any discrepancy between the Settlement Agreement and the March 20, 2019, agreement.
+[5] The six-week hearing on the merits of the appeal was scheduled to start on April 1, 2019. The only issues in the appeal before the Court are the denied input tax credits (ITCs) and related penalties. The appeal was adjourned when the parties notified the Court on March 28, 2019, that the issues had been resolved.
+[6] The reassessments made in May 2019 were related to the issues before the Court, in accordance with the terms and conditions of the Settlement Agreement. However, the Quebec Minister of Revenue (QMR) also indicated that the appellant had failed to pay a net tax of $3.9 million that it had reported and that had not been challenged for these periods; the Minister has commenced collection proceedings concerning this amount. Both parties argued that they were not aware of this unpaid net tax, which had nothing to do with the issues in the appeal before the Court at the time of the disposition of this appeal. It is these $3.9 million that resulted in conflicting motions. Both parties argue that the GST appeal has been settled. They simply do not agree on the terms of the settlement.
+The Facts
+[7] The GST appeal before the Court pertains to the 2013 reassessments for the period January 1, 2011, to April 30, 2012, and concerns only the denied ITCs and related penalties in respect of gold purchases for the appellant's gold buying and selling business. According to the Notice of Appeal, the amount at issue was approximately $2.3 million. According to the respondent's argument set out in its response, the appellant submitted "false invoices" for these denied ITC claims.
+[8] On February 27, 2019, a little more than a month before the scheduled appeal hearing date, counsel for the respondent sent an email to counsel for the appellant. His email first mentioned a phone call in which counsel for the appellant made an offer of settlement stipulating the terms and conditions that would secure the appellant a $550,000 refund. In that email, counsel for the respondent made a specific offer to settle the issues in the appeal. This specific offer was immediately preceded by a paragraph that stated the following:
+[translation]
+. . . However, as mentioned on several occasions, please note that our offer takes into account specific adjustments to previously assessed tax components at issue in the appeals from assessments subject to judicial control. Therefore, the amount of $550,000 identified by your client can be considered the target amount, but should not be considered the exact amount that your client will receive. The terms below explain the items that we are willing to adjust. In the second section, we estimate the scope of these adjustments, by computing the interest on the estimated refund, etc. We believe that our computations are correct, but we repeat that they do not bind the Agence du revenu du Québec (ARQ) or the Canada Revenue Agency (CRA) to a specific or definite reimbursement or result. The computations below could be accurate or higher or lower than the actual figure. The settlement consists only of the adjustments described in points 1 to 12 below, which are binding on the ARQ and the CRA. These computations, reflected in the attached files, are provided to you only for reference purposes during settlement discussions. We ask that your client perform its own computations, as required. (Emphasis in the original.)
+Subject to the comments below, the terms of our offer are therefore: (1 to 12)
+After these 12 points, an "estimated refund" (underlined in the original) is mentioned in points 13, 15, 16, 17 and 18.
+[9] The appendix attached to this email included the words "For settlement discussions (February 27, 2019)", then "the amounts are to be confirmed and/or improved."
+[10] On March 1, 2019, counsel for the appellant wrote to counsel for the respondent in response to the respondent's February 27, 2019 proposal. The relevant part of the answer is essentially that the appellant and its representative [translation] "cannot accept the offer as written because the terms do not reflect the spirit of a global and final settlement" and that [translation] "[o]ur client's objective is to obtain a $550,000 net payment exempt from all tax claims for the 2010 to 2018 taxation years, inclusive." It should be noted that only 2011 and the first four months of 2012 are at issue in the appeal before the Court.
+[11] Counsel for the respondent responded the same day. He began by explaining that his client could not accept a lump sum as a settlement:
+[translation]
+First, I reiterate that we cannot settle for a global lump sum amount that your client is seeking. A tax settlement involves vacating or, as in this case, amending the assessments in dispute. Assessments in dispute are amended by making rational adjustments, in this case to the ITCs/CTIs that have been denied and allowed. The terms discussed and offered are listed in my email below.
+. . .
+[12] Counsel continued the email with a precise revised list of proposals, preceded by the following sentence:
+[translation]
+. . . We have sent you the details of the computations used to determine this amount, and Québec Fonte's accountants are in a position to endorse them if necessary.
+[13] The specific proposals ended as follows:
+[translation]
+While Mr. Savard may be aware of other Quebec Fonte tax consequences or sources of income that could positively or negatively influence this amount, we are not aware of them and cannot anticipate them.
+[14] On March 5, 2019, counsel for the appellant sent counsel for the respondent an email:
+[translation]
+. . . I am awaiting the accounting report for the past few years to ensure that no debt is or will be owed to any level of government.
+I will get back to you shortly, but our chances of reaching a settlement have increased significantly.
+[15] On March 12, 2019, following a telephone conversation that had taken place that morning, counsel for the respondent wrote to counsel for the appellant to explain that "personal 'tax immunity' in respect of the years in dispute" could not be part of an amicable settlement and that he should refer to JP Morgan.
+[16] Later, on March 12, 2019, counsel for the respondent sent counsel for the appellant another email in which he stated the following:
+[translation]
+We are of the view that our counter-offer responds to the essential aspects of your March 1 offer. Items to which our counter-offer does not respond, if any, are against the law and should not be considered.
+[17] On March 13, 2019, counsel for the respondent emailed a letter providing a detailed explanation of the respondent's revised proposal, which included the following:
+[translation]
+Our clients' joint proposal, dated February 27, 2019, suggest adjustments to the assessments in dispute that would result in an estimated $549,186.63 prepayment. . . .
+. . .
+With respect to your client's request that the refund be net and free from all tax claims for the 2010 to 2018 taxation years inclusive, please refer to paragraphs 77 to 79 of the Federal Court of Appeal's decision in Canada (National Revenue) v. JP Morgan Asset Management (Canada) Inc., 2013 FCA 250.
+Your client requires "tax immunity" from all assessments for the 2010 to 2018 taxation years inclusive. This period covers some years that are not in issue. In addition, the request is against the law, the powers of the tax authorities and public order. They cannot accede to this request. In this regard, we refer you to the same paragraphs of the Federal Court of Appeal's decision in JP Morgan. Also note that your client could not obtain this "tax immunity" from the Court of Québec, the Tax Court of Canada, or the Superior Court.
+As for the request that the reimbursement be made payable to Segal Laforest in trust, we refer you to section 33 of the Tax Administration Act which prohibits it.
+These last two requests from your clients run counter to applicable laws and public order and should therefore not be considered as part of the essential component of your February 21, 2019, offer.
+Our clients' February 27, 2019, proposal therefore meets each essential component of your client's proposal and, as such, constitutes acceptance and constitutes a transaction within the meaning of section 2631 of the Civil Code of Québec.
+It should be understood that the settlement of tax assessment appeals involves vacating or, as in this case, amending the assessments in dispute. Assessments in dispute are amended by making rational adjustments, in this case to the ITCs/CTIs that are in dispute or have been denied or allowed. The tax authorities cannot agree to a compromise concerning the amounts in dispute unless the compromise is based on the facts and applicable tax laws. Please refer to paragraph 79 of JP Morgan above.
+Despite the foregoing, the federal and provincial tax authorities have accepted your client's February 21, 2019, offer on a reasoned basis (detailed in our correspondence of February 27, 2019, and March 1, 2019) that reflects the $550,000 refund required by your client.
+. . .
+Given the six-week hearing before the Tax Court of Canada scheduled to start on April 1 and given that our request for homologation could cause the hearing to be postponed, we ask you to confirm your client's position by 12:00 p.m. on March 15, 2019. Otherwise, we will ask to have the settlement homologated as soon as possible.
+We reiterate that we intend to settle these cases amicably by signing a settlement agreement, the stipulations of which will reflect the terms detailed in our February 27 and March 1, 2019, emails and will have been reviewed and approved by the parties, if they agree, rather than by homologation.
+[18] On March 20, 2019, counsel for the appellant emailed a letter setting out Québec Fonte's requirements for an acceptable settlement agreement. He started as follows:
+[translation]
+We wish to confirm that we agree to accept a settlement agreement for Québec Fonte Inc. that meets the following requirements:
+. . .
+[19] These requirements included a $550,000 refund, plus or minus $15,000, due to the complexity of computing the interest, and assurances that this refund would not be seized by the tax authorities. The proposals ended as follows:
+[translation]
+If the Agency agrees to meet these requirements, Mr. Savard undertakes to sign the documentation that you have submitted to us to put an end to the dispute, with the understanding that this documentation, which is complex but necessary for the Agency, reflects the requirements outlined above, but in more specific legal terms.
+[20] On the same day, counsel for the respondent sent the following email to counsel for the appellant:
+[translation]
+Subject to the comments made in the conversation that we just had on the telephone, mentioned in my letter of March 13, we have an agreement.
+We will therefore send Ms. Vallée our letter shortly. We will contact you again tomorrow so that I can finalize the out-of-court settlement documents.
+[21] The next day, March 21, 2019, counsel for the respondent wrote to counsel for the appellant:
+[translation]
+I am following up on your letter below, our subsequent telephone conversation, and the email response that I sent you via my iPhone at 4:10 p.m.
+For greater clarity, the "requirements" mentioned in your letter yesterday should include the following clarifications/comments discussed in our telephone conversation and/or mentioned in my previous letters or emails.
+● The amount of $550,000 remains an estimate. We believe the estimate is good, but subject to variation. We understand that Mr. Desrosiers has made his own estimates for your client.
+● We understand that your client does not want the refund to vary, positively or negatively, by more than $15,000, but we have no control over this aspect. The refund will result from the adjustments stipulated in the agreement.
+● The $550,000 refund will not be seized by Revenu Québec, except to the extent that Québec Fonte owes amounts to the government pursuant to tax laws (Tax Administration Act). In this case, we know that part of the amount will be seized for unpaid corporate taxes and the payment of ITCs (for the GST), which forms the basis of this settlement. As indicated in my previous correspondence, I am not aware of any other amounts owing pursuant to tax laws.
+● We are still unable to give Mr. Savard tax immunity. The only thing we can agree to is that the settlement puts a definite end to the litigation between the parties in connection with the facts subject to judicial control. Thus, Québec Fonte will not be reassessed for the same ITCs/CTIs that have been settled or concerning these same suppliers for these same fiscal years . . .
+I will send you a revised draft agreement today. . . .
+[22] On March 21, 2019, counsel for the respondent sent a revised draft settlement agreement to counsel for the appellant.
+[23] On March 22, 2019, counsel for the respondent sent a draft Notice of Discontinuance. The accompanying email included the sentence [translation]: "I am still awaiting your comments or observations on these projects or your confirmation that your clients agrees to all of the foregoing."
+[24] On March 25, 2019, counsel for the respondent sent an email to counsel for the appellant in which he confirmed their telephone conversation that morning [translation] "during which you provided me with confirmation that you and Mr. Desrosiers agreed with the draft agreement that I sent you on March 21. However, you said that certain clauses had to be discussed at greater length with your client, this Tuesday or Wednesday." A draft Notice of Discontinuance to the attention of this Court and a draft of the revised Settlement Agreement were attached to the email.
+[25] On March 28, 2019, counsel for the appellant provided signed pages of each document sent by counsel for the respondent.
+[26] On March 28, 2019, counsel for the respondent emailed counsel for the appellant a draft joint letter to be sent to the Court. The letter stated that the parties had signed a Settlement Agreement resolving all matters in dispute, pursuant to subsection 298(3) of the Excise Tax Act, and that a Notice of Discontinuance would be filed with the Court once reassessments confirming the settlement had been made. This letter, signed by counsel for both parties, was sent to the Court on March 28, 2019.
+[27] The drafter of the Settlement Agreement, signed by the appellant and its counsel on April 3 and by counsel for the respondent on April 5, 2019, specified, in section 34, under the heading "Assessments under appeal", the exact amount of ITCs to be recognized when computing the GST for the 2011 and 2012 reporting periods that were appealed and confirmed that the section 285 penalties would be reduced so that would be taken into account the additional ITCs of $414,345.37 that were allowed.
+[28] Under the heading "Recovery" in section 39, it is stipulated that [translation]: "Québec Fonte recognizes that if it is indebted to the government under a fiscal law or an Act, other than an Act prescribed by regulation, and if the assessments mentioned in paragraphs 33 and 34 generate a refund, this refund or part of it as well as the incidental interest will be used to pay their debt in accordance with section 31 of the Tax Administration Act (CQLR, chapter A‑6.002)."
+[29] In a letter dated June 14, 2019, counsel for the respondent sent counsel for the appellant copies of the May 10, 2019, reassessments. Counsel for the respondent pointed out that the remedies agreed to in sections 33 and 34 of the Settlement Agreement had been implemented and had resulted in a reduction of nearly $508,000. He then indicated that the net GST reported by the appellant, which was never part of the appeal, had never been remitted for the periods covered by the appeal. He further indicated that this pertained to a material amount payable, which was a debt referred to in paragraph 39 of the Settlement Agreement.
+[30] Counsel for the appellant responded to counsel for the respondent in a letter dated June 20, 2019. Below is an excerpt:
+[translation]
+. . . However, the agreement, if its interpretation is valid, does not comply with the provisions of the Settlement Agreement reached and reiterated between the parties on March 1, 13, 20 and 21, 2019.
+Without a Settlement Agreement between the parties, the Settlement Agreement would not exist.
+The Settlement Agreement is meant to reflect the agreement between the parties which specifies a $550,000 refund pursuant to adjustments, which writes off all of Québec Fonte Inc.'s GST and QST debts to the ARQ and the CRA for the period in issue. This leaves a credit balance of plus or minus 1% of the agreed amount, payable by a cheque made out to Québec Fonte Inc.
+The results generated by the interpretation of the agreement or by the agreement itself clearly constitute errors that call for amendments to be made either to the interpretation of the terms of the agreement or to the items constituting the body of the said agreement.
+. . .
+In these circumstances, it is clear that the settlement signed by the parties has not been honoured and that the documents signed by our client constituting notices of settlement must under no circumstances be filed with the registries of the various courts in order to put an end to the legal proceedings, as briefly described in the heading.
+[31] This letter was sent to the Court with a cover letter on June 20, 2019. Counsel for the respondent wrote to counsel for the appellant on June 20, 2019, and stated the following:
+[translation]
+Our mandate is to ask the Court to find that the Notices of Reassessment reflect the Settlement Agreement signed by all parties in early April 2019, also attached.
+[32] The appellant has offered no evidence to dispute that the remedies sought in the appeal to this Court were reassessed in accordance with the terms of the Settlement Agreement.
+Analysis and conclusions
+[33] The Court has jurisdiction to decide whether an agreement between the tax authorities and a taxpayer that establishes the manner in which a taxpayer must be reassessed is applicable. It has jurisdiction to order that reassessments be made in accordance with the agreements absent circumstances vitiating the settlement. It also has jurisdiction to authorize the filing of notices of discontinuance after reassessments that are consistent with the Settlement Agreement are made: see Smerchanski v. Minister of National Revenue, [1977] 2 S.C.R. 23; University Hill Holdings Inc. v. Canada, 2017 FCA 232; Oberoi v. The Queen, 2006 TCC 293, 1390758 Ontario Corporation v. The Queen, 2010 TCC 572, Huppe v. The Queen, 2010 TCC 644; SoftSim Technologies Inc. v. The Queen, 2012 TCC 181; Davies v. The Queen, 2016 TCC 104, and Granofsky v. The Queen, 2016 TCC 181.
+[34] In University Hill, the Federal Court of Appeal approved the doctrine of an earlier case, Galway v. Minister of National Revenue [1974] 1 FC 600, which dealt with judgments by consent whose principles apply equally to the settlement agreements that this Court must enforce, specifying that the Court must satisfy itself "that the judgment sought falls within the jurisdiction of the Court and is one that can be legally granted": see paragraph 66 and those following. See also paragraph 18 in Huppe, where Mr. Justice Webb concurred.
+[35] Neither party challenges this power of the Court set out in paragraph 298(3)(b) and section 309 of the Excise Tax Act.
+[36] To decide whether the parties have reached an agreement in this case and to interpret this agreement or decide whether there are circumstances that vitiate the settlement, the Civil Code of Québec (CCQ) must be taken into account.
+[37] Sections 6, 7 and 1375 of the CCQ require that people act in good faith during their interpersonal interactions. Section 2805 of the CCQ provides that good faith is always presumed. In this case, there was no allegation of bad faith, and there is nothing to indicate that there was bad faith.
+[38] According to section 1388 of the CCQ, an offer must include all the essential elements of the proposed contract.
+[39] In sections 2863 to 2865 of the CCQ, the legislator considerably limits a contracting party's ability to seek to contradict the terms of a written agreement.
+[40] Sections 1399 and 1400 of the CCQ set out consent requirements and circumstances that vitiate consent.
+Conclusions
+[41] In the circumstances of this case, it is clear that there is only one agreement entered into by the parties: the Settlement Agreement signed by the parties in April 2019.
+[42] The March 20, 2019, email cannot constitute a separate settlement agreement from the Settlement Agreement entered into a few weeks later, nor can it be used to challenge the terms of the Settlement Agreement in any way. It cannot be viewed as a final comprehensive settlement as the appellant contends. Otherwise, the parties would not have reviewed or revised the Settlement Agreement, nor would they have consented to it.
+[43] In its March 20, 2019, email, the appellant set out the requirements for an acceptable settlement. On their own, they cannot constitute all of the constituent elements of a settlement agreement, given the legal constraints applicable to a tax dispute settlement, which the appellant was aware of during negotiations.
+[44] The Settlement Agreement is clear and unambiguous and there is no other relevant "commencement of proof" to support the appellant's claims regarding the interpretation or application of the Settlement Agreement.
+[45] According to the pleadings, the $3.9 million net tax that the appellant owed and reported was not one of the issues before the Court. This amount is twice the amount disputed by the appellant in its appeal to the Court.
+[46] There is no reason to believe that when they were negotiating the settlement, either party could have reasonably believed that this net tax should have been the subject of the appeal in court. It is quite understandable that counsel for the respondent was not aware of questions that were not argued in the appeal brought by Québec Fonte and that he was not required to answer. It is less understandable how Québec Fonte could have forgotten that it had not paid an amount of nearly $4 million that it had reported that it owed, apart from the ITCs that were denied in the 2013 reassessments. However, I accept that Québec Fonte said it was unaware that it had not paid the amount, and there is no evidence to the contrary.
+[47] That being said, it is clear that Québec Fonte sowed the seeds of its disappointment with the Settlement Agreement by failing to pay attention to its general GST obligations. It was aware of the risk arising from this lack of vigilance and due diligence, because the respondent had pointed it out on several occasions in writing, and the GST obligations were described in a specific stipulation of the Settlement Agreement.
+[48] Accordingly, the respondent's motion is allowed; the appellant's motion is denied; and the appeal is denied with costs.
+Signed at Montreal, Quebec, this 16th day of November 2020.
+"Patrick Boyle"
+Boyle J.
+Translation certified true
+on this 3rd day of May 2021.
+François Brunet, Revisor
+CITATION:
+2020 TCC 126
+COURT FILE NO.:
+2014-3008(GST)G
+STYLE OF CAUSE:
+QUÉBEC FONTE INC. v. THE QUEEN
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+September 15, 2020
+REASONS FOR ORDER BY:
+The Honourable Justice Patrick Boyle
+DATE OF ORDER:
+November 16, 2020
+APPEARANCES:
+Counsel for the appellant:
+Régent Laforest
+Counsel for the respondent:
+Antoine Lamarre
+Normand Perreault
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Régent Laforest
+Firm:
+Ségal, Laforest
+Saint-Adolphe-d'Howard, Quebec
+For the respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

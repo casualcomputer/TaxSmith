@@ -1,0 +1,152 @@
+Title: Tse-Lam c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/142988/index.do
+Corpus path: corpus/cases/tcc/2016/2016-cci-61-142988-tse-lam-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2016-03-10
+
+# Tse-Lam c. La Reine
+
+- Citation: 2016 CCI 61
+- Decision date: 2016-03-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3031, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tse-Lam c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-03-10
+Référence neutre
+2016 CCI 61
+Numéro de dossier
+2013-2522(IT)G, 2013­3099(IT)I
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013­3099(IT)I
+ENTRE :
+EVA OI HAR TSE­LAM,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée
+[TRADUCTION FRANÇAISE]
+Appel entendu le 1er février 2016 à
+Toronto (Ontario)
+Devant : L’honorable juge Randall S. Bocock
+Comparutions :
+Pour l’appelante :
+L’appelante elle­même
+Avocat de l’intimée :
+Me Aaron Tallon
+JUGEMENT
+CONFORMÉMENT aux motifs du jugement ci­joints, l’appel interjeté à l’encontre de la cotisation établie pour l’année d’imposition 2012 est rejeté, sans dépens, pour les motifs suivants :
+(i) l’appelante n’a présenté aucune preuve devant la Cour contestant la cotisation du ministre;
+(ii) la cotisation de l’appelante a été établie sans que des impôts, des intérêts ou des pénalités soient ajoutés au revenu et à l’impôt à payer déclaré par l’appelante dans sa déclaration de revenus pour l’année d’imposition 2012;
+(iii) l’appelante n’a présenté aucun argument ni aucune observation discernable selon lesquels sa déclaration de revenus pour l’année 2012, dont le dépôt a été confirmé par le ministre du Revenu national, était incorrecte ou invalide.
+Signé à Ottawa, Canada, ce 10e jour de mars 2016.
+« R. S. Bocock »
+Juge Bocock
+Dossier : 2013­2522(IT)G
+ENTRE :
+EVA OI HAR TSE­LAM,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 1er février 2016 à
+Toronto (Ontario).
+Devant : L’honorable juge Randall S. Bocock
+Comparutions :
+Pour l’appelante :
+L’appelante elle­même
+Avocat de l’intimée :
+Me Aaron Tallon
+JUGEMENT
+CONFORMÉMENT aux motifs du jugement ci­joints, l’appel relatif aux années d’imposition 2006, 2007 et 2008 est, par les présentes, rejeté avec dépens fixés à 250 $, sous réserve du droit de l’intimée de formuler des observations supplémentaires dans les 30 jours.
+Signé à Ottawa, Canada, ce 10e jour de mars 2016.
+« R. S. Bocock »
+Juge Bocock
+Référence : 2016 CCI 61
+Date : 20160310
+Dossiers : 2013­2522(IT)G
+2013­3099(IT)I
+ENTRE :
+EVA OI HAR TSE­LAM,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS COMMUNS DU JUGEMENT
+Le juge Bocock
+[1] Ces appels ont été entendus ensemble. Les deux appels concernent Mme Tse­Lam, l’appelante commune, mais portent sur des appels distincts.
+I. Année d’imposition 2012 [2] Mme Tse­Lam a produit sa déclaration de revenus pour l’année 2012. Elle a déclaré des revenus de 31 194 $, composés de prestations du Régime de pensions du Canada, de dividendes, d’intérêts (10 799 $), d’un retrait effectué dans un régime enregistré d’épargne­retraite (15 000 $) et d’un petit montant provenant d’un revenu autre. Sa cotisation a été établie par le ministre du Revenu national (le « ministre »), telle que soumise, le 9 mai 2013. Aucune obligation fiscale supplémentaire n’a été établie. Il y avait cependant un solde dû : 2 586,26 $. Même s’il est difficile de déterminer exactement la cause, la Cour présume que le solde dû a incité Mme Tse­Lam à interjeter appel. L’appel aurait vraisemblablement été motivé par l’avis de confirmation qui tenait compte du solde dû découlant des propres calculs de Mme Tse­Lam, du revenu déclaré et des intérêts courus correspondants, et ce, même si aucune cotisation supplémentaire d’impôt n’a été établie à l’égard de Mme Tse­Lam. De plus, les contestations préexistantes de Mme Tse­Lam en lien avec d’autres années d’imposition, en particulier les années 2006, 2007 et 2008 examinées ci­après, pourraient avoir contribué à l’appel interjeté pour l’année 2012.
+[3] Quoi qu’il en soit, à l’audience, Mme Tse­Lam n’a présenté aucune preuve ni aucun document ou argument discernable concernant le motif de son appel relatif à l’impôt interjeté pour l’année 2012. L’avocat de l’intimée a formulé l’hypothèse que l’appel était peut­être fondé sur les deux principales sources de revenus : les intérêts de 10 799 $ tirés des obligations d’épargne du Canada et un retrait de 15 000 $ effectué dans un régime enregistré d’épargne­retraite.
+[4] La réponse contenait des hypothèses de fait concernant ces deux sources de revenus. Comme il a été mentionné précédemment, Mme Tse­Lam elle­même a déclaré ces sources distinctes de revenus et le montant a été établi conformément à la déclaration produite.
+[5] Mme Tse­Lam n’a présenté aucun élément de preuve suggérant que les hypothèses du ministre étaient inexactes ou qu’elle avait commis l’une des erreurs signalées.
+[6] À cet effet, et conformément à l’analyse ci­dessous concernant le témoignage et les arguments généraux de Mme Tse­Lam, la Cour rejette l’appel relatif à l’année d’imposition 2012.
+II. Années d’imposition 2006, 2007 et 2008 [7] Le 10 août 2010, Mme Tse­Lam a, par l’intermédiaire de son avocat, présenté une divulgation volontaire de revenus non déclarés pour les années d’imposition 2006, 2007 et 2008 (les « années d’imposition »). Ce faisant, elle a déclaré le revenu suivant provenant d’un bien locatif, qui lui a été versé par l’intermédiaire d’une fiducie testamentaire domiciliée à Hong Kong et liée à la succession de sa mère :
+Année d’imposition
+Montant en dollars canadiens
+2006
+58 412 $
+2007
+27 549 $
+2008
+27 386 $
+[8] À la suite de la divulgation, le ministre a établi une nouvelle cotisation à l’égard des impôts et des intérêts. Même si le ministre n’a pas renoncé aux pénalités, aucune n’a été imposée en fin de compte. Aucune convention fiscale exécutoire n’existait entre Hong Kong et le Canada pendant cette période. Même s’il y en avait eu une, aucune preuve n’a été présentée pour suggérer que Mme Tse­Lam a payé les retenues fiscales ou les autres impôts à Hong Kong pour justifier sa demande de crédits pour impôt étranger.
+[9] Mme Tse­Lam et le vérificateur de l’Agence du revenu du Canada ont témoigné lors de l’audience. Il ressort clairement du témoignage que Mme Tse­Lam a de la difficulté à comprendre les exigences, les montants et la logique des systèmes fiscaux au Canada et à l’étranger. Il ressort également de cela que Mme Tse­Lam croit qu’elle a été la cible de conspiration, de corruption et de vol. En outre, elle croit que le processus d’appel se poursuivra indéfiniment : elle a soumis à nouveau plusieurs documents (surtout de la correspondance) quelques semaines après l’audience. Toutefois, la Cour doit fonder ses conclusions sur les éléments de preuve présentés lors de l’audience. En se fondant sur ces éléments de preuve et les témoignages, la Cour tire les conclusions de fait suivantes :
+1. Mme Tse­Lam a admis qu’elle était une résidente canadienne pendant les années d’imposition;
+2. Mme Tse­Lam a admis que son avocat avait déposé la divulgation, mais elle soutient qu’elle a été « forcée » de la déposer;
+3. Le revenu tiré d’un bien locatif provient et a été envoyé de Hong Kong et Mme Tse­Lam n’a pas contesté l’avoir reçu;
+4. Après avoir renvoyé l’avocat qui a déposé la divulgation, Mme Tse­Lam a déposé son avis d’opposition.
+[10] Les arguments présentés par Mme Tse­Lam devant la Cour à l’appui de son appel peuvent être résumés, avec une généreuse dose de bon sens, comme suit :
+1. La Loi de l’impôt sur le revenu (la « Loi ») exige qu’un contribuable canadien déclare, annuellement, son revenu étranger de plus de 100 000 $ tiré d’un bien qu’il détient. Mme Tse­Lam n’a jamais possédé de tels biens en raison de la fiducie testamentaire de Hong Kong. Par conséquent, Mme Tse­Lam affirme qu’elle n’a jamais eu à produire de formulaire T1142 relativement à la déclaration de biens étrangers. Incidemment, elle n’était et n’est pas tenue de déclarer le revenu provenant d’un bien locatif parce que le montant est inférieur au seuil de 100 000 $ annuel.
+2. Une ordonnance sur les fiduciaires n’exige pas qu’un bénéficiaire déclare le revenu reçu, par l’entremise d’une fiducie étrangère ou en vertu d’une fiducie étrangère.
+3. Les sommes appartenant à la fiducie testamentaire ont été imposées à Hong Kong et ne devraient pas être imposées également au Canada.
+4. Mme Tse­Lam n’est pas en mesure de payer les impôts et les intérêts.
+[11] L’appel à l’égard des années d’imposition 2006, 2007 et 2008 est rejeté pour les motifs qui suivent.
+[12] La preuve est claire, de par sa divulgation volontaire autorisée (du moins à ce moment), que Mme Tse­Lam a reçu le revenu provenant d’un bien locatif pendant les années d’imposition.
+[13] Aucun traité fiscal n’était en vigueur entre le Canada et Hong Kong pendant les années d’imposition. Quoi qu’il en soit, il n’y avait aucune preuve que des impôts avaient été payés à Hong Kong à l’égard du revenu provenant du bien locatif.
+[14] En calculant le revenu d’un contribuable pour une année, la Loi prévoit au paragraphe 3a) ce qui suit en lien avec le contribuable :
+a) le calcul du total des sommes qui constituent chacune le revenu du contribuable pour l’année (autre qu’un gain en capital imposable résultant de la disposition d’un bien) dont la source se situe au Canada ou à l’étranger, y compris, sans que soit limitée la portée générale de ce qui précède, le revenu tiré de chaque charge, emploi, entreprise et bien. [Non souligné dans l’original.]
+[15] À la lumière des faits, Mme Tse­Lam n’a fourni aucune preuve documentaire ni autre document pour supplanter les hypothèses du ministre (ces hypothèses sont fondées sur la divulgation volontaire de Mme Tse­Lam), l’appel ne peut être accueilli. Il incombe au contribuable de démontrer que les hypothèses du ministre sont, dans l’ensemble, fausses, non pertinentes ou appliquées incorrectement. Mme Tse­Lam doit avoir suffisamment de documents et de renseignements pour permettre à la Cour de comparer, avec une certaine facilité, ces preuves avec les hypothèses du ministère. Elle n’avait pas ces renseignements et en raison de l’absence de preuve, l’appel doit être rejeté.
+[16] Aucune observation n’a été faite à l’égard de la question des dépens. Il s’agissait d’une procédure générale d’appel et l’intimée a par ailleurs droit à ses dépens. Dans les circonstances, les dépens sont fixés à 250 $, ce qui est très inférieur au tarif applicable. Ces dépens fixés sont assujettis au droit de l’intimée de formuler des observations supplémentaires par écrit dans les 30 jours suivants la date de ces motifs et du jugement correspondant.
+Signé à Ottawa, Canada, ce 10e jour de mars 2016.
+« R. S. Bocock »
+Juge Bocock
+RÉFÉRENCE :
+2016 CCI 61
+NOS DU DOSSIER DE LA COUR :
+2013­2522(IT)G, 2013­3099(IT)I
+INTITULÉ :
+EVA OI HAR TSE­LAM ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 1er février 2016
+MOTIFS DU JUGEMENT :
+L’honorable juge Randall S. Bocock
+DATE DU JUGEMENT :
+Le 10 mars 2016
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle­même
+Avocat de l’intimée :
+Me Aaron Tallon
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+S.O.
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous­procureur général du Canada
+Ottawa, Canada

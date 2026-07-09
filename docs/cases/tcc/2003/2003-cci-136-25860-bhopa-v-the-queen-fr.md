@@ -1,0 +1,130 @@
+---
+title: "Bhopa v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25860/index.do"
+last_modified: "2003-03-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 136"
+citation2: ""
+neutral_citation: "2003 CCI 136"
+decision_date: "2003-03-18"
+language: "fr"
+item_id: "25860"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3854
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:26:15.148000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ab56131f9498296f47ac60e6814a8397758a47fb31d73040e7f80b20938859fd"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bhopa v. The Queen
+
+- Citation: 2003 CCI 136
+- Decision date: 2003-03-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3854, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bhopa v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-03-18
+Référence neutre
+2003 CCI 136
+Numéro de dossier
+2002-3445(GST)I
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier: 2002-3445(GST)I
+ENTRE :
+HENRY BHOPA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 14 mars 2003, à Toronto (Ontario)
+Devant : l'honorable juge D. W. Beaubier
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Edward Park
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi sur la taxe d'accise, dont l'avis est daté du 19 février 2001 et porte le numéro 05CP0105854, est rejeté conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 18e jour de mars 2003.
+« D. W. Beaubier »
+J.C.C.I.
+Traduction certifiée conforme
+ce 7e jour d'avril 2005.
+Sophie Debbané, réviseure
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence: 2003CCI136
+Date: 20030318
+Dossier: 2002-3445(GST)I
+ENTRE :
+HENRY BHOPA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+MOTIFS DU JUGEMENT
+Le juge Beaubier, C.C.I.
+[1] Cet appel sous le régime de la procédure informelle a été entendu à Toronto (Ontario) le 14 mars 2003. L'appelant et sa femme, Sherissa Bhopa, ont témoigné pour le compte de l'appelant. William Chan, le vérificateur de la TPS assigné au dossier, a témoigné pour l'intimée.
+[2] Les paragraphes 4, 5 et 6 de la réponse à l'avis d'appel sont ainsi rédigés :
+[traduction]
+4. Le ministre du Revenu national (le « ministre » ) a établi une cotisation à l'égard de l'appelant pour la période afin d'apporter un rajustement de taxe nette totalisant 7 916,04 $ et consistant en des rajustements de taxe sur les produits et services ( « TPS » ) de 1 296,96 $ et en un rajustement des crédits de taxe sur les intrants ( « CTI » ) de 6 619,09 $. Une pénalité de 446,59 $ et de l'intérêt de 406,67 $ ont été ajoutés au total des rajustements de taxe nette.
+5. Dans sa cotisation à l'égard de l'appelant, le ministre a établi les hypothèses de fait suivantes :
+(a) à toutes les époques pertinentes, l'appelant était un inscrit aux fins de la TPS pour la fourniture de services d'élimination de la poussière, de chauffage et de climatisation ( « les fournitures taxables » ) et exploitait son entreprise à titre de propriétaire unique;
+(b) durant la période, l'appelant a inclus des CTI pour des dépenses personnelles non liées à la réalisation de ses fournitures taxables;
+(c) l'appelant n'a pas obtenu de preuve suffisante dont la forme et les renseignements auraient permis de déterminer le montant des CTI;
+(d) au cours de la période, l'appelant n'a pas déclaré ni versé la TPS sur ses fournitures taxables de 1 296,96 $; et
+(e) l'appelant n'a pas déclaré ni versé la TPS établie dans la cotisation pour la période.
+B. QUESTIONS À TRANCHER
+6. Les questions à trancher sont de savoir :
+(a) si la cotisation à l'égard de l'appelant a été convenablement établie par le ministre tel qu'il a été précédemment mentionné au paragraphe 4; et
+(b) si les CTI demandés par l'appelant ont été refusés par le ministre à juste titre.
+[3] Aucune des hypothèses n'a été réfutée.
+[4] Plus particulièrement, quatre périodes de l'entreprise « Dust Doctor » de l'appelant, qui offrait des services de nettoyage de conduits de chauffage et de climatisation, ont fait l'objet d'une nouvelle cotisation. Il s'agit des périodes se terminant le 30 septembre 1999, le 31 décembre 1999, le 31 mars 2000 et le 30 juin 2000.
+[5] Le comptable de l'appelant a préparé la déclaration pour la période se terminant le 30 juin 2000 après que l'appelant a omis de la produire, et cette période a automatiquement fait l'objet d'une nouvelle cotisation par l'administration chargée de l'application de la TPS. La déclaration a été acceptée et une nouvelle cotisation a été établie conformément à celle-ci. Cette nouvelle cotisation est donc confirmée par la Cour.
+[6] Sherissa Bhopa a initialement produit les trois autres déclarations trimestrielles. Elle a admis que sa demande de crédits de taxe sur les intrants pour la TPS concernant une Chrysler Intrepid pour la période se terminant le 30 septembre 1999 était inadmissible. Toutefois, en ce qui a trait aux autres demandes de crédits de taxe sur les intrants et aux autres cotisations de la TPS, elle a affirmé qu'elle les avait correctement produites, qu'elle avait fourni les reçus appropriés au comptable de l'appelant et que ce comptable avait été informé qu'il devait traiter avec l'Agence des douanes et du revenu du Canada au sujet des nouvelles cotisations à l'égard de l'appelant. Le dernier énoncé a été confirmé par l'appelant. Elle a ensuite déclaré que le comptable ne lui a pas renvoyé tous les reçus pour mener à bien cet appel. Aucun des soi-disant reçus n'a été déposé pour réfuter les hypothèses.
+[7] William Chan a déclaré que le comptable de l'appelant avait produit des feuilles de calcul comportant des reçus au cours du processus d'établissement d'une nouvelle cotisation, que ces pièces étaient acceptables et que la nouvelle cotisation en question était fondée sur ceux-ci.
+[8] L'appelant n'a pas fourni de reçus ou de pièces justificatives relativement à l'appel des affaires en cause. Sans de tels documents, comme l'a fait remarquer le juge en chef adjoint Bowman dans HelsiConstruction Management Inc. c. Canada, [2001] A.C.I. no 149 ([2001] G.S.T.C. 39), il ne peut avoir gain de cause.
+[9] L'appel est rejeté.
+[10] À la suite de la requête présentée par l'appelant à l'audition, il est ordonné que l'adresse de l'appelant aux fins du présent appel soit maintenant la suivante :
+293, croissant Doubtfire
+Markham (Ontario)
+L3S 3V9
+Signé à Ottawa, Canada, ce 18e jour de mars 2003.
+« D. W. Beaubier »
+J.C.C.I.
+Traduction certifiée conforme
+ce 7e jour d'avril 2005.
+Sophie Debbané, réviseure

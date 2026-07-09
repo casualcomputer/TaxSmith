@@ -1,0 +1,276 @@
+Title: Strachan v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/65036/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-362-65036-strachan-v-the-queen-en.md
+Document type: case_law
+Last modified: 2013-12-04
+
+# Strachan v. The Queen
+
+- Citation: 2013 TCC 362
+- Decision date: 2013-12-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5903, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Strachan v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-12-04
+Neutral citation
+2013 TCC 362
+File numbers
+2010-3729(IT)G
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-3729(IT)G
+BETWEEN:
+MERRILL CORBIN STRACHAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 29, 30 and on May 1st, 2013,
+at Montréal, Québec.
+Before: The Honourable Gerald J. Rip, Chief Justice
+Appearances:
+Counsel for the Appellant:
+Yves Ouellette
+Elisabeth Pedneault (Student-at-Law)
+Counsel for the Respondent:
+Dominique Gallant
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made pursuant to section 160 of the Income Tax Act, notice of which bears number 41520 and is dated May 24, 2007, is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the following basis:
+1) In valuing the shares of Northside at the relevant times:
+a) the expenses for travel and professional fees be adjusted as follows:
+1999
+2000
+2001
+2002
+2003
+2004
+Travel
+$ 22,000
+$ 30,000
+$ 25,177
+$ 22,000
+$ 15,093
+$ 33,000
+Professional Fees*
+$ 30,000
+$ 13,004
+$ 33,000
+$ 15,000
+$ 15,000
+$ 10,048
+* Includes legal and Accounting Fees.
+b) the adjusted book value of the one‑ton plant as at March 31, 2001 is $500,000 and its book value for each subsequent year, however, should be reduced by 20 per cent on declining balance; and
+2) With respect to the Hemmingford Property, the value as at January 2005 is $210,000.
+The respondent shall be entitled to two‑third of her costs.
+Signed at Ottawa, Canada, this 4th day of December 2013.
+"Gerald J. Rip"
+Rip C.J.
+Citation: 2013 TCC 362
+Date: 20131204
+Docket: 2010-3729(IT)G
+BETWEEN:
+MERRILL CORBIN STRACHAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Rip C.J.
+[1] Merrill Corbin Strachan appeals an assessment of tax, notice of which is dated Mary 24, 2007 (No. 41520) levied in accordance with section 160 of the Income Tax Act ("Act"). The Minister of National Revenue ("Minister") assessed Mrs. Strachan on the basis that her husband, Ian Strachan, transferred, directly or indirectly, to her shares in the capital stock of Northside Development Corporation ("Northside") on January 29, 2001, February 22, 2002 and December 9, 2004 and a one‑half undivided interest in real estate bearing civic address 174 chemin de Covey Hill in Hemmingford, Quebec ("Property"), on January 7, 2005, the transfers taking place at times when Mr. Strachan owed tax under Part I of the Act.
+[2] The appellant does not dispute the Minister's claim that her husband was liable for tax at the times of the purported transfers. She does, however, question that a transfer of shares took place and if there was such transfer, she says the Minister erred in valuing the shares. She also disputes how the Crown valued the Property and any benefit she received as a result of the transfer.
+I Northside
+[3] During the times relevant to this appeal, Northside carried on the business, among other things, of supplying liquid oxygen and liquid nitrogen to the military base in Goose Bay. It also supplied hospitals with its products.
+[4] In 1988 or 1989 Mr. Strachan was, he stated, "the knowledge expert of the military and low‑level flight training of … fighter bomber pilots from the Royal Air Force ("RAF"), German Air Force and the Dutch Air Force". Mr. Strachan was also a biochemist.
+[5] The airport at Goose Bay was built as to supply and ferry military goods from North America to Britain during World War II, explained Mr. Strachan. He described Goose Bay airport as having "very little fog, a very clear sky with very little pollution, very long runways and a wonderful facility for military aircrafts". Various NATO member countries were using the Goose Bay airport as a training facility for low level flying.
+[6] Before Northside started its business, there was a problem in delivering liquid oxygen and liquid nitrogen for pilots and aircraft, according to Mr. Strachan. Old equipment was ammonia driven and owned by the U.S. Air Force and the RAF who were the "only capable people of operating 'cryogenic liquids'", liquids, Mr. Strachan explained, that have a low temperature, below minus 150 degrees centigrade. Liquid oxygen is necessary for low level fighter pilots who are fed oxygen during flight. Liquid nitrogen is used to "fill the wheels of fast jets, fighter bomber jets, because they land very fast". As I understand it, the liquid nitrogen, rather than air, fills the jet's tires.
+[7] In order to start in business Northside raised capital to build a cryogenic facility at the Goose Bay airport. At approximately the same time the company bid for a contract with the Department of National Defense ("DND") to supply the liquid oxygen and nitrogen. The bid was based on DND's estimate volume of liquid gas per day. Northside was the only bidder to build a plant and because it was a "sole source" contract, Mr. Strachan explained, the company's books and records were available to the Department of Supply and Services ("DSS"). As Mr. Strachan described the financing of the contract, a sole source winner of a contract could not deduct interest on money borrowed to purchase the plant; certain costs, direct costs, were not reimbursable under the contract, and other costs, such as hydro, municipal tax were reimbursable. Certain elements, said Mr. Strachan, were only allowed an 11 percent profit.
+[8] Based on DND's estimated volume of liquid gas per day, Northside purchased a one‑ton cryogenic plant, that is, a plant that could manufacture one ton of liquid gas per day. The cost was $3,200,000. The plant had to be functional by April 1, 1991 and was flown from California, where it was purchased, to Goose Bay. Once the plant was in operation, it operated seven days a week, 24 hours a day instead of the anticipated five days a week, ten hours a day. According to Mr. Strachan, the military made a mistake in converting litres to imperial gallons. The plant was undersized by a factor "of at least four and maybe five and we were going bankrupt". The contract with DND did not permit Northside to claim losses.
+[9] In the meantime Mr. Strachan was attempting to solve the problem and finally convinced DND of the error. It was agreed that Northside acquire a plant capable of manufacturing five tons per day of liquid gas but without compensation from DND. Mr. Strachan testified that DSS did not permit Northside to purchase the plant for $1,400,000 as a capital purchase and he had to lease the plant which Northside purchased later on.
+[10] The one‑ton plant was financed in part by the Atlantic Canada Opportunities Agency ("ACOA"). The company invested 15 percent for acquisition of the one‑ton plant and ACOA put in the difference. However, ACOA was not interested in financing the purchase of the five‑ton plant and attempts to sell the one‑ton plant to help acquire the five‑ton plant were fruitless; it is still owned by the company. Mr. Strachan considers it as scrap. (In the valuation report of Northside prepared for the respondent by Brian Hawkins, the one‑ton plant has a net book value as of January 29, 2001, of $113,831 and an appraisal adjustment of $386,169 for a total appraised book value of $500,000.) It is the value of the one‑ton plant that is a key element in the valuation of Northside.
+[11] The five‑ton plant was originally leased in 1992 from Cosmodyne, a U.S. corporation. Northside then purchased the plant the Fall of 1993 for $150,000, the total cost, including rent, was $1,200,000. Northside had ancillary equipment from the one‑ton plant that it could use for the five‑ton plant.
+[12] Northside's first contract with DND was in 1991 for a term of five years. Mr. Strachan observed that low level flying tactics were the general military strategy used in war at that time "right up to the Serbian or Yugoslavian war". The contract was renewed in 1997 for up to 2001.
+[13] However, according to Mr. Strachan, the military strategy "changed dramatically in 2000 onwards, with modern computer systems, laser guided GPS systems, AWAX travelling at 30,000 feet guiding the missile to its destination took over from the more dangerous … to the pilot navigator of low level flying".
+[14] By 2001, at contract's termination, low level flight training had lost favour. Northside did secure a one‑year extension to its contract while DND decided if Goose Bay airport would be closed, said Mr. Strachan. In 2002, another one‑year extension was added to the contract. In the meantime the Dutch and Germans decided to vacate Goose Bay. In 2004, the British withdrew.
+[15] At the time of trial the Goose Bay airport was still open.
+a) Transfers of shares
+[16] On December 19, 1990, the appellant and Mr. Strachan entered into a Mariage Contract in which, among other things, Mr. Strachan agreed to transfer all of his shares in the capital stock of Northside for the consideration of $1.00 payable upon execution of the contract. According to Northside's corporate records, Mr. Strachan continued to be the sole shareholder of Northside until January 2001. Mr. Strachan owned or acquired the two shares of Northside as follows:
+i. he owned one of the shares prior to the execution of the Marriage Contract, and
+ii. the second share was acquired on March 30, 1993 in consideration of Mr. Strachan transferring to Northside a leasehold interest in the building in which Northside carried on its business, Mr. Strachan and Northside jointly making an election pursuant to section 85 of the Act.
+He claims he transferred beneficial ownership of these two shares to the appellant by the Marriage Contract executed in December 1990.
+[17] On January 29, 2001, the appellant suscribed for 38 common shares of Northside for a consideration of $38,000. The Minister's expert witness estimated that on March 31, 2001 the fair market value of the 40 issued shares was $263,000. Northside's year end was March 31.
+[18] Then, on February 22, 2002, the appellant subscribed for an additional 75 common shares of Northside for a consideration of $75,000. The Minister's expert witness estimated that on March 31, 2002 the fair market value of all the 115 issued shares was $334,000; 75 shares was thus valued at $217,800.
+[19] It was only on December 9, 2004 that a resolution of the director of Northside was signed transferring two common shares to the appellant for no consideration (purportedly in accordance with the marriage contract) and cancelling the share certificates registered in the name of Mr. Strachan in whose name they were registered until December 9[1]. Mr. Strachan was sole director of Northside at all relevant times.
+[20] According to the Minister's expert witness, the value of all the outstanding shares of Northside was $292,000 as of March 31, 2004, which he deemed to be the value on December 9, 2004.
+[21] Any dividends paid by Northside prior to December 2004 were paid to Mr. Strachan personally.
+b) Marriage Contract
+[22] The appellant argues that the conveyance of the two common shares in the capital stock of Northside held by Mr. Strachan was not a transfer within the meaning of subsection 160(1) of the Act because the disposition did not result in a change of beneficial ownership. Indeed, according to the appellant, it was her understanding that she obtained ownership of the shares by marriage contract on December 19, 1990; the marriage contract had the effect of transferring to her the beneficial ownership of the shares. Mr. Strachan was simply acting as a prête‑nom for his wife or was holding her interest in the two shares in trust for her until December 9, 2004.
+c) Analysis
+[23] Mr. Strachan was the beneficial owner of the dividends paid to shareholders and received by him as owner of the two shares. He received the dividend for his own use and enjoyment. He enjoyed all the attributes of ownership of the shares and of the dividend received[2]. In Covert Estate v. Nova Scotia (Minister of Finance)[3] the Supreme Court stated that a "beneficial owner" is one who can "ultimately" exercise the right of ownership in the property. On the evidence before me it was Mr. Strachan who "ultimately" exercised the right of ownership of the two shares at all times prior to December 9, 2004. One of the shares registered in Mr. Strachan's name was issued in consideration for his sale to the corporation of a leasehold interest in 1993, several years after the execution of the marriage contract. I fail to understand how this particular share could have been contemplated in the marriage contract. Mr. Strachan said that the reasons he, and not a corporation, owned the leasehold interest originally was because the Federal Business Development Bank, who loaned $225,000 to the venture, insisted it be owned by him personally. He stated that the "rollover" of the leasehold to Northside took two years while the CRA reviewed the documents.
+[24] Mrs. Strachan's husband was the beneficial owner of the two common shares until they were actually transferred to her on December 9, 2004. It was Mr. Strachan to whom Northside paid dividends before December 9, 2004 and it was Mr. Strachan who received the dividends payable on these two shares. It was Mr. Strachan, not Mrs. Strachan, who included the amount of dividends in his income for tax purposes for the year of receipt. In a previous appeal to this Court Mr. Strachan agreed that in 1992, the taxation year then under appeal, he was the sole shareholder and employee of Northside[4].
+[25] Both Mr. Strachan and the appellant explained the payment of said dividends to Mr. Strachan was not really a payment of a dividend. On July 7, 1993, an arbitration award against Mr. Strachan was given recognition in the Newfoundland courts and an order was issued by the Supreme Court of Newfoundland granting judgment against him. At trial of the appeal at bar, Mr. Strachan candidly admitted not wanting to pay the award and had asked his accountants to cause Northside to pay him anything but a salary to avoid the money being seized. His accountants thus recommended that Northside declare dividends to him. In the appeal at bar he stated that the payment should have been called a bonus or anything else, except a salary.
+[26] Whether Mr. Strachan wanted any payment to be characterized as a dividend or not is beside the point. What matters is that Northside paid a dividend to Mr. Strachan as a result of his being the beneficial owner of common shares of Northside. He not only held legal title to the shares but he also was the beneficial owner of the shares. The accountants obviously were aware of this and were able to plan the payment to him as a dividend rather than opting for salary.
+[27] There was some discussion that Mr. Strachan held the two shares in trust for Mrs. Strachan. The marriage contract provides no indication of such an understanding. And no other document indicating the existence of such a trust was produced. That Mr. Strachan received the second share in consideration for the transfer of a leasehold interest owned by him puts into serious question the existence of a trust.
+[28] Mr. Strachan declared that the purpose of the marriage contract and the purported trust agreement was to protect the appellant from Mr. Strachan's risqué business adventures. However, the appellant's conduct is inconsistent with this declaration. At trial, she admitted that she gave personal guarantees to the banks to help Mr. Strachan in business.
+[29] The appellant also claims that the issue of the 38 common shares and 75 common shares by Northside to her on January 29, 2001 and February 22, 2002, respectively, were not transfers made either "directly" or "indirectly" as contemplated by subsection 160(1) of the Act because it was the corporation, rather than Mr. Strachan, who issued the shares to which the appellant subscribed.
+[30] Counsel for the appellant cited Algoa Trust and 116488 Canada Inc. v. Canada[5] ("Algoa Trust") for the authority that the issue of shares is not a transfer because the corporation does not divest itself of its property. More particularly, he cited paragraph 51:
+The payment of a stock dividend is not a transfer of property. The shares authorized in a corporation's articles of incorporation are not assets of the corporation. When a person subscribes for the shares and pays the corporation for the shares, the shares are issued to that person and recorded in the share registry of the corporation. The payment is consideration for the shares. The issue of shares is not a transfer since the corporation has not divested itself of its property: the shares were never owned by the corporation. Assets are transferred for purposes of section 160 only at the time one person is divested of ownership of property and another person is vested in that property. Prior to issue and during issue the shares of a corporation are not property of that corporation.
+[31] Algoa Trust can be distinguished from the facts at bar. In that case, one of the issues was whether a corporation that received stock dividend was liable under subsection 160(1) of the Act for the unpaid tax of the corporation issuing the stock dividend. I concluded that it was not liable. (Another issue was whether the payment of a cash dividend was a transfer of property and I held it was and therefore the recipient of the dividend was liable under subsection 160(1) of the Act for the debt of the payor.) In this appeal there is no allegation that Northside transferred any property to Mrs. Strachan. It is her husband who is alleged to have transferred property to her. He did not transfer 113 shares to her but, rather, as the Crown alleges, he caused Northside to issue the shares for the consideration less than fair value, that he effectively caused to transfer to her 95 percent and 98 percent, respectively, of his capital interest in Northside.
+[32] The respondent's authority that the subscription of shares by the appellant amounts to an indirect transfer "by any other means whatever" pursuant to subsection 160(1) of the Act is Canada v. Kieboom[6].
+[33] The issue in Kieboom was, inter alia, whether income derived from the dividends paid to the taxpayer's wife following her subscription of shares should be attributed back to the taxpayer by virtue of subsection 74(1) of the Act[7]. The language of subsection 74(1) of the Act provides that when a person transfers property "either directly or indirectly by means of a trust or by any other means whatever to his spouse", any income or loss derived from such property shall be deemed to be income or a loss of the transferor and not of the transferee. The Court of Appeal concluded that the use of the words "transfer of property directly or indirectly" and "by any other means whatever" as provided for in subsection 74(1) of the Act was meant to include transfers of property by means of causing a taxpayer's corporation to issue shares.
+[34] In reaching his conclusion, Linden, J.A., speaking for the Court, relied on Thorson J.'s definition of the term "transfer" in Fasken Estate v. Minister of National Revenue (1948)[8]:
+The word "transfer" is not a term of art and has not a technical meaning. It is not necessary to a transfer of property from a husband to his wife that it should be made in any particular form or that it should be made directly. All that is required is that the husband should so deal with the property as to divest himself of it and vest it in his wife, that is to say, pass the property from himself to her. The means by which he accomplishes this result, whether direct or circuitous, may properly be called a transfer. …
+[35] The Court then asserted that the definition of "property" pursuant to subsection 248(1) of the Act does not only encompass the shares themselves, but also to the rights attached to them.
+[36] Linden J.A. concluded that as a result of the transfer, Mr. Kieboom's 40 percent ownership equity was transferred to Mrs. Kieboom. Linden J.A. explained that:
+… The fact that this transfer of property was accomplished through causing his company to issue shares makes no difference. Subsection 74(1) covers transfers that are made "directly or indirectly" and "by any other means whatever." The transfer, which in this case was indirect, in that the taxpayer arranged for his company to issue shares to his wife, is nevertheless a transfer from the husband to the wife. There is no need for shares to be transferred in order to trigger this provision of the Act, as was erroneously concluded by the Tax Court Judge. By this transfer of property to his wife, he divested himself of certain rights to receive dividends should they be declared. …
+[37] Subsection 160(1) of the Act includes the same words found in subsection 74(1) considered in Kieboom:
+… a person has … transferred property, either directly or indirectly … by any other means whatever …
+… une personne a … transféré des biens, directement ou indirectement … de toute autre façon …
+[38] At hand, Mr. Strachan similarly transferred property to the appellant in that he gave her first 95 percent then 98 percent of his capital interest in Northside by allowing her to subscribe to 38 shares for a value of $38,000 and 75 shares for a value of $75,000 in 2001 and 2002 respectively. I have found that Mr. Strachan was the sole shareholder of Northside before December 9, 2004. He thereby divested himself of the rights attached to his shares in the same proportion (i.e. his right to vote as sole shareholder, to receive 100 percent of the dividends should they be declared and to receive all the remaining property of the corporation on dissolution). The fact that Mr. Strachan accomplished the transfer of the shares to the appellant by causing Northside to issue them should make no difference.
+d) Share Valuations
+[39] Mr. Brian D. Hawkins, a Senior Business Equity Valuator in the Atlantic Regional Business Equity Valuation Unit of the Canada Revenue Agency ("CRA"), prepared an "Estimate Valuation Report" of Northside at January 29, 2001, February 22, 2002 and December 9, 2004, the dates on which Mrs. Strachan acquired shares of Northside. Based on the appellant's rebuttal, he updated his report, revising calculations on earnings basis, on April 25, 2013. Mr. Hawkins has prepared valuations for the CRA since 1986. He received a Bachelor of Commerce from St. Mary's University in 1986. Although I qualified him as an expert for purposes of this appeal, appellant's counsel questioned his independence as an employee of CRA and I agreed to permit him to make submissions in closing argument as to Mr. Hawkins' independence.
+[40] Mr. Hawkins' updated estimates of values of Northside are:
+January 29, 2001
+February 22, 2002
+December 9, 2004
+En bloc value
+$ 263,000
+$ 334,000
+$ 292,000
+$ / share
+6,575
+2,904
+2,539
+[41] In his report Mr. Hawkins acknowledged that the economy of Happy Valley‑Goose Bay is tied to the airport, in particular the air force base. He recognized that in 2001‑2002 the airport was booming and activity was expected to increase. France, Belgium, Norway were planning to join the air forces of Canada, the U.S., as the U.K. and Italy. Italy was planning to invest $20,000,000 in a new hangar, accommodations and related facilities in 2003 and 2004. However, in 2002 the Italians delayed construction and reduced flying schedules during 2004. The Dutch, Germans and the RAF announced the discontinuance of their presence at Goose Bay in 2003, 2004 and 2005 respectively. Employment at the base fell from 1,700 people to 500 and decliningw as of the date of Mr. Hawkins report, March 20, 2013.
+[42] Of the three generally accepted approaches to value a business Mr. Hawkins selected the income based method, as opposed to asset or market approaches, since it provided a greater value on asset valuation; he did not consider the market approach.
+[43] Mr. Hawkins first determined the "en‑bloc" value of Northside. Income and expenses were reviewed since 1999 and adjustments were made to a number of expense items he found to be miscalculated or non‑recurring. Expenses were also adjusted "to be more in line with the business operations". Non recurring revenues were reduced to nil. "Using the normalized net income" a weighted average as well as simple averages were calculated and from these Mr. Hawkins chose a high and low rate of earnings. Income taxes were calculated and were taken from the range of earnings to arrived at maintainable earnings which were then capitalized at 40 percent and 50 percent to arrive at Northside's en‑bloc value.
+[44] Mr. Hawkins made adjustments to normalized earnings and cash flow as follows:
+a) He reduced repairs and maintenance in the company's 2000 fiscal year by $49,000; he considered some of the expenses capital or non‑recurring; the amount deemed was $79,413;
+b) He allowed $15,000 for travel for all years; the amounts claimed were $27,639, $42,783, $25,177, $22,070 and $15,073, in 1999, 2000, 2001, 2002 and 2003 respectively;
+c) He allowed professional, legal and accounting fees of $15,000 in 1999, 2000, 2001, 2002, 2003 and 2004. The aggregate amounts claimed were $33,400, $13,004, $44,676, $31,590, $24,341 and $10,048 respectively. He considered some of the expenses non‑recurring or higher than what a purchaser would consider normal;
+d) He "normalized" amortization for the 2005 fiscal year at an average of previous years, that is, $8,000. In 2005, the computation of tangible assets increased from the average of $8,000 to $153,407; he added back $145,000;
+e) Rental incomes for 2002 and 2003 were removed as non‑recurring;
+f) Management salary for all years was "normalized" based on Statistics Canada data for Newfoundland and Labrador.
+[45] The capitalization rate of 40 percent to 50 percent was selected by Mr. Hawkins due to the "uncertainties" related to Northside's business; it is capital intensive, seasonal and relied on government contracts for revenue. Northside's clientele is rather small and the nature of the business "causes it to rely on the ebb and flow" of NATO low level flights. The agreement allowed for up to 18,000 annual low level flights but due to cutbacks, in 2013, the actual level was under 5,000.
+[46] Mr. Hawkins viewed the company's redundant assets as an adjunct and not required to generate the company's cash flow from operations. He removed the redundant assets and liabilities from the company's operating assets and liabilities.
+[47] At the three valuation dates being considered, Northside had advances to Brimmond Farms Inc. ("Brimmond" or "Les Fermes Brimmond"), a related party, that were considered redundant[9]. The advances were $512,040 in 2001, increasing to $1,244,089 by March 2005. An advance of $71,487 to a Director in 2001 was also considered a redundant asset.
+[48] Northside was also carrying forward "significant balances of sales taxes and income taxes payable" in each year. In Mr. Hawkins' view the amounts being advanced to Brimmond Farms impeded the ability of the company to reduce its taxes payables. These payables and advances to Brimmond Farms, he noted, increased yearly. Any prospective purchaser would want these redundant assets removed and payables paid before any purchase.
+[49] Mr. Hawkins considered that the net realizable value of the redundant assets and related liabilities are nil.
+[50] As far as tangible assets are concerned, Mr. Hawkins considered them worth book value. He found allowances for doubtful accounts excessive and he estimated them to be $25,000 in each year. Land and buildings were valued at $118,200 based on a valuation report by an "appraisal coordinator" with the CRA. Mr. Hawkins estimated the net book value of manufacturing equipment, (i.e., the one‑ton plant), at $500,000, which he considered "conservative"; the replacement cost for insurance purpose was $3,500,000. In its 2001 financial statements, the plant has a book value of $113,831. Mr. Hawkins increased the book value by $386,169 for an adjusted net book value of $500,000. There is no actual appraisal of the equipment; it is this equipment that Mr. Strachan considered to be "scrap".
+[51] Mr. Hawkins considered the company's business to have an element of goodwill, that it could generate earnings in excess of investments made in net tangible and identifiable intangible assets. He considered goodwill to be in the following ranges:
+January 29, 2001 —
+$140,000 to $175,000, or 1 to 1.4 years after tax earnings;
+February 29, 2002 —
+$85,000 to $134,000, or 0.59 to 0.86 years after tax earnings;
+December 9, 2004 —
+$408,000 to $433,000 or 1.67 to 2.20 years after tax earnings.
+[52] The appellant did not produce a valuation report to support his contention that the shares of Northside had a nil value at all relevant times. Rather, she engaged the services of Mme Pascale Gaudreault, a Chartered Accountant and Business Valuator to rebut the Hawkins report.
+[53] Mme Gaudreault questioned the arbitrariness of Mr. Hawkins' adjustments, in particular the ACOA loan that was made to Northside when it acquired the cryogenic one‑ton plant and his valuation of the one‑ton plant at $500,000. She also commented that Mr. Hawkins' valuation did not fully comply with certain provisions of Standard No. 110 of the Canadian Institute of Chartered Business Valuators; that Mr. Hawkins' report was an Estimate Valuation Report that is based on a limited review of relevant information and that some of his conclusions are not fully explained.
+[54] Mr. Hawkins had accounted for the ACOA loan as a business liability. According to Mme Gaudreault, the loan was a redundant liability because the asset acquired was no longer used. The one‑ton plant was considered "scrap" by Mr. Strachan. Since the one‑ton plant was scrap, it ought not to be valued at $500,000, even though, for insurance purposes, it had a replacement value of $3,500,000.
+[55] Mme Gaudreault believed that the plant was depreciated on a five year period but acknowledged that if it had been depreciated over a longer term book value would have been higher than stated in Northside's financial statements.
+[56] Mme Gaudreault, like Mr. Hawkins, did not visit the site of the plant. She relied solely on Mr. Strachan's representation and description of the one‑ton plant in particular and the business carried on in general.
+[57] And that is a problem. I did not find Mr. Strachan a reliable witness. He appears to have a tendency to flatter himself or exaggerate a situation. He characterized himself as the "knowledge expert of military and low level flight training," for example. Whether this was or is true I have no idea. He also referred to taking the one‑ton plant "to our graves as scrap." Some of his answers to questions did not make sense. For example, he insisted he did not own shares in Northside yet he received dividends on these shares. Also, the dividends on the shares, he insisted, should not have been dividends. The reasons the amounts were paid to him as dividends was, to use a charitable word, to fool a creditor. If he owned the shares in trust or as prête‑nom for his wife there is no evidence he transferred the funds to her or that she reported the dividend, in her tax return. The fact is that Mr. Strachan reported the dividend for tax purposes. And in an earlier trial, he said that in 1992 he owned shares of Northside; in the appeal at bar he says he got rid of any shares he owned, namely one, in 1990.
+[58] Mme Gaudreault opined that the value of the one‑ton plant was negligible; she did not view the plant nor did she have in hand a valuation of the plant. The information she relied on could only have come from one source, Mr. Strachan.
+[59] On the other hand, Mr. Hawkins' valuation is not perfect. No valuation is. Professional fees vary from year to year and a fixed sum of $15,000 may be too conservative. I make the same observation for travel since Northside is located far from lawyers and other business related venues. Also, the value of the one‑ton plant is constant for all years. It would appear to me, once one can sift through Mr. Strachan's evidence, that as the years passed the value of the one‑ton plant diminished. I do note that Mr. Strachan did state that "without a contract", the one‑ton plant was "scrap metal price." Mme Gaudreault indicated that if the one‑ton plant had some use, she would have included the ACOA loan in her calculations.
+[60] While it is by no means a fail proof method of fixing professional fees and travel expenses in making adjustments, I make the following adjustments having regard to Northside's business activity over the years. The expenses for travel and professional fees should be adjusted as follows:
+1999
+2000
+2001
+2002
+2003
+2004
+Travel
+$22,000
+$30,000
+$25,177
+$22,000
+$15,093
+$33,000
+Professional Fees[10]
+$30,000
+$13,004
+$33,000
+$15,000
+$15,000
+$10,048
+[61] With respect to the adjusted book value by Mr. Hawkins of the one‑ton plant I make the following adjustments: I would retain the one‑ton plant's adjusted book value as of March 31, 2001 at $500,000; the book value for each subsequent year, however, should be reduced by 20 per cent on declining balance.
+[62] I would make no other changes to Mr. Hawkins' valuations except for adjustments to other items that may be required as a result of the proposed adjustments.
+[63] Appellant's counsel, as mentioned earlier in these reasons, has questioned whether Mr. Hawkins as an employee of the Canada Revenue Agency is qualified to act as an expert witness in a tax appeal. Employees of the tax authority who work as real estate appraisers or business valuators have been called on many occasions to testify as experts before the Court. They are not any more or less biased than other experts who are compensated by other parties to prepare similar appraisals and valuations and testify as experts. What is required of an expert is a person of integrity and professionalism who is duly qualified and experienced as an appraiser or valuator[11]. Mr. Hawkins met these requirements. Once an expert testifies in court it is up to the judge to determine the quality of his testimony.
+II Hemmingford Property
+[64] The next issue to determine is the value of a one‑half undivided interest in the Property in Hemmingford, Quebec on January 7, 2005.
+[65] The Strachans purchased the Property by Deed of Sale executed on April 17, 2000 for $245,000, each as to an undivided one‑half interest. The Property was situated close to a farm property bearing number 187 Covey Hill Road in Hemmingford which was owned by Les Fermes Brimmond and on which the Strachans resided. The Strachans owned the shares of Brimmond; Mr. Strachan owned about 5 per cent of the issued shares. Brimmond purchased its land in 1994.
+[66] Brimmond Farms, Mr. Strachan recalled, was purchased for the purpose of developing a cattle farm. Mr. Strachan came from a rural farming community. He believed a cattle farm would be a more stable business as opposed to Northside. By 2000 Brimmond Farms had 45 breeding cows and two bulls, his own and a rented bull. The owner of the Property, a friend, had decided to leave the Property and the Strachans thought acquiring the Property would fit perfectly in their ambitions to create a profitable cattle farm. Mr. Strachan considered 40 head as a "break‑even" point and was aiming "to go in 2000 to 90 heads of breeding cows, which could be easily supported by combining both farms."
+[67] The Property consisted of a house which "was for the pits … terrible, dreadful, unliveable but the land was one of the best hay and grass pasture lands on the hill." The land consisted of 157 acres of which approximately 95 acres were arable in the sense of grass pasture management, Mr. Strachan said. He renovated the house on the Property starting in 2009.
+[68] In 2001 and 2002, the Property was the subject of extensive fencing and seeding. By late spring 2003 Mr. Strachan was "ready" to purchase an additional 45 heads of breeding cows when on May 20 the Canada Food Inspection Agency announced a cow in Alberta was suffering from Mad Cow Disease (bovine spongiform and encephalopathy). The U.S. closed its border to Canadian cattle, which was soon followed by other countries. For the first time in 250 years, Mr. Strachan recalled, there were no cattle in the fields. The border was reopened in late 2005, according to Mr. Strachan, but the damage had been done. Land values fell.
+[69] In 2004, "the most horrible year of my life", Mr. Strachan asserted, Brimmond Farms, which had been receiving significant advances from Northside, gave up the farm business and auctioned its 45 head of cattles at 58 cents a pound, "the price of hamburger meat", Mr. Strachan recalled.
+[70] A year after the sale of the cattle the Brimmond land was listed for sale. However, there were no purchasers; there were only two prospective purchasers who viewed the land during the period 2005 to 2008. Neighbouring farms up for sale had the same lack of results. Northside continued making advances to Brimmond up to 2005.
+[71] Mr. Strachan compared the Property to the land owned by Brimmond. The Brimmond land had a "very liveable home … the farms and outbuildings were insurable." The Property's buildings were not insurable, it was only land that the Strachans purchased. The Brimmond land consisted of 152 acres of which 100 acres were arable according to Mr. Strachan. In his view the Brimmond land was superior.
+[72] For purposes of trial, Mr. André Verreault, a valuator with the Canada Revenue Agency, valued the Property in 2005 at $210,000 for land alone. He attributed no value to the buildings. Mr. Verreault visited the Property in March 2013 and was shown around the Property by Mr. Strachan. He did not visit the Property when he prepared his valuation and originally valued the Property at $320,000. Mr. Strachan described the state of the home upon purchase of the Property and the improvements he made to it starting in 2009.
+[73] At the time of the transfer of his one‑half interest in the Property in January 2005, the outstanding balance on the hypothec was $196,910.11. Mr. Strachan stated that since he did not have any money, his wife always made the hypothec payments since the property's purchase in 2000.
+[74] The appellant produced a municipality notice of valuation of the Property for 2004 for $137,600 for land and $75,200 for building, that is, $212,800 as of July 1, 2001. A valuation for 2008, having an assessment date of July 1, 2006, values the land at $175,900 and buildings at $185,600, that is $361,500 in all. Mr. Strachan and Mr. Verreault have agreed that the buildings had no value in 2005. This casts doubt on the municipal valuations.
+[75] On purchase of the Property in 2000, the Strachans obtained a loan of $212,600 from Scotia Mortgage Corporation, secured by a hypothec on the Property. Thus, at time of transfer, Mrs. Strachan — if Mr. Strachan is correct — paid $15,690 to reduce the principal of the loan.
+[76] Mr. Verreault's final valuation was not seriously questioned. The appellant did not produce a real estate valuator. Appellant's counsel acknowledges that Mr. Verreault's valuation was "serious". However, since valuations are not an exact science, he thought the one dollar paid by the appellant to her husband was reasonable. Mr. Verreault applied two different methods to value the Property for agricultural purposes at $250,000. He divided the Property into three types of land, "terre franche non drainée", "boisé" and "terre inculte" and gave a value to each which was aggregated at $250,000. The Property could also be valued in accordance with recent tendencies to transform the Property into a "gentlemen farm" for which the Property could be sold for $210,000 after comparing four sales. One of the appellant counsel's principal criticisms was that Mr. Verreault failed to "conduct soil analysis tests."
+[77] The Minister assessed the appellant for $6,543.95, calculated as follows:
+Fair Market Value
+$ 210,000.00
+Mortgage
+($196,910.11)
+Difference
+$ 13,089.89
+Appellant's share
+$ 6,544.95
+Consideration paid by Mrs. Strachan
+$1.00
+Transfer by Mr. Strachan to the appellant
+$6,543.95
+[78] I see no significant error in Mr. Verreault's valuation and would not disturb his value as at January 2005 at $210,000.
+[79] The appeal will therefore be allowed and referred back to the Minister to reconsider the valuations of Northside and reassess in accordance with these reasons. Respondent shall be entitled to two‑third of her costs.
+Signed at Ottawa, Canada, this 4th day of December 2013.
+"Gerald J. Rip"
+Rip C.J.
+CITATION: 2013 TCC 362
+COURT FILE NO.: 2010-3729(IT)G
+STYLE OF CAUSE: MERRILL CORBIN STRACHAN v.
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: April 29, 30 and May 1st, 2013
+REASONS FOR JUDGMENT BY: The Honourable Gerald J. Rip, Chief Justice
+DATE OF JUDGMENT: December 4, 2013
+APPEARANCES:
+Counsel for the Appellant:
+Yves Ouellette
+Elisabeth Pedneault (Student-at-Law)
+Counsel for the Respondent:
+Dominique Gallant
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Yves Ouellette
+Firm: Gowling Lafleur Henderson
+Montréal, Québec
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Mr. Strachan held legal title to the shares until December 9, 2004; Articles 87 and 88, Corporations Act, RSNL 1990, c‑36.
+[2] Prévost Car Inc. v. The Queen, 2008 TCC 231, par. 100; 2008 CarswellNat 1114; 2008 D.T.C. 308 (Eng.)
+[3] [1980] 2 S.C.R. 774 at 784.
+[4] Strachan v. The Queen, 2000 DTC 2308, par. 2.
+[5] [1993] A.C.I. no 15 (QL); [1993] T.C.J. No. 15 (QL).
+[6] [1992] 3 F.C. 488; [1992] F.C.J. No. 605 (QL).
+[7] Section 74 was repealed by 1986, c. 6 s. 37(1).
+[8] [1948] Ex. C.R. 580 at p. 592; 49 DTC 491 at p. 497.
+[9] Brimmond Farms Inc. is considered later in these reasons.
+[10] Includes legal and Accounting Fees.
+[11] See, for example, Riordan v. R., 2006 FCA 224; Groeneveld v. M.N.R., 90 D.T.C. 1211; Laycock v. R., 78 D.T.C. 6349 (F.C.T.D.). One may also be interested in referring to the proposed rules of the Court respecting expert's evidence.

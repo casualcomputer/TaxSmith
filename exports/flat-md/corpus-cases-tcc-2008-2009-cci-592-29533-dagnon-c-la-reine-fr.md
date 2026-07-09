@@ -1,0 +1,159 @@
+---
+title: "Dagnon c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29533/index.do"
+last_modified: "2008-10-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 592"
+citation2: ""
+neutral_citation: "2009 CCI 592"
+decision_date: "2008-10-06"
+language: "fr"
+item_id: "29533"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6351
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:19:21.780000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5c0fdd7adccb9ed4becce00a9787a3c4dfb7e8d795af9da408799d19aa124fb7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Dagnon c. La Reine
+
+- Citation: 2009 CCI 592
+- Decision date: 2008-10-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6351, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dagnon c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-10-06
+Référence neutre
+2009 CCI 592
+Numéro de dossier
+2004-3393(IT)G
+Juges et Officiers taxateurs
+Barbara Tanasychuk
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-3393(IT)G
+ENTRE :
+ROBERT M. DAGNON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+CERTIFICAT DE TAXATION DES DÉPENS
+JE CERTIFIE que j’ai taxé les dépens entre parties de l’intimée dans la présente instance en vertu du paragraphe 153(1) des Règles de la Cour canadienne de l’impôt (procédure générale), et j’accorde la somme de 4 247,53 $.
+Signé à Toronto (Ontario), ce 17e jour de novembre 2009.
+« B.G. Tanasychuk »
+Officier taxateur
+Traduction certifiée conforme
+ce 7e jour de décembre 2009.
+Marie-Christine Gervais, traductrice
+Référence : 2009 CCI 592
+Date : 20091117
+Dossier : 2004-3393(IT)G
+ENTRE :
+ROBERT M. DAGNON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE LA TAXATION DES DÉPENS
+Barbara Tanasychuk, officier taxateur, CCI
+[1] La présente affaire a été entendue par conférence téléphonique le 12 novembre 2009. Elle fait suite au jugement de l’honorable juge Brent Paris daté du 10 octobre 2008 dans lequel les appels interjetés à l’encontre des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1996, 1997, 1998 et 1999 avaient été rejetés avec dépens. L’intimée était représentée par Me Iris Kingston, et l’appelant se représentait lui-même.
+[2] Voici le mémoire de frais présenté par l’intimée :
+1.(1)
+Services fournis par les avocats :
+1.(1)a)
+Pour tous les services fournis avant l’interrogatoire préalable
+700,00 $
+1.(1)c)
+Pour l’interrogatoire préalable du 9 juin 2006 (au taux de 700 $ la journée)
+700,00 $
+1.(1)d)
+Pour la préparation d’une conférence préparatoire à l’audience et la présence à cette conférence le 15 février 2007
+350,00 $
+1.(1)d)
+Pour la préparation d’une conférence préparatoire à l’audience et la présence à cette conférence le 17 octobre 2007
+350,00 $
+1.(1)e)
+Pour la préparation d’une audience sur l’état de l’instance et la présence à cette audience le 12 janvier 2006
+125,00 $
+1.(1)i)
+Pour tous les services fournis après le prononcé du jugement
+450,00 $
+TOTAL DES FRAIS :
+2 675,00 $
+1.(2)
+Débours :
+Transcription de l’interrogatoire préalable : facture de Atchison & Denman Court Reporting
+Facture no 69041 : Interrogatoire de Robert Dagnon le 9 juin 2006
+619,05 $
+Diffusion des transcriptions de la Cour : Debra Samuels, sténographe judiciaire
+Facture no 0591 : Une copie de la transcription de l’audience de l’appelant devant la Cour de justice de l’Ontario (chambre criminelle) le 9 janvier 2004 pour une affaire connexe
+51,20 $
+Signification de documents : Avanti Paralegal Services
+Signification du mémoire de conférence préparatoire à l’audience à l’appelant le 2 février 2007
+85,54 $
+Photocopies : Ikon Office Solutions
+Facture no TOR180464 : Copies des pièces de l’intimée
+9,10 $
+Facture no TOR180409 : Photocopie des documents de Revenu
+9,10 $
+Facture no TOR180043 : Copies des documents du contribuable
+39,41 $
+Facture no TOR207210 : Une copie du recueil de documents de l’intimée
+36,23 $
+Facture no TOR209409 : Copies des dispositions applicables
+22,90 $
+TOTAL DES DÉBOURS :
+872,53 $
+TOTAL DES FRAIS ET DES DÉBOURS :
+3 547,53 $
+1.(1)c)
+Pour la taxation des dépens
+700,00 $
+Total des frais et des débours (incluant la taxation des dépens, le cas échéant)
+4 247,53 $
+[3] Comme Robert Dagnon (« M. Dagnon ») a mentionné que le seul élément du mémoire de frais qu’il conteste est la somme de 700 $ réclamée au titre d’honoraires d’avocat pour la taxation des dépens, j’accorderai la somme de 2 675 $ pour les services fournis par les avocats.
+[4] M. Dagnon a mentionné que l’avocate de l’intimée lui avait demandé à plusieurs reprises de payer les dépens, mais qu’il n’avait pas les moyens de le faire. Il a ajouté qu’il n’était pas nécessaire d’engager la procédure de taxation des dépens.
+[5] Me Kingston a mentionné que la somme de 700 $ réclamée au titre d’honoraires d’avocat pour la taxation des dépens est le montant établi dans le tarif B de l’annexe II des Règles de la Cour canadienne de l’impôt (procédure générale). Elle a ajouté que lorsqu’une partie est tenue de demander un avis de convocation pour la taxation des dépens, elle a le droit de recouvrer cette somme.
+DÉCISION
+[6] Aux fins de la présente convocation, l’intimée a déposé une déclaration sous serment de Carla Riley‑Green, assermentée le 18 août 2009. Une lettre datée du 3 juin 2009 que l’avocate de l’intimée a envoyé à l’appelant et à laquelle était joint le mémoire de frais est jointe en tant que pièce C à la déclaration sous serment de Carla Riley‑Green. Dans la lettre du 3 juin 2009, on demandait à l’appelant de signer le mémoire de frais s’il approuvait les montants réclamés. On demandait également qu’un chèque de 3 547,53 $ soit remis à l’avocate. Au dernier paragraphe de la lettre du 3 juin 2009, il était mentionné que l’intimée réclamerait une somme additionnelle de 700 $ si une taxation formelle des dépens était requise.
+[7] La pièce D jointe à la déclaration sous serment de Carla Riley‑Green est une autre lettre, datée du 6 juillet 2009, que l’avocate de l’intimée a envoyée à l’appelant. Dans cette lettre, on redemandait le paiement des dépens s’élevant à 3 547,53 $, à défaut de quoi l’intimée prendrait les mesures nécessaires pour qu’il y ait convocation pour la taxation des dépens.
+[8] M. Dagnon n’a pas répondu aux lettres envoyées par l’avocate de l’intimée. Il était clairement mentionné dans la lettre du 3 juin 2009 (pièce C jointe à la déclaration sous serment de Carla Riley‑Green) que l’intimée réclamerait une somme additionnelle de 700 $ s’il devait y avoir une convocation pour la taxation des dépens. Comme l’appelant n’a pas répondu aux lettres, l’intimée n’a eu d’autre choix que de présenter une demande d’avis de convocation pour la taxation des dépens. J’accorderai donc la somme de 700 $ réclamée pour la taxation des dépens.
+[9] Les sommes réclamées au titre des débours étaient bien documentées. Des reçus étaient joints à titre de pièces à la déclaration sous serment de Carla Riley‑Green pour les débours réclamés. J’accorde donc la somme de 872,53 $ pour les débours.
+[10] Le mémoire de frais de l’intimée est taxé et la somme de 4 247,53 $ est accordée. Un certificat de cette somme sera délivré.
+Signé à Toronto (Ontario), ce 17e jour de novembre 2009.
+« B.G. Tanasychuk »
+Officier taxateur
+Traduction certifiée conforme
+ce 7e jour de décembre 2009.
+Marie-Christine Gervais, traductrice

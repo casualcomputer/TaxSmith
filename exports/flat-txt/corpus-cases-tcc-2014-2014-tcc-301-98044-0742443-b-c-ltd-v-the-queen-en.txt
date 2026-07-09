@@ -1,0 +1,217 @@
+Title: 0742443 B.C. Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/98044/index.do
+Corpus path: corpus/cases/tcc/2014/2014-tcc-301-98044-0742443-b-c-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2014-10-08
+
+# 0742443 B.C. Ltd. v. The Queen
+
+- Citation: 2014 TCC 301
+- Decision date: 2014-10-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5179, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+0742443 B.C. Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-10-08
+Neutral citation
+2014 TCC 301
+File numbers
+2012-2498(IT)G
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-2498(IT)G
+BETWEEN:
+0742443 B.C. LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on September 18 and 19, 2014, at Toronto, Ontario
+Before: The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+John Sorensen, Gary Edwards
+Counsel for the Respondent:
+Amit Ummat
+JUDGMENT
+The Appeals from the reassessments made under the Income Tax Act for the 2006, 2007, 2008 and 2009 taxation years are dismissed.
+Costs awarded to the Respondent.
+Signed at Ottawa, Canada, this 8th day of October 2014.
+“Campbell J. Miller”
+C. Miller J.
+Citation: 2014 TCC 301
+Date: 20141008
+Docket: 2012-2498(IT)G
+BETWEEN:
+0742443 B.C. LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+C. Miller J.
+[1] 0742443 B.C. Ltd., formerly R–Xtra Storage Centre Ltd. (“R-Xtra Co.”), carried on a business throughout 2006, 2007, 2008 and 2009 primarily through the efforts of its owner, Mr. David Claeys. The Respondent assessed R-Xtra Co. on the basis it was carrying on a specified investment business, as its principal purpose was to derive income from property (section 125(7) of the Income Tax Act (the “Act”)), being a mini-storage business. The Respondent consequently denied R-Xtra Co. the small business deduction. Mr. Claeys maintains R‑Xtra Co. carried on active business providing a bundle of services not simply storage space, and was therefore not caught within the definition of a specified investment business.
+Facts [2] Mr. Claeys was the only witness for R-Xtra Co. He described in some detail his work history leading up to the setting up of the storage business in Vernon, British Columbia in the Spring of 2004. He had taken over the family farm in Manitoba at the age of 19, by age 24 had started a seed business, by age 26 a custom wrapping machine business and later a portable wind-break panel business. It was clear he had a passion for business and always went the extra mile in his businesses.
+[3] When an opportunity presented itself to investigate the possibility of getting into the storage business in the Okanagan in 2003, Mr. Claeys was enthusiastic. He fell in love with the Okanagan and decided to sell the Manitoba businesses and move the family to Vernon. He started this business with two partners, but in 2006 rolled it into R-Xtra Co.
+[4] Several storage buildings were constructed on the six acre site, each with storage units in various sizes. There was also considerable space for keeping boats or other vehicles outside. R-Xtra Co.’s rental rates schedule indicated the rent (and the schedule used the term “rent”), which would vary depending on the size of the unit and whether or not the unit was heated. Rental rates were less for the outdoor storage.
+[5] Apart from Mr. Claeys there was only one other employee, who actually lived on site with her husband in space upstairs from where the office on the property was situated.
+[6] Mr. Claeys’ view was it was important to assist people when moving, beyond simply providing storage space. R-Xtra Co. had both business and personal customers.
+[7] Before going specifically into many of the services R-Xtra Co. provided, Mr. Claeys gave some examples of how he went the extra mile for his customers:
+Personal - He drove a customer from the storage centre to a hotel and got a good price for the customer at the hotel.
+- He delivered a vehicle to a customer.
+- He helped a young mother caught in a domestic situation load up belongings and bring them into storage.
+Business - Frito-Lay required immediate snow removal to ensure prompt delivery of its product as well as requiring a high level of security.
+- Mr. Claeys accepted parcel deliveries for customers at the storage centre.
+[8] Mr. Claeys was adamant that his business model was not simply renting space but providing a high level of quality services to assist his personal customers with moves or business customers with certain demands of their business. He would not charge any extra for such services: it was all included in the rates set out in the rental rate schedule.
+[9] Mr. Claeys took me through all the services R-Xtra Co. provided, as listed in his Notice or Appeal:
+a) Providing a full-time staff person on site from 9:00 a.m. to 5:00 p.m. Monday to Saturday of each week.
+This is the manager who lived on site, though Mr. Claeys was clear he saw his role as being accessible 24/7. His business card disclosed his cell number.
+b) Providing access to staff on call 24 hours a day, seven days a week.
+While access was generally 7:00 .a.m. to 9:00 p.m., business customers could punch in using the electronic security system at any time.
+c) Delivering reusable storage boxes to customers and pick up and storage once the customer packed the boxes.
+Mr. Claeys also indicated he tried different sizes of boxes, some however were too small and did not pan out.
+d) Loading and unloading customer property into and out of storage units, including arranging for movers as required.
+It would be Mr. Claeys who would arrange to get help with the movers at no extra charge.
+e) Putting customer property onto pallets for shipment.
+Mr. Claeys gave the example of a customer from the UK who was only in Vernon for a couple of years. Mr. Claeys assisted him in shipping his belongings overseas by putting it on pallets and shrink wrapping it where required. He did charge a little extra for this latter service.
+f) Providing access to vehicles for customers who do their own moving at no extra cost.
+Mr. Claeys would let customers use his half-ton truck, or if that was not big enough, Mr. Claeys would, at R-Xtra Co.’s expense, rent a truck. The customer would only be responsible for fuel.
+g) Receiving shipments from couriers on behalf of customers.
+Some business customers who required storage would also use the storage centre to receive packages. Mr. Claeys gave the example of receiving tons of pallets of product from China for a customer which he had to use his skid steer (like a forklift) to put into storage.
+h) Constructing in-unit shelving in customers’ storage units.
+If a customer needed more space for a longer term, Mr. Claeys would construct shelves, at his cost, to accommodate the additional requirement.
+i) Providing shuttle services to customers who drop off motor vehicles for storage.
+j) Delivering and/or towing boats to and from storage.
+k) Arranging for stored boats to be winterized.
+l) Constructing tarpaulin structures for boats stored outdoors.
+This was short term as ultimately Mr. Claeys went to arranging for shrink wrapping the boats instead.
+m) Preparing stored boats to be returned to use.
+Mr. Claeys would drop customers’ boats off at Valley Marine for the necessary work and later pick them up. The customer would pay Valley Marine for the work. Later Mr. Claeys arranged for a boat mechanic to come to the storage centre.
+n) Providing immediate snow removal at the facility to facilitate ready access by customers with their businesses, as well as snow removal for recreation vehicles and trailers stored outside during winter months.
+Mr. Claeys explained there were some customers with work trailers, who would keep such trailers at the storage centre, requiring daily access necessitating immediate snow removal.
+o) Providing access to 8,000 square feet of heated storage.
+Mr. Claeys testified nowhere else in Vernon could customers get heated storage.
+p) Providing use or purchase of reusable storage containers.
+This seems a repeat of Mr. Claeys item c) above.
+q) Issuing and replacing keys.
+Mr. Claeys suggested it was normal practice in the industry for customers to provide their own lock and keys. R-Xtra Co. provided more.
+r) Providing entry codes for security systems.
+Mr. Claeys believed he had a superior security system to his competitors, as customers would obtain a PIN number triggering the gates to open and the customer’s specific unit to be disalarmed. The system would keep track of who accessed what units when. This log could be of assistance to some business customers.
+s) Cleaning and maintenance.
+Mr. Claeys indicated the units would be cleaned and disinfected when vacated.
+t) Providing referrals to reputable moving companies and other local service providers.
+If there was someone new to the area Mr. Claeys would advise them about Vernon’s school, sports programs etc. as well as possibly lining them up with realtors. Mr. Claeys described himself as providing the service of alleviating stress.
+u) Constantly monitoring all facilities for safety, security and reliability.
+Mr. Claeys emphasized no other storage facility was as closely monitored and secure as R-Xtra Co.
+[10] These services were all included in R-Xtra Co.’s published rental rates, with the rare extra fee that would be noted on the invoice. Mr. Claeys provided no copies of invoices that R-Xtra Co. used. Mr. Claeys felt it was because of these extra services he had high occupancy rates. He was unable to place any percentage breakdown between what was being paid for these services versus what was paid for the storage. He insisted that he offered a complete package of services, storage simply being part of it.
+[11] Because the Appellant’s counsel founded a major part of his argument on the basis the Respondent’s assumptions were fundamentally misguided, I repeat those assumptions as follows:
+8. In determining the Appellant’s tax liability for the 2006, 2007, 2008 and 2009 taxation years, the Minister made the following assumptions of fact:
+a) at all material times, the Appellant operated a mini-storage rental business;
+b) at all material times, the Appellant’s principal business activity was the rental of mini-storage units to customers on a monthly basis;
+c) at all material times, the Appellant owned a large warehouse-type building and the land the building was situated;
+d) at all material times, the mini-storage units were located inside the large warehouse-type building;
+e) at all material times, the value of the large warehouse-type building and the land the building was situated was more than 90% of the Appellant’s total assets;
+f) at all material times, more than 90% of the Appellant’s income was derived from the rents from the rental of the mini-storage units;
+g) at all material times, any services provided by the Appellant’s business was to derive rents from the rental of the mini-storage units; and
+h) at all material times, the Appellant employed no more than one full-time employee.
+Issue [12] Is R-Xtra Co. entitled to the small business deduction? To answer this question, I must determine whether R-Xtra Co. is a specified investment business. If so, it is not entitled to the small business deduction.
+[13] The determination of whether R-Xtra Co. is a specified investment business depends on whether R-Xtra Co.’s principal purpose was to derive income from property, in this case rent. The Appellant’s counsel argues that if I find any ambiguity in the facts or law, the Appellant should still succeed for three reasons: (I will quote Mr. Sorensen’s written submission):
+102. … If the court finds ambiguity in the facts or the law, which in our submission should not be the case, the appellant is nonetheless entitled to succeed for three reasons. First, the residual principle set out in Johns‑Manville supports the conclusion that if, after deploying all the usual tools of interpretation, the result is unclear, the taxpayer is entitled to succeed. Second, the SBD is a tax incentive and concession that should be liberally interpreted and granted to small business people in accordance with its object and purpose. Third, the minister’s conduct in this matter was surprisingly bad and should not be a basis upon which the Crown should be allowed to succeed.
+Analysis [14] The small business deduction applies to income from an active business carried on by a corporation. “Active business carried on by a corporation” is defined in section 125(7) of the Act to mean “any business carried on by the corporation other than a specified investment business…”. “Specified investment business” is defined in that same section as “a business carried on by a corporation in a taxation year the principal purpose of which is to derive income (including interest, dividends, rents and royalties) from property …” Is there any ambiguity in applying the phrase “principal purpose to derive income from property” to the circumstances before me, especially given the definition itself identifies rent as one of the types of income from property? To be clear, the question is not whether R-Xtra Co. carried on business. The question is what was the principal purpose of that business? The Respondent says it was to derive rental income, and providing a few ancillary services does not vitiate this purpose. The Appellant says it was to derive income from providing a package of services, which taken together does not create income from property in the nature of rent: the Appellant analogizes to the hotel industry.
+[15] Before addressing whether there is any ambiguity with respect to what is meant by “principal purpose to derive income from property”, the question of what was the nature, or legal character, of the income earned by R-Xtra Co. needs to be addressed. Justice Sharlow framed the question as follows in the case of Weaver v H.M.Q.:[1]
+25. The definition of “specified investment business” does not ask about the general nature of the business of a corporation, or the degree of activity or passivity actually required by that business. Rather, it asks about the legal character of the income that the business is intended principally to earn. If on the relevant date the legal character of that income is rent, for example, then the business meets the definition unless one of the statutory exceptions applies (none of those exceptions is relevant in this case).
+[16] The Appellant suggests that the fact that it held itself out, colloquially, as counsel put it, as a storage business, and also the fact that the rates schedule described the fee as rent is not dispositive. Labels may be helpful but the Appellant’s intention is more determinative argues the Appellant. Yet, with respect, I suggest the actual trappings or labels of the business are informative of the intent. Yes, Mr. Claeys stuck doggedly to his position that his business model was to provide a bundle of services to his customers, yet there is nothing concrete to point to by way of advertising or invoicing to suggest that.
+[17] The Appellant acknowledged in written argument that:
+67. In our submission, the bundle of services that the appellant provided to its customers is inextricably linked to customer access to mini-storage units. It would not be possible to unwind the services provided by the appellant from its customers’ access to mini-storage units. Stated another way, the appellant did not engage in separate businesses to: arrange for property to be moved; rent or loan moving vehicles; broker courier packages; build shelving; chauffeur people around Vernon, BC; winterize boats; build structure around boats; prepare boats for use; remove snow; or perform security services. To the contrary, the appellant provided these and many other services, all of which were concerned with storing customer property and which necessarily were inextricably linked to access and use of storage units.
+[18] The Appellant’s position appears to be that it is unnecessary to address the principal purpose test as in this case the income is simply not rent. Yet, I take this as a confirmation there was only the one business. If one took away the storage units there would be no business, whereas one could take away many of the other services and there would still be a storage business. Putting goods into storage and paying for that, regardless of what you label the income, is income from property. Does the provision of services, as described by Mr. Claeys, change the nature of that income to something other than rent? I will look at those services in greater detail, services the Appellant admits are inextricably linked to storage use.
+[19] Some of the services provided by R-Xtra Co. are not simply inextricably linked to providing storage space but are, I would suggest, part of the property: the heated space, the shelving, the tarpauline frames and the security system. Further, whether or not R-Xtra Co. had a low quality or high quality security system it was still part of the property, income from which is income from property.
+[20] With respect to many of the other services, I find Mr. Claeys has not satisfied me that they are indeed core to what customers were paying for. Let me use snow removal as an example. Yes, this is a service but it is a service that allows access to a customer paying for storage space. To disable a customer from accessing goods for the duration of a Canadian winter due to lack of snow removal would be an unwise business decision: what is being paid for as part of the property is access to that property. Mr. Claeys’ point, however, is that he gave immediate access due to certain customers’ demands, citing 2 examples, yet there is no evidence of how many of the 400 to 500 customers required this, or evidence of how often a Vernon winter was so severe as to require such immediate service. I have not been convinced the service is anything other than requisite support for property income. I am also not convinced that immediate snow removal for perhaps a handful of business customers some times during a couple of months in an Okanagan winter is a factor vitiating the nature of income as something other than rent.
+[21] What about loading and unloading, shuttling customers, offering advice on the local environment, arranging for movers, allowing access to his vehicle … These may indeed be those services over and above that Mr. Claeys suggests changed the very nature of the income. This does require an analysis of principal purpose.
+[22] What is meant by principal purpose? Appellant’s counsel referred me to Income Tax Bulletin IT 73-R6, though agreed an Income Tax Bulletin is not binding on this Court. IT 73-R6 states in part:
+… A corporation that operates a hotel is generally considered to be in the business of providing services and not in the business of renting real property. Accordingly, the business is normally considered to be an active business rather than a specified investment business.
+The principal purpose of a corporation's business must be determined annually after all the facts relating to that business carried on by that corporation in that year have been considered and analyzed. Included in this evaluation should be such things as:
+(a) the purpose for which the business was originally commenced;
+(b) the history and evolution of its operations, including changes in its mode of operation and purpose of existence; and
+(c) the manner in which the business is conducted.
+[23] Mr. Sander, the Canada Revenue Agency (“CRA”) auditor, suggested principal means something over 50%. Justice Sharlow in the Weaver case, cited earlier, noted parenthetically that the Minister of National Revenue (the “Minister”) generally accepts, as a rule of thumb, that the word “principally” signifies more than 50%.
+[24] Justice Brulé in the case of Gill v M.N.R.[2] stated:
+27. The term "principal purpose" was judicially considered in Mayon Investments Inc. et al. v. M.N.R. reflex, [1991] 1 C.T.C. 2245, 91 D.T.C. 364, where Brulé, T.C.J., stated at page 369, that with respect to the definition of "specified investment business" what is meant by "the principal purpose of which is to derive income from property" is " ... when the source of revenue, the nature of the assets held and the purpose of the corporation are to derive income from property, such as interest income.
+28. In Ed Sinclair Construction & Supplies Ltd. et al. v. M.N.R., reflex, [1992] 1 C.T.C. 2218, 92 D.T.C. 1163, Bowman T.C.J., considered "principal purpose" in the context of a "specified investment business" as it related to the small business deduction. His Honour stated at page 1165 in the case of Ben Company Limited v. M.N.R., 89 D.T.C. 242, which is set out at page 244:
+In determining the "principal purpose" of a business carried on by a corporation the stated object of the person who carries it on is not necessarily the only, or even the most important, criterion. Of critical importance is what the corporation in fact does and what its sources of income are.
+[25] This case is not dissimilar to the case of Lee v The Queen,[3] where the business in issue was a mobile home park. The appellant in that case argued that the level of their activity was so great the principal purpose could not be said to be to derive income from property. Justice Bonner found the business was a specified investment business stating:
+7. The assessment in issue was made on the basis that Cassidy's business was a specified investment business. It was the Appellants' position that the level of their activity devoted to the operation of the Cassidy business was so great that the principal purpose of the business could not be said to be to derive income from property as required by the subsection 125(7) definition.
+…
+9. Cassidy's business was the operation of a mobile home park on land which it owned. The park comprised 68 pads which Cassidy rented to tenants as sites for their mobile homes. There can be no doubt on the evidence of the Appellants and of the witnesses, Rosemary Nicholls and Arthur Gallant, that the tenants were attracted and retained by the high level of service and superior maintenance standards which were offered by the Cassidy Park. Nevertheless, so far as Cassidy's income earning activity is concerned, the clear purpose was to derive rental income from the tenants who occupied the pads under leases of the sort entered in evidence. What was paid by the tenants and received by Cassidy was described in the leases, and fairly so, as "rent". Cassidy had no other significant source of revenue.
+[26] The Appellant’s counsel, Mr. Sorensen, tied the CRA auditor down to a percentage of what principal meant: 50 plus one percent, expressing some concern that that had not been previously conveyed by the Respondent to the Appellant. Is it really possible to distinguish the activity level of such a nebulous nature as described by Mr. Claeys to exact percentage points: 50 versus 49? Is this to be done on an excruciatingly accurate recording of hours? Not the case here. Is this to be done on a breakdown of fees, if invoices indeed even show such a breakdown? Not the case here. No, we are left with the term “principal” and whether we substitute “main” or “chief” or “primary” or “51%”, it comes down to an objective determination of what the payor was paying for.
+[27] The Appellant argued there is no difference between a customer paying for R-Xtra Co.’s services, including the use of storage space, and the motel customer paying for a room, with all the services that entails. There are, I respectfully suggest, differences. Even a small motel with only three or four employees would provide the following services:
+- Fully furnished room
+- Full set of linens, which are replaced daily
+- Daily room cleaning services
+- Electricity
+- Plumbing
+- Wi-Fi/internet access
+- Phone
+- Television, including cable and movies
+- Use of supplementary items such as hairdryers, coffeemaker, phone charger, iron etc.
+- Parking and/or valet service
+Many hotels or motels might also provide:
+- A degree of kitchen furnishings and appliances from a fridge, microwave to a kitchenette
+- Concierge services to a varying degree
+- Access to additional amenities such as gyms, pools, spa, meeting rooms, etc.
+- Room service to a varying degree
+- Some level of food service, from a complete on-site restaurant to continental breakfast
+- Shuttle service
+[28] What is significant is that the bundle of hotel/motel services are used by every customer. Not so with R-Xtra Co.’s services. Every hotel customer has an expectation of a bundle of hotel services in addition to the use of a furnished room. I have not been convinced that every customer seeking storage space has any greater expectation than the space itself and not an expectation of a bundle of services equivalent to hotel accommodation.
+[29] There is a tipping point where the provision of services overcomes the provision of property. The CRA have administratively determined that hotel/motel accommodation steps over that tipping point. I conclude that R-Xtra Co. does not: a few services to a few customers does not change the inherent nature of income from property.
+[30] In summary, all of R-Xtra Co.’s customers were buying storage space: that is what they paid for. Mr. Claeys provided services that anyone acquiring storage space would expect. He did also, however, go the extra mile and provide additional services, though has not provided sufficient evidence to in any way quantify the level of such customer service. Not every customer got loading, unloading, shuttle service or relocation advice for example. Every customer got top quality storage space. R-Xtra Co. carried on a business, the principal purpose of which was to derive income from renting storage space and that is deriving income from property.
+[31] As I have found no ambiguity in the legislation, as applied to the circumstances before me, but found that R-Xtra Co. clearly is a specified investment business, there is no need to address the Appellant’s alternative arguments, but I do want to comment briefly on the suggestion that a purported faulty Reply is sufficient to find in favour of the Appellant. I was not referred to any authority directly on point. Yes, there are cases suggesting assumptions should not state law but simply the facts assumed. But my role is to determine the correctness of an assessment based on the evidence put before me. An Appellant has ample opportunity through pleadings, including requests for particulars, document exchange and examinations for discovery to know the case to meet. The Appellant had earlier moved to strike some of the assumptions and was unsuccessful. The Reply was not so inadequate that the Appellant was not aware of the case to meet: the Appellant knew the case to meet.
+[32] I do not accept the Appellant’s position it has been treated very unfairly by the Respondent’s bad and misleading pleadings. Pleadings are often, regrettably, not perfect. They are intended to set the parameters within which the litigation is to proceed, but with some qualifications: section 152(9) of the Act comes to mind. If a reply is faulty by pleading law as an assumption, that does not somehow relieve me of my responsibility to consider evidence upon which I am to reach my own conclusion with respect to the law. It does, however, relieve the Appellant from having to demolish that assumption, but it does not allow the Appellant to simply step back and not enter a case. Perhaps this could be an approach where the only assumptions made by the Respondent are assumptions of law. I would hope in such an instance a blatantly improper reply would never get to trial. There would be opportunities to challenge and to amend.
+[33] The rules of litigation in our adversarial system are to ensure a fair fight at trial – no surprise, no ambush, a presentation of relevant facts properly examined and cross-examined and thoughtful argument applying the law to those facts.
+[34] In these Appeals I find, notwithstanding some concerns with some assumptions, the issue is clear, the Parties knew what the case was about, evidence was properly led and it is up to me to make a decision. I have. R‑Xtra Co. was a specified investment business.
+[35] The Appeals are dismissed with costs to the Respondent.
+Signed at Ottawa, Canada, this 8th day of October 2014.
+“Campbell J. Miller”
+C. Miller J.
+CITATION:
+2014 TCC 301
+COURT FILE NO.:
+2012-2498(IT)G
+STYLE OF CAUSE:
+0742443 B.C. LTD. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+September 18 and 19, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT:
+October 8, 2014
+APPEARANCES:
+Counsel for the Appellant:
+John Sorensen, Gary Edwards
+Counsel for the Respondent:
+Amit Ummat
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+John Sorensen, Gary Edwards
+Firm:
+Gowling, Lafleur & Henderson
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2008 FCA 238.
+[2] 1998 CanLII 201.
+[3] 53 D.T.C. 925.

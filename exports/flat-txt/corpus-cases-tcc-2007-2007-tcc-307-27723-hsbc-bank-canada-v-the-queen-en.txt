@@ -1,0 +1,163 @@
+Title: HSBC Bank Canada v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27723/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-307-27723-hsbc-bank-canada-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-04-27
+
+# HSBC Bank Canada v. The Queen
+
+- Citation: 2007 TCC 307
+- Decision date: 2007-04-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 475, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+HSBC Bank Canada v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-04-27
+Neutral citation
+2007 TCC 307
+File numbers
+2006-3579(IT)G
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-3579(IT)G
+BETWEEN:
+HSBC BANK CANADA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on April 27, 2007 at Ottawa, Ontario.
+Before: The Honourable D.G.H. Bowman, Chief Justice
+Appearances:
+Counsel for the Appellant:
+Edwin Kroft
+Counsel for the Respondent:
+John Shipley
+Justine Malone
+____________________________________________________________________
+ORDER
+Upon motion made by counsel for the respondent for an order to strike out paragraph 19 of the notice of appeal pursuant to Rule 53(a) of the Tax Court of Canada Rules (General Procedure);
+It is ordered that the motion to strike paragraph 19 is dismissed. The matter of the costs of this motion should be left to the trial judge. The Crown is entitled to a further 30 days after the date of this Order to file a reply to the notice of appeal.
+Signed at Ottawa, Canada, this 19th day of June 2007.
+“D.G.H. Bowman”
+Bowman, C.J.
+Citation: 2007TCC307
+Date: 20070619
+Docket: 2006-3579(IT)G
+BETWEEN:
+HSBC BANK CANADA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Bowman, C.J.
+[1] In this motion the respondent seeks an order striking out paragraph 19 of the notice of appeal. That paragraph reads as follows:
+Officials from the Department of National Revenue reviewed the amounts charged to the Appellant for the HBAP Deposit Guarantee during annual audits. No adjustment was made to the amount deducted by the Appellant in respect of each of the Appellant’s taxation years commencing with the 1986 taxation year until the August 31, 1996 taxation year which is the first taxation year which is the subject of this Notice of Appeal.
+[2] The grounds for the motion are that paragraph 19 contains allegations of fact that:
+a) may prejudice or delay the fair hearing of the action, as set out in Rule 53(a) of Tax Court of Canada Rules (General Procedure) (the “Rules”);
+b) are scandalous, frivolous and/or vexatious as set out in Rule 53(b) of the Rules; and
+c) are an abuse of process as set out in Rule 53(c) of the Rules.
+[3] Rule 53 of the Rules reads:
+Striking out a Pleading or other Document
+Radiation d'un acte de procédure ou d'un autre document
+53. The Court may strike out or expunge all or part of a pleading or other document, with or without leave to amend, on the ground that the pleading or other document,
+(a) may prejudice or delay the fair hearing of the action,
+(b) is scandalous, frivolous or vexatious, or
+(c) is an abuse of the process of the Court.
+53. La Cour peut radier un acte de procédure ou un autre document ou en supprimer des passages, en tout ou en partie, avec ou sans autorisation de le modifier parce que l'acte ou le document :
+a) peut compromettre ou retarder l'instruction équitable de l'appel;
+b) est scandaleux, frivole ou vexatoire;
+c) constitue un recours abusif à la Cour.
+[4] The respondent’s objection to paragraph 19 is that it refers to the fact that in years prior to the years under appeal the Minister of National Revenue did not adjust the amount paid by the appellant to its parent Hongkong and Shanghai Banking Corporation Limited (“HBAP”) to guarantee deposits of the appellant. The respondent’s position is that the Minister’s treatment of the taxpayer in other years is not relevant to the question of the correctness of his treatment in the years before the court. I agree. It is trite law that the Minister is neither bound nor estopped by what may or may not have been done in other years. This principle was recognized recently in Ludco Enterprises Ltd. v. The Queen, [1996] 3 C.T.C. 74, but it is a principle of long standing.
+[5] Counsel for the appellant does not dispute the principle and agrees that reference to the treatment in prior years is irrelevant to the question of the assessment of tax. He says that it is, however, relevant to the question of penalties which were imposed for 1999 and 2000 under subsection 247(3) of the Income Tax Act which reads:
+(3) Penalty — A taxpayer (other than a taxpayer all of whose taxable income for the year is exempt from tax under Part I) is liable to a penalty for a taxation year equal to 10% of the amount determined under paragraph (a) in respect of the taxpayer for the year, where
+(a) the amount, if any, by which
+(i) the total of
+(A) the taxpayer’s transfer pricing capital adjustment for the year, and
+(B) the taxpayer’s transfer pricing income adjustment for the year
+exceeds the total of
+(ii) the total of all amounts each of which is the portion of the taxpayer’s transfer pricing capital adjustment or transfer pricing income adjustment for the year that can reasonably be considered to relate to a particular transaction, where
+(A) the transaction is a qualifying cost contribution arrangement in which the taxpayer or a partnership of which the taxpayer is a member is a participant, or
+(B) in any other case, the taxpayer or a partnership of which the taxpayer is a member made reasonable efforts to determine arm’s length transfer prices or arm’s length allocations in respect of the transaction, and to use those prices or allocations for the purposes of this Act, and
+(iii) the total of all amounts, each of which is the portion of the taxpayer’s transfer pricing capital setoff adjustment or transfer pricing income setoff adjustment for the year that can reasonably be considered to relate to a particular transaction, where
+(A) the transaction is a qualifying cost contribution arrangement in which the taxpayer or a partnership of which the taxpayer is a member is a participant, or
+(B) in any other case, the taxpayer or a partnership of which the taxpayer is a member made reasonable efforts to determine arm’s length transfer prices or arm’s length allocations in respect of the transaction, and to use those prices or allocations for the purposes of this Act,
+is greater than
+(b) the lesser of
+(i) 10% of the amount that would be the taxpayer’s gross revenue for the year if this Act were read without reference to subsection (2), subsections 69(1) and (1.2) and section 245,
+and
+(ii) $5,000,000.
+[6] Subsection 247(4) may also be relevant to the question of penalties under subsection 247(3). It reads:
+(4) Contemporaneous documentation — For the purposes of subsection (3) and the definition “qualifying cost contribution arrangement” in subsection (1), a taxpayer or a partnership is deemed not to have made reasonable efforts to determine and use arm’s length transfer prices or arm’s length allocation in respect of a transaction or not to have participated in a transaction that is a qualifying cost contribution arrangement, unless the taxpayer or the partnership, as the case may be,
+(a) makes or obtains, on or before the taxpayer’s or partnership’s documentation-due date for the taxation year or fiscal period, as the case may be, in which the transaction is entered into, records or documents that provide a description that is complete and accurate in all material respects of
+(i) the property or services to which the transaction relates,
+(ii) the terms and conditions of the transaction and their relationship, if any, to the terms and conditions of each other transaction entered into between the participants in the transaction,
+(iii) the identity of the participants in the transaction and their relationship to each other at the time the transaction was entered into,
+(iv) the functions performed, the property used or contributed and the risks assumed, in respect of the transaction, by the participants in the transaction,
+(v) the data and methods considered and the analysis performed to determine the transfer prices or the allocations of profits or losses or contributions to costs, as the case may be, in respect of the transaction; and
+. . . . .
+(b) for each subsequent taxation year or fiscal period, if any, in which the transaction continues, makes or obtains, on or before the taxpayer’s or partnership’s documentation-due date for that year or period, as the case may be, records or documents that completely and accurately describe each material change in the year or period to the matters referred to in any of subparagraphs (a)(i) to (vi) in respect of the transaction; and
+(c) provides the records or documents described in paragraphs (a) and (b) to the Minister within 3 months after service, made personally or by registered or certified mail, of a written request therefor.
+[7] The appellant’s position is summarized in the appellant’s motion record as follows:
+8. The Appellant submits that the Crown’s Motion should be dismissed for a number of reasons:
+(a) The facts alleged in paragraph 19 of the Amended Notice of Appeal are relevant for assessing the accuracy of the Appellant’s liability under the Income Tax Act (the “Act’) for certain of the Relevant Taxation Years, as framed by the issues set out in the Amended Notice of Appeal. If the Crown’s Motion is granted, the Crown will be advantaged and the Appellant will be prejudiced;
+(b) The Canada Revenue Agency (“CRA”) assessed penalties against the Appellant under subsection 247(3) of the Act (Exhibit A of the Washbern Affidavit). The Appellant raised this “penalty” issue in the Amended Notice of Appeal in a number of paragraphs (paragraphs 104, 105, 111, 123, 124, 130, 136 and 144);
+(c) The Crown bears the burden of establishing the facts justifying the assessment of such penalties. Paragraph 19 of the Amended Notice of Appeal relates to such facts and therefore has a direct bearing on the issues raised in the Amended Notice of Appeal.
+(d) If this Honourable Court were to grant the Crown’s motion at this stage of the proceedings, before examinations for discovery and without the benefit of all such facts and related evidence, it would inappropriately assist the Crown in satisfying the burden of proof. It would result in the trial judge being denied an opportunity to evaluate evidence which may bear on the ultimate decision in this appeal. The trial judge is in the best position to properly weigh the statements made in paragraph 19 of the Amended Notice of Appeal together with other facts in making a decision about the proper application of the penalties in subsection 247(3) of the Act. The denial of the Crown’s Motion to Strike is particularly appropriate in this situation because the application of subsections 247(3) and 247(4) of the Act has not yet been judicially considered;
+(e) At this early point in the proceedings, the Appellant also cannot be certain whether the CRA relied on information obtained during these earlier taxation audits of the Appellant’s deposit guarantee arrangements to formulate its assumptions underlying the reassessments of the Appellant’s Relevant Taxation Years. By striking paragraph 19 of the Amended Notice of Appeal, the Appellant could be denied the ability to so determine this point. Once paragraph 19 is struck out, the Crown might then argue, during examinations for discovery, that any information derived by the CRA from past tax audits and relied upon by the CRA for purposes of the Reassessments must not be produced;
+(f) Paragraph 27 of this Submission indicates that the striking of a paragraph in a pleading should be reserved for only the most plain and obvious cases. Matters of weight and relevancy are best determined by a trial judge after hearing all the evidence (Gould v. The Queen, 2005 TCC 556 at paragraph 23) (Tab 3 of the Motion Record); and
+(g) In any event, the Motion of the Crown should be denied because the Crown has taken a “fresh step” under Section 8 of the Rules.
+[8] I do not think that I need dwell at great length on this point. At this stage of the proceedings I do not think that it is appropriate for a motions judge, before discoveries have been held, to decide what sort of evidence should be heard at trial. Relevancy is a question for the trial judge in the context of all of the evidence. It is obvious that whether a penalty under subsection 247(3) is appropriate, requires a determination whether the taxpayer made “reasonable efforts” to determine arm’s length transfer prices or allocations. It would be for the trial judge to decide what constitutes “reasonable efforts”. I do not propose in this motion to second guess the trial judge in that determination. He or she may decide that one element of reasonableness of the taxpayers’ efforts is a consideration of a long standing and unchallenged practice of the taxpayer. I am not saying that I would, if I were the trial judge, regard that factor as determinative or even persuasive, but another judge might.
+[9] A motion to strike out a pleading should be granted only where it is clear and obvious that pleading is scandalous, vexatious or frivolous or an abuse of the Court’s process. (Hunt v. Carey Canada Inc., [1990] 2 S.C.R. 959 at 980; Erasmus v. The Queen, 91 DTC 5415 at 5416; Gould v. The Queen, [2005] DTC 1311; Niagara Helicopters Limited v. The Queen, [2003] DTC 513 at 514‑515.) An example of the type of frivolous and vexatious pleading that section 8 of the Rules is aimed at is Davitt v. The Queen, [2001] DTC 702.
+[10] It is by no means plain and obvious to me that the assertion of an unchallenged practice in previous years is so irrelevant to the question of reasonableness in subsection 247(3) that it should be struck out as frivolous or vexatious. Nor do I see that the allegation prejudices the respondent or that it would unduly lengthen the trial.
+[11] The motion to strike paragraph 19 is dismissed. The matter of the costs of this motion should be left to the trial judge. The Crown is entitled to a further 30 days after the date of this order to file a reply to the notice of appeal.
+Signed at Ottawa, Canada, this 19th day of June 2007.
+“D.G.H. Bowman”
+Bowman, C.J.
+CITATION:
+2007TCC307
+COURT FILE NUMBER:
+2006-3579(IT)G
+STYLE OF CAUSE:
+HSBC Bank Canada v.
+Her Majesty The Queen
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+April 27, 2007
+REASONS FOR ORDER BY:
+The Honourable D.G.H. Bowman, Chief Justice
+DATE OF ORDER AND REASONS FOR ORDER:
+June 19, 2007
+APPEARANCES:
+Counsel for the Appellant:
+Edwin Kroft
+Counsel for the Respondent:
+John Shipley
+Justine Malone
+COUNSEL OF RECORD:
+Counsel for the Appellant
+Name:
+Firm:
+Edwin G. Kroft
+McCarthy Tétrault LLP
+Barristers and Solicitors
+P.O. Box 10424
+1300 – 777 Dunsmuir Street
+Vancouver, B.C. V7Y 1K2
+Counsel for the Respondent
+John H. Sims, Q.C.
+Deputy Attorney General of Canada

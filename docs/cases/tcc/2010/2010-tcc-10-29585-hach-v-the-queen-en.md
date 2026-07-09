@@ -1,0 +1,279 @@
+---
+title: "Haché v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29585/index.do"
+last_modified: "2010-01-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 10"
+citation2: ""
+neutral_citation: "2010 TCC 10"
+decision_date: "2010-01-07"
+language: "en"
+item_id: "29585"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6338
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:45:17.765000+00:00"
+cases_cited_count: 3
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7eaa9fda28d5c0ceaae3960ae29246ea00a36c393285830f1c66d15bdb101480"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Haché v. The Queen
+
+- Citation: 2010 TCC 10
+- Decision date: 2010-01-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6338, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Haché v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-01-07
+Neutral citation
+2010 TCC 10
+File numbers
+2006-3736(IT)G
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006‑3736(IT)G
+BETWEEN:
+GILDARD HACHÉ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+___________________________________________________________________
+Appeal heard on October 29, 2009, at Moncton, New Brunswick.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Counsel for the Appellant:
+Gilles E. Bujold
+Counsel for the Respondent:
+Catherine McIntyre
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed, with costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that, under the Income Tax Act, the amount of $2,583,465 received by the Appellant from the federal Minister of Fisheries and Oceans in the 2001 taxation year should not be included in the Appellant's income for that year.
+Signed at Montreal, Quebec, this 7th day of January 2010.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+on this 18th day of February 2010.
+Erich Klein, Reviser
+Citation: 2010 TCC 10
+Date: 20100107
+Docket: 2006-3736(IT)G
+BETWEEN:
+GILDARD HACHÉ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre J.
+[1] The Appellant is appealing from an assessment made by the Minister of National Revenue ("the Minister") under the Income Tax Act ("the ITA") for the 2001 taxation year. The Minister considered that the amount of $2,583,465 received by the Appellant from the federal Minister of Fisheries and Oceans (hereinafter "Fisheries and Oceans Canada" or "DFO" or "D.F.O.", depending on the various documents filed in evidence) constituted proceeds of the disposition by the Appellant of two commercial fishing licences, for snow crab and groundfish, that he allegedly held. The Minister therefore included that amount in the Appellant's income, under sections 9 and 14 of the ITA, as an eligible capital amount. At the hearing, the Respondent abandoned that position and argued before this Court that the amount in question was taxable as a capital gain under sections 38, 39 and 40 of the ITA. The Appellant's position is simply that that amount is not taxable under the ITA since fishing licences do not constitute property within the meaning of the ITA that he could dispose of, and that the amount received thus cannot give rise to a capital gain that must be included in his taxable income for the 2001 taxation year.
+[2] At the hearing, the parties filed a document signed by them and entitled [translation] "Facts and Documents Acknowledged by the Parties", of which I will reproduce only Part A concerning the facts, as follows:
+[translation]
+a. The Appellant, Gildard Haché, is a resident of the town of Shippagan, Gloucester County, Province of New Brunswick; his full postal address is Post Office Box 2085, Shippagan, NB E8S 3H3.
+b. The Appellant is appealing under the Income Tax Act, R.S.C. 1985, c. 1 (5th Supplement) (hereinafter "the ITA") the assessment for the 2001 taxation year issued on September 5, 2006.
+c. The Appellant was a commercial fisherman registered under the Fisheries Act, R.S.C. 1985, c. F‑14, and the Regulations thereunder (hereinafter "the Fisheries Act") during the years 1996, 1997, 1998, 1999 and 2000.
+d. The Appellant was the holder of commercial fishing licences for snow crab (licence No. 004385) and groundfish (licence No. 004384) issued by the Minister of Fisheries and Oceans (hereinafter "Fisheries and Oceans Canada" under the Fisheries Act (hereinafter "the licences") during the years 1996, 1997, 1998, 1999 and 2000.
+e. The Appellant was the owner of a vessel named the Sandra Caryne (hereinafter "the vessel") and snow crab and groundfish fishing gear (hereinafter "the gear") during the years 1996, 1997, 1998, 1999 and 2000.
+f. On February 26, 2001, the Appellant signed an agreement, No. NB‑70‑2001, with Her Majesty the Queen in right of Canada represented by Fisheries and Oceans Canada (hereinafter "the agreement").
+g. The agreement was entered into under the Fisheries Access Program (hereinafter "the FAP").
+h. The purpose of Fisheries and Oceans Canada's FAP was to allow Aboriginal First Nations groups to take part in the commercial fishery as a shared resource, and to provide them with new vessels, gear and equipment allowing them to take advantage of this access.
+i. Durant 2001, Fisheries and Oceans Canada paid the Appellant the amount of $3,050,000 under the agreement; the heading "voluntary payment" appears in the agreement.
+j. In his income tax return for 2001, the Appellant reported the amount of $3,050,000.
+k. Following an audit concerning the Appellant’s 2000 and 2001 taxation years, on January 6, 2004, the Respondent issued a notice of reassessment (hereinafter "the reassessment").
+l. In the reassessment, the Respondent changed the breakdown of the amount of $3,050,000 that the Appellant had reported in his income tax return for 2001 so that $466,535 was proceeds of the disposition of the vessel and the gear and $2,583,465 was proceeds of the disposition of the licences.
+m. In a notice of objection dated April 5, 2004, the Appellant objected to the reassessment.
+n. On September 5, 2006, the Respondent issued a second notice of reassessment (hereinafter "the second notice of reassessment"), in which she adjusted amounts that are not relevant to the present appeal and maintained the assessment of the amounts that are the subject of the present appeal.
+o. The amount of $466,535 for which the Appellant was assessed as proceeds of disposition with respect to the transfer of the vessel and the gear is not in issue in this appeal.
+p. The Appellant is appealing the Respondent's decision to tax him on the amount of $2,583,465 as proceeds of the disposition of the licences.
+[3] The Appellant adduced in evidence the last fishing licence for groundfish issued to him by Fisheries and Oceans Canada, dated April 19, 2000 (Exhibit A‑1, Tab 3). This licence authorizes the holder to engage in fishing and related activities on Canada's Atlantic coast, subject to the provisions of the [translation] "Fisheries Act and Regulations". It also states the following:
+[translation]
+THIS LICENCE IS VALID FROM JANUARY 1, 2000, TO MAY 14, 2001.
+THIS LICENCE IS VALID ONLY WHEN THE CONDITIONS ARE ATTACHED THERETO.
+THE CONDITIONS OF LICENCE ARE AVAILABLE FROM THE LICENCE ISSUING OFFICE.
+THE USE OF THIS LICENCE IS SUBJECT TO THE CONDITIONS SET BY D.F.O. THE HOLDER OF THIS LICENCE MUST ENSURE THAT HE OR SHE HAS RECEIVED THE CONDITIONS OF LICENCE, AND MUST NOT ENGAGE IN FISHING ACTIVITIES WITH THIS LICENCE BEFORE RECEIVING THE VALID LICENCE CONDITIONS AND ATTACHING THEM TO THIS LICENCE.
+[4] In his testimony, the Appellant explained that, despite the issuance of that licence, he had no longer been able to fish for groundfish for approximately 10 years because the government had closed that fishery. In fact, it appears that the Appellant never received the conditions of that licence, which meant that he was not allowed to fish for groundfish, and this deprived that licence of any validity. No document indicating the contrary signed by the Appellant was adduced; nor did the Respondent challenge the Appellant's credibility on this point.
+[5] The Appellant also filed in evidence the last snow crab fishing licence issued to him by Fisheries and Oceans Canada, dated December 16, 2000 (Exhibit A‑1, Tab 4). That licence does not indicate any fishing period, but states that its use is subject to the conditions set by Fisheries and Oceans Canada, which the fisher must ensure that he or she has received before undertaking any fishing activity. In his testimony, the Appellant explained that, when that licence was issued, fishing had already ended for the year 2000. On April 13, 2000, a temporary commercial fishing licence was issued to him for the period from April 15, 2000, to August 15, 2000, for which he paid a fee in the amount of $11,367 (Exhibit A‑1, Tab 13). That amount corresponds to the cost related to the conditions governing the use of the snow crab fishing licence. Those conditions are found in Exhibit A‑1, Tabs 11 and 12. They have to do with the maximum quantity of fish that the fisher is authorized to catch during the period, and with the areas in which the fishing can be done and with the obligations that the fisher must fulfil in exercising his or her right to fish. The two documents setting out those conditions for the period from April 15, 2000, to August 15, 2000, were signed by the Appellant on April 13, 2000 (Exhibit A‑1, Tab 11) and May 17, 2000 (Exhibit A‑1, Tab 12).
+[6] The Appellant noted that he ceased all fishing activity in 2001. On February 5, 2001, he completed a [translation] "2000/2001 Fisheries Access Program Application", in which he indicated an [translation] "asking price for the complete licence package" of $3,209,518.20 for the snow crab and groundfish licences as well as his vessel and the gear (Exhibit I‑1, Tab 6). Specifically, the asking price for the snow crab and groundfish licences totalled $2,109,518.20. That application was made under a Fisheries Access Program established by Fisheries and Oceans Canada.
+[7] An agreement was reached with the Appellant, which was signed by him on February 26, 2001, and countersigned by Fisheries and Oceans Canada on March 9, 2001 (Exhibit A‑1, Tab 5). That agreement is the basis for the payment that was received by the Appellant and that is the subject of the present appeal. The agreement has to do with the retirement and abandonment of the two fishing licences and with the transfer of the vessel and the gear. The tax treatment of the amount paid for the vessel and the gear is not disputed. Only the amount paid for the two fishing licences is at issue here. The agreement reads as follows:
+[translation]
+FISHERIES ACCESS PROGRAM
+AGREEMENT BETWEEN THE BENEFICIARY
+AND
+HER MAJESTY THE QUEEN IN RIGHT OF CANADA,
+REPRESENTED BY THE MINISTER OF FISHERIES AND OCEANS
+AGREEMENT NB‑70‑2001
+PART I: RETIREMENT AND ABANDONMENT OF LICENCES
+1. I, Gildard Haché, SIN: ____________ (hereinafter "the beneficiary"), holder of a commercial fishing licence for snow crab, being licence No. 4385, and a commercial fishing licence for groundfish, being licence No. 4384, (hereinafter "the licences"), hereby abandon all privileges and rights associated with the licences.
+2. In consideration of the voluntary payments provided for in Part III, I hereby acknowledge, in my capacity as the beneficiary:
+(a) that this abandonment is irrevocable;
+(b) that I understand the provisions set out in Parts II and III of the present agreement;
+(c) that Parts II and III of the present document form part of the present agreement.
+Signature of beneficiary: ___Gildard Haché________
+Date: ____February 26, 2001____
+PART II: TRANSFER OF VESSEL AND GEAR
+3. The beneficiary acknowledges that he is the owner of the vessel and the gear described in greater detail in the schedule to the present agreement (hereinafter "the property").
+4. The beneficiary agrees and warrants that the property is not subject to any lien or other financial obligation or encumbrance, except those noted in the schedule to the present agreement.
+5. The beneficiary acknowledges that he has agreed to transfer to an Aboriginal community (hereinafter "the Aboriginal organization"), at his expense, the title to the property, being the fishing vessel and gear that is described in the present agreement, free and clear of all privileges, financial obligations and other encumbrances.
+6. The beneficiary agrees that DFO, the Aboriginal organization and any person whom DFO or the Aboriginal organization designates from time to time may examine the property at any reasonable time.
+7. The risks related to the property shall be the responsibility of the beneficiary until title to the property is transferred to the Aboriginal organization.
+8. The beneficiary agrees to maintain the property in a state of seaworthiness and good repair until it is transferred to the Aboriginal organization.
+PART III: VOLUNTARY PAYMENT
+9. DFO agrees to make to the beneficiary a voluntary payment in the amount of $3,050,000.00 (THREE MILLION AND FIFTY THOUSAND DOLLARS) as soon as:
+(a) the beneficiary has signed the present agreement;
+(b) the beneficiary has returned to DFO all the documents and plates issued with regard to the licences;
+(c) the beneficiary has transferred title to the property to the Aboriginal organization;
+(d) DFO is satisfied that the property is free and clear of all privileges, financial obligations and other encumbrances.
+10. In either of the following cases:
+(a) if the beneficiary provides false or misleading information to DFO with regard to the present agreement;
+(b) if the beneficiary does not comply with a provision of the present agreement,
+DFO may:
+(c) terminate any obligation to make a payment to the beneficiary under the present agreement;
+(d) require the beneficiary to pay back to DFO any payment it has made under the present agreement;
+(e) exercise any other remedy authorized in law.
+11. When, under subclause 10(d) above, DFO asks the beneficiary pay back a payment, the amount shall be a debt owed to Her Majesty the Queen in right of Canada.
+12. On request, the beneficiary shall allow DFO, or any person it designates from time to time, to audit the books and to examine the records, vouchers, reports and other documents having to do with present agreement, the licences or the property that DFO considers it appropriate to examine, and to make copies and take extracts, and shall provide all the necessary assistance for the purposes of these audits and examinations.
+13. The beneficiary shall retain the documents referred to in clause 12 for a period of at least two years following the date on which DFO pays to him the amount referred to in clause 9.
+14. No member of the House of Commons shall be a party to, or derive benefit from, the present agreement.
+15. The beneficiary shall release Her Majesty the Queen in right of Canada and her ministers, officials and employees from all claims, proceedings, actions and claims related to the licences, and shall save them harmless from all claims, damages and costs having to do with the licences or the property.
+16. DFO may send any payments to the beneficiary at the following address:
+Gildard Haché
+P. O. Box 2085
+Shippagan, NB
+E8S 3H3
+17. No payment shall be made under clause 9 of the present agreement until the transfer to the Aboriginal organization of title to a vessel forming part of the property has been registered.
+18. Any obligation that DFO may be under to make a payment to the beneficiary under clause 9 of the present agreement shall be terminated six months following the date on which the parties sign the present agreement, unless the beneficiary has signed Part I of the present agreement, returned to DFO all the documents and plates issued with regard to the licences, transferred title to the property to the Aboriginal organization and fulfilled all the conditions of the present agreement before the expiry of that period.
+19. The beneficiary agrees and warrants that the licences are not subject to any penalty, except those noted in the schedule to the present agreement.
+20. Where DFO authorizes the retention of one or more licences, the licences shall not be issued or transferred to another fisher.
+21. As regards any time periods set out in the present agreement, time is of the essence.
+[8] The Appellant also adduced in evidence the Commercial Fisheries Licensing Policy For Gulf Region issued by Fisheries and Oceans Canada (“the Policy”) (Exhibit A‑1, Tab 10). This document tells us, among other things, that the Policy is an integral part of a number of federal government initiatives to restructure the commercial fisheries and lay the foundation for a fishery that is environmentally sustainable and economically viable. Thus, it is stated, Fisheries and Oceans Canada favours limiting access to the fishery as much as is necessary to provide for an orderly harvesting of the fishery resource, to promote viable and profitable operations for the average participant, and to adopt policies and integrated fisheries management plans that are consistent (paragraph 1). The objective is to provide a clear and consistent statement of Fisheries and Oceans Canada's policy respecting, among other things, the issuance of fishing licences in the Gulf Region (paragraph 2).
+[9] Paragraph 5 of the Policy defines a licence as follows:
+5. What is a Licence?
+(a) General
+A licence grants permission to do something which, without such permission, would be prohibited. As such, a licence confers no property or other rights which can be legally sold, bartered or bequeathed. Essentially, it is a privilege to do something, subject to the terms and conditions of the licence.
+(b) Fishing Licence
+A fishing licence is an instrument by which the Minister of Fisheries and Oceans Canada, pursuant to his discretionary authority under the Fisheries Act, grants permission to a person including an Aboriginal organization to harvest certain species of fish or marine plants subject to the conditions attached to the licence. This is in no sense a permanent permission; it terminates upon expiry of the licence. The licensee is essentially given a limited fishing privilege rather than any kind of absolute or permanent right or property.
+(c) Future Commitment
+As provided under the Fishery (General) Regulations, the issuance of a document of any type to any person does not imply or confer any future right or privilege for that person to be issued a document of the same type or any other type upon expiry of the document.
+[10] Paragraph 12 of the Policy sets out general policy guidelines, including the following:
+12. General Policy Guidelines
+1. The requirements to be licensed to fish for different species of fish are found in the Fisheries Act and the regulations made under the Act.
+2. Except where a fishery is closed for conservation purposes, licence renewal and payment of fees is mandatory on a yearly basis in order to retain the privilege to be issued the licence.
+. . .
+[11] Concerning licence holders, paragraph 18 of the Policy provides as follows:
+18. Change of Licence Holder
+1. Current legislation provides that licences are not transferable. However, the Minister in "his absolute discretion" may for administrative efficiency prescribe in policy those conditions or requirements under which he will issue a licence to a new licence holder as a "replacement" for an existing licence being relinquished. These prescribed conditions or requirements are specified in this document.
+. . .
+Analysis
+[12] The statutory provisions referred to in the Policy are found in the Fisheries Act, R.S.C. 1985, c. F‑14, and the Fishery (General) Regulations, SOR/93‑53, the relevant sections of which are reproduced below:
+Fisheries Act
+Fishery leases and licences
+7. (1) Subject to subsection (2), the Minister may, in his absolute discretion, wherever the exclusive right of fishing does not already exist by law, issue or authorize to be issued leases and licences for fisheries or fishing, wherever situated or carried on.
+. . .
+Minister may cancel licence
+9. The Minister may suspend or cancel any lease or licence issued under the authority of this Act, if
+(a) the Minister has ascertained that the operations under the lease or licence were not conducted in conformity with its provisions; and
+(b) no proceedings under this Act have been commenced with respect to the operations under the lease or licence.
+Fishery (General) Regulations
+Interpretation
+2. In these Regulations,
+. . .
+"document" means a licence, fisher's registration card or vessel registration card that grants a legal privilege to engage in fishing or any other activity related to fishing and fisheries;
+. . .
+Signing of Documents
+9. Where it is indicated in a document that it is not valid unless signed, the holder of the document shall, on receipt of the document, immediately sign it in ink in the space provided.
+Expiration of Documents
+10. Unless otherwise specified in a document, a document expires
+(a) where it is issued for a calendar year, on December 31 of the year for which it is issued; or
+(b) where it is issued for a fiscal year, on March 31 of the year for which it is issued.
+. . .
+Transfer of Documents and Rights and Privileges
+16. (1) A document is the property of the Crown and is not transferable.
+(2) The issuance of a document of any type to any person does not imply or confer any future right or privilege for that person to be issued a document of the same type or any other type.
+. . .
+Conditions of Licences
+22. (1) For the proper management and control of fisheries and the conservation and protection of fish, the Minister may specify in a licence any condition that is not inconsistent with these Regulations or any of the Regulations listed in subsection 3(4) and in particular, but not restricting the generality of the foregoing, may specify conditions respecting any of the following matters:
+. . .
+[13] The Respondent emphasized that, to decide the issue of whether the amount of $2,583,465 received by the Appellant constitutes a capital gain under the ITA, it must first be established that there was a disposition of property in consideration of the amount received. The Respondent relied on Winsor v. Canada, 2007 TCC 692 (Winsor) and Saulnier v. Royal Bank of Canada, 2008 SCC 58 (Saulnier), in arguing that the Appellant disposed of his fishing licences, to which certain rights were attached, and that there was thus a disposition of property.
+[14] In Winsor, the taxpayer had made an offer to the federal government under the Atlantic Groundfish Licence Retirement Program, a voluntary program introduced in 1998 in order to reduce the number of persons operating Atlantic groundfish fishing businesses. The taxpayer had made an offer that was approved by the government and the upshot of which was that the government agreed to pay the amount of $120,000; half of that amount was allocated to the fishing licence, and the other half was paid to the taxpayer for agreeing to cease commercial fishing definitively. Only the amount of $60,000 allocated to the fishing licence was at issue. Webb J. of this Court relied on the Nova Scotia Court of Appeal decision in Royal Bank of Canada v. Saulnier, [2006] N.S.J. No. 307, in finding that any person who holds a licence under the Fisheries Act and the Fishery (General) Regulations has the right to apply for renewal or reissue of the licence and to object to an arbitrary refusal, and that, accordingly, this right constitutes property within the meaning of the ITA. The term "property" is defined in subsection 248(1) of the ITA as follows:
+Definitions
+248. (1) In this Act,
+. . .
+"property" means property of any kind whatever whether real or personal or corporeal or incorporeal and, without restricting the generality of the foregoing, includes
+(a) a right of any kind whatever, a share or a chose in action,
+(b) unless a contrary intention is evident, money,
+(c) a timber resource property, and
+(d) the work in progress of a business that is a profession.
+[15] The Supreme Court of Canada heard the appeal in Saulnier after Webb J. rendered his decision in Winsor. At issue in Saulnier was whether a commercial fishing licence, which enables a fisher to engage in a regulated industry where participation is otherwise prohibited, constituted "property" available to a trustee, for example, under the Bankruptcy and Insolvency Act, R.S.C. 1985, c. B‑3 ("the BIA").
+[16] The Supreme Court of Canada did not share the opinion of the Nova Scotia Court of Appeal (on which Webb J. had relied in Winsor) that a licence holder's ability to apply for its renewal or to have it reissued to the person designated by the holder, and to contest an arbitrary refusal by the Minister to do so, formed part of a "bundle of rights" that collectively constituted a type of property capable of providing security. Binnie J. wrote as follows at paragraphs 37, 38 and 39:
+37 In my view, the debate about the extent to which licences are "transitory and ephemeral" is of limited value. . . . Uncertainties of renewal do not detract from the interest presently possessed by the holder, but nor does an expectation of renewal based on a Minister's policy which could change tomorrow, transform a licence into a property interest.
+38 . . . In this respect, however, I do not believe the "judicial review" paradigm offered by the Nova Scotia Court of Appeal in this case is helpful. The Regulations permit anyone to apply for a fisheries licence and everyone is entitled to a ministerial decision that complies with procedural fairness. I cannot agree that these elements are capable, as such, of constituting a licence "property" in the hands of a holder.
+39 In any event, I agree with the observation adopted by Major J. in Comeau's Sea Foods that he could not find in the fisheries legislation any legal underpinning for the "vesting" of an interest in a licence "beyond the rights which it gives for the year in which it was issued" (para. 33). See also Joliffe v. The Queen, [1986] 1 F.C. 511 (T.D.), at p. 520 . . . Section 7(1) of the Fisheries Act says that the Minister's discretion is “absolute”.
+[17] Thus the Supreme Court of Canada accepted the holding in Joliffe, supra, that there is no such thing as a vested right in a licence beyond those rights granted for the period for which it is issued (see Comeau's Sea Foods Ltd. v. Canada (Minister of Fisheries and Oceans), [1997] 1 S.C.R. 12, at paragraph 33).
+[18] Moreover, although the Supreme Court of Canada held in Saulnier that the fishing licences held by Mr. Saulnier when he made an assignment of his property did constitute property within the meaning of the BIA, it clearly stated that, in general, a fishing licence cannot be considered to be property at common law.
+[19] It is true that in that same decision the Supreme Court also stated that a fishing licence bears some analogy to a common law profit à prendre, which constitutes a property right (Saulnier, paragraph 28). However, such a right exists only during the validity of the licence. In fact, an individual's right to exploit a public resource for commercial purposes for personal profit is a privilege restricted to holders of commercial licences (see excerpt from the High Court of Australia decision in Harper v. Minister for Sea Fisheries (1989), 168 C.L.R. 314, quoted by Binnie J. in Saulnier, at paragraphs 31 and 32). Thus Binnie J. emphasized at paragraph 34 that the subject matter of the licence (that is, the right to participate in a fishery that is exclusive to licence holders), coupled with a proprietary interest in the fish caught pursuant to its terms, bears a reasonable analogy to rights traditionally considered at common law to be proprietary in nature. He was therefore of the opinion that this licence was reasonably within the contemplation of the definition of "property" in the BIA, where reference is made to a "profit, present or future . . . in, arising out of or incident to property".
+[20] The situation in Saulnier differs from that in the present case. First of all, the definition of the term "property" in the BIA introduces the notion of "profit, present or future . . . in . . . property", which is not found in the definition of "property" in the ITA.
+[21] As well, in Saulnier, Mr. Saulnier was the holder of his fishing licences when he made the assignment of his property. Here, the Appellant no longer held any valid fishing licences in 2001 when he made an application to the Fisheries Access Program under which he received the amount at issue. With regard to the groundfish licence, the Appellant never received the conditions attached to that licence, with the result that his licence was not valid for the 2000-2001 period shown on the very face of the licence filed in evidence (Exhibit A‑1, Tab 3). With regard to the snow crab licence, that licence had expired at the end of 2000, as can be seen from the period indicated on the temporary licence (Exhibit A‑1, Tab 13) and according to paragraph 10(a) of the Fishery (General) Regulations. In fact, therefore, the Appellant no longer possessed a "bundle of rights" related to those licences that would have conferred on him a proprietary right that could have constituted property (see Saulnier, paragraph 43).
+[22] Lastly, in Saulnier, Binnie J. wrote as follows at paragraph 50:
+50 It may well be that in the course of a bankruptcy the fishing licence will expire, or has already expired. If so, the trustee will have the same right as the original holder of an expired licence to go to the Minister to seek its replacement, and has the same recourse (or the lack of it) if the request is rejected. The bankrupt can transfer no greater rights than he possesses. The trustee simply steps into the shoes of the Appellant Saulnier and takes the licence "warts and all".
+[23] In the case at bar, the Appellant did not transfer his licence to anyone who could exercise his rights in his stead. The Appellant simply renounced his right to apply for a fishing licence.
+[24] Moreover, in Manrell v. Canada, 2003 FCA 128, [2003] 3 F.C. 727, the Federal Court of Appeal recognized that the meaning given to the term "property" in the ITA must respect the legal traditions of the common law (paragraph 55). In Saulnier, the Supreme Court of Canada did state that a fishing licence does not constitute property at common law. Only a licence conferring a proprietary interest in the fish caught in accordance with the conditions it sets out can be analogous to a proprietary right at common law. In the present case, the Appellant did not hold any such licences in 2001 when he made an application under the Fisheries Access Program. As well, in Manrell it was held that a payment received by a company shareholder under a non-competition agreement in the context of a sale of shares did not constitute proceeds of a disposition of property. In my opinion, giving up one's right to operate a business, and thus a right to income, by agreeing to sign a non‑competition agreement may be considered analogous to giving up the right to apply for a fishing licence and thereby giving up any profit à prendre from that licence. As in Manrell, I do not believe there has been a disposition of property within the meaning of the ITA.
+[25] I am accordingly of the opinion that the amount at issue of $2,583,465 does not constitute proceeds of a disposition of property, and that receipt of this amount cannot give rise to a taxable capital gain under the ITA.
+[26] For these reasons, the appeal is allowed, with costs, and the assessment is referred back to the Minister for reconsideration and reassessment on the basis that the amount of $2,583,465 should not be included in the Appellant's income for the 2001 taxation year.
+Signed at Montreal, Quebec, this 7th day of January 2010.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+on this 18th day of February 2010.
+Erich Klein, Reviser
+CITATION: 2010 TCC 10
+COURT FILE NO: 2006-3736(IT)G
+STYLE OF CAUSE: GILDARD HACHÉ v.
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Moncton, New Brunswick
+DATE OF HEARING: October 29, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT: January 7, 2010
+APPEARANCES:
+Counsel for the Appellant:
+Gilles E. Bujold
+Counsel for the Respondent:
+Catherine McIntyre
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Gilles E. Bujold
+Firm: Bujold P.C.
+Lawyers - Tax Advisors
+Moncton, New Brunswick
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

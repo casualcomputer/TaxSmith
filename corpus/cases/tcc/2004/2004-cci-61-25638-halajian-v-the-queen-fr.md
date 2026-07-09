@@ -1,0 +1,135 @@
+---
+title: "Halajian v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25638/index.do"
+last_modified: "2004-01-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 61"
+citation2: ""
+neutral_citation: "2004 CCI 61"
+decision_date: "2004-01-16"
+language: "fr"
+item_id: "25638"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3001
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:06:04.720000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fbb644696891539eb65496a2b9cdead53ddb82f3fc22f47957ddb84b6f223029"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Halajian v. The Queen
+
+- Citation: 2004 CCI 61
+- Decision date: 2004-01-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3001, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Halajian v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-01-16
+Référence neutre
+2004 CCI 61
+Numéro de dossier
+2003-1775(IT)I
+Juges et Officiers taxateurs
+Gordon Teskey
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-1775(IT)I
+ENTRE :
+HASMIG HALAJIAN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus le 8 janvier 2004 à Toronto (Ontario)
+Devant : L'honorable juge Gordon Teskey
+Comparutions :
+Représentant de l'appelante :
+Sebouh Halajian
+Avocats de l'intimée :
+Me Joel Oliphant
+Me P. Michael Appavoo
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l'encontre des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1994 et 1996 sont rejetés conformément aux motifs du jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique) ce 16e jour de janvier 2004.
+« Gordon Teskey »
+Juge Teskey
+Traduction certifiée conforme
+ce 3e jour de mai 2004.
+Ingrid B. Miranda, traductrice
+Référence : 2004CCI61
+Date : 20040116
+Dossier : 2003-1775(IT)I
+ENTRE :
+HASMIG HALAJIAN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Teskey
+[1] L'appelante a choisi le régime de la procédure informelle dans son Avis d'appel, par lequel elle a interjeté appel à l'encontre des nouvelles cotisations établies à son égard pour les années 1994 et 1996.
+Questions en litige
+[2] Les deux questions en litige sont de savoir si, en 1994, l'appelante a fait don de 5 000 $ à la congrégation sépharade Or Hamaarav et si, en 1996, elle a fait don de 4 500 $ au centre d'apprentissage Abarbanel S. Learning Centre.
+[3] Comme les Avis de nouvelle cotisation ont été envoyés par la poste le 9 septembre 2002 et le 9 août 2002, les cotisations étaient prescrites, puisque toutes les deux dépassaient le délai de prescription de trois ans. Par conséquent, le fardeau de la preuve incombait à l'intimée qui a entamé le débat.
+[4] L'intimée a appelé le rabbin Edery comme premier témoin.
+[5] Le rabbin Edery était le rabbin de la congrégation juive connue sous le nom de Or Hamaarav Sephardic Congregation. La même entité était propriétaire de la synagogue.
+[6] Aux alentours de 1980, le rabbin Edery désirait un nouvel immeuble pour établir une garderie. Alors, on a mis sur pied un nouvel organisme à but non lucratif connu par le nom de Arbananel S. Learning Centre.
+[7] En 1985, alors que les taux d'intérêt étaient extrêmement élevés, toutes les biens immobiliers étaient vendus par les banques en vertu de pouvoir de vente. Par conséquent, aucun de ces organismes ne pouvait continuer ses opérations sans dons, et ceux-ci ne rentraient pas facilement parce que le rabbin Edery était considéré incompétent.
+[8] Le rabbin Edery a alors tramé un plan selon lequel il donnerait aux donateurs un reçu d'organisme de charité au montant dix fois plus grand que leurs dons en espèces. Si le donateur payait par chèque, le chèque serait encaissé et 90 p. 100 serait rendu au donateur.
+[9] Le rabbin Edery a déclaré solennellement que seulement trois donateurs ont fait don du montant intégral figurant sur leur reçu et que ces trois donateurs ont eu affaire directement à lui. Il a ajouté qu'il pouvait nommer ces trois donateurs. Personne ne lui a demandé de le faire.
+[10] Le rabbin Edery a reconnu qu'il avait fait l'objet des accusations multiples en vertu de la Loi de l'impôt sur le revenu, qu'il a plaidé non coupable et qu'il a été représenté par un avocat.
+[11] Il a été condamné et l'amende qui lui a été imposée a été payée dans sa totalité, les autres termes de sa peine ont été entièrement purgés.
+[12] Il y avait plusieurs personnes qui ont aidé le rabbin Edery à réaliser ce plan, l'une d'eux étant une personne arménienne du nom de « Joe » . Ce dernier avait de même un assistant, spécialiste en déclarations de revenus, du nom de « Mourad Halajian » qui est le beau-frère de l'appelante et qui a préparé les déclarations de revenus TI de cette dernière.
+[13] Le rabbin Edery n'a jamais eu affaire à Mourad Halajian ni à aucun autre donateur ayant participé dans la manoeuvre frauduleuse par l'entremise de Joe.
+[14] Le rabbin Edery a juré que la totalité des dons reçus par ces deux organismes à but non lucratif, par l'entremise de ses divers assistants, s'élève à 10 cents le dollar et que les montants des dons ne correspondaient jamais aux sommes inscrites sur les reçus aux fins d'impôt, comme il a été mentionné au paragraphe 8 plus haut.
+[15] Le deuxième témoin appelé par l'intimée était Frank Menniti, enquêteur de l'Agence des douanes et du revenu du Canada. Son témoignage a confirmé le témoignage du rabbin Edery.
+[16] L'appelante a témoigné pour son propre compte. Elle a produit la photocopie d'un chèque de 4 500 $ daté du 30 décembre 1996 et tiré sur la Banque de Montréal, déposée sous la cote A-1. Il y a plusieurs timbres bancaires à l'endos, l'un d'eux étant de La Banque de la Nouvelle-Écosse, daté du « Ja 97 13 » et un troisième daté du « Jan 13 97 » . Jointe à la photocopie du chèque se trouve une lettre de la Banque de Montréal qui identifie le chèque comme un chèque de MasterCard.
+[17] La pièce A-2 est un relevé de compte MasterCard qui montre que le 13 janvier, le solde de la carte était de 5 233,35 $ et que le chèque de 4 500 $ a augmenté la dette de MasterCard de 5 233,35 $ à 9 733,35 $. Donc, l'appelante a emprunté l'argent de la carte de crédit pour faire le don.
+[18] L'appelante est membre de l'Église catholique arménienne, qu'elle soutient, mais par rapport à laquelle elle n'a pas demandé de dons pour les années 1994 ni 1996.
+[19] La déclaration de revenus T1 pour l'année 1994 montre que le revenu imposable de l'appelante était de 29 202 $ et qu'elle a demandé un don de bienfaisance de 5 000 $ offert à la congrégation sépharade Or Hamaarav, une organisation juive avec laquelle elle n'a aucun lien.
+[20] La déclaration de revenus T1 pour 1996 montre que le revenu imposable de l'appelante pour 1996 était de 18 533 $ et qu'elle a fait don de 4 500 $ au centre d'apprentissage Abarbanel S. Learning Centre, un organisme juif que, de nouveau, elle ne connaissait pas et avec lequel elle n'a aucun lien.
+[21] Elle a soutenu que Mourad Halajian, son spécialiste en déclarations de revenus et beau-frère, l'a informée sur la possibilité de faire des dons.
+[22] Lorsque l'on a demandé à l'appelante à qui elle a donné le chèque et qui lui en a donné le reçu, elle a simplement déclaré : « Je ne m'en souviens pas . »
+[23] L'appelante a déclaré que son beau-frère était orthodoxe arménien, ce qui ne fait pas partie de la religion juive.
+[24] Comme dans beaucoup d'affaires, l'affaire en l'espèce repose sur une question de crédibilité. Avant que l'appelante ne termine de présenter sa preuve, je l'ai avertie, elle ainsi que son représentant qui était son mari, que si Mourad Halajian n'était pas appelé comme témoin, je « pourrais » conclure que son témoignage aurait été défavorable à la position de l'appelante. Après une brève pause, l'appelante a refusé que l'on ajourne l'affaire au lundi 8 mars afin que Mourad Halajian puisse témoigner, et on a commencé la plaidoirie.
+[25] En raison de la preuve de l'appelante, j'ai tiré ladite conclusion. Plus précisément, je conclus que Mourad Halajian faisait partie de la manoeuvre frauduleuse et qu'il l'aurait déclaré ainsi s'il avait été appelé comme témoin.
+[26] Le rabbin Edery a purgé sa peine et n'a rien à gagner en rendant un témoignage faux ou coloré et j'admets la totalité de son témoignage.
+[27] Par rapport au témoignage de Frank Menneti, il a été rendu de manière transparente et professionnelle et je l'admets dans sa totalité.
+[28] Le témoignage de l'appelante n'était simplement pas du tout crédible, notamment pour ne pas avoir appelé le frère de son époux à témoigner, avec qui elle a clairement eu affaire. Il est clair que le 30 décembre elle a donné le chèque à son beau-frère, qui lui a probablement donné les reçus aux fins de l'impôt.
+[29] Je conclus expressément qu'elle a participé avec connaissance de cause et de son plein gré à la manoeuvre frauduleuse des faux reçus d'organismes de charité; qu'en 1995, elle a récupéré 4 500 $ du chèque daté du 30 décembre 1994 et qu'en 1996, elle n'a jamais fait de don équivalant au montant inscrit sur le reçu. Puisque je conclus qu'elle a expressément produit des fausses déclarations de revenu T1 pour les années 1994 et 1996, elle est aussi passible des pénalités qui ont été imposées.
+[30] Pour tous les motifs mentionnés plus haut, les appels sont rejetés.
+Signé à Vancouver (Colombie-Britannique) ce 16e jour de janvier 2004.
+« Gordon Teskey »
+Juge Teskey
+Traduction certifiée conforme
+ce 3e jour de mai 2004.
+Ingrid B. Miranda, traductrice

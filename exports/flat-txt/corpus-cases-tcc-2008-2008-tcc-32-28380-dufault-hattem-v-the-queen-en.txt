@@ -1,0 +1,155 @@
+Title: Dufault Hattem v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28380/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-32-28380-dufault-hattem-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-01-17
+
+# Dufault Hattem v. The Queen
+
+- Citation: 2008 TCC 32
+- Decision date: 2008-01-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1899, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dufault Hattem v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-01-17
+Neutral citation
+2008 TCC 32
+File numbers
+2007-207(GST)G
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2007-207(GST)G
+BETWEEN:
+SUZANNE DUFAULT HATTEM,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on December 5, 2007, at Montreal, Quebec.
+Before: The Honourable Justice Louise Lamarre Proulx
+Appearances:
+Counsel for the Appellant:
+Isabel Marceau
+Counsel for the Respondent:
+Josée Fournier
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, the notice of which is dated August 31, 2005 and bears the number PL-2005-267, in respect of the periods of February 28, 1997, May 31, 1997, November 30, 1997, and March 31, 1998, is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 17th day of January 2008.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Translation certified true
+on this 31st day of July 2008.
+Erich Klein, Revisor
+Citation: 2008TCC32
+Date: 20080117
+Docket: 2007-207(GST)G
+BETWEEN:
+SUZANNE DUFAULT HATTEM,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre Proulx J.
+[1] This is an appeal from an assessment made on August 31, 2005, under section 323 of the Excise Tax Act ("the Act"), which provides for the liability of the directors of a corporation that has failed to remit an amount of net tax. The periods in question are February 28, 1997, May 31, 1997, November 30, 1997, and March 31, 1998.
+[2] Under subsection 323(5) of the Act, the period within which such an assessment can be made is two years after the director for last ceased to be a director. Under subsection 323(3) of the Act, a director is not liable if that director exercised the degree of care, diligence and skill to prevent the failure to remit that a reasonably prudent person would have exercised in comparable circumstances.
+[3] The appellant's main—indeed, I would say only—defence is the expiry of the assessment period, as she claims that she in fact resigned from her position as director on March 22, 2002. As for the due diligence argument, her position is that her husband, Bill Hattem, was the true director.
+[4] The respondent denies that the appellant resigned from her position of director on March 22, 2002, but submits that, if she did resign (a juridical fact which she does not admit), the appellant continued to act as a de facto director to the end. As for evidence of diligence, the respondent submits that there is no such evidence.
+[5] The appellant testified. She said that, on April 1, 1995, 9015‑3602 Québec Inc. began to do business under the name "Au Ruban Bleu" in a small shopping centre in Lorraine, near St‑Jérôme. The boutique's business consisted in retailing interior decoration articles and providing home decoration services. Prior to this, the appellant worked in the interior decoration field.
+[6] According to the corporate return filed as Exhibit I‑5, there were two shareholders in 1998: the appellant, who owned two thirds of the shares, and Nathalie Sergerie, who owned one third of them. The document indicates that the books and records of the company were kept at the home address of the appellant and her husband. The appellant signed the aforementioned return and did so on October 14, 1998.
+[7] According to the appellant, Ms. Sergerie looked after the store on her own, and supervised the home decorators and the other employees. The appellant sometimes went to help her. Ms. Sergerie left in July 1998.
+[8] Exhibit I‑2 is the application for the registration of the company for GST purposes. It is dated March 9, 1995, and is signed by Bill Hattem as secretary of the company.
+[9] Exhibit I‑3 is a notice of intention to give security to the National Bank of Canada under section 427 of the Bank Act. It is signed by the appellant and is dated March 22, 1995.
+[10] According to Exhibit I‑6, on December 10, 1998, the appellant signed an acknowledgment of debt in favour of the National Bank of Canada in respect of a revolving credit with a $12,500 limit.
+[11] On May 19, 1998, 9015‑3602 Québec Inc. made a proposal under the Bankruptcy and Insolvency Act (Exhibit I‑1, Tab 2). The appellant represented the debtor corporation for the purposes of the proposal, and signed it on the corporation's behalf. The notice to creditors (Exhibit I‑9) is dated May 28, 1998. Appended thereto are the proposal, statement of affairs, list of unsecured creditors, list of secured creditors, list of preferred creditors for wages, rent, etc., list of debts payable to the estate, including accounts receivable, and the full statement of the property and its nature. The appellant signed each of these pages in her capacity as director.
+[12] On May 30, 2001, there was a notice of default in the performance of a proposal to the creditors (Exhibit I-1, Tab 3).
+[13] At tabs 8 and 9 are a $15,000 suretyship granted by the appellant to the National Bank of Canada for the purposes of the boutique. The document is dated November 22, 1996, and is signed by the appellant.
+[14] On January 29, 2002, the National Bank of Canada sent the appellant a demand (Exhibit I‑1, Tab 8) for payment of $9,784.19 under the suretyship. A payment agreement was reached between the appellant and the bank. The payments were to be spread out over a period ending September 29, 2004.
+[15] On January 28, 2004, the lessor of the premises at the Place Lorraine shopping centre acknowledged having received from Suzanne Dufault $3,000 as payment in full of the debt of 9015‑3602 Québec Inc. for the year 2003. This confirmation was addressed to Suzanne Dufault on behalf of the corporation. It should also be noted that all the documents concerning the lease were signed by the appellant (Exhibit I-1, Tab 10).
+[16] At Tab 7 of Exhibit I-1, there are a few employment standards complaints against Ms. Dufault for one employee's unpaid wages for the period from May 5 to October 4, 2001, and for another employee's unpaid holidays for the period ended September 20, 2001. The amounts claimed were paid.
+[17] As shown by Exhibit A‑5, the company was twice struck off ex officio by Quebec's enterprise registrar for failing to file its annual returns. The first such instance was on May 5, 2000; the company's existence was resumed on June 11, 2001 after the annual declarations were filed. The second was on May 2, 2003; a revocation of this striking-off was granted on May 12, 2005 at Revenu Québec's request.
+[18] The documents at Tab 6 of Exhibit I‑1 are information documents in the possession of the enterprise registrar. They show that there were two directors in 1995: Suzanne Dufault and Bill Hattem. On April 17, 1998, Mr. Hattem stepped down. In 2000, he was once again listed as one of the two directors. An amending declaration concerning Mr. Hattem's resignation as a director was filed on February 19, 2002. Since the year 2000, Ms. Sergerie has not been listed as a shareholder.
+[19] It should be noted that there is no amending declaration concerning the appellant, who supposedly resigned on March 23, 2002.
+[20] The Notice of Objection dated November 25, 2005 was tendered as Exhibit A‑4. The resolution of the sole director of 9015‑3602 Québec Inc. and the resignation of Ms. Hattem as director are attached thereto. The resolution was purportedly passed on March 22, 2002, and reads as follows:
+[TRANSLATION]
+RESOLUTION OF THE
+SOLE DIRECTOR OF
+9015-3602 QUÉBEC INC.
+ADOPTED: March 22, 2002.
+BE IT RESOLVED
+THAT the Company accepts the resignation of Suzanne DUFAULT as sole director of the Company, which resignation has been submitted to the director.
+I, the undersigned, declare that I am the sole director entitled to vote at meetings of the board of directors. Consequently, the aforementioned resolutions, signed by me below, are as valid as if they had been passed at a meeting of the board of directors, in accordance with section 89.3 of the Companies Act (Quebec), Part IA.
+(Signature)
+SUZANNE DUFAULT
+[21] The appellant said that her lawyer, Mr. Perras, drafted both the resolution and the resignation. Both documents are dated March 22, 2002.
+[22] On June 2, 2005, the appellant signed a document entitled [TRANSLATION] "Power of Attorney and Authorization Concerning the Disclosure of Information or Revocation" (Exhibit I-8). In fact, that document is a power of attorney granted by 9015‑3602 Québec Inc. to Dany Perras with respect to [TRANSLATION] "all information concerning me that Revenu Québec possesses for the purposes of applying or enforcing tax legislation and the Excise Tax Act." The appellant explained that Mr. Perras was her lawyer at the time. She added that she signed the document at the Minister's employee's request, and that she was no longer the company's director at that time.
+[23] The appellant ended her testimony by stating that she did nothing directorial following her resignation. She said that it was always her husband, Bill Hattem, who was the true director with respect to the accounts. He was the one who signed the cheques and managed the company's various accounts.
+[24] Mr. Hattem testified. He said that, at the beginning, he helped his wife's business from afar. Initially, Ms. Sergerie was the manager. He got involved, but he did so on a voluntary basis. He said that he really would have liked the proposal to succeed, but that, for reasons beyond his control, it did not.
+[25] Mr. Hattem said that he was the one who had discussions with the Minister's employees at the time of, and after, the proposal. After the failure of the proposal and of efforts to collect the company's tax debt, the Minister's employees notified Mr. Hattem of a draft assessment against him in his capacity as director, made under section 323 of the Act. He thereupon pointed out that he had resigned as a director. He sent them a copy of the amending declaration filed on February 19, 2002 with the enterprise registrar. The Minister's employees accepted this and so notified him on July 21, 2005 (Exhibit I‑11). They then continued their proceedings against the appellant.
+[26] According to the person who testified on behalf of Revenu Québec at the hearing and according to the documentary evidence, the Department of Revenue first learned about the juridical fact of the appellant's resignation as director on receiving the notice of objection. As for the proposal, the Department abstained from voting on it.
+Analysis and conclusion
+[27] Sections 123.30, 123.76 and 123.81 of the Quebec Companies Act read as follows:
+123.30. Third persons are not presumed to have knowledge of the information contained in a document concerning the company, other than the information set out in section 82 of the Act respecting the legal publicity of sole proprietorships, partnerships and legal persons (chapter P-45), by reason only that the document has been deposited in the register or that the document may be consulted in the offices of the company.
+123.76. Notwithstanding the expiry of his term, a director remains in office until he is re-elected, replaced, or removed.
+A director may resign from office by giving notice to that effect.
+123.81. Within 15 days after a change is made to the composition of the board of directors, the company must give a notice of a change by filing a declaration to that effect in accordance with the Act respecting the legal publicity of sole proprietorships, partnerships and legal persons (chapter P-45).
+. . .
+[28] Counsel for the appellant cited the decision of Judge Bell of this Court in Netupsky v. The Queen, 2003 CanLII 676 (T.C.C.). There, the appellant asserted that he had tendered his written resignation from his positions of director and president on December 6, 1995. This resignation was supposedly entrusted to the law firm that represented him. At the hearing, a sworn declaration of the lawyer was submitted, confirming that the appellant had gone to the law office of his solicitors on the date referred to, and that his solicitors had directed him to the paralegal responsible for keeping the registers. However, the appellant in question later signed important letters on behalf of the company. He did not notify Revenue Canada that he was no longer a director or president, and he even designated someone to represent him during discussions with Revenue Canada (paragraph 8 of the decision). The statute under which the company was incorporated was the British Columbia Company Act. The judge was satisfied with the evidence and allowed the appeal.
+[29] In my opinion, in the instant case the very genuineness of the appellant's resignation in March 2002 has not been proven. The lawyer who supposedly drafted it did not testify or produce any letter or document contemporaneous with the alleged resignation. In fact, that lawyer's name appears only once in the evidence tendered, and that is in the power of attorney signed in 2005.
+[30] Moreover, it seems strange to me that, while the notice of Mr. Hattem's resignation from his position of director was sent to the enterprise registrar on February 19, 2002, no such notice was sent in timely fashion to the enterprise registrar with respect to the appellant's resignation one month later. That resignation was much more important, as it was the resignation of the person who was then the sole director.
+[31] If a director resigns from the board of a corporation that is a tax debtor, and wishes the resignation to be a juridical act that is valid as against the Minister, then, according to the Quebec Companies Act, that director must notify the Minister of his resignation in the course of the exchanges of correspondence regarding the corporation's tax debt and the liability of its directors. I do not think that statutes of the other provinces or the federal Act concerning companies are any different in this regard.
+[32] According to the evidence adduced, it appears that it was Mr. Hattem who discussed the corporation's debt with the Minister's employees, both for himself and for the appellant. As indicated earlier, when the employees told him that they were contemplating an assessment against him under section 323 of the Act, he pointed out that he had resigned from his position as director. He sent them a copy of the amending declaration filed with the enterprise registrar on February 19, 2002. The employees accepted this and so informed him on July 21, 2005. They continued their proceedings against the appellant. It must be recalled that the appellant had signed on June 2, 2005 a power of attorney authorizing her lawyer to discuss the corporation's affairs with Revenu Québec. The assessment against her is dated August 31, 2005.
+[33] A person who holds himself out to third parties as a director becomes by virtue thereof a de facto director. I quote author Paul Martel in Précis de droit sur les compagnies au Québec, 1st ed. (Montréal: Wilson & Lafleur, Martel Ltée, 2000), at pages 465 and 489:
+[TRANSLATION]
+. . .
+As the name suggests, a de facto director will be considered a director where, in effect, he usurps the position by engaging in acts that are normally reserved for directors, such as participating in meetings of the board of directors, signing resolutions of the board, making or taking part in management or disposition decisions, giving instructions on behalf of the company, holding himself out to third parties as a director, etc. . . .
+. . .
+A director who resigns, but in fact continues to act, and hold himself out to third parties, as a director of the company, risks being considered a de facto director despite that resignation, and, as such, remaining subject to the responsibilities that the law imposes on directors.
+It should be emphasized, moreover, that resigning directors would do well to ensure that the notice of change of directors form indicating their resignation is duly filed in Quebec City or Ottawa because of the statutory presumption that persons designated as directors in the notice most recently filed with the Inspector General or Director actually hold that position: (QCA, s. 123.31(2) and (3); CBCA, s. 253(2); ALP, s. 62(6). This presumption is, however, rebuttable, and can only be relied upon by third parties who are in good faith.
+. . .
+[34] The evidence shows that the appellant continued to hold herself out as a director to the Minister's employees until June 2, 2005. Neither she nor her husband notified the Minister of her purported resignation. Even if this resignation had occurred on the date alleged, the appellant would nonetheless have remained a de facto director. The resignation could not have been set up against the Minister, who was unaware of it until the notice of objection. However, on the basis of the evidence in the instant case, it is my opinion that the resignation did not take place on March 22, 2002.
+[35] As for secondary evidence of due diligence, I must say that the evidence did not disclose any such due diligence. According to her testimony, the appellant never asked her husband whether the tax amounts collected from customers on behalf of the tax authorities were remitted to those tax authorities. Nor did she ever concern herself with preventing the failures to comply with the obligation to remit the tax collected. She said that she was content to rely on her husband, without asking him any questions or instructing him on what to do to prevent the failures. If this was in fact her attitude, it cannot be accepted as constituting, on the part of the principal, and, for several years, the only, director of the company, the due diligence described in subsection 323(3) of the Act. In this regard, see Soper v. Canada, [1997] F.C.J. No. 881 (QL) and Canada v. Corsano, [1999] F.C.J. No. 401 (QL).
+[36] The appeal must therefore be dismissed, with costs.
+Signed at Ottawa, Canada, this 17th day of January 2008.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Translation certified true
+on this 31st day of July 2008.
+Erich Klein, Revisor
+CITATION: 2008TCC32
+COURT FILE NO.: 2007-207(GST)G
+STYLE OF CAUSE: SUZANNE DUFAULT HATTEM v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: December 5, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice
+Louise Lamarre Proulx
+DATE OF JUDGMENT: January 17, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Isabel Marceau
+Counsel for the Respondent:
+Josée Fournier
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Isabel Marceau
+Firm: Deveau, Lavoie, Bourgeois, Gagné, Hébert & Associés S.E.N.C.R.L.
+Laval, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

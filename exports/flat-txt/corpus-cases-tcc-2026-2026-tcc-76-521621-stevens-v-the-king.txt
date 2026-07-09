@@ -1,0 +1,170 @@
+Title: Stevens v. The King
+Source: https://norma.lexum.com/tcc-cci/decisions/en/item/521621/index.do
+Corpus path: corpus/cases/tcc/2026/2026-tcc-76-521621-stevens-v-the-king.md
+Document type: case_law
+Last modified: 2026-05-07
+
+# Stevens v. The King
+
+- Citation: 2026 TCC 76
+- Decision date: 2026-05-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5551, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Stevens v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2026-05-07
+Neutral citation
+2026 TCC 76
+File numbers
+2020-1923(GST)G
+Judges and Taxing Officers
+Guy R. Smith
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2020-1923(GST)G
+BETWEEN:
+CRAIG STEVENS,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on April 7-8, 2025, at Toronto, Ontario
+Before: The Honourable Justice Guy R. Smith
+Appearances:
+Counsel for the Appellant:
+James Pendergast
+Mattheus Lawford
+Counsel for the Respondent:
+Kanga Kalisa
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal of the reassessment dated January 15, 2020, bearing reference number 6142326, made under section 323 of the Excise Tax Act is hereby dismissed, with costs to the Respondent.
+Signed at Ottawa, Ontario, this 7th day of May 2026.
+“Guy R. Smith”
+Smith J.
+Citation: 2026 TCC 76
+Date: 20260507
+Docket: 2020-1923(GST)G
+BETWEEN:
+CRAIG STEVENS,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Smith J.
+I. Introduction [1] Craig Stevens (the “Appellant”) appeals from an assessment made against him as a director of Wisebuy Home Inc. (the “Corporation”) for unremitted Goods and Services Tax/Harmonized Sales Tax (“GST/HST”).
+[2] The assessment was made by the Minister of National Revenue (the “Minister”) pursuant to subsection 323(1) of the Excise Tax Act, R.S.C. 1985, c. E-15, as amended (the “ETA”) which provides that directors are jointly and severally liable with the corporation for unremitted net tax.
+[3] The Appellant was initially assessed on September 25, 2018, for the Corporation’s unremitted GST/HST of $1,409,375. The Minister subsequently allowed the Appellant’s objection in part and reassessed him on January 15, 2020 to reduce the amount claimed to $704,243, on the basis that his liability as a director arose from the date of his appointment on March 22, 2011.
+[4] In the context of this appeal, the Appellant relies primarily on subsection 323(5) of the ETA and argues that the assessment is statue-barred as it was issued more than two years after the date of his resignation on June 15, 2015.
+[5] In the alternative, the Appellant argues that he exercised the requisite care, diligence and skill to prevent the failure of the Corporation to remit net tax and is entitled to rely on the due diligence defence in subsection 323(3) of the ETA.
+[6] The underlying assessment is not being challenged and the Appellant admits that the Corporation failed to remit net tax of $704,243 including interest.
+[7] For reasons that follow, I conclude that the Appellant did not resign as a director on June 15, 2015, and thus there is no need to determine if he continued as a de facto director. Furthermore, the Appellant cannot avail himself of the due diligence defence because he failed to show that he took steps to prevent the failure of the Corporation to remit net tax from the time he became a director.
+II. Partial Agreed Statement of Facts [8] As set out in the Partial Agreed Statement of Facts, it is admitted that the Corporation was incorporated in Ontario on February 1, 2007, that the Appellant became the sole shareholder and director on March 22, 2011, and that it ceased its business operations on October 4, 2016.
+[9] It is admitted that the Corporation was involved in a retail furnishing and appliances business, that it was at all material times a GST/HST registrant and collected tax on supplies made pursuant to Part IX of the ETA.
+[10] It is admitted that from February 12, 2007, to January 31, 2015, the Corporation was required to file GST/HST returns on an annual basis and that from February 1, 2015, to October 4, 2016, it was required to file monthly.
+[11] It is admitted that the Corporation failed to remit net GST/HST collected and interest of $704,243 for the reporting periods from January 31, 2012, to October 4, 2016, as calculated in Schedule A of the Reply. It is admitted further that the Corporation did not object to assessments that formed the basis of the corporate debt.
+[12] It is admitted that the assessment of the Appellant was issued on September 25, 2018, and a revised reassessment was issued on January 15, 2020.
+[13] It is not disputed that a certificate was registered in the Federal Court on February 14, 2018, in respect of the Corporation’s debt, and that a writ of seizure and sale executed on August 30, 2018 was returned unsatisfied.
+III. Background [14] The Appellant was the only witness at the hearing.
+[15] He described himself as a consultant with a bachelor’s degree in commerce and MBA. Prior to March 2011, he operated two other businesses known as Opaline Inc. (“Opaline”) and Returntrax Inc. (“Returntrax”).
+[16] Opaline was a consulting business that provided advisory services. He was the managing director. ReturnTrax took back consumer products that were then refurbished and resold. He was vice-president of operations.
+[17] The Corporation was a separate legal entity with two retail locations. Its business involved the sale or liquidation of refurbished consumer products to the public. Many refurbished products were acquired from ReturnTrax.
+[18] The Corporation eventually fell in arrears in its payments to ReturnTrax and an agreement was concluded on March 21, 2011, for the acquisition by the Appellant of all its issued shares, taking into consideration the outstanding receivable. As a result of various other agreements, including an assignment and assumption agreement, the Appellant became the sole shareholder.
+[19] As of that date, the existing shareholders were no longer involved in the business. They resigned as directors and the Appellant became the sole director. As explained by the Appellant, it was a “very formal process (…) with lots of lawyer documentation (…) and lawyer fees associated with it.”
+[20] Following the purchase, he continued to operate the Corporation’s two retail outlets, employing 20-25 salespeople. Two individuals associated with ReturnTrax, including Robert Greenhalgh (“Mr. Greenhalgh”) and Wayne Burgess (“Mr. Burgess”) assumed various roles in the management of the Corporation. Mr. Burgess dealt with customers and Mr. Greenhalgh was director of finance.
+[21] The Appellant could not specifically describe Mr. Greenhalgh’s qualifications but explained that it was “financial” and he was in charge of “completing the Corporation’s tax filings” that “he was not privy to.”
+[22] When he acquired the shares in 2011, the Corporation had annual revenues exceeding $8 million but by the end of 2014, they were down to about $2.2 million. The gross revenues continued to decline and when the Corporation ceased its activities in October 2016, it was basically insolvent.
+[23] In late 2014, Opaline secured a lucrative consulting contract with an engineering firm in Saudi Arabia. Disappointed with the decline of the Corporation’s sales, the Appellant decided to accept the contract. It originally ran for six months but extended through to 2016. He travelled on a three-week-on, one-week-off rotation. It was a full-time commitment of 40 hours per week.
+[24] As a result of those activities, he decided to retire as director of the Corporation and Mr. Greenhalgh agreed to become a director. On June 15, 2015, he hand-delivered a signed resignation letter as director of the Corporation to Mr. Greenhalgh at the Corporation’s main corporate office.
+[25] The Appellant testified that he resigned from all roles with the Corporation, as well as ReturnTrax and the holding company, on the same date, and had no further managerial involvement, remaining only as a shareholder.
+[26] Although the letter requested acknowledgement of receipt, this was not done. The Appellant testified that he considered the in-person delivery itself to constitute acknowledgement. He relied on Mr. Greenhalgh to complete any necessary filings and took no steps to confirm that this had been done.
+[27] On May 17, 2016, the Appellant received a letter from the Canada Revenue Agency (the “CRA”) advising him that he appeared as a director of the Corporation, and that it was considering an assessment against him as director for unremitted GST/HST in the amount of $6,922,232. The Appellant testified that he retained legal counsel to deal with this matter.
+[28] In the meantime, Mr. Greenhalgh finally took steps to complete the outstanding GST/HST returns for the annual reporting periods from December 31, 2011, to December 31, 2015, that were filed in or about July 2016. Completion of the outstanding tax returns for the annual periods from December 31, 2008, to December 31, 2010, was left for another day.
+[29] It was around this time when Mr. Greenhalgh started to suffer from serious health problems and a professional accountant named Jeff McClelland (“Mr. McClelland”) was brought in to manage communications and wind up the Corporation. He drafted letters to creditors using “old” letterhead where the Appellant’s name appeared as “president.” He signed them for administrative purposes, stating that he did so as an officer and not a director.
+[30] The Appellant became aware that the Corporation had ceased operations in October 2016 upon being contacted by the sheriff who was attempting to enforce the writ of seizure and sale.
+[31] Mr. Greenhalgh passed away in 2017.
+[32] On cross-examination, the Appellant acknowledged that he had no knowledge as to whether any third parties were notified of his resignation as director, nor if there were any corporate records corroborating that Mr. Greenhalgh had taken over as director.
+[33] The Appellant further conceded that the Corporation had no separate GST/HST account, and no formal controls to ensure remittances were made. He was made aware at some point before his resignation that payments were not being made but left it entirely to Mr. Greenhalgh.
+IV. Analysis [34] The first issue is whether the assessment is statute-barred because it was issued more than 2 years after the Appellant ceased to be a director.
+[35] The Minister has assumed that the Appellant did not resign as a director of the Corporation. The nature of tax litigation is such that a taxpayer has the onus of demolishing the assumptions and satisfying the Court on a balance of probabilities that the assumptions are incorrect, as explained in Hickman Motors Ltd. v. Canada, [1997] 2 SCR 336 (para 92-95) (“Hickman Motors”).
+[36] A taxpayer will have met his onus when a prima facie case is established, that is one supported by evidence that raises such a degree of probability in its favour that it must be accepted, if believed by the Court, unless it is rebutted or the contrary is proved. See Amiante Spec Inc. v. Canada, 2009 FCA 139 (para 23) and House v. Canada, 2011 FCA 234 (para 31). As stated in Hickman Motors, where the Income Tax Act “does not require supporting documentation, credible oral evidence is sufficient notwithstanding the absence of records” (para 87).
+[37] For reasons set out below, I find that the Appellant has not established a prima facie case and that his oral testimony was neither compelling nor credible. I reach that conclusion for different reasons, including his narrative of the facts within the entire context and chronology of events.
+[38] The Appellant received a warning letter on May 17, 2016, indicating that he was personally liable for a considerable amount of money, as noted above. The letter was addressed to him personally and delivered to his home address. He had discussions with the CRA but did not inform them that he was no longer a director.
+[39] The Appellant received a second warning letter on February 7, 2018, indicating that CRA was proposing to assess him for unremitted GST/HST of $1,399,866 for the reporting periods from December 31, 2008, to October 4, 2016. As noted above, the Minister eventually issued an assessment on September 25, 2018, for unremitted GST/HST of $1,409,375.
+[40] A notice of objection was filed on December 21, 2018, stating that the assessment “is wrong in fact and in law” and that “additional documents” would be provided in due course. No further arguments were advanced and there was no indication that the Appellant had resigned as a director.
+[41] In response, the CRA wrote to the Appellant on June 7, 2019, indicating that it needed “more supporting documents to fully review and resolve the objection promptly” and what “factual information and documentation” were being relied on as to the “steps taken in order to prevent the corporation’s failure to remit.”
+[42] Colleen Carnavele, the CRA Appeals Officer – who did not testify – followed up with a letter to the Appellant dated June 26, 2019, providing a summary of the “outstanding facts” and an explanation as to why she could not recommend an adjustment to the “assessments under objection” and that a “due diligence defence [had] not been proven at this time (…).”
+[43] Once again, although inconclusive, it appears that the CRA had not been informed of the Appellant’s resignation as a director of the Corporation.
+[44] It was only on September 3, 2019, that counsel for the Appellant submitted written representations indicating that the assessment was invalid because it was issued more than 2 years after he resigned as a director on June 15, 2015, and the assessment included amounts that predated his appointment as a director on March 22, 2011. A copy of the resignation letter was provided in November 2019.
+[45] Although the exchange of correspondence between the Appellant (or his legal counsel) and the CRA leading to the reassessment of January 15, 2020, as summarized above, is inconclusive, it raises sufficient doubt and suggests that the Appellant’s letter of resignation was not delivered to the Corporation. It also raises the possibility that it was likely fabricated after the fact to defeat the assessment.
+[46] If indeed the letter had been signed and delivered on June 15, 2015, it would have been a simple matter for the Appellant to produce it at an early stage. This was not done. I find that this undermines his credibility as a witness.
+[47] There are other reasons to doubt the Appellant’s testimony.
+[48] To begin with, there are the outstanding GST/HST returns for the periods that predate his acquisition of the shares and appointment as a director. Considering his education and business experience and the fact that he was represented by legal counsel, I find that he must have known that the Corporation had not filed GST/HST returns for the previous 3 years and owed the CRA approximately $754,267. The Appellant simply glossed over this, not offering any explanation or expressing any concern with the fact that the Corporation was delinquent. This too undermines his credibility.
+[49] Once the shares were acquired in 2011, the Corporation appears to have continued with a similar modus operandi of not filing GST/HST returns. The Appellant’s assertion that he had no knowledge of the arrears, or that he only became aware of them sometime in 2016, is simply not credible.
+[50] If Mr. Greenhalgh failed to file annual returns before 2016, I find that the Appellant must have known this. Once again this undermines his credibility.
+[51] In addition, the Minister has assumed that the Corporation failed to file T2 income tax returns for the fiscal periods ending January 31, 2012, to January 31, 2017. The Appellant’s suggestion that he knew nothing of this and relied on Mr. Greenhalgh is once again simply not credible.
+[52] The Appellant argues that when the corporate profile record was updated on November 16, 2019, his resignation was recorded, as was the appointment of Mr. Greenhalgh. I find that this attempt to correct the corporate profile record after the fact is self-serving and has no probative value.
+[53] It is apparent that the Appellant’s testimony was not only self-serving but entirely uncorroborated. While the Court accepts that Mr. Greenhalgh passed away in 2017, I find it quite surprising that no one else was called as a witness to shed some light on the Appellant’s resignation.
+[54] I turn now to the validity of the letter of resignation of June 15, 2015, assuming it was in fact signed and delivered, although I have already concluded that it was likely fabricated for the purpose of this appeal.
+[55] As argued by the Appellant, subsection 323(5) of the ETA provides that “[a]n assessment (…) shall not be made more than two years after the person last ceased to be a director of the corporation.” The ETA does not define when a person ceases to be a director and as a result, it is necessary to look at the governing corporate statue. In this case, the relevant statute is the Ontario Business Corporations Act, R.S.O. 1990, c. B.16 (the “OBCA”).
+[56] Subsection 121(1) of the OBCA states that a director of a corporation ceases to hold office, among other things, when he or she resigns, and subsection 121(2) provides that a resignation becomes effective when the written resignation is received by the corporation.
+[57] The Respondent’s position is that there is no corroborating evidence to support the Appellant’s position that his resignation letter was delivered to the Corporation. The Appellant argues that there are no formal requirements imposed by the OBCA and all that is required is that the resignation be in writing and received by the Corporation.
+[58] The Appellant relies on Singh v. The Queen, 2019 TCC 120 (“Singh”), where the Court considered the application of subsection 323(5) of the ETA in circumstances where it was alleged that a director had resigned in accordance with the requirements of the OBCA, but a notice of change had not been filed pursuant to the Corporations Information Act, R.S.O. 1990 c. C.39.
+[59] Justice Bocock concluded that the filing of a notice of change was not strictly required and then proceeded to review of the evidence before him, including the letter of resignation, various written notations and corporate documents that corroborated the taxpayer’s oral evidence. In the end, he concluded that the taxpayer’s testimony was credible and allowed the appeal.
+[60] I find that Singh is fact-specific and that the Appellant has not adduced any similar corroborating evidence. There is only his self-serving testimony.
+[61] The Appellant also relies on Netupsky v. The Queen, [2003] G.S.T.C. 15 to support the argument that none of the documents requested by the CRA to corroborate the taxpayer’s resignation were required by the OBCA. All that was required was that the resignation be in writing and delivered to the Corporation.
+[62] While I accept this as an accurate statement of the law, I also find that where there is some doubt that the letter was duly signed and delivered, CRA may request corroborative evidence, as it did in this instance. Nothing was provided.
+[63] As explained in Hickman Motors, oral evidence may suffice to rebut the Minister’s assumption that the letter was not delivered, but it needs to be credible. In this instance, I find that the Appellant’s oral testimony is not sufficient because it is not credible. There is also an absence of corroborative evidence.
+[64] The Respondent relies on the more recent decision of Canada v. Chriss, 2016 FCA 236 (“Chriss”), where the Federal Court of Appeal (“FCA”) concluded that an unsigned letter of resignation with no effective date that was found in the solicitors’ file was not an effective resignation despite the director’s “intention” to resign. At paragraph 14 it added the following:
+It is thus self-evident that the status of directors must be capable of objective verification. Reliance on the subjective intention or say-so of a director alone would allow a director to plant the seeds of retroactive resignation, only to rely on it at some later date should be a director-linked liability emerge. The facts of this case illustrate why subsection 121(2) of the OBCA has been drafted the way it is: the dangers associated with allowing anything less than delivery of an executed and dated written resignation are unacceptable.
+[My emphasis.]
+[65] I find that the facts in this instance more closely resemble my decision in Bishara v. The King, 2022 TCC 105, where two taxpayers alleged they had prepared and signed a letter of resignation as directors of the subject corporation and handed it to an individual who had expressed an interest in acquiring the underlying business but otherwise had no connection with the corporation. That individual later died and was unable to testify. The taxpayers could not explain in what capacity he could accept delivery of the letter of resignation on behalf of the corporation or how he became a director. There was no evidence of a resolution of the shareholders appointing him as a director and no evidence he had consented to act. Any suggestion that he had agreed to the appointment was hearsay. I found that the testimony of the taxpayers was not credible and dismissed the appeal.
+[66] As noted by Justice Bocock in the earlier decision of Mueller v. The Queen, 2018 TCC 260, a director’s resignation is “an objective fact-based test” (para 11) and “[i]t is not measured from the time a director believes his obligations to be at an end. Uncertainty of status of the corporation, borne of insouciance or casual indifference, is not only self-serving, it ignores the serious approach necessary to execute and confirm an important cessation from the office of director” (para 15). This accords with the conclusion reached in Chriss where the FCA noted that a director’s resignation must be capable of “objective verification” (para 14).
+[67] In this instance, we have a letter of resignation addressed to the Corporation and signed by the Appellant. But his signature is not witnessed and there is no acknowledgement or other reliable evidence of its delivery to the Corporation. As a result, the resignation is not capable of “objective verification.”
+[68] I conclude that the Appellant did not resign as a director of the Corporation and as a result, there is no need to consider if he continued as a de facto director.
+[69] I will only briefly address the due diligence argument. The Appellant testified that he had delegated all financial oversight to Mr. Greenhalgh and made no enquiries as to the filing of the GST/HST returns or whether there were arrears and admitted that there were no formal controls to ensure remittances were made.
+[70] I have already indicated that the Appellant was not credible and that he must have known that the Corporation was delinquent in its filings and remittances from the time he acquired the shares in March 2011. It is apparent to the Court that he took no steps to prevent the failure of the Corporation to remit net tax such that he cannot avail himself of the due diligence defence set out in subsection 323(3) of the ETA. There is no need to review the leading decisions of the FCA in Buckingham v. The Queen, 2011 FCA 142 and the companion case of Balthazard v. The Queen, 2011 FCA 331, and I decline to do so.
+[71] For all the foregoing reasons, the appeal is dismissed with costs.
+Signed at Ottawa, Ontario, this 7th day of May 2026.
+“Guy R. Smith”
+Smith J.
+CITATION:
+2026 TCC 76
+COURT FILE NO.:
+2020-1923(GST)G
+STYLE OF CAUSE:
+CRAIG STEVENS v. HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+April 7-8, 2025
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Guy R. Smith
+DATE OF JUDGMENT:
+May 7, 2026
+APPEARANCES:
+Counsel for the Appellant:
+James Pendergast
+Mattheus Lawford
+Counsel for the Respondent:
+Kanga Kalisa
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+James Pendergast
+Mattheus Lawford
+Firm:
+Rosen & Associates Tax Law
+For the Respondent:
+Marie-Josée Hogue
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,342 @@
+---
+title: "Hafizy c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30709/index.do"
+last_modified: "2012-02-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 56"
+citation2: ""
+neutral_citation: "2012 CCI 56"
+decision_date: "2012-02-16"
+language: "fr"
+item_id: "30709"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7512
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:47:37.847000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "be7c9fa7c8020b971012ba0a9905a566df5c8890660d55e1fb3e5769e9c019aa"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hafizy c. La Reine
+
+- Citation: 2012 CCI 56
+- Decision date: 2012-02-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7512, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hafizy c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-02-16
+Référence neutre
+2012 CCI 56
+Numéro de dossier
+2009-1160(IT)G
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-1160(IT)G
+ENTRE :
+AZIZULLAH HAFIZY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+___________________________________________________________________
+Appels entendus sur preuve commune avec les appels de
+Foroozan Honari 2009-1159(IT)G et de Melanie Tacanay 2009-1148(IT)G
+le 8 février 2012 à Toronto (Ontario)
+Devant : L’honorable juge G. A. Sheridan
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Alisa Apostle
+____________________________________________________________________
+JUGEMENT
+Conformément aux motifs du jugement ci‑joints, les appels des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2003 et 2004 sont accueillis, sans dépens, et les nouvelles cotisations sont renvoyées au ministre du Revenu national pour qu’il procède à un nouvel examen et qu’il établisse de nouvelles cotisations pour donner effet aux concessions faites par le ministre, qui sont énumérées ci‑dessous :
+M. HAFIZY
+DÉPENSES
+2003
+2004
+Publicité
+18 630 $
+14 583 $
+Cotisations professionnelles
+2 390 $
+2 490 $
+Téléphonie
+2 615 $
+2 346 $
+Paiements à des tiers
+602 $
+567 $
+Repas
+5 200 $
+5 200 $
+Fournitures
+2 400 $
+2 400 $
+Stationnement
+640 $
+640 $
+Signé à Ottawa, Canada, ce 16e jour de février 2012.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 24e jour de mai 2012.
+Mario Lagacé, jurilinguiste
+Dossier : 2009-1159(IT)G
+ENTRE :
+FOROOZAN HONARI,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de
+Azizullah Hafizy 2009-1160(IT)G et de Melanie Tacanay 2009-1148(IT)G
+le 8 février 2012 à Toronto (Ontario)
+Devant : L’honorable juge G. A. Sheridan
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocate de l’intimée :
+Me Alisa Apostle
+____________________________________________________________________
+JUGEMENT
+Conformément aux motifs du jugement ci‑joints, les appels des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2003 et 2004 sont accueillis, sans dépens, et les nouvelles cotisations sont renvoyées au ministre du Revenu national pour qu’il procède à un nouvel examen et qu’il établisse de nouvelles cotisations pour donner effet aux concessions faites par le ministre, qui sont énumérées ci‑dessous :
+Mme HONARI
+DÉPENSES
+2003
+2004
+Publicité
+25 017 $
+15 054 $
+Téléphonie
+2 417 $
+2 027 $
+Paiements à des tiers
+571 $
+516 $
+Repas
+5 200 $
+5 200 $
+Fournitures
+2 400 $
+2 400 $
+Stationnement
+640 $
+640 $
+Signé à Ottawa, Canada, ce 16e jour de février 2012.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 24e jour de mai 2012.
+Mario Lagacé, jurilinguiste
+Dossier : 2009-1148(IT)G
+ENTRE :
+MELANIE TACANAY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+___________________________________________________________________
+Appels entendus sur preuve commune avec les appels de
+Foroozan Honari 2009-1159(IT)G et de Azizullah Hafizy 2009-1160(IT)G
+le 8 février 2012 à Toronto (Ontario)
+Devant : L’honorable juge G. A. Sheridan
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocate de l’intimée :
+Me Alisa Apostle
+____________________________________________________________________
+JUGEMENT
+Conformément aux motifs du jugement ci‑joints, les appels des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2003 et 2004 sont accueillis, sans dépens, et les nouvelles cotisations sont renvoyées au ministre du Revenu national pour qu’il procède à un nouvel examen et qu’il établisse de nouvelles cotisations pour donner effet aux concessions faites par le ministre, qui sont énumérées ci‑dessous :
+Mme TACANAY
+DÉPENSES
+2003
+2004
+Publicité
+8 941 $
+16 022 $
+Téléphonie
+0 $
+887 $
+Paiements à des tiers
+1 020 $
+1 219 $
+Fournitures
+1 200 $
+0 $
+Signé à Ottawa, Canada, ce 16e jour de février 2012.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 24e jour de mai 2012.
+Mario Lagacé, jurilinguiste
+Référence : 2012 CCI 56
+Date : 20120216
+Dossier : 2009-1160(IT)G
+ENTRE :
+AZIZULLAH HAFIZY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+Dossier : 2009-1159(IT)G
+ET ENTRE :
+FOROOZAN HONARI,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+Dossier : 2009-1148(IT)G
+ET ENTRE :
+MELANIE TACANAY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+Introduction
+[1] Les appelants, Azizullah Hafizy, Foroozan Honari et Melanie Tacanay, ont interjeté appel des nouvelles cotisations établies à leur égard en vertu de la Loi de l’impôt sur le revenu pour leurs années d’imposition 2003 et 2004, nouvelles cotisations pour lesquelles le ministre du Revenu national (le « ministre ») a refusé la déduction de diverses dépenses déclarées par les appelants relativement à leur entreprise de courtage immobilier. La raison principale invoquée par le ministre pour refuser les dépenses dont il est question en l’espèce est l’insuffisance des documents produits par les appelants pour appuyer leurs demandes de déduction, et la qualité douteuse des documents finalement produits par les appelants aux stades de la vérification et de l’opposition.
+[2] Les appels ont été entendus ensemble, sur preuve commune. Les appelants ont convenu que, à titre de personne assumant la responsabilité de la gestion de l’entreprise, M. Hafizy présenterait la preuve pour le compte des trois appelants, sous réserve du droit de Mme Honari et de Mme Tacanay d’ajouter leur propre témoignage lorsque M. Hafizy aurait fini de témoigner. En définitive, Mme Tacanay a choisi de ne pas témoigner, mais Mme Honari a brièvement témoigné afin de fournir des renseignements additionnels relativement à certains points soulevés dans le témoignage de M. Hafizy. Il sera davantage question des témoignages de M. Hafizy et de Mme Honari ci‑après.
+Analyse
+[3] Les trois appelants ont demandé la déduction de divers montants à l’égard des catégories de dépenses suivantes : la publicité, les cotisations professionnelles, la téléphonie, le stationnement, les incitatifs aux clients, les cadeaux offerts à des tiers pour des noms d’acheteurs potentiels, les repas avec des clients et les fournitures de bureau. M. Hafizy a également demandé la déduction de montants pour des frais de gestion / paiements faits à des tiers, ainsi qu’une déduction pour amortissement. Quant à Mme Honari, elle n’a demandé en plus que la déduction de paiements faits à des tiers.
+[4] Au début de l’audience, l’avocate de l’intimée a consenti à ce que chacun des appelants déduise, pour les années d’imposition 2003 et 2004, les montants qui suivent, pour les catégories énumérées ci‑dessous :
+M. HAFIZY
+DÉPENSES
+2003
+2004
+Publicité
+18 630 $
+14 583 $
+Cotisations professionnelles
+2 390 $
+2 490 $
+Téléphonie
+2 615 $
+2 346 $
+Paiements à des tiers
+602 $
+567 $
+Repas
+5 200 $
+5 200 $
+Fournitures
+2 400 $
+2 400 $
+Stationnement
+640 $
+640 $
+Mme HONARI
+DÉPENSES
+2003
+2004
+Publicité
+25 017 $
+15 054 $
+Téléphonie
+2 417 $
+2 027 $
+Paiements à des tiers
+571 $
+516 $
+Repas
+5 200 $
+5 200 $
+Fournitures
+2 400 $
+2 400 $
+Stationnement
+640 $
+640 $
+Mme TACANAY
+DÉPENSES
+2003
+2004
+Publicité
+8 941 $
+16 022 $
+Téléphonie
+0 $
+887 $
+Paiements à des tiers
+1 020 $
+1 219 $
+Fournitures
+1 200 $
+0 $
+[5] Pour les motifs exposés ci‑après, les appelants ne m’ont pas convaincue qu’ils ont le droit de déduire des sommes plus élevées que celles auxquelles le ministre a consenti. Par conséquent, les appels sont accueillis, et les nouvelles cotisations sont renvoyées au ministre pour qu’il procède à un nouvel examen et qu’il établisse de nouvelles cotisations, seulement pour donner effet aux concessions énumérées ci‑dessus.
+[6] Tel qu’il a été expliqué lors de l’audience, il incombait aux appelants de démontrer qu’ils avaient engagé les dépenses dont ils ont demandé la déduction, et que ces dépenses constituaient des dépenses d’entreprise. Avant d’énumérer certaines des faiblesses de la preuve, j’aimerais signaler les éléments positifs suivants qui découlent des témoignages livrés par les appelants : je reconnais que M. Hafizy a travaillé fort pour établir son entreprise, et que ce dernier est un homme qui veille à ce que les créanciers de son entreprise soient payés. Je crois aussi, selon le témoignage de Mme Honari, que Mme Honari et Mme Tacanay considèrent M. Hafizy comme quelqu’un de respectueux et de juste, et qu’elles entretiennent avec ce dernier une bonne relation de travail.
+[7] Cependant, en l’espèce, le problème découle du fait que l’omission des appelants de tenir des livres et des registres comptables appropriés, ainsi que leur habitude de payer en espèces, font en sorte qu’il est impossible aux appelants de prouver qu’ils ont droit aux déductions qui font l’objet du présent appel. Aucune explication n’a été fournie pour justifier l’omission de tenir des livres comptables. Quant aux nombreuses opérations en espèces, M. Hafizy soutient dans son témoignage que certains fournisseurs insistaient pour être payés en espèces avant de consentir à M. Hafizy un « rabais » sur la somme qu’il devait leur payer. M. Hafizy ne s’est pas étendu sur la nature des rabais en question. M. Hafizy et Mme Honari ont aussi tous les deux tenté de justifier les opérations qu’ils ont réalisées en espèces en expliquant que, compte tenu du créneau particulier qu’ils occupaient sur le marché immobilier, on s’attendait à ce qu’ils offrent des incitatifs à leurs clients, par exemple, en payant pour ces clients les frais de déménagement, les frais juridiques, la mise en valeur du bien immobilier à vendre, le nettoyage de la résidence, de nouveaux appareils électroménagers ou d’autres cadeaux pour le nouveau logement. M. Hafizy soutient également qu’on s’attendait à ce que les appelants récompensent les personnes qui leur avaient donné les noms de clients potentiels. Les incitatifs aux clients étaient presque toujours payés en espèces; les récompenses versées pour les noms de clients potentiels étaient payées en espèces et, parfois, par chèque.
+[8] Dans un arrêt récent de la Cour d’appel fédérale, House c. Canada, [2011] A.C.F. no 1220, la cour a précisé, au paragraphe 80 :
+80 […] que, selon les circonstances de l'affaire, un contribuable puisse être tenu de présenter, outre son témoignage de vive voix, des documents justificatifs. Dans Njenga et Scragg [examinées par la cour dans les paragraphes précédents], la cour n’était pas convaincue de la crédibilité des contribuables. Dans Redrupp, le juge de la Cour de l'impôt a estimé que la nature des demandes faites par le contribuable faisait en sorte qu’elles devaient être étayées par des documents.
+[9] En l’espèce, je n’irais pas jusqu’à dire que M. Hafizy et Mme Honari ne sont pas crédibles, mais leurs témoignages ne sont pas suffisamment solides pour prouver le bien‑fondé de leurs affirmations sans que leurs témoignages soient étayés par des pièces justificatives. L’habitude des appelants de réaliser des opérations en espèces et de ne pas tenir de registres comptables fait en sorte qu’il subsiste dans la preuve présentée par M. Hafizy et par Mme Honari beaucoup trop de lacunes et de questions sans réponses.
+[10] M. Hafizy a été contre‑interrogé en sa qualité d’associé de l’entreprise assumant la responsabilité de payer les factures et de gérer les comptes de banque de l’entreprise. Pour appuyer la thèse du ministre quant au manque de fiabilité des documents produits par les appelants, l’avocate de l’intimée a amené M. Hafizy à examiner soigneusement certaines des pièces déposées par les appelants; après l’audience, j’ai fait mon propre examen des documents déposés par les appelants. À mon avis, les témoignages de M. Hafizy et de Mme Honari n’ont pas eu comme effet de corriger ou de justifier les diverses irrégularités relevées dans la preuve documentaire des appelants :
+1. Certaines factures ne sont accompagnées ni de chèques ni d’autres preuves de paiement de quelque nature que ce soit (pièce A-5, dépenses de Mme Tacanay pour 2003). M. Hafizy a expliqué que ces factures devaient avoir été payées en espèces, mais il ne détenait pas de reçus pouvant faire foi des paiements en question.
+2. Dans de nombreux cas, il y a divergence entre le montant inscrit sur la facture et les sommes qui figurent sur les chèques qui sont joints à cette facture (pièce A-7, « Afghan Hindara »). M. Hafizy a expliqué que le solde des factures en question devait avoir été payé en espèces. M. Hafizy ne détenait pas de reçus relatifs aux soi‑disant soldes, et il a aussi reconnu qu’aucun retrait en espèces provenant de son compte de banque ne correspondrait aux montants facturés parce qu’il effectuait souvent des retraits dont le montant était largement supérieur au montant à payer relativement à une facture en particulier, ce qui lui permettait de distribuer des sommes en espèces à d’autres fournisseurs et clients.
+3. Bon nombre de factures ne portent pas de dates et, plutôt que de porter une date de facturation précise correspondant aux fournitures vendues ou aux services rendus, les factures renvoient à une période de facturation globale, laquelle correspond, en général, à l’année entière (pièce A-7, [traduction] « Logements existants », pièces A-1 et A-4, « Zarnegaar » pour 2003 et 2004, respectivement). Au cours du contre‑interrogatoire de M. Hafizy, il a finalement été révélé que, comme M. Hafizy n’avait pas ses propres documents, celui‑ci avait dû, pour répondre aux demandes de production de documents de l’Agence du revenu du Canada, demander, après coup, des factures aux fournisseurs. Même si, en principe, rien n’empêche une personne de recourir à une source secondaire pour obtenir des documents, les documents provenant de cette source secondaire doivent, pour être fiables, constituer des copies de factures véritables ayant à l’origine été envoyées au contribuable, à une certaine date, date qui correspond à une période de facturation précise, et non constituer une facture sommaire nouvellement créée.
+4. Dans certains cas, les chèques déposés à titre de preuve de paiement de certaines factures portent une date antérieure à la date de la facture (pièce A-7, « Likha »; pièce A-2, « Taliba »). M. Hafizy a expliqué qu’il lui arrivait de payer des sommes avant de recevoir la facture à laquelle correspondaient ces sommes, qui étaient une sorte d’acompte versé sur un montant dont il savait qu’il lui serait plus tard facturé. Dans d’autres cas, il prenait du retard dans le paiement des factures, mais ses fournisseurs le connaissaient assez bien pour savoir qu’il finirait par les payer.
+5. Certains des chèques joints aux factures ne correspondaient pas à l’année de la facture ou, encore, les factures avaient été payées à partir du compte de Mme Honari plutôt qu’à partir du compte de M. Hafizy (pièce A-3). Certains chèques avaient été libellés à l’ordre de particuliers plutôt qu’à l’ordre de la société dont provenait la facture (pièce A-3, « Communications Depot », « Philippine Reporter », pièce A‑1, « Balita »). L’explication de M. Hafizy a été que ces personnes étaient les propriétaires des sociétés qui lui avaient envoyé les factures, et qu’il avait simplement libellé les chèques à l’ordre des propriétaires eux‑mêmes plutôt que d’utiliser le nom de l’entreprise.
+6. Parmi les documents déposés par les appelants, il y avait également une série de photocopies de chèques, libellés à l’ordre de divers particuliers (pièce A-14). Selon M. Hafizy, il s’agissait de paiements faits à des tiers pour des noms de clients potentiels ou de paiements faits à titre incitatif. Cependant, M. Hafizy n’a pu lier les tiers bénéficiaires de paiements à des transactions immobilières précises, et il ne disposait pas de documents pouvant donner de tels renseignements. En outre, à l’exception du chèque no 088, libellé à l’ordre de « Jessica Topaz », et portant une vague mention intitulée [traduction] « pour la maison pour Melanie », rien sur les chèques mêmes ne permet de lier ceux‑ci à un objectif commercial en particulier. Dans les circonstances, il n’y a aucune façon de vérifier si les paiements faits à l’égard des particuliers en question se rapportent de quelque manière à l’entreprise des appelants.
+7. Finalement, la pièce A-17 contenait des copies de chèques au porteur pour des sommes de 350 $ à 4 000 $. Encore une fois, il n’y a aucune manière de lier ces chèques à des dépenses d’entreprise précises.
+[11] Compte tenu des circonstances, il me semble que les concessions proposées par le ministre à l’audience sont plus qu’équitables. Lors de son témoignage, l’agente des appels qui était chargée des dossiers des appelants a déclaré qu’étant donné l’absence de documents en général et les divergences existant entre les divers documents produits de temps à autre par les appelants, elle ne pouvait avoir, en s’appuyant sur les meilleures données connues, qu’une idée approximative des dépenses qui pouvaient être acceptées. Pour établir cette approximation, l’agente des appels a examiné les copies de tous les chèques oblitérés et les relevés de cartes de crédit. Toutes les sommes qui, à première vue, pouvaient raisonnablement être attribuées à des créanciers avec lesquelles l’entreprise entretenait des liens commerciaux (par exemple, pour la publicité ou les fournitures de bureau) ont été acceptées. En l’absence de documents, l’agente des appels s’est fiée à des moyennes établies par Statistique Canada, aux conclusions des vérificateurs et/ou à son propre jugement, lequel repose sur neuf années d’expérience comme agente des appels. De plus, l’agente des appels était motivée par le souhait de l’Agence du revenu du Canada de parvenir avec les appelants à un règlement raisonnable.
+[12] Même sans tenir compte de la méthode utilisée par l’agente des appels et de ce qui l’a motivée, les appelants ne sont pas parvenus à se décharger du fardeau qui leur incombait de démontrer qu’ils avaient le droit de déduire des montants supérieurs aux montants concédés par le ministre lors de l’audience. Par conséquent, les appels de chacun des appelants sont accueillis, sans dépens, mais seulement pour donner effet aux concessions envisagées par le ministre, comme il a été indiqué précédemment.
+Signé à Ottawa, Canada, ce 16e jour de février 2012.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 24e jour de mai 2012.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2012 CCI 56
+Nos DES DOSSIERS DE LA COUR : 2009-1160(IT)G; 2009-1159(IT)G;
+2009-1148(IT)G
+INTITULÉS : AZIZULLAH HAFIZY ET SA MAJESTÉ LA REINE; FOROOZAN HONARI ET SA MAJESTÉ LA REINE; MELANIE TACANAY ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 8 février 2012
+MOTIFS DU JUGEMENT : L’honorable juge G. A. Sheridan
+DATE DU JUGEMENT : Le 16 février 2012
+COMPARUTIONS :
+Pour les appelants :
+Les appelants eux‑mêmes
+Avocate de l’intimée :
+Me Alisa Apostle
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous‑procureur général du Canada
+Ottawa, Canada

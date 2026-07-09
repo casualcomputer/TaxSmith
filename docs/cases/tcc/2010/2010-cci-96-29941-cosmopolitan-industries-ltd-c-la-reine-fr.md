@@ -1,0 +1,185 @@
+---
+title: "Cosmopolitan Industries Ltd. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29941/index.do"
+last_modified: "2010-06-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 96"
+citation2: ""
+neutral_citation: "2010 CCI 96"
+decision_date: "2010-06-22"
+language: "fr"
+item_id: "29941"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6487
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:51:33.250000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "34d7bed478e00db30f641bed6bf0492f4a34a43aa7e84a52af31245b50c36793"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Cosmopolitan Industries Ltd. c. La Reine
+
+- Citation: 2010 CCI 96
+- Decision date: 2010-06-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6487, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cosmopolitan Industries Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-06-22
+Référence neutre
+2010 CCI 96
+Numéro de dossier
+2009-2784(GST)I
+Juges et Officiers taxateurs
+Steven K. D'Arcy
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2009-2784(GST)I
+ENTRE :
+COSMOPOLITAN INDUSTRIES LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 28 janvier 2010 à Saskatoon (Saskatchewan),
+et décision rendue oralement le 12 février 2010, par téléconférence
+Devant : L’honorable juge Steven K. D'Arcy
+Comparutions :
+Représentant de l’appelante :
+M. Peter Gerrard
+Avocats de l’intimée :
+Me Lyle Bouvier (le 28 janvier 2010)
+Me Jamie Hammersmith (le 12 février 2010)
+____________________________________________________________________
+JUGEMENT MODIFIÉ
+L’appel de la cotisation établie en vertu de la Loi sur la taxe d’accise, dont l’avis est daté du 6 mai 2008 et porte le numéro de référence 08036004012310083, est rejeté, sans dépens.
+Le présent jugement modifié a pour effet d’ajouter le nom des avocats à l’audience et remplace le jugement daté du 15 février 2010.
+Signé à Ottawa, Canada, ce 22e jour de juin 2010.
+« S. D’Arcy »
+Juge D'Arcy
+Traduction certifiée conforme
+ce 19e jour d’août 2010.
+Hélène Tremblay, traductrice
+Référence : 2010 CCI 96
+Date : 20100622
+Dossier : 2009-2784(GST)I
+ENTRE :
+COSMOPOLITAN INDUSTRIES LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Représentant de l’appelante :
+M. Peter Gerrard
+Avocats de l’intimée :
+Me Lyle Bouvier (le 28 janvier 2010)
+Me Jamie Hammersmith (le 12 février 2010)
+____________________________________________________________________
+MOTIFS DU JUGEMENT RENDUS ORALEMENT
+(rendus oralement par téléconférence
+le 12 février 2010 à Ottawa (Ontario) et
+modifiés par souci de clarté et d’exactitude)
+(corrigés de façon à indiquer le nom des avocats à l’audience)
+[1] L’appelante, Cosmopolitan Industries Ltd. (« Cosmopolitan »), a interjeté appel d’une cotisation que le ministre a établie à son égard pour sa période de déclaration de la taxe sur les produits et services (la « TPS ») allant du 1er octobre 2007 au 31 décembre 2007.
+[2] La question que la Cour doit trancher est de savoir si la fourniture de papier recyclable par Cosmopolitan constituait une fourniture taxable ou exonérée en vertu de la partie IX de la Loi sur la taxe d’accise (la « Loi »).
+[3] Cosmopolitan soutient que la fourniture du papier recyclable constitue une fourniture taxable. En conséquence, elle a perçu la TPS sur la contrepartie exigée à l’égard des fournitures du papier recyclable qui ont été effectuées au Canada et a demandé des crédits de taxe sur les intrants pour la TPS payée sur les produits et services qu’elle a acquis en vue de leur consommation ou de leur utilisation dans le cadre de la réalisation des fournitures du papier recyclable.
+[4] Pour sa part, le ministre a fait valoir que la fourniture du papier recyclable constituait une fourniture exonérée en vertu de l’article 1 de la partie V.1 de l’annexe V de la Loi. En conséquence, lorsqu’il a établi la cotisation à l’égard de Cosmopolitan, le ministre a refusé un montant de 2 853,96 $ que celle-ci avait demandé au titre de crédits de taxe sur les intrants, au motif que les fournitures connexes avaient été acquises pour être consommées ou utilisées dans le cadre de la réalisation de fournitures exonérées.
+[5] Je résumerai d’abord les faits.
+[6] Cosmopolitan est un organisme de bienfaisance enregistré qui est inscrit aux fins de la TPS. Elle fait la collecte de papier recyclable dans la ville de Saskatoon afin de revendre ce papier à des tiers.
+[7] M. Peter Gerrard, le directeur général de l’appelante, est la seule personne qui a témoigné à l’audience. Il a utilisé des photographies et une bande vidéo pour expliquer les activités de l’appelante.
+[8] L’appelante faisait la collecte de papier recyclable auprès des sources suivantes : auprès des résidents de Saskatoon, qui plaçaient le papier recyclable dans des récipients de collecte centraux situés un peu partout dans la ville; directement auprès des entreprises, au moyen de déchiqueteuses mobiles commerciales; auprès de tiers qui fournissaient des services privés de collecte à la source à certaines résidences de Saskatoon.
+[9] Le papier recyclable se composait de papier journal, de carton, de papier de bureau et de papiers mélangés.
+[10] À son arrivée à l’établissement de l’appelante, le papier recyclable était déchargé dans un entrepôt général, après quoi il était disposé sur une bande transporteuse. La bande passait au-dessus de ce qui a été appelé une trieuse à roue à ailettes, qui servait à séparer le carton des autres sortes de papier.
+[11] Le papier était ensuite acheminé vers deux chaînes de triage parallèles. Les personnes qui effectuaient le triage retiraient les rebuts et papiers autres que le vieux papier journal. Des courroies de transfert servaient alors à diriger le vieux papier journal vers un endroit et le papier de rebut mélangé, vers un autre.
+[12] Le papier trié était ensuite placé dans une presse à balles, où il était mis en balles.
+[13] L’appelante vendait les balles de papier recyclable à différentes tierces parties. Le prix de vente obtenu dépendait de la catégorie de papier de la balle. Il semble que les principales catégories de papier que l’appelante vendait étaient du vieux papier journal, du papier de bureau, du papier mélangé et un mélange de vieux papier journal et de papier mélangé.
+[14] L’appelante achetait également du papier recyclable à des imprimeurs qui expédiaient le papier directement aux clients de l’appelante.
+[15] J’en arrive maintenant à la position des parties.
+[16] Le représentant de l’appelante soutient que le processus que celle-ci utilisait a donné lieu à la création d’un nouveau produit, soit un produit qui était fabriqué ou produit. Il insiste sur le fait que le triage ajoutait une valeur importante au produit et a précisé que, à son arrivée à l’usine, le papier n’avait aucune valeur; il s’agissait simplement d’ordures.
+[17] Le triage avait pour effet de convertir le papier en un produit de valeur, soit des balles de vieux papier journal, de carton, de papier de bureau et de papier mélangé. Ces balles pouvaient être emmagasinées, puis vendues sur le marché libre à des prix qui variaient selon la qualité du papier contenu dans la balle.
+[18] L’avocat de l’intimée fait valoir que les activités de l’appelante ne constituaient pas des activités de fabrication ou de transformation. Le produit contenu dans les balles était le même que celui qui entrait dans les installations de triage. L’appelante ne fabriquait pas un nouveau produit. Elle traitait simplement un produit existant.
+[19] Je résumerai maintenant les règles de droit. L’article 1 de la partie V.1 de l’annexe V de la Loi énonce que la fourniture de biens ou de services par un organisme de bienfaisance constitue une fourniture exonérée, sous réserve de certaines exclusions.
+[20] Une des exclusions est prévue à l’alinéa d) de ce même article, lequel exclut de la portée de celui-ci les biens meubles corporels que l’organisme de bienfaisance a acquis, fabriqués ou produits en vue de les fournir et qui n’ont pas fait l’objet d’un don à l’organisme ni n’ont été utilisés par une autre personne avant leur acquisition par l’organisme. Certains biens loués sont également exclus.
+[21] La question que la Cour doit trancher est de savoir si l’appelante a fabriqué ou produit le papier recyclable qu’elle a vendu à des tiers.
+[22] L’exclusion des biens meubles corporels acquis en vue de la réalisation d’une fourniture ne s’appliquait pas au papier recyclable, étant donné que, comme l’a souligné l’avocat de l’intimée, le papier en question avait été utilisé par une autre personne avant que l’appelante n’en fasse l’acquisition.
+[23] L’avocat de l’intimée a mentionné que très peu de décisions avaient été rendues au sujet du sens du libellé « fabriqué ou produit ». Cette affirmation est tout simplement erronée. De nombreuses décisions existent à ce sujet, y compris certains arrêts de la Cour suprême du Canada, et je ne comprends pas très bien pourquoi ces décisions n’ont pas été fournies à la Cour.
+[24] L’arrêt clé est celui de la Cour suprême du Canada dans The Queen v. York Marble, Tile and Terrazzo Limited, [1968] R.C.S. 140.
+[25] Dans cette affaire, la Cour suprême du Canada devait décider à quel moment un article était fabriqué ou produit aux fins du paragraphe 30(1) de la Loi, qui prévoyait alors l’imposition de l’ancienne taxe de vente fédérale sur tous les biens fabriqués ou produits au Canada.
+[26] Dans cet arrêt de la Cour suprême du Canada, le juge Spence a formulé les remarques suivantes, au paragraphe 10 :
+[traduction]
+Fabriquer c'est produire à partir de matériaux bruts ou préparés des articles destinés à être utilisés, en donnant aux matériaux de nouvelles formes, qualités et propriétés ou combinaisons soit à la main, soit à la machine.
+[27] La question clé est de savoir si la forme, la qualité ou les propriétés des matières brutes ou préparées ont changé entre le moment de l’arrivée des matières et le moment de leur départ.
+[28] La Cour suprême du Canada a confirmé plus tard, dans Banque Royale du Canada c. Sous-ministre du Revenu national pour les douanes et l’accise, [1981] 2 R.C.S. 139, la définition du mot « fabrication » énoncée dans l’arrêt York Marble.
+[29] Dans Deputy Minister of National Revenue v. Skega Canada Ltd., [1986] 72 N.R. 280 (C.A.F.), à la page 285, la Cour d’appel fédérale a défini comme suit l’expression « matières préparées » qui figurait dans la définition de « fabrication » de l’arrêt York Marble :
+[…] la mention des matières préparées signifie que les matières servant à la production d’un produit final et utile peuvent être des matières brutes ou des matières intermédiaires [...] qui [...] n’avait aucune utilité finale en soi.
+[30] Dans l’arrêt York Marble, le juge Spence s’est également attardé, au paragraphe 15, au sens du mot « produce » (production) et a souligné que les mots « manufacture » (fabrication) et « produce » (production) n’étaient pas synonymes. Les deux mots sont différents et ont des sens différents. Un article peut être produit même s’il n’est pas fabriqué.
+[31] Dans Enseignes Imperial Signs Ltée v. Minister of National Revenue, [1991] 1 C.T.C. 229, la Cour d’appel fédérale s’est demandé à quel moment un article est produit. À la page 3 de cette décision, la Cour d’appel fédérale en est arrivée à la conclusion suivante :
+Ce n’est pas la complexité de l’opération qui importe, mais son résultat. Il y a production si ce que fait une personne a pour résultat de produire une chose nouvelle. Et une chose est nouvelle lorsqu’elle peut remplir une fonction que ne pouvaient remplir les choses qui existaient auparavant.
+Le garagiste qui revend des voitures d’occasion après les avoir réparées et repeintes ne produit pas et ne fabrique pas un nouveau véhicule.
+La voiture que le garagiste a réparée et repeinte a exactement le même rôle qu’auparavant, c’est la même voiture [...]
+[32] J’appliquerai maintenant les règles de droit aux faits dont je suis saisi. Je me demanderai d’abord si l’appelante a fabriqué le papier recyclé.
+[33] Comme la Cour suprême du Canada l’a souligné dans l’arrêt York Marble, la question clé est de savoir si la forme, la qualité ou les propriétés des matières recyclables ont changé entre le moment où les biens ont été déchargés dans l’entrepôt général de l’établissement de l’appelante et celui où ils ont été expédiés sous forme de balles de papier recyclable.
+[34] Même si je conviens que les opérations de traitement de l’appelante étaient importantes, elles n’ont pas eu pour effet, à mon avis, de modifier la forme, la qualité ou les propriétés du papier recyclable.
+[35] Par exemple, même si le carton a peut-être été séparé des autres sortes de papier, l’appelante ne l’a pas transformé en un nouveau produit. Le carton qui entrait à l’établissement était destiné à la même utilisation finale que celui qui quittait l’usine après avoir été mis en balles.
+[36] Même si les activités de triage de l’appelante ont peut-être permis de préparer les matières recyclables en vue de leur vente, aucune transformation n’a été effectuée sur les biens qui sont entrés dans l’établissement de l’appelante.
+[37] Comme la Cour d’appel fédérale l’a souligné dans Ford Motor Co. Of Canada v. Minister of National Revenue, [1997] 3 C.T.C. 80, aux pages 114 à 115 :
+[…] pour qu’on puisse considérer qu’un objet est « fabriqué » par une personne, il faut qu’il acquière de nouvelles formes, qualités ou propriétés par suite de l’activité de cette personne.
+[38] Cela ne s’est tout simplement pas produit en l’espèce. Les activités de triage de l’appelante n’ont pas donné lieu à la création d’un article qui avait sa propre utilité.
+[39] Chacun des éléments de papier recyclable qui sortait de l’établissement avait la même forme, les mêmes qualités et les mêmes propriétés que ceux qui entraient dans lesdites installations.
+[40] Ayant conclu que l’appelante n’a pas fabriqué un nouveau produit, j’examinerai maintenant la question de savoir si elle a produit un article.
+[41] Dans l’arrêt Enseignes Imperial Signs, la Cour d’appel fédérale a souligné que l’on peut produire une chose en accomplissant une opération très simple. Elle a cité à cet égard l’exemple mentionné dans l’arrêt York Marble, soit le cas d’une personne qui importait des boîtiers et des mouvements de montre séparément et plaçait ensuite les mouvements dans les boîtiers. Il a été décidé que la personne ne fabriquait pas les montres; cependant, elle les produisait.
+[42] À mon avis, le problème qui se pose en l’espèce est le fait que l’appelante n’effectuait aucune opération sur les matières qui entraient dans ses installations. Même si les activités qu’elle poursuivait permettaient de préparer les matières à des fins de distribution, elles n’entraînaient pas la production d’un nouvel article. Le papier recyclable qui quittait l’établissement de l’appelante sous forme de balles jouait le même rôle que le papier qui entrait dans son usine.
+[43] Pour les motifs exposés ci-dessus, l’appel est rejeté, sans dépens.
+Signé à Ottawa, Canada, ce 22e jour de juin 2010.
+« S. D’Arcy »
+Juge D'Arcy
+Traduction certifiée conforme
+ce 19e jour d’août 2010.
+Hélène Tremblay, traductrice
+RÉFÉRENCE : 2010 CCI 96
+No DU DOSSIER DE LA COUR : 2009-2784(GST)I
+INTITULÉ : COSMOPOLITAN INDUSTRIES LTD. ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Saskatoon (Saskatchewan)
+DATES DES AUDIENCES : Le 28 janvier et le 12 février 2010
+MOTIFS DU JUGEMENT : L’honorable juge Steven K. D'Arcy
+DATE DU JUGEMENT MODIFIÉ : Le 22 juin 2010
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Peter Gerrard
+Avocats de l’intimée :
+Me Lyle Bouvier (le 28 janvier 2010)
+Me Jamie Hammersmith (le 12 février 2010)
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelante : S/O
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

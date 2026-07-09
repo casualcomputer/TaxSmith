@@ -1,0 +1,166 @@
+---
+title: "Ward c. Ressources Humaines"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28491/index.do"
+last_modified: "2008-01-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 25"
+citation2: ""
+neutral_citation: "2008 CCI 25"
+decision_date: "2008-01-16"
+language: "fr"
+item_id: "28491"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1288
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:15:36.960000+00:00"
+cases_cited_count: 3
+cases_citing_count: 10
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6a0939babaea4b02393045d9475a2f8793f05d8496c9119d840132724767b6c1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ward c. Ressources Humaines
+
+- Citation: 2008 CCI 25
+- Decision date: 2008-01-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1288, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ward c. Ressources Humaines
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-01-16
+Référence neutre
+2008 CCI 25
+Numéro de dossier
+2007-3096(OAS)
+Juges et Officiers taxateurs
+Joe E. Hershfield
+Sujets
+Loi sur la sécurité de la vieillesse
+Contenu de la décision
+Dossier : 2007‑3096(OAS)
+ENTRE :
+ELLEN WARD,
+appelante,
+et
+LE MINISTRE DES RESSOURCES HUMAINES ET DU DÉVELOPPEMENT SOCIAL DU CANADA
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 7 janvier 2008, à Winnipeg (Manitoba).
+Devant : L’honorable juge J.E. Hershfield
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimé :
+Me Belinda Schmid
+JUGEMENT
+L’appel interjeté de la décision rendue en vertu de l’article 28 de la Loi sur la sécurité de la vieillesse au sujet du calcul du supplément de revenu garanti auquel l’appelante a droit est rejeté, sans qu’aucuns dépens soient adjugés, pour les raisons énoncées dans les motifs de jugement ci‑joints.
+Signé à Ottawa, Canada, ce 16e jour de janvier 2008.
+« J.E. Hershfield »
+Juge Hershfield
+Traduction certifiée conforme
+ce 13e jour de mars 2008.
+Michèle Ledecq, réviseure
+Référence : 2008CCI25
+Date : 20080116
+Dossier : 2007‑3096(OAS)
+ENTRE :
+ELLEN WARD,
+appelante,
+et
+LE MINISTRE DES RESSOURCES HUMAINES
+ET DU DÉVELOPPEMENT SOCIAL DU CANADA,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(révisés à partir des motifs rendus oralement à l’audience
+le 11 janvier 2008, à Winnipeg (Manitoba).
+Le juge Hershfield
+[1] Le présent appel, qui a été interjeté en vertu de l’article 28 de la Loi sur la sécurité de la vieillesse (la « Loi »), se rapporte à une décision que le ministre des Ressources humaines et du Développement social Canada (le « ministre ») a rendue au sujet du calcul du supplément de revenu garanti (le « SRG ») auquel l’appelante a droit.
+[2] Les faits ne sont pas contestés. L’appelante est la rentière d’un fonds enregistré de revenu de retraite (le « FERR ») tel qu’il est défini et réglementé en vertu de la Loi de l’impôt sur le revenu (la « LIR »), dans le cadre duquel elle recevait un versement annuel de 1 300 $ au mois de janvier de chaque année. Il n’est pas contesté qu’il s’agit d’un versement effectué une fois l’an seulement, soit le « minimum » qui doit, selon la LIR, être retiré du FERR. Des retraits additionnels sont autorisés; ils sont effectués sur demande du rentier. De fait, dans ce cas‑ci, l’appelante a effectué des retraits additionnels. Le premier de ces retraits additionnels (ou du moins le premier des retraits qui a une incidence dans le présent appel) a été effectué au mois de septembre 2005.
+[3] En 2005, le montant additionnel retiré du FEER s’élevait à 7 460 $. Les montants additionnels supplémentaires qui ont été versés à l’appelante dans le cadre du FERR s’élevaient à 3 611 $, au mois de novembre 2006, et à 1 065 $, au mois de juillet 2007. Ce dernier retrait a eu pour effet de laisser un solde nul dans le FERR. Il a été reconnu que les retraits additionnels ont eu pour effet d’abréger la durée du fonds, c’est‑à‑dire que chaque retrait additionnel réduisait le nombre de versements minimums futurs que l’appelante recevrait ou réduisait le montant du dernier versement minimum.
+[4] Pour situer dans son contexte la question qui se pose dans le présent appel, il est utile de donner un aperçu du régime général du SRG. Premièrement, le droit au SRG pour la période de douze mois commençant le 1er juin de chaque année et se terminant le 31 juillet de l’année suivante dépend du revenu du demandeur au cours de l’année de référence applicable à ce dernier, c’est‑à‑dire de l’année d’imposition précédant la période particulière de douze mois à l’égard de laquelle une demande de SRG est faite. Cette période particulière de douze mois est appelée la « période de paiement en cours »[1]. Étant donné que, dans certains cas, le revenu d’un demandeur peut baisser au cours de la période de paiement du SRG suivante, de sorte que le demandeur se trouve dans une situation pire, sur le plan du revenu, que celle qui était prévue selon le revenu de l’année civile antérieure, le demandeur est autorisé, dans certaines circonstances, à estimer le montant du revenu réduit, de façon que le ministre puisse apporter les rajustements nécessaires au montant du SRG à lui verser.
+[5] Le versement additionnel du mois de septembre 2005 reçu par l’appelante dans le cadre du FERR a eu pour effet d’augmenter son revenu de 2005, ce qui réduisait le SRG auquel celle‑ci avait droit pour la période de paiement du SRG suivante (du 1er juin 2006 au 31 juillet 2007). Pour éviter cette réduction, l’appelante a demandé, au mois d’août 2006, que le montant de son SRG ne soit pas réduit en fonction de la réduction prévue de son revenu pour l’année 2006. Cela a été fait au moyen de la production de la déclaration requise, dans laquelle l’appelante indiquait que le revenu tiré de son FERR allait être ramené à 1 300 $.
+[6] Cela précise le problème ou la question qui se pose dans le présent appel. En termes simples, il s’agit de savoir si la réduction prévue des versements additionnels à recevoir dans le cadre du FERR donnait droit, pour la période allant du mois de juillet 2006 au mois de juin 2007, à un SRG supérieur à celui qui était payable compte tenu du revenu non rajusté de l’appelante pour l’année de référence 2005. Il n’est pas contesté que la seule disposition qui aiderait l’appelante est le paragraphe 14(4) de la Loi, qui est rédigé comme suit :
+Déclaration supplémentaire en cas de perte de revenu
+(4) Le demandeur – ou son époux ou conjoint de fait, dans le cas où celui‑ci produit la déclaration visée à l’alinéa 15(2)a) – peut aussi produire une seconde déclaration lorsqu’il subit une perte de revenu par suite de la suppression ou de la réduction du revenu perçu au titre de son régime de pension, au plus tard à la fin de la période de paiement suivant la période de paiement en cours. La seconde déclaration porte alors sur son revenu estimatif de l’année civile au cours de laquelle il a subi cette perte, compte non tenu du revenu perçu au titre du régime de pension pour les mois précédant celui où il a subi la perte. Son revenu pour l’année de référence correspond alors au total des éléments suivants :
+a) son revenu pour cette année civile, compte non tenu du revenu perçu au cours de celle‑ci au titre du régime de pension;
+b) le produit du revenu perçu au titre du régime de pension au cours de la partie de l’année civile qui suit le mois précédant le mois au cours duquel il a subi cette perte et de la fraction dont le numérateur est douze et le dénominateur le nombre de mois compris dans cette partie d’année.
+[7] La déclaration produite par l’appelante et faisant état de la réduction prévue des sommes à recevoir du FERR visait à faire augmenter les versements effectués en sa faveur pour la période de paiement allant du mois de juillet 2006 au mois de juin 2007. Par conséquent, en lisant le paragraphe 14(4), c’est la « période de paiement en cours » à laquelle il faut se reporter. Cette disposition, si elle est ramenée à une forme un peu plus simple qui s’applique au contexte du présent appel, prévoit ce qui suit :
+- lorsque le demandeur subit une perte de revenu à cause de la réduction du revenu de pension
+et
+- lorsque, au plus tard à la fin de la période de paiement du mois de juillet 2007 au mois de juin 2008, le demandeur produit une déclaration indiquant le revenu estimatif pour l’année civile au cours de laquelle il « a subi cette perte »,
+alors,
+- le SRG sera rajusté de façon à exclure du revenu de cette année civile tout revenu de pension reçu avant que la perte ait été subie et à ajouter, calculé sur année, le revenu de pension reçu par la suite comme s’il était payable chaque mois.
+[8] Le contexte législatif montre clairement que, pour aider l’appelante, il faut arrondir les angles. Toutefois, puisque je croyais que la Cour devait, dans la mesure du possible, interpréter cette législation peu facile d’une façon utile à l’appelante, j’ai mis en question un grand nombre des arguments que l’avocate de l’intimé avait invoqués à l’appui de la décision du ministre de refuser d’accorder à l’appelante le rajustement demandé. Tout bien considéré, il s’agit d’une loi d’aide sociale qu’il faut interpréter d’une façon libérale en faveur des personnes qui devraient raisonnablement en bénéficier. Au bout du compte, il a essentiellement été reconnu que l’appelante ici en cause faisait face à des difficultés financières, en ce sens qu’elle n’avait pas les moyens de payer ses frais de subsistance de base pendant la période de paiement en cours – une situation à laquelle venait s’ajouter la réduction du SRG dont elle avait fait l’objet à cause des sommes additionnelles retirées du FERR en 2005.
+[9] Le fait de mettre l’accent sur ces difficultés financières, comme l’appelante me demande de le faire, suscite peut‑être un problème, en ce sens que les sommes que l’appelante a reçues au titre du SRG pour la période de paiement antérieure, compte tenu de son revenu de 2004, étaient peut‑être plus élevées que ce que le législateur voulait lui allouer, compte tenu du revenu additionnel que l’appelante avait reçu en 2005. Ces versements plus élevés au titre du SRG sont en fait récupérés au moyen de la réduction effectuée au cours de la période de paiement suivante, compte tenu du revenu imposable de 2005. Il m’incombe malgré tout de décider s’il existe une façon raisonnable d’interpréter la disposition pertinente, de façon à aider l’appelante.
+[10] Au sujet du premier des trois éléments du paragraphe 14(4) que j’ai présentés ci‑dessus, l’avocate de l’intimé soutient que la condition se rapportant au premier élément, à savoir que le demandeur doit subir une perte de revenu à cause de la réduction de son revenu de pension, n’est pas remplie. En effet, l’avocate fait valoir que les FERR ne sont pas des pensions.
+[11] L’article 14 du Règlement sur la sécurité de la vieillesse définit le revenu de pension comme suit :
+14. Pour l’application de l’article 14 de la Loi, le revenu provenant d’un régime de pension est le total des montants perçus au titre :
+a) de rentes;
+[…]
+f) de pensions ou de pensions de retraite, autres que les prestations reçues aux termes de la Loi et tout versement semblable reçu en vertu d’une loi provinciale;
+[…]
+De plus, étant donné que l’article 2 de la Loi définit le mot « revenu » d’une personne pour une année civile comme étant le revenu de cette personne pour l’année, calculé en conformité avec la LIR, l’avocate de l’intimé m’a renvoyé à la définition du mot « rente » figurant dans la LIR. En vertu de la LIR, une « rente » comprend les sommes payables à intervalles réguliers, plus longs ou plus courts qu’une année, en vertu d’un contrat, d’un testament, d’une fiducie ou autrement. Selon cette définition, le FERR est une rente. En outre, en répondant à l’argument selon lequel on ne peut empêcher les versements effectués dans le cadre d’un FERR de constituer un revenu de pension ou des prestations de pension simplement parce qu’ils remplissent les conditions voulues pour constituer une rente, l’avocate de l’intimé a soutenu que la LIR indique clairement que les prestations de pension ne comprennent pas les versements effectués dans le cadre d’un FERR. Ainsi, aux articles 56 et 212, les prestations de pension sont considérées comme distinctes des versements effectués dans le cadre d’un FEER[2]. La décision Drake v. Canada (Minister of Human Resources Development)[3] a également été mentionnée comme décision faisant autorité à l’égard du principe voulant que les régimes enregistrés ne constituent pas des pensions pour l’application de la Loi.
+[12] Ces arguments sont fondés, mais à mon avis ils ne sont pas convaincants. Dans la LIR, les régimes de pension et les FERR sont considérés comme servant un objectif commun. Les cotisations qui financent en fin de compte chacun de ces régimes doivent servir à la retraite et font l’objet de renvois, de façon qu’aucun paiement en trop ne puisse avoir lieu. Les FERR remplacent la pension dans le cas des travailleurs autonomes ou ils peuvent fournir un complément au régime de pension de l’employeur lorsqu’il y a des droits de cotisation inutilisés. Les personnes qui créent des FERR considéreraient normalement leurs FERR comme leur pension[4]. Quoi qu’il en soit, le simple fait que le revenu visé par la Loi est déterminé en vertu de la LIR ne veut pas pour autant dire que la qualification d’un « revenu de pension », pour l’application du paragraphe 14(4), est déterminée en vertu de la LIR. Une telle qualification est déterminée conformément à la définition du « revenu de pension », à l’article 14 de la Loi. Les inférences découlant de la LIR ne sont ni nécessaires ni pertinentes.
+[13] À supposer qu’un FERR soit une pension pour l’application de la Loi, on s’est également demandé si le montant de 7 462 $ qui avait été versé au mois de septembre 2005 était un revenu de pension, même en supposant que le montant annuel de 1 300 $ était un revenu de pension. L’avocate de l’intimé a essentiellement reconnu que, si un FERR était une pension, tous les versements effectués dans le cadre du FERR pourraient être considérés comme un revenu de pension, y compris les versements exceptionnels tels que le montant de 7 462 $ que l’appelante a reçu au mois de septembre 2005. En reconnaissant la chose, l’avocate s’est appuyée sur les décisions Henriques v. Canada Minister of Human Resources Development)[5] et Mattina v. Canada (Minister of Human Resources Development)[6].
+[14] Puisqu’il a été conclu que les arguments de l’avocate de l’intimé, à savoir que les sommes retirées du FERR ne constituent pas un revenu de pension en vertu de la Loi, ne sont pas convaincants en tant que tels du moins, il faut analyser plus à fond le paragraphe 14(4) et considérer en fin de compte la disposition dans son ensemble. J’examinerai donc le deuxième des trois éléments du paragraphe 14(4) que j’ai énoncés ci‑dessus, à savoir si l’appelante a produit une déclaration indiquant le revenu estimatif pour l’année civile au cours de laquelle elle « a subi cette perte » au plus tard à la fin de la période de paiement allant du mois de juillet 2007 au mois de juin 2008. Pour s’assurer que cette condition est remplie dans ce cas‑ci, il faut se livrer à une certaine gymnastique mentale, mais il semble néanmoins que cette condition puisse être remplie. La seule perte certaine dans ce cas‑ci se rapporte à des versements futurs de 1 300 $. La durée du régime du « paiement minimum » a été abrégée, mais cette perte ne se produira pas pendant la période de paiement en cours. L’appelante peut cependant prévoir une réduction du revenu de pension pour la période de paiement en cours. Selon ce qu’elle a résolu et la façon dont elle envisage sa situation, l’appelante sait peut‑être que le montant additionnel de 7 462 $ retiré en 2005 ne sera pas nécessaire au cours de la période suivante applicable au SRG. Il n’y a rien dans la disposition en question qui prévoie expressément que l’appelante ne peut pas faire cette prévision à un moment donné en 2005 et s’en servir comme fondement pour déterminer qu’elle aura ou qu’elle subira une perte au titre du revenu de pension. En prévoyant cette perte pour la période allant du mois de juillet 2006 au mois de juin 2007 (la période de paiement en cours), l’appelante a jusqu’à la fin de la période de paiement allant du mois de juillet 2007 au mois de juin 2008 pour demander un rajustement. L’appelante s’est donc clairement conformée à la condition relative au délai en produisant sa déclaration au mois d’août 2006. L’avocate de l’intimé en a convenu.
+[15] J’examinerai maintenant le troisième et dernier des trois éléments du paragraphe 14(4) que j’ai présentés ci‑dessus, à savoir le fait que le rajustement doit être effectué par rapport au revenu de l’année de référence. La formule employée, en prévision d’une « réduction » du revenu de pension au cours d’un mois particulier, prévoit le revenu de pension futur, compte tenu du versement réduit effectué au cours de ce mois particulier, en incluant et en annualisant la somme réellement reçue au cours de ce mois particulier et en excluant les sommes reçues au cours des mois antérieurs. Une telle formule ne fonctionne tout simplement pas lorsqu’il n’y a aucun mois de l’année au cours duquel il n’y a pas de réduction réelle du revenu de pension. Si le revenu de pension augmente au cours d’un mois donné, la formule de prévision laisse supposer que le rajustement à la hausse continuera comme elle laisse supposer qu’une réduction se poursuivra. En admettant que la « réduction » prévue se produise au mois de septembre 2005 lorsque le changement (l’augmentation) se produit, la disposition exige que le montant de 7 462 $ soit annualisé, ce qui donne un revenu de pension annuel de plus de 22 000 $ l’an[7]. S’il est dit que la perte se produira après le mois de septembre 2005, la formule a non seulement pour effet de supprimer le montant de 7 462 $ qui représente la perte prévue qui sera subie, mais elle a aussi pour effet de supprimer le paiement minimum nécessaire de 1 300 $, qui est le seul montant que la rentière appelante recevra d’une façon certaine au cours de l’année suivante. Ce n’est que dans le cas où la perte est subie au mois de janvier 2005, mais avant le versement de 1 300 $ du mois de janvier, que ce montant ne sera pas exclu. Et même en pareil cas, la formule n’aiderait toujours pas l’appelante, étant donné qu’il est alors tenu compte des deux sommes reçues en 2005 et que le résultat final serait un revenu prévu égal au revenu réel de l’appelante. Étant donné que la disposition en question vise à reconnaître la « perte », il ne serait pas logique de penser que le législateur voulait obtenir l’un quelconque de ces résultats.
+[16] De toute évidence, la disposition en question envisage donc quelque chose d’autre que le contrôle des réductions prévues de pension à l’égard desquelles le rentier a entièrement discrétion. Le rentier est tenu de « subir » une perte. La perte doit être un fait accompli. La prévision d’une perte sur laquelle le rentier exerce un contrôle, lorsqu’il s’agit de subir la perte ou de ne pas la subir, n’est pas une perte qui a été subie. Par conséquent, en 2005, l’appelante n’a jamais subi de perte. La réduction du revenu, le cas échéant, est uniquement connue le dernier jour de l’année 2006. L’application de la formule énoncée au paragraphe 14(4) à ce moment‑là produira encore une fois un résultat illogique. Par conséquent, le rajustement visé au paragraphe 14(4) ne peut pas s’appliquer, à mon avis, aux changements survenus dans les versements effectués dans le cadre d’un FERR, lorsque les changements découlent de l’exercice des droits discrétionnaires que possède le rentier.
+[17] Enfin, j’aimerais signaler, comme l’a fait l’avocate de l’intimé, qu’en admettant que les réductions discrétionnaires des versements effectués dans le cadre du FERR soient des réductions subies pour l’application du paragraphe 14(4), cela permettrait aux rentiers d’abuser du régime du SRG. Ainsi, le fait de retirer un montant plus élevé du FERR, au cours d’une année, pourrait augmenter d’une façon artificielle le SRG versé au cours de la période de paiement qui commence au mois de juillet de l’année suivante. Peu importe que ce montant fasse par la suite l’objet d’une récupération, la disposition en question ne devrait pas être d’emblée interprétée et appliquée de façon à permettre un tel abus. En l’espèce, il n’a pas été soutenu que l’appelante voulait se livrer à un tel abus. De fait, au contraire, c’est avec regret que je suis arrivé à la conclusion selon laquelle l’appel doit être rejeté. Je ne doute aucunement que les difficultés financières que l’appelante a connues par suite de la réduction de son SRG étaient réelles. Malheureusement, la somme relativement élevée qu’elle a retirée en 2005 a eu pour effet de mettre l’appelante dans un palier de revenu qui entraînait une réduction des prestations associées au SRG.
+[18] Pour ces motifs, l’appel est rejeté, sans qu’aucuns dépens soient adjugés. Toutefois, avant de terminer, il faut faire une remarque additionnelle. Comme le juge Bowie l’a soutenu dans la décision Drake, les responsables de la politique et de la législation au gouvernement devront peut‑être revoir la disposition en question en vue de s’assurer qu’elle s’applique d’une façon qui correspond de manière compréhensible aux politiques du gouvernement et d’une façon qui n’établit pas de discrimination contre un groupe de personnes à la retraite ou qui ne confère pas à un autre groupe un avantage injustifiable selon la nature de la pension ou du régime enregistré de retraite ou selon la nature des modalités de versement envisagées ou permises par ces régimes.
+Signé à Ottawa, Canada, ce 16e jour de janvier 2008.
+« J.E. Hershfield »
+Juge Hershfield
+Traduction certifiée conforme
+ce 13e jour de mars 2008.
+Michèle Ledecq, réviseure
+RÉFÉRENCE : 2008CCI25
+No DU DOSSIER DE LA COUR : 2007‑3096(OAS)
+INTITULÉ : Ellen Ward
+c.
+Ministre des Ressources humaines et du Développement social du Canada
+LIEU DE L’AUDIENCE : Winnipeg (Manitoba)
+DATE DE L’AUDIENCE : Le 7 janvier 2008
+MOTIFS DU JUGEMENT : L’honorable juge J.E. Hershfield
+DATE DU JUGEMENT : Le 16 janvier 2008
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimé :
+Me Belinda Schmid
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L’alinéa 2c) de la Loi définit la « période de paiement », à l’égard d’un mois, comme étant « la période postérieure à juin 1999 commençant le 1er juillet et se terminant le 30 juin suivant, si cette période comprend le mois ». L’article 10 de la Loi définit le « période de paiement en cours » comme étant « [...] [l]a période de paiement pour laquelle le demandeur fait sa demande de supplément ». L’article 10 de la Loi définit l’« année de référence » comme étant « [...] [l]’année civile précédant la période de paiement en cours ».
+[2] Le sous‑alinéa 56(1)a)(i) inclut les prestations de pension dans le revenu. L’alinéa 56(1)h) inclut les FERR. La seconde inclusion ne serait pas nécessaire si les FERR étaient des pensions. De même, bien que l’alinéa 212(1)h) inclue les prestations de pension dans le revenu, il faut néanmoins inclure les FERR dans le revenu en vertu de l’alinéa 212(1)q).
+[3] 2005 CarswellNat 2193; 2005 CCI 498.
+[4] Dans la décision Drake, le juge Bowie reconnaît, à la fin du paragraphe 4, qu’une somme retirée prématurément d’un REER ne peut pas être considérée comme un « revenu provenant d’un régime de pension ». Cela donne à entendre qu’après l’échéance, lorsqu’un REER est converti en un FERR, les sommes retirées pourraient bien être un « revenu de pension ». De plus, je note que, dans le calcul des crédits d’impôt personnels à l’article 118 de la LIR, le revenu de pension est défini au paragraphe (7) comme incluant les versements de rente viagère prévus par un régime de retraite ou d’autres pensions, ou en provenant. Décrire l’inclusion de cette façon laisse supposer qu’une rente viagère peut faire partie d’un régime de pension. Les rentes viagères ne sont peut‑être pas toutes des pensions, mais, à coup sûr, une rente viagère peut exister dans le cadre d’un régime de pension. La question est examinée dans la décision Letarte c. R. Dans cette affaire, il était question d’un fonds immobilisé qui fonctionnait comme un FERR et qui avait été traité comme une pension. L’appelant a été débouté, mais ce n’était pas parce que le revenu reçu dans le cadre du FRV (fonds de revenu viager) semblable à un FERR ne constituait pas un revenu de pension. L’appelant a été débouté parce qu’il ne s’agissait pas d’un « revenu de pension admissible ». Une conclusion similaire a été tirée dans la décision Kennedy c. R. En l’absence de cette exclusion, ces décisions donnent à entendre que les versements effectués dans le cadre d’un FERR peuvent à juste titre être considérés comme un revenu de pension.
+[5] 2006 CarswellNat 2948; 2006 CCI 506.
+[6] 2006 CarswellNat 2050; 2006 CCI 324.
+[7] Le libellé de la disposition en question « le produit du revenu perçu au titre du régime de pension au cours de la partie de l’année civile qui suit le mois précédant le mois au cours duquel il a subi cette perte » en l’espèce s’entend du « produit du revenu perçu au titre du régime de pension – 7 462 $ – au cours de la partie de l’année civile – la période allant du mois de septembre 2005 au mois de décembre 2005 étant cette partie de l’année – qui suit le mois d’août 2005, soit le mois précédant le mois au cours duquel [la perte a été subie], soit le mois de septembre ». Mis à part le fait que j’aimerais proposer qu’il soit apporté des améliorations au libellé de cette disposition, cela produit selon moi un revenu de pension de : (7 463 $/4) x 12 = 22 393 $.

@@ -1,0 +1,150 @@
+---
+title: "Kerr v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26180/index.do"
+last_modified: "2003-12-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 897"
+citation2: ""
+neutral_citation: "2003 TCC 897"
+decision_date: "2003-12-08"
+language: "en"
+item_id: "26180"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3978
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:23:43.524000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1840ce174f16dbf757f5a05f054e919ecb4e42db1054a2adbd34d4a84e64b3e6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kerr v. M.N.R.
+
+- Citation: 2003 TCC 897
+- Decision date: 2003-12-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3978, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kerr v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-12-08
+Neutral citation
+2003 TCC 897
+File numbers
+2002-1700(EI)
+Judges and Taxing Officers
+Terrence O'Connor
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2002-1700(EI)
+BETWEEN:
+STEVEN D. KERR,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 17, 2003 at Saint John, New Brunswick
+Before: The Honourable Justice T. O'Connor
+Appearances:
+Counsel for the Appellant:
+Joel P. Hansen
+Counsel for the Respondent:
+Susan McKinney
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decision of the Minister is vacated.
+Signed at Ottawa, Canada, this 8th day of December 2003.
+"T. O'Connor"
+O'Connor, J.
+Citation: 2003TCC897
+Date: 20031208
+Docket: 2002-1700(EI)
+BETWEEN:
+STEVEN D. KERR,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+O'Connor, J.
+[1] This appeal was heard at Saint John, New Brunswick, on November 17, 2003. The issue on the facts are set forth in the following paragraphs of the Reply to the Notice of Appeal.
+5. The Appellant appealed to the Respondent from a ruling that he was not an insured person pursuant to the Employment Insurance (Fishing) Regulations ("the Fishing Regs") and that Mills Seafood Ltd. (the "Payor") was not the employer pursuant to the Fishing Regs during the Periods in question.
+6. The Respondent informed the Appellant that the ruling was confirmed.
+7. In making his decision, the Respondent relied on the following assumptions of fact:
+a) the Payor was in the business of purchasing and selling clams;
+b) the Appellant received 2 Records of Employment ("ROEs") from the Payor for the periods in question reporting insurable earnings from the sale of clams to the Payor's agent, Larry Foster;
+c) the ROE issued to the Appellant on October 19, 1999 reported insurable earnings of $13,800.00 for a 10 week period;
+d) the ROE issued to the Appellant on October 27, 2000 reported insurable earnings of $9,240.00 consisting of 2 weeks of $480.00 each and the balance of $8,240.00 over a 12 week period;
+e) the Appellant purchased the clams sold in his name;
+f) the Appellant did not dig the clams sold in his name.
+B. STATUTORY PROVISIONS, GROUNDS RELIED ON AND RELIEF SOUGHT
+8. He relies on paragraph 5(1)(a) of the Act and on sections 1 and 2 of the Fishing Regs as amended.
+9. He submits that the Appellant was not engaged by the Payor in insurable employment within the meaning of paragraph 5(1)(a) of the Act for the period in question as there was no contract of service between the Appellant and the Payor.
+10. He further submits that the Appellant did not make the catches sold to the Payor during the periods in question and therefore was not a Fisher as defined in section 1 of the Fishing Regs.
+11. He further submits that the Appellant cannot be included as an insured person pursuant to section 2 of the Fishing Regs.
+[2] Evidence was given by the Appellant and by Larry Foster, the person representing Mills Seafood Ltd. (the "Payor"), who was the actual buyer for the Payor of the clams caught by the Appellant and by other clam diggers. Testimony was also given by Mr. Robert Brittain a CPP/EI Coverage Officer.
+[3] The Appellant submitted Exhibits A-1 and A-2 being Payroll History Reports prepared by the Payor for the Appellant and covering the periods in question in 1999 and 2000. Also submitted were Exhibits R-1 and R-3 being the Appellant's application for employment benefits for the periods in question and Exhibits R-2 and R-4 being the Appellant's record of employment for the years 1999 and 2000.
+Analysis and Decision
+[4] I find the evidence given by the Appellant and by Larry Foster to be credible. Mr. Brittain's testimony was to the effect that he had researched the clam industry and concluded that 1) it was practically impossible for the Appellant to catch the number of clams he claimed that he caught. He also referred to Exhibit A-2 where it is indicated under the column "Gross" that for the first ten weeks of the year the sale amounts were the same and that for the next nine weeks the amounts were also the same in each case. Mr. Brittain pointed out that it was impossible that in every week the amounts would be the same as every other week which amounts are based upon the number of clams the Appellant delivered to Mr. Foster. Mr. Brittain may be correct in his surmises but another explanation could be that the Payor in preparing Exhibit A-2 simply used averaging figures for various reasons of convenience. In any event these matters are not raised in the Reply to the Notice of Appeal and although that may not be fatal to the Respondent it makes it extremely difficult for the Appellant to know what proof or counterproof he has to make to establish his right to employment benefits.
+[5] Another possible negative for the Appellant is that the only documents submitted were the Exhibits mentioned although other documents such as slips detailing the catch and other pertinent evidence was lost or destroyed in a fire.
+[6] On balance however I accept the evidence of the Appellant and Mr. Foster and their credibility. The Reply to the Notice of Appeal says the Appellant did not make the catch and that he bought some of the clams and that excludes him from insurability. The evidence of the Appellant however is that he did make the catch and did not buy any clams.
+[7] Moreover, the employment insurance premiums were paid by the Payor on behalf of the Appellant. Also it is difficult to believe that the Payor would deliberately falsify the Payroll History Reports (Exhibits A-1 and A-2) and the employment reports (R-2 and R-4).
+[8] In conclusion, on a balance of probabilities, I am of the opinion that the Appellant did the work that he says he did and that he was engaged under a contract of service and qualified for the employment benefits that he claimed. Consequently, the appeal is allowed and the decision of the Minister is vacated.
+Signed at Ottawa, Canada, this 8th day of December 2003.
+"T. O'Connor"
+O'Connor, J.
+CITATION:
+2003TCC897
+COURT FILE NO.:
+2002-1700(EI)
+STYLE OF CAUSE:
+Steven D. Kerr and M.N.R.
+PLACE OF HEARING:
+Saint John, New Brunswick
+DATE OF HEARING:
+November 18, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice O'Connor
+DATE OF JUDGMENT:
+December 8, 2003
+APPEARANCES:
+Counsel for the Appellant:
+Joel P. Hansen
+Counsel for the Respondent:
+Susan McKinney
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Joel P. Hansen
+Firm:
+Joel Hansen Law Office
+Dufferin, Charlotte Co.,
+New Brunswick
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

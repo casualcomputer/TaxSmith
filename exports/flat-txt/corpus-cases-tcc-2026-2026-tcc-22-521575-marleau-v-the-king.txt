@@ -1,0 +1,401 @@
+Title: Marleau v. The King
+Source: https://norma.lexum.com/tcc-cci/decisions/en/item/521575/index.do
+Corpus path: corpus/cases/tcc/2026/2026-tcc-22-521575-marleau-v-the-king.md
+Document type: case_law
+Last modified: 2026-01-29
+
+# Marleau v. The King
+
+- Citation: 2026 TCC 22
+- Decision date: 2026-01-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5624, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Marleau v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2026-01-29
+Neutral citation
+2026 TCC 22
+File numbers
+2018-4166(IT)G
+Judges and Taxing Officers
+Bruce Russell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2018-4166(IT)G
+BETWEEN:
+BARBARA MARLEAU,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard January 17, 2024 at Windsor, Ontario.
+Written submissions filed April 12, 2024 and June 4, 2024.
+Before: The Honourable Justice Bruce Russell
+Appearances:
+Counsel for the Appellant:
+Roland Schwalm
+Counsel for the Respondent:
+Cédric Renaud-Lafrance
+JUDGMENT
+In accordance with the associated Reasons for Judgment dated January 29, 2026;
+a)the appeal of the reassessment for the appellant’s 1997 taxation year is denied;
+b)the appeals of the reassessments for the appellant’s 1998, 1999, 2000 and 2001 taxation years are each allowed and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis of excluding section 94.1 implied income;
+c)the appeals of the reassessments for the appellant’s 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009 and 2010 taxation years are each allowed on the basis that they are each “statute-barred”; i.e.: raised only after the normal reassessment period of each of these nine taxation years;
+d)the whole without costs due to divided success.
+Signed this 29th day of January 2026.
+“B. Russell”
+Russell J.
+Citation: 2026 TCC 22
+Date: 20260129
+Docket: 2018-4166(IT)G
+BETWEEN:
+BARBARA MARLEAU,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Russell J.
+I. Overview: [1] The appellant, Ms. Barbara Marleau, appeals fourteen reassessments, respecting her 1997 to 2010 taxation years. The Minister of National Revenue (Minister) raised each of these reassessments on October 13, 2016 under the federal Income Tax Act (Act)[1]. Each reassessment was raised beyond its normal reassessment period, being three years from date of original assessment. Thus, pursuant to subparagraph 152(4)(a)(i) each reassessment is “statute-barred” - subject to applicability of the exception specified in that provision.
+[2] The appealed reassessments variously reflect either or both of two categories of tax adjustments:
+a)reassessments for the 1997 to 2001 taxation years - addition of unreported taxable income that the appellant earned from consulting work;
+b)reassessments for the 1998 to 2010 taxation years - addition of unreported section 94.1 imputed income regarding the appellant’s shares of two offshore investment funds;
+c)reassessments for the 1998 to 2001 taxation years - addition of both tax adjustment categories.
+II. Issues: [3] The issues are:
+a)whether as per the subparagraph 152(4)(a)(i) exception, did the appellant or person filing her returns make any misrepresentation attributable to neglect, carelessness or wilful default in any of her 1997 to 2010 returns, thereby relieving the appealed reassessment of being statute-barred; and
+b)whether the reassessed amounts are accurate.
+[4] The appellant pleaded in her Notice of Appeal (para. 12) that during the relevant taxation years she was not a resident of Canada. However, the appellant did not pursue this at the hearing or in her written submissions. As well, her tax returns consistently reported her as being a resident of Ontario.
+III. Parties’ Positions: [5] The appellant maintains as per the subparagraph 152(4)(a)(i) exception that any misrepresentations in her returns were not attributable to her or her tax preparer’s neglect, carelessness, or wilful default, and that she relied on advice from her long-time accountant tax preparer, one David Marshall (DM).[2]
+[6] The appellant submits regarding her section 94.1 implied income reassessments that she made her offshore investments after consultation with DM, without mention of any tax implications. As well she submits that ultimately she suffered a loss from these investments.[3]
+[7] The respondent asserts that the appellant’s self-employment income through her offshore consulting work was taxable in her hands, and alternatively that she received this income as a salary or benefit from Marlo Communications Agency Inc.[4]
+[8] Also, the respondent asserts regarding the section 94.1 implied income reassessments, that it may reasonably be concluded that one of the main reasons for the appellant acquiring offshore shares of capital stock was to pay less Part I tax than had the appellant held the portfolio investments directly.[5]
+IV. Evidence/Background: [9] At the hearing the parties submitted a statement of agreed facts, elements of which are referenced below. As well, two witnesses testified - the appellant Ms. Marleau herself and Ms. Hedy Muller, a retired Canada Revenue Agency (CRA) auditor.
+[10] Ms. Marleau testified that she completed high school and two years of community college before commencing employment with Bell Canada lasting 25 years, based in Windsor and Toronto. In 1995 she left Bell Canada, qualified as a trainer of staff for new telephone systems. In 1996 Bell Canada International employed her in two U.S. locations.
+[11] In 1997 Ms. Marleau commenced work outside Canada as a consultant for providing training of telephone staff. She did so “as a self-employed individual”, as she stated in 2014 correspondence with then CRA auditor Ms. Muller.[6]
+[12] Ms. Marleau’s consultancy work involved her personally providing training and related support services to new staff of long-distance, cable and internet companies establishing local telecommunication services.[7]
+[13] Throughout her 1997 to 2001 taxation years, Ms. Marleau conducted her self-employment consulting work at various locations, as follow:
+in 1997 she completed a contract in Nassau Bahamas with MCI Telecommunications Corp. (MCI) (reassessed for C$93,046 unreported income);
+in 1998 she completed a contract in Minnesota and a MCI contract carried out in Virginia (reassessed for C$65,866 of unreported income);
+in 1999 she worked on a contract with Nortel Networks carried out in Argentina (reassessed for C$80,229 of unreported income);
+in 2000 she completed the aforesaid Nortel Networks’ Argentinian contract (reassessed for C$29,405 of unreported income); and,
+in 2001 she completed a contract carried out in Los Angeles, California (reassessed for C$37,170 of unreported income).
+[14] Ms. Marleau’s taxable income from her 1997 - 2001 self-employment consulting work was not reported in her tax returns for those years. She testified that she was unaware of this until the CRA audit more than a decade later.[8]
+[15] Ms. Marleau’s T1 returns for her 1997 to 2010 taxation years reported taxable income amounts as follow:[9]
+Taxation Year
+Reported Taxable Income
+1997
+$763
+1998
+$1,379
+1999
+$1,616
+2000
+$1,705
+2001
+$86,693
+2002
+$6,639
+2003
+$9,357
+2004
+$9,682
+2005
+$13,342
+2006
+$11,883
+2007
+$17,163
+2008
+$9,158
+2009
+$18,811
+2010
+$24,156
+[16] The filing dates of Ms. Marleau’s 1997 - 2010 tax returns and the Minister’s original assessment dates for those taxation years, are as follow:[10]
+Taxation Year
+Tax Return Filing Date
+Date of Original Assessment
+1997
+July 10, 2002
+October 28, 2002
+1998
+July 10, 2002
+October 28, 2002
+1999
+July 10, 2002
+October 28, 2002
+2000
+July 10, 2002
+October 28, 2002
+2001
+July 10, 2002
+September 3, 2002
+2002
+April 30, 2003
+April 10, 2003
+2003
+June 2, 2004
+June 17, 2004
+2004
+June 6, 2005
+June 20, 2005
+2005
+June 5, 2006
+June 22, 2006
+2006
+June 11, 2007
+July 6, 2007
+2007
+April 30, 2008
+May 8, 2008
+2008
+December 9, 2009
+January 11, 2010
+2009
+May 12, 2010
+May 20, 2010
+2010
+April 30, 2011
+June 13, 2011
+[17] In the appealed reassessments the Minister added unreported consulting income (1997 - 2001) and alleged unreported imputed income per section 94.1 (1998 - 2010) as follow:[11]
+Taxation Year
+Unreported Income
+Imputed Income under s. 94.1
+Total Additional Income Reassessed
+1997
+$93,046
+-
+$93,046
+1998
+$65,866
+$2,846
+$68,712
+1999
+$80,229
+$3,364
+$85,593
+2000
+$29,405
+$4,062
+$33,467
+2001
+$37,170
+$4,109
+$41,279
+2002
+-
+$2,215
+$2,215
+2003
+-
+$3,255
+$3,255
+2004
+-
+$2,844
+$2,844
+2005
+-
+$3,076
+$3,076
+2006
+-
+$3,754
+$3,754
+2007
+-
+$4,880
+$4,880
+2008
+-
+$3,587
+$3,587
+2009
+-
+$1,326
+$1,326
+2010
+-
+$1,342
+$1,342
+[18] DM, referenced above, owned a tax preparer business in Toronto, operating under the name Universal Income Tax. Throughout the hearing DM was referred to as an accountant. He prepared and filed Ms. Marleau’s T1 returns for, inter alia, her 1997 to 2007 taxation years.
+[19] Over several years DM and Ms. Marleau had developed a personal relationship. In 2006 (five years after Ms. Marleau’s 1997 - 2001 period of consulting income) DM became her common-law spouse. In 2008 DM passed away.
+[20] On September 8, 1997, DM caused incorporation of 1254427 Ontario Inc. He was its sole shareholder. Ms. Marleau testified that this numbered company had been one of several that DM kept on hand for convenience of use in connection with his tax preparer business.
+[21] On June 22, 1999, DM caused this numbered company to be re-named. The new name was “Marlo Communications Agency Inc.” (MCAI).
+[22] DM filed “T2 shorts” for MCAI, which advised the Minister that MCAI had been “inactive” for its taxation years ending August 31, 1998 through to August 31, 2002.[12]
+[23] In this tax context, “inactive” means “no business activity”, thus MCAI reported no taxable income during the six-year period of September 1, 1997 to August 31, 2002.[13] This “inactive” period largely coincided with the appellant’s 1997 - 2001 taxation years of her outside Canada consulting work.
+[24] At all material times DM was MCAI’s sole shareholder.[14]
+[25] Ms. Marleau testified that her understanding was that DM set up MCAI, “[s]o that I could send any money that I was making to the corporation.”[15] As noted below she testified that money sent to MCAI, “was going to be my nest egg”.[16]
+[26] Ms. Marleau also was given to believe that she “owned” MCAI.[17] She said it “came as quite a shock” to only learn years later from then CRA auditor Ms. Muller that Ms. Marleau was not a MCAI shareholder.[18]
+[27] In early 1998 Ms. Marleau first invested some of her consulting income in preferred shares of two offshore funds - the Future Growth Fund Limited and the Future Growth Global Fund Limited (Funds). The Funds were resident in the Cayman Islands, and after 1999 in the British Virgin Islands. They primarily derived value from investments in corporate shares worldwide. The Funds’ earnings were reinvested, rather than distributed to shareholders.
+[28] The Funds were not taxed in their resident jurisdictions.
+[29] Per section 94.1, the appellant’s purchased shares in the Funds constituted “offshore investment fund property”.
+[30] The Minister considered circumstances specified in paragraphs 94.1(1)(c), (d) and (e) and concluded, as per section 94.1, that “one of the main reasons” that the appellant expended assets to acquire her said shares was:
+…to derive a benefit from portfolio investments in assets described in any of the subparagraphs (b)(i) to (ix) in such a manner that the taxes, if any, on the income, profits and shares from such assets, for any particular year are significantly less than the tax that would have been applicable under this Part [of the Act] if the income, profits and gains had been earned directly by the taxpayer, there shall be included in computing the taxpayer’s income for the year the amount, if any, by which… [underlining added]
+[31] The Minister accordingly reassessed the appellant’s 1998 to 2010 taxation years by adding imputed section 94.1 income for each such year.
+[32] The appellant asserts that none of “the main reasons” for her investing in the Funds involved any tax considerations.
+V. Analysis: 1. Does subparagraph 152(4)(a)(i) cause any of the otherwise statute-barred 1997 - 2001 taxation years reassessments to not be statute-barred?
+[33] The 1997 to 2001 taxation years reassessments add unreported consulting income to taxable income. (Of these, the reassessments for 1998 to 2001 taxations years also add section 94.1 imputed income.)
+[34] As stated, each appealed reassessment is statute-barred for having been raised beyond expiry of its normal reassessment period. The respondent asserts that the subparagraph 152(4)(a)(i) exception applies so as to render these reassessments not statute-barred.
+[35] Subsection 152(4)(a)(i) is set out in the Appendix. The subsection 152(4)(a)(i) exception poses the question whether for any of the 1997‑2001 taxation years, did Ms. Marleau (“taxpayer”) or DM (“person filing the return”) “[make] any misrepresentation that is attributable to neglect, carelessness or wilful default…in filing the return”?
+[36] Leading jurisprudence regarding subparagraph 152(4)(a)(i) includes Venne v. R., 1984 CTC 223, stating that negligence is established when a taxpayer has not exercised reasonable care.[19] In determining reasonable care, relevant factors include whether the taxpayer read his/her return before signing it, and whether errors in the return were “sufficiently obvious that a reasonable man of even limited education and experience... should have noticed”.[20]
+[37] As well, in Regina Shoppers Mall Ltd. v. R., (1991), 126 N.R. 141 (FCA) the Federal Court of Appeal (FCA) established that subparagraph 152(4)(a)(i) requires a taxpayer to exercise the care of “a wise and prudent person”. Each taxpayer has a duty to, “thoughtfully, deliberately, and carefully assess the situation” before filing his/her return.[21]
+[38] More recently, the FCA in Yadgar v. R., 2024 FCA 107, considered subparagraph 152(4)(a)(i) in circumstances wherein the taxpayer left to his accountant what was or was not to be included in the return. In its decision the FCA adopted the words of the court below - being the Tax Court, per St-Hilaire J. as she then was:
+The appellant cannot simply throw his hands up and say that he blindly relied on his accountant, and without making any attempt at seeking a better understanding of his obligations, and without making any effort to verify the accuracy of the income reported in his income tax returns.[22] [underlining added]
+[39] Regarding subparagraph 152(4)(a)(i), was there a misrepresentation in the appellant’s returns for each of her 1997‑2001 taxation years? I agree with the respondent that there were such misrepresentations, being non-inclusion in each of those returns of the appellant’s income that she had earned from her self⁠-employment consulting work for each of those five years. The result for each year, with non-inclusion of this income, net of expenses, was a substantial understatement of the appellant’s actual taxable income.
+[40] The question arises whether this income for the appellant’s 1997 through 2001 taxation years would be taxable by the appellant or by MCAI? The appellant said that she expected these amounts to be in either her returns or MCAI’s returns. She also made clear, as did her counsel, that she did not have any significant knowledge respecting taxation, relying instead upon DM - her tax preparer and future common-law spouse.
+[41] Apparently, as arranged by DM, income earned by the appellant through her consulting work was invoiced by MCAI, on the invoices requesting that payment be made by cheque made out to MCAI. Through all this the appellant understood that she “owned” MCAI.
+[42] Note that MCAI was only so named in June 1999. Previously as noted above its name was simply a seven-digit number. There was no reference to the appellant’s consulting income having been invoiced by the originally so-named corporation during the appellant’s 1997, 1998 and first half of 1999 consulting work, prior to introduction of the name MCAI.
+[43] There is no evidence that the appellant resisted this MCAI involvement, resulting in some at least of the appellant’s self-employment earnings being deposited in a MCAI bank account, to which account the appellant had access.
+[44] This in no way establishes MCAI as being liable for taxation of the appellant’s self-styled “self‑employment” consulting earnings. Additionally, as noted, the appellant considered that the MCAI bank account money, “was going to be my nest egg”.[23]
+[45] Nor did the appellant make any submissions that the respondent’s proposed misrepresentation was mistaken insofar as MCAI not the appellant was liable for taxation respecting the subject consulting income - this despite that the appellant had earned this income carrying on her consulting business in her own name for each of the 1997 - 2001 taxation years.
+[46] The appellant’s written argument filed by her counsel states that the appellant was expecting these earnings to be reported in MCAI returns.[24]
+[47] But this statement is at odds with the hearing transcript which reflects on two occasions Ms. Marleau’s testimony that she expected her consulting income to show up either in hers or MCAI’s returns.
+[48] At the hearing, in direct examination referring to amounts the appellant had earned through 2006 offshore consulting (not at issue) and also to amounts she had earned through work for a Toronto collection agency (not at issue), she said MCAI invoiced those earnings.
+[49] She stated: “So I assumed that that income would show up on either my tax return or on Marlo Communications tax return.”[25]
+[50] Subsequently, in cross-examination she was asked and responded as follows:
+Q. Now, you did not know at the time whether the income was reported by either you or Marlow Communications Agency?
+A. No, I did not.
+Q. And you did not seek to confirm whether it was reported?
+A. No, I – like I said, I would ask David, you know, do you have to fax me something? Do I have to sign something? He always said, no, don’t worry about it. It’s fine. So I took him at his word.[26]
+[51] So, Ms. Marleau was clear as to her expectation that her consulting income would be reported in either her returns or the returns of MCAI. However, Ms. Marleau never sought to review her returns (not to mention the returns of MCAI (which she mistakenly thought she owned) to confirm that her taxable consulting income was being reported.
+[52] Plus, DM seems to have had it correctly in the T2 shorts for MCAI that he prepared, in saying that MCAI was “inactive” during, generally, this 1997 - 2001 period, and thus no MCAI tax liability.
+[53] Therefore, there is no basis for the appellant disputing that the income not being reported in her 1997 - 2001 returns was a misrepresentation as per subparagraph 152(4)(a)(i).
+[54] Lastly, albeit at best of minor relevance, MCAI’s actual name – Marlo Communications Agency Inc. - is suggestive of its role as an agent for Ms. Marleau (phonetically “Marlo”) - e.g., akin to a “piggy bank” holding her income for her.
+[55] Next, for subparagraph 152(4)(a)(i) purposes, was this identified misrepresentation attributable to neglect, carelessness or wilful default on the part(s) of the appellant Ms. Marleau and/or tax preparer DM?
+[56] While the appellant states that she has little knowledge re tax and accounting matters and relied particularly on DM for such matters relating to her tax returns, that does not excuse her from failing to seek review any of her five T1s for her 1997, 1998, 1999, 2000 and 2001 taxation years, to ensure they were accurate, as best she could determine. Had she done this it would have been immediately obvious to her that her consulting work income was not being reported in her returns.
+[57] Not only were these returns lacking any mention of her consulting income, they also were only belatedly filed (by DM), on July 10, 2002.[27] Timely enquiries by the appellant presumably would have corrected that as well.
+[58] This is the type of neglect and carelessness that is spoken of in subparagraph 152(4)(a)(i). Note the recent Yadgar decision, cited above, making clear that a taxpayer cannot put blind trust in an accountant and “without making any effort to verify the accuracy of the income reported in his income tax returns”.
+[59] But that is what occurred here, on the part of the appellant taxpayer.
+[60] And turning to DM, obviously he was aware that this income was not being reported at all - having prepared both the appellant’s late-filed 1997 to 2001 T1 returns and MCAI’s “inactive” T2 short returns for its taxation years ending August 31, 1998 to August 31, 2002.
+[61] This shows, both for the appellant (who did not seek to review any of her five returns) and DM (who did not include Ms. Marleau’s 1997 to 2001 consulting taxable income in preparing her T1 returns, nor in the T2 shorts he filed for MCAI) the lack of care “of a wise and prudent person”, for subparagraph 152(4)(a)(i) purposes as required by the FCA in the above-cited Regina Shoppers Mall Ltd.
+[62] DM of course would be, “the person filing the return” referenced in subparagraph 152(4)(a)(i), although he filed very late the appellant’s 1997 to 2001 T1 returns.
+[63] Thus, the subparagraph 152(4)(a)(i) exception applies, thereby excusing the appealed 1997 - 2001 taxation years reassessments as not statute-barred after all and thus at least procedurally valid.
+[64] I conclude also that these reassessments are well-founded substantively, insofar as each in my view rightly adds consulting income to the appellant’s quantum of taxable income misrepresented in the appellant’s 1997 to 2001 T1 returns.
+[65] These added amounts have not themselves been shown as wrong. I am satisfied that both parties have made efforts, in view of the underlying circumstances of undue passage of time plus documentation stolen from the appellant, to accurately ascertain these amounts.
+[66] The appeal of the 1997 taxation year reassessment will be dismissed. And, the appeals of the 1998 - 2001 taxation years reassessments will be finally determined below, after consideration of their inclusion of section 94.1 imputed income. But first I will address the 2002 - 2010 taxation years reassessments.
+2. Does subparagraph 152(4)(a)(i) apply to the 2002 ‑ 2010 taxation years reassessments?
+[67] Each of the 1998 - 2010 taxation years reassessments adds imputed income as per section 94.1 (set out in the Appendix).
+[68] In determining whether the subparagraph 152(4)(a)(i) exception may apply to the 2002 - 2010 taxation years reassessments, which solely reflect section 94.1 imputed income, did the taxpayer (the appellant) or person filing the return (DM for 2002 - 2007, his colleague for 2008 and H&R Block for 2009 - 2010) make any misrepresentation in the appellant’s T1 returns attributable to the appellant’s and/or return filer’s neglect, carelessness or wilful default?
+[69] The respondent asserts that failure to report section 94.1 imputed income is a misrepresentation in each of the said returns.
+[70] Ms. Marleau submits that her monetary assets being taxed significantly less as offshore investment fund property than if directly invested under the Act, was not “a main reason” for her investing in such property.
+[71] She testified that her reasons for investing as she did was that she had heard from a former Bell Canada colleague favourable views about the investment fund manager Mr. Frank Leemhuis. She spoke by telephone with Mr. Leemhuis to discuss her investing with him. She developed trust in him through direct, personal contact, and after discussion with DM decided to invest in the offshore funds that Mr. Leemhuis managed.[28]
+[72] Through the former CRA auditor Ms. Muller, an Ontario Securities Commission “investor questionnaire” that Ms. Marleau had completed in September 2008 was put in evidence.[29]It had to do with Ms. Marleau’s acquisition of the offshore investment fund property (being her offshore preferred shares).
+[73] Ms. Muller drew attention to Ms. Marleau’s answer to one question, it being, what if any questions did Ms. Marleau have for the person selling the preferred shares that she had purchased.
+[74] Ms. Marleau’s written answer is, “can’t recall other than rate of return”.[30]
+[75] Ms. Muller testified that she took from that statement regarding rate of return that Ms. Marleau had had tax savings as “a main purpose” for purchasing shares in these investments. That is, as Ms. Muller put it, “…if you’re not paying tax, your rate of return is going to be a lot higher.”[31]
+[76] Ms. Marleau testified also that she had never seen promotional material regarding the subject offshore funds, including therein any warning of potential tax consequences in country of residence.[32]
+[77] The ministerial assumption pleaded in the Amended Reply (para. 13(uu)) is:
+A main reason why the appellant acquired and held the shares in the Funds was to defer or avoid Canadian income tax on any income, profits, or gains from the assets.
+[78] Pleaded assumptions of fact are presumed true subject to the appellant taxpayer disproving same on a balance of probabilities.
+[79] I do not consider that ministerial assumptions supporting a statute-barred reassessment can be cited to render per subsection 152(4)(a)(i) the reassessment as not being statute-barred. That would be unacceptably circular reasoning.
+[80] However, if the reassessment can otherwise be established per subsection 152(4)(a)(i) as not statute-barred, then ministerial assumptions become available for use in the usual fashion.
+[81] I conclude based on the foregoing that the respondent has not established that a “main reason” for the appellant investing in the offshore investment fund properties was tax avoidance. I do not find it at all sufficient that an expressed desire for “high return” conveys that Ms. Marleau was thinking about tax avoidance.
+[82] Almost certainly every investor, whatever the investment, seeks high returns. But tax avoidance is not a necessary element of high returns. One may well have high returns without tax avoidance. And one may have negative returns despite having tax avoidance.
+[83] Therefore, I do not accept the respondent’s assertion that because she had a question regarding high return, then a “main reason” for Ms. Marleau investing in these offshore funds was tax avoidance. I accept Ms. Marleau’s evidence that what motivated her to purchase these offshore shares was her ex-colleague’s recommendation of the fund manager himself and the appellant’s subsequent telephone contact with him. There is no evidence that she was aware of, let alone particularly motivated by, the potential for tax avoidance. Also, she had consulted DM who, she said, responded positively.
+[84] Thus, the claimed misrepresentation has not been established. In the absence of any misrepresentation, the exception in subparagraph 152(4)(a)(i) does not apply to render the 2002 - 2010 reassessments procedurally valid despite otherwise being statute-barred. Accordingly, the appeal of each of these reassessments, being statute-barred, will be allowed.
+3. 1998-2001 taxation year reassessments, involving unreported section 94.1 imputed income:
+[85] Lastly, I turn to the implied section 94.1 income reflected in the 1998-2001 taxation years reassessments. I have already found these reassessments as not statute-barred (per the subparagraph 152(4)(a)(i) exception, with a misrepresentation in the context of unreported consulting income.)
+[86] Since these 1998 - 2001 reassessments are relieved of being statute-barred, what is left to determine is whether their inclusion also of section 94.1 imputed income also is correct.
+[87] I take note of the Minister’s assumption that “one of the main reasons” the appellant had acquired the offshore investment shares was tax avoidance.
+[88] In my view the evidence as discussed above is sufficient to disprove the above-noted ministerial assumption on a balance of probabilities. Also as noted, the evidence relied on by the respondent was her interest in receiving a high return. There was no mention of tax avoidance per se. The respondent argued that an interest in “high return” is particularly suggestive of tax avoidance. I disagreed, concluded that desiring a “high return” is not particularly suggestive of tax avoidance being a “main reason” for acquiring, as here, the preferred shares in the Funds.
+[89] The appellant testified that she invested based on a former work colleague’s recommendation of the relevant fund manager, with whom the appellant subsequently spoke by telephone - in my view not usually done, and supporting her position that that was her focus in deciding to so invest.
+[90] Ultimately, I find that the aforesaid ministerial assumption does not prevail. It has not been established on a balance of probabilities that tax avoidance was a main reason for the appellant’s investment in the offshore preferred shares.
+[91] Thus, I conclude that for the 1998 - 2001 reassessments the inclusion of implied income as per section 94.1 is incorrect. Thus, the appeals of these four reassessments will be allowed, only to the extent of finding the imputed section 94.1 income invalid. That is, those four reassessments are valid only with respect to inclusion of unreported consulting income.
+VI. Conclusion: [92] In conclusion the appeal of the reassessment for the 1997 taxation year will be dismissed; and the appeals of the 1998 to 2001 taxation years will be allowed to the extent of deleting the section 94.1 implied income; and the appeals for the 2002 to 2010 taxation years will be allowed; the whole without costs due to divided success.
+Signed this 29th day of January 2026.
+“B. Russell”
+Russell J.
+Appendix
+Subparagraph 152(4)(a)(i):
+152(4) Assessment and reassessment [limitation period] The Minister may at any time make an assessment, reassessment or additional assessment of tax for a taxation year, interest, or penalties, if any, payable under this Part by a taxpayer…except that an assessment, reassessment or additional assessment may be made after the taxpayer’s normal reassessment period in respect of the year only if
+(a) [carelessness, fraud or waiver] - the taxpayer or person filing the return (i) has made any misrepresentation that is attributable to neglect, carelessness or wilful default, or has committed any fraud in filing the return or in supplying any information under this Act… [underlining added]
+Section 94.1:
+94.1(1) Offshore investment fund property – If in a taxation year a taxpayer holds or has an interest in property (referred to in this section as an “offshore investment fund property”)
+(a) that is a share of the capital stock of, an interest in, or a debt of, a non-resident entity (other than a controlled foreign affiliate of the taxpayer or a prescribed non-resident entity) or an interest in or a right or option to acquire such as share, interest or debt, and
+(b) that may reasonably be considered to derive its value, directly or indirectly, primarily from portfolio investments of that or any other non-resident entity in
+(i) shares of the capital stock of one or more corporations,
+(ii) indebtedness or annuities,
+(iii) interest in one or more corporations, trusts, partnerships, organizations, funds, or entities,
+(iv) commodities,
+(v) real estate,
+(vi) Canadian or foreign resource properties,
+(vii) currency of a country other than Canada,
+(viii) rights or options to acquire or dispose of any of the foregoing, or
+(ix) any combination of the foregoing,
+[14] and it may reasonably be concluded, having regard to all the circumstances, including
+(c) the nature, organization and operation of any non-resident entity and the form of, and the terms and conditions governing, the taxpayer’s interest in, or connection with, any non-resident entity,
+(d) the extent to which any income, profits and gains that may reasonably be considered to be earned or accrued, whether directly or indirectly, for the benefit of any non-resident entity are subject to an income or profits tax that is significantly less than the income tax that would be applicable to such income, profits, and gains if they were earned directly by the taxpayer, and
+(e) the extent to which the income, profits and gains of any non-resident entity for any fiscal period are distributed in that or the immediately following fiscal period,
+that one of the main reasons for the taxpayer acquiring, holding or having the interest in such property was to derive a benefit from portfolio investments in assets described in any of subparagraphs (b)(i) to (ix) in such a manner that the taxes, if any, on the income, profits and gains from such assets for any particular year are significantly less than the tax that would have been applicable under this Part if the income, profits and gains had been earned directly by the taxpayer, there shall be included in computing the taxpayer’s income for the year the amount, if any, by which
+(f) the total of all amounts each of which is the product obtained when…
+exceeds
+(g) the taxpayer’s income for the year (other than a capital gain) from the offshore investment fund property, determined without reference to the subsection.
+CITATION:
+2026 TCC 22
+COURT FILE NO.:
+2018-4166(IT)G
+STYLE OF CAUSE:
+BARBARA MARLEAU AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Windsor, Ontario
+DATE OF HEARING:
+January 17, 2024
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Bruce Russell
+DATE OF JUDGMENT:
+January 29, 2026
+APPEARANCES:
+Counsel for the Appellant:
+Roland Schwalm
+Counsel for the Respondent:
+Cédric Renaud-Lafrance
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Roland Schwalm
+Firm:
+Barrister and Solicitor
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] Unless otherwise stated, each referenced statutory provision is a provision of the Act.
+[2] Appellant’s written argument, para. 2
+[3] Ibid., para. 3
+[4] Respondent’s written submissions, paras. 34-37
+[5] Ibid., paras. 48-51
+[6] Ex. A-11 - letter dated Oct. 15, 2014
+[7] Statement of Agreed Facts, paras. 3, 4
+[8] Transcript, p. 75
+[9] Statement of Agreed Facts, para. 10
+[10] Ibid., para. 11
+[11] Ibid., para. 12
+[12] Ibid., para. 16
+[13] Transcript, Ms. Muller testimony, p.197
+[14] Statement of Agreed Facts, para. 17
+[15] Transcript, Ms. Marleau, p. 22
+[16] Ibid., p. 58
+[17] Ibid., p. 56
+[18]Ibid.
+[19] Venne v. R., 1984 CTC 223, pg. 228
+[20] Ibid., pg. 229; Gorev v. R., 2017 TCC 85, para. 52
+[21] Regina Shoppers Mall v. Canada, [1991] 1 CTC (FCA), pp. 302, 299
+[22] M. Yadgar v. R., 2023 TCC 104 at para. 35; 2024 FCA 107 at para. 6
+[23] Transcript, p. 58
+[24] Appellant’s written argument, para. 94
+[25] Transcript, p. 46
+[26] Transcript, p. 75
+[27] Exhibits A-6 and R-13
+[28] Transcript, pp. 113-116
+[29] Exhibit R-1, tabs 1 & 14, item 4(f)
+[30] Ibid., item 4(f)
+[31] Transcript, p, 208
+[32] Ibid., pp. 112-116

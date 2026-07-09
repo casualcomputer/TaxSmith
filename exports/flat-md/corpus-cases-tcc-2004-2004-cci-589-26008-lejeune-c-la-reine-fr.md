@@ -1,0 +1,182 @@
+---
+title: "Lejeune c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26008/index.do"
+last_modified: "2004-09-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 589"
+citation2: ""
+neutral_citation: "2004 CCI 589"
+decision_date: "2004-09-01"
+language: "fr"
+item_id: "26008"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3741
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:06:16.596000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4617101542fa317eb9b542ca0dda96bff68c7db0db4fe163d650a365ce49907c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lejeune c. La Reine
+
+- Citation: 2004 CCI 589
+- Decision date: 2004-09-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3741, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lejeune c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-09-01
+Référence neutre
+2004 CCI 589
+Numéro de dossier
+2003-3903(IT)I
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-3903(IT)I
+ENTRE :
+HERVE LEJEUNE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu à Winnipeg (Manitoba), le 23 juillet 2004.
+Devant : L’honorable L.M. Little
+Comparutions :
+Représentant de l’appelant :
+M. Chris Filopoulos
+Avocat de l’intimée :
+Me Derwin Petrie
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2001 est admis, sans qu’aucuns dépens ne soient adjugés, et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation selon les motifs de jugement ci‑joints.
+Signé à Vancouver (Colombie-Britannique), ce 1er jour de septembre 2004.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 1er jour d’avril 2005.
+Jacques Deschênes, traducteur
+Référence : 2004CCI589
+Date : 20040901
+Dossier : 2003-3903(IT)I
+ENTRE :
+HERVE LEJEUNE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Little
+A. Exposé des faits
+[1] En 1998, l’épouse de l’appelant a contracté une méningite.
+[2] L’épouse de l’appelant a été hospitalisée par suite de la méningite; elle a maintenant un handicap moteur grave et prolongé et doit se déplacer en fauteuil roulant.
+[3] L’appelant n’a pas pu obtenir de services de soins à domicile du gouvernement du Manitoba pour son épouse.
+[4] L’appelant s’est rendu compte qu’afin de fournir des soins à son épouse 24 heures sur 24, il serait obligé de rénover sa maison, de façon à pouvoir loger sa belle‑mère au sous‑sol et à installer une chambre au rez‑de‑chaussée pour son épouse.
+[5] L’appelant a dépensé une somme de 10 531,62 $ en vue de rénover la maison pour répondre aux besoins de son épouse.
+[6] Dans l’année d’imposition 2001, l’appelant a également engagé les dépenses suivantes :
+Transport de l’épouse chez le médecin 688,00 $
+Physiothérapie 252,00 $
+[7] En produisant sa déclaration de revenu pour l’année d’imposition 2001, l’appelant a déduit les frais médicaux ci‑après énumérés :
+Physiothérapie 252,00 $
+Transport jusqu’au cabinet du médecin 688,10 $
+Rénovation de la maison à l’intention de l’épouse 10 531,62 $
+Total 11 471,72 $
+[8] Le ministre du Revenu national (le « ministre ») a établi une nouvelle cotisation à l’égard de l’année d’imposition 2001 de l’appelant; il a admis les éléments suivants :
+1. Coût de deux rampes d’accès pour fauteuil roulant
+(toutes les autres dépenses liées à la rénovation ont été
+refusées) 160,50 $
+2. Physiothérapie 252,00 $
+Les frais de déplacement pour les rendez-vous
+chez le médecin ont été refusés.
+B. Point litigieux
+[9] Il s’agit de savoir si l’appelant a le droit de déduire des frais médicaux en sus du montant admis par le ministre.
+C. Analyse et décision
+[10] Dans son témoignage, l’appelant a fait les remarques suivantes :
+[TRADUCTION]
+1. Ma femme était paralysée à la suite d’une méningite et elle avait besoin de la présence d’un préposé, d’un infirmier ou d’une infirmière à plein temps;
+2. Ma femme n’était pas capable d’accomplir les tâches de la vie quotidienne;
+3. À ce moment‑là, on n’était pas prêt à nous fournir de l’aide dans le cadre du programme des soins à domicile;
+4. La mère de ma femme était prête à s’installer chez nous et à prendre soin à plein temps de ma femme;
+5. Afin de loger ma belle‑mère, j’ai installé une chambre à coucher et une salle de bains au sous‑sol de la maison;
+6. Afin de répondre aux besoins de ma femme, j’ai installé une chambre à coucher et une salle de bains à son intention;
+7. J’ai fondamentalement effectué ces changements en vue de permettre à ma femme de continuer à vivre à la maison. Si ces travaux n’avaient pas été exécutés, il aurait fallu placer ma femme dans un établissement.
+[11] Dans une lettre en date du 15 novembre 2001, le médecin de l’appelant, le docteur T. St. Vincent, a déclaré ce qui suit :
+[TRADUCTION]
+Objet : Joan Lejeune
+À qui de droit
+La présente vise à vous aviser que la patiente susmentionnée a une déficience attribuable à une poussée de méningite et qu’elle a besoin de soins 24 heures sur 24. Elle ne peut se déplacer qu’en fauteuil roulant.
+(Voir la pièce A‑1.)
+[12] Un certificat pour le crédit d’impôt pour personnes handicapées a été présenté à l’égard de l’épouse de l’appelant. (Voir la pièce A‑2.)
+[13] Le certificat établit que l’épouse de l’appelant doit se déplacer en fauteuil roulant et qu’elle dépend d’autrui pour ses soins, et ce, 24 heures sur 24. Le certificat établit également que l’épouse de l’appelant a un handicap moteur grave et prolongé.
+[14] Il ressort de l’analyse des remarques précitées qu’étant donné que l’appelant a exécuté les travaux de rénovation afin de répondre aux besoins de son épouse et de loger sa belle‑mère, l’épouse a pu rester à la maison avec la famille. En outre, même si la femme de l’appelant devait se déplacer en fauteuil roulant, la belle‑mère prodiguait tous les soins nécessaires.
+[15] À mon avis, les travaux que l’appelant a exécutés chez lui ont permis à sa femme d’accomplir les tâches de la vie quotidienne à la maison.
+[16] Dans l’arrêt Gibson v. The Queen, [2002] 1 C.T.C. 147, la Cour d’appel fédérale examinait une décision de la Cour de l’impôt rendue par le juge Mogan. (Voir Gibson v. The Queen, [2001] 1 C.T.C. 2054.) Le juge Mogan avait admis l’appel interjeté par le contribuable et avait statué que les frais de rénovation de l’habitation destinés à permettre l’installation d’une cuve thermale devaient être admis.
+[17] En examinant la demande de contrôle judiciaire, le juge Rothstein, de la Cour d’appel fédérale, a dit ce qui suit à la page 148 :
+Dans ses motifs de décision, le juge de la Cour de l’impôt a fait ressortir les difficultés qu’a éprouvé la défenderesse en s’acquittant de ses fonctions d’enseignante. La façon dont le juge de la Cour de l’impôt a mentionné cette question a amené la demanderesse à prétendre que celui‑ci n’interprétait pas correctement l’alinéa 118.2(2)(1.2). Nous sommes d’accord avec la demanderesse pour dire que l’octroi d’un crédit d’impôt en vertu de l’alinéa 118.2(2)(1.2) ne dépend pas de la difficulté d’une personne à travailler, mais plutôt de sa capacité de se déplacer dans son habitation et d’y accomplir les tâches de la vie quotidienne. Cependant, nous sommes convaincus que le juge de la Cour de l’impôt était saisi d’éléments de preuve selon lesquels la défenderesse avait un handicap moteur grave et prolongé et que les transformations apportées à son habitation lui ont permis d’y accomplir les tâches de la vie quotidienne.
+La demande de contrôle judiciaire sera rejetée.
+[18] Compte tenu de la décision rendue par le juge Rothstein dans l’affaire Gibson et de la preuve qui m’a été soumise, j’ai conclu que l’épouse de l’appelant avait un handicap moteur grave et prolongé et que les transformations apportées à la maison de l’appelant permettaient à l’épouse d’accomplir les tâches de la vie quotidienne dans la maison familiale.
+[19] Je ne suis pas convaincue que l’appelant puisse déduire les frais de déplacement, d’un montant de 688 $.
+[20] L’appel est admis, de façon que l’appelant puisse déduire les frais de rénovation, d’un montant de 10 531,62 $.
+Signé à Vancouver (Colombie-Britannique), ce 1er jour de septembre 2004.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 1er jour d’avril 2005.
+Jacques Deschênes, traducteur
+RÉFÉRENCE :
+2004CCI589
+No DU DOSSIER DE LA COUR :
+2003-3903(IT)I
+INTITULÉ :
+Herve Lejeune et
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Winnipeg (Manitoba)
+DATE DE L’AUDIENCE :
+Le 23 juillet 2004
+MOTIFS DU JUGEMENT :
+L’honorable L.M. Little
+DATE DU JUGEMENT :
+Le 1er septembre 2004
+COMPARUTIONS :
+Représentant de l’appelant :
+M. Chris Filopoulos
+Avocat de l’intimée :
+Me Derwin Petrie
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

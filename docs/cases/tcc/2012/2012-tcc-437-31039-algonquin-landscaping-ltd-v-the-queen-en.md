@@ -1,0 +1,180 @@
+---
+title: "Algonquin Landscaping Ltd. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31039/index.do"
+last_modified: "2012-12-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 437"
+citation2: ""
+neutral_citation: "2012 TCC 437"
+decision_date: "2012-12-13"
+language: "en"
+item_id: "31039"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4862
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:00:13.779000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "147cd67a8da43dbb8790aea9ba7f2cfb1587d6c96af60a015a0f897ee9c327f8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Algonquin Landscaping Ltd. v. The Queen
+
+- Citation: 2012 TCC 437
+- Decision date: 2012-12-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4862, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Algonquin Landscaping Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-12-13
+Neutral citation
+2012 TCC 437
+File numbers
+2011-2552(IT)APP
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 2011-2552(IT)APP
+2011-2553(GST)APP
+BETWEEN:
+ALGONQUIN LANDSCAPING LTD.,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application heard on February 7 and December 10, 2012
+at Ottawa, Ontario
+By: The Honourable Justice J.M. Woods
+Appearances:
+Agent for the Applicant:
+Jeremy Lenser
+Counsel for the Respondent:
+Christopher Kitchen
+____________________________________________________________________
+ORDER
+UPON application for an extension of time to institute appeals with respect to assessments made under the Income Tax Act and the Excise Tax Act,
+IT IS ORDERED THAT:
+(a) the application is dismissed with respect to assessments made under the Income Tax Act for the 2002, 2004 and 2005 taxation years,
+(b) the application is granted with respect to an assessment made under the Income Tax Act for the 2003 taxation year, and the time within which an appeal may be instituted is extended to February 15, 2013 provided that a valid notice of appeal is received by that date,
+(c) the application is dismissed with respect to assessments made under the Excise Tax Act for reporting periods in 2004,
+(d) the application is dismissed with respect to assessments made under the Excise Tax Act for reporting periods in 2003 because the applicant is not out of time to institute an appeal,
+(e) the application is granted with respect to assessments made under the Excise Tax Act for reporting periods from April 1, 2002 to December 31, 2002, and the time within which an appeal may be instituted is extended to February 15, 2013 provided that a valid notice of appeal is received by that date, and
+(f) the parties shall bear their own costs in respect of this application.
+Signed at Ottawa, Ontario this 13th day of December 2012.
+“J. M. Woods”
+Woods J.
+Citation: 2012 TCC 437
+Date: 20121213
+Dockets: 2011-2552(IT)APP
+2011-2553(GST)APP
+BETWEEN:
+ALGONQUIN LANDSCAPING LTD.,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Woods J.
+[1] Algonquin Landscaping Ltd. has applied for extensions of time to institute appeals with respect to assessments made under the Income Tax Act for the 2002, 2003, 2004 and 2005 taxation years and with respect to GST assessments made under the Excise Tax Act for quarterly reporting periods between April 1, 2002 and December 31, 2004, inclusive.
+[2] Algonquin was represented at the hearing by its shareholder, Jeremy Lenser.
+[3] By way of background, an audit by the Canada Revenue Agency was commenced in 2006 relating to GST for Algonquin and income tax for Algonquin and Mr. Lenser. The audit resulted in assessments for which notices of objection were duly filed.
+[4] Mr. Lenser stated that collection action was taken with respect to the assessments. This included placing liens on two properties, freezing bank accounts, and issuing requirements to pay to customers of the landscaping business. Mr. Lenser said that the business then deteriorated from having 10 employees to none.
+[5] As a result of the objections, reassessments were issued in April 2009 which reduced the assessments substantially. For example, the income tax assessments issued to Algonquin for the 2002, 2003 and 2004 taxation years were reduced from $184,577 to $4,875. The GST assessments were reduced from $89,170 to $37,922. (Affidavits of Jina Choi, Ex. J for income tax and Ex. P for GST.)
+[6] This application by Algonquin is for an extension of time to institute appeals with respect to the subsequent income tax and GST reassessments. A related application by Mr. Lenser was resolved on consent.
+[7] At the outset, I would comment that it is clear from the evidence that Mr. Lenser has had difficulty in complying with the correct procedures to file objections and appeals in relation to assessments. It appears, though, that he always intended to keep Algonquin’s appeal rights open.
+Partial consent
+[8] At the commencement of the hearing, both parties made concessions.
+[9] As for the respondent, it has consented to an application being granted with respect to the income tax assessment for the 2003 taxation year. This application will be granted on condition that a valid notice of appeal is filed.
+[10] As for Algonquin, it withdrew its application with respect to income tax assessments for the 2004 and 2005 taxation years and with respect to GST assessments for quarterly reporting periods in 2004. Therefore, the application with respect to these assessments will be dismissed.
+[11] The assessments that remain to be considered are the income tax assessment for the 2002 taxation year and GST assessments for quarterly reporting periods in 2002 and 2003. These assessments were all issued in April 2009.
+2002 income tax assessment
+[12] The application with respect to the income tax assessment for the 2002 taxation year should be dismissed because this assessment is a so-called nil assessment.
+[13] The assessment reduced federal tax to zero. There is no relief that this Court can give in these circumstances and therefore the application should be dismissed on the ground that there is no reasonable grounds for appeal. The applicable principle is well-established in the case law: The Queen v Interior Savings Credit Union, 2007 FCA 151.
+[14] Mr. Lenser expressed concern about keeping this year open so that losses could be carried forward to future years.
+[15] Whether the 2002 taxation year is kept open or not in this application does not affect the carryover of losses. The usual course of action to deal with loss carryovers is to have them determined in the taxation year in which the losses are being applied to reduce tax, or to formally request that the Minister make a notice of determination of loss.
+[16] I would also note that counsel for the respondent tried to provide some assistance to Algonquin at the hearing by suggesting that Mr. Lenser deal with the carryover situation quickly because the ten year carryover period has almost expired.
+GST assessments
+[17] The quarterly reporting periods that are at issue for the GST assessments are from April 1, 2002 to December 31, 2003. A notice of assessment that includes these periods was mailed on April 3, 2009.
+[18] It is the position of the respondent that Algonquin is out of time to apply for an extension of time for the GST assessments. The respondent submits that the time limit expired on July 2, 2010 and that the application to extend time was not sent until October 12, 2010.
+[19] In response to the respondent’s submission, Mr. Lenser stated that he had other correspondence with the Canada Revenue Agency that would support his claim of filing on time and he asked for an adjournment to locate these documents. The adjournment was granted on February 7, 2012, and a second adjournment was granted on October 22, 2012 because Mr. Lenser had not yet received documents that he had requested pursuant to an access to information request.
+[20] The hearing finally reconvened on December 10, 2012, at which time Mr. Lenser introduced two documents in support of his claim, one dealing with the year 2002 and the other dealing with 2003. Mr. Lenser provided advance notice of these documents to counsel for the respondent by letter dated October 30, 2012. The letter and the documents were entered into evidence as Exhibit A-7.
+[21] The document that relates to 2002 is a letter by Algonquin that was sent to the Canada Revenue Agency requesting an extension “to file our appeal regarding tax year 2002.”
+[22] The letter is dated April 26, 2010, which is before the deadline for applying for an extension which was July 2, 2010. In my view, the letter should be accepted as a valid application to extend time to institute an appeal to this Court with respect to GST assessments for reporting periods in 2002.
+[23] The letter has some deficiencies, but they are not fatal ones.
+[24] For example, the letter was addressed and sent to the Canada Revenue Agency instead of the Court. The Agency routinely remedies this kind of problem by forwarding such letters to the Court, as indeed the Agency did with the out‑of‑time letter dated October 12, 2012.
+[25] Another deficiency is that the letter does not state which assessments are at issue. This is also not fatal. The evidence as a whole supports Mr. Lenser’s submission that he routinely filed correspondence that was intended to apply to all of ongoing matters. It makes sense that the letter be interpreted in this manner.
+[26] It is appropriate in the circumstances to give a generous interpretation to the letter. I accept that it is an application to extend time for the GST assessments for reporting periods in 2002.
+[27] I turn now to the second document which relates to 2003. It is not a letter sent by Algonquin, but a letter sent by the Canada Revenue Agency acknowledging receipt of a notice of objection by Algonquin. The heading at the top of the letter refers to the 2003 taxation year. There is no reference to income tax or GST on the first page of the letter, which is the only page that was provided. There is a reference to Algonquin’s income tax number, but this number was referred to in other correspondence by the CRA dealing with both GST and income tax.
+[28] The letter is dated August 28, 2009, which is shortly after both income tax and GST assessments were issued in April 2009.
+[29] Mr. Lenser submits that this letter is evidence that Algonquin appealed the GST assessments for reporting periods in 2003.
+[30] The CRA letter is certainly evidence that some form of objection or appeal filed was filed by Algonquin for the year 2003. According to the respondent, the CRA considered Algonquin to have filed an objection to the income tax assessment for 2003. The respondent introduced the subsequent notice of confirmation of that assessment.
+[31] Algonquin’s objection or appeal letter was not entered into evidence. Mr. Lenser indicated that he could not find it and the access to information request did not turn it up.
+[32] In this circumstance, it is appropriate to make an inference about the letter. The central question is whether it dealt with both GST and income tax or only income tax.
+[33] It seems likely that Algonquin sent the letter within 90 days after receiving assessments for both income tax and GST. The assessments were all issued in April 2009. It seems to me that this is strong evidence that Algonquin intended to object or appeal all of the assessments issued in respect of 2003.
+[34] Further, it would not be surprising if Algonquin’s letter did not refer to either income tax or GST. The correspondence that Algonquin typically sent to the CRA was vague.
+[35] Considering all the circumstances, it is appropriate to give the benefit of the doubt to Algonquin. This will enable it to have its appeal dealt with on the merits. I would also note that Mr. Lenser gave the respondent advance notice of Algonquin’s position on this letter. It was open to the respondent to introduce the actual notice of objection in support of its position.
+[36] I would conclude that Algonquin filed a notice of objection to the GST assessments for reporting periods in 2003 and that this objection was filed on time. The Minister has not responded to this objection.
+[37] Where does that leave us? Since the Minister has not responded to the objection, Algonquin is still in time to institute an appeal to this Court. The applicable provision of the Excise Tax Act is reproduced below.
+306. Appeal - A person who has filed a notice of objection to an assessment under this Subdivision may appeal to the Tax Court to have the assessment vacated or a reassessment made after either
+(a) the Minister has confirmed the assessment or has reassessed, or
+(b) one hundred and eighty days have elapsed after the filing of the notice of objection and the Minister has not notified the person that the Minister has vacated or confirmed the assessment or has reassessed,
+but no appeal under this section may be instituted after the expiration of ninety days after the day notice is sent to the person under section 301 that the Minister has confirmed the assessment or has reassessed.
+[38] Since Algonquin is not out of time to institute an appeal, no extension of time is required and therefore the application to extend time will be dismissed as not being necessary. Algonquin may now file a notice of appeal with this Court in respect of quarterly GST reporting periods in 2003.
+Conclusion
+[39] In light of the findings above,
+(a) the application will be dismissed with respect to assessments made under the Income Tax Act for the 2002, 2004 and 2005 taxation years,
+(b) the application will be granted with respect to an assessment made under the Income Tax Act for the 2003 taxation year, and the time within which an appeal may be instituted will be extended to February 15, 2013 provided that a valid notice of appeal is received by that date,
+(c) the application will be dismissed with respect to assessments made under the Excise Tax Act for reporting periods in 2004,
+(d) the application will be dismissed with respect to assessments made under the Excise Tax Act for reporting periods in 2003 because Algonquin is not out of time to institute an appeal, and
+(e) the application will be granted with respect to assessments made under the Excise Tax Act for reporting periods from April 1, 2002 to December 31, 2002, and the time within which an appeal may be instituted will be extended to February 15, 2013 provided that a valid notice of appeal is received by that date.
+[40] The notices of appeal that are filed pursuant to this Order should indicate whether Algonquin elects to have the appeal governed by the Court’s informal procedure. The election could be made for the 2003 income tax appeal if the amount at issue is below $12,000. It can be made for the GST appeal regardless of the amounts at issue.
+[41] It is appropriate that each party bear their own costs in respect of this application.
+Signed at Ottawa, Ontario this 13th day of December 2012.
+“J. M. Woods”
+Woods J.
+CITATION: 2012 TCC 437
+COURT FILE NOS.: 2011-2552(IT)APP and
+2011-2553(GST)APP
+STYLE OF CAUSE: ALGONQUIN LANDSCAPING LTD. and HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Ontario
+DATES OF HEARING: February 7 and December 10, 2012
+REASONS FOR ORDER BY: The Honourable Justice J.M. Woods
+DATE OF ORDER: December 13, 2012
+APPEARANCES:
+Agent for the Applicant:
+Jeremy Lenser
+Counsel for the Respondent:
+Christopher Kitchen
+COUNSEL OF RECORD:
+For the Applicant:
+Name: n/a
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Ontario

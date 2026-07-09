@@ -1,0 +1,214 @@
+---
+title: "Polsinelli c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26277/index.do"
+last_modified: "2004-10-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 720"
+citation2: ""
+neutral_citation: "2004 CCI 720"
+decision_date: "2004-10-25"
+language: "fr"
+item_id: "26277"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4008
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:54:04.677000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1efac52895dff0fcc2034db82b4821161b10ef0cbdcc67b49587d60c2d03230a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Polsinelli c. La Reine
+
+- Citation: 2004 CCI 720
+- Decision date: 2004-10-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4008, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Polsinelli c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-10-25
+Référence neutre
+2004 CCI 720
+Numéro de dossier
+2000-5089(GST)G
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2000-5089(GST)G
+ENTRE :
+VINCENZO POLSINELLI,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Devant : L’honorable G. Sheridan
+Avocat du requérant :
+Me Domenic Marciano
+Avocat de l’intimée :
+Me Jason J. Wakely
+____________________________________________________________________
+ORDONNANCE RELATIVE AUX DÉPENS
+Le requérant ayant présenté une requête en vue d’obtenir, conformément à l’article 147 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles »), une ordonnance lui adjugeant des dépens en sus de ceux auxquels il a droit en vertu du tarif B (le « tarif ») de l’annexe II des Règles;
+Le requérant ayant demandé à la Cour de trancher la présente requête sur la base des observations écrites des avocats;
+L’intimée s’étant opposée à cette demande;
+Les observations écrites des deux parties ayant été lues;
+Il est ordonné que la requête du requérant soit rejetée conformément aux motifs d’ordonnance ci‑joints et que l’officier taxateur adjuge les dépens conformément au tarif B de l’annexe II.
+Chaque partie supportera ses propres frais et dépens à l’égard de la présente requête.
+Signé à Ottawa, Canada, ce 25e jour d’octobre 2004.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 23e jour de juin 2005.
+Sara Tasset
+Dossier : 2000-5087(GST)G
+ENTRE :
+ENZO POLSINELLI,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Devant : L’honorable G. Sheridan
+Avocat du requérant :
+Me Domenic Marciano
+Avocat de l’intimée :
+Me Jason J. Wakely
+____________________________________________________________________
+ORDONNANCE RELATIVE AUX DÉPENS
+Le requérant ayant présenté une requête en vue d’obtenir, conformément à l’article 147 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles »), une ordonnance lui adjugeant des dépens en sus de ceux auxquels il a droit en vertu du tarif B (le « tarif ») de l’annexe II des Règles;
+Le requérant ayant demandé à la Cour de trancher la présente requête sur la base des observations écrites des avocats;
+L’intimée s’étant opposée à cette demande;
+Les observations écrites des deux parties ayant été lues;
+Il est ordonné que la requête du requérant soit rejetée conformément aux motifs d’ordonnance ci‑joints et que l’officier taxateur adjuge les dépens conformément au tarif B de l’annexe II.
+Chaque partie supportera ses propres frais et dépens à l’égard de la présente requête.
+Signé à Ottawa, Canada, ce 25e jour d’octobre 2004.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 23e jour de juin 2005.
+Sara Tasset.
+Référence : 2004CCI720
+Date : 20041025
+Dossier : 2000-5089(GST)G
+ENTRE :
+VINCENZO POLSINELLI,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Dossier : 2000-5087(GST)G
+ET ENTRE :
+ENZO POLSINELLI,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE RELATIVE AUX DÉPENS
+La juge Sheridan
+[1] Les requérants Vincenzo Polsinelli (2000‑5089(GST)G) et Enzo Polsinelli (2000‑5087(GST)G) sollicitent chacun, conformément au paragraphe 147(7) des Règles de la Cour canadienne de l’impôt (procédure générale), une ordonnance leur adjugeant des dépens en sus de ceux qui sont prévus au tarif B de l’annexe II des Règles de la Cour canadienne de l’impôt. Dans des jugements datés du 8 avril 2004, j’ai accueilli avec dépens les appels interjetés par les requérants pour le motif que ces derniers avaient fait preuve d’une diligence raisonnable au sens du paragraphe 323(3) de la Loi sur la taxe d’accise et qu’ils n’étaient donc pas redevables de la TPS non versée par la personne morale dont ils étaient administrateurs.
+[2] Les requérants sollicitent :
+a) une ordonnance (i) en vue d’autoriser les avocats à soumettre des observations orales ou écrites à la Cour à l’égard de la question des dépens, et (ii) en vue de faire fixer par la Cour les dépens en conséquence;
+b) subsidiairement, une ordonnance prévoyant la taxation des dépens par un officier taxateur et enjoignant ledit officier taxateur d’adjuger les dépens conformément au tarif B de l’annexe II jusqu’à la date de la première offre écrite de règlement présentée par les requérants et d’adjuger ensuite les dépens sur une base procureur‑client, sans tenir compte du tarif B de l’annexe II, ou donnant par ailleurs audit officier taxateur toute autre directive que la Cour estime appropriée.
+[3] L’avocat de l’intimée prend la position selon laquelle les demandes des requérants devraient être rejetées, une directive étant donnée à cet égard à l’officier taxateur :
+a) pour que les dépens [d’Enzo Polsinelli] soient fixés conformément au tarif B, catégorie C de l’annexe II, des Règles de la Cour canadienne de l’impôt (procédure générale); et
+b) pour que les dépens [de Vincenzo Polsinelli] soient fixés conformément au tarif, catégorie A, les frais relatifs à la conférence préparatoire à l’audience, à l’audience sur l’état de l’instance, à la préparation de l’audience et à la conduite de l’audience étant éliminés.
+[4] En ce qui concerne la demande que les requérants ont faite pour que les dépens soient adjugés sur une base procureur‑client, la jurisprudence établit clairement que pareils dépens sont « exceptionnels et ne doivent être accordés qu’en raison d’une faute reliée au litige » [1]. La conduite de l’intimée ne peut tout simplement pas être à proprement parler qualifiée de « répréhensible, scandaleuse ou outrageante », de façon à justifier pareille adjudication.
+[5] En décidant si les requérants doivent se voir adjuger des dépens entre parties en sus de ceux qui sont prévus au tarif, la Cour doit tenir compte des critères énoncés au paragraphe 147(3) des Règles, à savoir :
+a) du résultat de l’instance;
+b) des sommes en cause;
+c) de l’importance des questions en litige;
+d) de toute offre de règlement présentée par écrit;
+e) de la charge de travail;
+f) de la complexité des questions en litige;
+g) de la conduite d’une partie qui aurait abrégé ou prolongé inutilement la durée de l’instance;
+h) de la dénégation d’un fait par une partie ou de sa négligence ou de son refus de l’admettre, lorsque ce fait aurait dû être admis;
+i) de la question de savoir si une étape de l’instance,
+(i) était inappropriée, vexatoire ou inutile,
+(ii) a été accomplie de manière négligente, par erreur ou avec trop de circonspection;
+j) de toute autre question pouvant influer sur la détermination des dépens.
+[6] L’application des critères à l’affaire qui nous occupe indique que, quant au résultat de l’instance, les requérants ont eu gain de cause dans leurs appels. Les montants en litige étaient élevés pour les requérants personnellement, mais dans un contexte plus général, ils n’étaient pas exorbitants. De même, les questions en litige étaient importantes pour les requérants, mais elles n’ouvraient pas la voie à un problème juridique inexploré. De même, la « charge de travail » et la « complexité des questions en litige » ne justifient pas la majoration des dépens. Quant aux offres de règlement présentées par les requérants, je souscris à la décision Miller c. Canada[2] dans laquelle ma collègue la juge Lamarre a statué que l’analyse effectuée dans le jugement Lyons c. Canada[3] s’appliquait avec autant de vigueur à l’adjudication de dépens supérieurs à ceux prévus au tarif :
+[...]
+[10] Les requérants ont insisté sur l'alinéa 147(3)d) des Règles. Il porte que, en exerçant sa discrétion à l'égard de l'adjudication des dépens conformément au paragraphe 147(1), la Cour peut tenir compte de toute offre de règlement présentée par écrit. Le verbe "pouvoir" indique l'octroi de pouvoirs, de droits, d'autorisations ou de facultés : paragraphes 2(1) et 3(1) et article 11 de la Loi d'interprétation. Je ne peux interpréter le paragraphe auquel il est fait référence comme enjoignant à la Cour d'adjuger les dépens procureur-client à compter de la date du refus lorsqu'une offre de règlement écrite est refusée et que celui qui l'a faite obtient un jugement plus favorable que les conditions de l'offre. Voilà l'essence de l'argument des appelants et la teneur de celui‑ci est que la règle 49.10 des Règles de procédure civile de l'Ontario doit être considérée comme étant intégrée aux Règles. Dans sa plaidoirie, l'avocat des requérants a cité la règle 49.10 ainsi que la jurisprudence y afférente. Cette règle se lit comme suit :
+49.10(1)
+0(1)
+Si une offre de transaction :
+a)
+est présentée par un demandeur au moins sept jours avant le début de l'audience;
+b)
+n'est pas retirée et n'expire pas avant le début de l'audience;
+c)
+n'est pas acceptée par le défendeur,
+et que le demandeur obtient un jugement aussi favorable, ou plus favorable, que les conditions de l'offre, il a droit aux dépens partie‑partie à la date de la signification de l'offre et aux dépens procureur‑client à compter de cette date, sauf ordonnance contraire du tribunal.
+[11] Il n'existe aucune règle analogue au paragraphe 49.10(1) dans les Règles et on ne peut l'interpréter comme étant intégré aux Règles par voie de conséquence nécessaire.
+[7] Les critères énoncés aux alinéas h), i) et j) du paragraphe 147(3) ne s’appliquent pas en l’espèce.
+[8] Dans le jugement Continental Bank of Canada c. Canada[4], le juge en chef adjoint Bowman a reconnu que l’adjudication des dépens n’était pas destinée à couvrir tous les frais du litige :
+[...]
+[9] Il est manifeste que les montants prévus au tarif ne sont nullement censés compenser entièrement une partie des frais juridiques que celle‑ci a engagés dans la poursuite d'un appel. Le fait que les montants prévus au tarif paraissent excessivement bas par rapport aux dépens réels d'une partie n'est pas une raison pour adjuger des dépens supplémentaires à ceux que prévoit le tarif. Je ne crois pas que, chaque fois que la présente Cour est saisie d'une cause de nature fiscale importante et complexe, nous devrions user de notre pouvoir discrétionnaire pour hausser les dépens adjugés à un montant qui corresponde davantage à celui que les avocats des contribuables factureront vraisemblablement. Il doit avoir été évident aux membres des comités de rédaction des règles qui ont fixé le tarif que les dépens entre parties qui peuvent être recouvrés sont de peu d'importance par rapport aux frais réels qu'une partie peut avoir engagés. Nombreuses sont les causes importantes et complexes dont la Cour est saisie. Les litiges de nature fiscale sont un aspect complexe et spécialisé du droit, et les rédacteurs des Règles auxquelles nous sommes soumis devaient le savoir.
+Le juge en chef adjoint Bowman a ajouté que « [l]orsque l'on adjuge des dépens dans un appel en matière d'impôt sur le revenu, il faut se souvenir que, indépendamment du fait que le contribuable obtienne gain de cause ou non, les dépenses relatives à la poursuite d'un appel (déduction faite de tous les frais recouvrés), y compris les dépens adjugés à l'encontre du contribuable, sont déductibles dans le calcul du revenu aux termes de l'alinéa 60o) de la Loi de l'impôt sur le revenu ».
+[9] Compte tenu de ces remarques et les arguments des avocats ayant été pris en considération à la lumière des critères énoncés au paragraphe 147(3) des Règles, il m’est impossible de conclure que les requérants ont droit à des dépens en sus de ceux qui sont prévus au tarif. Par conséquent, la demande est rejetée et l’officier taxateur adjugera les dépens conformément au tarif B de l’annexe II. Chaque partie supportera ses propres frais et dépens à l’égard de la présente requête.
+Signé à Ottawa, Canada, ce 25e jour d’octobre 2004.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 23e jour de juin 2005.
+Sara Tasset
+RÉFÉRENCE :
+2004CCI720
+No DES DOSSIERS DE LA COUR :
+2000-5089(GST)G et
+2000-5087(GST)G
+INTITULÉ :
+Vincenzo Polsinelli et S.M.R. et
+Enzo Polsinelli et S.M.R.
+MOTIFS DE L’ORDONNANCE RELATIVE AUX DÉPENS :
+L’honorable G. Sheridan
+DATE DE L’ORDONANNCE :
+Le 25 octobre 2004
+Avocat des requérants :
+Me Domenic Marciano
+Avocat de l’intimée :
+Me Jason J. Wakely
+AVOCATS INSCRITS AU DOSSIER :
+Pour les requérants :
+Nom :
+Domenic Marciano
+Cabinet :
+Marciano Beckenstein
+Concord (Ontario)
+Pour l’intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Amway Corporation v. The Queen, [1986] 2 C.T.C. 339, pages 340 et 341 (C.A.F.).
+[2] [2002] A.C.I. no 571
+[3] [1995] A.C.I. no 1111
+[4] [1994] A.C.I. no 863

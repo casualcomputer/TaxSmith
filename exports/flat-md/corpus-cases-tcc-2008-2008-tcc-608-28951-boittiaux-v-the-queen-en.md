@@ -1,0 +1,176 @@
+---
+title: "Boittiaux v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28951/index.do"
+last_modified: "2008-11-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 608"
+citation2: ""
+neutral_citation: "2008 TCC 608"
+decision_date: "2008-11-07"
+language: "en"
+item_id: "28951"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1391
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:39:47.261000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9f1f1e40a6b335c18d8a234a0046315c1a63dd3dcf6669c34d2bdd155659c5fb"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Boittiaux v. The Queen
+
+- Citation: 2008 TCC 608
+- Decision date: 2008-11-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1391, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Boittiaux v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-11-07
+Neutral citation
+2008 TCC 608
+File numbers
+2007-4754(IT)I
+Judges and Taxing Officers
+Murray A. Mogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-4754(IT)I
+BETWEEN:
+RICHARD E. BOITTIAUX,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 16, 2008, at Calgary, Alberta
+By: The Honourable Justice M.A. Mogan
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Lesley M. Akst
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2005 taxation year is dismissed.
+Signed at Ottawa, Canada, this 7th day of November, 2008.
+“M.A. Mogan”
+Mogan D.J.
+Citation: 2008 TCC 608
+Date: 20081107
+Docket: 2007-4754(IT)I
+BETWEEN:
+RICHARD E. BOITTIAUX,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Mogan D.J.
+[1] The Appellant and his wife (Dianne) separated in September 2003. After the separation, Dianne obtained an interim order and, later, a final order for spousal support. When the Appellant filed his income tax return for 2005, he deducted the amount of $20,250 as spousal support. By Notice of Assessment dated June 27, 2006, the Minister of National Revenue allowed the Appellant to deduct only $9,250 as spousal support; and disallowed the deduction of the remaining $11,000. The Appellant has appealed from that assessment, and has elected the informal procedure.
+[2] The Appellant and Dianne were married in 1995. They separated in September 2003. In the various 12 documents which became exhibits in this appeal, there is no indication that there were any children born of the marriage. The tale of the separation is told in those documents as amplified by the oral testimony of the Appellant.
+[3] After the Appellant and Dianne separated, she continued to reside at the marital home while the Appellant resided with his mother. In the months immediately following the separation, the Appellant paid all mortgage and utility amounts with respect to the marital home but he was not paying any spousal support directly to Dianne. In June 2004, Dianne applied to the Court of Queen’s Bench, Family Division, Winnipeg for interim spousal support. Her application came on for hearing before Madam Justice Allen on July 21, 2004.
+[4] Exhibit R-1 is a copy of the Interim Order issued by Madam Justice Allen dated July 21, 2004 with her oral reasons attached. Paragraph 5.1 of the Interim Order required the Appellant pay to Dianne “spousal support in the sum of $1,750 per month on the 1st day of each month, commencing August 1, 2004”. The Appellant started paying the $1,750 per month to Dianne on August 1, 2004 but there were continuing negotiations between the parties, through their respective lawyers, with a view to settling all outstanding disputes.
+[5] Exhibit A-6 is a copy of a letter dated February 18, 2005 from Mr. Zazelenchuk (the Appellant’s lawyer) to Ms. Walder (Dianne’s lawyer) making an offer of settlement. It is relevant to set out the terms of the Appellant’s proposed settlement:
+1. The net sale proceeds of the marital home will be split 50-50;
+2. From Mr. Boittiaux’s share, he will pay to Ms. Boittiaux an M.P.A. equalization payment of $4,940.82 (being $8,820.82 less $3,808.00);
+3. From Mr. Boittiaux’s share, he will pay Ms. Boittiaux the costs ordered by Madam Justice Allen in the amount of $1,435.00;
+4. From Mr. Boittiaux’s share, he will pay Ms. Boittiaux the sum of $11,000.00 which will represent both a lump sum payment and a payment in lieu of splitting pension benefits. In December of 2003 the difference in the value of the pension benefits was about $12,000.00 and that has, of course, changed as both pensions have added interest to them, but the difference should remain roughly the same and we must bear in mind that we are talking about present value, non‑taxable, as opposed to future value taxable when we look at the numbers;
+5. Ms. Boittiaux will receive spousal maintenance in the amount of $1,000.00 per month for the months of March, 2005 to February 2007, both months inclusive;
+6. Mr. Boittiaux will forthwith prosecute a divorce and bear all the costs of obtaining same.
+[6] Exhibit A-5 is a copy of a letter dated February 28, 2005 from Ms. Walder to Mr. Zazelenchuk replying to the letter which is Exhibit A-6 in this appeal. In her letter, Ms. Walder responds to each of the six items put forward in the Appellant’s proposed settlement. I will set out only items 4 and 5 from Ms. Walder’s letter because they are the only items relevant to the issue in this appeal.
+4. Ms. Boittiaux will accept the sum of $11,000.00 as a lump sum payment of spousal support and payment in lieu of splitting benefits. By my calculations, and after determining the after-tax value of the difference between our clients’ respective pensions, the lump sum payment has a value of only approximately $6,600.00. Later in your proposal, you suggest that Ms. Boittiaux should be receiving $750.00 per month in gross spousal support payments less than she is currently receiving from your client. On that basis, you can see that the lump sum payment of approximately $6,600.00 is not a significant amount given what you are asking Ms. Boittiaux to forego in monthly spousal support payments. Having said that, if your client is prepared to waive any claim to the difference in the parties’ RRSPs, Ms. Boittiaux will accept the sum of $11,000.00 as a lump sum payment of spousal support and a payment in lieu of splitting pension benefits.
+5. … We are already entering the month of March and cannot start the reduction as of March 1, 2005. As you know, the Interim Order pronounced by the Honourable Madam Justice Allen will have to be varied or substituted with a Final Order.
+[7] The Appellant and Dianne did finally settle their differences close to the terms set out in their lawyers’ letters (Exhibits A-5 and A-6). Exhibit A-1 is a copy of the Final Order issued by Madam Justice Rivoalen on consent dated March 25, 2005. I will set out only those parts of the Final Order (Exhibit A-1) which are relevant to the issue in this appeal:
+5.1 RICHARD EUGENE BOITTIAUX pay DIANNE ELIZABETH BOITTIAUX lump sum spousal support in the sum of $11,000.00 payable from RICHARD EUGENE BOITTIAUX’s share of the net sale proceeds of the former marital home as 942 Polson Avenue, Winnipeg, Manitoba;
+5.2 RICHARD EUGENE BOITTIAUX pay DIANNE ELIZABETH BOITTIAUX spousal support in the sum of $1,000.00 per month on the 1st day of each and every month, commencing on the 1st day of April, 2005, and concluding with the final payment on the 1st day of February, 2007, at which time spousal support shall terminate absolutely.
+6.1 None of the pension benefit credit or pension payments, as the case may be, to which DIANNE ELIZABETH BOITTIAUX may be or may become entitled under the Winnipeg Civic Employees’ Benefits Program pension plan shall be divided between DIANNE ELIZABETH BOITTIAUX and RICHARD BOITTIAUX;
+6.2.1 None of the pension benefit credit or pension payments, as the case may be, to which RICHARD EUGENE BOITTIAUX may be or may become entitled under the pension plan through his employment with CP Rail shall be divided between RICHARD EUGENE BOITTIAUX and DIANNE ELIZABETH BOITTIAUX.
+[8] After the Final Order was issued, the Appellant and Dianne signed an “Order To Pay” (Exhibit A-2) directed to the law firm of Dianne’s lawyer (Ms. Walder) instructing that firm to pay certain amounts out of “the net sale proceeds” of the marital home. From the Appellant’s one-half of the net sale proceeds, one of the amounts which he paid to Dianne was “The sum of $11,000.00 as a lump sum payment of spousal support”. The Order to Pay was dated March 26 and April 1, 2005. There is no doubt that the lump sum amount was paid to Dianne in 2005.
+[9] On August 1, 2005, the Appellant stopped paying to Dianne the $1,000 per month referred to in Exhibit A-1 on the basis that he was not working because of some disability. There were further proceedings in the Manitoba Court in October 2005 (See Exhibits A-3 and A-4) concerning the Appellant’s motion to vary his spousal support payments. The result of those proceedings is not relevant to this appeal because it does not affect the issue under appeal.
+[10] There is no dispute between the Appellant and Dianne as to the amounts of money involved in this appeal. For 2005, the Appellant deducted in computing income the amount of $20,250 as spousal support. For 2005, Dianne reported income of $9,250 as spousal support but she did not include the lump sum payment of $11,000. See Exhibits R-2 and R-3. The only issue in this appeal is whether the $11,000 may be deducted by the Appellant as spousal support.
+[11] Under the Income Tax Act (the “Act”), the Appellant’s right to deduct in computing income amounts paid as spousal support is contained in paragraph 60(b):
+60 There may be deducted in computing a taxpayer’s income for a taxation year such of the following amounts as are applicable
+(a) …
+(b) the total of all amounts each of which is an amount determined by the formula
+A - (B + C)
+where
+A is the total of all amounts each of which is a support amount paid after 1996 and before the end of the year by the taxpayer to a particular person, where the taxpayer and the particular person were living separate and apart at the time the amount was paid,
+B is the total of all amounts each of which is a child support amount that became payable by the taxpayer to the particular person under an agreement or order on or after its commencement day and before the end of the year in respect of a period that began on or after its commencement day, and
+C is the total of all amounts each of which is a support amount paid by the taxpayer to the particular person after 1996 and deductible in computing the taxpayer’s income for a preceding taxation year;
+[12] The important words in part A of paragraph 60(b) are “support amount”. Those words are defined as follows in subsection 56.1(4) of the Act:
+56.1(4) The definitions in this subsection apply in this section and section 56.
+“support amount” means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and
+(a) he recipient is the spouse or common-law partner or former spouse or common-law partner of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage or common-law partnership and the amount is receivable under an order of a competent tribunal or under a written agreement; or
+(b) the payer is a legal parent of a child of the recipient and the amount is receivable under an order made by a competent tribunal in accordance with the laws of a province.
+Under subsection 60.1(4) of the Act, the definitions in subsection 56.1(4) apply in section 60.
+[13] The Appellant claims the right to deduct the $11,000 amount in 2005 because it is called “lump sum spousal support” in the Final Order (Exhibit A-1) and because it was paid to reduce future monthly payments from $1,750 to $1,000 after March 2005. The Minister of National Revenue has disallowed the deduction of the $11,000 amount because it was not paid on a periodic basis. That is the basic issue in this appeal.
+[14] Throughout the calendar year 2005, the Appellant was obliged to pay monthly spousal support to Dianne under the terms of either the Interim Order (Exhibit R-1) or the Final Order (Exhibit A-1). Monthly payments of $1,750 under the Interim Order were made up to and including March 2005. Monthly payments of $1,000 under the Final Order commenced in April 2005 and ended in February 2007. In addition to those monthly payments, the Appellant paid to Dianne in April 2005 the lump sum amount of $11,000 which is the subject of this appeal. See Exhibit A-2; the Order to Pay.
+[15] The question in this appeal is not new. Over the years, many cases have come before this Court concerning the question whether one spouse (usually a husband) may deduct in computing income a lump sum amount paid to his separated spouse. In The Queen v. McKimmon, 90 DTC 6088, the Federal Court of Appeal set out helpful guidelines for the determination of this question. The guideline which seems most relevant to this appeal is number 8 in the McKimmon reasons:
+8. Whether the payments purport to release the payer from any future obligations to pay maintenance. Where there is such a release, it is easier to view the payments as being the commutation or purchase of the capital price of an allowance for maintenance.
+[16] In argument, the Appellant relied on Interpretation Bulletin IT-530R dated July 17, 2003 and published by the Canada Revenue Agency. The subject of the Bulletin is “Support Payments”. In particular, the Appellant referred to paragraphs 21 and 22 of the Bulletin under the heading “Payments on a Periodic Basis”. Paragraph 21 refers to the McKimmon decision and sets out certain criteria which include item (d):
+(d) Whether the payments purport to release the payer from any future obligations to pay maintenance — If there is such a release the payments will normally not be considered an allowance for maintenance.
+The Appellant argues that he comes within the terms of subparagraph 22(b) of the Bulletin:
+22. An amount paid as a single lump sum will generally not qualify as being payable on a periodic basis. However, there may be circumstances where a lump sum amount paid in a taxation year will be regarded as qualifying as a periodic payment where it can be identified that:
+(a) …
+(b) the lump sum amount is paid pursuant to a court order and in conjunction with an existing obligation for periodic maintenance, whereby the payment represents the acceleration, or advance, of future support payable on a periodic basis, for the sole purpose of securing the funds to the recipient.
+In either of the above situations, the lump sum payment will not, in and of itself, change the nature of the underlying legal obligation of periodic maintenance payments.
+[17] Having reviewed all of the documents in evidence, I am not persuaded that the payment of $11,000 represented an “acceleration, or advance, of future support payable on a periodic basis” for the purpose of securing any funds to Dianne. First, there was continuing unsecured spousal support of $1,000 per month after the payment of the $11,000. Second, there was no stated link between the $11,000 lump sum and the $750 monthly reduction from $1,750 to $1,000. And third, the letters between the two lawyers set out a different and more reasonable explanation for the payment of $11,000.
+[18] In the letter from the Appellant’s lawyer (Exhibit A-6) quoted in paragraph 5 above, Mr. Zazalenchuk states that the $11,000 amount “will represent a lump sum payment and a payment in lieu of splitting pension benefits”. In the letter from Dianne’s lawyer (Exhibit A-5) quoted in paragraph 6 above, Ms. Walder states that “… if your client is prepared to waive any claim to the difference in the parties’ RRSPs, (Diane) will accept the sum of $11,000 as a lump sum payment of spousal support and a payment in lieu of splitting pension benefits”.
+[19] Although the Final Order (Exhibit A-1) described the $11,000 amount as “lump sum spousal support”, those words are not conclusive as to whether the amount is deductible for income tax purposes when it was paid in addition to ongoing monthly support payments. At the time of the separation (2003), the Appellant’s annual income was in the range of $80,000 and Dianne’s was in the range of $35,000. Therefore, I assume that the Appellant would have higher pension benefits than Dianne. Accordingly, it would be in the Appellant’s interest to pay some amount (perhaps $11,000) to ensure that Dianne would not make any present or future claim against his pension benefits. It is important to note that the Final Order (Exhibit A-1), issued on consent of both the Appellant and Dianne, included specific provisions (quoted in paragraph 7 above) which prevented any pension benefits from being divided between the two parties.
+[20] The Appellant also relied on a recent decision of the Federal Court of Appeal in Ostrowski v. The Queen, [2002] 4 C.T.C. 196. In that case, Mr. Ostrowski was ordered by Judge O’Connell (Ontario) in November 1994 to pay interim support as follows:
+(i) $800 per month per child for each of four children; making a total of $3,200 per month for child support; and
+(ii) $500 per month for spousal support.
+A number of subsequent court orders in Ontario and British Columbia continued the support amounts set by Judge O’Connell.
+[21] After the sale of the Ostrowski family home, Judge Drake (British Columbia) in September 1995 ordered that, from Mr. Ostrowski’s one‑half of the proceeds of sale, the sum of $88,800 be set aside and held by the wife’s lawyer to secure payment of the support amounts for the 24-month period commencing in October 1995 and ending in September 1997. Mr. Ostrowski deducted $44,400 as support payments in each year 1995 and 1996.
+[22] The Minister disallowed Mr. Ostrowski’s deductions; he appealed; and the case ended in the Federal Court of Appeal. That Court dismissed Mr. Ostrowski’s appeal for 1996 because he did not pay any amount in that year; but allowed his appeal for 1995 increasing his deductible amount to $112,200 on the basis that (i) he paid in September 1995 the amount of $88,800 with respect to the 24-month period commencing October 1995; (ii) he also paid in 1995 $23,400 with respect to months before October 1995; and (iii) all amounts allowed could be identified as periodic at the rate of $3,700 per month in the sense that they were either prepaid or late paid. When delivering judgment for the Federal Court of Appeal, Madam Justice Sharlow stated in paragraph 25 of her reasons:
+… All the orders made after the O’Connell order were intended to enforce the maintenance obligation imposed by the O’Connell order because Mr. Ostrowski had proven to be unreliable in meeting that obligation.
+[23] In my opinion, the decision in Ostrowski is easily distinguished from this appeal because, in Ostrowski, there were no periodic support payments other than the prepaid or late paid lump sum amounts. In the present appeal, there were ongoing support payments at the rate of $1,750 per month or $1,000 per month when the $11,000 amount was paid. There is no evidence that the $11,000 amount was paid to secure any future payments. The $11,000 amount is more easily linked to the separation of pension benefits. And finally, even though the $11,000 amount is called “lump sum spousal support” in the Final Order (Exhibit A-1), it was clearly not periodic.
+[24] It is not necessary to review the cases cited by counsel for the Respondent. The appeal for the 2005 taxation year is dismissed.
+Signed at Ottawa, Canada, this 7th day of November, 2008.
+“M.A. Mogan”
+Mogan D.J.
+CITATION: 2008 TCC 608
+COURT FILE NO.: 2007-4754(IT)I
+STYLE OF CAUSE: RICHARD E. BOITTIAUX and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Calgary, Alberta
+DATE OF HEARING: May 16, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice M.A. Mogan
+DATE OF JUDGMENT: November 7, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Lesley M. Akst
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm: N/A
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

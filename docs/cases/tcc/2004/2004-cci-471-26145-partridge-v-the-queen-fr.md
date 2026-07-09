@@ -1,0 +1,189 @@
+---
+title: "Partridge v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26145/index.do"
+last_modified: "2004-07-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 471"
+citation2: ""
+neutral_citation: "2004 CCI 471"
+decision_date: "2004-07-28"
+language: "fr"
+item_id: "26145"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4140
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:11:38.566000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c123bb1ab9b2dfa731e6126e3dee8c44f3f71c24e4e4f609a19698703648a673"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Partridge v. The Queen
+
+- Citation: 2004 CCI 471
+- Decision date: 2004-07-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4140, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Partridge v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-07-28
+Référence neutre
+2004 CCI 471
+Numéro de dossier
+2004-41(IT)I
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-41(IT)I
+ENTRE :
+ROBERT D. PARTRIDGE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE] ____________________________________________________________________
+Appel entendu à Kingston (Ontario), le 17 juin 2004.
+Devant : L'honorable D.G.H. Bowman, juge en chef adjoint
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Jennifer Neill
+____________________________________________________________________
+JUGEMENT
+Il est ordonné que l'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1999 soit admis et que la cotisation soit déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en vue de permettre à l'appelant de déduire des pertes agricoles de 26 142 $.
+L'appelant a droit, le cas échéant, aux dépens qui sont prévus au tarif.
+Signé à Ottawa, Canada, ce 28e jour de juillet 2004.
+« D.G.H. Bowman »
+Juge en chef adjoint Bowman
+Traduction certifiée conforme
+ce 17e jour de février 2005.
+Jacques Deschênes, traducteur
+Référence : 2004CCI471
+Date : 20040728
+Dossier : 2004-41(IT)I
+ENTRE :
+ROBERT D. PARTRIDGE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge en chef adjoint Bowman
+[1] Il s'agit d'un appel d'une cotisation relative à l'année d'imposition 1999 de l'appelant.
+[2] Dans l'année en question, l'appelant a déduit une perte agricole de 26 142 $. Cette déduction a été refusée pour le motif que l'appelant n'avait aucune attente raisonnable de profit (l' « ARP » ).
+[3] L'appelant est âgé de 73 ans. Il s'est lancé dans l'agriculture en 1978 lorsqu'il a pris sa retraite du militaire; depuis lors, il exerce à plein temps la profession d'agriculteur. Le fait qu'il exerce sa profession à plein temps ne veut pas pour autant dire qu'il s'agit de sa principale source de revenu. Ce point n'a pas été débattu devant moi et je ne tire aucune conclusion à ce sujet. Je veux simplement dire que l'agriculture est l'activité à laquelle l'appelant consacre toutes ses heures de travail. L'appelant cultivait initialement une terre de 110 acres au Québec. En 1983, il s'est installé à Delta (Ontario), où il a acheté une terre de 365 acres qu'il utilisait à des fins agricoles mixtes; il élevait, entre autres choses, du bétail de race Hereford et des chevaux de race Morgan. Il a vendu la terre de 365 acres en 1997 parce qu'il était malade. En 1995, il a acheté une autre terre de 67 acres. Cette propriété est composée de pâturages d'une superficie d'environ 35 acres, d'une forêt de pins d'une superficie de dix acres et d'une érablière d'une superficie de 15 acres; les terrains au bord de l'eau s'étendent sur une superficie de cinq acres et une maison et une grange occupent deux acres.
+[4] L'appelant et sa conjointe travaillent en équipe; la conjointe appuie fortement l'appelant dans son activité agricole. Les alinéas e), f), g), k), l), m), n), o) et p) de la réponse à l'avis d'appel sont ainsi libellés :
+[traduction]
+e) lors de l'achat, la deuxième propriété n'avait pas été exploitée depuis dix ans et devait faire l'objet d'un travail « considérable » avant de pouvoir être utilisée à des fins agricoles. Il fallait débroussailler la terre pour faire des pâturages, réparer les bâtiments et installer une clôture. De plus, un droit de passage permettant l'accès aux gens divisait la terre, ce qui en réduisait l'utilisation comme ferme. La plupart des travaux nécessaires n'avaient pas encore été effectués en 1999;
+f) l'appelant a confirmé qu'il essayait d'exécuter les travaux mentionnés à l'alinéa e) de cette réponse, mais que les choses allaient toujours mal;
+g) l'appelant et sa conjointe résident sur la deuxième propriété;
+[...]
+k) pendant la période visée par l'appel, l'appelant avait 12 à 15 têtes de bétail, 20 moutons, 10 chèvres, 3 chevreuils, 30 poulets, 2 chevaux, 2 ânes, 6 canards, 2 chiens et 2 chats;
+l) l'appelant a acheté une pelle rétrocaveuse d'occasion pour la somme de 20 000 $ en vue de créer plus de pâturages; il a vendu la pelle rétrocaveuse au mois de janvier 2003;
+m) l'appelant a produit un plan d'entreprise indiquant comment l'entreprise agricole devait devenir rentable. L'idée principale qui se dégageait du plan d'entreprise était que l'appelant devait installer une clôture et essayer de mettre fin au droit de passage, de façon que les gens ne puissent pas traverser sa propriété à leur guise et qu'il puisse faire paître un plus grand nombre d'animaux et accroître la superficie de sa terre. L'appelant a été débouté de l'action qu'il avait intentée en vue d'éliminer le droit de passage;
+n) l'appelant a produit un plan d'entreprise, mais il ne possédait pas de renseignements financiers et il n'a pas inclus de projections des revenus et dépenses ou une analyse du flux de caisse;
+o) compte tenu d'une vérification se rapportant aux années 1997 et 1998, l'appelant a admis ne pas s'être rendu compte qu'il devait exercer ses activités dans l'intention de réaliser un bénéfice tant que l'on n'a pas procédé à la vérification en l'an 2000. L'examen effectué en 1999 a confirmé qu'aucun changement ne s'était produit dans l'exercice de l'activité en question;
+p) l'appelant n'avait pas d'attente raisonnable de tirer profit de l'activité dans l'année d'imposition 1999.
+[5] Un grand nombre des allégations qui ont été plaidées en tant qu'hypothèses ne sont pas des hypothèses de fait, mais visent plutôt à avancer sous la forme d'hypothèses des éléments de preuve qui sont préjudiciables à l'appelant. Ce genre de pratique déloyale est particulièrement déplorable lorsqu'un appelant agit pour son propre compte. Il n'est pas justifié de citer ou de paraphraser en tant qu'hypothèses des choses que la Couronne considère comme des aveux faits par l'appelant à l'encontre de ses intérêts. Si un appelant a fait un aveu que la Couronne veut utiliser à son encontre, cet aveu devrait être présenté à l'appelant pendant le contre-interrogatoire. En l'espèce, l'intimée a utilisé à mauvais escient la pratique voulant que l'on plaide des hypothèses. Je me rends bien compte que l'avocate de l'intimée n'a pas rédigé la réponse à l'avis d'appel. Cette réponse a été rédigée par un fonctionnaire de l'Agence des douanes et du revenu du Canada.
+[6] On n'a pas plaidé en tant qu'hypothèse ou en tant qu'allégation distincte le fait que l'exploitation de l'entreprise agricole comportait pour M. Partridge un élément personnel. Il est vrai que l'appelant n'a tiré aucun profit de l'agriculture. Il génère néanmoins un revenu d'agriculture chaque année. En 1999, son revenu d'agriculture brut s'élevait à 12 634 $. Ses dépenses sont en bonne partie composées d'une déduction pour amortissement - en 1999, le montant en cause s'élevait à 17 698 $.
+[7] La déduction des pertes subies en 1997 et en 1998 a été refusée et l'appel que l'appelant a interjeté devant cette cour a été rejeté par le juge Rip ([2001] A.C.I. no 579). La Cour d'appel fédérale a rejeté l'appel de la décision rendue par ce juge.
+[8] Les paragraphes 11 à 21 du jugement prononcé par le juge Rip sont rédigés comme suit :
+[11] M. Partridge a dit qu'il exploitait la ferme non pas pour réaliser un profit, mais pour apporter une contribution à la communauté. Il a dit que les fermes devaient lui assurer un « gagne-pain » , lui procurer un « moyen de subsistance et non un profit » et lui permettre de consommer les produits qu'il cultivait. Et, durant les années considérées en l'espèce, lui et son épouse consommaient bel et bien des légumes et de la viande provenant de la ferme.
+[12] M. Partridge a fait remarquer que, contrairement aux contribuables dans les affaires citées par l'avocate de l'intimée [voir note 1 ci-dessous], il n'accomplit aucun travail à part celui qu'il exécute à la ferme. Il n'a aucun autre revenu d'entreprise ou d'emploi. Il concluait donc que ces causes n'étaient pas pertinentes.
+Note 1 : Exemples : Moldowan c. Sa Majesté La Reine,[1978] 1 R.C.S 480 (77 DTC 5213), Tonn c. Canada (C.A.), [1996] 2 C.F. 73 (96 DTC 6001), Mastri c. Canada (Procureur général) (C.A.), [1998] 1 C.F. 66 (97 DTC 5420), Canada c. Donnelly (C.A.), [1998] 1 C.F. 513 (1997 CarswellNat 1562), Spence c. R., no 1999-3465 (GST)I, 4 avril 2000 (2000 CarswellNat 612).
+[13] M. Partridge s'appuyait beaucoup sur la description que le juge Dickson (titre qu'il portait alors) a donnée d'un agriculteur de la première catégorie dans l'affaire Moldowan [voir note 2 ci-dessous] :
+Note 2 : Affaire précitée, à la page 487 (DTC : à la page 5216).
+(1) le contribuable qui peut raisonnablement s'attendre à tirer de l'agriculture la plus grande partie de son revenu ou à ce que ce soit le centre de son travail habituel. Ce contribuable, dont l'agriculture est le gagne-pain, est exempté de la limite imposée par le par. 13(1) pour les années où il subit des pertes provenant de son exploitation agricole.
+[14] Si j'ai bien compris, M. Partridge fait principalement valoir que l'agriculture était « le centre de son travail habituel » et qu'il est donc un agriculteur de la première catégorie, quoique l'agriculture ne lui rapporte pas de revenu net.
+[15] Les termes « le centre de son travail habituel » et « ses habitudes et sa façon coutumière de travailler » qui sont utilisés par le juge Dickson dans l'affaire Moldowan doivent désigner le centre de l'activité économique habituelle d'une personne ou la façon coutumière d'une personne d'exercer une activité économique, c'est-à-dire de travailler pour s'assurer d'un gagne-pain. Le mot anglais « livelihood » (gagne-pain) est défini dans The Canadian Oxford Dictionary comme désignant un moyen de gagner sa vie ou une profession. Il ne désigne pas des efforts pour assurer seulement sa subsistance, comme l'envisage l'appelant, ou une activité qui génère un certain revenu mais pas un bénéfice et à laquelle le contribuable consacre pourtant toute son énergie mentale et physique.
+[16] En fait, dans les affaires Tonn [voir note 3 ci-dessous] et Mastri [voir note 4 ci-dessous], la Cour d'appel fédérale a pris en considération l'élément personnel de dépenses dans l'examen de la question de savoir si les dépenses avaient été engagées pour tirer un revenu d'une entreprise ou d'un bien. Dans le présent appel, comme l'appelant l'a dit à plusieurs reprises, son activité agricole visait non pas nécessairement à réaliser un profit, mais à mettre du pain sur la table. À ce que je comprends, la réalisation d'un bénéfice représentait une intention secondaire.
+Note 3 : Affaire précitée, à la page 97 (DTC : aux pages 6009 et 6010).
+Note 4 : Affaire précitée, aux pages 76 et 77 (DTC : à la page 5424).
+[17] Néanmoins, si une personne exploite une entreprise agricole, des dépenses sont déductibles dans le calcul du revenu. Pour qu'il y ait une entreprise, il faut un élément de commerce ou une activité commerciale. L'activité - l'agriculture en l'espèce - doit d'un point de vue commercial s'apparenter à tout le moins à une entreprise.
+[18] Pour avoir gain de cause, M. Partridge doit me convaincre que son revenu provient principalement de l'agriculture ou d'une combinaison de l'agriculture et de quelque autre source et non de ses pensions ou de ses placements. Comme le disait le juge Dickson dans l'affaire Moldowan : [voir note 5 ci-dessous] :
+Déterminer si une source de revenu est la principale « source » de revenu d'un contribuable suppose un test à la fois relatif et objectif. Ce n'est incontestablement pas une simple question de proportion. Celui qui a exploité une ferme toute sa vie ne cesse pas d'en tirer sa principale source de revenu du simple fait qu'il a inopinément gagné à la loterie. Ce qui distingue la principale « source » de revenu du contribuable, c'est l'expectative raisonnable de revenu en provenance des diverses sources, ainsi que ses habitudes et sa façon coutumière de travailler. On peut analyser ces éléments, notamment à l'égard de chaque source de revenu, en examinant le temps consacré à celle-ci, les capitaux engagés et la rentabilité présente et future. Un changement dans les habitudes ou la façon de travailler d'un contribuable ou dans ses expectatives raisonnables peut indiquer une modification de la principale source de revenu, mais cela demeure une question de fait dans chaque cas.
+Note 5 : Affaire précitée, à la page 486 (DTC : aux pages 5215 et 5216).
+[19] Dans l'affaire Canada c. Donnelly [voir note 6 ci-dessous], le juge d'appel Robertson a expliqué ceci :
+8 Pour déterminer si l'agriculture est la principale source de revenu d'un contribuable, il faut établir une comparaison favorable entre cette source de revenu et l'autre source de revenu du contribuable sous l'angle des capitaux investis, du temps consacré à chacune et de la rentabilité présente et future. Il s'agit d'un critère à la fois relatif et objectif. Ce n'est pas une simple question de proportion. Ces trois facteurs doivent être soupesés et aucun d'eux n'est décisif. Malgré tout, il ne saurait y avoir de doute que le facteur de la rentabilité est le principal obstacle auquel se heurtent les contribuables qui cherchent à convaincre les tribunaux que l'agriculture est leur principale source de revenu. Il en est ainsi parce que les contribuables ont la charge de prouver que le revenu net qu'ils pourraient raisonnablement s'attendre de tirer de l'agriculture est considérable par rapport à leur autre source de revenu : il s'agit invariablement d'un revenu d'emploi ou de profession libérale. Si la règle de droit était différente, la Cour de l'impôt n'aurait aucun moyen d'établir une comparaison entre les montants relatifs censés être tirés de l'agriculture et de l'autre source de revenu, ainsi que le prévoit l'article 31 de la Loi. [...]
+Note 6 : Affaire précitée, au par. 8.
+[20] Malheureusement, je ne peux convenir avec M. Partridge que ce dernier exploitait une entreprise agricole. L'agriculture représentait une préoccupation chez lui. C'était sa vie. Toutefois, pendant la période où il exerçait une activité agricole à Portland, jamais il n'a exploité une entreprise agricole. Il ne s'attendait pas à tirer de la ferme la plus grande partie de son revenu, quoique l'agriculture ait été le centre de son travail habituel.
+[21] Les appels sont rejetés, sauf pour ce qui est de la suppression de pénalités.
+[9] Le jugement du juge Rip a été confirmé par la Cour d'appel fédérale, 2003 DTC 5175, qui a dit ce qui suit :
+[5] Comme le juge de la Cour de l'impôt l'a souligné, le fait que l'agriculture soit le « centre du travail habituel » d'une personne n'en fait pas une entreprise. L'activité doit dépasser le stade de subsistance (motifs, paragraphe 15).
+[6] À cet égard, le juge de la Cour de l'impôt a conclu que les activités du demandeur manquaient de saveur commerciale et qu'il ne s'adonnait pas à des activités agricoles pour faire un profit, mais pour avant tout mettre du [traduction] « pain sur sa table » (motifs, paragraphe 16). À ce titre, ses activités n'équivalaient pas une entreprise.
+[7] Le demandeur ne m'a pas convaincu que le juge de la Cour de l'impôt a commis une erreur susceptible de révision en tirant cette conclusion.
+[10] Il n'a pas été fait mention des jugements rendus par la Cour suprême du Canada dans les affaires Stewart v. The Queen, 2002 DTC 6969 et Walls et al. v. The Queen, 2002 DTC 6960.
+[11] Il serait sans doute facile de rejeter l'appel interjeté par ce citoyen âgé tenace et plutôt irascible. Il ne serait pas difficile de trouver une excuse pour trancher une affaire de ce genre en faveur de la Couronne. On pourrait examiner l'année 1999 et dire que M. Partridge perd encore de l'argent et qu'en 2002, il a finalement cessé d'essayer de défalquer ses pertes agricoles. On pourrait suivre la voie la plus sûre et rejeter l'appel, en sachant fort bien que M. Partridge n'en appellera probablement pas. Toutefois, je dois trancher l'affaire selon les faits qui m'ont été soumis et non selon les faits constatés par un autre juge pour une autre année, et ce, malgré tout le respect que j'ai pour l'autre juge. Il serait injuste d'utiliser à l'encontre de M. Partridge des aveux qu'il a faits dans une affaire antérieure en se fondant sur l'idée erronée qu'il avait de l'affaire.
+[12] M. Partridge s'est référé d'une façon passablement détaillée au Bulletin d'interprétation IT 322-R, daté du 25 octobre 1978. Ce bulletin porte sur la restriction des pertes agricoles dont il est question à l'article 31 de la Loi de l'impôt sur le revenu. M. Partridge agissait pour son propre compte devant le juge Rip et devant la Cour d'appel fédérale, comme c'était également le cas devant moi. Je ne crois pas qu'il comprenait l'importance de certaines choses qu'il disait. De toute évidence, il ne comprenait absolument pas la question en litige et ce qu'il devait établir. Le Bulletin d'interprétation IT 322-R reproduit en bonne partie les remarques que le juge Dickson a faites dans l'arrêt Moldowan v. The Queen, 77 DTC 5213, au sujet de la principale source de revenu. L'article 31 n'a pas été appliqué dans les années antérieures ou en 1999. M. Partridge a examiné la définition de l'agriculteur de première catégorie figurant à l'alinéa 1a) du bulletin et il a déclaré être visé par cette définition. Il a fait remarquer que l'agriculture était [traduction] « le centre de son travail habituel et sa principale préoccupation » et qu'en présentant sa preuve dans les appels antérieurs, il n'avait donc pas cherché à mettre l'accent sur la réalisation d'un profit.
+[13] En 1999 et dans les deux années qui étaient auparavant en cause devant la cour, soit les années 1997 et 1998, l'article 31 n'a pas été appliqué. Néanmoins, M. Partridge semblait plaider sa cause antérieure en se fondant sur le fait que l'agriculture constituait sa principale source de revenu. La question dont je suis ici saisi n'est pas de savoir quelle était la principale source de revenu de l'appelant ou si l'appelant était un agriculteur de la première ou de la deuxième catégorie, mais de savoir s'il exploitait une entreprise agricole. On peut uniquement faire des conjectures au sujet du résultat qui aurait pu être obtenu si le ministre avait appliqué l'article 31 ou si M. Partridge avait été représenté par un fiscaliste compétent. Néanmoins, le ministre a décidé de mettre tous ses oeufs dans le même panier en plaidant l'ARP. Cette affaire est plus ou moins semblable à l'affaire Kuhlmann et al. v. The Queen, 98 DTC 6652. Dans cette dernière affaire, deux médecins élevaient des chevaux de selle et perdaient de l'argent d'une année à l'autre. Le ministre a restreint les pertes agricoles en vertu de l'article 31. Toutefois, à l'instruction, la Couronne a abandonné l'argument fondé sur l'article 31 et a plaidé qu'il n'y avait pas d'attente raisonnable de profit. Le juge Mogan, de cette cour, était d'accord. La Cour d'appel fédérale a annulé cette conclusion et a statué que, pour qu'il y ait absence d'attente raisonnable de profit, l'attente de profit doit être « irrationnelle, absurde et ridicule » .
+[14] Il n'y avait certes pas rien d'irrationnel, d'absurde ou de ridicule dans l'attente de profit de M. Partridge. Les faits qui m'ont été soumis ne sont pas ceux dont disposait le juge Rip. En fait, le juge Rip dit ce qui suit :
+[...] comme l'appelant l'a dit à plusieurs reprises, son activité agricole visait non pas nécessairement à réaliser un profit, mais à mettre du pain sur la table. À ce que je comprends, la réalisation d'un bénéfice représentait une intention secondaire.
+[15] M. Partridge a dit d'une façon passablement claire qu'il ne cherchait pas à mettre du pain sur la table et je retiens son témoignage. Le couple consommait des oeufs, de l'agneau et des légumes. Il arrive souvent que les agriculteurs consomment certains produits qu'ils cultivent, ce qui ne transforme pas l'entreprise agricole en un simple moyen de subsistance. Les aliments consommés par M. Partridge et par sa conjointe sont payés au moyen du revenu de pension et de placements touché par celui-ci.
+[16] En 1999, M. Partridge a produit un plan d'entreprise détaillé pour une période de cinq ans au cours de laquelle il prévoyait réaliser un bénéfice. Le plan n'a pas entraîné la réalisation d'un profit, comme il arrive dans bien des cas. Cela ne veut pas pour autant dire que le plan n'est pas valable et cela ne rend pas moins sincère le motif lié à la réalisation d'un bénéfice. L'un des événements qui a empêché l'appelant d'atteindre son objectif au cours des années qui ont suivi l'année 1999 a été la poursuite judiciaire désastreuse dans laquelle il était engagé. Il y avait sur sa propriété un droit de passage que les propriétaires de chalets utilisaient. L'appelant a tenté de déplacer ce droit de passage, de façon que les animaux puissent paître. Les propriétaires de chalets ont engagé des poursuites contre l'appelant. L'appelant a témoigné qu'à la suite d'une instruction qui a duré une demi-journée, le juge Cosgrove, de la Cour supérieure de justice, s'est prononcé à son encontre et a adjugé un montant de 30 000 $ au titre des frais ainsi qu'une somme de 16 000 $ au titre des dommages-intérêts. Cet événement ne s'est pas produit en 1999, mais il a clairement nui à la réalisation de l'objectif visé, à savoir réaliser un profit pendant les années ultérieures.
+[17] L'avocate a fait valoir que les arrêts Stewart et Walls n'abolissaient pas la notion d'ARP. L'ARP peut continuer à exister à certaines fins restreintes; cependant, si le refus de permettre la déduction de pertes qui sont de toute évidence attribuables à une entreprise commerciale était uniquement fondé sur l'ARP, on ne ferait aucun cas du jugement faisant autorité rendu par la Cour suprême du Canada. Dans l'arrêt Stewart, à la page 6971, voici ce que la Cour suprême du Canada avait à dire :
+[4] À notre avis, l'analyse de l'expectative raisonnable de profit ne saurait être maintenue comme critère indépendant pour déterminer l'existence d'une source de revenu, car cela irait à l'encontre du principe selon lequel les tribunaux doivent éviter d'innover et d'établir des règles en matière de droit fiscal. Même si les expressions « attente raisonnable de profit » et « espoir raisonnable de tirer un profit » figurent dans la Loi de l'impôt sur le revenu, S.C. 1970-71-72, ch. 63 (la « Loi » ), leur utilisation par le législateur ne justifie pas l'application générale que les tribunaux en ont fait. En outre, le critère de l'expectative raisonnable de profit est imprécis, ce qui engendre une incertitude malencontreuse chez les contribuables. De même, la nature du critère a favorisé le recours à une évaluation rétrospective du sens des affaires de contribuables pour refuser la déduction de pertes subies dans des entreprises commerciales qui, quoique infructueuses, avaient été exploitées de bonne foi.
+[18] Néanmoins, l'ARP était l'unique fondement avancé dans les hypothèses ou dans les motifs de refus et, comme il en a ci-dessus été fait mention, cette ARP n'a pas été plaidée en tant qu'hypothèse ou en tant que raison additionnelle démontrant que l'entreprise agricole comportait un élément personnel.
+[19] Je ne crois pas que l'entreprise agricole de M. Partridge était un passe-temps ou que M. Partridge s'y livrait à des fins purement personnelles plutôt qu'à des fins commerciales. Cette entreprise agricole n'était pas rentable sur le plan commercial, mais il s'agissait néanmoins incontestablement d'une entreprise agricole. Je ne tire aucune conclusion au sujet de la question de savoir si des pertes restreintes pouvaient être déduites en vertu de l'article 31 étant donné que ce point n'a pas été débattu devant moi.
+[20] L'appel est admis et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en vue de permettre la déduction de la perte agricole de 26 142 $ qui a été déclarée en 1999.
+[21] L'appelant a droit, le cas échéant, aux dépens qui sont prévus au tarif.
+Signé à Ottawa, Canada, ce 28e jour de juillet 2004.
+« D.G.H. Bowman »
+Juge en chef adjoint Bowman
+Traduction certifiée conforme
+ce 17e jour de février 2005.
+Jacques Deschênes, traducteur
+RÉFÉRENCE :
+2004CCI471
+No DU DOSSIER DE LA COUR :
+2004-41(IT)I
+INTITULÉ :
+Robert D. Partridge et
+Sa Majesté La Reine
+LIEU DE L'AUDIENCE :
+Kingston (Ontario)
+DATE DE L'AUDIENCE :
+Le 17 juin 2004
+MOTIFS DU JUGEMENT :
+L'honorable D.G.H. Bowman, juge en chef adjoint
+DATE DU JUGEMENT ET DES MOTIFS DU JUGEMENT :
+Le 28 juillet 2004
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Jennifer Neill
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

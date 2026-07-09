@@ -1,0 +1,156 @@
+Title: Show Promotions and Personnel Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28182/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-866-28182-show-promotions-and-personnel-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2003-11-26
+
+# Show Promotions and Personnel Inc. c. La Reine
+
+- Citation: 2003 CCI 866
+- Decision date: 2003-11-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1963, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Show Promotions and Personnel Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-11-26
+Référence neutre
+2003 CCI 866
+Numéro de dossier
+2002-2025(EI)
+Juges et Officiers taxateurs
+Terrence O'Connor
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2002‑2025(EI)
+ENTRE :
+SHOW PROMOTIONS AND PERSONNEL INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu les 6 et 7 août 2003 à Toronto (Ontario)
+Devant : L’honorable juge Terrence O'Connor
+Comparutions
+Avocat de l’appelante :
+Me Daniel Condon
+Avocate de l’intimée :
+Me Ruth Dick
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli et la décision du ministre est annulée selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 26e jour de novembre 2003.
+« T. O'Connor »
+Juge O'Connor
+Traduction certifiée conforme
+ce 2e jour de février 2004.
+Louise‑Marie Leblanc, traductrice
+Référence : 2003CCI866
+Date : 20031126
+Dossier : 2002‑2025(EI)
+ENTRE :
+SHOW PROMOTIONS AND PERSONNEL INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge O'Connor
+[1] Le présent appel a été entendu à Toronto, en Ontario, les 6 et 7 août 2003.
+[2] Les faits pertinents ainsi que la question en litige qui y est lié sont présentés dans les paragraphes suivants de la Réponse à l’avis d’appel modifié, de l’Avis d’appel modifié et de certains contrats entre l’appelante (la « payeuse ») et une certaine Raymonde Hamel (la « travailleuse »).
+RÉPONSE
+[Traduction]
+[…]
+8. L’appelante a interjeté appel à l’encontre d’une décision de l’intimé visant à déterminer si Raymonde Hamel (« la travailleuse ») occupait un emploi assurable au sens de la Loi sur l’assurance‑emploi (ci‑après appelée la « Loi ») lorsqu’elle travaillait pour l’appelante pendant la période allant du 10 juillet 2000 au 29 septembre 2001.
+9. Dans une lettre datée du 24 avril 2002, l’intimé a informé l’appelante qu’il avait déterminé que la travailleuse occupait un emploi assurable auprès de l’appelante pendant la période pertinente parce qu’elle avait été embauchée aux termes d’un contrat de louage de services.
+10. Pour prendre sa décision, l’intimé s’est fondé sur les hypothèses de fait suivantes :
+a) l’appelante participe à la conception et à la gestion de programmes de commercialisation dans des aéroports et des magasins et au cours d’événements spéciaux tels que des salons professionnels et des salons à l’intention des consommateurs partout en Amérique du Nord. Elle participe également à la dotation en personnel pour ces programmes;
+b) les clients de l’appelante sont principalement d’importantes corporations telles que la Banque Canadienne Impériale de Commerce (« CIBC »), Primus Canada, Volkswagen Audi, la Banque Citizens du Canada et AT & T (les « clients »);
+c) l’appelante fournit du personnel pour représenter ses clients dans le cadre de différents genres de programmes de commercialisation;
+d) la travailleuse a été embauchée par l’appelante pendant la période pertinente afin de faire la promotion de la carte de crédit Aéro Or CIBC‑Visa;
+e) la travailleuse fournissait ses services à l’appelante dans un stand exploité par l’appelante à l’Aéroport international de Dorval;
+f) les heures de travail de la travailleuse était de 7 h à 13 h du lundi au vendredi. Elle devait parfois travailler la fin de semaine;
+g) la travailleuse devait suivre les directives, les procédures et les règles de conduite établies par l’appelante;
+h) la travailleuse devait fournir ses services personnellement à l’appelante; (l’appelante nie cette hypothèse de fait)
+i) la travailleuse devait présenter un rapport quotidien des demandes d’adhésion au Aéroplan Visa de CIBC en y indiquant le nombre de demandes reçues dans la journée;
+j) l’appelante a demandé à la travailleuse à signer une entente de non‑concurrence;
+k) l’appelante pouvait mettre fin au contrat de la travailleuse à tout moment, ce qu’elle a fait;
+l) l’appelante payait à la travailleuse 20 $ pour chaque demande reçue, un taux ajusté au nombre de demandes approuvées;
+m) l’appelante fournissait à la travailleuse le stand de promotion, l’ameublement, l’équipement et les fournitures nécessaires;
+n) la travailleuse n’avait aucune dépense liée à l’exécution de ses tâches.
+[...]
+AVIS D’APPEL MODIFIÉ
+[Traduction]
+[…]
+7. La travailleuse pouvait déterminer ses heures de travail en obtenant un contrat plus avantageux que ceux d’autres sous-traitants. L’appelante acceptait la soumission selon la demande et selon le rendement de l’entrepreneur en matière de vente.
+8. La travailleuse a obtenu le contrat pour des quarts de travail. Son travail consistait à faire la promotion de la carte de crédit Aéro Or CIBC‑Visa et à encourager les gens à en faire la demande dans un stand situé à l’Aéroport international de Dorval.
+9. Selon la pratique courante, si la travailleuse ne désirait pas remplir un contrat pour lequel elle avait soumissionné, on pouvait confier ce contrat à tout autre travailleur ayant déjà conclu des ententes semblables avec l’appelante. (On ne doit pas lire « on pouvait confier ce contrat », mais plutôt « pouvait être remplacée par ».)
+10. La travailleuse encourageait les gens à faire une demande pour la carte CIBC. Elle travaillait dans un stand situé à l’aéroport, […]. Elle pouvait choisir sa propre stratégie de vente sans que personne n’intervienne. Les seules conditions étaient qu’elle respecte le code de conduite et fournisse des renseignements exacts en ce qui concerne le produit.
+11. Les stands sont la propriété des clients. Les espaces où se trouvent les stands sont loués par l’appelante de l’aéroport.
+12. La travailleuse était responsable de ses propres dépenses en ce qui concerne ses vêtements, son transport et d’autres frais, elle n’était pas remboursée pour ces dépenses.
+13. La travailleuse était payée à commission selon les ventes effectuées.
+14. La travailleuse recevait 20 $ de l’appelante pour chaque demande remplie et approuvée. Si les demandes présentées n’étaient pas approuvées ou acceptées par la banque, la travailleuse ne recevait pas sa rémunération.
+15. Les travailleurs présentaient chaque jour des rapports à partir desquels on créait un registre hebdomadaire. Les paiements bimensuels étaient faits en fonction d’un pourcentage des demandes obtenues selon ce registre. Lorsque l’appelante recevait du client la confirmation de l’approbation de la demande, les travailleurs recevaient le solde dû. Les travailleurs préparaient alors un reçu comme preuve de paiement.
+16. L’appelante a mis fin au contrat de sous‑traitance de la travailleuse le 1er octobre 2001.
+[…]
+QUESTION EN LITIGE
+[3] La question en litige vise à savoir si la travailleuse occupait un emploi assurable au sens de l’alinéa 5(1)a) de la Loi sur l’assurance‑emploi (la « Loi »).
+Faits
+[4] La travailleuse et la payeuse ont conclu les ententes que voici :
+LE CONTRAT DE BASE
+La pièce A‑1 constitue le contrat de base signé par la payeuse et la travailleuse le 23 juillet 2000. La pièce A‑2 est essentiellement le même contrat signé le 3 juin 2001. Dans ces contrats de base, d’une durée de une année à partir des dates indiquées, on utilise le terme « talent » pour faire référence à la travailleuse et « SPP » pour la payeuse.
+[5] Voici certaines dispositions pertinentes de ces contrats, soit l’une ou l’autre des parties peut mettre fin à ce contrat sans frais après avoir envoyé un avis écrit de quatorze jours. Néanmoins, contrairement aux dispositions stipulées dans ce contrat, au cas où le talent ne respecte pas de façon déterminante les obligations qui y sont décrites, SPP peut mettre fin audit contrat sans aucun avis. Les prochains extraits fournissent d’autres détails de ces contrats.
+[Traduction]
+1. Le talent comprend que le salaire qui lui est proposé et qu’il accepte avant une affectation est final et non négociable. Le talent est un entrepreneur autonome et n’est d’aucune façon un employé de SPP. Au besoin, le talent fournira à SPP un numéro d’entreprise ainsi qu’un numéro d’inscription à la TPS. Après chaque affectation, le talent envoie une facture à SPP aux fins de paiement et est responsable d’envoyer tous les paiements pour les impôts fédéral et provincial, les contributions à la CAEC et les autres retenues applicables.
+2. Le talent comprend que tous les frais ne sont négociés qu’avec SPP et jamais directement avec les clients (les clients sont des entreprises, des corporations, des entreprises à propriétaire unique, des organismes ou des personnes qui utilisent les services de SPP ou négocient présentement une entente avec cette dernière).
+3. Pendant la durée du présent contrat ou au moment de son renouvellement, le talent ne doit pas divulguer de renseignements exclusifs ou confidentiels ni aucun secret commercial de SPP, à qui que ce soit ou à une tierce partie sauf dans le cadre des objectifs de SPP, et le talent ne doit pas utiliser dans le cadre d’un objectif autre que ceux de SPP tout renseignement confidentiel ou secret commercial qu’il a en sa possession ou qu’il peut obtenir relativement aux activités de SPP.
+4. Le talent accepte les conditions du présent contrat et s’engage à les respecter pour la durée du contrat et pendant douze mois après la fin de celui‑ci, peu importe les conditions de la cessation du contrat. Il ne doit pas solliciter directement ou indirectement d’emploi auprès des clients de SPP que lui a présentés cette dernière, ni auprès de tout autre client, exposant ou entreprise possible avec qui le talent communiquera dans le cadre de son travail pour SPP ou pour les clients de SPP.
+5. Le talent comprend qu’il confirme son engagement au moment où il accepte une affectation. Il est impossible de l’annuler. Le talent accepte que des fonds soient retenus en cas d’annulation qui pourrait causer des dommages ou une perte de revenu à SPP.
+6. […]
+7. […]
+8. […]
+9. Le talent reconnaît qu’on lui a accordé assez de temps pour consulter un conseiller juridique relativement aux obligations et aux incidences liées aux conditions du présent contrat comme en témoigne ses initiales ci‑dessous.
+[…]
+10. Le présent contrat constitue l’ensemble des ententes finales conclues entre les parties relativement à tous les points qui y sont abordés et annule toute représentation, déclaration et promesse antérieures. On ne peut le changer, le modifier ou l’altérer que par une entente écrite signée par toutes les parties visées.
+[6] La pièce A‑2 n’est qu’une autre version du contrat de base. Il s’agit essentiellement du même document que la pièce A‑1 sauf pour les exceptions suivantes. Dans la pièce A‑2, SPP fait référence à la payeuse et le terme « entrepreneur » représente la travailleuse. En ce qui concerne la cessation du contrat, dans la pièce A‑2, on indique ce qui suit :
+[Traduction]
+[…]
+Le présent contrat s’échelonne sur une année à partir de la date susmentionnée et, à moins qu’on n’y ait mis fin avant cette date, il se renouvelle automatiquement pour une autre année à la date de sa signature. Les parties peuvent mettre fin au présent contrat en tout temps avec ou sans avis.
+[7] La travailleuse et la payeuse ont également conclu des ententes visant le code déontologique datées du 23 juillet 2000 et du 20 août 2001 (pièces A‑3 et A‑4), qui stipulaient en gros que, lorsque la travailleuse se présentait au travail, son apparence devait être soignée, elle devait porter un uniforme ainsi qu’une insigne avec une photo et avoir sur elle d’autres documents d’identification de sécurité exigés par les autorités de l’aéroport. Les ententes visant le code déontologique énoncent également que la travailleuse fait la déclaration suivante : [Traduction] « à titre d’entrepreneur autonome, je dois respecter tous les règlements administratifs municipaux et adopter tous les codes municipaux relatifs à la vente directe ». Le code déontologique contient également des dispositions quant à la façon dont la travailleuse doit mener ses ventes dans les stands qui se trouvent à l’aéroport.
+[8] On a également présenté d’autres ententes et documents visant la confidentialité, la non‑concurrence et d’autres questions concernant la travailleuse et la payeuse liés principalement au comportement et aux méthodes de travail de la travailleuse.
+OBSERVATIONS
+[9] L’appelante prétend que la travailleuse avait été embauchée aux termes d’un contrat d’entreprise, c.‑à‑d. à titre d’entrepreneure autonome. L’avocate de l’intimée prétend que l’entente constituait un contrat de travail, c.‑à‑d. un contrat de louage de services.
+ANALYSE ET DÉCISION
+[10] Pour prendre ses décisions quant à la question en litige, la Cour se fonde sur le contrôle, la propriété des instruments de travail, les chances de profit, les risques de perte et l’intégration de la travailleuse relativement aux activités de la payeuse. Aucun facteur n’a une plus grande importance que l’autre, et on doit examiner l’ensemble de la relation entre les parties.
+[11] Les contrats de base signés par les parties constituent un élément important, mais ils ne permettent pas d’établir une présomption ni de trancher la question en litige. Comme je l’ai déjà dit, il faut examiner tous les éléments de la relation entre les parties. Toutefois, dans l’affaire Wolf c. Canada (C.A.), [2002] 4 C.F. 396, le juge d’appel Noël de la Cour d’appel fédérale s’est exprimé ainsi :
+Il s'agit d'un cas où la qualification que les parties ont donnée à leur relation devrait se voir accorder un grand poids. Dans une issue serrée comme en l'espèce, si les facteurs pertinents pointent dans les deux directions avec autant de force, l'intention contractuelle des parties et en particulier leur compréhension mutuelle de la relation ne peuvent pas être laissées de côté. Comme les parties ont estimé qu'elles se trouvaient dans une relation d'entrepreneur indépendant et qu'elles ont agi d'une façon conforme à cette relation, le juge de la Cour de l'impôt n'avait pas le loisir de ne pas tenir compte de leur entente.
+Dans l’affaire Bradford v. M.N.R., 88 DTC 1661, le juge Taylor de la C.C.I. a indiqué à la page 11 de la décision :
+[Traduction]
+Le principe général qui s'impose à moi dans cet appel et dans la récente jurisprudence mentionnée est que, dans un ensemble donné de circonstances où l'on trouve certaines caractéristiques de « l'employé » et de « l'entrepreneur indépendant », quelques autres aussi qui sont plutôt ambiguës, les intentions et les objectifs des parties, s'ils sont clairement exprimés et acceptés de façon non équivoque, devraient être un facteur prédominant dans la décision de la Cour [...]
+[12] En ce qui a trait au contrôle, bien qu’il y ait différents éléments de contrôle quant à la façon dont la travailleuse devait accomplir ses activités et quant à sa tenue vestimentaire, selon moi, la plupart des conditions stipulées dans ces contrats et liées à la façon dont les activités étaient menées n’étaient en fait plus ou moins que des directives à l’intention de la travailleuse et non strictement une preuve de contrôle. La travailleuse pouvait choisir ses heures de travail, ce qu’elle faisait. Bien que des quarts de travail précis aient été établis, la travailleuse pouvait choisir le quart de travail qu’elle voulait. La preuve n’a pas montré de façon concluante le degré de supervision ou de contrôle. Tout compte fait toutefois, le critère de contrôle, selon moi, suggère un contrat d’entreprise, c.‑à‑d. une relation à titre d’entrepreneure autonome.
+[13] En ce qui concerne la supervision, l’avocat de l’appelante a indiqué qu’il ne s’agissait pas vraiment de supervision, mais plutôt d’une coordination entre collègues de travail quant au ramassage des demandes et à la procédure visant à les remettre à la payeuse aux fins de paiement.
+[14] Je conclus que, bien qu’il y ait bon nombre de directives et de restrictions, certaines d’entre elles sont normales, et on doit s’y attendre dans le cadre d’une relation de cette nature. En général, la travailleuse était plus ou moins sans supervision, c.‑à‑d. n’était assujettie à aucun contrôle et, bien que cela ne soit pas facile à déterminer, l’aspect du contrôle ou l’absence de celui‑ci porte à conclure qu’il s’agissait d’un contrat d’entrepreneure autonome, c.‑à‑d. un contrat d’entreprise plutôt qu’un contrat de louage de services.
+[15] En ce qui concerne la propriété des instruments de travail, la travailleuse en fournissait très peu, si elle en fournissait. Le stand, les enseignes et les formulaires de demande étaient tous fournis par CIBC. Les espaces pour les stands étaient loués par la payeuse et, comme je l’ai déjà dit, la travailleuse fournissait très peu d’outils. L’avocat de l’appelante prétend que les compétences de la travailleuse doivent être considérées comme des outils, mais je n’appuie pas cette observation. Quoiqu’il en soit, le critère des instruments de travail n’est pas aussi important que dans l’analyse des contrats de construction et d’autres contrats comportant un travail physique. En tous cas, le critère des outils suggère un contrat d’entreprise.
+[16] En ce qui concerne les chances de profit, il est clair que, plus la travailleuse effectuait de ventes, meilleure était sa rémunération, c.‑à‑d. elle avait plus de revenus. Moins de ventes signifiait moins de revenus. Tout compte fait, le critère des chances de profit indique que la travailleuse était une entrepreneure autonome. Il n’y avait pas de rémunération fixe. Si elle n’effectuait pas de vente, elle ne recevait pas de rémunération. Selon moi, cela constitue un indice appuyant fortement la thèse d’un contrat d’entreprise, c.‑à‑d. d’une relation à titre d’entrepreneure autonome.
+[17] En ce qui a trait au risque de perte, la travailleuse en avait très peu. Il est vrai qu’elle engageait certaines dépenses quant à ses vêtements, à son transport et aux frais de stationnement, mais ces coûts n’indiquent pas clairement une relation d’entrepreneure autonome. Toute personne qui doit travailler doit effectuer des dépenses semblables. Je conclus que l’aspect de la perte indique un contrat de louage de services, c.‑à‑d. une relation à titre d’employé.
+[18] En ce qui concerne l’intégration, il faut se demander à qui appartient l’entreprise et la réponse doit être axée sur la travailleuse. Quant au profit, la travailleuse se rendait parfaitement compte que si elle travaillait bien et qu’elle possédait vraiment ces compétences, elle gagnerait de l’argent. Ses efforts représentaient également des avantages pour CIBC parce que les demandes et les cartes de crédit émises constitueraient ultérieurement, pour CIBC, des clients et des gains. Bien sûr, il faut examiner la relation entre CIBC et la payeuse. En d’autres termes, en convainquant des gens de demander la carte Visa CIBC, la travailleuse permettait à la payeuse d’obtenir des gains de CIBC. À mon avis, le critère de l’intégration n’est pas concluant. Lorsque l’on examine les faits relatifs à la publicité, au genre de stand, à l’uniforme porté par la travailleuse, on a l’impression que la travailleuse travaillait probablement pour CIBC. La décision n’est pas fondée sur cette perception du public, mais il faut en tenir compte lorsqu’on analyse la question de savoir [Traduction] « à qui appartenait l’entreprise? ». La travailleuse était embauchée par la payeuse, mais son travail ne rapportait pas seulement à elle, au moyen d’une commission, mais aussi à la payeuse, parce que CIBC payait certains frais à la payeuse pour les demandes de cartes de crédit présentées.
+[19] Ayant examiné tous les éléments, je crois qu’il faut accorder de l’importance aux contrats écrits qui sont formulés délibérément de façon à présenter la travailleuse comme une entrepreneure autonome, ce qui représente des avantages pour la payeuse qui n’a pas à payer des contributions à l’assurance‑emploi et au Régime de pensions du Canada ou à prélever des retenues. À ce sujet, le fait qu’il existe une entente formulée de façon avantageuse pour les parties ne règle pas la question. Les parties peuvent formuler librement leur entente de façon à ce qu’elle soit des plus avantageuses pour eux. Les parties ont établi elles‑mêmes qu’il s’agissait d’une relation d’entrepreneure autonome et, comme nous l’avons dit, il faut en tenir compte sans que cet aspect ne devienne concluant en soi. (Soulignons les références susmentionnées aux décisions Wolf et Bradford.)
+[20] Un autre facteur qui, selon moi, est assez important est l’aspect de la commission. Il est inhabituel, dans un contrat de travail, que l’on n’offre au travailleur aucune garantie de rémunération, que ce soit à l’heure, à la semaine, au mois, d’une autre manière ou à la pièce.
+[21] Pour conclure, comme je l’ai déjà dit, certains aspects du critère pointent dans une direction et d’autres pointent dans une autre direction, mais à mon avis, selon la prépondérance des probabilités, je conclus que la travailleuse a été embauchée aux termes d’un contrat d’entreprise, à savoir un contrat à titre d’entrepreneure autonome, soit le nom exact donné aux contrats. En appliquant le critère, surtout les éléments du contrôle minimal, celui de l’intégrité qui pointe dans les deux directions, la formulation des contrats de base et l’élément de la méthode de paiement des commissions, je conclus que la travailleuse était embauchée aux termes d’un contrat d’entreprise. Par conséquent, l’appel est accueilli et la décision du ministre est annulée.
+Signé à Ottawa, Canada, ce 26e jour de novembre 2003.
+« T. O'Connor »
+Juge O'Connor
+Traduction certifiée conforme
+ce 2e jour de février 2004.
+Louise‑Marie Leblanc, traductrice

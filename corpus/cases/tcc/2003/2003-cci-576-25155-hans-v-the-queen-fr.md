@@ -1,0 +1,410 @@
+---
+title: "Hans v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25155/index.do"
+last_modified: "2003-08-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 576"
+citation2: ""
+neutral_citation: "2003 CCI 576"
+decision_date: "2003-08-14"
+language: "fr"
+item_id: "25155"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2601
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:51:51.300000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a2c94fe57bee86d3eb91032d2d866f96f4f9ecaf0eb0e13488e4162f4a435a03"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hans v. The Queen
+
+- Citation: 2003 CCI 576
+- Decision date: 2003-08-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2601, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hans v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-08-14
+Référence neutre
+2003 CCI 576
+Numéro de dossier
+2000-2261(IT)G
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2000-2261(IT)G
+ENTRE :
+MUKHTIAR HANS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus les 8, 9, 10 juillet et le 10 septembre 2002 à Toronto (Ontario)
+Devant : L'honorable juge E. A. Bowie
+Comparutions :
+Avocat de l'appelant :
+Me Richard G. Fitzsimmons
+Avocat de l'intimée :
+Me Bobby Sood
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l'encontre des nouvelles cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1991, 1992, 1993, 1994 et 1995 sont admis et les nouvelles cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations, en tenant compte de ce qui est décrit au paragraphe 21 de mes motifs du jugement. Il n'y aura aucune adjudication des dépens.
+Signé à Ottawa, Canada, ce 14e jour d'août 2003.
+« E. A. Bowie »
+J.C.C.I.
+Traduction certifiée conforme
+ce 24e jour d'octobre 2003.
+Mario Lagacé, réviseur
+Référence : 2003CCI576
+Date : 20030814
+Dossier : 2000-2261(IT)G
+ENTRE :
+MUKHTIAR HANS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bowie
+[1] M. Hans a interjeté le présent appel à l'encontre des nouvelles cotisations établies en vertu de la Loi de l'impôt sur le revenu (la Loi) pour les années d'imposition 1991, 1992, 1993, 1994 et 1995. Au cours des années en question, il travaillait comme ouvrier d'usine à temps plein et il exploitait une école de conduite à temps partiel chez lui à Brampton (Ontario) à titre d'entreprise individuelle sous le nom d' « United Drivers Training of Canada » (l'école). L'exercice financier de l'entreprise se terminait le 28 février de chaque année. Les nouvelles cotisations portées en appel reposent sur la conclusion du ministre à l'effet que l'appelant a bien déclaré le revenu qu'il a tiré de l'école, mais qu'il a sans doute exagéré ses dépenses dans chacune des années visées par l'appel. Le tableau ci-dessous décrit les redressements effectués par le ministre :
+1991
+1992
+1993
+1994
+1995
+Dépenses d'entreprise déclarées
+28 316 $
+29 186 $
+26 128 $
+28 119 $
+23 617 $
+Dépenses non admises
+16 813
+21 241
+20 959
+22 433
+18 738
+Total des dépenses admises
+11 503 $
+7 945 $
+5 169 $
+5 686 $
+4 879 $
+Le ministre a en outre imposé des pénalités en vertu du paragraphe 163(2) de la Loi pour chaque année. On ne conteste pas le fait que les années d'imposition 1991, 1992, 1993 et 1994 étaient frappées de prescription et que l'année 1995 ne l'était pas. Les questions que je dois trancher sont les suivantes :
+1. Le ministre s'est-il acquitté de l'obligation de prouver que l'appelant a fait une présentation erronée des faits par négligence, inattention ou omission volontaire en produisant ses déclarations de revenu des années d'imposition 1991 à 1994?[1]
+2. Le cas échéant, dans quelle mesure le refus du ministre d'admettre la déductibilité des dépenses pour chacune de ces années peut-il être raisonnablement attribué à ces fausses déclarations?[2]
+3. L'appelant s'est-il acquitté de l'obligation de démontrer que les hypothèses de fait sur lesquelles le ministre a fondé la dernière des nouvelles cotisations établies pour l'année 1995 sont inexactes?
+4. Le ministre s'est-il acquitté de l'obligation de prouver que l'appelant a fait sciemment, ou dans des circonstances qui justifient l'imputation d'une faute lourde, un faux énoncé ou une omission dans les déclarations de revenu qu'il a produites pour chacune des années d'imposition en litige,[3] et d'établir que les pénalités imposées étaient justes?[4]
+Années d'imposition 1991 à 1994
+[2] Dans cette affaire, les sous-alinéas 152(4)a)(i) et 152(4.01)a)(i) confèrent au ministre le droit d'établir de nouvelles cotisations pour les années frappées de prescription.
+152(4) Le ministre peut, à une date quelconque, fixer des impôts, intérêts ou pénalités en vertu de la présente Partie, ou donner avis par écrit, à toute personne qui a produit une déclaration de revenu pour une année d'imposition, qu'aucun impôt n'est payable pour l'année d'imposition, et peut,
+a) à une date quelconque, si le contribuable ou la personne produisant la déclaration
+(i) a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant la déclaration ou fournissant quelque renseignement sous le régime de la présente loi, ou
+(ii) [...]
+152(4.01) Malgré les paragraphes (4) et (5), la cotisation, la nouvelle cotisation ou la cotisation supplémentaire à laquelle s'appliquent les alinéas (4)a) ou b) relativement à un contribuable pour une année d'imposition ne peut être établie après l'expiration de la période normale de nouvelle cotisation applicable au contribuable pour l'année que dans la mesure où il est raisonnable de considérer qu'elle se rapporte à l'un des éléments suivants :
+a) en cas d'application de l'alinéa (4)a) :
+(i) une présentation erronée des faits par le contribuable ou par la personne ayant produit la déclaration de revenu de celui-ci pour l'année, effectuée par négligence, inattention ou omission volontaire ou attribuable à quelque fraude commise par le contribuable ou cette personne lors de la production de la déclaration ou de la communication de quelque renseignement sous le régime de la présente loi,
+(ii) ...
+[3] L'avocat de l'appelant a fait observer que le ministre n'a pas pu justifier la réouverture du dossier concernant les années en question qui ont été frappées de prescription parce qu'il n'a pas précisé les prétendues fausses déclarations sur lesquelles il s'est fondé, comme l'exige l'article 49 des Règles. Il a invoqué les décisions Shaughnessy c. Sa Majesté la Reine[5] et Gardner c. Sa Majesté la Reine[6] dans lesquelles notre cour a récemment critiqué la pratique trop courante du sous-procureur général de ne pas préciser les faits allégués qu'il entend établir au procès, à part une omission générale de se conformer à une disposition de la Loi, formulée uniquement en citant la disposition qui, selon lui, n'a pas été respectée. Les paragraphes 7(h) et (l) de la réponse à l'avis d'appel sont peut-être, dans ce cas, le pire exemple que je connaisse de cette violation particulière des règles relatives aux actes de procédure. Les paragraphes 7(k) à (l) sont particulièrement choquants. Ce sont les éléments de l'acte de procédure censés confirmer les faits qui justifient la réouverture du dossier concernant les années frappées de prescription et l'imposition des pénalités, dont le fardeau de la preuve incombe à l'intimée. Ils reprennent tout simplement les termes des dispositions législatives y afférentes et n'expriment rien de plus que des conclusions mixtes de fait et de droit auxquelles le sous-procureur général espère voir la Cour arriver un jour. Si la réponse avait été attaquée, comme ce fut le cas dans le dossier Gardner, j'aurais rendu la même ordonnance. Toutefois, le fait que l'appelant était en droit de voir certaines allégations de fait invoquées dans la réponse ne lui donne pas maintenant le droit d'empêcher l'intimée de démontrer les fausses déclarations concernant les années frappées de prescription et la faute lourde pour justifier les pénalités en question. Néanmoins, j'estime qu'en essayant de justifier les nouvelles cotisations établies à l'encontre des années frappées de prescription, le ministre se limite aux fausses déclarations qui lui étaient connues et sur lesquelles il s'est fondé pour justifier les nouvelles cotisations au moment où ces dernières ont été établies. Il ne peut établir une nouvelle cotisation puis aller chercher les motifs justifiant cet acte.
+[4] Le 18 août 1998, le ministre a établi de nouvelles cotisations à l'égard de l'appelant pour les années d'imposition 1991 à 1994, à la suite d'une vérification effectuée par M. Peter Mutch. L'appelant s'est opposé à ces nouvelles cotisations, à la suite de quoi on a encore établi de nouvelles cotisations à son égard pour des montants légèrement inférieurs, le 23 mars 2000. Ce sont ces dernières qui ont été portées en appel. Ainsi, les motifs de la réouverture du dossier concernant les années frappées de prescription 1991 à 1994 que M. Mutch a invoqués dans son rapport de vérification daté du 6 mai 1998[7] et ceux que l'agent des appels, M. Orest Bozyk, a mentionnés dans son rapport sur l'opposition daté du 22 février 2000[8] sont pertinents. Ils se lisent comme suit :
+[TRADUCTION]
+1. Établissement de cotisations portant sur des années frappées de prescription
+L'alinéa 152(4)a) de la Loi de l'impôt sur le revenu prévoit qu'on peut établir une nouvelle cotisation ou une cotisation d'impôt et fixer des pénalités et des intérêts à un moment donné si le contribuable ou toute personne qui a produit une déclaration de revenu a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement.
+Au cours de la première vérification (période de vérification : années d'imposition 1994 et 1995), il a été établi que le contribuable n'avait pas tenu les livres et les registres appropriés et que la plupart des dépenses déclarées ne pouvaient être justifiées ou étaient de nature personnelle. Par conséquent, le ministère en a conclu que le contribuable a fait preuve de négligence et d'inattention en produisant ses déclarations de revenu.[9]
+Motifs d'établir des cotisations relativement aux années frappées de prescription en vertu de l'alinéa 152(4)a) :
+Les dépenses déclarées par le contribuable sont extrêmement exagérées. Il a été établi que le contribuable n'a pas tenu les livres et les registres appropriés et que la plupart des dépenses ne pouvaient être justifiées ou étaient de nature personnelle. Le contribuable n'a tenu aucun registre qui pourrait concilier les déclarations produites (journal, agenda, grand livre, registre synoptique, etc.) et il a déclaré plus de 120 000 $ à titre de pertes d'entreprise au cours de 6 années civiles. Il semble que le contribuable a fait une présentation erronée des faits, par négligence ou inattention, en produisant ses déclarations de revenu.[10]
+Somme toute, les motifs du ministre pour établir de nouvelles cotisations relativement aux années 1991 à 1994 se résument donc comme suit : le contribuable n'a pu établir le montant de ses dépenses et, dans une certaine mesure, les dépenses qui, selon lui, étaient personnelles et ne concernaient pas l'entreprise. Cela découle de sa négligence ou son inattention, y compris le fait qu'il n'a pas tenu de registre approprié. Cependant, certains éléments ont été exposés de façon relativement détaillée dans le bilan des rapports.
+[5] Un examen du rapport de vérification démontre que les dépenses qui, selon M. Mutch, ont été exagérées par M. Hans dans ses déclarations de revenu entrent dans onze catégories. Le tableau ci-dessous indique le montant de chacune d'entre elles que M. Hans a déclaré pour chacune des années frappées de prescription, ainsi que les montants qui ont été refusés par M. Mutch lors de l'établissement des nouvelles cotisations d'août 1998.
+Année
+1991
+1992
+1993
+1994
+Publicité
+Frais déclarés
+6 478 $
+6 324 $
+5 356 $
+5 121 $
+Frais non admis
+770
+5 884
+5 132
+4 712
+Automobile
+Frais déclarés
+12 432 $
+13 123 $
+11 862 $
+13 972 $
+Frais non admis
+9 474
+9 977
+9 674
+11 691
+Taxe et permis d'affaires
+Frais déclarés
+200 $
+250 $
+250 $
+300 $
+Frais non admis
+(130)
+50
+-0-
+-0-
+Assurance
+Frais déclarés
+650 $
+675 $
+695 $
+786 $
+Frais non admis
+650
+675
+695
+786
+Intérêts
+Frais déclarés
+0 $
+240 $
+235 $
+239 $
+Frais non admis
+0 $
+240 $
+235 $
+239 $
+Entretien et réparations
+Frais déclarés
+725 $
+675 $
+642 $
+650 $
+Frais non admis
+725
+675
+642
+650
+Bureau à domicile
+Frais déclarés
+2 661 $
+2 603 $
+1 970 $
+1 776 $
+Frais non admis
+889
+2 258
+664
+1 042
+Frais juridiques et comptables
+Frais déclarés
+600 $
+800 $
+856 $
+214 $
+Frais non admis
+386
+386
+386
+-0-
+Téléphone
+Frais déclarés
+1 150 $
+1 198 $
+1 063 $
+989 $
+Frais non admis
+1 096
+1 144
+1 009
+935
+Traitements et salaires
+Frais déclarés
+3 000 $
+2 990 $
+2 925 $
+3 210 $
+Frais non admis
+3 000
+2 990
+2 925
+3 210
+Déduction pour amortissement
+Frais déclarés
+420 $
+307 $
+274 $
+220 $
+Frais non admis
+420
+307
+274
+220
+[6] M. Mutch a déterminé que la plupart des dépenses déclarées étaient excessives pour la simple raison que M. Hans ne pouvait pas produire de reçu pour les justifier. Dans certains cas, il semble avoir pressenti que les montants étaient trop élevés. Il a traité les montants déclarés aux chapitres de l'assurance, de l'entretien et des réparations comme faisant partie des dépenses du bureau à domicile. Il a réduit le montant déductible de ces dernières, soit 50 % des dépenses totales de la maison déclarées par l'appelant, à 10 % des dépenses que celui-ci pouvait justifier. Il a également appliqué le paragraphe 18(12) de la Loi, qui exclut la déduction des dépenses d'un bureau à domicile si elle provoque une perte d'entreprise pour l'année mais permet un transfert du solde aux années suivantes. Un examen approfondi du rapport de vérification, du témoignage de M. Mutch et des déclarations de revenu de l'appelant pour les années frappées de prescription ne fait ressortir aucune preuve évidente d'une fausse déclaration particulière que l'appelant a faite relativement à ses dépenses dans les autres catégories que celles de l'automobile, des salaires, du téléphone et du bureau à domicile. J'y reviendrai sous peu. Il est fort probable que M. Hans a exagéré certaines de ses dépenses dans les autres catégories; à coup sûr, il n'a tenu aucun livre en bonne et due forme de même qu'il n'a pas pu justifier les montants qu'il a déclarés. Toutefois, l'intimée n'a pu démontrer aucune fausse déclaration relativement aux dépenses déclarées dans ces catégories. Il semble que M. Mutch a tout simplement estimé que, dès lors qu'une fausse déclaration a été établie relativement aux dépenses déclarées pour une année frappée de prescription, il était logique d'établir une nouvelle cotisation à l'égard de l'appelant pour cette année-là et ainsi de réviser et de refuser toutes les dépenses d'entreprise déclarées pour l'année en question.
+[7] L'appelant s'est dûment opposé aux nouvelles cotisations établies par M. Mutch, donc M. Bozyk les a examinées ainsi que les renseignements supplémentaires qui ont été fournis et les observations faites au nom de l'appelant. M. Bozyk était, en grande partie, d'accord avec la méthode de M. Mutch et les nouvelles cotisations qu'il a établies par la suite, y compris les pénalités imposées. Son seul désaccord avec M. Mutch portait sur les frais d'automobile admissibles. J'y reviendrai plus tard, mais il suffit à ce stade de dire que M. Mutch a estimé, dans ses cotisations, la distance totale que l'appelant a parcourue chaque année ainsi que le pourcentage de cette distance qui touchait l'entreprise et a admis ce pourcentage du montant total des frais d'automobile que M. Hans pouvait étayer par des pièces justificatives. M. Bozyk a jugé qu'il était plus juste pour l'appelant de calculer les kilomètres parcourus à des fins professionnelles tels qu'estimés par M. Mutch et d'accorder à M. Hans 31 ¢ par kilomètre comme frais d'exploitation raisonnables du véhicule. L'appelant a fait observer qu'aucune preuve n'a établi que le montant de 31 ¢ par kilomètre représentait le coût d'exploitation de son véhicule et il n'accepte pas l'estimation de la distance qu'il a, selon M. Mutch, parcourue chaque année aux fins de l'école de conduite.
+[8] À mon avis, la méthode employée par MM. Mutch et Bozyk n'était pas conforme au sous-alinéa 152(4.01)a)(i) de la Loi. En général, le contribuable échappe à toute nouvelle cotisation établie par le ministre pour une année d'imposition lorsqu'un délai de trois ans s'est écoulé depuis la première cotisation établie pour l'année en question. Le sous-alinéa 152(4)a)(i) crée une exception à la règle pour permettre l'établissement d'une nouvelle cotisation dans les cas où le contribuable a induit le ministre en erreur. Le sous-alinéa 152(4.01)a)(i) a été adopté pour que l'effet de ces nouvelles cotisations se limite au cas où le contribuable a induit le ministre en erreur. En d'autres termes, la preuve que le contribuable a induit le ministre en erreur relativement à une catégorie de dépenses ne donne pas à ce dernier le droit de refuser une partie ou la totalité des dépenses d'une autre catégorie qui avaient été admises dans la cotisation précédente, pas plus qu'elle n'impose au contribuable l'obligation de prouver chacune d'entre elles lors de l'appel. La preuve d'une présentation erronée d'un fait relatif au calcul des frais d'automobile du contribuable permet au ministre de revenir sur tous les éléments qui composent la demande de déduction des frais d'automobile de l'année et il peut établir une nouvelle cotisation en conséquence, mais cela ne lui permet pas de réviser les dépenses déjà admises dans d'autres catégories comme le loyer ou les frais de services publics.
+[9] Je n'ai pas l'intention d'en dire plus sur les dépenses déclarées par l'appelant pour les autres éléments que ceux de l'automobile, du téléphone, des salaires et de son bureau à domicile pour les années d'imposition 1991 à 1994. Sur la foi de la preuve, et en particulier les pages 4 à 11 du rapport de vérification de M. Mutch, j'ai conclu que l'appelant avait le droit de les garder tels quels en raison du paragraphe 152(4.01). Je reviens maintenant aux dépenses déclarées pour l'automobile, le bureau à domicile, les traitements et les salaires et le téléphone pour les années frappées de prescription. Toutefois, avant de le faire, je dois faire des commentaires sur la qualité de la preuve de l'appelant.
+[10] Je ne trouve pas que la preuve fournie par l'appelant soit fiable du tout. Je pense que sa méthode consistait à dire tout ce qui, selon lui, ferait avancer ses intérêts. Il y avait beaucoup de preuves sur le kilométrage indiqué par le compteur de la Plymouth Reliant à différentes dates. Voici une série de dates ainsi que le kilométrage indiqué par le compteur de ce véhicule tels qu'ils figurent sur diverses factures de réparation et d'entretien.
+Date
+Kilométrage indiqué par le compteur
+22 avril 1991
+24065
+6 mai 1991
+25859
+11 octobre 1991
+48435
+25 octobre 1991
+49830
+1 novembre 1991
+50667
+1 novembre 1991
+50701
+5 novembre 1991
+51000
+7 février 1992
+60123
+18 février 1992
+61020
+5 novembre 1992
+82130
+5 novembre 1992
+82142
+6 novembre 1992
+82188
+9 décembre 1992
+82312
+22 mars 1993
+091430
+18 novembre 1993
+106478
+1 décembre 1993
+107124
+30 décembre 1993
+108566
+28 janvier 1994
+109819
+À un moment de son témoignage, l'appelant a soutenu que le kilométrage d'une de ces dates devrait être supérieur de 100 000 kilomètres parce que le compteur kilométrique ne comportait que cinq chiffres et qu'il avait atteint son deuxième cycle. Il est difficile de concilier cette affirmation avec le kilométrage indiqué le 22 mars 1993, qui comportait six chiffres dont le premier était un « 0 » . L'avocat de l'appelant a fait comparaître un témoin qui avait été propriétaire d'une voiture de même marque et année et qui est mécanicien. Il a affirmé que les véhicules de cette marque et année était dotés d'un compteur kilométrique à cinq chiffres seulement. Que cela soit le cas ou pas, je ne tire aucune conclusion à ce sujet. Il est clair selon les dates et le kilométrage correspondant, qui figurent sur les documents produits par l'appelant et dont il a reconnu la justesse au cours de son témoignage, que le véhicule en question n'a pas parcouru plus de 85 754 kilomètres entre le 22 avril 1991 et le 28 janvier 1994. Il n'y a tout simplement aucune période entre ces dates où le véhicule aurait pu parcourir 100 000 kilomètres de plus.
+[11] L'appelant a également voulu justifier sa demande de déduction des frais de véhicule d'entreprise en déclarant s'être servi de sa Cadillac pour aller chercher des élèves qui habitaient dans la banlieue nord-est de Toronto, les conduire à Brampton, où il avait un permis pour enseigner la conduite, puis les ramener chez eux. J'estime qu'il a tout simplement inventé cette histoire. Ce n'est que lorsqu'il est devenu évident pour lui qu'il ne pourrait justifier le nombre de kilomètres qu'il prétend avoir parcourus à des fins professionnelles, compte tenu du kilométrage indiqué par le compteur de la Reliant et figurant sur les documents, qu'il a déclaré que la Cadillac a servi à l'entreprise. Selon les conditions d'assurance de sa Cadillac, celle-ci devait parcourir moins de 12 000 kilomètres par an et il ne devait s'en servir qu'à des fins d'agrément et que pour se rendre au travail s'il parcourait moins de 50 kilomètres par semaine à cette fin. Dans un questionnaire qu'il avait rempli pour M. Mutch en juillet 1997, M. Hans a déclaré qu'il avait utilisé la Toyota (qui avait remplacé la Reliant) dans le cadre de ses activités professionnelles. Il n'y a pas indiqué que la Cadillac a été utilisée à des fins professionnelles. Aucune demande de déduction pour amortissement n'a été faite dans ses déclarations de revenu relativement à la Cadillac. La distance qu'il a déclaré avoir parcourue ne correspondait pas à la preuve relative à son utilisation.
+[12] Le témoignage de l'appelant comportait beaucoup d'autres contradictions. Il a admis qu'il n'avait tenu aucun journal pour y indiquer l'utilisation du véhicule à des fins personnelles et professionnelles. Il a clarifié les énoncés relatifs à l'utilisation globale et à l'utilisation à des fins professionnelles qui figurent dans ses déclarations de revenu en disant qu'il avait consigné le kilométrage du compteur dans un livre au début et à la fin de chaque année et qu'il avait communiqué les chiffres à son comptable, soit sur une feuille de papier ou le livre lui-même - il ne s'en rappelait plus. Il n'a pu expliquer comment cela lui permet de répartir la distance parcourue entre l'utilisation professionnelle et l'utilisation personnelle. Son témoignage quant à la perte de ses registres lors du déménagement d'une maison à une autre en 1995 était également peu crédible. Certains des registres qu'il a déclaré avoir perdus ont apparemment été remis à son spécialiste en déclarations au printemps 1996 pour la préparation de sa déclaration de revenu de 1995. Il a déclaré que les registres étaient conservés dans un classeur qu'il n'a pas perdu lors du déménagement. Il n'a pas perdu non plus certains registres qu'il a pu remettre à M. Mutch longtemps après le déménagement. Sa mémoire était très sélective. Il y avait des choses importantes dont il ne se rappelait tout simplement pas, mais il a tout de même pu se rappeler qu'à la suite d'une leçon, il avait mangé avec ses élèves une pizza particulière, dont il a produit un reçu daté de 1991. J'ai également de la difficulté à prêter foi au témoignage fourni par l'appelant à l'interrogatoire principal puisque celui-ci a été donné en grande partie en réponse aux questions suggestives de son avocat, même si on ne s'est opposé qu'à quelques-unes d'entre elles.
+[13] Il ne fait aucun doute, selon moi, que, dans ses déclarations de revenu de 1991 à 1994, l'appelant a beaucoup exagéré le nombre de kilomètres qu'il a parcourus dans le but de gagner un revenu. Il y a indiqué le kilométrage suivant :
+Année
+Kilométrage total
+Kilométrage parcouru à des fins professionnelles
+1991
+82 500
+66 900
+1992
+75 266
+60 210
+1993
+58 613
+47 506
+1994
+56 675
+45 526
+total
+273 054
+220 142
+Compte tenu du fait que l'exercice 1994 de l'entreprise se terminait le 28 février 1994 et qu'au 28 janvier 1994, la Reliant utilisée à des fins professionnelles avait parcouru 85 754 kilomètres au total depuis le 22 avril 1991, il est clair que les distances indiquées par l'appelant sont fictives.
+[14] Je suis d'accord que la décision de M. Bozyk d'accorder à l'appelant 31 ¢ par kilomètre parcouru à des fins professionnelles représente une façon juste et réaliste d'estimer les frais d'automobile dans ces circonstances, où il n'y a aucune raison de croire en toute confiance que les relevés produits se rapportent aux véritables dépenses faites par le contribuable. Le ministre n'est pas tenu de prouver le coût exact de l'exploitation du véhicule. Une fois que la présentation erronée des faits a été établie relativement aux frais d'automobile déclarés, comme cela a été le cas ici, il incombe à l'appelant de prouver ses dépenses. Il n'a produit aucune preuve crédible à cet égard. Je suis convaincu que l'estimation de 31 ¢ par kilomètre du ministre est raisonnable. Toutefois, je ne suis pas convaincu que la façon de M. Mutch d'établir le rapport entre la distance parcourue à des fins professionnelles et la distance totale parcourue chaque année soit acceptable. En appliquant une distance raisonnable parcourue à des fins professionnelles à une distance totale gonflée, il est arrivé à un rapport irréaliste entre les dépenses faites à des fins professionnelles et les dépenses totales. À mon avis, il convient mieux d'estimer le nombre de kilomètres parcourus à des fins professionnelles pour chacune des années par rapport au revenu brut déclaré pour chacune de ces années, tout en gardant à l'esprit que les parties sont d'accord sur le montant du revenu de chaque année. Chaque leçon durait 45 minutes. Si l'on suppose que la vitesse moyenne du véhicule était de 30 kilomètres par heure au cours d'une leçon, ce qui est généreux puisque les leçons de conduite comprennent des exercices d'entraînement au stationnement et des discussions pendant lesquelles le véhicule est immobile, alors la distance parcourue au cours de l'année tout en donnant des leçons serait tirée de la formule suivante : revenu brut ÷ tarif de la leçon x ¾ x 30. La preuve de l'appelant indiquait que son tarif était de 10 $ par leçon lorsqu'il a commencé à enseigner en 1990 et que ce tarif a, par la suite, augmenté de 2 $ par an. Le fait d'appliquer cette formule, et 31 ¢ par kilomètre, produit l'estimation suivante du nombre de kilomètres parcourus chaque année à des fins professionnelles ainsi que l'estimation des dépenses :
+1991
+20 953
+4 330 $
+1992
+19 153
+3 958 $
+1993
+10 903
+2 253 $
+1994
+10 661
+2 203 $
+1995
+4 884
+1 009 $ - au 28 février
+3 314
+685 $ - après le 28 février
+[15] Il est normal pour un moniteur d'auto-école d'aller chercher les élèves et de les ramener chez eux après la leçon. Je ne suis pas convaincu que M. Hans allait chercher les élèves dans l'est de la région métropolitaine et les y ramenait. Au mieux, c'était vague et, au pire, improbable. En l'absence de toute preuve fiable, j'ajouterais 50 % à la distance parcourue et au coût d'exploitation du véhicule, de façon à tenir compte de l'aller et du retour des élèves. Le montant total des frais d'automobile pour les cinq années, tel qu'estimé grâce à cette formule, suivi du montant admis par M. Bozyk, entre parenthèses, seraient alors comme suit :
+1991
+6 495 $
+(5 197 $)
+1992
+5 937 $
+(5 542 $)
+1993
+3 379 $
+(3 605 $)
+1994
+3 304 $
+(3 966 $)
+1995
+2 541 $
+(3 389 $)
+Les deux colonnes représentent des estimations approximatives. Le fait que l'appelant n'a pas tenu de registres appropriés nous empêche de déterminer les montants qu'il a le droit de déduire avec précision. MM. Mutch et Bozyk ont tenté de lui accorder des montants raisonnables. Bien que mes estimations soient un peu différentes de celles de M. Bozyk pour chaque année, les totaux des cinq années sont remarquablement proches. Dans ce cas, je ne vois aucune raison de modifier les déductions qui ont été admises par M. Bozyk dans les nouvelles cotisations portées en appel.
+[16] M. Hans a soutenu que, dans ses déclarations de revenu de chacune des années 1991 à 1994, il avait le droit de déduire 50 % des dépenses liées à la maison à titre de dépenses de bureau à domicile. Il prétend donc implicitement que la moitié de la maison était utilisée à des fins professionnelles. La preuve démontre fort clairement qu'il s'agit d'une exagération flagrante. Il y avait huit ou neuf personnes qui habitaient la maison dont la superficie était, selon le témoignage de l'appelant, de 2 000 pieds carrés; M. Hans utilisait une pièce de dix pieds sur douze aux fins de l'entreprise qu'il gérait à temps partiel. M. Mutch lui a accordé 10 %, ce qui était généreux. L'avocat a fait observer à M. Mutch, lors du contre-interrogatoire, qu'il aurait dû admettre l'allocation pour amortissement qui avait été déclarée à l'égard du matériel de bureau. Je ne peux lui reprocher de ne pas l'avoir fait; rien ne lui permettait d'établir le coût, réel ou estimé, du matériel lorsque l'entreprise a été fondée. Cela n'a pas été établi non plus dans la preuve soumise à la Cour. Je n'apporterai aucune modification au montant que le ministre a admis pour le bureau à domicile. Il a bien appliqué le paragraphe 18(12).
+[17] L'appelant a également prétendu être en droit de déduire les frais de téléphone étant donné qu'un téléphone était réservé à l'entreprise; en fait, tous les occupants de la maison utilisaient la même ligne téléphonique. À un moment donné (on ne sait pas trop quand), il y avait une sonnerie distincte pour la famille et une autre pour l'entreprise, avec des numéros différents, mais je n'ai pas entendu M. Hans dire qu'il y ait jamais eu une ligne d'affaires distincte dans la maison. Il a également déclaré, à titre de frais d'entreprise, le coût d'appels interurbains et internationaux à Vancouver et en Angleterre. Au cours de son témoignage, il a affirmé que c'était des appels à des personnes qui allaient se rendre à Toronto et qu'il les appelait à des fins professionnelles. Je ne le crois pas. Il n'y a aucune raison de modifier les montants admis par MM. Mutch et Bozyk.
+[18] La dernière question concerne la déduction des traitements et des salaires. Les montants déclarés par l'appelant étaient comme suit :
+1991
+3 000
+1992
+2 990
+1993
+2 925
+1994
+3 210
+M. Hans a rempli et signé un questionnaire, le 10 juillet 1997, dans lequel il déclarait qu'il n'y avait aucun employé dans son entreprise. La preuve qu'il a soumis à la Cour indiquait que ces montants avaient été versés à ses enfants pour laver la voiture et répondre au téléphone. Comme dans bien d'autres domaines, la preuve qu'il a soumise à ce sujet était extrêmement vague et il ne s'en dégage aucune crédibilité. Elle n'a été corroborée par aucune personne qui pourrait déclarer avoir été payée par lui pour tels ou tels services. Dans le questionnaire, il a déclaré qu'aucun membre de sa famille ne l'a aidé dans son entreprise et qu'il n'a payé aucun d'entre eux afin de travailler pour lui. J'en conclus que les paiements qu'il a déclarés étaient fictifs et qu'il a fait une présentation erronée des faits en déclarant les avoir versés. MM. Mutch et Bozyk avaient raison de les refuser.
+L'année 1995
+[19] Une nouvelle cotisation a été établie pour l'année 1995. Il incombe au contribuable d'établir que la cotisation était erronée. M. Fitzsimmons a tenté d'établir lors du contre-interrogatoire de MM. Mutch et Bozyk, et également grâce à de nombreuses questions suggestives posées à son client, qu'il serait juste et raisonnable d'admettre la déduction de certains frais supplémentaires lors du calcul du revenu d'entreprise de l'appelant pour l'année 1995. Tout ce qui était étayé par une preuve que je trouvais plus ou moins convaincante était la demande de déduction des intérêts. L'appelant a demandé à déduire 251 $ au total et M. Mutch a convenu que c'était une demande raisonnable. J'ai estimé au paragraphe 15 ci-dessus que ses frais d'automobile pour l'année 1995 s'élevaient à 2 541 $ au total. La cotisation établie par le ministre lui accordait 3 389 $. Bien entendu, je ne peux augmenter le montant de la cotisation établie par le ministre,[11] mais je suis loin d'être convaincu que ce montant est trop élevé malgré le fait qu'il n'ait admis aucun montant sur le plan des intérêts. Je n'apporterai donc aucune modification à la cotisation établie pour l'année 1995.
+[20] Il reste la question des pénalités. Je suis d'accord avec le point de vue du juge en chef adjoint Bowman, tel qu'il l'a exprimé dans la décision Urpesz,[12] que le ministre ne peut maintenir les pénalités que s'il soumet à la Cour la preuve qu'elles ont été correctement calculées. Il ne l'a pas fait dans ce cas. Bien que, selon moi, les déclarations de revenu de l'appelant sont, dans une certaine mesure, une oeuvre de fiction, je dois admettre les appels concernant les pénalités. Le ministre ne s'est pas acquitté de l'obligation de démontrer que les pénalités imposées était justifiées. Ni la réponse ni la preuve ne démontre comment le ministre a calculé les pénalités qu'il a imposées.
+[21] En bref, les appels interjetés à l'encontre des nouvelles cotisations établies pour les années d'imposition 1991 à 1994 sont donc admis et les nouvelles cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations pour le motif que l'appelant a droit aux déductions relatives aux frais de publicité, de taxe et permis d'affaires,[13] aux intérêts et aux frais juridiques et comptables tels qu'admis dans les dernières cotisations précédant celles du 18 août 1998. Les déductions relatives aux frais d'automobile, de bureau à domicile, y compris ceux de l'entretien et des réparations ainsi que l'allocation pour amortissement à l'égard du matériel de bureau, et de téléphone doivent rester telles qu'elles étaient admises dans les nouvelles cotisations établies le 23 mars 2000. Aucune déduction ne sera admise pour les traitements ou les salaires. Les pénalités doivent être radiées. L'appel interjeté à l'encontre de la nouvelle cotisation établie pour l'année d'imposition 1995 est admis et la cotisation est déférée au ministre pour nouvel examen et nouvelle cotisation en tenant compte du fait que seules les pénalités doivent être radiées.
+[22] Étant donné que chacune des parties a eu partiellement gain de cause, il n'y aura aucune adjudication des dépens.
+Signé à Ottawa, Canada, ce 14e jour d'août 2003.
+« E. A. Bowie »
+J.C.C.I.
+Traduction certifiée conforme
+ce 24e jour d'octobre 2003.
+Mario Lagacé, réviseur
+[1] Sous-alinéa 152(4)a)(i) de la Loi.
+[2] Sous-alinéa 152(4.01)a)(i) de la Loi.
+[3] Paragraphes 163(2) et (3) de la Loi.
+[4] Urpesz c. Sa Majesté la Reine, C.C.I., n ° 2000-3574(IT)I, 22 mai 2001 ([2001] 3 C.T.C. 2256); voir aussi Elchuk v. M.N.R., 70 DTC 6235.
+[5] C.C.I., n ° 2000-178(IT)G, 9 janvier 2002 (2002 DTC 1272).
+[6] C.C.I., n ° 2000-3310(IT)G, 13 septembre 2001 (2001 DTC 915).
+[7] Pièce R-2, onglet 4.
+[8] Pièce R-2, onglet 6.
+[9] Rapport de vérification, précité, pages 20 et 21.
+[10] Rapport sur opposition, précité, page 4.
+[11] Harris v. M.N.R., 64 DTC 5332, à la p. 5337, par le juge Thurlow (C. de l'É.).
+[12] Arrêt précité, no 4.
+[13] Je n'ai pas ignoré le fait que MM. Mutch et Bozyk ont permis à l'appelant de déduire également le montant de 130 $ au chapitre Taxe et permis d'affaires pour 1991. Toutefois, si le ministre ne peut établir une nouvelle cotisation pour réduire le montant déduit en raison du sous-alinéa 152(4.01)a)(i), alors il ne peut établir une nouvelle cotisation pour l'augmenter.

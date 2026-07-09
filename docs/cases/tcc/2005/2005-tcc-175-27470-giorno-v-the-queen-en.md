@@ -1,0 +1,177 @@
+---
+title: "Giorno v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27470/index.do"
+last_modified: "2005-03-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 175"
+citation2: ""
+neutral_citation: "2005 TCC 175"
+decision_date: "2005-03-03"
+language: "en"
+item_id: "27470"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 85
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:57:22.226000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d86dff445a662a5ac4fcd4572233842e89e9b17fe58c02085ad93354a2417ef9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Giorno v. The Queen
+
+- Citation: 2005 TCC 175
+- Decision date: 2005-03-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 85, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Giorno v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-03-03
+Neutral citation
+2005 TCC 175
+File numbers
+2004-2759(IT)I
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-2759(IT)I
+BETWEEN:
+FRANK GIORNO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on February 7, 2005 at Toronto, Ontario
+Before: The Honourable Justice Gerald J. Rip
+Appearances
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Craig Maw
+JUDGMENT
+The purported appeals from the assessments made under the Income Tax Act ("Act") for the 2000 and 2001 taxation years are quashed.
+The appeal from the assessment made under the Act for the 2002 taxation year is dismissed.
+Signed at Ottawa, Canada, this 3rd day of March 2005.
+"Gerald J. Rip"
+Rip J.
+Citation: 2005TCC175
+Date: 20050303
+Docket: 2004-2759(IT)I
+BETWEEN:
+FRANK GIORNO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Rip J.
+[1] Frank Giorno has appealed his income tax assessment for the 2000, 2001 and 2002 taxation years on the presumption that subsection 118(5) of the Income Tax Act ("Act") infringes on his equality rights under section 15 of the Canadian Charter of Rights and Freedoms ("Charter"). The respondent made a preliminary objection to quash the respected appeals for 2000 and 2001 since Mr. Giorno did not file a Notice of Objection in respect of those years as required by section 165 of the Act. Based on the material before me I quashed the appeals for 2000 and 2001. I was advised that Mr. Giorno is well within time to apply for extension of time to object to the 2000 and 2001 assessments in accordance with section 166.1 of the Act and I informed him to do so without delay.
+[2] Mr. Giorno and his former spouse entered into Separation Agreement on January 10, 1995. The Appellant states that the Agreement was only an interim agreement intended to be a "guideline" and a "reference point" for discussions and not a legally binding agreement. This is not what the Agreement states; there is no suggestion in the Agreement that it is a guideline or reference point. There are handwritten references on the copy filed at trial that it is an interim agreement but these references are not initialed or otherwise indicate that the appellant’s former spouse agrees with the handwritten notes or that the Agreement is an interim agreement, as claimed by the appellant. The Agreement does contemplate the parties developing a “parenting plan”. I find the Agreement to be what it purports to be, among other things, an agreement for the care and support of the children of the marriage.
+[3] Under the Agreement, the parents agreed to have joint custody of their two children. Mr. Giorno testified that the children reside with him for 182½ days a year and with their mother 182½ days a year. Mr. Giorno agreed that he would pay child support of $400 for each child per month until one of the following occurred:
+a) The child reached age 18 years and stopped attending school;
+b) The child reached 21 years;
+c) The child maintained a separate residence;
+d) The child married.
+[4] At the time the Agreement was signed by Mr. Giorno and his spouse on January 10, 1995, paragraph 60(b) of the Act permitted him to deduct from his income, and required his spouse to include in her income, the amounts he paid to her on a periodic basis for the maintenance of the children. In 1997 the provisions of paragraph 60(b) and section 56.1 were amended so that a payment for child support made after the "commencement date" of an agreement would not be deductible by the payer. An agreement made before May 1997 does not have a "commencement date". However, where an agreement is made before August 1997 it may have a "commencement date" after 1997. In such case the "commencement date" would be the earliest of:
+a) The date specified as a "commencement date" of the agreement in a joint election filed with the Minister in prescribed form 2;
+b) The agreement was varied after April 1997 to change the amounts of child support, the date of the first payment of the varied amount;
+c) Where subsequent agreement was made after April 1997 to change total child support payments, the date of the first subsequent payment;
+d) The day specified in the agreement, or any variation thereof, as a "commencement date" of the agreement for purposes of the Act.
+[5] On the facts at bar, there was no amendment or variation of the Agreement of January 10, 1995, there was no subsequent agreement, no "commencement date" was specified in any agreement and no order of the Court was issued varying, amending or replacing the original agreement between Mr. Giorno and his wife at the time[1]. Mr. Giorno was entitled to deduct from income in 2000 the amount he paid his wife on a periodic basic for support of the children and she was required to include the amount she so received in her income for 2000.
+[6] The respondent alleges, however, that in electronically filing his 2000 tax return, Mr. Giorno deducted no amount as support payments and in computing taxes for the year, he deducted a non‑refundable tax credit for an equivalent to spouse amount. The Minister originally allowed the deduction of the non‑refundable tax credit in respect of an equivalent to spouse amount as claimed but later, by reassessment, disallowed the tax credit. The reason for disallowing the equivalent to spouse credit was that the appellant was required to pay child support to his former spouse.
+[7] Mr. Giorno took comfort in the fact that the Minister allowed him the equivalent to spouse credit in 1995 and insisted the practice continue. Each taxation year stands on its own and how the fisc considered a claim in one year is not a binding precedent for other years. The Minister says that he allowed the claim in 1995 because he was not aware that Mr. Giorno was required to make child support payments in 1995.
+[8] In any event, the appellant’s position at trial was that subsection 118(5), which disallows a taxpayer from claiming the equivalent to spouse credit when that taxpayer is required to pay a support amount, violates section 15 of the Charter, at least in the circumstances where a joint custody parent who pays support would otherwise be entitled to the credit[2].
+[9] Subsection 118(5) provides that:
+No amount may be deducted under subsection (1) in computing an individual's tax payable under this Part for a taxation year in respect of a person where the individual is required to pay a support amount (within the meaning assigned by subsection 56.1(4)) to the individual's spouse or common-law partner or former spouse or common-law partner in respect of the person and the individual
+(a) lives separate and apart from the spouse or common-law partner or former spouse or common-law partner throughout the year because of the breakdown of their marriage or common-law partnership; or
+(b) claims a deduction for the year because of section 60 in respect of a support amount paid to the spouse or common-law partner or former spouse or common-law partner.
+Aucun montant n'est déductible en application du paragraphe (1) relativement à une personne dans le calcul de l'impôt payable par un particulier en vertu de la présente partie pour une année d'imposition si le particulier, d'une part, est tenu de payer une pension alimentaire au sens du paragraphe 56.1(4) à son époux ou conjoint de fait ou ex-époux ou ancien conjoint de fait pour la personne et, d'autre part, selon le cas :
+a) vit séparé de son époux ou conjoint de fait ou ex-époux ou ancien conjoint de fait tout au long de l'année pour cause d'échec de leur mariage ou de leur union de fait;
+b) demande une déduction pour l'année par l'effet de l'article 60 au titre de la pension alimentaire versée à son époux ou conjoint de fait ou ex‑époux ou ancien conjoint de fait.
+[10] "Support amount" is defined in the Act as follows:
+means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and
+(a) the recipient is the spouse or common-law partner or former spouse or common-law partner of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage or common-law partnership and the amount is receivable under an order of a competent tribunal or under a written agreement; or
+(b) the payer is a natural parent of a child of the recipient and the amount is receivable under an order made by a competent tribunal in accordance with the laws of a province.
+Montant payable ou à recevoir à titre d'allocation périodique pour subvenir aux besoins du bénéficiaire, d'enfants de celui-ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas :
+a) *le bénéficiaire est l'époux ou le conjoint de fait ou l'ex-époux ou l'ancien conjoint de fait du payeur et vit séparé de celui-ci pour cause d'échec de leur mariage ou union de fait et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent ou d'un accord écrit;
+b) le payeur est le père naturel ou la mère naturelle d'un enfant du bénéficiaire et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent rendue en conformité avec les lois d'une province.
+[11] Section 15(1) of the Charter states that:
+Every individual is equal before and under the law and has the right to the equal protection and equal benefit of the law without discrimination and, in particular, without discrimination based on race, national or ethnic origin, colour, religion, sex, age or mental or physical disability.
+La loi ne fait acception de personne et s'applique également à tous, et tous ont droit à la même protection et au même bénéfice de la loi, indépendamment de toute discrimination, notamment des discriminations fondées sur la race, l'origine nationale ou ethnique, la couleur, la religion, le sexe, l'âge ou les déficiences mentales ou physiques.
+[12] Mr. Giorno's argument that subsection 118(5) infringes section 15 of the Charter is summarized in his written submissions as follows:
+The issue boils down to this: If you are a joint custody dad and you earn slightly more than your ex partner and if you have an agreement (informal or court ordered) to pay support to your ex you cannot claim a $6,000 deduction known as the "spousal equivalent". But your ex partner can.
+[13] In Law v. Canada,[3] the Supreme Court of Canada articulated the following three stage analysis for the purpose of determining whether a legislative provision infringed of section 15 of the Charter;
+A. Does the impugned law (a) draw a formal distinction between the claimant and others on the basis of one or more personal characteristics, or (b) fail to take into account the claimant's already disadvantaged position within Canadian society resulting in substantively differential treatment between the claimant and others on the basis of one or more personal characteristics?
+B. Is the claimant subject to differential treatment based on one or more enumerated and analogous grounds? and
+C. Does the differential treatment discriminate, by imposing a burden upon or withholding a benefit from the claimant in a manner which reflects the stereotypical application of presumed group or personal characteristics, or which otherwise has the effect of perpetuating or promoting the view that the individual is less capable or worthy of recognition or value as a human being or as a member of Canadian society, equally deserving of concern, respect, and consideration?
+[14] The appellant argued that the subsequent decision in B v. Ontario (Human Rights Commission)[4], ("Mr. B") stands for the proposition that a person does not have to belong to an identifiable group for the court to make a finding of discrimination. That case involved a complaint heard by a Board of Inquiry appointed pursuant to the Ontario Human Rights Code. Although it is not a Charter case, it is still instructive as the Supreme Court has often held that human rights legislation is quasi-constitutional in nature. Specifically, Mr. A alleged that he was discriminated against on the ground of marital or family status.
+[15] In Mr. B, Mr. A was dismissed from his employment with D Ltd., of which Mr. B was the manager. The event that led to the termination was that Mr. A accused Mr. B of sexually molesting his daughter. The Ontario Court of Appeal held that Mr. A's dismissal was based on his presumed inability, as husband and father, to be a good employee given the accusations of his wife and daughter. The dismissal was not based on merit or conduct, and constituted discrimination, the prohibited enumerated grounds under the Code being marital and family status. The Supreme Court of Canada unanimously dismissed the further appeal to that Court, with the Chief Justice and Justice Gonthier agreeing in result but writing a minority concurring opinion on narrower grounds, viz. the findings of the Board of Inquiry.
+[16] One argument made by the respondent in Mr. B was that in order to make a finding of discrimination, the claimant is required to belong to an identifiable sub‑group. The seven-member majority of the Court rejected this argument, and held at paragraph 47 that while a category of persons is often identifiable given the existence of historically disadvantaged groups, it is not a necessary requirement to making a finding of discrimination. Mr. Giorno cites following dicta of Abella J., then of the Ontario Court of Appeal, which was quoted with approval at paragraph 56 of Supreme Court decision in Mr. B:
+Discrimination is not only about groups. It is also about individuals who are arbitrarily disadvantaged for reasons having largely to do with attributed stereotypes, regardless of their actual merit. While it is true that disadvantageous stereotypes usually arise when characteristics are attributed to someone based on what people in a particular group are deemed to be capable of, this does not mean that when dealing with a complaint, a complainant must be artificially slotted into a group category before a claim of discrimination can be upheld under the Code.
+Whether or not a disadvantaged group can be fashioned out of the facts of any particular case is largely irrelevant. The Code stipulates grounds in s. 5(1), not groups. The question is whether an individual has been discriminated against on the basis of a prohibited ground, not whether he or she necessarily fits into a group requiring redress.
+There is no doubt that the Code contemplates that an individual's membership in a group may result in discrimination based on perceived characteristics attributed to the group. Some of the grounds in s. 5(1), for example, such as race, sex or ethnic origin, anticipate arbitrary barriers attaching to individuals belonging to certain historically disadvantaged groups. But other grounds, such as family or marital status or age, may have less to do with whether a disadvantaged group emerges easily from an individual's complaint than with whether the individual, regardless of group membership, is being stereotyped or arbitrarily disadvantaged.
+[17] In light of the above, Mr. Giorno’s position that a claimant need not belong to an identifiable group is a sound one. That does not end the matter, however; it must still be considered whether the impugned provision discriminates against the appellant under the three-stage inquiry articulated in Law.
+[18] Applying the analysis set out in Law, it is clear that subsection 118(5) creates a distinction in that it denies equivalent to spouse credits to payers of support while allowing such credits to taxpayers who do not pay support.
+[19] Turning to the second stage of the inquiry, the distinction must be based on a personal characteristic that is an enumerated ground under section 15 of the Charter or an analogous ground. The appellant complains that the ground is "... that I am required to pay child support by virtue of an agreement". The face of subsection 118(5) clearly disallows the tax credit to a taxpayer who is obligated to pay child support. An obligation to pay child support is not an enumerated ground under section 15 of the Charter. Is it an analogous ground?
+[20] Counsel for the respondent referred me to my decision in Keller v. Canada[5], The alleged ground of discrimination in that case, like the present appeal, was the obligation to pay child support. In the analysis of whether this constitutes an analogous ground, I referred to the following comments of the Supreme Court of Canada in Corbiere v. Canada[6]:
+What then are the criteria by which we identify a ground of distinction as analogous? The obvious answer is that we look for grounds of distinction that are analogous or like the grounds enumerated in s. 15 - race, national or ethnic origin, colour, religion, sex, age, or mental or physical disability. It seems to us that what these grounds have in common is the fact that they often serve as the basis for stereotypical decisions made not on the basis of merit but on the basis of a personal characteristic that is immutable or changeable only at unacceptable cost to personal identity. This suggests that the thrust of identification of analogous grounds at the second stage of the Law analysis is to reveal grounds based on characteristics that we cannot change or that the government has no legitimate interest in expecting us to change to receive equal treatment under the law. To put it another way, s. 15 targets the denial of equal treatment on grounds that are actually immutable, like race, or constructively immutable, like religion. Other factors identified in the cases as associated with the enumerated and analogous grounds, like the fact that the decision adversely impacts on a discrete and insular minority or a group that has been historically discriminated against, may be seen to flow from the central concept of immutable or constructively immutable personal characteristics, which too often have served as illegitimate and demeaning proxies for merit-based decision making.
+[21] In Keller, I concluded that an obligation to pay child support is not an immutable, or constructively immutable, personal characteristic. The appellant argues that Keller is no longer good law in the wake of Mr. B. I cannot agree with this position. While Mr. B did clarify that an individual need not be a member of a group, historically disadvantaged or otherwise, to succeed in a claim for discrimination, the law with respect to analogous grounds of discrimination did not change. The obligation to pay child support is not immutable in the sense that it cannot be changed. Further, an obligation to pay child support may be based on the income of the payer. Far from being an immutable personal characteristic, income is a function of activity, merit and circumstance. As alluded to in Keller, parental status may be immutable, but an obligation to pay child support is not.
+[22] Even if an obligation to pay child support can sometimes be said to be an analogous ground in some circumstances insofar as it may be an obligation imposed by a court or by operation of law, that is not the case here. Mr. Giorno's own evidence shows that the Separation Agreement was just that – an agreement. The obligation to pay child support does not arise out of a personal characteristic, but from an agreement between the appellant and his former spouse.
+[23] Subsection 118(5) does not infringe section 15 of the Charter because in this case no discrimination has occurred on the basis of a personal characteristic. I share the following comments of Professor Hogg:
+Of all the distinctions found in the statute books, there must be very few that are based on the named grounds of discrimination, and only a few more that are based on immutable personal characteristics that would be regarded as analogous to the named grounds. The interpretation of discrimination that restricts s. 15 to distinctions based on the named or analogous grounds has caused a dramatic reduction in the reach of s. 15. However, there is much to be said for the view, articulated well in Andrews, that the
+narrower version of s. 15 is much better targeted to its purpose, which is to correct disadvantages imposed through prejudices that may have distorted the political process. Complaints of unequal treatment that cannot be related to a named or analogous ground must be addressed to elected officials, not to the Courts.[7]
+[24] The appeal for the 2002 taxation year is dismissed.
+Signed at Ottawa, Canada, this 3rd day of March 2005.
+"Gerald J. Rip"
+Rip J.
+CITATION: 2005TCC175
+COURT FILE NO.: 2004-2759(IT)I
+STYLE OF CAUSE: Frank Giorno v. The Queen
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: February 7, 2005
+REASONS FOR JUDGEMENT BY: Gerald J. Rip
+DATE OF JUDGMENT: March 3, 2005
+APPEARANCES:
+For the Appellant
+The Appellant himself
+Counsel for the Respondent:
+Craig Maw
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] A divorce judgment was granted on November 4, 2002, effective as of March 1 of that year. The judgment, as Mr. Giorno declared, is silent with respect to child support.
+[2] I agree with Mr. Giorno that there is an element of unfairness in subsection 118(5). A taxpayer who is required to pay a support payment pursuant to an agreement that has a commencement date is not eligible for an equivalent to spouse tax credit even in circumstances where the taxpayer cannot claim a deduction because the support payment is paid only for the support of the children. It also is quite possible a taxpayer has children from a second marriage but because the taxpayer is paying a support amount with respect to children of the first marriage, the taxpayer is precluded by subsection 118(5) from claiming an equivalent to spouse tax credit in respect of a child of the second marriage, depending on the circumstances.
+[3] [1999] 1 S.C.R. 497.
+[4] [2002] 3 S.C.R. 403.
+[5] [2002] T.C.J. No. 330.
+[6] [1999] 2 S.C.R. 203
+[7] Peter Hogg, Constitutional Law in Canada (Loose-leaf) (Toronto: Carswell, 1997) at page 52-36

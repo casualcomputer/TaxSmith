@@ -1,0 +1,119 @@
+---
+title: "Flaherty v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29199/index.do"
+last_modified: "2008-09-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 223"
+citation2: ""
+neutral_citation: "2009 TCC 223"
+decision_date: "2008-09-11"
+language: "en"
+item_id: "29199"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6708
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:51:04.843000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a002023ad6b0d46119e1aa1bf4ab5e194ca56e255fc1af491672f9d459883149"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Flaherty v. The Queen
+
+- Citation: 2009 TCC 223
+- Decision date: 2008-09-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6708, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Flaherty v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-09-11
+Neutral citation
+2009 TCC 223
+File numbers
+2006-2000(IT)I
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-2000(IT)I
+BETWEEN:
+JUDITH FLAHERTY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+The Honourable Justice Patrick Boyle
+____________________________________________________________________
+ORDER
+UPON reading the submissions filed;
+IT IS ORDERED THAT costs in the amount of $1,495 shall be payable to the Appellant by the Respondent in accordance with the Reasons for Judgment delivered orally on September 11, 2008 and in accordance with the Reasons attached hereto.
+Signed at Ottawa, Canada, this 24th day of April 2009.
+"Patrick Boyle"
+Boyle J.
+Citation: 2009 TCC 223
+Date: 20090424
+Docket: 2006-2000(IT)I
+BETWEEN:
+JUDITH FLAHERTY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Boyle J.
+[1] This order for costs relates to my hearing of this informal income tax appeal in Hamilton in September 2008. I delivered oral reasons on September 11, 2008 and signed judgment on September 22, 2008. In my reasons and judgment I awarded costs to the successful taxpayer.
+[2] Upon delivering reasons I received submissions on costs. I was asked by the parties to take a recess to see if they could reach agreement so that costs could be fixed in amount by me. While counsel could agree on the tariff amount for taxpayer counsel, they were unable to resolve the treatment of the fees of an accountant used to prepare accounting reports to assist in the preparation of the appeal. The Crown was concerned that the accountant’s fees relate only to preparation for the Court appeal and not to the CRA Objection stage. In addition, the only account then received did not bring the charges current to the trial date. In the circumstances, it was agreed by all that once the accountant’s final bill was received the parties would seek to finalize their agreement on costs failing which they could come back to me in writing.
+[3] As it turns out, the accountant’s final bill was delivered but the parties were unable to reach agreement and whatever understanding they thought they had on counsel fees last September seems to have not survived. I have since received written submissions from both sides.
+[4] With respect to counsel fees, the disagreement is whether, in the case of a one-day trial followed by reasons being delivered on a later day, the tariff contemplates two half-days or three half-days. I have not been referred to any previous judicial pronouncement on the subject. In the circumstances of this case, I believe a fair and reasonable result on costs is reached by providing for only two half-day counsel fees. That is not to say that in another case, attending to hear delivery of oral reasons can not be reflected in costs awarded. I leave that open. I will therefore fix counsel fees at $1,185.
+[5] The accountant’s fees totalled over $5,000 and were to assist in the preparation of the Court appeal. It would be inappropriate in this particular case to allow the entire amount as a disbursement. It significantly exceeds the counsel fees provided for in informal appeals which include preparation and conduct of the appeal. In this particular case and in these circumstances, I believe a fair and reasonable amount to allow in respect of these disbursements is an amount equal to the counsel fee for preparing for the hearing or $250.
+[6] While the full amount paid by Ms. Flaherty for the accountant’s services is not reflected in this award, she should separately consider whether the full amount is deductible by her for 2008 under paragraph 60(o) of the Income Tax Act.
+[7] Crown counsel took the position that I could not make a post-judgment order relating to costs in this case and that I must follow the Court’s practice on having cost disputes first referred for taxation to the Registrar subject to further appeal to a judge. With respect, I disagree. I am supported in my view that costs can be addressed after judgment has been rendered in an informal tax appeal by this Court’s decision in Paget v. HMQ, 2000 DTC 3566. While costs may be entirely a post-judgment matter, as they were in Paget, in this case I made an award of costs and reserved the right to be spoken to with written submissions on costs thereafter. I am not considering new evidence nor reconsidering a decision already made. I am not changing either the substance of, or the reasons for, my judgment. At the hearing of reasons for judgment, it was the Crown who asked that we try to fix costs in this manner. It only makes sense to me that, in these circumstances, the matter is best dealt with by the same judge who heard and decided the case.
+[8] I will be signing an order fixing costs in this appeal at $1,495 in favour of the taxpayer, which includes an additional $60 for this post-judgment costs process.
+Signed at Ottawa, Canada, this 24th day of April 2009.
+"Patrick Boyle"
+Boyle J.
+CITATION: 2009 TCC 223
+COURT FILE NO.: 2006-2000(IT)I
+STYLE OF CAUSE: JUDITH FLAHERTY v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Hamilton, Ontario
+DATE OF HEARING: September 9 & 11, 2008
+REASONS FOR ORDER BY: The Honourable Justice Patrick Boyle
+DATE OF ORDER: April 24, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Winfield Corcoran
+Counsel for the Respondent:
+Laurent Bartleman
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Winfield Corcoran
+Firm: Winfield Edward Corcoran
+Hamilton, Ontario
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

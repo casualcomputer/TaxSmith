@@ -1,0 +1,184 @@
+Title: Aubaines Yves Croteau 111 inc. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29051/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-610-29051-aubaines-yves-croteau-111-inc-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2008-12-19
+
+# Aubaines Yves Croteau 111 inc. c. M.R.N.
+
+- Citation: 2008 CCI 610
+- Decision date: 2008-12-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6859, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Aubaines Yves Croteau 111 inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-12-19
+Référence neutre
+2008 CCI 610
+Numéro de dossier
+2008-1155(EI)
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2008-1155(EI)
+ENTRE :
+AUBAINES YVES CROTEAU 111 INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 22 octobre 2008, à Québec (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocat de l'appelante :
+Me Jérôme Carrier
+Avocate de l'intimé :
+Me Mélanie Bélec
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté en vertu du paragraphe 103(1) de la Loi sur l’assurance‑emploi (la « Loi ») est rejeté au motif que l’emploi de mesdames Émilie et Valérie Croteau et de monsieur Jean-Martin Paulin exercé auprès de l’appelante du 1er janvier 2007 au 11 septembre 2007 était un emploi assurable en vertu des dispositions de la Loi et ce, pour les motifs ci-joints.
+Signé à Ottawa, Canada, ce 19e jour de décembre 2008.
+« Alain Tardif »
+Juge Tardif
+Référence : 2008 CCI 610
+Date : 20081219
+Dossier : 2008-1155(EI)
+ENTRE :
+AUBAINES YVES CROTEAU 111 INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s’agit d’un appel relatif à l’assurabilité du travail exécuté du 1er janvier 2007 au 11 septembre 2007 par mesdames Émilie et Valérie Croteau, et par monsieur Jean-Martin Paulin pour Aubaines Yves Croteau 111 inc., (« l’appelante »).
+[2] Il s’agit d’une décision dont le fondement juridique est l’alinéa 5(2)i) de la Loi sur l’assurance‑emploi (la « Loi »). Cette disposition établit, dans un premier temps, que le travail exécuté par une personne liée à son employeur au sens de la Loi de l’impôt sur le revenu est exclu des emplois assurables.
+[3] Toutefois, le législateur a prévu une exception en vertu de laquelle le même emploi est assurable s’il est raisonnable de conclure que des personnes sans lien de dépendance auraient conclu un contrat à peu près semblable. L’exception se lit comme suit :
+5(3)b) l'employeur et l'employé, lorsqu'ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu'il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d'emploi ainsi que la durée, la nature et l'importance du travail accompli, qu'ils auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+[4] Ainsi, en présence d’un lien de dépendance, la personne responsable du dossier doit faire une analyse beaucoup plus large et en profondeur que la simple vérification de la présence des conditions classiques, à savoir rémunération‑prestation de travail et lien de subordination.
+[5] En effet, la Loi confie au responsable du dossier le pouvoir discrétionnaire de décider si le lien de dépendance a eu une incidence sur le contrat de travail; en d’autres termes, son analyse doit lui permettre de conclure si le travail litigieux aurait été effectué d’une manière semblable par un tiers et si les modalités d’emploi auraient été semblables s’il n’y avait pas eu de lien de dépendance avec l’employeur.
+[6] Il s’agit ici de dossiers particuliers sous un autre aspect puisque la jurisprudence a établi que la Cour canadienne de l’impôt n’avait pas compétence pour réviser une telle décision si le pouvoir discrétionnaire avait été correctement et légalement exercé.
+[7] En d’autres termes, lorsque le pouvoir discrétionnaire a été exercé d’une manière responsable et judicieuse, que tous les faits pertinents ont été pris en compte et que la conclusion s’avère raisonnable, la Cour ne peut pas modifier la décision même si celle-ci ne souscrit pas nécessairement à la conclusion retenue.
+[8] Lorsqu’il a pris la décision dont il fait appel, l’intimé a tenu pour acquis de nombreuses hypothèses de fait.
+[9] Plusieurs hypothèses ont été admises par l’appelante. Il s’agit notamment des hypothèses de fait suivantes :
+5. a) l’appelante a été constituée en société le 21 décembre 1981;
+b) l’appelante exploite 3 commerces de vêtements : à Lévis dans un magasin exploité depuis 1969, à St-Rédempteur dans un magasin exploité depuis le 25 avril 2001 et à Beauport dans un magasin exploité depuis le 5 septembre 2007;
+c) Yves Croteau, seul actionnaire de l’appelante, est aussi propriétaire des 3 bâtisses logeant les commerces qu’il loue à l’appelante;
+d) l’appelante a déclaré des revenus bruts de 5 374 422 $ en 2005, de 4 613 291 $ en 2006 et de 4 4 479 045 $ en 2007;
+e) M. Yves Croteau a confié la gestion de ses 3 magasins aux travailleurs;
+j) les conditions de travail de chacun des travailleurs se résumaient ainsi :
+ÉMILIE CROTEAU :
+k) elle a commencé à travailler pour l’appelante à temps partiel à l’âge de 15 ans et travaille à temps plein depuis la fin de ses études en 2004;
+l) elle a cessé son apprentissage du fonctionnement des magasins en 2005 et, en 2006, elle a remplacé la gérante du magasin de Lévis;
+m) elle consacre environ 25% de son temps à la mise en marché (réaménagement de la marchandise) le soir, lorsque la clientèle est absente;
+n) depuis mai 2007, elle s’est surtout occupée du nouveau magasin à Beauport;
+o) comme gérante, elle s’occupait du personnel, travaillait sur le plancher et communiquait avec les fournisseurs lorsqu’il manquait de marchandise;
+r) elle recevait une rémunération fixe de 450 $ par semaine en 2007 et de 550 $ en 2008; elle était rémunérée par dépôt direct;
+s) en plus de sa rémunération, elle a reçu des bonis de 5 000 $ en 2006 et 2007;
+t) elle utilisait sa voiture pour se déplacer entre les magasins et ses dépenses étaient remboursées par l’appelante;
+VALÉRIE CROTEAU
+u) elle a commencé à travailler pour l’appelante à temps partiel à l’âge de 13 ans et travaille à plein temps depuis 1998;
+v) ses principales tâches consistaient à :
+- s’occuper des achats des 3 magasins,
+- s’occuper de la mise en marché des 3 magasins,
+- gérer, avec l’aide des 2 autres travailleurs, les gérants des 3 magasins,
+- décider des réductions de fin de saison pour toutes les divisions,
+- s’occuper des achats auprès de 800 fournisseurs provenant soit de l’étranger ou du Canada;
+y) durant la période en litige, elle recevait une rémunération fixe de 1 000 $ brut pas semaine;
+z) en 2007, l’appelante lui a versé un boni de 8 000 $ dû à la bonne performance de l’entreprise;
+aa) l’appelante lui rembourse ses dépenses pour ses frais de déplacement;
+JEAN-MARTIN PAULIN
+bb) il travaille pour l’appelante depuis l’an 2000;
+cc) il a débuté en s’occupant du transport de marchandise entre les magasins;
+dd) ses principales tâches se résumaient ainsi :
+- s’occuper de la publicité des magasins,
+- s’occuper de l’équipement et de l’entretien des bâtisses,
+- s’occuper de l’aménagement intérieur des magasins;
+ee) pour l’ouverture du nouveau magasin à Beauport, il s’est occupé de l’approvisionnement et de l’aménagement des comptoirs caisses, des photocopieurs, des caisses électroniques, etc.;
+gg) il recevait une rémunération fixe par semaine sans pouvoir préciser combien il gagnait par semaine;
+hh) selon les feuillets T-4 émis par l’appelante, sa rémunération annuelle a été de : 36 566 $ en 2004, 35 550 $ en 2005 et de 50 946 $ en 2006;
+ii) à sa demande, il a reçu, en fin d’année et inclus dans sa rémunération annuelle, un boni de 22 000 $ en 2006 et un de 14 000 $ en 2007;
+6. a) Yves Croteau était l’unique actionnaire de l’appelante;
+b) Émilie et Valérie Croteau sont les filles de M. Yves Croteau;
+c) Jean-Martin Paulin est le conjoint de Valérie Croteau et le gendre de Yves Croteau;
+d) les travailleurs étaient liés à une personne qui contrôlait l’appelante.
+7. f) le travail de chacun des travailleurs était indispensable à la bonne marche des activités de l’appelante;
+h) les travailleurs sont à l’emploi de l’appelante depuis de nombreuses années, ils exécutent leurs fonctions à l’année longue et leur travail correspond aux besoins opérationnels de l’appelante.
+[10] D’autres hypothèses de fait ont été niées par l’appelante. Il s’agit des hypothèses de fait suivantes :
+5. f) la tenue des livres comptables de l’appelante est faite par une secrétaire et Yves Croteau contrôle les dépenses et surveille les relevés des achats et ventes de l’appelante;
+g) Yves Croteau demeure l’unique signataire des chèques de l’appelante; les travailleurs doivent toujours avoir son accord avant d’effectuer des dépenses;
+i) Yves Croteau ne connaît pas l’horaire de travail des travailleurs mais participait aux déterminations des salaires et bonis versés aux travailleurs;
+ÉMILIE CROTEAU
+p) elle n’avait aucun horaire fixe de travail à suivre mais estime qu’elle faisait généralement entre 40 et 50 heures par semaine;
+q) elle débutait vers 8 h ou 9 h le matin et pouvait terminer vers 18 h ou 19 h;
+VALÉRIE CROTEAU
+w) elle travaillait normalement du lundi au vendredi, de 8 h à 18 h, rarement le soir ou la fin de semaine;
+x) elle n’avait pas d’horaire de travail à respecter mais estime qu’elle faisait une moyenne de 60 heures par semaine;
+JEAN-MARTIN PAULIN
+ff) il n’avait aucun horaire spécifique de travail à respecter mais estime qu’il faisait, en moyenne, 50 heures par semaine;
+jj) les travailleurs avaient une grande latitude dans leur horaire de travail et dans l’exécution de leurs tâches mais devaient consulter le seul actionnaire de l’appelante pour toute question importante liée à l’exploitation de l’entreprise;
+kk) l’actionnaire de l’appelante était en mesure de diriger et de contrôler tout le travail exécuté par travailleurs.
+7. a) les travailleurs bénéficiaient d’une latitude concernant leur horaire de travail mais étaient assujettis au pouvoir de l’appelante exercé par M. Yves Croteau, seul actionnaire de l’appelante;
+b) les travailleurs recevaient une rémunération raisonnable basée sur leur nombre d’années d’expériences et en relation avec les tâches qui leurs étaient assignées par l’appelante;
+c) les travailleurs recevaient un boni annuel supérieur aux autres employés de l’appelante (tous les employés en recevaient) mais celui-ci était raisonnable eu égard aux responsabilités qui leur étaient confiées;
+d) le boni de M. Jean-Martin Paulin était plus élevé que celui des 2 autres travailleurs mais uniquement par choix de ce dernier qui recevait une rémunération hebdomadaire moindre (sa rémunération globale étant similaire aux 2 autres).
+e) chacun des travailleurs demeurait responsable de son secteur d’activités et rendait des services à l’appelante comme salarié en plus de son statut de cadre dirigeant;
+g) si les travailleurs avaient des conditions de travail particulières ce n’était pas en vertu de leur lien de dépendance avec l’appelante mais en vertu de leur statut de cadre auprès de l’appelante;
+[11] Valérie Croteau et son conjoint Jean‑Martin Paulin ont témoigné. Madame Croteau a fait l’historique des magasins Croteau au Québec qui ont pris au fil des ans une place fort importante dans ce secteur d’activité économique, soit la vente de vêtements pour tous les membres de la famille.
+[12] Elle a expliqué qu’au fil des ans, l’entreprise avait lancé plusieurs divisions. La famille Croteau œuvre dans le domaine depuis plus de quatre générations.
+[13] Quant à l’entreprise appelante, elle est propriétaire de trois magasins, situés à Lévis, à St‑Rédemption et à Beauport. L’unique actionnaire, Yves Croteau, est le père de Valérie et Émilie. Monsieur Croteau est propriétaire des immeubles où sont exploités les trois magasins. Valérie Croteau a expliqué son travail, celui de sa soeur et celui de son conjoint Jean‑Martin Paulin qui s’est joint au groupe lorsqu’il est devenu son ami et plus tard son conjoint.
+[14] Elle a expliqué et décrit leurs responsabilités; elle a beaucoup insisté sur le fait qu’elle, son conjoint et sa sœur bénéficiaient en tout temps d’une très grande flexibilité et d’une complète autonomie dans le cadre de leur travail.
+[15] Elle a illustré cette liberté et autonomie par de multiples exemples, allant de la fixation des salaires, à la détermination des bonis, en passant par le pouvoir discrétionnaire au niveau des achats, de la publicité, de l’aménagement des magasins, du choix des inventaires etc. Elle a également affirmé que la décision d’ouvrir le troisième magasin venait d’elle, son père ayant été plutôt tiède à cette idée.
+[16] Pour valider la thèse de la très grande liberté et autonomie des travailleurs, elle a affirmé que son père était souvent absent, qu’il se préoccupait peu des décisions qu’elle prenait avec sa sœur et son conjoint, et que cela le laissait même indifférent.
+[17] Elle a indiqué que son père se présentait très rarement au magasin au point où elle et sa sœur avaient depuis quelques années, y compris la période en litige, l’impression de travailler comme propriétaires de l’entreprise. En d’autres termes, elle consacrait de nombreuses heures à son travail, soit jusqu’à une centaine d’heures par semaine durant certaines périodes, dont notamment lors de l’ouverture du troisième magasin.
+[18] Elle organisait, gérait, planifiait et décidait tout exactement comme si elle avait été co-propriétaire avec sa sœur. Elle a indiqué que son père se rendait au magasin pour signer les chèques et qu’il était effectivement la seule personne autorisée à signer les chèques.
+[19] Madame Dessureault a recueilli les renseignements pertinents et a effectué le travail d’analyse qui a mené à la décision dont il est fait appel.
+[20] J’ai constaté des différences importantes entre les informations obtenues lors des conversations téléphoniques dans le cours de l’étude du dossier et le témoignage de madame Croteau et de son conjoint à l’audience.
+[21] Ces différences ne m’amènent pas à conclure que la Cour est aux prises avec des déclarations mensongères, mais plutôt qu’elle se trouve devant une interprétation très différente des faits.
+[22] Même si les sœurs Croteau agissent comme co-propriétaires des trois magasins, sur le plan juridique elles ne le sont pas. Même si elles croient être autonomes, elles ne signent pas les chèques de l’entreprise. Cette prérogative appartient à leur père qui possède plus de 40 ans d’expérience dans l’exploitation de l’entreprise.
+[23] Il faut comprendre que monsieur Croteau, père, perçoit un montant substantiel pour la location des locaux où sont exploités les trois magasins de l’entreprise. Ces locaux sont situés dans des immeubles dont il est l’unique propriétaire. En outre, il reçoit un salaire substantiel en contrepartie d’une prestation de travail très marginale; son épouse reçoit également un salaire.
+[24] Père de deux filles dont il est sans doute fier, elle représentent pour lui la relève et elles sont au cœur de sa planification successorale.
+[25] Il s’agit probablement d’un scénario idéal pour un père. Les filles en sont conscientes et il est facile de comprendre pourquoi elles pensent et agissent comme des propriétaires.
+[26] Bien que les perceptions des sœurs Croteau soient possiblement justifiées, la Cour doit examiner la situation réelle qui existait pendant la période en litige. D’autre part, la Cour reconnaît que les soeurs Croteau sont des filles talentueuses, travaillantes, dynamiques, déterminées et même audacieuses, qu’elles contribuent au succès de l’entreprise et qu’il est tout à fait normal que leur père veuille se retirer et donc qu’il leur fasse confiance d’une manière presque absolue.
+[27] Cependant, le pouvoir de signer les chèques dans une entreprise de ce genre n’est pas un détail secondaire. Signer les chèques pour quelqu’un qui a 40 ans d’expérience, signifie qu’il conserve un droit de regard sur la quantité et la qualité des inventaires, la raisonnabilité et la pertinence des coûts aux activités. En d’autres termes, son pouvoir de signer les chèques lui permet d’examiner en profondeur toutes les opérations, problèmes embryonnaires ou potentiels et d’entreprendre une intervention rapide et importante si nécessaire.
+[28] Lors de son témoignage, le conjoint de Valérie a fait une affirmation très intéressante pour expliquer l’autonomie dont jouissent les sœurs Croteau. Il a affirmé que monsieur Croteau était un peu comme un banquier, un bailleur de fonds.
+[29] La comparaison est excellente puisqu’un bailleur de fonds ou un banquier fait généralement confiance à ceux et celles à qui il avance des fonds. Les fonds prêtés sont utilisés selon le bon vouloir de l’emprunteur. Si les choses vont bien, les relations avec le banquier seront bonnes.
+[30] Par contre, si les résultats ne sont pas à la hauteur des attentes des parties ou si la situation soulève certaines inquiétudes, les relations avec le banquier se durciront, se refroidiront au point où ce dernier pourrait faire obstacle aux efforts des emprunteurs et leur imposer des choix à défaut de quoi le banquier pourrait mettre un terme à l’entente.
+[31] En l’espèce, madame Dessureault a effectué son analyse d’une façon judicieuse en prenant en considération tous les faits pertinents et sa conclusion s’avère tout à fait raisonnable compte tenu de la preuve.
+[32] En effet, l’importance du rôle du père dans l’entreprise ne peut se mesurer en terme d’assiduité dans les magasins de l’entreprise ni par le nombre de ses interventions dans la gestion quotidienne de l’entreprise.
+[33] Madame Dessureault a bien évalué la situation et sa conclusion s’avère raisonnable. Liberté, autonomie, pouvoir de prendre des décisions sont des droits dont l’appréciation est très subjective.
+[34] D’autre part, il s’agit là de droits dont l’étendue est strictement circonscrite par l’autorité, en l’espèce le père dont le contrôle sur l’entreprise est réel; la preuve n’a pas démontré qu’il y avait renoncé. Dans un tel contexte, liberté et autonomie sont des droits dont les titulaires peuvent facilement et rapidement être dépouillés.
+[35] Pour ces raisons, je dois confirmer le bien-fondé de la décision et rejeter l’appel.
+Signé à Ottawa, Canada, ce 19e jour de décembre 2008.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2008 CCI 610
+Nº DU DOSSIER DE LA COUR : 2008-1155(EI)
+INTITULÉ DE LA CAUSE : AUBAINES YVES CROTEAU 111 INC. ET M.R.N.
+LIEU DE L’AUDIENCE : Québec (Québec)
+DATE DE L’AUDIENCE : le 22 octobre 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge Alain Tardif
+DATE DU JUGEMENT : le 19 décembre 2008
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Jérôme Carrier
+Avocate de l'intimé :
+Me Nadia Golmier
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom : Me Jérôme Carrier
+Cabinet : Lévis (Québec)
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

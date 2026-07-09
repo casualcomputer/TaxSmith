@@ -1,0 +1,137 @@
+---
+title: "Toole v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30702/index.do"
+last_modified: "2012-02-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 50"
+citation2: ""
+neutral_citation: "2012 TCC 50"
+decision_date: "2012-02-13"
+language: "en"
+item_id: "30702"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7505
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:36:41.134000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4e58f5874e83afd8cc545641a252dbc9c45db46929362aa662f673a51c1802de"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Toole v. M.N.R.
+
+- Citation: 2012 TCC 50
+- Decision date: 2012-02-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7505, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Toole v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-02-13
+Neutral citation
+2012 TCC 50
+File numbers
+2010-41(CPP)
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Canada Pension Plan
+Decision Content
+Docket: 2010-41(CPP)
+BETWEEN:
+GIFFORD H. TOOLE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 18, 2012 in Toronto, Ontario
+Before: The Honourable Justice J.M. Woods
+Appearances:
+Counsel for the Appellant:
+Nicholas Derzko
+Counsel for the Respondent:
+Andrew Kinoshita
+Craig Maw
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to a decision of the Minister of National Revenue made under the Canada Pension Plan that no contributions are required for the 1999, 2000 and 2001 calendar years is dismissed, and the decision is confirmed.
+Signed at Toronto, Ontario this 13th day of February 2012.
+“J. Woods”
+Woods J.
+Citation: 2012 TCC 50
+Date: 20120213
+Docket: 2010-41(CPP)
+BETWEEN:
+GIFFORD H. TOOLE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] Gifford Toole appeals in respect of a decision of the Minister of National Revenue made under the Canada Pension Plan (the “Plan”) that no contributions are required for the 1999, 2000 and 2001 calendar years. Mr. Toole seeks to vacate that decision so that his benefits under the Plan would be increased by approximately $100 per month.
+[2] The Minister’s decision was made on the basis that Mr. Toole had been more than four years late in filing a return of earnings and that the Minister had not assessed CPP contributions within that time.
+[3] The relevant provisions are subsections 30(1), (2) and (5) of the Plan. They are reproduced below.
+30. Return to be filed - (1) Where a person is required to make a contribution for a year in respect of self-employed earnings, a return of the person’s self-employed earnings for the year shall, without notice or demand for it, be filed with the Minister in the prescribed form and manner and containing the prescribed information, by that person (or, if the person is unable for any reason to file the return, by their representative) on or before the day on or before which the person’s return of income under Part I of the Income Tax Act is required by that Part to be filed or would be required by that Part to be filed if tax under that Part were payable for the year.
+(2) Demand for return - Whether or not he is liable to make a contribution for a year in respect of his self-employed earnings and whether or not a return has been filed under subsection (1), every person shall, on demand from the Minister, served personally or by registered letter, file with the Minister in prescribed form and containing prescribed information, within such reasonable time as may be stipulated in the demand, a return of his self-employed earnings for the year designated therein.
+(5) Where no return filed within four years - The amount of any contribution required by this Act to be made by a person for a year in respect of their self-employed earnings for the year is deemed to be zero where
+(a) the return of those earnings required by this section to be filed with the Minister is not filed with the Minister before the day that is four years after the day on or before which the return is required by subsection (1) to be filed; and
+(b) the Minister does not assess the contribution before the end of those four years.
+[4] Mr. Toole acknowledges that he did not file a return of earnings within the four-year period required by subsection 30(5). In his testimony, he explained that he was going through a very busy period and that he did not file income tax returns until 2007.
+[5] Mr. Toole also acknowledges that he did not comply with the requests and demands to file tax returns that were made by the Canada Revenue Agency. He explained that he did not think there was any difficulty with this because he had paid the amounts due by the appropriate deadlines. According to Mr. Toole’s testimony, the CRA demand letters referred to a penalty for failure to file, but only if tax was owing. He therefore concluded that there were no adverse consequences in being late to file. He further testified that he could not find any reference to this requirement in any CRA publications.
+[6] Mr. Toole acknowledges that the four-year deadline set out in subsection 30(5) has not been satisfied. His counsel submits, though, that relief should be granted because the reduction of CPP benefits that results far outweighs the severity of the default. According to Mr. Toole’s calculations, the loss of CPP benefits is approximately $20,000 over his statistical life expectancy.
+[7] I sympathize with Mr. Toole’s circumstances. However, subsection 30(5) of the Plan is clear and there is no basis on which I can vacate the Minister’s decision.
+[8] In this regard, I refer to a comment by Rothstein J.A. (as he was then) in Chaya v The Queen, 2004 FCA 327, 2004 DTC 6676.
+[4] The applicant says that the law is unfair and he asks the Court to make an exception for him. However the Court does not have that power. The Court must take the statute as it finds it. It is not open to the Court to make exceptions to statutory provisions on the grounds of fairness or equity. If the applicant considers the law unfair, his remedy is with Parliament, not with the Court.
+[9] Counsel for Mr. Toole also submits that the Minister could have, and should have, extended the time for filing a return. He referred me to subsection 220(3) of the Income Tax Act, which provides:
+(3) Extensions for returns. The Minister may at any time extend the time for making a return under this Act.
+[10] The problem with this submission is that the four-year filing deadline starts to run from the time that a return of income is required under Part I of the Income Tax Act. Subsection 220(3) is under Part XV, not Part I. Accordingly, this provision has no relevance in determining whether the requirements of section 30 of the Plan have been satisfied.
+[11] In the notice of appeal, Mr. Toole raises a further argument that subsection 30(5) discriminates against self-employed individuals because the provision would not apply to persons who are employed. It is difficult for me to understand this argument and it was not pursued by counsel at the hearing.
+[12] In the result, the appeal must be dismissed. Mr. Toole must bear some of the blame for the loss of benefits because he ignored the statutory obligation to file income tax returns on time. Nevertheless, the circumstances as a whole are sympathetic, and it is with regret that the appeal will be dismissed.
+Signed at Toronto, Ontario this 13th day of February 2012.
+“J. Woods”
+Woods J.
+CITATION: 2012 TCC 50
+COURT FILE NO.: 2010-41(CPP)
+STYLE OF CAUSE: GIFFORD H. TOOLE and THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: January 18, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice J.M. Woods
+DATE OF JUDGMENT: February 13, 2012
+APPEARANCES:
+Counsel for the Appellant:
+Nicholas Derzko
+Counsel for the Respondent:
+Andrew Kinoshita
+Craig Maw
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Nicholas Derzko
+Firm: Nicholas Derzko
+Toronto, Ontario
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Ontario

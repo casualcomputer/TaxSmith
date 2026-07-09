@@ -1,0 +1,173 @@
+---
+title: "Chiasson c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29746/index.do"
+last_modified: "2010-04-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 202"
+citation2: ""
+neutral_citation: "2010 CCI 202"
+decision_date: "2010-04-15"
+language: "fr"
+item_id: "29746"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6553
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:05:47.528000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "df0b28ea100517a8d89280fc54d771cfafdc0a8ca67690226065a8ba608a11b5"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Chiasson c. La Reine
+
+- Citation: 2010 CCI 202
+- Decision date: 2010-04-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6553, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chiasson c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-04-15
+Référence neutre
+2010 CCI 202
+Numéro de dossier
+2007-436(IT)I
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-436(IT)I
+ENTRE :
+DAVID E. CHIASSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 12 février 2010 à Winnipeg (Manitoba).
+Devant : L’honorable juge C. H. McArthur
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocats de l’intimée :
+Me Gerald Chartier et
+Me Cam Regehr
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2003, 2004 et 2005 sont rejetés.
+Signé à Ottawa, Canada, ce 15e jour d’avril 2010.
+« C. H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 9e jour de juin 2010.
+Mario Lagacé, jurilinguiste
+Référence : 2010 CCI 202
+Date : 20100415
+Dossier : 2007-436(IT)I
+ENTRE :
+DAVID E. CHIASSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge McArthur
+[1] Les appels sont interjetés à l’encontre des cotisations établies par le ministre du Revenu national (le « ministre ») pour les années d’imposition 2003, 2004 et 2005. L’appelant est un ancien combattant des Forces armées canadiennes qui a obligatoirement pris sa retraite en raison d’une invalidité après 19 ans et 19 jours de service. Il a reçu des prestations de retraite qui ont été incluses dans son revenu imposable. Il soutient que ces prestations devraient être exemptées d’impôt.
+Questions en litige
+[2] Les prestations de retraite sont-elles exemptées d’impôt en vertu de la Loi de l’impôt sur le revenu (la « LIR »)? Si elles ne sont pas exemptées d’impôt, devraient‑elles être exonérées en application du paragraphe 15(1) de la Charte canadienne des droits et libertés (la « Charte »)?
+[3] L’appelant est un homme sympathique et intelligent que je loue pour sa présentation brillante et bien documentée. Il a manifestement passé des semaines, sinon des mois, à se préparer.
+[4] Il souffre d’un trouble de stress post‑traumatique et un diagnostic a été établi à cet effet au mois d’avril 2004. Il suit une pharmacothérapie, et son conseiller des Anciens Combattants travaille à l’élaboration d’un programme global de réadaptation comportant plusieurs spécialités. Le stress et l’anxiété peuvent avoir des répercussions importantes sur lui[1].
+[5] Dans le calcul de son revenu pour les années d’imposition 2003, 2004 et 2005, l’appelant n’a pas inclus les prestations de retraite respectives de 25 842 $, de 26 617 $ et de 27 070 $ qu’il avait reçues en application de l’alinéa 16(1)d) de la Loi sur la pension de retraite des Forces canadiennes (la « LPRFC »). De plus, il a reçu une prestation d’invalidité en vertu de l’article 21 de la Loi sur les pensions, et cette prestation d’invalidité était exemptée d’impôt selon l’alinéa 81(1)d) de la LIR.
+Les dispositions applicables
+[6] Les prestations de pension reçues doivent être incluses dans le revenu imposable du contribuable en application du sous‑alinéa 56(1)a)(i) de la LIR qui est ainsi libellé :
+Sans préjudice de la portée générale de l’article 3, sont à inclure dans le calcul du revenu d’un contribuable pour une année d’imposition :
+a) toute somme reçue par le contribuable au cours de l’année au titre, ou en paiement intégral ou partiel :
+(i) d’une prestation de retraite ou de pension, y compris, sans préjudice de la portée générale de ce qui précède :
+[7] Le paragraphe 248(1) de la LIR définit les prestations de retraite ou de pension de la manière suivante :
+[...] les sommes reçues dans le cadre d’une caisse ou d’un régime de retraite ou de pension, et, notamment, tous versements faits à un a bénéficiaire dans le cadre de la caisse ou du régime, ou à un employeur ou un ancien employeur du bénéficiaire :
+a) conformément aux conditions de la caisse ou du régime;
+b) par suite d’une modification apportée à la caisse ou au régime;
+c) par suite de la liquidation de la caisse ou du régime.
+[8] Le paragraphe 81(1) de la LIR énumère les montants qui ne sont pas inclus dans le revenu. Les dispositions relatives aux prestations de retraite versées aux militaires des Forces canadiennes en font partie.
+81(1) Ne sont pas inclus dans le calcul du revenu d’un contribuable pour une année d’imposition :
+[…]
+d) une pension, allocation ou indemnité reçue en vertu de la Loi sur les pensions, de la Loi sur les prestations de guerre pour les civils ou de la Loi sur les allocations aux anciens combattants, ou régie par ces lois, un montant reçu en vertu du Décret sur les prestations pour bravoure ou encore une indemnité reçue en vertu des règlements d’application de l’article 9 de la Loi sur l’aéronautique.
+d.1) le total des sommes reçues par le contribuable au cours de l’année au titre soit d’une allocation de soutien du revenu qui lui est payable en vertu de la partie 2 de la Loi sur les mesures de réinsertion et d’indemnisation des militaires et vétérans des Forces canadiennes, soit d’une indemnité d’invalidité, d’une indemnité de décès, d’une allocation vestimentaire ou d’une indemnité de captivité qui lui est payable en vertu de la partie 3 de cette loi;
+e) une pension reçue pour cause d’invalidité ou de décès survenus pendant une guerre, et provenant d’un pays qui était un allié du Canada au moment de la guerre, si ce pays accorde pour l’année sensiblement le même dégrèvement à une personne qui reçoit une pension visée à l’alinéa d);
+Analyse
+[9] L’appelant reçoit deux pensions. Il reçoit la première en vertu de l’article 21 de la Loi sur les pensions. Il est entendu que cette prestation est exemptée d’impôt selon l’alinéa 81(1)d) de la LIR, et elle n’est pas en cause dans les présents appels. L’appelant reçoit la deuxième pension en vertu de l’alinéa 16(1)d) de la LPRFC[2]. Aucune des dispositions d’exonération de l’article 81 de la LIR n’inclut les prestations de pension versées au titre de la LPRFC et ces prestations ne sont pas exemptées d’impôt. Par application de l’alinéa 56(1)a) et de l’article 3 de la LIR, l’appelant doit inclure les prestations ainsi reçues dans son revenu imposable.
+[10] J’examinerai à présent l’argument de l’appelant fondé sur la Charte canadienne des droits et libertés (la « Charte »). Il invoque le paragraphe 15(1) de la Charte au soutien de sa prétention. Voici la teneur de cette disposition :
+La loi ne fait acception de personne et s’applique également à tous, et tous ont droit à la même protection et au même bénéfice de la loi, indépendamment de toute discrimination, notamment des discriminations fondées sur la race, l’origine nationale ou ethnique, la couleur, la religion, le sexe, l’âge ou les déficiences mentales ou physiques.
+[11] L’appelant soutient que les prestations de retraite pour invalidité versées au titre de la LPRFC devraient être exemptées d’impôt parce que l’alinéa 81(1)i) de la LIR accorde un tel allégement fiscal aux anciens membres de la Gendarmerie royale du Canada (la « GRC») en vertu de la Loi sur la pension de retraite de la Gendarmerie royale du Canada (la « LPRGRC »). Cette disposition est libellée ainsi :
+81(1) Ne sont pas inclus dans le calcul du revenu d’un contribuable pour une année d’imposition :
+i) une pension ou une indemnité pour blessure, invalidité ou décès reçue en vertu de l’article 5, 31 ou 45 de la Loi sur la continuation des pensions de la Gendarmerie royale du Canada, chapitre R-10 des Statuts révisés du Canada de 1970, ou des articles 32 ou 33 de la Loi sur la pension de retraite de la Gendarmerie royale du Canada;
+[12] Le paragraphe 17 de la décision de la Cour suprême du Canada dans R. c. Kapp.[3] comporte un critère permettant d’établir l’existence de discrimination au sens du paragraphe 15(1) :
+Le modèle établi dans l’arrêt Andrews, qui a été explicité dans une série de décisions ayant abouti à l’arrêt Law c. Canada (Ministre de l’Emploi et de l’Immigration), [1999] 1 R.C.S. 497, établissait essentiellement un critère à deux volets devant être utilisé pour démontrer l’existence de discrimination au sens du par. 15(1) : (1) La loi crée‑t‑elle une distinction fondée sur un motif énuméré ou analogue? (2) La distinction crée‑t‑elle un désavantage par la perpétuation d’un préjugé ou l’application de stéréotypes? Il était question de trois volets dans l’arrêt Law, mais nous estimons que le critère est essentiellement le même.
+[13] Si la réponse aux deux questions est « oui », alors il y a eu atteinte au droit garanti par le paragraphe 15(1) de la Charte. Toutefois, la restriction au droit peut être justifiée au sens de l’article premier de la Charte comme étant dans des limites qui sont raisonnables et dont la justification peut se démontrer dans le cadre d’une société libre et démocratique.
+La loi établit‑elle une distinction fondée sur un motif énuméré ou analogue?
+[14] La pension dont il est question est assurément une pension d’invalidité. La conclusion est importante parce que l’argument de l’appelant fondé sur la Charte reposait sur la comparaison du traitement entre les prestations de pension d’invalidité des Forces canadiennes et celles de la GRC.
+[15] L’appelant soutient qu’il y a une distinction entre les deux groupes parce que les prestations versées en vertu de l’article 32 ou 33 de la LPRGRC font l’objet d’un allégement prévu à l’alinéa 81(1)i) de la LIR contrairement aux prestations versées en vertu de l’alinéa 16(1)d) de la LPRFC.
+[16] Je ne puis établir une telle distinction. Les membres des Forces canadiennes et les membres de la GRC qui sont obligés de prendre leur retraite pour cause d’invalidité peuvent recevoir deux types de pensions. Le premier type de pension est exempté d’impôt. Aux termes de l’article 21 de la Loi sur les pensions, les membres des Forces canadiennes reçoivent une pension d’invalidité, laquelle est exempte d’impôt, selon l’alinéa 81(1)d) de la LIR. L’appelant en est bénéficiaire. De même, les pensions d’invalidité prévues aux articles 32 et 33 de la LPRGRC sont exemptées d’impôt selon l’alinéa 81(1)i) de la LIR. Les deux parties bénéficient d’un traitement fiscal semblable pour un type de pension semblable.
+[17] Le second type de pension n’est pas exempté d’impôt. Selon l’alinéa 16(1)d) de la LPRFC, les prestations doivent être incluses dans le revenu en application de l’alinéa 56(1)a) de la LIR. De même, un membre de la GRC qui reçoit une pension d’invalidité semblable en vertu paragraphe 11(2) de la LPRGRC doit l’inclure dans son revenu, en application de l’alinéa 56(1)a) de la LIR.
+[18] En résumé, il n’y a pas de distinction de traitement fiscal entre les bénéficiaires de prestations d’invalidité de la GRC et ceux des Forces canadiennes.
+[19] En outre, le motif analogue sur lequel l’appelant fonde son argument basé sur la Charte, le statut professionnel, en fait n’en est pas un. Voir Baier c. Alberta[4], au paragraphe 65, et Delisle c. Canada, au paragraphe 44[5].
+[20] Après avoir conclu que l’argument de l’appelant fondé sur la Charte est sans fondement parce qu’il n’y a pas de distinction ni de motif analogue, il n’est pas nécessaire d’analyser le deuxième volet.
+[21] Pour ces motifs, les appels sont rejetés.
+Signé à Ottawa, Canada, ce 15e jour d’avril 2010.
+« C. H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 9e jour de juin 2010.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2010 CCI 202
+No DU DOSSIER DE LA COUR : 2007-436(IT)I
+INTITULÉ : DAVID E. CHIASSON
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Winnipeg (Manitoba)
+DATE DE L’AUDIENCE : Le 12 février 2010
+MOTIFS DU JUGEMENT : L’honorable juge C. H. McArthur
+DATE DU JUGEMENT : Le 15 avril 2010
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocats de l’intimée :
+Me Gerald Chartier et
+Me Cam Regehr
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : s/o
+Cabinet : s/o
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Tiré des renseignements reçus lors d’une demande d’ajournement le 6 mai 2009.
+[2] Loi sur la pension de retraite des Forces canadiennes susmentionnée.
+[3] 2008 CSC 41.
+[4] 2007 CSC 31.
+[5] [1999] 2 R.C.S. 989.

@@ -1,0 +1,213 @@
+---
+title: "Desmarais c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26434/index.do"
+last_modified: "2006-06-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 329"
+citation2: ""
+neutral_citation: "2006 CCI 329"
+decision_date: "2006-06-30"
+language: "fr"
+item_id: "26434"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3185
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:30:17.346000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b243c6a2f389b2aaa330d96ecd11d60443478dd38207cf719b6951c418867a33"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Desmarais c. M.R.N.
+
+- Citation: 2006 CCI 329
+- Decision date: 2006-06-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3185, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Desmarais c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-06-30
+Référence neutre
+2006 CCI 329
+Numéro de dossier
+2005-859(EI)
+Juges et Officiers taxateurs
+Sylvio J. Savoie
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2005-859(EI)
+ENTRE :
+MICHEL DESMARAIS,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de Pierre Desmarais (2005-860(EI)) le 28 mars 2006 à Québec (Québec)
+Devant : L'honorable S.J. Savoie, juge suppléant
+Comparutions :
+Avocat de l'appelant :
+Me Normand Drolet
+Avocate de l'intimé :
+Me Marie-Claude Landry
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le Ministre est confirmée selon les motifs du jugement ci-joints.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 30e jour de juin 2006.
+« S.J. Savoie »
+Juge suppléant Savoie
+Référence : 2006CCI329
+Date : 20060630
+Dossier : 2005-859(EI)
+ENTRE :
+MICHEL DESMARAIS,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+ET
+Dossier : 2005-860(EI)
+PIERRE DESMARAIS,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge suppléant Savoie
+[1] Ces appels ont été entendus sur preuve à Québec (Québec), le 28 mars 2006.
+[2] Il s'agit d'appels des décisions du ministre du Revenu national (le « Ministre » en date du 25 novembre 2004. La période en litige des appelants va du 1er janvier 2003 au 16 août 2004. Au centre du débat se situe le travail exécuté par les frères Michel et Pierre Desmarais pour le compte de la société par actions Quincaillerie Hors Série Inc., le payeur, dont ils étaient également actionnaires et administrateurs.
+[3] Le Ministre a déterminé que les appelants exerçaient un emploi auprès du payeur aux termes d'un contrat de louage de services, en s'appuyant sur les faits présumés suivants :
+5.a) le payeur, constitué en société le 28 juillet 1987, exploite une quincaillerie familiale;
+b) le payeur exploite son entreprise à l'année longue et se spécialise dans la vente d'articles de quincaillerie décorative et architecturale (serrures, poignées de portes, etc.);
+c) l'appelant [Pierre Desmarais] rend des services au payeur depuis 1987;
+l'appelant [Michel Desmarais] depuis 1988;
+d) en plus d'embaucher l'appelant et son frère (actionnaire), le payeur embauche un commis à l'accueil et un occasionnel;
+e) les principales tâches de l'appelant [Pierre Desmarais] se résumaient ainsi :
+- répondre à la clientèle, au téléphone et au magasin,
+- s'occuper des achats, de la promotion et de la publicité,
+- participer à des expositions, etc.
+les principales tâches de l'appelant [Michel Desmarais] se résumaient ainsi :
+- répondre à la clientèle, au téléphone et au magasin,
+- s'occuper des achats et de l'inventaire,
+- trouver de nouveaux produits,
+- rencontrer les fournisseurs,
+- préparer les dépôts, etc.
+f) l'appelant avait un horaire de travail variable selon les besoins du payeur qui ne comptabilisait pas ses heures;
+g) il travaillait généralement du lundi au mercredi entre 8 h 30 et 17 h 30, les jeudis et vendredis entre 8 h 30 et 21 h et, en alternance avec son frère, le samedi entre 9 h et 17 h;
+h) malgré un horaire pouvant varier, l'appelant faisait en moyenne 48 heures par semaine;
+i) il devait toujours y avoir l'un des actionnaires, l'appelant ou son frère, au magasin; l'appelant devait aviser son frère quand il devait s'absenter du magasin;
+j) pour accomplir ses tâches, l'appelant utilisait tout le matériel et l'équipement du payeur;
+k) lorsqu'il devait utiliser sa voiture dans le cadre de son travail, il utilisait la carte de crédit du payeur;
+l) l'appelant recevait une rémunération de 900 $ par quinzaine et un bonus annuel lui conférant une rémunération annuelle totale de 40 000 $;
+m) il était rémunéré par chèques encaissés régulièrement.
+[4] Les appelants et le payeur sont des personnes liées au sens de la Loi de l'impôt sur le revenu car :
+6.a) les détenteurs des actions comportant droit de vote du payeur étaient :
+-l'appelant, Michel Desmarais, avec 35 % des actions,
+-l'appelant, Pierre Desmarais, avec 40 % des actions,
+-Claude Dupéré, conjointe de l'appelant Pierre Desmarais, avec 25 % des actions;
+b) les appelants sont membres d'un groupe lié qui contrôle le payeur.
+[5] Le Ministre a déterminé que l'appelant et le payeur étaient réputés ne pas avoir de lien de dépendance entre eux dans le cadre de cet emploi car il a été convaincu qu'il était raisonnable de conclure que l'appelant et le payeur auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance, compte tenu des circonstances suivantes qui sont les mêmes dans les deux dossiers :
+7.a) l'appelant recevait une rémunération de 450 $ par semaine plus un bonus annuel pour un total raisonnable de 40 000 $ par année;
+b) l'appelant travaillait à l'année longue pour le payeur;
+c) l'appelant travaillait environ 48 heures par semaine, utilisait le matériel et l'équipement du payeur et n'encourait, comme employé du payeur, aucun risque de perte;
+d) les tâches et responsabilités de l'appelant étaient nécessaires à la bonne marche des affaires du payeur.
+[6] Les appelants ont admis les faits présumés du Ministre sauf ceux énoncés dans la réponse à l'avis d'appel aux alinéas 5.d), e) et g) à k) et à l'alinéa 7.c).
+[7] Il a été établi que le payeur embauchait aussi deux étudiants comme commis aux ventes durant la saison estivale.
+[8] Au-delà des tâches des appelants reconnues par le Ministre, ceux-ci, à l'audition, en ont énuméré d'autres, tels la mise en marché de quelques 3 000 produits qu'ils sélectionnent avec soin de façon à protéger leur niche particulière puisqu'ils ne peuvent pas concurrencer avec les gros de cette industrie, tel Rona, par exemple. Dans cet objectif, ils louent des espaces aux différentes expositions de l'habitation où ils annoncent leurs différents produits.
+[9] Les deux appelants ne comptaient pas leurs heures de travail. Au magasin, ils étaient présents, à la tâche, environ 55 à 60 heures par semaine. En outre, ils travaillaient souvent le soir, les fins de semaines et les jours de congé. Les appelants ne recevaient aucune compensation pour les heures supplémentaires travaillées. Ils utilisaient la carte de crédit du payeur lorsqu'ils se déplaçaient avec leur voiture soit pour rencontrer des clients ou participer à des expositions.
+[10] Ils étaient tous les deux solidairement responsables des emprunts du payeur et de la marge de crédit de 20 000,00 $ du payeur. Les appelants se rencontraient à la réunion annuelle du payeur, en compagnie de leur comptable. Par contre, ils discutaient tous les jours des affaires du payeur.
+[11] Les appelants, en tant qu'actionnaires du payeur, se votaient un bonus, mais cette pratique n'était pas automatique, c'était selon la rentabilité de l'entreprise.
+[12] Il reste à déterminer si l'emploi des appelants est exclu des emplois assurables.
+[13] Puisque les appelants étaient liés à un groupe qui contrôlait le payeur, le Ministre a déterminé que ces personnes avaient entre elles un lien de dépendance, tel que le prescrit la Loi de l'impôt sur le revenu, au sous-alinéa 251(2)b)iii) reproduite ci-dessous :
+5(2) Définition de « personnes liées » . Pour l'application de la présente loi, sont des « personnes liées » ou des personnes liées entre elles :
+[...]
+b) une société et :
+[...]
+(iii) toute personne liée à une personne visée au sous-alinéa (i) ou (ii);
+[...]
+[14] En vertu de ce qui précède, le Ministre soutient que l'emploi des appelants est exclu en vertu de l'alinéa 5(2)i) de la Loi sur l'assurance-emploi (la « Loi » ), reproduit ci-dessous :
+(2) N'est pas un emploi assurable :
+[...]
+i) l'emploi dans le cadre duquel l'employeur et l'employé ont entre eux un lien de dépendance.
+[15] Il appartient donc au Ministre d'exercer son pouvoir discrétionnaire selon le mandat qu'il a reçu du Législateur sous l'alinéa 5(3)b) de la Loi, pour déterminer si des personnes non liées auraient conclu, entres elles, un contrat de travail à peu près semblable s'il n'avait pas eu de lien de dépendance. Je reproduis ci-dessous, cet alinéa :
+(3) Pour l'application de l'alinéa (2)i) :
+[...]
+b) l'employeur et l'employé, lorsqu'ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu'il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d'emploi ainsi que la durée, la nature et l'importance du travail accompli, qu'ils auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+[16] Le Ministre a donc procédé à l'analyse de l'emploi des appelants selon l'alinéa 5(3)b) de la Loi.
+RÉTRIBUTION
+[17] La pièce I-2, produite à l'audition, a été préparée par le Ministre des Ressources humaines et développement des compétences Canada. Ce document établit que le salaire payé aux appelants, incluant leur bonus, se situe dans la moyenne de ceux versés dans ce genre d'entreprise pour un travail semblable.
+[18] Les appelants ont reçu un salaire fixe de 900,00 $ brut par quinzaine, soit 450,00 $ par semaine pour une semaine de travail pouvant aller jusqu'à 60 heures et même davantage. Ils recevaient leur salaire tous les quinze jours. Ils recevaient un bonus qui leur était attribué selon la santé financière du payeur.
+[19] Le juge Tardif de cette Cour s'est penché sur un dossier semblable dans l'arrêt Industries J.S.P. Inc. c. Canada (ministre du Revenu national - M.R.N.), [1999] A.C.I. no 423, et déclarait après son analyse :
+Le fait de contribuer et d'être associé à la gérance, à l'administration ou au développement d'une entreprise, et tout particulièrement lorsqu'il s'agit d'une petite entreprise, fait en sorte que la description de tâches est fortement empreinte d'éléments propres et caractéristiques de celles souvent assumées par les propriétaires d'entreprise eux-mêmes ou de personnes détenant plus de 40 p. 100 des actions votantes de la compagnie dans laquelle ils ont un emploi. En d'autres termes, à ce niveau de responsabilités, la composante rétribution doit s'apprécier avec prudence au niveau d'une comparaison avec des tiers; il existe souvent des avantages qui compensent pour le salaire moindre.
+Ceci l'a amené à conclure que l'emploi exercé par les membres de cette même famille, donc ayant un lien de dépendance, n'était pas exclu des emplois assurables.
+DURÉE DE L'EMPLOI
+[20] Les appelants travaillaient à l'année et à temps plein pour le payeur, l'un depuis 1987 et l'autre depuis 1988.
+MODALITÉS D'EMPLOI
+[21] N'oublions pas que les appelants oeuvraient pour le payeur en tant que travailleurs, mais aussi comme actionnaires et administrateurs. La preuve a démontré qu'ils mettaient toutes leurs énergies au service de l'entreprise, en ne comptant pas les heures, mais en acceptant aussi leur état respectif d'actionnaires minoritaires, assujettis au pouvoir du payeur, exercé par la voix de son conseil d'administration dont ils faisaient partie et ensemble ils constituaient la majorité des actions.
+[22] Les appelants, dans l'exercice de leurs fonctions, leur travail et leurs responsabilités administratives, avaient la latitude d'agir comme actionnaires et pouvaient prendre les décisions nécessaires au bon fonctionnement de l'entreprise individuellement, en l'absence de l'autre appelant, mais ils communiquaient et discutaient régulièrement entre eux des affaires du payeur, en tant que conseil d'administration, en quelque sorte, sans formalité. Presque tout l'équipement nécessaire à leur travail leur était fourni par le payeur sauf leur automobile. Ils étaient tous deux solidairement responsables de la marge de crédit de 20 000,00 $ du payeur.
+[23] La preuve n'a pas été faite que d'autres actionnaires, sans lien de dépendance, n'auraient pas conclu un contrat de travail à peu près semblable avec le payeur, au sein d'un poste de même nature.
+NATURE ET IMPORTANCE DU TRAVAIL
+[24] Il a été déterminé que le travail des appelants était essentiel à la bonne marche de l'entreprise. En effet, sans eux, l'entreprise n'existerait pas.
+[25] Cette Cour a analysé les faits, en l'espèce, à la lumière des textes législatifs reproduits ci-haut. Cette Cour a également examiné l'exercice fait par le Ministre conformément au mandat que lui a confié le législateur. La Cour d'appel fédérale a statué sur le mandat qu'ont reçu le Ministre et cette Cour, en révision de la décision du Ministre, dans l'arrêt dans l'arrêt Légaré c. Canada (ministre du Revenu national - M.R.N.), [1999] A.C.F. no 878,où le juge Marceau au paragraphe 4 statuait ce qui suit :
+La Loi confie au ministre le soin de faire une détermination à partir de la conviction à laquelle son examen du dossier peut le conduire. L'expression utilisée introduit une sorte d'élément de subjectivité et on a pu parler de pouvoir discrétionnaire du ministre, mais la qualification ne devrait pas faire oublier qu'il s'agit sans doute d'un pouvoir dont l'exercice doit se fonder pleinement et exclusivement sur une appréciation objective des faits connus ou supposés. Et la détermination du ministre n'est pas sans appel. La Loi accorde, en effet, à la Cour canadienne de l'impôt le pouvoir de la réviser sur la base de ce que pourra révéler une enquête conduite, là, en présence de tous les intéressés. La Cour n'est pas chargée de faire la détermination au même titre que le ministre et, en ce sens, elle ne saurait substituer purement et simplement son appréciation à celle du ministre : c'est ce qui relève du pouvoir dit discrétionnaire du ministre. Mais la Cour doit vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et après cette vérification, elle doit décider si la conclusion dont le ministre était « convaincu » paraît toujours raisonnable.
+[26] Aux termes de cet exercice, cette Cour doit conclure que le Ministre a exercé son mandat tel que prescrit par la loi et la jurisprudence.
+[27] En outre, je dois conclure que les faits supposés ou retenus par le Ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus. Donc, la conclusion dont le Ministre était « convaincu » me paraît toujours raisonnable.
+[28] En conséquence, les appels sont rejetés et les décisions rendues par le Ministre sont confirmées.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 30e jour de juin 2006.
+« S.J. Savoie »
+Juge suppléant Savoie
+RÉFÉRENCE :
+2006CCI329
+No DU DOSSIER DE LA COUR :
+2005-859(EI), 2005-860(EI)
+INTITULÉ DE LA CAUSE :
+Michel Desmarais et M.R.N. et Pierre Desmarais et M.R.N.
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE DE L'AUDIENCE :
+Le 28 mars 2006
+MOTIFS DE JUGEMENT PAR :
+L'honorable S.J. Savoie,
+juge suppléant
+DATE DU JUGEMENT :
+Le 30 juin 2006
+COMPARUTIONS :
+Pour les appelants :
+Me Normand Drolet
+Pour l'intimé :
+Me Marie-Claude Landry
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour les appelants :
+Nom :
+Me Normand Drolet
+Étude :
+Cain, Lamarre, Casgrain, Wells
+Québec (Québec)
+Pour l'intimé :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

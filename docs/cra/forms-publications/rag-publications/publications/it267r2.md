@@ -1,0 +1,22 @@
+---
+title: "IT267R2 ARCHIVED - Capital Cost Allowance - Vessels"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it267r2.html
+last_modified: 2025-08-26
+---
+# IT267R2 ARCHIVED - Capital Cost Allowance - Vessels
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+This bulletin outlines the capital cost allowance provisions that apply to vessels.
+
+## Ways to access the information
+
+- Read the publication
+
+    - Online format [it267r2-e.html](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it267r2/archived-capital-cost-allowance-vessels.html)

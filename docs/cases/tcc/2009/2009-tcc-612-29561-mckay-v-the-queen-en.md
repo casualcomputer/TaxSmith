@@ -1,0 +1,257 @@
+---
+title: "McKay v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29561/index.do"
+last_modified: "2009-12-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 612"
+citation2: ""
+neutral_citation: "2009 TCC 612"
+decision_date: "2009-12-07"
+language: "en"
+item_id: "29561"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6318
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:42:47.406000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "00028c6150cdaed9ce20270a64894afb7babcb7fd05da9a047cb4dd1aa55d42f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# McKay v. The Queen
+
+- Citation: 2009 TCC 612
+- Decision date: 2009-12-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6318, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McKay v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-12-07
+Neutral citation
+2009 TCC 612
+File numbers
+2009-1271(IT)I
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-1271(IT)I
+BETWEEN:
+MILES D. McKAY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on November 18, 2009 at Winnipeg, Manitoba
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Penny Piper
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act (the “Act”) for the 2004 and 2005 taxation years are allowed, without costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that:
+(a) the Appellant’s income from employment for 2004, is reduced by the amount of $558;
+(b) the Appellant’s income from employment for 2005, is reduced by the amount of $572;
+(c) an amount, to be determined as provided in paragraph (d), be added to the undepreciated capital cost of the class 10.1 of the Appellant created for the truck for GST and provincial sales tax (the “sales tax amount”) in relation to the acquisition by the Appellant of the truck in 2005 based on a cost of $30,000 before the application of such sales taxes (which is the amount identified as “B” in the formula set out in paragraph 7307(1)(b) of the Income Tax Regulations); and
+(d) the Appellant and the Respondent shall determine the sales tax amount. If the parties are unable to agree upon the calculation of the sales tax amount within 90 days from the date of this decision, then either party shall have the right to bring a Motion to have any issue related to the calculation of the sales tax amount resolved by this Court. If the parties are unable to agree upon the calculation of the sales tax amount and neither party brings a motion to resolve any issue related to the calculation of this amount within 90 days from the date of this decision, then the sales tax amount will be $4,560.
+The Appellant confirmed that he was not appealing the reassessment of his 2006 taxation year.
+Signed at Ottawa, Ontario, this 7th day of December, 2009.
+“Wyman W. Webb”
+Webb J.
+Citation: 2009TCC612
+Date: 20091207
+Docket: 2009-1271(IT)I
+BETWEEN:
+MILES D. McKAY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb J.
+[1] There are two issues in these appeals:
+1. what amount, if any, is the Appellant entitled to deduct for meal expenses in determining his income from employment for 2004 and 2005; and
+2. is the Appellant entitled to include an amount for GST and provincial sales tax as part of the capital cost of the truck that was purchased in 2005 in determining the undepreciated capital cost to the Appellant of the class 10.1 that was created in relation to the acquisition of this truck (in addition to the $30,000 that was added to this class 10.1 in relation to the purchase of this truck)?
+[2] In the first page of the Appellant’s Notice of Appeal he stated that the years under appeal were 2004, 2005 and 2006 but in the statement of relevant facts and reasons he only addressed matters related to 2004 and 2005. The Respondent had brought a motion to quash the appeal related to 2006 on the basis that the Appellant had not filed a Notice of Objection in relation to the reassessment of his 2006 taxation year. At the commencement of the hearing, the Appellant confirmed that he was only appealing the reassessment of his 2004 and 2005 taxation years and therefore the hearing proceeded on the basis that only the reassessments related to 2004 and 2005 were under appeal and that the only issues related to these reassessments that were under appeal were the two issues referred to above.
+[3] The Appellant was employed as a surveyor by Maple Leaf Construction Ltd., a company based in Winnipeg. The company had a division that concentrated on projects in the City of Winnipeg and a rural division that dealt with projects throughout Manitoba, Saskatchewan and northwestern Ontario.
+[4] The Appellant was employed in the rural division of Maple Leaf Construction Ltd. and worked at project sites throughout Manitoba and northwestern Ontario in 2004 and 2005. The Appellant indicated that the closest site at which he worked during these two years would be approximately a 1.5 hour drive from his home and from the office of the company in Winnipeg. The Appellant worked at various sites during the construction season which would be from the middle of May to sometime in November. He would work long hours during the construction season. The Appellant claimed a deduction in determining his income from employment for 2004 and 2005 for an amount for meal expenses for the days when he was working at the various sites.
+[5] The position of the Respondent is that the claim for meal expenses should be denied on two grounds:
+1. The Appellant was not required by his duties to be away for a period of not less than 12 hours from Winnipeg; and
+2. The Appellant has not established that he expended the amount that he had claimed for meals.
+[6] Paragraph 8(1)(h) and subsection 8(4) of the Income Tax Act (the “Act”) provide as follows:
+8(1) In computing a taxpayer's income for a taxation year from an office or employment, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+…
+(h) where the taxpayer, in the year,
+(i) was ordinarily required to carry on the duties of the office or employment away from the employer's place of business or in different places, and
+(ii) was required under the contract of employment to pay the travel expenses incurred by the taxpayer in the performance of the duties of the office or employment,
+amounts expended by the taxpayer in the year (other than motor vehicle expenses) for travelling in the course of the office or employment, except where the taxpayer
+(iii) received an allowance for travel expenses that was, because of subparagraph 6(1)(b)(v), (vi) or (vii), not included in computing the taxpayer's income for the year, or
+(iv) claims a deduction for the year under paragraph (e), (f) or (g);
+…
+8(4) An amount expended in respect of a meal consumed by a taxpayer who is an officer or employee shall not be included in computing the amount of a deduction under paragraph (1)(f) or (h) unless the meal was consumed during a period while the taxpayer was required by the taxpayer's duties to be away, for a period of not less than twelve hours, from the municipality where the employer's establishment to which the taxpayer ordinarily reported for work was located and away from the metropolitan area, if there is one, where it was located.
+[7] In this case, the Appellant was ordinarily required to carry out his duties as a surveyor away from his employer's place of business and in different places and he was also required under his contract of employment to pay the travel expense incurred by him in the performance of his duties. The Appellant stated that he received an allowance of $15 per day for meals for those days when he was required to work at a location that was away from the office. However the total amount paid to the Appellant as a meal allowance for 2004 was $2,754 and for 2005 was $3,094. Neither of these amounts produces an even number when divided by $15. In filing his tax return for 2004 the Appellant claimed a deduction for meals purchased on 153 days and for 2005 a deduction for meals purchased on 171 days. It seems logical that these must have been the total number of days that the Appellant worked outside the office and for which he received the meal allowance. Dividing $2,754 by 153 days and $3,094 by 171 days produces a result of exactly $18 per day for 2004 and $18.09 per day for 2005. I am assuming that the Appellant simply made a mistake when he stated that the meal allowance was $15 per day and that the actual amount paid was $18 per day.
+[8] It does not seem to me that a meal allowance of $18 per day is a reasonable amount for meals (which would only be $6 per meal based on 3 meals per day) for the days for which the Appellant recorded 12 hours or more at a work site or was otherwise required to be away from Winnipeg for 12 hours or more because of his employment duties. Therefore the allowance paid for these days would not be an allowance for travel expenses that was, because of subparagraph 6(1)(b)(v), (vi) or (vii), not included in computing the Appellant's income for the year.
+[9] The issue in this case related to the requirements of subsection 8(4) of the Act and in particular whether the Appellant was required by his duties to be away from Winnipeg, for at least 12 hours. The Appellant introduced copies of his time sheets for 2004 and 2005. There are several days on the time sheets during which the Appellant worked for 12 hours or more at a site away from Winnipeg. The Appellant worked at various places including Thompson, Flin Flon, Brandon, Swan Lake, and Dauphin. Counsel for the Respondent acknowledged that she did not have an argument in relation to the requirements of subsection 8(4) of the Act with respect to the days during which the Appellant recorded 12 hours or more at a site outside Winnipeg.
+[10] In 2004 the number of days that the Appellant recorded 12 hours or more of work at a location outside Winnipeg was 111 days. Following a review of the time sheets for 2004, the parties requested a break to review the time sheets for 2005. Following the break, the parties provided the number of days for each month for which the Appellant recorded 12 hours or more at a work site outside Winnipeg and the total number of these days for 2005. However, the total number of these days for 2005 as indicated by the parties does not match the number of these days determined by adding the number of such days for each month. As a result I reviewed the time sheets for 2005. The total number of such days that I determined for 2005 was 81 days. The total number of such days as stated by the parties was 79 days but the cumulative sum of the days for each month as stated by the parties was 83 days. One of the days that I had included as a day for which the Appellant recorded 12 hours or more at a work site outside Winnipeg was included by the parties in the “disputed days” category. I find that the number of days for 2005 for which the Appellant recorded 12 hours or more at a work site was 81 days.
+[11] There are also additional days in 2004 and 2005 for which the Appellant recorded less than 12 hours of work at a site, but which were days when the Appellant was working at a site away from Winnipeg and would not return home after work. He would stay overnight at a hotel. The closest of these sites was in Brandon, Manitoba. The Appellant indicated that Brandon, Manitoba was a two and a half hour drive away from Winnipeg. He would stay overnight in Brandon as he would have to be at the project site early in the morning (at sunrise). It seems to me that it would be reasonable to stay in Brandon (or locations that were further away) rather than drive for two and half hours (or more) in the evening after a long day of work to only have to drive for two and half hours (or more) to return the next morning by sunrise. It seems to me that on those days where he would stay over at the work location, because it was too far to drive back to Winnipeg, were still days where he was required by his duties (which had to be performed at those locations) to be away from Winnipeg for 12 hours or more, and therefore these additional days (which were referred to above as the “disputed days”) should be included as days for 2004 and 2005 when the Appellant was required by his duties to be away from Winnipeg for 12 hours or more.
+[12] The number of these additional days for 2004 was 13 days and for 2005 was 46 days (taking into account the one “disputed day” that I had included in determining that there were 81 days in 2005 for which the Appellant recorded 12 hours or more at a job site). Therefore, the total number of days that the Appellant was required by his duties to be away from Winnipeg for 12 hours or more in 2004 was 124 days and for 2005 was 127 days.
+[13] The second issue raised by the Respondent was that the Appellant did not have any receipts for the meals that he purchased while he was away. The provision that permits a deduction for travel expenses incurred by an employee is paragraph 8(1)(h) of the Act. This paragraph provides that the amount that may be claimed is the amount expended by the taxpayer in the year. Without receipts, the issue is what amount, if any, can the Appellant establish that he expended for meals in 2004 and 2005?
+[14] In Lesnick v. The Queen, 2008TCC522, I reviewed the decisions of the Supreme Court of Canada in The Continental Insurance Company v. Dalton Cartage Company Limited, [1982] 1 S.C.R. 164, and Hickman Motors Limited v. The Queen, [1997] 2 S.C.R. 336, and of the House of Lords in the cases of In re Doherty, [2008] UKHL 33, and In re B (Children), [2008] UKHL 35. As I stated in Lesnick, the conclusion that I reached based on these decisions was that:
+16. It seems to me that these cases are consistent and the issue in a civil case (which will include the current appeal) will be whether the evidence as presented is sufficient to satisfy the trier of fact, on a balance of probabilities, that the person who has the burden of proof has established what is required of him or her. In analyzing the proof or evidence that has been presented, the probability or improbability of the event that is in issue is a factor that can be taken into account in this analysis. The more improbable the event the stronger the evidence that would be required. Conversely it would also seem to me that a person may be able to establish, on a balance of probabilities, that a highly probable event occurred based on weaker evidence than would be required to establish that an improbable event had occurred.
+[15] It seems to me that, for those days during which the Appellant was away from Winnipeg for 12 hours or more, it was a highly probable event that he would be eating meals during those days and that those meals would be purchased at restaurants. Therefore, it seems to me that it was a highly probable event that he expended amounts on meals at restaurants. The amount that the Appellant is claiming is $15 per meal for three meals per day. The Appellant submitted a number of different menus from restaurants from various locations and it seems to me that $15 per meal is reasonable and therefore I find that the Appellant spent $15 per meal per day for three meals for each of the above dates.
+[16] The Appellant calculated his claim for a deduction as follows (using 153 days for 2004 and 171 days for 2005):
+2004
+$15 / meal x 3 meals / day x 153 days:
+$6,885
+Minus: Allowance paid by employer:
+($2,754)
+Net Amount:
+$4,131
+Amount claimed (50% of the Net Amount):
+$2,065
+2005
+$15 / meal x 3 meals / day x 171 days:
+$7,695
+Minus: Allowance paid by employer:
+($3,094)
+Net Amount:
+$4,601
+Amount claimed (50% of the Net Amount):
+$2,300
+[17] The Appellant had indirectly included the meal allowance amount in his income by reducing the meal expense amount claimed. However it does not seem to me that this is the correct method of determining the amount that is deductible or the net affect on his income from employment. Reducing the difference between the meal cost and the allowance paid by 50% suggests that the provisions of section 67.1 of the Act apply to this amount. However it seems clear to me that the provisions of section 67.1 of the Act only apply to the amounts paid not to the allowance received.
+[18] Subsection 67.1(1) of the Act provides that:
+67.1 (1) Subject to subsection (1.1), for the purposes of this Act, other than sections 62, 63, 118.01 and 118.2, an amount paid or payable in respect of the human consumption of food or beverages or the enjoyment of entertainment is deemed to be 50 per cent of the lesser of
+(a) the amount actually paid or payable in respect thereof, and
+(b) an amount in respect thereof that would be reasonable in the circumstances.
+[19] This subsection deems the amount paid for meals to be 50% of the amount actually paid (assuming that the amount paid is reasonable). It does not limit the amount included as a meal allowance to 50% of the amount received. There are exceptions to the limitations imposed by subsection 67.1(1) of the Act. However none of these exceptions would apply in this case. While the exception contained in paragraph 67.1(2)(d) refers to an amount paid by a person that is included in any taxpayer’s income because of the application of section 6, this paragraph does not apply because subsection 67.1(1) of the Act only applies to amounts paid and the amounts paid by the Appellant to restaurants would not be included in the income of the restaurants because of section 6 (but would be included in the business income of the restaurants). This exception presumably applies to an employer who pays a meal allowance that is included in an employee’s income.
+[20] The meal allowance would be included in the Appellant’s income pursuant to paragraph 6(1)(b) of the Act. This paragraph provides in part as follows:
+6. (1) There shall be included in computing the income of a taxpayer for a taxation year as income from an office or employment such of the following amounts as are applicable:
+…
+(b) all amounts received by the taxpayer in the year as an allowance for personal or living expenses or as an allowance for any other purpose, except
+…
+(vii) reasonable allowances for travel expenses (other than allowances for the use of a motor vehicle) received by an employee (other than an employee employed in connection with the selling of property or the negotiating of contracts for the employer) from the employer for travelling away from
+(A) the municipality where the employer's establishment at which the employee ordinarily worked or to which the employee ordinarily reported was located, and
+(B) the metropolitan area, if there is one, where that establishment was located,
+in the performance of the duties of the employee's office or employment,
+[21] It seems clear that since the meal allowance of $18 per day paid by the Appellant’s employer was not a reasonable allowance for the days during which the Appellant was required by his duties to be away from Winnipeg for 12 hours or more, the total amount of this allowance would be included in the income of the Appellant. If the allowance would have been a reasonable amount, since it covered the same meals for which he was claiming a deduction, the amount would not be included in the Appellant’s income and the Appellant would not be entitled to claim a deduction for meal expenses.
+[22] However the meal allowance was paid both for days during which the Appellant was required by his duties to be away from Winnipeg for 12 hours or more and for the days that the Appellant was working outside the office for less than 12 hours. He was paid the allowance for more than 124 days in 2004 and for more than 127 days in 2005. The Appellant based his meal claim for 2004 on 153 days and for 2005 on 171 days and, as noted above, presumably he was paid the meal allowance for 153 days in 2004 and for 171 days in 2005.
+[23] The meal allowance amount of $18 per day may well have been reasonable for the days when he was not required by his duties to be away from Winnipeg for 12 hours or more. The provisions of subparagraph 6(1)(b)(vii) of the Act related to the exclusion of allowances from income do not parallel the conditions imposed by subsection 8(4) of the Act. There is no requirement in subparagraph 6(1)(b)(vii) of the Act that the employee be required by his duties to be away for 12 hours or more in order for the allowance to not be included in income.
+[24] There is no reference in the Reply to any argument that the amount paid for the days when he was not required by his duties to be away from Winnipeg for 12 hours or more was not a reasonable amount. It seems to me that the allowance paid for these days can be separated from the allowance paid for the other days. The $18 / day allowance paid for the days during which the Appellant was not required by his employment duties to be away from Winnipeg for 12 hours or more will not be included in income by virtue of paragraph 6(1)(b)(vii) of the Act. The $18 / day allowance paid for the days during which the Appellant was required by his duties to be away from Winnipeg for 12 hours or more will be included in his income and the Appellant will be entitled, subject to the provisions of subsection 67.1(1) of the Act, to a deduction for the meal costs incurred during those days.
+[25] As a result, the Appellant’s income from employment for 2004 and 2005 will be reduced by the following amounts:
+2004
+Meal Allowance amount paid for 124 days ($18 x 124):
+$2,232
+Amount expended by the Appellant for meals for 124 days: 124 days x 3 meals / day x $15 / meal = $5,580
+Amount deemed to be paid for meals: (50% of amount paid - subs. 67.1(1)):
+($2,790)
+Net reduction in income from employment:
+($558)
+2005
+Meal Allowance amount paid for 127 days ($18 x 127):
+$2,286
+Amount expended by the Appellant for meals for 127 days: 127 days x 3 meals / day x $15 / meal = $5,715
+Amount deemed to be paid for meals: (50% of amount paid - subs. 67.1(1)):
+($2,858)
+Net reduction in income from employment:
+($572)
+[26] The full amount of the allowance received is included in income (paragraph 6(1)(b) of the Act) but the amount paid by the Appellant for meals is, pursuant to subsection 67.1(1) of the Act, deemed to be 50% of the amount actually paid (since this amount is a reasonable amount).
+[27] The other issue raised in these appeals relates to the amount that should be added as the capital cost of the truck acquired in 2005 in determining the undepreciated capital cost to the Appellant of the class 10.1 that was set up for the truck. Subsection 1101(1af) of the Income Tax Regulations provides that a separate class is prescribed for each property included in Class 10.1 in Schedule II to these Regulations. Paragraph 13(7)(g) of the Act provides that:
+13(7) Subject to subsection 70(13), for the purposes of paragraphs 8(1)(j) and (p), this section, section 20 and any regulations made for the purpose of paragraph 20(1)(a),
+…
+(g) where the cost to a taxpayer of a passenger vehicle exceeds $20,000 or such other amount as may be prescribed, the capital cost to the taxpayer of the vehicle shall be deemed to be $20,000 or that other prescribed amount, as the case may be; …
+[28] The Appellant accepted that this limitation applied to the amount that could be included as the cost of the truck. The issue in this case is related to the interpretation of subsection 7307(1) of the Income Tax Regulations. This subsection of the Income Tax Regulations provides, in part, that:
+7307. (1) For the purposes of subsection 13(2), paragraph 13(7)(g), subparagraph 13(7)(h)(iii),…, the amount prescribed is
+…
+(b) with respect to an automobile acquired, or leased under a lease entered into, after 1990, the amount determined by the formula
+A + B
+where
+A is, with respect to an automobile acquired, or leased under a lease entered into,
+…
+(v) after 2000, $30,000, and
+B is the sum that would have been payable in respect of federal and provincial sales taxes on the acquisition of the automobile if it had been acquired, at a cost equal to A before the application of the federal and provincial sales taxes, if the automobile
+(i) was acquired, at the time of the acquisition, or
+(ii) was leased, at the time the lease was entered into.
+[29] The issue is whether any amount should be included for “B” in the formula described in paragraph 7307(1)(b) above. The vehicle was purchased from Winnipeg Dodge Chrysler Jeep (Pointe West Autopark) on June 11, 2005. The price of the vehicle was $40,358 and a credit of $5,750 was allowed for the vehicle that was traded-in. No GST and no provincial sales tax was paid when the vehicle was purchased.
+[30] The Appellant’s name is typed in as the purchaser but his wife’s name was written in by hand as a co-purchaser. The Appellant’s wife is an Indian as defined for the purposes of the Indian Act and the Appellant is not. Notwithstanding the fact that the Appellant is not an Indian as defined for the purposes of the Indian Act, the entire purchase of the vehicle was apparently treated by the dealership as qualifying for the exemption from the imposition of taxes provided by section 87 of the Indian Act and no GST or provincial sales taxes were collected by the dealership.
+[31] Subsections 87(1) and (2) of the Indian Act provide as follows:
+87. (1) Notwithstanding any other Act of Parliament or any Act of the legislature of a province, but subject to section 83 and section 5 of the First Nations Fiscal and Statistical Management Act, the following property is exempt from taxation:
+(a) the interest of an Indian or a band in reserve lands or surrendered lands; and
+(b) the personal property of an Indian or a band situated on a reserve.
+(2) No Indian or band is subject to taxation in respect of the ownership, occupation, possession or use of any property mentioned in paragraph (1)(a) or (b) or is otherwise subject to taxation in respect of any such property.
+[32] The exemption from taxation only applies to the personal property of an Indian as defined in the Indian Act. The truck, if purchased by the Appellant, would not be exempt from taxation as he is not an Indian as defined in the Indian Act. If the Appellant did not purchase the truck, on what basis could he add $30,000 to the undepreciated capital cost of class 10.1 in relation to the purchase of the truck? The definition of “undepreciated capital cost” in subsection 13(21) provides in part that:
+“undepreciated capital cost” to a taxpayer of depreciable property of a prescribed class as of any time means the amount determined by the formula
+(A + B + C + D + D.1) –
+(E + E.1 + F + G + H + I + J + K)
+where
+A is the total of all amounts each of which is the capital cost to the taxpayer of a depreciable property of the class acquired before that time,
+[33] The amount that would be included for “A” in the above formula is the capital cost to the Appellant of the truck. If the Appellant did not acquire any interest in the truck (and presumably his wife acquired the truck) then a separate class 10.1 of the Appellant would not be created in relation to the acquisition of the truck and no amount would be added to the undepreciated capital cost of the depreciable property of such class of the Appellant but the purchase of the truck would at least satisfy the condition of section 87 of the Indian Act that the truck be personal property of an Indian as defined in the Indian Act.
+[34] However, this is not supported by the facts in this case nor by the position taken by the Canada Revenue Agency. In the Reply, it is stated that the Appellant and his spouse acquired the truck. It is also stated, as an assumption, that:
+(t) No amount was payable for GST or PST to purchase the 2005 truck;
+[35] Whether GST or PST was payable would be a question of law or a question of mixed fact and law. Whether GST or PST would be payable could only be determined by examining the requirements of the Indian Act, the applicable decisions of the various courts, and the facts related to the purchase. It does not seem to me that whether GST or PST was payable is a proper assumption. There also does not appear to be any basis upon which a finding could be made that any acquisition of an interest in the truck by the Appellant would qualify for the exemption from tax contained in the Indian Act.
+[36] It appears from Schedule D attached to the Reply that the Appellant did not include the cost of the new truck as an addition in 2005 to Class 10.1 (however the Appellant appears to have an opening balance as of January 1, 2005 for the undepreciated capital cost that exceeds the closing balance for December 31, 2004, notwithstanding that a separate class is prescribed for each vehicle that is included in class 10.1). Schedule D also shows the amounts allowed by the auditor for the Canada Revenue Agency and by the appeals officer for the Canada Revenue Agency and shows that $30,000 was added as the cost of additions for 2005 to class 10.1. In paragraph 20 of the Reply, the Respondent also states that:
+20…the amount for the calculation of the cost of the Truck pursuant to subsection 7307(1) of the Income Tax Regulations (the “Regulations”) is limited to $30,000.
+[37] Therefore it seems to me that the Appellant was reassessed on the basis that the Appellant (and not his wife) had acquired the truck. If the Appellant acquired the truck, there would be no basis for a claim that the purchase was exempt from GST and provincial sales tax as a result of the Indian Act or on any other basis identified by either the Appellant or the Respondent.
+[38] It also seems clear to me that this truck was the Appellant’s truck. The Appellant traveled extensively as part of his work and worked on construction sites where presumably a truck was the vehicle of choice. The truck was acquired on June 11, 2005. According to the time sheets for the Appellant, he worked for 5 hours on the Sunset Mall project in Brandon on June 11. He either acquired the truck before proceeding to Brandon or acquired it after returning from Brandon, in which case the next time entry is for June 13 for 13 hours at the same job. Therefore it seems to me that the truck was used shortly after it was purchased to transport the Appellant to the work site in Brandon.
+[39] It seems to me that the Appellant acquired the truck and that this is consistent with the basis on which he was reassessed. The position of counsel for the Respondent was unclear in relation to whether the Appellant had acquired the truck. It appears that she was arguing that since no GST or provincial sales tax was paid when the truck was acquired, that no GST or provincial sales tax would be payable if the truck would have been acquired for $30,000 without focusing on whether the Appellant had acquired the truck and, if so, whether GST and provincial sales tax would then be payable. However, as noted above, either the auditor or the appeals officer for the Canada Revenue Agency had assumed that the Appellant (and not his spouse) had acquired the truck (or at least such an interest in the truck that would justify a cost of $30,000 being added to a class 10.1 of the Appellant). As noted above, if the Appellant acquired the truck, GST and provincial sales tax would have been payable by him on the acquisition of the truck.
+[40] It is possible that the truck was acquired by the Appellant’s spouse and then she later transferred her interest in the truck to the Appellant. (There was no evidence to suggest that this had occurred, this is simply a logical conclusion to attempt to reconcile the position that no sales taxes were paid when the vehicle was acquired yet the Appellant is the person who is entitled to claim capital cost allowance on the truck.) However, since:
+(a) there was only a short period of time from the time that the truck was purchased until it was used by the Appellant to drive to his work site (and continuously used by the Appellant to drive to various work sites thereafter);
+(b) the Appellant’s wife’s name was added as a co-purchaser by writing her name in the agreement by hand; and
+(c) the Appellant in his Notice of Appeal described the issue related to the truck as follows:
+Disputed amount allowed for my vehicle’s CCA for 2005 year (emphasis added)
+it seems to me that it was more likely than not that the Appellant acquired the truck from Winnipeg Dodge Chrysler Jeep on June 11, 2005 and that any interest acquired by his wife by adding her name to the agreement as a co-purchaser was only a nominal interest.
+[41] As a result there does not appear to be any basis to find that no sales taxes were payable by the Appellant when the vehicle was acquired from the dealership. Therefore in determining the undepreciated capital cost to the Appellant of the class 10.1 set up in relation to the truck, an amount should have been added for the GST and provincial sales tax that would have been payable by the Appellant if he would have acquired the vehicle at a cost of $30,000 from the dealership. Neither the Appellant nor the Respondent made any submissions with respect to the appropriate amount that should be added for GST and provincial sales taxes. In the Appellant’s Notice of Appeal he states that the amount should be $4,560 but he was unable to explain how this amount was determined. The Appellant had stated that the GST rate at the time of purchase was 6%, but the rate was not reduced from 7% to 6% until July 1, 2006. Neither party was able to definitely state the provincial sales tax rate in Manitoba in 2005. No submissions were made with respect to the issue of whether the trade-in should affect the amount of GST and provincial sales tax that would be included for “B” in the formula in paragraph 7307(1)(b) of the Income Tax Regulations and if so, how it would affect the determination of this amount. The parties requested that I only deal with the issue of whether an amount should be included for “B” in the formula in paragraph 7307(1)(b) of the Income Tax Regulations and if it was determined that an amount should be included, that they would determine the appropriate amount.
+[42] I find that an amount should have been included for “B” in the formula in paragraph 7307(1)(b) of the Income Tax Regulations as an amount would have been payable for GST and provincial sales tax if the Appellant would have acquired the vehicle at a cost of $30,000. If the parties are unable to agree upon the appropriate amount that should be added for these sales taxes within 90 days from the date of this decision, then either party shall have the right bring a Motion to have any issue related to the calculation of the amount of these sales taxes resolved by this Court. If the parties are unable to agree upon the amount of these sales taxes and neither party brings a motion to resolve any issue related to the calculation of this amount within 90 days from the date of this decision, then the amount of these sales taxes will be $4,560.
+[43] As a result, these appeals are allowed, without costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that:
+(a) the Appellant’s income from employment for 2004, is reduced by the amount of $558;
+(b) the Appellant’s income from employment for 2005, is reduced by the amount of $572;
+(c) an amount, to be determined as provided in paragraph (d), be added to the undepreciated capital cost of the class 10.1 of the Appellant created for the truck for GST and provincial sales tax (the “sales tax amount”) in relation to the acquisition by the Appellant of the truck in 2005 based on a cost of $30,000 before the application of such sales taxes (which is the amount identified as “B” in the formula set out in paragraph 7307(1)(b) of the Income Tax Regulations); and
+(d) the Appellant and the Respondent shall determine the sales tax amount. If the parties are unable to agree upon the calculation of the sales tax amount within 90 days from the date of this decision, then either party shall have the right to bring a Motion to have any issue related to the calculation of the sales tax amount resolved by this Court. If the parties are unable to agree upon the calculation of the sales tax amount and neither party brings a motion to resolve any issue related to the calculation of this amount within 90 days from the date of this decision, then the sales tax amount will be $4,560.
+Signed at Ottawa, Ontario, this 7th day of December, 2009.
+“Wyman W. Webb”
+Webb J.
+CITATION: 2009TCC612
+COURT FILE NO.: 2009-1271(IT)I
+STYLE OF CAUSE: MILES D. McKAY AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Winnipeg, Manitoba
+DATE OF HEARING: November 18, 2009
+REASONS FOR JUDGEMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: December 7, 2009
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Penny Piper
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

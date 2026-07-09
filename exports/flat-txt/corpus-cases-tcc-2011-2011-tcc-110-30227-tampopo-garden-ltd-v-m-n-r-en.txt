@@ -1,0 +1,177 @@
+Title: Tampopo Garden Ltd v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30227/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-110-30227-tampopo-garden-ltd-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2011-02-18
+
+# Tampopo Garden Ltd v. M.N.R.
+
+- Citation: 2011 TCC 110
+- Decision date: 2011-02-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7756, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tampopo Garden Ltd v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-02-18
+Neutral citation
+2011 TCC 110
+File numbers
+2010-2030(EI)
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2010-2030(EI)
+BETWEEN:
+TAMPOPO GARDEN LTD,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+HEVA NG
+Intervenor.
+____________________________________________________________________
+Appeal heard on February 11, 2011, at Vancouver, British Columbia
+on common evidence with the Application
+of Heva Ng (2010-3726(EI)APP
+By: The Honourable Justice C.H. McArthur
+Appearances:
+Agent for the Appellant:
+Vincent Hu
+Counsel for the Respondent:
+Kristian DeJong
+For the Intervenor
+The Intervenor herself
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister of National Revenue is confirmed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 22nd day of February 2011.
+“C.H. McArthur”
+McArthur J.
+Docket: 2010-3726(EI)APP
+BETWEEN:
+HEVA NG,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+____________________________________________________________________
+Application heard on February 11, 2011, at Vancouver, British Columbia
+on common evidence with the Appeal
+of Tampopo Garden Ltd. (2010-2030(EI))
+By: The Honourable Justice C.H. McArthur
+Appearances:
+Agent for the Appellant:
+Vincent Hu
+Counsel for the Respondent:
+Kristian DeJong
+____________________________________________________________________
+JUDGMENT
+The application for extension of time within which an appeal may be instituted is granted.
+The Appeal is dismissed and the decision of the Minister of National Revenue is confirmed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 22nd day of February 2011.
+“C.H. McArthur”
+McArthur J.
+Citation: 2011 TCC 110
+Date: 20110222
+Docket: 2010-2030(EI)
+2010-3726(EI)APP
+BETWEEN:
+TAMPOPO GARDEN LTD,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+HEVA NG
+Intervenor.
+REASONS FOR JUDGMENT
+McArthur J.
+[1] This appeal is from a determination of the Minister of National Revenue (the "Minister") that Heva Ng (the "worker") had $11,040 of insurable earnings from "employer controlled" trips during "the period" from May 6, 2008 to November 12, 2009. A letter of June 3, 2010 from the Canada Revenue Agency (CRA) to the Appellant, stated:
+After conducting a complete and impartial review of all of the information relation to the appeal, it has been determined that Heva Ng received employer controlled tips in the amount of $11,461.00; therefore, these tips are considered insurable employment.
+This decision is issued under subsection 93(3) of the Employment Insurance Act, and is based on paragraph 2(1)(a) of the Insurable Earnings and Collection Premiums Regulations.
+[2] Heva Ng was a server in the Appellant’s Japanese restaurant in Vancouver. She received approximately $17,600 in debit card and credit card tips during the period. She was required to pay tips of five percent to six percent to the Appellant automatically based on sales, and another 25% to the bus person from the balance of the tips. The tips sharing formula used in the Appellant’s business was determined by the Appellant. She had to turn over $9,686 to the Payor for distribution to the kitchen staff and bus person during the Period. The Appellant’s only records of tips covered the period from January 1, 2009 to November 12, 2009. Based on averages taken from the Payor’s records, the Worker received approximately $566 per month, on average, in employer controlled gratuities. The Period under review covers approximately 20.25 months.
+[3] The Appellant and the Respondent not objecting, I permitted Ms. Ng to participate as an intervenor although her application appeared to be beyond permitted time limits.
+The facts as I find them include the following:
+[4] The Appellant operated a busy Japanese restaurant in Vancouver. Ms. Ng was employed as a waitress in May 2008. The terms of her employment included that she was required to pay tips of six percent to the Appellant based on sales and another 25% of her tips to the bus person. This was a term of employment determined by the Appellant, her employer. Obviously, she was not pleased with this arrangement but it was a term of her employment, the Appellant had control.
+[5] As an aside, I infer from the lack of evidence, that she did not report her tips as income yet it is now to her advantage to declare all tips for her purposes of obtaining maximum Employment Insurance benefits. Had tips been reported in her taxable income, the CRA auditor probably would have used those amounts in her calculations.
+[6] The issue boils down to whether Ms. Ng was required to turn over her tips to the Appellant for distribution amongst the employees. The narrower question is whether she received tips paid to her under her employer’s control.
+[7] The Appellant, in its Notice of Appeal, states the following:
+The issue is whether or not a former employee, Heva Ng, has insurable earnings based on her gratuities.
+We disagree with the ruling because we firmly believe the tips she received are direct tips and not controlled tips. The amount of monies she received as income from our restaurant’s clients are not controlled by the company, Tampopo Garden Ltd, nor are the tips of any employee in the restaurant who receives these tips.
+…
+…one very important fact is that the tips sharing formula is not determined by the employer. The employees have implemented these calculations themselves from managers, shift supervisors and kitchen manager from before. They have determined what was fair in distribution of tips. Not the company or employer.
+The company has no direct control of the amount any employee receives during their shifts or work period. The amount is solely based on client’s control and the distribution is determined by the employees.
+[8] The Intervenor’s (Heva Ng) major concern appears to revolve around whether the tip sharing arrangement was fair which has no bearing on the issue. Ms. Ng’s comments are predominantly self-serving. She appears to be trying to have the Minister increase the amount of her tips to achieve higher EI benefits. This is surprising given that apparently she did not include all, if any, of her tip revenue in her taxable income for the relative years. Nevertheless, my decision is not affected by this. Some of her comments in her eight pages of submissions entitled "Application for Extension of Time Within Which an Appeal may be Instituted" include:
+The tips sharing formula is obviously determined by the employer. "From before" means when? This is a very vague statement. Tampopo did not give an exact date, or even the month or year of the made. Who were the managers, shift supervisors and kitchen managers? Again, no names were being given. I did not even notice the restaurant has shift supervisors although I have been working in the restaurant for 20 months. I suggest the court may ask my former colleagues to see if anyone know who the shift supervisors are.
+…
+- What makes the employees think the company deserves 6% tips according to SALES? According to my past experience, the tips that servers were required to pay in house I s much less than 6%, usually in about 2-3%, and servers paid according to the total amount of tips earned, not based on SALES. This is the normal practice in the F&B industry to pay in house tips, but is it necessary to pay up to a high rate of 6%?
+- … There were times when customers spend over $400 and paid less than 10% tips or even did not pay any tips. Is it fair for the servers & bussers to be under tipped or even not getting any tips after they have strived for excellent service? The story does not come to an end at this point, please keep in mind that the servers still have to pay 6% mandatory in house according to SALES.
+…
+- It happened to me on the 4th day (the 1st three days I was on training and was not eligible to get any tips according to the company policy) when I finished my shift, the cashier handed to me a piece of paper showing how much tips I had to pay in house. I did not hear anyone saying that employees can determine their tips sharing formula through my course of employment. I was being instructed to pay what the company wanted me to pay at all times and I had to obey.
+- The problem has been raised during my course of employment in strategic way. E.g. on a Sat lunch shift I had to pay around $40 in house and I got only around $10 left in my pocket after paying the bussers. I asked the manager if I could pay a lower percentage in house tips but the manager declined my petition. Is this a signal of control?
+- All of the cashiers are hire by the company and there were times the cashiers made mistakes by putting server A’s tips into server B’s tips box and being caught by server A on the spot. Why do the company not allowing servers to do all of the debit/credit/cash transactions on their own so as to avoid/reduce the mistakes like some other companies do?
+- Has the manager show any kind of improvement in communications with the employees after the interviews with CRA? E.g. call up a meeting with the existing servers to explain clearly that they can keep the whole amount of tips and have full power to determine tips pooled among employees every shift?
+…
+The Reasons which Ms. Ng Intends to Submit are:
+I do not agree with what Tampopo Garden Ltd. had alleged in their Notice of Appal. It affects not only my EI benefits but also my normal life. I beseech the Tax Court of Canada to investigate deeply into this issue and interview with the former and current employees of Tampopo in order to make an impartial judgment. Please do not hesitate to contact me if more information is needed. Looking forward to find justice in court.
+[9] The Respondent’s position taken from the Reply to the Notice of Appeal includes:
+…
+i) the Appellant determined the tip sharing formulas; and
+ii) the Worker had to turn tips over to the Appellant for distribution.
+12. … that the amount of the Worker’s insurable earnings from the Appellant based on tips during the Period was $11,461.00 pursuant to paragraph 2(1)(a) of the Insurable Earnings and Collection of Premiums Regulations.
+…
+[10] The relevant legislation as stated by the Respondent includes subsection 82(1) tab 1(c), sections 67 and 68 tab 1(b), and the primary one is Insurable Earnings and Collection of Premiums Regulations,[1] as amended, paragraph 2(1)(a). It states as follows:
+2.(1) For the purposes of the definition "insurable earnings" in subsection 2(1) of the Act and for the purposes of these Regulations, the total amount of earnings that an insured person has from insurable employment is
+(a) the total of all amounts, whether wholly or partly pecuniary, received or enjoyed by the insured person that are paid to the person by the person’s employer in respect of that employment, and
+…
+[11] To be successful, the Minister must establish that the amounts (tips) Ms. Ng received were paid to her by her employee (the Appellant) in respect of her employment.
+[12] The Minister’s counsel relied heavily on Canadian Pacific Ltd. v. Canada[2] and in particular paragraph 20 which states in part"… one must give a broad meaning to the word "paid"" and from paragraph 25 "… a law dealing with social security should be interpreted in a manner consistent with its purpose. We are not concerned with a taxation statute. …".
+[13] The Federal Court of Appeal in Yellow Cab Co. v. Canada[3] stated, in speaking of the Employment Insurance Act, that it "must be interpreted liberally".
+[14] In S & F Philip Holdings Ltd. v. Canada:
+… The dining room workers had established a system that all tips were placed into a pool for distribution in accordance with certain percentages to all persons who were part of the foodservice team. The employer retained 10 per cent of the total amount of the tip pool to cover the costs of credit card transaction fees. Cheques for the workers’ proportionate share of the total tips were issued to the workers every two weeks in addition to their regular wages. The Minister determined that employment insurance premiums and Canada Pension Plan contributions were owing in connection with services performed for Sooke Harbour by certain workers.
+Judge Rowe of the Tax Court of Canada found the tips payments were pecuniary in nature and arose totally within the context of employment. This was an important part of the workers’ overall earnings upon which employment insurance premiums were based and upon which entitlement to employment benefits would be calculated should a worker become unemployed. There was a clear intention to include tips into the calculations of insurable earnings. The amounts of the tips distributed by Harbour Sooke to its workers were known and formed part of the information contained on the T4 slip issued to each worker for income tax purposes. Those amounts should have formed part of the contributory salary and wages of each employee under the Canada Pension Plan.
+[15] In Union of Saskatchewan Gaming Employees Local 40005 v. Canada[4]:
+The union appealed from the decision of the minister that it was the deemed employer with respect to the payment of the tips and thus responsible for the deduction of the employment insurance premiums payable on those tips. The employer argued that the tips were not insurable earnings. The employees worked at the employer's casino. For security reasons, the employer collected the employees' tips and then issued a cheque for them to the union. Pursuant to the parties' collective agreement, the union then distributed the tips to the employees. It was the union's position that it was acting as an agent for the employer in distributing tips and was not therefore an employer for the purposes of remitting the premiums payable on the tips.
+HELD: Under subsection 2(1) of the Insurable Earnings and Collection of Premiums Regulations, the total of all amounts received, including tips, by an insured person that were paid to that person by the person's employer constituted insurable earnings. Insurable earnings was to be interpreted broadly to include tips paid to employees by their employers. Pursuant to subsections 1(2) and 10(1) of the Regulations, the term employer included a deemed employer. The employer collected the tips and passed them on to the union, the union being the other person and thus the deemed employer because it was distributing and therefore paying the tips to the casino employees. As a result, the union had been correctly deemed as the employer with respect to tips and was responsible for paying, deducting and remitting the premiums payable on those insurable earnings.
+[16] The narrow question is whether the Appellant controlled the allocation of the tips. I find as a fact that it did so following the Canadian Pacific Ltd. v. Canada decision as quoted earlier (para 20). Tips included table cash, credit card and debit card designation.
+[17] I accept the evidence of Ms. Ng with respect to the procedure followed which placed the gratuities under the Appellant’s control. While, as the auditor stated, she arbitrarily arrived at the amounts contained in the assumptions, I accept her conclusions as being the most reasonable with the evidence and amounts she had to work with. In conclusion, the Appellant had virtual, if not actual control of the cash and credit card tips. The Appellant instituted and imposed on Ms. Ng a form of tip distribution.
+[18] For these reasons, the appeals are dismissed.
+Signed at Ottawa, Canada, this 22nd day of February 2011.
+“C.H. McArthur”
+McArthur J.
+CITATION: 2011 TCC 110
+COURT FILE NO.: 2010-2030(EI) and 2010-3726(EI)APP
+STYLE OF CAUSE: TAMPOPO GARDEN LTD AND THE MINISTER OF NATIONAL REVENUE AND HEVA NG, and HEVA NG AND THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: February 11, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice C.H. McArthur
+DATE OF JUDGMENT: February 22, 2011
+APPEARANCES:
+Agent for the Appellant:
+Vincent Hu
+Counsel for the Respondent:
+Kristian DeJong
+For the Intervenor
+The Intervenor herself
+COUNSEL OF RECORD:
+For the Appellant:
+Name: n/a
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] SOR/97-33.
+[2] [1986] 1 S.C.R. 678.
+[3] 2002 FCA 294.
+[4] 2004 TCC 799.

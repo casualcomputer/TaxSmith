@@ -1,0 +1,421 @@
+---
+title: "General Electric Canada Company v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30644/index.do"
+last_modified: "2011-12-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 564"
+citation2: ""
+neutral_citation: "2011 TCC 564"
+decision_date: "2011-12-19"
+language: "en"
+item_id: "30644"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7169
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:46:46.754000+00:00"
+cases_cited_count: 25
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1fd49666c5f7b923b123fd810871765aa212ad2d22e48ec1c75dd735edbab1f5"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# General Electric Canada Company v. The Queen
+
+- Citation: 2011 TCC 564
+- Decision date: 2011-12-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7169, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+General Electric Canada Company v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-12-19
+Neutral citation
+2011 TCC 564
+File numbers
+2010-3493(IT)G
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-3493(IT)G
+BETWEEN:
+GENERAL ELECTRIC CANADA COMPANY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Docket: 2010-3494(IT)G
+AND BETWEEN:
+GE CAPITAL CANADA FUNDING COMPANY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on June 13, 2011 at Toronto, Ontario
+Before: The Honourable Justice Diane Campbell
+Appearances:
+Counsel for the Appellant:
+Joseph M. Steiner
+Al Meghji
+Martha K. MacDonald
+Neil Paris
+Counsel for the Respondent:
+Naomi Goldstein
+Thang Trieu
+____________________________________________________________________
+ORDER
+Upon a Motion by the Appellants for an Order:
+1. Striking out various portions of the Respondent’s Replies to the Notices of Appeal on the basis that those paragraphs failed to meet the requirements of sections 49 and 53 and subsection 51(2) of the Tax Court of Canada Rules (General Procedure);
+2. Costs of the motion, payable forthwith; and
+3. Such further and other relief as counsel may advise and this Honourable Court deems just.
+And upon hearing submissions by the parties;
+And upon review of all of the documentation submitted by the parties;
+IT IS ORDERED THAT:
+The Appellants’ Motion to Strike is dismissed, with leave to the Respondent to amend paragraph 9 of the General Electric Canada Company Reply, Court File Number 2010‑3493(IT)G, together with costs to the Respondent.
+Signed at Ottawa, Canada, this 19th day of December 2011.
+“Diane Campbell”
+Campbell J.
+Citation: 2011 TCC 564
+Date: December 19, 2011
+Docket: 2010-3493(IT)G
+BETWEEN:
+GENERAL ELECTRIC CANADA COMPANY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Docket: 2010-3494(IT)G
+AND BETWEEN:
+GE CAPITAL CANADA FUNDING COMPANY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Campbell J.
+[1] The Appellants brought a Motion to strike various portions (the “Subject Paragraphs”) of the Respondent’s Replies to the Notices of Appeal in accordance with sections 49 and 53 and subsection 51(2) of the Tax Court of Canada Rules (General Procedure) (the “Rules”).
+Background:
+[2] The Appellants appealed assessments respecting various taxation years. The Appellant, General Electric Canada Company (“GECC”) is a successor by amalgamation of a number of corporate entities, including the following three corporate predecessors: GE Capital Canada Retailer Financial Services Company (“Retailer”), GE Card Services Canada Inc. (“Card Services”) and General Electric Capital Canada Inc. (“GECCI”). The assessments for Retailer are in respect to its 1997 to 1999 taxation years, for Card Services its 2000 to 2002 taxation years and for GECCI its 2002 and 2004 taxation years. The second Appellant, GE Capital Canada Funding Company (“Funding”) was assessed in respect to its 1998 to 2006 taxation years.
+[3] These appeals are closely tied to the Tax Court decision of Hogan J. in General Electric Capital Canada Inc. v The Queen, 2009 TCC 563, 2010 D.T.C 1007, and to that of the Federal Court of Appeal, 2010 FCA 344, 2011 D.T.C. 5011, which affirmed Hogan J.’s decision (the “Concluded Litigation”). In fact, an understanding of the issue and subject matter in the Concluded Litigation is central to dealing with the disposition of this Motion.
+[4] The Concluded Litigation dealt with GECCI’s taxation years 1996 to 2000, GECCI being one of the three predecessor corporations to GECC. Those assessments were based on the transfer pricing sections of the Income Tax Act (the “Act”), being paragraphs 247(2)(a) and (c) and for the earlier years, its predecessor subsection, 69(2). The general subject matter of the Concluded Litigation, as well as the present appeals, involves the disallowance of the deduction of guarantee fees paid by the Appellants to the non-resident parent company.
+[5] In the Concluded Litigation, GECCI paid “guarantee fees” of 1 per cent of the principal amount of the debt to its U.S. parent company, General Electric Capital Corporation (“GECUS”) in exchange for GECUS guaranteeing GECCI’s debt, which it had borrowed in Canada’s capital markets by issuing commercial paper and unsecured debentures. GECCI deducted those guarantee fees as business expenses. The Minister of National Revenue (the “Minister”) reassessed based on Canada’s transfer pricing rules contained in subsection 247(2) of the Act to reduce the arm’s length price of the GECUS guarantee fee from 1 per cent to zero. In the appeal which was before Hogan J., the Crown argued that the guarantees had little or no value to GECCI because the funds could have been borrowed at the same rates without the guarantees that GECUS gave. The Crown argued that, since GECCI received the “implicit support” of its parent company, GECUS, the guarantees were not essential. The Minister relied on the theory of “implicit support” which can be briefly summarized in the following manner:
+(1) GECUS would not have allowed the Appellants to default on their debt regardless of the formal guarantee.
+(2) The credit rating agencies and borrowers in the market understood this and would have treated the Appellants the same way regardless of the formal guarantee.
+(3) Therefore, the formal guarantee had little or no value to the Appellants and the arm’s length price for the guarantee fee would be negligible or nil.
+This Court concluded that the guarantee afforded GECCI a substantially higher credit rating than it would otherwise have had, which allowed it to borrow at lower interest rates. Hogan J. allowed the appeal since the guarantee had a tangible value and the guarantee fees paid to GECUS were not greater than the arm’s length price.
+[6] In the Motion before me, the Appellants contended that the Crown is attempting to rehabilitate the basis of the assessment which both the Tax Court and the Federal Court of Appeal rejected in the previous appeal and, in doing so, is putting forth “new theories” to support the position that an arm’s length price for the guarantee fees should be zero. Although the present appeals relate to different taxpayers and different years, the Appellants argued that the Crown is precluded from relitigating facts and issues that were determined in the Concluded Litigation, or pleading new arguments raised in the first litigation but abandoned before the hearing.
+[7] The Appellants seek to strike various paragraphs in the Respondent’s Replies to the Notices of Appeal based on the following:
+(a) As a result of the outcome of prior litigation (the “Concluded Litigation”) between the Respondent and General Electric Capital Canada Inc., one of the predecessors of the [A]ppellant, the Respondent is precluded, on the grounds of res judicata and issue estoppel, from disputing the deductibility of guarantee fees paid in respect of debt issuances by General Electric Capital Canada Inc.
+(b) The Respondent is precluded, on the grounds of issue estoppel and abuse of process, from pleading facts contrary to the facts found by the Tax Court of Canada and affirmed by the Federal Court of Appeal in the Concluded Litigation.
+(c) The Respondent is precluded, on the grounds of issue estoppel and abuse of process, from advancing arguments that the Tax Court of Canada and the Federal Court of Appeal considered and rejected in the Concluded Litigation, and is equally precluded from pleading facts in support of such arguments.
+(d) The Respondent is precluded, on the grounds of issue estoppel and abuse of process, from relying upon paragraphs 247(2)(b) and (d) of the Income Tax Act (Canada) (the “Act”) and from pleading facts in support of the applicability of those provisions by reason of the fact that the assessments at issue were raised solely on the basis of paragraphs 247(2)(a) and (c) of the Act, and to plead paragraphs 247(2)(b) and (d) of the Act is tantamount to raising a new assessment which is beyond the power of the Respondent.
+(e) In the alternative to paragraph (d) above, if the Respondent is entitled to plead paragraphs 247(2)(b) and (d) of the Act at this stage, then the pleading of paragraphs 247(2)(a) and (c) of the Act must be struck because the two arguments proceed from contradictory factual premises and are not pleaded in the alternative.
+(f) The Attorney-General is not permitted to plead the legal form of GE Capital Canada Retailer Financial Services Company, a predecessor of the [A]ppellant, as a ground for upholding the assessments as the Minister of National Revenue knew but did not rely upon this fact in raising the assessments at issue.
+(Appellant’s Motion Record, pages 2 to 3, paragraph 4)
+[8] To summarize briefly, the Appellants argued that the doctrines of res judicata and abuse of process operate to prevent the Crown from relitigating arguments and issues which were decided in the previous appeal; that the Crown’s pleadings improperly put in issue the basis of the Minister’s assessments; that it is too late for the Crown to raise new bases of assessments; and finally, that if some of these paragraphs are permitted to stand, then some of the Crown’s arguments must be pleaded in the alternative, rather than as concurrent allegations. In addition, the Appellants argued that they were denied the benefit of review by the Transfer Pricing Review Committee concerning the application of paragraphs 247(2)(b) and (d) of the Act to the guarantee fees payable to GECUS.
+The Law:
+[9] Section 53 of the Rules governs the power of the Court to strike portions or all of the pleadings:
+Striking out a Pleading or other Document
+53. The Court may strike out or expunge all or part of a pleading or other document, with or without leave to amend, on the ground that the pleading or other document,
+(a) may prejudice or delay the fair hearing of the action,
+(b) is scandalous, frivolous or vexatious, or
+(c) is an abuse of the process of the Court.
+[10] The Federal Court of Appeal in Main Rehabilitation Co. Ltd. v The Queen, 2004 FCA 403, 2004 D.T.C. 6762, at paragraph 3, expressed the test for striking out pleadings in the following manner:
+[3] The test to be applied for striking out pleadings is whether it is plain and obvious that Main's Notice of Appeal to the Tax Court discloses no reasonable claim. Only if its appeal is certain to fail should the relevant portions of the Notice of Appeal be struck out. …
+[11] To prevent the relitigation of a matter that has been previously before the Court, the doctrines of res judicata and abuse of process may be used. The abuse of process doctrine is focussed on the integrity of the adjudicative process as opposed to that of the parties. Like the doctrine of res judicata, abuse of process should only be applied at the Court’s discretion.
+[12] The doctrine of res judicata, which provides finality to the litigation and fairness to the parties to the litigation, has two branches: cause of action estoppel and issue estoppel. In Angle v M.N.R., [1975] 2 S.C.R. 248, Dickson J., at page 254, explained the distinction as follows:
+… The first, “cause of action estoppel”, precludes a person from bringing an action against another when that same cause of action has been determined in earlier proceedings by a court of competent jurisdiction. … The second species of estoppel per rem judicatam is known as “issue estoppel”, a phrase coined by Higgins J. of the High Court of Australia in Hoystead v. Federal Commissioner of Taxation, [(1921), 29 C.L.R. 537] at p. 561:
+I fully recognize the distinction between the doctrine of res judicata where another action is brought for the same cause of action as has been the subject of previous adjudication, and the doctrine of estoppel where, the cause of action being different, some point or issue of fact has already been decided (I may call it “issue-estoppel”).
+Cause of Action Estoppel:
+[13] The decision of the High Court of Chancery of England, in Henderson v Henderson, (1843) 3 Hare 100, 67 E.R. 313, at page 319, provides the following comment concerning the doctrine of cause of action estoppel:
+In trying this question I believe I state the rule of the [115] Court correctly when I say that, where a given matter becomes the subject of litigation in, and of adjudication by, a Court of competent jurisdiction, the Court requires the parties to that litigation to bring forward their whole case, and will not (except under special circumstances) permit the same parties to open the same subject of litigation in respect of matter which might have been brought forward as part of the subject in contest, but which was not brought forward, only because they have, from negligence, inadvertence, or even accident, omitted part of their case. The plea of res judicata applies, except in special cases, not only to points upon which the Court was actually required by the parties to form an opinion and pronounce a judgment, but to every point which properly belonged to the subject of litigation, and which the parties, exercising reasonable diligence, might have brought forward at the time. …
+[14] In McFadyen v The Queen, 2008 TCC 441, 2008 D.T.C. 4513, Rip C.J. found that cause of action estoppel applied where the taxpayer was attempting to appeal the Minister’s assessments of several taxation years after the assessments had already been the subject of litigation in the Tax Court of Canada. At paragraph 25 of the decision, he stated the following concerning the Henderson decision:
+[25] Henderson not only forecloses the relitigation of issues that have been conclusively decided by a court of competent jurisdiction. It also enunciates what has been referred to as the "might or ought" principle (See Donald J. Lange, The Doctrine of Res Judicata in Canada, 2nd ed. (Markham: LexisNexis Canada Inc., 2004) at page 127.) - matters that properly should have been part of the original litigation but that a party failed to argue cannot be raised in subsequent litigation. (I note that other decisions of the Tax Court of Canada have used the principle of res judicata to preclude an appellant from making new arguments to attack an assessment that has previously been litigated. See, for example, Modlivco Inc. v. Canada, [95 DTC 692] [1995] 2 C.T.C. 2880 (T.C.C.) and Ahmad v. R., [2004 DTC 2355] [2004] 2 C.T.C. 2766 (T.C.C. [Informal Procedure]).
+[15] The necessary conditions for the application of the doctrine of cause of action estoppel were set out in Bjarnarson v Manitoba (Government of) (1987), 38 D.L.R. (4th) 32. Hewak C.J.Q.B. of the Manitoba Court of Appeal, on page 3, relied on the Supreme Court of Canada decision in Town of Grandview v. Doering (1975), 61 D.L.R. (3d) 455, and summarized the conditions as follows:
+1. There must be a final decision of a court of competent jurisdiction in the prior action;
+2. The parties to the subsequent litigation must have been parties to or in privy with the parties to the prior action [mutuality];
+3. The cause of action in the prior action must not be separate and distinct; and
+4. The basis of the cause of action and the subsequent action was argued or could have been argued in the prior action if the parties had exercised reasonable diligence.
+[16] Generally, each taxation year for each taxpayer will represent a new cause of action. For this reason, tax appeals are entertained even where the parties may have litigated very similar facts in respect of a previous taxation year. In Kindree v M.N.R., 70 D.T.C. 1054, at page 1055, the Tax Appeal Board relied on the following statement from Lord Hanworth, M.R., of the English Court of Appeal in Inland Revenue Commissioners v. Sneath, (1932) 17 T.C. 149:
+I am . . . of the opinion that the assessment is final and conclusive between the parties only in relation to the assessment for the particular year for which it is made. No doubt, a decision reached in one year would be a cogent factor in the determination of a similar point in a following year, but I cannot think that it is to be treated as an estoppel binding upon the same party for all years.
+[17] The Respondent relied on the Merrins appeals (Merrins v The Queen, 2006 TCC 392, 2006 D.T.C. 3216 [Merrins #3] affirmed 2007 FCA 295, 2007 D.T.C. 5579; Merrins v The Queen, 2005 TCC 470, 2005 D.T.C. 1273 [Merrins #2], affirmed by the Federal Court of Appeal in Merrins v The Queen, 2007 FCA 295, 2007 D.T.C. 5579 and Merrins v The Queen 2002 D.T.C. 1848 [Merrins #1]. In Merrins #3, Paris J., at paragraphs 8 and 9, stated the following:
+[8] The Appellant raised these same issues in two previous appeals to this Court, …
+[9] There are no material differences between the facts as they relate to the Appellant's 2002 and 2003 taxation years and the facts upon which the earlier appeals were decided. The Appellant's sources of income were the same in all of the years, and the reassessment of the Appellant's tax was made in the same manner for each year, as set out below. However, given that these appeals involve separate taxation years, an independent review of the facts and issues is required.
+Issue Estoppel:
+[18] Issue estoppel prevents parties from relitigating facts or issues which have already been decided in another court proceeding. Referring to the Supreme Court of Canada decision in Angle, Binnie J., in the decision in Danyluk v Ainsworth Technologies, 2001 SCC 44, [2001] 2 S.C.R. 460, in paragraph 25, reiterated the three preconditions that must exist before issue estoppel may apply:
+(1) that the same question [or issue] has been decided;
+(2) that the judicial decision which is said to create the estoppel was final; and
+(3) that the parties to the judicial decision or their privies were the same persons as the parties to the proceedings in which the estoppel is raised or their privies.
+When these three conditions are satisfied, it is still in a court’s discretion, considering the entirety of the circumstances of the case, to refuse to give effect to the application of this doctrine. In other words, issue estoppel should not be applied indiscriminately even where all preconditions are met.
+Abuse of Process:
+[19] The doctrine of abuse of process may be applied, in the Court’s discretion, to preserve the Court’s processes and maintain the consistency and integrity of the administration of justice. This doctrine engages the “… inherent power of the Court to prevent the misuse of its procedure, in a way that would … bring the administration of justice into disrepute” (Canam Enterprises Inc. v. Coles (2000), 51 O.R. (3d) 481 (C.A.), at paragraph 55, per Goudge J.A., dissenting (approved [2002] 3 S.C.R. 307, 2002 SCC 63)) (Toronto (City) v Canadian Union of Public Employees, (C.U.P.E.), Local 79, 2003 SCC 63, [2003] 3 S.C.R. 77, at paragraph 37 [“CUPE”]).
+[20] The doctrine of abuse of process has been applied by Canadian courts to prevent relitigation of cases where the stricter requirements and preconditions of res judicata are not met. Even where the privity/mutuality requirement is not met, relitigation should nevertheless be precluded if it would “…violate such principles as judicial economy, consistency, finality and the integrity of the administration of justice.” (CUPE, paragraph 37).
+A. Analysis – Privity:
+[21] Both the Appellants and the Respondent agreed that the Concluded Litigation produced a final result. This prong of the test for cause of action estoppel and issue estoppel is clearly met.
+[22] The parties disagreed, however, on whether the requirement of privity/mutuality had been satisfied.
+[23] The Appellants contended that privity exists where two parties “share a common interest”. They cited Wilson v Servier Canada Inc., 119 A.C.W.S. (3d) 733 as support for the proposition that “…affiliated corporations are privies if they are subject to a common directing mind and common control.” (Appellant’s Written Submissions, paragraph 49).
+[24] The Respondent argued that belonging to the same corporate group does not establish privity. The Respondent contended that there is insufficient evidence on a Motion, such as this, for the Court to properly determine that privity exists. The Respondent’s view was that the concept of privity has no place in income tax appeals because the scheme of the Act makes a conscious decision to tax each entity separately and each entity has its own right to appeal. Neither counsel provided any case law where privity was found for the purposes of res judicata in income tax cases.
+[25] Even if the Appellants’ view, that privity could be found for the purpose of applying res judicata in income tax appeals, was correct, I am unable to accept the Appellants’ argument. The Appellants relied on the Wilson decision, which references the 1997 decision of Hoffmann-La Roche Ltd. v Canada (Minister of National Health and Welfare), 72 C.P.R. (3d) 362. In the Hoffmann-La Roche case, Richard J. (as he then was) noted that there was a “…dearth of authority upon the question of who are ‘privies’”. Quoting from Buanderie centrale de Montréal Inc. v Montreal City, [1994] 3 S.C.R. 29, at page 689, he stated the following:
+Additionally, in Smith, Stone & Knight, Ltd. v. Birmingham Corp., [1939] 4 All E.R. 116 (K.B.), Atkinson J. came to the conclusion that a parent company could sue the persons responsible for damage caused to one of its subsidiaries. For the case at bar, and regardless of this latter conclusion, most relevant is the way in which the judge arrived at the finding that the subsidiary was not operating on its own account but solely as an integral part of the parent company's activities. To this end he consulted a number of decisions, all of which involved tax law, which needless to say is not without relevance to the case now before the Court. Using these decisions, he identified, at p. 121, six factors that could justify treating two corporations as one for tax purposes. I set them out below:
+(1) Were the profits treated as the profits of the [parent] company?
+(2) [W]ere the persons conducting the business appointed by the parent company?
+(3) [W]as the [parent] company the head and the brain of the trading venture?
+(4) [D]id the [parent] company govern the adventure, decide what should be done and what capital should be embarked on the venture?
+(5) [D]id the [parent] company make the profits by its skill and direction?
+(6) [W]as the [parent] company in effectual and constant control?
+[26] Justice Richard went on, at pages 689 to 690, to quote Rand J. in Aluminum Co. of Canada Ltd. as follows:
+Finally, I note Aluminum Co. of Canada Ltd. v. Toronto (City), [1944] S.C.R. 267, which this time clearly dealt with tax law, and the following passage from Rand J., at p. 271, which illustrates the special relationship sought by the courts in order to justify treating two corporations as one for tax purposes:
+…
+The question, then, in each case, apart from formal agency which is not present here, is whether or not the parent company is in fact in such an intimate and immediate domination of the motions of the subordinate company that it can be said that the latter has, in the true sense of the expression, no independent functioning of its own.
+[27] The Appellants are part of the same corporate group, as evidenced by the Minister’s assumption that GECUS had control over the Appellants’ ultimate business decisions. It is my view, however, that, based on the factors referenced in Hoffman-La Roche, there is insufficient evidence on this Motion for me to conclude that privity exists for the application of res judicata. It requires more than simple affiliation and accountability to the same corporate head office to establish that two corporations are “alter-egos of one another”, in the sense that Richard J. employed that term in Hoffmann-La Roche.
+[28] Each taxation year for each taxpayer is a different cause of action. Accordingly, the Appellants’ position that the Crown’s arguments should have been raised in the appeal of a different taxpayer, or in the appeal of the same taxpayer for a different year, cannot be supported. Consequently, whether or not privity may exist between these entities, cause of action estoppel does not apply.
+[29] The abuse of process doctrine does not require the presence of privity. The Appellants asked that I apply the abuse of process doctrine to strike certain portions of the Replies. Following is an analysis of the Appellants’ arguments and my reasons as to why I have concluded that the Subject Paragraphs are not abusive of the Court’s processes.
+B. Income Earning Purpose and Recharacterization Arguments:
+[30] The Appellants asked the Court to strike those portions of the Replies that raise the income-earning purpose argument and the recharacterization argument. Relying on paragraphs 18(1)(a) and 20(1)(e.1) of the Act (the “income-earning purpose argument”), the Appellants argued that the Concluded Litigation settled the question of whether the guarantee fees were an expense incurred for the purpose of earning income. The Appellants also requested that arguments based on paragraphs 247(2)(b) and 247(2)(d) of the Act (the “recharacterization argument”) be struck from the Respondent’s pleadings because the bona fide commercial purpose of these fees was established in the Concluded Litigation.
+[31] The Appellants contended that, because these appeals will deal with the same debt that was at issue in the Concluded Litigation, they will also deal with the same guarantee fee agreements. Therefore, findings of fact and law in the Concluded Litigation respecting those agreements should not be open to scrutiny in the present litigation. The Appellants also argued that the Respondent’s present allegations, that the guarantee fees were introduced for tax reasons, that they were not incurred for the purpose of earning income and that they had no bona fide non-tax purpose, directly contradict Hogan J.’s finding that the guarantee was a commercial necessity for GECCI.
+[32] The Respondent did not dispute that the issued debt guaranteed by GECUS is the same debt that was at issue in the Concluded Litigation. However, the Respondent contended that there is no evidence before me that would allow me to conclude that the guarantee fee agreements were the same for the other Appellant or for the other years in issue. The Respondent also argued that its pleadings put in issue the “purpose of the guarantee fees”, which is distinct from the “purpose of the guarantees”.
+[33] In response to this argument, the Appellants, in rebuttal submissions, stated that the two items are part of the same transaction, that is, the guarantee fees were paid in exchange for the guarantees. Therefore, the Appellants concluded that it was inappropriate for the Respondent to argue that the guarantees were tax motivated and that they were commercially necessary but that payment of the fees was not necessary for the purpose of earning income.
+[34] The Respondent emphasized that there are differences between the Appellants’ circumstances in these appeals and the circumstances of GECCI between 1996 and 2000. Those differences included the fact that Unlimited Liability Companies (“ULCs”), incorporated in the Province of Nova Scotia, are involved in these appeals, as well as differences in debt to equity ratio and other economically relevant circumstances. Accordingly, the Respondent argued that the purpose of the guarantees may be potentially different than in the Concluded Litigation.
+[35] The evidence indicated that the debt of GECCI is the same debt that was at issue in the Concluded Litigation (Affidavit of David Daubaras, paragraph 20). However, I do not believe that the guarantee fee agreements necessarily remained the same for GECCI for other years. The Appellants submitted a lengthy Motion Record but it contained no evidence regarding those agreements. There is no reason for me to conclude that the guarantee fee agreements for the other Appellants were the same as those at issue in the Concluded Litigation. Therefore, I am not prepared to strike these sections because there is insufficient evidence before me on this Motion to do so.
+C. Respondent’s Claims of “No Knowledge”:
+[36] Paragraphs 23 and 24, of the Notice of Appeal in the GECC appeal, provide background information regarding GECCI’s commercial paper program, while paragraph 32 discusses the Guarantee Fee Agreements.
+23. GECCI issued commercial paper under a short term promissory note program established in 1989 (the “Commercial Paper Program”). GECCI ceased issuing commercial paper after GE Capital Canada Funding Company, a related corporation, began issuing commercial paper in 1998.
+24. GECCI issued commercial paper in Canadian and United States dollars for terms not exceeding 270 days. GECCI’s commercial paper traded on the Canadian commercial paper market. At all material times, the maximum aggregate principal amount outstanding under the Commercial Paper Program was $7,000,000,000.
+…
+32. Pursuant to the Guarantee Fee Agreements, the guarantee fees payable by Retailer, Card Services and GECCI to GECUS during the years under review were as set out in Schedule C.
+[37] The Respondent admitted the allegations in paragraph 23, but stated the following in respect to paragraphs 24 and 32:
+8. With respect to paragraph 24 of the Notice of Appeal, he admits that GECCI issued commercial paper. He otherwise has no knowledge of and puts in issue the remaining allegations of fact stated therein.
+…
+10. With respect to paragraph 32 of the Notice of Appeal, he has no knowledge and puts in issue that the guarantee fees payable were pursuant to the “Guarantee Fee Agreements”. He also has no knowledge of and puts at issue the amount in Schedule C for Retailer’s 1997 taxation year. He states that the amount in Schedule C for Card Services’ 2002 taxation year should be $5,934,247 and not $5,937,247. He otherwise admits the remaining allegations of fact stated therein.
+(Reply of Respondent, dated February 15, 2011, pages 3 and 4, paragraphs 8 and 10).
+[38] The Appellants seek to strike paragraph 8 of the Respondent’s GECC Reply, arguing that allegations, contained in paragraph 24 of that Notice of Appeal, were conclusively proved in the Concluded Litigation.
+[39] The Appellants also seek to have the following clause: “…he has no knowledge and puts in issue that the guarantee fees payable were pursuant to the “Guarantee Fee Agreements”…” struck from paragraph 10 of the GECC Reply, since the guarantee fees in the Concluded Litigation were found to be payable pursuant to the guarantee fee agreements. The Appellants argued that the Respondent’s claims of “no knowledge” are either barred by issue estoppel or are abusive of the Court’s processes.
+[40] The Respondent admitted that GECCI issued commercial paper and that it stopped issuing in 1998. The Respondent questioned why there would be any debt outstanding between 2001 and 2004 when the maximum term of the debt was 270 days. The Respondent argued that this issue should be open for exploration during discovery proceedings.
+[41] The Respondent also stated that GECC had neither alleged nor tendered any evidence to suggest that the commercial paper program in 2001, 2002 and 2004 was carried out in the same manner as in those years that were at issue in the Concluded Litigation. The Respondent again argued that there is no evidence that the Agreements in issue in the present appeals share the same terms and conditions as those that were in issue in the Concluded Litigation.
+[42] Finally, the Concluded Litigation dealt only with those agreements GECCI entered into but not those into which Retailer, Card Services or Funding are alleged to have entered.
+[43] I do not believe that the aforementioned paragraphs should be struck for the following reasons:
+(1) The Respondent’s point is a valid one. The phrases “at all material times” in paragraph 24 and “during the years under review” in paragraph 32 of the GECC Notice of Appeal indicate that GECC is not simply reviewing the Agreed Facts set out in the Concluded Litigation, but, rather, it is alleging that the terms and conditions remained the same in the years in this appeal.
+(2) Although the entire Statement of Agreed Facts was not reproduced in the Concluded Litigation, it would appear that most of the agreed facts were not fundamental findings to which issue estoppel could apply.
+(3) The Appellants did not suggest that they were essential to, or that they were even mentioned in the analysis of Hogan J.. The issue in the Concluded Litigation was the arm’s length price of the guarantee fees. Nothing in particular appears to have turned on the details of the commercial paper program or the question of whether fees were paid “pursuant” to the guarantee fee agreements.
+[44] Aside from this, I am still grappling with why the Crown would dispute facts in the present appeals that were apparently part of the Agreed Statement of Facts in the Concluded Litigation. I am equally mystified that the Respondent’s Reply would claim, on the one hand, no knowledge of whether “the guarantee fees payable were pursuant to the Guarantee Agreements” and yet, on the other hand, allege that “GECUS required the Companies to enter into the Guarantee Fee Agreements whereby the Companies agreed to pay” a certain amount (GECC Reply at paragraph 16(j)(vii)).
+D. The New Theories / Basis of Assessment:
+[45] The Appellants argued that the Crown may not raise new theories or conclusions of law at this stage in order to justify a transfer price of zero where those theories are totally unrelated to the basis of assessment.
+[46] In addition to the implicit support theory, the Respondent’s Replies to the Notices of Appeal raised two additional arguments or theories:
+(1) The Unlimited Liability Companies Theory:
+[47] During the relevant period, both Funding and Retailer were ULCs, incorporated pursuant to the laws of Nova Scotia. Paragraph 15 of the Respondent’s Reply to the Notice of Appeal concerning GECC implies that GECCI and Card Services were also ULCs at some point. The Crown intends to argue that GECUS’s explicit guarantees were superfluous because, as ULC members, GECUS was already liable for the debts without any limit according to the “inherent corporate structure”. Accordingly, the guarantees at issue had little or no value to the ULCs.
+[48] The relevant portions of the pleadings, which the Appellants are asking this Court to strike because they raise the ULC theory, are highlighted in bold and are contained in Schedule “A” attached to these Reasons.
+(2) The Recharacterization Theory:
+[49] The Appellants contended that the Minister assessed them pursuant to paragraphs 247(2)(a) and (c) of the Act. Although there is no specific reference to these paragraphs in either the proposal letters or the Transfer Pricing Report, the Respondent did not dispute this contention.
+[50] In the present appeals, the Respondent argued that both branches of subsection 247(2) apply. The Appellants referred to the Respondent’s reliance on paragraphs 247(2)(b) and (d) of the Act as the “recharacterization theory” and asked that those portions of the Replies that reference these paragraphs be struck.
+[51] The stated administrative position of the Minister respecting proposed assessments pursuant to paragraph 247(2)(b) is that they will be referred to the Transfer Pricing Review Committee before an assessment is issued. However, the evidence before me indicates that no such referral was made. Where paragraph 247(2)(b) is engaged, paragraph 247(2)(d) allows the Minister to ignore the transaction that was actually entered into by the non-arm’s length parties and to calculate the tax based on a notional transaction which arm’s length parties would have entered into.
+[52] Attached to my Reasons as Schedule “B” are the relevant portions that the Appellants seek to strike on this basis.
+The Appellants’ View:
+[53] The Appellants’ legal argument was focussed on the meaning of the term “assessment” as it is used in the income tax system. They argued that the Crown is using the Court’s processes to reassess the Appellants by conducting an audit through the litigation process in order to ascertain whether these new theories will be worth pursuing. The statutory power to reassess belongs to the Minister, not the Crown.
+[54] The Appellants relied on the case of Pure Spring Co. Ltd. v Minister of National Revenue, [1946] Ex.C.R. 471, 2 D.T.C. 844, where, at page 857, Thorson J. referred to the assessment as “… the summation of all the factors representing tax liability, ascertained in a variety of ways, and the fixation of the total after all the necessary computations have been made”.
+[55] The Appellants suggested that, while case law has allowed the Crown leeway to advance new facts or alternative arguments, it is precluded from turning the litigation process into a reassessment process in which a new theory that is advanced is entirely different from the basis of the Minister’s assessment.
+[56] During oral submissions, Appellants’ Counsel argued that the Courts have struggled with the scope of subsection 152(9) of the Act because the Courts are balancing competing policy objectives: the need for finality and the need for limitation periods for assessments to be enforced against the Minister.
+[57] In the later case of The Queen v Anchor Pointe Energy Ltd., 2003 FCA 294, 2003 D.T.C. 5512, Rothstein J. allowed the Crown to advance an alternative argument pursuant to subsection 152(9) of the Act and, at paragraph 39, distinguished Pedwell as follows:
+[39] … This case is unlike cases such as Pedwell v. The Queen, 2000 DTC 6405 (F.C.A.), where the Minister sought to take into account different transactions than the ones that formed the basis of the reassessments that were made within the normal reassessment period. I do not say that taking into account other transactions is the only thing the Minister cannot do after expiry of the normal reassessment period. Anything that increases tax payable from what would have been the case prior to expiry of the normal reassessment period would be objectionable.
+[58] The Appellants contended that the discussions in The Queen v Loewen, 2004 FCA 146, 2004 D.T.C. 6321 and The Queen v Honeywell Limited, 2007 FCA 22, 2007 D.T.C. 5073, are further examples of the Courts’ attempts to find the line between a new assessment and an alternative argument in support of the same assessment. In Loewen, the Federal Court of Appeal overturned the decision of Bowman, A.C.J. (as he then was) who had concluded that one of the arguments brought by the Crown should be struck because it constituted a new and different assessment.
+[59] In Honeywell, 2006 TCC 325, 2006 D.T.C. 3124, at paragraph 13, Bowman, C.J., venting his frustration with the Federal Court of Appeal decision in Loewen stated that “… the Federal Court of Appeal’s interpretation of subsection 152(9) … permits the Crown to do anything it likes in pleadings...”. He nevertheless struck the Crown’s argument based on foreign accrual property rules because the waiver of the reassessment period specified an assessment under the general anti-avoidance rule. The Federal Court of Appeal confirmed that the Crown was bound by the terms of the waiver and did not venture further into the actual scope of subsection 152(9).
+[60] Subsequently, in the case of Jeannette Walsh v The Queen, 2007 FCA 222, 2007 D.T.C. 5441, at paragraph 18, the Federal Court of Appeal placed the following three restrictions on the Crown’s use of subsection 152(9):
+[18] The following conditions apply when the Minister seeks to rely on subsection 152(9) of the Act:
+1) the Minister cannot include transactions which did not form the basis of the taxpayer’s reassessment;
+2) the right of the Minister to present an alternative argument in support of an assessment is subject to paragraphs 152(9)(a) and (b), which speak to the prejudice to the taxpayer; and
+3) the Minister cannot use subsection 152(9) to reassess outside the time limitations in subsection 152(4) of the Act, or to collect tax exceeding the amount in the assessment under appeal.
+[61] The Appellants also made a number of arguments to support their view of the scope of the applicable law based on rules and policies of the tax system.
+[62] The first argument was based on fairness to the Appellants. Paragraph 169(2.1)(a) of the Act prevents large corporations such as the Appellants from raising an issue in litigation unless the issue, the facts and the reasoning are described in the Notice of Objection. If the Crown is permitted to introduce new theories during court proceedings, then a strict application of paragraph 169(2.1)(a) could potentially have the absurd result of preventing large corporations from answering those new theories.
+[63] The second argument involved the Appellants’ fear that the discovery process will become an audit if the Crown is allowed to argue new theories in its pleadings.
+[64] In the third argument, the Appellants contended that, if the Crown is permitted to formulate new theories, this would usurp the Minister’s assessing functions, which are vested exclusively in the Minister. The Court’s role is, in the words of Rothstein J., to “…decide only whether the Minister, on the basis on which he chooses to assess, is right or wrong.” (Appellants’ Written Submissions at paragraph 107, quoting Canada v McLarty, 2008 SCC 26 at paragraph 75). I note, however, that the Respondent rightly pointed out that McLarty did not deal with the application of subsection 152(9) of the Act.
+The Respondent’s View:
+[65] The Crown took the view that it is permitted to advance new theories in a tax appeal. However, it acknowledged that there are some limitations on its pleadings, including several of the same limitations which the Appellants pointed out. Although there are fairly rigid boundaries for pleading of assumptions, which must reflect the facts that the Minister took into account in making the assessment, the Crown argued that it has wide latitude elsewhere in the Reply to advance different factual and legal bases to support the assessment, including those which may not necessarily be consistent with the original basis.
+[66] The Respondent relied on the decisions in Loewen and RCI Environment Inc. v The Queen, 2008 FCA 419, [2008] F.C.J. No. 1762, to support its contention that alternative arguments may be advanced at any time and the expiry of the normal reassessment period does not preclude the Crown from defending an assessment on any ground.
+[67] The Respondent cited Loewen as authority for its proposition that the Crown may advance new legal arguments if they arise from the evidence presented. In addition, paragraph 49(1)(e) of the Rules explicitly permits the Crown to plead “other material facts” – those that did not form part of the Minister’s assessment.
+[68] In the Respondent’s view, the effect of subsection 152(9) of the Act is to codify these rules.
+ANALYSIS:
+[69] The parties to this Motion have different views of what the applicable law is in respect to “fresh assessments”. This dispute arises in respect to the scope of subsection 152(9) of the Act and what this subsection allows the Crown to do in its pleadings. Subsection 152(9) provides:
+(9) Alternative basis for assessment. The Minister may advance an alternative argument in support of an assessment at any time after the normal reassessment period unless, on an appeal under this Act
+(a) there is relevant evidence that the taxpayer is no longer able to adduce without the leave of the court; and
+(b) it is not appropriate in the circumstances for the court to order that the evidence be adduced.
+(a) The ULC Theory:
+[70] First, I will deal with the decision in Pure Spring which the Appellants relied upon for their definition of assessment. It is important to set the background of this decision. Pure Spring was decided in 1946 under the Income War Tax Act, R.S.C. 1927, c. 97. The Minister had exercised the power of “discretionary determination” under subsection 6(2) of this 1927 Act, which gave the Minister the power to disallow an expense which was, in his view, in excess of what was reasonable for the taxpayer’s business. The question that the Court in Pure Spring had to answer was whether the Minister’s exercise of this discretionary power constituted an assessment, in violation of the statutory ambit of the Act which provided only for appeals from assessments.
+[71] In The Queen v Anchor Pointe Energy Ltd., 2007 FCA 188, [2007] F.C.J. No. 687, Létourneau J., at paragraphs 32-33, quoted comments made in obiter by Hugessen J.A. in Canada v Consumers’ Gas Co., [1987] 2 F.C. 60 (F.C.A.) as follows:
+[32] Second, while it is true that assessment, reassessment and confirmation refer to three specific actions by the Minister under the Act in the process of determining the tax liability of a taxpayer, the word “assessment” also refers to the product of that process. Hugessen J.A. nicely described the two meanings of the word in Canada v. Consumers’ Gas Co. [1987] 2 F.C. 60 (F.C.A.). At page 67 he wrote:
+What is put in issue on an appeal to the courts under the Income Tax Act is the Minister’s assessment. While the word “assessment” can bear two constructions, as being either the process by which tax is assessed or the product of that assessment, it seems to me clear, from a reading of sections 152 to 177 of the Income Tax Act, that the word is there employed in the second sense only. This conclusion flows in particular from subsection 165(1) and from the well established principle that a taxpayer can neither object to nor appeal from a nil assessment.
+[33] I agree with the motions judge that the appeal is not from the confirmation of the assessment. The appeal is, to use the words of Hugessen J.A., from the product of that assessment: …
+[72] Justice Hugessen’s comments in Consumers’ Gas seem to contradict the definition of assessment which the Appellants urged me to accept. If, as Hugessen J. states, “assessment” in sections 152 to 177 of the Act refers to the “result” of the assessing process, rather than the “process” itself, the Appellants’ argument is flawed.
+[73] Justice Sharlow cited the decision in Pure Spring in her reasons in Loewen and, at paragraph 6, she stated the following:
+[6] An assessment is the determination by the Minister of the amount of a person’s tax liability: Pure Spring Co. v. Minister of National Revenue, [1946] Ex.C.R. 471, [1946] C.T.C. 169, (1946) 2 DTC 844. A taxpayer’s initial assessment for a taxation year typically takes into account what is reported by the taxpayer in an income tax return. An initial assessment may be appealed, but most appeals are from reassessments, in which the Minister assesses additional tax to reflect specific changes to the taxpayer’s taxable income. The word “assessment” is used to refer to assessments and reassessments.
+[74] Although Sharlow J. cites Pure Spring, she does not do so to distinguish between two constructions of the word “assessment” as discussed in Consumers’ Gas. Her comments, taken as a whole, are equally consistent with the view that the “assessment”, which is appealed under the Act and defended by the Crown, is the “result” of the assessing process and not the process itself.
+[75] The Appellants were correct when they stated that subsection 152(9) of the Act does not allow the Crown to “do anything it likes” in its pleadings. It is clear that if the Crown wants to rely on subsection 152(9) it must abide by the three restrictions stated by Chief Justice Richard in Jeannette Walsh.
+[76] However, the Appellants argued that advancing a different basis for the assessment would amount to reassessing outside the time limitations, which is contrary to the third restriction listed in the Jeannette Walsh decision. They also relied on the distinction between an argument in support of an assessment (Appellants’ Written Submissions at paragraphs 33 and 36) and a new basis of assessment, which has been rejected by the Courts.
+[77] The three limitations outlined in the Jeannette Walsh decision, as well as C. Miller J.’s comments contained in his decision in Walsh, support the overriding principle that avoiding unfairly prejudicing a taxpayer is the focus. In my opinion, the Appellants are incorrect in offering the distinction between an alternative argument and a new assessment as the guiding principle in determining whether pleadings fall within the scope of subsection 152(9) of the Act.
+[78] According to the Appellants’ submissions, both the recharacterization theory and the ULC theory are entirely different from the Minister’s original assessment and, therefore, are tantamount to fresh assessments. The Respondent argued that it should be permitted to advance these theories because they are alternative arguments which are permitted by subsection 152(9).
+[79] The Appellants argued that the Respondent should not be permitted to rely on the ULC theory because it is entirely different from the Minister’s original basis of assessment. The Appellants relied on the proposed letters and the Transfer Pricing Report, neither of which mention the possibility that the taxpayers’ status as ULCs might impact the arm’s length price of the guarantee fees. The Appellants contended that in advancing the ULC theory, the Crown is attempting to introduce matters that were not part of the Minister’s original assessments. This would be contrary to the first condition contained in Jeannette Walsh. Although it is not clear from either the oral submissions or from the Appellants’ Written Submissions, it appears that this argument referred to paragraph 15(g) of the Reply in the Funding appeal and paragraph 16(j) of the Reply in the GECC appeal. In those paragraphs, the Respondent outlined “a transaction or series of transactions” and included the incorporation as a Nova Scotia ULC in one of the steps or transactions.
+[80] The Respondent viewed the ULC theory as an alternative argument and not the basis for a new assessment. While the Appellants have indicated that it would be unfair to allow the Crown to raise these arguments, they have not alleged the prejudice, if any, that would result. The Respondent argued that the transaction at issue has not changed from the original assessment. The issue remains the deduction of the guarantee fees. The transaction that the Crown is attacking is the guarantee fee arrangement, as referenced in the Minister’s original assessments (Transcript, page 179).
+[81] In Pedwell v The Queen, 2000 D.T.C. 6405, Rothstein J. refused to allow the Crown to attack a transaction that was different from the one which formed the basis of the Minister’s assessment. In the present appeals, the Replies label “incorporation as a ULC” as part of a transaction or series of transactions. However, the issue is still the tax consequences arising from the payment of the guarantee fees and not the tax consequences arising from some different transaction. The Appellants’ argument with respect to the ULC theory cannot succeed. It does not seem to me that the “implicit support” theory and the ULC theory are “entirely different”.
+[82] Even if I were to accept the Appellants’ view of the applicable law, I believe that the Crown should be able to question the legal structure of a subsidiary and its legal relationship with the parent corporation in the course of making the implicit support argument and in spite of the fact that the Minister’s initial letter and report made no reference to those particular subsidiaries being ULCs.
+[83] If I accepted the Appellants’ argument, I would be compelling the Crown to closely follow the exact analysis contained in the Minister’s proposed letters, which is clearly contrary to subsection 152(9) of the Act.
+(b) The Recharacterization Theory:
+[84] The Appellants divided subsection 247(2) of the Act into two branches. The first branch, contained in paragraphs (a) and (c), allows the Minister to adjust a transfer price to make it an arm’s length price while the second branch, contained in paragraphs (b) and (d), has an anti-avoidance element and applies in different circumstances than the first branch. In the Appellants’ view, the recharacterization theory is not only different from the original basis of the assessment, but it rests on a contradictory view of the facts. Paragraphs 247(2)(a) and (c) assume that the transaction was entered into with a bona fide purpose, but that the terms and conditions of the transaction must be adjusted to an arm’s length standard. Paragraphs 247(2)(b) and (d) assume that arm’s length parties would not have entered into the transaction at all and that its primary purpose would otherwise involve obtaining a tax benefit. Since the recharacterization theory flows from a fundamentally different understanding of the transaction, the Appellants contended that it is a fresh assessment rather than a new argument in favour of the original assessment for the purposes of subsection 152(9) of the Act.
+[85] The Respondent had a different view of subsection 247(2). Paragraph 73 of the Respondent’s Written Submissions stated the following:
+73. If a transaction is one into which there is no evidence that arm’s length parties would enter (and assuming no bona fide non-tax purpose), the adjustment could be determined under paragraph 247(2)(c) in the same amount as would be determined if arm’s length parties would enter into such a transaction or the adjustment could be determined under paragraph 247(2)(d) on the basis of recharacterizing the transaction into one which arm’s length parties would enter. It depends on whether a valuation method exists which can replicate the price at which arm’s length parties would agree to enter into the transaction or not. If one exists, usually the adjustment would be under (c). If not, the only means of arriving at a transfer price for the transaction is by way of recharacterization under (d).
+The Respondent contended that the difference, between the two branches, paragraphs 247(2)(a) and (c) and paragraphs 247(2)(b) and (d), turns on whether a valuation method exists to determine an arm’s length price (Respondent’s Written Submissions, paragraph 72). In addition, the Respondent argued that the Appellants are asking this Court, on a Motion, to endorse their interpretation of subsection 247(2) without the benefit of the essential factual background. GECCI sought a similar ruling from the Federal Court of Appeal in the Concluded Litigation. Justice Noël concluded that it was unnecessary to address this issue as Hogan J. of this Court had not discussed paragraphs 247(2)(b) and (d).
+[86] Subsection 247(2) of the Act states:
+(2) Transfer pricing adjustment. Where a taxpayer or a partnership and a non-resident person with whom the taxpayer or the partnership, or a member of the partnership, does not deal at arm's length (or a partnership of which the non-resident person is a member) are participants in a transaction or a series of transactions and
+(a) the terms or conditions made or imposed, in respect of the transaction or series, between any of the participants in the transaction or series differ from those that would have been made between persons dealing at arm's length, or
+(b) the transaction or series
+(i) would not have been entered into between persons dealing at arm's length, and
+(ii) can reasonably be considered not to have been entered into primarily for bona fide purposes other than to obtain a tax benefit,
+any amounts that, but for this section and section 245, would be determined for the purposes of this Act in respect of the taxpayer or the partnership for a taxation year or fiscal period shall be adjusted (in this section referred to as an "adjustment") to the quantum or nature of the amounts that would have been determined if,
+(c) where only paragraph (a) applies, the terms and conditions made or imposed, in respect of the transaction or series, between the participants in the transaction or series had been those that would have been made between persons dealing at arm's length, or
+(d) where paragraph (b) applies, the transaction or series entered into between the participants had been the transaction or series that would have been entered into between persons dealing at arm's length, under terms and conditions that would have been made between persons dealing at arm's length.
+(Emphasis added)
+[87] Paragraph 247(2)(c) contains the word “only” in its text: “where only paragraph (a) applies”. Paragraphs 247(2)(a) and (b) describe two factual situations which, in my view, are not mutually exclusive. If no overlapping was intended between those situations for which (a) applied and those situations for which (b) applied, then, logically, there would be no need to include the word “only” in paragraph 247(2)(c). Consequently, I do not agree with the view expressed by either the Appellants or the Respondent respecting subsection 247(2), as neither view is consistent with the actual text of this provision. Contrary to the Appellants’ submission, there is no contradiction because there is nothing logically inconsistent in arguing that, on the facts of these appeals, both paragraphs (a) and (b) may apply.
+[88] With respect to the Respondent’s interpretation of this provision, the argument would appear to be that the Court will choose to apply either (c) or (d), depending on whether a valuation method for the arm’s length price can be established. However, the text of subsection 247(2) is straightforward, that is, paragraph 247(2)(c) should be used where “only (a)” applies. In practice, the Crown may choose not to argue that (b) applies but, in looking at subsection 247(2) in its entirety, I cannot see how its interpretation turns on the availability of an appropriate valuation method.
+[89] While I agree that the recharacterization argument advances a different legal basis to support this assessment, I do not believe it violates any of the restrictions on the Crown’s use of subsection 152(9) of the Act. It does not attempt to attack a different transaction, to add to the amount of tax assessed or to assess after the limitation period expired. I view it simply as another legal argument in support of the Minister’s assessment and, consequently, permitted pursuant to subsection 152(9). Justice Bowie, at paragraph 7 of the decision in Teelucksingh v The Queen, 2010 TCC 94, 2010 D.T.C. 1085, confirms that it is “well settled” that subsection 152(9) allows the Minister to place reliance on a different basis of assessment:
+[7] I turn now to the appellant’s attack on the respondent’s pleading. It takes two forms. First, it was argued that the Reply should be struck out because it pleads a different basis for the assessment from that which the Minister relied on when the assessment was first made. This argument is without merit. It is now well settled that subsection 152(9) of the Act allows the Minister to invoke a different basis for his assessment from that originally relied upon, even after the expiry of the normal reassessment period.
+[90] In summary, none of the pleadings will be struck on the basis that they constitute a “fresh assessment” or that they are a violation of subsection 152(9).
+[91] In any event, I would not strike the Respondent’s pleadings because this is not one of those “clearest and most obvious of cases” for doing so, which was referred to by Bowman C.J. in 1072174 Ontario Ltd v The Queen, 2008 TCC 129, [2008] T.C.J. No. 163. In that case, the Appellant brought a motion to strike pleadings, alleging that they were contradictory and that they purported to assess on a completely different basis than the Minister’s original basis, contrary to subsection 298(6.1) of the Excise Tax Act, the equivalent to subsection 152(9) of the Act. The Court agreed that some of the Crown’s pleadings were inconsistent and that the Court was open to a fresh assessment argument. However, in denying the motion to strike, the following comments were made:
+[16] I agree with Mr. Wyslobicky that there are inconsistencies in the Crown’s pleading of assumptions. … This may well relieve the appellant of the traditional onus. The Crown can assert facts that are inconsistent with assumptions if it is prepared to accept the onus.
+[17] Moreover, Mr. Wyslobicky contends that the Minister cannot, outside the time limit for reassessing, argue that the appellant should not have been allowed the ITCs in the first place. This may be true but it is not something that can be readily dealt with on motion to strike under Rule 53 or Rule 58. It should be dealt with at trial.
+[18] There have been many cases in this court and the Federal Court of Appeal about what the respondent can plead in support of an assessment and what she cannot. They are not all readily reconcilable. I do not think that any useful purpose would be served by yet another lengthy analysis of the jurisprudence on practice and procedure in this court. Some of the cases were decided by me, and they have had mixed success in the Federal Court of Appeal. Virtually all of the cases are contained in the appellant’s or the respondent’s books of authorities. I rely on those authorities that support the view that a court should be reluctant to strike out pleadings except in the clearest and most obvious of cases.
+(Emphasis added)
+E. Alternative Pleadings:
+[92] The Appellants relied on subsection 51(2) of the Rules, which states:
+51. (2) A party may make inconsistent allegations in a pleading where the pleading makes it clear that they are being pleaded in the alternative.
+[93] The Appellants’ argument is that, if I do not strike the recharacterization theory (which I have not), then paragraphs 247(2)(a) and (c) and paragraphs 247(2)(b) and (d) should be pleaded as alternative arguments so that the Appellants will know the Respondent’s primary argument. The Appellants relied on the Federal Court of Appeal in Remo Imports Ltd. v Jaguar Cars Limited, 2007 FCA 258, [2007] F.C.J. No. 999, where, at paragraph 51, the Court stated:
+[51] … It is one thing for a litigant to adopt alternative positions. It is quite another for a litigant to simultaneously adopt positions in the same proceedings based on diametrically opposed interpretations of the same facts, and seek to have the benefit of both positions. …
+[94] The Respondent relied on the same arguments related to the recharacterization theory being a new assessment. First, the two branches of subsection 247(2) do not need to be pleaded in the alternative because they are not inconsistent. Second, as a Motions Judge, I must refuse to rule on the Appellants’ proposed interpretation of subsection 247(2) where I would be doing so in a factual vacuum. The Respondent relied on comments by Jorré J. in Kopstein v The Queen, 2010 TCC 448, 2010 D.T.C. 1307.
+[95] Unlike the examples provided in both of the decisions in Kopstein and Remo Imports, the Appellants have failed to point to any inconsistent factual allegations nor have they suggested that either of the supposedly inconsistent legal arguments cannot succeed if the facts alleged by the Respondent are proven. Their only focus was on the submissions of law that, in their view, cannot stand together.
+[96] The Respondent’s position was that, based on facts that can be proved, the expense deductions should be disallowed pursuant to the following provisions: 247(2)(a) and (c), 237(2)(b) and (d), 18(1)(a) and 20(1)(e.1). Whether the Respondent is correct in its interpretation of the law or, alternatively, whether my reading is the correct one, then there is no inconsistency and all of these provisions may apply to the same set of facts.
+[97] According to subsection 51(2) of the Rules, there must be some inconsistency in the pleadings that is required to be remedied in order for this Rule to apply. Interpreting such untested legislation in a pre-trial motion should be avoided. It cannot and should not be done at this stage. On the face of the Respondent’s pleadings, it is not clear and obvious that such an inconsistency exists that would require that contradictory allegations be pleaded as alternatives.
+[98] Since there is no existing jurisprudence regarding paragraphs 247(2)(b) and (d), it is only fair that the Respondent be permitted to proceed to a hearing based on its interpretation of the law. Again, it is not “clear and obvious” on the face of the Crown’s pleadings that any inconsistency exists for which subsection 51(2) of the Rules should be applied to remedy. The power that this Court possesses to strike pleadings must be exercised with great care and only in the clearest and most obvious of cases. Since the matters raised transcend the parameters of a pre-trial motion, they are best left to the Trial Judge.
+F. Paragraph 247(2)(b) / Procedural Fairness
+[99] The Appellants contended that they were denied the opportunity of making submissions to the Transfer Pricing Review Committee in respect to the application of paragraph 247(2)(b) of the Act. The Canada Revenue Agency’s (the “CRA”) administrative practice is to have the Committee consider all proposed reassessments under paragraphs 247(2)(b) and (d) prior to issuing such assessments. The Appellants argued that, if the Respondent is permitted to advance the recharacterization theory, they will be denied procedural fairness because the CRA has not followed its mandatory procedures.
+[100] The Respondent relied on the decision in Collins & Aikman Products Co. v The Queen, 2009 TCC 299, [2009] T.C.J. No. 255, and particularly paragraph 33 of that decision, to support the argument that a failure to comply with the Crown’s administrative guidelines cannot be fatal to those pleadings respecting paragraphs 247(2)(b) and (d). In Collins & Aikman, the Court stated that, although there had been no referral to the General Anti-Avoidance Committee, as set out in the administrative guidelines, little or no weight or significance was placed on this failure. Similarly, in this Motion, I place no significance on the fact that this procedural step in CRA’s administrative policy procedure was omitted.
+[101] I do not believe that the Appellants have been denied procedural fairness simply because they did not have the opportunity to make submissions to this Committee. It is well established that the CRA interpretive bulletins, information circulars and transfer pricing memoranda, while helpful, are not binding on this Court. Nothing in subsection 247(2) requires the Minister to establish and make use of such a Committee. The role of this Court is to apply the Act to determine a taxpayer’s liability and not to rule on the administrative policies and procedures followed, or, as in this case, not followed by the CRA.
+G. Distinction Between “Guarantees” and “Implicit Support”:
+[102] The Appellant took issue with paragraph 9 of the Reply of the GECC appeal, because it conflates a guarantee and implicit support. During the hearing of this Motion, Respondent Counsel agreed to amend its pleadings to make clear “… the distinction between legally binding guarantees and either implicit support, implicit guarantees, et cetera.” (Transcript, page 173, lines 10 to 13).
+Conclusion:
+[103] The Appellants’ motion to strike is dismissed with leave to the Respondent to amend paragraph 9 of the GECC Reply, Court File Number 2010-3493(IT)G, together with costs to the Respondent.
+Signed at Ottawa, Canada, this 19th day of December 2011.
+“Diane Campbell”
+Campbell J.
+SCHEDULE “A”
+Excerpts from the Reply to the Notice of Appeal of General Electric Canada Company (2010-3493(IT)G) (the “GECC Reply”):
+A. STATEMENT OF FACTS
+…
+9. With respect to paragraphs 27 and 28 of the Notice of Appeal, he states that the “Financial Guarantees”, as defined by the Appellant in its pleadings, were in addition to the existing guarantees of the Companies’ debts by GECUS from GECUS’ implicit support as the indirect parent, as the decision maker and GECUS’ operations in a common market with the Companies. He further states that, during the period when GECCI was the parent company of Retailer and Card Services and where those companies were Nova Scotia Unlimited Liability Companies (“NSULCs”), GECCI also provided a guarantee inherent in the corporate structure. He otherwise admits the allegations of fact stated therein.
+…
+15. The Deputy Attorney General states the following additional facts in support of the reassessments under appeal:
+a) at various times, the Companies had the status of NSULCs, as defined in the Companies Act, R.S.N.S. 1989, c. 81, as amended (the “NSCA”);
+b) GECCI and GECUS, as the case may be, had unlimited liability for the obligations of the Companies, being their respective members;
+c) the Companies’ NSULC status and membership by GECCI and GECUS were indicated on all public debt offerings made by the Companies; and
+d) GECCI and GECUS, depending on which was the parent company, were liable for satisfying any shortfalls of the Companies’ outstanding debt obligations in the event of the Companies’ wind-ups.
+Excerpts from the Reply to the Notice of Appeal of GE Capital Canada Funding Company (2010-3494(IT)G) (the “Funding Reply”)
+A. STATEMENT OF FACTS
+…
+5. With respect to paragraphs 19 and 20 of the Notice of Appeal, he states that the “Financial Guarantees”, as defined by the Appellant in its pleadings, were redundant and in addition to the existing guarantees of the Appellant’s debts by GECUS which was inherent in the Appellant’s status as a Nova Scotia Unlimited Liability Company (“NSULC”) and from GECUS’ implicit support as parent, decision maker and its operations in a common market with the Appellant. He otherwise admits the allegations of fact stated therein.
+…
+14. The Deputy Attorney General states the following additional facts in support of the reassessments under appeal:
+a) the Appellant was a NSULC, incorporation under the Companies Act, R.S.N.S. 1989, c. 81, as amended (the “NSCA”);
+b) GECUS, as the Appellant’s member, had unlimited liability for the obligations of the Appellant;
+…
+d) GECUS was liable for satisfying any shortfalls of the Appellant’s outstanding debt obligations in the event of the Appellant’s wind-up; and
+e) the Appellant was treated as a flow-through entity for U.S. tax purposes.
+SCHEDULE “B”
+Excerpts from the GECC Reply:
+A. STATEMENT OF FACTS
+…
+16. The Deputy Attorney General further states the following additional facts in support of the reassessments under appeal:
+…
+f) GECUS began charging GECCI a “guarantee fee” for reasons related to US tax issues;
+…
+k) the transactions or series of transactions would not have been entered into by arm’s length parties because there would have been no economic incentive present for either party to enter into the transactions and more specifically:
+i) no arm’s length party would agree to guarantee the Companies’ debts at any price given the lack of capitalization and the level of risk involved;
+ii) no arm’s length party would agree to guarantee the Companies’ debts without covenants restricting the unilateral ability of the Companies parents to dictate the terms of the debt offerings and the repayment of those debts;
+iii) no debtor would agree to pay the Charges to an arm’s length party when the debtors’ parents could dictate its capitalization, terms of the debt offerings and repayment of those debts; and
+iv) the Companies would not agree to pay any amount to a third party to further guarantee its debts when their status as NSULCs and the economic incentives to GECUS to ensure that the Companies would not default on their debts created an inherent and implicit guarantee; and
+l) the Charges were introduced within the GECUS group for no bona fide purposes other than to obtain tax benefits for the Companies, specifically:
+i) to avoid the payment of withholding taxes in Canada if GECUS had raised the monies directly and loaned it to the Canadian operating subsidiaries; and
+ii) to produce a deductible expense to the Companies in Canada by characterizing the Charges as guarantee fees.
+B. ISSUES TO BE DECIDED
+17. The issues are whether the Charges are deductible in computing the Companies’ income for the taxation years under appeal and, more particularly:
+…
+c) whether the transaction or series of transactions would have been entered into by persons dealing at arm’s length and whether they were entered into primarily for bona fide purposes other than to obtain a tax benefit.
+C. STATUTORY PROVISIONS, GROUNDS RELIED ON, AND RELIEF SOUGHT
+…
+21. He further submits that no deduction should be allowed pursuant to paragraphs 247(2)(b) and (d) of the Act in respect of the Charges as the transaction or series of transactions in respect of the Charges would not have been entered into between persons dealing at arm’s length and can reasonably be considered not to have been entered into primarily for bona fide purposes other than to obtain a tax benefit. No persons dealing at arm’s length would have entered into the transaction or series of transactions.
+Excerpts from the Funding Reply:
+A. STATEMENT OF FACTS
+…
+15. The Deputy Attorney General further states the following additional facts in support of the reassessments under appeal:
+…
+f) GECUS began charging GECCI a “guarantee fee” for reasons related to US tax issues;
+…
+h) the transaction or series of transaction would not have been entered into by arm’s length parties because there would have been no economic incentive present for either party to enter into the transactions and more specifically:
+i) no arm’s length party would agree to guarantee the Appellant’s debts at any price given the lack of capitalization and the level of risk involved;
+ii) no arm’s length party would agree to guarantee the Appellant’s debts without covenants restricting the unilateral ability of the Appellant’s parent to dictate the terms of the debt offerings and the repayment of those debts;
+iii) no debtor would agree to pay the Charges to an arm’s length party when the debtor’s parent could dictate its capitalization, terms of the debt offerings and repayment of those debts; and
+iv) the Appellant would not agree to pay any amount to a third party to further guarantee its debts when its status as a NSULC and the economic incentives to GECUS to ensure that the Appellant would not default on its debts created an inherent and implicit guarantee;
+i) the Charges were introduced within the GECUS group for no bona fide purposes other than to obtain tax benefits for the Appellant;
+…
+B. ISSUES TO BE DECIDED
+16. The issues are whether the Charges are deductible in computing the Appellant’s income for the 1998 to 2006 taxation years and, more particularly:
+…
+c) whether the transaction or series of transactions would have been entered into by persons dealing at arm’s length and whether they were entered into primarily for bona fide purposes other than to obtain a tax benefit.
+C. STATUTORY PROVISIONS, GROUNDS RELIED ON, AND RELIEF SOUGHT
+…
+20. He further submits that no deduction should be allowed pursuant to paragraphs 247(2)(b) and (d) of the Act in respect of the Charges as the transaction or series of transactions in respect of the Charges would not have been entered into between persons dealing at arm’s length and can reasonably be considered not to have been entered into primarily for bona fide purposes other than to obtain a tax benefit. No persons dealing at arm’s length would have entered into the transaction or series of transactions.
+CITATION: 2011 TCC 564
+COURT FILE NOS.: 2010-3493(IT)G
+2010-3494(IT)G
+STYLE OF CAUSE: General Electric Canada Company,
+GE Capital Canada Funding Company and Her Majesty The Queen
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: June 13, 2011
+REASONS FOR ORDER BY: The Honourable Justice Diane Campbell
+DATE OF ORDER: December 19, 2011
+APPEARANCES:
+Counsel for the Appellants:
+Joseph M. Steiner
+Al Meghji
+Martha K. MacDonald
+Neil Paris
+Counsel for the Respondent:
+Naomi Goldstein
+Thang Trieu
+COUNSEL OF RECORD:
+For the Appellants:
+Name: Joseph M. Steiner
+Al Meghji
+Martha K. MacDonald
+Neil Paris
+Firm: Osler, Hoskin & Harcourt LLP
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

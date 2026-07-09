@@ -1,0 +1,422 @@
+---
+title: "Superior Plus Corp. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/109841/index.do"
+last_modified: "2015-05-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 TCC 132"
+citation2: ""
+neutral_citation: "2015 TCC 132"
+decision_date: "2015-05-22"
+language: "en"
+item_id: "109841"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2825
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:21:52.186000+00:00"
+cases_cited_count: 14
+cases_citing_count: 12
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2d0fa0527f786b1a11d5019070c88e30cf121c6de7fc021058272559844ce1da"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Superior Plus Corp. v. The Queen
+
+- Citation: 2015 TCC 132
+- Decision date: 2015-05-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2825, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Superior Plus Corp. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-05-22
+Neutral citation
+2015 TCC 132
+File numbers
+2013-2939(IT)G
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-2939(IT)G
+BETWEEN:
+SUPERIOR PLUS CORP.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion to compel heard on February 19, 2015, at Calgary, Alberta.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Counsel for the Appellant:
+Al Meghji
+Edward Rowe
+Joanne Vandale
+Counsel for the Respondent:
+Raj Grewal
+Perry Derksen
+Shankar Kamath
+ORDER
+Upon motion made by counsel for the Appellant seeking an order under sections 95, 105(2), 107(3) and 110 of the Tax Court of Canada Rules (General Procedure) requiring the Respondent to:
+(a) answer the questions identified as Questions 1 to 13 in the attached reasons for order;
+(b) produce unredacted copies of the documents identified as Documents 1 to 25 in the attached reasons for order;
+(c) re‑attend and answer all proper follow‑up questions;
+(d) pay the costs of this motion;
+Upon reading the affidavits filed and hearing the oral submissions made by and for the parties, and upon reading the written submissions filed by counsel for the parties;
+For the reasons set out in the attached reasons for order, the motion is allowed on terms and the Court orders as follows:
+(a) The Respondent is to answer the questions identified as Refused Questions 1, 2, 3, 4, 5, 7, 9, 10, 11 and 12 in the attached reasons for order.
+(b) The Respondent shall produce, with only those redactions noted in the attached reasons for order, the documents identified as Refused Documents 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11(a), 14, 15, 19, 20, 21, 22, 23, 24 and 25, including the footnotes.
+(c) The Respondent’s nominee is to re-attend and answer all proper follow‑up questions.
+(d) Costs shall be paid to the Appellant in any event of the cause.
+(e) The Court received a white binder containing the unredacted copies of the Refused Documents for the purpose of its review. As this motion has now been determined, those documents should be sealed in the Court’s file.
+Signed at Ottawa, Canada, this 22nd day of May 2015.
+“Robert J. Hogan”
+Hogan J.
+Docket: 2013-2939(IT)G
+BETWEEN:
+SUPERIOR PLUS CORP.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion to compel heard on February 19, 2015, at Calgary, Alberta.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Counsel for the Appellant:
+Al Meghji
+Edward Rowe
+Joanne Vandale
+Counsel for the Respondent:
+Raj Grewal
+Perry Derksen
+Shankar Kamath
+ORDER
+Upon motion made by counsel for the Respondent pursuant to section 95 of the Tax Court of Canada Rules (General Procedure) to compel production of the following documents:
+(a) November 18, 2008 – Macleod Dixon LLP Memorandum regarding Project Shorty Tax Consequences;
+(b) February 5, 2009 – Macleod Dixon opinion regarding the plan of arrangement;
+(c) September 17, 2009 – Borden Ladner Gervais LLP opinion regarding the arrangement implemented on December 31, 2008;
+Upon reading the affidavits filed and upon reading the written submissions filed by counsel for the parties;
+For the reasons set out in the attached reasons for order, the motion is dismissed, with costs to the Appellant in any event of the cause. The Court received copies of the opinions referenced above for the purpose of deciding this motion. As this motion has now been decided, these opinions should be sealed in the Court’s file.
+Signed at Ottawa, Canada, this 22nd day of May 2015.
+“Robert J. Hogan”
+Hogan J.
+Citation: 2015 TCC 132
+Date: 20150522
+Docket: 2013-2939(IT)G
+BETWEEN:
+SUPERIOR PLUS CORP.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Hogan J.
+I. Overview [1] The Appellant is the successor to a gas distribution business that was previously carried on indirectly by the Superior Plus Income Fund (the “Fund”).
+[2] In late 2006, the Minister of Finance announced a new distribution tax for specified investment flow‑through entities (“SIFTs”) to curtail the benefits afforded by their conduit tax status. This legislative change encouraged SIFTs to restructure their businesses (commonly known as a “conversion”) by December 31, 2010 by putting in place a non‑flow‑through corporate structure, failing which they would be subject to the new tax (the “SIFT Tax”).
+[3] To facilitate conversions, the Department of Finance, in July 2008, introduced legislation allowing for tax-deferred conversion methods (commonly known as the “Exchange Method” and the “Distribution Method”).
+[4] In general terms, under the Exchange Method unit holders are invited to exchange their units of a SIFT for shares of a single class of shares of a taxable Canadian corporation. This exchange is allowed to occur on a tax-deferred basis. Once the corporation acquires all of the units of the SIFT, the SIFT can then be wound up on a tax-free basis.
+[5] In contrast, under the Distribution Method, the SIFT’s business is first restructured as or under a corporation. The SIFT is then wound up on a tax-free basis. The unit holders are afforded a tax-free rollover if they surrender their units for a single class of shares of the corporation.
+[6] These measures sparked a large number of conversions, most of which were scheduled to be completed immediately prior to the coming into force of the SIFT Tax. Bucking the trend, the Fund chose to convert earlier, allegedly in order to establish itself as a dividend‑paying corporation before many of the other SIFTs.
+[7] The Fund converted using the Distribution Method. The motion record shows that it did not use a new corporation to complete its conversion. Instead, the Fund entered into a complex plan of arrangement with Ballard Power Systems Inc. (“Old Ballard”, now the Appellant) under which:
+(a) the net assets of Old Ballard were transferred to a new corporation (“New Ballard”) that then carried on Old Ballard’s business;
+(b) Old Ballard was left with its tax attributes consisting, inter alia, of non‑capital losses, capital losses, research and development expenses and investment tax credits (the “Tax Attributes”);
+(c) the existing shareholders of Old Ballard became shareholders of New Ballard;
+(d) the Fund restructured its gas distribution business under Old Ballard;
+(e) the unit holders of the Fund became shareholders of Old Ballard; and
+(f) Old Ballard changed its name to Superior Plus Corp., the Appellant.
+[8] The Appellant used the Tax Attributes to shelter profits earned in its gas distribution business for its 2009 and 2010 taxation years. The Minister of National Revenue (the “Minister”) disallowed the use of the Tax Attributes on the grounds that either:
+(a) the unit holders constituted a group of persons who acquired control of the Appellant under the plan of arrangement, triggering the application of the so‑called streaming restrictions (the “Streaming Restrictions”) under subsections 111(4), 111(5), 37(6.1) and 127(9.1) of the Income Tax Act (the “Act”); or
+(b) the general anti-avoidance rule (the “GAAR”) applied because the conversion was structured to circumvent the Streaming Restrictions in an abusive manner.
+[9] The Appellant has brought a motion (the “Appellant’s Motion”) to compel (i) answers to questions that were refused during examination for discovery (the “Refused Questions”), (ii) production of unredacted copies of documents produced in redacted format, and (iii) production of documents for which production was refused outright (the documents are referred to collectively as the “Refused Documents”).
+[10] The Respondent has brought a motion (the “Respondent’s Motion”) to compel the Appellant to produce documents containing tax advice (the “Other Legal Opinions”) on the basis that solicitor‑client privilege has been waived.
+II. Analysis A. The Appellant’s Motion [11] The motion record shows that the Refused Documents were obtained by the Appellant under the Access to Information Act (the “AIA”). Prior to commencement of the discovery process, the Appellant asked for unredacted copies of the Refused Documents under the AIA.
+[12] Initially the Respondent’s refusal was based on (i) cabinet confidence privilege, (ii) solicitor‑client privilege, (iii) settlement privilege, and (iv) irrelevance. The Appellant accepts the refusals based on solicitor-client and settlement privilege, provided the Court confirms upon review that the redactions at issue (or the outright non-production of a document) are justified on the basis of the application of either privilege. The Appellant has retracted its demand with respect to documents protected by cabinet confidence privilege. The objections that remain to be determined by me are based strictly on the concept of relevance.
+[13] The Respondent in her oral and written submissions asks me to follow the principles enunciated by the Federal Court of Appeal (the “FCA”) in Owen Holdings Ltd. v. Canada.[1] The Appellant relies on the more recent decision of the FCA in The Queen v. Lehigh Cement Limited.[2]
+[14] In Owen Holdings, the FCA said:
+6 . . . The well established principles that give rise to the relatively low relevance threshold at the stage of discovery, as opposed to the higher threshold that will be required at trial for the admission of evidence, are well known. . . . His [the Tax Court judge’s] assessment that those documents, which did not tend to establish “legislative facts” but rather set forth the “opinions of writers,” were so remotely related to the issues in controversy that they could not lead to a line of inquiry that could be of any use to the appellant, appears to us to be perfectly sound. . . .
+[15] In Owen Holdings, the FCA ruled that the following types of documents were not relevant:
+(a) all reports, memoranda, notes, e-mails, etc. leading up to the drafting of the GAAR, including all drafts of the explanatory notes to the GAAR and any reports relating to those explanatory notes;
+(b) all reports leading up to the drafting of particular provisions of the Act;
+(c) all reports relating to testimony concerning the GAAR by various Finance officials before the Commons and Senate Committees.
+[16] A couple of observations are warranted here. First, unlike the present case, the facts of Owen Holdings show that the above‑mentioned documents were not prepared in the context of the audit of the taxpayer. Secondly, as the Appellant correctly points out, Owen Holdings was decided before Canada Trustco Mortgage Co. v. Canada.[3] In Canada Trustco, the Supreme Court confirmed that the Crown must identify the object, spirit or purpose of the provisions (hereinafter referred to as the “Policy”) that it claims have been frustrated or defeated by the avoidance transaction and persuade the Court that an abuse or misuse of that Policy has indeed occurred. The benefit of any doubt is given to the taxpayer.
+[17] In Lehigh, which was decided after Canada Trustco, the FCA endorsed a broader train of inquiry test in relation to discovery in the context of an assessment based on the GAAR:
+34 The jurisprudence establishes that a question is relevant when there is a reasonable likelihood that it might elicit information which may directly or indirectly enable the party seeking the answer to advance its case or to damage the case of its adversary, or which fairly might lead to a train of inquiry that may either advance the questioning party’s case or damage the case of its adversary . . . .
+[18] In that case, the FCA endorsed the trial judge’s order that allowed the disclosure of documents pertaining to policy observations on the scope of the Act:
+38 Turning to the application of these principles, in the present case the Crown had disclosed the Gulliver memorandum to Lehigh. The memorandum was produced in response to a request that the Crown provide “all correspondence and memoranda within head office, the district office, and between head office and the district office, giving instructions or dealing with their advisement on the GAAR issue.”
+. . .
+40 In my view, the inference may be drawn from the Gulliver memorandum and the subsequent reassessment of Lehigh on the basis of subsection 95(6) that there may well be subsequent memoranda prepared within the CRA that considered whether subsection 95(6) of the Act could be argued to be a general anti-avoidance provision. Such documents, if they exist, would be reasonably likely to either directly or indirectly advance Lehigh’s case or damage the Crown’s case. In my view, the Judge did not err in ordering their production. The trial judge will be the ultimate arbiter of their relevance.
+41 In so concluding, I have considered the Crown’s arguments that the opinions of CRA officials outside the context of a particular taxpayer are irrelevant and that official publications of the CRA are of limited relevance. Those may well be valid objections in another case. However, in the factual and procedural context of this case, the Crown has already disclosed as relevant the Gulliver memorandum. For Lehigh to proceed expeditiously towards a fair hearing, knowing exactly the case it has to meet, it should receive any subsequent memoranda relating to the development of a general policy concerning paragraph 95(6)(b) of the Act.
+[Emphasis added.]
+[19] In Lehigh, the Crown argued that “[o]pinions expressed by CRA officials outside of the context of a particular taxpayer’s situation are irrelevant.”[4] This assertion was rejected and the FCA ordered the production of documents that were acknowledged not to have been prepared in the context of the audit of Lehigh. In the instant case, the motion record shows that the Refused Documents were either prepared directly in the context of the audit of the Appellant or were considered by CRA officials who were charged with the audit of the Appellant or who were consulted regarding the application of the GAAR.
+[20] In Birchcliff Energy Ltd. v. R.,[5] my colleague C. Miller outlined some of the specific requirements for the Minister’s pleadings in a GAAR case:
+15 GAAR is a unique piece of legislation in that it allows the Government to bypass provisions of the Act based on an abuse of Policy, a Policy that it is up to the Crown to prove, and then impose whatever consequences it deems reasonable. I do not accept the Crown’s argument that requiring a disclosure in the pleadings of the Policy abused would be opening the doors for the Crown to have to explain its legal interpretation of any provision of the Act. The Supreme Court of Canada has made it clear the Crown must prove a Policy in GAAR cases: it is the integral starting point of a GAAR challenge. It is unlike any other provision of the Act. There is no slippery slope.
+[21] In Birchcliff, the Tax Court concluded that it was imperative that the Crown’s reply set out “the fact [that] the Minister relied upon x or y policy underlying the legislative provisions at play”.[6] The Court noted that this does not bind the Crown, but stated that that “ultimate aim” was to ensure that there were no surprises at trial.[7] Birchcliff sets out the pleadings requirements in relation to policy in a GAAR case.[8] It is well established that relevance at discovery is defined by the pleadings. It follows that a taxpayer should be entitled to proceed along a train of inquiry related to the policy that the Minister claims he considered and/or relied on in the making of a GAAR assessment.
+[22] In Gwartz v. The Queen,[9] I discussed the role of a subsequent legislative amendment in the context of a GAAR case:
+57 Those decisions demonstrate that a subsequent amendment, which would have defeated a tax avoidance strategy challenged under the GAAR, does not in itself indicate either that the strategy was abusive or that it was non-abusive. Instead, the subsequent amendment must be considered along with all other relevant materials to ascertain the object, spirit and purpose of the provision. In certain circumstances, a subsequent amendment might suggest that the provision’s object, spirit and purpose were frustrated by the tax avoidance strategy. In other circumstances, it might suggest that Parliament simply changed its mind and now intends to prevent something that initially was not intended to be captured by the provision.
+[23] The Respondent pointed to Gwartz in support of the proposition that the individual opinions of CRA or Finance officials on the applicability of the GAAR lack relevance.[10] However, those determinations were made by me acting as a trial judge. Similarly, in the matter at bar, it will be the trial judge’s role to determine the ultimate admissibility of, or weight to be given to, facts or information garnered at the discovery stage.
+[24] A thorough summary of the general discovery principles is provided in HSBC Bank Canada v. The Queen.[11] Both parties cited this case and many of the cases referenced in the passage below:
+13 Both parties provided useful summaries of how this Court has in the past addressed the question of the scope of examinations for discovery. Justice Valerie Miller recently summarized some of the principles in the case of Kossow v. R.:
+1. The principles for relevancy were stated by Chief Justice Bowman and are reproduced at paragraph 50:
+a) Relevancy on discovery must be broadly and liberally construed and wide latitude should be given;
+b) A motions judge should not second guess the discretion of counsel by examining minutely each question or asking counsel for the party being examined to justify each question or explain its relevancy;
+c) The motions judge should not seek to impose his or her views of relevancy on the judge who hears the case by excluding questions that he or she may consider irrelevant but which, in the context of the evidence as a whole, the trial judge may consider relevant;
+d) Patently irrelevant or abusive questions or questions designed to embarrass or harass the witness or delay the case should not be permitted.
+2. The threshold test for relevancy on discovery is very low but it does not allow for a “fishing expedition”: Lubrizol Corp. v. Imperial Oil Ltd.
+3. It is proper to ask for the facts underlying an allegation as that is limited to fact-gathering. However, it is not proper to ask a witness the evidence that he had to support an allegation: Sandia Mountain Holdings Inc. v. The Queen.
+4. It is not proper to ask a question which would require counsel to segregate documents and then identify those documents which relate to a particular issue. Such a question seeks the work product of counsel: SmithKline Beecham Animal Health Inc. v. R.
+5. A party is not entitled to an expression of the opinion of counsel for the opposing party regarding the use to be made of documents: SmithKline Beecham Animal Health Inc. v. The Queen.
+6. A party is entitled to have full disclosure of all documents relied on by the Minister in making his assessment: Amp of Canada Ltd. v. R.
+7. Informant privilege prevents the disclosure of information which might identify an informer who has assisted in the enforcement of the law by furnishing assessing information on a confidential basis. The rule applies to civil proceedings as well as criminal proceedings: Webster v. R.
+8. Under the Rules a party is not required to provide to the opposing party a list of witnesses. As a result a party is not required to provide a summary of the evidence of its witnesses or possible witnesses: Loewen v. R.
+9. It is proper to ask questions to ascertain the opposing party’s legal position: Six Nations of the Grand River Band v. Canada.
+10. It is not proper to ask questions that go to the mental process of the Minister or his officials in raising the assessments: Webster v. The Queen.
+14 The following additional principles can be gleaned from some other recent Tax Court of Canada case authority:
+1. The examining party is entitled to “any information, and production of any documents, that may fairly lead to a train of inquiry that may directly or indirectly advance his case, or damage that of the opposing party”: Teelucksingh v. The Queen.
+2. The court should preclude only questions that are “(1) clearly abusive; (2) clearly a delaying tactic; or (3) clearly irrelevant”: John Fluevog Boots & Shoes Ltd. v. The Queen.
+15 Finally in the recent decision of 4145356 Canada Limited v. The Queen. I concluded:
+(a) Documents that lead to an assessment are relevant;
+(b) Documents in CRA files on a taxpayer are prima facie relevant, and a request for those documents is itself not a broad or vague request;
+(c) Files reviewed by a person to prepare for an examination for discovery are prima facie relevant; and
+(d) The fact that a party has not agreed to full disclosure under section 82 of the Rules does not prevent a request for documents that may seem like a one-way full disclosure.
+[Emphasis added.]
+[25] As noted in Lehigh, the particular factual and procedural context of an appeal involving a GAAR assessment influences how these principles should be applied.
+[26] As additional background information, the Appellant alleges that its conversion, and SIFT conversions in general, attracted the attention of the Canada Revenue Agency (“CRA”). It submits that the Rulings Division of the CRA brought the conversions to the attention of the Department of Finance in late 2008. The Aggressive Tax Planning Division (“ATP”) of the CRA instructed the Calgary office to commence an audit of the Appellant around January 2010 as part of a review of SIFT conversions. The ATP had in turn been instructed by the GAAR Committee to collect facts concerning conversions. The Appellant outlined in considerable detail the various discussions or referrals between the CRA auditors, the ATP and the GAAR Committee, and between the Minister and Finance.[12]
+[27] On the basis of documents highlighting these discussions, the Appellant suspects that there was a dispute between Finance and the CRA regarding the application of the GAAR. According to the Appellant, the CRA pressed Finance to amend the law in order to prevent SIFTs from gaining access to the tax attributes of arm’s length taxpayers on their conversions. Finance ultimately shared the CRA’s concern and enacted paragraph 256(7)(c.1) to bar those types of loss trading transactions. However, Finance did not make that provision retroactive. Instead, the Appellant alleges, Finance chose to pressure the Minister to invoke the GAAR to assess the Appellant.
+[28] Because of this alleged dispute, the Appellant questions whether the Minister did in fact rely on the policy assumptions set out in paragraph 19 of the Reply, which read as follows:
+a) that the general policy of the Act is to prohibit the transfer of losses between arm’s length parties, subject to certain express and permissive exceptions, and that subsection 111(5) (and also the related provisions in respect of the Tax Attributes under subsections 111(4), 37(6.1) and 127(9.1) of the Act) is an anti-avoidance provision designed to prevent arm’s length loss trading from an unrelated business;
+b) that the purpose of the SIFT legislation proposing a distribution tax was to restore the balance and fairness to the federal tax system by effecting income tax neutrality on business profits earned by corporations and income trusts; and
+c) the Minister assumed that the Conversion Rules for SIFTs, including under subsections 107(3) and (3.1) of the Act, were designed to ensure that income trusts could reorganize as corporations without facing an additional tax burden at the time of conversion, but were not meant to facilitate loss trading between unrelated parties.
+[29] The Appellant, in its Amended Answer, puts at issue the Policy identified and allegedly relied on by the Minister. Moreover, the Appellant alleges that the introduction of paragraph 256(7)(c.1) constituted a change in policy under the Act.
+[30] With the exception of redactions objected to on grounds of privilege, the Respondent justifies most of her refusals on the basis that the Appellant is not entitled to investigate the mental process of the Minister or her officials in raising the assessment. I note that the Respondent adopts an inconsistent position with respect to this objection. For example, the Respondent disclosed the final minutes of the meeting of officials of the GAAR Committee that culminated in the approval of the application of the GAAR. The Respondent justifies this disclosure on the grounds that only those opinions of CRA officials expressed as a group are relevant in the context of a GAAR assessment. This raises the question of why collective opinions on policy should be afforded greater importance than individual views.
+[31] In the context of this appeal, the Respondent’s position appears to me to be unfair. The motion heard shows that Ms. Jina, a Calgary‑based auditor in the ATP, was assigned to audit the appellant. Ms. Jina was the Respondent’s nominee at discovery. She signed the affidavit filed in response to the Appellant’s motion.
+[32] The motion record further shows that Ms. Jina participated in the redaction of a proposal letter and position paper that she asserts in her affidavit contains the facts and the basis of the Minister’s assessment at issue in this appeal. The motion record also shows that a number of CRA and Finance officials provided information, input or advice that directly or indirectly may have found its way into these documents. The motion record further appears to show that Ms. Jina consulted the unredacted version of the Refused Documents in preparing for discovery. They may have influenced what are alleged to be the Minister’s findings set out in the proposal letter or stated in the Reply. Therefore it is only fair that the Appellant be granted access to the Refused Documents similar to that which was afforded Ms. Jina. This may enable the Appellant to discover information that may be used to contradict Ms. Jina’s testimony if she is called as a witness at trial. Equally, by probing this information, the Appellant potentially could establish that the Minister did not rely solely on the Policy asserted in the Reply and/or that the Minister did not conclude that the avoidance transactions identified in the Reply clearly frustrated or abused that Policy.
+[33] As correctly pointed out by the Appellant’s counsel, discovery serves a much broader purpose than eliciting evidence that is admissible at trial. For example, the discovery process allows the parties to gauge the weaknesses of their opponent’s case. This promotes the making and/or consideration of settlement offers, an approach that should be welcomed in all cases.
+[34] I cannot help but wonder what attitude the Respondent would adopt if the proverbial shoe was on the other foot. For example, let us assume that the Respondent was seeking full access on discovery to the working papers of a taxpayer’s external auditor in which the auditor comments on whether there is any need or not for a tax reserve in the taxpayer’s financial statement to cover the financial risk of an avoidance transaction. In the absence of protection afforded by privilege, I surmise that the Respondent would not accept a refusal based on the argument that opinions on policy are not relevant at the discovery stage.
+[35] The Respondent has identified in her Reply the Minister’s findings relating to the Policy. I agree with the Appellant’s submission that the Appellant has the right to probe the facts and circumstances surrounding the pleading of that Policy. Much of what is discovered may ultimately be viewed as altogether irrelevant or inadmissible. However, this is a determination to be made by the trial judge acting as the gatekeeper of the evidence allowed to form part of the trial record.
+B. Refused Questions [36] The questions refused by the Respondent are as follows:
+Question 1: Advise whether the Attorney General is going to take the position at trial that the policy choice of allowing the use of an existing corporation as part of the conversion (and not to insist on there being a new corporation) is any different when using the exchange method of conversion.
+Decision: The Respondent has now agreed to answer this question.
+Question 2: Advise whether the Attorney General is going to take the position at trial that the distribution method did not permit the use of an existing corporation as part of the conversion (i.e., that there was an insistence on using a new corporation).
+Decision: The Respondent has now agreed to answer this question.
+Question 3: If the Attorney General does not take the position that under the distribution method of conversion the use of an existing corporation was permitted, then provide the facts, information, knowledge and documents that lead the Attorney General to say that the Minister was wrong in so concluding.
+Objection: The question calls for the Crown’s argument about the object, spirit and purpose of legislation, which is a question of law. Therefore, the question is improper.
+Decision: The Appellant is seeking facts, information and knowledge and not a legal conclusion. As the Policy is clearly at issue since GAAR has been pleaded, the Appellant is entitled to an answer to this question.
+Question 4: With regard to when the Department of Finance introduced the 2010 amendment, do you have any facts, information or knowledge as to whether the Department of Finance considered making that amendment retroactive?
+Objection: The amendment was not made retroactive, although it had a coming‑into‑force provision. The amendment is what it is. The trial judge will have to consider whether the amendment indicates anything about the object, spirit and purpose of the pre‑amendment provisions: see Gwartz, at paragraph 57. Whether officials of the Department of Finance internally considered a retroactive amendment is irrelevant. Likewise, possible alternative legislative approaches are not relevant.
+Decision: As stated in Gwartz, a subsequent amendment may be considered in ascertaining the object, spirit and purpose of the provisions at issue. Although the admissibility or weight of the response to this question will be determined by the trial judge, the Appellant is entitled to an answer to the question given that the Policy is in issue and the Appellant has specifically addressed the amendment in its amended answer, at paragraph 15.
+Question 5: When the CRA raised the assessments in issue, did the CRA make any inquiries to the Department of Finance as to why the change was made from “extend” in the 2010 Budget to “clarify” in the September 2010 technical notes?
+Objection: The explanatory notes respecting the 2010 Budget and the September 2010 technical notes speak for themselves. Whether the CRA made any particular inquiry or whether Finance officials expressed views or opinions is not relevant.
+Decision: This question should be answered for the same reasons as those stated in respect of Question 4.
+Question 6: With reference to the statement “As of September 2011 the audit of Superior was halted” at page 1438 of Tab A23 of the Appellant’s Supplementary Book of Documents, advise why the audit was halted.
+Objection: The mental process of the Minister in raising the assessment is not relevant.
+Decision: I cannot see how anything relevant will be discovered from an answer to this question. Therefore, it does not need to be answered.
+Question 7: Advise whether the Attorney General’s position with respect to why the unitholders constituted a group is different from the basis of assessment by the Canada Revenue Agency.
+Decision: The Respondent has agreed to answer the question.
+Question 8: Identify what documents the Crown relies on to say that the unitholders constitute a group.
+Objection: A party is not required to segregate documents by issue for the benefit of the other party. The request is improper as per Teelucksingh at paragraph 15(vii) and Kossow at paragraph 60.
+Decision: As the Respondent has correctly pointed out, parties are not required to segregate documents for the benefit of the other party. Contrary to what the Appellant argued, 4145356 Canada Ltd. v. The Queen, 2009 TCC 480, does not overturn that principle. Therefore, this question can remain unanswered.
+Question 9: Advise what the Attorney General relies on for the statement contained at paragraph 19a) of the Reply that subsection 111(5) is “an anti‑avoidance provision designed to prevent arm’s length loss trading from an unrelated business”.
+Objection: The question seeks the Crown’s argument on a question of law and is improper.
+Decision: The question is answerable as it relates to any facts or information and not legal argument. Secondly, it is designed to avoid surprises at a later stage by letting the Appellant know whether the Respondent will identify a different policy. If, for example, the Attorney General has no facts or information with respect to this question and will only be making legal arguments to support it, that is a sufficient answer.
+Question 10: Advise whether the Attorney General admits that the general policy of the Act is that other losses and tax attributes can be utilized against income from any business provided there has not been a de jure acquisition of control.
+Objection: The question is improper as it seeks an admission on a question of law.
+Decision: The Appellant is permitted to proceed along a train of inquiry related to the policy which the Minister pleaded in the Reply. This question should be answered.
+Question 11: Advise whether the Attorney General admits that the purpose of the SIFT conversion rules referenced in paragraph 19c) of the Reply was simply to facilitate the conversion of trusts into corporations.
+Objection: The question is improper as it seeks an admission on a question of law.
+Decision: This question should be answered for the reasons noted above with respect to the Question 10.
+Question 12: Advise whether the Attorney General agrees that when the SIFT conversion rules were introduced, the policy choice was to allow conversions using existing corporations and was not restricted to new corporations; and advise whether the Attorney General will take a different position than that set out in the Minister’s findings and assumptions with respect to the object, spirit and purpose of those provisions.
+Objection: The question is improper as it seeks an admission on a question of law.
+Decision: This question should be answered for the same reasons as those stated for Question 10. Additionally, I note that this question is similar to questions 1 and 7, which the Crown has agreed to answer.
+Question 13: Question withdrawn by the Appellant (transcript, page 109).
+Decision: N/A
+C. Refused Documents [37] The documents for which full production was refused by the Respondent are as follows:
+Document 1: Item 1 of the GAAR Committee Meeting 1104-1 dated April 19, 2011.
+Objection: The individual views of members of the GAAR Committee are not relevant. The Crown has produced the relevant portion of the summary of recommendations of the GAAR Committee.
+Decision: The redacted portion for Item 1 (Superior Plus – Loss acquisition on conversion from trust to corporation) is clearly relevant, as it relates to the Appellant. Although a trial judge may place little or no weight on (or not admit as evidence at all) the views of individual members of the GAAR Committee or the CRA, the information certainly passes the low threshold for disclosure during discovery.[13]
+Document 2: Minutes of GAAR Committee meeting held on November 1, 2011.
+Objection: The views and opinions of CRA and Finance officials are not relevant. The Crown has produced that portion of the minutes which concerns the conclusion and recommendation of the GAAR Committee.
+Decision: This document should be produced for the reasons outlined for Document 1.[14]
+Document 3: Memorandum to File of Salimah Jina (CRA Auditor).
+Objection: The redacted portion is not relevant and concerns internal discussions and the mental process of the CRA. Moreover, page 001826 contains information subject to solicitor‑client privilege.
+Decision: This document should be produced with one exception: the middle paragraph on page 001826 should remain redacted as it is protected by solicitor‑client privilege.
+Document 4: Email dated December 18, 2008 from Wayne Adams to Brian Ernewein.
+Objection: The redacted portions are not relevant. In particular, the views and opinions of CRA officials are not relevant. The substance of the document is not admissible extrinsic evidence or evidence of legislative facts. Also, page 000134 contains irrelevant taxpayer information protected by section 241.
+Decision: This document should be produced with one redaction: the first paragraph on page 000134 contains irrelevant taxpayer information protected by section 241 and should be redacted.
+Document 5: Email from Salimah Jina to Dan Rivet in which she asks whether he looked at the question whether the amendment to subsection 256(7) introduced in 2010 (i.e., 256(7)(c.1)) is a clarification or a change in policy.
+Objection: The same as for Document 1.
+Decision: This document should be produced for the same reasons given for Document 1.
+Document 6: Email from Dan Rivet to Salimah Jina in response to her question regarding whether the amendment to subsection 256(7) introduced in 2010 (i.e., 256(7)(c.1)) is a clarification or a change in policy.
+Objection: The individual views and opinions of Dan Rivet, including on questions of law and the chances of success, are not relevant. Also, page 1 contains information subject to solicitor-client privilege.
+Decision: This document should be produced for Document 1 above. The second to last sentence in paragraph 2 that refers to Justice should be redacted.
+Document 7: Email dated February 24, 2012 from Dan Rivet to Theresa Murphy and Mark Symes and attached email regarding “Loss Trading”.
+Objection: The individual views and opinions of Dan Rivet, including on questions of law, are not relevant.
+Decision: This document should be produced for the same reasons as those indicated for Document 1. There is a brief mention of what appears to be another taxpayer in the last paragraph on page 000021, which should be redacted.
+Document 8: Memorandum to GAAR Committee from the ATP dated February 8, 2011.
+Objection: The views and opinions of CRA officials during the deliberative process leading up to the decision to reassess, including on questions of law, are not relevant. The Crown has produced the documents which disclose the collective view of the CRA and the recommendations of the GAAR Committee.
+Decision: This document should be produced for the reasons noted for Document 1 above.
+Document 9: Memorandum to GAAR Committee from the ATP dated September 2, 2011.
+Objection: The views and opinions of CRA officials during the deliberative process leading up to the decision to reassess, including on questions of law, are not relevant. The Crown has produced the documents which disclose the collective view of the CRA and the recommendations of the GAAR Committee.
+Decision: This document should be produced for the reasons noted for Document 1 above.
+Document 10: Email dated February 22, 2012 from Mark Symes to Phil Jolie et al. and attached email regarding “GAAR Committee Meeting”.
+Objection: The views and opinions attributed to Finance officials during the deliberative process leading up to the decision to reassess, including on questions of law, are not relevant. The Crown has produced the documents which disclose the collective view of the CRA and the recommendations of the GAAR Committee. The document is not admissible extrinsic evidence.
+Decision: This document should be produced for the reasons noted for Document 1 above.[15]
+Document 11a): Email from Brent Percival to Dan Rivet and Jim Randall and attached email chain regarding “SIFT loss trading — acquisition of control by a group of persons” and the documents referred to therein.
+Document: 11b): An email to Deen Olsen and Dan Rivet dated April 10, 2012, which was included in the above‑mentioned email chain.
+Objection: The views and opinions of CRA officials during the deliberative process leading up to the decision to reassess, including on questions of law, are not relevant. The Crown has produced the documents which disclose the collective view of the CRA and the recommendations of the GAAR Committee. The document also concerns the mental process of the CRA and page 000003 contains information that is subject to solicitor‑client privilege (the seeking of legal advice) and settlement privilege.
+Decision: (a) This document should be produced for the reasons noted for Document 1 above. However, the middle sentence in the second paragraph of the email to Deen Olsen on page 000003 and the last paragraph in that email are protected by privilege and should remain redacted.
+(b) The email dated April 10, 2012 to Deen Olsen and Dan Rivet is protected by solicitor‑client privilege and does not have to be produced.
+Document 12: Memorandum to GAAR Committee from HQ dated July 30, 2012 regarding Superior Plus Inc. Settlement Offer — Lossco SIFT Conversion.
+Objection: The redacted portion of the document concerns matters that are subject to settlement privilege and page 000214 contains information relating to the seeking of legal advice.
+Decision: The redactions are protected by settlement privilege and should not be produced.
+Document 13: Email from Lucie Bergevin to Dan Rivet dated August 29, 2012 and attached chain of emails re: “GAAR Committee Meeting re Superior Plus”.
+Objection: The views and opinions of CRA officials during the deliberative process leading up to the decision to reassess, including on questions of law and chances of success, are not relevant. Moreover, part of the redactions are subject to settlement privilege. Page 000229 contains information that is subject to solicitor-client privilege. There are also references of a general nature to other taxpayers.
+Decision: The redactions are protected by either settlement or solicitor‑client privilege and should not be produced.
+Document 14: Memorandum to GAAR Committee dated February 8, 2010 [actually 2011] from the ATP regarding Superior Plus Inc.
+Objection: The document is an unsigned earlier draft of Document 8 above. Moreover, the views and opinions of CRA officials during the deliberative process leading up to the decision to reassess, including on questions of law, are not relevant.
+Decision: Production of the final version (Document 8 above) has been ordered. The earlier version should be produced as the Appellant may wish to pursue a train of inquiry related to changes.
+Document 15: Memorandum to GAAR Committee dated August 18, 2010 from HQ (unexecuted) regarding “Superior Plus Inc. — Lossco SIFT conversion”.
+Objection: A signed unredacted and final version of this document, namely the February 8, 2011 referral to the GAAR Committee, was produced to the Appellant at page 1841 of the Motion Record. An earlier draft is not relevant.
+Decision: This document should be produced for the reasons noted above with respect to Document 14.
+Document 16: Email from Gilles Pelletier to Jean-Marc Miszaniec dated July 28, 2010 and attached chain of emails regarding “Tax loss Trading”.
+Objection: The chain of emails concerns intradepartmental communications unrelated to the appellant and is irrelevant. The redactions also concern irrelevant taxpayer information that is subject to section 241. Moreover, the redactions do not concern admissible extrinsic evidence.
+Decision: The redacted information is not relevant to the Appellant and contains other information relating to other taxpayers which is protected by section 241. Therefore, the redactions should not be produced.
+Document 17: Letter to Gérard Lalonde from Richard Montroy dated February 18, 2008 regarding “Subsection 111(5) of the Income Tax Act”.
+Objection: The document concerns an interdepartmental communication between the CRA and Finance expressing views and concerns about legislation. The document also contains irrelevant taxpayer information that is subject to section 241. The document is not admissible extrinsic evidence, is too remotely connected and cannot establish a train of inquiry.
+Decision: The redacted information should not be produced for the same reasons as those noted for Document 16.
+Document 18: Letter from Jackson MacGillivray to Wayne Adams dated March 9, 2004 regarding “Subsection 111(5) of the Income Tax Act (Canada)” with attachments (including Document No. E 2004‑006210F11 and Document No. E 2001‑0068105).
+Objection: The document concerns an interdepartmental communication between the CRA and Finance expressing views, opinions and concerns about questions of law and legislation. The document also contains irrelevant taxpayer information that is subject to section 241. The document does not contain admissible extrinsic evidence, is too remotely connected and cannot establish a train of inquiry.
+Decision: The redacted information does not have to be produced for the reasons given for Document 16.
+Document 19: Email from Alexander Johnstone to Venetia Putureanu dated July 28, 2011 and attached chain of emails regarding “Questions relating to 256(7)(c.1), (f) & (g)”.
+Objection: The redacted portions of pages 000239 and 000240 are not relevant.
+Decision: The redacted information is relevant to the issues in the appeal as the Appellant has put in issue the introduction of paragraph 256(7)(c.1) in its amended answer. Everything should be disclosed except the redacted sentence in the last email on page 000240 as it is not relevant.
+Document 20: Email from Ted Cook to Gérard Lalonde dated March 5, 2010 and attached chain of emails regarding “Trust Conversions”.
+Objection: The redacted portion of the email chain concerns views and opinions of CRA officials on questions of law. The information is not relevant.
+Decision: The redacted information should be produced for the reason noted above with respect to Document 19.
+Document 21: Email from Shawn Porter to Annemarie Humenuk dated December 21, 2011 and attached chain of emails regarding “Draft Email for CRA on GAAR issue relating [to] loss trading in the context of SIFT conversions”.
+Objection: The redacted portion of page 000001 concerns a view or opinion of a Finance official and is not relevant.
+The redacted information on pages 000002 to 000004 concerns views and opinions expressed by CRA and Finance officials and is not relevant. The information is not admissible extrinsic evidence of legislative facts. Further, the redacted information is subject to solicitor-client privilege.
+Decision: The redacted information should be produced for the reasons indicated for Document 1. However, two paragraphs on pages 000003 and 000004/000005 which make reference to Justice are protected by solicitor‑client privilege and should not be disclosed.
+Document 22: Email from Annemarie Humenuk to Grant Nash dated March 4, 2012 and attached chain of emails regarding “The Application of the GAAR relating to loss trading in the context of SIFT conversions”.
+Objection: The redacted information concerns views and opinions expressed by CRA and Finance officials and is not relevant. The information is not admissible extrinsic evidence of legislative facts. Further, the redacted portion on page 000017 is protected by solicitor‑client privilege.
+Decision: This document should be produced for the reasons given for Document 1. The first full paragraph on page 000017 makes reference to Justice and is protected by solicitor‑client privilege and should not be disclosed.
+Document 23: Email from Shawn Porter to Davine Roach, Robert Duong, Kerry Harnish and Grant Nash (undated) and attached email chain regarding “The Application of the GAAR relating to loss trading in the context of SIFT conversions”.
+Objection: The redacted information at page 000033 is in part subject to settlement privilege. The remainder of the redacted information concerns views and opinions expressed by CRA and Finance officials and is not relevant. The information is not admissible extrinsic evidence of legislative facts. Further, the redacted portion of page 000034 is protected by solicitor-client privilege.
+Decision: Only the following should be produced unredacted:
+(a) the second grey block on the bottom of page 000033,
+(b) the last paragraph on page 000034 beginning with “With respect to the”,
+(c) all of page 000035 because it is not protected by privilege.
+Document 24: GAAR Committee Referral dated November 1, 2011 regarding “Superior/Ballard — Loss Trading”.
+Objection: This internal Finance document concerns the views and opinions of Finance officials. It is not an official published statement. The information is not admissible extrinsic evidence of legislative facts. In short, the redacted information is not relevant.
+Decision: This document should be produced for the reasons given for Document 1.
+Document 25: Item number 3 of the GAAR Committee Minutes dated March 6, 2012.
+Objection: The individual views or opinions of members of the GAAR Committee or attendees at the meeting are not relevant. The Crown has produced the documents which disclose the collective view of the CRA and the recommendations of the GAAR Committee.
+Decision: These minutes should be produced for the reasons given in respect of Document 1.[16]
+III. Respondent’s Motion to Produce [38] The Respondent, on the basis of implied waiver, seeks the production of three documents with respect to which the Appellant claims solicitor-client privilege. The Respondent argues that the production of a Macleod Dixon Memorandum (the “Macleod Dixon Memorandum”) dated October 24, 2008[17] entitles the Respondent to the disclosure of three memorandums containing tax advice pertaining to the transactions at issue in the present appeal.
+[39] The Appellant alleges that the Fund initially was to be converted under the Exchange Method. The Appellant further alleges that the Fund was advised that the Exchange Method could lead to a change of control of the Fund as defined in its debt indentures, requiring the Fund to redeem its debt at a premium in relation to its face value. This result could be avoided if the Fund’s conversion was carried out under the Distribution Method. This is what was done and the motion record shows that the Fund received advice in the Macleod Dixon Memorandum confirming that the publicly traded debt could be assumed by the Appellant without triggering its early redemption.
+[40] The Appellant relies on the decision Bone v. Person[18] in which the Manitoba Court of Appeal said:
+10 The first issue relates to the nature and extent of the waiver of solicitor/client privilege. Was it limited and, if so, to what extent? The law is clear that a party to legal proceedings may voluntarily waive solicitor/client privilege on a limited basis, that is to say with respect to a particular defined subject matter. See, for example, Power Consolidated (China) Pulp Inc. v. British Columbia Resources Investment Corp. (1988), [1989] 2 W.W.R. 679 (B.C. C.A.) at 682. However, a reasonable balance must be struck so that the court and the other parties are not misled. The party making the disclosure cannot pick and choose between the favourable and the unfavourable. In Transamerica Life Insurance Co. of Canada v. Canada Life Assurance Co. (1995), 46 C.P.C. (3d) 110 (Ont. Gen. Div.) Sharpe J., as he then was, put the matter this way, at paras. 41-42:
+It is plainly not the law that production of one document from a file waives the privilege attaching to other documents in the same file. It must be shown that without the additional documents, the document produced is somehow misleading . . . .
+The waiver rule must be applied if there is an indication that a party is attempting to take unfair advantage or present a misleading picture by selective disclosure.
+[41] The Federal Court of Appeal in Slansky v. Canada (Attorney General)[19] endorsed Bone and added:
+261 A party cannot disclose part of the content of a privileged document and unfairly withhold the rest of it: David M. Paciocco and Lee Stuesser, The Law of Evidence, 6th ed. (Toronto: Irwin Law, 2011) at page 220. Privilege is not a swinging door, open when there is information to communicate, but slammed shut when information is sought. . . . A party may not cherry-pick privileged communications, disclosing what is helpful to it and withholding the rest . . . .
+[42] Justice Woods cited Bone with approval in MIL (Investments) S.A. v. The Queen,[20] where she also noted that the waiver rule should be applied restrictively. The Appellant also cited Justice Woods’ decision in Gerbro Inc. v. The Queen,[21] which summarizes the principles of implied waiver:
+50 A general summary of the principles applicable in considering whether there has been implied waiver of privilege can be found in Mahjoub (Re), 2011 FC 887, at para. 10:
+10 The jurisprudence supports the following propositions relating to implied waiver of the privilege:
+(a) waiver of privilege as to part of a communication will be held to be waiver as to the entire communication. S. & K. Processors Ltd. v Campbell Ave. Herring Producers Ltd. (1983), 35 CPC 146, 45 BCLR 218 (SC) (S & K);
+(b) where a litigant relies on legal advice as an element of his claim or defence, the privilege which would otherwise attach to that advice is lost. (S & K);
+(c) in cases where fairness has been held to require implied waiver, there is always some manifestation of a voluntary intention to waive the privilege at least to a limited extent. The law then says that in fairness and consistency, it must be entirely waived. (S & K);
+(d) the privilege will [be] deemed to have been waived where the interests of fairness and consistency so dictate or when a communication between a solicitor and client is legitimately brought into issue in an action. Bank Leu Ag v Gaming Lottery Corp., [1999] OJ No. 3949 (Lexis); (1999), 43 C.P.C. (4th) 73 (Ont. S.C.) at paragraph 5;
+(e) the onus of establishing the waiver rests on the party asserting waiver of the privilege. (S & K at paragraph 10).
+[Emphasis added.]
+[43] The Court in Gerbro further noted that the bar is set high when it comes to ordering the disclosure of privileged materials:
+57 The parties referred me to a great many judicial decisions regarding implied waiver of privilege. Each case appears to depend on its own particular facts, and the general approach that the courts have taken recognizes the importance of upholding solicitor-client privilege.
+58 In my view, these judicial decisions generally follow the approach described by the British Columbia Court of Appeal in Procon Mining & Tunnelling Ltd. v McNeil, 2009 BCCA 281, at para 19: “[t]o establish waiver, the disclosure sought must be “vital” or necessary to the opposing party’s ability to answer an allegation.”
+59 The bar is set high for a court to require disclosure when the legal advice has not been put in issue by a party. In this motion, the Crown has not established that the legal communications are so important to their case that they should be divulged.
+[44] The above passages confirm that privilege can be waived by a party for a limited purpose. If the waiver results in unfairness or inconsistency, the Court can order production of related privileged information. However, the bar for setting aside privilege is high and disclosure should only be ordered when it is “vital or necessary”.
+[45] Waiver appears to typically be asserted when a document is produced with portions redacted on the grounds of privilege. This was the case in KF Evans Ltd. v. Canada,[22] cited by the Respondent, where around 10% to 20% of the memoranda were redacted.[23] To ensure that the other party was not misled, and in the interest of consistency, the Court ordered disclosure.[24]
+IV. Conclusion [46] In light of the above, I agree with the Appellant’s submission that the Macleod Dixon Memorandum is a stand‑alone document providing corporate advice on a distinct issue regarding the early redemption of the Fund’s debentures. The Other Legal Opinions contain tax advice on the conversion. In my opinion, there is no unfairness or inconsistency in the Appellant disclosing only the Macleod Dixon Memorandum. As noted above, in Gerbro and Bone the bar with respect to setting aside privilege is high and disclosure should only be ordered when it is “vital or necessary”. I am satisfied that the disclosure of the Macleod Dixon Memorandum does not bring the tax advice received by the Appellant into issue. For these reasons, the Respondent’s motion is dismissed.
+Signed at Ottawa, Canada, this 22nd day of May 2015.
+“Robert J. Hogan”
+Hogan J.
+CITATION:
+2015 TCC 132
+COURT FILE NO.:
+2013-2939(IT)G
+STYLE OF CAUSE:
+SUPERIOR PLUS CORP.
+v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+February 19, 2015
+REASONS FOR ORDER BY:
+The Honourable Justice Robert J. Hogan
+DATE OF ORDER:
+May 22, 2015
+APPEARANCES:
+Counsel for the Appellant:
+Al Meghji
+Edward Rowe
+Joanne Vandale
+Counsel for the Respondent:
+Raj Grewal
+Perry Derksen
+Shankar Kamath
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Al Meghji
+Edward Rowe
+Joanne Vandale
+Firm:
+Osler, Hoskin & Harcourt LLP
+Calgary, Alberta
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [1997] F.C.J. No. 995 (QL), 97 DTC 5401 et page 5403.
+[2] 2011 FCA 120, 2011 DTC 5069.
+[3] 2005 SCC 54, [2005] 2 S.C.R. 601.
+[4] Lehigh, at paragraph 23; see also paragraphs 27 to 29 of Lehigh.
+[5] [2013] 3 C.T.C. 2169.
+[6] Paragraph 18.
+[7] Paragraph 24.
+[8] I have adopted the term “policy” as defined in Birchcliff.
+[9] 2013 TCC 86, 2013 DTC 1122.
+[10] Gwartz, at paragraphs 35 to 37.
+[11] 2010 TCC 228, 2010 DTC 1159.
+[12] Appellant’s written submissions, paragraphs 19 to 30.
+[13] The Appellant has moved to obtain only Item 1 in unredacted form. Therefore, Items 2 and 3 should remain redacted.
+[14] The Appellant has moved to obtain Item 2 in unredacted form. Therefore, Items 1, 3 and 4 shall remain redacted.
+[15] The Appellant agreed by teleconference that the paragraphs numbered (1), (2), and (3) on page 000140 should remain redacted because they pertain to unrelated matters considered by the GAAR Committee.
+[16] The Appellant has moved to have Item 3 produced. Therefore Items 1, 2 and 4 should remain redacted.
+[17] Found in the affidavit of Christina Cho, sworn on February 10, 2015, at Tab S.
+[18] 2000 CarswellMan 109.
+[19] 2013 FCA 199, 449 N.R. 28.
+[20] 2006 TCC 208, [2006] 3 C.T.C. 2509, at paragraph 26.
+[21] 2014 TCC 179, 2014 DTC 1136.
+[22] [1996] F.C.J. No. 30 (QL).
+[23] KF Evans, at paragraph 9.
+[24] KF Evans, at paragraphs 23 to 25.

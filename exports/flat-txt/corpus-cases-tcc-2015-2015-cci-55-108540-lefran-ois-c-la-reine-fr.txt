@@ -1,0 +1,148 @@
+Title: Lefrançois c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/108540/index.do
+Corpus path: corpus/cases/tcc/2015/2015-cci-55-108540-lefran-ois-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2015-03-03
+
+# Lefrançois c. La Reine
+
+- Citation: 2015 CCI 55
+- Decision date: 2015-03-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2803, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lefrançois c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-03-03
+Référence neutre
+2015 TCC 55
+Numéro de dossier
+2013-2876(GST)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2013-2876(GST)I
+ENTRE :
+ANIK LEFRANÇOIS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 13 novembre 2014, à Ottawa (Ontario).
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Représentant de l'appelante :
+André Lefrançois
+Avocat de l'intimée :
+Me Nicolas Ammerlaan
+JUGEMENT
+L’appel à l’encontre de la cotisation établie en vertu de la Loi sur la taxe d’accise dont l’avis est daté du 23 août 2012 et porte le numéro F-039080, est rejeté sans frais, conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 3e jour de mars 2015.
+« Réal Favreau »
+Juge Favreau
+Référence : 2015 CCI 55
+Date : 20150303
+Dossier : 2013-2876(GST)I
+ENTRE :
+ANIK LEFRANÇOIS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit ici d’un appel à l’encontre d’une cotisation établie en main-tierce en vertu du paragraphe 325(2) de la Loi sur la taxe d’accise, L.R.C., 1985, chapitre E-15), telle que modifiée (la « LTA »), dont l’avis est daté du 23 août 2012 et porte le numéro F-039080, relativement à un transfert de biens d’un montant de 20 000 $ effectué le 25 août 2009 par monsieur André Lefrançois en faveur de sa fille, madame Anik Lefrançois. Le montant des droits payables en vertu de cette cotisation s’élève à 994,55 $. En date du transfert d’argent dans le compte bancaire de sa fille, le père de l’appelante était un débiteur fiscal en défaut de paiement.
+[2] Selon monsieur André Lefrançois, la somme de 20 000 $ transférée à sa fille Anik constituait une remise d’un excédent d’argent que cette dernière lui aurait confié pour la construction d’une unité de condominium située au 26, rue Bourget, à Gatineau.
+Les faits [3] Par un acte notarié daté du 22 février 2000, l’appelante, alors âgée de 26 ans et étudiante en communication, a acquis d’un tiers un immeuble situé au 60, rue Bourget à Gatineau pour le prix de 43 333 $ payé comptant avec une quittance finale de la part du vendeur. L’immeuble en question était un terrain vacant. Selon l’appelante, la somme de 43 333 $ lui aurait été prêtée par sa mère, madame Lise Grégoire, la conjointe de monsieur André Lefrançois.
+[4] L’appelante s’est mariée en juin 2000 avec monsieur Antoine Corbeil, un ingénieur. En 2001, elle a déménagé aux États-Unis et elle y a résidé jusqu’en 2004. À son retour au Canada en 2005, elle a enseigné le français aux fonctionnaires fédéraux dans la région de la Capitale nationale et elle a habité les deux unités de logement qu’elle a fait construire pendant son absence sur le terrain situé au 60, rue Bourget à Gatineau.
+[5] En 2001, l’appelante a contracté auprès de la Caisse Populaire Desjardins Saint-Raymond à Hull (maintenant Gatineau) un prêt hypothécaire afin de financer la construction de deux unités de logement sur le terrain sis au 60, rue Bourget. Selon le relevé de compte déposé en Cour, le solde du prêt hypothécaire au 31 décembre 2001 était de 183 750 $. L’emprunt était payable par des versements hebdomadaires de 321,09 $. Le taux d’intérêt en vigueur sur ce prêt était de 6,250 % l’an et le taux de crédit total, incluant l’assurance-vie, était de 6,863 % l’an.
+[6] La demande du permis de construction pour les deux unités de logement sur le terrain situé au 60, rue Bourget a été présentée le 11 mai 2001 par madame Lise Grégoire. Les plans déposés étaient pour une habitation bi-familiale isolée (type duplex) dont le coût des travaux était estimé à 125 000 $.
+[7] Le 15 novembre 2004, l’appelante a augmenté le prêt hypothécaire contracté auprès de la Caisse Populaire Saint-Raymond de Hull à la somme de 296 250 $ pour terminer la construction des deux unités de logement.
+[8] Le 26 octobre 2005, l’appelante a vendu à son père par un acte notarié les deux unités de logement situées au 60, rue Bourget à Gatineau pour un prix total de 654 000 $, soit 326 000 $ pour l’unité 1 et 328 000 $ pour l’unité 2. Le père de l’appelante a pris en charge le paiement en capital et en intérêts de l’hypothèque au montant de 295 350,24 $ due à la Caisse Populaire Saint‑Raymond de Hull à compter du 26 janvier 2005 et l’appelante a reconnu avoir reçu en acompte avant le 26 octobre 2005, la somme de 358 649,76 $ et a donné quittance pour ladite somme.
+[9] Le père de l’appelante a revendu les deux unités de logement pour un prix total de 535 000 $, soit 235 000 $ pour l’unité 1 vendue en vertu d'un acte notarié daté du 29 juillet 2008 et 300 000 $ pour l’unité 2 vendue en vertu d'un acte notarié daté du 18 mars 2009. Le père de l’appelante a donc réalisé une perte de 119 000 $ sur la revente de ces deux unités de logement, laquelle perte n’a pas été réclamée par ce dernier dans ses déclarations de revenu pour les années d’imposition concernées.
+[10] L’évaluation municipale des deux unités du 60, rue Bourget était, au 26 octobre 2005, de 179 000 $ pour l’unité 1 et de 193 700 $ pour l’unité 2. Selon des rapports d’évaluation déposés par l’intimée, la juste valeur marchande au 27 octobre 2005, de l’unité 1 était de 209 000 $ alors que celle de l’unité 2 était de 245 000 $. Lors de l’audience, monsieur Lefrançois a affirmé qu’il s’était basé sur un rapport d’évaluation de monsieur Laurent Lemieux pour établir la valeur à 654 000 $ pour les deux unités de logement mais le rapport d’évaluation en question n’a pas été déposé en preuve lors de l’audience.
+[11] Par un contrat de vente sous seing privé portant la date du 1er octobre 2004, le père de l’appelante a cédé à l’appelante, à sa mère et à Martin Lefrançois, le frère de l’appelante, la propriété d’un lot vacant sis au 30, rue Bourget à Hull dans le but d’obtenir un permis de construction de trois unités de logement en copropriété divise. Le prix de vente de l’immeuble était de 60 000 $, alors que le père de l’appelante en était devenu propriétaire aux termes d’un acte exécuté devant notaire le 25 août 2000 pour un prix de 67 275 $. Le contrat de vente sous seing privé, quoique portant la date du 1er octobre 2004, portait la mention suivante à l’avant-dernier paragraphe du document :
+Cette vente est la structuration écrite sous seing privée d’une entente de vente verbale légale entre ces mêmes parties en date du 26 octobre 2005.
+[12] Un document intitulé « contrat de gestion du projet au 30 Bourget devenu le 22, 24, 26 Bourget » daté du 1er novembre 2005 a été déposé à l’audience par l’appelante en vertu duquel la société Investar inc. a reçu pour mandat de réaliser la construction de trois copropriétés sises au 22, 24 et 26, rue Bourget selon les plans et devis réalisés par Plan et Gestion Plus de monsieur Patrick Fillion et acceptés par la Ville de Gatineau. Il est spécifié au document que le projet devait se réaliser au coût de construction réel et être payé comptant par des transferts de fonds à Investar inc., selon la part de chacun des trois propriétaires de leur terrain respectif :
+Lise Grégoire
+22 Bourget
+Lot 3522957
+22 728 $
+Martin Lefrançois
+24 Bourget
+Lot 3522958
+18 636 $
+Anik Lefrançois
+26 Bourget
+Lot 3522959
+18 636 $
+60 000 $
+[13] Par un acte notarié daté du 20 janvier 2006, le père de l’appelante lui a cédé la fraction de la copropriété divise située au 26, rue Bourget, à Gatineau pour le prix de 18 636 $, dont le prix a été payé avant le 20 janvier 2006 et une quittance générale et finale a été accordée par le vendeur.
+[14] Aux termes d’une offre de financement présentée au père de l’appelante par la Caisse Populaire Saint-Raymond de Hull, et datée du 3 août 2007, ce dernier a refinancé l’hypothèque affectant les deux unités du 60, rue Bourget au moyen de deux prêts à terme de 190 000 $ chacun.
+[15] La construction des trois unités de logement sises au 22, 24 et 26, rue Bourget à Gatineau a débuté le 4 octobre 2004 comme en fait foi le permis de construction émis par la Ville de Gatineau. La demande du permis de construction a été présentée par le père de l’appelante en tant que propriétaire en auto-construction. Le permis de construction a été accordé pour une habitation tri‑familiale isolée dont le coût était estimé être de 240 000 $.
+[16] L’appelante a témoigné à l’effet qu’elle aurait remis à son père une somme totalisant 358 649,76 $ pour payer le coût réel de construction de son unité de logement sise au 26, rue Bourget, comprenant la somme de 328 000 $ obtenue lors de la vente à son père de son unité de logement du 60, rue Bourget.
+[17] Le « coût de construction réelle » de l’unité de logement sise au 26, rue Bourget a été établi par la firme de comptables PGPM à 338 000 $, y compris le coût du terrain de 18 636 $. Une nouvelle analyse du coût réel de construction de l’unité de condominium de l’appelante a établi ledit coût à 310 440,43 $. Par conséquent, monsieur André Lefrançois devait remettre à l’appelante la somme totale de 48 209,33 $ plutôt que la somme de 20 649,76 $ et dont il a remis 20 000 $.
+[18] Monsieur André Lefrançois était conseiller en orientation à l’Université du Québec à Gatineau et a pris sa retraite en 2003. Suite à de nombreuses démêlées avec les autorités fiscales, il a déclaré faillite le 30 août 2011.
+[19] La société Investar inc. qui avait pour mandat de construire les unités de logement situées au 22, 24 et 26, rue Bourget a, elle aussi, déclaré faillite au mois de février 2011. Monsieur André Lefrançois était le seul actionnaire et le seul administrateur de cette société.
+Les dispositions législatives applicables [20] Les paragraphes 325(1), (2) et (5) de la LTA sont applicables au présent litige. Ces dispositions se lisent comme suit :
+325.(1) Transfert entre personnes ayant un lien de dépendance —La personne qui transfère un bien, directement ou indirectement, par le biais d’une fiducie ou par tout autre moyen, à son époux ou conjoint de fait, ou à un particulier qui l’est devenu depuis, à un particulier de moins de 18 ans ou à une personne avec laquelle elle a un lien de dépendance, est solidairement tenue, avec le cessionnaire, de payer en application de la présente partie le moins élevé des montants suivants :
+a) le résultat du calcul suivant :
+A-B
+où :
+A représente l’excédent éventuel de la juste valeur marchande du bien au moment du transfert sur la juste valeur marchande à ce moment, de la contrepartie payée par le cessionnaire pour le transfert du bien;
+B l’excédent éventuel du montant de la cotisation établie à l’égard du cessionnaire en application du paragraphe 160(2) de la Loi de l’impôt sur le revenu relativement au bien sur la somme payée par le cédant relativement à ce montant;
+b) le total des montants représentant chacun :
+(i) le montant dont le cédant est redevable en vertu de la présente partie pour sa période de déclaration qui comprend le moment du transfert ou pour ses périodes de déclaration antérieures,
+(ii) les intérêts ou les pénalités dont le cédant est redevable à ce moment.
+Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédant découlant d’une autre disposition de la présente partie.
+325.(2) Cotisation —Le ministre peut établir une cotisation à l’égard d’un cessionnaire pour un montant payable en application du présent article. Dès lors, les articles 296 à 311 s’appliquent, compte tenu des adaptations de circonstance.
+325.(5) Définition de « biens » — Au présent article, l’argent est assimilé à un bien.
+Analyse et conclusion [21] Pour déterminer si le transfert de la somme de 20 000 $ représente le remboursement de sommes excédentaires avancées par l’appelante à son père pour la construction de son unité de condominium sise au 26, rue Bourget, il importe d’abord d’examiner quand et comment l’appelante aurait transféré l’argent à son père.
+[22] Dans les faits, il n’y a au dossier, aucune preuve documentaire à l’effet que l’appelante aurait transféré des sommes d’argent pour la construction de son unité de condominium. Par contre, il a été établi que l’unité de condominium a bel et bien été construite et que l’appelante en est réellement devenue propriétaire.
+[23] Selon l’appelante et son père, les fonds pour la construction de ladite unité de condominium provenaient du solde du prix de vente des unités du 60, rue Bourget à l’égard duquel l’appelante a donné quittance à son père, pour la somme de 358 649,76 $. Il n’y a aucune preuve au dossier à l’effet que ladite somme de 358 649,76 $ a effectivement été remise à l’appelante par son père et qu’elle aurait reprêté par la suite ladite somme à son père. Selon toute vraisemblance, il n’y a eu aucun échange d’argent entre l’appelante et son père dans le cadre de cette transaction.
+[24] L’appelante avait peu ou pas de revenu lorsqu’elle a fait l’acquisition du terrain sis au 60, rue Bourget. Elle a indiqué que le prix d’acquisition du terrain (43 000 $) lui avait été prêté par sa mère. Aucune preuve de ce prêt et du transfert d’argent n’a été déposée en Cour. Tout comme pour l’acquisition du terrain, l’appelante n’avait pas l’argent nécessaire pour faire construire son unité de condominium. Dans les circonstances, il m’apparaît être plus que probable que l’appelante a agi dans le cadre de cette transaction à titre de prête-nom pour son père qui connaissait alors de sérieuses difficultés financières.
+[25] La vente de l’immeuble à son père le 26 octobre 2005 a été faite à un prix nettement supérieur à la juste valeur marchande de l’immeuble, laquelle valeur se situait autour de 454 000 $ selon les rapports d’évaluation déposés par l’intimée plutôt que 654 000 $. La revente en 2008 et 2009 desdites unités de condominium pour un prix total de 533 000 $ confirme que la valeur de la transaction entre l’appelante et son père était clairement exagérée.
+[26] Les circonstances entourant la construction du 26, rue Bourget sont également très nébuleuses. Il n’y aucune preuve à l’effet que la somme de 18 636 $ pour l’achat du terrain a été versée par l’appelante. De plus, il n’y a aucune preuve que l’appelante a versé à Investar inc. la somme de 119 000 $ le 15 novembre 2004 pour débuter la construction du 26, rue Bourget. Selon la version de l’appelante et de son père, cette somme proviendrait du refinancement de l’hypothèque effectué le 15 novembre 2004. La nouvelle hypothèque pour un montant de 296 250 $ moins le remboursement de l’ancienne hypothèque au montant de 177 250 $ avait permis de créer des liquidités de 238 000 $ au total, soit 119 000 $ pour chacune des 2 unités de l’immeuble. Cette version est en contradiction avec la version énoncée au paragraphe 7 ci-dessus à l’effet que l’augmentation du prêt hypothécaire avait pour but de terminer la construction des deux unités de logement du 60, rue Bourget.
+[27] L’appelante et son père prétendent qu’elle lui aurait versé une somme totalisant 358 649,76 $ pour la construction de son unité de logement sise au 26, rue Bourget mais aucune preuve de ce transfert d’argent n’a été déposée à la Cour. Lors de son témoignage, l’appelante n’a pu fournir quelques précisions que ce soit concernant les avances consenties à son père ou à Investar inc.
+[28] Enfin, il y a leu de souligner le cafouillage autour du coût de construction réel de l’unité sise au 26, rue Bourget; on ne sait pas trop si c’est 338 000 $ ou 310 440,43 $ comme le prétend le père de l’appelante. Ceci ne fait que démontrer la confusion, le désordre et l’absence de registres fiables de comptabilité reflétant les opérations de monsieur Lefrançois.
+[29] Compte tenu des incohérences dans les explications fournies par l’appelante et par son père et compte tenu de l’absence de preuve tangible à l’effet que l’appelante a avancé à son père des sommes totalisant 358 649,76 $, je ne peux pas accepter que la somme de 20 000 $ puisse être considérée comme le remboursement d’une somme excédentaire du coût de construction réel de l’immeuble sis au 26, rue Bourget.
+[30] Pour toutes ces raisons, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 3e jour de mars 2015.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE :
+2015 CCI 55
+Nº DU DOSSIER DE LA COUR :
+2013-2876(GST)I
+INTITULÉ DE LA CAUSE :
+Anik Lefrançois et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Ottawa (Canada)
+DATE DE L’AUDIENCE :
+le 13 novembre 2014
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Réal Favreau
+DATE DU JUGEMENT :
+le 3 mars 2015
+COMPARUTIONS :
+Représentant de l'appelante :
+André Lefrançois
+Avocat de l'intimée :
+Me Nicolas Ammerlaan
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

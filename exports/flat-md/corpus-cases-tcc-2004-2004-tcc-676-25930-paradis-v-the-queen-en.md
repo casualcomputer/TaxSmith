@@ -1,0 +1,150 @@
+---
+title: "Paradis v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25930/index.do"
+last_modified: "2004-10-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 676"
+citation2: ""
+neutral_citation: "2004 TCC 676"
+decision_date: "2004-10-19"
+language: "en"
+item_id: "25930"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3663
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:54:46.510000+00:00"
+cases_cited_count: 0
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "887070f0a6a1dd3f520f903406fcac102281a12047683870b819f1379fa800b0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Paradis v. The Queen
+
+- Citation: 2004 TCC 676
+- Decision date: 2004-10-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3663, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Paradis v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-10-19
+Neutral citation
+2004 TCC 676
+File numbers
+2003-4411(IT)I
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-4411(IT)I
+BETWEEN:
+GHISLAIN PARADIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on October 1, 2004, at Ottawa, Ontario.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+April Tate
+____________________________________________________________________
+ORDER
+Upon motion made by counsel for the respondent for an order dismissing the appellant's appeal for lack of jurisdiction;
+Upon reading the affidavit of François Ranger, filed on March 3, 2004;
+And upon hearing what was alleged by the parties;
+The motion is granted and the purported appeal from the assessment made under the Income Tax Act for the 2002 taxation year is quashed.
+Signed at Ottawa, Canada, this 19th day of October 2004.
+"Lucie Lamarre"
+Lamarre, J.
+Citation: 2004TCC676
+Date: 20041019
+Docket: 2003-4411(IT)I
+BETWEEN:
+GHISLAIN PARADIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Lamarre, J.
+[1] This is a motion for an order dismissing an appeal filed by the appellant before this Court with respect to the 2002 taxation year. In an affidavit filed before the Court in support of the motion, François Ranger, an officer in the Ottawa litigation office of the Canada Customs and Revenue Agency ("CCRA"), stated, among other things, the following:
+4. The Records disclose that the Minister of National Revenue (the "Minister") assessed the Appellant's income tax return for the 2002 taxation year by Notice of Assessment dated May 27, 2003 and said assessment indicated that the Appellant's income tax return for the 2002 taxation year was assessed as filed with a balance owing to the Appellant of $518,88.
+5. The amount of $518.88 was retained by way of set-off and remitted to the Department of Human Resources Development Canada to reimburse a Canada Student Loan owed by the taxpayer. Attached hereto as Exhibit "A" to this Affidavit is a copy of the Notice of Assessment that was sent by mail to Ghislain Paradis to the following address:
+[...]
+6. The Records further disclose that the Appellant filed a Notice of Objection on August 19, 2003 to the Notice of Assessment dated May 27, 2003.
+7. The Records further disclose that the Minister informed the taxpayer that the Notice of Assessment dated May 27, 2003 was made in accordance with the provisions of the Income Tax Act (the "Act") and that the Notice of Objection received on August 19, 2003 was not valid because it pertained to the use of a credit to compensate for a debt owed by the Appellant. . . .
+8. The Records further disclose that the Appellant filed a Notice of Appeal with the Tax Court of Canada on December 18, 2003 with respect to the 2002 taxation year.
+[2] The appellant does not challenge the amount of tax payable according to the notice of assessment dated May 27, 2003. In 2002 he worked in the province of Ontario but resided in the province of Quebec. His employer withheld at source from his remuneration an amount of tax that was based on the assumption that he resided in Ontario. The appellant argues that the CCRA has to give him back the excess of federal tax withheld at source and owed to him. The appellant wants that refund in order to pay the income tax that he owes to the province of Quebec. He says that the CCRA did not have the right to recover a guaranteed student loan by way of set-off against his federal income tax refund. He says that income tax withheld at source by his employer had to be used to pay first the income tax owing to each government (federal and provincial).
+[3] It is not in the power of this Court to resolve that question. This Court's jurisdiction is, pursuant to section 12 of the Tax Court of Canada Act ("TCCA") and sections 169 and 171 of Income Tax Act, restricted to having assessments vacated or varied if the amounts assessed are erroneous. If they are not, this Court can only confirm the assessment. The collection of taxes or the manner in which the government handles tax refunds are not matters within this Court's jurisdiction under the legislation.
+[4] As mentioned above, the appellant does not challenge the validity of the assessment made by the Minister of National Revenue ("Minister") insofar as the computation of tax, interest or penalty for his 2002 taxation year is concerned, but rather he challenges how the federal government handled his tax refund.
+[5] Nevertheless, I refer the appellant to subsections 154(1) and (2) of the Income Tax Act and to section 3300 of the Income Tax Regulations, which read as follows :
+INCOME TAX ACT
+SECTION 154: Agreements providing for tax transfer payments.
+(1) The Minister may, with the approval of the Governor in Council, enter into an agreement with the government of a province to provide for tax transfer payments and the terms and conditions relating to such payments.
+(2) Tax transfer payment. Where, on account of the tax for a taxation year payable by an individual under this Part, an amount has been deducted or withheld under subsection 153(1) on the assumption that the individual was resident in a place other than the province in which the individual resided on the last day of the year, and the individual
+(a) has filed a return of income for the year with the Minister,
+(b) is liable to pay tax under this Part for the year, and
+(c) is resident on the last day of the year in a province with which an agreement described in subsection (1) has been entered into,
+the Minister may make a tax transfer payment to the government of the province not exceeding an amount equal to the product obtained by multiplying the amount or the total of the amounts so deducted or withheld by a prescribed rate.
+INCOME TAX REGULATIONS
+PART XXXIII - TAX TRANSFER
+PAYMENTS
+3300. For the purpose of subsection 154(2) of the Act, a rate of 40 % is prescribed.
+[6] It is under these provisions that the federal government makes a transfer payment to the government of the province in which a taxpayer resides on the last day of the year, which transfer cannot exceed 40 per cent of the total of the amounts withheld at source.
+[7] It is my understanding that the appellant disputes the validity of the above provisions. As judge Mogan said in Starkman v. Canada, [1995] T.C.J. No. 590 (Q.L.), as there is no valid appeal instituted before this Court under section 169 of the Act,the appellant's relief, if any, is most probably to be had by way of a declaration under subsection 18(1) of the Federal Courts Act.
+[8] The motion is therefore granted and the purported appeal is quashed.
+Signed at Ottawa, Canada, this 19th day of October 2004.
+"Lucie Lamarre"
+Lamarre, J.
+CITATION:
+2004TCC676
+COURT FILE NO.:
+2003-4411(IT)I
+STYLE OF CAUSE:
+Ghislain Paradis v. Her Majesty the Queen
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+October 1, 2004
+REASONS FOR ORDER BY:
+The Honourable Justice Lucie Lamarre
+DATE OF ORDER:
+October 19, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+April Tate
+COUNSEL OF RECORD:
+For the Appellant:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

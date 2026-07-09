@@ -1,0 +1,201 @@
+---
+title: "Sherman Hines Photographic Ltd. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27895/index.do"
+last_modified: "2005-06-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 370"
+citation2: ""
+neutral_citation: "2005 TCC 370"
+decision_date: "2005-06-07"
+language: "en"
+item_id: "27895"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1743
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:40:10.342000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0110486bea37feb535df14f2d412cb4942f9fc2c1bc3f1e5a9143e68169a3762"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sherman Hines Photographic Ltd. v. M.N.R.
+
+- Citation: 2005 TCC 370
+- Decision date: 2005-06-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1743, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sherman Hines Photographic Ltd. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-06-07
+Neutral citation
+2005 TCC 370
+File numbers
+2004-159(EI), 2004-160(CPP)
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Canada Pension Plan
+Employment Insurance Act
+Decision Content
+Docket: 2004-159(EI)
+2004-160(CPP)
+BETWEEN:
+SHERMAN HINES PHOTOGRAPHIC LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+JANINE LEVY,
+Intervenor.
+____________________________________________________________________
+Appeals heard on July 28, 2004 and February 24, 2005,
+at Halifax, Nova Scotia, by
+The Honourable Justice Campbell J. Miller
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Catherine McIntyre
+Counsel for the Intervenor:
+Rick Hartlen on July 28, 2004, only
+For the Intervenor:
+Representing herself on
+February 24, 2005
+____________________________________________________________________
+JUDGMENT
+The appeals pursuant to subsection 103(1) of the Employment Insurance Act and section 28 of the Canada Pension Plan are allowed and the decision of the Minister of National Revenue on the appeal made to him under section 92 of the Act and the determination of the Minister on the application made to him under section 27.1 of the Plan are vacated on the basis that Janine Levy was not engaged in insurable employment or pensionable employment with the Appellant for the period January 1, 2001 to November 1, 2001, within the meaning of paragraphs 5(1)(a) of the Act and 6(1)(a) of the Plan.
+Signed at Ottawa, Canada, this 7th day of June, 2005.
+"Campbell J. Miller"
+Miller J.
+Citation: 2005TCC370
+Date: 20050607
+Docket: 2004-159(EI)
+2004-160(CPP)
+BETWEEN:
+SHERMAN HINES PHOTOGRAPHIC LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+JANINE LEVY,
+Intervenor.
+REASONS FOR JUDGMENT
+Miller J.
+[1] This is a case under the Employment Insurance Act and Canada Pension Plan case in which the issue is the nature of the working relationship between the Appellant, Sherman Hines Photographic Ltd. (owned by Mr. Sherman Hines) and the Intervenor, Ms. Janine Levy. It is not unusual in such cases to hear passionate testimony colouring the relationship one way or the other. Regrettably, this case pitted Mr. Hines against Ms. Levy in what can best be described as an unpleasant cat fight.[1]
+[2] It was evident that what may have started as a positive relationship between Mr. Hines and Ms. Levy has ended in acrimony and accusations. Memories have faded and recollection on both sides remains primarily, if not entirely, the negative aspects of the relationship. To determine the truth requires a scratching away at the veneer of hostility. When I do so, I find that, while there are several opposing descriptions of certain facts, many of them are irrelevant to those factors to be considered in distinguishing the employee from the independent contractor. And, indeed, there are many facts that do go to the distinction that are not in dispute. I found both Mr. Hines' and Ms. Levy's testimonies at times to be vague and more driven by anger than reason. Their memories have not served them well. The stress it is causing them both is palpable. If they could step back from the situation and realize how mutually harmful their behaviour is, they would do the only sensible thing and immediately put away the boxing gloves and get on with their respective lives. I hold little hope, however, that they are capable of doing that.
+Facts
+[3] In March 2001, Mr. Hines completed a listing with a local agency entitled "Employer Job Bank Listing", in which he sought, on behalf of the Appellant, an assistant to work part-time (four to eight hours a day) on his photography business, at a wage of $10 an hour. On this listing, he indicated he required computer qualifications and ability to type and handle the telephone. The local agency went through their records and suggested Ms. Levy would be a possible candidate. Mr. Hines had the agency contact Ms. Levy who immediately attended at the office for an interview with Mr. Hines. After reviewing her qualifications, Mr. Hines hired her on the spot. Ms. Levy testified she was hired to work on organizing (sorting, pasting and shipping) Mr. Hines' collectible stamps, and to attend to some secretarial duties, including dealing with accounts receivable and accounts payable. Mr. Hines testified that he advised Ms. Levy that she was being hired to bring his GST (goods and services tax) filings up-to-date. Given the fact that Ms. Levy started working on the stamps and did not address the GST issue until some time later, I accept Ms. Levy's evidence of this aspect of the initial arrangement, though I also believe Mr. Hines' summary that Ms. Levy was being groomed to be an executive assistant. This happened almost immediately, as by the end of March, Mr. Hines' executive assistant had left. Ms. Levy was to fill that role.
+[4] Mr. Hines testified that Ms. Levy had the choice of being an employee or an independent contractor, and that she chose to be an independent contractor. He advised her that she would have to look after her own source deductions. Ms. Levy acknowledges there was discussion of source deductions, however, she took this to mean that as part of her employment with Mr. Hines, she would be required to handle employees' source deductions. As Ms. Levy did not make such source deductions for the Appellant, but drew the gross amount, I find it difficult to accept Ms. Levy's version of this understanding.
+[5] Mr. Hines set the level of pay with assurances that the hourly rate of pay would increase to $15 an hour upon Ms. Levy assuming the executive assistant responsibilities. Ms. Levy started to work on the day of the interview. At the end of the day Mr. Hines asked her to stay longer. By the first full day he requested that she go full-time. At the outset Ms. Levy would take work home. It was initially agreed that work done at home would only be compensated at $7 an hour, but Ms. Levy later negotiated this rate to $10 an hour. A significant difference in their descriptions of the work done at home, or overtime generally, is that Ms. Levy maintained it was done at Mr. Hines' requests. He denies this, claiming she always looked for more work to take home as she needed the money. As with so many aspects of Mr. Hines' and Ms. Levy's testimonies, the truth lies somewhere between the two. I believe Ms. Levy was overwhelmed in those early stages and was indeed responding to Mr. Hines' needs. I also find, however, that she fell into a habit of working long hours, without always obtaining Mr. Hines' okay to do so. It became the work routine.
+[6] In April, Ms. Levy was doing the work of the former executive assistant. It was necessary for Mr. Hines initially to show her how to do, what she described as more executive-type work; for example, accounts receivable, accounts payable and receiving orders. Ms. Levy described Mr. Hines' behaviour as domineering in that he would stand over her to dictate correspondence and would check her work. She often worked late in the night. She was not, in these early stages, involved in working on the GST requirements.
+[7] By July, Ms. Levy felt she could not handle the constant overtime. The invoices she submitted to Mr. Hines showed that she worked every day in July, including three to five hours per day on weekends, and up to 14.5 hours per day on weekdays. Her hourly rate had gone from $12 to $15. She testified that in August she started looking for a new job. It is interesting to note that for the first six weeks, Ms. Levy completed an hourly timesheet, but thereafter submitted service invoices indicating the date, the hours worked, a brief description of the work and the rate. These records show that it was not until September 18, 2001, that she had a day off, and that was due to hospitalization for surgery. It was around this time that she became involved with the task of getting GST records in order. According to Ms. Levy, the records were a mess. Ms. Levy took an accounting course to familiarize herself with "Simply Accounting" for GST purposes.
+[8] Ms. Levy's testimony differs from Mr. Hines regarding the GST work, as he maintains she was hired at the outset to work on the GST. Frankly, the timing of such work does not bear on the nature of the relationship. What is significant, however, was that given the volume of the work, the continuing long hours and her recent surgery, Ms. Levy determined that she needed help. She started to look for someone, under the auspices of a trade name she established. Mr. Hines was away in Mongolia at the time. Mrs. Hines suggested to Ms. Levy that she talk to a friend of hers, Sue Rubbarth. Ms. Levy hired Ms. Rubbarth, who worked at Ms. Levy's home. Ms. Levy was prepared to pay Ms. Rubbarth from her own income, but Mrs. Hines suggested she should be paid from the Appellant's account.
+[9] Ms. Levy described her work as requiring considerable travelling to and from the post office, banks and suppliers. Mr. Hines advised her that she could get reimbursed for her gas expenses from petty cash, though there was no petty cash at times, so Ms. Levy would submit the occasional receipt.
+[10] With respect to equipment, Ms. Levy used her own computer when working at home, though brought one of Mr. Hines' printers home. At Mr. Hines' office, she relied upon his equipment. Supplies were provided by Mr. Hines or acquired by Ms. Levy on the Appellant's account.
+[11] The eventual parting of the ways took place in November; Ms. Levy suggesting she resigned; Mr. Hines suggesting he fired her. Again, this does not go to the nature of the relationship. It is a fact, however, that Ms. Levy signed two letters, both of which state she is ceasing all contract work for Sherman Hines Photographic Ltd.
+Analysis
+[12] Justice Major in 671122 Ontario Ltd. v. Sagaz Industries Canada Inc.[2] provided a detailed history of the development of the common law test on the issue of employment versus independent contractor, and concluded as follows:
+47 Although there is no universal test to determine whether a person is an employee or an independent contractor, I agree with MacGuigan J.A. that a persuasive approach to the issue is that taken by Cooke J. in Market Investigations, supra. The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker's activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker's opportunity for profit in the performance of his or her tasks.
+48 It bears repeating that the above factors constitute a non-exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case.
+[13] The penultimate question to be determined is whether Ms. Levy was in business on her own account. To answer this question it is necessary to consider the totality of the relationship by a survey, in this case, of the following factors:
+(i) control;
+(ii) ownership of equipment;
+(iii) ability to hire employees;
+(iv) degree of responsibility for investment and management;
+(v) degree of financial risk; and
+(vi) opportunity for profit.
+[14] If, after such a review, it is not sufficiently clear what relationship truly existed, then I will rely on the approach of Justice Noël in Wolf v. Canada[3], whereby he suggested that it is appropriate to look to the intention of the parties; that is, what was their deal, in determining the true nature of the relationship.
+(i) Control
+[15] Mr. Hines suggested that Ms. Levy was controlled by greed; Ms. Levy suggested she was controlled by the unreasonable demands of Mr. Hines. There may have been elements of both, but nothing so conclusive as to weigh the scales one way or the other.
+[16] I will examine four areas of control: determination of pay; hours worked; ability to work elsewhere; and amount of supervision.
+[17] Mr. Hines established the rate of pay for Ms. Levy at the outset, with assurances of an increase to $15 an hour after three months, if she had by then become the executive assistant. She did become executive assistant and the pay was duly increased. This suggests the Appellant was in control with little ability for negotiation. Yet, there are two aspects that work against the implication of employment. First, once Ms. Levy realized she would be working from home, she negotiated an increased rate for work done at home from $7 to $10. From a review of her invoices, it appears she was also able to increase her remuneration such that every hour was charged out at $15, notwithstanding whether or not at home. It appears Ms. Levy did some successful negotiating. The other fact I note is that the huge number of hours were not compensated at any different rate, which leads me to conclude that, while Ms. Levy was able to obtain a certain rate regardless of where the work was performed, she was not entitled, as an employee might be, to extra pay for overtime. I conclude control of remuneration is a neutral factor.
+[18] The hours of work by Ms. Levy were indeed extraordinary. She claims they were required by Mr. Hines; he claims they were mainly at Ms. Levy's own initiative, as she needed the money. As I alluded to earlier, I find some truth to both explanations, though neither are entirely accurate. I believe Mr. Hines was a demanding individual to work for, in any capacity. I find he did make requests of Ms. Levy to perform certain functions, some that would require longer hours. However, I do not find that he requested Ms. Levy work every one of those additional hours. I see the situation as one in which Ms. Levy figured out early in the relationship that there was a lot of work she could do, and although there were some early requests by Mr. Hines, I find that as time passed she simply took it upon herself to do as much as possible. This was especially so as Mr. Hines was away a third of the time that they worked together. I do not attribute Ms. Levy's actions so much to greed as to diligence, but I do find, on balance, that she controlled those hours more so than Mr. Hines.
+[19] Was Ms. Levy able to work elsewhere? Contractually she was, but practically she believed she had more work to do than hours available, so it was unrealistic to expect her to work for others.
+[20] Regarding the amount of supervision, I assess the evidence as painting a picture of Mr. Hines being demanding, yet cognizant of his business limitations, specifically regarding recordkeeping and GST. In the early stages of Ms. Levy's work, Mr. Hines did show her how to handle aspects of the work. She did not thereafter need constant supervision. With respect to the GST project, I find Ms. Levy was very much left to her own devices.
+[21] Two factors suggest to me that Mr. Hines was not as controlling as Ms. Levy suggests. First, he was away on business a great deal. Ms. Levy was left to run the office. Ms. Levy testified that at such times, control over her work was exerted by Mrs. Hines. I heard little evidence to support that contention. Second, Ms. Levy worked considerable hours outside the normal 9:00 a.m. to 5:00 p.m. working day, both at the office and at home. There was no suggestion Mr. Hines monitored Ms. Levy's work at these times outside regular office hours.
+[22] As Justice Major stated in Sagaz, control is always a significant factor. There are elements of control by Mr. Hines, yet, equally, there are elements of independence by Ms. Levy. It is a close call, and while I lean towards finding insufficient control to justify employment, I need to put this in context of the rest of the working environment.
+(ii) Ownership of equipment
+[23] Most equipment and supplies were provided by the Appellant, even to the point of supplying Ms. Levy with a printer for use at home. Ms. Levy used her own computer when she worked from home. I accept that the Appellant also paid for Ms. Levy's gas expenses. On balance, these factors point to employment.
+(iii) Hiring employees
+[24] Ms. Levy sought help. She did so by looking to hire someone to be paid from her own earnings. She established a trade name, as the employment agency she dealt with required a business name. Mr. Hines was away at the time. Mrs. Hines recommended a friend and Ms. Levy hired her. Mrs. Hines suggested that the Appellant should pay for the worker's services, which ultimately it did. Ms. Levy's actions in this regard are those of someone in business for herself. Notwithstanding the assistant was ultimately paid by the Appellant, the circumstances of the hiring, and certainly Ms. Levy's understanding of what she contractually could do, point to an independent contractor relationship.
+(iv) Degree of responsibility for investment and management
+[25] Although the circumstances of this case are such that this is not a major consideration, there are a couple of points to note. First, what was Ms. Levy's investment? First, and foremost it was an astonishing investment in time. An investment I suggest goes beyond one created by any normal sense of fidelity to an employer. Further, Ms. Levy invested in her own training by taking a course dealing with a computer application for GST purposes. These indicate she was in business on her own account.
+(v) Degree of financial risk
+[26] There was some risk assumed by Ms. Levy, but not a great deal. For example, she used her own vehicle to carry out various corporate obligations such as banking. There was no suggestion the Appellant carried any insurance for her. She also believed she had to pay for assistance from her own pocket, but ultimately with respect to the one person she hired, she did not bear that cost. Generally, there was not a degree of financial risk one would associate with an independent contractor.
+(vi) Chance of profit
+[27] This is a trickier issue. Was Ms. Levy's ability to work extensive hours, beyond what one would normally expect in an employment relationship, indicative of a person in business maximizing revenue? Many employees have opportunities to work overtime. Often such work will be paid at a premium, and often, for that reason, it may be closely monitored by the employer. A contract worker, paid on an hourly basis, increases revenue by satisfying the payor that greater hours are required to complete the work. Such hours are not normally compensated at a rate different from the contract rate. Does the paid‑by-the-hour-contract worker have greater opportunity than the paid-by-the-hour employee to increase income? Yes, if the contract worker controls the hours. So I come full circle back to the question of control. I find that Ms. Levy was able to work unlimited hours to maximize profits. Yet, I also conclude, given Mr. Hines' ambivalence regarding one form of arrangement over another, that she could have likely worked the same hours as an employee. This factor is neutral.
+[28] This analysis has not lead me to a clear conclusion. I find, therefore, this is an appropriate case to fall back on Justice Noël's approach cited earlier; that is, look at what the parties intended.
+[29] Ms. Levy maintained at trial that she believed she was an employee. She cannot explain, however, the inconsistency between that belief and the lack of source deductions from her cheques. She also claims that upon being retained by Mr. Hines, source deductions were discussed, and that she believed he meant she was to look after source deductions for herself and others as part of her corporate responsibilities, and not that she personally was responsible for the source deductions. I do not find this explanation credible, as she would have appreciated immediately after her very first cheque, that she was receiving a gross, not a net amount. No one was making source deductions. I add to this fact, Ms. Levy's belief that she could hire her own employees, work elsewhere if time permitted, and I conclude that she and Mr. Hines intended, and indeed agreed upon, an independent contractor arrangement. This is also evident in the form of termination notice Ms. Levy provided to Mr. Hines. It was not written in terms of termination of employment, but ending of the contract work.
+[30] While there are some factors that suggest employment, they are not sufficient to tip the balance in that direction, specifically in light of the agreement of the parties.
+[31] I allow the Appellant's appeal and refer the matter back to the Minister on the basis that Ms. Levy was not engaged in insurable or pensionable employment. I want to be clear to Mr. Hines that this finding is by the narrowest of margins, and he is not to read this interpretation as any endorsement of his version of events over Ms. Levy's.
+Signed at Ottawa, Canada, this 7th day of June, 2005.
+"Campbell J. Miller"
+Miller J.
+CITATION:
+2005TCC370
+COURT FILE NO.:
+2004-159(EI), 2004-160(EI)
+STYLE OF CAUSE:
+Sherman Hines Photographic Ltd. and
+The Minister of National Revenue and Janine Levy
+PLACE OF HEARING:
+Halifax, Nova Scotia
+DATE OF HEARING:
+July 28, 2004 and February 24, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT:
+June 7, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Catherine McIntyre
+Counsel for the Intervenor:
+Rick Hartlen on July 28, 2004, only
+For the Intervenor:
+Representing herself on
+February 24, 2005
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Intervenor:
+Name:
+Rick Hartlen
+Firm:
+Alexander MacKenzie Proudfoot
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] A dispute in which participants are spiteful, malicious and unrestrained. (Canadian Oxford Dictionary).
+[2] [2001] 2 S.C.R. 983.
+[3] [2002] 4 F.C. 396.

@@ -1,0 +1,162 @@
+---
+title: "Bourget c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27952/index.do"
+last_modified: "2007-08-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 486"
+citation2: ""
+neutral_citation: "2007 CCI 486"
+decision_date: "2007-08-31"
+language: "fr"
+item_id: "27952"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1800
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:21:12.551000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "66dd8088e75dd2c3889bb4e689fa78f3b61d42931f64b0d4f16700b48715a0d2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bourget c. La Reine
+
+- Citation: 2007 CCI 486
+- Decision date: 2007-08-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1800, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bourget c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-08-31
+Référence neutre
+2007 CCI 486
+Numéro de dossier
+2006-3333(GST)I
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2006-3333(GST)I
+ENTRE :
+RÉGINALD BOURGET,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 15 mai 2007, à Percé (Québec)
+Devant : L'honorable juge Gaston Jorré
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Louis Cliche
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi sur la taxe d'accise, dont l’avis est daté du 25 janvier 2006 et qui porte le numéro 255698, pour la période du 4 août 2003 au 31 décembre 2004, est rejeté selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 31e jour d'août 2007.
+«Gaston Jorré»
+Juge Jorré
+Référence : 2007CCI486
+Date : 20070831
+Dossier : 2006-3333(GST)I
+ENTRE :
+RÉGINALD BOURGET,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Jorré
+La question en litige
+[1] L’appelant appelle d’une cotisation de taxe sur les produits et services (TPS) pour la période du 4 août 2003 au 31 décembre 2004.
+[2] L’appelant exploitait au cours de la période en question un terrain de camping à Percé, au Québec, connu sous le nom « Camping du Phare ».
+[3] La cotisation en question vise un montant de 5 234,60 $, plus des pénalités de 532 $ et des intérêts de 212,64 $. En établissant la cotisation, le ministre a conclu que :
+1. l’appelant a fait des fournitures qu’il n’a pas déclarées de 44 170,31 $ en 2003 et de 15 441,10 $ en 2004;
+2. l’appelant devait être inscrit dès le 4 août 2003, ayant déjà dépassé le seuil de 30 000 $, et qu’en conséquence la TPS était payable dès le 4 août 2003; et
+3. l’appelant n’avait pas droit à des crédits de taxe sur intrants (CTI) à l’égard de l’utilisation de son véhicule.
+[4] L’avis d’appel est très court et dit :
+« L’avis de cotisation ne correspond pas à la somme due puisque certains montants proviennent de don ou d’héritage. »
+[5] L’appelant n’a pas donné suite à la question du CTI pour véhicule.
+[6] Quant à la question de l’inscription dès le 4 août 2003, Sylvie Bouffard, la vérificatrice, a témoigné que l’appelant était inscrit à partir du 1er novembre 2003, mais qu’elle avait constaté que les ventes de l’appelant étaient suffisantes pour que celui-ci soit obligé d’être inscrit dès le 4 août 2003. En contre-interrogatoire, elle a expliqué qu’elle avait fait cette détermination tout simplement en additionnant une liste de factures de vente fournie par l’appelant.
+[7] Il n’y a pas eu d’autre preuve à ce sujet et je n’ai pas de raison de conclure que le ministre avait tort d’inscrire l’appelant dès le 4 août 2003 et d’imposer les fournitures dès le 4 août 2003.
+[8] La seule question qui reste est de savoir si le ministre avait raison d’ajouter 44 170,31 $ en 2003 et 15 441,10 $ en 2004 aux fournitures du terrain de camping et d’établir une cotisation pour la TPS sur ces montants.
+Témoignage de la vérificatrice
+[9] La vérificatrice a expliqué qu’elle avait comparé les documents comptables aux factures de vente du terrain de camping. Ensuite, elle a fait une visite des lieux et elle a vu un panneau indiquant qu’il y avait des services de buanderie et que l’on vendait de la morue, de la glace et du bois de chauffage. Elle a également constaté qu’il y avait six roulottes permanentes. Elle n’avait pas vu de ventes provenant de ces sources dans les factures. Lors de discussions avec l’appelant, celui-ci a dit que les revenus de ces sources totalisaient 4 600 $ par an[1].
+[10] Puisque ces montants n’apparaissaient pas dans les documents comptables, la vérificatrice a obtenu les relevés bancaires de l’appelant et, après avoir tenu compte des revenus déclarés et du montant d’un emprunt de la Caisse populaire, elle a constaté des écarts importants.
+[11] La vérificatrice a conclu que ces écarts — de 44 170,31 $ en 2003 et de 15 441,10 $ en 2004 — représentaient des revenus tirés du terrain de camping et que la TPS devait être versée sur ces montants.
+Témoignage de l’appelant
+[12] Selon l’appelant, ces écarts correspondent à des montants que sa mère et sa tante lui ont donnés.
+[13] L’appelant a témoigné qu’il exploitait l’entreprise du terrain de camping et qu’il était ouvrier spécialisé dans la construction.
+[14] L’appelant a dit avoir reçu entre 100 000 $ et 105 000 $ en argent comptant de sa mère.
+[15] Son père est décédé en 1982.
+[16] Selon son témoignage, ses parents auraient accumulé et reçu ce montant de différentes sources au cours des années. Les deux parents — et, après la mort du père, la mère — auraient gardé cette somme à la maison en argent comptant. Aucun des sept enfants ne savait que cet argent comptant existait.
+[17] De 1990 à 1993, la mère a donné différents terrains à différents enfants. Un des enfants a eu un permis de pêche au homard.
+[18] En 1993, l’appelant aurait reçu de sa mère l’entreprise de camping et le terrain. Sa mère était fière de l’entreprise et à ce moment-là, elle lui avait dit qu’elle l’aiderait à bâtir un nouveau bloc sanitaire et à placer les égouts.
+[19] C’est en 1998 que sa mère lui a donné les 100 000 $ dans un petit sac de coton pour l’aider à construire le bloc sanitaire. L’appelant a gardé tout cet argent à la maison. Pendant longtemps, l’appelant ne semblait pas s’être soucié des risques de garder tant d’argent à la maison.
+[20] Les autres enfants n’ont pas reçu d’argent comptant.
+[21] En 1998 et en 1999, l’appelant est allé emprunter de l’argent de la Caisse populaire. Le prêt a été refusé; on lui a dit que les revenus du terrain camping n’étaient pas suffisamment élevés. C’est à ce moment-là que l’appelant a eu l’idée qu’il devrait peut-être déposer l’argent comptant à la Caisse populaire pour convaincre celle-ci de lui accorder un prêt.
+[22] Toutefois, plusieurs années se sont écoulées avant qu’il ait agi. En octobre 2004, il a emprunté 138 000 $ de la Caisse populaire pour financer la construction du nouveau bloc sanitaire. La construction a commencé en décembre 2004 et s’est terminée au printemps 2005. Cet édifice a coûté à peu près 140 000 $.
+[23] L’appelant a également témoigné qu’une tante décédée lui a donné « un 7 000 $ certain » pour l’aider à bâtir un nouveau bureau. Il n’a pas dit quand.
+[24] La mère et la tante de l’appelant sont décédées.
+[25] À un certain moment — mais il n’est pas clair quand — l’appelant a commencé à se soucier du fait que si sa maison était détruite par le feu, il risquait de perdre les 100 000 $ et il a décidé de déposer cette somme à la Caisse populaire[2].
+[26] Toutefois, l’appelant n’a pas expliqué :
+i) pourquoi, il n’a pas utilisé le 100 000 $ pour la construction. Non seulement c’était la raison d’être du don de sa mère mais cela lui aurait aussi permis de réduire le montant de l’emprunt à la Caisse populaire à 40 000 $ ou moins;
+ii) pourquoi, s’il avait le 100 000 $ en main, il ne l’a pas déposé en 1998 ou 1999 quand on lui a refusé le prêt. Il aurait pu convaincre la Caisse, à ce moment-là, qu’il avait suffisamment d’avoirs et éviter d’attendre cinq ans pour le prêt;
+iii) pourquoi, une fois qu’il a décidé de déposer le 100 000 $, soit pour convaincre la Caisse, soit pour éviter le risque encouru en gardant une telle somme à la maison, il a étiré les dépôts sur une période de deux ans; et
+iv) pourquoi, malgré le fait qu’il a conclu qu’il ne devrait pas garder de grosses sommes d’argent à la maison, il n’a pas déposé le solde du don originel de sa mère - environ 40 000 $[3].
+Témoignage de M. Martel
+[27] L’appelant a fait témoigner M. Réjean Martel. Ce dernier a préparé les déclarations de revenus de l’appelant et de la mère de l’appelant. Selon M. Martel, la mère de l’appelant lui aurait dit qu’il y avait de l’argent « pour celui qui aurait le camping ». Elle n’a pas dit quel montant.
+[28] Cette conversation a eu lieu au printemps 1995, au cours de la préparation de la déclaration de revenus de la mère. À cette époque, M. Martel ne connaissait la mère que depuis trois ou quatre ans.
+[29] Vu que l’appelant a reçu le terrain de camping en 1993, il est surprenant que sa mère ait dit en 1995 qu’il y avait de l’argent « pour celui qui aurait le camping » (je souligne).
+Conclusion
+[30] Je n’accepte pas la preuve de l’appelant. Son témoignage a souvent été vague et la série d’événements qu’il a décrits est peu probable.
+[31] La conclusion s’impose que les montants de 44 170,31 $ en 2003 et de 15 441,10 $ en 2004 ne proviennent pas de dons ou d’héritages. En conséquence, l’appel doit être rejeté.
+Signé à Ottawa, Canada, ce 31e jour d'août 2007.
+«Gaston Jorré»
+Juge Jorré
+RÉFÉRENCE : 2007CCI486
+Nº DU DOSSIER DE LA COUR : 2006-3333(GST)I
+INTITULÉ DE LA CAUSE : RÉGINALD BOURGET ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Percé (Québec)
+DATE DE L’AUDIENCE : Le 15 mai 2007
+MOTIFS DU JUGEMENT PAR : L'honorable juge Gaston Jorré
+DATE DU JUGEMENT : Le 31 août 2007
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Louis Cliche
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Bien qu'il ait dit que les revenus de ces sources étaient minimes, l'appelant n'a pas réellement contesté qu'il n’avait pas déclaré de petites sommes provenant de certaines de ces sources.
+[2] « Alors, l'argent aussi, j'ai dit : si la maison passe au feu, je vais brûler cet argent-là; bien, je l'ai déposé. En même temps, ça me donnait une chance de grossir le montant. »
+[3] La vérificatrice a identifié un peu moins de 60 000 $ en dépôts au-delà des revenus déclarés et de l’emprunt de la Caisse.

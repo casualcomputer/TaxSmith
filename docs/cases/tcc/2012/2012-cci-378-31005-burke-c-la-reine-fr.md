@@ -1,0 +1,329 @@
+---
+title: "Burke c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31005/index.do"
+last_modified: "2012-10-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 378"
+citation2: ""
+neutral_citation: "2012 CCI 378"
+decision_date: "2012-10-24"
+language: "fr"
+item_id: "31005"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4887
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:19:02.288000+00:00"
+cases_cited_count: 5
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5d005d2cd12d7cc64935ed8a079c2139ee6922e157d822a0840fa780b4a6ca84"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Burke c. La Reine
+
+- Citation: 2012 CCI 378
+- Decision date: 2012-10-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4887, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Burke c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-10-24
+Référence neutre
+2012 CCI 378
+Numéro de dossier
+2009-2921(IT)G
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-2921(IT)G
+ENTRE :
+JULIE BURKE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus les 4 et 5 octobre 2012 à Toronto (Ontario)
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Avocat de l’appelante :
+Me John Sorensen
+Avocat de l’intimée :
+Me Marcel Prevost
+JUGEMENT
+L’appel relatif à l’année d’imposition 1996 est rejeté.
+Les appels relatifs aux années d’imposition 1997, 1998, 2000 à 2003 ainsi que 2006 et 2007 sont accueillis et renvoyés au ministre du Revenu national pour nouvel examen et nouvelle cotisation, étant entendu que les paiements de pension alimentaire pour enfants ne sont pas à inclure dans le revenu de l’appelante.
+La demande de l’appelante en vue d’obtenir une prorogation du délai imparti pour déposer l’avis d’opposition relatif à l’année d’imposition 1999 est annulée, car la Cour n’a pas compétence pour entendre une telle demande.
+Signé à Toronto (Ontario), ce 24e jour d’octobre 2012.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 8e jour de février 2013.
+Mario Lagacé, jurilinguiste
+Référence : 2012 CCI 378
+Date : 20121024
+Dossier : 2009-2921(IT)G
+ENTRE :
+JULIE BURKE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Miller
+[1] Les appels de Julie Burke ont trait aux années d’imposition 1996 à 2003 ainsi que 2006 et 2007. Elle soutient que, pour toutes ces années-là, les paiements de pension alimentaire pour enfants qu’elle a reçus n’auraient pas dû être inclus dans son revenu, car ils tombaient sous le coup du nouveau régime d’imposition des paiements de pension alimentaire pour enfants qui est entré en vigueur en mai 1997. Elle fonde cette position sur trois prémisses : premièrement, son ex‑époux et elle ont produit un formulaire de choix conjoint (T1157) qui a créé le 1er mai 1997 comme date d’exécution; deuxièmement, une ordonnance datée du 11 décembre 2009 de la Cour supérieure de justice de l’Ontario a modifié une ordonnance provisoire datée de 1993 ordonnant le versement de paiements de pension alimentaire pour enfants, et elle a créé le 1er mai 1997 comme date d’exécution; troisièmement, des lettres que se sont échangées les avocats de M. Burke et de Mme Burke ont constitué une entente écrite qui a créé le 1er mai 1997 comme date d’exécution. De plus, en ce qui concerne les années d’imposition 1996 à 1999, Mme Burke est d’avis que le gouvernement a été incapable de prouver à quel moment les cotisations ont été envoyées par la poste et, de ce fait, que le délai imparti pour déposer des avis d’opposition à ces avis de cotisation n’est pas expiré et qu’elle a droit à une prorogation de délai pour déposer les avis d’opposition relatifs à ces années-là. Elle est d’avis, subsidiairement, que le gouvernement n’a même pas prouvé que les cotisations avaient été envoyées par la poste. Elle soutient qu’en l’espèce, les mesures de perception de l’Agence du revenu du Canada (l’« ARC »), en rapport avec les années en question, sont sans fondement juridique.
+LES FAITS [2] Je passerai tout d’abord en revue les faits relatifs à la question de la « date d’exécution ». M. et Mme Burke se sont mariés le 30 juin 1984 et ils ont eu deux enfants, nés le 2 mai 1988 et le 23 mai 1990. Il est clair que Mme Burke est extrêmement fière de ses enfants, qui sont aujourd’hui d’âge adulte. M. et Mme Burke se sont séparés en janvier 1992. M. Burke a contribué à supporter les dépenses familiales jusqu’en janvier 1993, date à laquelle il a cessé de faire des paiements, et Mme Burke s’est sentie obligée de demander le divorce, ce qu’elle a fait en avril 1993. Le 27 mai 1993, la juge Greer de la Cour de l’Ontario (Division générale) a ordonné : [traduction] « l’intimé paiera à la requérante la somme de 1 450 $ par mois à titre de pension alimentaire provisoire pour enfants ». M. Burke a recommencé à verser des paiements en novembre 1993.
+[3] À l’automne de 1996, Mme Burke a pris connaissance des nouvelles Lignes directrices sur les pensions alimentaires, qui prévoyaient qu’il ne serait plus nécessaire d’inclure les paiements de pension alimentaire pour enfants dans le revenu du bénéficiaire. Elle a tenté de négocier une entente financière avec M. Burke, ce qui a abouti à un échange de lettres entre leurs avocats respectifs :
+i) Lettre datée du 19 septembre 2000, de l’avocat de M. Burke, Me Thompson Rogers, à l’avocate de Mme Burke, Me Bonwyn Patterson :
+[traduction]
+« 3. Le revenu de mon client, selon sa déclaration de revenus pour 1998 de mon client, s’élevait à 121 588 $. C’était pour une période de douze mois, et non de neuf comme vous l’indiquez. Mon client acceptera de verser, rétroactivement au 1er janvier 1999, des paiements mensuels de 1 465 $ au titre de la pension alimentaire pour enfants.
+Pourriez-vous demander à votre cliente s’il serait possible de régler cette affaire selon les conditions énoncées dans nos lettres respectives? »
+ii) Lettre du 5 décembre 2001 de Me Patterson à Me Thompson Rogers :
+[traduction]
+« J’ai maintenant eu l’occasion d’examiner avec ma cliente le contenu de votre lettre du 19 septembre 2000 et d’obtenir ses instructions quant à la teneur de la proposition de règlement de votre client. Voici ses réponses aux points évoqués dans votre lettre. […]
+3. Ma cliente acceptera le paiement de 1 465 $ au titre de la pension alimentaire pour enfants, pourvu que votre client fournisse une preuve attestée sous serment quant à son niveau de revenu actuel, ce qui confirmerait que la somme de 1 465 $ est le juste montant d’après les Lignes directrices sur les pensions alimentaires pour enfants, et pourvu aussi que votre client convienne de payer les deux tiers du coût des activités extrascolaires des enfants. »
+iii) Lettre datée du 7 mars 2001 de Me Thompson Rogers à Me Bonwyn Patterson :
+[traduction]
+« La position de mon client est la suivante :
+1. Garde : acceptable.
+3. Pension alimentaire pour enfants : mon client acceptera de payer la somme de 1 465 $ par mois. Il gagne à l’heure actuelle moins de 120 000 $ par année et, s’il était nécessaire de procéder à une vérification de revenu, cela réduirait les paiements de pension alimentaire. Nous suggérons donc de conserver le montant de 1 465 $ par mois.
+8. Acceptable.
+9. Acceptable.
+Veuillez communiquer de nouveau avec moi après avoir eu l’occasion de vous entretenir avec votre cliente. »
+[4] Mme Burke n’avait pas produit de déclaration de revenus pendant un certain nombre d’années, mais elle l’a fait en 2007 à la demande de l’ARC. Selon elle, l’ARC lui a conseillé d’inclure les paiements de pension alimentaire dans son revenu, ce qu’elle a fait pour les années en question.
+[5] En septembre 2009, Mme Burke a déposé les appels dont il est question en l’espèce devant la Cour canadienne de l’impôt pour les années d’imposition 1996 à 2003, ainsi que 2006 et 2007. Fait intéressant, l’ARC a établi la cotisation relative à l’année 2004 en partant du principe que le nouveau régime s’appliquait à Mme Burke et qu’elle n’avait donc pas à inclure dans son revenu les paiements de pension alimentaire pour enfants.
+[6] Le 11 décembre 2009, Mme Burke a obtenu l’ordonnance suivante de la juge Allen, de la Cour supérieure de justice de l’Ontario :
+[traduction]
+La Cour ordonne sur consentement :
+1. L’intimé et la requérante confirment leur entente selon laquelle la totalité des paiements de pension alimentaire pour enfants que l’intimé a faits depuis le 1er mai 1997 en faveur de la requérante ont été versés en vertu des Lignes directrices sur les pensions alimentaires pour enfants, et l’historique des paiements versés est joint ci-après en tant qu’annexe A.
+2. L’intimé continuera de payer à lui seul les frais d’études postsecondaires des deux enfants, soit Geoffrey Burke, né le 2 mai 1988, et Shannon Burke, née le 23 mai 1990, jusqu’à ce qu’ils aient terminé quatre années d’études de premier cycle. Cela comprendra les dépenses suivantes :
+a) les frais de scolarité non payés par ailleurs par une bourse d’études ou une subvention;
+b) les livres et les fournitures;
+c) les droits de résidence et le forfait alimentaire;
+d) les déplacements à destination ou en provenance de l’Ontario;
+e) les frais des déplacements liés à des activités sportives;
+f) l’argent de poche (75 $ par semaine, par enfant);
+g) les frais d’appels téléphoniques faits par téléphone cellulaire et interurbains.
+3. Les paiements de pension alimentaire pour enfants de base que l’intimé paie à la requérante, de 1 250 $ par mois, prendront fin le 1er juin 2010 (la dernière date de paiement) et, conformément au mécanisme actuel, les fonds seront déposés directement par l’intimé dans le compte bancaire de la requérante le premier de chaque mois.
+[…]
+Annexe A
+1997 : mai à décembre
+11 600,00 $
+1998 : janvier à décembre
+17 400,00 $
+1999 : janvier à décembre
+17 400,00 $
+2000 : janvier à décembre
+17 400,00 $
+2001 : janvier à décembre
+17 400,00 $
+2002 : janvier à décembre
+17 400,00 $
+2003 : janvier à décembre
+17 400,00 $
+2004 : janvier à décembre
+24 000,00 $
+2005 : janvier à décembre
+24 000,00 $
+2006 : janvier à décembre
+24 000,00 $
+2007 : janvier à décembre
+22 500,00 $
+2008 : janvier à décembre
+17 250,00 $
+2009 : janvier à décembre
+15 000,00 $
+[7] Par un choix fait le 2 septembre 2011 au moyen du formulaire T1157, Mme Burke et son ex-époux ont opté pour que les paiements de pension alimentaire pour enfants ne soient ni imposables ni déductibles à compter du 1er mai 1997.
+[8] Avant de m’attaquer à ce bourbier que représentent les dates et les lieux où des cotisations ont été envoyées pour les années 1996 à 1999, je signale que Mme Burke, avec un maigre revenu et peu d’instruction, a élevé seule et avec succès (peu importe la façon dont on définit cette notion) ses deux enfants jusqu’à ce qu’ils deviennent de jeunes adultes. Pour des raisons d’ordre économique, il lui a fallu déménager à plus d’une occasion, et retourner à une occasion au moins vivre chez ses parents. Je vais maintenant tenter de démêler les faits entourant les avis de cotisation, précisément au sujet des années 1996 à 1999.
+[9] Comme je l’ai indiqué, Mme Burke, soucieuse de réduire le plus possible ses dépenses, a changé de lieux de résidence. En fait, en 1996, elle a emménagé avec ses deux jeunes enfants au domicile de ses parents, situé au 157, avenue Church, à Toronto, où elle a vécu jusqu’en 2000. Elle n’a pas produit de déclarations pendant un certain nombre d’années au cours de cette période, mais n’a commencé à le faire qu’après que l’ARC en eut fait la demande en 2006. En septembre 2007, elle a produit ses déclarations relatives aux années 1996, 1997, 1998, 2000, 2001 et 2002. À ce moment-là, elle vivait au 2911, avenue Bayview, à Toronto, mais elle semble malheureusement avoir inscrit comme adresse le 2311, Bayview, dans les déclarations relatives à 2000, 2001 et 2002, qui ont été établies par H&R Block. Nous n’avons aucune trace des déclarations concernant les années 1996 ou 1997. La déclaration relative à l’année 1998 comporte une adresse dactylographiée : 157, avenue Church, mais elle est biffée et remplacée par l’adresse 2911, Bayview, inscrite à la main. Mme Burke a émis l’hypothèse que c’est peut-être une agente de l’ARC, Sharon, avec laquelle elle communiquait à l’époque, qui est responsable du changement d’adresse sur la déclaration relative à 1998, car Mme Burke lui avait dit de s’assurer que l’ARC avait sa bonne adresse : on l’a amenée à croire que Sharon allait faire les changements nécessaires.
+[10] Mme Burke a quitté le 2911, Bayview, en octobre 2008, en vue de s’installer dans un logement à deux chambres à coucher moins coûteux, situé au 15, Laidlaw, à Toronto. Elle en a avisé l’ARC.
+[11] Le 4 décembre 2006, Mme Burke a reçu un avis de nouvelle cotisation concernant son année d’imposition 2004 à la bonne adresse, soit le 2911, Bayview, mais son nom était mal écrit. Le 5 novembre 2007, elle a également reçu une lettre de l’ARC au sujet de ses déclarations relatives aux années 2000 et 2003, là encore adressée correctement au 2911, Bayview. Peu après, en novembre 2007, elle a reçu des avis de nouvelle cotisation pour les années 2000 à 2003 envoyés au 2911, Bayview. Il semble qu’entre la fin de 2006 et la fin de 2007, l’ARC avait la bonne adresse de Mme Burke. Toutefois, en février 2008, l’ARC a envoyé à Mme Burke un état de compte au 157, Church. Ce document faisait état de montants à payer pour les cotisations relatives aux années 1996 et 1997, lesquelles, était-il indiqué, portaient la date du 4 février 2008. Des avis de cotisation reconstitués pour les années d’imposition 1996 et 1997 comportent comme adresse le 157 Church, tandis que l’avis reconstitué pour l’année 1998, qui est daté du 20 novembre 2007, indique qu’il a été envoyé au 2911, Bayview.
+[12] L’intimée a produit un imprimé informatique interne, qui fait le suivi de l’adresse d’un contribuable. Cet imprimé indique le 2911, Bayview, comme étant l’adresse de Mme Burke du mois de mai 2006 au 11 janvier 2008, date à laquelle il indique comme adresse le 157, Church, mais, à la même date, soit le 11 janvier 2008, il fait également état d’un envoi postal renvoyé, vraisemblablement depuis cette adresse, mais non traité avant le 3 mars 2008. Le document indique ensuite qu’à compter du 6 mars 2008, traité à la même date, le changement d’adresse a été annulé pour revenir au 2911, Bayview. Ce qui s’est passé au début de 2008 pour créer la confusion entourant les adresses est un mystère. La seule possibilité est que l’on s’est fondé sur la déclaration relative à l’année 1998, produite en septembre 2007 et indiquant comme adresse le 157, Church, bien que l’ARC ait continué de correspondre par la suite avec Mme Burke au 2911, Bayview; par ailleurs, la déclaration comportait l’adresse du 2911, Bayview, biffée, et Mme Burke a déclaré qu’elle avait éclairci toute la situation avec Sharon, l’agente de l’ARC.
+[13] Mme Burke soutient n’avoir jamais reçu les cotisations relatives aux années 1996 à 1999.
+[14] D’après sa réponse, l’intimée affirme que les avis de cotisation relatifs aux années 1996, 1997 et 1998, et portant la date du 4 février 2008, du 4 février 2008 et du 20 novembre 2007, respectivement, ont été envoyés à [traduction] « l’adresse postale que l’appelante avait indiquée dans sa déclaration de revenus pour 1998 qui avait été produite le 10 septembre 2007 ». Mais rappelons que la déclaration comportait l’adresse du 157, Church, biffée, et celle du 2911, Bayview, inscrite à la main. De quelle adresse l’intimée parle-t-elle? Les avis reconstitués montrent que l’adresse du 157, Church, a été utilisée pour les années 1996 et 1997, et l’adresse du 2911, Bayview, pour l’année 1998.
+[15] Les avis de cotisation reconstitués pour l’année 1999 indiquent comme date le 5 septembre 2006, et eux aussi ont été envoyés au 2911, Bayview. Ce fait est confirmé dans un état de compte de l’ARC daté du 13 juillet 2007 et transmis à Mme Burke au 2911, Bayview. La déclaration de revenus pour 1999 qui se trouve dans le recueil conjoint de documents (déclaration non estampillée au moment de sa réception) porte la signature de Mme Burke et est datée du 3 octobre 2007. Contrairement à la déclaration relative à l’année 1998 et aux déclarations relatives aux années 2000 à 2003, ce document n’indique pas qu’il a été établi par H&R Block. L’intimée a toutefois convenu que la déclaration relative à l’année 1999 avait été produite le 31 octobre 2007.
+[16] Le 4 avril 2008, Mme Burke a demandé au ministre du Revenu national (le « ministre ») une prorogation du délai imparti pour déposer un avis d’opposition concernant les années d’imposition 1999 à 2003 et 2006. Par une lettre datée du 15 mai 2008, le ministre a rejeté la prorogation concernant l’année d’imposition 1999.
+[17] Le 12 juin 2009, par une lettre transmise par son cabinet d’avocats, Gowlings, Mme Burke a demandé au ministre une prorogation du délai prévu pour signifier des avis d’opposition concernant les années d’imposition 1996 à 1999, [traduction] « si tant est que ces avis de cotisation ou de nouvelle cotisation aient bel et bien été mis à la poste ».
+[18] Il y avait nettement plus d’éléments de preuve sur les cotisations ou les lettres que l’ARC a envoyées à Mme Burke, mais je n’en ai trouvé aucun qui aide à décider si l’intimée a prouvé que des cotisations relatives aux années d’imposition 1996 à 1999 avaient été envoyées à la bonne adresse de Mme Burke. Il m’apparaît clairement que des erreurs ont été commises des deux côtés.
+[19] La représentante de l’ARC que l’intimée a fait comparaître au procès était l’agente d’appel. Celle-ci a témoigné qu’une déclaration relative à l’année 1999 n’avait pas été produite, ce qui est contraire à ce qu’indique l’exposé conjoint des faits. Elle n’a pas pu expliquer pourquoi les dossiers internes de l’ARC semblaient indiquer qu’au début de l’année 2008, l’adresse avait changé pour le 157, Church. Elle ne savait pas personnellement où et à quelle adresse les divers avis de cotisation avaient été envoyés. Elle n’était pas non plus au courant de la procédure qui avait été utilisée pour reconstituer les avis. Elle était agente d’appel. L’intimée n’a produit aucun autre témoin ni aucun affidavit en vue d’établir que les avis de cotisation relatifs aux années 1996 à 1999 avaient été postés à la bonne adresse.
+[20] Par des avis de nouvelle cotisation datés du 13 novembre 2007, le ministre a modifié les années d’imposition 2000 à 2003, de sorte que les paiements de 17 400 $ au titre de la pension alimentaire pour enfants étaient à inclure dans le revenu de Mme Burke. Cette dernière avait inclus cette somme à titre de paiement de pension alimentaire pour enfants dans ses déclarations se rapportant à toutes les années en question, à l’exception de celle concernant l’année 2006, dans laquelle elle avait déclaré 24 000 $. Elle a déposé des avis d’opposition en rapport avec les années 2000 à 2003, ainsi que 2006 et 2007.
+[21] Dans le cadre de ses appels, Mme Burke demande à la Cour une prorogation du délai imparti pour déposer des avis d’opposition concernant les années d’imposition 1996 à 1999.
+LES POINTS EN LITIGE [22] L’appelante soutient qu’il y a en l’espèce deux points en litige :
+a) si une ordonnance ou une entente concernant les montants de pension alimentaire pour enfants que Mme Burke a reçus avait le 1er mai 1997 comme « date d’exécution » au sens de la Loi de l’impôt sur le revenu (la « Loi »), ce qui aurait pour résultat que tous les paiements de pension alimentaire pour enfants qui ont été versés depuis cette date d’exécution ne seraient pas inclus dans son revenu;
+b) s’il convient d’accorder à Mme Burke une prorogation du délai imparti pour déposer des avis d’opposition concernant ses années d’imposition 1996 à 1999. Subsidiairement, Mme Burke déclare que, si elle n’a pas droit à cette prorogation, il y a lieu de se demander si le ministre lui a posté ou non des avis de cotisation concernant les années d’imposition 1996 à 1999. Sinon, soutient-elle, il n’existe aucune cotisation valide qui permettrait au ministre de prendre des mesures de recouvrement. Selon l’intimée, il s’agit plutôt de savoir si la Cour a compétence pour entendre les appels relatifs aux années 1996 à 1999.
+Analyse Les avis d’opposition concernant les années 1996 à 1999 [23] Examinons en premier lieu les années d’imposition 1998 et 1999, ainsi que la demande de prorogation du délai imparti pour déposer des avis d’opposition. Contrairement aux années d’imposition 1996 et 1997, les avis reconstitués qui se rapportent aux années 1998 et 1999 indiquent qu’ils ont été adressés à la bonne adresse de Mme Burke. Cette dernière a toutefois déclaré ne les avoir jamais reçus, quoiqu’elle ait tout de même déposé auprès du ministre, le 4 avril 2008, une demande de prorogation du délai imparti pour déposer un avis d’opposition concernant l’année d’imposition 1999, une demande que le ministre a rejetée le 15 mai 2008. Mme Burke a réitéré cette demande le 12 juin 2009 pour les quatre années qui s’étendent de 1996 à 1999. Maintenant, dans le cadre de ses appels, elle demande à la Cour de lui accorder une prorogation de délai en vue de déposer des avis d’opposition concernant l’ensemble de ces quatre années-là.
+[24] L’appelante fait valoir qu’étant donné que le ministre n’est pas en mesure d’établir les dates auxquelles les avis de cotisation ont été mis à la poste, il ne peut pas confirmer que le délai que limite par ailleurs la Loi en vue de la signification d’un avis d’opposition est expiré. Il s’agit là d’une façon différente de dire qu’aucune cotisation n’a été valablement établie, ce qui est l’argument subsidiaire de l’appelante.
+[25] Pour ce qui est d’une demande présentée à la Cour pour obtenir une prorogation de délai en vue de déposer un avis d’opposition, les paragraphes 166.2(1), (2) et (5) de la Loi énoncent ce qui suit :
+166.2(1) Le contribuable qui a présenté une demande en application de l’article 166.1 peut demander à la Cour canadienne de l’impôt d’y faire droit après :
+a) le rejet de la demande par le ministre;
+b) l’expiration d’un délai de 90 jours suivant la présentation de la demande, si le ministre n’a pas avisé le contribuable de sa décision.
+Toutefois, une telle demande ne peut être présentée après l’expiration d’un délai de 90 jours suivant la date de la mise à la poste de l’avis de la décision au contribuable.
+(2) La demande se fait par dépôt au greffe de la Cour canadienne de l’impôt, conformément à la Loi sur la Cour canadienne de l’impôt, de trois exemplaires des documents visés au paragraphe 166.1(3) et de trois exemplaires de l’avis visé au paragraphe 166.1(5)
+[…]
+(5) Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande a été présentée en application du paragraphe 166.1(1) dans l’année suivant l’expiration du délai par ailleurs imparti pour signifier un avis d’opposition ou présenter une requête;
+b) le contribuable démontre ce qui suit :
+(i) dans le délai par ailleurs imparti pour signifier l’avis ou présenter la requête, il n’a pu ni agir ni charger quelqu’un d’agir en son nom, ou il avait véritablement l’intention de faire opposition à la cotisation ou de présenter la requête,
+(ii) compte tenu des raisons indiquées dans la demande et des circonstances de l’espèce, il est juste et équitable de faire droit à la demande,
+(iii) la demande a été présentée dès que les circonstances le permettaient.
+[26] Pour obtenir gain de cause devant la Cour canadienne de l’impôt à la suite d’une demande de prorogation de délai en vue de déposer un avis d’opposition, il faut donc que Mme Burke prouve que :
+(i) si le ministre a rejeté une demande en application du paragraphe 166.1(1) de la Loi (la demande de prorogation de délai présentée au ministre), la demande soumise à la Cour a été présentée dans un délai de 90 jours suivant la date à laquelle la contribuable a été avisée de la décision du ministre;
+(ii) la demande dont il est question au paragraphe 166.1(1) de la Loi a été présentée dans l’année suivant l’expiration du délai imparti pour signifier l’avis d’opposition;
+(iii) dans le délai de 90 jours imparti pour déposer l’avis d’opposition, Mme Burke n’a pu agir ou avait véritablement l’intention de faire opposition;
+(iv) il est juste et équitable d’obtenir la prorogation;
+(v) Mme Burke a présenté la demande visée au paragraphe 166.1(1) de la Loi dès que les circonstances le permettaient.
+[27] Pour ce qui est de l’année d’imposition 1999, Mme Burke n’a pas surmonté le premier obstacle. Le ministre a rejeté sa demande présentée en vertu du paragraphe 166.1(1) de la Loi en avril 2008 et l’en a avisée en mai 2008. Elle n’a pas présenté de demande à la Cour dans le délai requis de 90 jours. L’appelante soutient que, si l’on tient pour acquis que les avis de cotisation ou de nouvelle cotisation ont été mis à la poste pour les années 1998 et 1999, l’intimée n’a pas prouvé la date de mise à la poste et le délai demeure donc ouvert. Si je conclus - et c’est le cas - que les avis de cotisation relatifs aux années 1998 et 1999 ont été mis à la poste, il s’ensuit qu’en présentant au ministre la demande visée au paragraphe 166.1(1) de la Loi, il y a une certaine reconnaissance de la part de Mme Burke qu’elle était au courant de ce fait, manifestement avant d’avoir mis à la poste la demande visée au paragraphe 166.1(1) de la Loi. Il n’existe peut-être pas de preuve concluante de la part de l’intimée quant au moment exact où les avis ont été mis à la poste, mais je ne puis faire abstraction des exigences procédurales précises de la Loi. Lorsqu’un contribuable demande une prorogation au ministre, ce que Mme Burke a fait en avril 2008, et que cette demande est rejetée, ce qui a été le cas en mai 2008, le contribuable – Mme Burke en l’occurrence – bénéficie d’un délai de 90 jours pour présenter une demande à la Cour. Elle ne l’a pas fait et ne peut pas prétendre maintenant que cela importe peu parce qu’il n’existe aucune preuve de la date à laquelle l’avis de cotisation a été mis à la poste, ce qui revient en fait à choisir à quelle règle elle se conformera ou non. Après avoir décidé de présenter au ministre la demande visée au paragraphe 166.1(1) de la Loi, il lui incombait de suivre la procédure qu’elle avait choisie pour poursuivre son opposition. Elle ne l’a pas fait.
+[28] La Cour n’a pas compétence pour faire droit à une demande de prorogation du délai imparti en vue de déposer un avis d’opposition relatif à l’année d’imposition 1999, si cette demande a été présentée après le délai de 90 jours que prévoit le paragraphe 166.2(1) de la Loi. La demande est annulée.
+[29] En ce qui concerne l’année d’imposition 1998, Mme Burke a déposé sa déclaration relative à cette année-là le 10 septembre 2007. L’avis de cotisation que le ministre a reconstitué indique le 20 novembre 2007 comme date d’envoi par la poste. Mme Burke a déclaré n’avoir jamais reçu cet avis. Le 12 juin 2009, Mme Burke, par l’entremise de son avocat, a présenté au ministre une demande visée à l’article 166.1 de la Loi, en vue d’obtenir une prorogation du délai imparti pour déposer un avis d’opposition relatif aux [traduction] « avis de cotisation ou de nouvelle cotisation concernant les années d’imposition 1996, 1997, 1998 et 1999 de Julie (les “années d’imposition”), si tant est que ces avis de cotisation ou de nouvelle cotisation aient bel et bien été mis à la poste ». Le ministre n’a pas répondu.
+[30] Si l’avis de cotisation relatif à l’année 1998 a été mis à la poste le 20 novembre 2007, Mme Burke avait jusqu’au 19 février 2008 pour présenter au ministre une demande de prorogation du délai imparti pour déposer un avis d’opposition, à défaut de quoi il lui serait impossible de présenter une demande à la Cour en vertu de l’alinéa 166.2(5)a) de la Loi. L’appelante soutient que les présomptions selon lesquelles les avis sont réputés avoir été établis le jour de leur envoi (paragraphe 244(15) de la Loi), la date de mise à la poste est présumée être la date inscrite sur l’avis (paragraphe 244(14) de la Loi) et cet avis est réputé avoir été reçu à cette date-là (alinéa 248)7)a) de la Loi) sont réfutables. Il incombe au ministre d’établir si les avis ont été mis à la poste et à quel moment. L’appelante soutient que le ministre n’est pas parvenu à le faire, faisant référence aux commentaires qu’a faits la Cour d’appel fédérale dans l’arrêt Her Majesty The Queen v. 236130 British Columbia Ltd.[1] :
+12. Le juge de la Cour de l’impôt a d’abord relevé qu’il incombait au ministre de prouver que les avis de nouvelle cotisation avaient été envoyés à temps. Cependant, il a reconnu que, dans un organisme tel que l’ARC, il est impossible de produire une preuve directe de la date de mise à la poste d’un document particulier et que le mode de preuve à appliquer est celui qui est énoncé dans la décision Schafer c. La Reine, [1998] GSTC 60 (CCI) (Schafer), et qui a été appliqué par la Cour dans l’arrêt Kovacevic c. La Reine, [2003] GSTC 112 (CAF) (Kovacevic).
+13. Dans l’affaire Schafer, le juge Bowman (son titre à l’époque) a exposé le critère de la manière suivante :
+[23] Dans une grande organisation comme un ministère, un cabinet d’avocats ou d’experts-comptables ou une société, où le courrier envoyé chaque jour est volumineux, il est pratiquement impossible de trouver un témoin pouvant jurer qu’il a déposé au bureau de poste une enveloppe adressée à telle ou telle personne. Le mieux qu’on puisse faire est de décrire en détail les étapes suivies, par exemple le fait d’adresser les enveloppes, d’y insérer des documents, d’apporter les enveloppes à la salle du courrier et de livrer le courrier au bureau de poste.
+14. Dans l’arrêt Kovacevic, la Cour a approuvé cet énoncé, mais en y apportant une nuance :
+[16] Je conviens que lorsque la loi exige qu’un document soit envoyé par courrier ordinaire par une grande organisation comme un ministère, mais qu’elle n’exige pas que ce soit fait par courrier recommandé ou certifié ou qu’il y ait une preuve d’un moyen d’envoi plus formel, la remarque du juge Bowman dans la décision Schafer est raisonnable. En général, il suffit donc d’énoncer dans un affidavit, souscrit par la dernière personne en autorité qui a traité le document avant qu’il soit soumis à la procédure normale d’envoi du bureau, la description de cette procédure.
+[31] Cette approche a été confirmée et suivie par le juge en chef adjoint Rossiter dans la décision 741290 Ontario Inc. v. R.[2] :
+31. L’élément commun de toutes ces décisions est l’obligation incombant au ministre de soumettre une preuve établissant que les avis de cotisation ou d’évaluation ont été mis à la poste. Il est rare qu’un témoignage puisse être fourni par quelqu’un au sein de l’ARC qui se rappelle avoir envoyé un avis de cotisation ou d’évaluation en particulier, et l’ARC s’acquitterait normalement de cette obligation en soumettant des affidavits ou en citant des témoins à témoigner au sujet de la procédure d’établissement d’un avis de cotisation et des formalités habituelles de mise à la poste suivies par l’ARC (voir par exemple le type de preuve soumise dans la décision Abraham v. R., [2004] 5 C.T.C. 2149 (C.C.I.)). La preuve produite par l’ARC se verra accorder plus de poids lorsqu’un plus grand nombre de détails de la procédure sont donnés et que la preuve soumise n’est pas compromise lors du contre-interrogatoire.
+[32] De plus, il ressort clairement du commentaire qu’a fait la Cour d’appel fédérale dans l’arrêt Aztec Industries Inc. v. The Queen[3] que le fait qu’un contribuable ait connaissance d’une cotisation alléguée n’est pas une preuve de la date de mise à la poste.
+[33] Selon la demande de prorogation que son avocat a présentée en juin 2009, Mme Burke se demandait toujours si une cotisation avait été établie pour l’année 1998, bien que l’ARC lui ait bel et bien envoyé à sa bonne adresse, le 28 décembre 2007, un état de compte indiquant qu’une cotisation avait été établie pour l’année 1998. Selon cet état de compte, Mme Burke devait la somme d’environ 86 000 $, somme dont Mme Burke reconnaît avoir discuté avec Sharon, l’agente de l’ARC. Est-ce suffisant pour conclure que la cotisation a été mise à la poste avant cela? Non. L’appelante souligne ce que la Cour d’appel fédérale a déclaré dans l’arrêt Aztec : « [l]e fait que le ministre fait valoir une demande, dont une partie a été payée par la contribuable, directement ou par personne interposée, ne constitue pas la preuve de l’existence ou de l’envoi par la poste de ces avis de cotisation ». Ceci étant dit avec égards, un état de compte qui fait mention d’une cotisation relative à l’année 1998 ainsi que d’un montant exigible peut être une certaine preuve de l’existence d’une cotisation, mais pas plus qu’un avis reconstitué, sans rien d’autre. Toutefois, cela ne prouve certainement pas la date de la mise à la poste.
+[34] Je conclus qu’une cotisation a été établie pour l’année 1998, mais aussi que l’intimée n’a pas été en mesure de prouver la date de mise à la poste. Cela crée une situation quelque peu inusitée.
+[35] L’argument de l’appelante au sujet de l’année 1998 est que, dans ces circonstances, le délai imparti pour déposer un avis d’opposition demeure ouvert, encore que cela semble aller à l’encontre de la conclusion tirée par la Cour d’appel fédérale dans l’arrêt Aztec, à savoir qu’il est impossible de s’opposer à une cotisation dont l’existence n’a pas été prouvée. Il y a cependant une autre façon de considérer la situation. Il est clair qu’à un moment donné, Mme Burke a personnellement reçu une copie de l’avis de cotisation relatif à l’année 1998, quoique ce n’ait été que sous la forme d’un avis reconstitué, la seule possible d’ailleurs si l’original a tout bonnement disparu. La forme que revêt la demande de prorogation que l’appelante a présentée au ministre le 12 juin 2009, à savoir que les oppositions concernaient des cotisations, si tant est que ces dernières aient été mises à la poste, me donne à penser qu’il s’agit d’une opposition continue, entrant en vigueur sur preuve d’une mise à la poste ultérieure ou, je dirais, sur preuve de la réception proprement dite d’avis, voire d’avis reconstitués. L’appelante maintenait sagement la demande ouverte. Cela étant, sans avoir à décider exactement à quel moment l’un ou l’autre de ces faits sont survenus, je suis disposé à considérer qu’il n’y a aucune preuve concluante que les avis ont été mis à la poste avant le 12 juin 2009, mais il y a une preuve que Mme Burke a reçu un avis reconstitué, ce qui a eu lieu après le 12 juin 2009, et que la demande de prorogation entre en vigueur à cette date-là. Cependant, par suite de cette conclusion, il est évident que le dépôt de l’avis d’opposition coïncide avec la réception de la cotisation et qu’il se situe donc dans le délai de 90 jours qui est imparti en vue de faire opposition. Il n’y a donc pas de délai à proroger, car l’avis d’opposition relatif à 1998 a été présenté dans le délai prescrit. D’un point de vue pratique, qu’est-ce que cela signifie? Cela signifie que je puis examiner l’année 1998 en me fondant sur la question de savoir si les paiements de pension alimentaire pour enfants devraient être inclus dans le revenu de Mme Burke. L’autre voie qu’il est possible de suivre serait d’autoriser le ministre à répondre à l’avis d’opposition, soit en faisant droit à la thèse de Mme Burke, soit en délivrant un avis de confirmation, et en s’orientant ensuite vers un autre procès – ce qui serait peu probable, compte tenu de mes conclusions à venir sur la question de fond. Non, il paraît plus sensé de traiter simplement l’année 1998 de la même façon que les années, 2000 à 2003 et 2006 à 2007, dans lesquelles des avis d’opposition ont été déposés dans le délai prescrit.
+[36] Ce raisonnement s’applique-t-il aux années d’imposition 1996 et 1997, étant donné que les avis reconstitués qui concernent ces deux années indiquent qu’ils ont été envoyés à la mauvaise adresse? Il est plus difficile de conclure que des avis n’ont jamais été mis à la poste dans cette situation, mais il s’ensuit tout de même que Mme Burke, à un moment donné, a eu en sa possession les avis de cotisation reconstitués qui s’appliquaient à ces années-là. Cela étant le cas, mon raisonnement s’applique également à ces années, et je conclus donc que les avis d’opposition ont été déposés dans le délai prescrit.
+[37] Cette conclusion relative à l’année d’imposition 1996 n’accorde aucune réparation à Mme Burke, car celle-ci n’a présenté aucun argument quant au fait de savoir pourquoi les paiements de pension alimentaire pour enfants relatifs à l’année 1996 ne devraient pas être inclus dans son revenu, car ils datent manifestement d’avant le mois de mai 1997. C’est peut-être la raison pour laquelle l’appelante a fait valoir, subsidiairement, qu’il n’y avait pas eu de cotisation du tout. Cependant, même si je devais accueillir cette position subsidiaire, je conclus qu’elle n’aiderait pas la cause de l’appelante. Je traiterai de cet argument subsidiaire.
+[38] Mme Burke fait valoir qu’une cotisation envoyée à la mauvaise adresse n’est pas valide. Feu le juge Dussault, dans la décision Massarotto v. R.[4], analyse l’effet de cette conclusion :
+16. Ainsi, non seulement le requérant affirme-t-il n’avoir jamais reçu l’avis de cotisation mais il appert que cet avis ne lui aurait jamais été envoyé à son adresse personnelle par le Ministre. D’ailleurs, je note que dans sa Réponse à la demande de prorogation de délai, l’intimée n’allègue aucunement que l’avis de cotisation a été envoyé au requérant ou à une autre personne. Aucune preuve n’a été présentée à cet égard, l’intimée n’ayant fait entendre aucun témoin et n’ayant produit aucun affidavit.
+17. Il a été établi qu’une cotisation n’est complète donc valide que si l’émission de la cotisation est suivie de l’envoi d’un avis au contribuable concerné. À cet égard, on peut se référer au jugement de la Cour de l’Échiquier dans l’affaire Scott v. M.N.R., 60 DTC 1273, [1960] C.T.C. 402. Plus récemment, la Cour d’appel fédérale réaffirmait ce principe en s’appuyant sur le paragraphe 152(2) de la Loi de l’impôt sur le revenu dans l’affaire Aztec Industries Inc. v. The Queen, 95 DTC 5235 (à la page 5237), [1995] 1 C.T.C. 327 (à la page 330). Dans cette affaire, le contribuable, qui avait présenté sa demande tardivement tout comme dans le cas présent, alléguait non seulement qu’il n’avait pas reçu l’avis de cotisation mais qu’un tel avis n’avait jamais été émis. Le juge Hugessen, en rendant le jugement pour la Cour, souligne bien que dans les circonstances, il revenait au Ministre de prouver l’existence de l’avis de cotisation et la date de sa mise à la poste puisque ces faits sont normalement à sa connaissance et les moyens de preuve sous son contrôle.
+[…]
+26. […] Dans les circonstances, j’estime que le Ministre n’a pas démontré qu’une cotisation complète et valide a été établie à l’égard du requérant. Par voie de conséquence, j’estime que le Ministre ne saurait recouvrer les sommes réclamées en vertu de cette prétendue cotisation. À cet égard, on peut se référer à la décision du juge Bowman de cette Cour dans l’affaire Rick Pearson Auto Transport Inc. (précitée, note 2).
+27. En application du principe énoncé par la Cour d’appel fédérale dans l’affaire Aztec Industries Inc. (précitée) je dois donc rejeter la présente demande de prorogation du délai pour faire opposition au motif que le Ministre n’a pas prouvé la validité de la cotisation en ce qu’il n’a pas établi que l’avis de cotisation avait été envoyé au requérant.
+[39] L’avocat de l’appelante, Me Sorensen, va plus loin que cela et invoque les commentaires de l’ancien juge en chef Bowman dans la décision Rick Pearson Auto Transport Inc. v. Canada[5] :
+7. […] le ministre du Revenu national ne peut fonder une demande de paiement de taxe sur une prétendue cotisation. Le fait pour le ministre de considérer le rejet de la demande comme donnant aux fonctionnaires du ministère du Revenu national le droit de poursuivre la perception de la taxe due en vertu de la prétendue cotisation dont l’existence n’a pas été prouvée, ou de conserver les sommes perçues en vertu d’une telle cotisation, ne respecterait pas le sens de la décision de la Cour d’appel fédérale et la rendrait inopérante. Permettre au ministre d’agir ainsi reviendrait en fait à permettre au ministère du Revenu national d’utiliser à son avantage l’incapacité de l’État de prouver l’existence d’une cotisation.
+8. En rejetant la demande, je me trouve implicitement à conclure qu’il n’existe aucune cotisation sur laquelle le ministre peut se fonder. Le pouvoir de cette cour d’arriver à une telle conclusion est nécessaire, à mon avis, pour permettre à la Cour d’exercer sa compétence et de traiter la demande présentée en vertu du paragraphe 304(4) de la Loi sur la taxe d’accise d’une manière qui cadre avec la décision de la Cour d’appel fédérale dans l’affaire Aztec. […]
+9. Il y a lieu de voir également l’arrêt Procureur général du Canada c. Law Society of British Columbia, [1982] 2 R.C.S. 307, dans lequel le juge Estey, se prononçant au nom de tous les membres de la cour, déclarait à la page 330 :
+· Il est établi depuis longtemps que les cours ayant compétence pour rendre une première ordonnance peuvent également rendre des ordonnances supplémentaires ou prescrire les modalités d’application de la première ordonnance. De même, les cours ayant compétence relativement à un litige déterminé ont également compétence pour ordonner le maintien du statu quo en attendant une décision sur toutes les réclamations présentées, même si cette ordonnance, considérée isolément, peut ne pas être du ressort de la cour.
+[40] En fait, l’appelante soutient que, si l’existence d’une cotisation n’est pas prouvée, ce qui est le cas si la preuve indique qu’une cotisation a été envoyée à la mauvaise adresse, l’ARC n’est donc pas en droit de poursuivre la perception de l’impôt à payer d’après la cotisation alléguée.
+[41] Je souscrirais à cette thèse si la cotisation alléguée majorait le montant de revenu et, de ce fait, le montant d’impôt à payer par le contribuable à un niveau supérieur à celui que ce dernier a déclaré. En l’espèce, cependant, si nous éliminons une cotisation quelconque, il nous reste l’autocotisation de Mme Burke, qui a produit sa déclaration relative à l’année 1996 en tenant pour acquis que les paiements de pension alimentaire pour enfants étaient inclus à juste titre dans son revenu. Il importe peu de savoir pourquoi elle a produit sa déclaration de cette façon; c’est ce qu’elle a bel et bien fait.
+[42] Le texte du paragraphe 152(3) de la Loi est libellé ainsi :
+152(3) Le fait qu’une cotisation est inexacte ou incomplète ou qu’aucune cotisation n’a été faite n’a pas d’effet sur les responsabilités du contribuable à l’égard de l’impôt prévu par la présente partie.
+[43] Un contribuable qui déclare un certain montant de revenu n’a-t-il pas à payer de l’impôt sur ce montant parce que l’ARC ne peut pas prouver l’existence d’une cotisation? L’appelante, qui se fonde sur les décisions Massarotto et Pearson pour répondre oui à cette question, étire le raisonnement exposé dans ces deux affaires au-delà de leur application restreinte. Dans ces deux affaires, la dette fiscale semble découler de la cotisation; dans la présente affaire, la dette fiscale découle de la déclaration produite par la contribuable même. Cela n’aide donc pas la cause de Mme Burke de conclure qu’il n’y a pas eu de cotisation pour l’année d’imposition 1996. Je rejette l’appel relatif à cette année-là.
+[44] Ayant conclu que des avis d’opposition ont été présentés dans le délai prescrit pour les années 1997 et 1998, il est inutile de considérer une partie des présents appels comme une demande de prorogation de délai. Il n’est donc pas nécessaire non plus d’analyser l’argument technique de l’intimée selon lequel l’appelante a omis de produire trois copies des documents, soit les avis d’opposition, avec sa demande fondée sur l’article 166.2 de la Loi, ainsi que l’exige le paragraphe 162.2(2) de la Loi, encore que l’intimée ne m’ait pas convaincu que cela entraînerait le rejet de la demande de Mme Burke.
+[45] L’appel relatif à l’année 1996 est rejeté et la demande présentée en 1999 en vue d’obtenir une prorogation est annulée, mais les appels relatifs aux années 1997 et 1998 seront traités en tenant pour acquis que les avis d’opposition ont été présentés dans le délai prescrit.
+La date d’exécution
+[46] L’appelante soutient qu’elle tombe sous le coup du régime postérieur à avril 1997 pour ce qui est de la pension alimentaire pour enfants, parce qu’elle avait une « date d’exécution » postérieure à avril 1997. Aux termes de l’alinéa 56(1)b) de la Loi, les montants de pension alimentaire pour enfants que reçoit un contribuable après une « date d’exécution » ne sont pas inclus dans le revenu.
+[47] La date d’exécution est définie au paragraphe 56.1(4) de la Loi :
+56.1(4) « date d’exécution » Quant à un accord ou une ordonnance :
+a) si l’accord ou l’ordonnance est établi après avril 1997, la date de son établissement;
+b) si l’accord ou l’ordonnance est établi avant mai 1997, le premier en date des jours suivants, postérieur à avril 1997 :
+(i) le jour précisé par le payeur et le bénéficiaire aux termes de l’accord ou de l’ordonnance dans un choix conjoint présenté au ministre sur le formulaire et selon les modalités prescrits,
+(ii) si l’accord ou l’ordonnance fait l’objet d’une modification après avril 1997 touchant le montant de la pension alimentaire pour enfants qui est payable au bénéficiaire, le jour où le montant modifié est à verser pour la première fois,
+(iii) si un accord ou une ordonnance subséquent est établi après avril 1997 et a pour effet de changer le total des montants de pension alimentaire pour enfants qui sont payables au bénéficiaire par le payeur, la date d’exécution du premier semblable accord ou de la première semblable ordonnance,
+(iv) le jour précisé dans l’accord ou l’ordonnance, ou dans toute modification s’y rapportant, pour l’application de la présente loi.
+J’ai précisément affaire aux sous-alinéas b)(i) de la Loi (pour ce qui est du choix) et b)(iv) de la Loi (pour ce qui est de l’ordonnance datée de 2009).
+[48] L’appelante est d’avis que, conformément à l’ordonnance datée de 2009 de la juge Allen et au formulaire de choix conjoint T1157 que Mme et M. Burke ont signé, la date d’exécution est le 1er mai 1997; de plus, cela concorde avec une interprétation textuelle, contextuelle et téléologique de la « date d’exécution ». Subsidiairement, les lettres que se sont échangées les avocats des Burke constituaient une entente qui a, elle aussi, fait entrer en jeu le 1er mai 1997 comme date d’exécution.
+[49] L’intimée est d’avis que l’ordonnance de 2009, bien qu’elle ait pu modifier l’ordonnance de 1993, indique que les Burke ont confirmé leur entente selon laquelle les paiements étaient faits sous le régime des nouvelles Lignes directrices sur les pensions alimentaires pour enfants; cependant, l’appelante n’a présenté à la Cour aucune entente de ce genre. Par ailleurs, l’ordonnance ne peut pas avoir d’effet rétroactif.
+[50] Pour ce qui est du formulaire de choix conjoint T1157, l’intimée soutient qu’il n’est pas raisonnable, et donc sans effet, de déposer un tel choix en septembre 2011 pour des années remontant à 1997. Enfin, pour ce qui est des lettres que les avocats se sont échangées, l’intimée fait valoir que ces dernières ne constituent pas une entente.
+[51] L’appelante a longuement débattu de l’interprétation textuelle, contextuelle et téléologique de l’expression « date d’exécution ». Sans relever précisément une ambiguïté quelconque dans l’interprétation textuelle, l’intimée a fait valoir qu’il convient de mettre fortement l’accent sur l’interprétation contextuelle et téléologique. Je trouve qu’il y a, dans le texte de la définition, une ambiguïté qui pourrait amener à se fonder davantage sur l’interprétation contextuelle et téléologique. Cette ambiguïté a trait à une question de moment. Est-il clair qu’un formulaire de choix conjoint T1157, ou une ordonnance ultérieure, ne peuvent être que de nature prospective, ou peuvent-ils être de nature rétroactive? Il n’y a pas dans le libellé précis de la disposition même une limite temporelle qui pourrait dénoter que le choix ou l’ordonnance ne peuvent prendre effet qu’à compter de la date du choix ou de l’ordonnance.
+[52] J’entends analyser l’interprétation des mots « date d’exécution » dans le contexte de l’argument de l’appelante selon lequel le choix conjoint crée une date d’exécution. Quelle est donc l’interprétation textuelle de cette définition d’une date d’exécution que l’on trouve au sous-alinéa 56.1(4)b)(i) de la Loi? Pour dire les choses simplement, la date d’exécution est la date spécifiée comme telle par le payeur et le bénéficiaire dans un choix conjoint qui est déposé auprès du ministre selon la forme et les modalités prescrites. L’intimée n’a pas laissé entendre que le formulaire de choix conjoint T1157 n’avait pas été déposé selon la forme et les modalités prescrites (en fait, on ne m’a fait part d’aucune modalité prescrite); juste qu’il ne serait pas raisonnable qu’il y ait un effet rétroactif. L’intimée aurait voulu que je considère que la disposition comporte la restriction suivante :
+À la condition que cette date soit postérieure à la date du dépôt du choix conjoint.
+Cette interprétation empêcherait les couples séparés, n’ayant découvert l’existence du régime postérieur à avril 1997 que quelques mois ou années après le fait, de convenir de tirer avantage du nouveau régime ou de déposer à cette fin un choix conjoint.
+[53] Selon une interprétation strictement textuelle, il semble ne pas y avoir de restriction temporelle qui empêche de déposer un choix conjoint après le 1er mai 1997 pour qu’il prenne effet à cette date-là. Il peut y avoir des situations, contrairement à celle qui m’est soumise en l’espèce, où le délai prévu pour demander une déclaration modifiée (paragraphe 152(4.2) de la Loi) ou s’opposer à une certaine année d’imposition est depuis longtemps expiré avant que l’on fasse une tentative pour modifier le revenu du contribuable pour cette année-là, au moyen, soit d’un choix conjoint, soit d’une déclaration modifiée. Il est inutile que je tente d’envisager tous les scénarios possibles de ce genre. En l’espèce, j’ai affaire à un choix conjoint dûment déposé, portant sur des années d’imposition qui sont bel et bien valides quant au droit qu’a la contribuable de faire examiner par la Cour les cotisations qui s’appliquent à ces années-là. Ces dernières me sont soumises, et je dispose en preuve d’un choix conjoint, qui comporte, selon une interprétation textuelle, le 1er mai 1997 en tant que date d’exécution.
+[54] Examinons maintenant sous un angle contextuel et téléologique la définition de la date d’exécution afin de déterminer si, selon cette interprétation, le choix conjoint des Burke ne créerait pas une date d’exécution, car il a été en quelque sorte présenté trop tard.
+[55] Sans passer en revue le long historique de ce qui a précédé le changement législatif apporté en 1997, il ressort de manière tout à fait claire des décisions rendues au milieu des années 1990 (Moge c. Moge[6]; Marzetti c. Marzetti[7]; Willick c. Willick[8]; Thibaudeau c. Canada[9]) qu’il y avait du changement dans l’air. Le juge Iacobucci a décrit de manière succincte la situation dans l’arrêt Marzetti :
+Il faut aussi prendre en considération des objectifs connexes d’ordre public. Comme l’a reconnu récemment le juge L’Heureux‑Dubé dans l’arrêt Moge c. Moge, [1992] 3 R.C.S. 813, « [i]l n’y a pas de doute […] que le divorce et ses répercussions économiques » (p. 854) jouent un rôle dans la « féminisation de la pauvreté » (p. 853). Une interprétation de la loi susceptible de contribuer à faire disparaître ce rôle est préférable à une interprétation qui ne l’est pas.
+[Non souligné dans l’original.]
+[56] Le gouvernement, après de longues consultations et la formation d’un groupe de travail sur le traitement fiscal des pensions alimentaires pour enfants, a modifié la loi. Comme l’a déclaré le président de ce groupe de travail[10] :
+Enfin, les femmes qui élèvent leurs enfants toutes seules n’auront pas à payer d’impôt sur l’argent destiné à leurs enfants. Enfin, elles recevront des niveaux de pensions équitables. Elles sauront que les pensions alimentaires rentreront ponctuellement. Et enfin, leur prestation fiscale pour enfants sera doublée.
+Ces mesures sont le fruit du travail de notre gouvernement dans le meilleur intérêt des enfants et le fruit de la longue démarche vers l’égalité des femmes.
+[57] Dans un document intitulé « Budget en bref – 1996 », du ministre des Finances de l’époque, M. Paul Martin, on peut lire[11] :
+Les mesures reposent sur le principe que les pensions alimentaires pour enfants ne sont pas discrétionnaires : c’est la première obligation des parents, et ces pensions doivent subvenir aux besoins de l’enfant et non constituer un revenu pour les parents.
+[Non souligné dans l’original.]
+[58] Le 1er mai 1997, les Lignes directrices fédérales sur les pensions alimentaires sont entrées en vigueur. Sous la rubrique « Modification d’une ordonnance ou d’une entente concernant la pension alimentaire pour enfants », les Lignes directrices indiquent[12] :
+Les Lignes directrices fédérales sur les pensions alimentaires pour enfants sont entrées en vigueur le 1er mai 1997. En vertu des lignes directrices, les personnes qui ont une ordonnance ou une entente écrite de pension alimentaire pour enfants datant d’avant le 1er mai 1997 peuvent la modifier suivant les lignes directrices et les nouvelles règles fiscales décrites ci-dessous, même si rien d’autre n’a changé. […]
+[…]
+3. Modifier la façon dont les versements actuels de pension alimentaire pour enfants sont traités aux fins de l’impôt
+Si vous et l’autre parent décidez ensemble de ne pas changer le montant de la pension alimentaire et de modifier simplement la façon de le traiter aux fins de l’impôt, vous pouvez le faire très facilement.
+Les deux parents peuvent signer le formulaire T1157 de l’Agence du revenu du Canada, intitulé Choix à l’égard de la pension alimentaire pour enfants et le transmettre à l’Agence. Le fait de signer ce formulaire ne modifie aucunement les conditions d’une ordonnance du tribunal ou d’une entente écrite antérieure au 1er mai 1997, sauf en ce qui a trait à la façon dont les versements sont traités aux fins de l’impôt.
+[59] À l’évidence, cela vise les membres des couples qui se sont séparés après que la loi a changé, car, est-il dit : « les Lignes directrices […] sont entrées en vigueur le 1er mai 1997 ». Elles invitent les couples à convenir du changement en présentant un choix conjoint ou en sollicitant une ordonnance. Elles ne laissent pas entendre que la date d’entrée en vigueur de l’inclusion dans le nouveau régime est la date de la présentation d’un choix, mais que le couple peut faire en sorte que tous les paiements effectués à compter du 1er mai 1997 soient assujettis au nouveau régime.
+[60] Le but du nouveau régime est clair : les règles ont été conçues pour amoindrir les difficultés qu’éprouvent les parents ayant la garde d’enfants, des mères habituellement, après l’échec d’un mariage, tout en reconnaissant que la pension alimentaire pour enfants, de par sa nature même, n’est pas un revenu que l’on reçoit. Vu la situation de Mme Burke, je conclus que les nouvelles règles visent directement une personne qui se trouve dans sa position.
+[61] Ces dispositions législatives, qui ont radicalement modifié l’imposition des pensions alimentaires pour enfants, sont une forme de législation en matière d’assistance sociale. Là où il existe une certaine ambiguïté, il ne faudrait pas l’interpréter de manière à faire échec à son objet même. Il s’agit là d’une approche qui a été confirmée par la Cour d’appel fédérale dans l’arrêt Villani c. Canada[13] :
+L’article 12 de la Loi d’interprétation, L.R.C. (1985), ch. I-21 dispose comme suit :
+12. Tout texte est censé apporter une solution de droit et s’interprète de la manière la plus équitable et la plus large qui soit compatible avec la réalisation de son objet.
+L’adoption de ce principe général a aboli la distinction traditionnelle entre les lois pénales et les lois réparatrices pour les fins de l’interprétation des lois […] En vertu de cette distinction traditionnelle, les lois pénales étaient interprétées de façon stricte alors que les lois réparatrices recevaient une interprétation large et libérale. La méthode libérale suivie pour les lois réparatrices découle de la notion que ces lois ont une fin de bienfaisance que les tribunaux doivent s’efforcer de respecter.
+Au Canada, les tribunaux ont été particulièrement soucieux de donner une interprétation libérale à ces prétendues « lois sociales ». Dans l’arrêt Rizzo & Rizzo Shoes Ltd. (Re), [1998] 1 R.C.S. 27, au paragraphe 36, la Cour suprême a insisté sur le fait que les lois conférant des avantages doivent être interprétées de façon libérale et généreuse et que tout doute découlant de l’ambiguïté des textes doit se résoudre en faveur du demandeur. Cette méthode d’interprétation de la loi conçue pour accorder un avantage social a été adoptée dans bon nombre des décisions de la Cour suprême traitant de la Loi de 1971 sur l’assurance‑chômage […]
+[62] Je ne trouve dans une interprétation contextuelle ou téléologique de l’expression « date d’exécution » aucun appui qui permette de décréter qu’un choix conjoint présenté après le 1er mai 1997 au sujet d’années soumises à bon droit à la Cour ne peut pas entrer en vigueur le 1er mai 1997. Il n’y a rien dans le texte de la définition législative ou dans les Lignes directrices fédérales sur les pensions alimentaires pour enfants qui rejetterait expressément cette interprétation – c’est tout le contraire. Je fais droit aux appels relatifs aux années d’imposition 1997, 1998, 2000 à 2003, ainsi que 2006 et 2007.
+[63] Il est inutile que je traite du fait que l’appelante s’est fondée sur l’ordonnance de 2009 ou de l’entente qui a pu être conclue entre M. Burke et Mme Burke d’après les lettres que leurs avocats se sont échangées. Je dirais cependant qu’on ne m’a pas convaincu que ces lettres constituaient une entente : leur libellé n’étaye tout simplement pas une telle conclusion.
+[64] Pour ce qui est de l’ordonnance de 2009, je suis influencé par le raisonnement de la Cour d’appel fédérale dans l’arrêt Dangerfield v. R.[14] :
+Il faut permettre aux juges et aux parties aux accords de préciser différentes dates de prise d’effet ou d’exécution pour différentes parties des diverses ordonnances qu’ils élaborent. Certaines ordonnances ou parties d’ordonnances sont même rétroactives. Cette approche est conforme au but législatif de la disposition, à savoir offrir un allégement fiscal aux conjoints ayant la garde à la suite de la rupture de la famille. Il faut éviter une interprétation inutilement technique privant les conjoints qui ont la garde de l’allégement fiscal qui leur est accordé par le législateur. Le jugement qui a été rendu dans l’affaire Veilleux c. R., [2002] CAF 201 étaye ce point de vue. Dans cet arrêt, le juge Létourneau a dit ce qui suit :
+[...] il m’apparaît important de ne pas adopter une interprétation si restrictive d’une disposition législative qu’elle, [...], triture l’intention du législateur au regard de cette disposition [...]
+À mon avis, une date d’exécution a été précisée dans ce cas-ci à l’égard des versements à effectuer au titre de la pension alimentaire. Telle était clairement l’intention du juge qui a rendu l’ordonnance en question. […]
+Il ressort également clairement de la documentation qu’une date d’exécution était précisée, ce qui démontre que les parties voulaient préciser une date d’exécution en vue du paiement de la pension alimentaire pour enfants afin d’éviter de payer l’impôt sur les versements effectués conformément à la nouvelle législation. De toute évidence, le juge de la Cour de l’impôt croyait comprendre que c’est ce que voulaient la demanderesse et son avocat.
+[65] L’intimée n’a pas pu me fournir d’éléments jurisprudentiels contraires. En me fondant sur la présente affaire et sur mon opinion au sujet de l’interprétation de la date d’exécution qui s’applique dans le cas du choix conjoint, je conclus que l’ordonnance de 2009 crée, elle aussi, une date d’exécution.
+[66] En résumé :
+a) l’appel relatif à l’année 1996 est rejeté;
+b) la demande de prorogation de délai en vue de présenter un avis d’opposition pour l’année d’imposition 1999 est annulée;
+c) les appels relatifs aux années 1997, 1998, 2000, 2001, 2002, 2003, 2006 et 2007 sont accueillis et renvoyés au ministre pour nouvel examen et nouvelle cotisation, étant entendu que les paiements de pension alimentaire pour enfants ne sont pas à inclure dans le revenu de l’appelante.
+Les parties sont priées de présenter à la Cour des observations écrites sur les dépens avant la fin du mois de novembre 2012. Si je ne reçois pas leurs observations, les dépens sont adjugés à l’appelante, conformément au tarif de la Cour.
+Signé à Toronto (Ontario), ce 24e jour d’octobre 2012.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 8e jour de février 2013.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2012 CCI 378
+No DU DOSSIER DE LA COUR : 2009-2921(IT)G
+INTITULÉ : JULIE BURKE ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Les 4 et 5 octobre 2012
+MOTIFS DU JUGEMENT : L’honorable juge Campbell J. Miller
+DATE DU JUGEMENT : Le 24 octobre 2012
+COMPARUTIONS :
+Avocat de l’appelante :
+Me John Sorensen
+Avocat de l’intimée :
+Me Marcel Prevost
+AVOCATS INSCRITS AU
+DOSSIER :
+Pour l’appelante :
+Nom : John Sorensen
+Cabinet : Gowling Lafleur Henderson LLP
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 2007 DTC 5021 (CAF).
+[2] 2008 DTC 2713 (C.C.I.).
+[3] 95 DTC 5235 (C.A.F.).
+[4] 2000 GTC 802 (C.C.I.).
+[5] 4 GTC 3146 (C.C.I.).
+[6] [1992] 3 RCS 813.
+[7] [1994] 2 RCS 765.
+[8] [1994] 3 RCS 670.
+[9] [1995] 2 RCS 627.
+[10] Débats de la Chambre des communes, 35e Législature, 2e Session, no 1 (7 mars 1996), à la page 422 (hon. Sheila Finestone) (voir le mémoire, onglet 14). Des sentiments tels que ceux-ci résonnent dans tous les débats parlementaires de l’époque.
+[11] Ministère des Finances du Canada, « Budget en bref », Paul Martin, ministre des Finances, 6 mars 1996, à la page 15.
+[12] Les Lignes directrices fédérales sur les pensions alimentaires pour enfants – étape par étape (pages 28 et 29).
+[13] 2001 CAF 248, aux paragraphes 26 et 27.
+[14] 2004 DTC 6025 (C.A.F.).

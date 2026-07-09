@@ -1,0 +1,175 @@
+Title: Dwane D. Traverse (JT Trucking Co.) c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30323/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-345-30323-dwane-d-traverse-jt-trucking-co-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2010-11-08
+
+# Dwane D. Traverse (JT Trucking Co.) c. M.R.N.
+
+- Citation: 2010 CCI 345
+- Decision date: 2010-11-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8028, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dwane D. Traverse (JT Trucking Co.) c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-11-08
+Référence neutre
+2010 CCI 345
+Numéro de dossier
+2009-3461(EI)
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Référence : 2010 CCI 345
+Date : 20101108
+Dossiers : 2009-3461(EI),
+2009-3629(CPP)
+ENTRE :
+DWANE D. TRAVERSE FAISANT AFFAIRE SOUS LE NOM DE
+JT TRUCKING CO.,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT MODIFIÉS
+Le juge Bédard
+[1] Le ministre du Revenu national (le « ministre ») a conclu qu’au cours de la période allant du 1er janvier au 31 décembre 2007 (la « période en cause »), James Reyenga (le « travailleur ») exerçait un emploi assurable et ouvrant droit à pension au sens de l’alinéa 5(1)a) de la Loi sur l’assurance‑emploi (la « Loi ») et de l’alinéa 6(1)a) du Régime de pensions du Canada (le « RPC »). L’appelant interjette appel des décisions du ministre.
+[2] L’appelant exploitait une entreprise de camionnage; il transportait des conteneurs de Kitchener à Toronto pour Vitran Corporation (« Vitran »), son unique cliente. Au cours de la période en cause, l’appelant fournissait à Vitran un camion et un chauffeur. Il a embauché le travailleur comme chauffeur.
+[3] Selon la position prise par l’appelant, le travailleur était un entrepreneur indépendant et il n’était pas employé en application d’un contrat de louage de services.
+[4] Chaque affaire dans laquelle se pose la question de savoir si une personne est un employé ou un entrepreneur indépendant doit être tranchée selon les faits qui lui sont propres. Les quatre volets (le contrôle, la propriété des instruments de travail, les chances de bénéfice et les risques de perte) du critère énoncé dans les arrêts Wiebe Door Services Ltd. v. M.N.R., 87 DTC 5025, et 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] 2 R.C.S. 983, doivent se voir attribuer le poids qui convient eu égard aux circonstances de l’affaire. En outre, l’intention des parties au contrat est devenue, selon certains arrêts récents de la Cour d’appel fédérale, un facteur dont le poids semble varier d’un cas à l’autre (Royal Winnipeg Ballet c. M.R.N., 2006 CAF 87; Wolf c. Canada, [2002] 4 C.F. 396; City Water International Inc. c. Canada, 2006 CAF 350; Équipe de ski Capitale nationale de l’Outaouais c. M.R.N., 2008 CAF 132).
+[5] Les faits sur lesquels le ministre s’est fondé pour rendre ses décisions dans l’affaire du RPC (2009‑3629(CPP)) et dans l’affaire de l’AE (2009‑3461(EI)) sont énoncés comme suit au paragraphe 10 de chaque réponse à l’avis d’appel :
+[traduction]
+a) l’appelant exploitait une entreprise individuelle; (admis)
+b) l’entreprise de l’appelant s’occupait du transport de marchandises au moyen d’un camion gros porteur (l’« entreprise »); (admis)
+c) l’appelant agissait comme entrepreneur en transport indépendant pour Vitran Corporation, qui était un fournisseur de services de transport; (admis)
+d) l’appelant et son épouse, Keri‑Lee Traverse, prenaient les principales décisions concernant l’entreprise et ils exerçaient un contrôle sur les activités quotidiennes de l’entreprise; (admis)
+e) l’appelant a embauché le travailleur pour livrer des marchandises; (nié)
+f) le travailleur conduisait le camion de l’appelant de Kitchener à Toronto; (admis)
+g) le travailleur travaillait chaque semaine, du lundi au vendredi; (nié)
+h) le travailleur commençait à travailler entre 16 h et 18 h et finissait de travailler entre 4 h et 6 h; (nié)
+i) le travailleur effectuait normalement chaque jour deux ou trois voyages aller‑retour; (admis)
+j) chaque voyage durait environ 3,5 heures; (admis)
+k) le travailleur avait été embauché en application d’une entente écrite; (nié)
+l) le travailleur se présentait au bureau de l’appelant une fois ou deux par semaine; (nié)
+m) le travailleur se présentait également au bureau de Vitran; (admis)
+n) le travailleur allait chercher les conteneurs à l’entrepôt et les livrait selon les instructions de Vitran; (nié)
+o) le travailleur communiquait avec l’appelant pour toute question se rapportant au camion; (admis)
+p) le travailleur communiquait avec l’entrepôt pour tout question se rapportant aux matériaux ou aux travaux d’écritures; (admis)
+q) le travailleur était tenu de fournir ses services personnellement; (nié)
+r) le travailleur ne pouvait pas embaucher un remplaçant afin de fournir les services pour son compte; (nié)
+s) le travailleur était tenu de travailler uniquement pour l’appelant; (nié)
+t) le travailleur était tenu de posséder un permis de conduire de classe AZ; il devait avoir de l’expérience de conduite, et son dossier de conducteur devait être sans tache; (admis)
+u) Vitran assurait la formation du travailleur en ce qui concerne la manutention des marchandises dangereuses; (admis)
+v) il a été mis fin aux services du travailleur en raison d’une pénurie de travail; (nié)
+w) l’appelant fournissait le camion que le travailleur conduisait; (admis)
+x) l’appelant était propriétaire du camion; (admis)
+y) aucuns frais n’étaient exigés du travailleur pour l’utilisation du camion; (admis)
+z) le camion valait 120 000 $; (admis)
+aa) l’appelant était responsable de l’entretien du camion et des réparations y afférentes; (admis)
+bb) l’appelant fournissait au travailleur une carte de carburant pour lui permettre d’acheter de l’essence pour le camion; (admis)
+cc) l’appelant versait à Vitran une fraction du revenu afin de couvrir la prime d’assurance applicable au camion; (admis)
+dd) l’appelant fournissait au travailleur un téléphone cellulaire pour utilisation aux fins de l’entreprise seulement; (admis)
+ee) Vitran remboursait l’appelant de certains frais se rattachant au téléphone cellulaire; (admis)
+ff) l’appelant versait la cotisation du travailleur à la Commission de la sécurité professionnelle et de l’assurance contre les accidents du travail; (admis)
+gg) le travailleur n’engageait pas personnellement de dépenses lorsqu’il fournissait ses services à l’appelant; (nié)
+hh) l’appelant versait au travailleur un montant de 65 $ pour chaque voyage aller‑retour; (admis)
+ii) le travailleur touchait également un montant de 16 $ l’heure pour le temps d’attente en sus d’une heure; (admis)
+jj) le travailleur était rémunéré par chèque toutes les deux semaines; (admis)
+kk) le travailleur ne recevait pas de gratifications, de paie de vacances et d’avantages sociaux. (admis)
+Le témoignage de Keri-Lee Traverse
+[6] La femme de l’appelant a essentiellement présenté le témoignage suivant :
+a. L’appelant avait la possibilité d’élargir la portée du contrat qu’il avait conclu avec Vitran en vue d’inclure un poste de nuit, de sorte qu’il a décidé qu’il aurait avantage, sur le plan financier, à accepter l’offre de Vitran, à condition de pouvoir trouver quelqu’un qui était prêt à effectuer le poste de nuit;
+b. Le travailleur a été recruté après qu’une offre d’emploi eut été publiée dans un journal local;
+c. La femme de l’appelant a clairement informé le travailleur, lors de leur première rencontre, qu’il allait travailler comme entrepreneur indépendant et que, par conséquent, il devait déclarer son revenu à titre de revenu d’un travail indépendant. Elle a ajouté que le travailleur n’avait pas de réserves au sujet de la nature de la relation proposée par l’appelant;
+d. L’appelant a demandé au travailleur de signer un contrat (pièce R‑1) peu de temps après que celui‑ci eut été embauché. La femme de l’appelant a expliqué que ce contrat reflète l’entente orale conclue au début de la relation. Le contrat écrit est libellé comme suit :
+[traduction]
+Voyages pour le CN (Kitchener à Brampton à Kitchener) payés au taux de 65 $ par voyage.
+Le temps d’attente est payé au taux de 16 $ l’heure après la première heure au CN, un timbre du CN devant attester la chose, à défaut de quoi aucun paiement n’est effectué.
+0 à 15 minutes : 4 $
+16 à 30 minutes : 8 $
+31 à 45 minutes : 12 $
+46 à 59 minutes : 16 $
+Si aucun conteneur n’est disponible au CN, ou si la commande est expirée, le châssis doit être apporté chez Vitran, à Concord. Consulter le service d’acheminement de Vitran pour des instructions supplémentaires (rapporter le châssis vide ou le tracteur solo); le taux de rémunération est de 20 $ chaque fois que le châssis ou le tracteur est laissé chez Vitran, à Concord.
+Le téléphone cellulaire qui est dans le camion doit uniquement être utilisé aux fins de l’entreprise et doit rester dans le camion.
+Ravitaillement du camion – il faut faire le plein chez Hogg Fuel lorsque le réservoir n’est rempli qu’au quart; la carte de carburant fournie doit être utilisée à cette fin.
+Il s’agit d’un poste contractuel (sans retenue), avec rémunération aux deux semaines, sur présentation d’une facture. Une signature doit figurer sur chaque facture, une pour JT Trucking Co. et une pour l’employé.
+Nous vous prions de veiller à tenir le camion propre et à le conserver en bon état.
+La direction
+Lu et accepté le 8 mai 2007
+Dwane Traverse James R. Reyenga
+J.T. Trucking Co.
+Premier jour – 10 avril 2007
+Dernier jour – 23 octobre 2007
+Rémunération brute – 21 316 $
+e. Le témoin a communiqué avec le travailleur afin de l’aider à obtenir un numéro d’identification d’entreprise (le « NIE »);
+f. Le travailleur faisait rapport au témoin ou au mari du témoin uniquement si un problème se posait à l’égard du camion ou de Vitran;
+g. Le travailleur pouvait choisir le nombre de voyages qu’il effectuait chaque soir;
+h. Le travailleur aurait pu, avec la permission de Vitran, embaucher un remplaçant afin de fournir ses services. Le témoin a ajouté que le travailleur avait de fait embauché des remplaçants afin de fournir ses services, avec la permission de Vitran, et qu’elle n’avait pas eu son mot à dire sur ce point;
+i. Il n’a pas été mis fin aux services du travailleur à cause d’une pénurie de travail. Le témoin a expliqué que le travailleur avait tout simplement démissionné.
+Le témoignage du travailleur
+[7] Le travailleur, dont le témoignage semblait crédible, a déclaré ce qui suit :
+a. Il croyait comprendre qu’il avait été embauché à titre d’employé. Il a expliqué que, depuis qu’il travaillait comme chauffeur de camion, il avait toujours été un employé et que la relation qu’il entretenait avec l’appelant n’était pas différente de la relation qu’il avait entretenue avec ses autres employeurs, sauf que, contrairement à ces autres employeurs, l’appelant ne retenait pas de cotisation au titre de l’AE ou du RCP et n’en versait pas;
+b. La femme de l’appelant lui avait demandé de signer le contrat (pièce R‑1) peu de temps après qu’il eut commencé à travailler pour l’appelant. Il a ajouté qu’il ne comprend toujours pas ce que veut dire la disposition suivante du contrat : [traduction] « Il s’agit d’un poste contractuel (sans retenue) [...];
+c. Il était tenu de fournir ses services personnellement. Il a ajouté qu’il n’avait jamais embauché de remplaçant afin de fournir les services pour son compte;
+d. Il était tenu d’effectuer les voyages que Vitran lui demandait d’effectuer.
+[8] Quant à la question de l’intention, il s’agit de savoir s’il existe une preuve indiquant l’intention de l’appelant et du travailleur au sujet de la relation juridique qu’ils ont établie. En premier lieu, il importe de souligner que le contrat écrit ne permet pas de déterminer l’intention commune. En second lieu, la preuve orale sur ce point est contradictoire. Par conséquent, puisqu’il est impossible de déterminer l’intention des parties, il est tout à fait approprié, et de fait il est nécessaire, d’examiner tous les faits afin de savoir quelle est la relation juridique qui s’en dégage. Sur ce point, les quatre volets du critère énoncé dans l’arrêt Wiebe Door sont pertinents et utiles lorsqu’il s’agit de déterminer l’intention des parties au contrat et la nature juridique du contrat.
+[9] En ce qui concerne les faits, il s’agit de savoir quels sont les facteurs qui donnent à entendre que le travailleur était dans les affaires à son compte.
+Le contrôle
+i. Le travailleur n’était pas réellement sous la supervision directe de l’appelant.
+ii. Le travailleur était chauffeur de profession; il savait ce qu’il fallait faire et il connaissait tous les règlements applicables au transport de conteneurs.
+Les chances de bénéfice et les risques de perte
+iii. Le travailleur pouvait augmenter son revenu s’il travaillait pendant un plus grand nombre de jours.
+[10] Quels sont les facteurs qui donnent à entendre que le travailleur était un employé de l’appelant?
+Les instruments de travail et le matériel
+1. L’appelant fournissait tous les instruments de travail et le matériel nécessaires, y compris le camion.
+2. Vitran fournissait la remorque aux fins du transport des conteneurs.
+La responsabilité quant aux mises de fonds et à la gestion
+3. Le travailleur n’assumait aucune responsabilité de ce genre.
+Les chances de bénéfice et les risques de perte
+4. Le travailleur n’engageait pas de dépenses et il n’assumait aucune obligation l’exposant à un risque de perte.
+5. En fait, il n’y avait pour le travailleur aucune possibilité d’augmenter son revenu.
+Le contrôle
+6. Le travailleur recevait des instructions de Vitran. En fait, il se présentait chez Vitran tous les jours. Vitran lui assignait le travail. L’appelant déléguait à Vitran presque tous ses pouvoirs en ce qui concerne le travailleur.
+7. Le travailleur communiquait avec l’appelant au sujet de toute question se rattachant au camion.
+8. Le travailleur était tenu de suivre les instructions énoncées dans le contrat écrit (pièce R‑1).
+[11] Nous avons ici un travailleur qui, aux dires de l’appelant, était un entrepreneur indépendant et qui, pourtant, ne fournissait aucun camion pour sa présumée entreprise de transport par camion : le travailleur n’avait pas à souscrire une assurance pour le camion, il ne payait pas l’essence et il en fait n’était exposé à aucune responsabilité. Il se présentait tout simplement pour conduire le camion de l’appelant. Dans ces conditions, je ne puis voir comment une certaine absence de contrôle de la part de l’appelant, lorsqu’il s’agissait de superviser la façon dont le travailleur conduisait le camion, l’emporte sur la thèse générale selon laquelle le travailleur n’était pas dans les affaires à son compte.
+[12] Pour ces motifs, les appels sont rejetés.
+Signé à Ottawa, Canada, ce 8e jour de novembre 2010.
+« Paul Bédard »
+Juge Bédard
+Traduction certifiée conforme
+ce 24e jour décembre 2010.
+Hélène Tremblay, traductrice
+RÉFÉRENCE : 2010 CCI 345
+Nos DES DOSSIERS DE LA COUR : 2009-3461(EI), 2009-3629(CPP)
+INTITULÉ : DWANE D. TRAVERSE FAISANT AFFAIRE SOUS LE NOM DE JT TRUCKING CO.
+c.
+M.R.N.
+LIEU DE L’AUDIENCE : Hamilton (Ontario)
+DATE DE L’AUDIENCE : Le 3 juin 2010
+MOTIFS DU JUGEMENT
+MODIFIÉS : L’honorable juge Paul Bédard
+DATE DU JUGEMENT : Le 8 novembre 2010
+COMPARUTIONS :
+Représentante de l’appelant :
+Mme Keri-Lee Traverse
+Avocat de l’intimé :
+Me Khashayar Haghgouyan
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

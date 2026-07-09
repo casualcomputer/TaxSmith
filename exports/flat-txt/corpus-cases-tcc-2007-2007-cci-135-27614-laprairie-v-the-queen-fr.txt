@@ -1,0 +1,133 @@
+Title: Laprairie v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27614/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-135-27614-laprairie-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2007-03-07
+
+# Laprairie v. The Queen
+
+- Citation: 2007 CCI 135
+- Decision date: 2007-03-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 435, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Laprairie v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-03-07
+Référence neutre
+2007 CCI 135
+Numéro de dossier
+2006-2836(IT)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-2836(IT)I
+BETWEEN:
+LISABETH LAPRAIRIE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 14 février 2007, à Ottawa, Canada
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me Andrew Miller
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu (la « Loi ») pour l’année d’imposition 2004 est accueilli, et l’affaire est déférée au ministre du Revenu national en tenant pour acquis que l’appelante a le droit de demander un crédit pour des frais de scolarité de 7 692 $ en vertu de l’article 118.5 de la Loi et un crédit d’impôt pour études de 1 600 $ en vertu de l’article 118.6 de la Loi.
+Signé à Halifax (Nouvelle‑Écosse), ce 7e jour de mars 2007.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 19e jour de juin 2007.
+Marie-Christine Gervais, traductrice
+Référence : 2007CCI135
+Date : 20070307
+Dossier : 2006-2836(IT)I
+ENTRE :
+LISABETH LAPRAIRIE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] Pendant l’année 2004‑2005, l’appelante a suivi des cours dispensés par le Groupe École Supérieure de Commerce (l’ « ESC ») en France qui ont conduit à l’obtention d’une maîtrise ès arts, qui lui a été décernée en vertu de la charte royale de l’Open University, un établissement d’enseignement distinct. L’appelante a demandé des crédits pour les frais de scolarité et le montant relatif aux études en vertu des articles 118.5 et 118.6 de la Loi de l’impôt sur le revenu (la « Loi »). Le paragraphe 118.5(1) de la Loi prévoit en partie ce qui suit :
+118.5(1) Les montants suivants sont déductibles dans le calcul de l'impôt payable par un particulier en vertu de la présente partie pour une année d'imposition :
+[...]
+b) si, au cours de l'année, le particulier fréquente comme étudiant à plein temps une université située à l'étranger, où il suit des cours conduisant à un diplôme, le produit de la multiplication du taux de base pour l'année par le total des frais de scolarité payés à l'université pour l'année, à l'exception des frais qui ont été :
+(i) soit payés pour des cours d'une durée inférieure à 13 semaines consécutives,
+(ii) soit payés pour son compte par son employeur, dans la mesure où ils ne sont pas inclus dans le calcul de son revenu,
+(iii) soit payés pour son compte par l'employeur de son père ou de sa mère, dans la mesure où ces frais ne sont pas inclus dans le calcul du revenu de son père ou de sa mère par application du sous‑alinéa 6(1)b)(ix); [...]
+(Non souligné dans l’original.)
+[2] Les parties ne contestent pas le calcul du montant demandé, la question de savoir si l’appelante fréquentait l’établissement d’enseignement à plein temps ou même celle de savoir si les sous‑alinéas (i) à (iii) ci‑dessus s’appliquent. Les questions en litige en l’espèce sont de savoir si l’ESC était une université en 2004 et, le cas échéant, de savoir si le fait que le diplôme a été décerné par un établissement d’enseignement différent de celui fréquenté par l’appelante influe sur son droit de demander un crédit pour frais de scolarité.
+[3] Les mêmes questions ont été soulevées à l’égard du montant relatif aux études. Le paragraphe 118.6(2) de la Loi prévoit en partie ce qui suit :
+(2) Le montant obtenu par la formule suivante est déductible dans le calcul de l'impôt payable par un particulier en vertu de la présente partie pour une année d'imposition :
+A × B
+où :
+A représente le taux de base pour l'année;
+B la somme des produits suivants :
+a) 400 $ multipliés par le nombre de mois de l'année pendant lesquels le particulier est inscrit à un programme de formation admissible comme étudiant à temps plein d'un établissement d'enseignement agréé,
+[...]
+(Non souligné dans l’original.)
+[4] Les expressions « programme de formation admissible » et « établissement d'enseignement agréé » sont définies en partie ainsi au paragraphe 118.6 (1) :
+« programme de formation admissible » Programme d'une durée minimale de 3 semaines consécutives, aux cours ou aux travaux duquel l'étudiant doit consacrer 10 heures par semaine au moins et qui, s'il s'agit d'un programme d'un établissement visé à la définition de « établissement d'enseignement agréé » (sauf un établissement visé au sous‑alinéa a)(ii)), est de niveau postsecondaire [...]
+« établissement d'enseignement agréé »
+[...]
+b) université située à l'étranger, où le particulier mentionné au paragraphe (2) est inscrit à des cours d'une durée minimale de 13 semaines consécutives qui conduisent à un diplôme;
+(Non souligné dans l’original.)
+[5] La première question qui se pose est de savoir si l’ESC est une « université ». Dans la décision Gilbert [1999] 2 C.T.C. 2127, [1998] A.C.I. no 1091, le juge Mogan a mentionné ce qui suit :
+[16] Pour ce qui est de l'alinéa 118.5(1)b) considéré isolément, je n'ai aucun mal à conclure que, pour qu'un établissement soit une université au sens du passage précité, il doit avoir le pouvoir de décerner des diplômes.
+[6] L’appelante a présenté une copie d’une télécopie du doyen associé (enseignement) de l’ESC dans laquelle celui‑ci a mentionné ce qui suit :
+[traduction]
+L’ESC de Rennes a l’autorisation du ministère de l’Éducation français de décerner des diplômes de premier cycle ou de cycles supérieurs.
+[7] La télécopie est datée du 19 janvier 2007. L’appelante a déclaré dans son témoignage qu’elle n’avait eu connaissance d’aucune modification du statut de l’ESC de 2004 à 2007. Elle a également présenté une copie du programme de l’ESC, lequel confirmait aussi ce qui suit :
+[traduction]
+L’ESC de Rennes est reconnue par le gouvernement français comme un établissement d’enseignement supérieur acccrédité pour décerner des maîtrises.
+[8] L’intimée n’a présenté aucun élément de preuve semblant indiquer qu’on avait conféré à l’ESC le pouvoir de décerner des diplômes après 2004. Par conséquent, je conclus que, selon la prépondérance des probabilités, l’ESC avait le pouvoir de décerner des diplômes en 2004. Je conclus donc que l’ESC était une université en 2004.
+[9] La prochaine question et celle de savoir si le fait que le diplôme a été décerné par un établissement d’enseignement distinct a une incidence sur le crédit pour frais de scolarité ou le montant relatif aux études demandé par l’appelante. En ce qui concerne le crédit pour frais de scolarité, l’exigence prévue à l’alinéa 118.5(1)b) qui s’applique en l’espèce est le fait que l’appelante doit avoir « fréquent[é] […] une université située à l'étranger, où il sui[vait] des cours conduisant à un diplôme ». Cet alinéa ne prévoit pas que le diplôme doit avoir été décerné par la même université que celle fréquentée par le contribuable. Pour ce qui est de l’exigence prévue à l’alinéa 118.5(1)b), il suffit que les conditions suivantes soient remplies :
+a) l’appelante fréquente une université;
+b) les cours suivis par l’appelante conduisent à un diplôme.
+[10] Pour indiquer qu’il faut que le diplôme soit un diplôme qui serait décerné par la même université, il faudrait ajouter des mots à l’alinéa de la Loi, et les demandes de crédit pour frais de scolarité seraient refusées dans les cas où un contribuable particulier fréquenterait une université et suivrait des cours conduisant à un diplôme qui serait décerné par une autre université. Par exemple, selon cette interprétation, si une université dispensait la formation pour les deux premières années d’un programme d’ingénierie, mais ne décernait pas de diplômes en ingénierie (lesquels diplômes seraient décernés par une autre université à la fin du programme dans l’autre université), les étudiants fréquentant la première université verraient leurs demandes de crédits pour frais de scolarité refusées pour les frais de scolarité payés à cette première université. Certaines universités au Canada se retrouvent dans cette situation, et, si la même situation existe dans des universités à l’extérieur du Canada, cela ne doit pas, selon moi, entraîner le refus des crédits pour frais de scolarité demandés par les particuliers alors qu’ils fréquentent la première université.
+[11] Pour ce qui est du montant relatif aux études demandé, la définition de l’expression « établissement d’enseignement agréé » exige que le particulier fréquente une université où il suit des cours conduisant à un diplôme. L’article 118.6 ne prévoit pas que le diplôme doit être décerné par la même université que celle fréquentée par le particulier. Par conséquent, selon moi, il n’est pas nécessaire que le diplôme soit décerné par l’université fréquentée par le contribuable pour que celui‑ci ait droit au montant relatif aux études en vertu de l’article 118.6 de la Loi.
+[12] Par conséquent, l’appel de l’appelante est accueilli en totalité.
+Signé à Halifax (Nouvelle‑Écosse), ce 7e jour de mars 2007.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 19e jour de juin 2007.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE : 2007CCI135
+NO DU DOSSIER : 2006-2836(IT)I
+INTITULÉ : Lisabeth Laprairie c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Ottawa, Canada
+DATE DE L’AUDIENCE : Le 14 février 2007
+MOTIFS DU JUGEMENT PAR : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 7 mars 2007
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me Andrew Miller
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

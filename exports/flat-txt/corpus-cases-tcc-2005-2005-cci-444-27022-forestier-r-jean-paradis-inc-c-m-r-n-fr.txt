@@ -1,0 +1,148 @@
+Title: Forestier Réjean Paradis Inc. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27022/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-444-27022-forestier-r-jean-paradis-inc-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2005-10-05
+
+# Forestier Réjean Paradis Inc. c. M.R.N.
+
+- Citation: 2005 CCI 444
+- Decision date: 2005-10-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 632, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Forestier Réjean Paradis Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-10-05
+Référence neutre
+2005 CCI 444
+Numéro de dossier
+2004-1984(EI)
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2004-1984(EI)
+ENTRE :
+FORESTIER RÉJEAN PARADIS INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+CHRISTINE SERVAIS,
+intervenante.
+____________________________________________________________________
+Appel entendu le 8 juillet 2005, à Chicoutimi (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Représentant de l'appelante :
+Alain Savoie
+Avocat de l'intimé :
+Représentant de l'intervenante :
+Me Martin Gentile
+Alain Savoie
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi (la « Loi » ) est accueilli et la décision du ministre est modifiée en ce que le travail exécuté par l'intervenante, au bénéfice de Forestier Réjean Paradis inc., n'est pas un emploi assurable, conformément aux dispositions de l'alinéa 5(2)i) de la Loi, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 5e jour d'octobre 2005.
+« Alain Tardif »
+Juge Tardif
+Référence : 2005CCI444
+Date : 20051005
+Dossier : 2004-1984(EI)
+ENTRE :
+FORESTIER RÉJEAN PARADIS INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+CHRISTINE SERVAIS,
+intervenante.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Le 28 janvier 2004, l'appelante était informée que le travail exécuté par l'intervenante, Christine Servais, lors de la période allant du 1er janvier 2002 au 27 mai 2003, constituait un véritable contrat de louage de services et qu'il s'agissait d'un emploi assurable malgré l'existence d'un lien de dépendance entre les parties au contrat de travail.
+[2] L'appelante, Forestier Réjean Paradis inc., en appelle de cette décision
+[3] Pour expliquer et justifier la détermination dont il est fait appel, l'intimé a pris pour acquis les hypothèses de fait indiquées aux paragraphes 8 et 9 de la Réponse à l'avis d'appel; je reproduis ces hypothèses de fait :
+8. Le ministre a déterminé que Madame Christine Servais exerçait un emploi assurable auprès de l'appelante aux termes d'un contrat de louage de services, en s'appuyant sur les faits présumés suivants :
+a) L'appelante opère dans le domaine forestier et effectue de la coupe de bois sélective. (admis)
+b) Jusqu'en avril 2003, monsieur Réjean Paradis était le seul actionnaire de l'appelante. Depuis cette date, il possède 75 % des actions de l'appelante. (admis)
+c) Madame Servais possède 25 % des actions de l'appelante depuis le mois d'avril 2003. (admis)
+d) Madame Servais travaille pour l'appelante depuis 1999. (admis)
+e) Madame Servais est la conjointe de Monsieur Paradis, actionnaire majoritaire de l'appelante. (admis)
+f) L'établissement de l'appelante est situé au 1274 rue Roy à Normadin, soit la résidence personnelle de Monsieur Paradis et Madame Servais. (admis)
+g) L'appelante exerce ses activités à l'année. Cependant, durant la période de dégel, c'est-à-dire, pendant les mois de mars et avril, elle effectue l'entretien de sa machinerie. (admis)
+h) L'appelante opère 24 heures par jour du lundi au jeudi. Les opérations de l'entreprise cessent vendredi vers 13:30 heures. (nié)
+i) Vendredi après-midi, Monsieur Paradis effectue l'entretien de la machinerie. (nié)
+j) Madame Servais exerce les fonctions suivantes au sein de l'entreprise, notamment, effectuer les remises gouvernementales, préparer les payes, faire le paiement de factures, faire la tenue de livres et effectuer la comptabilité pour chaque fin de mois ainsi que faire des achats de pièces pour la machinerie. (nié tel que rédigé)
+k) Elle est tenue de rendre les services personnellement mais il est arrivé à l'occasion que Monsieur Paradis engage de l'aide supplémentaire. (admis)
+l) La travailleuse exerce ses fonctions à l'établissement de l'appelante.(admis)
+m) Madame Servais n'a jamais engagé sa responsabilité personnelle au sein de compagnie. Elle ne partage pas les chances de profits et les risques de pertes de l'entreprise. (nié)
+n) Madame Servais reçoit une rémunération hebdomadaire fixe de 550 $. Le paiement est fait par dépôt direct dans son compte personnel. (admis)
+o) Madame Servais a droit à trois semaines de vacances payées par année. (nié)
+p) La travailleuse suit une formation annuelle concernant les salaires qui est payée par l'appelante. De plus, elle assiste annuellement à un congrès concernant la machinerie. (admis)
+q) La travailleuse rend compte de son travail à Monsieur Paradis à chaque 3 semaines. Il arrive parfois que celui-ci appelle durant la semaine pour lui dire quelle pièce de machinerie acheter. (nié)
+r) Pour l'accomplissement de ses tâches, l'appelante fournit à la travailleuse un logiciel comptable, un télécopieur, un disque dur pour les données comptables, ainsi que des fournitures de bureau. (admis)
+s) La travailleuse fournit un ordinateur, une imprimante ainsi que son véhicule. (admis)
+t) L'appelante a émis, pour l'année 2002, un T4 supplémentaire au nom de la travailleuse. (admis)
+9. Le ministre a déterminé aussi que la travailleuse et l'appelante étaient réputées ne pas avoir de lien de dépendance entre eux dans le cadre de cet emploi car l'appelante auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance, compte tenu des circonstances suivantes : (nié)
+a) La travailleuse a toujours été rémunérée pour le travail effectué au sein de l'entreprise. (admis)
+b) La rémunération de la travailleuse a été déterminée par Monsieur Paradis et le comptable de l'appelante en tenant compte du travail à exécuter. (admis)
+c) Madame Servais travaille 5 jours par semaine et son horaire varie de 30 à 40 heures selon les besoins de l'entreprise. Ses heures ne sont pas consignées. (nié)
+d) Madame Servais est assujettie à la CSST et a aussi une assurance-maladie personnelle à la Caisse Populaire. (ignoré)
+e) Elle a droit à des vacances payées de trois semaines à chaque année. (nié)
+f) La travailleuse n'a jamais fourni de services, avant ou après la période en litige, sans être payée et elle a toujours été payée pour chaque période de paie. (nié tel que rédigé)
+g) Madame Servais exécute un travail important et nécessaire à la bonne marche de l'appelante. (admis)
+[4] Les alinéas 8a), b), c), d), e), f), g), k), l), n), p), r), s), t) et les alinéas 9 a) et g) ont été admis. Les autres alinéas ont été niés, ou l'appelante n'avait aucune connaissance à leur égard; il s'agit des 8h), i), j), m), o), q), et du début du paragraphe 9, ainsi que des alinéas 9b), c), d), e) et f).
+[5] Seuls le conjoint de la travailleuse et actionnaire majoritaire de la société appelante Forestier Réjean Paradis inc. et l'intervenante ont témoigné au soutien de l'appel. La personne responsable de l'analyse du dossier n'a pas témoigné.
+[6] À un moment donné, la travailleuse, qui travaillait à un centre d'accueil, a vu ses fonctions complètement modifiées en raison de compressions budgétaires, au point que son travail nuisait gravement à l'harmonie familiale, une préoccupation fondamentale pour elle et son conjoint, parents de deux enfants.
+[7] L'entreprise exploitée par son conjoint avait connu un certain essor et pouvait s'offrir les services d'une employée qui s'occuperait de tout ce qui concerne l'administration et la comptabilité, tout en permettant une très grande disponibilité pour faire des courses dont certaines seulement pouvaient avoir une dimension urgente.
+[8] La travailleuse a évalué que le travail d'administration qu'elle exécutait exigeait entre 15 et 20 heures par semaine à l'exception de quelques semaines avant la fermeture des livres à la fin de l'année fiscale. Le travail pour les courses n'était pas régulier puisque la plupart du temps, les courses devaient être effectuées à la suite d'un bris de l'équipement et de la machinerie que la société, dirigée par son conjoint, exploitait en forêt.
+[9] La travailleuse bénéficiait d'une très grande autonomie et liberté pour l'exécution du travail dont elle avait la responsabilité. Le travail était important, mais le soutien et l'encadrement de leurs deux enfants étaient des préoccupations qui prédominaient.
+[10] Lors de son embauche, la travailleuse ne détenait aucune action de la société. À un certain moment, madame Servais est devenue actionnaire et a acquis 25 % des actions avec droit de vote.
+[11] La relation de travail entre la travailleuse et son conjoint, qui dirigeait et contrôlait la société, n'avait strictement rien à voir avec les conditions du marché. Le contrat de travail était façonné et influencé par les préoccupations familiales. En d'autres termes, l'intervenante avait une réelle influence qui lui permettait de planifier elle-même son travail et décider seule ce qui était plus important entre les besoins des enfants et le travail pour l'appelante.
+[12] Les conditions de travail de madame Servais n'avaient strictement rien à voir à celles des autres employés et n'étaient pas comparables. D'abord, elle était la seule à effectuer le travail dont elle avait la responsabilité; ensuite, elle était seule à décider quand et comment elle ferait le travail.
+[13] La preuve a démontré d'une manière prépondérante que tout l'aspect relatif aux préoccupations familiales qui avaient des effets nombreux, directs et importants quant à la façon et au moment où était exécuté le travail, avait été occulté de l'analyse.
+[14] Seuls le travail, la durée et la rémunération ont été pris en compte; le contexte, le contenu et certains éléments découlant essentiellement du lien de dépendance n'ont pas reçu l'attention et la considération qui s'imposaient; en effet, les modalités de l'exécution du travail étaient largement façonnées par les exigences familiales.
+[15] La prépondérance de la preuve est à l'effet que la société contrôlée et dirigée par le conjoint de la travailleuse pouvait se permettre de retenir les services de la travailleuse. La vie familiale et l'éducation des enfants, qui participaient beaucoup aux sports, constituaient des préoccupations tout à fait fondamentales à l'égard desquelles ni la travailleuse ni son conjoint n'étaient prêts à faire de compromis, d'autant plus qu'ils en avaient le loisir. Ils ont décidé de créer un emploi sur mesure, où toutes leurs préoccupations tant familiales que professionnelles étaient bien servies.
+[16] Il ne s'agissait pas pour autant d'un emploi bidon; le travail était utile et nécessaire. Il aurait pu être exécuté par une tierce personne, possiblement à un coût moindre, mais certainement pas de façon aussi accommodante. Le travail était effectué d'une façon responsable et probablement efficace.
+[17] Il m'est apparu évident qu'à la suite du changement radical des conditions de travail de madame Servais au centre d'accueil, celle-ci et son conjoint se sont concertés pour créer un travail sur mesure où les préoccupations familiales occupaient l'espace primordial.
+[18] Compte tenu que l'étude et l'analyse ont omis de prendre en considération des éléments très pertinents et surtout étant donné que la conclusion retenue ne reflète aucunement l'ensemble des faits qui devaient être pris en considération, la détermination est donc, dans les circonstances, ni raisonnable, ni cohérente. Il y a donc lieu de réviser la détermination en tenant compte de tous les faits pertinents ci-avant décrits.
+[19] D'ailleurs, le paiement de la prime quelques milliers de dollars dans le cadre de vacances en Europe confirme le caractère très particulier de la relation de travail. Un autre élément est venu plus tard valider une telle conclusion. En effet, à un moment ultérieur à la période en litige, la société qui assumait la responsabilité de la rémunération de l'appelante a diminué son fardeau en ne payant que la moitié du salaire, l'autre moitié étant désormais payée par une autre société.
+[20] Un autre fait non moins important révélé par la preuve a été que l'intervenante était autorisée à signer les chèques seule. Pareille autorité était d'ailleurs cohérente avec ce que la preuve a dégagé, à savoir que la travailleuse avait des pouvoirs et une autorité qui dépassaient largement ceux qu'assument généralement les personnes n'ayant aucun lien de dépendance.
+[21] Pour toutes ces raisons, l'appel est accueilli au motif que le travail exécuté par l'intervenante au bénéfice de Forestier Réjean Paradis inc., n'est pas un emploi assurable, conformément aux dispositions de l'alinéa 5(2)i) de la Loi sur l'assurance-emploi.
+Signé à Ottawa, Canada, ce 5e jour d'octobre 2005.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2005CCI444
+NO DU DOSSIER DE LA COUR : 2004-1984(EI)
+INTITULÉ DE LA CAUSE : Forestier Réjean Paradis Inc.,
+c. M.R.N. et Christine Servais
+LIEU DE L'AUDIENCE : Chicoutimi (Québec)
+DATES
+Audience : le 8 juillet 2005
+Observations écrites de l'intimé : le 16 septembre 2005
+Réplique de la partie appelante : le 30 septembre 2005
+MOTIFS DU JUGEMENT PAR : L'honorable juge Alain Tardif
+DATE DU JUGEMENT : le 5 octobre 2005
+COMPARUTIONS :
+Représentant de l'appelante :
+Alain Savoie
+Avocat de l'intimé :
+Représentant de l'intervenante :
+Me Martin Gentile
+Alain Savoie
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l'appelante :
+Pour l'intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

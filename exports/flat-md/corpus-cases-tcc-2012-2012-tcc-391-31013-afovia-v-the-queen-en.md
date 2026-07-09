@@ -1,0 +1,402 @@
+---
+title: "Afovia v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31013/index.do"
+last_modified: "2012-11-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 391"
+citation2: ""
+neutral_citation: "2012 TCC 391"
+decision_date: "2012-11-08"
+language: "en"
+item_id: "31013"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4895
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:02:43.408000+00:00"
+cases_cited_count: 0
+cases_citing_count: 11
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "86713c0472ccf079690460d546623729722f032dac37fad1874be2cd9f3738b7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Afovia v. The Queen
+
+- Citation: 2012 TCC 391
+- Decision date: 2012-11-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4895, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Afovia v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-11-08
+Neutral citation
+2012 TCC 391
+File numbers
+2011-1674(IT)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-1674(IT)I
+BETWEEN:
+MAWUEWO K.J. AFOVIA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+__________________________________________________________________Appeal heard on common evidence with the appeals of
+Edoh Wilson (2011-1675(IT)I),
+Chantal Afovia (2011-1676(IT)I),
+Shama Bope (2011-1722(IT)I) and
+Biringanine Kayeye (2011-3496(IT)I)
+on June 13, 2012, at Hamilton, Ontario.
+Before: The Honourable Justice B. Paris
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Annie Paré
+Rita Araujo
+__________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act in respect of the 2007 taxation year is dismissed in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 8th day of November 2012.
+“B. Paris”
+Paris J.
+Translation certified true
+on this 19th day of December 2012
+Francie Gow, BCL, LLB
+Docket: 2011-1675(IT)I
+BETWEEN:
+EDOH WILSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+___________________________________________________________
+Appeal heard on common evidence with the appeals of
+Mawuewo K.J. Afovia (2011-1674(IT)I),
+Chantal Afovia (2011-1676(IT)I,
+Shama Bope (2011-1722(IT)I) and
+Biringanine Kayeye (2011-3496(IT)I)
+on June 13, 2012, at Hamilton, Ontario.
+Before: The Honourable Justice B. Paris
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Annie Paré
+Rita Araujo
+_________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act in respect of the 2007 taxation year is dismissed in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 8th day of November 2012.
+“B. Paris”
+Paris J.
+Translation certified true
+on this 19th day of December 2012
+Francie Gow, BCL, LLB
+Docket: 2011-1676(IT)I
+BETWEEN:
+CHANTAL AFOVIA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+__________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Mawuewo K.J. Afovia (2011-1674(IT)I),
+Edoh Wilson (2011-1675(IT)I),
+Shama Bope (2011-1722(IT)I) and
+Biringanine Kayeye 2011-3496(IT)I)
+on June 13, 2012, at Hamilton, Ontario.
+Before: The Honourable Justice B. Paris
+Appearances:
+For the appellant:
+The appellant herself
+Counsel for the respondent:
+Annie Paré
+Rita Araujo
+__________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act in respect of the 2007 taxation year is dismissed in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 8th day of November 2012.
+“B. Paris”
+Paris J.
+Translation certified true
+on this 19th day of December 2012
+Francie Gow, BCL, LLB
+Docket: 2011-1722(IT)I
+BETWEEN:
+SHAMA BOPE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+__________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Mawuewo K.J. Afovia (2011-1674(IT)I),
+Edoh Wilson (2011-1675(IT)I),
+Chantal Afovia (2011-1676(IT)I and
+Biringanine Kayeye (2011-3496)IT)I
+on June 13, 2012, at Hamilton, Ontario.
+Before: The Honourable Justice B. Paris
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Annie Paré
+Rita Araujo
+_________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act in respect of the 2007 and 2008 taxation years are dismissed in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 8th day of November 2012.
+“B. Paris”
+Paris J.
+Translation certified true
+on this 19th day of December 2012
+Francie Gow, BCL, LLB
+Docket: 2011-3496(IT)I
+BETWEEN:
+BIRINGANINE KAYEYE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+__________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Mawuewo K.J. Afovia (2011-1674(IT)I),
+Edoh Wilson (2011-1675(IT)I),
+Chantal Afovia (2011-1676(IT)I) and
+Shama Bope (2011-1722(IT)I
+on June 13, 2012, at Hamilton, Ontario.
+Before: The Honourable Justice B. Paris
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Annie Paré
+Rita Araujo
+__________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act in respect of the 2007 taxation year is dismissed in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 8th day of November 2012.
+“B. Paris”
+Paris J.
+Translation certified true
+on this 19th day of December 2012
+Francie Gow, BCL, LLB
+Citation: 2012 TCC 391
+Date: 20121108
+Docket: 2011-1674(IT)I
+BETWEEN:
+MAWUEWO K.J. AFOVIA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+and
+Docket: 2011-1675(IT)I
+BETWEEN:
+EDOH WILSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+and
+Docket: 2011-1676(IT)I
+BETWEEN:
+CHANTAL AFOVIA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+and
+Docket: 2011-1722(IT)I
+BETWEEN:
+SHAMA BOPE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+and
+Docket: 2011-3496(IT)I
+BIRINGANINE KAYEYE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Paris J.
+[1] The issue in these appeals is whether each of the appellants is entitled to the charitable gift tax credits claimed in his or her 2007 taxation year for alleged cash donations made to Parole de Grace London (PDGL). Mr. Bope is also appealing the reassessment of his 2008 taxation year on the same issue.
+[2] The Minister of National Revenue (the Minister) reassessed each of the appellants on the basis that he or she did not make any gifts to PDGL in 2007 (and 2008, in the case of Mr. Bope). The Minister also concluded, in the alternative, that the receipts issued by PDGL to the appellants did not contain all of the information that is required to be included in a charitable receipt pursuant to the Income Tax Regulations (the Regulations).
+[3] For the reasons that follow, I have concluded that the receipts provided by PDGL do not contain all of the information required by the Regulations, and for this reason alone, the appeals must be dismissed. I have also concluded that, even if the receipts had conformed to the Regulations, the appellants failed to prove, on a balance of probabilities, that they made the donations in issue.
+Applicable legislation
+[4] Subsection 118.1(3) of the Income Tax Act (the Act)[1] allows a deduction from tax payable for gifts made to a registered charity. Paragraph 118.1(2)(a) provides that the making of the gift must be proven by filing a receipt containing prescribed information. The provision reads:
+(2) A gift shall not be included in the total charitable gifts, total Crown gifts, total cultural gifts or total ecological gifts of an individual unless the making of the gift is proven by filing with the Minister
+(a) a receipt for the gift that contains prescribed information;
+[5] The prescribed information required to be included in an official charitable receipt is listed in subsection 3501(1) of the Regulations[2] which states:
+(1) Every official receipt issued by a registered organization shall contain a statement that it is an official receipt for income tax purposes and shall show clearly in such a manner that it cannot readily be altered,
+(a) the name and address in Canada of the organization as recorded with the Minister;
+(b) the registration number assigned by the Minister to the organization;
+(c) the serial number of the receipt;
+(d) the place or locality where the receipt was issued;
+(e) where the donation is a cash donation, the day on which or the year during which the donation was received;
+(e.1) where the donation is a gift of property other than cash
+(i) the day on which the donation was received,
+(ii) a brief description of the property, and
+(iii) the name and address of the appraiser of the property if an appraisal is done;
+(f) the day on which the receipt was issued where that day differs from the day referred to in paragraph (e) or (e.1);
+(g) the name and address of the donor including, in the case of an individual, his first name and initial;
+(h) the amount that is
+(i) the amount of a cash donation, or
+(ii) where the donation is a gift of property other than cash, the amount that is the fair market value of the property at the time that the gift was made;
+(i) the signature, as provided in subsection (2) or (3), of a responsible individual who has been authorized by the organization to acknowledge donations; and
+(j) the name and Internet website of the Canada Revenue Agency.
+The receipts
+[6] I will deal firstly with the question of whether the receipts issued by PDGL to the appellants met with the requirements of the Act and Regulations.
+[7] Each of the appellants filed a receipt from PDGL with his or her 2007 tax return. The receipts were dated January 21, 2008. Mr. Bope filed a receipt from PDGL with his 2008 tax return as well. It, too, was dated January 21, 2008. None of those receipts showed a serial number or the name and Internet website of the Canada Revenue Agency (CRA), as required by paragraphs 3501(1)(c) and (j) of the Regulations.
+[8] After the appellants were told by the CRA auditor that the receipts did not contain all of the required information, PDGL issued them new receipts. All of the new receipts except Mr. Wilson’s were then given to the CRA, presumably during the objection process. The new receipts were identical to the original receipts in terms of the information they contained, except that they also gave a breakdown of the amounts donated. For example, the receipt for Mr. Kayeye showed that he donated $1,250.00 in January 2007 and $1,000.00 in each of the months of March, May, July, August, October and December 2007.
+[9] The question that must be decided by this Court is whether it is mandatory that a charitable donation receipt contain all of the information listed in subsection 3501(1) of the Regulations, including a serial number and the name and Internet website of the Canada Revenue Agency. On the basis of the clear wording of that provision, I find that all of the information listed there is mandatory. The material portion of the section states that “every official receipt issued by a registered organization . . . shall show clearly in such a manner that it cannot be readily altered . . .” the information listed in paragraphs (a) to (j). (Emphasis added.)
+[10] The Supreme Court of Canada held in Re Manitoba Language Rights[3] that the word “shall” in a statute is to be construed imperatively “unless such an interpretation . . . would be utterly inconsistent with the context in which it has been used and would render the section irrational or meaningless.”
+[11] Section 11 of the Interpretation Act[4] provides that “[t]he expression ‘shall’ is to be construed as imperative and the expression ‘may’ as permissive.” According to section 3 of the Interpretation Act, section 11 applies to every enactment unless a contrary intention appears.
+[12] The appellants did not suggest and I am unable to conclude that giving the word “shall” in section 3501 of the Regulations an imperative meaning would lead to an unreasonable outcome. Parliament may have chosen to include the requirement for a serial number on charitable receipts to facilitate audits of charitable donations, in other words by ensuring that records of donations are kept in an orderly fashion; the inclusion of the CRA website address permits a donor to verify whether the charity is registered and whether the donation is eligible for the charitable donation tax credit. I also find that an imperative construction is consistent with the context. For example, the requirement for serial numbers on receipts is also referred to in subsections 3501(1.1), (3) and (4) and the requirement for the CRA website address is repeated in subsection 3501(1.1) of the Regulations. I therefore find that the information listed in subsection 3501(1) of the Regulations is mandatory for official charitable receipts.
+[13] Since none of the receipts provided to the appellants by PDGL contain all of the prescribed information, they do not meet the requirements of subsection 118.1(2) of the Act and, for this reason, the appellants’ claims for charitable gift credits cannot succeed.
+[14] The fact that the appellants were unaware of what information was required on a charitable receipt cannot relieve them of the obligation to support their claim for the charitable donation tax credits with official receipts that contain the prescribed information. This Court is bound by subsection 118.1(2) of the Act.
+Did the appellants make the donations?
+Evidence
+[15] PDGL was registered as a charity under the Act in June 2006 and was run by Tshibola Katalayi. In its application for charitable status, PDGL listed its activities as the operation of a house of worship in Canada, the operation of programs in Canada to assist immigrants, and the operation of missions and programs in Africa to assist orphans and female victims of torture in war. PDGL’s church was in London, Ontario.
+[16] Sherry Head, a CRA auditor, conducted an audit of PDGL in early 2010. She testified that she was unable to confirm that cash donations were in fact received by it. The only records provided by PDGL in the audit were some Excel spreadsheets for 2007 and 2008 that listed donations. Ms. Head testified that there was no indication that any donations had been deposited in PDGL’s bank account, and there were no records to show how the alleged donations might have been spent.
+[17] Ms. Head issued a revocation letter to the organization advising that the Minister intended to revoke its charitable status as a result of its failure to maintain adequate books and records and because she had been unable to verify that it had been established for charitable purposes. No response to this letter was received, and PDGL’s charitable status was revoked on October 9, 2010.
+Biringanine Kayeye
+[18] Mr. Kayeye initially testified that he had become a member of the PDGL congregation in 2006. Later, in cross-examination, he said that he was not a member of the Church. He admitted that he had never attended the PDGL church and was a member of the Royal City Church in Guelph, but he testified that he had simply wanted to help PDGL with its work in the Congo and assisting immigrants in London and Toronto. He himself is Congolese.
+[19] Mr. Kayeye stated that he had made cash donations directly to Mr. Katalayi in 2007. PDGL gave Mr. Kayeye a written receipt dated January 21, 2008, showing that he had donated $7,250 during the 2007 calendar year. On December 10, 2010, PDGL issued him another receipt for 2007 after the CRA auditor took the position that the first receipt did not contain all of the required information.
+[20] Mr. Kayeye also testified that he had made cash donations totalling $5,700 to PDGL in 2006, and that after review, his claim for a tax credit in respect of those donations had been allowed by the Minister. He produced a letter dated December 2, 2008, from the CRA advising that his claim for the charitable donation tax credit in 2006 was being allowed.
+[21] Mr. Kayeye’s total income was $50,179.01 in 2007. At the time, he was married and had six children. His wife and children were living in a refugee camp in South Africa at the time. They were unable to come to Canada because Mr. Kayeye was not yet a permanent resident.
+[22] In cross-examination, Mr. Kayeye admitted that he was a member of Royal City Church in Guelph in 2007 and donated $130 to it in that year.
+Mr. Kayeye’s position
+[23] Mr. Kayeye submits that he made cash donations to PDGL and that it was common for donations to be made in cash. He said that he had provided bank records to the CRA as proof of his 2006 and 2007 donations and, while his claim was allowed for 2006, it was rejected for 2007. He said that he knew that PDGL did charitable work in Africa and that he wanted to contribute. He also added that as a newcomer to Canada he was not familiar with the requirements for charitable receipts.
+Discussion
+[24] As I indicated at the outset of these reasons, Mr. Kayeye has the onus to prove that he made the alleged donations to PDGL in 2007. The standard of proof to be applied is on a balance of probabilities. This means that he must show that it is more probable than not that he made the donations in issue.
+[25] I have several concerns with respect to Mr. Kayeye’s testimony.
+[26] Firstly, I find it difficult to believe that Mr. Kayeye made continuous cash donations directly to Mr. Katalayi when Mr. Katalayi’s church was in London. Mr. Kayeye said he lived in Guelph and never attended PDGL’s church in London. It was not explained where or how Mr. Kayeye met Mr. Katalayi in order to make the supposed donations.
+[27] Secondly, no evidence was adduced to show that Mr. Kayeye had a history of making large donations to any charitable organization other than PDGL. In fact, the only other donation that he seems to have made was for $130 to the church he attended in Guelph. In light of the modest amount of this donation to his own church and the fact that he never attended PDGL’s church in London, I find it implausible that he would have made much more substantial donations to PDGL.
+[28] Finally, while Mr. Kayeye asserted that he had provided bank records to the CRA for both years, no such records were presented at the hearing. I draw a negative inference from the appellant’s failure to produce those documents, as no reasonable explanation for this failure was given. I conclude that those records would not have tended to corroborate his testimony that he made the donations. Given the substantial cash amounts that Mr. Kayeye said he had donated to PDGL, I would have expected there to be some records available to show where he obtained this cash.
+[29] While each of these factors is not in itself determinative, when taken together, they tend to show that it is not likely that Mr. Kayeye in fact made the donations he claims to have made.
+[30] Finally, the fact that the Minister allegedly allowed Mr. Kayeye a credit for donations he supposedly made in 2006 is irrelevant. In the words of Justice Sarchuk at paragraph 13 of Schumaker v. The Queen:[5]
+There is a substantial body of case law in which the courts have consistently held that a concession made in one year in the absence of any statutory provisions to the contrary does not preclude the Minister from taking a different view in a later year. As was stated in Admiral Investment Ltd., v. the Minister of National Revenue, [4] and has been repeated any number of times since then, an assessment is conclusive as between the parties only in relation to the assessment for the year in which it is made. in [sic] Gilbert v. the Minister of National Revenue, [5] (1991) 2 C.T.C. 2319. [sic] Judge Rip observed:
+The treatment for tax purposes of expenses claimed in earlier years is not before me and I am not bound by how the respondent may have treated similar claims in previous years. After all, the respondent is not the arbiter of what is right or wrong in tax law.
+Quite simply this means that if the Minister inadvertently or incorrectly allowed certain amounts as a deduction in prior years, that is not binding on this Court. Rather, it is necessary for the Court to consider the facts before it for the particular taxation year under appeal and on that basis, determine whether a particular disallowance or allowance of a particular item comes within the scope of a particular section. If it does, a taxpayer may be entitled to a deduction. If it does not, he is not so entitled.
+The Afovias
+Evidence
+[31] Mr. Afovia is a teacher with the Kitchener-Waterloo Bilingual School, and his spouse, Ms. Afovia, is employed as an advisor with Sun Life Insurance. Both held these positions in 2007. They have two children, aged 9 and 16. Mr. Afovia is of Togolese origin and lived in Germany prior to coming to Canada in 2003. Ms. Afovia is of Congolese origin.
+[32] Mr. Afovia testified that when he lived in Germany he had helped raise money and collect goods that were sent to Africa. He said that when he came to Canada, he wanted to continue to support charitable work in Africa, and looked for an organization similar to the one he had worked with in Germany. Mr. Katalayi, whom he met at a fundraiser, told him that PDGL provided assistance to female victims of war and abandoned children in Africa, and to African immigrants arriving in Canada. Mr. Afovia told his spouse about PDGL and they said they decided to help with its work by making donations. Mr. Afovia testified that Mr. Katalayi requested that the donations be made in cash, to avoid problems with NSF cheques. Ms. Afovia said that they gave cash to Mr. Katayali, but neither Mr. nor Ms. Afovia provided details of when or where this happened. Mr. Afovia testified that they were not members of PDGL’s church, which was an hour’s drive from their home in Kitchener.
+[33] Mr. Afovia's total income shown on his tax return for 2007 was $41,279.32. Ms. Afovia's total income 2007 was $37,363.52. Each had their earnings deposited directly into their bank accounts by their employers.
+[34] The Afovias produced two receipts from PDGL. The first was dated January 21, 2008, and set out that they had donated $8,000 to Parole de Grace in 2007. This receipt was filed with their tax returns. A second receipt, dated August 1, 2010, showed that PDGL had received the following donations from the Afovias in 2007:
+January $1,500
+March $1,500
+May $1,000
+July $1,000
+August $1,000
+October $1,000
+December $1,000
+[35] The Afovias produced no other proof that the payments were made. When asked about their bank records for the period, Mr. Afovia stated that he did not wish to produce them. Ms. Afovia said that at the audit stage the CRA had sent them a letter which stated that bank records showing cash withdrawals would be insufficient proof that the donations had been made. She supposed therefore that the Court would not accept them as proof either.
+The Afovias’ position
+[36] The Afovias submitted that the receipts they received from PDGL were proof of their donations, and that if the receipts were incomplete it was the fault of PDGL. They said that when they became aware of the deficiencies in the receipt, they took steps to obtain a second one in order to comply with the requirements of the Regulations. They argued that they had the means to make the donations, even if the amounts were relatively large. Both said that they were motivated to give by the great difficulties faced by people in their home countries and that this was their way of trying to help.
+Discussion
+[37] As in the case of Mr. Kayeye, the only proof offered by the Afovias that they had made the donations in issue was their testimony and the receipts issued by PDGL.
+[38] My comments in Mr. Kayeye’s case with respect to bank records are equally applicable here. Since the only source of income for each of them was their employment, and since their earnings went directly into their accounts, they would have had to withdraw the cash for the gifts to PDGL from their accounts. In the absence of any evidence to the contrary, it seems likely to me that those bank records would have contained information either confirming or contradicting their testimony. I draw the inference from the Afovias’ failure to produce those records that they would not have supported their claim that they made the donations in issue.
+[39] I also have difficulty accepting that Ms. Afovia chose not to bring her bank records because she was told during the audit that the CRA would not accept them as proof. Ms. Afovia, and all of the appellants for that matter, appeared quite clearly to understand that the correctness of the auditor’s conclusions was at issue in this appeal, and they did not have any difficulty challenging those conclusions before me. Therefore it seems unlikely that Ms. Afovia would accept the auditor’s conclusion regarding what evidence would be acceptable or not to prove that the donations were made.
+[40] I also find the explanation given by Mr. Afovia for making the gifts in cash to be implausible. If Mr. Katalayi were concerned about cheques bouncing, it would have been possible to make payments by money order or bank draft, in order to have a record of the payments, and in order to be able to transmit those payments without having to meet personally with Mr. Katalayi each time. It also strikes me as odd that Mr. Katalayi would not have given a receipt and that the Afovias would not have requested one each time a donation was supposedly made, given that those donations were for either $1,000 or $1,500 each time. It does not make sense to me that neither the Afovias nor PDGL would keep track of these donations in an organized and formal fashion. These alleged donations represented what the Afovias each admitted were significant amounts for them, which makes the lack of contemporaneous receipts puzzling.
+[41] A further factor which leads me to reject the testimony of the Afovias is the absence of any evidence that would suggest that they had a history of making financial contributions to charitable causes either before or after 2007.
+[42] For these reasons, I find that the Afovias have failed to prove that they made the donations they claim to have made to PDGL.
+Edoh Wilson
+Evidence
+[43] Mr. Wilson’s evidence was very brief. He testified that he started attending PDGL church in London in early 2005. He said that every three months he put $250 cash in an envelope which he gave directly to Mr. Katalayi. He withdrew the cash at bank machines. The receipt from PDGL that he filed with his 2007 tax return stated that he had donated $1,500 in that year.
+[44] In 2007, his total income was $35,296.73. He was married with one child, and lived in North York, about a two-hour drive to London. He testified that he had gone to the PDGL church several times since 2005, and a couple of times in 2007.
+Mr. Wilson’s position
+[45] Mr. Wilson did not present any argument in favour of his position.
+Discussion
+[46] The evidence presented by Mr. Wilson falls short of showing that he made the donations to PDGL that he claimed to have made. Once again, the only support for his position is his own testimony and the PDGL receipt. Overall, I find Mr. Wilson’s testimony vague and unreliable. The unnamed friend who allegedly drove him from North York to London (a two-hour drive) to attend church was not called as a witness to corroborate his evidence, and, as in the other cases, no bank records were produced.
+[47] Mr. Wilson’s testimony concerning the making of the donations was inconsistent. In Court, he said he gave $250 to Mr. Katalayi every three months. This would have amounted to $1,000.00 for the year. However, in a letter he sent to the CRA, he said he gave $250 in January, March, May, August, October and December for a total of $1,500. In that letter he also said that some of the money for the donations came from his bank account and some came from “various sources.” At the hearing he said it all came from his bank account.
+[48] Mr. Wilson also testified that had given $250 to Mr. Katalayi every three months from when he started attending PDGL, supposedly in 2005. However, there was nothing to show that he had claimed a tax credit for donations to PDGL in 2005 or 2006, nor was there evidence to show that he had made donations to any other charitable organization either before or after 2007. I also note that PDGL was only registered as a charity in 2006. The evidence did not disclose whether it had been active prior to 2006.
+Shama Bope
+Evidence
+[49] Mr. Bope is married and has one child. He and his family reside in Hamilton and have lived there since at least 2006. Mr. Bope said that, starting in 2006, his sister would take him to the PDGL church in London from time to time. The trip to London took between two and two and a half hours each way. When he attended PDGL church, he said he would give cash directly to Mr. Katalayi. On those Sundays that he worked, he said he would put cash in an envelope for his sister to take to give to PDGL. He said his sister went almost every Sunday. He understood that his donations were used to help the poor and to provide schooling for children in Africa.
+[50] Mr. Bope said he withdrew the cash used to make the donations from his line of credit. He produced a printout of all transactions on his line of credit account in 2007 and 2008 which showed all of the cash withdrawals from the account. Mr. Bope admitted, though, that he was unable to tell what part of any of the withdrawals was used for the donations. He also conceded that he used some unspecified portion of the cash that was withdrawn for personal purposes and said that he had spent a lot of it on parties.
+[51] His total income was $38,290.41 in 2007 and $42,686.77 in 2008. He and his wife owned a rental property, but it produced losses in 2007 and 2008.
+[52] The receipts he received from PDGL and which he filed with his returns showed that he had donated $4,600.00 in 2007 and $5,600.00 in 2008. Both receipts were dated January 21, 2008. Mr. Bope said that he had not noticed the identical date on the two receipts and that he could not explain it.
+Mr. Bope’s submissions
+[53] Mr. Bope insisted in his argument that he had the means to make the donations and that the bank records were proof that he had made them.
+Discussion
+[54] In my view, the bank records filed by Mr. Bope are inconclusive as to whether any amounts were withdrawn to fund donations to PDGL. There are no regular, consistent withdrawals that one might expect if, as Mr. Bope testified, he made cash donations almost every week. Instead, the withdrawals are sporadic, and vary in amount from $20 to $1,200. I also agree with counsel for the respondent that the fact that all of these withdrawals were borrowed from Mr. Bope’s line of credit makes it less likely that the amounts were used to make donations. Although Mr. Bope said he had the means to make the donations, the evidence showed that he owed money on his line of credit throughout the years in issue.
+[55] Furthermore, Mr. Bope gave no reason for making donations in cash, and did not appear to have kept track of them himself. No particulars of dates and amounts of donations were given. As I indicated in the case of the Afovias, I would have expected there to be more attention paid to recording these donations on an ongoing basis given the relatively large sums involved.
+[56] I also draw a negative inference from the failure of Mr. Bope to call his sister and his spouse to confirm his attendance at PDGL’s church in London or to confirm that they saw him make any donations. I would also add that I find it highly unlikely that he would have traveled five hours each Sunday to attend the PDGL church.
+[57] Finally, there was no evidence that Mr. Bope made gifts or donations to any other charity since his arrival in Canada in 2000.
+[58] Again, none of these factors alone is determinative, but, taken collectively, they tend to show the truth about the donations in issue.
+Conclusion
+[59] The appeals are dismissed.
+Signed at Ottawa, Canada, this 8th day of November 2012.
+“B. Paris”
+Paris J.
+Translation certified true
+on this 19th day of December 2012
+Francie Gow, BCL, LLB
+CITATION: 2012 TCC 391
+COURT FILE NO.: 2011-1674(IT)I
+STYLE OF CAUSE: MAWUEWO K.J. AFOVIA
+EDOH WILSON
+CHANTAL AFOVIA
+SHAMA BOPE
+BIRINGANINE KAYEYE v.
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Hamilton, Ontario
+DATE OF HEARING: July 13, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice B. Paris
+DATE OF JUDGMENT: November 8, 2012
+Appearances:
+For the appellants:
+The appellants themselves
+Counsel for the respondent:
+Annie Paré
+Rita Araujo
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] RSC 1985, c 1 (5th Supp).
+[2] CRC, c 945, s 3501 (1977).
+[3] [1985] 1 SCR 721 at para 27.
+[4] RSC 1985, c 1‑21.
+[5] 2002 CanLII 954 (TCC).

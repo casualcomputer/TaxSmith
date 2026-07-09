@@ -1,0 +1,149 @@
+---
+title: "Walker v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/71810/index.do"
+last_modified: "2014-05-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 182"
+citation2: ""
+neutral_citation: "2014 TCC 182"
+decision_date: "2014-05-30"
+language: "en"
+item_id: "71810"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5383
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:43:52.823000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6cda9940b11336ea437e94111fc01da2e42b844a4c814b60f8ca19df0bdc64e2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Walker v. The Queen
+
+- Citation: 2014 TCC 182
+- Decision date: 2014-05-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5383, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Walker v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-05-30
+Neutral citation
+2014 TCC 182
+File numbers
+2012-1401(IT)G
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-1401(IT)G
+BETWEEN:
+REGINALD F. WALKER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 20, 2014, at Sudbury, Ontario
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+For the Appellant:
+The Appellant Himself
+Counsel for the Respondent:
+Shane Aikat
+____________________________________________________________________
+JUDGMENT
+In accordance with the Reasons for Judgment attached, the appeal from the reassessments made under the Income Tax Act for the 2002 and 2003 taxation years is hereby dismissed.
+Signed at Ottawa, Ontario this 30th day of May 2014.
+“R.S. Bocock”
+Bocock J.
+Citation: 2014TCC182
+Date: 20140530
+Docket: 2012-1401(IT)G
+BETWEEN:
+REGINALD F. WALKER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bocock J.
+I. Legal Issue before the Court
+[1] If a person irrevocably advances a sum to an officer, employee or shareholder, the Income Tax Act (the “Act”) deems the conferral of a taxable shareholder (subsection 15(1)) or employee benefit (paragraph 6(1)(a)) upon the recipient. Additionally, if a person irrevocably advances a sum to a non-arm’s length taxpayer, the Act deems the conferral of a taxable benefit (subsection 246(1)) on that recipient.
+[2] Generally, where a creditor shareholder or related party loan account exists, such a benefit may be set-off against that recipient’s existing loan account. Such a set-off is subject to the certain factual and legal requirements, including, inter alia: (i) the existence of a debt; (ii) a repayment on account of the debt; (iii) sufficient evidence of an intention to so deduct the sum re-paid against the sum owed; and, (iv)a record of some fashion of the set-off transaction. The present appeal concerns the sufficiency of evidence necessary to support the Appellant’s assertion that such a set-off occurred with respect to certain payments and nullified the Minister’s deemed taxable benefit on the conferee Appellant.
+II. Facts
+[3] The Appellant, Mr. Walker, is the ultimate owner and sole officer of a group of companies (the “Walker Group”). He is not, however, the direct shareholder of all of those companies. Like any number of other “owners” of closely held “owner operated” businesses, Mr. Walker injected capital and frequently received moneys or moneys’ worth as repayment. Usually, the ebb and flow of such advances and repayments are reflected in shareholder loan account ledgers with corresponding adjustments to certain line items on annual balance sheets: “due to or from shareholder”, “due to or from officers”, “due to or from related party” and the like.
+[4] It is not contested by Mr. Walker, and it was plainly evident before the Court, that he was, at material times, a shareholder, employee and/or non-arm’s length party in respect of the Walker Group. It was also clear before the Court that Mr. Walker established a frequently changing corporate structure of which he was generally aware, but with which he was not specifically mindful or engaged.
+[5] In March of 2002, Consbec Inc. (“Opco”), the Walker Group’s main operating company, directly paid certain sums for the benefit of Mr. Walker to a pension plan trustee and a registered retirement savings plan trustee: $12,750.00 and $25,500, respectively. Mr. Walker was not a direct shareholder of Opco, but of its parent which during that time was re-named 3953793 Canada Inc. (“Holdco”). In 2002, Mr. Walker’s shareholder or related party loans to Holdco were well in excess of $400,000 (the “Advance(s)”). Holdco, in turn, had loaned similar sums “down to” Opco. In May, 2002, Opco and Holdco amalgamated. As part of that transaction, Holdco assigned the Advances owed to Mr. Walker to another personal holding company (“Walker Co”) and the obligations related to the Advances were assumed by Walker Co. In March 2003, Opco contributed another $12,750 on behalf of Mr. Walker to his RRSP trustee.
+[6] After a CRA audit, the Minister reassessed Mr. Walker for the payments made on his behalf by Opco and conferred upon Mr. Walker taxable benefits (the “Benefits”) reflected by the total payments of $50,500 (the “Payments”). For 2002, the Minister submits that when Mr. Walker was not a direct shareholder of Opco, subsection 246(1) confers the Benefit as a taxable shareholder benefit under subsection 15(1) or, in the alternative, as a taxable employee benefit under paragraph 6(1)(a). The Minister further states that in 2003, when Mr. Walker was a direct shareholder of Opco, subsection 246(1) is superfluous; the Benefit is either directly conferred as a taxable shareholder benefit under subsection 15(1) or as a taxable employee benefit under paragraph 6(1)(a). The Appellant neither contests the Payments were made nor that a Benefit was initially conferred from the Payments. He argues that such Benefits received were offset against the Advances owed to him, represented a repayment of capital and therefore do not confer a taxable Benefit for the taxation years 2002 and 2003.
+III. The Appellant’s Characterization of the Payments
+[7] Mr. Walker, representing himself, and through testimony of one Mr. Snowden, Opco’s Chief Financial Officer, submitted the following in respect of the Payments:
+a) internal accounting staff erred when they deducted the Payments as expenses of Opco (this was also the subject of separate reassessment) instead of following the overall intention of the Walker Group which was to credit the Payments as a partial repayment of the Advances to Opco, Holdco and/or Walker Co, as the case may be;
+b) Holdco should be ignored: the Walker Group was an interwoven enterprise principally undertaken by Opco. Every employee, all arm’s length parties and Mr. Walker invariably dealt with the Walker Group and Opco as one single integrated business of which Mr. Walker was the ultimate owner, operator and controlling mind;
+c) it is unrealistic to expect owner/operated businesses to adhere to an intensive “paper trail” standard in order to reflect every advance and repayment with written documents and receipts;
+d) the relevant shareholder or officer loan ledgers, annual balance sheets and related documents did not previously and do not presently reflect the repayment of the Advances to the extent of the Payments because Mr. Walker is awaiting the outcome of this appeal in order to properly reflect same;
+e) written agreements evidencing the advance and repayment of shareholder or related party debt do not exist for practical reasons in the small business world; and,
+f) the interest charged in respect of the reassessments is unfair, in light of the length of time between the Appellant’s Notice of Objection and the Minister’s Notice of Confirmation.
+IV. Analysis of Appellant’s Submissions
+[8] The Court recognizes that, retrospectively, the allocation of the Payments as a repayment of Mr. Walker’s Advances rather than as an expense of Opco is certainly a latterly expressed intention by the Appellant. However, there is insufficient evidence before the Court to support the foregoing arguments tendered by the Appellant that an intention existed to do so at the time the Payments were made. Accordingly, the appeal is dismissed of the following reasons:
+a) Simple Mistake
+[9] Factually, the evidence of a simple mistake does not exist: the Payments were contributed for two years consecutively, 2002 and 2003. Additionally, the Payments were made in respect of two different types of payments: both a Registered Pension Plan and Registered Retirement Saving Plan. Further, it was not one mistake in each year, but two. Firstly, the Payments were claimed as an expense in two distinct years. Secondly, the Payments were not deducted against accounts reflecting Advances, even against those of a wrong entity in either year. Further, the payor, Opco, did not owe money to Mr. Walker, but to Holdco. Neither Opco nor Holdco’s debts were or have been reduced in either year; nor has any correcting entry, document, rectification order or other indication of the intention to correct the alleged error been adduced before the Court. No mind was directed towards these multiple and multi-year errors until after reassessment.
+[10] Even the most sympathetic of treatment requires the alleged “slip up” to be a simple error of an obscure practice easily remedied in order not to ascribe a Benefit: Chopp v. Canada, 98 DTC 6014 at paragraph 8, in turn citing as support Justice Bowman, as he then was, in Long v. R Doc. 96-474 (IT)I (TCC) when he described the simplistic quality such a bookkeeping mistake must embody in order to afford the conferee’s disavowal of a Benefit. In the present case, the actual steps taken or omitted, giving rise to the “error”, are manifest. Moreover, the result arising from the alleged omission carries no obvious signs of absurdity or apparent error. The present result appears logical: the Advances remain unaltered and unreduced by the amount of the Benefits, future repayment may flow to Mr. Walker as and when appropriate in repayment of such Advances and there is no unrecoverable loss of the debt represented by the Advances.
+b) Ignore Holdco and Walker Co
+[11] There was no debt owing to Mr. Walker from Opco in 2002 or 2003. A simple bookkeeping entry could not have reflected this in the first place. Partial repayment of the Advance minimally required a cheque from Opco to Holdco, in 2002, or Walker Co, in 2003, followed ideally by a subsequent advance, from Holdco or Walker Co, to Mr. Walker and then payment by him to his RPP and RRSP trustee. Even a direct payment by Holdco or Walker Co to the trustee would have arguably provided sufficient evidence. Utilizing these corporate entities for their beneficial business purposes requires greater diligence, not only to garner the benefits from their use, but to avoid the pitfalls from their misuse. In the absence of some objective evidence of intention, one cannot disclaim, inconsistently or when inconvenient, the very structure one has otherwise authorized, overseen and utilized: Kosmopoulos v. Constitution Inc. Co. of Canada, 1 SCR 2 at paragraph 13.
+c) The Standard is Too High
+[12] Aside from the absence of documentary evidence which the Appellant suggests is too onerous, if there were some evidence of a then current intention to reduce the Advances, the Court might countenance the argument of too high a standard. As well, there is no evidence before the Court that in previous periods similar payments to either plan had been deducted from the Advances either contemporaneously or post facto: no retroactive adjustments; no cancelled cheques evidencing the purpose of such previous payments and no inter-company adjustments. In short, there is no evidence to support the contention that the normal course was to set-off the Payments or similar ones previously against the Advances. A post facto assertion alone cannot defeat the burden posed by the prima facie facts before the Court: Adams v. MNR [1985] 2 CTC 2383 at paragraph 13.
+[13] If the sole evidence a taxpayer wishes to rely upon to disprove the conferral of a taxable Benefit is the intended reduction of a shareholder or related party advance, then the party or his delegate must at least ensure that one of the following steps is ultimately undertaken: the payment makes reference to the debt; the payor/debtor makes payment for the beneficiary/creditor and/or that the accounts are at some point reconciled. If the shareholder chooses not to use precisely and accurately at least one aspect of this form of short hand as a rebuttal, and afterwards a Benefit is otherwise plainly allocable, then more prolific and burdensome evidence is required to disprove the taxable conferral by the taxing authority. In this appeal, there is a clear, ascribable taxable benefit, but no countervailing, factual or objective evidence of an intention to set-off the benefit from the Advances: Smith v. R, [1999] FCJ no. 1605 FCA at paragraph 5.
+d) Awaiting the Outcome of the Appeal to Reflect the Change
+[14] It may well be that Mr. Walker and his advisers have refrained from attempting to amend the relevant ledgers and financial statements pending the outcome of this appeal. However his election to delay does not allow those same unaltered documents to be offered as factual evidence of an intention not to confer a taxable Benefit upon the Appellant.
+e) Written Agreement Unnecessary
+[15] While a formal written agreement is not always necessary to reflect the intention and custom of setting off Benefits against Advances, once corporate structures reach a certain level of complexity, the evidentiary hurdle to be surmounted by an alleged unwritten arrangement or intention is raised. Where there is no direct debt owing to the payor, as is the case with Opco, some further evidence of unfulfilled intention is required. Where the direct debt is subsequently assigned to and assumed by yet another debtor, additional evidence of intention is required. Taxpayers may eschew formal written agreements and attempt instead to rely upon then current adjusting entries in ledger accounts and year-end balance sheets to dispel the conferral of alleged taxable Benefits. However, when suggesting at the same time that such entries were omitted in error, the simple use of rudimentary documents may also be a sufficient alternative to formal written loan agreements. At the very least the use of cheques, receipts, directions or correcting entries are necessary where mistakes are made and third party taxing authorities are required to determine the objective reality of a transaction involving multiple layers and entities: R v. Neudorf, 75 DTC 5213 at paragraph 10. Such alternatively simple documents were not adduced in this case.
+f) Interest Unfair
+[16] Regarding the request for relief from accrued interest on the basis of unfairness, this Court has no statutory authority to direct that any amount of properly calculated accrued interest be waived or forgiven in the absence of a correlative reduction by this Court of the underlying liability for tax (re)assessed by the Minister.
+[17] For these reasons, the appeal is dismissed. Costs are awarded to the Respondent in accordance with the applicable section of the Tariff for Costs. If the Respondent seeks costs beyond the Tariff, additional submissions shall be required.
+Signed at Ottawa, Ontario, this 30th day of May 2014.
+“R.S. Bocock”
+Bocock J.
+CITATION: 2014TCC182
+COURT FILE NO.: 2012-1401(IT)G
+STYLE OF CAUSE: REGINALD F. WALKER AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Sudbury, Ontario
+DATE OF HEARING: February 20, 2014
+REASONS FOR JUDGMENT BY: The Honourable Mr. Justice Randall S. Bocock
+DATE OF JUDGMENT: May 30, 2014
+APPEARANCES:
+For the Appellant:
+The Appellant Himself
+Counsel for the Respondent:
+Shane Aikat
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

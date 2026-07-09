@@ -1,0 +1,1068 @@
+---
+title: "ARCHIVED - Income Tax - Technical News No. 34"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/itnews-34/archived-itnews-34-income-tax-technical-news-no-34.html
+last_modified: 2017-06-22
+---
+# ARCHIVED - Income Tax - Technical News No. 34
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for income tax technical news](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/what-archived-content-notice-means-income-tax-technical-news.html)
+
+**April 27, 2006**
+
+**Notice to the reader:**
+
+- This version is only available electronically.
+
+- This is an HTML version of the original document. It is also available in [other formats](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/itnews-34.html), including PDF (which is an exact rendition of the original).
+
+**In This Issue**
+
+- [Income Trusts and Interest Deductibility](#P53_2218)
+
+- [Income Trusts and Subparagraph 132(6)(*b*)(i) – “its only undertaking was the investing of funds.”](#P62_5460)
+
+- [Income Trust Reorganizations](#P90_12084)
+
+- [Income Trusts and Non-Resident Ownership](#P106_15389)
+
+- [Loss Consolidation – Unanimous Shareholder Agreements](#P120_18293)
+
+- [Sale of Tax Losses](#P140_23995)
+
+- [Loss Consolidation – Provincial Tax](#P165_29714)
+
+- [Vancouver Olympic Games](#P183_32823)
+
+- [Auditor Working Papers](#P193_34963)
+
+- [Change in Trustees and Control](#P202_36209)
+
+- [Safe Income Calculation – the *Kruco* Case](#P226_40208)
+
+- [Third Party Penalties](#P248_46896)
+
+- [Future Directions](#P257_50085)
+
+- [*Delaware Revised Uniform Partnership Act*](#P268_52918)
+
+- [Review of the Advance Income Tax Rulings Process](#P278_55032)
+
+- [Emission Reduction and Offset Credits](#P305_60941)
+
+- [Canada-U.S. – Competent Authority Memorandum of Understanding](#P336_68123)
+
+- [Convention on Mutual Administrative Assistance in Tax Matters](#P358_71712)
+
+- [Creation of Capital Losses](#P381_75542)
+
+- [General Anti-Avoidance Rule and Audit Issues/Concerns](#P392_78202)
+
+- [Draft Legislation](#P452_82336)
+
+- [Update on Subsection 95(6)](#P461_83924)
+
+- [Update on Transfer Pricing](#P468_85454)
+
+- [Joint International Tax Shelter Information Centre](#P477_87340)
+
+- [Enhanced CRA Audits](#P489_89395)
+
+- [Treaty Interpretation and the Meaning of “Liable to Tax”](#P524_91227)
+
+- [Retirement Compensation Arrangements](#P538_93779)
+
+- [Permanent Establishments](#P546_95913)
+
+The *Income Tax Technical News* is produced by the Legislative Policy and Regulatory Affairs Branch. It is provided for information purposes only and does not replace the law. If you have any comments or suggestions about the matters discussed in this publication, please send them to:
+
+Income Tax Rulings Directorate Legislative Policy and Regulatory Affairs Branch Canada Revenue Agency Ottawa ON K1A 0L5
+
+The *Income Tax Technical News* can be found on the Canada Revenue Agency Internet site at **[www.arc.gc.ca](http://www.arc.gc.ca)**
+
+This issue contains topics of current interest that were prepared for discussion at the annual **Canadian Tax Foundation** conference held in Vancouver on September 27, 2005. Members of the panel were Mr. Marc Vanasse, CA, Director, and Mrs. Theresa Murphy, CGA, Manager, Income Tax Rulings Directorate, Mrs. Arlene White, Director, Vancouver Tax Services Office, Mrs. Sandra Jack, CA, Felesky Flynn LLP of Calgary and Mr. Mark Robinson, CA, Deloitte & Touche LLP of Toronto.
+
+*Unless otherwise stated, all statutory references throughout this* Income Tax Technical News (the “ITTN”) *are to the* Income Tax Act (the “Act”).
+
+## Income Trusts and Interest Deductibility
+
+The typical structure for so-called income trusts is to have the trust hold the shares and notes of a corporation that carries on a business. The interest expense incurred by the corporation offsets the business income. Paragraph 29 of Interpretation Bulletin IT-533 states that interest on a note issued to purchase and cancel (or otherwise redeem) shares will, in accordance with the decision in *Penn Ventilator Canada Ltd. et al v. The Queen* [[Footnote 1]](#P55_2702) be deductible under subparagraph 20(1)(*c*)(ii) subject to the limits described in paragraph 23 of IT-533. Paragraph 23 deals with borrowed money used to pay dividends or redeem shares and subparagraph 2 thereof states that borrowed money used to replace the accumulated profits of a corporation that have been retained and used for eligible purposes can be an exception to the direct use test. Therefore, where shareholders desiring to increase their distributions from a corporation had caused a redemption of shares in exchange for shares and debt, the Act and relevant jurisprudence would limit the deductibility of the interest related to the debt to the amount required to “fill the hole” that was formed as a consequence of the return of capital.
+
+### Question 1
+
+What is the CRA's current position on interest deductibility with respect to the “fill the hole” concept when financing the setup of an income trust? More particularly, is interest deductible in full where it is paid or payable on notes issued as consideration for shares of a target corporation acquired by a holding corporation which is part of a restructuring arrangement involving the conversion of the equity position held by shareholders into units of an income trust?
+
+### Response 1
+
+Paragraph 21 of IT-533 describes the CRA's position with respect to leveraged buy-outs and subsequent amalgamations. That paragraph basically states that where shares of another corporation are acquired with borrowed funds and the other corporation is wound-up or amalgamated with the acquiring corporation, the interest will be deductible as a link has been established between the shares that were initially acquired and the assets held by the corporation that have disappeared on wind-up or amalgamation.
+
+As indicated above, where a corporation has borrowed to repurchase shares, the deductibility of the interest is related to the amount of the debt required to “fill the hole.” In the income trust conversion context, by inserting a holding corporation and having that corporation acquire the operating company shares, there is an acquisition of property for an income earning purpose and when the two corporations merge, a link is established between the acquisition of the operating company shares that disappear on the merger and the assets formerly held by that corporation that are now in the new operating corporation.
+
+The CRA considers that paragraph 21 of IT-533 applies to the notes issued in the income trust conversion context. Thus, absent any issue concerning the reasonableness of the interest rate, in these and similar circumstances, the CRA permits the deduction of all interest paid or payable, without any restriction relating to the “fill the hole” concept.
+
+## Income Trusts and Subparagraph 132(6)(b)(i) – “its only undertaking was the investing of funds.”
+
+Subparagraph 132(6)(*b*)(i) requires that the trust's only undertaking be the investing of its funds in property (other than real property). However, that phrase (“only undertaking was the investing of funds”) is not defined in the Act, and the tax community has expressed interest in any insight the CRA may be able to shed on the interpretation of this phrase.
+
+### Question 1
+
+Is the CRA of the view that the holding of all the shares of a corporation or an interest in a limited partnership by the income trust satisfies the condition in subparagraph 132(6)(*b*)(i); i.e., that the trust's only undertaking would be the investing of its funds in property (other than real property)?
+
+### Response 1
+
+The CRA generally accepts that the holding of shares is the investment of funds in property. With respect to holding an interest in a limited partnership, the Tax Court of Canada indicated in the case of *Robinson (Trustee of) v.* *The Queen* [[Footnote 2]](#P68_6478) that a limited partner is considered to be carrying on the business of the partnership. Section 253.1 provides that where the liability of the trust is limited by operation of any law governing the partnership arrangement, the trust is not considered to carry on the business of the partnership solely because of the acquisition and holding of that interest. Accordingly, by virtue of section 253.1, the *Robinson* case will not result in the trust failing to satisfy the requirements of subparagraph 132(6)(*b*)(i) solely by virtue of being a limited partner.
+
+The relevant provincial legislation must be consulted to determine whether the trust is a limited partner. Provincial partnership legislation generally provides that the liability of a partner is limited to the extent that the partner is not involved in the business.
+
+### Question 2
+
+Would your response change if the income trust also held 100% of the shares of the corporate general partner of the limited partnership?
+
+### Response 2
+
+As previously stated, the holding of shares is accepted as being an undertaking that is the investment of funds in property. This is the case even if the corporation is wholly owned and that corporation carries on the business directly or it acts as the general partner of a partnership that carries on the business directly.
+
+### Question 3
+
+Would the same conclusion be drawn where the trustees of the trust were also on the board of directors of a wholly owned corporation, including a corporate general partner?
+
+### Response 3
+
+While each situation would have to be determined in terms of its particular facts, in all situations in which the CRA has been asked to rule, the trustees did not form the majority of the board of directors of a corporation and did not control the activities or decisions of the corporation. The CRA accepted that the trust had not engaged in a separate non-qualifying undertaking in those situations.
+
+### Question 4
+
+Would an income trust still meet the conditions of subsection 132(6) and qualify as a mutual fund trust after having guaranteed a debt of a corporation held indirectly by a limited partnership or a debt of the limited partnership? For example, where a trust is a majority limited partner of a limited partnership (the “Partnership”) and has guaranteed the obligations of a corporation wholly owned by the Partnership or has guaranteed the debt of the Partnership itself? Assuming that the trust is not carrying on a business in respect of the operations of the Partnership, nor engaged in the business of lending money or guaranteeing loans, will the issuance of a guarantee in these circumstances be considered to be within the “only undertaking” requirement of subparagraph 132(6)(*b*)(i)?
+
+### Response 4
+
+The agreement to provide a guarantee is an undertaking. If the guarantee stands on its own as a service [[Footnote 3]](#P82_9320) to third parties, it would not qualify for purposes of that subparagraph. In determining whether the provision of the guarantee is part of the core undertaking [[Footnote 4]](#P83_9569) of the trust, the CRA considers the degree of integration between the guarantee and the core investment undertaking. As subparagraph 132(6)(*b*)(i) provides that the “only” undertaking of the trust must be the investing of its funds in property as specified therein, the degree of integration between the guarantee and the investing of funds is subject to a high standard.
+
+### Question 5
+
+Can you give us some examples of where this high degree of integration is achieved?
+
+### Response 5
+
+Such degree of integration would be expected to exist where for no consideration a mutual fund trust guarantees a debt incurred by a wholly owned subsidiary to finance its commercial operation. In technical interpretation 2002-016767, a mutual fund trust guaranteed the borrowings of a wholly owned subsidiary which used the borrowings to finance acquisitions needed for use in its business and for working capital purposes. The CRA determined that that the requirements of paragraph 108(2)(*b*) and subsection 132(6) were not violated by the mere fact that the trust guarantees a loan that is contracted by the subsidiary. However, the payment of a fee by the subsidiary with respect to that guarantee might taint the trust.
+
+In technical interpretation 2004-006822, the CRA was satisfied that the guarantee described therein would not disqualify the mutual fund trust under subparagraph 132(6)(*b*)(i), even though it was provided to a corporation which was not wholly owned by the trust because the particular facts indicated that the guarantee formed part of the core investment undertaking of the trust. Guarantees provided by a mutual fund trust in respect of the debt of an entity not wholly owned by the trust, or of the debt of an entity in which a wholly owned subsidiary has an interest, would have to be closely scrutinized in light of all the relevant circumstances.
+
+Where the guarantee is structured in such a way that third parties benefit from such service, the mutual fund status might be lost where the resulting service or benefit conferred on third parties constitutes an undertaking which does not mesh completely with the investing of its funds.
+
+## Income Trust Reorganizations
+
+As previously stated, the typical structure for so-called income trusts is to have the trust hold all the shares and notes of a corporation. Over the last year, some mutual fund groups have announced that their group was contemplating transferring the business from the wholly owned corporation to a limited partnership in which the mutual fund trust would be holding an interest as a limited partner.
+
+### Question 1
+
+What are the CRA's views on those reorganizations?
+
+### Response 1
+
+The creation of various entities and the use of various rollover provisions are typically required to achieve the reorganization in question. One of the provisions used is section 132.2, which enables a mutual fund corporation to transfer its property to a mutual fund trust on a rollover basis. Hence, one of the proposed transactions will be the creation of a corporation that qualifies as a mutual fund corporation under subsection 131(8) and the role of that corporation is to hold the assets that are ultimately transferred to the mutual fund trust using section 132.2. The CRA accepted in ruling 2003-005398 that the use of section 132.2 to achieve the reorganization described in the ruling was acceptable and that section 245 would not apply to re-characterize the transactions.
+
+### Question 2
+
+Would the changes to section 132.2 proposed by the Department of Finance on July 18, 2005 affect your response to question 1?
+
+### Response 2
+
+No. The Department of Finance released some proposed changes to section 132.2 on July 18, 2005. As indicated in the technical notes, “new paragraphs 132.2(3)(*f*) and (*g*) are amended to ensure that the mutual fund merger rules do not apply inappropriately to create artificial or ‘phantom' losses.” This clarifies that the provision is a rollover provision and that no gains or losses are intended to result from its application to transfers to a mutual fund trust, including transfers made in the course of the reorganization described in question 1.
+
+### Question 3
+
+The board of directors of an existing corporation might contemplate converting the corporation into a mutual fund corporation meeting all the requirements of subsection 131(8) in order to benefit from the application of section 132.2. Would such conversion be challenged by the CRA?
+
+### Response 3
+
+The CRA addressed this issue at the 2002 CTF Conference [[Footnote 5]](#P105_14420) and that position has remained unchanged. The general anti-avoidance rule (“GAAR”) Committee has recommended that section 245 be applied where an existing corporation that carries on a business is converted into a mutual fund corporation in an attempt to benefit from the application of section 132.2 on the transfer of its assets to a mutual fund trust. Section 132.2 was designed to facilitate the transfer of assets from existing and active mutual fund corporations to mutual fund trusts or the consolidation of existing and active mutual fund trusts. Transfers of a business from a non mutual fund group to a mutual fund trust are expected to generate gains or losses. This is in contrast to question 1 above wherein the transfer of assets occurred in a reorganization of an existing income trust.
+
+## Income Trusts and Non-Resident Ownership
+
+Subsection 132(7) provides that, save certain exceptions, a trust established or maintained primarily for the benefit of non-resident persons loses its mutual fund trust status. There have been a number of media reports on the increasing number of non-resident investors in certain income trusts.
+
+### Question 1
+
+Assuming the exception in paragraph 132(7)(*a*) is not available, would a trust be subject to the application of that provision if the governing trust indenture specifically provides that the trust is not established for the benefit of non-residents and that some action will be undertaken to ensure that the trust does not exist primarily for the benefit of non-resident persons?
+
+### Response 1
+
+If circumstances supporting a contrary conclusion are absent, a trust indenture containing such terms might support a conclusion that the trust is not established primarily for the benefit of non-residents. However, irrespective of the intention of the settlor, the terms of the trust indenture and the circumstances existing when the trust was created, subsection 132(7) deems it not to be a mutual fund trust after that time if it is maintained primarily for the benefit of non-residents at any moment during its existence. Therefore, the application of subsection 132(7) will not hinge solely on the terms of the trust indenture but on the nature and extent of the benefits enjoyed by non-residents in respect of the trust.
+
+### Question 2
+
+How significant is the onus on the trustees of an income trust to track the magnitude of the benefits flowing to non-residents?
+
+### Response 2
+
+A trust, which happens at some point to exist primarily for the benefit of non-resident persons, can only rely on the exception in paragraph 132(7)(*b*) if it makes a reasonable inquiry in respect of every unit that it issues to ensure that the purchaser is a resident of Canada. Absent that exception, prompt action is required to ensure that it ceases to exist primarily for the benefit of non-resident persons.
+
+In order to be in a position to prove that it has not been maintained primarily for the benefit of non-resident persons, the trustee needs:
+
+(a) to monitor the level of non-resident ownership using the available instruments (e.g., see 2004-0073171 and the use of ADP reports to show geographical ownership of units) at intervals which are reasonable in light of the circumstances; and
+
+(b) to have mechanisms in place which effectively and efficiently enable the trustee to ensure that benefits to non-residents can be reduced or diluted before the trust is considered to be primarily maintained for the benefit of non-residents.
+
+The above elements are significant, as even if the trust subsequently ceases to be maintained primarily for the benefit of non-residents and meets all the conditions to be a mutual fund trust under the Act, the trust will not recover its mutual fund trust status.
+
+## Loss Consolidation – Unanimous Shareholder Agreements
+
+In the past, the CRA has repeatedly stated that loss consolidation transactions that are legally effective and otherwise comply with the technical provisions of the Act would not ordinarily fall within the scope of section 245, provided that the transfer of income or deductions is within an affiliated group of corporations.
+
+The CRA is of the view that there is a scheme to the Act, evidenced by certain provisions, including subsections 69(11) and 111(4) to 111(5.2), that restrict the claims by corporations for losses, deductions or credits incurred by non-affiliated corporations. However, these limitations do not apply to transactions between affiliated corporations.
+
+In many loss consolidation transactions, the “affiliated status” of the relevant corporations is not a concern because these corporations are all directly or indirectly wholly-owned by the same person. However, some loss consolidation transactions may involve corporations that are not wholly-owned. In such cases, the determination of which corporations are affiliated with each other becomes important.
+
+In *Duha Printers (Western) Ltd. v. The* Queen [[Footnote 6]](#P125_19467) the Supreme Court of Canada stated that the test for *de jure* control is whether the majority shareholder enjoys “effective control” over the “affairs and fortunes” of the corporation. The Supreme Court also stated that in order to determine whether such “effective control” exists, one must consider the corporation's governing statute, its share register, and any limitation on either the majority shareholder's power to control the election of the board or the board's power to manage the business and affairs of the company, as manifested in either the constating documents of the corporation or any unanimous shareholder agreement (“USA”).
+
+### Question 1
+
+Do we have to consider the potential impact of a USA in the context of loss consolidation transactions?
+
+### Response 1
+
+Yes. As mentioned above, loss consolidation transactions within an affiliated group of corporations are generally acceptable. In order to determine whether the relevant corporations are affiliated with each other, one has to establish by whom such corporations are controlled. The Supreme Court of Canada has stated in *Duha Printers* that in order to determine who has the effective control of a corporation, one must consider not only the share register but, among other things, any USA.
+
+### Question 2
+
+Can you give us an example of the impact that a USA could have in the context of loss consolidation within a corporate group?
+
+### Response 2
+
+Of course. Let's assume that a parent corporation (“Parentco”) owns a wholly-owned subsidiary (“Lossco”) and 55% of the shares of the capital stock of another corporation (“Profitco”). The remaining shares of Profitco are owned by an arm's length person. Parentco and the arm's length person have entered into a USA with respect to Profitco. This USA provides, among other things, that the following matters shall require the approval of both shareholders of Profitco: any capital expenditure in excess of a certain threshold, any borrowings, any lease arrangements over a certain threshold, any contract or agreement (other than in respect of capital expenditures) under which Profitco's total obligation aggregates a certain threshold, the approval of any annual budget, any change in the nature of the business being conducted by Profitco, the appointment of senior corporate officers, the issuance, redemption or purchase for cancellation of shares of Profitco, the declaration of any dividends on any share of the capital stock of Profitco, the winding-up and dissolution of the corporation, and the acquisition of an interest in any other corporation.
+
+In this example, Parentco would not be able to implement the loss utilization transaction involving Profitco and Lossco since, in our view, the USA would have the effect of removing legal control from Parentco. Based on the said USA, Profitco would appear to be effectively controlled by Parentco and the arm's length person jointly. Consequently, Profitco and Lossco (which is controlled by Parentco) would not be affiliated with each other.
+
+As indicated in *Duha Printers*, the determination of whether *de jure* control has been lost as a result of a USA in a particular situation requires the determination of whether the USA leaves any way for the majority shareholder to exercise effective control over the affairs and fortunes of the corporation in a way analogous or equivalent to the power to elect the majority of the board of directors. In order to answer this question, one has to analyze the specific provisions of the relevant USA and determine whether such provisions of the USA alter the control as a matter of law, taking into consideration the facts and circumstances surrounding the particular situation.
+
+### Question 3
+
+Can a taxpayer get certainty on the effects of a USA when contemplating a loss consolidation transaction?
+
+### Response 3
+
+As discussed in Information Circular 70-6R5, *Advance Income Tax Rulings,* the CRA provides an advance income tax rulings service to promote voluntary compliance, uniformity and self-assessment by providing certainty with respect to the income tax implications of proposed transactions. In fact, the CRA has issued rulings in the past involving USA's and their effects on in-house loss consolidation transactions. Therefore, provided all the facts are presented in the ruling request in accordance with the procedures outlined in the circular, the CRA will consider a request for an advance income tax ruling on proposed transactions involving USA's and their effect on in-house loss consolidation.
+
+## Sale of Tax Losses
+
+The Act contains many provisions that are designed to ensure that a corporation's tax losses cannot be used by unrelated [or sometimes unaffiliated] persons unless they continue to carry on the corporation's business with a reasonable expectation of profit.
+
+However, these loss restriction rules generally only apply when the unrelated persons acquire *de jure* control of the corporation, and not merely *de facto* control.
+
+We understand that, in recent years, several public transactions, [sometimes euphemistically referred to as corporate “reinventions”, “restart” transactions, or “tech-wreck restructurings”] have been designed to exploit this deficiency. For example, assume that Lossco is a widely held, publicly traded corporation. Lossco is insolvent and has ceased to carry on its business. Lossco has substantial unused non-capital losses. Profitco is an unrelated corporation that carries on a profitable business that is fundamentally different from the former Lossco business. Profitco would like to avail itself of the benefit of Lossco's tax losses. Accordingly, Profitco transfers a certain amount of cash and the assets of its profitable business to Lossco in exchange for voting common shares and non-voting common shares. These voting and non-voting shares entitle Profitco to only 45% of the votes but substantially all of the value of Lossco. Given that the other shares of Lossco are widely held, Profitco's 45% of the votes allow it to effectively dictate all appointments to Lossco's board of directors. The tax losses of Lossco shelter the income from the profitable business that it acquires from Profitco. The cash transferred by Profitco to Lossco is paid to the other shareholders of Lossco, as a dividend or return of capital, as a form of compensation for the use of Lossco's losses.
+
+### Question 1
+
+Does the CRA agree that the loss restriction rules in the Act do not apply to deny the deduction of Lossco's non-capital losses against the income of the profitable business in this example?
+
+### Response 1
+
+The Supreme Court of Canada confirmed, in the case of *Duha Printers*, that subsection 111(5) contemplates *de jure*, not *de facto*, control, and that the general test for *de jure* control is whether a person enjoys “effective control” over the affairs and fortunes of the corporation, as manifested in ownership of such a number of shares as carries with it the right to a majority of the votes in the election of the board of directors. The Supreme Court also stated that, in determining whether effective control exists, one must consider:
+
+(a) the corporation's governing statute;
+
+(b) the share register of the corporation; and
+
+(c) any specific or unique limitation on either the majority shareholder's power to control the election of the board or the board's power to manage the business and affairs of the company, as manifested in either:
+
+(i) the constating documents of the corporation; or
+
+(ii) any unanimous shareholder agreement.
+
+Consequently, in a situation such as the one outlined in the example, in order to determine whether Profitco had acquired control of Lossco, one would have to examine all of the constating documents and any unanimous shareholder agreement in respect of Lossco in order to ascertain whether Profitco had acquired effective control of Lossco, as contemplated by the Supreme Court in *Duha Printers*.
+
+Furthermore, if Profitco together with persons that act in concert or have some common connection with Profitco hold a majority of the voting shares of Lossco, Profitco and those persons could be considered to be a group of persons that has acquired *de jure* control of Lossco.
+
+Careful consideration would also have to be given to whether any specific anti-avoidance provision in the Act might restrict the deduction of Lossco's losses. For example:
+
+- If Profitco has a right referred to in paragraph 251(5)(*b*) in respect of a share, subsection 256(8) could apply to treat Profitco as having acquired control of Lossco, such that subsection 111(5) would apply.
+
+- If the tax losses of Lossco are used to shelter income or gains arising from the disposition of property that it acquired on a rollover basis from Profitco, subsection 69(11) could apply to deny the rollover to Profitco.
+
+- If the property acquired by Lossco from Profitco includes any right to receive payments that were required to be included in Lossco's income, and that right is held by Lossco on condition that it may revert or pass to Profitco, subsection 112(2.4) could apply to deny a subsection 112(1) deduction to Profitco in respect of dividends that it receives from Lossco.
+
+Other specific anti-avoidance provisions [e.g., paragraph 256(7)(*c*)] might require consideration, depending on the mechanics of a particular transaction.
+
+### Question 2
+
+Assuming that no specific anti-avoidance provision applies to the transactions, would the CRA consider the application of GAAR to such transactions?
+
+### Response 2
+
+Yes. The Federal Court of Appeal in *OSFC Holdings Ltd. v. R* [[Footnote 7]](#P164_28972) concluded that the general policy of the Act is against the trading of non-capital losses by corporations, subject to specific limited circumstances. We are of the view that transactions that are designed to allow a person to acquire a very substantial economic interest in a corporation (for example, perhaps by having both *de facto* control and a substantial equity interest in the corporation) and to benefit from the corporation's tax losses, without being subjected to the “same or similar” business restrictions in subsection 111(5), could reasonably be considered to result in an abuse having regard to the general policy of the Act against the trading of non-capital losses by unrelated corporations.
+
+## Loss Consolidation – Provincial Tax
+
+At the 2003 Canadian Tax Foundation annual conference, the CRA commented that, provided that all of the transactions are legally effective and otherwise comply with the technical provisions of the Act, it would not ordinarily apply GAAR to the transfer of income or deductions among an affiliated group of corporations.
+
+### Question 1
+
+Has there been any change in these basic parameters of loss consolidation transactions?
+
+### Response 1
+
+No. As mentioned in 2003, our position that loss consolidation transactions are not subject to the GAAR is based on the statement in the Department of Finance's technical notes for the GAAR that the transfer of income or deductions within an affiliated group of corporations is usually not considered to result in a misuse or abuse of the Act.
+
+### Question 2
+
+Is it correct that the CRA has become more concerned about the provincial tax implications of loss consolidation transactions?
+
+### Response 2
+
+We recognize that these types of transactions can have the effect of shifting income and losses between provinces with a resulting increase or decrease in provincial tax revenue. Consequently, we require that an analysis of the provincial tax implications of the transactions be included in loss consolidation ruling requests. In addition, issued loss consolidation rulings provide no comfort as to the application of the GAAR of the affected provinces. However, we are not aware of any instances where a province has sought to have the provincial GAAR applied to loss consolidation transactions on which we have ruled favourably.
+
+### Question 3
+
+Do you consult directly with provincial tax authorities prior to issuing a loss consolidation ruling affecting their provinces?
+
+### Response 3
+
+If the loss consolidation materially affects a province with which we have a tax collection agreement (“TCA”) we will consult with that province prior to issuing a ruling on the proposed transactions. If the impact on a province with which we have a TCA is minimal, or if the ruling affects a province with which we have not entered a TCA, we will normally not consult prior to issuing the ruling but we will forward a copy of the issued ruling to the affected province. In our view, when a loss consolidation transaction affects a province with which we do not have a TCA, it may be advisable for the taxpayers involved to obtain a provincial ruling.
+
+### Question 4
+
+The fact that a loss consolidation transaction, which is the subject of a favorable ruling from the CRA, could still conceivably be subject to provincial GAAR puts taxpayers in an awkward situation. Is the CRA taking any steps to cause provinces with which it has a TCA to agree that their GAAR should not be applied to loss consolidation transactions on which the CRA has provided a favorable ruling?
+
+### Response 4
+
+A working group is currently being created to review transactions that affect provincial tax bases, including the use of loss consolidation arrangements. The group will have representatives from the provincial finance and revenue departments, the Department of Finance and CRA's Legislative Policy Directorate.
+
+## Vancouver Olympic Games
+
+Many domestic and international tax issues arise when major events are held in Canada. In particular, we thought it appropriate that since Vancouver is hosting the 2010 Winter Olympic Games (the “Games”) that we should address this at this year's CTF annual conference.
+
+### Question
+
+What is the CRA doing in preparation for these Games?
+
+### Response
+
+The Government of Canada is a proud partner in hosting the Games, and will continue to collaborate with the Games organizers and other partners to build a Canadian 2010 legacy and help make the Games the best ever. In view of these commitments, the CRA is dedicated to provide services responsive to the importance and scale of the event.
+
+From a tax administration perspective, making the Games a success requires ensuring that people involved with the Games benefit from the services offered by the CRA and comply with the laws it administers. In view of these objectives, the following preparations are underway.
+
+The CRA looks forward to continued cooperation with Games organizers to ensure that the Games and the activities that forerun them unfold smoothly from a tax perspective. Outreach to date has been fruitful in that points of contact have been established through which service can be delivered and tax administration streamlined. In this regard, the Vancouver Tax Services Office is, and will continue, to play a leading role.
+
+The CRA is undertaking a review of the commitments Canada has made in connection with the Games with a view to advising the Department of Finance of any potential conflicts or concerns from a tax administration perspective.
+
+Work has been initiated to enhance the CRA website with dedicated information aimed at non-residents unfamiliar with Canadian tax issues and others that might experience tax issues new to them as a result of their taking part in the preparations for the Games or the celebration in 2010. These efforts aim to promote an environment in which those connected to the Games are aware of and benefit from our services, a respect for the tax and regulatory environment in Canada, and the program entitlements we administer.
+
+## Auditor Working Papers
+
+### Question 1
+
+What is the status of CRA's study on this matter?
+
+### Response 1
+
+A submission by the Canadian Institute of Chartered Accountants (“CICA”) had set out certain concerns, as well as an analysis of how other tax administrations deal with this issue. The CICA suggests that the CRA adopt a policy of restraint in requesting working papers, specifically working papers dealing with the analysis of the tax provision and/or the tax liability for both current and future income taxes as well as audit working papers and tax advice to clients. They advised that they would be considering their position based on our meeting, and would be providing further comments in June 2005. At this point, however, we have received no further comments from them. We also met with CGA-Canada for input and their primary interest was privilege.
+
+### Question 2
+
+Can the CRA provide an update further to the CICA submission?
+
+### Response 2
+
+At this point, we have considered their submissions and have met with other areas within CRA to discuss the above policy for consistency. We have finalized our consultations and are in the process of obtaining senior approval of the policy. The policy should be ready for release by the end of the calendar year 2005.
+
+## Change in Trustees and Control
+
+In May of this year, the CRA issued a technical interpretation [[Footnote 8]](#P204_36301) that could have widespread consequences for corporations that have trusts as shareholders. The technical interpretation deals with the question of whether there is an acquisition of control of a corporation on the replacement of one or more of three trustees of an *inter vivos* trust holding a majority of the voting shares of the corporation. The CRA essentially indicated that a change in any of the trustees of the trust would generally result in a new group of persons controlling the corporation so that the acquisition of control rules in the Act would apply, unless a saving provision in paragraph 256(7)(*a*) applied. The consequences of an acquisition of control could be quite onerous for the corporation. For example, the availability of its tax losses and other accounts could be restricted, and it would have a deemed taxation year-end that could have several adverse tax consequences. It does not seem appropriate that these results should arise when there has been no change in the beneficial ownership of the corporation.
+
+### Question 1
+
+What is the legal basis for the CRA's interpretation?
+
+### Response 1
+
+The Supreme Court of Canada held, in *M.N.R. v. Consolidated Holding Company Limited* [[Footnote 9]](#P209_37530) that where the majority of the voting shares of a corporation are held by a trust, it is the trustees of the trust who have the legal ownership of the shares, who have the right to vote those shares (subject to any restrictions on such right in the trust indenture) and who, therefore, control the corporation.
+
+### Question 2
+
+The technical interpretation indicates that where only one of three trustees is replaced, there would be an acquisition of control by a group of persons. Why is that the case?
+
+### Response 2
+
+The technical interpretation acknowledged that where a trust has multiple trustees, the determination as to which trustee or group of trustees controls the corporation can only be made after a review of all the pertinent facts, including the terms of the trust indenture. However, it went on to indicate that in the absence of evidence to the contrary, we would consider there to be a presumption that all of the trustees would constitute a group that controls the corporation. We took this view because we believed that the fiduciary obligation that each of the trustees would have to act in the best interests of the beneficiaries of the trust would make it unlikely that two trustees could properly act together to control a corporation, to the exclusion of a third trustee.
+
+### Question 3
+
+Some commentators have suggested that the position in the technical interpretation contradicts the CRA's position in paragraph 10 of IT-302R3. Do you agree?
+
+### Response 3
+
+Paragraph 10 of IT-302R3 indicates only that control of a corporation will be regarded as remaining unchanged where the executor, administrator or trustee of an **estate** is replaced as a result of that person's **death or inability to fulfill his or her functions**. Therefore, that position does not apply to the replacement of trustees of an *inter vivos* trust.
+
+### Question 4
+
+Why will the CRA not extend the interpretation bulletin position to *inter vivos* trusts, given that it appears to be an administrative concession?
+
+### Response 4
+
+The interpretation bulletin position was first adopted when a previous version of paragraph 256(7)(*a*) provided a legal basis for the position. A 1994 amendment to paragraph 256(7)(*a*) has removed the legal basis for the position. Therefore it cannot be extended, and consideration will have to be given to withdrawing the current bulletin position when the bulletin is next revised.
+
+### Question 5
+
+Does the possibility of an acquisition of control of a corporation when there has been no change in its beneficial ownership present a policy issue?
+
+### Response 5
+
+We have raised the matter with the Department of Finance and understand that Finance recognizes that there is an issue.
+
+## Safe Income Calculation – the Kruco Case
+
+Subsection 55(2) does not apply to a dividend to the extent that the gain on the share that has been reduced by the payment of the dividend can reasonably be attributed to the share's portion of the income earned or realized (generally referred to as “safe income”) by any corporation after 1971. It has been the long-standing position of the CRA that safe income can only contribute to a gain on shares if it is on hand and is available for distribution to shareholders as a dividend (i.e. what is commonly referred to as “safe income on hand”). The CRA's guidelines for determining the amount of a corporation's safe income on hand are described in various papers [[Footnote 10]](#P228_40913) presented by senior CRA officials at conferences of the CTF and have been supplemented by numerous technical interpretations that have been issued since subsection 55(2) was enacted. However, the decision of the Federal Court of Appeal in the case of *The Queen v. Kruco* *Inc* [[Footnote 11]](#P229_41632) has raised questions concerning the continued validity of many of these positions.
+
+### Question 1
+
+Can the CRA explain the difference between its historical approach to the computation of safe income and that adopted by the courts in the *Kruco* decision?
+
+### Response 1
+
+Historically, the CRA has taken the position that the safe income of a corporation should be reduced by the amount of any actual or potential disbursement or outlay arising in the holding period that had not otherwise been deducted in the calculation of the corporation's net income for tax purposes and which would reduce the gain inherent in the particular shares of the corporation. In addition, it was the CRA's position that safe income on hand should be reduced by the amount of any phantom income (i.e. income not represented by any actual receipt of funds). It is our understanding that these positions were consistent with the tax policy underlying subsection 55(2).
+
+The CRA and Finance believed that Parliament did not feel the need to make any downward adjustments to the amount deemed to be a corporation's income earned or realized as subsection 55(2) itself stipulated that the gain on the share had to be attributable to the safe income. If the income was not on hand, then it was logical that it could not contribute to any gain on the share. However, in the *Kruco* case, the courts did not agree with this interpretation. Instead, the Federal Court of Appeal found that, for the purposes of applying subsection 55(2), the amount of the gain that is attributable to safe income will, subject to certain exceptions, be equal to the amount deemed to be a corporation's “income earned or realized under paragraph 55(5)(*b*) or (*c*)”.
+
+### Question 2
+
+Has the CRA considered revising any of its published guidelines as a result of the *Kruco* decision?
+
+### Response 2
+
+Yes we have. On our reading of the *Kruco* decision, the Federal Court of Appeal has found that an amount will only be included in a corporation's safe income to the extent that it has been included in the determination of its net income for tax purposes or is an adjustment specifically set out in paragraph 55(5)(*b*) or (*c*). Similarly, an amount that has been deducted in computing a corporation's net income for tax purposes will reduce the corporation's safe income. Otherwise, safe income will generally only be reduced by those cash outflows that occur after the determination of net income, but before the dividend is paid (such as taxes and dividends) to the extent that such disbursements reduce the income to which the capital gain may be attributable. The CRA will follow the approach to the calculation of safe income mandated by the Federal Court of Appeal in the *Kruco* case.
+
+Also, although the decision in the *Kruco* case involved the computation of income earned or realized of a private corporation, the CRA accepts that this reasoning is also applicable to the computation of income earned or realized of a corporation resident in Canada that is not a private corporation.
+
+### Question 3
+
+Although the *Kruco* case was decided in favour of the taxpayer, some taxpayers may be adversely affected by this change to the CRA's interpretation. For example, for corporations in the resource sector, the CRA's historical position permitted the taxpayer to add back to income any amount deducted as a resource allowance as this deduction was based on the amount of the company's resource profits and does not involve an outflow of funds. While the taxpayer will no longer be required to reduce its safe income for amounts included in its net income because of paragraph 12(1)(*o*) or the non-deductibility of Crown charges, for many taxpayers the amount of the resource allowance generally exceeded these amounts. Will the CRA provide any transitional relief for any taxpayers who may be adversely affected by its revised position?
+
+### Response 3
+
+Yes, we are aware of this problem and, as announced in the recently published *Income Tax Technical News No33*, transitional relief will be provided for taxable dividends received prior to January 1, 2007. For such dividends, the CRA will allow the dividend recipient to choose either:
+
+(a) to determine the safe income on hand in accordance with the CRA's historical positions; or
+
+(b) to determine the safe income in accordance with the approach mandated by the Federal Court of Appeal in the *Kruco* case.
+
+For greater certainty, the option of calculating safe income on hand following the CRA's historical positions will only be available where the taxpayer is willing to accept the CRA's guidelines as a package. In other words, we will not permit taxpayers to cherry pick by following those historical positions which are favourable to them while relying on the *Kruco* decision to avoid those adjustments that will reduce its safe income on hand. For example, a corporation in the resource sector will not be permitted to add back an amount that it had deducted as a resource allowance unless it is also willing to reduce its safe income on hand by any non-deductible Crown charges or phantom 12(1)(*o*) income inclusions.
+
+For any taxable dividend received after 2006, safe income will need to be determined in accordance with the approach mandated by the Federal Court of Appeal in *Kruco*.
+
+## Third Party Penalties
+
+Prior to the third-party civil penalties coming into force on June 29, 2000, there was no civil penalty provision that applied to those who counsel others to file their returns based on false or misleading information, or who turn a blind eye to false information provided by their clients for tax purposes. The objective of the third party civil penalties is to deter third parties from making false statements or omissions in relation to income tax or goods and services tax/harmonized sales tax (“GST/HST”) matters.
+
+Talks on third-party penalties started in 1992 with in-house discussions of a penalty to address overvaluation abuses. By 1995 discussions with Finance on a penalty to address abuses in tax shelter promotions had begun. In 1997, the Mintz Committee recommended a new civil penalty that would hold advisors and promoters accountable for faulty advice. The 1999 Budget proposed a new civil penalty that would apply to persons promoting tax shelter and other tax planning arrangements and to persons who counsel or assist others in filing false returns. Draft legislation was released September 10, 1999, it was revised and released December 7, 1999 and it came into force on June 29, 2000.
+
+### Question
+
+Can the CRA provide an update on the administration of this penalty? (How many cases, how did they arise etc.)
+
+### Response
+
+First of all, the Canadian tax system has benefited from a cooperative relationship between professional advisors and the CRA. Since that relationship is critically important to all Canadians, and to the continued health of our taxation system, the CRA is committed to applying the penalties fairly, consistently and only when clearly justified.
+
+As outlined in Information Circular IC 01-1, *Third Party Civil Penalties, the third-party penalty is to be applied to “egregious” situations. To that end for purposes of consistency,* the CRA has established the Third-Party Penalty Review Committee (“TPPRC”). The TPPRC is tasked with reviewing all third-party penalty recommendation reports, as a result of a third-party penalty audit, prior to the issuance of a penalty proposal letter. The TPPRC will conduct a further review of all third-party penalty cases prior to assessment. The Committee includes senior representatives from the CRA's Compliance Programs Branch and Legislative Policy and Regulatory Affairs Branch, as well as a representative from the Department of Finance.
+
+As of August 31, 2005, thirteen cases have been considered for the application of the third-party penalties. After reviewing the merits of the individual cases, five of these cases were rejected for third-party penalty audit as they did not meet the criteria as outlined in the circular. Six cases are currently under audit. The issues encountered in these six cases include failure to adhere to straightforward provisions of the Act, the promotion of an aggressive tax arrangement and the inclusion of fictitious amounts in a return. Two cases have been approved for the application of section 163.2 of the ITA and/or section 285.1 of the *Excise Tax Act*. In these two cases, tax returns were prepared with information that the preparer knew to be fictitious.
+
+## Future Directions
+
+We understand that the CRA's “Future Directions” initiative is to require “novel tax planning disclosure”.
+
+### Question
+
+Could you explain what is being considered?
+
+### Response
+
+The CRA's goal is to develop a useful and cost-effective program to better target its compliance efforts. This includes developing processes that will require businesses to disclose novel tax plans or arrangements that will be used to identify offensive transactions and alert potential users to the CRA's position. The initiative was first introduced as part of Future Directions. It now falls within the CRA's *Compliance Review Initiative: Aggressive Tax Planning*.
+
+Research has begun into other tax jurisdictions' systems to gain a better understanding of the issues that we may encounter. In particular, we are reviewing the US legislation, the UK legislation and the *Australian Tax Office* initiatives aimed at Aggressive Tax Planning.
+
+More specifically, we are reviewing how the *Internal Revenue Service* is combating abusive tax shelters and transactions through a comprehensive strategy aimed at reducing taxpayers' willingness to invest in abusive tax avoidance transactions by reducing the incentives. This strategy includes the registration of tax shelters and increased disclosure requirements for taxpayer's and promoters. Significant penalties have been introduced to ensure compliance.
+
+The United Kingdom introduced legislation that requires taxpayers to notify the *Inland Revenue* when they become party to any arrangements where one of the main benefits that might be expected to arise from the arrangements is the obtaining of a tax advantage. The rules restrict disclosure to schemes based on employment or financial products. The UK also introduced penalty legislation aimed at promoters and taxpayers to ensure compliance.
+
+The *A* *ustralian Tax Office* publicizes information about Aggressive Tax Planning and issues Alerts to warn taxpayers and promoters of the types of transactions or arrangements that are considered unacceptable and subject to challenge. In addition, a Promoters Taskforce provides assistance in identifying tax promoters who actively develop, encourage participation in, or sell, arrangements that result in tax avoidance. A number of other initiatives are in place to address Aggressive Tax Planning.
+
+The objective of our Novel Tax Plan Disclosure process is to enhance disclosure and information requirements to assist in identifying areas at the highest risk of non-compliance and enhancing transparency in the Canadian tax system. The legislation and initiatives of the three countries that we are studying is complex. We want to learn from their experiences, and by taking the time to do thorough research we plan to develop a useful and cost-effective program that minimizes the burden of reporting requirements.
+
+## Delaware Revised Uniform Partnership Act
+
+In the *Income Tax Technical News* No. 20, dated June 14, 2001, the CRA stated that the attributes of an entity formed under the *Delaware Revised Uniform Partnership Act* (“DRUPA”) more closely resemble those of a partnership under Canada's common law than those of a Canadian corporation, and that accordingly, an entity governed by DRUPA would generally be treated as a partnership for Canadian income tax purposes. The CRA reiterated this view at the 2002 CTF annual conference (later published in *Income Tax Technical News* No. 25, dated October 30, 2002) that DRUPA partnerships would be treated as partnerships under the Act provided they carried on a business for profit.
+
+### Question 1
+
+At the 2005 IFA conference, the CRA mentioned it was revisiting whether a limited partnership governed by DRUPA was a partnership or a corporation for Canadian tax purposes. Could you explain why the CRA would choose to revisit this issue?
+
+### Response 1
+
+It may appear unusual for the CRA to revisit a question that was dealt with so recently. Earlier this year, the Income Tax Rulings Directorate was asked to review a relatively complex series of transactions that involved a DRUPA entity, and one of the questions that came up in the course of this review was whether the CRA position in respect of DRUPA was correct in law. Following our review, the Directorate concluded that the existing position should stand and that the separate legal entity clause contained in foreign partnership legislation should not, in and by itself, preclude an entity from being treated as a partnership for purposes of the Act. However, entities governed by the DRUPA that are created for non-profit purposes are not considered partnerships for the purposes of the Act.
+
+### Question 2
+
+Would this position apply equally to a partnership that was formed under the *Delaware Revised Uniform Limited Partnership Act* (“DRULPA”), instead of the DRUPA.
+
+### Response 2
+
+This position should also normally apply to a partnership that was formed under the DRULPA provided its members carry on business in common with a view to profit.
+
+## Review of the Advance Income Tax Rulings Process
+
+In a 2004 advance income tax ruling [[Footnote 12]](#P280_55115) the Directorate stated that it was undertaking a review of the overall advance income tax rulings process. At that time, commentators suggested that the review was triggered by recent settlements reached by the CRA with certain film tax shelters that had obtained advance tax rulings. [[Footnote 13]](#P281_55448)
+
+### Question 1
+
+Can the Directorate provide us with an update on the status of your review of the income tax rulings process?
+
+### Response 1
+
+The focus of the review process was on the currency of Information Circular 70-6R5, the sufficiency and effectiveness of the various caveats, disclaimers and comments that are used to restrict the application and scope of issued rulings. The circular was also reviewed for the amount of due diligence that is required with respect to supplementary information disclosed by the taxpayer but not specifically included in the issued ruling. The Directorate also reconsidered the CRA's position with respect to ruling on questions of fact and on completed or partially completed transactions.
+
+### Question 2
+
+Did your review result in any changes to the caveats, disclaimers and comments that are incorporated in your rulings letters?
+
+### Response 2
+
+The Directorate has concluded that the various caveats, disclaimers and comments currently used in Information Circular 70-6R5 and in rulings letters continue to be effective in restricting the application and scope of issued rulings and has therefore decided that no changes to rulings letters are required at this time.
+
+### Question 3
+
+There is some concern in the tax community that it has become very difficult to obtain a ruling when tax shelters are involved. Is this concern justified?
+
+### Response 3
+
+With respect to tax shelters [[Footnote 14]](#P293_56876) the Directorate will continue to provide rulings based on tax law and Department of Finance policy. However, to provide certainty and fairness for taxpayers and to maintain the integrity of an open, transparent and binding rulings process, the CRA will exercise greater diligence with respect to the representations made in tax shelter ruling requests. While there will be no general expansion of the scope of enquiry, tax shelter ruling requests may be subject to greater scrutiny and requests for additional information and explanations from the taxpayers' representatives to ensure that the Directorate fully understands the nature and future tax effects of such rulings. The Directorate also wishes to reiterate that inasmuch as the rulings process is characterized by the voluntary and complete disclosure of all facts and information pertinent to the rulings sought by the applicant, the CRA will only be bound by the facts and proposed transactions that are set out in the issued rulings letter and will not be bound by facts disclosed in supplementary information provided by the taxpayer that are not included in the ruling letter. The Information Circular will be amended to clarify that the CRA will only be bound by facts contained in the ruling letter.
+
+### Question 4
+
+Has the Directorate changed its position on ruling on questions of fact?
+
+### Response 4
+
+The Directorate's position regarding ruling on questions of fact remains as stated in the Information Circular [[Footnote 15]](#P298_58504) The Directorate will continue to refuse to rule when a matter on which a determination is requested is primarily one of fact and the circumstances are such that all the pertinent facts cannot be established at the time of the ruling request. The Directorate does not consider it helpful to rule on questions of fact that cannot be determined at the time and making the ruling subject to a caveat saying that the ruling is inapplicable if the facts prove otherwise.
+
+### Question 5
+
+Has the Rulings Directorate changed its position on ruling on completed or partially completed transactions?
+
+### Response 5
+
+The Directorate has changed its position somewhat with respect to ruling on completed or partially completed transactions. The Directorate has decided that it can safely rule on completed or partially completed transactions provided that two conditions are satisfied: (i) that the ruling is requested before the proposed transactions are completed, and (ii) in conformance with the Directorate's longstanding stated policy, that the issue is not under audit. Inherent in ruling on completed or partially completed transactions is the risk to the taxpayer that the ruling will not be favourable. Taxpayers should consider that, while changes can be made during the ruling process to proposed transactions, such opportunities are foreclosed with respect to completed transactions. The Directorate would, of course, bring any information disclosed by the taxpayer involving completed or partially completed transactions that are subject to an unfavourable ruling to the attention of the audit branch.
+
+With respect to the CRA's audit activities, this is also a good opportunity for the Directorate to dispel the notion of some in the tax community that the issuance of a binding ruling forecloses any subsequent audit of the transactions disclosed therein. All the facts and transactions that are the subject of an advance ruling have always been, and will continue, to be subject to audit when they are completed to ensure that the facts are accurate and that the transactions have been implemented as disclosed. In accordance with the CRA's stated position [[Footnote 16]](#P304_60676) where there is a material omission or misrepresentation in the statement of relevant facts or proposed transactions as stated in the ruling letter, the advance income tax ruling will be considered invalid and the CRA will not be bound by it.
+
+## Emission Reduction and Offset Credits
+
+As part of Canada's response to honoring its commitment under the Kyoto Accord, it is expected that the federal government will be implementing a system under which taxpayers that emit greenhouse gases (“GHG”) into the atmosphere may earn emission reduction credits or offset credits by either reducing their GHG emissions or by investing in projects that will absorb GHG emissions – e.g. sequestration projects or carbon sinks. Once these credits have been earned, they may be used by the taxpayer in meeting its emission reduction targets or may be sold to third parties.
+
+The rationale for permitting trading of emission reduction or offset credits is to allow emission reductions to occur where they are most economical which could significantly reduce the overall cost of meeting Canada's commitments.
+
+### Question 1
+
+What is the CRA's view of the proper tax treatment for the acquisition or disposition of these credits?
+
+### Response 1
+
+As the Act does not specifically address the tax consequences relating to the acquisition or disposition of these credits, the tax consequences relating to such transactions must be determined based on existing tax principles established under the legislation and jurisprudence. In other words, the appropriate tax treatment for such transactions can only be determined following a review of all of the facts relating to the particular transaction, including the legal rights and obligations created under any agreements.
+
+Existing jurisprudence mandates that the approach to be followed in the determination of profit for tax purposes should be consistent with the provisions of the Act, with established rules of law, and with well-accepted business principles, and should yield an accurate picture of the taxpayer's income for the taxation year. In addition, a paper presented by Diana Stevens and Jay Pon at the 2002 annual conference of the CTF may be helpful for these purposes.
+
+### Question 2
+
+Based on these comments, it would appear that the tax treatment for the vendor and the purchaser might not be identical.
+
+### Response 2
+
+The CRA recognizes that asymmetrical tax treatment may arise between the purchaser and vendor of a particular credit; for example, the purchase of the credit may represent a currently deductible business expense to the purchaser, whereas the vendor may have a capital receipt.
+
+### Question 3
+
+In order for any outlay or expense to be deductible in computing a taxpayer's income, the outlay or expense must have been incurred for the purpose of earning income from a business or property. Is the CRA satisfied that this requirement will be met for the acquisition of emission reduction or offset credits?
+
+### Response 3
+
+Given that most taxpayers will be required to reduce their GHG emissions relating to their business operations, the CRA expects that any outlays relating to the acquisition of these credits will normally be made or incurred for the purpose of gaining or producing income from the business. For the purposes of the following discussion we have assumed this to be the case.
+
+### Question 4
+
+One method that a taxpayer may reduce its GHG emissions and earn emission reduction or offset credits is by replacing existing capital assets with newer energy efficient depreciable assets. Alternatively, a taxpayer may purchase these credits from a third party. Does the CRA have any thoughts on the tax treatment of either of these alternatives?
+
+### Response 4
+
+Where a taxpayer reduces its GHG emissions by replacing existing capital assets with newer energy efficient depreciable assets, it is believed that the cost of acquiring the property which gives rise to these credits should generally be included in the capital cost of the particular depreciable properties acquired.
+
+The tax treatment for the cost of purchasing emission reduction or offset credits from a third party will depend on the nature of the rights acquired viewed in the context of the relevant surrounding circumstances. Although it is expected that these credits should be available to be applied against a taxpayer's emission reductions in future years, it is also expected that a particular credit may only be applied once. If so, and the cost of acquiring the credits may be related to the cost of producing the taxpayer's products, we believe that these costs should be included in the cost of goods produced in that year by the taxpayer. Consequently, a portion of the acquisition cost would be deducted in the year as cost of goods sold while the balance will be included in the cost of inventories on hand. Otherwise, the cost of acquiring the credits should generally be deductible in the taxation year in which it is applied.
+
+In the event that the costs of acquiring the credits may be considered capital in nature, for example, the credits are granted indefinitely or for a number of years and the credits may not be carried forward, any capital costs incurred should represent the cost of acquiring either an eligible capital property (indefinite life) or the cost of a depreciable property included in Class 14 (fixed term).
+
+### Question 5
+
+Transactions involving the sale of these credits may range from those which are clearly on income account; for example, a sale by a trader or dealer in such credits, to those where the circumstances are more indicative of a transaction on capital account, for instance, an isolated transaction which is unrelated to the regular business activities of the taxpayer. Can the CRA provide its views as to the tax treatment of the proceeds relating to the sale of emission reduction or offset credits that fall between these two extremes?
+
+### Response 5
+
+The tax treatment of the proceeds received on the sale of emission reduction credits and offset credits will depend on the facts of a particular situation, including the treatment of any acquisition costs. In the event that a taxpayer has acquired such credits for sale, the proceeds will generally be received on income account and should be included in the taxpayer's income at the time that the amount becomes receivable. In addition, to the extent that the acquisition and disposition of such credits may be seen as an integral part of the taxpayer's business (i.e. similar to foreign exchange or hedging transactions), any sale proceeds may be considered to have been received on income account.
+
+To the extent that the cost of acquiring the credits represents the cost of an intangible depreciable property or an eligible capital property or the disposition is otherwise on capital account, the proceeds receivable for the sale of the credits should generally represent proceeds of disposition of either a capital property or an eligible capital amount in accordance with the specific provisions contained in the Act.
+
+### Question 6
+
+Does the CRA envision situations where the proceeds from the disposition of emission reduction credits and offset credits may be a non-taxable receipt?
+
+### Response 6
+
+Generally, an amount received on the disposition of an emission reduction credit or offset credit should be attributable to the taxpayer's business and should not be considered as a non-taxable “windfall”, i.e. an amount that is not attributable to any source.
+
+## Canada-U.S. – Competent Authority Memorandum of Understanding
+
+### Question
+
+Can the CRA discuss the next steps (implementation) of the Canada-US Competent Authority memorandum of understanding (“MOU”)?
+
+### Response
+
+On July 29, 2005, Canada and the United States announced a number of developments designed to implement the MOU that was entered into on June 3, 2005. These developments are as follows:
+
+1. Appointment of Jim Gauvreau, Director, Competent Authority Services Division (“CASD”) and Bruce Messenger, Chief Economist, CASD, to represent the CRA and Tim Dehan, Manager, Tax Treaties, and Clark Armitage, Branch Chief, APA Program, to represent the IRS in bilateral discussions surrounding implementation of the MOU.
+
+2. Setting of agenda priorities for discussion:
+
+- First priority: prepare an MOU that will establish a binding procedure to determine the underlying facts and circumstances of a specific case where factual disagreements persist in a mutual agreement procedure “MAP” case.
+
+- Second priority: create a set of guidelines to resolve cases involving substantive issues that may complicate case resolution. These issues include, but are not limited to, the determination of:
+
+    - an arms length compensation for consignment manufacturing operations,
+
+    - whether a business is integrated to a point where a profits split method is appropriate, and, if so, the relative value of contributions made by related parties toward the generation of profits,
+
+    - the presence of non-routine intangible assets and the determination of an arm's length value,
+
+    - whether a permanent establishment (“PE”) exists and the amount of profit to be attributed to the PE,
+
+    - whether a transaction is properly characterized as a service versus a licensed intangible,
+
+    - the amount of compensation, if any, upon either the closure or relocation of a business and the allocation of associated closing costs, and
+
+    - appropriate relief where the source and residence countries laws are in conflict.
+
+- Third priority: develop guidelines to identify and remove procedural obstacles that impede or delay the process in resolving double taxation cases.
+
+- Fourth priority: create a MOU to address a number of issues surrounding notification.
+
+3. Addressing transitional issues:
+
+Questions have been raised regarding the manner in which existing MAP cases should be managed if issues presented in the case(s) fall within one of the categories of substantive issues identified above. It is important to provide guidance to taxpayers and also their respective organizations regarding the management of such cases during the period while various substantive issues are being addressed in the preparation of issue guidelines. All MAP cases will be considered in an effort to reach agreement and resolve the case(s) in a timely manner. Accordingly, notwithstanding that a particular case may present one or more substantive issues that would otherwise be addressed in a set of guidelines, each case will be considered presently without delay for purposes of discussion and potential agreement. If agreement cannot be reached after a reasonable period of time involving one or more substantive issues, then the case shall be held in abeyance pending the execution of the MOU(s) concerning that issue(s). The case will then be resolved according to the guidelines addressing the substantive issues involved.
+
+4. Execution and release of MOUs.
+
+To provide guidance to taxpayers and their own organizations, each set of guidelines (or MOUs) addressing specific procedural or substantive issues will be publicly released once the document has been agreed to and executed.
+
+## Convention on Mutual Administrative Assistance in Tax Matters
+
+The Organization of Economic Cooperation and Development (“OECD”) – Council of Europe (“CoE”) Convention on Mutual Administrative Assistance in Tax Matters (the “Convention”) entered into force in April 1995 when five states, Denmark, Finland, Norway, Sweden and the United States ratified the Convention. At this time the Convention is in force in 11 countries and three other countries, including Canada, have signed or ratified the Convention but cannot yet apply the Convention.
+
+Under the Convention, participating countries benefit from three forms of administrative assistance: the exchange of information; assistance in the collection of taxes; and delivery of documents.
+
+### Question 1
+
+Regarding the Convention signed in April 2004 by Canada, can the CRA provide any information regarding its application?
+
+### Response 1
+
+First, the Convention will only come into force after amendments have been made to the Canadian tax laws and Canada has advised one of the Depositaries of the Convention (i.e. the Secretary General of the CoE or the Secretary General of the OECD) that the Convention can apply in Canada. Amendments to the Act were included in the technical amendments issued by the Department of Finance in July 2005.
+
+The CRA signed the Convention because it provides useful tools that are not available under our bilateral tax treaties. For example, the Convention will apply to a broader range of taxes (e.g. the Goods and Services Taxes and excise taxes). Most of Canada's bilateral tax treaties only deal with income tax.
+
+The application of the Convention will be similar to the application of our bilateral tax conventions that already provide for the exchange of information. The Convention will not override any bilateral treaties to which Canada is a party. Canada will be able to use the most appropriate instrument in any future exchanges of information.
+
+The Convention allows multilateral exchanges of information in situations where more than two countries are involved in the same case, a feature not available bilaterally. In such circumstances, the Convention could be used for the exchange of information instead of using three or more bilateral tax conventions for such an exchange of information. In our view this will:
+
+- increase international cooperation to combat tax avoidance and tax evasion;
+
+- enhance the ability of CRA to verify that businesses and individuals have paid their fair share of taxes; and
+
+- improve the administration of the Canadian tax system.
+
+In this regard, a number of multilateral simultaneous tax examinations have been undertaken under the Convention by other parties to the Convention, covering both direct and indirect taxes, and have proven to be very effective.
+
+The Convention also:
+
+- entrenches the different types of exchanges of information;
+
+- clarifies how exchange of tax information can be undertaken;
+
+- provides for the conducting of tax examinations abroad; and
+
+- gives the parties the opportunity to decide whether to agree to examine simultaneously, each in their own country, the tax affairs of a person in which they have a common interest.
+
+### Question 2
+
+Under the Convention, participating countries may benefit from three forms of administrative assistance: the exchange of information; assistance in the collection of taxes; and delivery of documents. Is there is any reason why Canada has only agreed to the exchange of information provisions of the Convention?
+
+### Response 2
+
+Canada has not agreed to assist other countries in collecting taxes from Canadian residents because it prefers to continue to negotiate assistance in the collection of taxes on a bilateral basis. Canada has not agreed to the provisions on delivering documents to taxpayers, because our treaty partners have access to Canadian postal and courier services.
+
+## Creation of Capital Losses
+
+We understand that many transactions are being done which are designed to create a capital loss for income tax purposes. As a simple example:
+
+A corporation (“Xco”) disposes of a particular capital property (“gain property”) for its fair market value to an arm's-length person and receives only cash consideration. Xco realizes a significant capital gain on the sale.
+
+Xco incorporates a new corporation (“Newco”) and uses all the cash proceeds that it received on the sale of the gain property to subscribe for common shares of Newco. The common shares of Newco will have a fair market value, paid-up capital and adjusted cost base equal to the subscription amount.
+
+Newco declares and pays a stock dividend on the common shares in the form of redeemable/retractable preferred shares (“high/low shares”) having an aggregate redemption/retraction amount equal to the fair market value of the common shares of Newco immediately before the declaration of the stock dividend but a nominal amount of paid-up capital. The payment of the stock dividend in this situation effectively reduces the fair market value of the common shares of Newco while leaving the adjusted cost base and paid-up capital of such shares unchanged. Further, by virtue of the definition of “amount” in subsection 248(1), since the paid-up capital of the high/low shares of Newco will be only increased by a nominal amount, the amount of the stock dividend in this situation will be nominal.
+
+Xco will then sell the common shares of Newco for their nominal fair market value to a person who is not otherwise affiliated with Xco. Xco will claim a capital loss on the sale and use it to offset the capital gain Xco realized on the sale of the gain property.
+
+### Question
+
+On the assumption that no specific anti-avoidance provisions apply to this type of transaction, would the CRA apply GAAR?
+
+### Response
+
+The CRA will apply GAAR to these types of situations. In our view, the above described transactions result in the creation of an artificial capital loss to Xco because Xco has simply transferred the full fair market value of the common shares of Newco to the high/low shares of Newco and has not suffered a true economic loss. In our view, former subsection 55(1) was directed at transactions, such as the one described above, that were designed to artificially or unduly reduce a capital gain or increase or create a capital loss on the disposition of a property (see *Russell H. Daggett v. MNR* [[Footnote 17]](#P391_78016). The explanatory notes dealing with the repeal of former subsection 55(1) indicate that GAAR is intended to replace this former anti-avoidance provision.
+
+## General Anti-Avoidance Rule and Audit Issues/Concerns
+
+### Question 1
+
+Can the CRA provide an update on some statistics regarding GAAR?
+
+### Response 1
+
+The GAAR statistics as at June 30, 2005 are as follows:
+
+|  |  |  |  |
+
+| --- | --- | --- | --- |
+
+| Cases referred to GAAR Committee from Tax Avoidance | 628 |  |  |
+
+| GAAR applied | 417 (66%) |  |  |
+
+| Primary position | 183 (44%) |  |  |
+
+| Secondary position | 234 (56%) |  |  |
+
+| GAAR not applied | 206 |  |  |
+
+| Decisions deferred | 5 |  |  |
+
+It should be noted that GAAR has also been used as a secondary position in specific tax shelters/projects: RRSP strips, cash-leverage donations, and Barbados spousal trusts. Because of the large number of taxpayers involved in these arrangements, only the arrangement (versus each taxpayer) is referred to the GAAR Committee. Therefore, these multi-taxpayer reassessments are not reflected in these GAAR statistics.
+
+### Question 2
+
+Can the CRA provide some current examples of the types of cases in tax avoidance where GAAR is being considered/applied?
+
+### Response 2
+
+Here are some specific examples where GAAR is a concern:
+
+- Certain international financing arrangements used to create interest expense or import interest expense from other tax jurisdictions (subsection 95(6) could also be a consideration in these arrangements).
+
+- The avoidance of subsection 85.1(4) on the disposition of shares of a foreign affiliate according to subsection 85.1(3). Subsection 85.1(3) provides that where a taxpayer has disposed of shares of a foreign affiliate of the taxpayer to another foreign affiliate of the taxpayer for shares of the capital stock of the acquiring affiliate, the transfer is treated as a “rollover” for Canadian income tax purposes. Subsection 85.1(4) provides that subsection (3) is not applicable in respect of a disposition that is part of a series of transactions or events for the purpose of disposing of the share to a person (other than a foreign affiliate) with whom the taxpayer was dealing at arm's length. The CRA is identifying cases whereby transactions involving sales to arm's length persons are undertaken to circumvent the application of subsection 85.1(4). In addition to GAAR, subsection 95(6) will also be considered.
+
+- The use of stock dividends to:
+
+    - create capital losses to offset capital gains
+
+    - create subsection 164(6) capital loss carry back
+
+    - avoid “kiddie” tax
+
+- Non-Resident trust issues:
+
+    - Barbados Spousal Trust Arrangements, whereby property is transferred to a Barbados spousal trust tax free and sold back to the Canadian spouse in order to create a bump in the cost of capital property relying on the Barbados treaty capital gain exemption.
+
+    - Shifting property to offshore trusts having Canadian beneficiaries in order to shelter income and future gains from Canadian tax using treaty provisions.
+
+- Treaty issues, including treaty shopping to avoid tax on the disposition of taxable Canadian property or to reduce Part XIII withholding tax on interest/dividends/royalties, etc.
+
+- Leveraged cash donation arrangements
+
+- RRSP strip arrangements
+
+- Surplus stripping – domestic and non-resident
+
+### Question 3
+
+What are other compliance issues that are of primary concern for the CRA at the present time?
+
+### Response 3
+
+Other compliance issues that are CRA's primary concerns at the present time include:
+
+- Canadian taxpayers shifting the international portion of their business to a related offshore entity in a tax jurisdiction with a relatively lower tax rate. We are concerned with the transfer prices being used, the subsequent transfer price of goods sold to the offshore corporation and the residency of the offshore entity.
+
+- Canadian businesses transferring intangibles assets to related tax haven corporations. The CRA is concerned with the sale price of the intangible, value of royalties charged and the residency of the related corporation.
+
+- Foreign tax paid: foreign tax credits created/claimed improperly.
+
+- Crown charges: royalties paid to Canada or a province, other than a prescribed amount (i.e. subparagraph 1211(*d*)(ii) of the *Regulations*).
+
+- Loss continuity: errors in the loss pools and the propriety of the application of losses in reducing taxable income of other years.
+
+- All gifting arrangements that result in inflated charitable donations tax credits/deductions.
+
+## Draft Legislation
+
+### Question 1
+
+What is the CRA's practice in respect of legislative amendments that have not yet been enacted?
+
+### Response 1
+
+It is the CRA's longstanding practice to ask taxpayers to file on the basis of proposed legislation. This practice eases both the compliance burden on taxpayers and the administrative burden on the CRA. However, where proposed legislation results in an increase in benefits (e.g. Canada child tax benefit) to the taxpayer or a significant amount of rebate or refund is at stake, generally, the CRA's past practice has been to wait until the measure has been enacted.
+
+### Question 2
+
+What practical guidance can the CRA provide to taxpayers with respect to the proposed legislation involving Non Resident Trusts (NRTs), Foreign Investment Entities (FIEs) and Foreign Affiliates (FAs), where there has been uncertainty with respect to the final wording of the proposed legislation?
+
+### Response 2
+
+With respect to the existing legislative proposals concerning NRTs, FIEs and FAs that have been made public by the Department of Finance, when deciding whether or not to file based on the wording of the existing law rather than the wording of those legislative proposals, taxpayers should be conscious of the proposed application dates for those legislative proposals. Taxpayers that choose to file based on the wording of the existing law rather than the wording of the existing legislative proposals are expected to bring their tax affairs up-to-date, in a timely manner, once the legislative proposals become law. In this case, the CRA may waive penalties as appropriate.
+
+## Update on Subsection 95(6)
+
+Paragraph 95(6)(*b*) applies, *inter alia,* where a person acquires or disposes of a share, and the principal purpose of the acquisition or disposition is to avoid, reduce or defer tax. If the paragraph applies, the acquisition or disposition of the share is deemed not to have taken place. The CRA considers that subsection 95(6) applies to various relationships involving foreign affiliates and financing structures. At the 2004 CTF annual conference, the CRA said it could consider identifying examples of structures that do not offend subsection 95(6).
+
+### Question
+
+Can the CRA provide a follow-up?
+
+### Response
+
+The CRA continues to be of the view that subsection 95(6) is a broadly worded anti-avoidance rule. Since the 2004 CTF Conference, the CRA has been preparing some examples of structures where it considers that paragraph 95(6)(*b*) will apply, and of structures where it considers that paragraph 95(6)(*b*) will not apply. The CRA intends to publish the examples in an ITTN at some future date. Completion of the ITTN has been postponed pending the outcome of the *Univar Canada Ltd* case that was heard in the Tax Court of Canada in May 2005. However, some of the draft examples were discussed during the CRA roundtable at the May 2005 International Fiscal Association (“IFA”) Conference in Toronto.
+
+Representatives of the Income Tax Rulings Directorate, the Tax Avoidance and Special Audits Division, and the International Tax Directorate in Head Office will review all potential subsection 95(6) reassessments.
+
+## Update on Transfer Pricing
+
+At the CTF annual conference in 2004, the CRA had indicated that there were 6 re-characterization referrals received by the Transfer Pricing Review Committee (“TPRC”) that had been referred back to the field for further review.
+
+### Question
+
+Can the CRA provide an update on re-characterizations and, in particular, what kind of re-characterizations are being made?
+
+### Response
+
+As of August 2005, a total of 12 re-characterization referrals have been received by the TPRC. Of these, 2 are at the stage where proposals will be issued; information is still being gathered on the other 10 cases.
+
+In the event re-characterization is found to apply, and the reassessment is approved by the TPRC, we do not view the legislation as changing the transaction that was factually entered into; we view the legislation as providing for an alternative transaction that will form the basis for taxation under the Act.
+
+From a practical standpoint, a reassessment under paragraph 247(2)(*b*) is likely to mean that the income and expenses, gains, asset and loss pools etc. that were reported based on the actual transaction, will be compared to what would have been reported had the transaction been the one that arm's length parties would have entered into, and the resulting tax benefit will be quantified if the Act were to apply to the former, rather than the latter transaction. The Act will then be applied to the latter transaction to arrive at the reassessment.
+
+In a case where persons would have transferred ownership in an asset (through a sale or as a capital injection) at arm's length, but factually they have entered into a licence agreement, and it has resulted in a tax benefit, this might mean that, in addition to the impact on income assessed, other provisions in the ITA relating to gains/losses on disposition, capital cost allowance, etc. might now be expected to apply.
+
+## Joint International Tax Shelter Information Centre
+
+On April 23, 2004, Canada signed a Memorandum of Understanding establishing a Joint Task Force and for the creation of a Joint International Tax Shelter Information Centre (“JITSIC”). The other signatories include Australia, the U.K. and the U.S. The Task Force is intended to increase collaboration and co-ordinate information about abusive tax transactions. The initial focus will be on the ways in which financial products are used and on identifying promoters who develop and market these products.
+
+### Question
+
+Can the CRA tell us what has been learned in the first year with JITSIC and what exchanges of information have occurred?
+
+### Response
+
+Australia, Canada, the United Kingdom and the United States continue to participate in JITSIC and all countries continue to have delegates in Washington D.C. It has been less than a year since JITSIC became operational and it took some time to set up the infrastructure and procedures. Therefore, exchange of information is in the early stages. Information exchanged to date can be put into three broad categories.
+
+- General information is exchanged among the JITSIC jurisdictions with respect to laws, administrative practices, and experience with aggressive tax evasion and avoidance.
+
+- Generic information is exchanged with respect to specific schemes that have been detected. These are descriptions based on real cases but names and identifying facts are not disclosed. Because the schemes have no identifying facts, the information can be shared freely among the JITSIC countries.
+
+- Taxpayer specific information is exchanged where that information is relevant to the taxpayer's tax liability in the country receiving the information. Due to confidentiality provisions, taxpayer specific information is only exchanged between two countries where there is a nexus, not with all JITSIC members.
+
+The close collaboration of the four JITSIC countries has broadened the CRA's knowledge on aggressive tax avoidance and evasion schemes and the methods used to counteract them.
+
+## Enhanced CRA Audits
+
+The 2005 Federal Budget proposed to invest $30 million annually in enhanced CRA audit and collection activities in respect of international tax evasion and aggressive international tax planning.
+
+### Question
+
+Could the CRA advise us on how these funds will be deployed and what steps have been taken to date?
+
+### Response
+
+The International Tax Directorate (“ITD”) and the Tax Avoidance and Special Audit Division (“TA”) have formed a strategic partnership to undertake a new initiative with respect to the announcement in the 2005 Federal Budget of a $30 million investment to specifically address Aggressive International Tax Planning (“AITP”). These resources will be used to increase audit and compliance capacity with respect to cross-border and international transactions using a risk-based approach and investing in research and analytical capability. This funding will help ensure that more high-risk schemes, especially those involving AITP, will be identified and audited than was possible previously.
+
+The resources will be used in:
+
+- Creating 11 centres of expertise across the country (combining international tax and tax avoidance officers to develop new ways to track and combat AITP);
+
+- Having auditors in each region;
+
+- Identifying potential projects and conducting research;
+
+- Doing test audits and identifying risk indicators; and
+
+- Building acquired experience into risk models.
+
+The resources have already been allocated to the field, and the field offices are now in the process of filling the positions.
+
+The AITP Resources to be allocated to the field on an on-going basis are:
+
+|  | FTEs* | Total Costs $ |
+
+| --- | --- | --- |
+
+| Total ITD & TA (50% & 50%) | 213 | 21.5M |
+
+| Other Areas – Appeals, Collections, Investigations, etc. | 36 | 3.3M |
+
+| Corporate Support Costs | 32 | 1.9M |
+
+| Other Government Departmental Costs (Justice, etc.) |  | 3.3M |
+
+| Total Resources | 281 | 30M |
+
+*Full-Time Equivalent
+
+## Treaty Interpretation and the Meaning of “Liable to Tax”
+
+In order to qualify for the benefits under Canada's tax treaties, a person must be considered a resident of a contracting state. To be a resident of a contracting state for treaty purposes, a person must be “liable to tax” in that state by virtue of a criterion referred to in the treaty. Treaty residence is also a prerequisite for certain deductions under Canada's domestic foreign affiliate rules and regulations.
+
+The question arises as to what level of taxation the jurisdiction must levy on that person's income before the person could be considered “liable to tax” under an income tax treaty. If a person is “liable to tax” under the criteria in the particular treaty, such person is entitled to the benefits of the treaty and, in the case of a foreign affiliate of a Canadian corporation, to exempt surplus treatment of certain dividends paid to the Canadian corporation.
+
+### Question 1
+
+What is the CRA's current position on “liable to tax”?
+
+### Response 1
+
+Based on our interpretation of the Supreme Court of Canada decision *The Queen v. Crown Forest Industries Ltd et al* [[Footnote 18]](#P531_92350) the CRA's current position is that to be considered “liable to tax” a person must be subject to the most comprehensive form of taxation that exists in the relevant country. For Canada, this generally means full tax liability on worldwide income.
+
+Most entities residing in countries with which Canada has a tax treaty are subject to tax under the countries' general tax system on worldwide income at a rate comparable to Canadian rates, but particular entities are, according to special regimes, either specifically exempted from such taxation or taxed at very low rates that are capped at a maximum amount. The CRA currently considers that certain entities benefiting from such special regimes may not be subject to the most comprehensive form of taxation and, therefore, would not be “liable to tax”.
+
+Tax professionals have pointed out that the same rationale should apply to charities and pensions, but we nonetheless consider such persons as “residents” under our treaties and give them treaty benefits. In light of this apparent inconsistency, tax professionals requested that we revisit our position.
+
+### Question 2
+
+Is the CRA reviewing its current position?
+
+### Response 2
+
+Yes, we are undertaking a review, which includes consulting with the Department of Justice and with the Department of Finance. Hopefully, by the end of this year we will be able to make an announcement with respect to our position.
+
+## Retirement Compensation Arrangements
+
+The definition of retirement compensation arrangement (“RCA”) in subsection 248(1) is very broad because one purpose of the rules is to prevent avoidance of the Act's limitations on pension plans. In effect, the RCA rules are intended to ensure that unregistered pension benefits are not accorded the tax benefits of registered plans. However RCAs are now being used, in their own right, as tools to provide benefits to employees over and above those provided under registered plans.
+
+### Question
+
+Can the CRA provide any recent interpretative issues regarding the use of RCAs?
+
+### Response
+
+The CRA has recently considered arrangements to fund benefits that are to be provided to employees under the provisions of plans that are identified as unregistered pension or supplementary pension plans. CRA has taken the position that these plans will generally be RCAs if the arrangements are pension plans and the benefits being provided are reasonable. Where a plan provides benefits that are not reasonable, the CRA is of the view that a salary deferral arrangement will exist.
+
+The CRA is taking the view that benefits will not be reasonable if, for example, they are more generous than benefits that would be commensurate with the employee's position, salary and service or they do not take into account benefits that are provided through one or more registered plans.
+
+It has come to the CRA's attention that innovative tax plans purporting to be RCAs are being marketed and promoted to avoid taxes. Here are some examples: corporations that contribute excessive amounts for the benefit of owner/managers who would receive the amounts after moving offshore, corporations that are attempting to use such arrangements to streamline their long-term profits and corporations that are claiming deductions for contributions that are part of a series of contributions/loan-backs. Tax avoidance schemes purporting to be RCAs will be targeted for review with the aim of, for example, applying the salary deferral arrangement rules, denying deductibility, applying subsection 15(1) and/or subjecting the arrangements to GAAR.
+
+## Permanent Establishments
+
+In its decision in *Toronto Blue Jays Baseball Club v. Ontario* 2005, O.J. No. 485, the Ontario Court of Appeal held that locker rooms and other designated spaces provided to the Toronto Blue Jays, Maple Leafs, and Raptors when they play outside Ontario are not permanent establishments (“PE”) of those organizations for purposes of Ontario's *Employer Health Tax Act*. An application for leave to appeal was submitted to the Supreme Court of Canada on August 8, 2005.
+
+### Question
+
+What influence, if any, has the recent Ontario Court of Appeal decision in the *Blue Jays* decision had on PE issues?
+
+### Response
+
+The Tax Court of Canada is not bound by decisions rendered by the Ontario Court of Appeal. The decision of a court of another jurisdiction only acts as persuasive authority. The degree of persuasiveness is largely dependent upon the similarity between the provincial legislation and the federal legislation and upon the interpretation principles applicable to each.
+
+One should be careful in importing jurisprudence regarding provincial tax legislation to the analysis of tax treaties. The PE definition under provincial health tax legislation differs from the PE definition under Canada's tax treaties. For example, the Ontario's *Employer Health Tax Act* states that a PE “includes any fixed place of business” while Article 5 of our treaties states that a “PE means a fixed place of business *through which the business of an enterprise is wholly **or partly** carried on*”. Also, the Quebec *Taxation Act* and the *Act respecting the* *Régie de l'assurance-maladie du Québec* refer to “establishment” as opposed to “permanent establishment”, and have significant distinctions and particularities within the definition. Such departures from the treaty PE concept necessarily lead to a different analysis, if not to a different conclusion.
+
+But the CRA agrees with the conclusion that, in general, a visitor's locker room would not be a PE under our treaties for a professional sports team. The analysis done by the Ontario Court of Appeal in reference to this issue under Ontario's *Employer Heath Tax Act* would fall short of what is necessary in the determination of a PE under tax treaties. For example, a complete treaty analysis of a PE would have to be broken down into the three elements of the definition under Article 5 of the relevant tax treaty and would refer to the OECD Commentary for guidance. Paragraphs, such as paragraphs 4 to 4.5 of the OECD Commentary, would have been relevant to the PE analysis if the case had occurred in a treaty context.
+
+Also, most provincial tax legislation deems a corporation to have a PE (or an “establishment”) at the place where it uses substantial machinery or equipment. This additional departure from the treaty PE definition explains why, in the decision *Club de Baseball Montréal ltée c. Québec*, [1995] J.Q. no 3222 (which case is factually similar to the *Blue Jays* case), it was concluded that the visitor's locker rooms in stadiums of other teams constituted “establishments of the employer” for the Montréal Baseball Club. Therefore, the application of the Quebec health tax legislation and the Ontario health tax legislation to similar fact scenarios produced opposite results.
+
+Therefore, we believe that the *Blue Jays* decision is of little persuasive value to treaty interpretation. We would also note that the Blue Jays have sought leave to appeal and we will have to see whether the Supreme Court grants the leave application.
+
+## Footnotes
+
+**[Footnote 1]**
+
+80 DTC 6062, [1980] CTC 109.
+
+**[Footnote 2]**
+
+98 DTC 6065, [1998] 1 CTC 272.
+
+**[Footnote 3]**
+
+*Melford Developments Inc. v. Her Majesty the Queen*, 80 DTC 6074, [1980] CTC 141 (FCTD).
+
+**[Footnote 4]**
+
+*Beauport v. Quebec R.L. and P. Company*, (1945) SCR 16, *Falconbridge Nickel Mines Ltd. v. M.N.R*., 65 DTC 5304, *Lount Corp. v. Canada*, 19 D.L.R. (4th) 304, *Northern Telecom Ltd. v. Communications Workers of Canada*, [1980] 1 SCR 115, *Union des employés de service, local 298 v. Bibeault* (1998), [1988] 2 SCR 1048, *Ontario Hydro v. Ontario (Labour Relations Board)*, [1993] 3 SCR 327.
+
+**[Footnote 5]**
+
+Patrick Boyle, Sharon Gulliver, Gérald Lalonde, Anne-Marie Levesque, and Paul Lynch, “The GAAR Committee: Myth and Reality,” 2002 Conference Report, pp. 10:8 – 10:9.
+
+**[Footnote 6]**
+
+98 DTC 6334, [1998] 3 CTC 303.
+
+**[Footnote 7]**
+
+2001 DTC 5471, [2001] 4 CTC 82.
+
+**[Footnote 8]**
+
+2004-0087761E5, dated May 24, 2005.
+
+**[Footnote 9]**
+
+72 DTC 6007, [1972] CTC 18.
+
+**[Footnote 10]**
+
+*Capital Gains Strips: A Revenue Canada Perspective On the Provisions of Section 55*, presented by J.R. Robertson at the 1981 annual conference of the Canadian Tax Foundation; *Section 55: A Review of Current Issues*, presented by Robert J.L. Read at the 1988 annual conference of the Canadian Tax Foundation; and *Income Earned or Realized: Some Reflections*, presented by Michael Hiltz at the 1991 annual conference of the Canadian Tax Foundation.
+
+**[Footnote 11]**
+
+2003 DTC 5506, [2003] 4 CTC 185.
+
+**[Footnote 12]**
+
+Ruling No. 2004-0062961R3, dated May 5, 2004.
+
+**[Footnote 13]**
+
+See *Canadian Tax Highlights* (June 2004).
+
+**[Footnote 14]**
+
+Tax shelter, in this context, refers to a tax shelter as defined in the Act and, more generally, to any primarily tax driven financing and investment scheme.
+
+**[Footnote 15]**
+
+See IC 70-6R5, ¶ 15(j).
+
+**[Footnote 16]**
+
+See IC 70-6R5, ¶ 10.
+
+**[Footnote 17]**
+
+93 DTC 14, [1992] 2 CTC 2764.
+
+**[Footnote 18]**
+
+95 DTC 5389, [1995] 2 CTC 64.

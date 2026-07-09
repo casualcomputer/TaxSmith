@@ -1,0 +1,156 @@
+---
+title: "Maxi-Mag Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28998/index.do"
+last_modified: "2008-12-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 663"
+citation2: ""
+neutral_citation: "2008 TCC 663"
+decision_date: "2008-12-03"
+language: "en"
+item_id: "28998"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6747
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:34:00.538000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9d590bc679f5ef9b758169c98886375acae33c22868885aac0869744a4172b62"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Maxi-Mag Inc. v. The Queen
+
+- Citation: 2008 TCC 663
+- Decision date: 2008-12-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6747, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Maxi-Mag Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-12-03
+Neutral citation
+2008 TCC 663
+File numbers
+2007-606(GST)G
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2007-606(GST)G
+BETWEEN:
+MAXI-MAG INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on November 17, 2008, at Montréal, Quebec
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Counsel for the Appellant:
+Benoit Tremblay
+Counsel for the Respondent:
+Martine Bergeron
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under Part IX of the Excise Tax Act, the first notice of which is dated October 20, 2005, bears the number 03110101038, and pertains to the period from February 1, 2003, to January 31, 2005, and the second notice of which is dated February 8, 2006, does not bear any number, and pertains to the periods from February 1, 2005, to April 30, 2005, and from August 1, 2005, to October 31, 2005, are dismissed.
+Signed at Montréal, Quebec, this 3rd day of December 2008.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+on this 14th day of May 2009.
+François Brunet, Reviser
+Citation: 2008 TCC 663
+Date: 20081203
+Docket: 2007-606(GST)G
+BETWEEN:
+MAXI-MAG INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre J.
+[1] Maxi-Mag Inc. is appealing from assessments made by the Minister of Revenue of Québec ("the Minister") under the Excise Tax Act ("the ETA") for the periods from February 1, 2003, to January 31, 2005, February 1, 2005, to April 30, 2005, and August 1, 2005, to October 31, 2005. Upon making these assessments, the Minister claimed tax from the Appellant in the amounts of $47,188.29 and $1,461.62, including interest and penalties, in connection with unreported cigarette sales for the periods in issue. The Appellant was authorized to sell discount-brand cigarettes (Suprême, Baileys, Tabec, Pulsar, Trad-A and La Percée) to retailers, and held a "collection officer" permit under the Tobacco Tax Act since February 2000. The Appellant is contesting the assessments on the grounds that it reported all its tobacco sales, and that the Minister is attributing the additional sales to it in error.
+[2] The Appellant was incorporated by Patrick Lavallée. His father, Yves Lavallée, operates the business. He is responsible for the Appellant's tobacco purchases and deliveries. Yves Lavallée is also a tobacco vendor, and he personally applied for, and was denied, a tobacco distribution permit. His son agreed to help him by applying for a permit on the Appellant's behalf.
+[3] Jean-Guy Brûlé, a tax auditor for Revenu-Québec, conducted the audit that led to the assessments under appeal. He began by visiting the location where the Appellant stored its tobacco inventory: a place made available to it free of charge by Marcel Guérin, the president of Entrepôt A-1 Inc., which warehoused goods from foreign countries pending customs clearance. Mr. Guérin is a friend of Yves Lavallée. He explained that he let Mr. Lavallée store his cases of cigarettes in his warehouse as he saw fit, and did not get involved.
+[4] When Mr. Brûlé showed up unannounced at the warehouse on November 23, 2004, neither Mr. Guérin nor Mr. Lavallée was there. Only two employees of Mr. Guérin's were on the premises, and they showed only two cases of cigarettes that had been left at the warehouse. On the same day, Mr. Brûlé phoned Mr. Guérin to verify the accuracy of the inventory that the Appellant had left at its warehouse that day. Mr. Guérin confirmed that there were only two cases there. In court, Mr. Guérin testified that he had always assumed that Mr. Lavallée left all the inventory in the same place. He said that if there were cases elsewhere in the warehouse that day, it might have been the first time that this ever happened. In a telephone conversation that same day, Mr. Lavallée told Mr. Brûlé that he transported inventory in his truck as well. Mr. Brûlé then asked him to provide load manifests setting out the quantities purchased upon each load of tobacco being placed in the truck. It appears that Mr. Lavallée replied that he did not retain these manifests, whereupon Mr. Brûlé asked him to retain all future manifests and send them to him. After this, Mr. Lavallée apparently sent Mr. Brûlé seven manifests between November 25, 2004, and December 2, 2004. The manifests (Exhibit I‑11) are numbered 1 through 7. However, they record sales by the Appellant, not purchases. Mr. Brûlé explained that it is the purchases that need to be recorded on the manifests, in order to show that the tobacco was purchased legally from authorized collection officers. The manifests can then be used to verify inventory. Mr. Brûlé also found it very surprising that the numbering of these manifests began with the number 1, since Mr. Lavallée told him that he had always filled out manifests in the past, but that he did not keep them.
+[5] Mr. Brûlé returned to the warehouse unannounced on November 30, 2004. This time, Mr. Guérin was there, and had more cases of tobacco than the previous time: roughly 30 (Exhibit A-1).
+[6] Mr. Brûlé then tried to reconcile the inventories on the basis of what the Appellant reported on December 5, 2003 (the date when the tobacco tax increased, which required authorized tobacco vendors to state what their inventories were on that date). To that inventory of December 5, 2003, Mr. Brûlé added the Appellant's cigarette purchases from December 5, 2003, to November 23, 2004, the date of his first surprise visit to the warehouse. He then subtracted from that total the reported cigarette sales for the same period. The purchases and sales were determined on the basis of the business's purchase and sales journal. Upon doing this reconciliation, Mr. Brûlé noticed that a large quantity of tobacco should have been at the warehouse, in view of the unsold quantity of tobacco. However, at the time of his surprise visit of November 23, 2004, there were only two cases of tobacco, that is to say, 100 cartons of 200 cigarettes. In view of the reconstructed inventory, there should have been 1,726 cases (the figure arrived at by adding up the reconstructed inventory for each brand of tobacco that the Appellant was authorized to sell) (Exhibit I‑8).
+[7] In addition, Mr. Brûlé says that, from November 23 to November 30, 2004, no purchases were entered in the Appellant's books. For the period from November 25 to December 2, 2004, on the basis of the manifests that Mr. Lavallée sent to Mr. Brûlé upon request, the stock contained in the truck could not have been the entire missing inventory. Indeed, on cross-examination, Mr. Lavallée acknowledged that his truck could hold no more than fifteen 50-carton cases, or a total of 750 cartons. Moreover, he had no insurance coverage for cigarette transportation, and he acknowledged that he kept a minimal amount of cases in his truck, and that he delivered them the same day. Yet, according to Mr. Brûlé, from November 18 to November 25, 2004, the sales journal reported no sales, a fact that caused him to doubt whether Mr. Lavallée was storing cases in his truck during that period.
+[8] Moreover, an inspection report under the Tobacco Tax Act had already been made with respect to Mr. Lavallée. The report charged him with transporting tobacco products that he was not authorized to sell, and for which he had no load manifests showing where the products had been purchased. His case was handled by Special Investigations, and he pleaded guilty to offences committed in 2000 and 2003 in contravention of the Tobacco Tax Act, for which he paid fines of up to $8,000.
+[9] Lastly, the Appellant's perpetual inventory (Exhibit I‑10) showed negative inventory levels as early as 2001, suggesting that certain purchases were not entered in the accounting books. In his laconic testimony, Mr. Gmora, the Appellant's accountant, tried to explain this by saying that the purchases were entered after the sales.
+[10] Having obtained all this information, Mr. Brûlé inferred that there were unreported tobacco sales, and prepared a first draft assessment quantifying unremitted Goods and Services Tax (GST) on unreported sales (Exhibit I‑8).
+[11] Following the submission of this first draft assessment based on inventory reconciliation, Mr. Brûlé and his team leader Denis Perron met with Mr. Lavallée and his accountant in May 2005. At the meeting, Mr. Lavallée stated that, on November 23, 2004, there were seven to nine other cases at the back of the warehouse that Mr. Guérin had not seen. Mr. Lavallée apparently also told Mr. Brûlé that, commencing November 25, 2004, all his inventory was kept near the warehouse entrance door. Mr. Lavallée also stressed the fact that this draft assessment did not take account of the inventory in the truck, and that, because of this, the draft assessment contained mistakes (see Exhibit I‑9, the audit report, at page 1.5). Following this meeting, Mr. Brûlé and Mr. Perron decided to reconsider the file on a completely different basis. They asked Mr. Lavallée to produce [TRANSLATION] "all the handwritten invoices issued [to customers] [as well as] the unused invoices, in order to establish the numerical sequence of those invoices." (See Exhibit I‑2, the demand letter of June 21, 2005.)
+[12] Indeed, in his testimony, Mr. Lavallée explained that he would issue his customers a first invoice on which he wrote, by hand, the quantity of tobacco purchased by the customer as well as the purchase price including GST. Mr. Lavallée was paid immediately upon the issuance of the handwritten invoice. That evening, or the next day, Mr. Lavallée entered the contents of the handwritten invoice on a computer, and sent the electronic invoice to the customers (for an example, see Exhibit A‑4). In the course of the audit, Mr. Lavallée provided Mr. Brûlé with all the electronically-prepared invoices in his possession, with the corresponding handwritten invoices attached (one such invoice per year was tendered in evidence as an example, and these invoices are contained in Exhibit I‑1).
+[13] Mr. Brûlé realized that the electronic invoices followed a numeric sequence, but that, strangely, the corresponding handwritten invoices did not. Indeed, he noticed that there were roughly a dozen handwritten invoices bearing the number 1, the number 2, or the number 41, for example. Mr. Lavallée explained that he used several small invoice booklets when he made his sales, and that he did not pay attention to the numerical sequence.
+[14] However, Mr. Brûlé noticed that there were far too many discrepancies between the sequential numbers of the handwritten invoices that were attached to the electronic invoices. He also noticed that the handwritten invoices never bore a number above 50. He therefore drew the inference that Mr. Lavallée used booklets of 50 handwritten invoices, and determined that Mr. Lavallée must have used an average of twelve 50‑invoice booklets (since certain handwritten invoice numbers were repeated a dozen times).
+[15] Subsequently, Mr. Brûlé determined an average number of cartons per invoice based on the electronically-prepared invoices that he was given. His next step, based on that average, was to calculate the total number of cartons sold, on the assumption that the Appellant must have issued at least 600 invoices (50 invoices x 12 booklets) between April 1, 2003, and December 5, 2003, and between December 6, 2003, and January 13, 2005 (Exhibit I‑9, pages 3.15 and 3.83) From this total, Mr. Brûlé deducted the sales of cartons purchased from authorized collection officers (the Appellant is authorized to purchase tobacco only from such officers). He concluded that the difference represented cartons unlawfully purchased from sources other than collection officers. Indeed, as stated above, Mr. Lavallée had already been arrested and convicted, in 2000 and 2003, on charges of possession of tobacco cartons that he was not entitled to resell, contrary to the Tobacco Tax Act. Indeed, that is why his son is the Appellant's owner. Yves Lavallée refused to pay the $100,000 bond that he was asked to pay in order to obtain his permit in view of his past offences under the legislation.
+[16] Mr. Brûlé thus determined an average selling price for these unlawfully purchased tobacco cartons, and calculated the GST on these unreported sales, leading to the assessments currently under appeal.
+The parties' arguments
+[17] Counsel for the Appellant submits that the additional sales attributed to him are based on suspicions and are completely unrealistic. He tendered, as Exhibit A‑3, a letter from the consumption tax audit unit of the Ministère du Revenu du Québec, dated April 5, 2002, further to an audit pertaining to the period from November 1, 1999, to July 31, 2001, in which the Appellant was asked to make corrections to his invoicing in order to comply with the requirements of the Tobacco Tax Act, and to state the sales tax on the selling price separately on all invoices.
+[18] In a previous letter, dated March 22, 2002, the Minister made no adjustment to the GST returns, Québec Sales Tax (QST) returns and tobacco tax returns filed by the Appellant for the same period (Exhibit A‑3).
+[19] Mr. Lavallée explained that he always uses the same billing method. He issues a handwritten invoice for the tobacco sold, and re-enters the sale on an electronic invoice that he sends to the customers. He argues that the fact that the handwritten invoices are not in numerical sequence is immaterial. Indeed, according to his explanations, he had several booklets of handwritten invoices with him, and he did not pay attention to the invoices that he used when he made sales to customers.
+[20] Moreover, counsel for the Appellant insists that the inventory taken by Mr. Brûlé on November 23, 2004, cannot have reflected reality. Indeed, as early as November 30, 2004, Mr. Brûlé noticed that there were roughly 30 cases at the warehouse. If there were no purchases between November 23 and November 30, 2004, there could not possibly have been just two cases upon Mr. Brûlé's first visit on November 23. In his submission, the attribution, by the Minister, of all these unreported sales to the Appellant in unwarranted because these sales are based only on estimates, not on actual evidence that tobacco was purchased from people who did not have a collection officer's permit.
+[21] For her part, counsel for the Respondent argues that the assessments are based on several facts. First of all, she finds it surprising that doubt is being cast on the statement made by Mr. Guérin, the warehouse owner, to the effect that there were only two cases in the warehouse on November 23, 2004. She submits that, on the basis of his testimony, there is no ground to believe that there could have been any cases elsewhere. As for the goods that were supposedly in Mr. Lavallée's truck, she noted that he was unable to provide any manifests showing that the inventory was in the truck on November 23, 2004.
+[22] Moreover, no purchases were entered in the Appellant's books from November 23 to November 30, 2004. Hence, Counsel for the Respondent infers that the difference in the physical inventories at the warehouse between November 23 and November 30, 2004, may constitute purchases from sources other than authorized collection officers. Mr. Lavallée has admitted to possessing tobacco that he was not authorized to resell. He has pleaded guilty to offences under the Tobacco Tax Act. She submits that, given these facts, it is natural to have doubts about the totality of the tobacco sales reported by the Appellant.
+[23] Counsel for the Respondent notes that the Minister, after noticing inventory shortfalls, adopted a completely new approach before issuing assessments. Now, he noticed a flagrant shortage of invoices prepared by hand. There appear to have been 364 electronic invoices (based on the audit report, Exhibit I‑9, at pages 3.14 and 3.22), to which handwritten invoices completely out of numerical sequence were attached. Mr. Brûlé estimated that there were roughly 600 handwritten invoices. The difference is substantial. Counsel for the Respondent submits that Mr. Lavallée has only himself to blame. If he had not been caught in possession of tobacco that he acquired from people who do not have a collection officer's permit, if there had not been problems reconciling the Appellant's inventories, and if he had kept the load manifests proving the quantities of tobacco purchased, the outcome of the audit would undoubtedly have been different. In her submission, the Appellant has not rebutted the presumption that the assessments are valid, and they should be confirmed.
+Analysis
+[24] Counsel for the Appellant cited one of my decisions, rendered in a completely different context, to argue that the onus is on the Respondent to show, on a balance of probabilities, that the assessments are well-founded. In Lavie v. The Queen, [2006] T.C.J. No. 521 (QL), I held that the respondent could not simply justify her assessment by means of presumptions that the taxpayer had little or no means to rebut. There, on the basis of inferences drawn from police investigations, the Minister determined that the taxpayer personally gained income from cocaine trafficking, and the Minister claimed GST on the presumed income. I held that this was a case where, in my opinion, the burden of proof was on the Minister. The decision was not appealed from.
+[25] In the instant case, I feel that it is important to recall the settled principles concerning the burden of proof — principles which, in fact, I repeated in Lavie. The Federal Court of Appeal addressed the specific point in Orly Automobiles Inc. v. Canada, [2005] F.C.J. No. 2116 (QL), at paragraph 20:
+20 To sum up, we see no merit in the submissions of the appellant that it no longer had the burden of disproving the assumptions made by the Minister. We want to firmly and strongly reassert the principle that the burden of proof put on the taxpayer is not to be lightly, capriciously or casually shifted. There is a very simple and pragmatic reason going back to over 80 years ago as to why the burden is on the taxpayer: see Anderson Logging Co. v. British Columbia, (1925) S.C.R. 45, Pollock v. Canada (Minister of National Revenue) (1993), 161 N.R. 232 (F.C.A.), Vacation Villas of Collingwood Inc. v. Canada (1996), 133 D.L.R. (4th) 374 (F.C.A.), Anchor Pointe Energy Ltd. v. Canada, 2003 FCA 294. It is the taxpayer's business. He knows how and why it is run in a particular fashion rather than in some other ways. He knows and possesses information that the Minister does not. He has information within his reach and under his control. The taxation system is a self‑reporting system. Any shifting of the taxpayer's burden to provide and to report information that he knows or controls can compromise the integrity, enforceability and, therefore, the credibility of the system. That being said, we recognize that there are instances where the shifting of the burden may be warranted. This is simply not one of those cases.
+[26] In this case, the Appellant has been assessed on income from his business. Only Mr. Lavallée knows how and why his business operates the way it does, and not in some other manner. He knows and possesses information that the Minister does not. The Appellant could have avoided an arbitrary assessment by keeping his purchase manifests, and by keeping inventory consistent with his purchases and sales journals. The Appellant had this information within his reach and under his control. To shift the burden of proof and no longer require the Appellant to provide and report the information that it knew, and to place the burden on the Minister, would, in the instant case, "compromise the integrity, enforceability and . . . credibility of the system", which is based on self-assessment. This is why I am of the view that the instant case differs from Lavie and that the burden is on the Appellant to show that the assessments are not well-founded.
+[27] Given his attitude in the past and during the period in issue, and owing to his contradictory statements, Yves Lavallée, the person on whom the business depends, casts serious doubts on the Appellant's assertions that it reported all its sales during the period in issue. In 2000 and 2003, he admitted to possessing tobacco products that he was not authorized to resell. During the period in issue, he did not retain the purchase manifests, even though he should have known that it was his duty to do so, particularly after having to pay fines with respect to offences under the Tobacco Tax Act.
+[28] The discrepancy between the purchase and sales journal and the warehouse inventory is also attributable to his conduct. He alone was aware of the purchases and sales, and it was his duty alone to faithfully transcribe all the transactions engaged in. The explanations that he provided to the tax auditor did not justify the discrepancies to any extent. Indeed, although Mr. Brûlé saw only two cases at the warehouse on November 23, 2004, Mr. Lavallée spoke of seven or nine cases. Even if the latter number was accurate, he had nothing to show that he was transporting some fifteen cases in his truck that day. Given that he was not insured, and that he reported no sales that week, it is very unlikely that he was transporting the balance of the inventory with him. At the hearing, he told the Court that the fact that there were 30 cases at the warehouse on November 30, 2004, means that they were probably already there on November 23, because there were no purchases between November 23 and November 30, 2004. Yves Lavallée's versions are at variance, and this certainly undermines his credibility.
+[29] The Minister has followed two approaches and eventually found that the Appellant was not reporting all its sales. The points that I have discussed above in my reasons were taken into account in the assumptions on which the Minister based the assessments. There were deficiencies in the inventories and the billing. The fact that the Minister did not question the Appellant about its billing in the past cannot be used by the Appellant as a justification for its laxity.
+[30] Although the methods used by the Minister to reconstruct the unreported income can never be precise, and are, by definition, arbitrary, I find that the Appellant has not shown me, on a balance of probabilities, that the method used in the instant case was unreasonable. The Minister determined, following two different approaches, that the Appellant was not reporting all its income. The onus was on the Appellant to prove that there was no justification for the estimate of the unreported income. The Appellant was unable to make such a showing. In my view, its evidence was insufficient in this regard. For these reasons, the appeals are dismissed and the assessments are confirmed.
+Signed at Montréal, Quebec, this 3rd day of December 2008.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+on this 14th day of May 2009.
+François Brunet, Reviser
+CITATION: 2008 TCC 663
+COURT FILE NO.: 2007-606(GST)G
+STYLE OF CAUSE: MAXI-MAG INC. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: November 17, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT: December 3, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Benoit Tremblay
+Counsel for the Respondent:
+Martine Bergeron
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Benoit Tremblay
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

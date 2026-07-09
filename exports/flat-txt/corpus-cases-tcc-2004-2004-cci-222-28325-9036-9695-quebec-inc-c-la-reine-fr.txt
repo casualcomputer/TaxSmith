@@ -1,0 +1,316 @@
+Title: 9036-9695 Quebec Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28325/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-222-28325-9036-9695-quebec-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2004-05-14
+
+# 9036-9695 Quebec Inc. c. La Reine
+
+- Citation: 2004 CCI 222
+- Decision date: 2004-05-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1844, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9036-9695 Quebec Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-05-14
+Référence neutre
+2004 CCI 222
+Numéro de dossier
+2001-2769(GST)I
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2001-2769(GST)I
+ENTRE :
+9036-9695 QUÉBEC INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+___________________________________________________________________
+Appel entendu le 2 octobre 2003 à Montréal (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Représentant de l'appelante :
+Paul Martineau
+Avocat de l'intimée :
+Me Mario Laprise
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la partie IX de la Loi sur la taxe d'accise, dont l'avis est daté du 12 avril 2001 et porte le numéro 201776, relativement à la taxe sur les produits et services, pour la période du 15 juin 1996 au 31 janvier 1999, est accueilli et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte du fait que certains montants devront être soustraits des revenus relativement auxquels la cotisation a été établie, selon les motifs du jugement ci-joints. Le tout avec frais en faveur de l'intimée.
+Signé à Ottawa, Canada, ce 14e jour de mai 2004.
+« Alain Tardif »
+Juge Tardif
+Référence : 2004CCI222
+Date : 20040514
+Dossier : 2001-2769(GST)I
+ENTRE :
+9036-9695 QUÉBEC INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit d'un appel d'une cotisation établie en vertu de la Loi sur la taxe d'accise (la « Loi »); la période visée par la cotisation est celle du 15 juin 1996 au 31 janvier 1999.
+[2] Pour établir la cotisation, le ministre du Revenu national (le « Ministre ») s'est appuyé sur les hypothèses de fait suivantes :
+a) les faits admis ci-dessus;
+b) l'Appelante était, pendant la période visée, un inscrit aux fins de la Partie IX de la L.T.A.;
+c) l'Appelante a opéré une auberge avec restauration sous le nom de « Auberge La Petite Marmite » dans la municipalité de Pointe-au-Pic pendant la période visée;
+d) les actionnaires et employés de l'Appelante sont messieurs Normand St‑Gelais et Ludger Pilotte [sic] qui détiennent chacun 50 % du capital-action de l'Appelante;
+e) l'Appelante a effectué des fournitures taxables pour lesquelles elle n'a pas perçu la TPS exigible des acquéreurs pendant la période visée;
+f) l'Appelante a comptabilisé les montants de certaines ventes dans ses livres comptables mais elle a omis d'inclure un montant de 16 605,62 $, dans le calcul de sa taxe nette pour la période visée, ce montant représente un ajustement de la TPS exigible selon les ventes inscrites au [sic] livres comptables de l'Appelante;
+g) l'Appelante a omis de comptabiliser le montant de certaines ventes dans ses livres comptables et a omis de percevoir la TPS exigible et par conséquent, d'inclure un montant de 1 090,91 $ dans le calcul de la taxe nette; ce montant a été établi selon la reconstitution des ventes par la méthode de vérification indirecte d'analyse des dépôts bancaires et a été réduit à 0 $ lors du traitement de l'opposition de l'Appelante;
+h) l'Appelante a omis de comptabiliser le montant de certaines ventes dans ses livres comptables et a omis de percevoir la TPS exigible et par conséquent, d'inclure un montant de 1 939,14 $ dans le calcul de la taxe nette; ce montant représente les avantages taxables accordés par l'appelante à ses deux actionnaires et employés et ce montant a été réduit à 993,70 $ lors du traitement de l'opposition de l'Appelante;
+i) l'Appelante a demandé dans le calcul de sa taxe nette, des CTI en trop ou par erreur d'un montant de 555,93 $ [274,91 $ pour frais de représentations + 281,02 $ pour frais de déplacement]; la cotisation des CTI a été réduite d'un montant de 281,02 $ lors du traitement de l'opposition de l'Appelante;
+j) l'Appelante n'a fourni aucune pièce justificative et/ou suffisante au Ministre, lorsque requis de le faire, pour établir des CTI qu'elle a demandés et obtenus au montant de 274,91 $ dans le calcul de sa taxe nette pour la période visée;
+k) lesdits biens et services ont été utilisés ou consommés exclusivement pour des fins personnelles d'un particulier qui est un cadre ou un salarié de l'Appelante ou un autre particulier qui est lié à celui-ci;
+l) quant aux faits mentionnés aux paragraphes 9 à 13 inclusivement et aux paragraphes 17 et 18 de l'avis d'appel de l'Appelante, l'intimée soumet que tous les ajustements nécessaires ont été effectués lorsque l'Appelante a fourni les états financiers et autres documents pertinents et requis et ce, suite à la présentation du projet de cotisation initial et lors du traitement de son opposition tel qu'il sera plus amplement démontré lors de l'enquête;
+m) quant aux ajustements mentionnés au paragraphe précédent, ils ont été effectués à la satisfaction de l'appelante et l'intimée considère l'avis d'appel de l'Appelante sans objet ni fondement tel qu'il sera plus amplement démontré lors de l'enquête;
+n) l'Appelante est donc redevable au Ministre du montant des ajustements apportés à sa taxe nette déclarée pour la période visée, plus l'intérêt net et les pénalités.
+[3] En 1996, messieurs St-Gelais et Pilote ont créé une société faisant affaires sous la raison sociale « Auberge La Petite Marmite ». L'auberge était située à Pointe‑au‑Pic, dans le comté de Charlevoix. Les deux seuls actionnaires, soit messieurs St-Gelais et Pilote, y travaillaient à titre d'employés.
+[4] À cause des débuts modestes de l'entreprise, les deux actionnaires ont dû y investir énormément de temps en exécutant plusieurs tâches, dont celle de servir aux tables.
+[5] Le commerce a cependant connu un essor fort intéressant, au point qu'il s'est rapidement mérité une réputation enviable confirmée par l'obtention d'un premier prix en 1998 par l'Association touristique du Québec.
+[6] Un certain monsieur Bérubé, ex-directeur de banque, assumait la responsabilité de la comptabilité, qu'il faisait une fois par semaine. À la fin de chaque année, le travail était vérifié par un comptable agréé (c.a.), un certain Jean‑Guy Proulx.
+[7] Les deux actionnaires avaient peu ou pas d'expertise en matière de comptabilité; ils se fiaient entièrement aux personnes-ressources mandatées pour ce faire.
+[8] L'appelante a fait l'objet d'une vérification fiscale en juillet 1999 relative à la taxe sur les produits et services (« TPS ») et également relative à la taxe de vente du Québec.
+[9] Suite à la vérification, une première cotisation a été émise le 20 août 1999, selon les détails qui suivent :
+Ajustements apportés au calcul de la taxe nette déclarée
+18 317,81 $
+Pénalités
+1 048,38 $
+Intérêt net
+924,33 $
+Total
+20 290,52 $
+[...] les ajustements de 18 317,81 $ apportés au calcul de la taxe nette déclarée se détaillent comme suit :
+TPS exigible sur avantages aux actionnaires et employés (repas et boissons)
+1 939,14 $
+Conciliation de la TPS déclarée et de la TPS inscrite aux livres comptables
+(1 403,56 $)
+TPS exigible selon la reconstitution des ventes par analyse des dépôts bancaires
+1 090,91 $
+Ajustement de la TPS selon les ventes inscrites aux livres comptables
+16 605,62 $
+Crédit de taxe sur les intrants demandés en trop ou par erreur (ci-après « CTI »)
+85,70 $
+Total
+18 317,81 $
+[...] les CTI demandés en trop ou par erreur se détaillent comme suit :
+CTI demandés pour frais de représentations (sans pièce justificative et dépenses personnelles)
+274,91 $
+CTI demandés pour frais de déplacement (sans pièce justificative et dépenses personnelles)
+281,02 $
+Conciliation des CTI déclarés et des CTI inscrits aux livres comptables
+(470,23 $)
+Total
+85,70 $
+[...]
+Suite à l'émission de cet avis de cotisation du 20 août 1999, l'appelante a présenté un avis d'opposition. [...]
+Lors du processus d'opposition, des documents supplémentaires et des représentations additionnelles sont présentés au représentant de l'Intimée.
+Suite à ces documents et représentations, une nouvelle cotisation est émise le 12 avril 2001, dont le détail est le suivant :
+Ajustements apportés au calcul de la taxe nette déclarée
+16 000,44 $
+Pénalités
+929,71 $
+Intérêt net
+765,89 $
+Total
+17 696,04 $
+[...] les ajustements de 16 000,44 $ apportés au calcul de la taxe nette déclarée se détaillent comme suit :
+TPS exigible sur avantages aux actionnaires et employés (repas et boissons)
+993,70 $
+Conciliation de la TPS déclarée et de la TPS inscrite aux livres comptables
+(1 403,56 $)
+TPS exigible selon la reconstitution des ventes par analyse des dépôts bancaires
+0 $
+Ajustement de la TPS selon les ventes inscrites aux livres comptables
+16 605,62 $
+Crédit de taxe sur les intrants demandés en trop ou par erreur (ci-après « CTI »)
+(195,32 $)
+Total
+16 000,44 $
+[...] les CTI demandés en trop ou par erreur se détaillent comme suit [:]
+CTI demandés pour frais de représentations (sans pièce justificative et dépenses personnelles)
+274,91 $
+CTI demandés pour frais de déplacement (sans pièce justificative et dépenses personnelles)
+0 $
+Conciliation des CTI déclarés et des CTI inscrits aux livres comptables
+(470,23 $)
+Total
+(195,32 $)
+[10] La cotisation a été établie à partir des données financières compilées par l'appelante elle-même. L'intimée n'a pas fait d'extrapolation ni eu recours à une méthode de rechange.
+[11] Les revenus établis à partir des dépôts ont été les fondements de la cotisation.
+[12] En tenant pour acquis que toutes les fournitures effectuées par une entreprise comme celle de l'appelante étaient taxables et en constatant que les remises de TPS ne correspondaient pas aux revenus déclarés, le vérificateur a demandé à l'appelante de lui dire s'il y avait des exceptions et, dans l'affirmative, de lui soumettre les pièces justificatives.
+[13] À l'étape de l'opposition, certaines corrections furent effectivement apportées à la suite de représentations appuyées par des documents qui, aux dires de l'intimée, n'avaient pas été soumis au moment du processus ayant conduit à la première cotisation.
+[14] Les activités économiques de l'auberge constituaient une entreprise commerciale classique en ce sens qu'il n'y avait pas d'activité particulière nécessitant des mesures spéciales quant à la comptabilité.
+[15] Le litige concerne les pourboires, certaines mises de fonds des actionnaires, l'origine de certains dépôts, le coût des repas et des boissons fournis aux deux actionnaires et, finalement, le paiement complet ou partiel de repas au moyen de coupons préalablement acquis par un autre établissement de la même région.
+[16] Normand St-Gelais a témoigné que plusieurs montants avaient été traités comme des revenus alors qu'il s'agissait en réalité d'avances faites par les actionnaires ou d'autres montants n'ayant rien à voir avec des fournitures taxables.
+[17] Il a soutenu que certaines composantes des dépôts bancaires n'auraient pas dû faire l'objet des revenus déclarés par les dirigeants de l'entreprise.
+[18] Monsieur St‑Gelais a effectivement démontré que certains dépôts incluaient des avances d'actionnaires. En 1996-1997, il s'agissait d'un montant de 6 000 $ et, pour la période 1997-1998, d'un autre montant de 6 000 $.
+[19] Les explications soumises sont cependant surprenantes puisque les deux actionnaires de l'appelante ont eux-mêmes fait en sorte que certains montants soient considérés comme des revenus. L'appelante a ainsi soutenu avoir déclaré des revenus plus importants que ses revenus réels.
+[20] L'appelante a démontré le bien-fondé de ses prétentions quant à certains autres montants d'un total de 4 682,04 $ considérés comme revenus par l'intimée. La preuve a clairement établi que certains montants ne devaient pas être considérés ainsi. Il s'agit des montants suivants :
+Période 1996-97
+Période 1997-98
+Période 1998-99
+Intérêts et ristournes caisse populaire : 631,34 $
+Intérêts et ristournes caisse populaire : 620,74 $
+Ristourne de la SAQ : 878,02 $
+Prestation d'assurance : 384,58 $
+Ristourne de la SAQ : 449,91 $
+Subvention programme étudiant : 1 000 $
+Ristourne de la caisse populaire : 717,45 $
+Total : 1 015,92 $
+Total : 1 070,65 $
+Total : 2 595,47 $
+Total : 4 682,04 $
+[21] Monsieur St-Gelais a fait valoir les mêmes arguments quant à certains pourboires c'est-à-dire qu'ils avaient été comptabilisés dans les revenus alors qu'ils auraient dû en être exclus.
+[22] La preuve quant aux prétentions relatives aux pourboires fut cependant beaucoup moins probante que celle sur les avances effectuées par les actionnaires.
+[23] Il a, en effet, expliqué que lorsque les pourboires étaient payés au comptant, ils ne faisaient pas partie des dépôts ni n'étaient inscrits dans les revenus de caisse. Lorsque les pourboires étaient ajoutés au montant de la facture sur le feuillet émis lors des paiements par carte de crédit, le montant était payé au bénéficiaire à même les espèces dans la caisse enregistreuse. Conséquemment, les pourboires ne pouvaient pas faire l'objet de dépôts.
+[24] Seuls les pourboires des deux actionnaires ont donc pu faire l'objet de dépôts; ils constituaient en quelque sorte des revenus personnels injectés dans la société devenant ainsi indirectement des avances consenties par l'un ou l'autre des actionnaires.
+[25] Au début, les actionnaires ont dû investir dans l'entreprise en servant aux tables. Selon le témoignage, les deux actionnaires laissaient leurs pourboires à l'entreprise. Cette explication faite par les deux actionnaires a été présentée comme étant quelque chose d'inhabituel, probablement pour illustrer le courage et la détermination de vouloir réussir.
+[26] Un pareil comportement mérite possiblement des félicitations, mais il veut aussi dire qu'ils ont rapidement cessé de servir aux tables, en laissant cette responsabilité aux employés lorsque les affaires se sont mises à bien aller, ce qui s'est produit très rapidement.
+[27] Bien que la preuve à l'égard des pourboires ne soit pas très étoffée, je retiens l'explication qu'au début des activités, les deux actionnaires ont dû consacrer beaucoup plus d'heures, dont une grande partie dans le cadre du service aux tables, obtenant ainsi les pourboires.
+[28] Je ne crois cependant pas qu'il en ait été ainsi pendant la totalité de la période en litige. Bien que la preuve ne me permette pas de déterminer précisément le montant des pourboires injectés dans l'entreprise, je fixe ce montant d'une manière arbitraire à 5 000 $.
+[29] L'appelante a également fait valoir que le nombre de repas consommés par les administrateurs était substantiellement inférieur à celui comptabilisé par le Ministre; la valeur attribuée à ces repas a également été contestée.
+[30] La cotisation comprenait également un ajout d'un montant de 993,70 $ pour la TPS sur les avantages conférés aux actionnaires lors de la consommation de repas et de boissons.
+[31] L'appelante a contesté ce montant en affirmant que l'intimée avait malicieusement comptabilisé un nombre de repas grossièrement exagéré, que la valeur des repas avait été surévaluée et, finalement, qu'ils avaient consommé ces repas non pas à titre d'actionnaires, mais comme employés.
+[32] L'argument portant sur le nombre de repas est très peu convaincant et est contredit par l'explication portant sur les pourboires qui étaient, semble-t-il, considérables; or, pour toucher des pourboires, cela signifie que les actionnaires étaient très souvent présents aux heures des repas.
+[33] Quant au parallèle fait avec les autres employés, je me réfère à l'article 173 de la Loi, qui se lit comme suit :
+173. (1) Dans le cas où un inscrit effectue la fourniture d'un bien ou d'un service, sauf une fourniture exonérée ou détaxée, au profit d'un particulier ou d'une personne liée à celui-ci et que, selon le cas :
+a) un montant (appelé « avantage » au présent paragraphe) relatif à la fourniture est à inclure, en application des alinéas 6(1)a), e), k) ou l) ou du paragraphe 15(1) de la Loi de l'impôt sur le revenu, dans le calcul du revenu du particulier pour son année d'imposition,
+b) la fourniture se rapporte à l'utilisation ou au fonctionnement d'une automobile, et le particulier ou une personne qui lui est liée paie un montant (appelé « montant de remboursement » au présent paragraphe) qui réduit le montant relatif à la fourniture qui serait à inclure par ailleurs, en application des alinéas 6(1)e), k) ou l) ou du paragraphe 15(1) de la Loi de l'impôt sur le revenu, dans le calcul du revenu du particulier pour son année d'imposition,
+les présomptions suivantes s'appliquent :
+c) dans le cas de la fourniture d'un bien autrement que par vente, l'inscrit est réputé, pour l'application de la présente partie, utiliser le bien dans le cadre de ses activités commerciales lorsqu'il prend des mesures en vue de le livrer au particulier ou à la personne liée à celui-ci; dans la mesure où l'inscrit a acquis ou importé le bien, ou l'a transféré dans une province participante, pour effectuer cette fourniture, il est réputé, pour l'application de la présente partie, l'avoir ainsi acquis, importé ou transféré dans la province pour utilisation dans le cadre de ses activités commerciales;
+d) pour le calcul de la taxe nette de l'inscrit :
+(i) le total de l'avantage et des montants de remboursement est réputé être la contrepartie totale payable relativement à la livraison du bien ou à la prestation du service, au cours de l'année, au particulier ou à la personne qui lui est liée,
+(ii) la taxe calculée sur la contrepartie totale est réputée égale au montant suivant :
+(A) dans le cas où l'avantage représente un montant qui est à inclure, en application des alinéas 6(1)k) ou l) de la Loi de l'impôt sur le revenu, dans le calcul du revenu du particulier, ou qui le serait si le particulier était un salarié de l'inscrit et si aucun montant de remboursement n'était payé, le pourcentage réglementaire de la contrepartie totale,
+(B) dans les autres cas, le résultat du calcul suivant :
+(A/B) x C
+où :
+A représente la somme de 6 % et de celui des pourcentages suivants qui est applicable :
+(I) selon le cas :
+1. lorsque l'avantage est à inclure, en application des alinéas 6(1)a) ou e) de la Loi de l'impôt sur le revenu, dans le calcul du revenu du particulier tiré d'une charge ou d'un emploi et que le dernier établissement de l'employeur auquel le particulier travaillait ou se présentait habituellement au cours de l'année dans le cadre de cette charge ou cet emploi est situé dans une province participante, le taux de taxe applicable à cette province,
+2. lorsque l'avantage est à inclure, en application du paragraphe 15(1) de cette loi, dans le calcul du revenu du particulier et que celui-ci réside dans une province participante à la fin de l'année, le taux de taxe applicable à cette province,
+(II) dans les autres cas, 6 %,
+B la somme de 100 % et du pourcentage déterminé selon l'élément A,
+C la contrepartie totale,
+(iii) la taxe visée au sous-alinéa (ii) est réputée être devenue percevable par l'inscrit, et avoir été perçue par lui, à la date suivante :
+(A) sauf en cas d'application de la division (B), le dernier jour de février de l'année subséquente,
+(B) dans le cas où l'avantage est à inclure, en application du paragraphe 15(1) de la Loi de l'impôt sur le revenu, dans le calcul du revenu du particulier, ou le serait si aucun montant de remboursement n'était payé, et se rapporte à la livraison du bien ou à la prestation du service au cours d'une année d'imposition de l'inscrit, le dernier jour de cette année.
+Toutefois, les présomptions visées aux sous-alinéas (i) à (iii) ne s'appliquent pas dans les cas suivants :
+(iv) l'inscrit ne pouvait pas, par l'effet de l'article 170, demander un crédit de taxe sur les intrants relativement à sa dernière acquisition ou importation du bien ou du service ou à son dernier transfert de ceux-ci dans une province participante,
+(v) le choix prévu au paragraphe (2) relativement au bien est en vigueur au début de l'année d'imposition,
+(vi) l'inscrit est un particulier ou une société de personnes, et le bien est sa voiture de tourisme ou son aéronef qu'il n'utilise pas exclusivement dans le cadre de ses activités commerciales,
+(vii) l'inscrit n'est pas un particulier, une société de personnes ou une institution financière, et le bien est sa voiture de tourisme ou son aéronef qu'il n'utilise pas principalement dans le cadre de ses activités commerciales.
+[34] Je ne retiens donc pas les arguments de l'appelante et je confirme le bien‑fondé de la cotisation quant à l'élément repas et boissons.
+[35] Finalement, monsieur St-Gelais a expliqué la question des coupons. L'appelante vendait des coupons à d'autres établissements de manière à ce qu'ils puissent offrir des forfaits incluant certains repas. Le montant indiqué sur les coupons était déduit du montant de la facture du client.
+[36] La politique des coupons a été sommairement expliquée; le tribunal a compris des explications fournies que le montant du coupon était déduit de la facture remise par l'appelante. Ainsi, si le prix du repas ou des repas était de 200 $ et que le client avait un coupon de 100 $, il ne déboursait que 100 $.
+[37] Les dépôts ne pouvaient pas inclure les coupons ou leur valeur puisqu'il ne s'agissait pas d'argent ou quoi que ce soit d'équivalent tel un chèque ou un mandat-poste.
+[38] Par contre, l'argent ou le chèque ayant servi à acheter des coupons faisait éventuellement l'objet d'un dépôt. Il ne pouvait en aucune façon y avoir duplication ou majoration artificielle des revenus qui étaient établis à partir des dépôts. Si la cotisation avait été établie à partir des rubans de caisse quotidiens ou à partir du registre faisant état des revenus, l'argument de l'appelante pourrait être possible. Mais non, la cotisation a été établie à partir des dépôts.
+[39] Conséquemment, selon les explications présentées, la preuve relative aux coupons ne permet pas de conclure qu'ils ont gonflé artificiellement les revenus de l'appelante. En d'autres termes, rien dans la preuve ne permet de conclure que l'usage des coupons a faussé d'une quelconque façon les dépôts de l'entreprise. L'appelante n'ayant pas réussi à démontrer le bien-fondé de ses prétentions à l'égard des coupons, je conclus que les revenus déclarés n'ont aucunement été affectés.
+[40] Pour ce qui est de la question de l'avantage lié aux repas et aux consommations et celle des coupons, la preuve soumise n'a fait que soulever des hypothèses et des interprétations. Puisque la preuve est constituée essentiellement d'opinions et de perceptions, le tribunal ne peut pas la retenir sur cet aspect du dossier; en plus d'être déficiente, rien ne l'a validée ou confirmée. Aucun élément fiable n'a soutenu les prétentions de l'appelante qui ont résulté de pures spéculations.
+[41] Le représentant de l'appelante a déployé beaucoup d'énergie à démontrer que l'intimée avait fait le travail d'analyse d'une manière malicieuse et contraire aux règles de l'art.
+[42] Il a tenté, à plusieurs reprises, de faire porter le débat sur la façon dont le dossier avait été traité par le Ministre en référant à des questions non pertinentes. Il croyait sans doute qu'il suffisait de faire ressortir des erreurs ou de démontrer certaines faiblesses ou manquements quant à la qualité du travail de vérification qui a mené à la cotisation pour avoir gain de cause.
+[43] À plusieurs reprises, le tribunal a dû intervenir pour ralentir les ardeurs du représentant de l'appelante, qui voulait absolument faire le procès du vérificateur plutôt que démontrer le bien-fondé de ses prétentions.
+[44] J'ai donc dû rappeler constamment que le fardeau de la preuve reposait sur l'appelante. Pour satisfaire à ce fardeau, il ne suffit pas de critiquer ou d'attaquer la qualité du travail de vérification; cela peut être utile et nécessaire, mais très certainement pas suffisant. Il est essentiel de démontrer que les griefs faits ou les erreurs relevées ont eu des effets directs sur le bien‑fondé de la cotisation.
+[45] D'autre part, il est tout aussi important de démontrer ce qu'aurait dû être la cotisation à partir des données comptables disponibles et vérifiables et non pas à partir d'évaluations intuitives ou d'arguments fondés sur la raisonnabilité.
+[46] La difficulté ou l'impossibilité de pouvoir présenter une preuve concluante fondée sur les données comptables et les documents pertinents du contribuable explique souvent les difficultés rencontrées par les responsables d'une vérification qui, à cause de cela, doivent avoir recours à une méthode de rechange. En l'espèce, il n'y a aucun doute que la comptabilité et les pièces justificatives n'étaient pas suffisantes pour permettre une vérification d'une fiabilité acceptable.
+[47] Comment exiger la perfection lors du travail des vérificateurs lorsqu'on n'est pas soi-même en mesure de comprendre et d'expliquer ses propres données?
+[48] Le représentant de l'appelante a passé la majeure partie de son temps à attaquer la qualité du travail de vérification. Il aurait été plus important de faire d'abord la démonstration de la qualité de ses propres données.
+[49] Non seulement cette preuve n'a jamais été soumise mais, au contraire, la preuve a mis en lumière des faits démontrant l'impossibilité d'effectuer une vérification impeccable. En d'autres termes, l'appelante a été l'artisane de la qualité de la vérification. Dois-je rappeler que l'appelante a elle‑même sur évalué ses revenus? On ne peut alors certainement pas parler d'une comptabilité modèle.
+[50] Pour ce qui est des nombreux griefs faits, le tribunal ne leur accorde pas l'importance démesurée attribuée par l'appelante. Au contraire, la preuve a établi que l'intimée avait exécuté un travail de vérification acceptable et non répréhensible dans les circonstances.
+[51] La stratégie de l'appelante voulant que l'attaque soit la meilleure défense l'a éloignée de son obligation fondamentale, soit celle de satisfaire au fardeau de la preuve qui reposait sur elle. Cette appréciation ressort d'ailleurs clairement de l'extrait suivant de la plaidoirie écrite de l'appelante (page 8, paragraphe 1.4) :
+1.4 Conclusions sur le volet de la cotisation par la méthode du revenu comptable
+Sommairement, je soumets respectueusement au tribunal que la cotisation autre que celle ayant trait aux avantages reliés aux repas devrait être complètement radiée et l'appel accueilli puisqu'il a été démontré lors de l'audition du 2 octobre 2003 :
+1. que l'intimée a utilisé une méthode de vérification inadéquate à l'égard de l'appelante;
+2. que la vérification de l'intimée contient des données erreurs flagrantes et des données inappropriées qui étaient facilement vérifiables par le vérificateur du ministère;
+3. que le témoin le plus qualifié de l'intimée a jugé la vérification de son collègue erronée et hautement exagérée.
+4. qu'il est plus probable que les taxes de ventes ont été déclarées correctement par l'appelante plutôt que le contraire;
+5. que l'intimée a erré dans l'application du mandat qu'il détenait des autorités fédérales eu égard à l'administration de la TPS au Québec;
+Il reste maintenant à aborder les arguments prévisibles de l'intimée.
+[52] En l'espèce, le vérificateur a établi une première cotisation; après avoir tenu compte de certaines représentations des actionnaires, au stade de l'opposition, la première cotisation a fait l'objet de corrections.
+[53] L'appel porte sur la cotisation corrigée à la suite de l'opposition. Le représentant de l'appelante a voulu prétendre que la modification de la première cotisation démontrait que l'intimée avait mal exécuté le travail puisqu'elle avait accepté de faire des corrections. Il s'agit, encore là, d'un argument fort peu convaincant, et certainement pas déterminant quant au bien‑fondé de l'appel.
+[54] Dois-je rappeler que si l'appelante avait eu en sa possession tous les registres comptables appropriés et la totalité des documents pertinents, la vérification aurait pu se faire d'une manière sans doute plus conforme aux attentes de l'appelante? Chose certaine, le travail de vérification aurait été plus facile et plus fiable et, si l'appel avait été nécessaire dans un tel scénario, il aurait, encore là, été plus facile de démontrer le bien-fondé des prétentions de l'appelante.
+[55] Outre les montants susmentionnés, la preuve est aussi concluante quant aux avances de 6 000 $ pour chacun des exercices 1996-1997 et 1997-1998. J'accorde en outre un montant additionnel de 5 000 $ pour tenir lieu des pourboires investis dans le roulement de la société, et ce, seulement pour la première année d'exploitation.
+Pénalités
+[56] Le dossier de l'appelante est un dossier relativement simple et classique. Avec une comptabilité adéquate, il aurait été possible de faire une vérification plus rapide, plus simple et surtout plus fiable. La vérité a été tout autre au point qu'il a fallu décortiquer les composantes des dépôts pour établir si certains montants étaient taxables ou non.
+[57] Au début de son témoignage, monsieur St-Gelais a lui-même admis avoir dû faire un travail colossal pour expliquer et justifier le bien-fondé des prétentions de l'appelante. Il n'y a donc pas de meilleure preuve que la comptabilité de l'appelante, sans être un modèle, n'était pas très limpide, les intéressés ayant eux-mêmes des difficultés à s'y retrouver.
+[58] La piètre qualité de la comptabilité, dont la totale responsabilité incombait à l'appelante, a certes créé des ennuis et des inconvénients aux actionnaires de l'appelante, mais a aussi fait en sorte que l'intimée et l'État ont dû supporter des frais considérables pour rendre le dossier à son étape finale. Il s'agit là de motifs largement suffisants pour conclure au bien-fondé des pénalités.
+Conclusions
+[59] L'appel est accueilli et la cotisation est déférée au Ministre pour l'établissement de nouvelles cotisations en tenant compte du fait que les revenus taxables devront être réduits de 22 682,04 $, correspondant au total des éléments suivants :
+1996-1997
+1997-1998
+1998-1999
+Mise de fonds
+6 000,00 $
+Mise de fonds
+6 000,00 $
+Ristourne SAQ
+878,00 $
+Pourboires
+6 000,00 $
+Int. et ristourne
+620,00 $
+Subvention
+1 000,00 $
+Intérêts et ristourne
+631,34 $
+Ristourne SAQ
+449,91 $
+Ristourne
+717 45 $
+Prestation d'assur.
+384,58 $
+7 070,65 $
+2 595,47 $
+13 015,92 $
+[60] Pour ce qui est du montant de 993,70 $ provenant de l'avantage conféré aux actionnaires, j'en confirme le bien-fondé. Le tout avec frais en faveur de l'intimée.
+Signé à Ottawa, Canada, ce 14e jour de mai 2004.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE :
+2003CCI222
+No DU DOSSIER DE LA COUR :
+2001-2769(GST)I
+INTITULÉ DE LA CAUSE :
+9036-9695 Québec Inc. et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATES
+Audience :
+Plaidoiries écrites de l'appelante :
+Notes de l'intimée :
+Réplique de l'appelante :
+le 2 octobre 2003
+le 22 octobre 2003
+le 12 novembre 2003
+le 17 novembre 2003
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge Alain Tardif
+DATE DU JUGEMENT :
+le 14 mai 2004
+COMPARUTIONS :
+Représentant de l'appelante :
+Paul Martineau
+Avocat de l'intimée :
+Me Mario Laprise
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelante :
+Nom :
+Étude :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

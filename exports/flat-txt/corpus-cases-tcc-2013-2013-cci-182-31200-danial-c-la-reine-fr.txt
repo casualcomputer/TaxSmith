@@ -1,0 +1,120 @@
+Title: Danial c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31200/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-182-31200-danial-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2013-06-11
+
+# Danial c. La Reine
+
+- Citation: 2013 CCI 182
+- Decision date: 2013-06-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5039, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Danial c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-06-11
+Référence neutre
+2013 CCI 182
+Numéro de dossier
+2010-2074(IT)G
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-2074(IT)G
+ENTRE :
+DR BAHAUDDIN HASAN DANIAL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 29 mai 2013 à Toronto (Ontario)
+Devant : L’honorable juge Randall Bocock
+Comparutions :
+Avocate de l’appelant :
+Me Shanthi Devanand
+Avocate de l’intimée :
+Me Kathleen Beahen
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre des nouvelles cotisations établies en application de la Loi de l’impôt sur le revenu pour les années d’imposition 2004 et 2005 est rejeté compte tenu du fait qu’il n’y a ni accord écrit ni ordonnance judiciaire relativement à une pension alimentaire pour conjoint ou pour personne à charge.
+Les dépens seront adjugés à l’intimée.
+Signé à Ottawa, Canada, ce 11e jour de juin 2013.
+« R. S. Bocock »
+Juge Bocock
+Traduction certifiée conforme
+ce 6e jour d’août 2013.
+Mario Lagacé, jurilinguiste
+Référence : 2013 CCI 182
+Date : 20130611
+Dossier : 2010-2074(IT)G
+ENTRE :
+DR BAHAUDDIN HASAN DANIAL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bocock
+I. Les faits
+[1] L’appelant, le Dr Danial, interjette le présent appel sous le régime de la procédure générale en vue d’obtenir l’annulation des nouvelles cotisations établies par le ministre, dans lesquelles ce dernier a refusé de déduire les paiements s’élevant à 53 300 $ que l’appelant a versés à son ex-épouse au cours de l’année d’imposition 2004 et les paiements s’élevant à 18 000 $ qu’il a versés à sa belle-fille au cours des années d’imposition 2004 et 2005 (la « période pertinente »).
+[2] Les faits ne sont pas fondamentalement contestés. L’appelant a admis, suivant une demande d’aveux, que son ex-épouse et lui s’étaient séparés de manière définitive en avril 2004. Il est aussi admis que la belle-fille de l’appelant était âgée de plus de 18 ans au cours de la période pertinente. Quant aux sommes versées dans les faits (par opposition aux sommes déduites), il existe une preuve non contredite selon laquelle l’ex-épouse de l’appelant a au moins reçu de l’appelant la somme de 37 600 $ en 2003 et en 2004 et la belle-fille de l’appelant a reçu de l’appelant les sommes de 17 400 $ et de 25 200 $ en 2004 et en 2005, respectivement.
+[3] Initialement, lorsqu’il a produit ses déclarations de revenus, l’appelant a considéré que les paiements effectués aux bénéficiaires étaient un traitement ou un salaire, ou bien des frais de bureau liés à l’exercice de sa profession de médecin. En 2007, le ministre a établi une nouvelle cotisation à l’égard de l’appelant et a refusé les déductions. Lorsqu’il a présenté des avis d’opposition au ministre, le Dr Danial a qualifié les paiements effectués de pension alimentaire plutôt que de salaire et de traitement ou bien de frais de bureau.
+[4] En ce qui concerne les éléments de preuve relatifs à un accord en matière de pension alimentaire, le Dr Danial a témoigné que, en 2004, il avait préparé et remis à son épouse un accord de séparation, rédigé en urdu, prévoyant le versement d’une pension alimentaire mensuelle à celle qui était alors son épouse et à sa belle‑fille. L’appelant a soutenu que l’accord avait été remis à son ex‑épouse, mais que jamais cette dernière n’en avait accusé réception, ne l’avait signé ni ne l’avait retourné à l’appelant.
+[5] De plus, le Dr Danial a témoigné que son épouse (maintenant son ex‑épouse) est infectée du virus de l’hépatite C et qu’elle est actuellement en phase terminale de cette maladie. En fait, l’audition de la présente affaire a été retardée pendant de nombreux mois en raison des traitements et des manifestations physiques et mentales de la maladie. En outre, un témoignage crédible a été présenté quant au fait que la maladie entraînait probablement certains troubles psychologiques. L’appelant hésitait à alourdir le fardeau de son ex‑épouse en la forçant à témoigner à l’audience.
+[6] En 2009, l’épouse de l’appelant a présenté à la Cour supérieure de justice de l’Ontario une demande de divorce, une demande de pension alimentaire et une demande d’égalisation des biens familiaux nets en vertu des dispositions législatives applicables.
+[7] Une ordonnance judiciaire a été rendue, et, par la suite, des versements de pension alimentaire mensuels ont été faits à l’épouse de l’appelant, et ce dernier a pu les déduire de son revenu, le tout conformément aux dispositions législatives applicables.
+II. Les observations
+[8] L’avocate de l’appelant soutient que, bien qu’il n’y ait aucune preuve d’un accord écrit ou d’une ordonnance judiciaire applicable aux années d’imposition 2004 et 2005, il existe suffisamment d’éléments de preuve directs et indirects d’un accord verbal concernant le fait que l’appelant était tenu de verser une pension alimentaire à son ex‑épouse et à sa belle‑fille. En bref, compte tenu de ces éléments de preuve, la Cour devrait reconnaître que les conditions énoncées dans les dispositions de la Loi de l’impôt sur le revenu (la « Loi ») ont été satisfaites.
+[9] Dans ses observations à ce sujet, l’avocate de l’appelant a attiré l’attention de la Cour sur la jurisprudence citée dans la décision Hovasse c. Canada, 2011 CCI 143, 2011 DTC 1115, dans laquelle il est indiqué qu’il n’est pas nécessaire que les parties aient effectivement signé un accord de séparation écrit pour qu’il soit satisfait aux dispositions de la Loi lorsque les conditions de cet accord de séparation sont par ailleurs suffisamment claires et précises.
+[10] L’avocate de l’intimée a fait valoir que rien de permettait de penser que les paiements faits en 2003, en 2004 et en 2005 constituaient une forme quelconque de pension alimentaire jusqu’à ce que le ministre établisse une nouvelle cotisation à l’égard du contribuable en 2007 et refuse les dépenses initialement déduites au titre de traitement, de salaire et de frais de bureau. En outre, l’avocate de l’intimée a soutenu qu’avant 2009, il n’existait aucune preuve d’un accord écrit ou d’une ordonnance judiciaire qui aurait pu fournir une preuve, des précisions ou des directives suffisantes à la Cour. Ainsi, aucune conclusion raisonnable ne peut être tirée quant au versement de paiements périodiques au titre d’une pension alimentaire ou quant à l’orientation prise par les parties ou à leur intention en ce qui concerne la déduction des paiements du revenu du payeur et l’inclusion de ceux‑ci dans le revenu du bénéficiaire. De plus, l’avocate de l’intimée a renvoyé la Cour à une série de décisions dans lesquelles on exige, au minimum, la production d’un document sous une forme ou une autre reflétant les détails des paiements et le renvoi à une obligation alimentaire juridique.
+III. Analyse et décision
+[11] Pour que l’appelant puisse avoir le droit de déduire les paiements de pension alimentaire selon la Loi, il faut que les paiements soient visés par la définition de « pension alimentaire » figurant au paragraphe 56.1(4), qui prévoit ce qui suit :
+« pension alimentaire » – « pension alimentaire » Montant payable ou à recevoir à titre d’allocation périodique pour subvenir aux besoins du bénéficiaire, d’enfants de celui-ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas :
+a) le bénéficiaire est l’époux ou le conjoint de fait ou l’ex-époux ou l’ancien conjoint de fait du payeur et vit séparé de celui-ci pour cause d’échec de leur mariage ou union de fait et le montant est à recevoir aux termes de l’ordonnance d’un tribunal compétent ou d’un accord écrit;
+b) le payeur est légalement le père ou la mère d’un enfant du bénéficiaire et le montant est à recevoir aux termes de l’ordonnance d’un tribunal compétent rendue en conformité avec les lois d’une province.
+[12] La question de l’ordonnance judiciaire n’est pas pertinente en l’espèce, étant donné que l’appelant ne l’a pas plaidée ni invoquée quant aux faits pour la période pertinente. La seule question à trancher est de savoir si l’accord verbal allégué, peut‑être reflété à un moment donné dans un document rédigé en urdu ou dans un accord verbal étayé par une preuve directe et une exécution partielle, satisfait au critère établi par la définition susmentionnée.
+[13] Le libellé de la définition figurant au paragraphe 56.1(4) de la Loi est sans équivoque. Il doit y avoir un accord écrit. Il n’y a tout simplement aucune preuve documentaire reflétant que les parties s’étaient entendues pour qu’une pension alimentaire soit versée au moyen de paiements périodiques en 2004 et en 2005. Malheureusement, l’appelant n’a pas pu ni voulu insister sur le fait qu’un écrit faisait état de cet accord. Cela s’expliquait peut-être par les inquiétudes qu’il avait et l’état physique et mental de son ex-épouse.
+[14] L’affaire dont je suis saisi est semblable à l’affaire Chappell c. Canada, 2004 CCI 39, [2003] A.C.I. no 767. Plus précisément, le juge Campbell Miller de la Cour canadienne de l’impôt a affirmé ce qui suit aux paragraphes 8 et 9 :
+8 Voici, encore une fois, une de ces situations regrettables où le contribuable choisit la bonne voie et prend la décision décente de ne pas poursuivre son ex‑épouse en justice, pour des raisons humanitaires, et il se fait avoir au tournant par les lois fiscales. Cependant, je ne peux faire abstraction de ces lois, sinon ce serait le chaos.
+9 Il n’y avait pas d’accord écrit exécuté en 2000 permettant la déductibilité correspondant à l’année 1999. Je ne peux pas prétendre qu’il y en avait un. Sans accord, les paiements ne sont pas déductibles et l’appel doit être rejeté.
+[15] En l’espèce, il ressort peut-être encore plus clairement que, non seulement il n’y a pas d’accord écrit comportant plusieurs éléments en 2004 ou en 2005, mais il n’existe absolument aucun élément de preuve tangible, par écrit, que les parties avaient établi ensemble les conditions de versement de paiements de pension alimentaire réguliers et périodiques par l’appelant à son ex‑épouse et/ou à sa belle‑fille. En fait, il y a des éléments de preuve contraires selon lesquels l’ex‑épouse nie avoir reçu de tels paiements. En outre, bien que les problèmes de santé de l’ex‑épouse puissent peut‑être m’empêcher de tirer une conclusion défavorable au sujet de son absence à l’audience, la belle‑fille de l’appelant n’a pas non plus témoigné quant au fait qu’il y avait une intention mutuelle en ce qui concerne les paiements de pension alimentaire qu’elle aurait reçus. Vu l’absence d’une telle preuve, pour conclure qu’il y avait bel et bien un accord en matière de pension alimentaire qui remplissait les conditions au cours de la période pertinente, la Cour devrait imaginer des faits qui n’existaient tout simplement pas en 2004 ou en 2005.
+[16] Bien que la création de tels faits puisse correspondre aux meilleures intentions actuelles de l’appelant, compte tenu de l’absence d’éléments de preuve, cela aurait pour effet de vider de leur sens l’objet et le libellé des dispositions de la Loi. Par conséquent, la Cour n’a d’autre choix que de rejeter l’appel, et les dépens sont adjugés à l’intimée.
+Signé à Ottawa, Canada, ce 11e jour de juin 2013.
+« R. S. Bocock »
+Juge Bocock
+Traduction certifiée conforme
+ce 6e jour d’août 2013.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2013 CCI 182
+NO DU DOSSIER DE LA COUR : 2010-2074(IT)G
+INTITULÉ : DR BAHAUDDIN HASAN DANIAL c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 29 mai 2013
+MOTIFS DU JUGEMENT : L’honorable juge Randall Bocock
+DATE DU JUGEMENT : Le 11 juin 2013
+COMPARUTIONS :
+Avocate de l’appelant :
+Me Shanthi Devanand
+Avocate de l’intimée :
+Me Kathleen Beahen
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Shanthi Devanand
+Cabinet : Shanthi Devanand Professional Corporation
+Mississauga (Ontario)
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

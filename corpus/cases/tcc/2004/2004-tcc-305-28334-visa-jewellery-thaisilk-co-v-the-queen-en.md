@@ -1,0 +1,173 @@
+---
+title: "Visa Jewellery & ThaiSilk Co. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28334/index.do"
+last_modified: "2004-04-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 305"
+citation2: ""
+neutral_citation: "2004 TCC 305"
+decision_date: "2004-04-19"
+language: "en"
+item_id: "28334"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1853
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:34:29.257000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "98b552a4fac6c6ee4e953829fbee93e32686832b8cafda24b9499a2f83439e38"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Visa Jewellery & ThaiSilk Co. v. The Queen
+
+- Citation: 2004 TCC 305
+- Decision date: 2004-04-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1853, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Visa Jewellery & ThaiSilk Co. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-04-19
+Neutral citation
+2004 TCC 305
+File numbers
+2003-2444(GST)I, 2003-3091(GST)I
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2003-2444(GST)I
+2003-3091(GST)I
+BETWEEN:
+VISA JEWELLERY & THAI SILK CO.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on January 16, 2004, at Toronto, Ontario,
+By: The Honourable Justice E.A. Bowie
+Appearances:
+Agent for the Appellant:
+Don Butcher
+Counsel for the Respondent:
+P. Michael Appavoo
+____________________________________________________________________
+JUDGMENT
+The appeals from assessments made under the Excise Tax Act, notices of which are dated August 14, 2002 and December 30, 2002, are dismissed.
+Signed at Ottawa, Canada, this 19th day of April, 2004.
+"E.A. Bowie"
+J.T.C.C.
+Citation: 2004TCC305
+Date: 20040419
+Docket: 2003-2444(GST)I
+2003-3091(GST)I
+BETWEEN:
+VISA JEWELLERY & THAI SILK CO.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowie J.
+[1] The issue in these informal procedure appeals arises out of applications made by the Appellant to the Minister of National Revenue (the Minister) for goods and services tax (GST) rebates in the amount of $5,775.27 for GST paid in 2001 and in the amount of $6,756.39 for GST paid in 2002.
+facts
+[2] The facts are not in dispute. The Appellant is a company that carries on business in Thailand. It is a non-resident of Canada and is not registered for GST purposes.
+[3] The Appellant came to Canada in August 2001 and 2002, as it had for a number of years, to participate in the Canadian National Exhibition as a jewellery merchant. Prior to departure, the Appellant shipped jewellery that it manufactures to Thompson, Ahern & Co. Limited, a customs broker (the Broker). The Broker paid duties and GST on the jewellery upon entrance into Canada as agent of the Appellant. The Appellant picked up the jewellery from the Broker, sold part of its jewellery inventory at the exhibition and exported the remainder back to Thailand in September 2001 and 2002. The Appellant filed for a rebate of the GST paid on the unsold jewellery that was returned to Thailand in each of 2001 and 2002. The Minister refused to grant the rebate.
+[4] The Appellant was represented by the Broker at trial.
+positions of the parties
+[5] The Appellant's position is that it is entitled to the GST rebates under subsection 215.1(1) of the Excise Tax Act (the Act) as it acquired the jewellery on a sale-or-return basis. The Appellant emphasized that GST, a domestic consumption tax, should not apply to the returned jewellery as the goods were not consumed in the Canadian market. The Appellant also pointed out that the Minister had granted the rebate to the Appellant in previous years. Hence, if the GST rebate were denied, the Appellant would suffer financial hardship because it did not have prior notice in order to price its goods accordingly. Finally, the Appellant submitted that it is incongruous that a drawback of duty can be allowed where a GST rebate cannot.
+[6] The Appellant did not raise other provisions aside from section 215.1 of the Act in order to contest the Minister's decision. In support of the Appellant's claim, the Broker referred to guides RC4027E and RC4033E and memorandum D7‑4‑2 of Canada Customs and Revenue Agency (CCRA).
+[7] Conversely, the Respondent stated that the Appellant is not entitled to the rebate under subsection 215.1(1) of the Act because: (i) the goods were not "acquired" since the Appellant was the owner of the goods throughout; and (ii) in any event, the goods were not acquired on a "sale-or-return basis".
+issue
+[8] The main issue in dispute is whether the Appellant acquired the goods on a sale-or-return basis in order to be entitled to the GST rebate under subsection 215.1(1) of the Act.
+decision
+[9] At this point, I must refer to the wording of subsection 215.1(1) of the Act, which provides:
+215.1(1) Where
+(a) a person paid tax under this Division on goods that were acquired by the person on consignment, approval, sale-or-return basis or other similar terms,
+(b) the goods are, within sixty days after their release and before they are used or consumed otherwise than on a trial basis, exported by the person for the purpose of returning them to the supplier and are not damaged after their release and before the exportation, and
+(c) within two years after the day the tax was paid, the person files with the Minister an application, in prescribed form containing prescribed information, for a rebate of the tax,
+the Minister shall, subject to section 263, pay a rebate to the person equal to the amount of the tax paid on the goods.
+215.1(1) Sous réserve de l'article 263, le ministre rembourse une personne dans le cas où les conditions suivantes sont réunies :
+(a) la personne a payé la taxe prévue à la présente section sur des produits qu'elle a acquis sur approbation, en consignation avec ou sans reprise des invendus ou selon d'autres modalités semblables;
+(b) dans les soixante jours suivant leur dédouanement et avant leur utilisation ou consommation autrement qu'à l'essai, les produits sont exportés par la personne en vue de leur retour au fournisseur et ne sont pas endommagés entre leur dédouanement et leur exportation;
+(c) dans les deux ans suivant le paiement de la taxe, la personne présente au ministre une demande de remboursement de la taxe, établie en la forme déterminée par celui-ci et contenant les renseignements requis.
+Le montant remboursable est égal à la taxe payée sur les produits.
+[10] In my view, the Appellant is not entitled to succeed in its appeals. The Appellant did not acquire the goods on a sale-or-return basis. The term "sale‑or‑return" is defined neither in the Act nor in the Income Tax Act. As stated by the Supreme Court of Canada in Will-Kare Paving & Contracting Ltd. v. Canada,[1] in such an instance the "common commercial use" of the words applies. The expression "sale-or-return" has a well-known meaning in the commercial law context. The Supreme Court of Canada defined the expression in Sinnott News Company, Limited v. M.N.R.:[2]
+S. 19, Rule 4, of the Sale of Goods Act of Ontario was taken verbatim from Rule 4 of s. 18 of the Sale of Goods Act 1893 (Imp.). The expression delivery "on sale or return" had a well known meaning under the law merchant prior to being incorporated in that statute. That meaning was stated by Sir George Jessel M.R. in Ex parte Wingfield [(1879) L.R. 10 Ch. D. 591 at 593], as follows:
+Let us consider, then what is the position of a man who has goods sent to him on sale or return. He receives the goods from the true owner with an option of becoming the owner, which can be exercised in one of three ways -- by buying the goods at the price named by the vendor; by selling the goods to some one else, which is taken to be a declaration of his option; or by keeping them so long that it would be unreasonable that he should return them.
+This definition was adopted by the Court of Appeal four years after the passing of the statute in Kirkham v. Attenborough [(1897) 1 Q.B.D. 201].
+Furthermore, in Harlequin Enterprises Ltd. v. Canada[3] the Federal Court of Appeal distinguished "sales" from consignments and sale-or-returns by outlining that in sales, title passed to the purchasers before the returns were made, contrary to sale-or-returns and consignment transactions.
+[11] M.G. Bridge[4] defines sale-or-return and sale on approval transactions as types of consignment transactions and further elaborates that a consignment transaction "is therefore not a sale of goods agreement at all since the potential buyer has not 'bought or agreed to buy' the goods, though it may ripen into a sale".
+[12] Of interest is the French wording of subsection 215.1(1) of the Act. As noted by counsel for the Respondent, the French version reads: "des produits qu'elle a acquis sur approbation, en consignation avec ou sans reprise des invendus ou selon d'autres modalités semblables". Hence, the French version does not refer specifically to "sale-or-return" transactions. The expression "sale-or-return" is normally rendered in French as "vente avec faculté de retour" as is the case in the French version of the Sale of Goods Act, R.S.O. 1990, c. S-1 at section 19, rule 4.[5] Therefore, the shared or common meaning rule applies.[6] The two versions of the Act can be reconciled since a sale-or-return transaction is a type of consignment transaction.
+[13] Consignment transactions, and more specifically sale or return or sale on approval transactions, all have two characteristics in common: (i) the transaction involves the title owner of the good and a bailee; and (ii) the bailee may obtain title to the goods, transfer the goods to a third party or return the goods to the title owner. In this case, there is no bailee involved. The Appellant maintained title to the goods throughout. The Appellant would have had to obtain ownership from a prior owner for the purpose of selling the goods at the Exhibition in order for it to be said that it acquired the jewellery on a sale-or-return basis. The Broker did obtain possession of the goods for the purpose of clearing customs. However, it cannot be said that the Appellant acquired the goods from the Broker on a sale-or-return basis since the Broker did not possess title to the goods.
+[14] Notwithstanding the fact that I appreciate the Appellant's interpretation of the CCRA's memorandum on duty drawback D7-4-2, which implies that importers can file for a GST rebate, other publications of CCRA have indicated that an individual who imports goods and subsequently exports them is only entitled to a GST rebate if they meet the requirements of subsection 215.1(1).[7] In any event, as outlined in R. v. Nowegijick,[8] the Court is not bound by departmental practice, although it is not uncommon to look at it if it can be of any assistance in resolving a doubt. In addition, I am confined by the words of the Supreme Court of Canada which stated in M.N.R. v. Inland Industries Ltd.:[9] "that the Minister cannot be bound by an approval given when the conditions prescribed by the law were not met". In my mind, there is no doubt as to the meaning of "acquired by the person on consignment, approval, sale-or-return basis or other similar terms" in subsection 215.1(1) of the Act. Unlike the Goods Imported and Exported Refund and Drawback Regulations, S.O.R./96-42, which clearly states under subsection 9(1) that a duty drawback "may be claimed by any person who is the importer or exporter of the imported or exported goods", subsection 215.1(1) of the Act makes it clear that several conditions need to be met in order to be eligible for a GST rebate. More precisely, subsection 215.1(1) requires the goods to have been acquired by the taxpayer on consignment, approval, sale-or-return basis or other similar terms. Although the Minister mistakenly allowed the GST rebates in previous taxation years, the Appellant does not have the right to have this mistake repeated annually in perpetuity.
+[15] In spite of the fact that GST is a consumption tax and the Appellant's goods were not consumed on the Canadian market, my hands are tied. The words of the Act are plain. As the Supreme Court of Canada said in Friesen v. Canada:[10] "the plain meaning of the relevant sections of the Income Tax Act is to prevail unless the transaction is a sham".
+[16] In this case, the meaning of the statutory language is clear and so I have no alternative but to dismiss the appeals.
+Signed at Ottawa, Canada, this 19th day of April, 2004.
+"E.A. Bowie"
+J.T.C.C.
+CITATION:
+2004TCC305
+COURT FILE NO.:
+2003-2444(GST)I and 2003-3091(GST)I
+STYLE OF CAUSE:
+Visa Jewellery & Thai Silk Co.
+and Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+January 16, 2004
+REASONS FOR JUDGMENT
+AS TO COSTS BY:
+The Honourable Justice E.A. Bowie
+DATE OF JUDGMENTS:
+April 19, 2004
+APPEARANCES:
+Agent for the Appellant:
+Don Butcher
+Counsel for the Respondent:
+P. Michael Appavoo
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/a
+Firm:
+N/a
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [2000] 1 S.C.R. 915.
+[2] [1956] S.C.R. 433 at 439.
+[3] [1977] 2 F.C. 579 (F.C.A.).
+[4] M.G. Bridge, Sale of Goods (Toronto: Butterworths, 1988) at p. 60.
+[5] Loi sur la vente d'objets, L.R.O. 1990, c. S-1.
+[6] R. Sullivan, Sullivan and Driedger on the Construction of Statutes, 4th ed. (Toronto: Butterworths, 2002) at p. 80 and P-A. Côté, Interprétations des lois, 3rd ed. (Montréal: Éditions Thémis, 1999) at p. 410.
+[7] CCRA document no. I11685-1, "Refund on Returned Imported Goods" March 4, 1996; CCRA document no. 96 GTI 014, "Recover GST Paid on Goods Imported and Subsequently Exported by a Non-Resident Non-Registered Importer" January 12, 1996; CCRA document no. 11645-6(RMCK), "Rebate of GST Paid on Temporarily Imported Goods" December 20, 1995; CCRA document no. 11645-5-2, "Rebate Claims for GST Paid on Imported Goods" July 28, 1995; CCRA document no. 11645-5(A), "Rebate of GST on Return of Imported Goods" December 19, 1994.
+[8] [1983] 1 S.C.R. 29.
+[9] [1974] S.C.R. 514 at 523.
+[10] [1995] 3 S.C.R. 103.

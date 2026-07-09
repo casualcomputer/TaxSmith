@@ -1,0 +1,172 @@
+Title: Nicoll c. Le Roi
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521139/index.do
+Corpus path: corpus/cases/tcc/2023/2023-cci-116-521139-nicoll-c-le-roi-fr.md
+Document type: case_law
+Last modified: 2023-08-02
+
+# Nicoll c. Le Roi
+
+- Citation: 2023 CCI 116
+- Decision date: 2023-08-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5765, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Nicoll c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2023-08-02
+Référence neutre
+2023 CCI 116
+Numéro de dossier
+2022-944(IT)I
+Juges et Officiers taxateurs
+Susan Wong
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2022-944(IT)I
+ENTRE :
+SCOTT NICOLL,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 14 septembre 2022, à Kelowna, Colombie-Britannique
+Devant : l’honorable juge Susan Wong
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimé :
+Me Nicolas Sigouin
+JUGEMENT
+L’appel des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2014 et 2015 est rejeté sans dépens.
+Signé à Ottawa, Canada, ce 2e jour d’août 2023.
+« Susan Wong »
+La juge Wong
+Référence : 2023 CCI 116
+Date : Le 2 août 2023
+Dossier : 2022-944(IT)I
+ENTRE :
+SCOTT NICOLL,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Wong
+I. Introduction/aperçu
+[1] M. Nicoll est un chaudronnier qui se déplace régulièrement de son domicile de Kelowna pour accomplir son travail dans divers endroits à l’extérieur de la ville. Diverses versions d’une convention collective couvrant l’appelant ont défini les conditions de son emploi, et ce, au moins depuis le début des années 1990.
+[2] En 2014 et 2015, la convention collective a modifié la manière dont les allocations de déplacement étaient calculées et payées aux employés. Il semble que ces changements visaient à simplifier le processus de remboursement des frais de déplacement des employés en éliminant, entre autres, la nécessité de présenter des reçus et en utilisant un lieu unique comme point de départ commun pour tous les déplacements.
+[3] Si ces changements ont permis de faciliter le processus de remboursement, ils ont également eu une incidence sur le plan fiscal.
+II. Question à trancher
+[4] En bref, les questions soulevées sont les suivantes :
+Est-ce que les allocations de déplacement de 4 006 $ et 6 590 $ perçues au cours des années d’imposition 2014 et 2015, respectivement, ont été correctement incluses dans le revenu déclaré?
+Est-ce que des frais de déplacement ou des dépenses relatives au véhicule à moteur sont déductibles du revenu d’emploi au cours de ces années?
+III. Contexte factuel
+[5] M. Nicoll a travaillé comme chaudronnier pendant plus de 30 ans et a vécu à Kelowna pendant 17 ans, y compris durant les années faisant l’objet de l’appel. Les conditions de son emploi sont régies par une convention collective conclue entre son syndicat (Boilermakers Lodge 359) et la Boilermaker Contractors' Association of British Columbia, qui est une association-cadre de sociétés adhérentes qui, ensemble, sont considéré comme l’« employeur »[1]
+[6] M. Nicoll a déclaré que son syndicat le joignait généralement à son domicile de Kelowna pour l’informer de son prochain contrat. Son travail l’oblige régulièrement à conduire de Kelowna vers d’autres endroits. En 2014 et 2015, il a travaillé à Port Alice, Fort Nelson, Trail, Kamloops, Castlegar, Quesnel, Crofton et Edmonton, entre autres[2].
+[7] Il a expliqué qu’en vertu des anciennes versions de la convention collective, l’employeur lui payait son temps de déplacement selon son salaire horaire, en plus de payer l’intégralité du coût du billet d’avion et des frais de transport jusqu’à son hôtel[3]. En vertu de la nouvelle convention collective régissant la période allant de 2014 à 2020[4], l’employeur lui a remboursé ses frais de déplacement sous la forme d’allocations, dont les principales modalités sont les suivantes :
+l’employeur a versé une allocation de déplacement initiale et finale, calculée en fonction du taux annuel des allocations par kilomètre prévu par l’Agence du revenu du Canada;
+l’allocation a été calculée en considérant l’hôtel de ville de Burnaby comme étant le point de départ commun à tous les travailleurs, que la personne soit ou non partie de cet hôtel (ce qui n’est généralement pas le cas de M. Nicoll);
+aucun paiement ou remboursement supplémentaire n’avait été prévu pour le temps de déplacement ou pour les dépenses encourues, sous réserve d’exceptions précises, notamment :
+les tarifs payés pour les traversiers, les péages, les taxis et les avions;
+des accords entre le syndicat et l’employeur et relatifs à certains projets prévoyaient le versement d’une allocation forfaitaire à tous les travailleurs.
+[8] M. Nicoll a déclaré qu’en vertu de ce régime, il n’avait pas à présenter de reçus pour ses déplacements et qu’il recevait automatiquement l’allocation s’il était envoyé sur un chantier situé en dehors de la ville. Il a mentionné que l’allocation calculée de cette manière lui rapportait parfois moins que ce que lui coûtait réellement le déplacement et parfois plus, de sorte qu’une moyenne était probablement atteinte à la fin de l’année. Il a également rappelé qu’en vertu de la version précédente de la convention collective, le remboursement de ses frais de déplacement n’étaient pas imposable.
+[9] Au cours de l’audit, M. Nicoll a fourni des formulaires T2200 (déclaration des conditions de travail) pour 2014 et 2015, signés par l’une des sociétés pour lesquelles il avait effectué un nombre important de travaux au cours de ces années. À la case 7 du T2200, pour les deux années, l’employeur indique que M. Nicoll a dû payer des dépenses pour lesquelles il n’a pas reçu d’allocation ou de remboursement et décrit les dépenses comme étant des frais de déplacement d’un montant équivalent aux allocations faisant l’objet de l’appel (soit 4 007,34 $ pour 2014 et 6 591,60 $ pour 2015).[5]
+IV. Cadre législatif
+[10] L’article 6 de la Loi de l’impôt sur le revenu définit les montants à inclure dans le revenu d’emploi; l’alinéa 6(1)b) traite spécifiquement des allocations pour frais de déplacement ou frais personnels ou de subsistance. Les extraits pertinents de cet article sont libellés comme suit :
+6. (1) Éléments à inclure à titre de revenu tiré d’une charge ou d’un emploi – Sont à inclure dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi, ceux des éléments suivants qui sont applicables : […]
+b) [Allocation pour f]rais personnels ou de subsistance – es sommes qu’il a reçues au cours de l’année à titre d’allocations pour frais personnels ou de subsistance ou à titre d’allocations à toute autre fin, sauf :
+[…]
+(vii) les allocations raisonnables pour frais de déplacement, à l’exception des allocations pour l’usage d’un véhicule à moteur, qu’un employé – dont l’emploi n’est pas lié à la vente de biens ou à la négociation de contrats pour son employeur – a reçues de son employeur pour voyager, dans l’accomplissement des fonctions de sa charge ou de son emploi, à l’extérieur :
+(A)(A) de la municipalité où était situé l’établissement de l’employeur dans lequel l’employé travaillait habituellement ou auquel il adressait ordinairement ses rapports,
+(B)(B) en outre, le cas échéant, de la région métropolitaine où était situé cet établissement,
+(vii.1) les allocations raisonnables pour l’usage d’un véhicule à moteur qu’un employé – dont l’emploi n’est pas lié à la vente de biens ou à la négociation de contrats pour son employeur – a reçues de son employeur pour voyager dans l’accomplissement des fonctions de sa charge ou de son emploi,
+[…]
+[11] Le libellé ci-dessus est en vigueur depuis 1994 et s’applique à l’année d’imposition 1990 et aux suivantes[6]. L’amendement rétroactif de 1994 a expressément abrogé la formulation précédente sur « les allocations – n’excédant pas des montants raisonnables »[7] des sous-alinéas 6 () b (ii) et (vii.1) pour la remplacer par « allocations raisonnables ».
+[12] Les notes techniques du ministère des Finances datées du 30 mai 1991 expliquent cet amendement :
+Ces sous-alinéas sont modifiés, pour les années d’imposition 1990 et suivantes, de sorte que des allocations raisonnables pour frais de déplacement (sauf les frais liés à l’usage d’un véhicule à moteur) et frais liés à l’usage d’un véhicule à moteur soient exclues du calcul du revenu d’un particulier provenant d’une charge ou d’un emploi. Ainsi, les allocations qui ne sont pas raisonnables, et non plus seulement celles qui dépassent l’allocation raisonnable, doivent être incluses dans le revenu. Dans ces circonstances, le contribuable peut avoir droit à une déduction pour des frais de déplacement en vertu des alinéas 8(1)f) ou (1)h).
+[13] En outre, en vertu de la sous-alinéa 6(1)b)(x), une allocation reçue pour l’utilisation d’un véhicule à moteur est déraisonnable aux fins de la sous-alinéa (vii.1) lorsque l’usage du véhicule n’est pas évalué en fonction du nombre de kilomètres parcourus.
+[14] L’article 8 de la loi contient les dispositions correspondantes en matière de déduction, dont les passages pertinents sont libellés comme suit :
+8. (1) Éléments déductibles – Sont déductibles dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi ceux des éléments suivants qui se rapportent entièrement à cette source de revenus, ou la partie des éléments suivants qu’il est raisonnable de considérer comme s’y rapportant :
+[…]
+(h) Frais de déplacement – lorsque le contribuable, au cours de l’année, à la fois :
+(i) a été habituellement tenu d’exercer les fonctions de son emploi ailleurs qu’au lieu d’affaires de son employeur ou à différents endroits,
+(ii) a été tenu, en vertu de son contrat d’emploi, d’acquitter les frais de déplacement qu’il a engagés pour l’accomplissement des fonctions de sa charge ou de son emploi,
+les sommes qu’il a dépensées pendant l’année (sauf les frais afférents à un véhicule à moteur) pour se déplacer dans l’exercice des fonctions de son emploi, sauf s’il a, selon le cas :
+(iii) reçu une allocation pour frais de déplacement qui, par l’effet des sous-alinéas 6(1)b)(v), (vi) ou (vii), n’est pas incluse dans le calcul de son revenu pour l’année,
+[…]
+(h.1) Frais afférents à un véhicule à moteur – dans le cas où le contribuable, au cours de l’année,
+a été habituellement tenu d’accomplir les fonctions de son emploi ailleurs qu’au lieu d’affaires de son employeur ou à différents endroits et
+a été tenu, aux termes de son contrat d’emploi, d’acquitter les frais afférents à un véhicule à moteur qu’il a engagés dans l’accomplissement des fonctions de sa charge ou de son emploi,
+les sommes qu’il a dépensées au cours de l’année au titre des frais afférents à un véhicule à moteur pour se déplacer dans l’exercice des fonctions de son emploi, sauf s’il a, selon le cas :
+(i) reçu une allocation pour frais afférents à un véhicule à moteur qui, par l’effet de l’alinéa 6(1)b), n’est pas incluse dans le calcul de son revenu pour l’année,
+[…]
+[15] Au moment où les sous-alinéas 6(1)b)(vii) et (vii.1) ont été modifiés rétroactivement en 1994, l’alinéa 8(1)h .1) a été ajouté pour traiter des frais afférents à un véhicule à moteur et l’alinéa 8(1)h) a été modifié pour soustraire les frais de véhicule à moteur des frais de déplacement. Ces deux modifications s’appliquent rétroactivement à l’année 1988 et aux suivantes[8].
+[16] Les notes techniques du ministère des Finances datées du 30 mai 1991 expliquent cet amendement :
+L’alinéa 8(1)h) est modifié afin de permettre à un employé de déduire les frais de déplacement, sauf ceux liés à l’usage d’un véhicule à moteur, s’il ne recevait pas d’allocation non imposable pour ces frais par application des sous-alinéas 6(1)b)(v), (vi) ou (vii) et s’il ne demande pas de déduction pour l’année en vertu des alinéas 8(1)e), f) ou g).
+[17] En d’autres termes, les modifications législatives disposent (et l’intention du Parlement le confirme) que les allocations pour frais de déplacement ou pour dépenses relatives aux véhicules à moteur doivent être entièrement raisonnables pour être exclues du revenu d’emploi. Les allocations qui vont au-delà de ce qui est raisonnable doivent être incluses en totalité dans le revenu, c’est-à-dire qu’il n’est pas possible de soustraire une portion raisonnable du reste des allocations[9].
+[18] De même, lorsqu’une telle allocation est considérée comme déraisonnable et doit donc être incluse dans le revenu, les frais de déplacement ou les dépenses relatives aux véhicules à moteur peuvent être déduits du revenu en vertu des alinéas 8(1)h) et h .1).
+V. Discussion et analyse
+[19] La convention collective a facilité les démarches administratives en éliminant la nécessité pour les employés de présenter des reçus et en normalisant le régime de remboursement par le versement d’une allocation de déplacement pour chaque déplacement, dont le calcul est basé uniquement sur le nombre de kilomètres parcourus, en prenant l’hôtel de ville de Burnaby comme point de départ commun. Malheureusement, ce système simplifié a également fait disparaître les détails requis pour que M. Nicoll puisse appliquer les articles 6 et 8 de la manière qu’il souhaite.
+[20] En ce qui concerne la disposition relative à l’allocation de déplacement[10], son libellé exige que l’employé se déplace en dehors de l’établissement de l’employeur, qu’il s’agisse du lieu où l’employé travaille ou se présente habituellement, ou encore de la zone métropolitaine où se trouve l’établissement. En l’espèce, l’hôtel de ville de Burnaby n’a aucun lien avec l’établissement de l’employeur, de sorte que l’allocation reçue par M. Nicoll est soit déraisonnable, soit hors du champ d’application des paramètres établis par la disposition.
+[21] Si les allocations de M. Nicoll sont plutôt considérées en vertu de la disposition visant les allocations pour dépenses relatives aux véhicules à moteur[11], elle serait jugée déraisonnable en vertu du sous-alinéa 6 () b(x). L’hôtel de ville de Burnaby est un point de départ arbitraire dans ce contexte, de sorte que le calcul des allocations n’était pas basé uniquement sur le nombre de kilomètres parcourus dans le cadre d’un emploi; par conséquent, la disposition déterminative s’appliquerait.
+[22] Le paragraphe 6(6), qui traite de l’emploi sur un chantier particulier ou en un endroit éloigné, a également été invoqué par l’appelant. Cette disposition exclut du revenu la valeur d’une allocation (ne dépassant pas un montant raisonnable) pour sa pension et son logement et pour le transport, selon des critères circonstanciels définis.
+[23] En ce qui concerne les frais de transport, ils doivent correspondre au transport entre : (i) soit son lieu principal de résidence et le chantier particulier visés […], [12] (ii) soit l’endroit [éloigné] et un endroit au Canada ou un endroit dans un pays où le contribuable est employé[13]. En ce qui concerne la première possibilité, l’utilisation de l’hôtel de ville de Burnaby à la place de son lieu de résidence principal empêche l’application du sous-alinéa 6(6)b)(i) à la situation de M. Nicoll. En ce qui concerne la seconde possibilité, il n’y avait pas suffisamment de preuves permettant de déterminer quels lieux de travail pouvaient être considérés comme éloignés, de sorte que le sous-alinéa 6(6)b)(ii) ne peut s’appliquer. Je suppose que le système de remboursement simplifié prévu par la convention collective ne se prête en aucun cas à ce type de tenue de livres.
+[24] En ce qui concerne la déduction éventuelle des frais de déplacement ou des dépenses relatives aux véhicules à moteur en vertu des paragraphes 8(1)h) ou h .1), la difficulté en l’espèce porte sur la preuve. Il ressort clairement des notes techniques du ministère des Finances que l’intention du législateur était que les salariés puissent déduire leurs frais de déplacement et leurs dépenses relatives aux véhicules à moteur lorsque leur allocation était considérée comme déraisonnable et qu’elle était incluse dans le revenu. Je comprends à partir des dispositions de la convention collective et du témoignage de M. Nicoll que lui et ses homologues avaient le loisir de s’installer et de vivre dans les basses-terres continentales de la Colombie-Britannique ou à l’extérieur de celles-ci.
+[25] On peut se demander si, dans certaines circonstances, le déplacement à partir du domicile vers l’extérieur de la ville est une initiative personnelle ou est lié au travail. Toutefois, l’appelant a cherché à déduire des dépenses équivalentes au montant des allocations, ce qui ne permet pas de savoir quels sont les véritables montants déductibles (s’il y en a). Là encore, je suppose que le système de remboursement simplifié prévu par la convention collective ne se prête pas à ce type de tenue de livres.
+VI. Conclusion
+[26] L’appel est rejeté, sans dépens.
+Signé à Ottawa, Canada, ce 2e jour d’août 2023.
+« Susan Wong »
+La juge Wong
+RÉFÉRENCE :
+2023 CCI 116
+No DU DOSSIER DE LA COUR :
+2022-944(IT)I
+INTITULÉ :
+SCOTT NICOLL c. SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Kelowna (Colombie-Britannique)
+DATES DE L’AUDIENCE :
+Le 14 septembre 2022
+MOTIFS DU JUGEMENT PAR :
+l’honorable juge Susan Wong
+DATE DU JUGEMENT :
+Le 2 août 2023
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimé :
+Me Nicolas Sigouin
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+S.o.
+Cabinet :
+S.o.
+Pour l’intimé :
+Me Shalene Curtis-Micallef
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Pièce R-1; pièce A-6, page 6.
+[2] Pièces A-3, A-4 et A-6.
+[3] Pièce A-5, articles 19:04 et 19:05.
+[4] Pièces A-6 et R-1, article 19.
+[5] Pièce A-2, pages 6 à 9.
+[6] Loi de révision des modifications relatives à l’impôt sur le revenu, S.C. 1994, ch. 7, annexe II (c’est-à-dire S.C. 1991, ch. 49), par. 3(2), 3(3), et 3(7).
+[7] Loi de l’impôt sur le revenu, S.R. 1952, ch. 148, partie 1, alinéas 6(1)b)(vii) et (vii.1).
+[8] Loi de révision des modifications relatives à l’impôt sur le revenu, S.C. 1994, ch. 7, annexe II (c’est-à-dire S.C. 1991, ch. 49), par. 5(2), 5(3), et 5(10).
+[9] Canada (Revenu national) c. Al Saunders Contracting & Consulting Inc.2020 CAF 89 (CanLII), par. 21 à 23
+[10] Loi de l’impôt sur le revenu, al. 6(1)b)(vii)
+[11] Loi de l’impôt sur le revenu, al. 6(1)b)(vii.1)
+[12] Loi de l’impôt sur le revenu, al. 6(6)b)(i)
+[13] Loi de l’impôt sur le revenu, al. 6(6)b)(ii)

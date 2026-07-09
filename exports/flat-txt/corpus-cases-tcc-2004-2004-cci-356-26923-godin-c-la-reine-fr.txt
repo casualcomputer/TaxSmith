@@ -1,0 +1,182 @@
+Title: Godin c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26923/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-356-26923-godin-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2004-05-11
+
+# Godin c. La Reine
+
+- Citation: 2004 CCI 356
+- Decision date: 2004-05-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 729, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Godin c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-05-11
+Référence neutre
+2004 CCI 356
+Numéro de dossier
+2003-1674(IT)I
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-1674(IT)I
+ENTRE :
+GÉRARD GODIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 2 février 2004 à Québec (Québec)
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Avocat de l'appelant :
+Me Pierre Hémond
+Avocate de l'intimée :
+Me Julie David
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu (la « Loi » ) pour les années d'imposition 1998 et 1999 sont admis et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations en tenant pour acquis que le montant de revenu additionnel pour l'année 1998 soit réduit de 7 424 $ et que les pénalités soient radiées pour les années 1998 et 1999;
+L'appel de la cotisation établie en vertu de la Loi pour l'année 2000 est rejeté.
+Le tout selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 11e jour de mai, 2004.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Référence : 2004CCI356
+Date : 20040511
+Dossier : 2003-1674(IT)I
+ENTRE :
+GÉRARD GODIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx
+[1] Ces appels, par voie de la procédure informelle, concernent les années d'imposition 1998, 1999 et 2000.
+[2] Il s'agit de savoir si le ministre du Revenu national (le « Ministre » ) était en droit : a) d'ajouter à l'appelant à titre de revenus d'entreprise additionnels des montants de 13 829 $, 5 000 $ et 2 994 $ à l'égard de chacune des années en cause; et b) d'imposer une pénalité sur ces revenus à l'égard des années d'imposition 1998 et 1999 en vertu du paragraphe 163(2) de la Loi de l'impôt sur le revenu (la « Loi » ).
+[3] Les faits sur lesquels le Ministre s'est appuyé pour établir ses nouvelles cotisations sont décrits aux paragraphes 7 et 8 de la Réponse à l'avis d'appel (la « Réponse » ) comme suit :
+7) En établissant ces nouvelles cotisations, le Ministre a modifié les dépenses d'entreprises, initialement refusées, lesquelles ne sont pas visées par le présent litige et, a ajouté à titre de revenus d'entreprises additionnels, des sommes s'élevant à 13 829 $, à 5 000 $ et à 2 994 $ que l'appelant avait omis de déclarer dans les années d'imposition 1998, 1999 et 2000. Une pénalité, selon le paragraphe 163(2) de la Loi, a été imposée sur les revenus additionnels des années d'imposition 1998 et 1999.
+8) Pour établir de nouvelles cotisations, faisant l'objet du présent litige, le Ministre a tenu notamment pour acquis les faits suivants :
+a) L'appelant exploite, en son nom personnel, une entreprise dont l'activité principale consiste à la pose d'asphalte;
+b) En produisant ses déclarations de revenus pour les années d'imposition 1998, 1999 et 2000, l'appelant a déclaré des revenus bruts d'entreprise s'élevant à 263 850 $, à 294 921 $ et à 315 700 $ pour chacune des années d'imposition respectives;
+c) Le ou vers le 7 mai 2001, la division de la vérification de l'Agence des douanes et du revenu Canada, a initié une vérification relativement à l'entreprise exploitée par l'appelant;
+d) L'Appelant ainsi que sa conjointe, madame Gaétane Tremblay, ont soumis entre autre, pour fins de vérification, tous leurs relevés bancaires;
+e) L'appelant possédait un seul compte bancaire, commercial et personnel, avec la Caisse Populaire Ste-Anne de Beaupré, folio 7769;
+f) Sa conjointe possédait deux comptes bancaires avec la même institution, folios 20763 et 7766;
+g) En 1998, plusieurs transactions commerciales ont été effectuées dans le compte personnel de madame Tremblay, folio 7766, puisqu'une saisie avait été effectuée, par le ministère du Revenu du Québec, dans le compte bancaire de l'appelant;
+h) Madame Tremblay, qui s'occupait de toute la tenue de livre de l'entreprise, a confirmé au vérificateur que certains dépôts apparaissant dans son compte bancaire, folio 7766, représentaient effectivement des revenus d'entreprise;
+i) Les dépôts personnels effectués dans les comptes bancaires de la conjointe représentaient, entre autre, son salaire, les prestations d'assurance-emploi ainsi que les dépôts de sa marge de crédit;
+j) Madame Tremblay possédait un autre compte provenant des loyers générés par un immeuble lui appartenant;
+k) Les dépôts effectués dans ce compte provenaient des loyers générés par un immeuble lui appartenant;
+l) Pendant les années visées par le présent litige, ni l'appelant ni sa conjointe n'ont reçu d'héritage;
+m) La conjointe de l'appelant a affirmé avoir reçu des gains du casino totalisant environ 1 800 $ par année;
+n) Cette dernière n'a soumis aucun élément de preuve appuyant cette allégation;
+o) Tous les dépôts effectués au compte bancaire commercial ont été conciliés;
+p) Les dépôts inexpliqués, retracés dans le compte personnel de la conjointe, folio 7766, représentaient des revenus d'entreprise non déclarés;
+q) Au stade de l'opposition, le Ministre a concilié en fonction des preuves soumises, des dépôts personnels supplémentaires et, n'a considéré à titre de revenus additionnels, que les dépôts inexpliqués supérieurs à 500 $ seulement;
+r) L'appelant a sciemment ou dans des circonstances équivalant à une faute lourde, fait un faux énoncé ou une omission dans un document produit pour chacune des années d'imposition en litige, ou y a participé, consenti ou acquiescé; des pénalités s'élevant à 567,45 $ et à 100 $ lui ont conséquemment été imposées pour les années d'imposition 1998 et 1999.
+[4] Les motifs d'appel se trouvent aux paragraphes 5 à 7 de l'Avis d'appel comme suit :
+5. Tel qu'il appert des avis de nouvelle cotisation, pièce R-3, les revenus additionnels faisant l'objet des cotisations, pièces R-1, étaient révisés aux montants suivants :
+-
+13 829,00 $ pour l'année 1998;
+-
+5 000,00 $ pour l'année 1999;
+-
+2 994,00 $ pour l'année 2000;
+6. La décision de l'intimée et les avis de cotisation du 31 janvier 2003, pièce R-3, sont mal fondés, et ce, pour les motifs mentionnés ci-après;
+7. En effet, l'intimée impose toujours l'appelant sur des revenus additionnels pour les années d'imposition 1998, 1999 et 2000 alors que ces montants ne constituent aucunement un revenu d'entreprise, et ce, même si ces montants ont pu apparaître dans des dépôts ayant été effectués à l'époque, le tout tel qu'il sera démontré lors de l'enquête et de l'audition;
+[5] Pour l'appelant, son avocat a admis les alinéas 8 a) à 8 e), 8 j) et 8 l) de la Réponse. Il a nié les alinéas 8 f), 8 h), 8 p) et 8 r) de la Réponse. Il a nié tel que rédigé les alinéas 8 g), 8 i), 8 k), 8 m) et 8 n) de la Réponse. Il ignore l'alinéa 8 o) de la Réponse. Il prend acte de l'admission contenue à l'alinéa 8 q).
+[6] Le premier témoin de l'appelant a été monsieur Louis Lavoie, directeur général de la Caisse populaire Mont Ste-Anne. Il connaît l'appelant et sa conjointe, madame Gaétane Tremblay, depuis une vingtaine d'années. En 1998, il était directeur général de la Caisse Ste-Anne de Beaupré qui a changé de nom en celui qu'elle porte actuellement. Il relate qu'en mars 1998, il y a eu une saisie par les autorités fiscales du Québec à l'encontre du compte de l'appelant qui était à la fois son compte d'entreprise et son compte personnel. Le document de saisie fait partie de la pièce A-4 et est en date du 12 mars 1998. À la fin de la pièce A-4, se trouve la mainlevée accordée en date du 6 avril 1998.
+[7] Monsieur Lavoie relate qu'au moment de la saisie en mars 1998, la marge de crédit de l'appelant était fortement utilisée. L'appelant a dû recourir à un emprunt hypothécaire pour payer Revenu Québec et se libérer de la saisie.
+[8] Le témoin explique que les dépôts faits par guichet automatique ne comportent pas de bordereau. Les transactions sont inscrites localement et les effets sont envoyés au centre de traitement de compensation qui les filme pour l'ensemble des institutions financières Desjardins. Il est donc possible de retracer les pièces mais cela exige de l'effort. Selon le témoin, les chèques selon les normes de conservation des documents que les institutions financières ont à respecter seraient conservés pendant 20 à 25 ans. Chaque banque est responsable de la conservation des effets tirés sur les comptes de ses clients.
+[9] Il donne quelques explications des sigles utilisés lors des inscriptions des transactions : DGA signifie dépôt au guichet automatique, DSL signifie dépôt effectué au comptoir sans la mise à jour du livret.
+[10] Le deuxième témoin a été madame Josée Rousseau. Elle est maintenant conseillère, Service aux entreprises du Centre financier aux entreprises, Région Est de la Capitale. Elle a commencé à travailler à la Caisse populaire Ste-Anne de Beaupré en 1986 et elle connaît l'appelant et sa conjointe depuis ce temps. En 1998, elle était agent aux entreprises à la Caisse. Elle a quitté la Caisse en novembre 1999.
+[11] Elle produit comme pièce A-5, le relevé informatisé du compte 7766 et 20763 du 1er janvier 1998 au 31 décembre 1998. Il s'agit de microfiches de l'ensemble des transactions qui ont eu lieu dans ces comptes pour l'année 1998. Le compte 7766 est celui de madame Tremblay. Le compte 20763 est un compte de l'appelant. L'information concernant les comptes de l'appelant n'est pas des plus claires. Il semblerait que l'appelant ait surtout utilisé le compte 7769 pour les fins de son entreprise et ses fins personnelles. De plus, la pièce A-5, présentée comme le relevé informatique du compte de madame Tremblay, contenait les relevés informatiques d'autres personnes ce qui compliquait les explications. On était quelquefois dans un compte qui ne concernait nullement madame Tremblay.
+[12] Madame Rousseau donne aussi quelques explications concernant les sigles que l'on retrouve sur les microfiches : MGA veut dire mise à jour du livret au guichet automatique, DCN signifie qu'un chèque a passé à la compensation.
+[13] À la pièce A-5, en date du 30 avril, il y a un dépôt de 1 000 $ et en date du 1er mai, un dépôt de 5 000 $. Puis, en date du 1er mai à 11 h 37, il y a une indication de virement d'un compte à un autre au montant de 6 000 $.
+[14] Au compte 7769, compte de l'appelant, dont les microfiches ont été déposées comme pièce A-6, on y voit à la date du 1er mai un dépôt de 6 000 $. Le témoin conclut que le virement du compte de madame Tremblay a été fait au compte de l'appelant.
+[15] Le prochain témoin a été madame Gaétane Tremblay. Elle explique que l'entreprise de son mari est une entreprise de terrassement et de pavage. Elle n'a pas de participation à la propriété de l'entreprise. Elle est employée par l'entreprise à titre de commis-comptable. Elle occupe cet emploi depuis le début de l'entreprise. Elle répond au téléphone, établit les estimations, fait la tenue des livres, la facturation, les dépôts à la Caisse, la paye des employés, bref tout ce qui concerne l'administration de l'entreprise.
+[16] Elle relate que lors de la saisie du compte de l'entreprise en 1998, il y a eu des discussions avec monsieur Lavoie concernant un nouveau financement. Il a fallu faire un emprunt hypothécaire pour augmenter la marge de crédit et régler les comptes de la taxe sur les produits et services, fédérale et provinciale. L'appelant a même dû cette année-là retirer de l'argent d'un REER.
+[17] Elle dépose, comme pièce A-7, un document préparé par le vérificateur du Ministre, monsieur Bobby J. Frank Youemto, ayant pour titre « Dépôts inexpliqués, Folio 7766 » .
+[18] Elle dit qu'elle avait d'autres comptes dans des banques soit pour des fins personnelles comme un emprunt pour REER ou des marges de crédit ou pour les fins de ses propriétés locatives.
+[19] L'avocat de l'appelant lui demande quelle démarche elle a fait pour retracer les dépôts paraissant à la pièce A-7. Madame Tremblay relate qu'elle a surtout fait affaire avec une dame Louisette Lachance de la Caisse, dont une des fonctions est d'aider à retracer les documents indiqués sur les microfiches. Il y a des documents qu'elle aurait retracés mais aucun pour l'année 1999, car le film était voilé. Elle n'aurait pas été en mesure non plus de retracer les copies de chèques déposés au guichet automatique.
+[20] Lors de son témoignage, madame Tremblay a donné des explications pour les dépôts dans son compte de banque. Ainsi, elle a expliqué la provenance du premier dépôt inexpliqué pour l'année 1998 au montant de 830 $ comme étant le produit de la vente d'un ameublement de salon qu'elle avait depuis 1972. Elle a expliqué la provenance de deux montants de 1 000 $ par une somme d'argent de 5 000 $ qu'elle conservait à la maison. Elle a expliqué le dépôt de 5 000 $ en date du 1er mai 1998 par un emprunt sur une marge de crédit de la MBNA. Il n'y a pas eu production de ce dernier document. D'autres dépôts provenaient de remboursements de prêts faits à des amies pour jouer au casino ou de gains faits au Casino. Quelques dépôts provenaient de paiements faits par des locataires de ses immeubles à revenu. En ce qui concerne le montant de 2 610,35 $ du 1er novembre 1999, elle dit qu'il s'agit d'un remboursement pour le paiement de la partie affaire de la carte Visa.
+[21] Elle dépose comme pièce A-16, trois chèques payés pour l'entreprise à partir de son compte 7766. Deux sont en date du 31 mars 1998 et sont aux montants respectifs de 774 $, et 150 $. Le troisième est en date du 21 avril et est au montant de 500 $. Elle explique que pendant la période de saisie, elle a dû faire quelques chèques à partir de son propre compte pour les fins de l'entreprise.
+[22] Monsieur Youemto relate que dans le cadre de sa vérification, il a rencontré monsieur Godin très rapidement. C'est surtout madame Tremblay qu'il a rencontrée.
+[23] Monsieur Youemto dit qu'il n'a pas inclus quelques dépôts au motif de gains au casino. En ce qui concerne les revenus de location, ils étaient déposés dans un compte spécifique aux revenus de location. Madame Tremblay ne lui a jamais mentionné qu'il y avait des revenus de location qui avaient été déposés dans son compte personnel. Elle n'avait pas fait état non plus dans le cadre de leur rencontre de prêts qu'elle effectuait à des amies.
+[24] Il explique que les revenus de l'entreprise étaient comptabilisés par les dépôts. Il ne fait pas de commentaire à savoir s'il s'agit d'une méthode de comptabilité acceptable ou non ou s'il a demandé au contribuable de modifier cette façon d'établir son revenu.
+[25] Le vérificateur indique que pour les trois années cotisées, 1998, 1999 et 2000, l'appelant avait fait des déclarations de revenu négatives. Comme les revenus additionnels étaient des montants supérieurs à 5 000 $, il a imposé des pénalités.
+[26] Il a obtenu les microfiches de la banque mais n'a fait aucune recherche supplémentaire auprès de celle-ci.
+[27] Monsieur Gérard Godin a témoigné à la demande de l'avocate de l'intimée. Il a admis que le compte de son entreprise et son compte personnel est le même compte soit celui portant le numéro 7769. Le compte 20163 a été ouvert au moment de la saisie. Il y a eu un dépôt de REER qui y a été fait. Il croit y avoir déposé 10 000 $ de son REER. Il explique aussi que c'est son épouse qui gère la partie administrative de son entreprise.
+[28] Madame Nicole Turcotte agent des appels a témoigné. Elle a déposé son rapport comme pièce I-6. Elle a expliqué qu'elle avait enlevé, des revenus additionnels, les dépôts de 500 $ et moins. Elle a demandé des preuves que les dépôts supérieurs à 500 $ ne représentaient pas du revenu provenant de l'entreprise. Quelques autres montants ont été enlevés. Il y avait en effet eu un montant de REER qui avait été déposé dans le compte de banque de madame Tremblay. C'était en date du 13 août 1998 au montant de 5 520 $. Elle ne l'a pas inclus. Elle explique que lors de la vérification, certains dépôts avaient servi à payer la partie affaires du compte Visa. Elle en a retracé un autre pour l'année 1999 au montant de 1 437,42 $.
+Arguments
+[29] L'avocat de l'appelant fait valoir que la plupart des individus ne pourraient expliquer des dépôts qui ont été faits au guichet automatique trois ans au préalable. Le fardeau de la preuve doit être raisonnable. Il ne faudrait pas que ça revienne à être des cotisations arbitraires. L'avocat de l'appelant fait valoir qu'il n'y a pas de lien qui a été établi entre le revenu de madame Tremblay et celui de l'entreprise.
+[30] Il se réfère à la décision de la Cour suprême du Canada dans Canderel Ltée c. Canada, [1998] 1 R.C.S. 147, et plus particulièrement au paragraphe 52 :
+52 Revenu Canada est libre d'indiquer par voie de cotisation son désaccord avec la méthode de calcul choisie par le contribuable. Dans Johnston c. M.N.R., [1948] R.C.S. 486, notre Cour a conclu qu'il incombe au contribuable ayant fait l'objet d'une cotisation d'établir que les conclusions de fait sur lesquelles la cotisation est basée sont fausses. Cependant, pour s'acquitter de cette charge de la preuve, lorsque le différend porte sur la méthode de calcul appropriée, le contribuable n'a qu'à prouver que son revenu a été calculé d'une manière compatible avec le paragraphe précédent, c'est-à-dire que le chiffre obtenu était conforme au cadre juridique existant alors et donne une image fidèle de sa situation financière pour l'année en question. Il y a alors déplacement de la charge de la preuve et le ministre est alors tenu de prouver que le chiffre ne constitue pas une image fidèle du revenu ou qu'une autre méthode de calcul donnerait une image plus fidèle. Ce faisant, toutefois, je souligne que le ministre n'a pas le droit de se fonder sur certains principes commerciaux reconnus en invoquant qu'ils sont intrinsèquement préférables à d'autres. Si la méthode choisie par le contribuable est par ailleurs acceptable du point de vue du droit et conforme à ces principes reconnus, alors le ministre ne peut pas affirmer que d'autres principes auraient dû être utilisés, sauf dans les cas où leur application aurait produit une image plus fidèle du revenu.
+[31] L'avocat fait valoir que dans le cas de Entreprise Godin, il y a eu une vérification. Il n'y a rien qui démontre que le revenu n'a pas été établi selon une méthode de calcul appropriée.
+[32] Il devrait donc y avoir déplacement de la charge du fardeau de preuve. Ce serait au ministère de prouver que le chiffre ne constitue pas une image fidèle du revenu ou qu'une autre méthode de calcul donnerait une image plus fidèle.
+[33] L'avocat conclut en disant que le fardeau de preuve imposé au contribuable est déraisonnable et qu'il est déraisonnable d'ajouter au revenu d'entreprise de l'appelant à partir du compte personnel de sa conjointe.
+[34] L'avocate de l'intimée se réfère à la décision Venne c. Canada (ministre du Revenu national- M.R.N.) (C.F. 1re inst.), [1984] A.C.F. no 314 (Q.L.), à la page 18 :
+... La « faute lourde » doit être interprétée comme un cas de négligence plus grave qu'un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la Loi. ...
+[35] L'avocate se réfère également à la décision Robert Girard c. le ministre du Revenu national, 89 DTC 60, à la page 62 :
+Pour se dégager de sa responsabilité devant la loi lorsqu'un appelant a omis de déclarer un revenu, il ne suffit pas pour lui d'attribuer cette omission à des circonstances apparemment hors de son contrôle et d'essayer de placer le blâme sur des tiers. Lorsqu'il signe sa déclaration d'impôt pour une année d'imposition il a signé également le certificat suivant :
+Je certifie par les présentes que les renseignements donnés dans cette déclaration et dans tous les documents ci-joints sont vrais, exacts et complets sous tous les rapports et révèlent la totalité de mes revenus de toutes provenances.
+Cette formule qui est statutaire m'apparaît très claire et nécessite aucune explication. Signée par un contribuable elle crée une présomption en faveur de l'exactitude de la déclaration basée sur le fait que le contribuable était conscient et satisfait de son contenu lors de sa signature. Il en est de même pour toutes les annexes qui doivent être complétées et produites sans exception avec la déclaration si les circonstances l'exigent.
+Je ne maintiens pas par ailleurs que le fait pour un contribuable d'avoir signé un tel certificat le rend automatiquement passible de la pénalité prévue au paragraphe 163(2) advenant qu'il ait commis une infraction quelconque dans cette déclaration. Je reconnais qu'il y a toute une gamme de circonstances qui peuvent faire que sa responsabilité devant ce paragraphe soit entièrement dégagée. Mais pour réussir à convaincre la Cour que l'infraction qu'il a pu commettre l'a été en raison de circonstances indépendantes de son contrôle, et dégager ainsi sa responsabilité, il doit lui démontrer qu'il a apporté une attention et une diligence raisonnable dans les circonstances à la préparation et à la production de sa déclaration.
+Dans la situation qui nous intéresse, par ailleurs, je ne peux accepter que l'appelant n'a pas « fait sciemment dans des circonstances qui justifient l'imputation d'une faute lourde, un faux énoncé ou une omission dans sa déclaration » tel que le veut le paragraphe en omettant de déclarer des revenus de 46 460 $ pour l'année d'imposition 1976 provenant de la disposition du motel Hong Kong et du Château.
+... Je ne puis que lui attribuer une attitude dont le degré de négligence est suffisant pour justifier une faute lourde de sa part.
+Analyse et conclusion
+[36] Ce n'est pas la méthode de comptabilité qui est mise en cause par le Ministre mais le fait que tous les revenus de l'entreprise n'aient pas été déclarés. Il n'y a donc pas de déplacement de preuve tel que suggéré par l'avocat de l'appelant en se fondant sur la décision Canderel, ci-dessus.
+[37] Il est vrai qu'il peut être difficile pour un contribuable de se souvenir des dépôts faits dans un compte de banque. Par ailleurs, normalement, ces dépôts ne sont pas nombreux et seront habituellement de même nature comme un revenu d'emploi ou de pension. La situation est bien différente dans le cas de la personne en entreprise. Cette personne devrait alors conserver un journal de ces dépôts.
+[38] La conjointe de l'appelant avait quelques propriétés locatives et avait un compte spécial pour ces revenus. Ce n'était donc pas ces revenus qui étaient en cause. Elle gérait l'entreprise de son mari. Bien que son mari ait été l'appelant, il n'a témoigné qu'à la demande de l'intimée et son témoignage a été fort bref. L'aspect administratif de l'entreprise est pris en charge par la conjointe de l'appelant. Il s'agit d'un contexte d'entreprise familiale et l'hypothèse que les dépôts supérieurs à 500 $ et de montants variés proviennent de l'entreprise de l'appelant est une hypothèse fort plausible.
+[39] Les explications données par la conjointe de l'appelant quant à la provenance des sommes déposées dans son compte personnel ne sont guère plausibles. Elles n'ont été d'aucune façon corroborées par des preuves écrites ou testimoniales. De plus, il s'agit d'affirmations qui n'ont été faites ni au moment de la vérification ni au moment des oppositions.
+[40] Par ailleurs, pour l'année 1998, il y a une preuve qu'un montant de 6 000 $ a été viré aux fonds de l'entreprise. Ce montant sert donc à annuler les dépôts correspondants de 1 000 $ et 5 000 $. Il y a aussi la pièce A-16 qui indique que des paiements aux montants de 774 $, 500 $, et 150 $ ont été faits pour les fins de l'entreprise en 1998 à partir du compte de banque de l'appelante vu le gel du compte de banque de l'appelant. Ces montants n'auraient pas été pris en compte par le vérificateur car madame Tremblay aurait retracé ces chèques peu de temps avant l'audience.
+[41] Ces sommes peuvent être déduites du total des dépôts non expliqués pour l'année 1998. Les montants de revenu additionnel pour les autres années demeurent tels que déterminés par le Ministre.
+[42] En ce qui concerne les pénalités sur le revenu additionnel, ayant comme source les dépôts non-expliqués, imposées en vertu du paragraphe 163(2) de la Loi, le fardeau de la preuve appartient à l'intimée. J'aurais souhaité avoir une preuve plus claire de la part de l'intimée qu'il s'agissait bien d'appropriation des argents de l'entreprise par la conjointe de l'appelant. L'imposition de la pénalité s'est fait en fonction du montant de revenu additionnel. Comme le revenu additionnel dépassait 5 000 $, le vérificateur a imposé la pénalité. Le revenu additionnel incluait également les dépenses refusées.
+[43] Il aurait été possible au vérificateur de vérifier auprès de la banque la provenance des dépôts faits par madame Tremblay dans son compte et ainsi établir les liens entre le revenu de l'entreprise et les dépôts faits dans le compte de banque personnel de la conjointe de l'appelant. D'après la preuve, certains dépôts auraient été faits en numéraire mais plusieurs auraient été des dépôts de chèques. Toutes les pièces nécessaires pour cette vérification étaient conservées par la banque. Si les transactions n'étaient pas toutes examinées, au moins un échantillonnage aurait pu être fait. En tout cas, je suis d'avis que le lien entre le revenu de l'entreprise et les dépôts non expliqués n'a pas été établi par une preuve suffisamment prépondérante pour les fins de l'imposition de la pénalité en vertu du paragraphe 163(2) de la Loi.
+[44] L'appel est accordé et le tout est déféré au Ministre pour nouvelles cotisations en tenant compte que le revenu additionnel pour l'année 1998 doit être réduit d'un montant de 7 424 $ et que les pénalités soient radiées pour les années où elles ont été imposées.
+Signé à Ottawa, Canada, ce 11e jour de mai 2004.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE :
+2004CCI356
+No DU DOSSIER DE LA COUR :
+2003-1674(IT)I
+INTITULÉ DE LA CAUSE :
+Gérard Godin et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE DE L'AUDIENCE :
+le 2 février 2004
+MOTIFS DE JUGEMENT PAR :
+l'hon. juge Louise Lamarre Proulx
+DATE DU JUGEMENT :
+le 11 mai 2004
+COMPARUTIONS :
+Pour l'appelant :
+Me Pierre Hémond
+Pour l'intimée :
+Me Julie David
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelant :
+Nom :
+Me Pierre Hémond
+Étude :
+Brochet Dussault Lemieux Larochelle & Associés
+Ste-Foy (Québec)
+Pour l'intimé(e) :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

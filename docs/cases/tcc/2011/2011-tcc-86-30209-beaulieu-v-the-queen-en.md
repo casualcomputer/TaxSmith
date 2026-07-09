@@ -1,0 +1,348 @@
+---
+title: "Beaulieu v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30209/index.do"
+last_modified: "2011-02-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 86"
+citation2: ""
+neutral_citation: "2011 TCC 86"
+decision_date: "2011-02-14"
+language: "en"
+item_id: "30209"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7772
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:52:07.080000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8f23515e7b2de7eb8192aa9e06a024035ee1c8294d53b1f28c9697cac059fced"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Beaulieu v. The Queen
+
+- Citation: 2011 TCC 86
+- Decision date: 2011-02-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7772, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Beaulieu v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-02-14
+Neutral citation
+2011 TCC 86
+File numbers
+2009-16(IT)G
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-16(IT)G
+BETWEEN:
+BERTRAND BEAULIEU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on October 7 and 8, 2010, at Shawinigan, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel for the appellant:
+François Daigle
+Counsel for the respondent:
+Janie Payette
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2003 taxation year is dismissed, with costs to the respondent, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 14th day of February 2011.
+“Alain Tardif”
+Tardif J.
+Translation certified true
+on this 15th day of April 2011.
+François Brunet, Revisor
+Citation: 2011 TCC 86
+Date: 20110214
+Docket: 2009-16(IT)G
+BETWEEN:
+BERTRAND BEAULIEU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif, J.
+[1] This is an appeal regarding the 2003 taxation year. The appeal raises two issues, which the respondent stated as follows:
+[translation]
+- The issue is whether the Minister of National Revenue (the "Minister") was correct in adding $525,000 in the calculation of the appellant's income for the 2003 taxation year, as income from an RRSP.
+- In particular, it must be determined whether the appellant was a designated shareholder or connected shareholder of the company Cédrican immediately following the acquisition of Class "B" shares of Cédrican by the trustee CTI Capital, within the meaning of subsection 4901(2) of the Income Tax Regulations.
+[2] The Notice of Appeal states:
+[translation]
+BACKGROUND
+1. The appellant is an individual who invested FIVE HUNDRED AND TWENTY FIVE THOUSAND DOLLARS ($525,000) in the company, Cédrican Inc. (hereinafter the Company);
+2. This amount was invested during the 2003 taxation year;
+3. The appellant was assessed under 165(3) ITA in regard to this investment;
+4. The appellant objected on April 24, 2006;
+5. On or around May 19, 2006, an acknowledgment of receipt signed by Thalia Farrar from the Revenue Agency was sent;
+6. That same day, she wrote to the appellant indicating she considered him connected within the meaning of 4901 ITR;
+7. On June 26, 2006, written submissions were made by the undersigned firm;
+8. On or around July 15, 2008, the team leader of the appeals division of the CRA (Québec region), Réjean Michaud, sent a Notice of Confirmation to the taxpayer, indicating that Her Majesty considered the assessment valid;
+9. On or around August 22, 2006, Line Gariépy, objections officer, provided a legal analysis document to show that the share certificate issued to Mayatrust [sic] for 5,696,000 shares in the identical class as that in which the appellant had invested was a fake;
+HER MAJESTY'S SUBMISSIONS
+10. Her Majesty submits that the investment was ineligible, relying, inter alia, on the following provisions: 4901(2) ITR and 146(10) ITA;
+11. The taxpayer made the following transaction:
+(i) During the 2003 taxation year, the appellant became a shareholder in the Company by purchasing 525,000 Class "B" shares for ONE DOLLAR ($1) a share;
+(ii) The investment took place at three times, TWO HUNDRED THOUSAND DOLLARS ($200,000) on November 24, 2003, ONE HUNDRED AND FIFTY THOUSAND DOLLARS ($150,000) on November 28, 2003, and ONE HUNDRED AND SEVENTY-FIVE DOLLARS ($175,000) on December 9, 2003;
+(iii) These amounts were transferred from an existing registered retirement savings account;
+12. The taxpayer, according to Her Majesty, could not benefit from the deduction and was not correctly assessed;
+ARGUMENT
+13. The appellant's understanding of the assessment being challenged is:
+(i) The investment itself is not ineligible, it is basically eligible for the deduction applied for, and obtained;
+(ii) The investment is ineligible, according to Her Majesty, because the conditions set out at section 4200 ITR, that the investment must be equal or less than 10% of the shares issued and in circulation for a specific class of shares, were not met;
+(iii) The Company's shares issued to Mayatrust for FIVE MILLION SIX HUNDRED THOUSAND DOLLARS ($5,600,000) were not issued for consideration in that amount, according to Her Majesty;
+(iv) As a result, the taxpayer's investment is ineligible considering it exceeded the regulated 10%;
+14. However, the taxpayer acted in good faith because:
+(i) He obtained a written legal opinion from counsel Chantal Paquet, indicating that his investment was eligible, dated November 7, 2003, before the investment;
+(ii) He verified, that prima facie, the conditions were respected;
+(iii) A document representing the shares of the Company was presented to the Department, sworn by Michel Maheux, head of the Company at the time;
+15. If there was any embezzlement at the Company, the appellant was neither the instigator nor the accomplice, but rather the victim;
+16. The taxpayer, supported by a legal opinion, was eligible for his deduction;
+17. The taxpayer did not verify whether, once the shares held by Mayatrust were issued in the Company's capital stock, it had been done for fair consideration;
+18. If the shares held by Mayatrust were issued based on insufficient consideration, this would only modify the paid-up capital in the class (affecting only the total paid-up capital in that class of shares); it would not change the number of shares issued;
+19. Pursuant to Nunn 2004-4403(IT)I, the taxpayer should not be taxable anyway;
+20. There was no deemed RRSP withdrawal at any time;
+21. The fact that Michel Maheux from the Company might not have cooperated with the tax authorities has no relevance on the eligibility of the investment;
+22. This Notice of Appeal is valid in fact and in law.
+[3] In her reply, the Respondent set out the following assumptions of fact:
+[translation]
+(a) the company Cédrican was incorporated on October 23, 1998, under Part 1A of the Companies Act;
+(b) Cédrican's main activities pertain to wood processing and according to its financial statements for the fiscal year ending December 31, 2003, Cédrican operated a wood mill and had set up a buy/sell concept for young trees abroad;
+(c) the majority shareholder of Cédrican since 2002 has been the Coopérative de producteurs de bois précieux — Québec Forestales. Prior to that, the majority shareholder was Théodore Davidson;
+(d) during 2002 and 2003, many investors acquired Class "B" preferred shares from the company Cédrican, through their RRSPs;
+(e) during the fiscal year ending December 31, 2002, Cédrican issued 45,000 Class "B" shares for consideration of $45,000 and during the fiscal year ending December 31, 2003, Cédrican issued 932,000 Class "B" shares for consideration of $932,500;
+(f) the appellant decided to invest his RRSP in the company Cédrican and, during 2003, transferred his existing RRSP account to a self-directed RRSP account with the trustee C.T.I. Capital;
+(g) in November and December 2003, on three occasions, the appellant gave instructions to the trustee C.T.I. Capital to purchase a total of 525,000 shares of Cédrican at the price of $1 per share;
+(h) C.T.I. Capital thus acquired 200,000 Class "B" shares of Cédrican (the shares) on November 24, 2003, 150,000 shares on November 28, 2003, and 175,000 shares on December 9, 2003, for a total consideration of $525,000;
+(i) the fair market value of each of these Class "B" shares in the company Cédrican, acquired by C.T.I. Capital, was $1 at the time of their acquisition;
+(j) immediately following each of the three investments, C.T.I. Capital was the owner of at least 10% of the Class "B" capital stock issued for Cédrican: the following table represents the percentage of Class B shares held by C.T.I. Capital immediately after each investment:
+Acquisition date
+"B" shares acquired by C.T.I. Capital
+Total "B" shares issued by Cédrican
+Percentage held by C.T.I. Capital
+November 24, 2003
+200,000
+272,500
+73.39%
+November 28, 2003
+150,000
+493,000
+30.42%
+December 9, 2003
+175,000
+668,000
+26.19%
+(k) on January 24, 2006, the agent for the appellant sent the Canada Revenue Agency auditor a share certificate number B‑100, supposedly issued by the company Cédrican, dated September 30, 2003, attesting that Maya Trust S.A. was the shareholder of 5,696,000 Class "B" shares with a face value of $1 per share;
+(l) this share certificate attesting to the share ownership of Maya Trust S.A. is a false document, unduly attests that Maya Trust was the shareholder of 5,696,000 Class "B" shares of Cédrican;
+(m) Maya Trust S.A. did not hold 5,696,000 Class "B" shares of Cédrican as of September 30, 2003;
+(n) the Minister did not attribute any value to this false share certificate and, as a result, considered the appellant to be a connected shareholder of the company Cédrican immediately following each of the share acquisitions by the trustee C.T.I. Capital; this made the appellant's investment by RRSP in the company Cédrican ineligible.
+[4] The parties indicated from the start that, should the Court find that the September 30, 2003, certificate attesting to the issuance of 5,696,000 Class "B" shares to Maya Trust S.A. was a fake, or that it was a false title that did not certify the actual existence of these shares, that would confirm the merit of the assessment being appealed from, since the appellant would be a connected shareholder and his investment would not be eligible for RRSP purposes.
+[5] The parties confirmed that theory after the submission of their respective evidence.
+The facts
+[6] In support of his appeal, the appellant essentially has noted that he has acted in good faith and followed and respected the provisions of the Income Tax Act and its regulations when he transferred $525,000 from his RRSP in order to benefit from the tax advantages of an RRSP.
+[7] To show his care and vigilance, he has stated that he discussed his project with a planner and a friend who was a judge.
+[8] During the discovery, the appellant referred only to his investment experience. The appellant clearly insisted on the fact that he could and should rely on the certificate duly signed by a lawyer. In short, he claimed he had done nothing wrong.
+[9] In cross-examination, the respondent, by her questions, attempted to show some negligence and a lack of vigilance on the part of the appellant. The appellant repeated that he had acted with care and vigilance, in terms of his experience and expertise, and more importantly, on the faith of an attestation duly signed by a lawyer, during each investment, on the dates and for the amounts as follow:
+Acquisition date
+Class "B" shares acquired by CTI Capital
+Total class "B" shares issued by Cédrican according to records
+November 24, 2003
+200,000
+272,500
+November 28, 2003
+150,000
+493,000
+December 9, 2003
+175,000
+668,000
+[10] It seems that the company Cédrican issued shares as shown in the table, including those issued to the appellant, which indicates on the surface that the percentage of shares acquired through the appellant's RRSP was significantly greater than 10%.
+[11] The appellant was assessed following a wide-scale investigation on the activities of the company Cédrican, whose shares were held by the Coopérative de producteurs de bois précieux Québec Forestales, of which the former majority shareholder was Théodore Davidson.
+[12] During that investigation, many documents and records were seized, at the place of business, the accountant's and private residences of the key parties, Michel Maheux, his son Serge, Théodore Davidson and Jean Davidson.
+[13] Following the investigation and analysis of all the documents, the Canada Revenue Agency ("CRA") came to the conclusion that the amounts the appellant invested in the company was well in excess of the 10% limit, during all three investments noted above.
+[14] The assessment resulted mainly from the refusal to take into consideration the share certificate for a significant investment of $5,696,000 in shares in the same class, Class "B". In other words, after their analysis, the auditors found that everything that had to do with the share certificate number B‑100 indicating there was an investment of $5,696,000 was false.
+[15] The share certificate in question, number B‑100 issued by Cédrican on September 30, 2003, attested that Maya Trust S.A. held 5,696,000 Class "B" shares for a face value of $1 per share. The respondent claims that the company Maya Trust S.A. was never truly the holder of these shares, having never made any payment for their acquisition.
+[16] Assuming that everything related to the share certificate attesting to the 5,696,000 Class "B" shares was false, the respondent found that the proportion of shares held by the appellant was well in excess of the 10% limit.
+[17] If Cédrican had not issued the 5,696,000 shares, the appellant would have held 73.39% of the shares at the time of the first acquisition, 30.42% at the time of the second acquisition on November 28, 2003, and lastly, 26.19% at the third acquisition on December 9, 2003.
+[18] To support these findings, the respondent called as witnesses the auditor, two investigators, the accountant of the companies in question, the lawyer who issued the certificates regarding the percentages of shares in Cédrican held by the appellant and lastly, an ink-dating expert.
+[19] The findings of the expert who analyzed the ink used for the signature of the share certificate the respondent deemed was false is clear and unequivocal: the share certificate was signed much later than the date that appears on it, in other words much later than the transfers of November 24, 2003, November 28, 2003, and December 9, 2003.
+[20] The expert explained the techniques used to determine the approximate date of signature of the share certificate. He stated that the technique allowed for the date to be determined fairly accurately but not positively; he always gave a period rather than a specific date.
+[21] In this case, the analyses led to the conclusion that the certificate dated September 30, 2003, had probably been signed in the three months preceding the appraisal of June 1, 2006. The expert found that the signature could not have been more than six months old, meaning the signature was from December 2005 or January 2006, that is, much later than the dates the appellant's RRSPs were transferred.
+[22] Does such a finding, while very serious and significant, have the effect of cancelling the share certificate or rendering it automatically false, warranting an outright dismissal of the appeal?
+[23] No: the certificate could very well have been signed much later than the subscription or investment, followed by an acceptance and entry to the relevant registry; although not ideal, a share certificate may be prepared and signed after the investment and its acceptance, with no effect on the quality or value of the title represented by the share certificate.
+[24] As a result, the expert's finding, while clear and determinative as to the actual date of signature, is not determinative as to whether the shares in question existed. In other words, it is possible that the expert's findings are without effect on the existence of the shares to which the certificate attests. Therefore, the expert's findings merely raise one possibility, a presumption of rather significant relevance considering the amount in question, and more importantly, the effect of Cédrican's financial situation.
+[25] It was therefore essential to analyze the entire case, in particular, its administrative and legal aspects. On this, the testimony of the auditor, the investigators, the accountant and the lawyer are of great significance.
+[26] In view of the several testimonies heard by the Court, is it warranted to find that the share certificate, which was clearly signed at a later date than that indicated, was a fake?
+[27] Both Christian Levasseur and Jean-Claude Belisle stated that they did not find anything in the seized documents that would indicate that certificate number B‑100 attesting that 5,696,000 Class "B" shares were issued corresponded to an investment, as cash or a rollover, for example.
+[28] As an auditor, Mr. Levasseur analyzed all the seized documents, including the minutes, various record books, financial statements, etc. He indicated that the share certificate had no foundation and there was nothing that could explain why it was issued. It is important to remember that the certificate did not attest to insignificant amounts; it was a title for 5,696,000 shares, more than 80% of the capital stock in the class in question.
+[29] As for Ms. Godbout, who testified as a data recovery expert regarding the hard drive of the personal laptop computer of one of the senior executives, she noted certain incomplete or obscure notations, which made for an unreliable understanding of the history of the case; she added that the relevant folder had been created in 2006, which supports the theory that everything to do with the certificate for the 5,696,000 shares was false.
+[30] The evidence showed that Ms. Paquet had signed a certificate called, [translation] "Share Eligibility Certification Report" for each of the three transfers. The first certificate states:
+[translation]
+SHARE ELIGIBILITY CERTIFICATION REPORT
+CTI Capital
+1 place Ville-Marie, Suite 1635
+Montréal, Quebec H3B 3B6
+Subject: Cédrican Inc.
+Annuitant: Bertrand Beaulieu
+Acquisition of 200,000 Class B shares
+For $200,000
+Sir, Madame:
+I, Chantal Paquet, attorney-at-law, certify that the information in the statement of eligible investment in the RRSP, RRIF, URC and LIF is accurate to my knowledge and in my opinion, the shares in the above-mentioned company would constitute an eligible investment in the plan account of the above-mentioned annuitant.
+[Chantal Paquet]
+Chantal Paquet (attorney-at-law)
+Quebec City, November 7, 2003
+[31] The two other reports of November 17, 2003, and December 2, 2003, with the same content, do not need to be reproduced. These certifications are of great importance with very significant financial impacts for those involved, including, obviously, the appellant.
+Testimony of Chantal Paquet, attorney-at-law
+[32] Ms. Paquet's testimony is certainly an important element in this case. As with any testimony, it must first be determined whether it is credible. In this case, I believe the inquiry has two components: the knowledge she had of the facts presented in the certificate and the veracity of the witness.
+[33] In this regard, merely telling the truth is not sufficient for the validation of the certification Ms. Paquet issued to the appellant. It had to be shown that everything had been done to guarantee the accuracy and reliability of the information on the amounts the appellant had invested in the capital stock of the company.
+[34] Ms. Paquet's testimony was rather ambiguous, even unclear, regarding certain essential aspects that should have been taken into consideration before signing the three certifications for the appellant. She stated that she issued a first certification during the appellant's first investment; she admitted she did the same thing rather superficially during the second and third investments, since it was the same investor and the dates were fairly close.
+[35] When questioned about the steps she took, the documents consulted, the requests made to ensure the authenticity or reliability of the information required for the signature of such certificates, she stated many times that she did not remember; she deferred to the instructions from Mr. Maheux who, according to her, was in charge. She stated on a few occasions: [translation] "You can come to whatever conclusions you want."
+[36] Regarding certificate B‑100 attesting to the 5,696,000 Class "B" shares issued, Ms. Paquet was not able to explain anything, and the court could not understand how Ms. Paquet's memory could be so deficient regarding a shareholder with more than 80% of the Class "B" shares.
+[37] Ms. Paquet was unable to explain the reasons for, or the content of, a letter, which is surprising, to the point of undermining her testimony. The letter states:
+[translation]
+Berthierville, December 8, 2003
+BY FAX
+(418) 692-2953
+BERNARD MORIN, C.A.
+200 – 706 St-Joseph St. East
+Quebec, G1K 3C0
+Re: Cédrican Inc.
+Dear Mr. Morin:
+We assume you are aware of the sale contract project to be concluded between the Coopérative des producteurs de bois précieux and Cédrican Inc. We would appreciate your comments on this.
+Moreover, we are sending a copy of all the share eligibility certification reports signed by counsel Chantal Paquet.
+It must be noted that the amount currently invested by third-party acquiring entities for Class B shares in Cédrican Inc. is, globally, $667,500 leading us to understand that you will ensure that the required adjustments are made so that none of the Class B shareholders holds more than 10% of this class of shares.
+We would appreciate it if, upon reception of this letter, you would contact the undersigned so that we can sort out everything.
+[Emphasis added.]
+[38] It is utterly impossible to reconcile Ms. Paquet's testimony with the content of the letter she signed and addressed to the accountant, Mr. Morin. Ms. Paquet is a lawyer by training and has, according to her testimony, specific training in taxation; it is completely unreasonable to believe that she did the required work and research before signing the certifications given to the appellant.
+[39] Clearly aware of this, she testified in a non-credible manner. I believe the lawyer trusted an unscrupulous person and failed in her duty to ensure the accuracy of the certification she signed. Considering the content of the letter she signed and addressed to the accountant Morin, it would have been preferable for her to refuse to sign the letter or for her to terminate the mandate that Mr. Maheux had given her.
+[40] Because of the lawyer's evasive responses, memory lapses, and the obvious discomfort shown, I have grounds to believe that Ms. Paquet's bosses had suggested certain acts that she carried out, surely in good faith, but without personally ensuring the truth of the content of her letters; if she did, it was a rather superficial verification, and certainly incomplete.
+[41] Counsel for the appellant likely had a clear understanding of Ms. Paquet's apparent nervousness and concern. The passage of time normally has an effect on the clarity and coherence of the answers given; however, the hesitations, memory lapses, incoherence and confusion suggest, aside from understandable discomfort, a clear lack of the knowledge required to be able to issue a reliable and credible certification. Ms. Paquet was definitely aware of the limits of her knowledge and apparently chose to say little, and be rather quiet and confused in her responses. The letter she sent to the accountant is revealing on this.
+Testimony of the accountant Morin
+[42] The accountant, Bernard Morin, was constantly on the defensive; he answered yes or no, and he repeated that such was his mandate:
+[translation]
+REVIEW ENGAGEMENT REPORT
+To the administrator of
+Cédrican Inc.
+I have reviewed the balance sheet of Cédrican Inc. to December 31, 2003, and the statements on income, deficit and cash flows for the year then ended. My review was conducted in accordance with the Canadian generally accepted auditing standards and as such consisted essentially of an inquiry, analytical procedures and discussion related to the information provided to me by the company, except as mentioned below.
+A review is not an audit, and therefore I do not express an auditor's opinion on these financial statements.
+I have not able to fully review the tree stocks, which, in the financial statements, represented a total of $626,340 (2002, – $). I have not been able to ensure the validity of the property titles and their net realizable value. If I had been able to properly conduct my review, I might have found it necessary for certain adjustments to be made to the stock, the sales figures and the excess of expenses over revenues.
+Except for the potential adjustments I might have found necessary had I been able to properly conduct the stock review mentioned in the preceding paragraph, I did not note anything during my review that would lead me to believe these financial statements violate the Canadian generally accepted accounting procedures in any significant respects, except that they were not consolidated, as mentioned at Note 2.
+[Bernard Morin]
+Chartered accountant
+Quebec City, April 15, 2004
+His task was to assemble information obtained from his mandators.
+[43] The first part of Mr. Morin's testimony was surprising: he was on the defensive and nervous, and his answers were limited to "yes" or "no" to the extent that the court intervened to indicate that it was absolutely unacceptable for a professional responsible for preparing a company's financial statements to have so little to say.
+[44] Mr. Morin was then more explicit, detailed and specific. He referred to the limits of his mandate to explain why the accounting documents were not entirely reliable.
+[45] As for the share certificate indicating that the company Maya Trust held 5,696,000 shares, he did not know about it at the time he prepared the financial statements. He claimed to have seen the share certificate during the investigation and seizures that were conducted at his office by the CRA employees in charge of the case.
+[46] It is more than surprising that an accountant responsible for the preparation of a company's financial statements is unable to explain the existence of a certificate representing 5,696,000 shares issued. The most likely and reasonable explanation is that the leaders of the company in question never informed him of it. At one point, the witness changed his attitude and became more talkative; he explained the limits of his mandate and stated he was dependent on the information the mandators were willing to give him.
+[47] Mr. Morin's accounting work was done on the basis of incomplete information; he did not have a mandate to ensure the reliability of the information. Moreover, he clearly did not follow-up on the instructions Ms. Paquet gave in her December 8, 2003, letter. I believe that Mr. Morin's answers were reasonable and supported by the evidence available; I therefore find that his testimony is credible.
+[48] Again, the respondent justified the validity of the assessment under appeal with the fact that the September 30, 2003, share certificate number B‑100 attesting that 5,696,000 Class "B" shares were issued is a fake, and therefore does not validate the statement made therein.
+[49] Good faith is not relevant to the resolution of the appeal; indeed, in Nunn v. Canada, 2006 FCA 403, the Federal Court of Appeal stated:
+By purchasing the shares in a non-qualified investment, subsection 146(1) was automatically triggered. Undoubtedly, this result is harsh but it would be unfair to exempt a taxpayer from his or her tax obligation on the basis of mistake or fraud: Vankerk v. Canada, [2006] F.C.J. No. 371, 2006 FCA 96 at paragraph 3. Put simply, other Canadian taxpayers should not have to bear the financial burden which arises from unfortunate circumstances such as those that exist here.
+[50] Even if good faith is not relevant, the respondent still stated that the appellant was careless by allowing himself to be swayed by the draw of a quick and considerable gain, as shown by the publication called, [translation] "ADDENDA – Scope statement: Business plan and analysis of parameters, Québec Forestales" (Exhibit I-2), which states:
+[translation]
+Statistics and expected profits:
+Each member will be issued one or more lots of precious trees in their name, designated by GPS at the time the plantlets are transplanted to their final site. According to growth statistics provided by the governments for plantation rates, for each CAN$1,000 invested, the member receives one or more lots, the volume of which will reach 4.62 cubic metres at 25-years-old, at current prices for the species, totalling $9,240. This represents approximately 25 % per year of non-taxable profit (non-compounded).
+THIS RETURN OF 25% PER YEAR TAX-FREE IS CALCULATED ON THE TOTAL AMOUNT INVESTED.
+AS THE POSTINGS AND TAX BENEFITS ALREADY REPRESENT 80% OF THE AMOUNT INVESTED, THE RETURN MAY VERY WELL BE EQUAL TO 100% PER YEAR ON THE ACTUAL CAPITAL INVESTED.
+[51] When he was asked to establish that he acted with care, the appellant indicated that he had assessed the situation, examined the assumptions and conducted certain verifications, but in the end, he relied on three certification reports signed by a lawyer; this was done for the three investments on November 7, 2003, November 17, 2003, and December 2, 2003.
+[52] On this, I am of the view that the appellant could have been more vigilant, but where is the limit on the duty to be careful before investing? Over the past few years, millions of dollars have evaporated, destroying thousands of lives.
+[53] With investments, there are always risks, which are often proportional to the expected return. Abuse and fraud are frequent, to the point of being part of the risks that must be considered.
+[54] An assessment is based on the facts and not on the beliefs or interpretations of the taxpayer, who is solely responsible for the consequences of his economic decisions.
+[55] The fact that the appellant's good faith was not questioned does not automatically mean the appellant acted with care and vigilance. The proposed returns were exceptional, which should have been enough to warrant increased care, and even more so because of the significant amounts invested.
+[56] On the other hand, in the light of his testimony, it seems the appellant was not overly concerned about learning more about the other shareholders even though his total investment represented a significant portion of the Class "B" capital stock.
+[57] Rather, he emphasized an absence of fault, his expertise and the brochures on the soundness of the investment.
+[58] With investments, risks are often based on the expected returns. The individual's tax obligations are not influenced by the scope of his care and vigilance.
+[59] The doctrine of Nunn, supra, has very significant consequences. The taxpayer's obligations when participating in a business are the same whether the business is legitimate and real, or not.
+[60] Therefore, the good faith, vigilance, care and behaviour of a good father have no bearing on the validity of an assessment made based on a transaction with a company, even if is dishonest.
+[61] Did the company Cédrican issue the September 30, 2003 share certificate number B‑100 attesting that Maya Trust S.A. held 5,696,000 shares, such that the participation of the appellant was less than 10%?
+[62] There is no direct evidence. Rather, the evidence is based on the interpretation of deficient or even false documents and the value of the testimonies heard. I felt that certain elements of the evidence were very relevant to the appeal. I note, in particular:
+· the share certificate number B‑100 attesting that 5,696,000 shares were issued, signed not on September 30, 2003, but clearly in early 2006;
+· the share certificate in question, number B‑100, the same number as another share certificate issued to CTI Capital attesting that 50,000 shares in the same class were issued November 7, 2003;
+· a complete absence of any indication in the records and minutes of the company to support the subscription and issuance of the 5,696,000 shares;
+· a complete absence of entries in the accounting records of the company Cédrican;
+· an absence of knowledge about the existence of these shares by the accountant responsible for the financial statements of the company that allegedly issued the shares;
+· no evidence that the share certificate reporting the 5,696,000 shares issued was from any type of subscription or equivalent investment;
+· memory lapses of the lawyer who certified the percentage of shares held by the appellant;
+· no evidence that the consideration at the base of the share certificate was received;
+· the lawyer's letter to the accountant indicating the apparent knowledge of the number of shares issued by the company Cédrican;
+· the documentary evidence regarding the activities of the company Cédrican, which is incomplete, confusing and often contradictory, which does not lead to reliable findings;
+· the intervention of the Commission des valeurs mobilières du Québec regarding the right of the companies led by Messrs. Maheux and Davidson so sell shares to the public;
+· the lack of credibility of the person who attested to the percentage of shares held by the appellant.
+[63] All these elements suggest that the certificate was prepared much later than the date indicated. Why? To minimize the appellant's significant investment of $525,000 and make it represent less than 10% of the capital stock issued in the same category.
+[64] In support of his appeal, the appellant claimed to have been vigilant and of good faith, that he relied on the attestation of a lawyer whose testimony was credible. He suggested that the accountant's testimony be dismissed for lack of credibility. Lastly, he submits that the share certificate indicating that the 5,696,000 shares were issued is proof of the facts found therein, despite the admission that the signature date is not the date indicated on the certificate.
+[65] I think it is important to note that the burden of proof is on the appellant, not on the respondent. Mere good faith is not enough, especially when it is based solely on the appellant's expertise and possible consultations with third parties.
+[66] In this case, the proposed returns were significant, the amounts substantial, and the activities unusual. As for the other testimonies, the appellant interpreted these in a manner that does not at all correspond to what the court heard: first, regarding the witnesses' credibility; then, certain documents regarding which the appellant prefers form over substance, particularly in the case of the certificate that, according to the appellant, is proof of its content even though the information is clearly false.
+[67] In the present case, the subscription and collection of funds are essential elements and much more significant that the certificate that attests to everything. On this aspect, the evidence is completely nonexistent. First of all, a simple share certificate has no probative value, particularly when the date indicated is false.
+[68] However, there must be certain elements that support the validity of the certificate. In this case, not only are there no elements, the incomplete facts and documentation establish, on a balance of probabilities, that the certificate is a fake.
+[69] The appellant's arguments essentially rely on hypotheses, interpretations and theories, unsupported by adequate evidence.
+[70] The appellant interpreted Ms. Paquet's and the accountant Morin's testimony in a manner that in no way reflects their tenor. The interpretation is based essentially on speculation, hypotheses and perceptions that were not validated by the reality of the testimony.
+[71] Ms. Paquet, nervous and uncomfortable, testified with a rather selective memory. Most of her answers were vague, confused and often just inexistent, supposedly because time had passed.
+[72] In particular, she stated that her client was Mr. Maheux, whereas the certificate was for the account of a company. Must I repeat that Ms. Paquet is a lawyer, who had additional academic training in taxation?
+[73] She wrote the December 8, 2003, letter to the accountant Morin, noted above in Paragraph 37 of the judgment. Her memories regarding the share certificate, which is of considerable importance and a determining factor to the outcome of the appeal, are quite simply nonexistent. However, it is completely unreasonable for a person responsible for the certification of the share distribution to have no memory of such a significant participation in the capital stock.
+[74] Moreover, the content of the December 8, 2003, letter and all of the vague and incomplete answers lead me to find that this testimony is neither reasonable, nor plausible, nor credible.
+[75] It would have been essential for verifications to be made to ensure the existence of the relevant documents and their coherence, and for it all to be validated by auditing the accounting data. The auditing work by Ms. Paquet was incomplete and very superficial; she very likely merely followed the instructions of her mandator, Mr. Maheux, who did not testify.
+[76] Nunn, supra, addressed the issue of good faith. The Crown is not an insurance agent for economic losses caused by a lack of vigilance, poor management or even fraudsters or unscrupulous individuals.
+[77] Regarding the other arguments, they result from an interpretation of the evidence that does not correspond to what I have heard; in addition, the hypotheses propounded are not based on anything reasonable or likely.
+[78] Lastly, the appellant stated that although the date on the certificate is false, this does not mean the shares did not exist. On this, the appellant is correct; however, evidence was required to support this interpretation, not simply a hypothesis and speculation.
+[79] The balance of probabilities shows that the company Cédrican never received or collected a subscription for $5,696,000 resulting in the share certificate. The balance of probability also indicates that the company Cédrican issued a false certificate, the date of which was many months prior to the three transfers made by the company CTI Capital, of which the appellant is the sole shareholder.
+[80] The balance of probability indicates that during the transfers carried out according to the appellant's instructions to acquire the shares in the company Cédrican, the appellant held more than the maximum proportion of 10% of shares in a single class.
+[81] The appellant therefore became a connected shareholder of the company Cédrican immediately after the acquisition of the Class "B" shares in the company Cédrican by the trust CTI Capital on November 24, 2003, November 28, 2003, and December 9, 2003, within the meaning of subsection 4901(2) of the Income Tax Regulations.
+[82] For these reasons, the appeal is dismissed with costs in favour of the respondent.
+Signed at Ottawa, Canada, this 14th day of February 2011.
+“Alain Tardif”
+Tardif J.
+Translation certified true
+on this 15th day of April 2011.
+François Brunet, Revisor
+CITATION: 2011 TCC 86
+COURT FILE NO.: 2009-16(IT)G
+STYLE OF CAUSE: BERTRAND BEAULIEU v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Shawinigan, Quebec
+DATE OF HEARING: October 7 and 8, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: February 14, 2011
+APPEARANCES:
+Counsel for the Appellant:
+François Daigle
+Counsel for the Respondent:
+Janie Payette
+COUNSEL OF RECORD:
+For the Appellant: François Daigle
+Firm: Lacourcière, LeBrun
+Trois-Rivières, Quebec
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

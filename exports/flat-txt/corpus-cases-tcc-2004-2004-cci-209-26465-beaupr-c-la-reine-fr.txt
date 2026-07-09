@@ -1,0 +1,163 @@
+Title: Beaupré c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26465/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-209-26465-beaupr-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2004-03-29
+
+# Beaupré c. La Reine
+
+- Citation: 2004 CCI 209
+- Decision date: 2004-03-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3163, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Beaupré c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-03-29
+Référence neutre
+2004 CCI 209
+Numéro de dossier
+2003-1049(GST)I
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2003-1049(GST)I
+ENTRE :
+CHARLES BEAUPRÉ,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de
+Dimension J.M.M. Inc. (2003-1045(GST)I)
+le 4 février 2004 à Sherbrooke (Québec)
+Devant : L'honorable juge François Angers
+Comparutions :
+Avocat de l'appelant :
+Me Richard Généreux
+Avocat de l'intimée :
+Me Louis Cliche
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi sur la taxe d'accise dont l'avis de cotisation porte le numéro 22460 et est daté du 26 mars 2001 est rejeté sans dépens, selon les motifs du jugement ci-joints.
+Signé à Edmundston, Nouveau-Brunswick, ce 29e jour de mars 2004.
+« François Angers »
+Juge Angers
+Dossier : 2003-1045(GST)I
+ENTRE :
+DIMENSION J.M.M. INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de
+Charles Beaupré (2003-1049(GST)I)
+le 4 février 2004 à Sherbrooke (Québec)
+Devant : L'honorable juge François Angers
+Comparutions :
+Avocat de l'appelante :
+Me Richard Généreux
+Avocat de l'intimée :
+Me Louis Cliche
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi sur la taxe d'accise dont l'avis de cotisation porte le numéro 22459 et est daté du 26 mars 2001 est rejeté sans dépens, selon les motifs du jugement ci-joints.
+Signé à Edmundston, Nouveau-Brunswick, ce 29e jour de mars 2004.
+« François Angers »
+Juge Angers
+Référence : 2004CCI209
+Date : 20040329
+Dossiers : 2003-1049(GST)I
+2003-1045(GST)I
+ENTRE :
+CHARLES BEAUPRÉ,
+DIMENSION J.M.M. INC.,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Les appelants interjettent appel de cotisations effectuées par le ministre du Revenu national (ministre) en date du 26 mars 2001 portant le numéro 22460 relativement à la taxe sur les produits et services (TPS) pour la période du 1er janvier au 31 octobre 1997 dans le dossier de l'appelant Charles Beaupré et portant le numéro 22459 relativement à la TPS pour la période du 1er novembre 1997 au 31 décembre 2000 dans le dossier de l'appelante Dimension J.M.M. Inc.
+[2] Le ministre a cotisé les appelants après avoir effectué une vérification au titre de la TPS pour un montant de droits de 7 045,44 $ ainsi que des pénalités de 748,72 $ et des intérêts de 662,16 $ calculés au 15 mars 2001 dans le dossier de l'appelant Dimension J.M.M. Inc. et pour un montant de droits de 1 557, 28 $ ainsi que des pénalités de 306,40 $ et des intérêts de 303,47 $ calculés au 14 mars 2001 dans le dossier de l'appelant Charles Beaupré. Les montants cotisés ne font pas l'objet du présent litige. Il s'agit plutôt de déterminer si les appelants ont bien calculé la TPS à percevoir lors de la vente effectuée avec reprise de biens dans le cadre de leurs activités commerciales. Dans le dossier de l'appelant Charles Beaupré, il faudra aussi déterminer si la cotisation établie à son égard est valide en raison du fait qu'elle est adressée à une personne n'ayant pas l'obligation de percevoir la taxe et de la verser en vertu de la Loi sur la taxe d'accise (la Loi).
+[3] Le 15 octobre 1996, l'appelant Charles Beaupré et son associé Olivier Erbetta enregistraient auprès de l'Inspecteur général des institutions financières du Québec une société en nom collectif portant l'appellation commercial « Dimension J.M.M. » et dont l'activité économique est liée à la vente de jeux vidéo. Ils ont investi chacun un montant égal et étaient associés à part égale. Ils ont exploité leur entreprise sous cette forme jusqu'en août 1997, date à laquelle ils ont constitué l'appelante, Dimension J.M.M. Inc., en société par actions. Chacun détenait le même nombre d'actions. L'appelant Charles Beaupré a par la suite racheté les actions d'Olivier Erbetta, de sorte qu'il est maintenant l'unique actionnaire.
+[4] Charles Beaupré est un passionné des jeux vidéo. Avant de lancer sa propre entreprise, il était gérant d'une entreprise dans le même domaine. C'est ainsi qu'il a acquis son expérience et a pris connaissance des politiques de retour et d'échange de marchandises. Il a établi dans sa propre entreprise des politiques d'échange semblables pour sa clientèle en cas d'insatisfaction. Il était donc possible pour un client de retourner la marchandise vendue par l'entreprise et d'obtenir un crédit équivalent au prix du jeu vidéo sans les taxes, déduction faite de 15,00 $ si la marchandie était retournée dans la semaine qui suivait l'achat et déduction faite d'un montant supplémentaire de 5,00 $ pour chaque semaine additionnelle. Le crédit ne pouvait être utilisé que pour l'achat d'un autre produit vendu par son entreprise. Selon M. Beaupré, la majorité des clients ne retourne pas les jeux vidéo. En fait, selon lui, la politique d'échange s'applique à environ 10% de ses ventes. Cette politique d'échange était établie avec les clients au moment de la vente de marchandises et a été appliquée par la société en nom collectif et l'appelante Dimension J.M.M. Inc. durant toutes les périodes en cause. Il est arrivé à l'occasion que l'on accepte des échanges de biens n'ayant pas été vendus par la société en nom collectif ou l'appelante Dimension J.M.M. Inc., mais la proportion de ces échanges est très minime.
+[5] Un exemple de facturation a été déposé en preuve par l'appelante. Il s'agit de trois factures établies pour un même client. L'exemple démontre l'application de la politique d'échange pour un client désireux de retourner la marchandise et la façon de calculer les taxes applicables. La première facture indique l'achat d'un jeu vidéo au montant de 79,99 $, plus la TPS et la TVQ, et la date de l'achat. Le lendemain, le même client retourne le jeu et on lui accorde une note de crédit au montant de 65,00 $ et, à titre d'incitatif pour le client, on lui indique le montant de TPS et de TVQ qu'il va épargner au moment d'effectuer un nouvel achat et d'appliquer son crédit de 65,00 $. La troisième facture indique un achat par le même client le lendemain de l'établissement de la note de crédit. Il s'agit d'un achat de 79,99 $ auquel on applique le crédit de 65,00 $ pour un solde de 14,99 $. La TPS et la TVQ sont par la suite ajoutées à ce solde de 14,99 $. C'est l'application de cette politique d'échange, selon l'exemple de facturation décrit ci-haut, et la façon de calculer la taxe applicable qui sont au coeur du présent litige. L'intimée a d'ailleurs produit un exemple de facturation qui démontre de façon similaire l'application du crédit accordé à la clientèle et la façon dont la société en nom collectif et l'appelante Dimension J.M.M. Inc. calculaient les taxes. Il faut préciser que l'intimée ne s'oppose pas à la façon dont les taxes sont calculées lorsqu'il s'agit de transactions simultanées, c'est-à-dire que le crédit est appliqué sur un achat au même moment que le bien échangé est retourné. Elle s'y oppose toutefois lorsque le client retourne un jeu et n'utilise sa note de crédit que sur un achat ultérieur. Selon l'intimée, dans une telle situation, la TPS doit être calculée sur le prix avant d'appliquer la note de crédit.
+[6] La disposition législative applicable en l'espèce est le paragraphe 153(4) de la Loi, lequel définit la valeur de la contrepartie d'une fourniture effectuée par un fournisseur lorsqu'il accepte en contrepartie un ou des biens meubles corporels d'occasion. Cette disposition se lit comme suit :
+(4) Contrepartie constituée de biens meubles corporels d'occasion
+Sous réserve du paragraphe (5), dans le cas où un fournisseur, au moment où il fournit un bien meuble corporel, accepte en contrepartie, même partielle, un autre bien - bien meuble corporel d'occasion ou droit de tenure à bail y afférent - (appelé « bien repris » au présent paragraphe et au paragraphe (5)) qu'il acquiert pour consommation, utilisation ou fourniture dans le cadre de ses activités commerciales et que l'acquéreur n'est pas tenu de percevoir la taxe relative à la fourniture du bien repris, la valeur de la contrepartie de la fourniture effectuée par le fournisseur est réputée, pour l'application de la présente partie, être égale à l'excédent éventuel de la valeur de la contrepartie de cette fourniture, déterminée par ailleurs selon la présente partie, sur le montant suivant :
+a) sauf en cas d'application de l'alinéa b), le montant porté au crédit de l'acquéreur au titre du bien repris;
+b) dans le cas où le fournisseur et l'acquéreur ont entre eux un lien de dépendance au moment de la fourniture et que le montant porté au crédit de l'acquéreur au titre du bien repris dépasse la juste valeur marchande de ce bien au moment du transfert de sa propriété au fournisseur, cette juste valeur marchande.
+[7] La position de l'avocat des appelants est à l'effet que le calcul de la TPS effectué par ses clients est conforme aux dispositions du paragraphe en question. Subsidiairement, il soumet que la politique d'échange fait partie intégrante de l'entente verbale entre les appelants et leurs clients, donnant ainsi droit aux appelants à un redressement de taxes au cours des périodes en cause. Il soumet également que, dans le dossier de l'appelant Charles Beaupré, la cotisation en litige est illégale en raison du fait qu'elle est adressée à une personne n'ayant pas l'obligation de percevoir la taxe et de la verser en vertu de la Loi.
+[8] L'avocat de l'intimée, de son côté, soumet que, pour bénéficier des dispositions du paragraphe 153(4) de la Loi, il faut que les transactions soient simultanées, à savoir que le nouvel achat ait lieu au même moment que l'échange du bien meuble corporel d'occasion. Si l'échange n'est pas fait au même moment, il ne s'agit plus d'un échange d'un bien meuble corporel d'occasion mais plutôt de l'application d'une note de crédit et, dans ce sens là, la TPS doit être calculée sur le prix de vente de la fourniture avant d'appliquer le crédit à ce calcul. Sur la question de savoir si la cotisation de l'appelant Charles Beaupré est conforme à la Loi, l'avocat de l'intimée se fonde sur les paragraphes 272.1(5) et 299(2) et l'alinéa 296(1)e) de la Loi.
+[9] Le paragraphe 153(4) de la Loi prévoit que la taxe ne sera pas calculée sur la valeur d'un bien meuble corporel d'occasion si les conditions suivantes sont remplies :
+1 - Le fournisseur fournit un bien meuble corporel.
+2 - Le fournisseur accepte en contrepartie, même partielle, au moment où il fournit un bien meuble corporel, un bien meuble corporel d'occasion, en échange, qu'il acquiert pour consommation, utilisation ou fourniture dans le cadre de ses activités commerciales.
+3 - L'acquéreur n'est pas tenu de percevoir la taxe relative à la fourniture du bien repris.
+[10] Selon les notes explicatives sur le projet de loi C-70 publié en juillet 1997 par le ministre des Finances, l'objectif du paragraphe 153(4) de la Loi est d'éviter l'application en cascade de la taxe lorsqu'un produit d'occasion, pour lequel aucun crédit de taxe sur les intrants n'a été demandé, est accepté en échange par un fournisseur puis vendu dans le cadre d'une fourniture taxable. Pour réaliser cet objectif, il faut la fourniture d'un bien meuble corporel et l'acceptation, par le fournisseur, au moment où il fournit le bien meuble corporel, d'une contrepartie constituée d'un bien meuble corporel d'occasion en échange. Un bien meuble corporel d'occasion est défini comme suit dans la Loi :
+bien meuble corporel d'occasion : bien meuble corporel qui a été utilisé au Canada
+[11] Est-ce qu'une note de crédit accordée sur le retour d'un bien meuble corporel d'occasion peut être appliquée en tout ou en partie sur des achats futurs de biens meubles corporels de sorte que le fournisseur ne soit pas tenu de percevoir la TPS sur la valeur de la note de crédit? À mon avis, le libellé du paragraphe 153(4) ne le permet pas étant donné que l'échange doit se faire au moment où le fournisseur fournit un bien meuble corporel. En accordant une note de crédit, cela reporte à plus tard la fourniture d'un bien meuble corporel à l'égard duquel on accepte un bien meuble corporel d'occasion, de sorte que l'échange ne se fait pas au moment prévu au paragraphe 153(4), soit lors de la fourniture d'un bien meuble corporel. Il s'agit d'ailleurs de la position prise par l'Agence des douanes et du revenu du Canada dans son bulletin d'interprétation B-084 à l'effet que la règle sur les ventes avec reprise ne s'applique pas dans les cas où le fournisseur offre une note de crédit au lieu d'un bien meuble corporel d'occasion comme contrepartie de reprise. Voici l'extrait :
+La règle sur les ventes avec reprise ne s'applique pas lorsqu'un fournisseur offre à une personne une note de crédit ou un coupon pour la valeur du bien meuble corporel d'occasion (ou du droit de tenure à bail y afférent) crédité à titre de valeur de reprise lorsque le coupon où la note sera appliquée en tout ou en partie en déduction de livraisons futures non déterminées de biens meubles corporels.
+[12] Cela ne veut toutefois pas dire que le paragraphe 153(4) n'aurait pas d'application dans une situation où le bien acheté doit être livré à une date ultérieure ou encore dans une situation où la reprise d'un bien meuble corporel d'occasion est faite en vue de l'achat futur d'un autre bien. En l'espèce, même si la note de crédit réfère à un bien meuble corporel d'occasion pris en échange, l'achat éventuel d'un bien meuble corporel sur lequel cette reprise (ou crédit) serait appliqué n'est pas concrétisé. Le paragraphe 153(4) ne peut donc pas s'appliquer dans une telle situation.
+[13] En l'espèce, je ne crois pas que la politique d'échange établie entre les clients et les appelants donne à ces derniers droit à un redressement de TPS au cours de la période en cause comme le soutient l'avocat des appelants. L'application du paragraphe 153(4) relève de son interprétation et non pas des ententes contractuelles entre les appelants et leurs clients. La Cour n'a pas à tenir compte de l'interprétation donnée par les appelants et leurs clients au paragraphe 153(4) dans leurs ententes contractuelles.
+[14] La question de savoir si une cotisation est valide en raison du fait qu'elle est adressée à une personne n'ayant pas l'obligation de percevoir la TPS et de la verser a été traitée par notre cour dans Decaire c. Canada [1999] A.C.I. no 699, Marach c. Canada [2003] A.C.I. no 45, Janelle c. Canada [2002] A.C.I. no 216 et Saucier c. Canada [2003] A.C.I. no 741. Cette question se pose en raison du fait que la Loi, dans la définition du mot personne, inclut une société de personnes. Il est donc prévu qu'une société de personnes qui n'est pas une personne morale est tenue de s'inscrire pour l'application de la Loi. En l'espèce, la personne inscrite aux fins de la Loi était la société en nom collectif « Dimension J.M.M. » . En l'espèce, l'appelant Charles Beaupré est un associé et non l'inscrit au sens de la Loi. Selon l'avocat de l'appelant, si ce dernier n'a pas l'obligation de percevoir et de verser la TPS en vertu de la Loi, il ne pouvait en conséquence être cotisé en tant qu'associé.
+[15] Le juge Tardif, dans l'affaire Janelle, a fait une analyse détaillée de la question de savoir si un associé peut être cotisé même si la société en nom collectif ou la société de personnes ne l'a pas été. Il a conclu, avec raison, qu'un associé peut être cotisé en vertu du paragraphe 272.1(5) et de l'alinéa 296(1)e). L'affaire Décaire a été décidée avant que l'article 272.1 ne soit édicté. Par ailleurs, dans l'affaire Saucier, je soulignais que les paragraphes 299(2), 299(4) et 299(5) de la Loi semblaient traduire un souci de se prémunir contre les conséquences d'erreurs possibles dans une cotisation en la rendant valide et exécutoire.
+[16] Le paragraphe 272.1(5) et l'alinéa 296(1)e) se lisent comme suit :
+Responsabilité solidaire
+(5) Une société de personnes et chacun de ses associés ou anciens associés (chacun étant appelé « associé » au présent paragraphe), à l'exception d'un associé qui en est un commanditaire et non un commandité, sont solidairement responsables de ce qui suit :
+a) le paiement ou le versement des montants devenus à payer ou à verser par la société en vertu de la présente partie avant ou pendant la période au cours de laquelle l'associé en est un associé ou, si l'associé était un associé de la société au moment de la dissolution de celle-ci, après cette dissolution; toutefois :
+(i) l'associé n'est tenu au paiement ou au versement des montants devenus à payer ou à verser avant la période que jusqu'à concurrence des biens et de l'argent qui sont considérés comme étant ceux de la société selon les lois pertinentes d'application générale concernant les sociétés de personnes qui sont en vigueur dans une province,
+(ii) le paiement ou le versement par la société ou par un de ses associés d'un montant au titre de l'obligation réduit d'autant l'obligation;
+b) les autres obligations de la société aux termes de la présente partie survenues avant ou pendant la période visée à l'alinéa a) ou, si l'associé est un associé de la société au moment de la dissolution de celle-ci, les obligations qui découlent de cette dissolution.
+296(1) Le ministre peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire pour déterminer :
+[. . .]
+e) un montant qu'une personne est tenue de payer ou de verser en vertu du paragraphe 177(1.1) ou des sous-sections a ou b.1 de la section VII.
+[17] Pour ces motifs, je conclus que les cotisations en l'espèce sont bien fondées à l'encontre des appelants.
+[18] Les appels sont donc rejetés sans dépens.
+Signé à Edmundston, Nouveau-Brunswick, ce 29e jour de mars 2004.
+« François Angers »
+Juge Angers
+RÉFÉRENCE :
+2004CCI209
+No DES DOSSIERS DE LA COUR :
+2003-1049(GST)I
+2003-1045(GST)I
+INTITULÉS DES CAUSES :
+Charles Beaupré et Sa Majesté la Reine
+Dimension J.M.M. Inc. et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Sherbrooke (Québec)
+DATE DE L'AUDIENCE :
+le 4 février 2004
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge François Angers
+DATE DU JUGEMENT :
+le 29 mars 2004
+COMPARUTIONS :
+Pour les appelants :
+Me Richard Généreux
+Pour l'intimé(e) :
+Me Louis Cliche
+AVOCAT INSCRIT AU DOSSIER:
+Pour les appelants :
+Nom :
+Me Richard Généreux
+Étude :
+Généreux Côté
+Avocats
+Drummondville (Québec)
+Pour l'intimé(e) :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

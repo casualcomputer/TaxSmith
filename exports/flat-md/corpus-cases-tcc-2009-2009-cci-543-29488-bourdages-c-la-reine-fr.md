@@ -1,0 +1,267 @@
+---
+title: "Bourdages c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29488/index.do"
+last_modified: "2009-10-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 543"
+citation2: ""
+neutral_citation: "2009 CCI 543"
+decision_date: "2009-10-23"
+language: "fr"
+item_id: "29488"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6306
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:26:08.240000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "55fd61917586cf43836476dde7b7e7d34beca96cf05a091c4ac7ee4ced789715"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bourdages c. La Reine
+
+- Citation: 2009 CCI 543
+- Decision date: 2009-10-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6306, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bourdages c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-10-23
+Référence neutre
+2009 CCI 543
+Numéro de dossier
+2008-711(IT)I
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-711(IT)I
+ENTRE :
+CHANTAL BOURDAGES,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+Jean-Marie Perreault (2008-720(IT)I),
+le 13 août 2009, à New Carlisle (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Pour l'appelante :
+l'appelante elle-même
+Avocat de l'intimée :
+Me Michel Lamarre
+____________________________________________________________________
+JUGEMENT
+L'appel de la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2003 est rejeté, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 23e jour d’octobre 2009.
+« Alain Tardif »
+Juge Tardif
+Dossier : 2008-720(IT)I
+ENTRE :
+JEAN-MARIE PERREAULT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+Chantal Bourdages (2008-711(IT)I),
+le 13 août 2009, à New Carlisle (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Avocat de l'intimée :
+Me Michel Lamarre
+____________________________________________________________________
+JUGEMENT
+L'appel de la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2003 est rejeté, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 23e jour d’octobre 2009.
+« Alain Tardif »
+Juge Tardif
+Référence : 2009 CCI 543
+Date : 20091023
+Dossiers : 2008-711(IT)I
+2008-720(IT)I
+ENTRE :
+CHANTAL BOURDAGES,
+JEAN-MARIE PERREAULT,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Les parties ont convenu de procéder au moyen d’une preuve commune, les faits à l’origine des cotisations étant les mêmes.
+[2] Il s’agit d’appels de cotisations établies pour l’année d’imposition 2003 à la suite de la vente d’un immeuble, à Sutton, au 49 de la rue Maple, acquis en janvier 1995 au montant de 76 258 $.
+[3] La question en litige consiste à déterminer si le ministre a correctement refusé la perte locative déclarée par les appelants à l’égard de l’année d’imposition 2003.
+[4] Pour établir la cotisation, l’intimée s’est fondée sur les présomptions de fait suivantes :
+a) L’appelante et son conjoint ont acquis une unité de condominium située au 49 rue Maple à Sutton au mois de janvier 1995 pour la somme de 76 258 $;
+b) Entre 1995 et 2003, les revenus bruts déclarés et les pertes réclamées par l’appelante et son conjoint sont les suivants :
+Année
+d’imposition
+Revenus
+bruts
+Pertes
+nettes de
+l’appelante
+Pertes de nettes du conjoint
+TOTAL
+1995
+1 600 $
+0 $
+3 770 $
+7 540 $
+1996
+1 625 $
+0 $
+2 643 $
+5 286 $
+1997
+1 000 $
+2 746 $
+2 746 $
+5 492 $
+1998
+791 $
+2 982 $
+2 982 $
+5 964 $
+1999
+950 $
+2 888 $
+2 888 $
+5 776 $
+2000
+0 $
+0 $
+0 $
+0 $
+2001
+0 $
+0 $
+0 $
+0 $
+2002
+925 $
+2 209 $
+2 209 $
+4 418 $
+2003
+0 $
+20 897 $
+20 897 $
+41 794 $
+TOTAL
+6 891 $
+31 722 $
+38 135 $
+69 857 $
+c) L’appelante et sa famille utilisait aussi la propriété à des fins personnelles;
+d) La propriété a été vendu en 2003 pour une somme de 50 000 $;
+e) L’appelante n’a pas démontré que de véritables moyens ont été mis en œuvre pour louer cette unité sur le marché locatif pendant les périodes où cette unité n’était pas utilisée à des fins personnelles par l’appelante et sa famille.
+[5] Les appelants ont tous deux témoigné, l’appelante a indiqué agir également comme la représentante de l’appelant, son conjoint. Quant à l’intimée, elle a fait témoigner madame Diane Tremblay, responsable de l’analyse du dossier à l’étape de l’établissement des cotisations.
+[6] L’appelante, madame Chantal Bourdages, une personne éloquente, a d’abord exprimé sa profonde déception, voire sa frustration, devant l’état de son dossier fiscal et de celui de son conjoint.
+[7] D’entrée de jeu, elle a affirmé qu’elle et son conjoint étaient des contribuables honnêtes, de bonne foi, sans reproche, qui n’étaient pas coupables de quoi que ce soit.
+[8] Elle a soutenu qu’ils sont des personnes avec un parcours professionnel irréprochable ayant vécu de multiples expériences comme homme et femme d’affaires. Leur conduite et cheminement professionnels étant exemplaires à tout point de vue, il était tout à fait inconvenant d’avoir fait l’objet de nouvelles cotisations.
+[9] Vraiment offusqués de la situation, les appelants ont également demandé que l’Agence soit condamnée à des frais, au remboursement de multiples dépenses et au versement d’une indemnisation pour les nombreux inconvénients subis.
+[10] Les appelants ont surtout exprimé leur mécontentement, leur déception et leur grand étonnement devant la remise en question et la révision de leur dossier fiscal.
+[11] Madame Bourdages a expliqué qu’au moment de l’achat du condominium à Sutton en 1995, un endroit de prédilection pour le ski et la nature, le couple vivait à l’Assomption, dans la région de Lanaudière.
+[12] Au mois d’août 1997, ils décidaient de quitter cette région pour aller s’établir à Bonaventure, en Gaspésie, nécessitant un trajet routier de plus de dix heures.
+[13] À ce moment, le couple était propriétaire d’une résidence, d’une entreprise et du condo visé par le présent appel. Les trois biens furent alors mis en vente. La résidence et l’entreprise ont trouvé preneur rapidement, mais pas le condo, vendu beaucoup plus tard et entrainant une perte financière.
+[14] À cette étape, une première question se pose. Quel était le but visé lors de l’acquisition du condo de Sutton? Les appelants ont soutenu qu’il s’agissait d’une aventure commerciale dont le but était de produire des revenus.
+[15] Les explications des appelants à l’appui de leurs prétentions ont été essentiellement verbales et sommaires. Ils ont par ailleurs mis en doute le témoignage de la vérificatrice Tremblay, notamment au niveau d’une conversation téléphonique, l’appelant aurait affirmé qu’il s’agissait d’un projet mixte, soit privé en partie et commercial en partie.
+[16] Pour réfuter le témoignage de la vérificatrice, l’appelante a soutenu que son conjoint ne savait, somme toute, même pas ce que cela pouvait signifier, insinuant ainsi que la vérificatrice avait de toute évidence inventé ces propos.
+[17] Quant à son conjoint, il a affirmé que la conversation était lointaine et qu’il ne se souvenait pas avoir utilisé pareils mots.
+[18] Au cours de la période de 1995, 1996 et 1997, les appelants ont affirmé avoir utilisé le condo qu’à deux seules reprises pour eux et leur famille immédiate. La preuve a aussi établie que des parents l’avaient utilisé.
+[19] De son côté, l’appelant a confirmé les propos de l’appelante; il a expliqué la rareté, voire l’absence de documents utiles à l’appui de leurs prétentions quant à la vocation du condo lors de l’achat, découlait du fait qu’il était plus qu’intuitif que rationnel lors de ses décisions d’affaires.
+[20] Après leur départ pour la Gaspésie, les appelants ont affirmé n’être jamais retournés à Sutton, compte tenu de la très grande distance séparant les deux régions, soit plus de dix heures de route.
+[21] Au cours de cette période, soit de 1995 à 2003 la date de la vente du condo. Ils ont soutenu avoir tout fait pour le louer. Durant cette période de près de neuf ans, les revenus de location auraient totalisé 6 891 $ et les dépenses totales auraient été de l’ordre de 69 857 $.
+[22] En guise de preuve documentaire pour démontrer la vocation locative, ils ont produit très peu de documents, notamment quelques brochures. Ils ont également mentionné avoir confié un mandat à un tiers et avoir fait paraître des annonces dans les journaux; ils n’ont pas été en mesure de fournir une preuve documentaire concernant les contrats de publicité.
+[23] Les différentes tentatives de la vérificatrice pour obtenir un plus grand nombre de faits, d’éléments de preuve ou de documents visant à valider la thèse à l’effet qu’il s’agissait d’une entreprise, ont été interprétées comme étant du harcèlement, de l’abus ou une remise en question de leur honnêteté.
+[24] D’ailleurs, j’ai été témoin de la même attitude lors de leur contre-interrogatoire. Les appelants ayant conclu qu’ils exploitaient une entreprise commerciale dont la vocation était la location de leur condo acquis, selon eux, à cette seule fin; ils devenaient indignés devant toute question relative aux faits permettant de déterminer la véritable vocation du condo.
+[25] Toute question, toute demande d’information s’avérait une atteinte à leur intégrité, un blâme, un excès de zèle, n’acceptant pas que quiconque questionne leur interprétation à l’effet qu’il s’agissait d’une aventure commerciale.
+[26] Chose très étonnante pour des personnes à qui on ne peut rien reprocher, les appelants n’ont jamais été en mesure d’expliquer l’absence totale de revenus pour les années 2000 et 2001, mais aussi et surtout, pourquoi il n’y avait eu pour ces mêmes années aucune dépense.
+[27] Aucun revenu, est une situation possible, mais il est tout à fait impossible qu’il n’y ait eu aucune dépense. On n’a qu’à penser aux assurances, aux frais de chauffage et aux taxes scolaires et municipales, etc.
+[28] Le contre-interrogatoire a fait ressortir que le condo avait fait l’objet d’une location de plusieurs semaines, sans générer pour autant aucun revenu. Explication soumise? Il s’agirait d’erreur.
+[29] Toute entreprise véritable doit déclarer tous ses revenus et ses dépenses; il ne s’agit pas d’une question discrétionnaire laissée au bon plaisir des gestionnaires.
+[30] Malgré ces incohérences (absence de dépenses), (absence de revenus), (revenus marginaux), les appelants considéraient quand même toute question et toute demande de renseignements superflue, vexante et insultante.
+[31] Dans un premier temps, il m’apparaît utile de répéter une partie des commentaires prononcés séance tenante, à savoir que l’appel d’une cotisation n’a généralement rien à voir avec la réputation, l’honnêteté ou le parcours professionnel de la personne cotisée. Une cotisation est établie à partir des faits et sa contestation porte également sur ces mêmes faits. La crédibilité a évidemment un impact important mais son appréciation se situe essentiellement au niveau de la situation qui a donné lieu à la cotisation.
+[32] Il ne s’agit pas de faire l’analyse de la conduite de tous les faits et gestes d’une personne sur l’ensemble de sa vie; il s’agit d’analyser les faits précis dans leur contexte de la transaction à l’origine des nouvelles cotisations et décider si la cotisation était fondée ou non, en vertu des dispositions de la Loi.
+[33] Lorsque l’analyse doit tenir compte de la volonté, l’intention, l’interprétation, ces éléments n’ont pas l’absolue mathématique d’où ils doivent être préférablement confirmés et validés par des faits, mais aussi par des documents.
+[34] Cette analyse ou recherche des faits pertinents qui doivent être pris en compte n’a pas à prendre en considération tout le bilan de la vie de la personne cotisée sur des aspects qui n’ont rien à voir avec la cotisation faisant l’objet d’une contestation.
+[35] L’appel d’une cotisation vise essentiellement à prendre en considération tous les faits pertinents d’un dossier, à les analyser dans le contexte approprié de manière à pouvoir conclure si la cotisation établie l’a été en conformité ou non avec les dispositions de la Loi.
+[36] L’argument le plus important à l’appui des prétentions des appelants est sans aucun doute la distance séparant leur nouveau domicile et le condo à Sutton.
+[37] Il s’agit là certes d’un fait possiblement très pertinent mais non déterminant puisqu’il est de notoriété publique que des milliers de canadiens possèdent des condos loin de leur domicile qu’ils utilisent d’une manière essentiellement privée et cela, pour de multiples raisons allant de la pratique de sports à des questions de saisons ou même pour des questions de santé.
+[38] En matière de fiscalité, il existe de nombreuses situations où des faits peuvent permettent différents traitements. L’exemple le plus répandu est sans doute une dépense personnelle par rapport à une dépense engagée dans le but de gagner un revenu. Une dépense peut tantôt être personnelle, tantôt liée à l’exploitation d’une entreprise et la ligne les séparant est souvent très mince. Il en est ainsi pour une multitude de biens : voitures, bateaux, roulottes, condos, etc.
+[39] Étant donné la différence de traitement possible sur le plan fiscal, il est d’autant plus utile, voire fondamental, d’avoir en sa possession les documents nécessaires pour étoffer et valider le traitement fiscal réclamé.
+[40] Lorsqu’une personne s’engage dans une affaire qui pourrait prêter à confusion, elle se doit d’être prudente et vigilante et de conserver le plus de pièces ou de documents possibles pour être en mesure d’expliquer ses démarches, particulièrement si la détermination retenue procure un avantage fiscal significatif.
+[41] En l’espèce, les appelants, des habitués du monde des affaires, pouvant compter et se fier sur les conseils de spécialistes mis à contribution, la preuve aurait dû être plus élaborée et convaincante. Or, la réalité a été tout autre; la preuve a été déficiente et certainement pas suffisante pour valider les prétentions des appelants.
+[42] Toute personne peut légitimement organiser ses affaires de manière à réduire son fardeau fiscal au maximum. Une telle décision ou stratégie requiert cependant de la part de la personne concernée, l’obligation d’avoir en sa possession tous les documents validant ou corroborant ses choix.
+[43] En l’espèce, il m’apparaît raisonnable de penser que la famille des appelants considérait l’acquisition du condo comme étant quelque chose de positif pour la famille, d’autant plus que le milieu était attrayant, qu’il leur offrait une meilleure qualité de vie et la possibilité d’élargir la gamme familiale de loisirs, et cela, tout en s’avérant un bon placement.
+[44] La famille et les amis ont profité quelque peu du condo, ce qui constitue un usage privé ou personnel comme utilisation; après avoir décidé de quitter la région de l’Assomption pour aller vivre dans une autre région très éloignée de l’endroit où est situé le condo à Sutton; les appelants ont choisi de le vendre, tout comme la résidence principale et l’entreprise. La résidence principale et l’entreprise ont trouvé preneur rapidement, mais non le condo.
+[45] Les appelants espéraient vendre le condo à profit. Le marché s’est détérioré et aucun acheteur sérieux ne s’est manifesté pendant des années.
+[46] En 2003, les appelants se sont fait à l’idée qu’ils devraient accepter une importante perte et vendre le condo.
+[47] Devant cette triste réalité, les appelants ont manifestement conclu que le condo avait été acquis dans un but commercial, réduisant ainsi le montant de la perte subie par le biais du traitement fiscal plus avantageux. Certes, ils ont soumis des explications verbales mais les chiffres sont aussi très révélateurs et, malheureusement, ils n’appuient pas la thèse soumise par les appelants.
+[48] En effet, les appelants prétendent qu’ils n’ont touché aucun revenu pour certaines années; cela est très surprenant, sinon impossible. Ils ne déclarent pour ces mêmes années aucune dépense ce qui cette fois, est totalement impossible.
+[49] Je doute fortement que les appelants aient été généreux envers le fisc au point de payer des impôts supérieurs à ce qu’ils étaient tenus de payer puisqu’il est impossible qu’il n’y ait pas eu de dépenses.
+[50] Tout les faits révélés par la preuve doivent s’apprécier dans le contexte que les appelants se sont définis eux-mêmes comme alertes et avisés en affaires comptant en outre sur les services de professionnels en la matière.
+[51] Je ne mets pas pour autant en doute l’honnêteté des appelants, si ce n’est que je doute que l’on ait fait tous les efforts nécessaires pour assurer une occupation payante plus fréquente. La dimension locative n’était manifestement pas l’objectif premier et déterminant de cette acquisition.
+[52] Je ne crois pas que le projet du condo de Sutton ait été une entreprise commerciale; je crois plutôt qu’il s’agissait d’une aventure de nature essentiellement privée, pouvant générer un éventuel gain en capital tout en permettant une meilleure qualité de vie durant les années d’utilisation.
+[53] Le déménagement a modifié la planification et les appelants devant la difficulté de trouver un acquéreur, ont sans doute voulu mitiger les dépenses en prenant certaines initiatives peu convaincantes de trouver un ou des locataires, leur préférence étant évidemment la vente.
+[54] La détérioration du marché immobilier a fait en sorte que l’acheteur s’est fait attendre. Devant la réalité qui leur a été imposée, les appelants voudraient changer rétroactivement l’intention première, c’est-à-dire, celle qu’ils avaient au moment de l’acquisition.
+[55] Les appelants étaient des gens d’affaires chevronnés, ils auraient dû être en mesure de démontrer un minimum de discipline, d’organisation et produire des pièces justificatives pour valider leurs prétentions.
+[56] Relever le fardeau de la preuve ne se limite pas à faire la preuve de ses connaissances, de son expérience, de sa notoriété et de son intégrité; relever le fardeau de la preuve signifie la capacité, en l’espèce, de démontrer d’une manière prépondérante, qu’une entreprise commerciale était exploitée, et ce, au moyen d’éléments convaincants, objectifs et déterminants.
+[57] Y avait-il un plan d’affaire? Y a-t-il eu un prêt lors de l’acquisition? La demande de prêt indiquait-elle le but visé, le traitement des intérêts, le mandat à un organisme spécialisé pour la location ou à une agence reconnue? Plan d’affaire, agenda, description détaillée des démarches, voilà quelques-uns des éléments habituels que l’on s’attendrait de voir les appelants présenter à l’appui de leurs prétentions.
+[58] Aucun de ces éléments n’a été soumis, les appelants s’en remettant principalement à des explications verbales qu’ils ne voulaient même pas voire questionner.
+[59] Le fardeau de la preuve incombait aux appelants. Ils n’ont pas relevé ce fardeau tout simplement parce que les éléments requis, abondants, convaincants et déterminants, n’existaient tout simplement pas.
+[60] Je crois que le choix fiscal des appelants a essentiellement découlé de la difficile conjoncture, de la détérioration du marché immobilier et de la rareté des acheteurs potentiels. Ce débat n’aurait jamais eu lieu si le condo avait été vendu à bon prix rapidement.
+[61] Pour tous ces motifs, les appels doivent être rejetés et les nouvelles cotisations à l’origine des appels sont donc confirmées comme étant bien fondées en faits et en droit.
+Signé à Ottawa, Canada, ce 23e jour d’octobre 2009.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2009 CCI 543
+Nº DU DOSSIER DE LA COUR : 2008-711(IT)I
+INTITULÉ DE LA CAUSE : CHANTAL BOURDAGES c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : New Carlisle (Québec)
+DATE DE L’AUDIENCE : le 13 août 2009
+MOTIFS DU JUGEMENT PAR : L'honorable juge Alain Tardif
+DATE DU JUGEMENT : le 23 octobre 2009
+COMPARUTIONS :
+Pour l'appelante :
+l'appelante elle-même
+Avocat de l'intimée :
+Me Michel Lamarre
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

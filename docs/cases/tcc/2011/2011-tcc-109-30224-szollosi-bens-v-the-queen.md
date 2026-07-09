@@ -1,0 +1,150 @@
+---
+title: "Szollosi Bens v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30224/index.do"
+last_modified: "2011-02-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 109"
+citation2: ""
+neutral_citation: "2011 TCC 109"
+decision_date: "2011-02-21"
+language: "en"
+item_id: "30224"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7758
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:50:44.656000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5a39f613cac7a0466184bb14d0b80712863b43226915a78558e23992af361a39"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Szollosi Bens v. The Queen
+
+- Citation: 2011 TCC 109
+- Decision date: 2011-02-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7758, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Szollosi Bens v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-02-21
+Neutral citation
+2011 TCC 109
+File numbers
+2008-2842(IT)G
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-2842(IT)G
+BETWEEN:
+JAMES SZOLLOSI BENS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Status hearing heard on February 9, 2011 at Vancouver, British Columbia
+By: The Honourable Justice C.H. McArthur
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Johanna Russell
+____________________________________________________________________
+ORDER
+The Appellant shall make his best efforts to provide the Respondent with relevant financial records, information and documentation in response to undertakings made October 14, 2010 by February 28, 2011.
+The Appellant shall take all reasonable efforts to satisfy all past undertakings made by March 31, 2011 and, in the same manner, complete any new undertakings by May 2, 2011.
+The hearing shall proceed in any event at the Tax Court of Canada, 701 West Georgia Street, 6th Floor, Vancouver, British Columbia, commencing at 9:30 a.m., on Monday, May 16, 2011, for a duration of one day.
+Signed at Ottawa, Canada, this 21st day of February 2011.
+" Cameron McArthur "
+McArthur J.
+Docket: 2009-2661(GST)G
+BETWEEN:
+JAMES SZOLLOSI BENS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Status hearing heard on February 9, 2011 at Vancouver, British Columbia
+By: The Honourable Justice C.H. McArthur
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Johanna Russell
+____________________________________________________________________
+ORDER
+The Appellant shall make his best efforts to provide the Respondent with relevant financial records, information and documentation in response to undertakings made October 14, 2010 by February 28, 2011.
+The Appellant shall take all reasonable efforts to satisfy all past undertakings made by March 31, 2011 and, in the same manner, complete any new undertakings by May 2, 2011.
+The hearing shall proceed in any event at the Tax Court of Canada, 701 West Georgia Street, 6th Floor, Vancouver, British Columbia, commencing at 9:30 a.m., on Monday, May 16, 2011, for a duration of one day.
+Signed at Ottawa, Canada, this 21st day of February 2011.
+" Cameron McArthur "
+McArthur J.
+Citation: 2011 TCC 109
+Date: 20110221
+Docket: 2008-2842(IT)G
+2009-2661(GST)G
+BETWEEN:
+JAMES SZOLLOSI BENS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+McArthur J.
+[1] This Appeal deals with unreported business income ($39,914 for 2003 and $155,000 for 2004), disallowed expenses ($91,563 for 2003 and $111,000 for 2004) and penalties.
+[2] A Notice of Appeal was filed September 8, 2008 and an Amended Reply on December 4, 2008.
+[3] Since that time, there have been numerous delays on the part of the Appellant, his two accountants and two lawyers. This is the second Status Hearing and the fifth Tax Court judge to render an order.
+[4] The second lawyer (D. Strebchuk) to act on the Appellant’s behalf withdrew November 18, 2010, where he stated to the Appellant, in part:
+1. given that on a consistent or ongoing basis since May 31, 2010, you have neglected, failed or refused to provide our office with the proper instructions or adhere to the advice and direction provided to you by our office in the within Actions, we are unwilling and/or unable to provide further representation on your behalf in the within Actions. Accordingly, we respectfully demand that you consider this correspondence as the written notice that our office intends to cease to act as counsel of record on your behalf in the within Actions.
+…
+3. … we respectfully request (as a matter of courtesy) that if you remain intent upon advancing the Claims, then you forthwith retain and instruct alternate counsel to advance the Claims in order to avoid same being forever barred, including pursuant to statutory or common law authority; and
+[5] The Appellant ignored this letter and did not pick up the notice of this Status Hearing sent by registered mail on December 20, 2010 and returned to sender (Tax Court of Canada).
+[6] With an abundance of caution and tolerance, I will not dismiss the Appeal for delay. The Appellant is given a final opportunity to have his Appeal heard on its merits at the Tax Court of Canada, 701 West Georgia Street, 6th Floor, Vancouver, British Columbia, commencing at 9:30 a.m., on Monday, May 16, 2011, for a duration of one day.
+Signed at Ottawa, Canada, this 21st day of February 2011.
+"Cameron McArthur"
+McArthur J.
+CITATION: 2011 TCC 109
+COURT FILE NO.: 2008-2842(IT)G and 2009-2661(GST)G
+STYLE OF CAUSE: JAMES SZOLLOSI BENS AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: February 9, 2011
+REASONS FOR ORDER BY: The Honourable Justice C.H. McArthur
+DATE OF ORDER: February 21, 2011
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Johanna Russell
+COUNSEL OF RECORD:
+For the Appellant:
+Name: n/a
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

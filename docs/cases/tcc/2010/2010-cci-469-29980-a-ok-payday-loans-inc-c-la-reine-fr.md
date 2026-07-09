@@ -1,0 +1,184 @@
+---
+title: "A OK Payday Loans Inc c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29980/index.do"
+last_modified: "2010-09-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 469"
+citation2: ""
+neutral_citation: "2010 CCI 469"
+decision_date: "2010-09-14"
+language: "fr"
+item_id: "29980"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6463
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:35:22.054000+00:00"
+cases_cited_count: 2
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a79ae8859878a092a01179751303234b08a75fc17284436e2177575a51e92293"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# A OK Payday Loans Inc c. La Reine
+
+- Citation: 2010 CCI 469
+- Decision date: 2010-09-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6463, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+A OK Payday Loans Inc c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-09-14
+Référence neutre
+2010 CCI 469
+Numéro de dossier
+2009-3640(GST)I
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2009-3640(GST)I
+ENTRE :
+A OK PAYDAY LOANS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 18 août 2010 à Victoria (Colombie‑Britannique).
+Devant : L’honorable juge Brent Paris
+Comparutions :
+Représentante de l’appelante :
+Mme Charlotte Rosene
+Avocate de l’intimée :
+Me Whitney Dunn
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre d’une cotisation établie en vertu de la Loi sur la taxe d’accise et dont l’avis est daté du 15 avril 2008 est rejeté.
+Signé à Ottawa, Canada, ce 14e jour de septembre 2010.
+« Brent Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 9e jour de novembre 2010.
+Espérance Mabushi, M.A.Trad. Jur.
+Référence : 2010 CCI 469
+Date : 20100914
+Dossier : 2009-3640(GST)I
+ENTRE :
+A OK PAYDAY LOANS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] Il s’agit d’un appel interjeté à l’encontre d’une cotisation par laquelle le ministre du Revenu national (le « ministre ») a refusé à l’appelante la demande présentée en application du paragraphe 261(1) de la Loi sur la taxe d’accise (la « LTA ») en vue d’obtenir un remboursement de la taxe sur les produits et services (la « TPS ») de 90 200,32 $ que l’appelante avait payée par erreur. Le paragraphe 261(1) de la LTA prévoit ce qui suit :
+261(1) Dans le cas où une personne paie un montant au titre de la taxe, de la taxe nette, des pénalités, des intérêts ou d’une autre obligation selon la présente partie alors qu’elle n’avait pas à le payer ou à le verser, ou paie un tel montant qui est pris en compte à ce titre, le ministre lui rembourse le montant, indépendamment du fait qu’il ait été payé par erreur ou autrement.
+[2] Le ministre a accepté le fait que l’appelante avait payé la TPS par erreur, mais il a refusé la demande de remboursement parce que la demande avait été présentée après l’expiration du délai prévu au paragraphe 261(3) de la LTA. Le paragraphe 263 de la LTA est ainsi libellé :
+261(3) Le remboursement n’est versé que si la personne en fait la demande dans les deux ans suivant le paiement ou le versement du montant.
+[3] En l’espèce, les faits ne sont pas contestés. L’activité de l’appelante consiste à consentir des prêts à court terme. L’appelante est devenue un inscrit selon la LTA en 1998, après quoi elle a commencé à produire des déclarations de TPS trimestrielles. Les services fournis par l’appelante étaient exonérés de la TPS, mais l’appelante avait par erreur remis la TPS sur les frais qu’elle avait perçus. L’appelante ne percevait pas la TPS auprès de ses clients, mais elle remettait au receveur général la TPS qu’elle avait déduite des frais perçus.
+[4] Au mois de juin 2007, l’appelante s’est rendue compte que les services qu’elle offrait étaient exonérés de la TPS, et elle a reçu une décision du ministre en ce sens au mois d’août 2007.
+[5] Le 27 août 2007, l’appelante a présenté une demande de remboursement de la TPS payée par erreur pour les périodes comprises entre le 1er avril 2005 et le 30 juin 2007 (la « période ultérieure »). La présidente de l’appelante, Mme Charlene Rosene, a précisé à la Cour qu’un fonctionnaire de l’Agence du revenu du Canada (l’« ARC ») lui avait dit qu’elle ne devrait présenter une demande de remboursement que pour la période ultérieure, en raison de la restriction prévue au paragraphe 261(3).
+[6] Au mois de janvier 2008, le ministre a accordé à l’appelante un remboursement de 17 809,56 $ pour la période ultérieure.
+[7] Au mois de février 2008, l’appelante a présenté une demande de remboursement de la TPS d’un montant de 90 200,32 $ payé par erreur pour les périodes comprises entre le 17 décembre 1998 et le 31 mars 2005 (la « période antérieure »).
+[8] Par avis de cotisation daté du 15 avril 2008, le ministre a refusé le remboursement parce que la demande avait été présentée après l’expiration du délai de deux ans suivant les paiements effectués dans la période antérieure. L’appelante s’est opposée à la cotisation, et le ministre a ratifié la cotisation le 27 avril 2009. Le présent appel a été formé le 18 novembre 2009.
+[9] L’intimée reconnaît que l’appelante a payé par erreur la somme de 90 200,32 $ au titre de la TPS pour la période antérieure, mais soutient que le paragraphe 261(3) de la LTA n’autorise pas de remboursement.
+[10] L’appelante reconnaît que la demande de remboursement relative à la période antérieure a été présentée plus de deux ans après que les paiements par erreur de la TPS ont été effectués dans la période antérieure, mais soutient qu’elle a droit au remboursement de la TPS au titre des paragraphes 296(2.1) et 296(3.1) de la LTA. Le paragraphe 296(2.1) de la LTA exige du ministre, lors de l’établissement d’une cotisation concernant la taxe nette pour une période de déclaration ou concernant un montant dû en vertu de la partie IX de la LTA, qu’il tienne compte d’un remboursement auquel une personne a droit en vertu de la partie IX, mais lequel remboursement la personne n’a pas encore demandé, et qu’il l’applique en réduction de la taxe nette ou du montant dû. Le paragraphe 296(2.1)c) de la LTA exige que le ministre applique le montant de remboursement en réduction de la taxe nette ou du montant dû même si le délai dans lequel la demande de remboursement peut être produite a expiré. Voici la teneur du paragraphe 296(2.1) de la LTA :
+296(2.1) Le ministre, s’il constate les faits ci-après relativement à un montant (appelé « montant de remboursement déductible » au présent paragraphe) lors de l’établissement d’une cotisation concernant la taxe nette d’une personne pour une période de déclaration de celle-ci ou concernant un montant (appelé « montant impayé » au présent paragraphe) qui est devenu payable par une personne en vertu de la présente partie, applique tout ou partie du montant de remboursement déductible en réduction de la taxe nette ou du montant impayé comme si la personne avait payé ou versé, à la date visée aux sous‑alinéas a)(i) ou (ii), le montant ainsi appliqué au titre de la taxe nette ou du montant impayé :
+a) le montant de remboursement déductible aurait été payable à la personne à titre de remboursement s’il avait fait l’objet d’une demande produite aux termes de la présente partie à la date suivante et si, dans le cas où le remboursement vise un montant qui fait l’objet d’une cotisation, la personne avait payé ou versé ce montant :
+(i) si la cotisation concerne la taxe nette pour la période de déclaration, la date limite de production de la déclaration aux termes de la section V pour la période,
+(ii) si la cotisation concerne un montant impayé, la date à laquelle ce montant est devenu payable par la personne;
+b) le montant de remboursement déductible n’a pas fait l’objet d’une demande produite par la personne avant le jour où l’avis de cotisation lui est envoyé;
+c) le montant de remboursement déductible serait payable à la personne s’il faisait l’objet d’une demande produite aux termes de la présente partie le jour où l’avis de cotisation lui est envoyé, ou serait refusé s’il faisait l’objet d’une telle demande du seul fait que le délai dans lequel il peut être demandé a expiré avant ce jour.
+[11] L’appelante invoque la décision de la Cour suprême du Canada dans United Parcel Service Canada Ltd. c. Canada[1], où la cour a confirmé qu’une personne ayant payé la TPS par erreur a le choix de demander un remboursement au titre du paragraphe 261(1) de la LTA ou d’obtenir que le montant de remboursement soit appliqué en réduction de la taxe nette due par la personne pour une période de déclaration. Dans ce dernier cas, l’expiration du délai prévu par le paragraphe 261(3) de la LTA n’empêche pas que la TPS payée par erreur soit appliquée en réduction de la taxe nette. La Cour était arrivée à la même conclusion dans deux arrêts antérieurs, à savoir : Peach Hill Management Ltd. v. Canada[2] et SAS Restaurants Ltd. c. Canada[3].
+[12] En outre, l’appelante soutient que le fait de tenir compte du remboursement auquel elle avait droit donnerait lieu à une taxe nette négative de 90 200,32 $ pour l’appelante à l’égard de la période antérieure, et que cette taxe serait remboursable au titre de l’alinéa 296(3.1)c) de la LTA. Le paragraphe 296(3.1) de la LTA établit l’ordre dans lequel le remboursement est appliqué en réduction de la taxe nette ou des montants impayés, et prévoit un remboursement du montant de remboursement restant ainsi que les intérêts afférents. Le paragraphe 293(3.1) de la LTA est ainsi libellé :
+296(3.1) Si, lors de l’établissement d’une cotisation concernant la taxe nette d’une personne pour une période de déclaration de celle-ci ou concernant un montant (appelé « montant impayé » au présent paragraphe) qui est devenu payable par une personne en vertu de la présente partie, tout ou partie d’un montant de remboursement déductible visé au paragraphe (2.1) n’est pas appliqué aux termes de ce paragraphe en réduction de cette taxe nette ou du montant impayé, le ministre, sauf si la cotisation est établie dans les circonstances visées aux alinéas 298(4)a) ou b) après l’expiration du délai imparti à l’alinéa 298(1)a) :
+a) applique le montant visé au sous-alinéa (i) en réduction du montant visé au sous-alinéa (ii) :
+(i) tout ou partie du montant de remboursement déductible qui n’a pas été appliqué aux termes du paragraphe (2.1),
+(ii) un autre montant (appelé « montant impayé » au présent alinéa) que la personne a omis de payer ou de verser en application de la présente partie, au plus tard à la date suivante (appelée « jour donné » au présent paragraphe), et qui demeure impayé ou non versé le jour où l’avis de cotisation lui est envoyé,
+(A) si la cotisation concerne la taxe nette pour la période, la date limite de production de la déclaration aux termes de la section V pour la période,
+(B) si la cotisation concerne un montant impayé, la date où ce montant est devenu payable par la personne,
+comme si elle avait payé ou versé, le jour donné, le montant ainsi appliqué au titre du montant impayé;
+b) applique le montant visé au sous-alinéa (i) en réduction du montant visé au sous-alinéa (ii) :
+(i) la totalité ou toute partie du montant de remboursement déductible qui n’a pas été appliquée en vertu de l’alinéa a) ou du paragraphe (2.1), ainsi que les intérêts sur la totalité ou cette partie du paiement calculés au taux réglementaire pour la période commençant le trentième jour suivant le dernier en date des jours ci-après et se terminant le jour où la personne a omis de payer ou de verser le montant visé au sous-alinéa (ii) :
+(A) le jour donné,
+(B) si la cotisation concerne la taxe nette pour la période, le jour où la déclaration pour la période a été produite,
+(ii) un montant (appelé « montant impayé » au présent alinéa) que la personne a omis de payer ou de verser en application de la présente partie un jour postérieur au jour donné et qui demeure impayé ou non versé le jour où l’avis de cotisation lui est envoyé,
+comme si la personne avait payé, le jour postérieur visé au sous-alinéa (ii), le montant et les intérêts ainsi appliqués au titre du montant impayé;
+c) rembourse à la personne la partie du montant de remboursement déductible qui n’a pas été appliquée conformément aux alinéas a) ou b) ou au paragraphe (2.1), ainsi que les intérêts afférents calculés au taux réglementaire pour la période commençant le trentième jour suivant le dernier en date des jours ci-après et se terminant le jour où le remboursement est effectué :
+(i) le jour donné,
+(ii) si la cotisation concerne la taxe nette pour la période, le jour où la déclaration pour la période a été produite,
+[13] L’avocate de l’intimée soutient que le paragraphe 296(2.1) de la LTA n’est pas applicable en l’espèce parce que la cotisation contestée est une cotisation qui vise la demande de remboursement de l’appelante et non une cotisation concernant la taxe nette pour une période de déclaration de l’appelante ou concernant un montant dû au titre de la partie IX. Les cotisations visant les demandes de remboursement sont établies en vertu du paragraphe 297(1) de la LTA alors que les cotisations concernant la taxe nette sont établies en vertu de l’alinéa 296(1)a) de la LTA. Par conséquent, a soutenu l’avocate de l’intimée, la seule question dont la Cour est saisie est de savoir si la demande de remboursement de l’appelante remplissait les conditions énoncées à l’article 261 de la LTA.
+[14] Je suis d’accord avec l’avocate de l’intimée sur le fait que le paragraphe 296(2.1) de la LTA n’est pas applicable en l’espèce. Cette disposition exige que le ministre tienne compte d’un montant de remboursement déductible « lors de l’établissement d’une cotisation concernant la taxe nette d’une personne pour une période de déclaration de celle‑ci ou concernant un montant […] qui est devenu payable par une personne en vertu de la partie IX de la Loi] […] ».
+[15] Une cotisation concernant la taxe nette est normalement établie en vertu de l’alinéa 296(1)a) de la LTA. Cet alinéa est ainsi libellé :
+296(1) Le ministre peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire pour déterminer :
+a) la taxe nette d’une personne, prévue à la section V, pour une période de déclaration;
+La cotisation visée par l’appel ne concerne ni la taxe nette de l’appelante pour une période de déclaration ni un montant qui est devenu payable par l’appelante en vertu de la partie IX. La cotisation a été plutôt établie en vertu du paragraphe 297(1) de la LTA, disposition qui exige du ministre l’examen d’une demande de remboursement et l’établissement d’une cotisation visant le montant du remboursement. Voici le libellé du paragraphe 297(1) de la LTA :
+297(1) Sur réception de la demande de remboursement d’une personne selon l’article 215.1 ou la section VI, le ministre examine, avec diligence, la demande et établit une cotisation visant le montant du remboursement[4].
+[16] Le titre de l’avis de cotisation en cause est rédigé de la manière suivante :
+[traduction]
+Avis de (nouvelle) cotisation
+Taxe sur les produits et services/taxe de vente harmonisée (TPS/TVH)
+Demande de remboursement
+et le texte de l’avis est le suivant :
+[traduction]
+Cet avis explique les résultats de la (nouvelle) cotisation que nous avons établie relativement à la (aux) demande(s) de remboursement de la TPS/TVH reçue(s) le 25 février 2008.
+L’avis ne comporte aucune mention de la taxe nette de l’appelante pour une période de déclaration ou d’un montant dû en vertu de la partie IX de la LTA.
+[17] Enfin, bien qu’aucun élément de preuve n’ait été produit concernant la date de la dernière cotisation ou nouvelle cotisation visant la taxe nette établie à l’égard de l’appelante relativement aux périodes pour lesquelles l’appelante a payé la TPS par erreur, Mme Rosene a confirmé que l’appelante ne s’était jamais opposée à une cotisation ainsi établie.
+[18] La décision de la Cour suprême dans United Parcel Service Canada Ltd. ne conforte pas l’appelante dans sa position. Cette décision se distingue de l’affaire en cause eu égard au fait que les cotisations contestées dans United Parcel Service Canada Ltd. concernaient la taxe nette. Dans ses déclarations relatives à la TPS pour les périodes visées par les cotisations, l’appelante avait demandé un crédit de taxe sur les intrants pour la TPS qu’elle avait payée par erreur. Les appelantes dans Peach Hill Management Ltd. et dans SAS Restaurants Ltd. avaient fait de même, et leurs appels portaient aussi sur des cotisations concernant la taxe nette.
+[19] À mon avis, dans un appel interjeté à l’encontre d’une nouvelle cotisation établie en vertu du paragraphe 297(1) de la LTA relativement à une demande de remboursement, l’examen de la Cour ne peut porter que sur la question de savoir si la décision du ministre à l’égard du remboursement était correcte, et sur la question de savoir si les conditions prévues par l’article 261 de la LTA pour obtenir le remboursement avaient été remplies. Étant donné que, de l’aveu même de l’appelante, la demande de remboursement avait été produite en dehors des délais prévus au paragraphe 261(3) de la LTA, il est évident que le refus du ministre d’accorder le remboursement était justifié, et l’appel est par conséquent rejeté.
+Signé à Ottawa, Canada, ce 14e jour de septembre 2010.
+« Brent Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 9e jour de novembre 2010.
+Espérance Mabushi, M.A.Trad. Jur.
+RÉFÉRENCE : 2010 CCI 469
+NO DU DOSSIER DE LA COUR : 2009-3640(GST)I
+INTITULÉ : A OK PAYDAY LOANS INC.
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Victoria (Colombie‑Britannique)
+DATE DE L’AUDIENCE : Le 18 août 2010
+MOTIFS DU JUGEMENT : L’honorable juge Brent Paris
+DATE DU JUGEMENT : Le 14 septembre 2010
+COMPARUTIONS :
+Représentante de l’appelante :
+Mme Charlotte Rosene
+Avocate de l’intimée :
+Me Whitney Dunn
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : s/o
+Cabinet : s/o
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 2009 CSC 20.
+[2] [1999] G.S.T.C. 11.
+[3] 2005 CCI 649, [2005] G.S.T.C. 159.
+[4] Le paragraphe 261(1) qui prévoit le remboursement de la TPS payée par erreur se trouve à la section VI de la LTA.

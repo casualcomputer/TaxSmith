@@ -1,0 +1,83 @@
+Title: Samaan v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30460/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-362-30460-samaan-v-the-queen-en.md
+Document type: case_law
+Last modified: 2011-06-20
+
+# Samaan v. The Queen
+
+- Citation: 2011 TCC 362
+- Decision date: 2011-06-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7929, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Samaan v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-06-20
+Neutral citation
+2011 TCC 362
+File numbers
+2010-3806(IT)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2011 TCC 362
+Date: 20110722
+Docket: 2010-3806(IT)I
+BETWEEN:
+NABIL M. SAMAAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+For the Appellant: The Appellant himself
+Counsel for the Respondent: Ernesto Caceras
+REASONS FOR JUDGMENT
+(Delivered orally from the bench
+on June 20, 2011, in Toronto, Ontario.)
+Paris J.
+[1] The Appellant is appealing the disallowance of certain amounts claimed as expenses of his mobile optical service business in 2006 and 2007. The amounts were disallowed on the basis that they were personal or living expenses of the Appellant, the deduction of which is prohibited under paragraph 18(1)(h) of the Income Tax Act.
+[2] The Appellant conceded that he had claimed certain expenses twice in 2006 and 2007, in error: fuel costs of $4,262.39, in 2006, and $3,149.47 in 2007; insurance of $2,400 in 2006 and $2,067 in 2007; interest of $850 in 2006; maintenance of $1,100 in 2007. He agreed that those amounts were not deductible, as well as the claim for $918.12 related to clothing, $200 for supplies in 2006 and $1,895.88 for telephone expenses, in 2007.
+[3] With respect to the remainder of the disallowed items, the Appellant testified that the expenses were all incurred for his business, but provided few specifics to show the business purpose of any particular item.
+[4] The Minister of National Revenue allowed him 17% and 19% on his total motor vehicle expenses as a business expense, in 2006 and 2007, respectively. The Appellant presented a one-page summary showing total business kilometers driven in 2006 as 23,026, out of a total of 30,000 kilometers driven for all purposes. A similar sheet for 2007 showed he had driven 15,000 kilometers for business, out of a total of 20,000 kilometers driven that year.
+[5] These sheets broke down travel into an estimated number of trips for particular areas of Toronto; it appeared to have been created after the years in issue and to be an estimate of the trips and distances driven. The number of trips shown was not tied to any records of the Appellant's business activities that were created in 2006 or 2007, which casts doubt on their reliability. The Appellant has not shown that these estimates are an accurate reflection of distances driven for business purposes.
+[6] Therefore, he had not shown that he is entitled to additional deductions for motor vehicle expenses. The onus is on the Appellant to prove the amount of his expenses, including motor vehicle expenses, and his failure to keep proper records will not excuse him from meeting this onus.
+[7] The next category of expenses in issue relates to meals and entertainment. Receipts for the expenses were bundled together and amounts were totaled on adding machine tapes for each year. The Appellant was unable to say what business purpose was served by each expenditure, other than that they were to develop his clientele and were spent at meetings with clients or potential clients. No log of these expenditures was maintained and the Appellant could not connect any of the receipts with any particular client.
+[8] In one example, when asked about certain claims for liquor that was purchased, he advised that the item had been taken to a party to which he had been invited, with friends. He said that he had handed out business cards at the party and so felt that the liquor he had purchased was a business expense. It is apparent, though, that the liquor was a gift to the Appellant's host when invited into a social event, unconnected with his business. One cannot convert this obvious personal expense into a business expense by handing out business cards while at a personal, social function.
+[9] In the bundle of receipts, I also observed receipts for groceries and meat, as well as an order for 13 large pizzas. It does not appear likely to me that these would be business expenses related to the sale of optical products.
+[10] The difficulty for the Appellant is that by claiming the expenditures for doubtful items or for liquor tied to a personal social event, this in turn casts doubt on the legitimacy of the remaining expenditures for which the claim is made.
+[11] I agree as well with the observation of counsel for the Respondent that many of the receipts show only one item on a meal purchase, and leads me to infer that the items were for the Appellant's own consumption. In the absence of specific details relating to these expenditures that would tie them to meetings with clients or business purposes, the Appellant has not satisfied the onus of proving that they were genuine business expenses.
+[12] The Appellant did not specifically challenge any other disallowed expenses or category of expenses. Therefore, there is no basis to allow any deductions in excess of those allowed by the Minister.
+[13] Therefore, in the absence of reasonable and reliable evidence to support that the disallowed amounts were incurred for business purposes and were not personal expenses of the Appellant, the reassessments must be upheld. For these reasons, the appeals are dismissed.
+Signed at Vancouver, British Columbia, this 22nd day of July, 2011.
+“Brent Paris”
+Paris J.
+CITATION: 2011 TCC 362
+COURT FILE NO.: 2010-3806(IT)I
+STYLE OF CAUSE: NABIL M. SAMAAN AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: July 5, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Brent Paris
+DATE OF JUDGMENT: July 22, 2011
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Ernesto Caceras
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm: N/A
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

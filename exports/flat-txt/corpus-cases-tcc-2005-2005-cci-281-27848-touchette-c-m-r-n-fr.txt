@@ -1,0 +1,314 @@
+Title: Touchette c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27848/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-281-27848-touchette-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2005-05-18
+
+# Touchette c. M.R.N.
+
+- Citation: 2005 CCI 281
+- Decision date: 2005-05-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 354, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Touchette c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-05-18
+Référence neutre
+2005 CCI 281
+Numéro de dossier
+2004-3029(EI)
+Juges et Officiers taxateurs
+Sylvio J. Savoie
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2004-3029(EI)
+ENTRE :
+GILBERT TOUCHETTE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Yvon Charbonneau (2004-3275(EI)), de Guy Ruel (2004-3726(EI)) et de Canada Wide Locomotive Industries Ltd. (2004-3926(EI)), le 11 mars 2005, à Montréal (Québec).
+Devant : L’honorable S.J. Savoie, juge suppléant
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimé :
+Me Julie David
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli et la décision du ministre est annulée conformément aux motifs du jugement ci‑joints.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 18e jour de mai 2005.
+« S.J. Savoie »
+Juge suppléant Savoie
+Dossier : 2004-3275(EI)
+ENTRE :
+YVON CHARBONNEAU,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Gilbert Touchette (2004-3029(EI)), de Guy Ruel (2004-3726(EI)) et de Canada Wide Locomotive Industries Ltd. (2004-3926(EI)), le 11 mars 2005,
+à Montréal (Québec).
+Devant : L’honorable S.J. Savoie, juge suppléant
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimé :
+Me Julie David
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli et la décision du ministre est annulée conformément aux motifs du jugement ci‑joints.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 18e jour de mai 2005.
+« S.J. Savoie »
+Juge suppléant Savoie
+Dossier : 2004-3726(EI)
+ENTRE :
+GUY RUEL,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Gilbert Touchette (2004-3029(EI)), de Yvon Charbonneau (2004-3275(EI)) et de Canada Wide Locomotive Industries Ltd. (2004-3926(EI)), le 11 mars 2005,
+à Montréal (Québec).
+Devant : L’honorable S.J. Savoie, juge suppléant
+Comparutions :
+Pour l’appelant
+L’appelant lui-même
+Avocate de l’intimé :
+Me Julie David
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli et la décision du ministre est annulée conformément aux motifs du jugement ci‑joints.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 18e jour de mai 2005.
+« S.J. Savoie »
+Juge suppléant Savoie
+Dossier : 2004-3926(EI)
+ENTRE :
+CANADA WIDE LOCOMOTIVE INDUSTRIES LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+CAROL VINCENT HAREWOOD,
+intervenante.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Gilbert Touchette (2004-3029(EI)), de Yvon Charbonneau (2004-3275(EI)), de Guy Ruel (2004‑3726(EI)) et de Canada Wide Locomotive Industries Ltd. (2004‑3926(EI)), le 11 mars 2005, à Montréal (Québec).
+Devant : L’honorable S.J. Savoie, juge suppléant
+Comparutions :
+Avocat de l’appelante :
+Me H. Laddie Schnaiberg
+Avocate de l’intimé :
+Me Julie David
+Pour l’intervenante :
+L’intervenante elle-même
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli et la décision du ministre est annulée conformément aux motifs du jugement ci-joints.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 18e jour de mai 2005.
+« S.J. Savoie »
+Juge suppléant Savoie
+Référence : 2005CCI281
+Date : 20050518
+Dossier : 2004-3029(EI)
+ENTRE :
+GILBERT TOUCHETTE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+ET
+2004-3275(EI)
+YVON CHARBONNEAU,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+ET
+2004-3726(EI)
+GUY RUEL,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+ET
+2004-3926(EI)
+CANADA WIDE LOCOMOTIVE INDUSTRIES LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+CAROL VINCENT HAREWOOD,
+intervenante.
+MOTIFS DU JUGEMENT
+Le juge suppléant Savoie
+[1] Les appels ont été entendus à Montréal (Québec), le 11 mars 2005.
+[2] Les appelants interjettent appel d’une décision du ministre Revenu national (le « ministre ») par laquelle il les a informés, par lettres datées du 6 juillet 2004, que Guy Boudreau, Yvon Charbonneau, Pierre Descent, Catherine Manconi, Gilles Paquette, John Redhead, Guy Ruel, Gilbert Touchette et Carol Vincent, les travailleurs, exerçaient un emploi assurable et fournissaient des services à Canada Wide Locomotive Industries Ltd., l’appelante, entre le 1er janvier 2003 et le 20 février 2004, soit la période en cause.
+[3] Pour en arriver à sa décision, l’intimé, le ministre, s’est appuyé sur les hypothèses de fait énoncées plus loin. À l’audience, sur requête de l’intimé accueillie par la Cour, l’intimé a produit une réponse modifiée à l’avis d’appel. La thèse avancée par l’intimé de même que les hypothèses de fait sur lesquelles il s’est fondé sont tirées de ce document modifié.
+[TRADUCTION]
+a) l’appelante a été constituée en société le 21 février 2001; elle fournit des services de réparation et d’entretien à des entreprises de chemin de fer et à d’autres entreprises liées au secteur ferroviaire; (admis)
+b) M. Manconi était l’unique actionnaire de l’appelante; (admis)
+c) l’appelante exploitait son entreprise toute l’année; (nié)
+d) l’appelante avait un atelier de réparation situé au 155, rue Montréal‑Toronto, à Lachine; (admis)
+e) l’appelante obtient des contrats de compagnies de chemin de fer comme CP Rail, Ottawa Central, New Brunswick East Coast, St-Laurent Atlantic; (admis)
+Guy Boudreau, Yvon Charbonneau, Pierre Descent, Gilles Paquette, John Redhead, Guy Ruel, Gilbert Touchette et Carol Vincent
+f) l’appelante embauche, sur demande, des travailleurs, tels que des mécaniciens et des électriciens, pour travailler sur des locomotives; (nié)
+g) les travailleurs embauchés par l’appelante sont des employés à la retraite qui ont déjà travaillé dans ce domaine; (nié)
+h) l’appelante communiquait avec les travailleurs (2 ou 3 jours à l’avance) pour qu’ils réparent des locomotives se trouvant dans l’atelier du payeur et, à l’occasion, à Ottawa; (nié)
+i) les travailleurs devaient respecter un échéancier variable convenant aux besoins du payeur; (nié)
+j) ils devaient effectuer le travail à l’atelier de l’appelante ou à celui de son client conformément aux instructions données par l’appelante: (nié)
+k) lorsqu’ils se rendaient à Ottawa, les travailleurs voyageaient avec d’autres employés de l’appelante; (nié)
+l) lorsque les travailleurs devaient se rendre à Ottawa, l’appelante payait les frais de motel et de déplacement qu’ils engageaient; (nié)
+m) les travailleurs étaient rémunérés à l’heure, à partir du moment où ils quittaient leur résidence jusqu’à leur retour à la maison; (nié)
+n) les travailleurs étaient rémunérés par chèque sur présentation d’une facture à l’appelante; (admis)
+o) les travailleurs ne couraient aucun risque de perte puisqu’ils étaient rémunérés pour les heures travaillées et n’engageaient aucune dépense dans l’exécution de leurs fonctions; (nié)
+p) les tâches confiées aux travailleurs étaient intégrées aux activités du payeur; (nié)
+Catherine Manconi
+q) Catherine Manconi est la sœur de Mike Manconi; (admis)
+r) la travailleuse a été embauchée comme secrétaire; (nié)
+s) la travailleuse a commencé à travailler pour l’appelante en 2001; (admis)
+t) la travailleuse avait pour tâche de répondre au téléphone et de se charger de la facturation, de la tenue des livres et de la comptabilité; (nié)
+u) la travailleuse accomplissait la plupart de ses tâches dans les locaux de l’appelante et parfois à sa propre résidence; (nié)
+v) la travailleuse travaillait en moyenne de 30 à 32 heures par semaine; (nié)
+w) la travailleuse bénéficiait d’un horaire variable pour accomplir ses tâches; (admis)
+x) la travailleuse était rémunérée à l’heure, par chèque, sur présentation d’une facture à l’appelante; (nié)
+y) la travailleuse recevait 15,00 $ l’heure; (nié)
+z) la travailleuse ne courait aucun risque de perte puisqu’elle était rémunérée pour les heures travaillées et n’engageait aucune dépense dans l’exécution de ses fonctions; (nié)
+aa) ses tâches étaient intégrées aux activités du payeur. (nié)
+[4] La preuve a révélé ce qui suit. Canada Wide Locomotive Industries Ltd., l’appelante, a été constituée en société en 2001. Elle exploite une entreprise qui répare et entretient des locomotives pendant toute l’année. Michael Manconi en est l’unique actionnaire. Il se spécialise dans le même genre d’affaire que son père.
+[5] Il s’agit de travaux spécialisés qui nécessitent des travailleurs qualifiés dans différents métiers reliés à l’entretien et à la réparation de locomotives. Comme elle n’a pas de personnel possédant ce genre de compétence, l’appelante s’est mise à la recherche de personnes qualifiées pour effectuer les travaux de réparation et d’entretien que lui confiaient ses clients, soit des compagnies de chemin de fer comme CP Rail, Ottawa Central, New Brunswick East Coast, St-Laurent Atlantic, pour n’en nommer que quelques‑unes.
+[6] Les principales activités de l’appelante se déroulent à Lachine (Québec), où de 60 à 65 pour cent du travail est exécuté. Les autres activités ont lieu sur place, à Ottawa, à Hawkesbury, à Québec ou à certains endroits au Nouveau‑Brunswick.
+[7] Lorsque l’appelante recevait une commande, elle embauchait, sur demande, des ouvriers qualifiés, tels que des électriciens, des mécaniciens, des serre‑freins (freins à air), des tuyauteurs, etc. Après avoir établi la nature des travaux de réparation requis, l’appelante communiquait avec le travailleur ayant les qualifications nécessaires pour effectuer le travail.
+[8] Lorsqu’on lui demandait de faire les réparations, le travailleur avait toute latitude pour accepter ou refuser l’offre, sans aucune conséquence pour lui. S’il acceptait, on lui demandait alors de signer un contrat de consultation. Ce document a été produit à l’audience (pièce A‑1).
+[9] Il importe de signaler que l’appelante ne pouvait accepter la commande du client avant que le travailleur n’ait signé le contrat de consultation. Cette main‑d’œuvre qualifiée se composait d’employés à la retraite du CN ou du CP.
+[10] Il faut en outre préciser que le contrat de consultation ne liait pas les travailleurs à l’appelante de façon exclusive. Ils pouvaient offrir leurs services à d’autres.
+[11] À l’occasion, le travail nécessitait que les travailleurs se rendent à différents lieux de travail. Ils avaient la possibilité de choisir leur moyen de transport et, si la nature du travail à exécuter exigeaient la présence de plusieurs ouvriers qualifiés, il arrivait que ces derniers voyagent ensemble. Leurs frais de déplacement étaient assumés par les clients de l’appelante. L’appelante communiquait avec les travailleurs deux ou trois jours à l’avance.
+[12] La preuve a révélé que les travailleurs fixaient eux‑mêmes leur taux horaire de salaire. Ceux‑ci variaient d’un métier à l’autre. Ils décidaient également de leur disponibilité pour le travail. Ces travailleurs possédaient leurs propres instruments de travail, qu’ils utilisaient dans l’exercice de leur métier, certains de ces instruments étant particuliers à l’exercice d’un métier donné. Gilbert Touchette a dépensé 3 000,00 $ pour ses instruments, tandis que ceux de Guy Ruel lui ont coûté 1 500,00 $.
+[13] Certains travaux de réparation nécessitaient les compétences de différents ouvriers qualifiés. Ces personnes travaillaient souvent ensemble au même projet, chacune dans leur domaine de spécialité, et elles coopéraient toutes à l’exécution du projet sans qu’aucune d’entre elles n’agisse comme superviseur. Le fait que le travailleur Charbonneau ait pu agir comme superviseur pour le compte de l’appelante à l’occasion de divers projets a été vigoureusement nié par M. Charbonneau et par tous les autres travailleurs qui ont témoigné. À cet égard, j’estime que leur témoignage était digne de foi.
+[14] Les frais d’hôtel étaient habituellement payés par les clients de l’appelante, mais en ce qui concerne les repas, il n’y avait pas d’arrangements fixes. L’appelante et le travailleur convenaient des mesures à prendre dans chaque cas. Le travailleur envoyait des factures à l’appelante une fois les travaux terminés, mais si des réparations étaient effectuées sur une longue période, il pouvait facturer au prorata des travaux. Lorsqu’on leur demandait d’aller exécuter des travaux à l’extérieur de la ville, les travailleurs décidaient de leur disponibilité et n’étaient assujettis à aucun calendrier de travail; ils pouvaient fournir leurs services au moment de leur choix dans la mesure où ils effectuaient ces travaux pendant les heures de travail du client ou de l’appelante, à son usine à Lachine. Michael Manconi a également nié que le travailleur Charbonneau assurait une quelconque supervision à l’égard des autres travailleurs.
+[15] L’appelante a aussi montré que les travailleurs étaient responsables des travaux spécialisés qu’ils exécutaient et que les défauts constatés dans leur travail ne pouvaient être imputés à l’appelante, qui n’en était pas responsable. En d’autres termes, l’appelante et les travailleurs avaient tous établi que les travailleurs étaient entièrement responsables du travail qu’ils effectuaient.
+[16] De plus, les travailleurs n’étaient assujettis à aucun calendrier tant en ce qui concerne leur travail que leurs heures de travail.
+[17] Il ressort de la preuve que les travailleurs pouvaient déduire les dépenses liées au travail dans leur déclaration de revenus.
+[18] Catherine Manconi travaillait environ quatre jours par semaine. Elle répondait au téléphone de l’appelante. Elle veillait également à obtenir des divers travailleurs la liste du matériel dont ils avaient besoin pour des projets donnés devant être exécutés pour les clients de l’appelante. Ces listes étaient ensuite remises à l’appelante. Mme Manconi effectuait en outre certains travaux de facturation et de tenue de livres. L’appelante avait son propre comptable.
+[19] Elle n’avait aucun horaire de travail. À l’instar des autres travailleurs, elle travaillait sur demande. Il arrivait qu’elle soit sans travail pendant deux semaines d’affilée. Elle travaillait en moyenne 35 heures par semaine. Elle était payée au taux horaire de 15,00 $, mais elle devait réclamer ce salaire à l’appelante et lui envoyer des factures à cet effet.
+[20] Le ministre estime que les travailleurs étaient tenus de respecter un horaire de travail sous la supervision de Yvon Charbonneau. Jacques Rousseau, agent des appels, a témoigné pour le compte du ministre.
+[21] M. Rousseau a comparé les travailleurs, lesquels travaillaient sur demande, à la situation de certains employés occasionnels d’entreprises telles que McDonald et Burger King, ou d’hôpitaux, qui travaillent également sur demande, mais qui sont néanmoins considérés comme des employés permanents par la Loi sur l’assurance‑emploi. Il a également signalé qu’au cours de conversations avec des témoins et d’autres personnes, il avait découvert que les travailleurs visés par les présents appels faisaient l’objet de supervision.
+[22] Le contre-interrogatoire de M. Rousseau a toutefois révélé sans équivoque que ce dernier ne connaissait pas beaucoup les contrats de travail du personnel hospitalier; il a dû avouer qu’il n’avait jamais visité le lieu de travail de l’appelante, il était incapable de décrire les méthodes de travail de cette dernière et il n’a pu les comparer avec les postes interrompus utilisés chez McDonald ou chez Burger King.
+[23] Pour les besoins de l’analyse, il convient de garder en mémoire les modalités du contrat de consultation mentionné plus haut (pièce A‑1). Voici le texte de cette convention :
+[TRADUCTION]
+CONTRAT DE CONSULTATION
+Le présent contrat de consultation (le « contrat »), qui prend effet le 24 septembre 2001, est conclu entre CANADA WIDE LOCOMOTIVE INDUSTRIES LTD., entreprise constituée en société suivant les lois du Québec (ci‑après la « société »), et Catherine Manconi, personne physique résidant au 136, rue Primeau, à Chat, dans la province de Québec, au Canada (ci‑après la « consultante »).
+Attendu que la société poursuit des activités qui consistent notamment à offrir aux entreprises qui exploitent des chemins de fer de même qu’à d’autres entreprises associées au secteur ferroviaire, des services dans tous les domaines liés à l’exploitation des chemins de fer;
+Attendu que la société estime souhaitable de recourir aux connaissances et aux compétences de la consultante pour exploiter son entreprise;
+Attendu que la société souhaite embaucher la consultante pour qu’elle fournisse des services de consultation à titre d’entrepreneur indépendant et non d’employé. Par conséquent, la société n’est responsable d’aucun préjudice ou autre dommage qui pourrait être causé à la consultante ou à ses effets personnels pendant la durée de la présente convention;
+Attendu que la consultante s’engage à exécuter les services susmentionnés pour le compte de la société au prix convenu par les parties avant chacune des affectations;
+Attendu que les parties reconnaissent que la consultante possède beaucoup d’expérience ainsi que de vastes connaissances, un grand savoir‑faire et de nombreuses relations d’affaires en ce qui touche l’exploitation de l’entreprise.
+Par la présente convention, les parties, chacune en contrepartie des engagements et des conventions réciproques prévus à la présente et d’autres valeurs données, dont la réception et la suffisance sont ici constatées, conviennent de ce qui suit :
+I. SERVICES DE CONSULTATION
+La consultante doit, sur demande de la société, prêter son concours à cette dernière relativement à l’entreprise ou aux autres activités de la société, à partir de la résidence de la consultante ou de tout autre lieu fixé par la consultante. La consultante peut prendre toutes les mesures nécessaires pour remplir les fonctions susmentionnées, mais elle ne peut, en aucun temps et en aucune situation, lier la société par une convention qu’elle aurait elle‑même conclue. La consultante exécute les fonctions mentionnées à la présente à titre d’entrepreneur indépendant et non à titre d’employée de la société.
+Sous réserve des restrictions énoncées dans la présente convention, la consultante s’engage à remplir les engagements convenus relativement à chaque affection.
+II. FRAIS
+Tous les frais de déplacement, de logement et de repas qui sont engagés par la consultante au titre de services fournis conformément à la présente convention et qui sont autorisés par la société préalablement à toute affectation, sont à la charge de la société. Ces frais s’ajoutent aux honoraires de consultation et leur remboursement ne saurait être assimilé au paiement des honoraires de consultation (tels qu’ils sont définis plus loin) payables à la consultante conformément aux dispositions du paragraphe IV de la présente convention.
+III. DURÉE
+La présente convention prend effet le 24 septembre 2001 et elle durera pendant un certain nombre de mois à déterminer et à communiquer. Cependant, chacune des parties peut mettre fin à la convention en donnant à l’autre partie un avis écrit de 15 jours de son intention de résilier la convention. Par conséquent, à l’expiration de ce délai de 15 jours, les deux parties seront exonérées de toutes les obligations prévues par la présente convention.
+IV. RÉMUNÉRATION
+À titre de rémunération pour les services rendus dans le cadre de la présente convention par la consultante, la société versera à cette dernière des honoraires convenus préalablement à chacune des affectations. La consultante doit présenter à la société un rapport écrit documentant les heures travaillées et les fonctions remplies pendant chaque semaine. La société payera la consultante dès réception du paiement par l’entreprise ou la société consignataire.
+V. AUTRES ACTIVITÉS DE LA CONSULTANTE
+Les parties reconnaissent que la consultante peut rendre des services de consultation à d’autres sociétés dans la mesure où la prestation de ces services ne fait pas obstacle à l’exécution des instructions données par la société. La consultante a le droit de refuser n’importe quelle affectation. Toutefois, lorsqu’elle s’engage à remplir une affectation, la consultante est tenue de respecter son engagement.
+VI. MATÉRIEL
+La société assume les frais engagés par la consultante pour fournir les services qu’elle lui demande de fournir.
+VII. SECRETS COMMERCIAUX
+La consultante ne peut divulguer, publier, dévoiler ou autrement révéler un quelconque secret commercial, que ce soit directement ou indirectement, à une personne, un cabinet, une société ou un tiers, quels qu’ils soient, ni les utiliser de quelque façon que ce soit pendant toute la durée de la présente convention ou par la suite, sauf dans la mesure où cela est nécessaire à l’exécution des services prévus par la présente.
+L’ensemble des dossiers, livres, spécifications, notes de service, écrits et autres documents analogues se rapportant aux activités de la société demeurent la propriété exclusive de cette dernière.
+En foi de quoi, les parties ont signé la présente convention à la première date mentionnée plus haut.
+CANADA WIDE LOCOMOTIVE INDUSTRIES LTD.
+Par : __________________________________________
+Mike Manconi
+Président, Canada Wide Locomotive Industries Ltd.
+Signature: _____________________________________
+Nom en lettres moulées : __________________________
+Consultante.
+[24] Le ministre invoque le paragraphe 93(3) de même que les alinéas 5(1)a), 5(2)(i) et 5(3)b) de la Loi sur l’assurance‑emploi (la « Loi »), lesquels seraient applicables à la période en cause.
+[25] Le ministre a conclu que Guy Boudreau, Yvon Charbonneau, Pierre Descent, Gilles Paquette, John Redhead, Guy Ruel, Gilbert Touchette et Carol Vincent exerçaient un emploi assurable chez l’appelante pendant la période en cause parce qu’ils étaient embauchés aux termes d’un contrat de louage de services au sens de l’alinéa 5(1)a) de la Loi pendant cette période.
+[26] De plus, selon le ministre, l’emploi de Catherine Manconi n’était pas exclu de la catégorie des emplois assurables parce que les modalités de son emploi auraient été essentiellement les mêmes si elle et l’appelante n’avaient pas eu de lien de dépendance. Le ministre a conclu que Catherine Manconi exerçait un emploi assurable chez l’appelante pendant la période visée puisqu’elle était embauchée aux termes d’un contrat de louage de services au sens de l’alinéa 5(1)a) de la Loi.
+[27] L’alinéa 5(1)a) de la Loi est ainsi rédigé :
+5. (1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) l’emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d’un contrat de louage de services ou d’apprentissage exprès ou tacite, écrit ou verbal, que l’employé reçoive sa rémunération de l’employeur ou d’une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[28] Dans l’arrêt Wiebe Door Services Ltd. c. Canada (Ministre du Revenu national – M.R.N.), 87 DTC 5025, Cour d’appel fédérale, no du greffe : A‑531‑85, 18 juin 1986, la Cour a établi une série de critères permettant de décider si une entente constitue un contrat de louage de services ou un contrat à être exécuté par un entrepreneur indépendant. Les voici :
+a) le degré, ou l’absence, de contrôle exercé par le présumé employeur;
+b) la propriété des instruments de travail;
+c) les chances de bénéfice et les risques de perte;
+d) l’intégration des travaux effectués par les présumés employés dans l’entreprise de l’employeur.
+Analysons maintenant la preuve à la lumière des quatre critères susmentionnés.
+I. CONTRÔLE
+[29] La situation de fait révélée par la preuve montre que l’appelante communiquait avec les travailleurs pour leur offrir d’effectuer certaines réparations à des locomotives, conformément aux demandes de ses clients. On appelait les travailleurs pour savoir s’ils acceptaient ou non d’effectuer les réparations nécessaires. Les travailleurs avaient la possibilité d’accepter ou de refuser d’exécuter les travaux de réparation demandés. Leur refus n’entraînait aucune conséquence. S’ils acceptaient, ils signaient le contrat de consultation. Les travailleurs fixaient eux‑mêmes le taux horaire qu’ils exigeaient pour fournir leurs services. Ils décidaient également du moment où ils seraient présents pour rendre les services en question, selon l’urgence de la situation.
+[30] Dans l’arrêt Wiebe Door, précité, le juge MacGuigan, à la page 5027, mentionne ce qui suit dans le cadre de son examen de la jurisprudence anglaise et canadienne touchant le critère relatif au contrôle :
+En common law, le critère traditionnel qui confirme l’existence d’une relation employeur‑employé est le critère du contrôle, que le baron Bramwell a défini dans R. v. Walker, (1858), 27 L.J.M.C. 207 (page 208) :
+[TRADUCTION] « À mon sens, la différence entre une relation commettant‑préposé et une relation mandant‑mandataire est la suivante : un mandant a le droit d’indiquer au mandataire ce qu’il doit faire, mais le commettant a non seulement ce droit, mais aussi celui de dire comment la chose doit être faite. »
+Ce critère est tout aussi important aujourd’hui, comme la Cour suprême du Canada l’a indiqué dans l’affaire Hôpital Notre-Dame de l'Espérance et Théoret c. Laurent et al., [1978] 1 R.C.S. 605, en souscrivant à l’énoncé suivant (p. 613) : « le critère essentiel destiné à caractériser les rapports de commettant à préposé est le droit de donner des ordres et instructions au préposé sur la manière de remplir son travail ».
+[31] À la lumière de ce critère, il semble que la relation de travail existant entre les travailleurs et l’appelante, telle qu’elle a été établie par la preuve, étaye l’idée selon laquelle les travailleurs fournissaient leurs services à titre d’entrepreneurs indépendants.
+II. PROPRIÉTÉ DES INSTRUMENTS DE TRAVAIL
+[32] Il ressort de la preuve que chacun des travailleurs apportait sa propre boîte à outils. Ils possédaient leurs propres outils, qu’ils utilisaient dans l’exercice de leur métier respectif. Par exemple, Gilbert Touchette a affirmé qu’il avait payé 3 000,00 $ pour ses outils. Guy Ruel a quant à lui déclaré que ses outils lui avaient coûté 1 500,00 $. La preuve montre sans équivoque que les travailleurs utilisaient leurs propres outils, à l’exception des gros outils, comme les grues, lesquels étaient fournis par le client de l’appelante sur chaque lieu de travail.
+[33] Examinés à la lumière de ce critère, les faits étayent aussi l’idée que les travailleurs exploitaient leur propre entreprise privée et que c’est à ce titre qu’ils offraient leurs services à l’appelante.
+III. CHANCES DE BÉNÉFICE ET RISQUES DE PERTE
+1. L’appelante consistait en une entreprise hautement spécialisée;
+2. La nature même du travail à exécuter exigeait que le travailleur se rende à l’endroit où se trouvait la locomotive défectueuse, soit le lieu de travail du client de l’appelante;
+3. Le réparateur accomplissant ce genre de travaux hautement spécialisés est responsable de la qualité de son travail et, en cas de mauvaise exécution, il doit, à ses propres frais, corriger les erreurs commises;
+4. Comparativement à d’autres secteurs d’activité, les compagnies de chemin de fer sont très rares;
+5. Par conséquent, ce travail de réparation, par sa nature même, s’accompagne d’un risque élevé de perte dans l’éventualité où les heures de travail et les débours ne sont pas payés. Le travailleur exploite sa propre entreprise, dont il est l’unique employé;
+6. Les chances de bénéfice sont tributaires du volume de travail reçu pendant une période donnée.
+IV. INTÉGRATION
+[34] Les tribunaux judiciaires ont souvent affirmé que le critère relatif à l’intégration s’apprécie le mieux, dans une situation donnée, lorsqu’on répond à la question suivante : « En définitive, à qui appartient l’entreprise? » Dans le cas des travailleurs en l’espèce, qui exécutaient leurs fonctions aux termes d’un contrat conclu avec l’appelante, une seule réponse est possible : ils travaillaient aux termes d’un contrat d’entreprise. Les travailleurs en l’espèce ont conclu un contrat de consultation avec l’appelante, contrat dont les modalités sont explicitées dans la pièce A‑1. Dans l’arrêt Livreur Plus Inc. c. Canada (Ministre du Revenu national – M.R.N.), [2004] C.A.F. 68, la Cour d’appel fédérale s’est penchée sur l’intention des parties comme élément dont il faut tenir compte pour décider de la nature du travail particulier qui est exécuté. Le juge Létourneau a écrit ce qui suit :
+La stipulation des parties quant à la nature de leurs relations contractuelles n’est pas nécessairement déterminante et la Cour peut en arriver à une détermination contraire sur la foi de la preuve qui lui est soumise : D&J Driveway Inc. c. Le ministre du Revenu national, 2003 CAF 453. Mais en l’absence d’une preuve non équivoque au contraire, la Cour doit dûment prendre en compte l’intention déclarée des parties : Mayne Nickless Transport Inc. c. Le ministre du Revenu national, 97-1416-UI, 26 février 1999 (C.C.I.). Car en définitive, il s’agit de déterminer la véritable nature des relations entre les parties. Aussi, leur intention sincèrement exprimée demeure‑t‑elle un élément important à considérer dans la recherche de cette relation globale réelle que les parties entretiennent entre elles dans un monde du travail en pleine évolution : voir Wolf c. Canada, [2002] 4 C.F. 396 (C.A.F.); Procureur général du Canada c. Les Productions Bibi et Zoé Inc., 2004 C.A.F. 54.
+[35] Les appelants ont demandé à la Cour d’infirmer la décision prise par le ministre en l’espèce.
+[36] À mon avis, les appelants ont réussi à établir que la décision du ministre est mal fondée.
+[37] Les conditions de travail ont été examinées à la lumière des dispositions législatives pertinentes et de la jurisprudence applicable. Les faits analysés par la Cour étayent la thèse selon laquelle les travailleurs ne travaillaient pas aux termes d’un contrat de louage de services, mais bien à titre d’entrepreneurs indépendants.
+[38] La Cour arrive donc à la conclusion que Guy Boudreau, Yvon Charbonneau, Pierre Descent, Gilles Paquette, John Redhead, Guy Ruel, Gilbert Touchette et Carol Vincent n’exerçaient pas un emploi assurable chez l’appelante pendant la période visée puisqu’ils n’étaient pas embauchés aux termes d’un contrat de louage de services au sens de l’alinéa 5(1)a) de la Loi.
+[39] La Cour conclut en outre que l’emploi de Catherine Manconi n’était pas exclu de la catégorie des emplois assurables suivant l’alinéa 5(2)i) de la Loi. Cependant, elle n’exerçait pas un emploi assurable chez l’appelante pendant la période visée puisqu’elle n’était pas embauchée aux termes d’un contrat de louage de services au sens de l’alinéa 5(1)a) de la Loi.
+[40] En conséquence, les appels sont accueillis et la décision du ministre est annulée.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 18e jour de mai 2005.
+« S.J. Savoie »
+Juge suppléant Savoie
+RÉFÉRENCE : 2005CCI281
+NOS DES DOSSIERS DE LA COUR : 2004-3029(EI), 2004-3275(EI), 2004‑3726(EI) et 2004‑3926(EI)
+INTITULÉ DE LA CAUSE : GILBERT TOUCHETTE ET M.R.N.
+YVON CHARBONNEAU ET M.R.N.
+GUY RUEL ET M.R.N.
+CANADA WIDE LOCOMOTIVE INDUSTRIES LTD. ET M.R.N.
+ET CAROL VINCENT HAREWOOD
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 11 mars 2005
+MOTIFS DU JUGEMENT PAR : L’honorable S.J. Savoie, juge suppléant
+DATE DU JUGEMENT : Le 18 mai 2005
+COMPARUTIONS :
+Pour les appelants Gilbert Touchette, Yvon Charbonneau et Guy Ruel :
+Les appelants eux-mêmes
+Avocat de l’appelante Canada Wide Locomotive Industries Ltd. :
+Me H. Laddie Schnaiberg, c.r.
+Avocate de l’intimé :
+Me Julie David
+Pour l’intervenante :
+L’intervenante elle‑même
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelante Canada Wide Locomotive Industries Ltd. :
+Nom : Me H. Laddie Schnaiberg, c.r.
+Cabinet : Me H. Laddie Schnaiberg, c.r.
+Montréal (Québec)
+Pour l’intimé : Me John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Ontario)
+Pour l’intervenante :

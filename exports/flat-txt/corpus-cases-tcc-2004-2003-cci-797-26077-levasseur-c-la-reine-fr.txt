@@ -1,0 +1,219 @@
+Title: Levasseur c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26077/index.do
+Corpus path: corpus/cases/tcc/2004/2003-cci-797-26077-levasseur-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2004-01-13
+
+# Levasseur c. La Reine
+
+- Citation: 2003 CCI 797
+- Decision date: 2004-01-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4072, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Levasseur c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-01-13
+Référence neutre
+2003 CCI 797
+Numéro de dossier
+2002-4476(IT)I
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-4476(IT)I
+ENTRE :
+GUY LEVASSEUR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de Gaétane Moreau (2002-4477(IT)I) le 23 octobre 2003 à Shawinigan (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Représentante de l'appelant :
+Pierrette Carrier
+Avocat de l'intimée :
+Me Philippe Dupuis
+____________________________________________________________________
+JUGEMENT
+L'appel des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1991, 1992, 1993, 1994 et 1995 est accueilli et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 13e jour de janvier 2004.
+« Paul Bédard »
+Juge Bédard
+Référence : 2003CCI797
+Date : 20040113
+Dossier : 2002-4476(IT)I
+ENTRE :
+GUY LEVASSEUR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+ET
+Dossier : 2002-4477(IT)I
+GAÉTANE MOREAU,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bédard, C.C.I.
+[1] Par avis de nouvelle cotisation daté du 4 juillet 1997, le ministre du Revenu national (le « Ministre » ) a refusé à l'appelant la somme de 3 244 $ qu'il avait déduite à titre de crédit d'impôt à l'investissement ( « crédit » ) dans le calcul de son impôt payable pour l'année d'imposition 1993, et dont 2 462,37 $ ont été répartis sur les années 1991 à 1995 de la façon suivante :
+1991 59,00 $
+1992 557,11 $
+1993 453,08 $
+1994 657,34 $
+1995 735,84 $
+[2] Par avis de nouvelle cotisation daté du 4 juillet 1997, le Ministre a refusé à l'appelante la somme de 3 244 $ qu'elle avait déduite à titre de crédit dans le calcul de son impôt payable pour l'année d'imposition 1993, et dont 2 439,05 $ ont été répartis sur les années d'imposition 1991 à 1995 de la façon suivante :
+1991 53,83 $
+1992 538,96 $
+1993 453,08 $
+1994 657,34 $
+1995 735,84 $
+[3] L'appelant et l'appelante exploitaient une ferme située à Saint-Christophe-d'Arthabaska.
+[4] Au cours de l'année d'imposition 1993, l'appelant et l'appelante avaient fait l'acquisition d'un silo à grains et d'un silo à fourrage valant respectivement 15 228 $ et 25 376 $ ainsi que de matériaux de construction d'une valeur de 24 270 $ destinés à la construction d'un hangar à machinerie. La valeur totale de ces acquisitions s'élevait donc à 64 874 $.
+[5] L'appelant et l'appelante (les « appelants » ) ont chacun réclamé un crédit correspondant à 10 % de la moitié de l'investissement total.
+[6] Les appelants ont reporté une partie du crédit sur les années d'imposition 1991, 1992, 1994 et 1995.
+[7] Lors de l'audition, l'avocat de l'intimée a consenti à jugement relativement au crédit réclamé par les appelants à l'égard de l'acquisition du silo à grains au cours de l'année d'imposition 1993. Il a aussi reconnu que les appelants avaient droit au crédit pour une partie du coût d'acquisition du silo à fourrage, soit la partie ayant trait à l'équipement relié au silo décrit plus amplement sur la facture déposée sous la cote A-2 et dont le coût s'élevait à 11 219 $.
+[8] Le litige portait finalement sur le point suivant : est-ce que les matériaux pour la construction d'un hangar et le silo (exclusion faite de l'équipement y relié) constituent des biens admissibles de petite entreprise, au sens du paragraphe 127(9) de la Loi de l'impôt sur le revenu (la « Loi » ), qui donnent droit au crédit.
+[9] Les dispositions de la Loi et du Règlement de l'impôt sur le revenu (le « Règlement » ) qui s'appliquent au silo et aux matériaux de construction se lisent pour ce qui est de leurs parties pertinentes comme suit :
+La Loi
+Paragraphe 127(5)
+(5) Crédit d'impôt à l'investissement. Est déductible de l'impôt payable par ailleurs par un contribuable en vertu de la présente partie pour une année d'imposition un montant qui ne dépasse pas le moins élevé des montants suivants :
+a) le total des montants suivants :
+(i) le crédit d'impôt à l'investissement du contribuable à la fin de l'année au titre de biens acquis, ou de dépenses faites, avant la fin de l'année,
+[...]
+Paragraphe 127(9)
+(9) Idem. Les définitions qui suivent s'appliquent au présent article.
+[...]
+« bien admissible » - « bien admissible » Relativement à un contribuable, bien (à l'exclusion d'un bien d'un ouvrage approuvé et d'un bien certifié) qui est :
+a) soit un bâtiment visé par règlement, dans la mesure où le contribuable l'a acquis après le 23 juin 1975;
+b) soit une machine ou du matériel visés par règlement et que le contribuable a acquis après le 23 juin 1975,
+[...]
+« bien admissible de petite entreprise » - « bien admissible de petite entreprise » Bien, acquis par un contribuable qui était un contribuable admissible au moment de l'acquisition du bien, qui constituerait, sans le paragraphe (11.2), l'un des biens suivants :
+[...]
+b) du matériel de construction admissible du contribuable, à supposer qu'il ne soit pas tenu compte de l'alinéa b) de la définition de cette expression au présent paragraphe et que le passage « après le 19 avril 1983 et avant 1989 » dans cette définition soit remplacé par le passage « après le 2 décembre 1992 et avant 1994 » ;
+c) un bien admissible du contribuable, à supposer qu'il ne soit pas tenu compte des alinéas a) et d) de la définition de cette expression au présent paragraphe et que le passage « après le 23 juin 1975 » à l'alinéa b) de cette définition soit remplacé par le passage « après le 2 décembre 1992 et avant 1994 » ;
+[...]
+« crédit d'impôt à l'investissement » - « crédit d'impôt à l'investissement » Le crédit d'impôt à l'investissement d'un contribuable à la fin d'une année d'imposition correspond à l'excédent éventuel du total des montants suivants :
+a) l'ensemble des montants dont chacun représente le pourcentage déterminé :
+(i) soit du coût en capital pour le contribuable d'un bien admissible, d'un bien admissible de petite entreprise, d'un bien certifié, d'un bien d'un ouvrage approuvé, de matériel de construction admissible ou de matériel de transport admissible, que le contribuable a acquis au cours de l'année,
+[...]
+« matériel de construction admissible » - « matériel de construction admissible » Relativement à un contribuable, le matériel visé par règlement et qu'il a acquis après le 19 avril 1983 et avant 1989, qui, avant cette acquisition, n'a été utilisé à aucune fin ni acquis pour être utilisé ou loué à quelque fin que ce soit et :
+a) soit que le contribuable compte utiliser principalement en vue de la construction au Canada dans le cadre de l'exploitation d'une entreprise, à l'exclusion d'une entreprise dont le revenu :
+[...]
+« pourcentage déterminé » - « pourcentage déterminé » Le pourcentage déterminé correspond aux pourcentages suivants :
+a) dans le cas d'un bien admissible :
+[...]
+(vii) acquis pour être utilisé principalement au Canada - sauf s'il s'agit d'un bien visé au sous-alinéa (iii), (iv) [...]
+(D) après 1988, zéro;
+[...]
+i) dans le cas d'un bien admissible de petite entreprise, 10 %.
+[...]
+Paragraphe 127(11.2)
+(11.2) Moment de l'acquisition. Pour l'application des paragraphes (5), (7) et (8), de l'alinéa a) de la définition de « crédit d'impôt à l'investissement » au paragraphe (9) et de l'article 127.1, les biens suivants sont réputés ne pas avoir été acquis, et les dépenses suivantes, ne pas avoir été engagées, par un contribuable avant le moment, déterminé compte non tenu des alinéas 13(27)c) et (28)d), où les biens sont considérés comme devenus prêts à être mis en service par lui :
+a) un bien visé au sous-alinéa a)(i) de la définition de « crédit d'impôt à l'investissement » au paragraphe (9);
+[...]
+Le Règlement
+PARTIE XLVI
+Crédit d'impôt à l'investissement
+BIENS ADMISSIBLES
+4600. (1) Sont des bâtiments prescrits pour l'application de la définition de « bien admissible » , au paragraphe 127(9) de la Loi, les biens amortissables du contribuable qui sont des bâtiments ou silos construits sur un fonds de terre dont le contribuable est propriétaire ou preneur et qui sont :
+a) soit compris dans la catégorie 1, 3, 6, 20, 24 ou 27 ou à l'alinéa c), d) ou e) de la catégorie 8 de l'annexe II;
+[...]
+(2) Sont des machines prescrites ou constituent du matériel prescrit pour l'application de la définition de « bien admissible » , au paragraphe 127(9) de la Loi, les biens amortissables suivants du contribuable qui ne sont pas déjà visés au paragraphe (1) :
+[...]
+c) des biens compris dans la catégorie 8 de l'annexe II (à l'exclusion du matériel roulant de chemin de fer);
+[...]
+MATÉRIEL DE CONSTRUCTION ADMISSIBLE
+4603. Constituent du matériel prescrit pour l'application de la définition de « matériel de construction admissible » , au paragraphe 127(9) de la Loi, les biens amortissables suivants du contribuable qui ne sont ni des biens admissibles ni du matériel de transport admissible au sens de ce paragraphe :
+a) un bien compris dans la catégorie 22 ou 38 de l'annexe II;
+b) une grue;
+c) une sonnette;
+d) une drague.
+[...]
+ANNEXE II
+Déductions pour amortissement
+CATÉGORIE I
+(4 pour cent)
+Les biens non compris dans aucune autre catégorie constitués par
+[...]
+q) un bâtiment ou une autre structure, ou toute partie de ceux-ci, y compris les parties constituantes, notamment les fils électriques, la plomberie, les réseaux d'extincteurs automatiques, le matériel de climatisation, les appareils de chauffage, les appareils d'éclairage, les ascenseurs et les escaliers roulants.
+[...]
+CATÉGORIE 8
+(20 pour cent)
+Les biens non compris dans la catégorie 2, 7, 9, 11 ou 30 qui sont constitués par :
+[...]
+d) un bâtiment ou une autre structure, acquis après le 19 février 1973, qui est conçu pour préserver le fourrage ensilé dans une ferme;
+[...]
+i) une immobilisation matérielle qui n'est pas comprise dans une autre catégorie de la présente annexe à l'exception
+[...]
+CATÉGORIE 22
+(50 pour cent)
+Les biens qui sont du matériel mobile à moteur conçu pour l'excavation, le déplacement, la mise en place ou le compactage de terre, de pierre, de béton ou d'asphalte - à l'exception des biens compris dans la catégorie 7 - acquis par le contribuable après le 16 mars 1964 et :
+[...]
+CATÉGORIE 38
+Les biens non compris dans la catégorie 22 mais qui seraient compris par ailleurs dans cette catégorie s'il était fait abstraction de ses alinéas a) et b).
+[10] À mon avis, pour les motifs suivants, les appelants ne peuvent pas déduire, dans le calcul de leur impôt payable en vertu de la partie 1 de la Loi, un crédit relatif au silo à fourrage (exclusion faite de l'équipement y relié).
+(i) le silo est un bien visé à l'alinéa d) de la catégorie 8 de l'annexe II du Règlement, étant un bâtiment ou autre structure qui est conçu pour préserver le fourrage ensilé dans une ferme;
+(ii) en vertu de l'alinéa 4600(1)a) du Règlement, les biens visés à l'alinéa d) de la catégorie 8 de l'annexe II du Règlement sont des bâtiments prescrits;
+(iii) un bâtiment prescrit constitue un « bien admissible » au sens de l'alinéa a) de la définition de cette expression apparaissant au paragraphe 127(9) de la Loi;
+(iv) un « bien admissible » au sens de l'alinéa a) de la définition de cette expression apparaissant au paragraphe 127(9) de la Loi n'est pas un « bien admissible de petite entreprise » au sens de l'alinéa c) de la définition de cette expression apparaissant au paragraphe 127(9) de la Loi, car cet alinéa exclut expressément les biens qui sont des « biens admissibles » selon l'alinéa a) de la définition de cette expression;
+(v) en vertu du sous-alinéa a)(i) de la définition de « crédit d'impôt à l'investissement » apparaissant au paragraphe 127(9) de la Loi, est inclus dans le « crédit d'impôt à l'investissement » le « pourcentage déterminé » du coût en capital d'un « bien admissible » qu'un contribuable a acquis au cours d'une année d'imposition;
+(vi) le « pourcentage déterminé » dans le cas d'un « bien admissible » acquis après 1988 et devant être utilisé principalement au Canada, mais non dans les provinces maritimes, dans la péninsule de Gaspé ou dans une zone extracôtière visée par règlement, est zéro, conformément à la division a)(vii)(D) de la définition de l'expression « pourcentage déterminé » figurant au paragraphe 127(9) de la Loi;
+(vii) en vertu du sous-alinéa 127(5)a)(i) de la Loi, le crédit d'impôt à l'investissement d'un contribuable à la fin d'une année d'imposition est déductible dans le calcul de son impôt payable en vertu de la partie I de la Loi.
+[11] Pour les motifs suivants, je suis d'opinion que les appelants ne peuvent déduire, dans le calcul de leur impôt payable en vertu de la partie I de la Loi, un crédit relatif aux matériaux pour la construction d'un hangar à machinerie d'une valeur de 24 270 $.
+(i) le hangar à machinerie est un bien visé à l'alinéa q) de la catégorie 1 de l'annexe II du Règlement, étant un bâtiment ou une autre structure, ou une partie de ceux-ci, y compris les parties constituantes;
+(ii) en vertu de l'alinéa 4600(1)a) du Règlement, les biens compris dans la catégorie 1 de l'annexe II du Règlement sont des bâtiments prescrits;
+(iii) un bâtiment prescrit constitue un « bien admissible « au sens de l'alinéa a) de la définition de cette expression apparaissant au paragraphe 127(9) de la Loi;
+(iv) un « bien admissible » au sens de l'alinéa a) de la définition de cette expression apparaissant au paragraphe 127(9) de la Loi n'est pas un « bien admissible de petite entreprise » au sens de l'alinéa c) de la définition de cette expression apparaissant au paragraphe 127(9) de la Loi, car cet alinéa exclut expressément les biens qui sont des « biens admissibles » selon l'alinéa a) de la définition de cette expression;
+(v) en vertu du sous-alinéa a)(i) de la définition de « crédit d'impôt à l'investissement » apparaissant au paragraphe 127(9) de la Loi, est inclus dans le « crédit d'impôt à l'investissement » le « pourcentage déterminé » du coût en capital d'un « bien admissible » qu'un contribuable a acquis au cours d'une année d'imposition;
+(vi) le « pourcentage déterminé » dans le cas d'un « bien admissible » acquis après 1988 et devant être utilisé principalement au Canada, mais non dans les provinces maritimes, dans la péninsule de Gaspé ou dans une zone extracôtière visée par règlement est zéro, conformément à la division a)(vii)(D) de la définition de l'expression « pourcentage déterminé » figurant au paragraphe 127(9) de la Loi;
+(vii) en vertu du sous-alinéa 127(5)a)(i) de la Loi, le « crédit d'impôt à l'investissement » d'un contribuable à la fin d'une année d'imposition est déductible dans le calcul de son impôt payable en vertu de la partie I de la Loi;
+(viii) les matériaux pour la construction du hangar à machinerie ne constituent pas du « matériel de construction admissible » au sens du sous-alinéa a)(i) de la définition de « crédit d'impôt à l'investissement » apparaissant au paragraphe 127(9) de la Loi ou au sens de l'alinéa b) de la définition de « bien admissible de petite entreprise » au paragraphe 127(9) de la Loi;
+(ix) en vertu de l'alinéa a) de la définition de « matériel de construction admissible » apparaissant au paragraphe 127(9) de la Loi, le « matériel de construction admissible » est le matériel visé par règlement utilisé principalement en vue de la construction au Canada dans le cadre de l'exploitation d'une entreprise;
+(x) en vertu de l'article 4603 du Règlement, constitue du matériel prescrit un bien compris dans les catégories 22 ou 38 de l'annexe II du Règlement, à savoir du matériel mobile à moteur conçu pour l'excavation, le déplacement, la mise en place ou le compactage de terre, de pierre, de béton ou d'asphalte, ainsi qu'une grue, une sonnette ou une drague;
+(xi) les matériaux pour la construction du hangar à machinerie ne peuvent constituer un « bien admissible » ou un « bien admissible de petite entreprise » au sens de la définition de ces expressions apparaissant au paragraphe 127(9) de la Loi, car ces matériaux entrent dans le coût en capital du hangar à machinerie à titre de partie constituante d'un bâtiment ou d'une autre structure visé à l'alinéa q) de la catégorie 1 de l'annexe II du Règlement.
+[12] Pour ces motifs, les appelants ne peuvent réclamer le crédit ni à l'égard du coût d'acquisition des matériaux pour la construction d'un hangar ni à l'égard du coût d'acquisition du silo à fourrage (exclusion faite de l'équipementy reliés).
+[13] Puisque l'avocat de l'intimée, lors de l'audition, a consenti à jugement relativement au crédit réclamé par les appelants à l'égard de l'acquisition du silo à grains et à l'égard de l'équipement relié au silo à fourrage, les appelants sont chacun en droit de réclamer le crédit relativement à une somme de 13 223,50 $, représentant la moitié du coût d'acquisition du silo à grains et la moitié du coût d'acquisition de l'équipement relié au silo à fourrage.
+Signé à Ottawa, Canada, ce 13e jour de janvier 2004.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE :
+2003CCI797
+No DU DOSSIER DE LA COUR :
+2002-4476(IT)I et 2002-4477(IT)I
+INTITULÉ DE LA CAUSE :
+Guy Levasseur et Sa Majesté la Reine et Gaétane Moreau et Sa Majesté la Reine.
+LIEU DE L'AUDIENCE :
+Shawinigan (Québec)
+DATE DE L'AUDIENCE :
+Le 23 octobre 2003
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Paul Bédard
+DATE DU JUGEMENT :
+le 13 janvier 2004
+COMPARUTIONS :
+Pour les appelants :
+Pierrette Carrier (représentante)
+Pour l'intimée :
+Me Philippe Dupuis
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour les appelants :
+Nom :
+Étude :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

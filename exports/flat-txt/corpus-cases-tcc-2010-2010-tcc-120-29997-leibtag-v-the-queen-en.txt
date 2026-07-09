@@ -1,0 +1,117 @@
+Title: Leibtag v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29997/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-120-29997-leibtag-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-03-02
+
+# Leibtag v. The Queen
+
+- Citation: 2010 TCC 120
+- Decision date: 2010-03-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7841, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Leibtag v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-03-02
+Neutral citation
+2010 TCC 120
+File numbers
+2007-2759(IT)G
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+CITATION: 2010 TCC 120
+2007-2759(IT)G
+BETWEEN:
+HESTY LEIBTAG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+EDITED VERSION OF TRANSCRIPT
+OF REASONS FOR ORDER
+Let the attached edited transcript of the Reasons for Order delivered orally from the Bench at
+Toronto ,
+Ontario
+, on February 22, 2010, be filed. I have edited the transcript (certified by the Court Reporter) for style, clarity and to make minor corrections only. I did not make any substantive change.
+Signed at
+Ottawa ,
+Canada
+, this 2nd day of March 2010.
+"Patrick Boyle"
+Boyle J.
+Citation: 2010 TCC 120
+Date: 20100302
+Docket: 2007-2759(IT)G
+BETWEEN:
+HESTY LEIBTAG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+EDITED VERSION OF TRANSCRIPT
+OF REASONS FOR ORDER
+[delivered orally from the Bench at
+Toronto ,
+Ontario
+, on February 22, 2010]
+Boyle J.
+[1] These are my reasons on the respondent’s motion for an order under rule 37 for substituted service of a subpoena for Mr. Terry Verk, the appellant’s husband. The trial is scheduled for three days next week. Mr. Verk is on the appellant’s witness list. The respondent sought to serve him with a subpoena to ensure the Court would hear his testimony.
+[2] The respondent arranged to have Mr. Verk served at what it believed was his residence address. This address was on a September 2008 letter from appellant’s counsel to Mr. Verk provided to the respondent in response to an undertaking. It appears that no attempt was made to confirm this address continued to be his residence address. The process server found the residence was under substantial renovations, having been “gutted” and with workers on site.
+[3] The respondent next arranged to have Mr. Verk served at his place of business earlier this month. The address is a good one for a company controlled by and named after Mr. Verk. It has business premises and employees at the address. Mr. Verk does work from there including on at least one of the three consecutive days that the process server attempted service, although he was gone when the process server arrived a half‑hour after confirming he was there. The next day the process server was advised Mr. Verk had not come in and would now be out of town for two weeks.
+[4] Rule 37 requires that for this motion to succeed I must be satisfied that personal service of Mr. Verk is impractical. Substituted service is not simply an alternative to delay, expense, inconvenience or difficulty in locating a party and the moving party is expected to show it is unable to reasonably serve the witness personally. See Laframboise v. Woodward, 59 O.R. (3d) 338, in the
+Ontario Superior Court of Justice.
+[5] This is not, however, a case of needing to locate witnesses’ whereabouts. The Crown has a good and valid business address for Mr. Verk that should reasonably have allowed for personal service. However, it did not, notwithstanding several attempts to contact him and to serve him there over three consecutive days this month. I am satisfied that the Crown has made reasonable attempts to locate him in order to serve him.
+[6] I am satisfied that if substituted service is ordered to be made via service on the appellant’s solicitor and by personal delivery left during business hours at Mr. Verk’s business address, Mr. Verk will be made aware of the subpoena and have access to it in a timely manner.
+[7] Mr. Verk is the appellant’s husband. Appellant’s counsel has spoken with him and corresponded with him. He is aware of his wife’s pending trial. He advised her with respect to the investments to which it relates. He is on the appellant’s list of witnesses. He works at least at times from his office at his business address.
+[8] Substituted service in this manner reasonably ensures he will promptly receive the subpoena in good time for the trial. It does not inconvenience or place any burden or onus on the appellant’s law firm. I am not ordering the law firm to effect service.
+[9] I am allowing the respondent’s motion and authorizing substituted service of Mr. Verk’s subpoena to be served by serving appellant’s counsel with a copy and by having a copy delivered during business hours to Mr. Verk’s business address. Service will thereupon be effective.
+[10] With respect to costs, appellant’s counsel had offered in writing to consent to the respondent’s motion provided the respondent paid costs at the Tariff rate of $525. The Crown refused in order to seek costs in the cause. That is, but for $525 today’s motion would have been unnecessary.
+[11] In the context of a significant‑sized general procedure appeal scheduled for several days which has had discoveries and productions, I am prepared to order costs in any event against the Crown at an amount in excess of Tariff for a number of reasons: I was not given an explanation to the question I asked several times as to why the respondent’s counsel did not, before attempting service much less bringing the motion, pick up the phone to confirm Mr. Verk’s whereabouts, his proper and current home address, and whether he would be willing to accept service of the subpoena. No reason was given why the process server never seems to have tried to schedule service, indicate he had process to serve, or leave a business card or other message for Mr. Verk at his place of business. All of these may have contributed to, and the respondent’s refusal to accept appellant’s counsel’s offer to consent to the motion has necessitated, today’s motion which has taken up most of a day. In these circumstances I am fixing costs payable by the Crown in any event of the cause at $1,500.
+[12] This matter is adjourned. Thank you, Ms. Bruce. Thank you, Ms. Somerville Taylor.
+Signed at
+Ottawa ,
+Canada
+, this 2nd day of March 2010.
+"Patrick Boyle"
+Boyle J.
+CITATION: 2010 TCC 120
+COURT FILE NO.: 2007-2759(IT)G
+STYLE OF CAUSE: HESTY LEIBTAG v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto ,
+Ontario
+DATE OF HEARING: February 22, 2010
+REASONS FOR ORDER BY: The Honourable Justice Patrick Boyle
+DATE OF ORDER: March 2, 2010
+APPEARANCES:
+Counsel for the appellant:
+Leigh Somerville Taylor
+Counsel for the respondent:
+Suzanne M. Bruce
+ALSO PRESENT:
+Court Registrar:
+D. W. Burtnick
+Court Reporter:
+Catherine Keenan
+COUNSEL OF RECORD:
+For the appellant:
+Name: Leigh Somerville Taylor
+Firm: Richler & Tari
+Toronto ,
+Ontario
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of
+Canada
+Ottawa ,
+Canada

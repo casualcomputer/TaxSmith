@@ -1,0 +1,381 @@
+---
+title: "Biscuiterie Dominic Inc. v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521302/index.do"
+last_modified: "2024-07-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2024 TCC 97"
+citation2: ""
+neutral_citation: "2024 TCC 97"
+decision_date: "2024-07-16"
+language: "en"
+item_id: "521302"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5714
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2025-05-19T11:36:48.357000+00:00"
+cases_cited_count: 10
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e0e99f86aa4e85464bc359728a34605af4e7450c08ea75a7be8dccfce915ada8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Biscuiterie Dominic Inc. v. The King
+
+- Citation: 2024 TCC 97
+- Decision date: 2024-07-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5714, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Biscuiterie Dominic Inc. v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2024-07-16
+Neutral citation
+2024 TCC 97
+File numbers
+2020-1452(IT)I, 2020-1453(IT)I, 2021-467(IT)I, 2021-468(IT)I
+Judges and Taxing Officers
+Jean Marc Gagnon
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2020-1452(IT)I
+BETWEEN:
+BISCUITERIE DOMINIC INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on April 15, 16 and 17, 2024, at Montreal, Quebec
+Before: The Honourable Justice Jean Marc Gagnon
+Appearances:
+For the appellant:
+Yves Hamelin
+Counsel for the respondent:
+Caroline Berthelet
+Bianca Morello (articled student)
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal of the notice of assessment dated September 12, 2018, for the appellant’s 2017 taxation year is dismissed, without costs.
+Signed at Montreal, Quebec, this 16th day of July 2024.
+“J. M. Gagnon”
+Gagnon J.
+Docket: 2020-1453(IT)I
+BETWEEN:
+LA PETITE BRETONNE INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on April 15, 16 and 17, 2024, at Montreal, Quebec
+Before: The Honourable Justice Jean Marc Gagnon
+Appearances:
+For the appellant:
+Yves Hamelin
+Counsel for the respondent:
+Caroline Berthelet
+Bianca Morello (articled student)
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal of the notice of assessment dated September 13, 2018, for the appellant’s 2017 taxation year is dismissed, without costs.
+Signed at Montreal, Quebec, this 16th day of July 2024.
+“J. M. Gagnon”
+Gagnon J.
+Docket: 2021-467(IT)I
+BETWEEN:
+BISCUITERIE DOMINIC INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on April 15, 16 and 17, 2024, at Montreal, Quebec
+Before: The Honourable Justice Jean Marc Gagnon
+Appearances:
+For the appellant:
+Yves Hamelin
+Counsel for the respondent:
+Caroline Berthelet
+Bianca Morello (articled student)
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal of the notice of reassessment dated September 26, 2019, for the appellant’s 2018 taxation year is dismissed, without costs.
+Signed at Montreal, Quebec, this 16th day of July 2024.
+“J. M. Gagnon”
+Gagnon J.
+Docket: 2021-468(IT)I
+BETWEEN:
+LA PETITE BRETONNE INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on April 15, 16 and 17, 2024, at Montreal, Quebec
+Before: The Honourable Justice Jean Marc Gagnon
+Appearances:
+For the appellant:
+Yves Hamelin
+Counsel for the respondent:
+Caroline Berthelet
+Bianca Morello (articled student)
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal of the notice of reassessment dated September 25, 2019, for the appellant’s 2018 taxation year is dismissed, without costs.
+Signed at Montreal, Quebec, this 16th day of July 2024.
+“J. M. Gagnon”
+Gagnon J.
+Citation: 2024CCI97
+Date: 20240716
+Docket: 2020-1452(IT)I
+BETWEEN:
+BISCUITERIE DOMINIC INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent;
+Docket: 2020-1453(IT)I
+BETWEEN:
+LA PETITE BRETONNE INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent;
+Docket: 2021-467(IT)I
+BETWEEN:
+BISCUITERIE DOMINIC INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent;
+Docket: 2021-468(IT)I
+BETWEEN:
+LA PETITE BRETONNE INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent,
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Gagnon J.
+I. Background
+[1] The appellant corporations proceeded on an informal basis under common evidence with respect to two appeals for each of their taxation years 2017 and 2018. Thus, there are a total of four appeals from the appellants covering two taxation years for each appellant. Each appeal concerns a separate notice of assessment or notice of reassessment. The parties filed a joint book of exhibits, but separate appellant's books.
+[2] Biscuiterie Dominic inc. (Biscuiterie Dominic) and La Petite Bretonne inc. (Petite Bretonne) are related corporations that belong to the same group. For the projects at issue, the appellants often collaborated to achieve the objectives of the projects presented.
+[3] The Minister of National Revenue (Minister) refused several projects presented by the appellants as eligible projects, for expenditures for scientific research and experimental development (SR&ED) activities within the meaning of subsection 248(1) ITA.[1] The Minister also refused the corresponding investment tax credit (ITC) claimed by the appellants. The four appeals stem from these decisions.
+[4] In total, the appeals address six projects:
+In 2017, Petite Bretonne undertook a project to replace sodium propionate (or propanoate) with fermented yeast (2017 Yeast Project);
+In 2017, Biscuiterie Dominic and Petite Bretonne undertook a collaborative project to develop a cookie containing quinoa (2017 Quinoa Project);
+In 2018, Petite Bretonne undertook a project to improve the shelf life of their chocolate buns and the texture of the product during this shelf life (2018 Chocolate Bun Project);
+In 2018, Petite Bretonne undertook a project to develop a product with a content that was at least 10% raisin (2018 Raisin Project);
+In 2018, Petite Bretonne undertook a project to eliminate sodium propionate and improve the shelf life of their micro croissant product (2018 Croissant Project); and
+In 2018, Biscuiterie Dominic and Petite Bretonne undertook a collaborative project to eliminate sodium propionate from their madeleine product (2018 Madeleine Project).
+II. Issue
+[5] The issue is whether, with respect to each of the projects listed in subsection 4 above, the activities performed constituted SR&ED activities within the meaning of the definition set out in subsection 248(1) ITA, and more specifically whether there was a technological risk or uncertainty that could not be removed by routine engineering or standard procedures.[2] The amounts related to and claimed for salaries and materials, including the choice of the proxy method for the purposes of the ITC, under each project are not at issue.
+[6] If, in the case of a project, the Court concludes favourably that there is a technological risk or uncertainty that could not be removed by routine engineering or standard procedures, the appeal relating to the project must be allowed and the parties agree that the expenditures related to this project are deductible under paragraph 37(1)(a) ITA and eligible for the purposes of computing the ITC under subsection 127(5) ITA. On the contrary, if the Court concludes in the negative, then the appeal related to this project must be denied.
+[7] It was agreed by the parties that an appeal or appeals filed by Petite Bretonne for the year or years in question in these appeals is or are subject to the limitations of the informal procedure in the Tax Court of Canada Act.[3] Accordingly, if appellant is successful in relation to the year or years in question, the results of the appeal for this or these year(s), if applicable, will be subject to these limitations.
+III. Positions of the parties
+[8] The respondent submits that the projects conducted do not qualify as SR&ED activities since there was no technological uncertainty. The respondent is of the opinion that the appellants increased their own knowledge, but they did not increase knowledge in the domain of food science. The technology was known, and it worked. The projects simply improved the knowledge of the appellants, but this does not demonstrate a technological uncertainty within the meaning of SR&ED. The creation of a new product necessarily involves an uncertainty, but this uncertainty is not necessarily a technological uncertainty.
+[9] The appellants submit that the projects conducted qualify as SR&ED activities. The activities composing each project are known, but, if we look at the project as a whole, there is a technological uncertainty that the project intended to resolve. It is an error to look at each activity composing a project individually instead of looking at the project globally to find the technological uncertainty.
+[10] According to the appellants, the work conducted in the context of these projects allowed them to gain new technological knowledge, achieve various technological advancements and consequently increase the appellants’ knowledge. The technological advancement comes from processes that were greatly improved or that did not exist in a commercial context before the appellants developed them.
+[11] The appellants add that the RTA is confusing the project eligibility criteria for SR&ED with eligible expenditures.
+[12] The appellants also emphasize that there are limits to the knowledge related to the properties of the finished product with a limited shelf life obtained by interactions between the elements from which it is composed and limits related to the manufacturing process. Consequently, it becomes essential to apply a process of experimental development to go beyond the limits of what is known and obtain products with properties beyond what is actually considered achievable in the industry.
+IV. Summary of testimony
+[13] Two witnesses were heard. Marie-Ève Jacques on behalf of the appellants and Catherine Avezard on behalf of the respondent.
+i)Marie-Ève Jacques
+[14] Ms. Jacques is the continuous improvement, research and development manager at Petite Bretonne. Ms. Jacques has completed a technical diploma in dietetics and certificate in food sciences and technology. Ms. Jacques has approximately 20 years of experience in the food industry and has worked for Petite Bretonne for over 10 years.
+[15] She is responsible for everything related to the products. This includes the recipe, regulations, production, packaging, standards of quality, etc. Although her office is situated at Petite Bretonne, she regularly works on site at Biscuiterie Dominic approximately once a week to help with new projects and help with manufacturing processes.
+[16] According to the evidence provided by Ms. Jacques, Petite Bretonne and Biscuiterie Dominic employ approximately 125 and 60 people respectively. Petite Bretonne has the largest micro croissant factory in North America. Petite Bretonne handles the administrative aspect and Biscuiterie Dominic is more of a manufacturing plant. The two appellants work in collaboration for certain projects. The appellants have about 10 recipes, which include micro croissants, chocolate buns, molasses cookies, madeleines and danishes. The products manufactured are marketed under different formats and different types of packaging. For the years at issue, Biscuiterie Dominic has no formal laboratory. The participation of Biscuiterie Dominic in the projects at issue is instead limited to production batch tests.
+[17] Ms. Jacques explained the appellants’ objectives related to product development. At the beginning of the year, objectives are created for the development or improvement of products. Sometimes, these objectives stem from requests from the clients for whom the products are manufactured. The objectives can also be regulatory or come from internal sources.
+[18] Ms. Jacques explained that when a problem presents itself, the appellants’ research process involves web research and requests made directly to suppliers for ideas, opinions and advice. This Court understands that these requests to suppliers are supported by the fact that the suppliers are the ones who supply the appellants with their own products. They are therefore at the front lines to inform and guide the appellants in terms of the reactions their products could cause or the attributes of the products. This Court finds that the suppliers have employees with advanced training that as a general rule allows them to master and understand the components and reactions of the products sold. Ms. Jacques did not keep notes on the research she conducted for the projects at issue.
+a)2017 Yeast Project (Petite Bretonne)
+[19] The first project Ms. Jacques described in detail was the 2017 Yeast Project conducted by Petite Bretonne. This was a project using dry active yeast rehydrated with water. Previously, Petite Bretonne had used fresh yeast in its production processes.
+[20] The first internal discussions about the project were in 2014 and tests began during the 2017 tax year, from June 1, 2016, to May 31, 2017.
+[21] The objective of this project was to decrease the amount of additives and chemical products and replace them with more natural products, while increasing the shelf life of the final product, the mini croissant. According to Ms. Jacques, these two objectives are often difficult to obtain at the same time. Moreover, the new final product had to have the same reception from the consumer as the initial product. The consumer should not be able to detect changes in the taste or texture.
+[22] The appellants worked with their supplier Lallemand to improve the shelf life of their croissant product by replacing the sodium propionate with fermented yeast. At this time, sodium propionate was the mould inhibitor and preservative in the product. Sodium propionate is a less [translation] “clean” ingredient, which is undesirable to consumers.
+[23] Lallemand suggested a product and process where fermented yeast is sprayed directly onto the croissants as closely as possible to the time established for packaging on the production line. This recommendation launched the 2017 Yeast Project. Lallemand was already working with other manufacturers to implement yeast spray. A contract was made with Lallemand in which Lallemand lent the appellants material and equipment for them to be able to test the yeast spraying method.
+[24] The project required planning in regard to the production line. The team had to determine, for example, whether new equipment would be required, whether shutdowns of the production line would be necessary or whether they would need to do additional cleaning of the line, etc.
+[25] Lallemand did not know how the yeast spray would function on products with flaky pastry such as croissants. Previously, yeast spray had only been tested on breads and not on flaky pastry. Flaky pastries are distinct as they go through a process of lamination where a layer of fat is applied before the dough is folded several times. A contract was signed with Lallemand for equipment including a spraying system, units, gallons and an automatic mixer.
+[26] Initially, the results of the tests conducted in the laboratory at a smaller scale were interesting. However, the challenge remained how to integrate the process into the production line, without an installation that would lead to significant costs or too significant a change to the existing production line.
+[27] During the 10 successive tests on the production line (the 10th test was accepted by the Canada Revenue Agency (CRA) due to the nature of the changes introduced to the ingredient by the appellants), the appellants encountered several difficulties since the spraying process was incompatible with the production line and operations. The croissants are not placed on the conveyor in a consistent manner. Thus, there is a difficulty where a consistent quantity of yeast is not applied on each croissant. Furthermore, it was difficult to determine where on the line the spraying should be done. The spraying of yeast had to be done as close to packaging as possible. The yeast spray made the production line dirtier and required a greater frequency of cleaning. The yeast also gave off a strong and unpleasant odour in the packaging section, which led to complaints from the employees. The use of yeast also led to the presence of small fruit flies in the packaging section.
+[28] An external spraying system provider was contacted to determine what type of system could facilitate operations. The appellants therefore had a [translation] “magic eye” installed so that the spraying system only activated when the system detected croissants. Better tubes and better spraying systems were also added.
+[29] Several different concentrations of yeast were tested. The shelf lives were tested to record results and compare them to the established objectives for the product. The products manufactured during the tests could not be sold since in certain instances mould was present and the products contained additional ingredients that were not stated on the list of ingredients on the packaging used at this time.
+[30] Although the product achieved the objectives, Ms. Jacques acknowledged that it was known that applying fermented yeast in this manner generally functioned as a preservative and it was realistic that this would function for the appellants. However, the method for applying yeast was beyond the appellants’ knowledge.
+[31] Petite Bretonne resigned itself to abandoning the 2017 Yeast Project since the integration of the yeast spraying method resulted in too many problems and additional costs to the operation methods and equipment used at Petite Bretonne. Thus, it was mainly integration to the production line that failed and would have required investment and changes that were too significant for the business.
+b)2017 Quinoa Projet (Biscuiterie Dominic/Petite Bretonne)
+[32] The second project described by Ms. Jacques was the 2017 Quinoa Project. This project was undertaken by Biscuiterie Dominic in collaboration with Petite Bretonne. This project intended to develop a cookie that contained quinoa. There was an opportunity to respond to market demands since there were not many quinoa products on the market in 2016. The initial project request was to produce an oat, chocolate and quinoa cookie adapted from the oat cookie base already produced by Biscuiterie Dominic. The commercial project to produce this biscuit was very interesting and the expectations were high, but the production deadlines were very short. Biscuiterie Dominic had no knowledge of quinoa as an ingredient. In fact, prior to this the business had not had the opportunity to add this ingredient to its list.
+[33] The recipe for cookies containing quinoa was developed fairly easily. However, assessments demonstrated that the new quinoa cookie dried out quickly. This was a new problem that was not present in the other cookies offered by Biscuiterie Dominic. Biscuiterie Dominic only noticed this problem after the quinoa cookie had been marketed.
+[34] Biscuiterie Dominic therefore undertook the 2017 Quinoa Project to produce a softer cookie with a similar shelf life to the products it already offered. At the same time, Biscuiterie Dominic wanted to improve its product development and marketing processes to avoid products that fail to meet its quality standards going to market. However, Ms. Jacques emphasized that the objective remained that they did not want to have to change the nutrition facts table.
+[35] Biscuiterie Dominic formulated several hypotheses to achieve its objectives. For example, the team tried to add more water to the dough. However, there was a limit to the amount of water that could be added to avoid the dough becoming too sticky for the equipment used. Another hypothesis tested was soaking the quinoa before adding it to the dough to reduce the amount of humidity absorbed by the quinoa. Different types of packaging, changes in the content of certain other ingredients and changes to cooking parameters were also tested.
+[36] Ms. Jacques explained that this project allowed the appellants to develop new knowledge on the humidity absorption of certain ingredients. However, in the cross-examination, Ms. Jacques accepted that there were probably articles on quinoa that would explain how quinoa reacted in water, and that the project was focused on the appellants’ lack of knowledge in regard to quinoa and the development of the appellants’ knowledge of how quinoa interacted in their cookie recipe.
+[37] Ultimately, the appellants achieved their objective. Although the cookie absorbed more humidity, the cookie remained moist. The combination of the ingredients, including Nulomoline, more water and the addition of cookie improver, two additives already known to the appellants that may have already been present in certain products, enabled Biscuiterie Dominic to achieve their objective.
+[38] Ms. Jacques stated that since 2017/2018, the appellants have made significant improvements with respect to measuring equipment in the laboratory. She stated that in 2017/2018, the appellants did not really have laboratory equipment. They proceeded by taste, by texture They did not calculate scientific data to help them.
+c)2018 Chocolate Bun Project (Petite Bretonne)
+[39] The 2018 Chocolate Bun Project was developed as a result of a problem related to the fact that the texture of chocolate buns deteriorated more quickly than that of croissants, even though both are made with the same dough. Petite Bretonne wanted to understand why their croissant remained moist up to 21 days while their chocolate bun dried out after five and seven days.
+[40] Petite Bretonne therefore tested the following techniques, among others, to attempt to resolve this problem: using other types of chocolate, adding enzymes, making changes to the packaging, changing the type and quantity of fat used for lamination, changing the cooling time between baking and packaging, and changing the duration and temperature of baking.
+[41] Petite Bretonne consulted its suppliers, including, for example, a chocolate supplier and an enzyme supplier to correct the problem. The enzyme supplier produced a technical sheet to accompany the enzyme product. This sheet indicated a suggested enzyme quantity but explained that each client would need to determine the right percentage for their products.
+[42] Petite Bretonne achieved its objective. The final result allowed Petite Bretonne to improve the texture of the chocolate bun by reducing the quantity of oil and increasing the amount of water to the maximum amount possible. Tests were also carried out the following year as enzymes were added to the product. Having increased the moisture, Petite Bretonne also decided to add equipment to calculate the percentage of moisture in its product. Petite Bretonne was also able to conclude that the chocolate was the reason for the loss in moisture. The knowledge acquired from this project also made it possible for Petite Bretonne to improve its croissant and danish recipes.
+d)2018 Raisin Project (Petite Bretonne)
+[43] The 2018 Raisin Project was known at Petite Bretonne as the homogenization of cinnamon raisin croissants project. Petite Bretonne started this project following a request from the Sun-Maid corporation, which wanted to develop a product featuring its raisins. Accordingly, Petite Bretonne wanted to develop a pastry product with raisins that could be made on the chocolate bun line without modifying its production operations. The final product had to contain at least 10 percent Sun-Maid raisins in order to be sold under the Sun-Maid brand.
+[44] This project also aimed to enable Petite Bretonne to use and profit from its chocolate bun production line without changing the production processes and equipment used on the line. Petite Bretonne’s chocolate bun production line had been operating at half capacity only.
+[45] Petite Bretonne had never introduced raisins into this facility on this line. The team had to identify how to add the raisins; for example, whether the raisins could be introduced directly into the dough or whether a liquid mixture of crushed raisins could be added. At the same time, the appellant wanted to create a product with the shortest possible list of ingredients and a shelf life of at least 21 days.
+[46] To meet its objectives, Petite Bretonne tried several strategies, which included working with a supplier to develop a custard (a creamy mixture) to apply the raisins and adapting a cinnamon filling recipe by adding raisins. Depending on the problems encountered, Petite Bretonne tried to overcome the challenges on its production line by adding cornstarch, using raisins with a higher moisture content, and adjusting and making certain modifications to the equipment to adapt the production process.
+[47] The final product was not completed during the 2018 tax year but was launched on the market in 2019. The knowledge developed as a result of this project has also been used in other products.
+e)2018 Croissant Project (Petite Bretonne)
+[48] Related to the 2017 Yeast Project, Petite Bretonne still wanted to [translation] “clean” up their list of ingredients while maintaining the shelf life. More specifically, Petite Bretonne wanted to remove sodium propionate from its recipes.
+[49] Removing sodium propionate reduced the shelf life to between five and seven days in contrast to the goal of maintaining the 21-day shelf life.
+[50] Research and discussions with the company’s suppliers steered the appellants toward adding fermented starch as a replacement for sodium propionate. A supplier suggested the starch and a concentration level on a trial basis but explained that the concentration would depend on several elements, depending on the given product. The supplier stated that several trials would perhaps have to be carried out in order to determine the proper concentration. This ingredient was effective but did not entirely succeed in producing a 21-day shelf life.
+[51] This project helped the appellants understand the different interactions between certain ingredients in puff pastries with fermented starch.
+f)2018 Madeleine Project (Biscuiterie Dominic/Petite Bretonne)
+[52] The 2018 Madeleine Project was developed following a request made by the sales and marketing department. Biscuiterie Dominic, in collaboration with Petite Bretonne, was trying to find an alternative to sodium propionate in its madeleine product because consumers do not look on sodium propionate favourably. Nonetheless, it had to retain a shelf life of at least 21 days.
+[53] After considering the lessons learned through the 2018 Croissant Project, Biscuiterie Dominic decided to try adding fermented wheat to the madeleines. The suppliers did not necessarily have any instructions or information to share about adding fermented wheat to a cake-style product.
+[54] Simply adding fermented wheat to the recipe did not make a product with the desired shelf life. The team tried combining fermented wheat with sodium propionate, which resulted in a shelf life of 37 days. This result made it possible to sell the madeleines in France, which was a new market for Biscuiterie Dominic.
+ii)Catherine Avezard
+[55] Ms. Avezard was the research and technology advisor (RTA) in charge of the file for the audit of the two appellants’ SR&ED activities relative to the 2017 tax year. The RTA who was involved for the 2018 tax year did not testify.
+[56] In terms of education and experience, Ms. Avezard completed studies in biochemistry and a master’s in industrial agri-food biology in France, and a master’s in food science and technology in Quebec. Ms. Avezard completed an internship in the food science and technology department at Université Laval. Next, Ms. Avezard worked for three years in a plant biology laboratory at Concordia University and for three years on biofilms at Université de Montréal. She then worked for 14 years at a food research and development centre in St. Hyacinthe, Quebec, where she worked, specifically, in the meat quality and transformation department. Following this experience, she was recruited by CRA to handle food transformation files. She worked at CRA for about 13 years. Her role at CRA was to assess SR&ED tax credit applications.
+[57] Ms. Avezard explained how CRA conducted SR&ED audits. The projects that are audited are those that present more risk of not qualifying for ITC. In the instant case, she testified on the audit of the two projects at issue for the 2017 tax year: the 2017 Yeast Project and the 2017 Quinoa Project.
+[58] Ms. Avezard explained her understanding of the process of the two projects. As part of their objectives, the appellants tried to make changes to the recipes they were using for their product. The products and ingredients they changed or added were known ingredients. The suppliers made suggestions about how to introduce the new ingredients. To meet their objectives, the appellants had to make changes to their operations. These changes involved strategies that are standard and well-known in the field.
+[59] According to Ms. Avezard, in the appellants’ case, it is never guaranteed that a new ingredient will work in any particular way. Normally, tests must be carried out to find out whether the new recipe will produce the desired results. The appellants used available food transformation techniques and examined the effects on the products. The results were not guaranteed. However, the ingredients used and the way that we try to obtain the product with the desired characteristics and the company’s constraints are well known.
+[60] The starting points in these projects were the specifications and methods suggested by the suppliers. Each test was a potential solution and, depending on the result, either a different approach was required, or the problems were resolved as they arose.
+[61] Ms. Avezard illustrated the appellants’ methods in the case of the ingredient Nulomoline, an ingredient used in the 2017 Quinoa Project. The functional property of Nulomine aims to improve the texture of cookies or baked products. According to her, it is normal and accessible for the company to use and try this ingredient in its formula for solving a texture issue. It is simply the application of the known functional properties of the ingredient.
+V. Analysis
+a)Provision
+[62] Subsection 248(1) of the ITA defines SR&ED as follows:
+systematic investigation or search that is carried out in a field of science or technology by means of experiment or analysis and that is
+(a) basic research, namely, work undertaken for the advancement of scientific knowledge without a specific practical application in view,
+(b) applied research, namely, work undertaken for the advancement of scientific knowledge with a specific practical application in view, or
+(c) experimental development, namely, work undertaken for the purpose of achieving technological advancement for the purpose of creating new, or improving existing, materials, devices, products or processes, including incremental improvements thereto,
+and, in applying this definition in respect of a taxpayer, includes
+(d) work undertaken by or on behalf of the taxpayer with respect to engineering, design, operations research, mathematical analysis, computer programming, data collection, testing or psychological research, where the work is commensurate with the needs, and directly in support, of work described in paragraph (a), (b), or (c) that is undertaken in Canada by or on behalf of the taxpayer,
+but does not include work with respect to
+(e) market research or sales promotion,
+(f) quality control or routine testing of materials, devices, products or processes,
+(g) research in the social sciences or the humanities,
+(h) prospecting, exploring or drilling for, or producing, minerals, petroleum or natural gas,
+(i) the commercial production of a new or improved material, device or product or the commercial use of a new or improved process,
+(j) style changes, or
+(k) routine data collection.
+b)Interpretation
+[63] There are five criteria that must be demonstrated for a project to qualify as SR&ED in the meaning of subsection 248(1) of the ITA. These criteria were established in the Northwest Hydraulic decision. These criteria were summarized in the CW Agencies[4] judgment of the Federal Court of Appeal and were repeated recently in the National R&D[5] decision, also from the Federal Court of Appeal. The criteria read as follows:
+Was there a technological risk or uncertainty which could not be removed by routine engineering or standard procedures?
+Did the person claiming to be doing SR&ED formulate hypotheses specifically aimed at reducing or eliminating that technological uncertainty?
+Did the procedure adopted accord with the total discipline of the scientific method including the formulation, testing and modification of hypotheses?
+Did the process result in a technological advancement?
+Was a detailed record of the hypotheses tested, and results kept as the work progressed?
+[64] The burden is on the appellants to demonstrate that their activities constituted SR&ED activities.[6]
+i)The first criterion: technological uncertainty
+[65] The only criterion at issue in these files is the first; therefore, the burden is on the appellants to establish that there was technological uncertainty. If there is found to have been technological uncertainty, the project qualifies as an SR&ED activity.
+[66] The comments made in paragraph 16 of Justice Bowman’s decision in Northwest Hydraulic are determinative for the purposes of analyzing the first criterion:
+(a) Implicit in the term "technical risk or uncertainty" in this context is the requirement that it be a type of uncertainty that cannot be removed by routine engineering or standard procedures. I am not talking about the fact that whenever a problem is identified there may be some doubt concerning the way in which it will be solved. If the resolution of the problem is reasonably predictable using standard procedure or routine engineering, there is no technological uncertainty as used in this context.
+(b) What is "routine engineering"? It is this question (as well as that relating to technological advancement) that appears to have divided the experts more than any other. Briefly it describes techniques, procedures and data that are generally accessible to competent professionals in the field.
+(Emphasis added)
+[67] Several decisions after Northwest Hydraulic have clarified what constitutes technological uncertainty. In Formadrain,[7] the Tax Court explains that “the lacking knowledge must really not exist in the base of scientific or technological knowledge, not simply be unknown to the claimant.” Put otherwise, it is stated in the Béton Mobile[8] decision, and repeated in the Chagnon[9] decision, that:
+. . . creating a new product using techniques, procedures and data that are generally accessible to competent professionals in the field is not SR&ED even if there is doubt concerning the way in which the objective will be achieved. In other words, the mere fact that a product does not exist does not necessarily support the inference that its development involves technological or scientific uncertainty (Flavor Net Inc. v. The Queen, 2017 TCC 179 (Flavor Net), paragraph 38).
+Moreover, in the Laforest Marketing[10] decision, the Tax Court explains as follows:
+In general, it is expert evidence submitted by both parties that helps the judge determine what constitutes a routine procedure or common technical study, by helping the judge grasp the technical data before analyzing it. In this case, the Appellant did not call any experts; therefore, it is difficult to determine whether the process is new to the industry. The mere fact that a product does not exist does not necessarily make it possible to claim that developing it involves technological uncertainty.
+(Emphasis added)
+ii)Technological uncertainty in the food sector
+[68] There are several decisions concerning the characterization of SR&ED activities affecting the food sector. In the R&D Pro-Innovation[11] ruling, the appellant had tried to develop “a chocolate spread with cream and maple syrup, cold-tempered, without artificial ingredients or added preservatives.” The following paragraphs from this decision are very relevant for the records on appeal:
+[34] In the case at bar, it goes without saying that the appellant has the burden of showing, based on the balance of probabilities, that the work it performed corresponded to SR&ED. To that end, it has to show that there was a technological risk or uncertainty that could not be removed by routine engineering or standard procedures.
+[35] The purpose of the project was to develop a pure cocoa butter spread with cream and maple syrup, with a 5‑3‑1 carbohydrate‑protein‑fat ratio, cold-tempered, demonstrating stable colour and texture and a shelf life of three months, without vacuum processing and artificial ingredients. The taste, texture and colour of the product had to be superior to the commercial spreads and the speciality spreads.
+[36] There is no doubt that the development of the spread could pose a number of difficulties, which was certainly the case here. There were preservation difficulties. Tempering or crystallization of the chocolate was unstable. The colour, texture and taste of the spread were also unstable and changed the day after it was jarred. Testing was required to try to find solutions to the problems.
+[37] I am of the view that, in developing the spread, the appellant formulated hypotheses designed to reduce or eliminate the uncertainty. I accept that the appellant conducted extensive testing to try to find solutions to these difficulties. The documents submitted to the Court show this. The testing, in my opinion, was methodical and systematic.
+[38] But the question is whether there was technological uncertainty. According to the case law, when uncertainties can be removed by standard procedures or routine engineering, the project does not qualify for SR&ED. Novelty or innovation in a product is not sufficient to illustrate technological advancement.
+[39] In the case at bar, the appellant wanted to develop a spread superior to commercial spreads and specialty spreads. It used as ingredients food products that are well known, such as cocoa butter, maple syrup, cream and other dairy products, carbohydrates and proteins. It modified the ingredients or their proportions in developing the spread. It then used the cold-tempering process, which is a known process, by changing the velocity, time and temperature of the tempering. It observed the results and collected data. The appellant’s work was centred on the use of existing manufacturing processes and existing materials in an attempt to improve its spread. The work involved routine engineering and standard procedures. Having considered all the evidence and the case law, I am not persuaded that the work in issue involved technological risk or uncertainty that could not be removed by standard procedures or routine engineering.
+[69] It is interesting to take note of paragraph 38 of the Flavor Net[12] decision, which supports the position adopted in R&D Pro-Innovation:
+[38] There is no doubt that the appellant was trying to develop a new product. There is always uncertainty in developing a new product. That said, not all new product development is faced with technological uncertainty. In developing its two-ounce beverage, the main issue that the appellant had was suspending the plant sterols, which are a fat-based substance, in a liquid. To resolve that issue, the appellant used a methodology and a technology that are well established in the food industry, namely high-shear mixing, mechanical pumping, by trying to heat the product at different temperatures and by utilizing emulsifiers that existed in the market.
+[39] The facts of the present appeal are virtually indistinguishable from those in R&D Pro-Innovation Inc., a recent decision of this Court, which has been affirmed by the Federal Court of Appeal. . . .
+[40] This conclusion applies with equal force in the present appeal.
+[70] Canafric[13] is a decision in which the activities at issue were characterized as SR&ED activities. According to the testimony and the evidence, the appellant succeeded in demonstrating to the Court that there existed technological uncertainty.[14] The Tax Court clarified that the knowledge must really not exist within the base of scientific and technological knowledge; it cannot merely be unknown to the appellant.[15] The Court must look at each project comprehensively, not look at each activity that makes up the project individually.[16]
+[71] The presentation of the evidence and the Court’s appreciation of this evidence appears determinative. The Court notes that the decision affirms at the outset that each case is based on its own facts. Consequently, the evidence, as presented at the hearing of each of the cases, remains determinative. These are the foundations on which the Court’s analysis must be based.
+c)Current cases
+[72] For the purposes of the current appeals, an analysis methodology applies to the eligibility of each of the projects. It goes without saying that the implications apply to one or both of the appellants, depending on whether they participated in the project or not. Furthermore, the Court notes that there is no need for the Court to address the question of how CRA carried out the audit of the projects nor, more specifically, the CRA’s use of its discretion.
+[73] Even though six projects are under appeal, and they were carried out over two years by the two appellants, the fact that several of them involve similar situations has enabled them to be grouped for the purpose of deciding the current appeals. The first group includes the 2017 Quinoa Project, the 2018 Chocolate Bun Project, the 2018 Croissant Project and the 2018 Madeleine Project (Group 1). The second group includes the 2017 Yeast Project and the 2018 Raisin Project (Group 2).
+[74] There is no need to repeat here the analysis presented above with respect to the condition at issue and the courts’ stated position. Nonetheless, it forms the basis of the remarks that will be made below.
+i)Group 1
+[75] As was affirmed by the Federal Court of Appeal, an important and starting condition consists of applying the application conditions to the context and as the evidence was presented before the Court, ultimately for an overview of the project. This premise makes it possible, therefore, to apply another premise: that each case turns on its own facts. For this reason, a reference to the courts’ decisions must certainly take these premises into account. This does not mean that the lessons from these decisions should be ignored. Or that a decision cannot be brought up to support a comparable situation or a concurring comparative analysis. But this exercise must be carried out thoroughly and with caution.
+[76] Considering the technological risk or uncertainty test as it was developed and retained by Justice Bowman (as it was) in Northwest Hydraulic, and the fact that this test requires that the existing risk or uncertainty be impossible to remove by standard procedures or routine engineering, the Court was unable to assemble sufficient evidence in the present case to make it possible to conclude that the appellants were successful in persuading the Court that the assessments under appeal were unfounded.
+[77] The Group 1 projects present, rather, a situation involving uncertainty or lack of knowledge. The Court notes that there is no pettiness or ulterior motive in this determination. In fact, the appellants, not having had occasion to—or taken the decision until then to—address the objectives of the projects, there was not necessarily an issue with limited knowledge in this regard.
+[78] The Court is of the opinion that the appellants did not establish, on the balance of probabilities, that the knowledge did not exist in the public domain. Of course, the Group 1 projects presented challenges, unknowns and uncertainties. However, the products targeted by the projects existed, and the objectives sought to improve or bring about a variation in the product. The tools, methodology, processes and ingredients were, on the whole, available to the appellants. It is difficult to conclude that the uncertainties encountered in the case of the Group 1 projects were related to the public domain as opposed to the manner in which the appellants were conducting production operations, thereby justifying that the uncertainties could not be removed by standard procedures or routine engineering.
+[79] Given the situation in which the appellants were operating, Ms. Jacques alluded to the fact that the measuring instruments in the laboratory were not what they could have been, and that, for instance, the assessment and estimation methodology that the appellants used at that time was subsequently improved. Furthermore, the evidence supports that the efforts made with the suppliers to meet the desired objectives, and the answers that were generally received from them, proved useful.
+[80] On the basis of the evidence, the Court also concludes that the appellants tried to use methods that were, essentially, already known in order to solve the problems, methods that often had been suggested by the suppliers, who had more knowledge than the appellants. By proceeding in this manner, the development of new knowledge by the appellants in and of itself does not constitute an SR&ED activity if there is no technological uncertainty that the company is attempting to solve when the standard procedures and routine engineering have proven insufficient.
+[81] The Court believes it is rather a weak argument to claim that adjustments to the quantity or volume of ingredients that are well known and present in food constitutes an uncertainty that cannot be managed or controlled by standard procedures, such as modifying the quantity, volume, concentration or cooking temperature in a food production context. The ingredients used are known and the properties of the ingredients available. Admittedly, this is not enough to remove the risks and uncertainty but, at the same time, it is not enough to establish that the uncertainty cannot be removed by standard procedures. Thus, there is uncertainty or an unknown, but the standard procedures or procedures known in the public domain might enable a favourable conclusion or might not. The appellants did not persuade or demonstrate to the Court that the standard procedures failed to respond to the uncertainty or risks that may have arisen. Knowing the answer or not knowing it does not mean that the standard procedures do not make it possible for the difficulty to be resolved.
+[82] Ms. Jacques’ testimony and the evidence submitted by the appellants, unfortunately, was not sufficient to demolish the Minister’s presumptions or to establish, on the balance of probabilities, the facts to support their position that the contested assessments regarding the Group 1 projects were unfounded. Therefore, the Court is not persuaded that the appellants’ evidence demonstrates that there was technological risk or uncertainty that could not be removed by standard approaches or procedures.
+[83] Upon analysis, and accepting that this analysis must have been completed thoroughly to mirror the provisions of paragraph 75, the Court adopts the words in the R&D Pro-Innovation decision and, a fortiori, the position in the Flavor Net decision. The situations described in these cases are similar to the situation in which the appellants found themselves when handling the projects in Group 1. Unfortunately, this is sufficient to dismiss the appeals filed in relation to the projects in Group 1.
+ii)Group 2
+[84] The projects in Group 2 could be part of Group 1, and in this context also present the problems set out above by this Court. Furthermore, and this is the reason for their separate grouping, the projects in Group 2 present an additional element that makes their eligibility even more difficult in this case.
+[85] The two projects in Group 2 have a significant relation to the production line. The evidence shows that many issues emerged in relation to how the production line, as it existed, would need to integrate the changes proposed in the recipes. This concern emerged as an issue very early on in the projects and changed the objectives of the projects. And when we look at the projects as a whole, it becomes more difficult to accept that the projects involve a technological uncertainty that cannot be removed by standard procedures or routine engineering.
+[86] For the projects in Group 2 as a whole, the evidence supports that the appellants’ concerns about costs that could be incurred by changes to the production line were at least real. This context leaves even less room for the importance of the technological uncertainty that the projects in Group 2 could present. And the evidence does not support that the production line itself presented a technological uncertainty that could not be removed by standard procedures or routine engineering.
+[87] Consequently, for both the reasons indicated for Group 1 and the discussion specific to Group 2, the evidence presented at the hearing unfortunately does not allow this Court to argue that the condition of technological uncertainty necessary for qualification is, on a balance of probabilities, satisfied by the projects in Group 2.
+VI. Conclusion
+[88] Considering all the foregoing, the appellants’ appeals for the notices of assessment or notices of reassessment, as applicable, for each of the tax years 2017 and 2018 are denied. Without costs.
+Signed at Montreal, Quebec, this 16th day of July 2024.
+“J. M. Gagnon”
+Gagnon J.
+CITATION:
+2024 TCC 97
+COURT FILE NO.:
+2020-1452(IT)I
+2020-1453(IT)I
+2021-467(IT)I
+2021-468(IT)I
+STYLE OF CAUSE:
+BISCUITERIE DOMINIC INC. AND HIS MAJESTY THE KING
+LA PETITE BRETONNE INC. AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+April 15, 16 and 17, 2024
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Jean Marc Gagnon
+DATE OF JUDGMENT:
+July 16, 2024
+APPEARANCES:
+For the appellants:
+Yves Hamelin
+For the respondent:
+Caroline Berthelet
+Bianca Morello (articled student)
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+N/A
+Firm:
+N/A
+For the respondent:
+Shalene Curtis-Micallef
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.) [ITA]
+[2] According to the test described in the decision Northwest Hydraulic Consultants Ltd. v. The Queen, 1998 CarswellNat 3632 [Northwest Hydraulic], there are five criteria that must be present for a project to qualify as an SR&ED activity within the meaning of subsection 248(1) ITA. Only the first component of the test is at issue in this case.
+[3] Tax Court of Canada Act, R.S.C. 1985, c T-2.
+[4] C.W. Agencies Inc. v. Canada, 2001 FCA 393 at para. 17 [C.W. Agencies].
+[5] National R&D Inc. v. Canada, 2022 FCA 72 at para. 2 [National R&D].
+[6] National R&D at para. 17.
+[7] Formadrain Inc. v. Q., 2017 TCC 42 at para. 93 [Formadrain].
+[8] Béton Mobile du Québec Inc. v. The Queen, 2019 TCC 278 at para. 43 [Béton Mobile].
+[9] Anne-Marie Chagnon Inc. v. The King, 2023 TCC 35 at para. 46 [Chagnon].
+[10] Laforest Marketing Internationals Inc. v. The Queen, 2019 TCC 45 at para. 45 [Laforest Marketing].
+[11] R&D Pro-Innovation Inc. v. The Queen, 2015 TCC 186 at para. 9 [R&D Pro-Innovation] affirmed by the Federal Court of Appeal 2016 FCA 152.
+[12] Flavor Net Inc. v. The Queen, 2017 TCC 179 [Flavor Net].
+[13] Canafric Inc. v. The King, 2023 TCC 108 at para. 114 [Canafric].
+[14] Ibid at para. 114.
+[15] Ibid at para. 89.
+[16] Ibid at para. 89.

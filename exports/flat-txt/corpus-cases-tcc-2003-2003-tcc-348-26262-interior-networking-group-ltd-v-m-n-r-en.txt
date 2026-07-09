@@ -1,0 +1,187 @@
+Title: Interior Networking Group Ltd. v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26262/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-348-26262-interior-networking-group-ltd-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2003-05-20
+
+# Interior Networking Group Ltd. v. M.N.R.
+
+- Citation: 2003 TCC 348
+- Decision date: 2003-05-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3993, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Interior Networking Group Ltd. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-05-20
+Neutral citation
+2003 TCC 348
+File numbers
+2002-3705(EI)
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2002-3705(EI)
+BETWEEN:
+INTERIOR NETWORKING GROUP LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 7, 2003, at Kelowna, British Columbia
+Before: The Honourable Judge D.W. Beaubier
+Appearances:
+Agent for the Appellant:
+Christopher R. Penty
+Counsel for the Respondent:
+Michael Taylor
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decision of the Minister is vacated in accordance with the attached Reasons for Judgment.
+The Appellant is awarded such costs as are allowed under the Employment Insurance Act.
+Signed at Ottawa, Canada, this 20th day of May 2003.
+"D.W. Beaubier"
+J.T.C.C.
+Citation: 2003TCC348
+Date: 20030520
+Docket: 2002-3705(EI)
+BETWEEN:
+INTERIOR NETWORKING GROUP LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+REASONS FOR JUDGMENT
+Beaubier, J.T.C.C.
+[1] This appeal from a decision of the Respondent respecting Employment Insurance premiums was heard at Kelowna, British Columbia, on May 7, 2003.
+[2] The Appellant called Robert Sibson, Jeremy Fichtner and Paul Berisoff to testify. The Respondent did not call any witnesses. The decision appealed from is dated June 28, 2002 respecting the Appellant, the witnesses and Kevin Ludbrook. It assessed employment insurance premiums and stated:
+This letter concerns the appeal against the assessments dated November 6, 2001 for Canada Pension Plan contributions in the amount of $3,295.80 and employment insurance premiums in the amount of $10,296.28, plus applicable penalty and interest, for the 2000 and 2001 taxation years.
+It has been decided to confirm these assessments. This is because Kelvin Ludbrock, Robert Sibson, Paul Berisoff and Jeremy Fichtner were providing services to Interior Networking Group Ltd pursuant to a contract of service in the 2000 and 2001 taxation years.
+If you disagree with this decision, you may appeal to the Tax Court of Canada within 90 days of the mailing date of this letter. Details on how to appeal can be found in the enclosed attachment.
+The decision in this letter is issued pursuant to subsection 27.2(3) of the Canada Pension Plan and subsection 93(3) of the Employment Insurance Act and is based on paragraph 6(1)(a) of the Canada Pension Plan and paragraph 5(1)(a) of the Employment Insurance Act.
+[3] The appeal is for the stated reason that the individuals are shareholders of the Appellant and that their employment is excluded employment under paragraph 5(2)(i) of the Employment Insurance Act (the "Act"), since they did not deal with each other at arm's length. Section 5 reads:
+5.(1) Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+(b) employment in Canada as described in paragraph (a) by Her Majesty in right of Canada;
+(c) service in the Canadian Forces or in a police force;
+(d) employment included by regulations made under subsection (4) or (5);
+(e) employment in Canada of an individual as the sponsor or co-ordinator of an employment benefits project.
+(2) Insurable employment does not include
+(a) employment of a casual nature other than for the purpose of the employer's trade or business;
+(b) the employment of a person by a corporation if the person controls more than 40% of the voting shares of the corporation;
+(c) employment in Canada by Her Majesty in right of a province;
+(d) employment in Canada by the government of a country other than Canada or of any political subdivision of the other country;
+(e) employment in Canada by an international organization;
+(f) employment in Canada under an exchange program if the employment is not remunerated by an employer that is resident in Canada;
+(g) employment that constitutes an exchange of work or services;
+(h) employment excluded by regulations made under subsection (6); and
+(i) employment if the employer and employee are not dealing with each other at arm's length.
+(3) For the purposes of paragraph (2)(i),
+(a) the question of whether persons are not dealing with each other at arm's length shall be determined in accordance with the Income Tax Act; and
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm's length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+4. The Commission may, with the approval of the Governor in Council, make regulations for including in insurable employment
+(a) employment outside Canada or partly outside Canada that would be insurable employment if it were in Canada;
+(b) the entire employment of a person who is engaged by one employer partly in insurable employment and partly in other employment;
+(c) employment that is not employment under a contract of service if it appears to the Commission that the terms and conditions of service of, and the nature of the work performed by, persons employed in that employment are similar to the terms and conditions of service of, and the nature of the work performed by, persons employed under a contract of service;
+(d) employment in Canada by Her Majesty in right of a province if the government of the province waives exclusion and agrees to insure all its employees engaged in that employment;
+(e) employment in Canada by the government of a country other than Canada or of any political subdivision of the other country if the employing government consents;
+(f) employment in Canada by an international organization if the organization consents; and
+(g) the tenure of an office as defined in subsection 2(1) of the Canada Pension Plan.
+5. The Commission may, with the approval of the Governor in Council and subject to affirmative resolution of Parliament, make regulations for including in insurable employment the business activities of a person who is engaged in a business, as defined in subsection 248(1) of the Income Tax Act.
+6. The Commission may, with the approval of the Governor in Council, make regulations for excluding from insurable employment
+(a) any employment if it appears to the Commission that because of the laws of a country other than Canada a duplication of contributions or benefits will result;
+(b) the entire employment of a person who is engaged by one employer partly in insurable employment and partly in other employment;
+(c) any employment if it appears to the Commission that the nature of the work performed by persons employed in that employment is similar to the nature of the work performed by persons employed in employment that is not insurable employment;
+(d) the employment of a member of a religious order who has taken a vow of poverty and whose remuneration is paid directly or by the member to the order;
+(e) any employment in which persons are employed hardly at all or for nominal remuneration; and
+(f) any employment provided under regulations made under section 24 or under employment benefits.
+7. The Commission may, with the approval of the Governor in Council, make regulations defining, for the purposes of this section, the expressions "casual nature", "government", in relation to a government of a country other than Canada or of a political subdivision of the other country, and "international organization".
+[4] Paragraphs 8 to 12 inclusive of the Reply to the Notice of Appeal read:
+8. In so assessing and confirming the Assessments against the Appellant, the Minister relied on the following assumptions:
+a) the Appellant is a limited company;
+b) the Appellant is in the business of computer software development technology;
+c) the Appellant's shares were owned equally by Kevin Ludbrook ("Ludbrook"), Robert Sibson ("Sibson"), Paul Berisoff ("Berisoff") and Jeremy Fichtner ("Fichtner");
+d) the Shareholders are not related;
+e) the Shareholders were all directors of the Appellant;
+f) in June 2001, Ludbrook resigned and his shares in the Appellant were divided equally amongst Sibson, Berisoff and Fichtner;
+g) Sibson is the president of the Appellant;
+h) Sibson also acts as the sales and marketing manager;
+i) Fichtner is the Appellant's secretary treasurer;
+j) Fichtner is the director of internet services for the Appellant;
+k) Berisoff is the service manager for the Appellant;
+l) in addition to the Shareholders, the Appellant also employs hourly employees;
+m) the Appellant did not maintain records of the hours worked by its Shareholders;
+n) the Appellant had the right to direct and control the services of the Shareholders;
+o) under the terms of a written agreement the Shareholders are prohibited from being engaged in any business which competes with the Appellant;
+p) all tools and equipment used in the performance of services by the Shareholders are supplied by the Appellant;
+q) the Appellant paid wages to the Shareholders for their services as employees;
+r) the Appellant reimburses the Shareholders for all expenses incurred in the course of performing their duties;
+s) the Shareholders were not in business for themselves; and
+t) the Appellant employed the Shareholders under a contract of service;
+B. THE STATUTORY PROVISIONS UPON WHICH THE RESPONDENT RELIES AND THE REASONS WHICH HE INTENDS TO SUBMIT.
+9. He relies on paragraph 5(1)(a), subsection 2(1) and sections 82, 85 and 92 of the Act and section 251 of the Income Tax Act.
+10. He submits that the Appellant has been correctly assessed for Premiums that were required to be withheld and remitted from the remuneration paid to the Shareholders under section 85 of the Act, together with penalties and interest, as the Shareholders were employed by the Appellant under a contract of service within the meaning of paragraph 5(1)(a) of the Act.
+11. He further submits that the Appellant and the Shareholders were dealing with each other at arm's length pursuant to section 251 of the Income Tax Act and therefore their employment was not excluded by virtue of paragraph 251(2)(b) of the Income Tax Act.
+12. He further submits that the Appellant failed to withhold and remit to the Receiver General any amounts in respect of the Premiums, as required, and accordingly is liable for the unremitted amounts together with penalty and interest thereon, and has been correctly assessed in accordance with sections 82 and 85 of the Act.
+[5] Pursuant to paragraph 251(1)(c), of the Income Tax Act, in this case, it is a question of fact as to whether the shareholders were not dealing with the Appellant at arm's length in 2000 and 2001.
+[6] Assumptions a), b), c), d), e), f), g), h), i), j), k), l), m), o), p), q) and s) were not refuted by the evidence.
+[7] The following evidence of the witnesses is accepted:
+1. Salaries of the Three Witnesses
+(a) They were paid about ¾ of what they could get from similar jobs in the Kelowna area where they worked, had they worked a regular 8 hour day, 5 days a week.
+(b) They consistently worked an average of 12 hours per day for 5 days each week and often longer hours and more than 5 days.
+(c) They were paid twice each month, but each year the Appellant could not pay them for about 2 pay periods. Their paycheques were frequently 1 to 3 weeks late.
+(d) Other employees were always paid on time.
+2. Control
+The three witnesses were also directors. They met once a week on Tuesday evenings and decided all matters unanimously by consensus and without a recorded vote. Because the Appellant's business was marginal they decided matters at these meetings relating to $500 expenditures, or if one of the directors needed money when their salaries could not be met, whether that director should be advanced $100. Mr. Ludbrook left the Appellant in June, 2001 after the exercise of a "shotgun" clause in the shareholders' agreement by the witnesses when he acted independently and without the knowledge of the other directors in a number of corporate matters. However in both 2000 and 2001, the three witnesses together dictated the operations of the Appellant and of themselves in unison for the Appellant and the shareholders with the Appellant's benefit as the paramount consideration.
+3. Sharing of Tasks by the Directors
+All of the directors did the Appellant's janitor work, shopped for necessary incidentals and were not reimbursed by the Appellant for these expenditures, travelled in their own vehicles without any mileage or other expense payments, used their own cell phones for the Appellant's business without reimbursement. They did divide up tasks - Mr. Sibson sales and to some degree, management; Mr. Fichtner web tasking; and Mr. Berisoff technical matters and installations.
+4. Financing
+All of the witnesses had to advance money to the Appellant with their credit cards at times. All of them made shareholders loans of one kind or another to the Appellant at times. All of them are still owed money by the Appellant.
+5. Ability to be Replaced
+Mr. Ludbrook was not replaced. The Appellant could not hire a replacement for any of the witnesses for the wages they were paid. When Mr. Berisoff's wife had a baby and he needed more money, and hired on elsewhere, the Appellant closed down when it could not replace him for even $10,000 more per year. The Court finds that each of the witnesses was equally essential to the Appellant's operation and, similarly, could not be replaced by the Appellant on the terms and conditions under which the witnesses were employed. Each of the witnesses is now working in the same areas as they did for the Appellant for at least 50% better pay, and at normal working hours in their respective fields. The Court finds that the departure of any of the witnesses from the Appellant's employ during the periods in question would cause the Appellant to fail, as in fact it did when Mr. Berisoff left.
+[8] All of the witnesses started out and stayed with the Appellant in the hope or "dream" that they would own their own successful business. None had a clear idea if this would mean higher wages, dividends, capital gains or all three. They are believed when they testified that in their decision-making as directors, they put the company and its well-being and survival first. The evidence is that they acted and decided in unison for this purpose.
+[9] Thus, contrary to assumption n), the directors exercised the right to direct and control the services of the shareholders and they did so together.
+[10] The three directors, together were the bargaining agent for themselves and the Appellant. Their common interest was that the corporation's business would succeed and they acted in concert for that purpose. The only time they diverged was when Mr. Berisoff needed money to support his family and decided to leave the Appellant, whereupon the other two directors offered him $10,000 more per year than they could have and he felt that he could not accept that in fairness to the others and to the Appellant. Even then all of them were, although divergent, acting in concert for the success of the Appellant.
+[11] The witnesses exercised hands-on, daily de facto control and spoke to each other so as to act in concert on daily decisions, as Mr. Sibson testified. He is believed.
+[12] For these reasons, the Court finds that the Appellant and the witnesses, Robert Sibson, Jeremy Fichtner and Paul Berisoff, did not deal with each other at arm's length. As a result their employment and that of Mr. Ludbrook by the Appellant is excluded employment. The appeal is allowed. The Appellant is awarded such costs as are allowed under the Act.
+Signed at Ottawa, Canada this 20th day of May, 2003.
+"D.W. Beaubier"
+J.T.C.C.
+CITATION:
+2003TCC348
+COURT FILE NO.:
+2002-3705(EI)
+STYLE OF CAUSE:
+Interior Networking Group Ltd. v. Her Majesty the Queen
+PLACE OF HEARING:
+Kelowna, British Columbia
+DATE OF HEARING:
+May 7, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Judge D.W. Beaubier
+DATE OF JUDGMENT:
+May 20, 2003
+APPEARANCES:
+Agent for the Appellant:
+Christopher R. Penty
+Counsel for the Respondent:
+Michael Taylor
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

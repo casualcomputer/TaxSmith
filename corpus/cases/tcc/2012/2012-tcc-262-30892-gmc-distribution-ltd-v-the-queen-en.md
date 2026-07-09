@@ -1,0 +1,172 @@
+---
+title: "GMC Distribution Ltd. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30892/index.do"
+last_modified: "2012-07-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 262"
+citation2: ""
+neutral_citation: "2012 TCC 262"
+decision_date: "2012-07-23"
+language: "en"
+item_id: "30892"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7451
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:15:31.413000+00:00"
+cases_cited_count: 1
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "bdcad59092e541579125cc99e6fb924c6c32fbb401b203f00b62e6c84f9459cb"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# GMC Distribution Ltd. v. The Queen
+
+- Citation: 2012 TCC 262
+- Decision date: 2012-07-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7451, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+GMC Distribution Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-07-23
+Neutral citation
+2012 TCC 262
+File numbers
+2004-3115(GST)G
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2004-3115(GST)G
+BETWEEN:
+GMC DISTRIBUTION LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motions heard on June 19, 2012, at Toronto, Ontario
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Agent for the Appellant:
+Brian Cherniak
+Counsel for the Respondent:
+Craig Maw and Roxanne Wong
+____________________________________________________________________
+ORDER
+The Motion for leave of the Court to allow Brian Cherniak to represent the Appellant is dismissed, with costs.
+The Motion of the Respondent to have the Appellant’s appeal dismissed is granted and the Appellant’s appeal is dismissed, without costs.
+Signed at Ottawa, Canada, this 23rd day of July, 2012.
+“Wyman W. Webb”
+Webb J.
+Citation: 2012TCC262
+Date: 20120723
+Docket: 2004-3115(GST)G
+BETWEEN:
+GMC DISTRIBUTION LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Webb J.
+[1] There are two motions in this matter. The first motion is for leave of the Court to allow Brian Cherniak (who is not a lawyer) to represent the Appellant in this Appeal. The second motion is a motion of the Respondent requesting that the Appellant’s appeal be dismissed.
+[2] The Appellant was incorporated on April 18, 1994 under the Business Corporations Act (Ontario) (the “OBCA”). Brian Cherniak stated that he was a shareholder, an officer and a director of the Appellant. Brian Cherniak also indicated that he was a member in good standing of The Society of Management Accountants of Ontario. However, even though Brian Cherniak is an accountant, the Appellant failed to file its corporate tax returns. As a result, the Appellant was dissolved pursuant to the provisions of subsection 241(4) of the OBCA on November 19, 2007. The Appellant had filed its Notice of Appeal on June 1, 2004.
+[3] The first question that must be addressed is whether the Appellant, as a dissolved corporation, can bring this motion to have Brian Cherniak represent it in this Appeal. Brian Cherniak’s argument was that in Amber Technology Ltd. v. The Queen, 2006-313(IT)G, an Order was granted allowing him to represent Amber Technology Ltd. and Amber Technology Ltd. had also been dissolved prior to the motion having been brought in that case. However, there was no indication during the hearing of the motion in Amber Technology Ltd. that Amber Technology Ltd. had been dissolved. The following exchange took place during that hearing of the motion on that case:
+THE WITNESS: I was the sole director and shareholder/president of the company. I was responsible for the financial systems and all of the operations of the company, through this period.
+JUSTICE WEBB: Sole director, sole shareholder and president and sole officer?
+THE WITNESS: Yes.
+JUSTICE WEBB: Now you used the past tense; any reason why you used the past tense?
+MR. CHERNIAK: No … well, the company is no longer operating.
+JUSTICE WEBB: But the company still exists as a corporate entity?
+MR. CHERNIAK: It still exists.
+JUSTICE WEBB: I take it you are still then the sole officer, shareholder and director?
+MR. CHERNIAK: Yes.
+[4] Brian Cherniak cannot use the Order granted in Amber Technology Ltd. as a precedent in this case when he did not disclose that Amber Technology Ltd. had been dissolved and he confirmed that it still existed as a corporate entity.
+[5] Subsection 242(1) of the OBCA provides that:
+242. (1) Despite the dissolution of a corporation under this Act,
+(a) a civil, criminal or administrative action or proceeding commenced by or against the corporation before its dissolution may be continued as if the corporation had not been dissolved;
+(b) a civil, criminal or administrative action or proceeding may be brought against the corporation as if the corporation had not been dissolved;
+(c) any property that would have been available to satisfy any judgment or order if the corporation had not been dissolved remains available for such purpose; and
+(d) title to land belonging to the corporation immediately before the dissolution remains available to be sold in power of sale proceedings
+[6] In Reliable Life Insurance v. Ingle, [2009] O.J. No. 2312 the issue was whether leave should be granted for an individual to represent two corporations that had been dissolved. The corporations were also governed by the OBCA. In that case, Master J. Haberman made the following comments:
+…
+2 In view of the fact that both corporations have both been dissolved and neither has been revived, the motion appears to raise novel issues. Although counsel provided what case law they could find, neither appears to have come up with any case which dealt with whether a dissolved defendant corporation, which had not been revived, had the right to mount a full defence to a civil action, and if so, how that could be done.
+3 For the reasons that follow, I find that unless and until the corporations do what is required in order to be revived, they are non-entities and have no rights whatsoever in this litigation. …
+…
+33 … Ingle submits that the two companies have the right to defend any action brought against them, by participating fully. He claims that this is a fundamental principle of justice. Ingle therefore wants leave to represent them so that they can participate in all of the necessary pre-trial steps and then, at trial. He is unable to say who would instruct him in view of the companies having been dissolved or who would honour a cost order at the conclusion of trial if such an order is granted.
+…
+38 The limited case law that deals with this issue indirectly makes it clear that while the corporation is in its dissolved state, it is a non-entity and cannot act. Thus, in Wolf Offshore Transport Ltd. v. Sulzer Canada Inc. [1992] N.J. No. 82, the court when dealing with an action commenced by a dissolved corporation that was later revived stated:
+This means that had this corporation entered into any contracts or commenced any actions, or defended any action prior to its being dissolved could, on being revived, continue these actions. It does not, however, extend the capacity to the company to make good anything which it may have initiated during the time it was dissolved. The company could not contract when it was dissolved. The company could not commence an action when it was dissolved. A dissolved company is akin to a deceased person. It has no capacity to do anything. It is nothing. A person which is nonexistent could hardly be said to do anything. If it had a right prior to dissolution, it would have that right on being revived unless statute barred.
+39 A similar view was expressed by Chapnick J. in Swale [sic] Invests Ltd. v. National Bank of Greece (Canada), [1997] O.J. No. 4997, where a dissolved company that was never revived issued a statement of claim:
+In my view, the plaintiff corporation, having been dissolved and not having been revived, has no legal existence. Section 241(5) merely provides that the corporation, upon revival, has all the rights and privileges and liabilities it would have had if it had not been dissolved. This does not mean that upon revival its legal position is restored retroactively.
+Swale ceased to exist as at November 3, 1993, the date of dissolution. When the statement of claim was issued on September 3, [sic] 2991, it prima facie was not an entity capable of suit. As a result, the action commenced on that date was a nullity.
+…
+44 I am satisfied that while a dissolved corporation may be sued “as if it had not been dissolved”, it does not have the ability to defend itself unless and until it is revived. If the shareholder is concerned about his personal exposure and whether he will be able to defend in the shoes of the corporation when he is sued, the onus is on him to take steps to revive the companies in order to protect his personal interests. If he is of the view that the interests are minimal and not worth protecting, then he must accept the consequences.
+(emphasis added by Master J. Haberman)
+[7] Therefore even though the action brought against the corporations continued despite the dissolution of the corporations, those corporations could not take any action until they were revived under the OBCA. This included a motion for leave for an individual to represent the corporations.
+[8] In Cotton Inc. v. 1397945 Ontario Ltd., 2010 ONSC 6548, Justice Ramsay of the Ontario Superior Court of Justice stated that:
+6 Since then, the corporate registrations of Inter-fund Mortgage Corp., Guardian Inter-funding Inc. and Niagara Home Builders Inc. have been cancelled. They are therefore non-entities and cannot prosecute or defend an action: Reliable Life Insurance v. Ingle et al., [2009] O.J. No. 2312, 2009 CanLII 28225 (ONSC, Master [sic] Halberman). They can, however, be sued, by virtue of s. 242 of the Business Corporations Act. As a result, default Judgment has been issued against Inter-fund and Guardian. The plaintiffs are entitled to default Judgment against Niagara Home Builders Inc.
+[9] As a result, even though subsection 242(1) of the OBCA provides that the Appellant’s appeal under the Income Tax Act will continue despite the dissolution of the Appellant, unless and until the Appellant is revived under the OBCA the Appellant cannot take any action in relation to this appeal, including the bringing of a motion for someone to represent the Appellant. Since the Appellant has not been revived under the OBCA, the motion for leave for Brian Cherniak to represent the Appellant is dismissed, with costs.
+[10] The Respondent also brought a motion for an Order dismissing the Appellant’s appeal. The Appellant’s appeal had been dismissed by Justice C. Miller by an Order dated April 12, 2006. This Order was issued following the failure of the Appellant to appear at a status hearing held on March 7, 2006 and the further failure of the Appellant to take any action in retaining counsel or requesting leave for someone to represent it within the 30 days following the date for the status hearing.
+[11] On April 27, 2009 a motion was heard to have the Judgment of Justice C. Miller set aside. This motion was granted by an Order of Justice Woods dated May 27, 2009. That Order also provided that the Respondent was entitled to costs of the motion, which were to be paid by the Appellant (the Applicant in that motion), forthwith. By letter dated June 23, 2009, counsel for the Respondent wrote to Donald Fiske at Pace Law Firm. Donald Fiske was then representing the Appellant. Counsel for the Respondent enclosed the Respondent’s Bill of Costs with the letter. The amount claimed for costs, without a taxation, was $1,011.86.
+[12] Sometime prior to November 8, 2010, the Appellant was no longer represented by counsel. On November 8, 2010 counsel for the Respondent sent a letter to Brian Cherniak stating that it was the position of the Respondent that the Appellant had to be represented by counsel. In that letter counsel for the Respondent also referred to a letter that was sent by this Court on November 11, 2005 informing Brian Cherniak of the requirements of subsection 30(2) of the Tax Court of Canada Rules – General Procedure. In the same letter counsel for the Respondent also stated that the costs awarded by Justice Woods had not been paid.
+[13] On July 12, 2011 counsel for the Respondent wrote to Jacqueline King at Shibley Righton LLP. Jacqueline King was then representing the Appellant. Counsel for the Respondent indicated that the costs awarded by Justice Woods had still not been paid. Again on November 16, 2011 counsel for the Respondent wrote to Jacqueline King reiterating that the costs had not been paid.
+[14] A status hearing was scheduled to be heard by conference call on January 24, 2012. The Appellant failed to participate in this status hearing. As part of the Order dated January 26, 2012, it was noted that the Respondent may bring a motion to dismiss the Appellant’s appeal. As well, the Appellant and Brian Cherniak were each to pay costs of $300 within 30 days of January 26, 2012. The reason that Brian Cherniak did not participate in the conference call on January 26, 2012 is that he had been involved in a car accident in early January and was in the hospital for four or five days with a broken leg and a dislocated shoulder.
+[15] Another status hearing was held by conference call on March 13, 2012. Brian Cherniak did participate in this status hearing. Following this status hearing an Order was issued on March 14, 2012 as follows:
+THIS COURT ORDERS that:
+1. the Appellants shall file and serve a list of documents (Partial Disclosure) pursuant to section 81 of the Tax Court of Canada Rules (General Procedure) by March 27, 2012, at 5 p.m. The Appellants shall provide copies of the documents listed in the list of documents to the Respondent by March 27, 2012, at 5 p.m.
+2. the Appellant, GMC Distribution Inc., shall pay costs to the Respondent in the amount of $1,011.86 by March 27, 2012, at 5 p.m. pursuant to the Order of the Honourable Justice Woods dated May 27, 2009.
+3. the Appellant, GMC Distribution Inc., shall file and serve a notice of motion to have Brian David Cherniak act as agent for the Appellant, GMC Distribution Inc., by April 3, 2012, at 5 p.m.
+4. the above dates shall be considered strict time limits. In the event of the Appellants’ non-compliance with such time limits, the Respondent shall be free to bring a motion in writing to dismiss the appeals for the Appellants’ failure to comply with the terms of this Order.
+5. the costs award order set out in the Order of the Honourable Justice Pizzitelli dated January 26, 2012, shall be stayed pending compliance of the other conditions of this Order, without prejudice to the right of the Respondent to address at a later date.
+[16] A cheque for the amount of the costs awarded by Justice Woods ($1,011.86) was sent to the Respondent, however, the cheque was not honoured by the bank due to insufficient funds. As an accountant Brian Cherniak should have known the amount that should have been in the bank account to cover the cheques that he had written.
+[17] Since the cheque did not clear the bank, the costs awarded by Justice Woods were not paid by the deadline as out in the Order of Justice Pizzitelli dated March 14, 2012. While Brian Cherniak indicated at the hearing of the motions that he had brought a bank draft with him for $1,011.86, this was almost three months after the deadline of March 27, 2012 imposed by Justice Pizzitelli and more than three years after Justice Woods had ordered that these costs be paid “forthwith”. While his car accident earlier this year would explain his shortage of funds in 2012, it does not explain why this was not paid in 2009, 2010 or 2011. It is not sufficient for Brian Cherniak to state that he thought that counsel for the Appellant was looking after everything and that he had not seen the Bill of Costs. The Bill of Costs had been sent to both Donald Fiske and Jacqueline King, the lawyers who were acting for the Appellant and Brian Cherniak.
+[18] Although the Appellant was dissolved on November 19, 2007, proceedings can still be brought against the Appellant[1]. It seems to me that this would include the awarding of costs against the Appellant. Therefore the claim of costs against the Appellant could still be brought against the Appellant in 2009 and thereafter even though the Appellant had been dissolved in 2007. The failure of the Appellant to pay the costs awarded to the Respondent on May 27, 2009 prior to the hearing of this motion is, in my opinion, sufficient cause to warrant a dismissal of the Appellant’s appeal.
+[19] As well, the appeal was commenced in 2004 as an appeal under the Informal Procedure. By Order dated October 22, 2004 it became an appeal under the General Procedure. To date the only procedural steps that have been completed (other than the pleadings) are the lists of documents. The Appellant has failed to prosecute the appeal with due dispatch and the appeal could also be dismissed pursuant to section 64 of the Tax Court of Canada Rules – General Procedure.
+[20] As a result the Motion of the Respondent to have the Appellant’s appeal dismissed is granted and the Appellant’s appeal is dismissed, without costs.
+Signed at Ottawa, Canada, this 23rd day of July, 2012.
+“Wyman W. Webb”
+Webb J.
+CITATION: 2012TCC262
+COURT FILE NO.: 2004-3115(GST)G
+STYLE OF CAUSE: GMC DISTRIBUTION LTD. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: June 19, 2012
+REASONS FOR ORDER BY: The Honourable Justice Wyman W. Webb
+DATE OF ORDER: July 23, 2012
+APPEARANCES:
+Agent for the Appellant:
+Brian Cherniak
+Counsel for the Respondent:
+Craig Maw and Roxanne Wong
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Paragraph 242(1)(b) of the OBCA and Cotton Inc. v. 1397945 Ontario Ltd., above.

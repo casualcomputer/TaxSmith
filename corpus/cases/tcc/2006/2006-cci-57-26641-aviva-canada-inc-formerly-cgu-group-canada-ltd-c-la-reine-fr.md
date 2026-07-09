@@ -1,0 +1,248 @@
+---
+title: "Aviva Canada Inc. formerly CGU Group Canada Ltd. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26641/index.do"
+last_modified: "2006-01-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 57"
+citation2: ""
+neutral_citation: "2006 CCI 57"
+decision_date: "2006-01-26"
+language: "fr"
+item_id: "26641"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3649
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:56:32.733000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5bf6293db5048ae70f0b830b418237c28a4ff8b126bea6d2efb39dbd2321555e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Aviva Canada Inc. formerly CGU Group Canada Ltd. c. La Reine
+
+- Citation: 2006 CCI 57
+- Decision date: 2006-01-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3649, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Aviva Canada Inc. formerly CGU Group Canada Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-01-26
+Référence neutre
+2006 CCI 57
+Numéro de dossier
+2003-1827(GST)G
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2003-1827(GST)G
+ENTRE :
+AVIVA CANADA INC.
+(anciennement CGU GROUP CANADA LTD.),
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu les 1 et 2 septembre et le 1er décembre 2005,
+à Toronto (Ontario).
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Avocat de l’appelant :
+Me Glenn A. Cranker
+Avocats de l’intimée :
+Me John McLaughlin
+Me Harry Erlichman
+_____________________________________________________________
+JUGEMENT
+L’appel à l’encontre d’une cotisation établie en vertu de la Loi sur la taxe d’accise (la « Loi ») est accueilli avec dépens, et la cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation au motif que l’acquisition de marques de commerce faite par l’appelante n’est pas assujettie à la taxe en vertu du paragraphe 165(1) de la Loi.
+Signé à Ottawa, Canada, ce 26e jour de janvier 2006.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 16e jour de juin 2008.
+Mario Lagacé, jurilinguiste
+Référence : 2006CCI57
+Date : 20060126
+Dossier : 2003-1827(GST)G
+ENTRE :
+AVIVA CANADA INC.
+(anciennement CGU GROUP CANADA LTD.),
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] Le présent appel a été interjeté par Aviva Canada Inc. (« Aviva ») à l’encontre d’une cotisation établie en vertu du paragraphe 297(1) de la Loi sur la taxe d’accise, L.C. 1990, ch. 45, dans sa forme modifiée (la « Loi »). Il s’agit d’établir si l’appelante doit payer la taxe sur les produits et services (« TPS ») relativement à un achat, effectué d’une société avec laquelle elle n’avait pas de lien de dépendance, de marques de commerce que le vendeur avait acquises d’une société affiliée le jour même où il les a vendues à l’appelante.
+[2] L’appelante, qui est une société de portefeuille, fait partie d’un groupe de sociétés qui exploite une entreprise d’assurance. Les marques de commerce ont été vendues parce qu’il y avait un différend entre l’appelante et une autre société d’assurance, soit la Canadian Group Underwriters Insurance Company (« Underwriters »), au sujet de la propriété de deux marques de commerce. Pour régler le différend, l’appelante a convenu d’acquérir les droits d’Underwriters sur les marques de commerce pour une contrepartie totale de 5 000 000 $.
+[3] Peu de temps avant la vente, Underwriters avait fait savoir à l’appelante qu’elle voulait, avant de lui vendre les marques de commerce, transférer ses droits sur les marques de commerce à une société affiliée. L’appelante ne s’était pas opposée et, par conséquent, les droits d’Underwriters sur les marques de commerce avaient d’abord été transférés à NN Life Insurance Company of Canada (« NN Life »). L’appelante a su plus tard que cette série d’opérations avait fait en sorte que les pertes fiscales accumulées de NN Life avaient pu être utilisées relativement à la vente.
+[4] NN Life avait perçu 350 000 $ au titre de la TPS sur la vente des marques de commerce à l’appelante, et l’appelante n’avait pas demandé de crédit de taxe sur les intrants relativement à ce montant.
+[5] L’appelante cherche à se faire rembourser la TPS qu’elle a payée à NN Life. Elle allègue que la vente n’était pas une « fourniture taxable » parce qu’elle était accessoire à l’entreprise d’assurance de NN Life, ce qui veut dire qu’elle n’était pas une activité commerciale, et parce qu’elle n’était pas une affaire de caractère commercial.
+[6] Pour résumer les faits, l’appelante a indiqué dans son avis d’appel que les marques de commerce auraient manifestement été exonérées de la taxe si elles avaient été acquises d’Underwriters directement. Cette observation semble reposer sur le fait qu’Underwriters n’utilisait les marques de commerce que pour effectuer des fournitures exonérées de produits d’assurance. Aucune preuve n’appuie cette observation. Au contraire, il y a parmi les éléments de preuve une lettre d’une société remplaçante d’Underwriters indiquant que les marques de commerce étaient utilisées également à d’autres fins. L’appelante n’a pas insisté sur cet argument à l’audience.
+[7] La seule personne qui a témoigné à l’audience était Norman McIntyre, un ancien dirigeant de l’appelante, qui a rendu un témoignage au sujet du contexte des négociations du point de vue de l’appelante. En plus du témoignage de M. McIntyre, il y avait un exposé conjoint des faits et un recueil conjoint de jurisprudence et de doctrine.
+[8] Dans une large mesure, la question en litige dans le présent appel repose sur les circonstances de l’achat et de la vente des marques de commerce effectués par NN Life. Les éléments de preuve permettent de connaître certains éléments de ces circonstances, mais ne dressent pas un tableau complet de la situation. Par exemple, parmi les documents présentés, il y a l’entente en vertu de laquelle l’appelante a acquis les marques de commerce de NN Life, mais il n’y a pas d’entente qui précise les détails de l’opération dans le cadre de laquelle NN Life a acquis les marques de commerce d’Underwriters. De plus, aucun représentant de NN Life n’a témoigné.
+[9] L’exposé conjoint des faits est relativement court, et je le reproduis dans sa totalité :
+[TRADUCTION]
+Les parties à la présente instance admettent les faits suivants :
+1. Aviva Canada Inc. (l’« appelante ») est une société dûment constituée en vertu des lois de l’Ontario. Pendant toute la période pertinente, l’appelante était réputée être une institution financière au sens de l’alinéa 149(1)b)* de la Loi sur la taxe d’accise (la « Loi »).
+2. En vertu d’une entente datée du 18 mai 1999, l’appelante (alors nommée CGU Group Canada Ltd et, avant cela, General Accident Group (Canada) Ltd) a convenu de payer à NN Life Insurance Company of Canada (« NN Insurance ») une somme de cinq millions de dollars en contrepartie de l’attribution des marques de commerce « CGU Insurance Company » et « CGU » (les « marques de commerce ») (voir l’onglet 1 du recueil conjoint de jurisprudence et de doctrine de l’appelante et de l’intimée (le « recueil de jurisprudence et de doctrine »)).
+3. En plus des cinq millions de dollars payés à NN Insurance en contrepartie des marques de commerce, l’appelante a payé 350 000 $ au titre de la taxe sur les produits et services (« TPS »), comme en témoigne le chèque daté du 17 mai 1999 (onglet 3 du recueil de jurisprudence et de doctrine).
+4. L’appelante n’a pas demandé de crédit de taxe sur les intrants en vertu du paragraphe 169(1) de la Loi relativement à la TPS qu’elle a payée à NN Life parce que les marques de commerce ont été acquises pour utilisation dans le cadre de ses activités exonérées, c’est‑à‑dire dans le cadre de la fourniture de biens et de services à des sociétés d’assurance faisant partie de CGU Group à un moment où il était possible de faire un choix en vertu de l’article 150 de la Loi.
+5. Initialement, les marques de commerce appartenaient à Canadian Group Underwriters Insurance Company (« Underwriters »), qui est aujourd’hui ING Novex Insurance Company of Canada, et avaient été déposées par celle-ci.
+6. Comme l’indiquent les onglets 4 et 5 du recueil de jurisprudence et de doctrine, les marques de commerce étaient déposées exclusivement pour utilisation au Canada dans le cadre des services d’assurance suivants :
+[TRADUCTION]
+(1) Services d’assurance transport terrestre, d’assurance caution, d’assurance contre le vol, d’assurance accident et maladie, d’assurance crédit, d’assurance détournement, d’assurance frais juridiques et d’assurance responsabilité.
+(2) Services d’assurance déplacement, d’assurance maritime et fluviale, d’assurance de biens et d’assurance automobile.
+7. Comme l’indique l’annexe A de l’entente dont il est question au paragraphe 2 du présent exposé, avant que les marques de commerce soient attribuées à [l’appelante], Underwriters les a d’abord attribuées à sa société affiliée, NN Life Insurance Company of Canada (« NN Life »), [TRADUCTION] « en contrepartie d’un dollar (1 $) et de toute autre contrepartie de valeur » le 18 mai 1999. Le même jour, les marques de commerce ont été transférées de NN Life à [l’appelante] (onglet 2 du recueil de jurisprudence et de doctrine).
+8. L’appelante n’avait aucun lien de dépendance avec Underwriters et NN Life.
+9. Quand Underwriters a attribué les marques de commerce à NN Life, les deux sociétés ont fait le choix conjoint prévu par le paragraphe 85(1) de la Loi de l’impôt sur le revenu. Cette série d’opérations a permis à NN Life de réaliser un gain en capital de cinq millions de dollars, qui pouvait être appliqué en réduction des pertes fiscales accumulées des années précédentes (voir les éléments de correspondance et le formulaire T2057 de Revenu Canada reproduits aux onglets 16 et 17 du recueil de jurisprudence et de doctrine).
+10. Le 20 juillet 2000, l’appelante a demandé le remboursement prévu à l’article 261 de la Loi; plus précisément, elle a demandé un remboursement de 350 000 $ pour la TPS qu’elle avait payée à NN Life (onglet 6 du recueil de jurisprudence et de doctrine).
+11. Le ministre a délivré un avis de (nouvelle) cotisation daté du 6 août 2001 dans lequel il a refusé la demande générale de remboursement au motif que la fourniture des marques de commerce était à juste titre assujettie à la TPS (onglet 10 du recueil de jurisprudence et de doctrine).
+12. L’appelante a déposé un avis d’opposition en date du 6 septembre 2001 (onglet 11 du recueil de jurisprudence et de doctrine).
+13. Le ministre a délivré un avis de décision le 14 février 2003 ratifiant l’avis de (nouvelle) cotisation (onglet 12 du recueil de jurisprudence et de doctrine).
+Les parties aux présentes reconnaissent que le présent exposé conjoint des faits n’empêche aucune des parties de présenter des éléments de preuve visant à suppléer aux faits exposés aux présentes, mais il est entendu que cette preuve ne peut contredire les faits admis.
+* Les parties conviennent que le renvoi législatif est erroné.
+[10] La plus grande partie de l’exposé conjoint des faits cadre avec les documents présentés comme preuve, mais je voudrais formuler quelques commentaires au sujet de quelques incohérences mineures.
+[11] D’abord, l’exposé conjoint des faits indique qu’Underwriters était propriétaire des marques de commerce. Les documents n’indiquent pas clairement qu’Underwriters avait la pleine propriété des marques de commerce, mais cette incohérence n’est pas pertinente en l’espèce.
+[12] Ensuite, l’exposé conjoint des faits indique que NN Life avait acquis les marques de commerce le 18 mai 1999, soit le jour même où les marques de commerce avaient été vendues à l’appelante. Cet énoncé ne correspond pas à ce qui est indiqué dans le formulaire T2057 produit selon l’article 85 de la Loi de l’impôt sur le revenu relativement au transfert des marques de commerce d’Underwriters à NN Life[1]. Le formulaire de choix indique que NN Life a acquis les marques de commerce le 13 mai 1999. Rien n’a été dit à l’audience au sujet de cette incohérence et, compte tenu de l’ensemble des documents produits, je conclus que la date indiquée sur le formulaire de choix est une erreur[2].
+[13] L’exposé conjoint des faits n’indique rien au sujet de la contrepartie que NN Life a payée à Underwriters pour l’acquisition des marques de commerce. Au moment d’établir la cotisation, le ministre a émis l’hypothèse, compte tenu d’une entente d’attribution entre Underwriters et NN Life, que les marques de commerce avaient été acquises par NN Life pour une contrepartie d’un dollar. Toutefois, l’entente d’attribution n’appuie pas l’hypothèse du ministre. Au contraire, elle indique que la contrepartie payée par NN Life était de [traduction] « un dollar (1 $) et toute autre contrepartie de valeur ».
+[14] Toutefois, le montant de la contrepartie que NN Life a payée à Underwriters est indiqué dans le formulaire de choix T2057. Celui-ci indique que la contrepartie reçue par Underwriters consistait en actions privilégiées de NN Life, dont la juste valeur marchande était de 5 000 000 $, et qui étaient rachetables et encaissables par anticipation pour ce montant. Il n’y a aucune raison de douter que NN Life a payé cette contrepartie, et j’accepte que c’est ce qu’elle a fait.
+[15] Pour terminer l’énoncé du contexte factuel des présentes, je voudrais formuler des commentaires sur la preuve relative à la façon dont Underwriters et NN Life ont traité l’opération aux fins de l’impôt sur le revenu et de la TPS. Premièrement, l’exposé conjoint des faits indique que NN Life avait « réalisé » un gain en capital de 5 000 000 $ sur l’opération, montant qui a été appliqué en réduction de ses pertes fiscales accumulées des années précédentes. Deuxièmement, le formulaire T2057 indique que les marques de commerce étaient des immobilisations admissibles en faveur d’Underwriters. Finalement, au moment d’établir la cotisation, le ministre a émis l’hypothèse que NN Life avait demandé un crédit de taxe sur les intrants de 350 000 $ relativement à cette opération. Aucun élément de preuve n’a été présenté pour réfuter cette hypothèse.
+Analyse
+[16] Les observations des parties étaient axées sur le sens général de l’expression « fourniture taxable » et sur l’application des dispositions visant la fourniture réputée qui figurent aux paragraphes 141.1(1) et (2) de la Loi. Je vais d’abord me pencher sur le sens de l’expression « fourniture taxable ».
+[17] La disposition générale d’assujettissement à la TPS figurant au paragraphe 165(1) est ainsi libellée :
+165. (1) Sous réserve des autres dispositions de la présente partie, l’acquéreur d’une fourniture taxable effectuée au Canada est tenu de payer à Sa Majesté du chef du Canada une taxe calculée au taux de 7 % sur la valeur de la contrepartie de la fourniture.
+[Non souligné dans l’original.]
+[18] Le sens de l’expression « fourniture taxable » est une notion clé lorsqu’il s’agit de déterminer si une opération est taxable ou non. De façon générale, compte tenu de la définition de « fourniture taxable » et des termes connexes, la vente des marques de commerce par NN Life à l’appelante est taxable si elle a été effectuée dans le cadre de l’exploitation de l’entreprise de NN Life ou dans le cadre d’une affaire de caractère commercial.
+[19] Les termes pertinents sont définis au paragraphe 123(1) de la Loi de la façon suivante :
+« fourniture taxable » Fourniture effectuée dans le cadre d’une activité commerciale.
+« activité commerciale » Constituent des activités commerciales exercées par une personne :
+a) l’exploitation d’une entreprise (à l’exception d’une entreprise exploitée sans attente raisonnable de profit par un particulier, une fiducie personnelle ou une société de personnes dont l’ensemble des associés sont des particuliers), sauf dans la mesure où l’entreprise comporte la réalisation par la personne de fournitures exonérées;
+b) les projets à risque et les affaires de caractère commercial (à l’exception de quelque projet ou affaire qu’entreprend, sans attente raisonnable de profit, un particulier, une fiducie personnelle ou une société de personnes dont l’ensemble des associés sont des particuliers), sauf dans la mesure où le projet ou l’affaire comporte la réalisation par la personne de fournitures exonérées; […]
+[Non souligné dans l’original.]
+« fourniture » Sous réserve des articles 133 et 134, livraison de biens ou prestation de services, notamment par vente, transfert, troc, échange, louage, licence, donation ou aliénation.
+« entreprise » Sont compris parmi les entreprises les commerces, les industries, les professions et toutes affaires quelconques avec ou sans but lucratif, ainsi que les activités exercées de façon régulière ou continue qui comportent la fourniture de biens par bail, licence ou accord semblable. En sont exclus les charges et les emplois.
+[20] La question centrale dans le présent appel est de savoir si NN Life a vendu les marques de commerce dans le cadre d’une entreprise ou d’une affaire de caractère commercial. Je vais commencer par examiner la question de savoir si l’opération constituait une affaire de caractère commercial, étant donné qu’il s’agit du principal argument de l’intimée.
+a) La vente était-elle une affaire de caractère commercial?
+[21] L’expression « les affaires de caractère commercial » qui se trouve dans la définition de l’expression « activité commerciale » semble avoir été adaptée à partir de la définition du terme « entreprise » figurant au paragraphe 248(1) de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.) dans sa forme modifiée. Voici la définition de ce terme :
+« entreprise » Sont compris parmi les entreprises les professions, métiers, commerces, industries ou activités de quelque genre que ce soit et, sauf pour l’application de l’alinéa 18(2)c), de l’article 54.2, du paragraphe 95(1) et de l’alinéa 110.6(14)f), les projets comportant un risque ou les affaires de caractère commercial, à l’exclusion toutefois d’une charge ou d’un emploi.
+[22] Le sens de l’expression « affaire de caractère commercial » a assez récemment été examiné dans deux arrêts de la Cour suprême du Canada. Dans l’arrêt Continental Bank of Canada v. The Queen, 98 D.T.C. 6501, la Cour s’était penchée sur la question de savoir si l’opération était une opération commerciale spéculative[3].
+[23] Dans l’arrêt Friesen v. The Queen, [1995] 2 C.T.C. 369, la même Cour a expliqué la nature d’un « projet comportant un risque ou une affaire de caractère commercial » de la façon suivante :
+La première condition de l’existence d’un projet comportant un risque de caractère commercial est qu’il comporte un « plan visant la réalisation d’un bénéfice ». Le contribuable doit avoir l’intention légitime de tirer un bénéfice de l’opération. Les autres conditions sont énoncées utilement dans le bulletin d’interprétation IT-459, intitulé « Projet comportant un risque ou une affaire de caractère commercial » (8 septembre 1980), qui fait mention du bulletin d’interprétation IT-218, intitulé « Profits sur la vente de biens immeubles » (26 mai 1975), comme document où sont résumés les facteurs pertinents dans le cas de biens immeubles.
+Le bulletin IT-218R, qui a remplacé le bulletin IT-218 en 1986, énumère un certain nombre de facteurs dont les tribunaux se sont servis pour déterminer si une opération immobilière constitue un projet comportant un risque de caractère commercial qui génère un revenu d’entreprise ou une opération portant sur une immobilisation, impliquant la vente d’un placement. Une attention particulière est accordée à :
+(i) L’intention du contribuable relativement au bien immeuble au moment de l’achat, ses possibilités de réalisation et la mesure dans laquelle cette intention est réalisée. L’intention de revendre la propriété avec bénéfice la rendra plus susceptible d’être qualifiée de projet comportant un risque de caractère commercial.
+(ii) La nature de l’entreprise, de la profession, du métier ou de l’occupation du contribuable et des associés. Plus l’entreprise ou la profession d’un contribuable est liée aux transactions immobilières, plus il est probable que le revenu réalisé sera considéré comme un revenu tiré d’une entreprise plutôt que comme un gain en capital.
+(iii) La nature du bien et l’usage qu’en fait le contribuable.
+(iv) La mesure dans laquelle l’argent emprunté a servi à financer l’acquisition du bien immeuble et la période pendant laquelle le bien immeuble a été détenu par le contribuable. Les opérations impliquant emprunt et revente rapide sont plus susceptibles d’être des projets comportant un risque de caractère commercial.
+[24] Bien que peu d’éléments de preuve pertinents aient été présentés, aucun de ces éléments ne porte à croire que la vente des marques de commerce avait les caractéristiques d’une opération commerciale. NN Life n’a pas négocié la vente et a probablement agi à titre de partie de complaisance pour réduire le montant d’impôt à payer sur la vente. Les marques de commerce ont été acquises par NN Life le jour même où elles ont été vendues à l’appelante, et NN Life a donné à Underwriters une contrepartie dont la valeur correspondait au montant qu’elle avait reçu de l’appelante. Cette opération ne correspond absolument pas à ce que la juge McLaughlin a appelé une « opération commerciale spéculative » dans l’arrêt Continental Bank.
+[25] Bien que les circonstances de l’achat et de la vente effectués par NN Life semblent être relativement simples, je suis troublée par le fait que personne ayant une connaissance directe de la situation de NN Life n’ait témoigné à l’audience. J’ai toutefois conclu que les lacunes dans la preuve ne devraient rien changer à la conclusion selon laquelle l’opération n’était pas une opération « commerciale ». La charge de la preuve relativement à cette question devrait reposer sur l’intimée parce qu’aucune des hypothèses faites par le ministre ne donne à penser que les opérations avaient des caractéristiques d’une opération commerciale : Loewen v. The Queen, [2004] 3 C.T.C. 6 (C.A.F.), au paragraphe 11.
+[26] Je signale également que l’intimée a convenu, dans l’énoncé conjoint des faits, que l’opération « a permis à NN Life de réaliser un gain en capital ». Il serait illogique que l’intimée prétende ensuite que l’opération était une opération commerciale spéculative.
+[27] Il reste à établir s’il faut donner un sens différent à l’expression « les projets à risque et les affaires de caractère commercial » aux fins de la TPS et de l’impôt sur le revenu. L’intimée prétend qu’il faut faire une interprétation contextuelle de la question en tenant compte du régime des dispositions législatives sur la TPS. Il a été avancé que le concept des « bénéfices » ne s’applique pas à la TPS parce que celle-ci est une taxe fondée sur les opérations et que les dispositions législatives sur la TPS doivent donc être interprétées de façon à comprendre les opérations qui n’ont pas les caractéristiques d’une opération commerciale spéculative.
+[28] Le principal problème que me pose cette observation est qu’elle ne tient pas compte du libellé des dispositions législatives connexes. Bien qu’il soit nécessaire de faire une interprétation contextuelle des dispositions législatives, il faut essentiellement interpréter les mots utilisés par le législateur. La question clé en l’espèce est le sens du mot « commercial », et l’intimée n’a pas su rattacher l’interprétation qu’elle propose à un sens accepté de l’expression.
+[29] Je signale également que la position de l’intimée semble aller dans le sens contraire de l’interprétation que l’Agence du revenu du Canada donne à l’expression. L’avocat de l’appelante a invoqué l’énoncé de politique P-059, « Entreprise par opposition à projet à risques ou affaire de caractère commercial relativement à la vente d’un immeuble » daté du 3 mars 1993. L’énoncé de politique P‑059 traite des immeubles, mais il y est indiqué qu’il est censé avoir un champ d’application plus large et qu’il est particulièrement pertinent pour l’interprétation de l’expression « activité commerciale ».
+[30] De plus, la position de l’intimée va dans le sens contraire d’une remarque incidente formulée dans l’arrêt Corporation de l’École Polytechnique v. The Queen, [2004] G.S.T.C. 102 (C.A.F.). Au paragraphe 24, les juges Décary et Létourneau ont dit ce qui suit :
+[…] On doit, selon nous, donner à l’expression « projets à risque et les affaires de caractère commercial » le sens qu’elle a dans la définition d’ « entreprise » au paragraphe 248(1) de la Loi de l’impôt sur le revenu. Or, selon la jurisprudence, « la première condition de l’existence d’un projet comportant un risque de caractère commercial est qu’il comporte un "plan visant la réalisation d’un bénéfice" » (Friesen c. Canada, [1995] 3 R.C.S. 103 (C.S.C.), para. 16, j. Major).
+[31] Finalement, il ne m’apparaît pas que le régime de la TPS exige que l’expression « projets à risque et affaires de caractère commercial » ait un sens plus large que le sens qu’elle a dans le domaine de l’impôt sur le revenu.
+[32] L’intimée avance qu’il y aurait une lacune dans la loi si la vente effectuée par NN Life n’était pas considérée comme étant une « fourniture taxable ». Voici un extrait des observations écrites de l’intimée :
+[traduction]
+[…] si l’appel est accueilli, toutes les ventes de biens qui ont été acquis par une personne qui ne les acquiert que pour revente rapide et qui se trouve à exercer des activités exonérées ne seront jamais assujetties à la TPS, même si les biens ne sont jamais exclusivement utilisés ou consommés par la personne dans le cadre de ses activités exonérées. (paragr. 43)
+[33] Voici un autre passage tiré des observations supplémentaires de l’intimée :
+[traduction]
+[…] si la Cour devait juger que ces fournitures isolées de marques de commerce ne constituent pas des « projets à risque [ou des] […] affaires de caractère commercial » pour l’application de la LTA compte tenu de dispositions de la Loi de l’impôt sur le revenu, elle modifierait effectivement la LTA pour exclure les opérations « isolées » du champ d’application de la LTA aux fins des dispositions d’assujettissement et des dispositions sur les CTI (étant donné que l’expression « activité commerciale » est un élément central des deux dispositions). (paragr. 18)
+[34] Il semble être suggéré que la vente des marques de commerce ne pourrait pas du tout être assujettie à la TPS si l’appelante n’avait aucune taxe à payer. Cela semble supposer que NN Life n’était assujettie à aucune taxe relativement à l’opération. Cette supposition est peut-être exacte, mais elle n’a pas été expliquée de façon satisfaisante.
+[35] La position de l’appelante soulève peut-être des préoccupations légitimes en matière de politique, ce qui peut se produire même s’il n’y a pas de lacune dans la loi, mais il ne s’agit pas d’un motif pour omettre de prendre en compte le libellé de la loi.
+[36] À mon avis, la vente des marques de commerce n’avait aucune caractéristique d’une opération de commerce et ne constituait donc pas un projet à risque ou une affaire de caractère commercial.
+[37] Je me penche maintenant sur la question de savoir si la vente a été effectuée dans le cadre de l’entreprise de NN Life. Il y a deux points à déterminer. Il faut d’abord voir si l’opération de vente des marques de commerce était elle-même une entreprise et ensuite déterminer si l’opération liée aux marques de commerce faisait partie des autres activités commerciales de NN Life.
+b) La vente était-elle une « entreprise »?
+[38] L’intimée avance que la vente des marques de commerce qu’a effectuée NN Life constituait à elle seule une « entreprise ». L’avocat allègue que la définition du terme « entreprise » dans la Loi est suffisamment large pour inclure la vente, même si cette dernière était une opération isolée. L’intimée souligne que la définition est très large et qu’elle comprend l’expression « toutes affaires quelconques ».
+[39] Je ne suis pas du même avis. La définition du terme « entreprise » figurant dans la Loi semble être identique à la définition du même terme figurant dans la Loi de l’impôt sur le revenu, sauf quant à quelques modifications. L’intimée invoque l’expression undertaking of any kind ( toutes affaires quelconques ) qui se trouve dans la version anglaise de la Loi, mais, puisque cette même expression se trouve également dans la définition du terme business ( entreprise ) qui se trouve dans la version anglaise de la Loi de l’impôt sur le revenu, cet argument ne constitue pas un fondement sur lequel il est possible d’établir une distinction entre les deux lois.
+[40] Dans le contexte de l’impôt sur le revenu, on estime que l’expression « exploiter une entreprise » s’applique à un cas où sont exercées un plus grand nombre d’activités qu’une simple opération isolée. Dans l’arrêt Timmins v. The Queen, [1999] 2 C.T.C. 133 (C.A.F.), le juge Noël a dit ce qui suit :
+Les expressions « exploite une entreprise », « exploiter une entreprise » ou « entreprise exploitée » (en anglais « carry on business », « carrying on business », « carried on business »)11 ne sont pas définies, mais eu égard au sens ordinaire des mots, elles désignent forcément la direction ou l’exploitation continue d’une entreprise12. Il semblerait s’ensuivre que celui qui « exploite » une entreprise au sens ordinaire ou qui exerce une ou plusieurs activités visées au paragraphe 248(1) dans le temps « exploite une entreprise » en vertu de la Loi13.
+11 Ces expressions sont employées de façon interchangeable dans toute la Loi. Voir, par exemple, les art. 2(3)b), 13(9) [mod. par L.C. 1988, ch. 55, art. 6), 24(2) [mod. par L.C. 1991, ch. 49, art. 17], 27(1)a) [mod. par S.C. 1984, ch. 31, art. 14], 28(2) [mod. par S.C. 1980-81-82-83, ch. 48, art. 13], (4.1) [édicté par L.C. 1991, ch. 49, art. 18], (5), 29(1), 111(5)a) [mod. par L.C. 1987, ch. 46, art. 40; 1988, ch. 55, art. 83], 125(7) [mod. par S.C. 1977-78, ch. 32, art. 32; 1984, ch. 45, art. 40], 143(1) [mod. par S.C. 1977-78, ch. 1, art. 71], 149(1)j) [mod. par S.C. 1986, ch. 6, art. 15], 253 [mod. par L.C. 1991, ch. 49, art. 197].
+12 Le terme anglais « carry on » est ainsi défini dans Shorter Oxford English Dictionary, 3e éd., Oxford Clarendon Press, 1990 : [Traduction] a) poursuivre (une instance); b) perpétuer; c) travailler à, poursuivre; d) continuer un travail; e) faire des histoires ou avoir une conduite inacceptable.
+13 À moins que l’activité en question ne se prête pas à une « exploitation ». Ainsi, dans l’arrêt Tara Exploration & Development Co. Ltd. c. M.R.N., [1970] C.T.C. 557 (C. de l’É.), le président Jackett a déclaré qu’on ne pouvait pas considérer qu’une personne morale étrangère avait « exploité » une entreprise au Canada pour l’application de l’art. 2(2) de la Loi pour la seule raison qu’elle avait réalisé un « projet comportant un risque de caractère commercial » au Canada. Il a écrit à la p. 567 :
+[TRADUCTION] J’ai conclu avec beaucoup d’hésitation que la meilleure interprétation est que l’expression « a exercé » n’est pas une expression que l’on peut utiliser convenablement avec le terme « initiative ». Exercer quelque chose implique une continuité dans le temps ou dans les opérations, comme celle qu’implique le sens ordinaire du mot « entreprise ». Une initiative est un événement isolé. On prend une initiative et on exerce une entreprise.
+[41] Je ne vois aucune raison pour laquelle il faudrait déroger à ce raisonnement pour l’application de la Loi. Les termes pertinents dans la définition de l’expression « activité commerciale » sont « exploitation d’une entreprise ». Je fais également remarquer que la politique adoptée par l’Agence du revenu du Canada semble aller dans le même sens, comme l’indique l’énoncé de politique P-059 dont il est question ci‑dessus.
+[42] Je conclus donc que la vente des marques de commerce qu’a effectuée NN Life au profit de l’appelante ne constitue pas à elle seule une entreprise.
+c) La vente a-t-elle été effectuée dans le cadre de l’entreprise de NN Life?
+[43] Même si l’achat et la vente des marques de commerce ne constituaient pas à eux seuls une entreprise, il reste à savoir si l’opération liée aux marques de commerce était liée à une autre activité de l’entreprise qui était une « activité commerciale ».
+[44] De par sa définition, l’expression « activité commerciale » exclut les activités de l’entreprise qui comprennent la réalisation de fournitures exonérées. Cela comprend de nombreux produits généralement vendus par les sociétés d’assurance. La question qui se pose donc est de savoir si la vente des marques de commerce a été faite dans le cadre des activités de NN Life qui ne comprennent pas la réalisation de fournitures exonérées. La preuve qui m’a été présentée n’est pas suffisante pour arriver à une conclusion selon laquelle elle l’était.
+[45] Pour ce qui est de la preuve relative aux autres activités de NN Life, le recueil de jurisprudence et de doctrine comprend les lettres patentes de la société et un état consolidé des résultats qui a été déposé auprès du Bureau du surintendant des institutions financières (BSIF). Étant donné que les lettres patentes n’indiquaient que ce que NN Life était autorisée à faire et que les états des résultats étaient consolidés, aucun de ces documents ne permet de savoir quelles étaient les activités réelles de NN Life ou de savoir si NN Life exploitait même une entreprise.
+[46] En ce qui concerne la preuve relative aux pertes de NN Life, aucun élément de preuve n’a été fourni quant à la nature des pertes ou quant à la façon dont elles sont survenues.
+[47] Compte tenu de ce qui précède, rien ne me permet de conclure que l’opération liée aux marques de commerce a été effectuée dans le cadre d’autres activités commerciales de NN Life.
+[48] Même si NN Life avait exercé des activités commerciales et que ses pertes avaient été subies dans le cadre de ces activités, je serais portée à croire que l’opération liée aux marques de commerce n’avait pas été effectuée dans le cadre de ces activités. La situation fiscale de NN Life semble être la raison pour laquelle celle‑ci a acquis et vendu les marques de commerce, mais je ne pense pas qu’il s’agisse là d’un lien suffisant pour inclure l’opération liée aux marques de commerce dans les autres activités commerciales de NN Life.
+[49] Pour arriver à cette conclusion, j’ai tenu compte de jugements qui semblent donner un sens relativement large à l’expression « dans le cadre d’une activité commerciale », soit Midland Bretheren v. The Queen, [2000] G.S.T.C. 109 (C.A.F.), et BJ Services Company Canada v. The Queen, [2002] G.S.T.C. 124 (C.C.I.). Dans ces deux affaires, il était question de demandes de crédits de taxe sur les intrants, ce qui dépendait de la question de savoir si les dépenses avaient été engagées dans le cadre d’une activité commerciale. Dans les deux cas, la Cour a conclu que les dépenses donnaient droit au crédit de taxe sur les intrants parce que les activités commerciales du contribuable en avaient tiré un avantage.
+[50] Les faits du présent appel ne sont pas analogues à ces affaires. L’opération liée aux marques de commerce n’a fourni aucun avantage aux autres activités de NN Life, du moins selon ce que la preuve révèle.
+d) Application de l’article 141.1
+[51] L’intimée avance de plus que l’opération liée aux marques de commerce est réputée être une fourniture taxable selon les alinéas 141.1(1)a) et (2)a) de la Loi, qui sont ainsi libellés :
+141.1 (1) Aliénation d’un bien meuble – Pour l’application de la présente partie :
+a) la fourniture d’un bien meuble, sauf une fourniture exonérée, est réputée effectuée dans le cadre des activités commerciales du fournisseur si, selon le cas :
+(i) il a acquis ou importé le bien la dernière fois, ou l’a transféré dans une province participante après l’avoir acquis ou importé la dernière fois, en vue de le consommer ou de l’utiliser dans le cadre de ses activités commerciales, ou il l’a consommé ou utilisé dans ce cadre après l’avoir acquis ou importé la dernière fois, […]
+(2) Aliénation de biens figurant à l’inventaire – Pour l’application de la présente partie :
+a) la personne qui fournit, par vente, un bien meuble ou un service qu’elle a acquis, importé, transféré dans une province participante, fabriqué ou produit exclusivement pour le fournir par vente dans le cadre de son entreprise ou de son projet à risques ou affaire de caractère commercial est réputée avoir effectué la fourniture dans le cadre de ses activités commerciales […]
+[52] La règle de présomption figurant à l’alinéa 141.1(1)a) s’applique généralement à la vente de biens dans les cas où les biens sont consommés ou utilisés dans le cadre d’activités commerciales. La disposition semble élargir la portée de la TPS pour inclure les biens qui sont utilisés dans le cadre d’une entreprise et qui ne sont pas vendus dans le cadre des activités ordinaires de l’entreprise. Des exemples de ce genre de biens seraient de l’outillage de fabrication ou du matériel de bureau.
+[53] Le but de l’alinéa 141.1(2)a) n’est pas aussi clair. En général, l’alinéa s’applique à la vente de biens qui sont acquis pour revente dans le cadre d’une entreprise ou d’une affaire de caractère commercial. Les notes techniques produites par le ministère des Finances expliquent la façon dont la disposition s’applique en donnant comme exemple une situation où un employeur qui a loué des voitures à des employés achète plus tard les voitures pour les revendre aux employés. Cette situation semble correspondre à un cas où l’acquisition et la revente ne se font pas dans le cadre des activités ordinaires de l’entreprise.
+[54] Bien qu’il y ait de l’incertitude quant à la portée de l’alinéa 141.1(2)a), il est clair que la disposition ne s’applique que si l’opération a un certain lien avec une entreprise ou une affaire de caractère commercial. La même chose s’applique à l’alinéa 141.1(1)a). Il n’y a aucun lien de ce genre en l’espèce.
+[55] L’intimée prétend que le terme « entreprise » qui se trouve à l’alinéa 141.1(2)a) devrait avoir un sens plus large que le sens qui lui est donné dans la définition de l’expression « activité commerciale » parce que, dans la règle de présomption, le mot « exploitée » n’est pas utilisé avec le mot « entreprise ». L’intimée a avancé que les opérations isolées sont donc visées par la définition du terme « entreprise ».
+[56] Je ne suis pas du même avis. La règle de présomption de l’alinéa 141.1(2)a) est parallèle à la définition générale de l’expression « activité commerciale » parce que les termes « entreprise » et « affaire de caractère commercial » sont utilisés dans la définition. La dernière référence fait en sorte que les opérations de commerce isolées sont visées par l’article. Si le législateur avait voulu élargir la portée des opérations isolées qui étaient taxables en vertu de la règle de présomption, il aurait modifié l’expression « projet à risque ou affaire de caractère commercial ». Le fait que le mot « exploitée » ne soit pas utilisé avec le terme « entreprise » ne devrait pas être interprété de façon à changer de façon radicale la portée des opérations taxables visées par cette disposition.
+[57] Je conclus donc que ni l’alinéa 141.1(1)a) ni l’alinéa 141.1(2)a) ne s’appliquent dans la présente affaire.
+Dispositif
+[58] Pour les motifs qui précèdent, je conclus que l’appelante n’était pas bénéficiaire d’une fourniture taxable lorsqu’elle a acquis les marques de commerce de NN Life.
+[59] L’appel est accueilli avec dépens, et la cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation au motif que l’acquisition des marques de commerce faite par l’appelante n’est pas assujettie à la taxe en vertu du paragraphe 165(1) de la Loi.
+Signé à Ottawa, Canada, ce 26e jour de janvier 2006.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 16e jour de juin 2008.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2006CCI57
+No DU DOSSIER DE LA COUR : 2003-1827(GST)G
+INTITULÉ : Aviva Canada Inc. (anciennement CGU Group Canada Ltd.) et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATES DE L’AUDIENCE : Les 1 et 2 septembre et le 1er décembre 2005
+MOTIFS DU JUGEMENT : L’honorable juge Judith Woods
+DATE DU JUGEMENT : Le 26 janvier 2006
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Glenn A. Cranker
+Avocats de l’intimée :
+Me John McLaughlin
+Me Harry Erlichman
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Me Glenn A. Cranker
+Cabinet : Stikeman Elliott S.E.N.C.R.L., s.r.l.
+Montréal (Québec)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pièce AR, onglet 17.
+[2] Selon une entente figurant à l’onglet 2 de la pièce AR, les marques de commerce ont été transférées d’Underwriters à NN Life le 18 mai 1999.
+[3] Voir le paragraphe 16 des motifs de la juge McLaughlin (tel était son titre à l’époque).

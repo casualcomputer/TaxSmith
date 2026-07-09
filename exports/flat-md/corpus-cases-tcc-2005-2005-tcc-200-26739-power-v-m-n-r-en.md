@@ -1,0 +1,205 @@
+---
+title: "Power v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26739/index.do"
+last_modified: "2005-03-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 200"
+citation2: ""
+neutral_citation: "2005 TCC 200"
+decision_date: "2005-03-18"
+language: "en"
+item_id: "26739"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3420
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:55:06.634000+00:00"
+cases_cited_count: 0
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0ba2fcf5d26ae4ac4c0eef7711e406b244b1e74f4dd592cd1dd881c9b53bb7c1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Power v. M.N.R.
+
+- Citation: 2005 TCC 200
+- Decision date: 2005-03-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3420, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Power v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-03-18
+Neutral citation
+2005 TCC 200
+File numbers
+2004-3517(EI)
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2004-3517(EI)
+2004-3519(CPP)
+BETWEEN:
+JERRY A. POWER,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Motion heard on November 23, 2004, at St. John's, Newfoundland,
+By: The Honourable Justice E.A. Bowie
+Appearances:
+Counsel for the Appellant:
+Michael Drover
+Counsel for the Respondent:
+Steven Leckie
+____________________________________________________________________
+ORDER
+Upon motion by the Respondent for an Order quashing these purported appeals on the ground that they are not properly constituted;
+And upon having read the Notice of Motion and material filed in support thereof;
+And upon having heard the counsel for the parties;
+It is ordered that the purported appeals under the Employment Insurance Act and the Canada Pension Plan are quashed.
+Signed at Ottawa, Canada, this 18th day of March, 2005.
+"E.A. Bowie"
+Bowie J.
+Docket: 2004-3520(EI)
+2004-3521(CPP)
+BETWEEN:
+PAULINE POWER,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Motion heard on November 23, 2004, at St. John's, Newfoundland,
+By: The Honourable Justice E.A. Bowie
+Appearances:
+Counsel for the Appellant:
+Michael Drover
+Counsel for the Respondent:
+Steven Leckie
+____________________________________________________________________
+ORDER
+Upon motion by the Respondent for an Order quashing these purported appeals on the ground that they are not properly constituted;
+And upon having read the Notice of Motion and material filed in support thereof;
+And upon having heard the counsel for the parties;
+It is ordered that the purported appeals under the Employment Insurance Act and the Canada Pension Plan are quashed.
+Signed at Ottawa, Canada, this 18th day of March, 2005.
+"E.A. Bowie"
+Bowie J.
+Citation: 2005TCC200
+Date: 20050318
+Docket: 2004-3517(EI), 2004-3519(CPP)
+2004-3520(EI), 2004-3521(CPP)
+BETWEEN:
+JERRY P. POWER and PAULINE POWER,
+Appellants,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR ORDER
+BowieJ.
+[1] In 2002 a question arose as to whether Jerry Power and Pauline Power were engaged in insurable employment under the Employment Insurance (Fishing) Regulations[1] made pursuant to the Employment Insurance Act[2] (the Act). The same question arose with respect to pensionable employment under the Canada Pension Plan[3] (the Plan). A ruling was requested under section 90 of the Act and section 26.1 of the Plan. On December 23, 2002, an authorized officer of the Canada Customs and Revenue Agency (the Agency) ruled that the Powers were not insurable under the Fishing Regulations, but were engaged in insurable employment under paragraph 5(1)(a) of the Act and pensionable employment under paragraph 6(1)(a) of the Plan. These rulings concluded with the advice that if the Powers so wished, they could appeal to the Minister of National Revenue within 90 days pursuant to section 91 of the Act and section 27 of the Plan. They decided to appeal to the Minister, and they instructed their accountant accordingly. The 90th day following the rulings was March 23, 2003. The Appellants' contention is that their accountant filed their appeals before that date. The Respondent contends that they did not. In any event, the accountant wrote to the Agency's Chief of Appeals on April 8, 2004 as follows:
+We appealed a decision of the Canada Customs and Revenue Agency with a letter dated March 10, 2003 with regard to the insurability of Ms. Power's earnings with Grand Atlantic Seafoods.
+I met with Ms. Power on April 1, 2004 and she had informed me she had yet to receive a response to our letter of appeal of March 10, 2003 and that funds recently due her have been redirected to reduce the amount HRDC claims is owed by Mrs. Power.
+We ask that you please look into this matter and inform us why this appeal is taking this amount of time to process. We understand that appeals take time but we are concerned that this file may have been overlooked. We have enclosed a copy of our original appeal for your review.
+If you have any questions please call me at (709) 722-1100.
+The reply that he received to that letter is dated June 2, 2004. It reads:
+The Appeals Division of the Saint John N.B. Tax Services Office has received your appeal concerning your employment with Grand Atlantic Seafoods during the periods May 16, 2000 to November 7, 2000 and November 5, 2001 to May 25, 2001.
+Section 91 of the Employment Insurance Act and Section 27 of the CanadaPension Plan Act (sic), states that you must file an appeal to the Minister of National Revenue within 90 days of being notified of the ruling. Your ruling notice was dated December 24, 2002, and your original request was postmarked on April 15, 2004.
+Based on the above legislation, the request is late-filed and cannot be accepted.
+If you disagree with this decision you can appeal to Tax Court of Canada within 90 days of the date of this letter. You can find details on how to file an appeal in the enclosed document called How to Appeal to Tax Court of Canada.
+The Appellants treated this letter as being a decision of the Minister on their appeals to him under section 91 of the Act and section 27 of the Plan, and so on August 23, 2004, they each filed two Notices of Appeal in this Court, purportedly under section 103 of the Act and section 28 of the Plan. The Respondent now moves for Orders quashing these four purported appeals on the basis that there are no decisions of the Minister from which the appeals could be brought.
+[2] The positions of the parties are simple, and in stark contrast. The Appellant led evidence from the accountant to the effect that he had indeed launched the appeals to the Minister within 90 days of the date of the rulings, as the Act and the Plan require. What they seek from this Court is a decision that their appeals were in fact filed with the Minister within 90 days of the rulings, and referring the matter back to the Minister to hear and determine their appeals. The Respondent's position is that the appeals were not filed in time, but even if they were, the June 2nd letter is not a decision, or evidence of a decision, on an appeal to the Minister, and so it cannot be the foundation for an appeal to this Court, and so the appeals ought to be quashed.
+[3] Sections 90, 91 and 103 of the Act read as follows:
+90(1) An employer, an employee, a person claiming to be an employer or an employee or the Commission may request an officer of the Canada Customs and Revenue Agency authorized by the Minister to make a ruling on any of the following questions:
+(a) whether an employment is insurable;
+(b) how long an insurable employment lasts, including the dates on which it begins and ends;
+(c) what is the amount of any insurable earnings;
+(d) how many hours an insured person has had in insurable employment;
+(e) whether a premium is payable;
+(f) what is the amount of a premium payable;
+(g) who is the employer of an insured person;
+(h) whether employers are associated employers; and
+(i) what amount shall be refunded under subsections 96(4) to (10).
+90(2) The Commission may request a ruling at any time, but a request by any other person must be made before the June 30 following the year to which the question relates.
+90(3) The authorized officer shall make the ruling within a reasonable time after receiving the request.
+90(4) Unless a ruling has been requested with respect to an insured person,
+(a) an amount deducted from the remuneration of the person or paid by an employer as a premium for the person is deemed to have been deducted or paid in accordance with this Act; or
+(b) an amount that has not been so deducted or paid is deemed not to have been required to be deducted or paid in accordance with this Act.
+91 An appeal to the Minister from a ruling may be made by the Commission at any time and by any other person concerned within 90 days after the person is notified of the ruling.
+103(1) The Commission or a person affected by a decision on an appeal to the Minister under section 91 or 92 may appeal from the decision to the Tax Courtof Canada in accordance withthe Tax Court of Canada Act and the applicable rules of court made thereunder within 90 days after the decision is communicated to the Commission or the person, or within such longer time as the Court allows on application made to it within 90 days after the expiration of those 90 days.
+Sections 26.1, 27 and 28 of the Plan are in essentially the same terms. For the reasons that follow, I have reached the conclusion that these appeals are not properly constituted and that I must quash them.
+[4] The Appellants rely on my decision in Lord v. M.N.R.[4] In that case, this Court had to consider whether an appeal could be brought from what purported to be a decision of the Minister under section 70 of the Unemployment Insurance Act,[5]which was the predecessor statute, in circumstances where the decision on the appeal to the Minister had been made by a person in the Minister's department who did not have a delegation of authority permitting him to make such decisions. I held that the decision was nonetheless a decision of the Minister for purposes of section 103, because it was an act of the department of government for which the Minister was responsible, and it purported to decide that which the Minister was empowered to decide. While it might have been set aside as a result of proceedings brought for that purpose, it was not a nullity in the absence of any such attack. The letter that the Appellants in the present case would have me consider to be a "decision" giving rise to a right of appeal, in contrast, specifically declines to consider the issue or to make any determination of the question in dispute. It simply says that no appeal to the Minister is available because of the lapse of time.
+[5] The Federal Court of Appeal said in Moumdjian v. Canada(Security Intelligence Review Committee):[6]
+... the term "decision or order" has no fixed or precise meaning but, rather, depends upon the statutory context in which the advisory decision is made, having regard to the effect which such decision has on the rights and liberties of those seeking judicial review.
+That decision, like the decision of the Supreme Court of Canada in Saulnier v. Québec (Police Commission),[7] certainly had the effect of broadening the categories of decisions that would be subject to judicial review. What is in issue here, however, is the scope of a statutory right of appeal, and it must be assessed in light of the language of the statute. Subsection 103(1) of the Act gives the right of appeal to:
+... a person affected by a decision on an appeal to the Minister under section 91 or 92 ...
+... une personne que concerne une décision rendue au titre de l'article 91 ou 92 ...
+I am unable to read this expression in either French or English in such a way as to mean anything other than a decision made by the Minister, or the Minister's delegate, in the exercise of the jurisdiction to review the decisions of rulings officers - in other words, the jurisdiction to consider and decide whether the ruling given was correct. If the Minister's departmental officers decline to put the matter forward to the Minister, or a delegate, because they are of the view that the appeal was filed late, neither they nor the Minister has made a decision. The remedy that lies if the appeal was in fact filed in time is a mandatory order to compel the Minister to exercise his jurisdiction. This, of course, is a remedy that this Court cannot give; as a statutory Court it has only the powers that are found in the Tax Court of Canada Act,[8] or in some other statute, and the power to make an order in the nature of mandamus is not one of them.
+[6] I have arrived at this conclusion reluctantly, and not without some regret. It is a result that the Appellants will not find satisfactory, because it resolves nothing. They are left in the position that if they wish to pursue a remedy they must do so in the Federal Court, as only that Court can grant the remedy that they require. This is undoubtedly inconvenient for Appellants, but that can only be remedied by legislation giving this Court the authority to grant a wider range of remedies. As the matter may be pursued in the Federal Court, I do not propose to offer any view as to the weight of the evidence that was given before me.
+[7] The motions are allowed and Orders will go quashing the appeals.
+Signed at Ottawa, Canada, this 18th day of March, 2005.
+"E.A. Bowie"
+Bowie J.
+CITATION:
+2005TCC200
+COURT FILE NOS:
+2004-3517(EI), 2004-3519(CPP)
+2004-3520(EI), 2004-3521(CPP)
+STYLE OF CAUSE:
+Jerry A. Power and Pauline Power and
+The Minister of National Revenue
+PLACE OF HEARING:
+St. John's, Newfoundland
+DATE OF HEARING:
+November 23, 2004
+REASONS FOR ORDER BY:
+The Honourable Justice E.A. Bowie
+DATE OF ORDER:
+March 18, 2005
+APPEARANCES:
+Counsel for the Appellants:
+Michael Drover
+Counsel for the Respondent:
+Steven Leckie
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+Michael Drover
+Firm:
+Rogers Bussey Drover
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] SOR/96 - 445, as amended.
+[2] S.C. 1996, c.23, as amended.
+[3] R.S.C. 1985, c.C-8, as amended.
+[4] [1999] T.C.J. No. 95.
+[5] R.S. 1992 c. U-7.
+[6] [1994] 4 F.C. 624 at para. 23.
+[7] [1976] 1 S.C.R. 572
+[8] R.S.C. 1985, c. T-2 as amended.

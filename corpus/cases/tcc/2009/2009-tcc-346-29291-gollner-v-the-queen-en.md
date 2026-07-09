@@ -1,0 +1,198 @@
+---
+title: "Gollner v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29291/index.do"
+last_modified: "2009-06-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 346"
+citation2: ""
+neutral_citation: "2009 TCC 346"
+decision_date: "2009-06-26"
+language: "en"
+item_id: "29291"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7092
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:10:51.554000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e3fe5063118b43e9d25e9bec88f3cd215f4da6c9e4e808d174566ba35a2880c6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gollner v. The Queen
+
+- Citation: 2009 TCC 346
+- Decision date: 2009-06-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7092, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gollner v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-06-26
+Neutral citation
+2009 TCC 346
+File numbers
+2009-549(IT)APP
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-549(IT)APP
+BETWEEN:
+HELMUT GOLLNER,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application heard on June 9, 2009 and Reasons for Order rendered by telephone call on June 24, 2009 at
+Vancouver ,
+British Columbia
+Before: The Honourable Justice L.M. Little
+Appearances:
+For the Applicant:
+The Applicant himself
+Counsel for the Respondent:
+Matthew Canzer
+____________________________________________________________________
+ORDER
+Upon application for an Order extending the time within which appeals from assessments made under the Income Tax Act made for the 2002 and 2003 taxation years may be filed;
+And upon reading the Affidavit of Julisa Cheng filed;
+And upon hearing what was alleged by the parties;
+The application is dismissed in accordance with the attached Reasons for Order.
+Signed at
+Vancouver ,
+British Columbia
+, this 26th day of June 2009
+"L.M. Little"
+Little J.
+Citation: 2009 TCC 346
+Date: 20090626
+Docket: 2009-549(IT)APP
+BETWEEN:
+HELMUT GOLLNER,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Little J.
+A. Facts:
+[1] The Applicant is a retired barber. The Applicant said that after he retired as a barber he continued to sell shampoo products.
+[2] The Applicant explained his tax problem as follows:
+(a) The Applicant received a letter from the Canada Revenue Agency (the “CRA”) in which he was advised that the CRA would carry out an audit for his 2001, 2002 and 2003 taxation years.
+(b) The Applicant hired an accountant and provided officials of the CRA with the information that they had requested for his 2001, 2002 and 2003 taxation years.
+(c) Approximately three months after he had provided the financial information to officials of the CRA he was advised that the review of his tax position would be conducted by way of a Net Worth Analysis.
+(d) On May 1, 2006, the Minister of National Revenue (the “Minister”) issued Notices of Reassessment for the Applicant’s 2002 and 2003 taxation years.
+(e) On June 20, 2006, the Applicant filed Notices of Objection to the Notices of Reassessment issued for the 2002 and 2003 taxation years.
+(f) After the Notices of Objection were filed the Applicant’s accountant, Mr. Werner Rohrlack had discussions with Tina Tingson and Ron H. Brass of the Appeals Section of the CRA. These discussions concerned the Income Tax Reassessments plus the Goods and Service Tax Reassessments.
+(g) On November 14, 2007, the Minister issued a Notification of Confirmation for the Applicant’s 2002 taxation year.
+(h) On December 18, 2007, the Minister issued a Notice of Reassessment for the Applicant’s 2003 taxation year. In this Reassessment the Minister reduced the Applicant’s income for the 2003 taxation year from $133,183 to $31,359, i.e. a reduction of $101,824.
+(i) On July 10, 2008, the Applicant filed a Notice of Objection to the Reassessment issued for the 2003 taxation year.
+(j) On February 16, 2009, the Applicant filed an application to extend the time within which to file a Notice of Appeal for the 2002 and 2003 taxation years.
+(k) On May 7, 2009, the Respondent filed a Reply to an Application for an Extension of Time. In the Reply the following comments are found:
+1. The Minister of National Revenue (the “Minister”) does not oppose the request for an Order extending the time within which a Notice of Appeal for the 2003 taxation year may be filed.
+2. The Minister does oppose the request for an Order extending the time within which a Notice of Appeal for the 2002 taxation year may be filed.
+(l) In addition to the income tax issue, the Applicant also has a Goods and Services tax issue. On the 8th day of April 2009, Justice McArthur issued an Order which reads, in part, as follows:
+This Court orders that the time within which an appeal may be instituted is extended to the date of this Order and the notice of appeal, received with the application, is deemed to be a valid notice of appeal instituted on the date of this Order if the appropriate filing fee is paid to the Registry not later than May 11, 2009.
+B. ISSUE:
+[3] The issue is whether the Tax Court has the authority to grant an Order extending the time within which the Applicant may file a Notice of Appeal with respect to the 2002 taxation year.
+C. ANALYSIS AND DECISION:
+[4] Counsel for the Respondent stated that the Notice of Appeal to the Notification of Confirmation for the 2002 taxation year should have been filed within 90 days of November 14, 2007, i.e. on or before February 12, 2008.
+[5] Counsel for the Minister stated that the one year time limit for requesting an extension of time within which to file a Notice of Appeal would expire on February 12, 2009. The Application to extend the time to file an appeal was filed by the Applicant on February 16, 2009, i.e. four days after the deadline.
+[6] The relevant provisions in the Income Tax Act (the “Act”) are:
+Section 169(1) of the Act provides that a taxpayer who wishes to appeal an assessment should file an appeal within 90 days of the date that the Notification of Confirmation is mailed. In this situation the Notification was issued on November 14, 2007 and therefore the Notice of Appeal should have been filed on or before February 12, 2008.
+Paragraph 167(5)(a) of the Act allows an application for an extension of time if it is filed within one year following the end of the 90-day period. In other words the one year deadline would expire on February 12, 2009.
+[7] As noted, the Application to extend the time was filed on February 16, 2009, i.e. four days after the deadline.
+[8] There are many Court decisions which have stated that the Tax Court does not have the authority to extend the 90-day plus one year time limitation in order to give a taxpayer the right to file a Notice of Appeal to a Notification of Confirmation.
+[9] I have no alternative but to allow the Minister’s Motion and dismiss the Application to extend the time for filing a Notice of Appeal to the Notification of Confirmation issued for the 2002 taxation year. I do not have the authority to extend the time to file a Notice of Appeal beyond the 90-day plus one year.
+[10] Before closing I wish to make some comments and observations:
+1. When the Applicant appeared in Court he indicated that he was being treated for cancer during the period when the audit was being conducted by the CRA.
+2. The Applicant also said that he had received incorrect advice from his previous financial advisors regarding his tax position.
+3. The Applicant said that he retained Mr. W.P. Rohrlack of W.R. Accounting & Consulting Services. The Applicant filed Exhibit A-1 which contained several letters from Mr. Rohrlack to officials of the CRA. By letter dated January 17, 2007, Mr. Rohrlack stated “I have been an accountant for 40 years, and indeed used to be a Tax Auditor, but I have never seen the type of confusion in the numbers”. From the evidence that I have reviewed it appears that officials of the CRA were not aware of all of the relevant facts concerning the Applicant.
+4. During the hearing counsel for the Minister filed Exhibits R-5 and R-6.
+(a) Exhibit R-5 contains the following statement:
+Re: Notice of Objection postmarked July 24, 2008 for the taxation years: 2001, 2002 and 2003.
+My Comments: According to the evidence produced the Notice of Objection for the 2003 taxation year was filed on July 10, 2008. The Notice of Objection for the 2002 taxation year was filed on June 20, 2006.
+The letter from the CRA reads, in part, as follows:
+You did not file your objection within 90 days from the mailing date of the Notices of Reassessment, dated May 5, 2007 for the 2001 and 2002 taxation years …
+My Comments: The Notice of Reassessment for the 2002 taxation year was issued on May 1, 2006 and not May 5, 2007.
+(b) Exhibit R-6 reads as follows:
+Our letter of October 9, 2008 regarding the objection filed for 2002 and 2003 is in error.
+Objections were previously filed for the 2002 and 2003 taxation years. A Notice of Confirmation was issued for the 2002 objection on October 9, 2008. …
+Note: This reference to the 2002 objection dated October 9, 2008 appears to be incorrect. According to the evidence, the Notification issued to confirm the Reassessment for the 2002 taxation year was issued on November 14, 2007 and not October 9, 2008 as Exhibit R-6 states.
+My Further Comments: The incorrect information contained in the letter dated October 9, 2008 (Exhibit R-5) and the letter dated November 12, 2008 (Exhibit R‑6) was, I am sure, very confusing to the Applicant.
+[11] Based on the above comments, I have reached the following conclusions:
+A. Hopefully the Applicant can deal with the outstanding tax issues for the 2002 taxation year when he deals with the Notice of Appeal filed for the 2003 taxation year.
+B. Since the GST issue is based upon the income received by the Applicant for the period July 1, 2001 to December 31, 2003, the Applicant may also be able to resolve some of the outstanding tax issues in the 2002 taxation year when he deals with the GST issues.
+C. Since the Applicant was receiving treatment for cancer during the audit period and since officials of the CRA made a number of errors re. timing (see Exhibits R-5 and R-6) this may be a situation where the Minister should apply the fairness provisions contained in section 220 of the Act to grant the Applicant some relief. I do not have the authority to exercise these provisions. This discretionary authority is held by the Minister and his officials.
+D. If tax issues for the 2002 taxation year remain outstanding this may be a situation where the Minister should apply subsection 23(2) of the Financial Administration Act. Subsection 23(2) reads as follows:
+(2) The Governor in Council may, on the recommendation of the appropriate Minister, remit any tax or penalty, including any interest paid or payable thereon, where the Governor in Council considers that the collection of the tax or the enforcement of the penalty is unreasonable or unjust or that it is otherwise in the public interest to remit the tax or penalty.
+Only the Federal Cabinet on the recommendation of the Minister has the authority to remit tax.
+[12] Finally, I wish to refer to the comments made by Counsel for the Minister during the hearing that was held on June 9, 2009.
+[13] During the hearing Mr. Canzer said:
+I can advise the court as well that just this morning I've had conversations with an official of the Canada Revenue Agency, who was able to advise me that they are not -- without making any promises or representations, they are not completely ruling out the possibility of working under Section 169(3), which is disposition of appeal on consent.
+[14] The Minister’s Motion is accepted and the Application is dismissed.
+Signed at
+Vancouver ,
+British Columbia
+, this 26th day of June 2009.
+"L.M. Little"
+Little J.
+CITATION:
+2009 TCC 346
+COURT FILE NO.:
+2009-549(IT)APP
+STYLE OF CAUSE:
+Helmut Gollner and
+Her Majesty the Queen
+PLACE OF HEARING:
+Vancouver
+,
+British Columbia
+DATE OF HEARING:
+DECISION:
+June 9, 2009
+June 24, 2009
+REASONS FOR ORDER BY:
+The Honourable Justice L.M. Little
+DATE OF ORDER:
+June 26 2009
+APPEARANCES:
+For the Applicant:
+The Applicant himself
+Counsel for the Respondent:
+Matthew Canzer
+COUNSEL OF RECORD:
+For the Applicant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of
+Canada
+Ottawa
+,
+Canada

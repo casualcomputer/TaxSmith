@@ -1,0 +1,270 @@
+---
+title: "1143132 Ontario Limited c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29426/index.do"
+last_modified: "2009-09-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 477"
+citation2: ""
+neutral_citation: "2009 CCI 477"
+decision_date: "2009-09-25"
+language: "fr"
+item_id: "29426"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6978
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:32:12.442000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3bf86fa75f24b1da918e88a57769c5c4b00cc9f13db589503e94de3e37be3128"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 1143132 Ontario Limited c. La Reine
+
+- Citation: 2009 CCI 477
+- Decision date: 2009-09-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6978, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+1143132 Ontario Limited c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-09-25
+Référence neutre
+2009 CCI 477
+Numéro de dossier
+2007-2678(IT)G
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-2678(IT)G
+ENTRE :
+1143132 ONTARIO LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 15 mai 2008, à Toronto (Ontario).
+Devant : L’honorable juge Gaston Jorré
+Comparutions :
+Avocat de l’appelante :
+Me Paul L. Schnier
+Avocat de l’intimée :
+Me Donald G. Gibson
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1999, 2000, 2001, 2002, 2003 et 2004 est rejeté, avec dépens en faveur de l’intimée, conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 25e jour de septembre 2009.
+« Gaston Jorré »
+Juge Jorré
+Traduction certifiée conforme
+ce 8e jour de décembre 2009.
+Mario Lagacé, jurilinguiste
+Référence : 2009 CCI 477
+Date : 20090925
+Dossier : 2007-2678(IT)G
+ENTRE :
+1143132 ONTARIO LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Jorré
+INTRODUCTION
+[1] L’appelante fabriquait des équipements et distribuait du matériel publicitaire connexe. Ses ventes visaient des clients du Canada et des États-Unis.
+[2] Les ventes aux États-Unis se faisaient par l’intermédiaire d’une société constituée à la Barbade et à laquelle il sera fait référence dans le présent jugement sous le nom de « Barco ». L’appelante vendait ses produits à Barco. Barco vendait ensuite les produits aux clients des États‑Unis.
+[3] Le ministre du Revenu national (le « ministre ») a établi une nouvelle cotisation à l’égard de l’appelante pour les années d’imposition 1999 à 2004 au motif qu’il avait lieu de redresser le prix de transfert entre l’appelante et Barco. Les nouvelles cotisations pour les années 1999 à 2002 ont été établies plus de trois ans, mais moins de six, après la cotisation initiale. Le ministre s’est fondé sur le sous-alinéa 152(4)b)(iii) et le paragraphe 247(2) de la Loi de l’impôt sur le revenu (la « LIR ») pour établir la cotisation.
+LES FAITS
+[4] Aucun témoin n’a été entendu au procès.
+[5] L’intimée a signifié une demande d’aveux à l’appelante. L’appelante n’y ayant pas répondu, elle est réputée avoir reconnu les faits en vertu du paragraphe 131(2) des Règles de la Cour canadienne de l’impôt (Procédure générale) (les « Règles »).
+[6] Les faits dans la demande d’aveux sont les mêmes que les hypothèses énoncées dans la réponse du ministre.
+[7] Par conséquent, les faits en l’espèce sont les suivants :
+[TRADUCTION]
+a) L’appelante a été constituée en personne morale en Ontario le 20 septembre 1995 et faisait affaire sous le nom de Pro-tect Plastic.
+b) 2007336 Ontario Inc. (« la société de portefeuille ») a été constituée en personne morale en Ontario le 3 décembre 2001 et, à toutes les dates pertinentes, Jim Swales (« M. Swales ») détenait la moitié de ses actions et son épouse Nancy Hunter (« Mme Hunter ») détenait l’autre moitié des actions.
+c) À toutes les dates pertinentes, M. Swales a détenu la moitié des actions de l’appelante et son associé Tom Medland (« M. Medland ») a détenu l’autre moitié, ensuite la société de portefeuille en a détenu la moitié et une société appartenant à M. Medland en a détenu l’autre moitié, et enfin la société de portefeuille a détenu la totalité des actions.
+d) À toutes les dates pertinentes, l’appelante, la société de portefeuille, M. Swales, Mme Hunter, M. Medland ainsi que la société appartenant à M. Medland résidaient au Canada.
+e) Pro-Tect Plastic Fabricators International Corp. (« Barco ») a été constituée en personne morale à la Barbade, à titre de société commerciale internationale (SCI), le 14 mars 1996, et ne résidait pas au Canada.
+f) À toutes les dates pertinentes, l’appelante détenait la totalité des actions de Barco. Par conséquent, Barco et l’appelante avaient un lien de dépendance.
+g) L’appelante fabriquait des dispositifs d’affichage de point de vente et distribuait du matériel publicitaire connexe, qu’elle vendait à des tiers clients au Canada et (par l’intermédiaire de Barco) aux États-Unis.
+h) M. Swales entreprenait au Canada, pour le compte de l’appelante, toutes les ventes aux clients des États-Unis.
+i) L’appelante fabriquait ses produits au Canada et les expédiait directement du Canada aux clients des États-Unis.
+j) L’appelante « vendait » ses produits à Barco et celle-ci les « vendait » à profit aux clients des États-Unis, de sorte qu’environ 60 % des profits globaux provenant de ces « ventes » revenaient à l’appelante, et 40 % à Barco.
+k) L’appelante s’acquittait des fonctions opérationnelles suivantes : la gestion générale (notamment en ce qui concerne la stratégie de l’entreprise, la trésorerie, les questions juridiques et réglementaires et le personnel), la fabrication (notamment les aspects liés à la conception des produits, à l’approvisionnement et au contrôle de la qualité) et la mise en marché (notamment la stratégie, l’établissement des prix et la facturation).
+l) Sauf pour ce qui est de retaper les factures pour les clients des États-Unis et de déposer les recettes à la banque, Barco ne s’acquittait d’aucune fonction opérationnelle, quelle qu’elle soit, et n’ajoutait aucune valeur aux activités de l’appelante.
+m) Barco ne déclarait que des frais d’exploitation et des coûts indirects minimes et ne versait aucune rétribution à l’appelante ou à M. Swales pour les services que ceux-ci lui rendaient.
+n) L’appelant prenait en charge les risques économiques à l’égard des éléments suivants : le produit, le crédit, le change, le dénombrement des stocks et le marché.
+o) Barco n’assumait absolument aucun risque économique.
+p) Barco n’avait pas d’employés. Elle avait deux administrateurs barbadiens qui étaient inactifs dans l’entreprise et étaient payés 1 500 $ par année. Elle confiait à des mandataires la facturation et l’exécution des fonctions bancaires.
+q) Barco a été constituée en personne morale et l’appelante effectuait ses ventes aux clients des États-Unis par l’intermédiaire de Barco uniquement pour obtenir un avantage fiscal.
+r) Constituait l’avantage fiscal susmentionné le fait pour Barco de réaliser des profits à la Barbade, imposés au taux de 2,5 % parce qu’elle était une SCI, et de les verser ensuite à l’appelante sous forme de dividendes libres d’impôt.
+s) Barco a déclaré à la Barbade, pour les années d’imposition 1999, 2000, 2001, 2002 et 2003, des revenus nets de, respectivement, 117 077 $US, 93 683 $US, 149 731 $US, 157 777 $US et 51 204 $US.
+t) Les dividendes payés par Barco à l’appelante pour les années d’imposition 1999, 2000, 2001, 2002 et 2003 s’élèvent respectivement à 170 000 $, 150 000 $, 230 000 $, 230 000 $ et 105 360 $.
+u) Les modalités des opérations conclues entre l’appelante et Barco différaient de celles qui auraient été conclues entre des personnes sans lien de dépendance.
+v) Si l’appelante et Barco n’avaient pas eu de lien de dépendance, soit aucune vente de l’appelante aux États-Unis ne se serait faite par l’intermédiaire de Barco, soit le prix de transfert entre l’appelante et Barco aurait été substantiellement plus élevé.
+w) Le prix de transfert pour les « ventes » de l’appelante à Barco était sous-estimé, tandis que les « profits » de Barco provenant des « ventes » aux clients des États-Unis étaient surestimés.
+x) L’appelante n’a effectué aucune étude sur l’établissement du prix de transfert.
+y) Le prix de transfert qu’il convient de fixer pour chacune des ventes de l’appelante à Barco est le prix de chacune de ces ventes négocié entre l’appelante et le client des États-Unis avec qui elle n’a pas de lien de dépendance.
+z) Le redressement du prix de transfert correspond au montant des profits de l’appelante qui aurait été déterminé si elle et Barco n’avaient pas eu de lien de dépendance.
+[8] L’établissement des nouvelles cotisations concernant les années d’imposition de 1999 à 2002 après l’expiration de la période normale de nouvelle cotisation, mais au cours de la période de cotisation supplémentaire prescrite au sous-alinéa 152(4)b)(iii), n’est pas en litige.
+[9] Il convient également de souligner que l’avis d’appel de l’appelante fait état des moyens d’appel suivants :
+[traduction]
+C. Moyens d’appel et conclusions recherchées
+1. L’appelante soutient que, dans tous les cas, ses ventes, y compris ses ventes à Pro-Tect Plastics International Corp., se faisaient sur la base de prix établis dans des circonstances similaires, entre parties sans lien de dépendance. En conséquence, le redressement du prix de transfert par le ministre du Revenu national n’est pas indiqué dans les circonstances.
+2. L’appelante fait également valoir que les nouvelles cotisations à son égard concernant les années d’imposition 1999 à 2002 inclusivement ont été établies après l’expiration de la période de trois ans prévue par la Loi pour les nouvelles cotisations.
+3. En conséquence, l’appelante fait valoir que son appel devrait être accueilli et que les nouvelles cotisations devraient être annulées.
+[...][1]
+ANALYSE
+Dispositions législatives
+[10] Le paragraphe 152(4) de la LIR prévoit notamment ce qui suit :
+152(4) Le ministre peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire concernant l’impôt pour une année d’imposition […] Pareille cotisation ne peut être établie après l’expiration de la période normale de nouvelle cotisation applicable au contribuable pour l’année que dans les cas suivants :
+[…]
+b) la cotisation est établie avant le jour qui suit de trois ans la fin de la période normale de nouvelle cotisation applicable au contribuable pour l’année et, selon le cas :
+[…]
+(iii) est établie par suite de la conclusion d’une opération entre le contribuable et une personne non résidente avec laquelle il avait un lien de dépendance,
+[. . .]
+[11] Le paragraphe 247(2) dispose :
+247(2) Lorsqu’un contribuable […] et une personne non-résidente avec laquelle le contribuable […] a un lien de dépendance […] prennent part à une opération ou à une série d’opérations et que, selon le cas :
+a) les modalités conclues ou imposées, relativement à l’opération ou à la série, entre des participants à l’opération ou à la série diffèrent de celles qui auraient été conclues entre personnes sans lien de dépendance,
+b) les faits suivants se vérifient relativement à l’opération ou à la série :
+(i) elle n’aurait pas été conclue entre personnes sans lien de dépendance,
+(ii) il est raisonnable de considérer qu’elle n’a pas été principalement conclue pour des objets véritables, si ce n’est l’obtention d’un avantage fiscal,
+les montants qui, si ce n’était le présent article et l’article 245, seraient déterminés pour l’application de la présente loi quant au contribuable […] pour une année d’imposition ou un exercice font l’objet d’un redressement de façon qu’ils correspondent à la valeur ou à la nature des montants qui auraient été déterminés si :
+c) dans le cas où seul l’alinéa a) s’applique, les modalités conclues ou imposées, relativement à l’opération ou la série, entre les participants avaient été celles qui auraient été conclues entre personnes sans lien de dépendance;
+d) dans le cas où l’alinéa b) s’applique, l’opération ou la série conclue entre les participants avait été celle qui aurait été conclue entre personnes sans lien de dépendance, selon les modalités qui auraient été conclues entre de telles personnes.
+Arguments, questions en litige[2]
+[12] L’appelante soutient que chacun des deux paragraphes susmentionnés comporte comme élément essentiel la conclusion d’une opération entre l’appelante et une personne non-résidente avec laquelle l’appelante a un lien de dépendance. L’appelante a principalement invoqué le statut de non-résident de l’autre partie[3].
+[13] L’appelante soutient que le siège de direction et de contrôle de Barco était situé au Canada. S’appuyant sur les faits admis, l’appelante fait valoir ce qui suit :
+[traduction]
+[…] L’appelante fabriquait les produits (inaudible) au Canada pour les États-Unis. Elle vendait les produits. Elle s’acquittait des fonctions opérationnelles suivantes : la gestion, les aspects se rattachant à la stratégie de l’entreprise, à la trésorerie, aux questions juridiques et réglementaires, au personnel, à la fabrication et à la mise en marché. Elle prenait en charge tous les risques économiques. [Barco] n’assumait aucun risque économique. [Barco] n’avait pas d’employés, mais elle avait deux administrateurs de la Barbade qui étaient inactifs et elle recourait aux services de mandataires. La seule raison d’être de [Barco] était de servir d’intermédiaire pour acheminer des fonds.
+Si l’on applique la Loi que nous venons d’examiner à ces faits, M. le juge, force nous est de conclure que la direction et le contrôle relevaient de l’appelante, une société résidant au Canada, et, lorsque j’affirme que l’appelante réside au Canada, mon affirmation est fort (inaudible) certes, mais les faits sont tels qu’elle était constituée en personne morale – l’appelante a été constituée en personne morale en Ontario le 20 septembre 1995 et, en vertu de la Loi de l’impôt sur le revenu, elle est réputée résider au Canada. Je ne crois pas que ce point soit contesté.
+L’appelante, une société résidant au Canada, avait la direction et le contrôle de [Barco]. [Barco], de ce fait, réside au Canada et n’est donc pas une non-résidente. […][4]
+L’appelante soutient donc que, puisque Barco était une société résidente, le paragraphe 247(2) ne s’applique pas. De même, l’appelante prétend que le sous-alinéa 152(4)b)(iii) ne saurait être appliqué aux années d’imposition 1999 à 2002.
+[14] L’intimée prétend que les faits admis établissent que Barco n’était pas une société résidente, que l’argument de l’appelante a pris l’intimée par surprise et qu’il était trop tard pour soulever un tel argument qu’il aurait fallu soulever plus tôt[5].
+[15] La Cour doit statuer sur les questions en litige suivantes :
+a) La question de savoir si Barco est une société résidant au Canada a-t-elle été valablement soulevée par l’appelante et devrait-on empêcher l’appelante de présenter cet argument?
+b) Barco était-elle une société résidant au Canada?
+La question de savoir si Barco est une société résidente a-t-elle été valablement soulevée?
+[16] Les actes de procédure et les procédures préalables à l’audience visent à clarifier et à limiter les questions en litige[6]. Ils ont notamment pour rôle de rendre les instances plus efficaces en éliminant les surprises.
+[17] L’appelante ne s’est certainement pas conformée à cet objectif en l’espèce. Absolument rien dans l’avis d’appel ne tend à indiquer que la résidence de Barco était en cause.
+[18] À la décision de l’appelante de ne pas soulever cette question dans l’avis d’appel s’ajoute son admission des faits découlant de la demande d’aveux, ces deux éléments rendant plus forte l’impression que [traduction] « Pro-tect Plastic Fabricators International Corp. (Barco) a été constituée en personne morale à la Barbade […] et elle ne résidait pas au Canada »[7] n’étaient pas des faits contestés.
+[19] Dans les circonstances, il ne faut pas s’étonner que l’intimée n’ait pas prévu la question de la résidence de Barco.
+[20] L’appelante aurait pu demander l’autorisation de modifier ses actes de procédure, mais elle ne l’a pas fait[8], [9].
+[21] La résidence de Barco n’a pas été valablement soulevée. Ma conclusion à cet égard pourrait justifier le rejet de l’appel étant donné que l’intimée aurait pu exposer sa défense d’une tout autre manière si elle avait su que la résidence de Barco était en cause.
+[22] S’il s’agissait-là du seul motif pour rejeter l’appel, je devrais me prononcer sur l’opportunité pour l’appelante d’avoir la possibilité de modifier son avis d’appel. Comme ce motif n’est pas le seul sur lequel je m’appuie pour rejeter l’appel, il ne sera pas nécessaire que j’examine cette question[10].
+Barco réside-t-elle au Canada ?
+[23] L’appelante soutient d’abord que la question de savoir si Barco est une société résidente est une question de droit qui ne saurait faire l’objet d’un aveu. C’est pourquoi elle prétend qu’un aveu quant à la non-résidence de Barco n’est pas opportun.
+[24] Je conviens que l’appelante ne peut reconnaître une question de droit, mais la résidence est une question mixte de fait et de droit. La question à laquelle il faut répondre est de savoir en quoi exactement consiste l’effet d’un aveu à l’égard d’un élément qui constitue une question mixte de fait et de droit. Pour les besoins de la présente instance, il n’est pas nécessaire de trancher cette question et je tiendrai pour acquis, sans toutefois statuer sur la question, qu’aucun aveu n’a été fait quant à la non-résidence de Barco[11].
+[25] L’appelante soutient ensuite que le critère applicable en common law à la question de savoir si une entreprise réside au Canada est celui de la direction et du contrôle. Je suis d’accord.
+[26] L’appelante soutient que les faits admis permettent d’établir la résidence de Barco au Canada, notamment [12]:
+a) L’appelante fabriquait les produits entièrement au Canada et les expédiait directement aux clients des États-Unis.
+b) L’appelante vendait les produits.
+c) L’appelante s’acquittait des fonctions opérationnelles suivantes : la gestion, les aspects concernant la stratégie de l’entreprise, la trésorerie, les questions juridiques et réglementaires, le personnel, la fabrication et la mise en marché.
+d) L’appelant prenait en charge tous les risques économiques.
+e) Barco n’assumait aucun risque économique.
+f) Barco n’avait pas d’employés.
+g) Barco avait deux administrateurs barbadiens qui étaient inactifs et elle recourait aux services de mandataires.
+h) La seule raison d’être de Barco était de servir d’intermédiaire pour acheminer des fonds.
+i) Barco ne faisait à peu près rien.
+[27] Je ne suis pas d’accord. L’argument de l’appelante n’établit aucune distinction entre les rôles respectifs de chacune des entreprises et il n’établit pas non plus de qui relève la direction et le contrôle de Barco.
+[28] Le rôle de Barco était très limité en effet. D’après les faits admis, elle ne faisait vraiment rien de plus que l’envoi des factures et la perception des paiements. C’est tout. Elle n’avait pas d’employés et elle recourait aux services de mandataires pour l’exécution de ces fonctions.
+[29] La question à laquelle il nous faut répondre est celle de savoir où se situe le siège de direction et de contrôle de Barco, et non celle de savoir si Barco est celle qui, entre elle et sa société mère, l’appelante, s’acquitte de la plupart des fonctions pour les deux entreprises.
+[30] Les faits suivants sont pertinents quant à la question de la direction et du contrôle :
+a) Barco a été constituée en personne morale à la Barbade à titre de société commerciale internationale (SCI), le 14 mars 1996.
+b) Elle avait deux administrateurs barbadiens inactifs dans l’entreprise et ils étaient payés 1 500 $ par année. Elle recourait aux services de mandataires pour effectuer la facturation et s’occuper des questions bancaires.
+c) À toutes les dates pertinentes, l’appelante détenait la totalité des actions de Barco.
+d) L’appelante vendait ses produits à profit à Barco et celle-ci les vendait alors à profit aux clients des États‑Unis, de sorte qu’environ 60 % des profits globaux provenant des ventes revenaient à l’appelante et 40 % à Barco.
+e) La seule raison pour laquelle Barco a été constituée en personne morale et pour laquelle les ventes de l’appelante aux clients des États‑Unis se faisaient par l’intermédiaire de Barco était d’obtenir un avantage fiscal.
+f) Constituait l’avantage fiscal susmentionné le fait pour Barco de réaliser des profits à la Barbade, imposés au taux de 2,5 %, parce qu’elle était une SCI, et de les verser ensuite à l’appelante sous forme de dividendes libres d’impôt.
+[31] En conséquence, rien ne justifie une conclusion portant que le fait pour Barco d’appartenir à une société canadienne signifie que son siège de direction se situe au Canada. Il est généralement reconnu que le rôle des administrateurs est de gérer les activités commerciales d’une entreprise[13] et, en l’absence de toute preuve contraire, je dois tenir pour acquis que les administrateurs étaient ceux qui géraient les activités commerciales de l’entreprise.
+[32] Nous savons que les administrateurs étaient barbadiens et que l’entreprise a été constituée en personne morale à la Barbade. Ce sont là des éléments qui indiquent que le siège de la direction et du contrôle était situé à l’étranger.
+[33] Compte tenu des fonctions très limitées de Barco, lesquelles s’effectuent de façon presque automatique une fois rodées, il n’y a pas lieu de penser que les administrateurs aient eu beaucoup plus à faire que le strict minimum. En conséquence, je n’accorde pas beaucoup d’importance au fait que les administrateurs étaient inactifs. Le fait que les administrateurs étaient payés 1 500 $ par année confirme qu’ils jouaient un rôle même s’ils ne consacraient pas beaucoup de temps à ce rôle.
+[34] De plus, les faits d), e) et f) énoncés au paragraphe 30 ci-dessus établissent que la seule raison d’être de Barco était de lui faire réaliser des ventes et ainsi obtenir un avantage fiscal important. Cet avantage n’existerait pas si Barco résidait au Canada. Barco avait de bonnes raisons pour faire en sorte que son siège de direction et de contrôle ne soit pas situé au Canada.
+[35] Rien n’indique que le siège de direction et de contrôle était situé au Canada.
+[36] Il aurait certes été préférable de disposer d’un plus grand nombre de faits. Toutefois, d’après les faits au dossier, je ne peux que conclure que le siège de la direction et du contrôle de Barco était situé à l’étranger et que Barco, de ce fait, était une société non-résidente.
+[37] À supposer qu’il puisse être établi que le siège de direction et de contrôle était situé au Canada, l’appelante, en tant que propriétaire unique de Barco, aurait été bien placée pour le prouver. Or, elle a choisi de ne pas le faire.
+CONCLUSION[14]
+[38] Ayant conclu que Barco n’était pas une société résidente, je rejette donc l’appel avec dépens en faveur de l’intimée.
+Signé à Ottawa, Canada, ce 25e jour de septembre 2009.
+« Gaston Jorré »
+Juge Jorré
+Traduction certifiée conforme
+ce 8e jour de décembre 2009.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2009 CCI 477
+NO DU DOSSIER DE LA COUR : 2007-2678(IT)G
+INTITULÉ : 1143132 ONTARIO LIMITED c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : 15 mai 2008
+MOTIFS DU JUGEMENT : L’honorable juge Gaston Jorré
+DATE DU JUGEMENT: 25 septembre 2009
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Paul L. Schnier
+Avocat de l’intimée :
+Me Donald G. Gibson
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Paul L. Schnier
+Cabinet : Blaney McMurtry, s.r.l.
+Toronto (Ontario)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L’avis d’appel contenait deux autres parties. La partie A (l’énoncé des faits pertinents) ne contenait aucune allégation de fait à l’égard de Barco ni aucune référence à une opération quelconque qui aurait été conclue avec Barco. On y précisait, entre autres, que la nouvelle cotisation résultait d’un redressement du prix de transfert. La partie B (les dispositions législatives invoquées) renvoyait aux paragraphes 247(2) et 152(4) de la LIR. Aucune partie de l’avis d’appel ne précisait les points en litige conformément à l’article 48 et à la formule 21(1)a) des Règles.
+[2] Voici la jurisprudence et la doctrine citées : Hogg, Magee and Li, Principles of Canadian Income Tax Law, section 3.4, taxnetpro.com; De Beers Consolidated Mines, Limited v. Howe (Surveyor of Taxes), [1906] A.C. 455 (UKHL); British Columbia Electric Railway v. R., 1946 CarswellNat 19 (CP), [1946] A.C. 527; Unit Construction Co. Ltd. v. Bullock (Inspector of Taxes), [1960] A.C. 351 (UKHL), [1959] 3 W.L.R. 1022; Yamaska Steamship Co. Ltd. v. Minister of National Revenue, 1961 CarswellNat 271 (CAI), 28 Tax A.B.C. 187; Bedford Overseas Freighters Ltd. v. Minister of National Revenue, 1970 CarswellNat 236 (C. de l’É.), 70 DTC 6072; Minister of National Revenue v. Tara Exploration and Development Co., 1970 CarswellNat 282 (C. de l’É.), 70 DTC 6370; Ministre du Revenu national c. Tara Exploration and Development Co., 1972 CarswellNat 137 (CSC), [1974] R.C.S. 1057; Capitol Life Insurance Co. c. R., 1984 CarswellNat 202 (C.F. 1re inst.), 84 DTC 6087; Wood and another v. Holden (Inspector of Taxes), [2006] 1 W.L.R. 1393, [2006] EWCA Civ. 26.
+[3] On ne saurait dire si l’appelante prétendait qu’aucune opération n’a été conclue.
+À la page 10, aux lignes 2 à 18 de la transcription, son avocat semble d’abord le prétendre, puis semble se raviser :
+[traduction] Une opération aurait-elle été conclue, M. le juge, la réponse il me semble est assez ambiguë. Selon le ministre, aucune opération n’a été conclue, malgré l’existence de [Barco]; elle n’accomplissait rien d’important – elle n’avait aucun employé. Elle avait des administrateurs sur papier seulement. Tout ce que l’appelante faisait au fond était de reproduire les factures. Elle envoyait des factures à la Barbade, où les factures étaient retapées et distribuées. Cet exercice constitue-t-il une opération? Je ne le sais pas.
+Plus loin, à la page 24, aux lignes 13 à 19, l’argument semble être soulevé de nouveau mais très brièvement. (Voir aussi l’extrait de la plaidoirie cité au paragraphe 13 des présents motifs.)
+Après avoir examiné l’ensemble des observations, je ne crois pas qu’un tel argument ait été exposé.
+Cependant, à supposer qu’il l’eût été, l’argument, d’après ce que je comprends, serait le suivant. La relation entre l’appelante et Barco était entièrement fictive; Barco ne faisait rien qui vaille.
+Je ne puis souscrire à cet argument. D’après les faits et l’interprétation que je dois leur donner, il m’est impossible de conclure que Barco ne faisait rien. Certes, Barco s’acquittait de fonctions très modestes ‑ facturer les clients et recevoir les paiements ‑, mais ces fonctions étaient néanmoins bien réelles.
+La conclusion d’une opération ou d’une série d’opérations entre l’appelante et Barco est évidente.
+[4] Transcription, pages 23 et 24.
+[5] Transcription, pages 29, 37 et 38.
+[6] Cet objectif se dégage des Règles. L’article 48 des Règles prévoit qu’un appel en matière d’impôt sur le revenu selon la procédure générale doit se conformer à la formule 21(1)a), laquelle énonce les exigences que doit respecter l’appelant. Figurent parmi ces exigences :
+[...]
+b) Indiquer la ou les cotisations visées par l’appel […]
+c) Énumérer les faits pertinents qui servent de fondement à l’appel;
+d) Préciser les points en litige;
+e) Mentionner les dispositions législatives sur lesquelles l’appel est fondé;
+f) Énoncer les moyens sur lesquels l’appelant entend se fonder;
+g) Indiquer les conclusions recherchées;
+[…] [Non souligné dans l’original.]
+[7] La possibilité que la résidence puisse faire l’objet d’un aveu n’enlève rien au fait que l’absence de réponse à la demande d’aveux sur ce point permet de supposer que la résidence de Barco n’était pas en cause.
+[8] Si j’ai bien compris, l’appelante semble prétendre qu’il ne lui avait pas été possible de soulever cette question plus tôt parce que c’était dans l’acte de procédure qu’elle avait d’abord pris connaissance (i) de la thèse du ministre portant que Barco n’est pas une société résidente et (ii) des allégations portant sur le rôle insignifiant que tenait Barco. (Voir aux pages 43 à 45 de la transcription.)
+J’ai tout simplement du mal à voir comment l’une ou l’autre de ces raisons aurait empêché l’appelante de modifier ou de demander l’autorisation de modifier son avis d’appel avant le procès.
+Par ailleurs, il me semble également, si j’ai bien compris, que l’appelante affirme que cette situation n’a eu aucune incidence sur la possibilité de l’intimée d’obtenir une communication préalable puisque toutes les allégations factuelles provenaient du ministre. (Voir aux pages 43 à 45 de la transcription.)
+Je ne peux comprendre un tel argument étant donné que presque tous les faits pertinents pour l’appel se rapportent aux actes de l’appelante et de Barco, une entreprise appartenant entièrement à l’appelante. De plus, l’intimée aurait pu choisir d’exposer sa défense différemment si elle avait été informée de l’argument que l’appelante envisageait de soulever.
+[9] Je fais également remarquer qu’aucune démarche n’a été entreprise conformément à l’article 132 des Règles pour que soit rétracté l’aveu à l’égard de la non-résidence de Barco.
+[10] Cependant, je tiens à souligner que, si j’avais à trancher la question et que je devais autoriser une modification, une telle ordonnance prévoirait les modalités que je pourrais estimer opportunes quant aux dépens devant être adjugés à l’intimée relativement à la perte d’honoraires ainsi que celles quant à la communication préalable de la part de l’appelante et à la réouverture de la preuve.
+[11] N’a pas été débattue au fond la question de savoir exactement quelle incidence pourrait avoir dans le cadre d’une instance un fait formellement admis relativement à une question mixte de fait et de droit. Logiquement, il est vrai que le volet qui constitue une question de droit ne saurait faire l’objet d’un tel aveu et que le volet qui constitue une question de fait le pourrait, mais l’on ne sait pas vraiment ce que cela signifie en pratique. Cela signifie-t-il que des faits sous-jacents non révélés sont admis pour étayer la conclusion de droit ? Cette question devra être tranchée dans un autre litige. On sait cependant qu’à tout le moins, sur les plans de la pratique et de la procédure, lorsqu’une partie fait un tel aveu (ou aveu apparent), l’autre partie devrait alors pouvoir s’appuyer sur cet aveu, sauf si la partie qui l’a fait l’a formellement rétracté ou a au moins fait clairement savoir que la conclusion de droit visée est contestée, ce qui devrait être fait suffisamment tôt pour empêcher qu’un tort soit causé à l’autre partie.
+[12] Voir le paragraphe 13 ci-dessus.
+[13] Voir, par exemple, l’article 102 de la Loi canadienne sur les sociétés par actions. Le droit des sociétés étant un droit d’application générale, il existe une présomption que le droit de la Barbade est le même que le nôtre. Voir, par exemple, Backman c. Canada, [2000] 1 C.F. 555 (CAF).
+[14] J’estime inutile de traiter de certains arguments relatifs à la convention fiscale entre le Canada et la Barbade. Je renvoie simplement au paragraphe 3 de son article XXX. J’estime qu’il n’est pas non plus nécessaire de me prononcer sur d’autres arguments que l’intimée a soulevés après l’audience, ni sur les réponses de l’appelante à ces arguments.

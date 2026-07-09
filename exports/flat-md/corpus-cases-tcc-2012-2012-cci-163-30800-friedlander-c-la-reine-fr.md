@@ -1,0 +1,148 @@
+---
+title: "Friedlander c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30800/index.do"
+last_modified: "2012-03-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 163"
+citation2: ""
+neutral_citation: "2012 CCI 163"
+decision_date: "2012-03-26"
+language: "fr"
+item_id: "30800"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7544
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:43:45.955000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e7dd16f482fc66ea923a459830017c6cf62c4ab3851a1992bd8a4af3c0ab8366"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Friedlander c. La Reine
+
+- Citation: 2012 CCI 163
+- Decision date: 2012-03-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7544, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Friedlander c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-03-26
+Référence neutre
+2012 CCI 163
+Numéro de dossier
+2011-1907(IT)I
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-1907(IT)I
+ENTRE :
+JACOB FRIEDLANDER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 26 mars 2012, à Toronto (Ontario).
+Devant : L’honorable juge B. Paris
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Tony Cheung
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations T‑1‑OVP concernant les années d’imposition 2002, 2003, 2004, 2005, 2006 et 2007 de l’appelant sont accueillis en partie. et l’affaire est déférée au ministre du Revenu national pour nouvel examen et nouvelles cotisations compte tenu du fait que les pénalités établies en vertu du paragraphe 162(1) de la Loi de l’impôt sur le revenu doivent être annulées.
+Signé à Ottawa, Canada, ce 11e jour de mai 2012.
+« B. Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 26e jour de juin 2012.
+Marie-Christine Gervais
+Référence : 2012 CCI 163
+Date : 20120512
+Dossier : 2011-1907(IT)I
+ENTRE :
+JACOB FRIEDLANDER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] M. Friedlander interjette appel de cotisations d’impôt établies à l’égard de cotisations excédentaires faites à un régime enregistré d’épargne-retraite (« REER ») entre les années 2002 et 2006, ainsi que des pénalités et des intérêts y afférents.
+[2] M. Friedlander a immigré au Canada en 2000. Sa langue première est l’espagnol. En 2002, il a voulu ouvrir un compte de placement chez TD Canada Trust. Il a déclaré qu’à ce moment‑là, il ne travaillait pas et qu’il n’avait pas de revenus. Il restait à la maison avec deux enfants en bas âge et il étudiait également. L’employé de TD Canada Trust que M. Friedlander a consulté a ouvert un compte de REER au nom de M. Friedlander, bien que ce dernier n’ait pas demandé à ouvrir un compte de REER. De toute évidence, un compte de REER ne convenait pas dans le cas de M. Friedlander. M. Friedlander a dit à l’employé de la banque qu’il voulait faire un placement, par exemple dans un certificat de dépôt qui est l’équivalent américain d’un dépôt à terme. L’employé de la banque a plutôt placé l’argent dans un compte de REER composé de fonds communs de placement au nom de M. Friedlander.
+[3] M. Friedlander a déposé en tout un montant de 11 450 $ dans le compte entre les années 2002 et 2006. Il n’a pas demandé de déductions à l’égard de ses cotisations à un REER pour ces années‑là. De fait, il n’avait aucun revenu au cours des années en question. Cependant, le problème qui se posait dans le cas de M. Friedlander était que celui‑ci n’avait pas de déductions inutilisées au titre des REER pour les années d’imposition 2002 à 2006. Les dépôts que M. Friedlander a effectués dans le compte étaient donc supérieurs au plafond autorisé et M. Friedlander avait un excédent cumulatif au titre des REER pour chacune de ces années, de sorte qu’il avait à payer un impôt en vertu du paragraphe 204.1(2.1) de la Loi de l’impôt sur le revenu (la « Loi ») et qu’il était donc une personne à qui la partie X.1 de la Loi s’appliquait au cours de chacune de ces années. Un contribuable qui se trouve dans cette situation peut demander au ministre du Revenu national, en vertu du paragraphe 204.1(4), de renoncer à cet impôt. Il le fait en présentant un formulaire T3012A lui permettant d’obtenir le consentement du ministre pour que l’établissement financier lui rembourse les cotisations excédentaires sans retenir d’impôt. Toutefois, en tant que personne à qui la partie X.l de la Loi s’applique, le contribuable doit produire une déclaration en vertu du paragraphe 204.3(1), au moyen d’un formulaire Tl‑OVP, et verser l’impôt dans les 90 jours qui suivent la fin de l’année, à moins qu’il n’ait été renoncé à l’impôt avant la fin de ce délai de 90 jours (voir le juge Bowie, dans la décision Pereira-Jennings c. La Reine, 2009 A.C.I. no 239, premier paragraphe).
+[4] Dans ce cas‑ci, M. Friedlander n’a pas produit de déclarations Tl-OVP auprès du ministre tant qu’il n’a pas été avisé des cotisations excédentaires, au mois de janvier 2009, lorsqu’il a reçu une lettre de l’Agence du revenu du Canada (l’« ARC ») lui faisant part du problème. La lettre de l’ARC renvoyait à une lettre antérieure censément envoyée à M. Friedlander, mais ce dernier a affirmé ne pas avoir reçu cette lettre. Étant donné que l’avocat de l’intimée a déclaré que l’intimée acceptait la version des faits donnée par M. Friedlander dans son témoignage, et qu’il n’a pas contre-interrogé M. Friedlander sur ce point, je crois que M. Friedlander n’a pas reçu la lettre antérieure. Je tiens également à ajouter que M. Friedlander était selon moi un témoin crédible.
+[5] Une fois qu’il a été mis au courant des cotisations excédentaires, M. Friedlander a présenté des formulaires Tl-OVP pour toutes les années d’imposition et il a retiré les cotisations excédentaires du compte de REER. Toutefois, il est certain que les formulaires Tl-OVP n’ont pas été présentés et que l’impôt n’a pas été payé ou qu’il n’y a pas été renoncé dans les 90 jours suivant la fin de chaque année d’imposition. Le ministre a donc établi une cotisation à l’égard de l’impôt prévu au paragraphe 204.1(2.1), au taux mensuel de un pour cent de l’excédent cumulatif, plus la pénalité prévue au paragraphe 162(1) de la Loi et les intérêts y afférents.
+[6] Il semble que la cotisation dont M. Friedlander a fait l’objet se soit élevée en tout, pour l’impôt, les intérêts et les pénalités, à environ 4 350 $, sur les dépôts de 11 450 $ qui avaient été effectués dans le compte. Si M. Friedlander n’a pas payé les montants établis, les intérêts continueront à courir.
+[7] M. Friedlander a interjeté appel devant la Cour en vue de demander un allègement.
+[8] Selon la position que l’intimée a prise, la Cour n’a pas compétence pour renoncer à l’impôt, aux pénalités et aux intérêts. Comme il en a ci‑dessus été fait mention dans les présents motifs, le paragraphe 204.1(4) confère au ministre le pouvoir de renoncer à l’impôt qui est dû en vertu du paragraphe 204.1(2.1). M. Friedlander a demandé au ministre de renoncer à l’impôt, mais le ministre a rejeté la demande.
+[9] Pour les besoins du présent appel, il est clair que je ne suis pas autorisé à modifier la décision que le ministre a prise au sujet de la renonciation. Toutefois, je suis autorisé à examiner les pénalités établies en vertu du paragraphe 162(1) par suite de l’omission de produire les déclarations Tl-OVP. Ces pénalités peuvent être annulées lorsque le contribuable a fait preuve d’une diligence raisonnable à l’égard des exigences en matière de production.
+[10] Dans la décision Pereira-Jennings, le juge Bowie a dit ce qui suit au paragraphe 7 :
+[…] Pour se prévaloir avec succès du moyen de défense fondé sur la diligence raisonnable, il ne suffit pas de faire preuve de bonne foi passive et de bonnes intentions. Il faut que la contribuable présente des preuves convaincantes des gestes qu’elle a posés afin de satisfaire aux exigences de la loi. […]
+[11] Toutefois, dans l’arrêt Les Résidences Majeau c. la Reine, 2010 CAF 28, la Cour d’appel fédérale a fait les observations suivantes au sujet des circonstances dans lesquelles un moyen de défense fondé sur la diligence raisonnable peut être invoqué – en particulier, en ce qui concerne une seconde possibilité d’établir la diligence raisonnable dont le juge Bowie n’avait pas fait mention dans la décision Pereira‑Jennings. Aux paragraphes 8, 9 et 10 de l’arrêt Les Résidences Majeau, la Cour d’appel fédérale a dit ce qui suit :
+Selon l’arrêt Corporation de l’école polytechnique c. Canada, 2004 CAF 127, un défendeur bénéficie de la défense de diligence raisonnable s’il établit l’une ou l’autre des deux choses suivantes : soit qu’il a commis une erreur de fait raisonnable, soit qu’il a pris des précautions raisonnables pour empêcher que ne se produise l’évènement qui donne naissance à la pénalité.
+L’erreur de fait raisonnable emporte un double test : subjectif et objectif. Le test subjectif est satisfait si le défendeur établit qu’il s’est mépris en ce qu’il a cru en une situation de fait qui, si elle avait existé, aurait éliminé le caractère fautif de son geste ou de son omission. En outre, pour que cet aspect de la défense opère, il faut aussi que l’erreur soit raisonnable, i.e. une erreur qu’une personne raisonnable placée dans les mêmes circonstances aurait commise. Il s’agit là du test objectif.
+Le deuxième volet de la défense requiert, tel que déjà mentionné, que des gestes soient posés ou des mesures prises pour éviter l’événement qui engendre la pénalité.
+[12] En l’espèce, je conclus que l’omission de M. Friedlander de produire les déclarations Tl‑OVP était attribuable à une erreur de fait raisonnable. L’intimée ne conteste pas que M. Friedlander se trompait au sujet de la nature du compte qu’il avait ouvert chez TD Canada Trust. S’il avait su ce qu’était ce type de compte, je crois qu’il l’aurait fermé. Si le compte avait été un compte de placement ordinaire, il n’aurait pas été obligé de produire des déclarations T1‑OVP.
+[13] Le second aspect du moyen de défense, énoncé dans l’arrêt Les Résidences Majeau, est que l’erreur doit être raisonnable. Je conclus qu’il s’agissait d’une erreur raisonnable. J’accepte la preuve que M. Friedlander a présentée, lorsqu’il affirme que l’employé de la banque n’a jamais parlé de la question des REER ou n’a jamais donné d’explications à cet égard, c’est‑à‑dire que M. Friedlander n’a jamais demandé qu’un compte de REER soit ouvert et que, si la nature du compte lui avait été expliquée, M. Friedlander n’aurait pas décidé d’ouvrir un compte de REER. Il est clair qu’un tel compte ne convenait pas à ses besoins, à ce moment‑là.
+[14] Je crois également que M. Friedlander se serait probablement fortement fié à l’employé de la banque pour que celui‑ci choisisse un type approprié de compte étant donné que l’anglais n’était pas sa langue première, qu’il venait d’arriver au Canada et qu’il ne connaissait pas les produits de placement canadiens. Je conclus que l’erreur était une erreur qu’une personne raisonnable placée dans les mêmes circonstances que M. Friedlander aurait commise.
+[15] Pour ces motifs, je conclus que le moyen de défense fondé sur la diligence raisonnable a été établi et que les pénalités doivent être annulées.
+[16] J’aimerais également faire certaines remarques au sujet de la demande que M. Friedlander a présentée au ministre pour qu’il soit renoncé à l’impôt en vertu du paragraphe 220(3.1) de la Loi. Le ministre a refusé cette demande compte tenu du fait que M. Friedlander n’avait pas démontré que le versement de cotisations excédentaires à un REER était attribuable à une erreur raisonnable. Le ministre a également pris la position selon laquelle les notes figurant dans les avis de cotisation concernant les années d’imposition 2002 à 2006 de M. Friedlander, selon lesquelles il y avait des droits inutilisés de cotisation à un REER, auraient dû permettre à celui‑ci de se rendre compte qu’il avait versé des cotisations excédentaires.
+[17] J’ai certaines observations à faire au sujet des notes figurant dans les avis de cotisation. Premièrement, l’anglais n’est pas la langue première de M. Friedlander. Il est facile de voir comment M. Friedlander ne se serait pas rendu compte de l’importance des notes concernant les droits inutilisés de cotisation à un REER, surtout qu’il s’agissait en particulier d’une note parmi tant d’autres, toutes passablement obscures, figurant dans les avis de cotisation. Deuxièmement, et ce qui est peut-être encore plus important, mentionner des droits inutilisés de cotisation à un REER, ce n’est pas la même chose que mentionner des cotisations excédentaires. Même si M. Friedlander avait su jusqu’à quel point la mention de cotisations excédentaires était importante, il n’a pas été question dans ce cas‑ci de cotisations excédentaires.
+[18] J’encourage fortement M. Friedlander à demander un second examen impartial de la décision dont fait état la lettre du 18 avril 2011 rédigée par N. Polychronis, laquelle a été produite à l’audience, et je recommande fortement à la personne qui examinera cette décision de tenir compte des observations que je fais dans les présents motifs.
+[19] Par conséquent, l’appel est accueilli en partie et les pénalités sont annulées. Je recommande à M. Friedlander de joindre une copie des présents motifs à la demande qu’il présentera en vue d’un second examen.
+Signé à Ottawa, Canada, ce 11e jour de mai 2012.
+« B. Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 26e jour de juin 2012.
+Marie-Christine Gervais
+RÉFÉRENCE : 2012 CCI 163
+No DU DOSSIER DE LA COUR : 2011-1907(IT)I
+INTITULÉ : Jacob Friedlander
+c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 26 mars 2012
+MOTIFS DU JUGEMENT : L’honorable juge B. Paris
+DATE DU JUGEMENT : Le 11 mai 2012
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Tony Cheung
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

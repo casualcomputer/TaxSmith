@@ -1,0 +1,134 @@
+---
+title: "McNeely v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28858/index.do"
+last_modified: "2008-09-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 450"
+citation2: ""
+neutral_citation: "2008 TCC 450"
+decision_date: "2008-09-03"
+language: "en"
+item_id: "28858"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1335
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:52:39.215000+00:00"
+cases_cited_count: 1
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8ea5dff079f67a7dc55c50eda4816e10bb165cdf6865b209acfffc5ddaa00cdb"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# McNeely v. The Queen
+
+- Citation: 2008 TCC 450
+- Decision date: 2008-09-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1335, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McNeely v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-09-03
+Neutral citation
+2008 TCC 450
+File numbers
+2006-3758(IT)I
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2008 TCC 450
+Date: 20080903
+Docket: 2006-3758(IT)I
+BETWEEN:
+KELLY LYNN McNEELY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Agent for the Appellant: Ray Linseman
+Counsel for the Respondent: Suzanie Chua and Geneviève Léveillé
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench
+on July 4, 2008, at Kingston, Ontario)
+Miller J.
+[1] This is an informal procedure appeal by Ms. McNeely for the 2004 taxation year. The Minister of National Revenue included in her income $2,400 she received as child support. Ms. McNeely claimed that the amount was not a support amount by virtue of transitional rules introducing a new regime for support payments in 1997; secondly, that the amount was not a support amount as she had no discretion with respect to the payments; and thirdly, the involvement of the Family Responsibility Office constituted an order which was made after 1997, and therefore, sets a commencement date that likewise brings in the new regime.
+[2] The facts are quite straightforward. Ms. McNeely and Mr. Carl Peterson entered into a separation agreement in October 1992. The relevant parts of that agreement read as follows:
+10(1) Commencing on the date of this Agreement, the husband will pay to the wife for the support of the child, the sum of $200 monthly, until …
+And there are certain provisos:
+10(4) It is understood that the minimum payment of $200.00 per month is being accepted during the period of time that the husband is receiving Unemployment Insurance and at such time as Unemployment Insurance ceases, it is agreed that the $200.00 per month figure will be reviewed and that it may be increased or decreased depending upon the financial circumstances at that time.
+[3] Mr. Peterson unilaterally dropped the payments from $200 to $140 per month from 1993 until 1997, and then stopped payments altogether. Ms. McNeely did a sensible thing and sought to enforce her rights for support for her daughter through the Family Responsibility Office of the Attorney General of Ontario. She was successful in doing so, as Mr. Peterson paid nine months of arrears for 1998 and provided $200 per month through the Family Responsibility Office thereafter. The Family Responsibility Office acknowledged the arrangement in a letter dated December 18, 1998 in which it stated in part:
+This is to confirm that the Agreement dated 29 October 1992 is now filed with the Office of the Director, Family Responsibility Office in accordance with the Family Responsibility and Support Arrears Enforcement Act, 1996.
+As a result of this filing, the Support provisions of the Agreement will be monitored and enforced by the office of the Director from the date of this letter.
+[4] Also, in a recent affidavit of Ms. Bevinda Rego, an agent of the Family Responsibility Office, she indicated:
+2 The court order/agreement dated the 29th day of October 1992 has not been changed by the court or by agreement of the parties according to the records of the Director, since it was filed with the Director for enforcement.
+2a …
+3 The order/agreement to be enforced in this court is currently filed for enforcement in the office of the Director of the Family Responsibility Office.
+[5] The issue is whether the $2,400 payment that Ms. McNeely received in 2004 is subject to tax pursuant to paragraph 56(1)(b) of the Income Tax Act.[1] That brings into income the following:
+56(1)(a) …
+(b) the total of all amounts each of which is an amount determined by the formula
+A – (B + C)
+where
+A is the total of all amounts each of which is a support amount received after 1996 and before the end of the year by the taxpayer from a particular person where the taxpayer and the particular person were living separate and apart at the time the amount was received,
+B is the total of all amounts each of which is a child support amount that became receivable by the taxpayer from the particular person under an agreement or order on or after its commencement day and before the end of the year in respect of a period that began on or after its commencement day,
+I am not going to read C, because it is not pertinent.
+[6] Mr. Linseman, Ms. McNeely's agent, made some intriguing arguments regarding this legislation (paragraph 56(1)(b) and section 56.1). I can assure you he is not alone in struggling with the somewhat convoluted wording and is to be commended for attempting novel ways of approaching this area. However unclear and complex the legislation might appear, subsequent administration and jurisprudence have clarified that the provisions are to be interpreted as follows.
+[7] Where there is a written separation agreement prior to 1997 that sets a certain amount of support for a child, it is caught under the old regime and taxable to the recipient unless one of four things happened: first, the payor and the recipient, Mr. Peterson and Ms. McNeely in this case, elect to have the new regime apply. Ms. McNeely testified that Mr. Peterson has not agreed to do that. There is no election. She has not met the first possibility.
+[8] Second, the agreement had been varied after 1997 to change the amount. The evidence was that the agreement has not been varied to change the amount. There has been no variation agreement at all. Further, the amount paid by Mr. Peterson remains $200 per month. His obligation has always been $200 per month. He did not always meet that obligation, but the obligation existed for that amount both before and after 1997. Is this impacted by the wording of the agreement which stipulates the amount should be reviewed when Mr. Peterson is no longer on unemployment insurance? No. A requirement to review does not nullify the obligation to pay the $200 per month.
+[9] The third possibility: There is a new agreement or order. Although the Family Responsibility Office became involved in assisting Ms. McNeely collect her monthly payments, it did not make any order. This was very clear in the correspondence from the Family Responsibility Office, and specifically, the affidavit of Ms. Rego of July 2007. It was the separation agreement of October 1992 that was being enforced. There has also not been a new written agreement. The evidence clearly established that Mr. Peterson pays the $200 per month pursuant to his obligation under the October 1992 agreement.
+[10] This is not the same situation facing Justice Mogan in Butters v. The Queen.[2] In that case, a paternity agreement was filed in the Ontario Court and specific legislation deemed it to be an Order. Ms. McNeely did not file any agreement in Court. There was no deemed Order. She just relied on the Family Responsibility Office to collect for her. Further, even if I accepted that the Family Responsibility Office’s involvement was an Order, which I do not, it did not vary the amount payable under the 1992 agreement. I find the Butters case is of no assistance to Ms. McNeely.
+[11] The fourth manner in which the new regime might click in is if the agreement itself sets a commencement day. That is not the case before me. The only agreement is the October 1992 agreement, and it certainly does not, nor could it have, referenced a commencement day.
+[12] So Ms. McNeely's receipt of the child support amount is clearly caught in the old regime and therefore taxable.
+[13] Mr. Linseman made a couple of other arguments that I would like to deal with. First, that the transitional legislation removed from the definition of support amount, the very amount that we are concerned with. I repeat, the legislation is complicated, but I find Mr. Linseman has not interpreted those transitional rules accurately. The definition may exclude such support amounts from the new regime but the old regime is still left in place, and it still does pick up Ms. McNeely's receipts and taxes them.
+[14] Mr. Linseman also suggested that Ms. McNeely had no discretion with respect to the payments and therefore they cannot be viewed, by definition, as support amounts. A child support amount being limited to be used only for the benefit of the child is not the restriction or discretion contemplated by the legislation. If it was, it would render the very definition of "child support amount" meaningless. There could never be a child support amount. Ms. McNeely had discretion as to how to spend those monies within the overall guidance of it having to be for the benefit of her child, and I have no doubt she did that.
+[15] Finally, Mr. Linseman argued that the definition of child support amount does not specifically mention payments for the child, but talks in terms of amounts not identified solely for the spouse. While this definition may be awkward, it is clear that a payment for the benefit of the child alone is not an amount solely for the support of the spouse. It falls squarely within the definition of "child support amount".
+[16] The case has been well presented in an area of law that the most serious tax practitioners scratch their heads over. But cutting through the complex legislation and the convoluted verbiage, the principles are simple. A new system is in place after 1997 so that child support amounts are not taxable to the recipient. Prior to 1997, they were taxable, and for people such as Ms. McNeely, who spanned the two regimes, there are provisions that are in place to bring the new regime into
+play. Regrettably, Ms. McNeely has not been able to bring herself within those provisions, and I must therefore dismiss her appeal.
+Signed at Ottawa, Canada, this 3rd day of September 2008.
+“Campbell J. Miller”
+C. Miller J.
+CITATION: 2008 TCC 450
+COURT FILE NO.: 2006-3758(IT)I
+STYLE OF CAUSE: KELLY LYNN McNEELY AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Kingston, Ontario
+DATE OF HEARING: July 4, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT: July 10, 2008
+APPEARANCES:
+Agent for the Appellant:
+Ray Linseman
+Counsel for the Respondent:
+Suzanie Chua and
+Geneviève Léveillé
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] R.S.C. 1985, c. 1 (5th Supp.), as amended.
+[2] 2008 DTC 3401.

@@ -1,0 +1,139 @@
+Title: King c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26513/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-429-26513-king-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2005-07-18
+
+# King c. M.R.N.
+
+- Citation: 2005 CCI 429
+- Decision date: 2005-07-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3231, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+King c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-07-18
+Référence neutre
+2005 CCI 429
+Numéro de dossier
+2004-4654(EI)
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2004-4654(EI)
+ENTRE :
+DAN KING,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+FERNS AIR FREIGHT (1986) LTD.,
+intervenante.
+____________________________________________________________________
+Appel entendu à Kelowna (Colombie‑Britannique) le 24 juin 2005.
+Devant : L’honorable juge D.W. Beaubier
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimé :
+Me Nadine Taylor Pickering
+Représentant de l’intervenante :
+E.S. Culos
+[TRADUCTION FRANÇAISE OFFICIELLE]
+JUGEMENT
+L’appel est rejeté, et la décision rendue par le ministre est confirmée conformément aux motifs de jugement ci‑annexés.
+Signé à Saskatoon (Saskatchewan) ce 18e jour de juillet 2005.
+« D.W. Beaubier »
+Le juge Beaubier
+Traduction certifiée conforme ce 16e jour de janvier 2006.
+Joanne Robert, traductrice
+Référence : 2005CCI429
+Date : 20050718
+Dossier : 2004-4654(EI)
+ENTRE :
+DAN KING,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Beaubier
+[1] Cet appel a été entendu à Kelowna (Colombie‑Britannique), le 24 juin 2005. L’appelant était le seul témoin.
+[2] Les paragraphes 5 à 10 de la réponse à l’avis d’appel qui résument les points en litige sont libellés comme suit :
+[TRADUCTION]
+5. Le 27 mai 2004, l’appelant a interjeté appel en vertu de l’article 91 de la Loi sur l’assurance‑emploi, L.C. 1996, ch. 23 (ci‑après la « Loi »).
+6. L’intimé a rendu une décision selon laquelle l’appelant n’exerçait pas un emploi assurable chez Ferns pendant la période allant du 8 octobre 2001 au 25 septembre 2003 (ci‑après la « période ») puisqu’il n’était pas employé aux termes d’un contrat de louage de services au sens de l’alinéa 5(1)a) de la Loi. L’intimé a informé l’appelant de sa décision dans une lettre datée du 22 septembre 2004.
+7. Pour rendre cette décision, l’intimé s’est appuyé sur les hypothèses de fait suivantes :
+a) Ferns exploitait une entreprise de messageries à Kelowna, en Colombie‑Britannique;
+b) l’appelant a répondu à une annonce de Ferns, qui était à la recherche de chauffeurs propriétaires d’un véhicule, en disant qu’il possédait une Dodge Grande Caravan 1993;
+c) le 12 octobre 2001, l’appelant et Ferns ont signé un contrat intitulé [TRADUCTION] « Contrat du chauffeur propriétaire »;
+d) l’appelant a accepté de livrer de petits colis en utilisant son véhicule (ci‑après « les fonctions »);
+e) la paie de l’appelant était calculée selon un pourcentage du prix facturé pour chaque livraison qu’il faisait;
+f) l’appelait facturait ses services à Ferns, qui le payait toutes les deux semaines;
+g) l’appelant fournissait le véhicule et payait les frais afférents au véhicule lorsqu’il faisait des livraisons pour le compte de Ferns;
+h) Ferns fournissait à l’appelant un radio avec émetteur‑récepteur, et un répartiteur communiquait avec lui par radio pour l’informer des colis à ramasser et à livrer;
+i) Ferns fournissait un logo magnétique et des tee-shirts à l’appelant, qui était libre de les porter;
+j) l’appelait offrait simultanément des services de livraison à Ferns et à Predator Courier Ltd., une société liée à Ferns;
+k) Ferns et Predator occupaient le même local d’affaires et utilisaient les mêmes services de répartition;
+l) Ferns ne dirigeait ni ne contrôlait l’appelant dans l’exercice des fonctions;
+m) l’appelant n’avait pas à fournir lui-même les services et pouvait choisir d’embaucher des auxiliaires ou de se faire remplacer dans l’exercice des fonctions;
+n) l’appelant était en mesure de faire des profits lorsqu’il accomplissait les fonctions.
+B. QUESTION EN LITIGE
+8. L’appelant exerçait‑il chez Ferns un emploi assurable aux termes d’un contrat de louage de services au cours de la période?
+C. DISPOSITIONS DE LA LOI ET MOYENS INVOQUÉS
+9. L’intimé s’appuie sur l’alinéa 5(1)a), le paragraphe 2(1) et l’article 91 de la Loi ainsi modifiée.
+10. Il allègue avoir déterminé à juste titre que l’appelant n’exerçait pas un emploi assurable chez Ferns au cours de la période puisqu’il n’était pas employé aux termes d’un contrat de louage de services au sens de l’alinéa 5(1)a) de la Loi.
+[3] Aucune des hypothèses énoncées dans le paragraphe 7 n’a été réfutée par la preuve. En ce qui concerne l’hypothèse 7e), la Cour constate que l’appelant et jusqu’à sept autres messagers devaient se rendre au bureau de Ferns à Kelowna chaque matin, du lundi au vendredi, pour y recevoir des colis à livrer ou des instructions du répartiteur quant aux points de ramassage et de livraison. Chaque messager était libre de choisir la manière dont il allait procéder, le chauffeur, le véhicule utilisé et la personne responsable de la manutention des colis. Le fils et l’épouse de M. King faisaient les livraisons pour son compte de temps à autre. D’autres messagers embauchaient un second chauffeur et utilisaient une autre fourgonnette. Les messagers choisissaient leur itinéraire. Dans le cas des livraisons de sang, le temps était un facteur important, mais la plupart du temps il ne l’était pas.
+[4] Utilisant en partie les critères élaborés par la Cour suprême du Canada dans l’arrêt 671122 Ontario Ltd. c. Sagaz Industries Ltd., [2001] 2 R.C.S. 983, la Cour conclut ce qui suit :
+1. Contrôle
+L’appelant choisissait la manière dont il accomplissait les fonctions, la personne qui les accomplissait et, habituellement, le moment de la journée où la livraison était faite. Dans l’ensemble, l’appelant contrôlait sa journée de travail pour que cela lui en coûte le moins possible.
+2. Instruments de travail
+La fourgonnette de l’appelant était le principal instrument de travail, et l’appelant assumait les frais afférents au véhicule. Ce dernier fournissait également son propre téléphone cellulaire, qu’il utilisait à l’extérieur de la fourgonnette.
+3. Auxiliaires
+L’appelant pouvait s’assurer les services d’auxiliaires, ce qu’il a fait. Il aurait également pu embaucher un second chauffeur, qui aurait conduit une autre fourgonnette.
+4. Responsabilité – Possibilité de profit
+La fourgonnette, les frais afférents à celle-ci et les itinéraires déterminaient principalement les coûts de l’appelant. Le nombre de livraisons effectuées chaque jour et le prix facturé pour ces livraisons, duquel il recevait un pourcentage, constituaient l’autre facteur déterminant. Ce prix était principalement établi par le client et par la forte concurrence à Kelowna. La fourgonnette et les frais afférents à celle-ci étaient la responsabilité de l’appelant. Ce dernier avait une occasion quotidienne de réaliser des profits ou d’essuyer des pertes.
+5. Responsabilité de la gestion
+Elle incombait à l’appelant.
+6. Intervention
+L’appelant et Ferns ont passé un contrat écrit. Il ne s’agit pas d’un contrat de louage de services. L’appelant était plutôt entrepreneur indépendant.
+[5] L’appel est rejeté.
+Signé à Saskatoon (Saskatchewan) ce 18e jour de juillet 2005.
+« D.W. Beaubier »
+Le juge Beaubier
+Traduction certifiée conforme
+ce 16e jour de janvier 2006.
+Joanne Robert, traductrice
+CITATION: 2005TCC429
+COURT FILE NO.: 2004-4654(EI)
+STYLE OF CAUSE: Dan King v. M.N.R.
+PLACE OF HEARING: Kelowna, British Columbia
+DATE OF HEARING: June 24, 2005
+REASONS FOR JUDGMENT BY: The Honourable Justice D.W. Beaubier
+DATE OF JUDGMENT: July 18, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Nadine Taylor Pickering
+Agent for the Intervenor:
+E.S. Culos
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

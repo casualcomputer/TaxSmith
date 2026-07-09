@@ -1,0 +1,154 @@
+---
+title: "6338372 Canada Inc. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/304929/index.do"
+last_modified: "2018-01-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 TCC 10"
+citation2: ""
+neutral_citation: "2018 TCC 10"
+decision_date: "2018-01-11"
+language: "en"
+item_id: "304929"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7232
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:55:28.501000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3aabce207ac11f6c9bdd98d7f296dbcdd2170ebe7d6ef0719f16db7c5fa37f5d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 6338372 Canada Inc. v. M.N.R.
+
+- Citation: 2018 TCC 10
+- Decision date: 2018-01-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7232, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+6338372 Canada Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-01-11
+Neutral citation
+2018 TCC 10
+File numbers
+2017-1197(EI)
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2017-1197(EI)
+BETWEEN:
+6338372 CANADA INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Appeal heard on January 9, 2018, at Ottawa, Canada
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Agent for the Appellant:
+Taki Hasson
+Counsel for the Respondent:
+Alexander Nguyen
+JUDGMENT
+The appeal from the Minister of National Revenue’s decision dated December 22, 2016 is dismissed and the Minister’s decision is confirmed in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 11th day of January, 2018.
+“Robert J. Hogan”
+Hogan J.
+Citation: 2018 TCC 10
+Date: 20180111
+Docket: 2017-1197(EI)
+BETWEEN:
+6338372 CANADA INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+Hogan J.
+[1] An investigation was conducted by Service Canada regarding the eligibility of Najat Aboulmaid (the “Worker”) to claim employment insurance benefits following her loss of employment with 6338372 Canada Inc. (the “Appellant”). In the course of the investigation, Service Canada requested a ruling to determine the insurability of the Worker’s employment with the Appellant during the period from February 24, 2013 to February 21, 2014 (the “Relevant Period”).
+[2] The Canada Pension Plan and Employment Insurance Rulings Division determined that the Worker’s employment with the Appellant was not insurable. The Ruling’s Officer concluded that the Worker and the Appellant were not dealing at arm’s length and the terms and conditions of the Worker’s employment with the Appellant was not substantially similar to the terms and conditions of employment that would have been agreed to had the parties been dealing at arm’s length with one another.
+[3] The Appellant disagreed with that determination and filed an appeal to the Minister.
+[4] In confirming the initial ruling, the Minister relied, inter alia, on the following assumptions of facts:
+(a) the Appellant operated as a retailer of women’s fashion;
+(b) all of the issued and outstanding shares of the Appellant belonged to the Worker’s husband, at all material times;
+(c) the Appellant hired the Worker as a sales manager;
+(d) the position was not advertised. The Worker was hired because she was the wife of the Appellant’s sole shareholder;
+(e) at all material times, the Worker was paid the Ontario minimum wage;
+(f) the Worker’s duties included customer sales, merchandising, pricing and supervision of sales staff;
+(g) the wage earned by the Worker was substantially below the median wage of $28.57 paid to retail and wholesale sales managers. According to the Minister, the lowest wage paid to an employee occupying that position was $14 per hour;
+(h) the Worker often delayed depositing the wage checks that she received from the Appellant until she was informed by her husband that the Appellant had sufficient funds on hand to honor the check; and
+(i) the Worker continued to provide services to the Appellant for free while she was receiving employment insurance benefits.
+I. Analysis [5] It is undisputed between the parties that they were not dealing at arm’s length.
+[6] The relevant legislative provisions are reproduced below:
+5. (2) Excluded employment – Insurable employment does not include:
+[. . .]
+(i) Employment if the employer and employee are not dealing with each other at arm’s-length.
+(3) Arm’s length dealing – For the purposes of paragraph (2)(i)
+(a) the question of whether persons are not dealing with each other at arm’s length shall be determined in accordance with the Income Tax Act; and
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm’s length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to concluded that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length.
+[7] The question is whether it was reasonable for the Minister to conclude that the Worker and the Appellant would not have entered into a substantially similar contract of employment had they been dealing at arm’s length.
+[8] Based on the evidence at hearing, I conclude that the Minister’s decision was reasonable.
+[9] In my view, the evidence shows that the Worker was underpaid for the services that she provided to the Appellant. As noted earlier, she received minimum wage for her services while the median wage in Ontario for employees providing similar services is much higher. The evidence also shows that she was paid the same wage as other sales personnel, while she performed more tasks and assumed greater responsibility in her employment with the Appellant.
+[10] Mr. Taki Hasson, the sole shareholder of the Appellant and husband of the Worker testified on behalf of the Appellant. He claimed that his wife was not the most senior employee of the company. According to the witness, Ms. Anne Abdul-Rahman was hired by the Appellant before the Worker and performed similar duties to that of the Worker. She was also paid the minimum wage for her services.
+[11] Mr. Hasson’s evidence was contradicted in part by his wife who also testified on behalf of the Appellant. She admitted that she has worked for the Appellant for a longer period of time than Ms. Abdul-Rahman.
+[12] The Respondent produced exhibit R-5 which is a printout summary of T-4s employment information returns filed by the Appellant with the Canada Revenue Agency (the “CRA”) for the 2005, 2013 and 2014 taxation years. The printout shows that the Appellant did not file a T-4 information slip for Ms. Abdul-Rahman for those taxation years.
+[13] In light of the above, I conclude that Mr. Hasson’s evidence regarding the similarity of the Worker’s and Ms. Abdul-Rahman’s employment with the Appellant is not reliable.
+[14] The Appellant could have called Ms. Abdul-Rahman as a witness to corroborate Mr. Hasson’s evidence on this matter. I draw a negative inference from the Appellant’s decision not to call Ms. Abdul-Rahman as a witness to corroborate Mr. Hasson’s testimony.
+[15] The Respondent produced accounting information showing the wages paid to the Worker over a 53 week period and bank records of the Worker that shows when she deposited her pay in her bank account. These records show that the Worker often delayed cashing her pay checks. In some instances, she waited more than three months before depositing a pay check. This evidence corroborates the ruling officer’s finding that Mr. Hasson often asked his wife not to cash her pay checks when the Appellant had insufficient funds to meet its payroll obligations. I agree with the Respondent’s observation that an unrelated employee would have not agreed to delay depositing a pay check in similar circumstances.
+[16] Finally, based on the evidence, I conclude that the Worker did provide some services to the Appellant for free. This is not typical of an arm’s length relationship.
+[17] It is well established that I cannot substitute my decision for the Minister’s decision, when the facts relied on by the Minister are not shown to be incorrect and there are no new facts that could have influenced the Minister’s determination that the Worker’s employment with the Appellant was not based on arm’s length terms and conditions of employment.
+[18] For all of these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 29th day of January, 2018.
+“Robert J. Hogan”
+Hogan J.
+CITATION:
+2018 TCC 10
+COURT FILE NO.:
+2017-1197(EI)
+STYLE OF CAUSE:
+6338372 CANADA INC. AND M.N.R.
+PLACE OF HEARING:
+Ottawa, Canada
+DATE OF HEARING:
+January 9, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT:
+January 11, 2018
+APPEARANCES:
+Agent for the Appellant:
+Taki Hasson
+Counsel for the Respondent:
+Alexander Nguyen
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

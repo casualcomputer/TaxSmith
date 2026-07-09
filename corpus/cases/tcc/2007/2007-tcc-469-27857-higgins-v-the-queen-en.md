@@ -1,0 +1,190 @@
+---
+title: "Higgins v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27857/index.do"
+last_modified: "2007-08-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 469"
+citation2: ""
+neutral_citation: "2007 TCC 469"
+decision_date: "2007-08-13"
+language: "en"
+item_id: "27857"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 332
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:50:50.825000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "49fa14089607740ea185ef012273b279206d729d568362d59e0f05019876ecfd"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Higgins v. The Queen
+
+- Citation: 2007 TCC 469
+- Decision date: 2007-08-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 332, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Higgins v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-08-13
+Neutral citation
+2007 TCC 469
+File numbers
+2006-2920(GST)I
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2006-2920(GST)I
+BETWEEN:
+GERTRUDE HIGGINS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+John Higgins (2006-2921(GST)I) on July 25, 2007,
+at Fredericton, New Brunswick.
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Agent for the Appellant:
+Don Olmstead
+Counsel for the Respondent:
+Carole Benoit
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated March 14, 2005 and bears number 68100 is dismissed without costs.
+Signed at Toronto, Ontario, this 13th day of August 2007.
+“Wyman W. Webb”
+Webb J.
+Docket: 2006-2921(GST)I
+BETWEEN:
+JOHN HIGGINS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Gertrude Higgins (2006-2920(GST)I) on July 25, 2007,
+at Fredericton, New Brunswick.
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Agent for the Appellant:
+Don Olmstead
+Counsel for the Respondent:
+Carole Benoit
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated March 14, 2005 and bears number A106059 is dismissed without costs.
+Signed at Toronto, Ontario, this 13th day of August 2007.
+“Wyman W. Webb”
+Webb J.
+Citation: 2007TCC469
+Date: 20070813
+Docket: 2006-2920(GST)I
+BETWEEN:
+GERTRUDE HIGGINS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2006-2921(GST)I
+AND BETWEEN:
+JOHN HIGGINS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb J.
+[1] The Appellants, Gertrude Higgins and John Higgins, were both directors of Tru-John Enterprises Inc. (the “Company”) which was carrying on a craft and gift store business in St. Stephen, New Brunswick. The Company, unfortunately, was not successful. The financial statements for the Company showed that the Company suffered losses in its fiscal years ending February 28, 1995, February 29, 1996, February 28, 1997 and February 28, 1998. The Company made a modest profit of $11,516 for its fiscal year ending February 28, 1999. However, by that point, after taking into account the profit for 1999, the accumulated deficit was $131,642.
+[2] The Company failed to remit all of the HST that it had collected on its sales. The Appellants were assessed as the directors of the Company for the failure to remit the HST. The unremitted HST was for the periods from November 30, 1998 to September 30, 2000.
+[3] The issue in this case is whether the Appellants, as the directors of the Company, are liable for the unremitted HST.
+[4] The liability of directors is set out in section 323 of the Excise Tax Act (“Act”). Subsections (1) and (3) of this Act for the periods under appeal read as follows:
+(1) Where a corporation fails to remit an amount of net tax as required under subsection 228(2) or (2.3), the directors of the corporation at the time the corporation was required to remit the amount are jointly and severally liable, together with the corporation, to pay that amount and any interest thereon or penalties relating thereto.
+...
+(3) A director of a corporation is not liable for a failure under subsection (1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+[5] The defence raised by the Appellants in this case was the due diligence defence in subsection 323(3) referred to above.
+[6] The Federal Court of Appeal in Soper v. R., [1997] 3 C.T.C. 242, completed a detailed analysis of the due diligence defence in subsection 227.1(3) of the Income Tax Act which has identical wording to that found in subsection 323(3) of the Act. The Federal Court of Appeal noted that federal statutes with the same language should be interpreted in the same manner. In particular the Federal Court of Appeal was focused on the provisions of the Canada Business Corporations Act (“CBCA”) which also imposes a duty upon a director and uses the same language as found in the Act and the Income Tax Act in relation to the due diligence defence. In Soper, supra, Robertson J. A. of the Federal Court of Appeal made the following comments:
+19 In my view, it is not simply a fortuitous occurrence that subsection 227.1(3) of the Income Tax Act adopts the same language as found in subsection 122(1)(b) of the Canada Business Corporations Act, for both statutory provisions relate to the standard of care to be exercised. Admittedly, the CBCA provision deals with the standard of care owed to the corporation while the taxation provision concerns the standard of care owed to the Crown and Canadian taxpayers. However, that distinction does not serve to nullify the relevance of the standard set out in the CBCA, if only because of the presumption of coherence between statutes. That elementary principle of statutory interpretation is explained by P.-A. Côté in The Interpretation of Legislation in Canada, 2nd ed. (Cowansville, Quebec: Les Editions Yvon Blais Inc., 1991) at 288, 290:
+Different enactments of the same legislature are supposedly as consistent as the provisions of a single enactment. All legislation of one Parliament is deemed to make up a coherent system. Thus, interpretations favouring harmony between statutes should prevail over discordant ones, because the former are presumed to better represent the thought of the legislator.
+This presumption of coherence in enactments of the same legislature is even stronger when they relate to the same subject matter, in pari materia. Apparent conflicts between statutes should be resolved in such a way as to re-establish the desired harmony.
+...
+To sum up, the presumption of coherence in related legislation applies particularly to statutes of the same legislature. But it is also relevant to statutes of different jurisdictions, as one legislature may be deemed to imitate the form or be consistent with the substance of a statute enacted by another.
+Thus, in order to determine whether the common law standard of care was modified by statute, it is both appropriate and instructive to consider not only the due diligence provision set out at subsection 227.1(3) of the Income Tax Act but also the analogous, and virtually identical, standard of care provisions found in the Canada Business Corporations Act.
+[7] The conclusion of Robertson J. A. was that the provisions of paragraph 122(1)(b) of the CBCA and subsection 227.1(3) of the Income Tax Act provided for an objective subjective test to be applied in analyzing the standard set out in these sections.
+[8] The Supreme Court of Canada in Peoples Department Stores Inc (Trustee of) v. Wise, 2004 S.C.C. 68, [2004] 3 S.C.R. 461, made the following comments in relation to the objective subjective test as set out by the Federal Court of Appeal in Soper:
+63 The standard of care embodied in s. 122(1)(b) of the CBCA was described by Robertson J.A. of the Federal Court of Appeal in Soper v. R. (1997), [1998] 1 F.C. 124 (Fed. C.A.), at para. 41, as being "objective subjective". Although that case concerned the interpretation of a provision of the Income Tax Act, it is relevant here because the language of the provision establishing the standard of care was identical to that of s. 122(1)(b) of the CBCA. With respect, we feel that Robertson J.A.'s characterization of the standard as an "objective subjective" one could lead to confusion. We prefer to describe it as an objective standard. To say that the standard is objective makes it clear that the factual aspects of the circumstances surrounding the actions of the director or officer are important in the case of the s. 122(1)(b) duty of care, as opposed to the subjective motivation of the director or officer, which is the central focus of the statutory fiduciary duty of s. 122(1)(a) of the CBCA.
+[9] The Supreme Court of Canada again noted that because the language in paragraph 122(1)(b) of the CBCA is identical to that found in subsection 227.1(3) of the Income Tax Act (which is also identical to the language set out in subsection 323(3) of the Act) the provisions are to be interpreted in the same manner. Therefore, in my opinion, the conclusion is that the Supreme Court of Canada has modified the objective subjective test as set out by the Federal Court of Appeal in Soper and instead has adopted an objective standard that now should be used not only for the purposes of paragraph 122(1)(b) of the CBCA but also for the purposes of section 227.1(3) of the Income Tax Act and subsection 323(3) of the Act.
+[10] The Supreme Court of Canada in Peoples Department Stores Inc. also made the following comments in relation to this duty:
+67 Directors and officers will not be held to be in breach of the duty of care under s. 122(1)(b) of the CBCA if they act prudently and on a reasonably informed basis. The decisions they make must be reasonable business decisions in light of all the circumstances about which the directors or officers knew or ought to have known. In determining whether directors have acted in a manner that breached the duty of care, it is worth repeating that perfection is not demanded. Courts are ill-suited and should be reluctant to second-guess the application of business expertise to the considerations that are involved in corporate decision making, but they are capable, on the facts of any case, of determining whether an appropriate degree of prudence and diligence was brought to bear in reaching what is claimed to be a reasonable business decision at the time it was made.
+[11] Therefore the issue in this case is whether the Appellants have acted prudently on a reasonably informed basis and have met the objective standard imposed upon them of exercising the duty of care, diligence and skill to prevent the failure to remit the HST that a reasonable prudent person would have exercised in comparable circumstances.
+[12] In this particular case both Appellants were involved in the day to day operation of the business. Both Appellants met with the accountant and the lawyer to discuss the set-up of the business and also were involved with the bank for the Company. Initially they hired an accountant to look after all their financial matters but since there were difficulties in having matters completed on time with this particular accountant, they decided to look after more of the affairs themselves and to hire a separate accounting firm.
+[13] The first call that the Appellants had received from the Canada Revenue Agency (“CRA”) in relation to the outstanding returns was on February 20, 1998. As noted above, the unremitted HST amounts were for the period from November 30, 1998 to September 30, 2000. In other words all the unremitted amounts were for periods after the Appellants had received the first telephone call from the CRA. The Company had a history of late filing its HST returns and not sending in the appropriate amount of HST with its returns. For some months the Company was entitled to a refund of HST which was applied to unremitted amounts from earlier periods. There were also several occasions when several HST returns would be sent in together. Initially the Company chose to file its HST returns quarterly and then elected to file monthly (although on many occasions the Company was late in filing its monthly returns).
+[14] It is clear from the evidence that the Appellants were trying very hard to keep the business going as this business had been their dream. They felt that they had to continue to pay suppliers otherwise they would not receive any goods for sale. The bank was also putting pressure on the Company. As they were behind in their bank loans, the bank would apply any cash in the account to its outstanding debt. The bank also arranged for refinancing on the Appellants’ personal house to pay off the corporate debts. It should also be noted that the bank was holding the personal guarantees of the Appellants for the debts of the Company. The Appellants also borrowed money from family members to try to keep the business solvent. Unfortunately their efforts were unsuccessful. The landlord for the premises that the Company was occupying locked the doors as the Company was in arrears of its rent and this terminated the business.
+[15] Unfortunately for the Appellants there is very little evidence of the actions that the Appellants took to prevent the repeated failures to remit HST.
+[16] The Federal Court of Appeal in Worrell v. R., 2000 CarswellNat 2344, [2000] G.S.T.C. 91, stated:
+68. In my opinion, it is essential to keep in mind the relevant question in this appeal: did the directors exercise due diligence to prevent the company’s failure to remit? This is not necessarily the same as asking whether it was reasonable from a business point of view for the directors to continue to operate the business. In order to avail themselves of the defence provided by subsection 227.1(3) directors must normally have taken positive steps which, if successful, could have prevented the company’s failure to remit from occurring. The question then is whether what the directors did to prevent the failure meets the standard of the care, diligence and skill that would have been exercised by a reasonably prudent person in comparable circumstances.
+69. It will normally not be sufficient for the directors simply to have carried on the business, knowing that a failure to remit was likely but hoping that the company's fortunes would revive with an upturn in the economy or in their market position. In such circumstances directors will generally be held to have assumed the risk that the company will subsequently be able to make its remittances. Taxpayers are not required involuntarily to underwrite this risk, no matter how reasonable it may have been from a business perspective for the directors to have continued the business without doing anything to prevent future failures to remit.
+70. This point was recently made in Ruffo c. R. (1997), [1998] 2 C.T.C. 2203 (T.C.C.), affirmed by this Court on April 13, 2000 (A-429-97), where Lamarre-Proulx J.T.C.C. stated at paragraph [20]:
+I am of the opinion that the case law of the Court is consistent on the diligence that the director of a corporation must show to avoid the liability prescribed in subsection 227.1(3) of the Act. It is the diligence that is concerned with preventing the failure that can, in many instances, differ from the diligence that the director must exercise toward the corporation.
+71. She went on to cite with approval the following statements by Rip J.T.C.C. in Merson v. Minister of National Revenue (1998), 89 DTC 22 (T.C.C.), where he said (at page 28):
+The prudence required by subsection 227.1(3) in the exercise of care diligence and skill is different from that required by a director performing his duties, under corporate law, notwithstanding that subsection 227.1(3) and subsection 122(1)(b) of the Canadian Business Corporations Act, for example, both use identical words. The exercise of care, diligence and skill by the director contemplated by subsection 227.1(3) is not founded on the director's obligations to the corporation; it is based on one of the corporation's obligations under the Act and the failure of the corporation to fulfil such obligation. A director who manages a business is expected to take risks to increase the profitability of the business and the duties of care, diligence and skill are measured by this expectation. The degree of prudence required by subsection 227.1(3) leaves no room for risk.
+72. I do not understand Rip J.T.C.C.'s statement that the "degree of prudence required by subsection 227.1(3) leaves no room for risk" to mean that section 227.1 imposes strict liability on directors whose company ultimately proves to be unable to make good defaults in its remittances. Such a view would clearly be contrary to subsection 227.1(3), which only becomes relevant when Revenue Canada is unable to recover the money that the company ought to have remitted.
+73 Rather, I take him to have meant that, if directors decide to continue the business in the expectation that the company will turn around and will be able to make good its remittance defaults after they have occurred, if the company nonetheless fails without paying its tax debts, it is no defence for the directors to say that the risk that they took would have been taken by a reasonable person. The subsection 227.1(3) defence only applies if it can be demonstrated that the directors exercised the care, diligence and skill that a reasonably prudent business person in comparable circumstances would have exercised to prevent a future default.
+(emphasis added)
+[17] Justice Rip (as he then was) in the case of Ciriello v. R., 2000 CarswellNat 2823, [2000] G.S.T.C. 104, also made the following comments in relation to the decision to carry on a business in hopes that it will rebound:
+34. Carrying on the business knowing that the company will fail to remit on time but hoping the company’s fortunes would be revived does not normally help the director’s defence. The director, in such circumstances, assumes the risk the company subsequently will be able to make payments.
+[18] Also the Federal Court of Appeal in Ruffo c. R., 2000 CarswellNat 1570, [2004] 4 C.T.C. 39, made the following similar comments:
+6. The appellant’s duty as a director was to anticipate and prevent the failure to pay the sums owing and not to commit such failure or perpetuate it as he did from March 1992 on in the hope that at the end of the day the firm would again become profitable or there would be enough money, even if it were wound up, to pay all the creditors.
+[19] In my opinion that is exactly what the Appellants did in this particular case. They chose to continue to operate the business in the hopes that their dream would be realized and that the Company would be profitable and able to pay the unremitted amounts. There is no doubt that the Appellants were honest and sincere in their efforts but unfortunately they have failed to establish that they exercised the degree of care, diligence and skill to prevent the failure to remit HST that a reasonable prudent person would have exercised in comparable circumstances.
+[20] As a result, the appeals are dismissed.
+Signed at Toronto, Ontario, this 13th day of August 2007.
+“Wyman W. Webb”
+Webb J.
+CITATION: 2007TCC469
+COURT FILE NOS.: 2006-2920(GST)I & 2006-2921(GST)I
+STYLE OF CAUSE: GERTRUDE HIGGINS AND HER MAJESTY THE QUEEN AND
+JOHN HIGGINS AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Fredericton, New Brunswick
+DATE OF HEARING: July 25, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: August 13, 2007
+APPEARANCES:
+Agent for the Appellant:
+Don Olmstead
+Counsel for the Respondent:
+Carole Benoit
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

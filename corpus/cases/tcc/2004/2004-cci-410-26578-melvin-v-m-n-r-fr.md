@@ -1,0 +1,149 @@
+---
+title: "Melvin v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26578/index.do"
+last_modified: "2004-06-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 410"
+citation2: ""
+neutral_citation: "2004 CCI 410"
+decision_date: "2004-06-22"
+language: "fr"
+item_id: "26578"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3586
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:19:15.004000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8d14306bd9f8353faa338169af00a59b8c4a68f3a76fb46176655afed50d66a6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Melvin v. M.N.R.
+
+- Citation: 2004 CCI 410
+- Decision date: 2004-06-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3586, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Melvin v. M.N.R.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-06-22
+Référence neutre
+2004 CCI 410
+Numéro de dossier
+2003-3253(EI)
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2003-3253(EI)
+ENTRE :
+RONALD MELVIN,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 20 mai 2004 à Bathurst (Nouveau-Brunswick).
+Devant : L'honorable juge François Angers
+Comparutions :
+Avocat de l'appelant :
+Me Charles H. Johstone, c.r.
+Avocat de l'intimé :
+Me Claude Lamoureux
+____________________________________________________________________
+JUGEMENT
+Les appels sont rejetés et la décision de l'intimé est confirmée en application des motifs du jugement ci-joints.
+Signé à Edmundston (Nouveau-Brunswick), ce 22e jour de juin 2004.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 17e jour de novembre 2004.
+Daniel E. Renaud, traducteur
+Référence : 2004CCI410
+Date : 20040622
+Dossier : 2003-3253(EI)
+ENTRE :
+RONALD MELVIN,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Les présents appels sont interjetés à l'encontre de la décision du ministre du Revenu national (le ministre) par laquelle ce dernier a déterminé que l'emploi qu'exerçait l'appelant auprès de David Boucher - qui exerçait un commerce sous la raison sociale « North East Holdings » (le payeur) - n'était pas un emploi assurable selon la Loi sur l'assurance-emploi (la LAE). Cette décision, visant les périodes comprises entre le 4 mai et le 31 décembre 1998, le 1er janvier et le 31 décembre 1999, le 1er janvier et le 31 décembre 2000, le 1er janvier et le 31 décembre 2001 et le 1er janvier et le 1er octobre 2002, est fondée sur la conclusion que l'appelant et le payeur ont agi, par la conclusion d'une entente factice, de concert pendant lesdites périodes de façon à profiter des prestations d'assurance-emploi pour réduire la masse salariale du payeur. Le fait que l'appelant ait reçu ces dites prestations pendant qu'il exerçait un emploi a eu pour résultat de rendre cet emploi non assurable au sens de l'alinéa 5(1)a) de la LAE. En outre, le ministre fait valoir que l'existence entre l'appelant et le payeur d'un lien de dépendance pendant les périodes visées en l'espèce avait pour effet d'exclure l'emploi de l'appelant en application des alinéas 5(2)i) et 5(3)a) de la LAE.
+[2] La raison sociale du payeur a été enregistrée le 1er avril 1998 et l'appelant a été embauché le 4 mai 1998 à titre de vendeur, acheteur, commis comptable et employé principal du magasin.
+[3] L'appelant a travaillé occasionnellement pour le compte du payeur jusqu'au 10 août 2002. Il a été rémunéré par le payeur pour sa prestation de travail pendant les périodes suivantes :
+du 4 mai au 27 novembre 1998
+40 h par semaine à 12 $ l'h.
+du 24 mai au 10 septembre 1999
+40 h par semaine à 12 $ l'h.
+du 19 juin au 7 octobre 2000
+44 h par semaine à 13 $ l'h.
+du 2 avril au 14 juillet 2001
+44 h par semaine à 14 $ l'h.
+du 29 avril au 10 août 2002
+43 h par semaine à 14 $ l'h.
+[4] À la fin de chacune de ces périodes rémunérées l'appelant a été, selon le relevé d'emploi, mis en disponibilité en raison d'un manque de travail. À la fin de toutes ces périodes, l'appelant a demandé et obtenu des prestations d'assurance-emploi. À l'épuisement de ses prestations, l'appelant a été réembauché par le payeur pour une nouvelle période, ce qui lui a permis d'être de nouveau admissible aux prestations.
+[5] L'entreprise du payeur comportait l'exploitation à longueur d'année d'un magasin de quincaillerie et de matériaux de construction dont l'achalandage était à son plus fort pendant le printemps et l'été. L'appelant connaissait bien ce type d'entreprise, puisqu'il en avait lui-même exploité une avant de travailler pour le payeur à titre d'employé. En fait, le payeur a reconnu que les compétences de l'appelant avaient constitué un atout pour son entreprise, notamment à l'égard de la paperasserie connexe à l'exploitation d'une entreprise. De plus, le payeur occupait un autre emploi à plein temps pendant toutes les périodes visées en l'espèce, gérant les trente unités locatives dont il était propriétaire et assurant le déneigement de toutes ses propriétés et celles des membres de sa famille.
+[6] Dans le cadre de ses fonctions, l'appelant était le fondé de signature du compte bancaire du payeur. L'appelant effectuait, sinon la totalité, du moins la presque totalité des dépôts bancaires; il rédigeait les reçus et les factures, s'occupait de la tenue des livres et détenait les clés qui lui permettaient d'ouvrir et de fermer le magasin en tout temps. Il agissait également à titre de vendeur. La question en litige consiste à décider si l'appelant a continué à effectuer toutes ces tâches pour le compte du payeur pendant qu'il recevait des prestations d'assurance-emploi.
+[7] L'appelant a reconnu avoir travaillé pour le compte du payeur alors qu'il percevait des prestations d'assurance-emploi, mais il a tenu à préciser qu'il avait travaillé un nombre réduit d'heures et n'avait pas été rémunéré. Il a qualifié sa prestation comme travail bénévole visant à prêter main forte à son ami le payeur. Il a travaillé, pendant toutes les périodes visées en l'espèce, un certain nombre d'heures chaque semaine, mais certainement au moins trente heures par semaine en 2002. Alors qu'il percevait des prestations d'assurance-emploi, l'appelant a signé des chèques, rédigé des bordereaux de dépôt, effectué la tenue des livres, rédigé des reçus et des factures et, à l'occasion, ouvert et fermé le magasin. Un nombre impressionnant de documents a été réuni, et notamment correspondance, chèques, factures, reçus, registres, attestations de prix et bons de commande, tous datant de la période pendant laquelle l'appelant n'était pas rémunéré. Ces documents font partie du dossier et certains ne sont, comme ils sont trop nombreux à reproduire, que des échantillons. Il appert donc hors de tout doute que l'appelant travaillait et était présent dans le magasin du payeur alors qu'il percevait des prestations d'assurance-emploi.
+[8] L'enquêteuse de Développement des ressources humaines Canada a témoigné qu'après la demande de l'appelant de recevoir des prestations d'assurance-emploi après sa mise en disponibilité le 10 août 2002, elle s'est rendue au magasin et a été accueillie par l'appelant. Ce dernier lui a alors indiqué que le payeur ne travaillait pas au magasin et lui a précisé comment le joindre. Plus tard, elle a appelé le payeur pour se faire dire par l'épouse de ce dernier qu'il ne travaillait pas au magasin. La preuve a établi que le seul autre employé du payeur, son fils, avait assuré certaines livraisons et effectué certains travaux de menuiserie mais ne travaillait pas au magasin. Les déclarations obtenues par l'enquêteuse de la part du payeur et de l'appelant confirment la présence de l'appelant au magasin presque toute, sinon toute l'année. Le payeur a indiqué ce qui suit : « [...] Le plus fort du temps, c'est aussi lui qui est au magasin toute l'année. » Il a plus tard déclaré ce qui suit : « Le fait de ne pas payer Ronald me permettais (sic) de rester ouvert l'hiver. » Pour sa part, l'appelant a déclaré ce qui suit :
+[TRADUCTION]
+[...]
+Entre mon RE, le temps travaillé au magasin l'a été bénévolement, sans aucune rémunération. Je pouvais accéder aux lieux en toute liberté. Je prêtais main forte à mon ami.
+Comme je ne recevais aucune rémunération en contrepartie, je n'ai pas cru nécessaire de déclarer cette activité.
+Je tiens pour acquis que j'étais libre de faire ce que je voulais de mon temps.
+[...]
+[9] Le fils du payeur a également confirmé à l'enquêteur que l'appelant était toujours au magasin. Il aurait ajouté que le travail bénévole de l'appelant pour la filiale locale de la Légion était réalisé, non pas au magasin, mais dans les bureaux de la Légion même, étant donné que l'appelant quittait le magasin plus tôt pendant l'hiver. L'appelant avait invoqué ce motif pour justifier sa présence au magasin pendant l'hiver.
+[10] Le fardeau de la preuve incombe à l'appelant de démontrer, selon la prépondérance des probabilités, que la décision du ministre est erronée et non fondée. En l'appel, le ministre soutient d'abord la présomption que le contrat de travail conclu entre l'appelant et le payeur est sous effet selon la LAE. Notre Cour a examiné cette question dans certaines de ses décisions. Le juge Tardif a été le premier à examiner la question dans l'arrêt Thibeault c. Canada, [1998] A.C.I. no 690 (Q.L.), qui a été ultérieurement confirmé par la Cour d'appel fédérale, à [2000] A.C.F. no 2152. Le juge Tardif a affirmé ce qui suit :
+22 Un véritable emploi est un emploi rémunéré selon les conditions du marché et qui contribue de façon réelle et positive à l'avancement et au développement de l'entreprise qui assume le salaire payé en contrepartie du travail exécuté. Il s'agit là d'éléments essentiellement économiques laissant peu ou pas de place à la générosité, à la compassion.
+[...]
+29 Certes, il n'est ni illégal, ni répréhensible d'organiser ses affaires pour profiter de la mesure sociale qu'est le régime de l'assurance-chômage, à la condition expresse que rien ne soit maquillé, déguisé ou organisé et que la venue des bénéfices surviennent à la suite d'événements sur lesquels le bénéficiaire n'a pas le contrôle. Lorsque l'importance du salaire ne correspond pas à la valeur économique des services rendus, lorsque les débuts et les fins des périodes s'avèrent coïncider avec la fin de la période de paiement et la durée de la période de travail coïncidant à son tour, avec le nombre de semaines requises pour se qualifier à nouveau, cela a pour effet de soulever des doutes très sérieux sur la vraisemblance du contrat de travail. Lorsque les hasards sont nombreux et exagérés, cela risque de créer une présomption à l'effet que les parties ont convenu d'un arrangement artificiel pour permettre aux parties de profiter des bénéfices.
+[11] Dans l'arrêt Laverdière c. Canada, [1999] A.C.I. no 124 (Q.L.), le juge Tardif a déclaré ce qui suit :
+48 Certes, un contrat de travail peut prévoir, tout en étant légal et légitime, toutes sortes d'autres conditions dont une rémunération beaucoup supérieure à la valeur du travail exécuté ou inversement; certains contrats peuvent même être à titre gratuit. Une prestation de travail peut être exécutée dans le cadre d'une opération de bénévolat. Il est possible d'imaginer toutes sortes d'hypothèses et de scénarios.
+49 Tout contrat de travail prévoyant des particularités est généralement opposable aux seules parties contractantes et ne lie en rien les tiers, dont l'intimé.
+50 Il en est ainsi au niveau de toute entente ou arrangement dont le but et objectif est d'étaler ou cumuler la rémunération due ou être due de manière à tirer avantage des dispositions de la Loi. Toute planification ou entente qui maquille ou altère les faits relatifs à la rétribution, dans le but de maximiser les bénéfices de la Loi, disqualifie le contrat de louage de services.
+51 La Loi n'assure que les véritables contrats de louage de services; un contrat de travail dont la rétribution n'est pas fonction de la période d'exécution du travail ne peut être définie comme un véritable contrat de louage de services. Il s'agit d'une entente ou d'un arrangement qui discrédite la qualité d'un véritable contrat de louage à ce qu'il associe des éléments étrangers à la réalité contractuelle exigée par la Loi.
+[12] Dans l'arrêt Duplin c. Canada, [2001] A.C.I. no 136 (Q.L.), il a fait remarquer ce qui suit :
+18 Lorsque des services et/ou des commissions sont rendus à l'employeur, je ne crois pas que cela vicie automatiquement la qualité d'un contrat de louage de services, si cela est fait de façon ponctuelle ou lors de circonstances particulières. Par contre, si cela est répétitif, fréquent et généralisé chez la majorité des employés d'un employeur, il y a matière à interrogation; même si celui qui rend de tels services et/ou exécute de telles commissions, qualifie sa prestation de libre et volontaire, de bénévolat d'entraide, de support ou de sa solidarité à l'endroit de ses compagnons de travail, il n'en demeure pas moins qu'il s'agit là de faits, modalités, circonstances difficilement conciliables avec un réel contrat de louage de services où tout travail doit être rémunéré.
+[...]
+31 Les composantes fondamentales d'un contrat de louage de services sont d'ordre essentiellement économique. Les registres établis, tels livres de salaires, modalités de paye, etc. doivent être réels et correspondre également à la réalité. À titre d'exemple, le livre de salaires doit consigner les heures travaillées correspondant à la paye émise. Un livre des salaires qui consigne des heures non travaillées ou ne consigne pas des heures travaillées pour la période indiquée est une indication sérieuse qu'il y a eu falsification. Il en est ainsi d'une paye qui ne correspond pas aux heures travaillées. Dans un cas comme dans l'autre, cela crée une très forte présomption que les parties ont convenu d'un scénario faux et mensonger dans le but d'en tirer divers avantages dont notamment sur le plan fiscal et assurance-emploi.
+32 Il est possible qu'un arrangement soit plus profitable à l'une des parties qu'à l'autre, mais il s'agit là d'un effet secondaire et non pertinent à la qualification au contrat de louage de services, puisque dès qu'un contrat de travail est façonné par des données fausses, inexactes ou mensongères, il ne répond plus aux conditions essentielles pour être qualifié de contrat de louage de services; ainsi lorsque la preuve est à l'effet que les registres consignant les données essentielles à l'existence d'un véritable contrat de travail sont mensongères et incomplètes, il devient alors essentiel de faire la preuve d'une façon déterminante que les faits réels soutiennent l'existence d'un véritable contrat de louage de services.
+[13] Dans le présent appel, les relevés d'emploi signés par le payeur indiquent pour toutes les périodes que les mises en disponibilité étaient motivées par un manque de travail. Or il a clairement été établi que tel n'était pas le cas. La prépondérance de la preuve ne permet de tirer de conclusion autre que celle selon laquelle l'appelant n'a jamais cessé d'effectuer des tâches essentielles pour le compte du payeur, même après ses mises en disponibilités. L'appelant peut choisir de qualifier le temps qu'il a consacré sur les lieux d'affaires du payeur de travail bénévole, en dernière analyse, il s'agissait de tâches essentielles. Dans une situation commerciale normale, ce travail doit également être rémunéré. Comme le payeur avait toujours besoin de faire faire le travail, les relevés d'emploi ne reflètent pas la réalité. Comme les activités de l'entreprise du payeur s'échelonnent sur toute l'année, le payeur devait, même si les affaires tournaient au ralenti pendant l'hiver, avoir quelqu'un au magasin, l'appelant ou quelqu'un d'autre, pour exploiter le magasin, s'occuper de la paperasserie et d'affaires dont le payeur n'était pas tout à fait familier. De plus, les dates des mises en disponibilité ne correspondent pas aux périodes de fort achalandage. La date de l'une des mises en disponibilité est aussi tôt que le 10 août 2002.
+[14] L'appelant a certes tiré profit de sa présence au commerce du payeur afin d'effectuer ces tâches essentielles à titre gracieux pour le payeur. L'appelant était en mesure de faire don de son temps afin d'aider son ami parce qu'il ne subissait aucune perte économique puisqu'il recevait des prestations d'assurance-emploi. La coïncidence entre les dates de rappel au travail ou de mises en disponibilité de l'appelant, d'une part, et les périodes pendant lesquelles il était droit de recevoir de pleines prestations d'assurance-emploi ou les semaines d'emploi nécessaires pour avoir droit de recevoir ces prestations, d'autre part, a eu pour effet de mettre à la disposition du payeur un employé à longueur d'année, dépense qu'il n'a eu à payer que pendant une partie de celle-ci. Cette démarche a sans doute subventionné son entreprise, ce pourquoi le régime d'assurance-emploi n'a pas du tout été conçu. Le régime a été élaboré pour soutenir les travailleurs qui perdent leur emploi parce que, notamment, leur employeur n'a plus de travail pour eux. Il n'a pas été conçu pour pallier l'incapacité financière de l'entreprise d'un employeur.
+[15] Dans ce contexte, je conçois mal comment l'appelant et le payeur ont pu ne pas avoir eu connaissance du caractère avantageux de cette forme d'entente. Par ailleurs, ils auraient dû savoir qu'une telle entente n'était pas convenable ni acceptable. La mise en disponibilité en raison d'un manque de travail suivie d'un retour au travail immédiat, même pour un nombre d'heures réduit, afin d'effectuer les mêmes tâches dont il y avait supposément carence, tout en recevant des prestations d'assurance-emploi, aurait dû suffire à quiconque pour comprendre l'existence d'une contravention au but visé par la LAE. Nul ne peut se contenter de croire, à l'instar de l'appelant, qu'un travail non rémunéré ne constitue pas un travail. Le travail a profité au payeur, qui a en même temps évité cette dépense salariale. La preuve déposée par l'appelant n'a pu expliquer de façon raisonnable ces coïncidences. Le bénévolat occasionnel est acceptable dans certains contextes mais il ne l'est certes pas dans l'envergure démontrée dans le présent appel.
+[16] L'appelant paraît être un citoyen bien intentionné, et il est possible qu'il n'ait pas songé à toutes les répercussions d'une telle entente. Toutefois, on peut se demander pourquoi il n'était pas disposé à prêter main forte à son ami gratuitement à longueur d'année.
+[17] Je conclus donc que, pendant toutes les périodes en litige, le travail réalisé par l'appelant ne faisait pas l'objet d'un véritable contrat de louage de services selon la LAE. Compte tenu de cette conclusion, je n'aborderai pas l'autre prétention du ministre.
+[18] Les appels sont donc rejetés et la décision du ministre est confirmée.
+Signé à Edmundston (Nouveau-Brunswick), ce 22e jour de juin 2004.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 17 jour de novembre 2004.
+Daniel E. Renaud, traducteur

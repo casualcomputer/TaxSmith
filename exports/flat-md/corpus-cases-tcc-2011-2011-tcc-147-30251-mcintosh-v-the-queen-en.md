@@ -1,0 +1,172 @@
+---
+title: "McIntosh v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30251/index.do"
+last_modified: "2011-03-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 147"
+citation2: ""
+neutral_citation: "2011 TCC 147"
+decision_date: "2011-03-08"
+language: "en"
+item_id: "30251"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 8020
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:47:27.171000+00:00"
+cases_cited_count: 0
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7b3b9013da0ef96c7e058bc310154d6c410343e396c852745a3d08dfe91ab9dd"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# McIntosh v. The Queen
+
+- Citation: 2011 TCC 147
+- Decision date: 2011-03-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8020, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McIntosh v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-03-08
+Neutral citation
+2011 TCC 147
+File numbers
+2008-3962(IT)G
+Judges and Taxing Officers
+Steven K. D'Arcy
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-3962(IT)G
+BETWEEN:
+REESE McINTOSH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on June 9, 2010, at Calgary, Alberta
+Before: The Honourable Justice Steven K. D'Arcy
+Appearances:
+Counsel for the Appellant:
+Matthew Clark
+Counsel for the Respondent:
+Connie L. Mah
+____________________________________________________________________
+ORDER
+UPON motion by counsel for the Respondent for an Order dismissing the appeal based on the ground that the Tax Court of Canada does not have the jurisdiction pursuant to paragraph 58(3)(a) of the Tax Court of Canada Rules;
+In accordance with the attached Reasons for Order,
+THIS COURT orders that:
+1. the motion is granted and the appeal from the reassessment made under the Income Tax Act for the Appellant’s 2003 taxation year is dismissed with costs.
+2. costs with respect to the Appellant’s withdrawn motion are awarded to the Respondent.
+Signed at Ottawa, Canada, this 8th day of March 2011.
+“S. D’Arcy”
+D'Arcy J.
+Citation: 2011 TCC 147
+Date: 110308
+Docket: 2008-3962(IT)G
+BETWEEN:
+REESE McINTOSH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+D'Arcy J.
+[1] On March 17, 2010, the Respondent filed a motion pursuant to paragraph 58(3)(a) of the Tax Court of Canada Rules(General Procedure) (the "Respondent's Motion") for an order dismissing the appeal. It is the Respondent’s position that the Tax Court of Canada does not have jurisdiction over the subject matter of the appeal. The motion was originally scheduled to be heard on March 25, 2010. However, at the request of counsel for the Appellant, the Court adjourned the Respondent's motion to June 9, 2010.
+[2] On June 2, 2010, the Appellant filed a motion (the “Appellant's Motion”) for the following:
+1. An Order […] allowing the appeal of [the] assessment of tax based on the ground that the Tax Court of Canada has jurisdiction over the subject matter of this appeal pursuant to section 169 of the Income Tax Act 1985, c.1 (5th Supp.) (the “Act”);
+2. The Court to apply its equitable jurisdiction and to strike out the Respondent's Notice of Motion and Affidavit […] because it discloses no reasonable grounds for opposing the appeal pursuant to Rule 58(1)(b) of the Tax Court of Canada Rules (General Procedures) (SOR/90-688a) (the “Rules”);
+3. That in the alternative, the Appellant be allowed to present his full case with regard to the subject Notice of Reassessment and the availability of precise, proper and allowable deductions and credits before [this] Court; or such other direction[s] that is just, with costs to the Appellant;
+4. Leave of the Court to admit the following evidence under Rule 58(2)(a) for the purpose of this motion:
+a. The pleadings filed herein;
+b. The affidavit of REESE MCINTOSH sworn on June 1, 2010;
+c. Such further and other material[s] as [the] Court may allow.
+The Appellant's Motion
+[3] At the commencement of the hearing, counsel for the Appellant informed the Court that the Appellant was withdrawing the Appellant's Motion.
+[4] The hearing of the Respondent's Motion was delayed for three months to accommodate the Appellant's counsel. Further, the Appellant first became aware of the new hearing date for the motion on March 22, 2010, nearly two and a half months before the motion was scheduled to be heard. Notwithstanding these facts, the Appellant did not file his Motion until six days before the Motion date and then, after the Respondent filed its reply, chose to withdraw the motion. As a result of these facts, I have decided to award costs to the Respondent with respect to the Appellant's Motion.
+The Respondent's Motion
+Background
+[5] The Appellant has filed a Notice of Appeal in which he argues that the Minister of National Revenue (the “Minister”), when reassessing the Appellant, understated his employment income and the amount withheld by his employer in respect of income taxes.
+[6] Both parties acknowledged that the Minister, when reassessing the Appellant, used the amounts reported on a T4 slip (the “T4”) issued by the Appellant's former employer, Crystal Ridge Fuels Ltd. (the "Corporation") to determine the Appellant's employment income.
+[7] The Appellant raised two issues in his Notice of Appeal. First, he argued that he received more employment income from the Corporation in 2003 than the amount reported on his T4. Secondly, he argued that the amounts actually withheld by the Corporation for income taxes exceeded the amount reported on his T4. The Appellant did not, in his Notice of Appeal, challenge the amounts reported on his T4 in respect of Canada Pension Plan or Unemployment Insurance withholdings.
+[8] It is the Respondent's position that the two issues raised in the appeal are beyond the jurisdiction of this Court.
+First Issue
+[9] I will first consider whether this Court has jurisdiction to consider the issue of whether the Appellant's employment income exceeded the amount reported on the T4 issued by the Company.
+[10] The Respondent argued that “[t]he relief sought by the Appellant is effectually to increase the Minister’s reassessment of the Appellant’s taxable income and federal income taxes owing.” The Respondent's counsel argued that this is beyond this Court's jurisdiction as it is established case law that such relief is tantamount to the Minister appealing his own reassessment.
+[11] The Appellant's counsel argued that this Court has the jurisdiction to hear all appeals from assessments under the Income Tax Act.
+[12] I agree with counsel for the Respondent. The law is clear on this point; this Court has no jurisdiction to entertain an appeal that seeks a decision that would result in a higher tax liability for the taxpayer. As Lamarre Proulx J. noted in Millette v. Her Majesty the Queen [1999] 4 C.T.C. 2621 at para 72:
+It is accepted in the case law that this Court cannot increase the amount of the Minister’s assessment because that would be tantamount to the Minister appealing the assessment, which he cannot do. The Minister cannot appeal his own assessment: Harris v. M.N.R., 64 DTC 5332, at p. 5337; Shiewitz v. M.N.R., 79 DTC 340, at p. 342; and Abed v. The Queen, 82 DTC 6099, at p. 6103.
+Second Issue
+[13] I will now consider the second issue raised by the Respondent: whether this Court has the power to determine the balance owing by a taxpayer insofar as it relates to the calculation of amounts withheld by the taxpayer's employer in respect of income taxes.
+[14] The Respondent made the following two arguments at paragraphs (f) and (i) respectively of its Motion:
+f) Subsection 152(1) of the [Income Tax] Act defines assessment as calculating “tax payable”, and does not provide for calculating tax owing after source deductions; and therefore the Court does not have jurisdiction to credit the Appellant for the alleged greater amount of source deductions…;
+…
+i) …[T]he Appellant is not appealing an assessment of income tax payable, but instead is effectually seeking to reduce his tax owing in relation to amounts he claims have already been withheld at source (but unremitted) by the Corporation; however, this is in the nature of collections, and not regarding assessments, and collections is not a subject matter for which the Tax Court has jurisdiction[.]
+[15] The Appellant argued the following in its written submissions:
+14. The ultimate question before the Court is whether the Minister's assessment of tax is correct. One of the constituent elements of the assessment is the amount of credits to which the taxpayer is entitled. The Appellant has appealed the assessment of tax to this Court on the basis that the Minister has not properly taken into account the deductions and credits to which he was entitled. The Court is entitled to make a determination on this point so as to determine whether the Minister's assessment of tax is correct…
+Analysis
+[16] Pursuant to section 12 of the Tax Court of Canada Act, this Court has exclusive original jurisdiction to hear and determine references and appeals to the Court on matters arising under the Income Tax Act (the "Act") (plus other specified Acts).
+[17] Subsection 169(1) of the Act provides that where a taxpayer has served a notice of objection to an assessment under section 165 of the Act, the taxpayer may appeal to this Court to have the assessment vacated or varied.
+[18] Subsection 171(1) of the Act states that the Tax Court of Canada may dispose of the appeal by dismissing it, or allowing it and
+i. vacating the assessment
+ii. varying the assessment
+iii. referring the assessment back to the Minister for reconsideration and reassessment.
+[19] It is clear from these provisions that the jurisdiction of this Court is limited to appeals from an assessment. It is only appeals from an assessment that arise under the Act (see the comments of Rip J. (as he then was) in McMillen Holdings Limited v. The Minister of National Revenue, 87 DTC 585, at pages 591-592).
+[20] Under subsection 152(1) of the Act, the Minister is required to assess the tax payable for the year under the Act. I agree with counsel for the Respondent that subsection 152(1) of the Act does not provide for calculating “tax owing” after source deductions and therefore this Court does not have jurisdiction to credit the Appellant for the alleged greater amount of income tax source deductions.
+[21] My conclusion is consistent with the decision of this Court in Liu v. Her Majesty the Queen, [1995] 2 C.T.C. 2971 [Liu] and the decision of the Federal Court of Appeal in Neuhaus v. R. [2003] 2 C.T.C. 177 (FCA) [Neuhaus].
+[22] In Liu above, the Appellant appealed to this Court on the basis that the T4A slip issued to him in respect of commissions he had earned as an independent contractor did not include the income tax withheld by the payor. When dismissing the appeal, Bowman J. (as he then was) stated the following at paragraph 14:
+Even if I had concluded differently it would not have been within the power of this court to declare that in determining the balance owing to the Government of Canada by Mr. Liu there should be taken into account the amount withheld from his commissions but not remitted. This court's jurisdiction, insofar as it is relevant to this case, is to hear and determine references and appeals on matters arising under the Income Tax Act. Essentially, in an appeal under the Income Tax Act the question is the correctness of an assessment or determination of loss…
+[23] Similarly, the Federal Court of Appeal stated the following at paragraph 4 of its decision in Neuhaus above:
+In this case, the applicant is not seeking to have the disputed assessments vacated or varied. Rather, she is claiming that the taxes as assessed by the Minister have already been paid by way of a deduction at source (see subsection 227(9.4), which inter alia makes the employer liable for the taxes owing by an employee up to and including the amounts deducted from the salary and not remitted). In these circumstances, the judge below rightly held that she did not have jurisdiction and it was therefore wrong for her to consider the dispute on its merits.
+[24] Counsel for the Appellant relied on decisions of this Court in Ashby v. Her Majesty the Queen, [1996] 1 C.T.C. 2464 [Ashby], Manke v. Her Majesty the Queen, [1999] 1 C.T.C. 2186 [Manke] and Ramsay v. Her Majesty the Queen, [2000] 4 C.T.C. 2397 [Ramsay] to support his argument that the Court does have jurisdiction to grant relief for source deductions withheld by an Appellant's employer.
+[25] I agree with the decision in Ashby above, that this Court has jurisdiction to hear an appeal with respect to amounts withheld under the Employment Insurance Act and the Canada Pension Plan. As a result of section 118.7 of the Act, the deduction of such amounts is a constituent element of the assessment.
+[26] However, the Appellant has not challenged the amounts withheld under the Employment Insurance Act and the Canada Pension Plan. The Appellant is only disputing the amount withheld in respect of income taxes. I do not accept that withholdings in respect of income tax are a constituent element of an assessment under the Act.
+[27] I agree with the following comments made by Hamlyn J. in Valdis v. Her Majesty the Queen, [2001] 1 C.T.C. 2827 at paragraph 17 with respect to the decisions in Ashby, Manke and Ramsay:
+With respect, while section 118.7 of the Act specifically makes provision for the calculation of credits pertaining to EI and CPP amounts which reduce a taxpayer's exigible tax, income tax deducted at source by an employer does not reduce exigible tax under the Act. In my view, under subsection 152(1), an “assessment” is stipulated by Parliament to “assess the tax for the year ... if any, payable” and not to assess the tax for the year owing by a taxpayer after source deductions withheld by an employer are subtracted from exigible tax as assessed for the year. I conclude it cannot be said that income tax withheld by an employer is a constituent element of an assessment that can be appealed under section 169. However, I do agree with the decision in Ashby, that to the extent that there has been an amount withheld for EI or CPP under section 118.7, such amounts are integral to an assessment, therefore this Court has jurisdiction to consider these credits in an appeal.
+[28] For the foregoing reasons, the Respondent's Motion to dismiss the Appellant's appeal with respect to his 2003 taxation year on the grounds that this Court does not have jurisdiction over the subject matter of the appeal is granted with costs.
+Signed at Ottawa, Canada, this 8th day of March 2011.
+“S. D’Arcy”
+D'Arcy J.
+CITATION: 2011 TCC 147
+COURT FILE NO.: 2008-3962(IT)G
+STYLE OF CAUSE: REESE McINTOSH and HER MAJESTY THE QUEEN
+PLACE OF HEARING: Calgary, Alberta
+DATE OF HEARING: June 9, 2010
+REASONS FOR ORDER BY: The Honourable Justice Steven K. D'Arcy
+DATE OF ORDER: March 8, 2011
+APPEARANCES:
+Counsel for the Appellant:
+Matthew Clark
+Counsel for the Respondent:
+Connie L. Mah
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Matthew Clark
+Firm: Shea Nerland Calnan LLP
+Calgary, Alberta
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

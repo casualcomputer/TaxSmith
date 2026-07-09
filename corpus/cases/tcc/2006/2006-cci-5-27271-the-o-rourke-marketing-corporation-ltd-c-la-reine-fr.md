@@ -1,0 +1,185 @@
+---
+title: "The O'Rourke Marketing Corporation Ltd. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27271/index.do"
+last_modified: "2006-03-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 5"
+citation2: ""
+neutral_citation: "2006 CCI 5"
+decision_date: "2006-03-23"
+language: "fr"
+item_id: "27271"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 845
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:46:51.089000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7054200c84da4896ee32a6829433c47ecf47d512855cbd2addc58aeac61dcd21"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# The O'Rourke Marketing Corporation Ltd. c. La Reine
+
+- Citation: 2006 CCI 5
+- Decision date: 2006-03-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 845, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+The O'Rourke Marketing Corporation Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-03-23
+Référence neutre
+2006 CCI 5
+Numéro de dossier
+2003-1498(IT)G
+Juges et Officiers taxateurs
+Michael J. Bonner
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-1498(IT)G ENTRE :
+LA O'ROURKE MARKETING CORPORATION LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 1er décembre 2005 à Toronto (Ontario)
+Devant : L'honorable juge Michael J. Bonner
+Comparutions :
+Avocat de l'appelante :
+Me Michael Gasch
+Avocat de l'intimée :
+Me Brent E. Cuddy
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés contre les cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1998 et 1999 sont rejetés.
+L'appel interjeté contre la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2000 est accueilli, et la cotisation est renvoyée au ministre du Revenu national pour qu'il en établisse une nouvelle, conformément aux motifs du jugement.
+L'intimée a droit à 75 % des dépens relatifs à l'instance.
+Signé à Toronto (Ontario), ce 23e jour de mars 2006.
+« Michael J. Bonner »
+Juge Bonner
+Traduction certifiée conforme
+ce 23e jour d'août 2006.
+Mario Lagacé, jurilinguiste
+Référence : 2006CCI5
+Date : 20060323
+Dossier : 2003-1498(IT)G
+ENTRE :
+LA O'ROURKE MARKETING CORPORATION LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bonner
+[1] L'appelante interjette appel contre les cotisations d'impôt sur le revenu établies pour ses années d'imposition 1998, 1999 et 2000. Pour les années 1998 et 1999, la question en litige est de savoir si les dépenses engagées par l'appelante pour rénover et agrandir un immeuble se trouvant sur un bien-fonds situé au 4296 6th Line, Bradford (Ontario) (le « bien-fonds de Bradford » ) étaient des dépenses en capital. Le ministre du Revenu national (le « ministre » ) a établi les cotisations en tenant pour acquis que les dépenses étaient toutes des dépenses en capital. L'appelante a fait valoir que certaines dépenses étaient attribuables au revenu.
+[2] Pour l'année d'imposition 2000, la question en litige porte sur la répartition, entre les comptes de revenu et de capital, des travaux de réfection du câblage électrique et des nouveaux tapis dans un autre immeuble situé sur un terrain appelé le « bien-fonds Campground » , que l'appelante occupait en vertu d'un bail. Encore une fois, le ministre a établi la cotisation en tenant pour acquis que toutes les dépenses étaient des dépenses en capital. L'appelante a fait valoir que toutes les dépenses étaient attribuables au revenu.
+[3] L'appelante, une société ontarienne, exploite une entreprise de vente dans l'industrie de produits et de procédés servant au levage, au montage et à l'arrimage de charges.
+[4] Je vais d'abord me pencher sur la question du bien-fonds de Bradford. Vers la fin de 1997, l'appelante a acheté le bien-fonds auprès de son actionnaire, Gary O'Rourke, et de la femme de celui-ci. Il y avait sur le bien-fonds un immeuble à usage mixte, soit à usage résidentiel et à usage commercial. L'appelante avait l'intention de rénover l'immeuble puis d'en utiliser une partie comme nouveau siège social.
+[5] Avant que l'appelante n'achète le bien-fonds de Bradford, celui-ci servait de résidence à M. O'Rourke et à sa femme. Le bien-fonds a été vendu à l'appelante, M. O'Rourke et sa femme devant continuer de vivre dans la partie résidentielle de l'immeuble en vertu d'un bail signé avec l'appelante.
+[6] Lorsque l'appelante a acheté le bien-fonds de Bradford, la partie commerciale était composée de locaux à bureaux, qui étaient situés en dessous d'un garage pour deux voitures attenant à la résidence. Les locaux étaient divisés en trois bureaux et avaient une entrée distincte de celle de la résidence. Ils avaient déjà été occupés par trois médecins qui y exerçaient leur profession. Toutefois, en raison de leur état à l'époque, il était considéré que les bureaux n'étaient pas tout à fait convenables pour l'appelante. L'immeuble avait de gros problèmes qu'il fallait d'abord régler, et il fallait aussi que des améliorations y soient apportées.
+[7] Le toit du garage était plat, ce qui permettait à l'eau de pluie de s'y accumuler. L'eau avait pénétré dans le garage, puis dans les bureaux situés en dessous. La fuite d'eau avait fait pourrir le bois dans le toit et les murs, et endommagé les cloisons sèches.
+[8] Le plancher du garage était en train de se désagréger à cause de l'eau et du sel qui s'écoulaient des véhicules stationnés dans le garage. L'armature, les poutres d'acier en I et les poteaux étaient corrodés. À la longue, le plancher du garage se serait affaissé dans les bureaux en dessous.
+[9] Immédiatement derrière les bureaux se trouvait une grande piscine extérieure. La piscine était fissurée. L'eau qui s'en écoulait avait exercé une pression sur un mur de retenue adjacent à la piscine, ce qui l'avait fait bomber. Des tentatives pour réparer la fissure et obturer la fuite avaient échoué.
+[10]Le puits s'était partiellement envasé au fil du temps, ce qui avait réduit sa capacité à un point tel qu'une source supplémentaire d'approvisionnement en eau était requise pour bien alimenter la résidence et le futur personnel du bureau.
+[11]Dans son témoignage, M. O'Rourke a attribué les problèmes aux ravages du temps, aux rigueurs du climat dans la région et à de mauvaises pratiques de construction.
+[12]D'importants travaux ont été effectués pour régler les problèmes et pour créer des locaux à bureaux répondant aux besoins de l'appelante. Pendant les travaux, des représentants municipaux ont découvert que la fosse septique existante était inadéquate. Ils ont exigé qu'elle soit retirée et qu'une nouvelle fosse septique et un nouveau champ d'épuration soient construits à un endroit différent sur le bien-fonds.
+[13]Les travaux consistaient notamment à transformer le garage existant en locaux à bureaux. Les portes de garage ont été remplacées par des fenêtres, et l'intérieur a été bien isolé et bien aménagé. Les anciens locaux à bureaux situés en dessous du garage ont été convertis en pièce d'entreposage. Le niveau du sol à l'extérieur des anciens bureaux a été changé. Par conséquent, il a fallu boucher les trous dans les murs où se trouvaient auparavant les fenêtres et les portes des anciens bureaux.
+[14]Le toit plat de l'ancien garage a été enlevé. Le revêtement, les fermes et les éléments de charpente pourris et moisis ont également été retirés. Un étage comportant une chambre à coucher a été ajouté au-dessus de l'ancien garage et du passage entre la résidence et l'ancien garage. Le nouvel étage a été recouvert d'un nouveau toit incliné permettant à l'eau de pluie de s'écouler. Un tout nouveau garage, beaucoup plus grand que l'ancien, a été construit à côté de celui-ci.
+[15]De nouvelles toilettes réservées au personnel ont été installées, et le système de chauffage, de ventilation et de conditionnement d'air a été modifié et augmenté pour répondre aux besoins des nouveaux locaux à bureaux et, je présume, de la nouvelle chambre à coucher et des autres locaux créés à l'étage supérieur.
+[16]Les travaux effectués sur le bien-fonds de Bradford ont été coûteux, mais, selon M. O'Rourke, ils n'ont pas augmenté la valeur du bien-fonds. Je n'en suis pas convaincu. M. O'Rourke n'était pas un spécialiste de l'évaluation de biens immobiliers.
+[17]L'appelant a capitalisé une partie des coûts des travaux effectués sur le bien-fonds de Bradford et a traité le reste comme des coûts de réparation et d'entretien qui étaient à ce moment déductibles. Presque tous les travaux qui ont eu lieu sur le bien-fonds de Bradford ont été effectués par un entrepreneur. Lorsqu'il a facturé les travaux à l'appelante, l'entrepreneur n'a pas séparé les coûts liés à la partie des travaux que l'appelante a qualifiés de travaux de réparation et d'entretien, et les coûts liés aux travaux que l'appelante a accepté d'attribuer au capital. Il fallait donc répartir les coûts facturés entre les deux catégories. Des éléments de preuve à cet égard ont été fournis par Gary O'Rourke et par Paul Franklin.
+[18]Des éléments de preuve concernant la répartition ont été fournis par Paul Franklin, un comptable qui agissait au nom de l'appelante, et par M. O'Rourke. Ces éléments n'étaient pas convaincants. M. Franklin a utilisé un manuel des coûts de construction normalisés, a appliqué ces coûts à la superficie de la surface utile nouvellement construite, a ajouté 25 % au chiffre ainsi obtenu, et a conclu que le total ainsi calculé était attribuable au capital. Le total des coûts facturés moins le coût en capital ainsi calculé correspondait, à son avis, au coût actuel des réparations.
+[19]Je rejette l'hypothèse sur laquelle M. Franklin a fondé sa répartition. L'idée que le coût de réparation corresponde au coût total moins les coûts de la nouvelle construction fondés sur un quelconque manuel n'est pas logique, à mon avis. De plus, le témoignage qu'il a donné constituait essentiellement une opinion. Il n'a pas été démontré que M. Franklin avait les compétences requises pour exprimer une telle opinion.
+[20]L'approche de M. O'Rourke à l'égard du problème de répartition était plus directe. Il a essayé de déterminer les montants précis des coûts liés aux parties des travaux que l'appelante a classées dans la catégorie des dépenses de nature courante, à savoir :
+a) Les travaux considérés comme des travaux d' « entretien courant » , tels que les suivants :
+[TRADUCTION]
+• le remplacement de bardeaux usés, de corniches, de la soffite et du bardage;
+• le remplacement de plusieurs vieilles portes et fenêtres;
+• l'installation d'un nouveau câblage électrique et d'une nouvelle plomberie, au besoin;
+• les travaux de peinture pour les murs;
+• le déplacement d'un champ d'épuration.
+b) La réparation de ce qui était considéré comme la structure d'une petite partie de l'immeuble, y compris ce qui suit :
+[TRADUCTION]
+• la réparation d'un problème de fuite continue dans une partie du toit existant et dans les locaux à bureaux situés au sous-sol;
+• la réparation d'un mur et d'un plancher très endommagés par l'eau.
+c) Autres dépenses qui ne sont pas liées aux travaux effectués dans l'immeuble, telles que les suivantes :
+[TRADUCTION]
+• la destruction et l'enlèvement d'une piscine qui était l'une des sources du problème de fuite d'eau;
+• l'abattage et le déplacement d'arbres mûrs;
+• l'aménagement paysager et la restauration[1].
+Les calculs de M. O'Rourke faisaient grandement appel au jugement ou à l'estimation. Je ne mets pas en cause sa bonne foi, mais je ne peux pas dire que je suis convaincu qu'il ait obtenu un résultat dont l'exactitude peut se démontrer. Il en est ainsi parce que, en fait, il a essayé d'obtenir le coût de réparations qui auraient pu être effectuées mais qui, en réalité, ont été évitées.
+[21]Un résumé utile du droit concernant la distinction à faire entre les frais de réparation et d'entretien attribuables au revenu et les dépenses en capital se trouve dans l'ouvrage de M. Krishna, The Fundamentals of Canadian Income Tax, 8e édition, page 321. Le savant auteur a écrit ce qui suit :
+[TRADUCTION]
+Il est également difficile d'établir une distinction entre les dépenses en capital et les dépenses courantes liées à des travaux d'entretien et de réparation de nature courante. Là encore, le principe sous-jacent est facile à exposer, mais il est difficile à appliquer. Une dépense engagée au cours d'un exercice dans le but de rehausser, d'améliorer considérablement ou d'agrandir un bien ou d'en prolonger la vie au-delà de l'exercice courant est une dépense en capital. Par contre, une dépense engagée simplement dans le but d'entretenir un bien ou de le ramener à son état initial est une dépense courante déductible.
+Ici comme ailleurs dans le droit fiscal, il est facile de trouver la bonne réponse dans des cas extrêmes lorsque l'on n'a pas vraiment besoin d'une réponse. Ce sont les situations floues entre ces cas extrêmes qui entraînent les problèmes et les litiges. Par exemple, il est clair que le fait d'agrandir un immeuble existant en ajoutant une nouvelle surface utile représente une dépense en capital; la dépense crée un bien de valeur durable. Il est également clair que les travaux d'entretien courant d'un immeuble existant, par exemple l'exécution de petites réparations, le remplacement d'ampoules électriques, le nettoyage ainsi que l'entretien des systèmes de chauffage et de ventilation, représentent des dépenses courantes.
+Toutefois, il existe entre ces deux extrêmes des cas qui posent de grandes difficultés. Il faut distinguer chaque dépense en fonction des activités du contribuable. Par exemple, un contribuable qui dépense de l'argent pour restaurer un immeuble délabré se trouve à engager des dépenses en capital, même si des travaux d'entretien courant déductibles par le propriétaire précédent auraient permis d'éviter que l'immeuble ne se détériore au point de devenir délabré. De façon semblable, une entreprise qui dépense régulièrement des fonds pour les vidanges d'huile de ses voitures se trouve à engager des dépenses courantes. Le fait de ne pas faire les vidanges d'huile de ses voitures pourrait, à la longue, entraîner des coûts importants pour le remplacement de moteurs et donner lieu à des dépenses en capital.
+[22]Ce résumé trouve un appui dans l'arrêt Shabro Investments Limited v. The Queen, 79 DTC 5104, où le juge en chef Jackett dit ce qui suit à la page 5106 :
+À ma connaissance, il n'y a pas de critère unique pour distinguer entre :
+a) les « réparations » , dont le coût est considéré comme dépense d'exploitation faite dans l'année d'imposition au cours de laquelle ces réparations ont été effectuées, et
+b) les additions ou améliorations dont le coût est considéré comme dépense de capital.
+De façon générale, les réparations consistent à remplacer des parties usées ou endommagées, même si celles-ci sont importantes, par opposition au fait d'apporter des additions ou des améliorations à la structure du bâtiment [...]. Normalement, la distinction est facile à faire [...].
+[23]Dans une note en bas de page, le juge en chef Jackett a ajouté ce qui suit :
+Sans pouvoir citer aucune jurisprudence sur la question, je suis porté à croire qu'il faut mettre une dépense soit dans la catégorie des dépenses de capital, soit dans celle des dépenses de revenu. Ainsi, lorsqu'on décide de faire des améliorations rendant inutiles des réparations autrement nécessaires, on ne peut considérer comme dépense de revenu la partie du coût de ces améliorations de capital qui correspondent au coût des réparations rendues inutiles. Je ne connais aucune affaire où on ait permis ou tenté de répartir entre les deux catégories une dépense. (Non souligné dans l'original.)
+[24]Ce qui est dit dans la note en bas de page s'applique tout particulièrement aux travaux en cause ici. Les problèmes du bien-fonds de Bradford n'ont pas été réglés par des travaux qui, à proprement parler, pourraient être désignés sous l'appellation de « réparations » . La piscine n'a pas été réparée, elle a été éliminée. La fosse septique n'a pas été réparée, elle a été éliminée puis remplacée par une nouvelle fosse septique.
+[25]Le toit qui coulait et les dégâts qui en ont résulté n'ont pas été réparés à proprement parler. Le toit existant de la partie commerciale a été éliminé au cours de la réfection totale, ou presque, de cette partie de l'immeuble, et a été remplacé par un tout nouveau toit. Les travaux de réfection consistaient notamment à agrandir l'immeuble horizontalement en ajoutant un nouveau garage et verticalement en ajoutant un étage au-dessus de l'ancien garage et du passage reliant le garage à la maison.
+[26]Les travaux de réfection consistaient aussi à transformer en locaux à bureaux le garage existant dont les murs étaient endommagés par l'eau, et les planchers, par le sel. Les bureaux en dessous du garage existant ont été convertis en pièce d'entreposage. Le nouveau puits foré à la sondeuse et la nouvelle fosse septique, qui étaient des éléments importants du projet global, étaient nécessaires pour faire en sorte que l'immeuble reconstruit soit habitable, et, par conséquent, qu'il soit complet aux fins de l'usage auquel il était destiné.
+[27]La nécessité de répartir les coûts facturés souligne le fait que les travaux faisaient partie intégrante et étaient indissociables d'un important projet de réfection et d'agrandissement de la partie commerciale de l'immeuble. L'étendue de ces travaux se voit dans les photos, aux pièces A-2, A-3, A-5 et A-6, et dans le plan, pièce A-1, onglet 3. Les travaux ont effectivement permis d'éliminer la nécessité de régler les problèmes qui existaient avant que le projet ne soit entamé, mais cela ne justifie pas que les travaux soient considérés, d'une façon réaliste, comme un groupe de réparations disparates. Le coût du projet entier, y compris les travaux accessoires comme l'aménagement paysager, le puits et la fosse septique, constitue, à mon avis, une dépense en capital.
+[28]Je vais maintenant me pencher sur l'appel visant l'année 2000, qui découle de travaux effectués dans des bureaux que l'appelante occupait en vertu d'un bail. Les locaux loués se trouvaient dans un immeuble situé sur un terrain appelé le « bien-fonds Campground » .
+[29]Les travaux effectués ont consisté notamment à améliorer le câblage électrique existant afin qu'il convienne aux charges imposées par le matériel de bureau de l'appelante. Les travaux ont compris aussi la réparation des cloisons sèches qui avaient été endommagées au cours de la réfection du câblage électrique. Enfin, les travaux ont compris le remplacement des tapis usés et troués. Le coût total des travaux s'élevait à environ 27 000 $. Lorsqu'il a établi la cotisation, le ministre du Revenu national a traité le coût comme une dépense en capital.
+[30]Je ne vois aucune raison de traiter le coût de ces travaux comme une dépense en capital. Il suffit de me reporter au passage l'ouvrage de M. Krishna reproduit au paragraphe 21. Le simple fait de remplacer un tapis usé est, à mon avis, un exemple classique d'un simple entretien. C'est le genre de dépense courante qui survient de temps à autre lorsqu'un propriétaire, y compris le propriétaire d'un immeuble donné à bail, entretient un bien existant.
+[31]Il n'est que légèrement moins évident que l'amélioration d'un système de câblage électrique existant (et la réparation auxiliaire du plâtre) donne lieu à une dépense courante non attribuable au capital. Si je comprends bien, il n'y avait aucun problème avec le système qui existait avant que les travaux ne soient effectués. C'est la demande accrue imposée par l'utilisation du système électrique par l'appelante qui a rendu les travaux nécessaires. Il ne peut être considéré, à mon avis, que les travaux ont été effectués dans le but de créer un bien ou un avantage pour le bénéfice durable de l'entreprise de l'appelante[2], en particulier lorsque, comme dans le cas présent, les lieux étaient loués pour répondre à un besoin de locaux temporaire seulement.
+[32]Les appels interjetés contre les cotisations établies pour les années 1998 et 1999 seront rejetés. L'appel interjeté contre la cotisation établie pour l'année 2000 sera accueilli, et la cotisation sera renvoyée au ministre pour permettre la déduction des coûts en tant que dépenses courantes. L'intimée a droit à 75 % des dépens relatifs à l'instance.
+Signé à Toronto (Ontario), ce 23e jour de mars 2006.
+« Michael J. Bonner »
+Juge Bonner
+Traduction certifiée conforme
+ce 23e jour d'août 2006.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2006CCI5
+NO DU DOSSIER DE LA COUR : 2003-1498(IT)G
+INTITULÉ DE LA CAUSE : La O'Rourke Marketing Corporation Ltd. c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Toronto (Ontario)
+DATE DE L'AUDIENCE : Le 1er décembre 2005
+MOTIFS DU JUGEMENT PAR : L'honorable juge Michael J. Bonner
+DATE DU JUGEMENT : Le 23 mars 2006
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Michael Gasch
+Avocat de l'intimée :
+Me Brent E. Cuddy
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom : Me Michael Gasch
+Étude : Ribins, Appleby & Taub
+Toronto (Ontario)
+Pour l'intimée : Me John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Ontario)
+[1] Les citations sont tirées de la déclaration préliminaire de l'appelante.
+[2] British Insulated and Helsby Cables, Limited and Atherton, [1926] A.C. 205, à la page 213.

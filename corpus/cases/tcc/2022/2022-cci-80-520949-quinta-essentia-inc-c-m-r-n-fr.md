@@ -1,0 +1,180 @@
+---
+title: "Quinta Essentia Inc. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/520949/index.do"
+last_modified: "2022-07-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 CCI 80"
+citation2: ""
+neutral_citation: "2022 CCI 80"
+decision_date: "2022-07-12"
+language: "fr"
+item_id: "520949"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4538
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T12:04:41.825000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a26c993b543bcf51b64d5c3194cb1c03586149529434e2d697e412cae89b108a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Quinta Essentia Inc. c. M.R.N.
+
+- Citation: 2022 CCI 80
+- Decision date: 2022-07-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4538, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Quinta Essentia Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2022-07-12
+Référence neutre
+2022 CCI 80
+Numéro de dossier
+2017-2576(CPP), 2017-2595(EI)
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Régime de pensions du Canada
+Contenu de la décision
+Dossiers : 2017-2576(CPP)
+2017-2595(EI)
+ENTRE :
+QUINTA ESSENTIA INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 24 mai 2022, à Sudbury (Ontario)
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Représentante de l’appelante :
+Guylaine Jalbert
+Avocat de l’intimé :
+Me Ian Moffat
+JUGEMENT
+Les appels sont accueillis et les décisions du ministre sont modifiées conformément aux présents motifs.
+Signé à Ottawa, Canada, ce 12e jour de juillet 2022.
+« Patrick Boyle »
+Le juge Boyle
+Référence : 2022 CCI 80
+Date :20220712
+Dossiers : 2017-2576(CPP)
+2017-2595(EI)
+ENTRE :
+QUINTA ESSENTIA INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Boyle
+[1] L’appelante (l’entreprise « Quinta ») a exploité l’établissement Quinta Essentia Wellness Studio and Tea Bistro à Sudbury entre 2012 et 2018. Quinta interjette appel de décisions du ministre selon lesquelles trois personnes ayant travaillé pour elle entre 2015 et 2016 exerçaient un emploi assurable, au sens de l’assurance-emploi, et un emploi ouvrant droit à pension, au sens du régime de pensions du Canada.
+I. Les témoins
+[2] La fondatrice, propriétaire, gestionnaire et actionnaire unique de l’appelante, Guylaine Jalbert, est le seul témoin de l’appelante. Les témoins de l’intimé sont deux monitrices de yoga parmi les trois personnes concernées, Mme Bentley et Mme Fraser, ainsi requalifiées. Tous les témoins étaient crédibles de manière générale. L’avocat de l’intimé a reconnu la crédibilité de Mme Jalbert et s’est abstenu de contester sa crédibilité au regard des réponses qu’elle a données au cours de son témoignage.
+[3] Mme Bentley a travaillé à Quinta pendant une période relativement courte, en offrant des cours de yoga au rythme d’un soir par semaine, lorsqu’elle le pouvait. Mme Fraser a travaillé pour Quinta pendant une plus longue période, a donné plus de cours et a exercé à Quinta d’autres activités que le yoga; selon les trois témoins, elle gérait également le calendrier des disponibilités et les discussions à ce sujet avec les monitrices et moniteurs de yoga qui travaillaient là-bas. Mme Fraser a été en mesure de parler des activités des autres monitrices et moniteurs de yoga, de Mme Jalbert et de Quinta grâce avec une grande connaissance personnelle du sujet.
+[4] Les deux témoins de l’intimé ont largement confirmé les éléments de preuve de Mme Jalbert. Dans son témoignage, Mme Fraser a largement confirmé celui de Mme Jalbert concernant l’intention des parties, le contrôle, les liens de subordination, les risques financiers et les occasions.
+II. L’établissement Quinta Essentia Wellness Studio and Tea Bistro
+[5] Pendant toute la période durant laquelle Quinta a exploité l’établissement Quinta Essentia Wellness Studio and Tea Bistro, les locaux comprenaient une salle à usages multiples servant aux massages, aux ateliers, aux cours de yoga, à la vente au détail de produits de bien-être et à l’exploitation d’un bar à thé biologique.
+[6] Les traitements aux fins de guérison holistique comprenaient le Reiki, des massages faciaux, des massages du cuir chevelu à l’huile chaude, des bains de pied ou de main, ainsi que des soins pour le dos à base de sel et de boue.
+[7] Les services de massage offerts comprenaient des massages pour femme enceinte, sportifs, crâniens, des tissus profonds, relaxants, ATM, de drainage lymphatique, aux pierres chaudes, thaïlandais ou de yoga-thérapie.
+[8] Les ateliers étaient réguliers et diversifiés; ils portaient notamment sur des sujets tels que les habitudes alimentaires saines, la nutrition holistique, la chiropraxie, la médication ou les bienfaits du yoga.
+[9] Les cours de yoga (distincts des massages de yoga ou des ateliers de yoga) étaient offerts aux niveaux « débutant », « flux doux », « yoga vinyasa », « fondamentaux du hatha yoga », « flux de hatha yoga » ou « libération de l’énergie ». L’établissement offrait également un cours pour tous niveaux confondus.
+[10] La zone Tea Bistro offrait, entre autres, des thés, des boissons fouettées ou des lattes.
+[11] La zone de vente au détail de produits de bien-être offrait plusieurs gammes d’articles, notamment des bracelets fabriqués par Mme Fraser.
+[12] À l’exception des monitrices et moniteurs de yoga, les personnes travaillaient à Quinta sous le statut d’employé. Certains massages étaient réalisés par des masseuses et masseurs qui « louaient » la salle à usages multiples et reversaient à Quinta un pourcentage de leurs honoraires. Le matériel nécessaire aux massages était intégralement fourni par la travailleuse ou le travailleur.
+III. Emploi assurable et ouvrant droit à pension ou entrepreneur indépendant
+[13] Le point en litige en l’espèce est la question de savoir si un travailleur à Quinta offrait ou non ses services en tant que propriétaire de sa propre entreprise, pour son propre compte. Pour trancher cette question, il convient d’adopter une méthode d’analyse en deux étapes. La première étape consiste à définir l’intention subjective du travailleur et du payeur concernant le statut d’employé ou d’entrepreneur indépendant.
+[14] La deuxième étape consiste à comparer cette intention subjective des parties à la réalité objective de leur relation, afin de vérifier si les parties ont respecté cette intention.
+[15] Pour ce faire, les facteurs à examiner sont le degré de contrôle exercé par le payeur sur les activités du travailleur ou l’existence d’un lien de subordination, les outils et les fournitures apportés par le travailleur ou fournis par le payeur, les risques financiers encourus par le travailleur, les occasions dont il bénéficie, ainsi que ses points forts et points faibles en affaires.
+[16] Il faut examiner ces critères au regard de l’intention des parties. Aucun critère précis ne joue de rôle prépondérant, et il n’existe aucune formule fixe. Les critères à examiner et le poids à leur accorder dépendent des circonstances et des faits particuliers de chaque affaire.
+[17] Il est important de noter que l’Agence du revenu du Canada (l’« ARC ») demande seulement la qualification d’employé pour les activités d’enseignement du yoga; elle reconnaît que les activités de massage thérapeutique, de vente de produits de bien-être ou de vente de bracelets à Quinta, entre autres, constituent des activités d’entrepreneur indépendant. Cela englobe les massages de yoga et les ateliers de yoga, qui constituent des activités distinctes des cours de yoga.
+[18] Il est également important de noter que la Cour ne sait pas si l’ARC a contesté les déclarations d’impôt sur le revenu de ces trois personnes ni si elle a pris des mesures à l’encontre de Quinta pour défaut de verser des retenues d’impôt sur le salaire d’employés.
+IV. Faits et conclusions
+[19] Mme Jalbert explique qu’en 2012, elle a décidé d’employer une ou plusieurs personnes pour donner des cours de yoga à Quinta. Elle souhaitait leur donner le statut d’employé, comme pour les autres personnes qui travaillaient à Quinta, afin d’obtenir plus de contrôle, de prévisibilité et de stabilité pour son entreprise, qu’elle gérait elle-même.
+[20] Elle a découvert, contre toute attente, qu’aucune des personnes offrant des cours de yoga dans les environs n’était intéressée par un emploi; toutes avaient choisi le statut d’entrepreneur indépendant et aimaient travailler pour plusieurs studios de yoga. Les monitrices et moniteurs de yoga souhaitaient conserver leur indépendance, leur autonomie et la possibilité de travailler en parallèle dans d’autres studios de yoga, ce qu’elle et ils faisaient, pour la plupart; c’est uniquement pour cette raison que Mme Jalbert s’est résignée à faire appel à des monitrices et moniteurs de yoga sous le statut d’entrepreneur indépendant, pour les besoins de Quinta.
+[21] Il est indéniable qu’au moment où Quinta a commencé à travailler avec ces monitrices et moniteurs de yoga, elle avait l’intention de travailler avec des entrepreneuses et entrepreneurs indépendants. Il ressort tout aussi clairement du témoignage de Mme Fraser qu’elle avait bien l’intention de travailler en tant qu’entrepreneuse indépendante, qu’elle s’est toujours considérée comme une contractuelle exploitant une entreprise du nom de Inside/Out Yoga Therapy ou Inside/Out, qu’elle travaillait dans plusieurs studios de yoga, notamment les deux studios principaux à Sudbury, et qu’elle exerçait également des activités de massothérapeute et de créatrice de bijoux de bien-être fabriqués à la main. Mme Bentley s’est montrée bien moins claire ou sûre d’elle. Elle a commencé par affirmer avoir supposé être une employée, même si elle avait expliqué juste avant cela avoir dû souscrire elle-même une assurance pour les cours qu’elle donnait. Lorsqu’on lui a demandé quand et pourquoi elle a cru être une employée, elle a répondu reconnaître à présent qu’elle avait probablement été une entrepreneuse indépendante. Lors de son témoignage, elle n’a pas précisé son intention à cet égard, à l’époque. Je conclus d’après ces éléments de preuve que les parties prévoyaient dès le départ que les monitrices et moniteurs de yoga auraient le statut d’entrepreneur indépendant, et non d’employé.
+[22] Je passe à présent à la deuxième étape de l’analyse, la question de savoir si l’intention d’opter pour le statut d’entrepreneur indépendant est confirmée par la réalité objective, en commençant par examiner les critères concernant l’ampleur du contrôle exercé par Quinta sur les activités des monitrices et moniteurs de yoga et l’existence ou non d’un lien de subordination.
+[23] En l’espèce, et comme souvent, il s’agit d’un critère important. Je conclus qu’il s’agit du critère le plus important en l’espèce. Il s’agit également du critère déterminant, étant donné qu’au vu des autres critères qui suivent, rien dans les éléments de preuve n’est incompatible avec le statut d’entrepreneur indépendant, car le résultat soit est neutre soit penche légèrement en faveur du statut d’entrepreneur indépendant. Pour les motifs qui suivent, la question du lien de subordination et du contrôle fait largement pencher la balance en faveur du statut d’entrepreneur indépendant en l’espèce :
+- Les monitrices et moniteurs de yoga pouvaient travailler et ont travaillé dans d’autres studios de yoga et dans d’autres lieux, en parallèle. Ce fut le cas pour Mme Fraser et Mme Bentley, comme pour les autres monitrices et moniteurs de yoga qui travaillaient à Quinta.
+- Les monitrices et moniteurs de yoga refusaient le statut d’employé.
+- Quinta, par l’entremise de Mme Jalbert, informait les monitrices et les moniteurs de yoga des disponibilités de sa salle à usages multiples pour le mois, ce qui leur permettait de choisir les dates et les horaires de leurs cours. Elles et ils choisissaient en fonction de leurs propres disponibilités, de leur emploi du temps et de leurs préférences.
+- Les monitrices et moniteurs de yoga décidaient des types de cours de yoga à offrir aux dates et aux horaires retenus.
+- Les monitrices et moniteurs de yoga s’arrangeaient avec leur propre réseau de monitrices et moniteurs de yoga, afin d’organiser leur remplacement en cas d’absence à l’un des cours prévus. Certaines personnes se contentaient d’envoyer un message à Mme Jalbert, afin de lui demander de trouver quelqu’un pour les remplacer ou d’annuler le cours, et Mme Jalbert s’exécutait. Autrement, Quinta annulait le cours. Parfois, des monitrices ou moniteurs envoyaient une personne pour les remplacer sans en informer Quinta au préalable. Quinta payait normalement les factures qu’une remplaçante ou un remplaçant lui envoyait directement.
+- Les monitrices et les moniteurs de yoga envoyaient des factures professionnelles à Quinta pour le travail réalisé. Mme Fraser se désignait sous son nom d’entreprise, Inside/Out Yoga Therapy, et elle ajoutait les frais liés aux bracelets vendus par Quinta. Les factures de Mme Bentley comprenaient un remerciement adressé à Quinta pour avoir fait des affaires avec elle. Rien dans les éléments de preuve ne peut être confondu avec un bulletin de salaire, une fiche de présence ou autre. Avant de payer, Quinta comparait les factures détaillées avec les renseignements consignés dans ses propres registres.
+- Mme Fraser, l’une des monitrices de yoga, gérait en grande partie le calendrier, les disponibilités et la planification des cours de yoga, en consultation avec les autres monitrices et moniteurs.
+- Aussi bien Quinta, au moyen de son site Web, que les monitrices et moniteurs de yoga, au moyen de leurs comptes de réseaux sociaux, assuraient la promotion des cours de yoga. On utilisait l’application MindBodySoftware. Cela permettait aux clients de trouver des studios et des cours, ainsi que de suivre une monitrice ou un moniteur de yoga précis. Mme Fraser a expliqué qu’elle assurait la majorité de la promotion de ses cours de yoga, avec l’aide de Quinta. Les offres de cours étaient mises à jour chaque mois dans le site Web de Quinta, après que les monitrices et les moniteurs de yoga avaient choisi leurs créneaux et les niveaux ou types des cours proposés.
+- Les autres personnes travaillant à Quinta étaient des employés, soumis à une gestion et à un contrôle du rendement de leurs activités différents, par rapport aux monitrices et moniteurs de yoga. Les services de massage impliquaient seulement des masseuses et masseurs qui louaient une salle à Quinta et versaient en contrepartie un pourcentage de leurs honoraires. Ces personnes apportaient leur propre matériel et n’étaient pas rémunérées par Quinta pour leur travail, ni sous le statut d’employé ni sous celui d’entrepreneur indépendant.
+[24] Voici les faits pertinents à examiner et à pondérer en l’espèce concernant le critère des outils et des fournitures :
+- Chaque personne était responsable de ses formations et de ses certifications.
+- Au moins une monitrice fournissait sa propre assurance de responsabilité civile pour les cours qu’elle a offerts, à temps très partiel, pendant une période relativement courte par rapport aux autres monitrices à la Cour.
+- En général, les monitrices et moniteurs choisissaient et apportaient leurs propres musiques à chaque cours. Quinta mettait quelques musiques à la disposition des locataires de la salle, de même qu’un lecteur de disques compacts entreposé dans le local de rangement de Quinta. Une monitrice a indiqué dans son témoignage apporter quand même ses propres haut-parleurs Bluetooth pour ses cours.
+- Quinta possédait un placard ou une salle des fournitures accessible pour les locataires de la salle à usages multiples; on y trouvait, entre autres, des chaises, des couvertures ou quelques blocs de yoga. Ces fournitures servaient également aux activités autres que les cours de yoga. Les parties ne contestent pas le fait que les massages de yoga et les ateliers de yoga constituaient de travaux réalisés sous le statut de l’entrepreneur indépendant et elles les acceptent à ce titre.
+- Certaines monitrices et certains moniteurs de yoga utilisaient l’équipement de Quinta, mais d’autres non. Dans son témoignage, une monitrice a affirmé qu’elle aurait pu adapter n’importe lequel de ses cours si les fournitures avaient été inaccessibles, pour une raison ou pour une autre. Les monitrices et les moniteurs apportaient leurs propres tapis et blocs. Ceux présents dans le placard servaient largement aux clients qui n’apportaient pas les leurs.
+[25] J’estime que le critère des outils et du matériel est essentiellement neutre en l’espèce. Rien à ce sujet ne va à l’encontre de l’intention des parties à l’égard du statut d’entrepreneur indépendant. Il est très inhabituel qu’une personne souscrive et paie sa propre assurance dans le contexte d’un emploi.
+[26] Voici les faits pertinents à examiner et à pondérer en l’espèce concernant le critère des risques financiers et des occasions :
+- Quinta et les monitrices et moniteurs de yoga s’entendaient dès le départ sur un tarif horaire fixe pour une heure de cours, de même que sur les changements. Il s’agissait pour l’essentiel du tarif en vigueur appliqué par les monitrices et moniteurs de yoga de Sudbury à l’époque. Le prix n’était pas fixé par Quinta, pas plus, voire probablement encore moins, que par les monitrices et moniteurs de yoga. Quinta fixait le prix auquel elle facturait les cours de yoga à ses clients, en tenant compte des prix appliqués par les autres studios de yoga et de la rémunération des monitrices et moniteurs de yoga.
+- Les monitrices et moniteurs de yoga jouaient un rôle prépondérant dans la commercialisation de leurs propres cours offerts à Quinta et dans d’autres lieux, au moyen de leurs comptes des réseaux sociaux personnels.
+- Les monitrices et moniteurs de yoga pouvaient travailler dans d’autres lieux de yoga locaux, ce qu’elles et ils faisaient. Les monitrices qui ont témoigné travaillaient toutes deux également avec l’entreprise concurrente principale de Quinta, à l’époque, à Sudbury.
+- Les monitrices et moniteurs de yoga pouvaient offrir ou non des cours chaque mois, à leur rythme et selon leurs envies et leurs disponibilités.
+- Les monitrices et moniteurs de yoga étaient libres de se faire remplacer par d’autres au sein du réseau local de monitrices et moniteurs, de travailler moins à Quinta (vraisemblablement au profit d’un autre lieu) ou encore d’équilibrer leur catalogue de prestations entre les cours de yoga et d’autres services (notamment des massages, des ateliers ou la vente de bijoux de bien-être), et ce, en fonction de leur propre processus décisionnel en matière de finances.
+[27] Je conclus, compte tenu de tous les éléments de preuve, que le critère des risques financiers et des occasions fait lui aussi pencher la balance en faveur du statut d’entrepreneur indépendant, et non d’employé.
+[28] Pour ces motifs, les appels sont accueillis.
+Signé à Ottawa, Canada, ce 12e jour de juillet 2022.
+« Patrick Boyle »
+Le juge Boyle
+RÉFÉRENCE :
+2022 CCI 80
+NO DU DOSSIER DE LA COUR :
+2017-2576(CPP)
+2017-2595(EI)
+INTITULÉ :
+QUINTA ESSENTIA INC.,
+ET LE MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDITION :
+Sudbury (Ontario)
+DATE DE L’AUDIENCE :
+Le 24 mai 2022
+MOTIFS DU JUGEMENT :
+L’honorable juge Patrick Boyle
+DATE DU JUGEMENT :
+Le 12 juillet 2022
+COMPARUTIONS :
+Représentante de l’appelante :
+Guylaine Jalbert, mandataire
+Avocat de l’intimé :
+Me Ian Moffat
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Noms :
+Guylaine Jalbert
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+François Daigle
+Sous-procureur général du Canada
+Ottawa, Canada

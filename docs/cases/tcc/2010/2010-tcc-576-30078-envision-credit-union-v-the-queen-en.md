@@ -1,0 +1,989 @@
+---
+title: "Envision Credit Union v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30078/index.do"
+last_modified: "2010-11-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 576"
+citation2: ""
+neutral_citation: "2010 TCC 576"
+decision_date: "2010-11-17"
+language: "en"
+item_id: "30078"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7608
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:50:40.366000+00:00"
+cases_cited_count: 10
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9bfaee0795756adb87ffabd20a4eeb2274882adff54a50ce87a518afe299edf2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Envision Credit Union v. The Queen
+
+- Citation: 2010 TCC 576
+- Decision date: 2010-11-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7608, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Envision Credit Union v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-11-17
+Neutral citation
+2010 TCC 576
+File numbers
+2008-2213(IT)G
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-2213(IT)G
+BETWEEN:
+ENVISION CREDIT UNION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on April 21, 22 and 23, 2010
+and September 13, 14 and 15, 2010
+at Vancouver, British Columbia
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Counsel for the Appellant:
+Joel Nitikman
+Michelle Moriartey
+Counsel for the Respondent:
+Lynn Burch
+John Gibb-Carsley
+____________________________________________________________________
+JUDGMENT
+The Appellant’s appeal from the reassessment of its 2001 taxation year is allowed, without costs, and both the second reassessment (dated April 22, 2008) and the first reassessment (dated May 23, 2006) are vacated.
+The Appellant’s appeals from the reassessments of its 2002, 2003 and 2004 taxation years are dismissed, without costs.
+Signed at Halifax, Nova Scotia, this 17th day of November, 2010.
+“Wyman W. Webb”
+Webb, J.
+Citation: 2010TCC576
+Date: 20101117
+Docket: 2008-2213(IT)G
+BETWEEN:
+ENVISION CREDIT UNION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb, J.
+[1] This appeal arises as a result of a merger of two Credit Unions that the Appellant submits was a merger to which section 87 of the Income Tax Act (the “Act”) did not apply. There are a number of issues that have been raised:
+(a) Was the merger of Delta Credit Union (“Delta”) and First Heritage Savings Credit Union (“First Heritage”) on January 1, 2001 an amalgamation to which section 87 of the Act applies?
+(b) If this merger of Delta and First Heritage was not an amalgamation as defined in subsection 87(1) of the Act:
+(i) Do the tax attributes, such as the undepreciated capital cost (“UCC”) of the assets of the various classes of depreciable property of Delta and First Heritage, flow through to the Appellant? It is the position of the Appellant that the tax attributes of Delta and First Heritage do not flow through to the Appellant and therefore that the UCC of the assets of the various classes of depreciable property of the Appellant as of the beginning of the Appellant’s 2001 taxation year reverts to the original cost of the assets to the predecessor companies. It is the position of the Respondent that the tax attributes do flow through and therefore the UCC of the assets of the various classes of depreciable property of the Appellant as of the beginning of the Appellant’s 2001 taxation year is the cumulative total amount of the UCC of the assets of the various classes of depreciable property to Delta and First Heritage as of the end of their 2000 taxation years.
+(ii) If the Appellant’s position, as outlined in the immediately preceding paragraph, is correct, does the general anti-avoidance rule (“GAAR”), in section 245 of the Act, apply to reduce the UCC of these assets to the Appellant as of the beginning of its 2001 taxation year to the total UCC of these assets to Delta and First Heritage as of the end of their 2000 taxation years?
+(c) Is the reassessment of the Appellant’s 2001 taxation year, which was issued after the end of the normal reassessment period for this year, valid?
+[2] Section 87 of the Act applies if there has been an amalgamation of two or more companies in the manner as set out in subsection 87(1) of the Act. This subsection provides that:
+87. (1) In this section, an amalgamation means a merger of two or more corporations each of which was, immediately before the merger, a taxable Canadian corporation (each of which corporations is referred to in this section as a “predecessor corporation”) to form one corporate entity (in this section referred to as the “new corporation”) in such a manner that
+(a) all of the property (except amounts receivable from any predecessor corporation or shares of the capital stock of any predecessor corporation) of the predecessor corporations immediately before the merger becomes property of the new corporation by virtue of the merger,
+(b) all of the liabilities (except amounts payable to any predecessor corporation) of the predecessor corporations immediately before the merger become liabilities of the new corporation by virtue of the merger, and
+(c) all of the shareholders (except any predecessor corporation), who owned shares of the capital stock of any predecessor corporation immediately before the merger, receive shares of the capital stock of the new corporation because of the merger,
+otherwise than as a result of the acquisition of property of one corporation by another corporation, pursuant to the purchase of that property by the other corporation or as a result of the distribution of that property to the other corporation on the winding-up of the corporation.
+[3] Delta and First Heritage were amalgamated pursuant to the provisions of the Credit Union Incorporation Act (British Columbia) (the “CUIA”) as First Heritage Delta Credit Union effective January 1, 2001. On November 30, 2001, First Heritage Delta Credit Union changed its name to Envision Credit Union.
+[4] Section 20 of the CUIA provides that:
+20 (1) Two or more credit unions (the "amalgamating credit unions") may amalgamate and continue as one credit union (the "amalgamated credit union"), but must not do so except in accordance with this section.
+(2) Amalgamating credit unions, including any ordered under section 277 (g) of the Financial Institutions Act to amalgamate, together must propose and submit to the commission an amalgamation agreement that
+(a) specifies
+(i) the name of the proposed amalgamated credit union,
+(ii) the terms and conditions of the amalgamation,
+(iii) the manner of carrying the amalgamation into effect,
+(iv) the names and addresses of the individuals proposed as the directors and senior officers of the proposed amalgamated credit union,
+(v) whether the business proposed to be carried on by the proposed amalgamated credit union is deposit business or both deposit business and trust business,
+(vi) the services that the proposed amalgamated credit union intends to offer to its members,
+(vii) the common bond of membership of the proposed amalgamated credit union,
+(viii) the manner in which the issued and unissued shares of each amalgamating credit union will be exchanged for those of the amalgamated credit union, and
+(ix) the fair market value of the equity shares of any class, or a method of determining the fair market value of the equity shares of any class, for the purpose of section 24, and
+(b) contains
+(i) the constitution prepared in accordance with section 6, and
+(ii) the rules prepared in accordance with section 7,
+that are proposed as the constitution and rules of the amalgamated credit union.
+(3) On receiving a proposed amalgamation agreement submitted to the commission, including one where one or more of the amalgamating credit unions is acting under section 21 through an administrator,
+(a) the commission may consent to the proposed amalgamation agreement, or
+(b) if the commission considers that the proposed amalgamation agreement is contrary to the interests of one or more of the amalgamating credit unions or its or their members, the commission may refuse to consent to it.
+(4) If the commission consents under subsection (3) to a proposed amalgamation agreement under which any of the proposed amalgamating credit unions is one that is not acting under section 21 through an administrator, then this subsection applies to that amalgamating credit union, and it must
+(a) submit the proposed amalgamation agreement to its members for approval by special resolution, if it is a credit union that has issued no equity shares or has issued no equity shares other than the membership shares, or
+(b) submit the proposed amalgamation agreement
+(i) to its members for approval by special resolution, and
+(ii) to the holders of each class of equity shares other than the membership shares for approval by a separate resolution of the holders of that class, requiring a majority of 2/3 of the votes cast,
+if it is a credit union that has issued 2 or more classes of equity shares.
+(5) If an amalgamating credit union to which subsection (4) applies has provided in its rules as set out in section 58 (2) respecting rights or special rights attached to its issued equity shares, then, on a separate resolution required under subsection (4) (b) (ii), each holder of equity shares has one vote in respect of each share held by that holder.
+(6) If the members or the members and other equity shareholders, as the case may be, of an amalgamating credit union to which subsection (4) applies have approved the proposed amalgamation agreement in compliance with subsections (4) and (5), that amalgamating credit union may enter into the proposed amalgamation agreement, which, when executed by each of the amalgamating credit unions, including any of them acting under section 21 through an administrator, must be delivered to the registrar together with a certified copy of each of any resolutions required in respect of an amalgamating credit union to which subsection (4) applies.
+(7) On receiving the executed amalgamation agreement, or the executed amalgamation agreement and a certified copy of each of any resolutions, delivered under subsection (6), the registrar must
+(a) register the agreement or the agreement and a certified copy of each resolution, as the case may be,
+(b) issue a certificate of amalgamation showing that the amalgamating credit unions are amalgamated and the date of the amalgamation, which must not be earlier than the date the documents are received by the registrar, and
+(c) publish in the Gazette a notice of the amalgamation showing the names of the amalgamating credit unions, the name of the amalgamated credit union, the address of its registered office and the date of the amalgamation.
+[5] Section 23 of the CUIA provides that:
+23 On and after the date of the amalgamation shown in a certificate of amalgamation issued under section 20 (7) (b),
+(a) the amalgamating credit unions are amalgamated and are continued as one credit union under the name and with the constitution and rules provided in the amalgamation agreement,
+(b) the amalgamated credit union is seized of and holds and possesses all the property, rights and interests and is subject to all the debts, liabilities and obligations of each amalgamating credit union, including any obligations to members or auxiliary members under section 24, and
+(c) every member and auxiliary member of each amalgamating credit union is bound by the amalgamation agreement.
+[6] It is the position of the Appellant that even though Delta and First Heritage were amalgamated as provided in the CUIA, that this merger was not an amalgamation as defined in subsection 87(1) of the Act because each of the predecessor credit unions transferred an interest in certain real property to 619547 B.C. Ltd. (“619”) at precisely the time of the amalgamation and therefore not all of the property of the predecessor credit unions immediately before the merger became property of the Appellant by virtue of the merger. During the course of the hearing an amalgamation that complies with the applicable corporate legislation related to the amalgamation of two or more companies but which does not satisfy the requirements of the definition of “amalgamation” contained in subsection 87(1) of the Act was referred to as a broken amalgamation, a taxable amalgamation or a non-qualifying amalgamation.
+[7] The Appellant’s position is that the amount of the UCC of the assets of each class of the Appellant, as of the commencement of the first taxation year following the amalgamation, was the capital cost of the assets of the various classes to the predecessor credit unions. The following table sets out the balance of the UCC of the assets of the various classes to Delta and First Heritage as of the end of the last taxation of these companies ending before the amalgamation (the closing balance) and the opening balance of UCC as stated by the Appellant:
+Class
+Closing Balance UCC - Delta
+Closing Balance UCC – First Heritage
+Combined UCC Balance
+Opening Balance of UCC - Appellant
+1
+3,865,000
+6,863,291
+10,728,291
+17,919,244
+3
+195,522
+469,479
+665,001
+3,326,000
+6
+172,805
+9,379
+182,184
+1,193,125
+8
+1,499,659
+1,760,140
+3,259,799
+12,538,015
+10
+1,408,341
+1,371,048
+2,779,389
+11,796,495
+10.1
+203
+577
+780
+24,000
+12
+0
+0
+0
+116,998
+13
+60,852
+0
+60,852
+165,202
+13
+0
+0
+0
+362,813
+13
+118,729
+0
+118,729
+245,344
+13
+441,919
+0
+441,919
+882,031
+13
+277,675
+0
+277,675
+504,203
+13
+88
+0
+88
+871
+13
+361,271
+0
+361,271
+656,796
+13
+0
+1,121,140
+1,121,140
+1,191,114
+17
+3,143
+102,967
+106,110
+57,508[1]
+Total:
+8,405,207
+11,698,021
+20,103,228
+50,979,759
+[8] In total the Appellant would have additional capital cost allowance (“CCA”) of $30,876,531 ($50,979,759 - $20,103,228) that it could deduct over time than it would if the closing UCC balances would have been carried forward as the opening balance of UCC to the Appellant. It appears from the CCA schedules for Delta and First Heritage that were submitted as an exhibit that neither one of these companies reported any recapture of CCA in their tax returns for the period ending immediately before the amalgamation and therefore the $30,876,531 would represent CCA that would be claimed twice – once by Delta or First Heritage and again by the Appellant.
+[9] In filing its tax returns for its 2001 to 2004 taxation years (which are the taxation years that are the subject of these appeals) the Appellant claimed CCA in each year based on a total opening balance of UCC of all classes of property of $50,979,759 as of the commencement of the first taxation year following the amalgamation. The Appellant was reassessed to reduce the amount of CCA allowed for each year to the amount that could be claimed if the opening balance of UCC of all classes of property was $20,103,228 as of the commencement of the first taxation year following the amalgamation. The CCA claimed in each year was therefore reduced.
+[10] The Appellant also, in filing its tax return for its 2001 taxation year, did not include the allowance for doubtful debts in the amount of $851,649[2] that had been deducted by Delta in computing its income for its 2000 taxation year. There is also a reference to excess tax reserves of $888,291 in the Reply and this will be discussed below in relation to the reassessment of the Appellant’s 2001 taxation year.
+[11] There is another tax account that is affected by the transactions. The preferred rate amounts of Delta and First Heritage were not carried forward to the first taxation year of the Appellant and therefore the Appellant claimed that its opening preferred rate amount was zero. The preferred rate amount is only relevant for credit unions and is used in determining the amount of income that will be subject to the small business tax rate. The net result of subsections 137(3), (4), (4.3) and (6) of the Act is that, in addition to the tax credit that the credit union may be entitled to claim pursuant to section 125[3], the credit union can claim an additional tax credit (which would reduce its tax rate to the small business tax rate). The amount of income on which this additional tax credit may be claimed is limited by subsection 137(3) of the Act.
+[12] Subsection 137(3) of the Act limits the amount of taxable income[4] to which this additional tax credit will be applied (which will reduce the tax rate to the small business tax rate) to the lesser of the following two amounts:
+(a) the credit union’s taxable income for the year; and
+(b) (4/3 of the credit union’s maximum cumulative reserve at the end of the year) minus the credit union’s preferred rate amount at the end of the immediately preceding taxation year.
+[13] The maximum cumulative reserve is defined in subsection 137(6) of the Act and is 5% of the total amount owing by the credit union to its members (including deposits) and its share capital.
+[14] The preferred rate amount is determined pursuant to subsection 137(4.3) of the Act. The preferred rate amount for the years under appeal was the cumulative total amount of income that was taxed at the small business tax rate[5].
+[15] The preferred rate amount will increase every year (assuming that the credit union is profitable). If however the amount of deposits that the credit union has received is large enough (which is determined at the end of the year and therefore will include the net amount of new deposits minus withdrawals made during the year), it is possible that all of the income of the credit union will continue to be taxed at the small business tax rate even though the preferred rate amount is increasing each year since the limit is based on the difference between 4/3 of the maximum cumulative reserve as of the end of the year and the preferred rate amount as of the end of the immediately preceding taxation year.
+[16] In this case, the Appellant’s position is that its preferred rate amount that would be relevant in determining its entitlement to a tax credit pursuant to subsection 137(3) of the Act for its 2001 taxation year, is nil. The preferred rate amount for the Appellant for its 2001 taxation year would be its preferred rate amount as of the end of its immediately preceding taxation year. If there has been an amalgamation within the meaning of subsection 87(1) of the Act, paragraph 137(4.3)(b) of the Act provides that:
+(4.3) For the purposes of subsection (3),
+…
+(b) where at any time a new corporation has been formed as a result of an amalgamation of two or more predecessor corporations, within the meaning of subsection 87(1), it shall be deemed to have had a taxation year ending immediately before that time and to have had, at the end of that year, a preferred-rate amount equal to the total of the preferred-rate amounts of each of the predecessor corporations at the end of their last taxation years;
+Since it is the position of the Appellant that the amalgamation is not an amalgamation as defined in subsection 87(1) of the Act and therefore that the provisions of this paragraph of the Act do not apply, the Appellant did not carry forward the preferred rate amounts of either Delta or First Heritage.
+[17] It is the position of the Respondent that the preferred rate amounts of Delta and First Heritage should have been carried forward by the Appellant and therefore that the preferred rate amount for the Appellant for its 2001 taxation year should have been $72,341,531 because the preferred rate amount for Delta as of the end of its taxation year ending December 31, 2000 was $20,182,268 and for First Heritage as of the end of its taxation year ending December 31, 2000 was $52,159,263.
+[18] However both parties did agree that whether the Appellant’s preferred rate amount was nil or $72,341,531 for its 2001 taxation year, the amount of taxes payable by the Appellant under the Act would not be affected for any of the taxation years under appeal. The maximum cumulative reserve amount for each year was sufficiently large that the Appellant would be entitled to the same tax credit pursuant to subsection 137(3) of the Act whether the preferred rate amounts from the predecessors were carried forward to the Appellant or the preferred rate amount of the Appellant for 2001 was nil.
+Does section 87 of the Act apply?
+[19] The first issue that must be addressed is whether section 87 of the Act applies to the amalgamation of Delta and First Heritage. It is clear that subsection 87(1) of the Act provides a definition of “amalgamation” for the purposes of section 87 of the Act. Therefore if any part of the definition is not satisfied, then, even though the merger may be an amalgamation for the purposes of the applicable corporate legislation, it will not be an amalgamation for the purposes of section 87 of the Act.
+[20] It is clear that the merger of Delta and First Heritage was driven by business considerations. It is also clear that the parties intended to structure the merger in a manner that would result in the amalgamation failing to meet the definition of amalgamation in subsection 87(1) of the Act and that the means by which this would be accomplished were dictated by Fraser Milner Casgrain. Although the Respondent argued that the officers of the predecessors and the accountant for one of the predecessors (who was also the accountant for the Appellant) did not seem to fully understand how the transactions were structured, they were not the individuals who structured the transaction. There are probably many transactions that are structured by tax advisors which clients do not fully understand. The issue is not whether the officers of the predecessors understand what happened, but what did happen.
+[21] The Respondent had focused on some inconsistencies between the amalgamation agreement and the transactions that were completed. In particular, the Respondent referred to the fact that the amalgamation agreement had provided that a new corporation was to be incorporated at the time of the amalgamation (the “Effective Time”) but 619 was actually incorporated before that time on December 19, 2000. There is no reason why the incorporation of 619 on December 19, 2000 would prevent the transfer of property as proposed by the Appellant. It would actually assist the Appellant since the new company would have to be incorporated to acquire the property and incorporating 619 before January 1, 2001 simply reduced the number of transactions or events that were to occur at the Effective Time and removed any concerns about whether this company could actually be incorporated at the Effective Time.
+[22] As noted by Justice Archambault in Fredette v. The Queen, 2001 DTC 263, 2001 DTC 621, [2001] 3 C.T.C. 2468 at paragraph 45:
+45. …According to well-settled case law, the tax consequences of a transaction must be determined on the basis of the actual transactions that took place.
+[23] Therefore it is necessary to examine the actual transactions that were completed by the parties as it is the actual transactions that were completed that will determine the tax consequences and not what the parties agreed to do if there is any inconsistency between what the parties agreed to do and what they actually did do.
+[24] The Respondent had also raised arguments related to simultaneous transactions and whether simultaneous transactions are effective. In particular the Respondent raised the issue of the number of transactions or events that the Appellant appeared to be claiming had happened simultaneously. However in relation to the Appellant’s argument that the amalgamation was not an amalgamation as defined in subsection 87(1) of the Act, the two transactions or events that the Appellant would have to establish as occurring simultaneously are the transfer of the beneficial interest of either Delta or First Heritage in at least one property to 619 and the amalgamation of Delta and First Heritage. In relation to the definition of “amalgamation” in subsection 87(1) of the Act, the issue is whether the beneficial interests in the properties were transferred from Delta and First Heritage (or at least from one of these companies) to 619 at the exact moment that the amalgamation occurred so that the beneficial interest in these properties did not become property of the Appellant by virtue of the amalgamation. The focus is on the property of the predecessors and whether all of the property of Delta and First Heritage became property of the Appellant by virtue of the amalgamation. It seems to me that the amalgamation was the event that determined the timing of the transfer of the beneficial interest in the properties by Delta and First Heritage to 619. In order to establish that the amalgamation of Delta and First Heritage was not an amalgamation as defined in subsection 87(1) of the Act the Appellant would simply have to establish that the beneficial interests in the properties that were transferred by Delta and First Heritage to 619 were transferred to 619 at the exact time of the amalgamation. Whether any other transaction or event, such as the issuance of shares by 619, occurred at that moment or at a later time is irrelevant.
+[25] The Respondent had also raised the issue of the capacity of the predecessors to complete the transactions as submitted by the Appellant. In the written arguments submitted by counsel for the Respondent the following statements are made:
+1.34 It is our submission that the simultaneous transaction device is incompatible with continuation model amalgamations. In a continuation model amalgamation, at the moment of amalgamation the predecessor corporations become streamed in the amalgamated entity. Predecessors don’t die or disappear and are not extinguished but neither are they able to enter into new contractual arrangements in their previous identities. …
+1.35 Regardless of how the appellant explains the timing of these transactions, as of the commencement of January 1, 2001, the time of the Amalgamation, neither First Heritage nor Delta was capable of negotiating or executing independent transactions….
+(emphasis added)
+[26] Counsel for the Respondent referred to the decisions of the Supreme Court of Canada in The Queen v. Black and Decker Manufacturing Company Ltd., [1975] 1 S.C.R. 411, Witco Chemical Company, Canada, Limited v. The Corporation of the Town of Oakville et al., [1975] 1 S.C.R. 273, 43 DLR (3d) 413 and the decision of the Federal Court of Appeal in The Queen v. Guaranty Properties Ltd. [1990] 3 F.C. 337, 90 DTC 6363. Counsel for the Respondent then stated that:
+1.37 These seminal amalgamation cases are neither authority for, nor capable of being construed as standing for the proposition that predecessor corporations have a residual juridical ability to enter into contractual relations upon amalgamation.
+[27] Counsel for the Respondent did not suggest that the consequences of this argument would be that no interest in the real properties was conveyed by either Delta or First Heritage to 619 but this argument was advanced as support for its argument that the transactions were not completed as proposed by the Appellant.
+[28] Justice MacFarland of the Ontario Court of Justice (General Division) in Rendall v. Royal Insurance Canada [1997] O.J. No. 2672, 34 O.R. (3d) 762 stated that:
+13 Counsel for Royal seize upon the words of Mr. Justice Dickson at page 398 of the decision where he states:
+... It is true that upon amalgamation each constituent company loses its "separate" existence but it by no means follows that it has thereby ceased to exist.
+Counsel argues that Re/Max Grand ceased to exist as an entity to sue or be sued on its own after November 28, 1995 (the date of amalgamation). He says the company had no status to sue or be sued and that, accordingly, any insurance coverage that had been in place to cover that eventuality will no longer apply. The argument is that each of the amalgamating companies loses its separate existence but has not ceased to exist. He says for practical and legal purposes the amalgamating companies cease to exist as legal entities.
+14 The answer to this argument is found , I think, in the judgment of Mr. Justice Spence at page 420 of the Witco Chemical Co. Canada Ltd. case where he considers the judgment of Arnup J.A. in the Ontario Court of Appeal and specifically disagrees with him in this language:
+I find it difficult to contemplate a situation where the amalgamating corporation does not cease to exist for all purposes but is not a juristic person with a status to commence an action.
+And, further, at page 421:
+I am, however, of the opinion that in the present case there was not an extinguishment of the corporate identity of the Witco Chemical Company,Canada, Limited, sufficient to justify the court in holding that the writ had been issued in the name of a non-existent plaintiff.
+In my view, the combined effect of what is now section 179 of the Business Corporations Act and the Regina v. Black & Decker and Witco Chemical Co. Canada Ltd. cases is that the amalgamating corporations continue to exist and have juristic status following amalgamation. That being so it follows that the Royal policy, unless there be a specific condition to the effect that coverage ends on amalgamation of the named insured with another corporation, would continue to provide coverage.
+(emphasis added)
+[29] Delta and First Heritage would therefore continue to exist and have juristic status following the amalgamation. The implication of the statement of the Supreme Court of Canada in the Witco Chemical Company, Canada, Limited case is that an amalgamating company is a juristic person with status to commence an action. If this juristic person can commence an action can it also enter into contracts? This would raise the question of who could negotiate or execute the contract as the officers and directors of the predecessor companies would cease to be officers and directors of these companies upon amalgamation. It does not seem to me that the references to the predecessor companies continuing should be interpreted as the officers and directors of the predecessor companies continuing to hold their office in the predecessor companies following amalgamation. If it did, then, in this case, there would be three boards of directors and three sets of officers – one for Delta, one for First Heritage and one for the Appellant. This cannot be the result of the references to the amalgamating companies continuing.
+[30] It seems to me that in order to determine whether there was a transfer of an interest in the real property at the time of the amalgamation it is not necessary to determine whether Delta and First Heritage had any capacity to enter into contracts on their own following the amalgamation and therefore it is not necessary to determine whether the juristic status of Delta and First Heritage would permit them to enter into contracts following the amalgamation.
+[31] In this case it is clear that the agreements in question were executed prior to the amalgamation. By letter from David Jones, Senior Vice-President Corporate Services and C.F.O. for First Heritage to Baker Newby dated December 29, 2000, the executed documents (including the asset transfer agreements and trust agreements) were returned to Baker Newby. Therefore it is clear that the asset transfer documents and the trust agreements were executed on or before December 29, 2000.
+[32] In Hewlett Packard (Canada) Ltd. v. The Queen, 2004 FCA 240, 324 N.R. 201, 2004 DTC 6498, Justice Noël, writing on behalf of the Federal Court of Appeal, stated that:
+59 Although the civil and the common law notions of ownership stem from different roots, there is one basic rule that is common to both systems: ownership passes when the parties intend it to pass.
+[33] In the Hewlett Packard case the property in question was personal property - cars. In this case it is real property.
+[34] In Anger & Honsberger “Law of Real Property” Third Edition by Anne Warner La Forest, in describing the classification of property as real or personal property it is stated at page 1-7 that:
+…Nevertheless, many differences persist. This is particularly true with respect to the different manner of acquisition, investigation of title and alienation of the two forms of property. In general it may be said that these differences inevitably exist because of the physical differences between them.
+[35] In Stonehouse v. British Columbia (Attorney General), [1962] S.C.R. 103, an individual and his wife were the registered owners of a property in Vancouver as joint tenants. Prior to her death, the wife conveyed her interest in the property to her daughter by a former marriage. The deed conveying this interest was not registered until after the death of the wife. Justice Ritchie, on behalf of the Supreme Court of Canada, stated that:
+Under the provisions of s. 35 an unregistered deed could not be operative “to pass any estate or interest either at law or in equity” other than that of the grantor, but the effect of Mrs. Munk’s deed was not “to pass” any such estate or interest of Mr. Stonehouse but rather to change its character from that of a joint tenancy to that of a tenancy in common and thus to extinguish his right to claim title by survivorship which is an incident of the former but not of the latter type of interest. The right of survivorship under a joint tenancy is that, on the death of one joint tenant, his interest in the land passes to the other joint tenant or tenants (Megarry and Wade, The Law of Real Property, 2nd ed., p.390. But, on the execution and delivery of the transfer by Mrs. Stonehouse, she divested herself of her entire interest in the land in question. At the time of her death, therefore, there was no interest in the land remaining in her which could pass to her husband by right of survivorship.
+(emphasis added)
+[36] Therefore an interest in real property in British Columbia will pass upon the execution and delivery of the transfer document even though such document is not registered.[6]
+[37] In dealing with delivery, the Nova Scotia Court of Appeal in Re MacNeil Estate, 219 N.S.R. (2d) 80, stated as follows:
+11 The law on delivery of deeds is discussed by C. W. MacIntosh in Nova Scotia Real Property Manual, looseleaf, Markham, ON: Butterworths, 1988 at s. 5.5A:
+Physical delivery of the deed to the grantee is not necessary to constitute effective delivery. Delivery of a deed is a matter of intention.
+What is essential to delivery of the document as a deed is that “the party whose deed the document is expressed to be, having first sealed it, must by words or conduct expressly or impliedly acknowledge his intention to be immediately and unconditionally bound by the expressions contained therein.
+The intention is to be determined from the words, conduct and the surrounding circumstances.
+…
+12 In Ross v. Lynds Estate (1977), 28 N.S.R. (2d) 260 (S.C.T.D.) Hallett, J. (as he then was) said:
+[18] One would have thought that delivery of a deed would mean physical delivery but, as indicated earlier in this decision, the Courts over a long period of time have held that physical delivery of a deed to the grantee is not necessary to constitute effective delivery. No doubt the development of the law in this direction was as a result of the Courts attempting to fulfil what they perceive to be the intention of the grantor…
+[19] The cases cited earlier show that there does not have to be a physical handing over of a deed to the grantee or to some other person to take it out of the control of the grantor to effect delivery.
+[38] As a result it seems clear that whether an interest in personal property or real property is being transferred the intention of the parties plays an important role in determining when such transfer occurs. In this case it is clear that the documents related to the transfer of the interest in the real property were executed prior to January 1, 2001. The Respondent has not made any argument or suggestion that the documents were not effective to transfer an interest in the property. The only argument raised by the Respondent was with respect to the timing of the transfer of the interest in the property to 619.
+[39] It is clear that Delta and First Heritage intended to transfer their interest in the real property to 619 at the moment that they were amalgamated under the CUIA. The Amalgamation Agreement provided as follows:
+1.1 In this Agreement:
+…
+(f) “Effective Time” means the commencement of the Amalgamation Date;
+…
+2.2 The amalgamation will be effective as and from the Effective Time.
+…
+8.1 Delta and First Heritage agree that certain assets of each will be surplus to the needs of the Amalgamated Credit Union and will be transferred to a new subsidiary at the Effective Time.
+…
+8.3 At the Effective Time, each of First Heritage and Delta will transfer to the subsidiary those assets determined by the parties prior to the Amalgamation Date to be surplus to the needs of the Amalgamated Credit Union in exchange for Preferred Shares of the subsidiary having an aggregate redemption/retraction amount equal to the fair market value of each asset transferred as agreed on by the parties.
+8.4 Where any property transferred is real property the transfer of which is potentially taxable under the Property Transfer Act (British Columbia), the transferring party and the subsidiary will enter into a bare trust/agency agreement providing that the transferring party remain the registered owner of the real property in trust for the benefit of the subsidiary.
+[40] There are two Memorandums of Agreement – one between Delta (as the Vendor) and 619 (as the Purchaser) and the other between First Heritage (as the Vendor) and 619 (as the Purchaser). Each agreement is “dated effective the ‘Effective Time’ January 1, 2001 as defined in the Amalgamation Agreement between Delta Credit Union and First Heritage Savings Credit Union dated for reference the 1st day of January, 2001”.
+[41] Paragraph 1 of each agreement provided as follows:
+1. Subject to the terms and conditions of this Agreement and based on the warranties and representations herein contained, the Vendor hereby sells and the Purchaser hereby purchases the Assets
+[42] Paragraph 4 of each agreement provided as follows:
+4. The effective date and time of this Agreement and all matters provided for herein shall be the “Effective Time” January 1, 2001 as defined in the Amalgamation Agreement between Delta Credit Union and First Heritage Savings Credit Union dated for reference the 1st day of January, 2001 notwithstanding the actual date of execution of this Agreement or any other documents and deeds made pursuant to this Agreement.
+[43] The agreement between Delta and 619 included a schedule that listed the three real properties that were to be included as the “Assets” for that agreement and the agreement between First Heritage and 619 included a schedule that listed the one real property that was to be included as the “Assets” for that agreement.
+[44] There were also trust agreements between Delta and 619 and between First Heritage and 619 that were “dated effective the ‘Effective Time’ January 1, 2001 as defined in the Amalgamation Agreement between Delta Credit Union and First Heritage Savings Credit Union dated for reference the 1st day of January 2001”. In the Trust Agreements each of Delta and First Heritage confirmed that they had no beneficial interest in the real properties that were subject to the agreements described above.
+[45] It is clear from the documents that were executed that it was the intention of the parties to transfer the beneficial interest in the real properties that were described in the schedules to the memorandums of agreement as of the time of the amalgamation. The Respondent has agreed that the amalgamation occurred at the first moment of time on January 1, 2001. Therefore it is clear that the intention of the parties was to transfer the beneficial interest of Delta and First Heritage in the real properties to 619 as of the first moment of time on January 1, 2001, which was the same moment in time as Delta and First Heritage were amalgamated under the CUIA.
+[46] The Respondent referred to the case of Hauber Contracting Ltd. v. British Columbia, [1984] B.C.J. No. 3100 as authority for the proposition that the transfer of assets could not have occurred at the moment of amalgamation. That case dealt with a provision in the regulations made pursuant to the Social Service Tax Act, R.S.B.C. 1979 Chap. 388. Regulation 3 - 14 provided that a transfer of tangible personal property to a corporation would be exempt from social services tax if, inter alia, the “property is sold to a corporation at the time of its incorporation”.
+[47] Hardinge, Co. Ct. J., stated that:
+8 The wording of regulation 3 - 14 is, on its face, clear enough. Ordinarily the phrase, "at the time of its incorporation", could be equated to "when it is incorporated". It seems the draughtsman intended both events to be concurrent. The difficulty is that when one speaks of "incorporation" as an event, it is impossible to tell after the event the precise moment in time when it took place. This is due to the practice in the office of the Registrar of Companies of stamping the date they are received in his office en documents submitted in conjunction with applications for incorporation. The documents are then vetted by various officials over a period of several days or even, in some cases, weeks. If all is found to be in order the new company will be incorporated. A certificate of incorporation is then issued indicating the incorporation date as the date when the memorandum and articles of association were received in the office of the registrar.
+9 Looking at the matter from the perspective of solicitors engaged in the practice of commercial law, it is not difficult to understand the argument that it would be a practical impossibility to transfer assets to a corporation "at the time of its incorporation" if that phrase is read literally. As stated, a corporation does not come into existance when the last requirement of the Company Act, R.S.B.C. 1979 Chap. 59 has been found to be met. It commences to exist when the registrar issues a certificate of incorporation and published notice of incorporation in the Gazette pursuant to section 9 of the Company Act. The certificate of incorporation is then issued bearing a date which is said (albeit not correctly) to be the date of incorporation.
+10 Even if the date on a certificate of incorporation was the true date of incorporation (there being no provision in the Company Act presuming it to be so), it would still be a virtual impossibility to transfer property to a company "at the time of its incorporation". This is because a solicitor cannot know when he entrusts to the mail service a proposed memorandum of association, articles of association and the prescribed fee, when the documents will reach the office of the registrar or when the incorporation process will be effected. Therefor short of draughting an agreement covering the sale of property to a company it is proposed to incorporate and providing in it that the agreement will come into effect only "if and when the proposed company is incorporated", there would still be no way of complying with the precise wording of the regulation.
+[48] The transfer of assets in this case does not suffer from the same problems identified in the Hauber Contracting Ltd. case. In that case the recipient of the assets would not have existed at the time that the agreement to transfer the assets would have been made as presumably the agreement to transfer assets to the corporation at the time of the incorporation would be made prior to the incorporation of the company. In this case the transferee of the assets did exist prior to the Effective Time as 619 was incorporated prior to January 1, 2001. Since it was acknowledged by both parties that the effective time of the amalgamation was the first moment in time on January 1, 2001, it is clear that the time of the transfer was certain (the first moment of time on January 1, 2001) and this moment in time is simply the reference point to determine the time of the transfer of assets to 619. I do not accept the Hauber Contracting Ltd. case as authority for the proposition that the transfer of assets by Delta and First Heritage to 619 could not have occurred at the Effective Time.
+[49] The Respondent also argued that “an amalgamation that proceeds under the CUIA is necessarily one that meets the description at section 87 of the Act”. Subsection 20(2) of the CUIA provides, in part, that:
+(2) Amalgamating credit unions … together must propose and submit to the commission an amalgamation agreement that
+(a) specifies
+…
+(iii) the manner of carrying the amalgamation into effect,
+[50] The Amalgamation Agreement in this case, clearly provided that in carrying the amalgamation into effect, certain surplus assets would be transferred to a new corporation at the time of the amalgamation. It seems to me that since the CUIA provides that the amalgamating credit unions may determine, pursuant to the amalgamation agreement, the manner of carrying out the amalgamation (subject to the approval of the Financial Institutions Commission as provided in subsection 20(3) of the CUIA), then the amalgamation under the CUIA will be completed in the manner as provided in the amalgamation agreement. The reference in paragraph 23 of the CUIA to the amalgamated credit union being seized of all of the property and being subject to the obligations, would simply mean that the amalgamated credit union would acquire the assets of the predecessor credit unions subject to any obligations of the predecessors. Since the predecessors had the obligation to transfer the assets at the Effective Time, the amalgamated credit union did not acquire full legal and beneficial title to these assets. The amalgamated credit union acquired all of the shares of 619 which had acquired the beneficial interest in the assets (and therefore the Appellant indirectly acquired the beneficial interest) but the Appellant did not directly acquire the beneficial interest in the surplus assets.
+[51] In my opinion the transfer by Delta and First Heritage of their beneficial interest in the real property to 619 occurred, as Delta and First Heritage intended, at the Effective Time. Therefore, as a result, the Appellant did not acquire the beneficial interest in these properties by virtue of the amalgamation and hence the amalgamation of Delta and First Heritage is not an amalgamation as defined in section 87 of the Act.
+Do the tax accounts of Delta and First Heritage flow through to the Appellant?
+[52] Since the amalgamation of Delta and First Heritage is not an amalgamation as defined in subsection 87(1) of the Act, the next issue is whether the tax attributes of Delta and First Heritage would flow through to the Appellant. Most of the discussion during the hearing centered on the preferred rate amount. However the tax liability of the Appellant in each of the years under appeal will be the same whether the preferred rate amount of the Appellant was nil at the commencement of 2001 or whether the preferred rate amount of the Appellant at that time was equal to the combined preferred rate amounts of Delta and First Heritage as of the end of their 2000 taxation years. As a result the determination of the preferred rate amount will not affect the Appellant’s tax liability for any of the years under appeal.
+[53] In Interior Savings Credit Union v. The Queen 2007 FCA 151, [2007] 4 C.T.C. 55, 2007 DTC 5342, the Federal Court of Appeal held that a credit union did not have a right of appeal to this Court when the only issue was the determination of the preferred rate amount following an amalgamation where the preferred rate amount as proposed by the credit union would not reduce the tax liability of the credit union. This is the situation in this case. The preferred rate amount as proposed by the Appellant will not result in any reduction in the taxes payable by the Appellant for any of the years under appeal and therefore is not a matter that can be appealed to this Court.
+[54] The UCC of the assets, on the other hand, does affect the amount that may be claimed as CCA and does affect the amount of taxes payable. Therefore the issue that will be addressed is whether the UCC of the assets of the Appellant as of the commencement of its 2001 taxation year was the original capital cost of the assets to Delta and First Heritage or the UCC of these assets to Delta and First Heritage as of the end of their 2000 taxation years.
+[55] The UCC of assets is determined as provided in subsection 13(21) of the Act. This subsection provides, in part, that:
+“undepreciated capital cost” to a taxpayer of depreciable property of a prescribed class as of any time means the amount determined by the formula
+(A + B + C + D + D.1) – (E + E.1 + F + G + H + I + J + K)
+where
+A is the total of all amounts each of which is the capital cost to the taxpayer of a depreciable property of the class acquired before that time,
+…
+E is the total depreciation allowed to the taxpayer for property of the class before that time,
+[56] It is the position of the Appellant that in applying this formula for the purpose of determining the UCC to the Appellant of each class of its depreciable property, that the amount for A (the capital cost to the Appellant of the depreciable property) is the capital cost of such property to Delta or First Heritage (or to the Appellant for any property acquired after the amalgamation) but in determining the amount for E, only the depreciation allowed to the Appellant following the amalgamation is to be included. It is the Appellant’s position that the depreciation allowed to Delta and First Heritage is not to be included in determining the amount for E in the above formula for the Appellant.
+[57] Justice Dickson (as he then was) writing on behalf of the Supreme Court of Canada in The Queen v. Black and Decker Manufacturing Company Ltd., supra, stated that:
+The Court of Appeal concluded as a matter of construction of the language of s. 137 of the Canada Corporations Act that "liabilities" as used in subs. (13)(b) and (14) could not be interpreted to include criminal liabilities, but in reaching that conclusion it would seem that the Court accepted, as a first step, the proposition that the "new" company, i.e. the amalgamated company, is a different, separate and distinct company from the "old" companies, i.e. the amalgamating companies. Whether an amalgamation creates or extinguishes a corporate entity will, of course, depend upon the terms of the applicable statute, but as I read the Act, in particular s. 137, and consider the purposes which an amalgamation is intended to serve, it would appear to me that upon an amalgamation under the Canada Corporations Act no "new" company is created and no "old" company is extinguished. The Canada Corporations Act does not in terms so state and the following considerations in my view serve to negate any such inference: (i) palpably the controlling word in s. 137 is "continue". That word means "to remain in existence or in its present condition"-Shorter Oxford English Dictionary. The companies "are amalgamated and are continued as one company" which is the very antithesis of the notion that the amalgamating companies are extinguished or that they continue in a truncated state; (ii) the statement in s. 137(13)(b) that the "amalgamated company possesses all the property, rights ..." If corporate birth or death were envisaged, one would have expected to find, in the statute, some provision for transfer or conveyance or transmission of assets and not simply the word "possesses", a word which re-enforces the concept of continuance; (iii) letters patent of amalgamation are obtained for the purpose of "confirming the agreement" (s. 137(11)), in marked contrast to letters patent of incorporation which expressly create a body corporate and politic; (iv) the French version of s. 137(1), perhaps better than the English version, serves to express what has occurred, "Deux ou plus de deux compagnies ... peuvent fusionner et continuer comme une seule et meme compagnie". The effect is that of blending and continuance as one and the selfsame company; (v) the Act contains a number of express provisions whereby the life of corporate creations may be terminated--Videlicet where a company carries on business not within the scope of its objects (s. 5(4)), or forfeits its charter (s. 31), or surrenders its charter (s. 32), or is dissolved (s. 133(11)). The Act is silent on the extinction of companies by amalgamation; (vi) if Parliament had intended that a company by the simple expedient of amalgamating with another company could free itself of accountability for acts in contravention of the Criminal Code or the Combines Investigation Act or the Income Tax Act, I cannot but think that other and clearer language than that now found in the Canada Corporations Act would be necessary.
+…
+On the same date, July 4, 1966, that Jessup J. delivered his reserved judgment in Beamish, Kelly J.A. delivered a reserved judgment of the Court of Appeal for Ontario in Stanward Corporation v. Denison Mines Ltd. [[1966] 2 O.R. 585], the Court consisting of Kelly, Wells and Laskin JJ.A., in which Kelly J.A. said, at p. 592:
+What we have here is an amalgamated company into which, simultaneously, two amalgamating companies have fused along with their assets and liabilities. Under this fusion, and by virtue of its statutory implementation, it may be said, broadly, that the amalgamated company acquired the assets and assumed the liabilities of the two component companies; ...
+and later, on the same page:
+Returning to the view that the amalgamated companies do not form a new company but continue to subsist as one, the conclusion that there is no acquisition is, if anything, more apparent. The language of s. 96 is in my opinion unambiguous in providing that the two amalgamating companies shall continue as one company. While it may be difficult to comprehend the exact metamorphosis which takes place, it is within the Legislature's competence to provide that what were hitherto two shall continue as one.
+Kelly J.A. compared the language of s. 96 of Ontario Statutes 1953, c. 19, upon which the Stanward case was decided, and that of its predecessor, s. 11 of The Companies Act, R.S.O. 1950, c. 59, upon which Regina v. Howard Smith Paper Mills, Ltd. [(1954), 4 D.L.R. (2d) 161], a judgment of my brother Spence, was decided. The earlier legislation referred to the amalgamated corporation as the "new corporation" and spoke of "the corporation so incorporated". The language expressed a clear intention to substitute a new corporation in the place and stead of the amalgamating corporations. By the time the Stanward case fell to be decided, however, the Legislature had re-enacted the section in words which, in the opinion of Kelly J.A., with which I agree, indicated an intention to change the effect of amalgamation. With respect, I am of the view that the observations of Kelly J.A. in Stanward, although perhaps obiter, are sound in law and correctly reflect the consequences of an amalgamation pursuant to the language found in s. 96 of Ontario 1953, c. 19, or pursuant to the substantially similar language found in s. 137 of the Canada Corporations Act.
+…
+It was also submitted that if the amalgamating companies continue in amalgamation, in all their plenitude, then ss. 137(13)(b) and 137(14) are mere surplusage. I would not so regard them. These sections spell out in broad language amplification of a general principle, a not uncommon practice of legislative draftsmen. If ss. 137(13)(b) and 137(14) are to be read, however, as other than merely supportive of a general principle and other than all-embracing, then some corporate incidents, such as criminal responsibility, must be regarded as severed from the amalgamating companies and outside the amalgamated company. What happens to these vestigial remnants? Are they extinguished and if so, by what authority? Do they continue in a state of ethereal suspension? Such metaphysical abstractions are not, in my view, a necessary concomitant of the legislation. The effect of the statute, on a proper construction, is to have the amalgamating companies continue without subtraction in the amalgamated company, with all their strengths and their weaknesses, their perfections and imperfections, and their sins, if sinners they be. Letters patent of amalgamation do not give absolution.
+(emphasis added)
+[58] The CUIA, as did the Canada Corporations Act, provides in paragraph 23(a) that the amalgamating credit unions “are amalgamated and are continued as one credit union”. The CUIA also provides in paragraph 23(b) that “the amalgamated credit union is seized of and holds and possesses all of the property…of each amalgamating credit union”. It seems to me that the principles as stated by the Supreme Court of Canada in the Black and Decker case are applicable to credit unions that have amalgamated under the CUIA.
+[59] It also seems to me that if the depreciation that was claimed by Delta and First Heritage is not carried forward to the Appellant, then something has been subtracted from each of these companies. Since the predecessor companies continue “without subtraction” in the amalgamated company, Delta and First Heritage continued with the depreciation that each such company had claimed.
+[60] The Appellant had argued that the tax accounts (such as the amount of depreciation claimed) of Delta and First Heritage were not assets and therefore did not carry forward to the Appellant on the amalgamation of Delta and First Heritage (since section 87 of the Act was not applicable). However it seems to me that this argument highlights the different basis for the decision of the Ontario Court of Appeal and the Supreme Court of Canada in Black and Decker. The Ontario Court of Appeal had held that “liabilities” would not include criminal liabilities and therefore the amalgamated company could not be held responsible for acts of its predecessors. However, the Supreme Court of Canada held that the issue turned on the consequences of “continuing”. Since the predecessor corporations were continued as one, the amalgamated company could be held responsible for the acts of its predecessor companies. The result did not depend on which liabilities were included in “liabilities” but on the consequences of continuing as one corporation. Therefore whether tax attributes are assets (or liabilities) is irrelevant.
+[61] The Appellant also argued that tax accounts do not flow through following an amalgamation, based on the principles as set out in Black and Decker, and as a result of the decision of this Court and of the Federal Court of Appeal in CGU Holdings Canada Ltd. v. The Queen, 2008 TCC 167 and 2009 FCA 20.
+[62] In CGU Holdings Canada Ltd. the taxpayer was formed as a result of an amalgamation of three companies. This amalgamation was an amalgamation as defined in subsection 87(1) of the Act. One of the predecessor companies was a non-resident-owned investment corporation (an “NRO”) and the other two were not NROs. As a result of paragraph (g) of the definition of an NRO in subsection 133(8) of the Act, the amalgamated company was not an NRO. The issue in that case was whether the amalgamated company could elect, under section 134.1 of the Act, to be an NRO. This election was available to a company that was an NRO in one year but which ceased to be an NRO in the following year. If this election could be made, the next issue was whether the allowable refundable tax on hand of the predecessor that was an NRO flowed through to the amalgamated company.
+[63] Justice Hershfield in his decision in CGU Holdings Canada Ltd. (2008 TCC 167) noted that:
+27 The Appellant went on to recognize that the subsequent decision of the Federal Court of Appeal in Pan Ocean qualified that limitation of paragraph 87(2)(a) by finding that it applied for purposes beyond establishing year ends but was nonetheless limited in its application to computations of the amalgamated corporation's income and where necessary, as a consequence thereof, to its computation of taxable income.*
+(* denotes a footnote reference that was in the original text but which has not been included.)
+[64] Based on this, Justice Hershfield held that “since the election provided for in section 134.1 of the Act does not deal with the calculation of income or taxable income”, paragraph 87(2)(a) of the Act, which deems the amalgamated company to be a new corporation, did not prevent the predecessor that was an NRO from making the election following the amalgamation. He then also found that the allowable refundable tax on hand did not flow through either pursuant to paragraph 87(2)(cc) of the Act or under general principles as a result of the amalgamating companies being continued.
+[65] The Federal Court of Appeal did not agree with the restricted interpretation of its decision in The Queen v. Pan Ocean Oil Ltd., [1994] 2 C.T.C. 143, 94 DTC 6412. Justice Noël writing on behalf of the Federal Court of Appeal in CGU Holdings stated that:
+37 Prior to reaching this conclusion, the Tax Court Judge did hold that GA Scottish had the standing to elect pursuant to subsection 134.1(1) on the basis that it was continued into CGU in accordance with corporate law principles (Reasons, para. 33). According to the Tax Court Judge, paragraph 87(2)(a) did not deem the appellant a new corporation since this provision has no application with respect to Division F, where the NRO provisions are found. He read the decision of this Court in Pan Ocean Oil, supra, as authority for this proposition. With respect, I do not believe that Pan Ocean Oil has the effect which the Tax Court Judge attributed to it.
+…
+40 The only issue which the Court had to decide was whether Pan Ocean Oil was deemed to be a new corporation for purposes of the successor rules. The observation that an amalgamated corporation is "only" a new corporation for the purpose of the computing income under Division B and where necessary as a consequence thereof, to Divisions C and E is obiter. The Court did not decide, let alone consider whether paragraph 87(2)(a) deems an amalgamated corporation to be a new corporation for the purpose of the NRO provisions in Division F.
+41 Considering this question, it is apparent that the new corporation rule in paragraph 87(2)(a) which is said to apply "for the purposes of this Act", would be rendered meaningless in the context of Division F, if its application was restricted, as the appellant suggests, to the computation of income (Division B), and where necessary to the calculation of taxation income (Division C) and tax (Division E). Significantly, this would result in paragraph 133(8)(g), which provides that an amalgamated corporation is not an NRO unless all of its predecessors were NROs, being read out of the Act. In my respectful view there is no reason to exclude Division F and in particular section 134.1 from the application of paragraph 87(2)(a) of the Act.
+42 Since CGU was a "new corporation" pursuant to that provision, it follows that it never was an "NRO in a taxation year" as contemplated by paragraph 134.1(a) and therefore did not have the standing to make the election under that provision.
+[66] Having found that CGU Holdings could not make the election under section 134.1 of the Act, the Federal Court of Appeal did not need to address the issue of whether the allowable refundable tax on hand account of the predecessor flowed through to the amalgamated company[7]. It is clear, in the decision of the Federal Court of Appeal, that it was significant that, as a result of the application of paragraph 87(2)(a) of the Act, the amalgamated corporation was a new corporation. This paragraph of the Act provides that:
+(2) Where there has been an amalgamation of two or more corporations after 1971 the following rules apply:
+(a) for the purposes of this Act, the corporate entity formed as a result of the amalgamation shall be deemed to be a new corporation the first taxation year of which shall be deemed to have commenced at the time of the amalgamation, and a taxation year of a predecessor corporation that would otherwise have ended after the amalgamation shall be deemed to have ended immediately before the amalgamation;
+[67] It also seems clear that in Black and Decker, supra, it was significant that no new corporation was formed. Justice Dickson (as he then was) stated that:
+…Whether an amalgamation creates or extinguishes a corporate entity will, of course, depend upon the terms of the applicable statute, but as I read the Act, in particular s. 137, and consider the purposes which an amalgamation is intended to serve, it would appear to me that upon an amalgamation under the Canada Corporations Act no "new" company is created and no "old" company is extinguished.
+[68] In National Bank of Canada v. British Columbia, 48 B.C.L.R. (2d) 45, [1991] 2 C.T.C. 189, Justice Boyd of the British Columbia Supreme Court held that the principles as set out in Black and Decker did not apply to an amalgamation under the Bank Act as a bank is “created” on the amalgamation. Justice Boyd made the following comments:
+I agree with the petitioner's counsel that the reasoning in Black & Decker (supra) cannot be applied here since the specific language of the Canada Corporations Act, which is distinguishable from that in the Bank Act, dictated the result there. In Black & Decker the Court placed great weight upon the use of the word "continue" in s. 137….
+…
+In the case at bar, in contrast to the language considered by the Court in Black & Decker and Stanward, the legislation specifically provides that a newly amalgamated bank is "created" by the letters patent (s. 256(2)) and that the bank "created" by the letters patent is subject to all the liabilities set out in the Act (s. 256(3)). I reject the Minister's counsel's submission that the word "create" is used, not in the sense that a new bank is created which replaces that original bank, but rather that the newly created bank allows the original amalgamating banks to carry on. If that was the case, the word "created" would be superfluous. In my view, while the language of the statute does not contemplate the extinguishment of the two amalgamating banks, but rather "the continuing as one corporation and bank...", the statute clearly does contemplate the emergence or creation of a new entity. (Deltona Corporation v. Min. of National Revenue, 71 DTC 5196, (Exch. Ct. of Canada); on appeal 73 DTC 5180 (S.C.C.); Allendale Mutual Insurance Co. v. Her Majesty the Queen, 73 DTC 5382 (Fed. Ct.))
+(emphasis added)
+[69] Therefore the principles applicable to companies that amalgamate as set out in Black and Decker will not apply if a new corporation is created on an amalgamation. Since paragraph 87(2)(a) of the Act (which applies to an amalgamation as defined in subsection 87(1) of the Act) deems the amalgamated corporation to be a new corporation, the principles applicable to companies that amalgamate as set out in Black and Decker will not apply, for the purposes of the Act, to a merger that satisfies the definition of amalgamation as set out in subsection 87(1) of the Act. Since the amalgamation in the CGU Holdings case was an amalgamation as defined in subsection 87(1) of the Act and therefore paragraph 87(2)(a) of the Act was applicable, any comments of Justice Hershfield in CGU Holdings that tax accounts do not flow through under the principles of the decision of the Supreme Court of Canada in Black and Decker are therefore consistent with this conclusion that these principles do not apply when a new corporation is created.
+[70] In this case since the merger of Delta and First Heritage is not an amalgamation as defined in subsection 87(1) of the Act and therefore paragraph 87(2)(a) of the Act is not applicable to deem the amalgamated corporation to be a new corporation, the principles in Black and Decker, supra, will be applicable to the Appellant. As a result Delta and First Heritage are continued without subtraction and therefore are continued with the amounts that had been allowed to each of them for depreciation.
+[71] Counsel for the Appellant also argued that “for Federal tax purposes a Provincial statute that deems an Amalco to be a continuation of its predecessors cannot have the effect of flowing through notional federal tax accounts”. There were five reasons provided. The first reason was stated as follows:
+As noted by this Court in CGU, paragraph 23(a) says Amalco is a “continuation” of the Predecessors, but does not say it is the “same” as the predecessors and it is not the same. One may compare section 108 of the BC Income Tax Act, Tab 79. So when one asks of Envision, what is this taxpayer’s PRA or UCC, one cannot simply add together the Predecessors’ PRAs or UCCs; it is not the same taxpayer as the Predecessors. The Court in CGU held expressly that Black & Decker did not stand for that principle.
+[72] As I had indicated above, the CGU Holdings case is not applicable in this case because the amalgamation in that case was an amalgamation as defined in subsection 87(1) of the Act and therefore the amalgamated company was deemed to be a new corporation for the purposes of the Act and the principles in Black and Decker would not apply to determine whether tax accounts would flow through following such an amalgamation for the purposes of the Act. In this case, the amalgamation of Delta and First Heritage was not an amalgamation as defined in subsection 87(1) of the Act and it does, as I had noted above, seem to me that if the depreciation that had been allowed to Delta and First Heritage is not recognized by the Appellant, then Delta and First Heritage would not be continued without subtraction. To not include the depreciation that had been allowed to Delta and First Heritage would be to subtract this claim and in my opinion would not be the correct result based on the statement of Justice Dickson (as he then was) that:
+The effect of the statute, on a proper construction, is to have the amalgamating companies continue without subtraction in the amalgamated company, with all their strengths and their weaknesses, their perfections and imperfections, and their sins, if sinners they be.
+(emphasis added)
+[73] Counsel for the Appellant also submitted the following arguments:
+Subsection 87(2.1) of the Act prevents losses from flowing through on an amalgamation. If losses “continue” under paragraph 23(a) of the CUIA, the result will be that the CUIA permits a federal tax account to flow through that which Parliament has proscribed from flowing through. That would be unconstitutional
+…
+The difference between Black & Decker and this case is that it dealt with a Federal corporate statute that provided that the predecessors would continue as one company and the Court applied that to a Federal statute. In this case, the Crown seeks to rely on a Provincial law to determine the Federal tax attributes of a corporation. The cases are not the same, as the Court in CGU recognized.
+[74] Both of these arguments are based on the premise that an amalgamation under a provincial statute (the CUIA in this case) cannot affect matters that are dealt with in a federal statute (the Act in this case). There are two cases that are cited in support of the proposition as stated in the first paragraph referred to above. The first case is the decision of the Provincial Court Judge in R. v. Black and Decker Manufacturing Co. Ltd., (1972), 9 C.P.R. (2d) 129 (which was eventually appealed to the Supreme Court of Canada). In this decision, the Provincial Court Judge referred to the decision of Justice Jessup[8] of the Ontario High Court of Justice (as he then was) in R. v. J. J. Beamish Construction Co. Ltd. (1966), 59 D.L.R. (2d) 6 (which is the other case that is cited) in which Justice Jessup stated that:
+…”Liabilities” in s. 96(4) cannot be taken to include criminal liabilities which would involve ultra vires legislation by the Province on a matter of criminal law.
+[75] Justice Jessup noted that subsection 96(4) of the Corporations Act of Ontario (at that time) provided that:
+96(4) If the agreement is adopted in accordance with subsection 3, the amalgamating companies may apply jointly to the Lieutenant Governor for letters patent confirming the agreement and amalgamating the companies so applying, and on and from the date of the letters patent such companies are amalgamated and are continued as one company by the name in the letters patent provided, and the amalgamated company possesses all the property, rights, privileges and franchises and is subject to all liabilities, contracts, disabilities and debts of each of the amalgamating companies.
+[76] Subsection 137(13) of the Canada Corporations Act RSC 1970, c-32, which was the statute considered by the Supreme Court of Canada in its decision in Black and Decker, provided as follows:
+(13) Upon the issue of letters patent pursuant to subsection (11), the amalgamation agreement has full force and effect and
+(a) the amalgamating companies are amalgamated and are continued as one company (in this section called the "amalgamated company") under the name and having the authorized capital and objects specified in the amalgamation agreement; and
+(b) the amalgamated company possesses all the property, rights, assets, privileges and franchises, and is subject to all the contracts, liabilities, debts and obligations of each of the amalgamating companies.
+[77] There are two general consequences that are identified when companies amalgamate:
+(a) they continue as one; and
+(b) the amalgamated company possesses all of the property and is subject to all of the liabilities of the predecessor corporations.
+[78] The Ontario Court of Appeal in Black and Decker focused on the second aspect – that the amalgamated company is subject to all of the liabilities of the predecessor companies. This is also clearly the focus of Justice Jessup in the J. J. Beamish case. In the decision of the Supreme Court of Canada in Black and Decker, there is a reference to the decision of the Ontario Court of Appeal (that was being appealed) which includes the following from the judgment of the Ontario Court of Appeal:
+The case narrows down in the end to the question whether subsection (13)(b) of s. 137, in making the new company "subject to all the liabilities" of each of the old companies, imposes upon the new company criminal liability of one of the old companies.
+[79] However the Supreme Court of Canada decided the Black and Decker case based on the consequences of the amalgamating companies continuing as one. This is based on paragraph 137(13)(a) and not (b) of the Canada Corporations Act. It therefore seems to me that the comments of Justice Jessup in J. J. Beamish and of the Provincial Court Judge in Black and Decker, would no longer be relevant as the Supreme Court of Canada decided Black and Decker on a different basis and it is this different basis that would support a finding that the Appellant would have to recognize and take into account the depreciation that had been claimed by Delta and First Heritage[9].
+[80] A similar argument was also raised in R. v. Mercantile Distributing Ltd., (1975) 61 D.L.R. (3d) 481. Justice Munroe of the British Columbia Supreme Court stated as follows:
+6 Counsel for the respondent seeks to distinguish the present case from that authority on the grounds that (1) the amalgamation in the latter occurred under an act of Parliament which, unlike the provincial Legislature, has jurisdiction in criminal matters and (2) in the Black & Decker case the amalgamated company was held to be responsible and liable to prosecution for the acts prior to amalgamation of the constituent companies but here the Crown seeks not to prosecute the amalgamated company but to invoke remedies against it in respect of a sentence imposed against one of the constituent companies prior to amalgamation, and (3) the relief sought herein by the Crown is available only in respect of a fine imposed under Section 647 of the Criminal Code and not for a fine imposed under the Income Tax Act as this one was. I cannot agree. I reject each of those submissions and hold that upon amalgamation the amalgamated company became liable to the Crown for payment of the fine imposed upon the old company by virtue of Section 272 of the Companies Act, it being a liability and obligation of the old company, and that Section 648 of the Criminal Code being in part 20 of the Criminal Code which deals with "punishment generally" is a section of general application which authorizes the relief claimed herein by the Crown.
+7 It seems to me that it makes no sense to hold that an old company can be traced through amalgamation so as to allow the amalgamated company to be convicted of the crime of the old company and to be liable for the punishment yet, on the other hand, to hold that if the old company has been found guilty before amalgamation the amalgamated company is exempt from such liability.
+8 The provincial statute does not purport to make the amalgamated company criminally liable. The liability is simply a logical result of the finding that the old company continues to exist, as the Supreme Court of Canada has held.
+(emphasis added)
+[81] In this case the requirement of the Appellant to recognize and account for the depreciation that was allowed to Delta and First Heritage is not as a result of the CUIA mandating that tax accounts relevant for the purposes of the Act flow through on an amalgamation under the CUIA, but, as stated by Justice Munroe, it “is simply a logical result of the finding that the old compan[ies] continue[] to exist, as the Supreme Court of Canada has held”.
+[82] Counsel for the Appellant also argued that:
+The Act was amended in 1979 to add subsection 87(9)*, dealing with triangular amalgamations, a transaction permitted under corporate law but not yet recognized by the Act (as noted by the Explanatory Note to that subsection). The purpose of doing this was to ensure that tax accounts would flow through on a triangular amalgamation. Similarly, for many years after Black & Decker was decided, the Act has been amended to allow various new tax [sic] accountants to flow through*. Why do any of that if Amalco as a continuation of the predecessors has all its tax attributes anyway? It would make all of section 87 and every other section that refers to section 87 redundant, contrary to the conclusion of this Court in CGU.
+(* denotes a footnote reference that has not been included)
+[83] A triangular amalgamation would not satisfy the definition of “amalgamation” in subsection 87(1) of the Act in the absence of subsection 87(9) of the Act. As noted below, there were conflicting opinions expressed in published articles and texts with respect to the issue of whether the tax accounts would flow through to an amalgamated company following an amalgamation that did not satisfy the definition of amalgamation in subsection 87(1) of the Act. Parliament can hardly be criticized for wanting to bring certainty to a situation where the result was uncertain.
+[84] Since Parliament included paragraph 87(2)(a) in the Act (which deems the amalgamated corporation to be a new corporation), as noted above, the principles as set out in Black and Decker will not apply to a merger that is an amalgamation as defined in subsection 87(1) of the Act. Therefore it is necessary to identify which accounts will flow through to this “new” corporation. The fact that the net result in relation to particular tax accounts, such as the UCC of assets of particular classes of property, may be the same by applying the principles in Black and Decker and the provisions of paragraph 87(2)(d) of the Act simply means that this was the desired result. In Black and Decker Justice Dickson (as he then was) faced a similar argument. He stated as follows:
+It was also submitted that if the amalgamating companies continue in amalgamation, in all their plenitude, then ss. 137(13)(b) and 137(14) are mere surplusage. I would not so regard them. These sections spell out in broad language amplification of a general principle, a not uncommon practice of legislative draftsmen.
+[85] It seems to me that Parliament was simply setting out the detailed rules in section 87 of the Act in relation to the consequences under the Act of amalgamating two or more corporations and, as noted above, since paragraph 87(2)(a) of the Act deems the amalgamated corporation to be a “new” corporation, it then became necessary to specify the various tax consequences arising from the amalgamation. It also appears that not all tax consequences would be the same. For example, paragraph 87(2)(e.4) of the Act provides, in the circumstances as set out in this paragraph, that the cost to the new corporation of a mark-to-market property will be its fair market value, which would not be the same result if the principles as set out in Black and Decker were applied.
+[86] Counsel for the Appellant also argued that:
+More generally, under Black & Decker, if a predecessor actually did something that is a matter of historical fact (spent money, caused pollution), then Amalco, as a “continuation” of the predecessor, can be seen to have done that same thing. The actions or inactions of a predecessor “continue” to be the actions or inactions of Amalco. It is notable that in Black & Decker it was the Amalco which was charged for the offenses of its predecessor, but the Supreme Court did not say that it was the predecessor’s “liability” that was continued in Amalco, but the corporate act itself. They continue with “their sins, if sinners they be.” This is how the Supreme Court got around the Court of Appeal’s finding that “liability” could not extend to a criminal liability without an express provision to that effect in the Criminal Code. But merely having some notional tax account is not an action or inaction by the predecessor, it is not a matter of historical fact, and therefore is not carried forward into Amalco under paragraph 23(a). If a river is a continuation of two streams, the fact that one stream is 5 feet deep and the other stream is 10 feet deep does not mean the river is 15 feet deep, it may be 1 foot deep or 20 feet deep.
+[87] In this case Delta and First Heritage did take an action – they each claimed depreciation in their corporate tax returns. This depreciation was allowed and hence for the purposes of “E” in the definition of “undepreciated capital cost” in paragraph 13(21)(f) of the Act, the total depreciation allowed to Delta and First Heritage would be the total depreciation allowed as a result of the action of each of these companies in claiming CCA in their tax returns. Since depreciation is a discretionary deduction (paragraph 1100(1)(a) of the Income Tax Regulations refers to “such amount as he may claim”), Delta and First Heritage would have to take the action of claiming depreciation in order for the depreciation to be allowed. Therefore this is not a basis for distinguishing the decision of the Supreme Court of Canada in Black and Decker. With respect to the river analogy to which the Appellant referred, it seems to me that the depth of the river is not relevant but what is relevant is the amount of water in the combined river (which would be the total combined amount of water of the streams that came together) and what was in or floating on the water as the combined river would have whatever was in or floating on the streams that came together.
+[88] As a result, in determining the UCC of the depreciable assets of the Appellant, the amount allowed to each of Delta and First Heritage as depreciation is to be deducted. Therefore the opening balance of the UCC of any particular class of depreciable property to the Appellant as of January 1, 2001 would be equal to the aggregate closing balances of UCC of such class of depreciable property to Delta and First Heritage as of December 31, 2000.
+[89] Although the preferred rate amount is not relevant in determining the amount of tax payable by the Appellant for any of the years under appeal, it also seems to me that since Delta and First Heritage were continued “without subtraction” then in determining the preferred rate amount of the Appellant for its 2001 taxation year, the balance of the preferred rate amounts of each of Delta and First Heritage as of December 31, 2000 should have been included.
+[90] The Appellant was also reassessed for 2001 to include in its income the allowance for doubtful debts in the amount of $851,649. It seems to me that since Delta is continued “without subtraction”, then this amount should also have been included in the income of the Appellant for 2001. This failure to include this amount only affects the reassessment for 2001 and therefore it will be necessary to determine if the reassessment of the Appellant’s 2001 taxation year was properly issued. There was also a reference in the Reply to excess tax reserves of $888,291 that had been deducted by Delta in computing its income for its 2000 taxation year. These “extra tax reserves” will be discussed more fully below.
+[91] Since GAAR was raised as an alternative argument as outlined above, and since I have determined that in determining the UCC of each class of depreciable property to the Appellant the amount of depreciation allowed to each of Delta and First Heritage must be deducted, whether GAAR would apply if my finding would have been different, is not relevant.
+Reassessment of 2001
+[92] In this case, there were two reassessments issued in relation to the 2001 taxation year. The first reassessment was dated May 23, 2006 and, in addition to the matters under appeal, also included other amounts. The Appellant was again reassessed in relation to its 2001 taxation year on April 22, 2008 to remove the other amounts from its income. The Appellant’s 2001 taxation year was initially assessed on September 25, 2002. Therefore the first reassessment of the Appellant in relation to its tax liability for its 2001 taxation year was made more than three years after it was originally assessed for this year.
+[93] During the course of the proceeding the Respondent acknowledged that the Appellant was a Canadian-controlled private corporation and therefore its normal reassessment period was three years. It is the position of the Respondent, however, that the Appellant could be reassessed after the expiration of its normal reassessment period as a result of the provisions of subparagraph 152(4)(a)(i) of the Act which provides that:
+(4) The Minister may at any time make an assessment, reassessment or additional assessment of tax for a taxation year, interest or penalties, if any, payable under this Part by a taxpayer or notify in writing any person by whom a return of income for a taxation year has been filed that no tax is payable for the year, except that an assessment, reassessment or additional assessment may be made after the taxpayer's normal reassessment period in respect of the year only if
+(a) the taxpayer or person filing the return
+(i) has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return or in supplying any information under this Act,
+[94] Initially the Respondent was arguing that the Appellant had made a misrepresentation by identifying itself as an “Other Corporation” and not as a Canadian-controlled private corporation on the first page of its tax return. However subsection 137(7) of the Act provides that:
+(7) Notwithstanding any other provision of this Act, a credit union that would, but for this section, be a private corporation shall be deemed not to be a private corporation except for the purposes of sections 123.1, 125, 127, 127.1, 152 and 157 and the definition “small business corporation” in subsection 248(1) as it applies for the purposes of paragraph 39(1)(c).
+[95] Therefore a credit union is a private corporation for the purposes of some sections of the Act but not for others. Therefore since the only other categories on the first page of the income tax return were:
+(a) Canadian-controlled private corporation;
+(b) Other private corporation;
+(c) Public corporation; and
+(d) Corporation controlled by a public corporation
+it seems to me that the only logical choice available to the Appellant was to identify itself as an “Other Corporation” and to then specify that it was a credit union, which it did. Only during closing arguments did counsel for the Respondent indicate that the Respondent was no longer relying on the identification of the Appellant as an “Other Corporation – Credit Union” as a misrepresentation.
+[96] In Nesbitt v. The Queen, 96 DTC 6588, Justice Strayer, on behalf of the Federal Court of Appeal, stated that:
+8 Even assuming that the letter of August 6, 1986, could be taken to prove the Minister's knowledge by that date (two months prior to expiry of the four-year limitation period) of the true facts and that there had been a misrepresentation, I do not believe this assists the appellant. It appears to me that one purpose of subsection 152(4) is to promote careful and accurate completion of income tax returns. Whether or not there is misrepresentation through neglect or carelessness in the completion of a return is determinable at the time the return is filed. A misrepresentation has occurred if there is an incorrect statement on the return form, at least one that is material to the purposes of the return and to any future reassessment. …
+(emphasis added)
+[97] In this case the amount stated to be the preferred rate amount did not affect the liability of the Appellant under the Act for 2001. Therefore it seems to me that the Appellant’s statement that the preferred rate amounts of Delta and First Heritage were not to be included in determining its preferred rate amount (which was made by the Appellant in its 2001 income tax return by stating that its preferred rate amount for the previous year was nil) was not material for the purposes of the return and would not be a relevant misrepresentation for the purposes of subsection 152(4) of the Act. In any event, subsection 152(4.01) of the Act provides that:
+(4.01) Notwithstanding subsections (4) and (5), an assessment, reassessment or additional assessment to which paragraph (4)(a), (b) or (c) applies in respect of a taxpayer for a taxation year may be made after the taxpayer's normal reassessment period in respect of the year to the extent that, but only to the extent that, it can reasonably be regarded as relating to,
+(a) where paragraph (4)(a) applies to the assessment, reassessment or additional assessment,
+(i) any misrepresentation made by the taxpayer or a person who filed the taxpayer's return of income for the year that is attributable to neglect, carelessness or wilful default or any fraud committed by the taxpayer or that person in filing the return or supplying any information under this Act, or
+[98] Therefore the reassessment issued after the normal reassessment period must relate to the misrepresentation. Since including the preferred rate amounts for Delta and First Heritage in calculating the preferred rate amount for the Appellant does not affect the tax liability of the Appellant for 2001, no reassessment could be issued in relation to the understated preferred rate amount for 2001 and this understated amount could not support a reassessment for some other matter.
+[99] Counsel for the Respondent, in closing argument, also submitted that the Appellant had made other misrepresentations by:
+b) overstating its opening UCC balances by $30,876,531 by failing to account for previous total depreciation allowed to the Predecessors;
+c) understating its taxable income by the amount of $5,527,968 in respect of overstated CCA; and
+d) understating its taxable income by the amount of $1,739,950 in respect of its failure to add back various reserves claimed by the Predecessors.
+[100] There was very little evidence during the hearing related to the reserves. In the Amended Notice of Appeal, under the heading “other amounts reassessed for 2001 – 2004”, it is stated that:
+1.44 In the First 2001 Reassessment the Minister included in Amalco’s income an allowance for doubtful debts deducted by Delta in its 2000 taxation year in the amount of $851,659.
+…
+1.47 In the First 2001 Reassessment the Minister included in Amalco’s income $888,291 as a reserve deducted by Delta or as prepaid expenses deducted by Delta in its 2000 taxation year.
+[101] In the Amended Notice of Appeal under the heading “Issues”, it is stated that:
+2.3 Was the Amalgamation a Section 87 Amalgamation such that the UCC of [sic] $20,103,22, the $851,659 and the $888,291 referred to above flowed through to Amalco or alternatively did these amounts flow through to Amalco under the CUIA or subsection 245(2)?
+[102] In the Amended Notice of Appeal under the heading “Reasons Relied on” – part “(b) other issues”, it is stated that:
+3.10 In respect of the $851,659 referred to above, this inclusion was based on the assumption that the Amalgamation was a Section 87 Amalgamation or that the CUIA or GAAR applied and therefore was incorrect. In any event, the amount that should have been included is not more than $851,649.
+3.11 In respect of the $888,291 referred to above, this inclusion was based on the assumption that the Amalgamation was a Section 87 Amalgamation or that the CUIA or GAAR applied and was therefore incorrect.
+[103] There was no admission in paragraph 3.11 (as there was in paragraph 3.10) that the amount that should have been included in any event was not more than $888,291.
+[104] In paragraph 21 of the Reply it is stated that the Appellant was reassessed in relation to its 2001 taxation year to include in income:
+b) …
+ii) …other tax reserves deducted in the 2000 taxation year by Delta in the amount of $888,291 (the “Excess Tax Reserves”),
+iii) …an allowance for doubtful debts deducted in the 2000 taxation year by Delta in the amount of $851,659 (the “Doubtful Debt Allowance”).
+[105] Then Chief Justice Bowman in Mensah v. The Queen, [2008] T.C.J. No. 302, 2008 DTC 4358 stated that:
+8 The fourth preliminary point is that the assessment for the 1993 taxation year is statute-barred. The onus is upon the Minister to establish the facts justifying the reassessment of the 1993 taxation year beyond the normal reassessment period. The provisions of the Income Tax Act permitting the Minister to open up statute-barred years have evolved and the evolution was summarized in 943372 Ontario Inc. v. R., 2007 D.T.C. 1051; [2007] 5 C.T.C. 2001 at paragraph 18:
+18 The evolution of these provisions can be briefly summarized as follows: originally, subsection 152(4) permitted the Minister to open up a statute-barred year for all purposes if he could find any misrepresentation of the type described in subsection 152(4), however small, and reassess any items whether the subject of any type of misrepresentation or not. This obviously appeared somewhat unfair and the result was paragraph 152(5)(b) which was introduced in 1973-1974 with effect from 1972. This provision permitted the taxpayer to establish that the omission of an amount of income was not the result of a misrepresentation that was attributable to neglect, carelessness, wilful default or fraud. Nonetheless it did cast on the taxpayer an onus. Subsection 152(4.01) was therefore introduced and its effect, according to Mr. Kutkevicius, is to remove that onus from the taxpayer and put a two-fold onus on the Minister to establish:
+(a) that there was misrepresentation, and
+(a) that the misrepresentation was attributable to neglect, carelessness, wilful default or fraud.
+I think this is the correct interpretation. If the onus that was imposed on the taxpayer under former paragraph 152(5)(b) survived the amendment to subsection 152(5) and the enactment of subsection 152(4.01), subsection (4.01) would have no purpose.
+(emphasis added)
+[106] Therefore the onus was on the Respondent to not only establish that there was a misrepresentation with respect to the omission of these amounts from the income of the Appellant, but also that the “misrepresentation was attributable to neglect, carelessness, wilful default or fraud”.
+[107] A copy of Delta’s income tax return for its taxation year ending December 31, 2000 that was originally filed and a copy of the amended income tax return for this year were introduced into evidence. The amended income tax return was accepted by the Canada Revenue Agency or its predecessor (the “CRA”) and resulted in a reassessment in April 2002. In the original return, Schedule 1 and Schedule 13 show that the following reserves were claimed by Delta in computing its income for this year:
+Reserve for Doubtful debts: $851,649
+Other tax reserves: $888,291
+Total: $1,739,940
+[108] In the amended income tax return for Delta for this taxation year, Schedule 13 only shows one amount for reserves - $851,649 as a reserve for doubtful debts. It is not obvious where this reserve amount of $851,649 appears on Schedule 1. On Schedule 1 there is an amount identified as “Deferred and prepaid expenses” in the amount of $888,291. It is not at all clear why these “deferred and prepaid expenses” were deducted in computing the income of Delta for 2000.
+[109] The tax return for the Appellant for its 2001 taxation year was also introduced into evidence. It seems clear from this tax return that no amount was included in Schedule 13 for reserves claimed in the previous year. However, since the amended income tax return for Delta only included the reserve for doubtful debts of $851,649 arguably only the amount of $851,649 should have been included in Schedule 13 for the Appellant for 2001 as the balance at the beginning of this year.
+[110] The net income of the Appellant for 2001 as stated in Schedule 1, after taxes (as per the financial statements) was $9,777,931. It is not possible to determine from the information provided whether this income amount includes the amount deducted previously as either “other tax reserves” or “deferred and prepaid expenses”. It is also not clear why the amount identified as “other tax reserves” in the original return and “deferred and prepaid expenses” in the amended return would be included in the income of the Appellant for 2001.
+[111] The only evidence at the hearing directly related to these two amounts was submitted by Thomas Webster who was the Vice-President – Finance for Delta and the Appellant and by James Thatcher, the auditor for the CRA. Thomas Webster, during direct examination by counsel for the Appellant, stated that:
+Q And then the third point I wanted to ask you about is something that's not in this return. And it has to do with Delta's loan loss reserves. In its 2000 tax year, Delta took a reserve for a bad debt in the amount of $800,000, some rough number like that. Is that correct?
+A That sounds about right, yes.
+Q And normally either Delta or -- on a Section 87 amalgamation, the amalgamated company would have to bring that reserve back into income in 2001, and then possibly deduct it again if it was still bad. You're aware of that?
+A I am aware of that, yes.
+Q But Envision didn't do that. Envision didn't bring this loan loss reserve back into income in its 2001 year. It's nowhere in this return, that income addition. Did you think that was correct, not to include that reserve back into income in 2001?
+A I also thought that was correct.
+[112] It seems clear that this testimony is restricted to the amount claimed as a reserve for doubtful debts in the amount of $851,649. There is no reference to the amounts deducted as either “other tax reserves” or “deferred and prepaid expenses” by Delta in the amount of $888,291.
+[113] During the direct examination of James Thatcher by counsel for the Respondent, the following exchange took place:
+Q And are you able to say by looking at the schedules, or by referring to your own recollection, of what -- obviously the adjustments to the capital cost allowance revision made by the Minister in 2001 and in all the other taxation years currently under appeal, that would have had, I take it, an impact in terms of the appellant's taxable income, would it?
+A Oh, yes, it did. Your Honour, as a result of this audit, we issued reassessments of taxes payable for Envision, for its 2001, '02, '03 and '04 years. In each of those years, the reassessed additional amount of taxes payable resulted from our disallowance of the CCA in the amounts computed on the schedules that we just went through, the amount of CCA adjustments. The only other thing that resulted in taxes payable in the years under assessment was the Minister adding back to Envision's 2001 tax year the amount of reserves in the amount of about one and a half million dollars, that Delta, the predecessor Delta, had been allowed at the end of its previous -- its 2000 year, Delta claimed reserves of 1.5 million and the Minister added Delta's reserve back to Envision's income in 2001. Those are the adjustments that resulted in the taxes payable, with regard to the notices of reassessment that were issued.
+Q And can you tell His Honour off the top of your head, in dollars and cents, the tax consequence of the Minister's adjustments to the CCA in let's say in 2001? Do you know how much that was, approximately?
+A I would prefer to refer to the notice of reassessment, if I may. It's --
+[114] This testimony does not assist the Respondent in establishing that the Appellant had made a misrepresentation by failing to include $888,291 in its income that had been deducted by Delta as either “other tax reserves” or “deferred and prepaid expenses” in computing its income for its 2000 taxation year. Since the amount of $888,291, in the amended income tax return, was not claimed as a reserve, and since this return has been accepted by the CRA, simply stating that the amounts claimed as a reserve by Delta were added to the income of the Appellant, does not assist the Respondent in establishing that this amount of $888,291 should have been included in the Appellant’s income for 2001. The Respondent has failed to establish that the Appellant did not include this amount in its income for 2001 and that the Appellant should have included this amount in its income for 2001. The Respondent has failed to establish that the Appellant made any misrepresentation in its 2001 income tax return in relation to this amount of $888,291.
+[115] However it does seem to me that the Respondent has established that the Appellant overstated the UCC to the Appellant of each class of depreciable property (as a result of failing to include the depreciation that had been allowed to Delta and First Heritage) and failed to include the reserve for doubtful debts that had been deducted by Delta in its taxation year ending December 31, 2000. These statements were material for the purposes of the return. The next issue is whether these statements were “attributable to neglect, carelessness or wilful default”. There was no suggestion that the Appellant had committed any fraud in filing its tax return for 2001.
+[116] In The Queen v. Regina Shoppers Mall Limited, [1991] 1 C.T.C. 297, 126 N.R. 141, 91 DTC 5101 the Federal Court of Appeal approved the following comments of Justice Addy:
+7. …Where a taxpayer thoughtfully, deliberately and carefully assesses the situation and files on what he believes bona fide to be the proper method there can be no misrepresentation as contemplated by section 152 (1056 Enterprises Ltd. v. Canada, [1989] 2 C.T.C. 1, 89 D.T.C. 5287). In Levy (J.) v. Minister of National Revenue, [1989] C.T.C. 151, 89 D.T.C. 5385 at 176 (D.T.C. 5403), Teitelbaum, J. quotes with approval the following statement by Muldoon, J. in the above case:
+Subsection 152(4) protects such conduct, and perhaps only such conduct, where the taxpayer thoughtfully, deliberately and carefully assesses the situation as being one in which the law does not exact the reporting of that which the taxpayer bona fide believes does not exist.
+[Emphasis added by Justice Addy and Justice MacGuigan.]
+It has also been established that the care exercised must be that of a wise and prudent person and that the report must be made in a manner that the taxpayer truly believes to be correct. ...
+[117] The parties referred to two technical interpretations (dated September 30, 1988 and December 2, 2000), two rulings (one undated but it appears to have been issued in 1989 and the other one is dated January 1, 2005) and one consultation (dated January 12, 2006) issued by the CRA. The auditor for the CRA acknowledged that the ruling that appears to have been issued in 1989 was not available to the public prior to the Appellant being reassessed and was only made available to counsel for the Appellant after the Appellant had been reassessed. He also acknowledged that there were no documents that had been issued by the CRA and that were available to the public at the time that the Appellant filed its tax return for 2001 that contradicted the statements made by the CRA in the 1988 and in the 2000 technical interpretations. The 1988 technical interpretation provided as follows:
+This is in response to your letter of May 12, 1988 wherein you requested our opinions as to the income tax implications of an amalgamation that does not meet the requirements of subsection 87 (1) of the Act.
+Any merger carried out under a Canadian statute that provides that the predecessors continue their existence in the merged corporation, the property of the predecessors is not disposed of or deemed to be disposed of. However, the tax accounts and other tax attributes of the predecessors are not “acquired” by the merged corporation. This conclusion follows from the existence of the rules of subsection 87 (2) of the Act that provide for the tax accounts to “flow through” to the merged corporation. Such rules would be redundant if the tax attitudes of the predecessor became attributes of the merged corporation in any event.
+Finally the shareholders and debtholders of the predecessor corporations dispose of their shares or debt for an amount equal to the fair market value of the shares and debt of the merged company that are issued on the merger.
+[118] The 2000 technical interpretation stated the same result for tax accounts. This technical interpretation provided that:
+This is in reply to your letter of January 19, 2000, wherein you requested our comments in respect of the tax implications of an amalgamation that does not meet the requirements of subsection 87 (1) of the Income Tax Act (the “Act”) (a “non-qualifying amalgamation”). In particular, you enquire as to whether the tax accounts and other tax attributes of a predecessor corporation would flow through to the merged corporation in a non-qualifying amalgamation where the merger is carried out under a Canadian statute that provides that the predecessor corporations continue their existence in the merged corporation.
+It is our position that the tax accounts and other tax attributes of the predecessor corporations are not “acquired” by the merged corporation in a non-qualifying automation. This conclusion follows from the existence of the rules of subsection 87 (2) of the Act that provide for the tax accounts to flow through to the merged corporation. Such rules would be redundant if the tax attributes of the predecessor corporations became attributes of the merged corporation in any event.
+We trust the above comments are of assistance to you. However, as noted in Information Circular 70 -- 6R3 issued on December 30, 1996, the above comments are not binding on the Canada Customs and Revenue Agency.
+[119] As noted by Justice Strayer, on behalf of the Federal Court of Appeal, in Nesbitt, supra:
+8 … Whether or not there is misrepresentation through neglect or carelessness in the completion of a return is determinable at the time the return is filed.
+[120] Therefore since the ruling that appears to be dated in 1989 was not available to the public at the time that the Appellant’s 2001 income tax return was filed in 2002 it is not relevant in determining whether the misrepresentation made in this return was “attributable to neglect, carelessness or wilful default”. Similarly the ruling issued in 2005 and the consultation dated in 2006 are not relevant for this purpose.
+[121] The technical interpretations that are relevant in relation to this issue both state it is the position of the CRA that the tax accounts and other tax attributes do not flow through to the merged corporation if the amalgamation is not an amalgamation as defined in subsection 87(1) of the Act. During his testimony, James Thatcher, the auditor with the CRA, stated that:
+A "Cost amount" is a defined term under the Income Tax Act with respect to, for example, depreciable property, cost amount means "the undepreciated capital cost of those depreciable properties". It would be a tax account or tax attribute. It would be considered a tax account or tax attribute by the Canada Revenue Agency.
+With respect to "cost", not necessarily tax account in itself. "Capital cost" is a tax term but "cost" is a more general commercial term and wouldn't necessarily be tax account or tax attribute.
+[122] It therefore seems clear that the position of the CRA, as stated in these technical interpretations and as stated by the auditor for the CRA, is that the UCC is a tax attribute and that tax attributes did not flow through to the amalgamated company if the amalgamation did not satisfy the definition of amalgamation in subsection 87(1) of the Act and therefore the UCC of the predecessors would not flow through to the amalgamated company in this situation. The issue in this case is not whether this statement is correct but whether a “wise and prudent person” could rely on this statement and then file a tax return truly believing that this would be an acceptable basis on which to file a tax return. It seems to me that, for the purposes of determining whether a person has made a misrepresentation in a tax return that is “attributable to neglect, carelessness or wilful default”, a “wise and prudent person” could, in filing their tax return, rely on statements made by the CRA that are in the public domain.
+[123] It is clear in this case that Delta and First Heritage decided to merge for business reasons before the method of merging that was utilized in this case was approved. It is also clear that the primary focus of the tax planning related to the merger was to reduce the preferred rate amount. Various options to combine the two credit unions were considered and finally the structure that has lead to this appeal (which was proposed by Fraser Milner Casgrain) was chosen. It also is clear that the Appellant “thoughtfully, deliberately and carefully assesse[d] the situation”. Fraser Milner Casgrain were involved throughout as were Grant Thornton. The filing position that would be taken was discussed by representatives of the credit unions at a meeting on June 26, 2000. With respect to the filing positions, Douglas Graham, CA of Grant Thornton in a letter dated August 9, 2000 stated as follows:
+The filing positions to be adopted are debatable. One position with which all parties at the June 26th meeting are in agreement:
+1) [sic] Is the amalgamated credit union should report an opening preferred rate amount of nil in its initial tax return? We agree with that filing position.
+There was not agreement with respect to the second and third filing matters. Some parties at the meeting advocated:
+2. Including in the amalgamated credit union’s income for its 2001 taxation year the loan loss provisions claimed in the final tax returns of Delta and First Heritage. We do not agree with this filing position.
+3. Reporting its opening undepreciated capital cost (“UCC”) balances the closing balances in Delta and First Heritage in their final tax returns. We do not agree with this filing position.
+We are of the view that the filing position in #1 will cause CCRA to challenge the nil preferred rate amount. We expect that CCRA will flag a nil opening balance in the preferred rate account and the amalgamated credit union will be asked to explain why there is a nil balance. By not including Delta’s and First Heritage’s closing loan loss provisions in the amalgamated credit union’s income for 2001, and by reporting the cost of all the depreciable property in the opening UCC balance, the amalgamated credit union will be taking a consistent position that none of the tax attributes should flow through to the amalgamated credit union.
+On a practical level, the amalgamated credit union will have a stronger bargaining position with CCRA if it is able to compromise by bringing into income the closing loan loss provisions and by “rolling forward” the closing UCC balances. If the matter proceeds to court, the consistent filing position is one from which your litigator would like to be able to argue. I think there is a high probability that CCRA will challenge the filing position #1 (no preferred rate amount), and CCRA may wish to carry the challenge through the courts. I would rather have all three issues on the table from a bargaining position and from the position of being able to argue consistently that tax attributes don’t survive a non-qualifying amalgamation.
+As we discussed at the meeting and on numerous occasions prior to the meeting, there are risks in taking the filing positions which we are advocating. Interest will be charged on any unpaid taxes. There should be no penalties levied because the filing position is consistent with a recent technical interpretation issued by CCRA. Management and the Board should be prepared to see this matter come before the courts. I do not believe that anyone should feel any embarrassment if this matter proceeds [sic] t court because, from the credit unions’ perspective, you have received professional [sic] advise which recommended that the merger be structured in a manner which will minimize the credit unions’ income tax liability.
+(emphasis added)
+[124] Since Douglas Graham referred to a recent technical interpretation of the CCRA is it obvious that he was aware of the 2000 technical interpretation referred to above when he wrote this letter. He confirmed during the hearing that the technical interpretation to which he was referring was the 2000 technical interpretation. During the cross examination of Douglas Graham the following exchange occurred:
+Q Yeah. And is it fair to say that those other tax attributes, discussion of those other tax attributes -- I won't say they occurred as a surprise, but is it fair to say that at some point when the predecessors were having to consider the filing position that the Amalco would take upon, after the amalgamation, that it was only at that time that the predecessors and their advisors, or at least their tax advisor, turned to a consideration of UCC and the other tax reserves.
+A I'm going to try to answer the question. The technical interpretations made it clear to me that the tax attributes didn't flow through on a taxable amalgamation.
+[125] While counsel for the Respondent pointed out that Douglas Graham did not become aware of this technical interpretation until after he had issued his final report that was dated April 18, 2000, his final report only addressed the preferred rate amount and did not address the issue of whether the depreciation allowed to Delta and First Heritage should be reflected in the UCC balance of the Appellant. This report also did not reflect whether the reserve for doubtful accounts claimed by Delta in its 2000 taxation year should be included in the income of the Appellant for its 2001 taxation year. It is clear that when the filing position on these two matters was addressed in Douglas Graham’s letter of August 9, 2000 that he was aware of this technical interpretation. The important date for the purposes of determining whether a misrepresentation has been made that is “attributable to neglect, carelessness, or wilful default” is the date the return is filed by the Appellant since that is the date on which the misrepresentation is made. It is clear that by that date (which was in June of 2002) Douglas Graham was aware of this technical interpretation and there were no other technical interpretations, rulings, consultation documents or any other public statements of the CRA that contradicted the position as expressed in this technical interpretation.
+[126] It also appears clear that Thomas Webster was also aware of and relied upon the technical interpretation. During redirect the following exchange of questions and answers occurred:
+Q But you do recall there being a technical interpretation issued by the CRA?
+A I do recall that.
+Q And do you recall -- if I showed you a technical interpretation would you be able to say whether it's that technical interpretation or another one, or you wouldn't be able to say?
+A I would not be able to say.
+Q But you knew that there was a technical interpretation issued by the CRA that supported the filing position?
+A That is correct.
+Q And was that one of, not necessarily the main but was that one of the elements on which the credit union based its filing position, the fact that this technical interpretation had been issued?
+A It strengthened the conclusions of the filing position and the credit union did rely on that.
+[127] Also during the cross examination of Thomas Webster the following exchange took place in relation to the suggestion that the filing position related to the UCC and the reserve claimed by Delta in 2000 was to provide the Appellant with a bargaining position:
+Q Did the amalgamating credit unions accept that by taking the UCC position that Mr. Graham was suggesting that that would give them a stronger bargaining position with the Agency, if the Agency reassessed to disallow the readjustment of the PRA to nil? Did they accept that this would give them a stronger bargaining position?
+A I can only speak for myself. I recall the meeting in question. It started with a discussion of what are tax attributes that might not flow through, and we were looking for a consistency with the theory that the preferred rate amount did not flow through. These two other items were identified and the discussion was we should be logical in the preparation of our tax returns and we should be consistent. Those all made sense to me. Whether it gave us a bargaining position, I'm not sure that I was influenced by that in the least. We knew the PRA, we've seen in documents it was an aggressive position that was -- I wasn't overly influenced by the bargaining position statement.
+[128] It seems clear that both Grant Thornton (who prepared the tax return for the Appellant for 2001) and Thomas Webster (who reviewed and signed the 2001 tax return on behalf of the Appellant) were aware of and relied upon the 2000 technical interpretation that had been issued by the CRA.
+[129] It also seems clear that Thomas Webster held a bona fide belief that the filing positions that he had taken in this case were correct. He stated during his direct examination that:
+Q …Now, can you tell us why did you think back in 2002, when you signed this return and filed it on, I think it's June 28th, 2002, why did you think those three positions were correct? What led you to believe that at the time?
+A During the period of 2000, starting after that memorandum of understanding was signed, we engaged Grant Thornton, who provided the tax opinion to us. During the period from that opinion being received, in April 2000, we had numerous discussions with Grant Thornton and as well we received a tax opinion from a tax law firm, all of which supported the filing positions that we just looked at on those three points.
+Q Okay. Did you personally, being a chartered accountant, did you go out and do your own tax research on these points?
+A No. My view is, tax at this level is very specific and complicated, which is why we engaged Grant Thornton, which is also the point that was noted in the minutes when I recommended we do so. And we then went and got a second opinion, that being through the law firm that I described, Fraser Milner. So we relied on expert tax advice as provided to us.
+[130] There were also conflicting views among commentators with respect to whether the tax attributes would flow through on an amalgamation that did not satisfy the definition of amalgamation under subsection 87(1) of the Act. David A. G. Birnie in his paper “Consolidation of Corporate Structures” that was presented at the 1979 Canadian Tax Foundation Conference stated at page 180 in relation to “Amalgamations to Which Section 87 Does Not Apply” that:
+…Furthermore, all relevant tax accounts of the predecessors should simply be inherited by the amalgamated company.
+[131] In the text “Taxation of Corporations, Partnerships and Trusts” Second Edition, 2001, by Norman C. Tobias, it is stated at page 398, in addressing issues related to amalgamations that do not satisfy the conditions of subsection 87(1) of the Act, that:
+However, the tax profiles of each of the amalgamating corporations and the tax attributes of their respective property may not flow through to the amalgamated corporation but for the provisions of the Income Tax Act.
+[132] As a result it seems clear to me that the misrepresentations made by the Appellant in its 2001 tax return in relation to the opening balance of UCC and the failure to include the reserve for doubtful debts were not “attributable to neglect, carelessness or wilful default” but were made carefully after considerable thought and deliberation and were based on not only the recommended filing position as advocated by Grant Thornton but also the position of the CRA as stated in the 2000 technical interpretation. The Appellant had a bona fide belief that it had a valid basis to file its tax return as it was filed. The issue, as noted above, is not whether this basis was correct, but whether the Appellant had a bona fide belief that it was correct.
+[133] As a result the reassessment of the Appellant’s tax liability for 2001 is vacated. In this case, there were two reassessments issued in relation to the 2001 taxation year. The first reassessment was dated May 23, 2006 and, in addition to the matters under appeal, also included other amounts. The Appellant was again reassessed in relation to its 2001 taxation year on April 22, 2008 to remove the other amounts from its income. Since vacating the second reassessment (which is the most recent one and the one from which this appeal was filed) could result in the first reassessment being reinstated, this is to confirm that both the second reassessment (dated April 22, 2008) and the first reassessment (dated May 23, 2006) are vacated.
+2002, 2003 and 2004 Taxation years
+[134] Counsel for the Appellant submitted that if the reassessment of the Appellant’s 2001 taxation year was vacated then the reassessments of the other years would also have to be vacated on the basis that the UCC amount was fixed. I do not agree.
+[135] The UCC, as noted above, is determined by the formula as set out in the definition of UCC in subsection 13(21) of the Act, which, in part, is as follows:
+“undepreciated capital cost” to a taxpayer of depreciable property of a prescribed class as of any time means the amount determined by the formula
+(A + B + C + D + D.1) – (E + E.1 + F + G + H + I + J + K)
+where
+A is the total of all amounts each of which is the capital cost to the taxpayer of a depreciable property of the class acquired before that time,
+…
+E is the total depreciation allowed to the taxpayer for property of the class before that time,
+[136] The definition does not provide that the UCC at the beginning of one year is the closing balance of UCC at the end of the previous year. CCA tables are set up on this basis as a matter of convenience. However the definition requires a new calculation every year of “the total depreciation allowed to the taxpayer for property of the class before that time”. Therefore in order to determine the UCC of each class of depreciable property of the Appellant at the beginning of 2002 it is necessary to determine the total depreciation allowed to the Appellant, Delta and First Heritage, prior to 2002.
+[137] The auditor for the CRA had prepared a table that lists the various classes of depreciable property of the Appellant and which shows the amount by which the UCC of each class was overstated as a result of not including the depreciation that had been allowed to each of Delta and First Heritage. This table is as follows:
+Class
+Closing Balance UCC - Delta
+Closing Balance UCC – First Heritage
+Combined UCC Balance
+Opening Balance of UCC - Appellant
+Overstated UCC
+1
+3,865,000
+6,863,291
+10,728,291
+17,919,244
+7,190,953
+3
+195,522
+469,479
+665,001
+3,326,000
+2,660,999
+6
+172,805
+9,379
+182,184
+1,193,125
+1,010,941
+8
+1,499,659
+1,760,140
+3,259,799
+12,538,015
+9,278,216
+10
+1,408,341
+1,371,048
+2,779,389
+11,796,495
+9,017,106
+10.1
+203
+577
+780
+24,000
+23,220
+12
+0
+0
+0
+116,998
+116,998
+13
+60,852
+0
+60,852
+165,202
+104,350
+13
+0
+0
+0
+362,813
+362,813
+13
+118,729
+0
+118,729
+245,344
+126,615
+13
+441,919
+0
+441,919
+882,031
+440,112
+13
+277,675
+0
+277,675
+504,203
+226,528
+13
+88
+0
+88
+871
+783
+13
+361,271
+0
+361,271
+656,796
+295,525
+13
+0
+1,121,140
+1,121,140
+1,191,114
+69,974
+17
+3,143
+102,967
+106,110
+57,508
+-48,602
+Total:
+8,405,207
+11,698,021
+20,103,228
+50,979,759
+30,876,531
+[138] Therefore, in order to determine the correct amount for the UCC of the Appellant as of the beginning of the Appellant’s 2002 taxation year, the depreciation allowed to Delta and First Heritage (which would be the amount by which the opening balance of UCC as claimed by the Appellant was overstated) should be deducted from the closing balance of UCC as of the end of 2001. As a result the following will be the opening balance of UCC of the Appellant as of the beginning of its 2002 taxation year:
+Class
+UCC – Appellant as of the end of 2001
+Depreciation Allowed to Delta and First Heritage
+Revised UCC as of the beginning of 2002
+1
+16,935,989
+7,190,953
+9,745,036
+3
+3,169,856
+2,660,999
+508,857
+6
+1,073,812
+1,010,941
+62,871
+8
+10,618,898
+9,278,216
+1,340,682
+10
+8,248,436
+9,017,106
+-768,670
+10.1
+16,800
+23,220
+-6,420
+12
+0
+116,998
+-116,998
+13
+132,162
+104,350
+27,812
+13
+686,786
+362,813
+323,973
+13
+196,276
+126,615
+69,661
+13
+705,625
+440,112
+265,513
+13
+403,363
+226,528
+176,835
+13
+697
+783
+-86
+13
+525,437
+295,525
+229,912
+13
+952,892
+69,974
+882,918
+13
+208,688
+0
+208,688
+13
+5,112
+0
+5,112
+17
+52,907
+-48,602
+101,509
+Total:
+43,933,736
+30,876,531
+13,057,205
+[139] There are several classes where the revised result will be a negative amount. It also seems that neither party had contemplated this situation although it is clear that the Appellant argued that the reassessment of the 2001 taxation year should be vacated as it was issued after the normal reassessment period (and could not be justified under subparagraph 152(4)(a)(i) of the Act) and the Respondent had argued that even if this year could not be reassessed the UCC amounts of Delta and First Heritage should still be carried forward. It seems that the above table is simply a reflection of the logical result of these two determinations.
+[140] Subsection 13(1) of the Act provides that:
+13. (1) Where, at the end of a taxation year, the total of the amounts determined for E to J in the definition “undepreciated capital cost” in subsection (21) in respect of a taxpayer's depreciable property of a particular prescribed class exceeds the total of the amounts determined for A to D in that definition in respect thereof, the excess shall be included in computing the taxpayer's income for the year.
+[141] The issue of whether there would be an income inclusion as a result of the provisions of subsection 13(1) will arise at the end of 2002. As noted, when the UCC is to be determined at any point in time, the result of the formula is the mathematical result calculated at that time using each component of the formula. The components require a calculation from the time when a property is acquired, not just an update since the end of the previous taxation year. The amount for E, for example, is based on a determination of all of the depreciation that has been allowed before the particular time.
+[142] To determine whether there would be any “excess” for the purposes of subsection 13(1) of the Act it is necessary to determine the amounts for E to J as of the end of 2002 and the amounts for A to D as of that time. In preparing the following table the “rate” for the property of each separate class 13 was determined, for each year, by dividing the CCA allowed by the auditor for CRA for the property of such class by the UCC as determined by the auditor for the CRA for the property of such class (before an amount was allowed for CCA).
+Class
+UCC – Beginning of 2002 (B)
+Additions (C)
+Dispositions
+(D)
+½ of [C – D]
+(E)
+CCA Rate
+(F)
+CCA (F x (B + E) (G)
+UCC – end of the year (B + C - D – G)
+1
+9,745,036
+121,072
+0
+60,536
+4%
+392,223
+9,473,885
+3
+508,857
+0
+0
+0
+5%
+25,443
+483,414
+6
+62,871
+0
+0
+0
+10%
+6,287
+56,584
+8
+1,340,682
+3,112,049
+0
+1,556,024
+20%
+579,341
+3,873,390
+10
+-768,670
+714,607
+0
+357,304
+30%
+0
+-54,063[10]
+10
+0
+1,051,887
+0
+525,944
+30%
+157,783
+894,104
+10.1
+-6,420
+0
+0
+0
+30%
+0
+-6,420
+12
+-116,998
+0
+0
+0
+100%
+0
+-116,998
+13
+27,812
+0
+0
+0
+25%
+6,953
+20,859
+13
+323,973
+0
+0
+0
+22%
+71,274
+252,699
+13
+69,661
+0
+0
+0
+25%
+17,415
+52,246
+13
+265,513
+0
+0
+0
+25%
+66,378
+199,135
+13
+176,835
+0
+0
+0
+25%
+44,209
+132,626
+13
+-86
+0
+0
+0
+0
+-86
+13
+229,912
+0
+0
+0
+25%
+57,478
+172,434
+13
+882,918
+0
+0
+0
+25%
+220,730
+662,188
+13
+208,688
+0
+231,876
+0
+0
+0
+0[11]
+13
+5,112
+0
+0
+0
+[12]
+1,136
+3,976
+17
+101,509
+0
+0
+0
+8%
+8,121
+93,388
+Total:
+13,057,205
+4,999,615
+231,876
+1,654,771
+16,193,361
+[143] The total amount, based on the calculations as set in this table, that would be allowed for CCA for 2002 would be $1,654,771. However, in reassessing the Appellant for 2002, the total amount of CCA that the Appellant was allowed to claim was $2,641,195. Therefore it seems to me that the Appellant has been permitted to deduct more CCA than it was otherwise entitled to claim. This arises as a result of my finding that the reassessment of the Appellant’s 2001 taxation year is vacated and therefore the additional CCA claimed by the Appellant in 2001 will reduce the UCC balance as of the beginning of 2002 to an amount that is less than the amount used by the CRA in reassessing the Appellant for 2002. However, if the Appellant is allowed to only deduct $1,654,771 in CCA for 2002 (which is less than the $2,641,195 allowed by the CRA), this would mean that the Minister would be appealing his own assessment, which he cannot do.
+[144] Justice Hamlyn in the case of Valdis, [2001] 1 C.T.C. 2827, stated the following in paragraph 21:
+21 In Millette c. R., Judge Lamarre Proulx reaffirmed that this Court cannot entertain an appeal that contemplates increasing an Appellant's tax liability. She stated at paragraph 72:
+It is accepted in the case law that this Court cannot increase the amount of the Minister's assessment because that would be tantamount to the Minister appealing the assessment, which he cannot do. The Minister cannot appeal his own assessment: Harris v. M.N.R., 64 DTC 5332, at p. 5337; Shiewitz v. M.N.R., 79 DTC 340, at p. 342; and Abed v. The Queen, 82 DTC 6099, at p. 6103. (emphasis added by Justice Hamlyn)
+[145] Therefore the Appellant cannot be reassessed to increase its income by decreasing the amount of CCA that it may claim in 2002 from the amount of $2,641,195 to the amount determined above of $1,654,771.
+[146] In this case there are four classes of property for which the amounts determined under E to J in the definition of “undepreciated capital cost” in subsection 13(21) of the Act as of the end of 2002 exceed the amounts for A to D as of that time. The reassessment of the Appellant’s 2002 taxation year was only related to a reduction in the CCA amount that the Appellant may claim. The deduction for CCA is provided in paragraph 20(1)(a) of the Act and the income inclusion for recaptured capital cost allowance is pursuant to subsection 13(1) of the Act. The determination is made for each separate class of property. Because “the Minister cannot appeal his own assessment” the Appellant’s income cannot be increased by the amount of the recaptured capital cost allowance amounts.
+[147] In Petro-Canada v. The Queen, 2004 FCA 158, the taxpayer and the Crown had reached an agreement that the taxpayer was entitled to a deduction of $700,000 for certain scientific research and experimental development expenses but were unable to agree on the significantly larger claim for Canadian exploration expenses. At the hearing of this matter at this Court Justice Bowie determined that the taxpayer should actually have been allowed less for the Canadian exploration expenses than was allowed by the Crown. He therefore concluded that the consent judgment for $700,000 for certain scientific research and experimental development expenses should not be accepted as the amount of the Canadian exploration expenses that had been allowed by the CRA exceeded the amount than he would have allowed the taxpayer to claim for Canadian exploration expenses by more than $700,000.
+[148] Justice Sharlow, on behalf of the Federal Court of Appeal, stated that:
+68 The Judge was correct when he concluded that Petro-Canada had been allowed a deduction that exceeded its entitlement. The only implication of that conclusion was that the Judge could not grant Petro-Canada the remedy it sought, which was an increased deduction for the cost of the seismic data. The Judge was precluded by Harris from requiring the Minister to reduce the deduction because, in effect, that would allow the Crown to appeal the assessment.
+69 However, the Judge refused to require the Minister to give effect to the consent judgment. Refusing Petro-Canada's rightful claim to the deduction for scientific research and experimental development had the same effect as an order allowing that claim but reducing Petro-Canada's seismic expense deduction by the same amount. It is as though the Judge had allowed, in part, the Crown's appeal of the seismic data deduction. The Judge was doing indirectly what he could not have done directly. In my view, the Judge erred in failing to give effect to the consent judgment.
+[149] It also seems to me that, in this case, the amount of CCA that the Appellant is allowed to claim for 2002 cannot be reduced by the amounts of the recaptured capital cost allowance on the basis that the Appellant has been permitted a greater deduction for capital cost allowance for 2002 that it should have been allowed. This would, as noted by the Federal Court of Appeal in Petro-Canada, be permitting the Respondent to do indirectly what it cannot do directly. As a result no adjustment will be made to the capital cost allowance amounts that the Appellant has been allowed to claim for 2002. Even if such adjustment could be made, since a reduction in the amount of capital cost allowance that is allowed would result in an increase in the UCC at the end of the year by the same amount, the deduction would not be lost – just deferred.
+[150] In determining the UCC, the amount for B in the formula is as follows:
+B is the total of all amounts included in the taxpayer's income under this section for a taxation year ending before that time, to the extent that those amounts relate to depreciable property of the class,
+[151] Since the “excess” amounts are not included in income in 2002, no amount would be included for B in subsequent years in relation to these amounts and effectively the negative balance will simply be carried forward.
+[152] Since the only issue in relation to the reassessment of the Appellant’s 2003 and 2004 taxation years is in relation to the amount of CCA that the Appellant is allowed to claim for each of these years and since the opening balance for 2002 (which will affect all of the subsequent years) of UCC as determined herein is less than the opening balance of UCC as used by CRA for 2002, any calculation of CCA for 2003 and 2004 using the revised opening balance for 2002 and the depreciation that was allowed for 2002 will result in a lesser amount of CCA being determined for each of these years than was allowed by the CRA. Since, as noted above, the Minister cannot appeal his own assessment, no adjustment will be made to the CCA that the Appellant was allowed to claim for 2003 and 2004.
+[153] As a result:
+(a) the Appellant’s appeal from the reassessment of its 2001 taxation year is allowed, without costs, and both the second reassessment (dated April 22, 2008) and the first reassessment (dated May 23, 2006) are vacated; and
+(b) the Appellant’s appeals from the reassessments of its 2002, 2003 and 2004 taxation years are dismissed, without costs.
+Signed at Halifax, Nova Scotia, this 17th day of November, 2010.
+“Wyman W. Webb”
+Webb, J.
+CITATION: 2010TCC576
+COURT FILE NO.: 2008-2213(IT)G
+STYLE OF CAUSE: ENVISION CREDIT UNION AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: April 21, 22 and 23, 2010 and
+September 13, 14 and 15, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: November 17, 2010
+APPEARANCES:
+Counsel for the Appellant:
+Joel Nitikman
+Michelle Moriartey
+Counsel for the Respondent:
+Lynn Burch
+John Gibb-Carsley
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Joel Nitikman
+Michelle Moriartey
+Firm: Fraser Milner Casgrain
+Vancouver, British Columbia
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] No explanation was provided with respect to why the opening UCC balance of the Class 17 assets of the Appellant was less than the combined closing UCC balances of the Class 17 assets of Delta and First Heritage.
+[2] In the amended Notice of Appeal and in the Reply there are references to the amount for the allowance for doubtful accounts which indicate that the amount was $851,659. However, the amount as stated in Schedule 13 to the amended income tax return for Delta for 2000 is $851,649. Therefore it appears that the correct amount for the allowance for doubtful debts as claimed by Delta in 2000 is $851,649.
+[3] Since the business limit as determined for the purposes of section 125 is reduced pursuant to subsection 125(5.1) of the Act based on the credit union’s tax payable under Part I.3 of the Act for the preceding year, it appears that since a credit union would generally have a significant amount of taxable capital employed in Canada for the purposes of Part I.3, it is more likely than not that a credit union’s business limit for the purposes of section 125 would be nil. For both Delta and First Heritage for their taxation years ending December 31, 2000, their business limits were nil for the purposes of section 125 of the Act and for the Appellant for its taxation year ending December 31 2001, its business limit for the purposes of section 125 of the Act was also nil. The corporate tax returns for the Appellant for its 2002, 2003 and 2004 taxation years were not submitted as exhibits but it seems logical to assume that its business limit for each of these years for the purposes of section 125 of the Act was also nil.
+[4] Paragraph 137(3)(a) of the Act refers to taxable income, not to income from an active business. Taxable income would include income from an active business as well as income from other sources. As well if any income of the credit union should be eligible for the tax credit provided in section 125 of the Act, then such income will be deducted from the lesser of the two amounts set out in paragraphs (a) and (b).
+[5] The preferred rate amount is 25/4 of the amount deductible under section 125 of the Act. This amount would, during the years under appeal, be 16% of the taxable income and 25/4 x 16% = 100%. The preferred rate amount is the cumulative total of such income for all previous years. Subsection 137(4) of the Act provides that amounts deductible or deducted under subsection 137(3) of the Act are deemed to be deductible or deducted under section 125 of the Act.
+[6] In Forrest v. Howe, [1952] 1 D.L.R. 717, the British Columbia Court of Appeal stated that:
+13 But counsel for the respondent, relying upon s. 35 of the Land Registry Act, R.S.B.C. 1948, e. 171, submits that the unregistered conveyance held by the plaintiff is inoperative to pass to him any estate, either legal or equitable. However, I think it is clearly established upon the authorities that a document executed by one having some registered title or interest in lands which purports to transfer that title or interest to another, does vest in the grantee or transferee an equitable title or interest in lands, even though the same be not registered. Further, that the provisions of s. 35 of the Act do not bar the enforcement of rights conferred by an unregistered document: vide L. & C. Lumber Co. v. Lundgren, [1942] 4 D.L.R. 637, 58 B.C.R. 270; Davidson v. Davidson, [1946], 2 D.L.R. 289, S.C.R. 115; Greveling v. Greveling, [1950] 2 D.L.R. 308.
+[7] The Federal Court of Appeal did note that:
+36 I can detect no error in the Tax Court Judge's conclusion that the deemed NRO status provided by subsection 134.1(2) does not extend to subparagraph 87(2)(cc)(i) and that, accordingly, GA Scottish's RTOH account did not flow through to the appellant under that provision.
+[8] Justice Jessup was also one of the three Justices of the Ontario Court of Appeal who heard the appeal in the Black and Decker case.
+[9] Justice Dickson in his decision in Black and Decker referred to the decision of Justice Jessup in J.J. Beamish and although he did not explicitly state that he disagreed with this decision he did quote a passage in which Justice Jessup stated the amalgamated company is a separate entity and the amalgamating companies cease to exist. He then quoted from a decision of Justice Kelly of the Ontario Court of Appeal in Stanward Corporation v. Denison Mines Ltd., [1966] 2 O.R. 585, in which Justice Kelly had stated that “the amalgamated companies do not form a new company but continue to subsist as one” and stated that he agreed with the statements of Justice Kelly.
+[10] Subsection 1100(2) of the Income Tax Regulations provides that the UCC is to be reduced by one-half of the amount by which the cost of any property acquired during the year exceeds the amount included in the calculation of the UCC in relation to the disposition of any property. In this case the UCC (before applying the reduction contemplated by this subsection) would be ‑ 768,670 + 714,607 = -54,063. Since this amount is a negative amount, no CCA would be allowed for the year.
+[11] Since this class was created after the amalgamation, no amount of depreciation would have been claimed by Delta or First Heritage in relation to this class. Therefore the recaptured capital cost allowance would not be affected by this decision.
+[12] Since this class was added after the amalgamation, the CCA allowed will not be affected by this decision and therefore the effective CCA rate is not relevant.

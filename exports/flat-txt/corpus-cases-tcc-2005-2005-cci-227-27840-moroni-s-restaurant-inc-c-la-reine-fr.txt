@@ -1,0 +1,135 @@
+Title: Moroni's Restaurant Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27840/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-227-27840-moroni-s-restaurant-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2005-03-29
+
+# Moroni's Restaurant Inc. c. La Reine
+
+- Citation: 2005 CCI 227
+- Decision date: 2005-03-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 380, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Moroni's Restaurant Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-03-29
+Référence neutre
+2005 CCI 227
+Numéro de dossier
+2003-1915(IT)G
+Juges et Officiers taxateurs
+Ronald D. Bell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2003-1915(IT)G
+ENTRE :
+MORONI'S RESTAURANT INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Requête relative aux dépens entendue le 4 février 2004, à Ottawa, Canada.
+Devant : L'honorable juge R. D. Bell
+Comparutions :
+Avocates de l'appelante :
+Me Susan Tataryn et
+Me Shelley J. Kamin
+Avocat de l'intimée :
+Me Michael Ezri
+____________________________________________________________________
+ORDONNANCE
+L'intimée est condamnée à payer à l'appelante des dépens de 5 000 $ sans délai, conformément aux motifs de l'ordonnance ci-joints.
+Signé à Ottawa, Canada, ce 30e jour de mars 2005.
+« R. D. Bell »
+Juge Bell
+Traduction certifiée conforme
+ce 26e jour de janvier 2006.
+Yves Bellefeuille, réviseur
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence : 2005CCI227
+Date : 20050329
+Dossier : 2003-1915(IT)G
+ENTRE :
+MORONI'S RESTAURANT INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L'ORDONNANCE RELATIVE AUX DÉPENS
+Le juge Bell
+[1] Le 2 juillet 2003, l'intimée a déposé une requête afin d'obtenir ce qui suit :
+[TRADUCTION]
+1. Une ordonnance annulant l'appel de l'appelante, avec dépens;
+2. À titre subsidiaire, une ordonnance prorogeant le délai dans lequel l'intimée doit produire sa réponse à l'avis d'appel de l'appelante à 30 jours suivant la date où la Cour canadienne de l'impôt aura tranché la présente requête et prorogeant le délai pour signifier la réponse déposée à cinq jours suivant la date de son dépôt;
+3. Toute autre mesure de redressement que l'intimée pourra demander et que la Cour estimera justes.
+Au soutien de la requête, on avance que l'avis d'appel a été déposé plus de 90 jours après la date à laquelle l'avis de ratification relatif aux années d'imposition 1992, 1993 et 1994 de l'appelante a été envoyé à cette dernière.
+[2] Le 15 janvier 2003, l'appelante a retenu les services de Me Shelley Jean Kamin (« Me Kamin »).
+[3] Dans un affidavit signé le 17 juillet 2003, Me Kamin affirme au paragraphe 24 :
+[TRADUCTION]
+Le 12 mars 2003, j'ai reçu par télécopieur de M. Tierney, qui était également l'expert‑comptable de Moroni's, une copie de l'avis de ratification établi par le ministre en date du 12 février 2001 concernant Moroni's. L'avis de ratification faisait mention du revenu d'entreprise de Moroni's pour ses années d'imposition 1992, 1994 et 1995 ainsi que de pénalités imposées en application des paragraphes 162(2.11) et 163(2) de la Loi de l'impôt sur le revenu (la « Loi ») relativement aux années d'imposition 1994 et 1995 de Moroni's.
+Elle ajoute dans son affidavit qu'elle était déconcertée par le contenu de l'avis de ratification et qu'elle ne savait pas exactement pourquoi on renvoyait au paragraphe 162(2) de la Loi de l'impôt sur le revenu (la « Loi »). Elle affirme qu'elle n'arrivait pas à faire concorder les montants de revenu indiqués sur l'avis de ratification avec le présumé revenu d'entreprise non déclaré que le ministre avait ajouté au revenu de Moroni's au moyen des nouvelles cotisations relatives aux années d'imposition 1992, 1993 et 1994 de cette dernière. Au cours d'une de ses conversations téléphoniques avec M. Meehan (« M. Meehan ») de l'ADRC, celui‑ci a révélé que l'avis de ratification aurait dû être posté le 12 février 2002 ou le lendemain et qu'il [TRADUCTION] « se demandait pourquoi la date figurant sur l'avis de ratification visant Moroni's était le 12 février 2001 ». Elle poursuit de la façon suivante :
+[TRADUCTION]
+Il a dit que la mention de 1995 dans l'avis de ratification visant Moroni's constituait une « erreur typographique », et que les pénalités énoncées dans l'avis de ratification étaient « erronées ».
+Selon Me Kamin, M. Meehan l'a appelée le 7 avril 2003 pour l'informer que l'ADRC était en mesure d'affirmer que l'avis de ratification avait été envoyé par courrier recommandé le 13 février 2002. Toujours selon l'affidavit, le 30 avril 2003, Me Kamin a reçu de l'ADRC, par courrier recommandé, un nouvel avis de ratification du ministre, original et signé, en date du 12 février 2002. Ce nouvel avis de ratification ne faisait aucune mention de l'année d'imposition 1995 de Moroni's. Il renvoyait plutôt au revenu d'entreprise de Moroni's pour ses années d'imposition 1992, 1993 et 1994 et aux pénalités imposées en application du paragraphe 163(2) de la Loi relativement aux années d'imposition 1993 et 1994. Selon son affidavit, M. Meehan l'a en outre informée que l'ADRC avait obtenu une preuve de réception de l'avis de ratification visant Moroni's et que les documents établissant ce fait lui avait été envoyés.
+[4] Le 9 mai 2003, Me Kamin a produit un avis d'appel auprès de la Cour en réponse à l'avis de ratification corrigé.
+[5] J'ai entendu la requête et j'ai prononcé une ordonnance rejetant la requête en annulation de l'appel, fixant la date à laquelle l'intimée devait au plus tard produire une réponse à l'avis d'appel et fixant les dates auxquelles les observations relatives aux dépens devaient être reçues.
+[6] Les observations écrites de l'intimée relatives à ces dépens font notamment état de ce qui suit :
+[TRADUCTION]
+Le premier avis de ratification comportait des erreurs, mais constituait l'aboutissement d'un long processus de mesures et de communication entre le ministre et Moroni's. Le 2 juillet 2003, l'intimée a donc déposé une requête et des affidavits à l'appui afin de demander l'annulation de l'avis d'appel de l'appelante.
+[7] Dans ses observations, l'intimée signale que, le 2 décembre 2003, les parties ont procédé à des contre‑interrogatoires sur les affidavits déposés par les deux parties. Dans ses observations relatives aux dépens, l'avocate de l'appelante renvoie à une lettre du 25 septembre 2003 adressée à Michael Ezri (« Me Ezri »), avocat de l'intimée. Cette lettre est en partie rédigée de la façon suivante :
+[TRADUCTION]
+En ce qui concerne l'affaire Moroni's Restaurant, l'appelante souhaite également que cette requête soit réglée, ce qui nous permettrait d'examiner les questions de fond soulevées par l'appel. Nous proposons donc que la Couronne retire sa requête. L'appelante consentira à ce que ce soit fait sans dépens. Cette offre de règlement est valable jusqu'au vendredi 3 octobre 2003 à 17 h. Si l'offre de l'appelante n'est pas acceptée à ce moment et si la Couronne poursuit sa requête, malgré la recommandation formulée par le juge en chef adjoint Bowman le 31 juillet 2003, veuillez noter que l'appelante demandera à être intégralement indemnisée pour les dépens engagés.
+Vous avez mentionné que l'affidavit de Me Kamin mettait en cause l'« état d'esprit » de celle‑ci et que l'intimée avait besoin de la contre‑interroger sur son affidavit. L'appelante n'est pas d'accord. La seule question soulevée par la présente instance est celle de la validité des documents du ministre, et l'état d'esprit de Me Kamin n'a aucune pertinence en la matière. De plus, je vous ai fait part des principes fondamentaux du secret professionnel de l'avocat et du privilège relatif aux communications liées au litige.
+Je vous ai proposé de soumettre Me Kamin à un interrogatoire par voie de questions écrites, mais l'intimée insiste pour procéder à un contre‑interrogatoire de vive voix. Maître Kamin a fait savoir qu'elle pouvait se présenter à un interrogatoire aux dates suivantes : les 16, 17, 24 ou 28 octobre. Nous vous indiquerons si nous souhaitons interroger M. Meehan et Mme Durant.
+[8] Selon les observations de l'avocate de l'appelante, le 6 novembre 2003, l'intimée a signifié à l'appelante un avis de convocation à un interrogatoire sommant Me Kamin de se présenter à un contre‑interrogatoire sur son affidavit. Elle ajoute que l'intimée n'a utilisé aucune partie de la transcription de l'interrogatoire de Me Kamin pendant l'audition de la requête.
+[9] L'avocate de l'appelante a en outre soutenu que la requête en annulation a été rejetée par le juge R. D. Bell le 4 février 2004. Elle poursuit :
+[TRADUCTION]
+Jusqu'à présent, l'intimée n'a ni poursuivi ni retiré la requête visant l'interrogatoire en ce qui concerne la requête en annulation de l'appel de Moroni's, mais cette requête est maintenant sans raison d'être en raison de la décision prononcée par le juge Bell.
+[10] L'avocat de l'intimée a affirmé que la requête en annulation a été rejetée et que l'intimée [TRADUCTION] « ne s'oppose pas à une adjudication des dépens en faveur de l'appelante au titre de cette requête ». Selon l'avocat de l'intimée, le tarif des Règles de la Cour canadienne de l'impôt (procédure générale) donnerait droit à l'appelante à une somme maximale de 250 $ pour chaque journée ou chaque partie de journée consacrée à la requête et au contre‑interrogatoire sur l'affidavit. Il avance que cette somme s'élèverait à 750 $ pour la conférence du 21 juillet 2003, à 250 $ pour les contre‑interrogatoires et à 250 $ pour l'audience tenue le 4 février 2004. Il aborde la question du droit de l'appelante à obtenir les débours, en affirmant qu'on ne lui a pas fourni le montant de ces frais. Au total, l'intimée mentionne qu'elle ne s'opposera pas à une adjudication de dépens se chiffrant entre 1 250 $ et 1 750 $. Il faut signaler que l'intimée a pris les dispositions nécessaires pour que deux auteurs d'affidavit, un de Kingston et un de Toronto, puissent être contre‑interrogés à Ottawa.
+ANALYSE ET CONCLUSION
+[11] Il est étonnant que l'avocat de l'intimée a introduit une requête en annulation de l'avis d'appel. Cette requête se fondait sur le nouvel avis, et non sur le premier avis de ratification, lequel comportait plusieurs erreurs.
+Comme je l'ai dit lorsque j'ai prononcé les motifs de mes ordonnances :
+Je ne vais tout simplement pas permettre qu'il soit mis fin à ce droit d'appel sur le fondement d'un document et du grand cas fait d'un document qui est manifestement erroné à plusieurs égards et qu'on ne peut faire concorder avec les chiffres en cause […]
+Je crois profondément en la primauté du droit et au système judiciaire, lequel confère des droits légaux à une personne, en particulier en ce qui a trait au revenu et au droit en matière d'impôt sur le revenu. Je pense qu'il doit exister un ensemble de faits bien précis pour permettre l'annulation de ces droits, et je veux bien sûr parler des droits d'appel et de toutes les étapes qu'ils comportent.
+[12] Dans la présente situation, j'arrive à la conclusion que la requête était inutile, ce qui s'est traduit par une perte de temps pour la Cour, pour l'appelante et pour l'intimée.
+[13] L'appelante demande les dépens sur la base procureur‑client ou, à titre subsidiaire, des dépens d'une somme de 15 000 $. Comme je l'ai déjà mentionné dans les motifs de l'ordonnance prononcés dans l'affaire Nicholas Giannakouras, rendue à la même date que la présente ordonnance :
+Bien que l'intimée ait fait du zèle, l'adjudication de dépens sur la base procureur‑client n'est pas justifiée.
+Je conclus que la conduite de l'intimée lorsqu'elle a introduit la requête était totalement inutile et inopportune puisque celle‑ci paraît avoir eu pour seul objectif de priver l'appelante de son droit d'appel. Cependant, comme l'a déclaré la Cour suprême du Canada dans l'arrêt Young c. Young, [1993] 4 R.C.S. 3, à la page 17, l'intimée n'a pas fait preuve d'une « conduite répréhensible, scandaleuse ou outrageante » dans la présente affaire.
+[14] Par conséquent, je condamne l'intimée à payer sans délai à l'appelante des dépens de 5 000 $.
+Signé à Ottawa, Canada, ce 30e jour de mars 2005.
+« R. D. Bell »
+Juge Bell
+Traduction certifiée conforme
+ce 26e jour de janvier 2006.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2005CCI227
+NO DU DOSSIER DE LA COUR : 2003-1915(IT)G
+INTITULÉ DE LA CAUSE : Moroni's Restaurant Inc. c. La Reine
+LIEU DE L'AUDIENCE : Ottawa (Ontario)
+DATE DE L'AUDIENCE : Le 4 février 2004
+MOTIFS DE L'ORDONNANCE PAR : L'honorable R.D. Bell
+DATE DU JUGEMENT : Le 30 mars 2005
+COMPARUTIONS :
+Avocates de l'appelante :
+Me Susan Tataryn et
+Me Shelley J. Kamin
+Avocat de l'intimée :
+Me Michael Ezri
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l'appelante :
+Nom : Me Susan Tataryn et Me Shelley J. Kamin
+Cabinet : Rasmussen Star Ruddy
+Pour l'intimée : Me John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Ontario)

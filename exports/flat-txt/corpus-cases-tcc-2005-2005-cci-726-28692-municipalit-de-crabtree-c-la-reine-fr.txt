@@ -1,0 +1,179 @@
+Title: Municipalité de Crabtree c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28692/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-726-28692-municipalit-de-crabtree-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2005-12-01
+
+# Municipalité de Crabtree c. La Reine
+
+- Citation: 2005 CCI 726
+- Decision date: 2005-12-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1482, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Municipalité de Crabtree c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-12-01
+Référence neutre
+2005 CCI 726
+Numéro de dossier
+2004-3987(GST)I
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2004-3987(GST)I
+ENTRE :
+MUNICIPALITÉ DE CRABTREE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 9 mai 2005 à Montréal (Québec).
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Avocate de l'appelante :
+Me Nadine Deschênes
+Avocat de l'intimée :
+Me Benoît Denis
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi sur la taxe d'accise, dont l'avis porte le numéro 032G0110821 et est daté du 7 juillet 2004, pour la période du 1er avril 1999 au 30 septembre 2002, est rejeté selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 1er jour de décembre 2005.
+« Paul Bédard »
+Juge Bédard
+Référence : 2005CCI726
+Date : 20051201
+Dossier : 2004-3987(GST)I
+ENTRE :
+MUNICIPALITÉ DE CRABTREE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Le 31 mai 2002, la municipalité de Crabtree ( « l'appelante » ) a acquis un terrain vacant pour 181 700 $, ainsi que 12 719 $ pour la taxe sur les produits et services (TPS).
+[2] Le 7 juin 2002, l'appelante a conclu un bail agricole, joint comme annexe A aux présents motifs, pour une durée d'un an, renouvelable automatiquement par périodes successives d'un an à moins d'avis contraire, et ce, pour une contrepartie annuelle de 1 000 $. L'appelante a réclamé un crédit de taxe sur les intrants (CTI) de 100 % de la TPS payée lors de l'acquisition du terrain, soit 12 719 $ en l'espèce. L'intimée, par l'entremise du ministre du Revenu du Québec, a plutôt accordé à l'appelante un remboursement partiel (57,14 %) de la TPS payée par cette dernière lors de l'acquisition du terrain.
+[3] L'appelante en appelle, selon la procédure informelle, de la cotisation établie à son égard par laquelle elle s'est vue accorder un remboursement partiel (57,14 %) plutôt qu'un CTI de 100 % de la TPS de 12 719 $ payée lors de l'acquisition du terrain.
+Question en litige
+[4] La question en litige est de savoir, à l'égard du terrain, si l'appelante a droit à un CTI ntant de 12 719 $ (181 700 $ x 7 pour cent) ou à un remboursement partiel de TPS de 7 267,64 $ (181 700 $ x 7 pour cent x 54,14 %) c'est-à-dire si l'appelante a acquis le terrain pour consommation, utilisation ou fourniture dans le cadre de ses activités commerciales ou pour la réalisation d'une fourniture exonérée. Pour ce faire, je devrai caractériser l'entente du 7 juin 2002. Ainsi, je devrai déterminer si l'entente du 7 juin 2002 est un bail ou si elle accorde plutôt un droit d'usage, comme le soutient l'appelante.
+Le droit
+[5] Pour bien saisir les points litigieux, il est nécessaire de comprendre divers éléments du régime de la TPS et la façon dont ils s'appliquent aux faits de la présente affaire.
+[6] La TPS est une taxe imposée en vertu de la Loi sur la taxe d'accise ( « LTA » )[1] et est payable par l'acquéreur[2] lors d'une fourniture taxable[3]. En l'espèce, l'appelante devait payer la TPS lors de l'acquisition du terrain vacant.
+[7] La personne qui a pour entreprise d'effectuer des fournitures taxables peut demander le remboursement de la TPS qu'elle a payée par les biens et les services acquis pour son entreprise[4]. Ce remboursement est un « crédit de taxe sur les intrants » (CTI).
+[8] Pour avoir droit aux CTI, un inscrit doit avoir acquis ou importé un bien ou un service pour consommation ou fourniture dans le cadre de ses activités commerciales[5]. Le terme « activité commerciale » est ainsi défini au paragraphe 123(1) de la LTA :
+« activité commerciale » Constituent des activités commerciales exercées par une personne :
+[...]
+c) la réalisation de fournitures (sauf des fournitures exonérées)d'immeubles appartenant à la personne, y compris les actes qu'elle accomplit dans le cadre ou à l'occasion des fournitures.
+Donc, la fourniture d'immeubles est une fourniture qui se fait dans le cadre d'une activité commerciale dans la mesure où elle n'est pas une fourniture exonérée.
+[9] Les termes « immeuble » et « fourniture exonérée » sont définis comme suit au paragraphe 123(1) :
+[...] « immeuble » Les immeubles comprennent :
+a) au Québec, les immeubles et les baux y afférents;
+[...]
+« fourniture exonérée » Fourniture figurant à l'annexe V.
+[10] Pour mieux cerner le débat, ajoutons que l'appelante est une municipalité au sens du paragraphe 123(1) de la LTA et qu'une municipalité est un organisme de services publics au sens de ce même paragraphe.
+[11] Enfin, il convient d'examiner les articles 20 et 25 de la Partie VI de l'annexe V de la LTA qui dressent une liste, pour la période pertinente, de fournitures exonérées et non exonérées effectuées par une municipalité. L'article 20 prévoyait notamment que les fournitures indiquées aux alinéas a) à i) étaient exonérées, alors que les fournitures indiquées aux alinéas j) à l) n'étaient pas exonérées. L'alinéa 20l), qui est particulièrement important aux fins de la présente affaire, prévoyait que la fourniture du droit d'utilisation d'un bien de la municipalité était une fourniture non exonérée. L'article 25 prévoyait notamment que la fourniture d'immeubles par un organisme de services publics (ce qui comprend une municipalité) était une fourniture exonérée, à l'exclusion de certaines fournitures qui sont indiquées aux alinéas a) à j). L'alinéa 25f), qui est particulièrement important aux fins de la présente affaire, était ainsi rédigé :
+les immeubles, sauf les logements provisoires, fournis soit par bail, prévoyant la possession ou l'utilisation continues de l'immeuble pour une durée de moins d'un mois, soit par licence, si la fourniture est effectuée dans le cadre de l'exploitation d'une entreprise par l'organisme.
+Arguments de l'appelante
+[12] Lors de son plaidoyer, l'avocate de l'appelante a repris essentiellement les mêmes arguments que ceux invoqués au paragraphe 7 de l'avis d'appel, qui se lisent comme suit :
+a. Le contrat qui a été conclu en date du 7 juin 2002 n'est pas un bail mais un droit d'usage en vertu des articles 1172 à 1176 du Code civil du Québec;
+b. Tel que le prévoit l'article 1427 du Code Civil du Québec, les clauses du contrat doivent être interprétées les unes par les autres, en donnant à chacune le sens qui résulte de l'ensemble du contrat.
+c. Le contrat analysé à la lumière de l'article 1427 du Code civil du Québec permet de conclure qu'il possède les caractéristiques d'un droit d'usage puisqu'il prévoit que :
+i. le locataire n'a pas la jouissance complète du bien loué et qu'il n'a le droit d'utiliser les lieux que pour des fins agricoles;
+ii. le locataire doit payer un montant de 1 000 $ par année;
+iii. ce montant de 1 000 $ par année ne représente pas un loyer mais un montant qui est payé par le locataire pour avoir le droit de couper l'herbe se trouvant sur les lots et d'utiliser cette herbe pour ses propres fins agricoles;
+iv. le locataire fait siens les fruits produits par le bien, soit l'herbe dans ce cas;
+v. le locataire est responsable des frais engagés pour produire les fruits et revenus puisqu'il est responsable des dépenses nécessaires qui doivent être engagées pour couper l'herbe;
+vi. le locataire s'engage à maintenir une assurance risque et responsabilité de 1 000 000 $;
+d. L'agent en opposition s'est arrêté au sens littéral des termes utilisés et n'a pas interprété le contrat selon l'intention des parties tel que le prévoit l'article 1425 du Code civil du Québec;
+e. L'intention des parties était de conclure un contrat de droit d'usage;
+f. La fourniture d'un droit d'usage représente une fourniture taxable en vertu de l'alinéa 20l) de la partie VI, de l'annexe V de la Loi sur la taxe d'accise (TPS) et de la définition d' « activité commerciale » prévue au paragraphe 123(1) de la même loi;
+g. En conséquence, l'appelante a droit à la totalité des crédits de taxe sur les intrants pour la fourniture des lots G, H, I, J;
+h. L'appelante est en désaccord avec l'affirmation de l'agent en opposition selon laquelle les dispositions prévues au paragraphe 25f) de la partie VI de l'annexe V de la Loi sur la taxe d'accise ont priorité sur l'application des dispositions prévues au paragraphe 20 l) de la partie VI de l'annexe V de la même loi;
+i. Le Ministère du revenu du Québec a reconnu que toutes les parties de lots décrites au contrat, pièce R-1, à l'exception des lots G, H, I, J, ont été achetées par l'appelante pour être utilisées dans le cadre de ses activités commerciales;
+j. Tous les lots décrits au contrat, pièce R-1, incluant les lots G, H, I, J ont été acquis d'un entrepreneur par l'appelante en vertu d'un seul et même contrat avec un seul et même objectif, soit l'aménagement en développements résidentiels, tel qu'il appert d'une copie de l'extrait du procès verbal d'une session régulière du conseil de l'appelante tenue le 14 janvier 2002, pièce R-6.
+Analyse
+[13] D'abord, je tiens à souligner qu'en présence d'un contrat clair, le rôle du juge en est un d'application plutôt que d'interprétation. Si, au contraire, il y a ambiguïté, les règles d'interprétation écarteront le sens littéral pour faire place à la véritable intention des cocontractants lors de la formation du contrat, cocontractants qui, je tiens à le souligner, ne sont pas venus témoigner dans la présente affaire. J'ajouterais qu'une divergence sur l'interprétation du contrat ne signifie pas nécessairement qu'une ambiguïté existe. En l'espèce, il semble très clair que l'entente du 7 juin 2002 est un bail. On retrouve d'ailleurs à profusion dans cette entente les termes « bail » , « locateur » , « locataire » , « lieux loués » et « loyer » . De plus, on retrouve dans cette entente les éléments essentiels du contrat de louage, soit l'obligation de procurer la jouissance d'un bien, celle de payer un loyer et, d'un certain point de vue, la durée du contrat. Même si la jouissance en vertu de cette entente est limitée aux seules fins agricoles et à la pénétration sur le bien loué que pour effectuer des travaux de culture, il y avait toujours jouissance d'un bien au sens du Code civil du Québec. En matière de bail commercial, il n'y a aucune disposition d'ordre public qui interdit au locateur de restreindre la jouissance du bien loué. En d'autres termes, le locateur pouvait en l'espèce limiter la jouissance du bien loué sans pour autant que l'entente du 7 juin 2002 perde son caractère de contrat de louage. Quant aux autres clauses de l'entente du 7 juin 2002, on les retrouve habituellement dans des baux agricoles. Il convient de rappeler qu'en matière de bail commercial, les parties peuvent convenir d'à peu près n'importe quoi, sauf d'ententes qui contreviendraient aux dispositions d'ordre public, qui sont alors tout simplement réputées non écrites. En l'espèce, les trois éléments essentiels du louage de bien se retrouvent dans l'entente du 7 juin 2002, et c'est tout ce qui importe. Certes, le droit d'usage est une institution qui, à certains égards, est comparable au contrat de louage. Certes, l'entente du 7 juin 2002 possède certaines des caractéristiques du contrat d'usage. Est-ce que, pour autant, une entente qui comporte les caractéristiques essentielles du contrat de louage et , que les cocontractants ont qualifié de bail ne peut être caractérisée de contrat de louage parce qu'elle comporte certaines des caractéristiques d'un droit d'usage? J'ajouterais par ailleurs que l'entente du 7 juin 2002 ne comporte pas l'élément essentiel du droit d'usage, qui est le droit d'en percevoir les fruits et les revenus, jusqu'à concurrence des besoins du détenteur du droit et de ceux des personnes qui habitent avec lui ou sont à sa charge.
+[14] Puisque l'entente du 7 juin 2002 est, à mon avis, un bail d'une durée de plus d'un mois, donc une fourniture exonérée, l'appelante n'avait pas droit d'obtenir en l'espèce des CTI. On se rappellera que pour avoir droit aux CTI, un inscrit doit notamment avoir acquis un bien dans le cadre des activités commerciales et que la fourniture d'immeubles (qui inclut au Québec les baux y afférents) est une fourniture qui se fait dans le cadre d'une activité commerciale dans la mesure où elle n'est pas une fourniture exonérée. Or, la partie introductive de l'article 25 de la Partie VI de l'annexe V prévoit clairement qu'un bail est une fourniture exonérée pour une municipalité. Certes, l'alinéa 20l) de la Partie VI de l'article semble à première vue contredire la partie introductive de l'article 25 de la Partie VI de l'annexe V, puisqu'il prévoit que la fourniture du droit d'utilisation d'un bien de la municipalité est une fourniture non exonérée. Tel n'est cependant pas le cas. En effet, on doit interpréter une loi de manière à éviter, autant que faire se peut, l'incohérence ou la contradiction entre ses éléments ou ses parties. En conséquence, une disposition précise plus spécifique doit prendre le pas sur une disposition générale. Je suis d'avis que la disposition à l'alinéa 20l) est plus générale que la disposition à l'article 25.
+[15] Pour ces motifs, l'appel est rejeté.
+Signé à Ottawa, Canada, ce 1er jour de décembre 2005.
+« Paul Bédard »
+Juge Bédard
+Annexe A
+LOCATION DES LOTS P-475-1 ET P-476 POUR DES FINS D'EXPLOITATION AGRICOLE
+BAIL INTERVENU ENTRE
+LA MUNICIPALITÉ DE CRABTREE, CORPORATION LÉGALEMENT CONSTITUÉE AYANT SON PRINCIPAL BUREAU D'AFFAIRES EN LA MUNICIPALITÉ DE CRABTREE, AU 111, 4E AVENUE, REPRÉSENTÉE PAR LE MAIRE DENIS LAPORTE ET PAR LA SECRÉTAIRE-TRÉSORIÈRE SYLVIE MALO TOUS DEUX AUTORISÉS AUX FINS DES PRÉSENTES, CI-APRÈS APPELÉE « LE LOCATEUR »
+ET
+MONSIEUR ANDRÉ THIBODEAU DEMEURANT AU 1268 RANG DES CONTINUATIONS À SAINT-JACQUES, CI-APRÈS APPELÉ « LE LOCATAIRE » .
+ESPACE LOUÉ
+Le Locateur donne en location et loue par les présentes au Locataire une parcelle de terrain ayant une superficie de 22,34 ACRES inscrite au rôle d'évaluation en vigueur; ledit terrain étant dans la municipalité de Crabtree et portant les numéros de lots P-475-1 et P-476.
+Tel que le tout se trouve présentement avec et sujet à toutes les servitudes actives et passives attachées à ladite propriété, le Locataire connaissant bien les lieux loués et leur état actuel.
+CHARGES ET CONDITIONS
+Ce bail est consenti aux charges, clauses et conditions suivantes, que le locataire s'engage et s'oblige de remplir et à exécuter :
+a) À payer pour lesdits lieux loués, un loyer de 1 000 $ par année.
+b) À n'utiliser les lieux loués qu'aux seules fins d'usage agricole.
+c) À maintenir une assurance risque et responsabilité pour 1 000 000 $ et à fournir au Locataire une preuve de cette assurance.
+d) À ne pas se servir des lieux loués pour des fins qui peuvent sembler répréhensibles au Locateur.
+e) À ne pas sous-louer les lieux en partie ou en totalité sans le consentement écrit du Locateur.
+f) À n'y ériger aucune bâtisse, construction, ni autre chose, à moins qu'elles ne soient approuvées par le Locateur.
+g) À se conformer à tous les règlements municipaux, sanitaires, provinciaux incluant mais non limitativement aux règlements environnementaux.
+h) À garantir et à tenir indemne le Locateur de toutes pertes, dépenses ou dommages qu'il pourrait subir ainsi que de toutes réclamations, pertes, frais, actions ou autres procédures faites ou intentées par qui que ce soit attribuables à, résultant ou découlant de quelque façon que ce soit de l'existence du présent bail.
+i) Le Locataire ne devra pénétrer sur les lots précités que pour effectuer des travaux de culture.
+j) Advenant la nécessité d'effectuer quelque travaux que ce soit, tels que ponceaux d'accès ou autres, ces travaux seront à votre charge entière et vous devrez aviser le Locateur avant d'entreprendre de tels travaux.
+DURÉE ET RENOUVELLEMENT
+Il est convenu que le présent bail soit d'une durée de un (1) an, à compter du 1er janvier 2002 jusqu'au 31 décembre 2002.
+Par la suite, le présent bail se renouvellera automatiquement par période successive d'un (1) an, du 1er janvier au 31 décembre de chaque année, à moins que l'une ou l'autre des parties désire y mettre fin; dans lequel cas elle devra faire parvenir à l'autre partie un préavis de deux (2) mois, au plus tard le 1er novembre de chaque année.
+PAIEMENT
+Le montant du loyer est fixé à 1 000 $ par année et est payable le 1er décembre de chaque année.
+SIGNATURES
+En foi de quoi les parties ont signé à Crabtree ce 7e jour du mois de juin 2002.
+LA MUNICIPALITÉ DE CRABTREE LE LOCATAIRE
+_________________________________ ________________
+Denis Laporte, maire André Thibodeau
+_________________________________
+Sylvie Malo, sec.-très.
+RÉFÉRENCE :
+2005CCI726
+No DU DOSSIER DE LA COUR :
+2004-3987(GST)I
+INTITULÉ DE LA CAUSE :
+Municipalité de Crabtree et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+Le 9 mai 2005
+MOTIFS DU JUGEMENT PAR :
+L'honorable juge Paul Bédard
+DATE DU JUGEMENT :
+Le 1er décembre 2005
+COMPARUTIONS :
+Pour l'appelante :
+Me Nadine Deschênes
+Pour l'intimée :
+Me Benoît Denis
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelante :
+Nom :
+Me Nadine Deschênes
+Étude :
+Boucher, Champagne, Thiffault, Pellerin & Forest
+Joliette (Québec)
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] LTA, L.R.C. (1985), ch. E-15.
+[2] par. 123(1), LTA.
+[3] . par. 123(1), LTA.
+[4] par 169(1), LTA.
+[5] par. 123(1), LTA.

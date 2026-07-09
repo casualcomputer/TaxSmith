@@ -1,0 +1,198 @@
+---
+title: "Osuala v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27913/index.do"
+last_modified: "2007-08-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 504"
+citation2: ""
+neutral_citation: "2007 TCC 504"
+decision_date: "2007-08-23"
+language: "en"
+item_id: "27913"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1710
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:48:46.443000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4294fe112defa76f64382d688230980dfa27ca8378e337f9035f447bbb4509e1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Osuala v. The Queen
+
+- Citation: 2007 TCC 504
+- Decision date: 2007-08-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1710, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Osuala v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-08-23
+Neutral citation
+2007 TCC 504
+File numbers
+2006-3033(IT)I
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-3033(IT)I
+BETWEEN:
+CHRIS OSUALA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on April 23, 2007 at Montreal, Quebec
+Before: The Honourable Justice G. A. Sheridan
+Appearances:
+Agent for the Appellant:
+Frank Dike
+Counsel for the Respondent:
+Chantal Roberge
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2001 and 2002 taxation years are dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 23rd day of August, 2007.
+"G. A. Sheridan"
+Sheridan, J.
+Citation: 2007TCC504
+Date: 20070823
+Docket: 2006-3033(IT)I
+BETWEEN:
+CHRIS OSUALA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] The Appellant, Chris Osuala, is appealing the assessments of the Minister of National Revenue of his 2001 and 2002 taxation years. At that time, he was the sole shareholder of NNCO Global Inc., a Montreal company selling prepaid telephone calling cards and exporting for sale used computer equipment. His reported income in each of these years was approximately $18,000[1]. Following a payroll audit of NNCO Global, the auditor determined that the Appellant had made numerous bank machine cash and cheque withdrawals from NNCO Global's business account totalling $37,621 and $44,000[2] for 2001 and 2002, respectively. He was the only person authorized to make such withdrawals. In the absence of any documentary proof that these amounts had been used for business purposes, the Minister assumed them to have been for the Appellant's personal benefit and added these amounts to his income. The Minister also assessed gross negligence penalties for 2002.
+[2] The Appellant was represented by his agent, Mr. Frank Dike of InHOUSE Trust'n Tax, who had also prepared the Notice of Appeal. In that document, the Appellant alleged that in 2001, the $37,621 withdrawn from NNCO Global had been used for auction purchases of inventory; and that in 2002, the $44,000 was used to repay a business loan to one Edward Farhood.
+[3] As in all tax appeals, the taxpayer has the onus of proving the assessments wrong. The Appellant was the only witness to testify on his behalf. I regret to say I did not find his testimony at all convincing[3]. His answers were vague and sometimes, inconsistent with his earlier testimony, his pleadings and/or his earlier statements to the auditor. His credibility was not helped by his inability to recall the business purpose of various withdrawals totalling $37,621 between April and December 2001 and a single withdrawal of $40,000 in January 2002. These are large amounts, the $40,000 withdrawal being more than double his reported income for 2002. By contrast, he had a very clear recollection of a much smaller withdrawal, in October 2001 of $11,500. Not only did he immediately and clearly recall its use as a down payment on his house, the Appellant also provided the Court with details of the provincial housing rebate program under which he had been able to recoup over half of that amount. This reveals both the selectiveness of the Appellant's memory as well as a certain level of sophistication in financial dealings.
+[4] As for the $37,621 in unexplained cash or cheque withdrawals in 2001, the Appellant was unable to recall their purpose suggesting that, possibly, they had been used for auction purchases or business renovations. As was the case during the audit, the Appellant did not have receipts to support either claim. According to the Appellant, many of his records had been lost in a fire that, in December 2001 destroyed the building where NNCO Global carried on business. While this may account, in part, for the lack of supporting documentation, the fact is the Appellant did not keep anything close to adequate books and records[4] for either himself or his solely held company. Although I accept his evidence that sellers of used equipment often do not provide receipts, that did not excuse him from the obligation to keep his own records. Nor did they have to be complicated. He could, for example, have noted the purchase on the ATM receipt or kept a simple log of his purchases in a notebook. When a business chooses to operate on a cash basis, it must also accept the responsibility of maintaining such records.
+[5] Equally troubling was the Appellant's explanation for his withdrawal of $40,000 in 2002. It was his evidence that in 2001, the company had received a start-up loan of $56,000 from Edward Farhood, a business man and consultant with whom he had been friends for over 10 years. Despite the Appellant's description of him as a "good" friend and the length of their friendship, when shown during cross-examination a copy of decree dated February 12, 2002 awarding the Appellant sole custody of his daughter[5] and in which appeared the signature and seal of an “Edward Farhood” as a Judicial Commissioner of the Superior Court of Quebec, the Appellant said he was unaware that Mr. Farhood had held that office. However, he did not deny that the individual named was his Mr. Farhood. In any case, the Appellant testified that in January 2002, he withdrew the $40,000 from the company to put towards the repayment of the Farhood loan. Yet only 6 months later, in June 2002, when asked about the $40,000 by the auditor, he made no mention of the Farhood loan and at that time, said he could not recall the purpose of the withdrawal. For the reasons set out below, I accept the auditor's evidence that, in spite of his promise to do so, the Appellant never did provide an explanation to him. At the hearing, the Appellant was unable to provide any corroborative evidence of the loan. The Appellant mentioned in passing that Mr. Farhood is now deceased. Despite the size of the loan, no formal loan agreement (or written document of any kind) had been made setting out the amount borrowed or the repayment terms.
+[6] The auditor in question was Mr. Christian Boutin. He became involved in the Appellant's file in 2002 in his (then) capacity as a payroll auditor charged with verifying the authenticity of certain T-4's for 1998, 1999 and 2000 in which NNCO Global was shown as employer and the Appellant, as employee. This was a puzzle as Mr. Boutin's inquiries would later reveal that NNCO Global had not even been incorporated until April 2001. When asked about the T-4's, the Appellant explained that he had tried to buy some property in 2001 and his real estate agent (apparently on his own hook) had given false T-4's to the bank in support of a loan application for the purchase funds. Discovering that the company was non-existent at the time and that, indeed, it had no T-4 account, Mr. Boutin set one up and cancelled the bogus T‑4's for 1998, 1999 and 2000. His review of the company's banking records brought to light the Appellant's withdrawals from NNCO Global's account which, in the absence of any other explanation, were then included in revised T-4's for the Appellant as personal income from NNCO Global.
+[7] I found Mr. Boutin to be entirely credible, providing a clear description of the procedures he was required to follow as well as the actual steps he took in dealing with the Appellant, in his personal capacity and as the principal of NNCO Global. Mr. Boutin met with the Appellant to review what few documents he had, mainly the company's bank statements, some cancelled cheques and "small" financial statements. I accept his evidence that although the Appellant was "co‑operative" (in that he did not challenge the auditor's conclusion that revised T‑4's would have to be filed showing the additional income the Appellant had received from NNCO Global), the Appellant ultimately failed to provide him with any explanation for the withdrawals.
+[8] Although the Appellant's evidentiary onus was explained to him on more than one occasion, in his cross-examination of Mr. Boutin, Mr. Dike focussed on challenging the auditor's motivations and procedures, rather than his substantive findings. Though not strictly speaking relevant, for the record, nothing in Mr. Boutin's testimony supports the conclusion that he conducted himself in anything other than a professional (and I would add, helpful) manner in dealing with the Appellant. As explained to Mr. Dike at the hearing, even if the auditor had behaved badly, such malfeasance is beyond the jurisdiction of the Tax Court of Canada. The following passage is typical of Mr. Dike's bullying attempts to shore up the Appellant's position by impugning the auditor's actions:
+Q. In other words, Mr. Osuala and NNCO didn't have a payroll account?
+A. No, they didn't.
+Q. And therefore you opened it?
+A. Yes, because I had three T4's to be treated.
+Q. It's O.K. The three T4's that you said that you have to treat ...
+A. Yes.
+Q. ... were something related to 1998, 1999 and 2000, correct?
+A. That's right.
+Q. O.K. When was the company Global NNCO opened?
+A. In 2001.
+Q. Did you verify that information?
+A. According to the bank statement, when the company ... when the bank statement was opened and when the activity started in the company account ... bank account, that was in 2001.
+Q. So you verified with it the bank information?
+A. That Mr. Osuala provided me.
+Q. O.K. Are you aware that when you incorporate a company, it's not done at the bank?
+A. I know.
+Q. O.K. So why didn't you verify it from where it's incorporated?
+A. Because in order to pay salaries you'd have to go through the bank account, so that's why our first step is to request a bank statement.
+Q. No, that's not the question.
+A. I'm sorry.
+Q. The question is are you aware that the bank doesn't incorporate a company, yes or no?
+A. Yes, I do. [6]
+...
+Q. O.K. So you're aware the corporation incorporated in Canada could have been done by the Registrar of companies?
+A. Yes, it's not done at the bank.
+Q. O.K. So did you verify this information before ...
+A. The chart [incorporation documents] of the company?
+Q. Yes.
+A. Yes, I actually ...
+Q. So ...
+A. ... did request the chart.
+Q. ... why was it difficult for you to determine that this company couldn't have had employees in 1998, 99 and 2000 and you went ahead to audit a company that didn't exist?
+A. I didn't have any choice to audit the company because even though I did have three T4's I still had to go and contact the administrator of the company to validate whether or not these were true T4's ...
+Q. And did you validate it?
+A. Excuse me?
+Q. Did you validate it?
+A. With Mr. Osuala and with the help ...
+Q. No, no ...
+A. ... of the bank statement.
+Q. ... did you validate the T4 of 1998, 99 and 2000?
+A. My conclusions were that there were no such salaries paid during that period because there was no bank account opened during that period.
+Q. In other words the company didn't exist?
+A. That's right.
+Q. And the company wasn't incorporated?
+A. It wasn't.
+Q. O.K. So that doesn't have anything to do with Global NNCO?
+A. What doesn't have anything to do?
+Q. The T4's you are talking about in 1998, 99 and 2000, did they have anything to do with Global Inc.?
+A. Well, actually the T4's were ... they had the name NNCO GLobal Inc. on it.
+Q. The T4 ....
+A. And the name of Mr. Osuala ....
+Q. ... did you verify that it doesn't come from that company?
+A. It's not that it doesn't come from that company it's that the T4 was titled with the name of that particular company and my mandate was basically to validate whether or not these T4's were true with the name of the employer. My conclusions were that they weren't ...
+Q. The were not true?
+A. No, they were not.
+Q. O.K. So basically you started an audit based on false information, you went to Mr. Osuala's house at a point in time ... were you aware that the company was already burned down?
+A. When I first met Mr. Osuala?
+Q. Yes, were you aware that the company already burned down?
+A. Well, yes because prior to going to his house to leave him a visit card I went to the company premises and that's when I saw that the company had burned down.[7]
+[9] The Appellant did not challenge the Minister's assumption that in just over a year, between May 2001 and June 2002, he withdrew some $81,000 from his solely owned company. Even if his evidence, as presented, had been entirely credible, it left unanswered too many important questions. His evidence was that the December 2001 fire significantly reduced NNCO Global's earning power. Yet its bank account was solvent enough to permit withdrawals of $44,000 in the six months following the fire. As for the Appellant, he said he survived in these difficult times by relying on loans from "family and friends", none of whom were identified beyond that vague description. In his cross‑examination of the auditor, Mr. Dike made much of the fact that the auditor had refused to accept the Appellant's offer to provide him with a "letter" from friends stating that they had given him the money. I share the auditor's view that such a document in itself would not be sufficient to prove the non‑personal nature or the business use of the Appellant's withdrawals from the company account. Nor is there any explanation as to why such funds would be run through the company's bank account. As a result, the Appellant's evidence failed to show how the cash withdrawals had been used to pay expenses and liabilities of NNCO Global Inc., nor did it demonstrate that the funds had not been used for the Appellant's personal benefit. In these circumstances, I can only conclude on a balance of probabilities that the $37,621 and $44,000 were properly included in his income for 2001 and 2002.
+[10] The Minister also assessed gross negligence penalties in 2002 pursuant to subsection 163(2) of the Income Tax Act, on the basis that the Appellant "… knowingly … made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate…". Referring the Court to the Federal Court of Appeal decision, Villeneuve v. Canada, counsel for the Respondent submitted that in certain circumstances, "willful blindness" can amount to gross negligence:
+With respect, I think the judge failed to consider the concept of gross negligence that may result from the wrongdoer's willful blindness. Even a wrongful intent, which often takes the form of knowledge of one or more of the ingredients of the alleged act, may be established through proof of willful blindness. In such cases, the wrongdoer, while he may not have actual knowledge of the alleged ingredient, will be deemed to have that knowledge.[8]
+[11] The term "gross negligence" was defined by the Federal Court of Appeal in Venne v. Canada:
+"Gross negligence" must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not.[9]
+[12] In my view, the word "indifference" accurately describes the Appellant's conduct in relation to his obligations under the Act. The Appellant was reasonably knowledgeable in fiscal matters; the unaccounted-for amounts were significantly higher than his reported income; the business of NNCO Global was relatively simple; and the level of records keeping necessary to provide him with an accurate picture of his personal and the company's financial situation was not onerous. At all times and in all matters relevant to these appeals, the Appellant played a dual role, in his personal capacity and as the principal of NNCO Global. As such, he had full and exclusive access to the company's sales information, its banking and other financial documents, the funds in the company's bank account and to all information necessary to the proper reporting of his and the company's income. Without going so far as to say he deliberately kept his dealings vague, I am satisfied that he demonstrated a level of "indifference" tantamount to the "gross negligence" contemplated by Villeneuve and Venne. In these circumstances, the Respondent has made its case for the imposition of gross negligence penalties for 2002.
+[13] The appeals are dismissed.
+Signed at Ottawa, Canada, this 23rd day of August, 2007.
+"G. A. Sheridan"
+Sheridan, J.
+CITATION: 2007TCC504
+COURT FILE NO.: 2006-3033(IT)I
+STYLE OF CAUSE: CHRIS OSUALA AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: April 23, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice G. A. Sheridan
+DATE OF JUDGMENT: August 23, 2007
+APPEARANCES:
+Agent for the Appellant:
+Frank Dike
+Counsel for the Respondent:
+Chantal Roberge
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] In his 2001 income tax return, the Appellant reported $40,000 of self-employment income, from which some $22,000 of expenses was deducted. In 2002, he reported $15,000 of employment income and $3,000 in rental income.
+[2] Comprising one withdrawal of $40,000 and several smaller withdrawals totalling $4,000.
+[3] In reaching this conclusion, I have given no weight to the alleged irregularities in the bank draft of Mr. Farhood (Exhibit R-3(12)) or to the findings of the Court of Quebec in an unsuccessful action by NNCO Global to enforce payment of the insurance proceeds after the December 2001 fire (Exhibit R-5).
+[4] As required under the Income Tax Act.
+[5] Exhibit R-4.
+[6] Transcript: page 174, lines 2–25 to page 175, lines 1- 12.
+[7] Transcript: page 176, line 25 to page 179, lines 1-18.
+[8] 2004 DTC 6077 at paragraph 6.
+[9] 84 DTC 6247 at paragraph 37 (F.C.T.D.).

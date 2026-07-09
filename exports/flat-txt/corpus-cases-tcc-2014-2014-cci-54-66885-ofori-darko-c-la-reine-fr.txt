@@ -1,0 +1,142 @@
+Title: Ofori-Darko c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/66885/index.do
+Corpus path: corpus/cases/tcc/2014/2014-cci-54-66885-ofori-darko-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2014-01-29
+
+# Ofori-Darko c. La Reine
+
+- Citation: 2014 CCI 54
+- Decision date: 2014-01-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5959, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ofori-Darko c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-01-29
+Référence neutre
+2014 CCI 54
+Numéro de dossier
+2013-3652(IT)I
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-3652(IT)I
+ENTRE :
+STEPHEN OFORI-DARKO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+Doris Ofori-Darko 2013-3809(IT)I le 29 janvier 2014
+à Toronto (Ontario)
+Devant : L’honorable juge B. Paris
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Marcel Prévost
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre des nouvelles cotisations établies au titre de la Loi de l’impôt sur le revenu pour les années d’imposition 2006, 2007 et 2008 sont rejetés, conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 17e jour de février 2014.
+« B.Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 10e jour d’avril 2014.
+C. Laroche
+Dossier : 2013-3809(IT)I
+ENTRE :
+DORIS OFORI-DARKO,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+Stephen Ofori-Darko 2013-3652(IT)I le 29 janvier 2014
+à Toronto (Ontario)
+Devant : L’honorable juge B. Paris
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me Marcel Prévost
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre des nouvelles cotisations établies au titre de la Loi de l’impôt sur le revenu pour les années d’imposition 2006, 2007 et 2008 sont rejetés, conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 17e jour de février 2014.
+« B.Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 10e jour d’avril 2014.
+C. Laroche
+Référence : 2014 CCI 54
+Date : 2014-02-17
+Dossier : 2013-3652(IT)I
+2013-3809(IT)I
+ENTRE :
+STEPHEN OFORI-DARKO
+DORIS OFORI-DARKO,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] Les appelants interjettent appel contre le refus des crédits d’impôt pour dons de bienfaisance qu'ils ont demandés pour leurs années d'imposition 2006, 2007 et 2008. M. Ofori-Darko a demandé une déduction pour dons de bienfaisance à l'église Redemption Faith (« Redemption ») de 3 645 $, 4 516 $ et 4 102 $ respectivement pour ces années. Mme Ofori-Darko a demandé la déduction de dons de 10 815 $, 10 195 $ et 10 648 $ au même organisme pour ces années respectivement. Les appels ont été entendus sur preuve commune.
+[2] Le ministre du Revenu national (le « ministre ») a refusé d’accorder les crédits d’impôt pour le motif qu’aucun des appelants n'avait fait le moindre don à Redemption au cours de l’une ou l’autre de ces années et également que les reçus pour dons de bienfaisance qui leur avaient été délivrés par Redemption ne contenaient pas les renseignements prescrits à l’article 3501 du Règlement de l’impôt sur le revenu[1] (le « RIR ») et requis pour prouver qu’il y a eu don. Il est nécessaire de produire un reçu contenant les renseignements prescrits pour demander un crédit d'impôt pour don de bienfaisance, selon l’alinéa 118.1(2)a) de la Loi de l’impôt sur le revenu (la « LIR »).
+[3] Au cours des années en cause, Redemption était un organisme de bienfaisance enregistré qui exploitait un lieu de culte à Etobicoke et, aux dires de l’appelant, organisait des activités caritatives au Canada et au Ghana. M. Ofori‑Darko est le fondateur, en même temps que le pasteur, de Redemption et en était également l’un des administrateurs. Mme Ofori-Darko est pasteure adjointe et administratrice.
+[4] L’enregistrement de Redemption à titre d’organisme caritatif a été révoqué en 2010, parce que le ministre n’a pu en confirmer les activités caritatives. L’agent de l’Agence du revenu du Canada (l’« ARC ») qui a supervisé la vérification a déclaré qu’il existait de graves réserves à propos de reçus pour dons de bienfaisance gonflés délivrés par Redemption. En 2005, Redemption a délivré des reçus pour dons totalisant 121 000 $. Au cours de l’année en question, 4 234 $ seulement ont été déposés dans le compte bancaire de Redemption. En 2006, Redemption a délivré des reçus pour dons de plus de 677 000 $. Cette année-là, 7 876 $ seulement ont été déposés dans son compte bancaire. Les appelants n’ont pas contesté les éléments de preuve produits par l’agent de l’ARC sur ce point.
+[5] En raison des constatations de la vérification, l’ARC a révisé les crédits d’impôt personnels demandés à l’égard de dons à Redemption.
+[6] Les appelants affirment avoir fait ces dons à Redemption en espèces lors des offices religieux hebdomadaires à l’église de Redemption. Ils ont dit avoir placé leurs dons dans des enveloppes marquées à leur nom qu'ils ont déposées dans la corbeille de collecte. M. Ofori-Darko a dit qu’une des membres de l’église, Mme Prudence Crankson, a ouvert les enveloppes en présence d’un autre membre et inscrit les dons en espèces dans un des deux registres. Le premier était destiné à l’inscription de la dîme, représentant une partie des gains des donateurs, et le second servait à consigner les contributions autres que la dîme. (Apparemment, l'enveloppe remise par le donateur indiquait la nature du don).
+[7] Aux dires de M. Ofori-Darko, une fois le montant inscrit dans les livres de Redemption, il prenait l’argent et le déposait dans le compte bancaire de Redemption. Il a produit une copie des entrées au registre de la dîme pour 2006, 2007 et 2008. Selon ces entrées, il a donné en dîme 2 047 $ en 2006, 2 738 $ en 2007 et 2 346 $ en 2008, et Mme Ofori-Darko a donné en dîme, selon ce même registre, 3 550 $ en 2006, 4 740 $ en 2007 et 5 240 $ en 2008. M. Ofori-Darko a dit que le reste de ses dons se composaient de dons en nature à Redemption sous forme de vêtements et de chaussures neufs et usagés que Redemption expédiait au Ghana pour les distribuer aux nécessiteux. Mme Ofori-Darko a dit également avoir fait des dons de même nature, donné de la nourriture pour les activités de l’église et payé les frais de stationnement tandis qu’elle effectuait des visites à l’hôpital. Elle a dit aussi avoir fait des contributions supplémentaires en espèces, en sus des montants portés au registre de la dîme. Aucun relevé de dons en nature, non plus que de dépenses ou autres dons en espèces n’a été produit.
+[8] Sur le premier point, je conclus que les appelants n’ont pas établi, selon la prépondérance des probabilités, qu’ils avaient fait les dons dont ils demandaient la déduction. Aucune preuve n’a été produite corroborant ce qu’ils ont dit dans leurs dépositions, à savoir qu’ils ont fait des dons en nature à Redemption, et leur témoignage à lui seul était trop vague, ne permettant pas de savoir quels biens en particulier avaient été donnés ou quelle valeur pouvait leur être attribuée. De la même façon, l’existence de cadeaux en espèces donnés par Mme Ofori-Darko en plus de ceux reportés au registre de la dîme n’a pas été corroborée.
+[9] De plus, je ne puis croire à la fiabilité ses montants reportés aux registres de la dîme. La personne qui aurait inscrit les entrées au registre de la dîme n’a pas été appelée à témoigner, et rien ne prouve qu’elle ne pouvait le faire. Ma conclusion est qu’elle n’a pas été appelée à témoigner, parce que sa déposition n’aurait pas aidé les appelants. Facteur plus important, par contre, les appelants n’ont pas produit pour Redemption de relevés bancaires établissant que des dépôts au moins égaux à la dîme prétendument perçue ont été faits dans le compte bancaire de celle-ci.
+[10] M. Ofori-Darko dit qu'il a déposé dans ce compte la totalité de l’argent recueilli. Les éléments de preuve produits n’appuient pas sa déposition à ce propos. Pour l’année 2006, le registre de la dîme indique un total de 12 406 $ en dons, tandis que l’agent de l’ARC a déclaré qu’il n'a été déposé que 7 876 $ dans le compte bancaire de Redemption cette année‑là. Le fait que les appelants aient omis de produire les relevés bancaires de Redemption pour les années en cause m’amène encore une fois à conclure que ces relevés n’auraient pas confirmé leur assertion. En qualité d’administrateurs de Redemption, les appelants auraient dû être à même de produire ces relevés.
+[11] Puisque j’ai conclu que les appelants n’avaient pas établi que les dons avaient été bel et bien faits, je n’ai pas, à proprement parler, à trancher le second point, concernant les reçus pour dons délivrés aux appelants par Redemption. Toutefois, il serait utile d’analyser les observations formulées à cet égard.
+[12] Je soulignerais, pour les besoins du dossier, que Mme Ofori-Darko n’a produit qu’un seul reçu, pour 2006, mais je suis disposé à admettre le témoignage de M. Ofori-Darko, qui a préparé les reçus, à savoir que les autres reçus délivrés à Mme Ofori-Darko auraient été analogues, par la forme, à ses propres reçus pour 2007 et 2008.
+[13] Je conviens avec l’avocat de l’intimée que ces reçus ne comportent pas tous les renseignements exigés par le paragraphe 3501(1) du RIR. Plus particulièrement, il n’y a pas de ventilation entre dons en espèces et dons en nature, non plus que de description des dons en nature qui auraient été faits.
+[14] En outre, il n’est pas précisé dans ces reçus à quel moment les dons en nature ont été recueillis par Redemption, non plus que leur juste valeur marchande à ce moment‑là. Enfin, n’y sont pas reportés le lieu ou l'endroit où le reçu a été délivré. Comme je l’ai mentionné dans Afovia et al. c. La Reine[2], faire état des renseignements énumérés au paragraphe 3501(1) du RIR est incontournable en matière de reçu officiel pour don de bienfaisance, et, par conséquent, les reçus produits dans les présents appels ne suffisent pas à prouver l’existence d’un don ainsi qu’il est prescrit à l’alinéa 118.1(2)a) de la LIR.
+[15] Pour tous ces motifs, les appels sont rejetés.
+Signé à Ottawa, Canada, ce 17e jour de février 2014.
+« B.Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 10e jour d’avril 2014.
+C. Laroche
+RÉFÉRENCE : 2014 CCI 54
+NO DE DOSSIER : 2013-3652(IT)I
+INTITULÉ : STEPHEN OFORI-DARKO ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 29 janvier 2014
+MOTIFS DU JUGEMENT : L’honorable juge B. Paris
+DATE DU JUGEMENT : Le 17 février 2014
+COMPARUTIONS :
+Pour les appelants :
+Les appelants eux-mêmes
+Conseil de l’intimée :
+Me Marcel Prévost
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Règlement de l’impôt sur le revenu, C.R.C., ch. 945.
+[2] 2012 CCI 391, [2012] A.C.I. no 314, au paragraphe 12.

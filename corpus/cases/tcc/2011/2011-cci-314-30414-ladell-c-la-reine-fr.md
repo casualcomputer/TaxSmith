@@ -1,0 +1,221 @@
+---
+title: "Ladell c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30414/index.do"
+last_modified: "2011-06-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 314"
+citation2: ""
+neutral_citation: "2011 CCI 314"
+decision_date: "2011-06-22"
+language: "fr"
+item_id: "30414"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7944
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:47:16.092000+00:00"
+cases_cited_count: 3
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fd9f06a406484b5d2e0c5915b3b53fa1a1bd9f5d5a6b5539ec0162430852ef32"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ladell c. La Reine
+
+- Citation: 2011 CCI 314
+- Decision date: 2011-06-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7944, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ladell c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-06-22
+Référence neutre
+2011 CCI 314
+Numéro de dossier
+2010-3541(IT)I
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-3541(IT)I
+ENTRE :
+Scot A. Ladell,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 11 mars 2011 à Calgary (Alberta).
+Devant : L’honorable juge Lucie Lamarre
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Adam Gotfried
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de L’impôt sur le revenu pour l’année d’imposition 2008 est rejeté.
+Signé à Ottawa, Canada, ce 22e jour de juin 2011.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 27e jour de juillet 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+Référence : 2011 CCI 314
+Date : 20110622
+Dossier : 2010-3541(IT)I
+ENTRE :
+Scot A. Ladell,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] Il s’agit d’un appel interjeté à l’encontre d’une nouvelle cotisation établie par le ministre du Revenu national (le « ministre ») en vertu de la Loi de l’impôt sur le revenu (la « LIR ») pour l’année d’imposition 2008 de l’appelant. Dans le calcul de son revenu pour cette année‑là, l’appelant a notamment demandé une déduction de 9 600 $ à l’égard d’une personne à charge admissible et une déduction de 2 038 $ à l’égard d’enfants nés en 1991 ou après, en application des alinéas 118(1)b) et b.1) de la LIR. Le ministre a refusé ces déductions conformément au paragraphe 118(5) de la LIR au motif que l’appelant versait une pension alimentaire au cours de cette année‑là relativement à l’enfant pour lequel il demande ces déductions.
+Dispositions légales
+56.1(4)
+Définitions
+Les définitions qui suivent s’appliquent au présent article et à l’article 56.
+« pension alimentaire »
+« pension alimentaire » Montant payable ou à recevoir à titre d’allocation périodique pour subvenir aux besoins du bénéficiaire, d’enfants de celui-ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas :
+a) le bénéficiaire est l’époux ou le conjoint de fait ou l’ex‑époux ou l’ancien conjoint de fait du payeur et vit séparé de celui-ci pour cause d’échec de leur mariage ou union de fait et le montant est à recevoir aux termes de l’ordonnance d’un tribunal compétent ou d’un accord écrit;
+b) le payeur est légalement le père ou la mère d’un enfant du bénéficiaire et le montant est à recevoir aux termes de l’ordonnance d’un tribunal compétent rendue en conformité avec les lois d’une province.
+118(1)
+Crédits d’impôt personnels
+Le produit de la multiplication du total des montants visés aux alinéas a) à e) par le taux de base pour l’année est déductible dans le calcul de l’impôt payable par un particulier en vertu de la présente partie pour une année d’imposition;
+[...]
+Crédit équivalent pour personne entièrement à charge
+b) le total de 10 320 $ et de la somme obtenue par la formule suivante :
+10 320 $ – D
+où :
+D représente le revenu d’une personne à charge pour l’année,
+si le particulier ne demande pas de déduction pour l’année par l’effet de l’alinéa a) et si, à un moment de l’année :
+(i) d’une part, il n’est pas marié ou ne vit pas en union de fait ou, dans le cas contraire, ne vit pas avec son époux ou conjoint de fait ni ne subvient aux besoins de celui-ci, pas plus que son époux ou conjoint de fait ne subvient à ses besoins,
+(ii) d’autre part, il tient, seul ou avec une ou plusieurs autres personnes, et habite un établissement domestique autonome où il subvient réellement aux besoins d’une personne qui, à ce moment, remplit les conditions suivantes :
+(A) elle réside au Canada, sauf s’il s’agit d’un enfant du particulier,
+(B) elle est entièrement à la charge soit du particulier et d’une ou plusieurs de ces autres personnes,
+(C) elle est liée au particulier,
+(D) sauf s’il s’agit du père, de la mère, du grand-père ou de la grand‑mère du particulier, elle est soit âgée de moins de 18 ans, soit à charge en raison d’une infirmité mentale ou physique;
+Montant pour enfant
+b.1) celle des sommes suivantes qui est applicable :
+(i) 2 000 $ pour chaque enfant du particulier qui est âgé de moins de 18 ans à la fin de l’année et qui réside habituellement, tout au long de l’année, avec le particulier et un autre parent de l’enfant,
+(ii) sauf en cas d’application du sous-alinéa (i), 2 000 $ pour chaque enfant du particulier qui est âgé de moins de 18 ans à la fin de l’année et à l’égard duquel le particulier peut déduire une somme en application de l’alinéa b), ou pourrait déduire une telle somme si l’alinéa 118(4)a) ne s’appliquait pas à lui pour l’année et si l’enfant n’avait pas de revenu pour l’année.
+[...]
+Pension alimentaire
+(5) Aucun montant n’est déductible en application du paragraphe (1) relativement à une personne dans le calcul de l’impôt payable par un particulier en vertu de la présente partie pour une année d’imposition si le particulier, d’une part, est tenu de payer une pension alimentaire au sens du paragraphe 56.1(4) à son conjoint ou ancien conjoint pour la personne et, d’autre part, selon le cas :
+a) vit séparé de son époux ou conjoint de fait ou ex‑époux ou ancien conjoint de fait tout au long de l’année pour cause d’échec de leur mariage ou union de fait;
+b) demande une déduction pour l’année par l’effet de l’article 60 au titre de la pension alimentaire versée à son conjoint ou ancien conjoint.
+Non-application du paragraphe (5)
+(5.1) À supposer que la présente loi s’applique compte non tenu du présent paragraphe, dans le cas où personne n’a droit, par le seul effet du paragraphe (5), à la déduction prévue aux alinéas (1)b) ou b.1) pour une année d’imposition relativement à un enfant, le paragraphe (5) ne s’applique pas relativement à l’enfant pour l’année en cause.
+Les faits
+[2] Il n’est pas contesté que l’appelant vit séparé de son ex‑épouse depuis le 26 décembre 2003 pour cause d’échec de leur mariage. Ils ont deux enfants, nés le 6 mai 1994 et le 26 juillet 1995, dont ils partagent la garde.
+[3] En 2006, l’appelant et son ex‑épouse ont signé un accord de divorce et de partage des biens (l’« accord ») dans lequel ils ont convenu qu’ils auraient une garde partagée des enfants, qu’ils se partageraient également les périodes de temps passées avec les enfants et qu’ils assumeraient en alternance [traduction] « les responsabilités relatives à la résidence et au soin et à la supervision des enfants » (pièce A‑1, paragraphe 2.1). Les dispositions pertinentes relatives à la pension alimentaire pour enfants contenues dans l’accord sont reproduites ci‑après :
+[traduction]
+PENSION ALIMENTAIRE
+13.1 L’époux et l’épouse reconnaissent qu’au moment de la conclusion du présent accord, l’époux est chiropraticien chez Chinook Chiropractic et que, aux fins d’établissement de la pension alimentaire pour enfants, l’époux gagne environ 90 000 $, tandis que l’épouse est une travailleuse autonome qui exerce la profession de courtier en immeubles auprès de Sutton Group (Alta‑West) et gagne environ 35 000 $. Étant donné qu’il peut y avoir une fluctuation de leurs revenus, les parties doivent se fournir mutuellement, au plus tard le 1er juin de chaque année, à compter du 1er juin 2007, un relevé du salaire annuel de chacun et une estimation des dépenses futures prévues à l’article 7, dans la mesure où ces renseignements peuvent être obtenus à ce moment‑là. Les parties modifieront la pension alimentaire pour enfants et les dépenses prévues à l’article 7, le cas échéant, selon des renseignements actualisés.
+13.2 Eu égard à une demande rétroactive de pension alimentaire pour enfants et de pension alimentaire pour conjoint, l’époux effectuera en faveur de l’épouse un règlement forfaitaire de 5 000 $, qui représente une combinaison des pensions alimentaires rétroactives pour enfants et pour conjoint dues à compter de la date de séparation. Les parties reconnaissent que l’époux a versé à l’épouse le montant représentant le règlement forfaire et l’épouse reconnaît avoir reçu ce montant.
+13.3 Les parties conviennent que, conformément à l’entente de partage des responsabilités parentales et aux Lignes directrices fédérales sur les pensions alimentaires pour enfants, l’époux versera à l’épouse une pension alimentaire pour enfants mensuelle de 784 $, à compter du premier jour du mois suivant la conclusion du présent accord et, par la suite, le premier jour de chaque mois tant que les enfants seront considérés comme des enfants à charge au sens de la Loi sur le divorce, 1985, dans sa version modifiée. Les parties reconnaissent que la pension alimentaire de 784 $ représente la différence entre l’obligation alimentaire pour enfants de l’époux de 1 290 $ et celle de l’épouse de 506 $.
+[...]
+13.9 Les parties conviennent que les enfants seront considérés comme résidant avec leur mère aux fins de l’impôt et que l’épouse aura le droit de recevoir toutes déductions autorisées à l’égard des enfants, y compris la totalité de la déduction pour frais de garde d’enfants permise.
+[...]
+MODIFICATION DE LA PENSION ALIMENTAIRE POUR ENFANTS
+18.1 S’il survient un changement important dans les ressources, les besoins, et d’une façon générale dans la situation de l’époux ou de l’épouse, ou dans l’un de ces éléments au sens de l’article 17 de la Loi sur le divorce, 1985, l’un ou l’autre des époux peut demander une modification des dispositions du présent accord à l’égard de la pension alimentaire pour enfants, de la garde et de l’accès auprès des enfants.
+[...]
+IMPôT SUR LE REVENU
+20.1 L’épouse a le droit de recevoir la prestation fiscale pour enfants à l’égard des deux enfants.
+20.2 L’épouse et l’époux peuvent demander une déduction à l’égard de tous frais de garde d’enfants payés par l’un ou l’autre pour les enfants, au titre de Loi de l’impôt sur le revenu, L.C. 1970-71-72, ch. 63, dans sa version modifiée.
+[4] L’appelant estime que lui et son ex‑épouse payaient une pension alimentaire pour enfants et que, par l’effet du paragraphe 118(5.1) de la LIR, le paragraphe 118(5) de la LIR ne s’applique pas et ne l’empêche pas de demander la déduction pour une personne à charge admissible et le montant pour enfant. L’appelant soutient que, en vertu de l’accord, chaque parent a une obligation envers l’autre en ce qui concerne le soutien financier à apporter aux enfants. Le transfert d’argent a été simplifié par le fait que le parent qui gagne le revenu le plus élevé verse à l’autre la différence, mais cela n’a pas changé le fait que chaque parent versait à l’autre une pension alimentaire pour enfants, étant donné que les parents se partageaient également la garde des enfants (voir l’avis d’appel).
+[5] L’appelant a reconnu qu’en 2008, il avait versé 784 $ par mois à son épouse, et que cette dernière ne lui avait versé aucune somme d’argent au cours de cette année‑là. Toutefois, l’appelant a insisté sur le fait qu’il versait une somme nette, et qu’il n’entendait pas par là que son ex‑épouse ne lui versait pas de pension alimentaire pour enfants.
+[6] En l’espèce, il s’agit d’une affaire de garde partagée où les parents se partagent en périodes égales le temps qu’ils passent avec leurs enfants. La pension alimentaire prévue par l’accord a été calculée conformément aux Lignes directrices fédérales sur les pensions alimentaires pour enfants (les « Lignes directrices »). Les articles 8 et 9 des Lignes directrices sont ainsi libellés :
+Lignes directrices fédérales sur les pensions alimentaires pour enfants
+Garde exclusive
+8. Si les deux époux ont chacun la garde d’un ou de plusieurs enfants, le montant de l’ordonnance alimentaire est égal à la différence entre les montants que les époux auraient à payer si chacun d’eux faisait l’objet d’une demande d’ordonnance alimentaire.
+Garde partagée
+9. Si un époux exerce son droit d’accès auprès d’un enfant, ou en a la garde physique, pendant au moins 40 % du temps au cours d’une année, le montant de l’ordonnance alimentaire est déterminé compte tenu :
+a) des montants figurant dans les tables applicables à l’égard de chaque époux;
+b) des coûts plus élevés associés à la garde partagée;
+c) des ressources, des besoins et, d’une façon générale, de la situation de chaque époux et de tout enfant pour lequel une pension alimentaire est demandée.
+[7] Dans un cas de garde partagée, c’est l’article 9 des Lignes directrices qui s’applique. Dans l’arrêt Contino c. Leonelli-Contino, [2005] 3 R.C.S. 217, [2005] A.C.S. No 65 (QL), 2005 CSC 63, la Cour suprême du Canada a déclaré que l’article 9 des Lignes directrices prévoit expressément l’application d’un régime particulier en cas de garde partagée. Le premier facteur énoncé aux alinéas 9a) des Lignes directrices exige que la Cour tienne compte de la situation financière des deux parents. De l’avis de la Cour suprême du Canada, bien que la méthode de la compensation prévue à l’article 8 des Lignes directrices puisse constituer un bon point de départ à la recherche d’une solution raisonnable qui tienne compte de la contribution financière distincte de chacun des parents, le montant issu de la compensation sera rajusté au regard des facteurs mentionnés aux alinéas 9b) et c) des Lignes directrices. Comme l’a déclaré le juge Bastarache au paragraphe 41 de l’arrêt Contino, « [l]a compensation opérée, il faut donc se demander si le parent créancier est toujours en mesure de subvenir aux besoins de l’enfant, d’autant plus que de nombreux coûts sont fixes […] la question se pose dans bon nombre de cas où l’écart entre les revenus des parents est important […] ».
+[8] Le juge Bastarache a expliqué le fondement sur lequel repose le calcul de la pension alimentaire dans des situations de garde partagée. Voici la teneur des propos du juge Bastarache, aux paragraphes 49 et suivants de Contino, précité:
+49 C’est pourquoi la compensation simple sert de point de départ à l’analyse, mais ne peut en être le point d’arrivée. Elle n’établit pas de présomption. Elle permet en fait au tribunal de mettre d’abord l’accent sur l’obligation des deux parents de contribuer et sur la nécessité de déterminer les frais fixes et variables de chacun avant de rajuster le montant pour tenir compte du coût plus élevé de la garde partagée et de le modifier par ailleurs pour faire en sorte que le résultat final soit juste au regard des ressources, des besoins et, d’une façon générale, de la situation de chaque époux et de tout enfant pour lequel une pension alimentaire est demandée. Les deux derniers facteurs doivent être dûment pris en considération (voir Payne, p. 263). Le risque de chute brutale ne peut être écarté que si le tribunal considère les autres facteurs énoncés aux al. 9b) et c) aussi importants dans la détermination du montant de la pension alimentaire pour enfants.
+50 Il importe de signaler que le montant figurant dans la table est une estimation de ce que verse théoriquement le parent non gardien. Lorsque les deux parents contribuent, il faut donc confronter leur contribution respective avec ce que prévoit la table pour chacun d’eux à titre de parent débiteur. Le juge peut alors mieux décider si le rajustement qui doit être apporté au montant issu de la compensation se fonde sur le partage réel des dépenses liées à l’enfant.
+51 C’est à cette étape que le pouvoir discrétionnaire entre en jeu. Le tribunal peut modifier le montant issu de la compensation lorsque, en raison de la situation financière réelle des parents, il en résulterait un changement important du niveau de vie de l’enfant chaque fois qu’il passerait d’un ménage à l’autre, ce que n’a pas voulu le législateur. Comme je l’ai dit dans Francis c. Baker, l’un des objectifs généraux des lignes directrices est d’éviter le plus possible une grande disparité entre les ménages. Il faut aussi comparer la situation des parents tandis qu’ils partageaient le même toit à celle de chacun d’eux lorsqu’est demandée l’ordonnance visée à l’art. 9. Autant que possible, l’enfant ne doit subir aucune diminution sensible de son niveau de vie. Néanmoins, ce pouvoir discrétionnaire ne vise pas à écarter toutes les règles et la prévisibilité. Le tribunal ne doit pas retourner à l’époque où aucune méthode ne permettait véritablement de calculer la pension alimentaire pour enfants (Paras c. Paras, [1971] 1 O.R. 130 (C.A.)).
+[...]
+2.2.2 L’alinéa 9b) — Les coûts plus élevés associés à la garde partagée
+[...]
+53 La modification du temps que le parent débiteur passe avec l’enfant donnera donc lieu à un examen fondé sur l’al. 9b) pour déterminer quels sont les frais supplémentaires réels supportés en raison des nouvelles modalités de garde. Je le précise, car tout accroissement des coûts ne résultera pas directement de la modification du temps réel passé avec l’enfant. Un parent peut tout simplement prendre à sa charge une plus grande part des dépenses, celles liées aux fournitures scolaires et aux activités sportives par exemple. C’est pourquoi le tribunal sera appelé à examiner les budgets des parents et leurs dépenses réelles pour l’enfant. Ces dépenses seront réparties en fonction de leurs revenus respectifs.
+2.2.3 L’alinéa 9c) — Les ressources, les besoins et, d’une façon générale, la situation de chaque époux et de tout enfant
+[...]
+68 L’alinéa 9c) confère au tribunal le vaste pouvoir discrétionnaire d’examiner les ressources et les besoins à la fois des parents et des enfants. Il s’ensuit, je le rappelle, que l’application des montants figurant dans la table et à partir desquels la compensation simple est effectuée ne saurait donc être présumée et qu’il faut s’assurer de la véracité des hypothèses qui sous‑tendent ces montants au regard des faits, puisque les trois facteurs doivent être appliqués. À nouveau, il importe de garder présents à l’esprit les objectifs des lignes directrices énoncés précédemment — normes équitables en matière de soutien alimentaire des enfants et juste contribution de chacun des parents. Dans la présente affaire, notre Cour se souciera particulièrement du niveau de vie de l’enfant dans chacun des ménages et de la capacité de chacun des parents de supporter le coût du maintien du niveau de vie voulu dans les circonstances.
+[9] Il ressort clairement de l’accord que la pension alimentaire pour enfants a été établie conformément à l’article 9 des Lignes directrices. L’article 18.1 de l’accord prévoit expressément qu’en cas de changement important des ressources, des besoins et, d’une façon générale, de la situation de l’époux ou de l’épouse, l’un ou l’autre des époux peut demander une modification de la pension alimentaire pour enfants (il s’agit d’un renvoi au troisième facteur, énoncé à l’alinéa 9c) des Lignes directrices, dont il faut tenir compte pour établir la pension alimentaire pour enfants).
+[10] Il est possible de déduire de Contino que, bien que chaque parent puisse avoir une obligation financière à l’égard des enfants dans une situation de garde partagée, les dépenses pour enfants seront réparties entre les parents en fonction de la capacité de chaque parent de supporter le coût nécessité par un maintien approprié du coût de la vie dans les circonstances. La pension alimentaire prévue à l’article 9 des Lignes directrices n’est pas le résultat d’un simple « calcul mathématique » (Contino, au paragraphe 88) ou de la méthode de la compensation où la pension alimentaire est calculée par l’établissement de la table applicable pour chacun des parents, comme si chacun demandait une pension alimentaire à l’autre, tel que c’est le cas dans une situation de garde exclusive (article 8 des Lignes directrices). La détermination de la pension alimentaire pour enfants en cas de garde partagée exige que l’on tienne compte de la situation globale des parents (ressources et besoins) et des besoins de l’enfant. L’importance accordée à chacun des facteurs de l’art. 9 variera selon les faits de l’espèce (Contino, au paragraphe 39).
+[11] Je ne puis donc souscrire à l’argument de l’appelant selon lequel le transfert d’argent a été simplifié par le fait que le parent qui gagne le revenu le plus élevé verse à l’autre la différence, et que lui et son ex-épouse se versaient l’un à l’autre une pension alimentaire. La pension alimentaire que l’appelant doit verser est le résultat obtenu après rajustement du montant initial issu de la compensation, en tenant compte, pour des besoins de rajustement, de la situation financière réelle des parents qui résulterait en un changement important du niveau de vie de l’enfant chaque fois qu’il passerait d’un ménage à l’autre (Contino, au paragraphe 51).
+[12] Dans la décision Melnyk c. La Reine, 2007 CCI 733, le juge Webb a tiré la conclusion suivante après un renvoi à Contino, précité (au paragraphe 7) :
+7 À mon avis, pour établir la pension alimentaire à verser selon l’article 9 des Lignes directrices, il faut analyser les critères énoncés à cet article afin de déterminer le montant de pension alimentaire pour enfants qui devra être payé par l’un des deux parents. Même s’il est admis que, dans les cas où les deux époux gagnent un revenu, chacun des époux contribuera au soutien alimentaire de l’enfant, les contributions ne sont pas versées d’un époux à un autre. Lorsque Graeme était avec Kaila Melnyk, elle ne versait pas à l’appelant les montants qu’elle devait payer pour nourrir Graeme, le vêtir, lui fournir un logement et lui acheter d’autres choses, elle payait plutôt ces montants directement aux fournisseurs des biens et services. Kaila avait l’obligation de contribuer au soutien alimentaire de Graeme, mais pas en versant des paiements à l’appelant. Elle devait plutôt remplir son obligation en payant directement les personnes qui fournissaient des biens et des services à Graeme pendant qu’il était avec elle. Ses contributions au soutien alimentaire de Graeme ne constituent pas un revenu pour l’appelant.
+[Non souligné dans l’original.]
+[13] Dans la décision Melnyk, l’affidavit du contribuable qui avait été déposé devant la Cour suprême de la Colombie‑Britannique confirmait qu’un seul montant était envisagé à titre de pension alimentaire pour enfants, soit le montant à verser par le contribuable à l’ex‑épouse. L’ordonnance rendue confirmait qu’un seul montant était à verser. Je crois que l’on peut dire la même chose en l’espèce. L’accord prévoit que seul l’époux (l’appelant) versera une pension alimentaire pour enfants mensuelle à l’épouse, et il n’est nulle part mentionné que l’épouse devra verser une pension alimentaire pour enfants à l’appelant. L’obligation de l’épouse de verser une pension alimentaire pour enfants mentionnée à l’article 13.3 de l’accord n’est pas une pension alimentaire pour enfants à verser à l’époux (l’appelant).
+[14] Dans la décision Perrin c. La Reine, 2010 CCI 331, la juge Woods a eu à trancher exactement la même question que celle dont je suis saisie. Elle a déclaré ce qui suit, aux paragraphes 11 à 15 :
+11 Monsieur Perrin prétend également que le paragraphe 118(5) ne s’applique pas parce que son épouse et lui se versent mutuellement une pension alimentaire pour enfants conformément aux lignes directrices fédérales sur les pensions alimentaires pour enfants. Il soutient qu’il en est ainsi parce que chacun des parents gagne un revenu donnant lieu à une obligation de verser une pension alimentaire pour enfants qui est prévue par les lignes directrices.
+12 La situation dans laquelle les deux époux paient une pension alimentaire pour enfants est expressément prévue au paragraphe 118(5.1) de la Loi, lequel est entré en vigueur en 2007 et accorderait le redressement demandé par l’appelant si les deux conjoints payaient effectivement une pension alimentaire pour enfants. À l’audience, ni l’une ni l’autre des parties n’a invoqué cette disposition, qui est reproduite ci-dessous.
+118(5.1) À supposer que la présente loi s’applique compte non tenu du présent paragraphe, dans le cas où personne n’a droit, par le seul effet du paragraphe (5), à la déduction prévue aux alinéas (1)b) ou b.1) pour une année d’imposition relativement à un enfant, le paragraphe (5) ne s’applique pas relativement à l’enfant pour l’année en cause.
+13 Cette disposition vise à éviter l’application sévère du paragraphe 118(5) lorsque deux époux paient une pension alimentaire pour le même enfant au cours de l’année pertinente. Elle a pour but de permettre à l’un des époux de réclamer le crédit d’impôt prévu à l’alinéa 118(1)b) dans une telle situation.
+14 Cependant, la disposition ne s’applique pas en l’espèce, parce que seul M. Perrin était tenu de payer une pension alimentaire pour enfants pendant l’année d’imposition 2007. Les clauses pertinentes de l’accord de séparation sont énoncées ci-dessous :
+[TRADUCTION]
+10.1 À compter de la vente du foyer conjugal et, par la suite, le 1er de chaque mois subséquent, l’époux paiera à l’épouse, pour subvenir aux besoins des enfants, la somme de 376,50 $ par mois par enfant, soit un total de 753 $ (en fonction d’un salaire de 50 000 $) par mois [...].
+10.2 L’époux et l’épouse conviennent d’établir la pension alimentaire pour enfants en se fondant sur les lignes directrices fédérales.
+10.3 (1) L’époux reconnaît qu’il paiera le plein montant de la pension alimentaire pour enfants que prévoient les lignes directrices fédérales, malgré le fait que la garde est partagée également. La présente clause s’appliquera à toute modification de la pension alimentaire pour enfants fondée sur une fluctuation du revenu de l’époux.
+15 Les dispositions ci-dessus donnent fortement à penser que seul M. Perrin était tenu de payer une pension alimentaire pour enfants pour les deux enfants pendant l’année d’imposition 2007. Vu la preuve qui a été présentée, je ne suis pas convaincue que les lignes directrices fédérales permettent d’obtenir un résultat différent.
+[15] Je conclus donc que seul l’appelant était tenu de verser une pension alimentaire pour enfants à l’égard des enfants et que, selon le paragraphe 118(5) de la LIR, il n’avait pas droit à une déduction de 9 600 $ à l’égard d’une personne à charge admissible ni à une déduction de 2 038 $ à l’égard d’enfants nés en 1991 ou après, en application des alinéas 118(1)b) et b.1) de la LIR.
+[16] L’appel est rejeté.
+Signé à Ottawa, Canada, ce 22e jour de juin 2011.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 27e jour de juillet 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+RÉFÉRENCE : 2011 CCI 314
+No DU DOSSIER DE LA COUR : 2010-3541(IT)I
+INTITULÉ : Scot A. Ladell
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Calgary (Alberta)
+DATE DE L’AUDIENCE : Le 11 mars 2011
+MOTIFS DU JUGEMENT: L’honorable juge Lucie Lamarre
+DATE DU JUGEMENT : Le 22 juin 2011
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Adam Gotfried
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

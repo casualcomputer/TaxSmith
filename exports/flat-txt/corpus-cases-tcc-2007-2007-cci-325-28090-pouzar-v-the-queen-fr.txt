@@ -1,0 +1,151 @@
+Title: Pouzar v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28090/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-325-28090-pouzar-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2007-06-08
+
+# Pouzar v. The Queen
+
+- Citation: 2007 CCI 325
+- Decision date: 2007-06-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1675, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pouzar v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-06-08
+Référence neutre
+2007 CCI 325
+Numéro de dossier
+2006-2088(IT)I
+Juges et Officiers taxateurs
+Terrence O'Connor
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-2088(IT)I
+ENTRE :
+MIROSLAV POUZAR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 14 mai 2007 à Toronto (Ontario)
+Devant : L’honorable juge T. O’Connor
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Josh Hunter
+____________________________________________________________________
+JUGEMENT
+L’appel des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2002, 2003 et 2004 est accueilli et les nouvelles cotisations sont renvoyées au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations conformément aux motifs du jugement ci-joints. Les dépens, le cas échéant, sont accordés à l’appelant.
+Signé à Ottawa, Canada, ce 8e jour de juin 2007.
+« T. O’Connor »
+Juge O’Connor
+Traduction certifiée conforme
+ce 9e jour d’octobre 2007.
+Suzanne Bolduc, LL.B.
+Référence : 2007CCI325
+Date : 20070608
+Dossier : 2006-2088(IT)I
+ENTRE :
+MIROSLAV POUZAR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge O’Connor
+[1] La question en litige dans les présents appels est celle de savoir si, pour chacune des années d’imposition 2002, 2003 et 2004, l’appelant a droit à une déduction de 12 000 $ à titre de pension alimentaire pour conjoint.
+[2] L’appelant a divorcé de Magda Pouzar (« Magda ») en vertu d’un jugement irrévocable de la Cour suprême de l’Ontario signé le 15 décembre 1978. Le jugement comportait plusieurs dispositions relatives aux biens, notamment une ordonnance enjoignant à l’appelant de verser 450 $ par mois à Magda à compter du 3 novembre 1978.
+[3] Une ordonnance de la Cour supérieure de justice de l’Ontario datée du 26 juillet 2000 (« l’ordonnance ») prévoyait notamment ce qui suit :
+[traduction]
+1. LA COUR ORDONNE que, à compter du 1er août 2000 et le premier jour de chaque mois subséquent, le défendeur, MIREK POUZAR, verse à la demanderesse, MAGDA POUZAR, un montant de 1 000 $ par mois à titre de pension alimentaire pour conjoint jusqu’au décès de la demanderesse.
+[…]
+3. LA COUR ORDONNE que la requérante, MAGDA POUZAR, remette au défendeur, MIREK POUZAR, un reçu de tous les paiements effectués pendant chaque année civile au plus tard le 31 décembre de chaque année.
+4. LA COUR ORDONNE que le défendeur, MIREK POUZAR, souscrive auprès de la Sun Life du Canada, compagnie d’assurance-vie, une rente viagère dont la requérante, MAGDA POUZAR, est la rentière et bénéficiaire. À compter du 1er octobre 2000 et le premier jour de chaque mois subséquent, le défendeur doit s’acquitter de son obligation alimentaire prévue au paragraphe 1 de la présente ordonnance au moyen de la rente viagère. Si la requérante décède avant le défendeur, la rente résiduelle revient au défendeur.
+5. LA COUR ORDONNE que le défendeur, MIREK POUZAR, maintienne la rente viagère en règle et fournisse une preuve de la rente à la requérante, MAGDA POUZAR, le 1er octobre de chaque année.
+[4] Au paragraphe 7 de la réponse à l’avis d’appel, il est question des dispositions de l’ordonnance citées ci-dessus; les alinéas a), g) et h) du paragraphe 7 contiennent ce qui suit:
+[traduction]
+a) pendant toute la période pertinente, l’appelant et son ex‑épouse, Magda Pouzar (l’« ex‑épouse »), vivaient séparés;
+g) le ou vers le 14 août 2000, l’appelant a versé 129 463 $ pour acheter la rente au nom de l’ex‑épouse;
+h) le montant de 129 463 $ mentionné à l’alinéa 7g) ci‑dessus a été payé en un seul paiement forfaitaire au moyen d’un chèque transféré de Norek Investments & Management Inc. à la Sun Life, compagnie d’assurance‑vie;
+[5] De plus, le paragraphe 10 de la réponse contient ce qui suit :
+[traduction]
+10. … l’appelant ne peut pas déduire le montant de 12 000 $ par année dans le calcul de son revenu pour les années d’imposition 2002, 2003 et 2004, puisque ces montants ne constituaient pas une allocation payée périodiquement pour subvenir aux besoins de l’ex‑épouse au sens de l’alinéa 60b) de la Loi, mais faisaient plutôt partie d’un paiement forfaitaire qui n’était pas un paiement à l’égard des montants versés périodiquement.
+Il semble ne faire aucun doute que le montant versé à la Sun Life au moyen du chèque de Norek représentait un paiement de l’appelant à la Sun Life pour l’achat de la rente en question. La Couronne n’a présenté aucune observation en ce sens, aucune preuve n’a été déposée et la question n’a été abordée ni dans la réponse, ni dans la nouvelle cotisation, ni dans la correspondance relative à la nouvelle cotisation. De plus, il est reconnu au paragraphe 7g) que l’appelant a versé le montant. Je conclus donc qu’il faut considérer que le paiement de 129 463 $ a été fait par l’appelant.
+Les dispositions applicables de la Loi de l’impôt sur le revenu
+[6] Voici un résumé des dispositions applicables de la Loi de l’impôt sur le revenu.
+L’alinéa 60b) énonce la formule permettant de déterminer le montant qu’un payeur peut déduire pour les pensions alimentaires versées au cours d’une année d’imposition et le paragraphe 56.1(4) définit ce qu’est une « pension alimentaire ».
+En général, le contribuable peut déduire une pension alimentaire versée à son épouse divorcée s’il respecte les conditions suivantes, dans la mesure où elles s’appliquent aux faits du présent appel :
+· le montant est payable au bénéficiaire;
+· le montant est payable à titre d’allocation pour subvenir aux besoins du bénéficiaire […]
+· le montant est payable de façon périodique;
+· le bénéficiaire peut utiliser le montant à sa discrétion;
+· lorsque le bénéficiaire est l’ancien époux du payeur, le montant est payable aux termes de l’ordonnance d’un tribunal compétent ou d’un accord écrit, et le payeur et le bénéficiaire vivent séparés pour cause d’échec de leur mariage […]
+[7] La position de l’appelant est énoncée pour l’essentiel dans l’avis d’opposition daté du 25 juillet 2001 et dans l’addenda de l’avis d’opposition daté du 19 novembre 2005. Le principal argument formulé dans ces documents est que l’appelant effectuait les paiements mensuels de 1 000 $ conformément à l’ordonnance. En ce qui a trait à la participation de la Sun Life, l’avis d’opposition précise ce qui suit :
+[traduction]
+5.) Ainsi que l’a ordonné la Cour […] je dois garantir les paiements de pension alimentaire au moyen d’un contrat de rente viagère avec la Financière Sun Life, au cas où mon décès précéderait celui de mon ex-épouse Magda Pouzar. J’ai dû souscrire cette rente qui verse 1 000 $ le premier de chaque mois jusqu’à la fin de ses jours […]
+L’addenda de l’avis d’opposition indique ce qui suit :
+[traduction]
+[…]
+4) En ce qui concerne la méthode de paiement de la pension alimentaire pour conjoint, une entente a été conclue par les avocats et les intimés dans la présente instance. La principale préoccupation était de garantir, en raison de mon âge, le paiement à vie de la pension à Magda Pouzar. Le tribunal ne pouvait pas ordonner à mes héritiers ou à ma succession de verser la pension alimentaire puisque cette affaire n’avait rien à voir avec la succession ou les héritiers. Je ne possédais aucune assurance-vie qui aurait pu être versée à mon décès et, en raison d’un état de santé qui n’a rien d’enviable, je ne pouvais pas souscrire une assurance-vie. De plus, si Magda devait mourir par exemple trois mois après mon décès, les bénéfices de l’assurance-vie seraient revenus à sa succession, ce qui n’était pas l’intention de l’ordonnance. La rente auprès de la Sun Life était donc la seule manière viable d’assurer le versement à vie de la pension alimentaire à Magda Pouzar. L’argument avancé par l’ARC est que les paiements ne proviennent pas directement du contribuable mais, dans les faits, j’ai payé à l’avance la pension alimentaire au montant de 129 463 $ en 2000 en me servant de la Sunlife comme intermédiaire, laquelle dépose chaque mois 1 000 $ dans le compte bancaire de Magda Pouzar conformément à l’ordonnance du tribunal. De plus, dans une lettre datée du 21 septembre 2005, Mme Gainer précise ce qui suit : « L’une des exigences pour que les paiements de 1 000 $ reçus par Mme Pouzar soient considérés comme des paiements de pension alimentaire est qu’ils soient versés par vous. Toutefois, dans la présente affaire, Mme Pouzar a reçu le montant mensuel de la Sun Life ». Par contre, selon la lettre ci-jointe du ministère du Procureur général, Bureau des obligations familiales, il semblerait qu’un tiers peut servir d’intermédiaire. Comment l’ARC explique‑t‑elle donc cette déclaration erronée? Il semblerait également, selon Mme Gainer, que toute personne qui a recours à cette méthode n’aurait pas droit à une déduction fiscale. Mme Gainer a ajouté ce qui suit dans sa lettre : « Il semble que vous auriez versé une somme forfaitaire de 129 464 $ pour souscrire la rente. Votre ex‑épouse ne pouvait utiliser l’argent à sa discrétion parce qu’elle était versée directement à la compagnie d’assurance ». Pourquoi devrait-elle avoir le droit d’utiliser le montant forfaitaire à sa discrétion? Elle a certainement le droit d’utiliser le montant mensuel de 1 000 $ à sa discrétion, ce que précise l’ordonnance du tribunal.
+5) Le tribunal et les avocats ont convenu que Magda Pouzar devait être la propriétaire du contrat ainsi que la rentière de sorte que son seul choix serait de rediriger les paiements. En d’autres termes, si j’étais propriétaire de la rente et que celle-ci revenait à ma succession à mon décès, celle-ci pourrait rediriger de tels fonds.
+6) Je demande donc à l’ARC d’annuler la nouvelle cotisation et de considérer que les paiements mensuels de la Sun Life sont la pension alimentaire que je verse conformément à l’ordonnance du tribunal.
+[8] Pour l’essentiel, la position de la Couronne est que, dans la mesure où le montant de 129 463 $ peut constituer un problème, il s’agit d’une somme forfaitaire et il n’est pas admissible à titre de paiement périodique.
+[9] Quant au paiement mensuel de 1 000 $, la Couronne fait valoir que le paiement n’est pas fait par l’appelant à son ex-épouse, mais qu’il est plutôt fait par la Sun Life à titre de rente ou que, comme nous le verrons plus loin, puisque le propriétaire apparent du contrat de rente était Magda, cette dernière se payait elle-même de sorte que l’appelant n’est pas le payeur et qu’il n’a donc pas droit à la déduction.
+[10] La Couronne a aussi invoqué de nombreuses décisions en ce qui concerne les concepts de rente prescrite et de polices d’assurance et de l’imposition de celles-ci. Je ne crois pas que ces observations soient pertinentes au présent appel. La seule question consiste à déterminer si les paiements annuels de 12 000 $ pour les trois années visées sont déductibles. Les principes généraux de l’imposition des rentes ou de l’assurance-vie ne sont pas en cause en l’espèce. Pour la même raison, je n’estime pas pertinent que la valeur résiduelle de la rente après le décès de Magda revienne à l’appelant. Encore une fois, la question est de savoir si les montants annuels de 12 000 $ en question pour les trois années visées peuvent être déduits par l’appelant.
+[11] On m’a cité plusieurs décisions, notamment McKimmon c. Canada (Ministre du Revenu national – M.R.N.), [1990] 1 C.F. 600, et Ostrowski c. R., 2002 CAF 299. Ces affaires ont une incidence sur la question en litige, mais les faits et la nature de ces affaires diffèrent considérablement et ne visent pas précisément le problème soulevé dans le présent appel. Malgré ces différences, les commentaires formulés par la juge Sharlow dans l’arrêt Ostrowski sont utiles :
+22 Le juge de la Cour de l’impôt a conclu que l’espèce était semblable à l’affaire McKimmon. Il dit ceci aux paragraphes 11 et 12 de ses motifs :
+[traduction]
+[11] La situation de l’appelant est semblable à celle de l’époux dans l’affaire McKimmon. Une somme forfaitaire a été transférée directement à l’avocat de son ex-épouse à même le produit de la vente de la maison; il s’agissait d’une somme substantielle, qui a été payée sur ordre de la Cour; c’était un montant de capital ne traitant pas des arriérés; il a été payé en un seul versement; l’épouse pouvait en disposer à son gré; et ce paiement a libéré l’appelant de l’obligation de faire d’autres versements jusqu’à concurrence du total de la somme forfaitaire.
+[12] Comme dans l’affaire McKimmon, la plupart des indices penchent fortement dans le sens d’un règlement par somme forfaitaire, alors que pratiquement aucun ne pointe dans l’autre sens.
+23 Je ne peux accepter cette analyse. À mon avis, malgré les similitudes notées par le juge de la Cour de l’impôt, les faits dans l’affaire McKimmon sont très différents des faits de l’espèce.
+24 La distinction fondamentale, que le juge de la Cour de l’impôt n’a pas reconnue, c’est que dans l’affaire McKimmon, le fondement de l’obligation alimentaire était le jugement rendu par consentement, qui établissait simultanément l’obligation de paiement, et les conditions en vertu desquelles cette obligation devait être acquittée. Donc, la nature du paiement et son existence découlaient du même jugement. En l’espèce, le fondement de l’obligation de payer était l’ordonnance O’Connell, qui était clairement une ordonnance prévoyant le paiement d’une pension alimentaire sur une base mensuelle. L’ordonnance O’Connell n’a jamais été modifiée. Elle est demeurée en vigueur pendant toutes les procédures qui ont suivi, jusqu’à ce que l’ordonnance Melvin rendue le 30 septembre 1997 mette définitivement fin à l’obligation alimentaire.
+25 Toutes les ordonnances rendues après l’ordonnance O’Connell avaient pour but de faire respecter l’obligation alimentaire imposée par cette ordonnance parce qu’il s’est avéré que M. Ostrowski ne s’en acquittait pas régulièrement. L’ordonnance Clarke et l’ordonnance Drake en particulier ont imposé une solution pratique à ce problème de non-fiabilité. Cette solution a été rendue possible parce que les deux juges avaient le pouvoir d’imposer l’affectation de certains fonds qui étaient conservés à la Cour. La nature de l’obligation alimentaire de M. Ostrowski change-t-elle simplement parce que, en vertu des ordonnances Drake et Clarke, la pension mensuelle devait être payée d’avance? Je ne le pense pas.
+26 On n’a cité à la Cour qu’un seul précédent ayant trait au versement à l’avance d’une pension alimentaire : Sanders c. Canada (2001), 22 R.F.L. (5th) 207, [2001] A.C.I. no 704 (C.C.I. [procédure informelle]). Dans cette affaire, un juge de la Division générale de la Cour de justice de l’Ontario avait rendu une ordonnance le 8 octobre 1996 prévoyant la vente de la maison familiale. L’ordonnance incluait cette disposition :
+[traduction]
+4. LA COUR ORDONNE QUE, entre-temps, une somme forfaitaire de 3 500 $ au titre de l’entretien soit payée par le mari à l’épouse dans les deux semaines qui suivront pour couvrir la période du 8 octobre 1996 au 9 décembre 1996.
+27 Le 20 décembre 1996, une autre ordonnance a été rendue au sujet de la pension alimentaire pour les enfants et le conjoint au montant de 1 750 $ par mois, à compter du 9 décembre 1996. Le juge Bonner a statué que la somme de 3 500 $ dont il était question dans l’ordonnance du 8 octobre 1996 avait été payée à titre d’allocation payable périodiquement, malgré l’utilisation de l’expression « somme forfaitaire », qui, à son avis, n’était ni probante ni une description exacte de la nature du paiement. La Couronne n’a pas demandé le contrôle judiciaire de cette décision et, à mon avis, c’était là un raisonnement judicieux.
+28 Comme la présente Cour l’a signalé dans l’arrêt La Reine c. Sills (1984), [1985] 2 C.F. 200, [1985] 1 C.T.C. 49, 85 D.T.C. 5096 (C.A.F.), les pensions payables périodiquement ne cessent pas d’être payables sur cette base simplement parce qu’elles sont payées en retard. De même, lorsqu’il existe une obligation de payer une pension sur une base périodique, et qu’un juge est convaincu, d’après la preuve, qu’il y a un risque sérieux que cette pension ne soit pas payée dans l’avenir, une ordonnance qui en devance l’échéance pour une période fixe ne change pas en elle-même la nature de l’obligation fondamentale.
+29 Il y a des situations où un seul paiement représente une commutation ou un remplacement de toutes les obligations alimentaires à venir, comme dans l’affaire Minister of National Revenue c. Armstrong, [1956] R.C.S. 446, [1956] C.T.C. 93, 56 D.T.C. 1044, 3 D.L.R. (2d) 140 (C.S.C.) ou dans Trottier c. Minister of National Revenue, [1968] R.C.S. 728, [1968] C.T.C. 324, 68 D.T.C. 5216, 69 D.L.R. (2d) 132 [C.S.C.]. Un tel paiement ne tombe pas sous le coup de l’alinéa 60b) parce qu’il n’est pas payable périodiquement. Toutefois, l’espèce est très différente des arrêts Armstrong et Trottier. En l’espèce, les obligations alimentaires de M. Ostrowski ont été fixées en 1994 au montant de 3 700 $ par mois et n’ont jamais été modifiées au cours de la période visée par les paiements faits d’avance. L’ordonnance du juge Drake reconnaissait cette obligation sans la modifier, et exigeait que vingt-quatre de ces paiements soient versés à l’avance pendant qu’il y avait encore de l’argent disponible. De même, le paiement exigé par l’ordonnance Clarke était simplement un versement à l’avance de la pension pour trois mois.
+30 Je conclus donc que le paiement de 88 800 $ dont il est question au paragraphe (3) de l’ordonnance Drake et le paiement de 11 100 $ dont il est question dans l’ordonnance Clarke peuvent être déduits à titre de pension payable périodiquement. Il reste simplement à déterminer le montant de la déduction pour chacune des deux années d’imposition visées dans le présent appel. L’alinéa 60b) autorise pour une année donnée une déduction pour toutes les sommes payées au cours de l’année.
+[12] Je crois que le raisonnement adopté dans l’arrêt Ostrowski peut être appliqué au présent appel. Le paragraphe 1 de l’ordonnance oblige l’appelant à verser une pension de façon périodique. Il s’agit de l’obligation fondamentale. Le fait que cette obligation soit garantie par une rente ne change pas la nature de cette obligation fondamentale. Le paragraphe 4 de l’ordonnance est très clair. Il précise ce qui suit : [traduction] « le défendeur doit s’acquitter de son obligation alimentaire prévue au paragraphe 1 de la présente ordonnance au moyen de la rente viagère ».
+[13] Au cours du présent appel, on a longuement débattu la question de savoir qui était « propriétaire » de la rente; était-ce Magda, qui figure comme la « propriétaire » dans le contrat de rente, ou l’appelant qui a demandé la rente et l’a payée. La Couronne soutient que Magda était propriétaire de la rente et qu’elle se payait donc elle‑même. Cette position est tout à fait incompatible avec le fait que l’appelant a avancé l’argent pour souscrire la rente. De toute façon, il est devenu évident que les droits de Magda de recevoir la rente ne pouvaient être modifiés sans son consentement. Elle a acquis ses droits et elle ne peut être considérée comme se payant elle-même.
+[14] À mon avis, l’appelant s’est conformé à l’ordonnance en ce qui a trait au paiement du montant de 1 000 $ par mois (12 000 $ par année). Le paragraphe 1 de l’ordonnance enjoint à l’appelant de verser à Magda un montant de 1 000 $ par mois à titre de pension alimentaire pour conjoint. Il s’agit de toute évidence d’une obligation pour l’appelant d’effectuer un paiement périodique pour subvenir aux besoins de Magda. Ensuite, le paragraphe 4 prescrit simplement une méthode visant à assurer le paiement des montants, c’est-à-dire la rente. Cette disposition ne change pas l’obligation fondamentale prévue au paragraphe 1 et la méthode visant à garantir le paiement par l’achat de rente. Par conséquent, j’estime, pour tous les motifs susmentionnés, que l’appelant a droit aux déductions qu’il réclame.
+[15] Par conséquent, l’appel est accueilli avec dépens, le cas échéant, en faveur de l’appelant.
+Signé à Ottawa, Canada, ce 8e jour de juin 2007.
+« T. O’Connor »
+Juge O’Connor
+Traduction certifiée conforme
+ce 9e jour d’octobre 2007.
+Suzanne Bolduc, LL.B.
+RÉFÉRENCE : 2007CCI325
+No DU DOSSIER DE LA COUR : 2006-2088(IT)I
+INTITULÉ : Miroslav Pouzar c. La Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 14 mai 2007
+MOTIFS DU JUGEMENT PAR : L’honorable juge T. O’Connor
+DATE DU JUGEMENT : Le 8 juin 2007
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Josh Hunter
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

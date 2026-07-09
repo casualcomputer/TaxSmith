@@ -1,0 +1,197 @@
+---
+title: "1219261 Ontario Inc o/a Hidden Bay Lodge v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25639/index.do"
+last_modified: "2004-01-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 48"
+citation2: ""
+neutral_citation: "2004 TCC 48"
+decision_date: "2004-01-16"
+language: "en"
+item_id: "25639"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3133
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:53:45.323000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6439150f0f377720c6b29038d8e17b2518ad91d4e234145ffeca9a4ad07944b0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 1219261 Ontario Inc o/a Hidden Bay Lodge v. The Queen
+
+- Citation: 2004 TCC 48
+- Decision date: 2004-01-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3133, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+1219261 Ontario Inc o/a Hidden Bay Lodge v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-01-16
+Neutral citation
+2004 TCC 48
+File numbers
+2002-706(GST)I
+Judges and Taxing Officers
+Joe E. Hershfield
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2002-706(GST)I
+BETWEEN:
+1219261 ONTARIO INC.,
+o/a HIDDEN BAY LODGE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on September 30, 2003 and January 6, 2004 at Winnipeg, Manitoba
+Before: The Honourable Justice J.E. Hershfield
+Appearances:
+Counsel for the Appellant:
+George E. Van Den Bosch
+Counsel for the Respondent:
+Michael Van Dam
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act for the period of April 1, 1997 to December 31, 1998 is allowed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 16th day of January 2004.
+"J.E. Hershfield"
+Hershfield, J.
+Citation: 2004TCC48
+Date: 20040116
+Docket: 2002-706(GST)I
+BETWEEN:
+1219261 ONTARIO INC.,
+o/a HIDDEN BAY LODGE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Hershfield, J.
+[1] This is an appeal from a GST assessment under the Excise Tax Act (the "Act") for the period of April 1, 1997 to December 31, 1998 covering the Appellant's commercial activities for both the 1997 and 1998 years.
+[2] The Appellant operates a fishing lodge in North Western Ontario utilizing seven remote fly-in fishing camps, access to which is provided from a main lodge. Guests, primarily from the United States, arrive at the main lodge by car, some having rented cars at regional airports and others having driven longer distances.
+[3] The fishing packages include the supply of food for guests during their stay. The issue in the appeal is the extent to which such supply is zero-rated pursuant to Part III of Schedule VI of the Act which, subject to enumerated exceptions, provides:
+1. Supplies of food or beverages for human consumption (including sweetening agents, seasonings and other ingredients to be mixed with or used in the preparation of such food or beverages), other than supplies of . . .
+[4] While it is not in dispute that the fishing packages sold by the Appellant included a supply of basic groceries, the Respondent takes the position that such supply was an integral part of the fishing holiday sold to guests. The Respondent relies on the principle in O.A. Brown v. The Queen[1] to the effect that where there is one overall supply, the separate component supplies cannot be isolated for the purposes of applying a zero rate under Schedule VI.
+[5] The Appellant argues that the food supplies are not an integral part of the overall supply. It argues that the essence of the supply sold did not require the provision of food and that having included food supplies in the package is not determinative of its being considered as an integral part of the overall supply.
+[6] At the hearing of the appeal the Appellant called two witnesses, namely the President of the Appellant corporation and the Appellant's accountant.
+[7] The Appellant's president (Mr. Reinke) testified that the Appellant did not charge GST on food as he was instructed by the CCRA not to do so. He testified that when GST was introduced he could not find any literature on the Appellant's type of business so he called the GST hotline and was told that GST should not be charged on foods that were not cooked (prepared) for its customers. While Mr. Reinke was not a good witness (at one point he actually said "I'm trying to be serious now"), I accept this part of his testimony. That is, I believe he made an honest attempt to follow the rules. I accept that he did call the CCRA for instructions on at least one occasion and was instructed not to collect GST on food supplies. While such communication lacks in reliability in terms of the factual background he may have provided at the time, one can imagine, even today, some eight years after the O.A. Brown decision, that the Appellant might still be advised that groceries supplied to outposts in the circumstances of its business are zero-rated. This is not to pre-judge the appeal but rather only to underline the difficulty one faces in determining whether the food supplies in this case are zero-rated or not. Applying the legislation without the qualifications advanced in O.A. Brown would clearly support the view that the food provided in the case at bar is zero-rated.
+[8] Before I elaborate on the facts of this case, I note that Appellant's counsel advanced a due diligence argument in respect of both penalties and interest included under the assessment. The due diligence defence in respect of the application of penalties is well established.[2] However, there is no such defence in respect of interest and properly so in my view. Interest runs with the liability once determined and only the Minister may waive or cancel the interest liability pursuant to subsection 281.1(1). There is no common law basis for the courts to relieve a statutory interest liability. The statutory basis for doing so rests solely with the Minister. On the other hand, the statutory authority for the Minister to waive penalties pursuant to subsection 281.1(2) does not operate to prevent the courts from exercising their common law authority to relieve penalties where due diligence has been demonstrated.
+[9] I will now elaborate on the facts. I will summarize them as follows:
+· The main lodge consists of a main building with a dining area and a kitchen run by a cook employed by the Appellant. There are no sleeping quarters in the main building. There are separate cabins near the main building that provide sleeping quarters but there are no cooking facilities in these cabins.
+· The Appellant promotes the fishing holiday as a package that includes food supplies and a prepared dinner and breakfast at the main lodge. Most guests (some 60%) did not stay at the main lodge long enough for a prepared meal. They were frequently flown directly to their remote fishing camp on arrival (without dinner) and would frequently leave the main lodge (without a meal) on being flown back from the remote camps on the day of departure. However, Mr. Reinke testified that his guests were well provided for and that he often had sandwiches for them when they could not dine at the main lodge.
+· The cabins at the remote fishing camps had propane refrigerators and cooking facilities. Kitchen supplies and utensils were provided as well as household and housekeeping supplies. Except in limited cases at one of seven camps, no cooks were provided. Guides were not provided at any of the camps.
+· Each remote camp was stocked with food staples ranging from a wide variety of condiments to a variety of dry goods and canned goods. Dry goods included flour, cornmeal, fish coating, beer batter, pancake mix, spaghetti and cereal. Canned good supplies included canned vegetables, fruits, meats and a variety of soups. Condiments included a variety of sauces and jams as well as the basics and specialty items that one might expect in the preparation of fresh caught fish. Coffee, tea and hot chocolate were stocked as well as certain boxed juices. These were staples, not separately ordered by guests. They were stocked as a matter of course in the operation of the fishing camps. With few exceptions they remained at each remote camp throughout the season, being restocked as required. There was an inventory sheet completed by guests and pilots as required to ensure each camp remained stocked with these basic provisions.
+· In addition to the basic provisions of the type described above, guests ordered fresh foods according to their own preferences. Fresh bread, dairy products, fruit, vegetables and meats so provided were flown to the remote camps with the guests on their arrival. Fresh food orders were filled from stores in the main building at the main lodge.
+· Invoices to guests broke out separate charges for the air transport, fishing licences and bait but provided no other breakdown. All other amounts were charged at a daily rate per person, so the Appellant was unable to track exactly what charges there were for food except by working backward from invoices which only charged GST on a portion of the invoiced charges (said to be the non-food portion of the totals charged). The accountant prepared a schedule based on sample invoices that he testified were representative. The schedule calculated the average food portion of a total average charge per person per day to be $64.00 (out of $176.50). Based on total sales reported, a total number of customer days was calculated as well. The resultant calculation (food charge per day x number of customer days) was that food charges were $218,624.00 in 1997 and $173,120.00 in 1998. These were the totals on which the accountant testified GST had not been paid.[3]
+· Based on a review of purchase invoices and deliberations during an adjournment, the parties agreed on the following allocations which total the amounts provided by the Appellant's accountant:[4]
+1997
+1998
+Fresh Foods (dairy, meats, fruit, vegetables, bread)
+$99,167.84
+$80,016.00
+Canned Goods
+28,486.71
+19,251.00
+Beverages
+28,530.43
+25,310.00
+Dry Goods
+13,270.48
+88,988.00
+Condiments
+16,003.28
+12,482.00
+Supplies
+17,402.47
+15,511.00
+Other Miscellaneous
+15,762.79
+11,652.00
+Total:
+$218,624.00
+$173,120.00
+· No allocations were agreed to as between food supplies used for prepared foods at the main lodge and supplies used at the remote camps.
+· The accountant testified that he (his firm) acts for 50 businesses that offer fishing holidays and that the Appellant is the only one that supplies food. While he was not specific in his comparisons, I take his testimony to mean, at least, that other remote fishing camps would not arrange for fresh food to be provided by the operator. I cannot assume he meant to testify that other operations did not provide any foods such as basic condiments or emergency provisions.
+· The accountant testified that Mr. Reinke told him when they first talked that he (Mr. Reinke) had been advised not to charge GST on foods. The accountant testified that in his judgment that position was appropriate. Groceries bought for guests for preparation of their own meals were zero-rated in his view and in talking to Mr. Reinke he confirmed the position that the CCRA had given.
+[10] While I sympathize with the Appellant to the extent it did not collect GST based on an honest and reasonable belief that the food component of the charges was not subject to such tax, I am not impressed with an invoicing system that does not clearly show, separately, the zero-rated supply and that ultimately depends on mathematical reconstruction and extrapolation based on averages derived from representative sample invoices. Still, there has been sufficient agreement for me to set aside the burden of proof issue and I commend Respondent's counsel for his efforts in this regard. Accordingly, I have been provided agreed upon allocations which I can work with in the event I find that the principle in O.A. Brown does not apply.
+[11] In O.A. Brown, Justice Rip draws from English cases which distinguish a single (compound) versus a multiple supply. A multiple supply is a transaction involving the supply of separable goods or services. Each supply would be considered independently for tax purposes. A single consideration paid for a multiple supply must be apportioned among the separate supplies. On the other hand, a compound supply is one where component parts of a supply determine the quality (nature) of the final (overall) supply. In such cases apportionment is not appropriate.
+[12] As recognized by the English authorities cited in O.A. Brown, it would, lacking statutory authority, be wrong to attempt to propound a rigid and precise definition of a single (compound) supply. Factors include: the degree of interconnectedness of constituent elements of a supply; the extent of interdependence; and, whether each is an integral part or component of a composite whole. Whether the services are rendered under a single contract, or for a single undivided consideration, are matters to be considered but are not conclusive. How can they be? To so find would mean the Minister could never assess a separate taxable supply where it is coupled with a non-taxable supply under one contract at one price.
+[13] If the test is simply: "Is there a composite whole being supplied of which a particular supply is a component?" then the Appellant would fail in this appeal. The fishing holiday is a composite whole of which food supplies could reasonably be considered a "component".
+[14] On the other hand, if the test requires an interdependency of component parts or a degree of interconnectedness such as to make each component a necessary and integral part of the whole, then the Appellant might well succeed at least in respect of certain of the supplies.
+[15] The maintenance of a supply of food staples at the remote cabins is part of the operation of the Appellant. They seem, in common sense, to be components integral to the fishing holiday offered. Even Mr. Reinke acknowledged that the canned goods supply was sufficient at each remote camp to last a month. This was the standard of safety. Supplies in remote areas are of critical concern. Yes, they are expected to be consumed to some extent but they were integral to the overall supply. On the other hand, the supply, by special order, of fresh foods has nothing to do, necessarily, with the operation of remote fishing operations. I accept that other fishing operations do not offer fresh foods on order so it cannot be said that it is inseparable. There is no interdependency of this component. If the main lodge had a grocery store and separate fresh food invoices were done with each order, this case would not be before me. That the Appellant has not separated the transactions, as stated above, cannot be determinative. Appellant's counsel urged me to expand this analogy to the dry goods and beverages. Simply put, I do not believe the facts, as I have found them in this case, support extending the same treatment to dry goods and beverages as I would extend to fresh foods specially ordered by guests. Mr. Reinke treats the former as staples necessary to the operation of the remote camps which need to be as well maintained as the fishing boats do with fuel and lubricants. They are in my view, on the evidence I have heard, part of the overall package. However I give the Appellant the benefit of any doubt in respect of the fresh foods.
+[16] Accordingly, I would allow the appeal in respect of fresh foods in this case if the appropriate test is that set out in paragraph [14] above. However, I have not yet answered the question as to whether the appropriate test is the one posed in that paragraph versus the test posed in paragraph [13] above. The test cited in paragraph [13] would be easier to administer and might well be applied based on some of the jurisprudence in this area; however, applying the test referred to in paragraph [14] might also be justified based on similar jurisprudence. Consider two comments made by Justice Rip in O.A. Brown:
+In each case it is useful to consider whether it would be possible to purchase each of the various elements separately and still end up with a useful article or service. For if it is not possible then it is a necessary conclusion that the supply is a compound supply which cannot be split up for tax purposes.[5]
+and in holding certain activities as not being separable supplies he said:
+It is difficult to isolate these buying activities as being distinct supplies, independent of the whole activity. Only if taken together do they form a useful service.[6]
+[17] While I do not wish, in this informal procedure case, to categorically reject the test posed in paragraph [13], I am inclined in this case to allow the appeal by applying the test posed in paragraph [14]. The Minister has legislated the Appellant as an agent in the collection of tax. The Appellant has complied with its best understanding of its obligations. The CCRA has some responsibility to give its agents better guidelines than have been afforded here. Where that has not happened and the Minister presses for compliance relying on protection from estoppel, I think it is reasonable to apply the test that affords the Appellant some relief.
+[18] There is also the question in this case as to the allocation between prepared foods and fresh food orders. Only the latter are zero-rated. The parties have left that allocation to me.
+[19] Using the accountant's averaging calculations, there were 3,416 customer days in 1998 and 2,705 in 1997. Using the agreed allocations to fresh foods of $99,167.00 in 1997 and $80,016.00 in 1998, there is a per customer day fresh food cost of $36.00 in 1998 (which seems high) and $23.00 in 1997 (which seems more reliable). Considering that some (40%) of the guests ate at the main lodge once and possibly twice and that most of the others got prepared sandwiches at least once and possibly twice and that the relative need for fresh foods at the remote camps might be considerably reduced by the availability of fresh fish and the staples and that one remote camp occasionally made a cook available to guests and that some of the fresh foods acquired may never have been supplied to guests (i.e. some waste), I would venture that less than one-half of the Appellant's fresh food supplies were fresh foods bought for consumption at the remote camps. While the burden is on the Appellant, even the Respondent's counsel acknowledged that if I found a multiple supply (which he argued against), then some allocation to fresh foods would be justified.
+[20] Having considered probable food consumption patterns, I believe that 40% of the fresh food costs is a conservative allocation of what can reasonably be attributed to use at the remote camps. It may well be higher but on a balance of probability it is not likely to be lower in my view. Accordingly, the assessment shall be reduced by 7% of 40% of $99,167.00 in 1997 and 7% of 40% of $80,016.00 in 1998.
+[20] Further, I accept that there has been sufficient due diligence in this case to require the penalties assessed to be vacated. As indicated, I have no jurisdiction to vacate interest.
+[21] The appeal is allowed accordingly, without costs.
+Signed at Ottawa, Canada, this 16th day of January 2004.
+"J.E. Hershfield"
+Hershfield, J.
+CITATION:
+2004TCC48
+COURT FILE NO.:
+2002-706(GST)I
+STYLE OF CAUSE:
+1219261 Ontario Inc., o/a Hidden Bay
+Lodge and Her Majesty the Queen
+PLACE OF HEARING:
+Winnipeg, Manitoba
+DATE OF HEARING:
+September 30, 2003, January 6, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice J.E. Hershfield
+DATE OF JUDGMENT:
+January 16, 2004
+APPEARANCES:
+Counsel for the Appellant:
+George E. Van Den Bosch
+Counsel for the Respondent:
+Michael Van Dam
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+George E. Van Den Bosch
+Firm:
+Tupper & Adams
+Winnipeg, Manitoba
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [1995] G.S.T.C. 40 (T.C.C.).
+[2] Consolidated Canadian Contractors Inc. v. Canada, [1998] G.S.T.C. 91 (F.C.A.).
+[3] At 7% this calculates the reduction in GST attributable to food to be $27,422.00. The assessment was only for $24,277.00. The Respondent did not bring evidence as to how it calculated the assessed amount but if it was based on total sales, then sales attributable to food would be $346,814.00 vs. $391,744.00 as calculated by the accountant.
+[4] Respondent counsel argued that the agreed allocation, based on purchase invoices, was to be viewed as "low" as they reflected "cost" not the retail price presently charged guests. On the other hand, using the accountant's totals as agreed by the parties was to use amounts higher than those apparently used in the assessment.
+[5] at page 40-7.
+[6] at page 40-8.

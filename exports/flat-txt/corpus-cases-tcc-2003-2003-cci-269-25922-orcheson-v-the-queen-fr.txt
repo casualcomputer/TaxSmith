@@ -1,0 +1,124 @@
+Title: Orcheson v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25922/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-269-25922-orcheson-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2003-04-14
+
+# Orcheson v. The Queen
+
+- Citation: 2003 CCI 269
+- Decision date: 2003-04-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3686, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Orcheson v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-04-14
+Référence neutre
+2003 CCI 269
+Numéro de dossier
+2001-2324(IT)G
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier: 2001-2324(IT)G
+2001-2325(IT)G
+ENTRE :
+ALLAN ORCHESON et LORNA ORCHESON,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Requête entendue par conférence téléphonique le 15 mai 2003, à Ottawa (Ontario)
+Devant : l'honorable juge C. H. McArthur
+Comparutions :
+Pour les appelants :
+Les appelants eux-mêmes
+Avocat de l'intimée :
+Me Franco Calabrese
+____________________________________________________________________
+ORDONNANCE
+Vu la requête présentée par l'intimée en vue d'obtenir une ordonnance modifiant les motifs de l'ordonnance de l'honorable juge C. H. McArthur datée du 14 avril 2003 par l'élimination du renvoi à l'interrogatoire d'Alice Shields;
+Et vu les allégations des appelants et de l'avocat de l'intimée;
+Il est ordonné que la requête soit accueillie et que les motifs de l'ordonnance datée du 14 avril 2003 soit modifiés conformément aux motifs modifiés de l'ordonnance ci-joints.
+Signé à Ottawa, Canada, ce 29e jour de mai 2003.
+« C. H. McArthur »
+J.C.C.I.
+Traduction certifiée conforme
+ce 18e jour d'avril 2005.
+Sophie Debbané, réviseure
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence: 2003CCI269
+Date: 20030529
+Dossier: 2001-2324(IT)G
+2001-2325(IT)G
+ENTRE :
+ALLAN ORCHESON
+et LORNA ORCHESON,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS MODIFIÉS DE L'ORDONNANCE
+Le juge McArthur
+[1] Les requêtes des appelants visent à obtenir une ordonnance autorisant l'interrogatoire préalable oral de D. W. Browne, vérificateur de l'Agence des douanes et du revenu du Canada, et des interrogatoires préalables par écrit d'Alice Shields, directrice du Bureau des services fiscaux Toronto-Centre de l'ADRC. La position des appelants est mieux exprimée dans l'affidavit d'Allan Orcheson, qui se lit en partie comme suit :
+[TRADUCTION]
+Par soucis d'une divulgation complète et impartiale, il est préférable que l'interrogatoire préalable oral soit mené auprès du vérificateur, D.W. Browne. Il connaît les motifs du rejet de mes dépenses légitimes d'entreprise. Sa vérification a donné lieu aux avis de nouvelles cotisations et à mon avis d'appel modifié. Le fait de ne pas pouvoir interroger D. Browne, ou une autre personne bien informée qui connaît bien cette affaire, nous causerait un préjudice important. [...]
+La perception du vérificateur quant à l'ampleur de mes activités commerciales qui comprenaient le bien sis au 311, promenade du Lac nord, un point de vue dont il a fait part par écrit et maintenu avant de procéder à la vérification la plus récente, est incompatible avec le fait qu'il ait maintenant exclu ce bien. En outre, les conclusions de sa vérification ne sont pas conformes aux cotisations cohérentes et pertinentes que l'ADRC a établies pour les années d'imposition avant et après la période de vérification. Lui ou cette autre personne devrait répondre du traitement manifestement arbitraire de mes activités commerciales au cours d'un interrogatoire oral. [...]
+Un interrogatoire oral de D. Browne nous permettrait d'obtenir une divulgation complète et impartiale. Le rapport du vérificateur n'est pas fiable à notre avis. Il a délivré un rapport de vérification qui indiquait qu'il établirait de nouvelles cotisations dans les 30 jours suivant la date de sa lettre. Il n'a pas effectué les redressements promis. J'ai dû obtenir satisfaction ailleurs. Étant donné que nous ne pouvons pas confirmer les fonctions actuelles de D. Browne au sein de l'ADRC, une autre personne bien informée pourrait nous expliquer verbalement les motifs du retard que l'ADRC a pris pour établir de nouvelles cotisations à notre égard. [...]
+[2] Les paragraphes 17.3(1), (2) et (3) de la Loi sur la Cour canadienne de l'impôt prévoient ce qui suit :
+17.3(1) Il ne peut y avoir d'interrogatoire préalable oral si le total de tous les montants en cause dans un appel interjeté sous le régime de la Loi de l'impôt sur le revenu ou celui de la perte en cause déterminé aux termes du paragraphe 152(1.1) de cette loi sont respectivement égaux ou inférieurs à 25 000 $ et 50 000 $, sauf avec le consentement des parties ou sauf si, après avoir étudié la demande d'une partie, la Cour est d'avis que l'appel ne pourrait procéder sans un interrogatoire préalable oral.
+17.3(2) La Cour saisie d'une demande aux termes du paragraphe (1) détermine dans quelle mesure l'appel aura vraisemblablement un effet sur un autre appel interjeté par la même personne ou porte sur une question commune à un groupe ou une catégorie de personnes.
+17.3(3) Dans un appel visé au paragraphe (1), la Cour ordonne un interrogatoire préalable oral à la demande d'une partie si celle-ci accepte d'être interrogée au préalable par l'autre partie et de payer, en conformité avec le tarif fixé par les règles de la Cour, les frais que l'interrogatoire souhaité peut occasionner à l'autre partie.
+[3] La position de l'intimée a été exprimée dans les observations écrites qui ont été soumises et inclut ce qui suit :
+[TRADUCTION]
+(i) en vertu de la Loi sur la Cour canadienne de l'impôt (la « LCCI » ), les appelants n'ont pas le droit de mener des interrogatoires préalables oraux et ces derniers ne doivent pas y être autorisés dans le cas des présents appels;
+(ii) en vertu des Règles de la Cour canadienne de l'impôt (Procédure générale)(les « règles de procédure générale » ), le sous-procureur général a le droit de désigner le représentant à interroger au nom de l'intimée et les appelants ne sont pas en droit, à ce moment, d'obtenir une ordonnance qui leur permettrait d'interroger des représentants particuliers au nom de l'intimée;
+(iii) en vertu des règles de procédure générale, chaque appelant n'a droit de mener qu'un seul interrogatoire préalable de l'intimée et l'autorisation de mener d'autres interrogatoires préalables ne doit être accordée, le cas échéant, qu'à la suite des premiers interrogatoires préalables et uniquement dans certaines circonstances.
+[4] Les appelants ne s'intéressent pas à une ordonnance conforme au paragraphe 17.3(3) de la Loi sur la Cour canadienne de l'impôt qui les obligerait à payer les frais de l'interrogatoire préalable.
+[5] Il ne fait aucun doute que le total des montants en cause est inférieur à 25 000 $ et que le montant de la perte est inférieur à 50 000 $ tel qu'il est prévu au paragraphe 17.3(1). En fait, les montants portés en appel pour chaque année entrent dans le cadre de la procédure informelle. Le montant de l'impôt en cause chaque année est comme suit :[1]
+Année d'imposition
+Impôt fédéral en cause
+LornaOrcheson
+Impôt fédéral en cause
+Allan Orcheson
+1995
+825,42 $
+1996
+741,35 $
+1 327,40 $
+1997
+2 972,71 $
+2 642,58 $
+1998
+5 031,19 $
+2 846,45 $
+1999
+2 912,14 $
+7 936,35 $
+[6] Les appels concernent les années d'imposition 1995, 1996, 1997, 1998 et 1999. La question qui se pose est de savoir si les appelants ont le droit de déduire les frais encourus à l'égard des chalets de location dont ils sont copropriétaires en plus des frais que le ministre du Revenu national a admis.
+[7] Le paragraphe 17.3(1) dispose qu'un interrogatoire préalable oral ne doit pas avoir lieu sauf si la Cour est d'avis que les appels ne pourraient procéder sans interrogatoires préalables oraux. D'après les actes de procédure, les faits ne sont pas complexes et la position de l'intimée semble être clairement exprimée dans les réponses aux avis d'appel.
+[8] Les appelants ne m'ont pas convaincu que leurs appels ne pourraient procéder sans l'interrogatoire oral de D. W. Browne.
+[9] Le paragraphe 93(3) des Règles de la Cour canadienne de l'impôt (Procédure générale) dispose que la Couronne doit choisir un employé bien informé qui sera interrogé. La Cour ne pourra procéder à l'interrogatoire d'une autre personne que lorsque cette partie aura été interrogée.[2]
+[10] Les requêtes des appelants sont prématurées puisqu'il n'y a pas eu d'interrogatoire préalable écrit et ils n'ont aucune raison de conclure, à ce moment, que la personne qui sera interrogée n'est pas bien informée.
+[11] Les requêtes sont rejetées et un seul mémoire de frais fixé à 200 $ est adjugé à l'intimée.
+Signé à Ottawa, Canada, ce 29e jour de mai 2003.
+« C. H. McArthur »
+J.C.C.I.
+Traduction certifiée conforme
+ce 18e jour d'avril 2005.
+Sophie Debbané, réviseure
+[1] Extrait de l'affidavit de William J. Barnard, agent des litiges de l'ADRC, bureau de Toronto.
+[2]
+Ashton c. La Reine, [2000] A.C.I. no 285 (G.S.T.C. 31 (C.C.I. )).

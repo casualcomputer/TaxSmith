@@ -1,0 +1,175 @@
+Title: Henao c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/108833/index.do
+Corpus path: corpus/cases/tcc/2015/2015-cci-81-108833-henao-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2015-03-30
+
+# Henao c. La Reine
+
+- Citation: 2015 CCI 81
+- Decision date: 2015-03-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2848, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Henao c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-03-30
+Référence neutre
+2015 CCI 81
+Numéro de dossier
+2014-1560(GST)I
+Juges et Officiers taxateurs
+Kathleen T. Lyons
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2014-1560(GST)I
+ENTRE :
+ANGELA MARIA HENAO,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 23 janvier 2015, à Toronto (Ontario).
+Devant : L’honorable juge K. Lyons
+Comparutions :
+Avocat de l’appelante :
+Me Adam Serota
+Avocat de l’intimée :
+Me Stephen Oakey
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation, dont l’avis est daté du 2 juillet 2013, établie au titre de la Loi sur la taxe d’accise relativement au remboursement de la taxe sur les produits et services/taxe de vente harmonisée pour habitation neuve est rejeté sans frais, conformément aux motifs du jugement ci‑joints.
+Signé à Toronto (Ontario), ce 30e jour de mars 2015.
+« K. Lyons »
+Juge Lyons
+Traduction certifiée conforme
+ce 18e jour de juin 2015.
+Espérance Mabushi, M.A. Trad. Jur.
+Référence : 2015 CCI 81
+Date : 20150330
+Dossier : 2014-1560(GST)I
+ENTRE :
+ANGELA MARIA HENAO,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Lyons
+[1] Le présent appel interjeté par Angela Maria Henao, l’appelante, à l’encontre de la cotisation établie au titre de la Loi sur la taxe d’accise (la « LTA »), concerne une demande de remboursement de la taxe sur les produits et services/taxe de vente harmonisée (TPS/TVH) pour habitation neuve (le « remboursement ») que l’appelante et Carlos Restrepo, son oncle, avaient présentée relativement à l’achat d’une maison située sur Quetico Crescent, à Oakville, en Ontario (la « maison »).
+[2] Le ministre du Revenu national (le « ministre ») a refusé le remboursement compte tenu du fait que la maison n’avait pas été acquise par M. Restrepo pour qu’elle lui serve de lieu de résidence habituelle et parce que M. Restrepo n’avait pas satisfait à l’exigence énoncée à l’alinéa 254(2)b) de la LTA [1] .
+[3] En l’espèce, la Cour est appelée à trancher la question de savoir si l’appelante a droit au remboursement.
+I. Les faits
+[4] L’appelante possédait un autre bien à Mississauga, qu’elle a conservé, mais elle voulait acheter la maison pour améliorer sa qualité de vie et pour assurer l’avenir de sa fille. Elle a occupé la maison en tant que lieu de résidence habituelle.
+[5] Le 9 juin 2011, l’appelante et sa tante ont conclu un contrat de vente de la maison dont la date de clôture était le 19 juin 2012. Le revenu de l’appelante était trop faible pour lui permettre d’obtenir le prêt hypothécaire de 472 000 $ [2] .
+[6] Le contrat de vente a été modifié, en raison de problèmes liés au crédit, et la tante de l’appelante a été remplacée par M. Restrepo en tant que cosignataire (le « contrat de vente modifié ») [3] . M. Restrepo et l’appelante sont devenus les propriétaires inscrits de la maison [4] . L’appelante a précisé dans son témoignage que son oncle figurait sur le titre simplement pour des raisons liées au prêt hypothécaire et qu’elle aurait été la seule personne inscrite sur le titre si elle avait pu répondre aux conditions pour obtenir le financement nécessaire. Elle a effectué tous les paiements concernant la maison [5] . En 2014, elle a renouvelé le prêt hypothécaire. Lorsque la maison sera vendue, l’appelante recevra la totalité du produit.
+[7] M. Restrepo a déclaré dans son témoignage qu’il avait accepté d’aider en figurant sur le titre pour des raisons liées au prêt hypothécaire et a précisé qu’il n’avait jamais possédé, eu l’intention d’occuper ni occupé la maison, qu’il n’avait fait aucun paiement hypothécaire et qu’il ne s’attendait pas à obtenir un produit au moment de la vente de la maison [6] . Il affirme que son épouse et lui étaient voisins de l’appelante et vivaient dans le même complexe où est située la maison et qu’ils ont un lien familial étroit avec l’appelante et sa fille [7] .
+II. Le droit
+[8] Les dispositions suivantes mentionnées sont toutes tirées de la LTA. Les parties pertinentes de la loi sont reproduites ci‑dessous.
+[9] Les alinéas 254(2)a) à g) de la LTA énoncent les exigences relatives au remboursement qui doivent toutes être remplies par tous les particuliers qui achètent une nouvelle maison pour qu’un remboursement puisse être obtenu. Les alinéas 254(2)a) et b) sont libellés ainsi :
+254(2) Le ministre verse un remboursement à un particulier dans le cas où, à la fois :
+a) le constructeur d’un immeuble d’habitation à logement unique ou d’un logement en copropriété en effectue, par vente, la fourniture taxable au profit du particulier;
+b) au moment où le particulier devient responsable ou assume une responsabilité aux termes du contrat de vente de l’immeuble ou du logement conclu entre le constructeur et le particulier, celui-ci acquiert l’immeuble ou le logement pour qu’il lui serve de lieu de résidence habituelle ou serve ainsi à son proche;
+[10] Le paragraphe 262(3) dispose ce qui suit :
+262(3) Lorsque la fourniture d’un immeuble d’habitation ou d’une part du capital social d’une coopérative d’habitation est effectuée au profit de plusieurs particuliers ou que plusieurs particuliers construisent ou font construire un immeuble d’habitation, ou y font ou font faire des rénovations majeures, la mention d’un particulier aux articles 254 à 256 vaut mention de l’ensemble de ces particuliers en tant que groupe. Toutefois, seulement l’un d’entre eux peut demander le remboursement en application des articles 254, 254.1, 255 ou 256 relativement à l’immeuble ou à la part.
+[11] L’alinéa 133a) est ainsi libellé :
+133. Pour l’application de la présente partie, la fourniture objet d’une convention est réputée effectuée à la date de conclusion de la convention. La livraison du bien ou la prestation du service aux termes de la convention est réputée faire partie de la fourniture et ne pas constituer une fourniture distincte;
+[12] S’il est satisfait à toutes les exigences énoncées au paragraphe 254(2), le ministre doit payer un remboursement.
+III. Les thèses des parties
+[13] L’appelante soutient que c’est la substance juridique qui prévaut, et non les descriptions. M. Restrepo a signé le contrat de vente modifié et a été inscrit sur le titre expressément en vue de l’obtention du financement hypothécaire en tant que [traduction] « sorte de garant » et n’avait pas la propriété effective de la maison. Par conséquent, l’article 134 s’applique et la maison n’est pas réputée constituer une fourniture pour lui, et le transfert du titre effectué à son égard ne doit pas être pris en compte pour ce qui est de la TPS, de sorte qu’il ne serait pas tenu de satisfaire aux conditions énoncées au paragraphe 254(2) de la LTA et que l’appelante serait [traduction] l’« acquéreur principal [8] ».
+[14] Selon l’intimée, l’appelante tente de requalifier la réalité juridique après coup. Plutôt, dès la conclusion du contrat de vente modifié, l’appelante et M. Restrepo sont tous les deux devenus responsables relativement à la maison (en tant qu’acquéreurs d’une fourniture au titre du paragraphe 123(1) et de l’article 133) et, étant donné que le constructeur n’a pas transféré la maison à l’appelante et à M. Restrepo à titre de garantie, l’article 134 n’est pas applicable. Compte tenu du fait que M. Restrepo n’a jamais eu l’intention d’acquérir la maison pour qu’elle lui serve de lieu de résidence habituelle, il n’a pas satisfait à l’exigence énoncée à l’alinéa 254(2)b), ôtant ainsi à l’appelante le droit d’obtenir le remboursement.
+IV. Analyse
+[15] Collectivement, les paragraphes 254(2) et 262(3) disposent que, pour avoir droit au remboursement pour habitation neuve, chaque acheteur doit répondre aux exigences énoncées au paragraphe 254(2) de la LTA [9] . L’alinéa 254(2)b), qui est visé en l’espèce, exige qu’au moment où le particulier (tous les particuliers du groupe) devient responsable ou assume une responsabilité aux termes du contrat de vente conclu avec le constructeur, le particulier doit avoir l’intention d’acquérir la résidence pour qu’elle lui serve de lieu de résidence habituelle et, selon l’article 133, une fourniture est ainsi réputée effectuée à la date de conclusion du contrat [10] . Selon l’article 134, s’il est applicable, le transfert n’est pas réputé constituer une fourniture. Je dois décider si l’article 134 s’applique.
+[16] L’appelante soutient que l’article 134 s’applique comme c’était le cas dans la décision Pro‑Ex Trading Co. v Canada (Pro‑Ex), [2001] GSTC 111 (« Pro‑Ex »), où la fourniture a été réputée ne pas avoir été effectuée malgré l’existence de documents démontrant que des ventes d’équipement avaient été faites à diverses sociétés prêteuses, même si ces ventes avaient été inscrites comme des ventes de la société. Le juge O’Connor a accepté l’argument de Pro‑Ex selon lequel elle avait transféré le titre de l’équipement, en tant que garante, seulement pour garantir le remboursement de prêts qu’elle avait contractés. Il a déclaré que c’est la substance juridique, et non la description, qui est pertinente pour des raisons fiscales [11] .
+[17] L’appelante soutient que la présente affaire n’est pas différente de l’affaire Pro‑EX parce que, au fond, au moment où le constructeur a transféré la maison à l’appelante, celle‑ci a simultanément transféré un intérêt dans la maison à M. Restrepo, et elle estime ainsi qu’il ne s’agit pas d’une fourniture effectuée à M. Restrepo parce qu’il est intervenu strictement pour des raisons de financement, en tant que sorte de garant, étant donné qu’elle avait un revenu faible. Si l’on applique l’article 134, une fourniture est réputée ne pas avoir été faite à M. Restrepo pour l’application du paragraphe 262(3) et, par conséquent, il n’a pas besoin de répondre aux exigences énoncées au paragraphe 254(2).
+[18] L’article 134 de la LTA est libellé ainsi :
+134. Pour l’application de la présente partie, le transfert d’un bien, ou d’un droit y afférent, aux termes d’une convention concernant une dette ou une obligation et visant à garantir le paiement de la dette ou l’exécution de l’obligation est réputé ne pas constituer une fourniture. Il en est de même pour le retour du bien ou du droit, une fois la dette payée ou remise ou l’obligation exécutée ou remise.
+[19] Pour que l’article 134 s’applique, le transfert d’un bien (ou d’un intérêt) doit avoir été fait pour garantir le paiement de la dette (ou l’exécution de l’obligation). En l’espèce, le constructeur n’a pas transféré la maison à titre de garantie ou pour garantir le paiement d’une dette. Le constructeur a transféré la maison aux termes du contrat de vente modifié à titre de contrepartie de l’argent versé par l’appelante et M. Restrepo afin de leur permettre d’obtenir le titre de la maison.
+[20] Il est possible d’établir une autre distinction entre l’affaire Pro‑Ex et l’affaire qui nous occupe parce que, dans cette dernière, il existe deux contrats distincts (le contrat de vente modifié et le prêt hypothécaire), dont chacun fait intervenir des entités différentes et a des objets différents. Je souscris à l’avis de l’avocat de l’intimée selon lequel une dette doit concerner les mêmes parties, soit le prêteur et l’emprunteur sans, comme en l’espèce, le tiers (la banque), qui prête de l’argent aux termes d’un contrat distinct auquel le constructeur n’était pas partie [12] . Dans l’affaire Pro‑Ex, la dette concernait les mêmes deux entités, le même constructeur ayant prêté les fonds (la dette) à Pro‑Ex (le débiteur) et le prêteur ayant reçu le titre de l’équipement de Pro‑Ex à titre de garantie des prêts, ce qui fait que l’article 134 s’appliquait [13] .
+[21] La situation de l’appelante ressemble davantage à celle de l’affaire Canpar Developments Inc. c La Reine, 2011 CCI 353, [2011] GSTC 118 (« Canpar »), dans laquelle le juge Paris a rejeté l’application de l’article 134. Dans cette affaire, le juge Paris a souligné que la disposition s’appliquait au transfert d’une garantie découlant d’une convention concernant une dette et que la convention en question devait être conclue entre les deux mêmes parties [14] . Aux paragraphes 15 et 22, le juge Paris a conclu que la preuve n’établissait nullement que Canpar avait transféré le bien à ses deux actionnaires afin de garantir le paiement d’une dette.
+[22] Tout comme dans l’affaire Canpar, il n’existe pas d’éléments de preuve qui établissent que le constructeur a transféré la maison à l’appelante et à M. Restrepo pour garantir une dette étant donné que le constructeur n’est partie à aucun contrat concernant une dette. À mon avis, cela ne constitue pas un transfert de bien visant à garantir une dette, comme l’envisage l’article 134. Je conclus que la fourniture a été effectuée à M. Restrepo; ainsi, en tant que particulier, il doit satisfaire aux exigences énoncées à l’alinéa 254(2)b), comme cela a été souligné précédemment.
+[23] Dans la décision Sharp c Canada, 2014 CCI 323, [2014] ACI no 251 (QL), le juge C. Miller n’a pas admis que l’article 134 s’appliquait, et a souligné, au paragraphe 22, qu’il n’y avait eu aucun transfert d’un droit afférant à un bien pour garantir le paiement.
+[24] Bien que j’admette que M. Restrepo est intervenu pour aider sa nièce, je n’admets pas qu’il y a eu transfert simultané d’un intérêt entre eux. Cela est contraire à la preuve démontrant que la maison a été achetée conjointement du constructeur et que celui‑ci l’a transférée à l’appelante et à M. Restrepo à titre de coacheteurs aux termes du contrat de vente modifié; ils étaient désignés comme tenants conjoints sur le titre, ce qui demeure le cas au moment de l’audience. Le fait d’aider de cette manière ne déplace ni n’invalide les droits et les obligations découlant de la relation juridique qu’ils ont créée.
+[25] Je me penche à présent sur l’affaire Rochefort c. Canada, 2014 CCI 34, 2014 CarswellNat 161 (CCI), invoquée par l’appelante. Celle‑ci estime que les faits de cette affaire sont semblables à ceux de l’espèce (et qu’elle est compatible avec la décision Pro-Ex) parce que, dans la décision Rochefort, il a été conclu que le neveu n’était pas propriétaire effectif du bien, et que la décision devrait trouver application en l’espèce, compte tenu du témoignage de M. Restrepo selon lequel il n’était pas propriétaire effectif [15] .
+[26] Plusieurs faits de l’affaire Rochefort sont semblables à ceux de l’espèce, mais la décision Rochefort n’est d’aucun secours pour l’appelante [16] . Premièrement, la Cour s’était concentrée sur la question de savoir s’il y avait eu transfert de propriété à Mme Rochefort dans le contexte de l’alinéa 254e). Elle avait signé le contrat de vente et était intervenue dans d’autres volets concernant l’achat du bien, mais elle n’avait pas été inscrite sur le titre. La Cour a conclu qu’elle était propriétaire effective [17] .
+[27] Deuxièmement, l’élément crucial de la conclusion du juge C. Miller – selon lequel aucune fourniture n’avait été effectuée au neveu – était le fait qu’il n’avait pas signé le contrat de vente. De plus, il ne savait pas qu’il serait inscrit sur le titre. En invoquant le paragraphe 262(3) et les exigences énoncées au paragraphe 254(2), il a souligné que l’expression « effectué à » renvoyait à la définition de l’acquéreur d’une fourniture au paragraphe 123(1), ce qui renvoyait au particulier qui était devenu responsable aux termes du contrat de vente. Il a établi une distinction entre cette affaire et les affaires Goyer c Canada, 2010 CCI 511, [2010] GSTC 163, et Davidson c Canada, [2001] GSTC 25, en fonction du fait que les particuliers qui aidaient avaient signé le contrat de vente; ainsi, le particulier mentionné à l’alinéa 254(2)b) qui était devenu responsable aux termes du contrat de vente et par l’effet du paragraphe 262(3) devait répondre à toutes les exigences énoncées au paragraphe 254(2) [18] .
+[28] Troisièmement, la décision Rochefort n’est d’aucun secours pour l’appelante en raison de la récente confirmation par le juge C. Miller dans la décision Sharp qu’une personne qui conclut un contrat de vente est assujettie au paragraphe 254(2) et aux exigences de cette disposition. Au paragraphe 23 de la décision Rochefort, le juge C. Miller a formulé les observations suivantes :
+23. On m’a également renvoyé aux décisions Davidson c La Reine et Goyer c La Reine, décisions avec lesquelles j’ai établi une distinction dans la décision Rochefort c La Reine. J’estime qu’elles n’aident pas Mme Sharp en l’espèce, mais elles confirment la conclusion selon laquelle une personne qui conclut un contrat de vente est un « particulier » pour l’application du paragraphe 254(2) de la Loi et est assujettie aux exigences de cette disposition.
+[29] Le juge C. Miller a rejeté l’appel parce que l’alinéa 254(2)b) et le paragraphe 262(3) disposent que la personne qui « devient responsable ou assume une responsabilité aux termes du contrat » doit avoir l’intention de vivre dans la nouvelle maison (ou qu’un proche admissible y vive) [19] . M. Da Silva, le collègue de Mme Sharp, avait signé le contrat de vente avec Mme Sharp. Étant donné que M. Da Silva n’avait pas l’intention de vivre dans la maison, Mme Sharp avait perdu le droit au remboursement.
+[30] De même, les particuliers qui ont aidé dans les décisions Davidson, Goyer et Al-Hossain c Canada, 2014 CCI 379, [2014] ACI no 295 (QL), avaient également conclu un contrat de vente ou un contrat de vente modifié et avaient été inscrits sur le titre, ce qui correspond à la situation de l’appelante.
+[31] Malgré les arguments originaux avancés par l’avocat de l’appelante, je ne puis conclure que l’article 134 s’applique ni que la décision Rochefort appuie sa thèse.
+[32] En ce qui concerne la présentation de M. Restrepo en tant que sorte de garant, dans la décision Sharp, on a soutenu que le statut d’acheteur de M. Da Silva avait été modifié pour celui de garant par suite d’une autre modification apportée au contrat de vente modifié par l’ajout des parents de Mme Sharp. La Cour a conclu qu’il demeurait un acheteur aux termes du contrat de vente modifié parce que le constructeur ne lui avait pas permis de se soustraire de ses obligations prévues par le contrat même si M. Da Silva avait donné instruction par écrit de ne pas être inscrit sur le titre.
+[33] L’appelante a déclaré dans son témoignage que la banque avait dicté les conditions du financement pour l’achat, qu’elle avait très peu de connaissances dans le domaine financier, qu’elle s’en était remise à son avocat et qu’elle ne comprenait pas bien le terme garant. J’admets son témoignage. Manifestement, la banque voulait réduire au minimum son exposition au risque et avoir la meilleure garantie possible en dictant les conditions pour y parvenir, en particulier à cause du faible revenu de l’appelante. Celle-ci a insisté pour que M. Restrepo figure sur le titre en tant que propriétaire inscrit et qu’il devienne emprunteur et débiteur hypothécaire. Je conclus qu’il est hautement improbable que la banque ait accepté M. Restrepo comme simple garant (qui intervient généralement en cas de défaut de l’emprunteur) dans ces circonstances.
+[34] La preuve documentaire produite démontre que, dans leurs démarches auprès de la banque, l’appelante et M. Restrepo étaient représentés à titre d’emprunteurs et de débiteurs hypothécaires (qui accordent une sûreté à la banque au moyen d’une hypothèque sur la maison comme le font les propriétaires). Selon le prêt hypothécaire, l’appelante et M. Restrepo se sont chacun engagés à payer le montant de l’hypothèque plus les intérêts et à assumer une responsabilité individuelle et solidaire à cet égard. Cet engagement ­– et leur présence sur le titre en tant que propriétaires inscrits – existait encore au moment de l’audience et malgré le fait que l’hypothèque a été renouvelée en 2014. À la conclusion de l’opération, ils ont cosigné un document d’instructions exigeant que les fonds concernant le prêt hypothécaire soient avancés par la banque à leur avocat. Je conclus que M. Restrepo n’était pas un garant ni une sorte de garant.
+[35] L’avocat de l’appelante a concédé qu’il n’y avait pas de contrat de fiducie en bonne et due forme. L’appelante a déclaré dans son témoignage qu’elle avait effectué tous les paiements concernant la maison et a produit certains documents. Elle a également fait observer qu’elle recevrait finalement tout le produit provenant de la maison, mais elle n’a pas donné plus de précision quant à la manière dont cela avait une incidence sur M. Restrepo. Un des aspects importants se rapporte au fait que l’appelante et M. Restrepo étaient tous deux acheteurs et que, à ce titre, ils avaient les mêmes droits et assumaient ensemble la responsabilité relative au bien. Ils étaient responsables à l’égard du constructeur pour le paiement de la maison. Par la suite, ils étaient légalement responsables à l’égard de la banque pour le paiement des fonds qui leur avaient été prêtés au titre du prêt hypothécaire ainsi que des obligations actuelles et continues, en plus du fait qu’ils avaient transféré une sûreté sur le bien à la banque, des éléments qui indiquent tous des attributs de propriété. L’appelante et M. Restrepo figurent également sur la demande de remboursement à titre de propriétaires. Je tiens également à souligner que l’avis d’appel modifié ne comporte aucun argument relatif à une fiducie. Il semble s’agir d’une tentative de requalifier l’opération et je conclus qu’aucune fiducie n’a été établie et que l’appelante n’était pas la seule propriétaire effective [20] .
+[36] Dans la décision Canpar, le juge Paris a renvoyé aux exigences relatives à la création d’une fiducie et a conclu qu’aucune fiducie n’avait été établie. Il fait observer que si un particulier se présente à la banque comme copropriétaire, cela a des conséquences, et la personne ne peut pas prétendre être autre chose à l’égard des autres. Voici la teneur de ses observations au paragraphe 10 de la décision Canpar :
+10. Troisièmement, comme l’a signalé l’avocate de l’intimée, rien dans la preuve ne permet de croire que M. Parmar ou M. Canning ait jamais informé TD Canada Trust de l’existence d’une fiducie relative au bien. J’en déduis qu’aucune assertion en ce sens n’a été formulée. J’estime que cette situation est incompatible avec l’existence d’une intention de créer une fiducie. À mon avis, les observations faites à ce sujet par M. le juge Bowman dans la décision Erb c. La Reine, no 97‑3216(IT)G, 26 novembre 1999, 2000 D.T.C. 1401 (CCI), au paragraphe 26, sont pertinentes en l’espèce :
+Il me semble que lorsqu’une personne transfère un bien de manière absolue en apparence au moyen d’un acte translatif ou d’un acte de transfert, et qu’elle procède de cette manière afin d’atteindre un but qui est conditionnel à un transfert de la propriété effective, il faudrait des éléments de preuve très convaincants pour établir que l’auteur du transfert n’avait pas l’intention de faire ce que les documents montrent de façon non équivoque qu’il a fait et qu’il n’avait pas l’intention d’accorder au bénéficiaire le titre bénéficiaire sur le bien.
+[37] L’avocat de l’appelante a affirmé que, sur le plan des principes, l’intention du législateur ne pouvait pas être de lui refuser le remboursement étant donné qu’elle avait pris possession de la maison et qu’elle l’occupait. Bien qu’il soit regrettable que la loi prive l’appelante du droit au remboursement, il appartient au législateur – non à la Cour – de remédier à cette situation.
+[38] Pour les motifs exposés ci‑dessus, je conclus que, lorsque M. Restrepo a conclu le contrat de vente modifié avec le constructeur, par l’effet conjugué des paragraphes 254(2) et 262(3) et de l’article 133, une fourniture de la maison a été faite à M. Restrepo. Cependant, comme il n’avait pas l’intention d’acquérir le bien pour qu’il lui serve de résidence habituelle, les exigences de l’alinéa 254(2)b) n’ont pas été respectées et l’appelante n’a pas droit au remboursement.
+[39] L’appel est rejeté. Aucuns dépens ne sont adjugés.
+Signé à Toronto (Ontario), ce 30e jour de mars 2015.
+« K. Lyons »
+Juge Lyons
+Traduction certifiée conforme
+ce 18e jour de juin 2015.
+Espérance Mabushi, M.A. Trad. Jur.
+RÉFÉRENCE :
+2015 CCI 81
+No DU DOSSIER DE LA COUR :
+2014-1560(GST)I
+INTITULÉ :
+ANGELA MARIA HENAO et SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 23 janvier 2015
+MOTIFS DU JUGEMENT :
+L’honorable juge K. Lyons
+DATE DU JUGEMENT :
+Le 30 mars 2015
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Adam Serota
+Avocat de l’intimée :
+Me Stephen Oakey
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Adam Serota
+Cabinet :
+Serota Tax Law
+Toronto (Ontario)
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Il n’est pas contesté que l’appelante répond à l’exigence.
+[2] Pièce A‑1 – Onglets 9 et 10, Avis de cotisation d’impôt sur le revenu pour 2011 pour l’appelante et M. Restrepo.
+[3] Aucun des deux documents n’a été produit à l’audience.
+[4] Pièces R‑2 et R‑3 – ServiceOntario, Bureau d’enregistrement immobilier, registre parcellaire et affectation hypothécaire.
+[5] Pièce A‑1 – Onglets 3 et – Note d’électricité de Capital One et ligne de crédit de TD Canada Trust, 31 juillet 2013. Onglet 7 – Dépôt de chèques pour la maison signés par l’appelante.
+[6] Pièces A‑1 – Onglet 1 – Convention de prêt hypothécaire à taux d’intérêt fixe fermé aux deux noms. Onglet 2 – Document d’instructions portant que l’avance sur prêt hypothécaire est payable à l’avocat, signé par l’appelante et M. Restrepo. Onglet 2 – Déclaration selon laquelle la maison sera occupée par l’appelante à titre de résidence habituelle, signée par l’appelante et M. Restrepo.
+[7] Le document du prêt hypothécaire mentionne que l’adresse de M. Restrepo est à Vaughan, en Ontario.
+[8] L’avocat de l’appelante a soutenu que la banque considérait celle‑ci comme [traduction] l’« acquéreur principal ». Il a produit un document qui utilise l’expression dans le contexte d’une communication de renseignements à l’emprunteur concernant le coût d’emprunt. Cela importe peu. En outre, l’utilisation du terme « principal » suppose qu’il y avait un autre acquéreur.
+[9] Le paragraphe 262(3) dispose que, lorsque la fourniture d’un tel immeuble est effectuée au profit de plusieurs particuliers, la mention d’un particulier à l’article 254 vaut mention de l’ensemble de ces particuliers en tant que groupe.
+[10] L’alinéa 254(2)b) porte que le particulier devient responsable ou assume une responsabilité aux termes du contrat de vente de l’immeuble et doit l’acquérir pour qu’il lui serve de lieu de résidence habituelle; un bien peut aussi devenir un lieu de résidence habituelle si le contribuable a un proche admissible, un point qui n’est pas en cause en l’espèce.
+[11] Les prêteurs ont fourni une preuve corroborante selon laquelle les transferts de titre de l’équipement avaient été faits pour garantir le remboursement de prêts contractés par Pro‑Ex. La Cour a reconnu que l’opération constituait un prêt et que l’équipement constituait une garantie de remboursement du prêt.
+[12] Dans sa réplique, l’avocat de l’appelante a aussi déclaré que la dette était composée du montant du constructeur et du montant de la banque et que les deux montants faisaient partie intégrante l’un de l’autre.
+[13] L’appelante et M. Restrepo ont obtenu de la banque, tiers prêteur, une avance sur prêt hypothécaire au titre du contrat de prêt hypothécaire pour payer le constructeur.
+[14] Dans l’affaire Canpar, deux actionnaires de Canpar avaient affirmé avoir essayé d’emprunter de l’argent d’un tiers qui exigeait d’avoir le titre du bien. La personne avait transféré le bien parce qu’ils voulaient garantir la même dette.
+[15] L’avocat de l’appelante a cité la décision Rochefort et le fait qu’il faut étudier le terme « propriété » en fonction du texte, du contexte et de l’objet visé pour avoir un sens plus complet que le simple fait qu’il s’agit d’un titre de propriété.
+[16] C’est‑à‑dire que le neveu n’avait l’intention d’occuper le bien ni de faire des paiements hypothécaires ni ne s’attendait à recevoir le produit de la maison au moment de sa vente.
+[17] M. et Mme Rochefort ont conjointement signé le contrat de vente pour une nouvelle maison sans vendre la maison qu’ils possédaient, et ils ne pouvaient obtenir de financement. Peu de temps avant la conclusion de la vente, leur neveu est intervenu pour être cosignataire pour l’hypothèque et a été inscrit sur le titre du bien avec M. Rochefort. Bien que Mme Rochefort n’ait pas été inscrite sur le titre, il a été décidé qu’elle était propriétaire effective. Les Rochefort ont emménagé dans la maison. L’Agence du revenu du Canada avait refusé le remboursement parce que le neveu n’habitait pas dans la maison.
+[18] Dans la décision Davidson, Mme Warehouse a fourni une aide financière et a été inscrite sur le titre d’un duplex en tant que tenante conjointe avec M. Davidson aux termes d’un contrat de vente et figurait sur la convention hypothécaire pour des raisons de financement. La Cour a refusé le remboursement parce que Mme Warehouse n’avait pas l’intention d’acquérir l’immeuble pour qu’il lui serve de lieu de résidence habituelle et n’avait pas satisfait aux exigences énoncées au paragraphe 254(2) de la LTA. La Couronne avait admis que Mme Warehouse n’était pas propriétaire bénéficiaire et qu’elle avait été jointe comme propriétaire uniquement pour des raisons hypothécaires. Dans la décision Goyer, Mme Goyer a acheté un terrain sur lequel une maison devait être construite pour qu’elle lui serve de lieu de résidence habituelle. Comme elle ne remplissait pas les conditions pour obtenir le financement nécessaire, des amis l’on aidée en signant le contrat de vente; ils ont accepté de l’aider afin de lui permettre de respecter les exigences de la banque en termes de ratio financier et ont signé la convention hypothécaire avec Mme Goyer, mais la Cour a refusé d’accorder le remboursement parce que les amis de Mme Goyer, au moment de l’acquisition du bien, n’avaient pas l’intention d’utiliser le bien comme lieu de résidence habituelle.
+[19] Mme Sharp a fait une offre sur une nouvelle maison dans l’intention qu’elle soit celle de ses parents, qui devaient parcourir une longue distance pour s’occuper de ses enfants. Les parents ont au départ rejeté l’idée, mais, avant la conclusion, ils ont accepté d’acheter la maison avec Mme Sharp. M. Da Silva avait signé un contrat de vente modifié pour un intérêt de 50 pour 100, et, ultérieurement, il a essayé de se soustraire du contrat de vente modifié parce que les parents de Mme Sharp s’étaient ravisés. Toutefois, le constructeur a refusé de dégager M. Da Silva de cette obligation.
+[20] L’avocat de l’appelante a également déclaré que M. Restrepo ne serait pas un propriétaire effectif étant donné qu’il ne recevrait pas de produit à la vente finale de la maison. Selon le bulletin d’interprétation de l’Agence du revenu du Canada portant sur des dispositions réputées de biens au moment du décès pour l’application des dispositions fiscales prévues au paragraphe 70(5) de la Loi de l’impôt sur le revenu, M. Restrepo ne serait pas réputé avoir disposé de quoi que ce soit; ainsi la thèse de l’intimée (selon laquelle une fourniture a été effectuée à l’égard de M. Restrepo) est illogique et incohérente parce qu’au moment du décès, il n’y aurait aucune disposition réputée pour les besoins de l’impôt sur le revenu.

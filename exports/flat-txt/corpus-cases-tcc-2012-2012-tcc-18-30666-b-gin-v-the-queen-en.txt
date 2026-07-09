@@ -1,0 +1,166 @@
+Title: Bégin v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30666/index.do
+Corpus path: corpus/cases/tcc/2012/2012-tcc-18-30666-b-gin-v-the-queen-en.md
+Document type: case_law
+Last modified: 2012-01-12
+
+# Bégin v. The Queen
+
+- Citation: 2012 TCC 18
+- Decision date: 2012-01-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7225, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bégin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-01-12
+Neutral citation
+2012 TCC 18
+File numbers
+2010-2986(IT)I
+Judges and Taxing Officers
+Johanne D’Auray
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-2986(IT)I
+BETWEEN:
+ANDRÉ BÉGIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on October 21, 2011, at Montréal, Quebec.
+Before: The Honourable Justice Johanne D’Auray
+Appearances:
+Counsel for the appellant:
+Serge Fournier
+Counsel for the respondent:
+Gabriel Girouard
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2005 and 2006 taxation years are dismissed.
+Signed at Ottawa, Canada, this 12th day of January 2012.
+“Johanne D’Auray”
+D’Auray J.
+Translation certified true
+on this 28th day of February 2012
+Margarita Gorbounova, Translator
+Citation: 2012 TCC 18
+Date: 20120112
+Docket: 2010-2986(IT)I
+BETWEEN:
+ANDRÉ BÉGIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+D’Auray J.
+[1] The issues in this appeal are as follows:
+- Whether the Minister was justified in adding to the appellant’s income $33,883 in commission for the 2005 taxation year and $28,400 in commission for the 2006 taxation year under subsection 9(1) of the Income Tax Act (the Act);
+- If I find that the commission was taxable under subsection 9(1) of the Act, whether the Minister would be justified in disallowing the deduction of the premiums related to these life insurance policies under paragraph 18(1)(h) of the Act.
+THE FACTS
+[2] The appellant admitted the following facts at the hearing:
+(a) The appellant was a life insurance broker.
+(b) During the years in question, in addition to his regular activities with respect to life insurance, the appellant set up a business activity enabling him to make profits by purchasing individual life insurance policies for him, his spouse and his father.
+(c) The appellant made a profit from this activity because the commission he received relative to this individual life insurance was greater than the premiums paid.
+(d) For the 2005 and 2006 taxation years, the appellant received commission in the amount of $33,883 and $28,400 respectively for the individual life insurance policies.
+(e) For the 2005 and 2006 taxation years, the appellant paid premiums of $20,826 and $15,721 for individual life insurance policies.
+(f) The appellant was the beneficiary for his spouse’s and his father’s life insurance. His spouse was the beneficiary for the appellant’s life insurance.
+(g) During their policy period, the appellant, his spouse and his father benefited from the protection provided in these policies.
+(h) When he signed the contracts, the appellant knew that he was going to abandon the life insurance policies shortly before the end of the minimum membership period, which was 24 months.
+(i) The brokerage that the appellant dealt with paid individual life insurance premiums out of the commission payments.
+(j) The appellant’s objective was to earn income by using to his advantage the system some insurance companies use to pay their salespersons.
+[3] When he prepared his income tax returns, the appellant reported a gross commission income of $4,652 for the 2005 taxation year and of $1,892 for the 2006 taxation year. The appellant explained to the Canada Revenue Agency (CRA) when he filed his tax returns why, in his opinion, he did not have to include in his income the amounts received as commission for individual life insurance.
+[4] Les Assurances Luc Deguire Inc., the payer, produced T4As indicating the amounts of $34,500 and $28,400 for the 2005 and 2006 taxation years respectively. These amounts included the amounts of commission that the appellant had received for the individual life insurance policies that he had purchased on his life and those of his spouse and his father.
+[5] At the hearing, the appellant argued that the commission he received with respect to the individual life insurance policies should not be included in computing his income for the 2005 and 2006 taxation years. Alternatively, he argued that, if the commission had to be included as business income, the premiums should be deductible as expenses incurred for the purpose of earning business income.
+[6] In support of his argument, he referred to paragraph 27 of Interpretation Bulletin IT-470 R, which reads as follows:
+. . . where a life insurance salesperson acquires a life insurance policy, a commission received by that salesperson on that policy is not taxable provided the salesperson owns that policy and is obligated to make the required premium payments thereon.
+[7] This said, the CRA also mentioned that paragraph 27 of the Bulletin applies only to cases where life insurance was purchased for personal purposes and not as an investment or to earn business income.
+[8] In this case, it was admitted that the appellant had purchased individual life insurance policies several times in order to increase his income. I cite paragraphs 2, 4 and 8 of the Notice of Appeal:
+[Translation]
+2. During the 2005 and 2006 taxation years, in addition to his usual activities with respect to life insurance, the appellant set up a business activity enabling him to make profits, namely, the difference between the amount of premiums paid for a specific life insurance policy and the amount of commission paid by the insurance company relative to that insurance policy.
+. . .
+4. Thus, in tandem with his activities as a life-insurance broker, the appellant set up various life insurance policies for which he was paying premiums in order to obtain commission and then let the policies expire without having to repay the commission received.
+. . .
+8. The appellant never intended to keep these life insurance policies past the period required to acquire the commission he received for the policies.
+[9] The appellant also confirmed these allegations of fact in his testimony at the hearing.
+ANALYSIS
+[10] First, I note that I am not bound by the Interpretation Bulletin.[1] In addition, even if there was doubt as to the meaning of the Act, I am of the view that the appellant cannot rely on the Bulletin in this appeal; the appellant did not purchase life insurance policies for personal purposes but rather to earn business income.
+[11] The appellant also asked me not to take into account Bilodeau,[2] a decision rendered by my colleague, Justice Lamarre.
+[12] In that decision, Mr. Bilodeau had purchased universal life insurance policies with guaranteed insurance costs for himself and his spouse. As Justice Lamarre explained in her decision,
+[4]. . . the person who invests in such a policy invests a greater amount in the beginning that is deposited into a fund where earnings grow tax-free and are used to pay insurance costs over an average period of about 5 to 7 years, based on the rate of return in the fund.
+Mr. Bilodeau alleged that he had purchased insurance policies for personal purposes because there was no cash surrender value for the first few years. Mr. Bilodeau argued that it was the non-taxability of commission that enabled him to absorb the high cost of the insurance. Mr. Bilodeau had paid premiums totalling $57,166.51 for the two policies and received $43,115 in commission.
+[13] Mr. Bilodeau relied on the same Interpretation Bulletin to argue that the commission he had earned relative to the insurance for himself and his spouse was non-taxable. According to the CRA, the purchases had been made for purposes of investment and therefore the Interpretation Bulletin did not apply.
+[14] The judge found that Mr. Bilodeau had earned commission as an insurance agent. Consequently, the commission was taxable under subsection 9(1) of the Act. At paragraphs 14 and 19 of her decision, Justice Lamarre stated the following:
+[14] In my view, the commission received in the amount of $43,115 is taxable income within the meaning of subsection 9(1) of the ITA. It is income that the Appellant earned from his business. Indeed, the Appellant received that amount in carrying out his profession of life insurance broker. Had he not been a broker, he would not have received that commission. . . .
+. . .
+[19] Accordingly, whether the policies were acquired by the Appellant for personal reasons, or to obtain a tax-free return on his investment, does not in any way change, in my view, the fact that the commission he received in carrying out his profession is taxable.
+[15] The appellant does not agree with Justice Lamarre’s finding. According to him, the commission is not taxable because the policies were purchased for personal purposes. The questions asked by the appellant are as follows:
+- It is logical to tax commission on policies for which premiums were paid?
+- Does a taxpayer earn business income by speculating on his or her own life?
+[16] It is difficult for me to answer these questions, which, in my opinion, are questions concerning tax policies. I must limit myself to the provisions of the Act. In this appeal, it has been established in evidence that the appellant purchased individual life insurance policies to earn income within the meaning of subsection 9(1) of the Act. Accordingly, the appellant’s claims that the individual life insurance policies were purchased for personal purposes cannot stand. In addition, as indicated by my colleague Justice Lamarre, whether for personal or business purposes, the commission was earned by the taxpayer while practising his profession as insurance agent and is therefore taxable.
+[17] I therefore agree with the respondent that the commission of $33,883 and $28,400 must be included in computing the appellant’s income for the 2005 and 2006 taxation years.
+[18] Having concluded that the commission was taxable, I will now turn to the second issue. Is the appellant, in computing his income, entitled to deduct the premiums he had paid for the purchase of the individual life insurance policies?
+[19] The appellant argues that the premiums are expenses incurred in order to make a profit from a business within the meaning of subsection 9(1) of the Act.
+[20] The respondent alleges that the appellant is not entitled to deduct the amount of the premiums under paragraph 18(1)(h) of the Act. She also argues that the fact that an expense was found to be a personal expense does not affect the characterization of the source of income to which the taxpayer attempts to allocate the expense. The respondent based herself on Stewart,[3] in which Justices Iacobucci and Bastarache stated at paragraph 57:
+. . . that the deductibility of expenses presupposes the existence of a source of income, and thus should not be confused with the preliminary source inquiry. If the deductibility of a particular expense is in question, then it is not the existence of a source of income which ought to be questioned, but the relationship between that expense and the source to which it is purported to relate. The fact that an expense is found to be a personal or living expense does not affect the characterization of the source of income to which the taxpayer attempts to allocate the expense, it simply means that the expense cannot be attributed to the source of income in question. . . .
+[Emphasis added.]
+[21] The provisions of the Act that are relevant to this appeal are subsection 9(1), paragraphs 18(1)(a) and 18(1))(h) and the definition of personal or living expenses in section 248:
+9. (1) Subject to this Part, a taxpayer’s income for a taxation year from a business or property is the taxpayer’s profit from that business or property for the year.
+General limitations
+18. (1) In computing the income of a taxpayer from a business or property no deduction shall be made in respect of
+General limitation
+(a) an outlay or expense except to the extent that it was made or incurred by the taxpayer for the purpose of gaining or producing income from the business or property;
+. . .
+Personal or living expenses
+(h) personal or living expenses of the taxpayer, other than travel expenses incurred by the taxpayer while away from home in the course of carrying on the taxpayer’s business;
+The definition of personal or living expenses is found in section 248 of the Act. I cite only the relevant part of it:
+“personal or living expenses” includes
+(a) . . .
+(b) the expenses, premiums or other costs of a policy of insurance, annuity contract or other like contract if the proceeds of the policy or contract are payable to or for the benefit of the taxpayer or a person connected with the taxpayer by blood relationship, marriage or common-law partnership or adoption, and
+(c) . . .
+[Emphasis added.]
+[22] Although the insurance premiums were paid by the appellant to earn business income, they cannot be deducted in computing the appellant’s business income. The evidence showed that the premiums relate to insurance policies the proceeds of which, while they were in effect, were payable to the appellant or his spouse. The premiums are therefore personal or living expenses that are not deductible under paragraph 18(1)(h) of the Act.
+[23] Therefore, the appellant cannot deduct the premiums in the amount of $20,826 and $15,721 relative to the individual life insurance policies he purchased for the 2005 and 2006 taxation years respectively.
+[24] Accordingly, the appeals from the reassessments made under the Act for the 2005 and 2006 taxation years are dismissed.
+Signed at Ottawa, Canada, this 12th day of January 2012.
+“Johanne D’Auray”
+D’Auray J.
+Translation certified true
+on this 28th day of February 2012
+Margarita Gorbounova, Translator
+CITATION: 2012 TCC 18
+COURT FILE NO.: 2010-2986(IT)I
+STYLE OF CAUSE: ANDRÉ BÉGIN v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: October 21, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Johanne D’Auray
+DATE OF JUDGMENT: January 12, 2012
+APPEARANCES:
+Counsel for the appellant:
+Serge Fournier
+Counsel for the respondent:
+Gabriel Girouard
+COUNSEL OF RECORD:
+For the appellant:
+Name: Serge Fournier
+Firm: BCF, LLP.
+Montréal, Quebec
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Administrative policies and interpretation are not conclusive, but they have a certain value, and, in cases of doubt as to the meaning of the legislation, they may be a “significant factor”: Justice de Grandpré in Harel v. Deputy Minister of Revenue of Québec, [1978] 1 S.C.R. 851, at p. 859.
+[2] Bilodeau v. Her Majesty the Queen, 2009 TCC 315.
+[3] Stewart v. Her Majesty the Queen, [2002] 2 S.C.R. 645.

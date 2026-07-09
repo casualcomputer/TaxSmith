@@ -1,0 +1,124 @@
+Title: Traversy c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28271/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-566-28271-traversy-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2007-09-28
+
+# Traversy c. M.R.N.
+
+- Citation: 2007 CCI 566
+- Decision date: 2007-09-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2052, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Traversy c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-09-28
+Référence neutre
+2007 CCI 566
+Numéro de dossier
+2007-1620(EI)
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2007-1620(EI)
+ENTRE :
+RAYMOND TRAVERSY,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 20 septembre 2007, à Montréal (Québec).
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Avocat de l'appelant :
+Me Gilbert Nadon
+Avocate de l'intimé :
+Me Annie Poirier
+____________________________________________________________________
+JUGEMENT
+L'appel en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi concernant la décision du ministre du Revenu national est accueilli et la décision du Ministre est infirmée.
+Signé à Ottawa, Canada, ce 28e jour de septembre 2007.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Référence : 2007CCI566
+Date : 20070928
+Dossier : 2007-1620(EI)
+ENTRE :
+RAYMOND TRAVERSY,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx
+[1] Il s'agit d'un appel d'une décision du ministre du Revenu national (le « Ministre ») voulant que l'appelant n'ait pas exercé un emploi assurable du 7 février 2005 au 7 janvier 2006, au service de Transport Week N inc. Cette décision a été rendue en date du 5 janvier 2007.
+[2] Le travailleur et l'employeur sont des personnes liées au sens de la Loi de l'impôt sur le revenu. Le seul actionnaire du payeur, monsieur Dany Traversy, est le fils du travailleur, monsieur Raymond Traversy, l'appelant. Cette situation juridique de personnes liées n'est pas contestée par l'appelant.
+[3] Le Ministre a rendu sa décision sur la base qu'il était raisonnable de conclure que l'appelant et le payeur n'auraient pas conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu un lien de dépendance. Les circonstances des faits sur lesquels le Ministre s'est appuyé pour en arriver à cette conviction sont décrites au paragraphe 6 de la Réponse à l'avis d'appel (la « Réponse ») :
+a) Le payeur, constitué en société le 25 juin 2002, exploite une entreprise de transport de bois de sciage;
+b) au début de la période en litige, le payeur possédait 5 camions et seulement 2 en fin de période;
+c) le payeur a embauché l'appelant pour faire l'entretien des camions;
+d) les principales tâches de l'appelant se résumaient à :
+− laver et nettoyer les camions;
+− effectuer l'inspection visuelle pour la prévention;
+− changer l'huile et les pneus;
+− effectuer quelques réparations mineures;
+e) l'appelant pouvait aussi nettoyer le garage du payeur qui servait aussi à 2 autres entreprises : 9152‑0213 Québec inc. dont l'unique actionnaire était Yan Traversy, fils de l'appelant et Transport Mario Traversy inc. dont l'unique actionnaire était Mario Traversy, fils de l'appelant;
+f) l'appelant prétend qu'il inscrivait ses heures de travail pour les remettre à Yan Traversy, qui s'occupait du livre de paie du payeur, alors que ce dernier a mentionné que l'appelant était rémunéré à salaire fixe et ce, sans égard aux heures réellement travaillées;
+g) au début de la période, l'appelant recevait 260 $ net par semaine et, après environ 4 mois, sa rémunération est passée à 160 $ net par semaine;
+h) selon l'appelant, il travaillait entre 20 et 40 heures par semaine alors que selon la version du payeur, il travaillait entre 10 et 20 heures par semaine;
+i) selon les versions obtenues, l'appelant pouvait travailler à 17 $ de l'heure, beaucoup trop compte tenu de la situation financière du payeur, ou pour aussi peu que 4,25 $, ce qui est inférieur au salaire minimum au Québec;
+j) ni le payeur ni l'appelant ne peuvent certifier le nombre réel d'heures travaillées par l'appelant au cours de la période en litige;
+k) l'appelant rendait de nombreux services au payeur et a accepté une baisse de 40% de sa rémunération car le payeur connaissait des difficultés financières;
+l) durant la période en litige, l'appelant a rendu des services au payeur et aux deux autres entreprises, avec lesquelles il est lié, sans vraiment tenir compte des heures consacrées à chacune d'elles;
+m) l'appelant aurait été au service du payeur pendant 11 mois; avant et après cette période, c'est l'actionnaire du payeur qui accomplissait ses tâches.
+[4] L'avocat de l'appelant, pour ce dernier, a admis les alinéas a) à e) et m), il a dit ignorer les alinéas f), h), i) et j) et il a nié les alinéas g), k) et l).
+[5] Le témoin de l'appelant a été monsieur Dany Traversy, le président de Transport Week N inc. Monsieur Traversy a relaté qu'il a commencé une entreprise de transport de bois de sciage en juin 2002. Il avait alors un camion. Il a loué par la suite quelques autres camions. Au début de l'année 2005, l'entreprise possédait cinq camions. Il y avait aussi plus d'employés. En 2006, l'entreprise a fait faillite.
+[6] D'octobre 2004 à avril 2005, l'entreprise a loué un garage. Après avril 2005, l'entreprise a loué une grange ou un entrepôt pour garer les camions. Vers mai 2005, l'entreprise s'est départie d'un ou deux camions.
+[7] Deux autres frères de monsieur Dany Traversy étaient dans le même genre d'entreprise, soit monsieur Yan Traversy, qui avait comme entreprise 9152‑0213 Québec inc. à St‑Cyrville de Wendover et Transport Mario Traversy inc. de St‑Nicéphore. Monsieur Yan Traversy s’occupait de la comptabilité de l’entreprise de l’employeur.
+[8] Monsieur Dany Traversy explique qu'il a recruté les services de son père au moment où l'entreprise avait acquis environ cinq camions, soit au début de l'année 2005. Avant, c'était lui qui faisait l'entretien des camions mais la tâche était devenue trop lourde et comme il s'avait que son père cherchait un travail, il a recruté ses services pour 170 $ par semaine.
+[9] Le livre des salaires de l'entreprise a été produit comme pièce A‑2 et comme pièce A‑1, ont été produites les factures de location de la main d'œuvre de monsieur Raymond Traversy à Transport Mario Traversy inc. Ces factures datent du 31 mars 2005 au 5 mai 2005. Cette location de travail à une autre entreprise explique l'augmentation du salaire de monsieur Raymond Traversy du 31 mars 2005 au 30 avril 2005. En effet, selon les livres de salaire, ce salaire passe de 170 $ à 278 $, pour revenir par la suite à 170 $, le salaire d'origine.
+[10] Monsieur Raymond Traversy a témoigné à la demande de l'intimé. Il s'est présenté comme étant sans travail. Il a expliqué que peu de temps avant son emploi par l'entreprise de son fils, soit Transport Week N inc., il était allé voir un groupe, qu'il a appelé Coalition. Ce groupe avait comme objet d'aider les personnes de 45 ans et plus à établir leur curriculum vitae. Il a maintenant 61 ans. Il a expliqué qu'il avait étudié la mécanique et la soudure mais qu'il a plutôt travaillé dans le bois au cours de sa vie de travail active. Il connaît cependant très bien la mécanique et la soudure, s’y étant toujours intéressé. Ceci lui permettait de rendre les services adéquats à l'entreprise de son fils. C'est lui qui non seulement lavait et nettoyait les camions, mais faisait le graissage des essieux, changeait l'huile et vérifiait les moteurs pour en prévenir les bris. De plus, sa prestation quotidienne de services lui permettait d’exercer une surveillance des lieux et du matériel de l’entreprise.
+[11] L'avocat de l'appelant fait valoir que ce dernier a accompli sa prestation de travail. Son travail a cessé au moment où l'entreprise a cessé ses activités. Le salaire était raisonnable car il n’était pas fondé sur une base horaire mais sur la prestation de services.
+[12] L'avocate de l'intimée admet qu'il y a eu prestation de travail. Toutefois, elle fait valoir que la rétribution versée et les modalités d'emploi n'étaient pas raisonnablement semblables à celles qui auraient été accordées à une personne non liée. Il n'était pas normal, selon elle, que l'appelant demeure employé de la même manière alors que le nombre de camions avait diminué. Monsieur Dany Traversy avait admis qu'il ne contrôlait pas les heures de l'appelant.
+[13] L'avocat de l'appelant, en réplique, fait valoir qu'il n'y avait pas de contrôle spécifique des heures parce que l'employeur avait confiance dans son employé et se rendait bien compte que le travail était exécuté. En ce qui concerne le nombre de camions qui a diminué, ceci n'entraîne pas nécessairement une diminution corrélative des tâches de travail. La personne doit quand même se rendre sur les lieux du travail et exécuter ses tâches.
+Analyse et conclusion
+[14] Je comprends que lorsqu'il y a un emploi entre personnes liées, il y a toujours un certain doute quant à l'authenticité de l'emploi et à son utilité. Il y a aussi doute quant à la normalité des modalités de l’emploi. Elles peuvent être plus favorables et parfois moins qu’entre personnes non liées.
+[15] Dans ce cas‑ci, je ne vois pas de plan systématique d'user ou d’abuser du régime de l'assurance‑emploi, ce qui me porte à accorder plus de crédibilité aux témoignages du travailleur et de l’employeur.
+[16] Les services de l'appelant ont été requis au moment où il y avait le plus grand nombre de camions utilisés par l'entreprise. L'appelant n'est pas un jeune travailleur qui demanderait normalement à être payé à l'heure. Il est une personne à la retraite ou à la semi‑retraite. Il a accepté d’être payé pour la prestation de services qu’il rendait de façon régulière, correctement mais à son rythme. En autant que le travail soit accompli et bien accompli, c'est ce que l'employeur voulait et dont il avait besoin. Il n'a pas congédié l'employé quand il y a eu moins de camions, car il avait tout de même besoin des services de quelqu'un pour voir à l'entretien des camions et exercer une certaine surveillance sur le matériel roulant et autre de l’entreprise. L'employeur aurait‑il pu obtenir le même genre de service et au même prix d'une autre personne à la retraite ou à la semi‑retraite mais non liée? Je n'ai pas eu de preuve spécifique de la part de l'intimée à l'effet qu'il s'agissait d'une situation hors de la normale pour cette catégorie d’employés.
+[17] Le Ministre a fondé sa conviction sur un tarif horaire normal, sur l’absence de contrôle des heures et sur le fait que le travailleur avait accepté une baisse de 40% de sa rémunération. À l’audience, ce dernier point a été expliqué et non retenu par l’intimé.
+[18] Il reste le tarif horaire et l’absence de contrôle des heures. Ainsi que je l’ai déjà mentionné, nous sommes dans une situation d’une personne d’un certain âge. C’est à l’égard de cette catégorie qu’il faut se questionner sur ce qui est normal.
+[19] Il n’y a pas contestation que le service a été rendu, que l'appelant a au moins travaillé les heures minimales mentionnées, soit 20 heures par semaine et que le travail était utile et nécessaire. Je suis d’avis que dans les circonstances de cette affaire, il n’y a pas eu de preuve d’une situation hors de l’ordinaire. La décision du Ministre doit donc être infirmée.
+[20] En conséquence l'appel est accordé.
+Signé à Ottawa, Canada, ce 28e jour de septembre 2007.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE : 2007CCI566
+Nº DU DOSSIER DE LA COUR : 2007-1620(EI)
+INTITULÉ DE LA CAUSE : RAYMOND TRAVERSY ET M.R.N.
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 20 septembre 2007
+MOTIFS DU JUGEMENT PAR : L'honorable juge Louise Lamarre Proulx
+DATE DU JUGEMENT : le 28 septembre 2007
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Gilbert Nadon
+Avocate de l'intimé :
+Me Annie Poirier
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom : Me Gilbert Nadon
+Cabinet : Ouellet, Nadon, Barabé, Cyr, de Merchant, Bernstein, Cousineau, Palardy, Gagnon, Tremblay, Leduc, Denis, Binsse‑Masse, Fortin‑Legris, Montréal (Québec)
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,122 @@
+Title: Carrier c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31214/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-203-31214-carrier-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2013-06-10
+
+# Carrier c. La Reine
+
+- Citation: 2013 CCI 203
+- Decision date: 2013-06-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5054, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Carrier c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-06-10
+Référence neutre
+2013 CCI 203
+Numéro de dossier
+2011-2085(IT)G
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011‑2085(IT)G
+ENTRE :
+ROGER CARRIER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+________________________________________________________________
+Appel entendu le 10 juin 2013, à Québec (Québec).
+Devant : L'honorable juge Patrick Boyle
+Comparutions :
+Avocats de l'appelant :
+Me Nadia Harvey
+Me Jean-Paul Timothée
+Avocat de l'intimée :
+Me Dany Leduc
+________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation établie au titre de la Loi de l'impôt sur le revenu à l'égard de l'année d'imposition 2004 de l'appelant est rejeté avec dépens, conformément aux motifs du jugement ci‑joints.
+Signé à Toronto, Ontario, ce 20e jour de juin 2013.
+« Patrick Boyle »
+Juge Boyle
+Référence : 2013 CCI 203
+Date : 20130620
+Dossier : 2011‑2085(IT)G
+ENTRE :
+ROGER CARRIER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Boyle
+[1] Monsieur Roger Carrier interjette appel de la cotisation d'impôt établie pour l'année d'imposition 2004 relativement à des avantages conférés à un actionnaire au titre du paragraphe 15(1) de la Loi de l'impôt sur le revenu. L'intimée prétend que l'appelant a reçu de deux de ses sociétés en propriété exclusive, Agence Roger Carrier inc. (« Agence Roger Carrier ») et 2971‑1181 Québec inc., faisant affaire sous la dénomination Génie Concepts (« Génie Concepts »), des avantages d'une valeur totale d'environ 175 000 $. Des pénalités ont également été imposées en vertu du paragraphe 163(2).
+Les faits
+[2] Pendant toute la période pertinente, l'appelant, Roger Carrier, était l'unique actionnaire et administrateur d'Agence Roger Carrier et de Génie Concepts. Les deux sociétés avaient été exploitées activement. Cependant, en 2001, les seuls éléments d'actif pertinents restants des sociétés étaient des placements en espèces.
+[3] En 2001, M. Carrier a eu l'occasion de placer de l'argent pour une période de cinq ans dans Commodore Corp. (« Commodore »), aux Bahamas, lequel placement aurait un taux de rendement de 25 %, à condition que Commodore ait un rendement d'au moins 35 % au cours de la période. M. Carrier a placé dans Commodore une somme de 70 000 $ provenant de ses fonds personnels. Il a également fait en sorte qu'Agence Roger Carrier place 150 000 $ et Génie Concepts, 25 000 $. Les fonds d'Agence Roger Carrier avaient jusqu'alors été placés auprès de la Great‑West. En tout, 245 000 $ ont été placés. Les sommes placées par Agence Roger Carrier et Génie Concepts représentaient la quasi‑totalité des éléments d'actif restants des deux sociétés à ce moment‑là. Des accords de placement sommaires ont été conclus avec Commodore pour refléter les opérations effectuées. Ces placements n'ont toujours pas vraiment été expliqués. Le jour même où l'appelant a signé son contrat de placement avec Commodore, il a aussi signé un contrat de prêt avec Commodore comme prêteur pour la même somme à un taux d'intérêt de 8 %. L'appelant n'a pas pu donner d'explications concernant ce contrat de prêt, ni le faire concorder avec son contrat de placement.
+[4] Agence Roger Carrier et Génie Concepts ont toutes deux cessé de produire des déclarations de revenus après leur année d'imposition 2001. L'impôt établi pour les années précédentes n'avait pas été entièrement payé. Comme il est mentionné plus loin, M. Carrier a depuis personnellement payé les cotisations d'impôt établies précédemment pour les sociétés. Cependant, celles‑ci n'ont quand même jamais produit de déclarations de revenus pour les années suivantes.
+[5] Vers la fin de l'année 2003, M. Carrier a commencé à s'inquiéter des placements effectués dans Commodore et a exercé des pressions pour que Commodore lui rembourse la somme de 245 000 $ que ses deux sociétés et lui avaient placée auprès d'elle. Après quelques discussions, une société canadienne (qui a peut‑être pris en charge les obligations qui incombaient à Commodore aux termes du mystérieux contrat de prêt dès 2001), la Société Financière Speedo (1993) ltée (« Speedo »), a remboursé la somme de 240 000 $. Le chèque de 240 000 $ émis par Speedo était daté du 14 janvier 2004 et était payable à Roger Carrier personnellement.
+[6] Le 10 février 2004, Roger Carrier a ouvert un compte bancaire personnel à son nom uniquement à la Banque de Montréal, a endossé le chèque de 240 000 $ émis par Speedo et l'a déposé dans ce compte.
+[7] Le 13 avril 2004, Roger Carrier a pris des mesures pour qu'un montant de 240 000 $ soit transféré par la Banque de Montréal dans un compte de placement chez BMO Nesbitt Burns dont il était le seul titulaire.
+[8] En mai 2004, le ministère provincial compétent a radié les immatriculations d'Agence Roger Carrier et de Génie Concepts pour défaut de production des déclarations annuelles exigées. Selon le droit applicable au Québec, elles ont dès lors été réputées avoir été dissoutes. Rien n'a jamais été fait pour reconstituer les sociétés.
+[9] En mai 2004, Roger Carrier a enregistré la dénomination « Motorisés de la Capitale S.E.N.C. » pour une nouvelle entreprise que son épouse et lui lançaient.
+[10] En mai 2004, Roger Carrier a embauché un nouveau comptable pour effectuer la tenue de la comptabilité, préparer les états financiers et établir les déclarations de revenus pour lui ainsi que pour Motorisés de la Capitale S.E.N.C. Il n'a pas donné de détails à son nouveau comptable concernant le compte de placement qu'il détenait chez Nesbitt Burns.
+[11] En juillet 2004, Roger Carrier a fermé son compte de placement chez Nesbitt Burns et a fait transférer la somme détenue dans le compte à un nouveau compte ouvert au nom de Motorisés de la Capitale S.E.N.C. à la Banque de Montréal.
+[12] Plus tard en juillet 2004, Roger Carrier et son épouse ont constitué 9144‑7979 Québec inc. (« 9144 ») en personne morale. Cette nouvelle société a alors exploité l'entreprise de Motorisés de la Capitale S.E.N.C. Le nouveau compte bancaire détenu par Motorisés de la Capitale S.E.N.C. à la Banque de Montréal est apparemment devenu le compte de 9144.
+[13] Avant la vérification de l'Agence du revenu du Canada (l'« ARC »), Roger Carrier n'avait pas dit à son nouveau comptable d'où provenaient les fonds dans le compte qu'il détenait chez Nesbitt Burns. En outre, il n'a jamais laissé entendre que les fonds ne lui appartenaient pas personnellement. La somme transférée à Motorisés de la Capitale S.E.N.C. a été consignée dans les documents comptables comme une somme payable à Roger Carrier personnellement au moment du transfert en juillet 2004. De même, il était indiqué que la somme était payable à Roger Carrier personnellement dans les états financiers de 9144 depuis le début.
+[14] Jusqu'à ce que l'ARC commence la vérification de Roger Carrier en juillet 2008, il était indiqué dans les états financiers de 9144 et dans ses déclarations de revenus annuelles que les sommes étaient payables à Roger Carrier personnellement. C'est après le début de la vérification que le nouveau comptable a appris d'où provenaient les fonds dans le compte de placement de M. Carrier chez Nesbitt Burns. Par la suite, il a été indiqué que la totalité du montant de 175 000 $ qui provenait initialement d'Agence Roger Carrier et de Génie Concepts était payable à des sociétés liées, même s'il y avait eu une perte de 5 000 $ du fait que Speedo n'avait remboursé que 240 000 $, et même s'il y avait eu des gains et des pertes de placement lorsque la somme était placée auprès de Nesbitt Burns.
+[15] Il convient également de souligner qu'en février 2006, M. Carrier a rapidement payé l'arriéré d'impôt d'Agence Roger Carrier et de Génie Concepts avec ses propres fonds lorsque l'agent de recouvrement de l'ARC lui a laissé entendre que l'ARC pouvait établir une cotisation à son égard en vertu de l'article 160, étant donné que ses sociétés lui avaient transféré leurs liquidités. Il n'a pas discuté de la question avec son nouveau comptable à ce moment‑là. Lors de ses conversations avec l'agent de recouvrement de l'ARC, il a dit à deux reprises qu'il avait dépensé l'argent pour subvenir à ses besoins. Il n'a pas dit que les sociétés avaient prêté l'argent à 9144 pour sa nouvelle entreprise. On peut supposer que ses conversations avec l'ARC ont peut‑être mené à la vérification effectuée à son égard et aux nouvelles cotisations en question.
+Analyse et conclusion
+[16] Compte tenu de la preuve, je suis tout à fait convaincu que Roger Carrier, et donc ses sociétés, Agence Roger Carrier et Génie Concepts, voulaient, du moins depuis que Speedo lui avait remboursé en 2004 les trois placements effectués auprès de Commodore, conférer un avantage à M. Carrier en lui laissant le reste des liquidités de ces deux sociétés. Cela lui aurait permis de liquider et de dissoudre les sociétés dans les faits sans avoir à payer l'impôt sur les sommes lui ayant été distribuées.
+[17] Compte tenu de la preuve dont je dispose, aucune autre explication quant à l'intention des sociétés ne me semble raisonnable. Les avocats de l'appelant n'ont également pu fournir d'autre explication.
+[18] Les montants en cause sont beaucoup trop importants pour que je considère qu'il s'agissait d'un oubli. À mon avis, toute affirmation contraire est contredite par ce qui suit :
+(i) M. Carrier a déposé les sommes dans de nouveaux comptes bancaires et de placement qu'il a ouverts uniquement pour y déposer les fonds; pourtant, il a ouvert ces comptes en son nom seulement;
+(ii) il n'a pas pris de mesures pour reconstituer les sociétés ou pour faire en sorte qu'elles produisent des déclarations de revenus;
+(iii) il n'a informé son comptable qu'en 2008, lorsque la vérification de l'ARC a commencé, et il a décidé d'informer son comptable peu après le début de la vérification par l'ARC;
+(iv) il n'avait jamais prévu de plan ni de méthode pour rembourser les sommes payables à Agence Roger Carrier et à Génie Concepts, même après 2008, lorsque les sommes ont été consignées en tant que dettes de 9144;
+(v) les réponses qu'il a fournies à l'agent de recouvrement de l'ARC en 2006. Il a alors admis qu'il avait pris l'argent et a affirmé l'avoir utilisé pour subvenir à ses besoins. Il a payé les dettes fiscales des deux sociétés personnellement lorsqu'on a soulevé la question de la responsabilité du bénéficiaire du transfert en vertu de l'article 160. Il n'a jamais mentionné à ce moment‑là qu'il avait financé l'entreprise de Motorisés de la Capitale S.E.N.C.;
+(vi) je ne peux accepter les explications qu'il a fournies, à savoir qu'il avait toujours eu l'intention de faire en sorte qu'Agence Roger Carrier et Génie Concepts prêtent les sommes à la nouvelle entreprise de Motorisés de la Capitale S.E.N.C. Il a amplement eu l'occasion d'indiquer cela correctement dès le départ et il a eu plusieurs occasions d'apporter des modifications avant le début de la vérification de l'ARC. Il a laissé l'argent dans les nouveaux comptes personnels pendant des mois avant même que la nouvelle dénomination commerciale soit enregistrée;
+(vii) lorsque la vérification de l'ARC a commencé, M. Carrier a accepté personnellement la totalité de la perte découlant de Speedo et a consigné les sommes initiales de 150 000 $ et de 25 000 $ en tant que sommes payables par 9144 à Agence Roger Carrier et à Génie Concepts. Si l'appelant avait prévu ces prêts dès le début, les deux sociétés auraient subi leur part de la perte de 5 000 $ découlant du placement dans Commodore.
+[19] Pour ces motifs, les avantages conférés à un actionnaire au titre du paragraphe 15(1) ont été imposés à juste titre et l'appel interjeté par M. Carrier à l'égard de l'impôt calculé sur la somme de ces avantages doit être rejeté. Je conclus, d'après la preuve, que ces avantages ont sciemment et délibérément été conférés en 2004 afin de permettre à M. Carrier d'éviter de payer de l'impôt lors de la liquidation des sociétés. Les écritures comptables effectuées après le début de la vérification de l'ARC constituent de vaines tentatives de réviser les faits et de modifier les documents afin de pouvoir éviter ou contester toute nouvelle cotisation fiscale.
+[20] Compte tenu des faits dont je dispose, j'ai conclu que les projets de M. Carrier et les mesures qu'il a prises étaient délibérés et intentionnels. Pour cette raison, les pénalités imposées en vertu du paragraphe 163(2) sont également appropriées, puisqu'il a sciemment omis de déclarer les avantages dans sa déclaration de revenus pour 2004.
+[21] L'appel est rejeté avec dépens.
+Signé à Toronto, Ontario, ce 20e jour de juin 2013.
+« Patrick Boyle »
+Juge Boyle
+RÉFÉRENCE : 2013 CCI 203
+NO DU DOSSIER DE LA COUR : 2011-2085(IT)G
+INTITULÉ : ROGER CARRIER c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Québec (Québec)
+DATE DE L'AUDIENCE : Le 10 juin 2013
+MOTIFS DU JUGEMENT : L'honorable juge Patrick Boyle
+DATE DU JUGEMENT : Le 20 juin 2013
+COMPARUTIONS :
+Avocats de l'appelant :
+Me Nadia Harvey
+Me Jean-Paul Timothée
+Avocat de l'intimée :
+Me Dany Leduc
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom : Me Nadia Harvey
+Me Jean-Paul Timothée
+Cabinet : Gagné Letarte S.E.N.C.R.L., avocats
+79, boulevard René‑Lévesque Est
+Bureau 400
+Québec (Québec) G1R 5N5
+Pour l'intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

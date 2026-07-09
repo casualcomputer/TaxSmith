@@ -1,0 +1,194 @@
+---
+title: "Lafontaine c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28605/index.do"
+last_modified: "2008-04-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 191"
+citation2: ""
+neutral_citation: "2008 TCC 191"
+decision_date: "2008-04-16"
+language: "en"
+item_id: "28605"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1105
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:20:07.121000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7f2b8c59bd3fa41b9ad0c4730238a484110108b1ad56c1076d46e22c6d9b91fc"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lafontaine c. La Reine
+
+- Citation: 2008 TCC 191
+- Decision date: 2008-04-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1105, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lafontaine c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-04-16
+Neutral citation
+2008 TCC 191
+File numbers
+2007-2475(IT)I
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-2475(IT)I
+BETWEEN:
+GINETTE LAFONTAINE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+GASTON GAUTHIER,
+Intervenor.
+[OFFICIAL ENGLISH TRANSLATION]
+__________________________________________________________________
+Appeal heard on March 12 [Translator's note: no year] at Sherbrooke, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances
+Counsel for the Appellant:
+Pierre G. Picard
+Counsel for the Respondent:
+Philippe Dupuis
+For the Intervenor:
+The Intervenor himself
+____________________________________________________________________
+JUDGMENT
+The appeal from the determinations of the Minister of National Revenue (the "Minister") whereby the Appellant was denied the Canada Child Tax Benefit for the periods of July 2005 to June 2006 and July 2006 to October 2006 for the 2004 and 2005 base years and her Goods and Services Tax Credit for the 2004 and 2005 taxation years is allowed. The determinations are accordingly referred back to the Minister for reconsideration and redetermination on the basis that the Appellant was the eligible individual within the meaning of section 122.6 of the Income Tax Act, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 16th day of April 2008.
+"Alain Tardif "
+Tardif J.
+Translation certified true
+on this 26th day of May 2008.
+Carole Chamberlin, Translator
+Citation: 2008TCC191
+Date: 20080416
+Docket: 2007-2475(IT)I
+BETWEEN:
+GINETTE LAFONTAINE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+GASTON GAUTHIER,
+Intervenor.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal from a determination by the Minister of National Revenue (the "Minister") dated November 20, 2006, whereby the Appellant was denied the Canada Child Tax Benefit for the periods of July 2005 to June 2006 and July 2006 to October 2006. The Minister determined that the overpayments totalled $2,950 for the 2004 base year and $1,066.64 for the 2005 base year.
+[2] On October 27, 2006, the Minister also revised the Appellant's Goods and Services Tax Credit for the periods of July 2005 to April 2006 and July 2006 to October 2006, determining that the Appellant did not qualify for the $327 for the 2004 taxation year or the $177 for the 2005 taxation year.
+[3] The decision appealed is that of April 3, 2007, in which the Minister confirmed the redeterminations of November 20, 2006, for the 2004 and 2005 base years and the redeterminations of October 27, 2006, for the 2004 and 2005 taxation years.
+[4] In arriving at the determinations, the Minister relied on the following assumptions of fact:
+[TRANSLATION]
+a) The Appellant is the mother of Pascal-Dévid Lafontaine, born March 27, 1989;
+b) Gaston Gauthier is Pascal-Dévid's father;
+c) During the periods at issue, Pascal-Dévid was residing with his father;
+d) The Minister determined that Gaston Gauthier was the individual who primarily fulfilled the responsibility for the care and upbringing of Pascal-Dévid during the periods at issue.
+[5] The Court has to decide whether the following statements are true:
+[TRANSLATION]
+a) The Minister correctly revised the amounts of the Appellant's Child Tax Benefit and determined that the overpayments totalled $2,950 for the 2004 base year and $1,066.64 for the 2005 base year.
+b) The Minister correctly revised the Appellant's Goods and Services Tax Credit and determined that the amounts of the overpayments totalled $347 for the 2004 taxation year and $177 for the 2005 taxation year.
+[6] Ginette Lafontaine testified at length. She started by stating that she was the mother of Pascal-Dévid Joseph Lafontaine, born on March 27, 1989, and that no father's name was recorded on the birth certificate.
+[7] She stated that the biological father was the Intervenor, Gaston Gauthier, with whom she had another son, Simon. She explained that she had lived with the Intervenor for three or four years and that a first separation had occurred while she had been pregnant with Pascal-Dévid.
+[8] She had moved back in with Gaston Gauthier a short while later, but only for a brief period. She had never lived with him again after that time.
+[9] She explained that Pascal-Dévid had been diagnosed as having severe diabetes at a very young age, that is, at about two and a half years of age. As a result, Pascal-Dévid had required constant attention and round-the-clock care.
+[10] To deal with his illness, young Pascal-Dévid had to be given injections seven days a week. He had had to go to the hospital every week at first, then every two weeks and, finally, every three weeks.
+[11] Pascal-Dévid's health had been very worrying. He had needed a great deal of care and a very high level of attention, to the point of having to give him up to four injections a day.
+[12] During all those years (through Pascal-Dévid's childhood and teenage years), Pascal-Dévid's father never provided any assistance and never really showed any concern about his son's health.
+[13] Ms. Lafontaine stated that she had had no contact with Gaston Gauthier, except on one occasion when some serious accusations had been circulating concerning Pascal-Dévid's behaviour.
+[14] Ms. Lafontaine provided considerable detail concerning Pascal-Dévid's care and upbringing. She explained that Pascal-Dévid's medical care had been a constant concern for her and that she had expended a great deal of energy to enable her son to have a normal life.
+[15] Obviously, the Appellant spent a good deal of her free time and much energy seeing to the well-being of Pascal-Dévid. She stated that she had given her son $35 to $40 a week so that he could eat in the cafeteria and have a snack, as this was essential for his health. She also paid for protein products, gym fees, clothing, school-related equipment and supplies, and so on. She also took an interest in Pascal-Dévid's performance at school.
+[16] Pascal-Dévid had a close relationship with his grandfather, who drove him daily to a job he had at a convenience store. Pascal-Dévid also enjoyed his grandfather's boat, to the point of making it his headquarters for a while.
+[17] The Appellant explained that, at the start of the periods at issue, her son had expressed a desire to get to know his father better. She stated that she had not objected to her son's wish—in fact, the very opposite was true. According to the Appellant, her son had wanted to get to know both his father and his brother, who had stayed with his father, better.
+[18] Pascal-Dévid had thus managed to get a room with a futon and a chest of drawers in his father's apartment.
+[19] According to Mr. Gauthier, Pascal-Dévid had settled in there, for a period of about two years. He explained in support of his claims that his rental had been close to his son's school.
+[20] The Appellant did not deny that her son had lived with his father on and off, but stated that her son had spent part of his time with his father, part with her, and part with his friends, and had occasionally stayed with his grandfather.
+[21] In her account of the facts, the Appellant was explicit and provided considerable detail showing a truly daily interest as well as serious concern about the welfare and stability of her son, who was seriously impaired by his health problem.
+[22] Mr. Gauthier, for his part, stated that his son had shown up one morning, just as he was moving into a new apartment; Pascal‑Dévid had told him he wanted to spend more time with him to get to know him better and also to be closer to his brother, who was also living there.
+[23] Mr. Gauthier was not very explicit and stated several times that Pascal-Dévid was a loner who was able to make his own decisions. Mr. Gauthier ran a landscaping business and gave his son some work, such as cutting grass.
+[24] He maintained that he had housed his son for about a year. Then, since the situation with Pascal‑Dévid seemed to be turning into a permanent arrangement, he had taken steps to obtain tax benefits, without advising Pascal-Dévid's mother of the fact.
+[25] He had also taken steps to change the different addresses on documents relating to his son, again without informing the mother. For instance, he had asked Pascal-Dévid's school to change his address, falsely representing himself as the child's guardian.
+[26] When asked for clarifications concerning his testimony, Mr. Gauthier basically made some general, often confused, statements. For example, when the Court asked about the discrepancies between two report cards, the father clearly became ill at ease.
+[27] Generally speaking, the mother has always acted pro-actively in regard to her son, while the father has basically been passive in his attitude and behaviour toward him.
+[28] Moreover—and this is a determining factor, which is confirmed by the balance of evidence derived from the explanations of the father and mother— Pascal-Dévid never really left his mother's residence; he left all his personal belongings and, specifically, all the items relating to his pastimes and sports activities, such as his fishing pole, moped, and so on., at his mother's place.
+[29] I attempted to obtain more information from the father about the room set up for Pascal-Dévid. He explained that he had bought a futon right away and had added a chest of drawers a little later on. In other words, he had purchased the bare minimum needed for his son to stay with him.
+[30] Based on the many, detailed explanations provided by the Appellant, it appears that Pascal-Dévid spent the greater part of his early years with his mother and had very little, if any, contact with his father.
+[31] As a teenager, Pascal‑Dévid naturally wanted to get to know his father and be closer to his brother. The father allowed his son to stay with him; he set up a space for him and provided him with work through the business he operated.
+[32] Are these factors sufficient to conclude that the father was the eligible parent?
+[33] The evidence showed that the father-son relationship was an adult relationship in the sense that the father considered his son mature, responsible and fully able to take care of himself. The Appellant, on the other hand, was concerned about his health.
+[34] The fact that a minor child who has never really gotten to know his father or brother expresses a need to establish a relationship with them is normal and right—to be recommended, even.
+[35] Does establishing this closer relationship mean that the child automatically stops living in his place of residence? The Appellant described all the things and personal effects left in her home by her son, who regularly returned to his mother's residence.
+[36] As for the father, he did set up a room so that his son could stay with him. He proudly indicated that he had bought a futon and chest of drawers for his son, as though this were an exceptional and remarkable thing to do. What generosity, what a welcome! Should such astounding generosity entitle him to the status of eligible parent? Why did he lie about being the child's guardian in order to have the child's address changed? Why did he take steps to have the address changed without advising the Appellant? The answer is quite simple. Never did he provide support to the Appellant during the extremely hard times she must have endured because of Pascal‑Dévid’s health problems.
+[37] He wanted his son to see him as a welcoming father who held no grudges, but his actions were not completely unselfish, as he underhandedly applied for the tax benefits, no doubt to pay for the futon and chest of drawers.
+[38] The balance of evidence indicates that, during the periods at issue, the child had a number of places to spend the night. Moreover, as a teenager, he enjoyed a great deal of freedom, which makes it difficult to rule on the matter of residence.
+[39] However, it has been established that Pascal‑Dévid left all his personal effects at his mother's home. This is a determining factor in identifying the permanent residence.
+[40] Moreover, the fact that the father made all the arrangements for the change of address without Pascal-Dévid's mother's knowledge is revealing. Pascal-Dévid was not a child, but a teenager.
+[41] Had the father acted transparently in taking those steps, these proceedings would likely never have taken place, as everyone concerned would have agreed on the choice of the real residence.
+[42] For all of these reasons, I find that the mother was always the eligible parent, right up to the child's age of majority.
+Signed at Ottawa, Canada, this 16th day of April 2008.
+"Alain Tardif "
+Tardif J.
+Translation certified true
+on this 26th day of May 2008.
+Carole Chamberlin, Translator
+CITATION:
+2008TCC191
+COURT FILE NUMBER:
+2007-2475(IT)I
+STYLE OF CAUSE:
+Ginette Lafontaine v. Her Majesty the Queen
+PLACE OF HEARING:
+Sherbrooke, Quebec
+DATE OF HEARING:
+March 12, 2008
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Alain Tardif
+DATE OF JUDGMENT:
+April 16, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Pierre G. Picard
+Counsel for the Respondent:
+Philippe Dupuis
+For the Intervenor:
+The Intervenor himself
+COUNSEL OF RECORD:
+For the Appellant:
+Firm:
+City:
+Pierre G. Picard
+Picard & Beaucage
+Lac‑Mégantic, Quebec
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

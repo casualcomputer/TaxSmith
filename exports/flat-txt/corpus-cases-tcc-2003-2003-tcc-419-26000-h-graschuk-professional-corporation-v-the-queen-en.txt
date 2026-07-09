@@ -1,0 +1,142 @@
+Title: H. Graschuk Professional Corporation v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26000/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-419-26000-h-graschuk-professional-corporation-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-06-30
+
+# H. Graschuk Professional Corporation v. The Queen
+
+- Citation: 2003 TCC 419
+- Decision date: 2003-06-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3733, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+H. Graschuk Professional Corporation v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-06-30
+Neutral citation
+2003 TCC 419
+File numbers
+2003-240(IT)I
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-240(IT)I
+BETWEEN:
+H. GRASCHUK PROFESSIONAL CORPORATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 10, 2003 at Edmonton, Alberta
+Before: The Honourable Judge D.W. Beaubier
+Appearances:
+Counsel for the Appellant:
+Frank D. Jones
+Counsel for the Respondent:
+Galina M. Bining
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 1999 taxation years is dismissed.
+Signed at Saskatoon, Saskatchewan, this 30th day of June 2003.
+"D.W. Beaubier"
+J.T.C.C.
+Citation: 2003TCC419
+Date:20030630
+Docket: 2003-240(IT)I
+BETWEEN:
+H. GRASCHUK PROFESSIONAL CORPORATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+REASONS FOR JUDGMENT
+Beaubier, J.T.C.C.
+[1] This appeal pursuant to the Informal Procedure was heard at Edmonton, Alberta on June 10, 2003. Harry Graschuk, F.C.A., the sole shareholder of the Appellant was the only witness. He has been a chartered accountant since before 1969.
+[2] The Appellant carries on the practice of chartered accounting with an emphasis on income tax in Edmonton, Alberta and did so while the income tax return in question in this appeal was filed.
+[3] Paragraphs 8 to 12 of the Reply to the Notice of Appeal outline the dispute before the Court. They read:
+...
+8. In so reassessing the Appellant, the Minister made the following assumptions of fact:
+(a) The facts admitted above;
+(b) At all material times, Harry S. Graschuk owned all the issued shares of the Appellant;
+(c) During its taxation years 1983 to 1993, the Appellant incurred non-capital losses in the amounts reflected on Schedule A;
+(d) During the taxation years 1989 to 1999, the Appellant requested non-capital losses be applied in the amounts reflected on Schedules A and B;
+(e) During the taxation years 1989 to 1999, the Minister allowed the application of non-capital losses in the amounts reflected on Schedules A and B;
+(f) The Appellant filed its 1991 Tax Return listing the balance of the 1987 non-capital loss available as $41,552.00. The Appellant filed its 1992 Tax Return listing the balance of the 1987 non-capital loss available as $48,552.00;
+(g) On its 1992 tax return, the Appellant overstated the 1987 non-capital loss balance as $48,552, when that figure should have been $41,552.00. Therefore, the 1987 non-capital loss was overstated by $7,000.00;
+(h) For the tax years listed in Schedules C, the Minister applied the amount of the non-capital loss requested by the Appellant, with the exception of the Appellant's 1999 tax year;
+(i) The Appellant's 1993 non-capital loss reduced the Appellant's 1998 taxable income by the amount of $6,933.00;
+(j) In assessing the Appellant's 1999 Tax Return the Minister reduced the amount of the non-capital loss requested by the Appellant.
+(i) In 1999, the Appellant requested non-capital loss in the amount of $16,781.00.
+(ii) The Minister reduced the Appellants 1999 taxable income by the maximum amount available of $9,781.00. A difference of $7,000.00.
+(iii) The difference of $7,000.00 was a result of the Appellant's overstatement of the Appellant's 1987 non-capital loss balance when filing its 1992 Tax Return;
+(k) Since 1983, the Appellant has not incurred any non-capital losses other than those listed on Schedule A.
+B. ISSUES TO BE DECIDED
+9. The issue is:
+a) What is the amount of 1993 non-capital loss available to the Appellant for application to its 1999 tax year.
+C. STATUTORY PROVISIONS, GROUNDS RELIED ON AND RELIEF SOUGHT
+10. He relies on sections 3 and 111, subsections 152(3.1), 152(4), and 248(1) of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp) (the "Act") as amended for the 1999 taxation year.
+11. He submits that the Appellant incurred a non-capital loss in the amount of $48,340.00 in its 1987 taxation year pursuant to paragraph 111(8) of the Act. Of this amount $38.00, $6,750.00 and $41,552.00 were deducted in computing taxable income of the Appellant for the 1989, 1991 and 1994 taxation years respectively.
+12. He submits that the Appellant carried forward, the wrong amount of its 1987 non-capital balance from its 1991 tax return to its 1992 tax return. As a result of this error, the Appellant overstated the 1987 non-capital loss balance by $7,000.00 from its 1992 tax return, up to an including its 1999 tax return.
+[4] In his testimony Mr. Graschuk accepted all of the assumptions, with the following exceptions:
+8 (g) Mr. Graschuk stated this was not a deliberate error. Rather,
+the computer did it. In the Court's view, this error should have been caught and corrected by the Appellant. The Court finds that it was the Appellant's error, not the computer's or anyone else's.
+8 (i) Mr. Graschuk stated that Canada Customs and Revenue Agency ("CCRA") reduced the Appellant's 1998 taxable income by $6,933.00. However, it is admitted by the Appellant that the 1987 non-capital loss balance was in fact $41,552.00, and not $48,552.00.
+8 (j) (ii) Mr. Graschuk objected to the statement that the "maximum amount available" was $9,781.00 in 1999.
+8 (j) (iii) Mr. Graschuk stated that this was the computer's overstatement, not the Appellant's. The Court finds that the overstatement was the Appellant's. It filed the income tax return in question and its officer, Mr. Graschuk, signed it. Mr. Graschuk then stated how CCRA discovered the error in November 2001, long after the expiry of the three year period described in section 152 of the Income Tax Act, (the "Act").
+Analysis
+[5] Subsection 152(4) allows the Minister is entitled to reassess the Appellant at any time
+... only if
+(a) the taxpayer or person filing the return
+(i) has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return or in supplying any information under this Act,...
+[6] The first element that must be established by the Minister is that there was a misrepresentation made on behalf of the Appellants.
+[7] The term "misrepresentation" was defined by Cameron, J. in M.N.R. v. Taylor, 61 DTC 1139 (Ex.Ct.) at 1141 as follows:
+I have reached the conclusion that the words 'any misrepresentation', as used in the section, must be construed to mean any representation which was false in substance and in fact at the material date, and that it includes both innocent and fraudulent misrepresentations.
+[8] This definition was also adopted in Nesbitt v. The Queen, 96 DTC 6045 (F.C.T.D.) at 6049; affirmed in 96 DTC 6588 (F.C.A.). In the Nesbitt case, Heald, D.J. agreed with the definition set forth in M.N.R. v. Foot, 64 DTC 5196 (Ex.Ct.) at 5198; affirmed in 66 DTC 5072 (S.C.C.), in which the Exchequer Court in dealing with paragraph 42(4)(a) of the 1948 Income Tax Act, a predecessor to subparagraph 152(4)(a)(i) of the Act, held that the term "any misrepresentation" was synonymous with the expression "incorrect". Heald, D.J. ruled that any incorrect statement amounts to a "misrepresentation" as that term is used in subparagraph 152(4)(a)(i) of the Act.
+[9] In his testimony, Mr. Graschuk admitted that the correct loss to be carried forward is $41,552 as shown in the Appellant's 1991 income tax return (Exhibit R-1) and not the erroneous figure of $48,522 as shown in the Appellant's 1992 income tax return (Exhibit R-2). Thus, the information provided by the Appellant is "incorrect", and a misrepresentation has been made. The loss is $41,552.
+[10] The second element that must be established by the Minister is that the misrepresentation was "attributable to neglect, carelessness or wilful default".
+[11] The Appellant and his counsel described the error in question as the Minister of National Revenue's (the "Minister"). In the Court's view, that is not the case. Regardless of whether one chooses to use the more polite description of "typographical error" or the much less polite description of "false misrepresentation" to characterize the incorrect figure of $48,552, it is in either case a misrepresentation caused by the Appellant's neglect.
+[12] For these reasons, the appeal is dismissed.
+Signed at Saskatoon, Saskatchewan this 30th day of June 2003.
+"D.W. Beaubier"
+J.T.C.C.
+CITATION:
+2003TCC419
+COURT FILE NO.:
+2003-240(IT)I
+STYLE OF CAUSE:
+H. Graschuk Professional Corporation v. The Queen
+PLACE OF HEARING:
+Edmonton, Alberta
+DATE OF HEARING:
+June 10, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Judge D.W. Beaubier
+DATE OF JUDGMENT:
+June 30, 2003
+APPEARANCES:
+Counsel for the Appellant:
+Frank D. Jones
+Counsel for the Respondent:
+Galina M. Bining
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Frank D. Jones
+Firm:
+Parlee McLaws LLP
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

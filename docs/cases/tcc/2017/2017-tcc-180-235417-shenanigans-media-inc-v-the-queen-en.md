@@ -1,0 +1,449 @@
+---
+title: "Shenanigans Media Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/235417/index.do"
+last_modified: "2017-09-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 TCC 180"
+citation2: ""
+neutral_citation: "2017 TCC 180"
+decision_date: "2017-09-15"
+language: "en"
+item_id: "235417"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2208
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:11:02.062000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e2d86267071e5914b4ff0e4d564705290118549b291533656b84224bd782a374"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Shenanigans Media Inc. v. The Queen
+
+- Citation: 2017 TCC 180
+- Decision date: 2017-09-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2208, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Shenanigans Media Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-09-15
+Neutral citation
+2017 TCC 180
+File numbers
+2016-329(IT)I, 2016-331(IT)I
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-331(IT)I
+BETWEEN:
+SHENANIGANS MEDIA INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeal of
+Dylan Philip Everett (2016-329(IT)I) on November 25, 2016, and June 23, 2017, at Hamilton, Ontario.
+Before: The Honourable Justice Gaston Jorré
+Appearances:
+Agents for the Appellant:
+Sanjeev Jain (November 25, 2016)
+Linda Everett
+Counsel for the Respondent:
+Gregory B. King
+JUDGMENT
+For the attached reasons for judgment, the appeal from the assessment made under the Income Tax Act for the taxation year ending on July 31, 2011 is allowed, without costs, and the matter is referred back to the Minister of National Revenue on the basis that the Appellant is entitled to an additional deduction of $452 in research and development expenses.
+Signed at Ottawa, Canada, this 15th day of September 2017.
+“Gaston Jorré”
+Jorré J.
+Docket: 2016-329(IT)I
+BETWEEN:
+DYLAN PHILIP EVERETT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeal of
+Shenanigans Media Inc. (2016-331(IT)I) on November 25, 2016, and June 23, 2017, at Hamilton, Ontario.
+Before: The Honourable Justice Gaston Jorré
+Appearances:
+Agents for the Appellant:
+Sanjeev Jain (November 25, 2016)
+Linda Everett
+Counsel for the Respondent:
+Gregory B. King
+JUDGMENT
+For the attached reasons for judgment, the appeal from the assessments made under the Income Tax Act for the 2009, 2010 and 2011 taxation years is allowed, without costs, and the matter is referred back to the Minister of National Revenue on the basis that:
+1. in the 2009 taxation year, the Appellant is entitled to an additional deduction of $500 in research and development expenses;
+2. in the 2010 taxation year, the Appellant is entitled to an additional deduction of $1,330, consisting of $300 in research and development expenses and $1,030 in business promotion expenses;
+3. in the 2011 taxation year, the Appellant is entitled to a reduction of $452 in shareholder benefits assessed.
+Signed at Ottawa, Canada, this 15th day of September 2017.
+“Gaston Jorré”
+Jorré J.
+Citation: 2017 TCC 180
+Date: 20170915
+Dockets: 2016-331(IT)I
+2016-329(IT)I
+BETWEEN:
+SHENANIGANS MEDIA INC.,
+DYLAN PHILIP EVERETT,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Jorré J.
+Introduction [1] This is essentially an expense case.
+[2] The Appellant, Dylan Everett, an actor, was about 14 to 16 years old during the years in issue. Mr. Everett appeals from assessments of his 2009, 2010 and 2011 taxation years.
+[3] Shenanigans Media Inc. (“Shenanigans”) is owned by Mr. Everett. The corporation appeals from a reassessment of its taxation year ending on July 31, 2011, its first taxation year.
+[4] The assessments disallowed various expenses claimed by Mr. Everett or by Shenanigans. In the case of Mr. Everett the assessments included in his income shareholder benefits from Shenanigans.
+[5] The first day of the hearing was extremely confusing as to exactly what was claimed, what was allowed by the Minister of National Revenue and what was disallowed by the Minister. It has taken quite some effort to establish what was claimed and what was in dispute.
+[6] It will be useful to first set out the overall picture for each year in dispute. The table below sets out the expenses originally claimed by Mr. Everett (DE) or Shenanigans (S), the amount allowed by the Minister (the amount allowed by the Minister at either the audit stage and/or the objection stage), the difference between the first two amounts and the amount in dispute at the end of the hearing (after taking account of concessions made by the parties):[1]
+Taxation Year
+Total Expenses Claimed
+Total Expenses Allowed
+Difference Between Amount Claimed and Allowed
+Amount in Dispute at the End of the Hearing[2]
+2009 (DE)
+$38,571
+$23,010
+$15,561
+$6,415
+2010 (DE)
+$23,227
+$17,069
+$6,158
+$3,793
+2011 (S)
+$32,337
+$6,186
+$26,151
+$12,433
+Totals
+$94,135
+$46,265
+$47,870
+$22,641
+[7] With respect to shareholder benefits the table below shows the amount originally assessed by the Minister, the amount of the reduction in the shareholder benefits as a result of the objection stage and the amount in dispute at the end of the hearing:
+Taxation year
+Shareholder Benefits Assessed
+Reduction at the Objection Stage
+Amount in Dispute at the End of the Hearing
+2010
+$513
+—
+$513
+2011
+$48,014
+$31,747
+$16,267
+[8] It is worth remembering that Shenanigans’ 2011 taxation year ends on July 31 and overlaps Mr. Everett’s 2010 and 2011 taxation years.
+[9] Of the $31,747 reduction in shareholder benefits by the Appeals Division, an amount of $26,809 relates to expenses incurred by Shenanigans to acquire a vehicle for Mr. Everett’s mother; this is the vehicle in respect of which we will see a claim for capital cost allowance (CCA) below. The remainder of the reduction comprises makeup and hair and wardrobe expenses that were allowed by the Appeals Division because they were considered to have been incurred for business purposes.
+[10] Below I set out in more detail the disputed expenses:
+Taxation Year
+Category
+Total Expenses Claimed
+Total Expenses Allowed
+2009 (DE)
+Advertising
+$2,566
+$2,566
+Business Promotion
+$2,129
+$1,006
+Makeup/Hair
+$3,342
+$1,671
+Management/Chaperone
+$10,000
+$10,000
+Research and Development
+$1,554
+—
+Rent
+$2,010
+$2,000
+Travel
+$13,957
+$4,261
+Wardrobe
+$3,013
+$1,506
+2010 (DE)
+Business Promotion
+$1,378
+$347
+Makeup/Hair
+$1,518
+$759
+Management/Chaperone
+$14,000
+$10,000
+Research and Development
+$463
+—
+Rent
+—
+$4,000
+Travel
+$3,209
+$634
+Wardrobe
+$2,659
+$1,329
+2011 (S)
+Automobile
+$2,753
+—
+CCA Automobile
+$2,576
+—
+Makeup/Hair
+$2,431
+$1,251
+Entertainment
+$2,618
+$870
+Research and Development
+$2,387
+$148
+Travel
+$13,158
+$695
+Wardrobe
+$6,414
+$3,222
+[11] It should be noted that:
+– The 2009 advertising expenses consist of purchases of gifts to the cast and crew of productions Mr. Everett worked on.
+– During the hearing the Respondent conceded $832 in additional expenses for 2010 which are categorized under business promotion above, thereby further reducing the amount in dispute.
+– At the hearing, the Appellants abandoned the remaining travel expenses in dispute in the three years.
+– In 2010 an amount of $14,000 was claimed as management or chaperone expenses. The Minister allowed $10,000. In addition, the Minister found that of the $14,000 an amount of $4,000 was in fact a rental expense; that amount of $4,000 was allowed as a rental expense. Accordingly, there is no dispute regarding the $14,000.
+– It is unclear whether the automobile expenses claimed in 2011 are $2,329 (shown in the income statement — Exhibit A-16) or the $2,753 referred to in the letter from the Appeals Division (Exhibit A-14). The table shows the higher number.
+– Makeup and hair expenses of $2,431 claimed in 2011 are referred to as supplies in the reply although they, in fact, appear to be primarily makeup and hair expenses.
+– Entertainment expenses of $2,618 claimed in 2011 included some meals. During the objection stage, Shenanigans’ claim was reduced to less than the amount allowed by the Minister. However, a portion of the original claim was shifted into the category of supplies.
+[12] The next table sets out only the above items that are still in dispute except for two very straightforward items. First, there was the $10 remaining in dispute with respect to rent in 2009; nothing in the evidence has persuaded me that the additional $10 should be allowed. Second, there is the automobile CCA issue in 2011. The evidence is quite clear that the automobile is not owned by Shenanigans; the vehicle is owned by Mr. Everett’s mother and, accordingly, the company cannot claim CCA on an automobile that it does not own.
+[13] Finally, it must be noted that the amount in the last column, “amount in dispute at the end of the hearing”, takes account not only of concessions made at the hearing but also of the changes in the position of the Appellants prior to filing the notices of appeal.[3]
+Taxation Year
+Category
+Total Expenses Claimed
+Total Expenses Allowed
+Difference Between Amount Claimed and Allowed
+Amount in Dispute at the End of the Hearing
+2009 (DE)
+Business Promotion
+$2,129
+$1,006
+$1,123
+$402
+Makeup/Hair
+$3,342
+$1,671
+$1,167
+$1,238
+Research and Development
+$1,554
+—
+$1,554
+$1,229
+Wardrobe
+$3,013
+$1,506
+$1,507
+$3,536
+2010 (DE)
+Business Promotion
+$1,378
+$347
+$1,031
+$580
+Makeup/Hair
+$1,518
+$759
+$759
+$1,039
+Research and Development
+$463
+—
+$463
+$664
+Wardrobe
+$2,659
+$1,329
+$1,330
+$1,510
+2011 (S)
+Automobile
+$2,753
+—
+$2,753
+$2,600
+Makeup/Hair
+$2,431
+$1,251
+$1,180
+$2,636
+Entertainment
+$2,618
+$870
+$1,748
+—
+Research and Development
+$2,387
+$148
+$2,239
+$2,091
+Wardrobe
+$6,414
+$3,222
+$3,192
+$2,530
+[14] In summary, the expenses in dispute are the amounts shown in the right‑hand column, a total of about $20,000 plus the shareholder benefits of somewhat less than $17,000 shown above. I will deal with the different categories of expenses in turn.
+General Principles [15] In respect of business expenses there are, among others, two important principles set out in paragraphs 18(1)(a) and (h) of the Income Tax Act (Act):
+18(1) In computing the income of a taxpayer from a business or property no deduction shall be made in respect of
+(a) an outlay or expense except to the extent that it was made or incurred by the taxpayer for the purpose of gaining or producing income from the business or property;
+. . .
+(h) personal or living expenses of the taxpayer, other than travel expenses incurred by the taxpayer while away from home in the course of carrying on the taxpayer’s business;
+[16] As a result, when claiming business expenses it is necessary to show, first, that the expenses were incurred and, second, that they were made for the purpose of producing in the business and were not personal or living expenses except, of course, to the extent that the expenses are not contested. Here, the amounts in dispute are centred on the second element.
+Specific Expenses Wardrobe and Makeup/Hair Expenses [17] As Justice Paris of this Court said in Rupprecht v. The Queen:[4]
+Expenses relating to one’s personal appearance are the very essence of a personal expense and involve choices made by a taxpayer in preparing him or herself for work.
+[18] Because of the inherently personal nature of clothing, it is accepted in the case law that normally clothing can only be claimed if it is not suitable for general wear or if it has special features uniquely necessary for the work. Thus, items such as period costumes, chef’s uniforms, lawyer’s gowns, jackets with company names or logos and safety related clothing are deductible. However, clothing that is generally worn is not deductible and, for this purpose, it does not matter what an individual prefers to wear when not at work.
+[19] During the period in issue Mr. Everett was in two television series and was obliged to make various promotional appearances. More generally, when in public, he had to maintain a certain public image and dress accordingly.
+[20] He was provided with clothes by the production companies for the actual filming of the two television shows.
+[21] However, he had to provide his own clothes at promotional appearances and if he went to audition for a role. In some lower budget productions an actor might have to wear his own clothes but it is not clear to me whether this occurred to Mr. Everett in the years in question.
+[22] The wardrobe expenses might better be described as clothing expenses.
+[23] The receipts provided at trial showed ordinary clothes that might well be worn by anyone of Mr. Everett’s age from such stores as Sport Chek, H&M, American Eagle, the Bay and Foot Locker. There were also expenses for his mother, such as shoes and an evening dress.[5] The clothing in question was used at promotional events and was also used more generally.
+[24] I accept that Mr. Everett had to maintain a certain image. Many people, whether they are employees or are self-employed, feel that they need to maintain a certain image both at work and in many public spaces and as a result may not dress as they would in private. That does not, of itself, convert an inherently personal expense into a business expense.
+[25] There is nothing in the evidence before me to suggest something unique about the clothing expenses in issue that would take the disputed amount or any portion of it out of the category of non-deductible clothing and into an exceptional situation where the clothing might be deductible.[6]
+[26] In addition, in the three years in issue a total of about $12,000 was originally claimed for clothes and the Minister allowed a total of about $6,000, half the amount of that claim. Based on the evidence before me, the Minister appears to have been more than reasonable.[7]
+[27] Grooming is also of inherently personal nature and analogous principles apply. Again I simply did not hear or see evidence that would allow a conclusion that there was reason to consider all or part of the disputed expenses to be outside of ordinary living expenses. To give one example, it was not suggested that there was a purchase of makeup that was specifically formulated to deal with studio lighting that would not be usable elsewhere.[8]
+[28] In the three years in issue, a total of about $7,291 was claimed for makeup and hair expenses and the Minister allowed about $3,610, half the amount of that claim. Again, on the evidence before me, the Minister appears to have been more than reasonable.[9]
+Research and Development Expenditures [29] The description “research and development” does not really convey what these expenses are. The expenditures in question are for attending movies, purchasing DVDs and purchasing books. Mr. Everett explained that he used these purchases in two ways in his profession.
+[30] First, he has not taken acting classes and he watches movies to see how other actors perform. At one point he purchased Michael Jackson videos in order to study dance moves, some of which he had to replicate on a show. He also has watched movies and read books, for example, in order to prepare for auditions for a role in a sequel to an existing movie.
+[31] These expenses are difficult to classify because, on the one hand, there would normally be a personal element but, on the other hand, such expenses can be a reasonable way to prepare for an audition or to help study and improve one’s craft as an actor. On balance, I accept that, in principle, such an expenditure can be a deductible expenditure.
+[32] The question then becomes one of the specific evidence and conclusions to be drawn from it. The difficulty is this. Some of the expenditures in this group are no doubt valid, but not only do we have only some evidence linking the expenditures claimed to the purposes just described, but it is clear that some expenditures are problematic based on the available evidence. Specifically, there are a number of movie theatre admissions claimed. Many are, based on the amount, for one person, but many others look like they are likely for two or more persons, based on the amount. I can understand in principle Mr. Everett wanting to see a movie for one of the two reasons mentioned, but in the absence of any evidence of why he is paying for any additional person, there is no reason to conclude that there is a business reason for the presence of the additional person.
+[33] As a result I am only persuaded that a portion of these expenditures is deductible.
+[34] The two Appellants claimed a total of $4,404 in the three years; the Minister only allowed $148 in this category, all of which was in respect of the 2011 assessment of the company. In the course of discussions between the parties prior to the appeals to this Court, the Appellants produced itemized listings of expenses.[10] In those listings the itemized claims for research and development totalled $3,499; in 2010 the listing was for more than the original claim.[11]
+[35] It is not clear what portion is properly deductible although some clearly is. Looking through the listings it seems reasonable to increase the amount allowed as follows:[12] for 2009 the amount allowed will be increased from $0 to $500, for 2010 the amount allowed will be increased from $0 to $300 and for 2011 the amount allowed will be increased by $452 from $148 to $600.
+Business Promotion [36] In 2009 the original claim for this category consisting of meals and entertainment was $2,129. However, subsequently Mr. Everett modified his claim[13] in two ways. First, Mr. Everett increased his claimed expenses to $2,815, but he then decreased his claim by applying the 50% rule contained in section 67.1 of the Act, thereby reducing the claim to $1,408.[14]
+[37] As a result, the claim is for $1,408 and the Minister allowed $1,006 resulting in an amount of $402 in dispute.
+[38] In 2010 the original claim was $1,378 in this category.
+[39] The revised claim for 2010 was $1,343.[15] However, the unreduced amount included the $832 in crew gifts conceded by the Respondent. The crew gifts are not subject to section 67.1 and we must add back the $416 reduction. This means the actual claim is $1,759.
+[40] In 2010 the Minister has allowed $347 and conceded $832 for a total of $1,179; consequently, the remaining amount in dispute in this category is $580.
+[41] This category of business promotion includes meal and entertainment expenses. The evidence suggests that the expenses are a mixture of business promotion and of meals consumed by Mr. Everett.[16]
+[42] The evidence, while supportive of the general notion that some of these meal expenses are deductible, provided little by way of specifics. The Minister allowed some of the expenses.
+[43] In the claimed amounts in 2009 there are amounts totalling over $400 for Jet Boat Tours, Nightmares and Marineland in Niagara Falls. The Appellant’s mother said that these expenses were incurred during a promotional tour on behalf of one of the two shows that Mr. Everett worked on in the years in question. There were no details provided and I have some difficulty in imagining why Mr. Everett, if he was doing a promotion for a show, would be paying for entry to these places. On the evidence I have, the reasonable inference is that these expenses were simply incurred to visit these places and are personal.
+[44] In both 2009 and 2010 there are listed expenses of about $100 and $135 for EB Games. Mr. Everett’s mother said that these expenses were incurred for him to have games in his trailer at the production site of the television shows. This is clearly a personal expenditure and is not part of the process of earning acting income.
+[45] In 2010 there are also four movie receipts listed in this category, ranging from about $14 to $44; they were not part of the research and development expense listing. They are personal in nature and not deductible.[17] In 2010 there is an expenditure of about $70 at GameStop; it is not clear what this is and I am not satisfied that it is a deductible expense.
+[46] In 2009, of the expenses totalling about $500 for Jet Boat Tours, Nightmares, Marineland and EB Games which are clearly personal, Mr. Everett claimed about $250.[18] Since the $250 amount of claimed expenses is clearly not deductible, that leaves about $150 of meal expenses in the category in dispute.[19] In the absence of specifics with respect to the meals claimed as promotion expenses, Mr. Everett has not demonstrated that I should allow all or any part of the remaining $150.
+[47] There will be no change in respect of this category of expenses in 2009.
+[48] Turning to 2010, of the remaining $580 in dispute, an amount of about $150 consisting of EB Games, Cineplex and GameStop is not deductible.[20] This leaves $430 of meal expenses in dispute. Again there are few specifics with respect to the meals claimed as promotion expenses; generally Mr. Everett has not demonstrated that I should allow all or any part of the remaining $430. There is one exception to this; because it is not clear to me that the dinner with Mr. Everett’s U.S. agent was allowed, I will allow the item, an expenditure of $198.[21] This is in addition to the $832 amount conceded by the Respondent.
+Automobile Expenses [49] Shenanigans claimed a net amount of $2,329 for automobile expenses,[22] consisting of $5,087 less a reimbursement of $2,758 received from the television production company.[23] The Minister’s assumption was that no more than $2,600 was spent on business automobile expenses. This amount was computed on the basis of an assumed total of 5,000 business kilometres during Shenanigans’ fiscal year multiplied by 52 cents per mile.[24]
+[50] Since the expense, in the Minister’s view, was about the same as the reimbursement, the expense was simply disallowed.[25]
+[51] In order to demonstrate that a higher amount should be allowed, Shenanigans would have had to demonstrate in a specific way that the actual business mileage was higher. The evidence on this was quite general and there was neither a logbook nor any other specific evidence to establish higher business mileage.
+[52] As a result, there is no reason to make any change in respect of this expense.
+Entertainment (2011) [53] Shenanigans originally claimed an expense of $2,618 under this heading. The Appellant subsequently revised its position and claimed a listed total of $704.[26] This expense appears to consist entirely of meals.
+[54] Given that the revised claim is less than the $810 allowed by the Minister, there is no reason to increase the expense.
+[55] It should be noted that a good part of the original expense as claimed on the return was reclassified and claimed under supplies. I am not satisfied that any of these reclassified items should be allowed.[27]
+Shareholder Benefits [56] The shareholder benefits can only be reduced to the extent that there are reductions in any of the disallowed amounts which were included in the shareholder benefits.
+[57] Above I concluded that Shenanigans was entitled to an additional deduction of $452 in research and development expenses and that will be reflected in an equivalent reduction in shareholder benefits assessed in Mr. Everett’s taxation year.[28]
+[58] Finally, Mr. Everett argued, if I understood correctly, that the shareholder benefits assessed on him should be eliminated by simply reducing the balance of the shareholder loan account in his favour by an offsetting amount. While Mr. Everett produced no evidence on this, the Respondent filed Exhibit R‑7, a document prepared by the auditor that, among other things, sets out the shareholder contributions.[29]
+[59] Shenanigans cannot simply eliminate the remaining shareholder benefits by adjusting the shareholder loan account retroactively so as to reduce by an equivalent amount the amount the company owes to Mr. Everett. Mr. Everett made contributions to the company in cash and in kind. The contributions in kind were in two forms: goods, such as clothes supplied to the company, and the payment of expenses on behalf of the company, such as meals.
+[60] Some of those contributions in kind are business expenditures while others are not and were disallowed to the company and treated as shareholder benefits. There was a conscious decision to treat those expenditures in kind as contributions to the company[30] and I do not see any basis for treating the contributions in kind of the disallowed expenses any differently from the contributions in kind of the allowed expenses. Mr. Everett is of course able to withdraw his contributions to the company in the future.[31]
+Conclusion [61] Accordingly, both appeals will be allowed to a limited extent without costs.
+[62] Mr. Everett’s appeal for the 2009, 2010 and 2011 taxation years will be allowed and referred back to the Minister for reconsideration and reassessment on the basis that:
+1. in the 2009 taxation year, Mr. Everett is entitled to an additional deduction of $500 in research and development expenses;
+2. in the 2010 taxation year, Mr. Everett is entitled to an additional deduction of $1,330, consisting of $300 in research and development expenses and $1,030 in business promotion expenses;[32]
+3. in the 2011 taxation year, Mr. Everett is entitled to a reduction of $452 in shareholder benefits assessed.
+[63] Shenanigans’ appeal for the taxation year ending on July 31, 2011 will be allowed and referred back to the Minister for reconsideration and reassessment on the basis that the Appellant is entitled to an additional deduction of $452 in research and development expenses.
+Signed at Ottawa, Canada, this 15th day of September 2017.
+“Gaston Jorré”
+Jorré J.
+CITATION:
+2017 TCC 180
+COURT FILE NOS.:
+2016-331(IT)I
+2016-329(IT)I
+STYLE OF CAUSE:
+SHENANIGANS MEDIA INC.,
+DYLAN PHILIP EVERETT,
+v. THE QUEEN
+PLACE OF HEARING:
+Hamilton, Ontario
+DATES OF HEARING:
+November 25, 2016 and June 23, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Gaston Jorré
+DATE OF JUDGMENT:
+September 15, 2017
+APPEARANCES:
+Agents for the Appellants:
+Sanjeev Jain (November 25, 2016)
+Linda Everett
+Counsel for the Respondent:
+Gregory B. King
+COUNSEL OF RECORD:
+For the Appellants:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Unfortunately, because no copy of the original returns or income and expense statements were filed in evidence the original amount claimed is taken from the Revenue Canada letters filed as Exhibits A-13 and A-14. At a later stage, but prior to the appeal to this Court, the Appellants’ agent at that time modified what the Appellants claimed, in some cases reducing the amounts of expenses claimed and in other cases increasing the amounts. One finds this in the letters on behalf of the Appellants that were filed as Exhibits A-9 and A-10; these letters contain listings of the expenses. I will refer in some cases, where it matters, to the modified claim but not in some of the other cases where it does not. The last column takes into account the Appellants’ change of position in Exhibits A‑9 and A-10 as well as concessions made at the hearing.
+The following is an example of a situation where I will not refer to Mr. Everett’s position as modified in Exhibit A-9. In 2009 the Appellant originally claimed an amount of $13,957 in travel expenses and the Minister allowed $4,261 and disallowed $9,696 of the expenses. In Exhibit A-9 Mr. Everett claims an amount of $4,960 for travel and appears to not include in the claim some of what had already been accepted (notably a trip to the Gemini Awards) but also appears to include some of what had already been accepted (notably an amount for Toronto hotels that may have already been accepted). It is impossible to tell what Mr. Everett’s position is as to the total amount of travel expenses that should be allowed as of the beginning of the hearing. However, since Mr. Everett abandoned the balance of the travel claim beyond what was allowed, it is not necessary for me to figure out what Mr. Everett’s position was at the start of the hearing.
+[2] Because of problems in the evidence, the numbers in this column should be viewed as an approximation. However, in categories where the differences matter to the outcome, the numbers are clear.
+[3] See Exhibits A-9 and A-10.
+[4] 2007 TCC 191, at the bottom of page 8 of the PDF version of the transcript of the reasons for judgment on CanLII, affirmed by the Federal Court of Appeal, 2009 FCA 314. Mr. Rupprecht bought suits, ties, shirts and accessories at an Ermengildo Zegna shop solely for his self-employment as a certified financial planner. The deduction of clothing was denied to Mr. Rupprecht.
+[5] See Exhibit A-9, page 15 of 23.
+[6] Although U.S. tax law has no application here, it is not uninteresting to note that it appears to take a similar approach; for example, see pages 7 to 12 of Hamper v. C.I.R., docket No. 22375-09S, February 24, 2011.
+[7] This is an example of a category where, in Exhibits A-9 and A-10, the Appellants varied the claimed expenses; the claim was increased in two years and decreased in one year. The net result of the position in Exhibits A-9 and A-10 is to increase the net claim for the three years combined by more than $1,500. Given my conclusions on this expense, the difference in claims in this category does not matter.
+[8] There was evidence of the importance of skin complexion and of certain skin issues of Mr. Everett. However, such skin issues would also be quite important to any teenager and I am not satisfied that there is anything unique to make these expenses something other than ordinary living expenses.
+[9] Indeed, if there were unique expenses in the category that were not brought out in evidence, the amounts allowed would cover quite a bit of such expenditures. This is a category where the revised amount claimed at the appeal stage increased. Within this category in 2011 is a group of expenses which started out being claimed as part of meals and entertainment and were shifted into this category — see Exhibit A‑10; specifically they are items 1B to 9B on page 9 of 11 in Exhibit A-10. I will deal with those expenses later; see paragraph 55 below as well as footnote 27.
+[10] See Exhibits A-9 and A-10.
+[11] The listings totalled $1,229 in 2009, $664 in 2010 and $1,606 in 2011.
+[12] For the future the Appellants may want to remember that when one is making a claim for what is normally a personal expenditure it is highly desirable to note at the time of the expenditure in a precise way the nature and business reason for the expenditure so that one can subsequently justify it. Thus, for each movie, DVD or book it would be useful to record just how the expense relates to Mr. Everett’s development as an actor.
+[13] See Exhibit A-9.
+[14] The original amount claimed in 2010 under this heading is fairly close to 50% of the listed expenses in Exhibit A‑9. The reasonable inference is that the original filing applied section 67.1 in 2010, but the Appellant did not do so in filing his 2009 tax return. However, there is one more twist to this item in 2010 that will be discussed below.
+[15] See Exhibit A-9. The revised total claimed was $2,686 before applying the 50% rule in section 67.1 of the Act, resulting in a claim of $1,343.
+[16] Some of the restaurant bills listed appear, based on their amount, to be for one person, others, again based on the quantum, appear to be for more than one person. There are also a couple of grocery bills in the two years which are likely for the apartment leased by Mr. Everett in Toronto.
+[17] There is also no evidence specifically showing them to be business entertainment; indeed the lowest Cineplex expense in this category is $13.91 which is likely to be admission for one person — item 38 on page 18 of 23 in Exhibit A-9.
+[18] As a result of applying the 50% rule in subsection 67.1.
+[19] Namely, $1,408 claimed, less the $250 clearly not deductible less the $1,006 allowed by the Minister resulting in a balance of $150.
+[20] These expenses are listed items 34 to 38 and 40 on pages 18 and 19 of 23 in Exhibit A-9; they total about $300 before the 50% reduction pursuant to section 67.1.
+[21] See item 28 on page 18 of 23 in Exhibit A-9.
+[22] According to Exhibit A-16.
+[23] The Minister has somewhat different figures showing gross expenses of $5,512 (taken from Shenanigans’ general ledger) for a net claim of $2,753 after deducting the reimbursement from the production company.
+[24] See page 2 of Exhibit R-6.
+[25] In pure theory, the slightly greater amount of the reimbursement as opposed to the expense should be added to income; however, the Minister ignored the small difference. Given that the Minister’s calculation is an estimate, it seems reasonable to ignore the difference.
+[26] $704 is the amount after applying the 50% rule in section 67.1. The gross amount before applying the rule was $1,408. See pages 2, 3 and 5 of 11 in Exhibit A-10.
+[27] See pages 132 to 136 of the transcript of the first day of the hearing and items 1B to 9B on page 9 of 11 in Exhibit A-10. Much of that amount is for Xbox games and expenses at a Disney store opening where, according to the note on the side of the item, Mr. Everett made a guest appearance. The Xbox, computer games and DVDs are personal. There is no explanation of what the Disney store purchases are and therefore nothing in the evidence that would show why the amounts should be deducted.
+Finally, there is one item that was not referred to in testimony but that might potentially give rise to CCA although no claim for CCA was made; there is a $600 expenditure listed for a camera and accessories “to be used on set for promo shots, etc.” that was claimed as a current expenditure. As a result there is little basis on which to make a determination as to its business use.
+However, if the camera and accessories are a business expense, they would be a capital expenditure that would give rise to CCA, probably Class 8(i) that allows the possibility of claiming up to 20% per year on a declining balance basis. Given that there was no claim for CCA and given that it would clearly be a capital expenditure if it is a business expense, I will limit myself to finding that it does not constitute a current expenditure deductible in the company’s 2011 taxation year. There is nothing to prevent the company from taking the position in future taxation years that the amount is a proper business expenditure and claiming the CCA; if necessary the facts can be more fully explored then.
+[28] It is not self-evident in which year that reduction should go, but given that the shareholder benefits listed in Exhibit R-7 show far more research and development expenses claimed by Shenanigans were incurred in 2011 than in 2010, it makes it more likely that the reduction should be attributed to 2011 rather than 2010.
+[29] It is important to note that the document shows the shareholder appropriations totalling $21,151, other than the $26,809 relating to the car provided to Mr. Everett’s mother, as determined by the auditor for the initial assessment. At the appeal stage those appropriations were reduced by a little less than $5,000. This judgment further reduces the shareholder benefits by $452. The $26,809 appropriation relating to the car was also reversed at the objection stage.
+[30] Indeed, the great majority of contributions in kind were put into the shareholder loan account on July 31, 2011, the company’s year‑end.
+[31] Except to the extent that he may have already done so.
+[32] Namely, the business promotion expenses consisting of $832 in crew gifts conceded by the Respondent plus the additional $198 amount set out above.

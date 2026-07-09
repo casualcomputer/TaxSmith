@@ -1,0 +1,282 @@
+---
+title: "Doncaster v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/109837/index.do"
+last_modified: "2015-05-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 TCC 127"
+citation2: ""
+neutral_citation: "2015 TCC 127"
+decision_date: "2015-05-21"
+language: "en"
+item_id: "109837"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2821
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:21:57.905000+00:00"
+cases_cited_count: 2
+cases_citing_count: 6
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a6f264b2fceae5c7f106eab39b249d16d0365ba3c5dbf4e54aca7863d7db2b66"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Doncaster v. The Queen
+
+- Citation: 2015 TCC 127
+- Decision date: 2015-05-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2821, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Doncaster v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-05-21
+Neutral citation
+2015 TCC 127
+File numbers
+2008-2496(GST)I
+Judges and Taxing Officers
+Johanne D’Auray
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2008-2496(GST)I
+BETWEEN:
+RALPH DONCASTER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on August 23, 2012 and June 4, 5 and 7, 2013, at Halifax, Nova Scotia and argued by the respondent on August 11, 2014 by way of written submissions.
+Before: The Honourable Justice Johanne D’Auray
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Tokunbo C. Omisade
+JUDGMENT
+The appeal of the assessment dated September 12, 2006 for the periods between January 1, 1999 and June 6, 2005, made pursuant to section 323 of the Excise Tax Act, is dismissed, with costs to the respondent pursuant to the Tariff under the informal procedure rules (GST).
+Signed at Ottawa, Canada, this 21st day of May 2015.
+“Johanne D’Auray”
+D’Auray J.
+Citation: 2015 TCC 127
+Date: 20150521
+Docket: 2008-2496(GST)I
+BETWEEN:
+RALPH DONCASTER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+D’Auray J.
+Overview [1] At issue in this appeal is whether, as a director of Doncaster Consulting Inc. (“DCI”), the appellant, Mr. Doncaster, should be held jointly and severally liable with DCI to pay an amount of $93,550.67, being the amount of net tax that DCI failed to remit during the periods between January 1, 1999 and June 6, 2005. By Notice of Assessment dated September 12, 2006, the Minister of National Revenue (the “Minister”) assessed the appellant pursuant to section 323 of the Excise Tax Act (the “ETA”).
+[2] On December 10, 2009, the appeal was heard by my colleague, Justice Margeson.
+[3] On April 8, 2010, Justice Margeson dismissed the appeal.
+[4] The appellant filed an appeal before the Federal Court of Appeal on May 7, 2010.
+[5] The Federal Court of Appeal issued a judgment on February 3, 2012.
+[6] From the reasons for judgment of the Federal Court of Appeal, I understand that the appellant, on being advised at trial by Justice Margeson that he could have served a subpoena on the trustee in bankruptcy, Mr. Wener from KPMG (the “trustee”), without paying anything other than his travel costs, requested an adjournment in order to serve a subpoena on the trustee, which request was denied by Justice Margeson.
+[7] Before the Federal Court of Appeal, the appellant explained that he had not called the trustee at the trial level since the trustee had written him a letter suggesting that he would not honour the subpoena unless his professional fees for preparing for and attending the trial were paid by the appellant, in addition to his travelling costs.
+[8] The appellant was of the view that, if a subpoena duces tecum was served on the trustee, Bell Canada invoices would be produced that would prove that the input tax credits (“ITCs”) would offset the GST to be paid to the Receiver General. DCI’s net taxes would be minimal if not nil for each period under appeal. Accordingly, the appellant, as a director of DCI, could not be found liable under section 323 of the ETA.
+[9] The appellant stated that he no longer had any documents relating to DCI since he and the CRA gave the documents to the trustee. Neither the appellant nor the CRA made photocopies of the documents given to the trustee.
+[10] On February 3, 2012, the Federal Court of Appeal ordered a new trial, allowing the appellant to call the trustee as a witness.
+[11] On August 23, 2012, the new trial began. Mr. Chris Brown attended the hearing on behalf of KPMG, since the trustee, Mr. Wener, had retired. In his testimony, Mr. Brown stated that he had never been involved in DCI’s bankruptcy. In addition, he stated that it was not clear from the subpoena which documents KPMG was supposed to look for. That said, he stated that after a search in the Ottawa and the Hamilton offices of KPMG no documents such as statements of bank deposits or invoices were found.
+[12] After Mr. Brown’s testimony, I adjourned the hearing and instructed Mr. Brown and KPMG to perform a thorough search in order to retrieve the documents relating to DCI. Before adjourning the hearing, since Bell Canada was DCI’s main supplier, I also advised the appellant that he could establish DCI’s ITCs by obtaining copies of the invoices from Bell Canada. I told him as well that he could serve a representative of Bell Canada with a subpoena duces tecum.
+[13] On October 5, 2012, Mr. Brad Newton, Vice President at KPMG, sent a letter to this Court indicating that, after a thorough search, other than some copies of GST returns, a copy of the Certificate of Non-Attendance of the appellant at his examination, and reference to a meeting, no corporate records relating to DCI were found in the archived or current files of either KPMG or the trustee.
+[14] As scheduled by an order dated December 7, 2012, the hearing continued on June 4, 5 and 7, 2013. The appellant did not call a Bell Canada representative as a witness. The appellant stated that he did not have enough funds to cover the travelling expenses for such a witness. I advised him that I was ready to proceed by way of conference call to avoid costs.
+[15] After hearing all the witnesses, I adjourned the trial to give the appellant another opportunity to serve a subpoena duces tecum on a Bell Canada representative.
+[16] Since I did not hear from the appellant, on September 23, 2013 I held a conference call with the parties. In order to assist the appellant in organizing a conference call at which a representative from Bell would attend as a witness, I issued an order dated October 21, 2013 adjourning the appeal and giving the appellant until November 4, 2013 to serve a subpoena duces tecum on a Bell Canada representative.
+[17] By November 4, 2013, the appellant had not served a subpoena duces tecum on a Bell Canada representative. On December 6, 2013, the appellant wrote to this Court, stating that he had misplaced the subpoena. However, in his letter, the appellant said that he would ask this Court to issue another subpoena within the following week. The appellant never served such subpoena.
+[18] After some attempts to get in touch with the appellant, on May 14, 2014, by way of an order, I declared the evidence in the appeal closed. I also ordered the parties to file written submissions. At that time, more than 11 months had elapsed since I adjourned the hearing of the appeal to allow the appellant to serve a subpoena on a Bell Canada representative in order to obtain copies of the invoices or a computer printout establishing the GST paid by DCI.
+[19] In accordance with my order dated May 14, 2014, counsel for the respondent filed his written submissions on August 11, 2014. The appellant did not file any written submissions nor did he reply to the written submissions filed by the respondent.
+Evidence [20] On September 30, 1992, DCI was incorporated under the laws of Ontario.
+[21] At the time of incorporation, the appellant was the sole director, shareholder and president of DCI.
+[22] Initially, DCI was in the business of providing computer consulting services and in the computer hardware and software sales. In 1998, DCI started to purchase wholesale services (loops) from BCE Nexxia, an affiliate of Bell Canada. In 2000-2001, retail internet services became a major part of DCI’s business as DCI was selling internet services to customers in Quebec and Ontario.
+[23] In 1998, the appellant married Ms. Jennifer Field and gave her 50% of the shares of DCI. He explained that he gave her the shares in part because she was his spouse and she was getting involved in DCI, but also for tax purposes. By giving Ms. Field half of his shares, they could both benefit from the capital gains tax exemption if they decided to dispose of their shares in DCI. At the time of the trial, the appellant and Ms. Field were separated.
+[24] The appellant stated that Ms. Field took care of the office-related duties, such as customer service, accounting and human resources, for DCI.
+[25] At trial, Ms. Field testified that she had four children from 1998 to 2005 and did not have as much time to devote to the affairs of DCI. She admitted that a person was hired on a part-time basis to take care of the children while she was working for DCI and that she took accounting training to improve her accounting skills. It was clear from her testimony that she did not want to be seen as an active member of DCI. Her answer to most of the questions was that she did not remember.
+[26] At the end of 2002, the appellant consulted a tax lawyer to restructure the corporation. It was decided that the appellant and Ms. Field would sell half of their shares in 2002 and the other half in 2003 to a new incorporated entity. To that end, the appellant incorporated 6042147 Canada Inc. operating under the name of I-stop. According to the appellant, this transaction was done to avoid or reduce the alternative minimum tax. After January 1, 2003, I-stop was DCI’s sole shareholder. All the shares in I-stop were held by a holding company, the shares of which were held in trust for the appellant’s children.
+[27] Consequently, DCI became a holding corporation and I-stop became the operating corporation. However, the contracts with Bell Canada remained with DCI, which continued to purchase wholesale internet services from Bell Canada. The appellant stated that, from 2003 onwards, DCI’s GST payable would have been offset by input tax credits because they would have flowed through to I‑stop.
+[28] The appellant stated that, in 2002, upon reading the Ontario Business Corporations Act (“OBCA”), he determined that under the OBCA a corporation could operate without a director when it is controlled under a unanimous shareholder resolution. He probably meant a unanimous shareholder agreement.
+[29] Accordingly, by way of email dated December 3, 2002 to himself and to Ms. Field, the appellant resigned as director of DCI. He stated the following in his email:
+Effective immediately, I resign as the sole director of Doncaster Consulting Inc.
+[30] In her testimony, Ms. Field said that she did not recall receiving the December 3, 2002 email. However, she admitted that around that time she would have been using the email address that the December 3, 2002 email appears to have been sent to and would have been checking that email account.
+[31] On May 6, 2003, Mr. Greg Bright, a trust account examiner from the Canada Revenue Agency (the “CRA”) called the appellant with respect to DCI’s outstanding GST returns. Mr. Bright wanted to conduct a trust account examination with respect to DCI. The appellant refused to cooperate with Mr. Bright.
+[32] By that time, DCI had filed three GST returns and had nine outstanding GST returns for the periods between December 1, 1999 and December 31, 2002.
+[33] Mr. Bright testified that the purpose of conducting a trust account examination is to notionally assess a registrant when GST returns have not been filed with the CRA. This way of proceeding allows the CRA to assess the non‑filer and to take collection action. It is also a way to compel compliance and get the registrant to file its returns.
+[34] The appellant stated that in 2004 he and his family moved to Elmsdale, Nova Scotia. However, the evidence showed that he still had his house in Stittsville, Ontario, in October 2005. The appellant never advised the CRA that his mailing address had changed.
+[35] BCE Nexxia was rolled into Bell Canada. The appellant was of the view that Bell Canada’s fees should have been less than BCE Nexxia’s for wholesale internet services. A dispute arose between Bell Canada and DCI during the years 2004 and 2005.
+[36] In late 2004, the appellant started to have discussions with other Information Technology (“IT”) service providers to see if there were opportunities for him to sell I-stop’s customer list. To that end, the appellant hired Mr. Jeff Hurlle from Accrual Accounting to act as broker for selling I-stop and to get some business advice on how to deal with Bell Canada with respect to the billings. Mr. Hurlle had previously run a retail internet services business and had also had issues with Bell Canada’s billing.
+[37] Mr. Hurlle advised the appellant that he had to get the books of the corporations in order. For these reasons, the appellant hired Ms. Joanne Plunkett, also from Accrual Accounting. Ms. Plunkett was a chartered accountant. The appellant testified that he told Ms. Plunkett not only to get the billing issue with Bell Canada resolved but also to catch up on the GST returns.
+[38] The appellant presented a series of emails between Mr. Hurlle, Ms. Plunkett, Ms. Field, and the appellant. However, the emails show that the appellant’s priority was to complete the financial statements and to resolve the Bell Canada billing issues in order for the appellant to sell his business. Mr. Hurlle and Ms. Plunkett were not called as witnesses since the appellant was not able to locate them.
+[39] On May 13, 2005, the appellant signed a Statement of Affairs with respect to a proposal made under the Bankruptcy and Insolvency Act to DCI’s creditors. He had not listed the CRA as a creditor.
+[40] On May 31, 2005, as part of DCI’s legal proceedings against Bell Canada, the appellant swore an affidavit filed before the Ontario Superior Court of Justice in which he identified himself as the “controlling mind” of DCI.
+[41] DCI was assigned into bankruptcy effective June 6, 2005, the day that the creditors rejected DCI’s proposal.
+[42] From January 1, 1999 to June 6, 2005, DCI had filed the seven quarterly GST returns for the periods ending:
+June 30, 1999
+September 30, 1999
+December 31, 1999
+June 30, 2000
+September 30, 2000
+December 31, 2000
+June 30, 2001
+[43] For the same time frame, DCI had not filed the nineteen quarterly GST returns for the periods ending:
+March 31, 1999
+March 31, 2000
+March 31, 2001
+September 30, 2001
+December 31, 2001
+March 31, 2002
+June 30, 2002
+September 30, 2002
+December 31, 2002
+March 31, 2003
+June 30, 2003
+September 30, 2003
+December 31, 2003
+March 31, 2004
+June 30, 2004
+September 30, 2004
+December 31, 2004
+March 31, 2005
+June 30, 2005
+[44] On August 25, 2005, the Minister filed with the trustee a proof of claim for the amount of $34,321.95.
+[45] In October 2005, Mr. Chartrand, who was a trust account examiner for the CRA, attended at the appellant’s residence in Stittsville, Ontario and took a box of documents, which he gave to the trustee who already had one box of records. According to Mr. Chartrand, once a corporation has declared bankruptcy all the corporation’s documents have to be handed over to the trustee.
+[46] Mr. Chartrand explained that, as a trust account examiner, his duties are not to perform an audit. He acknowledged that one of the boxes contained some invoices, but that it was not within the scope of his review to allow input tax credits since he did not know if DCI had paid its suppliers.
+[47] Mr. Chartrand stated that he did not have any documents for the outstanding returns except for five periods. For these five periods the bank statements were available. In order to assist the trustee, he determined DCI’s sales by analyzing the bank deposits for each period. To determine the GST, he then divided the total amounts of the bank deposits for each period by 115% and then multiplied by 7%. The trustee took the numbers determined by Mr. Chartrand to file the five GST returns with the CRA. The trustee did not claim any ITCs on behalf of DCI. The net tax owed reported by the trustee for the five periods was as follows:
+Period
+Net tax owed
+March 31, 2001
+$12,616.66
+March 31, 2002
+$10,752.77
+June 30, 2002
+$14,985.60
+September 30, 2002
+$13,350.54
+December 31, 2002
+$10,528.21
+$62,233.78
+[48] Mr. Chartrand recommended that the collection officer assess all the other periods of DCI at nil, since there were no documents available for the other periods. However, Mr. Chartrand stated that his recommendation does not have to be followed by the collection officer.
+[49] The collection officer, Mr. Lynch, in fact did not follow Mr. Chartrand’s recommendation. On March 22, 2006, Mr. Lynch filed with the trustee, on behalf of the CRA as an unsecured creditor, an amended proof of claim for an amount of $93,550.67, including net tax of $72,557.90, interest of $6,317.94 and penalties of $14,674.83.
+[50] On September 12, 2006, a Notice of Assessment was issued against the appellant for an amount of $93,550.67 pursuant to section 323 of the ETA.
+[51] In cases where registrants have failed to file GST returns, Mr. Lynch explained, the CRA issues notional net tax assessments for collection and compliance purposes. These assessments are computer-generated according to the type of industry involved. The notional net tax assessment takes into account input tax credits.
+[52] The third party liability assessment under section 323 of the ETA issued against the appellant was sent to the address that the CRA had in its system for the appellant, namely 27 Brightside Avenue, Stittsville, Ontario.
+[53] Mr. Lynch stated that he did not recall having being advised that the appellant had moved to Nova Scotia. The appellant stated that at the time of the assessment in 2006, the CRA knew that he had moved to Nova Scotia. The appellant stated that he became aware of the assessment against him only in 2007, when he was advised by the Bank of Nova Scotia in Elmsdale, that it had received a requirement to pay from the CRA.
+[54] Dr. William Harvey, the appellant’s family physician, testified at trial that he diagnosed the appellant as having attention deficit hyperactivity disorder (“ADHD”) on August 18, 2011. Dr. Harvey said that ADHD is not a disorder that comes on later in life; it is one that the appellant would have had since childhood.
+[55] The appellant testified that he also suffers from Asperger Syndrome. However, in a letter written to Dr. William Birnie, dated March 8, 2012, Dr. Harvey states that he does not feel qualified to evaluate whether the appellant has Asperger Syndrome.
+[56] At the end of the trial, the appellant advised the Court and the respondent that he would prefer to argue his appeal by way of written submissions. This is why, by an order dated May 14, 2004, I ordered the parties to file their arguments by way of written submissions. The appellant did not file any written submissions. I read the transcript carefully, and from the transcript I determined what the questions in issue were from the appellant’s point of view. Like many self-represented litigants, the appellant was often arguing his appeal while examining in chief or cross-examining the witnesses, I shall therefore put forward the main arguments that the appellant submitted during the evidence.
+Issues to be decided A. Did the Minister err by sending the Notice of Assessment to the appellant’s address in Stittsville, Ontario instead of Elmsdale, Nova Scotia?
+B. Did the Minister meet the requirements under paragraph 323(2)(c) of the ETA?
+C. Was the appellant a director of DCI for the periods between January 1, 1999 and June 6, 2005?
+D. If the appellant was a director, did he meet the test under subsection 323(3) of the ETA (the due diligence defence)?
+E. Did the Minister correctly assess the appellant?
+A. Did the Minister err by sending the Notice of Assessment to the appellant’s address in Stittsville, Ontario instead of Elmsdale, Nova Scotia? [57] The appellant stated that the CRA knew that he had moved to Elmsdale, Nova Scotia at the time of the assessment in September 2006.
+[58] The respondent stated that the appellant did not advise the CRA that his mailing address had changed. The CRA sent the Notice of Assessment to the address that they had in their system for the appellant, namely the address in Stittsville, Ontario.
+[59] The respondent is correct in stating that it was the responsibility of the appellant to advise the CRA of his change of address. The appellant stated that he had a letter proving that the CRA knew of his change of address, but the letter was not filed in evidence. Therefore, there is no merit to the appellant’s argument.
+B. Did the Minister meet the requirements under paragraph 323(2)(c) of the ETA? [60] Under subsection 323(1) of the ETA, a director of a corporation may be held liable for the corporation’s failure to remit its net tax. Subsection 323(1) of the ETA reads as follows:
+If a corporation fails to remit an amount of net tax as required under subsection 228(2) or (2.3) or to pay an amount as required under section 230.1 that was paid to, or was applied to the liability of, the corporation as a net tax refund, the directors of the corporation at the time the corporation was required to remit or pay, as the case may be, the amount are jointly and severally, or solidarily, liable, together with the corporation, to pay the amount and any interest on, or penalties relating to, the amount.
+[61] However, under paragraph 323(2)(c) of the ETA, a director of a corporation will not be held liable if the Minister has not filed a claim for the amount of the corporation’s liability within six months after the date of the assignment or the bankruptcy order. The Minister had to prove that a claim was made pursuant to the Bankruptcy and Insolvency Act. Paragraph 323(2)(c) reads as follows:
+(c) the corporation has made an assignment or a bankruptcy order has been made against it under the Bankruptcy and Insolvency Act and a claim for the amount of the corporation’s liability referred to in subsection (1) has been proved within six months after the date of the assignment or bankruptcy order.
+[62] The evidence at trial showed that DCI made an assignment in bankruptcy on June 6, 2005, and that the Minister filed an initial claim of $34,321.95 with the trustee in bankruptcy, KPMG, within the six-month limitation period, namely on August 25, 2005, and that an amended proof of claim was filed on March 22, 2006.
+[63] Therefore, the requirements under paragraph 323(2)(c) of the ETA were met by the Minister.
+C. Was the appellant a director of DCI for the periods between January 1, 1999 and June 6, 2005? [64] Under subsection 323(5) of the ETA, a person will not be held liable for the net tax if that person is able to prove that he or she ceased to be a director at least two years before the assessment was made by the Minister. Subsection 323(5) reads as follows:
+(5) An assessment under subsection (4) of any amount payable by a person who is a director of a corporation shall not be made more than two years after the person last ceased to be a director of the corporation.
+Appellant’s Position [65] The appellant stated that he resigned as a director of DCI on December 3, 2002 by an email to himself and to Ms. Field, which was more than two years before the assessment was made by the Minister. Ms. Field testified that she did not recall this email, although she was checking that email account at the time.
+[66] The appellant submitted that DCI could operate without any directors under the OBCA since a unanimous shareholder agreement was in existence.
+Respondent’s Position [67] The appellant’s resignation was not in compliance with the provisions of the OBCA. The appellant, as the sole director of DCI, could only have resigned as a director when a successor was elected or appointed. No successor was elected or appointed.
+[68] If all the directors have resigned without a replacement, then any person who manages or supervises the management of the business and affairs of the corporation shall be deemed to be a director. The appellant continued to manage the affairs of DCI, and after his purported resignation in 2002 he identified himself in 2005 as an “officer” and the “controlling mind” of DCI.
+Analysis [69] I accept the evidence of the appellant that he sent an email to himself and to Ms. Field stating that he resigned as a director of DCI on December 3, 2002. However, for the reasons set out below, that email is not sufficient to effect his resignation.
+[70] Subsection 115(2) of the OBCA requires that a corporation shall have a board of directors which shall consist of:
+(a) In the case of a corporation that is not an offering corporation, at least one individual . . .
+[71] Subsection 115(1) of the OBCA provides that subject to any unanimous shareholder agreement, the director shall manage or supervise the management of the business and affairs of a corporation. This provision does not state that a corporation could operate without a director; it states that the management of the corporation could be handled by someone else than a director if there is a unanimous shareholder agreement. In any event, the appellant did not file in evidence a shareholder agreement.
+[72] Subsection 119(2) of the OBCA requires that a successor be elected or appointed before a sole director can resign. Subsection 119(2) of the OBCA reads as follows:
+Until the first meeting of shareholders, the resignation of a director named in the articles shall not be effective unless at the time the resignation is to become effective a successor has been elected or appointed.
+[73] In Zwierschke v MNR, 1992 DTC 1003, Justice Mogan held that since no successor had been elected or appointed to replace Mr. Zwierschke as director, his resignation as director of the company was not effective. Justice Mogan stated the following in his reasons at page 1005:
+. . . Because a director's resignation under paragraph 121(1)(a) of the Ontario Business Corporations Act is clearly subject to the election or appointment of a successor under subsection 119(2), I conclude that the appellant's purported resignation as a director of the Company on March 11, 1986 was not effective.
+[74] The same reasoning applies to this appeal. The appellant’s resignation is not effective since no successor was elected or appointed to replace the appellant as director.
+[75] Therefore, contrary to the submissions of the appellant, there is nothing in the OBCA that allows a director to resign without a replacement. Accordingly, this argument by the appellant must fail.
+[76] In any event, subsection 115(4) of the OBCA deems to be a director any person who manages or supervises the management of the business and affairs of a corporation.
+[77] In this appeal, the appellant was deemed to be a de facto director of DCI pursuant to subsection 115(4) of the OBCA. On May 13, 2005, the appellant signed the Statement of Affairs in the matter of the proposal by DCI. The respondent also filed a certified copy of an affidavit dated May 31, 2005 sworn by the appellant before the Ontario Superior Court of Justice in DCI’s bankruptcy proceedings, and in which the appellant states that he is an “officer” and the “controlling mind” of DCI.
+[78] Therefore, I am of the view that the appellant never ceased to be the sole director of DCI during the periods under appeal.
+D. If the appellant was a director, did he meet the requirement under subsection 323(3) of the ETA (the due diligence defence)? [79] Under subsection 323(3), a director will not be held liable for the failure of a corporation to remit the net tax where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+[80] From the comments that the appellant made at trial, he wanted his medical conditions to be taken into account in assessing the availability of the due diligence defence. He also testified that he exercised due diligence by hiring Accrual Accounting in late 2004 or early 2005 not only to help him and Ms. Field with the Bell Canada invoices and financial statements, but also to bring the GST returns up to date.
+[81] The respondent submits that the appellant was grossly negligent as a director. Because the appellant was aware of the remittance problems but failed to take any steps to ensure that DCI met its obligations, the respondent submits that the appellant’s actions did not meet the objective standard for the due diligence defence under subsection 323(3).
+Analysis [82] The appellant is an intelligent person. He has a computer science degree and has worked in the IT industry for many years.
+[83] The appellant asks me to take into account his medical conditions, which he says contributed to the failure of DCI to file its GST returns and to pay its net tax. It is important to note that there was no evidence that the appellant has Asperger Syndrome. Dr. Harvey, in his letter dated March 8, 2012, stated that he did not feel qualified to evaluate whether the appellant has Asperger Syndrome. However, Dr. Harvey stated that the appellant does have ADHD, but that it can be treated effectively. However, it does require ongoing treatment.
+[84] While I am sympathetic to the problems caused his medical conditions, I cannot ignore the fact that the appellant was aware for some time that DCI’s GST returns were not being filed and that net tax was not being remitted to the Receiver General.
+[85] In addition, I cannot ignore the fact that, for tax purposes, the appellant consulted and hired a tax lawyer in 2002 to restructure DCI to ensure that both he and Ms. Field could benefit from the capital gains exemption if they were to dispose of their shares in DCI. In 2003, the corporate structure was also modified to reduce the alternative minimum tax. In 2004, the appellant also started discussions with other IT providers to see if there were opportunities for him to sell I-stop. To that end, he hired Accrual Accounting to act as a broker to assist him in selling his business. The appellant’s disorders did not prevent him from seeking assistance when needed. I do not see any reason why the appellant could have not done the same with respect to filing DCI’s GST returns.
+[86] In Attia v The Queen, 2014 TCC 46, at issue was whether a director suffering from major depression was entitled to avail himself of the due diligence defence in subsection 323(3). Justice Bédard held that the defence applied because the director had taken a concrete and positive step in appointing a competent manager to replace him. Moreover, prior to the director’s depression, the corporation had always met its tax obligations in a timely manner. Justice Bédard explained:
+15 As noted by Judge Bowman (as he then was) in Cloutier v. M.N.R., to determine whether the due diligence defence applies, one must ask first and foremost what more a reasonably prudent person placed in comparable circumstances could have done to try to prevent the corporation's failures to remit GST. In this case, I believe that the appellant has shown a sufficient degree of diligence in delegating his duties to a competent manager, whose competence and honesty he had no reason to doubt, and I believe that a reasonable person placed in comparable circumstances would have done nothing more.
+[87] In my view, Attia is distinguishable from the facts of this appeal. Unlike Mr. Attia, the appellant did not take any positive steps to prevent the failure of the corporation to pay its net tax.
+[88] The appellant stated that in 2004 he hired Ms. Plunkett from Accrual Accounting. From the emails exchanged by Ms. Plunkett, the appellant and Ms. Field that were filed in evidence, it is clear that Ms. Plunkett’s priority was to prepare the financial statements and to resolve the billing issue with Bell Canada.
+[89] The appellant stated that he also hired Ms. Plunkett to catch up on and file the GST returns, although during his testimony, the appellant said that he told Ms. Plunkett that the filing of the GST returns was not a priority. Ms. Plunkett did not file any GST returns on behalf of DCI. By June 6, 2005, DCI’s GST returns were still outstanding.
+[90] From 1999 to 2005, out of a total of 26 quarterly GST returns that should have been filed, DCI failed to file 19.
+[91] What emerged from the evidence was that the appellant made a choice to delay the filing of the GST returns because he was convinced that DCI did not owe net tax or, if it did, that it was as a minimal amount. In addition, the appellant was of the view that he could not be found liable for the net tax owing since he had effectively resigned as a director of DCI.
+[92] I am therefore of the view that the appellant has not demonstrated that he was duly diligent, that is, that he exercised the degree of care, diligence and skill to prevent the failure of DCI to remit GST owing that a reasonably prudent person would have exercised in comparable circumstances.
+E. Did the Minister correctly assess the appellant? [93] The appellant was assessed under section 323 of the ETA for an amount of $93,550.67.
+[94] Since DCI had failed to file most of its GST returns and the CRA did not have any documents for DCI, the CRA prepared GST returns for DCI. I understood from the testimony of the officers of the CRA that the GST returns prepared by the CRA were based on among other things, the type of industry involved, the size of the business, and the previous returns filed by the registrant. The CRA computer system determines a net tax amount for a given period, and input tax credits are taken into account in the computer-generated net tax amount. Accordingly, notional assessments were issued for the periods for which DCI had not filed any returns. In this appeal the computer-generated net tax amount was $1,740.80 for some periods and $1,312.50 for other periods.
+[95] However, for five periods — one period in 2001 and four periods in 2002 — Mr. Chartrand, a trust account examiner for the CRA, had access to DCI’s documents. Mr. Chartrand, in order to assist the trustee, calculated the GST amount that DCI had to remit from the deposits shown in DCI’s bank statements. Neither the trustee nor Mr. Chartrand took into account ITCs for DCI.
+[96] The net tax amounts for the five periods were $16,616.66 for the period ending on March 31, 2001, $10,752.77 for the period ending on March 31, 2002, $14,985.60 for the period ending on June 30, 2002, $13,350.54 for the period ending September 30, 2002 and $10,528,21 for the period ending December 31, 2002. It must be remembered, however, that Mr. Chartrand had recommended that all the other periods be assessed at zero since he did not have any documentation for those periods.
+[97] The collection officer, Mr. Lynch, did not follow Mr. Chartrand’s recommendation to assess all the other periods at zero. Instead, he used the computer-generated amount to assess DCI’s net tax for all the other periods. In my view, Mr. Lynch was correct in so doing, if the CRA were to assess a registrant at zero because the registrant did not have any documents, what would be the purpose of subsection 169(4) of the ETA? The net tax amounts filed by the trustee remained the same.
+[98] At trial, I advised the appellant on many occasions that he had to establish the ITCs for DCI in order to reduce its net tax, more particularly, with respect to the GST returns filed by the trustee, since no input tax credits had been taken into account. I gave the appellant many opportunities to do so.
+[99] Unfortunately, the appellant did not serve a subpoena to compel Bell Canada to provide copies of the invoices or any documents that could have assisted the appellant in establishing DCI’s ITCs. I wish the appellant had made an effort to see what documents he could obtain from Bell to prove that company’s fee structure, so that I could have justified allowing some ITCs, but he did not. Therefore, I do not have any evidence to support ITC’s. I cannot allow a random number as ITC for those periods. The appellant is a non-filer. He refused to cooperate with the CRA when Mr. Bright contacted him in May 2003. He did not file any written submission; he must answer for his own turpitude.
+Costs [100] The respondent asked that I award costs pursuant to subsection 9(2) of the Tax Court of Canada Rules of Procedure Respecting the Excise Tax Act (Informal Procedure). Subsection 9(2) reads as follows:
+The Court may award costs not exceeding the amounts listed in section 10 to the respondent only if the actions of the appellant have unduly delayed the prompt and effective resolution of the appeal.
+[101] Without repeating all the facts that I have stated under the heading “Overview” in these reasons, the following facts are worth repeating to determine if costs should be granted to the respondent.
+[102] At the continuation of the hearing on June 4th, 2013, I was expecting that a representative from Bell Canada would be called by the appellant as a witness to establish the amounts of GST that DCI paid to Bell Canada. The appellant advised the Court that he had not called a Bell Canada witness because he could not afford to advance the travelling costs with the subpoena. I then advised him that I was ready to proceed by way of conference call to avoid the travelling costs.
+[103] Since I did not hear from the appellant, on September 23, 2013, I held a conference call. During the conference call the appellant stated that he would serve a subpoena duces tecum on a Bell Canada representative. In order to assist him, I signed an order giving the appellant until November 4, 2013, to serve a subpoena duces tecum on a Bell Canada representative.
+[104] The appellant disregarded my order and advised the Court by way of letter dated December 12, 2013, that he had misplaced the subpoena and that he would ask this Court to issue another one.
+[105] Although, the appellant kept stating that he would serve a subpoena on a Bell Canada representative, he never did.
+[106] I declared the evidence closed on May 14, 2014, 11 months after I had advised the appellant that I was ready to hear the testimony of a Bell Canada representative by way of conference call.
+[107] By not respecting the order and the directives of this Court, the appellant has unduly delayed the prompt and effective resolution of the appeal. Therefore, costs are granted to the respondent in accordance with the Tariff for appeals under the informal procedure (GST).
+Disposition [108] The appeal is dismissed, with costs to the respondent pursuant to the Tariff for appeals under the informal procedure (GST).
+Signed at Ottawa, Canada, this 21st day of May 2015.
+“Johanne D’Auray”
+D’Auray J.
+CITATION:
+2015 TCC 127
+COURT FILE NO.:
+2008-2496(GST)I
+STYLE OF CAUSE:
+RALPH DONCASTER v HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Halifax, Nova Scotia
+DATE OF HEARING:
+August 23, 2012, June 4, 5 and 7 2013
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Johanne D’Auray
+DATE OF JUDGMENT:
+May 21, 2015
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Tokunbo C. Omisade
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

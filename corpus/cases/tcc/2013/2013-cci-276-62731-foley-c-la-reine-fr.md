@@ -1,0 +1,171 @@
+---
+title: "Foley c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/62731/index.do"
+last_modified: "2013-09-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 276"
+citation2: ""
+neutral_citation: "2013 CCI 276"
+decision_date: "2013-09-06"
+language: "fr"
+item_id: "62731"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6122
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:05:48.165000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b58340af915d7d913a2718d0804521096256884cf0a24ab90ceaccd4ecb24e8b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Foley c. La Reine
+
+- Citation: 2013 CCI 276
+- Decision date: 2013-09-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6122, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Foley c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-09-06
+Référence neutre
+2013 CCI 276
+Numéro de dossier
+2012-2336(EA)I
+Juges et Officiers taxateurs
+Frank J. Pizzitelli
+Sujets
+Loi de 2001 sur l’accise
+Contenu de la décision
+Dossier : 2012-2336(EA)I
+ENTRE :
+ANISSA FOLEY, BARRY FOLEY,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 19 août 2013 et motifs rendus oralement à l’audience le 20 août 2013, à London (Ontario).
+Devant : L’honorable juge F. J. Pizzitelli
+Comparutions :
+Avocat des appelants :
+Me Jack Sousa
+Avocat de l’intimée :
+Me Shane Aikat
+____________________________________________________________________
+JUGEMENT
+L’appel des nouvelles cotisations concernant un droit d’accise établies en vertu de la Loi de 2001 sur l’accise, dont les avis sont datés du 22 février 2010, pour les périodes allant du 1er janvier 2006 au 31 décembre 2007 et du 1er janvier 2008 au 30 avril 2009, est accueilli, et les nouvelles cotisations sont annulées compte tenu du fait que le droit d’accise imposé au titre de l’alinéa 135(2)a) de la Loi de 2001 sur l’accise ne s’applique pas au vin emballé par les appelants.
+Signé à Ottawa, Canada, ce 6e jour de septembre 2013.
+«F.J. Pizzitelli»
+Juge Pizzitelli
+Traduction certifiée conforme
+ce 7e jour d’octobre 2013.
+Marie-Christine Gervais, traductrice
+Référence : 2013 CCI 276
+Date : 20130906
+Dossier : 2012-2336(EA)I
+ENTRE :
+ANISSA FOLEY, BARRY FOLEY,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience
+le 20 août 2013, à London (Ontario))
+Le juge Pizzitelli
+[1] Les appelants exploitaient une entreprise de production de vin et étaient titulaires d’une licence au titre de la Loi de 2001 sur l’accise, du Canada, L.C. 2002, ch. 22, dans sa version modifiée (la « Loi »). Ils interjettent appel des nouvelles cotisations concernant un droit d’accise établies par le ministre du Revenu national (le « ministre ») à l’égard de 19 471 litres de vin embouteillé pendant la période allant du 1er janvier 2006 au 31 décembre 2007 (la « première période »), ainsi qu’à l’égard de 10 383 litres de vin embouteillé pendant la période allant du 1er janvier 2008 au 30 avril 2009 (la « deuxième période »), lesquelles nouvelles cotisations ont donné lieu à l’imposition d’un droit d’accise de 12 222 $ pour la première période et de 6 720 $ pour la deuxième période. Suivant la Loi, un droit d’accise a été imposé selon un taux de 0,5122 $ le litre pour la partie du vin embouteillé du 1er janvier au 30 juin 2006, et un droit d’accise a été imposé selon un taux de 0,62 $ le litre pour la partie du vin embouteillé du 1er juillet 2006 jusqu’à la fin de la deuxième période.
+[2] Les appelants allèguent que le vin était exonéré du droit imposé mentionné ci-dessus en raison de l’exonération prévue à l’alinéa 135(2)a) de la Loi : ils font valoir que le vin qu’ils produisaient était composé entièrement de produits agricoles ou végétaux cultivés au Canada. L’intimée soutient que les appelants ont utilisé un additif composé d’ingrédients cultivés à l’extérieur du Canada dans la production de leurs vins, soit un sirop importé de Pologne qui contenait des sucres et du jus de fruit qui eu ont pour effet de rendre l’exonération susmentionnée inapplicable au vin.
+[3] La seule question à trancher est donc de savoir si le sirop que les appelants ont utilisé fait en sorte que le vin qu’ils ont embouteillé ne satisfait pas à l’exigence selon laquelle le vin doit être composé entièrement de produits agricoles ou végétaux cultivés au Canada.
+[4] La plupart des faits ne sont pas contestés, l’appelant a admis les hypothèses que le ministre a formulées aux alinéas 9 a) à d) inclusivement de la réponse; c’est‑à‑dire que les appelants détiennent une licence de vin valide au titre de la Loi, qu’au cours des première et deuxième périodes, ils ont embouteillé le nombre de litres de vin visés par les nouvelles cotisations concernant un droit d’accise et que le vin contenait plus de 7 % d’alcool par volume, ce qui donne lieu à l’application des taux de droit applicables si aucune exonération ne s’applique. Les appelants ont aussi admis les faits allégués au paragraphe 10 de la réponse, soit que le vin embouteillé par les appelants au cours des périodes question a été emballé dans des bouteilles dont la capacité était inférieure à 100 litres et n’a pas été réemballé avant d’être vendu aux consommateurs. Les appelants ont aussi admis que le vin contenait un additif produit en Pologne, bien qu’ils aient affirmé dans leur témoignage que l’additif était seulement ajouté lorsque cela était nécessaire, dans environ 75 à 80 % des lots qu’ils produisaient.
+[5] Les seules hypothèses du ministre qui sont contestées sont celles figurant aux alinéas 9e) et f) de la réponse, qui sont libellées en ces termes :
+[traduction]
+e) Le vin embouteillé par les appelants au cours des première et deuxième périodes contenait du sirop/jus de fruit produit en Pologne et composé d’ingrédients cultivés à l’extérieur du Canada (l’« additif »);
+f) L’additif était utilisé pour changer la composition aromatisante du vin emballé par les appelants. Il n’était pas seulement utilisé pour faciliter la fermentation du vin.
+[6] En bref, les appelants soutiennent que l’additif n’était pas un jus de fruit, mais une forme de sucre utilisé dans le processus de fermentation afin d’avoir suffisamment de sucre pour obtenir la sucrosité souhaitée qui n’avait pas pu être obtenue par l’ajout de sucre granulé au cours du processus de fermentation initial. Dans ses hypothèses contestées ci-dessus, l’intimée allègue que le sirop a été ajouté principalement comme agent aromatisant en tant que produit agricole ou végétal produit à l’extérieur du Canada. La différence entre la façon dont chacune des parties qualifie l’additif peut être pertinente si la Cour conclut que la présence de l’additif dans le vin n’a pas pour effet de rendre l’exonération inapplicable au vin. Autrement dit, si la Cour conclut que l’additif n’empêche pas le vin d’être composé entièrement de produits agricoles cultivés au Canada, mais conclut qu’il était principalement composé de jus de fruit.
+[7] Les appelants ont témoigné que le sirop importé de Pologne était du sucre, composé de glucose et de fructose, soit des types de sucres qui sont utilisés à la deuxième étape du processus de fermentation pour ajuster la sucrosité du vin. Il n’est pas contesté que les appelants cultivaient la plupart de leurs propres fruits, soit des cassis, des fraises, des framboises et des bleuets dans leur ferme en Ontario, ou que les autres fruits qu’ils achetaient pour faire leurs vins, comme les canneberges, étaient cultivés au Canada.
+[8] Il n’est également pas contesté que, pour produire du vin, que ce soit des vins conventionnels à base de raisins ou des vins à base de fruits, comme ceux que les appelants produisaient, il faut souvent ajouter du sucre granulé à l’étape de la fermentation pour augmenter le niveau de fermentation et déterminer la teneur en alcool et la sucrosité du vin. Le témoin expert de l’intimée a témoigné sur ce point et décrit clairement la vinification aux paragraphes quatre à sept de son rapport, qu’il vaut la peine de reproduire ici :
+[traduction]
+4. Le vin est produit par la fermentation alcoolique, sans distillation, du jus d’un produit agricole, autre que le grain ou un dérivé de celui‑ci. Par souci de simplicité, je fais référence au vin qui est fait principalement de raisins, étant donné qu’il s’agit du vin le plus connu.
+5. Les raisins mûrs sont pressés pour faire sortir le jus qui est séparé de la matière solide, ce qui est habituellement fait par décantation (séparation du liquide). La concentration des sucres dans le jus est mesurée à cette étape-ci afin de déterminer s’il faudra ajouter d’autres sucres pour atteindre la teneur en alcool souhaitée dans le vin fini, et, le cas échéant, pour établir la quantité de sucre additionnelle qui sera nécessaire.
+6. Une culture de levures est ajoutée au mélange liquide (jus et tout sucre ajouté) pour entamer le processus de fermentation. Les levures métabolisent les sucres dans le mélange en alcool éthylique et en d’autres sous-produits, comme du dioxyde de carbone. La quantité d’alcool est directement liée à la quantité initiale de sucres dans le liquide. Plus il y a de sucres au départ, plus la quantité d’alcool produite sera importante.
+7. Lorsque la teneur en alcool atteint le niveau souhaité, ou lorsque le vinificateur souhaite laisser le sucre résiduel dans le vin pour lui donner un goût sucré, le processus de fermentation est arrêté, soit en diminuant la température du mélange (blocage de l’action des levures), soit en ajoutant un agent de conservation comme le bisulfite de sodium. À ce moment, le liquide peut être transféré dans des fûts de chêne ou des contenants en acier inoxydable (« non passé en fût de chêne ») pour vieillir durant plusieurs mois avant d’être filtré et mis en bouteille.
+[9] Au cours de son témoignage, le témoin expert de l’intimée a convenu qu’on pouvait ajouter des sucres aux étapes ultérieures, comme avant l’embouteillage du vin, pour augmenter la sucrosité, comme les appelants l’ont fait pour leurs vins, au lieu de se fier simplement au niveau de sucre obtenu au cours de la fermentation. En fait, le processus des appelants était similaire au processus de fabrication du vin décrit par le témoin expert de l’intimée pour le vin, à la différence que les appelants ajoutaient des sucres sous forme liquide au mélange avant l’embouteillage lorsque cela était nécessaire pour ajuster la sucrosité du vin en plus d’ajouter du sucre granulé au mélange pour augmenter le niveau de sucre nécessaire afin d’entamer le processus de fermentation. Les appelants ont témoigné que leurs fruits, contrairement aux raisins, contenaient moins de sucre et que l’ajout de sucre granulé était nécessaire la plupart du temps pour stimuler le processus de fermentation, ce que le témoin de l’intimée trouvait normal, et que, pour obtenir la sucrosité souhaitée, il fallait ajouter des sucres sous forme liquide avant l’embouteillage au besoin.
+[10] Il ressort clairement du témoignage des appelants, comme le confirme le témoignage de l’expert de l’intimée, que le sucre est un additif normal dans le processus de fabrication du vin, tout comme la levure, et que l’ajout de sucres peut servir à ajuster la sucrosité pendant le processus de fermentation et après. L’intimée elle‑même le reconnaît implicitement dans son hypothèse figurant à l’alinéa 9f), dans laquelle elle présume que l’additif a servi à modifier le goût de la composition du vin au lieu de simplement servir à faciliter la fermentation du vin. Le ministre semblait ne rien avoir contre l’utilisation de sucre pour faciliter la fermentation ou ajuster la sucrosité dans cette hypothèse. Il s’opposait seulement à l’utilisation d’additifs pour changer le goût dans cette hypothèse particulière, quoiqu’il soutienne en fait que, selon son interprétation de l’alinéa 135(2)a), l’ajout au vin d’ingrédients non produits au Canada empêche celui‑ci d’être « composé entièrement de produits agricoles ou végétaux cultivés au Canada ». Vu l’argument de l’intimée, il semble donc clair que l’hypothèse figurant à l’alinéa 9f) n’est pas pertinente par rapport à son argument principal, mais seulement par rapport à ses arguments subsidiaires que j’examinerai plus loin.
+Le droit applicable
+[11] Les dispositions pertinentes de la Loi figurent aux articles 2 et 135.
+[12] Le paragraphe 135(1) dispose :
+135(1) Un droit est imposé sur le vin emballé au Canada, aux taux figurant à l’annexe 6.
+[13] Il n’est pas contesté que le vin en question a été emballé au Canada, selon les hypothèses qui ont été admises, et que l’annexe 6 énonce les taux de droit qui ont été appliqués par le ministre.
+[14] Le paragraphe 135(2) est une exception à la disposition d’assujettissement du paragraphe 135(1) dont les passages pertinents sont ainsi libellés :
+(2) Le paragraphe (1) ne s’applique pas :
+a) au vin produit au Canada qui est composé entièrement de produits agricoles ou végétaux cultivés au Canada;
+[15] L’article 2 est la disposition qui donne les définitions de la Loi. Le terme « vin » y est défini ainsi :
+« vin »
+a) Boisson contenant plus de 0,5 % d’alcool éthylique absolu par volume qui est produite sans procédé de distillation, exception faite de celui ayant pour but de réduire le contenu d’alcool éthylique absolu, par la fermentation alcoolique d’un des produits suivants :
+(i) un produit agricole, à l’exclusion du grain,
+(ii) une plante ou un produit provenant d’une plante, à l’exclusion du grain, qui n’est pas un produit agricole,
+(iii) un produit provenant en totalité ou en partie d’un produit agricole, d’une plante ou d’un produit provenant d’une plante, à l’exclusion du grain; […]
+[16] L’intimée allègue que l’alinéa 135(2)a) interdit effectivement l’utilisation de tout ingrédient dans le vin qui n’est pas un produit agricole ou végétal cultivé au Canada, y compris le sucre, la levure ou quelque agent aromatisant ou sucrant que ce soit. Les appelants soutiennent que l’alinéa 135(2)a) exige seulement que les principaux ingrédients utilisés dans le vin soient des produits agricoles ou végétaux cultivés au Canada et que le sucre et les autres ingrédients secondaires moins importants ne sont pas visés par la définition. Les appelants se fondent sur l’Avis sur les droits d’accise 15, ou l’EDN 15, publié par l’Agence du revenu du Canada (l’« ARC ») en juin 2006, qui précise ce qui suit :
+Pour que le vin emballé donne droit à cette exonération, il doit être fabriqué entièrement à partir de produits agricoles cultivés au Canada. Cela signifie que tout ingrédient primaire qui est fermenté (p. ex. les raisins, les petits fruits, tout autre fruit, le miel, les pissenlits et le riz) doit avoir été cultivé au Canada.
+[…]
+Cette règle d’« exclusivité canadienne » s’appliquera à tous les jus ajoutés au cours du processus de vinification, mais elle ne s’appliquera pas aux ingrédients secondaires à base de produits agricoles qui sont ajoutés au cours du processus de vinification (p. ex. le sucre).
+[17] À vrai dire, à mon avis, la thèse des appelants, qui est confirmée par l’EDN 15 de l’ARC, est compatible avec le libellé clair de l’alinéa 135(2)a). Il n’est pas contesté que les appelants produisaient du vin au Canada. La seule question en litige est de savoir si le vin était composé entièrement de produits agricoles ou végétaux cultivés au Canada. À première vue, on pourrait être tenté de croire qu’il faut tenir compte de tous les ingrédients utilisés à toutes les étapes du processus dans l’analyse de ce facteur, mais cela serait ridicule et impossible pour plusieurs raisons.
+[18] Tout d’abord, la définition de vin elle-même fait référence à un produit agricole ou végétal devant être fermenté. Les termes « produits agricoles ou végétaux » mentionnés dans la définition du terme « vin » à l’article 2 sont les mêmes termes que ceux utilisés à l’alinéa 135(2)a). Une interprétation logique de ce terme donnerait à penser que ce sont les ingrédients qui sont fermentés qui doivent être entièrement cultivés au Canada, et non les ingrédients qui causent la fermentation, comme le sucre et la levure. En l’espèce, le vérificateur de l’intimée a admis que les produits à base de fruits que ceux‑ci font fermenter ont été cultivés dans la ferme des appelants au Canada ou ont été cultivés dans d’autres fermes au Canada puis achetés par les appelants. Je conclus donc qu’il a été satisfait au critère.
+[19] En exigeant que les produits agricoles ou végétaux fassent l’objet d’une fermentation alcoolique, le législateur a clairement reconnu que ces produits doivent faire l’objet d’une transformation pour laquelle il a choisi de ne pas restreindre les ingrédients à ceux qui sont cultivés ou autrement produits au Canada. Si le législateur avait voulu que la « règle d’exclusivité canadienne » s’applique aux sucres et aux levures nécessaires à la fermentation, qui est expressément visée dans la définition du terme « vin » et sans laquelle le vin ne pourrait pas être produit selon le témoignage de l’expert de l’intimée, surtout lorsque les fruits utilisés n’ont pas une teneur en sucre assez élevée dès le départ, comme c’est le cas pour les produits des appelants la majorité du temps, il aurait dû l’indiquer.
+[20] Il s’ensuit également que, si le législateur voulait seulement que les produits fermentés soient cultivés au Canada, les ingrédients ajoutés comme agents sucrants à des étapes ultérieures du processus pour augmenter la sucrosité du vin ou bien pour en changer le goût ne font pas partie des produits agricoles ou végétaux devant être cultivés au Canada.
+[21] Cela est tout à fait compatible avec l’interprétation donnée à la disposition dans l’EDN 15. Par conséquent, je conclus qu’un tel bulletin d’interprétation est conforme à la loi et n’est pas incompatible avec elle de façon à la rendre inapplicable, comme le laisse entendre l’intimée.
+[22] Il ressort très clairement de la preuve des appelants et du témoin expert de l’intimée que le sirop importé de Pologne avait la même fonction que le sucre et qu’il était composé de glucose, de fructose et de maltose, tous des sucres qui, selon le témoin expert de l’intimée, représentaient entre 93 et 98 % du poids sec du contenu de ces produits.
+[23] Le témoin expert de l’intimée a témoigné que les deux échantillons de sirop provenant de la Pologne qu’on lui a demandé d’analyser ne contenaient que de 8 à 10 % de jus de fruit. Donc, même si un ou deux litres de sirop étaient ajoutés à chacun des lots de vin 75 à 80 % du temps, comme l’ont affirmé les appelants dans leur témoignage, que je juge crédible, le volume de jus de fruit dans un lot ne représenterait que 1 à 2 % du volume total. On peut ne donc guère dire qu’il s’agissait d’un ingrédient principal ou d’un ingrédient qui aurait pu donner lieu au volume de litres à l’égard desquels le ministre a établi les nouvelles cotisations. En outre, comme l’ingrédient était ajouté après le processus de fermentation pour augmenter la sucrosité, ce que l’intimée ne conteste pas, un tel jus de fruit secondaire n’a même pas été fermenté comme il est exigé ci-dessus. À mon avis, il importe peu de savoir si une si petite quantité modifie le goût du vin. J’accepte le témoignage des appelants selon lequel le sirop utilisé ne correspondait pas toujours au fruit fermenté, étant donné que l’ajout du sirop visait à ajuster la sucrosité du vin et non à en modifier le goût. Cet élément de preuve n’a pas été contredit, et l’opinion que le témoin expert a exprimée dans son rapport à savoir que l’ajout du sirop visait à modifier le goût du vin était, selon le témoignage du témoin expert, fondée sur les hypothèses qui lui avaient été communiquées par le fonctionnaire de l’ARC qui avait eu recours à ses services.
+[24] Enfin, il importe de souligner que, si l’on se fonde sur le témoignage du témoin expert de l’intimée, en général, du sucre est ajouté au liquide tiré des raisins ou d’autres fruits avec de la levure pour la fermentation. Si, comme le témoin expert l’a mentionné dans son témoignage, dans leur produit, les raffineries de sucre canadiennes utilisent environ seulement 10 % de sucre provenant de la betterave à sucre canadienne, le reste étant du sucre provenant de la canne à sucre, il serait pratiquement impossible d’acheter du sucre 100 % canadien sur le marché au Canada pour la fermentation du vin. L’intimée n’a présenté aucun élément de preuve donnant à penser qu’une forme pure de sucre provenant de la betterave à sucre canadienne est raffiné et vendu séparément. Elle a seulement mentionné que les raffineries le mélangeaient avec des produits provenant de l’étranger. Il serait illogique de supposer que le législateur ait voulu créer une exception qui serait difficile à obtenir, voire même impossible à obtenir, sans employer une formulation plus précise.
+[25] Pour conclure, l’interprétation que les appelants ont donnée à l’alinéa 135(2)a) de la Loi et qui correspond à ce qui est mentionné dans l’EDN 15 de l’ARC est à mon avis compatible avec le sens ordinaire du libellé de l’alinéa et avec la définition du terme « vin » de l’article 2 incorporée dans cet alinéa. Les hypothèses du ministre, y compris celles des alinéas 9e) et f) qui sont contestées, même si elles étaient vraies, n’étayent donc pas les nouvelles cotisations du ministre. Par conséquent, l’appel est accueilli dans sa totalité.
+Signé à Ottawa, Canada, ce 6e jour de septembre 2013.
+«F.J. Pizzitelli»
+Juge Pizzitelli
+Traduction certifiée conforme
+ce 7e jour d’octobre 2013.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE : 2013 CCI 276
+NO DU DOSSIER DE LA COUR : 2012-2336(EA)I
+INTITULÉ : ANISSA FOLEY, BARRY FOLEY c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : London (Ontario)
+DATE DE L’AUDIENCE : Les 19 et 20 août 2013
+MOTIFS DU JUGEMENT : L’honorable juge F.J. Pizzitelli
+DATE DU JUGEMENT : Le 6 septembre 2013
+COMPARUTIONS :
+Avocat des appelants :
+Me Jack Sousa
+Avocat de l’intimée :
+Me Shane Aikat
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom : Jack Sousa
+Cabinet : Brown Beattie O’Donovan
+London (Ontario)
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

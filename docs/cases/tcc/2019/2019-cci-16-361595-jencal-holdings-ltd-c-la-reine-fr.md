@@ -1,0 +1,248 @@
+---
+title: "Jencal Holdings Ltd. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/361595/index.do"
+last_modified: "2019-01-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 CCI 16"
+citation2: ""
+neutral_citation: "2019 CCI 16"
+decision_date: "2019-01-18"
+language: "fr"
+item_id: "361595"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4337
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T18:27:02.757000+00:00"
+cases_cited_count: 3
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "59b359215d311ab7cc466de92ad5253a396d24898612d82f12aa5db21888c53b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Jencal Holdings Ltd. c. La Reine
+
+- Citation: 2019 CCI 16
+- Decision date: 2019-01-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4337, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jencal Holdings Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-01-18
+Référence neutre
+2019 CCI 16
+Numéro de dossier
+2016-3757(IT)G
+Juges et Officiers taxateurs
+David E. Graham
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-3757(IT)G
+ENTRE :
+JENCAL HOLDINGS LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus les 24, 25 et 26 octobre 2018,
+à Vancouver (Colombie-Britannique)
+Devant : L’honorable juge David E. Graham
+Comparutions :
+Avocats de l’appelante :
+Michel Bourque
+Jacqueline A. Fehr
+Avocates de l’intimée :
+Whitney Dunn
+Lisa Macdonell
+JUGEMENT
+Les appels relatifs aux années d’imposition de l’appelante se terminant les 28 février 2013 et 2014 sont rejetés.
+Il est fait droit à l’appel de l’appelante pour l’année d’imposition se terminant le 29 février 2012 et le dossier est renvoyé au ministre du Revenu national pour qu’il établisse une nouvelle cotisation au motif que le revenu d’intérêts reçu par l’appelante de Kal Tire Holdings Ltd. doit être traité comme un revenu tiré d’une entreprise exploitée activement.
+Les dépens sont adjugés à l’intimée. Les parties auront 30 jours à compter de la date des présentes pour conclure une entente sur les dépens, faute de quoi, l’intimée aura 30 jours supplémentaires pour déposer des observations écrites sur les dépens, et l’appelante aura encore 30 jours pour déposer une réponse écrite. Ces observations doivent tenir dans 10 pages au plus. Si les parties n’informent pas la Cour qu’elles sont parvenues à une entente et qu’aucune observation n’est reçue dans les délais qui précèdent, les dépens seront adjugés à l’intimée conformément au tarif.
+Signé à Ottawa, au Canada, ce 18e jour de janvier 2019.
+« David E. Graham »
+Juge Graham
+Traduction certifiée conforme
+ce 23e jour de juillet 2020.
+François Brunet, réviseur
+Référence : 2019 CCI 16
+Date : 20190118
+Dossier : 2016-3757(IT)G
+ENTRE :
+JENCAL HOLDINGS LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Graham
+[1] Le présent appel porte sur l’application de la règle particulière anti-évitement prévue par le paragraphe 256(2.1) de la Loi de l’impôt sur le revenu.
+[2] Kal Tire est une entreprise mondiale de pneus qui a ses racines dans l’Ouest canadien. L’entreprise a été créée par feu Tom Foord et exploitée par un grand nombre d’entreprises et de filiales. Toutes ces entités appartenaient au Kal Tire Partnership. Le droit de M. Foord sur Kal Tire Partnership était indirectement détenu par une entreprise appelée Kal Tire Holdings Ltd. (« KT Holdings »).
+[3] En 2007, KT Holdings a subi une importante réorganisation (la « réorganisation de 2007 »). Celle‑ci a comporté la création d’une société de portefeuille pour chacun des cinq enfants de M. Foord (les « sociétés de portefeuille »). L’appelante est la société de portefeuille qui a été créée pour une des filles de M. Foord, Jean Finch.
+[4] La réorganisation de 2007 a été conçue de manière à permettre aux sociétés de portefeuille de demander la déduction accordée aux petites entreprises pour le revenu tiré d’une entreprise exploitée activement qui leur avait été transféré par KT Holdings.
+[5] Le ministre du Revenu national a établi une nouvelle cotisation pour les années d’imposition de l’appelante se terminant respectivement le 29 février 2012, le 28 février 2013 et le 28 février 2014 en lui refusant la déduction accordée aux petites entreprises. Pour ce faire, le ministre s’est appuyé sur la règle particulière anti-évitement prévue par le paragraphe 256(2.1).
+[6] Selon ce texte, une entreprise ne peut demander la déduction accordée aux petites entreprises si l’on peut raisonnablement considérer qu’un des principaux motifs de l’existence distincte de cette entreprise était de réduire le montant de l’impôt qui serait payable par ailleurs en vertu de la Loi. Il dispose :
+Pour l’application de la présente loi, s’il est raisonnable de considérer qu’un des principaux motifs de l’existence distincte de plusieurs sociétés au cours d’une année d’imposition consiste à réduire les impôts qui seraient payables par ailleurs en vertu de la présente loi [...], ces sociétés sont réputées être associées les unes aux autres au cours de l’année.
+[7] La question à trancher en l’espèce est de savoir si un des principaux motifs de l’existence distincte de l’appelante était de réduire le montant d’impôt qui serait payable par ailleurs en vertu de la Loi. Pour les raisons exposées en détail plus loin, je conclus que tel était le cas.
+[8] Je discuterai d'abord la manière dont l’existence distincte de l’appelante a résulté en une réduction de l’impôt par ailleurs payable en vertu de la Loi. À la suite de cet examen, je dirai pourquoi j’ai conclu que cette réduction d’impôt comptait parmi les motifs principaux de l’existence distincte de l’appelante.
+A. Réduction d’impôt
+[9] L’appelante admet que son existence distincte a eu pour résultat une réduction de l’impôt par ailleurs payable en vertu de la Loi. Toutefois, je n’en juge pas moins important de comprendre la manière dont cette réduction a été réalisée. Il est nécessaire à cette fin de mieux saisir d’abord ce que sont la structure sociale en cause et la déduction accordée aux petites entreprises.
+Structure sociale antérieure
+[10] Avant la réorganisation de 2007, la structure de l’investissement de M. Foord dans Kal Tire Partnership était relativement limpide. Elle était le résultat d’un gel successoral survenu en 1987. Voici une description simplifiée de la structure. Le droit de M. Foord sur Kal Tire Partnership était détenu par une société appelée Kal Tire Ltd., filiale en propriété exclusive de KT Holdings. M. Foord contrôlait KT Holdings au moyen d’une catégorie d’actions privilégiées avec droit de vote. Les actions ordinaires de KT Holdings appartenaient à une fiducie appelée Kal Management Trust. Les cinq enfants de M. Foord (Jean Finch, Colin Foord, Nancy Kurbis, Janet Bowers et Robert Foord) étaient bénéficiaires de la fiducie et M. Foord en était le fiduciaire.
+[11] L’intimée a présenté un diagramme simplifié illustrant la structure antérieure à la réorganisation de 2007. Copie en est jointe comme annexe A.
+Déduction accordée aux petites entreprises avant la réorganisation
+[12] En vertu de l’article 125, les sociétés privées sous contrôle canadien sont imposées à un taux inférieur sur leur première tranche de 500 000 $ de revenu tiré d’une entreprise exploitée activement, mais le paragraphe 125(5.1) élimine la déduction accordée aux petites entreprises si l’entreprise en question devient trop grande. Pour ce faire, on abaisse le plafond des affaires d’une société pour une année d’imposition dans la mesure où celle‑ci et toute société qui y est associée disposent d’un capital imposable important utilisé au Canada. L’effet est d’abolir le plafond des affaires une fois que le capital imposable utilisé au Canada est de plus de 15 000 000 $.
+[13] De 2001 à 2007, vu le paragraphe 125(5.1), KT Holdings et Kal Tire Ltd. n'ont pu demander la déduction accordée aux petites entreprises [1] .
+Réorganisation de 2007
+[14] La réorganisation de 2007 a largement modifié la structure de KT Holdings. Il y a eu distribution des actions du Kal Management Trust aux enfants de M. Foord, création des sociétés de portefeuille, transfert des actions des enfants à ces sociétés et gel des intérêts de quatre des enfants dans leurs sociétés de portefeuille en faveur de quatre nouvelles fiducies familiales.
+[15] Voici une description simplifiée de la structure postérieure à la réorganisation de 2007. Chaque société de portefeuille détenait 20 % des actions d’une catégorie d’actions ordinaires avec droit de vote et non participatives de KT Holdings. Chacune détenait également l’intégralité des actions d’une de cinq catégories d’actions ordinaires sans droit de vote et participatives de KT Holdings.
+[16] Par suite de la réorganisation de 2007, Jean Finch détenait des actions privilégiées de l’appelante, ce qui a eu pour effet de geler toute la valeur de ses droits sur KT Holdings. Elle détenait également des actions ordinaires avec droit de vote et non participatives dans l’appelante. Une fiducie connue sous le nom de fiducie familiale Jean Finch détenait des actions ordinaires avec droit de vote et participatives dans l’appelante au bénéfice des enfants et des petits-enfants de Mme Finch. Jean Finch en était la fiduciaire.
+[17] Les actions des sociétés de portefeuille de Colin Foord, Nancy Kurbis et Janet Bowers étaient détenues comme celles de l’appelante, les enfants de M. Foord ayant gelé leurs intérêts en faveur de fiducies pour leurs enfants et petits-enfants. Robert Foord était propriétaire de toutes les actions de sa propre société de portefeuille. Il n’avait pas de fiducie familiale.
+[18] L’intimée a présenté un diagramme simplifié illustrant la structure postérieure à la réorganisation de 2007. Copie en est jointe comme annexe B.
+Plafond des affaires de petite entreprise après la réorganisation
+[19] Après la réorganisation de 2007, chaque société de portefeuille était associée à KT Holdings. En d’autres termes, chacune était réputée au sens du paragraphe 256(2), être associée à chaque autre société de portefeuille aux fins de la Loi.
+[20] En vertu de l’article 125, les sociétés associées sont généralement tenues de partager un même plafond des affaires de 500 000 $. Toutefois, lorsque deux sociétés sont associées l’une à l’autre en raison de leur association commune avec une troisième (KT Holdings en l’occurrence), cette troisième société peut choisir conformément au paragraphe 256(2) de ne pas être associée à l’une ou l’autre des autres sociétés pour l’application de l’article 125. KT Holdings a fait ce choix. Ainsi, chaque société de portefeuille a pu maintenir son propre plafond des affaires de 500 000 $.
+Opérations sur dividendes et prêts
+[21] La réorganisation de 2007 a aussi comporté une suite d’opérations sur dividendes et prêts. Dans ces opérations, Kal Tire Ltd. a retiré des fonds du Kal Tire Partnership. Elle s’en est servie pour verser des dividendes à KT Holdings qui les a employés à son tour pour verser des dividendes à chaque société de portefeuille. Les sociétés de portefeuille ont ensuite prêté en retour les fonds reçus à KT Holdings qui a fait de même à Kal Tire Ltd. avec remise des fonds au partenariat. Cette série d’opérations sur dividendes et prêts a eu lieu à plusieurs reprises dans les années qui ont suivi la réorganisation de 2007. Le montant des dividendes versés et le taux d’intérêt sur les prêts ont été choisis de manière à garantir que, au terme de toutes les opérations, chaque société de portefeuille gagnerait 500 000 $ en revenu d’intérêts chaque année [2] .
+Conversion en revenu d’entreprise exploitée activement
+[22] Seul le revenu tiré d’une entreprise exploitée activement est admissible à la déduction accordée aux petites entreprises. En temps normal, le revenu passif d’intérêts acquis par une société est imposé comme revenu tiré de biens plutôt que comme revenu tiré d’une entreprise exploitée activement. Il reste que, si une société privée sous contrôle canadien paie des intérêts à une société associée, ces intérêts sont réputés, au sens de l’alinéa 129(6)b), constituer un revenu d’entreprise exploitée activement de la société associée.
+[23] Le choix qu’a fait KT Holdings en vertu du paragraphe 256(2) de ne pas être associée à chaque société de portefeuille ne valait qu’aux fins de l’article 125. Il ne valait pas à d’autres fins de la Loi. Ainsi, KT Holdings et chaque société de portefeuille ont été réputées être associées aux fins de l’alinéa 129(6)b) et le revenu d’intérêts reçu par les sociétés de portefeuille de KT Holdings a été considéré comme un revenu d’entreprise exploitée activement.
+Réduction d’impôt
+[24] En raison de la réorganisation de 2007 et des choix susmentionnés, l’appelante avait un revenu d’entreprise exploitée activement de 500 000 $ et un plafond correspondant d’affaires de petite entreprise de 500 000 $ dans chacune des années en question, ce qui lui a permis de demander la déduction accordée aux petites entreprises pour un montant approximatif de 84 000 $ [3] .
+[25] Si l’appelante n’avait pas existé, cette réduction d’impôt n’aurait pas eu lieu. Le revenu d’intérêts gagné par l’appelante aurait alors été acquis par Jean Finch et (ou) la fiducie familiale Jean Finch, et ni l’une ni l’autre n’avait droit à la déduction accordée aux petites entreprises. Ainsi, la première condition au paragraphe 256(2.1) était remplie : l’existence distincte de l’appelante a eu pour conséquence une réduction de l’impôt qui aurait été payable par ailleurs en vertu de la Loi.
+B. Existence distincte
+[26] Selon paragraphe 256(2.1), je suis tenu de rechercher si un des principaux motifs de l’existence distincte de l’appelante chaque année était la réduction d’impôt. Il peut y avoir plus d’un motif principal à l’existence distincte d’une société [4] . Il incombe à l’appelante de démontrer que la réduction d’impôt n’était pas une des raisons principales de cette existence distincte. L’appelante ne l’a pas fait. Je tire cette conclusion pour cinq raisons :
+a) il n’y a pas eu de preuve directe des principaux motifs de l’existence distincte de l’appelante;
+b) il n’y a pas eu de preuve directe des principaux motifs de l’existence distincte des autres sociétés de portefeuille;
+c) la preuve indirecte des principaux motifs de l’existence distincte des sociétés de portefeuille n’était pas fiable;
+d) il ressort de la preuve documentaire que la réduction d’impôt était un motif important du recours à des sociétés de portefeuille;
+e) la plupart des autres explications données de l’existence distincte des sociétés de portefeuille n’emportait pas la conviction.
+Absence de preuve directe des principaux motifs de l’existence distincte de l’appelante
+[27] L’appelante n’a pas cité Jean Finch comme témoin. Mme Finch est la personne qui a constitué l’appelante en société. Plus que quiconque, elle connaît les principaux motifs de l’existence de l’appelante. Comme l’a fait remarquer la juge en chef adjointe Lamarre dans la décision Gerbro Holdings Company c. La Reine [5] , « [l]es raisons motivant les choix d’une personne sont foncièrement personnelles ». Si je suis en mesure de déduire d’autres éléments de preuve les principales motifs de l’existence de l’appelante, il aurait quand même été préférable que j’entende directement ces motifs de sa bouche.
+[28] Jean Finch est mariée à Ken Finch. L’appelante n’a pas cité non plus M. Finch comme témoin. Il est associé du Kal Tire Partnership et préside actuellement le conseil d’administration de Kal Tire [6] . M. Finch a pris une part très active aux discussions familiales ayant mené à la réorganisation de 2007. Je crois comprendre qu’il a fait valoir un point de vue concurrentiel sur la façon dont KT Holdings devrait être détenue et gérée à l’issue de cette réorganisation. Ainsi, il aurait une bonne idée personnelle des principaux motifs de l’existence distincte de l’appelante.
+[29] L’appelante n’a pas donné de raison convaincante pour justifier l’absence de témoignage de Madame ou de M. Finch.
+[30] L’intimée m’a demandé de tirer une conclusion défavorable de cette absence de témoignage dans l’un ou l’autre cas. En l’espèce, je pense qu’il convient que je le fasse. J’en déduis que, si l’un ou l’autre avait été appelé à témoigner, sa déposition ne serait pas allée dans le sens de la position de l’appelante. Cela dit, cette déduction n’a aucune incidence sur ma conclusion. Faute de témoignage direct de Mme ou M. Finch, la preuve ne suffit tout simplement pas à confirmer la position de l’appelante.
+Absence de preuve directe des principaux motifs de l’existence distincte des autres sociétés de portefeuille
+[31] Aucun des propriétaires des autres sociétés de portefeuille n’a témoigné. S’ils l’avaient fait, j’aurais pu en déduire que les principaux motifs de l’existence distincte de l’appelante étaient identiques ou analogues aux motifs de l’existence distincte de ces autres sociétés. Je ne tire aucune déduction défavorable du défaut de déposer des intéressés, mais l’absence de témoignage de leur part nuit à la position de l’appelante.
+La preuve indirecte n’était pas fiable
+[32] Le seul témoignage de vive voix quant aux principaux motifs de l’existence distincte des sociétés de portefeuille a été rendu par un avocat du nom de Doug Lemiski. Associé du Kal Tire Partnership, il est vice-président principal de Kal Tire depuis 2013. Toutefois, au cours des années entourant la réorganisation de 2007, il était associé au cabinet d’avocats qui conseillait Kal Tire. Au début, M. Lemiski se consacrait uniquement aux affaires commerciales de Kal Tire, mais il en est venu avec le temps à conseiller M. Foord et les membres de sa famille.
+[33] M. Lemiski a ainsi décrit les principaux intervenants au sein de la famille Foord au début des années 2000. M. Foord était toujours actif dans les dossiers d’ensemble de l’entreprise, mais il s’était éloigné des activités quotidiennes. Colin Foord jouait un rôle non significatif dans l’entreprise. Robert Foord avait, lui, un rôle important. Il était associé du Kal Tire Partnership [7] . Tom Foord espérait que Robert lui succède à la tête de l’entreprise. Nancy Kurbis, Jean Finch et Janet Bowers ne participaient pas à la conduite des affaires, mais le mari de Nancy Kurbis, Ken Kurbis, était conseiller juridique interne à Kal Tire et, comme nous l’avons précisé plus haut, M. Finch était associé du Kal Tire Partnership. En 2007, ce dernier était le dirigeant en second de l’entreprise. Il est finalement devenu président de Kal Tire quand Tom Foord a cédé les rênes de l’entreprise à la suite de la réorganisation de 2007.
+[34] À de nombreux moments dans son témoignage, M. Lemiski a exposé les intentions ou les motivations de M. Foord, de ses enfants et de MM. Kurbis et Finch. Ce sont des ouï-dire. L’intimée ne s’est pas opposée à ce témoignage, alors j’ai permis qu’il soit rendu. La question demeure cependant de savoir quel poids je devrais lui accorder.
+[35] Je ne suis pas disposé à accorder un poids quelconque au témoignage de M. Lemiski au sujet des intentions et des motivations des enfants Foord et de MM. Kurbis et Finch. Il n’a pas été soutenu que les intéressés n’étaient pas disponibles pour témoigner. Qui plus est, j’ai de sérieuses réserves au sujet de la fiabilité du témoignage de M. Lemiski sur leurs intentions et motivations. Je crains que ces mêmes intéressés n’aient pas été francs avec M. Lemiski. Celui‑ci a témoigné que, pendant les consultations et les négociations ayant abouti à la réorganisation de 2007, il a conseillé M. Foord, KT Holdings, les enfants Foord et MM. Kurbis et Finch. Il a déposé que les enfants Foord et M. Kurbis et M. Finch avaient des vues divergentes sur la façon dont KT Holdings devait être gérée. Il a fait observer en particulier que MM. Finch et Kurbis ne voyaient pas d’un même œil la gestion tant du Kal Tire Partnership que de KT Holdings, ni le transfert intergénérationnel des actions. Il a constaté que M. Finch s’attachait aux intérêts de sa propre famille plutôt qu’à ceux de l’ensemble de la famille Foord et que M. Kurbis s’employait à empêcher la famille Finch de se rendre maître de l’entreprise. Comme les entretiens de M. Lemiski avec tous les intéressés n’étaient pas privilégiés et que ceux‑ci savaient qu’il s’entretenait avec toutes les personnes concernées, je crains vraiment qu’une partie ou la totalité de ces gens aient fait preuve de circonspection dans leurs propos avec lui ou lui aient même dit des choses inexactes. Si je conclus que M. Lemiski m’a fidèlement transmis ce qui lui a été dit, je ne suis pas sûr de pouvoir me fier à l’exactitude des communications qu'il a rapportées.
+[36] J’en arrive à une conclusion différente en ce qui concerne le témoignage de M. Lemiski sur les intentions de M. Foord. Ce dernier est décédé avant le début de la procédure contentieuse. Il n’aurait donc pas été possible d’obtenir son témoignage directement. Je reconnais que M. Lemiski était un proche confident de M. Foord et que, en particulier, il a pris une part très active avec celui‑ci aux discussions ayant mené à la réorganisation de 2007. Je ne vois guère pourquoi M. Foord n’aurait pas joué franc jeu avec M. Lemiski.
+[37] M. Lemiski a expliqué que M. Foord avait toujours mis l’accent sur la croissance de l’entreprise plutôt que sur la création d’une richesse propre pour lui et sa famille. Par conséquent, Kal Tire Partnership avait pour politique de conserver les bénéfices dans l’entreprise et de ne verser à ses associés que ce que M. Lemiski a qualifié de prélèvements relativement modestes. Les comptes de capital des associés s’étoffaient, mais ils n’avaient pas droit d’y accéder avant la retraite. M. Lemiski a témoigné que, jusqu’à la réorganisation de 2007, M. Foord avait pour priorité de veiller à ce que l’entreprise continue de croître, de maintenir la participation de la famille et sa propriété au fil des générations, de pérenniser le principe adopté d’un mode de vie modeste, mais sûr pour les membres de la famille et de faire en sorte dans tout cela que l’harmonie familiale règne ou grandisse. Je reconnais que ce sont là les objectifs de M. Foord. Le problème pour l’appelante, c’est qu’aucun de ces objectifs n’exige directement de recours à des sociétés de portefeuille pour les divers enfants de M. Foord.
+Preuve documentaire
+[38] La meilleure preuve des principaux motifs de l’existence distincte de l’appelante est d’ordre documentaire. Il en ressort que la réduction d’impôt constituait un des principaux motifs de l’existence distincte des sociétés de portefeuille.
+[39] La réorganisation de 2007 a été motivée par la nécessité pour Kal Management Trust de distribuer ses actions dans KT Holdings aux bénéficiaires de la fiducie avant que la règle de 21 ans au paragraphe 104(4) ne détermine une aliénation réputée des actions à leur juste valeur marchande. Cette règle serait entrée en application en février 2008.
+[40] En 1998, KPMG a préparé un plan initial de répartition des actions [8] (le « plan de 1998 »). Il prévoyait la liquidation du Kal Management Trust, la distribution des actions de la fiducie dans KT Holdings aux enfants de M. Foord et le gel des intérêts de ces mêmes enfants en faveur de fiducies familiales pour eux tous. Le plan de 1998 soulevait de nombreuses questions concernant la gestion des sociétés et des partenariats, les transferts intergénérationnels d’actions et les politiques en matière de dividendes. Il ne prévoyait pas le recours à des sociétés de portefeuille. Il n’a pas été mis à exécution [9] .
+[41] Dans une lettre envoyée en juin 2000, KPMG a fait des commentaires additionnels sur le plan successoral (la « lettre de 2000 »). Elle a continué à demander la liquidation du Kal Management Trust et la distribution des actions de la fiducie dans KT Holdings aux enfants de M. Foord. Toutefois, en ce qui concerne le gel éventuel des intérêts des enfants en faveur de fiducies familiales, elle a proposé que tout enfant choisissant de geler ses droits le fasse en recourant à une société de portefeuille propre. La lettre de 2000 est la première preuve documentaire d’une discussion ayant porté sur un tel recours. Que l’idée de sociétés de portefeuille ait été discutée avant que ne soit créé le plan de réduction d’impôt a de l’importance, puisqu’on voit par là qu’il y avait peut-être un autre motif à leur existence distincte. La chose n’est cependant pas déterminante. Le critère n’est pas de savoir si la réduction d’impôt l'un des motifs principaux de constitution en société de l’appelante. Il s’agit plutôt de savoir si c’était là un des principaux motifs de l’existence de l’appelante dans les années en question.
+[42] En décembre 2000, les membres de la famille Foord et d’autres personnes se sont réunis. Un document censé être le procès-verbal de cette rencontre a été produit en preuve [10] . Ce présumé procès-verbal relève du ouï-dire. L’intimée ne s’est pas opposée à ce qu’il soit produit en preuve, aussi l’ai-je admis. Cela ne veut néanmoins pas dire que j’y accorde quelque poids que ce soit. D’après le soi-disant procès-verbal, un des sujets débattus portait sur le recours à des sociétés de portefeuille. M. Lemiski était présent à la rencontre, mais il est parti immédiatement avant que cette discussion n’ait lieu, de sorte qu’il ne peut confirmer la fidélité du procès-verbal. Celui‑ci a été préparé par Ken Kurbis. À première vue, il n’a été signé ni approuvé par qui que ce soit d’autre de présent. M. Kurbis n’a pas été appelé à témoigner. Comme je l’ai déjà signalé, je ne connais aucune raison pour laquelle il n’aurait pu déposer. J’ajoute que, vu le conflit exposé par M. Lemiski entre les membres de la famille Foord, je peux craindre que les vues exposées dans ce procès-verbal ne représentent que le point de vue de M. Kurbis, et non celui de tous les membres de la famille. M. Lemiski a clairement dit que, selon lui, M. Kurbis intervenait souvent comme s’il parlait au nom de la famille entière, bien qu’il ait été clair que tel n'était pas le cas. Compte tenu du conflit apparent entre M. Kurbis et M. Finch, je crains tout particulièrement que le procès-verbal ne traduise pas le point de vue de Mme Finch sur le recours à des sociétés de portefeuille. Comme son point de vue est vraiment ce qui importe, je crois que le risque de conférer du poids à ce présumé procès-verbal l’emporte sur la valeur probante de cette démarche.
+[43] En mars 2001, M. Lemiski a préparé une note de service sur une proposition de convention d’actionnaires pour KT Holdings. Il a témoigné ne pas se rappeler nettement ni quand ni où l’idée de recourir à des sociétés de portefeuille avait été soulevée en précisant que, déjà à ce moment-là, cette idée était ancrée dans les discussions. Dans sa note, M. Lemiski a dit que [traduction] « comme je comprends la structure actuellement proposée, chaque branche familiale deviendra actionnaire d’une société de portefeuille qui détiendra des actions dans [KT Holdings] [11] ». Il a également dit comprendre que [traduction] « la structure en sociétés de portefeuille avait été établie pour que les actions dans [KT Holdings] ne puissent jamais tomber sous le contrôle de tiers [12] ».
+[44] En janvier 2002, KPMG a donné instruction au cabinet de M. Lemiski de créer cinq sociétés de portefeuille dans le cadre d’un plan de réorganisation à jour prévoyant le recours à des opérations sur dividendes et prêts pour un accès à la déduction accordée aux petites entreprises (le « plan de 2002 »). Voilà la première preuve documentaire d’un désir de multiplier le plafond d’affaires de petite entreprise. KPMG a officiellement présenté ce plan à la famille Foord. La minimisation de l’impôt était mentionnée comme un des trois objectifs du plan de 2002. Elle était le seul objectif reconnu imposant le recours aux sociétés de portefeuille. La réalisation des autres objectifs (continuité des activités et maintien du contrôle par les enfants de M. Foord) n’appelait pas un tel recours. Que KPMG ait exposé ces objectifs ne signifie pas qu’il s’agissait des objectifs de Mme Finch. Toutefois, voilà un élément de preuve portant que Mme Finch savait dès 2002 qu’une réduction d’impôt résulterait du recours à une société de portefeuille.
+[45] En 2004, KPMG a envoyé à Ken Kurbis une note de planification précisant les étapes et la structuration des actions nécessaires à l’accès à des plafonds multiples d’affaires de petite entreprise (la « note de 2004 »).
+[46] En 2006, KPMG a fait une présentation dans laquelle elle continuait à insister sur les avantages fiscaux du montage proposé. Dans son exposé, elle mettait en évidence la déduction accordée aux petites entreprises comme un avantage du recours à des sociétés de portefeuille. Cet exposé ne faisait état d’aucun motif non fiscal pour un tel recours. Précisons une fois de plus que ce n’est pas la preuve que la réduction d’impôt était un des objectifs de Mme Finch, mais que, dans l’année qui a précédé la réorganisation, on a rappelé à celle‑ci les avantages fiscaux importants de l’utilisation d’une société de portefeuille.
+[47] La réorganisation de 2007 s’est déroulée pour l’essentiel de la façon prévue par le plan de 2002 selon les modalités de la note de service de 2004.
+[48] En 2008 et même après la réorganisation, KPMG a continué dans ses exposés à insister sur les avantages fiscaux de la structuration.
+[49] En résumé, il ressort de la preuve documentaire que, dans les cinq ans ayant précédé la constitution en société de l’appelante, Mme Finch a été mise au fait au moins deux fois des avantages fiscaux du recours à une société de portefeuille. Sil ressort de la preuve documentaire qu’on a fait valoir d’autres motifs pour ce recours, il n’y a pas de preuve documentaire fiable dont il ressort que Mme Finch en avait connaissance.
+Autres explications
+[50] L’appelante a fait état d'un certain nombre d’autres explications de l’existence distincte des sociétés de portefeuille. Je n’ai pas trouvé convaincantes la plupart de ces explications.
+[51] Dans son témoignage, M. Lemiski a semblé vouloir donner l’impression que les sociétés de portefeuille jouaient un rôle essentiel dans le règlement de la discorde qui affligeait la famille Foord, mais il n’a pas précisé en quoi elles le faisaient. C’est comme si M. Lemiski espérait que, s’il signalait suffisamment de problèmes antérieurs à la réorganisation, j’en conclurais que l’existence distincte de ces sociétés aurait dû les régler. Lorsque je l’ai prié de clarifier en quoi les sociétés de portefeuille constituaient une solution à ces problèmes, il est devenu évasif, ne confirmant pas ma crainte que ces sociétés n’avaient rien à y voir et n’expliquant pas non plus pourquoi j’étais dans l’erreur.
+[52] M. Lemiski a expliqué que la gestion d’entreprise et le transfert ordonné des actions à la génération suivante (celle des petits-enfants de M. Foord) étaient deux questions importantes qui avaient été examinées dans les années précédant la réorganisation de 2007. Je retiens cette thèse. Il ressort clairement de la preuve que ces questions étaient les grands obstacles que la famille devait surmonter dans les négociations. On a fait appel à un certain nombre de conseillers externes pour qu’ils aident la famille à venir à bout de ces difficultés, mais je ne vois pas très bien comment l’existence distincte des sociétés de portefeuille aurait apporté une solution à ces problèmes d’une manière qu’une convention d’actionnaires globale n’aurait pu réussir à faire. Il me semble que ces questions auraient été d'actualité avec ou sans les sociétés de portefeuille et que, dans une certaine mesure, elles ont été amplifiées par l’avènement de ces sociétés de portefeuille. M. Lemiski est devenu évasif lorsque je lui ai demandé de préciser ce point. Je ferais également remarquer que ces questions n’ont pas été entièrement traitées avant quelque temps à la suite de la réorganisation de 2007. Enfin, je noterai que, si la famille a été aux prises avec ces problèmes pendant plus de cinq ans, presque rien n’a changé au sujet de la structure de l’entreprise au cours de cette période, d’où l’impression que l’existence des sociétés de portefeuille était motivée par autre chose que des préoccupations au sujet des transferts intergénérationnels et de la gestion d’entreprise.
+[53] M. Lemiski a expliqué l’importance pour certains membres de la famille Foord que la propriété des actions de KT Holdings ne tombe pas entre les mains de parents par alliance. Il a dit que, si une telle politique avait été mise en œuvre, cela aurait pu poser un problème si un enfant Foord était décédé avant son conjoint. Il a ajouté que la solution à ce problème était que KT Holdings prenne des polices d’assurance-vie sur les enfants et en utilise le produit pour racheter les intérêts de la société de portefeuille de l’enfant décédé dans KT Holdings. Il m’a apparemment invité à conclure que tel était un motif de l’existence distincte des sociétés de portefeuille. Je ne vois pas bien le rapport. Je reconnais que les rachats financés par l’assurance-vie sont une caractéristique courante des conventions d’actionnaires. Toutefois, je crois comprendre que ces rachats fonctionnent indépendamment de ce que les actions de l’actionnaire décédé soient détenues ou non par l’entremise d’une société de portefeuille. Là encore, M. Lemiski est devenu évasif lorsque je l’ai prié de bien me faire voir si j’avais mal compris son explication.
+[54] Au cours de l’audience, l’appelante a reconnu que la protection contre les créanciers n’était pas un motif de l’existence distincte des sociétés de portefeuille.
+[55] L’appelante soutient que la planification des placements constituait un principal motif de cette existence distincte. Je reconnais que des sociétés de portefeuille permettent communément aux actionnaires de prendre des décisions individuelles en toute efficacité fiscale quant à la façon de traiter les dividendes qu’ils reçoivent d’une société en exploitation. Certains actionnaires peuvent avoir besoin de tout l’argent pour acquitter leurs dépenses annuelles. Ceux‑là n'ont pad grand-chose à gagner du recours à une société de portefeuille. D’autres actionnaires peuvent ne faire aucun usage personnel de l’argent dans l’immédiat en préférant l'affecter à des placements passifs ou dans une autre entreprise. Pour ces actionnaires, la société de portefeuille offre une grande souplesse. Je crois comprendre que certains des enfants de M. Foord étaient mieux nantis financièrement que les autres. En théorie, ceux‑ci auraient eu plus intérêt à recourir à une société de portefeuille aux fins de planification de placements. Il reste que, comme le Kal Tire Partnership avait pour politique de ne pas répartir les bénéfices et que KT Holdings avait l’habitude de procurer aux actionnaires un revenu relativement modeste et l’objectif avoué de maintenir une telle politique, il est plus difficile de voir en quoi les enfants de M. Foord auraient bénéficié de l’utilisation de sociétés de portefeuille aux fins de planification de placements. Par les opérations sur dividendes et prêts, des dividendes importants ont été versés aux sociétés de portefeuille, mais pour être immédiatement prêtés en retour à KT Holdings. Il ne semble pas que ces sociétés aient eu la possibilité de conserver les fonds à leurs propres fins. Plus important encore, je me soucie non de l’avantage hypothétique qu’une société de portefeuille aurait pu procurer, mais plutôt de l’avantage réel que Mme Finch a tiré ou entendait tirer de l’appelante. Je n’ai aucune preuve de cet avantage. Bref, je ne suis pas disposé à tenir la planification de placements pour le motif principal de l’existence de la société de portefeuille de Mme Finch. Il n’existe aucune preuve directe qui va dans le sens de cette idée et il ressort de la preuve indirecte que la chose est improbable.
+[56] Un des avantages de la réorganisation de 2007 était la réduction de l’impôt futur payable par la succession de quatre des enfants de M. Foord. Il a découlé des gels successoraux qui transmettaient la croissance future de la valeur de Kal Tire aux générations suivantes. Il aurait été possible de geler directement les droits de chaque enfant sur KT Holdings. C’est ce qu’envisageait le plan de 1998. Toutefois, le recours individuel à des sociétés de portefeuille en application de ces gels a sans doute conféré plus de souplesse à chaque enfant en matière de planification successorale. Je reconnais qu’il s’agit peut-être là d’un des principaux motifs du recours aux sociétés de portefeuille et peut-être la raison pour laquelle KPMG a proposé ces sociétés dans la lettre de 2000.
+[57] En résumé, disons que, parmi les autres explications dont l’appelante a fait état au sujet de l’existence distincte des sociétés de portefeuille, il n’y a que celle de la planification successorale qui soit confirmée par la preuve.
+Conclusion
+[58] Compte tenu de tout ce qui précède, je conclus que la réduction d’impôt était le principal motif de l’existence distincte des sociétés de portefeuille. Il ressort de la preuve documentaire que cette réduction est devenue un motif principal dans le processus de planification et qu’elle a gardé son importance par la suite. Le montage initial proposé pour l’obtention des avantages fiscaux est celui qui a finalement été mis sur pied.
+[59] L’appelante a souligné quatre raisons possibles de l’existence distincte des sociétés de portefeuille : planification successorale pour les enfants Foord, maintien de la propriété au sein de la famille Foord, gestion d’entreprise et de partenariat et planification de placements.
+[60] Je conclus que la planification successorale pour les enfants de M. Foord constituait probablement un motif principal de l’existence distincte des sociétés de portefeuille en général. Il reste que, comme Mme Finch n’a pas témoigné, j’ignore si c’était là un motif principal de l’existence distincte de l’appelante.
+[61] Je rejette l'idée que le maintien de la propriété au sein de la famille Foord ait été un motif de l’existence distincte des sociétés de portefeuille. Le risque que la propriété sorte de la famille existait avec ou sans ces sociétés. Le risque ne pouvait être réduit par la création de sociétés de portefeuille, mais plutôt par des conventions d’actionnaires soigneusement formulées et des dispositions bien planifiées de rachat financé par l’assurance-vie.
+[62] Je rejette aussi l'idée que la nécessité d’une bonne gouvernance d’entreprise et de partenariat de KT Holdings et du Kal Tire Partnership constitue un motif de l’existence distincte des sociétés de portefeuille. Je conviens que la famille Foord était fort préoccupée par les questions de gestion, mais je ne peux accepter que ces soucis se soient réglés de quelque manière par la création de sociétés de portefeuille. Au contraire, il semble que cette création ait ajouté à la complexité de la gestion.
+[63] Je rejette aussi l'idée que la planification de placements soit un motif principal de l’existence distincte des sociétés de portefeuille. Aucune preuve ne vient des enfants de M. Foord pour appuyer cette position. La politique de vieille date de non-répartition des bénéfices de Kal Tire fait plutôt voir le contraire.
+[64] Compte tenu de tout ce qui précède, je conclus que l’appelante n’a pas démontré qu’il est raisonnable de considérer qu’aucun des principaux motifs de l’existence distincte de l’appelante n’est la réduction d’impôt. Voilà pourquoi je conclus que le paragraphe 256(2.1) joue : l’appelante est réputée avoir été associée à KT Holdings dans les années en question. Par conséquent, le paragraphe 125(5.1) a pour effet de réduire à néant le plafond d’affaires de petite entreprise dont disposait l’appelante.
+C. Évaluation de rechange
+[65] Selon l’évaluation de rechange du ministre, vu la règle générale anti-évitement (RGAE), l’appelante ne pouvait utilement réclamer la déduction accordée aux petites entreprises. Comme j’ai conclu que le paragraphe 256(2.1) jouait, je n’ai pas à considérer si la RGAE entre en jeu.
+D. Concession
+[66] L’appelante a déclaré le revenu d’intérêts qu’elle touchait de KT Holdings comme revenu d’une entreprise exploitée activement. Lorsqu’il a établi la nouvelle cotisation de l’appelante, le ministre a qualifié à tort ce revenu d’intérêts de revenu tiré de biens. Il a corrigé son erreur pour deux des années d’imposition, mais non pour la troisième. Au début du procès, l’intimée a reconnu que, quelle que soit l’issue du procès, il devait y avoir une nouvelle cotisation pour l’année d’imposition de l’appelante se terminant le 29 février 2012, de sorte que soit qualifié de revenu tiré d’une entreprise exploitée activement le revenu d’intérêts reçu de KT Holdings par l’appelante.
+E. Conclusion
+[67] Vu tout ce qui précède, il est fait droit à l’appel pour l’année d’imposition de l’appelante se terminant le 29 février 2012 comme effet de l’admission par l’intimée que le revenu d’intérêts reçu de KT Holdings par l’appelante était un revenu d’entreprise exploitée activement. Les appels des années d’imposition de l’appelante se terminant les 28 février 2013 et 2014 sont rejetés.
+[68] Les dépens sont adjugés à l’intimée. Les parties auront 30 jours à compter de la date des présentes pour conclure une entente sur les dépens, faute de quoi l’intimée aura 30 jours supplémentaires pour déposer des observations écrites sur les dépens et l’appelante aura encore 30 jours pour déposer une réponse écrite. Ces observations doivent tenir dans 10 pages au plus. Si les parties n’informent pas la Cour qu’elles sont parvenues à une entente et qu’aucune observation n’est reçue dans les délais qui précèdent, les dépens seront adjugés à l’intimée conformément au tarif.
+Signé à Ottawa, au Canada, ce 18e jour de janvier 2019.
+« David E. Graham »
+Juge Graham
+Traduction certifiée conforme
+ce 23e jour de juillet 2020.
+François Brunet, réviseur
+Annexe « A »
+Structure sociale avant 2007
+Annexe « B »
+Structure simplifiée après la réorganisation de 2007
+RÉFÉRENCE :
+2019 CCI 16
+NO DE DOSSIER DE LA COUR :
+2016-3757(IT)G
+INTITULÉ :
+JENCAL HOLDINGS LTD. c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Les 24, 25 et 26 octobre 2018
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge David E. Graham
+DATE DU JUGEMENT :
+Le 18 janvier 2019
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Michel Bourque
+Me Jacqueline A. Fehr
+Avocates de l’intimée :
+Me Whitney Dunn
+Me Lisa Macdonell
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Michel Bourque
+Me Jacqueline A. Fehr
+Cabinet :
+KPMG Law LLP
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Ces années-là, le plafond des affaires a varié de 200 000 $ à 400 000 $. Il s'est élevé à 500 000 $ en 2009 et est demeuré à ce niveau tout au long des années en question.
+[2] Chaque société de portefeuille recevait de KT Holdings des dividendes totaux d’environ 8,334 millions de dollars et prêtait en retour ces fonds à KT Holdings au taux d’intérêt de 6 %.
+[3] Des demandes semblables ont été produites par les sociétés de portefeuille de Colin Foord, Nancy Kurbis et Janet Bowers. Je crois comprendre que la société de portefeuille de Robert Foord était associée à une autre société qui avait déjà un revenu suffisant d’entreprise exploitée activement pour épuiser son plafond d’affaires de 500 000 $. L’impôt de Kal Tire Ltd. a également diminué à cause de la déduction de 2 500 000 $ que celle‑ci a pu demander au titre des intérêts payés sur les fonds empruntés par elle à KT Holdings.
+[4] Gerbro (infra) et Groupe Honco Inc. c. Camada, 2013 CAF 128.
+[5] 2016 CCI 173, au par. 154; confirmée 2018 CAF 197.
+[6] Le droit de M. Finch sur le partenariat est détenu par une société. Les détails de la propriété d’entreprise ne sont pas importants.
+[7] Comme Tom Foord et Ken Finch, Robert Foord détenait ses droits sur le partenariat par une société. Les détails de la propriété d’entreprise ne sont pas importants.
+[8] La pièce J-1, onglet 7, contient un plan détaillé et la pièce J-1, onglet 21, pages 12 à 20, les diapositives ayant servi à expliquer ce plan.
+[9] La pièce J-1, onglet 21, pages 7 à 11 contient une note de service préparée par Ken Kurbis qui vise à exposer ce qu’il est advenu du plan de 1998. Ce document relève du ouï-dire. L’intimée ne s’est pas opposée à ce qu’il soit déposé en preuve, mais comme M. Kurbis n’a pas témoigné et que j’envisage avec certaines réserves la nécessité de m’appuyer sur cette preuve sans son témoignage et de me fier aux vues qui y sont exprimées, je n’ai accordé aucun poids à ce document.
+[10] Pièce J-1, onglet 18.
+[11] Pièce J-1, onglet 19, p. 3.
+[12] Pièce J-1, onglet 19, p. 5.

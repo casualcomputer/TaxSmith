@@ -1,0 +1,188 @@
+---
+title: "Attia v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/70761/index.do"
+last_modified: "2014-03-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 46"
+citation2: ""
+neutral_citation: "2014 TCC 46"
+decision_date: "2014-03-28"
+language: "en"
+item_id: "70761"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5330
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:51:24.588000+00:00"
+cases_cited_count: 9
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b31ced41d3d4c75acbb4aa086cca48d3a49a0435ba7c7beebfc301341fe42bcf"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Attia v. The Queen
+
+- Citation: 2014 TCC 46
+- Decision date: 2014-03-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5330, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Attia v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-03-28
+Neutral citation
+2014 TCC 46
+File numbers
+2011-3344(GST)G
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2011-3344(GST)G
+BETWEEN:
+ABDERRAHMANE ATTIA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on October 22, 2013, at Montreal, Quebec.
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Counsel for the Appellant:
+Philippe H. Bélanger
+Olivier Coche
+Counsel for the Respondent:
+Philippe Morin
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made in respect of the appellant under subsection 323(1) of the Excise Tax Act is allowed, with costs.
+Signed at Ottawa, Canada, this 28th day of March 2014.
+“Paul Bédard”
+Bédard J.
+Translation certified true
+on this 27th day of November 2014.
+Erich Klein, Revisor
+Citation: 2014 TCC 46
+Date: 20140328
+Docket: 2011-3344(GST)G
+BETWEEN:
+ABDERRAHMANE ATTIA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] This is an appeal from an assessment, the notice of which is dated September 29, 2010, and bears the number F-027420, made in respect of the appellant under subsection 323(1) of the Excise Tax Act (ETA). At issue is whether, as a director of Shan Cha Investissements Inc. (the corporation), the appellant should be held solidarily liable, together with the corporation, to pay $13,617.66, being the amount of net tax the corporation failed to remit, plus interest, for the periods from January 1, 2007, to January 31, 2007, from April 1, 2007, to October 31, 2007, from December 1, 2007, to January 31, 2008, from April 1, 2008, to April 30, 2008, and from June 1, 2008, to August 31, 2008 (the periods at issue).
+[2] It should be noted right away that the only issue in this case is whether the appellant is entitled to exemption from directors’ liability under section 323 of the ETA. Indeed, under the provisions of subsection 323(3) of the ETA, a director may escape solidary liability if the director shows that he or she exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances. In other words, it falls to be determined in this case whether the appellant exercised reasonable care, diligence and skill in the circumstances to prevent the failures attributed to the corporation.
+Parties’ positions
+[3] The appellant is of the view that the care, diligence and skill defence set out in subsection 323(3) of the ETA applies to him given that, because of the state of his health, his cognitive abilities were impaired. Even so, in his capacity as a director he acted with prudence and in good faith by delegating his duties to a competent manager. The respondent does not believe that the appellant took concrete and positive steps to prevent the corporation’s failures.
+Summary of the evidence
+[4] The appellant testified. Dr. Caroline Morin and Dr. Hélène Poupart also testified in support of the appellant’s position. Sonia Bergeron and Abdoulrahman Syradin testified in support of the respondent’s position.
+[5] The highly credible testimony of Dr. Morin, a general practitioner, reveals essentially the following facts:
+(i) The appellant has been her patient since July 26, 2004.
+(ii) On September 7, 2005, she observed that the appellant was suffering from major depression and prescribed at that time antidepressants. She also later referred him to another doctor for a psychological follow-up, having noted that, in the circumstances, medication alone was not sufficient to cure the appellant.
+(iii) She treated the appellant for his major depression until December 4, 2009.
+(iv) Although she had prescribed antidepressants for the appellant from the outset, he did not start taking them until July 6, 2007. The appellant stopped taking the medication on December 4, 2009.
+(v) The appellant’s illness has certainly had an impact on his professional life (see also Exhibit A-1, Tab 4A, pages 1 and 3).
+[6] The testimony of Dr. Hélène Poupart (a general practitioner who practises solely as a psychotherapist), whose credibility is not in doubt, revealed essentially the following facts:
+(i) The appellant was referred to her by Dr. Morin.
+(ii) She treated the appellant during the period from October 12, 2007, until January 2011.
+(iii) When she first saw the appellant, on October 12, 2007, he told her that he had been suffering from insomnia since 2003, had no appetite, had memory loss, could no longer concentrate, was crushed by fatigue, experienced anxiety and irritability, was tormented by the obligations related to his business and, lastly, no longer wanted to get up in the morning. Dr. Poupart accordingly confirmed her colleague Dr. Morin’s diagnosis of major depression, which Dr. Poupart described as mild to moderate.
+(iv) During the period from October 12, 2007, to January 2011, she regularly treated the appellant.
+(v) The appellant’s illness has certainly had an impact on [Translation] “his functioning at work”.
+[7] For his part, the appellant, whose credibility is not in doubt, gave the following testimony.
+(i) He founded the corporation in 1994, and he was its only director and shareholder.
+(ii) The corporation operated a coffee shop [Translation] “under the Second Cup banner”.
+(iii) Before the periods at issue, the corporation had always met its tax obligations, but sometimes was late remitting the tax (some cheques bounced).
+(iv) In 2003, he lost his father.
+(v) In 2004, the Second Cup’s parent company informed him that it would take away his franchise in five years.
+(vi) These two events caused his depression.
+(vii) Since he was no longer in any state to run his business, which was his only source of income, he hired Sonia Bergeron around April 16, 2007, to manage his business in his place.
+(viii) Sonia Bergeron had powers of attorney to sign the corporation’s cheques starting on August 1, 2007, and to represent it in its dealings with the Agence du revenu du Québec starting on November 12, 2007.
+(ix) The corporation was no longer a Second Cup franchise around August 2008, which also ended Ms. Bergeron’s mandate.
+[8] For the respondent, Sonia Bergeron testified as follows:
+(i) She had been a food service industry consultant since 2004.
+(ii) She was employed by the appellant from April 12, 2007, until August 2008, to straighten out the corporation’s operations.
+(iii) Uncustomarily, she also managed the corporation’s finances because of the state of the appellant’s health.
+(iv) During her mandate, she negotiated with Abdoulrahman Syradin, a collections officer at the Agence du revenu du Québec, in order to try to reduce the corporation’s tax debt, and she kept the appellant abreast of the discussions.
+[9] Mr. Syradin corroborated this version of the facts.
+Analysis and conclusion
+[10] The legal framework applicable to the care, diligence and skill defence set out in subsection 323(3) of the ETA was recently briefly explained as follows by the Federal Court of Appeal in Canada v. Buckingham[1] and Balthazard v. Canada:
+a. The standard of care, skill and diligence required under subsection 323(3) of the Excise Tax Act is an objective standard as set out by the Supreme Court of Canada in Peoples Department Stores Inc. (Trustee of) v. Wise, 2004 SCC 68, [2004] 3 S.C.R. 461. This objective standard has set aside the common law principle that a director’s management of a corporation is to be judged according to his or her own personal skills, knowledge, abilities and capacities. However, an objective standard does not mean that a director’s particular circumstances are to be ignored. These circumstances must be taken into account, but must be considered against an objective “reasonably prudent person” standard.
+b. The assessment of the director’s conduct, for the purposes of this objective standard, begins when it becomes apparent to the director, acting reasonably and with due care, diligence and skill, that the corporation is entering a period of financial difficulties.
+c. In circumstances where a corporation is facing financial difficulties, it may be tempting to divert these Crown remittances in order to pay other creditors and thus ensure the continuity of the operations of the corporation. That is precisely the situation which section 323 of the Excise Tax Act seeks to avoid. The defence under subsection 323(3) of the Excise Tax Act must not be used to encourage such failures by allowing a care, diligence and skill defence for directors who finance the activities of their corporation with Crown monies, whether or not they expect to make good on these failures to remit at a later date.
+d. Since the liability of directors in these respects is not absolute, it is possible for a corporation to fail to make remissions to the Crown without the joint and several, or solidary, liability of its directors being engaged.
+e. What is required is that the directors establish that they were specifically concerned with the tax remittances and that they exercised their duty of care, diligence and skill with a view to preventing a failure by the corporation to remit the amounts at issue [not that they show that they subsequently corrected the failures].[2]
+[11] By adopting such a criterion of prudent and diligent conduct, the Federal Court of Appeal hoped to oblige corporations to improve the quality of decisions of boards of directors and, especially, to discourage the use of nominees as directors. As noted by Justice Mainville:
+. . . Stricter standards also discourage the appointment of inactive directors chosen for show or who fail to discharge their duties as director by leaving decisions to the active directors. Consequently, a person who is appointed as a director must carry out the duties of that function on an active basis and will not be allowed to defend a claim for malfeasance in the discharge of his or her duties by relying on his or her own inaction . . . .[3]
+[12] I am not dealing here with a case of the type that the Federal Court of Appeal was seeking to discourage by laying down the new test of prudent and diligent conduct, as the appellant is by no means a nominee director or a director who was unaware of the responsibilities inherent in his role.
+[13] Indeed, the appellant was the sole director of the corporation, and until he became ill, the corporation had always met its tax obligations, even though it had sometimes been late. In addition, the fact that he appointed a competent manager to replace him until he got back on his feet shows that he was aware of his responsibilities.
+[14] The evidence adduced satisfied me that the appellant suffered from major depression during the periods at issue, and it is common knowledge that depression is a disabling condition that affects the family life, the work, the eating habits, the sleep and the general well-being of those who suffer from it. Although it is not in itself a defence, I believe that this factor is one that must be taken into account in analyzing the appellant’s conduct.
+[15] As noted by Judge Bowman (as he then was) in Cloutier v. M.N.R.,[4] to determine whether the due diligence defence applies, one must ask first and foremost what more a reasonably prudent person placed in comparable circumstances could have done to try to prevent the corporation’s failures to remit GST. In this case, I believe that the appellant has shown a sufficient degree of diligence in delegating his duties to a competent manager, whose competence and honesty he had no reason to doubt, and I believe that a reasonable person placed in comparable circumstances would have done nothing more.
+[16] The appellant took a concrete and positive step to try to prevent the corporation’s failures to remit GST. He did not simply let his corporation decline, as was the case with the appellant in Wiseman v. The Queen.[5] In that case, the appellant was the sole director of a corporation. However, it was his wife who handled the administrative and accounting aspects of the corporation. When his wife got brain cancer, he became anxious and depressed and he no longer took any interest in his corporation. Justice Little found that the appellant had done nothing to prevent the corporation’s failures to remit GST and held him jointly and severally liable for the failures, but recommended nevertheless that the penalties and interest be reduced.
+[17] It is true that the usual case law recognizes that a director may delegate his or her duties to a competent third party only if the delegation of responsibility is accompanied by appropriate oversight.[6]
+[18] In this case, the respondent argues that the appellant did not supervise Ms. Bergeron in the performance of her duties, and thus makes an analogy with Constantin v. The Queen[7] in order to hold the appellant solidarily liable for the corporation’s failures to remit GST. However, that decision is not relevant for our purposes, because the facts of that case are completely different from those herein. That case involved the abdication of all decision-making powers in favour of the spouse, not the delegation of powers. The spouse subsequently accepted the position of director of the corporation without knowing what it entailed, and she never assumed any responsibility, which is not the case of the appellant here.
+[19] I do not think that the duty of oversight should be interpreted too narrowly. As recognized by Justice Angers in Verret v. The Queen,[8] which has similar facts to those in this case, one must consider the fact that the appellant’s health problems led him to rely more on Ms. Bergeron’s honesty and competence. In addition, in Buckingham and Balthazard, the Federal Court of Appeal itself has acknowledged that directors’ liability under subsection 323(1) of the ETA is not absolute.
+[20] I do not think that, in enacting subsection 323(1) of the ETA, Parliament’s intent was to penalize an ill person simply because that person did not adequately supervise the person whom he or she appointed to replace him or her in the exercise of the duties of director of a corporation. I believe that Parliament’s intent was rather to penalize directors who were careless and who neglected their role as agents of the Crown, and I do not believe that the appellant displayed such conduct in this case.
+[21] For these reasons, the appeal is allowed with costs.
+Signed at Ottawa, Canada, this 28th day of March 2014.
+“Paul Bédard”
+Bédard J.
+Translation certified true
+on this 27th day of November 2014.
+Erich Klein, Revisor
+CITATION: 2014 TCC 46
+COURT FILE NO.: 2011-3344(GST)G
+STYLE OF CAUSE: ABDERRAHMANE ATTIA v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: October 22, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: March 28, 2014
+APPEARANCES:
+Counsel for the appellant:
+Philippe H. Bélanger
+Olivier Coche
+Counsel for the respondent:
+Philippe Morin
+COUNSEL OF RECORD:
+For the appellant:
+Name: Philippe H. Bélanger
+Olivier Coche
+Firm: McCarthy Tétrault LLP
+Montreal, Quebec
+For the respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2011 FCA 142, [2013] 1 F.C.R. 86 (Buckingham).
+[2] 2011 FCA 331, [2012] G.S.T.C. 25, paragraph 32 (Balthazard).
+[3] Buckingham, paragraph 38, where Justice Mainville refers to an excerpt from the book by Kevin Patrick McGuinness, Canadian Business Corporations Law, 2nd ed. (Markham, Ont.: LexisNexis, 2007), §11.9.
+[4] [1993] T.C.J. No 103 (QL), paragraph 7; 93 DTC 544, pages 545-546.
+[5] 2011 TCC 215.
+[6] Kaur v. The Queen, 2013 TCC 227; Chell v. The Queen, 2013 TCC 29; Stafford v. The Queen, 2009 TCC 247.
+[7] 2012 TCC 425.
+[8] 2008 TCC 240.

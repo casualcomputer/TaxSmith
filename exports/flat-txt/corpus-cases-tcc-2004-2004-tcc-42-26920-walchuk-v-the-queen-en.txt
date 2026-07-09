@@ -1,0 +1,212 @@
+Title: Walchuk v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26920/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-42-26920-walchuk-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-01-16
+
+# Walchuk v. The Queen
+
+- Citation: 2004 TCC 42
+- Decision date: 2004-01-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 726, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Walchuk v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-01-16
+Neutral citation
+2004 TCC 42
+File numbers
+2001-2039(IT)G
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2001-2039(IT)G
+BETWEEN:
+RICK WALCHUK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on January 5, 2004, at Calgary, Alberta
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+H. George McKenzie, Q.C.
+Counsel for the Respondent:
+Carla Lamash
+____________________________________________________________________
+JUDGMENT
+Whereas counsel for the Appellant informed the Court that he was conceding the appeals for the 1996 and 1997 taxation years should be dismissed;
+The appeals from assessments of tax made under the Income Tax Act for the 1996, 1997 and 1998 taxation years are dismissed. Costs to the Respondent.
+Signed at Ottawa, Canada, this 16th day of January, 2004.
+"Campbell J. Miller"
+Miller J.
+Citation: 2004TCC42
+Date: 20040116
+Docket: 2001-2039(IT)G
+BETWEEN:
+RICK WALCHUK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Miller J.
+[1] The Appellant, Mr. Rick Walchuk, a stockbroker by trade, invested as a partner in a restaurant in Greece in the mid-1990s. Over a three-year period he poured over $400,000 into this venture. The restaurant did not fare well and ceased operations in 1998. Mr. Walchuk's position is that his $413,000 investment in the partnership was an adventure in the nature of trade and, therefore, fully deductible as a loss on disposition on income account in 1998. The Respondent's position is that Mr. Walchuk's partnership investment was simply the acquisition of a capital interest in a partnership. The Respondent allowed a $413,880 capital loss on the disposition of the partnership interest as a result of the cessation of operation of the partnership. I agree with the Respondent.
+[2] At the outset of the trial, Mr. McKenzie, acting for Mr. Walchuk, indicated that the appeals for 1996 and 1997 should be dismissed. These appeals related to business losses of the partnership claimed by Mr. Walchuk which according to Mr. McKenzie, Mr. Walchuk could not adequately document. Similarly for 1998, Mr. McKenzie advised that for the same reason, Mr. Walchuk was not arguing for the deductibility of any operating business losses, but the sole issue in this case was whether Mr. Walchuk's investment in the partnership was on income or capital account. Mr. McKenzie accepted the following assumptions put forward by the Crown:
+14(b) on or about June 20, 1995, the Appellant and an individual named Panagiotis Vassios ("Vassios") entered into a partnership agreement, ("hereinafter referred to as the Partnership");
+(c) Vassios was not a resident of Canada;
+(d) the said Partnership was to establish a restaurant named Ilion to be located in Glyfada, Athens, Greece;
+(e) the Appellant and Vassios were to be equal partners in the Partnership;
+(f) Ilio Management of Restaurant and Catering Services, Anonymous Company ("Ilio AE") was a corporation incorporated under the laws of Greece;
+(g) Ilio AE was not resident in Canada;
+(h) Ilio AE operated the restaurant Ilion;
+...
+(j) the Appellant was not a shareholder of Ilio AE;
+(k) the Partnership was not a shareholder of Ilio AE;
+(l) the Appellant advanced funds totalling no more than $413,380 to the Partnership throughout the 1996, 1997 and 1998 taxation years;
+...
+(n) in 1998, Ilion ceased operations and Ilio AE became insolvent;
+(o) the Partnership was dissolved in 1998 after Ilion ceased operations;
+(p) the Appellant acquired an interest in the Partnership (the "Partnership Interest") when he entered into the Partnership with Vassios;
+...
+(r) the adjusted cost base of the Partnership Interest to the Appellant at the time the Partnership was dissolved was $413,380;
+(although Mr. McKenzie would not use the term "adjusted cost base)
+(s) the Appellant disposed of his Partnership Interest when the Partnership was dissolved;
+[3] Mr. Walchuk described himself as a high-risk broker. During the relevant years of 1995 to 1998, he was employed by Yorkton Securities Inc. in Calgary. His clients knew that Mr. Walchuk's philosophy was to seek large rewards on a minority of investments which would more than offset losses on the majority. Mr. Walchuk also invested in the market on his own account. His 1996 to 1998 tax returns indicated gains or losses on such trading were on income account. His 1996 return also showed a capital loss of $30,000 on the disposition of shares in the No Name Café, a Calgary restaurant. Mr. Walchuk indicated this was reported as a capital loss because the restaurant was intended to be a long-term investment. He described this as akin to a dining club.
+[4] With respect to the investment in the restaurant in Greece, Mr. Walchuk was first approached by a client of his, Mr. Panagiotis Vassios in late 1994, with the idea of partnering in the Greek restaurant. Mr. Vassios had run a restaurant in Canada for a number of years, but in 1993 retired to Greece. He ran a slouvaki-pizza stand in Athens for a brief period of time but was looking for something bigger. Mr. Vassios advised Mr. Walchuk that two other people were interested in the restaurant; one with some considerable restaurant background who would contribute his expertise, and another who would help with the financing. Mr. Walchuk first testified that the arrangement was a partnership of the four individuals, though later indicated that he really considered just himself and Mr. Vassios as partners. There is no written agreement at the outset though in 1999 Mr. Walchuk requested, and received, the following from Mr. Vassios (translated from Greek):[1]
+Official Translation from Greek into English
+Exhibit "B"
+INDIVIDUAL AGREEMENT
+Date at Athens Tuesday, June 20, 1995, between Mr. Panagiotis Vassios, business man, resident of Glyfada, specifically at, 1 Giannitsopoulou Street on the first part and, Mr. Rick Walchuk, businessman, resident of Canada, on the second, agreed and entered into a joint agreement on the following:
+The above name parties have decided to enter into a joint venture as equal partners, sole purpose of which will be the establishment of a restaurant in which both parties will have a 50% interest, the name of which shall be "ILION" to be located in Glyfada, at 1 Giannitsopoulou Street.
+It is further agreed that both partners will equally share profits and losses by 50% each.
+After accepting and agreed on the above conditions, both parties affix their signatures and received a copy of the present document.
+Signatures
+(Signature ineligible)
+[5] Mr. Walchuk sought advice from his accountant as to how to structure this investment and was advised to go the partnership route, rather than invest in shares, so that he could deduct losses against his income account. Mr. Walchuk testified that it was his intention to build the restaurant up and then sell it, hoping to double, triple or quadruple his investment. There was no business plan as such, nor any pro formas or other projections. There was no written agreement at that time with respect to his investment. Mr. Walchuk indicated that he had no interest in being a long-term owner of a restaurant, given restaurants' notoriety for losses.
+[6] Due to problems with the contractor and licensing issues, the tapas-style restaurant did not open until May 1996, several months later than projected. The restaurant premises were leased under a nine-year lease. The business was operated by Ilio Management of Restaurant and Catering Services (Ilio). There was no evidence of the arrangement between the partnership and Ilio. Indeed the difficulty with this matter is that Mr. Walchuk is unable to clearly explain the true legal nature of the arrangement, other than he put money into a restaurant in Greece.
+[7] By the time the restaurant opened, Mr. Walchuk had forwarded approximately $50,000 to Mr. Vassios. Mr. Walchuk was concerned that he personally could not afford to continue this investment so he approached a couple of his clients who agreed to take over 90 or 95% of Mr. Walchuk's position for $50,000, the amount Mr. Walchuk had invested. On May 1, 1996, Mr. Walchuk wrote to Regency Salvage Inc. (Regency), his client:[2]
+Regency Salvage Inc.
+Cockburn Town
+Grand Turk, TCI
+Attn: Ervin Quelch
+Dear Sir:
+With respect to our discussions of your purchase of 90% of my 25% interest of Ilio Restaurants of Athens Greece.
+1) Discussions with the lawyer of Ilio have set the wheels in motion to instieate [sic ]the transfer of shares to Regency.
+2) Purchase price of $50,000 CDN of which $27,500 CDN to be paid immediately and the balance $22,500 CDN to be paid on or before May 31, 1996 interest free.
+I trust this is satisfactory.
+Yours truly,
+"Rick Walchuk"
+Rick Walchuk
+[8] A subsequent correspondence referred to a 95% interest in the 25% interest in Ilio. The arrangement continued for only a few months. In October 1996, Mr. Walchuk bought back his interest from Regency for $162,500 to, as he put it, "keep his clients happy". Mr. Walchuk testified that this represented the amount Regency had put into the restaurant (including the $50,000 originally paid to Mr. Walchuk). Mr. Walchuk was not personally able to come up with all of the funds and therefore approached his employer, Yorkton, to lend him $112,500 to complete the purchase. He has since repaid this amount. During the few months of Regency's ownership, Mr. Walchuk himself injected an additional $47,000 into the project.
+[9] It was clear that by the end of 1996, the tapas-style restaurant was not working, so renovations were undertaken to change the nature of the restaurant to one more appealing to the Greek community. Mr. Walchuk continued to pour money into the project. The parties agreed that the final tally was approximately $413,000, though a schedule provided by Mr. Walchuk to Canada Customs and Revenue Agency (CCRA) suggested some confusion as to the accuracy of this amount.
+[10] At some point, the other two original participants in the restaurant had their interests diluted to nothing, according to Mr. Walchuk. There is no written evidence of how this actually occurred.
+[11] The restaurant continued to struggle and in 1998 Mr. Walchuk flew a prospective purchaser to Greece to review the possibility of acquiring the restaurant. This did not prove successful and the restaurant closed shortly thereafter. The company, which operated the restaurant, became insolvent. As Mr. Vassios put it in a letter to CCRA of December 1999:[3]
+Mr. Walchuk was my partner in a restaurant located in Athens, Greece. The corporate name of my company was Ilio AE.
+I hereby swear that Mr. Walchuk's funds were invested in this business and used in the day to day operations.
+Due to the insolvency and closure of this company the accountant has not been paid and therefore will not release the financial statements until he is paid.
+[12] During the life of the partnership with Mr. Vassios, Mr. Walchuk went to Greece 30 to 35 times. There is little evidence of what he did on these numerous occasions. For the years 1996 to 1998, Mr. Walchuk reported business losses from this business in amounts of $77,700, $104,300 and $48,085, respectively. He did not report a business loss from the disposition of his partnership interest on the closure of the restaurant. In his initial objection of March 20, 2000 he indicated:[4]
+I object to the reassessment of my 1998, 1997 and 1996 returns.
+I object for the following reasons:
+1. I was in business in a restaurant in Greece and have proved by cancelled cheques that I was in business. My business loss has been disallowed.
+The business loss Mr. Walchuk was referring to was the restaurant's operating loss, not the loss from disposition of the partnership interest on closure, of which there was no mention.
+[13] The issue is whether Mr. Walchuk's loss of $413,880 on the disposition of his partnership interest is on income or capital account. Mr. McKenzie suggested the only question that has to be answered in resolving this issue is why did Mr. Walchuk make this investment. His answer of course is that Mr. Walchuk made this investment for one reason only - to resell as soon as possible at a profit. Clearly, therefore, according to Mr. McKenzie, on income account. Any confusion as to the nature of the investment, according to Mr. McKenzie is immaterial. This, I suggest, puts too great an emphasis on Mr. Walchuk's stated intention after the fact, without a more elaborate review of all the circumstances and Mr. Walchuk's whole course of conduct. I therefore analyze the matter on the following basis.
+[14] Was this property, the partnership interest, held as an investment or as an adventure in the nature of trade? In answering that question, it is necessary to consider the following:
+(i) What was the nature of the property?
+(ii) What was Mr. Walchuk's intention?
+(iii) What was the nature of Mr. Walchuk's business?
+(iv) What other circumstances suggest the disposition of the business was a scheme of Mr. Walchuk's for profit making?
+Nature of Property
+[15] The property at issue in these appeals is Mr. Walchuk's partnership interest. Mr. McKenzie made the valid point that such an interest is property, and any property is capable of being capital or inventory. He referred to several cases, dealing with shares, licenses and other forms of property being found to be on income account. I wish only to address his reliance upon Martin Taiger v. M.N.R.,[5] which was the one case that dealt with a partnership interest. The interest held by Taiger was a 45% partnership or undivided ownership interest in a lot of land. That interest, along with the other 55%, was reconstituted amongst new partners by way of a transfer of a 60% undivided interest in the real property to six new owners. It was argued that was simply a reconstruction of the partnership and nothing had been disposed of justifying the imposition of any tax. The Tax Appeal Board concluded that:[6]
+I have reached the conclusion that the transaction (upon which the appeal turns) constitutes a dealing in real estate and the profit derived is taxable. ...
+Given this finding, I do not accept this case as any authority for the proposition that a partnership interest was sold on income account. It was the real property that was sold. Mr. McKenzie has referred me to no other case where a partner has successfully claimed a disposition of a partnership interest on income account. I do not conclude this is not possible, but the circumstances must be clearer than Mr. Walchuk's. A partner, by nature, carries on business with a view to profit, not from resale, but from the ongoing business. That is the nature of a partnership interest. For income tax purposes the partnership interest is treated as capital property, separate from the assets of the partnership. The Respondent raised several cases simply confirming this basic point (D & B Oilfield Contracting Ltd. v. M.N.R.; Mihelakos v. R., Stursberg v. M.N.R.; M.N.R. v. Strauss; and Marion Estates Ltd. v. M.N.R.).[7]
+[16] The partnership unit may have some similar characteristics to a share in that it too constitutes something which, by its nature is an investment, and not itself, an ordinary transferable widget. However, to overcome the normal status of a partnership unit as capital property is a more onerous task than doing likewise for shares, simply due to the nature of the structure. There are ready markets for shares. The owner of the share is not coincidentally the owner of the business' underlying assets. The partner, however, is both the owner of the capital property, the partnership interest, and the owner of the underlying assets, the business itself. This is only to indicate that to claim there are two businesses there must be compelling, convincing evidence that the dealing with the one - the partnership unit - is distinct and separate from the dealing with the other. I have not been convinced that Mr. Walchuk's dealing with his partnership interest was such that its nature was converted from the normal nature of capital property to inventory.
+Intention
+[17] Mr. Walchuk stated it had been his intention from the outset to build up the restaurant and resell it at a profit. This statement must be assessed in light of all the circumstances of the investment, and particularly what Mr. Walchuk actually did at the time and following. Once reviewed in that light, I have serious reservations as to the veracity of Mr. Walchuk's stated intention.
+[18] There is no question that Mr. Walchuk carried on a business in some arrangement, which the parties have agreed was a partnership arrangement. Mr. Walchuk sought professional advice at the outset and followed that advice to not invest in shares of a Greek company that would run a business, but to directly be a partner in the restaurant. Curiously, the business appears to have still been run by a company, and there is no evidence as to the arrangement between the operating company and Mr. Walchuk's and Mr. Vassios' partnership. Somehow, however, Mr. Walchuk and Mr. Vassios were to share the profits and losses of the restaurant business. I am not going to guess at whether there was an agency or maybe even a management contract. I am satisfied that Mr. Walchuk believed he was a partner in the restaurant business, and the minimal documented evidence supports that finding. The point is that Mr. Vassios and Mr. Walchuk intended to, and in fact did, as the very definition of a partnership demands, carry on a restaurant business with a view to profit. Mr. Walchuk attempted to deduct his business losses in 1996, 1997 and 1998 as a partner in the restaurant business. What he owned, however, was a partnership interest. It is critical to view Mr. Walchuk's stated intention in light of a very real intention to carry on a restaurant business for profit.
+[19] Mr. McKenzie acknowledges that it is not the restaurant business itself, but the acquisition and disposition of the restaurant business though the purchase and sale of a partnership interest that is the adventure in the nature of trade. But, he claims, Mr. Walchuk, the partner, only carried on the restaurant business in common with Mr. Vassios with a view to profit from the business, so that he could enhance the value of the business to resell the partnership interest at a profit. Viewed in this light, every proprietor or partner of a new enterprise runs the risk of a disposition of the business being on income account, as every such entrepreneur intends to enhance the value of his or her business.
+[20] I turn now to the specifics of the business to see if Mr. Walchuk's intention re his partnership interest was so different from any partner in a fledging partnership. First, who were Mr. Walchuk's partners? They were Mr. Vassios and at least one other with an extensive restaurant background. Were these individuals in for the long haul or a quick enhancement and flip of the business? We do not know. Neither testified. Mr. McKenzie wants us to infer that because Mr. Vasious retired to Greece, he would not want to run a restaurant over the longer term. It is an equally, if not a more viable inference, that the restaurant would provide an ongoing income to Mr. Vassios. He ran a restaurant in Canada for several years. Indeed, the evidence was that he has since returned to North America and continues to run a restaurant.
+[21] Mr. Walchuk went to Greece 30 to 35 times over the life of the restaurant. Mr. McKenzie suggested this is evidence of someone intent on enhancing the value of his property for future sale. I simply do not accept that thesis, especially as Mr. Walchuk offered no explanation as to the nature of his many visits. The fact is Mr. Walchuk was a partner in a restaurant business and clearly spent some considerable time physically present at the business. That does not tip the balance in favour of an intention to enhance the value more than an intent to simply assist as a partner in carrying on the business. The obvious dilemma I am faced with is that actions taken by Mr. Walchuk in connection with the business can support an intention to carry on the restaurant business with a view to profit equally with an intention to enhance the value of the business with a view to resell at a profit. In both cases, the owner wants to make the business profitable.
+[22] This is not however like the situation in the case of Becker v. R.,[8] which Mr. McKenzie relied upon. In Becker, the Appellant acquiredshares in a lumber company that was in financial difficulties, with an intention proven at that time, to transform a failing enterprise into a profitable one and then sell it as soon as possible. Justice LeDain of the Federal Court of Appeal distinguished Becker[9] from Irrigation Industries Ltd. v. M.N.R.[10] as follows:
+It appears from the foregoing passages in the reasons of the Trial Judge that he was distinguishing between the immediate or motivating purpose of the appellant and what the appellant intended to do 'eventually', and that he considered the decision in Irrigation Industries reflected this distinction. In my respectful opinion that was a misunderstanding of the judgment in that case. In Irrigation Industries it was clear that the shares were purchased with the intention of selling them for a profit as soon as possible, but the majority held that this was not sufficient by itself to give the transaction the character of trade. An important difference between Irrigation Industries and the present case is that the BCP venture did not simply involve a purchase of shares with an intention to resell them for a profit, but the purchase of a business with the intention of transforming it in order to turn it into a profitable enterprise.
+...
+... In my opinion, if the appellant's testimony is to be taken as credible, and it cannot be treated otherwise by this Court in view of the position taken by the Trial Judge on the question of credibility, there is only one conclusion that can properly be drawn from it, and that is, that it was the appellant's intention, upon changing the nature of BCP's business and making it profitable, to sell it as soon as possible for a profit.
+[23] Two important considerations arise from Becker; first, the Appellant's stated intention of resale at a profit must be taken as credible, and second the intention must be to transform the business. Bear in mind also, Becker deals with shares.
+[24] With respect to the first point, I have doubts of Mr. Walchuk's credibility regarding his stated intention due to the following:
+- no evidence at the time of his initial investment of such stated intention;
+- entering the partnership with a couple of restauranteurs;
+- lack of corroboration from Mr. Vassios;
+- lack of corroboration from any representative of Yorkton;
+- lack of corroboration from any representative of Regency;
+- lack of corroboration from Mr. Walchuk's accountant;
+- lack of reporting the business loss from the closure of the business in his 1998 return; and
+- lack of any mention in his initial objection of this issue.
+[25] With respect to the second point, this was not a case of taking over a failing business and turning it around. This was a case of starting a restaurant business. There was no transformation going on - there were just the usual hopes and expectations of a new business that it would succeed. There is nothing extraordinary to suggest the intention went beyond what is normal in a new enterprise.
+[26] For these reasons, I do not accept that Mr. Walchuk had an intention, any different from any partner in a new enterprise, that would turn an investment into an adventure in the nature of trade.
+Nature of Mr. Walchuk's business
+[27] As a broker in high-risk investments, who reported trades in securities on income account, does Mr. Walchuk deserve similar treatment for this similar high-risk investment? I do not believe so. In reviewing his 1996, 1997 and 1998 returns, there is no indication that any of the trading income or losses derived from dealing with partnership units. Further, the only investment in a restaurant, other than Ilion, was in 1996 in shares of the No Name Café. This disposition was reported on capital account, as according to Mr. Walchuk, it was intended to be a dinner club for a long-term duration. I am not swayed that trading in shares is sufficient background to conclude that entering a restaurant business in partnership with a restauranteur client constitutes trading in partnership units.
+Any other circumstances
+[28] Mr. McKenzie raised the following circumstances to indicate this was an adventure in the nature of trade:
+- it would be difficult for Mr. Walchuk to monitor an ongoing business in Greece in the long term.
+Given Mr. Walchuk's frequent trips to Greece, this does not hold water.
+- if Mr. Walchuk had been interested in the business in the long term, he would have sought more documentation by way of business plans, pro formas, etc.
+This does not appear to be Mr. Walchuk's modus operandi. He attempted to deduct considerable sums with no supporting documents. He sold his interest on the basis of a handwritten note. His schedule summarizing monies into the partnership was suspect. He ultimately invested over $400,000 with virtually no documentation. My overall impression is that diligence and documentation were simply not important to Mr. Walchuk. It had nothing to do with a long term versus quick flip intention.
+- the return of Mr. Walchuk's capital was entirely dependent on a sale of the business.
+There was no evidence of financial projections to support this contention: this was at best conjecture. Certainly, at the time of the initial $35,000 investment, there was no evidence suggesting it was anyone's, including Mr. Walchuk's, belief that a sale of the business was the only way to recover his investment.
+[29] In conclusion, there was only one business Mr. Walchuk was involved with - the restaurant business in Greece. Its disposition by insolvency was a capital disposition. He did not adventure in partnership units. The case is dismissed, with costs to the Respondent.
+Signed at Ottawa, Canada, the 16th day of January, 2004.
+"Campbell J. Miller"
+Miller J.
+CITATION:
+2004TCC42
+COURT FILE NO.:
+2001-2039(IT)G
+STYLE OF CAUSE:
+Rick Walchuk and Her Majesty The Queen
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+January 5, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT:
+January 16, 2004
+APPEARANCES:
+Counsel for the Appellant:
+H. George McKenzie, Q.C.
+Counsel for the Respondent:
+Carla Lamash
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+H. George McKenzie, Q.C.
+Firm:
+Felesky Flynn LLP
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit R-1, page 3.
+[2] Exhibit R-4.
+[3] Exhibit R-5.
+[4] Exhibit R-6.
+[5] 1964 CarswellNat 204.
+[6]
+Supra, at paragraph 14.
+[7] 89 DTC 425 (TCC); 97 DTC 1450 (TCC); [1991] 2 CTC 261 (FCTD); affirmed [1993] 2 CTC 76 (FCA); 60 DTC 1060 (Ex. Ct.); 90 DTC 1369 (TCC).
+[8] 83 DTC 5032.
+[9]
+ibid, at pages 5034-5035.
+[10] 62 DTC 1131.

@@ -1,0 +1,111 @@
+Title: Kirstein v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26050/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-358-26050-kirstein-v-m-n-r-fr.md
+Document type: case_law
+Last modified: 2004-05-20
+
+# Kirstein v. M.N.R.
+
+- Citation: 2004 CCI 358
+- Decision date: 2004-05-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4080, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kirstein v. M.N.R.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-05-20
+Référence neutre
+2004 CCI 358
+Numéro de dossier
+2003-2737(EI)
+Juges et Officiers taxateurs
+Sylvio J. Savoie
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2003-2737(EI)
+ENTRE :
+LESLIE KIRSTEIN,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 27 février 2004 à Montréal (Québec)
+Devant : L'honorable juge suppléant S. J. Savoie
+Comparutions :
+Représentant de l'appelante :
+Steven Rawas
+Avocat de l'intimé :
+Me Alain Gareau
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision du ministre est ratifiée conformément aux motifs du jugement ci-joints.
+Signé à Grand-Barachois (Nouveau-Brunswick) ce 20e jour de mai 2004.
+« S. J. Savoie »
+Juge suppléant Savoie
+Traduction certifiée conforme
+ce 17e jour d'août 2004.
+Ingrid B. Miranda, traductrice
+Référence : 2004CCI358
+Date : 20040520
+Dossier : 2003-2737(EI)
+ENTRE :
+LESLIE KIRSTEIN,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant Savoie
+[1] Le présent appel a été entendu à Montréal, au Québec, le 27 février 2004.
+[2] Il s'agit d'un appel interjeté à l'encontre de la décision du ministre du Revenu national (le « ministre » ) informant l'appelante que l'emploi que cette dernière a occupé auprès de 177701 Canada Inc., la payeuse, pendant la période allant du 26 juin 2000 jusqu'au 12 janvier 2001, la période en question, n'était pas assurable parce qu'elle n'avait pas été engagée en vertu d'un contrat de louage de services et, par conséquent, elle n'était pas une employée de la payeuse.
+[3] Pour prendre sa décision, le ministre s'est fondé sur les hypothèses de fait suivantes :
+a) la payeuse opérait auparavant sous les dénominations sociales de Dakota Home Fashion Textiles Inc. et de 145025 Canada Inc.; (admise)
+b) la payeuse fabriquait des produits pour animaux domestiques, tels que des litières pour chiens et chats; (admise avec modifications)
+c) les actionnaires de la payeuse étaient :
+Hedi Rawas 70 p. 100 des actions
+Steven Rawas 30 p. 100 des actions
+(admise)
+d) l'appelante est l'épouse de Steven Rawas et Steven Rawas est le fils de Hedi Rawas; (admise)
+e) l'appelante prétend qu'elle effectuait des recherches en marketing et qu'elle a développé de nouveaux produits pour la payeuse pendant la période en question alors qu'en fait, elle n'a pas travaillé auprès de la payeuse; (niée)
+f) le 16 janvier 2001, la payeuse, qui opérait alors sous le nom de Dakota Home Fashion Textiles Inc., a émis un relevé d'emploi au nom de l'appelante pour la période allant du 26 juin 2000 au 12 janvier 2001, avec une rémunération présumée de 13 668,75 $ et un total présumé de 1 087,50 heures assurables; (admise)
+g) le relevé d'emploi ne reflète pas la réalité en ce qui concerne la période de travail, les heures travaillées et le salaire gagné par l'appelante; (niée)
+[4] L'appelante ne s'est pas présentée à l'audience. Son mari et son représentant ont informé la Cour qu'elle se trouvait au travail. La preuve a révélé que la payeuse est une fabricante de produits de décoration intérieure, notamment de litières pour animaux domestiques et surtout pour des chiens. L'appelante fournissait des services à la payeuse. Elle avait été engagée pour développer de nouveaux produits pour animaux domestiques. Elle travaillait surtout à l'extérieur du bureau en visitant fournisseurs et détaillants.
+[5] Selon Steven Rawas, mari de l'appelante et actionnaire de la payeuse, elle était une experte de la mode. Pendant la période en question, elle a développé toute une ligne de produits qui a été mise sur le marché. Un de ces produits était une litière pour chien, dont un modèle a été vendu par Costco et un autre par Sears Canada. La payeuse a mis ce produit sur le marché en tant que produit à valeur ajoutée. Initialement, elle avait été rémunérée 506,25 $ par semaine, puis elle avait été rémunérée en liquide quand la payeuse avait éprouvé des difficultés financières.
+[6] Le ministre fait valoir que l'appelante ne travaillait pas en vertu d'un contrat de louage de services et que, par conséquent, il n'existait pas de relation employeur-employée entre elle et la payeuse, aux termes de l'alinéa 5(12)a) de la Loi sur l'assurance-emploi (la « Loi » ).
+[7] Pour établir si l'emploi de l'appelante auprès de la payeuse peut être qualifié d'emploi assurable, il est recommandé de l'examiner à la lumière des critères établis par l'arrêt de principe Wiebe Door Services Ltd. c. M.R.N. [1986] 3 C.F. 553. Les critères sont les suivants :
+1. le degré de contrôle exercé sur les tâches accomplies par le travailleur;
+2. la propriété des instruments de travail;
+3. la chance de profit et le risque de perte;
+4. l'intégration du travail du travailleur dans l'entreprise du payeur.
+LE CRITÈRE DU CONTRÔLE
+[8] Il a été statué que le critère du contrôle est le plus important de tous. La preuve démontre que, pendant la période en question, l'appelante n'a visité les locaux de la payeuse que trois ou quatre fois. Elle s'acquittait de ses tâches chez elle ou sur la route, lorsqu'elle visitait les usines et les fournisseurs. Nul ne contrôlait ses heures de travail et la payeuse était incapable d'établir son horaire de travail. L'appelante décidait toute seule de la manière dont le travail était accompli, des endroits où elle allait et des personnes qu'elle visitait. Des agents et des enquêteurs de Développement des ressources humaines Canada (DRHC) et du ministre ont demandé à la payeuse de présenter des registres et des relevés d'emploi concernant l'appelante, cependant, la payeuse n'en a présenté aucun.
+[9] La preuve recueillie reflète des faits contradictoires au sujet des heures de travail de l'appelante par semaine. L'appelante a déclaré à l'agent des appels qu'elle travaillait 30 heures par semaine. À DRHC, elle a déclaré qu'elle travaillait 60 heures par semaine, alors que la payeuse a déclaré que l'appelante travaillait 37,5 heures par semaine. Aucun registre n'a été présenté pour prouver le nombre moyen d'heures de travail qu'elle accomplissait chaque semaine. Il est aussi important de noter que l'appelante a affirmé, dans sa déclaration, qu'elle travaillait auprès de la payeuse en qualité de secrétaire. Après avoir appliqué le critère du contrôle, la preuve démontre que les faits étayent très fortement la position du ministre.
+LA PROPRIÉTÉ DES INSTRUMENTS DE TRAVAIL
+[10] Dans l'application de ce critère, on trouve un grand nombre de contradictions qui rendent difficile la tâche de tirer une conclusion logique. Dans sa déclaration, l'appelante a dit qu'elle avait la propriété des instruments de travail, notamment de son véhicule, de son ordinateur et de son appareil photographique. D'autre part, son époux, qui est actionnaire de la payeuse, a déclaré que la voiture qu'elle utilisait avait été louée par sa mère et que, selon le contrat de location, la payeuse était responsable des paiements. Il a déclaré aussi que tant l'ordinateur que l'appareil photographique appartenaient à la payeuse. L'examen de la preuve à la lumière de ce critère n'est pas concluante. Par conséquent, une détermination en la matière ne serait que pure conjecture.
+LA CHANCE DE PROFIT ET LE RISQUE DE PERTE
+[11] À la lumière de ce critère, la preuve apparaît plutôt rare et on peut la considérer comme neutre par rapport aux positions du ministre et de l'appelant.
+LE CRITÈRE D'INTÉGRATION
+[12] L'analyse de l'emploi de l'appelante sous ce critère fait pencher la balance en faveur de l'appelante. Il importe de noter, cependant, que le principe établi par l'arrêt Wiebe Door Services Ltd., précité, et décrit par le juge MacGuigan comme « une règle générale, et même universelle, qui nous oblige à « examiner l'ensemble des divers éléments qui composent la relation entre les parties » a été particulièrement utile pour trancher la présente question. Le sommaire de l'arrêt explique en quelques mots la manière d'appliquer ce critère correctement :
+[traduction]
+Le critère de l'entrepreneur examine le contrôle, la propriété des instruments, contrôle sur le profit et le risque de perte, ne constitue pas un ensemble de quatre critères, mais un critère comportant quatre aspects, tout en mettant de l'emphase sur les résultats de l'ensemble des opérations.
+[13] L'avocat du ministre a indiqué que l'appelante ne s'est pas présentée à l'audience et qu'elle n'a pas fourni de justification valable. En effet, son témoignage aurait été utile pour clarifier certaines contradictions mentionnées plus haut.
+[14] Il existe un principe bien établi du droit prétorien qui permet à la Cour de tirer des conclusions négatives de l'absence de l'appelant à l'audience. En d'autres mots, la Cour est en droit de présumer que, si l'appelante avait témoigné, tous les éléments de son témoignage lui auraient été défavorables (voir Blatch v. Archer (1774), 1 Cowp. 63, page 65, Lord Mansfield).
+[15] Après avoir passé en revue tous les faits et toutes les circonstances entourant la présente affaire, et après les avoir examinés à la lumière des critères établis par la jurisprudence, notamment par l'arrêt Wiebe Door Services, précité, la Cour se doit de conclure que l'appelante n'occupait pas d'emploi assurable auprès de la payeuse aux termes de l'alinéa 5(1)a) de la Loi, au cours de la période en question, puisqu'il n'y avait pas de contrat de louage de services conclu entre l'appelante et la payeuse.
+[16] Par conséquent, le présent appel est rejeté et la décision du ministre est ratifiée par les présents.
+Signé à Grand-Barachois (Nouveau-Brunswick) ce 20e jour de mai 2004.
+« S. J. Savoie »
+Juge suppléant Savoie
+Traduction certifiée conforme
+ce 17e jour d'août 2004.
+Ingrid B. Miranda, traductrice

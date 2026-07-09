@@ -1,0 +1,202 @@
+---
+title: "Carrier c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25919/index.do"
+last_modified: "2005-03-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 182"
+citation2: ""
+neutral_citation: "2005 TCC 182"
+decision_date: "2005-03-14"
+language: "en"
+item_id: "25919"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3717
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:55:53.959000+00:00"
+cases_cited_count: 0
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "525414bd9593a26e81853e4414685c51e86fef61057242330b7d0de4aba5481a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Carrier c. La Reine
+
+- Citation: 2005 TCC 182
+- Decision date: 2005-03-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3717, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Carrier c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-03-14
+Neutral citation
+2005 TCC 182
+File numbers
+2004-4202(IT)APP
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-4202(IT)APP
+BETWEEN:
+CLERMONT CARRIER,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Application heard on January 18, 2005, at Québec, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+For the Applicant:
+Michel Robitaille
+Counsel for the Respondent:
+Anne Poirier
+____________________________________________________________________
+ORDER
+The application for an order extending the time for serving the notices of objection to the assessments made under the Income Tax Act for the 1999 and 2000 taxation years is dismissed in accordance with the attached Reasons for Order.
+Signed at Ottawa, Canada, this 14th day of March 2005.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 30th day of March 2005
+Jacques Deschênes, Translator
+Citation: 2005TCC182
+Date: 20050314
+Docket: 2004-4202(IT)APP
+BETWEEN:
+CLERMONT CARRIER,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR ORDER
+Tardif J.
+[1] This is an application for an order extending the time in which the applicant may serve a notice of objection to assessments dated January 26, 2004, in respect of the 1999 and 2000 taxation years.
+[2] The request for an extension was prepared and submitted by Michel Robitaille, the applicant's accountant. The request was worded as follows:
+[TRANSLATION]
+August 2, 2004
+Assistant Director, Appeals
+Canada Customs and Revenue Agency
+165, rue de la Pointe-aux-Lièvres Sud
+Québec, QC G1K 7L3
+Re: Notice of Assessment for the years 1999 and 2000
+Mr. Clermont Carrier
+SIN xxx xxx xxx
+Dear Sir,
+On behalf of Mr. Carrier, I hereby request an extension of the time in which to object to the assessments for the years 1999 and 2000. The assessments result from an audit by your representative Chantal Fortier. No detailed accounting was done before the assessments were made. The assessments are somewhat arbitrary.
+Mr. Carrier is a new client for me, and I have been unable to devote much time to his matter, mostly because it is annual tax-filing time.
+Attached please find a statement of income for 1999, based on the detailed accounting for Makisoft. The statement is not final because the adjustments have not been entered, but it can be seen that the net income is somewhat different from the amount assessed. All of this is related to the way in which the account statements of Small Fry Snack Food Inc. are interpreted.
+Do not hesitate to contact me for additional information.
+I trust that we will be able to obtain an extension.
+Sincerely,
+Michel Robitaille, CA
+encl.
+C.c.: Clermont Carrier
+[3] The respondent strenuously opposed the request for an extension. The applicant, represented by his accountant Michel Robitaille, did not attend. After being sworn in, Mr. Robitaille acknowledged and admitted that he did not prepare the notices of objection within the prescribed time limits.
+[4] Mr. Robitaille argued that the period in which the assessment was made was a very busy one for him professionally, owing to the large number of annual tax filings. He candidly admitted that he failed to prepare the notices of objection.
+[5] According to his testimony, Mr. Robitaille determined, after thoroughly examining the applicant Clermont Carrier's file, that there was a significant difference between the amount assessed and the amount that should have been assessed. In his view, this explained why the taxpayer was determined to do whatever was necessary to ensure that the arbitrary assessment would be revised.
+[6] The respondent argued vigorously that the applicant's file evinced carelessness and negligence as to the time limits for filing his annual income tax returns as required, and responding to the notices of reassessment.
+[7] The accountant said that he did not see fit to ask the applicant to attend. Consequently, the Court was unable to obtain the applicant's position on the respondent's numerous complaints of negligence in connection with various late-filed returns over the years.
+[8] Are such complaints admissible and relevant to the merits of the application for an extension? I do not believe so. However, while the explanations aimed at justifying the applicant's absence are understandable, they cannot, considering the grounds of the application, be accepted, especially since the application pertains solely to the applicant and does not concern his representative in any way.
+[9] Subsection 165(1) of the Income Tax Act (the "Act") reads as follows:
+Objections to assessment
+165. (1) A taxpayer who objects to an assessment under this Part may serve on the Minister a notice of objection, in writing, setting out the reasons for the objection and all relevant facts:
+(a) where the assessment is in respect of the taxpayer for a taxation year and the taxpayer is an individual (other than a trust) or a testamentary trust, on or before the later of
+(i) the day that is one year after the taxpayer's filing-due date for the year, and
+(ii) the day that is 90 days after the day of mailing of the notice of assessment; and
+(b) in any other case, on or before the day that is 90 days after the day of mailing of the notice of assessment.
+[10] Why was the notice of objection not timely served? Although the applicant seems to have played no role in this delay ― his representative admitted responsibility for the failure to produce the notice within the prescribed time limits ― the Court must dispose of the application based on the evidence submitted.
+[11] First of all, the respondent states as follows in her written opposition:
+[TRANSLATION]
+. . .
+2. The applicant did not serve his objection to the January 26, 2004, assessments within the time limit prescribed by subsection 165(1) of the Income Tax Act (the Act), which elapsed on April 26, 2004.
+3. On August 2, 2004, the applicant sent the Minister a request to extend the time for serving an objection to the January 26, 2004, assessments, and attached his objection to that request.
+4. By letter dated August 27, 2004, the Minister notified the applicant, in accordance with subsection 166.1(7) of the Act, that he was refusing to grant him an extension of the time for serving an objection to the assessments.
+5. On October 20, 2004, the applicant filed an application in the Tax Court of Canada for an extension of the time for serving an objection to the January 26, 2004, assessments.
+6. The respondent submits that the application should be dismissed for the following reasons:
+(a) the applicant did not file an application extension [sic] of the time for filing a notice of objection to the assessments within the time allotted in paragraph 166.1(7)(a) of the Act;
+[12] The first argument, to the effect that the application was filed too late, cannot succeed because a plain reading of the written objection clearly and unequivocally shows that the applicant did file his application in time, thereby complying, in fact, with paragraph 166.1(7)(a) of the Act, which reads as follows:
+When order to be made
+(7) No application shall be granted under this section unless
+(a) the application is made within one year after the expiration of the time otherwise limited by this Act for serving a notice of objection or making a request, as the case may be;
+(Emphasis added.)
+[13] The notices of reassessment are dated January 26, 2004. Thus, the first 90-day period ended on April 26, 2004. After that date, the applicant had one year after the expiration of the 90-day period to apply for permission to produce his notice. This means that he had until April 25, 2005.
+[14] However, even the respondent is alleging that the application was filed on October 20, 2004, which is well within the one-year limit. In order for the respondent's argument under paragraph 166.1(7)(a) to succeed, the application would have had to be filed after April 26, 2005.
+[15] Still, the appellant's application cannot be granted solely because it meets this first requirement, since Parliament has provided that such applications must meet other conditions as well. Those conditions are set out in paragraph 166.2(5)(b).
+[16] In fact, the respondent's case against the merits of the application is also based on the conditions set out in subparagraphs 166.2(5)(b)(i), (ii) and (iii), which provide as follows:
+When application to be granted
+(5) No application shall be granted under this section unless:
+(a) . . .
+(b) the taxpayer demonstrates that
+(i) within the time otherwise limited by this Act for serving such a notice or making such a request, as the case may be, the taxpayer
+(A) was unable to act or to instruct another to act in his name, or
+(B) had a bona fide intention to object to the assessment or make the request,
+(ii) given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application, and
+(iii) the application was made under subsection 166.1(1) as soon as circumstances permitted.
+[17] Is the applicant responsible for his representative's omission? The representative argued that the delay in producing the notice of objection stemmed essentially from an oversight on his part, which was caused by an excess workload attributable to the exceptionally high volume during the annual tax-filing period.
+[18] In keeping with the contents of his originating document, the applicant essentially repeated the grounds of his request. On August 2, 2004, the applicant's representative wrote as follows in support of the request for an extension:
+[TRANSLATION]
+Mr. Carrier is a new client for me, and I have been unable to devote much time to his matter, mostly because it is annual tax-filing time.
+[19] No new facts emerged from the hearing. The only evidence adduced was an elaboration on the ground set out in the request and reproduced above. Even if the appellant's representative admits that the oversight was his, the applicant must bear responsibility for his agent's oversight because it was his duty to ensure that the agent would be able to act within the prescribed time limits.
+[20] If this application were to succeed, the true time limit for filing a notice of appeal would not be 90 days, but rather, one year and 90 days.
+[21] Subparagraphs 166.2(5)(b)(i), (ii) and (iii) were enacted for a reason and serve a useful purpose, which is to provide affected persons with more time to register their objection if they satisfy certain specific conditions, and not if they have failed to act within the time limit because of oversights, carelessness or a lack of discipline.
+[22] It is certainly not acceptable to claim entitlement to an extension on the basis that the applicant was a new client and that the agent, an accountant in this instance, was unable to devote much time to the matter because it was tax time.
+[23] I do not see how being a new client can or should create more rights. In addition, the excess workload was predictable. There can be circumstances in which professionals have no free time because of a work overload. Under such circumstances, it would have been more prudent, and certainly more appropriate, to decline carriage of the matter.
+[24] I therefore find that the applicant has not fulfilled the conditions set out in subparagraphs 166.2(5)(b)(i) and (iii) of the Act, in that he did not demonstrate, on a balance of probabilities, that within the time otherwise limited by the Act for serving the notices of objection, he was unable to instruct another to act in his name, and that the application was made as soon as the circumstances permitted.
+Signed at Ottawa, Canada, this 14th day of March 2005.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 30th day of March 2005
+Jacques Deschênes, Translator
+CITATION:
+2005TCC182
+COURT FILE NO.:
+2004-4202(IT)APP
+STYLE OF CAUSE :
+Clermont Carrier and Her Majesty the Queen
+PLACE OF HEARING:
+Québec, Quebec
+DATE OF HEARING:
+January 18, 2005
+REASONS FOR ORDER BY:
+The Honourable Justice Alain Tardif
+DATE OF ORDER:
+March 14, 2005
+APPEARANCES:
+For the Applicant:
+Michel Robitaille
+Counsel for the Respondent:
+Anne Poirier
+COUNSEL OF RECORD:
+For the Applicant
+For the Respondent
+John H. Sims, Q.C.
+Deputy Minister of Justice and
+Deputy Attorney General of Canada
+Ottawa, Canada

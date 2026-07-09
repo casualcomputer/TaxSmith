@@ -1,0 +1,338 @@
+---
+title: "Aon Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/234322/index.do"
+last_modified: "2017-08-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 TCC 166"
+citation2: ""
+neutral_citation: "2017 TCC 166"
+decision_date: "2017-08-31"
+language: "en"
+item_id: "234322"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2190
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:12:25.858000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3a3b392994ccf9baea5f79264076631fd6cf5473fe58a710997ccbfbbf732980"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Aon Inc. v. The Queen
+
+- Citation: 2017 TCC 166
+- Decision date: 2017-08-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2190, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Aon Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-08-31
+Neutral citation
+2017 TCC 166
+File numbers
+2015-1043(IT)G
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2015-1043(IT)G
+BETWEEN:
+AON INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on January 18 and 19, 2017, at Toronto, Ontario.
+Before: The Honourable Justice Gaston Jorré
+Appearances:
+Counsel for the Appellant:
+Justin Kutyan
+Adam Gotfried
+Counsel for the Respondent:
+Craig Maw
+JUDGMENT
+For the attached reasons for judgment, the appeal from the assessments made under the Income Tax Act for the 2010 and 2011 taxation years is allowed, with costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the expenditures in issue of $2,621,261 in the 2010 taxation year and $1,536,124 in the 2011 taxation year are current expenditures.
+If the parties are unable to agree on costs, they may file written submissions not exceeding 10 pages within 60 days of the date of this judgment.
+Signed at Ottawa, Canada, this 31st day of August 2017.
+“Gaston Jorré”
+Jorré J.
+Citation: 2017 TCC 166
+Date: 20170831
+Docket: 2015-1043(IT)G
+BETWEEN:
+AON INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Jorré J.
+Introduction
+[1] Winter often makes driving and walking difficult and sometimes dangerous. Ice is a major risk and salt is frequently used to reduce that risk. However, the effects of salt water can be quite damaging to reinforced concrete. In very large measure it is those effects that caused the damage that led the Appellant to undertake the expenditure in issue here.
+[2] The issue in this appeal is whether an expenditure of over $4,000,000 in 2010 and 2011 replacing much of a garage roof is a current expense or a capital expenditure which must be claimed over a period of years as capital cost allowance.
+[3] It is helpful at the outset to describe Citi Centre Place (“Citi Centre”) where the garage is located. Citi Centre is in Peterborough, Ontario, and occupies an entire city block. [1]
+[4] The garage is located under the entire block and there are three apartment buildings located on top of the garage. The apartment buildings also have significant commercial space at ground level.
+[5] The three buildings do not cover the entire block and, if one were looking down at the block from above, the buildings form a “U” shape.
+[6] Where there are buildings above the garage, the buildings are, in effect, the roof of the garage. The buildings and the garage are structurally connected.
+[7] In the middle of the U there is a surface area that is also the roof of that part of the parking garage; this is referred to as the podium deck. The podium is accessible to motor vehicles and pedestrians and has some landscaping on it.
+[8] In the area within the U the entire roof was replaced as a result of the expenditure in issue; there was also some related work in the same area. This is the work resulting in the expenditure in issue.
+[9] There is also an area along the bottom of the U where the garage roof is also the surface. This area is also referred to as the podium deck. Motor vehicles and pedestrians can also access this area. In an earlier year, 2004, repairs were done to the roof in this area. [2] Those 2004 repairs are not the subject of this appeal; the 2004 repairs were performed in a very different way from the work in issue.
+[10] In this appeal we are concerned with the complete replacement of the roof of the podium area in the middle of the U.
+[11] The following individuals testified:
+(a) Bradley Smith, the President and Chief Executive Officer of the Appellant,
+(b) Joseph Pendlebury, who was called by the Appellant and who was qualified as an expert witness in quantity surveying (construction cost estimating),
+(c) Philip Sarvinis, a professional engineer whose firm did work for the Appellant,
+(d) Paul Pasqualini, who was called by the Respondent and qualified as an expert on the use and effectiveness of materials and techniques used in building envelopes.
+[12] There are no quantum issues, no credibility issues and there are no significant factual issues; the case turns on the proper characterization of the facts in the context of the applicable law.
+The Facts
+[13] In reporting its income for the 2010 and 2011 taxation years, AON Inc. (“AON”), the Appellant, claimed an amount of $4,364,697 as a current expense incurred for the work in issue at its Citi Centre property.
+[14] The Minister of National Revenue reassessed AON and disallowed these expenses as current expenses, apart from landscaping costs of $207,312 that were included in the $4,364,697. The Minister’s position is that the disallowed expenditures are depreciable expenditures giving rise to capital cost allowance.
+[15] AON’s business consists primarily of land development and property management. The business involves designing, building and managing condominiums, multi-residential properties, commercial real estate, retirement homes and long‑term care facilities.
+[16] Approximately 90% of AON’s income stems from rent revenue, while the remaining sources are management fees and land sales. AON’s business includes the rental of around 1,000 apartment units in Peterborough.
+[17] AON’s rent income from all sources for 2010 and 2011 averaged around $29,000,000 respectively. The operating costs, maintenance and repairs for all of AON’s properties averaged about $11,500,000 in 2010 and 2011.
+[18] The repairs at issue in this appeal were contracted by AON Builders Inc., which is a subsidiary of AON that carries on internal construction work.
+Citi Centre Place
+[19] AON built Citi Centre Place (“Citi Centre”) in Peterborough in 1973 and 1974.
+[20] Citi Centre consists of three towers with a total of 310 apartments and about 21,000 square feet of commercial space. The Citi Centre complex has a one level underground parking garage that is approximately 92,000 square feet.
+[21] AON’s annual revenue from Citi Centre is about $3,500,000 to $4,000,000.
+Parking Garage
+[22] Vehicles can access the parking garage from the east side of the complex from Aylmer Street via a ramp. On the southwestern part of the complex there is a loading area on the podium deck for deliveries, garbage pickups and tenant move-ins.
+[23] The parking garage has 235 parking spaces; the number of parking spaces has remained the same since the garage’s initial construction. The garage is primarily used by residential and commercial tenants of Citi Centre.
+[24] Residential tenants can rent a parking spot for $10 per month, while commercial tenants can rent a parking spot for $30 per month. Total revenue from the parking garage is approximately $30,000 to $35,000 annually, less than 1% of Citi Centre’s total annual revenue.
+[25] Except where the apartment buildings are located, the roof of the underground parking garage is a podium deck that supports pedestrian and vehicle traffic above. The roof of the parking garage began to deteriorate over time, in particular the portion that was not under the apartment buildings, the podium. This part of the garage was damaged due to the exposure to salt, snow, rain and traffic.
+[26] Of the roughly 92,000 square feet of garage about 63,000 square feet is under the podium, the rest is under the buildings. Of the roughly 63,000 square feet under the podium approximately a quarter, about 16,000 square feet is below the bottom of the U which was repaired in 2004 and is not in issue. The replacement of the roof in issue here is with respect to around 47,000 square feet of garage under the podium in the middle of the U; this area covers about 50% of the total garage area of 92,000 square feet. [3]
+Early Repairs
+[27] In the 1990s, AON began to see significant cracks in the podium deck, and water leaking into the parking garage. [4] Tenants at that time began to complain that material from the roof was dripping onto their cars.
+[28] Prior to 2003, patchwork repairs were conducted in the parking garage. These repairs included the patching of spalled areas in the concrete and the installation of troughs under the podium deck slab to redirect leaking water. In addition, AON’s maintenance staff regularly performed inspections of the garage and knocked off pieces of concrete that looked loose due to spalling.
+[29] In 1999, to repair part of the garage, a concrete wall was constructed to support a portion of the roof slab and structural concrete beams that had been damaged by the ingress of water.
+[30] In 2003, Read Jones Christoffersen (“RJC”), an engineering firm, conducted a condition survey on the parking garage. RJC came to the following conclusions:
+(a) The structural elements of this parking structure (columns, walls, suspended slabs) are suffering from moderate to severe corrosion‑related deterioration.
+(b) The existing waterproofing system on the surface of the suspended slab is deemed to be completely ineffective in preventing the ingress of moisture and chlorides.
+(c) The expansion joint seals are ineffective in screening chlorides and preventing the ingress of moisture.
+(d) Trough‑slab penetrations and the floor drainage system are in need of repair, replacement and upgrading.
+(e) The suspended podium deck slab/roof slab is significantly saturated with chloride ions above and beyond the generally accepted threshold level needed to cause corrosion of the embedded reinforcing steel suggesting ongoing corrosion at accelerated rates if nothing is done to prevent the further ingress of moisture. [5]
+[31] The survey was conducted primarily on the portion of the garage that was not located below any of the buildings.
+[32] Following the 2003 condition survey, RJC presented AON with two repair options: a localized repair strategy, or the complete replacement of the podium deck.
+[33] The first option, a localized repair strategy, involved only repairing identified areas of delamination. The process included removing the concrete topper and original waterproofing system, repairing the delaminated areas of the structural slab underneath and then installing a new waterproofing membrane and topper level.
+[34] There were several disadvantages to the first option, such as the fact that the structural slab would continue to be saturated with chloride ions, which would lead to further localized repairs within five to six years. A continuous cycle of recurring and ongoing localized repairs would amount to higher long‑term maintenance costs than a complete replacement of the podium deck slab. [6]
+[35] The second option involved completely replacing the topper layer, waterproofing system and structural slab. This repair option would require a longer repair time and higher upfront costs. In the 2003 condition survey, RJC stated that this option would provide “a worry free parking slab for the next 20 to 25 years”. [7]
+[36] AON chose to proceed with the first option and began repairs in 2004.
+Repairs from 2004 to 2009
+[37] The 2004 repairs began on the western portion of the podium deck slab, which had more extensive signs of deterioration, as it was the area accessed by garbage trucks and other vehicles. These repairs were originally intended to be the first stage of multi-phase localized repairs.
+[38] In the 2004 repairs, around 25% of the topping was removed and the waterproofing was replaced with a two‑ply hot rubberized system. That section of the podium deck slab was also rehabilitated but not replaced. These repairs cost over $1,000,000.
+[39] AON and RJC found during the 2004 repairs that the podium deck had deteriorated more than initially expected. As a result more “trough-slab” repairs were required, which led to more jackhammering and more construction noise. The construction noise was a significant disturbance to Citi Centre tenants. As a result of unexpected issues that arose from the localized repairs, AON decided to not continue with the localized repair strategy and to defer maintenance until the eventual complete slab replacement.
+[40] In 2006 RJC conducted another condition survey and found that the extent of corrosion related deterioration was increasing. RJC offered three options, the first two being the same as the options in the 2003 condition survey. The third option involved postponing structural repairs to the garage roof slab for the next few years by installing additional supports. [8]
+[41] AON decided to defer the repairs to the garage for as long as possible. In 2007, AON, based on recommendations from RJC, installed a temporary slab shoring system to provide additional support to the podium deck slab.
+[42] RJC conducted another condition survey in 2009 and found that due to the corrosion of steel within the podium deck slab and other concrete structures caused by the ingress of water and salts, the concrete was becoming ionized, delaminating, spalling, cracking and there was a risk that concrete could fall on patrons.
+[43] After the 2009 condition survey, AON decided that it could no longer defer repairs to the garage and planned to replace the portion of the podium deck that was not previously replaced in 2004.
+[44] The structural integrity of the podium deck had been damaged and its load bearing capacity had been reduced. As a result, in 2009 RJC instructed AON that they could continue shoring up the structure while decommissioning parts of the garage.
+[45] In addition, in 2009 RJC presented AON with two repair options. The first option was a complete top slab replacement, while the second was a complete podium deck slab replacement. [9]
+The Work in Issue (2010 and 2011)
+[46] AON decided to implement the second option and to completely replace the podium deck slab in the middle of the “U” shaped area created by the buildings. This excludes the area below the “U” repaired in 2004.
+[47] The work was carried out in three phases in 2010 and 2011.
+[48] AON was not able to just fill in the garage as maintaining the garage was required to comply with Peterborough zoning bylaws.
+[49] The 2010-2011 work included the following:
+(a) Wholesale removal and disposal of the existing concrete topping, landscaping and asphalt felt paper waterproofing on the surface of the garage roof slab.
+(b) Wholesale removal and disposal of the garage roof slab leaving only the existing column capitals in place. The existing lighting system, electrical system, sprinklers and fire alarm components within or mounted to the underside of the slab would also be removed and disposed.
+(c) Repair of the expansion joint corbels in areas where the existing slab is not to be removed.
+(d) Localized repair of soffit concrete deterioration on the section of roof slab repaired in 2004 caused by ongoing corrosion of the embedded reinforcing steel.
+(e) Reconstruction of the garage roof slab utilizing state of the art design, high strength and low permeability concrete.
+(f) Installation of a new drainage system in order to provide adequate slopes to the roof deck.
+(g) Installation of a new two-ply hot rubberized waterproofing system and expansion joint gland seals.
+(h) Installation of new surface mounted lighting system, fire alarm, sprinkler and drainage system within the area of the garage affected by the work. [10]
+Improvements from the Expenditure in Issue
+[50] The work did not increase any of the following: number of parking spots, parking rates, garage revenue, or apartment unit rates for Citi Centre tenants.
+[51] The garage also had the same load bearing capacity after the repairs. To the end user the garage would look much the same. [11]
+[52] However, the work led to the following improvements:
+(a) The repair used C1 concrete which was, at the time of the repair, required under applicable building codes, but was not required at the time of initial construction. This concrete included silica fume which helps prevent the ingress of water. The metals used in the repair project were also coated with fusion coated epoxy, which would help protect the rebar from deterioration.
+(b) The waterproofing system was improved with the addition of a two‑ply hot rubberized layer. The original garage only used one‑ply, even though at the time of initial construction using more than one layer was a common construction method.
+(c) During the repairs the concrete topping was reinforced with a metal mesh that was not used at the time of initial construction. In addition, a polyester fabric reinforcing sheet, an elastomeric reinforcing sheet, a drainage board and a protection board were added. These additions would help channel water away from the membrane. The new water protection system was designed to provide for upturning.
+(d) The new garage roof has more drains than the initial podium deck slab. An increase in drains was required due to changes in the building codes. In this repair, four-inch drain grates were replaced with twelve-inch drain grates. The drains also used a new technology.
+(e) The sprinkler system was also replaced during the repairs, and now includes four lines instead of the original two.
+(f) Lastly, the electrical and lighting systems were replaced.
+[53] Substantial improvements were made to the waterproofing system, but were largely a result of changes to the building code and a greater understanding of the deteriorating effects of deicing salts.
+[54] Back at the time of initial construction, it was not commonly understood that deicing salts would cause deterioration in a parking structure. As a result, there was less focus on waterproofing, as the impact of chloride-contaminated water was not well understood.
+[55] It was expected that with the new waterproofing system the replaced podium deck (the roof) would be “worry free” for 20 to 30 years. [12]
+[56] The overall construction cost of the 2010-2011 repairs was approximately $4,157,000 excluding the landscaping costs.
+[57] Following these repairs, AON’s accountants included the cost of these repairs as a current expenditure in AON’s financial statements.
+[58] According to expert testimony, the reproduction cost of the Citi Centre property was estimated to be $59,400,000 in 2011. A reproduction cost is representative of what the cost would be to rebuild a structure in modern times. A reproduction cost would attempt to estimate the cost to rebuild Citi Centre in 2011 as it was originally designed and built in the 1970s.
+[59] The reproduction cost of the underground garage was estimated at approximately $5,000,000 but, with respect to the portion under the buildings, it includes the floor of the garage and the outer wall but does not include the columns and the deck slab (the roof of the garage).
+The Law
+[60] Two of the fundamental rules of computing business income are contained in paragraphs 18(1)(a) and (b) of the Income Tax Act (Act):
+18(1) . . . no deduction shall be made in respect of
+(a) an outlay or expense except to the extent that it was made or incurred by the taxpayer for the purpose of gaining or producing income from the business or property;
+(b) an outlay, loss or replacement of capital, a payment on account of capital or an allowance in respect of depreciation, obsolescence or depletion except as expressly permitted by this Part;
+[61] There is no question that the expenditure in issue here for the replacement of the roof was made for the purpose of producing income from business.
+[62] The issue is whether the expenditure is a current expenditure to be deducted in the year the expenditure is incurred, or whether it is a capital expenditure to be deducted over a number of years in accordance with the capital cost allowance rules.
+[63] The word capital is used in many different ways in taxation and it may help focus on the issue by thinking of the question as follows: Is the expenditure in issue a current expenditure or a depreciable expenditure?
+[64] Often, the distinction between a current expenditure and a depreciable expenditure is clear. In other situations the borderline is a difficult one; this case falls within those borderline cases.
+[65] I note that the relevant case law regarding what is a capital expenditure includes both capital expenditures that are depreciable and other capital expenditures that are not.
+[66] The basic idea behind the scheme of capital cost allowance and, in accounting, depreciation is that some expenditures will benefit the business not only in the period of the expenditures but also in future periods. Capital cost allowance in tax and depreciation in accounting are intended to reflect that fact in order to try to produce a more accurate picture of income than full deduction in the year of the expenditure. [13]
+[67] However, to distinguish current from depreciable expenditures the question is not as simple as answering the question: Will the expenditure benefit the business in periods subsequent to the period during which the expenditure was incurred? However, the question whether an expenditure is depreciable can only arise if future periods will benefit from the expenditure. Nor is the test, simply: Is there an “enduring benefit”? I would note that while “enduring” suggests the same general principle — the expenditure must be of future benefit — it also suggests some degree of significance as to duration thereby excluding minimal expenditures and expenditures whose future impact is brief.
+[68] Nonetheless “enduring benefit” is the starting point for the determination of whether an expenditure is a current expenditure or a depreciable expenditure. In British Insulated and Helsby Cables Ltd. v. Atherton, [14] the Privy Council expressed the enduring benefit test in the following way:
+. . . But when an expenditure is made, not only once and for all, but with a view to bringing into existence an asset or an advantage for the enduring benefit of a trade, I think that there is very good reason (in the absence of special circumstances leading to an opposite conclusion) for treating such an expenditure as properly attributable not to revenue but to capital. . . .
+[69] Even then, given the cited words in parentheses, the test was not unqualified and, although the “enduring benefit” test no longer has the weight it once had, it still remains a quite important consideration.
+[70] The move away from prime reliance on “enduring benefit” is clear in the decision of the Supreme Court of Canada in Minister of National Revenue v. Algoma Central Railway [15] where the Court said:
+. . . We do not think that any single test applies in making that determination and agree with the view expressed, in a recent decision of the Privy Council, B.P. Australia Ltd. v. Commissioner of Taxation of the Commonwealth of Australia, by Lord Pearce. In referring to the matter of determining whether an expenditure was of a capital or an income nature, he said, at p. 264:
+The solution to the problem is not to be found by any rigid test or description. It has to be derived from many aspects of the whole set of circumstances some of which may point in one direction, some in the other. One consideration may point so clearly that it dominates other and vaguer indications in the contrary direction. It is a common sense appreciation of all the guiding features which must provide the ultimate answer.
+[71] That shift is visible in later cases including the Supreme Court of Canada decision in Johns-Manville Canada v. The Queen. [16]
+[72] There is a vast case law on this question that is not always easy to apply. As Justice Mogan of this Court put it in Rainbow Pipe Line Co. v. Canada: [17]
+4 The question of whether a particular payment is to be deducted within the taxation year as a current expense or capitalized and depreciated over a period of years has been considered in the context of income tax appeals on many occasions. An early Canadian decision is M.N.R. v. Vancouver Tug Boat Company Limited, 57 D.T.C. 1126 (Exchequer Court) in which Thurlow J. stated at page 1128:
+The line between what are capital expenditures in general and what are revenue expenditures is not easy to define, and it is no less difficult to lay down any hard or fast rule to determine when expenditures similar to the one in question on capital assets will and when they will not be considered to be capital expenditures ...
+That statement is still true after 42 years and many subsequent cases considering the same question. . . .
+[73] Rainbow Pipe Line involved, among other issues, whether replacing some 44 kilometres of pipeline was a current expense or a depreciable expense. In that case Justice Mogan then went on to discuss the Supreme Court of Canada decision in Canderel Ltd. v. Canada. [18] In Canderel, Justice Iacobucci said:
+53 The outlined framework for analysis is, of course, only as useful as its application to actual cases. Turning to the facts of this case will illustrate how this principled approach to the computation of income is intended to operate. Before I do this, however, it may be both convenient and useful to summarize the principles which I have set out above:
+(1) The determination of profit is a question of law.
+(2) The profit of a business for a taxation year is to be determined by setting against the revenues from the business for that year the expenses incurred in earning said income: M.N.R. v. Irwin, supra, Associated Investors, supra.
+(3) In seeking to ascertain profit, the goal is to obtain an accurate picture of the taxpayer’s profit for the given year.
+(4) In ascertaining profit, the taxpayer is free to adopt any method which is not inconsistent with
+(a) the provisions of the Income Tax Act;
+(b) established case law principles or “rules of law”; and
+(c) well-accepted business principles.
+(5) Well-accepted business principles, which include but are not limited to the formal codification found in GAAP, are not rules of law but interpretive aids. To the extent that they may influence the calculation of income, they will do so only on a case-by-case basis, depending on the facts of the taxpayer’s financial situation.
+(6) On reassessment, once the taxpayer has shown that he has provided an accurate picture of income for the year, which is consistent with the Act, the case law, and well-accepted business principles, the onus shifts to the Minister to show either that the figure provided does not represent an accurate picture, or that another method of computation would provide a more accurate picture.
+[74] While the Act provides detailed rules in respect of capital cost allowance, it does not provide any guidance as to what is a depreciable expenditure; that is left to the case law. Also, with an abundant case law on the subject one naturally focuses on the case law to apply the “established case law principles” referred to in paragraph 53(4)(b) of Algoma.
+[75] In many cases, it is still difficult to distinguish a depreciable (capital) expenditure from a current expenditure, particularly with respect to work on buildings. This is very well illustrated in the excellent article in 1997 by Professor John W. Durnford, [19] “The Deductibility of Building Repair and Renovation Costs”, [20] where he says after examining the then existing case law including Johns-Manville:
+What conclusion, then, is to be drawn from this discussion of the general application of the distinction between income expenses and capital outlays? It is that there is no hard and fast rule, and that a common-sense appreciation of all the relevant facts has to be taken into consideration.
+[76] I would again note, however, that in many circumstances the result is clear‑cut although, unfortunately, not in this case or others at the borderline between current and depreciable expenses.
+[77] Professor Durnford continued:
+We shall now study the distinction between outlays on account of capital and current expenses within the specific context of the repair and renovation of buildings. It will be reassuring to discover that, in spite of a certain lack of clarity that we have seen exists with respect to the application of the distinction in question at a general level, a whole series of guidelines has been developed by the courts over the years which govern at least some of the situations that present themselves. These guidelines do not always provide a simple or even a clear solution, but they do represent a framework within which the courts deal with problems in this area. . . .
+. . .
+CONCLUSION
+Under our Income Tax Act, where a building is held for the purpose of gaining or producing income, the cost of repairs and renovations to the building may be deductible as a current expense, or it may be classified as a capital outlay, in which event the deductions are limited to those provided for under the capital cost allowance provisions. Our courts have valiantly struggled with this elusive distinction. In doing so, they have applied factors that include the following, though not always consistently:
+• a distinction must be drawn between a repair to a building (normally a deductible expense) and an acquisition of independent assets for use within a building (generally a capital outlay);
+• the use of new technology will not alone cause the work done to constitute a capital outlay, but improvements or an upgrading will;
+• the sheer quantum of the work done tends to be accorded less significance than formerly but may be a factor where the court is of the opinion that what has really resulted from the work is a new building; and
+• the carrying out all at one time of repairs that have accumulated over a number of years will not alone cause the outlay to be classified as capital, but where a badly rundown building has been acquired at a low cost and greatly increases in value as a result of substantial repairs, at least part of the cost may be found to constitute a capital outlay.
+A review of the application by the courts of the foregoing criteria gives the impression that over time the courts have tended to become more liberal in classifying renovation work as repairs that are eligible for deductibility as current expenses, thereby narrowing somewhat the area occupied by capital outlays.
+[78] Although the article was published 20 years ago it continues to be quite useful. [21]
+[79] In examining the classification of expenditures for work on a building as either current or depreciable, we thus have a situation where one must consider a range of factors or indicia. There is no fixed list as to what should be considered and there is no fixed weighting.
+[80] What I will do is enumerate some of the factors to be considered and discuss them in the context of this case.
+[81] Of course, the first factor to consider is whether or not the work in issue creates something which will last for a certain time (the question of enduring benefit). [22]
+[82] Other considerations include:
+1. Is the work the repair of an asset or the acquisition of an independent asset that can exist on its own? It is quite clear that if something can exist on its own it will point strongly towards a capital acquisition. Thus for example a new motor that is installed in a ship is likely to be a capital expenditure whereas the replacement of a very large part of the hull of a ship is likely a current expenditure. [23]
+2. Repairs, the purpose of which is to make the property repaired suitable for normal use again [24] , are very likely to be current expenses whereas work which improves the asset is more likely to be a capital expense. The degree of improvement appears to matter.
+3. However, the use of more modern technology in itself will not necessarily constitute a betterment such that the work will constitute a capital expenditure. [25]
+4. The sheer quantum of the repair. To some extent a larger expense may point somewhat towards a capital expenditure and vice versa.
+5. The value of the repair in relation to the whole. The larger the expense in relation to the whole the more it may point towards a capital expenditure and vice versa. Arguably this may just be another way of thinking about whether it is really the creation of something new.
+6. The purpose of the work and the nature of the work. [26]
+7. Although it has no application here, it may matter if a property was recently acquired and is being fixed up. In such a case the value compared to that at acquisition might be increased; that would make the expenditure more likely to be capital.
+8. Similarly, although, again, it has no application here, if a property is being prepared for sale the expenditure will probably not be a current expenditure.
+9. Whether the work increases the value of the asset from what it would be assuming a good state of repair. Arguably, this is just another way of asking whether the work has resulted in a betterment. [27]
+10. Where the law, for example building codes or safety requirements, imposes certain obligations in terms of repairs or replacements that will not change the character from what it would otherwise be. Specifically, work that would otherwise be capital does not become current simply because of the legal requirement. [28] The reverse may not be entirely symmetric; however, one would expect that work that was current expenditure would not become capital simply because a building code requirement required that it be done in a way that was in some sense better unless the legal requirement in itself results in a substantial improvement.
+11. Generally, accumulating repairs over time does not convert a larger expense spent in a shorter one year into a capital expense.
+[83] Here we have significant work that will be enduring in the sense that the replaced area of the roof will likely be worry free for 20 to 30 years and will last longer than the worry free period. That is an enduring benefit and quite clearly points towards a depreciable expenditure.
+[84] If the new replaced area of the roof were something that could exist on its own like a motor then one would undoubtedly come to the conclusion that this was a capital expenditure in the sense of a depreciable expenditure.
+[85] However, the new replaced area of the roof, half the roof, is inseparable from the floor of the garage below it and from the entire garage. There is no structural separation between the garage and the buildings that sit on top of the garage; in addition there is a legal requirement for the buildings to have the parking spaces.
+[86] As a result, for the purpose of the analysis one consider the work in issue as work on a part of the entire Citi Centre complex. The replaced area of the roof has to be viewed as part of the whole complex. While it is a significant part of the complex, it is not a large part of the complex. Monetarily, the cost of some $4 million as compared with an estimated replacement cost of the whole complex of $59 million is also significant (about 7%) but not large in comparison to what replacing the whole would cost. [29]
+[87] The purpose of the work is simply to allow the parking garage to be used in the same way as previously.
+[88] This question of simple repair as opposed to a betterment is one of the most difficult aspects of this case because, on the one hand, the parking garage has the same functionality after the work as before the work. It has the same number of spaces as it had originally. It is not better in a way that would allow the Appellant to charge or earn more although, considering some of the photos in evidence showing visible deterioration, it is no doubt more visually pleasing after the work than before the work, but no more so than when built. On the other hand, the new roof was built with newer technology with a significantly greater awareness of the problems caused by salt than existed some 35 years earlier when Citi Centre was built.
+[89] I have no doubt that some of the new techniques used to fight the effects of salt, whether required by the building code or not, result in a better roof in relation to the original construction techniques.
+[90] However, given that it is quite clear that there is no improvement in the functionality or profitability of the garage and given that there is no reason to conclude that the work has had any significant effect in terms of increasing the value of Citi Centre compared to its value with the garage in a good state of repairs, this is not a situation where the work has created something new. While there is a certain betterment [30] , this is essentially a repair. [31] Before the work there was a reinforced concrete roof; after the work there was a better built concrete roof.
+[91] As a result, while the expected duration of the work, the significance of the work and the fact that the roof uses better construction techniques make this a close case, the scale of the work in relation to the complex, the expected duration of the new portion of the roof and the technical improvements, technical improvements that do not increase the functionality of the garage, are not such as to tip the balance and make this a depreciable expenditure as opposed to a current expenditures.
+Conclusion
+[92] For these reasons, the appeal will be allowed, with costs, and the matter will be referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the expenditures in issue are a current expense. [32]
+Signed at Ottawa, Canada, this 31st day of August 2017.
+“Gaston Jorré”
+Jorré J.
+CITATION:
+2017 TCC 166
+COURT FILE NO.:
+2015-1043(IT)G
+STYLE OF CAUSE:
+AON INC. v. THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+January 18 and 19, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Gaston Jorré
+DATE OF JUDGMENT:
+August 31, 2017
+APPEARANCES:
+Counsel for the Appellant:
+Justin Kutyan
+Adam Gotfried
+Counsel for the Respondent:
+Craig Maw
+COUNSEL OF RECORD:
+For the Appellant:
+Justin Kutyan
+Adam Gotfried
+Firm:
+KPMG Law
+Toronto, Ontario
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The block is rectangular with the longer side stretching from north to south.
+[2] This area at the bottom of the U is along the western side of the block (Bethune Street). The open side of the U is on the eastern side of the block, Aylmer Street.
+[3] There is a certain variation in the evidence as to the exact measurement of the areas. The entire garage was variously stated to be around 89,000 to 92,000 square feet; this appears to be the difference between inside and outside measurements. Similarly the garage not under the buildings was stated as 59,000 to 63,000 square feet. The area covered by the buildings was stated to be about 30,000 square feet. At one point the 2004 roof work, at the bottom of the U, is described as about 16,000 square feet or one quarter of the podium area.
+If one takes away 16,000 square feet for the area where the 2004 work was done from the 63,000 square feet not in the work one gets 47,000 square feet as the area where the work in issue was done. The area of 47,000 square feet out of the total garage area of 92,000 square feet is about 51% or half of the total garage area. Even if the measurements are somewhat different it would still represent about half of the total roof area.
+[4] There appear to have been some early signs in the 1980s.
+[5] Exhibit A-1, Tab 3, 2003 condition survey, executive summary.
+[6] Exhibit A-1, Tab 3, 2003 condition survey, page 25.
+[7] Exhibit A-1, Tab 3, 2003 condition survey, page 25.
+[8] Exhibit A-1, Tab 5, 2006 condition survey, pages 7 to 10.
+[9] In 2009 RJC suggested that the new podium deck could last 25 to 30 years (originally stated 20 to 25 years in the 2003 condition survey).
+[10] Exhibit A-1, Tab 7, 2009 RJC proposal. The work also included some landscaping costs which are not the subject of this appeal.
+[11] However, while it would have looked the same functionally, the appearance would no doubt look better than before within the U shaped area given that there would no longer be the visible deterioration once the work was completed. The photos at Tabs 3 and 5 of Exhibit A-1 show examples of what some of the deterioration looked like. In addition, users would no longer have seen areas that were taken out of service.
+[12] In the 2003 Condition Survey by RJC, the 2006 Update to the Survey and the 2009 Update to the Survey the “worry free” period is put at 20 to 25 years, 20 to 25 years and 25 to 30 years respectively. See Exhibit A-1: Tab 3, page 25, Tab 5, page 9 and Tab 6 at page 11. On the other hand the Paul Pasqualini talks of the “anticipated service life specified of the specified waterproofing system” being of “the order of 20-25 years.”
+[13] More generally the concept of matching is also important in determining when in time an expenditure is to be deducted; again, the goal is to try to give a more accurate picture of income; inventory accounting is one method of matching.
+[14] [1926] A.C. 205, page 212.
+[15] [1968] S.C.R. 447, pages 449 and 450. In Algoma, the expenditure was for a geological survey.
+[16] [1985] 2 S.C.R. 46. Johns-Manville is a very unique case where the question of current expenditure versus capital expenditure arose in respect of a large open pit mine that had to buy more and more adjoining land to accommodate the expanding pit in order to keep operating. If the land could not be deducted as a current expense there would not be any capital cost allowance available. One way of thinking of Johns-Manville would be that the Supreme Court concluded that for practical purposes the land was being consumed.
+[17] [1999] T.C.J. No. 604 (QL). I would note that, factually, in Rainbow Pipe Line a section of old pipeline was abandoned and a replacement pipeline was built parallel to the old one over some 44 km.
+[18] [1998] 1 S.C.R. 147.
+[19] Emeritus professor of law at McGill University; earlier, dean of the law school.
+[20] (1997), Vol. 45, No. 3, Canadian Tax Journal, at page 395, at pages 400-401 and then at page 416.
+[21] One of a number of useful reviews of the jurisprudence is the following one by Justice Lamarre, as she then was, in Brunet v. The Queen, 2002 CanLII 47034 (TCC) at paragraphs 13 to 16. IT-128R, referred to in Brunet, reflects a good effort to synthesize the jurisprudence.
+[22] See, for example, The Queen v. Canadian Reynolds Metals Company Ltd., 96 D.T.C. 6312, fourth to sixth paragraphs, where the enduring benefit test was given great weight in concluding that the cost of replacing the carbon cathode lining the steel pots used in the production of primary aluminium was a capital expenditure. The lining lasted several years. It also appears to be important that the linings were viewed as a separate asset. Surprisingly, it is the Minister who took the position that the cost of replacing the linings was a current expense and the company which sought to have the cost classified as a capital expenditure.
+[23] See Canada Steamship Lines Ltd. v. M.N.R., 66 D.T.C. 5205. The following two paragraphs of the Canada Steamship’s decision show that current repairs can replace a large area and can be long lasting:
+So far as the first class of expenditures is concerned, I do not, myself, have much difficulty in reaching the conclusion that these expenditures are deductible. In effect, the ship has a double bottom — an outside layer and an inside layer separated by appropriate structural members. If one or more plates constituting a part of the outside layer require to be replaced because they have been stove in or otherwise damaged, so long as the damage is not so extensive that the ship must be regarded as having been virtually destroyed and as having, in effect, ceased, from a businessman's point of view, to exist as a ship, their replacement is, I should have thought, the most typical kind of ship repair. Where the inside layer of the ship's bottom, which also serves as the floor for the ship's cargo-carrying holds, has to be replaced, in whole or in part, by reason of wear and tear and of damage caused by the cargo carried in the ship, it seems clear to me that the expense falls in the same class as the expenses of replacement of portions of the outside skin. So long as the ship survives as a ship and damaged plates are being replaced by sound plates, I have no doubt that the ship is being repaired and it is a deductible current expense. (I exclude, of course, a possible replacement by something so different in kind from the thing replaced that it constitutes a change in the character — an upgrading — of the thing upon which the money is expended instead of being a mere repair.)
+What I have said with reference to the replacement of all or part of the floors of the holds, which serve as the inner layer of the ship's bottom, applies in principle to the walls of the holds which are related to the sides of the ship in the same way as the floors of the hold are related to the ship's bottom.
+[24] See Canada Steampship Lines Ltd., 66 DTC 5205.
+[25] See paragraph 10 of decision of Chief Justice Jackett in Shabro Investment Ltd. v. R., [1979] C.T.C. 125 where he says:
+… and, similarly, “repairs” do not become disqualified as “repairs” in that sense merely because they are carried out in the light of technology unknown when the original structure was built or because they take into account conditions (such as dampness) not taken into account when the original structure was built.*
+* In a limited sense, such repairs may be improvements; but, from a business man's point of view (which is what is being applied here), within reasonable limits, that is disregarded.
+See also paragraphs 22 and 23 of the decision of Justice Urie. In Shabro, part of a floor that had sunken was replaced with a much better support, steel piles. This was because in the original construction the basement had been built for a structure standing on ordinary land fill whereas part of the fill was garbage resulting in different characteristics for the underlying surface. In that case, the Court concluded that the new floor built on pilings was a new asset and therefore capital. It was a new asset because the original floor was unsuitable for its purpose sitting on a land fill largely composed of garbage.
+[26] See, for example: Hare v. The Queen 2011 TCC 294.
+[27] See Québec (Sous-ministre du Revenu) c. Goyer, 1987 CanLII 538 (QC CA) which is quoted by this court in a number of cases by this court including Brunet v. The Queen, 2002 CanLII 47034 (TCC), cited above. In that passage is the following statement by Justice Vallerand of the Quebec Court of Appeal:
+"...as long as one is not creating new capital property, or causing the normal value of the property to be inflated, or replacing a property that has disappeared, then the work done will amount to repairs and maintenance in efforts to restore the property to its normal value."
+[28] Healey v. Minister of National Revenue, [1984] C.T.C. 2004 at paragraph 31.
+[29] The Respondent submitted that the proper comparison would be the cost of the repairs compared to the estimated cost of replacing the garage in the replacement cost estimate presented by the Appellants expert. It is an important point because the matter is close enough that, if that were the view that should be adopted, it could tip the balance. I considered the point at length but at the end of the day the garage sits under the three buildings and the podium deck and they all form a whole. If there were separate ownership that would be different.
+[30] In assessing this it is worth remembering that the complex was first built in 1973/1974 and problems of cracking and liquid dripping onto cars first emerged a little in the 1980s but more so in the 1990s. We do not know when in the 1990s it start to be significant but given that the it was not until 2004 that major work in was carried out one could say that there was a period of about 20 years without major issues for the original garage roof.
+[31] One of the oldest cases involving questions of “betterment” v. “repair” is Highland Railway v. Balderson, 2 TC 485, a decision of the Scottish Court of Exchequer in 1889. It has been quoted in Canada and the UK. In that case a railway renewed track with heavier steel rail replacing iron rail. The fact that the rail was heavier is in paragraph II of the Stated Case at pages 485 and 486. The Court held that relaying railway track with steel rails was a capital expenditure and was fundamentally different from simply relaying iron rails. The case seems to be highly suggestive that new technology in itself may itself shift current repair expenditure into a capital expenditure.
+I am not convinced that that is the correct conclusion to draw from Highland Railway. When one reads the entire report including the stated case at the beginning there appears to be another factor that comes into play. At page 488, in the last paragraph which continues on page 499, the Lord President of the Court says, in part, with respect to the change to steel rails:
+“… Now that is a material alteration and a very great improvement on the corpus of the estate of the company …
+[The Court then gives an analogy before continuing.]
+Certainly, if you build a new house on your land that is an addition to the property, an improvement on the property and never becomes a charge upon income. Just as little if you build up a new railway upon the line you possess, and which is a different railway and a much more valuable railway, then that which you remove, just as little can that be a charge against income. …”
+(Emphasis added.)
+This seems to suggest that steel rails provided more than just a better technology but increased the profitability and therefore the value of the line - perhaps by allowing heavier trains?
+In addition, it appears that this improvement was part of work done on a line which Highland Railway had recently acquired from another company, in which case different considerations apply from the appeal before me; however, it is not entirely clear from the decision if that was the case.
+[32] This is not an easy result to reach and one would wish for somewhat brighter lines that would reduce the uncertainty in cases such as this so that everyone knew where they stood. Perhaps Finance, the Government and Parliament might want to think about whether there are ways to legislate and reduce the uncertainty. I suspect that much of the problem may be that in a situation such as this the either (current)/or (depreciable) nature of the current law really does not fit well with the realities of the situation and some intermediate treatment would fit better. Of course, one would have to consider whether any proposed change in turn caused its own problems.

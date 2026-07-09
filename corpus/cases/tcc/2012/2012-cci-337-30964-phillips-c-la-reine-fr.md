@@ -1,0 +1,169 @@
+---
+title: "Phillips c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30964/index.do"
+last_modified: "2012-09-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 337"
+citation2: ""
+neutral_citation: "2012 CCI 337"
+decision_date: "2012-09-20"
+language: "fr"
+item_id: "30964"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4838
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:24:32.496000+00:00"
+cases_cited_count: 5
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b4c29419529d926d95f9b61c04197d0df9bda180759ca0fbe7105f47a6101366"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Phillips c. La Reine
+
+- Citation: 2012 CCI 337
+- Decision date: 2012-09-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4838, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Phillips c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-09-20
+Référence neutre
+2012 CCI 337
+Numéro de dossier
+2011-300(IT)G
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-300(IT)G
+ENTRE :
+RONALD SYDNEY PHILLIPS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 20 juin 2012, à Winnipeg (Manitoba).
+Devant : L’honorable juge Randall Bocock
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Ainslie Schroeder
+____________________________________________________________________
+JUGEMENT
+L’appel à l’égard des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2005 et 2006 est accueilli en partie et les nouvelles cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelle détermination compte tenu du fait que l’appelant a le droit de déduire de son revenu les frais de déplacement et dépenses y afférentes pour les périodes où il a présidé, supervisé ou animé des conférences à l’extérieur de Regina, comme cela est expliqué dans les motifs du jugement.
+Aucuns dépens ne sont adjugés.
+Signé à Ottawa, Canada, ce 26e jour de septembre 2012.
+« R. S. Bocock »
+Juge Bocock
+Traduction certifiée conforme
+ce 5e jour de mars 2013.
+François Brunet, réviseur
+Référence : 2012CCI337
+Date : 20120926
+Dossier : 2011-300(IT)G
+ENTRE :
+RONALD SYDNEY PHILLIPS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bocock
+[1] Le présent appel a trait aux déductions pour dépenses d’entreprise de l’appelant pour les années d’imposition 2005 et 2006. L’appelant a demandé la déduction de ses dépenses d’entreprise sous trois rubriques, et, lorsqu’il a établi une nouvelle cotisation à son égard, le ministre du Revenu national (le « ministre ») les lui a refusées, en tout ou en partie, en ce qui concerne les éléments suivants :
+a) les frais de repas et de représentation;
+b) une charge correspondant à la valeur nominale de chèques refusés par la banque pour un montant total d’environ 1 660 $ (les « chèques sans provision »);
+c) les allers-retours effectués principalement entre Regina et Winnipeg et les frais afférents à ces déplacements.
+[2] Pendant les années d’imposition 2005 et 2006, l’appelant résidait à Regina et y touchait un revenu d’emploi en sa qualité de professeur d’université agrégé, mais il continuait aussi d’exploiter une entreprise de consultation dans le domaine de l’animation, de l’organisation et de la promotion de conférences éducatives à l’intention des autochtones (l’« entreprise »). En outre, l’appelant aurait conservé des bureaux à Winnipeg pour l’entreprise. Il exploitait l’entreprise depuis les années 1990, et c’est en 2003 qu’il est entré en fonction à Regina.
+I. Les frais de repas et de représentation
+[3] En ce qui a trait aux frais de repas et de représentation, le ministre a refusé d’accorder à l’appelant la déduction de ces frais dans les cas où seuls l’appelant et une certaine Mme McCallum étaient présents (les « frais relatifs à Mme McCallum »). Mme McCallum était la femme de l’appelant. Elle participait souvent aux activités de l’entreprise à titre de conférencière, de médiatrice et de conseillère. Elle a touché des honoraires de consultante de 36 000 $ en 2005 et de 15 000 $ en 2006.
+[4] Pour les années d’imposition 2005 et 2006, l’appelant a voulu déduire de son revenu 5 334 $ et 4 745 $ respectivement, soit 50 % des dépenses brutes tombant sous le coup des frais relatifs à Mme McCallum. Ces frais comprenaient des dépenses de restaurant, des achats auprès de boutiques de produits fins et des achats de vin. L’appelant a reconnu qu’au‑delà de la règle légale prévoyant la déduction de 50 % des dépenses, il y avait un élément personnel parce que lui et Mme McCallum étaient mariés et que, pour reprendre ses paroles, ils [traduction] « aimaient le vin ».
+[5] Le ministre a autorisé l’appelant à déduire de son revenu pour 2005 et pour 2006 respectivement 50 % et 25 % des frais relatifs à Mme McCallum en tenant compte des éléments suivants :
+a) la nature personnelle des dépenses;
+b) le caractère disproportionné du rapport entre les frais de repas et de représentation attribuables à Mme McCallum et les honoraires de consultante qui ont été versés à celle‑ci pour chacune des années en cause;
+c) le caractère disproportionné des frais de repas et de représentation payés relativement à Mme McCallum, épouse de l’appelant, quand on compare ces frais à ceux qui ont été payés pour d’autres consultants et pour des clients de l’entreprise.
+[6] L’appelant n’a produit aucun élément de preuve en vue de réfuter ou de démolir les hypothèses ou affirmations du ministre selon lesquelles, dans les circonstances, les montants qu’il a autorisé l’appelant à déduire de son revenu, soit tous les frais autres que les frais relatifs à Mme McCallum, correspondaient à un total moins raisonnable que celui des dépenses que l’appelant avait cherché à déduire de son revenu. En ce qui concerne les faits, la Cour conclut que la déduction que le ministre a accordée à l’appelant au titre de ses frais de repas et de représentation était tout à fait raisonnable dans les circonstances.
+II. Les chèques sans provision
+[7] En ce qui a trait aux chèques sans provision, l’appelant n’a produit aucun élément de preuve sous la forme de calculs en vue de démontrer qu’à cet égard, le ministre avait manqué à son obligation d’évaluer correctement le revenu tiré de l’entreprise. Quoi qu’il en soit, d’un point de vue procédural, le ministre n’avait pas établi de nouvelle cotisation à l’égard de l’appelant pour les années en cause et il a confirmé le revenu tel que l’appelant l’a déclaré. En outre, l’appelant n’a produit aucun élément de preuve probant dont il ressort qu’une erreur avait été commise. On ne peut accorder aucune valeur probante aux seuls relevés bancaires démontrant l’existence de chèques sans provision compte tenu de la confirmation par le ministre du revenu déclaré, et non modifié, par l’appelant.
+III. Les frais de déplacement
+[8] Le dernier point, soit la question de la déductibilité de certains frais de déplacement du revenu d’entreprise, est plus problématique compte tenu du caractère particulier de l’espèce.
+[9] En ce qui concerne les faits, la Cour conclut que l’appelant n’avait pas d’autre choix que de vivre à Regina. S’il voulait l’emploi en question (il a reconnu qu’il s’agissait d’un choix), il devait résider à Regina du lundi au vendredi la plupart du temps. Par ailleurs, sur le plan de l’efficacité commerciale, l’appelant avait tout intérêt à garder un bureau à Winnipeg. Deux conférences s’y tenaient chaque année, ses contacts professionnels les plus importants s’y trouvaient et c’est là qu’il avait fondé son entreprise et qu’il la faisait prospérer depuis de nombreuses années. Il s’agit de raisons d’ordre professionnel et commercial, et non de raisons personnelles. Le fait d’être employé dans une ville et d’exploiter une entreprise dans une autre a fait naître des exigences conflictuelles donnant lieu à un dilemme professionnel et à une question juridique intéressants au regard de la jurisprudence pertinente.
+[10] Les autorités jurisprudentielles auxquelles l’intimée a renvoyé concernent toutes des situations dans lesquelles un choix personnel [non souligné dans l’original] effectué à l’égard du lieu de résidence a fait augmenter les distances parcourues pour les déplacements liés à l’emploi ou aux affaires.
+[11] Vu l’arrêt de principe Symes c. Canada, [1993] 4 R.C.S. 695, il faut rechercher si l’appelant a payé les frais de déplacement en vue de tirer un revenu d’une entreprise.
+[12] En général, les frais de déplacement payés pour se rendre de sa résidence personnelle à son lieu de travail constituent simplement des frais personnels que le contribuable doit payer pour se rendre à son travail et commencer à gagner un revenu.
+[13] Dans l’affaire Andreone c. Sa Majesté la Reine, 2005 CCI 240, la juge Sheridan de la Cour s’est penchée sur l’arrêt de principe Symes et a conclu que si le besoin en cause existe indépendamment du besoin professionnel, le contribuable n’est pas autorisé à déduire la dépense de son revenu. En l’espèce, l’appelant a reconnu que, n’eût été l’entreprise, il aurait quand même fait la navette entre Regina et Winnipeg, quoique moins fréquemment. Il a cité la fréquence actuelle de ses déplacements en exemple. Son témoignage relatif à la fréquence de ses déplacements était crédible.
+[14] De même, par l’arrêt Daniels c. Canada (Procureur général), 2004 CAF 125, la Cour d’appel fédérale a observé, au paragraphe 7 :
+[7] Il est bien établi que les frais de déplacement encourus par un contribuable pour voyager aller-retour de sa résidence à son lieu d'affaires sont considérés comme des frais personnels. Ce ne sont pas des frais de déplacement assumés dans le cadre des fonctions du contribuable. Ils lui permettent plutôt d'accomplir ces fonctions (voir les arrêts Ricketts c. Colquhoun, [1926] A.C. 1, 95 L.J.K. 82; Hogg c. Canada, [2002] 4 C.F. 443, 2002 CAF 177, conf. [2001] 1 C.T.C. 2356; O'Neil c. Canada, 2000 CarswellNat 1788, 2000 D.T.C. 2409, [2001] 1 C.T.C. 2091; Luks c. Minister of National Revenue, 1958 CarswellNat 297, [1958] C.T.C. 345, [1959] R.C.É. 45, 58 D.T.C. 1194).
+[15] Dans l’affaire Blackburn c. La Reine, 2007 CCI 284, le juge Jorré de la Cour a analysé la jurisprudence en matière de choix personnel et il a observé :
+[41] Il faut également tenir compte du principe que le choix de vivre dans une ville plutôt qu’une autre est un choix personnel et que les dépenses encourues pour se rendre au travail sont des dépenses personnelles et ne sont pas déductibles.
+[…]
+[43] Nous avons donc deux principes importants :
+1) Les frais de déplacement pour exercer ses fonctions d’emploi sont déductibles.
+2) Par contre, les frais encourus par le choix d’où l’on vit sont des frais personnels.
+[44] À quel moment est-ce que la décision de se déplacer plutôt que de déménager devient-elle un choix personnel? On ne pourrait raisonnablement conclure que le fait de ne pas déménager sa résidence pour un voyage d’affaires de quelques semaines est un choix personnel. Par contre, si quelqu’un prend un poste permanent dans une autre ville lointaine, il ne peut y avoir de doute qu’il s’agit d’un choix personnel si la personne garde sa maison et sa famille dans la ville d’origine et choisit de voyager tous les lundis matins et vendredis soirs entre les deux villes et de louer un petit appartement dans la ville où il travaille.
+[16] Le choix de l’appelant de déménager à Regina n’était pas nécessairement un choix personnel et les faits de l’espèce sont différents de la situation exposée dans la décision Blackburn, dans laquelle l’appelant avait fait le choix personnel de ne pas déménager. L’appelant avait dû déménager à Regina afin d’accepter l’emploi qui lui avait été offert. En l’espèce, l’appelant a changé de résidence personnelle. Il va sans dire que les frais de déplacement qu’il a payés pour faire l’aller-retour entre sa résidence de Regina et l’Université n’étaient pas déductibles. Sa décision de conserver le siège de son entreprise à Winnipeg, même si elle comportait une dimension personnelle (une telle dimension personnelle ne donnant pas lieu à déduction), était par ailleurs logique d’un point de vue professionnel et avait un aspect commercial.
+[17] Vu ces éléments, compte tenu de la nécessité (par opposition à un choix personnel) pour l’appelant de vivre à Regina et de raisons professionnelles le poussant à se rendre à Winnipeg de temps en temps pour affaires, la Cour conclut que les conditions énoncées aux alinéas 18(1)a) et h) de la Loi de l’impôt sur le revenu (la « Loi ») sont réunies, mais seulement en ce qui a trait à certains frais de déplacement, étant donné qu’une bonne partie de ces frais étaient personnels ou correspondaient à des frais de déplacement non déductibles payés par l’appelant pour se rendre au siège de son entreprise. Toutefois, il va sans dire que l’appelant n’aurait pas payé certains frais si ce n’est dans le but de tirer un revenu de l’entreprise en allant animer des conférences d’affaires dans la région de Winnipeg.
+[18] Par l’arrêt Randall v. Minister of National Revenue, [1967] S.C.R. 484, la Cour suprême du Canada a observé que, quand il y avait obligation de fournir un service en vue de répondre aux exigences de l’entreprise, les dépenses y afférentes étaient des dépenses raisonnables que le contribuable devait pouvoir déduire de son revenu. En l’espèce, les conférences d’affaires qui avaient lieu deux fois par an à Winnipeg étaient des exigences de l’entreprise, se tenaient à une fréquence irrégulière et l’appelant ne pouvait pas nécessairement en choisir, ou en fixer arbitrairement, le lieu.
+[19] De même, dans l’affaire Chapman c. La Reine, 2004 CCI 617, la juge Woods de la Cour a conclu que certains frais de déplacement sont déductibles quand l’intéressé doit se rendre en différents lieux en raison d’affectations temporaires. Au paragraphe 12 de cette décision, la juge Woods s’est penchée sur la décision Randall et la question des déplacements effectués pour se rendre à des affectations temporaires et a déclaré ce qui suit :
+[12] Cette approche est conforme à l’approche adoptée par la Cour suprême du Canada dans l’arrêt Randall v. M.N.R., [1967] C.T.C. 236. Dans l’affaire Randall, le contribuable gérait des champs de courses, surtout dans la région de Vancouver. Il s’était entendu pour gérer un champ de courses à Portland (Oregon) et il avait cherché à déduire ce qu’il lui en coûtait pour faire la navette entre l’Oregon et sa maison, à Vancouver. La Couronne avait soutenu que les frais que le contribuable avait engagés pour se rendre de sa maison, à Vancouver, jusqu’à Portland, étaient des frais personnels parce qu’il les avait engagés pour se rendre à son lieu de travail. Dans une décision majoritaire, la cour a coupé court à l’argument de la Couronne et a adopté une approche fondée sur le bon sens : les frais de déplacement étaient déductibles parce que M. Randall devait les engager afin de s’acquitter de ses obligations contractuelles. Les faits de l’affaire Randall sont différents de ceux de la présente espèce, mais à mon avis, l’approche fondée sur le bon sens adoptée par la Cour suprême du Canada doit également s’appliquer aux affectations temporaires lorsqu’une personne doit se rendre à différents endroits pour s’acquitter de ses obligations contractuelles.
+[20] En l’espèce, l’appelant a payé des frais de déplacement pour se rendre à Winnipeg dans plusieurs buts. Ces buts étaient les suivants :
+a) se rendre à son bureau de Winnipeg;
+b) se rendre à Winnipeg en général, probablement pour des raisons personnelles;
+c) aller à Winnipeg dans le but de présider, de superviser ou d’animer des conférences, activités dont il tirait un revenu d’entreprise.
+[21] Le premier but ne donne pas lieu à des dépenses déductibles à la lumière des jurisprudences Hogg c. Canada (C.A.), 2002 CAF 177, et Daniels, qui excluent la déduction de telles dépenses.
+[22] Les dépenses découlant du deuxième but ne sont aucunement des dépenses d’affaires au sens de la Loi interprétée à la lumière de la jurisprudence Symes.
+[23] Toutefois, pour ce qui est de la tenue des conférences d’affaires, quand l’appelant les présidait, les supervisait ou les animait, il s’agissait d’affectations temporaires, et, dans cette mesure, il devrait pouvoir déduire les dépenses afférentes de son revenu, compte tenu des circonstances uniques de l’espèce. Bien que le siège de l’entreprise de l’appelant se trouve à Winnipeg, les conférences en tant que telles étaient occasionnelles, et des raisons professionnelles justifiaient leur tenue à Winnipeg, non pas par choix personnel de la part de l’appelant, mais en vue d’accommoder, et d’attirer, les participants.
+[24] Par ces motifs, l’affaire est déférée au ministre pour nouvelle cotisation et nouvel examen, et ce, uniquement dans la mesure où l’appel est accueilli en ce qui a trait aux déplacements et dépenses afférentes que l’appelant a effectués pour présider, superviser ou animer les conférences qui étaient organisées par son entreprise à l’extérieur de Regina. Même si ces montants ne sont vraisemblablement pas importants si on les compare aux autres frais de déplacement que l’appelant souhaitait déduire de son revenu, ils relèvent bien de la catégorie des affectations temporaires nécessaires à la bonne marche de l’entreprise et exigeant de l’appelant qu’il se déplace entre Regina et Winnipeg, et peut-être d’autres lieux.
+[25] Étant donné que l’appel de l’appelant n’a pas été accueilli à un autre titre, aucuns dépens ne seront adjugés.
+Signé à Ottawa, Canada, ce 26e jour de septembre 2012.
+« R. S. Bocock »
+Juge Bocock
+Traduction certifiée conforme
+ce 5e jour de mars 2013.
+François Brunet, réviseur
+RÉFÉRENCE : 2012 CCI 337
+NO DU DOSSIER DE LA COUR : 2011-300(IT)G
+INTITULÉ : Ronald Sydney Phillips c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Winnipeg (Manitoba)
+DATE DE L’AUDIENCE : Le 20 juin 2012
+MOTIFS DU JUGEMENT : L’honorable juge Randall Bocock
+DATE DU JUGEMENT : Le 26 septembre 2012
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Ainslie Schroeder
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : s.o.
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

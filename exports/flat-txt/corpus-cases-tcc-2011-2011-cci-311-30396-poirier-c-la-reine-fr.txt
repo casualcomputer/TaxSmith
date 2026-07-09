@@ -1,0 +1,197 @@
+Title: Poirier c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30396/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-311-30396-poirier-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2011-06-21
+
+# Poirier c. La Reine
+
+- Citation: 2011 CCI 311
+- Decision date: 2011-06-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7856, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Poirier c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-06-21
+Référence neutre
+2011 CCI 311
+Numéro de dossier
+2009-452(IT)G
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-452(IT)G
+ENTRE :
+SYLVAIN POIRIER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+NANCY MCCLURE,
+tierce partie.
+Appel entendu le 29 mars 2010, à Montréal (Québec).
+Devant : L’honorable juge Gaston Jorré
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l'intimée :
+Me Philippe Dupuis
+Avocate de la tierce partie :
+Me Miriam Grassby
+____________________________________________________________________
+JUGEMENT
+Selon les motifs du jugement ci-joints :
+1. la Cour statue que le montant de 43 668,36 $ en cause ne peut être déduit par l’appelant dans le calcul de son revenu et ne doit pas être inclus dans le calcul du revenu de la tierce partie pour l’année d’imposition 2007;
+2. la Cour ordonne :
+a) que l’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2007 est rejeté, et
+b) que l’appelant paie les frais de l’intimée et de la tierce partie selon le tarif B de l’annexe II des Règles de la Cour canadienne de l’impôt (procédure générale).
+Signé à Ottawa (Ontario), ce 21e jour de juin 2011.
+« Gaston Jorré »
+Juge Jorré
+Référence : 2011 CCI 311
+Date : 20110621
+Dossier : 2009-452(IT)G
+ENTRE :
+SYLVAIN POIRIER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+NANCY MCCLURE,
+tierce partie.
+MOTIFS DU JUGEMENT
+Le juge Jorré
+[1] L’appelant s’est séparé de son ex-conjointe, Nancy McClure, en juin 2006. En 2006 et en 2007, l’ex-conjointe est restée dans la maison familiale.
+[2] En 2007, l’appelant a payé 43 668,36 $ pour des dépenses liées à la maison familiale, montant qu’il a déduit comme pension alimentaire en produisant sa déclaration de revenus de 2007. Ces montants ont été payés à des tiers.
+[3] Le ministre du Revenu national a refusé que l’appelant déduise ce montant et le litige porte sur celui-ci.
+[4] En produisant sa déclaration de revenus de 2007, l’appelant a également déduit un montant de 4 640 $ payé en décembre 2007 à son ex-conjointe à titre de pension alimentaire. Le ministre a accepté cette déduction qui n’est pas en litige.
+[5] L’appelant appelle de la cotisation du ministre qui refuse la déduction du montant de 43 668,36 $ en question.
+[6] Le ministre a jugé opportun de demander, en vertu de l’article 174 de la Loi de l’impôt sur le revenu (LIR), que la Cour ordonne que l’ex-conjointe de l’appelant, Mme McClure, soit liée par la décision de cette cour. Cette demande fut accordée par une ordonnance rendue le 17 août 2009.
+[7] L’appelant a témoigné, ainsi que son ex-conjointe, Mme McClure, la tierce partie.
+[8] Les dispositions pertinentes de la LIR sont, quant à la déduction de pensions alimentaires par le payeur, l’alinéa 60b) et l’article 60.1, ainsi que, relativement à leur inclusion dans le revenu de la personne recevant la pension, l’alinéa 56(1)b) et l’article 56.1 de la LIR.
+[9] Il n’est pas contesté que le montant en question a été payé. Il n’y a pas de désaccord quant au montant ou quant au moment où il serait déductible. La seule question est de savoir si la LIR permet la déduction.
+[10] En conséquence, les dispositions applicables peuvent être réduites à ce qui suit, après avoir enlevé tous les mots qui ne peuvent être applicables aux faits de ce litige :
+56.1 […]
+Définitions
+(4) Les définitions qui suivent s’appliquent au présent article et à l’article 56.
+[…]
+« pension alimentaire » Montant payable ou à recevoir à titre d’allocation périodique pour subvenir aux besoins du bénéficiaire, d’enfants de celui-ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas :
+a) le bénéficiaire est l’époux ou le conjoint de fait ou l’ex-époux ou l’ancien conjoint de fait du payeur et vit séparé de celui-ci pour cause d’échec de leur mariage ou union de fait et le montant est à recevoir aux termes de l’ordonnance d’un tribunal compétent ou d’un accord écrit;
+[…]
+« pension alimentaire pour enfants » Pension alimentaire qui, d’après l’accord ou l’ordonnance aux termes duquel elle est à recevoir, n’est pas destinée uniquement à subvenir aux besoins d’un bénéficiaire qui est soit l’époux […] ou l’ex-époux […].
+[…]
+60 Peuvent être déduites dans le calcul du revenu d’un contribuable pour une année d’imposition les sommes suivantes qui sont appropriées :
+[…]
+Pension alimentaire
+b) le total des montants représentant chacun le résultat du calcul suivant :
+A – (B + C)
+où :
+A représente le total des montants représentant chacun une pension alimentaire […],
+B le total des montants représentant chacun une pension alimentaire pour enfants […],
+[…]
+Pension alimentaire
+60.1(1) Pour l’application de l’alinéa 60(1)b) […], dans le cas où une ordonnance ou un accord, ou une modification s’y rapportant, prévoit le paiement d’un montant à un contribuable ou à son profit, au profit d’enfants confiés à sa garde ou à la fois au profit du contribuable et de ces enfants, le montant ou une partie de celui-ci est réputé :
+a) une fois payable, être payable à la personne et à recevoir par elle;
+b) une fois payé, avoir été payé à la personne et reçu par elle.
+Entente
+(2) Pour l’application de l’article 60, du présent article […], le résultat du calcul suivant :
+A – B
+où :
+A représente le total des montants représentant chacun un montant […] qui est devenu payable par un contribuable au cours d’une année d’imposition, aux termes de l’ordonnance d’un tribunal compétent ou d’un accord écrit, au titre d’une dépense […] pour subvenir aux besoins d’une personne, d’enfants confiés à sa garde ou à la fois de la personne et de ces enfants, […] :
+[…]
+est réputé, lorsque l’ordonnance ou l’accord écrit prévoit que le présent paragraphe et le paragraphe 56.1(2) s’appliquent à un montant payé ou payable à leur titre, être un montant payable par le contribuable à cette personne et à recevoir par celle‑ci à titre d’allocation périodique, que cette personne peut utiliser à sa discrétion.
+Paiements antérieurs
+(3) Pour l’application du présent article et de l’article 60, lorsqu’un accord écrit ou l’ordonnance d’un tribunal compétent, établi à un moment d’une année d’imposition, prévoit qu’un montant payé avant ce moment […] est considéré comme payé et reçu au titre de l’accord ou de l’ordonnance, les présomptions suivantes s’appliquent :
+a) le montant est réputé avoir été payé au titre de l’accord ou de l’ordonnance;
+[…]
+Définitions
+(4) Les définitions figurant au paragraphe 56.1(4) s’appliquent au présent article et à l’article 60.
+[Je souligne.]
+[11] L’effet de la formule à l’alinéa 60b) et des définitions au paragraphe 56.1(4) est de rendre déductible une pension alimentaire qui est destinée uniquement à subvenir aux besoins de l’époux ou de l’ex-époux.
+[12] Selon le paragraphe 60.1(1), quand une ordonnance ou un accord prévoit un paiement à un contribuable ou à son profit, au profit d’enfants confiés à sa garde, ou aux deux, les montants payables sont réputés être payés à la personne, une fois payés.
+[13] Le paragraphe 60.1(1) ne crée pas en soi une déduction; les autres conditions de déductibilité doivent être respectées.
+[14] Il faut notamment que les montants soient payés « aux termes de l’ordonnance d’un tribunal compétent ou d’un accord écrit » i) en vertu de l’élément A de la formule à l’alinéa 60b) et de la définition de « pension alimentaire » au paragraphe 56.1(4)[1], et aussi, ii) dans le cas de paiements à un tiers, en vertu du paragraphe 60.1(2).
+[15] En soi, le paragraphe 60.1(2) n’a pas pour effet de créer une déduction : il a pour effet d’élargir la déduction à l’alinéa 60b) en réputant que certains paiements sont une allocation périodique que le bénéficiaire peut utiliser à sa discrétion, rendant ainsi ces paiements déductibles.
+[16] Toutefois, pour que le paragraphe 60.1(2) s’applique, il faut non seulement que les montants soient payables « aux termes de l’ordonnance d’un tribunal compétent ou d’un accord écrit », mais aussi que « l’ordonnance ou l’accord écrit prévoit que [le paragraphe 60.1(2)] et le paragraphe 56.1(2) s’appliquent » au montant en question.
+[17] Selon ces dispositions, on voit clairement que pour être déductibles comme pension alimentaire, les montants doivent nécessairement être payables en vertu d’un accord écrit ou de l’ordonnance d’un tribunal compétent. De plus, s’il s’agit de paiements à des tiers, l’accord ou l’ordonnance doit prévoir que les paragraphes 56.1(2) et 60.1(2) de la LIR s’appliquent. Je reviendrai ci-dessous à la question de la façon dont l’accord ou l’ordonnance doit faire référence auxdits paragraphes.
+[18] Finalement, je note que le paragraphe 60.1(3) prévoit que des montants payés avant qu’il n’y ait un accord écrit ou une ordonnance peuvent être déductibles, mais uniquement si l’accord écrit ou l’ordonnance le prévoit.
+[19] Par conséquent, il y a, entre autres, deux conditions très importantes à respecter :
+a) Une pension alimentaire ne peut être déductible en l’absence d’un accord écrit ou de l’ordonnance d’un tribunal compétent.
+b) Des paiements à des tiers ne peuvent être une pension alimentaire déductible que si l’ordonnance prévoit explicitement l’application des paragraphes 56.1(2) et 60.1(2) de la LIR (c’est-à-dire que le payeur peut déduire les montants et que le bénéficiaire doit les inclure dans son revenu).
+[20] L’appelant prétend :
+a) qu’un accord est intervenu entre lui-même et son ex-conjointe selon lequel il continuerait de payer directement à des tiers les dépenses de la maison;
+b) que cet accord a été maintenu par l’échange de correspondance entre son avocate et l’avocate de son ex-conjointe;
+c) que l’ordonnance de sauvegarde intervenue le 4 décembre 2007 a, entre autres, confirmé cet accord[2].
+[21] Quant à l’accord qui serait intervenu entre l’appelant et son ex‑conjointe avant l’échange de correspondance entre les procureurs, l’appelant lui-même qualifie cet accord de verbal[3].
+[22] Je suis d’avis qu’il n’y avait pas un accord verbal entre les parties. Ce que la preuve révèle est plutôt que l’appelant payait les dépenses de la maison avant la séparation et a continué de payer ces dépenses après la séparation. L’ex‑conjointe ne s’est pas opposée à cela et, dans ce sens, il y a, au plus, une acceptation implicite qu’il payait ces montants en attendant une résolution des aspects financiers de la séparation, mais il n’y avait pas d’accord entre l’appelant et son ex‑conjointe[4].
+[23] En payant ces dépenses avant qu’il y ait une ordonnance ou un accord écrit entre les parties, l’appelant agissait de façon raisonnable et responsable, mais il ne s’agit pas d’un accord écrit et encore moins d’un accord prévoyant explicitement l’application des paragraphes 56.1(2) et 60.1(2) de la LIR.
+[24] La correspondance entre les procureurs de l’appelant et de son ex‑conjointe a-t-elle mené à un accord relatif aux paiements à des tiers?
+[25] Il n’y a pas d’accord signé par l’appelant et son ex-conjointe en ce sens.
+[26] L’appelant a déposé en preuve certains passages de la correspondance entre son avocate et l’avocate de son ex‑conjointe[5].
+[27] La tierce partie a déposé en preuve les mêmes lettres au complet ainsi que des lettres additionnelles entre les procureurs des parties[6].
+[28] Il faut lire chaque lettre au complet pour bien saisir le contexte.
+[29] J’ai lu cette correspondance; il n’y a pas d’accord dans ces lettres[7]. Il s’agit d’une longue négociation durant laquelle de nombreux détails sont soulevés. Malgré les efforts des avocates, elles n’ont pas réussi à négocier un accord avant l’ordonnance rendue par la Cour supérieure du Québec le 4 décembre 2007[8].
+[30] Finalement, il y a l’ordonnance de sauvegarde[9], qui dit ceci :
+Ordonne à Monsieur de payer à titre de pension alimentaire à Madame McClure une pension alimentaire de 4 640 $ par mois rétroactif au 1er décembre 2007. De plus, Monsieur devra continuer à assumer toutes les dépenses pour la maison familiale qu’il assume présentement. Il devra aussi payer à titre de pension alimentaire pour l’enfant […].
+[31] Le montant de 4 640 $ est celui qui a été déduit par l’appelant et accepté par le ministre, et qui n’est pas en litige.
+[32] Dans ladite ordonnance, la Cour supérieure du Québec ordonne à l’appelant de payer les dépenses de la maison familiale, mais il n’y a rien dans l’ordonnance qui prévoit l’application des paragraphes 56.1(2) et 60.1(2) de la LIR ou qui prévoit que le montant sera déductible pour le payeur et inclus dans le revenu du bénéficiaire en ce qui concerne les dépenses pour la maison familiale.
+[33] L’appelant a invoqué la décision de la Cour d’appel fédérale dans Veilleux c. Canada[10]. Dans Veilleux, l’appelant et son ex-conjointe avaient signé une entente relative aux mesures accessoires datée du 1er décembre 1989 qui prévoyait, entre autres, que l’appelant s’engageait à payer les dépenses liées au domicile familial que continuait d’occuper son ex-conjointe et ses enfants. Cette entente ne faisait aucune mention du traitement fiscal des montants payés aux tiers relativement au domicile familial. Le 13 mars 1990, l’appelant et son ex-conjointe ont signé une entente complémentaire prévoyant ce qui suit :
+Toutes les sommes d’argent que M. Gaston Veilleux s’engage à verser à Mme Louise Ouellette sont des sommes d’argent nettes d’impôt; M. Gaston Veilleux s’engage donc à assumer les sommes d’impôt fédéral et provincial qui pourraient être dues par Mme Louise Ouellette et qui découlent du paiement de ladite pension alimentaire.
+Toutes les sommes versées à Mme Louise Ouellette ou à des tiers en son nom sont considérées faire partie de la pension alimentaire; parmi celles-ci figurent les dépenses reliées au domicile familial (i.e. le versement hypothécaire, les taxes municipales et scolaires, l’assurance-habitation, l’électricité, le chauffage, l’entretien et le câble) les dépenses reliées aux diverses assurances familiales (i.e. assurance-vie des personnes à charge, rente de survivant, frais d’hospitalisation, frais médicaux, frais para-médicaux, assurance dentaire), l’impôt provincial et fédéral et toute autre somme sur laquelle pourront s’entendre les deux parties (ex : réparation d’automobile, frais d’activités pour les enfants, etc...).
+[34] La Cour d’appel fédérale a décidé que l’obligation de prévoir explicitement l’application des paragraphes 56.1(2) et 60.1(2) avait été respectée dans l’entente complémentaire; l’essentiel est qu’il doit être clair dans l’accord que l’intention des parties est que le payeur puisse déduire les sommes dans ses déclarations de revenus et que le bénéficiaire doive les inclure. Il n’est pas nécessaire que l’accord fasse référence aux dispositions de la LIR. Cette intention des parties peut être exprimée dans un document autre que l’accord sur les paiements.
+[35] Toutefois, un accord à cet égard reste essentiel et la preuve ne révèle pas qu’il y ait eu un tel accord entre l’appelant et son ex-conjointe[11].
+[36] Finalement, il est important de noter que l’ordonnance de sauvegarde du 4 décembre 2007 de la Cour supérieure n’a aucun effet rétroactif, sauf dans la mesure où il y est ordonné que le paiement de la pension alimentaire soit rétroactif au 4 décembre 2007.
+[37] L’appelant a prétendu qu’il serait injuste que les montants en question ne soient pas déductibles. J’ai déjà dit que l’appelant avait agi de façon raisonnable et responsable en faisant les paiements avant qu’il y ait un accord ou une ordonnance et, comme l’a dit l’avocat de l’intimée, c’était tout à son honneur de l’avoir fait.
+[38] Toutefois, je ne suis pas en mesure de déterminer si le résultat de la non‑déductibilité est juste ou non. Cette question n’est pas devant la Cour. Cependant, quoi que serait la conclusion, je suis tenu d’appliquer la LIR[12].
+[39] En conséquence, les conditions requises pour permettre la déduction du montant en question ne sont pas remplies, et le ministre avait raison d’affirmer que l’appelant ne pouvait déduire ce montant dans sa déclaration de revenus.
+[40] L’appel sera rejeté avec frais à l’intimée et à la tierce partie selon le tarif B de l’annexe II.
+Signé à Ottawa (Ontario), ce 21e jour de juin 2011.
+« Gaston Jorré »
+Juge Jorré
+RÉFÉRENCE : 2011 CCI 311
+Nº DU DOSSIER DE LA COUR : 2009-452(IT)G
+INTITULÉ DE LA CAUSE : SYLVAIN POIRIER c. SA MAJESTÉ LA REINE et NANCY MCCLURE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 29 mars 2010
+MOTIFS DU JUGEMENT PAR : L’honorable juge Gaston Jorré
+DATE DU JUGEMENT : Le 21 juin 2011
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Philippe Dupuis
+Avocate de la tierce partie :
+Me Miriam Grassby
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa (Ontario)
+[1] Définition rendue applicable par le paragraphe 60.1(4).
+[2] Voir les moyens de l’appelant déposés le 29 mars 2010 et la transcription du 29 mars 2010, pages 28, 131 à 133, 135 et 136.
+[3] Voir la transcription du 29 mars 2010, question 34.
+[4] Il n’y a absolument rien dans le témoignage de l’ex-conjointe qui appuie la thèse d’un accord entre l’appelant et elle (transcription du 29 mars 2010, questions 272 à 280).
+[5] Pièce A-1, onglet 1.
+[6] Pièce INT-1, onglets 6-A à T.
+[7] Il y a diverses propositions, contre-propositions, questions, réponses et arguments, sans jamais aboutir à un accord.
+[8] D’ailleurs, cette absence d’accord se voit dans les commentaires de l’avocate de l’appelant, Me Perrault, aux pages 3 et 4 de la transcription de l’audition du 4 décembre 2007 devant la Cour supérieure du Québec (pièce INT-1, onglet 1‑A) où elle dit, entre autres, « [d]ans le temps que ça a pris pour se rendre devant vous, on a eu le temps de discuter, j’ai fait une offre à maître Grassby et je réalise que l’écart entre la position des parties est trop grand […] » et, en conséquence, Me Perrault a retiré une demande de remise.
+[9] Pièce INT-1, onglet 2.
+[10] 2002 CAF 201.
+[11] Il est parfois proposé dans la correspondance qu’il y ait paiement de certains montants qui seraient déductibles, mais comme je l’ai déjà mentionné, un accord n’est pas intervenu entre les parties. Un exemple se trouve dans la lettre envoyée le 11 juin 2007 par Me Grassby, l’avocate de l’ex-conjointe, à l’appelant. Au premier paragraphe de la page 2, il y a mention d’une somme de pension alimentaire qui serait déductible par l’appelant. Il s’agit d’un paragraphe dans une lettre proposant toute une série de conditions pour régler les aspects financiers de la séparation. À la dernière page, Me Grassby dit que la lettre est écrite « sans préjudice ». Par une lettre du 3 août 2007, l’avocate de l’appelant répond « sous toutes réserves » avec une contre-offre.
+L’appelant a déposé en preuve l’hypothèque de la maison familiale du 16 juillet 2004, avant la séparation (pièce A‑1, onglet 3). À la clause 6, l’appelant s’engage solidairement à payer tous les montants garantis par l’hypothèque et à exécuter toutes les obligations de son ex-conjointe. Je ne vois pas comment des paiements hypothécaires faits en vertu de cette clause pourraient être considérés comme des paiements de « pension alimentaire » selon la définition au paragraphe 56.1(4); de plus, il n’y a pas d’ordonnance ou d’accord écrit prévoyant que ces paiements seraient déductibles pour l’appelant et inclus dans les revenus du bénéficiaire comme l’exige le paragraphe 60.1(2).
+[12] Voir, par exemple, Poisson c. Canada, 2002 CAF 238, où le juge Létourneau dit :
+1 Malgré toute la sympathie que nous pouvons éprouver pour le demandeur qui a versé à son ex‑conjointe, au cours de l'année d'imposition 1997, une somme de 5 200 $ pour subvenir aux besoins de cette dernière et leur fille Valérie, nous sommes tenus d’appliquer les dispositions de la Loi de l'impôt sur le revenu (Loi), en l’occurrence les paragraphes 56.1(4) et 60.1(4) ainsi que l’alinéa 60b).

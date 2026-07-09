@@ -1,0 +1,211 @@
+---
+title: "Bird's Eye Cove Marina Ltd. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25976/index.do"
+last_modified: "2004-08-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 536"
+citation2: ""
+neutral_citation: "2004 CCI 536"
+decision_date: "2004-08-20"
+language: "fr"
+item_id: "25976"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3774
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:07:33.740000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "12db02788cc408fe624052a560b5d1d40cbe31b2028b2bcaf6257fe7a368810d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bird's Eye Cove Marina Ltd. c. La Reine
+
+- Citation: 2004 CCI 536
+- Decision date: 2004-08-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3774, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bird's Eye Cove Marina Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-08-20
+Référence neutre
+2004 CCI 536
+Numéro de dossier
+2002-2150(GST)G
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2002-2150(GST)G
+ENTRE :
+BIRD'S EYE COVE MARINA LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 9 juin 2004, à Vancouver (Colombie-Britannique)
+Devant : L’honorable L.M. Little
+Comparution :
+Avocat de l’appelante :
+Richard N. Toews
+Avocate de l’intimée :
+Patricia Babcock
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en vertu de la Partie IX de la Loi sur la taxe d'accise, datée du 16 juillet 1999 et portant le numéro 11CU0301709, est rejeté avec dépens, conformément aux motifs du jugement ci‑joints.
+Signé à Vancouver (Colombie-Britannique), ce 20e jour d’août 2004.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 20e jour de juillet 2005.
+Christiane Gosselin, traductrice
+Référence : 2004TCC536
+Date : 20040820
+Dossier : 2002-2150(GST)G
+ENTRE :
+BIRD'S EYE COVE MARINA LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Little
+[1] L’appelante a déposé un avis d’appel à l’encontre de la cotisation établie le 16 juillet 1999 en vertu de la Loi sur la taxe d'accise (la « Loi »).
+[2] Au début de l’audience, les parties ont déposé un exposé conjoint des faits et des questions en litige.
+[3] Voici l’exposé conjoint des faits :
+[Traduction]
+Les parties se sont entendues sur les faits suivants :
+1. Il s’agit d’un appel interjeté par l’appelante, Bird's Eye Cove Marina Ltd. (« Bird's Eye »), à l’encontre de la cotisation de taxe sur les produits et services (« TPS ») datée du 17 juillet 1999, et rajustant de 18 670,25 $ le montant demandé au titre du crédit fictif de taxe sur les intrants (« CFTI ») relativement à la disposition d’un bateau, le Illusions III (le « bateau » , par Bird's Eye et imposant une pénalité de 1 097,90 $ ainsi que des intérêts de 683,80 $;
+2. Skeena a été constituée en société en Colombie-Britannique le 1er avril 1976 et elle exploitait une entreprise de location, mais n’était pas inscrite au moment de ces transactions;
+3. M. John Morgan (« Morgan ») est actionnaire unique de Skeena;
+4. Bird's Eye a été constituée en société en C.-B, le 26 juin 1976.
+Elle exploitait une marina ainsi qu'une entreprise d'achat, de vente et de courtage de bateaux;
+5. Skeena est actionnaire unique de l’appelante;
+6. Le 25 novembre 1988, Royce-Pacific Properties Ltd. (« Royce ») a été constituée en société en C.-B. Elle œuvre dans le domaine de la location d'immeubles. Elle était inscrite à toutes les époques pertinentes;
+7. Morgan est actionnaire unique de Royce;
+8. Le 16 septembre 1988 ou vers cette date, Morgan a acheté le bateau de Bill Bonnette, un résident de Palm Beach, en Floride;
+9. En vertu d’une déclaration de fiducie datée du 22 septembre 1988, Skeena, en sa qualité de nu-fiduciaire de Morgan, détenait les droits, titres et intérêts sur le bateau et suivait les instructions que lui donnait Morgan au sujet du bateau;
+10. Le 10 février 1989 ou vers cette date, Skeena a importé le bateau au Canada;
+11. Le 13 mai 1995 ou vers cette date, Morgan, ou son cessionnaire a accepté d’acheter (le « marché ») de Brewmaster Distribution Inc. (« Brewmaster »), pour la somme de 546 000 $, des biens immobiliers (les « biens ») portant la description légale suivante : Lots 14, 15, Bloc 13, Plan 734, DL 4588, situés à l’adresse municipale suivante : 562 2nd Avenue, Fernie (C.-B.);
+12. En contrepartie des biens, Brewmaster devait obtenir le bateau, dont la valeur était de 285 000 $, et le reste du montant en espèce à la date de clôture;
+13. Le marché n’a pas été conclu, et un litige en exécution intégrale était en instance entre Brewmaster et Morgan en ce qui concerne les biens et le bateau, mais il ne s'agissait pas de la raison pour laquelle le bateau a été vendu à Bird's Eye;
+14. Le 20 mai 1996, Bird's Eye a conclu une entente provisoire en vue d’acheter le bateau de Skeena pour la somme de 287 000 $;
+15. Le 15 juin 1996, Bird's Eye a conclu une deuxième entente en vue d’acheter le bateau de Skeena en contrepartie de biens immobiliers situés dans l’État de Washington, É.-U., dont la description légale était Lot 2, à l'exclusion du plan no 578073, King County, no d'enr. 79081011161 (le « Lot »);
+16. Avant le 2 juillet 1996, Morgan a conclu une entente en vue de vendre le bateau à M. Gary B. Price (« Price ») de Woodville, Washington, É.-U., mais cette entente n’a pas été complètement exécutée en raison du litige en exécution intégrale qui l'opposait à Brewmaster. Le 2 juillet 1996 ou vers cette date, Morgan a conclu une deuxième entente qui lui accordait une certaine période pour obtenir la permission de vendre le bateau, sans qu’il soit porté atteinte à la réclamation en exécution intégrale déposée contre Brewmaster. Aux termes de cette entente, Morgan devait vendre le bateau à Price pour la somme de 195 000 $US, et en contrepartie partielle du bateau, Morgan devait recevoir le lot, dont la valeur s’élevait à 115 000 $US;
+17. La vente du bateau à Price devait faire l’objet d’une approbation par les tribunaux au plus tard le 19 juillet 1996;
+18. Par une ordonnance sur consentement datée du 19 juillet 1996, la Cour suprême de la Colombie-Britannique a accordé à Morgan la permission de vendre le bateau à Price pour la somme de 195 000 $ US;
+19. Le 24 juillet 1996, Bird's Eye a conclu une entente en vue de vendre le bateau à Royce pour la somme de 268 224,30 $, donc pour un montant inférieur à la somme de 287 700 $ que Bird's Eye avait accepté de payer pour celui-ci. Bird's Eye devait recouvrer la différence de 18 776 $ entre le montant qu'elle avait accepté de payer et le montant de la vente en réclamant un CTI de 18 775,70 $;
+20. En contrepartie partielle pour le bateau, Bird's Eye devait recevoir le Lot, dont la valeur était de 115 000 $US ou 158 183,65 $ CAN;
+21. Le 24 juillet 1996, l’achat du bateau par Bird's Eye à Skeena a été exécuté en vertu de l'entente datée du 15 juin 1996;
+22. Le 24 juillet 1996, la vente du bateau de Bird's Eye's à Royce pour la somme de 268 224,30 $ a été enregistrée au ministère des Transports;
+23. Le 25 juillet 1996, Royce a conclu une entente en vue de vendre le bateau à Price pour une somme de 195 000 $ US [soit l'équivalent de 268 224 $ CAN au taux de conversion de 1,37551], sans possibilité de « reprise ». Il s'agissait d'une vente exempte de taxe.
+24. Morgan a négocié l'achat du bateau à Skeena par Bird's Eye, sa revente par Bird's Eye à Royce et sa vente ultérieure par Royce à Price;
+25. Morgan avait déjà négocié la vente du bateau à Price;
+26. Si Skeena a vendu le bateau à Bird's Eye, c'est uniquement pour permettre à cette dernière de réclamer un CFTI, car Morgan n'aurait pu réclamer ce crédit s'il avait vendu le bateau directement à Price;
+27. Pour la période de déclaration se terminant le 30 septembre 1996, Bird's Eye a réclamé un CTI de 34 882,84 $, qui comprenait un CFTI de 18 775,70 $ équivalant aux 7/107 du prix d'achat du bateau, soit 287 000 $;
+28. Pendant toute la période en question, jusqu'au moment où ont eu lieu ces transactions, Morgan était le propriétaire bénéficiaire et avait l'usage personnel du bateau; et
+29. Pendant toute la période en question, toutes les négociations relatives à l'achat et à la vente du bateau se sont faites directement entre Morgan et Price.
+Questions en litige :
+30. Voici les questions en litige dans le présent appel :
+a. Bird's Eye a-t-il acquis le bateau pour utilisation ou fourniture dans le cadre d’une activité commerciale?
+b. Bird's Eye a-t-il acquis le bateau dans le cadre de ses activités normales?
+c. Bird's Eye a-t-il acquis le bateau dans le cadre d'une affaire quelconque?
+d. La pénalité a-t-elle été imposée de façon appropriée?
+Dispositions (extraits)
+[4] Au cours de la période en question (les deux articles ont été modifiés par la suite), l'alinéa 176(1)a) et le paragraphe 169(1) de la Loi se lisaient comme suit :
+176.(1) Acquisition de produits d'occasion. — Pour l'application de la présente partie, un inscrit est réputé avoir payé, dès qu'un montant est versé en contrepartie d'une fourniture, sauf s'il s'agit d'une fourniture détaxée ou si l'article 167 s'applique à la fourniture, la taxe relative à la fourniture, égale à la fraction de taxe de ce montant si:
+a) des biens meubles corporels d'occasion lui sont fournis par vente au Canada avant 1994, la taxe n'est pas payable par lui relativement à la fourniture et les biens sont acquis pour être fournis dans le cadre de ses activités commerciales
+b) des biens meubles corporels d'occasion lui sont fournis par vente au Canada avant 1994, la taxe n'est pas payable par lui relativement à la fourniture et les biens sont acquis pour être fournis dans le cadre de ses activités commerciales,
+Note : Le paragraphe 176(1) actuellement en vigueur s'applique aux fournitures faites après le 23 avril 1996, sauf dans deux situations. L'appelante pouvait toujours présenter une demande en vertu de l'ancien paragraphe 176(1) parce que le contrat a été signé le 15 juin 1996, c'est-à-dire avant la date limite du 1er juillet 1996.
+169.(1) Sous réserve de la présente partie, le crédit de taxe sur les intrants d'une personne, pour sa période de déclaration au cours de laquelle elle est un inscrit, relativement à un bien ou à un service qu'elle importe ou qui lui est fourni, correspond au résultat du calcul suivant si, au cours de cette période, la taxe relative à l'importation ou à la fourniture devient payable par la personne ou est payée par elle sans qu'elle soit devenue payable :
+A × B
+où
+A représente la taxe relative à l'importation ou à la fourniture qui, au cours de la période de déclaration, devient payable par la personne ou est payée par elle sans qu'elle soit devenue payable;
+B représente […]
+c) dans les autres cas, le pourcentage qui représente la mesure dans laquelle la personne a acquis ou importé le bien ou le service pour consommation, utilisation ou fourniture dans le cadre de ses activités commerciales.
+123.(1) « activité commerciale » Constituent des activités commerciales exercées par une personne :
+a) l'exploitation d'une entreprise (à l'exception d'une entreprise exploitée sans attente raisonnable de profit par un particulier, une fiducie personnelle ou une société de personnes dont l'ensemble des associés sont des particuliers), sauf dans la mesure ou l'entreprise comporte la réalisation par le personne de fournitures exonérées;
+b) les projets à risque et les affaires de caractère commercial (à l'exception de quelque projet ou affaire qu'entreprend, sans attente raisonnable de profit, un particulier, une fiducie personnelle ou une société de personnes dont l'ensemble des associés sont des particuliers), sauf dans la mesure où le projet ou l'affaire comporte la réalisation par la personne de fournitures exonérées;
+c) la réalisation de fournitures, sauf des fournitures exonérées, d'immeubles appartenant à la personne, y compris les actes qu'elle accomplit dans le cadre ou à l'occasion des fournitures;
+« entreprise » Sont compris parmi les entreprises les commerces, les industries, les professions et toutes affaires quelconques avec ou sans but lucratif, ainsi que les activités exercées de façon régulière ou continue qui comportent la fourniture de biens par bail, licence ou accord semblable. En sont exclus les charges et les emplois.
+Jurisprudence et notes techniques
+[5] Dans l'affaire Fedak c. Canada[1], la juge Lamarre-Proulx de la Cour canadienne de l’impôt décrit ainsi le paragraphe 176(1) de la Loi :
+[11] Le paragraphe 176(1) de la Loi prévoyait un crédit fictif de taxe sur les intrants pour l'inscrit qui avait acheté des produits d'occasion d'un non-inscrit dans le but de les revendre. C'était l'inscrit, et non le particulier qui donnait le bien en échange, qui avait droit au crédit fictif de taxe sur les intrants. Cette disposition avait pour objet de faire en sorte, d'une part, que la taxe initialement payée par le commerçant fasse partie du prix du bien que l'inscrit (le vendeur) achetait en échange et, d'autre part, que l'inscrit ait le droit de demander cette taxe fictive comme crédit de taxe sur les intrants. Le fournisseur devait exiger la taxe sur le plein montant d'une fourniture lorsqu'il reprenait un bien, puis demander un crédit fictif de taxe sur les intrants en vertu de l'article 176 de la Loi. Rien dans la loi n'exigeait que la valeur du bien repris soit transférée à l'acquéreur. Dans un tel cas, le crédit fictif de taxe sur les intrants équivalait, aux termes du paragraphe 176(1) de la Loi, à 7/107 de la valeur du bien repris.
+[6] Voici ce que disent (en partie) les notes techniques concernant le paragraphe 176(1) :
+Notes techniques (mai 1990) : L'alinéa 176(1)a) s'applique dans les cas où, après 1993, un inscrit achète un produit d'occasion sans qu'aucune taxe ne soit payée pour cet achat; par exemple, si le produit est acheté d'un non-inscrit ou d'un inscrit qui ne l'a pas utilisé essentiellement aux fins d'une activité commerciale (voir le paragraphe 200(3)). À condition que l'inscrit achète le produit d'occasion en vue de son utilisation, de sa consommation ou de sa fourniture dans le cadre de ses activités commerciales, ce paragraphe stipule que l'inscrit est réputé avoir payé la TPS, qui est de 7/107 du prix d'achat. L'inscrit peut alors réclamer un crédit de taxe sur les intrants du même montant en vertu de l'article 169.[…]
+L'alinéa 176(1)b) est une disposition transitoire applicable aux produits d'occasion fournis à un inscrit avant 1994. Il diffère de la règle décrite à l'alinéa 176(1)a) dans le sens qu'il s'applique uniquement dans les cas où le produit d'occasion acquis par un inscrit est destiné à la fourniture (c.-à-d. à être revendu ou loué) dans le cadre des activités commerciales de ce dernier. Par conséquent, un inscrit qui acquiert des produits d'occasion, avant 1994, auprès d'un non-inscrit, en vue de les utiliser autrement que pour les fournir) par exemple, si les produits d'occasion ont été acquis pour être utilisés comme immobilisations), est réputé ne pas payer de TPS sur ces produits. En conséquence, la personne ne peut demander de crédit de taxe sur les intrants pour l'acquisition.
+Conclusion
+[7] Comme il est indiqué ci-dessus, pour pouvoir présenter une demande de CFTI, l'appelante devait répondre aux critères énoncés à l'alinéa 176(1)a) et au paragraphe 169(1). L'alinéa 176(1)a) exige que les biens meubles corporels d'occasion soient fournis à un inscrit par vente au Canada et après 1993, et que les biens soient acquis pour consommation, utilisation ou fourniture dans le cadre d'activités commerciales. Lorsque ces critères sont respectés, l'inscrit est réputé avoir payé la taxe sur les biens fournis et il peut alors réclamer un CFTI. Le CFTI est réclamé en vertu du paragraphe 169(1) et dans la mesure où les biens sont acquis pour consommation, utilisation ou fourniture exclusive dans le cadre de ses activités commerciales. Selon la Loi, une activité commerciale doit donner lieu à une attente raisonnable de profit. La jurisprudence laisse entendre qu'en plus de l'attente raisonnable de profit, d'autres critères comme celui que la Cour suprême du Canada a examinés dans l'arrêt Stewart c. Canada (« indice de commercialité »)[2], peuvent aider à établir s'il y a activité commerciale.
+[8] J'ai conclu que la vente du bateau de Skeena à l'appelante, puis de l'appelante à Royce n'a pas été effectuée dans le cadre des activités commerciales de l'appelante. Voici les raisons pour lesquelles j'en suis venu à cette conclusion :
+l. Le bateau a été vendu dans le but de réclamer un remboursement d'impôt.[3]
+2. Bird's Eye ne pouvait raisonnablement s'attendre à réaliser des profits lorsqu'elle a vendu le bateau à Royce pour un prix inférieur à sa juste valeur marchande.
+3. Dans le cas de chaque transaction, Morgan avait la propriété bénéficiaire et le contrôle du bateau[4].
+[9] J'ai également conclu que la pénalité imposée était applicable.
+[10] L'appel est rejeté avec dépens.
+Signé à Vancouver, Colombie-Britannique, le 20e jour d'août 2004.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 20 e jour de juillet 2005.
+Christiane Gosselin, traductrice
+RÉFÉRENCE :
+2004TCC536
+No DU DOSSIER DE LA COUR :
+2002-2150(GST)G
+INTITULÉ DE LA CAUSE :
+Bird's Eye Cove Marina Ltd. et
+Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L'AUDIENCE :
+9 juin 2004
+MOTIFS DU JUGEMENT PAR :
+L'honorable L.M. Little
+DATE DU JUGEMENT :
+20 août 2004
+COMPARUTIONS :
+Avocat de l'appelante :
+Richard N. Toews
+Avocate de l'intimée :
+Patricia Babcock
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Richard N. Toews
+Cabinet :
+Toews & Company
+Squamish (Colombie-Britannique)
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] [1999] T.C.J. No. 392.
+[2] [2002] 2 R.C.S. 645.
+[3] Voir le paragraphe 26 de l'exposé conjoint des faits.
+[4] Voir le paragraphe 28 de l'exposé conjoint des faits.

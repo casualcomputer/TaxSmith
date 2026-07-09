@@ -1,0 +1,438 @@
+---
+title: "Lyrtech RD Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31069/index.do"
+last_modified: "2013-01-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 12"
+citation2: ""
+neutral_citation: "2013 CCI 12"
+decision_date: "2013-01-24"
+language: "fr"
+item_id: "31069"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4710
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:32:03.026000+00:00"
+cases_cited_count: 5
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4538db001b315a15d6dac0667f0f4bee9cc08c7fe95a8e178408e5d6cc5c6f2d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lyrtech RD Inc. c. La Reine
+
+- Citation: 2013 CCI 12
+- Decision date: 2013-01-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4710, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lyrtech RD Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-01-24
+Référence neutre
+2013 CCI 12
+Numéro de dossier
+2009-1057(IT)G
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-1057(IT)G
+ENTRE :
+LYRTECH RD INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 17, 18 et 19 avril 2012, à Québec (Québec).
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Avocat de l'appelant :
+Me René Roy
+Avocats de l'intimée :
+Me Anne Poirier
+Me Dany Leduc
+____________________________________________________________________
+JUGEMENT
+Les appels à l'encontre des cotisations établies en vertu de la Loi de l'impôt sur le revenu par le ministre du Revenu national en date du 8 février 2008 pour l'année d'imposition 2005 et en date du 9 juillet 2008 pour les années d'imposition 2006 et 2007 de l'appelante sont rejetés avec dépens conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 24e jour de janvier 2013.
+« Réal Favreau »
+Juge Favreau
+Référence : 2013 CCI 12
+Date : 20130124
+Dossier : 2009-1057(IT)G
+ENTRE :
+LYRTECH RD INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s'agit d'appels à l'encontre de cotisations émises en vertu de la Loi de l’impôt sur le revenu, L.R.C. (1985) ch. 1 (5e Suppl.), telle que modifiée (la « Loi ») par le ministre du Revenu national (le « ministre ») en date du 8 février 2008 pour l'année d'imposition 2005 et en date du 9 juillet 2008 pour les années d'imposition 2006 et 2007 de l'appelante.
+[2] Par les cotisations du 8 février 2008 et du 9 juillet 2008, les changements suivants furent apportés aux crédits d'impôt à l'investissement (les « CII ») réclamés par l'appelante et aux remboursements des CII demandés :
+2005
+$
+2006
+$
+2007
+$
+Revenu net (Perte nette) antérieur(e)
+(-1 905 513)
+(-4 453 027)
+(-7 325 312)
+Dépenses de R & D déclarées
+1 215 211
+1 886 261
+2 397 527
+Dépenses de R & D révisées
+1 046 328
+1 626 415
+2 611 237
+Différence :
+(-168 883)
+(-259 846)
+213 710
+Revenu net (Perte nette) révisé(e)
+(-2 074 396)
+(-4 712 873)
+(-7 111 602)
+Crédits de R & D demandés
+387 922
+697 419
+806 599
+Crédits de R & D acceptés
+216 368
+334 153
+504 288
+Crédits de R & D refusés
+171 554
+363 266
+302 311
+Remboursement des CII demandés
+384 812
+663 130
+742 640
+Remboursement des CII acceptés
+0
+0
+0
+CII à reporter
+216 368
+550 521
+1 054 809
+[3] Dans son avis d'appel, l'appelante ne conteste pas les changements apportés par le ministre relativement aux dépenses de recherche scientifique et de développement expérimental (la « RS & DE ») déclarées par l'appelante.
+[4] La question en litige consiste à déterminer si l'appelante était une « société privée sous contrôle canadien » au sens de la définition prévue à l'alinéa 125(7)a) de la Loi au cours des années d'imposition se terminant les 31 décembre 2005, 2006 et 2007. Si l'appelante n'était pas une « société privée sous contrôle canadien » au cours de ces années d'imposition, elle ne pouvait avoir droit à la majoration du crédit d'impôt à l'investissement de 15% en vertu du paragraphe 127(10.1) de la Loi et elle ne pouvait avoir droit au remboursement du crédit d'impôt à l'investissement en vertu du paragraphe 127.1(1) de la Loi n'étant pas une société admissible au sens du paragraphe 127.1(2) de la Loi.
+Position de l'intimée
+[5] L'intimée soutient que pour les années d'imposition se terminant les 31 décembre 2005, 2006 et 2007, l'appelante était contrôlée, directement ou indirectement, de quelque manière que ce soit par Lyrtech Inc. (« Lyrtech » ), une société publique au sens du paragraphe 89(1) de la Loi, parce que cette dernière avait une influence directe ou indirecte dont l'exercice entraînait le contrôle de fait de l'appelante au sens du paragraphe 256(5.1) de la Loi.
+[6] Subsidiairement, l'intimée soutient que chacun des bénéficiaires de la Fiducie Financière Lyrtech (« FFL »), soit les sociétés 4296621 Canada Inc. (« 4296621 »), 4296630 Canada Inc. (« 4296630 ») et 4296648 Canada Inc. (« 4296648 »), avait un droit conditionnel aux actions du capital-actions de l'appelante de sorte que chacune de ces sociétés était réputée contrôler l'appelante en vertu du sous-alinéa 251(5)(b)(i) de la Loi et avait le contrôle de droit de l'appelante.
+Position de l'appelante
+[7] Le procureur de l’appelante soutient qu’il n’y a pas lieu de considérer si un contrôle de fait de l’appelante existait compte tenu du fait que le contrôle de droit de l’appelante appartenait à FFL. En l’absence de dispositions législatives expresses et précises, l’analyse des contrôles de droit et de fait ne peut être effectuée de façon simultanée.
+[8] Le procureur de l’appelante soutient également que le contrôle de fait de l’appelante n’appartenait pas à Lyrtech parce que cette dernière ne pouvait exercer d’influence sur les décisions du conseil d’administration de l’appelante.
+Entente partielle sur les faits
+[9] Les parties ont produit une entente partielle sur les faits datée du 13 avril 2011 dont je reproduis intégralement la section sur les faits :
+Lyrtech inc.
+1. Technologies Lyre inc. a été constituée le 26 juin 1991, en vertu de la Partie 1A de la Loi sur les compagnies (Québec), et se spécialisait dans la conception, la fabrication et la mise en marché de circuits électroniques numériques et de circuits analogiques.
+2. Technologies Lyre inc. était engagée dans la recherche et développait, pour son propre bénéfice ou pour le compte d'autrui, des produits à base de processeurs de signaux numériques dans le domaine des télécommunications numériques ainsi que divers autres produits électro‑optique.
+3. Messieurs Louis Bélanger et Louis Chouinard étaient les fondateurs de Technologies Lyre inc.
+4. La société Lyrtech inc. (Lyrtech) a été incorporée le 9 mars 2000 en vertu de la partie 1A de la Loi sur les compagnies du Québec.
+5. Le 1er septembre 2000, Technologies Lyre inc. a acquis le contrôle de Lyrtech inc.
+6. Le 1er septembre 2000, Lyrtech inc. a fusionné avec Technologies Lyre inc. et a continué les activités de cette dernière.
+7. Suite à un appel à l'épargne au moyen d'un prospectus[1], déposé le 4 octobre 2000, Lyrtech est devenue, une société publique dont une catégorie d'actions du capital-actions était cotée à une bourse de valeurs désignée située au Canada.
+8. Avant le 1er juin 2005, Lyrtech avait des activités de R&D et à ce titre, réclamait des crédits d'impôt à l'investissement.
+9. À titre de société publique, Lyrtech réclamait, à l'encontre de son impôt payable, des crédits d'impôt à l'investissement non remboursables au taux de 20 % du compte de dépenses admissibles de R&D. Pour ses années d'imposition 2000 à 2004, Lyrtech était en situation de pertes. Par conséquent, elle n'a pu bénéficier du crédit d'impôt à l'investissement fédéral puisque celui-ci était non remboursable.
+Réorganisation
+10. Au cours de l'année 2005, Lyrtech a réorganisé ses affaires dans le but de transférer ses activités de R&D à une nouvelle société, à savoir l’appelante.[2]
+11. Le 30 mai 2005, la société 4296621 Canada inc. (4296621) a été constituée. Lyrtech a souscrit à 400 actions de catégorie « A » du capital‑actions de cette nouvelle société pour un montant de 400 $.
+12. Miguel Caron et Louis Bélanger ont été nommés administrateurs de 4296621.
+13. Le 30 mai 2005, la société 4296630 Canada inc. (4296630) a été constituée. 4296621 a souscrit à 100 actions de catégorie « A » du capital‑actions de cette nouvelle société pour un montant de 100 $.
+14. Miguel Caron et Louis Bélanger ont été nommés administrateurs de 4296630.
+15. Le 30 mai 2005, la société 4296648 Canada inc. (4296648) a été constituée. 4296621 a souscrit à 100 actions de catégorie « A » du capital‑actions de cette nouvelle société pour un montant de 100 $.
+16. Miguel Caron et Louis Bélanger ont été nommés administrateurs de 4296648.
+17. Le 1er juin 2005, Fiducie Financière Lyrtech (FFL) a été créée. L’auteur de cette fiducie était 4296621.
+18. Les bénéficiaires du revenu étaient les sociétés 4296630, 4296648, et l’appelante alors que les bénéficiaires du capital étaient les sociétés 4296630, 4296648 et 4296621.[3]
+19. Du 1er juin au 17 juin 2005, les fiduciaires étaient, Miguel Caron, Vincent Bélanger et Louis Bélanger.
+20. À compter du 17 juin 2005, Miguel Caron et Louis Bélanger étaient les fiduciaires.
+21. Aux termes de l’acte de fiducie, les fiduciaires de FFL cessent de l’être lorsqu’ils ne sont plus administrateurs de Lyrtech et le nombre de fiduciaires de FFL ne peut être supérieur au nombre d’administrateurs de Lyrtech.
+22. Aux termes de l’acte de fiducie, FFL doit distribuer annuellement à ses bénéficiaires la totalité de son revenu fiscal. La répartition du revenu et du capital entre les bénéficiaires est discrétionnaire.
+23. Le 30 mai 2005, Lyrtech RD inc. (l’appelante) a été constituée.
+24. Le 1er juin 2005, 4296621 a donné à FFL un montant d’argent de 200 $.
+25. Le 1er juin 2005, FFL a souscrit à 100 actions de catégorie « E » du capital‑actions de 4296630 pour un montant de 100 $.
+26. Le 1er juin 2005, FFL a souscrit à 100 actions de catégorie « A » pour un montant de 100 $ et à 100 actions de catégorie « B » du capital‑actions de l’appelante pour un montant de 100 $.
+27. Miguel Caron et Louis Bélanger ont été nommés administrateurs de l’appelante.
+28. Le 1er juin 2005, 4296621 a octroyé à l’appelante une option d’acquérir à la juste valeur marchande la totalité des actions de l’une ou l’autre des sociétés 4296648 ou 4296630. Selon l’appelante, cette opération visait à assurer un lien de dépendance entre Lyrtech et l’appelante, au sens de l’article 251 de la Loi de l’impôt sur le revenu, pour les fins de l’application de l’article 7 de cette même loi.
+29. Le 1er juin 2005, les fiduciaires de FFL ont, au moyen d’une déclaration de l’actionnaire unique, retiré tous les pouvoirs que détiennent les administrateurs de l’appelante pour les exercer eux-mêmes, conformément au paragraphe 146(2) de la Loi canadienne sur les sociétés par actions.
+30. Le 1er juin 2005, Lyrtech a transféré à la juste valeur marchande la totalité de ses éléments d’actif liés à la R&D (sauf la propriété intellectuelle), de même que les employés affectés aux activités de R&D en faveur de l’appelante, en contrepartie de l’émission par cette dernière de 1 016 437 actions de catégorie « C » de son capital‑actions.
+31. Le 1er juin 2005, l’appelante a racheté les actions de catégorie « C » de son capital‑actions détenues par Lyrtech. En contrepartie, l’appelante a émis en faveur de Lyrtech un billet payable à demande d’un montant de 1 016 437 $.
+32. Vers le 1er juin 2005, Lyrtech a souscrit à 1 016 437 actions de catégorie « A » du capital‑actions de 4296621. Le prix de souscription a été acquitté par la remise à cette dernière du billet payable par l’appelante.
+33. Le 1er juin 2005, 4296621 a effectué un apport de capital à 4296630 en transférant à celle-ci le billet payable par l’appelante.
+34. Le 1er juin 2005, 4296630 a versé un dividende de 1 016 437 $ sur les actions de catégorie « E » de son capital‑actions détenues par FFL. Ce dividende a été acquitté par la remise à FFL du billet payable par l’appelante.
+35. Le 1er juin 2005, Lyrtech a octroyé un contrat de recherche à l’appelante dans lequel cette dernière s’engageait à effectuer tous les travaux de R&D afin de poursuivre le développement des technologies brevetées ou détenues par Lyrtech et que pouvaient lui confier cette dernière.[4]
+36. En contrepartie, l’appelante obtient une participation dans les revenus futurs. L’appelante a droit à 10% des recettes générées par les ventes de produits résultant des travaux de R&D et à 25 % des recettes générées par l’octroi de licences relatives aux produits résultant des travaux de R&D.
+37. Le contrat de recherche est d’une durée indéterminée. Cependant, Lyrtech peut, entre autres, mettre fin au contrat de recherche en donnant un avis de 60 jours à cet effet à l’appelante.
+38. L’organigramme daté du 1er juin 2005 joint à la réponse modifiée à l’avis d’appel représente bien la structure organisationnelle de Lyrtech et de l’appelante après la réorganisation, en précisant que :
+· Louis Bélanger, Louis Chouinard et Société Innovatech Qc et
+Chaudière‑Appalaches n’étaient pas les seuls actionnaires de Lyrtech;
+· selon les Circulaires d’information de la direction de Lyrtech, aucun actionnaire de Lyrtech ne détenait plus de 10% des actions de catégorie A du capital-actions de Lyrtech.
+39. Suite à la réorganisation corporative, l’appelante a produit ses déclarations de revenus à titre de SPCC et a réclamé le crédit d’impôt à l’investissement remboursable à un taux de 35 %.
+Analyse des activités et des relations entre Lyrtech et l’appelante
+40. Depuis le début de son exploitation, l’appelante occupait un espace dans le même local que la société Lyrtech.
+41. Ce local était loué par la société Lyrtech pour un loyer mensuel de 15 848 $, excluant les taxes.
+42. Au 24 janvier 2007, aucun bail écrit n’avait été établi entre Lyrtech et l’appelante.
+43. Du 1er juin au 31 décembre 2005, l’appelante n’a comptabilisé aucune dépense de loyer.
+44. Selon une répartition en fonction du nombre d’employés, l’appelante aurait dû assumer un loyer d’environ 60 400 $ (15 848 $ X 7 mois X 43/79).
+45. Certaines personnes étaient membres à la fois [sic] du personnel administratif de Lyrtech et de l’appelante.
+46. Monsieur Miguel Caron a été à la fois [sic] président de Lyrtech et de l’appelante.
+47. Monsieur Alain Landry a été à la fois vice-président aux finances et aux ressources humaines de Lyrtech et de l’appelante.
+48. Monsieur Daniel Bellemare a été à la fois contrôleur de Lyrtech et de l’appelante.
+49. Madame Sylvie Coulombe a été à la fois secrétaire de Lyrtech et de l’appelante.
+50. L’appelante a assumé une partie des dépenses encourues par Lyrtech et reliées à l’entreprise de celle-ci. Ces dépenses ont été passées sous forme d’écritures comptables et réparties en majorité en fonction du nombre d’employés, soit un rapport de 43/79, dont les dépenses suivantes :
+a) L’appelante assume une partie de la prime d’assurance-vie de
+certains dirigeants, alors que c’est uniquement Lyrtech qui est bénéficiaire de la police d’assurance-vie.
+b) L’appelante assume une partie de la prime d’assurance couvrant les
+dommages à l’équipement appartenant aux deux sociétés alors que c’est uniquement Lyrtech qui est bénéficiaire de la police d’assurance.
+c) L’appelante a assumé une partie de la dépense d’honoraires comptables relative à la vérification des états financiers consolidés de Lyrtech.
+d) L’appelante a assumé une partie des coûts relatifs aux jetons de présence remis aux participants des réunions du conseil d’administration de Lyrtech.
+e) L’appelante a assumé une partie de la rémunération versée à Pierre Lortie, président du conseil d’administration de Lyrtech.
+51. Pour l’année terminée le 31 décembre 2005, aucune redevance ou royauté n’a été versée à l’appelante par Lyrtech, aux termes du contrat de recherche du 1er juin 2005, de sorte que l’appelante n’a eu aucun revenu pour cette année.
+52. Pour la période en litige, l’appelante n’avait pas de marge de crédit.
+53. Avant le mois de mars 2006, elle n’avait aucun prêt bancaire. En mars 2006, l’appelante a obtenu une facilité de crédit auprès d’une institution bancaire en bénéficiant de deux prêts mis à sa disposition pour financer les crédits de R&D.[5]
+54. Lyrtech s’est portée caution de ces prêts.
+55. Au cours de la période du 1er juin au 31 décembre 2005, Lyrtech a transféré une somme d’environ 2 037 481 $ à l’appelante.
+56. Pour l’année terminée le 31 décembre 2006, les dépenses d’entreprise encourues par l’appelante ont été établies à environ 224 000 $. Ces dépenses de 224 000 $ ont été initialement acquittées par Lyrtech.
+57. Pour l’année terminée le 31 décembre 2006, Lyrtech devait un montant d’environ 269 000 $ à l’appelante, à titre de redevances ou royautés découlant du contrat de recherche liant les sociétés.
+58. À la lumière des faits mentionnés aux [sic] deux paragraphes qui précèdent, Lyrtech était donc endettée d’environ 45 000 $ envers l’appelante et cette somme n’a jamais été remboursée.
+59. Dans ses déclarations de revenus pour les années terminées les 31 décembre 2006[6] et 2007[7], l’appelante n’a déclaré aucun revenu de redevance ou de royauté.
+60. Monsieur Bellemare, contrôleur de Lyrtech et de l’appelante, s’est occupé d’effectuer les transferts de fonds électroniques entre les diverses sociétés.
+61. Monsieur Bellemare effectuait les transferts de fonds en fonction des dépenses engagées par l’appelante.
+62. L’appelante ne pourrait fonctionner sans les avances de fonds provenant de Lyrtech.
+63. En 2005, lorsque Lyrtech prête des fonds à l’appelante, M. Bellemare fait circuler les fonds via les filiales 4296621, 496630 et FFL. Après cette étape, l’appelante retourne les fonds qu’elle a reçus de FFL à Lyrtech qui, à son tour, les retourne directement à l’appelante. En fait, ces deux derniers transferts d’argent s’annulent.
+64. Alain Landry, Miguël Caron et Daniel Bellemare possèdent l’autorisation de signer les chèques de Lyrtech et de l’appelante.
+65. Une firme de comptables externe a consolidé les états financiers de Lyrtech et de l’appelante en se basant sur la note d’orientation no15 de l’Institut canadien des comptables agréées (« ICCA »)[8] qui s’applique lorsqu’une entité exerce un contrôle sur une autre entité autrement que par la détention de droit de vote, mais plutôt par des droits contractuels ou autres intérêts financiers, comme il est indiqué au paragraphe introductif (paragraphe 1) de cette note d’orientation.
+66. Selon la firme comptable externe, la raison principale qui a amené à consolider les activités de l’appelante dans Lyrtech a trait aux avances de fonds que l’appelante a reçues de Lyrtech, soit directement ou soit par l’entremise de ses filiales et de FFL.
+4296630, 4296648 et 4296621
+67. Pour la période du 1er juin 2005 au 31 décembre 2007, un montant d’environ 11 850 000 $ a transité entre Lyrtech et l’appelante, pour lesquelles des résolutions de régularisation ont été faites le 6 mars 2008.[9]
+68. Les livres corporatifs des sociétés 4296630, 4296648 et 4296621 ont été complétés lors de la réorganisation corporative, dont les transactions sont décrites aux paragraphes 10 à 37 de la présente entente, mais n’ont pas été mis à jour par la suite, exception faite des résolutions de régularisations mentionnées au paragraphe précédent.
+69. Il n’existe aucune minute dans la société 4296621 concernant la souscription d’actions de la société Lyrtech à son capital-actions pour un montant total d’environ 2 037 481 $.
+70. Il n’y a aucune mention au registre des actionnaires de la société 4296621 de la souscription d’un montant total d’environ 2 037 481 $ à son capital‑actions, mais ce montant était comptabilité aux états financiers de cette dernière.
+71. Il n’y a aucun livre ou registre faisant mention des avances au capital‑actions de la société 4296630 par la société 4296621.
+72. Les sociétés 4296648, 4296621 et 4296630 n’ont produit leurs déclarations de revenus pour les années d’imposition 2006 et 2007 que le 30 juillet 2009.
+73. Il n’y a aucune information concernant les dividendes que la société 4296630 a versés sur ses actions de catégorie « E » détenues par FFL.
+[10] L’organigramme daté du 1er juin 2005 représentant la structure organisationnelle de Lyrtech et de l’appelante, joint à la réponse modifiée à l’avis d’appel, est produit en annexe.
+Analyse
+[11] Les dispositions de la Loi pertinentes aux fins du présent litige sont l’alinéa (a) de la définition de « société publique » au sens du paragraphe 89(1), la définition de « société privée sous contrôle canadien » au sens du paragraphe 125(7), la définition de « société non admissible » au sens du paragraphe 127(9), le paragraphe 127(10.1), la définition de « société admissible » au sens du paragraphe 127.1(2), le paragraphe 248(25), le paragraphe 251(5) et les paragraphes 256(5.1), 256(6.1) et 256(6.2). Ces dispositions se lisent comme suit :
+Définitions
+89. (1) Les définitions qui suivent s’appliquent à la présente sous-section.
+[…]
+« société publique » Est une société publique à un moment donné :
+a) la société qui réside au Canada au moment donné et dont une catégorie d’actions du capital-actions est cotée, à ce moment, à une bourse de valeurs désignée située au Canada;
+125(7) Les définitions qui suivent s’appliquent au présent article.
+[…]
+« société privée sous contrôle canadien » Société privée qui est une société canadienne, à l’exception des sociétés suivantes :
+a) la société contrôlée, directement ou indirectement, de quelque manière que ce soit, par une ou plusieurs personnes non-résidentes, par une ou plusieurs sociétés publiques (sauf une société à capital de risque visée par règlement), par une ou plusieurs sociétés visées à l’alinéa c) ou par une combinaison de ces personnes ou sociétés;
+b) si chaque action du capital-actions d’une société appartenant à une personne non-résidente, à une société publique (sauf une société à capital de risque visée par règlement,) ou à une société visée à l’alinéa c) appartenait à une personne donnée, la société qui serait contrôlée par cette dernière;
+c) la société dont une catégorie d’actions du capital-actions est cotée à une bourse de valeurs désignée;
+d) pour l’application du paragraphe (1), des alinéas 87(2)vv) et ww) (compte tenu des modifications apportées à ces alinéas par l’effet de l’alinéa 88(1)e.2)), des définitions de « compte de revenu à taux général », « compte de revenu à taux réduit » et » désignation excessive de dividende déterminé » au paragraphe 89(1) et des paragraphes 89(4) à (6) et (8) à (10) et 249(3.1), la société qui a fait le choix prévu au paragraphe 89(11) et qui ne l’a pas révoqué selon le paragraphe 89(12).
+127(9) Les définitions qui suivent s’appliquent au présent article.
+[…]
+« société non admissible » L’une des sociétés suivantes à un moment donné :
+a) une société qui, à ce moment, n’est pas une société privée sous le contrôle canadien;
+b) une société qui serait redevable de l’impôt prévu à la partie I.3 pour son année d’imposition qui comprend ce moment s’il n’était pas tenu compte du paragraphe 181.1(4) et si le montant déterminé relativement à la société pour l’année selon le paragraphe 181.2(3) était déterminé compte non tenu des montants visés à l’un des alinéas 181.2(3)a), b), d) et f), dans la mesure où les montants visés ont servi à acquérir un bien qui serait un bien admissible de petite entreprise si la société n’était pas une société non admissible;
+c) une société qui, à ce moment, est liée, pour l’application de l’article 181.5, à une société visée à l’alinéa b).
+127(10.1) Pour l’application de l’alinéa e) de la définition de « crédit d’impôt à l’investissement » au paragraphe (9), le montant correspondant à 15% du moins élevé des montants suivants est à ajouter dans le calcul du crédit d’impôt à l’investissement d’une société à la fin de l’année d’imposition tout au long de laquelle elle a été une société privée sous contrôle canadien :
+a) le montant qu’elle demande;
+b) l’excédent de son compte de dépenses admissibles de recherche et de développement à la fin de l’année sur le total des montants représentant chacun l’avantage relatif à la superdéduction pour l’année relativement à la société et à une province.
+c) sa limite de dépenses pour l’année.
+127.1(2) Les définitions qui suivent s’appliquent au présent article.
+[…]
+« société admissible » Pour une année d’imposition donnée se terminant dans une année civile :
+a) société qui est une société privée sous contrôle canadien tout au long de l’année donnée, sans être associée à une autre société au cours de cette année, et dont le revenu imposable pour son année d’imposition précédente, calculé avant la prise en compte des conséquences fiscales futures déterminées, ne dépasse pas son plafond des affaires pour cette année précédente;
+b) société qui est une société privée sous contrôle canadien tout au long de l’année donnée et associée à une autre société au cours de cette année, dans le cas où le total des montants représentant chacun le revenu imposable de la société ou d’une telle société associée pour sa dernière année d’imposition terminée dans l’année civile précédente, calculé avant la prise en compte des conséquences fiscales futures déterminées pour cette dernière année, ne dépasse pas le total des montants représentant chacun le plafond des affaires de la société ou d’une telle société associée pour cette dernière année.
+248(25) Les règles suivantes s’appliquent dans le cadre de la présente loi :
+a) comptent parmi les personnes ou sociétés de personnes ayant un droit de bénéficiaire dans une fiducie donnée celles qui ont le droit —immédiat ou futur, conditionnel ou non, ou soumis ou non à l’exercice d’un pouvoir discrétionnaire par une personne ou une société de personnes —à titre de bénéficiaire d’une fiducie de recevoir tout ou partie du revenu ou du capital de la fiducie donnée, soit directement de celle-ci, soit indirectement par l’entremise d’une ou de plusieurs fiducies ou sociétés de personnes;
+b) sauf pour l’application du présent alinéa, une personne ou société de personnes donnée est réputée avoir un droit de bénéficiaire dans une fiducie à un moment donné dans le cas où, à la fois :
+(i) la personne ou société de personnes donnée n’a pas de droit de bénéficiaire dans la fiducie à ce moment,
+(ii) en raison des modalités de la fiducie ou de tout arrangement la concernant à ce moment, la personne ou société de personnes donnée pourrait acquérir un droit de bénéficiaire dans la fiducie à ce moment ou ultérieurement en raison de l’exercice d’un pouvoir discrétionnaire par une personne ou une société de personnes,
+(iii) à ce moment ou antérieurement, selon le cas :
+(A) la fiducie a acquis un bien, directement ou indirectement, de quelque manière que ce soit, de l’une des entités suivantes :
+(I) la personne ou société de personnes donnée,
+(II) une autre personne ayant un lien de dépendance avec la personne ou société de personnes donnée ou avec un associé de cette dernière,
+(III) une personne ou une société de personnes ayant un lien de dépendance avec l’autre personne visée à la subdivision (II),
+(IV) une société étrangère affiliée contrôlée de la personne donnée ou d’une autre personne ayant un lien de dépendance avec la personne ou société de personnes donnée ou avec un associé de cette dernière,
+(V) une société non-résidente qui serait une société étrangère affiliée contrôlée de la société de personnes donnée si cette dernière était une société résidant au Canada,
+(B) une personne ou une société de personne visée à l’une des subdivisions (A)(I) à (V) a donné une garantie au nom de la fiducie ou a fourni à celle-ci quelque autre soutien financier;
+c) l’associé d’une société de personnes qui a un droit de bénéficiaire dans une fiducie est réputé avoir un tel droit dans la fiducie.
+251(5) Pour l’application du paragraphe (2) et de la définition de « société privée sous contrôle canadien » au paragraphe 125(7) :
+a) le groupe lié qui est en mesure de contrôler une société est réputé être un groupe lié qui contrôle la société, qu’il fasse ou non partie d’un groupe plus nombreux qui contrôle en fait la société;
+b) la personne qui, à un moment donné, en vertu d’un contrat , en equity ou autrement, a un droit, immédiat ou futur, conditionnel ou non :
+(i) à des actions du capital-actions d’une société ou de les acquérir ou d’en contrôler les droits de vote, est réputée occuper la même position relativement au contrôle de la société que si elle était propriétaire des actions à ce moment, sauf si le droit ne peut être exercé à ce moment du fait que son exercice est conditionnel au décès, à la faillite ou à l’invalidité permanente d’un particulier,
+(ii) d’obliger une société à racheter, acquérir ou annuler des actions de son capital‑actions dont d’autres actionnaires de la société sont propriétaires, est réputée occuper la même position relativement au contrôle de la société que si celle-ci rachetait, acquérait ou annulait les actions à ce moment, sauf si le droit ne peut être exercé à ce moment du fait que son exercice est conditionnel au décès, à la faillite ou à l’invalidité permanente d’un particulier,
+(iii) aux droits de vote rattachés à des actions du capital‑actions d’une société, ou de les acquérir ou les contrôler, est réputée occuper la même position relativement au contrôle de la société que si elle pouvait exercer les droits de vote à ce moment, sauf si le droit ne peut être exercé à ce moment du fait que son exercice est conditionnel au décès, à la faillite ou à l’invalidité permanente d’un particulier,
+(iv) de faire réduire les droits de vote rattachés à des actions appartenant à d’autres actionnaires du capital-actions d’une société est réputée occuper la même position relativement au contrôle de la société que si les droits de vote étaient ainsi réduits à ce moment, sauf si le droit ne peut être exercé à ce moment du fait que son exercice est conditionnel au décès, à la faillite ou à l’invalidité permanente d’un particulier,
+c) lorsqu’une personne est propriétaire d’actions de plusieurs sociétés, elle est réputée, à titre d’actionnaire d’une des sociétés, être liée à elle-même à titre d’actionnaire de chacune des autres sociétés.
+256(5.1) Pour l’application de la présente loi, lorsque l’expression « contrôlée, directement ou indirectement, de quelque manière que ce soit, » est utilisée, une société est considérée comme ainsi contrôlée par une autre société, une personne ou un groupe de personnes —appelé « entité dominante » au présent paragraphe —à un moment donné si, à ce moment, l’entité dominante a une influence directe ou indirecte dont l’exercice entraînerait le contrôle de fait de la société. Toutefois, si cette influence découle d’un contrat de concession, d’une licence, d’un bail, d’un contrat de commercialisation, d’approvisionnement ou de gestion ou d’une convention semblable —la société et l’entité dominante n’ayant entre elles aucun lien de dépendance —dont l’objet principal consiste à déterminer les liens qui unissent la société et l’entité dominante en ce qui concerne la façon de mener une entreprise exploitée par la société, celle-ci n’est pas considérée comme contrôlée, directement ou indirectement, de quelque manière que ce soit, par l’entité dominante du seul fait qu’une telle convention existe.
+[…]
+256(6.1) Pour l’application de la présente loi, il est entendu que :
+a) dans le cas où une société (appelée « filiale » présent alinéa) serait contrôlée par une autre société (appelée « société mère » au présent alinéa) si cette dernière n’était pas contrôlée par une personne ou un groupe de personnes, la filiale est contrôlée à la fois par la société mère et par toute personne ou tout groupe de personnes qui contrôle cette dernière;
+b) dans le cas où une société (appelée « société donnée » au présent alinéa) serait contrôlée par un groupe de personnes (appelé « groupe de premier palier » au présent alinéa) si aucune société membre du groupe de premier palier n’était contrôlée par une personne ou un groupe de personnes, la société donnée est contrôlée à la fois :
+(i) par le groupe de premier palier,
+(ii) par tout groupe de personnes composé, quant à chaque membre du groupe de premier palier, soit du membre, soit d’une personne ou d’un groupe de personnes qui contrôle ce dernier.
+256(6.2) Pour l’application du paragraphe (6.1) dans le cadre du paragraphe (5.1), les mentions de « contrôle » et « contrôlée » au paragraphe (6.1) sont remplacées respectivement par « contrôle, directement ou indirectement, de quelque manière que ce soit » et « contrôlée, directement ou indirectement, de quelque manière que ce soit », avec les adaptations nécessaires.
+[12] La première question à résoudre est de savoir s’il y a lieu de procéder à l’analyse simultanée des contrôles de droit et de fait dans les circonstances présentes. À mon avis, le contrôle de droit et le contrôle de fait coexistent simultanément pour toutes les dispositions de la Loi sans qu’il soit nécessaire que le texte de la Loi y fasse spécifiquement référence.
+[13] Le mot « contrôle » n’est pas défini dans la Loi et les tribunaux ont dû se prononcer à plusieurs reprises pour déterminer ce que le terme « contrôle » signifiait. La décision qui fait autorité en matière de contrôle est Buckerfields' Ltd. c. ministre du Revenu national, [1965] 1 R.C.É. 299 dans laquelle le président Jackett a énoncé le principe selon lequel la notion de contrôle signifiait le droit de contrôle auquel donne lieu le fait de détenir un nombre d’actions qui confère la majorité des voix à leur détenteur pour l’élection du conseil d’administration de la société. Il s’agit-là bien sûr du contrôle de droit.
+[14] À la lumière des cas de jurisprudence, le législateur a été appelé à apporter de nombreuses précisions concernant le concept de contrôle dans le but d’atteindre des objectifs législatifs précis. Ainsi depuis le 13 septembre 1988, soit depuis l’introduction du paragraphe 256(5.1), la Loi affiche de façon claire les dispositions qui font expressément référence au concept du contrôle de droit par opposition à celles qui visent plutôt l’application du contrôle de fait.
+[15] L’utilisation de l’expression « contrôlée, directement ou indirectement, de quelque manière que ce soit » vise précisément le contrôle de fait, lequel existe lorsqu’une entité dominante a une influence directe ou indirecte dont l’exercice entraînerait le contrôle de fait. L’expression « contrôlée, directement ou indirectement, de quelque manière que ce soit » est notamment utilisée au paragraphe 125(7) aux fins de la définition de « société privée sans contrôle canadien ».
+[16] Selon l’Agence du Revenu du Canada (l'"ARC"), lorsque le législateur réfère au contrôle d’une société et qu’il utilise l’expression « directement ou indirectement, de quelque manière que ce soit » cela indique que le contrôle comprend à la fois le contrôle de droit et le contrôle de fait (paragraphe 19 du bulletin d’interprétation IT-64R4 (consolidé)).
+[17] Suite à la décision rendue par la Cour d’appel fédérale dans l’affaire Parthenon Investments Limited c. MRN, 97 DTC 5343 qui a octroyé le contrôle d’une société à la société qui détenait le contrôle ultime plutôt qu’à une société intermédiaire, le législateur a adopté les paragraphes 256(6.1) et (6.2) pour préciser l’existence du concept de contrôle simultané qui semblait par ailleurs être implicite dans la Loi.
+[18] Selon Nicole Prieur, professeure agrégée, HEC Montréal, l’adoption des paragraphes 256(6.1) et (6.2) démontre clairement que le « contrôle simultané s’applique naturellement à toutes les dispositions pertinentes de la Loi de l’impôt sur le revenu sans qu’il soit nécessaire que le texte y fasse précisément référence » (Nicole Prieur, L’utilisation législative du concept de contrôle de droit, 2e trimestre 2009, Publications CCH, 2011, page 8).
+[19] Dans l’affaire Rosario Poirier Inc. c. Canada, [2002] A.C.I. no 255, le procureur de l’appelante a soutenu qu’il ne pouvait exister de contrôle simultané de la société Trab Inc. par Rosario Poirier Inc. et par Luc Poirier, compte tenu du fait que Luc Poirier avait le contrôle de droit de 100% des actions avec droit de vote de Trab inc. Le juge Archambault n’a pas retenu cette interprétation et a formulé les commentaires suivants :
+29 À mon avis, l'alinéa 256(1)a) est clair et précis et ne laisse planer aucun doute quant à sa portée. Dès qu'une société contrôle une autre directement ou indirectement de quelque manière que ce soit, ces deux sociétés sont associées l'une à l'autre. Le fait qu'un autre contribuable a le contrôle de droit de Trab, n'a aucune pertinence ici puisque RPI en a le contrôle de fait suivant l'alinéa 256(1)a) de la Loi.
+30 De plus, selon le sous-alinéa 256(1.2)b)(ii) de la Loi, rien n'empêche de conclure qu'une société (RPI) a le contrôle de fait d'une autre (Trab) selon l'alinéa 256(1)a) de la Loi même si quelqu'un d'autre (Luc Poirier) exerce un contrôle de droit sur cette dernière société. Le sous-alinéa 256(1.2)b)(ii) de la Loi s'applique clairement à l'alinéa 256(1)a). En d'autres mots, il n'est pas nécessaire que le paragraphe 256(1.2) de la Loi fasse référence au paragraphe 256(5.1). Le renvoi au paragraphe 256(1) suffit.
+[20] Plus récemment, dans l’affaire Avotus Corporation c. Canada, 2006 CCI 505 qui portait essentiellement sur l’analyse du contrôle de fait, le juge Paris a indiqué en obiter dictum, qu’à son avis, un des actionnaires avait le contrôle de droit de l’appelante. En tant que président du conseil d’administration, il avait un droit de vote prépondérant, ce droit lui ayant été octroyé par une convention de fusion et par les statuts constitutifs de l’appelante. Cette décision démontre que l’analyse du contrôle peut se faire de façon simultanée à la fois pour le contrôle de droit et pour le contrôle de fait, l’un n’excluant pas l’autre.
+[21] Dans le cas présent, la totalité des actions de catégorie « A » de l’appelante, soit les seules actions comportant droit de vote, était détenue par FFL. Dans une telle situation, la Cour Suprême du Canada a édicté dans l’arrêt Canada c. Consolidated Holding Co., [1974] R.C.S. 419, qu’en plans du registre des actionnaires et des statuts constitutifs de la société, il était nécessaire d’examiner l’acte de fiducie aux fins de déterminer la manière dont les droits de vote afférents aux actions pouvaient être exercés. Dans la dite décision, les actionnaires fiduciaires étaient tenus de voter comme s’ils étaient un. S’ils n’étaient pas unanimes, ils ne pouvaient exercer les droits de vote afférents aux actions.
+[22] Pour la période en litige, à l’exception de la période du 1er juin au 17 juin 2005, les fiduciaires étaient messieurs Miguël Caron et Louis Bélanger. Aux termes de l’acte de fiducie, les fiduciaires devaient prendre les décisions à la majorité. Aucun des fiduciaires ne pouvait donc contrôler seul l’appelante en droit. Le juge Tardif est arrivé à la même conclusion dans l’arrêt Létourneau c. Canada, 2007 CCI 91 en maintenant que deux des trois fiduciaires de la fiducie ne pouvaient détenir le contrôle de droit à eux seuls puisque les décisions à l’égard de la société devaient toujours être prises à l’unanimité selon les modalités de l’acte de fiducie.
+[23] Il y a lieu de mentionner ici qu’en plus du registre des actionnaires, des statuts constitutifs de l’appelante et de l’acte de fiducie de FFL, il y a lieu de considérer la déclaration de l’actionnaire unique par laquelle les fiduciaires de FFL ont retiré tous les pouvoirs détenus par les administrateurs de l’appelante pour les exercer eux-mêmes, conformément au paragraphe 146(2) de la Loi canadienne sur les sociétés par action. Ledit paragraphe 146(2) se lit comme suit :
+146(2) Est réputée être une convention unanime des actionnaires la déclaration écrite de l’unique et véritable propriétaire de la totalité des actions émises de la société, qui restreint, en tout ou en partie, les pouvoirs des administrateurs de gérer les activités commerciales et les affaires internes de la société ou d’en surveiller la gestion.
+[24] Dans une décision récente rendue dans l’affaire Price Waterhouse Coopers inc., agissant ès qualité de syndic à la faillite de Bioartificial Gel Technologies (Bagtech) Inc. c. La Reine, 2012 CCI 120, le juge Bédard a conclu au paragraphe 85 « qu’en règle générale, il faut tenir compte d’une clause dans une convention unanime des actionnaires qui restreint la faculté des actionnaires majoritaires d’élire les administrateurs lors de l’examen du contrôle de jure ». À noter que cette décision a été portée en appel.
+[25] En l’espèce, la déclaration de l’actionnaire unique de l’appelante a eu pour simple effet de confirmer que le contrôle de droit de l’appelante appartenait véritablement aux actionnaires fiduciaires de FFL.
+Analyse du contrôle de fait de l’appelante
+[26] Ce sont les faits se rapportant à chaque situation qui permettent de déterminer si une personne a le contrôle de fait d’une société. Certains facteurs généraux pertinents à cet égard sont énumérés au paragraphe 23 du Bulletin d’interprétation IT-64R4 (consolidé) :
+a) le pourcentage de propriété des actions avec droit de vote (lorsqu’il n’est pas supérieur à 50%) par rapport aux actions que les autres actionnaires détiennent;
+b) la propriété d’une importante dette d’une société qui peut devenir payable sur demande (à moins d’être assujettie à une exemption en vertu du paragraphe 256(3) ou (6)) ou d’un placement important dans des actions privilégiées rachetables au gré du détenteur;
+c) les conventions entre actionnaires prévoyant une voix prépondérante;
+d) les relations commerciales ou contractuelles de la société, par exemple, la dépendance économique à l’endroit d’un fournisseur ou d’un client unique;
+e) la possession de connaissances tout à fait particulières qui sont requises pour l’exploitation de l’entreprise;
+f) l’influence qu’un membre d’une famille, qui est un actionnaire, un créancier, un fournisseur, etc., d’une société peut avoir sur un autre membre de la famille qui est un actionnaire de la société.
+[. . . ]
+En plus des facteurs généraux mentionnés ci-dessus, il faudrait tenir compte de la composition du conseil d’administration et du contrôle de la gestion quotidienne et du fonctionnement de l’entreprise.
+[27] Ces facteurs ont été repris par la juge Lamarre dans la décision Mimetix Pharmaceuticals Inc. c. Canada, [2001] A.C.I. no 749 et elle a conclu au paragraphe 52 « que l’appelante était en fait contrôlée par Mimetix, l’actionnaire non résidante, en 1996, et qu’elle était pas une SPCC pendant cette année-là au sens des paragraphes 125(7) et 256(5.1) ». Cette décision a été confirmée par la Cour d’appel fédérale, 2003 CAF 106.
+[28] Selon la décision rendue par la Cour Suprême du Canada dans l’arrêt Duha Printers (Western) Ltd. c. Canada, [1998] 1 R.C.S. 795, les conventions externes, telles l’acte de fiducie et toute convention pouvant avoir une influence sur l’exercice des droits de vote et sur la composition du conseil d’administration de l’appelante sont pertinentes aux fins de déterminer le contrôle de fait. Selon l’acte de fiducie de FFL, tous les administrateurs de Lyrtech étaient automatiquement éligibles à la fonction de fiduciaire mais seuls ceux qui signaient et remettaient à la fiducie le formulaire d’acceptation pour agir comme fiduciaire pouvaient être élus ou nommés fiduciaires par les fiduciaires alors en fonctions. En vertu de la déclaration de l’actionnaire unique, tous les pouvoirs détenus pour les administrateurs de l’appelante ont été retirés de ces derniers pour être transférés aux fiduciaires pour qu’ils puissent les administrer eux-mêmes.
+[29] Par conséquent, on peut conclure que l’appelante était indirectement contrôlée par les deux administrateurs qui n’étaient pas des administrateurs indépendants sur les sept membres que comptait le conseil d’administration de Lyrtech. Miguël Caron a été nommé administrateur de Lyrtech le 22 avril 2003 et il est demeuré en poste jusqu’au 20 novembre 2007. Il occupait en plus le poste de président et chef de la direction. Louis N. Bélanger a été administrateur de Lyrtech depuis le 15 mars 2000 et il a occupé diverses fonctions dont celles de vice-président du conseil d’administration et chef de la technologie.
+[30] En plus d’être fiduciaires de FFL, Miguël Caron et Louis N. Bélanger étaient à compter du 8 juin 2005, les deux seuls administrateurs de l’appelante, de 4296621, de 496630 et de 496648. Miguël Caron était en plus président de chacune de ces sociétés alors que Louis N. Bélanger agissait comme secrétaire pour ces mêmes sociétés.
+[31] Les nombreux faits énoncés aux paragraphes 40 à 73 de l’entente partielle sur les faits démontrent que le pouvoir et l’influence de Lyrtech sur l’appelante ne se limitait pas à pouvoir modifier la composition du conseil d’administration de l’appelante. L’analyse des activités et des relations existantes entre Lyrtech et l’appelante, qui a été préparée par le vérificateur de l’ARC, démontre clairement que Lyrtech exerçait une influence importante sur l’appelante et que l’appelante était économiquement dépendante de Lyrtech. Parmi les principaux éléments notés par le vérificateur, il y a lieu de mentionner les suivants :
+· les mêmes personnes étaient les administrateurs ou les têtes dirigeantes de toutes les entités du groupe;
+· la répartition déraisonnable des dépenses entre Lyrtech et l’appelante;
+· le fait qu’une seule et même personne pouvait transférer les fonds entre toutes les entités du groupe;
+· les virements de fonds entre Lyrtech 4296621, FFL, les sociétés bénéficiaires de FFL et l’appelante;
+· l’appelante n’avait aucun revenu de redevance et de royauté et était dépendante de Lyrtech pour le financement de ses activités. Les revenus de l’appelante était respectivement de 0$, 77$, et 14$ pour les années 2005, 2006 et 2007. Pour ces deux dernières années, il s’agissait de revenu d’intérêts;
+· Lyrtech a cautionné des facilités de crédit pour l’appelante;
+· l’organigramme en date d’octobre 2006 démontre l’intégration totale de l’appelante dans Lyrtech;
+· la consolidation des états financiers de Lyrtech et de l’appelante;
+· le fait que l’appelante soit rémunérée sur la base des ventes et non en fonction des dépenses qu’elle encourt.
+[32] En prenant en considération l’ensemble de ces faits, j’en conclus que Lyrtech exerçait une influence dominante sur l’appelante au niveau économique. L’appelante n’était pas un centre du profit autonome et elle ne pouvait survivre ou poursuivre ses activités sans l’appui financier de Lyrtech. Pour s’en convaincre, il suffit d’examiner les modalités du contrat de recherche conclu entre Lyrtech et l’appelante. Le contrat était d’une durée indéterminée et Lyrtech pouvait mettre fin au contrat à 60 jours d’avis sans aucune raison. Lyrtech déterminait les travaux de recherche à être exécutés par l'appelante et la propriété intellectuelle découlant de ces travaux de recherche appartenait à Lyrtech. Pour l’exécution des travaux de recherche, l’appelante n’avait droit qu’à 10% des redevances perçues par Lyrtech lors de la vente de produits découlant des travaux de recherche et à 25% du produit tiré de l’octroi de licences par Lyrtech. L’appelante était donc rémunérée en fonction des revenus générés par les travaux de recherche et non pas en fonction des dépenses qu’elle encourt. L’appelante était sous-capitalisée et elle ne pouvait supporter seule le coût de ses dépenses de recherche tout en différant ses revenus. L’appelante ne pouvait se financer sans l’aide de Lyrtech.
+[33] Dans l’affaire L .D.G. 2000 Inc. c. Canada, [2002] A.C.I. no 659, le juge Angers a conclu à l’existence d’un contrôle de fait d’une société puisque les arrangements financiers, contractuels et commerciaux avaient pour effet de rendre celle-ci économiquement dépendante d’une autre société. Voici comment le juge Angers s’est exprimé :
+51 En raison du fait que l'appelante n'avait que deux seuls clients, qu'elle n'avait pas de créances et qu'elle était dépendante de Bermex pour la vente de la presque totalité de son produit, il lui était impossible d'obtenir du financement. En conséquence, Bermex lui procurait le financement nécessaire à ses opérations, lequel financement a été décrit par Richard Darveau comme étant des avances relatives aux comptes créditeurs de Bermex envers l'appelante. Peu importe la façon de décrire ce financement, les activités de l'appelante étaient soutenues financièrement par Bermex. De plus, l'appelante s'est portée garante en partie de la marge de crédit de quatre millions qu'avait Bermex pour financer l'ensemble des activités. Les ventes de l'appelante à Bermex étaient majorées de 15 % en guise de frais d'administration et les opérations entre elle et Bermex étaient rajustées à la fin de l'année afin d'assurer ce profit à l'appelante. Ces rajustements ne sont possibles qu'avec l'appelante, car, selon Richard Darveau, elle ne peut pas faire de même avec ses autres sous-traitants.
+52 Ces arrangements financiers, contractuels et commerciaux ont pour effet, à mon avis, de rendre l'appelante économiquement dépendante de Bermex. Il me paraît également évident que le savoir-faire des administrateurs de Gestion et de Bermex et que leur influence sont à la base du renouveau économique et de la rentabilité de l'appelante, ce qui rendait cette dernière soumise à leur contrôle.
+[34] Compte tenu de l’ensemble des faits, je conclus que Lyrtech contrôlait directement ou indirectement de quelque manière que ce soit, l’appelante au sens des paragraphes 125(7) et 256(5.1) de la Loi et ce, durant les trois années en litige. Comme un lien de dépendance existait entre Lyrtech et l’appelante suite à l’octroi à l’appelante par 4296621 d’acquérir à la juste valeur marchande la totalité des actions de l’une ou l’autre des sociétés 4296648 ou 4296630 (paragraphe 28 de l’entente partielle sur les faits), l’exception prévue au paragraphe 256(5.1) pour les conventions conclues entre les sociétés n’ayant aucun lien de dépendance ne s’applique pas en l’espèce.
+Argument subsidiaire
+[35] Les procureurs de l’intimée soutiennent également que Lyrtech avait indirectement, en plus du contrôle de fait, le contrôle de droit de l’appelante en raison de l’application du sous-alinéa 251(5)(b)(i) et du paragraphe 248(25) de la Loi.
+[36] Le sous‑alinéa 251(5)(b)(i) de la Loi prévoit pour les fins de la définition de « société privée sous contrôle canadien », que la personne qui, en vertu d’un contrat en équité ou autrement, a un droit immédiat ou futur, conditionnel ou non, à des actions d’une société ou de les acquérir ou d’en contrôler les droits de vote, est réputée occuper la même position relativement ou contrôle de la société que si elle était propriétaire des actions.
+[37] L’alinéa 248(25)(a) de la Loi prévoit que les personnes ayant un droit de bénéficiaire dans une fiducie sont celles qui ont le droit, immédiat ou futur, conditionnel ou non, ou soumis ou non à l’exercice d’un pouvoir discrétionnaire par une personne à titre de bénéficiaire d’une fiducie de recevoir tout ou partie du revenu ou du capital de la fiducie, soit directement de celle-ci, soit indirectement par l’entremise d’une ou plusieurs fiducies ou sociétés de personnes.
+[38] L’intimée soutient que les filiales de Lyrtech, soit 4296621, 4296630 et 4296648, avaient toutes, en équité ou autrement, un droit futur et conditionnel à toutes les actions du capital-actions de l’appelante en tant que bénéficiaire du capital de FFL. En vertu des paragraphes 9.1 et 9.2 de l’acte du fiducie, les fiduciaires disposaient d’un pouvoir discrétionnaire absolu de distribuer éventuellement toutes les actions du capital-actions de l’appelante en faveur d’un ou plusieurs bénéficiaires. Les paragraphes 9.1 et 9.2 de l’acte du fiducie se lisent comme suit :
+9. CAPITAL DISTRIBUTIONS
+9.1 During the term of the Trust, the Trustees may, in their absolute and uncontrolled discretion, at any time, withdraw from the capital of the Trust and make payments of such withdrawal to one, the other or any combination of Capital Beneficiaries, in the proportions that the Trustees may determine in their absolute and uncontrolled discretion.
+9.2 At the Time of Division, the Trustees shall deliver the remaining capital for the Trust and accumulated income of the Trust to one, the other or any combination of Capital Beneficiaries, in the proportions that the Trustees may determine, in their absolute and uncontrolled discretion.
+[39] L’ARC est d’avis que l’alinéa 251(5)(b) de la Loi s’applique aux bénéficiaires d’une fiducie discrétionnaire détentrice d’actions du capital-actions d’une société, à moins qu’il ne soit clairement démontré par l’acte de fiducie qu’ils n’auront jamais le droit de devenir propriétaires de ces actions ou encore, d’en contrôler les droits de vote. Voici comment l’ARC a exprimé sa position dans l’interprétation externe 2007-0246721E5 concernant les sociétés liées en date du 20 février 2008 à la page 6 :
+L’application de l’alinéa 251(5)b) dans un contexte de détention fiduciaire ne fait toutefois pas l’unanimité. Certains estiment que les bénéficiaires discrétionnaires d’une fiducie n’auraient aucun droit à des biens de la fiducie tant et aussi longtemps que la discrétion des fiduciaires n’est pas exercée en leur faveur. Par contre, certains considèrent que le libellé de l’alinéa 251(5)b) est suffisamment large de sorte qu’il pourrait effectivement s’appliquer à l’égard d’un bénéficiaire discrétionnaire du capital d’une fiducie.
+Rappelons que dans le cadre d’une interprétation technique (F9730395), nous avons déjà mentionné que l’alinéa 251(5)b) pouvait s’appliquer à l’égard des bénéficiaires d’une fiducie. Nous avons toutefois spécifié que l’alinéa 251(5)b) ne pouvait trouver application à l’égard des bénéficiaires d’une fiducie détenant des actions d’une société si les clauses de la convention de fiducie font en sorte que les bénéficiaires ne pourront jamais obtenir la propriété des actions de la société ni contrôler les droits de vote de ces actions.
+[40] Pour sa part, l’appelante soutient que les bénéficiaires d’une fiducie entièrement discrétionnaire ne possèdent pas un droit qui est visé par l’alinéa 251(5)(b) de la Loi au même titre qu’un droit de premier refus ou d’un droit découlant d’une disposition d’achat/vente forcée ("shotgun arrangement") contenue dans une convention entre actionnaires.
+[41] La position de l’appelante s’appuie sur les paragraphes 10.1 et 10.2 de l’acte de fiducie qui spécifient que les personnes désignées comme bénéficiaires ne sont que des bénéficiaires potentiels de la fiducie et que tant qu’ils n’auront reçu une quelconque partie des revenus ou du capital de la fiducie, ils n’ont aucun droit, que ce soit en vertu d’une loi ou en vertu de l’acte de fiducie, en tant que bénéficiaire de la fiducie. Les paragraphes 10.1 et 10.2 de l’acte de fiducie sont rédigés de la façon suivante :
+10.1 For greater certainty, it is specified that the persons designated as Beneficiaries are merely potential beneficiaries of the Trust.
+10.2 As a result, insofar as they shall not have received any part of the Revenue or the Capital of the Trust, a person designated in subparagraph 1.1(a) shall have no right, either by law or pursuant to the terms of the present Agreement, as a beneficiary of a trust, including, without limiting the generality of the foregoing, the right of supervision and control over the Trust, the right to examine the trust records, the right to require the Trustee to furnish any account, report or information, the right to examine the books and vouchers relating to the administration of the Trust and the right to ask for or to obtain a final accounting.
+[42] FFL a été créée en vertu des lois du Québec et l’intimée ne conteste pas sa validité. Le langage utilisé aux paragraphes 10.1 et 10.2 de l’acte de fiducie vise précisément à éviter l’application du paragraphe 248(25) de la Loi.
+[43] Me Guy Fortin dans un article intitulé « Strangers in Strange Lands : The Hidden Traps of Offshore Trusts » publié par l’Association canadienne d’études fiscales dans le rapport annuel de la conférence de 1999 aux pages 40 :1 et suivantes, a examiné le doctrine et la jurisprudence en rapport avec l’application du paragraphe 248(25) de la Loi à la participation d’un bénéficiaire en vertu d’une fiducie discrétionnaire. Son étude a démontré que les deux conclusions suivantes s’imposaient : (a) la première étant que la nature du droit détenu par un bénéficiaire d’une fiducie discrétionnaire était un droit personnel restreint par opposition à un droit de propriété dans les biens de la fiducie, qui ne leur permettait que d’être considéré comme un bénéficiaire potentiel de la fiducie. Son seul recours étant contre le ou les fiduciaires seulement dans les cas où ils auraient commis une faute dans l’exercice de leur discrétion; (b) la seconde étant qu’un dépit de la nature juridique du droit d’un bénéficiaire en vertu d’une fiducie discrétionnaire, le langage d’une disposition statutaire peut avoir été rédigée d’une manière très large de façon à inclure le droit personnel d’un bénéficiaire d’une fiducie discrétionnaire. L’extrait suivant tiré de la page 40 :12 de l’article de Me Fortin montre bien les conclusions de son étude :
+Under a discretionary trust, where the trustee is obliged to distribute the whole of the income (or capital or both) among the potential beneficiaries in the manner that he or she sees fit, the interest of the beneficiary cannot be described as a proprietary right. It is merely a limited personal right to be considered as a potential beneficiary that can be exercised only against the trustee. The right of a beneficiary under a non-exhaustive discretionary trust is even more limited in that, under such a trust, the trustee can choose whether and to what extent a distribution is to be made at all. However, it appears from an examination of the doctrine and jurisprudence on this issue that despite the legal nature of the interest of a beneficiary under a discretionary trust, in practice the language of a particular statutory provision may be drafted in a manner that is broad enough to bring within its ambit the non-proprietary interest referred to above. In the context of tax law, the result may well be that the non-proprietary interest of a beneficiary under a discretionary trust could be covered by the definition.
+[. . .]
+[44] Dans un article intitulé « Fiducie discrétionnaire et droit civil » publié dans la Revue fiscale canadienne 2003, vol. 51, No 4, pages 1690 et s., l'auteure Marilyn Piccini Roy a décrit la nature des droits d'un bénéficiaire d'une fiducie discrétionnaire régie par le Code civil du Québec de la façon suivante aux pages 1715 et 1716 :
+Les droits du bénéficiaire sont des droits personnels en nature et ils ne peuvent donc exercés qu'à l'encontre du fiduciaire.
+[...]
+Il s'ensuit que le droit du bénéficiaire en vertu d'une fiducie discrétionnaire n'est pas un droit de recevoir un revenu ou du capital de la fiducie. Il s'agit d'un droit limité qui lui permet de poursuivre le fiduciaire en justice s'il refuse d'exercer sa discrétion ou si celle-ci n'est pas exercée de façon adéquate.
+Par ailleurs, le dépositaire d'une faculté d'élire n'est pas soumis au même contrôle principalement parce que la faculté d'élire ne tourne pas autour de la notion de bénéficiaires prédéterminés; ce pouvoir confère simplement à une personne désignée potentielle la possibilité de devenir un bénéficiaire.
+[…]
+Les bénéficiaires et les montants auxquels ils ont droit ne sont pas déterminés avant que les fiduciaires aient nommé les bénéficiaires et précisé leur part. […] jusqu'à leur désignation, ils n'ont aucune créance ni aucun droit si ce n'est celui de forcer le fiduciaire à s'acquitter de son obligation d'exercer sa discrétion.
+[45] Dans l'arrêt Sachs c. Canada, [1980] A.C.F. no 611, paragraphe 26, le juge Heald de la Cour d'appel fédérale a décrit de la façon suivante le droit des bénéficiaires d'une fiducie discrétionnaire de recevoir le capital de la fiducie :
+[…]
+La situation du bénéficiaire d'une fiducie discrétionnaire est décrite par Lord Wilberforce dans l'affaire Gartside et al. c. Inland Revenue Commissioners dans les termes suivants :
+[TRADUCTION]
+Sans doute, dans un certain sens, le bénéficiaire d'une fiducie discrétionnaire a un « droit », droit dont on peut définir la nature, de façon assez précise pour nos fins en disant qu'il a un droit d'être considéré par les fiduciaires comme un récipiendaire possible du bénéfice et un droit de faire protéger ses droits par une cour d'equity.
+[…]
+[46] Malgré la nature personnelle des droits des bénéficiaires du capital de FFL et la précarité de ce droit, il me semble que le paragraphe 248(25) soit suffisamment large pour s'y appliquer.
+[47] Dans l'arrêt Propep Inc. c. Canada, [2009] A.C.F. no 1155, le juge Noël de la Cour d'appel fédérale a clairement affirmé au paragraphe 22 qu'un contribuable est réputé avoir un « droit de bénéficiaire » lorsqu'il a le droit de recevoir le revenu ou le capital d'une fiducie, que ce droit soit « conditionnel ou non ». Dans cette affaire, le droit d'un bénéficiaire du revenu ou du capital d'une fiducie discrétionnaire était conditionnel à la liquidation d'une société.
+[48] Selon les procureurs de l'intimée, un « droit conditionnel » est suffisamment large pour inclure la situation où un pouvoir discrétionnaire doit être exercé pour qu'un fait se réalise. L'exercice d'un pouvoir discrétionnaire est un évènement futur et incertain qui peut ou non se produire.
+[49] Après avoir déterminé que chaque bénéficiaire du capital de FFL possédait un « droit de bénéficiaire » visé au paragraphe 248(25), il y a lieu de considérer si ce « droit de bénéficiaire » trouve application aux fins du sous-alinéa 251(5)(b)(i).
+[50] L'expression « droit de bénéficiaire » ne se trouve pas à l'alinéa 251(5)(b) mais le juge Noël a conclu dans l'arrêt Propep Inc., précité, que l'expression « droit de bénéficiaire » s'appliquait aux fins des dispositions qui traitent des sociétés associées, soit l'alinéa 256(1)(c) et les paragraphes 256(1.2) et 256(1.3), même si l'expression « droit de bénéficiaire » n'était pas utilisée dans l'une ou l'autre de ces dispositions. Au paragraphe 24 de ladite décision, le juge Noël s'est exprimé de la façon suivante :
+Avec égards, l'expression « droit de bénéficiaire » n'a pas à être reproduite dans chaque disposition où elle est susceptible de trouver application. Cette notion s'applique chaque fois que la question se pose à savoir si une personne possède, à l'égard d'une fiducie donnée, un « droit de bénéficiaire ». Une personne qui a un droit conditionnel soit au capital ou au revenu d'une fiducie, possède aux fins de la Loi un « droit de bénéficiaire ».
+[51] De plus, il y a lieu de souligner que les droits visés à l'alinéa 251(5)(b) ne se limitent pas aux droits découlant d'un contrat. Comme l'a énoncé le juge Mahoney de la Cour fédérale dans l'arrêt Lusita Holdings Limited c. La Reine, [1983] 1 C.F. 439, paragaphe 3, confirmé en appel [1984] A.C.F. no 414, il peut aussi s'agir, comme en l'espèce, de droits détenus « en équité ou autrement ». Le juge Collier de la Cour fédérale a également souscrit à cette approche dans l'affaire Rostal Sales Agency Ltd. c. Canada, [1982] A.C.F. no 153, paragraphes 13 et 14.
+[52] Les termes de l'alinéa 251(5)(b) sont très larges et font en sorte qu'une personne qui, en vertu d'un contrat ou autrement, a un droit futur à des actions ou d'acquérir des actions, est réputée occuper la même position relativement au contrôle de la société que si elle était propriétaire des actions à ce moment.
+[53] La fiction de l'alinéa 251(5)(b) en est une portant sur la notion de propriété d'actions et non sur la notion de contrôle d'actions. Voici comment s'est exprimé le juge Malone de la Cour d'appel fédérale dans l'arrêt Sedona Networks Corp. c. Canada, 2007 CAF 169 au paragraphe 28 :
+Selon mon analyse, la fiction juridique créée par l'alinéa 251(5)b) est axée sur la notion de propriété, non sur celle de contrôle. Une fois qu'il est établi qu'une personne est titulaire d'un droit visé par l'alinéa 251(5)b), il faut tenir pour acquis que ce droit est exercé et que les actions correspondantes sont effectivement acquises par le titulaire de ce droit. […]
+[54] La question qui se pose à ce stade-ci est de déterminer si le droit de bénéficiaire de chaque bénéficiaire du capital de FFL est un droit visé par l'alinéa 251(5)(b).
+[55] À mon avis, je ne crois pas que le droit de bénéficiaire de chaque bénéficiaire du capital de FFL soit un droit visé par l'alinéa 251(5)(b) compte tenu du texte, du contexte et de l'objet de l'alinéa 251(5)(b). Il me semble que la nature du droit de bénéficiaire de chaque bénéficiaire du capital de FFL soit trop aléatoire, incertain ou indirect pour pouvoir constituer un droit aux actions de l'appelante visé par l'alinéa 251(5)(b). Le droit de bénéficiaire dont il est ici question ne confère aucun droit à leur détenteur d'acquérir des actions de l'appelante.
+[56] Je doute fortement que le législateur ait eu l'intention de faire en sorte que le paragraphe 248(25) s'applique à l'alinéa 251(5)(b) parce que le concept du droit de bénéficiaire a une portée beaucoup trop large et trop flou pour qu'il puisse être appliqué à la notion de contrôle de droit aux fins de la définition de « société privée sous contrôle canadien ».
+[57] Si le législateur avait eu l'intention de faire en sorte que les bénéficiaires du revenu et du capital d'une fiducie discrétionnaire soient réputés être propriétaires des actions faisant partie du patrimoine fiduciaire, il l'aurait clairement exprimé comme il l'a fait en introduisant dans la Loi l'alinéa 256(1.2)(f) aux fins des règles sur les sociétés associées. L'alinéa 256(1.2)(f) se lit comme suit :
+Précisions sur les notions de contrôle et de propriété des actions — Pour l'application du présent paragraphe et des paragraphes (1), (1.1) et (1.3) à (5) :
+[…]
+f) les actions du capital-actions d'une société dont une fiducie est à un moment donné propriétaire ou réputée propriétaire en application du présent paragraphe :
+[…]
+(ii) sont réputées, […], être la propriété à ce moment de chaque bénéficiaire dont la part sur le revenu ou le capital accumulés de la fiducie est conditionnelle au fait qu'une personne exerce ou n'exerce pas un pouvoir discrétionnaire,
+[…]
+[58] Pour ce faire, le législateur aurait pu simplement reproduire le concept de l'alinéa 256(1.2)(f) aux fins du paragraphe 251(2) et de la définition de « société privée sous contrôle canadien » comme il l'a fait pour le paragraphe 256(1.4) qui est une disposition similaire à l'alinéa 251(5(b).
+[59] L'inaction du législateur en ne reproduisant pas le concept de l'alinéa 256(1.2)(f) pour les fins du contrôle de droit des sociétés dont les actions sont détenues par des fiducies discrétionnaires tend à confirmer que la règle établie par la Cour suprême du Canada dans l'arrêt Canada (ministre du Revenu national – M.R.N.) c. Consolidated Holding Co., [1974] R.C.S. 419 à l'effet que le contrôle d'une société dont la majorité des actions appartient à une fiducie, réside dans les mains des fiduciaires qui peuvent lier la fiducie, est satisfaisante et adéquate.
+[60] Pour toutes ces raisons, les appels sont rejetés avec dépens.
+Signé à Ottawa, Canada, ce 24e jour de janvier 2013.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE : 2013 CCI 12
+Nº DU DOSSIER DE LA COUR : 2009-1057(IT)G
+INTITULÉ DE LA CAUSE : Lyrtech RD Inc. et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Québec (Québec)
+DATE DE L’AUDIENCE : le 17, 18 et 19 avril 2012
+MOTIFS DU JUGEMENT PAR : L'honorable juge Réal Favreau
+DATE DU JUGEMENT : le 24 janvier 2013
+COMPARUTIONS :
+Avocat de l'appelant :
+Me René Roy
+Avocatsde l'intimée :
+Me Anne Poirier
+Me Dany Leduc
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom : Me René Roy
+Cabinet : Fasken Martineau Du Moulin
+S.E.N.C.R.L., s.r.l.
+Québec (Québec)
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Prospectus en date du 4 octobre 2000
+[2] En liasse, documents de KPMG relatifs à la réorganisation, cahier de documents de l’intimée, onglet 26; document de KPMG intitulé : « Plan de travail, Réorganisation corporative de Lyretch inc. », cahier de documents de l’intimée, onglet 27
+[3] Acte de fiducie signé le 1er juin 2005, cahier de documents de l’intimée, onglet 32
+[4] Contrat de recherche entre Lyrtech inc. et Lyrtech RD inc. signé le 1er juin 2005, cahier de documents de l’intimée, onglet 33
+[5] Document relatifs aux facilités de crédit pour Lyrtech RD inc., cahier de documents de l’intimée, onglet 29
+[6] Déclaration de revenus de l’appelante pour 2006, cahier de documents de l’intimée, onglet 2
+[7] Déclaration de revenus de l’appelante pour 2006, cahier de documents de l’intimée, onglet 3
+[8] Note d’orientation no. 15 de l’ICCA, cahier supplémentaire de documents de l’intimée, onglet 9
+[9] Écritures de régularisation, cahier des documents de l’intimée, onglet 31

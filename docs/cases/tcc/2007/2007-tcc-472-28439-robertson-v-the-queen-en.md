@@ -1,0 +1,233 @@
+---
+title: "Robertson v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28439/index.do"
+last_modified: "2007-10-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 472"
+citation2: ""
+neutral_citation: "2007 TCC 472"
+decision_date: "2007-10-10"
+language: "en"
+item_id: "28439"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1203
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:38:47.041000+00:00"
+cases_cited_count: 4
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c544c350d9e3f42785f8d66a13c2feb94d4a0007146e59c751c7c5c787668e8a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Robertson v. The Queen
+
+- Citation: 2007 TCC 472
+- Decision date: 2007-10-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1203, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Robertson v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-10-10
+Neutral citation
+2007 TCC 472
+File numbers
+2004-2266(GST)G
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2004-2266(GST)G
+BETWEEN:
+ÉDOUARD ROBERTSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Motion heard on
+May 10, 2007 , at
+Jonquière ,
+Quebec
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel for the Appellant :
+François Bouchard and
+Martine Tremblay
+Counsel for the Respondent:
+Patrick Vézina
+____________________________________________________________________
+ORDER
+UPON the Respondent's motion for an order striking out paragraphs 66, 66A, 66B, 66C, 66D, 66E, 66F, 66G, 66H, 66I, 66J and 67 of the Amended Notice of Appeal dated November 3, 2004, and paragraphs 34, 35, 36 and 38 of the Appellant's Answer dated February 3, 2005,
+AND UPON the parties' allegations,
+IT IS HEREBY ORDERED that the Respondent's motion is dismissed, with costs in the cause.
+Signed at
+Ottawa ,
+Canada
+, this 10th day of October 2007.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 29th day of January 2008.
+François Brunet, Revisor
+Citation: 2007
+TCC 472
+Date: 20071010
+Docket: 2004-2266(GST)G
+BETWEEN:
+ÉDOUARD ROBERTSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR ORDER
+Tardif J.
+[1] The Respondent has brought a motion in this Court for an Order under section 53 and paragraph 58(1)(b) of the Tax Court of Canada Rules (General Procedure) ("the Rules") striking out paragraphs 66, 66A, 66B, 66C, 66D, 66E, 66F, 66G, 66H, 66I, 66J and 67 of the Amended Notice of Appeal dated November 3, 2004, and paragraphs 34, 35, 36 et 38 of the Appellant's answer dated February 3, 2005.
+[2] The motion was heard in Jonquière on
+May 10, 2007 .
+[3] The Respondent asks that the Court strike out the allegations that the Montagnais du Lac Saint-Jean have an aboriginal right to self-government. According to the Respondent, these allegations cannot be considered because they are inconsistent with the Constitution Act, 1982, and are worded in an overbroad fashion. In addition, the Respondent is concerned about how long the trial will last if these allegations are not struck out. [1]
+[4] The Appellant submits that sufficient particulars have been given with respect to the allegations concerning the issue of the aboriginal right to self‑government. Further, he submits that they are in no way abusive or vexatious, since the Government of Canada acknowledges that self-government is an aboriginal right under the Constitution Act, 1982 (section 35).
+[5] The paragraphs that the Respondent seeks to have struck out pertain to the following issues:
+Amended Notice of Appeal dated
+November 3, 2004
+The inherent right of aboriginal peoples to self-government as an aboriginal right (paragraphs 66 and 66A);
+The organization of the Montagnais society of Lac Saint‑Jean prior to the arrival of Europeans in North America (paragraphs 66B and 66C);
+The scope of the right to self-government of the Montagnais du Lac Saint-Jean (paragraphs 66D, 66E, 66F, 66G, 66H and 66I);
+The application of the GST and the position of the Montagnais regarding the obligation imposed on Indian merchants to act as agents in collecting the GST (paragraphs 66J and 67);
+Answer dated
+February 3, 2005
+The recognition of aboriginal government structures within Canada (paragraph 34);
+The existence of a sovereign and self‑governing Montagnais entity at the time of contact with the Europeans, and the retention of the power to impose duties on commercial transactions or barter (paragraphs 35 and 36);
+The fact that the Excise Tax Act has not extinguished the Montagnais' aboriginal right to fiscal self-government (paragraph 38).
+[6] The Appellant submits that there is nothing scandalous, frivolous or vexatious about the allegations of self-government set out in the Amended Notice of Appeal. He submits that the allegations are detailed, and supported by an expert report that has already been served on the Respondent.
+[7] Moreover, in response to the Respondent's concerns about how long the trial will last if the allegations are not struck out, the Appellant submits that it is hardly appropriate for the Respondent to make any comments in this regard, considering that more than a year and a half elapsed between the time that the written pleadings closed and the time that the motion to strike out the pleadings was brought, and that the Court could even consider dismissing the application based on section 8 of the Rules. [2]
+[8] The Respondent made very interesting arguments in support of her motion. The arguments were supported by case law.
+[9] Based on the evidence adduced, the allegations referred to in the motion are indeed of a breadth and generality that are likely to result in a protracted trial.
+[10] Is this a sufficient reason to strike out or exclude the allegations? In my view, it should be specified from the outset that the judge who will try this matter on the merits will be the sole arbiter of the admissibility of evidence. That judge will have the power to refuse any attempt to bring in evidence or facts that are not relevant to the point in issue. He will have the power, generally, not only to direct the argument, but also to intervene in order to keep the parties focussed on the true issues.
+[11] In addition, the limits of the Court's jurisdiction will also need to be taken into account when the merits are argued. Indeed, the Court will ultimately have to rule on whether the assessment under appeal is well‑founded. Any other issue will need to be excluded from argument.
+[12] This motion is not about a circumscribed fact whose relevance needs to be assessed; it is about a set of allegations the sole purpose of which is to show that the Appellant was not subject to the statutory provisions on which the assessment is based.
+[13] In other words, they are elements that will be part of the Appellant's overall theory.
+[14] In my view, this motion cannot succeed on a mere balance of probabilities standard. The relief, the striking out of the pleadings, could have portentous consequences for the opposing party at the hearing on the merits, and in view of the issue, this is a case in which truly decisive evidence would have to be adduced for the relief to be granted.
+[15] Even if the grounds for such a motion are apparently valid, indeed serious, this does not appear to be a sufficient basis on which to grant the motion.
+[16] The argument that the allegations referred to in the motion run the risk of making the evidence onerous, thereby requiring several additional days of hearing, simply seems premature in my view. The judge who will be seized of the matter at the hearing will be decide what is relevant and what is not.
+[17] The Appellant submits that the allegations referred to in the motion constitute the foundation of his arguments to the effect that the assessment is unwarranted and incorrect in law.
+[18] The principles and case law that govern such motions to strike out pleadings are well-known; in fact, the parties do not dispute the law on this point.
+[19] In Hunt v. Carey Canada Inc., [1990] 2 S.C.R. 959, [3] the Supreme Court of
+Canada
+enunciated, at page 980, the test that governs such motions:
+. . . assuming that the facts as stated in the statement of claim can be proved, is it "plain and obvious" that the plaintiff’s statement of claim discloses no reasonable cause of action? As in
+England
+, if there is a chance that the plaintiff might succeed, then the plaintiff should not be "driven from the judgment seat". Neither the length and complexity of the issues, the novelty of the cause of action, nor the potential for the defendant to present a strong defence should prevent the plaintiff from proceeding with his or her case. Only if the action is certain to fail because it contains a radical defect . . . should the relevant portions of a plaintiff’s statement of claim be struck out under Rule 19(24)(a).
+[20] In Morris v. The Queen, T.C.C., No. 92-581(IT),
+December 3, 1992 , [1992] T.C.J. No. 787, 93
+DTC 316, Bonner J. summarized the principles that govern motions to strike pleadings:
+Generally speaking, allegations of fact in a statement of claim should be taken as being true or capable of being proven. The reference for that is Unterreiner v. Wilson (1982) 40 O.R. 2nd 197, which was later affirmed by the Court of Appeal.
+2. There is a heavy burden on the attacking party to show that it is clear and obvious that the pleading is scandalous, frivolous or vexatious, or that it is otherwise an abuse of the process of the Court. The authority for that proposition is Erasmus v. The Queen, 91 D.T.C. 5415.
+3. "Embarrassing" means that the allegations are so irrelevant that to allow them to stand would involve useless expense and would also prejudice the trial of the action by involving the parties in a dispute that is wholly apart from the issues. "In order that the allegations should be struck out from a defense on that ground, it seems to me that their irrelevancy must be quite clear and, so to speak, apparent at the first glance. It is not enough that on considerable argument it may appear that they do not afford a defense." That is a quotation from [the decision of Pickford L.J. in] City of London v. Horner (1914) 111 LT 512.
+[21] More recently, Chief Judge Bowman specified as follows in HSBC Bank Canada v. The Queen, No. 2006-3579(IT)G, 2007
+TCC 307, June 19, 2007, at paragraph 9:
+A motion to strike out a pleading should be granted only where it is clear and obvious that pleading is scandalous, vexatious or frivolous or an abuse of the Court’s process. (Hunt v. Carey Canada Inc., [1990] 2 S.C.R. 959 at 980; Erasmus v. The Queen, 91
+DTC 5415 at 5416; Gould v. The Queen, [2005]
+DTC 1311; Niagara Helicopters Limited v. The Queen, [2003]
+DTC 513 at 514‑515.) An example of the type of frivolous and vexatious pleading that section 8 of the Rules is aimed at is Davitt v. The Queen, [2001]
+DTC 702.
+[22] In addition, as Rip J. (as he then was) noted in Status-One Investments Inc. v. Her Majesty the Queen, T.C.C., No. 2002‑2867(IT)G,
+July 27, 2004 :
+[TRANSLATION]
+[13] It should also be noted that the decision whether or not to grant a motion under section 53 of the Tax Court of Canada Rules falls within the Court's discretion. This discretion results from the word "may", which is used by Parliament at the beginning of the provision.
+[23] In her written submissions and during oral argument, the Respondent referred to Gauthier (Gisborn) v. The Queen, 2006
+TCC 290, [4] a decision of Justice Campbell Miller on a motion to strike out pleadings in an appeal where Métis alleged that they were immune from taxation. After reviewing the case law pertaining to the striking of allegations, Justice Miller ordered the allegations struck out on the basis that they did not identify the precise nature of the asserted right to self‑government and that the Appellant's pleadings were so incomplete that they were futile. Justice Miller specified:
+[18] Based on the Supreme Court of Canada's, and other courts' approach to the analysis of aboriginal rights protected by section 35 of the Constitution Act, 1982 what, if any, chance do the Appellants have in advancing their section 35 pleading on the basis of an inherent right of self-government (which carries with it immunity from taxation)? I find their position is not just weak – it is impossible.
+[19] The Appellants' pleadings do not pass the first hurdle of clearly characterizing a specific right related to specific practices, customs or traditions. There is nothing but bald assertions in the pleadings – no substantive support.
+[20] For the Appellants' claim to succeed they must plead
+(i) the exact nature of the right claimed;
+(ii) the actions taken by the party pursuant to that right;
+(iii) the infringing statute; and
+(iv) the historical background to establish the right.
+[24] Although the fundamental question (self-government) in the instant motion appears to be similar to the question considered by Miller J. in Gauthier (Gisborn), [5] the decision to grant the motion to strike in that case is distinguishable in a number of respects:
+the allegations in the pleadings are more detailed and precise than they were in Gauthier;
+the nature of the right claimed is specified (and not vague); [6]
+the pleadings contain enough relevant facts in support of the allegations, including the possibility that an aboriginal right exists. [7]
+[25] Although the Respondent's submissions in support of the motion to strike out the pleadings raise a doubt as to whether the contested paragraphs are reasonable, I am of the opinion that the Respondent has not sufficiently shown that the allegations in the Amended Notice of Appeal and the Answer clearly disclose no cause of action or that they are scandalous, frivolous or vexatious.
+[26] I should also point out that, on
+January 24, 2007 , the Federal Court of Appeal (A-112-06, 2007 FCA 59) affirmed the decision of Woods J. In Ronald Robertson v. The Queen, No. 2004-3561(IT)G,
+March 8, 2006 , dismissing such a motion to strike.
+[27] There, the Crown sought to have allegations regarding aboriginal fishing rights and the application of Treaty No. 5 struck out. Woods J. was not satisfied that the test laid down by the Supreme Court of Canada in Hunt v. Carey Canada Inc. had been met:
+[17] The onus on the party seeking to strike pleadings under these sections is high. Courts will not strike the pleadings unless the other party clearly has no chance of success: Hunt v. Carey Canada Inc., [1990] 2 S.C.R. 959 (S.C.C.). In my view, the respondent's argument does not meet this high threshold.
+[28] Lastly, in the Federal Court of Appeal's decision, Evans J.A. wrote:
+[4] It is conceded that, in considering whether the pleading should be struck, the Judge applied the correct legal test, namely, whether it was plain and obvious that this portion of the notice of appeal had no chance of success: Hunt v. Carey Canada Inc., [1990] 2 S.C.R. 959. Hence, in order to warrant the intervention of this Court, the appellant must demonstrate that, in making this discretionary interlocutory order, the Judge committed a palpable and overriding error in her application of the law to the facts, or made some error of law.
+[5] We are not persuaded that she did so err. In our opinion, it was reasonably open to the Judge to conclude that it was not plain and obvious that the impugned portion of the pleading was bound to fail. In other words, it is arguable that, in subjecting aboriginal and/or treaty rights to fish commercially to the game laws in force in the province, section 13 of the
+Manitoba
+Natural Resources Transfer Agreement, 1930, did not thereby totally extinguish the rights in question.
+[29] In conclusion, I am of the opinion that the motion to strike must be dismissed, with costs in the cause.
+Signed at
+Ottawa ,
+Canada
+, this 10th day of October 2007.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 29 day of January 2008.
+François Brunet, Revisor
+CITATION: 2007
+TCC 472
+COURT
+FILE NO.: 2004-2266(GST)G
+STYLE OF CAUSE: Édouard Robertson and The Queen
+PLACE OF HEARING:
+Jonquière ,
+Quebec
+DATE OF HEARING:
+May 10, 2007
+REASONS FOR ORDER BY: The Honourable Justice
+Alain Tardif
+DATE OF ORDER:
+October 10, 2007
+APPEARANCES:
+Counsel for the Appellant:
+François Bouchard and
+Martine Tremblay
+Counsel for the Respondent:
+Patrick Vézina
+COUNSEL OF RECORD:
+For the Appellant:
+Name: François Bouchard
+Firm: Cain Lamarre Casgrain Wells
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of
+Canada
+Ottawa ,
+Canada
+[1] . See the transcript of the hearing of the application to strike (May 10, 2007), at page 29, lines 14 to 24; and at page 210, lines 6 to 21.
+[2] . See the transcript of the hearing of motion to strike (May 10, 2007), at page 132.
+[3] . These comments were also applied by the Supreme Court of Canada in Odhavji Estate v. Woodhouse, 2003
+SCC 69, [2003] 3 S.C.R. 263, at paragraph 15.
+[4] . 2006 CarswellNat 2628, 2006
+TCC 290, 2006 D.T.C. 3050 (Eng.), [2006] 4 C.T.C. 2403.
+[5] . The allegations in the appellants' pleadings stated: "Whether the Appellant has an inherent immunity from taxation as an aboriginal right deriving from the aboriginal right to self-government which is constitutionally entrenched and protected under section 35 of the Constitution Act, 1982."
+[6] . See the remarks of Lamer C.J. in R. v. Pamajewon, [1996] 2 S.C.R. 821, at paragraph 25: "In applying this test the Court must first identify the exact nature of the activity claimed to be a right and must then go on to determine whether, on the evidence presented to the trial judge, and on the facts as found by the trial judge, that activity could be said to be (Van der Peet, at para. 59) 'a defining feature of the culture in question' prior to contact with Europeans."
+[7] . See the remarks of Lamer C.J. in R. v Van der Peet, [1996] 2 S.C.R. 507, at paragraph 46: "In light of the suggestion of Sparrow, supra, and the purposes underlying s. 35(1), the following test should be used to identify whether an applicant has established an aboriginal right protected by s. 35(1): in order to be an aboriginal right an activity must be an element of a practice, custom or tradition integral to the distinctive culture of the aboriginal group claiming the right."

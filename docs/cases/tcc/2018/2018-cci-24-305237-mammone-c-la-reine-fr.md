@@ -1,0 +1,178 @@
+---
+title: "Mammone c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/305237/index.do"
+last_modified: "2018-01-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 CCI 24"
+citation2: ""
+neutral_citation: "2018 CCI 24"
+decision_date: "2018-01-18"
+language: "fr"
+item_id: "305237"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7325
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T18:02:25.149000+00:00"
+cases_cited_count: 6
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "933fd08941120bb3789b601d65ac5157ac00c94efcf26f04d84f1fb4f7b05d4f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mammone c. La Reine
+
+- Citation: 2018 CCI 24
+- Decision date: 2018-01-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7325, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mammone c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-01-18
+Référence neutre
+2018 CCI 24
+Numéro de dossier
+2016-2834(IT)G
+Juges et Officiers taxateurs
+David E. Graham
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016‑2834(IT)G
+ENTRE :
+FRANK MAMMONE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 14 décembre 2017 à Toronto (Ontario)
+Devant : L’honorable juge David E. Graham
+Comparutions :
+Avocats de l’appelant :
+Me Eric Fournie
+Me Oleg Roslak
+Avocate de l’intimée :
+Me April Tate
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie pour l’année d’imposition 2009 de l’appelant est rejeté avec dépens à l’intimée.
+Signé à Vancouver (Colombie‑Britannique), ce 18e jour de janvier 2018.
+« David E. Graham »
+Juge Graham
+Traduction certifiée conforme
+ce 16e jour de novembre 2018.
+Elisabeth Ross, jurilinguiste
+Référence : 2018 CCI 24
+Date : 20180118
+Dossier : 2016‑2834(IT)G
+ENTRE :
+FRANK MAMMONE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Graham
+[1] Le présent appel porte sur la seule question de la rétroactivité. Les faits sont simples et ne sont pas contestés. Les dates sont importantes.
+[2] Avant sa retraite, Frank Mammone travaillait comme mécanicien pour le service d’incendie de Toronto. Durant ses nombreuses années d’emploi, il a participé au Régime de retraite des employés municipaux de l’Ontario (l’« OMERS »).
+[3] Le 1er janvier 2009, une société appelée 1723586 Ontario Inc. a créé un régime de pension à l’intention des cadres supérieurs de 1723586 Ontario Inc. (le « nouveau régime »). L’appelant était le seul membre du nouveau régime. Le nouveau régime a été agréé conformément à la Loi de l’impôt sur le revenu (la « Loi ») le 1er janvier 2009.
+[4] En juin 2009, M. Mammone a transféré la valeur de rachat de sa pension de l’OMERS vers le nouveau régime.
+[5] En 2013, le ministre du Revenu national a décidé que le nouveau régime n’était pas admissible à l’agrément aux termes de la Loi. Le ministre a donné avis de son intention de retirer l’agrément du nouveau régime. Cet avis a été envoyé par la poste le 14 novembre 2013.
+[6] Le 12 décembre 2013, le ministre a envoyé l’avis de retrait qui avait pour effet de retirer l’agrément du nouveau régime en date du 1er janvier 2009. Le ministre reconnaît maintenant que cette tentative de retirer l’agrément a échoué. Elle a échoué parce qu’un retard imprévu dans la mise à la poste de l’avis d’intention de retirer l’agrément a fait en sorte que le ministre a envoyé par erreur l’avis de retrait avant la fin de la période de 30 jours prévue au paragraphe 147.1(12).
+[7] Le jour où le ministre a voulu retirer l’agrément du nouveau régime, il a également établi une nouvelle cotisation pour l’année d’imposition 2009 de M. Mammone pour inclure la valeur de rachat de la pension de l’OMERS dans son revenu au titre de l’alinéa 56(1)a). Cette nouvelle cotisation a été établie sur le fondement du retrait rétroactif de l’agrément du nouveau régime. La nouvelle cotisation a été établie le dernier jour de la période normale de nouvelle cotisation pour l’année d’imposition 2009 de M. Mammone.
+[8] Environ trois ans et demi plus tard, en juin 2017, le ministre a envoyé un avis de retrait en bonne et due forme, qui retirait l’agrément du nouveau régime en date du 1er janvier 2009.
+[9] M. Mammone reconnaît que le nouveau régime n’était pas admissible à l’agrément. Il accepte que le paragraphe 147.1(12) confère au ministre le pouvoir de retirer l’agrément d’un régime de manière rétroactive. Il reconnaît que le ministre avait le pouvoir d’envoyer l’avis de retrait de juin 2017. Il ne conteste pas que l’avis de retrait a eu pour effet de retirer l’agrément du nouveau régime en date du 1er janvier 2009. Il accepte que le transfert de la pension d’un contribuable d’un régime agréé à régime non agréé entraîne l’inclusion de la valeur de rachat de la pension dans le revenu du contribuable en application de l’alinéa 56(1)a).
+[10] M. Mammone conteste l’existence, au moment où le ministre a établi la nouvelle cotisation à son égard, du fondement factuel de la cotisation. M. Mammone soutient que, puisque la première tentative d’agrément a échoué, le nouveau régime était toujours un régime agréé au moment où le ministre a établi la nouvelle cotisation à son égard. Il affirme que, bien que l’avis de retrait de juin 2017 ait été en vigueur, cela ne change pas le fait que l’agrément n’avait pas été retiré lorsque la nouvelle cotisation a été établie. Je ne suis pas d’accord.
+[11] M. Mammone soutient également que le fait que le ministre se soit reposé sur l’avis de retrait de juin 2017 est un nouveau fondement pour la nouvelle cotisation, ce qu’interdit le paragraphe 152(9). Encore une fois, je ne suis pas d’accord.
+[12] Les observations de M. Mammone sont interreliées, mais je vais néanmoins les examiner séparément.
+Le fondement factuel de la nouvelle cotisation existait au moment où M. Mammone a fait l’objet d’une nouvelle cotisation
+[13] Comme je l’ai indiqué ci‑dessus, les parties reconnaissent que le ministre a le pouvoir de retirer l’agrément d’un régime de pension de manière rétroactive (Boudreau c. Ministre du Revenu national [1] ). Ce sur quoi les parties ne s’entendent pas, c’est la question de savoir si l’avis de retrait aurait dû être envoyé avant que le ministre établisse une nouvelle cotisation à l’égard de M. Mammone. Ce dernier affirme que, parce que l’avis de retrait n’avait pas encore été envoyé au moment où la nouvelle cotisation a été établie, l’agrément n’avait pas encore été retiré et les faits nécessaires pour justifier la nouvelle cotisation n’existaient donc pas.
+[14] À mon avis, l’argument de M. Mammone ne peut être retenu en raison de l’effet rétroactif du retrait. Les faits nécessaires pour justifier la nouvelle cotisation existaient au moment où celle‑ci a été établie, parce que le paragraphe 147.1(12) a pour effet de les faire exister de façon rétroactive.
+[15] Même si l’analyse qui suit peut amener une personne à penser qu’elle tente de suivre le fil de l’intrigue du célèbre film des années 1980 Retour vers le futur, je crois que l’analyse est solide et que l’analogie avec le film est pertinente. Lorsque le ministre a établi la nouvelle cotisation à l’égard de M. Mammone en 2013, l’agrément du nouveau régime n’avait pas encore été retiré. Toutefois, lorsque cet agrément a fini par être retiré en 2017, le retrait prenait effet le 1er janvier 2009. La nature rétroactive du retrait a modifié l’histoire, de sorte que la nouvelle séquence des événements a remplacé la séquence originale. Selon cette séquence des événements modifiée, au moment où le ministre a établi une nouvelle cotisation à l’égard de M. Mammone en 2013, les faits nécessaires pour justifier la nouvelle cotisation existaient déjà depuis presque quatre ans. C’est en fonction de cette séquence des événements modifiée que je dois décider si la nouvelle cotisation doit être maintenue. Si le procès visant l’appel avait commencé avant que le ministre envoie l’avis de retrait de juin 2017, j’aurais eu à examiner la séquence des événements originale et j’en serai venu à une conclusion différente. Dans la séquence des événements originale, le retrait n’aurait pas eu lieu, l’agrément existerait toujours et la nouvelle cotisation ne pourrait donc pas être maintenue.
+[16] L’intimée fait valoir qu’on peut faire le parallèle avec l’effet d’une loi rétroactive. Je suis d’accord. Comme pour une loi rétroactive, le paragraphe 147.1(12) modifie après le fait les conséquences fiscales d’opérations par application de la loi. Une loi rétroactive s’applique à des opérations qui ont été effectuées alors que la loi n’existait pas encore (Budget Steel Limited c. La Reine [2] ). Elle s’applique après que le contribuable a déjà interjeté appel (Fonds mutuels C.I. Inc. c. La Reine [3] ). Elle s’applique par une cour d’appel même si elle n’était pas en vigueur au moment où le tribunal inférieur a entendu l’affaire (La Reine c. Gibson [4] ). Je ne vois aucune différence pratique entre donner un effet rétroactif à une loi et donner un effet rétroactif à un fait qui, par application d’une loi, est présumé exister de façon rétroactive.
+[17] M. Mammone soutient qu’il faut faire une distinction avec les affaires concernant une loi rétroactive parce qu’elles découlent d’une loi du législateur, alors que les faits rétroactifs en l’espèce découlent d’une décision du ministre. Je ne crois pas que la distinction soit importante. Le législateur a adopté une loi qui confère au ministre le pouvoir de modifier des faits de façon rétroactive. Rien n’indique que le législateur ne savait pas ce qu’il faisait.
+[18] À mon avis, on peut également tracer un solide parallèle entre les retraits rétroactifs et les rectifications. Imaginons le présent appel d’un point de vue différent. Imaginons que le ministre ait retiré avec succès l’agrément en 2013, comme il en avait l’intention, et qu’il ait établi une nouvelle cotisation à l’égard de M. Mammone pour inclure la valeur de rachat de la pension de l’OMERS dans son revenu. Imaginons maintenant que M. Mammone se soit immédiatement adressé à la Cour supérieure de justice de l’Ontario pour obtenir une ordonnance de rectification déclarant que la pension n’avait jamais été transférée vers le nouveau régime. Pour les besoins de la discussion, puisque la demande aurait été présentée avant la décision de la Cour suprême du Canada dans l’arrêt Canada (Procureur général) c. Hôtels Fairmont Inc. [5] , supposons que la demande ait été accordée au motif que les conséquences fiscales n’avaient pas été celles souhaitées par M. Mammone. L’effet de la rectification aurait été rétroactif, de sorte que le transfert de 2009 n’aurait jamais eu lieu. M. Mammone aurait invoqué ce fait pour contester la nouvelle cotisation. Il aurait soutenu avec succès qu’il ne pouvait pas faire l’objet d’une nouvelle cotisation concernant un transfert qui, de l’effet rétroactif d’une décision judiciaire, n’a jamais eu lieu. Le ministre n’aurait pas pu se défendre contre cet argument en soutenant que la nouvelle cotisation devait être maintenue parce que la rectification n’avait été accordée qu’après l’établissement de la nouvelle cotisation (Dale c. R. [6] ). Pourtant, c’est exactement ce que M. Mammone tente de faire valoir en l’espèce. Il soutient qu’on ne peut tenir compte de modifications de faits rétroactives que si l’événement qui a provoqué ces modifications s’est produit avant l’établissement de la nouvelle cotisation.
+[19] M. Mammone a tenté de distinguer sa situation des affaires de rectification en faisant valoir que la rectification résulte d’une ordonnance de la Cour, alors que le retrait de l’agrément du nouveau régime résulte de l’exercice par le ministre de son pouvoir. Je ne vois aucune différence réelle entre les deux situations.
+[20] Compte tenu de tout ce qui précède, je conclus que les faits nécessaires pour justifier la nouvelle cotisation existaient au moment où cette dernière a été établie, et elle est maintenue.
+Il n’y avait aucun nouveau fondement pour la nouvelle cotisation
+[21] Comme je l’ai indiqué ci‑dessus, M. Mammone soutient que le fait que le ministre se soit reposé sur l’avis de retrait de 2017 est un nouveau fondement pour la nouvelle cotisation, ce qu’interdit le paragraphe 152(9). M. Mammone affirme que l’avis de retrait de 2017 est un fondement pour la nouvelle cotisation qui diffère de l’avis de retrait prétendu de 2013. Je ne suis pas d’accord.
+[22] Le fondement de la nouvelle cotisation est et a toujours été le fait que la valeur de rachat de la pension de l’OMERS a été transférée vers un régime de pension non agréé. Pour les motifs exposés ci‑dessus, en raison de la nature rétroactive du retrait, les faits sous‑tendant ce fondement de la nouvelle cotisation ont toujours existé.
+[23] M. Mammone invoque les arrêts de la Cour d’appel fédérale Walsh c. La Reine [7] et Gramiak c. La Reine [8] . Dans l’arrêt Gramiak, la Cour a conclu ce qui suit [9] :
+En outre, le nouvel argument ne peut être invoqué s’il a pour effet de permettre qu’une nouvelle cotisation soit établie en dehors de la période normale de nouvelle cotisation énoncée au paragraphe 152(4) (Walsh c. Canada, 2007 CAF 222, paragraphe 18). Avec cette restriction, qui est au cœur du présent appel, le législateur reconnaît que l’on ferait fi du délai de prescription si l’on permettait au ministre de soulever, après l’expiration de la période normale de nouvelle cotisation, un argument reposant sur un fondement juridique et factuel différent de celui qui sous‑tend la cotisation.
+[Non souligné dans l’original.]
+[24] Comme je l’ai indiqué ci‑dessus, la difficulté quant à la thèse de M. Mammone est que le fondement factuel de la nouvelle cotisation n’a pas changé. Par conséquent, les restrictions énoncées au paragraphe 152(9) n’entrent pas en jeu.
+[25] Je comprends que M. Mammone ait des réserves vis-à-vis de la capacité du ministre de corriger un problème par l’établissement d’une nouvelle cotisation pour l’année d’imposition 2009 alors qu’elle est prescrite depuis trois ans et demi. M. Mammone soutient que le législateur ne peut avoir eu l’intention de communiquer l’effet rétroactif des retraits à toute application de la Loi. En particulier, il fait valoir que le législateur ne peut avoir voulu que les retraits rétroactifs soient utilisés pour prolonger la période normale de nouvelle cotisation. Je suis d’accord, mais pas d’une façon qui favorise M. Mammone.
+[26] Mon analyse serait quelque peu différente si la nouvelle cotisation en cause avait été établie après la période normale de nouvelle cotisation. Je conclurais quand même que l’agrément du nouveau régime était toujours retiré. Il s’agit là sans aucun doute de l’effet du paragraphe 147.1(12). Toutefois, à mon avis, il n’aurait pas été approprié que j’attribue la connaissance de ce retrait à M. Mammone au moment d’examiner s’il avait fait de faux énoncés, par négligence, inattention ou omission volontaire, dans sa déclaration de revenus de 2009. J’accepte que le législateur ait souhaité que le retrait soit rétroactif, mais il faudrait que la Loi comporte des indices très clairs pour me convaincre que le législateur voulait également que le contribuable ait une connaissance rétroactive de ce retrait rétroactif. À mon avis, si la nouvelle cotisation avait été établie après la période normale de nouvelle cotisation, dans le but de rouvrir l’année frappée de prescription, le ministre aurait pu invoquer la connaissance des attributs du nouveau régime que possédait M. Mammone au moment où il a produit sa déclaration, mais n’aurait pas pu invoquer sa connaissance rétroactive du retrait.
+[27] Cela dit, la nouvelle cotisation à l’égard de l’année d’imposition 2009 de M. Mammone a été établie pendant la période normale de nouvelle cotisation. Je conclus que le paragraphe 147.1(12) confère au ministre le pouvoir de modifier rétroactivement les faits justifiant cette nouvelle cotisation, même si l’avis de retrait permettant de le faire a été envoyé après la fin de la période normale de nouvelle cotisation. Le paragraphe 152(9) ne s’applique pas parce qu’il n’y a pas eu de changement au fondement factuel de la nouvelle cotisation.
+Conclusion
+[28] Compte tenu de tout ce qui précède, l’appel est rejeté.
+Dépens
+[29] Les dépens sont adjugés à l’intimée, mais j’espère que, eu égard à des circonstances qui n’ont pas à être décrites en l’espèce, elle choisira de ne pas les réclamer.
+Signé à Vancouver (Colombie‑Britannique), ce 18e jour de janvier 2018.
+« David E. Graham »
+Juge Graham
+Traduction certifiée conforme
+ce 16e jour de novembre 2018.
+Elisabeth Ross, jurilinguiste
+RÉFÉRENCE :
+2018 CCI 24
+No DU DOSSIER DE LA COUR :
+2016‑2834(IT)G
+INTITULÉ :
+FRANK MAMMONE c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 14 décembre 2017
+MOTIFS DU JUGEMENT :
+L’honorable juge David E. Graham
+DATE DU JUGEMENT :
+Le 18 janvier 2018
+COMPARUTIONS :
+Avocats de l’appelant :
+Me Eric Fournie
+Me Oleg Roslak
+Avocate de l’intimée :
+Me April Tate
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Eric Fournie
+Oleg Roslak
+Cabinet :
+Fournie Mickleborough LLP
+Pour l’intimée :
+Nathalie G. Drouin
+Sous‑procureure générale du Canada
+Ottawa, Canada
+[1] 2007 CAF 32.
+[2] 1996 CarswellNat 2383 (C.A.F.).
+[3] [1999] 2 C.F. 613, 1999 CarswellNat 160 (C.A.F.). Voir également Proctor & Gamble Inc. c. Ontario (Minister of Finance), 2010 ONCA 149.
+[4] 2005 CAF 180 (autorisation de pourvoi refusée, 2005 CarswellNat 3624).
+[5] 2016 CSC 56.
+[6] 1997 CarswellNat 391 (C.A.F.).
+[7] 2007 CAF 222.
+[8] 2015 CAF 40.
+[9] Gramiak, au paragraphe 33.

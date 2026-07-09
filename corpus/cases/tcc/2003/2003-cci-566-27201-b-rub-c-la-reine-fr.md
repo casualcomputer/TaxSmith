@@ -1,0 +1,159 @@
+---
+title: "Bérubé c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27201/index.do"
+last_modified: "2003-09-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 566"
+citation2: ""
+neutral_citation: "2003 CCI 566"
+decision_date: "2003-09-12"
+language: "fr"
+item_id: "27201"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1004
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:45:41.382000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d0ef5f5c5d31dfc3d833def2da198b00b9c6c106ab62f454ad0addc2adff03ba"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bérubé c. La Reine
+
+- Citation: 2003 CCI 566
+- Decision date: 2003-09-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1004, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bérubé c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-09-12
+Référence neutre
+2003 CCI 566
+Numéro de dossier
+2000-4344(IT)G
+Juges et Officiers taxateurs
+Pierre R. Dussault
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2000-4344(IT)G
+ENTRE :
+JACQUES BÉRUBÉ,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 16 juin 2003 à Québec (Québec)
+Devant : L'honorable juge P.R. Dussault
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Anne Poirier
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu du paragraphe 227(10) et de l'article 227.1 de la Loi de l'impôt sur le revenu dont l'avis porte le numéro 15865 et est daté du 23 décembre 1998, est admis et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, en tenant pour acquis que le montant des déductions à la source ainsi que les pénalités et intérêts cotisés de 16 420,02 $ doit être réduit à 11 627,77 $.
+Le tout avec dépens en faveur de l'intimée.
+Signé à Ottawa, Canada ce 12e jour de septembre 2003.
+« P. R. Dussault »
+Juge Dussault
+Référence : 2003CCI566
+Date : 20030912
+Dossier : 2000-4344(IT)G
+ENTRE :
+JACQUES BÉRUBÉ,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Dussault
+[1] Il s'agit d'un appel d'une cotisation établie en vertu du paragraphe 227(10) et de l'article 227.1 de la Loi de l'impôt sur le revenu ( « Loi » ). La cotisation au montant de 16 420,02 $ est pour des retenues d'impôt sur le revenu et des contributions d'assurance-emploi ainsi que pour les pénalités et intérêts non remis par la société Industries Leclerc Inc. ( « Société » ).
+[2] Le total de 16 420,02 $ représente la somme des retenues, contributions, intérêts et pénalités dus pour la deuxième période de paye de septembre 1996, soit un montant de 3 296,52 $, pour la deuxième période de paye d'octobre 1996, soit un montant de 8 331,25 $, et pour la première période de paye de novembre 1996, soit un montant de 4 792,25 $. Aucun chèque n'a été envoyé à Revenu Canada à l'égard de la première période mentionnée. Quant aux montants dus pour les deux autres périodes, les deux chèques envoyés en paiement datés des 10 et 25 novembre 1996 ont été refusés à l'encaissement pour insuffisance de fonds.
+[3] La Banque Nationale du Canada ( « Banque » ) a fait valoir ses garanties à l'égard de prêts consentis à la Société le 28 décembre 1996 et cette dernière a fait cession de ses biens le 17 janvier 1997. Aucun dividende n'a été payé suite à la faillite.
+[4] L'appelant admet sa responsabilité comme administrateur en ce qui concerne le montant de 3 296,52 $ dû pour la deuxième période de paye de septembre. Toutefois, en ce qui concerne les montants dus pour les deux autres périodes, il soutient qu'il n'avait plus aucun contrôle de la Société et que c'est la Banque qui décidait ou non d'honorer les chèques à compter du 15 octobre 1996.
+[5] La Société, Nilus Leclerc Inc. et Plancher Leclerc Inc. étaient des filiales de la société « Groupe Bois Leclerc Inc. » . Les trois sociétés bénéficiaient d'une marge de crédit commune de 6 millions auprès de la Banque. Au début de 1996, les sociétés envisageaient un projet d'expansion de l'ordre de 16 millions qui ne se concrétisa pas.
+[6] Selon l'appelant, dès mars 1996, les sociétés excédaient de temps à autre la marge de crédit autorisée par la Banque et il était question d'un refinancement de l'ordre de 10 millions prévu pour octobre 1996. Vers le 15 octobre, il est devenu apparent que ce refinancement n'aurait pas lieu.
+[7] L'appelant a affirmé qu'en septembre ou octobre 1996 et assurément à compter du 15 octobre 1996, la Banque avait pris le contrôle de la trésorerie des sociétés en autorisant ou non l'encaissement des chèques émis sur une base quotidienne selon les rentrées de fonds. Quant à lui, il a affirmé qu'il faisait préparer tous les documents et les chèques pour les déductions à la source de façon régulière. Selon lui, la Banque avait désigné la firme comptable Raymond, Chabot, Martin, Paré et un consultant, un certain Michel Gauthier, pour protéger ses garanties. Ainsi, à compter du 15 octobre 1996, ce dernier initialait les chèques dont il acceptait d'autoriser le paiement. On sait que les deux chèques dont la Banque a refusé le paiement sont en date du 10 et du 25 novembre 1996.
+[8] De plus l'appelant a aussi affirmé qu'à compter de septembre 1996, il n'était plus le seul administrateur de la Société et que cinq autres personnes, dont Michel Gauthier, avaient été désignés comme administrateurs.
+[9] Ainsi, l'appelant a soutenu qu'il avait perdu le contrôle de la trésorerie à compter du 15 octobre 1996 et que c'est Michel Gauthier et la Banque qui décidaient d'envoyer les chèques en paiement ou d'honorer ceux qu'il s'était lui-même chargé de faire émettre.
+[10] Le témoignage de l'appelant est contredit sur un certain nombre de points par la preuve documentaire présentée par l'intimée (pièce I-1).
+[11] D'abord, une résolution autorisant l'appelant, à titre de seul administrateur de la Société, à présenter une proposition en vertu de la Loi sur la faillite et l'insolvabilité et désignant un syndic a été adoptée par l'appelant lui-même le 19 janvier 1997. Le procès-verbal de l'assemblée signé par l'appelant a été déposé chez le séquestre officiel pour le district de Québec (pièce I-1, onglet 19). Aucun autre document de la Société indiquant que cinq autres personnes auraient officiellement été élues administrateurs de la Société, comme l'appelant l'a affirmé, n'a été soumis en preuve.
+[12] En date du 15 novembre 1996, une résolution de la société Nilus Leclerc Inc., signée par l'appelant en tant que secrétaire, fait état de la nomination des personnes suivantes à titre d'administrateurs de cette société et membres du comité exécutif chargé d'assurer la direction de toutes les entreprises du Groupe Leclerc Inc. :
+Michel Gauthier
+Robert Savoie
+Jean-Claude Arpin
+Denis Gagné
+Jacques Bérubé
+Administrateur et conseiller auprès de la Banque Nationale
+Administrateur et représentant de la Banque Nationale
+Administrateur et représentant de la Banque Nationale
+Représentant de la SDI
+Président de Groupe Leclerc inc.
+[13] Par ailleurs, c'est le 18 novembre 1996, à titre de président de Groupe Bois Leclerc Inc., que l'appelant a, en quelque sorte, été forcé de désigner Michel Gauthier comme directeur général intérimaire de cette société et de ses filiales. (pièce I-1, onglet 15).
+[14] En deuxième lieu, dans la série de copies de chèques et de doubles de chèques soumis en preuve, on retrouve trois chèques à l'ordre du Receveur Général du Canada couvrant les déductions à la source de la Société pour la deuxième période de novembre 1996 ainsi que pour la première et la deuxième période de décembre 1996. Tous les doubles portent les initiales de Michel Gauthier (pièce I-1, onglet 18, pages 5, 6 et 7). Ainsi, des chèques couvrant les déductions à la source, après ceux des périodes en litige, ont effectivement été approuvés par Michel Gauthier et régulièrement encaissés.
+[15] Toutefois, on retrouve également le double d'un chèque daté du 25 octobre 1996 et couvrant les déductions à la source pour la première période du même mois qui ne porte pas les initiales de Michel Gauthier (pièce I-1, onglet 18, page 11). Pourtant, ce chèque a été encaissé de façon régulière. Plus surprenant cependant, il y a également le double d'un chèque daté du 10 septembre 1996 concernant les déductions à la source pour la deuxième période d'août 1996 qui porte les initiales de Michel Gauthier (pièce I-1, onglet 18, page 12), alors que les doubles des chèques datés respectivement du 25 septembre et du 10 octobre 1996 et couvrant les déductions à la source pour la première et pour la deuxième période de septembre 1996 respectivement, ne portent pas les initiales de Michel Gauthier (pièce I-1, onglet 18, pages 13 et 14). Pourtant, ces deux chèques ont été encaissés. L'explication fournie par l'appelant est que Michel Gauthier n'était pas encore en poste à ce moment.
+[16] De l'ensemble de ces documents, on ne peut conclure que c'est effectivement en date du 15 octobre 1996 que l'appelant a perdu le contrôle de la trésorerie de la Société et qu'il était alors totalement à la merci de Michel Gauthier et de la Banque, quant à l'envoi des chèques couvrant les déductions à la source ou quant à leur autorisation pour encaissement.
+[17] Un autre document établit aussi à plus tard la main-mise de Michel Gauthier sur la trésorerie de la Société. Il s'agit d'un document préparé par l'avocat de l'appelant dans le cadre d'un conflit opposant l'appelant à la Commission des normes du travail. Dans ce document daté du 27 mars 1996, l'avocat Gary Makila établit une chronologie des événements ayant mené aux difficultés de Groupe Leclerc Inc. et de ses filiales (pièce I-1, onglet 21). Je ne reproduirai ici que deux courts extraits du document aux pages 2 et 3, sous les dates du lundi 21 octobre 1996 et du lundi 18 novembre 1996 :
+LUNDI LE 21 OCTOBRE 1996 :
+Michel Gauthier commence son travail au sein de l'entreprise - il a le mandat de faire un « due diligence » pour BNC et de fournir des recommandations - Bérubé continue d'avoir le contrôle de la trésorerie et des opérations quotidiennes.
+LUNDI LE 18 NOVEMBRE 1996 :
+À son arrivée, Gauthier convoque une réunion des cadres pour faire part de sa nomination. Sont présents à cette rencontre : Benoit Poitras, Martin Richard, Jacques Lemay, Bernard Dumais, Richard Poirier et Jean-Paul Gustini. Il les avise tous qu'il assume la gestion de l'entreprise et qu'ils doivent maintenant se rapporter directement à lui. Une fois cette rencontre avec les cadres terminée, Gauthier rencontré (sic) les préposés à l'administration (commis-comptable etc.) pour leur communiquer le même message - Gauthier est très ferme : Bérubé ne doit pas s'ingérer d'aucune façon dans la trésorerie. Toute instruction de la part de Bérubé ne doit pas être suivie et doit être portée à sa connaissance immédiatement.
+À compter de ce moment, Bérubé est exclu de la gestion quotidienne de l'entreprise. Gauthier contrôle l'émission des chèques. Il décide quels comptes doivent être payés et dans quel ordre de priorité (salaires, D.A.S., etc.). D'ailleurs, Gauthier appose ses initiales sur la plupart des chèques.
+Au cours de la semaine, le climat de travail s'est détérioré passablement. Certains cadres ne sont pas intéressés à continuer à travailler dans ce contexte et se prépare (sic) à partir.
+[18] De ce qui précède, je suis plutôt porté à conclure que c'est à compter du 18 novembre 1996, suite à la nomination de Michel Gauthier comme directeur-général intérimaire, et non à compter du 15 octobre 1996, que l'appelant a véritablement perdu le contrôle de fait de la Société et qu'il n'était plus, comme administrateur, dans une position pour prévenir le manquement de la Société quant aux déductions à la source. Il est vrai que c'est la Banque qui a refusé le chèque du 10 novembre 1996 à l'encaissement. Toutefois, selon le document préparé par son propre avocat et admis en preuve, l'appelant était toujours, à cette date, en contrôle de la situation. Selon la preuve soumise, je suis toutefois prêt à reconnaître qu'il ne l'était cependant plus à compter du 18 novembre 1996. Ainsi, l'appelant n'est pas responsable des déductions à la source non remises pour la première période de novembre 1996 et dont le chèque en date du 25 novembre 1996, a été refusé à l'encaissement.
+[19] En conséquence de ce qui précède, l'appel de la cotisation établie en vertu du paragraphe 227(10) et de l'article 227.1 de la Loi est admis et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant pour acquis que le montant des déductions à la source ainsi que les pénalités et intérêts cotisés de 16 420,02 $ doit être réduit à 11 627,77 $. Le tout avec dépens en faveur de l'intimée.
+Signé à Ottawa, Canada ce 12e jour de septembre 2003.
+« P. R. Dussault »
+Juge Dussault
+RÉFÉRENCE :
+2003CCI566
+No DU DOSSIER DE LA COUR :
+2000-4344(IT)I
+INTITULÉ DE LA CAUSE :
+Jacques Bérubé et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE DE L'AUDIENCE :
+le 16 juin 2003
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge P. R. Dussault
+DATE DU JUGEMENT :
+le 12 septembre 2003
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Anne Poirier
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelant :
+Nom :
+Ville :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

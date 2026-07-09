@@ -1,0 +1,146 @@
+---
+title: "Palmer c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/107893/index.do"
+last_modified: "2014-12-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 CCI 28"
+citation2: ""
+neutral_citation: "2015 CCI 28"
+decision_date: "2014-12-18"
+language: "fr"
+item_id: "107893"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2743
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:35:48.704000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d4f14e11acdd28a4297ed67c876617883e5f3574eca5a6226b3bd815bddde3c4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Palmer c. La Reine
+
+- Citation: 2015 CCI 28
+- Decision date: 2014-12-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2743, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Palmer c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-12-18
+Référence neutre
+2015 CCI 28
+Numéro de dossier
+2013-1868(IT)G
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2015 CCI 28
+Date : 20150205
+Dossier : 2013-1868(IT)G
+ENTRE :
+HARRIET PALMER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Version révisée de la transcription des motifs du jugement rendus oralement à l’audience le 18 décembre 2014, à Charlottetown (Île-du‑Prince‑Édouard).)
+La juge Campbell
+[1] Qu’il soit consigné au dossier que je rends oralement les motifs dans l’appel de Harriet Palmer, dont l’audition a commencé en juillet, puis s’est poursuivie et terminée hier.
+[2] Le ministre du Revenu national (le « ministre ») a établi une cotisation à l’égard de l’appelante au moyen d’un avis daté du 8 décembre 2011, conformément à l’article 160 de la Loi de l’impôt sur le revenu (la « Loi »). L’appelante a fait l’objet d’une cotisation en raison du transfert, par Randy Palmer, de biens à leur fils, Christopher Palmer, puis à elle.
+[3] La question que je dois trancher est celle de savoir si le ministre a établi à juste titre une cotisation à l’égard de l’appelante au titre du paragraphe 160(2). L’obligation fiscale initialement visée par la cotisation établie à l’égard de l’appelante était de 82 964,55 $.
+[4] L’audience a commencé en juillet 2014 et, après avoir entendu le témoignage de Patrick Bradley, le vérificateur de l’Agence du revenu du Canada (l’« ARC »), ainsi que de Dwayne MacLeod, de la Division du recouvrement, et de Randy Palmer, j’ai ajourné l’audience pour permettre à l’appelante d’obtenir un rapport d’expert au sujet de la juste valeur marchande des biens visés. Bien qu’il s’agît d’une mesure procédurale inhabituelle, comme l’appelante agissait pour son propre compte et la juste valeur marchande des biens était l’un des éléments clés de son appel, j’ai accédé à la demande de l’appelante. Malheureusement, j’ai jugé que le rapport d’expert produit n’était pas admissible pour les raisons que j’ai exposées dans ma décision du 26 novembre 2014.
+[5] Au début de la reprise de l’audience le 17 décembre 2014, l’avocat de l’intimée a avisé la Cour qu’elle faisait une concession concernant la valeur des biens. Selon l’hypothèse g), énoncée dans la réponse à l’avis d’appel, la juste valeur marchande des biens en date du 26 mars 1999 était de 90 000 $. L’intimée concède maintenant que la valeur des biens était de 47 500 $, ce qui fait que l’intérêt de moitié de l’appelante était de 23 750 $. Cela entraîne une réduction de l’obligation de 82 964 $ à 61 714 $ pour ce qui est de la cotisation de l’appelante.
+[6] L’appelante est mariée à Randy Palmer. Le 26 mars 1999, M. Palmer a transféré deux parcelles de terrain, portant les numéros 516880 et 528687, de son entreprise à propriétaire unique à l’appelante et à lui‑même en tant que propriétaires conjoints.
+[7] Au moment du transfert, il a été inscrit que la juste valeur marchande de la contrepartie était nulle. Selon la concession de l’intimée concernant la juste valeur marchande à la date du transfert, l’intérêt de moitié de l’appelante dans la juste valeur marchande de 47 500 $ est maintenant de 23 750 $.
+[8] Le 1er juin 1999, l’appelante et son époux ont transféré les biens à leur fils, Christopher Palmer. Au moment du transfert, les parties ont inscrit que la juste valeur marchande était nulle.
+[9] Le 31 août 2004, Christopher Palmer a transféré les biens au nom de l’appelante seulement. Il a été mentionné que la juste valeur marchande des biens était nulle.
+[10] L’intimée a tenu pour acquis, à l’hypothèse (l) de la réponse à l’avis d’appel, que la juste valeur marchande des biens, en date du 31 août 2004, était de 140 000 $.
+[11] Les passages pertinents de l’article 160 de la Loi sont ainsi libellés :
+160(1) Lorsqu’une personne a, depuis le 1er mai 1951, transféré des biens, directement ou indirectement, au moyen d’une fiducie ou de toute autre façon à l’une des personnes suivantes :
+a) son époux ou conjoint de fait ou une personne devenue depuis son époux ou conjoint de fait;
+b) une personne qui était âgée de moins de 18 ans;
+c) une personne avec laquelle elle avait un lien de dépendance,
+les règles suivantes s’appliquent :
+d) le bénéficiaire et l’auteur du transfert sont solidairement responsables du paiement d’une partie de l’impôt de l’auteur du transfert en vertu de la présente partie pour chaque année d’imposition égale à l’excédent de l’impôt pour l’année sur ce que cet impôt aurait été sans l’application des articles 74.1 à 75.1 de la présente loi et de l’article 74 de la Loi de l’impôt sur le revenu, chapitre 148 des Statuts revisés du Canada de 1952, à l’égard de tout revenu tiré des biens ainsi transférés ou des biens y substitués ou à l’égard de tout gain tiré de la disposition de tels biens;
+e) le bénéficiaire et l’auteur du transfert sont solidairement responsables du paiement en vertu de la présente loi d’un montant égal au moins élevé des montants suivants :
+(i) l’excédent éventuel de la juste valeur marchande des biens au moment du transfert sur la juste valeur marchande à ce moment de la contrepartie donnée pour le bien,
+(ii) le total des montants dont chacun représente un montant que l’auteur du transfert doit payer en vertu de la présente loi au cours de l’année d’imposition dans laquelle les biens ont été transférés ou d’une année d’imposition antérieure ou pour une de ces années;
+aucune disposition du présent paragraphe n’est toutefois réputée limiter la responsabilité de l’auteur du transfert en vertu de quelque autre disposition de la présente loi.
+[…]
+160(2) Le ministre peut, en tout temps, établir une cotisation à l’égard d’un contribuable pour toute somme payable en vertu du présent article. Par ailleurs, les dispositions de la présente section s’appliquent, avec les adaptations nécessaires, aux cotisations établies en vertu du présent article comme si elles avaient été établies en vertu de l’article 152.
+[12] Pour que cette disposition s’applique, quatre conditions doivent être remplies :
+1. il doit y avoir une opération ou un marché entre des personnes ayant un lien de dépendance;
+2. il doit y avoir transfert d’un bien;
+3. il doit y avoir absence de contrepartie de la part du bénéficiaire final;
+4. l’auteur du transfert doit être tenu de payer de l’impôt au cours de l’année dans laquelle le bien a été transféré ou d’une année d’imposition antérieure.
+[13] Dans son analyse de l’objet et de l’intention de l’article 160 dans l’arrêt La Reine c Livingston, 2008 CAF 89, 2008 DTC 6233, la Cour d’appel fédérale a renvoyé à l’arrêt Medland v Canada, 98 DTC 6358 (CAF). Il est vrai que l’application de cette disposition peut avoir de lourdes conséquences, mais il s’agit d’un instrument de recouvrement des impôts inclus dans la Loi pour empêcher les contribuables de transférer des biens à un époux ou à une autre partie avec laquelle ils ont un lien de dépendance pour faire échec aux tentatives de recouvrement d’une obligation fiscale.
+[14] Il ressort aussi clairement de la jurisprudence que l’obligation fiscale peut passer par plusieurs transferts. Autrement dit, comme il est mentionné au paragraphe 38 de la décision Jurak c La Reine, 2001 CanLII 62 (CCI) :
+[38] […] Le bénéficiaire d’un transfert peut devenir lui‑même l’auteur d'un transfert sujet à l’application du paragraphe 160(1) de la Loi si au moment du deuxième transfert, il est lui-même débiteur fiscal soit de son propre chef ou en tant que débiteur solidaire avec le premier auteur. […]
+[15] Ces observations s’appliquent tout particulièrement aux faits dont je suis saisie, où plusieurs transferts des biens visés ont eu lieu. Cependant, l’obligation fiscale est transmise d’une partie à l’autre dans le cadre de la série de transferts entre les parties ayant un lien de dépendance.
+[16] En plus d’essayer d’attaquer la juste valeur marchande des biens, l’appelante a aussi mis en doute la cotisation sous‑jacente. Toutefois, comme le fardeau de la preuve repose entièrement sur l’appelante dans le présent appel, rien dans la preuve documentaire ni dans les témoignages ne me permettrait de corriger les erreurs que le ministre aurait commises dans la cotisation.
+[17] Bien que l’appelante ait assigné à témoigner et rappelé le vérificateur à la reprise de l’audience en décembre, Patrick Bradley n’a présenté aucun élément de preuve qui change ou démolisse les hypothèses du ministre. Aucun document commercial, document bancaire ni élément de preuve d’un tiers n’a été produit pour étayer les prétentions de l’appelante. De plus, l’appelante elle‑même a refusé de témoigner, bien qu’elle ait été invitée à le faire. M. Palmer a prétendu que l’ARC ne leur avait pas donné la possibilité, à l’appelante et lui, de présenter des renseignements supplémentaires au sujet d’éléments allant des dépenses personnelles aux charges grevant les biens, mais il ressort clairement de la correspondance du 7 janvier 2003 ayant trait à une proposition qu’il y avait des discussions entre Patrick Bradley et les Palmers, et que M. Bradley les avait invités à présenter d’autres documents, observations et ainsi de suite pendant la vérification de la valeur nette.
+[18] Dans sa plaidoirie, l’avocat de l’intimée a renvoyé aux détails de la cotisation figurant à l’onglet 2 de la pièce R-1. Dans ce document, l’ARC a calculé que la valeur nette réelle des biens était de 124 869 $. Il s’agit de la valeur des biens mentionnée le 3 août 2004, de 140 000 $, moins les charges totalisant 15 130 $. Comme l’avantage inclus dans la cotisation est de 37 964 $, il aurait fallu que l’appelante produise des éléments de preuve fiables au sujet de charges grevant les biens en cause avoisinant les 102 000 $ pour que cela ait une incidence sur la cotisation. Malheureusement, l’appelante n’a pas établi de lien entre le montant de l’une ou l’autre des charges et les biens particuliers. Deux des hypothèques accessoires grèvent un autre bien à Ellerslie ainsi que les biens en cause à Bideford, mais on ne m’a présenté aucun élément de preuve quant à la partie du total de l’hypothèque précise qui pourrait se rapporter à la valeur des biens visés. De plus, on ne m’a présenté aucun élément de preuve qui me permettrait de savoir s’il se peut que la première hypothèque accessoire de 47 000 $ enregistrée en avril 2000 ait été acquittée avant l’enregistrement de la deuxième hypothèque accessoire de 80 000 $, en septembre 2001, sur les mêmes biens. Ce facteur aurait aussi une incidence sur le montant des charges possibles, étant donné que le principal impayé de l’hypothèque précédente peut avoir été combiné avec des fonds supplémentaires empruntés sur l’hypothèque subséquente. Il m’est tout simplement impossible de le vérifier. La troisième charge, qui est de 25 000 $ et a été enregistrée en avril 2002, ne semble pas viser les mêmes parcelles qui le sont par les deux premières hypothèques enregistrées, et, sans les plans d’arpentage connexes, il m’est impossible de le vérifier.
+[19] L’appelante n’a pas produit d’élément de preuve qui permettrait de répondre aux questions énoncées dans mes observations précédentes. De plus, sans preuve d’expert, l’appelante n’a pas pu démolir les hypothèses du ministre au sujet de la juste valeur marchande des biens. Le fardeau de la preuve incombait à l’appelante, et elle n’a pas démoli les hypothèses du ministre énoncées dans la réponse à l’avis d’appel. Faute de preuve, ces hypothèses sont maintenues. Par conséquent, j’accueille l’appel, mais seulement pour ce qui est de la concession faite par l’intimée à l’égard de la réduction de la juste valeur marchande des biens en date du 26 mars 1999 de 90 000 $ à 47 500 $, ce qui réduit l’obligation fiscale globale de 82 964 $ à 61 714 $. Les dépens sont adjugés à l’intimée.
+[20] Voilà qui conclut mes motifs dans l’appel de Harriet Palmer.
+Signé à Ottawa, Canada, ce 5e jour de février 2015.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 23e jour de juin 2015.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2015 CCI 28
+NO DU DOSSIER DE LA COUR :
+2013-1868(IT)G
+INTITULÉ :
+HARRIET PALMER et SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Charlottetown (Île-du-Prince‑Édouard)
+DATES DE L’AUDIENCE :
+Les 17 juillet et 17 décembre 2014
+MOTIFS DU JUGEMENT :
+L’honorable juge Diane Campbell
+DATE DU JUGEMENT RENDU ORALEMENT :
+Le 18 décembre 2014
+DATE DES MOTIFS ÉCRITS :
+Le 5 février 2015
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me Jan Jensen
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

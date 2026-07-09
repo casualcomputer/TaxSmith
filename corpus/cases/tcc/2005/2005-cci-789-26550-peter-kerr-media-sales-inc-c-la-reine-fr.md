@@ -1,0 +1,165 @@
+---
+title: "Peter Kerr Media Sales Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26550/index.do"
+last_modified: "2005-12-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 789"
+citation2: ""
+neutral_citation: "2005 CCI 789"
+decision_date: "2005-12-09"
+language: "fr"
+item_id: "26550"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3558
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:13:48.589000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9f4286dc041eaf9d3794cca9fb3b6e2bbb473da790c3b6a1386ddf6e5b6b3921"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Peter Kerr Media Sales Inc. c. La Reine
+
+- Citation: 2005 CCI 789
+- Decision date: 2005-12-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3558, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Peter Kerr Media Sales Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-12-09
+Référence neutre
+2005 CCI 789
+Numéro de dossier
+2005-2410(GST)I
+Juges et Officiers taxateurs
+Pierre R. Dussault
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2005-2410(GST)I
+ENTRE :
+PETER KERR MEDIA SALES INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE] ____________________________________________________________________
+Requête entendue le 16 novembre 2005 à Montréal (Québec).
+Devant : L’honorable juge Pierre R. Dussault
+Comparutions
+Avocat de l’appelante :
+Me Allan J. Gold
+Avocate de l’intimée :
+Me Judith Kucharsky
+____________________________________________________________________
+ORDONNANCE
+Vu la requête présentée par l’avocate de l’intimée en vue de l’annulation de l’« ensemble de procédures contenues dans le document de l’appelante intitulé "Avis d'avis d’appel" »;
+La requête est accueillie. Par conséquent, les appels interjetés en vertu de la Partie IX de la Loi sur la taxe d’accise sont rejetés, ainsi que la demande de l’appelante de prolonger le délai de dépôt de l’avis d’opposition à l’encontre de la cotisation du 2 février 2001, conformément aux motifs de l’ordonnance ci‑joints.
+Signé à Ottawa, Canada, ce 9e jour de décembre 2005.
+« P. R. Dussault »
+Juge Dussault
+Traduction certifiée conforme
+ce 27e jour de janvier 2006.
+Ingrid Miranda, traductrice
+Référence : 2005CCI789
+Date : 20051209
+Dossier : 2005-2410(GST)I
+ENTRE :
+PETER KERR MEDIA SALES INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Dussault
+[1] Le 8 juin 2005, Peter Kerr Media Sales Inc. a déposé devant la Cour un document intitulé « Avis d’avis d’appel » avec l’intention d’entamer des appels à l’encontre des cotisations effectuées en vertu de la Partie IX de la Loi sur la taxe d’accise (TPS) (la « Loi »).
+[2] Le 19 septembre 2005, l’intimée a présenté une requête à la Cour sollicitant [traduction] « que soit rejeté l’ensemble de procédures contenues dans le document de l’appelante intitulé "Avis d’avis d’appel" ». Bien que la société Peter Kerr Media Sales Inc. soit appelée « partie demanderesse » dans l’avis de requête, pour des raisons de commodité j’y ferai référence à titre d’« appelante », puisque le document qu’elle a déposé devant la Cour, bien qu’il soit loin d’être limpide, représente néanmoins un avis d’appel. Cependant, comme nous le verrons plus tard, un des paragraphes dudit document pourrait être interprété comme une demande sollicitant que le délai de dépôt de l’avis d’opposition soit prolongé jusqu’au 2 février 2001, date de la cotisation.
+[3] Voici les motifs de la requête qui figurent dans l’avis de requête :
+(Les annexes A à K présentés à l’appui de la requête ne sont pas reproduites).
+[TRADUCTION]
+1. En ce qui a trait à la cotisation établie en vertu de la Loi sur la taxe d’accise (L.R.C. 1985, ch. E‑15, telle qu’elle a été modifiée; ci‑après la « LTA »), pour la période allant du 1er novembre 1995 au 30 avril 2000, dont l’avis no T00-C-0056 est daté du 4 août 2000 :
+a) le 4 août 2000, par l’intermédiaire du ministre du Revenu du Québec (ci‑après le « ministre »), l’intimée a établi une cotisation au nom de la demanderesse dont elle lui a envoyé une copie au « 14 rue Milner, Porte 101, Montréal-Ouest (Québec) », comme cela figure sur ladite cotisation, dont une copie se trouve à l’« Annexe A » des présentes;
+b) ladite cotisation a été renvoyée à l’intimée, avec une note disant que la demanderesse avait déménagé. Le 6 octobre 2000, après avoir pris connaissance de la nouvelle adresse de la demanderesse, on a de nouveau envoyé l’avis de cotisation no T00-C-0056, daté du 4 août 2000 à l’adresse située au « 18 Westminster, Suite 106, Montréal‑Ouest (Québec) », comme cela appert d’après la copie de la cotisation et d’après l’affidavit de Mireille Longpré, documents dont vous trouverez copie à l’ « Annexe B » des présentes;
+c) le 16 janvier 2002, la demanderesse a déposé un avis d’opposition à l’encontre de la cotisation no T00-C-0056 du 4 août 2000, auquel elle a joint une « demande de prolongation de délai », comme cela appert d’après ledit Avis d’opposition et ses annexes, dont vous trouverez copie à l’« Annexe C » des présentes. L’ensemble de cette documentation ne contient aucune admission en ce qui concerne le contenu, ni la validité dudit document, lequel est expressément nié;
+d) le 25 janvier 2002, par la voie d’une lettre dont vous trouverez une copie à l’« Annexe D » des présentes, le ministre a informé la demanderesse que l’avis d’opposition qu’elle a déposé à l’encontre de la cotisation no T00-C-0056, n’était pas admissible parce qu’il n’avait pas été signifié dans le délai prescrit par la loi,
+e) le 5 février 2002, le ministre a informé la demanderesse qu’il avait besoin de renseignements supplémentaires concernant les circonstances entourant le délai, avant d’être en mesure de transmettre cette demande à l’« Agence des douanes et du revenu du Canada », comme cela appert d’après la lettre datée du 5 février 2002 que le ministre a envoyée à l’appelante et dont vous trouverez copie à l’« Annexe E » des présentes;
+f) en tout état de cause, le 19 juillet 2002, le ministre a établi une nouvelle cotisation pour la période pertinente et envoyé à la demanderesse l’avis de nouvelle cotisation no T02-DS2-MB-0019, comme cela appert d’après ledit avis de nouvelle cotisation, daté du 19 juillet 2002, et l’affidavit de Marie Bergeron dont vous trouverez des copies à l’« Annexe F » des présentes;
+g) comme cela appert d’après ledit avis de nouvelle cotisation (Annexe F), « Cet avis annule et remplace l'avis T00-C-0056 émis le 4 août 2000 pour la période du 1er novembre 1995 au 30 avril 2004 »;
+h) la cotisation dont l’avis est daté du 4 août 2000 (Annexe B) ayant été annulée et remplacée par la nouvelle cotisation, dont l’avis est daté du 19 juillet 2002 (Annexe F), il s’ensuit qu’absolument toutes les requêtes figurant dans l’« avis d’avis d’appel » déposé par la demanderesse pour en appeler de la cotisation du 4 août 2000 et pour prolonger les délais d’opposition de ladite cotisation, sont nulles et non avenues, puisqu’elles ont été déposées relativement à une cotisation qui n’est plus en vigueur.
+2. En ce qui concerne la nouvelle cotisation, dont l’avis est daté du 19 juillet 2002 et qui porte le no T02-DS2-MB-0019, pour la période pertinente (laquelle nouvelle cotisation annule et remplace la cotisation datée du 4 août 2002) :
+a) la demanderesse n’a pas signifié un avis d’opposition relativement à ladite nouvelle cotisation, contrairement aux dispositions prévues à l’article 301 de la LTA comme cela appert d’après l’affidavit de Louise Haspect, dont vous trouverez copie à l’« Annexe G » des présentes;
+b) en outre, la demanderesse n’a pas déposé de demande auprès du ministre pour solliciter une prolongation du délai de dépôt de l’avis d’opposition au sujet de ladite nouvelle cotisation, contrairement à l’article 303 de la LTA, comme cela appert d’après l’affidavit de Paul Arseneau, copie duquel se trouve à l’« Annexe H » des présentes;
+c) au motif que la demanderesse a omis de déposer un avis d’opposition en ce qui concerne la nouvelle cotisation dont l’avis daté du 19 juillet 2002, contrairement à l’article 301 de la LTA, la Cour ne dispose pas de la compétence nécessaire pour se saisir de l’appel interjeté à l’encontre de ladite nouvelle cotisation, aux termes des dispositions figurant aux articles 302 et 306 de la LTA;
+d) en outre, au motif que la demanderesse n’a jamais déposé de demande auprès du ministre pour solliciter une prolongation du délai de dépôt de l’avis contestant la nouvelle cotisation contrairement à l’article 303 de la LTA, cette Cour ne dispose pas de la compétence nécessaire pour examiner la demande de la demanderesse d’une prolongation du délai d’opposition de ladite nouvelle cotisation, aux termes des dispositions à l’article 304 de la LTA;
+e) l’intimée sollicite, par conséquent, que cette Cour rejette toutes les demandes déposées par la demanderesse dans son « avis d’avis d’appel » en ce qui a trait à la nouvelle cotisation, dont l’avis est daté du 19 juillet 2002 et qui porte le numéro T02-DS2-MB-0019;
+3. En ce qui concerne la cotisation dont l’avis est daté du 2 février 2001 et qui couvre la période allant du 1er novembre 1992 au 31 juillet 1995 :
+a) le 2 février 2001, le ministre a établi une cotisation au nom de la demanderesse, conformément à la LTA, comme cela appert d’après ladite cotisation, dont vous trouverez une copie de l’avis à l’« Annexe I »;
+b) le 16 janvier 2002, la demanderesse a déposé un avis d’opposition concernant ladite cotisation, auquel elle avait joint une « Demande de prolongation de délai » (Annexe C). Ces documents ne contiennent aucune admission en ce qui concerne le contenu, ni la validité dudit document, lesquels sont expressément niés;
+c) le ministre a informé la demanderesse qu’il ne transmettrait, à l’Agence des douanes et du revenu du Canada, la demande de prolongation du délai d’opposition relativement à ladite cotisation que lorsque la demanderesse fournirait au ministre les détails des circonstances justifiant le délai écoulé pour déposer l’opposition (Annexe E);
+d) en dépit de la demande du ministre (Annexe E), la demanderesse n’a jamais fourni de renseignements supplémentaires; par conséquent, la demande de prolongation n’a ni été examinée, ni fait l’objet d’une détermination du ministre, en vertu du paragraphe 303(5) de la LTA, comme cela appert d’après l’affidavit de M. Paul Arseneau (Annexe H);
+e) en l’absence d’un avis d’opposition déposé conformément au paragraphe 301(1.1) de la LTA et en l’absence d’un avis de décision provenant du ministre en vertu du paragraphe 301(5) de la LTA, cette Cour ne dispose pas de la compétence nécessaire, aux termes des articles 304 et 306 de la LTA, pour se saisir de l’appel interjeté par la demanderesse à l’encontre de ladite cotisation, ni de la demande de prolongation du délai du dépôt d’une opposition à ce sujet;
+f) en outre, même si la Cour considère qu’elle dispose de la compétence nécessaire pour se saisir de la demande déposée devant cette Cour par la demanderesse, sollicitant une prolongation du délai d’opposition de la cotisation, l’intimée fait valoir que la demande en cause doit être rejetée, au motif principal que la demanderesse n’a pas démontré qu’elle réponde au critère établi au sous‑paragraphe 304(5)b) de la LTA.
+4. Relativement à la cotisation dont l’avis est daté du 19 décembre 2001, et qui couvre la période allant du 1er janvier 2001 au 31 mars 2001 :
+a) le 19 décembre 2001, le ministre a établi une cotisation au nom de la demanderesse, couvrant la période 1er janvier 2001 au 31 mars 2001, comme cela appert d’après l’avis de cotisation, dont vous trouverez copie à l’« Annexe J »;
+b) le 16 janvier 2002, la demanderesse a déposé un avis d’opposition concernant, entre autres, ladite cotisation (Annexe C);
+c) le 17 avril 2002, le ministre a envoyé l’avis de sa détermination à la demanderesse, en ce qui concerne ladite cotisation, comme cela appert d’après ladite décision dont vous trouverez copie à l’« Annexe K »;
+d) dans l’éventualité où l’« avis d’avis d’appel » déposé par la demanderesse le 8 juin 2005, comporterait un appel à l’encontre de ladite cotisation, l’appel en question aurait été institué après le délai de prescription souligné à l’article 306 de la LTA;
+e) de surcroît, la demanderesse n’a pas déposé de demande de prolongation du délai d’appel, devant cette Cour, avant la date de prescription, contrairement à l’article 305 de la LTA;
+f) par conséquent, la Cour ne dispose pas de la compétence nécessaire pour se saisir de l’appel interjeté à l’encontre de la cotisation dont l’avis est daté du 19 décembre 2001.
+[4] M. Peter Kerr a été cité comme témoin de l’appelante et a présenté comme preuves les pièces A‑1 à A‑15 lesquelles sont constituées principalement de correspondance entre l’appelante et le ministère du Revenu du Québec (« ministère »), échangée entre le mois de janvier 2002 et le mois de mars 2004. L’avocate de l’intimée a contesté la production de ces documents, au motif qu’ils n’étaient pas pertinents et, comme les lettres avaient été envoyées par le ministère, au motif que l’auteur n’avait pas été cité à témoigner.
+[5] Comme l’avocat de l’appelante a insisté sur l’importance de ces documents pour fonder son argumentation, j’ai accepté qu’ils soient versés au dossier, en réservant toutefois ma détermination à leur sujet, ce qui était permissible, particulièrement en raison du fait que ces appels ou ces prétendus appels ont été déposées dans le cadre de la procédure informelle de cette Cour. Après avoir examiné lesdits documents, je dirai simplement qu’ils n’ont qu’une incidence infime sur les questions en l’espèce : en effet, aucun contribuable n’est exempté de se plier aux prescriptions de la Loi, et tous sont tenus de déposer, pour contester toute cotisation, un avis d’opposition et un avis d’appel valides, avant les délais de prescription prévus à la Loi.
+[6] Je dois tout d’abord mentionner que l’appelante a ignoré et négligé complètement ces prescriptions et que son avocat a présenté des arguments fantaisistes pour essayer de faire valoir le droit de l’appelante d’interjeter appel.
+[7] L’appelante n’a pas contesté directement les faits sur lesquels se fonde la requête de l’intimée.
+[8] Après avoir été envoyée à l’ancienne adresse de l’appelante, la cotisation dont l’avis est daté du 4 août 2000 et qui porte le numéro T00‑C-0056 et couvre la période allant du 1er novembre 1995 jusqu’au 30 avril 2000, a été envoyée à la nouvelle adresse de l’appelante le 6 octobre 2000. Si, à partir d’un jour après cette date, on compte le délai de 90 jours pour déposer l’avis d’opposition auprès du ministre, cela signifie que l’appelante pouvait déposer son avis d’opposition au plus tard le 4 janvier 2001 (paragraphe 301(1.1) de la Loi).
+[9] Vu que l’avis d’opposition n’a pas été déposé avant le délai de 90 jours, l’appelante aurait pu déposer une demande auprès du ministre pour solliciter une prolongation du délai de dépôt de l’avis d’opposition (paragraphe 303(1) de la Loi). Cependant, le ministre n’aurait pu accorder cette demande que si elle avait été déposée dans un délai de une année après l’expiration du délai d’opposition de 90 jours (alinéa 303(7)a) de la Loi). Par conséquent, cette demande aurait dû être déposée au plus tard le 4 janvier 2002. L’avis d’opposition et la demande de sollicitation d’une prolongation du délai de dépôt de l’avis d’opposition n’ont été déposés que le 16 janvier 2002, dépassant clairement le délai de prescription. Par conséquent, dans la mesure où l’avis d’opposition et la demande de l’appelante portaient sur la cotisation couvrant la période allant du 1er novembre 1995 au 30 avril 2000 (avis d’opposition no T00‑C‑0056), le ministre ne disposait pas de l’autorité nécessaire pour prolonger le délai, ni pour [traduction] « dispenser l’appelante du délai » prescrit par la Loi, contrairement à ce que laisse entendre l’avocat de l’appelante. Pour autant que les lettres du ministre, datées du 25 janvier 2002 (Annexe D de l’avis de requête) et du 5 février 2002 (Annexe E de l’avis de requête) portent précisément sur cette cotisation, la demande adressée à l’appelante contenue dans ces lettres, de présenter des renseignements supplémentaires pour que la demande puisse être examinée, peut effectivement sembler trompeuse. Cependant, dans une lettre datée du 4 avril 2002, les représentants administratifs du ministre ont accepté clairement de tenir compte des « faits comptables nouveaux [mentionnés] dans [l']opposition » (Pièce A‑1). L’avocat de l’appelante fait valoir que cette lettre doit être considérée comme étant une « exemption » ou une « exemption par interprétation » du ministre relativement au délai d’opposition. Je dois souligner que le ministre ne détient pas l’autorité, ni le pouvoir discrétionnaire d’accepter ou de considérer valides un avis d’opposition et une demande déposés auprès du ministre après le délai de une année suivant le délai normal d’opposition de 90 jours (alinéa 303(7)a) de la Loi) et cela est également applicable en ce qui concerne cette Cour (alinéa 304(5)a) de la Loi). (Voir, entre autres : McCarthey c. R., C.C.I. no 2000‑4882(GST)APP, le 4 avril 2001 ([2001] G.S.T.C. 46).)
+[10] La première cotisation établie pour la période allant du 1er novembre 1995 jusqu’au 30 avril 2000 (avis de cotisation no T00-C-0056, daté du 4 août 2000) a été annulée et remplacée par une nouvelle cotisation couvrant la même période, dont l’avis porte le no T02‑DS2‑MB‑0019 et il est daté du 19 juillet 2002. L’article 302 de la Loi prévoit ainsi :
+302. Appel à la Cour canadienne de l'impôt – La personne, ayant présenté un avis d'opposition à une cotisation, à qui le ministre a envoyé un avis de nouvelle cotisation ou de cotisation supplémentaire concernant l'objet de l'avis d'opposition peut, dans les 90 jours suivant cet envoi :
+a) interjeter appel devant la Cour canadienne de l'impôt;
+b) si un appel a déjà été interjeté, modifier cet appel en y joignant un appel concernant la nouvelle cotisation ou la cotisation supplémentaire, en la forme et selon les modalités fixées par cette cour.
+[11] Il n’est pas difficile de constater que, pour que ces dispositions soient applicables, il faut d’abord qu’on ait déposé un avis d’opposition à l’encontre d’une cotisation. Il est clair qu’il faut avoir déposé un avis d’opposition valide pour que l’article 302 soit applicable. Comme je l’ai mentionné plus haut, l’appelante n’avait pas déposé d’avis d’opposition valide à l’encontre de la première cotisation (avis no T00-C-0056 daté du 4 août 2000). De plus, l’appelante n’a pas interjeté d’appel auprès de la Cour canadienne de l’impôt dans le délai de 90 jours prévu à l’article 302. Finalement, l’appelante n’a jamais déposé d’opposition à l’encontre de la nouvelle cotisation (avis no T02‑DS2‑MB‑0019, daté du 19 juillet 2002). Elle n’a jamais, non plus, déposé de demande auprès du ministre pour solliciter la prolongation du délai de dépôt de l’opposition. La Cour ne peut pas se saisir d’une telle demande, si l'on n’a pas déposé de demande (paragraphe 304(1) de la Loi). Aussi, sans avoir préalablement déposé un avis d'opposition, la Cour ne peut se saisir d'un appel interjeté à l'encontre d'une cotisation. L’argument que fait valoir l’avocat de l’appelante, prétendant que l’avis d’opposition daté du 16 janvier 2002, ainsi que la correspondance subséquente, doivent être considérés comme [traduction] « un avis d’opposition par interprétation » ou [traduction] « une opposition anticipée » à l’encontre de la nouvelle cotisation, est dépourvu de sens à la lumière des prescriptions de la Loi.
+[12] Le 2 février 2001, le ministre a établi une cotisation au nom de l’appelante, pour la période allant du 1er novembre 2001 jusqu’au 31 juillet 1995 (Annexe I de l’avis de requête). L’appelante n’a pas déposé d’avis d’opposition auprès du ministre dans le délai de 90 jours prescrit au paragraphe 301(1.1) de la Loi. Le 16 janvier 2002, l’appelante a déposé auprès du ministre un avis d’opposition, ainsi qu’une demande sollicitant la prolongation du délai de dépôt de l’avis d’opposition. Dans une lettre datée du 5 février 2002 (Annexe E de l’avis de requête), on demande à l’appelante de démontrer soit qu’elle avait été incapable d’agir ou qu’elle avait eu l’intention de déposer une opposition dans le délai de 90 jours. L’appelante n’a pas fourni les renseignements que le ministre lui avait demandés de manière à être en mesure de satisfaire aux prescriptions de l'alinéa 303(7)b) de la Loi, voilà pourquoi le ministre n’a jamais pris de décision relativement à la demande de l’appelante.
+[13] Puisqu’il s’était écoulé au-delà de 90 jours depuis le dépôt de la demande, qui a eu lieu le 16 janvier 2002 et que le ministre n’avait pas informé l’appelante de sa détermination, cette dernière aurait pu invoquer l'alinéa 304(1)b) de la Loi et aurait pu déposer auprès de la Cour canadienne de l’impôt une demande de prolongation du délai de dépôt de l’opposition pour contester la cotisation du 2 février 2001.
+[14] On pourrait considérer que la demande du 16 janvier 2002 n’était pas valide, puisque l’appelante n’a pas fourni les renseignements demandés. Cependant, si l'on considère que cette demande était valide de toute façon, alors le paragraphe 14) b. du document intitulé « avis d’avis d’appel » déposé par l’appelante auprès de la Cour canadienne de l’impôt, bien qu’il ne soit pas très clair, ce paragraphe pourrait peut‑être être interprété comme une demande de prolongation du dépôt de l’opposition déposée à l’encontre de la cotisation du 2 février 2001. Voici ses dispositions :
+[TRADUCTION]
+14) Nous interjetons, par conséquent, un appel devant la Cour canadienne de l’impôt, afin de solliciter :
+b. que soit accordé au contribuable le droit légal de déposer une opposition à l’encontre de la dette d’impôt fédéral faisant l’objet de l’opposition (y compris la prolongation de tous les délais pertinents concernant le dépôt de l’opposition ou des oppositions).
+[15] Cependant, l'alinéa 304(5)b) de la Loi prescrit à la Cour canadienne de l’impôt de ne pas accueillir une telle demande, à moins que certaines conditions ne soient satisfaites, dont celle prévoyant que la personne ayant déposé la demande démontre, dans le délai d’opposition de 90 jours, qu’« elle n'a pu ni agir ni mandater quelqu'un pour agir en son nom, ou avait véritablement l'intention de faire opposition à la cotisation … »
+[16] L’appelante n’a pas présenté de preuves pour démontrer qu’elle a satisfait aux prescriptions de l'alinéa 304(5)b).
+[17] Encore une fois, je dois insister que, en l’absence d’une opposition valide antérieure, la Cour canadienne de l’impôt ne peut pas se saisir d’un appel interjeté à l’encontre d’une cotisation (article 302 de la Loi).
+[18] La dernière cotisation en cause est celle qui couvre la période allant du 1er janvier 2001 jusqu’au 31 mars 2001. L’avis est daté du 19 décembre 2001 (Annexe J de l’avis de requête – annexe versée au dossier de la Cour après l’audience, avec le consentement des parties).
+[19] L’appelante a contesté cette cotisation le 16 janvier 2002 (Annexe C de l’avis de requête) et la cotisation a été confirmée par voie d’un avis envoyé le 17 avril 2002 (Annexe K de l’avis de requête).
+[20] L’appelante n’a pas interjeté appel auprès de la Cour canadienne de l’impôt, dans le délai de 90 prescrit par l’article 306 de la Loi, lequel délai se terminait le 16 juillet 2002. L’appelante n’a pas, non plus, dans un délai de une année après cette date (le 16 juillet 2003, au plus tard), déposé de demande auprès de la Cour canadienne de l’impôt, sollicitant la prolongation du délai d’appel. Par conséquent, la Cour ne peut rendre une ordonnance accordant une telle prolongation (alinéa 305(5)a) de la Loi).
+[21] Par conséquent, la Cour ne peut se saisir d’un appel concernant la cotisation datée du 19 décembre 2001, puisque l’appelante n’a pas interjeté un appel valide.
+[22] L’avocat de l’appelante a déposé, le 18 mars 2004, un avis d’appel auprès de la Cour du Québec et le 2 décembre 2004, une « Requête modifiée en appel » afin d’interjeter appel à l’encontre des cotisations établies en application de la Loi ainsi que les cotisations émises en application de la Loi sur la taxe de vente du Québec (Pièce A‑15). Le sous-ministre du Revenu du Québec a déposé une requête en irrecevabilité, sur le fondement que la Cour du Québec ne disposait pas de la compétence nécessaire pour se saisir d’appels interjetés en vertu de la Loi. Comme cela était prévisible, la requête a été accueillie, dans la mesure où les appels ont été interjetés à l’encontre des cotisations établies en vertu de la Loi, au motif que la Cour canadienne de l’impôt détient la compétence exclusive de trancher ce type d’appels, comme cela est prévu au paragraphe 12(1) de la Loi sur la Cour canadienne de l’impôt (pièce R‑2).
+[23] Maintenant, l’avocat pour l’appelante invoque l’article 2892 du Code civil du Québec pour faire valoir que l’appel déposé auprès de la Cour du Québec constitue une action au civil concernant le délai de prescription prévu pour les appels devant la Cour canadienne de l’impôt. Cet argument est simplement dépourvu de fondement. Les dispositions de la Loi en ce qui concerne la date de prescription sont très similaires à celles de la Loi de l’impôt sur le revenu. Il a été statué que les prescriptions doivent être strictement respectées. (Voir notamment : Carlson c. R., C.A.F., no A‑646‑00, le 23 avril 2002 ([2002] 2 C.T.C. 212) et McClelland c. R., C.A.F. no A‑488‑03, le 22 septembre 2004 ([2004] 5 C.T.C. 109).)
+[24] Par conséquent, la requête est accueillie et les appels sont rejetés, ainsi que la demande de l’appelante de prolonger le délai de dépôt de l’avis d’opposition à l’encontre de la cotisation du 2 février 2001.
+Signé à Ottawa, Canada, ce 9e jour de décembre 2005.
+« P. R. Dussault »
+Juge Dussault
+Traduction certifiée conforme
+ce 27e jour de janvier 2006.
+Ingrid Miranda, traductrice

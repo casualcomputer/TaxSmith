@@ -1,0 +1,122 @@
+---
+title: "Vale c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25683/index.do"
+last_modified: "2004-02-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 107"
+citation2: ""
+neutral_citation: "2004 CCI 107"
+decision_date: "2004-02-12"
+language: "fr"
+item_id: "25683"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3841
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:48:36.927000+00:00"
+cases_cited_count: 1
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "352a4baf3f8d7ce31698ae19e5ede6d9c2b08f5ae8c5ceaf18573fd4b0ef3aa2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Vale c. La Reine
+
+- Citation: 2004 CCI 107
+- Decision date: 2004-02-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3841, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vale c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-02-12
+Référence neutre
+2004 CCI 107
+Numéro de dossier
+2003-2337(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-2337(IT)I
+ENTRE :
+BARBARA VALE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 6 janvier 2004, à Toronto (Ontario)
+Devant : L’honorable juge J.M. Woods
+Comparutions :
+Agent de l’appelant :
+Alan Vale
+Avocat de l’intimée :
+A'Amer Ather
+____________________________________________________________________
+JUGEMENT
+L’appel concernant la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2001 est accueilli, sans dépens, et la nouvelle cotisation est renvoyée au ministre du Revenu national pour que celui-ci fasse un nouvel examen et qu’il établisse une nouvelle cotisation en prenant pour base que, dans le calcul de son revenu, l’appelante peut déduire 7 801,34 $ en vertu du paragraphe 146(8.2).
+Signé à Ottawa, Canada, ce 12e jour de février 2004.
+"J.M. Woods"
+J.M. Woods J.
+Traduction certifiée conforme
+ce 29e jour de mars 2005.
+Colette Dupuis-Beaulne, traductrice
+Référence : 2004TCC107
+Date : 20040212
+Dossier : 2003-2337(IT)I
+ENTRE :
+BARBARA VALE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Woods
+[1] Au début de l’année d’imposition 2001, Barbara Vale a versé une cotisation excédentaire à un REER. Lorsqu’elle s’est aperçue qu’elle avait dépassé son maximum déductible pour REER, Mme Vale a retiré un montant suffisant pour contrebalancer la cotisation excédentaire; le retrait a été effectué plus tard dans la même année. Elle a retiré une partie du montant du REER où la cotisation excédentaire avait été versée, et le reste d’un autre REER.
+[2] Le paragraphe 146(8.2) de la Loi de l’impôt sur le revenu prévoit une déduction pour un retrait d’un REER si le retrait est effectué en raison d’une cotisation excédentaire versée par inadvertance. La question à trancher est de savoir si le montant retiré d’un REER autre que celui où la cotisation excédentaire a été versée est déductible.
+[3] Aucun des faits n’est en cause. Le 5 janvier 2001, Mme Vale a versé 10 000 $ à un régime enregistré d’épargne-retraite de la Banque Canadienne Impériale de Commerce. Lorsqu’elle s’est rendu compte que le montant versé dépassait son maximum déductible pour REER, Mme Vale a retiré, dans la même année, un montant total de 8 543,57 $. Le retrait a été effectué en deux parties de deux régimes enregistrés d’épargne-retraite : 5 093,44 $ du régime de la CIBC où la cotisation excédentaire a été versée, et 3 450,13 $ d’un régime établi à la TD Canada Trust. Dans son témoignage, Mme Vale a affirmé qu’il était plus économique de faire le retrait des deux régimes, plutôt que de retirer tout le montant du régime de la CIBC.
+[4] Dans le calcul de son revenu pour 2001, Mme Vale a inclus 8 543,57 $, le montant total retiré, conformément au paragraphe 146(8) de la Loi. Une déduction compensatoire a été demandée pour une partie du montant, soit 7 801,34 $, en vertu du paragraphe 146(8.2). Le ministre du Revenu national a établi une nouvelle cotisation et réduit la déduction selon le paragraphe 146(8.2) à 5 903 $, le montant retiré du régime de la CIBC.
+Analyse
+[5] Le paragraphe 146(8.2) prévoit une déduction pour certains retraits de cotisations excédentaires versées à des REER. La déduction vise à compenser l’inclusion générale dans le revenu qui est prescrite par le paragraphe 146(8) pour les retraits d’un REER. L’alinéa 146(8.2)b) permet la déduction seulement s’il est raisonnable de considérer que le retrait a été effectué en raison d’une cotisation excédentaire. Selon l’alinéa 146(8.2)e), il faut que la cotisation excédentaire ait été effectuée par inadvertance, mais cela ne présente pas de problème dans ce cas-ci. La seule question est de décider s’il est raisonnable de considérer que le retrait du régime de la TD Canada Trust a été effectué en raison de la cotisation excédentaire versée au régime de la CIBC.
+[6] le paragraphe 146(8.2) se lit comme suit :
+(8.2) Dans les cas où, à la fois :
+a) un contribuable n’a pas déduit dans le calcul de son revenu pour une année d’imposition tout ou partie des primes qu’il a versées au cours d’une année d’imposition à un ou plusieurs régimes enregistrés d’épargne-retraite dont lui-même ou son époux ou conjoint de fait sont rentiers;
+b) il est raisonnable de considérer que le contribuable ou son époux ou conjoint de fait ont reçu un paiement d’un régime enregistré d’épargne-retraite ou d’un fonds enregistré de revenu de retraite au titre de la partie de ces primes non déductibles dont le versement ne découle ...
+(c’est nous qui soulignons)
+[7] La Couronne indique que le montant retiré du régime de la TD Canada Trust n’est pas déductible, parce qu’il n’est pas « lié » à la cotisation excédentaire. La Couronne ajoute qu’étant donné que toutes les cotisations versées au régime de la TD Canada Trust ont été déduites, les montants retirés à partir de ce régime ne peuvent pas être considérés comme étant liés à des cotisations non déduites selon les exigences du paragraphe en question.
+[8] À l’audience, Mme Vale était représentée par son mari, qui est un expert‑comptable. Celui-ci indique que la position de la Couronne semble être basée sur une interprétation technique publiée dans Window il y a plusieurs années, qui est fondée sur une version du paragraphe 146(8.2) qui n’est pas applicable à l’année d’imposition concernée. La version antérieure du paragraphe, qui date de 1976, exige clairement que le retrait soit effectué du régime où les cotisations excédentaires ont été versées. La version actuelle du paragraphe 146(8.2) n’a pas la même formulation.
+[9] Je ne peux pas dans ce cas-ci accepter l’interprétation du paragraphe 146(8.2) donnée par la Couronne. L’interprétation n’est pas appuyée par la formulation générale utilisée dans le paragraphe 146(8.2), et l’avocat de la Couronne n’a pas pu fournir de raison pour laquelle le retrait devrait être effectué du REER où la cotisation excédentaire a été versée.
+[10] La formulation générale du paragraphe 146(8.2) indique que le Parlement n’avait pas l’intention d’être strict quant au rattachement du retrait et de la cotisation excédentaire. La disposition législative permet une déduction tant que le retrait peut être raisonnablement considéré comme étant au titre d’une cotisation excédentaire. L’expression « in respect of » (« quant à »/(autre titre de)) a toujours été interprétée de façon générale par les tribunaux – tout récemment par le juge Major dans l’affaire Sa Majesté la Reine c. Markevich, 2003 DTC 5185 (C.S.C.):
+la Cour a jugé que l’expression “in respect of” (“quant à”) a une portée des plus larges et exprime un lien quelconque entre deux sujets.
+[11] Dans ce cas-ci, il y a un lien clair entre le retrait effectué du régime de la TD Canada Trust et la cotisation excédentaire versée au régime de la CIBC; c’est que le retrait du régime de la TD Canada Trust a été effectué pour réduire au minimum les conséquences fiscales négatives qui découleraient de la cotisation excédentaire versée au régime CIBC. Je trouve que le lien est suffisant pour satisfaire au paragraphe 146(8.2). Tant que le contribuable peut prouver que le retrait est effectué pour réduire au minimum les conséquences fiscales négatives d’une cotisation excédentaire versée à un autre régime, il est raisonnable de considérer que le retrait est effectué au titre de la cotisation excédentaire.
+[12] L’appel est accueilli, et la nouvelle cotisation est renvoyée au ministre du Revenu national pour que celui-ci fasse un nouvel examen et qu’il établisse une nouvelle cotisation en prenant pour base que, dans le calcul de son revenu, l’appelante peut déduire 7 801,34 $, en vertu du paragraphe 146(8.2) de la Loi.
+Signé à Ottawa, Canada, ce 12e jour de février 2004.
+"J.M. Woods"
+J.M. Woods J.
+Traduction certifiée conforme
+ce 29e jour de mars 2005.
+Colette Dupuis-Beaulne, traductrice

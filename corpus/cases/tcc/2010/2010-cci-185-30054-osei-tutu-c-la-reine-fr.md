@@ -1,0 +1,180 @@
+---
+title: "Osei-Tutu c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30054/index.do"
+last_modified: "2010-04-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 185"
+citation2: ""
+neutral_citation: "2010 CCI 185"
+decision_date: "2010-04-12"
+language: "fr"
+item_id: "30054"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7694
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:06:45.986000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "33c28eeb7157cb8b3e47c9008a073f94dede707ca40cfcf1f3f5b0fa167462d7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Osei-Tutu c. La Reine
+
+- Citation: 2010 CCI 185
+- Decision date: 2010-04-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7694, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Osei-Tutu c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-04-12
+Référence neutre
+2010 CCI 185
+Numéro de dossier
+2007-2549(IT)I
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-2549(IT)I
+ENTRE :
+BEATRICE OSEI‑TUTU,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 8 mars 2010, à Edmonton (Alberta)
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Représentant de l’appelante :
+M. Samuel Amponsah
+Avocat de l’intimée :
+Me Gregory Perlinski
+____________________________________________________________________
+JUGEMENT
+Vu la requête présentée par l’avocat de l’intimée en vue d’obtenir un jugement annulant l’appel interjeté à l’encontre des cotisations et des déterminations établies en vertu de la Loi de l’impôt sur le revenu à l’égard des années d’imposition 1999, 2000, 2001 et 2002 de l’appelante;
+Et vu les observations des parties;
+La requête de l’intimée est accueillie, et le prétendu appel est annulé.
+L’appel interjeté à l’encontre des cotisations et des déterminations établies en vertu de la Loi de l’impôt sur le revenu à l’égard de l’année d’imposition 2003 de l’appelante est accueilli, et la question est déférée au ministre du Revenu national pour qu’il établisse une nouvelle cotisation et une nouvelle détermination conformément aux motifs du jugement ci‑joints.
+L’intimée devra payer à l’appelante des dépens s’élevant à 250 $.
+La Cour ordonne aussi que le droit de dépôt de 100 $ payé par l’appelante lui soit remboursé.
+Signé à Ottawa, Canada, ce 12e jour d’avril 2010.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 2e jour de novembre 2010.
+Hélène Tremblay, traductrice
+Référence : 2010 CCI 185
+2007-2549(IT)I
+ENTRE :
+BEATRICE OSEI‑TUTU,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+VERSION RÉVISÉE DE LA TRANSCRIPTION
+DES MOTIFS DU JUGEMENT
+Que la transcription révisée ci‑jointe des motifs rendus oralement à l’audience à Edmonton (Alberta) le 8 mars 2010 soit versée au dossier. J’ai révisé la transcription (certifiée par la sténographe judiciaire) par soucis de stylistique, de clarté et d’exactitude et pour n’y apporter que quelques corrections mineures. Je n’y ai apporté aucune modification de fond
+Signé à Ottawa, Canada, ce 12e jour d’avril 2010.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 2e jour de novembre 2010.
+Hélène Tremblay, traductrice
+Référence : 2010 CCI 185
+Date : 20100412
+Dossier : 2007-2549(IT)I
+ENTRE :
+BEATRICE OSEI‑TUTU,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+VERSION RÉVISÉE DE LA TRANSCRIPTION
+DES MOTIFS DU JUGEMENT
+[rendus oralement à l’audience à Edmonton (Alberta) le 8 mars 2010]
+Le juge Boyle
+[1] Voici les motifs de la décision que j’ai rendue relativement à la requête que j’ai entendue ce matin, ainsi que ceux de la décision que j’ai rendue dans la présente affaire.
+[2] L’appelante, Mme Osei‑Tutu, a interjeté appel à l’égard de ses années d’imposition 1999 à 2003 en partant du principe que pendant ces années‑là, elle vivait en union de fait avec M. Amponsah. Elle soutient qu’elle a droit au crédit pour conjoint de fait à l’égard de M. Amponsah et que cela a aussi des incidences sur les montants qu’elle aurait dû recevoir au titre du crédit de taxe sur les produits et services (la « TPS ») et de la prestation fiscale pour enfants.
+[3] L’appel portant sur l’année d’imposition 2003 a été entièrement résolu ce matin. La Couronne a reconnu que le crédit de TPS pour l’année 2003 doit faire l’objet d’une nouvelle détermination en ce qui a trait à Mme Osei‑Tutu et aux enfants nés de l’union. La Couronne a aussi reconnu que le crédit de TPS pour l’année d’imposition doit faire l’objet d’une nouvelle détermination en ce qui a trait à M. Amponsah pour toutes les périodes à l’égard desquelles il n’a pas encore reçu le crédit. J’ordonnerai l’établissement de nouvelles déterminations. M. Amponsah, qui représentait Mme Osei‑Tutu, a confirmé que, pour l’année 2003, le crédit pour conjoint de fait a déjà été accordé à Mme Osei‑Tutu et que cette question, ainsi que la question concernant la prestation fiscale pour enfants de 2003, n’était plus en litige.
+[4] La Couronne a déposé une requête en vue de faire annuler les appels de Mme Osei‑Tutu à l’égard des années 1999 à 2002 pour le motif qu’ils n’auraient pas été institués de façon valide. Suivant la Loi de l’impôt sur le revenu (la « Loi ») la Cour ne peut entendre que des appels interjetés à l’encontre de décisions prises par le ministre du Revenu national (le « ministre ») à la suite d’une opposition (voir article 169). Toutefois, en l’espèce, le contribuable n’a jamais présenté d’avis d’opposition valide à l’égard des années d’imposition 1999 à 2002, étant donné que ses avis d’opposition ont été signifiés après l’expiration des délais prévus à l’article 165.
+[5] En janvier 2006, Mme Osei‑Tutu a demandé à l’Agence du revenu du Canada (l’« ARC ») de rajuster les cotisations établies à son égard pour les années d’imposition 1999 à 2002 afin qu’elles tiennent compte de son union de fait avec M. Amponsah. Il semble qu’elle ait utilisé le bon formulaire de l’ARC pour faire une demande de redressement d’une T1. Je crois comprendre qu’elle avait initialement demandé un crédit pour conjoint à l’égard de son ex‑époux pour les années 1999 à 2001, crédit qui lui avait initialement été accordé, mais qui a par la suite été refusé dans les nouvelles cotisations établies en octobre 2002 à l’égard des années 1999 et 2000, et en janvier 2003 à l’égard de l’année d’imposition 2001. Il semble que sa déclaration de revenu pour l’année 2002 n’a jamais fait l’objet d’une nouvelle cotisation ou d’une opposition parce que, pour cette année‑là, elle avait demandé un crédit équivalent au crédit pour conjoint.
+[6] Dans une lettre d’une page datée du 1er mars 2006, l’ARC a répondu qu’elle ne pouvait pas modifier l’état civil des années antérieures parce que l’information que l’appelante avait fournie dans sa demande contredisait l’information qu’elle avait déjà fournie.
+[7] Mme Osei‑Tutu a alors présenté des avis d’opposition, qui sont l’objet du présent appel devant la Cour. Les avis d’opposition sont datés du 7 mars 2006.
+[8] L’ARC a répondu aux avis d’opposition dans une courte lettre dans laquelle il était indiqué que seule l’opposition visant l’année 2003 était réputée valide et que le crédit pour conjoint de fait lui était accordé pour cette année‑là.
+[9] Dans une lettre datée du 19 octobre 2006, l’ARC a confirmé qu’elle mettrait ses dossiers à jour afin de tenir compte du fait que l’appelante vivait en union de fait avec M. Amponsah depuis 1999. Il était précisé dans la lettre que ce changement pourrait donner lieu à des modifications à ses déclarations de revenu ainsi qu’aux montants du crédit de TPS et de la prestation fiscale pour enfant auxquels elle avait droit.
+[10] Mme Osei‑Tutu a répondu à cette lettre au moyen d’un appel téléphonique et d’une attestation signée par elle et par M. Amponsah afin de confirmer qu’ils vivaient bel et bien en union de fait pendant la période de 1999 à 2003. Cette attestation est datée du 14 novembre 2006 et a été envoyée par télécopieur à l’ARC.
+[11] En réponse à Mme Osei‑Tutu, l’ARC lui a envoyé une lettre d’une page dont le paragraphe principal est rédigé en ces termes :
+[traduction]
+« En fonction de votre réponse datée du 15 novembre 2006, nous fermons votre dossier en tenant pour acquis que vous approuvez maintenant la cotisation. Nous avons modifié votre état civil pour les années 1999 à 2003, qui est passé de marié ou célibataire à conjoint de fait, conformément à votre demande. Par la présente, en application du paragraphe 165(3) de la Loi de l’impôt sur le revenu, nous ratifions la cotisation. »
+[12] Je suis très contrarié par le fait que malgré cette lettre, l’ARC continue d’aller de l’avant avec sa requête en vue d’annuler les appels ou même avec les appels comme tels. Pour n’importe quel contribuable canadien typique, il n’y a pas de façon d’interpréter cette lettre autrement que d’en comprendre que les modifications seront faites pour les années 1999 et suivantes, conformément à ce qui avait été demandé. L’avocat de la Couronne a décrit la deuxième phrase du paragraphe précité comme dépassant l’entendement. Je suis du même avis.
+[13] Bien qu’un expert fiscaliste, spécialisé en interprétation de règles et de procédures fiscales, serait, lui, en mesure d’interpréter les trois phrases dans leur ensemble, d’y lire l’intention du rédacteur et de conclure qu’elles sont mal rédigées, il est impossible que Mme Osei‑Tutu, ou même toute autre Canadien raisonnablement intelligent, les lise autrement que la façon dont elle semble les avoir lues : elle avait enfin eu gain de cause.
+[14] L’ARC est convaincue que M. Amponsah était le conjoint de fait de Mme Osei‑Tutu depuis 1999. Le paragraphe 152(4.2) de la Loi confère à l’ARC le pouvoir d’établir des nouvelles cotisations pour les années 1999 et suivantes de l’appelante pour tenir compte de ce fait. L’ARC refuse de le faire. Malheureusement, la Cour n’a pas le pouvoir d’ordonner à l’ARC d’établir des nouvelles cotisations pour ces raisons. Ce pouvoir relève de la Cour fédérale.
+[15] Depuis qu’elle a reçu la lettre datée de novembre 2006, Mme Osei‑Tutu poursuit son appel auprès de la Cour. Étant donné la façon dont cette lettre a été rédigée, il était sans doute raisonnable de la part de Mme Osei‑Tutu de s’attendre à ce que la Cour soit en mesure de résoudre ce qu’elle a sûrement vu comme un problème de communication ou autre problème technique quelconque. En effet, la lettre ne parle que de son droit d’appel auprès de la Cour canadienne de l’impôt et ne précise pas que si elle n’est pas satisfaite de la façon dont l’ARC a usé de son pouvoir discrétionnaire, elle peut interjeter appel auprès de la Cour fédérale.
+[16] L’appelante n’a reçu aucune explication, pas plus que la Cour, d’ailleurs, de la part de l’ARC à savoir pourquoi cette dernière n’avait pas effectué les rajustements demandés, étant donné qu’elle était convaincue du fait que Mme Osei‑Tutu vivait en union de fait depuis 1999 et que le paragraphe 152(4.2) de la Loi confère à l’ARC le pouvoir d’établir de nouvelles cotisations.
+[17] L’ARC a publié une circulaire d’information, IC07‑1, Dispositions d’allègement pour les contribuables, portant précisément sur la façon dont l’ARC traite les demandes de rajustements formulées par des particuliers et sur les situations où elle va établir de nouvelles cotisations à l’égard d’une période d’au plus 10 ans, selon ce qui est prévu au paragraphe 152(4.2) de la Loi. Les paragraphes 71 et 72 de la circulaire sont ainsi rédigés :
+71. L’ARC peut émettre un remboursement ou réduire le montant dû si elle est convaincue qu’un tel remboursement ou une telle réduction aurait été accordé si la déclaration ou la demande avait été produite ou présentée à temps et à condition que la cotisation à établir soit conforme à la Loi et qu’elle n’ait pas déjà été accordée.
+72. Les particuliers […] peuvent présenter une demande s’ils n’étaient pas au courant ou ont omis de demander une déduction ou un crédit d’impôt non remboursable disponible pour l’année, tel que les frais de garde d’enfants ou le montant pour une personne à charge admissible. Les particuliers peuvent également demander des remboursements ou des réductions de montants dus pour les crédits d’impôt remboursables, tels que les crédits d’impôt provinciaux qui n’ont pas été réclamés […]
+[18] Si j’ai bien compris, la demande de Mme Osei‑Tutu est tout à fait conforme à ce qui est prévu dans ces deux paragraphes. Si j’avais le pouvoir de le faire, j’ordonnerais à l’ARC d’établir de nouvelles cotisations en application du paragraphe 152(4.1). La Cour n’a cependant pas ce pouvoir.
+[19] La loi exige que j’accueille la requête de la Couronne et que j’annule les appels interjetés à l’égard des années d’imposition 1999 à 2002 parce que Mme Osei‑Tutu ne s’est pas dûment opposée aux cotisations établies pour ces années‑là dans les délais prescrits par la Loi.
+[20] J’encourage fortement l’intimée, soit l’ARC, ainsi que son avocat à réexaminer sérieusement le refus d’établir de nouvelles cotisations à l’égard de Mme Osei‑Tutu dans lesquelles on lui accorderait sa demande de rajustements, au moins afin d’expliquer clairement à cette dernière les raisons pour lesquelles sa demande a été refusée, étant donné que l’ARC est convaincue que Mme Osei‑Tutu avait droit au crédit pour conjoint de fait et compte tenue des politiques administratives de l’ARC, qui sont clairement énoncées dans la circulaire d’information qu’elle a elle‑même publiée et qui porte sur les circonstances dans lesquelles elle peut établir de nouvelles cotisations.
+[21] Mme Osei‑Tutu, je ferai transcrire les présents motifs et ferai parvenir des copies de cette transcription à vous et à Me Perlinski. Je vous encourage fortement à en prendre connaissance parce que je comprends qu’il a peut-être été difficile de suivre la lecture des motifs à l’audience. Je vous encourage aussi à obtenir une copie de la circulaire d’information précitée. Me Perlinski pourrait peut-être prendre des dispositions pour vous en obtenir une copie. Comme je l’ai déjà expliqué, si vous n’êtes pas satisfaite de la réponse de l’ARC et de la façon dont l’ARC a usé de son pouvoir discrétionnaire dans votre cas, vous devez vous adresser à la Cour fédérale, et non à la Cour canadienne de l’impôt. Le même greffe sert aux deux cours, si vous cherchez à obtenir plus d’information. J’espère cependant que vous n’aurez pas à vous rendre jusque là, et je souhaite bonne chance aux deux parties pour ce qui est d’essayer une fois de plus de régler le différend. J’ai peut-être eu à annuler l’appel qui avait été interjeté devant la Cour, mais le différend opposant Mme Osei‑Tutu et l’ARC n’est toujours pas résolu.
+[22] Mme Osei‑Tutu a obtenu gain de cause pour ce qui est de son appel à l’égard de l’année 2003. Bien que la Couronne ait également obtenu gain de cause dans sa requête visant l’annulation des appels à l’égard des années 1999 à 2002, il ne s’agit‑là que d’une victoire procédurale dans le cadre d’un appel informel, où une solution définitive et peut-être meilleure était à la disposition de l’ARC, mais relevait de son pouvoir discrétionnaire, pouvoir que l’ARC a inexplicablement refusé d’exercer. Étant donné les circonstances, j’ordonne que l’intimée paye à l’appelante des dépens s’élevant à 250 $.
+[23] Je remercie Me Perlinski et M. Amponsah pour leur contribution claire et utile. Je remercie madame la greffière et madame la sténographe judiciaire. L’audience est levée.
+Signé à Ottawa, Canada, ce 12e jour d’avril 2010.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 2e jour de novembre 2010.
+Hélène Tremblay, traductrice
+RÉFÉRENCE : 2010 CCI 185
+N° DE DOSSIER DE LA COUR : 2007-2549(IT)I
+INTITULÉ : BEATRICE OSEI‑TUTU c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Edmonton (Alberta)
+DATE DE L’AUDIENCE : Le 8 mars 2010
+MOTIFS DU JUGEMENT : L’honorable juge Patrick Boyle
+DATE DU JUGEMENT : Le 12 avril 2010
+COMPARUTIONS :
+Représentant de l’appelant :
+M. Samuel Amponsah
+Avocat de l’intimée :
+Me Gregory Perlinski
+ÉTAIENT AUSSI PRÉSENTS :
+Greffière de la Cour :
+Mme Jennifer Sorvisto
+Sténographe judiciaire :
+Mme Trish Cossey
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

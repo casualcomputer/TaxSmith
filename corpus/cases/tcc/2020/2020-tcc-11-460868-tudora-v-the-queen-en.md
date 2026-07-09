@@ -1,0 +1,219 @@
+---
+title: "Tudora v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/460868/index.do"
+last_modified: "2020-01-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2020 TCC 11"
+citation2: ""
+neutral_citation: "2020 TCC 11"
+decision_date: "2020-01-27"
+language: "en"
+item_id: "460868"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4256
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-07-24T06:12:14.657000+00:00"
+cases_cited_count: 8
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d2831d636187610aeb2509a708ef18707af4e63f751d06e6254c88bcd3e9ef53"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Tudora v. The Queen
+
+- Citation: 2020 TCC 11
+- Decision date: 2020-01-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4256, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tudora v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2020-01-27
+Neutral citation
+2020 TCC 11
+File numbers
+2016-2339(IT)I
+Judges and Taxing Officers
+Ronald MacPhee
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-2339(IT)I
+BETWEEN:
+ALEXANDRU TUDORA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on November 1, 2019, at Toronto, Ontario
+By: The Honourable Justice Ronald MacPhee
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Matthew Turnell
+Sandra K.S. Tsui
+JUDGMENT
+The Appeal from the reassessment made under the Income Tax Act for the Appellant’s 2005 taxation year is dismissed, without cost.
+Signed at Ottawa, Canada, this 27th day of January 2020.
+“R. MacPhee”
+MacPhee J.
+Citation: 2020 TCC 11
+Date: 20200127
+Docket: 2016-2339(IT)I
+BETWEEN:
+ALEXANDRU TUDORA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+MacPhee J.
+[1] The Appellant has appealed his reassessment from the Minister of National Revenue (the “Minister”) in respect of his 2005 taxation year. The Appellant is disputing the Minister’s denial of his claim for charitable tax credits pursuant to section 118.1 of the Income Tax Act (the “Act”). Specifically, the amounts the Appellant claims to have gifted in the 2005 taxation year are a $5000 cash gift and a $25,056, gift in kind.
+ISSUES
+[2] The issue in this Appeal is whether the Appellant made a gift of any amount in the 2005 taxation year as a result of his participation in the Global Learning Gifting Initiative Program (“Global”). The Respondent questions [1] whether the Appellant had donative intent to make a gift, one of the requisite elements of a gift. The Respondent also argues that the principle of judicial comity should be applied in this matter.
+FACTS
+[4] The Appellant is a former General Motors employee. He is now retired, but as he testified at trial, not by choice.
+[5] The Appellant states that he first became aware of Global through a co‑worker who brought the program to his attention. At trial, the Appellant claimed to have very little recollection as to how the Global arrangement was explained to him, or even why he participated. He made a minimal attempt to explain why he contributed $5000 in 2005. The most he had made in donations in any previous year was $350, which was in 2002.
+[3] One recollection that the Appellant did have was that his colleague advised as to how he would help Canadian children in need by participating in Global. He also stated, as set out in his pleadings, that he learned from his colleague what the Canadian Government and the Canada Revenue Agency (the “CRA”) compensation was for his donation.
+How the arrangement worked:
+[4] Not surprisingly, the Appellant was of no assistance in explaining how the Global program worked on either a micro or macro level. The evidence regarding the mechanics of the program was provided to the Court by way of the assumptions found in the Reply and the unchallenged evidence lead by the Respondent.
+[5] In 2005, the Appellant entered into a series of agreements. In cross‑examination, his memory was vague as to what steps he took to make the charitable gifts he was claiming. Based upon his lack of recollection, and his tacit approval of the documents put to him by the Respondent, I do accept that I have been provided with the following documents and explanations that detail to some degree, the Appellant’s personal participation in Global.
+[6] At the outset the Appellant signed a series of documents, all at the same time. I will not review all the documentation in my reasons. Some of the more relevant documents are as follows. The first document signed was a deed of gift of cash which, as part of contributing $5000 in cash to an escrow agent, he directed this agent to apply for him to be considered a Capital Beneficiary of a Deed of Gift of Property. The gift of property requested on his behalf was approximately five times the cash contribution he made. The Appellant had very little information to provide as to what the gift of property he was requesting was.
+[7] From the assumptions paragraphs of the Reply, I am able to determine that the gifts of property in issue were described by the promoters of Global as educational courseware licenses (the “Licenses”) acquired from an offshore entity, Phoenix Learning Corporation, who had acquired these licenses from a Florida corporation, Infosource Inc. These licenses were then claimed to be gifted to a trust involved in the program, Global Learning Trust 2004. From there they were gifted to the Appellant.
+[8] After being gifted to the Appellant, the Deed of Gift was then said to be forwarded to a charity. This was done by way of a signed deed of gift of property to a participating charity. The Appellant also signed a Direction instructing that his cash gift be contributed to a charity by an escrow agent.
+[9] The Appellant acknowledged reviewing promotional materials which provided tables which showed that as a donator, if he provided a $5000 cash contribution, he could expect to receive a gift-in-kind worth $15,000. As a result of claiming both these gifts on his tax return, he could expect a return on his taxes of $9,282. This was described as a total cash flow advantage of 85.64% in the marketing materials provided. For reasons that were unexplained, the Appellant claims to have a gift-in-kind worth five times his cash contribution, which would lead to an even greater cash flow advantage than the one described in the marketing materials.
+[10] The Appellant states that his intention in making a donation was to help Canadian children and adults. He claims to have done due diligence on Global by researching the Charities involved on his computer. He also relied upon letters of appreciation from various politicians, which were provided as part of the promotion of this program. These letters spoke in glowing terms of the accomplishments of the Global donation program.
+[11] The Appellant in large part blames the CRA for not warning him in a timely manner about the Global scheme. He was not clear as to what he should have been warned about. Presumably, it was that the CRA would ultimately deny his claimed charitable gifts. Yet he nevertheless is seeking the entirety of the receipts he was provided by the Charities used in the Global arrangement as charitable deductions. While not relevant to this decision, it is clear that a great deal of blame should be applied. Not to the CRA but to the promoters of the Global arrangement. Given what has been assumed by the Minister, it appears that the promoters mislead the Appellant and many thousand of other Canadians as to what would occur with their cash contributions. More than 90% of cash provided in the Global arrangement (in 2004 and 2005 the total cash contributed amounted to $60,268,511) ended up with the promoters, not with charities. Charitable receipts of just under $340,000,000 were issued through the Global program in these years. Once again, based on my reliance on the assumptions provided in this matter, these receipts do not in any way reflect the reality of what occurred.
+[12] The Appellant is seeking to claim two charitable donation receipts. These receipts are for $5000, which reflects the cash contribution he made. No issue was made of the fact that he provided $5000 as part of his participation in Global. The Appellant also claims an additional $25,056, which he claims was a gift-in-kind made up of educational licenses. The Appellant could not explain where this gift-in-kind originated and could only, in the vaguest of terms, describe what it was composed of. No explanation was provided as to who paid for these claimed assets, how they were valued, or why his participation was necessary for these assets to be gifted.
+[13] Other than his frustration with the CRA for both denying his claim for charitable gifts as well charging interest on his outstanding debt, and his stated intention as to why he participated in the Global program, the Appellant had no substantial evidence to provide to the Court.
+[14] The Respondent provided as evidence the Affidavit of Chandra Udai-Harry, the lead auditor on the Global program. The Respondent also relied upon the assumptions set out in the Notice of Reply.
+LAW
+Position of the Parties:
+[15] The Appellant’s position is that he had donative intent when he made the two charitable gifts in issue. As to the value of the Licenses which he claimed to have gifted, the Appellant simply relies upon the valuation provided by the promoters of the program. He therefore argues he should be allowed to claim both the $5000 charitable receipt for his cash contribution as well as the $25,056 gift in kind charitable receipt in the 2005 taxation year.
+[16] The Respondent has provided various reasons as to why the gift should be denied. The arguments are: (1) that the Appellant did not have the requisite donative intent to make any charitable gifts in accordance with subsection 118.1(1) of the Act; (2) that the trust in issue was not a valid trust; (3) that the donation receipts issued by to the Appellant do not represent the fair market value of the Licenses (4) that subsections 248(30) to (32) of the Act would apply, and would reduce the eligible amount of the purported gift to $nil; and (5) the Respondent argues that, given there has already been a thorough review by the Court of the Global program [2] , the principle of judicial comity should apply.
+ANALYSIS
+[17] There are two main reasons, set out in detail below, that lead me to dismiss this Appeal. They are: (1) the Appellant has not lead prima facie evidence to show that the assessment is incorrect; and (2) I accept the Minister’s position that a gift has not been made by the Appellant. This conclusion is based on my finding that the Appellant had the expectation of receiving a benefit as a result of his participation in the Global arrangement, and therefore did not have donative intent. Finally, I think it is worthy to consider the Respondent’s argument concerning judicial comity as it applies to the issue of donative intent.
+Onus:
+[18] A taxpayer has the burden to prove any facts that are alleged by that taxpayer in their Notice of Appeal and that are denied by the Respondent [3] . Particular to tax appeals is the ability of the Respondent to plead and rely upon the assumptions made by the Minister. When this occurs, the taxpayer in order to be successful, needs to demolish the properly plead assumptions that are detrimental to his Appeal. In the Reply filed in this matter, 301 assumptions were set out. Few, if any, of the assumptions were specifically dealt with in the evidence lead by the Appellant.
+[19] While I acknowledge that this was an informal matter with an unrepresented Appellant, I would have expected the Appellant to, at the very least, call evidence concerning his cash gift and whether it reached a charity, and to support his claim that at the time of the contribution of $5000 he had the intention of being deprived of assets for the benefit of another. Furthermore, to provide an explanation concerning where the gift-in-kind came from, who originally paid for it, how it was valued, and to support the fact that he at some point had ownership of these Licenses. The lack of evidence lead by the Appellant to deal with all these points, as well as to show that both his cash gift and his claimed gift-in-kind reached the charities in question is fatal to the Appellant’s case.
+[20] In coming to this decision I am aware that assumptions which are solely within the knowledge of the Minister may not be treated by the Court as presumed to be true.
+[21] In this particular case, since the Appellant did not argue a lack of knowledge on any of the assumptions, I am not making a ruling on the whether any assumptions were solely within the knowledge of the Minister. I am instead setting out the specific assumptions I am relying upon for my decision. To be clear, these assumptions are fact-specific to the Appellant. I only do this because this is an informal matter and the Appellant is unrepresented. Tax litigation is complex, dealing with the onus of proof is a foreign concept to most people without legal training. [4]
+[22] The assumptions I have focused on in this decision are:
+16.117. the Appellant did not make any gifts to the Charities;
+16.118 the participants, including the Appellant, received consideration for their cash payment;
+16.119 the Appellant’s motivation in participating in the Global program was not to enrich any of the Charities but was to participate in a series of transactions, the net result of which was to receive a tax credit in excess of the cash payment and to enrich himself;
+16.120 the Appellant had no intention to impoverish himself;
+…
+16.123 the Appellant’s cash payment was an indirect payment to the promoter as a fee to participate in the program;
+16.124 the Appellant’s cash donation was made with the expectation that he would receive a charitable donation receipt for the value of the cash payment, receive property with a value of three to five times the cash amount, and receive a second charitable donation receipt in respect of the purported value of that property;
+16.125 the Appellant never saw the license, the CD ROM nor any Educational Courseware Products that allegedly formed the basis of his donation-in-kind;
+…
+16.127 the Appellant could not use the Educational Courseware Products as he was never provided with the necessary means of access nor with any instructions on how to gain such access;
+16.128 The only practical option the Appellant had was to donate the licences as preordained by the Program;
+…
+16.135 the Appellant signed the Deed of Gift of Property that referred to properties listed in an attached document that was not prepared or attached at that time, and thus would have known he was gifting something that was not identified to him until some later date in time;
+…
+16.140 the fair market value of each individual license purportedly distributed was no greater than $0.30 in 2004 and $0.32 in 2005;
+…
+6.142 the Appellant did not have an intention to impoverish himself but, rather, to profit from his participation in the Program in 2005;
+16.145 although the Appellant also executed a Deed of Gift of Property to CCA respecting Educational Courseware Products, he was not the owner of any such property at that time, or any subsequent time;
+[23] The Appellant’s evidence at trial fell far short of destroying these assumptions. He did testify, but often times claimed no knowledge when it came to explaining how his donations were calculated, or even who truly received the donations.
+[24] Simply put, the taxpayer has not met his onus in this matter. He has not lead prima facie evidence to show that on the balance of probabilities, the assessment is wrong [5] . Furthermore, he has not lead evidence to demolish the assumptions made by the Minister. On this basis alone, I dismiss the Appeal in its entirety.
+Was there a gift by the Appellant to the charities?
+[25] While it is not necessary, I will also provided the analysis by which I concluded that there was not a gift by the Appellant to the charities.
+[26] Under the Income Tax Act the term “gift” is not defined. There are numerous Tax Court decisions that attempt to define the term.
+[27] In Friedberg v. R. (1991), 92 D.T.C. 6031 (Fed. C.A.), the Federal Court of Appeal recognized that to vitiate a gift, a benefit or consideration must actually flow to the donor:
+... a gift is a voluntary transfer of property owned by a donor to a donee, in return for which no benefit or consideration flows to the donor (at 6032).
+[28] There are three requisite elements of a gift. They are (1) there must be a voluntary transfer of property; (2) the property must be owned by the donor immediately prior to the transfer and (3) there must be no benefit or consideration to the donor, which means that donative intent must exist. [6]
+[29] I will focus on the third of the above criteria, specifically whether the Appellant had donative intent. In this analysis I acknowledge the Appellant’s testimony claiming that he participated in Global because he wanted to help kids. In making this statement he is claiming he had donative intent. But my analysis can not rely solely on the Appellant’s stated intention.
+[30] In my analysis I must consider the facts on both an objective and subjective basis. A simple subjective analysis, relying solely upon the stated purpose of the Appellant as he testified to at trial, will be of limited assistance in finding the truth of the matter [7]
+[31] In the Symes decision, the Supreme Court of Canada described the proper analysis of intent as follows:
+As in other areas of law where purpose or intention behind actions is to be ascertained, it must not be supposed that in responding to this question, courts will be guided only by a taxpayer's statements, ex post facto or otherwise, as to the subjective purpose of a particular expenditure. Courts will, instead, look for objective manifestations of purpose, and purpose is ultimately a question of fact to be decided with due regard for all of the circumstances. ... [8]
+[32] Based on the evidence provided in this matter, I conclude that the cash gift and the in-kind gift formed one series of interconnected transactions. I have considered whether the gifts can be split, possibly allowing the Appellant his $5000 contribution as a charitable gift. But as was recently stated by the Federal Court of Appeal in Markou “the Tax Court judge was bound to follow Maréchaux TCC, as confirmed by Maréchaux FCA, which held that the contractual arrangements pursuant to which the appellants made their alleged gifts cannot give rise to a split gift as the two portions are inextricably tied” [9] .
+[33] The program documents here are clear that the two gift in issue are inextricably linked. As a result of a cash donation charitable receipts are provided for participants for both a cash gift and for the in-kind gift.
+[34] Even if the program was providing all it was promising, then a participant would receive back, in some way connected to his cash gift, educational Licenses worth 5 times his cash gift. No attempt was made by the Appellant to explain the source of these licenses he claims to have been gifted and then donated to a charity. No explanation was provided as to who paid for them. Frankly, the program as described in the documentation defies common sense.
+[35] The Appellant, by any objective standard, was enriched as a result of his participation. This enrichment came in one of/or two forms. One, if he truly owned the Licenses the promoter claims were gifted to him, than as a result of providing an initial $5000 contribution he received ownership of $25,056 in Licenses. This result clearly would be an enrichment. In the alternative, he knew he was getting two receipts as a result of his participation, the result of which would be that, after filing his tax return, he would be left with far more than he provided with his cash contribution. [10] The promotional material called this his tax flow advantage.
+[36] After a review of the facts as presented, I agree with the Respondent that the Appellant’s cash contribution must be seen as a participation fee, or even as part of an investment.
+[37] I find that the Appellant participated in a gifting arrangement that was sold to him on the basis that the tax benefits he would receive was worth substantially more than the $5000 cash payment he was asked to make to the promoter. As a result of his participation he received federal and provincial tax credits that far exceeded his original $5000 contribution. I find it impossible not to conclude that the Appellant intended to enrich himself by participating in arrangement. As a result, I would also deny the appeal on the basis that the Appellant has not made a gift.
+Judicial Comity
+[38] The Respondent argues that the Court, in deciding this matter, should consider the principle of judicial comity. As is written in their submissions, under the principles of stare decisis, judges of one Court are not bound by decisions of members of their own Court, but in accordance with the principles of judicial comity, judges should follow the decisions of their colleagues unless there is a cogent reason to depart from a prior decision [11]
+[39] Similar in principle, the Federal Court of Appeal in Kossow v. R., 2013 FCA 283, 2014 D.T.C. 5017 (Eng.) (F.C.A.), at paragraph 29, concluded that cases similar in nature should receive the same treatment:
+... In my view, the relevant facts of this case are so similar to the facts of Maréchaux that the judge did not err in law in reaching the same conclusion. Where cases are similar in nature, it is fundamental to the idea of justice that they receive the same treatment.
+[40] The Respondent asks that I do the same. As pointed out by the Respondent, the Global program was litigated before the Tax Court in Mariano (which was a lead case). In that decision the Tax Court dealt with numerous different components of the program. One of these components was donative intent. I have been provided with the same participation documents that Justice Pizzitelli reviewed in the Mariano matter. [12]
+[41] There is no cogent reason why I should not follow the decision by Justice Pizzatelli. While I have not considered the breadth of all the matters considered in that decision, for those that I have considered, my conclusions in this matter are the same as those which was reached in Mariano.
+[42] In Mariano, Justice Pizzitelli came to the following conclusion:
+[49] In the end, I cannot see how any person participating in such a scheme, regardless of whether such person had an honest belief in the value of the Licences he expected to receive or not, can argue, based on the manner in which the scheme was marketed and in the makeup and integration of the Transactional Documents that deliver it, that he or she expected none other than to profit from, be enriched or not be impoverished by, such participation, and thus not have the requisite donative intent.
+[43] My ruling should be and will be consistent with Mariano concerning donative intent. I find that the Appellant, as a result of his participation in this arrangement expected to be enriched. He therefore did not have the requisite donative intent.
+CONCLUSION
+[44] For these reasons, the Appeal is dismissed. Both parties shall be responsible for their own costs in the matter.
+Signed at Ottawa, Canada, this 27th day of January 2020.
+“R. MacPhee”
+MacPhee J.
+CITATION:
+2020 TCC 11
+COURT FILE NO.:
+2016-2339(IT)I
+STYLE OF CAUSE:
+ALEXANDRU TUDORA AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+November 1, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Ronald MacPhee
+DATE OF JUDGMENT:
+January 27, 2020
+APPEARANCES:
+Agent for the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Matthew Turnell
+Sandra K.S. Tsui
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Amongst other arguments.
+[2] See Mariano v The Queen 2015 TCC 244 [Mariano].
+[3] Samardi v Canada, 2017 FCA 131 at paragraphs 61 and 62, in obiter.See also Morrison v the Queen in which Justice Owen cites Anderson Logging, S.C.R. 45 [1925], at paragraph 9:
+He [the taxpayer] must shew that the impeached assessment is an assessment which ought not to have been made; that is to say, he must establish facts upon which it can be affirmatively asserted that the assessment was not authorized by the taxing statute, or which bring the matter into such a state of doubt that, on the principles alluded to, the liability of the appellant must be negatived.
+[4] Despite the approach I am taking in this particular case I wish to point out that I am in agreement with the comments made by Justice Owen in Morrison, supra, at paragraphs 117 and 118:
+117 I have considerable difficulty understanding how facts obtained by the Minister through the audit of the Appellants and the Programs in which they participated are exclusive or peculiar to the Minister. Save for the audit, the facts are outside the purview of the Minister's knowledge and are clearly known by others involved in the Programs even if not known by the Appellants.
+118 The Appellants consciously chose to participate in the Programs with little or no knowledge of what went on behind the curtain, so to speak. In such circumstances, it is not unfair to the Appellants to allow the Minister to assume what went on behind the curtain.
+[5] The Federal Court of Appeal in House v the Queen, 2011 FCA 234, endorsed the view that
+“A prima facie case is one ‘supported by evidence which raises such a degree of probability in its favour that it must be accepted if believed by the Court unless it is rebutted or the contrary is proved.”
+[6] See Mariano, supra, at paragraph 17.
+[7] Cassan
+[8] Symes v Canada, [1993] 4 SCR 695 as quoted in Mariano, supra, at paragraph 28.
+[9] Markou v Her Majesty the Queen, 2019 FCA 299 at paragraph 48.
+[10] See Markou, supra, at paragraph 60:
+As Friedberg makes clear, the fact that a tax benefit is received as a result of making a gift cannot, in and of itself, invalidate the gift as to hold otherwise would mean that Parliament would have spoken in vain in providing for tax benefits consequential on making qualified gifts. However, where a person anticipates receiving tax benefits that exceed the amount or value of an alleged gift, the donative intent is necessarily lacking. Impoverishment being an essential element of a gift under both the civil law and the common law, the purported gift constituted by the cash contribution would fail on this account as well.
+[11] Haqi v Canada (Public Safety and Emergency Preparedness), 2014 FC 1246, [2015] FCJ No 1388 [Haqi].What was also stated in this decision, at paragraph 51, is that a Court might not follow a previous decision of the same level of court where:
+There are a number of reasons why a judge may choose not to follow the interpretation given to a statutory provision by another judge of this Court. It may be that intervening decisions have affected the validity of the prior decision, or that the earlier decision failed to consider a binding precedent or relevant statute. A judge may also depart from an earlier decision where that decision was "unconsidered", that is where the exigencies of a proceeding require an immediate ruling without an opportunity to fully consult the authorities, or where following the earlier decision would result in an injustice: Almrei v. Canada (Citizenship and Immigration), 2007 FC 1025, 316 F.T.R. 49, at paragraphs 61-62; Baron v. Canada (Public Safety and Emergency Preparedness), 2008 FC 341, 83 Admin. L.R. (4th) 183, at paragraph 52.
+[12] As pointed out in the Respondent’s Factum, the trial took place over 25 days of legal argument and detailed legal submission between April and September 2015.

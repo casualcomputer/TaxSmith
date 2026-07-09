@@ -1,0 +1,185 @@
+---
+title: "Sumner v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30551/index.do"
+last_modified: "2011-10-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 484"
+citation2: ""
+neutral_citation: "2011 TCC 484"
+decision_date: "2011-10-17"
+language: "en"
+item_id: "30551"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7292
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:13:43.928000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2f78f7a1f721c85eb9ee20b8299239770fd575b6f0e0f3529dba12774c6ec090"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sumner v. The Queen
+
+- Citation: 2011 TCC 484
+- Decision date: 2011-10-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7292, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sumner v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-10-17
+Neutral citation
+2011 TCC 484
+File numbers
+2010-258(IT)G
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-258(IT)G
+BETWEEN:
+BRIAN D. SUMNER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 30, 2011, at Winnipeg, Manitoba
+Before: The Honourable Justice Valerie Miller
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Sandra M. Hoeppner
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act for the 2004, 2005 and 2006 years is dismissed in accordance with the attached Reasons for Judgment.
+Costs are awarded to the Respondent.
+Signed at Ottawa, Canada, this 17th day of October 2011.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2011TCC484
+Date: 20111017
+Docket: 2010-258(IT)G
+BETWEEN:
+BRIAN D. SUMNER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller J.
+[1] The Appellant has appealed the reassessment of his 2004, 2005 and 2006 taxation years in which the Minister of National Revenue (the “Minister”) disallowed losses claimed by the Appellant in the amounts of $26,425, $29,232 and $32,150. The issue in this appeal is whether the Appellant had a source of income from excavation, welding and machining.
+[2] It was the Appellant’s position that he carried on a business which offered excavation, welding and machine shop services from his property in Victoria Beach, Manitoba (the “Victoria Beach Property”).
+[3] He claimed expenses, revenue and losses on his personal income tax returns with respect to excavation, welding and machining activities as follows:
+Year
+Expenses
+Revenue
+Loss
+2001
+$23,573
+nil
+$23,573
+2002
+$35,205
+$520
+$34,685
+2003
+$30,105
+$950
+$29,155
+2004
+$26,857
+$432
+$26,425
+2005
+$29,648
+$416
+$29,232
+2006
+$32,710
+$560
+$32,150
+Total
+$178,098
+$2,878
+$175,220
+Facts
+[4] During the period, the Appellant was employed full-time as a senior economist by Manitoba Hydro in the city of Winnipeg. He stated that he worked 38 hours a week and he had every second Monday off from work. He resided in Winnipeg during the week.
+[5] In 1991, the Appellant purchased the Victoria Beach Property. It consisted of one and one-half acres of land with a house and a two-car garage. The Appellant spent his weekends and most of his vacation at the Victoria Beach Property.
+[6] I gather from the Appellant’s evidence that the Victoria Beach area was primarily a summer recreational area. He stated that there were approximately 250 permanent residents in the area but that during the summer there could be as many as 5000 people on a given weekend.
+[7] It was the Appellant’s evidence that in 2000 or 2001, it appeared to him that there was a market in Victoria Beach for such services as clearing land, removing rocks and excavating for basements and holding tanks. In 2001, he registered the business name 4477228 Manitoba to offer these services. He later referred to his business as Sumner Mechanical and I will refer to his activities by this name as well.
+[8] The Appellant stated that to have a complete mechanical operation, he felt that he needed three pieces of machinery and a maintenance shop. From 2001 to 2006, he expanded the two-car garage on the Victoria Beach Property so that it became his maintenance shop and he purchased a backhoe, a tractor, and a skid-steer as follows:
+- In 2001, he purchased a used 1989 Case 580K Backhoe for $19,000. It required extensive repairs and parts which the Appellant estimated cost an additional $10,000. This backhoe was not ready for use until early 2003. In 2005, the original backhoe had serious mechanical problems and in 2006, the Appellant purchased a newer Case backhoe for $31,503.
+- In 2003, he purchased a used 1993 International highway tractor (the “truck”) for $13,000 which he converted into a gravel truck. The Appellant built a gravel box and installed it on the truck. The truck was not ready for use until 2005.
+- In 2004, he purchased a used 1993 skid-steer for $13,000.
+[9] In 2001 the Appellant offered welding services only. He did not expect to be profitable from this activity; but he had hoped that this activity would make him known in the area. I note that he recorded no income in 2001.
+[10] From 2002 to 2006, the Appellant placed advertisements for Sumner Mechanical in various publications which were local to Victoria Beach. He also listed his operation in the Yellow Pages for eastern Manitoba.
+[11] It was the Appellant’s evidence that he knew it would take a few years to make Sumner Mechanical profitable but he had hoped to build his operations so that when he retired from Manitoba Hydro he would have a business. However, he had eye surgery in 2007 and has since stopped operating Sumner Mechanical.
+Law
+[12] The losses claimed by the Appellant are deductible only if the Appellant had a source of income. The Supreme Court of Canada, in Stewart v. R., 2002 SCC 46, recommended a two-stage approach with respect to the determination of the source of income question. It stated:
+50 ... As has been pointed out, a commercial activity which falls short of being a business, may nevertheless be a source of property income. As well, it is clear that some taxpayer endeavours are neither businesses, nor sources of property income, but are mere personal activities. As such, the following two-stage approach with respect to the source question can be employed:
+(i) Is the activity of the taxpayer undertaken in pursuit of profit, or is it a personal endeavour?
+(ii) If it is not a personal endeavour, is the source of the income a business or property?
+The first stage of the test assesses the general question of whether or not a source of income exists; the second stage categorizes the source as either business or property.
+[13] The first stage of the enquiry is to determine if the activity in question has a personal element. At paragraph 60 of Stewart the court stated:
+60 In summary, the issue of whether or not a taxpayer has a source of income is to be determined by looking at the commerciality of the activity in question. Where the activity contains no personal element and is clearly commercial, no further inquiry is necessary. Where the activity could be classified as a personal pursuit, then it must be determined whether or not the activity is being carried on in a sufficiently commercial manner to constitute a source of income.
+[14] If the activity has a personal element, then it must still be determined if the activity is carried on in a commercial manner such that it constitutes a source of income. To determine if a source of income exists, it is not enough that the taxpayer has a subjective intent to make a profit. The determination is made by looking at a variety of objective factors some of which were listed in paragraph 55 of Stewart:
+55 The objective factors listed by Dickson J. in Moldowan, at p. 486, were: (1) the profit and loss experience in past years; (2) the taxpayer's training; (3) the taxpayer's intended course of action; and (4) the capability of the venture to show a profit. As we conclude below, it is not necessary for the purposes of this appeal to expand on this list of factors. As such, we decline to do so; however, we would reiterate Dickson J.'s caution that this list is not intended to be exhaustive, and that the factors will differ with the nature and extent of the undertaking. We would also emphasize that although the reasonable expectation of profit is a factor to be considered at this stage, it is not the only factor, nor is it conclusive. The overall assessment to be made is whether or not the taxpayer is carrying on the activity in a commercial manner. …
+Analysis
+[15] Having regard to the first stage of the test, I find that the Appellant’s activity had a personal element. The backhoe and other machinery were used primarily to level and clear land or to clear snow around the Appellant’s home at his Victoria Beach Property. Sumner Mechanical had only one contract in which it used the backhoe and that was in 2004. Otherwise, it did not use any of the heavy equipment in its business activities.
+[16] I also find that the Appellant did not carry on Sumner Mechanical in a commercial manner.
+[17] The Appellant acquired his knowledge, experience and skills with heavy equipment when he worked in the construction industry before he attended university. However, he had no experience or training in operating an excavation or mechanical business.
+[18] It was the Appellant’s evidence that there were two businesses in the Victoria Beach area which performed the same services he offered. He submitted pictures of some of the equipment owned by these businesses to demonstrate that he had purchased the same type of equipment. I concluded from the Appellant’s evidence that the only similarity between his endeavours and those of the other backhoe businesses in the area was the equipment. The other businesses operated on a full time basis whereas Sumner Mechanical could only offer its services when the Appellant was at his Victoria Beach property on weekends or during his vacation.
+[19] The Appellant may have advertised his services in the seasonal newspapers; but, he did nothing else to promote Sumner Mechanical as a business. He stated that his major problem was that he was not known in the area. Yet he produced no evidence to show that he investigated ways to become known.
+[20] It was the Appellant’s evidence that in the summertime, if he was not at work in Winnipeg, he spent four or five days each week at Victoria Beach. In the wintertime, he went to Victoria Beach every third weekend and every long weekend. I infer from his evidence that Sumner Mechanical operated only during the summer.
+[21] The Appellant never developed a business plan as to how he could make his endeavours profitable. His endeavours were a weekend seasonal operation and there was no evidence that Sumner Mechanical, as operated by the Appellant, had the capability to become profitable. The Appellant gave no consideration to the revenues required to generate a profit. It was his evidence that he considered it more important to spend time building his maintenance shop and repairing the heavy machinery than preparing a business plan for Sumner Mechanical.
+[22] The Appellant did not operate in a commercial manner. The Appellant insured the truck for the period of August 23, 2004 to November 2, 2004 while he was training himself to obtain his class 3 driver’s licence. Other than this period, none of the heavy equipment owned by the Appellant was insured. Also, the Appellant did not have the required driver’s licence to operate his backhoe on a public street. He stated that one would need a class 5 licence to drive a backhoe on the public streets in Manitoba. He held only a class 3 driver’s licence.
+[23] The Appellant reported substantial losses for each of the years at issue. Most of these losses consisted of capital cost allowances claimed by the Appellant. The Appellant submitted only three invoices for jobs performed by Sumner Mechanical. They disclosed that the Appellant had one job in 2003 and two jobs in 2004. When he was asked how many jobs he performed in 2005 and 2006, the Appellant’s responses were vague and non-committal. However, his automobile log showed that he had no jobs in 2005 and only one job in 2006.
+[24] When I consider all of the evidence, I conclude that in 2004, 2005 and 2006 the Appellant did not have a source of income from excavation, welding and machining. The appeal is dismissed with costs to the Respondent.
+Signed at Ottawa, Canada, this 17th day of October 2011.
+“V.A. Miller”
+V.A. Miller J.
+CITATION: 2011TCC484
+COURT FILE NO.: 2010-258(IT)G
+STYLE OF CAUSE: BRIAN D. SUMNER AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Winnipeg, Manitoba
+DATE OF HEARING: June 30, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: October 17, 2011
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Sandra M. Hoeppner
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

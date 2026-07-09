@@ -1,0 +1,151 @@
+---
+title: "Harrison v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28596/index.do"
+last_modified: "2008-04-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 206"
+citation2: ""
+neutral_citation: "2008 CCI 206"
+decision_date: "2008-04-11"
+language: "fr"
+item_id: "28596"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1063
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:54:35.023000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "77eeb25088694366e5200340f7a40a4cde608e3d3a7b1a2edaeb8c3a0b6282d8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Harrison v. The Queen
+
+- Citation: 2008 CCI 206
+- Decision date: 2008-04-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1063, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Harrison v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-04-11
+Référence neutre
+2008 CCI 206
+Numéro de dossier
+2007-4067(GST)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2007-4067(GST)I
+ENTRE :
+JOHN W. HARRISON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appel entendu à Fredericton (Nouveau‑Brunswick), le 1er avril 2008.
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocats de l’intimée :
+Me Martin Hickey et Me Kendrick Douglas
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la cotisation établie en vertu de la Loi sur la taxe d’accise, dont l’avis est daté du 5 mars 2007 et porte le numéro 0704650161237, est rejeté, sans dépens.
+Signé à Halifax (Nouvelle‑Écosse) ce 11e jour d’avril 2008.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 29e jour de mai 2008.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2008CCI206
+Date : 20080411
+Dossier : 2007-4067(GST)I
+ENTRE :
+JOHN W. HARRISON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] En l’espèce, la question en litige est de savoir si l’appelant a droit au remboursement pour habitations neuves en vertu de l’article 256 de la Loi sur la taxe d’accise (la « Loi ») à l’égard d’un ajout majeur qui a été apporté à sa maison.
+[2] L’article 256 de la Loi prévoit un remboursement pour habitations neuves dans deux cas : quand un nouvel immeuble d’habitation est construit et quand un immeuble d’habitation fait l’objet de rénovations majeures. Cependant, le formulaire de remboursement imprimé par l’Agence du revenu du Canada (l’« ARC ») envisage une troisième possibilité, l’ajout majeur. Bien que la Loi ne prévoie pas de remboursement pour la construction d’un ajout majeur, l’idée d’accorder un remboursement dans ce cas provient de la décision rendue par le juge Hershfield dans Erickson v. The Queen, [2001] G.S.T.C. 19, 2001 G.T.C. 309.
+[3] La maison de l’appelant a été construite en trois phases. Lorsque l’appelant a acheté la propriété en 2001, les deux premières phases avaient été terminées. Bien que les dimensions exactes des deux premières phases n’aient pas été fournies, les plans présentés permettent de croire que la phase 1 est un peu plus grande que la phase 2. Les deux premières phases sont chacune constituées d’un rez‑de‑chaussée et d’un sous‑sol fini. La présente affaire porte sur la troisième phase.
+[4] En l’espèce, l’importance de l’ajout et celle des rénovations dont la propriété a fait l’objet n’ont pas été contestées. Dans la cuisine se trouvant dans la propriété existante, certains murs et une penderie ont été enlevés; les armoires et les comptoirs de la cuisine, les fenêtres et le plancher ont été remplacés et l’escalier a été déplacé. La plus grande partie des rénovations apportées à la propriété ont été faites dans la cuisine. Quant au reste de la structure existante, le mur de la fondation a été coupé pour créer un passage entre l’ancienne partie et l’ajout, des conduits ont été installés dans l’ensemble de l’immeuble, les plinthes chauffantes et le système de chauffage au bois ont été remplacés par une thermopompe, le poêle à bois a été enlevé, les appareils de la salle de bains (notamment la toilette, le robinet, la baignoire et la douche) et le plancher de la chambre à coucher se trouvant au sous-sol de la phase 2 ont été remplacés, une nouvelle buanderie a été créée, l’entrée et le panneau électriques ont été déplacés vers la nouvelle section. Le revêtement de plancher du vestibule du sous‑sol de la phase 1 a aussi été remplacé.
+[5] L’entrée principale de la maison a été déplacée dans l’ajout lorsque celui‑ci a été construit. Dans la nouvelle partie de la maison, une chambre principale avec penderie attenante, une deuxième chambre, une salle de bains et un salon ont été construits au rez‑de‑chaussée. Un garage, un atelier, une aire d’entreposage et une buanderie ont été construits au sous‑sol.
+[6] L’aire totale de l’ajout, en excluant le garage, est de 1 724 pieds carrés. La structure existante avait une aire de 1 250 pieds carrés. Le coût total des rénovations apportées à la partie existante et de l’ajout était de 123 722 $. En 2001, l’appelant a déboursé 80 000 $ pour acheter la maison, le terrain et un atelier de poterie.
+[7] L’appelant a reconnu que les travaux accomplis dans la résidence existante ne constituaient pas des rénovations majeures. L’article 123 de la Loi définit les rénovations majeures de la façon suivante :
+« rénovations majeures » Fait l’objet de rénovations majeures le bâtiment qui est rénové ou transformé au point où la totalité, ou presque, du bâtiment qui existait immédiatement avant les travaux, exception faite des fondations, des murs extérieurs, des murs intérieurs de soutien, des planchers, du toit et des escaliers, a été enlevée ou remplacée, dans le cas où, après l’achèvement des travaux, le bâtiment constitue un immeuble d’habitation ou fait partie d’un tel immeuble.
+[8] Il est clair que les rénovations effectuées dans la structure existante (les phases 1 et 2) ne correspondent pas à la définition de rénovations majeures, parce que les seuls travaux effectués dans la salle de jeux de la phase 2, dont la superficie est d’environ 285 pieds carrés, ont été l’enlèvement du poêle à bois, et parce qu’aucun travail n’a été fait dans l’une des deux chambres à coucher se trouvant sous cette salle. De plus, la seule modification apportée à la chambre à coucher se trouvant sous la cuisine de la phase 1 est l’installation de conduits. L’appelant estime que la structure existante (les phases 1 et 2) a été rénovée dans une proportion d’environ 40 %.
+[9] Donc, la question à trancher dans la présente affaire est de savoir si l’ajout constitue un nouvel immeuble d’habitation. Dans Erickson, le juge Hershfield a présenté le commentaire suivant :
+[14] À l'appui de son allégation selon laquelle l'appelant n'a pas construit un immeuble d'habitation (un nouvel immeuble d'habitation), l'intimée soutient qu'une annexe peut être un immeuble d'habitation nouvellement construit uniquement si le logement préexistant est intégré à une annexe qui est d'une taille et d'une proportion telles qu'il est impossible de la considérer comme une simple annexe à la maison existante. L'annexe doit atteindre une proportion telle qu'en réalité le logement préexistant devient lui-même un ajout. J'adhère à cette position. Le critère, ainsi que je le formulerais, correspondrait alors à la question de savoir si la résidence préexistante a été intégrée à une nouvelle résidence ou si une annexe a été intégrée à une résidence préexistante. La première (mais non la seconde) pourrait être qualifiée de construction d'un (nouvel) immeuble d'habitation. Je crois que le critère ainsi exprimé, à savoir si un projet de construction d'habitations peut à juste titre être considéré comme la construction d'un nouvel immeuble, par opposition à la rénovation d'un immeuble existant auquel on a ajouté quelque chose, correspond aux conditions de la Loi en ce qui concerne la détermination d'une construction ouvrant droit au remboursement pour habitations neuves. À ce stade-ci, il n'y a pas de différence entre l'argument de l'intimée et la pratique administrative de sa cliente. Entre d'autres termes, lorsque la résidence originale est intégrée à l'ajout en tant qu'« annexe », aile ou partie relativement mineure de la résidence nouvellement construite, l'intimée considère ensemble l'annexe et les rénovations faites à la résidence originale comme la construction d'un nouvel immeuble d'habitation. Toutefois, l'énoncé de politique suggère également par un exemple précis, soit l'ajout à un bungalow d'un deuxième étage ayant pour effet de doubler au moins la superficie de la résidence originale, que le caractère de la résidence peut avoir suffisamment changé pour que l'on considère la construction comme celle d'un nouvel immeuble d'habitation. L'appelant soutient que son annexe latérale a de la même façon changé le caractère de sa résidence originale, et je suis d'accord avec lui. Je ne souscris toutefois pas à l'idée qu'une annexe, qu'il s'agisse d'une construction en hauteur ou en largeur, qui ne fait que doubler la superficie d'une maison constitue une construction qui suffit à créer un nouvel immeuble d'habitation, même si le caractère de la maison est ainsi transformé. Le changement de caractère d'une maison est non seulement un critère vague et subjectif, mais il s'agit également d'un critère que la Loi ne considère pas comme un facteur ouvrant droit à un remboursement. Le fait d'affirmer que la transformation d'un bungalow en une maison à deux étages peut modifier le caractère de l'ancienne résidence ne suffit pas. Le caractère d'une maison peut facilement être changé par une variété de rénovations. Le changement des lignes de toiture, l'élargissement et l'ajout de fenêtres ou la réfection de la finition extérieure d'une maison, passant, par exemple, du stuc à la brique et à la pierre, pourrait très bien modifier le caractère d'une maison. Toutefois, de telles modifications ne justifieraient pas la formulation d'une conclusion selon laquelle un nouvel immeuble d'habitation aurait vu le jour. De même, les modifications apportées à la superficie habitable peuvent modifier le caractère d'une maison en ce qui a trait à la manière dont elle fonctionne, mais, encore là, le changement de caractère peut ne pas suffire pour étayer la conclusion selon laquelle de telles modifications ont transformé une structure préexistante en un nouvel immeuble d'habitation.
+[15] Soulignons que l'alinéa 256(2)a) ne fait aucune référence aux annexes. Il en a été conclu que les « annexes » en soi n'ouvraient pas droit à des remboursements. Soulignons également que la Cour d'appel fédérale a, dans l'affaire Syned, déclaré que les dispositions relatives au remboursement de la TPS pour habitations neuves constituaient une exception limitée et taillée sur mesure à l'application de la TPS à des services imposables pour ce qui est de la construction d'une maison et des rénovations faites à une maison. Comme les annexes ne sont pas mentionnées dans les dispositions relatives au remboursement et comme nous devons considérer ces dispositions comme des exceptions particulières à l'application de la TPS, je dois conclure qu'une annexe ne donnera pas droit à un remboursement, à moins qu'elle n'intègre (absorbe) un bâtiment préexistant à un tel point que l'annexe constitue essentiellement les nouveaux locaux d'habitation, et que le bâtiment préexistant, ayant cessé d'exister en tant que logement, soit essentiellement réduit à une dimension relativement mineure de ce nouveau bâtiment. Si les rénovations qui sont expressément visées par la Loi doivent être importantes au point que tout le bâtiment préexistant doit être presque refait afin d'ouvrir droit à un remboursement, les annexes, qui ne font l'objet d'aucune disposition expresse de la Loi, devraient sans doute (à supposer même qu'on en tienne compte) être encore plus importantes. Une annexe qui double la superficie par l'ajout de quelques chambres d'un côté ou de l'autre n'ouvrira pas droit à un remboursement par l'application de ces critères, même si le caractère de la résidence a été modifié au cours du processus.
+[16] Je crois que l'appelant pense à juste titre que son ajout ne peut être distingué du bungalow qui a été converti en une maison à deux étages dans l'exemple de l'énoncé de politique, et il me demande d'appliquer cet énoncé ou son esprit pour accueillir son appel. Je ne peux pas faire cela. Ajouter un double garage et doubler la surface habitable d'une maison, ce n'est rien de plus que faire une rénovation importante. La Loi n'autorise pas de remboursement à l'égard d'une rénovation, importante ou non, à moins que presque tout l'édifice ne soit refait. À mon avis, la loi ne prévoit tout simplement pas de remboursement dans le cas de l'agrandissement, même important, d'une maison. Comme nous l'avons déjà mentionné, il peut y avoir des cas où une annexe est d'une dimension si importante par rapport au bâtiment original que l'on peut à juste titre affirmer que celui-ci a été intégré dans l'annexe d'une manière qui justifie la conclusion selon laquelle le bâtiment original a effectivement cessé d'exister en tant que logement. Dans un tel cas, un nouvel édifice a été construit, et la disposition relative au remboursement s'appliquera. Ce n'est pas le cas en l'espèce. Le bâtiment original est en grande partie intact et constitue une partie importante du bâtiment après la construction. Il continue d'avoir toutes les caractéristiques d'un logement. L'annexe ne fait qu'améliorer ce logement.
+[Non souligné dans l’original.]
+[10] Comme l’a mentionné le juge Hershfield, le nouvel ajout ne pourra pas faire l’objet d’un remboursement à moins de constituer un nouvel immeuble d’habitation :
+[J]e dois conclure qu'une annexe ne donnera pas droit à un remboursement, à moins qu'elle n'intègre (absorbe) un bâtiment préexistant à un tel point que l'annexe constitue essentiellement les nouveaux locaux d'habitation, et que le bâtiment préexistant, ayant cessé d'exister en tant que logement, soit essentiellement réduit à une dimension relativement mineure de ce nouveau bâtiment.
+[11] En l’espèce, la partie préexistante de la propriété, les phases 1 et 2, jouent encore un rôle important dans l’usage de celle‑ci comme immeuble d’habitation. La cuisine se trouve encore dans l’ancienne partie, de même qu’une salle de bains et trois chambres à coucher. La salle de jeux est elle aussi située dans l’ancienne partie. À mon avis, la transformation de cette salle, où l’on pouvait regarder la télévision, en une salle où l’on peut jouer au tennis de table ne constitue pas un changement important, parce qu’il s’agit là de deux usages récréatifs. On ne peut donc pas dire que l’ancienne propriété a cessé d’être un immeuble d’habitation.
+[12] Dans ses observations, l’appelant a noté que la présente affaire ressemble beaucoup à Erickson. Je partage son avis. Malheureusement pour lui, dans Erickson, le contribuable n’a pas pu démontrer qu’il avait droit au remboursement. L’appelant a cependant souligné que la décision du juge Hershfield est antérieure au bulletin d’information sur la TPS B-092, publié en janvier 2005, et l’appelant avance l’hypothèse voulant que la décision dans Erickson aurait été différente si le bulletin avait alors déjà été publié. Toutefois, le bulletin d’information sur la TPS publié par l’ARC n’a pas force de loi. Les publications de l’ARC devraient être fondées sur la Loi et sur la jurisprudence. Il est manifeste que le juge Hershfield a examiné l’énoncé de politique qui existait en 2000, et il a présenté ses objections à la position y étant avancée quant à la transformation d’une maison de plain‑pied en une maison à deux étages. Ce sont la Loi et la jurisprudence qui décident du droit à un remboursement, et non pas une publication de l’ARC.
+[13] Si l’on veut élargir la portée du remboursement de façon à y inclure la nouvelle catégorie des ajouts majeurs – c’est à dire de rendre admissible un ajout majeur même s’il ne constitue pas essentiellement un nouvel immeuble d’habitation –, c’est le Parlement, et non pas l’ARC ou la Cour, qui doit élargir la portée du remboursement et fixer les conditions d’admissibilité en cas d’ajout majeur. Autrement, l’ajout majeur devra satisfaire aux conditions d’admissibilité existantes, à savoir la construction d’un nouvel immeuble d’habitation ou les rénovations majeures apportées à un immeuble d’habitation existant.
+[14] L’appel est rejeté, sans dépens.
+Signé à Halifax (Nouvelle‑Écosse) ce 11e jour d’avril 2008.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 29e jour de mai 2008.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2008CCI206
+Nº DU DOSSIER DE LA COUR :
+2007-4067(GST)I
+INTITULÉ :
+John W. Harrison et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Fredericton (Nouveau‑Brunswick)
+DATE DE L’AUDIENCE :
+Le 1er avril 2008
+MOTIFS DU JUGEMENT :
+L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT :
+Le 11 avril 2008
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocats de l’intimée :
+Me Martin Hickey et Me Kendrick Douglas
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Canada)

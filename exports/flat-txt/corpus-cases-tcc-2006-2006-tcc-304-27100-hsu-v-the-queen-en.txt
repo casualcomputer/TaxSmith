@@ -1,0 +1,183 @@
+Title: Hsu v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27100/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-304-27100-hsu-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-05-30
+
+# Hsu v. The Queen
+
+- Citation: 2006 TCC 304
+- Decision date: 2006-05-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 970, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hsu v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-05-30
+Neutral citation
+2006 TCC 304
+File numbers
+2005-758(GST)I
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2005-758(GST)I
+BETWEEN:
+LEWIS HSU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 19, 2006 at Toronto, Ontario
+Before: The Honourable Justice L.M. Little
+Appearances:
+Agent for the Appellant:
+Ben Yevzeroff
+Counsel for the Respondent:
+André LeBlanc
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated January 24, 2005, bearing number 05EP0202007, is allowed, without costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 30th day of May 2006.
+"L.M. Little"
+Little J.
+Citation: 2006TCC304
+Date: 20060530
+Docket: 2005-758(GST)I
+BETWEEN:
+LEWIS HSU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little J.
+A. FACTS:
+[1] This is an appeal from an assessment of Goods and Services Tax ("GST") issued under the Excise Tax Act, R.S.C. 1985, c. E-15, as amended (the "Act").
+[2] The assessment relates to the Appellant's business, a tea house called Tea Lovers On Yonge ("Tea Lovers"), located on Yonge Street in the City of Toronto for the period November 1, 2000 to December 31, 2003 (the "Period").
+[3] In the assessment, the Minister of National Revenue (the "Minister") assessed additional tax for the period under appeal in the amount of $12,469.42 consisting of adjustments to GST collectible of $13,777.94 and a credit adjustment to allow additional input tax credits ("ITCs") of $1,308.52. A penalty of $1,570.20 and interest of $666.59 were also assessed along with a section 285 penalty of $3,117.35.
+[4] In reassessing the Appellant for the additional net tax, the Minister's auditor estimated the total sales of Tea Lovers as follows:
+Year
+Estimated Total Sales
+2000 (November, December)
+$20,024.58
+2001
+79,104.02
+2002
+81,782.79
+2003
+78,436.79
+[5] By contrast, the Appellant reported the total sales of Tea Lovers on his GST returns as follows:
+Year
+Total Reported Sales
+2000 (November, December)
+$3,721.00
+2001
+15,791.00
+2002
+16,954.00
+2003
+7,874.00
+B. ISSUE:
+[6] The issue is whether the Minister properly assessed the Appellant for the total additional net tax, penalty, interest and the other penalty as stated above.
+C. DISCUSSION:
+Background Information
+[7] The Appellant was represented by his agent, Mr. Yevzeroff. Mr. Yevzeroff was retained as the Appellant's accountant in 2003 to prepare the Appellant's GST returns for the Period under appeal. When this matter was first before the Tax Court on September 1, 2005, Mr. Yevzeroff conceded that the Appellant did not keep proper books and records for the business. Mr. Yevzeroff said that the Appellant was not present at the Tea House very much because he was primarily occupied by his work as an automobile damage-estimate appraiser. Mr. Yevzeroff said that the Appellant employed a manager to take care of the day-to-day operations of Tea Lovers. According to the Appellant and his agent, the manager of the business had first-hand knowledge of the business sales and kept handwritten records in Chinese. However, the manager was not available to testify at the hearing and only one of the handwritten documents prepared by the manager was filed into evidence. Upon learning about the manager of the business and the handwritten records, Crown counsel suggested that the parties might be able to resolve the matter if a meeting with the manager and an examination of the records could be arranged. Mr. Yevzeroff agreed with Crown counsel's suggestion. Therefore, the matter was adjourned to see if the parties could reach a settlement.
+[8] A settlement could not be reached. The manager was unwilling to meet with Crown counsel during the adjournment period and the Appellant did not produce any other records. In addition, despite Crown counsel's requests, the Appellant did not provide an address for the manager so that she could be subpoenaed by the Minister. As a result of the failure to reach a settlement, the matter came back before the Court on January 19, 2006. Neither the Appellant nor the manager of the business appeared as witnesses on that date. Mr. Yevzeroff indicated that the Appellant was in China and that the manager did not wish to testify.
+[9] At the hearing on January 19, 2006, Mr. Yevzeroff proposed to call a field service officer from the Ontario Ministry of Finance, who he had subpoenaed for this hearing for the purpose of identifying documents related to provincial sales tax assessments issued against the Appellant for the same period covered by this appeal. Counsel for the Ontario Ministry of Finance, who appeared as an amicus curiae, objected to the officer being required to testify. Counsel submitted that although the officer was present, she could not be required to testify at this hearing on the basis of section 17 of the Ontario Retail Sales Tax Act, R.S.O. 1990, c. R-31. Subsections 17(2) and (3) of the Retail Sales Tax Act provide as follows:
+(2) No person employed by the Government of Ontario shall be required, in connection with any legal proceedings,
+(a) to give evidence relating to any information obtained by or on behalf of the Minister for the purposes of this Act; or
+(b) to produce any record or thing obtained by or on behalf of the Minister for the purposes of this Act.
+(3) Subsections (1) and (2) do not apply in respect of,
+(a) criminal proceedings under any Act of the Parliament of Canada;
+(b) proceedings in respect of the trial of any person for an offence under an Act of the Legislature; or
+(c) proceedings relating to the administration or enforcement of this Act or the collection or assessment of tax under this Act.
+[10] After the testimony of the field service officer I reserved my decision on section 17 of the Ontario statute until after the witness was heard. I have considered the situation further and I have concluded that the wording of the Ontario statute is clear and that the evidence of the field officer should be excluded.
+Arbitrary Assessment
+[11] Under the Act, the Minister may make an arbitrary assessment pursuant to subsection 299(1) of the Act. That provision states that the Minister is not bound by any return provided by or on behalf of any person and may make an assessment notwithstanding a return has been provided. In addition, subsection 299(3) deems the Minister's assessment to be valid and binding subject to being vacated on an objection or appeal. An arbitrary assessment is typically made when a taxpayer has failed to keep information that would enable the determination of his or her liabilities and obligations under the Act as required pursuant to subsection 286(1). While the net worth method is often used by the Minister to arbitrarily assess a taxpayer, the Minister may make an arbitrary assessment using another method.
+[12] In the case at hand, the Minister arbitrarily assessed the Appellant by estimating the sales of Tea Lovers. The auditor estimated sales by taking the total operating expenses, less non-cash expenses, divided by an industry gross profit ratio of 53.5%. The industry gross profit ratio, according to Crown counsel, was provided by Industry Canada and is specific to limited-service eating places in the Province of Ontario.
+D. ANALYSIS:
+Estimated Sales
+[13] The crux of the matter before me is the total amount of sales made by Tea Lovers for the relevant Period. The parties have agreed on the amount of ITCs and the expenses of the business. The difficulty is that the Appellant did not produce any books and records of the business that substantiate the sales. Instead, the Appellant attempted to rely on provincial sales tax assessments, his income tax filings and his banking information to attack the Minister's assessment.
+[14] Despite Mr. Yevzeroff's arguments to the contrary, in a GST appeal, the onus is on the taxpayer to refute the Minister's assessment. Bowman J. (as he then was) stated the following in 620247 Ontario Ltd. v. Canada, [1995] G.S.T.C. 22 (T.C.C.) at paragraph 6:
+In a case involving a challenge to a GST assessment the onus or proof is the same as in an income tax appeal. Where the issue is one of fact, as it is here, the appellant has the onus of establishing on a balance of probabilities that the assessment is wrong.
+Furthermore, in OrlyAutomobiles Inc. v. The Queen, 2005 FCA 425, the Federal Court of Appeal explained why the burden of proof is on the taxpayer at paragraph 20:
+We want to firmly and strongly reassert the principle that the burden of proof put on the taxpayer is not to be lightly, capriciously or casually shifted. There is a very simple and pragmatic reason going back to over 80 years ago as to why the burden is on the taxpayer: see R. v. Anderson Logging Co. (1924), [1925] S.C.R. 45 (S.C.C.), Pollock v. R. (1993), 161 N.R. 232 (Fed. C.A.), Vacation Villas of Collingwood Inc. v. R., [1996] G.S.T.C. 13 (Fed. C.A.), Anchor Pointe Energy Ltd. v. R., 2003 FCA 294 (Fed. C.A.). It is the taxpayer's business. He knows how and why it is run in a particular fashion rather than in some other ways. He knows and possesses information that the Minister does not. He has information within his reach and under his control. The taxation system is a self-reporting system. Any shifting of the taxpayer's burden to provide and to report information that he knows or controls can compromise the integrity, enforceability and, therefore, the credibility of the system. That being said, we recognize that there are instances where the shifting of the burden may be warranted.
+[15] In the present case, the question regarding the sales of Tea Lover's is one of fact and the burden of proof is properly put on the Appellant to show that the Minister's assessment is wrong. Mr. Yevzeroff argues that the Minister's assessment is wrong because the auditor overestimated the sales of the business. He noted that the Province of Ontario has assessed the Appellant for the same period using sales amounts reported by the Appellant. He suggested that since the provincial sales tax assessments corroborate the Appellant's reported sales amounts, those sales amounts should be accepted for GST purposes. Furthermore, Mr. Yevzeroff argued that the Appellant's reported sales amounts are also corroborated by the Appellant's income tax returns and banking information. Finally, Mr. Yevzeroff argued that in estimating the sales of the business, it is improper for the auditor to assume that fixed expenses such as rent are related to sales.
+[16] With regard to the provincial sales tax assessments, it would be remarkable if a taxpayer could rely on his or her unaudited provincial sales tax filings to corroborate the same amounts that the taxpayer reported on his or her GST returns. Even if the Appellant was audited and assessed by the Province of Ontario, the Minister of National Revenue is certainly not bound by assessments made by the Ontario Ministry of Finance. As for the argument that it is improper for the auditor to assume that fixed expenses are related to sales, it is up to the Appellant in challenging the Minister's assessment to present evidence which contradicts this assumption.
+[17] Although Mr. Yevzeroff's arguments are not convincing, in my opinion there is sufficient evidence to allow the Court to conclude that the auditor overestimated the sales of the business and, as a result, I have concluded that the Minister's assessment is wrong. Firstly, the Appellant's evidence was that the sales of Tea Lovers were declining so much so that the business was not generating enough sales to pay its rent. In fact, the business bank account shows that the Appellant's mother contributed to the business to help it meet its financial obligations. In spite of that financial assistance, Tea Lovers ceased operations in 2004. Secondly, the auditor's own direct observation of the business resulted in a lower estimate of sales as reflected by the auditor's working paper. According to that working paper, the maximum amount of sales for the business, including GST, was $1,068.00 per week.
+[18] As I have indicated above, because of the inadequate business record, the Minister based its assessment on the industry average to arrive at the sales and expenses. Since the evidence indicates that the business of Tea Lovers was much less than the Appellant anticipated I am not convinced that the so-called "industry standard" should be applied in this case.
+[19] The appeal is allowed without costs and the Appellant is considered to have had the following sales:
+Year
+Amount of Sales as
+Determined by Minister
+Amount of Sales As
+Determined by Court
+2000
+$20,024.58
+$5,006.14
+2001
+$79,104.02
+$27,500.00
+2002
+$81,782.79
+$27,500.00
+2003
+$78,436.79
+$13,750.00
+[20] Before closing I wish to state that the Appellant seriously damaged his chance of success by failing to testify at the hearing on January 19, 2006 and the Appellant or his agent should have called the manager of Tea Lovers to testify.
+Subsection 280(1) Penalty and Interest
+[21] Subsection 280(1) imposes an "automatic" penalty and interest on a person, where the person fails to remit or pay an amount when required. In 620247 Ontario Ltd., Bowman J. stated the following with regard to section 280:
+Where penalties are imposed under s. 280 by reason of an underpayment of tax, the respondent's onus is satisfied by establishing such underpayment and the amount thereof. Such strict, as opposed to absolute liability, penalties are susceptible of a defence of due diligence: Pillar Oilfield Projects Ltd. v. Canada, [1993] G.S.T.C. 49 (T.C.C.). The appellant has the onus of establishing due diligence.
+In the present case, the Appellant cannot be said to have demonstrated due diligence since he did not keep adequate books and records for the business. The mere reliance on his accountant to file the GST returns is not sufficient. I have concluded that the penalty and interest imposed by subsection 280(1) should be applied.
+Section 285 Penalty
+[22] Section 285 imposes a penalty on a person who "knowingly, or under circumstances amounting to gross negligence, makes or participates in, assents to or acquiesces in the making of a false statement or omission in a return ...". Where a penalty under section 285 is in issue, subsection 285.1(16) places the burden of establishing the facts justifying the assessment of the penalty on the Minister. In Venne v. Canada, [1984] C.T.C. 223 (F.C.T.D.), Strayer J. stated the following with regard to gross negligence:
+"Gross negligence" must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not.
+[23] In my opinion, the Appellant did not knowingly, or under circumstances amounting to gross negligence, make a false statement or omission in his GST returns. No evidence was adduced by the Minister to justify the assessment of this penalty. Mr. Yevzeroff prepared the Appellant's GST returns using the information that was available to him. The failure to keep adequate books and records, by itself, is not evidence of gross negligence: Urpesz v. Canada, [2001] 3 C.T.C. 2256 (T.C.C.). That case considered subsection 163(2) of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), which is parallel to section 285 of the Act.
+[24] I have therefore concluded that the penalty imposed under section 285 should not be applied.
+Costs
+[25] Finally, the Minister seeks costs against the Appellant's agent, Mr. Yevzeroff, personally. While Mr. Yevzeroff was often unreasonable during the hearing and damaged his client's cause at times, I do not believe that costs should be awarded against him in this case. In Young v. Young, [1993] 4 S.C.R. 3, McLachlin J. (as she then was) stated the following with regard to the issue of costs against counsel, at paragraph 254:
+The basic principle on which costs are awarded is as compensation for the successful party, not in order to punish a barrister. Any member of the legal profession might be subject to a compensatory order for costs if it is shown that repetitive and irrelevant material, and excessive motions and applications, characterized the proceedings in which they were involved, and that the lawyer acted in bad faith in encouraging this abuse and delay.
+In my opinion, these comments are equally applicable to an agent that acts as counsel on his client's behalf.
+[26] I am not convinced that costs should be awarded against Mr. Yevzeroff personally.
+Signed at Ottawa, Canada, this 30th day of May 2006.
+"L.M. Little"
+Little J.
+CITATION:
+2006TCC304
+COURT FILE NO.:
+2005-758(GST)I
+STYLE OF CAUSE:
+Lewis Hsu and
+Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+January 19, 2006
+REASONS FOR JUDGMENT BY:
+The Honourable Justice L.M. Little
+DATE OF JUDGMENT:
+May 30, 2006
+APPEARANCES:
+Agent for the Appellant:
+Ben Yevzeroff
+Counsel for the Respondent:
+André LeBlanc
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

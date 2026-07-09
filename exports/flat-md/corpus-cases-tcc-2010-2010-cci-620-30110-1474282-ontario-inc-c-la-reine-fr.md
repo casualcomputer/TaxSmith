@@ -1,0 +1,478 @@
+---
+title: "1474282 Ontario Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30110/index.do"
+last_modified: "2010-12-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 620"
+citation2: ""
+neutral_citation: "2010 CCI 620"
+decision_date: "2010-12-03"
+language: "fr"
+item_id: "30110"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7638
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:23:18.173000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8e7babe0e591a10914f88b48db50525ce1bb9ca0917b2b7fc11f614a5a837766"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 1474282 Ontario Inc. c. La Reine
+
+- Citation: 2010 CCI 620
+- Decision date: 2010-12-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7638, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+1474282 Ontario Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-12-03
+Référence neutre
+2010 CCI 620
+Numéro de dossier
+2008-2075(GST)G
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2008-2075(GST)G
+ENTRE :
+1474282 ONTARIO INC.,
+appelante,
+et
+SA MAJETÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu les 14, 15, 16 juin et
+10 septembre 2010, à Toronto (Ontario)
+Devant : L’honorable juge Diane Campbell
+Comparutions :
+Avocat de l’appelante :
+Me Matthew Morden
+Avocate de l’intimée :
+Me Samantha Hurst
+____________________________________________________________________
+JUGEMENT
+L’appel à l’encontre de la cotisation établie en vertu de la Loi sur la taxe d’accise relativement à l’avis de cotisation daté du 2 mars 2007 pour la période du 1er janvier 2002 au 31 décembre 2002 est accueilli, avec dépens.
+Signé à Ottawa, Canada, ce 3e jour de décembre 2010.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 24 mars 2011.
+Mario Lagacé, jurilinguiste
+Référence : 2010 CCI 620
+Date : le 3 décembre 2010
+Dossier : 2008-2075(GST)G
+ENTRE :
+1474282 ONTARIO INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Campbell
+[1] Pour la période du 1er janvier au 31 décembre 2002, l’appelante a demandé des crédits de taxe sur les intrants (les « CTI ») de 11 447, 22 $ relativement à des factures s’élevant à 174 979, 64 $. Le ministre du Revenu national (le « ministre ») a refusé les CTI et a imposé une pénalité et des intérêts. La question en litige consiste à déterminer si les CTI pour ces sommes ont été refusés à juste titre. Plus précisément, il s’agit de savoir si une facture en particulier, la facture 122, établie par M.B. Property Management (« M.B. Management ») à l’appelante, est une facture validement établie en relation avec des travaux effectués dans le cadre de la construction de deux immeubles commerciaux situés au 1547 et au 1541 rue Hurontario, à Mississauga (le « projet Hurontario »). Le ministre a refusé la demande de CTI de l’appelante relativement à la facture 122 au motif qu’il ne s’agissait pas d’une facture valide et que les services n’ont pas été obtenus dans le cadre des activités commerciales de l’appelante en rapport avec le projet Hurontario. Le ministre a plutôt soutenu que la facture 122 était composée de quatre autres factures – soit les factures 105, 111, 113 et 116 – qui avaient été établies relativement à un projet de rénovation domiciliaire de Rajinder Chawla, l’administrateur de l’appelante, situé au 1143, chemin Mississauga, (le « projet domiciliaire »). Selon le ministre, l’appelante a donné instruction à M.B. Management, une entreprise à propriétaire unique exploitée par Carmelo Boscarino, laquelle participait aux deux projets, d’annuler ces quatre factures et d’envoyer la facture 122 en remplacement, avec la description des services rendus relativement au projet Hurontario plutôt qu’en relation avec le projet domiciliaire. En conséquence, le ministre soutient que les services n’ont pas été rendus à l’appelante et qu’elle ne peut donc pas obtenir les CTI.
+[2] Les hypothèses de faits sur lesquelles le ministre s’est appuyé sont énoncées aux paragraphes 10(a) à 10(i) de la réponse à l’avis d’appel :
+[traduction]
+a) l’appelante est une inscrite aux fins de la TPS et son numéro d’inscription au registre de la TPS est le 87707 8816 RT0001;
+b) l’appelante est une société de portefeuille détenant deux immeubles commerciaux situés au 1547 et au 1541, rue Hurontario, à Mississauga, Ontario (les « immeubles commerciaux »);
+c) l’appelante est un déclarant annuel aux fins de la TPS;
+d) au cours de la période, l’appelante a retenu les services de M.B. Property Management (« M.B. Property ») à titre d’entrepreneur en relation avec ses immeubles commerciaux;
+M. Rajinder Chawla
+e) Monsieur Rajinder Chawla (« M. Chawla ») est l’administrateur de l’appelante;
+f) au cours de la période, M. Chawla a fait effectuer des rénovations à sa résidence personnelle située au 1143 ch. Mississauga (la « résidence »);
+g) M. Chawla a retenu les services de M.B. Property pour réaliser certaines des rénovations à sa résidence;
+h) M.B. Property a reçu instruction d’annuler quatre anciennes factures envoyées à M. Chawla concernant des travaux effectués à sa résidence au cours de la période, lesquelles s’élevaient à 174 979,64 $, TPS de 11 447, 22 $ incluse;
+i) M.B. Property a reçu instruction d’envoyer à l’appelante une fausse facture s’élevant à 174 979, 64 $, TPS de 11 447, 22 $ incluse, en dépit du fait que ces sommes ont été facturées en relation avec des travaux exécutés à la résidence de M. Chawla plutôt qu’aux immeubles commerciaux.
+[3] À l’ouverture de l’audience, les parties ont déposé un exposé conjoint des faits joint à mes motifs à l’Annexe « A ».
+[4] L’affaire a été soumise à la Cour à la suite de deux vérifications. Au cours de la première, les CTI ont été accordés à l’égard de la facture 122. Par la suite, au cours d’une vérification des activités de l’entrepreneur de construction, M.B. Management, M. Boscarino a soutenu que l’appelante lui avait donné instruction de facturer à nouveau certaines sommes concernant des travaux relatifs au projet domiciliaire et de réexpédier ces factures au projet Hurontario.
+[5] La demande de l’appelante était fondée sur le témoignage de M. Virander « Ravi » Chawla. Il supervisait ces deux projets pour le compte de la société appelante et de son frère, M. Rajinder « Raj » Chawla. Raj Chawla est le président, administrateur et actionnaire unique de l’appelante. L’intimée s’est appuyée sur le témoignage de Carmelo Boscarino, le gérant et actionnaire de M.B. Management et de M.B. Interlink Limited (« M.B. Interlink »), ainsi que sur le témoignage du vérificateur de l’Agence du revenu du Canada (« ARC »), M. Frank Ehrentraud. M.B. Interlink est une autre entreprise de construction exploitée par M. Boscarino.
+[6] Le pourvoi devant la présente Cour résulte des relations controversées que les parties ont entretenues sur une longue période, dont un litige qui a mené à la conclusion d’une entente de règlement intervenue devant la Cour supérieure de justice de l’Ontario. En raison de l’animosité engendrée dans ce contexte et de la quantité de dossiers extrêmement incomplets et peu fiables produits autant par une partie que par l’autre, je garde l’impression très nette que toute l’histoire ne sera peut-être jamais révélée, mais je dois faire la part des choses ainsi que démêler ce « fatras » de documents et de témoignages oraux contradictoires de façon à produire des motifs cohérents.
+[7] Comme l’appelante n’était pas constituée le 26 avril 2001, Le Niagara Commodities Corporation (« Le Niagara »), une autre société dont le seul actionnaire est Raj Chawla, a conclu une entente avec M.B. Interlink et Carmelo Boscarino. Aux termes de cette entente, M.B. Interlink et M. Boscarino ont convenu de construire les immeubles commerciaux dans le cadre du projet Hurontario. Le frère de Raj Chawla, Ravi, était responsable de l’ensemble du projet et traitait avec M. Boscarino de tous les aspects financiers.
+[8] La société appelante a été constituée le 27 avril 2001, le lendemain de la date de cette entente, dans le but d’exploiter les immeubles du projet Hurontario et de les louer éventuellement. L’appelante n’est pas partie à cette entente et ne l’a jamais été, bien que Ravi Chawla a déclaré dans son témoignage que l’entente avait été conclue au bénéfice de l’appelante. La preuve n’étaye pas que l’appelante ait à un moment quelconque ratifié l’entente par écrit, ni ne permet de le penser. L’appelante est cependant devenue propriétaire en droit des immeubles commerciaux de Hurontario le 16 mai 2001, et elle l’est encore à ce jour.
+[9] Plusieurs mois plus tard, M. Boscarino a également accepté de surveiller les rénovations effectuées à la résidence personnelle de Raj Chawla. Le projet domiciliaire était régi par une entente intervenue le 3 octobre 2001. Encore là, Ravi Chawla a supervisé ce projet pour le compte de son frère. Les services de Graydel Limited ont été retenus comme sous-entrepreneur en vue de l’exécution de la presque totalité des rénovations domiciliaires. Il ressort cependant de la preuve que M. Boscarino a réalisé une partie des travaux du sous-entrepreneur dans le cadre du projet domiciliaire. L’évaluation des coûts des rénovations domiciliaires s’élevait à 585 000 $. Ravi Chawla a déclaré dans son témoignage que M. Boscarino avait réclamé des paiements avant l’envoi de factures, mais qu’il n’avait pas reçu de factures pour la totalité des paiements faits en argent comptant. Selon M. Chawla, M. Boscarino a envoyé les factures lorsque le projet domiciliaire fut achevé.
+[10] M.B. Management soumettait des factures rédigées sur son papier à lettres dans le cadre des deux projets. Les factures étaient adressées à l’appelante et portaient en sous-titre la mention « Re‑Le Niagara Commodities Corporation ». La plupart de ces factures étaient expédiées à l’attention de Ravi Chawla.
+[11] L’entente concernant le projet Hurontario comportait un calendrier de paiements, mais les parties ont cessé de s’y conformer, après le premier versement, et c’est l’appelante qui a par la suite versé ces paiements, plutôt que Le Niagara. En réalité, ce n’est pas Le Niagara qui a effectué le premier versement de 270 000 $, en mai 2001, mais bien Fritz Marketing Inc., une autre des personnes morales de Raj Chawla. M. Boscarino a déclaré que Ravi Chawla lui a dit, au début du cycle de facturation, qu’il devait expédier les factures à l’appelante et non pas à Le Niagara. M. Boscarino a confirmé que les modalités de paiement auxquelles les parties se sont conformées étaient différentes de celles prévues au calendrier de paiements figurant dans l’entente.
+[12] Jusqu’au printemps de 2002, soit Raj Chawla et son frère ignoraient l’importance d’une tenue exacte des registres pour ces projets, soit qu’ils l’avaient oubliée. Lorsque le comptable a informé Raj Chawla, registres à l’appui, que certains crédits pouvaient être réclamés à l’égard du projet Hurontario, des factures à l’appui de paiements déjà versés par l’appelante ont été demandées à M. Boscarino. Ravi Chawla a dit lors de son témoignage que, lorsque les travaux du projet Hurontario ont commencé, M. Boscarino a exigé d’être payé et que, bien que ces paiements aient été faits, des factures n’ont initialement pas été demandées ni obtenues à l’appui de ces versements. M. Chawla a déclaré que, lorsqu’il a demandé à M. Boscarino d’envoyer des factures, ce dernier les a préparées et adressées à l’appelante, et les a transmises en lots en janvier, avril et mai de 2002. Selon M. Chawla, la réception de factures n’a que très peu contribué à clarifier la tenue des livres qui était déjà désordonnée. De nombreuses factures ne couvraient pas des paiements déjà faits. M. Chawla a dit lors de son témoignage qu’il avait eu de la difficulté à se retrouver dans ce fouillis de papiers et à faire concorder les factures et les versements. Il a déclaré que, lorsqu’il a reçu les livres au printemps de 2002 avant de les transmettre au comptable, il avait examiné tous les paiements versés par l’appelante et qu’il les avait tous vérifiés à partir des livres de l’appelante, y compris ses relevés de compte bancaire. Lors de son examen, il a découvert que l’appelante avait fait trois versements distincts pour lesquels il n’y avait toujours pas de factures justificatives. Ces trois versements avaient été faits sous forme d’une traite bancaire, datée du 10 octobre 2001, d’une somme de 107 000 $ payable à M. Boscarino; d’un mandat, daté du 8 février 2002, d’une somme de 35 000 $ payable à M. Boscarino et d’un autre mandat non daté d’une somme de 32 979,64 $ payable à M. Boscarino. Ces trois versements ont pu être retracés à partir des relevés bancaires de l’appelante. Dans son témoignage, M. Chawla dit qu’il a donné instruction à M. Boscarino d’envoyer une facture couvrant ces trois versements. À ce stade, les versions divergent. M. Boscarino a envoyé la facture à l’égard de laquelle le présent pourvoi porte presque en totalité– soit la facture 122. Il déclare toutefois dans son témoignage qu’il a envoyé cette facture suivant une directive de Ravi Chawla afin de permettre à l’appelante de réclamer des CTI auxquels elle n’aurait pas droit autrement. En deux mots, selon M. Boscarino, la facture 122 a été fabriquée conformément aux directives de Ravi Chawla, pour le compte de l’appelante, et elle a été transmise dans la cadre du projet Hurontario, alors qu’en réalité, la facture 122 remplaçait quatre autres factures – les factures 105, 111, 113 et 116 – qui concernaient des travaux relatifs au projet domiciliaire. M. Boscarino a dit que les factures 105, 111 et 113 concernaient des sommes versées en liquide, alors que la facture 116 a été payée par chèque.
+[13] Les relations entre les parties se sont détériorées et M. Boscarino n’a pas complété le projet Hurontario. Leur situation a fini par être réglée dans le cadre d’un litige.
+[14] Dans son témoignage, le vérificateur a dit que, lors de sa seconde vérification, il s’était appuyé sur des déclarations faites par M. Boscarino, selon lesquelles l’appelante n’avait pas réclamé à juste titre des CTI parce que M. Boscarino avait reçu instruction d’envoyer à nouveau un certain nombre de factures ayant trait à des travaux réalisés dans le cadre du projet domiciliaire et de remplacer ces factures par la facture 122, datée du 16 mai 2002, maintenant établie en relation avec le projet Hurontario.
+Position de l’appelante
+[15] L’appelante n’a payé aucun des coûts associés au projet domiciliaire. Raj Chawla a personnellement acquitté les coûts de rénovation domiciliaire par l’entremise de son frère Ravi qui surveillait le projet. Une fois le projet Hurontario lancé, des paiements progressifs étaient versés lorsque M. Boscarino les exigeait, sans toutefois que l’appelante obtienne de factures justificatives. Après que l’appelante eût demandé ces factures et qu’elles furent éventuellement transmises, un numéro ne correspondait pas aux paiements versés, selon les relevés de l’appelante, et de nouvelles factures justificatives ont été demandées. L’appelant n’a uniquement réclamé les CTI qu’à l’égard des factures qui avaient été payées parce qu’elle avait acquis la fourniture, soit les services de construction en tant que propriétaire du projet Hurontario. Le contrat intervenu entre Le Niagara et M. Boscarino pour la construction d’immeubles dans le cadre de ce projet a été assumé par l’appelante et, en conséquence, toutes les factures lui ont été adressées et l’appelante les a payées. La Taxe sur les produits et services (« TPS ») était donc payable par l’appelante. Plus particulièrement, la facture 122 a été envoyée par M.B. Management à l’appelante pour des travaux exécutés dans le cadre du projet Hurontario et non en relation avec le projet domiciliaire. Cette facture couvrait trois montants de 107 000 $, de 35 000 $ et de 32 979,64 $ qui avaient été payés à M. Boscarino, sans que des factures à l’appui en soient cependant fournies. L’appelant a donc acquis la fourniture pour consommation dans le cadre de ses activités commerciales. M. Chawla a déclaré fausse l’histoire de M. Boscarino, selon laquelle la facture 122 était une refacturation d’autres factures envoyées pour l’exécution de travaux réalisés dans le cadre du projet domiciliaire.
+Position de l’intimée
+[16] La facture 122 était une facture d’« accommodement », transmise à la demande de Ravi Chawla pour permettre à l’appelante de réclamer des CTI auxquels elle n’avait pas droit. L’appelante n’était pas l’acquéreur de la fourniture décrite dans la facture 122, étant donné qu’elle n’a pas bénéficié des services rendus. Les services à l’égard desquels les CTI sont réclamés ont plutôt été rendus à la résidence personnelle de Raj Chawla. La défenderesse s’est appuyée sur les déclarations de M. Boscarino, suivant lesquelles M.B. Management lui avait donné instruction d’annuler quatre factures antérieures s’élevant à 174 979,64 $, TPS incluse, qui avaient été envoyées en relation avec des travaux de rénovation de la résidence et de les remplacer par une fausse facture - la facture 122 – d’un même montant pour le projet commercial connu sous le nom du projet Hurontario. Cette façon de faire a permis à l’appelante de réclamer à tort des CTI s’élevant à 11 447,22 $ en relation avec la facture 122.
+Analyse :
+[17] La première question que je dois trancher est celle de savoir, en appréciant le témoignage des témoins, plus particulièrement ceux de M. Chawla et de M. Boscarino, ainsi que les éléments de la preuve documentaire, aussi incomplète et insatisfaisante qu’elle fût, si la facture 122 était, comme le soutient l’intimée, une facture d’accommodement ou si elle avait été transmise à bon escient en relation avec des travaux exécutés dans la cadre du projet Hurontario. Si je décide que cette facture n’avait aucun lien avec des travaux relatifs au projet Hurontario, mais qu’elle en avait plutôt avec le projet domiciliaire, cette conclusion met fin à mon analyse et tranche l’appel. Par ailleurs, si je retiens l’argument de l’appelante sur ce point, je dois alors examiner la question de savoir si l’appelante était l’acquéreur des services de construction, et donc en droit de réclamer des CTI en relation avec le projet Hurontario.
+[18] Ni les dossiers de M. Chawla ni ceux de M. Boscarino ne sont totalement fiables. De nombreuses factures n’ont pas été faites au moment même de la fin de différentes phases des travaux ou lors des versements. M. Chawla reconnaît avoir donné instruction d’établir à nouveau certaines factures avec lesquelles il n’était pas d’accord. La preuve démontre que M. Boscarino a transmis de nombreuses factures qui portaient les mêmes numéros d’identification, mais qui indiquaient des dates et des versements différents. Le paragraphe 14 de l’exposé conjoint des faits dresse la liste des factures expédiées par M. Boscarino, mais les numéros de ces factures ne suivent pas un ordre séquentiel lorsqu’on les compare aux dates y figurant. Le même numéro de facture renvoie quelques fois à des dates et à des montants totalement différents.
+[19] La question de déterminer si la facture 122 est une facture fabriquée qui a été créée et réadressée au projet commercial pour permettre à l’appelante de réclamer des CTI est une question de fait. Il appartient à l’appelante d’établir le bien-fondé de sa cause ou de démolir les présomptions de fait formulées par le ministre.
+Au paragraphe 15 de la décision Amiante Spec Inc. c. la Reine, [2009] A.C.F. no 603, la juge Trudel cite la décision rendue par la Cour suprême du Canada dans l’arrêt Hickman Motors Ltd. c. Sa Majesté la Reine (1997), [1997] 2 R.C.S. 336, et ajoute :
+[…] la charge initiale de démolir les présomptions exactes formulées par celui-ci est imposée au contribuable. Ce dernier s'acquitte de ce fardeau initial lorsqu'il présente au moins une preuve prima facie démolissant l'exactitude des présomptions formulées dans la cotisation. Enfin, lorsque le contribuable s'est déchargé de son fardeau initial, le fardeau de la preuve passe au ministre qui doit alors réfuter la preuve prima facie faite par celui-là et prouver les présomptions (Hickman, supra aux paragraphes 92-93-94).
+[20] Alors donc, quels sont les éléments de preuve qui m’ont été présentés pour étayer la thèse selon laquelle la facture 122 a été établie en relation avec des travaux réalisés dans le cadre du projet Hurontario? M. Chawla a témoigné qu’il n’avait jamais donné instruction à M. Boscarino d’annuler quatre factures concernant le projet domiciliaire et de les remplacer par la facture 122. Malgré l’état incomplet de ses dossiers concernant le projet domiciliaire, il a soutenu que la tenue de la comptabilité y relative avait été faite de façon informelle parce qu’elle n’était destinée qu’à lui et son frère, Raj Chawla, alors propriétaire de la résidence. Il a soutenu que son frère avait fait, et que lui-même avait remis, un plus grand nombre de versements d’argent comptant à M. Boscarino en relation avec le projet domiciliaire que ceux figurant sur les factures. En ce qui concerne le projet Hurontario, il a également dit qu’il pouvait retracer les paiements versés au moyen des relevés bancaires de l’appelante. Il a déclaré que, lorsque M. Boscarino avait éventuellement rendu les factures disponibles, leur nombre n’arrivait pas à couvrir tous les paiements que l’appelante avait versés en relation avec ce projet. En fait, M. Chawla soutient que l’envoi des factures de rénovation domiciliaire n’a pas eu lieu avant que ce projet soit à toutes fins utiles terminé, à une date postérieure, donc, à celle à laquelle M. Boscarino a déclaré dans son témoignage avoir annulé quatre factures et établi la facture 122. Cela ne serait pas surprenant, étant donné que la plupart des factures n’ont pas été faites au même moment que la fin des phases des travaux ou le versement des paiements.
+[21] M. Boscarino a déclaré qu’il avait préparé des factures pour le projet Hurontario en s’appuyant sur des rapports périodiques de l’architecte et qu’il les avait transmises par la suite à l’appelante dans les jours qui ont suivi chacun des rapports. Il n’y a toutefois pas de corrélation entre ce témoignage et les nombreuses factures portant le même numéro, sur lesquelles figurent toutefois des montants qui varient et des dates qui diffèrent. En outre, la pièce R-2 qui a été préparée, selon M. Boscarino, dans le but d’établir une comptabilité de tous les paiements versés et de toutes les dépenses engagées en relation avec le projet Hurontario, contient un certain nombre de factures portant la mention « payé » estampillée en bas de page. Dans son témoignage, M. Boscarino a déclaré que ces factures avaient été estampillées dans les jours suivants leur paiement. Il est cependant encore une fois flagrant que les numéros de factures ne se suivent pas et que leur résumé n’explique pas le fait que, si elles avaient été envoyées à l’appelante à des dates très rapprochées de celles figurant à leur face même, pourquoi alors M. Boscarino avait-il transmis de nombreuses factures portant le même numéro dont les montants, ainsi que les dates, sont à l’occasion différents? Je n’ai jamais reçu d’explication crédible à cette question. Il m’est impossible d’accorder la moindre valeur à la lettre du comptable décrivant le résumé de la facturation de M. Boscarino, car elle a été préparée après les faits, en février 2004, et elle ne s’appuyait, semble-t-il, que sur des informations fournies par M. Boscarino.
+[22] La pièce R-3 contient une liste manuscrite de versements faits à M. Boscarino concernant le projet Hurontario. Le premier versement concerne un chèque totalisant 17 663,40 $ de TPS, lequel fait référence à une somme de 270 000 $, déposée le 2 mai 2001. Lorsqu’il a expliqué pourquoi une facture n’avait pas été envoyée avant le mois d’octobre 2001 alors qu’il avait reçu ce versement en mai 2001, M. Boscarino a déclaré que c’était en raison d’un différend portant sur la question de savoir si la TPS était incluse, ou si elle devait être ajoutée au montant du dépôt de 270 000 $. J’ai encore une fois l’impression que le document qui fait partie de la pièce R-3 n’a pas été établi au moment de la survenance de ces événements, comme on le prétend. Soit le document est une compilation contemporaine aux versements et ainsi donc il n’y avait aucun différend quant à la TPS comme le soutient M. Boscarino, ou le différend existait vraiment et, en conséquence, ce document était une reconstitution des versements établie à une date ultérieure.
+[23] Je conclus que ce document, et j’insiste, est une reconstitution. Cette conclusion est renforcée par les dates inscrites dans la colonne de gauche de cette pièce, lesquelles n’apparaissent pas en ordre chronologique comme on pourrait s’y attendre si le document avait été établi au même moment, au fur et à mesure que les événements se déroulaient.
+[24] La pièce R-4 contenait des factures, des notes manuscrites et le résumé d’une note d’information concernant le projet résidentiel. À la page 7 de la note manuscrite portant la mention [traduction] « écrit par Ravi Chawla » figure une annotation en bas de page qui se lit ainsi :
+[traduction]
+PAIEMENT PROGRESSIF # 1 = 100 000,00 + TPS
+107 000, 00 $
+Lors de son témoignage, M. Boscarino a déclaré à un moment qu’il avait écrit cette annotation en bas de page et qu’elle avait été attestée par la signature de Ravi Chawla figurant sous l’annotation; la date du 3 octobre 2001 figure également sous cette signature. On trouve cependant aussi la même note manuscrite de Ravi Chawla à la pièce A-1, onglet 86, page 152, et elle contient les mêmes informations concernant des allocations, avec sa signature et la date du 3 octobre 2001 également, mais sans l’annotation manuscrite mentionnée précédemment. En contre-interrogatoire, les propos suivants ont été échangés entre M. Boscarino et l’avocat de l’appelante en ce qui a trait à l’absence de la note manuscrite :
+[traduction]
+Q. M. Boscarino, je veux que vous consultiez l’onglet 86 du gros volume, s’il vous plaît. J’aimerais que vous alliez à la page trois. Reconnaissez-vous que ce document est assez semblable à celui auquel nous nous en remettions à l’instant?
+R. Oui.
+Q. Il ne comporte pas d’annotation concernant le paiement progressif de 107 000 $ .
+R. Exact.
+Q. La signature a été apposée le 3 octobre 2001.
+R. Oui.
+Q. M. Boscarino, je vais vous suggérer que vous avez ajouté l’annotation « paiement progressif 107 000 $ » quelque temps après.
+R. Oui.
+Q. Alors, la signature de M. Chawla n’a rien à voir avec ce paiement.
+R. Non.
+Q. Vous nous avez déclaré précédemment que cette signature constituait une attestation de ce paiement, ce qui n’est pas le cas.
+R. Exact.
+(Transcription, page 275, lignes 1 à 23)
+[25] Je conclus que M. Boscarino a ajouté cette annotation à celle de M. Chawla, datée du 3 octobre 2001, au dessus de la signature de ce dernier, un certain temps après cette date, avec l’intention de tromper.
+[26] La pièce R-7 contenait une liste de versements et de sommes déposées (semblable à la liste concernant le projet Hurontario figurant à la pièce R-3) en relation avec le projet domiciliaire, accompagnée de relevés de la marge de crédit de M. Boscarino et d’une page de notes manuscrites. Il m’est à nouveau difficile d’accorder beaucoup de poids à l’égard des informations qui figurent dans ces documents parce que je doute qu’ils aient été rédigés au même moment en raison du fait que de nombreuses dates figurant sur la première page de la liste sommaire ne sont pas en ordre chronologique comme on pourrait s’y attendre. En outre, ce résumé est incomplet et n’indique pas les versements en argent comptant qui ont été faits en relation avec ce projet.
+[27] Lors de son témoignage, le vérificateur a déclaré que M. Boscarino lui a en premier lieu dit que M. Chawla lui avait demandé d’établir à nouveau les factures 111, 113 et 116 et de les remplacer par une autre, la facture 122. La facture 105 n’a pas été mentionnée et la preuve présentée demeure nébuleuse sur la façon précise dont elle a été intégrée dans la vérification. C’est ce qui ressort de la pièce A-2, onglet 8, soit un mémo au dossier rédigé par le vérificateur, lors de la vérification, après une discussion avec M. Boscarino, où il était question du fait que la facture 105 n’était pas visée comme une des factures qui avaient été remplacées par la facture 122. En ne tenant pas compte de la facture 105, les factures 111, 113 et 116 s’élevaient à 181 590 $ , et non à 174 979,64 $, le montant de la facture 122. Lors de son interrogatoire principal, M. Boscarino a en premier lieu déclaré que la facture 122 était composée des factures 105, 113 et 116, s’élevant à 170 389,64 $. Après avoir réexaminé les calculs du vérificateur, M. Boscarino a par la suite modifié son témoignage et s’est souvenu d’un paiement partiel, ou tel que l’a qualifié M. Boscarino, un « paiement minime », de 4 590 $ qui avait été ajouté, en relation avec la facture 111, au total des factures 105, 113 et 116, pour s’élever au montant total équivalent à celui de la facture 122.
+[28] Selon M. Boscarino, pour se conformer aux directives d’annulation de factures, il s’est appuyé sur une note écrite par Ravi Chawla sur un bloc-notes de Fritz Marketing Inc. (pièce A-1, onglet 104, page 188), où figurent trois montants de 107 000 $, de 35 000 $ et de 32 979,64 $ et en regard desquels figurent également les dates du 10 octobre, du 8 février et du 15 mars respectivement. À sa face même, cette note manuscrite ne renvoie cependant à aucun numéro de facture, ni au projet domiciliaire. En outre, seulement trois montants y figurent, et non quatre montants provenant de quatre factures. Sauf en ce qui concerne le témoignage de M. Boscarino, la preuve documentaire ne permet pas de conclure qu’un soi-disant paiement minime a été versé pour acquitter une quatrième facture, et en l’absence du paiement en question, les autres factures ne s’élèvent pas au même montant que la facture 122. Lorsque j’examine l’explication de M. Chawla sur cette note, elle me semble plus compatible avec ce qui s’est probablement produit. Jusqu’au mois de mai 2002, ces parties se sont fait des versements sans qu’aucune d’entre elles fasse d’efforts pour s’assurer d’établir la documentation au soutien de ces versements. Lorsque le comptable de M. Chawla a formulé des recommandations relatives à l’obligation de tenir des registres pour le projet commercial, M. Chawla a revu les relevés bancaires concernant les versements faits dans le cadre du projet Hurontario. Il a découvert les trois versements faits, les a consignés dans une liste sur le bloc-notes de Fritz Marketing Inc. et a demandé l’envoi d’une facture à l’appui. Ces trois versements sont constatés par les relevés bancaires de l’appelante, lesquels ont également permis de les retracer [« compte de dépôt Programme Assistance Mérite », de la Banque de Montréal du 10 octobre 2001 (pièce A-1, onglet 58), du 8 février 2002 (pièce A-1, onglet 67) et du 13 mars 2002 (pièce A-2, onglet 68)]. Cette note qui renvoie en réalité au projet Hurontario est plus conforme au témoignage rendu par M. Chawla ainsi qu’à la preuve documentaire qu’elle ne l’est avec le témoignage de M. Boscarino.
+[29] De plus, selon M. Chawla, la somme de 107 000 $ a été payée en octobre 2001. Selon les documents, au début du mois d’octobre 2001, la marge de crédit de M. Boscarino indiquait un solde impayé d’environ 107 000 $ . À ce moment, les travaux du projet domiciliaire n’étaient pas encore commencés. À la même époque, M. Boscarino avait cependant exécuté des travaux préliminaires dans le cadre du projet Hurontario dans les mois précédant le mois d’octobre 2001. Il s’agit là d’un autre élément qui étaye la thèse selon laquelle, comme l’a indiqué M. Chawla dans son témoignage, ce montant constituait une dépense engagée par l’appelante en relation avec le projet commercial. Le paiement de la facture 116 confirme également l’explication de M. Chawla quant à ces factures. Cette facture, datée
+du 16 janvier 2002, a été acquittée le 12 décembre 2001 au moyen d’un chèque personnel de V. (Raj) Chawla et de sa conjointe, N. Chawla (pièce A-2, onglet 9). La facture fait référence au projet domiciliaire et comporte une annotation manuscrite en bas de page :
+Payée
+Chèque #137 daté du 12 Déc. 2001
+(pièce A-1, onglet 92)
+Cela montre qu’en réalité la facture 116 a été acquittée dans le cadre du projet domiciliaire et que le versement a été tiré du compte personnel des Chawla. En outre, cela étaye encore plus l’habitude des parties de faire des versements (le 12 décembre 2001) et de se soucier ultérieurement des documents les constatant (facture datée du 16 janvier 2002.).
+[30] Pour ces motifs, je conclus que la facture 122 a été faite comme il se doit en relation avec des versements qui avaient été faits par l’appelante, et cela pour des travaux qui avaient été exécutés dans le cadre du projet Hurontario.
+[31] La question suivante à trancher est de savoir si l’appelante est en bon droit de réclamer les CTI tels qu’ils figurent à la facture 122 concernant le projet Hurontario. Le paragraphe 169(1) de la Loi sur la taxe d’accise la « Loi ») édicte les conditions qu’un contribuable doit remplir pour obtenir des CTI. Cette disposition est rédigée comme suit :
+169. (1) Règle générale - Crédit de taxe sur les intrants - Sous réserve des autres dispositions de la présente partie, un crédit de taxe sur les intrants d’une personne, pour sa période de déclaration au cours de laquelle elle est un inscrit, relativement à un bien ou à un service qu’elle acquiert, importe ou transfère dans une province participante, correspond au résultat du calcul suivant si, au cours de cette période, la taxe relative à la fourniture, à l’importation ou au transfert devient payable par la personne ou est payée par elle sans qu’elle soit devenue payable :
+A × B
+où :
+A représente la taxe relative à la fourniture, à l’importation ou au transfert, selon le cas, qui, au cours de la période de déclaration, devient payable par la personne ou est payée par elle sans qu’elle soit devenue payable;
+B :
+a) dans le cas où la taxe est réputée, par le paragraphe 202(4), avoir été payée relativement au bien le dernier jour d’une année d’imposition de la personne, le pourcentage que représente l’utilisation que la personne faisait du bien dans le cadre de ses activités commerciales au cours de cette année par rapport à l’utilisation totale qu’elle en faisait alors dans le cadre de ses activités commerciales et de ses entreprises;
+b) dans le cas où le bien ou le service est acquis, importé ou transféré dans la province, selon le cas, par la personne pour utilisation dans le cadre d’améliorations apportées à une de ses immobilisations, le pourcentage qui représente la mesure dans laquelle la personne utilisait l’immobilisation dans le cadre de ses activités commerciales immédiatement après sa dernière acquisition ou importation de tout ou partie de l’immobilisation;
+c) dans les autres cas, le pourcentage qui représente la mesure dans laquelle la personne a acquis ou importé le bien ou le service, ou l’a transféré dans la province, selon le cas, pour consommation, utilisation ou fourniture dans le cadre de ses activités commerciales.
+[32] Au paragraphe 30 de la décision General Motors du Canada Ltée c. Sa Majesté la Reine, 2008 CCI 117, [2008] A.C.I. no 80, j’ai indiqué les trois conditions qui doivent être remplies à l’égard du paragraphe 169(1) :
+[30] Pour que GMCL ait le droit de demander un CTI, conformément au paragraphe 169(1), à l'égard de la TPS dont elle est redevable sur réception des services de gestion de placements, trois conditions doivent être remplies :
+(1) La personne qui fait la demande (GMCL) doit avoir acquis la fourniture (les services de gestion de placements);
+(2) La TPS doit être payable ou avoir été payée par la personne qui fait la demande (GMCL) à l'égard de la fourniture (les services de gestion de placements);
+(3) La personne qui fait la demande (GMCL) doit avoir acquis la fourniture (les services de gestion de placements) pour consommation ou utilisation dans le cadre de ses activités commerciales.
+[33] L’appelante a fait valoir qu’elle remplissait les conditions prévues au paragraphe 169(1) parce qu’elle a acquis la fourniture, la TPS était payable et a été payée par l’appelante et la fourniture de services de construction dans le cadre du projet Hurontario a été acquise pour consommation ou utilisation dans le cadre de ses activités commerciales. La position de l’intimée est que l’appelante n’était pas l’acquéreur de la fourniture décrite dans la facture 122 parce qu’elle n’était pas partie au contrat de services intervenu dans le cadre du projet Hurontario. Les parties à ce contrat étaient Le Niagara et M.B. Interlink, de même que M. Boscarino.
+[34] Même si l’appelante n’a jamais formellement ratifié le contrat par écrit, en ce qui a trait au projet Hurontario, ses agissements et sa conduite, ainsi que les agissements et la conduite des parties au contrat, démontrent qu’il était de l’intention de toutes les parties que l’appelante soit liée par les conditions de ce contrat.
+[35] Le 16 mai 2001, l’appelante a acheté le terrain sur lequel le projet Hurontario devait être construit et a obtenu de la municipalité les approbations nécessaires pour le développement. M. Boscarino a présenté des factures à l’égard de ce projet sur du papier à lettres avec entête de M.B. Management. Les factures ont été rédigées en premier lieu à l’attention de l’appelante, et elles ont été adressées premièrement à l’appelante et, deuxièmement, à Le Niagara de la façon suivante : « Re‑Le Niagara ». Ceci laisse entendre que la facture était principalement destinée à l’attention de l’appelante. Cette dernière a payé ces factures et, lorsque Fritz Marketing Inc., une autre des sociétés de Raj Chawla, a payé des factures de temps à autre, M. Chawla a déclaré dans son témoignage que l’appelante avait remboursé Fritz Marketing Inc. Il ressort de la preuve que c’était l’appelante, et non Le Niagara, qui était très intimement associée à la mise en œuvre des modalités de cette convention, et cela comprenait le contrôle des transactions avec M. Boscarino. En réalité, l’ensemble des parties concernées, et particulièrement M. Boscarino et ses sociétés liées, traitaient l’appelante comme une partie à la convention. Le rapport de vérification judiciaire du vérificateur, préparé par Grant, Thornton, quant à M.B. Interlink, décrit l’appelante comme étant une partie au contrat et, au chapitre préliminaire de l’Introduction et du contexte, il y est déclaré ce qui suit :
+[traduction]
+En avril 2001, 1474282 Ontario Inc., par l’intermédiaire de Le Niagara Commodities Corporation, a conclu une convention avec M.B. Interlink Limited et M. Carmelo Boscarino en vue de construire deux immeubles situés au 1541 et 1547 Hurontario Street, à Mississauga, Ontario.
+(Non souligné dans l’original.)
+[36] Il est également fort révélateur que les hypothèses, sur lesquelles on s’est fondé dans la réponse à l’avis d’appel, décrivent aussi l’appelante comme une partie à la convention notamment au paragraphe 10 (d) où il est déclaré ce qui suit :
+[traduction]
+d) durant cette période, l’appelante a utilisé les services de M.B. Property Management (« M.B. Property ») en tant qu’entrepreneur en ce qui concerne ses propriétés commerciales;
+(Non souligné dans l’original.)
+[37] Avec un tel arrangement existant entre les parties et l’intention voulant que l’appelante participe à ce contrat et y soit traitée comme une partie quant au projet Hurontario, le fournisseur ou le sous-entrepreneur dans la position d’exiger le paiement de son dû se serait préoccupé de l’appelante, entre autres, dans l’exercice de ses droits ou la résolution de litiges.
+[38] En ce qui concerne le respect de la première condition prévue au paragraphe 169(1) de la Loi, je conclus que l’appelante a acquis les services et les fournitures en cause en tant que propriétaire en droit du projet Hurontario ayant effectué tous les versements liés à ce projet.
+[39] Le paragraphe 169(1) exige également que l’appelante ait payé la TPS en ce qui a trait à la fourniture ou que la TPS soit payable par l’appelante. La preuve confirme que l’appelante a payé toutes les factures concernant le projet Hurontario. En ce qui concerne la facture 122 particulièrement, trois versements ont été retracés au moyen du compte bancaire de l’appelante. La définition du mot « acquéreur », au paragraphe 123(1) de la Loi, est la suivante :
+« acquéreur »
+a) Personne qui est tenue, aux termes d’une convention portant sur une fourniture, de payer la contrepartie de la fourniture;
+b) personne qui est tenue, autrement qu’aux termes d’une convention portant sur une fourniture, de payer la contrepartie de la fourniture;
+Une décision touchant à cette condition doit porter sur l’identité de la partie qui porte l’obligation contractuelle de payer la TPS. Les parties ne s’en sont pas remis au calendrier des versements prévu au contrat pour le projet. En réalité, après le premier versement fait par Fritz Marketing Inc., ce calendrier ne ressemble en rien à l’entente contractuelle – la partie acquittant les factures n’était pas la même que celle prévue au contrat, la partie qui recevait le versement était différente et le montant des versements était différent. Les parties ont respecté une tout autre convention de paiement et, en vertu celle-ci, les factures étaient établies, non pas par M.B. Interlink, comme le prévoyait le contrat, mais plutôt par M.B. Management; de plus, ces factures n’étaient pas adressées à Le Niagara, comme le prévoyait également le contrat, mais à l’appelante. Ce processus a été appliqué à l’ensemble des factures, pas seulement à la facture 122. M. Boscarino a reconnu qu’il s’agissait d’une convention de paiement différente de celle prévue au contrat. Il n’a pas été contesté que les modalités de paiement en vertu du contrat n’avaient pas été respectées et les éléments de preuve documentaire, produits sous forme de facture, le confirment. Suivant les motifs formulés au paragraphe 54 de ma décision dans General Motors, j’estime que la responsabilité se cristallise au moment de la livraison des factures. Finalement, en vertu de cette autre convention de paiement, l’appelante était responsable du paiement de la facture 122 dès sa réception, et elle serait tenue responsable dans une action visant la perception de la facture 122 ou de l’une ou l’autre des factures concernant ce projet d’ailleurs.
+[40] Les activités de l’appelante consistent à détenir et à louer des espaces commerciaux. Plus particulièrement, l’appelante est propriétaire de deux immeubles commerciaux désignés comme étant le projet Hurontario et elle continue toujours à ce jour de louer ces deux édifices. Étant donné que j’ai déjà conclu que la facture 122 avait été établie par M. Boscarino et payée par l’appelante en relation avec le projet Hurontario, et non en relation avec le projet domiciliaire de Raj Chawla, la troisième condition du paragraphe 169(1) est remplie parce que l’appelante a de toute évidence acquis la fourniture dans l’exercice de ses activités commerciales. De fait, il est intéressant de noter que le ministre a accepté toutes les autres factures dont le libellé était similaire et qui avaient été établies par M.B. Management à l’appelante en relation avec ce projet, à l’exception de la facture 122. Par exemple, les factures 128 et 130 ont été acceptées par le ministre même si elles ne contenaient aucune description de la fourniture en question et qu’elles portaient la mention de paiements progressifs. Le libellé de la facture 122 était semblable. Ce libellé semble être propre à la méthode de paiement utilisée par l’appelante et M.B. Management.
+[41] En résumé, la facture 122 remplit les conditions des paragraphes 169(1) et 169(4) de la Loi et du Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants (TPS/TVH) (le « Règlement »). La facture 122 est une facture validement établie sur laquelle figurent le nom de l’appelante en tant qu’acquéreur de la fourniture ainsi que d’autres renseignements requis en vertu du Règlement. En conséquence, l’appelante est en droit de réclamer les CTI décrits et figurant sur la facture 122.
+[42] L’appel est accueilli, avec dépens.
+Signé à Ottawa, Canada, ce 3e jour de décembre 2010.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 24 mars 2011.
+Mario Lagacé, jurilinguiste
+Annexe « A »
+No de dossier 2008 - 2075(GST)G
+COUR CANADIENNE DE L’IMPÔT
+ENTRE :
+1474282 ONTARIO INC.
+appelante
+- et –
+SA MAJETÉ LA REINE
+intimée
+[traduction française officielle]
+EXPOSÉ CONJOINT DES FAITS
+Par l’entremise de leur avocat, les parties ont reconnu les faits ci-après relatés. Les parties n’ont reconnu que l’authenticité des documents cités ci-dessous. La présente convention est établie sans préjudice au droit de l’une ou l’autre des parties de produire des éléments de preuve additionnels dans la mesure où ces éléments ne sont pas incompatibles avec les faits reconnus par les parties. L’intimée se réserve spécifiquement le droit de contester la légalité des transactions décrites aux présentes.
+Les parties
+1. L’appelante, 1474282 Ontario Inc. (« 147 »), a été constituée le 27 avril 2001 en Ontario. Elle est propriétaire de deux immeubles commerciaux portant les numéros civiques de 1541 et 1547, rue Hurontario, Mississauga, Ontario (les « immeubles Hurontario »).
+2. 147 produit annuellement des déclarations de TPS et son numéro d’inscription au registre de la TPS est le no 87707 8816 RT0001.
+3. À toutes les époques pertinentes, Rajinder Chawla (« Raj ») était le président, l’administrateur et l’actionnaire unique de 147. Il est marié à Nora Chawla.
+4. Virander Chawla (« Ravi ») est le frère de Raj et, à toutes les époques pertinentes, il était le vice-président de 147. Il est marié à Neelam Chawla.
+5. Le Niagara Commodities Corporation (« Le Niagara ») a été constitué en Ontario, le 1er août 2000. Raj est l’actionnaire unique de Le Niagara.
+6. Fritz Marketing Inc. est une société.
+7. MB. Property Management est une entreprise à propriétaire unique exploitée par Carmelo Boscarino (« Boscarino »). On ignore si M.B. Interlink Ltd. a été constituée en société. Cette entreprise est également exploitée par Boscarino. À toutes les époques pertinentes, M.B. Properly Management et M.B. Interlink Ltd. exploitaient, entre autres choses, une entreprise d’entrepreneurs en construction.
+8. Le 26 avril 2001, Raj, Ravi, Le Niagara, Boscarino et M.B. Interlink Ltd. ont conclu un contrat pour la construction des immeubles Hurontario (le « projet Hurontario »).
+9. En vertu d’une convention datée du 20 septembre 2001, signée le 3 octobre 2001, Ravi, pour le compte de Raj et de Boscarino, a conclu un contrat pour la rénovation de la résidence de Raj et de Nora, située au 1143, chemin Mississauga, Mississauga, Ontario (la « rénovation domiciliaire »).
+Le projet Hurontario
+10. M.B. Interlink Ltd. et Boscarino ont convenu de superviser la construction de deux immeubles de deux étages pour le compte de Le Niagara, Raj et Ravi (la « convention Hurontario »). Le coût estimé du projet Hurontario était de 1 092 590 $ .
+11. Le 16 mai 2001, 147 a acquis les immeubles portant les numéros civiques 1541 et 1547 Hurontario. Elle prévoyait développer ces immeubles et a obtenu les autorisations de la municipalité de Mississauga.
+12. Boscarino a présenté des factures concernant le projet Hurontario sur du papier à entête de M.B. Property Management. Les factures ont été adressées à 147 et re: Le Niagara.
+13. Le 1er mai 2001, un chèque au montant de 270 000 $ a été payé à Boscarino à partir du compte de Fritz Marketing Inc.
+14. Les factures ci-dessous ont été remises par Boscarino :
+Numéro-Facture
+Date
+Montant
+(TPS incluse)
+Payé
+107
+10 octobre 2001
+270 000 $
+(17 663,55 $ TPS)
+1er mai 2001
+(270 000 $) – payé par chèque #5033 de Fritz Marketing Inc.
+108
+26 novembre 2001
+40 000 $
+(2 616,83 TPS)
+26 octobre 2001
+(30 000 $) – payé par traite bancaire de la BMO
+26 novembre 2001
+(10 000 $)-payé par chèque personnel
+109
+31 décembre 2001
+141 807,09 $
+(9 277,10 $ TPS)
+31 décembre 2001
+(141 807,09 $) – payé par chèque de 147
+102
+31 décembre 2001
+57 945,31 $
+104
+31 décembre 2001
+122 709 $
+105
+2 janvier 2002
+84 749,48 $
+104
+16 janvier 2002
+68 385,84 $
+104
+16 janvier 2002
+200 805,57 $
+(13 136,70 $ TPS )
+29 janvier 2002
+(212 604,99 $ , aussi pour 105 et 117) – payé par chèque de 147
+105
+16 janvier 2002
+83 379,91 $
+105
+16 janvier 2002
+2 140 $
+(140$ TPS)
+29 janvier 2002 – payé par chèque de 147 de la BMO
+106
+16 janvier 2002
+58 850 $
+107
+16 janvier 2002
+270 000 $
+(17 663,55 TPS)
+107
+16 janvier 2002
+64 173 46 $
+119
+16 janvier 2002
+4 390,83 $
+117
+4 février 2002
+9 659,42 $
+(631,92 $ GST)
+29 janvier 2002 – payé par chèque de 147 de la BMO
+1 18
+4 février 2002
+216 675 $
+(14 175 $ TPS)
+21 février 2002
+(216 675 $) – payé par traite bancaire de la BMO
+106
+12 mars 2002
+$100,045.00
+($6,545 GST)
+15 avril 2002
+(110 419,80 $, aussi pour 199 et 120) – payé par traite bancaire de la BMO
+119
+10 avril 2002
+374,80 $
+(24,51 $ TPS)
+15 avril 2002
+120
+10 avril 2002
+10 000 $
+(654,20$ TPS)
+15 avril 2002
+121
+15 avril 2002
+48 297,12 $
+(3 159,59 $ TPS)
+26 avril 2002
+(48 297,12 $) – payé par traite bancaire de la BMO
+123
+10 mai 2002
+60 000 $
+(3 925,20$ TPS)
+21 mai 2002
+(60 000 $) – payé par traite bancaire de la BMO
+123
+10 mai 2002
+77 179,10 $
+122
+16 mai 2002
+174 979,64 $
+(11 447,22 $ TPS)
+*10 octobre 2001
+(107 000 $) – payé par traite bancaire de la BMO 8 février 2002 (35 000 $) – payé par traite bancaire de la BMO 13 mars 2002 (32 979,64 $) – payé par traite bancaire de la BMO
+124
+7 juin 2002
+7 875,20 $
+(512,20 $ TPS)
+13 juin 2002
+(15 365,20 $, aussi pour 125) – payé par traite bancaire de la BMO
+125
+7 juin 2002
+7 490 $
+(490 $ TPS)
+13 juin 2002
+126
+26 juin 2002
+128 400 $
+(8 400 $ TPS)
+127
+9 juillet 2002
+18 290 $
+127
+9 juillet 2002
+23 640 $
+126
+15 juillet 2002
+100 000 $
+(6 542 $ TPS)
+19 juillet 2002
+(100 000 $) – payé par traite bancaire de la BMO
+128
+30 juillet 2002
+53 136,75 $
+128
+30 juillet 2002
+75 000 $
+(4 906,50 $ TPS)
+9 août 2002
+(75 000 $) – payé par traite bancaire de la BMO
+129
+9 août 2002
+32 000 $
+(2 093,45 $ TPS)
+27 août 2002
+(32 000 $) – payé par chèque de 147
+130
+23 septembre 2002
+101 650 $
+*Voir notes au paragraphe 17 ci-dessous concernant la facture 122
+15. Chaque facture porte le « # TPS 890926892 » et détaille la TPS payable.
+16. 147 a réclamé les crédits de taxe sur les intrants à l’égard des factures payées.
+17. La facture 122, du 16 mai 2002, a été payée au moyen de trois traites bancaires datées du 10 octobre 2001, du 8 février 2002 et du 13 mars 2002.
+18. Boscarino n’a pas achevé le projet Hurontario. Boscarino et 147 ont été parties à une action intentée en Cour supérieure de justice de l’Ontario en ce qui concerne le projet Hurontario. Les parties ont réglé leur différend dans le cadre d’un règlement à l’amiable.
+19. Les immeubles Hurontario ont été achevés en 2003. 147 est toujours propriétaire des immeubles Hurontario.
+La rénovation domiciliaire
+20. En septembre 2001, Boscarino convient d’entreprendre la rénovation de la résidence de Raj. Le coût estimé des travaux était de 585 000 $ .
+21. Ravi a supervisé la rénovation domiciliaire.
+22. Boscarino a retenu les services d’un sous-entrepreneur, Graydel Limited, pour réaliser la rénovation domiciliaire.
+23. Ravi a versé des paiements pour la rénovation domiciliaire au moyen de chèques et en argent liquide.
+24. M.B. Property Management a remis les factures décrites ci-dessous à Ravi pour la rénovation domiciliaire :
+Numéro de facture
+Date
+Montant (TPS incluse)
+113
+16 janvier 2002
+107 000 $
+(7 000 $ TPS)
+114
+16 janvier 2002
+48 000 $
+(3 140,16 $ TPS)
+115
+16 janvier 2002
+18 000 $
+(1 177,56 $ TPS)
+116
+16 janvier 2002
+35 000 $
+(2 289,70 $ TPS)
+111
+4 février 2002
+39 590 $
+(2 590 $ TPS)
+105
+4 mars 2002
+28 389,64 $
+(1 857,25 $ TPS)
+123
+30 mai 2002
+10 424 $
+(681,94 $ TPS)
+Signé à Toronto, ce 14 juin 2010.
+Avocat de l’appelante
+Matthew Morden
+Laishley Reed s.r.l.
+3, rue Church , pièce 505
+Toronto(Ontario) M5E 1M2
+T: 416.981.9314
+F: 416.981.0060
+Avocate de l’intimée
+Samantha Hurst
+Ministère de la Justice
+Bureau régional de l’Ontario
+Section des services fiscaux
+The Exchange Tower
+130, rue King ouest
+pièce 3400, case postale 36
+Toronto (Ontario) M5X 1K6
+T: 416.973.2456
+F: 416.973.0810
+N:\73724\APPEAL\Agreed Statement of Facts Final.doc
+RÉFÉRENCE : 2010 CCI 620
+NO DU DOSSIER DE LA COUR : 2008-2075(GST)G
+INTITULÉ DE LA CAUSE : 1474282 ONTARIO INC. ET
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATES DE L’AUDIENCE : Les 14, 15, 16 juin et
+10 septembre 2010
+MOTIFS DU JUGEMENT : L’honorable juge Diane Campbell
+DATE DU JUGEMENT : Le 3 décembre 2010
+COMPARUTIONS :
+Avocat de l’appelante :
+Matthew Morden
+Avocate de l’intimée :
+Samantha Hurst
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Matthew Morden
+Cabinet : Laishley Reed s.r.l.
+Toronto (Ontario)
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

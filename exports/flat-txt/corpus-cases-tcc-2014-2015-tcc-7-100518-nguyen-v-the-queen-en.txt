@@ -1,0 +1,105 @@
+Title: Nguyen v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/100518/index.do
+Corpus path: corpus/cases/tcc/2014/2015-tcc-7-100518-nguyen-v-the-queen-en.md
+Document type: case_law
+Last modified: 2014-11-14
+
+# Nguyen v. The Queen
+
+- Citation: 2015 TCC 7
+- Decision date: 2014-11-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2791, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Nguyen v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-11-14
+Neutral citation
+2015 TCC 7
+File numbers
+2014-408(IT)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2015TCC7
+Date: 20150113
+Docket: 2014-408(IT)I
+BETWEEN:
+THUY T. NGUYEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered orally from the bench by telephone conference call on November 14, 2014, in Ottawa, Ontario.)
+V.A. Miller J.
+[1] This appeal is with respect to the reassessment of the Appellant’s 2006, 2007 and 2008 taxation years in which the Minister of National Revenue (the “Minister”) included the amounts of $64,271, $16,248 and $44,465 respectively, in the Appellant’s income as shareholder benefits. The Minister also imposed gross negligence penalties for each of the years at issue.
+[2] During the period, the Appellant was the sole shareholder in two corporations. She operated NDT Indoor & Outdoor Garden Supplies and Equipments Ltd. from 2003 until 2008 when she sold the business. On October 1, 2005, the Appellant had Pho Hoa Nam Vietnamese Noodle House Inc. (the “Corporation”) incorporated. The Corporation operated a restaurant in Ottawa and is the subject of this appeal.
+[3] The Corporation’s year end was September 30.
+[4] It was the Appellant’s evidence that she used her own money from her personal savings, her line of credit and loans from friends and family to open the restaurant. The restaurant did not open until March 8, 2006. Any monies spent on the restaurant prior to March 8, 2006 were her personal monies. She entered these amounts into the Shareholder Loan Account as a credit and it was her position that she should be allowed to take money out of this account tax free as the money was hers.
+[5] The Appellant submitted four documents which she had prepared as part of the accounting records for the Corporation. They were as follows:
+1. A-1 was a summary of the “Shareholder Loan Account” from December 31, 2005 to September 30, 2007. According to this document, the Appellant had injected funds of $138,996.07 into the Corporation between May 2005 and September 30, 2006 and in the same period she withdrew $64,399.94 from the Corporation. In the Corporation’s 2007 taxation year, she allegedly injected $74,926.30 into the Corporation and withdrew $16,119.85. The amount credited to the Shareholder Loan Account in 2007 included wages of $44,875.94 earned by the Appellant’s spouse.
+2. A-2 was a summary of “Cash Disbursements” for 2005 and January to July 31, 2006.
+3. A-3 was entitled “Cash Expense Reconciliation” for 2007, 2008 and 2009. The first page of this exhibit alleged that the total amount owing to the Appellant was $130,702.18, $60,095.17 and ($220.35) in 2006, 2007 and 2008 respectively. The Appellant stated that she prepared this exhibit when she was being audited by the Canada Revenue Agency (“CRA”). There were 7 pages in this exhibit.
+4. A-4 was a “Summary of Disbursements” for TD A/C ending in 590 for the period October 1, 2005 to September 28, 2006. According to the Appellant, this was her accounting record for the Corporation’s bank account.
+[6] The Appellant stated that throughout the period, when she was purchasing food items for her personal use, she also purchased items for the restaurant. She completely commingled her personal funds and expenses with those of the restaurant. This was a small family restaurant and she could not do a daily cash reconciliation. She felt that all small business owners would reconcile cash on an annual basis as she did.
+[7] It was her evidence that during the period she was raising four children and helping her disabled mother. She did the best she could in keeping the Corporation’s books up-to-date. She did not deposit the cash earned by the restaurant each day. Instead, she used the cash to buy supplies for the restaurant and to purchase personal items for herself. She adjusted the cash clearing account on a monthly basis. At this time she recorded the expenses for supplies and debited the shareholder account for her personal expenses. At the end of the month, she deposited whatever cash she had left.
+[8] The Appellant testified that her spouse worked in the kitchen in the restaurant on a regular basis but he was not paid. His wages are reflected in the credit to her Shareholder Loan Account and they were $20,000, $35,000 and $24,000 in 2006, 2007 and 2008. Her spouse reported these amounts in his income in each of the years and paid tax on the amounts. He had no other job besides working in the kitchen. She received a taxable dividend of $25,000 from the Corporation which she reported in her income in 2008.
+[9] It was the Appellant’s position the amounts of $64,271, $16,248 and $44,465 which were included in her income contain the wages which her spouse declared. His wages should be deducted from the amounts included in her income as he has paid taxes on these amounts.
+[10] Tanya Wilson was the appeals officer in CRA who had carriage of the Appellant’s file. She testified that she worked on both the Appellant’s file and the Corporation’s file. She gave the Corporation credit for additional expenses which had been disallowed by the Audit section of CRA but she confirmed the reassessment of the Appellant’s 2006, 2007 and 2008 years. She stated that the only source documents which the Appellant gave her were bank statements from the Appellant’s line of credit. However, Ms. Wilson could not trace any withdrawals from the line of credit to the Corporation. She requested documents from the Appellant that would allow her to trace or reconcile any alleged investments the Appellant made to the Corporation. The Appellant gave no such documents.
+Analysis [11] As stated earlier, the Appellant’s documentary evidence consisted of accounting records which she prepared. There were no source documents submitted to me to support any of the entries in any of the accounting records. The Appellant stated that she used her line of credit to pay some of the expenses incurred by the Corporation before the restaurant started to operate. However, she gave no documents to demonstrate that the withdrawals from her line of credit were used to pay the Corporation’s expenses. At the hearing, she also stated that she borrowed money from family and friends to help establish the restaurant. Whereas the only personal loan which she mentioned to the CRA when her file was at the objection stage was a loan of $9,500 from her mother. There is no record to support any loans from her mother or any friends.
+[12] According to the Appellant’s testimony and exhibit A-4, the Corporation did receive a Canada Small Business Financing Loan in 2005. Exhibit A-4 listed the proceeds of this loan as $128,750. However, I do not know the exact amount of the loan or when the Corporation received all of the proceeds of the loan. The Appellant gave no details of this loan.
+[13] The Appellant’s exhibit A-4 was her accounting record for the Corporation’s bank account. It would have been preferable to have the original bank statements. However, the Appellant’s record showed that the restaurant’s cash sales were not deposited into the Corporation’s account in May, June, July, August or September 2006. It also showed that $1,624.42 was paid to the Appellant’s spouse in July 2006.
+[14] In cross examination, the Appellant stated that all of the money which went into the restaurant to pay for expenses before the restaurant opened was hers. However, that is clearly not true. The Corporation had received the proceeds of a Small Business Loan prior to the opening of the restaurant.
+[15] I was not presented with any evidence which would demonstrate that the Appellant had earnings or savings that would allow her to make the investments she alleges.
+[16] The burden of proof in tax cases is that on the balance of probabilities. A taxpayer has the initial onus to “demolish” the assumptions of fact relied on by the Minister. It is my view that the Appellant has not met this initial onus. She has provided accounting records which she prepared but nothing to support that the amounts on these records are what they purport to be. Her documents are really nothing more than numbers on an Excel spreadsheet. Accounting records do not create reality: Van Nieuwkerk v R, 2003 TCC 670 at paragraph 6. They should reflect reality and when they are questioned, the taxpayer should have the source documents to show that the accounting records are accurate when a transaction has taken place.
+[17] The Appellant has given me absolutely no objective evidence to support her claim that she lent monies to the Corporation. Her evidence was conflicting and I have found that she was not credible.
+Penalties [18] The Minister had the burden to present evidence to support the imposition of gross negligence penalties. In DeCosta v R, 2005 DTC 1436, Bowman J., as he then was, discussed some of the factors to consider in cases where gross negligence penalties are imposed. He stated:
+In drawing the line between “ordinary” negligence or neglect and “gross” negligence a number of factors have to be considered. One of course is the magnitude of the omission in relation to the income declared. Another is the opportunity the taxpayer had to detect the error. Another is the taxpayer’s education and apparent intelligence. No single factor predominates. Each must be assigned its proper weight in the context of the overall picture that emerges from the evidence.
+[19] In this case the evidence was as follows.
+[20] The Appellant was the sole shareholder of the Corporation. Contrary to her evidence, she has substantial accounting knowledge and experience. She had her Bachelor of Commerce degree from McMaster University. She had at least 8 years’ experience working in the accounting section of two different firms. In 2008, she received the CGA designation.
+[21] The Appellant lost her CGA designation in 2014 because she had been convicted of break and enter and possession of stolen goods. However, when I asked her why she had lost her designation she told me a story which did not quite match the facts in the decision from the CGA Tribunal.
+[22] In the present case, the Appellant was the only person who had control of the restaurant’s monies and the Corporation’s books.
+[23] From her studies and her work experience, the Appellant knew the importance of proper books and records for a Corporation. Yet, she failed to maintain accurate records. She commingled her personal monies with those of the Corporation and she did not keep detailed and orderly records so that her accounting records could be verified. She had the Corporation credit her with a substantial benefit in three years and none of the amounts credited to her could be verified. I have concluded that the sloppy Corporate records, the lack of proper source documents and the commingling of Corporate and personal funds were circumstances which amounted to gross negligence.
+[24] The appeal is dismissed.
+Signed at Ottawa, Canada, this 13th day of January 2015.
+“V.A. Miller”
+V.A. Miller J.
+CITATION:
+2015TCC7
+COURT FILE NO.:
+2014-408(IT)I
+STYLE OF CAUSE:
+THUY T. NGUYEN AND THE QUEEN
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+November 14, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Valerie Miller
+DATE OF JUDGMENT:
+November 14, 2014
+DATE OF REASONS FOR JUDGMENT:
+January 13, 2015
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Gabrielle White
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

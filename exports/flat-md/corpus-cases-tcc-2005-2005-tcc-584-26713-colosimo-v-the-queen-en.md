@@ -1,0 +1,144 @@
+---
+title: "Colosimo v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26713/index.do"
+last_modified: "2005-08-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 584"
+citation2: ""
+neutral_citation: "2005 TCC 584"
+decision_date: "2005-08-31"
+language: "en"
+item_id: "26713"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3425
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:23:37.988000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b04204139a7e5a02c9128e457c81cd266679e719e632ad1cb95eee0c32b068df"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Colosimo v. The Queen
+
+- Citation: 2005 TCC 584
+- Decision date: 2005-08-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3425, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Colosimo v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-08-31
+Neutral citation
+2005 TCC 584
+File numbers
+2004-3048(GST)I
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+2004-3048(GST)I
+BETWEEN:
+ROSARIO COLOSIMO,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 31, 2005, at Toronto, Ontario,
+By: The Honourable Justice E.A. Bowie
+Appearances:
+Agent for the Appellant:
+Joe Colosimo
+Counsel for the Respondent:
+John Grant
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated June 9, 2003, and bears number 02308143612307001, is dismissed.
+Signed at Ottawa, Canada, this 31st day of August, 2005.
+"E.A. Bowie"
+Bowie J.
+Citation: 2005TCC584
+Date: 20050831
+Docket: 2004-3048(GST)I
+BETWEEN:
+ROSARIO COLOSIMO,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+BowieJ.
+[1] This appeal is brought from the refusal by the Minister of National Revenue of the Appellant's application to be paid a new housing rebate under subsection 256(2) of the Excise Tax Act.[1] That subsection provides that where an individual "... constructs or substantially renovates, or engages another person to construct or substantially renovate ... a single unit residential complex ..." then the Minister shall pay a rebate in an amount fixed by the Act. It is not disputed that the Appellant contracted for renovation work to be done on his family home, or that the work was done. Nor is there any dispute about the amount that would be payable if the renovation qualified for a rebate. The only dispute between the parties is as to whether the work done satisfies the meaning of the expression "substantial renovation" for purposes of in subsection 256(2) of the Act. That expression is defined in subsection 123(1) as follows:
+"substantial renovation" of a residential complex means the renovation or alteration of a building to such an extent that all or substantially all of the building that existed immediately before the renovation or alteration was begun, other than the foundation, external walls, interior supporting walls, floors, roof and staircases, has been removed or replaced where, after completion of the renovation or alteration, the building is, or forms part of, a residential complex;
+[2] The Appellant was represented at the hearing of the appeal by his son Joe Colosimo. He is a contractor, and he is familiar with the facts of the case as he lived in the house with his parents and his sister before the renovation work was done. He entered a series of 47 photographs taken before and after the renovation, and invoices for the work, as exhibits, and he described the work that was done.
+[3] The Appellant's home is at 180 Riverview Avenue in Woodbridge, Ontario. It is a two-storey single family house built in the late 1970s. There are four bedrooms, a full bathroom and an en suite bathroom upstairs. The main floor is comprised of an entrance hall, living room, family room, dining room, kitchen and a washroom. The upper floor area is about 25 per cent smaller than the ground floor. The renovation work was carried out during the first half of 2001. Mr. and Mrs. Colosimo moved out of their bedroom to the basement while the work was being done. Their son and daughter moved out of the house and lived elsewhere. I have no doubt that this was necessary as there was much disruption to the whole house, including plaster dust and other construction dirt that would have made it impossible to live in the upper floors of the house while the work was underway.
+[4] Mr. Colosimo described the work in some detail. Downstairs, all the windows and the sliding glass door to the exterior were replaced. In the kitchen, new cupboards and trim were installed to replace the original, and the backsplashes were replaced. The walls were sanded and painted. A wall between the kitchen and the dining room was moved to enlarge the kitchen. All the drywall in the kitchen was replaced. In the hall the wallpaper was removed and some drywall had to be replaced. The walls were sanded and painted. In the family room a brick fireplace was removed and a new gas fireplace and mantel were installed. This required the installation of some drywall where the previous fireplace had been. Throughout the downstairs all the floors above the subfloor were replaced with either hardwood or ceramic flooring. All the doors and door frames were replaced. The original sprayed plaster ceilings throughout the lower floor were replaced with new drywall, crown mouldings and new lighting fixtures. The stairway treads were all replaced with new hardwood, and a new stair railing was installed.
+[5] Changes made to all the bathrooms were substantial. Flooring, windows and trim were removed and replaced. All the plumbing fixtures were replaced. A Jacuzzi tub and shower were installed. A doorway was closed up in the main bathroom, and a half wall was removed in one bathroom. New closet shelves were installed, as well as new ceilings and lighting. In the downstairs washroom much of the drywall had to be replaced where the old ceramic tile had been removed. In the bedrooms all the doors, doorframes and mouldings were replaced, the walls were sanded and painted and the floors were sanded and stained.
+[6] In all, the renovation cost slightly more than $100,000.00. The work was certainly extensive; more so downstairs than up. It was, however, largely cosmetic. The work done in the bathrooms included substantial replacement of fixtures that were no doubt outdated. There was little done that was structural. The moving of a kitchen wall was the most substantial structural change. The work done in the bedrooms was merely cosmetic. Could it have been said after the work was finished that "... all or substantially all of the building that existed immediately before the renovation or alteration was begun, other than the foundation, external walls, interior supporting walls, floors, roof and staircases, has been removed or replaced ..."?
+[7] I do not believe so. I agree with the following statement made by Hershfield J. in Erickson v. Canada[2] at paragraph 16:
+... The Act does not permit a rebate on a renovation, significant or otherwise, unless virtually all of the existing premises is gutted. ...
+The language of the definition certainly supports this view. I appreciate that in other contexts the word substantially has been given quite an elastic interpretation. Examples are found in the judgment of Bowman C.J. in Watts v Canada.[3] Nevertheless, in the context in which it appears here it is quite clear that Parliament intended to provide a rebate not simply to encourage people to modernize their houses and make them more attractive, but to reconstruct premises that otherwise would not be available as suitable units for sale or rent - in other words to expand the supply of usable housing. While the point at which a renovation becomes substantial may not be capable of precise definition, I am of the view that it would require more than was done here.
+[8] Other than the two bathrooms, the upstairs part of the house underwent nothing but cosmetic work. The same is true of a large part of the lower floor. The wiring and the plumbing were essentially untouched, except for the connection of new fixtures to the existing supply. There was no mechanical work done to the heating system. The basement was untouched. This falls far short of removing or replacing substantially all of the internal, non-load bearing parts of the building.
+[9] The Appellant's agent relied entirely on the judgment of Rip J. in Lair v. Canada,[4] and in particular this statement at paragraph 14:
+... On the facts then before me if a reasonable and neutral observer of the building, before and after construction of the interior and exterior of the building, can conclude that the degree of renovation and alteration was substantial, the definition of "substantial renovation" is satisfied. Mrs. Lair had an old house, ready to collapse, and for practical purposes rebuilt it as a new residence.
+There is no legitimate comparison to be made, however, between that case and the present one. There is nothing in the evidence that even remotely suggests that the Appellant's house was ready to collapse. Nor am I satisfied that any neutral observer would conclude that the renovations made by the Appellant were substantial, if that person had Parliament's definition in mind. It might be said by some that Mr. Colosimo's renovation was a substantial one, if that word were simply being given its everyday meaning, but that is not the test that I have to apply. The work done here is simply not of the extent that Parliament decided should be encouraged and subsidized by a tax rebate.
+[10] The appeal is dismissed.
+Signed at Ottawa, Canada, this 31st day of August, 2005.
+"E.A. Bowie"
+Bowie J.
+CITATION:
+2005TCC584
+COURT FILE NO.:
+2004-3048(GST)I
+STYLE OF CAUSE:
+Rosario Colosimo and Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+May 31, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice E.A. Bowie
+DATE OF JUDGMENT:
+August 31, 2005
+APPEARANCES:
+Agent for the Appellant:
+Joe Colosimo
+Counsel for the Respondent:
+John Grant
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] R.S.C. 1985, c. E-15, as amended.
+[2] [2001] T.C.J. 40.
+[3] 2004 TCC 535.
+[4] 2003 TCC 929.

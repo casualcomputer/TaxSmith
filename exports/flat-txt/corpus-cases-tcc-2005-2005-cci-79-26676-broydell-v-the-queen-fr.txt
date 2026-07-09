@@ -1,0 +1,107 @@
+Title: Broydell v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26676/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-79-26676-broydell-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2005-01-24
+
+# Broydell v. The Queen
+
+- Citation: 2005 CCI 79
+- Decision date: 2005-01-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3618, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Broydell v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-01-24
+Référence neutre
+2005 CCI 79
+Numéro de dossier
+2004-2957(IT)I
+Juges et Officiers taxateurs
+Terrence O'Connor
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-2957(IT)I
+ENTRE :
+PERCY BROYDELL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu à Toronto (Ontario), le 12 janvier 2005.
+Devant : L'honorable juge T. O'Connor
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Jeremy Streeter
+JUGEMENT
+L'appel de la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2002 est rejeté selon les motifs de jugement ci-joints.
+Signé à Ottawa, Canada, ce 24e jour de janvier 2005.
+« T. O'Connor »
+Juge O'Connor
+Traduction certifiée conforme
+ce 31e jour d'octobre 2005.
+Sara Tasset
+Référence : 2005CCI79
+Date : 20050124
+Dossier : 2004-2957(IT)I
+ENTRE :
+PERCY BROYDELL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge O'Connor
+[1] Il s'agit de savoir si, pour l'année d'imposition 2002, l'appelant a le droit de déduire un montant de 16 343,89 $ au titre de frais de déménagement dans le calcul de son revenu de cette année-là.
+[2] Les faits pertinents peuvent être résumés comme suit :
+1. En 2002, l'appelant a quitté Innisfil (Ontario) (l' « ancienne résidence » ) pour s'installer à South Barrie (Ontario) (la « nouvelle résidence » ). Il a été mentionné que le déménagement avait eu lieu en 1999, mais cela n'est pas pertinent étant donné que ni l'une ni l'autre partie n'a soulevé la question et que la déduction des frais de déménagement se rapporte à l'année d'imposition 2002.
+2. Pendant la période pertinente, c'est-à-dire pendant qu'il vivait dans l'ancienne résidence et dans la nouvelle résidence, l'appelant était un employé de Falcon Lumber Limited. En d'autres termes, l'appelant n'a pas déménagé pour changer d'employeur. En outre, il n'a pas déménagé pour changer de lieu de travail.
+3. Le déménagement a principalement été effectué parce que, pendant qu'il vivait dans l'ancienne résidence (qui était plus éloignée du lieu de travail que la nouvelle résidence) et à cause de problèmes de communication (des problèmes avec le train de banlieue), il arrivait à plusieurs reprises que l'appelant ne se présente pas au travail pendant l'hiver. Cela a créé des problèmes auprès de son employeur et la direction de l'employeur a informé l'appelant qu'il devrait se rapprocher de son lieu de travail. Il importe de noter qu'il est également fait mention des problèmes d'asthme et de pneumonie de la femme de l'appelant, lesquels ont également amené l'appelant à déménager, mais cela n'a rien à voir avec la question qui est ici en litige.
+4. La déduction effectuée par l'appelant est fondée sur les paragraphes 62(1) et 248(1) de la Loi de l'impôt sur le revenu (la « Loi » ). Toutes les conditions énoncées dans ces dispositions quant à la distance (alinéa 248c)), quant au fait que les deux résidences sont situées au Canada (alinéa 248b)) et toutes les autres conditions nécessaires pour donner droit à la déduction, sauf une, ont été remplies. La seule condition qui ne l'a pas été se rapporte à la question de savoir si l'appelant est admissible en vertu de l'alinéa 248a) à une « réinstallation admissible » , c'est-à-dire à la question de savoir si la réinstallation a eu lieu afin de permettre à l'appelant d'être employé dans un nouveau lieu de travail ou s'il existait des circonstances spéciales autorisant la Cour à étendre la portée de cette disposition, de façon qu'elle s'applique à la réinstallation destinée à permettre de conserver un emploi au même lieu de travail.
+Arguments de l'appelant
+[3] Les passages suivants de l'avis d'appel de l'appelant indiquent les deux questions soulevées par celui-ci :
+1. Quant à la première question, l'avis d'appel indique ce qui suit :
+[traduction]
+[...]
+Je n'ai pas déménagé pour me rapprocher de mon travail. J'ai déménagé afin de me rapprocher des transports publics et de ne pas avoir de difficulté à me rendre au travail, et ce, quel que soit le temps, et afin de conserver mon emploi.
+Je citerai l'affaire Gary Adamson c. La Reine , où l'appelant s'était installé dans un plus grand bureau. Il n'avait pas changé d'emploi et il n'était pas admissible, compte tenu de la distance, étant donné qu'en déménageant, il ne se rapprochait pas de son lieu de travail. Il ne satisfaisait pas aux conditions de la Loi, mais il a néanmoins été jugé admissible à cause de circonstances spéciales.
+[...]
+2. Quant à la seconde question, qui se rapporte au conseil donné par des représentants de Revenu Canada, l'avis d'appel indique ce qui suit :
+[traduction] [...]
+Lorsque j'ai initialement communiqué avec Revenu Canada au sujet de la possibilité de déduire mes frais de déménagement à cause de circonstances spéciales, l'agente m'a tenu au téléphone pendant qu'elle vérifiait la Loi de l'impôt sur le revenu; après s'être renseignée auprès de ses superviseurs, l'agente m'a conseillé de déduire les frais et elle a indiqué les dépenses que je pouvais déduire.
+J'ai soumis ma déclaration de revenu pour l'année 2002 et j'ai joint une lettre dans laquelle je faisais savoir que je déduisais mes frais de déménagement. J'ai informé Revenu Canada de la conversation téléphonique que j'avais eue avec l'un de ses représentants et que je n'avais pas changé d'emploi et j'ai indiqué les raisons pour lesquelles j'effectuais la déduction. Ils ont approuvé la déduction et ils m'ont envoyé un remboursement. Par la suite, Revenu Canada a changé d'idée et m'a demandé de rembourser le montant qui m'avait été remis.
+[...]
+Analyse et conclusion
+[4] Le premier argument de l'appelant ne peut pas être retenu. Parmi les conditions énoncées aux articles 62 et 248 de la Loi, et en particulier à l'alinéa 248a), il y a une condition selon laquelle la réinstallation est effectuée afin de permettre au contribuable d'occuper un emploi dans un nouveau lieu de travail au Canada. Cette condition n'est pas remplie et je ne puis constater aucune circonstance spéciale, comme celles qui existaient dans l'affaire Adamson, m'autorisant à étendre la portée des dispositions en vue de permettre la déduction demandée par l'appelant dans ce cas-ci.
+[5] Dans la décision Adamson c. Canada, [2001] A.C.I. no 609, la Cour a conclu qu'il y avait eu une réinstallation admissible lorsque l'appelant s'était vu obligé de travailler à domicile. Il a été jugé que M. Adamson avait choisi un nouveau lieu de travail, soit un bureau situé dans sa nouvelle maison. En d'autres termes, l'appelant avait choisi un nouveau lieu de travail et une nouvelle maison. Il est possible de faire une distinction entre les faits de l'affaire Adamson et ceux de la présente espèce. Dans le présent appel, il n'y a pas de nouveau lieu de travail et, par conséquent, l'appelant ne satisfait pas à l'une des conditions énoncées dans les dispositions susmentionnées.
+[6] Il est également fait mention de l'arrêt Ray c. Canada, [2004] A.C.F. no 1. Dans cette décision, la Cour d'appel fédérale, qui examinait une situation factuelle différente, a dit ce qui suit :
+[...] il n'est pas loisible à la présente cour, ou à la Cour de l'impôt, de ne pas tenir compte des exigences législatives imposées par le Parlement, même s'il est difficile de les justifier en principe. [...]
+Comme il en a été fait mention, l'arrêt Ray portait sur une situation factuelle différente, mais le principe est le même, à savoir que les tribunaux judiciaires sont liés par les exigences de la loi et ne peuvent pas étendre la portée afin d'englober une situation non envisagée selon les exigences législatives.
+[7] Il convient également de se reporter à la décision Howlett c. Canada, [1998] A.C.I. no 1035, dans laquelle la Cour, en rejetant l'appel, a dit ce qui suit :
+[...]
+10. Dans l'appel en l'instance, l'appelant a satisfait à deux conditions : l'ancienne résidence et la nouvelle résidence. Quant au lieu de travail, il n'a pas changé. Le mode de travail de l'appelant a changé en raison de son nouveau poste de directeur des ventes. L'appelant a changé de résidence dans l'unique but de se rapprocher du bureau, qui était situé au même endroit qu'avant son déménagement.
+[...]
+[8] La seconde question soulevée par l'appelant se rapporte au fait qu'il s'est fié au conseil donné par Revenu Canada. Sur ce point, il est fait mention de la décision Wong c. Canada, [1996] A.C.I. no 1237, dans laquelle le juge Bowman, de la présente cour, (tel était alors son titre), devant une situation factuelle différente, a cité en l'approuvant et a appliqué le passage suivant de la décision Goldstein v. Canada [1995] 2 C.T.C. 2036 :
+[...]
+On dit parfois que la préclusion n'est pas recevable contre la Couronne. Cette affirmation n'est pas exacte et semble provenir d'une mauvaise application du terme préclusion. Le principe de la préclusion lie la Couronne, tout comme d'autres principes de droit. La préclusion du fait du comportement, telle qu'elle s'applique à la Couronne, comprend des déclarations de faits de fonctionnaires de la Couronne sur lesquelles le sujet s'est fondé et en fonction desquelles il a agi, à son détriment. La doctrine n'a aucune application lorsqu'une interprétation particulière d'une loi a été communiquée à un sujet par un fonctionnaire de l'État, que le sujet s'est fondé sur cette interprétation à son détriment et que le gouvernement a ensuite retiré ou modifié l'interprétation. Dans un tel cas, un contribuable cherche parfois à invoquer la doctrine de la préclusion. Ce n'est pas approprié, non pas parce que ces déclarations donnent lieu à une préclusion qui ne lie pas la Couronne, mais plutôt parce qu'aucune préclusion ne peut se poser lorsque de telles déclarations ne sont pas conformes au droit. Bien que la préclusion soit maintenant un principe de droit positif, elle prend son origine dans le droit de la preuve et, en tant que telle, se rapporte aux déclarations de faits. Elle n'a aucun rôle à jouer lorsque des questions d'interprétation du droit sont en cause, car la préclusion ne peut déroger au droit.
+[9] Les remarques qui précèdent décrivent ce qui a été décidé dans de nombreuses affaires, à savoir que les déclarations ou les conseils des représentants de Revenu Canada, en ce qui concerne des questions d'interprétation de la loi, ne peuvent pas l'emporter sur la loi.
+[10] Pour les motifs susmentionnés, l'appel est rejeté.
+Signé à Ottawa, Canada, ce 24e jour de janvier 2005.
+« T. O'Connor »
+Juge O'Connor
+Traduction certifiée conforme
+ce 31e jour d'octobre 2005.
+Sara Tasset

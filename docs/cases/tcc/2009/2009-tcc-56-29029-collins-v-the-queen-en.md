@@ -1,0 +1,329 @@
+---
+title: "Collins v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29029/index.do"
+last_modified: "2009-01-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 56"
+citation2: ""
+neutral_citation: "2009 TCC 56"
+decision_date: "2009-01-23"
+language: "en"
+item_id: "29029"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6838
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:39:48.840000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4d1df0dd34d7d55e5f6709724480bd357c35fe48df9ffb19f49563db7a16a892"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Collins v. The Queen
+
+- Citation: 2009 TCC 56
+- Decision date: 2009-01-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6838, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Collins v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-01-23
+Neutral citation
+2009 TCC 56
+File numbers
+2001-2844(IT)G
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2001-2844(IT)G
+BETWEEN:
+EUGENE COLLINS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Fleurette Collins, 2001-2845(IT)G on April 2, 2008, at Calgary, Alberta
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Counsel for the Appellant:
+Jehad Haymour
+Counsel for the Respondent:
+Mark Heseltine
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 1993, 1994, 1995, 1996 taxation years are allowed only to the extent of the Respondent’s concessions and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the foregoing basis.
+Costs are awarded in favour of the Respondent.
+Signed at Ottawa, Canada, this 23rd day of January 2009.
+“V.A. Miller”
+V.A. Miller, J.
+Citation: 2009TCC56
+Date: 20090123
+Docket: 2001-2844(IT)G
+BETWEEN:
+EUGENE COLLINS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2001-2845(IT)G
+BETWEEN:
+FLEURETTE COLLINS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller, J.
+[1] These appeals were heard on common evidence and the only issue was whether in the 1994, 1995 and 1996 taxation years, the Appellants could each deduct interest in the amounts of $77,186, $80,127 and $84,391 respectively. I will refer to these amounts as the “interest”.
+[2] The evidence in these appeals consisted of a Statement of Admitted Facts (attached hereto as Schedule “A”) and several documents, all filed by the Appellants, and the testimony of Eugene Collins. A summary of that evidence follows.
+[3] In the early 1980’s, the Alberta government encouraged the construction of apartment buildings in urban areas by means of a financing program known as the Core Housing Incentive Program (the “CHIP Program”). By way of a mortgage dated April 9, 1981 (the “Original Mortgage”), the Appellants received $1,840,725 from Alberta Mortgage and Housing Corporation (“AMHC”), pursuant to the CHIP program.
+[4] The Original Mortgage was for 15 years at 8 ¾% with monthly payments of $13,368.32. This payment included principal and interest and was due as of January 1, 1982.
+[5] As equal partners, the Appellants constructed a 39 unit apartment building at 1010, 13 Avenue S.W. in Calgary, Alberta (“the Apartment”). The land on which the Apartment was built was owned by The Shelburne Group Ltd. (“Shelburne”), an Alberta corporation which was owned equally by the Appellants.
+[6] In accordance with a Trust Agreement dated September 1, 1981, Shelburne acted as agent for the Appellants with respect to all matters pertaining to the Apartment.
+[7] Between 1984 and 1987, the Appellants had problems meeting their obligations under the Original Mortgage; and, in 1987, AMHC did a restructuring so that the interest rate was deferred from 8 ¾% to 6 ¼%. The deferred interest was added to the loan amount of the mortgage. It was Mr. Collins’ evidence that the Appellants were able to meet their obligations under the 1987 agreement.
+[8] Mr. Collins stated that the Alberta government was concerned because it was deferring interest on apartment buildings while at the same time foreclosing on individual owners. The evidence showed that by 1993, the loan amount of the Original Mortgage on the Apartment had increased to $2,692,921.81 as a result of the deferred interest.
+[9] In 1991 the AMHC was wound down and Municipal Affairs – Sales Ltd. (“MASL”), an Alberta Crown Corporation, was given the authority to negotiate the termination of agreements entered into by AMHC[1].
+[10] The Appellants began negotiations with MASL in 1991 and reached a settlement in April 1993. They tendered a settlement letter and a commitment letter, both dated April 27, 1993, from MASL. The first paragraph of the settlement letter reads as follows:
+“Re: Mortgage Loan No. 1091453
+Shelburne Group Ltd.
+Further to our letter dated April 7, 1993 and our subsequent conversation, Municipal Affairs – Sales Ltd. (“MASL”) has agreed to amend the terms of settlement outlined therein and is now agreeable to settling the above captioned mortgage loan on the following terms:” [2]
+[11] The terms in both the settlement and commitment letters were subsequently captured in a Loan Agreement and Mortgage Amending Agreement dated July 22, 1993 (“the Amending Agreement”) between MASL and the Appellants.
+[12] Relevant paragraphs from the Amending Agreement are as follows:
+B. The Borrower and the Lender have agreed to refinance a portion of the Debt and to amend the Mortgage to provide an arrangement whereby:
+(i) a new loan will be made to the Borrower on the security, inter alia, of the Lands and the proceeds therefrom will be used to paydown the Mortgage; and
+(ii) the obligations of the Borrower to repay the balance of the Debt will be amended;
+…
+C.
+1.3 “Debt” means monies owing by the Borrower to the Lender, of which the sum of $2,692,921.81 remained owning as of May 11, 1993;
+1.5 “Mortgage” means the mortgage charge held by the Lender as security for the Debt and registered against the Lands in the South Alberta Land Registration District as instrument number 811078474;
+4. Concurrently herewith the Borrower agrees to execute and deliver to the Lender the following:
+(i) the New Mortgage;
+(ii) an Assignment of Rents arising from the Lands;
+(iii) A General Security Agreement respecting the Chattels; and
+(iv) a Guarantee, on the Lender’s form, from EUGENE F. COLLINS and FLEURETTE M. COLLINS, guaranteeing repayment of the Borrower’s obligations under the New Mortgage.
+5. Following registration of the New Mortgage, receipt of all other security required by paragraph 4 above, and upon the Lender receiving the opinion of its counsel that all requirements of the New Mortgage are in place, the Lender shall postpone the Mortgage and security collateral to the New Mortgage, and shall apply the proceeds of the New Mortgage in reduction of the Debt.
+6. The Lender and the Borrower agree that the Mortgage shall be amended and varied as follows:
+(i) TERM: 20 years from August 1, 1993;
+(ii) INTEREST: 10% simple interest to be calculated and paid annually on AUGUST 1st of each year subject to the payment provision below for the first 15 years of the term;
+(iii) PAYMENTS: Minimum annual interest payments of $20,000.00 for each of the first 15 years of the amended term due on or before AUGUST 1st of each year. At the end of the 16th year of the term, any remaining unpaid accrued interest is immediately due and payable and thereafter, interest shall be paid in accordance with subparagraph (ii) above. The principal sum outstanding shall be paid on or before JULY 31, 2013;
+(iv) EARLY PAYOUT: The Borrower may at its option, at any time, up to JULY 31, 2008, pay all interest and principal monies outstanding upon payment of the sum of $100,000.00 plus payment of all the FIFTEEN (15) minimum $20,000.00 annual interest payments unpaid which total payment shall be applied firstly to all outstanding interest due to the date of early payout and secondly to principal.
+…
+8. The execution of this Agreement shall not constitute or cause a merger of the obligations of the Borrower or any Guarantors with respect to payment of the Debt, or of the terms of the Mortgage, the Mortgage Amending Agreement or the Security. The Guarantors hereby approve of and consent to the terms of this Agreement.
+…
+13. This Agreement does not constitute an accord and satisfaction between the Borrower and the Lender with respect to the indebtedness secured by the Security which Security shall not in anyway be discharged, released or prejudiced by this Agreement. Without in any way limiting the generality of the foregoing, the Mortgage shall continue in full force and effect as a charge upon the Lands and shall remain unchanged except as specifically amended and varied herein.
+14. This Agreement is intended to be, shall operate as, shall be construed as and shall constitute a Mortgage Amending Agreement and not a novation of the Mortgage and without limiting the generality of the foregoing, nothing in this Agreement shall be, constitute or operate as a release or waiver of any personal covenant or covenants contained in the Mortgage. Should there be any inconsistency between the terms of the Mortgage and of this Agreement, the terms of this Agreement shall govern.
+[13] In accordance with the Amending Agreement, the Appellants entered into a New Mortgage, also dated July 22, 1993, for a loan amount of $1,200,000. This amount was applied to the existing debt. The Original Mortgage was postponed to the New Mortgage.
+[14] In accordance with the payment provision of the Amending Agreement, the Appellants paid the minimum annual interest payments of $20,000 for 1994, 1995 and 1996. They have been given a deduction for their proportionate share of this amount in each year.
+[15] During the years under appeal, the total unpaid interest amounts under the Original Mortgage were $154,372, $160,254 and $168,782 in 1994, 1995 and 1996. These amounts were added to the loan amount by MASL. The Appellants tendered a document dated May 15, 1995, entitled Amended Annual Mortgage Account Statement which detailed the accrued interest and the outstanding loan amount on the Original Mortgage up to December 31, 1994.
+[16] It was Mr. Collins evidence that the Appellants reported their income on an accrual basis.
+[17] It is agreed by the Appellants that the “interest” was not paid nor would it ever be paid. It was Mr. Collins evidence that the Appellants intended to pay the remaining minimum annual interest payment of $20,000 and the lump sum of $100,000 by July 31, 2008. They intended to realize an early payout of the Original Mortgage in accordance with paragraph 6(iv) of the Amending Agreement. As a result of these payments, the debt would be extinguished.
+Appellants’ Position
+[18] Counsel for the Appellant submitted that the debt obligation evidenced by the Original Mortgage came into existence and remained outstanding in the years under appeal. The Respondent has conceded that there was no debt forgiveness during the relevant period. The interest obligation relating to that debt was subsisting until it was satisfied or expired and could not be separated from the mortgage itself. Counsel relied on the Federal Court of Appeal decision in Wawang Forest Products[3] to support his argument that the interest obligation was not a contingent liability. He stated that the mere fact that it was subject to reduction did not mean that the interest obligation was contingent.
+[19] It was the Appellant’s position that the legal obligation to pay interest came into existence when the Original Mortgage was signed; it continued throughout under the Amending Agreement. Counsel stated that the “interest” accrued, but it did not have to be paid until the 16th year in accordance with paragraph 6(iii) of the Amending Agreement[4]. At the end of the 16th year, any remaining accrued “interest” would be immediately due and payable unless it was extinguished through other events. In support of his argument, counsel referred to paragraphs 4 and 10 of the Original Mortgage. I have reproduced those paragraphs as Schedule B, attached.
+[20] Counsel for the Appellant stated that as the debt came into existence under the Original Mortgage and continued to exist under the Amending Agreement, there was a legal obligation to pay the “interest” on that debt; the “interest” was payable and was therefore deductible.
+Respondent’s Position
+[21] In reassessing the Appellants, the Minister of National Revenue (the “Minister”) had assumed both that the liability to pay the “interest” was contingent; and, that there was no legal obligation in existence to pay the “interest” in the years under appeal. At the hearing, counsel for the Respondent argued only that there was no legal obligation to pay the “interest” in the years in question.
+[22] It was the Respondent’s position that, in accordance with the Amending Agreement, the legal obligation to pay interest was divided into two parts: one was to pay $20,000 a year on the first of each August for fifteen years; the second obligation, to pay the remaining “interest”, only came into effect at the end of the 16th year.
+Analysis
+[23] Both parties have agreed that the amount of “interest” did not have to be paid in 1994, 1995 and 1996. Whether the amounts were “payable”, depends on the meaning of that term.
+[24] The statutory provision is subparagraph 20(1)(c)(i) of the Income Tax Act (the “Act”) which provides as follows:
+20. (1) Deductions permitted in computing income from business or property -- Notwithstanding paragraphs 18(1)(a), (b) and (h), in computing a taxpayer's income for a taxation year from a business or property, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+(c) interest -- an amount paid in the year or payable in respect of the year (depending upon the method regularly followed by the taxpayer in computing the taxpayer's income), pursuant to a legal obligation to pay interest on
+(i) borrowed money used for the purpose of earning income from a business or property (other than borrowed money used to acquire property the income from which would be exempt or to acquire a life insurance policy),
+…
+or a reasonable amount in respect thereof, whichever is the lesser;
+[25] Paragraph 20(1)(c) of the Act is an exception to the rule that interest paid on capital is not deductible.[5] The Supreme Court of Canada has recently reiterated the purpose of this paragraph in its decision in Lipson v. Canada[6] as follows:
+[29] Section 20(1)(c) allows taxpayers to deduct interest on borrowed money used for a commercial purpose. The purpose of this provision is to “create an incentive to accumulate capital with the potential to produce income” (Ludco Enterprises Ltd. v. Canada, 2001 SCC 62, [2001] 2 S.C.R. 1082, at para. 63), or to “encourage the accumulation of capital which would produce taxable income” (Shell Canada Ltd. v. Canada, [1999] 3 S.C.R. 622, at para. 57).
+[26] In order for the Appellants to deduct the “interest” amounts in paragraph 1 above, the four elements of paragraph 20(1)(c) must be met[7]. These elements, as listed in Shell Canada Ltd., are: (1) the amount of interest must be paid in the year or be payable in the year in which it is sought to be deducted; (2) the amount of interest must be paid pursuant to a legal obligation to pay interest on borrowed money; (3) the borrowed money must be used for the purpose of earning non-exempt income from a business or property; and, (4) the amount of interest must be reasonable, as assessed by reference to the first three requirements.
+[27] It was the Respondent’s position that the Appellants did not meet the first, second and fourth elements. I agree.
+[28] The Dictionary of Canadian Law defines “payable” as:
+1. Requiring to be paid; due. 2. Describes a sum of money when someone is obliged to pay it.
+The Canadian Oxford Dictionary defines “payable” as:
+1. that must be paid; due; 2. that may be paid.
+The Law.com Dictionary defines “payable” as:
+1. adj. referring to a debt which is due. A debt may be owed, but not yet payable until a certain date or event.
+2. n. a debt which is due. "Payables" are all the liabilities (debts) of a business.
+[29] I interpret the word “payable” in paragraph 20(1)(c) to mean that the interest must be “required to be paid” or “due” as opposed to owing. Interest is “payable” when there is an obligation to pay in the present as opposed to an obligation to pay in the future.
+[30] In accordance with paragraph 6 of the Amending Agreement, the “interest” was not due nor was it required to be paid in the years under appeal. As long as the Appellants met the terms of the Amending Agreement, the mortgagee could not demand the accrued “interest”[8]. I conclude that the “interest” was not payable in the years in which it was sought to be deducted and the first element of paragraph 20(1)(c) has not been met.
+[31] Although my conclusion in the above paragraph is sufficient to answer the question under appeal, I will examine the remaining elements of paragraph 20(1)(c) of the Act in light of the facts in these appeals.
+[32] It is my opinion that the second element of paragraph 20(1)(c) has not been met either. I interpret the second element to mean that before interest can be deducted, there must be a legal obligation to pay interest on borrowed money.
+[33] According to paragraph 6 of the Amending Agreement, the Appellants had to pay 10% annual interest “subject to” the payment provision in paragraph 6(iii) of that agreement. This provision limited the payment of interest for the years under appeal to minimum annual payments of $20,000[9]. There was no legal obligation to pay interest beyond the $20,000 amounts. There was no legal obligation to pay any portion of the “interest” in 1994, 1995 and 1996.
+[34] Counsel for the Appellants argued that there was a legal obligation to pay the “interest” during the relevant years. He stated that if the Appellants had failed to make the entire $20,000 payments during any of the years, then there would be default under the mortgage, and the mortgagee could demand full payment pursuant to section 4 and 10 of the Original Mortgage.
+[35] I disagree. According to paragraph 6(iv) of the Amending Agreement, the Appellants could effect an early payout at any time, up to July 31, 2008, by paying the sum of $100,000 plus payment of all 15 minimum $20,00 annual interest payments unpaid at that time. I interpret this to mean that the Appellants did not have to make all of the $20,000 payments on time. As well, paragraph 14 of the Amending Agreement states unequivocally that it takes precedence over the terms in the Original Mortgage.
+[36] The Respondent submitted that the amount of “interest” which the Appellants sought to deduct was not reasonable. Counsel for the Appellant objected to this argument on the basis that reasonableness and section 67 had not been pled. However, section 67 did not have to be pled as paragraph 20(1)(c) has its own internal reference to reasonableness[10]. As well, even if reasonableness in the context of these four criteria was not pled, the court could not ignore it, as it constitutes a question of law that must be applied to the particular facts, pursuant to paragraph 20(1)(c).
+[37] The Supreme Court of Canada had this to say about the fourth element[11]:
+34 The fourth element - that the amount sought to be deducted must be the actual amount paid or "a reasonable amount in respect thereof" - has not previously been the subject of comment by this Court. It is clear, however, from the structure of s. 20(1)(c), that the phrase refers to the entirety of s. 20(1)(c)(i). Therefore, the taxpayer is entitled to deduct the lesser of, (1) the actual amount paid or, (2) a reasonable amount in respect of "an amount paid ... pursuant to a legal obligation to pay interest on ... borrowed money used for the purpose of earning income from a business or property". Here, the borrowed money that was used for the purpose of earning income was the NZ$150 million. At trial, Christie A.C.J.T.C. found that the market rate for a loan of NZ$ in 1988 for the five-year term specified in the Debenture Agreements was 15.4 percent per annum. That is the rate Shell paid. Where an interest rate is established in a market of lenders and borrowers acting at arm's length from each other, it is generally a reasonable rate: Mohammad v. R. (1997), 97 D.T.C. 5503 (Fed. C.A.) at p. 5509, per Robertson J.A.; Irving Oil Ltd. v. R., [1991] 1 C.T.C. 350 (Fed. C.A.) at p. 359, per Mahoney J.A. The fourth criterion is accordingly satisfied.
+[38] How could the amount of “interest” be “a reasonable amount in respect thereof” when it was not an amount that was paid nor was it an amount that had to be paid in the years under appeal? I conclude that in the circumstances of these appeals, the amount of “interest” was not reasonable.
+[39] The Appellants are not allowed to deduct interest in the amounts of $77,186, $80,127 and $84,391 in 1994, 1995 and 1996 respectively.
+[40] At the pleading stage of these appeals, the issues were:
+a) Whether each of the Appellants was entitled to deduct $100,000 for the Restructuring fee in 1993;
+b) Whether each of the Appellants was allowed to claim an interest expense in the amount:
+1994 - $77,186
+1995 - $80,127
+1996 - $84,391
+c) Whether there was a settlement or extinguishment of the debt owing under the Original Mortgage in 1993 by virtue of the Settlement Agreement;
+d) Whether each Appellant’s proportionate share of the gain on settlement of the Original Mortgage was properly calculated by the Minister;
+e) Whether the Minister correctly assessed the Appellants’ 1994 taxation year to reduce the undepreciated capital cost (“UCC”) of the rental properties to nil;
+f) Whether, in the alternative, the Minister correctly assessed the Appellants to reduce the UCC of the rental properties to nil on the basis that the Settlement Agreement was a sham;
+g) Whether, in the further alternative the Minister correctly assessed the Appellant to reduce the UCC of the rental properties to nil on the basis that the arrangement made to keep the Original Mortgage open for an additional 15 years was an “avoidance transaction” within the meaning of ss. 245(3) of the Act and resulted in a misuse of section 80 and an abuse of the Act read as a whole within the meaning of ss. 245(4) of the Act.
+[41] By letter dated prior to the hearing of these appeals, the Respondent conceded all of the issues listed in paragraph 40 except that at b). The appeals are allowed to the extent of the Respondent’s concessions.
+[42] The Respondent is entitled to its costs.
+Signed at Ottawa, Canada, this 23rd day of January 2009.
+“V.A. Miller”
+V.A. Miller, J.
+Schedule A
+SCHEDULE OF ADMITTED FACTS
+THE APPELLANTS REQUESTED, AND THE RESPONDENT HAS ADMITTED, for the purpose of this proceeding only, the authenticity of the following documents and the truth of the following facts:
+A. STATEMENT OF FACTS
+1. At all relevant times, Eugene Collins and Fleurette Collins (the “Appellants”) were residents in Canada for the purposes the Act.
+The Appellants’ Request to Admit, dated the 17th of March, 2008, (“Appellants’ Request”), paragraph 1.
+The Respondent’s Response to Request to Admit, dated the 28th of March, 2008, (the Respondent’s Admission”), paragraph 1.
+2. The Appellants, at all relevant times, each owned 50% of the shares of The Shelburn Group Ltd. (the “Corporation”), an Alberta corporation incorporated in 1972.
+Appellants’ Request, paragraph 2.
+Respondent’s Admission, paragraph 1.
+3. The Appellants (the “Partners”) each owned a 50% interest in the apartment building located at 1010 – 13th Avenue S.W., Calgary, Alberta (the “Property”).
+Appellants’ Request, paragraph 3.
+Respondent’s Admission, paragraph 1.
+4. By agreement dated September 1, 1981, the Corporation leased the land on the Property to the Appellants for a 50 year term.
+Appellants’ Request, paragraph 4.
+Respondent’s Admission, paragraph 1.
+5. At all relevant times pursuant to a Trust Agreement dated September 1, 1981, the Corporation acted as agent for the Partners in dealing with matters pertaining to the Property (the “Partnership”). A true copy of the Trust Agreement is referenced as Item 5 in each Appellant’s List of Documents filed in support of the respective appeals.
+Appellants’ Request, paragraph 5.
+Respondent’s Admission, paragraph 1.
+6. In the early 1980s, the Government of Alberta had a financing program in place to encourage the construction of apartment buildings in urban areas, known as the “Core Housing Incentive Program” (the “CHIP Program”).
+Appellants’ Request, paragraph 6.
+Respondent’s Admission, paragraph 1.
+7. Under the terms of the CHIP Program, applicants received loans at favourable interest rates in exchange for a certain portion of the suites in these apartment buildings being reserved as rent-controlled suites for low income tenants.
+Appellants’ Request, paragraph 7.
+Respondent’s Admission, paragraph 1.
+8. At the time of its inception, the CHIP Program was administered by the Alberta Mortgage and Housing Corporation (“AMHC”), a Crown Corporation owned by the Government of Alberta.
+Appellants’ Request, paragraph 8.
+Respondent’s Admission, paragraph 1.
+9. On April 9, 1981, pursuant to the CHIP Program, the Corporation (as agent for the Partnership) entered into the Original Loan Agreement with AMHC whereby AMHC lent the Corporation $1,840,725 at an 8 3/4% interest rate (the “Original Mortgage”), secured by a first mortgage on the Property. A true copy of the Original Mortgage is referenced as Item 2 in each Appellant’s List of Documents filed in support of the respective appeals.
+Appellants’ Request, paragraph 9.
+Respondent’s Admission, paragraph 1.
+10. In or around 1991 AMHC was wound down, and Municipal Affairs-Sales, Ltd. (“MASL”), an Alberta Crown Corporation, was given the mandate of negotiating the termination of agreements entered into by AMHC.
+Appellants’ Request, paragraph 11.
+Respondent’s Admission, paragraph 1.
+11. From 1991 to 1993, the Partnership entered into negotiations with MASL to restructure the Original Mortgage. As a result of these negotiations, the Loan Agreement and Mortgage Amending Agreement dated July 22, 1993 (the “Amending Agreement”) was entered into by the parties, a true copy of which is referenced as Item 13 in each Appellant’s List of Documents filed in support of the respective appeals.
+Appellants’ Request, paragraph 12.
+Respondent’s Admission, paragraph 1.
+12. In a computation of his income for the 1994, 1995 and 1996 taxation years, the Appellant claimed deductions for the following interest expenses paid or payable under the Original Mortgage, as amended by the Amending Agreement:
+1994
+1995
+1996
+Interest paid or payable
+$174,373
+$180,255
+$188,783
+Appellant’s portion (50%)
+$87,186
+$90,127
+$94,391
+Appellants’ Request, paragraph 15.
+Respondent’s Admission, paragraph 1.
+13. On March 8, 1999, the Appellant was reassessed for his 1993, 1994, 1995 and 1996 taxation years (the “Reassessments”) whereby:
+(a) the deduction of the Appellant’s portion of the interest payable under the Original Mortgage and Amending Agreement for 1994, 1995 and 1996 was denied, with such denial amounts calculated as follows:
+1994
+1995
+1996
+Interest paid or payable
+$174,373
+$180,255
+$188,783
+Less interest paid
+($20,000)
+($20,000)
+($20,000)
+Disallowed interest
+$154,373
+$160,255
+$168,783
+Appellant’s portion of disallowed interest (50%)
+$77,186
+$80,127
+$84,391
+Appellants’ Request, paragraph 16.
+Respondent’s Admission, paragraph 1.
+14. On May 31, 1999, the Appellant filed a Notice of Objection to the Reassessments, which Reassessments were confirmed by a Notification of Confirmation by the Minister dated May 24, 2001.
+Appellants’ Request, paragraph 17.
+Respondent’s Admission, paragraph 1.
+THE APPELLANTS REQUESTED, AND THE RESPONDENT ADMITTED, for the purpose of this proceeding only, the authenticity of the following documents:
+Documents listed as Items 1 through 36 in each Appellant’s List of Documents, filed in support of this appeal. True copies of each of these documents have been served upon the Respondent, earlier, and are therefore not attached to this document.
+DATED at the City of Calgary, in the Province of Alberta, this 2nd day of April, 2008.
+FRASER MILNER CASGRAIN LLP,
+SOLICITORS FOR THE APPELLANT
+PER: JEHAD HAYMOUR
+COUNSEL FOR THE APPELLANT
+Schedule B
+MORTGAGE
+THE LAND TITLES ACT OF ALBERTA
+THE SHELBURNE GROUP LTD.
+…
+4. That the Mortgagor will pay to the Mortgagee interest as aforesaid in the manner aforesaid on the said sum at the rate aforesaid and all interest on becoming overdue shall be forthwith treated (as to payment of interest thereon) as principal and shall bear compound interest at the rate aforesaid as well after as before maturity of this mortgage to be computed with rests and paid half-yearly commencing six months from that date for adjustment of interest and every six months thereafter in each and every year and all such interest and compound interest shall be a charge on the said lands. In the event of non-payment of any of the moneys hereby secured at the time herein set for payment thereof the Mortgagor will, so long as any part thereof remains unpaid, pay interest at the said rate from day to day on the same.
+…
+10. The Mortgagor further covenants and agrees with the Mortgagee that in the event of default being made in any of the covenants, agreements, provisos or stipulations expressed or implied herein:
+a) The Mortgage may, at the expense of the Mortgagor and when and to such extent as the Mortgagee deems advisable observe and perform or cause to be observed and performed such covenants, agreements, proviso or stipulation.
+b) The Mortgagee may send or employ an inspector or agent and report upon the value, state and condition of the said lands; and a solicitor to examine and report upon the title to the same;
+c) The Mortgagee or agent of the Mortgagee may enter into possession of the said lands and whether in or out of possession collect the rents and profits thereof, and make any demise or lease of the said lands, or any part thereof, for such terms and periods and at such rents as the Mortgagee shall think proper and the power of sale hereunder may be exercised either before or after and subject to any such demise or lease.
+d) It shall and may be lawful for and the Mortgagor does hereby grant full power, right and license to the Mortgagee to enter, seize and destrain upon the said lands, or any part thereof, and by distress warrant to recover by way of rent reserved as in the case of demise of the said lands, as much of the mortgage moneys as shall from time to time be or remain in arrears and unpaid, together with costs, charges and expenses attending such levy or distress, as in like cases of distress for rent.
+e) The Mortgagee may sell and dispose of the said lands with or without entering into possession of the same and with or without notice to the Mortgagor or any party interested in the said lands; and all remedies competent may be resorted to; and all the rights. powers and privileges granted to or conferred upon the Mortgagee under and by virtue of any status or by this Mortgage may be exercised; and any notice may be effectually given by leasing the same with a grown-up person on the said lands if occupied, or by placing the same thereon, or on any part thereof, if unoccupied, or at the option of the Mortgagee by publishing the same in some newspaper published in the Province of Alberta; and such notice shall be sufficient though not otherwise addressed than “To whom it may concern”; and not want of notice or publication or any other defect, impropriety or irregularity shall invalidate any sale made or purporting to be made of the said lands hereunder, and the Mortgagee may sell, transfer and convey any part of the said lands on such terms of credit or part cash and part credit, secured by contract or agreement for sale or mortgage, or otherwise, as shall appear to the Mortgagee most advantageous and for such prices as can reasonably be obtained therefore; and in the event of a sale on credit or part cash and part credit, whether by way of contract for sale or by conveyance or transfer and mortgage, the Mortgagee is not to be accountable for or charged with any moneys until the same shall be actually received in cash; and the sales may be made from time to time of part of the said lands to satisfy interest or parts of the principal overdue, leaving the principal or parts thereof to run with interest payable as aforesaid; and the Mortgagee may make stipulations as to the title or evidences or commencement of title or otherwise as the Mortgagee shall deem proper, and may put in or rescind or vary any contract for sale; and on any sale or release, the Mortgagee shall not be answerable for loss occasioned thereby; and for any of such purposes the Mortgagee may make and execute all agreements and assurances that the Mortgagee shall deem advisable or necessary; and in case any sale held by the Mortgagee under and by virtue of the laws of the Province of Alberta under the power of sale herein contained should prove abortive the Mortgagee may take foreclosure proceedings in respect of the said lands in accordance with the provisions of the laws of the Province of Alberta in that behalf; and in the event of any deficiency on account of the moneys secured by the Mortgage remaining due to the said Mortgagee after realizing all the said lands then the Mortgagor will pay to the Mortgagee on demand the amount of such deficiency with interest at the rate aforesaid.
+f) The whole of the mortgage moneys shall, at the option of the Mortgagee, become due and payable.
+g) The Mortgagee may exercise each of the foregoing powers without notice to the Mortgagor.
+CITATION: 2009TCC56
+COURT FILE NO.: 2001-2844(IT)G
+2001-2845(IT)G
+STYLE OF CAUSE: EUGENE COLLINS AND HER MAJESTY THE QUEEN
+FLEURETTE COLLINS AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Calgary, Alberta
+DATE OF HEARING: April 2, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: January 23, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Jehad Haymour
+Counsel for the Respondent:
+Mark Heseltine
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Jehad Haymour
+Firm: Fraser, Milner, Casgrain LLP
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Statement of Admitted Facts
+[2] Mortgage Loan No. 1091453 is the Original Mortgage.
+[3] 2001 D.T.C. 5212 (FCA)
+[4] Transcript page 16, line 2.
+[5] The Queen v. Bronfman, [1987] 1 S.C.R. 32 at paragraph 22
+[6] 2009 SCC 1 at paragraph 29
+[7] Shell Canada Ltd. v. Canada, [1999] 3 S.C.R. 622 at paragraph 28
+[8] See paragraph 14 of the Amending Agreement which states that it shall govern in the event of any inconsistency between it and the terms of the Original Mortgage.
+[9] See paragraph 6 of the Amending Agreement.
+[10] Supra, footnote 6 at paragraph 51
+[11] Supra, footnote 6 at paragraph 34.

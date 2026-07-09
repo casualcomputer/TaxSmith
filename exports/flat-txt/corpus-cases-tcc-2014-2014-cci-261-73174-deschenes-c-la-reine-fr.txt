@@ -1,0 +1,133 @@
+Title: Deschenes c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/73174/index.do
+Corpus path: corpus/cases/tcc/2014/2014-cci-261-73174-deschenes-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2014-08-29
+
+# Deschenes c. La Reine
+
+- Citation: 2014 CCI 261
+- Decision date: 2014-08-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5205, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Deschenes c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-08-29
+Référence neutre
+2014 CCI 261
+Numéro de dossier
+2013-4861(IT)I
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-4861(IT)I
+ENTRE :
+MICHEL DESCHENES,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 19 août 2014, à Montréal (Québec).
+Devant : L'honorable juge Gaston Jorré
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Anne-Marie Boutin
+JUGEMENT
+Pour les motifs ci-joints, l’appel de la cotisation du 16 octobre 2012 relatif à l’année d’imposition 2011 est rejeté sans frais.
+Signé à Toronto (Ontario), ce 29e jour d’août 2014.
+« Gaston Jorré »
+Juge Jorré
+Référence : 2014 CCI 261
+Date : 20140829
+Dossier : 2013-4861(IT)I
+ENTRE :
+MICHEL DESCHENES,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Jorré
+[1] Dans sa déclaration de revenu pour l’année fiscale 2011, l’appelant a déduit 21 609 $ à titre de frais juridiques.
+[2] En cotisant, le ministre du Revenu National a refusé la déduction et l'appelant appelle de la cotisation.
+[3] Il s'agit d'une très longue histoire avec beaucoup de faits, mais les faits essentiels ne sont pas compliqués.
+[4] Le père de l'appelant, Guy Deschenes, est décédé en 1997. Parmi les dispositions dans le testament de M. Deschenes, il y a le paragraphe suivant :
+« Je donne et lègue à titre de legs particulier à ma conjointe Dame Ghislaine Gagné mon Régime Enregistré Épargne Retraite (REER) en pleine et absolue propriété dès l'instant de mon décès. Cependant madite conjointe devra à mon décès acheter un Fonds [sic] Enregistré de Régime Retraite (FERR) dont les bénéficiaires seront madite conjointe Dame Ghislaine Gagné et à son décès mes enfants ci-après.»
+[5] L'appelant croit qu'en vertu de cette disposition, Ghislaine Gagné était obligée d'acheter un fonds enregistré de revenu de retraite avec certaines caractéristiques d’une compagnie d'assurance.
+[6] Mme Gagné était d'avis qu'elle pouvait choisir n'importe quel fonds enregistré de revenu de retraite.
+[7] La conséquence pratique de ce désaccord est que, si l'appelant avait eu raison, Mme Gagné aurait été restreinte dans les montants qu'elle pouvait recevoir et, potentiellement, au décès de Mme Gagné, l'appelant et les autres enfants de M. Deschenes recevraient un montant d'argent plus élevé.
+[8] Ce litige a été très longuement débattu devant les tribunaux. Les tribunaux, y compris la Cour d'appel du Québec en 2007, sont d'accord avec Mme Gagné; elle peut choisir librement le fonds enregistré de revenu de retraite qu'elle veut. En 2008, le fonds choisi par Mme Gagné a reçu l'argent provenant du régime enregistré d’épargne retraite de M. Deschenes.
+[9] Toutefois, ceci n'est pas la fin de l'histoire, car, en 2010, l'appelant et ses deux frères ont intenté une autre demande en justice en Cour Supérieure. Cette demande mène à la décision dans Deschênes c. Services financiers Dundee ltée, 2011 QCCS 5954. Les motifs ont été rendus le 31 octobre 2011.
+[10] Les détails de cette saga sont énumérés dans les motifs de la décision Deschênes.
+[11] Les frais juridiques encourus en 2011 et dont il est question sont engagés dans le cadre de cette demande. Le montant de 21 609 $ représente un tiers des frais juridiques encourus. Les deux frères de l’appelant ont payé le reste des frais.
+[12] Quand on lit le jugement, on constate qu'il s'agit d'un effort de la part de l'appelant de poursuivre, d’une autre façon, la même question d'interprétation du testament qui avait déjà été décidée. En plus, la succession a fait une demande en dommages-intérêts.
+[13] L’appelant n’a mis en preuve que la première page de la requête introductive d’instance[1], mais, la Cour Supérieure, au paragraphe 56 du jugement Deschênes, reproduit :
+… Les deux principales conclusions de la requête introductive d'instance amendée sont reproduites ci-dessous:
+ORDONNER à Dundee de retourner à Ghislaine la somme de 1 040 090,00$ (UN MILLION QUARANTE MILLE QUATRE-VINGT-DIX DOLLARS) somme initialement reçue afin que Ghislaine Gagné puisse stipuler pour autrui à un contrat FERR d'assurance qui créera, dès la conclusion du contrat, une créance irrévocable entre le promettant Dundee et les bénéficiaires Deschênes qui n'entrera à aucun moment dans le patrimoine du stipulant le tout selon les instructions du document d'adhésion P-12 ayant par contrat judiciaire force de chose jugée;
+CONDAMNER Dundee à payer la Succession de feu Guy Deschênes la somme de 122 000,00$ (CENT VINGT-DEUX MILLE DOLLARS) en remboursement du travail excédentaire du liquidateur suite au Jugement Hallée somme à parfaire du 1er juin 2008 jusqu'au terme de la présente procédure;
+[14] L'appelant n'a pas eu plus de succès en 2011 qu’auparavant. Je note aussi que sa tentative d'appel à la Cour d'appel du Québec a été rejetée suite à des requêtes de la part des parties défenderesses[2].
+[15] Il est clair que le but des dépenses encourues en 2011 par l'appelant est d'établir qu'il a certains droits dans la succession. Il y avait aussi un deuxième but; la succession cherchait à obtenir des dommages-intérêts.
+[16] Je ne vois pas comment, dans ses circonstances, il peut s'agir de dépenses déductibles.
+[17] Pour qu’une dépense soit déductible il y a, entre autres, deux conditions générales prévues aux sous paragraphes 18(1)a) et b) de la Loi de l'impôt sur le revenu :
+18(1) Dans le calcul du revenu du contribuable tiré d'une entreprise ou d'un bien, les éléments suivants ne sont pas déductibles :
+a) les dépenses, sauf dans la mesure où elles ont été engagées ou effectuées par le contribuable en vue de tirer un revenu de l'entreprise ou du bien;
+b) une dépense en capital, une perte en capital ou un remplacement de capital, un paiement à titre de capital ou une provision pour amortissement, désuétude ou épuisement, sauf ce qui est expressément permis par la présente partie;
+[18] Il ne s'agit certainement pas de dépenses d'entreprise.
+[19] Un droit de quelque nature est un bien au sens de la Loi[3].
+[20] L’appelant prétend que son but été de préservé un bien, certains droits, parce que, selon l’appelant, ces droits existaient des le décès de son père. Mais les tribunaux ont clairement décidé que ce n’était pas le cas; l’appelant n’a pas les droits qu’il prétendait avoir. Une personne ne peut préserver un bien qu’il n’a jamais eu.
+[21] En conséquence, les dépenses juridiques faites en 2011 ont été engagées dans un nouvel effort d’établir les droits que l’appelant prétend avoir.
+[22] Ce n’est pas différent que s’il s’agissait d’un litige ou Mme Gagné aurait prétendu qu’un legs testamentaire comprend le lot A et l’appelant aurait prétendu que le legs en question comprenait des droits additionnels, le lot B en plus du lot A.
+[23] Même en supposant qu’il s’agit d’une dépense en vue de tirer un revenu de bien, ces dépenses sont des dépenses de nature capitale, établir ses droits, et ils ne sont pas déductibles selon le paragraphe 18(1)b).
+[24] De plus, je ne vois pas comment dans ces circonstances il peut s’agir de dépenses effectuées par le contribuable en vue de tirer un revenu de bien au sens du paragraphe 18(1)a). Le but est d’obtenir des droits qui vont peut-être avoir comme conséquence qu’au décès de Mme Gagné, l’appelant recevrait un montant d’argent plus élevé. Hériter d’un montant plus élevé au décès de Mme Gagné ne constitue pas un revenu de bien[4].
+[25] Dans la mesure où il s’agit de dépenses pour obtenir des dommages‑intérêts payables à la succession de Guy Deschênes en remboursement du travail excédentaire du liquidateur, il ne s’agit pas de dépenses engagées en vue de tirer un revenu de bien. De plus, ce qui était recherché est un paiement à la succession et non au contribuable.
+[26] L’appelant attache beaucoup d’importance à l’arrêt 65302 British Columbia Ltd. c. Canada[5], une cause ou la question était la déductibilité pour une entreprise avicole d’une taxe de dépassement de quota de production d’œufs. Les circonstances sont très différentes de celles ici et je ne vois pas comment l’arrêt 65302 British Columbia peut aider l’appelant.
+[27] L’appelant invoque également l’arrêt Nadon c. Canada[6] notamment le paragraphe 17. Toutefois, ce paragraphe traite d’une dépense pour recouvrer un montant dû en vertu d’un droit déjà existant. Or, il n’ y’ a pas de tel montant ici.
+[28] En conséquence, vu que les frais en question ne sont pas déductibles, l’appel est rejeté.
+Signé à Toronto (Ontario), ce 29e jour d’août 2014.
+« Gaston Jorré »
+Juge Jorré
+RÉFÉRENCE :
+2014 CCI 261
+Nº DU DOSSIER DE LA COUR :
+2013-4861(IT)I
+INTITULÉ DE LA CAUSE :
+MICHEL DESCHENES c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+le 19 août 2014
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Gaston Jorré
+DATE DU JUGEMENT :
+Le 29 août 2014
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Anne-Marie Boutin
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pièce A-4 (pour identification) à l’onglet 4, qui est en preuve.
+[2] Deschênes c. Services financiers Dundee ltée, 2012 QCCA 395.
+[3] Voir la définition de « bien » à l’article 248 de la Loi.
+[4] C’est recevoir le bien; de même, si l’hériter reçoit le lot B dans l’exemple ci-haut, la réception du lot B ne constitue pas un revenu.
+[5] 1999 3 S.C.R. 804.
+[6] 2003 CAF 400.

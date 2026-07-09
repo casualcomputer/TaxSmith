@@ -1,0 +1,250 @@
+---
+title: "Insurers' Advisory Organization Inc. c. MRN"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25834/index.do"
+last_modified: "2003-07-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 443"
+citation2: ""
+neutral_citation: "2003 CCI 443"
+decision_date: "2003-07-16"
+language: "fr"
+item_id: "25834"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3905
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:58:31.389000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "aa1a16cb27c62ef92afb34f9905515860faeb71785091075c2434045b6dc95ea"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Insurers' Advisory Organization Inc. c. MRN
+
+- Citation: 2003 CCI 443
+- Decision date: 2003-07-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3905, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Insurers' Advisory Organization Inc. c. MRN
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-07-16
+Référence neutre
+2003 CCI 443
+Numéro de dossier
+2002-3080(EI)
+Juges et Officiers taxateurs
+Michael H. Porter
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2002-3080(EI)
+ENTRE :
+INSURERS' ADVISORY ORGANIZATION INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de Inusrers' Advisory Organization Inc. (dossier numéro 2002-3081(CPP)) à Calgary (Alberta) le 28 mars 2003
+Devant : L'honorable juge suppléant Michael H. Porter
+Comparutions
+Avocate de l'appelante :
+Me V. Kate Morisset
+Avocate de l'intimé :
+Me Galina M. Bining
+____________________________________________________________________
+JUGEMENT
+L'appel est admis et la décision du ministre est infirmée conformément aux motifs du jugement ci-joints.
+Signé à Calgary (Alberta), ce 16e jour de juillet 2003.
+« Michael H. Porter »
+Juge suppléant Porter
+Traduction certifiée conforme
+ce 22e jour de janvier 2004.
+Nancy Bouchard, traductrice
+Dossier : 2002-3081(CPP)
+ENTRE :
+INSURERS' ADVISORY ORGANIZATION INC.,
+appelante,
+Et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de Inusrers' Advisory Organization Inc. (dossier numéro 2002-3080(EI)) à Calgary (Alberta) le 28 mars 2003
+Devant : L'honorable juge suppléant Michael H. Porter
+Comparutions
+Avocate de l'appelante :
+Me V. Kate Morisset
+Avocate de l'intimé :
+Me Galina M. Bining
+_______________________________________________________________
+JUGEMENT
+L'appel est admis et la décision du ministre est infirmée conformément aux motifs du jugement ci-joints.
+Signé à Calgary (Alberta), ce 16e jour de juillet 2003.
+« Michael H. Porter »
+Juge suppléant Porter
+Traduction certifiée conforme
+ce 22e jour de janvier 2004.
+Nancy Bouchard, traductrice
+Référence : 2003CCI443
+Date : 20030716
+Dossiers : 2002-3080(EI)
+2002-3081(CPP)
+ENTRE :
+INSURERS' ADVISORY ORGANIZATION INC.,
+appelante,
+Et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant Porter
+[1] Les présents appels ont été entendus sur preuve commune par consentement des parties, le 28 mars 2003 à Calgary, en Alberta.
+[2] L'appelante a interjeté appel à l'encontre des décisions du ministre du Revenu national (ci-après appelé le « ministre » ) datée du 18 mars 2002 selon lesquelles l'emploi qu'occupait Kirk A. Aucoin (le « travailleur » ) auprès de l'appelante pendant la période du 14 février 2000 au 14 février 2001 était un emploi assurable et ouvrant droit à pension en vertu de la Loi sur l'assurance-emploi (la « Loi sur l'a.-e. » ) et du Régime de pensions du Canada (le « RPC » ) respectivement pour le motif suivant :
+[traduction]
+[...] Kirk A. Aucoin était engagé en vertu d'un contrat de louage de services (c.-à-d. qu'il existait une relation employeur-employé entre le travailleur et l'entreprise Insurers' Advisory Organization Inc.).
+On a indiqué que ces décisions avaient été rendues en vertu du paragraphe 93(3) de la Loi sur l'a.-e. et du paragraphe 27.2(3) du RPC et qu'elles étaient fondées sur l'alinéa 5(1)a) de la Loi sur l'a.-e. et l'alinéa 6(1)a) du Régime.
+[3] Les faits établis révèlent que l'appelante exploite une entreprise qui fournit des services de contrôle des pertes, ce qui comprend des enquêtes sur les risques physiques, des services d'ingénierie, d'actuariat-conseil, de tarification d'assurance, des services d'informatique en direct, des services statistiques, des services éducatifs ainsi que d'autres services connexes. Le travailleur a été engagé pour mener des enquêtes sur le contrôle des pertes et pour procéder à des évaluations des risques portant sur les biens en vertu d'une entente conclue le 14 février 2000 intitulée [TRADUCTION] « convention d'entrepreneur indépendant - accord individuel » . En dépit du titre qu'ont donné les parties à cet accord, le ministre a décidé que le travailleur était en fait un employé engagé en vertu d'un contrat de louage de services. Quant à l'appelante, elle soutient qu'il était un entrepreneur indépendant engagé en vertu d'un contrat d'entreprise. Voilà donc la question en litige que la présente Cour est appelée à trancher.
+Le droit
+Contrats de louage de services ou contrats d'entreprise
+[4] Les propos qu'a tenus le juge MacGuigan de la Cour d'appel fédérale dans l'affaire Wiebe Door Services Ltd. c. M.R.N., [1986] 3 C.F. 553 (87 DTC 5025) servent depuis longtemps de fondement lorsqu'il s'agit de déterminer la façon dont doit procéder la Cour pour décider si des modalités de travail particulières constituent un contrat de louage de services donnant lieu, par conséquent, à une relation employeur-employé ou un contrat d'entreprise donnant lieu, par conséquent, à une relation d'entrepreneur indépendant. Par la suite, dans d'autres décisions, la Cour s'est étendue davantage sur le sujet et a expliqué plus en détail le raisonnement appliqué dans cette affaire, notamment dans les affaires Moose Jaw Kinsmen Flying Fins Inc. c. M.R.N., C.A.F., n ° A-531-87, 15 janvier 1988 (88 DTC 6099), Charbonneau c. Canada (M.R.N.),[1996] A.C.F. n ° 1337, et Vulcain Alarme Inc. c. Le ministre du Revenu national, C.A.F. n ° A-376-98, ((1999) 249 N.R. 1), qui tous ont fourni, aux cours de premières instances, des lignes directrices utiles lorsqu'il s'agit de rendre une décision dans des affaires semblables.
+[5] La Cour suprême du Canada a de nouveau examiné la question dans l'affaire 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] A.C.S. no 61 (2001 SCC 59, 274 N.R. 366). La question en litige dans cette affaire a été analysée dans le contexte de la responsabilité du fait d'autrui. Cependant, la Cour a reconnu que les mêmes critères s'appliquaient dans de nombreuses autres circonstances, notamment en matière de dispositions législatives sur l'emploi. Le juge Major, parlant au nom de la Cour, a approuvé l'approche qu'a adoptée le juge MacGuigan dans l'arrêt Wiebe Door (précité), lorsque ce dernier a analysé des causes canadiennes, britanniques et américaines et, en particulier, il a mentionné les quatre critères sur lesquels on doit s'appuyer pour rendre une telle décision, critères qui sont énoncés par lord Wright dans l'affaire City of Montreal v. Montreal Locomotive Works Ltd., [1974] 1 D.L.R. 161 aux pages 169-170. Le juge MacGuigan a conclu à la page 560 (DTC : à la page 5028) que :
+Dans ce contexte, les quatre critères établis par lord Wright constituent une règle générale, et même universelle, qui nous oblige à « examiner l'ensemble des divers éléments qui composent la relation entre les parties » . Quand il s'est servi de cette règle pour déterminer la nature du lien existant dans l'affaire Montreal Locomotive Works, lord Wright a combiné et intégré les quatre critères afin d'interpréter l'ensemble de la transaction.
+À la page 562 (DTC : à la page 5029), il a déclaré ce qui suit :
+[...] Je considère le critère de lord Wright non pas comme une règle comprenant quatre critères, comme beaucoup l'ont interprétée, mais comme un seul critère qui est composé de quatre parties intégrantes et qu'il faut appliquer en insistant toujours sur ce que lord Wright a appelé ci-dessus « l'ensemble des éléments qui entraient dans le cadre des opérations » , et ce, même si je reconnais l'utilité des quatre critères subordonnés. (Je souligne.)
+À la page 563 (DTC : à la page 5030), il a déclaré ce qui suit :
+Il est toujours important de déterminer quelle relation globale les parties entretiennent entre elles [...]
+Il a également fait observer ce qui suit :
+Quand il doit régler un tel problème, le juge de première instance ne peut se soustraire à l'obligation de peser avec soin tous les facteurs pertinents, [...].
+[6] Monsieur le juge MacGuigan a également déclaré ce qui suit :
+C'est probablement le juge Cooke, dans Market Investigations, Ltd. v. Minister of Social Security, [1968] 3 All E.R. 732, qui, parmi ceux qui ont examiné le problème, en a fait la meilleure synthèse (aux pages 738 et 739) :
+[TRADUCTION] Les remarques de lord Wright, du lord juge Denning et des juges de la Cour suprême des États-Unis laissent à entendre que le critère [...] fondamental à appliquer est celui-ci : « La personne qui s'est engagée à accomplir ces tâches les accomplit-elle en tant que personne dans les affaires à son compte » . Si la réponse à cette question est affirmative, alors il s'agit d'un contrat d'entreprise. Si la réponse est négative, alors il s'agit d'un contrat de service personnel. Aucune liste exhaustive des éléments qui sont pertinents pour trancher cette question n'a été dressée, peut-être n'est-il pas possible de le faire; on ne peut non plus établir de règles rigides quant à l'importance relative qu'il faudrait attacher à ces divers éléments dans un cas particulier. Tout ce qu'on peut dire, c'est qu'il faudra toujours tenir compte du contrôle même s'il ne peut plus être considéré comme le seul facteur déterminant; et que des facteurs qui peuvent avoir une certaine importance sont des questions comme celles de savoir si celui qui accomplit la tâche fournit son propre outillage, s'il engage lui-même ses aides, quelle est l'étendue de ses risques financiers, jusqu'à quel point il est responsable des mises de fonds et de la gestion, et jusqu'à quel point il peut tirer profit d'une gestion saine dans l'accomplissement de sa tâche. L'utilisation du critère général peut être plus facile dans un cas où la personne qui s'engage à rendre le service le fait dans le cadre d'une affaire déjà établie; mais ce facteur n'est pas déterminant. Une personne qui s'engage à rendre des services à une autre personne peut bien être un entrepreneur indépendant même si elle n'a pas conclu de contrat dans le cadre d'une entreprise qu'elle dirige actuellement.
+[7] Dans l'affaire Kinsmen Flying Fins Inc., précitée, la Cour d'appel fédérale a déclaré ce qui suit :
+[...] comme le juge MacGuigan, nous considérons les critères comme des subordonnés utiles pour peser tous les faits relatifs à l'entreprise de la requérante. C'est maintenant l'approche appropriée et préférable pour la très bonne raison que dans une cause donnée, et celle-ci peut très bien en être une, un ou plusieurs des critères peuvent être peu ou pas applicables. Pour rendre une décision, il faut donc considérer l'ensemble de la preuve en tenant compte des critères qui peuvent être appliqués et donner à toute la preuve le poids que les circonstances peuvent exiger.
+[8] Essentiellement, les critères qu'a mentionnés la Cour peuvent se résumer ainsi :
+a) le degré ou l'absence de contrôle de la part du prétendu employeur;
+b) la propriété des instruments de travail;
+c) les chances de bénéfice;
+d) les risques de perte.
+En outre, la Cour doit considérer la question de l'intégration, le cas échéant, du travail du prétendu employé dans l'entreprise du prétendu employeur.
+[9] Dans l'arrêt Sagaz (précité), le juge Major a affirmé ceci :
+Le contrôle n'est [...] pas le seul facteur à considérer pour décider si un travailleur est un employé ou un entrepreneur indépendant [...]
+[10] Il a traité également du caractère inadéquat que revêt le critère relatif au « degré de contrôle » en approuvant de nouveau les propos du juge MacGuigan dans l'arrêt Wiebe Door (précité). Ainsi :
+Ce critère a le grave inconvénient de paraître assujetti aux termes exacts du contrat définissant les modalités du travail : si le contrat contient des instructions et des stipulations détaillées, comme c'est chose courante dans les contrats passés avec un entrepreneur indépendant, le contrôle ainsi exercé peut être encore plus rigoureux que s'il résultait d'instructions données au cours du travail, comme c'est l'habitude dans les contrats avec un préposé, mais une application littérale du critère pourrait laisser croire qu'en fait, le contrôle exercé est moins strict. En outre, le critère s'est révélé tout à fait inapplicable pour ce qui est des professionnels et des travailleurs hautement qualifiés, qui possèdent des aptitudes bien supérieures à la capacité de leur employeur à les diriger.
+[11] Puis il a ajouté :
+À mon avis, aucun critère universel ne permet de déterminer, de façon concluante, si une personne est un employé ou un entrepreneur indépendant. Lord Denning a affirmé, dans l'arrêt Stevenson Jordan, [...] ([1952] 1 The Times L.R. 101), qu'il peut être impossible d'établir une définition précise de la distinction (p. 111) et, de la même façon, Fleming signale que [TRADUCTION] « devant les nombreuses variables des relations de travail en constante mutation, aucun critère ne semble permettre d'apporter une réponse toujours claire et acceptable » (p. 416). Je partage en outre l'opinion du juge MacGuigan lorsqu'il affirme - en citant Atiyah, [...] (Vicarious Liability in the Law of Torts. London: Butterworths, 1967), p. 38, dans l'arrêt Wiebe Door, p. 563 - qu'il faut toujours déterminer quelle relation globale les parties entretiennent entre elles :
+[TRADUCTION] [N]ous doutons fortement qu'il soit encore utile de chercher à établir un critère unique permettant d'identifier les contrats de louage de services [...] La meilleure chose à faire est d'étudier tous les facteurs qui ont été considérés dans ces causes comme des facteurs influant sur la nature du lien unissant les parties. De toute évidence, ces facteurs ne s'appliquent pas dans tous les cas et n'ont pas toujours la même importance. De la même façon, il n'est pas possible de trouver une formule magique permettant de déterminer quels facteurs devraient être tenus pour déterminants dans une situation donnée.
+Bien qu'aucun critère universel ne permette de déterminer si une personne est un employé ou un entrepreneur indépendant, je conviens avec le juge MacGuigan que la démarche suivie par le juge Cooke dans la décision Market Investigations, précitée, est convaincante. La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l'employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s'il engage lui-même ses assistants, quelle est l'étendue de ses risques financiers, jusqu'à quel point il est responsable des mises de fonds et de la gestion et jusqu'à quel point il peut tirer profit de l'exécution de ses tâches.
+Ces facteurs, il est bon de le répéter, ne sont pas exhaustifs et il n'y a pas de manière préétablie de les appliquer. Leur importance relative respective dépend des circonstances et des faits particuliers de l'affaire.
+[12] Je trouve également utile les mots du juge d'appel Décary dans l'affaire Charbonneau (précitée) quand, s'exprimant pour la Cour d'appel fédérale, il a déclaré ce qui suit :
+Les critères énoncés par cette Cour [...] ne sont pas les recettes d'une formule magique. Ce sont des points de repère qu'il sera généralement utile de considérer, mais pas au point de mettre en péril l'objectif ultime de l'exercice qui est de rechercher la relation globale que les parties entretiennent entre elles. Ce qu'il s'agit, toujours, de déterminer, une fois acquise l'existence d'un véritable contrat, c'est s'il y a, entre les parties, un lien de subordination tel qu'il s'agisse d'un contrat de travail [...] ou s'il [y a] [...] un degré d'autonomie tel qu'il s'agisse d'un contrat d'entreprise ou de service [...]. En d'autres termes, il ne faut pas [...]examiner les arbres de si près qu'on perde de vue la forêt. Les parties doivent s'effacer devant le tout. (Je souligne.)
+[13] Je fais également miens les mots du juge d'appel Létourneau dans l'affaire Vulcain Alarme (précitée), où il a déclaré ce qui suit :
+[...] Ces critères jurisprudentiels sont importants mais, faut-il le rappeler, ils ne sauraient compromettre le but ultime de l'exercice, soit d'établir globalement la relation entre les parties. Cet exercice consiste à déterminer s'il existe entre les parties un lien de subordination tel qu'il faille conclure à l'existence d'un contrat de travail au sens de l'article 2085 du Code civil du Québec ou s'il n'existe pas plutôt entre celles-ci ce degré d'autonomie qui caractérise le contrat d'entreprise ou de service [...]
+[14] Je suis d'autant plus conscient que conséquemment aux décisions qu'a récemment rendues la Cour d'appel fédérale dans les affaires Wolf c. Canada, [2002] A.C.F. n ° 375 et Precision Gutters Ltd. c. Canada (Ministre du Revenu national - M.R.N.), [2002] A.C.F. n ° 771, il semble que l'on permette dorénavant un degré de latitude considérable lorsqu'il s'agit d'intervenir en matière de jurisprudence afin de permettre aux experts-conseils d'être engagés de manière à ce qu'ils ne soient pas réputés être des employés, comme cela aurait pu être le cas auparavant. Je tiens particulièrement compte des propos du juge Décary dans la décision Wolf (précitée) lorsqu'il a déclaré ceci :
+De nos jours, quand un travailleur décide de garder sa liberté pour pouvoir signer un contrat et en sortir pratiquement quand il le veut, lorsque la personne qui l'embauche ne veut pas avoir de responsabilités envers un travailleur si ce n'est le prix de son travail et lorsque les conditions du contrat et son exécution reflètent cette intention, le contrat devrait en général être qualifié de contrat de service. Si l'on devait mentionner des facteurs particuliers, je nommerais le manque de sécurité d'emploi, le peu d'égard pour les prestations salariales, la liberté de choix et les questions de mobilité. (Je souligne.)
+[15] Il semble donc à la présente Cour que le pendule ait repris son mouvement de balancier de manière à permettre aux parties de diriger leurs affaires plus facilement relativement aux emplois d'expert-conseil et de manière à ce qu'elles soient en mesure de se ranger elles-mêmes dans la catégorie des entrepreneurs autonomes plutôt que dans la catégorie des employés engagés en vertu d'un contrat de louage de services, et ce, sans qu'interviennent la Cour et le ministre.
+[16] En conclusion, il n'existe aucune formule établie. Tous ces facteurs doivent être pris en compte et comme l'a indiqué le juge Major dans l'arrêt Sagaz (précité), le poids que l'on accordera à chacun de ces facteurs dépendra des circonstances et des faits particuliers de l'affaire en cause. De nombreux critères peuvent être tout à fait neutres et s'appliquer à ces deux situations. Dans pareil cas, on doit sérieusement tenir compte de l'intention des parties, tâche qui relève de la responsabilité du juge de première instance.
+Les faits
+[17] On a indiqué que le ministre, dans ses Réponses aux avis d'appel signées en son nom, s'est appuyé sur les hypothèses de fait suivantes (que l'appelante a admises ou niées, comme je l'ai indiqué entre parenthèses) :
+[traduction]
+a) l'appelante est une entreprise qui fournit des services de contrôle des pertes, ce qui comprend des enquêtes sur les risques physiques, des services d'ingénierie, d'actuariat-conseil, de tarification d'assurance, des services d'informatique en direct, des services statistiques, des services éducatifs ainsi que d'autres services connexes; (admise)
+b) l'appelante a engagé le travailleur pour mener des enquêtes sur le contrôle des pertes et pour procéder à des évaluations des risques portant sur les biens; (admise)
+c) le travailleur devait se présenter ( « reported » ) au bureau de l'appelante situé à Calgary, en Alberta; (admise, à condition que le terme « reported » , dans la version anglaise, soit remplacée par le terme « attending » )
+d) l'appelante et le travailleur avaient conclu un accord écrit (l' « accord » ); (admise)
+e) ledit accord énonçait en détail les services que devait fournir le travailleur à l'appelante; (admise)
+f) conformément audit accord, le travailleur a été engagé pour fournir des services à l'appelante pendant une période de une année; (niée, l'appelante affirme qu'il n'était pas engagé puisqu'il ne travaillait pas tous les jours mais en fonction de chaque cas)
+g) l'appelante rémunérait le travailleur selon un barème d'honoraires qu'elle avait établi; (admise)
+h) l'appelante rémunérait le travailleur mensuellement; (niée, l'appelante a expliqué qu'il était rémunéré sur présentation de ses factures, dans un délai de 30 jours)
+i) le travailleur était tenu de se présenter régulièrement au bureau de l'appelante; (niée)
+j) le travailleur était tenu de suivre les procédures, les règles et les directives qu'avait établies l'appelante; (niée, bien que certaines procédures aient été établies, le travailleur n'était pas supervisé quotidiennement)
+k) le travailleur était tenu de participer aux réunions que convoquait l'appelante; (niée)
+l) conformément à l'accord, il était interdit au travailleur de fournir des services semblables pour le compte de toute autre entreprise ou tout autre groupe d'entreprises qui faisait concurrence d'une manière quelconque à l'entreprise de l'appelante; (admise)
+m) l'appelante fournissait un ordinateur au travailleur; (admise, cet équipement lui était fourni sous forme de prêt)
+n) l'appelante assumait les coûts liés à une assurance responsabilité; (admise)
+o) le travailleur était tenu de fournir personnellement ses services à l'appelante. (niée)
+[18] René Cormier (M. Cormier), directeur de la succursale de Calgary, Liefur Bjornson, inspecteur pour la prévention des pertes engagé en vertu d'un contrat et travaillant pour le compte de l'appelante, et Kirk Aucoin lui-même ont témoigné au nom de l'appelante.
+[19] Les modalités pertinentes du contrat sont ainsi rédigées :
+[Traduction]
+[...] ET ATTENDU QUE l'entreprise IAO et l'entrepreneur souhaitent établir une relation contractuelle en vertu de laquelle l'entrepreneur est un entrepreneur indépendant, ce dernier aura pour tâches de mener des enquêtes sur les risques physiques et d'effectuer des évaluations des risques portant sur les biens et d'autres risques pour le compte et au nom de l'entreprise IAO, conformément aux modalités du présent contrat exposées ci-dessous :
+[...]
+Prestation de services
+1. En tant qu'entrepreneur indépendant, l'entrepreneur, au nom de l'appelante, accepte de mener des enquêtes sur les risques physiques et d'effectuer des évaluations des risques portant sur les biens et d'autres risques au moment opportun, ainsi que de soumettre à l'entreprise IAO un rapport écrit sur chaque enquête ou évaluation de qualité et dans un format qui répondent aux exigences de l'entreprise IAO, conformément aux modalités et aux dispositions du présent accord et de tout autre document accessoire connexe.
+[...]
+Honoraires et dépenses
+3. En contrepartie des services que fournira l'entrepreneur à l'entreprise IAO en vertu du présent accord, cette dernière s'engage à payer l'entrepreneur conformément au barème joint au présent accord à l'annexe A ( « barème d'honoraires » ) et [...]conformément aux modalités énoncées aux paragraphes 4 et 5 aux présentes. Le barème d'honoraires peut être modifié en tout temps sur consentement écrit de l'entreprise IAO et de l'entrepreneur.
+4. L'entrepreneur est responsable de toutes les dépenses qu'il engage dans l'exécution de ses obligations en vertu du présent accord, notamment des dépenses relatives à l'achat d'équipement et de fournitures ainsi que des frais de déplacement, sauf dispositions contraires expresses contenues dans (le « barème d'honoraires » ).
+5. L'entrepreneur est tenu de soumettre à l'entreprise IAO, à la fin de chaque mois civil, une facture écrite pour toutes ses demandes de paiement de tous les services rendus en application du barème d'honoraires. Quant à l'entreprise IAO, elle s'engage à verser lesdits paiements en fonction des montants facturés assujettis aux modalités du présent accord, dans un délai de trente (30) jours après réception de la facture.
+Relation entre l'entrepreneur et l'entreprise IAO - Entrepreneur indépendant
+6. Les parties conviennent expressément que ni l'entrepreneur ni aucun des représentants de l'entrepreneur (tel qu'il est défini au paragraphe 8) ne sont à aucune fin des employés de l'entreprise IAO mais des entrepreneurs indépendants qui exploitent une entreprise distincte de celle de l'entreprise IAO. Cette dernière ne s'intéresse qu'aux résultats qu'obtient l'entrepreneur qui doit exercer un contrôle sur la façon et les moyens de fournir ses services en vertu du présent accord. L'entreprise IAO n'a aucun droit d'exiger de l'entrepreneur qu'il recouvre des comptes, qu'il enquête relativement à des plaintes que déposent des clients, qu'il consacre un nombre d'heures fixes ou établies à ses obligations en vertu du présent accord, qu'il prenne des engagements en son nom ou qu'il fasse quoi que ce soit qui pourrait mettre en péril la relation d'entrepreneur indépendant qui existe entre l'entreprise IAO et l'entrepreneur.
+7. L'entrepreneur n'a ni le droit, ni le pouvoir, ni l'autorité de contracter des obligations ou de conclure des contrats soit exprès ou tacites, pour l'entreprise IAO, ou en son nom, qui lient celle-ci, ou d'engager la responsabilité de cette dernière à l'égard d'un crédit ou d'accorder celui-ci en son nom et ne peut non plus se prévaloir d'un tel droit, pouvoir ou autorité.
+8. En vue d'assurer la prestation des services prévus au présent accord, et sous réserve d'une autorisation écrite de l'entreprise IAO obtenue au préalable, l'entrepreneur a le droit de nommer ou, sinon, de désigner des employés, des experts-conseils, des agents et des représentants fiables et recommandables (ci-après appelés collectivement les « représentants de l'entrepreneur » ), sous réserve que lesdites personnes possèdent l'expertise et reçoivent la formation nécessaires pour accomplir les tâches que leur assigne l'entrepreneur. Cette [Traduction] « autorisation écrite de l'entreprise IAO obtenue au préalable » ne doit viser qu'à s'assurer que les représentants de l'entrepreneur possèdent l'expertise nécessaire et une formation adéquate pour accomplir les tâches susmentionnées. L'entrepreneur est l'unique responsable de ses représentants et de leurs actes, et il les engage à ses propres risques et dépens. De même, leur supervision relève de sa responsabilité. Les représentants de l'entrepreneur ne peuvent déposer une réclamation quelconque contre l'entreprise IAO relativement à des salaires, à des commissions, à des éléments ou à toute autre forme de compensation ou de remboursement; quant à l'entrepreneur, il déclare et garantit que ses représentants lui seront subordonnés et seront assujettis à toutes les modalités, dispositions et conditions qui s'appliquent à l'entrepreneur en vertu du présent accord et s'y engage.
+[20] Manifestement, selon cet accord qu'ont conclu les parties, celles-ci prétendent avoir conclu une convention d'entrepreneur indépendant.
+[21] M. Cormier a expliqué qu'il était responsable de 36 entrepreneurs qui fournissaient des services à l'appelante un peu partout dans les trois provinces de l'Ouest. Son organisation fait affaire avec des compagnies d'assurance, des administrations municipales, les gouvernements fédéral et provinciaux, ainsi qu'avec des experts en sinistres et des sociétés du secteur privé qui font appel à ses services pour effectuer des analyses de risques indépendantes portant sur de l'équipement, des biens et des entreprises de tout genre. Pour effectuer le travail sur le terrain, on engage des sous-traitants tels que le travailleur. Il a expliqué que l'on offrait des contrats à chaque sous-traitant assez régulièrement et que ces derniers étaient libres de refuser ou d'accepter les contrats qui leur étaient proposés. S'ils acceptaient un contrat, ils devaient l'exécuter dans un délai précis puisque l'appelante prenait des engagements envers ses clients. Il a ajouté que, maintenant, les affectations sont offertes par voie électronique, tandis qu'à l'époque où le travailleur avait été engagé, on recevait les contrats au bureau de l'appelante et on les distribuait dans les boîtes aux lettres des sous-traitants, et ceux-ci les récupéraient et choisissaient ceux qui leur convenaient.
+[22] M. Cormier a indiqué que l'on effectuait un examen de contrôle de la qualité des rapports que produisaient les sous-traitants, c'est-à-dire qu'on les vérifiait pour s'assurer qu'ils avaient été produits selon les normes avant de les remettre aux clients.
+[23] M. Cormier a dit que le travailleur pouvait établir son propre horaire de travail et prévoir du temps pour ses heures de repas, ses pauses, ses vacances, etc. S'il était malade, il n'était pas tenu d'en informer qui que ce soit.
+[24] La rétribution versée était assujettie au barème d'honoraires joint au contrat initial. Le travailleur facturait ses honoraires à l'appelante une fois par mois, et il était payé dans un délai de un mois suivant la date de facturation.
+[25] Les appels interurbains que faisait le travailleur lui étaient remboursés et, lorsqu'il se rendait sur les lieux d'affaire d'un client, il pouvait remettre des cartes d'affaires indiquant qu'il représentait l'organisation de l'appelante. Cette dernière fournissait également une assurance de responsabilité civile et remboursait au travailleur toutes les sommes qu'il déboursait pour participer à des séances de formation ou à des réunions qu'organisait l'entreprise.
+[26] Il a ajouté que le travailleur était tenu de couvrir ses propres frais liés à l'utilisation de son véhicule automobile ainsi qu'à l'achat d'essence, d'un téléphone, d'un ordinateur et d'articles de bureau. L'appelante fournissait les formules servant à rédiger les rapports d'inspection que devait utiliser le travailleur. De plus, l'appelante avait prêté au travailleur un ordinateur portatif qu'il n'était toutefois autorisé à utiliser que dans le cadre des activités commerciales de l'entreprise.
+[27] M. Cormier a expliqué que les sous-traitants pouvaient donner leur contrat en sous-traitance à d'autres entrepreneurs, mais l'appelante se réservait le droit de s'assurer que ces entrepreneurs étaient qualifiés pour accomplir le travail. Il me semble que cela ne s'est jamais produit en ce qui concerne le travailleur, tout comme il était peu probable que cela se produise puisque toute personne qualifiée aurait, à mon avis, travaillé directement pour le compte de l'appelante. À cet égard, la disposition 8 du contrat semblait plutôt vaine. Néanmoins, le droit légal d'agir ainsi existait. M. Cormier a ajouté que certains entrepreneurs engageaient d'autres personnes pour s'occuper des évaluations et d'autres choses de ce genre.
+[28] Il a indiqué que bon nombre de sous-traitants fournissaient des services à d'autres entreprises qui ne faisaient toutefois pas concurrence à l'appelante et qui n'étaient pas contraires aux dispositions du contrat. À titre d'exemples, il a mentionné des cas dont celui d'un entrepreneur qui travaillait pour le compte du Workers' Compensation Board (l'équivalent de la Commission de la sécurité professionnelle et de l'assurance contre les accidents du travail), celui d'un autre entrepreneur qui fournissait directement des services à certains tarificateurs aux fins d'homologation de cinq camions à incendie et celui d'un autre entrepreneur qui vendait des caravanes classiques.
+[29] En ce qui concerne les réunions que convoquait l'entreprise, M. Cormier a affirmé que le travailleur n'était pas tenu d'y assister. Il avait la possibilité de suivre des cours de formation et il était libre d'y participer s'il le souhaitait. Certaines séances de formation visaient à lui fournir des renseignements mis à jour pour répondre aux besoins des clients, de sorte qu'on l'incitait fortement à y participer.
+[30] M. Cormier a soutenu que l'appelante ne fournissait aucun équipement aux entrepreneurs. Il a expliqué qu'il avait prêté un ordinateur portatif au travailleur parce que le sien était tombé en panne et qu'il avait demandé s'il pouvait en emprunter un à court terme pour une période de trois mois.
+[31] Lorsque l'appelante a modifié ses procédures d'établissement de rapports destinés à ses clients, celle-ci a exigé que les entrepreneurs se dotent d'un appareil photo numérique. À cette fin, elle a pris les dispositions nécessaires pour offrir celle-ci aux entrepreneurs au prix de groupe de 600 $, et le travailleur a donc acheté le sien par l'entremise de l'appelante.
+[32] Lorsque l'appelante a modifié son barème d'honoraires qu'elle versait à ses entrepreneurs, le travailleur a décidé de ne plus leur fournir ses services et il a mis fin à son contrat.
+[33] Il semble que les entrepreneurs produisaient leurs rapports par l'entremise d'Internet à l'aide d'un logiciel que leur fournissait l'entreprise et auquel ils avaient accès à l'aide d'un mot de passe qui leur était assigné.
+[34] Lorsqu'un nouveau travailleur était engagé, un représentant de l'appelante l'accompagnait pour s'assurer qu'il exécutait le travail tel qu'il était requis de le faire.
+[35] Liefur Bjornson est un homme qui a travaillé dans ce domaine pendant de nombreuses années et qui possède une vaste expérience. Il a donc été le témoin le plus impressionnant. Il avait, pour fonction principale, de faire rapport du contrôle de la qualité du travail qu'accomplissaient les autres inspecteurs. C'est en 1991 qu'il a commencé à travailler comme sous-traitant. Le bureau lui assignait des contrats et, s'il avait l'impression qu'il ne possédait les capacités requises pour effectuer le travail demandé ou s'il ne voulait pas exécuter ledit contrat, alors il le retournait à l'appelante.
+[36] Il communiquait avec le courtier d'assurance en question pour obtenir le nom du client et c'est par l'entremise dudit courtier qu'il fixait ses rendez-vous. Il a expliqué comment il effectuait ses inspections et comment il produisait ses rapports et à cet égard, il estimait qu'il était son propre superviseur tout comme il estimait qu'il était totalement responsable du travail qu'il accomplissait. Au début, il faisait appel aux services d'employés de l'appelante ou de travailleurs externes pour s'occuper de l'entrée de ses données. Puis, en 2000, il a expliqué que tout le monde devait posséder un ordinateur pour classer ses dossiers. Il soumettait ses rapports en même temps que ses factures. Le travail devait être accompli de façon opportune. Il a également ajouté qu'il gagnait de l'argent en acceptant en fait autant de travail qu'il le souhaitait. Il a engagé des dépenses liées à l'utilisation de son propre véhicule automobile ainsi que pour l'achat d'un ordinateur et de fournitures de bureau.
+[37] Il a confirmé qu'il n'était pas obligatoire d'assister aux réunions de l'entreprise et que les inspecteurs étaient tout simplement invités à participer à une assemblée annuelle et à des séances de formation.
+[38] Il était persuadé qu'il était un entrepreneur indépendant et que l'appelante était sa cliente qu'il représentait lorsqu'il faisait des inspections.
+[39] J'ai accordé beaucoup de poids au témoignage de ce témoin puisqu'il m'a semblé très crédible.
+[40] En dernier lieu, le travailleur lui-même a témoigné. Avant la période en question, il a travaillé pour le compte de l'appelante pendant plusieurs années à titre d'employé. Il a déposé un curriculum vitæ au bureau de l'entreprise en 2000. Il a, par la suite, reçu un appel et il a été engagé. Au moment de son embauche, on lui a présenté le contrat et il a demandé s'il lui était nécessaire de faire appel à un avocat, ce à quoi on lui a répondu qu'il était en droit de faire tout ce qui lui semblait approprié. Il a expliqué que le contrat lui avait semblé correct, et on lui a mentionné que d'autres sous-traitants l'avaient signé. Il a donc lui aussi signé ledit contrat. Il savait, avant de postuler, que l'appelante [Traduction] « n'engageait que des entrepreneurs indépendants » , mais il a indiqué qu'il ignorait alors ce que cela signifiait. Il a expliqué que ce n'est qu'après avoir signé le contrat qu'il a compris ce que cela sous-entendait, lorsque Liefur Bjornson, apparemment, lui a tout expliqué en détail. Plus tard, soit en janvier 2001, il a signé un autre contrat en utilisant le nom commercial de « Canadian Loss Control Services » , nom, a-t-il indiqué, que l'appelante lui avait trouvé. Il a également obtenu un numéro d'inscription aux fins de la TPS.
+[41] Il a expliqué comment on lui assignait des contrats en les déposant dans sa boîte aux lettres, au bureau de l'entreprise, un peu comme l'a expliqué M. Cormier. Il a également confirmé le témoignage de ce dernier concernant l'équipement dont il avait besoin, l'obligation de se doter d'un appareil photo numérique et l'emprunt d'un ordinateur portatif.
+[42] Il estimait qu'il avait fait l'objet d'une supervision au cours des deux premiers mois puisque M. Bjornson, ou un autre inspecteur dénommé Steve, examinait le travail qu'il accomplissait. Ils lui signalaient certaines choses qu'il pouvait avoir omis de faire.
+[43] Au bureau, il s'entretenait quotidiennement avec Darlene Taylor qui lui a dit qu'il était censé lui rendre des comptes régulièrement. S'il estimait qu'il n'était pas qualifié pour exécuter un contrat, il lui retournait ledit contrat.
+[44] Lorsqu'il était tenu de travailler à l'extérieur de la ville, il louait quelquefois un véhicule et payait le coût de location à même ses honoraires.
+[45] Il a expliqué que, pendant les premiers mois, il avait conservé son emploi qu'il occupait dans une entreprise de vente de pièces automobiles.
+[46] Ce sont là les faits saillants tels qu'ils m'ont été présentés. Les témoignages des divers témoins ne sont pas vraiment contradictoires. Ils sont en fait presque en tout point semblables. Bien que M. Cormier et M. Bjornson aient fait preuve de beaucoup plus d'assurance quant aux tâches qu'ils accomplissaient et à la façon dont ils les exécutaient, je n'ai pas eu l'impression que le témoignage du travailleur était en contradiction avec celui de ces deux témoins.
+Application du droit aux faits
+[47] Titre : Il est important de bien comprendre que, même si les parties choisissent de donner un titre à leur relation, si la véritable nature et l'essente de l'arrangement ne correspondent pas au titre qu'elles lui ont donné, c'est l'essence de cet arrangement dont doit tenir compte la Cour. Ce principe juridique n'a pas changé (voirShell Canada Ltd. c. Canada, [1999] A.C.S. 30). Cela étant dit, il est également juste d'affirmer que, lorsque les parties choisissent vraiment une méthode particulière d'établir leur relation de travail, ce n'est pas au ministre ou à la présente Cour de faire abstraction de ce choix. On doit faire preuve de retenue quant à la méthode qu'ont choisie les parties et si, selon la preuve dans son ensemble, il n'y a aucune raison de déroger au titre qu'ont donné les parties à leur relation, alors ce titre devrait rester intact. Les décisions Wolf et Precision Gutters (précitées) appuient cette assertion.
+[48] Bien que j'émette certaines réserves quant à savoir dans quelle mesure le travailleur a bien compris, au moment de la signature de ce contrat, tout ce que cela sous-entendait, je suis tout à fait convaincu c'est ce qui s'est produit lorsqu'il a commencé à travailler, puisque M. Bjornson lui avait tout expliqué en détail.
+[49] Degré de contrôle : Cet aspect du critère, selon son application traditionnelle, tend constamment à démontrer que ce n'est pas tant le contrôle réel exercé qui importe à la Cour, mais plutôt le droit d'exercer ce contrôle. Plus une personne est professionnelle et compétente ou plus elle possède de l'expérience dans son domaine, moins il est nécessaire d'exercer un contrôle réel quelconque, ce qui rend difficile l'application de ce critère. En fait, comme le juge Major l'a mentionné dans l'arrêt Sagaz (précité), il se peut que le contrôle exercé soit moindre dans le cas d'un employé professionnel et compétent que dans le cas d'un entrepreneur indépendant. Néanmoins, il s'agit d'un autre facteur qui fait pencher la balance.
+[50] Somme toute, je n'ai perçu que très peu de contrôle, sinon aucun, sur le travailleur. Il était libre d'accepter ou de refuser du travail et d'aller et de venir comme bon lui semblait, ce qui présente toutes les caractéristiques d'un entrepreneur indépendant.
+[51] Il est évident que les clients de l'appelante exigeaient que leurs rapports soient produits d'une certaine manière, qu'ils devaient contenir certains renseignements précis et qu'ils devaient leur être soumis par voie électronique. L'appelante transmettait ces exigences au travailleur, ce qui n'équivaut pas à un contrôle. Tel était en fait le travail qui devait être accompli pour le compte des clients.
+[52] Outils et équipement de travail : Essentiellement, le travailleur devait fournir ses propres outils, notamment un véhicule automobile, un ordinateur et un appareil photo. En fait, il a emprunté un ordinateur portatif, mais il est clair qu'il ne s'agissait que d'un prêt temporaire. Cette exigence selon laquelle le travailleur devait posséder ses propres outils pour accomplir son travail tend clairement à démontrer qu'il s'agissait d'une entente conclue avec un entrepreneur indépendant.
+[53] Profits et pertes : Ses profits dépendaient surtout de la quantité de travail qu'il acceptait d'exécuter et du zèle dont il faisait preuve pour l'accomplir. Comme la Cour d'appel fédérale l'a mentionné dans la décision Precision Gutters, précitée, cela indique clairement qu'il s'agit d'une personne qui exploite une entreprise à son compte. De même, il avait besoin d'un équipement. Même s'il ne générait aucun revenu, il devait tout de même couvrir ces dépenses. S'il perdait ou endommageait son équipement, il risquait de subir une perte. Tous ces facteurs comportent un aspect entrepreneurial et indiquent une fois de plus qu'il s'agissait d'un entrepreneur indépendant engagé en vertu d'un contrat d'entreprise.
+[54] Le critère de l'intégration : Il s'agit d'un facteur qui a souvent fait l'objet de critiques. La question que l'on doit fréquemment se poser est la suivante : « à qui appartient l'entreprise? » , question que l'on doit poser du point de vue du travailleur et non de l'employeur puisque du point de vue de ce dernier, il s'agira toujours de son entreprise. En d'autres termes, dans l'affaire en l'espèce, s'agissait-il d'une seule entreprise ou de deux entreprises distinctes?
+[55] Ainsi, lorsque j'examine la situation du point de vue du travailleur, il est clair qu'il exploitait sa propre entreprise. En fait, il est même allé jusqu'à signer un nouveau contrat en utilisant son nouveau nom commercial. Il est vrai que l'appelante l'a incité à agir de la sorte, mais c'est tout de même ce qu'il a fait. Son travail comportait un certain aspect entrepreneurial. Il pouvait aller et venir comme bon lui semblait, il pouvait gagner autant d'argent qu'il le souhaitait et il devait couvrir les propres dépenses qu'il engageait dans l'exécution de son travail, dépenses qu'il défrayait à même ses honoraires. De plus, il facturait ses services. À mon avis, il est clair que, dans l'affaire en l'espèce, deux entreprises distinctes étaient exploitées.
+Conclusion
+[56] Lorsque j'examine la forêt dans son ensemble et non seulement chaque arbre qui la compose, je suis tout à fait convaincu, selon la preuve, que le travailleur était un entrepreneur indépendant engagé en vertu d'un contrat d'entreprise. À cet égard, je songe aux propos du juge Décary dans la décision Wolf, précitée, qui affirme ceci :
+De nos jours, quant un travailleur décide de garder sa liberté pour pouvoir signer un contrat et en sortir pratiquement quand il le veut, lorsque la personne qui l'embauche ne veut pas avoir de responsabilités envers un travailleur si ce n'est le prix de son travail et lorsque les conditions du contrat et son exécution reflètent cette intention, le contrat devrait en général être qualifié de contrat de service. Si l'on devait mentionner des facteurs particuliers, je nommerais le manque de sécurité d'emploi, le peu d'égard pour les prestations salariales, la liberté de choix et les questions de mobilité. (Je souligne.)
+[57] La présente affaire concorde tout à fait avec ces propos. Par conséquent, les appels sont admis et les décisions du ministre sont infirmées.
+Signé à Calgary (Alberta), ce 16e jour de juillet 2003.
+« Michael H. Porter »
+Juge suppléant Porter
+Traduction certifiée conforme
+ce 22e jour de janvier 2004.
+Nancy Bouchard, traductrice

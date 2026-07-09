@@ -1,0 +1,155 @@
+---
+title: "Archambault c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26012/index.do"
+last_modified: "2004-12-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 714"
+citation2: ""
+neutral_citation: "2004 CCI 714"
+decision_date: "2004-12-13"
+language: "fr"
+item_id: "26012"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3745
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:44:55.847000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0d2848d806f07709bc4e8de824c80e5eb5e56e19cdde5d6ffd16cee04b6a5f6b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Archambault c. La Reine
+
+- Citation: 2004 CCI 714
+- Decision date: 2004-12-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3745, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Archambault c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-12-13
+Référence neutre
+2004 CCI 714
+Numéro de dossier
+2004-3189(IT)APP
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-3189(IT)APP
+ENTRE :
+RENÉ ARCHAMBAULT,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Demande entendue le 22 octobre 2004, à Montréal (Québec).
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Pour le requérant :
+Le requérant lui-même
+Avocate de l'intimée :
+Me Agathe Cavanagh
+ORDONNANCE
+Vu la demande faite afin d'obtenir une ordonnance prorogeant le délai dans lequel un avis d'appel à l'égard des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1989, 1990, 1991 et 1992 peut être signifié;
+Et vu les allégations des parties;
+La demande pour les années 1989, 1990, 1991 et 1992 est rejetée selon les motifs de l'ordonnance ci-joints.
+Signé à Ottawa, Canada, ce 13e jour de décembre 2004.
+« Paul Bédard »
+Juge Bédard
+Référence : 2004CCI714
+Date : 20041213
+Dossier : 2004-3189(IT)APP
+ENTRE :
+RENÉ ARCHAMBAULT,
+requérant,
+Et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L'ORDONNANCE
+Le juge Bédard
+[1] Il s'agit d'une demande faite en vertu du paragraphe 167(5) de la Loi de l'impôt sur le revenu (la « Loi » ) en vue d'obtenir une ordonnance portant prorogation du délai à l'intérieur duquel le requérant peut interjeter appel de la décision du ministre du Revenu national (le « ministre » ). La Cour doit déterminer si la demande du requérant visant la prorogation du délai d'appel pour les années d'imposition 1989, 1990, 1991 et 1992 est bien fondée.
+[2] Le ministre a expédié au requérant des avis de nouvelle cotisation le 28 juin 1993 pour l'année d'imposition 1989, le 6 juin 1994 pour l'année d'imposition 1990 et le 19 avril 1995 pour les années d'imposition 1991 et 1992.
+[3] Le requérant a signifié au ministre son opposition à l'égard des nouvelles cotisations le 30 août 1993 pour l'année d'imposition 1989, le 15 juillet 1994 pour l'année d'imposition 1990 et le 24 mai 1995 pour les années d'imposition 1991 et 1992.
+[4] Par lettre recommandée expédiée le 25 septembre 2003, le ministre a avisé le requérant qu'il ratifiait les nouvelles cotisations datées du 28 juin 1993 pour l'année d'imposition 1989, du 6 juin 1994 pour l'année d'imposition 1990 et du 19 avril 1995 pour les années d'imposition 1991 et 1992.
+[5] Le requérant n'a pas interjeté appel auprès de la Cour dans le délai prescrit, qui expirait le 24 décembre 2003 puisque les nouvelles cotisations du 28 juin 1993 pour l'année d'imposition 1989, du 6 juin 1994 pour l'année d'imposition 1990 et du 19 avril 1995 pour les années d'imposition 1991 et 1992 ont toutes été ratifiées le 25 septembre 2003.
+[6] Le 28 juillet 2004, le requérant a déposé auprès de la Cour une demande de prorogation du délai pour interjeter appel relativement aux nouvelles cotisations du 28 juin 1993 pour l'année d'imposition 1989, du 6 juin 1994 pour l'année d'imposition 1990 et du 19 avril 1995 pour les années d'imposition 1991 et 1992
+Analyse
+[7] Le requérant est un ingénieur spécialisé dans la résolution des problèmes liés au son et à la vibration. Le requérant oeuvrait à son compte.
+[8] Le requérant a témoigné qu'il avait reçu, lu et compris la lettre du 25 septembre 2003 (pièce I-1) que le ministre lui avait expédiée le même jour par courrier recommandé, lettre qui ratifiait les nouvelles cotisations du requérant. Il convient de souligner que le ministre avait joint à cette lettre un document faisant état des procédures d'appel qui doivent être suivies par le contribuable lorsque ce dernier n'est pas d'accord avec la décision du ministre et qu'il veut en appeler à la Cour de cette décision.
+[9] Le requérant a témoigné qu'il avait rencontré, le 25 octobre 2003, monsieur Germain Dubuc, son comptable. Il a expliqué que lors de cette rencontre, il avait remis à monsieur Dubuc un ensemble de documents dont la lettre du 25 septembre 2003. Le requérant a souligné qu'il n'avait alors pas discuté avec monsieur Dubuc de cette lettre, mais plutôt d'autres sujets liés à la comptabilité et à la fiscalité de son entreprise. Il a admis n'avoir pas donné à monsieur Dubuc le mandat d'en appeler de la décision du ministre du 25 septembre 2003. En effet, le requérant croyait qu'en remettant cette lettre à monsieur Dubuc, ce dernier ferait le suivi puisque quelques années auparavant monsieur Dubuc avait réglé les mêmes dossiers avec les autorités provinciales.
+[10] Monsieur Dubuc a témoigné qu'il avait bel et bien reçu du requérant la lettre du 25 septembre 2003, mais qu'il n'avait pas reçu du requérant le mandat d'en appeler de la décision du ministre. Il a expliqué qu'il n'avait jamais porté une attention particulière à cette lettre et que cette lettre n'avait jamais fait l'objet de discussions avec le requérant avant la fin de février 2004. Il croyait que les avocats du requérant avaient le mandat d'en appeler de la décision du ministre du 25 septembre 2003, puisque ces derniers représentaient le requérant dans la même affaire pour des années d'imposition antérieures.
+[11] Vers la fin de février ou au début de mars 2004, le requérant a admis qu'il s'était rendu compte qu'il n'avait pas interjeté appel dans le délai imparti à la suite de conversations téléphoniques qu'il avait eues avec Me Nader Khalil et monsieur Douglas Atherton, un des coordonnateurs d'un groupement d'investisseurs qui participaient aux projets de recherche et de développement dont faisait partie le requérant. Il a témoigné qu'il avait alors eu des discussions téléphoniques à ce sujet avec monsieur Denis Pépin, un fonctionnaire de la Cour, et avec monsieur Lemire de l'Agence des douanes et du revenu du Canada. Il a admis avoir alors reçu des modèles d'actes de procédure pour interjeter appel.
+[12] Le requérant a témoigné qu'il avait préparé lui-même la demande de prorogation du délai pour interjeter appel et qu'il avait fait parvenir au début de février 2004 cette demande à Me Khalil pour que ce dernier la révise, prépare l'avis d'appel et la dépose à la Cour. Le requérant a expliqué qu'il n'avait pas eu le temps de ce faire avant le début juin puisqu'il est un entrepreneur très occupé. En effet, il avait dû s'absenter pendant tout le mois d'avril 2004 pour des raisons d'affaires. De plus, il avait été malade pendant presque tout le mois de mai 2004.
+[13] Le requérant s'est-il conformé au paragraphe 167(5) de la Loi et a-t-il droit à une prorogation du délai pour déposer ses avis d'appels? Le paragraphe 167(5) de la Loi se lit comme suit :
+167 (5) Il n'est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande a été présentée dans l'année suivant l'expiration du délai imparti en vertu de l'article 169 pour interjeter appel;
+b) le contribuable démontre ce qui suit :
+(i) dans le délai par ailleurs imparti pour interjeter appel, il n'a pu ni agir ni charger quelqu'un d'agir en son nom, ou il avait véritablement l'intention d'interjeter appel,
+(ii) compte tenu des raisons indiquées dans la demande et des circonstances de l'espèce, il est juste et équitable de faire droit à la demande,
+(iii) la demande a été présentée dès que les circonstances le permettaient,
+(iv) l'appel est raisonnablement fondé.
+[14] Le délai pour interjeter appel en vertu de l'article 169 de la Loi expirait le 24 décembre 2003. Le requérant avait présenté sa demande en prorogation de délai le 28 juillet 2004. La demande a donc été présentée dans l'année suivant l'expiration du délai imparti en vertu de l'article 169 de la Loi pour interjeter appel. Par conséquent, le requérant s'est conformé à l'alinéa 167(5)a) de la Loi.
+[15] Avant de faire droit à la demande de prorogation du délai d'appel, la Cour doit être convaincue que, dans le délai imparti pour interjeter appel (en l'espèce ce délai expirait le 24 décembre 2003), le requérant n'a pu ni agir ni charger quelqu'un d'agir en son nom, ou qu'il avait véritablement l'intention d'interjeter appel. Ces deux conditions apparaissant au sous-alinéa 167(5)b)(i) de la Loi sont disjonctives.
+[16] Le requérant avait le fardeau en l'espèce de démontrer selon la prépondérance des probabilités qu'il avait l'intention d'interjeter appel avant le 24 décembre 2003.
+[17] Le requérant, qui devait démontrer qu'il avait l'intention d'interjeter appel dans le délai imparti, a présenté une preuve qui reposait sur son témoignage et sur celui de monsieur Dubuc. En effet, il a tenté de démontrer qu'il y avait eu un malentendu entre lui et monsieur Dubuc, ce dernier prétendant n'avoir pas reçu de mandat d'interjeter appel et le requérant croyant qu'en remettant la lettre du 25 septembre à monsieur Dubuc, il avait implicitement donné à monsieur Dubuc le mandat d'en appeler de la décision du ministre. Cette explication m'apparaît invraisemblable. L'appelant a témoigné que les sommes en jeu étaient d'environ 100 000 $ et qu'il ferait faillite s'il était appelé à payer cette somme. Je ne peux m'expliquer qu'à l'intérieur du délai imparti pour interjeter appel, le requérant n'ait jamais discuté avec monsieur Dubuc de façon spécifique de la décision du ministre puisqu'il s'agissait d'une question de vie ou de mort pour lui. Il m'apparaît aussi invraisemblable que monsieur Dubuc, qui a admis avoir reçu la lettre du 25 septembre 2003, n'ait pas communiqué avec le requérant pour s'informer tout au moins de la raison pour laquelle le requérant lui avait remis la lettre. Il convient de souligner que le requérant n'a jamais fait de suivi auprès de monsieur Dubuc pendant le délai imparti pour interjeter appel. Le requérant n'a sûrement pas démontré de diligence et de prudence à cet égard. Le requérant, faut-il le rappeler, avait le fardeau en l'espèce de démontrer, selon la prépondérance des probabilités qu'il avait l'intention d'interjeter appel avant le 24 décembre 2004. Je suis d'avis qu'il n'a pas relevé le fardeau qui lui incombait en fournissant une telle preuve.
+[18] Est-ce que la demande de prorogation a été présentée dès que les circonstances le permettaient? La preuve a révélé hors de tout doute qu'au début de mars 2003, le requérant savait qu'il était hors du délai imparti pour interjeter appel et qu'il savait qu'il pouvait faire une demande de prorogation du délai pour interjeter appel. La preuve a aussi révélé qu'il savait même comment interjeter appel puisqu'on lui avait remis des modèles d'actes de procédure pour ce faire. Je m'explique très mal que la demande ait été déposée à la Cour sept mois après l'expiration du délai imparti pour interjeter appel. Ce long délai ne peut s'expliquer que par l'incurie et le manque de diligence du requérant. Il a tenté d'expliquer ce long délai de la façon suivante :
+i) il avait dû s'absenter du Canada pendant le mois d'avril 2004 pour réaliser un mandat sur une base militaire en Europe;
+ii) pendant les trois premières semaines de mai, il avait été malade.
+[19] Certes, je peux comprendre qu'il ne pouvait agir pendant les trois premières semaines de mai 2004. Toutefois, pourquoi n'a-t-il pas agi pendant le mois de mars 2004? S'il était à ce point occupé en avril 2004, pourquoi n'a-t-il pas chargé quelqu'un d'agir en son nom? Il a soutenu qu'il avait remis à Me Khalil la demande de prorogation de délai au début du mois de juin 2004 pour que ce dernier y joigne l'avis d'appel et dépose le tout à la Cour. Je m'explique très mal pourquoi il a fallu deux mois avant que cette demande de prorogation du délai parvienne à la Cour. Encore une fois, le requérant n'a pas fait de suivi auprès de Me Khalil. Le requérant a admis qu'il ne pouvait s'expliquer cet autre délai de deux mois.
+[20] La preuve n'a révélé aucune circonstance particulière qui aurait pu expliquer un tel retard, si ce n'est la maladie qui avait affecté le requérant pendant les trois premières semaines de mai 2004. Un contribuable, si occupé qu'il puisse être, doit faire preuve de diligence. S'il est à ce point occupé, il doit, à mon avis, charger quelqu'un d'agir en son nom et faire le suivi auprès du mandataire. Le requérant n'a posé aucun de ces gestes. La preuve a démontré clairement son incurie et son manque de diligence.
+[21] Pour ces motifs, je conclus au rejet de la demande de prorogation.
+Signé à Ottawa, Canada, ce 13e jour de décembre 2004.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE :
+2004CCI714
+No DU DOSSIER DE LA COUR :
+2004-3189(IT)APP
+INTITULÉ DE LA CAUSE :
+René Archambault et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+Le 22 octobre 2004
+MOTIFS DE L'ORDONNANCE PAR :
+L'honorable juge Paul Bédard
+DATE DE L'ORDONNANCE :
+Le 13 décembre 2004
+COMPARUTIONS :
+Pour le requérant :
+Le requérant lui-même
+Pour l'intimée :
+Me Agathe Cavanagh
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour le requérant :
+Nom :
+Étude :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,187 @@
+---
+title: "Zieber v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28651/index.do"
+last_modified: "2008-06-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 328"
+citation2: ""
+neutral_citation: "2008 TCC 328"
+decision_date: "2008-06-04"
+language: "en"
+item_id: "28651"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1115
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:08:25.340000+00:00"
+cases_cited_count: 0
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "582815486ae4d0ad12db07f0e0be66fab6885baf9d26e130e0ecb66e2b4e216d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Zieber v. The Queen
+
+- Citation: 2008 TCC 328
+- Decision date: 2008-06-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1115, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Zieber v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-06-04
+Neutral citation
+2008 TCC 328
+File numbers
+2007-4311(IT)I
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-4311(IT)I
+BETWEEN:
+COLIN G. ZIEBER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 2, 2008 at Lethbridge, Alberta
+Before: The Honourable D.W. Beaubier, Deputy Judge
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Margaret M. McCabe
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2005 taxation year is allowed and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+The Appellant is awarded the sum of $100 for his out-of-pocket disbursements incurred in prosecuting this appeal.
+Signed at Calgary, Alberta this 4th day of June 2008.
+“D.W. Beaubier”
+Beaubier, D.J.
+Citation: 2008TCC328
+Date: 20080604
+Docket: 2007-4311(IT)I
+BETWEEN:
+COLIN G. ZIEBER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Beaubier, D.J.
+[1] This appeal pursuant to the Informal Procedure was heard at Lethbridge, Alberta, on June 2, 2008. The Appellant was the only witness.
+[2] The particulars of the appeal are set out in paragraphs 1, 4, 7, 11, 12 and 13 of the Reply to the Notice of Appeal. They read:
+A. STATEMENT OF FACTS
+1. With respect to the first unnumbered paragraph of the Notice of Appeal,
+(a) he admits:
+(i) that the Appellant and his spouse entered into a surrogacy agreement with another couple to carry an embryo created earlier; and
+(ii) that legal expenses related to a surrogacy agreement are not listed in the Income Tax Act and, thus, are not eligible expenses;
+(b) he denies that the Appellant submitted the legal expenses incurred in developing the surrogacy agreement at the advice of a Revenue Canada (Canada Revenue Agency) Official; and
+(c) he has no knowledge of and puts in issue the remaining allegations contained therein.
+…
+4. In computing income for the 2005 taxation year, the Appellant claimed, in calculating the medical expense credit, medical expenses in the amount of $8,563.00.
+…
+7. On February 2, 2007, the Minister further reassessed the Appellant for the 2005 taxation year, notice of which was issued on that day, (the “February 2, 2007 Reassessment”) to allow medical expenses in the amount of $5,941.00. In reassessing the Appellant, Minister did not allow amounts claimed as medical expenses totalling $2,987.21 (the “Disallowed Expenses”) as the Minister determined that the Disallowed Expenses were not medical expenses or, if medical expenses, they were not medical expenses that were paid in respect of the Appellant, his spouse or a dependent of the Appellant.
+…
+11. In so reassessing the Appellant for the 2005 taxation year and in so confirming the February 2, 2007 Reassessment, the Minister assumed the following facts:
+(a) the Appellant’s spouse is Lori Zieber (the “Spouse”);
+(b) the Disallowed Expenses were comprised of the following:
+Legal Expenses
+$2,451.75
+Travel – Meals
+90.00
+– Accommodations
+159.70
+Hotel Reservation
+106.44
+Pelvic Ultrasound
+100.00
+Prescriptions
+79.32
+Total
+$2,987.21
+(c) the Disallowed Expenses were paid to enable the Appellant and the Spouse to give birth to a child through a surrogate mother;
+(d) the Disallowed Expenses as they relate to legal expenses were paid in respect of the preparation of a legal agreement between the Appellant, the Spouse and the surrogate mother;
+(e) the Disallowed Expenses as they relate to Travel – Meals and Accommodations were paid in respect of surrogacy information sessions for the Appellant and the Spouse;
+(f) the Disallowed Expenses as they relate to Hotel Reservation were paid in August, 2004; and
+(g) the Disallowed Expenses as they relate to Pelvic Ultrasound and Prescriptions were not provided in respect of the Appellant, the Spouse or a dependent of the Appellant.
+B. ISSUES TO BE DECIDED
+12. The issue to be decided is whether the Appellant is entitled to claim, as medical expenses for the 2005 taxation year, amounts totalling $2,987.21 that were paid to enable the Appellant and the Spouse to give birth to a child through a surrogate mother.
+C. STATUTORY PROVISIONS, GROUNDS RELIED ON AND RELIEF SOUGHT
+13. He relies on section 118.2 of the Income Tax Act, R.S.C. 1985 (5th Supp.) c.1, (the “Act”), as amended, for the 2005 taxation year.
+[3] The heart of the appeal is paragraph 118.2(1)(a) and paragraph 118.2(2)(l.1) of the Income Tax Act (“Act”). They read:
+Medical expense credit
+118.2 (1) For the purpose of computing the tax payable under this Part by an individual for a taxation year, there may be deducted the amount determined by the formula
+A x [(B - C) + D]
+where
+A is the appropriate percentage for the taxation year;
+B is the total of the individual’s medical expenses in respect of the individual, the individual’s spouse, the individual’s common-law partner or a child of the individual who has not attained the age of 18 years before the end of the taxation year
+(a) that are evidenced by receipts filed with the Minister,
+…
+Medical expenses
+(2) For the purposes of subsection 118.2(1), a medical expense of an individual is an amount paid
+…
+(l.1) on behalf of the patient who requires a bone marrow or organ transplant,
+(i) for reasonable expenses (other than expenses described in subparagraph 118.2(2)(l.1)(ii)), including legal fees and insurance premiums, to locate a compatible donor and to arrange for the transplant, and
+(ii) for reasonable travel, board and lodging expenses (other than expenses described in paragraphs 118.2(2)(g) and 118.2(2)(h)) of the donor (and one other person who accompanies the donor) and the patient (and one other person who accompanies the patient) incurred in respect of the transplant;
+[4] The Court accepts the Appellant’s evidence that all the expenses claimed were paid by him either on his and his wife’s behalf or for the surrogate mother in order to comply medically with prerequisite conditions to enable the couple’s embryo to be transplanted into the surrogate mother so that their child could be born.
+[5] As a result, to this Court, the question is whether that fertilized egg or embryo was an “organ” as described in paragraph 118.2(2)(l.1) of the Act.
+[6] The federal statute under which this surrogate procedure occurred is the Assisted Human Reproduction Act, S.C. 2004 c.2. Under section 3, “embryo” is defined as follows:
+"embryo"
+«embryon»
+"embryo" means a human organism during the first 56 days of its development following fertilization or creation, excluding any time during which its development has been suspended, and includes any cell derived from such an organism that is used for the purpose of creating a human being.
+Which is to say that an embryo is a human organism.
+[7] The Shorter Oxford Dictionary, 1973, defines an “organism” as:
+2. An organized or organic system; a whole consisting of dependent and interdependent parts, compared to a living being …
+And it defines an “organ” as:
+II. A part or member of an animal or plant body adapted by its structure for a particular vital function …
+In the view of the Court, a fertilized egg or embryo such as the one in question, is adapted by its structure to grow into a complete human being.
+[8] For these reasons, the Court finds that the embryo transplant in question constituted an organ transplant within the meaning of paragraph 118.2(2)(l.1) of the Act and the expenses allowable are those described therein. They were incurred by the Appellant on behalf of the patient who required the organ transplant with one exception. The Appellant stated that the claim for a hotel reservation of $106.44 was mistaken, but he failed to claim a further $90 meal expense for the surrogate mother to enable the birth to occur.
+[9] As a result, the appeal is allowed, in its entirety, except for the sum of $16.44, leaving a balance allowed of $2,970.77 and this matter is referred to the Minister of National Revenue for reconsideration and reassessment on that basis.
+[10] The Appellant is awarded his out-of-pocket disbursements for prosecuting the appeal including copying, postage and parking which are fixed in the sum of $100.
+Signed at Calgary, Alberta this 4th day of June, 2008.
+“D.W. Beaubier”
+Beaubier, D.J.
+CITATION: 2008TCC328
+COURT FILE NO.: 2007-4311(IT)I
+STYLE OF CAUSE: Colin G. Zieber v. The Queen
+PLACE OF HEARING: Lethbridge, Alberta
+DATE OF HEARING: June 2, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice D.W. Beaubier,
+Deputy Judge
+DATE OF JUDGMENT: June 4, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Margaret M. McCabe
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

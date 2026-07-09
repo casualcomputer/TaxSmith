@@ -1,0 +1,299 @@
+Title: Callaghan c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/497589/index.do
+Corpus path: corpus/cases/tcc/2021/2021-cci-35-497589-callaghan-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2021-07-21
+
+# Callaghan c. La Reine
+
+- Citation: 2021 CCI 35
+- Decision date: 2021-07-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4544, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Callaghan c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2021-07-21
+Référence neutre
+2021 CCI 35
+Numéro de dossier
+2017-5026(IT)I, 2017-5027(IT)I
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2017‑5026(IT)I
+ENTRE :
+MICHAEL CALLAGHAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Observations écrites sur les dépens reçues les ou vers les 10 août 2020, 2 novembre 2020, 9 novembre 2020 et 9 décembre 2020
+Devant : l’honorable juge suppléant Gaston Jorré
+Comparutions :
+Avocat de l’appelant :
+Me Sean C. Flaherty
+Avocat de l’intimée :
+Me Dustin Kenall
+ORDONNANCE
+Conformément aux motifs de l’ordonnance ci‑joints, la Cour octroie à l’appelant une somme forfaitaire de 3 000 $ au titre des honoraires et des débours.
+Signé à Ottawa, Canada, ce 20e jour de mai 2021.
+« Gaston Jorré »
+Juge suppléant Jorré
+Dossier : 2017‑5027(IT)I
+ENTRE :
+BARBARA VAN RASSEL,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Observations écrites sur les dépens reçues les ou vers les 10 août 2020, 2 novembre 2020, 9 novembre 2020 et 9 décembre 2020
+Devant : l’honorable juge suppléant Gaston Jorré
+Comparutions :
+Avocat de l’appelante :
+Me Sean C. Flaherty
+Avocat de l’intimée :
+Me Dustin Kenall
+ORDONNNANCE
+Conformément aux motifs de l’ordonnance ci‑joints, la Cour octroie à l’appelant une somme forfaitaire de 3 000 $ au titre des honoraires et des débours.
+Signé à Ottawa, Canada, ce 20e jour de mai 2021.
+« Gaston Jorré »
+Juge suppléant Jorré
+Référence : 2021 CCI 35
+Date : 20210520
+Dossier : 2017‑5026(IT)I
+ENTRE :
+MICHAEL CALLAGHAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2017‑5027(IT)I
+ET ENTRE :
+BARBARA VAN RASSEL,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le Juge suppléant Jorré
+Introduction
+[1] Les parties ne sont pas parvenues à s’entendre sur les dépens. Les appelants réclament 30 000 $ au titre des dépens [1] , plus des débours de 2 264,94 $, sommes qui comprennent la TVH. Le montant des dépens réclamé représente environ 65 % du mémoire de frais.
+[2] L’intimée est d’avis que les dépens devraient être de 1 185 $, conformément au tarif. Quant aux débours, le désaccord à leur sujet est très limité.
+[3] L’affaire a été instruite sous le régime de la procédure informelle. L’audience a duré une journée complète, sans les argumentations, lesquelles ont été présentées par écrit. La Cour a été saisie d’observations écrites substantielles, y compris sur les dépens, faute d’une entente sur ceux‑ci.
+[4] Les appelants ont eu gain de cause dans une très large mesure, mais pas entièrement. Sur le plan pratique, pour les deux appelants mis ensemble, les montants en cause étaient d’environ 200 000 $, y compris l’impôt provincial sur le revenu et les intérêts. Le montant en cause aux fins du calcul relatif au ressort provincial est moins élevé parce que l’impôt provincial et les intérêts ne sont pas inclus [2] .
+[5] Les pénalités pour faute lourde ont été annulées à l’égard de toutes les années, et l’appel a été entièrement accueilli à l’égard des quatre premières années en cause au motif que celles‑ci étaient frappées de prescription.
+[6] En ce qui concerne les rajustements des pertes réclamées au titre des trois dernières années, selon un calcul très approximatif et rapide, l’effet net du jugement a été de réduire les pertes de l’entreprise d’environ 30 % pour ces années [3] . Il y a aussi certaines conclusions factuelles que je n’ai pas eu à tirer parce qu’elles n’auront aucune incidence sur les années en cause, mais elles pourraient avoir un effet sur certains soldes au cours des années ultérieures [4] .
+[7] Des difficultés se posaient en ce qui a trait aux éléments de preuve des appelants. Certaines n’étaient pas importantes pour les années en cause, et d’autres l’étaient [5] .
+Cadre législatif
+[8] Dans le système juridique canadien, il existe une hiérarchie des lois :
+i) Au sommet se trouve, bien sûr, la Constitution. Toutes les autres lois y sont subordonnées.
+ii) Viennent ensuite les textes de loi [6] et les mesures législatives subordonnées. Celles‑ci doivent être autorisées par leur loi habilitante. Les règlements et les règles des cours sont des mesures législatives subordonnées.
+iii) Puis il y a la commonlaw. Dans des domaines du droit où le législateur n’a pas légiféré, ou ne l’a fait qu’en partie, la commonlaw peut être sur un pied d’égalité avec les textes de loi.
+[9] Bien que la common law ait toujours joué un rôle important au Canada, à l’exception du Québec, ce rôle a diminué à mesure que la quantité de textes de loi a augmenté.
+[10] Les tribunaux ont deux fonctions. Dans les domaines du droit encadrés par des textes législatifs, les tribunaux déterminent les faits, puis ils interprètent et appliquent les dispositions de la loi. Cela peut comprendre, par exemple, l’analyse d’éventuelles ambiguïtés présentes dans le texte législatif, de circonstances non envisagées par la loi, de l’interaction entre différentes dispositions législatives ou des effets de la Constitution sur un texte de loi [7] . Il peut aussi s’agir de circonstances où la loi laisse les tribunaux voir aux détails de son application [8] . Dans les domaines où la common law est encore prédominante, les tribunaux remplissent une fonction un peu plus importante sur le plan de l’évolution du droit.
+[11] Par conséquent, il faut commencer par examiner la Loi sur la Cour canadienne de l’impôt et les Règles de la Cour canadienne de l’impôt (procédure informelle) (les « règles de procédure informelle [9] ») qui régissent l’adjudication des dépens dans le cadre de la procédure informelle.
+[12] La disposition maîtresse de la Loi sur la Cour canadienne de l’impôt concernant les dépens dans le cadre de la procédure informelle est l’article 18.26, qui est ainsi libellé :
+(1) La Cour peut, sous réserve de ses règles, ordonner le paiement des frais et dépens. Elle peut notamment en allouer à l’appelant si le jugement réduit de plus de la moitié le total de tous les montants en cause ou des intérêts en cause, ou augmente de plus de la moitié le montant de la perte en cause.
+(2) Pour en venir à sa décision d’allouer ou non les frais et dépens, la Cour peut prendre en compte les offres écrites de règlement faites après le dépôt de l’avis d’appel.
+[Non souligné dans l’original.]
+[13] Dans certaines circonstances, énoncées aux paragraphes 18.11(1), (2), (3) et (5), la Cour peut transférer un appel à la procédure générale, même si le montant en cause s’inscrit dans la limite pécuniaire fixée. Dans certains de ces cas, selon le paragraphe 18.11(6) de la Loi sur la Cour canadienne de l’impôt, la Cour a le pouvoir d’ordonner que « les frais entraînés » pour l’appelant soient payés par l’intimée; toutefois, ce pouvoir ne s’applique pas lorsque l’ordonnance transférant l’appel à la procédure générale est rendue en vertu du paragraphe (2) ou (3). Le paragraphe 18.11 se lit en partie comme suit :
+Application de la procédure générale
+18.11 (1) À la demande du procureur général du Canada, la Cour peut ordonner qu’un appel visé à l’article 18 soit régi par les articles 17.1 à 17.8.
+Ordonnance obligatoire
+(2) La Cour est tenue de faire droit à une demande présentée en vertu du paragraphe (1) si :
+a) d’une part, la décision sur l’appel aura vraisemblablement un effet sur un autre appel interjeté par l’appelant ou sur la détermination d’une autre cotisation ou cotisation proposée — pour la même ou pour une autre année d’imposition — établie à l’égard de l’appelant;
+b) d’autre part, le total de tous les montants en cause — montant faisant l’objet de l’appel visé dans la demande et montants visés dans l’autre appel et dans l’autre cotisation ou cotisation proposée et sur lesquels la décision visée à l’alinéa a) aura vraisemblablement un effet — est supérieur à 25 000 $
+Ordonnance obligatoire — intérêt supérieur à 25 000 $.
+(3) […]
+Intérêt
+(4) […]
+Cause type
+(5) […]
+Frais
+(6) Dans les cas d’une ordonnance rendue aux termes du paragraphe (1), sauf s’il s’agit d’une demande présentée en vertu des paragraphes (2) ou (3), la Cour peut ordonner que les frais entraînés pour l’appelant soient payés par Sa Majesté du chef du Canada.
+[Non souligné dans l’original.]
+[14] Je reviendrai plus tard à l’article 18.11, mais je ferai remarquer que le paragraphe 18.11(2), ci‑dessus, n’est pas la disposition qui exige que les appels mettant en cause un montant supérieur à 25 000 $, soit les appels dépassant la limite monétaire associée à la procédure informelle, soient transférés à la procédure générale. Cette disposition se trouve à l’article 18.12, dont voici le libellé :
+Ordonnance d’application avant l’audition
+18.12 (1) La Cour doit ordonner que l’appel visé au paragraphe 18(1) soit régi par les articles 17.1 à 17.8 si, avant l’audition, elle est d’avis, selon le cas :
+a) que le total de tous les montants en cause est supérieur à 25 000 $;
+b) que le montant de la perte en cause est supérieur à 50 000 $.
+Restriction
+(2) Le paragraphe (1) ne s’applique pas dans les cas suivants : a) l’appelant limite le total de tous les montants en cause ou le montant de la perte en cause à 25 000 $ et 50 000 $ respectivement.
+[15] Le pouvoir de prendre des règles est prévu à l’article 20 de la Loi. En voici les dispositions clés :
+20 (1) Sous réserve de leur approbation par le gouverneur en conseil, les règles concernant la pratique et la procédure devant la Cour sont établies par le comité des règles.
+(1.1) Sans qu’il soit porté atteinte à l’application générale de ce qui précède, le comité des règles peut prendre des règles sur les objets suivants :
+[…]
+j) l’attribution et la réglementation des frais et dépens tant en ce qui concerne Sa Majesté du chef du Canada que les parties, et le refus d’octroyer les dépens à un appelant qui, dans les circonstances où l’appelant pouvait faire le choix visé à l’article 18, n’a pas fait un tel choix; […]
+[16] Les articles 10 et 12 de la Loi d’interprétation sont toujours potentiellement pertinents [10] . Ils se lisent comme suit :
+10 La règle de droit a vocation permanente; exprimée dans un texte au présent intemporel, elle s’applique à la situation du moment de façon que le texte produise ses effets selon son esprit, son sens et son objet.
+[…]
+12 Tout texte est censé apporter une solution de droit et s’interprète de la manière la plus équitable et la plus large qui soit compatible avec la réalisation de son objet.
+[17] Le paragraphe 12 de la Loi d’interprétation est assez ancien. Il date d’avant la Confédération, en 1867, et on peut en remonter la trace jusqu’à 172 ans en arrière, c’est‑à‑dire jusqu’au 25 avril 1849, date d’édiction d’une telle disposition dans ce qui était alors la province du Canada [11] .
+[18] Les principales dispositions des règles de procédure informelle relatives aux dépens sont les suivantes :
+10 (1) La Cour peut fixer les frais et dépens, les répartir et désigner les personnes qui doivent les supporter.
+(2) La Cour ne peut allouer les frais à l’intimé que si les actions de l’appelant ont retardé indûment le règlement prompt et efficace de l’appel, et ce, jusqu’à concurrence des sommes prévues à l’article 11.
+(3) La Cour peut ordonner le paiement d’une somme forfaitaire, au lieu des dépens taxés.
+11 Lors de la taxation des dépens entre parties, les honoraires suivants peuvent être adjugés pour les services d’un avocat :
+a) la préparation de l’avis d’appel ou la prestation de conseils portant sur l’appel – 185 $;
+b) la préparation de l’audience – 250 $;
+c) l’audience – 375 $ pour chaque demi‑journée ou fraction de celle‑ci;
+d) la taxation des dépens – 60 $.
+11.1 Sauf directive contraire de la Cour, si l’appelant est représenté ou assisté par un conseiller autre qu’un avocat, les débours visant les services mentionnés à l’article 11 peuvent être adjugés lors de la taxation des dépens entre parties jusqu’à concurrence de la moitié des montants énumérés à cet article.
+11.2 (1) Les autres débours essentiels à la tenue de l’appel peuvent être adjugés s’il est établi qu’ils ont été versés ou que la partie est tenue de les verser.
+(2) Peuvent être adjugées les taxes sur les services, les taxes de vente, les taxes d’utilisation, les taxes de consommation et autres taxes semblables payées ou payables sur les honoraires d’avocat et les débours adjugés, s’il est établi que ces taxes ont été payées ou sont payables et qu’elles ne peuvent faire l’objet d’aucune autre forme de remboursement, notamment sur présentation, à l’égard de ces taxes, d’une demande de crédits de taxe sur les intrants.
+12 (1) Un témoin, sauf s’il comparaît en qualité d’expert, a le droit de recevoir de la partie qui le fait comparaître la somme de soixante‑quinze dollars par jour, plus les frais de déplacement et de subsistance raisonnables et appropriés.
+(1.1) Aucun montant n’est payable à l’appelant aux termes du paragraphe (1), à moins que l’avocat de l’intimée n’ait appelé l’appelant à témoigner.
+(2) Il peut être versé au témoin qui comparaît en qualité d’expert un montant raisonnable, qui ne doit pas dépasser 300 $ par jour, sauf si la Cour en ordonne autrement, en échange de ses services, tant pour préparer son témoignage que pour le rendre.
+[19] Il est utile de rappeler certaines caractéristiques de la procédure informelle établie par la Loi sur la Cour canadienne de l’impôt ainsi que les règles de procédure qui s’y rattachent.
+[20] Alors que la procédure générale consiste en un procès en bonne et due forme qui inclut la production de documents et les interrogatoires préalables, la procédure informelle est une procédure simplifiée où, normalement, après le dépôt de l’avis d’appel et de la réponse à l’avis d’appel, la prochaine étape est de passer directement au procès. Cette simplification de la procédure permettra généralement de réduire les frais grâce à l’élimination d’étapes. Cela dit, pour une partie donnée, le fait qu’il n’y ait pas d’interrogatoires préalables pourra représenter un inconvénient ou un avantage, selon les circonstances.
+[21] La procédure simplifiée, qui se veut plus rapide et moins coûteuse que la procédure générale, n’est disponible que pour les appels portant sur des montants d’impôt en cause relativement moins élevés [12] .
+[22] Les dispositions relatives aux frais et dépens des Règles de la Cour canadienne de l’impôt (procédure générale) (les « règles de procédure générale ») diffèrent fortement de celles des règles de procédure informelle, et ce, à plusieurs égards.
+[23] Des limites sont imposées à l’adjudication de dépens à l’intimée. Selon le paragraphe 10(2), ils ne peuvent être adjugés « que si les actions de l’appelant ont retardé indûment le règlement prompt et efficace de l’appel ». Les dépens qui peuvent être accordés à l’intimée se limitent au tarif à l’article 11 [13] . Ce régime limite le risque de perte liée aux dépens pour les contribuables qui interjettent appel.
+[24] Le barème du tarif de la procédure générale est nettement plus élevé que celui du tarif de la procédure informelle [14] .
+[25] Mais, plus important encore, rien dans les règles de procédure informelle ne ressemble aux dispositions du paragraphe 147(3) des règles de procédure générale, où l’on trouve une longue liste de facteurs pouvant être pris en compte par la Cour au moment de se prononcer sur l’adjudication des dépens.
+[26] On n’y trouve pas non plus de dispositions comme les paragraphes 147(3.1) à (3.6) des règles de procédure générale qui, dans certaines circonstances où une offre de règlement est faite, peuvent donner ouverture à l’adjudication de dépens indemnitaires substantiels lorsqu’une partie a obtenu un jugement au moins aussi favorable qu’une offre de règlement qu’elle a faite à l’autre partie [15] .
+[27] Une autre différence très importante est l’absence, dans les règles de procédure informelle, d’une disposition telle que le paragraphe 147(4) des règles de procédure générale, qui énonce que :
+La Cour peut fixer la totalité ou partie des dépens en tenant compte ou non du tarif B de l’annexe II et peut adjuger une somme globale au lieu ou en sus des dépens taxés
+[Non souligné dans l’original.]
+Analyse
+[28] Dans de nombreux litiges régis par la procédure informelle, aucuns dépens ne sont adjugés même s’il a été fait droit à l’appel. En effet, l’octroi de dépens est rare dans les décisions rendues sous le régime de la procédure informelle. Et ce, pour de multiples raisons, par exemple parce que le degré de réussite de l’appelant est modeste, que la réussite est partagée ou que les frais sont nuls ou négligeables [16] .
+[29] L’intimée n’a pas fait valoir qu’aucuns dépens ne devraient être accordés dans la présente affaire.
+[30] En l’espèce, les appelants ont obtenu gain de cause dans une très large mesure, et rien dans les circonstances ne donne à penser qu’il n’y a pas lieu d’adjuger de dépens.
+[31] La question qui se pose, alors, est celle de leur montant.
+[32] Le tarif prévu à l’article 11 des règles de procédure informelle établit des montants de dépens précis.
+[33] L’appelant a soutenu fermement que je n’étais pas lié par le tarif, et que je devrais suivre un certain nombre de décisions rendues sous le régime de la procédure générale, y compris la décision du juge en chef Rossiter dans Velcro Canada Inc. c. La Reine, 2012 CCI 273. Ces décisions indiquent que la Cour dispose d’une importante marge de manœuvre pour fixer les dépens dans le cadre de la procédure générale [17] .
+[34] S’il est vrai que les décisions relevant des règles de procédure générale peuvent souvent être utilement prises en compte pour interpréter les règles de procédure informelle ou pour combler certains vides dans celles-ci, elles ne peuvent simplement être transposées à la procédure informelle sans tenir compte du régime de la procédure informelle établi dans la Loi sur la Cour canadienne de l’impôt et dans les règles de procédure informelle.
+[35] Comme décrit ci‑dessus, le régime des règles de procédure informelle est très différent de celui des règles de procédure générale.
+[36] Le paragraphe 10(3) des règles de procédure informelle prévoit ce qui suit :
+La Cour peut ordonner le paiement d’une somme forfaitaire, au lieu des dépens taxés.
+[37] Le paragraphe 10(3) ajoute une certaine souplesse au processus de fixation des dépens. Cette souplesse est particulièrement utile en ce qu’elle permet à la Cour de fixer les dépens de façon sommaire et rapide, par exemple à la fin d’une audience ou d’un jugement, sans avoir à déclencher le processus de taxation. Cette souplesse concorde avec l’intention qui sous-tend la procédure informelle, à savoir qu’elle devrait être plus simple et plus rapide que la procédure générale.
+[38] Toutefois, les règles de procédure informelle doivent être interprétées dans leur ensemble et appliquées de manière raisonnée. Compte tenu du régime établi par les règles de procédure informelle, et notamment de l’absence d’une disposition comme le paragraphe 147(4) des règles de procédure générale déjà mentionné, cette souplesse ne signifie pas que le tribunal peut simplement ignorer le tarif des dépens à l’article 11.
+[39] Je me dois de tenir compte du tarif dans la détermination des dépens.
+[40] J’aborderai maintenant un certain nombre d’autres questions avant de revenir à la question du montant des dépens.
+[41] L’appelant soutient qu’il ne devrait pas revenir aux appelants d’assumer une si grande part des coûts liés au litige alors qu’ils ont obtenu gain de cause dans une aussi grande mesure.
+[42] Je ne suis pas en désaccord avec les appelants sur le fait que, dans de nombreuses circonstances, les appelants qui ont eu gain de cause peuvent se retrouver à devoir payer des dépens élevés. Cependant, sous réserve de la Constitution seulement, le rôle des tribunaux est d’appliquer la loi, et non pas de la rédiger [18] . C’est le rôle qui m’incombe ici [19] .
+[43] Choisir entre la procédure informelle et la procédure générale suppose un certain nombre de compromis. Les différentes conséquences sur le plan des dépens, y compris la capacité de limiter le plus possible le risque de perte liée aux dépens pour les appelants qui ont choisi la procédure informelle, font partie de ces compromis.
+[44] L’appelant a attiré l’attention sur les dispositions de l’article 149.1 des règles de procédure générale qui, selon les appelants, auraient pu les priver de l’octroi des dépens s’ils avaient opté pour la procédure générale. Cet article est libellé ainsi :
+La Cour peut, à l’issue d’un appel en application de la Loi de l’impôt sur le revenu, refuser ou réduire les dépens par ailleurs payables à l’appelant qui, même si les circonstances lui permettaient de le faire, n’a pas fait un tel choix conformément au paragraphe 18(1) de la Loi.
+[45] Comme je l’expliquerai, je ne suis pas convaincu de la possibilité réelle qu’un appelant qui aurait eu gain de cause dans des circonstances telles que les présentes soit privé des dépens en vertu des règles de procédure générale.
+[46] On ne m’a cité aucune jurisprudence où cet article aurait été appliqué, et je ne suis au courant d’aucune.
+[47] Étant donné qu’en vertu de la Loi sur la Cour canadienne de l’impôt, la procédure générale est la procédure par défaut, et que la Loi donne à l’appelant la possibilité de choisir la procédure informelle, je m’attendrais à ce que la Cour hésite à appliquer l’article 149.1 sans avoir de très bonnes raisons de le faire. Peut‑être le ferait‑elle dans une situation où ce choix constituerait, compte tenu de l’ensemble des circonstances, un abus.
+[48] Il est également difficile d’imaginer que l’article puisse s’appliquer dans un cas comme celui de l’espèce, où les montants fédéraux totaux en cause dans les deux appels pour toutes les années sont bien supérieurs au seuil de 25 000 $, puisqu’un appelant pour qui un montant de 25 000 $ au titre de l’impôt fédéral et des pénalités est en cause pour une seule année doit se soumettre à la procédure générale, à moins qu’il ne soit prêt à renoncer à une somme de 4 000 $ sur le montant réclamé.
+[49] Enfin, en l’espèce, l’application de l’article 149.1 serait incompatible avec l’esprit de la Loi sur la Cour canadienne de l’impôt, pour les raisons qui suivent.
+[50] J’ai cité auparavant l’article 18.11 de la Loi sur la Cour canadienne de l’impôt. Le paragraphe 2 dispose que la Cour doit faire droit à la demande du procureur général de soumettre une affaire à la procédure générale dans les cas suivants :
+[…]
+a) d’une part, la décision sur l’appel aura vraisemblablement un effet sur un autre appel interjeté par l’appelant ou sur la détermination d’une autre cotisation ou cotisation proposée — pour la même ou pour une autre année d’imposition — établie à l’égard de l’appelant;
+b) d’autre part, le total de tous les montants en cause — montant faisant l’objet de l’appel visé dans la demande et montants visés dans l’autre appel et dans l’autre cotisation ou cotisation proposée et sur lesquels la décision visée à l’alinéa a) aura vraisemblablement un effet — est supérieur à 25 000 $.
+[51] Étant donné qu’en matière d’interprétation législative, le singulier englobe le pluriel, cela signifie que dans le dossier d’un appelant qui porte sur un certain nombre d’années en litige et sur des questions étroitement liées, comme c’était le cas en l’espèce, et où la somme de l’ensemble des montants en cause dans les appels connexes dépasse 25 000 $, la Cour est tenue de rendre une ordonnance en vertu du paragraphe 2 pour transférer l’affaire à la procédure générale.
+[52] De plus, selon le paragraphe 18.11(6) de la Loi sur la Cour canadienne de l’impôt, reproduit au paragraphe 13 ci‑dessus, étant donné que l’ordonnance est rendue en vertu du paragraphe 2, la Cour ne peut ordonner que Sa Majesté du chef du Canada assume tous les frais entraînés par l’appelant; par conséquent, les appels transférés à la procédure générale en vertu d’une telle ordonnance seront régis par les règles de procédure générale concernant les dépens, de la même façon que si l’appelant avait initialement interjeté ces appels sous le régime de cette procédure.
+[53] En l’espèce, les conditions du paragraphe 18.11(2) de la Loi sur la Cour canadienne de l’impôt auraient été remplies pour les deux appelants si une telle ordonnance avait été demandée.
+[54] Étant donné que l’intimée aurait pu exiger que ces questions soient soumises à la procédure générale sans qu’il y ait de conséquences financières négatives pour elle, il serait tout à fait contraire à l’esprit de la Loi d’appliquer l’article 149.1 des règles de procédure générale dans ces appels de manière à pénaliser les appelants pour avoir choisi la procédure générale, s’ils avaient fait ce choix.
+[55] Je vais maintenant me pencher sur d’autres questions.
+[56] Une question qui a été soulevée en l’espèce, et qui peut être réglée rapidement, est celle du travail accompli avant l’étape de l’appel. Le principe est très clair : les dépens sont les dépens liés à l’appel, et rien d’autre. Par conséquent, les dépens engagés pour des travaux antérieurs à l’étape de l’appel ne peuvent être pris en compte dans l’adjudication des dépens. En l’espèce, il semble qu’un très petit montant des frais figurant sur la facture du client ait été engagé pendant que l’affaire en était encore au stade de l’opposition. Le montant, s’il en est, n’a aucune incidence sur les dépens adjugés, compte tenu de l’approche que j’ai adoptée [20] .
+[57] J’aimerais aborder brièvement deux des décisions rendues sous le régime de la procédure informelle qui ont été soulevées. L’appelant fait valoir que la décision dans l’affaire Mathieu c. La Reine [21] est un exemple d’une ordonnance de la Cour condamnant l’intimée au paiement de la moitié des frais juridiques de l’appelant.
+[58] Mais ce n’est pas ce qui était ordonné dans la décision. Un examen du jugement initial révèle qu’il y avait deux questions en litige. L’appelant a eu gain de cause sur l’une d’elles et a échoué sur l’autre. Prenant acte de ce résultat mitigé, la Cour a ordonné que les frais soient accordés à l’appelant, mais seulement la moitié. Dans la décision, la Cour a dit : « Les frais sont accordés à l’appelant à l’encontre de l’intimée pour la moitié. »
+[59] Une ordonnance de paiement des frais à une partie, sans autre commentaire, est depuis longtemps considérée comme comprenant les dépens prévus par le tarif, plus les débours [22] .
+[60] Compte tenu de l’absence de toute autre déclaration dans l’ordonnance originale relative aux frais, il est clair qu’il s’agissait simplement d’une ordonnance condamnant l’intimée au paiement des dépens équivalant à la moitié de la somme prévue au tarif, plus les débours.
+[61] L’intimée a demandé le contrôle de l’ordonnance, au motif que selon le paragraphe 18.26(1), dans sa version alors en vigueur, aucune ordonnance n’aurait dû être rendue quant aux dépens [23] , ce qui est une question très différente de celle qui nous occupe en l’espèce.
+[62] L’appelant m’a également renvoyé à la décision Grant c. La Reine [24] rendue par l’ancien juge en chef Bowman, dans laquelle un contrôle de la taxation avait été demandé. Dans cette affaire, la taxation n’a pas été modifiée parce que le greffier avait déjà délivré son certificat. Toutefois, le juge a déclaré, dans une remarque incidente, que si tel n’avait pas été le cas, le tribunal aurait probablement doublé les montants prévus au tarif. Parmi les autres facteurs ayant mené à cette remarque, il y avait le fait qu’environ cinq mois avant l’audience, l’appelant avait fait une offre de règlement d’un montant qui s’était avéré être le même que celui décidé par la Cour. Deux aspects des remarques sont dignes de mention. Premièrement, elles tiennent compte des dispositions du paragraphe 18.26(2) de la Loi sur la Cour canadienne de l’impôt concernant les offres de règlement, une considération prévue par la loi, et, deuxièmement, elles tiennent également compte du tarif [25] .
+[63] Peut‑on tenir compte du large éventail de facteurs qui peuvent être pris en compte dans la cadre de la procédure générale? De toute évidence, il y a une diversité de facteurs dont il est possible de tenir compte au moment d’octroyer un montant forfaitaire mais, ce faisant, on ne saurait ignorer le tarif. En outre, d’autres facteurs doivent être pris en considération dans le contexte du régime de la procédure informelle, comme établi dans la Loi et dans les règles de procédure informelle. Il faut donc garder à l’esprit que le processus doit demeurer plus simple que la procédure générale, qu’il est destiné à rester moins coûteux et, par conséquent, qu’il doit y avoir de très bonnes raisons pour faire des rajustements par rapport à l’échelle du tarif [26] .
+[64] Y a‑t‑il des facteurs, ici, qui justifieraient une augmentation du montant des dépens? Non. Les motifs proposés par l’appelant ne sont pas suffisants pour justifier un rajustement important, par exemple doubler le montant du tarif, comme cela a été fait dans la décision Grant.
+[65] L’appelant a soutenu que le nombre d’années en cause, le fait que plusieurs de ces années aient été jugées frappées de prescription et que les sanctions pour faute lourde aient été annulées pour toutes les années, constituait un tel motif. Je ne suis pas de cet avis. Tout cela faisait partie de la situation telle qu’elle se présentait juste avant le début de l’appel. Les frais judiciaires correspondent à l’étape du processus d’appel devant la Cour, et non aux étapes antérieures. Le fait que des questions se posent en ce qui a trait aux pénalités et aux années susceptibles d’être prescrites ajoute au nombre des questions en jeu, mais ne crée pas en soi une complexité particulière qui diffère de celle d’autres appels présentant des difficultés semblables.
+[66] Bien qu’il y ait eu en l’espèce une multitude de faits, des éléments de preuve souvent moins qu’idéaux et un degré passablement élevé de complexité factuelle et juridique, et bien que ces aspects aient certainement exigé beaucoup de travail, je ne suis pas convaincu que l’espèce présentait un degré de difficulté extraordinaire. Bien que les affaires instruites sous le régime de la procédure informelle présentent toutes sortes de niveaux de difficulté, il y a très régulièrement des litiges qui ont la même complexité que celui en l’espèce.
+[67] De même, les montants ici en cause [27] ne sont pas inhabituels en regard de la procédure informelle. En outre, le fait que le tarif de la procédure informelle n’ait qu’une échelle, contrairement au tarif de la procédure générale, laisse penser que l’on n’entendait pas permettre le rajustement du montant en cause [28] .
+[68] Par conséquent, en l’espèce, je dois fixer les dépens en tenant compte du tarif ainsi que des circonstances, et plus précisément du mode d’instruction.
+[69] Les débours sont raisonnables, et devraient être pleinement remboursés.
+[70] Une interprétation littérale de l’article 11 des règles de procédure informelle ne permet pas de tenir compte de l’ensemble des circonstances de l’espèce. Au regard, notamment, de l’article 12 de la Loi d’interprétation, il est certainement possible d’apporter des rajustements pour tenir compte de circonstances non prévues par la loi tout en prenant en considération l’article 11 des Règles.
+[71] En l’espèce, une bonne partie de l’instruction et des argumentations s’est déroulée par écrit, alors que le tarif est établi en fonction de jours de présence en Cour. Il est possible de tenir compte du fait qu’en l’absence d’observations écrites, il y aurait eu du temps d’audience supplémentaire devant la Cour [29] .
+[72] De même, il n’y a pas eu qu’une simple taxation des dépens, mais un effort considérable consacré aux observations écrites, ce qui équivaut aussi à du temps d’audience supplémentaire.
+[73] Il n’est pas déraisonnable de considérer que les argumentations écrites et les observations écrites sur les dépens, si elles n’avaient pas été faites par écrit, auraient nécessité la préparation et la tenue d’une audience de deux jours distincts étalés sur une certaine période. En tenant compte du tarif et en l’appliquant au contexte de l’audience, j’accorde un montant forfaitaire de 6 000 $ au titre des honoraires et des débours pour les deux appels [30] . Ce montant doit être divisé également entre les deux appelants.
+Conclusion
+[74] Une ordonnance accordant à chacun des appelants un montant forfaitaire de 3 000 $ couvrant les honoraires et les débours sera délivrée.
+Signé à Ottawa (Canada), ce 20e jour de mai 2021.
+« Gaston Jorré »
+Juge suppléant Jorré
+Traduction certifiée conforme
+ce 15e jour d’août 2021.
+Julie-Marie Bissonnette
+RÉFÉRENCE :
+2021 CCI 35
+Nos DES DOSSIERS DE LA COUR :
+2017‑5026(IT)I; 2017‑5027(IT)I
+INTITULÉ :
+MICHAEL CALLAGHAN ET SA MAJESTÉ LA REINE; BARBARA VAN RASSEL ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+London (Ontario)
+OBSERVATIONS ÉCRITES REÇUES LES OU VERS LES :
+10 août 2020, 2 novembre 2020, 9 novembre 2020 et 9 décembre 2020
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge suppléant Gaston Jorré
+DATE DE L’ORDONNANCE :
+Le 20 mai 2021
+COMPARUTIONS :
+Pour l’appelant :
+Me Sean C. Flaherty
+Pour l’intimée :
+Me Dustin Kenall
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous‑procureure générale du Canada
+Ottawa, Canada
+[1] 15 000 $ pour chacun des appelants.
+[2] Bien entendu, la Cour n’a pas compétence à l’égard de l’impôt provincial sur le revenu, mais en pratique, le résultat de toute décision concernant l’impôt fédéral sur le revenu aura normalement un effet sur l’impôt provincial. Ce sera certainement le cas en l’espèce.
+[3] Au paragraphe 35 de leur première observation écrite, les appelants affirment qu’ils ont eu [traduction] « ... gain de cause sur toutes les questions ». Ce n’est pas le cas. À l’appui de cette déclaration, les appelants mentionnent les questions telles que je les ai formulées aux paragraphes 2 et 3 de mes motifs de jugement, sans tenir compte de la note de bas de page du paragraphe 2, qui se lit comme suit : [traduction] « Certaines questions secondaires se posent également concernant les dépenses. » Des questions liées aux dépenses ont été soulevées au paragraphe 8, notamment à l’alinéa u), et au paragraphe 17 de la réponse à l’avis d’appel. Une partie de mes motifs de jugement porte sur ces questions.
+[4] Voir les paragraphes 81 à 85 des motifs de jugement rendus dans la présente affaire.
+[5] Voir les paragraphes 81 à 84 des motifs de jugement pour ce qui est des difficultés qui n’étaient pas importantes pour les années en cause, mais qui pourraient l’être pour les années ultérieures, comme il est expliqué au paragraphe 85. Voir les paragraphes 69 et 86 à 92 de ces mêmes motifs, où il est question des difficultés importantes.
+[6] Des textes de loi fédéraux ou provinciaux, selon la matière.
+[7] L’interaction des lois fédérales et provinciales est souvent une source de problèmes.
+[8] Par exemple, lorsqu’une loi mentionne qu’une chose qui est « déraisonnable dans les circonstances » ou qui constitue un « abus » entraînera des conséquences.
+[9] Les règles des cours sont à la fois des « règlements » et des « textes réglementaires » pour l’application de la Loi sur les textes réglementaires; voir à ce sujet le paragraphe 2(1) de cette loi.
+[10] Aux termes de son paragraphe 3(1), la Loi d’interprétation s’applique « à tous les textes, indépendamment de leur date d’édiction ». La section des définitions de la Loi d’interprétation, au paragraphe 2(1), définit le terme « texte » comme « [t]out ou partie d’une loi ou d’un règlement », et le terme « règlement » comme s’entendant notamment d’une « règle judiciaire ».
+[11] Le paragraphe 12 figurait dans la version de la Loi d’interprétation (L.C. 1967). 1967‑68, ch. 7) réédictée en 1967, bien qu’à l’époque il se fut agi de l’article 11. Même si la numérotation, encore une fois, n’était pas identique et si le libellé était quelque peu différent, cette disposition, en substance, était la même dans les Lois révisées du Canada de 1927 (C.1). En effet, comme l’a souligné le juge Locke dans l’arrêt de la Cour suprême du Canada The King c. Robinson 1951 CanLII 22 (SCC), [1951] R.C.S. 522, aux pages 530‑531 :
+[TRADUCTION]
+L’article 15 se lit comme suit :
+[...] tout acte comme susdit, et toutes dispositions ou prescriptions d’icelui seront censés être correctifs, soit que l’objet immédiat du dit acte soit d’ordonner de faire une chose que la législature pourra considérer être dans l’intérêt public, ou d’empêcher qu’on ne fasse une chose qu’elle jugera contraire à cet intérêt, et d’infliger une punition à qui la fera ; et il sera en conséquence donné à cet acte une interprétation large et libérale, et qui sera la plus propre à assurer la réalisation de l’objet de l’acte et de ses dispositions et prescriptions, selon leur vrai sens, intention et esprit.
+Cet article semble trouver son origine à l’article 5 du ch. 10, Statuts du Canada de 1849, qui était formulé dans les mêmes termes, avec des différences mineures qui n’en affectent pas le sens. Il a été reproduit essentiellement sous la même forme à l’article 6 du ch. 5 des Lois codifiées du Canada de 1859 et est apparu comme le 39e paragraphe de l’article 7 de l’Acte d’interprétation, adopté à la première session du Parlement du Canada en 1867, et s’est perpétué jusqu’à aujourd’hui selon des termes ayant un sens identique. L’article 3 de l’Acte, comme adopté en 1867, prévoyait que l’article 7 et chacune de ses dispositions devaient s’étendre et s’appliquer à chaque acte adopté au cours de la session tenue cette année‑là et de toute session future du Parlement du Canada, sauf si la disposition était incompatible avec l’intention et l’objet de l’Acte, si l’interprétation que cette disposition donnerait à un mot, expression ou disposition était incompatible avec le contexte, et si une disposition d’un tel acte était déclarée non applicable. L’article 2 de la l’Acte d’interprétation, S.R.C. 1886, ch. 1, stipulait que l’Acte et chacune de ses dispositions devaient s’étendre et s’appliquer à tous les actes du Parlement du Canada adopté à ce moment‑là ou par la suite, avec les exceptions semblables. C’est là qu’en était la législation lorsque le Code criminel a été édicté pour la première fois en 1892. L’article 2 de la loi actuelle est formulé en des termes semblables, et son application ne limite pas, à mon avis, à l’application de l’article 15 aux dispositions à interpréter ici.
+Dans les Statuts provinciaux du Canada de 1848‑1849 mentionnés par le juge Locke, le 28e point de la section V du chapitre 10, vol. III, 129, 134, se lit en partie comme suit :
+Vingt‑huitièmement […] tout acte comme susdit, et toutes dispositions et prescriptions d’icelui seront censés être correctifs, soit que l’objet immédiat du dit acte soit d’ordonner de faire une chose que la législature pourra considérer être dans l’intérêt public, ou d’empêcher qu’on ne fasse une chose qu’elle jugera contraire à cet intérêt, et d’infliger une punition à qui la fera ; et il sera en conséquence donné à cet acte une interprétation large et libérale, et qui sera la plus propre à assurer la réalisation de l’objet de l’acte et de ses dispositions et prescriptions, selon leur vrai sens, intention et esprit.
+Malgré la différence entre les modes d’expression, le libellé d’il y a 172 ans a la même signification que la disposition actuelle de la Loi d’interprétation. Étant donné le principe de la souveraineté du Parlement et des législatures provinciales dans leurs champs de compétence respectifs, sous réserve, bien sûr, de la Constitution, il est surprenant que l’article 12 de la Loi d’interprétation n’ait pas été cité davantage au cours de l’évolution du droit fiscal canadien. Un exemple est l’absence de toute mention de l’article 11 dans Stubart Investments Ltd. c. La Reine, 1984 CanLII 20 (CSC), [1984] 1 RCS 536. Pour un historique de l’établissement des principes de la souveraineté du Parlement, de la primauté du droit et de l’indépendance de la magistrature, voir les paragraphes 71 et 72 de l’arrêt Canada (Pêches et Océans) c. Fondation David Suzuki, 2012 CAF 40.
+[12] Je dis « relativement moins élevés » car, bien que la procédure informelle s’applique lorsque « le total de tous les montants » en cause, au sens de la Loi sur la Cour canadienne de l’impôt, est égal ou inférieur à 25 000 $, les montants en cause, dans les faits peuvent, pour un certain nombre de raisons, être beaucoup plus élevés, surtout lorsque des appels visant plusieurs années d’imposition sont instruits ensemble. En l’espèce, bien que les montants en cause au sens de la Loi soient plus petits, concrètement, les deux appelants ont collectivement interjeté appel de nouvelles cotisations qui sont venues augmenter à environ 200 000 $ les sommes qu’ils devaient. Pour un certain nombre de raisons, le seuil de 25 000 $ peut, en pratique, être beaucoup plus élevé dans un appel instruit sous le régime de la procédure informelle. Ces raisons sont notamment que le seuil est appliqué séparément à chaque année d’imposition en cause; que des appels visant plusieurs années d’imposition peuvent être instruits ensemble; que seuls l’impôt fédéral et les pénalités sont pris en compte aux fins du seuil pécuniaire; et que les intérêts ne sont pas inclus dans le calcul. Bien que la Cour n’ait pas compétence à l’égard de l’impôt provincial sur le revenu, et que par conséquent, tout impôt provincial découlant d’une nouvelle cotisation ne soit pas pris en compte dans le calcul aux fins du seuil, l’issue de l’appel relatif à l’impôt fédéral sur le revenu aura, en pratique, des effets correspondants sur l’impôt provincial sur le revenu.
+[13] Dans certaines situations équivalant à un abus de procédure outrancier, il peut y avoir un autre fondement pour l’adjudication des dépens; voir Fournier c. R., 2005 CAF 131, aux paragraphes 7 à 13.
+[14] Voir l’annexe II, tarif B, des règles de procédure générale, par comparaison avec l’article 11 des règles de procédure informelle, en ce qui concerne les étapes suivies dans chacune des deux procédures.
+[15] Le paragraphe 147(3.5) des règles de procédure générale définit les dépens indemnitaires substantiels comme correspondant à 80 % des dépens établis sur une base procureur‑client.
+[16] Par exemple, lorsqu’un appelant se représente lui‑même.
+[17] Je traiterai plus loin de certaines décisions informelles dont a parlé l’avocat de l’appelant.
+[18] Sauf en certains domaines dans lesquels le droit est toujours régi par la common law, ou dans lesquels la loi laisse elle-même aux tribunaux le rôle d’élaborer les détails d’une disposition très générale. Par exemple, si une loi dit que quelqu’un doit faire preuve de diligence raisonnable dans l’exercice d’une fonction, les tribunaux pourraient devoir préciser ce que cela signifie dans un contexte particulier. Ici, le tarif est assez précis quant aux montants.
+[19] La modification des règles relève du comité des règles, sous réserve de l’approbation du gouverneur en conseil. Voir le paragraphe 20(1) de la Loi sur la Cour canadienne de l’impôt.
+[20] Encore une fois, une question semblable se pose au sujet des débours. Le montant, le cas échéant, serait insignifiant, et il peut être ignoré sans risque.
+[21] 2006 CCI 258 pour la demande de reconsidération de l’adjudication des frais et dépens, et 2006 CCI 204 pour le jugement.
+[22] Il est notamment question de ce principe dans Grant c. La Reine, 2000 CanLII 329 (CCI), au paragraphe 9. L’ordonnance originale relative aux dépens est énoncée au paragraphe 4 de la décision Grant, que j’examinerai ci‑après.
+[23] À l’époque, le paragraphe 18.26(1), tel qu’il était libellé, prévoyait que les dépens ne pouvaient être accordés que si l’appelant réussissait à faire réduire les montants en cause d’au moins la moitié.
+[24] Grant c. La Reine, 2000 CanLII 329 (CCI).
+[25] L’appelant invoque également la décision rendue sous le régime de la procédure informelle dans l’affaire Pink Elephant c. La Reine, 2011 CCI 395, où un montant forfaitaire de 2 500 $ avait été accordé à la fin de l’audience. La décision n’indique pas sur quoi ce montant se fonde, mais je n’en déduirais pas qu’il n’a pas été tenu compte du tarif dans l’adjudication des dépens.
+[26] Ordonner au moment du jugement le paiement d’une somme forfaitaire modeste, qui n’est pas en contradiction avec le tarif, de façon à accélérer le processus et à réduire le nombre d’étapes n’est pas incompatible avec ce principe.
+[27] Peu importe si je considère les montants d’un point de vue pratique, en fonction de la façon dont le terme « montants en cause » est défini dans la Loi sur la Cour canadienne de l’impôt, ou en fonction de ce qui relève de la compétence de la Cour.
+[28] Enfin, je dois souligner que l’appelant a soutenu, subsidiairement, que si je me sentais lié par le tarif, étant donné que, sur le plan conceptuel, il y a un appel à l’égard de chaque année, je pourrais accorder le plein montant du tarif quatorze fois, séparément, pour chaque année portée en appel par chaque appelant. Ce n’est pas la façon dont le tarif fonctionne. Une telle interprétation est incompatible avec une interprétation réfléchie du tarif.
+[29] Pour donner un exemple de nature similaire, si les parties font le travail nécessaire pour déposer un accord écrit sur une partie des faits, ce qui leur fait gagner deux jours de procès, il serait raisonnable de faire un rajustement à ce titre en fonction du tarif.
+[30] Ce faisant, j’ai tenu compte de ce qui suit : Il y avait deux appelants, et deux avis d’appel ont dû être déposés, ce qui représente deux fois 185 $, soit 370 $, en fonction du tarif. L’audience en tant que telle devant la Cour, selon le tarif, s’élève à 750 $ pour la journée et à 250 $ pour sa préparation, pour un total de 1 000 $. De même, puisque les plaidoiries écrites et les observations écrites au sujet des dépens équivalaient à deux jours de séance de plus répartis dans le temps, chacun de ces jours nécessitant une préparation, j’ajoute 1 000 $ pour chacun, ce qui fait un total de 2 000 $ pour l’ensemble des observations écrites. Avec des débours de 2 265 $, le total des honoraires et débours est de 5 635 $ pour les deux appelants ensemble. Compte tenu du contexte, ce montant peut raisonnablement être arrondi à 6 000 $.
+Pour les raisons expliquées ci‑dessous, je n’ai fait aucun rajustement au titre de la TVH. Je n’ai pas ajouté la TVH aux honoraires accordés, et je ne l’ai pas déduite des débours.
+La différence serait probablement minime de toute façon, et puisqu’un rajustement approprié nécessiterait la connaissance de faits dont je ne dispose pas, il convient d’ignorer la question. Le paragraphe 11.2(2) des règles de procédure informelle prévoit que la TVH peut être adjugée, mais seulement si cette taxe « ne [peut] faire l’objet d’aucune autre forme de remboursement, notamment sur présentation [...] d’une demande de crédits de taxe sur les intrants ». (Non souligné dans l’original.) Comme il est indiqué dans les motifs de jugement, l’entreprise des appelants a perçu la TVH en 2017 et en 2018, de sorte qu’elle a été enregistrée aux fins de la TVH au plus tard en 2017. Par conséquent, comme l’appel a été interjeté en 2017 et que la plus importante des questions en litige était l’existence de l’entreprise, existence qui a été établie, l’on s’attendrait à ce que des crédits de taxe sur les intrants soient réclamés à l’égard des honoraires et des débours. Le cas échéant, il ne faut pas ajouter de TVH sur les honoraires, mais la TVH devrait être déduite des débours. Bien sûr, il y a peut‑être d’autres facteurs que je ne connais pas et qui changeraient la donne.

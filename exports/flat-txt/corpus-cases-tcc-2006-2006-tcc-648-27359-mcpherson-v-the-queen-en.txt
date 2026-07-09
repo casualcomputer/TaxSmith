@@ -1,0 +1,261 @@
+Title: McPherson v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27359/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-648-27359-mcpherson-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-12-06
+
+# McPherson v. The Queen
+
+- Citation: 2006 TCC 648
+- Decision date: 2006-12-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 181, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McPherson v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-12-06
+Neutral citation
+2006 TCC 648
+File numbers
+2003-4123(IT)G
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-4123(IT)G
+BETWEEN:
+GRANT McPHERSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 20 and 21, 2006 at Vancouver, British Columbia
+Before: The Honourable Justice L.M. Little
+Appearances:
+Counsel for the Appellant:
+Patrick W. Watson
+Counsel for the Respondent:
+Gavin Laird, Robert Carvalho
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act in respect of the 1996 taxation year is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 6th day of December 2006.
+"L.M. Little"
+Little J.
+Citation: 2006TCC648
+Date: 20061206
+Docket: 2003-4123(IT)G
+BETWEEN:
+GRANT McPHERSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little J.
+A. FACTS
+[1] The appeal was heard in Vancouver, British Columbia on November 20-21, 2006.
+[2] At the commencement of the hearing the parties filed a Partial Agreed Statement of Facts (Exhibit A-1).
+1. The Association for the Betterment of Literacy and Education ("A.B.L.E.") was organized and promoted as a tax shelter by Henry N. Thill.
+2. The mechanics of the A.B.L.E. tax shelter varied from year to year and from investor to investor.
+3. In 1993 and 1994 A.B.L.E. was promoted primarily as the Funded Charitable Donation Program (the "FCDP") in which a Taxpayer:
+(i) Decided the amount for which it wanted a charitable receipt;
+(ii) Paid 25% of that amount as "insurance premiums";
+(iii) Used the "insurance" to secure and, eventually, satisfy a 30 year "loan" from a British Virgin Islands company,
+(iv) Used the "proceeds" of the "loan" to make the "contribution" to A.B.L.E.; and
+(v) Received a charitable receipt from A.B.L.E. for the entire 100% "loan" amount and thus realized a high overall rate of return on the 25% invested.
+4. In 1995 the tax shelter was promoted as the Publishers' Philanthropic Fund of Bermuda (the "PPF") and, to a lesser extent, as the Gift Provider's Fund. The PPF was described as a group of "Publishers, royalty rights holders and producers of intellectual properties [that] have over many years profited enormously through their individual and collective enterprise" and have decided "to give some of this wealth back to society" through contributions piggy-backed onto Taxpayers' contributions in a ratio of 3:1, while remaining anonymous, and allowing the "select" Taxpayers to receive the entire charitable receipt amount. Thus, in this variant, the Taxpayer:
+(i) Decided the amount for which it wanted a charitable receipt;
+(ii) Contributed 25% of that amount;
+(iii) Received a top-up "contribution" equal to three times the size of the initial contribution through the anonymous benevolence of the PPF; and
+(iv) Received a charitable receipt for A.B.L.E. for the entire amount and thus realized a high overall rate of return on the 25% invested.
+5. Both parties agree that in 1996 A.B.L.E. was promoted as the Charitable Donation Program (the "CDP"). The CDP program involved the same PPF as the 1995 variant but now the PPF would pay an "Education Gift" to "select" individuals.
+6. The Respondent's position is that in the 1996 variant, a Taxpayer:
+(i) Decided the amount for which it wanted a charitable receipt;
+(ii) Contributed that amount (100%);
+(iii) Received an "Educational Gift" from the PPF equal to 75% of the amount of the contribution;
+(iv) Received a charitable receipt from A.B.L.E. for the entire contribution amount and thus realized a high overall rate of return given that only 25% of the 100% contributed was not reimbursed through a "Educational Gift".
+7. The Appellant's position is that he:
+a) Knew that there was an educational gift;
+b) Thought it was the chance of receiving something de minimis, for example, some golf clubs;
+c) Did not expect, anticipate, or receive 75% of his contribution back; and
+d) Never actually received any education gift.
+8. In 1996 there were 101 contributors to A.B.L.E. of which Mr. McPherson was one. For 91 of the 101 contributors, there are cheques showing a 75% return of their contribution. The Respondent does not have in its possession a cheque showing that Mr. McPherson received 75% of his contribution back.
+9. The Appellant made a payment of $25,000.00 (the "First Payment") to the Association for the Betterment of Literacy and Education ("A.B.L.E.") on June 25, 1996.
+10. The Appellant made a payment of $100,000.00 (the "Second Payment") to the Association for the Betterment of Literacy and Education ("A.B.L.E.") on December 12, 1996.
+11. A.B.L.E. was deregistered as a charity on September 25, 1999.
+B. ISSUE
+[3] The issue is whether the Appellant is entitled to deduct the payment of $125,000.00 in determining his income for the 1996 taxation year.
+C. ANALYSIS AND DECISION
+[4] The parties have agreed that the Respondent has reviewed cheques which establish that 91 of the 101 participants in the 1996 version of A.B.L.E. received so-called "Educational Gifts" which were kickback payments equal to 75% of the amounts that were donated by the participants to A.B.L.E.
+[5] The Appellant testified that he neither expected nor received an "Educational Gift" of 75% of his payments to A.B.L.E.
+[6] Counsel for the Respondent admitted that it does not have direct proof that the Appellant received the so-called "Educational Gift" kickback of 75% for his June 1996 $25,000.00 contribution.
+[7] Counsel for the Respondent submits that one of the two wire payments of $75,000.00 on December 24, 1996 to Rahn and Bodmer Bank of Zurich, Switzerland, in the period shortly after Mr. Currie (another donor to A.B.L.E.) and the Appellant made donations of $100,000.00 to A.B.L.E., is the 75% kickback that the Appellant received for his payment of $100,000.00.
+[8] In summary, counsel for the Respondent maintains that the Appellant both expected and received the so-called "Educational Gift" for 75% of his payments to A.B.L.E. In making this assertion, counsel for the Respondent relies heavily upon positive facts adduced such as the history of how A.B.L.E. operated and advertised itself and the fact that 91 of the 101 contributors did receive cheques equal to 75% of their contributions. Counsel for the Respondent also relies upon the implausibility of the Appellant's story and the adverse inferences that counsel for the Respondent asks the Court to draw for the Appellant's failure to call easily available witnesses to corroborate his story. Counsel for the Respondent noted that the Appellant could have called his brother, Stuart McPherson, as a witness. In addition, the Appellant could have called Mr. Cusano or Mr. Comparelli to corroborate his version of the events but he did not do so.
+[9] When we examine the facts as outlined above it is noted that the Appellant maintains that he did not receive a kickback from A.B.L.E. equal to 75% of the amount that the Appellant paid to A.B.L.E. (The Appellant made payments of $100,000.00 and $25,000.00 in 1996.)
+[10] However, counsel for the Respondent maintains that in the same way that 91 of the 101 donors to A.B.L.E. received kickbacks the Appellant did receive kickbacks in the form of wire transfers equal to 75% of his contributions.
+[11] In order to resolve the conflict between the Appellant's testimony and the position adopted by counsel for the Respondent I must carefully examine all of the relevant circumstances.
+[12] In this connection I refer to the decision of the Supreme Court of Canada in Symes v. Canada, [1993] 3 S.C.R. 695; 94 DTC 6001.
+[13] In Symes Mr. Justice Iacobucci said at page 736 (C.T.C.):
+As in other areas of law where purpose or intention behind actions is to be ascertained, it must not be supposed that in responding to this question courts will be guided only by a taxpayer's statement ex post facto or otherwise, as to the subjective purpose of a particular expenditure. Courts will, instead, look for objective manifestations of purpose, and purpose is ultimately a question of fact to be decided with due regard for all of the circumstances. ...
+[14] I will now summarize all of the relevant circumstances.
+A. The Appellant is a licenced investment advisor in British Columbia. He received his licence as an investment advisor in 1986.
+B. In 1996, the Appellant had income of $313,662.00 in commissions (Exhibit A-2, Volume 1, Tab 1, first page).
+C. The Appellant admitted under cross-examination that because of his business experience as a broker he was familiar with reading prospectus information and other promotional materials. He said that he was not gullible to financial scams and that he does due diligence before he makes an investment.
+D. Despite all of the evidence of how A.B.L.E. operated and the fact that A.B.L.E. has subsequently been deregistered by the Canada Revenue Agency (the "CRA"), the Appellant never once testified that he felt misled or defrauded by the promoters of A.B.L.E. The Appellant adduced no evidence that he took any legal action against Henry R. Thill, A.B.L.E. or anyone to recoup his $255,000.00 "donations" ($125,000.00 in 1996 and $130,000.00 in 1997) paid to A.B.L.E. Furthermore, he did not hold himself out as having been "duped" into receiving something other than exactly what he expected from A.B.L.E.
+E. The Appellant neither expressed surprise nor outrage that 91 of the 101 contributors in the 1996 variant of the scheme received direct kickbacks equal to 75% of their contributions. The Appellant simply stated that he did not have "intimate" knowledge of the financial affairs of other people.
+F. The Appellant's one criticism was that the CRA could challenge charitable receipts years after they had been issued. He described that process as "upsetting".
+G. The Appellant admitted under cross-examination that he had never heard of A.B.L.E. until he was approached by his brother, Stuart McPherson, and Pasquale Cusano.
+H. During the appeal the Appellant never really explained what A.B.L.E. did, nor what the acronym "A.B.L.E." referred to. It is unclear from his evidence whether he actually knew anything about A.B.L.E. In contrast, Mr. Kuhn, an auditor with the CRA, testified that the activity of A.B.L.E. was to promote "literacy and education" by giving out speed reading kits. Mr. Kuhn testified that the speed reading kits dated back to the early tax shelter schemes promoted by Henry N. Thill many years ago in various forms.
+I. The Appellant never mentioned the speed reading kits. It is unclear from the evidence whether he actually ever saw one or even tried to see one.
+J. Despite donating $255,000.00 to the "Association for the Betterment of Literacy and Education", the Appellant admitted on cross-examination that he had "no particular interest in literacy".
+K. The Appellant's objective history of charitable donations prior to the 1996 taxation year was non-existent. Mr. Kuhn testified that the Appellant claimed no charitable donations in the 1993, 1994 or 1995 taxation years. The Appellant also admitted this point under cross-examination. (Note - In 1996 the Appellant made a donation of $600.00 to the Children's Hospital through an office promotion arrangement.)
+L. The Appellant never explained what it was about A.B.L.E. that motivated his newfound "generosity" to a charity in 1996 and 1997. Rather, he admitted that the only explanations for his involvement with A.B.L.E. were as follows:
+a) The solicitations by his brother, Stuart McPherson, Pasquale Cusano and Henry Thill;
+b) He wanted the "tax write-off" that was proposed;
+c) In 1996 he had "had a good year" (though he borrowed to make the donation to A.B.L.E.); and
+d) He wanted to ensure that the charity was a "legitimate charity".
+M. The Appellant admitted reviewing the A.B.L.E. promotional materials in Exhibit A-2, Volume 2, Tab 9A (the "1996 Promotional Materials"). These materials were also identified by Mr. Kuhn as the 1996 Promotional Materials.
+N. The 10th page of the 1996 Promotional Materials states:
+THE CHARITABLE DONATION PROGRAM
+There are two main steps to the program:
+1) Legislation permits you to make a charitable contribution and claim a deduction on your income tax return.
+A taxpayer is allowed to use up to 50% of net income to make a charitable donation [the "50% Limit"].
+Excess contributions can be carried forward for up to five years. A donation made by one spouse is transferable to the other spouse.
+2) The Publishers' Philanthropic Fund of Bermuda ["PPF"] awards education gifts to qualified supporters of A.B.L.E. Association for the Betterment of Literacy and Education, an organization whose charitable effort is directed toward advancing literacy and education.
+This education gift is up to 75% of the donor's pledge.
+[underlining added]
+O. The 1996 Promotional Material was shown to the Appellant during the hearing. The Appellant:
+a) Admitted reviewing the 1996 Promotional Materials;
+b) Said that he was aware of the 50% Limit in direct examination and cross-examination;
+c) Acknowledged under cross-examination that he understood about the carry forward rule in the Income Tax Act; and
+d) Admitted under cross-examination that he filled out the pledge form (Exhibit A-2, Volume 2, Tab 9A, third last page), at least for the $100,000.00 donation made in December 1996.
+P. Despite the wording of the pledge and the membership forms and the 1996 Promotional Materials the Appellant admits to having respectively signed and reviewed, he maintains that he never understood that he might receive $75,000.00 as a kickback.
+Q. The Appellant said in testimony that he thought he might receive something such as golf clubs, hockey tickets or perhaps a dinner. However he said that he never thought he might get cash back.
+R. In stark contrast to the reference to 75% of the pledged amount in the 1996 Promotional Materials, the Appellant admitted under cross-examination that there is not a single reference to golf clubs or hockey tickets in the 1996 Promotional Materials or anywhere else.
+S. The Appellant acknowledged under cross-examination that he filled out the membership form because he could not receive the "gift" without doing so.
+T. The Appellant and Mr. Kuhn were taken through the $50,000.00 Net Income example on the 11th page of the 1996 Promotional Material (Exhibit A-2, Volume 2, Tab 9A). The example is based upon a hypothetical calculation where a $25,000.00 donor receives an "Educational Gift" of $18,750.00. In the 1996 Promotional Material there is no example where a donor receives either an "Educational Gift" of less than 75% or nothing at all.
+U. The central paragraph of the Assignment of Gift form states:
+I am pleased to have been selected to receive an education gift from the Publishers Philanthropic Fund of Bermuda. As a member of A.B.L.E. Association for the Betterment of Literacy and Education I would ask that you forward my gift of ________________ dollars to them at #1050-609 West Hasting Street, Vancouver, British Columbia.
+V. The Appellant admitted under cross-examination that he had signed the "Assignment of Gift" form (Exhibit A-2, Volume 2, Tab 9A, last page).
+W. The Appellant said that he could not recall what he put in the blank space on the Assignment of Gift Form where the Form called for an amount. The Appellant said that he was not able to locate a copy of the signed Assignment of Gift.
+X. Similarly, the Appellant could not explain why the Assignment of Gift Form he admitted signing only referred to "______ dollars" when he professed to anticipating only non-cash items such as golf clubs or hockey tickets.
+Y. The eleventh page of the 1996 Promotional Materials states that "Fund-raisers or the community at large may recommend that the donor receives the Educational Gift from the Publishers Philanthropic Fund of Bermuda (Exhibit A-2, Volume 2, Tab 9A, second paragraph from the bottom). The Appellant admitted under cross-examination that he knew several insiders and fund-raisers for A.B.L.E. In particular, under cross-examination he answered, "... was I associated with insiders of the charity? Yes, that is correct."
+Z. The Appellant's evidence was that in making the donation he relied upon the "due diligence" he performed. Specifically the Appellant said:
+· He met with Henry Thill;
+· He talked to Pasquale Cusano ("Cusano");
+· He met with and talked to his brother, Stuart McPherson;
+· He met with and talked to the lawyer, James Comparelli ("Comparelli");
+· He talked with his accountant, James McPherson;
+· He talked with John McCoach, the compliance officer at his employer, Yorkton Securities Ltd.;
+· He read and relied upon a legal opinion from Mr. Ross of Bennett Jones (Exhibit A-2, Volume 3, Tab 15).
+AA. In cross-examination the Appellant could not explain how he relied upon the legal opinion from Bennett Jones for his June 1996 "donation" to A.B.L.E. when the legal opinion was dated September 25, 1996.
+BB. The Appellant referred to his due diligence efforts several times. In particular, he stated repeatedly in his examination-in-chief that the reason for carrying out due diligence was that he wanted to make sure the charity was "legitimate".
+CC. Under cross-examination, the Appellant admitted that A.B.L.E. was not the same as other charities and the distinguishing feature was the potential "Educational Gift" (i.e. the kickback of "up to" 75% of the donation amount). Further, he admitted that the reason for the due diligence was the Educational Gift aspect outlined in the 1996 Promotional Materials.
+DD. The Appellant testified that he borrowed the $100,000.00 for his December 1996 "donation". In direct examination the Appellant stated that the reason for the borrowing was illiquidity (i.e. his cash was tied-up in investments). However, under cross-examination he admitted that he had given a different answer at his examination for discovery. Specifically, he previously stated that he borrowed the amount so he could get a tax deduction. He stated that his accountant advised him that this "worked". No interest deduction was claimed by the Appellant on the 1996 return and the accountant was not called to corroborate this peculiar advice.
+EE. The Appellant referred to signing a "promissory note" for the $100,000.00 loan but he could not produce the promissory note nor any other loan document. The only written documents evidencing the loan are notations made on cheques and other payments by the Appellant. Under cross-examination, the Appellant admitted that he had written the notations describing the payments as loan repayments after the fact.
+FF. Mr. Kuhn testified that, in contrast to other "wire donors" such as Conrad Clemiss, Mr. Kuhn had never seen a promissory note or other document corroborating the Appellant's version of events on the $100,000.00 loan. (Contrast Exhibit A-2, Volume 3, Tab 13, Wire Documentation summary, pages 19-20.)
+GG. The Appellant could not tell the Court from whom he borrowed the $100,000.00. Rather, he could only say that he borrowed the money through Mr. James Comparelli. Mr. Comparelli was a lawyer with whom the Appellant had never had any prior dealings. Mr. Comparelli was not called as a witness by the Appellant to corroborate any aspect of this evidence.
+HH. Trust account documents from Mr. Comparelli's law office clearly show the moneys coming from Swiss Bank accounts and make references to "Ave Maria" (Exhibit A-2, Volume 1, Tab 4F and Volume 3, Tab 32). None of Mr. Comparelli's documents describe the $100,000.00 as a loan.
+II. In particular, the "paper trail" uncovered by Mr. Kuhn in Exhibit A-2, Volume 1, Tab 4F shows the $100,000.00 coming into Mr. Comparelli's trust account from Ankerbank of Lausanne Switzerland. There is a $100,000.00 payment from the Appellant to Mr. Comparelli which goes back to Ankerbank. The $10,000.00 payment in May 1997 was initially described by the Appellant as interest paid on the loan, but he later testified that the interest rate of the loan was 3% or 3.5%. It is noted that $10,000.00 on a $100,000.00 loan would add up to more than 3.5%.
+JJ. The $10,000.00 payment is earmarked on Mr. Comparelli's trust account as "Ave Maria" which is the same notation that shows up in the matching ("kickback") $37,500.00 wire for Conrad Clemiss to Rahn & Bodmer Banquiers on January 27, 1996. (Exhibit A-2, Volume 1, Tab 4G, $37,500.00. See also Wire document, Exhibit A-2, Volume 3, Tab 13, 19th page, Wire Transfer Summary document.)
+KK. The Appellant professed no "intimate" knowledge of any aspect of the use of the Swiss Bank accounts including no knowledge of who he was supposedly borrowing unsecured money from in Switzerland at a rate of 3% - 3.5%.
+LL. The Appellant said that he repaid the $100,000.00 loan in two instalments: $70,000.00 on November 24, 1997, and $31,075.00 (comprised of $30,000.00 and an "interest component") on either February 4, 1998 or February 20, 1998. There were both cheques (Exhibit A-2, Volume 3, Tab 21) and bank drafts (Exhibit A-2, Volume 3, Tab 24) with different dates. The Appellant could not explain the duplication and was not sure what the February 20, 1998 bank draft for $30,000.00 was for.
+MM. However, by the Appellant's evidence, it is clear that over $30,000.00 was still remaining on the first "loan" when he borrowed $130,000.00 from Monte Cristo Jewellers Ltd. to make his 1997 "donation" of $130,000.00 to A.B.L.E. The Appellant admitted that he had no documents corroborating the terms of the $130,000.00 loan from Monte Cristo Jewellers Ltd. and admitted that the loan was unsecured. The Appellant did not call anyone to corroborate any of his dealings with respect to the 1997 donation to A.B.L.E.
+NN. Mr. Kuhn testified that Mr. P. Cusano operated the Westek bank account that played an "integral" role in moving moneys back and forth from A.B.L.E. under the guise of producing speed reading kits so as to maintain and foster the illusion that there was a Publishers Philanthropic Fund of Bermuda ("PPF") (described in Exhibit A-2, Volume 2, Tab 9A, 14th page).
+OO. Mr. Kuhn testified that during the course of the three-year period auditing A.B.L.E. he saw no evidence that Westek actually produced a single speed reading kit. Rather, Mr. Kuhn said that two local Vancouver companies, Justco Audio and Block Printing, actually produced the speed reading kits for an aggregate cost of approximately $1.30 per package. However Westek charged A.B.L.E. $150.00 per package for the speed reading kits.
+PP. Mr. Cusano owned the shares of Monte Cristo Jewellers Ltd. Mr. Dwight Webb was employed by Monte Cristo Jewellers. The Appellant acknowledged that he knew Mr. Webb. (Note- Mr. Webb was the Appellant in another A.B.L.E. case. See Webb v. R., [2005] 3 C.T.C. 2068.)
+QQ. The Appellant also acknowledged that his brother, Stuart McPherson, was one of Mr. P. Cusano's "business partners".
+RR. Mr. Kuhn testified that, historically, all of the contributors to the 1993, 1994 and 1995 variants of the tax shelter scheme paid $1.00 for every $4.00 of receipts. Specifically, he testified that there were:
+a) 6 contributors in 1993;
+b) 163 contributors in 1994;
+c) 145 contributors in 1995;
+d) 134 contributors in 1996 who used the 1995 version of the scheme; 101 contributors in 1996 who used a different variation of the scheme. (See Exhibit A-2, Volume 3, Tab 13, 18-page chart for the names of 134 contributors and the names of the 101 contributors including Mr. McPherson, who used the later variation of the scheme.)
+SS. Mr. Kuhn testified that in the tax shelter scheme in which the Appellant participated there were 101 contributors. Of the 101, 91 received "kickbacks" in the form of cheques equal to 75% of their contributions. The fact that there were 91 cheques received by the contributors is admitted (see Exhibit A-1). (See also Exhibit A-2, Volume 3, Tab 13.)
+TT. Mr. Kuhn testified extensively regarding the "pattern" of wire transfers for the remaining ten contributors (the "Wire Transfer People"). Mr. Kuhn's information is summarized in the "wire transfer summary document" at Exhibit A-2, Volume 3, Tab 13, pages 19-21.
+UU. Mr. Kuhn admitted that the pattern of wire transfers did not fit perfectly: Mr. Kuhn said that Mr. Richard Coglon was audited and there was no corresponding payments fitting 75% of his $175,000.00 "donation". In addition there was no payment corresponding to the June 1996 payment of $25,000.00 made by the Appellant. However, the pattern of wire transfer payments is incredibly close to matching the pattern of "kickbacks" for the 91 contributors for whom there are cheques.
+VV. Further, additional information subsequent to Mr. Kuhn's audit has buttressed the pattern. For example, Mr. Kuhn found that two wires of $18,750.00 matched the two $25,000.00 contributions of Mr. Engh and Mr. Pinkowski. The two wires on their own fit the pattern perfectly and reinforced Mr. Kuhn's analysis. However, Mr. Kuhn could not say definitively which wire went to whom. In particular, one of the two wires for $18,750.00 was codenamed "Ironman". Subsequent to his audit Mr. Kuhn testified that he learned that Mr. Engh had completed an "Ironman" competition.
+WW. Mr. Kuhn described the Wire Transfer People as the contributors who made larger donations and the contributors who were "more sophisticated". No evidence was adduced that any of the Wire Transfer People ever complained about A.B.L.E. or the treatment that they received.
+XX. The Appellant admits speaking with Messrs. Thill, Cusano and Stuart McPherson regarding A.B.L.E. He also acknowledged knowing: Pinkowski, Clemiss, Currie, Coglon, Webb, Engh.
+YY. Despite talking to key players and knowing other donors, sometimes on a very familiar basis, the Appellant continued to profess that he never heard that he could receive the 75% kickback or understood that from the 1996 Promotional Materials.
+[15] Based on a careful analysis of the above comments, the answers given by the Appellant and a review of the relevant documents I have concluded that on a balance of probabilities the Appellant both expected to receive and did receive a kickback equal to 75% of the "donations" that he made to A.B.L.E. in 1996.
+LAW
+[16] Section 118.1 of the Income Tax Act provides for a charitable deduction that may be claimed by individuals who make charitable donations, gifts to the Crown and certain gifts of cultural property and ecologically sensitive land.
+[17] Among the requirements for eligibility for the deduction is the requirement that the taxpayer make a "gift".
+[18] The term "gift" is not defined in the Act so general principles of law govern the meaning of a gift.
+[19] The Queen v. Friedberg, 92 DTC 6031 (F.C.A.) at 6032 the Federal Court of Appeal defined a "gift" as:
+... a voluntary transfer of property owned by a donor to a donee, in return for which no benefit or consideration flows to the donor (see Heald J. in The Queen v. Zandstra [74 DTC 6416] 2 F.C. 254, at p. 261).
+[20] There is an element of impoverishment which must be present for a transaction to be characterized as a gift. Whether this is expressed as an animus donandi, a charitable intent or an absence of consideration the core element remains the same.
+[21] In The Queen v. Burns, 88 DTC 6101 Mr. Justice Pinard said at page 6105:
+I would like to emphasize that one essential element of a gift is an intentional element that the Roman law identified as animus donandi or liberal intent (see Mazeaud, Lecon de Droit Civil, tome 4ième, 2ième volume, 4ième edition, No. 1325, page 554). The donor must be aware that he will not receive any compensation other than pure moral benefit; he must be willing to grow poorer for the benefit of the donee without receiving any such compensation. [emphasis added]
+[22] It is trite law (and common sense) that the anticipation and receipt of a cash kickback equal to 75% of the donation vitiates the gift. (See The Queen v. Friedberg, supra.)
+[23] Based on the detailed evidence outlined above I have concluded that the amounts transferred by the Appellant to A.B.L.E. in 1996 did not constitute a gift because the Appellant expected to receive a kickback equal to 75% of the amount that he contributed.
+[24] In reaching my conclusion that the Appellant expected to receive and did receive a "kickback" equal to 75% of the donations to A.B.L.E., I have reviewed the following Court decisions:
+1. Moloney v. The Queen, 89 DTC 5099:
+The taxpayers each paid $20,000.00 as a royalty pre-payment plus a $100.00 licence fee for the right to sell within a specified geographical area a self-teaching advanced reading course. Appeal dismissed. Mr. Justice Joyal of the Federal Court, Trial Division held that the expenses claimed by the taxpayers had no business purpose and were artificial.
+Note - Henry N. Thill was the promoter of this tax shelter.
+2. The Moloney decision was upheld by the Federal Court of Appeal (see Moloney v. The Queen, 92 DTC 6570).
+3. Reginald Watson and Deborah Madayag v. The Queen, 96 DTC 2006:
+The taxpayers incurred business losses in the form of licence fees, advance royalties and other costs in connection with a magazine publishing business ("Enjoy"). Justice Hamlyn held that the taxpayers had no business plan and had made no efforts to operate a business.
+Note - Henry N. Thill was the promoter of this tax reduction scheme.
+4. Nicols v. Canada, [1977] T.C.J. No. 149:
+The Appellant, Nicols, plus approximately 90 other Appellants claimed deductions for partnership losses. The Appellants owned units in a partnership involved in magazine publishing (the partnership is referred to as "Enjoy"). Deputy Judge Rowe held that the Appellants participated in the partnership to obtain a reduction in income tax. Judge Rowe determined that there was no legitimate desire to participate in a viable publishing business. Judge Rowe concluded that the developer's actions were intended to enrich no one but himself.
+Note - Henry N. Thill was the developer of the partnership.
+5. Lorenz v. Canada, [1996] T.C.J. No. 149:
+The Appellants were involved in a business venture which involved the publishing, marketing and distribution of a magazine called "Enjoy". Each appellant attempted to deduct licence fees and royalty payments. Deputy Judge Rowe held that there was nothing of substance done that was capable of producing profits for any of the taxpayers. Appeals dismissed.
+Note - Henry N. Thill was the promoter of the scheme.
+I believe that Judge Rowe's comments on Henry Thill are worth repeating. Judge Rowe said:
+... Of the nearly $395,000 which ended up accruing to Thill, there is no evidence that this amount, or any part of it, bore any rational, decent relationship to any legitimate attempt to produce the publication. Once the smoke cleared, Thill, alone, remained to enjoy the fruits of the scheme which were distributed among the officers, directors, shareholders and employees of the corporation.
+6. Norton v. Canada, 97 DTC 1116:
+This appeal concerned the deduction by the Appellant, Norton, (plus 28 other Appellants) of their share of losses sustained in 1990 and 1991 as partners of a partnership allegedly engaged in publishing a hospitality guide aimed at travellers staying in hotels and motels. Judge Rowe held that the Appellants had participated in the partnership in order to reduce their tax without investigating the nature of the supposed enterprise. Judge Rowe held that the whole scheme was a scam promoted by one Thill. At pages 1139 and 1140 Judge Rowe said:
+The HGP promotion by Thill was a scam, pure and simple. Every time one looked for corroboration on some point or for a reasonable explanation it was never forthcoming and the entire venture was illusory and without substance. It was another Thill creation with a slight twist but it did not change the basic character of the scheme nor imbue it with any more legitimacy than past tax shelter schemes which have been the subject of numerous previous decisions. When Bendall attempted, in 1995, to revive Hospitality Guide, Thill did not provide him with any money, did not make available the information needed to assist in production and then resiled on an undertaking to make up any shortfall. Again, Thill was there to ensure that the final stake was driven into its heart − even though it had ostensibly been dead since the end of 1992. In all of these cases where Thill has promoted tax shelters, his modus operandi was to throw both ends of the rope to a drowning venture and then head off into the sunset to perform yet another good deed by relieving people of their money in return for a few tricks, an entertaining magic show and, at the end of the rainbow, a few juicy tax refunds. Failures of the ventures are always the fault of some other entity which, in every case, he controls absolutely, because that is the essential ingredient needed to ensure that investors' money ends up being completely at his disposal through his various corporations.
+7. Laliberté v. The Queen, 96 DTC 1483:
+The Appellant claimed a business loss of $30,008.00 in respect of what was alleged to be a business of distributing speed reading courses. Justice Bonner dismissed the appeal and stated that the Appellant's predominant, if not only purpose, was to secure a tax deduction.
+Note − Henry N. Thill was the promoter of this tax shelter.
+8. Webb v. R., [2005] 3 C.T.C. 2068:
+The Appellant claimed to have donated $30,000.00 in 1997 to a charitable organization (A.B.L.E.). Justice Bowie dismissed the appeal. Justice Bowie said at paragraph 17:
+The circumstances that I have referred to lead me to conclude that there was nothing donative at all about Mr. Webb's payment to A.B.L.E. His intention was to receive a tax credit for a charitable donation, as well as a substantial refund of the amount he had given, such that when the two were aggregated they would exceed the $30,000 for which he wrote the cheque.
+Note− Justice Bowie noted in paragraph 9 that A.B.L.E. was a creation of Henry N. Thill.
+[25] Each of the above Court decisions concerned various tax shelter schemes which were promoted by Henry N. Thill. The overall impression that one derives from the above Court decisions is that each of the "tax schemes" was poorly designed and improperly operated and the various "investors, partners or donors" were always unsuccessful. The Appellant stated that he conducted due diligence to ensure that A.B.L.E. was a legitimate charity. In carrying out due diligence the Appellant should have talked to his brother or someone to obtain background information on the many unsuccessful tax shelter promotions carried out by Henry N. Thill.
+[26] The appeal is dismissed, with costs.
+Signed at Vancouver, British Columbia, this 6th day of December 2006.
+"L.M. Little"
+Little J.
+CITATION:
+2006TCC648
+COURT FILE NO.:
+2003-4123(IT)G
+STYLE OF CAUSE:
+Grant McPherson and
+Her Majesty the Queen
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+November 21 and 22, 2006
+REASONS FOR JUDGMENT BY:
+The Honourable Justice L.M. Little
+DATE OF JUDGMENT:
+December 6, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Patrick W. Watson
+Counsel for the Respondent:
+Gavin Laird, Robert Carvalho
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Patrick W. Watson
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

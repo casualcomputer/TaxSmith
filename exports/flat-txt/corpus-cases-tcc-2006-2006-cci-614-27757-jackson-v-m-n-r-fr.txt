@@ -1,0 +1,222 @@
+Title: Jackson v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27757/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-614-27757-jackson-v-m-n-r-fr.md
+Document type: case_law
+Last modified: 2006-12-22
+
+# Jackson v. M.N.R.
+
+- Citation: 2006 CCI 614
+- Decision date: 2006-12-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 310, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jackson v. M.N.R.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-12-22
+Référence neutre
+2006 CCI 614
+Numéro de dossier
+2005-1158(EI)
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2005-1158(EI)
+ENTRE :
+CHRISTINA JACKSON,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+Christina Jackson 2005-1403(EI)
+le 3 novembre 2006, à Kelowna (Colombie-Britannique)
+Devant : l’honorable juge D.W. Beaubier
+Comparutions :
+Avocat de l’appelante :
+Me David Ertl
+Avocate de l’intimé :
+Me Selena Sit
+____________________________________________________________________
+JUGEMENT L’appel est accueilli et la décision du ministre est annulée conformément aux motifs du jugement ci‑joints. La moitié des dépens ou des débours auxquels l’appelante a droit en vertu de la Loi sur l’assurance‑emploi lui est adjugée.
+Signé à Ottawa, Canada, ce 14e jour de novembre 2006.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 10e jour de mai 2007.
+Hélène Tremblay, traductrice
+Dossier : 2005-1403(EI)
+ENTRE :
+CHRISTINA JACKSON,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+Christina Jackson 2005-1158(EI)
+le 3 novembre 2006, à Kelowna (Colombie-Britannique)
+Devant : l’honorable juge D.W. Beaubier
+Comparutions :
+Avocat de l’appelante :
+Me David Ertl
+Avocate de l’intimé :
+Me Selena Sit
+____________________________________________________________________
+JUGEMENT L’appel est accueilli et la décision du ministre est annulée conformément aux motifs du jugement ci‑joints. La moitié des dépens ou des débours auxquels l’appelante a droit en vertu de la Loi sur l’assurance‑emploi lui est adjugée.
+Signé à Ottawa, Canada, ce 14e jour de novembre 2006.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 10e jour de mai 2007.
+Hélène Tremblay, traductrice
+Référence : 2006CCI614
+Date : 20061114
+Dossier : 2005-1158(EI)
+ENTRE :
+CHRISTINA JACKSON,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+Dossier : 2005-1403(EI)
+ET ENTRE :
+CHRISTINA JACKSON,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Beaubier
+[1] Les présents appels ont été entendus sur preuve commune à Kelowna (Colombie‑Britannique) le 3 novembre 2006. L’appelante a témoigné elle-même et a cité son époux, le Dr Craig Jackson, comme témoin. L’avocate de l’intimé a appelé Ken Wong, l’agent des appels chargé des dossiers, à témoigner. Le dossier n° 2005-1158(EI) est un appel à l’encontre d’une décision défavorable à l’appelante concernant l’emploi qu’elle exerçait pendant la période du 31 août 2003 au 31 août 2004 auprès de la société de personnes Dr. Dennis Waechter and Dr. Craig Jackson Management (la société de personnes « Mgt ») appartenant à parts égales aux deux médecins. Le dossier n° 2005‑1430(EI) est un appel à l’encontre d’une décision défavorable à l’appelante concernant l’emploi qu’elle exerçait auprès de la société à cent pour cent du Dr Craig Jackson, à savoir Dr. C.S. Jackson MD Inc. (la société « MD Inc. »), pendant la même période. Pendant cette même période, l’appelante avait aussi un emploi à temps partiel (soit pendant la moitié de la semaine scolaire) auprès d’une école secondaire de Vernon à titre d’enseignante de mathématiques et de sciences.
+[2] Les paragraphes 2 à 8, inclusivement, de la réponse à l’avis d’appel déposée dans le dossier 2005‑1158(EI) sont rédigés en ces termes :
+[TRADUCTION]
+2. En ce qui concerne l’ensemble de l’avis d’appel, il nie les allégations de fait suivantes :
+a) le contrat de travail de l’appelante était identique à celui de la directrice de bureau précédente de la société de personnes et de la société;
+b) l’emploi de l’appelante, ses heures de travail ainsi que son salaire étaient en tous points semblables à ce qui aurait été accordé à un remplaçant si l’appelante avait quitté son emploi auprès de la société de personnes et de la société;
+c) l’appelante n’a pas de lien de dépendance avec la société de personnes.
+3. Il n’a pas connaissance des autres faits pertinents allégués dans l’avis d’appel.
+4. Le 6 octobre 2004, le ministre du Revenu national (le « ministre ») a rendu une décision selon laquelle l’appelante n’exerçait pas un emploi assurable auprès de la société de personnes étant donné qu’elle avait un lien de dépendance avec cette société de personnes pendant la période du 31 août 2003 au 31 août 2004 (la « période »).
+5. Dans une lettre datée du 7 octobre 2004, l’appelante a interjeté appel à l’encontre de la décision du ministre conformément à l’article 91 de la Loi sur l’assurance-emploi, L.C. 1996, ch. 23 (la « Loi »).
+6. Dans une lettre datée du 2 mars 2005, le ministre a déclaré que l’appelante n’exerçait pas un emploi assurable auprès de la société de personnes pendant la période. Il a aussi conclu qu’en application de l’alinéa 5(2)i) de la Loi, l’appelante avait un lien de dépendance avec la société de personnes.
+7. Lorsqu’il a conclu que l’appelante n’exerçait pas un emploi assurable auprès de la société de personnes pendant la période, le ministre s’est fondé sur les hypothèses de fait suivantes :
+a) pendant la période, l’appelante travaillait auprès de la société de personnes et de la société;
+b) l’appelante travaillait auprès de la société de personnes et de la société depuis 1998;
+c) la société de personnes, aussi connue sous la dénomination sociale Waechter Jackson Management, appartient au Dr Dennis Waechter et au Dr Craig Jackson;
+d) la société de personnes exploitait un cabinet de médecins onmipraticiens;
+e) l’appelante est l’épouse de Craig Jackson;
+f) l’appelante est comptable générale licenciée;
+g) pendant la période, l’appelante était directrice de bureau et contrôleuse de gestion auprès de la société de personnes et de la société;
+h) pendant la période, les tâches qu’exécutait l’appelante pour la société de personnes et pour la société comprenaient la facturation quotidienne, la supervision des employés du bureau, l’approvisionnement en fournitures, la tenue des livres, l’établissement des feuilles de paie ainsi que l’établissement de tous les rapports financiers et de tous les budgets;
+i) l’appelante soutient que pendant la période, elle travaillait 7,5 heures par jour les jeudis et les vendredis auprès de la société de personnes, et 7,5 heures par jour les mardis et les mercredis auprès de la société;
+j) pendant la période, les heures de travail de l’appelante auprès de la société de personnes et de la société n’étaient pas consignées;
+k) pendant la période, l’appelante travaillait aussi deux jours et demi par semaine comme enseignante à temps partiel auprès de la commission scolaire de Vernon;
+l) pendant la période, le taux de salaire de l’appelante auprès de la société de personnes et de la société était de 14,50 $ l’heure;
+m) en fait, pendant la période, l’appelante recevait 1 000 $ par quinzaine pour son travail auprès de la société de personnes, et 3 000 $ par mois pour son travail auprès de la société, pour un total de 5 000 $ par mois;
+n) pendant la période, l’appelante bénéficiait du régime d’assurance contre les frais dentaires, d’assurance‑vie et d’assurance‑invalidité de la société de personnes;
+o) la directrice de bureau précédente de la société de personnes et de la société est Valerie Burnett (« Mme Burnett »);
+p) Mme Burnett a reçu un feuillet T4 de la société de personnes, mais pas de la société;
+q) la société de personnes ne payait pas à l’appelante un salaire à peu près semblable à celui payé à Mme Burnett;
+r) l’appelante est partie en congé de maternité le 31 août 2004;
+s) il n’est pas raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, que l’appelante et la société de personnes auraient conclu entre elles un contrat de travail à peu près semblable si elles n’avaient pas eu de lien de dépendance.
+B. POINT EN LITIGE
+8. La question est de savoir si l’appelante exerçait un emploi assurable auprès de la société de personnes pendant la période.
+En ce qui concerne les hypothèses énoncées au paragraphe 7, elles sont toutes exactes, à l’exception de celles qu’on retrouve aux alinéas l), o) et s). En ce qui concerne ces alinéas, soit l), o) et s) :
+l) – Pendant la période en cause, l’appelante recevait 2 000 $ par mois de Mgt. Elle travaillait prétendument 7,5 heures par jour les jeudis et les vendredis, alors qu’il s’avère qu’elle déterminait elle-même les heures qu’elle travaillait et qu’elle travaillait du mardi au samedi, généralement de la fin de l’après‑midi jusqu’en soirée. Il arrivait parfois qu’elle commence à travailler vers 15 h et qu’elle termine vers 18 h ou 19 h.
+(o) – La directrice précédente de la société de personnes était Jill Powell (« Mme Powell »), qui était partie de façon inattendue en donnant un préavis de deux semaines. Valerie Burnett avait précédé Mme Powell et avait été congédiée pour un motif déterminé. L’appelante avait plus de responsabilités que les deux directrices l’ayant précédée. Ces dernières ne s’occupaient pas de la facturation, de la feuille de paie ou de l’établissement des rapports financiers et des budgets, tâches dont l’appelante, de son côté, devait s’acquitter. Même lorsqu’elle n’était pas directrice, l’appelante s’acquittait de ces tâches. Les autres tâches énoncées à l’alinéa h) incombaient à la directrice en poste à ce moment-là.
+(s) – Cette hypothèse sera examinée plus loin dans les présents motifs.
+[3] Les paragraphes 1 à 9, inclusivement, de la réponse à l’avis d’appel déposée dans le dossier 2005‑1430(EI) sont rédigés en ces termes :
+[TRADUCTION]
+A. ÉNONCÉ DES FAITS
+1. En ce qui concerne l’ensemble de l’avis d’appel, il admet les allégations de fait suivantes :
+a) l’appelante était contrôleuse de gestion et directrice de bureau auprès de Dr. C.S. Jackson MD Inc. (la « société ») et de la société de personnes Dr. Dennis Waechter and Dr. Craig Jackson Management (la « société de personnes »);
+b) l’appelante était une employée et ses cotisations d’assurance‑emploi étaient retenues sur sa paie pendant toute la période au cours de laquelle elle a travaillé auprès de la société et de la société de personnes.
+2. En ce qui concerne l’ensemble de l’avis d’appel, il nie les allégations de fait suivantes :
+a) le contrat de travail de l’appelante était identique à celui de la directrice de bureau précédente de la société et de la société de personnes;
+b) l’emploi de l’appelante, ses heures de travail ainsi que son salaire étaient en tous points semblables à ce qui aurait été accordé à un remplaçant si l’appelante avait quitté son emploi auprès de la société et de la société de personnes;
+c) l’appelante n’a pas de lien de dépendance avec la société de personnes.
+3. Il n’a pas connaissance des autres faits pertinents allégués dans l’avis d’appel.
+4. Le 6 octobre 2004, le ministre du Revenu national (le « ministre ») a rendu une décision selon laquelle l’appelante n’exerçait pas un emploi assurable auprès de la société étant donné qu’elle avait un lien de dépendance avec la société de personnes pendant la période du 31 août 2003 au 31 août 2004 (la « période »).
+5. Dans une lettre datée du 7 octobre 2004, l’appelante a interjeté appel à l’encontre de la décision du ministre conformément à l’article 91 de la Loi sur l’assurance-emploi, L.C. 1996, ch. 23 (la « Loi »).
+6. Dans une lettre datée du 2 mars 2005, le ministre a déclaré que l’appelante n’exerçait pas un emploi assurable auprès de la société pendant la période. Il a aussi conclu qu’en application de l’alinéa 5(2)i) de la Loi, l’appelante avait un lien de dépendance avec la société.
+7. Lorsqu’il a conclu que l’appelante n’exerçait pas un emploi assurable auprès de la société pendant la période en cause, le ministre s’est fondé sur les hypothèses de fait suivantes :
+a) pendant la période, l’appelante travaillait auprès de la société et de la société de personnes;
+b) l’appelante travaillait auprès de la société et de la société de personnes depuis 1998;
+c) la société exploitait un cabinet de médecins omnipraticiens;
+d) l’appelante est l’épouse du Dr Craig Jackson (le « Dr Jackson »);
+e) le Dr Jackson détient 100 % des actions avec droit de vote de la société;
+f) l’appelante est comptable générale licenciée;
+g) pendant la période, l’appelante était directrice de bureau et contrôleuse de gestion auprès de la société et de la société de personnes;
+h) pendant la période, les tâches qu’exécutait l’appelante pour la société et pour la société de personnes comprenaient la facturation quotidienne, la supervision des employés du bureau, l’approvisionnement en fournitures, la tenue des livres, l’établissement des feuilles de paie ainsi que l’établissement de tous les rapports financiers et de tous les budgets;
+i) l’appelante soutient que pendant la période, elle travaillait 7,5 heures par jour les mardis et les mercredis auprès de la société, et 7,5 heures par jour les jeudis et les vendredis auprès de la société de personnes;
+j) pendant la période, les heures de travail de l’appelante auprès de la société et de la société de personnes n’étaient pas consignées;
+k) pendant la période, l’appelante travaillait aussi deux jours et demi par semaine comme enseignante à temps partiel auprès de la commission scolaire de Vernon;
+l) pendant la période, le taux de salaire de l’appelante auprès de la société et de la société de personnes était de 14,50 $ l’heure;
+m) en fait, pendant la période, l’appelante recevait 1 000 $ par quinzaine pour son travail auprès de la société de personnes, et 3 000 $ par mois pour son travail auprès de la société, pour un total de 5 000 $ par mois;
+n) pendant la période, l’appelante bénéficiait du régime d’assurance contre les frais dentaires, d’assurance‑vie et d’assurance‑invalidité de la société de personnes;
+o) la directrice de bureau précédente de la société de personnes et de la société est Valerie Burnett (« Mme Burnett »);
+p) Mme Burnett a reçu un feuillet T4 de la société de personnes, mais pas de la société;
+q) la société ne payait pas à l’appelante un salaire à peu près semblable à celui payé à Mme Burnett;
+r) l’appelante est partie en congé de maternité le 31 août 2004;
+s) il n’est pas raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, que l’appelante et la société auraient conclu entre elles un contrat de travail à peu près semblable si elles n’avaient pas eu de lien de dépendance.
+B. POINT EN LITIGE
+8. La question est de savoir si l’appelante exerçait un emploi assurable auprès de la société pendant la période.
+C. DISPOSITIONS LÉGISLATIVES INVOQUÉES
+9. Il se fonde sur les alinéas 5(1)a), 5(2)i) et 5(3)b), sur le paragraphe 2(1) et sur l’article 91 de la Loi. Il se fonde aussi sur l’article 251 de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch.1 (5e suppl.), modifiée.
+[4] Les hypothèses 7a), b), d), e), f), g), j), k), m), n), p) et r) ont été confirmées par le témoignage ou n’ont pas été réfutées. En ce qui concerne les autres hypothèses :
+(c) – La société MD Inc. était la personne morale par l’intermédiaire de qui le Dr Jackson exerçait ses activités. Elle contrôlait la participation du Dr Jackson dans la société de personnes Mgt ainsi que ses activités dans deux autres cliniques médicales à Vernon (Colombie‑Britannique), en plus d’assurer la gestion d’un appartement de copropriété qu’elle possédait à Whistler (Colombie‑Britannique).
+(h) – Les tâches qu’exécutait l’appelante auprès de MD Inc. étaient, entre autres, la gestion des dossiers, la facturation, la tenue des livres, ainsi que l’administration et la gestion financière et budgétaire des deux cliniques. De plus, elle s’occupait de l’ensemble des activités liées à la gestion, aux réservations et aux finances touchant l’appartement de copropriété que MD Inc. donnait en location à titre de propriété de vacances à divers clients à Whistler (Colombie‑Britannique), soit à environ 400 kilomètres des bureaux de MD Inc. à Vernon.
+(i) – C’est ce que soutient l’appelante, mais la preuve soumise, à laquelle la Cour ajoute foi, révèle plutôt que le travail était effectué dans le bureau de l’appelante, à son domicile, à divers moments, notamment les mardis et les mercredis, pour un total d’environ 15 heures par semaine.
+(l) et (m) – Le taux de salaire de l’appelante était de 3 000 $ par mois. Ce taux était fondé sur les heures de travail et les revenus de MD Inc.
+(o) et (g) – MD Inc. n’a jamais compté d’autres employés que le Dr Jackson et son épouse.
+(s) – Cette hypothèse sera examinée plus loin.
+[5] Plusieurs renseignements qui n’avaient pas été présentés à l’étape de l’appel devant le ministre du Revenu national ont été présentés en preuve lors de l’audience. L’appelante travaillait comme enseignante deux jours et demi par semaine, soit les mardis jusqu’à 11 h 15, les jeudis jusqu’à 14 h 30, et une autre période d’une journée divisée entre les mercredis et les vendredis. En temps normal, du mardi au vendredi, après avoir enseigné, elle se rendait au bureau de la société de personnes Mgt. Ses heures de travail là-bas n’étaient pas fixes, mais elle travaillait souvent pendant deux à trois heures après 17 h, soit l’heure après laquelle le cabinet n’acceptait plus de patients, du mardi au vendredi. En ce qui concerne le travail pour la société MD Inc., elle accomplissait ses tâches pendant le jour les lundis et sporadiquement au cours de la semaine, notamment les soirs, ce qui donne une moyenne d’environ 15 heures par semaine. Tout le travail de facturation médicale devait être fait à l’aide des dossiers des patients. Environ 75 % des factures étaient payées à temps. L’autre 25 % devait souvent faire l’objet de suivis, et les dossiers devaient être consultés pour en tirer des renseignements additionnels. L’appelante pouvait accéder à certains de ces renseignements au moyen de l’ordinateur du bureau qu’elle avait à domicile, à partir des ordinateurs de la clinique. (Valerie Burnett avait, elle aussi, travaillé à partir de la maison quelques fois.) L’appelante établissait des rapports financiers mensuels pour les deux employeurs, ce que Mme Burnett ne faisait pas. La gestion des employés comme telle pour la société de personnes Mgt était effectuée dans la clinique même. Ceci comprenait l’établissement de l’horaire de travail des employés en plus de la gestion directe qui devait parfois être effectuée, par opposition à la gestion des tâches médicales des médecins. Aucune des directrices précédentes de la société de personnes Mgt ne s’était occupée de la facturation, de la comptabilité, etc., comme le faisait l’appelante.
+[6] Dans son témoignage, l’appelante a affirmé que son salaire de 2 000 $ par mois versé par Mgt était insuffisant, étant donné que ses tâches de gestion comprenaient du travail lié aux finances. L’appelante avait déjà 10 ans d’expérience de travail en comptabilité dans un poste à responsabilités qu’elle a occupé à Vancouver, elle avait donc une expérience considérable dans le domaine. La directrice précédente de la société de personnes Mgt, Jill Powell, s’occupait de la gestion pendant trois jours de la semaine et du travail d’assistance médicale pendant deux jours de la semaine, mais elle ne s’était jamais occupée des finances ou de la comptabilité.
+[7] En ce qui concerne la société de personnes Mgt, la Cour conclut ce qui suit :
+Rétribution versée – Compte tenu des tâches accomplies par l’appelante, du fait que son emploi était à temps partiel, et du fait que le Dr Waechter, qui n’est pas apparenté aux Jackson, participait à 50 % au choix et à l’embauche de l’appelante, la rétribution semble être raisonnable et correspondre à que ce qui aurait été versé dans le cadre d’une transaction sans lien de dépendance.
+La Cour tire la même conclusion en ce qui concerne les modalités d’emploi, ainsi que la durée, la nature et l’importance du travail accompli. Les tâches afférentes à la gestion, à la comptabilité et aux finances étaient étroitement liées au succès et à la rentabilité de la société de personnes. C’est pour cette raison que celle‑ci avait besoin d’un employé chevronné et mature. Toutefois, l’emploi était à temps partiel. À l’époque où Valerie Burnett était directrice, il y avait eu des problèmes dans la gestion des dossiers financiers. L’appelante avait partiellement réglé ces problèmes au moyen d’une comptabilité plus rigoureuse comprenant l’établissement d’états financiers mensuels faisant l’objet d’un examen de la part de l’appelante et des associés de Mgt, et, dans le cas de la société, de la part du Dr Jackson. En outre, à son départ, Jill Powell n’avait donné que deux semaines de préavis aux associés, leur laissant peu de temps pour trouver un remplaçant convenable. L’appelante avait informatisé la tenue des livres et les opérations du bureau dans le cadre d’un contrat qui lui avait été confié, et elle connaissait bien la façon de faire du bureau, ce qui a joué dans la décision de Mgt de l’embaucher.
+[8] Par conséquent, l’appel interjeté par l’appelante et portant le numéro de dossier 2005-1158(EI) est accueilli et la moitié des dépens ou des débours auxquels l’appelante a droit en vertu de la Loi sur l’assurance‑emploi lui est adjugée.
+[9] En ce qui concerne la société MD Inc., la Cour conclut ce qui suit :
+Rétribution versée – L’hypothèse énoncée à l’alinéa 7p) dans le dossier portant le numéro 2005-1403(EI) est inexacte. Valerie Burnett n’a jamais été une employée de la société et n’a jamais reçu de salaire de la société. Par conséquent, à défaut d’éléments de preuve concernant des tâches ou un salaire comparables à ceux de l’appelante, la question est de savoir si le montant de 3 000 $ qu’elle touchait chaque mois était un salaire raisonnable compte tenu de l’emploi à temps partiel qu’elle exerçait. Elle devait établir et récupérer les factures du Dr Jackson pour son travail hebdomadaire dans les deux cliniques situées dans la région de Vernon. Elle devait gérer tout ce qui avait trait à l’appartement de copropriété de Vernon. Elle s’occupait aussi de l’ensemble des finances de la société. Pour effectuer ces tâches, elle devait avoir de l’expérience dans les domaines des finances et de la santé, ainsi que toute une gamme de connaissances en gestion immobilière, en plus des compétences connexes. Son emploi était à temps partiel, et elle gagnait 36 000 $ par année pour son travail. Le seul point de référence qui a été présenté en preuve à la Cour est l’emploi de l’appelante auprès de la société de personnes, pour lequel elle gagnait 2 000 $ par mois. Dans son témoignage, l’appelante a affirmé qu’elle devait consacrer plus de temps à son travail auprès de la société MD Inc. qu’à son travail auprès de la société de personnes. Ceci est plausible étant donné que la société MD Inc. n’avait pas de bureau dans les deux autres cliniques. De plus, la location d’une propriété et la gestion immobilière sont des activités voraces en temps. Par conséquent, tout bien pesé, la Cour conclut que la rétribution versée était raisonnable.
+- Les modalités d’emploi étaient également raisonnables compte tenu qu’il s’agissait d’un emploi à temps partiel et étant donné la nature des difficultés et des responsabilités qu’il comportait.
+- De la même façon, la durée, la nature et l’importance du travail accompli appelaient quelqu’un qui pouvait travailler à temps partiel, qui avait de bonnes compétences et connaissances dans les domaines de la comptabilité et de la facturation de services médicaux, qui pouvait effectuer toutes les tâches relatives à la gestion immobilière, et qui pouvait établir des états financiers complets. Il s’agit‑là d’un ensemble de compétences assez rare, qui se paie, et qui est encore plus rare quand vient le temps de doter un poste à temps partiel.
+[10] Par conséquent, il est raisonnable de conclure que l’appelante et la société auraient conclu entre elles un contrat de travail à peu près semblable si elles n’avaient pas eu de lien de dépendance. C’est donc ce que conclut la Cour.
+[11] L’appel interjeté par l’appelante et portant le numéro de dossier 2005‑1403(EI) est accueilli et la moitié des dépens ou des débours auxquels l’appelante a droit en vertu de la Loi sur l’assurance‑emploi lui est adjugée.
+Signé à Ottawa, Canada, ce 14e jour de novembre 2006.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 10e jour de mai 2007.
+Hélène Tremblay, traductrice
+RÉFÉRENCE : 2006CCI614
+NOS DES DOSSIERS : 2005-1158(EI) et 2005-1430(EI)
+INTITULÉ : Christina Jackson c. Le ministre du Revenu national
+LIEU DE L’AUDIENCE : Kelowna (Colombie‑Britannique)
+DATE DE L’AUDIENCE : Le 3 novembre 2006
+MOTIFS DU JUGEMENT PAR : L’honorable juge D.W. Beaubier
+DATE DU JUGEMENT : Le 14 novembre 2006
+COMPARUTIONS :
+Avocat de l’appelante :
+Me David Ertl
+Avocate de l’intimé :
+Me Selena Sit
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Me David Ertl
+Cabinet : Davidson & Company
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

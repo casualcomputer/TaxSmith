@@ -1,0 +1,539 @@
+Title: Cross v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27978/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-532-27978-cross-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-08-15
+
+# Cross v. The Queen
+
+- Citation: 2007 TCC 532
+- Decision date: 2007-08-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1793, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cross v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-08-15
+Neutral citation
+2007 TCC 532
+File numbers
+2006-3275(IT)I
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-3275(IT)I
+BETWEEN:
+FREDERICK M. CROSS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on August 15, 2007 at Toronto, Ontario.
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Kandia Aird
+_______________________________________________
+JUDGMENT
+The appeals from the reassessments for the 2000, 2001 and 2002 taxation years are allowed, in part, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the following adjustments are to be made to the additional business income that was added to the Appellant’s income for each of these years:
+2000
+Amount as stated in the Reply as the amount by which the business income was increased:
+$11,381.00
+Deduction for the unexplained discrepancy:
+($1,470.96)
+Additional motor vehicle expenses allowed:
+($6,756.00)
+Additional telephone expenses allowed:
+($453.60)
+Additional business use of home expenses allowed:
+($3,359.98)
+Revised adjustment to the income as reported by the Appellant in his tax return for 2000:
+($659.54)
+2001
+Amount as stated in the Reply as the amount by which the business income was increased:
+$ 9,160.00
+Additional motor vehicle expenses allowed:
+($3,851.00)
+Additional meals & entertainment expenses allowed
+($224.95)
+Additional telephone expenses allowed:
+($552.60)
+Additional business use of home expenses allowed:
+($5,363.38)
+Revised adjustment to the income as reported by the Appellant in his tax return for 2001:
+($831.93)
+2002
+Amount as stated in the Reply as the amount by which the business income was increased:
+$19,731.00
+Additional motor vehicle expenses allowed:
+($2,778.66)
+Additional meals & entertainment allowed
+($487.95)
+Additional Legal and Accounting expenses allowed (90% x $1,060 - $567.10):
+($386.90)
+Additional telephone expenses allowed:
+($636.80)
+Additional business use of home expenses allowed:
+($2,870.25)
+Revised adjustment to the income reported by the Appellant in his tax return for 2002:
+$12,570.44
+Signed at Halifax, Nova Scotia, this 7th day of September 2007.
+"Wyman W. Webb"
+Webb J.
+Citation: 2007TCC532
+Date: 20070907
+Docket: 2006-3275(IT)I
+BETWEEN:
+FREDERICK M. CROSS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb J.
+[1] The Appellant carries on a sole proprietorship business as a painter. The Appellant was reassessed for 2000, 2001 and 2002 in relation to the expenses that he had claimed in relation to this business. The issue, as stated in paragraphs 8 and 9 of the Reply, is whether the Appellant is entitled to claim the expenses as submitted or whether the expenses were not deductible under either paragraph 18(1)(a) or paragraph 18(1)(h) of the Income Tax Act (“Act”).
+[2] In the Reply it is stated in paragraph 3 that:
+By Notices of Reassessment dated February 20, 2004, the Minister reassessed the Appellant’s 2000, 2001 and 2002 taxation years and increased the Appellant’s business income by $11,381; $9,160 and $19,731, respectively.
+[3] It is also stated that following the filing of the Notice of Objection by the Appellant the Minster confirmed the reassessments.
+[4] Paragraph 6 of the Reply states as follows:
+The amounts in dispute are attached as Schedule “A”.
+[5] The only assumptions that were made by the Minister are outlined in paragraph 7 of the Reply and these are as follows:
+In so reassessing and confirming the 2000, 2001 and 2002 taxation years, the Minister made the following assumptions of fact:
+a) the Appellant is the sole owner of a proprietorship, which performs painting, wallpapering and decorating; and
+b) the expenses claimed were the personal and living expenses of the Appellant.
+[6] The Schedule “A” which is attached to the Reply lists for each of the three years various expense categories with, for each year, three columns, one entitled “Requested”, one entitled “Allowed” and a third entitled “WP”. For the year 2000 the total amount listed as “Requested” in Schedule “A” is $26,427.56. The total amount shown as “Allowed” in Schedule “A” is $10,031.75. The difference between these two amounts is $16,395.81 However in paragraph 3 of the Reply the amount that was stated as the adjustment to business income was $11,381.
+[7] For 2001, the total amount listed as “Requested” in Schedule “A” is $35,956.87, the total amount shown as “Allowed” in Schedule “A” is $16,812.96 and the difference between these two amounts is $19,143.91. However in paragraph 3 of the Reply it is stated that the amount by which his income was adjusted was $9,160.
+[8] For 2002, the total amount listed as “Requested” is $40,303.91, the total amount shown as “Allowed” is $18,414.45 and the difference between these two amounts is $21,889.46. However in paragraph 3 of the Reply it is stated that the amount by which his income was adjusted was $19,731.
+[9] Therefore for each year the adjustments to business income as stated in paragraph 3 of the Reply do not correspond to the amounts that are stated to be in dispute in Schedule “A”.
+[10] The explanation that was provided by counsel for the Respondent was that there was a discrepancy between the amounts that the Appellant had claimed during the audit process and the amounts that had been claimed on the tax return. The following tables summarize for each of 2000, 2001 and 2002 the “Expense” categories as listed in Schedule “A” to the Reply, the amounts “Requested” by the Appellant during the audit as stated in Schedule “A” to the Reply, the amounts “Allowed” following the audit as stated in Schedule “A” to the Reply and the amounts claimed by the Appellant in his tax returns for each of these years:
+2000
+Expenses
+Requested by the Appellant during the audit
+Allowed following the audit
+Claimed by the Appellant in his tax return
+Purchases
+4,662.00
+4396.65
+4,662.00
+Advertising
+667.00
+628.95
+667.00
+Bad debts
+0
+0
+0
+Insurance
+594.00
+594.00
+594.00
+Maintenance & repairs
+0
+0
+0
+Meals & entertainment
+33.50
+0
+33.50
+Motor Vehicle
+8,280.42
+1,524.06
+7,960.46
+Office Expenses
+613.00
+264.90
+613.00
+Supplies
+9.50
+9.50
+9.50
+Legal, accounting
+73.00
+0.00
+73.00
+Rent
+0
+0
+0
+Telephone
+504.00
+0.00
+504.00
+Other
+121.90
+121.90
+121.90
+CCA
+5,152.76
+2,589.06
+536.45
+Business Use of Home
+5,716.48
+8.66
+4,166.98
+(less GST included)
+(105.93)
+26,427.56
+10,031.75
+19,941.79
+2001
+Expenses
+Requested by the Appellant during the audit
+Allowed following the audit
+Claimed by the Appellant in his tax return
+Purchases
+6,226.93
+6,097.28
+4,516.00
+Advertising
+69.00
+69.00
+69.00
+Bad debts
+499.34
+499.34
+0
+Insurance
+2,754.00
+544.00
+2,754.00
+Maintenance & repairs
+963.00
+0
+963.00
+Meals & entertainment
+531.00
+1.45
+531.00
+Motor Vehicle
+6,860.74
+3,009.70
+8,777.13
+Office Expenses
+1,498.00
+229.67
+1,498.00
+Supplies
+17.00
+17.00
+17.00
+Legal, accounting
+605.00
+604.55
+605.00
+Rent
+980.00
+0
+980.00
+Telephone
+614.00
+0.00
+614.00
+Other
+0
+0
+0
+CCA
+2,571.58
+4,237.93
+543.85
+Business Use of Home
+11,767.28
+1,635.33
+5,734.76
+(less GST included)
+(128.29)
+35,956.87
+16,816.96
+27,602.74
+2002
+Expenses
+Requested by the Appellant during the audit
+Allowed following the audit
+Claimed by the Appellant in his tax return
+Purchases
+13,123.45
+7,691.62
+13,123.45
+Advertising
+1,051.00
+1,051.00
+1,051.00
+Bad debts
+376.33
+376.33
+376.33
+Insurance
+1,202.77
+648.00
+1,202.77
+Maintenance & repairs
+760.36
+0
+760.36
+Meals & entertainment
+614.11
+76.11
+614.11
+Motor Vehicle
+5,744.25
+2,965.59
+3,585.36
+Office Expenses
+1,885.68
+123.61
+1,885.68
+Supplies
+0
+0
+0
+Legal, accounting
+1,134.20
+567.10
+1,134.20
+Rent
+0
+0
+0
+Telephone
+707.55
+0.00
+707.55
+Other
+91.05
+91.05
+91.05
+CCA
+1,236.34
+3,290.30
+1,236.34
+Business Use of Home
+12,376.82
+1,725.63
+12,376.82
+(less GST included)
+(191.89)
+40,303.91
+18,414.45
+38,145.02
+[11] For each of the first two years there is still a discrepancy between the amount determined as the difference between the total amount claimed by the Appellant in his tax returns and the total amount allowed and the amount as stated in the Reply as the amount by which his income was increased. For 2000 this amount is as follows:
+Total of the amounts claimed by the Appellant in his tax return:
+$19,941.79
+Total of the amounts allowed by CRA:
+$10,031.75
+Difference:
+$ 9,910.04
+Amount as stated in the Reply as the amount by which the business income was increased:
+$11,381.00
+Unexplained discrepancy:
+$1,470.96
+For 2001 this amount is as follows:
+Total of the amounts claimed by the Appellant in his tax return:
+$27,602.74
+Total of the amounts allowed by CRA:
+$16,816.96
+Difference:
+$10,785.78
+Amount as stated in the Reply as the amount by which the business income was increased:
+$ 9,160.00
+Unexplained discrepancy:
+($1,625.78)
+[12] For 2002 the total amount as claimed by the Appellant in his tax return minus the total amount allowed following the audit does correspond to the adjustment to the business income as stated in the Reply.
+[13] The only explanation that was provided by the Respondent in relation to the additional unexplained discrepancies for 2000 and 2001 was that these amounts related to GST. The appeals officer for the Canada Revenue Agency (“CRA”) stated that the increase in the adjustment to the business income from $9,910.04 to $11,381 for 2000 was for GST that the Appellant had collected. However GST that the Appellant had collected would not be revenue of the Appellant.
+[14] Subsection 221(1) of the Excise Tax Act provides as follows:
+Every person who makes a taxable supply shall, as agent of Her Majesty in Right of Canada, collect the tax under Division II payable by the recipient in respect of supply.
+[15] As well subsection 222(1) of the Excise Tax Act provides as follows:
+Subject to subsection (1.1), every person who collects an amount as or on account of tax under Division II is deemed, for all purposes and despite any security interest in the amount, to hold the amount in trust for Her Majesty in right of Canada, separate and apart from the property of the person and from property held by any secured creditor of the person that, but for a security interest, would be property of the person, until the amount is remitted to the Receiver General or withdrawn under subsection (2).
+[16] As a result it is clear that under the Excise Tax Act any amounts collected as GST are not income of the Appellant as these amounts are collected as agent for Her Majesty in Right of Canada and are to be held in trust for Her Majesty in Right of Canada. Any GST that was collectible by the Appellant would be reported on his GST return, not his income tax return. There was no evidence submitted with respect to whether the Appellant was registered for GST in 2000. His total sales for 2000 were $29,783 which is within the small supplier limit for the purposes of the Excise Tax Act. For the other two years his total sales were in excess of $48,000 for each of these two years.
+[17] As noted above the only assumptions made by the Respondent in the Reply relate to the fact that the Appellant carried on his business as a sole proprietorship and the expenses claimed were personal expenses of the Appellant.
+[18] In Pollock v. The Queen, [1994] 1 C.T.C. 3, 94 DTC 6050, Hugessen J.A., on behalf of the Federal Court of Appeal, made the following comments:
+Where, however, the Minister has pleaded no assumptions, or where some or all of the pleaded assumptions have been successfully rebutted, it remains open to the Minister, as defendant, to establish the correctness of his assessment if he can. In undertaking this task, the Minister bears the ordinary burden of any party to a lawsuit, namely to prove the facts which support his position unless those facts have already been put in evidence by his opponent. This is settled law.
+[19] In Loewen 2004 FCA 146, Sharlow J.A., on behalf of the Federal Court of Appeal, made the following comments:
+11 The constraints on the Minister that apply to the pleading of assumptions do not preclude the Crown from asserting, elsewhere in the reply, factual allegations and legal arguments that are not consistent with the basis of the assessment. If the Crown alleges a fact that is not among the facts assumed by the Minister, the onus of proof lies with the Crown. This is well explained in Schultz v. R. (1995), [1996] 1 F.C. 423, [1996] 2 C.T.C. 127, 95 D.T.C. 5657 (Fed. C.A.) (leave to appeal refused, [1996] S.C.C.A. No. 4 (S.C.C.)).
+(emphasis added)
+[20] Leave to appeal the decision of the Federal Court of Appeal in Loewen to the Supreme Court of Canada was refused (338 N.R. 195 (note)).
+[21] Since no assumptions were made in relation to this “GST adjustment” the onus of proof to establish the facts on which the adjustment is based rested with the Respondent and the Respondent has failed to satisfy this onus of proof.
+[22] Therefore the adjustment for 2000 to increase the business income by the unexplained discrepancy between $9,910.04 and $11,381 is not allowed.
+[23] With respect to 2001, the amount stated in the Reply as the amount in dispute is $9,160. This is a smaller amount than is determined by deducting from the amounts claimed in the Appellant’s tax return, the amounts allowed as noted in Schedule “A” to the Reply. Again, this negative adjustment was not explained adequately by the Respondent. However in this case if the negative adjustment were to be reversed this would increase the amount of taxes that would be owing by the Appellant. As a result this adjustment is not allowed and the amount of business income that is in dispute will be the amount as stated in the Reply or $9,160.
+[24] Justice Hamlyn in the case of Valdis, [2001] 1 C.T.C. 2827, stated the following in paragraph 21:
+21 In Millette c. R., Judge Lamarre Proulx reaffirmed that this Court cannot entertain an appeal that contemplates increasing an Appellant's tax liability. She stated at paragraph 72:
+It is accepted in the case law that this Court cannot increase the amount of the Minister's assessment because that would be tantamount to the Minister appealing the assessment, which he cannot do. The Minister cannot appeal his own assessment: Harris v. M.N.R., 64 DTC 5332, at p. 5337; Shiewitz v. M.N.R., 79 DTC 340, at p. 342; and Abed v. The Queen, 82 DTC 6099, at p. 6103. (emphasis added)
+[25] Therefore since the amount of business income in dispute as stated in the Reply is $9,160 and since the Minister is not permitted to appeal their own assessment, the amount of income will not be increased from the $9,160 as a result of this unexplained adjustment and for the purpose of this appeal the amount in dispute is $9,160 of business income.
+[26] At the commencement of the hearing counsel for the Respondent acknowledged that the Respondent was also agreeing to additional adjustments to the Appellant’s income. These are as follows:
+2000
+- additional motor vehicle expenses allowed: $6,756.00;
+2001
+- additional motor vehicle expenses allowed: $3,851.00;
+- additional meals and entertainment expenses allowed: $ 224.95;
+2002
+- additional motor vehicle expenses allowed: $2,778.66;
+- additional meals and entertainment expenses allowed: $ 487.95.
+[27] The other items of expenses that were dealt with during the hearing are the items as discussed below.
+Purchases
+[28] The only year in which there was a significant difference between the amount requested by the Appellant and the amount allowed for purchases was 2002 in which there was $13,123.45 requested but only $7,691.62 was allowed. The Appellant stated that all of the purchases that he had made were for the purpose of earning income and were related to his business. The Appeals Officer stated that the amounts that had been denied in relation to the purchases were denied for a variety of reasons including a reclassification of some of the items claimed to the other categories, a two-door mahogany cabinet that was classified as office furniture in the amount of $200 and various items identified as personal expenses such as toothpaste, toothbrushes, hand cream, shaving cream, socks, t-shirts, etc.
+[29] Justice Iacobucci of the Supreme Court of Canada in Symes v. R., 1993 CarswellNat 1178, [1994] 1 C.T.C. 40, 94 DTC 6001, 161 N.R. 243, [1993] 4 S.C.R. 695, 19 C.R.R. (2d) 1, 110 D.L.R. (4th) 470 made the following comments in relation to paragraphs 18(1)(a) and 18(1)(h) of the Act:
+52 Even without distinguishing Bowers, supra, in this fashion, however, I believe that I should move beyond paragraph 18(1)(h) of the Act and the traditional classification of child care in the analysis of whether child care expenses are truly personal in nature. The relationship between expenses and income in Bowers, supra, was subsumed in that case, as it was in cases to follow, within an apparent dichotomy. As stated by Professor Arnold, "The Deduction for Child Care Expenses", supra, at page 27:
+The test established by the case for distinguishing between personal and living expenses involved a determination of the origin of the expenses. If the expenses arose out of personal circumstances rather than business circumstances the expense was a non-deductible personal expense
+There are obvious tautologies within this approach. "Personal expenses" are said to arise from "personal circumstances", and "business expenses" are said to arise from "business circumstances". But, how is one to locate a particular expense within the business/personal dichotomy?
+And further:
+76 It may also be relevant to consider whether a particular expense would have been incurred if the taxpayer was not engaged in the pursuit of business income. Professor Brooks comments upon this consideration in the following terms (at page 258)
+If a person would have incurred a particular expense even if he or she had not been working, there is a strong inference that the expense has a personal purpose. For example, it is necessary in order to earn income from a business that a business person be fed, clothed and sheltered. However, since these are expenses that a person would incur even if not working, it can be assumed they are incurred for a personal purpose -- to stay alive, covered, and out of the rain. These expenses do not increase significantly when one undertakes to earn income.
+77 I recognize that in discussing food, clothing and shelter, I am adverting to a "but for" test opposite to the one discussed earlier. Here, the test suggests that "but for the gaining or producing of income, these expenses would still need to be incurred". I must acknowledge that because it is a "but for" test, it can be manipulated. One can argue, for example, that "but for work, the taxpayer would not still require expensive dress clothes". However, in most cases, the manipulation can be easily rejected. Continuing with the same example, one can conclude that the expense of clothing does "not increase significantly" (Brooks, supra, at page 258) in tax terms when one upgrades a wardrobe. Alternatively, one can focus upon the change in clothing as a personal choice. Or, finally, considering that all psychic satisfactions represent a form of consumption within the ideal of a comprehensive tax base, one can focus upon the increased personal satisfaction associated with possessing a fine wardrobe.
+...
+79 Since I have commented upon the underlying concept of the "business need" above, it may also be helpful to discuss the factors relevant to expense classification in need-based terms. In particular, it may be helpful to resort to a "but for" test applied not to the expense but to the need which the expense meets. Would the need exist apart from the business? If a need exists even in the absence of business activity, and irrespective of whether the need was or might have been satisfied by an expenditure to a third party or by the opportunity cost of personal labour, then an expense to meet the need would traditionally be viewed as a personal expense. Expenses which can be identified in this way are expenses which are incurred by a taxpayer in order to relieve the taxpayer from personal duties and to make the taxpayer available to the business. Traditionally, expenses that simply make the taxpayer available to the business are not considered business expenses since the taxpayer is expected to be available to the business as a quid pro quo for business income received. This translates into the fundamental distinction often drawn between the earning or source of income on the one hand, and the receipt or use of income on the other hand.
+[30] Justice Lamarre Proulx in Gaouette v. Her Majesty The Queen, [2004] 2 C.T.C. 2851, stated as follows:
+13 In Rouillard v. Canada, [1999] T.C.J. No. 650, I analyzed the nature of personal expenses. That case involved a service man who had claimed a deduction in respect of the haircuts required by his position. I considered the analysis made by Iacobucci J. in Symes v. Canada, [1993] 4 S.C.R. 695, and held as follows at paragraphs 7 and 8:
+(7) It may be seen from this analysis that the test - any expense that would not be incurred but for the business constitutes a business, not a personal expense - is a test that may be useful but is virtually impossible to apply in view of the variety of choices that individuals may make. I believe that what is stated to be the traditional test is the test which should be adopted because it applies equally to everyone. According to this test, if I interpret it correctly, any expense that must be made by a person in order to report for work will be considered a personal expense. Certain positions require that one be well dressed but each person determines the amount of money that person wishes to invest in clothing. Some positions require a neat personal appearance. Some individuals may be able to provide the kind of care needed to achieve this on their own, while others need the help of persons specializing in the field. Some live far from their place of work, while others live closer but their housing may be more expensive. As Baron Pollock wrote in Bowers v. Harding, (1891) 3 Tax Cas. 22 (Q.B.), in a passage cited in paragraph 6 of these reasons:
+When a man and his wife accept an office there are certain detriments as well as profits, but is in no sense an expenditure which enables them to earn the income in the sense of its being money expended upon goods, or in the payment of clerks, whereby a tradesman or a merchant is enabled to earn an income.... If we were to go into these questions with great nicety we must consider the district in which the person lives, the altitude at which he lives, the price of meat, and the character of the clothing that he would require, in many places indeed the character of the services and the wages paid to particular servants, and the style in which each person lives, before we could come to any conclusion.
+(8) I believe it must be concluded that all expenses incurred in order to report to one's normal place of work for one's usual duties are personal expenses incurred as a quid pro quo for remuneration. In the case of servicemen, their employment agreement requires them to be available for their work activities with regulation haircuts and well-maintained clothing. The salaries they receive are the quid pro quo for this availability to comply with the regulations. Thus, if the income in question were business income, it would appear to be certain that the appellant would not be entitled to the deduction because the expense would be of a personal nature.
+14 For the same reasons, I find that hairdressing, manicure and dry cleaning expenses are personal expenses and, under paragraph 18(1)(h) of the Act, are not deductible.
+[31] It would appear that many of the expenses that have been denied were correctly denied under either paragraph 18(1)(a) or paragraph 18(1)(h) of the Act. The Appellant had referred to other items that had been denied and were not listed in the notes of the auditor. Without the receipt for the particular item or further evidence concerning the item and the amount paid it is impossible to determine the amount that was spent on any of the other individual items or whether the amount spent on such item was a personal expense of the Appellant.
+[32] As well the Appellant testified that it was his understanding that many of the expenses have been denied because the receipts were faded. However in this particular case because the Appellant had claimed various items that were personal in nature and because there were other discrepancies in the amounts as claimed by the Appellant (including claiming insurance twice and claiming an amount significantly in excess of the actual interest expense incurred which were discussed below) I find that the Appellant has not satisfied the onus on him to establish that any adjustments should be made to the purchases. As a result the purchases will remain as allowed by the CRA.
+Insurance
+[33] For 2000 the amount claimed for insurance was the same as the amount that was allowed. However the Appellant in 2001 claimed $2,754 for insurance but only $540 was allowed. The amount claimed included not only liability insurance for operating the business but also the insurance related to his automobile. The Appellant also claimed the insurance for the automobile as part of the motor vehicle expenses and hence the amount claimed for automobile insurance was claimed twice. Therefore no adjustment will be made to the insurance for 2001.
+[34] In 2002 the discrepancy between the insurance claimed and the amount allowed related to life insurance that the Appellant had purchased. The Appellant has a daughter from a previous marriage and in the course of the divorce proceedings the lawyer for the Appellant’s former spouse had insisted that the Appellant obtain life insurance. The life insurance was not acquired for the purpose of gaining or producing income from the business but is related to the personal obligations of the Appellant and hence the amount paid for life insurance is not a deductible expense. As a result no adjustment is made to the amount for the insurance for 2002.
+Maintenance and Repairs
+[35] In 2000 no amount was claimed by the Appellant for maintenance and repairs. In 2001, $963 was claimed and in 2002, $760.36 was claimed. Neither amount was allowed. The Appellant explained the maintenance and repairs item as an amount that probably related to the condominium and that the amount claimed probably related to the amount that the Appellant had to spend in relation to water damage that was done to the condominium. However there is no evidence with respect to the actual amount that the Appellant incurred and in relation to these items I find that the Appellant has failed to satisfy the onus of proof that was on him to establish on the balance of probabilities that these amounts were incurred for the purpose of earning income. As well no explanation was provided as to why amounts would have been incurred in two different years assuming that the damage only incurred in one.
+Meals and Entertainment
+[36] As a result of the concessions made by counsel for the Respondent at the beginning of the hearing most of the meals and entertainment expenses have been allowed. However the portion that has not been allowed related to individual claims for coffee that the Appellant would purchase on his way to the job site. These would be personal expenses as they would be incurred in order for the Appellant to report to work.
+Office Expenses
+[37] For each year the amount claimed for office expenses exceeded the amount allowed. The Appellant’s submissions on the office expenses were only general submissions. The reduction in the amount for office expenses related to a lack of receipts that totalled the amount claimed and items that were reallocated to the business use of the home. As noted above, without any further evidence from the Appellant, the Appellant has failed to satisfy the onus of proof that is on him to establish that any adjustment should be made to the amounts allowed for office supplies.
+Legal Accounting and Other Professional Fees
+[38] The dispute in relation to the accounting fees related to the amount incurred in 2002. The Appellant claimed $1,134.20 and the amount that was allowed was one-half of this amount or $567.10. The invoice from the accountants showed a total charge of $1,134.20, including GST. The amount before GST was $1,060. The items listed included “critique of bookkeeping matters and result in reporting of findings to client” and various other items related to the preparation of the tax returns for both the Appellant and his common-law partner. The invoice also referred to “various meetings and discussions regarding RRIF and RRSP matters”.
+[39] The Appellant testified that only a small portion of the time would have been related to the RRIF and RRSP matters and the bill was reduced by $150 so that the invoiced fee did not include the preparation of the tax return for his common-law partner. As a result the Appellant testified that the full amount of $1,060 (before GST) related to the accounting work for the business. The burden of proof which is on the Appellant and on the balance of probabilities I find that the amount that should have been allowed as a business expense for accounting fees for 2002 should have been 90% of the $1,060.
+Telephone Expenses
+[40] No amount was allowed by CRA in relation to the telephone expense that was claimed by the Appellant. The Appellant testified that he used the telephone only for business purposes. However he also testified that he used the telephone to call his daughter who was not living with him. His daughter was born in 1986 and therefore during the years under appeal she would have been four to six years of age. Therefore it is clear that the telephone was used, at least in part, for personal expenses. The Appellant testified that he had two telephone lines during the years under appeal. One was used as a fax line and the other was used for making telephone calls. The Appellant also testified that he did not have a cell phone and therefore the only telephone that he had to contact customers or potential customers was the telephone line in the condominium. As a result I find that the Appellant should have been entitled to a business expense for the use of the telephone and, in this particular case, I will allow 90% of the amount claimed for the telephone for each year. The adjustments for the telephone expense will be as follows:
+2000
+2001
+2002
+Amount claimed:
+$504.00
+$614.00
+$707.55
+90% of the Amount claimed:
+$453.60
+$552.60
+$636.80
+Capital Cost Allowance
+[41] In 2000 more was claimed for capital cost allowance than was allowed as a result of the audit. However in 2001 and 2002 more was allowed for capital cost allowance than was actually claimed by the Appellant. The Appellant has not satisfied the onus on him of establishing whether any adjustment should be made to the amount allowed for capital cost allowance. The Appellant had raised issues with respect to the amount that he spent for a ladder, a light fixture and computer software. It was noted by counsel for the Respondent and by the witness for the Respondent that capital cost allowance had been allowed for the ladder and the light fixture. The only item for which no capital cost allowance was permitted was the computer software. This related to $700 that was spent by the Appellant to acquire computer software that was on a laptop that his common-law partner acquired when her employment with Fidelity Investments was terminated. However there is no indication with respect to the allocation of that $700 between the operating system software and the application software. This allocation would have to be made in order to determine whether or not the amount spent for the software would be under Class 12 under Schedule II of the Income Tax Regulations (“Regulations”) or some other class. Class 12 of Schedule II to the Regulations provides in part as follows:
+Property not included in any other class that is ...
+(o) computer software acquired after May 25, 1976, but not including systems software ...
+[42] Therefore that part of the $700 that was paid for systems software would not be included in Class 12. That part of the $700 that was paid for applications software would be included in Class 12. Since there was no evidence with respect to the allocation of the amount spent on software between systems software and applications software, no amount can be allowed for the computer software for any of the years under appeal. Once the allocation has been determined, the Appellant can add the appropriate amount to the proper classes under Schedule II to the Income Tax Regulations.
+Business Use of Home
+[43] Counsel for the Respondent acknowledged that the Respondent was agreeing that the Appellant’s home was the principal place of business of the Appellant. The only issue that counsel for the Respondent raised in relation to this matter was whether the percentage allocation proposed by the Appellant was appropriate. Based on the summary prepared by the auditor which was introduced as an exhibit, the Appellant was proposing that 56% of the expenses related to his home were business expenses while the position of the Respondent was that this amount should only be 10%.
+[44] The Appellant rented an apartment in 2000 and later in 2000 acquired a condominium. The condominium in question is a two-bedroom condominium occupied by both the Appellant and his common-law partner. There were, including the bathroom, a total of five rooms in the condominium. The Appellant did not produce any sketch or outline showing the layout of the condominium nor did the Appellant introduce into evidence his calculations concerning the business use. The Appellant stated that the same percentage use would apply to the apartment.
+[45] Counsel for the Respondent conceded that the amount used by the CRA was simply a guess and the CRA had not done their own calculations of the amount nor had anyone from the CRA viewed the premises of the Appellant. The Appellant testified that he used one of the bedrooms as his office and did all of the paperwork for the business from that office. He also indicated that he would contact potential clients from the home and that he would store various tools at the home and had also acquired a garden shed for the balcony to be used to store various items. It seems to me, however, that 56%, in the absence of any more evidence concerning the use or an outline or sketch, to be too high an amount to be allowed for business use of the home. It also seems to me that 10% is too low an amount. As a result I will allow 33% of the expenses related to the home to be deducted as business expenses.
+[46] However in relation to this there is another matter related to the interest on the mortgage on the condominium. The Appellant claimed that in 2002 the total interest on the mortgage was $13,369.81. However according to the mortgage statement which was introduced in evidence the actual amount of interest incurred in 2002 was only $5,195.27. Therefore the expenses related to the condominium for 2002 shall be reduced by this amount by which the interest expense was over-stated.
+[47] As a result the following is a summary of the adjustments to be made in relation to the business use of the home:
+2000
+2001
+2002
+Total Expenses (as claimed by the Appellant):
+$10,208.00
+$21,208.20
+$22,101.46
+Adjustment for interest that was overstated:
+($8,174.54)
+Revised Total expenses:
+$10,208.00
+$21,208.20
+$13,926.92
+Personal portion (67%):
+$6,839.36
+$14,209.49
+$9,331.04
+Net amount for the business use:
+$3,368.64
+$6,998.71
+$4,595.88
+Amount allowed by CRA:
+$8.66
+$1,635.33
+$1,725.63
+Adjustment to be made:
+$3,359.98
+$5,363.38
+$2,870.25
+Conclusion
+[48] As a result of the foregoing, the appeals in relation to the reassessments in relation to the 2000, 2001 and 2002 are allowed and the following adjustments are to be made to the additional business income that was added to the Appellant’s income for each of these years:
+2000
+Amount as stated in the Reply as the amount by which the business income was increased:
+$11,381.00
+Unexplained discrepancy:
+($1,470.96)
+Additional motor vehicle expenses allowed:
+($6,756.00)
+Additional telephone expenses allowed:
+($453.60)
+Additional business use of home expenses allowed:
+($3,359.98)
+Revised adjustments to the income as reported by the Appellant:
+($659.54)
+2001
+Amount as stated in the Reply as the amount by which the business income was increased:
+$ 9,160.00
+Additional motor vehicle expenses allowed:
+($3,851.00)
+Additional meals & entertainment expenses allowed
+($224.95)
+Additional telephone expenses allowed:
+($552.60)
+Additional business use of home expenses allowed:
+($5,363.38)
+Revised adjustment to the income as reported by the Appellant:
+($831.93)
+2002
+Amount as stated in the Reply as the amount by which the business income was increased:
+$19,731.00
+Additional motor vehicle expenses allowed:
+($2,778.66)
+Additional meals & entertainment allowed
+($487.95)
+Additional Legal and Accounting expenses allowed (90% x $1,060 - $567.10):
+($386.90)
+Additional telephone expenses allowed:
+($636.80)
+Additional business use of home expenses allowed:
+($2,870.25)
+Revised adjustment to the income reported by the Appellant:
+$12,570.44
+[49] For two of the three years the adjustments made herein will reduce the income below the amount that was originally reported by the taxpayer in his tax return. While as noted above, this Court cannot increase the amount of the Minister’s assessment, there is no prohibition on this Court reducing the income of the Appellant to an amount that is below the amount as originally reported by the Appellant. It is the assessment of tax that is appealed to this Court pursuant to subsection 169(1) of the Act. Subsection 171(1) of the Act provides that this Court may allow an appeal and vary an assessment or refer the assessment back to the Minister for reconsideration and reassessment. There is no limitation placed upon the result of that variance or the result that would arise from referring the matter of the assessment back to the Minister for reconsideration and reassessment.
+[50] In Anchor Pointe Energy Ltd. v. R., 2007 FCA 188, Létourneau J.A. noted the following:
+32... while it is true that assessment, reassessment and confirmation refer to three specific actions by the Minister under the Act in the process of determining the tax liability of a taxpayer, the word “assessment” also refers to the product of that process. Hugessen J.A. nicely described the two meanings of the word in Canada v. Consumers’ Gas Co. [1987] 2 F.C. 60 (F.C.A.). At page 67 he wrote:
+What is put in issue on an appeal to the courts under the Income Tax Act is the Minister’s assessment. While the word “assessment” can bear two constructions, as being either the process by which tax is assessed or the product of that assessment, it seems to me clear, from a reading of sections 152 to 177 of the Income Tax Act, that the word is there employed in the second sense only. This conclusion flows in particular from subsection 165(1) and from the well established principle that a taxpayer can neither object to nor appeal from a nil assessment.
+33 I agree with the motions judge that the appeal is not from the confirmation of the assessment. The appeal is, to use the words of Hugessen J.A., from the product of the assessment: see also Parsons v. M.N.R., supra, at page 814 where Cattanach J. held that the “assessment by the Minister, which fixes the quantum and tax liability, is that which is the subject of the appeal”. That product refers to the amount of the tax owing as initially assessed or determined, and subsequently confirmed. From the perspective of the process itself, the assessment pursuant to sections 152 to 165 is not completed by the Minister until, within the time allotted by the Act, the amount of the tax owing is finally determined, whether by way of reconsideration, variation, vacation or confirmation of the initial assessment:
+[51] Since it was confirmed in this appeal that the total amounts that were being taken into consideration by the Minister were all the amounts claimed by the Appellant whether claimed in the tax return or claimed during the audit process, the final product of that “assessment” was the confirmation by the Minister of the amounts as assessed after reviewing all of the amounts requested by the Appellant. However since all of the amounts as requested were put in issue before this Court if the result, as it was in this case, is a finding that the Appellant is entitled to claim additional expenses such that the amount of his income for two of the years is reduced to an amount that is less than the amount that was reported in his tax returns for those years, then that is simply the result of this appeal process and the Appellant should be reassessed for 2000 and 2001 for an amount that is less than the amount as originally reported.
+[52] As a result the appeal is allowed in relation to the matters as noted above, without costs.
+Signed at Halifax, Nova Scotia, this 7th day of September 2007.
+"Wyman W. Webb"
+Webb J.
+CITATION: 2007TCC532
+COURT FILE NO.: 2006-3275(IT)I
+STYLE OF CAUSE: FREDERICK M. CROSS AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: August 15, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: September 7, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Kandia Aird
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

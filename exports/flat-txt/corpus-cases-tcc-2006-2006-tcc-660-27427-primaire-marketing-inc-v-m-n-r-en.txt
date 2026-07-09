@@ -1,0 +1,204 @@
+Title: Primaire Marketing Inc. v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27427/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-660-27427-primaire-marketing-inc-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2006-02-28
+
+# Primaire Marketing Inc. v. M.N.R.
+
+- Citation: 2006 TCC 660
+- Decision date: 2006-02-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 249, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Primaire Marketing Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-02-28
+Neutral citation
+2006 TCC 660
+File numbers
+2006-379(EI)
+Judges and Taxing Officers
+Sylvio J. Savoie
+Subjects
+Employment Insurance Act
+Old Age Security Act
+Decision Content
+Docket: 2006-379(EI)
+BETWEEN:
+PRIMAIRE MARKETING INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+SONA KAMAR,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on September 18, 2006, at Montréal, Quebec
+Before: The Honourable Deputy Judge S.J. Savoie
+Appearances:
+Agent for the Appellant:
+Dani Karam
+Counsel for the Respondent:
+Anne Poirier
+For the Intervener:
+No one appeared
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the Minister's decision is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Grand-Barachois, New Brunswick, this 14th day of December 2006.
+"S.J. Savoie"
+Savoie D.J.
+Translation certified true
+on this 25th day of July 2007.
+Brian McCordick, Translator
+Citation: 2006TCC660
+Date: 20061214
+Docket: 2006-379(EI)
+BETWEEN:
+PRIMAIRE MARKETING INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+SONA KAMAR,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Savoie D.J.
+[1] This is an appeal from the decision of the Minister of National Revenue ("the Minister"), dated December 12, 2005, that the worker Jean Fares was employed in insurable employment while working for the Appellant from January 1 to December 31, 2004, the period in issue.
+[2] In making his decision, the Minister relied on the following assumptions of fact:
+[translation]
+(a) The Appellant incorporated on September 13, 1999. (admitted)
+(b) Mr. Dani Karam was the Appellant's sole shareholder. (admitted)
+(c) The Appellant operates a service business that promotes credit cards for the benefit of its clients. (admitted)
+(d) The business acts as an intermediary with its clients in order to sign up new customers for their credit cards. (admitted)
+(e) The Appellant's main clients were the Hudson's Bay Company (HBC), Zellers and Canadian Tire. (admitted)
+(f) In 2003, the Appellant's revenues were approximately $122,000 (admitted)
+(g) Before hiring workers (representatives), Mr. Karam met his client in order to determine the sign-up objectives as well as the period and locations of the work. (admitted with additional details)
+(h) The workers who were contacted had the right to accept or refuse the Appellant's offer of work. If they refused too often, the Appellant could stop contacting them. (denied)
+(i) If the workers accepted the offer, they had to follow the Appellant's client's directives regarding clothing, appearance, place of work, work schedule, etc. (no knowledge)
+(j) The Appellant contacted the workers by telephone to notify them of the promotion, the place of work and the client's contact person. (admitted)
+(k) The workers' main duty was to fill out the credit card applications. It was not their job to approve credit. (admitted)
+(l) Initially, the workers sometimes received training from the Appellant to learn how to fill out the credit card applications properly. (admitted)
+(m) The workers did not have to follow a fixed work schedule; rather, they chose their schedule based on the business hours of the retailers who were the Appellant's clients. (admitted)
+(n) The Appellant did not obtain insurance coverage for the workers' civil liability or work accidents because the client (the retailer) was generally the one who took that responsibility. (admitted)
+(o) The workers had to prepare a report at the end of each work day setting out the number of applications completed and the number of hours worked. (denied)
+(p) The report was submitted to the Appellant's client with the completed forms at the end of each work day. (admitted)
+(q) The Appellant assumed the costs of renting the workers' place of work. (denied)
+(r) Mr. Karam occasionally went to the workers' workplaces to check on their performance. (denied)
+(s) If a worker had to be absent, he or she had to notify the Appellant one day in advance. (denied)
+(t) The application forms and pens were supplied by the Appellant's clients; the workers did not have to supply work instruments. (admitted)
+(u) Except for their clothing and travel, the workers did not have to incur expenses to perform their work. (admitted)
+(v) When credit-card applicants were given promotional gifts, those gifts were supplied by the Appellant's clients. (admitted)
+(w) If complaints were made against workers, they were referred to the Appellant by its client. (denied)
+(x) The workers were paid by the piece based on the number of application forms filled out. (admitted)
+(y) The workers received $9.00 for each completed form that was not rejected if they were incorporated, and $7.00 for each such form if they were not. (denied)
+(z) The Appellant received $9.50 for each completed form that was not rejected. (denied)
+(aa) Mr. Jean Fares told the appeals officer that he received $5.00 to $6.00 for each form that was completed. (no knowledge)
+(bb) Mr. Fares did not contest the decision of the Canada Revenue Agency, dated January 7, 2005, to the effect that he was employed by the Appellant in insurable employment in 2004. (no knowledge)
+[3] It has been established that Promotions Bibeau, hereinafter "Bibeau", is a corporation related to the Appellant. Dani Karam was hired by Bibeau to recruit people to promote its clients' credit cards and to sign up new members. The workers hired by Bibeau carried out their duties in its clients' stores.
+[4] In his testimony at the hearing, Mr. Karam admitted that he went to the workplaces, but he said that he did not do this in order to check on the workers' performance, but rather, to say hello to them, because they were his friends.
+[5] Mr. Karam was the supervisor at Bibeau. He said that the workers are not subject to a production quota, but that if their production is not high enough, he wants to know this, and asks them [TRANSLATION] "Do you want to continue getting work for the client?"
+[6] Mr. Karam is salaried. All the workers ended up working for Bibeau. According to the evidence, everyone wanted to be a salaried employee. However, the Appellant's position is that the workers who worked for it were self‑employed. What must be pointed out is that both employers' terms and conditions of employment were the same. The workers got the same pay and supervision and were subject to the same control. It is true that, once the workers received their basic training, the control was minimal because of the simplicity of the tasks to be performed.
+[7] The objective of the evidence adduced by the Appellant is to show that the terms and conditions of its workers' jobs do not support a finding that they were governed by a contract of employment. However, the evidence obtained shows that they did their jobs as employees for one of the two companies. Given this context, it appears to me that the use of Promotions Bibeau is simply a sham.
+[8] It has been shown on a balance of probabilities that the workers received two weeks of training from the Appellant. They were shown how to do the promotion work by means of an introduction to the use of the forms which they filled out using the information obtained from the people they solicited. The Appellant also taught the workers how to prepare their weekly reports. In addition, if a worker's production was too low, the Appellant's client could assign him someone to improve it. Mr. Karam testified that if a worker's production was low, he proposed providing an assistant to help the worker.
+[9] As far as the place of work was concerned, the Appellant allowed the workers to choose which store they worked in. This was often the store closest to where they lived. The workers were paid by the piece at the rate fixed by the Appellant; that rate was not negotiable.
+[10] At the hearing, the worker Jean Fares said that the Appellant could assign him to another workplace, that is to say, another store. He added that there was no supervision at his workplace, but that Mr. Karam sometimes made surprise visits to check whether a worker was at his post. Diane Harvey, another worker, said at the hearing that Mr. Karam had the habit of calling her when she was absent and telling her that he ought to replace her. The evidence disclosed that the workers who were having trouble consulted the Appellant.
+[11] The issue in the instant case is whether the worker held insurable employment for the purposes of the Employment Insurance Act (the "Act"). The relevant provision is paragraph 5(1)(a) of the Act, which states as follows:
+5. (1) Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+[Emphasis added.]
+The section quoted above defines the term "insurable employment". The term means employment under a contract of service, i.e. a contract of employment. However, the Act does not define what constitutes such a contract.
+[12] A contract of service is a civil law concept found in the Civil Code of Québec. The nature of the contract in issue must therefore be ascertained by reference to the relevant provisions of the Code.
+[13] In a publication entitled [TRANSLATION] "Contract of Employment: Why Wiebe Door Services Ltd. Does Not Apply in Quebec and What Should Replace It", published in the fourth quarter of 2005 by the Association de planification fiscale et financière (APFF) and the Department of Justice Canada in the Second Collection of Studies in Tax Law as part of a series called The Harmonization of Federal Legislation with Quebec Civil Law and Canadian Bijuralism, Justice Pierre Archambault of this Court, referring to all periods subsequent to May 30, 2001, describes the steps that courts must go through, since the coming into force on June 1, 2001, of section 8.1 of the Interpretation Act, R.S.C. 1985, c. I-21, as amended, when confronted with a dispute such as the one before us. Here is what Parliament declared in this provision:
+Property and civil rights
+8.1 Both the common law and the civil law are equally authoritative and recognized sources of the law of property and civil rights in Canada and, unless otherwise provided by law, if in interpreting an enactment it is necessary to refer to a province’s rules, principles or concepts forming part of the law of property and civil rights, reference must be made to the rules, principles and concepts in force in the province at the time the enactment is being applied.
+[Emphasis added.]
+[14] It is useful to reproduce the relevant provisions of the Civil Code, which will serve to determine whether an employment contract, as distinguished from a contract of enterprise, exists:
+Contract of employment
+2085. A contract of employment is a contract by which a person, the employee, undertakes for a limited period to do work for remuneration, according to the instructions and under the direction or control of another person, the employer.
+2086. A contract of employment is for a fixed term or an indeterminate term.
+. . .
+Contract of enterprise or for services
+2098. A contract of enterprise or for services is a contract by which a person, the contractor or the provider of services, as the case may be, undertakes to carry out physical or intellectual work for another person, the client or to provide a service, for a price which the client binds himself to pay.
+2099. The contractor or the provider of services is free to choose the means of performing the contract and no relationship of subordination exists between the contractor or the provider of services and the client in respect of such performance.
+[Emphasis added.]
+[15] The provisions of the Civil Code of Québec reproduced above establish three essential conditions for the existence of an employment contract:
+(1) the worker's prestation in the form of work; (2) remuneration by the employer for this work; and (3) a relationship of subordination. The significant distinction between a contract for service and a contract of employment is the existence of a relationship of subordination, meaning the employer has the power of direction or control over the worker.
+[16] Legal scholars have reflected on the concept of "power of direction or control" and, from the reverse perspective, a relationship of subordination. Here is what Robert P. Gagnon wrote in Le droit du travail du Québec, 5th ed. (Cowansville, Qc.: Yvon Blais, 2003):
+(c) Subordination
+90 – A distinguishing factor – The most significant characteristic of an employment contract is the employee's subordination to the person for whom he or she works. This is the element that distinguishes a contract of employment from other onerous contracts in which work is performed for the benefit of another for a price, e.g. a contract of enterprise or for services governed by articles 2098 et seq. C.C.Q. Thus, while article 2099 C.C.Q provides that the contractor or provider of services remains "free to choose the means of performing the contract" and that "no relationship of subordination exists between the contractor or the provider of services and the client in respect of such performance," it is a characteristic of an employment contract, subject to its terms, that the employee personally perform the agreed upon work under the direction of the employer and within the framework established by the employer.
+. . .
+92 – Concept – Historically, the civil law initially developed a "strict" or "classical" concept of legal subordination that was used for the purpose of applying the principle that a master is civilly liable for damage caused by his servant in the performance of his duties (article 1054 C.C.L.C.; article 1463 C.C.Q.). This classical legal subordination was characterized by the employer's direct control over the employee's performance of the work, in terms of the work and the way it was performed. This concept was gradually relaxed, giving rise to the concept of legal subordination in the broad sense. The reason for this is that the diversification and specialization of occupations and work methods often made it unrealistic for an employer to be able to dictate or even directly supervise the performance of the work. Consequently, subordination came to include the ability of the person who became recognized as the employer to determine the work to be performed, and to control and monitor the performance. Viewed from the reverse perspective, an employee is a person who agrees to integrate into the operational structure of a business so that the business can benefit from the employee's work. In practice, one looks for a certain number of indicia of the ability to control (and these indicia can vary depending on the context): mandatory presence at a workplace; a somewhat regular assignment of work; the imposition of rules of conduct or behaviour; an obligation to provide activity reports; control over the quantity or quality of the services, etc. The fact that a person works at home does not mean that he or she cannot be integrated into a business in this way.
+[Emphasis added.]
+[17] It must be specified that what characterizes a contract of employment is not the fact that the employer actually exercised direction or control, but the fact that the employer had the power to do so. In Gallant v. M.N.R., A‑1421‑84, May 22, 1986, [1986] F.C.J. No. 330 (Q.L.), Pratte J. of the Federal Court of Appeal stated:
+. . . The distinguishing feature of a contract of service is not the control actually exercised by the employer over his employee but the power the employer has to control the way the employee performs his duties. . . .
+[18] This Court's task, as it determines the type of contract under Quebec law, which applies to the parties, is to consider and follow the approach adopted by Justice Archambault of this Court in the above cited publication, whose theme he referred to in Vaillancourt v. Minister of National Revenue), No. 2003‑4188, June 27, 2005, 2005 TCC 328, [2005] T.C.J. No. 685, where he wrote as follows:
+15 In my opinion, the rules governing the contract of employment in Quebec law are not identical to those in common law and as a result, it is not appropriate to apply common law decisions such as Wiebe Door Services Ltd. v. M.N.R., [1986] 3 F.C. 553 (F.C.A.) and 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] 2 S.C.R. 983, 2001 SCC 59. In Quebec, a court has no other choice but to decide whether a relationship of subordination exists or not to decide whether a contract is a contract of employment or a contract for service.
+[19] The clients who benefited from the workers' services were clients of the Appellant's or Bibeau's; it does not matter which, because they are both essentially the same. The Appellant provided the few instruments or tools that the workers required.
+[20] It was shown that the workers were subject to the Appellant's control. The evidence discloses that the workers' work did not require constant supervision because, once the basic training was given, the work could be done without supervision. However, the Appellant had the power to control and exercised it as needed to ensure that the workers were diligent, that the production was of sufficient quality and quantity, and that the appropriate work method was used. To this end, the Appellant provided training to its workers.
+[21] The worker is integrated into the Appellant's business. The evidence clearly showed that the worker was not an independent contractor. In addition, he incurred no expenses in the performance of his duties and used the tools supplied by the Appellant. Moreover, there was no risk of loss or chance of profit in the performance of his duties. It must be concluded that these are all characteristics of a contract of employment, and not criteria pointing to the existence of a contract of enterprise.
+[22] This Court has considered problems similar to the one in the case at bar in several decisions, including the following:
+1. 9049-9955 Québec Inc., Appellant, v. Minister of National Revenue, Respondent, No. 98-1091(UI), March 13, 2000, [2000] T.C.J. No. 129;
+2. Promotions G. Bibeau Inc., Appellant, v. Minister of National Revenue, Respondent, and Serge Laverdière, Intervener, No. 2002-4709(EI), June 25, 2003, [2003] T.C.J. No. 367;
+3. Promotions DND Inc., Appellant, v. Minister of National Revenue, Respondent, No. 2000-3393(EI), July 18, 2001, [2001] T.C.J. No. 480;
+4. 3234339 Canada Inc. (Crédico Marketing Inc.), Appellant, v. Minister of National Revenue, Respondent, No. 2004-4725(EI), September 15, 2005, [2005] T.C.J. No. 433.
+[23] To illustrate how the facts of the instant case resemble the facts of the cases cited above, here are the assumptions of fact on which the Minister relied in making his decision in Les Promotions G. Bibeau Inc. v. Minister of National Revenue, supra:
+(a) The appellant, which was incorporated in 1986, promotes credit cards in shopping centres and at fairs, shows and festivals. (admitted)
+(b) The appellant operates its business year-round in the province of Quebec and occasionally in the Maritime provinces. (denied)
+(c) The appellant hires persons it considers as subcontractors or independent workers to sell credit card sales. (admitted)
+(d) During the period in issue, the worker worked for the appellant to promote the credit cards of banks and major stores. (admitted)
+(e) The appellant provided the worker with all the equipment necessary for his work: the booth, promotional gifts, application forms and report forms. (denied)
+(f) A supervisor of the appellant communicated with the worker to inform him of the places where he was to work and of his work schedule. (denied)
+(g) The worker had to follow his work schedule. (denied)
+(h) The supervisor telephoned the worker at the end of each working day to obtain the number of completed applications and a summary of the day's activities. (denied)
+(i) The supervisor went to the worker's booth once or twice a week to complete the inventories of bonuses awarded to clients and the inventories of forms necessary for the work. (denied)
+(j) The worker had to prepare a weekly report of his activities and return it to the appellant. (denied)
+(k) The worker received $4 per completed application form. (admitted)
+(l) The worker was paid every week by cheque or direct deposit. (denied)
+[24] It should be specified that in each of these decisions, this Court held that the workers were governed by a contract of employment. It should also be specified that the judgment of this Court in 3234339 Canada Inc. (Crédico Marketing Inc.), which was appealed, was recently affirmed by the Federal Court of Appeal. Similarly, in 9041-6868 Québec Inc. v. Minister of National Revenue, 2005 FCA 334, [2005] F.C.A. No. 1720, the Federal Court of Appeal affirmed this Court's judgment that the workers were employed in insurable employment in a context similar to that of the instant case.
+[25] In analyzing this matter, it is appropriate to consider the comments made by Lamarre Proulx J. of this Court in 3234339 Canada Inc. (Crédico Marketing Inc.) v. Canada, supra, where she wrote as follows:
+66 As workers in Marathon Electric (supra), as mentioned in the last paragraph of the ruling by our Court, I do not find here any characteristic of a commercial enterprise on the workers' part. There is no argument respecting consideration for services. The workers do not seek out clients. Remuneration is paid per individual unit and set by the Appellant. It is the same for all who are accepted as representatives. The clients are the Appellant's clients. I do not believe that the evidence has shown that the Appellant allowed the representatives to work for competitors at the same time. In any case, in the facts, a representative becomes attached to his or her group and performs the work that is asked of him or her. The representative behaves as an employee, diligently and taking initiative, yet an employee all the same.
+67 We must also consider that the representatives are an essential, primary component of the Appellant's business and source of profit.
+. . .
+70 In the words of Décary, J. in Productions Petit Bonhomme Inc. (supra), I am of the opinion that the work relations in this case present a degree of the continuity, loyalty, security, subordination and integration generally associated with a contract of employment.
+[26] For all these reasons, the appeal is dismissed and the Minister's decision is confirmed.
+Signed at Grand-Barachois, New Brunswick, this 14th day of December 2006.
+"S.J. Savoie"
+Savoie D.J.
+Translation certified true
+on this 25th day of July 2007.
+Brian McCordick, Translator
+CITATION: 2006TCC660
+COURT FILE NO.: 2006-379(EI)
+STYLE OF CAUSE: PRIMAIRE MARKETING INC. AND M.N.R. AND SONA KAMAR
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: September 18, 2006
+REASONS FOR JUDGMENT BY: The Honourable Deputy Judge S.J. Savoie
+DATE OF JUDGMENT: December 14, 2006
+APPEARANCES:
+Agent of the Appellant:
+Dani Karam
+Counsel for the Respondent:
+Anne Poirier
+For the Intervener:
+No one appeared
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+For the Intervener:

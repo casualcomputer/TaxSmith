@@ -1,0 +1,125 @@
+Title: Ross  c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/169120/index.do
+Corpus path: corpus/cases/tcc/2016/2016-cci-170-169120-ross-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2016-07-27
+
+# Ross  c. La Reine
+
+- Citation: 2016 CCI 170
+- Decision date: 2016-07-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2931, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ross c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-07-27
+Référence neutre
+2016 CCI 170
+Numéro de dossier
+2016-531(IT)I
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-531(IT)I
+ENTRE :
+SHELLEY ROSS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE]
+Appel entendu le 7 juillet 2016, à Halifax (Nouvelle-Écosse)
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Représentant de l’appelante :
+David Ross
+Avocate de l’intimée :
+Zeina El-Khoury, stagiaire en droit
+Me Stan W. McDonald
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2013 de l’appelante est rejeté.
+Signé à Halifax (Nouvelle-Écosse), ce 27e jour de juillet 2016.
+« V.A. Miller »
+La juge V.A. Miller
+Référence : 2016 CCI 170
+Date : 20160727
+Dossier : 2016-531(IT)I
+ENTRE :
+SHELLEY ROSS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE]
+MOTIFS DU JUGEMENT
+La juge V.A. Miller
+[1] La question en litige soulevée dans le présent appel consiste à déterminer si, en 2013, l’appelante avait le droit de déduire la somme de 4 989,73 $ en vertu de l’alinéa 8(1)b) de la Loi de l’impôt sur le revenu. Les sommes déclarées étaient les suivants :
+Examens de la jurisprudence
+437,00 $
+Frais de déplacement pour les examens de la jurisprudence
+1 407,00
+Analyses d’urine
+393,50
+Frais juridiques
+2 752,23
+Total
+4 989,73 $
+Les faits [2] L’appelante est pharmacienne depuis 1990. De 1990 à 2013, elle a été employée dans diverses pharmacies de Sydney (Nouvelle-Écosse). En 2013, trois plaintes de manquement professionnel ont été portées contre elle en vertu de la Pharmacy Act (Loi sur la pharmacie) néo-écossaise. Le Nova Scotia College of Pharmacists (Ordre des pharmaciens de la Nouvelle-Écosse) a tenu une audience disciplinaire à l’égard des plaintes et a conclu qu’il convenait, pour régler les plaintes, d’opérer un règlement amiable avec l’appelante.
+[3] Conformément au règlement amiable, le permis d’exercice de l’appelante en Nouvelle-Écosse a été suspendu du 21 août 2013 au 21 février 2014. L’appelante devait satisfaire à diverses conditions, notamment s’inscrire à un cours sur l’éthique à l’Université Mount Saint Vincent, à Halifax (Nouvelle-Écosse), et réussir ce cours.
+[4] La somme de 4 989,73 $ déclarée par l’appelante en 2013 a été engagée à l’égard de sa représentation juridique à l’audience disciplinaire et des conditions de l’entente qu’elle devait respecter.
+Le droit [5] L’alinéa 8(1)b) prescrit ce qui suit :
+8(1) Sont déductibles dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi ceux des éléments suivants qui se rapportent entièrement à cette source de revenus, ou la partie des éléments suivants qu’il est raisonnable de considérer comme s’y rapportant :
+Frais judiciaires d’un employé
+b) les sommes payées par le contribuable au cours de l’année au titre des frais judiciaires ou extrajudiciaires qu’il a engagés pour recouvrer un montant qui lui est dû et qui, s’il le recevait, serait à inclure en vertu de la présente sous-section dans le calcul de son revenu, ou pour établir un droit à un tel montant;
+Les thèses des parties [6] L’appelante a soutenu que tous les frais qu’elle a déclarés étaient des frais juridiques, car ils ont été engagés à la suite des plaintes formulées en vertu de la Pharmacy Act
+[7] Son représentant a fait valoir que les frais étaient déductibles puisque l’appelante n’aurait pu exercer la profession de pharmacienne si elle n’avait pas payé ces montants. Il a affirmé que les frais avaient été engagés afin de préserver la capacité de l’appelante à gagner un revenu. Il y avait un lien direct entre les frais déclarés et le revenu gagné par l’appelante.
+[8] L’intimée est d’avis que l’alinéa 8(1)b) ne permet pas à un contribuable de déclarer des frais judiciaires engagés afin de préserver sa capacité de gagner un revenu.
+Analyse [9] Les frais engagés par l’appelante n’étaient pas tous des frais judiciaires. Seul le montant de 2 752,23 $, payé par l’appelante pour se défendre contre les plaintes déposées auprès du Nova Scotia College of Pharmacists, constituait des frais juridiques. Quoi qu’il en soit, j’ai conclu qu’aucune des sommes déclarées par l’appelante n’était déductible conformément à l’alinéa 8(1)b) de la Loi.
+[10] L’alinéa 8(1)b) a une portée limitée. Il s’applique lorsqu’un employé a engagé des frais judiciaires pour tenter de recouvrer un salaire ou un traitement impayé ou lorsqu’un employé cherche à régler un différend avec un employeur ou un ancien employeur quant au montant de salaire auquel il a droit : Fenwick c. Canada, 2008 CAF 370, au paragraphe 7. Aucun de ces scénarios n’existe dans le présent appel.
+[11] En l’espèce, l’appelante a engagé des frais judiciaires de façon à pouvoir continuer d’exercer la profession de pharmacienne en Nouvelle-Écosse. Les faits en cause dans le présent appel sont semblables à ceux de la décision Blagdon c. La Reine, [2002] CTC 2332 (CCI). Dans Blagdon, le brevet de capitaine du contribuable avait été suspendu. Il a dû se présenter devant une commission d’enquête et passer un examen écrit afin de protéger ses qualifications professionnelles et de continuer à gagner un revenu d’emploi en tant que capitaine de navire. Le capitaine Blagdon affirmait que l’alinéa 8(1)b) devrait être interprété dans son sens large afin de permettre une déduction pour des frais judiciaires engagés pour protéger le droit d’une personne de conserver son moyen de subsistance. En rejetant l’appel du capitaine Blagdon, le juge Bowman (alors juge en chef adjoint de la Cour canadienne de l’impôt) a énoncé au paragraphe 15 :
+L’alinéa 8(1)b) autorise la déduction de frais judiciaires engagés pour recouvrer un traitement ou un salaire ou pour établir un droit à ceux-ci.
+Le capitaine Blagdon en a appelé de cette décision devant la Cour d’appel fédérale. En rejetant cet appel dans Blagdon c. Canada (Procureur Général), 2003 CAF 269, la Cour a affirmé ce qui suit :
+5 Nous sommes tous d’avis que le juge de la Cour de l’impôt a bien interprété l’alinéa 8(1)b). Nous n’acceptons pas que le libellé de l’alinéa 8(1)b) puisse raisonnablement être interprété de la façon proposée par l’avocat du capitaine Blagdon. Nous pouvons comprendre que, pour les personnes dans la situation du capitaine Blagdon et pour des considérations de principe, il pourrait être justifié de faciliter l’admissibilité à une déduction des frais judiciaires, mais cette question relève du Parlement et non des tribunaux.
+[12] Il est clair que le montant de 4 989,73 $ n’a pas été engagé par l’appelante pour recouvrer un traitement ou un salaire ou pour établir un droit à ceux-ci. Il a été engagé pour lui permettre de préserver un droit futur de travailler en tant que pharmacienne.
+[13] L’appel est rejeté.
+Signé à Halifax (Nouvelle-Écosse), ce 27e jour de juillet 2016.
+« V.A. Miller »
+La juge V.A. Miller
+RÉFÉRENCE :
+2016 CCI 170
+No DU DOSSIER DE LA COUR :
+2016-531(IT)I
+INTITULÉ :
+SHELLEY ROSS c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Halifax (Nouvelle‑Écosse)
+DATE DE L’AUDIENCE :
+Le 7 juillet 2016
+MOTIFS DU JUGEMEMENT :
+L’honorable juge Valerie Miller
+DATE DU JUGEMENT :
+Le 27 juillet 2016
+COMPARUTIONS :
+Représentant de l’appelante :
+David Ross
+Avocate de l’intimée :
+Zeina El-Khoury, stagiaire en droit
+Me Stan W. McDonald
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Canada)

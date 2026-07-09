@@ -1,0 +1,142 @@
+---
+title: "Dundurn Street Loffts Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28901/index.do"
+last_modified: "2008-10-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 558"
+citation2: ""
+neutral_citation: "2008 TCC 558"
+decision_date: "2008-10-01"
+language: "en"
+item_id: "28901"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1409
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:46:51.453000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b75220255723d7a97f04eade52f3d81084ad3a658ac5dcedb7ba4e929b196f79"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Dundurn Street Loffts Inc. v. The Queen
+
+- Citation: 2008 TCC 558
+- Decision date: 2008-10-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1409, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dundurn Street Loffts Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-10-01
+Neutral citation
+2008 TCC 558
+File numbers
+2005-2906(GST)G
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2005-2906(GST)G
+BETWEEN:
+DUNDURN STREET LOFTS INC. and
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2005-2908(GST)G
+AND BETWEEN:
+ALEXANDER STREET LOFTS
+DEVELOPMENT CORPORATION
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Agent for the Appellant:
+Adam J. Stelmaszynski
+Counsel for the Respondent:
+Gatien Fournier
+____________________________________________________________________
+ORDER
+The application by the Appellants to be represented by Mr. Adam J. Stelmaszynski is allowed.
+Signed at Ottawa, Canada, this 1st day of October 2008.
+“V.A. Miller”
+V.A. Miller, J.
+Citation: 2008TCC558
+Date: 20081001
+Docket: 2005-2906(GST)G
+BETWEEN:
+DUNDURN STREET LOFTS INC.
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondents,
+Docket: 2005-2908(GST)G
+AND BETWEEN:
+ALEXANDER STREET LOFTS
+DEVELOPMENT CORPORATION INC.
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent
+REASONS FOR ORDER
+V.A. Miller, J.
+[1] This is an application by the Appellants to be represented by Mr. Adam J. Stelmaszynski who is the sole shareholder and officer of the two Appellants.
+[2] Subsection 30(2) of the Tax Court of Canada Rules (General Procedure) (the Rules) reads as follows:
+(2) Where a party to a proceeding is not an individual, that party shall be represented by counsel except with leave of the Court and on any conditions that it may determine.
+[3] In his decision in Chase Bryant Inc. v. R., [2003] 2 C.T.C. 2163, Associate Chief Justice Bowman, as he then was, discussed some of the factors that should be considered when exercising the discretion under Subsection 30(2) of the Rules. He said the following at paragraphs 4 to 7:
+4 In Pratts Wholesale Ltd. v. R. (1998), 98 D.T.C. 1561 (T.C.C.), Beaubier J. of this court applied the four factors stated by Muldoon J. in Kobetek Systems Ltd. v. R., [1998] 1 C.T.C. 308 (Fed. T.D.) at page 310.
+From these cases the following factors appear to be relevant to the determination of whether special circumstances exist: whether the corporation can pay for a lawyer; whether the proposed representative will be required to appear as advocate and as witness; the complexity of the legal issues to be determined (and therefore whether it appears that the representative will be able to handle the legal issues) and whether the action can proceed in an expeditious manner.
+5 These factors were referred to by Bowie J. in RFA Natural Gas Inc. v. R., [2000] G.S.T.C. 40 (T.C.C. [General Procedure]).
+6 The factors referred to in these cases are a useful starting point but they are neither determinative nor exhaustive. For example in RFA Natural Gas Bowie J. did not put much weight on the question whether the proposed representative might appear as a witness. I respectfully agree.
+7 If there is one factor that outweighs the others it is whether the company can afford to pay a lawyer. If it can it is difficult to imagine circumstances which would justify a departure from the rule that a corporation must be represented by counsel. In Mavito Inc. c. R. (2000), [2001] 2 C.T.C. 2048 (T.C.C. [General Procedure]), Tardif J. considered a corporate appellant's inability to pay a lawyer's fees as "a decisive factor" in such a motion as this.
+[4] Mr. Stelmaszynski’s stated that the Appellants do not have any assets or money to pay for a lawyer. He stated that he is fully familiar with the issues in these appeals and is prepared to proceed with the appeals in an expeditious manner.
+[5] In my opinion the fact that the Appellants do not have the finances to retain counsel is “a decisive factor” in this application.
+[6] The application is allowed.
+Signed at Ottawa, Canada, this 1st day of October 2008.
+“V.A. Miller”
+V.A. Miller, J.
+CITATION: 2008TCC558
+COURT FILE NO.: 2005-2906(GST)G
+STYLE OF CAUSE: DUNDURN STREET LOFTS INC. AND THE QUEEN
+COURT FILE NO: 2005-2908(GST)G
+STYLE OF CAUSE: ALEXANDER STREET LOFTS DEVELOPMENT CORPORATION INC AND THE QUEEN
+PLACE OF HEARING: ,
+DATE OF HEARING: ,
+REASONS FOR ORDER BY: The Honourable Justice Valerie Miller
+DATE OF ORDER: October 1, 2008
+APPEARANCES:
+Agent for the Appellant:
+Adam Stelmaszynski
+Counsel for the Respondent:
+Gatien Fournier
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

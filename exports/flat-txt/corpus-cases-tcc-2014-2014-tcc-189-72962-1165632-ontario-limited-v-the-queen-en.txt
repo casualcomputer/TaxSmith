@@ -1,0 +1,161 @@
+Title: 1165632 Ontario Limited v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/72962/index.do
+Corpus path: corpus/cases/tcc/2014/2014-tcc-189-72962-1165632-ontario-limited-v-the-queen-en.md
+Document type: case_law
+Last modified: 2014-06-05
+
+# 1165632 Ontario Limited v. The Queen
+
+- Citation: 2014 TCC 189
+- Decision date: 2014-06-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5195, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+1165632 Ontario Limited v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-06-05
+Neutral citation
+2014 TCC 189
+File numbers
+2013-3068(IT)I, 2013-3069(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-3068(IT)I
+BETWEEN:
+1165632 ONTARIO LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2013-3069(IT)I
+AND BETWEEN:
+1286047 ONTARIO LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on June 2, 2014 at Toronto, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+Agent for the Appellants:
+James Deacur
+Counsel for the Respondent:
+Christopher M. Bartlett
+JUDGMENT
+The appeals with respect to assessments made under the Income Tax Act
+for taxation years ending on July 31, 2009 and July 31, 2010 are dismissed.
+Signed at Toronto, Ontario this 5th day of June 2014.
+“J.M. Woods”
+Woods J.
+Citation: 2014 TCC 189
+Date: 20140605
+Docket: 2013-3068(IT)I
+BETWEEN:
+1165632 ONTARIO LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2013-3069(IT)I
+AND BETWEEN:
+1286047 ONTARIO LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] The issue in these appeals is whether the appellants, 1165632 Ontario Limited and 1286047 Ontario Limited, were engaged in personal services businesses in relation to services provided under a management agreement with Dryco Building Supplies Inc. (“Dryco”).
+[2] The Minister of National Revenue assessed the appellants under the Income Tax Act to disallow the small business deduction claimed for taxation years ending on July 31, 2009 and July 31, 2010.
+Background
+[3] The appellants are corporations, the shares of which are owned by Tony Ramagnano and his spouse, Noemi Ramagnano.
+[4] Prior to 1998, Mr. Ramagnano owned and operated a business of selling building supplies, especially drywall, under the name “Metro.” The business was located in Mississauga, Ontario.
+[5] In 1998, Mr. Ramagnano sold the business to Dryco, which was a corporation based in Vancouver, British Columbia. The business continued to operate under the Metro name and Mr. Ramagnano managed the business under contracts between Dryco and the appellants. It appears that the arrangement has been satisfactory to all parties because it continues to the present day.
+[6] For taxation years ending July 31, 2009 and July 31, 2010, the appellants were reassessed to disallow the small business deduction with respect to income earned from this arrangement. The amounts that were disallowed were $6,353 and $706 for the 2009 taxation year and $3,385 and $299 for the 2010 taxation year.
+Positions of Parties
+[7] The respondent submits that the appellants are not entitled to the small business deduction with respect to income from Dryco because the business was a “personal services business” as that term is defined in s. 125(7) of the Act.
+[8] In particular, the respondent submits that Mr. Ramagnano would be an employee of Dryco if the contract was directly with him and not the appellants. The position is based on the application of the usual Wiebe Door tests of control, tools, opportunity for profit and risk of loss.
+[9] The appellants, on the other hand, submit that the Wiebe Door tests point to the opposite conclusion, that Mr. Ramagnano would be an independent contractor without the existence of the appellants.
+Analysis
+[10] The issue to be decided in these appeals is a narrow one: Would Mr. Ramagnano have been an employee of Dryco during the 2009 and 2010 taxation years if the arrangement was made directly with him and not the appellants?
+[11] The relevant legislative provision is the definition of “personal services business” in subsection 125(7) of the Act, which provides:
+“personal services business” carried on by a corporation in a taxation year means a business of providing services where
+(a) an individual who performs services on behalf of the corporation (in this definition and paragraph 18(1)(p) referred to as an “incorporated employee”), or
+(b) any person related to the incorporated employee
+is a specified shareholder of the corporation and the incorporated employee would reasonably be regarded as an officer or employee of the person or partnership to whom or to which the services were provided but for the existence of the corporation, unless
+(c) the corporation employs in the business throughout the year more than five full-time employees, or
+(d) the amount paid or payable to the corporation in the year for the services is received or receivable by it from a corporation with which it was associated in the year;
+(Emphasis added)
+[12] The general test to be applied in determining whether Mr. Ramagnano would be an employee of Dryco is set out in TBT Personnel Services Inc. v MNR, 2011 FCA 256, at para 8:
+[8] The leading case on the principles to be applied in distinguishing a contract of service from a contract for services is Wiebe Door Services Ltd. v. M.N.R., [1986] 3 F.C. 553 (C.A.). Wiebe Door was approved by Justice Major, writing for the Supreme Court of Canada in 67112 Ontario Ltd. v. Sagaz Industries Canada Inc., 2001 SCC 59, [2001] 2 S.C.R. 983. He summarized the relevant principles as follows at paragraphs 47-48:
+47. […] The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker's activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker's opportunity for profit in the performance of his or her tasks.
+48. It bears repeating that the above factors constitute a non-exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case.
+[13] I now turn to the facts in these appeals.
+[14] The relationship between the appellants and Dryco is governed by a Management Agreement. A version of this agreement effective March 5, 2009 was entered into evidence and I have assumed that it is representative of the terms applicable to the entire period at issue. The duties to be performed by the appellants as set out in the agreement are set out below. In the agreement the term “Manager” refers to the appellants.
+APPOINTMENT AND ACCEPTANCE
+1. The Corporation hereby engages the services of the Manager to assist it with the operation of its business located in Mississauga for the term and pursuant to the provisions hereinafter set out and the Manager hereby accepts such engagement provided that such management services is limited to the business located at the Mississauga premises. […]
+PERFORMANCE OF DUTIES
+3. The Manager shall devote his entire working time, efforts, skills and energies to the performance of his duties and obligations assigned to him by the Corporation from time to time and will well and faithfully serve the Corporation and use its best efforts to promote the interest and goodwill of the corporation.
+4. The Manager shall take instructions from and report to Bruno Mauro.
+[15] Although it is not clear from the agreement, Mr. Ramagnano manages the Metro business in Mississauga, which has a warehouse and approximately 15 trucks fitted with cranes.
+[16] According to Mr. Ramagnano’s testimony, which I accept, Dryco provides no direct supervision of his work and he only reports to one of the owners two or three times a year over dinner.
+[17] For their services, the appellants are paid an annual fee of $120,000, payable semi-monthly, a sales bonus of one percent of collected sales, and an annual bonus of five percent of pre-tax profit.
+[18] The term of the agreement is five years, although it has been continually extended from 1998 to the present time.
+[19] Under a termination clause, if the agreement is terminated without cause, the appellants are entitled to $120,000 plus accrued bonuses.
+[20] From the beginning of the relationship, non-competition agreements were entered into with Dryco. The Management Agreement that is relevant to these appeals contemplates non-competition agreements being attached, but the agreement entered into evidence did not contain such an attachment.
+[21] The respondent entered into evidence a Non-Competition Agreement dated October 1, 2005, which acknowledges that Mr. Ramagnano serves as “Branch Manager.” It is not clear whether an agreement similar to this was in force in the periods at issue.
+[22] In applying the legal principles to the facts of these appeals, I would first comment that there appears to be an inconsistency between the appellants’ position and the Management Agreement. The appellants submit that the relationship was similar to an independent contractor relationship in which Mr. Ramagnano was carrying on his own profit-making business. On the other hand, the Management Agreement requires that the appellants (defined as the “Manager”) devote their entire working time to faithfully serve Dryco and promote its interest and goodwill (s. 3 of Management Agreement). The obligation of service that is owed to Dryco under the agreement appears to be inconsistent with the notion that Mr. Ramagnano is acting in his own self-interest with a view to profit, which is the hallmark of an independent contractor relationship.
+[23] In my view, this inconsistency is not unique to these appeals but it is inherent in most general manager positions. In this case, the inconsistency is also manifest by the terms of the parties’ agreement.
+[24] Generally, the duties owed to a corporation that are inherent in the position of a general manager often make it difficult for the manager to have his own business as an independent contractor. I referred to this issue in World Internet Broadcasting Network Corporation Inc. v MNR, 2003 TCC 716, in connection with a president of a corporation, as follows:
+[11] According to Sagaz Industries, the central question is whether Mr. Mackin, as president of World Internet, was carrying on a separate business. In general, I believe it would be difficult for a president of a corporation who has a broad mandate to manage the business to, at the same time, operate a separate business for his own account. The duties that a president owes to the corporation in that capacity would generally be inconsistent with the concept of operating a parallel separate profit-making enterprise. Indeed when Mr. Mackin attempted to do just that by raising funds for a reorganized business, Mr. Kennedy indicated that he was shocked. Clearly in Mr. Kennedy's mind, Mr. Mackin was to act in the corporation's interest only. Accordingly, the fact that Mr. Mackin had a very senior position and was responsible for most aspects of the business strongly negates an independent contractor relationship.
+[25] With that background, I turn to a consideration of the four Wiebe Door factors.
+[26] Control - I would conclude that this factor points to a relationship similar to employment. It is true that Dryco was a relatively passive owner and that Mr. Ramagnano felt free to manage the business as he saw fit as long as the business did well. However, the test is whether Dryco had the legal right to control, and not whether the worker feels subject to that control (Pluri Vox Media Corp. v The Queen, 2012 FCA 295, para 14). Section 4 of the Management Agreement suggests that Dryco had complete authority to direct Mr. Ramagnano as it saw fit. This level of control is incompatible with an independent contractor relationship.
+[27] Tools - This factor also points to an employment-like relationship. The appellants were not required to provide any equipment to perform the management services. Everything was supplied by Dryco. It appears that Mr. Ramagnano chose to have a home office, but this is common in modern employment relationships.
+[28] Opportunity for profit - I find this factor to be neutral. The appellants had a chance of profit through incentives, but this is common in terms of employment with senior executives.
+[29] Risk of loss - Since the appellants did not have any material risk of loss, I find that this factor favours a relationship similar to employment.
+Conclusion
+[30] I have concluded that Mr. Ramagnano would have been an employee of Dryco were it not for the existence of the appellants. This is evident from the obligation that the appellants had to promote the interest of Dryco, as well as from a consideration of the usual Wiebe Door factors.
+[31] Accordingly, the income earned by the appellants from Dryco for the periods at issue was earned from a personal services business. The appeals will be dismissed.
+Signed at Toronto, Ontario this 5th day of June 2014.
+“J.M. Woods”
+Woods J.
+CITATION:
+2014 TCC 189
+COURT FILE NOs:
+2013-3068(IT)I
+2013-3069(IT)I
+STYLES OF CAUSE:
+1165632 ONTARIO LIMITED v. HER MAJESTY THE QUEEN and
+1286047 ONTARIO LIMITED v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+June 2, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Judith Woods
+DATE OF JUDGMENT:
+June 5, 2014
+APPEARANCES:
+Agent for the Appellants:
+James Deacur
+Counsel for the Respondent:
+Christopher M. Bartlett
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+n/a
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Ontario

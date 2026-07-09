@@ -1,0 +1,146 @@
+Title: Gignac v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25074/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-336-25074-gignac-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-05-13
+
+# Gignac v. The Queen
+
+- Citation: 2003 TCC 336
+- Decision date: 2003-05-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2484, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gignac v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-05-13
+Neutral citation
+2003 TCC 336
+File numbers
+2002-547(IT)I
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-547(IT)I
+BETWEEN:
+BRAD GIGNAC,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+_______________________________________________________________
+Appeals heard on May 6, 2003, at Prince George, British Columbia,
+By: The Honourable Judge E.A. Bowie
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Victor Caux
+_______________________________________________________________
+JUDGMENT
+The appeals from assessments of tax made under the Income Tax Act for the 1997, 1998 and 1999 taxation years are dismissed.
+Signed at Ottawa, Canada, this 13th day of May, 2003.
+"E.A. Bowie"
+J.T.C.C.
+Citation: 2003TCC336
+Date: 20030513
+Docket: 2002-547(IT)I
+BETWEEN:
+BRAD GIGNAC,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowie, J.
+[1] Mr. Gignac appeals his income tax assessments for the years 1997, 1998 and 1999. The appeals were heard under the Court's informal procedure at Prince George, British Columbia. The matter in dispute is his claim that he is entitled to deduct certain automobile expenses under the provisions of paragraph 8(1)(h.1) of the Income Tax Act (the Act). The expenses relate to his travel from his home in Prince George to various parts of the province where he worked, and also his travel in those other centres during the periods that he was working there.
+[2] Mr. Gignac is a locomotive engineer. He became qualified in 1996, and he immediately began work for BC Rail Ltd. His home station was, and is, Prince George. Mr. Gignac gave evidence as to the nature of his work for BC Rail, and as to the conditions of his employment relating to the places at which he was required to report for work from time to time. He also entered into evidence, without objection, certain documents. These included a copy of the collective agreement between BC Rail and the union representing its engineers, a letter from an executive of BC Rail, and a form T2200 for each of the years in issue. The latter documents purport to establish that the Appellant was required to work away from his home station from time to time during the years in issue, and that he was required to use his automobile without reimbursement or allowance on those occasions. There is little in the evidence that is clear; however, it is clear that this letter and the forms T2200 are not accurate. It is pleaded by the Appellant in his Notice of Appeal, and agreed to by the Respondent, that BC Rail did pay certain allowances for travel to the Appellant at the rate of $0.34 per kilometre. For the years in issue, these aggregate:
+1997 - $1,833.12
+1998 - $1,771.40
+1999 - $1,096.84
+[3] According to the Appellant's evidence, these amounts were paid to him when deadheading under Article 5 of the collective agreement to a point away from Prince George. Clause 5.9 reads:
+An engineer deadheading on pay and authorized to use his own automobile will be compensated for the automobile mileage on the same basis as that currently established with respect to all employees.
+Other clauses in Article 5 provide that engineers are paid for their time spent deadheading. Deadheading, however, and the compensation for it, apply only when the employee is required by the employer to report for work at a location other than his normal place of work.
+[4] Mr. Gignac's claim for expenses is based on the proposition that he was frequently required to work away from Prince George because, as a new engineer, he had little seniority and therefore was subject to frequent layoffs at Prince George. On these occasions he was able to work elsewhere on the system, but had to travel there at his own expense. He therefore claimed his total travel expenses for each year, net of the allowances he received, as deductions under paragraph 8(1)(h.1) as follows:
+1997
+1998
+1999
+Total expenses
+$2,545.12
+$9,824.15
+$14,347.05
+Less: allowances to be included in income under subsection 6(1)
+$1,833.12
+$1,771.40
+$1,096.84
+Deduction claimed
+$712.00
+$8,052.25
+$13,250.21
+[5] What was not clear, either from Mr. Gignac's evidence or from the collective agreement, was whether, apart from those times when he was deadheading, and therefore was paid an allowance, Mr. Gignac was travelling to work at a location remote from Prince George because he was required by BC Rail to do so, or whether he was travelling of his own volition because work was available to him there, and it was preferable to travel rather than face layoff for lack of work in Prince George. For the reasons that follow, I do not believe that it is necessary to answer that question, However, if it were necessary to do so, I would have to conclude that Mr. Gignac's evidence did not establish that any specific portion of that travel could be attributed to assignments that he was required by BC Rail to carry out, as opposed to travel that he elected to do in order to avoid layoff.
+[6] The Appellant makes his claim to deduct the expense of travelling by automobile under paragraph 8(1)(h.1) of the Act.
+8(1) In computing a taxpayer's income for a taxation year from an office or employment, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+(a) ...
+(h.1) where the taxpayer, in the year,
+(i) was ordinarily required to carry on the duties of the office or employment away from the employer's place of business or in different places, and
+(ii) was required under the contract of employment to pay motor vehicle expenses incurred in the performance of the duties of the office or employment,
+amounts expended by the taxpayer in the year in respect of motor vehicle expenses incurred for travelling in the course of the office or employment, except where the taxpayer
+(iii) received an allowance for motor vehicle expenses that was, because of paragraph 6(1)(b), not included in computing the taxpayer's income for the year, or
+(iv) claims a deduction for the year under paragraph (f);
+As Rip J. pointed out in O'Neil v. The Queen,[1] there are four conditions that must be satisfied for a taxpayer to qualify for a deduction under this provision:
+[16] The issue before me is not whether the appellant's automobile is "work-related". The issue is whether the appellant incurred the automobile expenses in the course of his employment. Paragraph 8(1)(h.1) requires four conditions to be satisfied for a taxpayer to deduct automobile expenses:
+(i) the taxpayer was ordinarily required to carry on his or her duties of employment away from the employer's business or in different places;
+(ii) the taxpayer was required to pay automobile expenses under his or her contract of employment; and
+(iii) the expenses were incurred in the performance of the duties of employment;
+(iv) provided, that if the expenses were incurred in performing the duties of employment, the taxpayer did not receive a non-taxable allowance from the employer for motor vehicle expenses pursuant to paragraph 6(1)(b) of the Act.
+[7] As I have said, it is not established by the evidence that any particular vehicle expenses incurred by the Appellant can be attributed to an employer-imposed requirement to work elsewhere than at Prince George. I have reviewed the collective agreement and have found nothing in it that requires an engineer to use an automobile and to pay the expenses of doing so. In fact, clause 23.4.4 provides:
+Employees who are authorized to use private automobile in Railway service will be compensated in accordance with current Railway policy.
+It is under this clause, as well as clause 5.9, that Mr. Gignac was paid certain allowances for the use of his vehicle.
+[8] The third requirement is that the expenses must be incurred in performance of the duties of employment. The evidence simply does not satisfy that requirement. Mr. Gignac's travel to points other than Prince George to report for work there was not shown to be a duty of employment. From the evidence, I infer that on those occasions when his travel was mandated by the employer, and therefore was a duty of employment, he received the deadheading allowances that I have referred to pursuant to the collective agreement. The remaining travel that Mr. Gignac undertook was simply travel between his home and the place at which he worked from time to time, and therefore subject to the long-established rule that such travel is a personal expense: see Ricketts v. Colquhoun,[2] Hogg v. The Queen,[3] O'Neil v. The Queen.[4]
+[9] The appeals are therefore dismissed.
+Signed at Ottawa, Canada, this 13th day of May, 2003.
+"E.A. Bowie"
+J.T.C.C.
+CITATION:
+2003TCC336
+COURT FILE NO.:
+2002-547(IT)I
+STYLE OF CAUSE:
+Brad Gignac and Her Majesty the Queen
+PLACE OF HEARING:
+Prince George, British Columbia
+DATE OF HEARING:
+May 6, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Judge E.A. Bowie
+DATE OF JUDGMENT:
+May 13, 2003
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Victor Caux
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2000 DTC 2409 at paragraph 16.
+[2] [1926] A.C. 1.
+[3] [2001] C.T.C. 2356.
+[4]
+supra.

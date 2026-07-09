@@ -1,0 +1,139 @@
+---
+title: "Vatasescu v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30257/index.do"
+last_modified: "2011-03-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 149"
+citation2: ""
+neutral_citation: "2011 TCC 149"
+decision_date: "2011-03-08"
+language: "en"
+item_id: "30257"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7966
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:47:55.984000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "556a06f3cccaf9fc705b1399398c00424cbd1efe05aa595e9c1e3e9e9de60562"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Vatasescu v. The Queen
+
+- Citation: 2011 TCC 149
+- Decision date: 2011-03-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7966, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vatasescu v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-03-08
+Neutral citation
+2011 TCC 149
+File numbers
+2010-3817(IT)APP
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-3817(IT)APP
+BETWEEN:
+MARCEL M. VATASESCU,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application heard on March 2, 2011 at Toronto, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+For the Applicant:
+The Applicant himself
+Counsel for the Respondent:
+Jasmeet Kala (student-at-law)
+Sharon Lee
+____________________________________________________________________
+JUDGMENT
+The application for an order extending the time within which to serve a notice of objection in respect of an assessment made under the Income Tax Act for the 2007 taxation year is dismissed. Each party shall bear their own costs.
+Signed at Ottawa, Canada this 8th day of March 2011.
+“J. M. Woods”
+Woods J.
+Citation: 2011 TCC 149
+Date: 20110308
+Docket: 2010-3817(IT)APP
+BETWEEN:
+MARCEL M. VATASESCU,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] This is an application by Marcel Vatasescu for an extension of time to serve a notice of objection. The applicant wishes to dispute an assessment made under the Income Tax Act for the 2007 taxation year which disallowed a deduction of moving expenses.
+[2] The respondent objects to the granting of the order on the ground that the applicant did not first apply for an extension of time to the Minister.
+[3] Excerpts of the relevant provisions, s. 166.2(1) and (5) of the Act, are reproduced below:
+166.2(1) A taxpayer who has made an application under subsection 166.1 may apply to the Tax Court of Canada to have the application granted after either
+(a) the Minister has refused the application, or
+(b) 90 days have elapsed after service of the application under subsection 166.1(1) and the Minister has not notified the taxpayer of the Minister’s decision,
+but no application under this section may be made after the expiration of 90 days after the day on which notification of the decision was mailed to the taxpayer.
+166.2(5) No application shall be granted under this section unless
+(a) the application was made under subsection 166.1(1) within one year after the expiration of the time otherwise limited by this Act for serving a notice of objection or making a request, as the case may be; and
+[…]
+[4] In light of these provisions, the order requested by the applicant cannot be granted unless he has previously made an application to the Minister for an extension of time under section 166.1 and that application was made in a timely manner.
+[5] Excerpts from section 166.1 are reproduced below:
+166.1(1) Where no notice of objection to an assessment has been served under section 165, nor any request under subsection 245(6) made, within the time limited by those provisions for doing so, the taxpayer may apply to the Minister to extend the time for serving the notice of objection or making the request.
+166.1(3) An application under subsection (1) shall be made by being addressed to the Chief of Appeals in a District Office or a Taxation Centre of the Canada Revenue Agency and delivered or mailed to that Office or Centre, accompanied by a copy of the notice of objection or a copy of the request, as the case may be.
+166.1(4) The Minister may accept an application under this section that was not made in the manner required by subsection (3).
+[6] The requirements under sections 166.1 and 166.2 are strict and cannot be ignored by the Court on grounds of fairness: Bormann v The Queen, 2006 FCA 83; 2006 DTC 6147.
+[7] Unfortunately for the applicant, an application was not made to the Minister within the time required, which is within one year and 90 days from the date of the assessment. In this case, the reassessment was made on March 5, 2009, and the deadline for an application to the Minister was June 3, 2010.
+[8] The applicant did not write to the Canada Revenue Agency (CRA) until June 10, 2010, which was a few days after the deadline. The letter was addressed to the Tax Review Centre and it was followed up by an objection letter addressed to the Chief of Appeals dated July 14, 2010.
+[9] It appears that the CRA reviewed the objection even though it was out of time. Unfortunately for the applicant, the outcome of this review was not in his favour.
+[10] It is very unfortunate that the deadline was missed by a short period. The applicant was out of the country when the reassessment was issued and he followed up with the CRA as best he could from abroad. Despite the applicant having several phone calls with the CRA about supporting documentation, no one apprised him that he was out of time to object and that he needed to apply for an extension of time.
+[11] The circumstances are sympathetic but I do not see a way that relief can be provided by this Court.
+[12] With regret, I must dismiss the application.
+Signed at Ottawa, Canada this 8th day of March 2011.
+“J. M. Woods”
+Woods J.
+CITATION: 2011 TCC 149
+COURT FILE NO.: 2010-3817(IT)APP
+STYLE OF CAUSE: MARCEL M. VATASESCU and HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: March 2, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice J. M. Woods
+DATE OF JUDGMENT: March 8, 2011
+APPEARANCES:
+For the Applicant:
+The Applicant himself
+Counsel for the Respondent:
+Jasmeet Kala (student-at-law)
+Sharon Lee
+COUNSEL OF RECORD:
+For the Applicant:
+Name: N/A
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

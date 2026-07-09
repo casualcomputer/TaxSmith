@@ -1,0 +1,189 @@
+---
+title: "Interior Savings Credit Union v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27451/index.do"
+last_modified: "2006-07-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 411"
+citation2: ""
+neutral_citation: "2006 TCC 411"
+decision_date: "2006-07-21"
+language: "en"
+item_id: "27451"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 207
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:54:12.330000+00:00"
+cases_cited_count: 5
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "97117f8008d4bbe8363b442af256c0c274bd2c42194e4ac074b9bd3bbebe1041"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Interior Savings Credit Union v. The Queen
+
+- Citation: 2006 TCC 411
+- Decision date: 2006-07-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 207, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Interior Savings Credit Union v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-07-21
+Neutral citation
+2006 TCC 411
+File numbers
+2006-871(IT)G
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-871(IT)G
+BETWEEN:
+INTERIOR SAVINGS CREDIT UNION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on July 12, 2006 at Vancouver, British Columbia
+Before: The Honourable Justice L.M. Little
+Appearances:
+Counsel for the Appellant:
+Joel A. Nitikman
+Counsel for the Respondent:
+Lynn M. Burch
+____________________________________________________________________
+ORDER
+Upon motion made by the Respondent for an Order seeking to quash the Appellant's appeal in respect of the 2004 taxation year;
+And upon reading the Affidavits of Kathleen Stevenson and Esther Derksen;
+And upon hearing the parties;
+It is ordered that the Respondent's motion to quash be dismissed, with costs in the cause, in accordance with the attached Reasons for Order.
+... 2
+The Respondent is to file and serve the Reply to the Notice of Appeal on or before August 15, 2006.
+Signed at Vancouver, British Columbia, this 21st day of July 2006.
+"L.M. Little"
+Little J.
+Citation: 2006TCC411
+Date: 20060721
+Docket: 2006-871(IT)G
+BETWEEN:
+INTERIOR SAVINGS CREDIT UNION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Little J.
+A. FACTS
+[1] Interior Savings Credit Union ("Interior") came into existence on January 2, 2002 through the amalgamation of Interior Savings Credit Union and Thompson Valley Savings Credit Union (the "Predecessors").
+[2] The Income Tax Act (the "Act") provides that a Credit Union is entitled to a special tax credit (the "Special Tax Credit") in computing its tax payable.
+[3] A Credit Union's Special Tax Credit is determined, in part, by using the Credit Union's Preferred Rate Amount (the "PRA") at the end of the immediately preceding taxation year.
+[4] The PRA is basically a cumulative, lifetime total of the Credit Union's taxable income. If, in a particular taxation year, the PRA exceeds 4/3 times an amount referred to as the "Maximum Cumulative Reserve", the Credit Union is not entitled to the Special Tax Credit for that year. (Note: The Maximum Cumulative Reserve is 5% of a Credit Union's deposits and share capital.)
+[5] Section 87 of the Act provides that two Credit Unions which amalgamate must add their PRAs together to determine the opening PRA of the amalgamated Credit Union's first taxation year.
+[6] Interior maintains that section 87 of the Act does not apply and therefore the Predecessors are not required to add their PRAs together.
+[7] The Minister of National Revenue (the "Minister") maintains as follows:
+(a) the amalgamation of Interior and Thompson Valley was an amalgamation to which sections 87 and 137 of the Act apply;
+(b) in the event that sections 87 and 137 of the Act do not apply, the tax accounts flow through as a consequence of the amalgamation;
+(c) the series of transactions undertaken in contemplation of the amalgamation are avoidance transactions as defined in section 245 of the Act and are subject to the General Anti-Avoidance Rule.
+[8] For the 2002 taxation year Interior filed its 2002 tax return with a PRA Pool from the preceding year of NIL.
+[9] The Minister reassessed Interior's 2002 tax return and adjusted the PRA Pool to $54,348,490.00.
+[10] Interior filed its 2003 tax return showing a PRA Pool from the preceding tax year of $3,828,900.00.
+[11] The Minister reassessed Interior's 2003 tax return adjusting the PRA Pool from the preceding year and determined that the revised PRA Pool was $58,177,390.00.
+[12] Interior filed its 2004 tax return showing a PRA Pool from the preceding year of $9,636,169.00.
+[13] The Minister reassessed Interior's 2004 tax return and adjusted the PRA Pool from the preceding year and determined that the revised PRA Pool was $64,270,971.00.
+[14] On November 28, 2005 Interior filed a Notice of Objection to the Assessment issued on May 18, 2005 for the 2004 taxation year. On December 2, 2005 Interior filed a Revised Notice of Objection for the 2004 taxation year.
+[15] On March 20, 2006 Interior filed a Notice of Appeal to the Tax Court. Interior states in the Notice of Appeal that the appeal has been filed since "... more than 90 days have passed since that date (i.e. December 16, 2005) and the Minister has neither confirmed the 2004 Assessment nor issued a reassessment in response to the Objection".
+[16] The Respondent filed a Notice of Motion on June 21, 2006. The Notice of Motion states:
+This Motion is for an Order quashing the appeal and alternatively for an Order extending the time for the Respondent to file its Reply to the Notice of Appeal .
+[17] The Respondent states that the ground for the Motion is that there is no tax in dispute and therefore no issue that the Court may determine in accordance with section 171 of the Act. In the alternative the Respondent maintains that it would be reasonable in the circumstances to allow the Respondent an extension of time to file its Reply to the Notice of Appeal.
+B. ISSUES
+[18] Should the Notice of Motion filed by the Respondent be granted?
+[19] If the Notice of Motion is dismissed, should the Respondent's alternative position be accepted?
+C. ANALYSIS & DECISION
+[20] Interior maintains that in preparing its financial forecasting it seeks to know, as closely as possible, what its pre-tax and after-tax financial positions will be for each year. Interior states that this forecasting is prepared on a rolling-forward basis, not only for the current year but for the next several following years, so that Interior knows as soon as possible what its financial position will be for future years. Interior maintains that it must make decisions several years in advance (such as how much dividends to pay out, whether to try to attract new members and new deposits, whether to expand into new products) based on its forecasted pre-tax and after-tax financial results for future years.
+[21] Interior also maintains that it is important to know as soon as possible whether its PRA is as low as it understands it to be or as high as the CRA has assessed. Interior maintains that whether it has to pay any immediate tax for the 2004 year as a result of the higher PRA assessed is not the important thing. The important thing is whether Interior can accurately forecast how much tax credits it will be entitled to for future years. Interior states that if it has to wait until it actually has to pay higher tax, and then object, and then appeal, and if that appeal may take many months or years to be determined, its ability to forecast its financial position accurately will be seriously jeopardized. It is for this reason that Interior has appealed the 2004 assessment now, even though the increase in PRA did not result in any immediate tax payable for its 2004 taxation year. (See Stevenson Affidavit, paragraph 26.)
+[22] Interior argues that as the PRA is a cumulative amount, its increase on one year's assessment automatically results in an equal amount of increase to the PRA for every future year's assessment. (See Dirksen Affidavit, paragraphs 11, 12, 14, 16.)
+[23] Interior argues that the Respondent's motion seeks to have the appeal invalidated on the ground that there is no tax in dispute on the PRA issue for 2004. Interior maintains there is no such basis for invalidating the appeal.
+[24] Based on the comments made by counsel for the Appellant and the documents filed with the Court, I am convinced that Interior requires advance information on financial matters in order to properly operate its business.
+Appealing a Nil Assessment
+[25] Under subsection 152(4) of the Act, the Minister may issue to a taxpayer either an "assessment" or a "notification that no tax is owing". This notification is often called a "nil assessment".
+[26] Subsection 169(1) of the Act allows a taxpayer to appeal from an "assessment". A nil assessment is not an "assessment". Therefore, the general rule is that a taxpayer cannot appeal from a nil assessment.
+[27] In support of his argument that every assessment can be appealed, counsel for the Appellant referred to the decision of Associate Chief Justice Bowman (as he then was) in Imperial Oil Limited and Inco Limited v. The Queen, 2003 DTC 179.
+[28] In that case the Minister filed a Motion to have the appeal dismissed because, in the Minister's view, the taxpayers had accelerated the appeal process before the Minister had completed the auditing process. Bowman A.C.J. dismissed the Minister's Motion and said at paragraph 28:
+... There must be very compelling reasons to find that a taxpayer's rights under the Income Tax Act are implicitly restricted where the rights are explicitly conferred and restrictions are explicitly expressed.
+Bowman A.C.J. also said at paragraph 32:
+... If Parliament wishes to restrict the sort of assessment to which an objection can be filed or from which an appeal can be taken it is perfectly capable of saying so. It is not appropriate to read words into the statute in order to give it a strained meaning that the plain words do not reasonably bear.
+[29] Bowman A.C.J. dismissed the Minister's Motion and the Minister appealed to the Federal Court of Appeal.
+[30] In The Queen v. Imperial Oil Limited and Inco Limited, 2003 DTC 5485 the Crown's appeal was dismissed.
+[31] At page 5486 Madame Justice Sharlow said at paragraph 3:
+[3] The Tax Court Judge gave lengthy and detailed reasons for rejecting the arguments made by the Crown in support of its motions. In our view, his analysis of each of the Crown's arguments is based on a sound interpretation of the relevant provisions of the Income Tax Act ...
+[32] At paragraph 5 Sharlow J. said:
+[5] First, the Crown argues that a taxpayer should not be permitted to object to an assessment that accepts all claims made in the taxpayer's income tax return. This argument must be rejected. According to subsections 165(1) and 169(1) of the Income Tax Act, the right to object ...
+[33] At paragraph 6 Sharlow J. said:
+[6] Second, the Crown argues that taxpayers should not be permitted to object or appeal before the completion of the audit process, because the result is inconvenient and inefficient. This argument must be rejected because it would impose an extra-statutory limitation on the right to object and appeal. Nothing in the Income Tax Act requires a taxpayer to delay an objection or appeal to accommodate the administrative convenience of the Minister.
+[34] Based on the reasoning contained in the Imperial Oil decisions I have concluded that the Respondent's Motion should be dismissed.
+Modification to the Nil Assessment Rule
+[35] Even if the PRA issue is a "nil assessment" issue (which it is not), a NIL assessment would not invalidate this appeal. As early as 1988 the Tax Court modified the rule that there is no appeal from a nil assessment. In particular, tax credits may be appealed in a nil assessment year. (See Joshi v. The Queen, 2003 DTC 1550 (T.C.C.) at paragraph 6; See also Corriveau v. The Queen, 2006 DTC 2583 (T.C.C.) at paragraph 11, footnote 2.)
+[36] Based on the argument presented it is also clear that Interior does its financial forecasting on a forward-looking basis and that it is legally required to have an adequate capital base, that it is critical to know as early as possible what Interior's PRA actually is. To wait until Interior actually loses its additional tax credit could be very problematic for Interior. (See Financial Institutions Act of British Columbia, subsection 67(1).)
+[37] The Respondent's motion is dismissed, with costs in any event of the cause.
+Motion to Late-File the Reply
+[38] The Notice of Appeal was filed on March 17, 2006. The Respondent is required to file its Reply 60 days after being served. The Certificate of Service indicates that the Notice of Appeal was served on the Respondent on March 23, 2006. Sixty days thereafter is May 22, 2006.
+[39] On April 21, 2006 the Respondent asked Interior for and Interior granted an extension to file the Reply on June 22, 2006.
+[40] On June 12, 2006 the Respondent notified Interior that it intended to bring this Motion. On June 12, 2006 Interior replied that if the Respondent brought the Motion, the June 12 deadline for filing the Reply was still binding.
+[41] Interior agrees that the Respondent should be entitled to file its Reply, but Interior suggests that under Rule 44(2), the facts in the Notice of Appeal should be presumed to be true. (See Rule 44(2), tab 11, Cook v. The Queen, 2003 DTC 1 (T.C.C.) at page 3, tab 12.)
+[42] I have concluded that the Respondent is entitled to file its Reply on or before August 15, 2006. I have also concluded that Rule 44(2) of the Tax Court of Canada Rules is applicable in this situation.
+Signed at Vancouver, British Columbia, this 21st day of July 2006.
+"L.M. Little"
+Little J.
+CITATION:
+2006TCC411
+COURT FILE NO.:
+2006-871(IT)G
+STYLE OF CAUSE:
+Interior Savings Credit Union and
+Her Majesty the Queen
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+July 12, 2006
+REASONS FOR ORDER BY:
+The Honourable Justice L.M. Little
+DATE OF ORDER:
+July 21, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Joel A. Nitikman
+Counsel for the Respondent:
+Lynn M. Burch
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Joel A. Nitikman
+Firm:
+Fraser Milner Casgrain
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

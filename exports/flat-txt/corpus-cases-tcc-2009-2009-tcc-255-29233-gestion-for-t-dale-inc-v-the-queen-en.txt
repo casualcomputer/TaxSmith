@@ -1,0 +1,234 @@
+Title: Gestion Forêt-Dale Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29233/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-255-29233-gestion-for-t-dale-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-05-21
+
+# Gestion Forêt-Dale Inc. v. The Queen
+
+- Citation: 2009 TCC 255
+- Decision date: 2009-05-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7034, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gestion Forêt-Dale Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-05-21
+Neutral citation
+2009 TCC 255
+File numbers
+2004-3945(IT)G
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-3945(IT)G
+BETWEEN:
+GESTION FORET-DALE INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on February 5 and May 8, 2008, at Montréal, Quebec.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the Appellant:
+Paul Ryan and Kathy Kupracz
+Counsel for the Respondent:
+Martin Gentile
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 1996 taxation year is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 21st day of May 2009.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 29th day of June 2009.
+François Brunet, Revisor
+Citation: 2009 TCC 255
+Date: 20090521
+Docket: 2004-3945(IT)G
+BETWEEN:
+GESTION FORET-DALE INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal from the notice of assessment issued by the Minister of Revenue of Canada ("the Minister") on May 27, 2002, in respect of the Appellant's taxation year ended June 30, 1996. The notice of assessment claims $113,289 in tax under Part IV of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), as amended ("the Act"), plus a penalty of $56,644 under subsection 163(2) of the Act, plus $91,724.39 in interest, from the Appellant.
+[2] The context in which the transactions giving rise to the assessment took place is described at paragraphs 1 to 13 of the Notice of Appeal, which are worth reproducing:
+[TRANSLATION]
+1. As part of a reorganization within the Armatures G. Roy Inc. group of companies, the following transactions were planned and finalized:
+(a) the sale, by Gaston Roy to 9022-3512 Québec Inc., of the shares in the capital stock of 2843-0692 Québec Inc.; and
+(b) the redemption by 9022-3512 Québec Inc. of shares held by 2174‑1269 Québec Inc. (i.e. the Appellant, now known as Gestion Forêt‑Dale Inc.).
+2. The tax-related aspects of this transaction were entrusted to the firm of Roy, Tardif, Desrochers, Dumont, Chartered Accountants (now known as Roy Desrochers Lambert LLP);
+3. In the spring of 1995, the tax consequences were examined and the parties held negotiations.
+4. An agreement in principle between the parties involved was reached in or about June 1995.
+5. At that time, it was agreed that the effective date of the transaction would be July 1, 1995.
+6. The main reason for choosing this date was that the fiscal year-end of the companies concerned was June 30, so the parties chose to base the transactions on the financial information of the companies concerned as at June 30, 1995.
+7. Consequently, in order to finalize the documentation confirming the agreement in principle, it was necessary to have access to the financial statements prepared for the fiscal year ended June 30, 1995.
+8. The notary Jean Boudreau was retained to prepare the relevant documentation.
+9. It was agreed that the relevant documentation would be signed later, that is to say, as soon as the financial statements as at June 30, 1995, became available, but that the signed documents would be dated July 1, 1995, the effective date of the transaction agreed upon between the parties.
+10. This situation was presented to the taxpayers, including Gaston Roy, the principal shareholder of the Appellant, as normal and commonplace in complex corporate and tax transactions of this kind.
+11. On the fiscal plane, the procedure recommended by the accountants of Roy, Tardif, Desrochers, Dumont was set out in a document entitled [TRANSLATION] "Corporate Reorganization Plan". A first version of the document was issued on April 7, 1995, and an updated version was issued in June 1995.
+12. The financial statements for the fiscal year ended June 30, 1995, became available on September 19, 1995, and, in accordance with the parties' wishes, the documents were signed soon after that date, because the closing meeting took place on September 26, 1995.
+13. Given the complex nature of the transaction, it was necessary, for the purposes of the [TRANSLATION] "Corporation Reorganization Plan" prepared by the accountants, that the documents be signed in chronological order, so that the documents would all be dated July 1, 1995, but at different times of day.
+[3] Following the closing meeting of September 26, 1995, the accountants noticed that a mistake had been made in the sequence of the documents prepared by the notary Jean Boudreau: prior to the redemption by 9022-3512 Québec Inc. of shares held by the Appellant, other voting shares should have been issued so that the companies concerned would be connected persons within the meaning of the Act at the time of the redemption by 9022-3512 Québec Inc. of the 26,133 Class E shares held by the Appellant in consideration of $392,000.
+[4] The issuance and redemption of 115,000 Class B voting shares of 9022-3512 Québec Inc. — that is to say, the shares used to create the relationship — were not part of the corporate reorganization plan prepared by the accountants, but the accountants claim that the parties intended the companies concerned to be connected within the meaning of the Act, because the corporate reorganization plan refers to the calculation of "accrued earned income" in a context involving the potential application of subsection 55(2) of the Act. According to the accountants, subsection 55(2) of the Act would not have been applicable if the companies concerned had not been connected at the time of the redemption of the Class E shares. In the submission of the Appellant and its representatives, the Class E shares should have been voting shares instead of non‑voting shares.
+[5] In order to correct the mistake, two new resolutions dated July 1, 1995 were inserted into the sequence of transactions dated July 1, 1995. The first resolution was to issue 115,000 Class B shares of 9022-3512 Québec Inc. to the Appellant at 7:45 a.m. The second resolution of 9022-3512 Québec Inc. contemplated the redemption, at 5:45 p.m., of the 115,000 Class B shares held by the Appellant.
+[6] After the taxpayers concerned signed these new resolutions, the accountants realized that the first of the two additional resolutions had been inserted too early in the sequence of transactions of July 1, 1995, and that the transactions would have resulted in unforeseen and undesired tax consequences: section 84.1 of the Act might have come into application.
+[7] In order to correct the situation, a new resolution was adopted by the board of directors of 9022-3512 Québec Inc. to issue 115,000 Class B shares to the Appellant, but this time, at 4:45 p.m.
+[8] The Minister refused to give effect to the additional resolutions of 9022‑3512 Québec Inc., and assessed the Appellant as though it and 9022-3512 Québec Inc. had not been connected at the time that the Class E shares were redeemed. As far as the Minister was concerned, the issuance of the Class B shares constituted retroactive tax planning because it had not initially been contemplated.
+[9] The Respondent submits that, prior to February 10, 2000, which was the end of the normal reassessment period for the Appellant's 1996 taxation year, Gaston Roy, the Appellant's president, falsely stated that he was unaware that a few documents concerning the 1995 reorganization were redone, and that the accountants who structured the reorganization and prepared the Appellant's 1996 income tax return were also unaware of those changes.
+[10] On February 5, 2008, the Appellant tendered a document containing admissions to the effect that, unbeknownst to the Appellant and its sole shareholder Gaston Roy, the accounting firm of Roy, Tardif, Desrochers, Dumont ("RTDD") and the notary Jean Boudreau provided inaccurate information to Alain Plourde, an auditor with the Canada Revenue Agency ("the Agency") during its audit, which took place from 1998 to 2002. The admissions are as follows:
+Date, name of professional and transmission method
+Inaccurate information provided
+Appropriate information
+November 2, 1998
+Mario Désilets, CA
+Orally
+Resolutions of 7:45 a.m. and 5:45 p.m. signed upon closing on September 26, 1995.
+No documents signed after the closing on September 26, 1995
+Resolutions of 7:45 a.m. and 5:45 p.m. signed in or about November 1996.
+Resolution of 4:45 p.m. signed in or about July 1998
+November 19, 1998
+Jean Boudreau, notary
+In writing
+Resolution of 7:45 a.m. prepared by him and signed at the closing on September 26, 1995.
+Resolution of 4:45 p.m. prepared by him and signed the day after the closing meeting of September 26, 1995.
+Resolution of 7:45 a.m. prepared by accountants RTDD and signed in November 1996.
+Resolution of 4:45 p.m. prepared by accountants RTDD and signed in or about July 1998.
+Date, name of professional, and transmission method
+Inaccurate information provided
+Appropriate information
+February 26, 1999
+Marco Baril, CA
+Orally
+Resolutions of 7:45 a.m. and 5:45 p.m. signed at the closing on September 26, 1995, and prepared and revised prior to the closing meeting.
+Mistake re 7:45 a.m. vs. 4:45 p.m. discovered at the closing meeting of September 25, 1995, and corrected quickly thereafter.
+Resolutions of 7:45 a.m. and 5:45 p.m. signed in or about November 1996.
+Mistake re 7:45 a.m. vs. 4:45 p.m. discovered in July 1998.
+February 26, 1999
+Mario Désilets, CA
+Orally
+Called the notary to ask for the correct time (7:45 a.m. vs. 4:45 p.m.).
+Original resolution of 4:45 p.m. was probably in the notary's file between July 16 and September 3, 1998.
+Original 7:45 a.m. resolution not found, possibly destroyed.
+Accountants RTDD prepared these documents themselves.
+Document prepared by accountants RTDD themselves did not transit through notary's file.
+Document subsequently found.
+March 16, 2000
+Mario Désilets, CA
+Orally
+Original 7:45 a.m. resolution not found, possibly destroyed.
+Resolutions of 4:45 p.m. and 5:45 p.m. requested prior to the closing meeting of September 26, 1995.
+Handwritten document called [TRANSLATION] "Meeting with Marco" written before Corporate Reorganization Program of June 30, 1995, was typed up.
+Notary Jean Boudreau contacted to prepare the resolutions of 4:45 and 5:45 p.m. at the same time as handwritten document called [TRANSLATION] "Meeting with Marco" prepared.
+Document subsequently found.
+Resolutions of 7:45 a.m. and 5:45 p.m. signed in or about November 1996.
+Resolution of 4:45 p.m.prepared by accountants RTDD and signed in or about July 1998
+Handwritten document called [TRANSLATION] "Meeting with Marco" prepared in or about November 1996.
+Accountants RTDD prepared documents themselves.
+Resolutions of 7:45 a.m. and 5:45 p.m. signed in or about November 1996.
+Resolution of 4:45 p.m. prepared by accountants RTDD and signed in or about July 1998.
+Date, name of professional, and transmission method
+Inaccurate information submitted
+Appropriate information
+May 18, 2000
+Marco Baril, CA
+In writing
+Resolution of 4:45 p.m. prepared and signed shortly after the closing meeting of September 26, 1995 "to the best of our recollection".
+Suggests that the resolutions of 7:45 a.m. and 5:45 p.m. were signed at the closing meeting of September 26, 1995.
+Resolution of 4:45 p.m. prepared by accountants RTDD and signed in or about July 1998.
+Resolutions of 7:45 a.m. and 5:45 pm. signed in or about November 1996.
+[11] With regard to the signature of the additional resolutions, paragraphs 19 and 22 of the Notice of Appeal specify that the inviduals concerned were notified of the error, and of the correction, which was made in the following manner:
+[TRANSLATION]
+19. The accountants presented the situation to the taxpayers as a correction of a mistake related to the "Corporate Reorganization Plan" to which the parties had agreed. They said that it was still normal to date the resolutions as of July 1, 1995 even though they had not been signed on that date, and this seemed completely normal to the taxpayers, since, under the circumstances described above at paragraphs 9 and 10, the entire series of resolutions had not been signed on July 1, 1995, and this had been presented to them as normal and commonplace.
+22. Once again, the taxpayer was invited to sign the resolutions in the same spirit and with the same explanations as to the normal nature of the procedure.
+[12] The Respondent submits that the facts set out in paragraphs 19 and 22 of the Notice of Appeal constitute two judicial admissions. In a letter dated March 23, 2005, to counsel for the Respondent, counsel for the Appellant confirmed as follows:
+(1) The individuals to whom Marco Baril presented the situation as normal based on the statement in paragraph 19 of the Notice of Appeal were Laurent Lemay (who represented the group of persons referred to in paragraphs 1 and 2 of Part D of the "Corporate Reorganization Plan" of June 30, 1995) and Gaston Roy.
+(2) At the time that the new correction was presented, the accountant Marco Baril claimed that the November 1996 corrections had been drafted hastily: a mistake had been made in the sequence, so it was necessary to change the time of the first of two resolutions (the time of the second one was correct). This situation was presented as normal in the context explained in the Notice of Appeal. As has been stated, the people who were given this explanation were Laurent Lemay and Gaston Roy.
+[13] In a subsequent letter to counsel for the Respondent, dated June 29, 2007, the Appellant's lawyers qualified their answer to the request for particulars concerning paragraph 22 of the Notice of Appeal thus:
+[TRANSLATION]
+The accountant Marco Baril has told us that he "soft-pedalled" the situation to the taxpayers without actually revealing that a mistake had been made. Rather, he presented the documents as routine documents that were needed in order to "complete" the transaction of July 1, 1995; in fact, these documents were signed at the same time as the documents required to close out the year.
+[14] Gaston Roy testified at the hearing. He went over the history of Armatures G. Roy Inc. He explained that eight years earlier he had sold 49% of the shares of that company to roughly ten employees who had agreed to a ten‑year salary freeze. The relationship between the parties was governed by a shareholders' agreement. The business was managed according to the "one person, one vote" principle, even for Gaston Roy, who controlled the business. After a union was certified and a collective agreement was signed, Gaston Roy agreed to divest his 51% of the shares of that company, and to acquire 49% of the sugar bush and the school bus division from Armatures G. Roy Inc. Gaston Roy retained Marco Baril, a chartered accountant at RTDD, to explore the possibility of carrying out the transactions in question and making a net profit of $800,000 from them. Marco Baril was the accountant who had prepared Gaston Roy's and his companies' tax returns for several years, and had fulfilled a similar mandate upon the sale of Mr. Roy's 49% stake to a group of employees. Following discussions with the various employee groups, Marco Baril said that the employees had expressed an interest in the proposed transactions and that the transactions could be carried out on the desired financial terms. Marco Baril then received a definitive mandate to structure and finance the transactions.
+[15] A first "Corporate Reorganization Plan" was prepared by the accountants on April 7, 1995. A revised version was dated June 30, 1995. Mr. Baril told his client Gaston Roy that, under the corporate reorganization plan, he would have to pay roughly $100,000 in income tax, 50% of which could be recouped.
+[16] The closing meeting of the corporate reorganization was held at the accountants' offices on September 26, 1995, but the effective date of the transactions was July 1, 1995. The additional time was necessary in order to finalize the financial statements of Armatures G. Roy Inc. as at June 30, 1995, and to compute the accrued earned income as at that date. The legal documentation for the transactions was prepared by Jean Boudreau, a notary based in Princeville.
+[17] In the course of his testimony, Gaston Roy confirmed that he was the Appellant's sole shareholder and director. He explained that, following the signing of the documents related to the sale of his interest in Armatures G. Roy Inc., he made an investment of $100,000 to $110,000 at the local Caisse populaire to cover his estimated income tax liability. When the Appellant's tax returns for the year ended June 30, 1996, which had been prepared by the accountants at RTDD, were signed, Gaston Roy said that he questioned the fact that $100,000 of income tax was not payable. He checked with the accountants, who confirmed that he could sign the Appellant's tax returns as submitted, and that the $100,000 that he had set aside could be used for other purposes. On the basis of the information provided by the accountants, there was no tax to pay because the "accrued earned income" of Armatures G. Roy Inc. as at June 30, 1995, was higher than anticipated. Gaston Roy signed the Appellant's tax returns for the 1996 taxation year on November 13, 1996, and the transaction by which the 26,133 Class E shares of 9022-3512 Québec Inc. were redeemed was treated as though the Appellant was connected to 9022-3512 Québec Inc.
+[18] In the course of his testimony, Mr. Gaston Roy also asserted that he had not signed documents regarding the transaction following the closing meeting, and that he had not been notified in any way by Mr. Boudreau or RTDD that a mistake had been made in the transaction and that additional resolutions had to be signed in order to issue and redeem 115,000 Class B shares of 9022-3512 Québec Inc. Following the meeting of November 2, 1998 with Agency auditors Gagnon and Plourde, Gaston Roy knew that an audit of the transactions was in progress, and he was generally aware of the developments in the matter and of the tax authorities' requests for documents.
+[19] Gaston Roy's testimony was corroborated by that of Marco Baril, the accountant retained to carry out the transactions, who said that he kept Gaston Roy informed about the status of the audit file without referring to the specific steps of the reorganization. Mr. Baril confirmed that the disputed resolutions had been drafted by his firm and that there had been no resolution passed by the Appellant for the subscription and redemption of the 115,000 Class B shares of 9022‑3512 Québec Inc., so as to avoid having to get Gaston Roy to sign them. Moreover, he confirmed that a share certificate for the 115,000 Class B shares had been issued and that an entry had been made in the share ledger. However, Mr. Baril acknowledged that the $115 subscription price of the 115,000 Class B shares had not been paid by the Appellant. Lastly, Mr. Baril acknowledged that he had Laurent Lemay and Daniel Roy sign the disputed resolutions for 9022‑3512 Québec Inc. at the same time as the other year-end resolutions witout formally notifying them that said resolutions pertained to the 1995 reorganization.
+[20] Laurent Lemay and Daniel Roy also testified at the hearing and acknowledged signing the disputed resolutions in the belief that no one would thereby be harmed and with the intent to give effect to the accountants' corporate reorganization plan.
+Analysis
+[21] Since the notice of assessment for the Appellant's taxation year ended June 30, 1996, was issued by the Minister beyond the normal reassessment period, we must consider whether the provisions of subparagraph 152(4)(a)(i) of the Act are applicable under the circumstances.
+[22] Subparagraph 152(4)(a)(i) of the Act reads as follows:
+(4) Assessment and reassessment. Subject to subsection (5), the Minister may at any time assess tax for a taxation year, interest or penalties, if any, payable under this Part by a taxpayer or notify in writing any person by whom a return of income for a taxation year has been filed that no tax is payable for the year, and may
+(a) at any time, if the taxpayer or person filing the return
+(i) has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return or in supplying any information under this Act . . .
+. . .
+reassess or make additional assessments, or assess tax, interest or penalties under this Part, as the circumstances require . . .
+[23] By virtue of subsection 187(3) of the Act, section 152 is applicable to Part IV of the Act with such modifications as circumstances require.
+[24] In the light of the facts referred to above, and the admissions tendered by the Appellant, I have no difficulty finding that the Appellant and the accountants RTDD made a misrepresentation in filing the Appellant's income tax return for its taxation year ended June 30, 1996, that the notary Jean Boudreau and the accountants RTDD made a misrepresentation in supplying information under the Act, and that these misrepresentations were attributable to neglect, carelessness or wilful default.
+[25] Gaston Roy signed the Appellant's tax return on November 13, 1996, on the basis that the Appellant was connected to 9022‑3512 Québec Inc. at the time that the 26,133 Class E shares were redeemed, when in fact it was not.
+[26] Upon preparing the Appellant's income tax return, the accountants RTDD knew that the companies were not connected and that new shares would have to be issued in order to create the connection, hence the resolutions of 7:45 a.m. and 5:45 p.m. According to the handwritten notes of accountant Mario Désilets in a document entitled [TRANSLATION] "Armatures G. Roy Inc. Meeting with Marco", it is acknowledged that the plan as it then existed did not contemplate a connection between the companies. According to the same notes, it was agreed, following discussions, to issue shares and redeem them at the appropriate time, even though it was known that this might be considered an anti-avoidance transaction that ran afoul of the Act. In the course of the audit, the accountant Mario Désilets asserted that the document in question had been drafted before the corporate reorganization program was typed up, when, in reality, as per the Appellant's admissions, it was prepared in November 1996.
+[27] In a letter dated November 19, 1998, the notary Jean Boudreau confirmed that he had drafted the resolutions of 7:45 a.m. and 4:45 p.m. when, in reality, as per the Appellant's admissions, they were prepared by the accountants RTDD. Moreover, Mr. Boudreau asserted that the 7:45 a.m. resolution had been signed at the closing session of September 26, 1996, and that the resolution of 4:45 p.m. had been signed the day after that meeting, when, in reality, as per the Appellant's admissions, the 7:45 a.m. resolution had been signed in November 1996 and the 4:45 p.m. resolution had been signed in or about July 1998.
+[28] Several times in the course of the audit, the accountants Mario Désilets and Marco Baril provided false information to Agency auditors regarding the people who drafted the disputed resolutions, the dates on which they were signed, and the date on which the mistake concerning the 7:45 a.m. resolution was discovered.
+[29] In order to identify the person who prepared the controversial resolutions and ascertain the dates on which they were signed, the Agency auditors had to have laboratory analyses done of the ink and paper used for the said resolutions. The ink analysis was not conclusive, but the paper analysis revealed that the paper used for the 4:45 p.m. resolution was Marque d'Or "Walter Mark" that was first used in January 1997. On the basis of this analysis, there was no way that the 4:45 p.m. resolution could have been prepared and signed in 1995 as the accountants and the notary had claimed. These analyses were ordered by the Agency auditors because they noted differences in typeface between the three disputed resolutions and the other resolutions that were part of the reorganization.
+[30] The exact date on which the 7:45 a.m. and 5:45 p.m. resolutions were signed was not specified. According to the Appellant's admissions, they were signed in November 1996. Since the Appellant's tax returns for the 1996 taxation year were signed by Gaston Roy on November 13, 1996, the evidence does not disclose whether or not the disputed resolutions had already been signed when the Appellant's tax returns were signed and filed.
+[31] In order for subparagraph 152(4)(a)(i) of the Act to apply, the misrepresentation must be attributable to neglect, carelessness or wilful default.
+[32] According to counsel for the Respondent, the misrepresentation must have occurred when the Appellant's tax returns were filed or that information was supplied under the Act, including representations made to the Agency by the Appellant or by agents or accountants acting on the Appellant's behalf.
+[33] Counsel for the Appellant submit that the relevant time to look at in order to determine whether a person has made in a misrepresentation attributable to neglect, carelessness or wilful default in filing the person's tax return must be the time at which the return was filed. They submit that the standard of care that must be followed by a taxpayer in preparing a tax return is that of a reasonably prudent person, and that the return must be presented in a manner that the taxpayer truly believes is correct.
+[34] Regardless of the point in time from which the question whether the Appellant made a misrepresentation is to be determined, the evidence that has been adduced clearly shows that the Appellant made a misrepresentation attributable to wilful default upon filing its income tax return for the 1996 taxation year and that the Appellant's agents, namely the accountants RTDD and the notary Jean Boudreau, supplied false information to the Agency in connection with the audit, thereby contravening subsection 152(4) of the Act.
+[35] In preparing the Appellant's tax returns for the 1996 taxation year, the accountants at RTDD noticed that the accrued earned income of Armatures G. Roy Inc. as at June 30, 1995, was greater than the amount estimated in the [TRANSLATION] "Corporate Reorganization Plan", and that, consequently, it was possible to avoid the tax under Part IV upon the redemption of the Class E shares by causing the companies to be connected, for the purposes of the Act, through the issuance of Class B shares. RTDD prepared the Appellant's tax returns for the 1996 taxation year on the assumption that the Appellant was connected to 9022-3512 Québec Inc.
+[36] In reviewing the Appellant' tax returns for the 1996 taxation year, Gaston Roy notice that the tax payable by the Appellant was roughly $100,000 less than what had been estimated, and he questioned the accountants in this regard. The accountants then explained to him why no tax was payable under Part IV. According to Gaston Roy's testimony, the accountants reassured him and convinced him to sign the tax returns as submitted.
+[37] As a meticulous professional who had Gaston Roy's full confidence and with whom Gaston Roy had been dealing for several years, the accountant Marco Baril certainly explained to him how the connection between the companies concerned was established, namely, through the adoption of two resolutions providing for the issuance and redemption of voting shares of 9022‑3512 Québec Inc., the absence of consequences for the purchasers, and the risk that the tax authorities would apply the general anti-avoidance rule to the transaction. I cannot believe that the accountants at RTDD could have made the decision to create a connection between the companies on their own — a transaction which, in their view, was subject to the general anti‑avoidance rule — without first obtaining Gaston Roy's consent or approval.
+[38] According to the admissions contained in paragraphs 19 and 22 of the Notice of Appeal and the letter by counsel for the Appellant dated March 23, 2005, Gaston Roy was also notified by Marco Baril that additional resolutions in connection with the [TRANSLATION] "Corporate Reorganization Plan" were supposed to have been signed on July 1, 1995. It is odd that the accountant Marco Baril told Gaston Roy about the signing of the additional resolutions, but that the same accountants did not have him sign resolutions by the Appellant contemplating the subscription for the Class B shares of 9022‑3512 Québec Inc. and authorizing their subsequent purchase or redemption, and did not have him sign a cheque from the Appellant in payment of the subscription price of those shares. Lastly, no evidence was tendered to show that the Appellant received the purchase or redemption price of the Class B shares.
+[39] The facts surrounding the issuance and cancellation of the Class B shares of 9022‑3512 Québec Inc. tend to show that these measures constituted retroactive tax planning, not the correction of a mistake in the implementation of the [TRANSLATION] "Corporate Reorganization Plan". It is more than doubtful that the Class B shares were validly issued, given that the subscription price was not paid. Moreover, the $115 subscription price for the 115,000 Class B voting shares of 9022‑3512 Québec Inc. did not reflect the fair market value of the shares. The resolution of 5:45 p.m. referred to a redemption of the Class B shares, but those shares were not redeemable under the corporation's articles. The certificate for the Class B shares was not endorsed by Gaston Roy with a view to authorizing the transfer following their purchase or redemption.
+The penalty
+[40] The penalty assessed against the Appellant is the penalty provided for in subsection 163(2) of the Act. The part of subsection 163(2) of the Act that precedes paragraph (a) reads:
+(2) [False statements or omissions] Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a "return") filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty of the greater of $100 and 50% of the total of
+. . .
+[41] When imposing a penalty under subsection 163(2) of the Act, the Minister has the burden of proof, as provided for in subsection 163(3) of the Act, which reads:
+(3) [Burden of proof in respect of penalties] Where, in an appeal under this Act, a penalty assessed by the Minister under this section or section 163.2 is in issue, the burden of establishing the facts justifying the assessment of the penalty is on the Minister.
+[42] I have already found, for the purposes of subsection 152(4) of the Act, that Gaston Roy knew, on the date that he signed and filed the Appellant's income tax returns for the 1996 taxation year, that the Appellant was not connected to 9022‑3512 Québec Inc. upon the redemption of the Class E shares; that it was necessary to issue voting shares of 9022‑3512 Québec Inc. to the Appellant in order to create the connection; and that the Appellant ran the risk of the transaction being disallowed by the tax authorities based on the general anti-avoidance rule.
+[43] The judicial admissions contained in paragraphs 19 and 22 of the Notice of Appeal, to which details were added but which were not denied, prove that Gaston Roy knew that the additional resolutions were signed in order to issue voting shares of 9022-3512 Québec Inc. to the Appellant.
+[44] The Appellant, through its sole shareholder and director Gaston Roy, knowingly participated in, assented to or acquiesced in a scheme involving the retroactive creation of a connection between the Appellant and 9022‑3512 Québec Inc. for the purpose of avoiding the payment of tax under Part IV of the Act.
+[45] Consequently, I am satisfied that the Respondent has shown, on a balance of probabilities, that the imposition of the penalty provided for in subsection 163(2) of the Act on the Appellant in respect of its 1996 taxation year was warranted.
+[46] For these reasons, the appeals are dismissed, with costs.
+Signed at Ottawa, Canada, this 21st day of May 2009.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 29th day of June 2009.
+François Brunet, Revisor
+CITATION: 2009 TCC 255
+COURT FILE NO.: 2004-3945(IT)G
+STYLE OF CAUSE: Gestion Foret-Dale Inc. and Her Majesty the Queen
+PLACE OF HEARING: Montréal, Quebec
+DATES OF HEARING: February 5 and May 8, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: May 21, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Paul Ryan and Kathy Kupracz
+Counsel for the Respondent:
+Martin Gentile
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Paul Ryan and Kathy Kupracz
+Firm: Ravinsky Ryan Lemoine LLP
+Montréal, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

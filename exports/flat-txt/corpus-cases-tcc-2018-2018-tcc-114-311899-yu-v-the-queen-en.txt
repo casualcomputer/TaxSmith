@@ -1,0 +1,102 @@
+Title: Yu v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/311899/index.do
+Corpus path: corpus/cases/tcc/2018/2018-tcc-114-311899-yu-v-the-queen-en.md
+Document type: case_law
+Last modified: 2018-06-20
+
+# Yu v. The Queen
+
+- Citation: 2018 TCC 114
+- Decision date: 2018-06-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5089, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Yu v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-06-20
+Neutral citation
+2018 TCC 114
+File numbers
+2015-700(IT)I
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2015-700(IT)I
+BETWEEN:
+WEI XIN YU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on October 2, 2017, at Victoria, British Columbia.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Kayla Baldwin
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act for the 2009 and 2010 taxation years is dismissed, without costs, in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 20th day of June 2018.
+“Patrick Boyle”
+Boyle J.
+Citation: 2018 TCC 114
+Date: 20180620
+Docket: 2015-700(IT)I
+BETWEEN:
+WEI XIN YU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Boyle J.
+[1] Wei Xin Yu commenced her appeal under the general procedure rules of the Court in February 2015. She subsequently elected to have the informal procedure rules apply. After two adjournments, the hearing proceeded in October 2017 in Victoria, British Columbia. Ms. Yu was the only witness.
+[2] The issues raised by Ms. Yu in her appeal are in respect of disallowed business expenses and disallowed expenses relating to rental properties and/or recharacterization of rental property expenses as capital expenditures.
+[3] The Appellant described herself as a member of the Academy of Naturopaths and Naturotherapists of Canada. The Appellant carried on a massage parlor business in the cities of Victoria and Ottawa under the name Asian Massage Studio or Asian Natural Therapy.
+[4] The business location in Victoria closed at some point in early 2010 after criminal charges of keeping a common bawdy house were laid against the Appellant. The Appellant testified that being able to continue her Ottawa location required that the owner have a clean criminal record in order to be licensed by the city.
+[5] It appears that the largest disallowed business expense was in respect of legal expenses incurred to defend the criminal charges and to have custody of her young daughter returned to her after she was the subject of a child protection order upon the charges being laid. In addition, there are a number of other business expenses described by the Appellant including food and other supplies for her masseuses and plane tickets for herself, her masseuses and her daughter, for travel between Victoria and Toronto in the cases of the masseuses and between Victoria and Ottawa for herself and her daughter.
+[6] The Appellant owned or co‑owned with her ex‑partner more than one rental property, one of which was used at least for a time as the Victoria location of her business. The most significant amount identified as a disallowed rental expense is the interest differential penalty paid by the Appellant upon the refinancing of one of the properties to secure a lower interest rate. There is no evidence before the Court of what the borrowed money secured against that property was used for.
+[7] At the hearing last October, Ms. Yu arrived without any supporting documents which she said she had and would be able to obtain for the Court.
+[8] The Court at that time agreed to give her a period of four weeks to provide the supporting documentation she said she had. From her testimony this was expected to have included (i) all of the receipts, (ii) accounting records to back up expenses including legal expenses, (iii) a copy of the criminal charge and its dismissal, (iv) perhaps a self‑employment contract in respect of the masseuses, (v) a business card and a photo of Asian Natural Therapy, and (vi) advertisements for the Asian natural massage business in community newspapers. Nothing was received. The Court ordered a telephone conference continuation of the hearing to discuss how the parties wanted argument to proceed. During that telephone hearing on January 19, 2018, Ms. Yu asked for a further extension to provide documents to the Court to corroborate and support her testimony. This was denied. The parties were given 60 days to file their written submissions.
+[9] At the October 2017 hearing in Victoria, the Appellant provided testimony that was of a broad and general nature and lacking in details, and that focused almost entirely upon the legal expenses. The only amounts given to the Court were that legal expenses in respect of the criminal charges were more than $50,000 and, in respect of the child custody and protection matter, were more than $20,000. There was nothing to support these amounts by way of records of the law firm, banking records, cheques or anything similar, nor was it clear that different counsel attended to the two distinct matters rendering allocation of the legal expenses unnecessary. The only other amount described in the Appellant’s testimony was $29,000 payable as the interest differential penalty upon the refinancing of one of the rental properties. No documentation from the bank relating to the original refinancing of the property, the refinancing giving rise to the penalty, a mortgage statement of any sort, or any like evidence was provided to the Court. In short, the Court has been provided nothing to corroborate the testimony of the Appellant on even these two expenses which she did try to describe.
+[10] This appeal must be dismissed because the Appellant has quite simply failed to discharge the onus on her to satisfy the Court with sufficient understandable and credible evidence to establish that any of the expenses in issue were incurred or related to either her business or her rental income generating activities. It would be fair to say that the Appellant did not so much as put a dent in, much less demolish, any of the Respondent’s assumptions set out in paragraph 14 of the reply to the notice of appeal.
+[11] The appeal is dismissed without costs.
+Signed at Ottawa, Canada, this 20th day of June 2018.
+“Patrick Boyle”
+Boyle J.
+CITATION:
+2018 TCC 114
+COURT FILE NO.:
+2015-700(IT)I
+STYLE OF CAUSE:
+WEI XIN YU v. THE QUEEN
+PLACE OF HEARING:
+Victoria, British Columbia
+DATE OF HEARING:
+October 2, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT:
+June 20, 2018
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Kayla Baldwin
+COUNSEL OF RECORD:
+For the Appellant:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

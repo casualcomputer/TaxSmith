@@ -1,0 +1,143 @@
+---
+title: "Martinello c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29950/index.do"
+last_modified: "2010-08-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 432"
+citation2: ""
+neutral_citation: "2010 CCI 432"
+decision_date: "2010-08-23"
+language: "fr"
+item_id: "29950"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6466
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:38:44.118000+00:00"
+cases_cited_count: 5
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9dfe2f7650f86fa0aae62bb97089247a8df9fcc26700efe4a7ca086b20084a98"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Martinello c. La Reine
+
+- Citation: 2010 CCI 432
+- Decision date: 2010-08-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6466, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Martinello c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-08-23
+Référence neutre
+2010 CCI 432
+Numéro de dossier
+2008-3653(IT)I
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-3653(IT)I
+ENTRE :
+MARQUITA MARTINELLO,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 14 juillet 2010, à Yarmouth (Nouvelle‑Écosse).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Représentant de l’appelante :
+M. Charles Martinello
+Avocate de l’intimée :
+Me Melanie Petrunia
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu relativement aux années d’imposition 2004 et 2005 de l’appelante sont accueillis avec dépens, et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelles cotisations conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 23e jour d’août 2010.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme ce 25e jour d’octobre 2010.
+Marie-Christine Gervais
+Référence : 2010 CCI 432
+Date : 20100823
+Dossier : 2008-3653(IT)I
+ENTRE :
+MARQUITA MARTINELLO,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Boyle
+[1] La contribuable, Marquita Martinello, est propriétaire de trois modestes maisons rectangulaires en bois qui comptent un étage et demi, mesurent 20 pi x 22 pi et se trouvent en Nouvelle‑Écosse. Elle est propriétaire de ces maisons et elle les loue depuis de nombreuses années. À l’exception de 2005, elle en a toujours tiré un revenu de location net positif. Il s’agit en l’espèce de savoir si le coût de certaines réparations effectuées en 2005 à l’une des maisons en raison de dommages causés par des locataires et par une tempête de la force d’un ouragan, et de dommages connexes causés par l’eau et par l’humidité était déductible à titre de dépenses courantes ou s’il devait être inscrit à l’actif. Le coût des travaux réalisés n’est pas contesté.
+[2] Les maisons sont semblables. Celle qui est en cause a été construite au cours des années 1970 et la contribuable l’a achetée dans les années 1980 pour une somme de 20 000 $ à 25 000 $. Elle est dépourvue de fondations autres qu’une semelle de béton et de blocs de granite sur lesquels reposent les solives et les appuis du plancher.
+[3] Pendant ses années de travail, l’époux de la contribuable travaillait dans le domaine de la construction et c’est lui qui, de façon générale, s’était chargé d’entretenir les maisons au fil des ans. M. Martinello a été le seul témoin de la contribuable et il a agi comme son représentant avec l’aide de sa fille. Le témoignage de M. Martinello était complet et franc, bien structuré et clairement présenté. J’accepte l’ensemble de son témoignage sans hésitation.
+[4] En 1996, M. et Mme Martinello ont obtenu un prêt hypothécaire d’environ 15 000 $ pour apporter des améliorations aux maisons avant leur location. On a remplacé les portes et les fenêtres et rénové la plomberie et l’électricité. Ces coûts ont été inscrits à l’actif par la contribuable.
+[5] Aucune autre amélioration n’a été apportée aux maisons, lesquelles ne nécessitaient qu’un entretien régulier de même que des travaux de nettoyage et de peinture entre les locataires. M. et Mme Martinello se chargeaient eux‑mêmes de ces travaux à peu de frais.
+[6] En octobre 2004, une tempête de la force d’un ouragan a causé des dommages importants à la maison, rendant celle‑ci inhabitable pendant un certain temps. Les vents ont secoué ou soulevé la maison de sorte qu’elle n’était plus tout à fait sur sa fondation et la principale poutre ou le principal appui de plancher en bois a cédé. Comme on aurait pu s’y attendre, l’humidité, au fil des ans, avait affaibli les appuis et les solives exposés à la terre se trouvant en dessous. Cette situation a entraîné l’affaissement d’une grande partie du plancher restant ainsi que le bris des solives, lesquelles avaient également été affaiblies par l’humidité avec le temps. De plus, les eaux d’orage s’étaient engouffrées sous la maison, la plupart des planchers et certaines parties des murs latéraux se sont retrouvés dans la boue. La tempête a en outre fait tomber la vieille cheminée, qui n’était plus utilisée.
+[7] L’usure et certains dommages occasionnés par les locataires avaient également détérioré l’état de la maison, et il fallait effectuer les réparations nécessaires en même temps. M. Martinello n’était plus assez jeune pour effectuer lui‑même les travaux requis, mais il a néanmoins supervisé la réalisation de ceux‑ci.
+[8] Les plus importants frais de réparation visaient le plancher. La maison a été placée sur des piliers, puis soulevée à l’aide de crics. Les semelles existantes ont été redressées et renforcées avec d’autre ciment. La boue, la terre et les débris ont été enlevés. De nouveaux appuis et de nouvelles solives de plancher étaient nécessaires pour remplacer les anciens. De nouvelles planches de plancher ont été utilisées au besoin. Cette partie des travaux a nécessité l’obtention, auprès de la Ville de Shelburne, d’un permis pour réparations selon lequel on autorisait [traduction] « le soulèvement de la maison et la réparation des solives et du plancher ».
+[9] Comme la maison était soulevée, on a également coupé la partie inférieure des murs sur une hauteur d’environ un pied pour enlever l’extrémité pourrie et en renforçant la structure au moyen d’une section de nouveaux montants.
+[10] Lorsque la maison a été replacée sur la fondation, il a fallu rebrancher la plomberie existante à la canalisation d’égout en place. La pompe et le réservoir à eau situés sous la maison ont été réparés et de nouvelles pièces se sont révélées nécessaires en raison des dommages que l’eau et le sol détrempé avaient causés à la pompe électrique.
+[11] L’alimentation électrique de la maison a été coupée pendant les travaux de réparation et devait être rétablie. L’inspecteur a ordonné que les canalisations électriques de la maison (qui avaient antérieurement été remplacées) soient remplacées à nouveau en raison du risque de dommages importants causés par la corrosion des canalisations se trouvant sous les planchers et au bas des murs.
+[12] La cheminée écroulée a entièrement été enlevée et la toiture et les murs ont été réparés. Les bardeaux bitumés de cette moitié de la toiture ont été remplacés. L’ancien parement en aluminium qui pouvait être récupéré a été réutilisé sur les murs pignons de la maison et un revêtement neuf et bon marché en vinyle a été utilisé pour le bas de la maison. Les soffites et les bordures de toit endommagés ont été réinstallés ou remplacés. La gouttière en vinyle de ce côté de la maison a été soit réinstallée, soit remplacée.
+[13] À l’intérieur, la partie inférieure des murs de l’escalier a été remplacée sur une hauteur de 12 à 24 pouces par de nouveaux panneaux muraux. Le mur où se trouvait la cheminée a aussi été réparé avec un panneau dur ou un panneau mural. On a enlevé la boue et les débris, puis on a repeint l’intérieur là où c’était nécessaire. Lorsque les armoires de cuisine du bas, qui étaient en bois, ont été réinstallées, le fond de l’une d’elles a dû être remplacé par un nouveau panneau à cause de la pourriture.
+[14] Le petit vestibule en bois attenant situé à l’entrée arrière et le modeste balcon au ras du sol ont dû être remplacés.
+[15] Des photographies de la maison réparée ont été produites en preuve. M. et Mme Martinello ont consacré pas mal de temps et d’argent à réparer la maison pour la remettre dans son état initial où elle pouvait être loué. Manifestement, M. Martinello appartient à la génération souvent caractérisée par une grande frugalité. Leur bien locatif, qui était soudainement devenu inhabitable, est redevenu habitable. Depuis les réparations, la maison a été louée de façon rentable au même loyer qu’avant et au même loyer que celui exigé pour les deux autres maisons locatives. Leur vieille maison à l’allure quelque peu fatiguée et délabrée était maintenant devenue une vieille maison retapée, fatiguée et à l’allure quelque peu délabrée qui ne pouvait, semble‑t‑il, justifier un loyer plus élevé qu’auparavant.
+[16] Toutes ces réparations ont été rendues nécessaires par suite de dommages causés par les locataires, de l’usure normale, de la dépréciation ou de la détérioration de la maison pendant sa location ou de dommages causés par la tempête en cours de location. Les réparations n’ont en aucune façon amélioré l’état de la maison au‑delà de celui dans lequel elle se trouvait initialement. Les évaluations de la juste valeur marchande réalisées pour les besoins de la taxe municipale pour les années antérieures et postérieures à 2005 sont pour l’essentiel inchangées. Dans les circonstances, je suis convaincu que les frais supportés au titre des réparations et de l’entretien étaient à bon droit déductibles comme dépenses courantes et n’avaient pas à être inscrits à l’actif, même si ces travaux ont tous été effectués simultanément. La déduction à titre de dépenses courantes est celle qui convient le mieux pour les dépenses imputées au revenu tiré de la maison pendant que celle‑ci se détériorait ou était endommagée.
+[17] Manifestement, les préoccupations de l’Agence du revenu du Canada (l’« ARC ») découlaient du fait que la contribuable avait obtenu un remboursement de TPS pour habitations neuves au titre du coût des réparations parce que la maison avait fait l’objet de rénovations majeures. Bien qu’il semble évident que ces réparations n’étaient probablement pas admissibles au titre du remboursement de TPS pour habitations neuves, les travaux réalisés afin de rendre une maison à nouveau habitable après qu’elle soit soudainement devenue inhabitable peuvent constituer un projet important qui, en langage ordinaire, serait considéré comme une rénovation majeure. De plus, la vérificatrice de l’ARC qui a témoigné en l’espèce a reconnu que, comme la maison était louée, les réparations effectuées par le propriétaire auraient, de toute façon, probablement donné droit à un remboursement comparable de TPS compte tenu des circonstances.
+[18] Dans son témoignage, la vérificatrice de l’ARC a mentionné que c’était elle qui avait agi comme vérificatrice de la TPS chargée d’examiner la demande de remboursement de TPS faite par M. et Mme Martinello. Après avoir parlé avec M. Martinello, elle avait droit à la demande de remboursement de TPS. En revanche, dans le cadre de l’examen de la demande de remboursement de la contribuable, elle avait pris connaissance des déclarations de revenus de Mme Martinello et elle avait remarqué que ces réparations avaient donné lieu à une perte locative pour l’année tandis que les années antérieures avaient été rentables. Elle a donc informé le service de la vérification de l’impôt sur le revenu de cet [traduction] « indice » selon lequel la perte découlait peut‑être d’améliorations qui auraient dû être inscrites à l’actif. La vérificatrice de l’ARC s’est ensuite jointe au service de la vérification de l’impôt sur le revenu où elle a été chargée de vérifier le cas sur lequel elle avait elle‑même attiré l’attention. Je suis très étonné que l’ARC permette à des vérificateurs de vérifier un indice qu’ils ont eux‑mêmes découvert. Manifestement, il était prévisible que la vérificatrice, comme elle avait déjà décidé que les travaux constituaient des rénovations majeures aux fins du remboursement de TPS pour habitations neuves, arrive à la conclusion que les dépenses auraient dû être inscrites à l’actif. On ne peut lui en faire le reproche. Cependant, un vérificateur différent qui aurait posé un regard neuf sur la situation aurait peut‑être constaté, après une enquête plus approfondie et d’autres discussions avec M. Martinello, que les coûts n’auraient pas dû être admissibles aux fins du remboursement de TPS pour habitations neuves, mais qu’ils étaient plutôt déductibles comme dépenses courantes aux fins de l’impôt sur le revenu.
+[19] Monsieur Martinello avait consulté un fonctionnaire de l’ARC par téléphone et on lui avait fait parvenir le guide de l’ARC intitulé Revenus de location. Il avait compris, comme il est énoncé dans ce document qu’« [u]ne dépense que vous faites en vue de remettre un bien dans son état initial est normalement une dépense courante […] » et qu’« [u]ne dépense faite pour réparer un bien en remplaçant une de ses parties est habituellement considérée comme une dépense courante ». Le guide donne ensuite l’exemple de l’installation électrique d’une maison, laquelle est considérée comme faisant partie du bâtiment. De toute évidence, la contribuable en l’espèce n’a fait rien de plus que de remettre la maison dans son état antérieur.
+[20] Les faits dans les décisions invoquées par l’intimée ne peuvent pas être comparés à ceux dont je suis saisi. Dans l’affaire Albayate et al. c. La Reine, 2008 CCI 24, 2008 DTC 2536, et l’affaire Fiore et al. v. The Queen, 93 DTC 5215 (CAF), à laquelle on renvoie dans la décision Albayate, ainsi que dans l’affaire Nguyen c. La Reine, 2007 CCI 574, il était question de dépenses effectuées pour réparer un bien après son acquisition, mais avant que le contribuable ne l’utilise en vue d’en tirer un revenu. Il est évident que ce genre de dépenses doit normalement faire partie du coût en capital du bien. Il s’agissait de la première fois où le bien était mis en état d’être loué.
+[21] De même, dans la décision Fotherby c. La Reine, 2008 CCI 343, 2008 DTC 4186, il y a eu des dommages causés par un incendie et un ouragan avant que la contribuable ne décide d’utiliser le bien d’une façon particulière en vue d’en tirer un revenu. Dans les affaires Leclerc v. Canada, [1998] 2 C.T.C. 2578 (CCI), et Speek (P.) v. Canada, [1994] 2 C.T.C. 2422 (CCI), auxquelles on renvoie dans la décision Fotherby, les maisons avaient subi des dommages considérables causés par le feu. Elles avaient été démolies et de nouvelles maisons avaient été construites. De toute évidence, dans ce genre de situation, le coût d’une nouvelle maison doit être inscrit à l’actif (et, vraisemblablement, le coût en capital de la maison démolie a donné lieu à une perte finale).
+[22] Les appels de Mme Martinello sont accueillis avec dépens.
+Signé à Ottawa, Canada, ce 23e jour d’août 2010.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme ce 25e jour d’octobre 2010.
+Marie-Christine Gervais
+RÉFÉRENCE : 2010 CCI 432
+NO DU DOSSIER DE LA COUR : 2008-3653(IT)I
+INTITULÉ : Marquita Martinello c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Yarmouth (Nouvelle‑Écosse)
+DATE DE L’AUDIENCE : Le 14 juillet 2010
+MOTIFS DU JUGEMENT : L’honorable juge Patrick Boyle
+DATE DU JUGEMENT : Le 23 août 2010
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Charles Martinello
+Avocate de l’intimée :
+Me Melanie Petrunia
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,178 @@
+Title: Sister Red Enterprises Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27440/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-54-27440-sister-red-enterprises-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-02-05
+
+# Sister Red Enterprises Inc. v. The Queen
+
+- Citation: 2007 TCC 54
+- Decision date: 2007-02-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 196, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sister Red Enterprises Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-02-05
+Neutral citation
+2007 TCC 54
+File numbers
+2004-4749(IT)I
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-4749(IT)I
+2005-3398(IT)I
+BETWEEN:
+SISTER RED ENTERPRISES INC.,
+and DORIS KERTESZ
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard together on August 10, 2006, at Montreal, Québec, by
+The Honourable Justice C.H. McArthur
+Appearances:
+Agent for the Appellants:
+Sidney Feldhammer
+Counsel for the Respondent:
+Vlad Zolia
+____________________________________________________________________
+JUDGMENT
+The appeals from assessments of tax made under the Income Tax Act for the 2000 and 2001 taxation years are allowed and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 5th day of February, 2007.
+"C.H. McArthur"
+McArthur J.
+Citation: 2007TCC54
+Date: 20070205
+Docket: 2004-4749(IT)I
+2005-3398(IT)I
+BETWEEN:
+SISTER RED ENTERPRISES INC.,
+and DORIS KERTESZ
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+McArthur J.
+[1] These appeals for the 2000 and 2001 taxation years with respect to Sister Red Enterprises Inc. (the corporation) and Doris Kertesz's (Doris) were heard on common evidence. The appeals deal with the deductibility and inclusion of certain expenses. Doris was the controlling mind of the corporation. The following expenses were disallowed as corporate expenses for the relevant years, and were included in Doris' income by the Minister of National Revenue (the Minister):
+Description
+2000
+2001
+Automobile & Travel
+$11,197
+$11,827
+Promotion
+4,016
+4,058
+Interest & Bank Charges
+6,295
+4,797
+Rent
+1,200
+1,200
+Total
+$22,708
+$21,882
+In addition, the Minister assessed Doris by including a deemed interest benefit of $8,516 and $412 in her 2000 and 2001 taxation years, respectively, and added $3,269 as a capital gain to her income for the year 2000. A late filing fee imposed on the corporation was conceded by the Appellants, and the promotion fee issue was withdrawn by both Appellants. The expenses were disallowed by the Minister primarily because on the grounds that there was a lack of documentation, and the expenses were personal.
+[2] I find as a fact that Doris was an employee of the corporation which was in the business of subcontracting newly manufactured clothing. Similar to the case of Kowalchuk v. R.,[1] Doris was an employee and officer and director of the corporation. In Kowalchuk, Justice Campbell reviewed the definitions at subsection 248(1) of the Income Tax Act, the (Act) for the terms employee and officer, and she determined that a director of a corporation is an "officer" and by extension is included in the term "employee". The sole director, Mr. Kowalchuk, was actively involved in the day-to-day activities of the company, and it would be impossible for the company, as is the case for Sister Red Enterprise, to conduct its business without the services of Mr. Kowalchuk as an employee.[2] Furthermore, her determination as an employee is supported by the documentary evidence that she received a "salary" from the corporation of $16,000 set up in 2000 and paid in the year 2001.[3]
+[3] Doris ran the corporation's business from her home, although she spent time in her vehicle (Lexus) travelling to a rented warehouse space, and to the offices of suppliers and purchasers. The Minister accepts the allocation by the corporation of 10% of the use of Doris' house, and 10% of the overall maintenance costs, amounting to $2,400 for business purposes. The Minister maintains that the $2,400 must be included in Doris' personal income pursuant to subsection 18(12) of the Act which states:
+Notwithstanding any other provision of this Act, in computing an individual's income from a business for a taxation year,
+(a) no amount shall be deducted in respect of an otherwise deductible amount for any part (in this subsection referred to as the "work space") of a self-contained domestic establishment in which the individual resides, except to the extent that the work space is either
+(i) the individual's principal place of business, or
+(ii) used exclusively for the purpose of earning income from business and used on a regular and continuous basis for meeting clients, customers or patients of the individual in respect of the business;[4] [emphasis added]
+[4] Interpretation Bulletin IT-519 notes that it is not necessary for the office in the home to be used exclusively for business to qualify as a principal place of business.[5] In Doris' case, even though only 10% of her residence was used as a corporate home office, it is nevertheless the place where she did all of her administration, banking, and business planning. The corporation's home office was in Doris' home, and the Minister's claim that she probably did the rest of her administrative work from the warehouse was not proven or thoroughly investigated. The home office of the corporation was where the business side of its subcontracting and clothing business took place. It fulfills the conditions of a principal place of business pursuant to subparagraph 18(12)(a)(i) of the Act, and the corporation is entitled to deduct the $2,400 per year for rent as claimed.
+[5] The $200 monthly rent to Doris is properly included in her income, but I am satisfied she incurred offsetting rental expenses resulting in no rental tax payable.
+Automobile
+[6] From the perspective of the corporate Appellant, the issue is to determine what proportion of Doris' Lexus was attributed to use for earning business income as opposed to personal use.[6] Mr. Hum, the Minister's auditor estimated that in the absence of logbooks, the Lexus was used for personal purposes at least 49% of the total distance travelled annually. This calculation was based on the estimate of 5,895 kilometres travelled from a total of 17,000 kilometres annually. The auditor then, somewhat arbitrarily, estimated a business purpose use of only 5,000 kilometres annually.
+[7] Paragraph 18(1)(a) of the Act specifically denies a deduction, with the exception of those outlays and expenses which are made for the purpose of gaining or producing income from a business or property. Section 67 of the Act may be applied to determine the reasonableness in the circumstances of the permitted deduction, as a "means to controlling excessive or unwarranted expenditures".[7]
+[8] The Minister's calculation of the amount of personal use for the automobile is based on his determination of the distance between the personal residence of Doris and the warehouse. The result of 8,595 kilometres annually was considered as "travel undertaken by a worker between his place of residence and his place of work is travel of a personal nature and thus not deductible". This position is inapplicable having found that the Appellant's home was the principal place of business of the corporation and that the driving from the corporation office to the warehouse is a business use of the Lexus. At the very minimum, the 8,595 kilometres traveled annually should be tabulated as distances travelled for the purpose of gaining or producing income from the business.
+[9] The onus is on the taxpayer to provide sufficient evidence to prove that the Minister's assumptions and assessments were unwarranted, and that the expenses were indeed incurred for the purpose of earning business income.[8] While no log books were kept, I accept Doris' evidence that she travelled beyond the warehouse for business purposes of the corporation.
+[10] It is reasonable in the circumstances that the corporation be allowed the following amounts as expenses incurred for the purpose of earning business income:
+Description
+2000
+2001
+Kilometres driven for business purposes annually
+8,595
+8,595
+Tax free car allowances: prescribed rate section 7306 of the Regulations for the first 5,000 kms
+$0.37
+$0.41
+Total allowance pursuant to paragraph 18(1)(r) of the Act
+$3,180.15
+$3,523.95
+The corporate Appellant and Doris did not claim any capital cost allowance. The Minister had confirmed the reassessments, allowing $1,850 and $2,050 as expenses incurred by the corporation for business purposes for the 2000 and 2001 taxation years, respectively. According to the reasons I have given, these amounts will be adjusted to $3,180.15 and $3,523.95 for the 2000 and 2001 years, respectively. I have no doubt that the Lexus was used by the corporation for business purposes, travelling to and from suppliers and purchasers. In the absence of invoices and other relevant documentation, I allow the further amount of $5,000 per annum automobile expense for the corporation. The corporation used Doris' Lexus. The sum of $400 per month is deemed to have been paid to Doris by the corporation as a rental fee and is deemed to be included in the corporation's automobile expense allowance. As owner of the Lexus, the $400 rental fee is to be included in her personal income. There was no evidence to establish that Doris had offsetting automobile expenses. This is an informal procedure hearing. It is not an audit and I am not an auditor. The amounts arrived at, although rough and ready, appear to be fair under the circumstances. Obviously, this case should have been settled by the parties.
+Interest and Bank Charges
+[11] The corporation claimed $6,388 and $5,300 for the 2000 and 2001 taxation years, respectively as "Interest and bank charges". I believe the corporation's agent, Mr. Feldhammer, referred to this issue as "the deemed benefit on the investment". In support of its claim the corporation submitted two letters from Berkeley Management & Finance Limited.[9]
+[12] The first letter reads as follows:
+17th September 2003
+To the Settlor of the Sister Red Trust
+We hereby confirm that an amount of €95,892.59 was received for the above Trust on 1st September 1999. Of this amount, €4,165.58 ( £ 2700) was transferred to the Trustees to be used for fees and the balance of €91,727.01 sent to Scottish Mutual to be invested in their € With Profits Bond.
+Scottish Mutual physically received €91673.52 on 13th September and this is the amount they invested.
+Should you require any further clarification, please do not hesitate to contact me.
+The second letter dated January 17, 2001, refers to €1,400 in fees.
+[13] The Sister Red Trust sent Berkeley €95,892, approximately $148,000 for investment, and incurred fees of €4,165.58, approximately $6,388 in 1999. The fees appear to have been for the 1999 taxation year and not the years under appeal, 2000 and 2001 respectively. In any event, the investment amount of €95,892 belongs apparently to the Sister Red Trust, which is not a party to these appeals. Other than the oral testimony of Doris and Mr. Feldhammer, there is no evidence to establish that Sister Red Trust and Sister Red Enterprises Inc. are one and the same. The investor obviously was clearly described to Berkeleyas Sister Red Trust. Mr. Feldhammer explained that he intended to have Berkeley "send us the necessary papers to have the investment transferred from Sister Red Trust to the corporation so it would be in the new company. When the sale did not happen, we never applied for any of these papers". This is simply not enough for the following reasons of Linden J.A. in Friedberg v. Canada:[10]
+In tax law, form matters. A mere subjective intention, here as elsewhere in the tax field, is not by itself sufficient to alter the characterization of a transaction for tax purposes. If a taxpayer arranges his affairs in certain formal ways, enormous tax advantages can be obtained, even though the main reason for these arrangements may be to save tax (see The Queen v. Irving Oil 91 D.T.C. 5106, per Mahoney J.A.). If a taxpayer fails to take the correct formal steps, however, tax may have to be paid. If this were not so, Revenue Canadaand the courts would be engaged in endless exercises to determine the true intentions behind certain transactions. Taxpayers and the Crown would seek to restructure dealings after the fact so as to take advantage of the tax law or to make taxpayers pay tax that they might otherwise not have to pay. While evidence of intention may be used by the Courts on occasion to clarify dealings, it is rarely determinative. In sum, evidence of subjective intention cannot be used to 'correct' documents which clearly point in a particular direction.
+[15] Mr. Feldhammer had provided the Minister's auditor with forms "Relevé de Compte" (Relevé) and "État de Compte" (État), referring to goods and services tax (GST) and Quebec Sales Tax (QST). The Relevé which was dated February 21, 2002 included net tax for GST/QST of $3,737.44.[11] The État of February 27, 2002, included net tax of $1,059.50.[12] These amounts were collected by the corporation to be paid to the federal and provincial government. The Minister rightly disallowed this amount as an expense.
+[16] With respect to the question of capital gain, this was not covered in the Minister's Reply and the Notice of Appeal was of no assistance whatsoever.
+[17] In 1999, Sister Red Trust sent approximately $148,000 to Berkeleyfor investment. As found earlier Sister Red Trust was not assessed. There is no evidence before me with respect to the legal status of Sister Red Trust, and I am not prepared to make an inference. What we are left with is that the investment funds belonged to the trust although, I believe, the corporation records the amount as being paid out ($142,476.39) in 1999, returning to the corporation in 2000 in the amount of $140,000.
+[18] Mr. Feldhammer describes the investment as follows:[13]
+We come to the really strange one which is the capital gain. Mr. Hum and yourself have stated that we never provided any documents. Where did Mr. Hum come up with a fair market value if we never provided documents. There is no gain because there was no transaction. The amount of the transaction was a $148,771 in 1999 and we cancelled it by journal entry in the year 2000. How there can be a capital gain, especially when you are stating there were no documents given? Can't happen. Something must have been given which you are not showing here.
+I accept this explanation, as cursory as it is. In any event, I have accepted that the investment money belonged to Sister Red Trust, and the Trust was not assessed. The matter with respect to Berkeley Management & Finance Limited is not properly assessed to either of the two named Appellants.
+[19] In conclusion, I find the following:
+(i) Office rental - the corporation: The corporation is allowed to deduct a total of $2,400 in each of the two years, 2000 and 2001 as expense incurred for the rent of space, in Doris' home for business purposes.
+(ii) Office rental - Doris: The rental amount of $2,400 per year for 2000 and 2001 is to be included in Doris' income but she is entitled to offset this income with home expenses of an equal amount.
+(iii) Automobile - the corporation: The corporation is allowed $8,180.15 and $8,523.05 automobile expenses for the 2000 and 2001 taxation years, respectively.
+(iv) Doris: Only the rental amount of $400 per month is to be included in her income under automobile and travel for a total of $4,800 in 2000 and $4,800 in 2001.
+(v) Promotion: Remains as assessed for both Appellants.
+(vi) Interest and bank charges - the corporation: Remains as assessed. The Minister correctly disallowed the amounts of $6,295 and $4,797 for the 2000 and 2001 taxation years, respectively.
+(vii) Interest charges - Doris: The sum of $6,295 is not to be included in her income for 2000.
+(viii) Deemed interest benefit - Doris: No amount is to be included in Doris' income for 2000 and 2001 described as "deemed interest benefit on loan or debt".
+(ix) Late filing penalty - the corporation : The corporation's late filing penalty pursuant to subsection 162(1) was correctly imposed by the Minister on the corporation for its 2000 taxation year.
+Signed at Ottawa, Canada, this 5th day of February, 2007.
+"C.H. McArthur"
+McArthur J.
+CITATION: 2007TCC54
+COURT FILE NO.: 2004-4749(IT)I and 2005-3398(IT)I
+STYLE OF CAUSE: Sister Red Enterprises Inc. and
+Doris Kertesz and Her Majesty The Queen
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: August 10, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice C.H. McArthur
+DATE OF JUDGMENT: February 5, 2007
+APPEARANCES:
+Agent for the Appellants:
+Sidney Feldhammer
+Counsel for the Respondent:
+Vlad Zolia
+COUNSEL OF RECORD:
+For the Appellants: N/A
+Name: N/A
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2005 DTC 1754 (TCC) at para. 25.
+[2] Ibid.
+[3] Exhibit R-1, supra note 4. See also pleadings of Mr. Sidney Feldhammer at p. 117.
+[4] Income Tax Act, R.S.C. 1985 (5th supp.), c. 1 as amended, s.18(12).
+[5] M.N.R., Interpretation Bulletin IT-514, "Work Space in home expenses" (February 3, 1989) at para. 2.
+[6] Boury v. R., 2005 DTC 596 at para. 4 (TCC).
+[7] Hammill v. R., 2005 F.C.A. 252 at para. 52 (FCA) aff'd 2004 DTC 3271 (TCC) [Hammill cited to FCA].
+[8] Graves v. Canada, 90 DTC 6300 at para. 20-23 (FCTD).
+[9] Exhibit R-1, Tabs 15 and 16.
+[10] 92 DTC 6031.
+[11] Exhibit R-1, Tab 18.
+[12] Exhibit R-1, Tab 19.
+[13] Transcript page 122, lines 3 to 13.

@@ -1,0 +1,260 @@
+---
+title: "Bansal c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29926/index.do"
+last_modified: "2010-06-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 340"
+citation2: ""
+neutral_citation: "2010 CCI 340"
+decision_date: "2010-06-21"
+language: "fr"
+item_id: "29926"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6473
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:51:52.278000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9909eef362739fc12f0436541a6c924f497f94b665ce478efe8994e2c192fb86"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bansal c. M.R.N.
+
+- Citation: 2010 CCI 340
+- Decision date: 2010-06-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6473, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bansal c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-06-21
+Référence neutre
+2010 CCI 340
+Numéro de dossier
+2009-3135(CPP)
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2009-3137(EI)
+ENTRE :
+VIPAN K. BANSAL,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+ALBERTA MOTOR ASSOCIATION,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+Vipan K. Bansal (2009‑3135(CPP)),
+le 18 mai 2010, à Edmonton (Alberta)
+Devant : L’honorable juge Paul Bédard
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimé :
+Me Adam Gotfried
+Avocat de l’intervenante :
+Me Angus K. Ng
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté et la décision du ministre du Revenu national est confirmée, conformément aux motifs ci-joints.
+Signé à Ottawa, Canada, ce 21e jour de juin 2010.
+« Paul Bédard »
+Juge Bédard
+Traduction certifiée conforme
+ce 28e jour de juillet 2010.
+Hélène Tremblay, traductrice
+Dossier : 2009-3135(CPP)
+ENTRE :
+VIPAN K. BANSAL,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+ALBERTA MOTOR ASSOCIATION,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+Vipan K. Bansal (2009‑3137(EI)),
+le 18 mai 2010, à Edmonton (Alberta)
+Devant : L’honorable juge Paul Bédard
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimé :
+Me Adam Gotfried
+Avocat de l’intervenante :
+Me Angus K. Ng
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté et la décision du ministre du Revenu national est confirmée, conformément aux motifs ci-joints.
+Signé à Ottawa, Canada, ce 21e jour de juin 2010.
+« Paul Bédard »
+Juge Bédard
+Traduction certifiée conforme
+ce 28e jour de juillet 2010.
+Hélène Tremblay, traductrice
+Référence : 2010 CCI 340
+Date : 20100621
+Dossiers : 2009-3135(CPP),
+2009-3137(EI)
+ENTRE :
+VIPAN K. BANSAL,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+ALBERTA MOTOR ASSOCIATION,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Les présents appels concernent des décisions du ministre du Revenu national (le « ministre ») rendues en application du Régime de pensions du Canada (le « RPC ») et de la Loi sur l'assurance-emploi (la « Loi »). Le ministre a décidé que, durant la période allant du 1er janvier 2008 au 21 octobre 2008 (la « période en cause »), l’appelant n’exerçait pas auprès de l’intervenante, l’Alberta Motor Association (le « payeur »), un emploi assurable et ouvrant droit à pension.
+[2] L’entreprise du payeur consistait notamment à former et à instruire les personnes cherchant à obtenir un permis de conduire. Le payeur a embauché l’appelant comme moniteur d’auto‑école.
+[3] L’appelant affirme qu’il était un employé qui travaillait en vertu d’un contrat de louage de services.
+[4] Chaque cas où il s’agit de savoir si une personne est un employé ou un entrepreneur indépendant doit être traité comme un cas d’espèce. Chacun des quatre volets du critère composite exposé dans la décision Wiebe Door Services Ltd. v. M.N.R., 87 DTC 5025, et dans l’arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] 2 R.C.S. 983, doit se voir attribuer l’importance qui lui revient compte tenu des circonstances. En outre, l’intention des parties au contrat est devenue, dans de récents arrêts de la Cour d'appel fédérale, un facteur dont l’importance semble varier d’un cas à un autre (Royal Winnipeg Ballet c. M.R.N., 2006 CAF 87; Wolf c. Canada, [2002] 4 C.F. 396; City Water International Inc. c. Canada, 2006 CAF 350; Équipe de ski Capitale nationale Outaouais c. M.R.N., 2008 CAF 132).
+[5] Les faits sur lesquels s’est fondé le ministre pour rendre ses décisions dans l’affaire concernant l’assurance-emploi (2009‑3137(EI)) et l’affaire concernant le RPC (2009‑3135(CPP)) sont exposés ainsi dans le paragraphe 5 de chacune des réponses à l’avis d’appel :
+[traduction]
+a. le payeur était exploité comme une association composée de membres; (admis)
+b. les clients du payeur étaient des personnes cherchant à obtenir un permis de conduire; (admis)
+c. l’appelant a été embauché comme moniteur d’auto-école; (admis)
+d. les tâches de l’appelant consistaient à accepter ou à refuser des élèves, à communiquer avec eux, à organiser la formation, à aller chercher les élèves, à les instruire et à tenir des dossiers; (nié)
+e. l’appelant a conclu avec le payeur un contrat écrit qui prévoyait que l’appelant était un entrepreneur et non un employé; (admis)
+f. l’appelant fournissait ses services à l’aide de son véhicule; (nié)
+g. l’appelant était lié par un contrat avec le payeur depuis 2006; (admis)
+h. l’appelant gagnait une redevance fixe de 26 $ l’heure; (admis)
+i. la redevance horaire de l’appelant était négociable; (nié)
+j. l’appelant recevait aussi des redevances pour les nouvelles réservations et pour les prises en charge des élèves à domicile, ainsi qu’une subvention pour frais de carburant; (admis)
+k. l’appelant envoyait une facture au payeur; (admis)
+l. l’appelant ne bénéficiait pas d’avantages sociaux tels que l’assurance-santé, l’assurance frais dentaires ou l’indemnité de vacances; (admis)
+m. le payeur ne garantissait pas à l’appelant une rémunération minimale; (admis)
+n. les heures d’ouverture du payeur étaient de 8 heures à 17 heures, du lundi au samedi; (admis)
+o. l’appelant n’était pas astreint à un programme fixe d’heures ou de journées de travail; (nié)
+p. l’appelant fixait lui-même ses heures et journées de travail; (admis)
+q. l’appelant pouvait travailler n’importe quand entre 8 heures et 22 heures, du lundi au dimanche; (admis)
+r. l’appelant n’était pas tenu de travailler un nombre minimal d’heures; (admis)
+s. l’appelant conservait un relevé de ses heures travaillées; (admis)
+t. le payeur ne donnait pas d’ordres à l’appelant; (nié)
+u. le payeur ne supervisait pas le travail de l’appelant; (nié)
+v. l’appelant fixait lui-même ses priorités et ses échéances; (nié)
+w. le payeur fournissait à l’appelant les noms des élèves; (admis)
+x. l’appelant communiquait avec les élèves et organisait ses séances d’enseignement pratique; (admis)
+y. l’appelant avait le droit de refuser de travailler; (nié)
+z. l’appelant n’était pas tenu de se présenter dans les locaux du payeur; (nié)
+aa. l’appelant ne fournissait pas ses services dans les locaux du payeur; (nié)
+bb. le payeur remettait à l’appelant un guide des leçons de conduite; (admis)
+cc. l’appelant choisissait lui-même sa méthode d’enseignement; (nié)
+dd. l’appelant choisissait les itinéraires empruntés pour les leçons; (admis)
+ee. l’appelant était à même d’embaucher un assistant pour les tâches administratives; (admis)
+ff. l’appelant n’avait pas besoin de l’autorisation du payeur pour prendre un congé; (nié)
+gg. l’appelant fournissait le principal outil, à savoir le véhicule; (admis)
+hh. le payeur fournissait les panonceaux du véhicule, les rétroviseurs, les cônes de signalisation et un frein de secours; (admis)
+ii. l’appelant payait les frais d’installation et d’enlèvement du frein de secours fourni par le payeur; (admis)
+jj. l’appelant payait les frais d’exploitation, notamment les dépenses d’automobile, l’assurance-responsabilité et l’avenant pour formation des conducteurs; (admis)
+kk. les dépenses d’automobile de l’appelant comprenaient l’assurance, l’entretien et le carburant; (admis)
+ll. l’appelant avait la possibilité de réaliser un bénéfice et assumait un risque de perte; (nié)
+mm. l’intention du payeur était que l’appelant soit un entrepreneur et non un employé; (admis)
+nn. l’appelant avait un numéro de TPS; (admis)
+oo. l’appelant facturait la TPS au payeur; (admis)
+pp. l’appelant exploitait sa propre entreprise de taxi depuis 1990; (admis)
+qq. l’appelant tenait ses propres livres et registres; (admis)
+rr. l’appelant a déclaré un revenu d’entreprise et déduit des dépenses d’entreprise dans ses déclarations de revenu de 2006, de 2007 et de 2008; (admis)
+ss. l’appelant travaillait pour son propre compte dans les services qu’il fournissait au payeur. (nié)
+[6] L’appelant et M. Richard James Lang, le directeur du payeur, ont été les deux uniques témoins.
+Témoignage de l’appelant
+[7] L’appelant a d’abord parlé de l’obligation que lui imposait le payeur de travailler au moins 20 heures par semaine. Il a ajouté que sa relation avec le payeur avait pris fin parce que, en 2007, il avait commencé à avoir des ennuis de santé qui l’empêchaient de respecter la règle des 20 heures. L’appelant a réaffirmé ensuite que ses possibilités de réaliser un bénéfice et ses risques de perte étaient nuls.
+[8] L’appelant a ajouté que le payeur l’obligeait à assister à des réunions dans les locaux du payeur et à aller chercher les clients, également aux locaux du payeur.
+[9] L’appelant a aussi expliqué que, étant donné qu’il était en position de faiblesse par rapport au payeur, il avait signé les deux contrats (pièces R‑2 et R‑3) sans négocier. Cela revenait à dire que les gens qui voulaient travailler pour le payeur comme moniteur d’auto-école devaient signer le contrat du payeur tel qu’il était, et par conséquent devaient accepter la qualification juridique donnée par le payeur à ce contrat. L’appelant a ajouté qu’il voulait que la relation soit une relation d’employeur‑employé. Finalement, il a témoigné qu’il ne comprenait toujours pas le sens de certaines des dispositions des contrats.
+[10] L’appelant a expliqué aussi que le payeur l’avait obligé à assister à une séance de formation de six semaines avant de donner des leçons aux clients du payeur. Il a ajouté qu’il ne pouvait pas choisir sa propre méthode d’enseignement puisqu’il devait se conformer à toutes les directives contenues dans le Guide du moniteur utilisé par le payeur (le « Guide ») (pièce R‑5). Il a aussi précisé que, quatre fois par année, le moniteur principal du payeur l’accompagnait dans son véhicule pour s’assurer qu’il se conformait à toutes les directives contenues dans le Guide.
+Le témoignage de M. Lang
+[11] M. Lang, dont le témoignage a semblé crédible, a d’abord parlé de la règle des 20 heures. Il a simplement dit qu’il n’existait aucune règle du genre, mais qu’il conseillait à tous les moniteurs d’auto-école (qui n’étaient pas des employés) de travailler au moins 20 heures par semaine puisque leurs activités ne pourraient pas être rentables s’ils ne faisaient pas 20 heures.
+[12] M. Lang a ajouté que la séance de formation, la surveillance exercée par le moniteur principal, et la plupart des directives contenues dans le Guide étaient imposées par la réglementation albertaine sur les transports.
+[13] M. Lang a aussi expliqué que le payeur avait eu, durant la période en cause, (et qu’il a encore) un certain nombre de moniteurs qui sont des employés. Il a dit que le travail fait par ces employés était semblable au travail fait par l’appelant. Cependant, il a ajouté que, contrairement à l’appelant, ces employés ne supportaient aucun risque de perte et n’avaient aucune possibilité de réaliser un bénéfice puisqu’ils fournissaient leurs services dans les véhicules du payeur et qu’ils ne payaient pas de frais d’exploitation (notamment dépenses d’automobile, assurance‑responsabilité et avenant pour formation de conducteurs). Il a ajouté que, contrairement à l’appelant, ces employés devaient se plier à un programme fixe d’heures et de journées de travail, ne pouvaient pas refuser de travailler et étaient soumis à une surveillance constante.
+[14] Finalement, M. Lang a déclaré que le revenu brut des moniteurs ayant le statut d’entrepreneur indépendant avait varié, durant la période en cause, entre 10 000 $ et 100 000 $.
+[15] La preuve a aussi révélé que, souvent, durant les années 2006, 2007 et 2008, l’appelant n’avait pas travaillé 20 heures par semaine (voir la pièce R‑4). Je ferais observer que les contrats (pièces R‑2 et R‑3) ne font nulle part état d’une obligation de travailler 20 heures.
+Analyse et conclusion
+[16] Je voudrais commencer par quelques observations à propos du facteur de l’intention. En premier lieu, si l’intention des parties doit être un facteur déterminant ou décisif, alors elle doit être partagée par les deux parties. Autrement dit, s’il n’y a pas accord des volontés et si les parties ne sont pas sur la même longueur d’onde, l’intention ne saurait être un facteur. Ma deuxième observation est que, lorsque l’intention des parties ne peut être vérifiée (ce qui est le cas ici), il est tout à fait acceptable, voire nécessaire, de considérer tous les faits pour voir quelle relation juridique ils reflètent. Sur ce point, les quatre volets du critère composite exposé dans la décision Wiebe Door sont pertinents et utiles pour savoir ce qu’est l’intention des parties au contrat et ce qu’est la nature juridique du contrat.
+[17] S’agissant maintenant des faits, quels facteurs donnent à penser que l’appelant travaillait pour son propre compte?
+Instruments de travail
+i. Il fournissait son propre véhicule.
+Risque de perte
+ii. Il assumait une responsabilité qui l’exposait à un risque de perte.
+iii. Il supportait des dépenses d’automobile, notamment assurance, entretien et carburant.
+iv. Il supportait aussi des frais d’exploitation, tels que l’assurance‑responsabilité et un avenant pour formation de conducteurs.
+v. Il devait aussi payer les frais d’installation et d’enlèvement du frein de secours fourni par le payeur.
+Possibilité de réaliser un bénéfice
+vi. Plus l’appelant travaillait d’heures (au-dessus de 20), plus ses chances de réaliser un bénéfice étaient élevées, ce qui n’était pas le cas pour les moniteurs ayant le statut d’employés, puisqu’ils étaient limités dans le nombre d’heures qu’ils pouvaient travailler.
+Contrôle
+vii. L’appelant n’était pas astreint à un programme fixe d’heures ou de journées de travail. Il me semble que son témoignage concernant la règle des 20 heures n’était pas très crédible (voir les paragraphes 11 et 15 des présents motifs). Son témoignage selon lequel l’inobservation de la règle des 20 heures entraînerait la résiliation du contrat ne l’était pas davantage, vu que, souvent, durant les années 2006, 2007 et 2008, il n’a pas respecté cette règle et le contrat n’a pas été résilié pour autant.
+viii. Il pouvait choisir les itinéraires empruntés pour les leçons de conduite.
+ix. Il pouvait travailler pour n’importe qui d’autre (sauf comme moniteur d’auto-école) durant la période en cause.
+Comportement d’entrepreneur
+x. Il se comportait comme un entrepreneur indépendant, en ce sens qu’il envoyait une facture au payeur, qu’il lui facturait la TPS, qu’il tenait ses propres livres et registres et qu’il avait déclaré un revenu d’entreprise et demandé la déduction des dépenses d’entreprise dans ses déclarations de revenu des années 2006, 2007 et 2008.
+[18] Examinons maintenant les facteurs qui donnent à penser que l’appelant était un employé.
+Instruments de travail
+i. Le payeur fournissait des panonceaux d’automobile, des rétroviseurs, des cônes de signalisation et un frein de secours.
+Contrôle
+ii. Le payeur avait remis à l’appelant un guide, et l’appelant devait se conformer à toutes les directives qui s’y trouvaient concernant la méthode d’enseignement.
+iii. L’appelant ne pouvait pas se faire remplacer.
+[19] Nous avons ici un appelant qui, si j’accepte son témoignage, était un employé (alors même qu’il s’était comporté durant plusieurs années comme un entrepreneur indépendant), et qui pourtant fournissait ses services en se servant de son propre véhicule, payait les frais d’installation et d’enlèvement du frein de secours fourni par le payeur, supportait les frais d’exploitation, notamment les dépenses d’automobile (assurance, entretien et carburant), souscrivait une assurance-responsabilité et un avenant pour formation de conducteurs, était effectivement exposé à tous genres de responsabilité, n’était pas astreint à un programme fixe d’heures ou de journées de travail et pouvait, d’une certaine façon, fixer ses propres échéances et priorités. Dans ces conditions, il m’est impossible de dire que l’existence d’un certain contrôle exercé par le payeur sur l’appelant l’emporte sur l’impression générale selon laquelle l’appelant travaillait pour son propre compte.
+[20] Pour ces motifs, les appels sont rejetés.
+Signé à Ottawa, Canada, ce 21e jour de juin 2010.
+« Paul Bédard »
+Juge Bédard
+Traduction certifiée conforme
+ce 28e jour de juillet 2010.
+Hélène Tremblay, traductrice
+RÉFÉRENCE : 2010 CCI 340
+Nos DES DOSSIERS DE LA COUR : 2009-3135(CPP), 2009-3137(EI)
+INTITULÉ : VIPAN K. BANSAL c. M.R.N. et ALBERTA MOTOR ASSOCIATION
+LIEU DE L’AUDIENCE : Edmonton (Alberta)
+DATE DE L’AUDIENCE : Le 18 mai 2010
+MOTIFS DU JUGEMENT : L’honorable juge Paul Bédard
+DATE DU JUGEMENT : Le 21 juin 2010
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimé :
+Me Adam Gotfried
+Avocat de l’intervenante :
+Me Angus K. Ng
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+Pour l’intervenante : Angus K. Ng
+Alberta Motor Association
+Edmonton (Alberta)

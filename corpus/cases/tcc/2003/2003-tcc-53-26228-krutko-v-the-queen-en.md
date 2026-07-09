@@ -1,0 +1,178 @@
+---
+title: "Krutko v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26228/index.do"
+last_modified: "2003-02-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 53"
+citation2: ""
+neutral_citation: "2003 TCC 53"
+decision_date: "2003-02-18"
+language: "en"
+item_id: "26228"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4025
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:32:59.875000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5c90dd5364e96ce23f47ebbe8b7f50d5512ce2c6dee19a0720df309863c768bd"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Krutko v. The Queen
+
+- Citation: 2003 TCC 53
+- Decision date: 2003-02-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4025, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Krutko v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-02-18
+Neutral citation
+2003 TCC 53
+File numbers
+2002-3099(IT)I
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-3099(IT)I
+BETWEEN:
+DAVID M. KRUTKO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on February 11, 2003 at Edmonton, Alberta
+Before: The Honourable Judge Diane Campbell
+Appearances:
+Counsel for the Appellant:
+Denise Pon-Walesiak
+Counsel for the Respondent:
+Galina M. Bining
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1998, 1999 and 2000 taxation years are dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 18th day of February 2003.
+"Diane Campbell"
+J.T.C.C.
+Citation: 2003TCC53
+Date: 20030218
+Docket: 2002-3099(IT)I
+BETWEEN:
+DAVID M. KRUTKO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Campbell, J.
+[1] The Appellant and his common-law spouse, Valerie Yakeleya, separated in July 1995. There were four children of this union born in 1982, 1989, 1991 and 1993. The oldest child has cerebral palsy, is confined to a wheelchair and is now living in a special care institution in Inuvik. When they separated, the Appellant moved back to Fort MacPherson and his spouse, together with the children, moved to Fort Norman. The Appellant stated that he and his spouse had a verbal understanding that he would help support the children. Eventually his spouse made a court application by originating notice of motion in March 1997, requesting sole custody of the children and child support (Exhibit A-1). After the originating notice was filed there was correspondence between their respective solicitors attempting to negotiate a settlement. Two of these letters (Exhibits A-3 and A-4) reveal that the solicitors were aware of the approaching change in the tax treatment of support payments and on behalf of their clients were attempting to negotiate and settle support payments prior to these changes.
+[2] By Consent Order ("the first order") (Exhibit A-5) dated March 21, 1997 Justice J.E. Richard ordered:
+1. The Respondent, David Krutko, shall pay to the Applicant, Valerie Yakeleya, child support for the children of the relationship in the amount of $1,500.00 for the month of April, 1997 only, payable on April 1st, 1997.
+2. The balance of the relief sought by the Applicant in the Originating Notice of Motion filed March 5th, 1997 shall be adjourned until Friday, May 2nd, 1997.
+[3] Subsequent to this first order, letters continued between the solicitors in an attempt to reach a settlement (Exhibits A-6, A-7 and A-8). Again it is evident in the correspondence that the solicitors were aware of the imminent changes in the treatment of child support payments for tax purposes.
+[4] On May 9, 1997, an order of the Supreme Court of the Northwest Territories ("the second order") (Exhibit A-9) issued. In its entirety it reads as follows:
+ORDER
+UPON the application of the Applicant, Valerie Yakeleya; AND UPON hearing Jill Murray, counsel on behalf of the Applicant and Lucy Austin, counsel on behalf of the Respondent, David Krutko; AND UPON having read the affidavit of Valerie Yakeleya, filed:
+IT IS ORDERED AS FOLLOWS:
+1. The child support Order of this Court dated March 21st, 1997 is continued and the Respondent shall continue to pay $1,500.00 per month for the support of the children for the months of May and June of 1997.
+2. The balance of the relief sought by the Applicant in the Originating Notice of Motion filed March 5th, 1997 shall be adjourned until Friday, June 27th, 1997.
+[5] On June 10, 1997, a short one-page separation agreement (Exhibit A-11) drafted by the Appellant's accountant, was signed by both the Appellant and his spouse. It reduced the support considerably from the amount ordered and specified that the Appellant could deduct the support payments. Although signed by both parties, this document was not witnessed and there is no indication that either received independent legal advice. I give no weight to this document.
+[6] By Consent Order dated August 22, 1997 ("the third order") (Exhibit A-14) Justice Richard ordered the following:
+CONSENT ORDER
+UPON the application of Valerie Yakeleya; AND UPON hearing from Jill Murray and Lucy Austin counsel for the parties and noting the consent of counsel for the parties endorsed hereon; IT IS HEREBY ORDERED THAT:
+1. The parties shall have joint custody of the children Gordie Krutko born September 13, 1992, Michelle Krutko born August 5, 1993, Joanne Krutko born September 10, 1991, Laura Krutko born November 19, 1989 with the children remaining in the day to day care and control of the Applicant;
+2. The Respondent shall have liberal and generous access to the children as may be agreed upon by the parties from time to time and failing agreement as may be ordered by this Court;
+3. The Respondent will pay child support in the sum of $1,500.00 per month for the support of the children Michelle Krutko, Joanne Krutko and Laura Krutko commencing on September 1, 1997 and continuing on the first day of each month thereafter until further Order of this Court;
+4. Recognizing that the child Gordie Krutko is handicapped and currently institutionalized, any further support required from the Respondent to meet the needs of the child Gordie Krutko shall be agreed upon by the parties and failing agreement as may be determined by this Court.
+[7] In the 1998, 1999 and 2000 taxation years, the Appellant paid support of $18,400.00, $20,300.00 and $18,000.00 respectively. He deducted these amounts in computing his income. The Minister reassessed the Appellant on the basis that these deductions for support payments did not meet the requirements of paragraph 60(b) or section 60.1 of the Act.
+[8] The issue is whether these amounts are deductible by the Appellant in the 1998, 1999 and 2000 taxation years.
+[9] Before May 1997, spouses were entitled to deduct payments which were made to separated or ex-spouses for the support of the children. The recipient of these support payments was required to include the amount of these support payments in their income. This is often referred to as the old régime or inclusion/deduction system. As a result of the decision of the Supreme Court of Canada in Thibaudeau v. The Queen, [1995] 2 S.C.R. 627 (S.C.C.), Parliament eliminated the old régime or inclusion/deduction of support payments made pursuant to an agreement or order made after April 30, 1997 that contemplated a commencement date. The Income Tax Act was amended to provide that if a pre-May 1997 agreement remained unchanged, the inclusion/deduction system prevailed. If the parties entered into a new agreement or if a new court order issued or if an old agreement was altered in a particular way, the old régime no longer applied and only those payments made up to the commencement date as defined in the Act were deducted by the payor and included by the recipient.
+[10] The terms "child support amount", "commencement date" and "support amount" are defined in subsection 56.1(4) of the Act as follows:
+"child support amount" means any support amount that is not identified in the agreement or order under which it is receivable as being solely for the support of a recipient who is a spouse or common-law partner or former spouse or common-law partner of the payer or who is a parent of a child of whom the payer is a natural parent.
+"commencement date" at any time of an agreement or order means
+(a) where the agreement or order is made after April 1997, the day it is made; and
+(b) where the agreement or order is made before May 1997, the day, if any, that is after April 1997 and is the earliest of
+(i) the day specified as the commencement day of the agreement or order by the payer and recipient under the agreement or order in a joint election filed with the Minister in prescribed form and manner,
+(ii) where the agreement or order is varied after April 1997 to change the child support amounts payable to the recipient, the day on which the first payment of the varied amount is required to be made,
+(iii) where a subsequent agreement or order is made after April 1997, the effect of which is to change the total child support amounts payable to the recipient by the payer, the commencement day of the first such subsequent agreement or order, and
+(iv) the day specified in the agreement or order, or any variation thereof, as the commencement day of the agreement or order for the purposes of this Act.
+"support amount" means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and
+(a) the recipient is the spouse or common-law partner or former spouse or common-law partner of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage or common-law partnership and the amount is receivable under an order of a competent tribunal or under a written agreement; or
+(b) the payer is a natural parent of a child of the recipient and the amount is receivable under an order made by a competent tribunal in accordance with the laws of a province.
+[11] Paragraph 60(b) of the Act reads as follows:
+60(b) Support - the total of all amounts each of which is an amount determined by the formula
+A - (B + C)
+where
+A is the total of all amounts each of which is a support amount paid after 1996 and before the end of the year by the taxpayer to a particular person, where the taxpayer and the particular person were living separate and apart at the time the amount was paid,
+B is the total of all amounts each of which is a child support amount that became payable by the taxpayer to the particular person under an agreement or order on or after its commencement day and before the end of the year in respect of a period that began on or after its commencement day, and
+C is the total of all amounts each of which is a support amount paid by the taxpayer to the particular person after 1996 and deductible in computing the taxpayer's income for a preceding taxation year;
+[12] The Appellant's primary argument is that the child support payments in 1998, 1999 and 2000 were all made pursuant to the first order of March 21, 1997, and that the second and third orders merely confirmed and continued the support obligations contained in the first order. In addition the Appellant contended that there is no commencement date specified in this first order.
+Analysis:
+[13] The first order simply ordered a child support payment for the month of April 1997. It did not use the word "commence" and all other relief was adjourned. This order either contemplated the issues being settled between the parties or resolved by the court on May 2, 1997. The second order did use the word "continue". In fact the first order was continued and the Appellant's payments were continued in the same amount for two more months, May and June 1997. This second order is clearly a continuation of the first one. There is a connection between the two orders which is contemplated in the wording of the second order. This second order deals with support for two months only and again adjourns all other matters to June 27, 1997. Then we have the third order. It is exhaustive and resolves the issues of custody, access and support. The word "commencing" is used in establishing the first support payment under this order. The word "continuing" is used to continue these payments after the commencement date but it is not used to continue either the first or second orders or both. In addition the first two orders were for support for the four children. In this third order the support, although in the same amount as the first and second orders, was for three children only. The order contains an entirely separate paragraph concerning potential support provisions for the fourth child.
+[14] The third order clearly contains a commencement date and the wording of the order is quite specific in this regard. There is no specific wording used that could point to a conclusion that this order intended to continue either of the first or second orders or both, either expressly or by implication. I view it as a stand-alone order, encompassing all of the issues which had remained unresolved between the parties. There is no reference to the first two orders. The support payments of $1,500.00 monthly are now for three children instead of four. Support for the month of April was addressed in the first order and the months of May and June in the second order. The third order commenced payments on September 1, 1997. The months of July and August 1997 were not addressed. The Appellant contends that during these months the children were with him and he was not paying support. However the third order is silent as to those July and August payments. This may be viewed as creating a break in support being paid on a periodic basis. I do not need to decide on this as I have concluded that the third agreement is a stand-alone order made after April 1997, containing a commencement date. The first and second orders were, for all intents and purposes, interim orders only. They contained very little detail except for an amount of support for one month in the first order and two months in the second order. They were interim measures only and are superseded by the final order. Because of the wording in the third order, I do not view the provisions in the first and second orders which adjourn the remaining relief, as a link between these orders.
+[15] It is clear from the evidence that negotiations were ongoing both before and after the first and second orders. The amount of support remains the same throughout but it is clear from the correspondence between the lawyers that the amount continued to be a contentious issue. The amount in the first order was never the settled and agreed upon amount. The correspondence suggests various amounts were offered between the parties. In any event I have concluded that the amount of support was varied considerably as it was now for three children and not four.
+[16] Even if I accepted that the third order is not a stand-alone order, but a continuation of the first order, I am left with the wording of the third order which contains a clear statement of the commencement date which is after April 1997.
+[17] The Appellant relied on the decision in Mossman v. Canada, [2002] T.C.J. No. 371. That case placed great reliance on the word "continue" used in the 1998 Agreement. Use of the word "continue" was pivotal to the decision in Mossman. In the case before me, although the word "continue" had been used in the second order, it is absent in the third order, where instead the word "commencing" is utilized.
+[18] It is also interesting that although the correspondence between the solicitors contains clear references to the impending legislative changes, the third order is silent as to the potential tax treatment of these payments.
+[19] Although the Appellant argued that it was the intention of the parties, their lawyers and accountants, that the Appellant be permitted to deduct these payments, his eligibility to deduct the support amounts is determined by the specific provisions of the Act.
+[20] For the reasons given, the appeals are dismissed.
+Signed at Ottawa, Canada, this 18th day of February 2003.
+"Diane Campbell"
+J.T.C.C.
+CITATION:
+2003TCC53
+COURT FILE NO.:
+2002-3099(IT)I
+STYLE OF CAUSE:
+David M. Krutko and Her Majesty the Queen
+PLACE OF HEARING
+Edmonton, Alberta
+DATE OF HEARING
+February 11, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable
+Judge Diane Campbell
+DATE OF JUDGMENT
+February 18, 2003
+APPEARANCES:
+Counsel for the Appellant:
+Denise Pon-Walesiak
+Counsel for the Respondent:
+Galina M. Bining
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Denise Pon-Walesiak
+Firm:
+Field Atkinson Perraton
+Edmonton, Alberta
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,180 @@
+Title: Kikot v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30365/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-38-30365-kikot-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-01-23
+
+# Kikot v. The Queen
+
+- Citation: 2008 TCC 38
+- Decision date: 2008-01-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7886, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kikot v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-01-23
+Neutral citation
+2008 TCC 38
+File numbers
+2006-929(IT)I
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2008TCC38
+Date: 20080527
+Docket: 2006-929(IT)I
+BETWEEN:
+TIMOTHY KIKOT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+McArthur J.
+[1] These appeals are from assessments for the 1993 to 2001 taxation years of the Appellant, Timothy Kikot. He did not file income tax returns for the nine year period from 1993 to 2001, until 2002.
+[2] The 1993, 1994 and 1995 taxation years were assessed as filed but for late filing penalties. For the most part, this appeal concerns disallowed business expenses and employment expenses for the years 1996 through 2001.
+[3] The Appellant was charged under subsection 238(1) of the Income Tax Act ("Act ") with failure to comply with requirements. He pled guilty to three counts for the 1996, 1997 and 1998 taxation years and charges for the 1993, 1994 and 1995 years were stayed.
+[4] The issues include the following:
+1. Is the Appellant entitled to additional employment expenses for the 1996, 1997, 1998, 1999, 2000 and 2001 taxation years?
+2. Is he entitled to additional business expenses for the 1996, 1997, 1998, 1999, 2000, and 2001 years?
+3. Was he properly assessed repeated failure to file penalties for the years 1993, 1994, 1995, 1997, 1998 and 1999 taxation years?
+4. Was he properly assessed a late-filing penalty for the 1996 taxation year?
+Summary of Facts
+[5] The Appellant worked as an independent contractor for OPS Business Systems ("OPS") from 1993 to 1995, and as an employee from 1996 to 1998, after the purchase of OPS by Ikon Office Solutions ("Ikon"). From January 15th to April 14th, 1998 he was self-employed and paid by commission.
+[6] In April 1998, he moved to Vancouver to continue selling Toshiba office equipment but for another business, Vancouver Office Products, (later named Conex Business Systems) until September 1999. In September 1999 the Appellant left his employment and undertook to develop the business of Global. Global Edge Technologies Inc. ("Global") was incorporated in June 1999 but was never utilized as a corporate entity. There were four others who had some involvement in Global yet the Appellant was the only one who worked fulltime and for the purposes of this appeal, his activity in Global is trusted as a sole proprietorship from which he had no income but claimed expenses.
+[7] Generally he did not provide statements of business activities but did produce a number of boxes of receipts at trial. In filing his returns the Appellant began with the most recent years and worked his way back. This contributed somewhat to the pre-existing confusion regarding the returns.
+ANALYSIS
+Business Expenses (carried on separately from his full time employment)
+[8] The Appellant accepts full responsibility for failing to file his tax returns in the years at issue. He also agrees that in finally filing his late returns he worked back from the most recent years and this, combined with the extensive delay, led to problems recalling, organizing and categorizing business and employment expenses.
+[9] In his written submissions the Respondent states that the he "failed to provide reasonable support of his claim" for business expenses and "has not provided a basis for this Court to allow more deductions than those initially allowed by the Minister". Generally I have found Mr. Kikot credible. Through his testimony he has provided support for receipts, corresponding statements of business activity and other documentation. The reasons that follow are based on the evidence of both parties.
+1996
+[10] The Minister allowed an additional $3,893 following the trial, representing 71% of expenses claimed, which I find reasonable particularly given the lack of specificity of the receipts and evidence presented.
+1997
+[11] Based on documents provided by the Appellant at trial, the Respondent allowed an additional $3,569 in motor vehicle expenses. This brings the % of allowed expenses over claimed expenses to 80%, a conclusion which I also find reasonable.
+1998
+[12] He ran his Mailbox Distributors business, involving the door-to-door flyer distribution to which he attributes a number of business expenses, separately from employment expenses incurred during the same period. This was carried on from 1996 to 1998, but not exclusively. He included a percentage of his home rent expenditure as a business expense. At trial the Appellant stated that $7,088 in business expenses were attributable to 1998. Business expenses allowed by the Minister represent 52% of those claimed. As the Appellant was a self-employed contractor from Jan. 15 to Apr. 14 of that year, and ran Mailbox Distributors, I find this to be an inadequate allocation. Given the extent of Mr. Kikot’s commercial undertakings during 1998, I allow 75% of claimed expenses. He produced the applicable statement of business activities and identified corresponding business expenses during cross-examination. Amount allowed will be 75% X 7,088= $5,316.
+1999
+[13] No business expenses were claimed and no business income was earned.
+2000
+[14] While a corporation (Global) had been incorporated, there was no evidence that it carried on business. It was ignored by the Appellant and he carried on the business on his own account. Global as a corporation is therefore to be disregarded with respect to these reasons. I accept that Global was an active business in 2000.
+[15] None of the $6,168 in business expenses claimed was allowed by CRA on the basis that they were not properly claimed on a separate corporate return but rather on his personal income tax return. The Appellant states he incurred various expenses while attempting to raise money for the business, through family and friends, between January and August 2000. Global consisted of the Appellant and five other individuals. He was the only one to give up his employment, in September 1999, in order to pursue this endeavour, with the business plan of marketing of a new hardware/software device related to computer scanning. He filed the business expenses on his personal income tax return.
+[16] Section 18(1)(a) of the ITA states that an outlay or expense made or incurred by the taxpayer for the purpose of gaining or producing income from a business or property can be deducted from the taxpayer’s income. Efforts to launch Global onto the market and to gain income from it resulted in the following business expenses for the Appellant:
+a) Meals and Entertainment: $671 claimed
+[17] This amounts to $96/month, certainly not an unreasonable amount when one is attempting to draw investors. Section 67.1(1) allows 50% of this amount to be deducted. I therefore allow a $335 deduction for meals and entertainment. Again, section 18(1)(a) allows this deduction as it was incurred for the purpose of gaining income from a business.
+b) Office expenses: $341 claimed
+[18] This sum appears reasonable for a period of 8 months and it is allowed.
+c) Rent: $1,440 claimed
+[19] This sum represented the expense for the percentage of his home space which served as an office space for Global during the 8 months. A diagram of the house was submitted to CRA. This figure represents, assuming a monthly rent of $1,500, only 12% of the rent for that period. The amount claimed of $1,440 is reasonable and is allowed.
+d) Travel: $2,245
+[20] It is obvious the Appellant incurred these travel expenses in the pursuit of the generation of income form the business. This business deduction of $2,245 is allowed.
+e) Telephone: $220
+[21] These are reasonable business expenses given they span over a period of 8 months.
+f) Home office: $1,251 (heat, hydro, gas, public utilities)
+[22] Given that the rent claim was allowed, this appears to be a duplication and therefore the home office expense of $1,251 is not allowed.
+2001
+[23] A total of $6,193 was claimed as business expenses in 2001. However, Global had folded in 2000 and the Appellant admitted that there was no business activity in the course of this year. Since no business venture was being pursued none of the business expenses claimed are allowed.
+Employment expenses
+[24] I now then turn to the Appellant’s claim for employment expenses. IN addition to his independent, self-generated entrepreneurial endeavors, he was employed in all of the years at issue. For the years 1996 and 1997 no T-2200 was submitted and thus no employment expenses were allowed. The submission of form T‑2200 signed by his employer is clearly a requirement of s. 8(10) of the ITA. While the Appellant made all reasonable efforts in 2002 to obtain T2200 forms from his employer for his 1996 and 1997 taxation years, he was unsuccessful in procuring them. He obviously had deductible expenses in those years however I have no discretion to interpret alternatively the clear wording of the Act where there is no ambiguity in its wording. The expenses claimed for 1996 and 1997 are not allowed.
+I will deal with the remaining years individually.
+[25] For 1998 he claimed $33,203 in employment expenses.
+[26] Following submission of a valid T-2200 form at trial, the Respondent has allowed $17,215.26 of the $33,203 in expenses claimed. This represents 52% which I find quite reasonable given that no breakdown of expenses was provided to assist in determining amounts and categories of expenses claimed and connecting those with what is permitted under section 8 of the Act. No additional expenses are allowed for 1998.
+[27] In 1999 he claimed $12,059 for employment expenses. Up until Sept 1999 he worked selling Toshiba office equipment for a company named Vancouver Office Products/Conex Business Systems, the period during which he incurred employment expenses. He submitted a valid T‑2200 form with his return, in support of his claim. As of Sept 1999 the Appellant left his job in order to pursue the Global business. Of the $12,059 claimed, $9,720 represent motor vehicle expenses.
+[28] While section 8(1)(h.1) allows the deduction from income of Motor vehicle travel expenses where:
+the taxpayer, in the year,
+(i) was ordinarily required to carry on the duties of the office or employment away from the employer’s place of business or in different places, and
+(ii) was required under the contract of employment to pay motor vehicle expenses incurred in the performance of the duties of the office or employment,
+amounts expended by the taxpayer in the year in respect of motor vehicle expenses incurred for travelling in the course of the office or employment, except where the taxpayer
+(iii) received an allowance for motor vehicle expenses that was, because of paragraph 6(1)(b), not included in computing the taxpayer’s income for the year, or
+(iv) claims a deduction for the year under paragraph 8(1)(f),
+The Appellant’s evidence did not establish that he is entitled to any expense in addition to that allowed by the Minister. He was employed for only 8 months in 1999 and he appears to have combined business expenses with employment expenses in that year since no business expenses were separately claimed. There was no way of separating these mingled amounts. The amount allowed by the Minister of $9,720 is reasonable. No additional expenses are allowed.
+[29] In 2000, 96% of the employment expenses claimed was allowed by the Minister which is reasonable.
+[30] In 2001 he claimed employment expenses of $13,380. In that year he was selling Canon products. The Minister allowed 59% of this year’s employment expenses. The Appellant offers that parking for which receipts were not available accounts for the 41% disallowed. Given the absence of receipts I cannot disagree with the Minister’s calculation. No expenses are allowed in addition to those allowed by the Minister.
+Late Filing
+[31] The Appellant had failed to provide the tax returns as requested by the Minister via subsection 150(2). He eventually produced these returns, all of which were received by the Minister in July, 2002. He was assessed late-filing and repeated failure to file penalties for the 1996, 1997, 1998 and 1999 taxation years. The following sections of the Act are relevant to the penalties subsequently assessed:
+Section 162
+(1) Failure to file return of income -- Every person who fails to file a return of income for a taxation year as and when required by subsection 150(1) is liable to a penalty equal to the total of
+(a) an amount equal to 5% of the person's tax payable under this Part for the year that was unpaid when the return was required to be filed, and
+(b) the product obtained when 1% of the person's tax payable under this Part for the year that was unpaid when the return was required to be filed is multiplied by the number of complete months, not exceeding 12, from the date on which the return was required to be filed to the date on which the return was filed.
+(2) Repeated failure to file -- Every person
+(a) who fails to file a return of income for a taxation year as and when required by subsection 150(1),
+(b) on whom a demand for a return for the year has been served under subsection 150(2), and
+(c) by whom, before the time of failure, a penalty was payable under this subsection or subsection 162(1) in respect of a return of income for any of the 3 preceding taxation years.
+Section 150(2)
+Demands for returns
+(2) Every person, whether or not the person is liable to pay tax under this Part for a taxation year and whether or not a return has been filed under subsection 150(1) or 150(3), shall, on demand from the Minister, served personally or by registered letter, file, within such reasonable time as may be stipulated in the demand, with the Minister in prescribed form and containing prescribed information a return of the income for the taxation year designated in the demand.
+[32] The Appellant found himself overwhelmed by the complexities of his fiscal situation over the years and was unable to meet the requirements imposed by the Act. He attempted a number of business ventures and employment contracts, often concurrently, in an attempt to make a living. Although case law is clear to the effect that the complexity of one’s tax issues is insufficient reason for not abiding by the requirements of the Act, in this instance common sense and fairness must come into play. Ultimately, each case must be judged on the individual taxpayer’s circumstances. I have found the Appellant remarkably frank and candid, albeit confused, with regards to dates and categorization of expenses. In my struggle to find some relief for the deserving Appellant, a review of the Minister’s communication of demands follows.
+[33] Demands for each of the 1993 to 1998 years were sent to the Appellant in September 1998 and were returned to CRA as unclaimed, in Nov. 1998. Given the Appellant’s credibility, and the fact that nothing allows this court to assume the Appellant had knowledge of these demands, I cannot on a balance of probabilities conclude that the requirement at 162(2) (b) was met. The fact that the demands were returned to CRA as unclaimed weighs in favor of the Appellant.
+[34] The Respondent states in his written submission that the demand for 1998 was sent in Sept 98, this does not seem probable. The Respondent later claims to have sent a demand for 1998 in Sept 1999. On the basis of this confusion alone, penalties for the year 1998 cannot be assessed, the Minister not being able to ascertain exactly when or how the demand for 1998 was sent. Evidence permits solely the conclusion that the demand for 1998 was sent sometime, and returned unclaimed at some other time.
+[35] The testimony for the Minister, confirming that separate TX14Ds (Demands) were "sent" to the Appellant’s new address, on certain dates, does not extend to a conclusion that they were sent by registered mail. The Respondent was unable to establish that the demands were served by registered mail. I am not prepared to infer from this that the demands were sent in accordance with s. 150(2) that is, that they were served personally or by registered mail.
+[36] The Respondent states that the demands were sent on Sept 22nd to 2895 21st Ave W., address at which the Appellant testified he lived between Sept 2 1998 and Feb 2001. However the address change was registered with CRA only on Sept 18; a mere 4 days had passed before CRA sent the aforementioned demands.
+[37] The fact the demands were returned unclaimed and that the 1993-97 demands were sent to the Appellant a mere 20 days following his family’s move to this new address also prevent me from inferring that the Appellant was in any way aware of these demands. The fact they returned to CRA as unclaimed does not enable this Court to conclude they were served on the Appellant. The Minister referred to Bowen[1] which dealt with the mailing of confirmation of assessments and not with demands that would lead to the imposition of penalties if unanswered.
+[38] The expression "on whom a demand […] has been served", integral to subsection 162(2), given its monetary consequences, surely requires of the Minister to ensure the taxpayer has been made aware of the demand. Section 162(2) includes the requirement of serving a demand but also the reception of a demand by the taxpayer.
+[39] The appeal regarding penalties for late filing for the year 1996 is dismissed, the Appellant not having demonstrated extenuating circumstances, as recognized by the courts, which could reasonably excuse him from the responsibility of filing on time. The appeals regarding the repeated failure to file penalties for 1993, 1994, 1995, 1997 and 1998 are allowed for the reasons stated earlier it has not been established that demands were served upon the Appellant in accordance with s. 150(2). The demand for 1999 was sent Aug. 2000 and was not returned therefore the repeated failure to file penalty for 1999 shall stand.
+Conclusion
+[40] Mr. Kikot’s evidence lacked of attention to detail. He confused which expenses went to business, and which were employment expenses, as well as occasionally combining business and personal expenses. He would have been well advised to hire a bookkeeper or an accountant although he may not have been financially able to do so.
+[41] Unfortunately the Act provides very little relief for him. Taxpayers are obligated to file annual returns in accordance with the Act. The Appellant left himself in a very difficult position. He was unable to organize his paperwork in a reasonable manner that permitted me or the Minister to grant all of the relief he requested.
+[42] The following total expenses are allowed:
+Business expenses Employment expenses
+Allowed Allowed
+1996
+$8,745
+$21,137
+1997
+$6,079
+$27,473
+1998
+$5,316
+$17,215
+1999
+None
+$4,210
+2000
+Meals $335.40
+$4,908
+Office Expenses $341
+Rent $1,440
+Travel $2,245
+Telephone $220
+Home office None
+2001
+None
+$7,927
+Penalties
+[43] The appeal regarding penalties for late filing for the year 1996 is dismissed.
+[44] The appeal with regard to the repeated failure to file penalty for 1999 is also dismissed. All other penalties which were assessed are waived.
+[45] The appeal is allowed and the assessments are referred to the Minister for reassessment and reconsideration in accordance with these Reasons for Judgment.
+These Amended Reasons for Judgment are issued in substitution for the Reasons for Judgment issued on February 11, 2008.
+Signed at Ottawa, Canada, this 27th day of May, 2008.
+“C.H. McArthur”
+McArthur J.
+CITATION: 2008TCC38
+COURT FILE NO.: 2006-929(IT)I
+STYLE OF CAUSE: TIMOTHY KIKOT AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: February 20, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice C.H. McArthur
+DATE OF AMENDED REASONS
+FOR JUDGMENT: May 27, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+John Gibb-Carsley
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Bowen v. Minister of National Revenue, 1991 CarswellNat 520, [1991] 2 C.T.C. 266, [1992] 1 F.C. 311, 139 N.R. 167, 91 D.T.C. 5594 (FCA) at para. 7.

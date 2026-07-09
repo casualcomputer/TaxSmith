@@ -1,0 +1,149 @@
+Title: Patrie c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/454679/index.do
+Corpus path: corpus/cases/tcc/2019/2019-cci-276-454679-patrie-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2019-12-12
+
+# Patrie c. La Reine
+
+- Citation: 2019 CCI 276
+- Decision date: 2019-12-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4294, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Patrie c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-12-12
+Référence neutre
+2019 CCI 276
+Numéro de dossier
+2018-3717(IT)I
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2018-3717(IT)I
+ENTRE :
+WAYNE G. PATRIE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 29 novembre 2019, à Edmonton (Alberta)
+Devant : L’honorable juge Randall S. Bocock
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Allan Mason
+JUGEMENT
+ATTENDU QUE notre Cour a rendu les motifs de son jugement en ce jour, dans le présent appel;
+À CES CAUSES, l’appel interjeté à l’encontre de la nouvelle cotisation établie à l’égard de l’année d’imposition 2016 est accueilli, sans dépens, au motif que l’appelant a droit au crédit d’impôt pour l’accessibilité domiciliaire aux termes de l’article 118.041 de la Loi de l’impôt sur le revenu, LRC (1985), ch. 1, ainsi modifiée (la Loi).
+L’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation.
+Signé à Vancouver (Colombie-Britannique), ce 12e jour de décembre 2019.
+« R.S. Bocock »
+Le juge Bocock
+Référence : 2019 CCI 276
+Date : 20191212
+Dossier : 2018-3717(IT)I
+ENTRE :
+WAYNE G. PATRIE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bocock
+I. INTRODUCTION
+[1] L’appelant, M. Patrie, a demandé le crédit d’impôt pour l’accessibilité domiciliaire (le CIAD) pour l’année d’imposition 2016. Il a demandé la somme maximale autorisée, soit 10 000 $. Le CIAD est une nouvelle disposition prévue à l’article 118.041 de la Loi de l’impôt sur le revenu, LRC (1985), ch. 1, ainsi modifiée (la Loi). Le but de cette disposition, qui a été adoptée en 2015, est d’accorder aux personnes âgées et aux Canadiens à mobilité réduite une déduction pour des dépenses engagées en vue d’améliorer l’accessibilité de leur domicile. Le ministre a refusé d’accorder le CIAD à M. Patrie au motif que les modifications apportées à la propriété ne répondaient pas à la définition de « travaux de rénovation admissibles » ou qu’elles ont été engagées ou effectuées « principalement en vue de faire augmenter ou de maintenir la valeur du logement [...] ».
+II. FAITS SUPPLÉMENTAIRES
+[2] Il serait utile d’énoncer ici certains faits supplémentaires. M. Patrie et son épouse sont propriétaires de leur maison, à Sherwood Park (Alberta), depuis 1989. Cette propriété a une cour arrière et un jardin. Jusqu’en 2016, il fallait descendre deux marches en bois, sans rampe ni palier, pour accéder à la cour depuis la maison. Pour être plus précis, on pourrait dire que les marches préexistantes étaient bancales. Mme Patrie est une personne à mobilité réduite, car elle est atteinte d’une importante fibrillation auriculaire et de diabète de type II. Elle a 76 ans. Nul ne conteste le fait que Mme Patrie est un « particulier admissible », que la maison est un « logement admissible » et que M. Patrie est un « particulier déterminé » aux fins du CIAD et des définitions prévues dans la Loi.
+[3] Les travaux de rénovation entrepris afin de permettre à Mme Patrie d’avoir plus facilement accès ont consisté à retirer les marches existantes et à construire une terrasse faite de semelles de fondation, de solives, d’un plancher, de rampes et d’un escalier de cinq pieds de largeur, le tout entouré de solides rampes en aluminium. Les coûts engagés par M. Patrie pour ces travaux (une dépense qui n’est pas non plus contestée) ont dépassé 11 000 $. La somme maximale déductible au titre du CIAD est de 10 000 $.
+[4] Le ministre a refusé le CIAD pour deux raisons principales :
+L’amélioration de l’accès au domicile pour Mme Patrie ne satisfait pas à la définition prescrite, ni ne respecte le critère qui en découle, pour que ces améliorations soient considérées comme des travaux de rénovation admissibles (refus au motif que les travaux sont [traduction] « hors du champ d’application prescrit »);
+Même si les rénovations étaient des travaux admissibles, ces travaux ont été réalisés principalement dans le but de faire augmenter ou de maintenir la valeur de la maison; ils sont donc expressément exclus (exclusion fondée sur un [traduction] « objectif principalement économique »).
+Textes législatifs
+[5] Les dispositions de l’article 118.041 de la Loi qui sont pertinentes pour le présent appel sont reproduites ci-après :
+Définitions
+118.041(1) Les définitions qui suivent s’appliquent au présent article.
+[…]
+Dépense admissible Est une dépense admissible d’un particulier toute dépense engagée [...] qui est directement attribuable à des travaux de rénovation admissibles [...]. Ne sont pas des dépenses admissibles les dépenses engagées ou effectuées :
+[…]
+g) principalement en vue de faire augmenter ou de maintenir la valeur du logement admissible;
+[…]
+[…]
+Travaux de rénovation admissibles S’entend de travaux de rénovation ou de transformation apportés au logement admissible d’un particulier déterminé ou d’un particulier admissible relativement à un particulier déterminé qui, à la fois :
+a) sont des travaux à caractère durable qui font partie intégrante du logement admissible;
+b) sont effectués à l’une des fins suivantes :
+i) permettre au particulier déterminé d’avoir accès au logement admissible, de s’y déplacer ou d’y accomplir les tâches de la vie quotidienne,
+ii) réduire le risque que le particulier déterminé ne se blesse à l’intérieur du logement admissible ou en y accédant.
+Résumé de la position et des observations de l’intimée
+[6] En confirmant la nouvelle cotisation, les représentants du ministre ont répété l’opinion générique selon laquelle les terrasses ne satisfont pas aux exigences de la définition de travaux de rénovation admissibles aux fins du crédit d’impôt pour l’accessibilité domiciliaire. L’avocat de l’intimée a fait valoir, d’une manière plus réfléchie, nuancée et détaillée, que les améliorations ne répondaient pas à la définition de travaux de rénovation admissibles, parce que :
+i) les travaux de rénovation ne sont pas des travaux à caractère durable qui font partie intégrante du domicile;
+ii) les travaux de rénovation n’ont pas suffisamment contribué à améliorer l’accessibilité du domicile, la mobilité de Mme Patrie à l’intérieur ou autour de la maison, ou sa capacité d’y accomplir les tâches de la vie quotidienne;
+iii) les notes explicatives accompagnant les modifications législatives apportées à la Loi en 2015 indiquent précisément ce qui suit :
+Les améliorations doivent être de nature durable et faire partie intégrante du logement admissible. Parmi des exemples de dépenses admissibles, on trouve les dépenses relatives aux rampes d’accès pour fauteuil roulant, aux baignoires avec porte, aux douches accessibles aux fauteuils roulants et aux barres d’appui.
+et;
+v) les travaux de rénovation entrepris sont d’une importance démesurée et ils sont plus importants et plus complexes que ceux requis au minimum pour améliorer l’accès, la mobilité ou le caractère fonctionnel ou pour réduire les risques de blessure à l’intérieur de la maison ou en y accédant.
+[7] Subsidiairement, l’avocat de l’intimée fait valoir que les améliorations ont été entreprises dans le but principalement d’accroître ou de maintenir la valeur de la maison et qu’elles correspondent donc à l’exclusion prévue à l’alinéa g) de la définition de « dépense admissible ». M. Patrie a notamment invoqué en preuve le fait qu’il avait toujours été prévu de construire une terrasse et qu’il avait été impossible pour Mme Patrie de s’asseoir sur la terrasse, de rendre visite à sa famille ou de profiter du jardin avant que les travaux de rénovation soient entrepris. Deuxièmement, l’intention de M. Patrie, en remplaçant les marches existantes et en construisant la terrasse, était de se conformer au code du bâtiment qui, croyait-il, exigeait l’apport de tels correctifs.
+[8] Pour appuyer son argument relatif à l’augmentation de la valeur, l’avocat de l’intimée a fait une analogie avec la déduction pour frais médicaux énoncée ailleurs dans la Loi, qui ne prévoit aucun allègement fiscal pour les frais de logement et d’alimentation, sauf lorsqu’il existe un lien manifeste entre le besoin et la maladie : Lister c. Canada, 2006 CAF 331, aux paragraphes 15 et 16.
+Analyse et décision
+[9] Les faits énoncés ci-après, qui reflètent le caractère nouveau du crédit d’impôt pour l’accessibilité domiciliaire, sont déterminants dans l’issue du présent appel.
+(i) Renseignements généraux
+[10] Les marches préexistantes étaient en place depuis environ 18 ans. Leur remplacement était devenu nécessaire, non pas à cause de leur caractère minimaliste, du fait qu’elles étaient bancales ou d’un besoin pressant ou secondaire d’accroître la valeur de la propriété ou de corriger des non-conformités au code du bâtiment. Les Patrie n’avaient aucun plan prévoyant la mise en vente ou la vente imminente de leur maison. Ils résident toujours dans leur maison. Ce qui s’est produit, c’est que la mobilité de Mme Patrie s’est dégradée. Son accès au jardin et son utilisation du jardin depuis la cuisine étaient de plus en plus compromis et limités. Ce fait a été clairement établi à la lumière des nombreuses photographies qui ont été prises avant, pendant et après les travaux et qui ont été présentées à la Cour avec le témoignage de M. Patrie. Ces éléments de preuve montrent clairement que ce point d’entrée était très précaire et instable pour une personne dont la mobilité était aussi compromise. Il n’aurait pas posé de problème pour une personne plus agile.
+[11] Sur le plan pratique, les travaux de rénovation ont permis d’élargir, d’améliorer et de prolonger la durée et le degré d’utilisation du logement, en particulier de la cuisine et du jardin, par Mme Patrie, de même que leur accessibilité. L’opinion exprimée dans les notes explicatives, selon laquelle les travaux de rénovation admissibles se limitent aux dispositifs d’aide, comme les rampes d’accès pour fauteuil roulant, les baignoires avec porte, les douches accessibles aux fauteuils roulants et les barres d’appui, est fortement ancrée dans le passé. Elle s’inscrit dans l’esprit de la déduction pour frais médicaux prévue à l’article 118.2 de la Loi. Plus important encore, elle n’est pas étayée par le libellé de cet article entièrement nouveau. Le but du nouveau texte législatif est de rendre les travaux de rénovation liés à l’accessibilité plus abordables pour les personnes âgées qui vivent dans la communauté, et ainsi d’accroître la sécurité et le confort de leur maison. Le fait d’étendre cet avantage fiscal aux personnes âgées et aux personnes à mobilité réduite a pour objectifs immédiats de réduire les coûts des soins de santé pour la société, de respecter la dignité des personnes âgées et de réduire l’isolement associé à la vie en établissements, lorsque cela n’est pas ce que la personne âgée ou la personne à mobilité réduite souhaite.
+[12] Dans les notes explicatives, les représentants du ministère des Finances semblent avoir confondu la déduction pour frais médicaux et frais associés à des dispositifs d’assistance avec cette déduction nouvelle et distincte qu’est le crédit d’impôt pour l’accessibilité domiciliaire. Quelle raison pourrait-on avoir de créer une nouvelle déduction libellée différemment dans la loi s’il fallait y appliquer un critère d’admissibilité préexistant? Il ne fait aucun doute que l’avocat de l’intimée a été informé de cette vue de la Cour durant la plaidoirie. Si le législateur avait voulu que le crédit d’impôt pour l’accessibilité domiciliaire se limite à ces dispositifs fonctionnels, il :
+(i) aurait énuméré nommément ces dispositifs dans la définition de ce qui constitue des travaux de rénovation admissibles;
+(ii) aurait exclu nommément les terrasses, plateformes et escaliers rénovés parmi les exclusions détaillées;
+(iii) n’aurait pas choisi le libellé vague et générique qu’il a utilisé.
+(ii) Les travaux sont-ils hors du champ d’application prescrit?
+[13] Les travaux de rénovation, quelle que soit leur ampleur, doivent respecter deux conditions pour être considérés comme des travaux admissibles s’inscrivant dans le champ d’application prescrit. La première condition est qu’il doit s’agir de travaux de rénovation « à caractère durable qui font partie intégrante du logement ». La construction complexe dans les linteaux de la fondation en béton de la maison, la pose d’ancrages dans la fondation existante et les neuf semelles de béton sous la terrasse assurent la durabilité de cette structure, peut-être même au-delà de celle du logement principal. Quant à l’intégration de la terrasse, les coûts de démolition et de séparation de la terrasse du logement existant pourraient bien dépasser les coûts initiaux de sa construction. Même l’avocat de l’intimée, ayant été saisi de la preuve, a reconnu la faiblesse de tout argument contraire.
+[14] La deuxième condition à respecter pour que des travaux de rénovation soient jugés admissibles est qu’ils doivent être effectués pour permettre à la personne d’avoir accès à la maison, de s’y déplacer et d’y accomplir les tâches de la vie quotidienne. Les travaux de rénovation entrepris respectent ces deux conditions, tant sur les plans pratique et logique que sur celui du bon sens. Selon le critère, il importe peu de savoir si ces conditions ont été dépassées. Il s’agit d’un critère minimal, et non d’un critère d’objectif exclusif. Aucun des mots « uniquement », « principalement » ou « seulement » ne figure dans ce sous-alinéa. Les travaux réalisés ont engendré d’autres avantages accessoires, outre ceux associés aux critères prescrits, mais les dispositions de la Loi ne prévoient aucune restriction implicite ou explicite relativement à ces autres usages.
+[15] De même, la deuxième condition prévoit que, pour être admissibles, les travaux de rénovation doivent réduire le « risque que le particulier [...] ne se blesse » à l’intérieur du logement ou en y accédant ou améliorer l’« accès » au logement. Il ne fait aucun doute que le dernier objectif a été atteint, et que le premier l’a fort probablement été également.
+[16] Enfin, le libellé de cet article montre que tous les objectifs, à savoir permettre à la personne d’avoir accès au logement, de s’y déplacer et d’y accomplir les tâches de la vie quotidienne, réduire les risques et améliorer l’accès au logement, sont clairement distincts. Le respect d’une seule de ces cinq conditions suffirait pour qu’un contribuable soit admissible. Or, les Patrie satisfont à presque toutes, voire à toutes, ces conditions.
+(iii) L’exclusion prévue pour des travaux réalisés dans un objectif principalement économique s’applique-t-elle?
+[17] La prétention de l’intimée voulant que les travaux aient été principalement axés sur la valeur est elle aussi rejetée. Les éléments de preuve indiquant que les améliorations ont été réalisées dans le but principalement d’accroître ou de maintenir la valeur de la maison sont, au mieux, vagues. Les opinions médicales, l’acceptation par la ministre de l’état de Mme Patrie en tant que particulier admissible et le souci de M. Patrie de s’assurer que les spécifications de la terrasse contribuent, sous tous les aspects, à accroître et à prolonger l’utilité du logement pour Mme Patrie, ainsi que sa mobilité à l’intérieur et autour de la maison, sont tous des faits pertinents. Tout bien pesé, tous ces faits pris globalement réfutent l’allégation ou l’hypothèse selon laquelle les travaux de construction visaient principalement à accroître la valeur de la propriété.
+[18] Même la prétention quelque peu confuse faite par M. Patrie, selon laquelle il croyait à tort que la loi exigeait que les marches existantes non conformes soient corrigées, ne constitue pas une preuve convaincante de travaux réalisés dans un but principalement économique. Les marches préexistantes étaient en place depuis au moins 1989. Selon M. Patrie, elles n’ont jamais été conformes aux normes. Si son intention avait été de tirer profit du remplacement de ces marches par des marches conformes, il aurait vraisemblablement fait ces travaux bien des années auparavant. Il ne l’a pas fait. Il a remplacé les marches lorsque cela est devenu nécessaire, lorsque l’âge et l’état de santé de son épouse avaient grandement réduit sa mobilité. Ces faits suffisent à réfuter tout argument selon lequel les travaux auraient été réalisés dans un objectif principalement économique justifié par un désir secondaire de se conformer au code du bâtiment.
+[19] Le critère ne prévoit pas qu’il faille examiner si les travaux de rénovation ont eu pour effet collatéral d’augmenter ou de maintenir la valeur de la propriété. Une telle interprétation n’est pas conforme au libellé de l’exclusion mentionnée à l’alinéa g). L’accroissement ou le maintien de la valeur doit être l’objectif principal. Faute d’éléments de preuve indiquant que le contribuable cherchait principalement à accroître ou à maintenir la valeur de la propriété et que l’amélioration de l’accessibilité n’était que secondaire, l’exclusion prévue à l’alinéa g), relativement aux travaux entrepris « principalement » en vue de faire augmenter ou de maintenir la valeur, ne peut être retenue. Si le libellé actuel occasionne de trop grandes dépenses pour le trésor public, le législateur peut abroger ou modifier les dispositions qu’il a très clairement rédigées. Dans l’intervalle, la ministre et ses représentants doivent pouvoir s’appuyer sur un solide fondement factuel pour invoquer l’exclusion selon laquelle un contribuable a entrepris des améliorations dans un objectif principalement économique.
+[20] Pour ces motifs, l’appel est accueilli, sans dépens.
+Signé à Vancouver (Colombie-Britannique), ce 12e jour de décembre 2019.
+« R.S. Bocock »
+Le juge Bocock
+RÉFÉRENCE :
+2019 CCI 276
+NO DU DOSSIER DE LA COUR :
+2018-3717(IT)I
+INTITULÉ :
+WAYNE G. PATRIE c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Edmonton (Alberta)
+DATE DE L’AUDIENCE :
+Le 29 novembre 2019
+MOTIFS DU JUGEMENT :
+L’honorable juge Randall S. Bocock
+DATE DU JUGEMENT :
+Le 12 décembre 2019
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Allan Mason
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

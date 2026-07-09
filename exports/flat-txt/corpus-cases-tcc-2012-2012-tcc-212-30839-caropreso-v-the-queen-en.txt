@@ -1,0 +1,139 @@
+Title: Caropreso v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30839/index.do
+Corpus path: corpus/cases/tcc/2012/2012-tcc-212-30839-caropreso-v-the-queen-en.md
+Document type: case_law
+Last modified: 2012-06-12
+
+# Caropreso v. The Queen
+
+- Citation: 2012 TCC 212
+- Decision date: 2012-06-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7398, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Caropreso v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-06-12
+Neutral citation
+2012 TCC 212
+File numbers
+2011-3105(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-3105(IT)I
+BETWEEN:
+MARIA F. CAROPRESO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 28, 2012 at Ottawa, Ontario
+By: The Honourable Justice J.M. Woods
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Anne-Marie Boutin
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to an assessment made under the Income Tax Act for the 2008 taxation year is dismissed.
+Signed at Toronto, Ontario this 12th day of June 2012.
+“J. M. Woods”
+Woods J.
+Citation: 2012 TCC 212
+Date: 20120612
+Docket: 2011-3105(IT)I
+BETWEEN:
+MARIA F. CAROPRESO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] This appeal concerns payments made by a medical research institute to a postdoctoral research fellow. Maria Caropreso appeals an assessment made for the 2008 taxation year which included such payments in her income pursuant to paragraph 56(1)(n) of the Income Tax Act.
+[2] In 2008, Dr. Caropreso was registered as a postdoctoral fellow at the University of Ottawa. She had two separate research engagements during that year. For the first half of the year, she was engaged by the Ottawa Health Research Institute (OHRI) in medical research. For the balance of the year, she was engaged by the University in another type of research.
+[3] Dr. Caropreso was assessed tax only for the first engagement and this is the only item is dispute.
+[4] Dr. Caropreso’s area of specialization is computers, and she was engaged by OHRI to conduct research in a field involving computers and medicine. The payments made by OHRI totalled $19,928 and they were funded by a grant received by Dr. Miguel Andrade, who was a senior researcher employed by OHRI. The grant was received from the Canadian Institutes of Health Research (CIHR).
+[5] Dr. Caropreso suggested that as the working arrangement was the same in the engagement with the University, and since she was not taxed on payments by the University, that payments by OHRI should similarly not be taxed. The respondent introduced evidence suggesting that the second engagement with the University was simply missed by the Canada Revenue Agency.
+[6] It is not necessary to consider the respondent’s evidence on this point. The Minister’s assessing action on the second engagement cannot have a bearing on the proper tax treatment of the first engagement. The proper tax treatment depends on the legislation and relevant jurisprudence, and not on the actions of the Minister.
+[7] With respect to the arrangement with OHRI, Dr. Caropreso’s circumstances are similar to those of En Huang and Dianbo Qu, who recently brought appeals to this Court. I heard the appeals and decided in favour of Dr. Huang and Dr. Qu (2012 TCC 81).
+[8] The decision in Huang and Qu considered two issues. The first was whether the payments were received as or on account of a fellowship pursuant to s. 56(1)(n) or whether they were on account of a research grant within the meaning of s. 56(1)(o). The conclusion on that issue was that the payments were not a grant and were subject to s. 56(1)(n). The second issue was whether the payments qualified for the scholarship exemption in s. 56(1)(n)(ii). I concluded that they did.
+[9] On these two issues, the evidence in this appeal was very similar to that in Huang and Qu and I will not go through it again. I see no reason to come to a different conclusion on these points.
+[10] Counsel for the respondent submits that further evidence has been provided in this appeal. Although some of the witnesses in this appeal were different than in Huang and Qu, the evidence as a whole was not significantly different and it did not persuade me that the conclusion reached in Huang and Qu was incorrect.
+[11] That is not the end of the matter, however. A further argument is being made in this appeal, which is that the payments are income from employment. I declined to hear argument on this issue in the earlier appeals because the issue had been raised by the respondent too late.
+[12] If the payments have the character of employment income, they are specifically excluded from s. 56(1)(n) and do not qualify for the scholarship exemption. In an earlier appeal dealing with postdoctoral funding, Chabaud v. The Queen, 2011 TCC 438, 2012 DTC 1076[1] Archambault J. raised this issue and, after receiving submissions, concluded that the fellowship payments were taxable as employment income.
+[13] The only issue that requires further comment, then, is whether the payments received by Dr. Caropreso from OHRI are income from employment. The respondent bears the burden of proof as no relevant Ministerial assumptions are stated in the Reply.
+Analysis
+[14] Paragraphs 56(1)(n) and 56(3)(a) of the Act are reproduced below.
+56. (1) Amounts to be included in income for year. Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year,
+[…]
+(n) Scholarships, bursaries, etc. - the amount, if any, by which
+(i) the total of all amounts (other than amounts described in paragraph 56(1)(q), amounts received in the course of business, and amounts received in respect of, in the course of or by virtue of an office or employment) received by the taxpayer in the year, each of which is an amount received by the taxpayer as or on account of a scholarship, fellowship or bursary, or a prize for achievement in a field of endeavour ordinarily carried on by the taxpayer, other than a prescribed prize,
+exceeds
+(ii) the taxpayer’s scholarship exemption for the year computed under subsection (3);
+56. (3) Exemption for scholarships, fellowships, bursaries and prizes. For the purpose of subparagraph (1)(n)(ii), a taxpayer’s scholarship exemption for a taxation year is the total of
+(a) the total of all amounts each of which is the amount included under subparagraph (1)(n)(i) in computing the taxpayer’s income for the taxation year in respect of a scholarship, fellowship or bursary received in connection with the taxpayer’s enrolment
+(i) in an educational program in respect of which an amount may be deducted under subsection 118.6(2) in computing the taxpayer’s tax payable under this Part for the taxation year, for the immediately preceding taxation year or for the following taxation year, or
+(ii) in an elementary or secondary school educational program,
+[15] Paragraph 56(1)(n) draws a distinction between payments made in the course of business or employment versus payments made to provide financial assistance to further the recipient’s education. Payments of the first type are fully taxable and payments of the latter are potentially eligible for the scholarship exemption described in s. 56(1)(n)(ii) and 56(3)(a).
+[16] As a preliminary comment, I would note that the respondent did not suggest that Dr. Caropreso received the OHRI payments as an independent contractor (i.e., in the course of business). Accordingly, in order for the respondent to succeed in the appeal, it must be established that (1) Dr. Caropreso was an employee of OHRI, and (2) the payments were not assistance for education.
+[17] I will first consider whether the payments were provided as educational assistance.
+[18] The case law on this point is divided. In Bekhor v. MNR, 2005 TCC 443, Justice Lamarre Proulx concluded that a postdoctoral fellow was not an employee for purposes of the Employment Insurance Act and Canada Pension Plan because the payments were in the nature of financial assistance for education.
+[19] A different conclusion was reached by Justice Archambault in Chabaud. His conclusion is stated in paragraph 109:
+[109] In my opinion, the Report on Postdoctoral Fellows prepared for the MEQ, describing postdoctoral training as an activity enabling the fellow to develop "expertise" in research in a complementary or more specialized field, and according to which postdoctoral fellows must be considered employees, seems much closer to reality than the T2202A issued to postdoctoral fellows by the Université Laval and other Canadian universities. It is possible that the decision rendered by Lamarre Proulx J. of this Court in Bekhor v. Canada (Minister of National Revenue), 2005 TCC 443, [2005] T.C.J No. 314 (QL), encouraged them to find that postdoctoral fellows were not employees. Considering the numerous similarities between Mr. Chabaud's fellowship and that of Mr. Bekhor, I do not think it is appropriate to make any factual distinctions in order to come to a different conclusion than that in Bekhor. With great respect for those who hold the opposite view, I cannot adopt here the same reasoning as that adopted in Bekhor. It is unfortunate that Mr. Bekhor did not see fit to appeal to the Federal Court of Appeal so that it could rule on this issue. In keeping with the opinion I have just expressed, I encourage Mr. Chabaud to do this in order to obtain a decision that will create a judicial precedent, which my decision cannot be.
+[20] The root of the difficulty is that payments to postdoctoral research fellows often have dual elements. The payments further the education of research fellows and they also provide compensation for work performed. If the payments are received by virtue of employment, this takes precedence. However, in making this determination, it is relevant to consider the dominant characteristic of the payments, whether it is compensation for work or student assistance.
+[21] In this case, I would conclude that the primary aspect is compensation for work performed. Although the relationship with OHRI had an element of furthering Dr. Caropreso’s education, I find that this element was subsidiary.
+[22] According to the operating budget for the grant to Dr. Andrade from which the payments to Dr. Caropreso were made, the labour component of the budget was allocated to research staff. It was not allocated to postdoctoral fellows, but according to the evidence CIHR guidelines permitted funds allocated for research staff to be paid to postdoctoral fellows. This suggests that CIHR intended to provide funds primarily for research and not primarily as financial assistance for postdoctoral education.
+[23] It would have been helpful to have someone from CIHR testify as to the nature of the funding, but I have not drawn a negative inference against the respondent for the failure to call this evidence since the appeal is under the informal procedure.
+[24] I accept that Dr. Caropreso was furthering her education when she worked at Dr. Andrade’s laboratory, but her means of doing so involved being remunerated for work performed. This was the dominant aspect of the relationship that Dr. Caropreso had with OHRI.
+[25] Testimony contrary to this was provided by Dr. Gary Slater, who at the relevant time was the Dean of the Faculty of Graduate and Postdoctoral Studies at the University of Ottawa. He testified that payments to postdoctoral fellows are in the nature of a scholarship.
+[26] The relevance of Dr. Slater’s testimony on this point is questionable because he was with the University and not OHRI. These are separate organizations and have separate arrangements with postdoctoral fellows.
+[27] In any event, I am unable to agree with Dr. Slater that payments to postdoctoral fellows are simply scholarships. In this case, the payments were made by a government institution, CIHR, as part of funding for a research laboratory. The focus of the funding appears to be on the research, and not on providing an education to postdoctoral fellows.
+[28] I accept that payments to postdoctoral fellows have elements of providing educational assistance. Such payments encourage recent graduates to become full‑time researchers and/or university teachers. The fellows are expected to give seminars and take some courses. However, the predominant element of the payments to Dr. Caropreso is compensation for work.
+[29] I would also note that Dr. Slater is not a disinterested witness. He is the former Dean of Graduate and Postdoctoral Studies, and he testified that the University sought legal advice to assist postdoctoral fellows in qualifying for the tax exemption. There is nothing wrong with this, of course, but it does suggest that Dr. Slater’s testimony should be viewed with caution.
+[30] I now turn to the second issue, which is whether Dr. Caropreso was engaged as an employee. I would first comment that if the respondent had taken the position that Dr. Caropreso received the payments as either an employee or independent contractor, it would not be necessary to consider this second issue. It is only necessary to consider it because the respondent did not raise the possibility that Dr. Caropreso received the payments in the course of business as an independent contractor.
+[31] The circumstances in this case are similar to those in Chabaud in which the relationship was found to be that of employment.
+[32] Dr. Caropreso was engaged to provide substantial full-time research and she worked under the close supervision of Dr. Carolina Perez‑Iratxeta, who was in charge of Dr. Andrade’s laboratory while he was away on sabbatical. Based largely on the testimony of Dr. Perez, I would conclude that OHRI had the ability to control the manner in which Dr. Caropreso performed her work. Ms. Perez assigned the work to Dr. Caropreso and directed it on a day-to-day basis.
+[33] Dr. Caropreso’s testimony differed from that of Dr. Perez. Dr. Caropreso testified that the work was determined on a collaborative basis between Dr. Perez and herself. She also testified that she could control her own work hours, and that she merely had to inform Dr. Perez when she would be away.
+[34] I accept that Dr. Perez collaborated with Dr. Caropreso and allowed her some freedom. However, based on Dr. Perez’ evidence, this was likely due to Dr. Perez’ management style and not a contractual right that Dr. Caropreso had. The question is whether OHRI had the “right” to control. I find that it did.
+[35] I would briefly comment that OHRI’s policy required postdoctoral fellows to obtain permission to take time off. I have not taken this policy into account because it is not clear that it applied to Dr. Caropreso. The policy that was entered into evidence was a version that was amended after the engagement letter was signed.
+[36] Dr. Slater testified that in the arrangement between OHRI and the University, it was required that postdoctoral fellows not be employees. I accept that this is the case, but it appears that OHRI did not comply with the requirement. If OHRI intended postdoctoral fellows not to be employees, it needed to put working conditions in place that were consistent with this. Based on the evidence provided, this was not done.
+[37] The control that OHRI had is the most important factor in determining employment in this case, but I would note that the other usual factors, tools, chance of profit and risk of loss, all point to an employment relationship as well.
+[38] I would also note that the contract with Dr. Caropreso stated that OHRI was the employer. This statement of the parties’ intention is not determinative, and I have not given it much weight in this case. In a document prepared by OHRI shortly after the contract with Dr. Caropreso was signed, the relationship with postdoctoral fellows was described as not being employment. However, this document was not provided to Dr. Caropreso and her contract was never amended to delete the reference to employment. It is difficult to conclude that the parties’ had a clearly defined intention.
+[39] Regardless of the intention of the parties, the actual relationship between the parties strongly points to employment. I would conclude that the payments made by OHRI to Dr. Caropreso were received by virtue of employment and are required to be included in income under section 5 of the Act.
+[40] The appeal will be dismissed.
+Signed at Toronto, Ontario this 12th day of June 2012.
+“J. M. Woods”
+Woods J.
+CITATION: 2012 TCC 212
+COURT FILE NO.: 2011-3105(IT)I
+STYLE OF CAUSE: MARIA F. CAROPRESO v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Ontario
+DATE OF HEARING: May 28, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice J.M. Woods
+DATE OF JUDGMENT: June 12, 2012
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Anne-Marie Boutin
+COUNSEL OF RECORD:
+For the Appellant:
+Name: n/a
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] The translated version of Chabaud that was provided by the respondent has been superseded by a new translation dated January 26, 2012. The revised version is in the DTCs.

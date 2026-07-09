@@ -1,0 +1,236 @@
+Title: Haché c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29585/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-10-29585-hach-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-01-07
+
+# Haché c. La Reine
+
+- Citation: 2010 CCI 10
+- Decision date: 2010-01-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6338, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Haché c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-01-07
+Référence neutre
+2010 CCI 10
+Numéro de dossier
+2006-3736(IT)G
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-3736(IT)G
+ENTRE :
+GILDARD HACHÉ,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 29 octobre 2009, à Moncton (Nouveau-Brunswick).
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Avocat de l'appelant :
+Me Gilles E. Bujold
+Avocate de l'intimée :
+Me Catherine McIntyre
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli, avec dépens, et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation sur la base que la somme de 2 583 465 $ reçue par l’appelant du ministre des Pêches et Océans du Canada au cours de l’année d’imposition 2001 ne doit pas être incluse dans son revenu pour cette même année, aux termes de la Loi de l’impôt sur le revenu.
+Signé à Montréal (Québec), ce 7e jour de janvier 2010.
+« Lucie Lamarre »
+Juge Lamarre
+Référence : 2010 CCI 10
+Date : 20100107
+Dossier : 2006-3736(IT)G
+ENTRE :
+GILDARD HACHÉ,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] L’appelant en appelle d’une cotisation établie par le ministre du Revenu national (ministre) en vertu de la Loi de l’impôt sur le revenu (LIR) pour l’année d’imposition 2001. Le ministre a considéré que la somme de 2 583 465 $ reçue par l’appelant du ministre des Pêches et Océans du Canada (ci-après désigné comme Pêches et Océans Canada ou MPO ou M.P.O., selon la différente documentation déposée en preuve) était le produit de disposition par l’appelant de deux permis de pêche commerciale dont il aurait été le titulaire à l’égard du crabe des neiges et du poisson de fond. En conséquence, le ministre a inclus cette somme dans le revenu de l’appelant aux termes des articles 9 et 14 de la LIR comme un montant en immobilisations admissible. À l’audition, l’intimée a abandonné cette position et soumet devant cette Cour, que ce montant est imposable comme un gain en capital aux termes des articles 38, 39 et 40 de la LIR. L’appelant considère tout simplement que ce montant n’est pas imposable aux termes de la LIR, puisque les permis de pêche ne sont pas des biens, au sens de la LIR, dont il pouvait disposer et qu’en conséquence, la somme reçue ne peut donner lieu à un gain en capital devant être inclus dans son revenu pour l’année d’imposition 2001.
+[2] Les parties ont déposé lors de l’audition, un document signé par elles et intitulé « Faits et documents reconnus par les parties », dont je ne reproduirai que la partie A concernant les faits, lesquels se lisent comme suit :
+a. L’appelant, Gildard Haché, est résident de la ville de Shippagan, dans le comté de Gloucester, province du Nouveau-Brunswick et son adresse postale complète est le casier postal 2085, Shippagan, NB E8S 3H3.
+b. L’appelant porte en appel en vertu de la Loi de l’impôt sur le revenu, L.R.C. 1985, c. 1 (5e supp.) (ci-après la « LIR ») la cotisation pour l’année fiscale 2001 émise le 5 septembre 2006.
+c. L’appelant était un pêcheur commercial enregistré en vertu de la Loi sur les pêches, L.R.C. 1985, c. F-14 et de ses règlements (ci-après la « Loi sur les pêches ») durant les années 1996, 1997, 1998, 1999 et 2000.
+d. L’appelant était titulaire de permis de pêche commerciale à l’égard du crabe des neiges (permis # 004385) et du poisson de fond (permis # 004384) émis par le ministre des Pêches et Océans (ci-après « Pêches et Océans Canada ») en vertu de la Loi sur les pêches (ci-après les « Permis ») durant les années 1996, 1997, 1998, 1999 et 2000.
+e. L’appelant était propriétaire durant les années 1996, 1997, 1998, 1999 et 2000 d’un navire portant le nom de « Sandra Caryne » (ci-après le « Bateau ») et d’équipements pour la pêche au crabe des neiges et au poisson de fond (ci‑après les « Équipements »).
+f. Le 26 février 2001, l’appelant a signé une entente portant le numéro NB-70-2001 avec Sa Majesté la Reine du chef du Canada représentée par Pêches et Océans Canada (« l’Entente »).
+g. L’Entente a été faite selon le Programme d’accès aux pêches (le « PAP »).
+h. Le but recherché par Pêches et Océans Canada en vertu de son programme d’accès aux allocations de pêche était de permettre à des groupes autochtones des Premières nations de participer à la pêche commerciale comme ressource commune, et de leur fournir de nouveaux navires, engins et matériel pour leur permettre de bénéficier de cet accès.
+i. Durant l’année 2001, Pêches et Océans Canada a versé à l’appelant la somme de 3 050 000 $ en vertu de l’Entente, et le titre « paiement volontaire » apparaît dans cette entente.
+j. Dans sa déclaration de revenu pour l’année 2001, l’appelant a déclaré la somme de 3 050 000 $.
+k. Suite à une vérification des années d’imposition 2000 et 2001 de l’appelant, l’intimée a émis le 6 janvier 2004 un avis de nouvelle cotisation (ci-après la « nouvelle cotisation »).
+l. Dans la nouvelle cotisation, l’intimée a modifié la répartition de la somme de 3 050 000 $ que l’appelant avait déclaré dans sa déclaration de revenu pour l’année 2001, de façon à ce que la somme de 466 535 $ soit à titre de produit de disposition du Bateau et des Équipements, et que 2 583 465 $ soit à titre de produit de disposition des Permis.
+m. Par avis d’opposition daté le 5 avril 2004, l’appelant s’est opposé à la nouvelle cotisation.
+n. Le 5 septembre 2006, l’intimée a émis un deuxième avis de nouvelle cotisation (ci-après le « deuxième avis de nouvelle cotisation ») dans lequel il faisait des redressements sur des montants qui ne sont pas pertinents à cet appel et, maintenait la cotisation des montants qui font l’objet de cet appel.
+o. Le produit de disposition de 466 535 $ cotisé à l’appelant pour le transfert du Bateau et des Équipements n’est pas en litige dans cet appel.
+p. L’appelant porte en appel la décision de l’intimée de l’imposer sur la somme de 2 583 465 $ à titre de produit de disposition des Permis.
+[3] L’appelant a produit en preuve le dernier permis de pêche qui lui a été délivré sous l’autorité de Pêches et Océans Canada pour le poisson de fond en date du 19 avril 2000 (pièce A-1, onglet 3). Ce document autorise le titulaire du permis à se livrer à la pêche et à des activités connexes sur la côte de l’Atlantique du Canada, sous réserve des dispositions de la « Loi et du Règlement sur les pêches ». Il indique en outre ce qui suit :
+CE PERMIS EST VALIDE DU 1 JANVIER 2000 JUSQU’AU 14 MAI 2001.
+CE PERMIS EST VALIDE QUE LORSQUE LES CONDITIONS SONT ATTACHÉES À CE PERMIS.
+LES CONDITIONS DE PERMIS SERONT DISPONIBLES AU CENTRE DE DÉLIVRANCE DES PERMIS.
+L’UTILISATION DE CE PERMIS EST SUJETTE AUX CONDITIONS ÉMISES PAR LE M.P.O. LE DÉTENTEUR DE CE PERMIS DOIT S’ASSURER D’AVOIR REÇU LES CONDITIONS DE PERMIS, ET NE DOIT PAS PRENDRE PART AUX ACTIVITÉS DE PÊCHE AVEC CE PERMIS AVANT D’AVOIR REÇU LES CONDITIONS DE PERMIS VALIDES ET LES AVOIR ATTACHÉES À CE PERMIS.
+[4] Lors de son témoignage, l’appelant a expliqué que malgré la délivrance de ce permis, il ne pouvait plus pêcher le poisson de fond depuis une dizaine d’années puisque le gouvernement y a mis un terme. De fait, il semble que l’appelant n’a jamais reçu les conditions afférentes à ce permis, faisant en sorte que la pêche du poisson de fond lui était interdite, enlevant ainsi toute validité à ce permis. Aucun document signé par l’appelant, démontrant le contraire, n’a été produit et l’intimée n’a pas mis en doute la crédibilité de l’appelant sur ce point.
+[5] L’appelant a également produit en preuve le dernier permis de pêche qui lui a été délivré par Pêches et Océans Canada pour le crabe des neiges en date du 16 décembre 2000 (pièce A-1, onglet 4). Ce permis n’indique aucune période de pêche mais mentionne que son utilisation est sujette aux conditions émises par Pêches et Océans Canada, que le pêcheur doit s’assurer avoir reçues avant d’entreprendre toute activité de pêche. L’appelant a expliqué lors de son témoignage que la pêche était déjà terminée pour l’année 2000 au moment où ce permis a été délivré. On lui avait remis, le 13 avril 2000, un permis de pêche commerciale temporaire pour la période du 15 avril 2000 au 15 août 2000, pour lequel il aurait versé des droits de 11 367 $ (pièce A-1, onglet 13). Ce montant correspond au coût relié aux conditions imposées pour l’utilisation du permis de pêche de crabe des neiges. Ces conditions se retrouvent à la pièce A-1, onglets 11 et 12. Elles concernent la quantité maximale de poisson que le pêcheur est autorisé à capturer pendant la période, de même que les zones de pêche et les obligations que doit respecter le pêcheur pour exercer son droit de pêche. Les deux documents imposant ces dernières conditions pour la période du 15 avril 2000 au 15 août 2000 ont été signés par l’appelant le 13 avril 2000 (pièce A‑1, onglet 11) et le 17 mai 2000 (pièce A‑1, onglet 12).
+[6] L’appelant a mentionné qu’il a cessé toute activité de pêche en 2001. Le 5 février 2001, il a complété une « Application au programme d’accès aux allocations de pêche 2000/2001 » dans laquelle il indiquait un « prix demandé pour le paquet de License au complet » de 3 209 518,20 $, relativement aux permis de crabe et de poisson de fond de même que pour son bateau et les agrès (pièce I‑1, onglet 6). Plus précisément, le prix demandé relativement aux permis de poisson de fond et de crabe totalisait 2 109 518,20 $. Cette application a été faite dans le cadre d’un programme d’accès aux allocations de pêche établi par Pêches et Océans Canada.
+[7] Une entente a été conclue avec l’appelant, signée par ce dernier, le 26 février 2001 et contresignée par Pêches et Océans Canada le 9 mars 2001 (pièce A-1, onglet 5). Cette entente est à la base du paiement reçu par l’appelant et qui fait l’objet du présent litige. Elle concerne le retrait et l’abandon des deux permis de pêche, de même que le transfert du navire et de l’équipement. Le traitement fiscal du montant versé pour le navire et l’équipement n’est pas contesté. Seul le montant versé relativement aux deux permis de pêche est en jeu dans cette cause. L’entente se lit comme suit :
+PROGRAMME D’ACCÈS AUX ALLOCATIONS DE PÊCHE
+ENTENTE ENTRE LE BÉNÉFICIAIRE
+ET
+SA MAJESTÉ LA REINE DU CHEF DU CANADA,
+REPRÉSENTÉE PAR LE MINISTRE DES PÊCHES ET OCÉANS
+ENTENTE NB-70-2001
+PARTIE I : RETRAIT ET ABANDON DU PERMIS
+1. Je, Gildard Haché, NAS : ____________ (ci-après appelé le « bénéficiaire »), titulaire d’un permis de pêche commerciale à l’égard : crabe des neiges #4385 et poisson de fond #4384 (ci-après appelé le « permis »), abandonne par les présentes tous les privilèges et droits se rattachant au permis.
+2. En contrepartie des paiements volontaires prévus à la partie III, je reconnais par les présentes ce qui suit, en ma qualité de bénéficiaire :
+a) le présent abandon est irrévocable;
+b) je comprends les dispositions énoncées dans les parties II et III de la présente entente;
+c) les parties II et III du présent document font partie de la présente entente.
+Signature du bénéficiaire : ___Gildard Haché________
+Date : ________26 février 2001____
+PARTIE II : TRANSFERT DU NAVIRE ET DE L’ÉQUIPEMENT
+3. Le bénéficiaire reconnaît qu’il est propriétaire du navire et de l’équipement décrit de façon plus détaillée dans l’annexe de la présente entente (ci-après appelé les « biens »).
+4. Le bénéficiaire convient et garantit que les biens ne sont grevés d’aucun privilège ou autre obligation financière ou charge, sauf ceux qui sont mentionnés à l’annexe de la présente entente.
+5. Le bénéficiaire reconnaît qu’il a convenu de transférer à ses frais à une communauté autochtone (ci-après appelée « l’organisation autochtone ») le titre de propriété afférent aux biens franc ainsi que le bateau et l’équipement de pêche décrit dans cette entente et quitte de tous privilèges, obligations financières et autres charges.
+6. Le bénéficiaire convient que le MPO, l’organisation autochtone et toute personne que le MPO ou l’organisation autochtone désigne à l’occasion peuvent examiner les biens en tout temps raisonnable.
+7. Les risques afférents aux biens sont à la charge du bénéficiaire jusqu’à ce que le titre de propriété soit transféré à l’organisation autochtone.
+8. Le bénéficiaire convient de conserver les biens en bon état de navigabilité et de réparation jusqu’à ce qu’ils soient transférés à l’organisation autochtone.
+PARTIE III : PAIEMENT VOLONTAIRE
+9. Le MPO convient de verser au bénéficiaire un paiement volontaire au montant de 3 050 000,00 $ (TROIS MILLIONS CINQUANTE MILLE DOLLARS) une fois que :
+a) le bénéficiaire aura signé la présente entente;
+b) le bénéficiaire aura retourné au MPO tous les documents et plaques établis à l’égard du permis;
+c) le bénéficiaire aura transféré le titre de propriété afférent aux biens à l’organisation autochtone;
+d) le MPO sera convaincu que les biens sont francs et quittes de tous privilèges, obligations financières et autres charges.
+10. Dans l’un ou l’autre des cas suivants :
+a) si le bénéficiaire communique des renseignements faux ou trompeurs au MPO à l’égard de la présente entente;
+b) si le bénéficiaire ne se conforme pas à une disposition de celle-ci,
+le MPO pourra
+c) mettre fin à toute obligation de verser un paiement au bénéficiaire en application des présentes;
+d) obliger le bénéficiaire à rembourser au MPO tout paiement que celui-ci lui aura versé en application des présentes;
+e) exercer tout autre recours autorisé en droit.
+11. Lorsque, conformément à l’alinéa 10d) qui précède, le MPO demande au bénéficiaire de lui rembourser un paiement, le montant constituera une dette due à Sa Majesté La Reine du chef du Canada.
+12. Le bénéficiaire permet, sur demande, au MPO ou à toute personne que celui-ci désigne à l’occasion de vérifier les livres, registres, pièces justificatives, rapports et autres documents qui concernent la présente entente, le permis ou les biens et dont le MPO juge l’examen opportun, ainsi que d’en faire des copies et d’en prendre des extraits, et fournit toute l’aide nécessaire aux fins des vérifications et des examens en question.
+13. Le bénéficiaire conservera les documents mentionnés à l’article 12 pendant une période d’au moins deux ans suivant la date à laquelle le MPO lui aura versé le montant mentionné à l’article 9.
+14. Les membres de la Chambre des Communes ne peuvent participer à la présente entente ni en tirer avantage.
+15. Le bénéficiaire dégage Sa Majesté La Reine du chef du Canada et ses ministres, fonctionnaires et employés de toutes les réclamations, poursuites, actions ou demandes liées au permis et les indemnise de toutes les réclamations, préjudices et coûts se rapportant au permis ou aux biens.
+16. Le MPO peut faire parvenir tout paiement au bénéficiaire à l’adresse suivante :
+Gildard Haché
+C.P. 2085
+Shippagan, NB
+E8S 3H3
+17. Aucun paiement ne sera versé en application de l’article 9 de la présente entente avant que le transfert à l’organisation autochtone du titre de propriété afférent à un navire qui fait partie des biens soit enregistré.
+18. Toute obligation du MPO de verser un paiement au bénéficiaire en application de l’article 9 des présentes prend fin six mois après la date à laquelle les parties signent la présente entente, sauf si le bénéficiaire a signé la partie I des présentes, retourné au MPO tous les documents et plaques établis à l’égard du permis, transféré le titre de propriété afférent aux biens à l’organisation autochtone et respecté toutes les conditions de la présente entente avant l’expiration de la dite période.
+19. Le bénéficiaire convient et garantit que le permis ne fait l’objet d’aucune mesure de sanction, sauf les mesures énoncées à l’annexe de la présente entente.
+20. Dans le cas où le MPO autorise la rétention d’un/des permis, le(s) dernier(s) ne seront pas émis/transférés à un autre pêcheur.
+21. Les délais prévus aux présentes sont de rigueur.
+[8] L’appelant a également déposé en preuve la Politique d’émission des permis pour la pêche commerciale dans la région du Golfe établie par Pêches et Océans Canada (pièce A-1, onglet 10). On y apprend, entre autres, que la Politique d’émission des permis fait partie intégrante de diverses mesures prises par le gouvernement fédéral dans le but de restructurer les pêches commerciales et d’établir les fondements d’une pêche durable et rentable. Ainsi, on y lit que Pêches et Océans Canada tente de limiter la participation à la pêche de façon à assurer une récolte ordonnée de la ressource, de permettre aux pêcheurs moyens d’effectuer des opérations rentables et profitables et à adopter des politiques et des plans de gestion intégrés des pêches uniformes (article 1). L’objet est de fournir un énoncé clair et cohérent de la politique de Pêches et Océans Canada relativement, entre autres, à l’émission de permis de pêche dans la région du Golfe (article 2).
+[9] La définition d’un permis se lit comme suit à l’article 5 :
+5. Définition d'un permis
+(a) Généralités
+Un « permis » autorise une activité qui autrement est interdite. Un permis ne confère donc aucun droit de propriété ou aucun autre droit pouvant être légalement vendu, échangé ou légué. Il s'agit essentiellement du privilège de mener une activité, mais sous réserve des conditions liées au permis.
+(b) Permis de pêche
+Un « permis de pêche » est un instrument par lequel le ministre des Pêches et des Océans Canada accorde, conformément aux pouvoirs discrétionnaires que lui confère la Loi sur les pêches, la permission à une personne incluant une organisation autochtone de récolter certaines espèces de poissons ou de plantes marines sous réserve des conditions du permis. Il ne s'agit absolument pas d'une permission permanente, car celle-ci prend fin en même temps que le permis. Le titulaire du permis se voit accorder un privilège de pêche limitée et non un « droit de propriété » absolu ou permanent.
+(c) Droits acquis
+Tel qu'indiqué dans le Règlement de pêche (dispositions générales), l'émission d'un document quelconque à toute personne ne suppose ou ne lui confère aucun droit ou privilège futur quant au renouvellement ou à l'émission d'un document analogue à l'expiration du permis
+[10] L’article 12 énonce les lignes directrices générales, dont les suivantes :
+12. Lignes directrices générales
+1. Les exigences relatives à la détention d'un permis pour la pêche des diverses espèces de poisson se trouvent dans la Loi sur les pêches et les règlements adoptés en vertu de cette Loi.
+2. À l'exception des pêches fermées à des fins de conservation, le maintien du privilège d'obtenir un permis exige son renouvellement et l'acquittement de droits à chaque année.
+[…]
+[11] L’article 18 prévoit ce qui suit en ce qui concerne le titulaire du permis :
+18. Changement de titulaire
+a. La législation actuelle précise que les permis ne sont pas transférables. Le ministre peut cependant, « à son entière discrétion » et pour des raisons d'efficacité administrative, énoncer dans une politique les conditions ou exigences en vertu desquelles il peut émettre un permis à un nouveau titulaire en « remplacement raquo; [sic] d'un permis qui est rendu. Les conditions ou exigences qui s'appliquent alors sont énoncées dans le présent document.
+[…]
+Analyse
+[12] Les dispositions législatives auxquelles il est fait référence dans la Politique d’émission des permis pour la pêche commerciale se retrouvent dans la Loi sur les pêches, L.R.C. (1985), ch. F‑14 et dans le Règlement de pêche (dispositions générales), D.O.R.S. /93-53, dont les articles pertinents sont reproduits ci-après :
+Loi sur les pêches
+Baux, permis et licences de pêche
+7. (1) En l’absence d’exclusivité du droit de pêche conférée par la loi, le ministre peut, à discrétion, octroyer des baux et permis de pêche ainsi que des licences d’exploitation de pêcheries — ou en permettre l’octroi —, indépendamment du lieu de l’exploitation ou de l’activité de pêche.
+[...]
+Révocation par le ministre
+9. Le ministre peut suspendre ou révoquer tous baux, permis ou licences consentis en vertu de la présente loi si :
+a) d’une part, il constate un manquement à leurs dispositions;
+b) d’autre part, aucune procédure prévue à la présente loi n’a été engagée à l’égard des opérations qu’ils visent.
+Règlement de pêche (dispositions générales)
+Définitions
+2. Les définitions qui suivent s’appliquent au présent règlement.
+[…]
+« document » Permis, carte d’enregistrement de pêcheur ou carte d’enregistrement de bateau accordant le privilège légal de pratiquer la pêche ou des activités relatives à la pêche et aux pêches en général. (document)
+[...]
+Signature des documents
+9. Le titulaire qui reçoit un document doit immédiatement y apposer sa signature à l’encre dans l’espace réservé à cette fin, s’il est stipulé dans ce document qu’il n’est valide qu’une fois signé.
+Date d’expiration des documents
+10. Sauf indication contraire dans le document, celui-ci expire à l’une des dates suivantes :
+a) le 31 décembre de l’année pour laquelle il a été délivré, s’il est délivré pour une année civile;
+b) le 31 mars de l’année pour laquelle il a été délivré, s’il est délivré pour un exercice.
+[…]
+Transfert des documents et droits et privilèges
+16. (1) Tout document appartient à la Couronne et est incessible.
+(2) La délivrance d’un document quelconque à une personne n’implique ou ne lui confère aucun droit ou privilège futur quant à l’obtention d’un document du même type ou non.
+[…]
+Conditions des permis
+22. (1) Pour une gestion et une surveillance judicieuses des pêches et pour la conservation et la protection du poisson, le ministre peut indiquer sur un permis toute condition compatible avec le présent règlement et avec les règlements énumérés au paragraphe 3(4), notamment une ou plusieurs des conditions concernant ce qui suit :
+[…]
+[13] L’intimée souligne que pour trancher la question à savoir si la somme de 2 583 465 $ reçue de l’appelant constitue un gain en capital aux termes de la LIR, il faut d’abord établir qu’il y a eu une disposition d’un bien en contrepartie de la somme reçue. Elle s’appuie sur l’affaire Winsor c. Canada, 2007 CCI 692 (Winsor) et sur l’arrêt Saulnier c. Banque Royale du Canada, 2008 CSC 58 (Saulnier), pour soutenir que l’appelant a disposé de ses permis de pêche auxquels certains droits étaient rattachés, faisant en sorte qu’il y a eu disposition d’un bien.
+[14] Dans l’affaire Winsor, le contribuable avait fait une offre au gouvernement fédéral dans le cadre du Programme de retrait de permis de pêche du poisson de fond de l’Atlantique. Ce programme volontaire a été instauré en 1998 pour réduire le nombre de personnes exploitant une entreprise de pêche de poissons de fond de l’Atlantique. Le contribuable avait fait une offre, approuvée par le gouvernement, par laquelle le gouvernement avait accepté de payer une somme de 120 000 $, dont la moitié était attribuée au permis de pêche et l’autre moitié était versée pour que le contribuable accepte de cesser définitivement de pratiquer la pêche commerciale. Seule la somme de 60 000 $ attribuable au permis de pêche était en litige. Le juge Webb de notre Cour s’est appuyé sur l’arrêt Royal Bank of Canada v. Saulnier, [2006] N.S.J. no 307, de la Cour d’appel de la Nouvelle-Écosse, pour conclure que toute personne qui est titulaire d’un permis en vertu de la Loi sur les pêches et du Règlement de pêche (dispositions générales), a le droit de demander le renouvellement ou la redélivrance de son permis et de s’opposer à un refus arbitraire, de sorte que ce droit constitue un bien au sens de la LIR. Le terme « bien » est défini au paragraphe 248(1) de la LIR comme suit :
+248(1) Définitions -- Les définitions qui suivent s'appliquent à la présente loi.
+« biens » Biens de toute nature, meubles ou immeubles, corporels ou incorporels, y compris, sans préjudice de la portée générale de ce qui précède :
+a) les droits de quelque nature qu'ils soient, les actions ou parts;
+b) à moins d'une intention contraire évidente, l'argent;
+c) les avoirs forestiers;
+d) les travaux en cours d'une entreprise qui est une profession libérale.
+[15] La Cour suprême du Canada a entendu l’appel dans Saulnier après que le juge Webb ait rendu sa décision dans Winsor. Dans Saulnier, la question qui se posait était de décider si un permis de pêche commerciale, autorisant un pêcheur à exercer une activité réglementée – interdite à défaut de détenir un tel permis ‑ constituait un « bien » dont pouvait se réclamer, entre autres, un syndic, sous le régime de la Loi sur la faillite et l’insolvabilité, L.R.C. 1985, ch. B-3 (LFI).
+[16] La Cour suprême du Canada n’a pas retenu l’approche de la Cour d’appel de la Nouvelle-Écosse (et sur laquelle s’appuyait le juge Webb dans Winsor) qui avait statué que la capacité d’un titulaire de permis d’en demander le renouvellement ou la redélivrance à la personne qu’il désigne, et de contester un refus arbitraire du ministre, faisaient partie d’un « faisceau de droits » qui constituaient collectivement un type de bien susceptible d’être grevé d’une sûreté. Le juge Binnie s’exprime ainsi aux paragraphes 37, 38 et 39 :
+37 À mon avis, le débat sur l'étendue du caractère « transitoire et éphémère » des permis se révèle d'une utilité limitée. […] Le fait que le renouvellement ne soit pas garanti ne diminue en rien l'intérêt que possède le titulaire du permis, mais la perspective du renouvellement d'un permis conformément à une politique du ministre qui pourrait en tout temps être modifiée, ne transforme pas non plus un permis en intérêt de propriété.
+38 […] Je ne crois toutefois pas que le paradigme de « contrôle judiciaire » proposé par la Cour d'appel de la Nouvelle-Écosse en l'espèce soit utile à cet égard. Le Règlement permet à quiconque de présenter une demande de permis de pêche et chacun a droit à une décision ministérielle qui respecte l'équité procédurale. Je ne peux être d'accord pour dire que ces éléments peuvent, en eux-mêmes, faire en sorte qu'un permis constitue un « bien » de son titulaire.
+39 Quoi qu'il en soit, je souscris à la remarque que le juge Major a fait sienne dans Comeau's Sea Foods, selon laquelle il lui était impossible de trouver dans la législation sur les pêcheries un fondement juridique à l' « octroi » d'un intérêt dans un permis « au-delà des droits qui sont accordés pour l'année pour laquelle il est délivré » (para. 33). Voir également Joliffe c. La Reine, [1986] 1 C.F. 511 (1re inst.), p. 520. […] Le paragraphe 7(1) de la Loi sur les pêches prévoit que le ministre peut octroyer des permis de pêche « à discrétion ».
+[17] Ainsi, la Cour suprême du Canada accepte ce qui a été dit dans Joliffe précitée, où on a statué qu’un permis ne comportait aucun droit acquis outre les droits accordés pour la période pour laquelle il est délivré (voir Comeau’s Sea Foods Ltd. c. Canada (Ministre des Pêches et Océans), [1997] 1 R.C.S. 12, paragraphe 33).
+[18] Par ailleurs, bien que la Cour suprême du Canada conclue dans Saulnier que les permis de pêche que détenait M. Saulnier au moment de faire cession de ses biens, constituaient des biens au sens de la LFI, elle précise bien qu’un permis de pêche ne peut être considéré comme un bien en common law en général.
+[19] Il est vrai que dans ce même arrêt, la Cour a aussi mentionné qu’un permis de pêche s’apparentait à un profit à prendre en common law, lequel constitue un droit de propriété (Saulnier, paragraphe 28), mais un tel droit n’existe que pendant la durée de validité d’un permis. De fait, le droit d’exploiter une ressource publique à des fins commerciales pour son profit personnel est un privilège réservé à ceux qui détiennent un permis commercial (voir extrait de la décision de la Haute Cour d’Australie dans Harper c. Minister for Sea Fisheries (1989), 168 C.L.R. 314, cité par le juge Binnie dans Saulnier aux paragraphes 31 et 32). Ainsi, le juge Binnie souligne au paragraphe 34 que l’objet du permis (soit le droit de participer à une pêche réservée aux titulaires de permis) assorti d’un intérêt propriétal sur les prises effectuées conformément au permis, s’apparente raisonnablement à des droits que la common law considère traditionnellement comme de nature propriétale. Il considère donc que ce permis peut raisonnablement être inclus dans la définition du terme « bien » énoncée dans la LFI, qui fait mention des « profits présents ou futurs […] sur des biens ou en provenant ou s’y rattachant ».
+[20] La situation dans Saulnier se distingue du cas en espèce. D’une part, la définition du mot « bien » dans la LFI introduit la notion de « profits présents ou futurs […] sur des biens », ce qui n’est pas présent dans la définition de « biens » dans la LIR.
+[21] D’autre part, dans l’arrêt Saulnier, ce dernier était titulaire de ses permis de pêche au moment de faire cession de ses biens. Dans la présente instance, l’appelant n’était plus titulaire d’aucun permis de pêche valide au moment où il a fait une demande au programme d’accès aux allocations de pêche en 2001, en vertu duquel il a reçu la somme faisant l’objet du litige. En ce qui concerne le poisson de fond, l’appelant n’a jamais reçu les conditions afférentes au permis de pêche, faisant en sorte que son permis n’était pas valide pour la période indiquée 2000/2001, et ce, à la face même du permis déposé en preuve (pièce A-1, onglet 3). Pour ce qui est du crabe des neiges, le permis était expiré à la fin de l’année 2000, selon la période indiquée au permis temporaire (pièce A-1, onglet 13) et l’alinéa 10a) du Règlement de pêche (dispositions générales). Ainsi, l’appelant ne possédait plus effectivement un « faisceau de droits » rattaché à ces permis, qui lui aurait conféré un droit propriétal pouvant constituer un bien (voir Saulnier, paragraphe 43).
+[22] Finalement dans Saulnier, le juge Binnie dit ceci au paragraphe 50 :
+50 Il se peut fort bien qu'un permis de pêche expire ou ait déjà expiré avant la libération du failli. Si tel est le cas, le syndic aura, au même titre que le titulaire initial du permis expiré, le droit de demander au ministre de le remplacer et, en cas de refus, le droit d'exercer les mêmes recours que le titulaire initial (ou de n'en exercer aucun si celui-ci ne peut en exercer aucun). Le failli ne peut transférer des droits plus étendus que ceux qu'il possède. Le syndic prend simplement la place de l'appelant Saulnier et il prend possession du permis « avec tous ses défauts ».
+[23] Dans le cas présent, l’appelant ne transfère pas son permis à quiconque qui peut exercer ses droits à sa place. L’appelant renonce tout simplement à son droit de demander un permis de pêche.
+[24] Par ailleurs, dans l’arrêt Manrell c. Canada, 2003 CAF 128, [2003] 3 C.F. 727, la Cour d’appel fédérale a reconnu que le mot « biens » défini dans la LIR doit respecter les traditions juridiques de la common law (paragraphe 55). Or, la Cour suprême du Canada a bien dit dans Saulnier qu’un permis de pêche n’était pas un bien en common law. Seul un permis assorti d’un droit propriétal sur les prises effectuées conformément aux conditions fixées par le permis peut s’apparenter à un droit de nature propriétale en common law. Or, dans le cas présent, l’appelant ne détenait pas de tels permis en 2001, au moment où il a fait la demande au programme d’accès aux allocations de pêche. De plus, dans l’arrêt Manrell, on a jugé qu’un paiement reçu en vertu d’une entente de non-concurrence par un actionnaire d’une société dans le contexte d’une vente d’actions ne représentait pas le produit de disposition d’un bien. Le fait de renoncer à son droit d’exploiter une entreprise, donc à un droit à un revenu, en acceptant de signer une entente de non-concurrence peut s’apparenter, à mon avis, au fait de renoncer à demander un permis de pêche, abandonnant ainsi tout profit à prendre de ce permis. Tout comme dans l’arrêt Manrell, j’estime qu’on ne peut parler de la disposition d’un bien au sens de la LIR.
+[25] Je suis donc d’avis que la somme en litige de 2 583 465 $ ne provenait pas de la disposition d’un bien et la réception d’un tel montant ne pouvait donner lieu à un gain en capital imposable aux termes de la LIR.
+[26] Pour ces raisons l’appel est accueilli, avec dépens, et la cotisation est déférée au ministre pour nouvel examen et nouvelle cotisation sur la base que le montant de 2 583 465 $ ne doit pas être inclus dans le revenu de l’appelant au cours de l’année d’imposition 2001.
+Signé à Montréal (Québec), ce 7e jour de janvier 2010.
+« Lucie Lamarre »
+Juge Lamarre
+RÉFÉRENCE : 2010 CCI 10
+Nº DU DOSSIER DE LA COUR : 2006-3736(IT)G
+INTITULÉ DE LA CAUSE : GILDARD HACHÉ ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Moncton (Nouveau-Brunswick)
+DATE DE L’AUDIENCE : le 29 octobre 2009
+MOTIFS DU JUGEMENT PAR : L'honorable juge Lucie Lamarre
+DATE DU JUGEMENT : le 7 janvier 2010
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Gilles E. Bujold
+Avocate de l'intimée :
+Me Catherine McIntyre
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom : Me Gilles E. Bujold
+Cabinet : Bujold c.p.
+Avocats - Fiscalistes
+Moncton (Nouveau-Brunswick)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

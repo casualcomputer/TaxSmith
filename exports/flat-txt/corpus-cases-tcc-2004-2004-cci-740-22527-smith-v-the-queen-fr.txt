@@ -1,0 +1,203 @@
+Title: Smith v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/22527/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-740-22527-smith-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2004-11-25
+
+# Smith v. The Queen
+
+- Citation: 2004 CCI 740
+- Decision date: 2004-11-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2232, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Smith v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-11-25
+Référence neutre
+2004 CCI 740
+Numéro de dossier
+2003-4584(IT)I
+Juges et Officiers taxateurs
+Terrence O'Connor
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-4584(IT)I
+ENTRE :
+PAUL SMITH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu à Vancouver (Colombie-Britannique), le 26 octobre 2004.
+Devant : L'honorable T. O'Connor
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Pavanjit Mahil
+JUGEMENT
+L'appel de nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2001 est rejeté selon les motifs de jugement ci-joints.
+Signé à Ottawa, Canada, ce 25e jour de novembre 2004.
+« T. O'Connor »
+Juge O'Connor
+Traduction certifiée conforme
+ce 20e jour de juillet 2005.
+Sara Tasset
+Référence : 2004CCI740
+Date : 20041125
+Dossier : 2003-4584(IT)I
+ENTRE :
+PAUL SMITH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge O'Connor
+[1] Dans cet appel, il s'agit de savoir si l'appelant était tenu d'inclure dans son revenu pour l'année d'imposition 2001 un montant de 24 450 $ qu'il avait reçu de Strategic Profit Inc. ( « SP Inc. » ).
+[2] L'appelant était l'unique actionnaire d'une société constituée en 1992 sous le nom de Money Mailer of Western Canada Inc. ( « MM Inc. » ).
+[3] L'appelant utilisait également parfois simplement le nom de Money Mailer of Western Canada ( « MMWC » ). Selon la preuve fournie par l'appelant, même si ce dernier nom (dans lequel l'abréviation « Inc. » ne figure pas) a peut-être été utilisé, aucune entreprise individuelle n'a été enregistrée sous ce nom. En réalité, MMWC n'existait pas en tant que personne morale distincte.
+[4] Un contrat (le « contrat » ) a été conclu le 1er janvier 2001. La première partie du contrat est libellée comme suit :
+[traduction]
+ENTENTE CONCERNANT LES ENTREPRENEURS
+Le 1er janvier 2001
+La présente est une entente contractuelle entre Strategic Profits Inc.
+(la « société » )
+et
+Money Mailer of Western Canada (s/n Paul Smith),
+3025, promenade Brookridge, North Vancouver,
+C.-B. V7R 3A7 smitty_no85@canada.com (l' « entrepreneur » )
+ATTENDU :
+que la société veut avoir recours à l'entrepreneur en vue de fournir certains services mentionnés et précisés dans l' « entente de travail » et dans l' « Énoncé de perspective, de mission, de valeurs et de philosophie » ci-joints.
+[5] Aucun des documents qui devaient être « joints » ne l'ont en fait été. Le contrat est rédigé en des termes fort généraux et renferme certaines dispositions indiquant une relation d'entrepreneur indépendant alors que d'autres dispositions indiquent une relation employeur-employé. À mon avis, on ne saurait se fonder sur ce contrat pour déterminer la relation existant entre l'appelant et SP Inc. Toutefois, il est clair que le contrat n'a pas été conclu avec MM Inc.
+[6] Conformément au contrat, l'appelant devait fournir certains services, notamment des services de consultation; en 2001, il a directement été rémunéré par SP Inc. et il a reçu un montant de 24 450 $ en tout. Les paiements totalisant ce montant ont été versés directement à l'appelant au moyen de 22 chèques émis périodiquement tous les mois au cours de l'année 2001; il y avait parfois un chèque par mois, parfois trois chèques, mais la plupart du temps il y avait deux chèques par mois (comme en fait foi la pièce A-2).
+[7] L'appelant semble affirmer que les chèques appartenaient en fait à MM Inc. et qu'il avait demandé à SP Inc. de le payer directement à cause de difficultés financières concernant MM Inc. C'est ce qui a été fait, mais il n'existe aucun élément de preuve satisfaisant montrant qu'une partie des 24 450 $ ait été remise à MM Inc. L'appelant affirme avoir payé certaines dépenses à l'aide de cet argent et avoir conservé le reste.
+[8] L'appelant affirme également qu'il n'avait pas une relation employeur-employé avec SP Inc. et qu'il ne gagnait donc pas un revenu d'emploi. Il affirme avoir été entrepreneur indépendant, plutôt qu'un employé.
+[9] Les prétentions fondamentales de l'appelant sur ce point sont énoncées dans les extraits suivants de l'avis d'appel :
+[traduction] [...]
+CONTRÔLE
+· [Division des appels] Selon l' « entente concernant les entrepreneurs » , vous étiez chargé d'estimer la durée et les coûts de chaque projet qui vous était assigné, mais l'estimation devait être approuvée par Strategic Profits Inc. ( « SP Inc. » ) et par vous-même.
+· Selon la pratique commerciale courante dans l'industrie de la technologie, les contrats sont « négociés » et sont signés lorsque les deux parties en sont venues à une entente. Les prix sont rarement fixes et ils ne sont pas négociables.
+· [Division des appels] C'était SP Inc. qui décidait si le travail devait être repris si le travail accompli n'était pas satisfaisant.
+· Selon les contrats types dans l'industrie de la technologie, un travail doit être exécuté conformément au contrat. S'il ne l'est pas, il doit être repris tant qu'il ne répond pas aux spécifications convenues.
+· [Division des appels] Un bureau vous était fourni pour que vous puissiez l'utiliser.
+· On m'a laissé partager un poste de travail lorsque j'étais obligé d'être au bureau, bureau que j'utilisais habituellement entre les réunions.
+· [Division des appels] Selon l' « entente concernant les entrepreneurs » , SP Inc. avait le droit de mettre fin à vos services en cas de violation de certaines dispositions de l'entente.
+· Les contrats types dans l'industrie de la technologie permettent la résiliation d'un contrat - une procédure de recours étant bien sûr prévue.
+PROPRIÉTÉ DES INSTRUMENTS DE TRAVAIL :
+· [Division des appels] Vous travailliez parfois à domicile et vous fournissiez votre propre ordinateur, mais un ordinateur vous était fourni gratuitement par SP Inc. lorsque vous travailliez dans leurs bureaux.
+· Un ordinateur qui était partagé était fourni, mais presque tout le travail était effectué ailleurs qu'au lieu de travail, comme il en est fait mention dans l'entente concernant les entrepreneurs.
+· [Division des appels] Vous avez affirmé que les seules dépenses que vous avez engagées pendant que vous travailliez pour SP Inc. étaient liées au transport jusqu'aux bureaux de SP Inc. et aux appels téléphoniques.
+· Plus les frais de bureau à domicile habituels.
+· [Division des appels] SP Inc. couvrait les frais d'assurance-responsabilité.
+· À titre de petit entrepreneur dans l'industrie de la technologie, - je n'ai pas accès à l'assurance-responsabilité.
+CHANCES DE BÉNÉFICE ET RISQUE DE PERTE :
+· [Division des appels] Vous touchiez un taux horaire de 20 $ indépendamment de la situation financière de SP Inc. Vous ne partagiez pas les bénéfices ou les pertes possibles avec SP Inc.
+· Si la situation financière de SPI était précaire, cela voulait dire qu'un moins grand nombre de contrats étaient accordés.
+· [Division des appels] SP Inc. couvrait tous les frais connexes, comme le matériel, le temps et l'argent s'il fallait reprendre le travail.
+· Je n'étais pas rémunéré pour le temps que je consacrais au travail repris étant donné que les conditions du contrat n'avaient de toute évidence pas été respectées.
+· [Division des appels] SP Inc. couvrait tous les frais liés aux créances irrécouvrables et elle était chargée de la facturation et du recouvrement auprès des clients.
+· Comme c'est habituellement le cas dans l'industrie de la technologie, afin de dépeindre une « organisation plus grosse » , il est présumé que les entrepreneurs font « partie de l'équipe » ; les factures de l'entrepreneur sont regroupées en une seule facture qui est présentée au client. Il peut souvent y avoir plusieurs entrepreneurs indépendants en cause dans un projet.
+· [Division des appels] Vous exécutiez le travail pour les clients de SP Inc. et SP Inc. était donc chargée de répondre aux plaintes des clients.
+· Comme c'est habituellement le cas dans l'industrie de la technologie, afin de dépeindre une organisation plus grosse, il est présumé que les entrepreneurs font « partie de l'équipe » et SP Inc. agissait comme personne-ressource auprès du client.
+· [Division des appels] SP Inc. garantissait tous les travaux effectués pour ses clients.
+· Comme c'est habituellement le cas dans l'industrie de la technologie, afin de dépeindre une organisation plus grosse, il est présumé que les entrepreneurs font « partie de l'équipe » et SP Inc. agissait comme personne-ressource auprès du client.
+FAITS ADDITIONNELS :
+· [Division des appels] Vous étiez assujetti à une période d'essai pendant que vous travailliez pour SP Inc.
+· En d'autres termes, il s'agit d'une façon d'obtenir le « statut d'entrepreneur privilégié » comme en fait foi l'entente concernant les entrepreneurs.
+· [Division des appels] Vous aviez droit à des récompenses et à une reconnaissance si vous respectiez ou dépassiez certaines exigences prévues dans l' « entente concernant les entrepreneurs » .
+· Il s'agit d'une méthode par laquelle la société essaie de s'assurer la loyauté des entrepreneurs sur un marché compétitif.
+· [Division des appels] Vous aviez le droit de recevoir des actions de la société si votre loyauté ou votre rendement étaient exceptionnels.
+· Il s'agit d'une méthode permettant à la société de s'assurer la loyauté des entrepreneurs sur un marché compétitif.
+· [Division des appels] L' « entente concernant les entrepreneurs » a été signée par vous-même, sous le nom de Paul Smith plutôt que sous celui de Money Mailer of Western Canada.
+· Le contrat est libellé au nom de Money Mailer of Western Canada et signé par Paul Smith - qui est un signataire dûment autorisé de cette société.
+[10] Les prétentions de l'intimée sont énoncées dans les extraits suivants de la réponse à l'avis d'appel :
+[traduction] [...]
+12
+a) SP Inc. s'occupait de conception et de promotion de logiciels et de commercialisation par Internet;
+b) SP Inc. a eu recours à l'appelant afin de préparer des devis estimatifs pour ses clients, de gérer des projets, de commercialiser son logiciel et de s'occuper de l'administration du bureau (les « tâches » );
+c) SP Inc. a fixé à 20 $ l'heure la rémunération de l'appelant et a rémunéré l'appelant au taux horaire de 20 $;
+d) [...]
+e) SP Inc. a établi une période d'essai et elle surveillait le rendement de l'appelant dans l'accomplissement de ses tâches;
+f) [...]
+g) SP Inc. garantissait le travail effectué auprès de ses clients. [...]
+h) SP Inc. fournissait à l'appelant des locaux à bureaux, du matériel de bureau, le matériel informatique et l'accès Internet dans l'accomplissement de ses tâches;
+i) [...]
+j) [...]
+k) il arrivait que l'appelant travaille à des projets chez lui et qu'il utilise son propre ordinateur;
+l) l'appelant n'a pas investi de capitaux, et il n'était pas obligé d'investir des capitaux dans l'accomplissement de ses tâches;
+m) l'appelant n'engageait pas de dépenses dans l'accomplissement de ses tâches; et
+n) [...]
+[11] L'appelant invoque également les arguments suivants : il a soumis des factures à l'égard de chacun des chèques mentionnés dans la pièce A-2 et son taux de rémunération n'était pas strictement fixé par SP Inc. Toutefois, l'appelant confirme que le montant en question, de 24 450 $, était basé sur un taux horaire de 20 $, mais il déclare que certains services qu'il a rendus ne faisaient pas partie des activités de base de SP Inc. (c'est-à-dire qu'il n'y avait pas d'intégration) et que le travail qu'il accomplissait n'était pas toujours basé sur un taux horaire. L'appelant ajoute que SP Inc. ne remboursait pas les frais de déplacement, mais il reconnaît que les frais de déplacement n'étaient pas élevés et qu'il s'agissait principalement de se rendre en autobus de chez lui jusqu'aux bureaux de SP Inc. De plus, l'appelant soutient que SP Inc. n'accordait pas d'avantages et n'assurait pas de formation, qu'il avait un ordinateur personnel avec un logiciel et une connexion Internet ainsi qu'un téléphone dans son bureau à domicile, qu'il n'était pas supervisé et que l'on n'avait pas besoin de ses services à plein temps.
+[12] L'appelant a mentionné que son bureau était composé d'une pièce chez ses parents. Il considérait qu'il s'agissait d'un bureau de SP Inc., mais aucun loyer n'était payé par SP Inc. L'appelant a témoigné que le bureau qui était mis à sa disposition dans les locaux de SP Inc. était un bureau commun qu'il partageait avec d'autres entrepreneurs. Toutefois, cette allégation est réfutée par le témoignage de Laura Murphy, examinateur des comptes en fiducie de l'ARC, qui déclare que lorsqu'elle a vérifié les feuilles de paie de SP Inc., elle a vu des chèques, avec les retenues appropriées pour huit employés, mais une seule série de chèques en faveur d'un « entrepreneur » , à savoir les chèques libellés au nom de l'appelant, dont il est fait état dans la pièce A-2.
+[13] L'intimée ajoute ce qui suit : SP Inc. facturait ses clients pour le travail exécuté par l'appelant. SP Inc. couvrait les frais liés aux créances irrécouvrables. Elle garantissait le travail auprès de ses clients. À cet égard, l'appelant affirme qu'il garantissait son travail à SP Inc. L'intimée a mentionné diverses questions figurant dans la pièce R-3 et elle a signalé que les réponses données à certaines de ces questions étaient différentes de celles qui avaient été données par l'appelant lorsqu'il avait témoigné oralement à l'audience. L'intimée a également mentionné la pièce R-2, un document produit par SP Inc., intitulé [traduction] « L'équipe de gestion » , dans lequel l'appelant est désigné sous le titre de [traduction] « VP Marketing Administration » .
+Conclusion
+[14] Il s'agit donc de savoir si l'appelant était un employé ou un entrepreneur indépendant.
+[15] Il s'agit d'un type de question dont la Cour est souvent saisie et, comme la chose est bien connue, cette question est généralement réglée à l'aide d'un critère comportant quatre éléments, à savoir :
+(1) le contrôle;
+(2) la propriété des instruments de travail;
+(3) les chances de bénéfice et les risques de perte;
+(4) l'intégration.
+Avant d'analyser ces éléments, il convient de faire certaines remarques générales.
+[16] En tranchant la question, je ne dois pas simplement substituer mon opinion à celle du ministre, mais je dois faire preuve d'une certaine déférence à l'égard de la décision du ministre. Ces principes ont été élaborés par la Cour d'appel fédérale dans les arrêts suivants. Dans l'arrêt Légaré c. Canada (Ministre du Revenu national - M.R.N.), [1999] A.C.F. no 878, la Cour a eu l'occasion d'examiner la question. Au paragraphe 4 du jugement rendu par les juges Marceau, Desjardins et Noël, il est dit ce qui suit :
+La Loi confie au ministre le soin de faire une détermination à partir de la conviction à laquelle son examen du dossier peut le conduire. L'expression utilisée introduit une sorte d'élément de subjectivité et on a pu parler de pouvoir discrétionnaire du ministre, mais la qualification ne devrait pas faire oublier qu'il s'agit sans doute d'un pouvoir dont l'exercice doit se fonder pleinement et exclusivement sur une appréciation objective des faits connus ou supposés. Et la détermination du ministre n'est pas sans appel. La Loi accorde, en effet, à la Cour canadienne de l'impôt le pouvoir de la réviser sur la base de ce que pourra révéler une enquête conduite, là, en présence de tous les intéressés. La Cour n'est pas chargée de faire la détermination au même titre que le ministre et, en ce sens, elle ne saurait substituer purement et simplement son appréciation à celle du ministre : c'est ce qui relève du pouvoir dit discrétionnaire du ministre. Mais la Cour doit vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et après cette vérification, elle doit décider si la conclusion dont le ministre était « convaincu » paraît toujours raisonnable.
+De plus, dans l'arrêt Pérusse c. Canada (Ministre du Revenu national - M.R.N.) [2000] A.C.F. no 310, le juge Marceau a dit ce qui suit au paragraphe 14 :
+En fait, le juge agissait dans le sens que plusieurs décisions antérieures pouvaient paraître prescrire. Mais cette Cour, dans une décision récente, s'est employée à rejeter cette approche, et je me permets de citer ce que j'écrivais alors à cet égard dans les motifs soumis au nom de la Cour.
+Puis, au paragraphe 15, il a dit ce qui suit :
+Le rôle du juge d'appel n'est donc pas simplement de se demander si le ministre était fondé de conclure comme il l'a fait face aux données factuelles que les inspecteurs de la commission avaient pu recueillir et à l'interprétation que lui ou ses officiers pouvaient leur donner. Le rôle du juge est de s'enquérir de tous les faits auprès des parties et des témoins appelés pour la première fois à s'expliquer sous serment et de se demander si la conclusion du ministre, sous l'éclairage nouveau, paraît toujours « raisonnable » (le mot du législateur). La Loi prescrit au juge une certaine déférence à l'égard de l'appréciation initiale du ministre et lui prescrit, comme je disais, de ne pas purement et simplement substituer sa propre opinion à celle du ministre lorsqu'il n'y a pas de faits nouveaux et que rien ne permet de penser que les faits connus ont été mal perçus. Mais parler de discrétion du ministre sans plus porte à faux.
+[17] J'ai examiné toutes les pièces et j'ai tenu compte des témoignages qui ont été présentés à l'audience; à mon avis, selon la prépondérance des probabilités, l'appelant a été embauché par SP Inc. en 2001 en vertu d'un contrat de louage de services (c'est-à-dire une relation employeur-employé), il ne s'agissait pas d'une relation d' « entrepreneur indépendant » , et ce, principalement pour les motifs suivants : (1) le contrat n'a pas été conclu avec MM Inc., mais il a plutôt été conclu avec « Money Mailer of Western Canada Inc. (s/n Paul Smith) » comme les conditions du contrat en font foi; (2) le témoignage de Laura Murphy et plusieurs des pièces, en particulier la description de [traduction] « L'équipe de gestion » (pièce R-2) et le questionnaire (pièce R-3) contredisent le témoignage de l'appelant et, à mon avis, il faut retenir ces éléments plutôt que de retenir le témoignage de l'appelant.
+[18] Par conséquent, en 2001, l'appelant a reçu un montant de 24 450 $ au titre d'un revenu d'emploi.
+[19] Subsidiairement, même si l'appelant a fait valoir avec succès qu'il était un « entrepreneur indépendant » , il doit être considéré qu'il a reçu les 24 450 $ au titre d'un revenu d'entreprise de SP Inc., puisque le contrat désigne l'appelant comme étant un [traduction] « entrepreneur indépendant » , exploitant son entreprise sous le nom de Money Mailer of Western Canada Inc. (s/n Paul Smith).
+[20] Subsidiairement encore, l'appelant doit être considéré comme ayant reçu les 24 450 $ au titre d'un avantage accordé à un actionnaire, puisqu'il est l'unique actionnaire de MM Inc. À cet égard, il est fait mention du paragraphe 15(1) de la Loi de l'impôt sur le revenu (la « Loi » ), qui prévoit ce qui suit :
+Avantages aux actionnaires
+(1) La valeur de l'avantage qu'une société confère, à un moment donné d'une année d'imposition, à un actionnaire ou à une personne en passe de le devenir est incluse dans le calcul du revenu de l'actionnaire pour l'année - sauf dans la mesure où cette valeur est réputée par l'article 84 constituer un dividende - si cet avantage est conféré autrement que :
+a) par la réduction du capital versé, le rachat, l'annulation ou l'acquisition, par la société, d'actions de son capital-actions ou à l'occasion de la liquidation, cessation ou réorganisation de son entreprise, ou par une opération à laquelle l'article 88 s'applique;
+b) par le paiement d'un dividende ou d'un dividende en actions;
+c) par l'octroi à tous les propriétaires d'actions ordinaires du capital-actions de la société à ce moment d'un droit, relatif à chaque action ordinaire et identique à chacun des autres droits conférés à ce moment relativement à chacune des autres semblables actions, d'acquérir d'autres actions du capital-actions de la société; pour l'application du présent alinéa :
+[...]
+[21] En outre, même si l'on devait considérer les 24 450 $ comme un prêt consenti à un actionnaire par MM Inc., à savoir un prêt consenti à l'appelant, ce montant représente néanmoins un revenu entre les mains de l'appelant à cause de l'effet du paragraphe 15(2) et de l'alinéa 20(1)j) de la Loi, qui incluent dans le revenu un emprunt non remboursé contracté par un actionnaire.
+[22] Pour les motifs susmentionnés, l'appel est rejeté.
+Signé à Ottawa, Canada, ce 25e jour de novembre 2004.
+« T. O'Connor »
+Juge O'Connor
+Traduction certifiée conforme
+ce 20ejour de juillet 2005.
+Sara Tasset
+RÉFÉRENCE :
+2004CCI740
+No DU DOSSIER DE LA COUR :
+2003-4584(IT)I
+INTITULÉ :
+Paul Smith c. S.M.R.
+LIEU DE L'AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L'AUDIENCE :
+Le 26 octobre 2004
+MOTIFS DU JUGEMENT :
+L'honorable T. O'Connor
+DATE DU JUGEMENT :
+Le 25 novembre 2004
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Pavanjit Mahil
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

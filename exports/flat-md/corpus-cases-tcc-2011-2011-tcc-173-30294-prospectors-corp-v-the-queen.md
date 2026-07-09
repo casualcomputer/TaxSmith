@@ -1,0 +1,128 @@
+---
+title: "Prospectors Corp v.The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30294/index.do"
+last_modified: "2011-03-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 173"
+citation2: ""
+neutral_citation: "2011 TCC 173"
+decision_date: "2011-03-17"
+language: "en"
+item_id: "30294"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 8062
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:45:21.108000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d04198eaf1449bb2c843e742e49166d791a87262162a3f92cc15c032c148adc7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Prospectors Corp v.The Queen
+
+- Citation: 2011 TCC 173
+- Decision date: 2011-03-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8062, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Prospectors Corp v.The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-03-17
+Neutral citation
+2011 TCC 173
+File numbers
+2010-2835(GST)G
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2010-2835(GST)G
+BETWEEN:
+PROSPECTORS CORP.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appellant’s Motion dealt with by Written Representations
+Before: The Honourable Justice Wyman W. Webb
+Agent for the Appellant:
+Konstandinos Zamfes
+Counsel for the Respondent:
+Lesley Akst
+____________________________________________________________________
+ORDER
+That part of the Appellant’s Motion that is a request to allow Konstandinos Zamfes to represent the Appellant in its appeal under the Excise Tax Act is allowed and Konstandinos Zamfes is allowed to represent the Appellant in its appeal under the Excise Tax Act. The other parts of the Appellant’s Motion that are in relation to the matters referred to in paragraphs 2 to 5 (inclusive) of its Notice of Motion filed on January 3, 2011 are dismissed.
+Signed at Ottawa, Canada, this 17th day of March 2011.
+“Wyman W. Webb”
+Webb J.
+Citation: 2011TCC173
+Date: 20110317
+Docket: 2010-2835(GST)G
+BETWEEN:
+PROSPECTORS CORP.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Webb J.
+[1] The Appellant filed a Notice of Motion on January 3, 2011 in which the Appellant requested an Order addressing a number of matters. The Notice of Motion stated that:
+THE MOTION IS FOR an Order that:
+1. Konstandinos Zamfes will be [sic] allow to represent the Prospectors Corp case (of GST office of Calgary conflict versus Prospectors Corp and appeal department of GST Canada #2010-2835(GST)I), in the Court of HER MAJESTY THE QUEEN in Calgary, Alberta, Canada.
+2. The case to be dismissed by the acceptance of the last offer stated in the Notice of Appeal. The offer is to pay to the Prospectors Corp. the $10,914.88 and other punitive relief that the court may decide at the time of hearing.
+3. Stop further litigation expenditures, on both sides, for the case and let Prospectors Corp be free of any GST fines.
+4. Grant Prospectors Corp right to continue the business with GST zero balance forward.
+5. Canadian Logging Systems and its Directors Jim Bannister, Doug Hunter, Bob Pandelidis, and acting accounting supervisor David Elbaz will be part of the litigation [sic] dew to contractual ties between Prospectors Corp. and Canadian Logging Systems existed on the time of conflict accrued.
+[2] Counsel for the Respondent indicated by letter dated February 21, 2011 that the Respondent does not oppose the application made by the Appellant to allow Konstandinos Zamfes to represent the Appellant in its appeal under the Excise Tax Act. As a result this part of the Appellant’s Motion is granted.
+[3] However the other requests made by the Appellant in its Notice of Motion are not appropriate for a Motion. The Appellant has requested that the case be “dismissed”. If the case is dismissed, the appeal filed by the Appellant would be dismissed and the assessment issued by the Canada Revenue Agency would not be varied. It appears that the Appellant is really requesting that the Appeal be allowed and the assessment varied. This, however, is the issue that is to be resolved at the hearing, not on a Motion. At the hearing of the Appellant’s appeal the issue will be whether the assessment is correct.
+[4] The next request to stop the litigation process is also not a proper request for a Motion. If the parties are able to agree upon a settlement of the matter, then the litigation process can be stopped. By filing an Appeal the Appellant has commenced the litigation process which will culminate in a hearing of the matter, unless the parties agree upon a settlement of the matter prior to the hearing or the Appellant discontinues its appeal.
+[5] With respect to the liability of the Appellant under the Excise Tax Act (whether for unremitted net tax or penalties), this is the matter that would be resolved at the hearing. A hearing would be required before any determination could be made by this Court of the liability of the Appellant under the Excise Tax Act.
+[6] It is not at all clear what the Appellant is requesting in paragraph 5 referred to above. Since the Appellant is the person who was assessed under the Excise Tax Act, it is the liability of the Appellant under that Act that will be the issue in this Appeal. How the other persons would be “part of the litigation” is not clear. It appears that only the Appellant was assessed and therefore only the Appellant would be a party to the appeal of this assessment.
+[7] As a result the parts of the Appellant’s Motion in relation to the matters referred to in paragraphs 2 to 5 (inclusive) of its Notice of Motion (which are listed above) are dismissed.
+[8] Since neither party requested costs, no costs will be awarded.
+Signed at Ottawa, Canada, this 17th day of March 2011.
+“Wyman W. Webb”
+Webb J.
+CITATION: 2011TCC173
+COURT FILE NO.: 2010-2835(GST)G
+STYLE OF CAUSE: PROSPECTORS CORP. AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+DATE OF HEARING:
+REASONS FOR ORDER BY: The Honourable Justice Wyman W. Webb
+DATE OF ORDER: March 17, 2011
+Agent for the Appellant:
+Konstandinos Zamfes
+Counsel for the Respondent:
+Lesley Akst
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,147 @@
+---
+title: "Neal v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27732/index.do"
+last_modified: "2007-06-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 349"
+citation2: ""
+neutral_citation: "2007 TCC 349"
+decision_date: "2007-06-18"
+language: "en"
+item_id: "27732"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 483
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:00:34.198000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "107baceae761c95cf7c351ef6beaf6608d7b106b6dbc230b6ad19a4b956c9805"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Neal v. The Queen
+
+- Citation: 2007 TCC 349
+- Decision date: 2007-06-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 483, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Neal v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-06-18
+Neutral citation
+2007 TCC 349
+File numbers
+2007-87(IT)I
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-87(IT)I
+BETWEEN:
+VICTOR B. NEAL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 12, 2007, at Kingston, Ontario.
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Richard Gobeil
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2002, 2003 and 2004 taxation years are dismissed, without costs.
+Signed at Halifax, Nova Scotia, this 18th day of June 2007.
+"Wyman W. Webb"
+Webb J.
+Citation: 2007TCC349
+Date: 20070618
+Docket: 2007-87(IT)I
+BETWEEN:
+VICTOR B. NEAL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb J.
+[1] The Appellant claimed deductions for the following amounts as Child Support payments in computing his income for the purposes of the Income Tax Act ("Act") for the following years:
+Taxation Year
+Amount Claimed
+2002
+$3,450
+2003
+$6,900
+2004
+$6,900
+[2] Paragraph 60(b) of the Act is the paragraph which permits the deduction for amounts paid for maintenance and support. This paragraph provides as follows:
+60: There may be deducted in computing a taxpayer's income for a taxation year such of the following amounts as are applicable:
+...
+(b) the total of all amounts each of which is an amount determined by the formula
+A - (B + C)
+where
+A is the total of all amounts each of which is a support amount paid after 1996 and before the end of the year by the taxpayer to a particular person, where the taxpayer and the particular person were living separate and apart at the time the amount was paid,
+B is the total of all amounts each of which is a child support amount that became payable by the taxpayer to the particular person under an agreement or order on or after its commencement day and before the end of the year in respect of a period that began on or after its commencement day, and
+C is the total of all amounts each of which is a support amount paid by the taxpayer to the particular person after 1996 and deductible in computing the taxpayer's income for a preceding taxation year;
+[3] Therefore in order for any payment to be deductible it must be included in A in the formula and therefore must be a support amount. Subsection 60.1(4) of the Act provides that the definitions in subsection 56.1(4) apply for the purposes of section 60.
+[4] The definition of "support amount" is found in subsection 56.1(4) and is as follows:
+"support amount" means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and
+(a) the recipient is the spouse or common‑law partner or former spouse or common‑law partner of the payer, the recipient and the payer are living separate and apart because of the breakdown of their marriage or common‑law partnership and the amount is receivable under an order of a competent tribunal or under a written agreement; or
+(b) the payer is a legal parent of a child of the recipient and the amount is receivable under an order made by a competent tribunal in accordance with the laws of a province.
+(emphasis added)
+[5] In this particular case the Appellant and his spouse separated in 1995. The Appellant started to make support payments of $575 per month after they separated. The Appellant did not produce any agreement or Court Order applicable in 1995, 1996, 1997 or 1998. Therefore the amounts that were paid by the Appellant to his spouse prior to 1999 were paid pursuant to an oral agreement between the Appellant and his spouse.
+[6] The Appellant introduced as an exhibit a copy of the Order of the Ontario Court (General Division) dated December 10, 1998 in which paragraph 2 of this Order provides as follows:
+This Court orders that the petitioner shall pay to the respondent for the support of the child of the marriage the sum of $575 per month payable on the 1st day of each month commencing January 1, 1999 and continuing monthly thereafter.
+The petitioner under this Order is the Appellant in this case.
+[7] As a result the first written agreement or Court Order related to the amount to be paid by the Appellant to his spouse is the Order dated December 10, 1998 of the Ontario Court (General Division). Therefore there is no "support amount" until the Order was granted in 1998 as prior to that time there was no written agreement or Order of any competent tribunal related to the amount paid by the Appellant.
+[8] Since the Order is dated in 1998, the "commencement day" is December 10, 1998 pursuant to paragraph (a) of the definition of "commencement day" in subsection 56.1(4) of the Act.
+[9] As a result, the formula in paragraph 60(b) will produce a nil result. The amounts for A in the formula for each of the years in question were the amounts as stated in the above table. However, the amounts for B in the formula will also be the same amounts for all three years as the amounts all relate to child support payments, as defined in subsection 56.1 (4) of the Act, as the amounts were paid for the support of the child.
+[10] The appeal is dismissed without costs.
+Signed at Halifax, Nova Scotia, this 18th day of June 2007.
+"Wyman W. Webb"
+Webb J.
+CITATION: 2007TCC349
+COURT FILE NO.: 2007-87(IT)I
+STYLE OF CAUSE: VICTOR B. NEAL AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Kingston, Ontario
+DATE OF HEARING: June 12, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: June 18, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Richard Gobeil
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

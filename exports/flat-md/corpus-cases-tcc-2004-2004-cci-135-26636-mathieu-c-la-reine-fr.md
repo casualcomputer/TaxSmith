@@ -1,0 +1,199 @@
+---
+title: "Mathieu c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26636/index.do"
+last_modified: "2004-06-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 135"
+citation2: ""
+neutral_citation: "2004 CCI 135"
+decision_date: "2004-06-28"
+language: "fr"
+item_id: "26636"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3644
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:17:59.533000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "bf7d04f13a5e4fa770a1e75d0a43105adc6419d88a655b16463606803f6641b7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mathieu c. La Reine
+
+- Citation: 2004 CCI 135
+- Decision date: 2004-06-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3644, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mathieu c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-06-28
+Référence neutre
+2004 CCI 135
+Numéro de dossier
+2003-2668(IT)I
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-2668(IT)I
+ENTRE :
+MARYSE MATHIEU,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 7 janvier 2004 à Sherbrooke (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Avocat de l'appelante :
+Me François Gérin
+Avocat de l'intimée :
+Me Yannick Landry
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu, dont l'avis est daté du 18 décembre 2002 et porte le numéro 23387, est rejeté selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 28e jour de juin 2004.
+« Paul Bédard »
+Juge Bédard
+Référence : 2004CCI135
+Date : 20040628
+Dossier : 2003-2668(IT)I
+ENTRE :
+MARYSE MATHIEU,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Il s'agit d'un appel d'une cotisation établie par le ministre du Revenu national (le « ministre » ) à l'égard de madame Maryse Mathieu en application de l'article 160 de la Loi de l'impôt sur le revenu (la « Loi » ). En vertu de cette cotisation, l'appelante est tenue de payer la somme de 12 880 $.
+[2] Monsieur Marc Ouellette et madame Mathieu se sont mariés sous le régime de la société d'acquêts le 19 août 1994. Ils étaient toutefois conjoints de fait depuis juillet 1990. Durant les années d'imposition 2000 et 2001 (la « période visée » ), ils étaient toujours mariés et avaient trois enfants.
+[3] Le 28 mai 1993, madame Mathieu a acquis un chalet pour la somme de 74 000 $. Pour en faire l'acquisition, elle avait dû emprunter 45 000 $. Pour garantir le remboursement de cet emprunt, elle avait consenti une hypothèque sur le chalet. En 1994, l'emprunt hypothécaire est passé à 75 000 $. Le produit de l'emprunt additionnel avait servi à rénover le chalet. Durant la période visée, le chalet servait de résidence secondaire à la famille Mathieu.
+[4] Durant la période visée, madame Mathieu travaillait à temps partiel et s'occupait des enfants. Ses revenus nets annuels étaient d'environ 20 000 $.
+[5] Les charges familiales durant cette période étaient de l'ordre de 4 830 $ par mois tel qu'il appert dans une lettre datée du 22 août 2002 (pièce A-3) que madame Mathieu a fait parvenir au bureau des services fiscaux de Sherbrooke (Québec).
+[6] La contribution de monsieur Ouellette aux charges familiales fut de 39 686,47 $ en 2000 et de 40 141,77 $ en 2001. Il a apporté sa contribution notamment de la façon suivante :
+i) il faisait à chaque mois un chèque de 560 $ à l'ordre de sa conjointe qui le déposait dans un compte de banque qui servait à payer la dette hypothécaire sur le chalet. Durant la période visée, monsieur Ouellette a ainsi transféré une somme totale de 12 880 $ à madame Mathieu, somme qui fait l'objet du présent litige;
+ii) en outre, il déposait à chaque mois une somme de 1 800 $ dans un compte de banque qu'il détenait conjointement avec madame Mathieu. Cette dernière se chargeait de payer l'essentiel des charges familiales à partir de ce compte.
+[7] Les sommes dues au ministre par monsieur Ouellette pour les années d'imposition 2000 et 2001 étaient les suivantes :
+2000
+2001
+TOTAL
+Impôt
+7 233,44 $
+15 098,01 $
+22 331,45 $
+Intérêts
+799,35 $
+567,62 $
+1 366,97 $
+Total
+8 032,79 $
+15 665,63 $
+23 698,42 $
+[8] De plus, selon une cotisation établie le 26 avril 2002 en vertu de l'article 160 de la Loi à l'égard de dividendes reçus de la société « Expertises en Sinistre Ouellette & Ass. Inc. » au cours des années d'imposition 2000 et 2001, monsieur Ouellette devait au ministre la somme de 54 795,96 $.
+[9] La question en litige consiste à déterminer si, en vertu de l'article 160 de la Loi, madame Mathieu est tenue de payer la somme de 12 880 $.
+Analyse
+[10] La disposition pertinente aux fins du litige est le paragraphe 160(1) de la Loi qui se lit comme suit :
+160(1) Transfert de biens entre personnes ayant un lien de dépendance - Lorsqu'une personne a, depuis le 1er mai 1951, transféré des biens, directement ou indirectement, au moyen d'une fiducie ou de toute autre façon à l'une des personnes suivantes :
+a) son conjoint ou une personne devenue depuis son conjoint;
+b) une personne qui était âgée de moins de 18 ans;
+c) une personne avec laquelle elle avait un lien de dépendance,
+les règles suivantes s'appliquent :
+d) le bénéficiaire et l'auteur du transfert sont solidairement responsables du paiement d'une partie de l'impôt de l'auteur du transfert en vertu de la présente partie pour chaque année d'imposition égale à l'excédent de l'impôt pour l'année sur ce que cet impôt aurait été sans l'application des articles 74.1 à 75.1 de la présente loi et de l'article 74 de la Loi de l'impôt sur le revenu, chapitre 148 des Statuts révisés du Canada de 1952, à l'égard de tout revenu tiré des biens ainsi transférés ou des biens y substitués ou à l'égard de tout gain tiré de la disposition de tels biens;
+e) le bénéficiaire et l'auteur du transfert sont solidairement responsables du paiement en vertu de la présente loi d'un montant égal au moins élevé des montants suivants :
+(i) l'excédent éventuel de la juste valeur marchande des biens au moment du transfert sur la juste valeur marchande à ce moment de la contrepartie donnée pour le bien,
+(ii) le total des montants dont chacun représente un montant que l'auteur du transfert doit payer en vertu de la présente loi au cours de l'année d'imposition dans laquelle les biens ont été transférés ou d'une année d'imposition antérieure ou pour une de ces années;
+aucune disposition du présent paragraphe n'est toutefois réputée limiter la responsabilité de l'auteur du transfert en vertu de quelque autre disposition de la présente loi.
+[Je souligne]
+[11] L'avocat de madame Mathieu a contesté la cotisation en s'appuyant sur la décision rendue par mon collègue le juge McArthur dans l'affaire Ferracuti c. Canada, [1998] A.C.I. no 883, et sur les décisions rendues par la juge Lamarre Proulx, de cette cour, dans l'affaire Michaud c. La Reine, [1998] A.C.I. no 908, et dans l'affaire Dupuis v. M.N.R., 93 DTC 723. Ces trois causes ont essentiellement consacré le principe que l'exécution d'une obligation légale ne constituait pas un transfert au sens de l'article 160 de la Loi. En quelque sorte, l'avocat de madame Mathieu a soutenu, en s'appuyant sur ces trois jugements, que les paiements mensuels de 560 $ faits par monsieur Ouellette à sa conjointe ne constituaient pas des transferts au sens de l'article 160 de la Loi puisqu'en faisant de tels paiements, il s'acquittait de l'obligation qui lui était imposée par les articles 392 et 396 du Code civil du Québec (Code civil) de subvenir aux besoins de sa famille.
+[12] À mon avis, l'interprétation donnée à l'article 160 dans les affaires Ferracuti, Michaud et Dupuis, précitées, n'est pas conforme à l'esprit et à la lettre de cet article.
+[13] En effet, deux conditions doivent être remplies pour que l'article 160 s'applique. Il doit y avoir :
+i) transfert par une personne (auteur du transfert) de biens depuis le 1er mai 1951, et
+ii) ce transfert doit avoir été fait au bénéfice de l'une (bénéficiaire) des trois personnes suivantes :
+a) le conjoint ou une personne devenue depuis son conjoint;
+b) une personne qui était âgée de moins de 18 ans;
+c) une personne avec laquelle l'auteur du transfert avait un lien de dépendance.
+[14] Quand ces deux conditions sont réunies, les deux règles suivantes s'appliquent. Tout d'abord, celle énoncée à l'alinéa 160(1)d) de la Loi. Selon cette règle, le bénéficiaire et l'auteur du transfert sont solidairement responsables du paiement d'une partie de l'impôt sur le revenu tiré de biens transférés au bénéficiaire ou du gain en capital résultant de la disposition de ces biens, lorsque ce revenu ou ce gain sont assujettis aux règles d'attribution prévues aux articles 74.1 à 75.1 de la Loi et à l'article 74 de la Loi de l'impôt sur le revenu, chap. 148, S.R.C. 1952 (Loi de 1952)[1]. Il faut souligner que, dans ce cas, il n'est pas question de déterminer s'il existe un excédent de la juste valeur marchande (JVM) des biens transférés sur la JVM de la contrepartie. La responsabilité solidaire s'applique dès qu'il y a un impôt attribuable au revenu ou au gain en capital assujettis aux règles d'attribution.
+[15] Selon la deuxième règle, la règle de l'alinéa 160(1)e), le bénéficiaire et l'auteur du transfert sont solidairement responsables à l'égard de toute somme que l'auteur du transfert doit payer en vertu de la Loi au cours de l'année d'imposition dans laquelle les biens ont été transférés. Toutefois, la responsabilité du bénéficiaire est limitée à l'excédent éventuel de la JVM des biens au moment du transfert sur la JVM à ce moment de la contrepartie donnée pour ces biens.
+[16] On voit donc que le paragraphe 160(1) de la Loi peut être applicable, qu'il y ait un transfert avec ou sans contrepartie suffisante. De plus, il est évident que le paragraphe 160(1) de la Loi s'applique, qu'il y ait eu vente ou don d'un bien. C'est pour le mécanisme du calcul de la responsabilité du bénéficiaire qu'on tiendra compte de la juste valeur marchande de la contrepartie donnée, si contrepartie il y a, pour les biens transférés par l'auteur du transfert. Ce mécanisme ne s'applique qu'aux fins de la règle de l'alinéa 160(1)e) de la Loi. Il est donc erroné d'affirmer : « Pour qu'il y ait transfert au sens de l'article 160 de la Loi, le transfert doit avoir été fait sans contrepartie de valeur. » [2]
+[17] Appliquons le paragraphe 160(1) de la Loi aux faits de cet appel. En fait, l'alinéa 160(1)e) est la disposition pertinente ici. À l'égard des deux conditions nécessaires à l'application de cet alinéa, il n'y a aucun doute que la deuxième condition est remplie ici : le transfert, si transfert il y a, a été effectué en faveur de l'appelante depuis le 1er mai 1951 et l'appelante était l'épouse de monsieur Ouellette au moment du transfert. Il reste maintenant à déterminer si la première condition est remplie, à savoir s'il y a eu transfert. Je suis d'avis que les paiements mensuels de 560 $ faits par monsieur Ouellette à sa conjointe étaient des transferts aux fins du paragraphe 160(1) de la Loi. En effet, il y a eu transfert car monsieur Ouellette s'est alors départi de son droit de propriété sur ces sommes et ces dernières ont été dévolues à madame Mathieu. Je suis d'opinion que, même si monsieur Ouellette avait directement payé ces sommes au créancier hypothécaire, il y aurait tout de même eu un transfert indirect aux fins du paragraphe 160(1) de la Loi. Ainsi, les deux conditions pour que l'article 160 de la Loi s'applique sont remplies.
+[18] Puisqu'en l'espèce il y a eu transfert au conjoint, les seules autres questions qui doivent être soulevées sont celles de savoir si une contrepartie a été donnée et quelle en était, le cas échéant, la juste valeur marchande. Peut-on soutenir que le droit de l'appelante, comme bénéficiaire de l'obligation familiale du mari (celle de contribuer aux besoins du mariage) de recevoir de l'argent pour le paiement de la dette hypothécaire sur son chalet, constituait la contrepartie donnée au mari? À mon avis, la contribution aux charges du mariage est de la nature d'une donation par laquelle un bien est donné sans aucune contrepartie. Autrement dit, les obligations familiales ne peuvent constituer une contrepartie au sens de l'article 160. Cette analyse de l'obligation familiale rejoint celle adoptée par mes collègues le juge Mogan, dans l'affaire Raphael c. Canada, [2000] A.C.I. no 688, le juge Bowie, dans l'affaire Logiudice c. Canada, [1997] A.C.I. no 742, et le juge Sobier, dans l'affaire Sinnott c. Canada, [1996] A.C.I. no 424 (Q.L.) (angl. 97 DTC 596). Enfin, cette analyse me semble conforme à celle faite par le juge Archambault dans Suzanne Tétrault et Sa Majesté la Reine, 2002-4333(IT)I. Son analyse des articles 392 et 393 du Code civil (qui traitent de l'obligation de contribution aux besoins du mariage) et de l'article 160 de la Loi mérite d'être citée car elle est, à mon avis, la plus juste et la plus élaborée :
+[45] Il faut souligner tout d'abord que ces dispositions ne créent pas d'obligation pour un conjoint de transférer dans le patrimoine de l'autre conjoint un élément d'actif donné, que ce soit une résidence, une voiture ou un manteau de fourrure. Même si un seul des conjoints avait les ressources financières pour acheter cette résidence, cette voiture ou ce manteau, ce conjoint n'aurait pas l'obligation de donner ces biens à l'autre conjoint, à moins qu'il ne s'y soit engagé par un contrat de mariage. Ainsi, un conjoint pourrait s'acquitter de l'obligation de fournir un toit, un moyen de transport et même des vêtements à l'autre conjoint en ne lui fournissant que la jouissance ou l'usage24 de tels biens, tout en gardant pour lui-même la propriété de ceux-ci.25 De plus, il faut tenir compte du fait que cette obligation de contribuer aux charges du mariage s'applique aux deux conjoints en fonction de « leurs facultés respectives » . En outre, l'étendue de l'obligation peut varier d'une année à l'autre selon la capacité qu'a chacun des conjoints de contribuer aux charges en question.
+[46] L'analyse des dispositions pertinentes du Code civil ne révèle aucune obligation de la part de l'autre conjoint de fournir une contrepartie en échange de cette obligation familiale; en d'autres mots, dans notre exemple, la femme n'est pas tenue de donner quelque chose ou de rendre des services à son mari pour bénéficier de l'obligation familiale du mari. Comme on l'a vu plus haut, l'obligation familiale incombe aux deux époux et, en cela, le Code civil « consacre textuellement, au plan des principes, l'égalité juridique absolue des époux » 26. De plus, « [c]haque époux peut s'acquitter de sa contribution par son activité au foyer » . Toutefois, cette obligation familiale peut être asymétrique. Comme l'étendue de l'obligation familiale est « à proportion de leurs facultés respectives » , une femme qui gagnerait des revenus sensiblement plus élevés que ceux de son mari serait tenue de contribuer davantage aux charges du mariage que celui-ci. D'autre part, un mari serait tenu de s'acquitter de son obligation familiale même si sa femme était dans le coma et ne contribuait rien
+_______________________
+24 Il n'est pas question ici de démembrements du droit de propriété, comme l'usufruit (articles 1120 et suivants du Code civil) ou le droit d'usages (articles 1172 et suivants du Code civil).
+25 Bien évidemment, rien n'empêche le mari de donner à la femme l'argent ou les biens en question. Bien des conjoints le font.
+26 Michel Tétrault, Droit de la famille, Éditions Yvon Blais, 2e édition, à la page 66.
+aux charges du mariage. L'obligation familiale de chacun des époux est donc unilatérale et celle de l'un d'eux ne dépend ni de la valeur de la contribution de l'autre ni de la capacité de celui-ci à exécuter sa propre obligation : l'obligation de l'un n'est pas corrélative à l'obligation de l'autre. Une obligation familiale existe du fait de la loi - le Code civil - et elle ne dépend aucunement de l'existence d'une contrepartie, quoique les époux « se doivent mutuellement [. . .]secours et assistance » .
+[47] La contribution aux charges du mariage est, à mon avis, de la nature d'une donation par laquelle un bien est donné sans aucune contrepartie.27 Cette analyse de l'obligation familiale rejoint celle faite par le juge Mogan dans la décision Raphael, où il est dit « [c]es mêmes obligations familiales ne peuvent toutefois représenter une « contrepartie » au sens de l'article 160 [. . .] » (par. 27 de la décision). Elle rejoint également celle dans Logiudice où l'on précise que le « mot "contrepartie", tel qu'il est utilisé dans le contexte de l'article 160 de la Loi, dans son sens ordinaire, signifie la contrepartie qu'une partie à un contrat donne à l'autre partie en échange du bien transféré » et que le « sous-alinéa 160(1)e)(i) de la Loi vise à protéger les véritables opérations commerciales de l'application de la disposition » (par. 16 de la décision). Elle est conforme aussi à l'analyse faite par le juge Sobier dans la décision Sinnott v. The Queen, précitée au paragraphe 19 (Q.L.), (page 598 DTC) :
+L'avocate de l'appelante a accordé beaucoup d'importance à l'argument selon lequel une contrepartie avait été donnée à l'égard du transfert. Cependant, quelle était cette contrepartie? Est-il possible de dire que le paiement des dépenses de ménage constitue la contrepartie donnée à l'égard des transferts? Selon le sous-alinéa 160(1)e)(i), l'auteur et le bénéficiaire du transfert sont solidairement responsables du paiement d'un montant égal à l'excédent de la juste valeur marchande du bien au moment de son transfert sur la juste valeur marchande à ce moment de la contrepartie donnée à l'égard du bien. Au moment
+___________________
+27 On peut soutenir que, strictement parlant, il manque ici la libéralité nécessaire à l'existence d'une donation. Toutefois, la plupart des gens qui font vie commune contribueraient bien volontiers aux charges du mariage, même en l'absence d'une telle obligation familiale; c'est généralement lors d'une séparation ou d'un divorce que la situation devient conflictuelle et que l'existence d'une telle obligation devient importante.
+où les transferts ont eu lieu, aucune contrepartie n'a été donnée.
+[Je souligne.]
+[48] L'absence d'une contrepartie donnée pour l'exécution de l'obligation familiale explique aisément qu'il soit hautement problématique, sinon impossible, de déterminer quelle serait la JVM du droit du bénéficiaire de recevoir les biens transférés par l'auteur du transfert en vertu de son obligation familiale. En outre, comme le disait le juge Mogan, même si une JVM pouvait être établie, ce droit ne constituerait pas une « contrepartie donnée pour le bien » 28.
+[19] Je conclus donc que le versement des sommes mensuelles de 560 $ par monsieur Ouellette à sa conjointe constitue un transfert aux fins de l'article 160 de la Loi et qu'il est assujetti à cet article. Le simple droit d'être le bénéficiaire d'une obligation ne constitue pas nécessairement une contrepartie. Autrement dit, le transfert de biens à l'autre conjoint en exécution d'une obligation familiale constitue un transfert pour lequel aucune contrepartie n'a été donnée et rien à l'article 160 n'autorise cette cour à soustraire ce transfert de son application.
+[20] L'appel est donc rejeté.
+Signé à Ottawa, Canada, ce 28e jour de juin 2004.
+« Paul Bédard »
+Juge Bédard
+____________________
+28
+Par. 27 de Raphael et le sous-alinéa 160(1)e)(i) de la Loi.
+RÉFÉRENCE :
+2004CCI135
+No DU DOSSIER DE LA COUR :
+2003-2668(IT)I
+INTITULÉ DE LA CAUSE :
+Maryse Mathieu et S.M.R.
+LIEU DE L'AUDIENCE :
+Sherbrooke (Québec)
+DATE DE L'AUDIENCE :
+le 7 janvier 2004
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Paul Bédard
+DATE DU JUGEMENT :
+Le 28 juin 2004
+COMPARUTIONS :
+Pour l'appelante :
+Me François Gérin
+Pour l'intimée :
+Me Yannick Landry
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelante :
+Nom :
+Me François Gérin
+Étude :
+Gérin, Leblanc & Associés
+Sherbrooke (Québec)
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Il s'agit de la Loi de 1952 dans sa version modifiée par l'article 1 du chapitre 63 des Statuts du Canada de 1970-71-72 et par toute loi ultérieure sanctionnée avant décembre 1991. (Article 69 des Règles concernant l'application de l'impôt sur le revenu, L.R.C. 1985, ch. 2 (5e suppl.))
+[2] Voir notamment le paragraphe 18 dans la décision Ferracuti et le paragraphe 19 dans la décision Michaud précitées.

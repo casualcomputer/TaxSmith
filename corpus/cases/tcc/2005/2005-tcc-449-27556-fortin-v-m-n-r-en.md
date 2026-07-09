@@ -1,0 +1,141 @@
+---
+title: "Fortin v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27556/index.do"
+last_modified: "2005-07-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 449"
+citation2: ""
+neutral_citation: "2005 TCC 449"
+decision_date: "2005-07-27"
+language: "en"
+item_id: "27556"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 118
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:32:13.147000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2e16521202743677f6d71d3d5f293f75ee76cdf4ecd43067daa2d9b89ddcf25b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Fortin v. M.N.R.
+
+- Citation: 2005 TCC 449
+- Decision date: 2005-07-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 118, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fortin v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-07-27
+Neutral citation
+2005 TCC 449
+File numbers
+2005-325(EI)
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2005-325(EI)
+BETWEEN:
+RÉGIS FORTIN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on July 5, 2005, at Chicoutimi, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Stéphanie Côté
+____________________________________________________________________
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act ("the Act") is allowed, and the decision of the Minister of National Revenue is amended in accordance with the attached Reasons for Judgment on the basis that the Appellant held insurable employment under a true contract of service during the periods of April 16 to October 19, 2001, and November 21, 2001 to May 1, 2002.
+Signed at Ottawa, Canada, this 27th day of July 2005.
+"Alain Tardif"
+Tardif J.
+Translation certified true on this 13th day of February, 2006.
+Garth McLeod, Translator
+Citation: 2005TCC449
+Date: 20050727
+Docket: 2005-325(EI)
+BETWEEN:
+RÉGIS FORTIN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal from a decision of the Minister of National Revenue dated January 12, 2005, by which the Respondent determined that the work which the Appellant performed for 3094-1850 Québec Inc. ("the Company") from April 16 to October 19, 2001, and from November 21, 2001, to May 1, 2002, was not insurable.
+[2] The Appellant testified very forthrightly and honestly. He admitted almost all the factual assumptions relied upon to explain and justify the decision. Rather unusually, all the facts, even those which were very prejudicial to him, were obtained directly from him without any reluctance on his part.
+[3] The Appellant very candidly explained that he wanted to work in the construction field. To obtain the necessary qualification certificates, he needed to take courses while holding down a job, preferably in the field.
+[4] According to his entirely credible testimony, only the Company offered him the opportunity to study while working. The Company had implemented a system under which hours were banked. Whenever someone worked more hours than a normal working week, those hours were entered in a journal and used to complete pay periods in during which the worker was short of a full pay.
+[5] The Respondent submitted that the work performed by the Appellant should be excluded from insurable employment, mainly because there were various indicia that the disputed work was performed under a contract of enterprise, and not under a contract of service.
+[6] The principal basis for this submission was an examination of various documents submitted by the Appellant himself. These documents show that the Appellant worked alongside another individual installing doors and windows. This was piece work: he was paid a set amount for each window and each door.
+[7] The team had to bear all the costs of materials purchased. These costs were deducted from the agreed-upon amount and the remainder was allocated to regular 40-hour pay periods.
+[8] The Appellant also owned his own tools and used his own truck, bearing all expenses related to the use of the vehicle.
+[9] In determining that the work was not insurable, the Respondent relied not only on the argument that a contract of enterprise was involved, but also on the fact that the Appellant produced Records of Employment (ROEs) that did not reflect reality and thereby deliberately concealed the truth with false and misleading written statements, notably with respect to the cards that he completed periodically in order to receive Employment Insurance benefits.
+[10] The documentary evidence analysed by the Respondent and the information provided by the Appellant himself made such findings possible, thereby creating a strong presumption that the decision was well-founded.
+[11] However, the testimony of the Appellant and his spouse raised some very unusual factors. Testifying with candour and forthrightness that are a credit to him, the Appellant explained that he was hoping one day to obtain all the qualification certificates he needed to work in the construction field. This required practical experience, but it also required him to take courses.
+[12] The Appellant's courses had an impact on the hours that he could work, and he claims that 3094-1850 Québec Inc. was the only employer that wanted to hire him at the times that he did not need to attend courses. The Appellant is responsible for a small family consisting of himself, his spouse and two children. He was in a in a difficult position which made him very vulnerable, and he described the situation as an extremely difficult one and in conflict with his principles as an honest and responsible man.
+[13] His initial salary was $12 per hour, though he had to provide tools and trucks. In addition to these restrictions, he had to take courses and provide for his family's needs. Since it was obvious that he was unable to meet all his obligations, he asked that his pay be increased to $15 per hour.
+[14] Rather than give him the raise he requested, the Company for which he worked completely changed the way he was paid, creating a presumption that he had become a genuine independent contractor.
+[15] The Appellant was very concerned and suspicious about the approach adopted by his employer, 3094-1850 Québec Inc. He therefore took no risks, and kept personal records of all the information that he needed in order to verify whether his work was being paid for appropriately. In fact, he even provided these documents to the Respondent, who used them as a basis to affirm that the Appellant was an independent contractor and that the work was performed under a contract of enterprise.
+[16] This is not an open-and-shut case. Several elements explain, indeed, justify the decision. However, it is also clear that the Appellant was forced to live with certain conditions with which he did not agree.
+[17] Is this a case in which the maxim "silence gives consent" should be applied? Did the Appellant tacitly accept all the terms and conditions? Must the Appellant's silence during the work be interpreted as tacit complicity? Was the Appellant wilfully blind?
+[18] These are no obvious answers to any of these questions in the instant case.
+[19] However, the evidence also established that the Appellant was a very honest, straightforward person and, above all, a very responsible person when it came to his obligations. In addition, he strongly wished to obtain his certificates of qualification one day. In fact, he has obtained his certificates and has therefore become more independent.
+[20] In this very particular context, it seems very clear to me that, in light of the serious constraints (little chance of available work, intention to complete studies, deep desire to meet his family responsibilities), the Appellant was not free to refuse the terms, conditions and approach adopted by 3094-1850 Québec Inc.
+[21] For all the above reasons, and with some hesitation, I allow the appeal and determine that the Appellant performed the disputed work under a true contract of service during the periods in issue.
+Signed at Ottawa, Canada, this 27th day of July 2005.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 13th day of February, 2006.
+Garth McLeod, Translator
+CITATION: 2005TCC449
+COURT FILE NO.: 2005-325(EI)
+STYLE OF CAUSE: RÉGIS FORTIN and M.N.R.
+PLACE OF HEARING: Chicoutimi (Québec)
+DATE OF HEARING: July 5, 2005
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: July 27, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+For the Respondent:
+Stéphanie Côté
+COUNSEL OF RECORD:
+For the Appellant:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

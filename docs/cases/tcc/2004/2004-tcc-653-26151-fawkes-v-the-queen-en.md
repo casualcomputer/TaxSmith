@@ -1,0 +1,204 @@
+---
+title: "Fawkes v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26151/index.do"
+last_modified: "2004-09-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 653"
+citation2: ""
+neutral_citation: "2004 TCC 653"
+decision_date: "2004-09-27"
+language: "en"
+item_id: "26151"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4013
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:59:18.117000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "091a95e7b265d87a15a2abebd71d40c3773a8436de4b5bc52ac88aacc71b8165"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Fawkes v. The Queen
+
+- Citation: 2004 TCC 653
+- Decision date: 2004-09-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4013, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fawkes v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-09-27
+Neutral citation
+2004 TCC 653
+File numbers
+2004-1107(IT)I
+Judges and Taxing Officers
+Joe E. Hershfield
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-1107(IT)I
+BETWEEN:
+HEIDI FAWKES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on September 20, 2004 and judgment delivered orally on September 24, 2004 at Winnipeg, Manitoba
+Before: The Honourable Justice J.E. Hershfield
+Appearances:
+Counsel for the Appellant:
+Robert C. Lee
+Counsel for the Respondent:
+Michael Van Dam
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2002 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 27th day of September 2004.
+"J.E. Hershfield"
+Hershfield J.
+Citation: 2004TCC653
+Date: 20040927
+Docket: 2004-1107(IT)I
+BETWEEN:
+HEIDI FAWKES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench September 24, 2004)
+Hershfield J.
+[1] The Appellant appeals the reassessment for her 2002 tax year wherein the Minister brought into income the amount of $10,000.00 which the Appellant had claimed was a tax-free amount received in a settlement of a claim she asserts was related to a human rights violation that occurred in connection with the loss of her employment.
+[2] The Minister included the subject amount as a "retiring allowance" as defined in subsection 248(1) of the Income Tax Act and included it in income pursuant to subparagraph 56(1)(a)(ii) of the Act. Accordingly, the sole issue in this appeal is whether the subject payment is a retiring allowance as defined in the Act.
+[3] The Appellant gave evidence on her own behalf and the Respondent called a senior officer of the Appellant's former employer, Investors Group, namely Roger Blanchette, Vice-President, Financial Reporting, to whom the Appellant reported while employed at Investors.
+[4] The Appellant is a chartered accountant who was employed by Investors from December 1995 until her termination in February 2002. Prior to her termination she had been on maternity leave since February 26, 2001. Having been advised of her termination a few days before, she met with Mr. Blanchette on February 8, 2002 at which time Mr. Blanchette delivered to her an offer of severance (the "February Severance Offer").
+[5] Before addressing the terms of the offer and subsequent negotiations and events, it would be helpful to briefly describe the Appellant's employment with Investors prior to her maternity leave in February 2001. During her employment she was a manager in the corporate finance department of Investors Group. There was no dispute that the Appellant was a valued employee. She performed a supervisory role over accounting clerks and analysts and her responsibilities included accounts payable reconciliation and analysis and accounting research and compliance. The Appellant testified she worked long hours on month-end and quarterly reports and more particularly worked seven days a week in January and February each year on annual reports. I note as well she had won an award for continued high-level performance of her duties while absorbing a co-worker's managerial responsibilities while that co-worker was off, coincidentally, on maternity leave in 1999. Her nomination for the award was filled with high praise and acknowledges an impressive ability to accept the additional time and strain associated with assuming additional responsibilities.
+[6] The Appellant's base pay was some $60,000.00 per year and her average annual bonuses in the three years prior to her leave was in excess of $8,000.00. Her annual compensation including such bonuses and all benefits was in the area of $77,000.00.
+[7] While there is no dispute as to the Appellant's worthiness as an employee there are two very different points of view as to the reasons for her termination.
+[8] The Appellant admits that she was told her position had been eliminated due to a restructuring that had nothing to do with her maternity leave or parenthood status. However, she is suspicious if not convinced that there is more to it than that. Her maternity leave was first granted from February 26, 2001 to June 24, 2001 (Exhibit R-2) but was extended to ten months and then to one year. When the Appellant called Mr. Blanchette in early February 2002 to confirm particulars as to her return, she was told that there was no longer a job there for her. While she was informed that her termination was due to cutbacks, financial restraints and restructuring, she was and remains suspicious. She testified that she had spoken to former co-workers and got the impression somehow that her termination might not have been due to the alleged cutbacks and restructuring. Her testimony in this regard was vague and uncorroborated heresay at best. Still, I accept the Appellant's sincerity as to her suspicions and speculation that her extended maternity leave and motherhood had harmed her employer's perception of her work ethic or her ability to accept the workload demanded by her position. With a child she would not be as available and that, she is convinced, was the real reason for her termination. She testified that after her termination she called the Human Rights Commission's office in Manitoba and was told, on the phone, that she may have a valid complaint. She did not file or pursue a complaint with the Commission.
+[9] Mr. Blanchette testified that the Appellant was a valued worker and that a restructuring within Investors Group had been the sole reason for the elimination of a job for the Appellant. Investors had recently merged with McKenzie Financial which created a need to eliminate duplication. Further, there had been a protracted downturn in the markets and mutual funds in particular were hit upon by significant redemptions. Investors was exercising financial restraint in the form of tighter controls and eliminating expenses. There was a hiring freeze and a directive to reduce staff costs. Mr. Blanchette testified that by reassigning duties, the position held by the Appellant had been eliminated. He denied that there was any other reason than the restructuring for the termination of the Appellant's position and for the resulting situation of there being no other position available for her in the company.
+[10] The February Severance Offer was prepared by the Human Resources Department of Investors Group and signed by Mr. Blanchette. Although the employment was to cease effective immediately, wages for the month of February 2002 were paid. Mr. Blanchette explained that even though the Appellant's maternity leave had not expired and even though the Appellant's employment was being terminated effective immediately, wages for the month of February along with other benefits was thought to be an appropriate gesture in addition to severance equal to 18 weeks or three weeks per year of employment. The total termination package in the February Severance Offer was as follows:
+February wage:
+$5,025.00
+Vacation pay:
+5,221.00
+Severance
+21,000.00
+(3 weeks per year of service
+based on "base" salary)
+Lost bonus:
+8,185.00
+(average of last 3 years)
+Continued mortgage
+discount program
+400.00
+(approximate value)
+$39,831.00
+[11] The offer confirmed that the termination was in no way a reflection of performance or character and a letter of reference was said to be attached. She was encouraged to seek independent legal advice as well.
+[12] Following the receipt of the February Severance Offer the Appellant did seek legal representation and on February 19, 2002 the Appellant's lawyer wrote to Mr. Blanchette (the "February Reply") and asserted a breach of legislative requirements of subsection 60(2) of the Employment Standards Code of Manitoba and an apparent breach of the provisions of the Human Rights Code of Manitoba - the latter prohibiting discrimination in respect of any aspect of employment based on sex, including pregnancy, the possibility of pregnancy, or circumstances related to pregnancy. Subsection 60(2) of the Employment Standards Code provides that employers shall reinstate an employee to the same position or a comparable position on the expiry of maternity leave. The February Reply goes on to suggest that "wholly apart" from the legislative issues, the termination was a wrongful dismissal entitling the Appellant to a payment in lieu of reasonable notice.
+[13] As I read the February Reply, a counter-proposal was being made to the February Severance Offer with focus on the 18-week severance compensation amount while being generally accepting of other aspects of the offer. The counter-proposal suggests that the termination, in the circumstances of the Appellant, should afford her eight to nine months' salary in lieu of notice and that the calculation should be based on the $77,000.00 total value of her compensation package (not her base salary). On this basis, using nine months' severance pay in lieu of notice, the severance amount would be $57,750.00. The February Reply goes on to assert that additional compensation might be justified given the bad faith conduct by the employer in light of the circumstances surrounding her dismissal. Such additional compensation was suggested to be in the area of one to two additional months. This would bring the severance pay to $70,583.00 before considering the legislative breaches referred to above. The February Reply then goes on to say that a proper quantification of the compensation must take into account that the "apparent breaches" of such legislation which would entitle the Appellant to reinstatement to her employment. It asserts that waiving such entitlement should result in a significant additional payment to the Appellant.
+[14] Taking all of the above considerations into account the counter-proposal in the February Reply was:
+February wage
+$5,025.00
+Vacation pay
+5,221.00
+Severance (all claims)
+55,000.00
+Lost bonus
+8,185.00
+Continued mortgage discount
+program
+2,000.00
+(extended value)
+Legal fees
+1,000.00
+$76,431.00
+[15] At this point I note that this proposal, less statutory vacation pay, is roughly equal to the 11 months' severance suggested in the February Reply before any suggestion is made that additional compensation is appropriate for a waiver of asserted reinstatement rights that arise from legislative breaches including asserted human rights violations. While such reconstruction of a negotiating process as a means to assist in an allocation of a payment between one asserted damage and another is inevitably flawed, at the least it demonstrates that the Appellant cannot establish, even on a balance of probability, that her lawyer was seeking any particular amount in respect of an asserted human rights violation. It was a threat that bolstered her lawyer's position to seek a high-end severance package.
+[16] The February Reply was responded to by Investors' legal department. It denied wrongful dismissal and asserted compliance with the Employment Standards Code and the Human Rights Code given restructuring within the Appellant's department. To avert the cost of retaining outside counsel an enhanced offer was made. The severance amount was increased to $25,142.00, being five months' base salary. The Appellant's participation in the Mortgage Discount Program was extended to the end of the mortgage term as requested in the February Reply and a career counselling program worth $2,500.00 was offered as well.
+[17] In response, the Appellant's counsel suggested that five months' severance based on total compensation (amounting to some $32,000.00) would be appropriate if the only claim was wrongful dismissal. An additional compensation claim was again asserted in respect of the legislative breaches and the Appellant foregoing pursuit of her reinstatement rights before the Human Rights Commission. The response also noted further damage in the amount of $6,200.00 suffered in respect of the loss of RRSP contribution room and requested the $2,500.00 career counselling program value be added to the lump sum severance amount. A lump sum severance amount in satisfaction of all these claims (inclusive of the $32,000.00 wrongful dismissal amount) of $45,000.00 was proposed (down from $55,000.00 in the February Reply).
+[18] After a further exchange of correspondence in the nature of "negotiation" the final severance package looked as follows:
+February wage
+$5,025.00
+Vacation pay
+5,221.00
+Severance (all claims)
+40,000.00
+Lost bonus
+8,185.00
+Continued mortgage discount
+program
+2,000.00
+(extended value)
+Legal fees
+1,300.00
+$61,731.00
+[19] The Appellant's counsel argues that the increase in the total severance offer (some $22,000.00) must, in part, be taken to reflect compensation for the human rights violation or as a separate payment to effect a release of the Appellant's claim to pursue a remedy for the human rights violation. He asserts that the Appellant's estimation as to $10,000.00 being so attributable is reasonable. Respondent's counsel argues that no allocation was made in the settlement and that no allocation is appropriate given that the entire severance amount was in respect of the loss of employment and taxable as a "retiring allowance" as defined in subsection 248(1).
+[20] "Retiring Allowance" is defined in section 248 of the Act as follows:
+Retiring allowance means an amount (other than a superannuation or pension benefit, an amount received as a consequence of the death of an employee or a benefit described in subparagraph 6(1)(a)(iv)) received
+(a) on or after retirement of a taxpayer from an office or employment in recognition of the taxpayer's long service, or
+(b) in respect of a loss of an office or employment of a taxpayer, whether or not received as, on account or in lieu of payment of, damages or pursuant to an order or judgment of a competent tribunal,
+by the taxpayer or, after the taxpayer's death, by a dependant or a relation of the taxpayer or by the legal representative of the taxpayer; (emphasis added)
+[21] Respondent's counsel relies on Niles v. Canada, [1991] T.C.J. No. 118 and Jolivet v. Canada, [2000] T.C.J. No. 48.
+[22] In Niles the appellant claimed he was laid off under circumstances amounting to discrimination and a formal complaint was filed. A settlement was reached prior to a finding by the Ontario Human Rights Commission. It was argued that some part of a $5,000.00 settlement was for general damages relating to the discrimination claim and that, based on the authority of Re Piazza et al and Airport Taxicab et al, (1989), 60 DLR 759 (Ontario C.A.), such damages were not the same as damages for wrongful dismissal. While Judge Sobier agreed that compensation ordered for a breach of a human right's code was not the same as damages for the wrongful dismissal, he distinguished the case where no award for damages was given by a commission in respect of a discrimination claim per se. More particularly he found that all factors relating to the payment in question pointed to it being made as a result of loss of employment and that the settlement was to compensate for that. While there is a suggestion in that case that settlement of a discrimination claim would not be sufficient to disengage it from damages for loss of employment, I do not agree that the case should stand for that. The ratio seems to me to be that if the relevant factors point to a settlement as being in respect of the loss of employment, then the settlement amount is a taxable retiring allowance.
+[23] The phrase "in respect of" used in the definition of "retiring allowance" has a wide scope as recognized in Niles. It includes "in connection with". It is interesting to note here that the Notice of Appeal referred to the amount received in respect of a human rights violation as received in respect of a violation that "occurred in connection with the loss of the Appellant's employment". It is difficult to express the two claims without recognizing the "connection" unless the relevant factors concerning the award or settlement, point to a violation unconnected with the loss of employment per se such as damages for personal injury or injury to one's human dignity that go beyond the mere loss of employment and that would stand alone as a distinct claim aside from the loss of employment. In the case at bar, any allocation of the settlement amount to the human rights claim seems to be related to reinstatement - foregoance of which is clearly and materially connected to compensation for loss of employment. That is, it seems the Niles case is properly relied on by Respondent's counsel in that, as in Niles, all factors relating to the payment arise in the case at bar in respect of or in connection with the loss of employment and the settlement was to compensate for that.
+[24] In Jolivet, Justice Lamarre considered a claim that amounts paid not to pursue any claim under the Canada Labour Code, the Employment Standards Act (Ontario) and other similar legislation was not a retiring allowance. The claim arose as a result of an alleged arbitrary termination of employment. Justice Lamarre found a sufficient nexus between the receipt and the loss of employment. She noted that the release signed by the Appellant in that case specifically provided that there was no admission of liability on the part of the employer and that liability was denied. Appellant's counsel in the case a bar acknowledged that the release signed by the Appellant had similar denials in respect of any human rights violation. While, I do not think a denial of liability is fatal to a claim that damages are for something other than a loss of employment, there must still be factors pointing to that other claim as existing apart from the loss of employment. In Jolivet no such factors existed. That is also the situation in the case at bar so the Jolivet case as well as the Niles case are properly relied on by Respondent's counsel.
+[25] Appellant's counsel relies heavily on Interpretation Bulletin IT-337R4 Retiring Allowances and Stolte v. The Queen, [1996] 2 C.T.C. 2421.
+[26] In respect of IT-337R4, Appellant's counsel refers to paragraph 12 where the CRA acknowledges that personal injury damages may be viewed as unrelated to loss of employment and therefore not taxable. Examples of harassment during employment or defamation after dismissal are given presumably in the context of allocable damages lumped together in a loss of employment payment. These are relevant factors that would justify an approach that "disconnects" the damages for loss of employment from the personal injury damages. The Bulletin goes on however to state that "When a loss of employment involves a human rights violation and is settled out of Court, a reasonable amount in respect of general damages can be excluded from income".
+[27] I cannot fault Appellant's counsel for being persistent in his assertion that this statement reflects good law and it is frustrating when the CRA does not seem to adhere to its own guidelines. Respondent's counsel argued that the apparent differential treatment here is justified on the basis that a complaint was not filed with the Human Rights Commission. That should not be the criteria. The criteria should be whether there exists a sufficient nexus between the receipt and the loss of employment. However in cases like the one at bar, where the threat of an "apparently" supportable human rights claim for reinstatement or of a claim for ambiguous additional damages is used to exact a high severance package, the nexus between the receipt and the loss of employment is sufficient to bring the entire receipt into the scope of a retiring allowance defined in the Act regardless of inferences to the contrary in the Bulletin.
+[28] A.J.C. Bowman's decision in Stolte does not in my view assist the Appellant either. In that case there was accepted evidence that damages paid were not for loss of employment but rather were for mental and physical injuries sustained at the hands of the employer prior to termination of employment. A.C.J Bowman confirmed that not all amounts received on termination of employment are retiring allowances which is to say separation of damages sustained prior to termination but recognized and included in a termination package is appropriate when considering amounts included as a retiring allowance under the Act. That principle does not assist the Appellant here. There is no pre-termination injury alleged by the Appellant in the case at bar.
+[29] Lastly, I wish to comment on the premise of counsel for the Appellant that payments beyond normal recognized severance amounts for termination of employment without notice or for wrongful dismissal should be accepted as being in respect of personal injury arising from a human rights violation in a case such as the one at bar where the circumstances tend to support both that a viable claim exists and that the recipient of the extra amount honestly believed she was receiving some payment as compensation for releasing her right to pursue the claim. Firstly, I am not convinced an extra amount was paid. The authorities presented demonstrate that rules of thumb such as one-month severance for each year of service are rough guidelines at best. In Whelehan v. Laidlaw Environmental Services Ltd., 1998-04-15 Docket C974146 Canadian Legal Information Institute, the Supreme Court of B.C. ordered eight months severance in respect of a valued upper middle management employee employed for five and one-third years and terminated under very similar circumstances as the Appellant in the case at bar. In the case at bar, the settlement (some $71,000.00 net of statutory vacation pay), was for approximately 11 months based on the Appellant's annual total compensation package which is what the February Reply suggested was appropriate before considering the legislative breaches (see paragraph 13 of the Reasons). Further, it includes extras intended as good faith gestures such as the February salary and the value of a career-counselling program. It also covers a claim for damages relating to lost RRSP room. Further, Mr. Blanchette made it clear that the settlement was arrived at, from Investors' perspective, on the basis that retaining outside counsel would be more expensive than the negotiated settlement. From the Appellant's perspective I accept that she believes that she was terminated for reasons other than restructuring at Investors, but her compensation package was negotiated by her lawyer - he is her agent. What he negotiated as her agent is not reflective of compensatory damages unrelated to the loss of employment. Indeed what he got was a very good severance payment based on a variety of claims all related, directly related, to the Appellant's loss of employment. The claim relating to a human rights violation was couched by her lawyer in various ways but in particular it was advanced in the February Reply as a claim for reinstatement - the release from which is inextricably linked to damages for loss of employment.
+[30] In any event, as noted earlier, the Appellant is unable to meet her burden of proof that any of the amounts received are properly attributable to a human rights violation. The negotiations were cluttered with alternative posturing so that any number of allocations can be reconciled. That one reconciliation might be on the basis of an allocation for releasing a human rights claim is not sufficient.
+[31] To conclude, the appeal is dismissed on the basis that the full amount of the payment received was damages in respect of loss of employment and thereby a retiring allowance. The nexus between the receipt and the loss of employment is more than sufficient in this case and there are no amounts received that can reasonably be found to be unconnected with the loss of employment per se. Further, there is insufficient evidence to support an allocation to an unconnected claim even if one existed.
+Signed at Ottawa, Canada, this 27th day of September 2004.
+"J.E. Hershfield"
+Hershfield J.
+CITATION:
+2004TCC653
+COURT FILE NO.:
+2004-1107(IT)I
+STYLE OF CAUSE:
+Heidi Fawkes and
+Her Majesty the Queen
+PLACE OF HEARING:
+Winnipeg, Manitoba
+DATE OF HEARING:
+September 20, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice J.E. Hershfield
+DATE OF JUDGMENT:
+September 27, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Robert C. Lee
+Counsel for the Respondent:
+Michael Van Dam
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

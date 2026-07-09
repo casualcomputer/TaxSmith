@@ -1,0 +1,147 @@
+---
+title: "Meredith v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28563/index.do"
+last_modified: "2008-03-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 172"
+citation2: ""
+neutral_citation: "2008 TCC 172"
+decision_date: "2008-03-26"
+language: "en"
+item_id: "28563"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1096
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:24:34.983000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "08b353f45ac94884f819cc7f4a98c22768f4109bbd552d94b15decfebeccde99"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Meredith v. The Queen
+
+- Citation: 2008 TCC 172
+- Decision date: 2008-03-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1096, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Meredith v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-03-26
+Neutral citation
+2008 TCC 172
+File numbers
+2006-3353(IT)G
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-3353(IT)G
+BETWEEN:
+JOAN M. MEREDITH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on March 5, 2008 at Toronto, Ontario.
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Samantha Hurst
+____________________________________________________________________
+ORDER
+Upon Motion by the Respondent for an Order of this Court quashing the Appellant’s appeal from the assessment made under the Income Tax Act for the Appellant’s 2001 taxation year;
+The Motion is granted, without costs, and the Appellant’s appeal is quashed.
+Signed at Halifax, Nova Scotia, this 26th day of March 2008.
+“Wyman W. Webb”
+Webb J.
+Citation: 2008TCC172
+Date: 20080326
+Docket: 2006-3353(IT)G
+BETWEEN:
+JOAN M. MEREDITH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Webb J.
+[1] The issue in this case is whether the appeal filed by the Appellant in relation to the assessment of her 2001 taxation year should be quashed on the basis that the claim made by the Appellant for a medical expense tax credit in 2001 was based on an amount that had already been considered by this Court in a decision rendered in 2005 in relation to a claim for a medical expense tax credit claimed by the Appellant in 2000.
+[2] The issue raised by the Appellant in her appeal filed in relation to the assessment of her 2001 taxation year was as follows:
+The issue is whether I (the Appellant) am entitled to a non-refundable medical expense credit in respect of any of the disallowed medical expenses in the 2001 taxation year in the amount of $112,547.45.
+This amount of $112,547.45 is the balance paid in 2001 for a wheelchair accessible housing, which is made up of the following:
+Balance owing $232,247.45 -- this amount does not include the approved med. exp for year 2000
+Less $120,000 market value of old condo when sold
+Leaving a balance of $112,547.45 paid in year 2001.
+[3] I am assuming that the reference to the “Balance owing” of $232,247.45 should be $232,547.45.
+[4] The Appellant confirmed that the amounts as set out above in her Notice of Appeal for 2001 are related to her purchase of a condominium for $302,000 and that this condominium is the same condominium that was the subject of the claim for a medical expense tax credit by the Appellant in 2000. The interim closing date for this condominium was August 14, 2000. At the interim closing the Appellant provided a first mortgage to the vendor in the amount of $226,500, which was paid by her in January of 2001. The amount that she was claiming in her 2001 tax return was based on the amount paid in January 2001 to the vendor under this first mortgage. It appears that the amount paid ($232,547.45) was the principal amount of $226,500 plus interest.
+[5] The Appellant had earlier claimed an amount for medical expenses in the year 2000 in relation to the purchase of this same condominium. The amount claimed was the subject an appeal to this Court and the decision of this Court was reported as [2005] T.C.J. 669, 2007 TCC 694, 2008 DTC 2135 and 162 A.C.W.S. (3d) 848. In his decision Justice Paris stated in part as follows:
+14 In her 2000 tax return, Ms. Meredith claimed the difference between the cost of the new condominium, $302,000, and the value of her previous condominium, $122,500, as a medical expense under paragraph 118.2(2)(l.21) of the Income Tax Act....
+...
+38 The Appellant suggests that the cost or value of the former residence should be taken as the base amount and that the incremental or additional costs referred to in paragraph [118.2(2)(l.21)] are any costs for construction of a new residence that a taxpayer must lay out beyond what he or she would realize from the sale of the former residence.
+39 In her case, she incurred the difference between the price of her new residence and the value of her old residence solely in order to gain an access to and be more mobile or functional in her home.
+40 In my view, the interpretation suggested by counsel for the Respondent is to be preferred. That interpretation recognizes that not all of the construction costs of a residence designed for a person with mobility limitations can be said to be incurred to enable the person to gain access to, or to be more mobile or functional within the residence.
+41 It appears that the legislative purpose here is to give relief for the costs of necessary modifications and amenities that are required in the construction of a residence for a person with mobility limitations, rather than for the cost of the entire construction.
+42 Although Ms. Meredith is claiming only the difference between the value of her old residence and the cost of her new one, under the interpretation of the provision that she is suggesting, the entire cost of construction would be deductible to a person who previously did not own a home.
+43 All of the costs of construction would be incremental costs to a person in that situation. I do not believe that to have been the intention of Parliament in enacting Paragraph 118.2(2)(l.21).
+44 The difficulty in this case is determining the amount of the incremental costs incurred by Ms. Meredith for what I will refer to as the accessibility features of her new residence.
+45 Those features were substantial and I accept that there would be a substantial cost associated with them.
+46 According to the evidence, Ms. Meredith looked at many units in her area when she decided she had to move. She said that used two-bedroom condominiums were similar in size and location to her new residence, but lacked the accessibility features of her new condominium, and they were selling for between $210,000 and $230,000.
+47 I accept that the difference in price between these units and the new unit was largely attributable to the additional features as stated and therefore that the cost of these extra features was between $72,000 and $92,000.
+48 I accept the lower end of this range as being the more likely cost given that some adjustments should be made for the fact that Ms. Meredith's residence was new construction and the comparables to which she referred were used, and a buyer of a new residence pays a certain premium for new construction.
+49 Therefore, on all of the evidence, I find that Ms. Meredith is entitled to an additional medical expense tax credit on a basis that $72,000 of the cost of her new residence qualified as a medical expense under Paragraph 118.2(2)(l.21) of the Act.
+[6] Therefore it is clear from the decision of Justice Paris that he determined what portion of the amount of the purchase price of $302,000 payable by the Appellant for her condominium would be allowed as a medical expense for 2000. Therefore the current appeal, which is based on an amount payable for the same condominium and which amount was included in the purchase price of $302,000, raises an issue that has already been adjudicated between the parties. The Appellant cannot treat the amount paid on the first mortgage as a separate amount paid as it is related to the acquisition of the same condominium that was the subject of the earlier proceeding in this Court and this amount was already included in the purchase price of $302,000 that was considered by Justice Paris.
+[7] In Apotex Inc. v. Merck & Co., 19 C.P.R. (4th) 163, the Federal Court of Appeal stated as follows:
+[24] The relevant principles behind the doctrine of res judicata were established in two leading Supreme Court of Canada decisions: Angle v. M.N.R., [1975] 2 S.C.R. 248, 47 D.L.R. (3d) 544, and Grandview (Town) v. Doering, [1976] 2 S.C.R. 621, 61 D.L.R. (3d) 455. In Angle, supra, at p. 254, Dickson J. noted that res judicata essentially encompasses two forms of estoppel, being "cause of action estoppel" and "issue estoppel", both based on similar policies. First, there should be an end to litigation, and second, an individual should not be sued twice for the same cause of action.
+[25] These two estoppels, while identical in policy, have separate applications. Cause of action estoppel precludes a person from bringing an action against another where the cause of action was the subject of a final decision of a court of competent jurisdiction. Issue estoppel is wider, and applies to separate causes of action. It is said to arise when the same question has been decided, the judicial decision which is said to create the estoppel is final, and the parties to the judicial decision or their privies are the same persons as the parties to the proceedings in which the estoppel is raised (see Carl Zeiss Stiftung v. Rayner & Keeler Ltd. (No. 2), [1967] 1 A.C. 853, at p. 93, cited by Dickson J. in Angle, supra, at p. 254).
+[8] Leave to appeal this decision of the Federal Court of Appeal to the Supreme Court of Canada was dismissed ([2002] S.C.C.A. No. 323).
+[9] In this case since the portion of the $302,000 purchase price of her new condominium that can be claimed as a medical expense was already determined by decision of this Court, the Appellant is precluded from bringing any further action based on a claim for any medical expense tax credit related to any portion of the $302,000 purchase price of this condominium.
+[10] As a result the Respondent's Motion is granted, without costs, and the Appellant's appeal in relation to her 2001 taxation year is quashed.
+Signed at Halifax, Nova Scotia, this 26th day of March 2008.
+“Wyman W. Webb”
+Webb J.
+CITATION: 2008TCC172
+COURT FILE NO.: 2006-3353(IT)G
+STYLE OF CAUSE: JOAN M. MEREDITH AND THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: March 5, 2008
+REASONS FOR JUDGEMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: March 26, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Samantha Hurst
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

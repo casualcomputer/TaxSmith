@@ -1,0 +1,147 @@
+---
+title: "McGee v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/350530/index.do"
+last_modified: "2018-11-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 TCC 233"
+citation2: ""
+neutral_citation: "2018 TCC 233"
+decision_date: "2018-11-19"
+language: "en"
+item_id: "350530"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5029
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:34:19.125000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "db0eb393ca26c509e70dfd7f4159811956b0c9457073dcf9d5bc8807b04cf872"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# McGee v. The Queen
+
+- Citation: 2018 TCC 233
+- Decision date: 2018-11-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5029, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McGee v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-11-19
+Neutral citation
+2018 TCC 233
+File numbers
+2017-2764(GST)APP
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Part IX of the Excise Tax Act (GST)
+Notes
+A correction was made on December 28, 2018.
+Decision Content
+Docket: 2017-2764(GST)APP
+BETWEEN:
+KENNETH MCGEE,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Application heard on October 18, 2018 at Moncton, New Brunswick
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Agent for the Applicant:
+Marlene Hare
+Counsel for the Respondent:
+Sheherazade Ghorashy
+AMENDED ORDER
+Upon application for an Order extending the time within which a Notice of Objection may be served with respect to the new housing rebate assessment made under the Excise Tax Act;
+And upon hearing from the parties;
+It is ordered that the application is dismissed in accordance with the attached Reasons for Order.
+Signed at Ottawa, Canada, this 27th day of December 2018.
+“Patrick Boyle”
+Boyle J.
+Docket: 2017-2764(GST)APP
+BETWEEN:
+KENNETH MCGEE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+EDITED VERSION OF TRANSCRIPT
+OF ORAL REASONS FOR ORDER
+Let the attached edited transcript of the reasons for order delivered orally at the hearing on October 18, 2018 at Moncton, New Brunswick, be filed. I have edited the transcript (certified by the Court Reporter) for style, clarity and to make minor corrections only. I did not make any substantive changes.
+Signed at Ottawa, Canada, this 19th day of November 2018.
+“Patrick Boyle”
+Boyle J.
+Citation: 2018TCC233
+Date: 20181119
+Docket: 2017-2764(GST)APP
+BETWEEN:
+KENNETH MCGEE,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Boyle J.
+[1] Mr. McGee applied for and obtained a new housing rebate in respect of his home in Harvey, New Brunswick, in July 2011 in the amount of $5400. A reassessment in respect of that amount plus interest was mailed to him in July 2014. Apparently, the reassessment was in response to the taxpayer not having responded to a verifications letter asking for supporting documentation. The taxpayer says he did not receive it. There is no suggestion he was not entitled to his new housing rebate at the time he applied.
+[2] The 90-day period for objecting to that reassessment would have expired in October 2014, and the further one year for obtaining an extension to object would have expired in October 2015. Mr. McGee says he not only did not receive the verifications letter but he also did not receive the reassessment at that address. He was working in a different province during that period.
+[3] Mr. McGee filed a Notice of Objection in October 2016, which the Canada Revenue Agency responded to as if it was an application to extend and turned it down on the basis that it was out of time. CRA turned it down in November 2016. The application to this Court was made in April 2017.
+[4] As I said, there was no suggestion in the materials before the Court that Mr. McGee did not qualify for the new housing rebate on the merits had they been reviewed. There was no indication that CRA sent any statements or that CRA collections made any calls to him in the year and 90 days after the reassessment was issued. I should note also the irony of the fact that we are hearing this in the midst of threatened Canada Post work stoppages.
+[5] The 90-day and one year time limits in our tax laws appear to presumably reflect the fact that Canadians are expected to turn their minds to their income taxes at least once each year. It is not obvious to me that the same logic applies to GST new housing rebates which only arises when one purchases a home.
+[6] This Court often deals with applications to extend the deadlines for new housing rebates that are missed by taxpayers claiming to have not received the key letter or assessment sent to them by CRA by regular mail. These can create what many Canadians might consider inequitable but significant tax bills that would not be payable if the reassessment was reviewed by CRA or the Court on its merits.
+[7] While the Court has no jurisdiction to extend or ignore the one year and 90 days limitation period set by legislation duly passed by Parliament, I would strongly encourage Canada Revenue Agency to develop meaningful discretionary review policies for such cases or seek amendments to the legislation permitting such reviews comparable to the ten year discretionary reassessment provisions of the Income Tax Act, or at the very least ensure that at least one document or letter is sent by registered mail to evidence delivery to the taxpayer’s mailing address regardless of who signs for it.
+[8] I appreciate Mr. McGee also missed the 30 day time limit for appealing to this Court. However, he may not have needed to had he actually received either the audit inquiry or the reassessment which he says he did not. I would also note that the CRA letter turning down his extension request for the objection he had filed does not mention that there is a 30 day period to appeal to this Court from their decision.
+[9] For those reasons, and as explained to you, Mr. McGee, I have to dismiss your appeal.
+Signed at Ottawa, Canada, this 19th day of November 2018.
+“Patrick Boyle”
+Boyle J.
+CITATION:
+2018TCC233
+COURT FILE NO.:
+2017-2764(GST)APP
+STYLE OF CAUSE:
+KENNETH MCGEE AND THE QUEEN
+PLACE OF HEARING:
+Moncton, New Brunswick
+DATE OF HEARING:
+October 18, 2018
+REASONS FOR ORDER BY:
+The Honourable Justice Patrick Boyle
+DATE OF AMENDED ORDER:
+December 27, 2018
+APPEARANCES:
+Agent for the Applicant:
+Marlene Hare
+Counsel for the Respondent:
+Sheherazade Ghorashy
+COUNSEL OF RECORD:
+For the Applicant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

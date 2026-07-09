@@ -1,0 +1,123 @@
+Title: Reid c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28745/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-382-28745-reid-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-06-26
+
+# Reid c. La Reine
+
+- Citation: 2008 CCI 382
+- Decision date: 2008-06-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1499, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Reid c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-06-26
+Référence neutre
+2008 CCI 382
+Numéro de dossier
+2007-4466(IT)I
+Juges et Officiers taxateurs
+Murray A. Mogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2008 CCI 382
+Date : 20080626
+Dossier : 2007-4466(IT)I
+ENTRE :
+VIRGINIA GAIL REID,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Représentant de l’appelante : Jason Edward Stoke
+Avocat de l’intimée : Me Daniel G. Segal
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience à Calgary (Alberta),
+le 16 mai 2008.)
+Juge suppléant Mogan
+[1] Il s’agit d’un appel visant l’année d’imposition 2005 de l’appelante. Dans le calcul de son impôt, l’appelante a demandé un crédit d’impôt pour frais médicaux suivant l’article 118.2 de la Loi de l’impôt sur le revenu (la « Loi »). En particulier, elle a demandé un crédit d’impôt au titre de l’achat d’un lit Ceragem. Il s’agit d’un appareil spécial servant à aider les personnes aux prises avec des maux de dos et d’autres malaises. Le ministre du Revenu national a refusé le crédit d’impôt en faisant valoir que le lit ne tombe pas sous le coup de la large définition du terme frais médicaux qui est donnée dans la Loi et ses règlements d’application. L’appelante a interjeté appel de cette décision et elle a choisi la procédure informelle. La seule question dont la Cour est saisie est celle de savoir si le coût du lit Ceragem est admissible à titre de frais médicaux au sens de la législation en matière fiscale.
+[2] L’appelante est née en mars 1938, et elle est atteinte depuis sa naissance de ce qu’on appelle une scoliose rachidienne, qui, dans son cas, se manifeste par une déviation de la hanche gauche. Ce n’est qu’à l’adolescence que ce trouble médical a commencé à la déranger et, à l’âge de 20 ans, elle éprouvait certaines difficultés à sortir du lit parce que ses jambes étaient engourdies. Elle a commencé à consulter des professionnels du milieu médical et de celui des sciences de la santé. Elle a finalement consulté des médecins à Toronto. Ces derniers lui ont proposé de l’opérer, mais elle a refusé parce qu’elle estimait que les risques étaient trop importants. Elle a donc accepté son malaise et elle a vécu la plus grande partie de sa vie souffrant de ce qu’on appelle une lombalgie.
+[3] Elle n’a aucune difficulté à conduire sa voiture. Elle vit dans un condominium qui est réservé aux aînés et qu’elle qualifie de condo pour les plus de 50 ans, en ce sens que l’immeuble est destiné à servir de résidence seulement aux personnes qui sont âgées d’au moins 50 ans. Elle précise que le condominium consiste en un appartement de 1 200 pieds carrés situé à l’étage, et elle y vit comme n’importe quelle autre personne qui réside dans une habitation analogue. J’ai remarqué, pendant qu’elle se trouvait dans la salle d’audience, qu’elle semblait pouvoir marcher avec facilité. Elle éprouve peut‑être des maux de dos, mais elle se déplaçait dans la salle d’audience comme beaucoup d’autres personnes.
+[4] Elle n’a jamais demandé un crédit d’impôt pour personnes handicapées sous le régime de la Loi mais, au fil des ans, elle a consulté des chiropraticiens, des physiothérapeutes, des acupuncteurs et des massothérapeutes pour soigner sa lombalgie. Vers 2004, un médecin a retiré du liquide de son genou, ce qui l’a aidé à marcher. Enfin, en 2004 et en 2005, un ami lui a proposé d’essayer un lit Ceragem. Elle s’est rendue au magasin à Calgary qui vend ce genre de lit et elle en a essayé un. Selon ses dires, on a procédé à une présentation du lit qui a duré de 15 à 20 minutes. J’en déduis que cette présentation était de nature publicitaire. Ceux qui étaient présents se voyaient offrir la possibilité d’essayer un lit Ceragem fonctionnant automatiquement ou manuellement. Le lit muni du système automatique, soit celui essayé par l’appelante, comportait un cycle d’une durée de 39 minutes au cours duquel différentes fonctions du lit, comme des vibrations et un genre de massage, étaient utilisées en alternance pendant tout le cycle. Elle trouvait que le lit lui apportait un certain soulagement.
+[5] Elle a d’abord essayé le lit Ceragem au début de l’été 2005, puis elle est retournée au magasin à plusieurs occasions pour répéter l’expérience et refaire ces essais pour voir si elle pouvait tirer un soulagement permanent de son utilisation. Je ne me souviens pas, à la lumière de la preuve, du nombre de fois qu’elle est retournée au magasin, mais elle s’y est certainement rendue à plusieurs reprises. Au bout du compte, à la fin du mois d’octobre, elle a décidé d’acheter le lit. Le vendeur au magasin lui a dit que, si elle obtenait une ordonnance de son médecin, elle pourrait peut‑être bénéficier d’une déduction ou d’un autre allégement fiscal au titre de l’acquisition. Elle est donc allée voir son médecin, un certain Dr Pandya, pour lui demander une ordonnance, laquelle a été versée au dossier sous la cote A‑2. Ce document, qui ressemble à une ordonnance médicale typique, porte la date du 2 novembre 2005, et il semble que le médecin y ait écrit, si j’arrive à bien lire :
+[traduction]
+Elle peut essayer le lit Ceragem pour les douleurs lombaires de nature mécanique.
+[6] Le même jour, après avoir obtenu l’ordonnance, elle a signé un contrat de vente visant un lit Ceragem. Cette entente a été produite sous la cote A‑3. La qualité de la photocopie laisse à désirer, mais on peut voir le prix de 3 990 $, lequel comprend la taxe sur les produits et services. Ainsi, le même jour, elle a obtenu une ordonnance du Dr Pandya et acheté le lit. Est en outre produit sous la cote A‑1 un double d’une homologation de matériel médical délivrée par Santé Canada en 2003 à Ceragem Company Limited, le fabricant du lit. Dans la mesure où j’arrive à bien le lire, ce document ne sert qu’à accorder au fabricant un numéro d’homologation relatif au lit Ceragem et à attester que ce lit constitue du matériel médical pour les besoins de Santé Canada. À ma connaissance, il n’a pas de signification particulière sous le régime de la Loi de l’impôt sur le revenu aux fins de l’impôt sur le revenu. Il revêt peut‑être une certaine importance dans le domaine des sciences de la santé, mais aucun des éléments qui m’ont été présentés pendant l’audience ne me permet de conclure que ce document a une quelconque pertinence au regard des dispositions réglementaires relatives aux frais médicaux prises en vertu de la Loi.
+[7] La dernière pièce produite par l’appelante, la pièce A-4, consiste en une note du Dr Pandya datée du 12 mai 2008, soit seulement trois jours avant l’audition du présent appel, qui mentionne simplement ce qui suit :
+[traduction]
+OBJET : PATIENTE – REID, MME GAIL
+Mme Reid est ma patiente depuis 2001.
+Elle était atteinte des troubles médicaux antérieurs suivants : scoliose, lombalgie et douleur aux genoux et aux hanches.
+Mme Reid a été examinée lors de diverses visites à la clinique pour ses troubles médicaux. Plusieurs médicaments et traitements lui ont été prescrits.
+Elle prend du Naprosya 500 mg (un anti‑inflammatoire) deux fois par jour ainsi que du Plaquenil 200 mg chaque jour.
+Elle a été adressée au Dr J.P. Ryan, rhumatologue. Elle a obtenu des rendez‑vous pour consultation en décembre 2004, en novembre 2006 et en juillet 2007.
+[…]
+[8] Pendant son témoignage, l’appelante a affirmé qu’elle avait subi une chirurgie à la coiffe des rotateurs de son épaule gauche en mai 2007 et de son épaule droite en septembre 2007. Apparemment, le chirurgien lui a dit à ce moment que ses épaules avait le tonus musculaire d’une femme plus jeune; elle était alors probablement âgée d’environ 68 ou 69 ans. Elle attribue ce compliment au fait qu’elle utilise le lit Ceragem depuis novembre 2005. Je n’estime pas qu’il s’agit là d’une certitude médicale, mais c’est ce qu’elle pense, et je la crois.
+[9] Comme je l’ai déjà mentionné, la Cour doit se demander en l’espèce si le coût du lit Ceragem est admissible à titre de frais médicaux. L’intimée a produit sous la cote R‑1 une brochure publicitaire du lit. À la lumière du témoignage de l’appelante – que j’estime totalement digne de foi – et de cette brochure, il semble que le lit Ceragem consiste en une sorte de dispositif vibrant offrant ce qui ressemble à un massage, et, de fait, le terme [traduction] « massage » est employé plus d’une fois dans la brochure. On peut y lire ce qui suit :
+[traduction]
+Vibro-masseur thermal de digitopuncture Ceragem. Ce vibro‑masseur thérapeutique personnalisé, qui agit sur tout le corps, est le meilleur qui soit. Cette percée technologique conjugue divers aspects de pointe de la médecine orientale.
+J’en déduis qu’il s’agit d’un genre de massage, mais obtenu sans la manipulation en personne d’un massothérapeute.
+[10] J’examinerai maintenant les dispositions pertinentes de la Loi. Le paragraphe 118.2(1) contient la formule permettant de calculer les crédits d’impôt accordés au titre de frais médicaux, et le paragraphe 118.2(2) précise en quoi consistent les frais médicaux. La seule définition invoquée par l’appelante est celle donnée à l’alinéa m). Les parties pertinentes de l’article 118.2 sont ainsi rédigées :
+118.2(1) La somme obtenue par la formule ci-après est déductible dans le calcul de l’impôt payable par un particulier en vertu de la présente partie pour une année d’imposition : […]
+118.2(2) Pour l’application du paragraphe (1), les frais médicaux d’un particulier sont les frais payés :
+a) […]
+m) pour tout dispositif ou équipement destiné à être utilisé par le particulier, par son époux ou conjoint de fait ou par une personne à charge visée à l’alinéa a) et qui répond aux conditions suivantes, dans la mesure où le montant payé ne dépasse pas le montant fixé par règlement, le cas échéant, relativement au dispositif ou à l’équipement :
+(i) il est d’un genre visé par règlement,
+(ii) il est utilisé sur ordonnance d’un médecin,
+(iii) il n’est pas visé à un autre alinéa du présent paragraphe,
+(iv) il répond aux conditions prescrites quant à son utilisation ou à la raison de son acquisition;
+[11] Le représentant de l’appelante et l’avocat de l’intimée ont tous deux attiré mon attention sur l’article 5700 du Règlement de l’impôt sur le revenu (le « Règlement »), lequel se rapporte expressément au paragraphe 118.2(2) et, de fait, établit un lien avec l’alinéa m) en ce qui concerne la notion de dispositif ou équipement. L’article 5700 du Règlement est libellé en ces termes :
+5700 Les dispositifs ou équipements suivants sont prescrits pour l’application de l’alinéa 118.2(2)m) de la Loi :
+a) […]
+h) un lit d’hôpital, y compris les accessoires de ce lit visés par une ordonnance;
+D’une façon ou d’une autre, il semble que le lit Ceragem doive être visé par ces termes.
+[12] Les deux parties m’ont également renvoyé à un certain nombre de décisions rendues par mes collègues de la Cour. La plupart d’entre elles accordent une mesure d’allègement au contribuable dans chacun des appels. Les contribuables n’ont pas entièrement gain de cause dans ces affaires, mais ils obtiennent néanmoins un certain allègement. Certaines de ces décisions se distinguent aisément de la présente affaire.
+[13] Dans la décision Williams v. The Queen, [1998] 1 C.T.C. 2813, qui a été rendue par M. le juge Rip en 1997, Mme Williams a contracté, à un jeune âge, une maladie environnementale rare alors qu’elle était physiothérapeute. Lorsqu’elle se rendait à une clinique pour y travailler, elle commençait à avoir des symptômes inhabituels, et ses médecins ont conclu qu’elle était allergique à toutes sortes d’éléments susceptibles de se trouver dans les tapis et certains genres de meubles. On lui a dit qu’elle devrait vivre dans un endroit où il n’y avait pas de tapis et se procurer un matelas spécial uniquement fait de coton et qui n’était pas enduit du produit habituellement utilisé pour le rendre ininflammable.
+[14] Mme Williams a fini par interjeter appel à la Cour relativement à la déduction de frais médicaux d’environ 7 000 $ comprenant des suppléments de vitamines et de minéraux, de la nourriture et du nettoyage, des appareils de soins personnels, le matelas spécial ainsi que l’installation des planchers de bois franc dans sa résidence. Le juge Rip a rejeté l’appel visant les vitamines et les suppléments ainsi que la nourriture et le matériel de nettoyage, mais il l’a accueilli en ce qui touche le matelas spécial et les planchers de bois franc, et ce, au motif que ces éléments tombaient sous le coup de la définition de dispositif médical puisqu’ils étaient essentiels à l’appelante et qu’ils lui avaient été recommandés par plusieurs médecins. Ces derniers lui avaient expressément dit qu’elle devait vivre dans un milieu où les substances auxquelles elle paraissait allergique étaient absentes. Son appel a donc été accueilli en partie. Je pense que cette affaire a été invoquée parce qu’elle montre jusqu’où la Cour peut aller pour étendre la notion de dispositif ou d’équipement dans une situation donnée. Dans la décision Williams, il était indispensable que l’appelante apporte ces modifications à sa résidence pour pouvoir vivre.
+[15] L’affaire suivante est la décision Crockart v. The Queen, 1999 CanLii 326, prononcée par M. le juge Bowie. Il s’agit à mon sens d’une décision qui se distingue facilement de la présente affaire parce que, dans son jugement, le juge Bowie mentionne que les parties ont produit un exposé conjoint des faits, et que deux faits sont particulièrement importants. Les troubles médicaux de Mme Crockart, plus précisément la paralysie de son bras gauche et de sa jambe gauche, l’empêchaient de s’allonger dans un lit ordinaire ou de sortir de celui‑ci sans aide. Elle avait en outre des problèmes de maîtrise de la miction et de la défécation, ce qui l’obligeait souvent à quitter son lit la nuit pour se rendre aux toilettes, alors qu’elle était incapable de sortir du lit ou de s’y allonger seule. De plus, dans cette décision, les parties avaient reconnu que les médecins de Mme Crockart lui avaient conseillé d’acheter un lit réglable pour l’aider à sortir du lit et, donc, le dispositif était utilisé sur ordonnance d’un médecin pour l’application de l’alinéa 118.2(2)m) de la Loi.
+[16] Dans la décision Crockart, le fait permettant d’établir une distinction avec la présente affaire tient à ce que le dispositif médical était, en réalité, un lit, et qu’il devait être ajusté pour pallier une déficience physique, puisque la contribuable était incapable de se mettre au lit et d’en sortir par elle‑même. Le juge Bowie a accueilli l’appel de Mme Crockart sur ce fondement et il a alors renvoyé au passage suivant de la décision Radage v. The Queen, 96 DTC 1615, rendue par M. le juge en chef Bowman :
+La Cour doit, tout en reconnaissant l’étroitesse des critères énumérés aux articles 118.3 et 118.4, interpréter les dispositions d’une manière libérale, humaine et compatissante et non pas d’une façon étroite et technique.
+Ces termes sont bien souvent utilisés pour interpréter la législation en matière fiscale et j’aime à penser que nous nous efforçons tous de suivre ces prescriptions.
+[17] On a également invoqué la décision de la Cour rendue dans l’affaire Vucurevich v. The Queen, [2000] 1 C.T.C. 3044, par M. le juge Teskey. Il s’agit d’une affaire intéressant M. Vucurevich, paraplégique en fauteuil roulant depuis 45 ans. Ce dernier s’en sortait bien, en ce sens qu’il avait été employé pendant 30 de ces années, mais après 40 ans dans un fauteuil roulant, il éprouvait certaines difficultés, en particulier en raison des plaies causées par le fait de passer trop de temps assis dans la même position. On l’a informé que la seule façon pour lui de se mouvoir dans sa résidence consistait à remodeler certains éléments de la maison de sorte qu’ils se trouvent exactement à la même hauteur que le siège de son fauteuil. Il était dans un fauteuil roulant depuis si longtemps qu’il n’avait plus aucune force dans les jambes, et ses bras avaient perdu beaucoup de puissance en raison des efforts qu’il devait faire pour se mouvoir avec le fauteuil. Il a dû remodeler son lit pour que le matelas se trouve à la même hauteur que son fauteuil, ce qui lui a donc permis de se déplacer de celui‑ci à son lit par lui‑même. En outre, le sofa du salon et la chaise de la salle à manger où il s’assoyait toujours avaient également été modifiés pour être à la même hauteur que son fauteuil roulant de sorte qu’il puisse se mouvoir latéralement sans l’aide d’un tiers. Le coût de remodelage de ces éléments a été contesté dans le cadre de son appel en matière fiscale. S’appuyant sur les propos relatifs à une interprétation libérale formulés par le juge en chef Bowman dans la décision Radage, le juge Teskey a donné raison à l’appelant et estimé que le coût du remodelage du mobilier était analogue à celui de son achat. Il a déclaré ce qui suit :
+Je ne vois aucune différence entre l’achat d’un lit semblable à un lit d’hôpital et le remodelage d’un lit existant pour le doter des caractéristiques d’un « lit d’hôpital classique ». Je conclus donc que les frais concomitants constituent des frais médicaux appropriés.
+Toutefois, dans cette affaire, le contribuable se trouvait véritablement dans une situation déplorable, et il était nécessaire d’effectuer les réparations pour lui permettre de survivre et de se déplacer dans sa propre maison de façon autonome, sans l’aide d’un tiers.
+[18] Les deux autres décisions de la Cour auxquelles on me renvoie sont Pagnotta v. The Queen, [2001] 4 C.T.C. 2613, rendue par M. le juge Miller, et Norton v. The Queen, 2008 CCI 29, rendue par Mme la juge Sheridan. À mon avis, ces deux décisions ne sont d’aucune utilité en l’espèce parce qu’elles portent principalement sur des médicaments, comme l’aspirine, et non sur un élément explicitement qualifié de dispositif ou d’équipement. Je n’estime donc pas que les observations formulées par les juges dans ces affaires s’appliquent ici.
+[19] Je reviens aux faits de la présente affaire. Le seul élément susceptible de justifier l’octroi d’un certain allègement à la contribuable dans le cadre de la législation applicable tient à l’existence d’un dispositif ou d’un équipement pouvant s’apparenter à un lit d’hôpital. Je crois que l’appelante ne peut réussir à cet égard parce qu’elle dort dans son propre lit et non dans le lit Ceragem, celui‑ci n’étant pas conçu pour le sommeil nocturne. Il semble s’agir d’un dispositif qu’une personne peut acheter pour éventuellement remplacer la massothérapie. De plus, les frais engagés au titre de la massothérapie ont expressément été refusés comme frais médicaux.
+[20] Par conséquent, bien que la Cour, dans la décision Crockart, ait conclu que l’ajustement du lit s’apparentait à l’achat d’un lit d’hôpital, en l’espèce, le lit Ceragem ne ressemble en rien à un lit d’hôpital; ce n’est même pas un lit, malgré l’emploi de ce terme dans la brochure (pièce A‑2). Il s’agit plutôt d’une table pourvue d’une fonction de vibration qui paraît remplacer la massothérapie, laquelle n’est pas acceptée dans la déduction pour frais médicaux. En conséquence, même si on nous incite à interpréter les termes employés au paragraphe 118.2(2) d’une manière libérale et compatissante, je ne suis pas convaincu que le lit Ceragem puisse d’une quelconque façon être assimilé à un dispositif ou à un équipement au sens de l’alinéa m) de la Loi ou de l’alinéa h) du Règlement. Pour ces raisons, je rejette l’appel.
+Signé à Ottawa, Canada, ce 26e jour de juin 2008.
+« M.A. Mogan »
+Juge suppléant Mogan
+Traduction certifiée conforme
+ce 12e jour d’août 2008.
+Aleksandra Koziorowska, LL.B.
+RÉFÉRENCE : 2008 CCI 382
+NO DU DOSSIER DE LA COUR : 2007-4466(IT)I
+INTITULÉ DE LA CAUSE : Virginia Gail Reid et
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Calgary (Alberta)
+DATE DE L’AUDIENCE : Le 15 mai 2008
+MOTIFS DU JUGEMENT PAR : L’honorable juge M.A. Mogan
+DATE DU JUGEMENT : Le 28 mai 2008
+COMPARUTIONS :
+Représentant de l’appelante :
+Jason Edward Stoke
+Avocat de l’intimée :
+Me Daniel G. Segal
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelante :
+Nom : s.o.
+Cabinet : s.o.
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

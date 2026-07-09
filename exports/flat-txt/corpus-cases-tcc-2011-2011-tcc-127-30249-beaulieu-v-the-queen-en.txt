@@ -1,0 +1,130 @@
+Title: Beaulieu v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30249/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-127-30249-beaulieu-v-the-queen-en.md
+Document type: case_law
+Last modified: 2011-03-07
+
+# Beaulieu v. The Queen
+
+- Citation: 2011 TCC 127
+- Decision date: 2011-03-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8018, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Beaulieu v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-03-07
+Neutral citation
+2011 TCC 127
+File numbers
+2010-740(IT)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-740(IT)I
+BETWEEN:
+DIANE BEAULIEU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on January 12, 2011, at Québec, Quebec.
+Before: The Honourable Justice Brent Paris
+Appearances:
+For the appellant:
+The appellant herself
+Counsel for the Respondent:
+Ilinca Ghibu
+____________________________________________________________________
+JUDGMENT
+The appeals from reassessments made under the Income Tax Act for the 2003, and 2004 taxation years are allowed, and the reassessments are vacated.
+The appeal from the reassessment of the 2005 taxation year is dismissed.
+Signed at Ottawa, Canada, this 7th day March 2011.
+“B.Paris”
+Paris J.
+Translation certified true
+on this 27th day of February 2014
+Daniela Guglietta, Translator
+Citation: 2011 TCC 127
+Date: 20110307
+Docket: 2010-740(IT)I
+BETWEEN:
+DIANE BEAULIEU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Paris J.
+[1] This is an appeal under the informal procedure with respect to the 2003, 2004 and 2005 taxation years. The issues in these appeals are whether the appellant failed to report taxable income under the Income Tax Act (the Act) of $14,601 in 2003, of $28,733 in 2004 and of $31,589 in 2005, and also, whether the appellant made any misrepresentations attributable to neglect, carelessness or wilful default in filing her tax returns for 2003 and 2004, such that the Minister of National Revenue was entitled to reassess those years beyond the normal statutory reassessment period.
+Facts
+[2] In 2003 and 2005, the Appellant operated a snack bar named “La Marmite de l’Ouest” in St. Casimir, Quebec. In 2004, the appellant rented out the snack bar on a trial basis to a person who was interested in buying it from her, but the prospective purchaser decided not to buy it.
+[3] The appellant said that she operated the snack bar on a seasonal basis and opened it for 96 days in 2003 and 116 days in 2005. She closed it down in 2007 because she said it was unprofitable.
+[4] In the years in issue, the appellant and her spouse, Mario Julien, reported the following taxable income (loss):
+Appellant
+Mario Julien
+2003
+($1,256)
+$15,093
+2004
+$3,603
+$1
+2005
+$3,475
+($1,706)
+The Canada Revenue Agency decided to conduct a net worth audit of the appellant for the years in issue. I suspect that the low reported income of the appellant and her spouse led to the audit.
+[5] The auditor prepared a list of the appellant’s assets and liabilities at the start and end of each year, added in her and her spouse’s personal expenditures and deducted all of their non-taxable receipts for each year. On this basis, she determined that the appellant’s income in each year was higher than what she reported in her tax returns, by the amounts set out above in paragraph 1.
+[6] The appellant is challenging the figures used by the auditor for her and Mr. Julien’s personal expenditures. The auditor arrived at these amounts by calculating the total of all withdrawals from the appellant’s bank accounts and those of her spouse, and subtracting the withdrawals that she could identify as having been used in the appellant’s business. The auditor also subtracted any withdrawals that she believed were deposited into any of the other accounts (either in whole or in part) in order to avoid double counting personal expenditures. The auditor assumed that the remaining withdrawals were used to fund the appellant’s and her spouse’s personal expenses.
+[7] The appellant maintained that the auditor failed to take into account all of the amounts that had been withdrawn from one of the accounts but later deposited either the full amount or part thereof into another of the various accounts. Gilles Létourneau, the appellant’s accountant, testified that he had found transfers of this sort totalling $19,850 in 2003, $10,037 in 2004 and $11,310 in 2005, whereas the auditor allowed for only a portion of these. Unfortunately, Mr. Létourneau was not able to give any details of his calculations or any specifics of any of the alleged transfers such as dates and amounts, and none of the bank statements for any of the accounts were produced at the hearing. Therefore, it is impossible to verify this claim.
+[8] Mr. Létourneau made those same submissions to the auditor at the audit stage and she reviewed the withdrawals again so as to determine the amount of such transfers. At the hearing, the auditor produced a list of all the withdrawals from each of the accounts she reviewed and identified those withdrawals that were followed by cash deposits within a few days into any other of the accounts. She adjusted downward the amounts assessed to take into account the subsequent deposits that may have come from the previous withdrawals.
+[9] The appellant’s accountant also testified that some of the withdrawals that were assumed to be for personal expenditures were in fact used to purchase equipment or pay expenses related to the snack bar operation or to pay expenses of a business operated by Mr. Julien, in excess of the amounts allowed by the auditor. No details of those transactions were given by any of the witnesses, and no documentation in support was provided for those accounts. He also said that the appellant and Mr. Julien had additional non-taxable income in the form of a life insurance payment following the death of Mr. Julien’s father and an inheritance from his estate. The appellant did have a copy of a cancelled cheque dated November 16, 2014, in the amount of $3,503.12 from Sun Life Insurance payable to Mr. Julien and a copy of a life insurance policy in the name of J.M. Julien. This material was not presented to the auditor, and I am satisfied that it shows additional non-taxable income of $3,503.12 in 2004. The appellant also gave evidence that she and her spouse received $1,500 in 2004 from the sale of a golf cart that had belonged to her father-in-law. I find the appellant’s evidence on this point credible and reliable and therefore, this income would be non-taxable as well.
+Analysis
+[10] Although the appellant did not specifically address the issue of the Minister’s right to reassess beyond the normal reassessment period, since she is self-represented, I believe it is appropriate to ensure that the respondent has proved that the appellant made a misrepresentation due to carelessness, negligence or wilful default in filing her returns for her 2003, 2004 and 2005 taxation years.
+[11] In Molenaar v. The Queen [1] the Federal Court of Appeal stated that where the Minister shows that a taxpayer’s net worth has increased in a taxation year and no credible explanation for the increase has been provided by the taxpayer, this is sufficient to allow the reopening of a statute-barred year. The Court said the following at paragraph 4:
+Once the Ministère establishes on the basis of reliable information that there is a discrepancy, and a substantial one in the case at bar, between a taxpayer's assets and his expenses, and that discrepancy continues to be unexplained and inexplicable, the Ministère has discharged its burden of proof. It is then for the taxpayer to identify the source of his income and show that it is not taxable.
+[12] In this case, the auditor has conducted a methodical and thorough review of all of the bank records supplied by the appellant and her spouse. Based on this review, she identified a discrepancy between the appellant’s and her spouse’s personal expenditures and the total of their combined reported income. However, the work done by the auditor does not show on the balance of probabilities what part of what I will refer to as the “joint discrepancy” is attributable to the appellant alone. Since the net worth audit that was conducted amounted to a joint audit of both the appellant and her spouse, and took into account all of the withdrawals from bank accounts belonging to both of them as well as their combined non-taxable income and their combined reported income, the most that can be said is that the joint discrepancy resulted from income earned either in whole or in part by the appellant or by her spouse. For the purpose of the reassessments of the statute-barred taxation years of the appellant, the respondent is required to prove that the appellant made a misrepresentation or omission in reporting her income and that this was done as a result of carelessness, neglect or wilful default. In this case, on the evidence before me, since it is not possible to say whether the income that makes up the joint discrepancy belonged to the appellant, it follows that the respondent has not met its onus on this point. The reassessments for the 2003 and 2004 taxation years shall therefore be vacated.
+[13] However, for the purpose of the 2005 taxation year, which was reassessed within the normal reassessment period, it is the appellant, rather than the Minister, who bears the onus of proof, and she must refute the Minister’s assumption that the discrepancy that was discovered by the auditor was referable to income earned by her alone. For the following reasons, I find that the appellant has not met that onus.
+[14] The appellant argued that she could not have made the amounts assessed to her as unreported income from the operation of her snack bar. In a net worth assessment, though, the Minister is not required to prove the source of the unreported income: see Molenaar, above.
+[15] The appellant also argued that her accountant, Mr. Letourneau, had shown errors of at least $60,000 in the auditor’s work for all of the years in issue. Unfortunately, most of Mr. Letourneau’s assertions were not corroborated by any banking records or supporting documentation of any kind, and for this reason I find his testimony unreliable. On the issue of the alleged double counting of bank withdrawals, I prefer the evidence of the auditor, who stated that she took into account any deposits that occurred within a few days of any withdrawal and excluded those amounts from the calculation of the appellant’s and her spouse’s personal expenditures. Her testimony was supported by a listing of all of the withdrawals from all of the bank accounts she reviewed, along with notations of instances of possible deposits made from the proceeds of the withdrawals, which she excluded from the personal expenditure calculation. Finally, the appellant pointed out that she and Mr. Julien had substantial non-taxable income in the years under appeal from an insurance settlement from a car accident and for providing foster care to two children. This was true, but the auditor was aware of these sources of income and gave the appellant credit for all of what she said they received as foster care payments and $62,804.80 and $21,195.95 of insurance proceeds in 2004 and 2005 respectively. Once again, the appellant presented no evidence to show that the figures used by the auditor were incorrect.
+[16] For these reasons, the appeals are allowed on the basis that the reassessments for the 2003 and 2004 taxation years should be vacated.
+[17] While I have found that the reassessments for the 2003 and 2004 taxation years were statute-barred, if they had not been, I would have found that two of the items raised by Mr. Letourneau would have led to a reduction in the amount assessed for the 2004 taxation year. The life insurance payment to Mr. Julien was proved by the cancelled cheque and life insurance certificate. This material was not presented to the auditor, and I am satisfied that it shows non-taxable income of $3,503.12 in 2004. I also find that the appellant’s testimony that she and Mr. Julien received proceeds of $1,500 from the sale of the golf cart that had belonged Mr. Julien’s late father to be credible, and as such the amount would also be a non-taxable receipt.
+Signed at Ottawa, Canada, this 7th day March 2011.
+“B.Paris”
+Paris J.
+Translation certified true
+on this 27th day of February 2014
+Daniela Guglietta, Translator
+CITATION: 2011 TCC 127
+COURT FILE NO.: 2010-740(IT)I
+STYLE OF CAUSE: DIANE BEAULIEU
+v.
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: January 12, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Brent Paris
+DATE OF JUDGMENT: March 7, 2011
+APPEARANCES:
+For the appellant:
+The appellant herself
+Counsel for the respondent:
+Ilinca Ghibu
+COUNSEL OF RECORD:
+For the appellant:
+Name: N/A
+Firm: N/A
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2004 FCA 349.

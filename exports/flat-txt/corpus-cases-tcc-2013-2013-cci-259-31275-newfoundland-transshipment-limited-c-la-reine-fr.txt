@@ -1,0 +1,191 @@
+Title: Newfoundland Transshipment Limited c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31275/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-259-31275-newfoundland-transshipment-limited-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2013-08-20
+
+# Newfoundland Transshipment Limited c. La Reine
+
+- Citation: 2013 CCI 259
+- Decision date: 2013-08-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5116, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Newfoundland Transshipment Limited c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-08-20
+Référence neutre
+2013 CCI 259
+Numéro de dossier
+2013-427(IT)APP
+Juges et Officiers taxateurs
+Johanne D’Auray
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-427(IT)APP
+ENTRE :
+NEWFOUNDLAND TRANSSHIPMENT LTD.,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Demande entendue le 5 juin 2013 à Halifax (Nouvelle‑Écosse).
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Avocats de la requérante :
+Me Sara L. Scott
+Me Paul Festeryga
+Avocat de l’intimée :
+Me Jan Jensen
+____________________________________________________________________
+ORDONNANCE
+La demande de prorogation du délai imparti pour la signification d’un avis d’opposition aux cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2002, 2003, 2004 et 2005 est rejetée, la Cour n’ayant pas compétence pour y faire doit.
+Signé à Toronto (Ontario), ce 20e jour d’août 2013.
+« Johanne D’Auray »
+Juge D’Auray
+Traduction certifiée conforme
+ce 1er jour d’octobre 2013.
+S. Tasset
+Référence : 2013 CCI 259
+Date : 20130820
+Dossier : 2013-427(IT)APP
+ENTRE :
+NEWFOUNDLAND TRANSSHIPMENT LTD.,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+La juge D’Auray
+[1] La requérante, Newfoundland Transshipment Limited (« NTL »), demande à la Cour de proroger le délai qui lui est imparti pour signifier un avis d’opposition relativement aux années d’imposition se terminant les 31 décembre 2002, 2003, 2004 et 2005.
+Les faits
+[2] NTL exploitait un terminal de transbordement en mer pour la manutention du pétrole brut provenant des champs pétrolifères Hibernia, Terra Nova et White Rose, situés au large des côtes de Terre‑Neuve‑et‑Labrador.
+[3] Par lettre datée du 17 avril 2007, NTL a produit des déclarations de revenus modifiées pour les années d’imposition se terminant les 31 décembre 2002, 2003, 2004 et 2005 (les « années en cause »). Les modifications en question visaient les catégories de déductions pour amortissement (« DPA »).
+[4] Lorsqu’elle avait initialement produit ses déclarations de revenus pour les années en cause, NTL avait commis une erreur en attribuant la catégorie 1 à son oléoduc alors qu’il s’agissait d’un bien appartenant à la catégorie 6. La différence est de taille, car les biens de la catégorie 1 se déprécient à un taux de 4 % alors qu’un taux de dépréciation de 10 % s’applique à ceux de la catégorie 6.
+[5] Pour ses déclarations de revenus subséquentes, à savoir celles produites pour les années d’imposition 2006, 2007, 2008, 2009 et 2010[1], NTL a inscrit l’oléoduc dans la catégorie 6 et a demandé la DPA correspondante.
+[6] Le ministre du Revenu national (le « ministre ») a jugé que l’oléoduc était un bien appartenant à la catégorie 1 plutôt qu’à la catégorie 6. Dans une lettre portant la date du 1er février 2012 (la « lettre de février »), le ministre informait NTL de ce qui suit :
+[traduction]
+Le 1er février 2012
+M. Paul Adams
+Newfoundland Transshipment Limited
+C.P. 248, succ. C
+Baine Johnson Centre, 3e étage
+St John’s, NL A1C 5J2
+Objet : Examen des déclarations de revenus pour la période allant du 1er décembre 2002 au 31 décembre 2010
+NE : XXXXXX892
+Nous avons terminé la vérification de vos déclarations de revenus. Notre examen s’est limité à la question de l’oléoduc, que vous avez inscrit, à l’annexe 8 de votre déclaration T2, dans la catégorie 6. Nous avons déterminé que l’oléoduc devrait figurer à la catégorie 1.
+Nous vous invitons à consulter la feuille de travail no 800 pour obtenir un résumé des rajustements que nous proposons. Vous trouverez d’autres précisions et rajustements dans les feuilles de travail ci‑jointes.
+Pour toute question ou tout commentaire concernant les rajustements proposés ou pour nous faire part de tout renseignement supplémentaire susceptible d’avoir une incidence sur ces rajustements, veuillez communiquer avec moi au numéro de téléphone indiqué ci‑dessous avant le 2 mars 2012.
+Si nous n’avons pas reçu de réponse de votre part d’ici au 2 mars 2012, nous pourrions procéder aux rajustements indiqués. Le cas échéant, un avis de nouvelle cotisation vous sera alors envoyé.
+Veuillez agréer l’expression de mes sentiments les meilleurs,
+(signature)
+Dean Williams
+Division de la vérification
+Bureau des services fiscaux 01, Terre‑Neuve‑et‑Labrador
+p.j.
+c.c. : M. Brian Brophy, par télécopieur
+[7] Le 24 avril 2012, le ministre a de nouveau écrit à NTL afin de l’informer que la vérification relative aux années d’imposition 2006 à 2010 était terminée et qu’elle ferait l’objet de nouvelles cotisations conformément à ce qui était mentionné dans la lettre de février. L’oléoduc serait retiré de la catégorie 6 et inscrit dans la catégorie 1, et une nouvelle cotisation serait établie en conséquence. En ce qui concerne les années d’imposition 2002 à 2005, le ministre a indiqué que la demande de rajustement de la DPA avait été refusée. Toutefois, en raison du retard accusé par le ministère dans le traitement de la demande initialement déposée le 17 avril 2007, NTL se verrait accorder une exemption d’intérêts en vertu des dispositions d’allégement pour les contribuables pour la période allant du 17 avril 2007 jusqu’à novembre 2011, soit le moment auquel le vérificateur avait amorcé son examen.
+[8] Le 29 août 2012, NTL a déposé un avis d’opposition auprès du ministre relativement aux avis de nouvelle cotisation portant la date du 4 juin 2012 et visant les années d’imposition 2006 à 2010. NTL demandait également au ministre d’établir de nouvelles cotisations pour les années en cause afin de tenir compte des changements qu’elle avait apportés à la DPA relative à l’oléoduc dans ses déclarations modifiées.
+[9] Le 21 septembre 2012, le ministre a informé NTL du fait qu’aucun impôt n’était payable pour l’année d’imposition 2002. Il déclarait également que les avis d’opposition relatifs aux années d’imposition 2002 à 2005 n’avaient pas été déposés à temps. Il précisait que, compte tenu de l’alinéa 166.1(7)a) de la Loi de l’impôt sur le revenu (la « LIR »), il lui était impossible de faire droit à la demande de prorogation de délai parce que celle‑ci n’avait pas été présentée dans l’année suivant l’expiration du délai imparti pour la signification d’un avis d’opposition. Enfin, le ministre ajoutait que les avis d’opposition relatifs aux années d’imposition 2006 à 2010 seraient renvoyés pour examen à un agent des appels de l’Agence du revenu du Canada (l’« ARC »).
+[10] Par lettre portant la date du 10 octobre 2012, NTL a déposé un avis d’opposition visant les années en cause.
+[11] Le 31 octobre 2012, le ministre a informé NTL du fait que l’avis d’opposition n’avait pas été déposé à temps et qu’il ne pouvait pas proroger le délai de signification de cet avis pour les motifs exposés antérieurement dans sa lettre du 21 septembre 2012.
+[12] Le 24 janvier 2012, NTL a déposé devant la Cour une demande de prorogation du délai imparti pour la signification d’un avis d’opposition pour les années en cause.
+[13] Par souci de commodité, j’ai indiqué, pour les années en cause, les dates auxquelles les cotisations ont été établies à l’égard de NTL, les délais dont elle disposait pour signifier les avis d’opposition et pour déposer des demandes de prorogation de ces délais de signification et enfin, les dates à partir desquelles les années en cause ont été frappées de prescription :
+Année d’imposition 2002
+Date de la cotisation : le 23 juillet 2003
+Délai d’opposition : le 20 octobre 2003
+Délai pour demander une prorogation : le 20 octobre 2004
+Prescription : le 23 juillet 2007
+Année d’imposition 2003 Date de la cotisation : le 29 juin 2004
+Délai d’opposition : le 24 septembre 2004
+Délai pour demander une prorogation : le 26 septembre 2005
+Prescription : le 29 juin 2008
+Année d’imposition 2004 Date de la cotisation : le 18 mai 2005
+Délai d’opposition : le 16 août 2005
+Délai pour demander une prorogation : le 16 août 2006
+Prescription : le 18 mai 2009
+Année d’imposition 2005 Date de la cotisation : le 23 juin 2006
+Délai d’opposition : le 28 novembre 2006
+Délai pour demander une prorogation : le 28 novembre 2007
+Prescription : le 23 juin 2010
+[14] Il convient de souligner qu’au moment où NTL a produit ses déclarations de revenus modifiées, le 17 avril 2007, aucune des années en cause n’était frappée de prescription. Le ministre pouvait procéder aux rajustements demandés par NTL. Toutefois, le délai imparti pour la signification d’un avis d’opposition était expiré, ce qui était aussi le cas – sauf en ce qui concerne l’année d’imposition 2005 – du délai prévu pour demander la prorogation du délai de signification de l’avis d’opposition.
+[15] Signalons par ailleurs que NTL n’a déposé aucune renonciation à l’égard des années faisant l’objet du litige.
+Thèse de NTL
+[16] NTL soutient que la lettre de février constitue une nouvelle cotisation pour les années en cause. Par conséquent, lorsqu’elle a déposé à la Cour sa demande de prorogation du délai pour signifier un avis d’opposition, le délai dont elle disposait pour le faire n’avait toujours pas expiré.
+[17] En outre, NTL affirme s’être fondée sur la politique de l’ARC relative aux déclarations modifiées. Cette politique prévoit que si certaines conditions sont réunies, l’ARC considère que les déclarations modifiées sont des renonciations de fait. Si l’ARC avait appliqué cette politique à NTL, les années en cause demeureraient sujettes à opposition[2].
+Analyse
+[18] Avant d’examiner l’argument de NTL selon lequel la lettre de février constitue une nouvelle cotisation, je me propose de traiter d’abord de l’obligation du ministre concernant les déclarations modifiées et ensuite de l’argument voulant que si l’ARC avait appliqué sa politique relative aux déclarations modifiées à NTL, les années en cause ne seraient pas frappées de prescription.
+[19] La Cour d’appel fédérale s’est interrogée sur les effets des déclarations modifiées dans l’arrêt Armstrong c La Reine, 2006 DTC 6310. La juge Sharlow, s’exprimant au nom de la Cour, ne laisse planer aucun doute quant au fait que la demande de modification d’une déclaration de revenus n’entraîne pas forcément une nouvelle cotisation, étant donné qu’il s’agit d’une simple demande adressée au ministre. Au paragraphe 8 de ces motifs, elle déclare ce qui suit :
+[8] Une déclaration de revenu modifiée portant sur une année d’imposition qui a déjà été l’objet d’un avis de cotisation n’entraîne pas pour le ministre l’obligation de fixer l’impôt avec toute la diligence possible (paragraphe 152(1) de la Loi de l’impôt sur le revenu), ni n’a pour effet de faire repartir de zéro l’un quelconque des délais de prescription qui commencent quand une déclaration de revenus relative à une année donnée est produite, puis qu’une cotisation est établie. Une déclaration de revenus modifiée est simplement une demande adressée au ministre pour qu’il établisse une nouvelle cotisation concernant cette année-là.
+[20] La Cour a déjà statué que le ministre ne pouvait pas être contraint d’accepter une déclaration modifiée. Au paragraphe 38 du jugement Imperial Oil Ltd c R, 2003 DTC 179[3], le juge en chef Bowman affirme ce qui suit :
+[38] […] Il n’existe aucun mécanisme obligeant le ministre à accepter une déclaration modifiée ou à y répondre s’il choisit de ne pas le faire. […]
+[21] Il ressort clairement de ces décisions que le ministre n’est pas tenu d’accepter une déclaration modifiée ou d’y donner suite et d’établir une nouvelle cotisation à l’égard du contribuable. Il s’ensuit que le ministre n’avait pas l’obligation de procéder aux rajustements de la DPA demandés par NTL pour les années en cause.
+[22] Pour ce qui est de la politique de l’ARC consistant à considérer les déclarations de revenus modifiées comme des renonciations, précisons que la Cour n’est liée par aucune politique de l’ARC. En outre, la Cour n’a ni le pouvoir d’obliger le ministre à établir une cotisation, ni celui de statuer que le ministre a exercé son pouvoir discrétionnaire de manière déraisonnable.
+[23] Revenons maintenant à l’argument de NTL voulant que la lettre de février constitue une nouvelle cotisation. Dans sa demande de prorogation du délai pour signifier un avis d’opposition, NTL fait les observations suivantes :
+[traduction]
+La lettre de février se terminait sur cette phrase :
+[traduction]
+Si nous n’avons pas reçu de réponse de votre part d’ici au 2 mars 2012, nous pourrions procéder aux rajustements indiqués. Le cas échéant, un avis de nouvelle cotisation vous sera donc envoyé.
+La réception de la lettre de février a fait croire à la requérante que des avis de nouvelle cotisation, établis en la forme habituelle, lui seraient envoyés sous peu par l’Agence du revenu du Canada (l’« ARC »).
+Le ministre n’a pas établi d’autres avis de nouvelle cotisation pour les années d’imposition visées, bien qu’il l’ait fait pour les années ultérieures, au moyen d’une lettre portant la date du 24 avril 2012 (la « lettre d’avril »). Dans la lettre d’avril, le ministre a déclaré ce qui suit :
+[traduction]
+Nous avons terminé notre examen des déclarations de revenus susmentionnées en ce qui concerne l’oléoduc. Nous établirons de nouvelles cotisations relativement à vos déclarations de revenus de 2006 à 2010 de la manière prévue dans notre lettre de proposition du 1er février 2012. Selon l’article 1100 du Règlement de l’impôt sur le revenu, l’oléoduc est un bien de la catégorie 1 : il sera donc retiré de la catégorie 6 et inscrit dans la catégorie 1. La demande de rajustement visant les déclarations de revenus des sociétés de 2002 à 2005 a été refusée.
+Si vous souhaitez vous opposer à la cotisation, vous devez présenter, sur le formulaire et selon les modalités prescrits, un avis d’opposition au ministre dans les 90 jours suivant la date de l’avis de nouvelle cotisation. L’avis d’opposition doit exposer les motifs de votre opposition et tous les faits pertinents.
+Le 29 août 2012, la requérante a déposé des avis d’opposition en réponse aux nouvelles cotisations établies par le ministre de la manière prévue dans la lettre de février, conformément à la Loi.
+Dans une lettre datée du 21 septembre 2012 (la « lettre de septembre »), le ministre a accusé réception des avis d’opposition pour les années d’imposition visées, en précisant toutefois qu’il ne procéderait pas à l’examen des oppositions au titre des dispositions de la Loi portant sur les appels.
+Dans la lettre de septembre, le ministre a déclaré que les avis d’opposition concernant les années d’imposition visées n’avaient pas été déposés dans le délai de 90 jours suivant la délivrance de l’avis de cotisation ou de nouvelle cotisation et qu’ils ne pouvaient, par conséquent, être examinés.
+Le 20 octobre 2012, la requérante a formulé sa position dans une lettre. Elle y soutenait que la lettre de février constituait une nouvelle cotisation et demandait au ministre d’exercer le pouvoir discrétionnaire que lui conférait l’article 166.1 de la Loi et de faire droit à son opposition à la nouvelle cotisation pour les années d’imposition visées, opposition qu’il avait implicitement accepté d’examiner selon ce que laissait entendre la lettre de février. À titre subsidiaire, la requérante demandait au ministre d’établir une nouvelle cotisation pour les années d’imposition[4].
+[24] Je ne souscris pas à la thèse de NTL voulant que la lettre de février constitue une nouvelle cotisation. Il ressort clairement du libellé de cette lettre qu’elle visait les années d’imposition 2006 à 2010. Dans la lettre de février, M. Denis Williams, de l’ARC, écrivait ce qui suit :
+[traduction]
+Nous avons terminé la vérification de vos déclarations de revenus. Notre examen s’est limité à la question de l’oléoduc, que vous avez inscrit, à l’annexe 8 de votre déclaration T2, dans la catégorie 6. Nous avons déterminé que l’oléoduc devrait figurer à la catégorie 1.
+Ce paragraphe renvoie aux années d’imposition 2006 à 2010 : c’est en effet uniquement pour les déclarations de revenus relatives à ces années que NTL a inscrit l’oléoduc dans la catégorie 6. Dans les déclarations de revenus des années d’imposition en cause, NTL avait inscrit l’oléoduc dans la catégorie 1.
+[25] Le troisième paragraphe de la lettre de février renvoie également aux années d’imposition 2006 à 2010. M. Williams y écrit : [traduction] « Pour toute question ou tout commentaire concernant les rajustements proposés ou pour nous faire part de tout renseignement supplémentaire susceptible d’avoir une incidence sur ces rajustements, veuillez communiquer avec moi… » Les rajustements auxquels devait procéder le ministre se rapportaient aux années d’imposition 2006 à 2010, puisqu’aucun rajustement n’était requis pour les années en cause, l’oléoduc y étant déjà inscrit comme un bien appartenant à la catégorie 1. De plus, les formules employées par M. William dans la lettre de février ne permettent pas de douter qu’il envisage tout au plus de procéder à une nouvelle cotisation pour les années d’imposition 2006 à 2010. Au dernier paragraphe de la lettre, il écrit ce qui suit :
+[traduction]
+Si nous n’avons pas reçu de réponse de votre part […], nous pourrions procéder aux rajustements indiqués. Le cas échéant, un avis de nouvelle cotisation vous sera envoyé par la même occasion.
+[26] Dans une lettre portant la date du 29 août 2012, M. Brophy, le comptable représentant NTL, a demandé à l’ARC d’établir de nouvelles cotisations pour les années en cause. Il n’aurait pas fait une telle demande si la lettre du 1er février 2102 constituait déjà une nouvelle cotisation.
+[27] La seule référence aux années en cause dans la lettre de février se trouve dans l’énoncé de l’objet de la lettre ainsi que dans les feuilles de travail incluses en pièces jointes, où l’on peut lire [traduction] « que les rajustements demandés pour 2002 à 2005 sont refusés ». Autrement dit, le ministre n’a pas voulu traiter les déclarations modifiées comme le lui avait demandé NTL.
+[28] Quoi qu’il en soit, même si je convenais que la lettre de février constituait une nouvelle cotisation pour les années en cause, je ne pourrais pas accorder de prorogation du délai imparti pour la signification de l’avis d’opposition parce que le ministre n’était pas autorisé à établir de nouvelles cotisations pour ces années‑là, étant donné qu’au 1er février 2012, les années en cause étaient frappées de prescription. La Cour n’a pas compétence pour accorder une prorogation de délai en pareil cas.
+[29] La demande de prorogation du délai imparti pour signifier un avis d’opposition relativement aux années se terminant les 31 décembre 2002, 2003, 2004 et 2005 est rejetée. La Cour n’a pas la compétence voulue pour y faire droit.
+Signé à Toronto (Ontario), ce 20e jour d’août 2013.
+« Johanne D’Auray »
+Juge D’Auray
+Traduction certifiée conforme
+ce 1er jour d’octobre 2013.
+S. Tasset
+RÉFÉRENCE : 2013 CCI 259
+No DU DOSSIER DE LA COUR : 2013-427(IT)APP
+INTITULÉ : NEWFOUNDLAND TRANSSHIPMENT LTD. c LA REINE
+LIEU DE L’AUDIENCE : Halifax (Nouvelle‑Écosse)
+DATE DE L’AUDIENCE : Le 5 juin 2013
+MOTIFS DE L’ORDONNANCE : L’honorable juge Johanne D’Auray
+DATE DE L’ORDONNANCE : Le 20 août 2013
+COMPARUTIONS :
+Avocats de la requérante :
+Me Sara L. Scott
+Me Paul Festeryga
+Avocat de l’intimée :
+Me Jan Jensen
+AVOCATS INSCRITS AU DOSSIER :
+Pour la requérante :
+Nom : Sara L. Scott
+Paul Festeryga
+Cabinet : Stewart McKelvey
+Halifax (Nouvelle‑Écosse)
+Pour l’intimée : William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Les exercices se terminaient le 31 décembre.
+[2] Voir le paragraphe 14 de l’affidavit souscrit par John Buckley et joint à la demande de prorogation du délai de signification de l’avis d’opposition, ainsi que les observations formulées par M. Brian Brophy, à l’onglet D, page 10.
+[3] Cette décision a été confirmée par la Cour d’appel fédérale : voir La Reine c Imperial Oil Ltd, 2003 CAF 289.
+[4] Voir la demande de prorogation du délai pour signifier un avis d’opposition, portant la date du 24 janvier 2013.

@@ -1,0 +1,428 @@
+---
+title: "Litowitz, Gerald c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27055/index.do"
+last_modified: "2005-10-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 557"
+citation2: ""
+neutral_citation: "2005 CCI 557"
+decision_date: "2005-10-06"
+language: "fr"
+item_id: "27055"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 614
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:27:34.650000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c2e62bac23f468447d6d8b5e48e441a92d97433a934927cd85e86aabca4738df"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Litowitz, Gerald c. La Reine
+
+- Citation: 2005 CCI 557
+- Decision date: 2005-10-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 614, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Litowitz, Gerald c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-10-06
+Référence neutre
+2005 CCI 557
+Numéro de dossier
+2002-4744(IT)G
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2002-4744(IT)G
+ENTRE :
+GERALD LITOWITZ,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu les 6 et 7 juillet 2005, à Toronto (Ontario).
+Devant : L'honorable juge en chef D. G. H. Bowman
+Comparutions :
+Avocats de l'appelant : Me David E. Spiro
+Me Jennifer L. Marston
+Avocate de l'intimée : Me Suzanne M. Bruce
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation établie pour l'année d'imposition 1997 est admis, avec dépens, et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation et tenant compte du fait que l'appelant a droit à une perte déductible au titre d'un placement d'entreprise de 429 222 $.
+Signé à Ottawa, Canada, ce 6e jour d'octobre 2005.
+« D. G. H. Bowman »
+Le juge en chef Bowman
+Traduction certifiée conforme
+ce 21e jour de mars 2006.
+Yves Bellefeuille, réviseur
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence : 2005CCI557
+Date : 20051006
+Dossier : 2002-4744(IT)G
+ENTRE :
+GERALD LITOWITZ,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge en chef Bowman
+[1] Il s'agit d'un appel interjeté à l'encontre d'une cotisation établie pour l'année d'imposition 1997, dans laquelle le ministre du Revenu national a refusé à l'appelant la déduction d'une perte déductible au titre d'un placement d'entreprise (« PDTPE ») au montant de 429 222 $ (correspondant aux trois quarts d'une perte au titre d'un placement d'entreprise de 572 296 $). Le prêt à l'égard duquel l'appelant a demandé la PDTPE était un prêt consenti à la société Falconshire Investment Limited (« la Falconshire »), une société contrôlée par M. Litowitz.
+[2] L'appelant affirme qu'il s'agissait d'une dette que la Falconshire avait envers lui en 1997 et qui est devenue une créance irrécouvrable au cours de cette année‑là. Les autres éléments exigés par la loi pour la déduction d'une PDTPE semblent exister ou ne sont pas mis en cause par la Couronne. Donc, la seule question est de savoir si la dette est devenue une créance irrécouvrable en 1997. Invoquant la décision rendue par la majorité des juges de la Cour d'appel fédérale dans l'affaire Rich c. La Reine, no A‑666‑01, 27 janvier 2003, 2003 D.T.C. 5115 à la page 5120, au paragraphe 24, Me Spiro formule la question de la façon suivante :
+[TRADUCTION]
+La seule question en litige en l'espèce est la dernière. Il s'agit tout particulièrement de savoir s'il était honnête et raisonnable pour M. Litowitz de considérer la créance de 572 296 $ comme irrécouvrable le 31 décembre 1997. Monsieur Litowitz doit démontrer, selon la prépondérance des probabilités, qu'il a jugé, de façon honnête et raisonnable, que la créance était irrécouvrable à cette date. La question consiste à savoir si la créance était irrécouvrable à ce moment‑là.
+[3] En fin de compte, cela se résume à une question de fait et, pour la résoudre, le jugement honnête et raisonnable du contribuable est un facteur. Le juge Rothstein a, dans l'arrêt Rich, dit ce qui suit aux paragraphes 24 et 28 :
+[24] Ici, il s'agit de savoir s'il était honnête et raisonnable pour l'appelant de dire que sa créance était irrécouvrable le 31 décembre 1995. Si des faits avaient donné à entendre qu'un sauvetage ou un refinancement pouvait faciliter le recouvrement d'une partie ou de la totalité du prêt, j'admettrais que l'appelant, avec sa connaissance intime de l'entreprise, eût dû alors montrer qu'il avait au moins tenté certaines démarches proactives avant de déclarer la créance irrécouvrable.
+[...]
+[28] Le critère auquel l'appelant devait satisfaire, c'était l'obligation pour lui de décider d'une manière franche et raisonnable que sa créance était irrécouvrable. Il s'ensuit que, en l'absence d'éléments donnant à entendre que des mesures proactives pouvaient raisonnablement conduire au remboursement de la totalité ou d'une partie du prêt, de telles mesures n'avaient aucun lien rationnel avec la question de savoir si le jugement de l'appelant était franc et raisonnable.
+[4] Bien sûr, la norme est une norme objective, mais comme il en a été question dans l'arrêt Borys c. La Reine (2002‑1996(IT)G) rendu le 7 juillet 2005, le jugement honnête d'un homme d'affaires mérite le respect :
+La question de l'année au cours de laquelle la créance est devenue irrécouvrable n'a pas été mise en cause par l'intimée. La déduction initiale a été faite en 1995, mais dans son avis d'appel, l'appelant affirme qu'il peut la faire à l'égard de l'année 1997. Un homme d'affaires a droit de faire preuve de jugement discrétionnaire pour ce qui est de déterminer le moment où une créance devient irrécouvrable. Comme l'a indiqué le président Jackett (tel était alors son titre) dans l'affaire Associated Investors of Canada Ltd. v. M.N.R., 67 D.T.C. 5096, à la p. 5101 au sujet de la détermination d'une perte : [TRADUCTION] « À mon avis, [la perte] doit être comptabilisée de cette façon dans le calcul du bénéfice de l'entreprise pendant l'année au cours de laquelle l'appelant, comme homme d'affaires, a reconnu que la perte était survenue ». Cela ne signifie pas que le contribuable a carte blanche pour choisir n'importe quelle année. Il doit y avoir un élément de bon sens et de plausibilité, mais on doit tout de même avoir un certain égard pour le jugement de l'homme d'affaires.
+Un point de vue semblable a été exprimé par le juge Hershfield dans l'arrêt Deck et al. c. La Reine, no 1999‑3556(IT)G, 5 février 2002, 2002 D.T.C. 1371, une décision à laquelle je souscris respectueusement.
+[5] Je présume que l'unique position de la Couronne est que la créance n'est pas devenue irrécouvrable en 1997. Son acte de procédure est ambigu. La Couronne affirme que le ministre a, entre autres choses, tenu pour acquis ce qui suit : [TRADUCTION] « Il n'y avait pas de créance exigible par l'appelant à la fin de son année d'imposition 1997 qui est devenue une créance irrécouvrable au cours de cette année‑là. » J'ai été confronté précisément au même genre d'acte de procédure dans l'arrêt Borys et j'ai dit ceci au paragraphe 10 :
+d) Ce type d'allégation est ambigu. Il est difficile de déterminer si l'intimée affirme que l'appelant n'avait pas du tout de créance, ou bien que, s'il avait une créance, celle‑ci n'est pas devenue irrécouvrable. Si des hypothèses (ou même toute autre affirmation dans un acte de procédure) sont plaidées de façon ambiguë, je suis d'avis que le bénéfice de tout doute engendré par cette ambiguïté doit être accordé à l'autre partie. De toute façon, quelle que soit la signification de l'affirmation, il est clair que l'appelant avait en effet une créance et que cette créance est devenue irrécouvrable. Je souligne que l'intimée ne remet pas en question l'année où la créance est devenue irrécouvrable. Étant donné qu'elle a présenté comme hypothèse que l'appelant n'avait pas du tout de créance, ou bien, comme interprétation subsidiaire de cette hypothèse fourre‑tout, que s'il y avait une créance, elle n'est pas devenue irrécouvrable, je ne crois pas qu'il serait approprié pour la Couronne d'affirmer comme hypothèse subsidiaire (et contradictoire) que la créance est devenue irrécouvrable pendant une année précise. Quoi qu'il en soit, la Couronne n'a rien avancé en ce sens, que ce soit par voie d'hypothèse, ou dans le cadre d'une affirmation distincte.
+[6] La même conclusion vaut ici aussi. Je n'irai pas aussi loin que j'aurais pu le faire en appliquant le principe énoncé dans Odgers on High Court Pleading and Practice, vingt‑troisième édition, à la page 170 :
+[TRADUCTION]
+La partie peut, à sa guise, soit admettre ou nier chacune des allégations comprises dans le plaidoyer de la partie opposée. Si elle décide de nier le plaidoyer, elle doit le faire clairement et explicitement. Tout énoncé équivoque ou ambigu sera interprété comme une admission de ce fait. Il n'existe pas de troisième étape ou d'étape intermédiaire. Si le juge ne trouve pas dans l'acte de procédure une négation précise ou un refus sans équivoque d'admettre un fait, cela met fin à l'affaire; le fait est accepté comme admis.
+[7] Si je l'avais fait, j'aurais considéré ce paragraphe dans la réponse à l'avis d'appel comme une admission que l'appelant avait en 1997 une créance irrécouvrable qui est devenue irrécouvrable au cours de cette année‑là.
+[8] Quoi qu'il en soit, en l'espèce, l'appelant avait, en 1997, une créance exigible de la Falconshire et cette créance est de toute évidence devenue irrécouvrable cette année‑là. Voici les motifs sur lesquels je fonde cette conclusion de fait :
+[9] Monsieur Litowitz est avocat et il possède en outre de l'expérience en gestion immobilière et en mise en valeur de biens immobiliers, domaines où il est actif. Il a avancé des fonds à la Falconshire, qui les a ensuite prêtés à la société Bamburgh Holding Ltd. (« la Bamburgh ») qui, elle, les a utilisés pour investir dans une copropriété exerçant des activités sous le nom de Headway Property Investments 78‑1 (« la Headway »). En 1997, la valeur, à tout le moins dans les états financiers, de l'actif de la Headway était de beaucoup inférieure à son passif. Cela ressort clairement des états financiers vérifiés pour 1997, dont des parties sont jointes à la présente comme Annexe A.
+[10] En examinant ces états financiers, une personne raisonnable, comme M. Litowitz, conclurait‑elle que la créance de la Falconshire était irrécouvrable? Le seul élément d'actif de la Falconshire était la créance de la Bamburgh, et le seul élément d'actif de la Bamburgh était son placement dans la Headway. Si la Headway était liquidée, que recevrait la Bamburgh et, en conséquence, la Falconshire et finalement l'appelant? Je crois que M. Litowitz a conclu de façon raisonnable qu'il ne recevrait rien. Examinons quelques-unes des données importantes.
+[11] L'actif en 1997 avait une valeur comptable de 11 115 478 $. Les hypothèques à payer s'établissaient à 17 371 131 $, et le passif à court terme se chiffrait à 2 260 250 $, ce qui correspond à un total de 19 631 381 $. Il en résulte un déficit de 8 515 907 $ avant la prise en compte de l'apport des détenteurs d'unités. Si nous ajoutons à l'insuffisance l'apport de 4 565 500 $ des détenteurs d'unités, nous obtenons un déficit de 13 081 407 $. La perte d'exploitation nette, y compris les intérêts, atteignait 710 807 $.
+[12] C'est l'apport des détenteurs d'unités qui semble avoir gardé l'entreprise à flot en 1997.
+[13] Je vais exposer certaines parties du rapport T-401 (le rapport sur une opposition établi par l'Agence des douanes et du revenu du Canada).
+[TRADUCTION]
+(II) MOTIFS DE L'OPPOSITION
+a) Les faits
+Le représentant du contribuable a exposé les faits de la façon suivante :
+I) Perte déductible au titre d'un placement d'entreprise de 572 296 $.
+La perte déductible au titre d'un placement d'entreprise qui est demandée représente des prêts consentis par le contribuable à la société Falconshire Investments Ltd., une société exploitant une petite entreprise (SPCC). La Falconshire a ensuite avancé ces fonds à la société Bamburgh Holding Ltd. Celle-ci a, pour sa part, utilisé les fonds pour acquérir un placement dans une copropriété, la Headway Property Investments 78‑1, qui possède des biens immobiliers productifs. Le contribuable soutient que la valeur des biens immobiliers est grandement déficitaire. Par conséquent, la Bamburgh a des capitaux propres négatifs et ne serait pas en mesure d'honorer ses créances si la société était liquidée en 1997. Il en résulte que la Falconshire ne pourrait pas recouvrer sa créance auprès de la Bamburgh. Puisque le principal élément d'actif de la Falconshire est sa créance exigible de la Bamburgh Holding, la Falconshire serait maintenant elle aussi en position déficitaire en raison de la baisse de la valeur de sa créance exigible de la Bamburgh. Il n'existe aucune possibilité de recouvrement de telles avances consenties par le contribuable à la Falconshire, ce qui constitue le fondement de la demande de déduction de la perte au titre d'un placement d'entreprise.
+(III) DÉCISION DES APPELS
+Question no 1 Perte déductible au titre d'un placement d'entreprise de 572 296 $.
+a) Les faits
+Pour pouvoir être déduite comme PDTPE au cours d'une année d'imposition, la créance en question doit devenir une créance irrécouvrable au cours de l'année aux termes de l'alinéa 50(1)a). Le moment à partir duquel une créance devient une créance irrécouvrable est une question de fait, et toute décision à ce sujet doit être prise selon les circonstances propres à chaque cas. La décision que prend un créancier de considérer qu'une créance est devenue irrécouvrable au cours d'une année d'imposition donnée doit être étayée de tous les faits pertinents. Dans le bulletin d'interprétation IT‑159R3, au paragraphe 10, l'ADRC dit que pour l'application de l'article 50, une créance n'est pas irrécouvrable à la fin d'une année d'imposition donnée à moins que le créancier n'ait épuisé tous les recours légaux pour la recouvrer ou que le débiteur ne soit devenu insolvable et n'ait pas les moyens de la payer. Une créance est censée être mauvaise seulement lorsqu'elle est irrécouvrable en totalité ou seulement lorsqu'elle a été réglée en partie et que le reste est irrécouvrable. Lorsqu'une partie d'une créance peut être considérée comme irrécouvrable, cette partie n'est pas considérée comme une mauvaise créance. Le contribuable a fait valoir qu'en raison de l'important déficit dans la valeur des biens immobiliers, la Bamburgh détient des capitaux propres négatifs et elle ne serait pas en mesure de rembourser la Falconshire et, en conséquence, la Falconshire ne pourrait pas le rembourser. Monsieur Wayne Miller, notre évaluateur des biens immobiliers, a déterminé que la juste valeur marchande des biens‑fonds en cause se situait entre 15 et 17 millions de dollars. Si les biens étaient vendus à un prix supérieur à 17 millions de dollars, le contribuable se verrait rembourser au moins une partie de la créance. Selon M. Miller, le secteur (Warden et Steeles) est un secteur prometteur. La valeur des immeubles d'habitation de ce secteur a énormément fluctué depuis qu'elle a atteint son maximum en 1989. Monsieur Miller a examiné les biens‑fonds et n'a constaté aucune perte permanente de la valeur de l'immeuble d'habitation en cause. La baisse survenue en 1997 ne peut pas être considérée comme permanente. Monsieur Miller nous a également fait savoir qu'en raison de la hausse des loyers et d'autres facteurs économiques positifs, la valeur de l'immeuble d'habitation a augmenté ces dernières années. À l'heure actuelle, la valeur marchande s'établit au moins à 20 millions de dollars.
+Au cours de l'année à l'étude, la Headway, la copropriété, était encore capable d'honorer la majorité de ses dettes. Les comptes fournisseurs ont diminué de 2,5 millions de dollars en 1996 à 1,6 million de dollars en 1997. Une partie du principal de l'hypothèque a aussi été remboursée en 1998 et 1999. Les détenteurs d'unités ont en outre fait un apport s'élevant à 1,5 million de dollars. Il n'existe aucune preuve qui confirme que la Bamburgh Holding est insolvable. Jusqu'ici, la Bamburgh Holding n'a pas fait de cession en faillite. L'hypothèque ne fait pas l'objet d'un défaut de paiement. Les biens n'ont jamais fait l'objet de forclusion. Au cours de l'opposition, le représentant du contribuable nous a fait parvenir deux recherches de titre concernant les biens appartenant à la Headway Property qui indiquent que des jugements ont été inscrits à l'encontre des biens. Cependant, tout cela n'a fait que confirmer que la Headway devait 119 000 $ à la caisse de retraite des employés municipaux de l'Ontario et 177 631 $ au Edgecombe Group. L'entente avec la Standard Life ne vient que corroborer le montant du prêt que celle‑ci a consenti. Tous les faits qui nous ont été soumis démontrent seulement que la Headway ne s'en tirait pas très bien sur le plan financier, mais pas au point d'être économiquement insolvable.
+De plus, la Bamburgh Holding n'avait pas produit de déclarations T2 depuis 1995. Toutes les données financières que nous avons reçues sont tirées d'états financiers non vérifiés présentés par le représentant du contribuable. Enfin, et ce n'est pas le moindre, la Falconshire n'avait pas fait de radiation ni établi de provision pour créances douteuses concernant la créance exigible de la Headway.
+Décision
+Après avoir examiné tous les faits dont nous disposions, nous recommandons de ratifier la cotisation en refusant la déduction de la PDTPE au motif que la créance n'était pas devenue irrécouvrable dans l'année 1997 aux termes de l'alinéa 50(1)a) de la Loi. Il ne s'agissait donc pas d'une perte au titre d'un placement d'entreprise en vertu de l'alinéa 39(1)c) de la Loi.
+[14] L'évaluateur semble avoir abordé la question de façon soignée et consciencieuse. Toutefois, il a manifestement substitué son jugement à celui de M. Litowitz. Je crois que M. Litowitz a, dans cette affaire, exercé son jugement de façon raisonnable, comme l'aurait fait toute personne raisonnable dans les circonstances. Au-delà des questions de jugement commercial, j'estime qu'objectivement, il a été établi que la créance était irrécouvrable à la fin de 1997.
+[15] Il y a d'autres considérations qui sont, selon moi, apparentées à la décision de l'appelant. Une perte importante a résulté d'un litige contre la Headway et des dommages‑intérêts et des dépens considérables ont été adjugés à son encontre. Après le refus de la demande d'autorisation d'appel par la Cour suprême du Canada, la Standard Life (le créancier hypothécaire de l'immeuble) a, en juin 1997, tenté de prendre possession de l'immeuble. De plus, les actionnaires de la Bamburgh ont annulé une lettre de crédit qu'ils avaient remise à la Standard Life, laquelle a alors réduit le solde de la lettre de crédit de 1 571 570 $. Monsieur Litowitz a dit que les autres actionnaires de la Bamburgh se sont tout simplement retirés du projet. Je ne sais pas exactement ce que cela signifie, mais si les autres investisseurs ont été perçus comme abandonnant le projet, cela donne un grand poids à la décision de M. Litowitz de considérer la créance comme irrécouvrable.
+[16] Le procès-verbal du règlement entre la Headway et Canada Trust (fiduciaire pour le créancier hypothécaire, la Standard Life) (pièce A‑7) a porté le coup de grâce à la valeur commerciale du placement de la Bamburgh dans la Headway. Il en a finalement résulté que la liquidation de l'actif et le remboursement intégral de l'hypothèque de la Standard Life auraient nécessité une dépense de plus de 27 000 000 $ — somme de loin supérieure à la juste valeur marchande même la plus généreuse attribuée par l'évaluateur de l'ADRC, soit entre 15 et 17 millions de dollars. À la fin de 1997, la situation semblait ne laisser aucun espoir et le placement de la Falconshire dans la Bamburgh est apparu sans valeur.
+[17] Revirement intéressant dans cette histoire : M. Litowitz, contrairement aux autres investisseurs, s'est obstiné. La Falconshire, ou lui‑même, a acquis toutes les actions restantes dans la Bamburgh, et, en 2002, l'immeuble a été vendu et les dettes non réglées ont été acquittées. Cela change‑t‑il quelque chose? À mon sens, non. On ne devrait généralement pas profiter de l'avantage du recul pour déterminer si une créance est irrécouvrable à un moment donné dans le temps. Le temps est séquentiel, du moins selon la conception humaine qu'on en a, et la question de savoir si une créance est irrécouvrable en 1997 ne peut pas être fondée sur des événements qui se sont produits cinq ans plus tard et qu'on ne pouvait pas prévoir. La décision doit être fondée sur des faits passés et présents. (Rich c. La Reine, précité, aux pages 5118 à 5120) Nous savons peut‑être tous que la valeur des biens immobiliers est cyclique, mais cela ne signifie pas que cette valeur est prévisible.
+[18] L'appel interjeté à l'encontre de la cotisation établie pour l'année d'imposition 1997 est admis, avec dépens, et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte du fait que l'appelant a droit à une perte déductible au titre d'un placement d'entreprise de 429 222 $.
+Signé à Ottawa, Canada, ce 6e jour d'octobre 2005.
+« D. G. H. Bowman »
+Le juge en chef Bowman
+Traduction certifiée conforme
+ce 21e jour de mars 2006.
+Yves Bellefeuille, réviseur
+ANNEXE A HEADWAY PROPERTY INVESTMENT 78-1
+BILAN
+AU 31 DÉCEMBRE 1997
+Note 12
+1997 1996
+$ $
+ACTIF
+ACTIF À COURT TERME
+Encaisse
+109 262
+117 562
+Loyers à recevoir
+24 271
+44 197
+Frais payés d'avance et créances diverses
+84 232
+217 765
+21 203
+182 962
+BIEN LOCATIF (note 2)
+10 423 572
+10 673 895
+FRAIS DE FINANCEMENT REPORTÉS (note 3)
+87 748
+94 768
+ENCAISSE DÉTENUE EN FIDUCIE (note 4)
+386 393
+128 921
+11 115 478
+11 080 546
+PASSIF
+PASSIF À COURT TERME
+Comptes fournisseurs et charges à payer (note 5)
+1 689 731
+2 483 629
+Dépôts des locataires
+347 104
+342 735
+Tranche des hypothèques à payer exigible à court terme (note 6)
+223 419
+231 950
+2 260 254
+3 058 314
+HYPOTHÈQUES À PAYER (note 6)
+17 371 131
+17 292 832
+INSUFFISANCE DES DÉTENTEURS D'UNITÉS
+APPORT
+4 565 500
+3 100 000
+DÉFICIT
+(13 081 407)
+(8 515 907)
+11 115 478
+(12 370 600)
+(9 270 600)
+11 080 546
+ÉVENTUALITÉS (note 11)
+Pour le compte du représentant
+HEADWAY PROPERTY INVESTMENT 78-1
+ÉTAT DES RÉSULTATS ET DU DÉFICIT
+POUR L'EXERCICE CLOS LE 31 DÉCEMBRE 1997
+1997 1996
+$ $
+REVENUS
+Loyers
+3 748 546
+3 759 621
+Autres
+10 918
+6 913
+3 759 464
+3 766 534
+CHARGES OPÉRATIONNELLES
+Administration
+26 952
+20 763
+Assurances
+12 708
+12 124
+Intérêts sur les dépôts des locataires
+16 793
+17 412
+Honoraires de gestion (note 9)
+194 406
+201 213
+Services professionnels (note 7)
+275 960
+333 623
+Impôts fonciers (note 8)
+825 310
+977 624
+Réparations, entretien et nettoyage
+154 692
+184 100
+Traitements, salaires et avantages sociaux
+136 875
+128 086
+Loyers non perçus (note 10)
+44 439
+-
+Services publics
+501 434
+513 821
+2 189 569
+2 388 766
+Bénéfices d'exploitation
+1 569 895
+1 377 768
+AUTRES DÉPENSES
+Frais de financement
+-
+11 775
+Intérêts hypothécaires
+2 023 359
+2 042 585
+Amortissement
+257 343
+257 343
+2 280 702
+2 311 703
+PERTE NETTE
+(710 807)
+(933 935)
+DÉFICIT AU DÉBUT DE L'EXERCICE
+(12 370 600)
+(11 436 665)
+DÉFICIT À LA FIN DE L'EXERCICE
+(13 081 407)
+(12 370 600)
+HEADWAY PROPERTY INVESTMENT 78-1
+ÉTAT DE L'ÉVOLUTION DE LA SITUATION FINANCIÈRE
+POUR L'EXERCICE CLOS LE 31 DÉCEMBRE 1997
+1997 1996
+$ $
+PROVENANCE (UTILISATION) DES FONDS
+ACTIVITÉS D'EXPLOITATION
+Perte nette
+(710 807)
+(933 935)
+Éléments sans effet sur la trésorerie
+Amortissement
+257 343
+257 343
+(453 464)
+(676 592)
+Variation nette des soldes des fonds de roulement hors caisse liés à l'exploitation
+(832 631)
+(947 295)
+(1 286 095)
+(270 703)
+ACTIVITÉS DE FINANCEMENT
+Diminution (augmentation) des fonds détenus en fiducie
+(257 472)
+4 828
+Augmentation nette (remboursement) de l'hypothèque à payer
+69 767
+(206 679)
+Apport net des détenteurs d'unités
+1 465 500
+-
+1 277 795
+(201 851)
+Variation de l'encaisse et des équivalents de trésorerie
+(8 300)
+68 852
+ENCAISSE AU DÉBUT DE L'EXERCICE
+117 562
+48 710
+ENCAISSE À LA FIN DE L'EXERCICE
+109 262
+117 562
+HEADWAY PROPERTY INVESTMENT 78-1
+ÉTAT DU DÉFICIT DE TRÉSORERIE NET
+POUR L'EXERCICE CLOS LE 31 DÉCEMBRE 1997
+1997 1996
+$ $
+RENTRÉES BRUTES
+Revenus
+3 759 464
+3 766 534
+DÉCAISSEMENTS D'EXPLOITATION
+Charges opérationnelles
+2 189 569
+2 388 766
+Frais financiers
+-
+11 775
+Intérêts hypothécaires
+2 023 359
+2 042 585
+Remboursement net (ou augmentation nette) du principal de l'hypothèque
+(69 767)
+206 679
+4 143 161
+4 649 805
+(383 697)
+(883 271)
+Apport net des détenteurs d'unités
+1 465 500
+-
+EXCÉDENT (DÉFICIT) DE TRÉSORERIE POUR L'EXERCICE
+1 081 803
+(883 271)
+DÉFICIT DE TRÉSORERIE NET AU DÉBUT DE L'EXERCICE
+(2 805 242)
+(1 921 971)
+DÉFICIT DE TRÉSORERIE NET À LA FIN DE L'EXERCICE
+(1 723 439)
+(2 805 242)
+HEADWAY PROPERTY INVESTMENT 78-1
+NOTES AFFÉRENTES AUX ÉTATS FINANCIERS
+31 DÉCEMBRE 1997
+2. BIENS LOCATIFS
+Coût
+$
+Amortissements cumulés
+$
+1997
+Montant net
+$
+1996
+Montant net
+$
+Terrain
+2 403 600
+-
+2 403 600
+2 403 600
+Bâtiment et frais d'aménagement
+12 195 041
+4 207 248
+7 987 793
+8 231 694
+Matériel et appareils
+528 590
+518 309
+10 281
+12 507
+Pavage, clôtures et ascenseur
+83 944
+62 046
+21 898
+26 094
+15 211 175
+4 787 603
+10 423 572
+10 673 895
+3. FRAIS FINANCIERS REPORTÉS
+Coût
+$
+Amortissements cumulés
+$
+1997
+Montant net
+$
+1996
+Montant net
+$
+Frais financiers reportés
+140 397
+52 649
+87 748
+94 768
+4. ENCAISSE DÉTENUE EN FIDUCIE
+Ces fonds sont détenus en fiducie par un cabinet d'avocats. Une partie sera utilisée pour financer le règlement d'une demande reconventionnelle.
+5. COMPTES FOURNISSEURS ET CHARGES À PAYER
+1997
+$
+1996
+$
+Comptes fournisseurs
+717 056
+2 095 321
+Intérêts hypothécaires
+972 675
+169 281
+Honoraires de gestion à payer
+-
+219 027
+1 689 731
+2 483 629
+Est inclus dans les comptes fournisseurs un montant de 541 363 $ (1996 – 541 035 $), qui représente les frais approximatifs de la demande reconventionnelle, les dépens établis par la Cour et les frais de justice liés à l'affaire Edgecombe‑Omers. Le jugement a été porté en appel devant la Cour d'appel de l'Ontario, et la cause doit être entendue en 1998.

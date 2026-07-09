@@ -1,0 +1,148 @@
+Title: Valiquette c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26917/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-43-26917-valiquette-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2003-02-13
+
+# Valiquette c. La Reine
+
+- Citation: 2003 CCI 43
+- Decision date: 2003-02-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 723, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Valiquette c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-02-13
+Référence neutre
+2003 CCI 43
+Numéro de dossier
+2001-2422(IT)I
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2001-2422(IT)I
+ENTRE :
+JACQUES VALIQUETTE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de Julie Lachance (2001-2425(IT)I) le 4 février 2003 à Québec (Québec)
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Avocat de l'appelant :
+Me Daniel Bourgeois
+Avocate de l'intimée :
+Me Anne Poirier
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1997 et 1998 sont accordés, avec frais, selon les motifs de jugement ci-joints.
+Signé à Ottawa, Canada, ce 13e jour de février 2003.
+« Louise Lamarre Proulx »
+J.C.C.I.
+Référence : 2003CCI43
+Date : 20030213
+Dossier : 2001-2422(IT)I
+ENTRE :
+JACQUES VALIQUETTE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+ET
+Dossier : 2001-2425(IT)I
+ENTRE :
+JULIE LACHANCE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx, C.C.I.
+[1] Il s'agit d'appels par voie de la procédure informelle concernant les années d'imposition 1997 et 1998.
+[2] Il s'agit de savoir si une propriété a été acquise soit comme un bien en inventaire, soit comme une propriété locative ou, soit comme une propriété à usage personnel.
+[3] Les appelants ont tous les deux témoigné, mais le témoignage de l'appelant a été le témoignage principal.
+[4] La propriété en question dans le présent litige est une maison comprise dans une rangée de cinq maisons. Elle est décrite au contrat d'achat de la dite propriété en date du 30 décembre 1991, (pièce A-9), comme un immeuble tenu en copropriété dans les « Condominiums Mont-du-Midi » , portant le numéro 62 de la Vallée, à St-Philémon. La vente incluait tous les meubles garnissant le condo. Les parties au contrat étaient Gestion V.P.L. Inc. et l'appelant.
+[5] Selon la clause 8 dudit contrat d'acquisition, le prix était de 88 428 $. Ladite somme a été acquittée au moyen d'avances que l'acquéreur a faite au vendeur au montant de 44 000 $ et d'avances qu'il s'était engagé à faire au montant de 2 714 $. Le solde, soit 41 714 $, représente les avances faites ou à faire par Bernard Poitras au vendeur, dont l'acquéreur est cessionnaire aux termes d'une entente intervenue entre eux antérieurement.
+[6] L'appelant a expliqué les événements qui ont donné lieu à cette transaction. En 1989, un projet d'un nouveau centre de ski est mis de l'avant sur la rive sud du St-Laurent à St-Philémon de Bellechasse. Les promoteurs offrent aux intéressés de participer au projet en investissant chacun 10 000 $ dans le SPEQ Massif du Sud Inc. (SPEQ est l'acronyme pour Société de placements dans l'entreprise Québécoise). À l'instar de 250 autres personnes, l'appelant adhère au projet. Un certificat (pièce A-1) lui est émis en date du 29 décembre 1989. Un adhérent peut pour 1 000 $ de plus, se voir attribuer un terrain face à la montagne. L'appelant contribue cette somme supplémentaire.
+[7] Il y a une rencontre des investisseurs. Lors de cette rencontre, l'appelant fait la connaissance de l'architecte Michel Leclerc. L'appelant est nommé au Comité d'urbanisation de la SPEQ.
+[8] À la suite de ces rencontres, l'appelant, Michel Leclerc, et deux autres personnes, soit Bertrand Gagnon et le beau-frère de l'appelant, Bernard Poitras, s'associent dans une société du nom de Gestion V.P.L. Inc. Le sigle tient pour Valiquette, Poitras et Leclerc. Chaque partenaire contribue 40 000 $. La société a pour but de construire et de vendre des condominiums sur un terrain acquis du centre de ski. Le projet prévoyait la construction de 214 unités dont cinq lors de la première phase.
+[9] La pièce A-2 est une coupure du journal Le Soleil en date du 29 septembre 1990. On y lit que : « La station de ski Massif du Sud vise la première place » . En plus de bien des informations enthousiastes, on y lit que Gestion V.P.L. Inc., dont le président est Michel Leclerc, a commencé jeudi la réalisation d'un complexe d'habitation, les Condominiums Mont-du-Midi.
+[10] Une autre coupure de journal, sans date et produite comme pièce A-3, a comme titre : « Bientôt les Condominiums Mont-du-Midi » . Il s'agit d'une photo de la première pelletée de terre. Sur la photo, l'appelant y est décrit comme étant le président de Gestion V.P.L. Inc. et Michel Leclerc, le vice-président. L'article dit aussi de Michel Leclerc qu'il est le concepteur et l'architecte du projet.
+[11] Un document publicitaire, sans date, pour la vente des Condominiums du Mont-du-Midi a été produit comme pièce A-4. La pièce A-5 est en date du 6 novembre 1990. Il s'agit là aussi d'un document publicitaire pour la vente des condominiums.
+[12] Selon l'appelant, le 15 janvier 1991, deux unités sont complétées mais aucune ne se vend.
+[13] La pièce A-6 émane encore de Gestion V.P.L. Inc. et concerne la grille tarifaire de Hébergement Condominiums Mont-du-Midi.
+[14] La société fait une autre demande de capital auprès de ses actionnaires au montant de 5 000 $, ainsi qu'une autre de 2 714 $. L'appelant n'a pas les moyens financiers ou ne veut pas continuer à investir.
+[15] Le beau-frère de l'appelant, Bernard Poitras, ne veut pas non plus continuer dans cette entreprise. Il ne fournit pas la part de 5 000 $ et désire intenter des actions pour se faire rembourser son avance de 40 000 $ et ne pas avoir à payer l'avance de 5 000 $.
+[16] L'appelant lui suggère de négocier avec lui une entente avec les autres actionnaires. La lettre du 1er octobre 1991, (pièce A-8), et l'acte de vente du 30 décembre 1991 (pièce A-9) sont le résultat de cette négociation. La pièce A-8 est une lettre en date du 1er octobre 1991 signée par Michel Leclerc et Bertrand Gagnon adressée à l'appelant qui décrit les termes et conditions du départ de l'appelant à titre d'actionnaire de la société. La pièce A-9 prévoit que l'appelant achète la créance de son beau-frère et la société vend un condo à l'appelant pour le prix des deux créances, tel que décrit aux paragraphes 4 et 5 de ces motifs.
+[17] La pièce A-7 est une coupure du journal Le Soleil, en date du 10 octobre 1991, parlant des différents moyens de la relance au Massif du Sud car peu de temps avant, le centre de ski avait fait faillite.
+[18] La pièce A-10 est une cession de 25 p. 100 des droits de l'appelant sur la propriété à l'appelante en date du 20 février 1992. L'appelant explique cette cession par le fait que l'appelante a garanti par une hypothèque sur sa maison le remboursement, à l'ex-conjointe de l'appelant, de la créance de 40 000 $. Cette créance provenait de l'avance de 40 000 $ faite à Gestion V.P.L. Inc.
+[19] Le condo fut d'abord mis en location par l'intermédiaire de Hébergement Massif du Sud à partir du 4 janvier 1992, (pièce A-13). Insatisfaits des résultats de location, les appelants se retirent le 18 septembre 1994 de Hébergement Massif du Sud, (pièce A-14). Ils ont décidé de voir à la location eux-mêmes. Ils mentionnent tout de même à la fin de la lettre que leur condo reste disponible pour la location par Hébergement Massif du Sud, mais à leurs conditions.
+[20] Les appelants affirment n'avoir jamais utilisé le condo dans la saison estivale. En ce qui concerne la saison de l'hiver, ils affirment que cet usage était limité aux fins de semaine où le condo n'était pas loué et qu'encore, ce ne fut que rarement.
+[21] L'appelante a expliqué qu'elle a commencé à faire du ski quand elle a connu l'appelant et qu'ils ont commencé à faire vie commune, soit vers 1990. Elle se dit peu sportive et elle dit qu'ils n'allaient pas souvent au centre de ski pour faire du ski. Ils pouvaient utiliser le condo quand il n'était pas loué.
+[22] La pièce A-16 est un extrait des annonces classées du journal Le Soleil, en date du 3 décembre 1994. On y annonce en vente par soumission les quatre condos faisant partie du même groupe que celui de l'appelant. Le prix de base indiqué est de 45 000 $. Il y a aussi la mention que « Les propriétaires ne s'engagent à accepter ni la plus haute ni aucune des soumissions reçues » . Interrogé par la Cour à savoir si c'était la société qui était demeurée propriétaire ou si comme lui chacun des investisseurs était devenu propriétaire d'un condo, l'appelant n'a pas su quoi répondre.
+[23] Selon l'appelant, cette annonce lui aurait donné un coup au coeur, mais il n'a pas suivi l'exemple des autres propriétaires et n'a pas mis sa propriété en vente.
+[24] La lettre du 9 mars 2000, (pièce A-18), écrite par madame Brigitte Caron de la division de la vérification à l'appelant concernant les revenus de location, ne soulève comme seul point que celui de l'expectative raisonnable de profit.
+[25] Les motifs de l'opposition (pièces A-21 et A-22), en date du 20 octobre 2000, expliquent la position reprise par l'appelant à l'audience. C'est dans un contexte d'affaires que l'appelant a acquis le condo et non pas pour son usage personnel. Il y a eu de l'usage personnel, mais un usage limité à la disponibilité du condo.
+[26] Le condo a été mis en vente le 2 mai 2001 au prix de 50 000 $ (pièce A-26). Il a été vendu le 7 janvier 2002 au prix de 45 000 $ (pièce A-27).
+[27] L'avocate de l'intimée a produit en contre-interrogatoire, une police d'assurance-habitation prenant effet le 25 août 1998. Elle assurait la propriété de l'appelante à Pont-Rouge ainsi que celle de l'appelant à 62, de la Vallée, St-Philémon. L'avenant disait que l'affectation doit se lire « condo occupé par les assurés » . À ce sujet, les appelants se sont montrés surpris et ont manifesté de l'incompréhension car, selon eux, le condo était constamment offert à la location.
+[28] Une autre pièce produite par l'intimée est le questionnaire sur les biens locatifs. Il y est indiqué que le bien a été acheté à l'origine pour de la location en séjour de ski et que cette location a commencé le 30 décembre 1991.
+[29] L'avocat des appelants s'est référé à la décision de cette Cour dans Stremler c. Sa Majesté la Reine, [2000] A.C.I. no 13 (Q.L.), une décision en procédure générale, où le juge McArthur avait conclu que les contribuables avaient acquis deux propriétés dans le but de les revendre rapidement, qu'en attendant leur revente à un prix supérieur, les charges locatives pouvaient être déduites comme des dépenses d'entreprise et que ces biens étaient des biens en inventaire.
+[30] C'est la position que l'avocat soutient à l'égard des appelants : le condo a été acquis comme un bien en inventaire et les charges locatives peuvent être déduites comme des dépenses courantes d'entreprise. La position subsidiaire est que le condo n'a pas été acquis pour des fins personnelles, mais pour des fins d'affaires et les charges locatives sont déductibles comme dépenses d'entreprise.
+[31] L'avocate de l'intimée fait valoir qu'il y avait un intérêt personnel prédominant et que c'est cet intérêt qui a motivé l'achat de la propriété et sa conservation tout au cours de ces années. Elle se réfère à la pièce I-1 qui est la police d'assurance des biens immeubles et meubles des appelants. Elle rappelle leur intérêt pour le ski.
+Conclusion
+[32] Il est vrai que le texte de la police d'assurance concernant le condo est ambigu. Toutefois, je ne peux pas fonder ma décision sur une clause d'une police d'assurance, qui en fait contredit les événements qui se sont passés au cours des années de possession du condo, clause que les appelants semblaient ignorer et qu'ils n'ont pu expliquer. La preuve documentaire a démontré que le condo a véritablement été mis en location soit par Hébergement Massif du Sud ou par les appelants eux-mêmes.
+[33] Je ne peux pas non plus décider qu'il y a un intérêt personnel déterminant en regard de l'acquisition du condo du fait que l'appelant aime faire du ski. Habituellement une personne se dirige vers un genre d'entreprise parce que le domaine l'intéresse et qu'elle s'y connaît.
+[34] Il faut examiner les circonstances qui amènent une personne à faire l'acquisition d'un bien ou à commencer une entreprise pour décider si l'intérêt personnel a prévalu sur l'intérêt commercial.
+[35] Je me reporte aux circonstances de l'acquisition de la propriété en question. L'appelant avait investi une somme d'argent importante dans une société de construction de condos. Il avait amené son beau-frère à faire de même. Les condos sont mis en vente mais ne trouvent pas preneurs. La société fait une demande d'accroissement de capital. Ni l'appelant ni son beau-frère ne veulent continuer. L'appelant négocie le transfert d'une propriété de la société à son nom pour la valeur de ses avances à la société. Auparavant, il a remboursé à son beau-frère la valeur de son avance.
+[36] En effet, la clause 8 du contrat d'achat, (pièce A-9), indique que l'appelant a acquis la propriété au prix de 88 428 $, acquitté au moyen de la radiation d'une avance de 44 000 $, que l'appelant avait faite à la partie venderesse ainsi que d'une avance au montant de 2 714 $ qu'il s'était engagé à faire. Le solde, soit 41 714 $, représente les avances faites ou à faire par Bernard Poitras le beau-frère de l'appelant, créance dont l'appelant était cessionnaire aux termes d'une entente intervenue entre eux.
+[37] C'est dans un but d'affaires que l'appelant avait fait des avances à la Société. C'est dans le but de sauver sa mise de fonds que l'appelant a acquis l'immeuble en question. Il s'agit là d'une raison d'affaires et non pas de raison à caractère personnel.
+[38] Est-ce que les appelants avaient droit de déduire tous les frais d'intérêt qu'ils ont engagés à titre de dépenses locatives? Ce n'est pas à moi à répondre à cette question. Cela appartenait aux vérificateurs du Ministre. Les appelants ont été cotisés sur la base qu'ils ont acquis cette propriété par motif d'intérêt personnel et qu'ils devaient faire la preuve de l'expectative raisonnable de profit en provenance de leur activité de location. Or, la preuve a révélé que la propriété en question a été acquise pour des fins d'affaires. La position actuelle de l'appelant a été clairement expliquée dans l'avis d'opposition ainsi que dans l'avis d'appel. La Réponse à l'avis d'appel n'a repris que la position du Ministre au niveau de la vérification, soit qu'il s'agissait d'un immeuble locatif acquis en décembre 1991 au coût de 89 800 $. Il n'y a eu aucune analyse du contexte dans lequel la propriété locative avait été acquise.
+[39] L'avocat de l'appelant soumet que le bien a été acquis comme bien en inventaire. À mon avis, ce n'est pas ce que la preuve révèle. Un bien en inventaire est acheté au meilleur coût possible pour sa revente à un prix supérieur. Ici, le bien a été acquis pour sauver la mise de fonds de l'appelant et lui permettre de rembourser celle de son beau-frère. Il est aussi plus que douteux que la propriété acquise vaille au marché le prix mentionné au contrat. Les condos n'ont pas trouvé preneurs à un prix moindre. Il n'y a, non plus, aucune manifestation d'activités de vente dans les nombreuses années qui suivent l'acquisition. L'appelant attend l'accroissement de valeur. Ce n'est pas là le contexte factuel de biens acquis en inventaire.
+[40] Depuis la décision de la Cour suprême du Canada dans Stewart c. La Reine, [2002] A.C.S. no 46 (Q.L.), lorsqu'une activité n'est pas motivée pour des fins de nature personnelle, mais par des fins de nature commerciale, il n'est pas nécessaire d'appliquer le test de l'expectative raisonnable de profit.
+[41] Tel que précédemment mentionné, je suis d'avis que la preuve a révélé que la propriété en question a été acquise pour des fins d'affaires. Les appels sont en conséquence accordés avec frais.
+Signé à Ottawa, Canada, ce 13e jour de février 2003.
+« Louise Lamarre Proulx »
+J.C.C.I.
+RÉFÉRENCE :
+2003CCI43
+Nos DES DOSSIERS DE LA COUR :
+2001-2422(IT)I
+2001-2425(IT)I
+INTITULÉS DES CAUSES :
+Jacques Valiquette et La Reine
+Julie Lachance et La Reine
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE DE L'AUDIENCE
+le 4 février 2003
+MOTIFS DE JUGEMENT PAR :
+l'hon. juge Louise Lamarre Proulx
+DATE DU JUGEMENT :
+le 13 février 2003
+COMPARUTIONS :
+Avocat des appelants :
+Me Daniel Bourgeois
+Avocate de l'intimée :
+Me Anne Poirier
+AVOCAT INSCRIT AU DOSSIER:
+Pour les appelants :
+Nom :
+Me Daniel Bourgeois
+Étude :
+Pothier Delisle, Société d'avocats
+Sainte-Foy (Québec)
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,160 @@
+---
+title: "Terrio v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27167/index.do"
+last_modified: "2006-09-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 494"
+citation2: ""
+neutral_citation: "2006 TCC 494"
+decision_date: "2006-09-07"
+language: "en"
+item_id: "27167"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1036
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:47:09.859000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "57972f38a0a267d31d3f104cc4859aaafd6c4f35dcc51ca6ece15fb7bb6f8745"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Terrio v. The Queen
+
+- Citation: 2006 TCC 494
+- Decision date: 2006-09-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1036, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Terrio v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-09-07
+Neutral citation
+2006 TCC 494
+File numbers
+2006-1327(IT)G
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-1327(IT)G
+BETWEEN:
+DAVID TERRIO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on August 3, 2006 at Welland, Ontario.
+Before: The Honourable Justice G. Sheridan
+Appearances:
+Counsel for the Appellant:
+Guy Ungaro
+Counsel for the Respondent:
+George Boyd Aitken
+____________________________________________________________________
+ORDER
+Upon motion by the Respondent for an Order pursuant to section 52 of the Tax Court of Canada Rules (General Procedure) requiring the Appellant to deliver particulars within a specified time;
+And upon motion by the Respondent, in the alternative, for an order extending the time allowed for the Respondent to file its Reply to the Notice of Appeal pursuant to subsection 44(b) of the Rules of the Tax Court of Canada (General Procedure);
+And upon the motion by the Respondent for the costs of this motion in any event of the cause;
+And having heard the submissions of counsel and having read the materials as filed;
+IT IS ORDERED:
+1. the Respondent's motion for an order requiring the Appellant to deliver particulars is dismissed;
+2. the Respondent shall have 60 days from the date of this Order to file and serve its Reply to the Notice of Appeal;
+3. costs of this motion shall follow the cause
+in accordance with the attached Reasons for Order.
+Signed at Ottawa, Canada, this 7th day of September, 2006.
+"G. Sheridan"
+Sheridan, J.
+Citation:2006TCC494
+Date: 20060907
+Docket: 2006-1327(IT)G
+BETWEEN:
+DAVID TERRIO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+[1] The Respondent's motion and the grounds therefore are set out below:
+The Motion is for:
+(a) an Order requiring the Appellant to deliver particulars within a specified time pursuant to section 52 of the Tax Court of Canada Rules (General Procedure);
+(b) in the alternative, an order extending the time allowed for the Respondent to file its Reply to the Notice of Appeal pursuant to paragraph 44(1)(b) of the Tax Court of Canada Rules (General Procedure);
+(c) the whole with costs in any event of the cause; and
+(d) such further and other relief as this Honourable Court deems just.
+The Grounds for the Motion are that
+(a) the Appellant has failed to supply particulars to the Respondent in spite of the Respondent's Demand for Particulars which Demand for Particulars was served on the Appellant on July 4, 2006; and
+(b) the Notice of Appeal as filed does not provide sufficient particulars upon which the Respondent may rely in order to prepare its Reply to the Notice of Appeal.
+[2] The appeal concerns net worth assessments of the Appellant's 1998, 1999 and 2000 taxation years. From my reading of the Notice of Appeal and my understanding of the submissions of counsel, the Minister seems to have concluded, among other things, that given the Appellant's level of activity at certain gambling establishments, he had more income than reported in his returns.
+[3] Counsel for the Appellant opposed the Respondent's motion, arguing that the Appellant's Notice of Appeal and Answer to the Demand for Particulars, as drafted, were sufficient for the purpose of pleading and that the Respondent's motion ought to be dismissed with costs to the Appellant.
+[4] In Zelinski v. The Queen[1], Bowie, J. explained the purpose of pleadings and applicable principles:
+[4] The purpose of pleadings is to define the issues in dispute between the parties for the purposes of production, discovery and trial. What is required of a party pleading is to set forth a concise statement of the material facts upon which she relies. Material facts are those facts which, if established at the trial, will tend to show that the party pleading is entitled to the relief sought. Amendments to pleadings should generally be permitted, so long as that can be done without causing prejudice to the opposing party that cannot be compensated by an award of costs or other terms, as the purpose of the Rules is to ensure, so far as possible, a fair trial of the real issues in dispute between the parties.
+[5] The applicable principle is stated in Holmsted and Watson: [FOOTNOTE 1 : Holmsted and Watson, Ontario Civil Procedure, Vol. 3, pages 25-20 to 25-21.]
+This is the rule of pleading: all of the other pleading rules are essentially corollaries or qualifications to this basic rule that the pleader must state the material facts relied upon for his or her claim or defence. The rule involves four separate elements: (1) every pleading must state facts, not mere conclusions of law; (2) it must state material facts and not include facts which are immaterial; (3) it must state facts and not the evidence by which they are to be proved; (4) it must state facts concisely in a summary form.
+[5] Counsel for the Respondent reminded the Court of one of the fundamentals of tax litigation, that the onus of proof lies with the Appellant[2]. To this I would add that in a net worth case, the task is especially difficult as the taxpayer is, in essence, faced with proving a negative: that he did not have the level of income assumed by the Minister in his assessment. A good review of what is involved can be found in Rameyv. Canada[3]:
+...The net worth method of estimating income is an unsatisfactory and imprecise way of determining a taxpayer's income for the year. It is a blunt instrument of which the Minister must avail himself as a last resort. A net worth assessment involves a comparison of a taxpayer's net worth, i.e. the cost of his assets less his liabilities, at the beginning of a year, with his net worth at the end of the year. To the difference so determined there are added his expenditures in the year. The resulting figure is assumed to be his income unless the taxpayer establishes the contrary. Such assessments may be inaccurate within a range of indeterminate magnitude but unless they are shown to be wrong they stand. It is almost impossible to challenge such assessments piecemeal. The only truly effective way of disputing them is by means of a complete reconstruction of a taxpayer's income for a year. A taxpayer whose business records and method of reporting income are in such a state of disarray that a net worth assessment is required is frequently the author of his or her own misfortunes. Mr. Boudreau stated that Mr. Allan Ramey's records were inadequate, that he had a history for years prior to 1981 of being assessed on a net worth basis and that his business, that of owning coin operated machines, such as pinball machines and slot machines of various types, was cash based and was therefore difficult to audit. The Minister had no alternative but to proceed as he did.
+...
+[6] This is not unlike the situation in which Mr. Terrio finds himself. Having failed to convince the Minister at the objection stage that his income was correctly reported, he must now satisfy a judge of this Court that the Minister got it wrong. It will be up to Mr. Terrio to think through carefully how he arrived at the figure reported as income for the taxation years in question and how he intends to prove it at trial.
+[7] At this stage of the litigation, however, what is necessary is that he furnish enough detail in his Notice of Appeal to permit the Respondent to craft its Reply.
+[8] In considering the submissions of counsel regarding an order for particulars, I am guided by the words of Bowman, T.C.J. (as he then was) in Satin Finish Hardwood Flooring (Ontario) Ltd. v. Canada[4], in which the learned justice reviewed the criteria for ordering particulars:
+17 So far as the motion for particulars is concerned, there are several reasons for dismissing it. In the first place the respondent has failed to serve on the appellant's solicitors a demand for particulars. Under section 52 of the rules of the court a motion for particulars can only be brought if such a demand has been served and the opposite party has failed to supply the particulars within 30 days.
+F.P. Bourgault Industries v. Flexi-Coil Ltd., 18 C.P.R. 245 at 246 per Dube J.; Georg Von Opel v. Allcock, Laight & Westwood Ltd., 21 Fox's Canadian Patent Cases 124 per Cameron J.
+18 Assuming that I have a discretion to hear a motion for particulars in the absence of a prior written demand I have been given no basis upon which I should exercise that discretion. Cf. Curry v. Advocate Gen. Ins., 9 C.P.C. (2d) 247.
+19 In the second place no material by way of affidavit or otherwise was put before me to demonstrate that the respondent needed further particulars in order to plead to the notice of appeal and it is certainly not obvious on the face of the notice of appeal. Indeed it was not even suggested in argument. See F.P. Bourgault (supra); Georg Von Opel (supra).
+20 In the third place, where particulars are sought before pleading it must be for the purpose of enabling the opposite party to formulate an intelligent response. There is a fundamental difference between particulars required for the purpose of pleading and particulars needed for the purposes of trial. That distinction was clearly expressed by Marceau J. in Embee Electronic Agencies v. Agence Sherwood Agencies Inc., 43 C.P.R. (2d) 285 at 286-287. To the same effect, see Madden v. Madden [1947] O.R. 866, (Ont. C.A.) per Laidlaw J.A. at 873-874; Coco-Cola Co. v. O'Keefe's Beverages Limited [1922] 23 O.W.N. 175 per Riddell J. at 176.
+21 Whether or not the type of particulars sought by the respondent may be necessary for the purposes of the trial, they are not necessary for the purposes of preparing a reply. Moreover, given the somewhat unique nature of income tax litigation, the Minister of National Revenue is well aware of all of the facts he needs to respond to the notice of appeal. He should know why he assessed. If the respondent needs more details of the appellant's business for the purposes of trial they can be obtained on an examination for discovery.
+[9] In the present case, the Respondent properly served its Demand for Particulars[5]. The Appellant served his Answer to the Demand for Particulars on July 18, 2006 and signaled his disinclination to provide any further particulars. The Respondent takes the position that, like the Notice of Appeal, the Answer is so deficient in detail as to be no answer at all; hence, the need for this motion.
+[10] I am not satisfied that this is so. As was the case in Satin Finish, here no affidavit was filed to show specifically why further particulars are needed by the Respondent to plead to the Notice of Appeal. I accept counsel for the Respondent's suggestion that the Notice of Appeal and Answer to the Demand for Particulars could certainly have benefited from more precision. And it is with this in mind that I reject outright, the rather bold request of counsel for the Appellant for costs in any event of the cause.
+[11] However, given the "nature of income tax litigation"[6] and the reality of what will have gone before during the process of performing a net worth assessment of Mr. Terrio's taxation years, I am not convinced that his Notice of Appeal and Answer to the Demand for Particulars, as filed, present any impediment to the Respondent's ability to draft its Reply to the Notice of Appeal.
+[12] For these reasons, I am of the view that the Respondent's motion for particulars is premature and must be dismissed. Its dismissal, however, does not prejudice the Respondent's seeking an order for particulars at a later stage of the litigation. The Respondent shall have 60 days from the date of this order to file and serve its Reply to the Notice of Appeal. Costs of this motion shall follow the cause.
+Signed at Ottawa, Canada, this 7th day of September 2006.
+G. Sheridan
+Sheridan, J.
+CITATION: 2006TCC494
+COURT FILE NO.: 2006-1327(IT)G
+STYLE OF CAUSE: DAVID TERRIO AND H.M.Q.
+PLACE OF HEARING: Welland, Ontario
+DATE OF HEARING: August 3, 2006
+REASONS FOR ORDER BY: The Honourable Justice G. Seridan
+DATE OF JUDGMENT: September 7, 2006.
+APPEARANCES:
+Counsel for the Appellant
+Guy Ungaro
+Counsel for the Respondent
+George Boyd Aitken
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Guy Ungaro
+Firm: Guy Ungaro
+Niagara Falls, Ontario
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [2002] DTC 1204 at paragraphs 4 and 5.
+[2] Johnston v. Canada (Minister of National Revenue-M.N.R.) [1948] S.C.J. No. 33.
+[3] [1993] T.C.J. No. 142 at p. 4.
+[4] [1995] T.C.J. No. 240, at paragraphs 17-21.
+[5] Affidavit of Amanda Kelly; Respondent Motion Record, Tab 2.
+[6] As described by Bowman, C.J. in Satin Finish, supra.

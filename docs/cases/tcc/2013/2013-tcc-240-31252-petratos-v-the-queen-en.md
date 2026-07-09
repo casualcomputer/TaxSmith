@@ -1,0 +1,284 @@
+---
+title: "Petratos v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31252/index.do"
+last_modified: "2013-07-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 TCC 240"
+citation2: ""
+neutral_citation: "2013 TCC 240"
+decision_date: "2013-07-26"
+language: "en"
+item_id: "31252"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5095
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:59:01.913000+00:00"
+cases_cited_count: 4
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a104c51971fa9746eaafefa9c8521fc5f308bf2e89dfc0f1e7cc699e7361e015"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Petratos v. The Queen
+
+- Citation: 2013 TCC 240
+- Decision date: 2013-07-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5095, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Petratos v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-07-26
+Neutral citation
+2013 TCC 240
+File numbers
+2011-206(IT)APP
+Judges and Taxing Officers
+Joe E. Hershfield
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-206(IT)APP
+BETWEEN:
+CHRISTOS PETRATOS,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application for Extension of Time heard on common evidence
+with the applications of Sylvia Petratos 2011-202(IT)APP and
+Gavin Higgins 2011-209(IT)APP on April 23 and 24, 2012
+and September 5 and 6, 2012 at Toronto, Ontario
+Before: The Honourable Justice J.E. Hershfield
+Appearances:
+Counsel for the Applicant:
+Gerald Matlofsky
+Counsel for the Respondent:
+Samantha Hurst
+____________________________________________________________________
+ORDER
+Having heard the application for an Order extending the time within which a Notice of Objection to the assessment made under the Income Tax Act (“ITA”) for the 2007 taxation year, may be served;
+And having heard what was alleged and argued by the parties;
+IT IS ORDERED THAT:
+For the reasons set out in the attached Reasons for Order, the application made under the ITA in respect of the 2007 taxation year is dismissed, with costs, on the basis that the application was not made within the prescribed time.
+Signed at Ottawa, Canada this 26th day of July 2013.
+"J.E. Hershfield"
+Hershfield J.
+Docket: 2011-202(IT)APP
+BETWEEN:
+SYLVIA PETRATOS,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application for Extension of Time heard on common evidence
+with the applications of Christos Petratos 2011-206(IT)APP and
+Gavin Higgins 2011-209(IT)APP on April 23 and 24, 2012
+and September 5 and 6, 2012 at Toronto, Ontario
+Before: The Honourable Justice J.E. Hershfield
+Appearances:
+Counsel for the Applicant:
+Gerald Matlofsky
+Counsel for the Respondent:
+Samantha Hurst
+____________________________________________________________________
+ORDER
+Having heard the application for an Order extending the time within which a Notice of Objection to the assessment made under the Income Tax Act (“ITA”) for the 2007 taxation year, may be served;
+And having heard what was alleged and argued by the parties;
+IT IS ORDERED THAT:
+For the reasons set out in the attached Reasons for Order, the application made under the ITA in respect of the 2007 taxation year is dismissed, with costs, on the basis that the application was not made within the prescribed time.
+Signed at Ottawa, Canada this 26th day of July 2013.
+"J.E. Hershfield"
+Hershfield J.
+Docket: 2011-209(IT)APP
+BETWEEN:
+GAVIN HIGGINS,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application for Extension of Time heard on common evidence
+with the applications of Sylvia Petratos 2011-202(IT)APP and
+Christos Petratos 2011-206(IT)APP on April 23 and 24, 2012
+and September 5 and 6, 2012 at Toronto, Ontario
+Before: The Honourable Justice J.E. Hershfield
+Appearances:
+Counsel for the Applicant:
+Gerald Matlofsky
+Counsel for the Respondent:
+Samantha Hurst
+____________________________________________________________________
+ORDER
+Having heard the application for an Order extending the time within which a Notice of Objection to the assessment made under the Income Tax Act (“ITA”) for the 2007 taxation year, may be served;
+And having heard what was alleged and argued by the parties;
+IT IS ORDERED THAT:
+For the reasons set out in the attached Reasons for Order, the application made under the ITA in respect of the 2007 taxation year is dismissed, with costs, on the basis that the application was not made within the prescribed time.
+Signed at Ottawa, Canada this 26th day of July 2013.
+"J.E. Hershfield"
+Hershfield J.
+Citation: 2013 TCC 240
+Date: 20130726
+Docket: 2011-206(IT)APP
+BETWEEN:
+CHRISTOS PETRATOS,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2011-202(IT)APP
+AND BETWEEN:
+SYLVIA PETRATOS,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2011-209(IT)APP
+AND BETWEEN:
+GAVIN HIGGINS,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Hershfield J.
+[1] The applications before me involve timing issues respecting alternate positions taken by the Applicants in respect of Notices of Assessment mailed as follows: · Mr. Higgins on May 20, 2008; · Mr. Petratos on March 19, 2009; and · Ms. Petratos on March 26, 2009.
+[2] These assessments were based on the filing positions taken by the Applicants. However, shortly after they received their assessments, they sent T1 Adjustment Requests (the “Requests”) as follows:
+· Mr. Higgins on February 9, 2009; · Mr. and Ms. Petratos on April 29, 2009.
+[3] The Minister of National Revenue (the “Minister”) denied the Requests as follows: · Mr. Higgins and Mr. Petratos by letter on June 9, 2010; · Ms. Petratos by letter on June 10, 2010.
+[4] Notices of Objection to such denials were asserted by the Applicants to have been sent on September 7, 2010. The Respondent asserts that they were not sent until September 16, 2010.
+[5] The Applicants raise two arguments arising from this chronology of events:
+A. The Requests ought to have been treated as Notices of Objection and/or applications for extensions of time to file Notices of Objection.
+B. The denial of the Requests ought to restart the time limitation periods for filing Notices of Objection and applications for extensions of time to file Notices of Objection.
+[6] Before dealing with these issues some background would be helpful.
+Assessment Background
+[7] The original assessments were based on the filings of the Applicants for their 2007 taxation years. At that point, then, it appeared that there were no issues.
+[8] However, the T1 Returns filed for that year did not include deductions that were later claimed by the Applicants in respect of a tax shelter investment acquired by them (the “Program”). The Applicants assert that the investments were not “tax shelters” as that term is used in the ITA. The Respondent asserts that they are. That substantive issue is not before me.
+[9] There is, nonetheless, a relevant aspect of that issue. It is not in dispute that the Applicants did not initially claim the subject deductions because they were warned not to by the Canada Revenue Agency (the “CRA”). That warning arose from the fact that previous audits of the Program had raised issues. CRA audits for previous years led to assertions that the losses incurred by the Program were the mere product of paperwork and journal entries and were disallowed. The taxpayers were informed that if they claimed losses from the same Program for 2007 that they would be denied and potentially subject to civil penalties under section 163.2 of the ITA.
+[10] At a meeting in March, 2008, between the CRA and a Program representative, the CRA warned that the Applicants and other Program investors (of which there were dozens) should not file CRA T2124 forms for 2007. Following that meeting the CRA wrote to the Applicants, and to the other Program investors, instructing them not to file CRA T2124 forms for 2007. T2124 forms, namely, “Statement of Business Activities” forms, were the standard forms for claiming business losses at the time.[1] The investors heeded the warning but subsequently, they, or at least the Applicants, claimed their asserted share of Program losses for 2007 by filing the Requests. That is, they did not use the T2124 form that they were warned not to use. They sought an amendment to their 2007 T1 Return by way of the Requests.
+[11] As noted above, Mr. Higgins sent his Request on February 9, 2009. Mr. and Ms. Petratos sent their Requests on April 29, 2009. Again, as noted above, the Minister denied the Requests of Mr. Higgins and Mr. Petratos by letter on June 9, 2010 and denied the Request of Ms. Petratos by letter on June 10, 2010.
+[12] The Applicants were not reassessed by the CRA with respect to their originally filed 2007 taxation year T1 returns.
+[13] The ITA is silent on the status of a denial of a T1 Adjustment Request.
+Overview of the Program’s Background
+[14] The Program was known as the IBCA Joint Venture (“IBCA JV”). It was promoted, operated, managed and/or participated in by three entities: Integrated Business Concepts Inc., Synergy Group (2000) Inc. and The Independent Business Consulting Association. The Applicants were members of the IBCA JV and the losses at issue arose from their participation in that venture which I have referred to as the Program.
+[15] It was apparent to me during the hearing that Synergy Group (2000) Inc. was the entity that assisted the Applicants in the ordinary course of filing the forms necessary to claim losses from the Program. It was Synergy Group (2000) Inc. that advised the Applicants and attempted, such as at the meeting with the CRA in 2008, to work with the CRA to resolve its concerns. The Requests would have been initiated by Synergy Group (2000) Inc..
+[16] It is also my understanding that it was Synergy Group (2000) Inc. that reacted to the Minister’s denial of the loss claims. This explains the commonality of the factual background of the matters before me in respect of all three Applicants.
+Analysis
+[17] I will deal with the issues under the following headings:
+A. The Requests ought to have been treated as Notices of Objection and/or applications for extensions of time to file Notices of Objection.
+B. The Notices of Objection were filed within the time limitations provided for in the ITA.
+A. The Requests ought to have been treated as Notices of Objection and/or applications for extensions of time to file Notices of Objection.
+[18] There are no provisions in the ITA that require the Minister to do what the Applicants have asked me to do in this case. On the other hand, the CRA has a tremendous amount of power to act according to what it feels might be appropriate in any particular case. It could have treated the Requests as Notices of Objection. The form of the document does not always have to dictate how it must or should be treated.
+[19] For example, it is not uncommon for the CRA to treat late filed Notices of Objection as applications for extensions of time. Indeed, this Court has imposed this treatment on the CRA in Fagbemi v Canada.[2] In Fagbemi Justice Woods decided that a Notice of Objection should be generously viewed as an application to extend time. However, such finding was qualified. At paragraphs 5 and 6, she observed that each case depends on the particular circumstances.[3]
+[20] In the circumstances of the applications at hand, it would be a pretty big step to treat the Requests for a change in a filing position as a Notice of Objection.
+[21] While cases like Fagbemi illustrate that this Court has struggled with such issues as the use of proper forms, at the end of the day, the reality is that, generally, only the Minister has authority to act with more or less leniency in the exercise of her mandate. As a practical matter, so do her officers. While this strikes me as inappropriate, strict enforcement, or a tendency not to be lenient has been defended by suggesting that the administration of the ITA would break down without the CRA, and taxpayers, being able to rely on strict compliance with its precise terms. It is hard to argue otherwise although one hopes for a proper mix of uniformity and individual fairness.
+[22] While I am not impressed in this case with the tactics employed by the CRA, there is little I can do except to comment that it seems as if every taxpayer perceived by the CRA as sheltering income without the CRA’s blessing, whether it has a tax shelter identification number or not, needs to be treated as a person guilty of abusing the inherent or fundamental purpose of the ITA. Auditors become hard enforcers wielding heavy, threatening clubs that could be perceived as outrageous if wielded in the hands of our police forces.
+[23] That said, I can not side with the Applicants based on the heavy handedness of CRA officers.
+[24] In any event, regardless of what the Minister might have done by exercising her discretion, I am bound to accept the authority relied on by the Respondent for not accepting that the Requests be treated as Notices of Objection and/or applications for extensions of time to file Notices of Objection.
+[25] The Respondent relies on Armstrong v. Canada.[4] At paragraph 8, Justice Sharlow speaks of an amended return imposing no obligation to assess. While she says that in the context of the Minister’s obligation to assess “with all due dispatch”, the underlying text can be none other than; requests to correct a tax return, in any form, are just that - requests.
+[26] That does not leave the taxpayer at the Minister’s whim. There is a process to force the issue. Filing an objection to an assessment you want to correct, even one based on the information provided to the Minister, will accomplish the desired result. This can be done in conjunction with a request. Requests can be made along with what has been referred to as a protective objection.
+[27] Indeed, in spite of my harsh words on the Minister’s tactics in this case, the Applicants were warned in a letter that a response to their Requests might be delayed and in order to protect their right to object, they “must” file an application for an extension of time to file an objection. Indeed, the letter even gave the date by which such applications would have to be made and what they should say to explain to why the application was necessary. I can not find that there was adherence to that notification by any of the Applicants.[5]
+[28] In any event, I can not agree that the Requests can be treated as Notices of Objection and/or applications for extensions of time to file Notices of Objection.
+B. The Notices of Objection were filed within the time limitations provided for in the ITA.
+[29] This part of the Applicants’ argument can be dealt with in two parts:
+1. The Notices of Objection would be filed on time if the denial letters were treated as assessments and if I accepted September 7, 2010 as the date the Notices were mailed.
+2. The Notices of Objection would be timely filed if the CRA denial letters were treated as a determination under subsection 152(1.1) of the ITA and if I accepted September 7, 2010 as the date the Notices were mailed.
+Are the Denial Letters Assessments?
+[30] I can not agree that the denial letters were assessments. There was no tax assessed. Further, it should go without saying that to find that a response to a request can be treated as an assessment, would lead to an administrative nightmare.
+[31] Accordingly, the Notice of Assessments sent in May, 2008 and March 2009 were well past the deadline prescribed for filing an application for an extension of time to file a Notice of Objection.
+[32] While it was not in dispute that the deadline for filing an application for an extension of time to file a Notice of Objection is one year and 90 days from the date of mailing the assessment, I will set out the relevant sections of the ITA that dictate that deadline:
+Subsection 165(1):
+Objections to assessment -- A taxpayer who objects to an assessment under this Part may serve on the Minister a notice of objection, in writing, setting out the reasons for the objection and all relevant facts,
+(a) where the assessment is in respect of the taxpayer for a taxation year and the taxpayer is an individual (other than a trust) or a testamentary trust, on or before the later of
+(i) the day that is one year after the taxpayer's filing-due date for the year, and
+(ii) the day that is 90 days after the day of mailing of the notice of assessment; […] [Emphasis added.] [6]
+[…]
+Subsection 166.1(1):
+Extension of time [to object] by Minister -- Where no notice of objection to an assessment has been served under section 165, nor any request under subsection 245(6) made, within the time limited by those provisions for doing so, the taxpayer may apply to the Minister to extend the time for serving the notice of objection or making the request.
+Paragraph 166.1(7)(a)
+When order to be made -- No application shall be granted under this section unless
+(a) the application is made within one year after the expiration of the time otherwise limited by this Act for serving a notice of objection or making a request, as the case may be; and
+[…]
+Subsection 166.2(1):
+Extension of time [to object] by Tax Court -- A taxpayer who has made an application under subsection 166.1[(1)] may apply to the Tax Court of Canada to have the application granted after either
+(a) the Minister has refused the application, or
+(b) 90 days have elapsed after service of the application under subsection 166.1(1) and the Minister has not notified the taxpayer of the Minister's decision,
+but no application under this section may be made after the expiration of 90 days after the day on which notification of the decision was mailed to the taxpayer. [Emphasis added.]
+Paragraph 166.2(5):
+When application to be granted -- No application shall be granted under this section unless
+(a) the application was made under subsection 166.1(1) within one year after the expiration of the time otherwise limited by this Act for serving a notice of objection or making a request, as the case may be; and
+(b) the taxpayer demonstrates that
+(i) within the time otherwise limited by this Act for serving such a notice or making such a request, as the case may be, the taxpayer
+(A) was unable to act or to instruct another to act in the taxpayer’s name, or
+(B) had a bona fide intention to object to the assessment or make the request,
+(ii) given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application, and
+(iii) the application was made under subsection 166.1(1) as soon as circumstances permitted.
+[33] Read together, these provisions require, in the case of the ITA, that the Applicants file the applications for extensions of time within one year and 90 days from the day of mailing of the Notices of Assessment.
+[34] The latest assessment date (issued in respect of Ms. Petratos) is March 26, 2009. Even assuming the date of mailing the Notices of Objection was September 7, 2010 as asserted by the Applicants, the limitation period of one year and 90 days has been exceeded.
+2. Are the Denial Letters Loss Determinations under section 152(1.1) of the ITA?
+[35] The Applicants rely on subsection 152(1.1) of the ITA which reads as follows:
+152(1.1) Determination of losses. Where the Minister ascertains the amount of a taxpayer’s non-capital loss, net capital loss, restricted farm loss, farm loss or limited partnership loss for a taxation year and the taxpayer has not reported the amount as such a loss in the taxpayer’s return of income for that year, the Minister shall, at the request of the taxpayer, determine, with all due dispatch, the amount of the loss and shall send a notice of determination to the person by whom the return was filed.
+[36] In my view, the Requests could be taken as a request for a loss determination, provided such a request is actually allowed to be made by this provision.
+[37] For the moment, assume that I accept that the Minister ascertained a non-capital loss for 2007 for a particular amount. That also requires an assumption that disallowing a loss, so as to eliminate it or make it a zero amount, is still an amount ascertained by the Minister. In my view, the latter assumption must be correct. If I claim a loss of $100 and the Minister ascertains it to be zero, a request for a loss determination must be allowed because we have different positions as to the amount of the loss.
+[38] That said, if the particular loss amount, zero, ascertained by the Minister is the same as the amount I claimed in my return, then there is no difference and the provision relied on by the Applicants can not assist them if it is strictly applied.
+[39] Again, the Applicants are caught in this void of not being able to change their return without the permission of the Minister unless they file a timely objection. They have not done so. Accordingly, the applications must be dismissed.
+[40] Before closing, while there does not now appear to be a need for me to deal with the issue of the date of mailing of the Notices of Objection, I have found the date relied on by the CRA as the date the Notices of Objection were mailed, was correct. The Respondent produced evidence that established to my satisfaction that the CRA’s reliance on the September 16, 2010 date was based on postmarked envelopes and the evidence of the CRA officer’s affidavit[7] and testimony. I have no issues in respect of his evidence of the nature raised in Carcone v. The Queen.[8]
+[41] In any event, for the reasons set out above, I dismiss the applications, with costs.
+Signed at Ottawa, Canada this 26th day of July 2013.
+"J.E. Hershfield"
+Hershfield J.
+CITATION: 2013 TCC 240
+COURT FILE NO.: 2011-206(IT)APP; 2011-202(IT)APP;
+2011-209(IT)APP
+STYLE OF CAUSE: CHRISTOS PETRATOS AND THE QUEEN; AND BETWEEN: SYLVIA PETRATOS AND THE QUEEN; AND
+BETWEEN: GAVIN HIGGINS AND THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: April 23 and 24, 2012 and
+September 5 and 6, 2012
+REASONS FOR ORDER BY: The Honourable Justice J.E. Hershfield
+DATE OF ORDER: July 26, 2013
+APPEARANCES:
+Counsel for the Applicant:
+Gerald Matlofsky
+Counsel for the Respondent:
+Samantha Hurst
+COUNSEL OF RECORD:
+For the Applicant:
+Name: Gerald Matlofsky
+Barrister and Solicitor
+Firm: 118 Eglinton Avenue West, Suite 208
+Toronto, Ontario, M4R 2G4
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] That form was replaced by CRA form T2125: Statement of Business or Professional Activities.
+[2] 2005 DTC 955.
+[3] It has recently been observed, for example, in the June 28, 2013 edition of The Canadian Taxpayer (TCT) Vol. xxxv No.13, that many Tax Court judges will join the club of others “frustrated” by the resistance of the CRA and Department of Justice to apply the discretionary and fairness provisions in the ITA. While this may not, for a variety of reasons, be a particularly good case to say more about this area of obvious concern, the commentary’s reference to Poulin v. The Queen, 2013 TCC 104 does encourage me to add the following observations. In Poulin reference is made to the application of the doctrine of necessary implication as discussed in R. v. Cunningham, [2010] 1 S.C.R. 331. Poulin suggests that the doctrine of necessary implication may be a possible approach to further better administrative practices in this area. It suggested that there was a necessary implication that the Minister consider at least the possible need to give fairness or discretionary relief under the ITA before obtaining a judgment. Subsection 220(2.1) allows the Minister to waive the timing for virtually anything required to be filed. That the ITA provides that an objection may be filed should not be fatal to the operation of that provision. Where an assessment is wrong, an objection is required to be filed by necessary implication. Otherwise, one has no right to appeal. Cunningham also suggests, by necessary implication and by reference to inherent jurisdiction that this Court may have jurisdiction to ensure the proper sequence of events where they are necessarily contemplated by the ITA. In any event, frustrated judges could use some help from cogent, creative thought that looks outside the box. A better solution might be to give the Court more discretionary powers as a means to resolve issues by settlement or at any time preceding final judgment.
+[4] 2006 FCA 119.
+[5] Mr. Higgins and Mr. Petratos submitted copies of a letter purportedly sent to the CRA on April 25, 2010. The letter on its face was an application requesting an extension of time to file a Notice of Objection. However, on cross-examination, Mr. Higgins acknowledged that although he signed the letter he did not prepare it or mail it. He also said that a date noted on the letter as the date of his Request was incorrect. There was no proof of the letter having been mailed and the CRA affidavit with respect to each of the Applicants, which lists all the documents received, did not include these letters. The suggestion was that the letters were prepared and presumably mailed by their accountant, Mr. Kriarakis. However, he was not called to testify.
+[6] Effective in 2010 “the day of mailing” was amended to read “the day of sending”.
+[7] Subsection 244(10).
+[8] 2011 TCC 550, [2012] 2 C.T.C. 2043 (TCC).

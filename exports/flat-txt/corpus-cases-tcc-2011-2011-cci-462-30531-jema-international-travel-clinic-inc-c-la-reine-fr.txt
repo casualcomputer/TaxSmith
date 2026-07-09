@@ -1,0 +1,241 @@
+Title: Jema International Travel Clinic Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30531/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-462-30531-jema-international-travel-clinic-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2011-09-29
+
+# Jema International Travel Clinic Inc. c. La Reine
+
+- Citation: 2011 CCI 462
+- Decision date: 2011-09-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7334, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jema International Travel Clinic Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-09-29
+Référence neutre
+2011 CCI 462
+Numéro de dossier
+2009-2465(GST)G
+Juges et Officiers taxateurs
+Steven K. D'Arcy
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2009-2465(GST)G
+ENTRE :
+JEMA INTERNATIONAL TRAVEL CLINIC INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 1er mars 2011
+à St. John’s (Terre-Neuve-et-Labrador)
+Devant : L’honorable juge Steven K. D’Arcy
+Comparutions :
+Avocat de l’appelante :
+Me John Bruce
+Avocats de l’intimée :
+Me Jill Chisholm
+Me Gregory B. King
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en vertu de la Loi sur la taxe d’accise, dont l’avis est daté du 22 juillet 2009 et qui s’applique à la période s’étendant du 1er janvier 2003 au 31 décembre 2007, est accueilli et la cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément aux motifs du jugement ci-joints.
+L’appelante a droit à ses dépens.
+Signé à Ottawa, Canada, ce 29e jour de septembre 2011.
+« S. D’Arcy »
+Juge D’Arcy
+Traduction certifiée conforme
+ce 28e jour de novembre 2011.
+Mario Lagacé, jurilinguiste
+Référence : 2011 CCI 462
+Date : 29092011
+Dossier : 2009-2465(GST)G
+ENTRE :
+JEMA INTERNATIONAL TRAVEL CLINIC INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge D’Arcy
+[1] Jema International Travel Clinic Inc. (« Jema ») a interjeté appel d’une cotisation que le ministre a établie à l’égard de ses périodes de déclaration de la taxe sur les produits et services (la « TVH ») allant du 1er janvier 2003 au 31 décembre 2007 (la « période visée par la cotisation »).
+[2] La présente affaire soulève les questions suivantes : quelle est la nature de certaines fournitures que Jema a effectuées au cours des périodes de déclaration, et s’agit-il de fournitures taxables, de fournitures exonérées ou de fournitures détaxées sous le régime de la partie IX de la Loi sur la taxe d’accise (la « loi sur la TVH »)?
+[3] Deux personnes ont témoigné à l’audience : le Dr Austin Richard Copper, un médecin d’expérience de Terre-Neuve, ainsi que Mme Margot Mayo. Tous deux ont été appelés à témoigner par l’appelante.
+[4] Mme Margot Mayo, une infirmière, est propriétaire et exploitante de Jema[1].
+[5] Mme Mayo est infirmière autorisée et infirmière praticienne. Après avoir acquis le titre d’infirmière autorisée, Mme Mayo a obtenu un double diplôme en soins de santé primaires et communautaires auprès de l’Université Memorial, un certificat en examens de dépistage du cancer du sein, de même qu’un certificat en santé des voyages[2]. J’ai conclu qu’elle était un témoin digne de foi.
+[6] Le Dr Cooper est l’un des médecins responsables de Jema. Il est disponible pour consultation 24 heures sur 24.
+[7] Le Dr Cooper est un pédiatre exerçant qui a suivi une formation dans les domaines de la microbiologie et des maladies infectieuses. Il enseigne également la pédiatrie à la faculté de médecine de l’Université Memorial et y donne un cours sur les maladies infectieuses depuis plus de 38 ans. Il est clairement ressorti du témoignage du Dr Cooper que ce dernier se dévoue à sa profession, et il a été un témoin très crédible.
+Le sommaire des faits [8] Jema est la seule clinique de santé et pour voyageurs agréée qui existe à Terre-Neuve-et-Labrador. Cet établissement prodigue des conseils aux personnes voyageant à l’extérieur du Canada relativement aux vaccins qu’il convient d’obtenir avant de se rendre dans certains pays. La clinique fournit également ces vaccins.
+[9] Mme Mayo a créé Jema pour combler le besoin perçu de disposer d’une clinique pour voyageurs à Terre-Neuve. Elle a déclaré qu’à cause de l’élimination graduelle des services de santé pour voyageurs qu’offrait un centre de santé communautaire local, un certain nombre de personnes vivant à St. John’s ne pouvaient pas obtenir les conseils et les vaccins dont elles avaient besoin pour se rendre dans certains pays. Elle savait qu’un certain nombre de personnes voyageaient jusqu’en Nouvelle-Écosse et en Ontario pour obtenir les conseils et les vaccins nécessaires.
+[10] Elle a ouvert Jema après avoir reçu une autorisation de l’Association of Registered Nurses of Newfoundland. La lettre d’autorisation (pièce A‑2) contient le passage suivant :
+[traduction]
+Votre champ d’activité est conforme à la pratique approuvée des soins infirmiers et les médicaments que vous administrerez sont conformes aux normes et aux avis aux voyageurs approuvés. Le comité a également reconnu que vous travaillerez en consultation avec un médecin.
+Tant que vous exercerez votre activité d’une manière conforme à votre proposition et que vous suivrez les normes et les avis aux voyageurs qui s’appliquent à l’administration des vaccins et des médicaments connexes, vos heures de travail pourront être reconnues comme faisant partie de l’exercice de la profession d’infirmière pour votre autorisation d’exercer. Vous êtes tenue de détenir un permis d’exercer pendant que vous exercez cette activité et de renouveler ce permis conformément à la législation qu’applique l’ARNNL.
+[11] La clinique était également tenue de suivre les lignes directrices de nombreux comités de santé, dont le Comité consultatif de la médecine tropicale et de la médecine des voyages, le Comité consultatif national de l’immunisation ainsi que le Guide canadien d’immunisation.
+[12] Mme Mayo a déclaré que Jema emploie trois autres infirmières : une infirmière à temps plein, une infirmière à temps partiel et une infirmière occasionnelle. L’une de ces infirmières détient un certificat en santé des voyages de l’International Society of Travel Medicine, la deuxième suit des études en vue d’obtenir ce certificat, et la troisième, qui travaille à titre occasionnel, est une infirmière en santé publique.
+[13] De plus, un certain nombre de médecins fournissent à Jema des services de consultation, dont le Dr Cooper, qui agit comme médecin-conseil en santé publique pour la région de l’Est de Terre-Neuve, ainsi qu’un médecin qui agit comme médecin-conseil en santé publique pour la région du Centre de Terre-Neuve. Aucun des médecins consultants ne facture de frais en contrepartie de ses services.
+[14] Mme Mayo a décrit comme suit les activités quotidiennes de la clinique de santé pour voyageurs :
+- les infirmières débutent la journée en faisant des recherches sur les pays dans lesquels pourraient se rendre leurs clients. Cela consiste à examiner les nouveaux avis aux voyageurs, à prendre note de l’évolution de la situation politique dans les pays en question, à déterminer s’il est survenu une catastrophe naturelle au cours des 24 dernières heures, et à vérifier s’il n’y a pas eu d’éclosion récente d’une maladie, telle que le virus d’Ebola, la dengue ou la tuberculose, dans un pays en particulier;
+- quand un client se présente à la clinique, l’infirmière qui lui est assignée commence par obtenir ses antécédents de santé détaillés; le processus consiste, notamment, à discuter des allergies du client, des médicaments qu’il prend et des affections, s’il y en a, dont il souffre à ce moment-là;
+- l’infirmière discute ensuite avec le client du genre de voyage qu’il a l’intention de faire, en mettant l’accent sur des aspects tels que la durée de son voyage, les endroits où il dormira et mangera, les parties du pays où il a l’intention de se rendre et s’il se rendra dans une région rurale ou éloignée, comme une jungle;
+- en obtenant les informations qui précèdent, l’infirmière s’assure qu’elle se conforme aux lignes directrices de Santé Canada en matière d’évaluation de la santé et du risque;
+- une fois que l’infirmière a obtenu toutes les informations pertinentes, elle décide quels vaccins doivent être recommandés au client et quels vaccins sont exigés. Mme Mayo a expliqué qu’il existe trois types de vaccin : les vaccins recommandés, les vaccins exigés (contre la fièvre jaune, par exemple) et les vaccins administrés de façon systématique (comme les piqûres pour nourrissons);
+- les vaccins choisis sont ensuite administrés au client, à la clinique de Jema.
+[15] Jema établit à l’intention de ses clients une facture, qui comporte deux types de frais, le premier pour la discussion concernant les antécédents de santé du client, ses projets de voyage et d’autres informations pertinentes (la « consultation »), et l’autre pour le ou les vaccins que l’infirmière a administrés. Cependant, Mme Mayo a fait remarquer qu’il arrive parfois que les vaccins soient administrés sans frais. Cela survient dans les cas où le gouvernement fournit gratuitement le vaccin à l’appelante. Les vaccins contre le tétanos, la rougeole, les oreillons ou la rubéole en sont un exemple.
+[16] En contre-interrogatoire, Mme Mayo a fait remarquer que les clients pouvaient obtenir une consultation sans recevoir de vaccin; cependant, il est impossible d’administrer un vaccin sans que la personne subisse une évaluation de risque et de santé fondée sur les lignes directrices de Santé Canada.
+[17] Jema n’était pas inscrite en vertu de la loi sur la TVH au cours de la période visée par la cotisation, elle n’a pas perçu de montants de TPS/TVH auprès de ses clients et elle n’a pas produit de déclarations de TPS/TVH.
+La question no 1 : la nature des fournitures [18] Le principal argument de l’appelante à propos de la nature des fournitures faites aux clients de Jema est qu’il s’agissait d’une seule fourniture détaxée de vaccins. Elle a fait valoir, subsidiairement, que Jema effectuait deux fournitures : la fourniture détaxée d’un vaccin et la fourniture distincte, et exonérée, de la consultation.
+[19] L’intimée soutient que Jema effectuait deux fournitures distinctes : la fourniture taxable que représentait l’administration d’un vaccin et la fourniture taxable que représentait la prestation de services de consultation en matière de voyage et d’immunisation.
+Le droit applicable [20] La TVH est perçue sous le régime de quatre sections distinctes de la partie IX de la loi sur la TVH : la section II, la section III, la section IV et la section IV.1.
+[21] Le présent appel ne concerne que la taxe perçue sous le régime de la section II.
+[22] La taxe prévue à la section II est imposée à tous les acquéreurs de fournitures taxables effectuées au Canada[3]. Entre le 1er janvier 2003 et le 30 juin 2006, la taxe a été perçue sur la valeur de la contrepartie de la fourniture selon trois taux : la TPS au taux de 7 % pour les fournitures effectuées dans une province qui n’avait pas harmonisé sa taxe de vente avec la TPS, la TVH au taux de 15 % pour les fournitures effectuées dans une province qui avait harmonisé sa taxe de vente avec la TPS, de même que le taux de 0 % applicable aux fournitures détaxées qui sont prévues à l’annexe VI de la loi sur la TVH. Le 1er juillet 2006, les taux ont été réduits de 1 %, et fixés à 6 % pour les fournitures effectuées dans une province n’ayant pas adopté la taxe de vente harmonisée et à 14 % pour les fournitures effectuées dans une province ayant adopté la taxe de vente harmonisée.
+[23] Pendant la période visée par la cotisation, Terre-Neuve avait harmonisé sa taxe de vente avec la TPS.
+[24] Une fourniture taxable est définie comme une fourniture effectuée dans le cadre d’une activité commerciale[4].
+[25] Une fourniture est définie comme la livraison de biens ou la prestation de services, notamment par vente, transfert, troc, échange, louage, licence, donation ou aliénation[5]. Les mots « bien » et « service » sont également définis dans la loi sur la TVH[6]. Le mot « bien » s’entend de tous biens – meubles et immeubles – tant corporels qu’incorporels, y compris un droit quelconque, à l’exclusion d’argent. Le mot « service » est défini de manière encore plus large pour désigner tout ce qui n’est ni un bien, ni de l’argent, ni certains services fournis à un employeur par un salarié, un dirigeant et certaines autres personnes. La définition du mot « service » est extrêmement large. Si une chose n’est pas un bien, de l’argent ou un service fourni par un salarié, elle sera alors réputée être un service.
+[26] Il découle des larges définitions des mots « fourniture », « bien » et « service » que la livraison ou la prestation de quoi que ce soit dans le cadre d’une opération commerciale est éventuellement assujettie à la taxe.
+[27] En raison de ces définitions larges, on en vient souvent à se demander si un fournisseur tel que Jema a effectué une fourniture unique composée d’un certain nombre d’éléments constitutifs ou, sinon, des fournitures multiples composées de biens ou de services distincts.
+[28] Il y a deux étapes à franchir pour régler cette question. Premièrement, il faut déterminer si le fournisseur a effectué une fourniture unique ou de multiples fournitures; il s’agit là d’une question de fait. S’il est conclu qu’il s’agissait de fournitures multiples, il faut alors prendre en considération les dispositions déterminatives que comportent les articles 138 et 139 de la loi sur la TVH.
+[29] La Cour et la Cour d’appel fédérale ont examiné à maintes occasions la question de fait qui consiste à savoir si un fournisseur a effectué une fourniture unique ou des fournitures multiples. La plupart de ces décisions suivent les principes qu’a résumés le juge Rip (tel était alors son titre) dans la décision O.A. Brown Ltd. v. Canada, [1995] G.S.T.C. 40 (O.A. Brown)[7].
+[30] Le juge Rip a présenté le cadre suivant pour tirer une conclusion factuelle[8] :
+En tranchant cette question, il est d’abord nécessaire de décider ce qui a été fourni en contrepartie du paiement. Il faut alors se demander si la fourniture globale est composée d’une seule fourniture ou de plus d’une fourniture. Le critère qui ressort de la jurisprudence anglaise est de savoir si, au fond et en réalité, la présumée fourniture séparée fait partie intégrante ou est un élément constitutif de la fourniture globale. Il faut examiner la nature véritable de l’opération pour en déterminer les attributs fiscaux […].
+[31] Au moment de rendre sa décision, le juge Rip a formulé les propos suivants :
+Un facteur à prendre en considération est de savoir s’il est possible, en réalité, d’enlever de la fourniture globale la présumée fourniture séparée. Ce facteur n’est pas concluant, mais il aide à déterminer le fond de l’opération[9] […].
+Le fait que des frais sont exigés séparément à l’égard d’un élément d’une fourniture mixte ne modifie pas les attributs fiscaux de celui-ci. La question de savoir si la taxe est exigée est régie par la nature de la fourniture[10] […].
+Dans chaque cas il est utile de se demander s’il serait possible d’acheter chacun des divers éléments séparément et d’obtenir néanmoins un article ou service utile. Car si cela n’est pas possible, il faut alors nécessairement conclure qu’une fourniture mixte qui ne peut pas être divisée aux fins de la taxe est en cause[11].
+[32] Selon le juge Rip, il est important de faire preuve de bon sens au moment de répondre à la question. Comme l’a fait remarquer mon confrère le juge McArthur dans la décision Gin Max Enterprises Inc. c. La Reine, au paragraphe 18[12] :
+L’examen de la jurisprudence révèle que la question de savoir si deux éléments forment une fourniture unique ou deux ou de multiples fournitures exige une analyse de la nature véritable des opérations, et il s’agit d’une question de fait tranchée avec une généreuse dose de bon sens […].
+(Non souligné dans l’original.)
+L’application du droit aux faits [33] Après avoir examiné les éléments de preuve, j’ai conclu que l’appelante a effectué deux fournitures : la fourniture de la consultation et la fourniture d’un vaccin.
+[34] La consultation entre les infirmières et les clients consistait à déterminer les vaccins que ces derniers devaient recevoir, ainsi que ceux qu’ils pouvaient choisir de recevoir avant de se rendre dans un pays particulier. La consultation amenait aussi à décider si les clients, selon leur état de santé et les médicaments qu’ils prenaient, pouvaient recevoir les vaccins en question. La consultation pouvait mener aux résultats suivants : les clients ne recevaient aucun vaccin (si, par exemple, ils avaient déjà reçu tous les vaccins exigés ou recommandés), ou ils recevaient un ou plusieurs vaccins. De plus, le nombre et le type de vaccins que les infirmières administraient à la clinique variaient d’un client à un autre.
+[35] Cela, selon moi, montre que la fourniture des consultations était distincte de la fourniture des vaccins. Par exemple, une personne peut se présenter à la clinique et l’infirmière peut décider que cette personne n’a besoin d’aucun vaccin. La fourniture de la consultation a été effectuée, mais il n’y a pas eu de fourniture d’un vaccin. Autrement dit, il n’est pas nécessaire qu’il y ait fourniture d’un vaccin pour qu’il y ait fourniture de la consultation. Cela étaye la conclusion selon laquelle la fourniture de la consultation était distincte de celle d’un vaccin quelconque.
+[36] De plus, la fourniture de la consultation est un service utile, même en l’absence de la fourniture d’un vaccin. Si le client décide de ne pas recevoir un vaccin exigé, il sait dans ce cas qu’il ne peut pas se rendre dans le pays pour lequel ce vaccin est obligatoire. Subsidiairement, si la consultation amène à décider que le client peut se rendre sans danger dans un pays particulier sans avoir reçu un vaccin quelconque, ce client a tout de même reçu des informations utiles.
+[37] Après avoir tiré la conclusion factuelle selon laquelle les services de consultation et de vaccination de Jema constituent des fournitures distinctes, il me faut ensuite examiner si les dispositions déterminatives des articles 138 et 139 de la loi sur la TVH s’appliquent de sorte que les fournitures distinctes soient réputées être une fourniture unique. L’article 138, auquel on donne généralement le nom de « règle sur les fournitures accessoires », ne s’applique pas, car les deux fournitures ont été effectuées moyennant des contreparties distinctes : cette disposition exige que les fournitures distinctes soient effectuées moyennant une seule contrepartie. L’article 139, auquel on donne généralement le nom de « règle sur les fournitures mixtes », ne s’applique pas aux fournitures en question car ni l’une ni l’autre des fournitures ne constituaient la fourniture d’un service financier : cette disposition ne s’applique que si l’une des fournitures en cause constitue la fourniture d’un service financier.
+[38] Au vu des éléments de preuve qui m’ont été soumis, je suis d’avis que la fourniture du vaccin et l’administration de ce dernier constituaient une fourniture unique. Comme l’a fait remarquer Mme Mayo, la clinique ne pouvait pas vendre le vaccin au client sans l’administrer physiquement à la clinique. Selon la loi canadienne, le vaccin doit être administré par un professionnel de la santé qualifié (comme un médecin ou une infirmière).
+[39] L’intimée a fait valoir que cette fourniture unique constituait la fourniture unique de l’administration d’un vaccin. Je ne souscris pas à cet argument. Je conviens plutôt avec l’appelante que la fourniture unique était la fourniture d’un vaccin.
+[40] Il ressort clairement de la preuve qui m’a été soumise que c’était le vaccin qui était fourni en échange de la contrepartie (si contrepartie il y avait) que fournissaient les clients. Mme Mayo a déclaré que les clients se présentaient à la clinique pour recevoir un vaccin. Il s’agissait là du but principal de leur visite. La consultation qui avait lieu visait une fin unique : déterminer les vaccins particuliers, s’il y en avait, que le client devait recevoir avant de pouvoir se rendre dans un pays particulier. L’administration du vaccin n’était qu’un élément de la fourniture globale du vaccin.
+[41] Selon la preuve qui m’a été soumise, une fois que l’on décidait quel vaccin, s’il y en avait, les clients devaient recevoir, on déterminait ensuite quelle était la contrepartie à exiger. Cette contrepartie dépendait du ou des vaccins administrés aux clients. Par exemple, comme l’a déclaré Mme Mayo dans son témoignage, si on n’exigeait pas d’elle une contrepartie au moment de l’achat du vaccin, ce dernier était alors administré gratuitement au client. Ce n’était que dans les cas où l’appelante achetait le vaccin moyennant une contrepartie qu’elle exigeait du client qu’il paie une contrepartie pour le vaccin.
+La question no 2 : la taxation des fournitures La taxation de la fourniture de services de consultation [42] Je traiterai tout d’abord de la taxation de la fourniture des services de consultation.
+[43] L’appelante est d’avis que la fourniture des consultations constituait une fourniture exonérée au sens de l’article 6 de la partie II de l’annexe V de la loi sur la TVH, selon le libellé de cet article avant le 27 février 2008. L’intimée est d’avis que la fourniture est une fourniture taxable et qu’elle ne satisfait pas aux conditions de l’article 6 de la partie II de l’annexe V.
+La loi applicable [44] Aux termes de la partie II de l’annexe V, intitulée « Services de santé », un certain nombre de fournitures qu’effectuent les professionnels de la santé et d’autres personnes constituent des fournitures exonérées. Certaines dispositions de l’annexe V sont d’une application générale, tandis que d’autres ont trait aux fournitures qu’effectuent des professionnels de la santé particuliers. Ces fournitures peuvent être exonérées en vertu de plus d’une des dispositions de cette annexe. Ainsi, les services des médecins peuvent être exonérés en vertu des articles 2, 5, 9 ou 10. Les services que fournissent les infirmiers ou les infirmières peuvent être exonérés en vertu des articles 2, 6, 9 ou 10.
+[45] Au cours de la période visée par la cotisation, l’article 6 de la partie II de l’annexe V de la loi sur la TVH était ainsi libellé :
+La fourniture de services de soins rendus par un infirmier ou une infirmière autorisé, un infirmier ou une infirmière auxiliaire autorisé, un infirmier ou une infirmière titulaire de permis ou autorisé exerçant à titre privé ou un infirmier ou une infirmière psychiatrique autorisé, dispensés à un particulier dans un établissement de santé ou à domicile […].
+[46] La seule question que soulève l’intimée en rapport avec l’application de l’article 6 de la partie II de l’annexe V de la loi sur la TVH à la fourniture des consultations que l’appelante a effectuées a trait à la définition d’un « établissement de santé ». L’intimée est d’avis que les services que les infirmières de l’appelante ont fournis aux clients particuliers dans le cadre des consultations n’ont pas été fournis à ces clients dans un « établissement de santé ».
+[47] Le terme « établissement de santé » est défini ainsi à l’article 1 de la partie II de l’annexe V de la loi sur la TVH :
+« établissement de santé »
+a) Tout ou partie d’un établissement où sont donnés des soins hospitaliers, notamment aux personnes souffrant de maladie aiguë ou chronique, ainsi qu’en matière de réadaptation;
+b) hôpital ou établissement pour personnes ayant des problèmes de santé mentale;
+c) tout ou partie d’un établissement où sont dispensés aux résidents dont l’aptitude physique ou mentale sur le plan de l’autonomie ou de l’autocontrôle est limitée :
+(i) des soins infirmiers et personnels sous la direction ou la surveillance d’un personnel de soins infirmiers et médicaux compétent et d’autres soins personnels et de surveillance (sauf les services ménagers propres à la tenue de l’intérieur domestique) selon les besoins des résidents,
+(ii) de l’aide pour permettre aux résidents d’accomplir des activités courantes et des activités récréatives et sociales, et d’autres services connexes pour satisfaire à leurs besoins psycho-sociaux,
+(iii) les repas et le logement.
+L’application du droit aux faits [48] L’avocat de l’intimée a fait valoir que les services que fournissaient les infirmières de l’appelante n’étaient pas dispensés dans un « établissement de santé » car la clinique de l’appelante n’était pas un établissement exploité dans le but de donner des soins « médicaux ». Il a fait valoir que les soins médicaux ne peuvent exister que dans le contexte d’une relation médecin-client et que, de ce fait, les services que fournissaient les infirmières de l’appelante ne constituaient pas des soins médicaux.
+[49] Pour les motifs qui suivent, je ne souscris pas à la position de l’intimée.
+[50] Les mots « soins médicaux » ne sont pas définis dans la loi sur la TVH. Comme l’a déclaré la Cour suprême du Canada, l’interprétation législative d’une loi fiscale doit se faire selon « […] une analyse textuelle, contextuelle et téléologique destinée à dégager un sens qui s’harmonise avec la Loi dans son ensemble […] »[13].
+[51] Le mot « medical » (médical), dans son sens ordinaire, est défini en ces termes dans le Canadian Oxford Dictionary[14] :
+[traduction]
+médical adjectif 1 qui concerne la science ou l’exercice de la médecine en général. 2 qui concerne les affections nécessitant des traitements médicaux et non chirurgicaux […]. 3 qui concerne l’état de santé d’une personne (congé pour raison médicale).
+[52] Le Dorland’s Illustrated Medical Dictionary[15] (le « Dorland’s ») définit ainsi le mot « medical » (médical) :
+[traduction]
+relatif à la médecine ou au traitement des maladies; relatif à la médecine par opposition à la chirurgie.
+[53] Le Dorland’s définit ainsi le mot « medicine » (médicament ou médecine) :
+[traduction]
+1. tout médicament ou remède. 2. l’art et la science du diagnostic et du traitement des maladies et de la préservation de la santé. 3. le traitement d’une maladie par des moyens non chirurgicaux.
+[54] Le Canadian Oxford English Dictionary définit en ces termes le mot « care » (soins) :
+[traduction]
+Soin(s) substantif 1.a processus consistant à s’occuper du bien‑être de quelqu’un ou du bon état de quelque chose; la fourniture des éléments nécessaires à la santé ou à une protection (soin des enfants; soins de santé; soins de la peau) […]
+[55] À mon avis, les mots « soins médicaux », tels qu’utilisés dans la définition d’un établissement de santé à l’article 1 de la partie II de l’annexe V de la loi sur la TVH, signifient que l’on procure à une personne ce qui est nécessaire pour diagnostiquer, traiter ou prévenir une maladie, une lésion ou une autre affection. Cela inclurait les services liés au traitement d’une affection médicale existante, ainsi que les services liés à la préservation de l’état de santé de la personne (comme un examen physique annuel).
+[56] L’intimée a fait valoir que seuls les médecins peuvent fournir des soins médicaux, et non les infirmières ou les infirmiers.
+[57] Les Loi sur les infirmières et infirmiers du Québec[16] définit l’expression « exercice infirmier » en ces termes :
+L’exercice infirmier consiste à évaluer l’état de santé d’une personne, à déterminer et à assurer la réalisation du plan de soins et de traitements infirmiers, à prodiguer les soins et les traitements infirmiers et médicaux dans le but de maintenir la santé, de la rétablir et de prévenir la maladie ainsi qu’à fournir les soins palliatifs.
+[58] Selon moi, cette définition dénote qu’une infirmière ou un infirmier fournit bel et bien des soins médicaux à ses patients.
+[59] La Registered Nurses Act de Terre-Neuve ne définit pas ce qu’est la « nursing practice » (exercice infirmier). Cependant, le Nurse Practitioners Regulations contient des exemples du type de services que les infirmières ou les infirmiers sont autorisés à fournir en vertu de la Registered Nurses Act.
+[60] L’annexe A du Nurse Practitioners Regulations contient une liste de cinq pages de lésions et d’affections pour lesquelles une infirmière praticienne peut fournir des conseils diagnostiques[17]. Ces lésions et ces affections sont groupées sous les rubriques suivantes : yeux, oreilles, nez, voies respiratoires supérieures, autres, voies respiratoires inférieures, maladies cardiovasculaires, maladies vasculaires périphériques, maladies endocriniennes, maladies gastro-intestinales, maladies génito-urinaires, maladies de l’appareil reproducteur, maladies du système tégumentaire, infections et maladies parasitaires, maladies de l’appareil musculosquelettique, maladies du système hématopoïétique, maladies du système nerveux, psychologie et autres. Le règlement précise, pour chaque maladie ou lésion énumérée, si l’infirmière ou l’infirmier est tenu de s’entretenir avec son médecin consultant ou si la consultation est de nature discrétionnaire. La consultation est discrétionnaire pour un grand nombre des maladies et des lésions énumérées.
+[61] L’annexe B du Nurse Practitioners Regulations contient une liste de 33 tests diagnostiques dont l’infirmière ou l’infirmier praticien peut ordonner l’exécution de façon indépendante [traduction] « dans le cadre des soins dispensés aux clients ».
+[62] L’annexe C du Nurse Practitioners Regulations contient une liste de trois pages et demie de médicaments qu’une infirmière ou un infirmier praticien peut prescrire [traduction] « indépendamment ou [qui peuvent être] administrés dans l’exercice des fonctions d’une infirmière praticienne ou d’un infirmier praticien ».
+[63] À l’évidence, une infirmière praticienne, comme l’est Mme Mayo, prodigue des soins médicaux quand elle fournit les services qu’autorise le règlement. L’infirmière diagnostique des maladies, ordonne l’exécution de tests diagnostiques et prescrit des médicaments.
+[64] Comme l’a fait remarquer le Dr Cooper en répondant à une question posée lors de son contre-interrogatoire :
+[traduction]
+[…] Une personne se présente avec une douleur à l’oreille et l’infirmière praticienne rencontre cette personne, obtient les antécédents, découvre que l’enfant a une infection à l’oreille et lui prescrit un antibiotique, et moi, je fais la même chose. Quelle différence y a-t-il? Je suis régi par la Medical Act et elle est régie par une entente en matière de services d’infirmière praticienne, habituellement avec un hôpital comme Eastern Health ou un autre endroit, Western, etc.[18] […]
+[65] L’intimée a fait valoir que sa position selon laquelle seuls les médecins peuvent dispenser des soins médicaux est reconnue à la partie II de l’annexe V de la loi sur la TVH. Elle a fait valoir que [traduction] « étant donné qu’il existe des dispositions d’exonération distinctes pour les soins médicaux et les soins infirmiers, la Loi fait implicitement une distinction entre ces services »[19]. Je ne souscris pas à cet argument. L’article 5 de la partie II de l’annexe V ne s’applique qu’aux fournitures qu’effectuent les médecins (et les dentistes), et l’article 6 de la partie II de l’annexe V ne s’applique qu’aux fournitures qu’effectuent les infirmières et les infirmiers, mais les fournitures qu’effectuent les médecins et les infirmières et infirmiers sont également exonérées en vertu d’autres dispositions de la partie II de l’annexe V. En fait, les articles 2, 9 et 10 de la partie II de l’annexe V peuvent s’appliquer aux services que fournissent soit les médecins, soit les infirmières et infirmiers.
+[66] L’intimée a également fait valoir que sa position était étayée par la décision que la Cour avait rendue dans l’affaire Riverfront Medical Evaluations Ltd. v. The Queen 2001 G.S.T.C. 80 (Riverfront). Je ne considère pas que la décision Riverfront étaye la thèse selon laquelle seuls les médecins peuvent fournir des soins médicaux. Cette affaire mettait en cause une société qui signait des contrats avec des médecins pour qu’ils fournissent des évaluations médicales indépendantes à des sociétés d’assurance et à des avocats. L’analyse du juge Bell était axée sur la question de savoir s’il s’agissait là d’une fourniture exonérée qu’effectuait un médecin. Le juge Bell n’a pas examiné directement la question de savoir si une infirmière ou un infirmier pouvait fournir des soins médicaux.
+[67] En résumé, j’admets que seul un professionnel de la santé qualifié peut fournir des soins médicaux, mais je ne souscris pas à l’argument de l’avocat de l’intimée selon lequel seuls les médecins peuvent le faire. Il ressort clairement de la preuve qui m’a été soumise, et surtout du témoignage du Dr Cooper et de Mme Mayo ainsi que de la législation provinciale pertinente, que les infirmières et infirmiers ont la formation et les compétences voulues pour prodiguer des soins médicaux à leurs clients, et je conclus que c’est effectivement le cas.
+[68] La question à laquelle il faut répondre consiste à savoir si la clinique de Jema était exploitée en vue de fournir des soins médicaux. Autrement dit, les infirmières qui travaillaient à Jema fournissaient-elles des soins médicaux à leurs clients?
+[69] La lettre d’autorisation que Jema a reçue de l’Association of Registered Nurses of Newfoundland indique que les activités qu’exécutent les infirmières sont reconnues comme faisant partie de l’exercice de la profession d’infirmière.
+[70] Le Dr Cooper a déclaré que la majeure partie du travail qu’effectuaient les infirmières était des services de médecine préventive à l’intention de personnes qui avaient l’intention de voyager à l’étranger. Il a signalé que les infirmières administraient également de nombreux vaccins à des personnes âgées.
+[71] Le Dr Cooper a décrit que le travail qu’accomplissaient les infirmières était un processus axé sur l’obtention des antécédents du client sur le plan de la santé. Voici ce qu’il a déclaré :
+[traduction]
+Quand j’ai commencé mes études de médecine, l’une des premières choses que j’ai apprises a été comment m’entretenir avec les gens et obtenir des antécédents et un examen physique appropriés, et on m’a fait bien comprendre à l’époque où j’étais étudiant, et je le fais bien comprendre aussi à nos étudiants, que la chose la plus importante est d’obtenir de bons antécédents à propos des gens, de façon à connaître leur histoire et de savoir qu’il n’y a pas de danger à donner des médicaments et à poser un diagnostic, à évaluer cette personne, et ce travail est fait aujourd’hui également par les infirmières, par les infirmières praticiennes et par les médecins […][20].
+[72] En contre-interrogatoire, le Dr Cooper a signalé qu’une infirmière ou un infirmier seraient tenu de posséder le bagage suivant pour pouvoir choisir et administrer un vaccin (en plus d’être capable d’obtenir les antécédents du clients) :
+- une connaissance générale de l’anatomie;
+- la formation d’une infirmière ou d’un infirmier autorisé;
+- la connaissance des divers types de vaccins et de la façon dont ils sont produits;
+- la connaissance des diverses contre-indications (une affection ou un facteur servant de motif pour ne pas administrer un certain vaccin);
+- des connaissances sur le pays particulier dans lequel se rendra la personne.
+[73] Le Dr Cooper a fait remarquer que de nombreux infirmiers et de nombreuses infirmières (dont deux travaillant à la clinique de Jema) étaient qualifiés comme spécialistes de la médecine des voyages, ce qui obligeait à suivre une formation particulière et à passer un certain nombre d’examens. Il a ajouté que ces infirmières ou infirmiers posséderaient des connaissances [traduction] « nettement supérieures à celle d’un médecin moyen » relativement au choix et à l’administration d’un vaccin[21].
+[74] J’ai déjà résumé quelles sont les activités quotidiennes de la clinique. Ces dernières consistent à obtenir les antécédents du client (ce qui inclut le fait de savoir s’il souffre d’une allergie quelconque et s’il prend des médicaments), à déterminer quels vaccins (s’il y en a) sont exigés ou recommandés pour éviter qu’il tombe malade pendant son voyage, ainsi qu’à administrer les vaccins choisis. Je souscris à la description qu’a faite le Dr Cooper de ces activités : pratiquer la médecine préventive, diagnostiquer d’éventuelles maladies, déterminer l’état de santé du client et administrer des médicaments. À mon avis, ces services constituent des soins « médicaux » car ils sont fournis par du personnel médical formé et sont destinés à préserver l’état de santé du client.
+[75] Pour les motifs qui précèdent, l’installation de Jema constituait bel et bien un « établissement de santé », car il s’agissait d’une installation qui était exploitée en vue de fournir des soins médicaux. De plus, les services de consultation que fournissait Jema constituaient des fournitures exonérées au sens de l’article 6 de l’annexe V de la loi sur la TVH. Les consultations constituaient la fourniture de services infirmiers dispensés par une infirmière autorisée ou un infirmier autorisé à une personne dans un établissement de santé[22].
+La taxation de la fourniture de vaccins [76] La partie I de l’annexe VI de la loi sur la TVH détaxe la fourniture de certains médicaments sur ordonnance et de certaines substances biologiques. L’alinéa 2a) de l’annexe VI détaxe les « drogues » incluses aux annexes C ou D de la Loi sur les aliments et drogues.
+[77] Pendant la période visée par la cotisation, l’annexe D de la Loi sur les aliments et drogues comprenait un certain nombre de « drogues » d’origine biologique comprenant des agents immunisants et des substances allergènes utilisés dans le cadre du traitement ou du diagnostic d’affections allergiques ou immunologiques[23].
+[78] L’appelante a fait valoir que les vaccins qu’elle administrait étaient inclus à l’annexe D de la Loi sur les aliments et drogues. L’intimée n’a pas contesté la position de l’appelante sur ce point, et je suis d’accord avec cette dernière.
+[79] En résumé, la fourniture des vaccins par l’appelante constituait une fourniture détaxée.
+[80] Pour les motifs qui précèdent, l’appel est accueilli et la cotisation datée du 22 juillet 2008 est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, étant entendu que l’appelante a effectué une fourniture exonérée des services de consultation et une fourniture détaxée des vaccins. L’appelante a droit à ses dépens.
+Signé à Ottawa, Canada, ce 29e jour de septembre 2011.
+« S. D’Arcy »
+Juge D’Arcy
+Traduction certifiée conforme
+ce 28e jour de novembre 2011.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2011 CCI 462
+No DU DOSSIER DE LA COUR : 2009-2465(GST)G
+INTITULÉ : JEMA INTERNATIONAL TRAVEL CLINIC INC. ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : St. John’s (Terre-Neuve-et-Labrador)
+DATE DE L’AUDIENCE : Le 1er mars 2011
+MOTIFS DU JUGEMENT : L’honorable juge Steven K. D’Arcy
+DATE DU JUGEMENT : Le 29 septembre 2011
+COMPARUTIONS :
+Avocat de l’appelante :
+Me John Bruce
+Avocats de l’intimée :
+Me Jill Chisholm
+Me Gregory B. King
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : John Bruce
+Cabinet : Bruce & Company
+St. John’s (Terre-Neuve-et-Labrador)
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Mme Mayo et son époux possèdent la totalité des actions de Jema.
+[2] Le certificat est délivré par l’International Society of Travel Medicine.
+[3] Paragraphe 165(1) de la loi sur la TVH.
+[4] Paragraphe 123(1) de la loi sur la TVH.
+[5] Ibidem.
+[6] Ibidem.
+[7] Voir, par exemple, Oxford Frozen Foods Limited v. The Queen, 96 GTC 3180, Club Med Sales Inc. v. The Queen, 97 GTC 1067, Winnipeg Livestock Sales Limited v. The Queen, 98 GTC 2211, Hidden Valley Golf Resort Assn. v. R. 2000 G.S.T.C. 42, 2000 G.T.C. 4104 (C.A.F.) 4104, Gin Max Enterprises Inc. v. The Queen, 2007 CCI 223 et Manship Holdings Ltd. v. The Queen.
+[8] O.A. Brown, au paragraphe 21.
+[9] Ibidem, au paragraphe 22.
+[10] Ibidem, au paragraphe 23.
+[11] Ibidem.
+[12] 2007 CCI 223, [2007] G.S.T.C. 56.
+[13] Hypothèques Trustco Canada c. Canada, 2005 CSC 54, [2005] 2 R.C.S 601, au paragraphe 10.
+[14] The Canadian Oxford Dictionary, 2e éd., (Oxford University Press Canada, 2004).
+[15] 9e éd. (Philadelphie : WB Saunders, 2000).
+[16] Loi sur les infirmières et les infirmiers, L.R.Q., I-8, article 36.
+[17] L’infirmière praticienne est tenue d’entretenir une relation de consultation avec un médecin. Le règlement énumère les situations dans lesquelles on s’attend à ce que l’infirmière consulte le médecin.
+[18] Transcription, pages 30 et 31.
+[19] Observations écrites de l’intimée, au paragraphe 14.
+[20] Transcription, page 10.
+[21] Transcription, page 32.
+[22] Il convient de signaler que si, pour une raison quelconque, Jema ne fournissait pas le vaccin, mais administrait simplement un vaccin qu’un tiers fournissait au client, l’administration de ce vaccin à la clinique aurait été exonérée en vertu de l’article 6 de l’annexe V de la loi sur la TVH.
+[23] Selon le paragraphe 12 du Mémorandum 4.1 de l’ARC intitulé « Médicaments et substances biologiques », l’annexe D inclut les vaccins.

@@ -1,0 +1,213 @@
+---
+title: "Gaudette c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/349039/index.do"
+last_modified: "2018-10-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 CCI 208"
+citation2: ""
+neutral_citation: "2018 CCI 208"
+decision_date: "2018-10-30"
+language: "fr"
+item_id: "349039"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5011
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:43:49.620000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "98b57da75f5c17ea904949b15a58fe2596a7e51e40cc4644a5e05bc2f1b50f69"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gaudette c. La Reine
+
+- Citation: 2018 CCI 208
+- Decision date: 2018-10-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5011, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gaudette c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-10-30
+Référence neutre
+2018 CCI 208
+Numéro de dossier
+2017-961(IT)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2017-961(IT)I
+ENTRE :
+MARTHE GAUDETTE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 12 juin 2018, à Sherbrooke (Québec).
+Devant : L’honorable juge Réal Favreau
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me Grégoire Cadieux
+JUGEMENT
+L’appel à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu datée du 3 février 2017 concernant l’année d’imposition 2014 de l’appelante est admis et la nouvelle cotisation est déférée à la ministre du Revenu national pour nouvel examen et cotisation afin d’accorder à l’appelante le montant de 116 277 $ consenti par la ministre à titre de perte au titre d’un placement d’entreprise pour son année d’imposition 2014 conformément aux motifs du jugement ci-joints.
+Signé à Montréal (Québec), ce 30e jour d’octobre 2018.
+« Réal Favreau »
+Juge Favreau
+Référence : 2018 CCI 208
+Date : 20181030
+Dossier : 2017-961(IT)I
+ENTRE :
+MARTHE GAUDETTE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Madame Marthe Gaudette en appelle d’une nouvelle cotisation établie par la ministre du Revenu national (la « Ministre ») en vertu de la Loi de l’impôt sur le revenu L.R.C. (1985), ch. 1 (5e suppl.), telle que modifiée (la « Loi »), datée du 3 février 2017 concernant l’année d’imposition 2014 de l’appelante.
+[2] En vertu de la nouvelle cotisation du 3 février 2017, la ministre a refusé à l’appelante le montant de 430 000 $ qu’elle a réclamé à titre de perte au titre d’un placement d’entreprise (ci-après « PTPE ») pour son année d’imposition 2014.
+[3] Le montant réclamé à titre de PTPE découle des prêts suivants consentis par l’appelante à la société l’Agora, Recherches et Communications Inc. (ci-après la « Société ») au cours des années d’imposition 1996 à 2000, totalisant 305 000 $.
+Date
+Montant
+1996-11-28
+50 000 $
+1997-07-29
+25 000 $
+1997-08-27
+25 000 $
+1998-06-15
+25 000 $
+1998-09-01
+10 000 $
+1998-12-11
+20 000 $
+1999-01-26
+10 000 $
+1999-03-12
+20 000 $
+1999-06-21
+20 000 $
+1999-10-28
+15 000 $
+1999-12-16
+25 000 $
+2000-01-14
+40 000 $
+2000-01-18
+20 000 $
+Total
+305 000 $
+[4] Au stade de l’opposition à l’encontre de la cotisation initiale du 11 juin 2015 pour l’année d’imposition 2014, l’appelante a confirmé que sa PTPE était de 305 000 $ et non de 610 000 $, tel que déclaré, et elle a demandé un montant additionnel de 125 000 $ relativement à un prêt qu’elle a consenti à la Société le 6 octobre 2005.
+[5] La ministre a refusé la perte réclamée à titre de PTPE parce que les prêts consentis par l’appelante à la Société ne comportaient pas d’intérêts, ni de modalités de remboursement et parce que la Société n’a exercé aucune activité rentable pendant plusieurs années.
+[6] À l’audience, l’avocat de l’intimée a admis l’existence de la créance de l’appelante envers la Société et a admis que la créance de l’appelante est devenue irrécupérable en 2014.
+[7] Madame Gaudette a témoigné à l’audience et a expliqué les circonstances entourant l’octroi des prêts à la Société. Elle a œuvré pendant une vingtaine d’années dans le domaine de l’enseignement au niveau primaire, secondaire et collégial et elle a travaillé pendant 5 ans au ministère de l’Éducation du Québec en effectuant, entre autres choses, de la correction de textes des programmes scolaires. Elle est retraitée depuis 1978 et reçoit un revenu de pension basé sur ses années de travail en tant que fonctionnaire du gouvernement du Québec.
+[8] Au cours de sa vie active et au cours de sa retraite, soit pendant plus de 50 ans, madame Gaudette a réalisé de nombreuses transactions boursières qui lui ont permis d’accumuler un montant de capital important. Les gains réalisés en bourse ont permis à madame Gaudette de consentir les prêts et les emprunts sur marge à la Société dont elle a épousé la cause. Sa motivation était d’aider à combattre l’ignorance qui est la source de tous les maux sur terre.
+[9] La Société publie un magazine trimestriel québécois, fondé en 1993, nommé l’Agora et exploite depuis 1998 une encyclopédie en ligne, L’Encyclopédie de l’Agora.
+[10] Les actionnaires de la Société sont monsieur Jacques Dufresne et sa conjointe, madame Hélène Laberge, qui détiennent une participation de 55 % et 45 %, respectivement, du capital-actions de la Société.
+[11] Madame Gaudette a admis que les prêts qu’elle a consentis à la Société entre 1996 et 2000 au montant de 305 000 $ étaient sans intérêts et sans modalités de remboursement et qu’elle n’avait aucun document démontrant que les sommes avancées étaient des prêts à la Société.
+[12] Les transferts de fonds ci-dessus mentionnés étaient effectués soit par des chèques personnels de madame Gaudette à l’ordre de Hélène Dufresne ou de Hélène Laberge, soit par des chèques à l’ordre de l’appelante tirés sur son compte marge et endossés par cette dernière pour dépôt dans le compte bancaire de Jacques Dufresne et de Hélène Laberge. De fait, les sommes ainsi avancées par madame Gaudette n’ont jamais été comptabilisées dans les livres de la Société.
+[13] Madame Gaudette a dû payer des intérêts sur les retraits effectués sur son compte marge, mais elle n’a jamais reçu de remboursements en capital ou en intérêts de la part de la Société
+[14] D’après la correspondance échangée entre madame Gaudette et monsieur Jacques Dufresne, il semble que les actionnaires de la Société ont considéré madame Gaudette comme une généreuse mécène à l’œuvre de l’Agora, Recherches et Communications Inc. D’ailleurs, madame Gaudette a reconnu avoir rendu des services à la Société pendant 4 années en corrigeant des textes pour l’encyclopédie et pendant 2 ans en tant que responsable de la bibliothèque que la Société a ouverte à North Hatley sans recevoir de rémunération.
+[15] Pour ce qui est du prêt de 125 000 $ consenti par madame Gaudette le 6 octobre 2005 à la Société, madame Gaudette a démontré que :
+a) monsieur Jacques Dufresne et madame Hélène Laberge ont signé pour la Société une reconnaissance de dette en sa faveur au montant de 125 000 $;
+b) ce prêt comportait un taux d’intérêt de 6 % l’an révisable annuellement selon le taux préférentiel en vigueur plus un pour cent (1 %) et était remboursable par des versements mensuels de 940 $, commençant le 1er décembre 2005;
+c) ce prêt était inscrit dans la dette à long terme aux états financiers de la Société et,
+d) le solde impayé sur ce prêt s’établissait à 116 277 $ au 31 août 2014, soit à la date de la fin de l’exercice financier de la Société.
+[16] Madame Gaudette a de plus démontré qu’elle avait retenu les services d’un avocat pour se faire rembourser le capital des prêts totalisant 305 000 $ de même que le solde en capital du prêt de 125 000 $ ainsi que les intérêts impayés sur ce prêt.
+[17] L’intimée a refusé la déduction d’une PTPE sur le montant de 305 000 $ prêté par l’appelante parce que ces prêts n’ont pas été consentis à la Société dans le but de gagner un revenu de bien conformément au sous-alinéa 40(2)g)(ii) de la Loi. Par contre, l’intimée a concédé à l’audience que le prêt de 125 000 $ consenti en 2005 par l’appelante à la Société avait été octroyé dans le but de gagner un revenu de bien et a, par conséquent, accepté la déduction d’une PTPE sur le solde impayé du prêt au 31 décembre 2014, au montant de 116 277 $.
+[18] Les dispositions pertinentes de la Loi pour déterminer le droit à une PTPE sont reproduites ci-après :
+Sous-section c - Gains en capital imposables et pertes en capital déductibles
+Pour l’application de la présente loi :
+[…]
+c) la perte déductible au titre d’un placement d’entreprise d’un contribuable, pour une année d’imposition, résultant de la disposition d’un bien est égale à la moitié de la perte au titre d’un placement d’entreprise que ce contribuable a subie, pour l’année, à la disposition du bien.
+Article 39 : Sens de gain en capital et de perte en capital
+Pour l’application de la présente loi :
+[…]
+c) une perte au titre d’un placement d’entreprise subie par un contribuable, pour une année d’imposition, résultant de la disposition d’un bien quelconque s’entend de l’excédent éventuel de la perte en capital que le contribuable a subie pour l’année résultant d’une disposition, après 1977:
+(i) soit à laquelle le paragraphe 50(1) s’applique,
+(ii) soit en faveur d’une personne avec laquelle il n’avait aucun lien de dépendance, d’un bien qui est :
+(iii) soit une action du capital-actions d’une société exploitant une petite entreprise,
+(iv) soit une créance du contribuable sur une société privée sous contrôle canadien (sauf une créance, si le contribuable est une société, sur une société avec laquelle il a un lien de dépendance) qui est :
+(A) une société exploitant une petite entreprise,
+(B) un failli qui était une société exploitant une petite entreprise au moment où il est devenu un failli pour la dernière fois,
+(C) une personne morale visée à l’article 6 de la Loi sur les liquidations qui était insolvable, au sens de cette loi, et qui était une société exploitant une petite entreprise au moment où une ordonnance de mise en liquidation a été rendue à son égard aux termes de cette loi,
+Article 40 : Règles générales
+(2) Restrictions. Malgré le paragraphe (1) :
+[…]
+g) est nulle la perte subie par un contribuable et résultant de la disposition d’un bien (à l’exclusion, pour ce qui est du calcul du surplus exonéré ou du déficit exonéré, du surplus hybride ou du déficit hybride et du surplus imposable ou du déficit imposable du contribuable relativement à un autre contribuable, dans le cas où le contribuable ou, si celui-ci est une société de personnes, son associé est une société étrangère affiliée de l’autre contribuable, d’un bien qui est un bien exclu, au sens du paragraphe 95(1), du contribuable ou le serait si celui-ci était une société étrangère affiliée de l’autre contribuable), dans la mesure où elle est :
+[…]
+(ii) une perte résultant de la disposition d’une créance ou d’un autre droit de recevoir une somme, sauf si la créance ou le droit a été acquis par le contribuable en vue de tirer un revenu (qui n’est pas un revenu exonéré) d’une entreprise ou d’un bien, ou en contrepartie de la disposition d’une immobilisation en faveur d’une personne avec qui le contribuable n’avait aucun lien de dépendance,
+Article 50 : Créances reconnues comme irrécouvrables et actions d’une société en faillite
+(1) Pour l’application de la présente sous-section, lorsque, selon le cas :
+a) un contribuable établit qu’une créance qui lui est due à la fin d’une année d’imposition (autre qu’une créance qui lui serait due du fait de la disposition d’un bien à usage personnel) s’est révélée être au cours de l’année une créance irrécouvrable;
+b) une action du capital-actions d’une société (autre qu’une action reçue par un contribuable en contrepartie de la disposition d’un bien à usage personnel) appartient au contribuable à la fin d’une année d’imposition et :
+(i) soit la société est devenue un failli au cours de l’année,
+(ii) soit elle est une personne morale visée à l’article 6 de la Loi sur les liquidations, insolvable au sens de cette loi et au sujet de laquelle une ordonnance de mise en liquidation en vertu de cette loi a été rendue au cours de l’année,
+(iii) soit les conditions suivantes sont réunies à la fin de l’année :
+(A) la société est insolvable,
+(B) ni la société ni une société qu’elle contrôle n’exploite d’entreprise,
+(C) la juste valeur marchande de l’action est nulle,
+(D) il est raisonnable de s’attendre à ce que la société soit dissoute ou liquidée et ne commence pas à exploiter une entreprise,
+le contribuable est réputé avoir disposé de la créance ou de l’action à la fin de l’année pour un produit nul et l’avoir acquise de nouveau immédiatement après la fin de l’année à un coût nul, à condition qu’il fasse un choix, dans sa déclaration de revenu pour l’année, pour que le présent paragraphe s’applique à la créance ou à l’action.
+[19] Pour pouvoir déduire une PTPE en vertu des articles 38 et 39 de la Loi, l’appelante doit démontrer qu’elle a subi une perte en capital résultant de la disposition d’un bien. Aux termes de l’article 50 de la Loi, un contribuable est réputé avoir disposé d’une créance qui lui est due à la fin de l’année pour un produit nul si cette créance s’est révélée être irrécouvrable au cours de l’année.
+[20] Dans la présente instance, seul le sous-alinéa 40(2)g)(ii) de la Loi est en jeu ici et il est clair que l’appelante n’a jamais été actionnaire de la Société et n’a jamais eu de perspective de réaliser un revenu de dividendes suite à l’octroi des prêts à la Société.
+[21] L’arrêt Byram c. Canada, 1999 CanLII 7428(CAF) traite spécifiquement de l’application du sous-alinéa 40(2)g)(ii) de la Loi. L’examen requis par cette disposition ne porte que sur le but pour lequel la créance a été acquise, c’est-à-dire dans le but de tirer un revenu d’une entreprise ou d’un bien.
+[22] Selon l’arrêt Byram cité ci-dessus, il n’est pas nécessaire que le contribuable tire directement le revenu de la créance, mais lorsque le contribuable ne détient pas d’actions de la société débitrice, la preuve d’un lien suffisant entre le contribuable et les gains éventuels de la société débitrice est beaucoup plus exigeante.
+[23] Dans la présente instance, les prêts ont été consentis sans documentation (convention de prêt ou billet) et sans modalités précises quant au taux d’intérêt annuel, quant à la durée des prêts ou quant aux modalités de remboursement. L’appelante ne connaît pas l’utilisation des montants qu’elle a prêtés puisque ces derniers n’apparaissent même pas aux états financiers de la Société. Finalement, l’appelante n’a pas pris de mesures pour récupérer les intérêts sur lesdits prêts.
+[24] Dans les circonstances, je ne vois pas comment je pourrais conclure que l’appelante pouvait s’attendre à tirer un revenu des prêts totalisant 305 000 $ qu’elle a consentis à la Société. Par conséquent, l’appelante ne peut avoir droit à la déduction à titre de PTPE sur le montant de 305 000 $ prêté à la Société puisque cette perte est réputée être nulle en vertu du sous-alinéa 40(2)g)(ii) de la Loi.
+[25] Pour ces raisons, l’appel est admis et la nouvelle cotisation est déférée à la ministre pour nouvelle cotisation afin d’accorder à l’appelante le montant de 116 277 $ consenti par la ministre à titre de PTPE pour son année d’imposition 2014.
+Signé à Montréal (Québec), ce 30e jour d’octobre 2018.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE :
+2018 CCI 208
+Nº DU DOSSIER DE LA COUR :
+2017-961(IT)I
+INTITULÉ DE LA CAUSE :
+Marthe Gaudette et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Sherbrooke (Québec)
+DATE DE L’AUDIENCE :
+le 12 juin 2018
+MOTIFS DE JUGEMENT PAR :
+L’honorable juge Réal Favreau
+DATE DU JUGEMENT :
+le 30 octobre 2018
+COMPARUTIONS :
+Pour l’appelante :
+l’appelante elle-même
+Avocat de l’intimée :
+Me Grégoire Cadieux
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelante:
+Nom :
+Cabinet :
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureur générale du Canada
+Ottawa, Canada

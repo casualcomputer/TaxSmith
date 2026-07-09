@@ -1,0 +1,144 @@
+---
+title: "D'Ambrosio v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/67105/index.do"
+last_modified: "2014-03-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 63"
+citation2: ""
+neutral_citation: "2014 TCC 63"
+decision_date: "2014-03-03"
+language: "en"
+item_id: "67105"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5970
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:55:18.450000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b0944c8e1a891c1a9027ecdf3d9bc294c0f61b0d36bcfd5848dacf67c4f98e0a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# D'Ambrosio v. The Queen
+
+- Citation: 2014 TCC 63
+- Decision date: 2014-03-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5970, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+D'Ambrosio v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-03-03
+Neutral citation
+2014 TCC 63
+File numbers
+2012-4041(GST)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2012-4041(GST)I
+BETWEEN:
+ILLO D'AMBROSIO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 14, 2014, at Hamilton, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Agent for the Appellant:
+Lisa D'Ambrosio
+Counsel for the Respondent:
+Gregory B. King
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment number 112525000123602 under the Excise Tax Act, for a New Housing Rebate for Owner-Built Homes is dismissed and the decision of the Minister of National Revenue is confirmed.
+Signed at Ottawa, Canada, this 3rd day of March 2014.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2014TCC63
+Date: 20140303
+Docket: 2012-4041(GST)I
+BETWEEN:
+ILLO D'AMBROSIO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller J.
+[1] This appeal relates to a new housing rebate which Illo D’Ambrosio claimed with respect to the house he built at 49 Hickey Hill Road in Maynooth, Ontario.
+[2] As a preliminary issue, the Respondent brought a motion for an Order to have Daniel D’Ambrosio removed from the style of cause on the basis that he did not have standing before the Court.
+[3] The documentary evidence showed that Illo D’Ambrosio submitted an application dated August 25, 2011 for a new housing rebate for a house at 49 Hickey Hill Road, Maynooth, Ontario (the “Property”). By notice of assessment dated September 21, 2011, he was denied the rebate and he sent an objection dated October 31, 2011 to the Minister of National Revenue.
+[4] Subsection 301(1.1) and section 302 of the Excise Tax Act (the “ETA”) read:
+301(1.1) Objection to assessment -- Any person who has been assessed and who objects to the assessment may, within ninety days after the day notice of the assessment is sent to the person, file with the Minister a notice of objection in the prescribed form and manner setting out the reasons for the objection and all relevant facts.
+302. Appeal [of reassessment directly] to Tax Court -- Where a person files a notice of objection to an assessment and the Minister sends to the person a notice of a reassessment or an additional assessment, in respect of any matter dealt with in the notice of objection, the person may, within ninety days after the day the notice of reassessment or additional assessment was sent by the Minister,
+(a) appeal therefrom to the Tax Court; or
+[5] It is clear from subsection 301(1.1) that it is the person who has been assessed who has the right to object to the assessment. Section 302 provides that the person who objects to an assessment may appeal to the Tax Court. In this appeal, Illo D’Ambrosio filed for the new housing rebate; he was assessed; and he objected to the assessment. Only Illo D’Ambrosio has standing to appeal the notice of assessment issued to him.
+[6] At the hearing of the appeal, I issued the Order that the name Daniel D’Ambrosio shall be struck from the style of cause. The only Appellant in this appeal is Illo D’Ambrosio.
+[7] The Minister of National Revenue (“Minister”) disallowed the claim for the new housing rebate (the “Rebate”) on the basis that the Property was not the primary place of residence for the Appellant or a relation of the Appellant.
+[8] Paragraph 256(2)(a) of the ETA provides:
+Rebate for owner-built homes -- Where
+(a) a particular individual constructs or substantially renovates, or engages another person to construct or substantially renovate for the particular individual, a residential complex that is a single unit residential complex or a residential condominium unit for use as the primary place of residence of the particular individual or a relation of the particular individual, …
+the Minister shall, subject to subsection (3), pay a rebate to the particular individual equal to the amount determined by the formula …
+[9] The Property was jointly owned by the Appellant, his spouse and his three children and the house on the Property was built by them. It is the Appellant’s position that the Property was the primary place of residence for Daniel D’Ambrosio, his son.
+[10] The Appellant and Daniel testified that they purchased the Property on June 5, 2009. According to Daniel, the Property was bought with the intention that they would build a house and eventually have a farm. The Property consisted of approximately 100 acres of land with a dilapidated house. In 2009, they cleared the land of debris and tore down the old house. They started to build a house on the Property in the summer of 2010; and, according to their Construction Summary Worksheet, the date of occupancy for the house was February 1, 2011.
+[11] In his application for the Rebate, the Appellant was required to include one of several listed documents to prove that the Property was occupied. However, he did not include any of the documents listed on the application form and instead he included the 2011 tax bill for the Property. This bill was in the names of the owners but was mailed to the Appellant’s address in Port Colborne rather than to the Property. At the objection stage of this case, the Appellant was again asked to support that the Property was either his primary residence or the primary residence of his relation. He resubmitted the 2011 tax bill for the Property and he also sent a copy of Daniel’s temporary driver’s licence which was issued on October 20, 2011. The driver’s licence showed Daniel’s address as 49 Hickey Road, Maynooth but because the driver’s licence was issued after the Rebate had been denied, the Minister asked the Appellant to send a hydro bill for the Property. On June 7, 2012, the Appellant sent the Minister the hydro bill for the Property. It was in the names of Daniel D’Ambrosio and Maria D’Ambrosio, the Appellant’s spouse, but it was also mailed to the Appellant’s address in Port Colborne.
+[12] At the hearing, both the Appellant and Daniel explained that they had all bills and letters with respect to the Property sent to the Appellant’s address in Port Colborne because there was a problem with the mailing address at the Property. The municipality of Hastings listed the address of the Property for tax purposes as 49 Hickey Road, Maynooth whereas the mailing address for the Property was 49 Hickey Hill Road and even this address was incorrect. The problem with the address for the Property was finally fixed in June 2013. The address is now 329 Hickey Hill Road.
+[13] I accept the explanation concerning the address on the hydro and tax bill. However, that alone did not support the Appellant’s position that the house was constructed for use as Daniel’s primary place of residence. The test in paragraph 256(2)(a) is intention. It is the Appellant’s intention at the time of constructing the house that is relevant. Aside from the testimony of the witnesses, intention can be shown by the actions of the parties and documentary evidence. In Yang v R, 2009 TCC 636, Angers J. listed some of the factors which have been considered by this court in determining what constitutes a primary place of residence. He stated at paragraph 7:
+Some of these factors are the following: the parties' intention with regard to the use of the housing unit as their primary residence; their length of stay at the new unit; the address they use for correspondence; when they moved in and when they moved their personal belongings, and if the move was delayed, what events occurred that caused the delay; details of the insurance coverage; what they did with their former residence or rental unit; and other factors that may be relevant depending on the facts of the case.
+[14] Daniel stated that the Property is his primary residence because it is the only property he owns. This however, is not the test for finding “primary residence” in accordance with the ETA.
+[15] The documentary evidence showed that from 1998 to 2011, Daniel reported to the Canada Revenue Agency (“CRA”) that his mailing address was in Toronto. He actually notified the CRA on February 16, 2011 that his home address had been changed and he provided them with a new address but this too was in Toronto. On June 18, 2012, he reported that his mailing address was the Property.
+[16] Daniel’s T4s showed that from 2002 to 2011 (inclusive) he worked at a pub in Toronto and he lived in Toronto.
+[17] At the hearing, Daniel stated that he now has an apartment in the Danforth area of Toronto. He stated that he spends most of his time in Toronto. He used to work in Toronto but is now unemployed as he is attending school in Toronto. He estimated that, when he was working, he spent 3 days on the weekend at the Property. He stated that he went to the Property on a Saturday and returned to Toronto on Monday or Tuesday. He did not have a vehicle and he went to the Property only on the weekends with the Appellant. After he stopped working, (he did not give a date), he usually spent two days on the weekend at the Property.
+[18] There were no documents to show that Daniel had moved to the Property. The temporary driver’s licence which he submitted was only obtained after the claim for the Rebate was denied and I have given it no weight. His change of address with the CRA in 2012 was also to support his position in this matter.
+[19] The hydro bills submitted to the CRA by the Appellant showed that the average daily usage of electricity for the Property for March 8, 2011 to May 11, 2011 was only 5 kilowatts per day. It increased to 20 kilowatts per day for the summer period, July 11, 2011 to August 11, 2011, but then decreased to an average of 2 kilowatts per day for the period August 11, 2011 to January 10, 2012. I have concluded that the Property was occupied only part time and mainly during the summer months.
+[20] At the time the Appellant constructed the housing unit on the Property, Daniel worked and lived in Toronto. Both the Appellant and Daniel stated that there were no prospects of Daniel obtaining employment in Hastings County where the Property was located. Daniel did not have a vehicle and could not commute to another area for employment. Given this and the fact that the Property is located in an area of Ontario where there are many recreational properties, I find that the Appellant has not shown that, at the time of constructing the house, he intended the Property to be Daniel’s primary residence. Also, he did not submit any documents to support his position that the Property was the primary residence for Daniel.
+[21] I find that the Appellant is not entitled to the Rebate and his appeal is dismissed.
+Signed at Ottawa, Canada, this 3rd day of March 2014.
+“V.A. Miller”
+V.A. Miller J.
+CITATION: 2014TCC63
+COURT FILE NO.: 2012-4041(GST)I
+STYLE OF CAUSE: ILLO D'AMBROSIO AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Hamilton, Ontario
+DATE OF HEARING: February 14, 2014
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: March 3, 2014
+APPEARANCES:
+Agent for the Appellant:
+Lisa D'Ambrosio
+Counsel for the Respondent:
+Gregory B. King
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

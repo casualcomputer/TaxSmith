@@ -1,0 +1,150 @@
+---
+title: "Faucher c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25058/index.do"
+last_modified: "2003-05-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 281"
+citation2: ""
+neutral_citation: "2003 CCI 281"
+decision_date: "2003-05-05"
+language: "fr"
+item_id: "25058"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2533
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:13:57.908000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7ce32faf7e1cec64a24d89d7a098348ff1ed2352322ebdb5ed31c1711c66487e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Faucher c. La Reine
+
+- Citation: 2003 CCI 281
+- Decision date: 2003-05-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2533, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Faucher c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-05-05
+Référence neutre
+2003 CCI 281
+Numéro de dossier
+2001-3668(IT)I
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2001-3668(IT)I
+ENTRE :
+LUCETTE FAUCHER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 3 mars 2003 et jugement prononcé
+oralement sur le banc le 4 mars 2003 à Québec (Québec)
+Devant : L'honorable juge François Angers
+Comparutions :
+Avocat de l'appelante :
+Me Jean H. Lemire
+Avocate de l'intimée :
+Me Marie-Aimée Cantin
+____________________________________________________________________
+JUGEMENT
+L'appel de la détermination de la prestation fiscale pour enfants à l'égard de l'année de base 1999, pour la période de février à juin 2001, est rejeté, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 5e jour de mai 2003.
+« François Angers »
+J.C.C.I.
+Référence : 2003CCI281
+Date : 20030505
+Dossier : 2001-3668(IT)I
+ENTRE :
+LUCETTE FAUCHER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Angers, C.C.I.
+[1] Il s'agit d'un appel par voie de la procédure informelle concernant la prestation fiscale pour enfants. Est-ce que l'appelante était la personne qui assumait principalement la responsabilité pour le soin et l'éducation de sa fille Karen, selon la définition de « particulier admissible » que l'on retrouve à l'article 122.6 de la Loi de l'impôt sur le revenu (la « Loi » ) pour la période de février à juin 2001?
+[2] Un avis de détermination en date du 20 février 2001 du ministre du Revenu national (le « ministre » ) informait l'appelante du refus du ministre de lui accorder la prestation fiscale pour la période en question. Les faits sur lesquels s'est fondé le ministre pour établir cette nouvelle détermination au sujet de la prestation fiscale ont tous été admis par l'appelante, à l'exception du fait que l'appelante avait assumé la garde de sa fille de juillet à octobre 2000.
+[3] L'appelante est donc la mère de Karen Faucher Enright, née le 11 décembre 1986. Son père est M. Patrick Enright. Les parents sont séparés depuis 1994. À partir d'octobre 2000, les parents avaient la garde partagée de leur fille. Ils ont complété le formulaire « Demande de prestation fiscale canadienne pour enfants » . L'appelante a complété le sien en septembre 2000 et le père en octobre 2000. De juillet 2000 à janvier 2001, le ministre a versé la prestation fiscale pour l'enfant à l'appelante. Le père l'a reçue à partir de février 2001, soit le début de la période en litige. Aucun renseignement supplémentaire n'a été fourni par l'appelante à l'agent d'opposition lors de l'examen du dossier. Les formulaires n'ont pas été déposés en preuve.
+[4] Les deux parents ont témoigné. L'appelante s'est occupée de leur fille et en avait la garde jusqu'en 1999. Le père a par la suite eu la garde de Karen pour environ un an, soit jusqu'en mars 2000. À cette date, Karen est retournée vivre avec sa mère jusqu'au 3 octobre 2000, date où une ordonnance intérimaire fut émise par la Cour supérieure du Québec accordant la garde partagée de Karen à titre d'essai, commençant le 8 octobre. Cette ordonnance, dans son préambule, affirme qu'il s'agit du souhait le plus cher de Karen de vivre en alternance, de semaine en semaine, avec chacun des parents.
+[5] Le 18 décembre 2000, une ordonnance sur consentement a été rendue selon laquelle les parties étaient d'accord avec la garde partagée de sorte que Karen allait vivre chez chacun d'eux en alternance d'une semaine à l'autre. Cette même ordonnance établit que pendant 1999 et pendant trois mois de l'an 2000, l'enfant Karen était sous la garde de son père, alors qu'elle était sous la garde de sa mère pendant neuf mois en l'an 2000. La clause 4 de la convention déclare que, malgré la garde partagée, l'appelante est la principale responsable des soins et de l'éducation de l'enfant, conformément aux dispositions de l'article 122.6 de la Loi. Au sujet de cette dernière clause, le père a témoigné y avoir donné son accord, mais a ajouté que les faits et quelqu'un d'autre aurait un jour à prendre cette décision. Il n'a pas apporté d'autres explications sur ce qu'il voulait dire par ce propos.
+[6] Chacun des parents a expliqué sa participation au développement, au bien-être et à l'éducation de leur fille, et chacun d'entre eux a fait valoir son côté de la médaille en tentant évidemment de ternir un peu le côté de l'autre. Dans cet exercice, chacun s'est cependant retrouvé à faire à l'autre des reproches qui ne se sont pas toujours montrés vrais. Je vais me contenter de souligner le témoignage de l'appelante qui disait, en l'absence du père, que ce dernier ne savait probablement pas que sa fille utilisait des moyens de contraception, alors qu'il a clairement témoigné le savoir. Il n'y a pas de doute, malgré cela, qu'il s'agit de deux témoins crédibles, mais dont la perception et l'interprétation des événements de la vie de l'autre eu égard à leur fille diffère selon qui témoigne. Dans l'ensemble, chacun semble apporter une participation importante, de sorte qu'en l'espèce il s'agit beaucoup plus d'une question du degré de la responsabilité pour le soin et l'éducation qu'un particulier admissible doit apporter à la personne à charge.
+[7] La définition de « particulier admissible » se lit comme suit :
+S'agissant, à un moment donné, du particulier admissible à l'égard d'une personne à charge admissible, personne qui répond aux conditions suivantes à ce moment :
+a) elle réside avec la personne à charge;
+b) elle est la personne - père ou mère de la personne à charge - qui assume principalement la responsabilité pour le soin et l'éducation de cette dernière;
+c) elle réside au Canada;
+d) elle n'est pas visée aux alinéas 149(1)a) ou b);
+e) elle est, ou son conjoint visé est, soit citoyen canadien, soit :
+(i) résident permanent au sens de la Loi sur l'immigration,
+(ii) visiteur au Canada ou titulaire de permis au Canada (ces expressions s'entendant au sens de la Loi sur l'immigration) ayant résidé au Canada durant la période de 18 mois précédant ce moment,
+(iii) quelqu'un à qui la Section du statut de réfugié de la Commission de l'immigration et du statut de réfugié a reconnu, avant ce moment, le statut de réfugié au sens de la Convention.
+Pour l'application de la présente définition :
+f) si la personne à charge réside avec sa mère, la personne qui assume principalement la responsabilité pour le soin et l'éducation de la personne à charge est présumée être la mère;
+g) la présomption visée à l'alinéa f) ne s'applique pas dans les circonstances prévues dans des règlements pris par le gouvernement en conseil sur la recommandation du ministre du Développement des ressources humaines;
+h) les critères qui servent à déterminer en quoi consistent le soin et l'éducation d'une personne peuvent être énoncés dans des règlements pris par le gouverneur en conseil sur la recommandation du ministre du Développement des ressources humaines.
+[8] En l'espèce, et tel que je l'ai mentionné, chacun des parents semble rencontrer les critères énumérés ci-haut. Chacun semble apporter à sa fille le soin et l'éducation qu'une personne à charge admissible se doit d'apporter, même si cette participation peut varier quelque peu entre les parents, selon la façon que chacun voit les choses. Dans l'ensemble de la preuve, il n'y a rien qui est ressorti de façon convaincante qui peut me permettre de modifier la détermination du ministre. Les variantes dans le nombre de jours pendant lesquelles Karen est demeurée chez l'un ou l'autre, le nombre de visites au médecin avec un parent ou l'autre ou le nombre de fois que chacun a reconduit l'enfant à ses activités ne sont pas suffisantes, à mon avis, pour faire pencher la balance en faveur de l'appelante. Je crois que la participation du père tant au plan scolaire que personnel selon les critères a été d'une importance suffisante pour me permettre de conclure que la détermination du ministre, qui a penché en faveur du père, était raisonnablement bien fondée.
+[9] L'appel est donc rejeté.
+Signé à Ottawa (Canada), ce 5e jour de mai 2003.
+« François Angers »
+J.C.C.I.
+RÉFÉRENCE :
+2003CCI281
+No DU DOSSIER DE LA COUR :
+2001-3668(IT)I
+INTITULÉ DE LA CAUSE :
+LUCETTE FAUCHER
+et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE DE L'AUDIENCE :
+3 mars 2003
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge François Angers
+DATE DU JUGEMENT :
+5 mai 2003
+COMPARUTIONS :
+Pour l'appelante :
+Me Jean H. Lemire
+Pour l'intimée :
+Me Marie-Aimée Cantin
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelante :
+Nom :
+Me Jean H. Lemire
+Étude :
+PICARD, LEMIRE, ASSELIN, DEMERS
+Québec (Québec)
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

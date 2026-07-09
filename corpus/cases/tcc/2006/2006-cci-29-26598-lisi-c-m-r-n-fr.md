@@ -1,0 +1,292 @@
+---
+title: "Lisi c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26598/index.do"
+last_modified: "2006-02-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 29"
+citation2: ""
+neutral_citation: "2006 CCI 29"
+decision_date: "2006-02-28"
+language: "fr"
+item_id: "26598"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3554
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:51:21.263000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9d7019f4888f0d87c926eb040c07ec3c11c0540e977fef65e649e2532641ddc9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lisi c. M.R.N.
+
+- Citation: 2006 CCI 29
+- Decision date: 2006-02-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3554, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lisi c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-02-28
+Référence neutre
+2006 CCI 29
+Numéro de dossier
+2005-895(EI)
+Juges et Officiers taxateurs
+Sylvio J. Savoie
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2005‑895(EI)
+ENTRE :
+MASSIMO LISI,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu à Montréal (Québec), les 17 et 18 octobre 2005
+Devant : L’honorable S.J. Savoie, juge suppléant
+Comparutions :
+Avocat de l’appelant :
+Me Stephan Fuchs
+Avocat de l’intimé :
+Me Claude Lamoureux
+_________________________________________________________________
+JUGEMENT
+L’appel est accueilli et la décision du ministre est annulée, conformément aux motifs du jugement ci‑joints.
+Signé à Montréal (Québec), ce 28e jour de février 2006.
+« S.J. Savoie »
+Juge suppléant Savoie
+Traduction certifiée conforme
+ce 5e jour de septembre 2006.
+Christian Laroche, LL.B.
+Référence : 2006CCI29
+Date : 20060228
+Dossier : 2005‑895(EI)
+ENTRE :
+MASSIMO LISI,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant Savoie
+[1] L’appel a été entendu à Montréal (Québec), les 17 et 18 octobre 2005.
+[2] Il s’agit d’un appel à l’encontre d’une décision rendue par le ministre du Revenu national (le « ministre ») par laquelle le ministre a informé l’appelant que, quand il travaillait pour 9078‑8134 Québec Inc. (la « payeuse »), du 5 janvier au 15 mai 2004, soit la période en cause, son emploi n’était pas assurable.
+[3] Le ministre a fondé sa décision sur les hypothèses de fait suivantes :
+a) la payeuse a été constituée en personne morale le 17 juin 1999;
+b) la payeuse exploitait un salon de beauté appelé « Tête en Folie »;
+c) trois coiffeuses exerçaient un emploi auprès de la payeuse;
+d) l’appelant à prétendu qu’il était le gérant de la payeuse pendant la période en litige, mais, en réalité, il ne travaillait pas pour elle;
+e) pendant la période en litige, l’appelant n’a reçu aucune rémunération de la payeuse;
+f) l’appelant exploitait une entreprise d’enquête et de sécurité au même endroit où la payeuse exploitait son salon;
+g) le 17 mai 2004, la payeuse a remis un relevé d’emploi à l’appelant, pour la période allant du 5 janvier au 15 mai 2004, dans lequel il était indiqué que l’appelant avait censément touché une rémunération de 21 600 $ et travaillé pendant un total de 1 200 heures assurables;
+h) le relevé d’emploi ne reflète pas la réalité en ce qui concerne l’emploi, la période de travail, les heures travaillées et le salaire gagné par l’appelant.
+[4] L’appelant a ignoré l’hypothèse de fait du ministre contenue à l’alinéa 5a) de la réponse à l’avis d’appel, mais il a admis les hypothèses de fait contenues aux alinéas b), c) et e) et a nié celles contenues aux alinéas d), f), g) et h).
+[5] Jennifer Bryant était coiffeuse au lieu d’affaires de la payeuse, et ce, pendant toute la période pertinente. L’appelant lui avait été présenté comme le gérant de la payeuse.
+[6] Elle a témoigné que l’appelant était toujours présent au lieu d’affaires de la payeuse du lundi au samedi. Selon elle, il faisait [TRADUCTION] « à peu près tout ».
+[7] Suivant les instructions reçues de la payeuse, Mme Bryant a préparé le relevé d’emploi de l’appelant (pièce A‑3), que Mme Galati a signé le 17 mai 2004. Le document indiquait que la période d’emploi de l’appelant était du 5 janvier au 15 mai 2004, que l’appelant avait travaillé pendant 1 200 heures assurables et que le total de sa rémunération assurable était de 21 600 $.
+[8] Amanda Reed, une autre coiffeuse, a témoigné au sujet des tâches de l’appelant. Son témoignage appuie celui de Jennifer Bryant. Elle a également déclaré que l’appelant lui avait été présenté comme le gérant de l’entreprise de la payeuse. Elle a avancé que l’appelant s’occupait de tous les rendez‑vous, tenait la caisse, prenait tous les appels et, de façon générale, accomplissait de nombreuses tâches, que l’appelant précise dans son affidavit reçu en preuve sous la cote R‑5.
+[9] Pour les besoins des présentes, il est utile de reproduire ci‑après la pièce R‑5 :
+[TRADUCTION]
+AFFIDAVIT
+Je soussigné, MASSIMO LISI, domicilié au 26, rue Sauvé, à Châteauguay (Québec), dans le district de Beauharnois, déclare sous serment ce qui suit :
+1. J’ai été embauché comme gérant du salon de beauté « La Tête en Folie » et j’ai commencé à travailler le 5 janvier 2004.
+2. J’ai été congédié le 15 mai 2004.
+3. Je gérais trois employées et j’exécutais, entre autres, les tâches quotidiennes suivantes :
+· ouvrir le salon;
+· déverrouiller le bureau et les salles de bronzage;
+· faire le café;
+· allumer la radio;
+· vérifier les messages sur le répondeur;
+· préparer la caisse pour la journée;
+· passer chercher le courrier à la case postale principale;
+· répondre au téléphone et prendre les rendez‑vous pour les coiffeuses;
+· plier les serviettes;
+· laver les bols, les brosses, les rouleaux et les bandes pour mèches;
+· balayer et laver le plancher;
+· laver les miroirs et les postes des coiffeuses;
+· laver les éviers;
+· laver les lits de bronzage après chaque utilisation par les clients;
+· laver les cendriers;
+· sortir les poubelles;
+· fermer la caisse et la machine de paiement en direct;
+· faire la caisse;
+· inscrire les heures de travail des employés dans le livre de paie;
+· vérifier que l’équipement de coiffure est débranché;
+· verrouiller la porte arrière, la porte du bureau, les salles de bronzage et l’armoire de fournitures;
+· fermer les portes du salon.
+4. Voici, entre autres, mes tâches hebdomadaires :
+· calculer et consigner les ventes hebdomadaires;
+· remplir les fiches de paie pour les employés;
+· télécopier des documents;
+· commander les produits de coiffure;
+· parler avec des représentants de diverses sociétés et rencontrer ces personnes;
+· faire l’inventaire;
+· participer à des consultations pour les extensions de cheveux;
+· se rendre à Montréal pour passer chercher des produits pour le salon;
+· acheter régulièrement des fournitures chez Couche‑Tard, chez Jean‑Coutu et chez Bureau en Gros;
+· remplir les bouteilles de shampooing et de revitalisant;
+· décorer le salon pour les diverses fêtes et enlever les décorations;
+· nettoyer les tablettes et y mettre des produits.
+5. Voici mes heures de travail en tant que gérant :
+· lundi : de 9 h à 17 h;
+· mardi et mercredi : de 9 h à 18 h;
+· jeudi et vendredi : de 9 h à 21 h;
+· samedi : de 8 h à 17 h.
+6. Le salon La Tête en Folie est situé au 233, boulevard St‑Jean‑Baptiste, pièce 92, à Châteauguay, dans la province de Québec.
+7. J’avais un ensemble complet des clés du salon.
+8. Mon salaire chez La Tête en Folie était de 18 $ l’heure ou de 1 080 $ par semaine.
+9. La présidente de La Tête en Folie est Teresa Galati.
+10. Teresa Galati était rarement à son salon.
+11. Teresa Galati me calomnie publiquement en affirmant que je l’ai volée.
+12. Teresa Galati produit des rapports erronés en ce qui a trait à la TPS et à la TVQ.
+13. Tous les faits allégués dans le présent affidavit sont vrais.
+ET J’AI SIGNÉ :
+___________________________
+MASSIMO LISI
+Assermenté devant moi à
+Châteauguay, le 23 juillet 2004
+______________________________#120776
+Filomena Petosa
+Commissaire à l’assermentation pour tous
+les districts judiciaires de la province de Québec
+[10] L’appelant a témoigné que Mme Galati l’avait embauché comme gérant à une fête de veille du jour de l’An et qu’il a travaillé à temps plein pour la payeuse du 5 janvier au 29 mai 2004. Mme Galati, au nom de la payeuse, lui avait promis un salaire de 18 $ l’heure. Il a témoigné qu’il travaillait un total de 60 heures par semaine. Il a présenté une demande indiquant 1 200 heures assurables et une rémunération assurable totale de 21 600 $. L’appelant a dit qu’il avait souvent demandé à la payeuse de lui verser son salaire et que Mme Galati promettait toujours que celui‑ci lui serait versé prochainement. Catherine Hillcoat, la femme de l’appelant, a aussi déclaré qu’elle avait demandé de nombreuses fois à Mme Galati de verser à son mari son salaire, ce à quoi Mme Galati lui répondait : [TRADUCTION] « Ne t’inquiète pas. Les choses seront réglées bientôt ». Voici les heures auxquelles travaillait l’appelant :
+lundi : 9 h à 18 h;
+mardi : 9 h à 18 h;
+mercredi : 9 h à 18 h;
+jeudi : 9 h à 18 h;
+vendredi : 9 h à 18 h;
+samedi : 9h à 17 h.
+[11] Les tâches qu’exerçait l’appelant sont énumérées à la pièce R‑5.
+[12] L’appelant a témoigné qu’une entreprise de sécurité a bien été enregistrée, mais que celle‑ci n’a jamais été en exploitation. L’appelant n’a jamais vu de permis et l’entreprise n’a eu qu’un ou deux clients, en 2003. L’entreprise a été abandonnée. Elle n’a jamais été cautionnée. L’appelant n’a jamais vu de client dans les locaux de cette agence de sécurité. L’appelant et Jennifer Bryant étaient présents lorsque la payeuse, Mme Galati, a signé le relevé d’emploi de l’appelant.
+[13] La pièce A‑7 est une lettre signée par Mme Galati mentionnant qu’à compter du 14 janvier 2003, l’appelant exerçait un emploi de gérant auprès de la payeuse et que son salaire était de 36 000 $ par année. L’appelant respectait les règles établies par Mme Galati, l’unique actionnaire de la payeuse. L’appelant était le seul employé à ne pas recevoir de salaire. Les autres étaient des coiffeuses qui exerçaient leur emploi dans le cadre d’un programme subventionné par le gouvernement selon lequel elles recevaient 60 % de leur salaire de la payeuse et la partie restante du gouvernement du Québec.
+[14] D’autres témoins, comme Zahra Khozouei, ont confirmé que l’appelant était présent dans les locaux de la payeuse. Mme Khozouei travaillait également comme coiffeuse pour la payeuse pendant la période en litige. Elle ne savait pas quelles étaient les tâches de l’appelant, mais elle a dit que celui‑ci était là tous les jours. Une autre coiffeuse, Valerie Ménard, qui louait sa chaise de la payeuse, a dit que de temps à autre, l’appelant travaillait à partir de l’arrière‑salle de l’agence d’enquête. Elle a également déclaré que l’appelant l’aidait à accomplir ses tâches de coiffeuse.
+[15] En ce qui concerne les tâches de l’appelant et la question de savoir si celui‑ci était présent au lieu d’affaires de la payeuse, la Cour a entendu le témoignage de Ludwig Kemp, de Maria Fiocco et de Mme Theresa Galati. Ils ont témoigné pour l’intimé. Leur témoignage contredisait celui des coiffeuses sur ce point, mais j’ai conclu qu’il n’était pas digne de foi.
+[16] Mme Galati a allégué que l’appelant avait des problèmes conjugaux. Elle a dit que l’appelant avait eu une liaison amoureuse avec l’une des coiffeuses. L’appelant et sa femme ont vigoureusement contesté cette allégation. La Cour juge que ces allégations sont totalement dénuées de fondement. Mme Galati a dit qu’elle ne se souvenait pas d’avoir signé la pièce A‑7, soit la lettre confirmant l’emploi de l’appelant et son salaire de 36 000 $ par année, mais qu’elle avait signé quelque chose pour l’appelant à un moment où il était sur le point de perdre sa maison.
+[17] Pour ce qui est du relevé d’emploi de l’appelant, elle a prétendu avoir signé un relevé d’emploi en blanc quand elle était malade. Elle a ensuite déclaré qu’elle avait vu le document en question pour la première fois le 29 mai 2004. Toutefois, l’appelant et Jennifer Bryant ont tous les deux témoigné que Mme Galati avait signé le relevé d’emploi en leur présence. Pour ce qui est de l’agence d’enquête, Mme Galati a admis que l’agence n’avait pas fait d’argent et n’avait eu que deux ou trois clients.
+[18] Lorsqu’elle a été confrontée au témoignage contradictoire de Catherine Hillcoat, la femme de l’appelant, et à celui de l’appelant lui‑même au sujet de l’offre d’emploi qu’elle aurait faite à l’appelant la veille du jour de l’An, elle a tout simplement dit qu’ils mentaient.
+[19] Jennifer Bryant et Amanda Reed ont toutes les deux témoigné qu’elles n’avaient pas les clés du salon de coiffure, ce qui appuie le témoignage de l’appelant selon lequel il ouvrait le salon. En réponse à cela, Mme Galati a dit que les deux mentaient. Pour ce qui est du relevé d’emploi de l’appelant, que Jennifer Bryant a déclaré avoir préparé pour signature par Mme Galati, celle‑ci a dit que Jennifer Bryant mentait. Toutes les employées ou coiffeuses ont déclaré sous serment qu’elles étaient payées en espèces par la payeuse, alors que Mme Galati a témoigné qu’elles mentaient. Elle a dit que Zahra Khozouei mentait lorsqu’elle avait déclaré qu’elle recevait 150 $ par semaine en espèces. Mme Galati été incapable d’expliquer pourquoi elle avait désigné l’appelant comme étant un « employé » dans une déclaration qu’elle avait faite à Monsieur M. St‑Pierre, qui menait une enquête au sujet d’une procédure criminelle introduite par suite d’une plainte selon laquelle Jennifer Bryant et l’appelant avaient été pris à voler des produits de coiffure de la payeuse.
+[20] Mme Galati a terminé son témoignage en affirmant que l’appelant et sa femme avaient menti lorsqu’ils avaient déclaré qu’ils avaient tous les deux réclamé le versement du salaire de l’appelant.
+[21] Mme Galati s’était rendue compte que certains de ses employés considéraient que ses pratiques commerciales étaient douteuses ou même illégales. Elle est devenue craintive et, le 29 mai 2004, elle a congédié Jennifer Bryant en lui disant qu’elle préférait [TRADUCTION] « l’abattre » plutôt que de se faire [TRADUCTION] « abattre » par un mauvais rapport au gouvernement.
+[22] Certains des témoins qui ont témoigné pour l’intimé ont contesté les éléments de preuve présentés à l’appui des allégations de l’appelant selon lesquelles il exerçait un emploi à plein temps auprès de la payeuse, était constamment à son lieu de travail auprès de la payeuse et exerçait les fonctions ainsi que les tâches qu’il avait énumérées dans son affidavit, qui a été reçu en preuve sous la cote R‑5. Je vais examiner brièvement le témoignage de certains de ces témoins.
+[23] Ludwig Kemp, Maria Fiocco et Theresa Galati, en particulier, ont témoigné au sujet de questions à propos desquelles ils avaient aucune connaissance ou une connaissance limitée, comme la présence et les activités de l’appelant au lieu d’affaires de la payeuse, parce qu’ils n’étaient eux‑mêmes pas fréquemment présents sur les lieux, selon des éléments de preuve par ailleurs crédibles. Par conséquent, leur témoignage est devenu suspect.
+[24] Maria Fiocco est la fille de la payeuse. Bien que, naturellement, son témoignage appuie fortement les allégations de sa mère, il est devenu évident à l’audience qu’il n’était pas impartial et franc. En effet, son allégation voulant que l’appelant était rarement présent dans les locaux de la payeuse et le fait qu’elle ait contesté les tâches qu’effectuait l’appelant, telles qu’elles sont énumérées à la pièce R‑5, ont été contredits par un certain nombre de témoins indépendants et crédibles. De plus, son allégation selon laquelle l’appelant avait eu une liaison amoureuse avec l’une des coiffeuses n’était appuyée par aucun autre élément de preuve et a été catégoriquement niée et contredite par l’appelant et sa femme dans leur contre‑preuve.
+[25] Le témoignage de Ludwig Kemp était très contradictoire et, par ailleurs, n’était pas appuyé par le reste des éléments de preuve. Dans l’ensemble, son témoignage était complètement faussé et la Cour conclut qu’il n’était pas digne de foi.
+[26] Il faut malheureusement dire la même chose au sujet du témoignage de Mme Galati. Des témoignages crédibles et corroborés ont permis d’établir qu’elle exploitait ses employés, qu’elle adoptait des pratiques commerciales douteuses et, de façon générale, qu’elle abaissait et humiliait ses employés.
+[27] La preuve permet aussi d’établir que Mme Galati s’opposait souvent aux demandes légitimes de prestations d’emploi que faisaient ses employés. Elle a même déposé des accusations criminelles contre l’appelant et fut responsable de l’ouverture d’une enquête criminelle à son égard. Cependant, l’appelant a été disculpé par une cour municipale du Québec, qui a rejeté les accusations qui pesaient contre lui. De plus, la Cour du Québec a accueilli la demande de l’appelant, pour le salaire impayé et les avantages sociaux connexes, dans un jugement signé par la juge Marie‑Andrée Villeneuve le 10 mai 2005 et déposé en preuve sous la cote A‑1. Le montant en cause était de 23 701,56 $.
+[28] Il s’agit de déterminer si l’appelant exerçait un emploi assurable aux termes de la Loi sur l’assurance‑emploi (la « Loi »). La disposition pertinente se trouve à l’alinéa 5(1)a) de la Loi et est ainsi libellée :
+5. (1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) l’emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d’un contrat de louage de services ou d’apprentissage exprès ou tacite, écrit ou verbal, que l’employé reçoive sa rémunération de l’employeur ou d’une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[...]
+[29] L’alinéa ci‑dessus donne une définition de l’expression « emploi assurable ». Il s’agit d’un emploi exercé aux termes d’un contrat de louage de services. Toutefois, la loi ne donne aucune définition de ce genre de contrat.
+[30] La notion de contrat de louage de services est un concept de droit civil qui se trouve dans le Code civil du Québec (le « Code civil »). La nature du contrat à examiner dans la présente affaire doit donc être déterminée selon les dispositions du Code civil.
+[31] Dans le document Contrat de travail : Pourquoi Weibe Door Services Ltd. ne s’applique pas au Québec et par quoi on doit le remplacer, publié par l'Association de planification fiscale et financière (APFF) et le ministère fédéral de la Justice dans le cadre du deuxième recueil d'études en fiscalité de la série sur l’harmonisation de la législation fédérale avec le droit civil québécois et le bijuridisme canadien, le juge Pierre Archambault de la Cour explique, en ce qui concerne toutes les périodes d’emploi après le 30 mai 2001, l’approche que doivent suivre les tribunaux depuis le 1er juin 2001, date à laquelle l’article 8.1 de la Loi d’interprétation, L.R.C. (1985), ch. I‑21, dans sa version modifiée, est entré en vigueur, lorsqu’il s’agit d’une question comme celle en l’espèce.
+[32] À cet égard, il est utile de suivre l’approche recommandée par le juge Archambault ainsi que le raisonnement qu’il expose dans le document susmentionné. Voici le libellé de l’article 8‑1 de la Loi d’interprétation :
+Propriété et droits civils
+8.1 Le droit civil et la common law font pareillement autorité et sont tous deux sources de droit en matière de propriété et de droits civils au Canada et, s’il est nécessaire de recourir à des règles, principes ou notions appartenant au domaine de la propriété et des droits civils en vue d’assurer l’application d’un texte dans une province, il faut, sauf règle de droit s’y opposant, avoir recours aux règles, principes et notions en vigueur dans cette province au moment de l’application du texte.
+[Non souligné dans l’original.]
+[33] Il est utile de reproduire les dispositions pertinentes du Code civil, qui permettront de déterminer l’existence d’un contrat de travail, par opposition à un contrat d’entreprise :
+Contrat de travail
+2085 Le contrat de travail est celui par lequel une personne, le salarié, s’oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d’une autre personne, l’employeur.
+2086 Le contrat de travail est à durée déterminée ou indéterminée.
+Contrat d’entreprise ou de service
+2098 Le contrat d’entreprise ou de service est celui par lequel une personne, selon le cas l’entrepreneur ou le prestataire de services, s’engage envers une autre personne, le client, à réaliser un ouvrage matériel ou intellectuel ou à fournir un service moyennant un prix que le client s’oblige à lui payer.
+2099 L’entrepreneur ou le prestataire de services a le libre choix des moyens d’exécution du contrat et il n’existe entre lui et le client aucun lien de subordination quant à son exécution.
+[34] Les dispositions du Code civil reproduites ci‑dessus établissent trois conditions essentielles à l’existence d’un contrat de travail : 1) la prestation sous forme de travail fournie par le salarié; 2) la rémunération de ce travail par l’employeur; 3) le lien de subordination. Ce qui distingue de façon significative le contrat de service du contrat de travail, c’est qu’il existe un lien de subordination – le fait pour l’employeur d’avoir un pouvoir de direction ou de contrôle à l’égard du travailleur – dans les contrats de travail.
+[35] Les auteurs de doctrine se sont penchés sur le concept du « pouvoir de direction ou de contrôle » et, inversement, sur celui de la subordination. Voici ce qu’a écrit Robert P. Gagnon dans Le droit du travail du Québec, 5e éd, Cowansville, Éditions Yvon Blais, 2003 :
+c) La subordination
+90 — Facteur distinctif — L’élément de qualification du contrat de travail le plus significatif est celui de la subordination du salarié à la personne pour laquelle il travaille. C’est cet élément qui permet de distinguer le contrat de travail d’autres contrats à titre onéreux qui impliquent également une prestation de travail au bénéfice d’une autre personne, moyennant un prix, comme le contrat d’entreprise ou de service régi par les articles 2098 et suivants C.c.Q. Ainsi, alors que l’entrepreneur ou le prestataire de services conserve, selon l’article 2099 C.c.Q., « le libre choix des moyens d’exécution du contrat » et qu’il n’existe entre lui et son client « aucun lien de subordination quant à son exécution », il est caractéristique du contrat de travail, sous réserve de ses termes, que le salarié exécute personnellement le travail convenu sous la direction de l’employeur et dans le cadre établi par ce dernier.
+[…]
+92 — Notion — Historiquement, le droit civil a d’abord élaboré une notion de subordination juridique dite stricte ou classique qui a servi de critère d’application du principe de la responsabilité civile du commettant pour le dommage causé par son préposé dans l’exécution de ses fonctions (art. 1054 C.c.B.‑C.; art. 1463 C.c.Q.). Cette subordination juridique classique était caractérisée par le contrôle immédiat exercé par l’employeur sur l’exécution du travail de l’employé quant à sa nature et à ses modalités. Elle s’est progressivement assouplie pour donner naissance à la notion de subordination juridique au sens large. La diversification et la spécialisation des occupations et des techniques de travail ont, en effet, rendu souvent irréaliste que l’employeur soit en mesure de dicter ou même de surveiller de façon immédiate l’exécution du travail. On en est ainsi venu à assimiler la subordination à la faculté, laissée à celui qu’on reconnaîtra alors comme l’employeur, de déterminer le travail à exécuter, d’encadrer cette exécution et de la contrôler. En renversant la perspective, le salarié sera celui qui accepte de s’intégrer dans le cadre de fonctionnement d’une entreprise pour la faire bénéficier de son travail. En pratique, on recherchera la présence d’un certain nombre d’indices d’encadrement, d’ailleurs susceptibles de varier selon les contextes : présence obligatoire à un lieu de travail, assignation plus ou moins régulière du travail, imposition de règles de conduite ou de comportement, exigence de rapports d’activité, contrôle de la quantité ou de la qualité de la prestation, etc. Le travail à domicile n’exclut pas une telle intégration à l’entreprise.
+[Renvois omis.]
+[36] Il incombe à la Cour, qui a pour mandat de déterminer le genre de contrat qui lie les parties au Québec, d’adopter l’approche recommandée par le juge Archambault dans le document susmentionné, approche qu’il a lui‑même adoptée dans la décision Vaillancourt c. Canada (ministre du Revenu national – M.R.N.), [2004] A.C.I. no 685, où il a dit ce qui suit :
+À mon avis, les règles régissant le contrat de travail en droit québécois ne sont pas identiques à celles de la common law et, par conséquent, il n’est pas approprié d’appliquer des décisions de common law comme les arrêts Wiebe Door Services Ltd. c. M.R.N., [1986] 3 C.F. 553 (C.A.F.) et 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] 2 R.C.S. 983, 2001 CSC 59 [pour un exposé approfondi des motifs justifiant cette conclusion, voir l’article sur Wiebe Door, précité]. Au Québec, un tribunal n’a pas d’autre choix que de conclure à l’existence ou à l’absence du lien de subordination pour décider si un contrat constitue un contrat de travail ou un contrat de service.
+L’approche qu’il faut suivre est celle adoptée notamment par le juge Létourneau de la Cour d’appel fédérale [voir également Sauvé c. Canada, [1995] A.C.F. no 1378 (Q.L.), Lagacé c. Canada, [1994] A.C.F. no 885 (Q.L.) (C.A.F.), confirmant une décision de la Cour candienne de l’impôt, [1991] A.C.I. no 945 (Q.L.) et Charbonneau c. Canada, [1996] A.C.F. no 1337 (Q.L.). Il faut toutefois mentionner que la Cour d’appel fédérale, dans D & J Driveway et Charbonneau, n’a pas écarté explicitement l’application de Wiebe Door.], qui, dans l’affaire D & J Driveway Inc. c. Canada, (2003), 322 N.R. 381, 2003 CAF 453, a conclu à l’absence d’un contrat de travail en se fondant sur les dispositions du Code civil et, en particulier, en constatant l’absence d’un lien de subordination, lien qui constitue « la caractéristique essentielle du contrat de travail » [par. 16 de la décision].
+[37] J’ai également trouvé utile le raisonnement du juge Dussault de la Cour dans la décision Lévesque c. Canada (ministre du Revenu national – M.R.N.), [2005] A.C.I. no 183, où il devait trancher la question de savoir s’il existait un lien de subordination entre les parties. Il a dit ce qui suit :
+Par ailleurs, dans l’affaire D & J Driveway Inc. c. Canada, C.A.F., no A‑512‑02, 27 novembre 2003, 322 N.R. 381, [2003] A.C.F. no 1784 (Q.L.), le juge Létourneau de la Cour d’appel fédérale affirmait que ce n’est pas parce qu’un donneur d’ouvrage peut contrôler le résultat du travail qu’il existe nécessairement une relation employé‑employeur. Voici comment il s’exprimait à cet égard au paragraphe 9 du jugement :
+Un contrat de travail requiert l’existence d’un lien de subordination entre le payeur et les salariés. La notion de contrôle est le critère déterminant qui sert à mesurer la présence ou l’étendue de ce lien. Mais comme le disait notre collègue le juge Décary dans l’affaire Charbonneau c. Canada (ministre du Revenu national - M.R.N.), [1996] A.C.F. no 1337, [1996] 207 N.R. 299, suivie dans l’arrêt Jaillet c. Canada (ministre du Revenu national - M.R.N.), 2002 CAF 394 (IIJCan), 2002 CAF 394, il ne faut pas confondre le contrôle du résultat et le contrôle du travailleur. Au paragraphe 10 de la décision, il écrit :
+Rares sont les donneurs d’ouvrage qui ne s’assurent pas que le travail est exécuté en conformité avec leurs exigences et aux lieux convenus. Le contrôle du résultat ne doit pas être confondu avec le contrôle du travailleur.
+En l’espèce, existait‑il un lien de subordination entre madame St‑Jules et monsieur Lévesque nous permettant de conclure à la présence d’un contrat de travail? Plusieurs indices peuvent être pris en considération afin de détecter la présence ou l’absence d’un lien de subordination. Dans sa décision dans l’affaire Seitz c. Entraide populaire de Lanaudière inc., Cour du Québec (chambre civile), no 705-22-002935-003, 16 novembre 2001, [2001] J.Q. no 7635 (QL), la juge Monique Fradette de la Cour du Québec a fourni une série d’indices pouvant permettre de déterminer s’il y a subordination ou non. Voici comment elle s’exprimait sur ce point aux paragraphes 60 à 62 du jugement :
+La jurisprudence exige, pour qu’il y ait un contrat de travail, l’existence d’un droit de surveillance et de direction immédiate. Le simple fait qu’une personne donne des instructions générales sur la manière d’effectuer le travail, ou qu’elle se réserve un droit d’inspection et de supervision sur le travail, ne suffit pas à convertir l’entente en un contrat de travail.
+Une série d’indices développée par la jurisprudence permet au tribunal de déterminer s’il y a présence ou non d’un lien de subordination dans la relation des parties.
+Les indices d’encadrement sont notamment :
+- la présence obligatoire à un lieu de travail
+- le respect de l’horaire de travail
+- le contrôle des absences du salarié pour des vacances
+- la remise de rapports d’activité
+- le contrôle de la quantité et de la qualité du travail
+- l’imposition des moyens d’exécution du travail
+- le pouvoir de sanction sur les performances de l’employé
+- les retenues à la source
+- les avantages sociaux
+- le statut du salarié dans ses déclarations de revenus
+- l’exclusivité des services pour l’employeur
+[38] Il faut signaler que la preuve a permis d’établir qu’un certain nombre des indices de supervision susmentionnés étaient présents en l’espèce, dont la présence obligatoire de l’appelant au lieu d’affaires de la payeuse, le respect d’un horaire de travail, le contrôle de la quantité et de la qualité du travail, les moyens d’exécution du travail à employer, etc.
+[39] Le ministre s’est fondé en grande partie sur le fait que l’appelant n’avait aucun document à l’appui de sa demande visant à faire considérer son emploi comme étant un emploi assurable. De plus, une grande importance a été accordée au fait que l’appelant avait omis de prendre des mesures pour recevoir une indemnité adéquate pour le travail qu’il avait accompli pendant la période d’emploi. L’appelant a toutefois expliqué cela à l’audience. Son explication a été corroborée par le témoignage de sa femme. De plus, après sa période d’emploi, l’appelant avait demandé et obtenu un jugement favorable de la Cour du Québec, qui a accueilli sa demande de paiement de la rémunération impayée.
+[40] Il faut préciser que la Commission des normes du travail avait appuyé la demande de paiement de la rémunération impayée faite par l’appelant, mais n’avait pas compétence pour trancher la question du caractère assurable de son emploi. La Cour du Québec, qui a accueilli la demande de paiement de la rémunération impayée, n’avait pas non plus compétence à cet égard.
+[41] Les éléments de preuve présentés à l’audience appuient une conclusion selon laquelle il existait un contrat de travail entre l’appelant et la payeuse. Ce point a été établi par le témoignage de l’appelant et corroboré par celui de sa femme. Bien que Mme Galati ait soutenu que ce contrat verbal n’existait pas, la Cour a rejeté son témoignage parce qu’il manquait de crédibilité.
+[42] Le ministre a conclu que Mme Galati n’avait pas les moyens d’embaucher l’appelant et n’avait surtout pas les moyens de lui payer le salaire que l’appelant réclame, étant donné que son salaire à elle pour 2002 et 2003 était de 7 600 $ et 7 500 $ respectivement. Toutefois, cet argument n’est pas pertinent, parce que la période en cause est en 2004. De plus, la payeuse est 9078‑8134 Quebec Inc. et non Theresa Galati.
+[43] L’allégation selon laquelle l’appelant exploitait une entreprise d’enquête et de sécurité n’était appuyée par aucun élément de preuve. L’entreprise était enregistrée, soit, mais en pratique, elle n’a jamais démarré, été autorisée ou été cautionnée. Si elle a exercé des activités, ce qui n’a pas été établi, elle l’a fait en 2003, ce qui n’est clairement pas pendant la période en cause.
+[44] La Cour a entendu des témoins et apprécié leur crédibilité. Lorsqu’il a rendu sa décision au sujet du caractère assurable de l’emploi de l’appelant, le ministre n’avait pas à sa disposition certains des faits présentés à l’audience.
+[45] Après avoir suivi la démarche prévue par la Loi sur la Cour canadienne de l’impôt et la Loi sur l’assurance‑emploi, la Cour conclut que, pendant la période pertinente, l’appelant exerçait un emploi assurable au sens de l’alinéa 5(1)a) de la Loi.
+[46] Il reste à déterminer le montant de la rémunération assurable de l’appelant. Le montant est déterminé en fonction de la partie I du Règlement sur la rémunération assurable et la perception des cotisations (le « Règlement ») pris en vertu de la Loi sur l’assurance‑emploi ou, plus précisément, en fonction de l’alinéa 2(1)a) et du paragraphe 2(2), dans lesquels il est indiqué ce qui suit :
+2.(1) Pour l’application de la définition de « rémunération assurable » au paragraphe 2(1) de la Loi et pour l’application du présent règlement, le total de la rémunération d’un assuré provenant de tout emploi assurable correspond à l’ensemble des montants suivants :
+a) le montant total, entièrement ou partiellement en espèces, que l’assuré reçoit ou dont il bénéficie et qui lui est versé par l’employeur à l’égard de cet emploi;
+[...]
+(2) Pour l’application de la présente partie, le total de la rémunération d’un assuré provenant d’un emploi assurable comprend la partie impayée de cette rémunération qui n’a pas été versée à cause de la faillite de l’employeur, de sa mise sous séquestre effective ou imminente ou d’un non‑paiement de rétribution à l’égard duquel l’assuré a déposé une plainte auprès de l’organisme fédéral ou provincial de main‑d’œuvre. Est exclu du total de la rémunération tout montant impayé qui se rapporte au temps supplémentaire ou qui aurait été versé en raison de la cessation de l’emploi.
+[47] À l’audience, l’avocat de l’intimé a fait savoir que si la Cour concluait que l’appelant exerçait un emploi assurable, le ministre serait prêt à accepter que le montant de la rémunération assurable de l’appelant soit celui qui avait été fixé par la Commission des normes du travail du Québec.
+[48] Comme je l’ai dit précédemment, la Commission n’avait pas la compétence ou le mandat nécessaire pour décider du caractère assurable de l’emploi de l’appelant, mais elle a statué sur la demande de paiement de la rémunération impayée de celui‑ci.
+[49] Par conséquent, après avoir conclu que l’appelant exerçait un emploi assurable pendant la période pertinente, et vu que le ministre ne s’oppose pas au montant établi par la Commission, la Cour conclut que la rémunération assurable, conformément au Règlement et à la conclusion de la Commission, est la suivante :
+Le taux horaire est établi en fonction de l’échelle du salaire minimum de 7,30 $ à 7,45 $ l’heure pendant la période pertinente. La rémunération assurable de l’appelant est donc de 10 743,32 $.
+[50] Par conséquent, l’appel est accueilli et la décision du ministre est annulée.
+Signé à Montréal (Québec), ce 28e jour de février 2006.
+« S.J. Savoie »
+Juge suppléant Savoie
+Traduction certifiée conforme
+ce 5e jour de septembre 2006.
+Christian Laroche, LL.B.
+RÉFÉRENCE : 2006CCI29
+NO DU DOSSIER : 2005-895(EI)
+INTITULÉ : MASSIMO LISI c. LE M.R.N.
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Les 17 et 18 octobre 2005
+MOTIFS DU JUGEMENT PAR : L’honorable S.J. Savoir, juge suppléant
+DATE DU JUGEMENT : Le 28 février 2006
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Stephan Fuchs
+Avocat de l’intimé :
+Me Claude Lamoureux
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Me Stephan Fuchs
+Cabinet : Stephan Fuchs Châteauguay (Québec)
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

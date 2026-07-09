@@ -1,0 +1,184 @@
+---
+title: "Bacchus v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521264/index.do"
+last_modified: "2024-05-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2024 TCC 62"
+citation2: ""
+neutral_citation: "2024 TCC 62"
+decision_date: "2024-05-08"
+language: "en"
+item_id: "521264"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5759
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-07-13T10:35:40.258000+00:00"
+cases_cited_count: 7
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ce926f68cde64afe9efc9b77f7ad055f20c38306aa5ed740cce95b78b193b82e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bacchus v. The King
+
+- Citation: 2024 TCC 62
+- Decision date: 2024-05-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5759, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bacchus v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2024-05-08
+Neutral citation
+2024 TCC 62
+File numbers
+2022-1991(IT)I
+Judges and Taxing Officers
+Guy R. Smith
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2022-1991(IT)I
+BETWEEN:
+WAYNE A. BACCHUS,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on April 16, 2024, at Halifax, Nova Scotia
+Before: The Honourable Justice Guy R. Smith
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Stan W. McDonald
+Katherine McCarthy
+JUDGMENT
+In accordance with the reasons for judgement delivered orally by teleconference held on May 8, 2024, the appeal from the reassessments made under the Income Tax Act for the 2005, 2006, 2007, 2009, 2012, 2013 and 2014 taxation years, is hereby dismissed. There shall be no order as to costs.
+Signed at Ottawa, Ontario, this 8th day of May 2024.
+“Guy R. Smith”
+Smith J.
+Citation: 2024 TCC 62
+Date:20240508
+Docket: 2022-1991(IT)I
+BETWEEN:
+WAYNE A. BACCHUS,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+TRANSCRIPT OF THE REASONS FOR JUDGMENT
+Smith J.
+[1] I will now deliver my reasons for judgment in this appeal.
+[2] This matter involves an appeal made by the Appellant, Wayne Bacchus, from notices of reassessment made by the Minister of National Revenue in respect of the 2005, 2006, 2007, 2009, 2012, 2013 and 2014 taxation years.
+[3] Mr. Bacchus was initially assessed as filed for those years but the Minister later reassessed him to disallow donation tax credits claimed pursuant to subsection 118.1(1) of the Income Tax Act, R.S.C. 1985,c.1 (5th Supp.) in respect of his participation in the Global Learning Gifting Initiative, also known as GLGI (the “GLGI Program”).
+[4] It is not disputed that he claimed the following amounts, in addition to carry-forwards from previous years for 2006, 2007, 2013 and 2014:
+2005
+2006
+2009
+2012
+Cash donation
+$3,000
+$3,000
+$5,000
+$5,000
+Gift-in-kind
+$15,000
+$15,000
+$25,000
+$30,000
+Total
+$18,000
+$18,000
+$30,000
+$35,000
+[5] The Appellant challenged the Minister’s disallowance of his cash donations. In particular, he alleged that the process by which the reassessments were established was unfair in that CRA failed to interview him to determine his subjective intent to donate and unfairly extrapolated from the subjective donative intent of other participants in the GLGI Program. He argued that there was a breach of the rules of natural justice and the Canadian Charter of Rights and Freedoms.
+[6] At the commencement of the hearing, the Respondent brought a motion to strike the Notice of Appeal, arguing that the Minister’s conduct was not relevant and that the issue before the Court was the correctness of the reassessments.
+[7] Having heard the representations of the parties, the Court struck the offending paragraphs without actually striking the Notice of Appeal, indicating that that it was prepared to hear the Appellant’s evidence and arguments on the issue of his donative intent for the cash donations.
+[8] As framed by the Appellant himself, the issue in this appeal is whether he is entitled to donation tax credits for the cash donations, as described above.
+[9] In the Reply to the Notice of Appeal, the Minister made a number of factual assumptions that I would summarize as follows:
+a)The GLGI Program was set up as a tax shelter that was promoted on the basis that participants would be entitled to receive tax credits equal to 56 – 112% of their cash donation;
+b)Participants were entitled to become capital beneficiaries of a trust and, upon acceptance, would be entitled to receive educational courseware that would then be donated to the charities;
+c)Participants were automatically approved as capital beneficiaries but did not take possession of the courseware. In any event, courseware had no value;
+d)Participants received tax receipts reflecting the value of the cash donation and alleged value of the courseware. Since the courseware had no value, the receipt for the gift-in kind was in fact an inflated tax receipt.
+[10] The Minister took the position that participants in the GLGI Program did not have donative intent because they made cash donations to obtain tax credits that exceeded the value of their cash donation. Accordingly, they actually intended to profit from their cash donation. In the end, all participants relied upon inflated donation receipts since the courseware had no value.
+I. The Evidence
+[11] The Appellant testified on his own behalf. There were no other witnesses.
+[12] At the relevant time, he was working independently as a lawyer. Although he had previously claimed charitable donations of $25 to $100, he had also participated in various charitable activities and donated a substantial amount of time and energy or what he referred to as “sweat equity”.
+[13] He was introduced to the GLGI Program by his insurance agent whom he knew and considered as a friend. He attended his office where he was introduced to a promoter who explained the GLGI Program and provided him with some documentation that he took home to review with his spouse.
+[14] He was initially skeptical but conducted some due diligence and online research to determine if the charities and escrow agents were legitimate. He concluded that they were. He understood that if he made a cash donation, he would be entitled to valuable courseware. As a business-minded individual seeking to get ahead in life for himself and his family, he contemplated how he might take advantage of this opportunity. He later concluded that he had no contractual right to the courseware and that it was best to simply donate it to the charities.
+[15] The Appellant adduced a series of receipts to support his cash donations and argued that he should be entitled to donation tax credits for those amounts because, subjectively, he had donative intent when the donations were made. He argued that he did not knowingly participate in the GLGI Program and that he had been “scammed” by his insurance agent.
+[16] In cross-examinations, Mr. Bacchus acknowledged he had studied in a 2 year accounting program and later completed a law degree. He admitted that GLGI was described to him as a way to give to charity and potentially get an advantage. He understood that GLGI was a tax shelter, that he would get a tax break and save money and admitted he was looking for an advantage. He could not recall any informational brochure or suggestion of a cash-flow advantage.
+II. Analysis
+[17] Having considered the evidence, the Court finds that the Appellant has not established a prima facie case that the Minister’s assumptions were incorrect.
+[18] In particular, the Court finds that the Appellant received the informational brochures describing the GLGI Program that he then reviewed with his spouse. Given his legal and accounting background, the Court finds that he understood there would be a cash-flow advantage in that the value of the courseware would exceed the amount of his cash donation by a ratio of 5:1.
+[19] The Court finds that the Appellant understood that his participation would allow him to receive tax refunds that exceeded the value of his cash donation. Even if the Court accepts that he was initially sceptical, those concerns quickly dissipated as he agreed to participate in the GLGI Program over several years.
+[20] The Court notes that in each year he participated, he signed several documents. This included the application to be approved as a capital beneficiary of the trust, the deed of gift of the cash amount as well as the deed of gift of property. In the latter document, he declared that “he was the sole and exclusive legal and beneficial owner in possession and control of the educational software” and wished to “irrevocably, absolutely and unconditionally gift it to the Charity.”
+[21] The Appellant chose to believe that the courseware had value based on the alleged valuations. Regrettably, that turned out to be false and the actual fair market value was at best nominal. There has been no evidence to the contrary.
+[22] As noted above, the Appellant claims that subjectively, he had the necessary donative intent when the cash donations were made.
+[23] As stated by Justice Iacobucci in Symes v. The Queen [1993] 4 SCR 695 (para. 74) – and I quote - where “purpose or intention behind actions is to be ascertained, it must not be supposed that in responding to this question courts will be guided only by a taxpayer’s statement ex post facto or otherwise, as to the subjective purpose of a particular expenditure. Courts will, instead, look for objective manifestation of purpose, and purpose is ultimately a question of fact to be decided with due regard for all of the circumstances.”
+[24] When considering the objective manifestation of purpose in this instance, the Court finds that the Appellant intended to make the cash donations because of his expectation that he would be entitled to educational courseware valued at 5 times his cash donation. In the end, he chose to put aside his doubts because the alleged donation of the courseware to the charities would allow him to obtain a tax refund that exceeded the value of the cash donation.
+[25] As noted by the Respondent, the Income Tax Act does not define a “gift” but the term has been described in the case law as “a gratuitous transfer of property that is not made in exchange for a financial advantage or benefit”. A necessary element of a gift includes impoverishment for the benefit of a qualified donee. If any of these elements are lacking, donative intent will be vitiated.
+[26] In this instance, despite the fact that the Appellant is clearly out of pocket the cash donations, the Court finds that he did not intend to impoverish himself because the GLGI Program was designed to allow him to obtain tax credits that exceeded the amount of his cash donation.
+[27] The description of the GLGI Program leaves little doubt that the Appellant – along with thousands of other Canadians - participated in an arrangement involving a series of predetermined and interconnected steps. By agreeing to participate and in making the initial cash donation, they were automatically entitled to receive courseware that was allegedly valued at 5 times the value of the cash outlay. This is problematic because the established definition of a “gift” implies that the donor has not received a financial advantage or benefit.
+[28] In Mariano v. The Queen, 2015 TCC 244 (“Mariano”), this Court heard evidence and conducted a thorough review of the GLGI Program. It concluded that the alleged gifts failed because of the financial advantage received by participants. It also concluded that the courseware had no market value. This Court is bound by the Mariano decision based on principles of judicial comity as explained by the Supreme Court of Canada in R. v. Sullivan, 2022 SCC 19 (para. 24).
+[29] The Appellant has not distinguished his personal situation from the taxpayers in Mariano but he claims he should be entitled to claim his cash donation.
+[30] However, in Maréchaux v. The Queen, 2009 TCC 587, Kossow v. the Queen, 2012 TCC 325 and Markou v. The Queen, 2018 TCC 66, this Court concluded that it was not possible to split donations made as part of an arrangement involving a series of predetermined and interconnected steps. These decisions stand for the proposition that it is not possible to consider the cash donations in isolation.
+[31] This was confirmed by the Federal Court of Appeal. In Maréchaux v. Canada, 2010 FCA 287 (para. 12), it agreed with the trial judge’s conclusion that if there is just one interconnected transaction, no part of it can be considered a gift.
+[32] Similarly, in Makou v. Canada, 2019 FCA 299 (para. 60), it concluded that “where a person anticipates receiving tax benefits that exceed the amount or value of an alleged gift, the donative intent is necessarily lacking. Impoverishment being an essential element of a gift under both the civil law and common law, and thus the purported gift constituted by the cash contribution would fail on this account as well.” This disposes of the arguments made by the Appellant.
+III. Conclusion
+[33] The Court adds that it is not a court of equity and as such, it cannot make decisions based on fairness or equitable considerations.
+[34] It also has no jurisdiction to waive interest or penalties where properly applied. To the extent that interest has accumulated over several years, the Appellant is entitled to seek relief under the Taxpayer Relief Program managed by the Canada Revenue Agency and, if necessary, seek judicial review of the Minister’s decisions before the Federal Court.
+[35] The appeal is therefore dismissed. There shall be no order as to costs.
+Signed at Ottawa, Ontario, this 8th day of May 2024.
+“Guy R. Smith”
+Smith J.
+CITATION:
+2024 TCC 62
+COURT FILE NO.:
+2022-1991(IT)I
+STYLE OF CAUSE:
+WAYNE A. BACCHUS v HIS MAJESTY THE KING
+PLACE OF HEARING:
+Halifax, Nova Scotia
+DATE OF HEARING:
+April 16, 2024
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Guy R. Smith
+DATE OF JUDGMENT:
+May 8, 2024
+APPEARANCES:
+For the Appellant:
+Wayne A. Bacchus
+Counsel for the Respondent:
+Stan W. McDonald
+Katherine McCarthy
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+-
+Firm:
+-
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada

@@ -1,0 +1,137 @@
+Title: Adéquat Service Informatique Inc. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26129/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-32-26129-ad-quat-service-informatique-inc-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2005-01-31
+
+# Adéquat Service Informatique Inc. c. M.R.N.
+
+- Citation: 2005 CCI 32
+- Decision date: 2005-01-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4124, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Adéquat Service Informatique Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-01-31
+Référence neutre
+2005 CCI 32
+Numéro de dossier
+2003-2219(EI)
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2003-2219(EI)
+ENTRE :
+ADÉQUAT SERVICE INFORMATIQUE INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+Appel entendu le 8 décembre 2004 à Montréal (Québec)
+Devant : L'honorable juge B. Paris
+Comparutions :
+Avocat de l'appelante :
+Me Serge Fournier
+Avocat de l'intimé :
+Me Mounes Ayadi
+JUGEMENT
+L'appel est admis et la décision rendue par le Ministre est annulée selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 31e jour de janvier 2005.
+« B. Paris »
+Juge Paris
+Référence : 2005CCI32
+Date : 20050131
+Dossier : 2003-2219(EI)
+ENTRE :
+ADÉQUAT SERVICE INFORMATIQUE INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] Il s'agit d'un appel d'une cotisation du ministre du Revenu national (le « ministre » ) en date du 25 mars 1999 émise pour l'année 1996 en vertu de la Loi sur l'assurance emploi (la « Loi » ). La question en litige est de savoir si certains montants versés par l'appelante à ses employés à titre d'allocation d'hébergement pendant l'année 1996 devraient être inclus dans le calcul de leur rémunération assurable pour les fins de la Loi.
+[2] Le paragraphe 3(1) du Règlement sur l'assurance chômage (Perception des cotisations) stipulait au moment pertinent que :
+3.(1) Aux fins de la présente partie, la rémunération d'une personne provenant d'un emploi assurable correspond a toute rétribution, entièrement ou partiellement en espèces, qu'elle reçoit ou dont elle bénéficie et qui lui est versée par son employeur relativement à cet emploi, à l'exception....
+...
+(d) de tout montant qui est exclu du revenu en vertu des alinéas 6(1)a) ou b) ou des paragraphes 6(6) ou (16) de la Loi de l'impôt sur le revenu
+3.(1) For the purposes of this Part, a person's earnings from insurable employment means any remuneration, whether wholly or partly pecuniary, received or enjoyed by him, paid to him by his employer in respect of insurable employment except:
+...
+(d) any amount excluded as income pursuant to paragraph 6(1)(a) or (b) or subsection 6(6) or (16) of the Income Tax Act.
+[3] La demanderesse prétend que les allocations d'hébergement n'avaient pas à être incluses dans le calcul de leur revenu en vertu de la Loi de l'impôt sur le Revenu et qu'en conséquence ces allocations n'avaient pas valeur de rémunération selon le Règlement.
+[4] La preuve révèle que l'appelante, une société québécoise, exploite depuis 1994 une entreprise dans le domaine de l'informatique et fournit des services à des clients à l'étranger, surtout en France. À cette fin, elle recrute des travailleurs au Canada pour travailler en France. Les travailleurs sont pré-sélectionnés au Québec et envoyés en France dans un premier temps pour rencontrer les clients avec qui ils sont sensés travailler. Si le client accepte le travailleur, ce dernier rentre au Québec pour signer un contrat de travail avec l'appelante. Normalement l'appelante embauche les travailleurs pour une période de douze mois, ce qui correspond avec la durée des permis de travail qui sont émis par les autorités françaises.
+[5] Une copie de l'un de ces contrats, entre l'appelante et madame Manon Croteau, en date du 29 septembre 1995, a été déposée en preuve. Selon le témoignage de Michel Teman, président et fondateur de l'appelante, ce contrat était représentatif de tous les contrats de travail exécutés par l'appelante relatifs à la période en litige. Le contrat indique le montant du salaire du travailleur et qu'il recevrait aussi à titre de rémunération additionnelle une allocation d'hébergement mensuelle payable en même temps que le salaire. Le montant de l'allocation d'hébergement a été fixé selon deux critères, le statut conjugal ou familial du travailleur et l'arrondissement dans lequel se trouvait le site de travail. Pour une personne seule le paiement s'établissait à quatre mille francs par mois et pour un travailleur marié s'établissait entre cinq et six mille francs par mois. Ce montant pouvait varier selon le quartier où se trouvait son site de travail. Monsieur Teman n'a pas pourtant donné d'exemple précis de ces dernières variations. L'appelante a établi ces montants en fonction du coût moyen des appartements meublés dans les arrondissements à Paris.
+[6] Le contrat de travail précisait aussi que le travailleur devait se rendre à Paris quinze jours avant le début du travail pour trouver un appartement. Selon monsieur Teman, l'appelante voulait fournir l'hébergement à ses employés mais pour des raisons légales, n'était pas en mesure de le faire. Pour aider les travailleurs, l'appelante maintenait une liste d'appartements meublés disponibles à proximité des lieux de travail des clients, ce que l'appelante proposait aux nouveaux employés. Une équipe administrative de l'appelante vérifiait les termes des baux et le montant du loyer de ces appartements. Il paraît qu'un travailleur avait le choix de prendre un de ces appartements, mais il n'en était pas obligé. Au moment de la signature du contrat de travail, l'appelante exigeait que le travailleur s'engage à utiliser son allocation d'hébergement pour le paiement de son loyer. Les travailleurs fournissaient à l'appelante une attestation solennelle à cet effet. Huit de ces attestations ont été déposées en preuve. Si on renouvelait le contrat de travail, l'appelante demandait une autre attestation solennelle au début du deuxième contrat.
+[7] Monsieur Teman a insisté que si le travailleur déménageait ou se trouvait dans une situation où il n'avait pas à payer un loyer, que l'appelante aurait supprimé le paiement de l'allocation d'hébergement. Pourtant il n'a pas indiqué si l'appelante ne l'a jamais fait. Il a aussi dit que l'appelante aurait su si un travailleur avait changé d'appartement au cours de son contrat parce que l'employé devait fournir sa nouvelle adresse. L'appelante aurait pu apprendre si le courrier adressé au travailleur était retourné à l'appelante suite à un déménagement non signalé par un travailleur.
+[8] En bref, l'avocat de l'appelante soumet que les paiements ne constituent ni un avantage au travailleur au sens de l'alinéa 6(1)a) de la Loi de l'impôt sur le revenu ni une allocation au sens de l'alinéa 6(1)b) de cette Loi. Conséquemment, il dit, les paiements sont exclus du revenu selon ces dispositions et ne peut être de la rémunération assurable étant expressément exclue par l'alinéa 3(1)d) du Règlement.
+[9] Avant de procéder, il serait utile de réviser les parties pertinentes des alinéas 6(1)a) et b) de la Loi de l'impôt sur le revenu :
+Éléments à inclure à titre de revenu tiré d'une charge ou d'un emploi.
+(1) Sont à inclure dans le calcul du revenu d'un contribuable tiré, pour une année d'imposition, d'une charge ou d'un emploi, ceux des éléments suivants qui sont applicables :
+Amounts to be included as income from office or employment.
+(1) There shall be included in computing the income of a taxpayer for a taxation year as income from an office or employment such of the following amounts as are applicable:
+a) Valeur des avantages - la valeur de la pension, du logement et autres avantages quelconques qu'il a reçus ou dont il a joui au cours de l'année au titre, dans l'occupation ou en vertu d'une charge ou d'un emploi, à l'exception des avantages suivants* :
+...
+b) Frais personnels ou de subsistance - les sommes qu'il a reçues au cours de l'année à titre d'allocations pour frais personnels ou de subsistance ou à titre d'allocations à toute autre fin, sauf *:
+...
+a) Value of benefits - the value of board, lodging and other benefits of any kind whatever received or enjoyed by the taxpayer in the year in respect of, in the course of, or by virtue of an office or employment, except any benefit
+...
+(b) Personal or living expenses - all amounts received by the taxpayer in the year as an allowance for personal or living expenses or as an allowance for any other purpose, except
+...
+*(aucune des exceptions stipulées dans ces dispositions ne s'applique en l'espèce)
+[10] Il est évident que, pour l'application du Règlement, tous les avantages et toutes les allocations qu'un employé reçoit d'un employeur et que les alinéas 6(1)a) et b) n'excluent pas du revenu sont de la rémunération assurable.
+[11] Je me pencherai d'abord sur la question de savoir si les versements en cause constituent une allocation payée aux travailleurs de l'appelante. Pour qu'on puisse conclure à une allocation, un versement doit remplir trois conditions. La Cour d'appel fédérale, dans l'arrêt MacDonald c. Canada, [1994] A.C.F. no 378 (QL), a décrit ces conditions dans les termes suivants au paragraphe 14 :
+Néanmoins, il découle des décisions Ransom, Pascoe et Gagnon que le principe général qui permet de définir l'"allocation" pour l'application de l'alinéa 6(1)b) comporte trois éléments. En premier lieu, une allocation est une somme arbitraire, c'est-à-dire une somme déterminée à l'avance sans tenir expressément compte d'une dépense ou d'un coût réel. Cependant, ainsi que je l'ai déjà signalé, le montant de l'allocation peut être établi en fonction d'une prévision ou d'une moyenne des dépenses ou des coûts. En deuxième lieu, l'alinéa 6(1)b) englobe les allocations pour frais personnels ou de subsistance ou pour toute autre fin, de sorte que l'allocation vise habituellement une fin déterminée. En troisième lieu, le bénéficiaire de l'allocation peut en disposer à sa guise, en ce sens qu'il n'est pas tenu de démontrer que l'argent a servi à une dépense ou à un coût réel.
+[12] En l'espèce, l'avocat de l'appelante concède que les versements effectués par l'appelante satisfont aux deux premières des conditions décrites par la Cour d'appel fédérale qui doivent être remplies pour qu'il s'agisse d'une allocation. En ce qui concerne la troisième condition toutefois, a soutenu l'avocat, les travailleurs n'étaient pas libres de disposer à leur guise des sommes versées. Il affirme que les travailleurs en l'espèce étaient obligés de se servir de ces sommes pour le paiement de leur loyer et, du fait d'avoir donné à l'appelante les attestations solennelles, devaient rendre compte de l'utilisation de l'argent. En conséquence, conclut-il, une fois reçues les sommes en question, les travailleurs n'avaient pas toute liberté d'en disposer à leur guise.
+[13] Je suis d'accord avec l'avocat de l'appelante sur ce point. À mon avis, l'appelante a soumis à une condition le versement de l'allocation d'hébergement aux travailleurs, celle-ci ne devant servir qu'à l'acquittement du loyer. En signant l'attestation solennelle, les travailleurs acceptaient cette condition et ils auraient eu à rendre compte de l'utilisation des fonds si l'appelante le leur avait demandé. Autrement dit, les travailleurs n'avaient pas le choix quant à la manière dont ils pouvaient dépenser l'argent qui leur était payé à titre d'allocation d'hébergement.
+[14] Je ne vois aucune raison de ne pas ajouter foi au témoignage de monsieur Teman selon lequel l'appelante aurait cessé de verser l'allocation d'hébergement à un travailleur si elle avait appris que ce dernier ne s'en servait pas pour payer son loyer. Je conclus donc que les travailleurs n'étaient pas libres de disposer des versements comme bon leur semblait et que, cela étant, les sommes en cause ne représentaient pas une allocation et n'avaient pas à être incluses dans le revenu en vertu de l'alinéa 6(1)b) de la Loi de l'impôt sur le revenu.
+[15] Il me reste à décider si les montants en question étaient des avantages reçus par les travailleurs dans l'exercice de leur emploi en vertu de l'alinéa 6(1)a) de la Loi. Dans l'arrêt Dionne c. Canada, 97 D.T.C. 265, le juge Archambault a révisé la jurisprudence pertinente et a conclu qu'un remboursement ou un paiement reçu d'un employeur ne constitue pas un avantage visé par l'alinéa 6(1)a) de la Loi si le remboursement vise plutôt à réparer un préjudice subi par l'employé en raison de l'emploi. Il déclare à la page 271 que:
+en réparant un préjudice subi par un employé, l'employeur ne fait que le rétablir dans la situation où il se trouvait avant qu'il n'ait subi ce préjudice. Si on aborde la question de déterminer si un remboursement constitue un avantage sous cet angle, je crois qu'il devient plus facile de déterminer dans quelle mesure un remboursement doit être inclus dans le revenu d'un contribuable ou, inversement, exclu de son revenu
+[16] Le procureur de l'appelante soumet que les travailleurs devaient, en vertu de leur emploi avec l'appelante, assumer les frais reliés au maintien de deux résidences, une au Québec et l'autre à Paris. Il dit qu'un paiement par l'appelante pour défrayer les coûts additionnels reliés au maintien de la résidence à Paris n'a pas enrichi l'employé mais a simplement réparé le préjudice subi par le travailleur en raison de son emploi.
+[17] Le procureur de l'intimé prétend que la preuve présentée par l'appelante est insuffisante pour me permettre de conclure qu'on obligeait les travailleurs à garder une résidence au Québec. De plus, il dit que les paiements servaient à défrayer le coût du loyer, ce qui est de sa nature une dépense personnelle. Par ce fait, les paiements constituent un avantage aux travailleurs.
+[18] Je suis satisfait que les travailleurs étaient dans l'obligation selon la Loi Française de maintenir une résidence au Québec afin d'avoir droit à un permis de travail pour la période de leur séjour en France. Le témoignage de monsieur Teman n'a pas été contredit et aucune preuve sur ce point n'a été présentée par l'intimé. En fait, l'intimé admet dans les présomptions de fait sur lesquelles le ministre s'est basé en cotisant l'appelante, que « la plupart des employés de l'appelante, en déplacement, ont conservé leur résidence au Canada » .
+[19] J'accepte que monsieur Teman soit au courant des exigences légales pour l'obtention d'un permis de travail vu que l'activité principale de l'appelante était de fournir les travailleurs canadiens en informatique à des clients Français. Alors pour être en conformité avec la Loi qui régissait leur présence en France, les travailleurs devaient garder leur résidence au Québec.
+[20] Les travailleurs de l'appelante étaient en France pour le bénéfice de l'appelante et non pour leur bénéfice personnel. Leur présence en France sur une base temporaire était requise par l'appelante pour travailler auprès des clients et occasionnait des dépenses supplémentaires aux travailleurs. Il me semble que, comme dans l'exemple suivant donné par le juge Archambault dans l'arrêt Dionne (à la page 271) les coûts associés au maintien d'une résidence temporaire à Paris en plus d'une résidence au Québec serait un préjudice subi par les travailleurs et que l'allocation d'hébergement visait à remédier à ce préjudice :
+Avant de poursuivre plus loin, il faut reconnaître que le remboursement par l'employeur d'une dépense personnelle de l'employé devrait généralement constituer un avantage pour les fins de l'alinéa 6(1)a) de la Loi. Le meilleur exemple demeure encore celui de la "pension" ou du "logement" visé par l'alinéa 6(1)a). Toutefois, cela n'est pas nécessairement toujours le cas. Prenons l'exemple d'un employeur de Montréal qui envoie son représentant à Vancouver négocier un contrat qui nécessite un séjour d'une semaine. Personne ne conteste que le remboursement des dépenses d'hôtel et de restauration ne constitue pas un avantage visé par cet alinéa. Pourtant, manger et dormir comptent parmi les activités les plus personnelles d'un individu. Il s'agit manifestement de dépenses personnelles de l'employé. Pourquoi aucun avantage ne découle de leur remboursement? Tout simplement parce que ce représentant n'en tire aucun avantage. Sans ce remboursement, le représentant subirait un préjudice. Il se trouve à Vancouver pour le bénéfice de son employeur et non pour le sien. Il possède son logement à Montréal et il doit continuer à en assumer les frais. Le fait de coucher dans un hôtel de Vancouver n'enrichit d'aucune façon son patrimoine ni n'améliore sa situation. Quant aux frais de restauration, on considère qu'il n'y a aucun avantage parce que cet employé n'a pas accès à sa propre cuisine pour se nourrir. Le fait qu'il puisse économiser le coût de la nourriture qu'il aurait consommée chez lui est plutôt minime par rapport aux coûts de restauration, aussi l'ignore-t-on pour les fins de l'alinéa 6(1)a) de la Loi.
+[21] Pour résumer, je conclus que même si des coûts reliés au logement d'un individu seraient normalement considérés des dépenses personnelles, dans les circonstances de ce cas, le remboursement ne constitue pas un avantage aux travailleurs. Le remboursement de ces coûts ne leur procurait pas d'avantage et ne les enrichissait pas, mais simplement les indemnisait pour les frais additionnels encourus à cause de leur travail.
+[22] Pour tout ces motifs l'appel est accordé.
+Signé à Ottawa, Canada, ce 31e jour de janvier 2005.
+« B. Paris »
+Juge Paris
+RÉFÉRENCE :
+2005CCI32
+No DU DOSSIER DE LA COUR :
+2003-2219(EI)
+INTITULÉ DE LA CAUSE :
+Adéquat Service Informatique Inc. et M.R.N.
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+le 8 décembre 2004
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge B. Paris
+DATE DU JUGEMENT :
+le 31 janvier 2005
+COMPARUTIONS :
+Pour l'appelant(e) :
+Me Serge Fournier
+Pour l'intimé(e) :
+Me Mounes Ayadi
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant(e) :
+Nom :
+Me Serge Fournier
+Étude :
+Pour l'intimé(e) :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

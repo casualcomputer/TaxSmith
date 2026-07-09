@@ -1,0 +1,263 @@
+---
+title: "Pellerin v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28473/index.do"
+last_modified: "2008-02-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 60"
+citation2: ""
+neutral_citation: "2008 TCC 60"
+decision_date: "2008-02-08"
+language: "en"
+item_id: "28473"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1238
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:33:23.408000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "19d1d8c3287f9002ab30683692a552936f48197cda74eb5c468ac4f59f381dc9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Pellerin v. The Queen
+
+- Citation: 2008 TCC 60
+- Decision date: 2008-02-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1238, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pellerin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-02-08
+Neutral citation
+2008 TCC 60
+File numbers
+2005-2757(IT)G
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-2757(IT)G
+BETWEEN:
+COLETTE PELLERIN,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+___________________________________________________________________
+Appeal heard on December 12, 2007 at Québec, Quebec
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel for the Appellant:
+Claude Vallières
+Counsel for the Respondent:
+Claude Lamoureux
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under subsection 160(1) of the Income Tax Act, notice of which is dated September 24, 2004 and bears the number 32061, is dismissed, with costs to the Respondent, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 8th day of February 2008.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 4th day of April 2008.
+Brian McCordick, Translator
+Citation: 2008TCC60
+Date: 20080208
+Docket: 2005-2757(IT)G
+BETWEEN:
+COLETTE PELLERIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal from an assessment made under section 160 of the Income Tax Act ("the Act").
+[2] The issues are as follows:
+(a) Did Pierre Gauthier transfer to the Appellant the $69,238.81 concerned by the assessment in dispute?
+(b) Is the Appellant jointly and severally liable for Pierre Gauthier’s tax debt (described in paragraph 28(v) of the Reply to the Amended Notice of Appeal) in the amount of $69,238.81?
+[3] The assessment under appeal was based on the following assumptions of fact, set out in paragraphs 27 and 28 of the Reply to the Notice of Appeal.
+[TRANSLATION]
+(27) On May 12, 2005, the MNR confirmed the said assessment on the following grounds:
+Pierre Gauthier, who transferred $69,238.81 to you on October 1, 2002, was required to pay the following amounts under the Act in respect of the transfer year or a preceding taxation year:
+Federal tax
+Penalties
+Interest
+Total
+$91,117.10
+$40,100.44
+$95,774.33
+$226,991.87
+Pursuant to subsection 160(1), you and Pierre Gauthier are jointly and severally liable to pay an amount equal to the lesser of the amount, if any, by which the fair market value of the property at the time it was transferred exceeds the fair market value at that time of the consideration that you gave for the property, and the total of all amounts that the transferor is liable to pay under the Income Tax Act in or in respect of the taxation year in which the property was transferred or any preceding taxation year. Since the fair market value of the property transferred exceeded the fair market value of the consideration given for the property, an assessment in the amount of $69,238.81 was made in accordance with subsection 160(2).
+(28) In making and confirming the assessment at issue, the MNR assumed the following facts:
+(a) Pierre Gauthier is the Appellant’s son.
+(b) Édith Gendron is the spouse of Pierre Gauthier.
+(c) On November 18, 1996, Édith Gendron purchased a building located at 261 Rue des Trembles in Victoriaville (Lot 51-5-14, assessment roll of the Parish of Sainte Victoire, Arthabaska registration division).
+(d) Over the years, Édith Gendron became indebted to Pierre Gauthier in the amount of $100,000.
+(e) On May 21, 1998, Édith Gendron granted a mortgage of $100,000 on the said building to Pierre Gauthier to guarantee repayment of the debt.
+(f) On May 9, 2002, Édith Gendron sold the said building for $89,000.
+(g) On May 13, 2002, the executing notary issued a cheque to Édith Gendron in the amount of $72,334.96.
+(h) The same day, Édith Gendron endorsed the cheque and gave it to Gérald Labonté, the purchaser of the said building.
+(i) The same day, Gérald Labonté endorsed the cheque and deposited it in his bank account (account #114115-9 01 of the Laurentian Bank of Canada).
+(j) The same day, Gérald Labonté withdrew $72,334.96 from his bank account and had the Laurentian Bank issue a bank draft in the same amount to Pierre Gauthier.
+(k) The same day, Pierre Gauthier endorsed the bank draft and deposited it in the Appellant’s bank account (account #71-51136 of the Canadian Imperial Bank of Commerce).
+(l) Pierre Gauthier has a general power of attorney that allows him to effect all bank transactions on the Appellant’s bank account.
+(m) The same day, Pierre Gauthier withdrew $7,334.96 from the Appellant’s bank account.
+(n) The next day, Pierre Gauthier withdrew $20,000 (200 $100 bills) from the Appellant’s bank account.
+(o) On May 23, 2002, Pierre Gauthier withdrew $45,000 from the Appellant’s bank account.
+(p) On October 1, 2002, Pierre Gauthier deposited $64,200 (100 $50 bills and 592 $100 bills) in the Appellant’s bank account.
+(q) The same day, Pierre Gauthier deposited $5,048.81 (16 $50 bills, 42 $100 bills and $48.81 in change) in the Appellant’s bank account.
+(r) The same day, through a judicial sale, the Appellant purchased the building located at 83 Rue Allie in Victoriaville (Lot 53‑93, assessment roll of the Parish of Sainte Victoire, Arthabaska registration division) from François Fortier, a bailiff representing the firm Fortier, Tourigny, for $73,900.
+(s) The same day, the Appellant issued a cheque for $69,238.81 payable to Fortier, Tourigny in trust.
+(t) The cheque was drawn on her Canadian Imperial Bank of Commerce bank account #71-51136.
+(u) The same day, Pierre Gauthier endorsed the cheque and had the Canadian Imperial Bank of Commerce issue a bank draft in the same amount payable to Fortier, Tourigny in trust.
+(v) As of September 24, 2004, Pierre Gauthier was liable to the MNR for the following amounts:
+Taxation
+year
+Federal
+tax
+Penalty
+Interest
+Total
+1995
+1996
+1997
+1998
+2003
+Total
+$36,590.40
+$21,017.72
+$10,985.34
+$22,634.97
+($111.33)
+$91,117.10 $
+$20,228.91
+$3,573.01
+$5,492.67
+$10,805.85
+$40,100.44
+$51,576.37
+$18,322.83
+$10,089.87
+$15,785.26
+$95,774.33
+$108,395.68
+$42,913.56
+$26,567.88
+$49,226.08
+($111.33)
+$226,991.87
+[…]
+[4] The Appellant admitted to all of the facts taken into consideration, with the exception of the following four paragraphs:
+[TRANSLATION]
+(d) Over the years, Édith Gendron became indebted to Pierre Gauthier in the amount of $100,000.
+(e) On May 21, 1998, Édith Gendron granted a mortgage of $100,000 on the said building to Pierre Gauthier to guarantee repayment of the debt.
+[...]
+(w) The $69,238.81 deposited on October 1, 2002 in the Appellant’s bank account (see paragraphs 22 (p) and (q) of this reply) belong to Pierre Gauthier.
+(x) The Appellant did not give any consideration to Pierre Gauthier in exchange for the $69,238.81 deposited on October 1, 2002 in her bank account (see paragraphs 22(p) and (q) of this reply).
+[5] The Appellant and Édith Gendron testified. At the start of her testimony, the Appellant indicated that she had lied and made a false and untruthful sworn statement when she initially stated during questioning by the Canada Customs and Revenue Agency that the money used to purchase the building located at 83 Rue Allie in Victoriaville came from her personal savings. At the hearing, she stated that the money actually came from her son’s spouse and that this time, [s]he was telling the truth.
+[6] She stated that she had become involved in managing the affairs of her son, Pierre Gauthier, and his spouse, Édith Gendron, to enable them to live normally. She explained that her son was unable to function because he was the subject of legal action for debt collection and, in particular, for a large tax debt.
+[7] As for Pierre Gauthier's spouse, she was also the subject of legal action by her former spouse for outstanding child support, as he had custody of the children.
+[8] She explained that, in order to help them out, she initially opened a bank account at the CIBC (Canadian Imperial Bank of Commerce) and gave her son general power of attorney allowing him to use the account in question as though it was his own.
+[9] She acknowledged buying the residence at 83 Rue Allie in Victoriaville to enable her son and his spouse to live a normal life.
+[10] Contrary to what she had said before under oath during questioning, she claimed before the Court that the purchase had been made with money from her son's spouse and not with her own money. Lastly, she stated that she never received anything and never enjoyed any benefit, except for the reimbursement of small expenses such as gas, travel expenses, etc.
+[11] Pierre Gauthier's spouse stated that she purchased the residence at 83 Rue Allie in Victoriaville with her own funds. She claimed that she had this money from the sale of a decorating business, which she had owned, the sale of her automobile, and lastly, the sale of the residence that she had occupied with her former spouse before moving to Quebec.
+[12] Although it was her responsibility to demonstrate that she was in fact the owner of the capital required to purchase the residence at 261 Rue des Trembles in Victoriaville, Ms. Gendron produced nothing to support her statements that she owned this capital.
+[13] However, she did state without hesitation that the $100,000 mortgage on the said building was totally fictitious because she did not actually owe anything to Pierre Gauthier, the mortgage holder.
+[14] She claimed that she took this step to protect herself from possible recourse by her former spouse to collect the child support which she owed and which she did not want to pay.
+[15] She indicated that she could not have a bank account for this reason, despite the fact that she owned and operated an exotic dancer bar with her new spouse. She also informed the Court that she had used her sister as a nominee for this business to avoid a tax debt that she owed and which was related to the operation of the bar.
+[16] She explained that the residence at 261 Rue des Trembles in Victoriaville belonged to her and that the fake mortgage held by her spouse, Pierre Gauthier, was written off on November 13, 2000 (Exhibit A‑1).
+[17] Still worried about having her property seized, she decided to sell off the building quickly after agreeing to the write-off of the mortgage.
+[18] Since the asking price was very low, the real estate broker decided to purchase the building himself.
+[19] A cheque was made out to her. Believing that she could not negotiate the cheque, she endorsed it and gave it to the buyer, who then prepared another bank instrument, but one made out to Pierre Gauthier this time.
+[20] Pierre Gauthier deposited the amount in the CIBC account opened by the Appellant, his mother. He immediately made an initial withdrawal of $7,334, which he gave to his spouse. The next day, on May 14, 2002, he made another withdrawal of $20,000 and on May 23, 2002, nine days later, he withdrew $45,000 from the account.
+[21] Ms. Gendron stated that all of the amounts withdrawn were given to her and that she put them in a safe firmly set in concrete in the basement of her house.
+[22] She testified that she kept the money in this location for several months before giving it to the Appellant, who allegedly used it to purchase the building at 83 Rue Allie in Victoriaville.
+[23] Ms. Gendron also admitted to pleading guilty to charges under the Criminal Code.
+[24] From the testimony of the collection officer, the Court learned that Ms. Gendron did not have just one account, at the National Bank, but also a second account at a credit union outside Victoriaville, into which a cheque for a large sum of money from an insurance policy had been deposited, following a fire. Ms. Gendron confirmed this.
+[25] For her part, the Appellant claims that she never received anything from her son, Pierre Gauthier. In other words, she claims that there was never a transfer of any property from her son to her, and that she cannot be assessed under section 160 of the Act.
+[26] There is no doubt that if there is no transfer, there can be no assessment under section 160 of the Act. This is a fundamental aspect of the case.
+[27] The Appellant had the burden of providing the Court with reasonable, credible and plausible evidence in support of her claim.
+[28] What of this evidence? The only two witnesses for the Appellant admitted lying under oath, admitted having participated in a range of stratagems to launder considerable sums of money and to prevent their creditors, notably tax authorities, from recovering the amounts owed to them.
+[29] I recall the clear statement by the Appellant that she had lied while testifying under oath. As for the spouse of the Appellant's son, she stated that the $100,000 mortgage debt in favour of Paul Gauthier was totally fictitious. She also claimed that the Appellant's title document for the residence at 83 Rue Allie in Victoriaville was also fictitious.
+[30] The Court rejects these testimonies on the grounds that the explanations given are not credible. The same holds true for Ms. Gendron's statement that she had in hand the money to purchase the building on Rue des Trembles as a result of the sale of her business, her automobile and another residence. She did not provide any documentary evidence in support of her testimony.
+[31] Indeed, unlike profits from gambling, the provenance of which is difficult to prove, these were transactions for which it was possible to provide written evidence; I am thinking in particular of the contract of sale for the business, the sale of the automobile, her purchase agreement, the divorce decree and various agreements.
+[32] These constitute evidence that could have and should have been adduced to establish Ms. Gendron’s true financial capacity at the time that she purchased the building at 261 Rue des Trembles in Victoriaville.
+[33] The Appellant claims there was no transfer of property between her and her son, Pierre Gauthier. This testimony contradicts a genuine act, namely the writing off of the mortgage on November 13, 2000.
+[34] The Appellant also alleges that, at the time of the sale of the building at 261 Rue des Trembles, the payment to Ms. Gendron was subsequently altered and the money was deposited in an account, then withdrawn, not by her but by Pierre Gauthier. Which account was it? The Appellant's? Who used the money to purchase another building? The Appellant's testimony cannot be considered reliable in the circumstances.
+[35] One would have to be naïve to accept the Appellant's interpretation, which has not serious basis. The only interpretation that can be drawn from the evidence is that the Appellant, her son and his spouse have no credibility; they are close accomplices who are prepared to do anything to avoid facing their creditors, mainly the tax authorities.
+[36] To achieve their goal, they do not hesitate to lie, have notarial instruments prepared that are completely false, and invent all sorts of outlandish and totally implausible explanations.
+[37] Why should the Court believe that the mortgage was fictitious? Why would Ms. Gendron's title deed not also be fictitious? The deposit into the Appellant's account of funds from the sale of the building on Rue Allie allegedly did not belong to her? On what basis?
+[38] I do not believe any of the evidence from the testimony of the Appellant and her son's spouse.
+[39] Moreover, I am convinced that the true owner of the building on Rue des Trembles was Pierre Gauthier himself and that he used both his spouse and his mother, the Appellant, to avoid meeting his tax obligations.
+[40] Pierre Gauthier decided to sell the building in question, the proceeds of the sale were transferred to the Appellant's account, and the Appellant used the money to purchase the building on Rue Allie. Nothing that was done through the use of nominees (the Appellant and Édith Gendron) is enforceable against third parties, in this case the Respondent. Further, the cash transfers to the Appellant's bank account were in fact transfers within the meaning of section 160 of the Act.
+[41] The Appellant claimed that this money did not belong to her son but to his spouse, Édith Gendron.
+[42] For the Court to accept such a claim, adequate and credible evidence needed to be adduced. This is not the case. None of the explanations given by the Appellant party is credible, certainly not the famous fictitious mortgage under the terms of which the Appellant's son was owed $100,000.
+[43] Why would it not have been instead a guarantee that her son acquired to protect his capital against the possibility of Édith Gendron leaving, since her reliability and credibility were doubtful to say the least, given the manner in which she assumed her responsibilities?
+[44] Why did the proceeds of the sale pass through the hands of the Appellant's son if he had no title to the property sold?
+[45] In light of the evidence, I can accept absolutely none of the explanations adduced, which are not reliable. They are implausible and far‑fetched.
+[46] I accept from the evidence on which my judgment is based the clearly established fact that the Appellant's son held a mortgage of $100,000, that the property was sold and that the proceeds of the sale were deposited in the Appellant's bank account, and that the Appellant used the money to purchase another building.
+[47] These are hard facts, well established by the evidence, demonstrating that there was indeed a transfer without consideration.
+[48] All of the conditions required for section 160 of the Act to apply are present and the assessment made against the Appellant made under those same provisions is valid.
+[49] Accordingly, the appeal is dismissed with costs to the Respondent.
+Signed at Ottawa, Canada, this 8th day of February 2008.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 4th day of April 2008.
+Brian McCordick, Translator
+CITATION:
+2008TCC60
+COURT FILE NO.:
+2005-2757(IT)G
+STYLE OF CAUSE:
+Colette Pellerin and Her Majesty the Queen
+PLACE OF HEARING:
+Québec, Quebec
+DATE OF HEARING:
+December 12, 2007
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Alain Tardif
+DATE OF JUDGMENT :
+February 8, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Claude Vallières
+Counsel for the Respondent:
+Claude Lamoureux
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+Claude Vallières
+Vallières & Vogt
+City:
+Victoriaville
+For the Respondent :
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

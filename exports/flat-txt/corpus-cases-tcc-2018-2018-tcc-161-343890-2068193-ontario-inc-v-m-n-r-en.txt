@@ -1,0 +1,192 @@
+Title: 2068193 Ontario Inc v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/343890/index.do
+Corpus path: corpus/cases/tcc/2018/2018-tcc-161-343890-2068193-ontario-inc-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2018-09-05
+
+# 2068193 Ontario Inc v. M.N.R.
+
+- Citation: 2018 TCC 161
+- Decision date: 2018-09-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4927, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+2068193 Ontario Inc v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-09-05
+Neutral citation
+2018 TCC 161
+File numbers
+2017-917(EI)
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Employment Insurance Act
+Decision Content
+Dockets: 2017-917(EI),
+2017-919(CPP)
+BETWEEN:
+2068193 ONTARIO INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Appeals heard on May 1, 2018, at Hamilton, Ontario.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Agent for the Appellant:
+Jerry Franco
+Counsel for the Respondent:
+Rhoda Lemphers
+JUDGMENT
+The appeals from the Minister of National Revenue’s decision that Mr. Terry Rosbrook was employed in insurable and pensionable employment with the appellant in a contract of service during the period from March 9 to December 31, 2015 within the meaning of paragraph 5(1)(a) of the Employment Insurance Act and paragraph 6(1)(a) of the Canadian Pension Plan are dismissed in accordance with the attached Reasons for Judgment.
+Signed at Montreal, Quebec, this 5th day of September 2018.
+“Réal Favreau”
+Favreau J.
+Citation: 2018 TCC 161
+Date: 20180905
+Dockets: 2017-917(EI)
+2017-919(CPP)
+BETWEEN:
+2068193 ONTARIO INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Favreau J.
+[1] These are appeals from a decision of the Minister of National Revenue (the “Minister”) dated November 10, 2016 that Mr. Terry Rosbrook (the “Worker”) was engaged in a contract of service with the appellant and that the Worker was, during the period from March 9 to December 31, 2015 (the “Period”), in insurable and pensionable employment within the meaning of paragraph 5(1)(a) of the Employment Insurance Act, S.C. 1996, c. 23 (the “EIA”) and paragraph 6(1)(a) of the Canada Pension Plan, R.S.C., 1985, c. C-8 (the “CPP”).
+[2] In making his decision, the Minister relied on the following assumptions of fact:
+(a) the Appellant operated an automobile repair shop; (agreed)
+(b) the Appellant operated under the trade name Franco’s Automobile Service and Repair; (agreed)
+(c) the Appellant was a corporation; (agreed)
+(d) the majority shareholder of the common voting shares owning 99% was Jerry Franco (“Jerry”); (agreed)
+(e) the Appellant’s business was open from 8:00 am to 5:00 pm Monday to Friday and 8:00 am to 2:00 pm on Saturdays; (agreed)
+(f) the Worker was hired as a mechanic for the Appellant; (agreed)
+(g) the Worker started working for the Appellant on March 9, 2015; (agreed)
+(h) the Worker and the Appellant entered into a verbal contract in the province of Ontario; (agreed but they signed a written contract after a day or two)
+(i) the Worker was a licensed mechanic since 1981; (agreed)
+(j) the Worker’s duties were to do oil changes, brake jobs and vehicle repairs; (agreed)
+(k) the Worker did not have a key to the Appellant’s shop and did not have free access to the shop; (agreed)
+(l) the Worker had to work within the Appellant’s business hours; (agreed)
+(m) the Appellant assigned the Worker’s duties; (agreed)
+(n) the Worker was instructed on the use of the Appellant’s equipment by the Appellant; (agreed)
+(o) the Worker’s hours ranged from 20 to 36 hours per week during the Period; (agreed)
+(p) the Worker had a continuous working relationship with the Appellant; (agreed)
+(q) the Worker was paid a wage of $25.00 per hour; (agreed)
+(r) the Worker was paid by cheque made out in his personal name; (agreed)
+(s) the Worker was paid weekly; (agreed)
+(t) the Appellant engaged two other mechanics during the 2015 year; (denied)
+(u) the Appellant engaged the two other mechanics as employees; (denied as written; the appellant had two employees in prior years)
+(v) the two other mechanics were paid the same wage as the worker at $25 per hour (denied)
+(w) the Worker provided his own small hand tools;
+(x) the Appellant provided the Worker with the larger mechanic tools and machines ex. alignment machine and vehicle lift, supplies and a diagnostic computer; (agreed)
+(y) the Appellant did not charge a fee to the Worker for the use of the Appellant’s tools, supplies, machines or the use of the Appellant’s facilities; (agreed)
+(z) the Worker was required to personally perform his services for the Appellant; (denied)
+(aa) the Worker could not hire helpers or replacements (denied)
+(bb) the Worker did not incur expenses in the performance of his duties for the Appellant; (agreed)
+(cc) the Worker was covered under the Appellant’s insurance; (denied because the Worker had his own insurance)
+(dd) theAppellant provided the guarantee to its customers on the work that was done by the Worker; (agreed after inspection by him)
+(ee) the Appellant was ultimately responsible for all customer complaints; (agreed)
+(ff) the Worker performed his services for the Appellant’s clients; (agreed)
+(gg) the Worker had a registered HST account with the Agency; (agreed)
+(hh) the Worker’s HST account was closed before the Period; (ignored)
+(ii) the Worker did not report and remit any HST to the Agency during the Period; (ignored) and
+(jj) the Worker’s business activity was Farming, Beef Cattle and Feedlot; (ignored)
+[3] The only issue here is to determine whether the Worker was an employee and was engaged in insurable and pensionable employment with the appellant during the Period.
+[4] Mr. Jerry Franco testified at the hearing and he entered into evidence an Independent Contractor Agreement signed by him on March 6, 2015 as president of 2068193 Ontario Inc. O/A Franco’s Automotive Services Repairs (the “Company”) and by Mr. Terry Rosbrook as contractor on the same day (the “Agreement”).
+[5] The Agreement specified, among other things, that:
+· the term of the Agreement shall begin on March 6, 2015 and remain in effect until such time that both parties agree, in writing, to terminate the contract;
+· the Contractor will provide repairs and services to automobiles and trucks;
+· the Contractor shall take direction from Jerry Franco or as directed by the Company’s board of directors;
+· the Contractor will be paid the sum of $25 per hour upon completion of his services plus HST. The Company will be invoiced weekly with payment due within 10 business days of receipt of the invoice;
+· the Contractor will provide his services to the Company as an independent contractor and not as an employee;
+· the Contractor is free to set his own hours of work and accordingly, determine his days off. The Contractor states that he will not provide services on Fridays but is available to work other days that he deems fit;
+· the Contractor is free to hire another party to either do the work or help to do the work, and will pay the costs for doing so;
+· the Contractor is free to provide services to other clients, so long as such other clients are not in competition with the Company and so long as there is no interference with the Contractor’s contractual obligations to the Company;
+· the Contractor will provide his own small tools and equipment required for the work and as such the Contractor may retain the tools required on site for storage at no charge. In the case of larger equipment, such as lifts, engine hoists, scanners and tire balancer machine, the Contractor may use the equipment with the permission of the Company free of charge, providing that the services are performed on behalf of the Company;
+· the Company may terminate the Agreement at any time at its sole discretion upon providing the Contractor five (5) calendar days advance written notice of its intention to do so or payment of fees in lieu thereof;
+· the Contractor may terminate the Agreement at any time at its sole discretion upon providing the Company five (5) calendar days advance notice of the Contractor’s intent to do so. Upon receipt of such notice, the Company may waive the notice in which case the Agreement shall terminate immediately.
+[6] During his testimony, Mr. Franco also entered into evidence samples of invoice from Mr. Rosbrook showing the date of the invoice, the name of the company to whom the services were provided, a description of the services rendered, the number of working hours, the amount claimed for the services and the amount of Harmonized Sales Tax charged.
+[7] During his cross-examination, Mr. Franco explained that, to his knowledge, the Worker never hired a replacement and that the Worker was not working on a full-time basis. He did not work on Fridays and Saturdays. The appellant scheduled the appointments with its clients and called the Worker when it needed assistance.
+[8] The Worker had to keep track of his working hours as he was paid in accordance with the number of hours claimed.
+[9] The Worker’s income for 2015 was reported on a T4A slip. Mr. Franco did not remember what the Worker’s income for 2015 was.
+The Legislative Framework
+[10] The definition of “insurable employment” under the EIA for the purpose of this appeal is set out in paragraph 5(1)(a) of that legislation, which reads as follows:
+Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+[11] Paragraph 6(1)(a) of the Canada Pension Plan provides that “pensionable employment” is employment in Canada that is not excepted employment. The term “employment” is defined in subsection 2(1) thereof. The list of excepted employment is set out in paragraph 6(2) which is not pertinent for the purposes of these appeals.
+[12] Paragraph 2(1) reads as follows:
+In this Act,
+“employment” means the state of being employed under an express or implied contract of service or apprenticeship, and includes the tenure of an office;
+[13] Paragraph 6(1) reads as follows:
+Pensionable employment is
+(a) employment in Canada that is not excepted employment;
+. . .
+Analysis
+[14] The test that is to be applied in determining whether a worker is engaged in employment is summarized in 1392644 Ontario Inc. c. Minister of National Revenue, 2013 FCA 851 (F.C.A.) at paragraphs 38 to 41:
+[38] Consequently, Wolf and Royal Winnipeg Ballet set out a two step process of inquiry that is used to assist in addressing the central question, as established in Sagaz and Wiebe Door, which is to determine whether the individual is performing or not the services as his own business on his own account.
+[39] Under the first step, the subjective intent of each party to the relationship must be ascertained. This can be determined either by the written contractual relationship the parties have entered into or by the actual behaviour of each party, such as invoices for services rendered, registration for GST purposes and income tax filings as an independent contractor.
+[40] The second step is to ascertain whether an objective reality sustains the subjective intent of the parties. As noted by Sharlow J.A. in TBT Personnel Services Inc. v. Canada, 2011 FCA 256, 422 N.R. 366 at para. 9, "it is also necessary to consider the Wiebe Door factors to determine whether the facts are consistent with the parties' expressed intention." In other words, the subjective intent of the parties cannot trump the reality of the relationship as ascertained through objective facts. In this second step, the parties intent as well as the terms of the contract may also be taken into account since they colors the relationship. As noted in Royal Winnipeg Ballet at para. 64, the relevant factors must be considered "in the light of" the parties' intent. However, that being stated, the second step is an analysis of the pertinent facts for the purpose of determining whether the test set out in Wiebe Door and Sagaz has been in fact met, i.e whether the legal effect of the relationship the parties have established is one of independent contractor or of employer-employee.
+[41] The central question at issue remains whether the person who has been engaged to perform the services is, in actual fact, performing them as a person in business on his own account. As stated in both Wiebe Door and Sagaz, in making this determination no particular factor is dominant and there is no set formula. The factors to consider will thus vary with the circumstances. Nevertheless, the specific factors discussed in Wiebe Door and Sagaz will usually be relevant, such as the level of control over the worker's activities, whether the worker provides his own equipment, hires his helpers, manages and assumes financial risks, and has an opportunity of profit in the performance of his tasks.
+Intention
+[15] The first question to consider is the intent of the parties. Acording to the testimony of Mr. Franco, the parties clearly intended an independent contractor relationship. The evidence reveals that the parties treated the relationship as an independent contractor relationship. No source deduction for tax was withheld from the remuneration paid to the Worker and the Worker provided invoices which included the Harmonized Sales Tax.
+[16] The next step is to consider the Wiebe Door factors to determine whether the facts are consistent with the parties’ expressed intention. The relationship of parties who enter into a contract is generally governed by that contract. However, the legal effect that results from that relationship, whether it is an employer/employee relationship or an independent contractor relationship, is not a matter which the parties can simply stipulate in a contract. It is not because it is stated in a contract that the services are provided as an independent contractor, that make it so.
+Control
+[17] In this instance, I find that the control factor strongly favours an employer/employee relationship.
+[18] The Worker performed his services for the appellant’s clients. The appellant scheduled the appointments with its clients, organized the working hours of the Worker and assigned him the tasks to be done. The Worker had no autonomy to make major repairs.
+[19] The Worker had to work within the appellant’s business hours on the appellant’s premises and had to use the appellant’s equipment.
+[20] The Worker had a continuous working relationship with the appellant. His working hours ranged from 20 to 36 hours per week and he earned a wage of $25 per hour and was paid weekly.
+[21] The Worker did not have a key to the appellant’s shop and did not have access to the shop anytime.
+[22] The appellant provided a guarantee to its customers on the work done by the Worker after inspection by Mr. Franco. Ultimately, Mr. Franco was the person responsible for all customer complaints.
+[23] The Worker was covered under the appellant’s insurance and Mr. Franco was not sure if the Worker had his own insurance.
+[24] The appellant employed two other mechanics as employees in prior years and they were paid $25 per hour.
+[25] During the period, the Worker personally rendered his services to the appellant and did not hire helpers or replacements.
+[26] The fact that the Worker could work for other shops on Fridays and Saturday and the fact that the Worker kept track of his working hours and invoiced the appellant with Harmonized Sales Tax are not sufficient to establish an independent contractor relationship with the appellant.
+Provision of Equipment
+[27] The Worker used his own small hand tools but had to use the appellant’s big mechanic tools and machines such as the alignment machine, the vehicle lift, the supplies and a diagnostic computer in the performance of his duties. The appellant did not charge a fee to the Worker for the use of its tools, supplies, machines or its facilities.
+[28] Provision of the necessary equipment by the appellant to the Worker to perform his duties without charging any fee, clearly indicates an employer/employee relationship.
+Opportunity of Profit and Risk of Loss
+[29] The Worker could increase his income only by working longer hours. He was paid on an hourly basis. The Worker did not retain the ability to adjust his pay through his hours of work. The degree of control exercised by the appellant over the Worker’s schedule prevented him from realizing this benefit.
+[30] The Worker did not realistically have a risk of loss in performing his duties for the appellant. The Worker was not required to take any financial risks nor was he required to make any investments in the form of capital assets or specialized equipment.
+[31] This factor also favours an employer/employee relationship.
+Conclusion
+[32] When considered as a whole, the evidence clearly suggests that the legal relationship between the appellant and the Worker was in a manner consistent with that of an employer/employee relationship. Irrespective of the terms of the Independent Contractor Agreement, the Worker was not operating an independent business on his own account.
+[33] For all these reasons, the appeals are dismissed.
+Signed at Montreal, Quebec, this 5th day of September 2018.
+“Réal Favreau”
+Favreau J.
+CITATION:
+2018 TCC 161
+COURT FILE NO.:
+2017-917(EI)
+STYLE OF CAUSE:
+2068193 Ontario Inc. and M.N.R.
+PLACE OF HEARING:
+Hamilton, Ontario
+DATE OF HEARING:
+May 1, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Réal Favreau
+DATE OF JUDGMENT:
+September 5, 2018
+APPEARANCES:
+Agent for the Appellant:
+Jerry Franco
+Counsel for the Respondent:
+Rhoda Lemphers
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

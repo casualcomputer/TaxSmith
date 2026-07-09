@@ -1,0 +1,124 @@
+Title: Teng v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/73120/index.do
+Corpus path: corpus/cases/tcc/2014/2014-tcc-248-73120-teng-v-the-queen-en.md
+Document type: case_law
+Last modified: 2014-08-12
+
+# Teng v. The Queen
+
+- Citation: 2014 TCC 248
+- Decision date: 2014-08-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5203, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Teng v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-08-12
+Neutral citation
+2014 TCC 248
+File numbers
+2005-1135(IT)G
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-1135(IT)G
+BETWEEN:
+TIE TENG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal called for hearing on July 9, 2014, at Toronto, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Counsel for the Appellant:
+George Alatopulos
+Counsel for the Respondent:
+Sharon Lee
+JUDGMENT
+Whereas Counsel for the Appellant was retained only to request an adjournment in this appeal, and the adjournment is denied;
+Whereas no one appeared for the Appellant when the appeal was called, although a notice of the time and place of the hearing was sent to the Appellant at his last known address and was not returned;
+Whereas no one appeared on his behalf;
+Upon motion made by counsel for the Respondent requesting the dismissal of the appeal for want of prosecution;
+The motion is allowed and the appeal is dismissed in accordance with section 18.21 of the Tax Court of Canada Act.
+Costs of $9,943.43 in this matter are awarded to the Respondent.
+Signed at Halifax, Nova Scotia, this 12th day of August 2014.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2014TCC248
+Date: 20140812
+Docket: 2005-1135(IT)G
+BETWEEN:
+TIE TENG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller J.
+[1] The issue in this appeal is whether the Minister of National Revenue properly reassessed the Appellant by including the amounts of $124,441 and $233,161 in his income for the 1999 and 2000 taxation years respectively. The Minister reassessed the Appellant beyond the statutory time limit and he levied gross negligence penalties.
+[2] The Respondent has brought a motion for an Order to dismiss this appeal pursuant to sections 64 and 140 of the Tax Court of Canada Rules (General Procedure) (the “Rules”) on the grounds that the Appellant failed to prosecute his appeal with due dispatch and he failed to appear at the hearing of his appeal. In support of her motion, counsel for the Respondent relied on the affidavit of Carla Riley Green, a legal assistant in the Tax Law Services Section of the Department of Justice in Toronto, Ontario.
+[3] The facts that I have relied on in these reasons were taken from the Court record and the affidavit filed with the motion. The history of this appeal is lengthy. As can be seen from the history listed below, the Appellant has had numerous extensions of time to report to the Court concerning the status of his appeal and his ability to prosecute his appeal. This Court has tried to accommodate the Appellant because of the predicament he found himself in. Each time the Appellant refused to proceed with his appeal.
+[4] The Appellant instituted his appeal on April 11, 2005. When the Court notified the parties by letter dated October 19, 2005 that there should be a status hearing in this case or the parties could submit a mutually agreeable litigation timetable, it was informed that the Appellant was no longer in Canada. He was in China and was unable to obtain a Visa to re-enter Canada after a removal order had been made against him by the Immigration and Refugee Board (Immigration Appeal Division).
+[5] On December 8, 2005, the Appellant retained counsel in Toronto to represent him in this appeal and he was given an extension of time to arrange his affairs so that his appeal could proceed as expeditiously as possible. The parties were asked to submit a litigation timetable no later than January 16, 2006.
+[6] The parties did not send a litigation timetable to the Court and by letter dated January 24, 2006, counsel for the Appellant requested that a Status Hearing not be set down as he intended to request a stay in this appeal.
+[7] The Court considered the Appellant’s request and the correspondence from the Respondent and directed that there would be a Status Hearing by telephone conference call after May 1, 2006. The Status Hearing was later set for June 8, 2006.
+[8] Counsel for the Appellant informed the Court that his client was again refused a temporary resident Visa to enter Canada. On June 8, 2006, the Status Hearing was adjourned on the basis that the Appellant would provide a status report no later than June 23, 2006. On July 12, 2006, counsel for the Appellant indicated that he was initiating an appeal on behalf of his client of the decision made by the Canadian Embassy in Beijing. The present appeal was held in abeyance while the Appellant attempted to get a visitor’s permit to Canada. Counsel for the Appellant was directed to provide a further status report by October 31, 2006.
+[9] By letter dated October 31, 2006, counsel for the Appellant informed this Court that he intended to make an Application for Leave for Judicial Review with the Federal Court. On November 29, 2006, counsel wrote to the Court that his client had made an application for a visitor’s Visa to Canada on November 8, 2006. The Appellant was requested to provide a further status report by December 29, 2006. In a letter dated January 24, 2007, counsel for the Appellant submitted a copy of the Appellant’s Application for Leave and for Judicial Review in the Federal Court of an Immigration Officer’s refusal to issue a Temporary Resident Visa to the Appellant.
+[10] The Appellant did not notify the Court concerning the outcome of his application to the Federal Court. Instead, the hearings coordinator did research and ascertained that the Appellant’s Application for Leave was dismissed by the Federal Court on March 28, 2007.
+[11] On two occasions the Court requested that a further status report be submitted by counsel for the Appellant. Counsel ignored both of these requests and no such reports were given to the Court. The Court set down a Status Hearing in this matter for September 20, 2007. That hearing took place and a litigation timetable was finally set for the parties whereby they were to complete the steps so that this appeal would be ready for a hearing. The parties were supposed to communicate with the Hearings Coordinator on or before April 30, 2008 as to the status of the appeal. This didn’t happen. Instead, the Court set down a Show Cause Hearing.
+[12] By Order dated May 7, 2008, the parties were required to attend before a Judge of the Court to show cause why the appeal should not be dismissed for delay. At the Show Cause Hearing on June 10, 2008, the Court again set dates for the parties to complete discovery of the parties. The parties were to communicate with the Court by November 28, 2008.
+[13] By letter dated November 21, 2008, counsel for the Respondent asked that a Pre-Hearing Conference be scheduled in this matter. The Court attempted to contact counsel for the Appellant by email, mail and telephone but to no avail. Finally, on January 16, 2009, the Court was in contact with counsel for the Appellant and it set a case management conference to be heard by telephone conference call for January 20, 2009.
+[14] At the case management conference, the parties confirmed that this matter was ready to proceed to trial. At this time, the Appellant also confirmed that his applications for a Visa for Canada were not limited to his getting into the country for trial purposes.
+[15] Counsel for the Appellant advised the Court on May 7, 2009 that he was unable to obtain instructions and appropriate funding from the Appellant. On July 15, 2009, the Appellant advised the Court that he no longer had counsel and on September 24, 2009, the Appellant’s counsel filed a Notice of Intention to Cease to Act.
+[16] Although the Appellant wrote to the Court, he failed to keep the Respondent informed of his address in China.
+[17] The Respondent made a motion for an Order requiring the Appellant to pay security costs into Court of $13,005.04 in accordance with section 166.1 of the Tax Court of Canada Rules (General Procedure) (the “Rules”). The Order was granted on August 2, 2011 and the Appellant paid the requested amount into Court.
+[18] On March 1, 2012, the Court directed that this appeal would be heard by video conference. The parties were asked to provide their availability for the months of July, August and September 2012. The Appellant objected to his appeal being heard by video conference on the basis that he felt he would not get a fair trial if he could not enter Canada to prepare for the hearing. He asked the Court to intercede with Immigration or Foreign Affairs on his behalf to assist him in getting a Visa. The Respondent was willing to have the appeal heard by video conference and gave the dates she was available for the hearing.
+[19] The Court considered the Appellant’s concerns and informed him that the Court would do its best to accommodate the Appellant’s location but it was unable to assist him in obtaining a Visa for entrance into Canada. By letter dated August 2, 2012, the Court again directed that this appeal would be heard by video conference and asked for the parties’ availability during the months of November and December 2012 and January 2013. The Appellant responded to the Court stating that he had written to the Prime Minister for help obtaining a Visa and asking that his appeal not be scheduled until he heard from the Prime Minister. The Court acquiesced and agreed to hold off scheduling this appeal until June 30, 2013.
+[20] Neither the Court nor the Respondent received any communication from the Appellant and the appeal was set down on October 30, 2013 for hearing on July 9, 2014 in Toronto, Ontario.
+[21] On May 8, 2014, the Appellant wrote to the Court asking for an adjournment of his appeal on the basis that he had undergone surgery only two weeks prior. He asked if the hearing of his appeal could be postponed. The Respondent opposed the request for an adjournment. However, the Court informed the Appellant by letter dated May 14, 2014 that it required a doctor’s note or medical certificate when an adjournment was sought for medical reasons. The Court asked the Appellant to forward either a doctor’s note or a medical certificate. The Appellant did not forward a doctor’s note; he did not even respond to the Court’s letter and his request for an adjournment was denied.
+[22] Sometime between May 14, 2014 and July 7, 2014, the Appellant engaged counsel for the sole purpose of requesting an adjournment of this appeal. On July 7, 2014, a Notice of Application for an Order adjourning the hearing date was filed with the Court. On July 8, 2014, the Appellant and George Alatopulos, counsel on the application, were notified that Associate Chief Justice Rossiter had denied the adjournment request. Mr. Alatopulos appeared in Court on July 9, 2014 and he made it clear that he was engaged by the Appellant for the sole purpose of making the adjournment request. I confirmed that an adjournment would not be granted.
+[23] The documents which accompanied the application for an adjournment disclosed that the Appellant had been living in the United Kingdom since at least September 14, 2010. According to his Marriage Certificate, he married Ping Wang, a British citizen, in Oxford, England on that date. His profession was listed as a car dealer. Also included with the attachments to the application for an adjournment was a letter from Visa & Immigration UK which indicated that on June 15, 2014, the Appellant had submitted an application for naturalisation in the United Kingdom.
+[24] At no time prior to the application for an adjournment, did the Appellant inform this Court that he was no longer living in China and had moved to the United Kingdom.
+[25] On a review of this file, it appears to me that the Appellant was more interested in obtaining a Visa to enter Canada than he was in prosecuting his appeal. The Appellant was given numerous opportunities to proceed with his appeal and he chose instead to insist that the Court should assist him with obtaining a Visa to enter Canada. The appeal is dismissed for want of prosecution.
+Costs [26] The Respondent has asked for costs of $11,693.43. It is my view that she is entitled to costs as the Appellant’s delay in proceeding with this appeal has been inordinate and has caused the Respondent to incur costs. He has failed to prosecute his appeal in spite of the many accommodations given to him over a period of nine years. The Respondent is entitled to her disbursements of $4,218.43 and costs for the services of counsel in the amount of $5,725 for a total cost of $9,943.43.
+Signed at Halifax, Nova Scotia, this 12th day of August 2014.
+“V.A. Miller”
+V.A. Miller J.
+CITATION:
+2014TCC248
+COURT FILE NO.:
+2005-1135(IT)G
+STYLE OF CAUSE:
+TIE TENG AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+July 9, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Valerie Miller
+DATE OF JUDGMENT:
+August 12, 2014
+APPEARANCES:
+Counsel for the Appellant:
+George Alatopulos
+Counsel for the Respondent:
+Sharon Lee
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+George Alatopulos
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

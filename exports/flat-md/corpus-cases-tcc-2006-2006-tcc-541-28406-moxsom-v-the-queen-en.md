@@ -1,0 +1,172 @@
+---
+title: "Moxsom v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28406/index.do"
+last_modified: "2006-10-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 541"
+citation2: ""
+neutral_citation: "2006 TCC 541"
+decision_date: "2006-10-06"
+language: "en"
+item_id: "28406"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1433
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:42:11.782000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b86c9a03f7ddb6310a9815deded04a57c952e0a809d83f0445e209ae713a154c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Moxsom v. The Queen
+
+- Citation: 2006 TCC 541
+- Decision date: 2006-10-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1433, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Moxsom v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-10-06
+Neutral citation
+2006 TCC 541
+File numbers
+2006-577(IT)I
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-577(IT)I
+BETWEEN:
+CINDY M. MOXSOM,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on July 6, 2006 at Halifax, Nova Scotia
+Before: The Honourable Justice G. Sheridan
+Appearances:
+Counsel for the Appellant:
+Ray Adlington
+Counsel for the Respondent:
+Catherine McIntyre
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2003 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 6th day of October, 2006.
+"G. Sheridan"
+Sheridan, J.
+Citation: 2006TCC541
+Date: 20061006
+Docket: 2006-577(IT)I
+BETWEEN:
+CINDY M. MOXSOM,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] The Appellant, Cindy M. Moxsom[1], is appealing the reassessment of the Minister of National Revenue in which benefits paid to her under her late father's pension plan were included in her 2003 income under subparagraph 56(1)(a)(i) of the Income Tax Act:
+56(1) Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year,
+(a) any amount received by the taxpayer in the year as, on account or in lieu of payment of, or in satisfaction of,
+(i) a superannuation or pension benefit including, without limiting the generality of the foregoing, …
+[2] The Appellant did not dispute that the cheques she received from, and the T4A issued by, the pension administrator were in her name but argued that such amounts were not received by her in her personal capacity.
+Facts
+[3] The Appellant's father was employed as a longshoreman in Halifax, Nova Scotia. In April 1997, he began receiving monthly pension benefits from the Halifax Port International Longshoremen's Association Pension Plan ("ILA Plan"). In a document entitled "Appointment or Change of Beneficiary Form" dated April 22, 1997,[2] her father appointed the Appellant his only beneficiary under the ILA Plan. There is no dispute that the Appellant's appointment was properly made in accordance with Clause 8.1[3] of the ILA Plan:
+8.1 Beneficiary Designation
+To the extent permitted by law, a Member may, by a signed declaration in writing filed with the Administrator, appoint a Beneficiary to received any death benefit not payable to his surviving Spouse, and may alter or revoke any such appointment. In the absence of any such valid appointment, the death benefit shall be payable to his estate in a lump sum.
+[4] In the spring of 2001, the Appellant's father was hospitalized with lung cancer and began worrying about getting his affairs in order. He first turned his mind to his insurance policy; on April 9, 2001, with his family gathered around him in hospital, he executed a "Beneficiary Designation for C.L.A. Plans"[4] in which he designated his four children as the beneficiaries under his Canada Life life insurance policy ("CLA Insurance Policy"). Later that same month, again from his hospital bed and surrounded by his family, the Appellant's father executed another document entitled "Wills Questionnaire"[5] which, according to the Appellant, was a validly executed will. On May 12, 2001 he passed away, survived by his four children: the Appellant, Doris, Brenda and Ronald.
+[5] Following his death, Sun Life Assurance Company of Canada ("Sun Life") began paying the pension benefits to the Appellant under the ILA Plan.
+[6] In 2003, the Appellant received a total of $15,937.32 which she deposited in a bank account established for the estate of her late father. During the year, she disbursed the accumulated benefits, (less a small amount maintained in the account to cover sundry expenses) in equal shares to herself and her three siblings.
+[7] Sun Life issued a T4A slip in the Appellant's name for the pension benefits paid to her in 2003. Notwithstanding that her name appeared in the T4A, the Appellant reported the pension benefits in the return she filed for the estate of her late father, attaching the T4A she had received from Sun Life. The Minister reassessed to include the pension benefits in the Appellant's personal income.
+Analysis
+[8] The Appellant's primary submission was that her appointment as the sole beneficiary under the ILA Plan[6] was effectively altered when her father signed the "Wills Questionnaire" naming her and her siblings as equal beneficiaries of his estate. Alternatively, she took the position that if she ever was the sole beneficiary under the ILA Plan, she had, by her actions, renounced that status and accordingly, under the terms of the ILA Plan, the pension benefits were payable to the Estate. As the duly appointed executrix of the estate under the "Wills Questionnaire", she had received the pension benefits in that, rather than her personal, capacity.
+[9] Counsel for the Respondent argued that given the Appellant's admission that the ILA Plan pension benefits were made payable to her and that the T4A was issued in her name, the Minister was not only entitled, but obliged, to include the pension benefits in the Appellant's income. Even if it had been her father's wish that his children benefit equally under the ILA Plan, he never took the necessary steps to give effect to that intention. Counsel further submitted that if the pension benefits were incorrectly paid by Sun Life to the Appellant, that was an issue to be sorted out between the Appellant and Sun Life and was irrelevant to the Minister's reassessment.
+[10] In my view, the Respondent's position is the correct one. The fact that the Appellant shared the pension benefits with her siblings does not alter the fact that the cheques received were issued by Sun Life in her name, with nothing therein to indicate that they were payable to her in anything other than her personal capacity. It is common ground that she did, in fact, disburse the accrued pension benefits equally among herself, her sisters and her brother, but the evidence supports the Respondent's argument that doing so was a matter of choice, rather than a legal requirement.
+[11] Clause 8.1 of the ILA Plan governs the appointment of beneficiaries and sets out how this is to be done: it requires the filing with the plan administrator of a written declaration signed by a "Member" as defined in Clause 1.27[7]:
+1.27 "Member" means an Employee who is included as a member in the Plan as provided in ARTICLE II, and who has not severed his membership in the Plan by:
+(a) terminating in accordance with ARTICLE VII;
+(b) becoming a Pensioner, or electing the portability option under Section 6.1(e); or
+(c) death.
+[12] The word "Pensioner" used in Clause 1.27(b) is defined in Clause 1.34 as "a Former Member who is receiving a Retirement Benefit".
+[13] Clause 8.1 also permits a "Member" to "alter or revoke" his beneficiary appointment but does not specify the method by which that is to be achieved, other than requiring that it be "[t]o the extent permitted by law" as set out in the opening preamble.
+[14] Counsel for the Appellant argued that the Appellant's appointment was validly altered when, just prior to his death in 2001, the Appellant's father signed the "Wills Questionnaire". I cannot improve upon the eloquent testimony of the Appellant's brother-in-law, Dennis Beaver, describing the circumstances in which this document came into being:
+A. We went to visit George [the Appellant's father] in the hospital. He was in for some lung surgery. Everybody, including himself, assumed that he was going to recover from his surgery. During our visits, and after the surgery, he wasn't quite so sure. Then he was in a big tizzy, saying he had no Will and he wanted us to do something to furnish him a Will. At that time myself and my co‑worker were dealing directly with Ray Adlington [counsel for the Appellant] at his other firm, Daley Black, and we had both asked Ray for some Will kits. So we had these Will kits, unbeknownst to me too that it was a questionnaire. George was really adamant that he wanted to do up a Will. So I said, "Well, we had these for our own personal use but, okay, George, I'll bring you over the Will kit and we'll fashion it up for you here in the hospital if that's what makes you happy." And he wanted us to do that. So that was how this so-called "Will," which turned out to be a Will Questionnaire came to be.[8]
+...
+A. We were in the hospital room with George. And we all were there. And I was sort of ‑‑ they wanted me to do it up in my writing. So I just ‑‑ as you can see, this is all my own handwriting, printing, whatever you want to call it. George was feeling bad. He still thought he was coming out of the hospital, but he still ‑‑ I'm sorry ‑‑ he still felt he was coming out of the hospital but it seemed to be giving him some peace of mind to gear this up and write this up and prepare it for him in case. As it turned out, he just ‑‑ you know, he developed complications from the surgery and he didn't come out of the hospital. So this, in effect, was the last document that he was, you know, to prepare.[9]
+[15] I am satisfied that the "Wills Questionnaire" was duly witnessed and signed by the Appellant's father. It named his four children as his beneficiaries. His assets were listed as three bank accounts, his ILA pension and his CLA insurance policy. It directed that his funeral expenses were to be paid out of the proceeds of the CLA insurance policy[10]. It concluded with the words "- [n]otwithstanding anything implied or inferred, this is to be considered my final wishes."[11] The motivation for the inclusion of this clause was explained by Dennis Beaver as follows:
+I also added the notwithstanding clause. At the time I was taking a negotiations course with the union I was representing.[12] ... So we weren't sure at the time if there was anything else other than the survivor's pension involved. And one of the things I learned in the union negotiations was if there was anything else in place that we didn't know of, that if you added a notwithstanding clause, then it sort of supersedes everything else. So in case there was anything else. That was just to let us know that if there was anything else, this should take precedence over anything previous. Whether it is or not, that's for the law to decide, not for me. So that's why that clause is there.[13]
+The last sentence in the "Wills Questionnaire" states that " – [a]ny other monies (pensions, insurances, etc.) is to be dispersed equally among my beneficiaries, after taxes and expenses."[14]
+[16] The effect of this document, according to counsel for the Appellant, was to alter the original beneficiary appointment to designate the Appellant and her three siblings as equal beneficiaries under the ILA Plan. The difficulty with that argument is getting around the fact that when the Appellant's father signed the "Wills Questionnaire" on April 19, 2001, he was no longer a "Member" within the meaning of Clause 8.1. Pursuant to the ILA Plan definitions[15], he severed his membership in the Plan by becoming a "Pensioner" and "Former Member" when in 1997, he began receiving his "Retirement Benefit". While Clause 8.1 does not stipulate how a beneficiary appointment might be altered, its terms are clear that the power to alter is exclusively reserved to a "Member". Given the clear wording of the ILA Plan, I am equally unable to accept the submission of counsel for the Appellant that the Beneficiaries Designation Act could somehow override its terms to render the "Wills Questionnaire" a valid alteration of beneficiary.
+[17] Counsel for the Appellant submitted further that even if the Appellant had been the sole beneficiary under the ILA Plan, she renounced that status by her actions. Without deciding whether, as a matter of law, the Appellant could validly renounce her entitlement "by her actions", the evidence does not support her having done so. From 2001 to 2003 she consistently accepted delivery of cheques made payable to her name. She then routinely deposited them in the estate account, but only she had control over that account: she decided when, in what amounts and to whom disbursements of the accumulated pension benefits would be made. I have no reason to doubt her testimony that she made some attempt to have Sun Life pay out the pension benefits in four equal cheques, but the fact remains she was not successful in her quite limited efforts to do so: her request to Sun Life was never put in writing; indeed, despite having discussed the matter with her lawyer, it did not progress beyond a telephone call with a now-forgotten official.
+[18] In finding the above, I am not without sympathy for the Appellant and her family. While only the 2003 taxation year was under appeal at this hearing, the Appellant had been similarly assessed for pension benefits in 2001 and 2002. After discussion with officials, the matter was resolved in the Appellant's favour but in 2003, the Minister finally came to the view that the basis for the assessment was correct. It seems to me, however, that the resources expended on challenging the Minister's assessments might have been more usefully marshalled in rectifying the beneficiary designation. Given the number of years of pension benefit entitlement remaining, the Appellant would be wise to make a serious effort to sort this matter out with Sun Life directly; if that should prove fruitless, it may be necessary to seek relief in a Nova Scotia court with the jurisdiction to order a change in the beneficiary designation and to provide Sun Life with a legal basis for paying out the pension benefits other than in accordance with the valid beneficiary appointment filed under Clause 8.1. As counsel for the Respondent quite rightly pointed out, the Tax Court of Canada has no such power. Under subsection 171(1) of the Income Tax Act, the power of the Tax Court is limited to disposing of an appeal by:
+(a) dismissing it; or
+(b) allowing it and
+(i) vacating the assessment,
+(ii) varying the assessment, or
+(iii) referring the assessment back to the Minister for reconsideration and reassessment.
+[19] In doing so, the fundamental question before the Court is the validity of the Minister's assessment. In the present case, the Appellant has failed to meet her evidentiary burden of proving wrong the assumptions upon which the 2003 assessment was based. I agree with counsel for the Respondent that the Minister must assess tax liability on the basis of what is, not what might have been. What is clear from the evidence is that, in 2003, the Appellant in her personal capacity was in receipt of pension benefits to which she was legally entitled; accordingly, that amount must be included in her income under subparagraph 56(1)(a)(i) of the Act. For all of these reasons, the appeal of the reassessment of the Minister of National Revenue under the Income Tax Act is dismissed.
+Signed at Ottawa, Canada, this 6th day of October, 2006.
+"G. Sheridan"
+Sheridan, J.
+CITATION: 2006TCC541
+COURT FILE NO.: 2006-577(IT)I
+STYLE OF CAUSE: CINDY M. MOXSOM
+AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Halifax, Nova Scotia
+DATE OF HEARING: July 6, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice G. Sheridan
+DATE OF JUDGMENT: October 6, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Ray Adlington
+Counsel for the Respondent:
+Catherine McIntyre
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Ray Adlington
+Firm: McInnes Cooper
+Halifax, Nova Scotia
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Formerly Cindy M. Richard.
+[2] Exhibit A-2.
+[3] Exhibit A-1.
+[4] Exhibit A-3.
+[5] Exhibit A-4.
+[6] Exhibit A-2.
+[7] Exhibit A-1.
+[8] Transcript page 88, lines 9-25 to page 89, lines 1-2.
+[9] Transcript page 89, lines 13-25 to page 90, line 1.
+[10] Exhibit A-4, Clause 9.
+[11] Exhibit A-4, page 7.
+[12] Transcript page 90, line 25 to page 91, lines 1-3.
+[13] Transcript page 91, lines 10-21.
+[14] Exhibit A-4, page 7.
+[15] See "Member", Clause 1.27(b); "Pensioner", Clause 1.34 of Exhibit A-1.

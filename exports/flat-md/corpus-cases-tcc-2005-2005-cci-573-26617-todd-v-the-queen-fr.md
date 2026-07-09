@@ -1,0 +1,163 @@
+---
+title: "Todd v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26617/index.do"
+last_modified: "2005-08-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 573"
+citation2: ""
+neutral_citation: "2005 CCI 573"
+decision_date: "2005-08-26"
+language: "fr"
+item_id: "26617"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3625
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:37:07.274000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "01d968280a9886ef2cfcdc9bddc7b3113cfc33ce4f86f937b718d105fd97d618"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Todd v. The Queen
+
+- Citation: 2005 CCI 573
+- Decision date: 2005-08-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3625, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Todd v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-08-26
+Référence neutre
+2005 CCI 573
+Numéro de dossier
+2004-4338(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-4338(IT)I
+ENTRE :
+ROBERT TODD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus le 17 août 2005 à Halifax (Nouvelle-Écosse)
+Devant : l'honorable juge G. Sheridan
+Comparutions
+Représentant de l'appelant :
+Jerry Findlay
+Pour l'intimée :
+Me Edward Sawa
+Korinda McLaine, stagiaire en droit
+____________________________________________________________________
+JUGEMENT
+Conformément aux motifs de jugement ci-joints, les appels contre les nouvelles cotisations selon la Loi de l'impôt sur le revenu pour les années d'imposition 1998 et 1999 sont admis, sans dépens, et les nouvelles cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte de ce qui suit :
+1. L'omission de M. Todd de déclarer son revenu de commissions de 12 000 $ pour 1998 était une présentation erronée des faits au sens du paragraphe 152(4), de sorte que le ministre était en droit d'établir une nouvelle cotisation pour l'année d'imposition 1998 après l'expiration de la période normale de nouvelle cotisation;
+2. M. Todd a sous-estimé de 12 000 $ son revenu pour 1998 et de 22 738,55 $ son revenu pour 1999;
+3. M. Todd n'a pas sciemment ou dans des circonstances équivalant à faute lourde omis ses commissions pour 1998 et 1999 dans ses déclarations de revenu de manière à le rendre passible de pénalités pour faute lourde en vertu du paragraphe 163(2).
+Signé à Ottawa, Canada, ce 26e jour d'août 2005.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 19e jour d'octobre 2005.
+Marc Doyon, traducteur
+Référence : 2005CCI573
+Date : 20050826
+Dossier : 2004-4338(IT)I
+ENTRE :
+ROBERT TODD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Sheridan
+[1] L'appelant, Robert Todd, a interjeté appel contre des nouvelles cotisations établies par le ministre du Revenu national en vertu de la Loi de l'impôt sur le revenu et dans lesquelles il a été déterminé que M. Todd avait déclaré son revenu en moins pour 1998 et 1999. Des pénalités pour faute lourde ont été imposées pour chacune de ces années en vertu du paragraphe 163(2). Pour l'année d'imposition 1998 seulement, la nouvelle cotisation a été établie après l'expiration de la période normale de nouvelle cotisation; en vertu de la loi, le ministre n'était en droit d'établir cette nouvelle cotisation que s'il pouvait convaincre la Cour que M. Todd avait fait une présentation erronée des faits « par négligence, inattention ou omission volontaire » au sens du paragraphe 152(4) de la Loi.
+1. Revenu non déclaré pour 1998 et 1999
+[2] En 1998, M. Todd s'est lancé dans une entreprise de vente de voitures d'occasion, faisant affaire sous le nom « Todd's Auto Sales » . M. Todd n'avait précédemment acquis aucune expérience dans ce domaine. Il espérait gagner de l'argent en achetant des voitures d'occasion le moins cher possible, en les mettant en état de marche et en les revendant plus cher. Au cours de la première année, il a gagné des commissions de 12 000 $; en 1999, ses commissions ont été de 22 738,55 $. Pour des raisons qui seront expliquées ci-après, ses commissions étaient payées par Sidhu Investments Ltd., soit une entreprise voisine qui vendait également des voitures d'occasion. M. Todd n'avait pas de permis de concessionnaire, ce qui était une condition préalable pour acheter des stocks de voitures d'occasion lors de ventes par adjudication s'adressant à des concessionnaires. M. Ken Sidhu, à savoir le dirigeant de Sidhu Investments Ltd., avait un permis de concessionnaire et a pris des dispositions pour que soit ajouté à son permis le nom de M. Todd, permettant ainsi à M. Todd de participer à des ventes aux enchères et de faire des offres pour des stocks de voitures pour les deux entreprises. Tous les véhicules étaient payés par Sidhu Investments Ltd. Après que M. Todd avait vendu une de ses voitures, il remettait le produit de la vente à Sidhu Investments Ltd. M. Sidhu déduisait le montant payé par sa société pour la voiture aux enchères, plus les autres frais engagés par sa société, par exemple les frais de réparation et de publicité. La somme restante était divisée en parts égales entre Sidhu Investments Ltd. et M. Todd; Sidhu Investments Ltd. conservait sa part et faisait un chèque à M. Todd pour la part revenant à ce dernier. M. Todd soutenait qu'il était responsable des frais des réparations faites aux voitures vendues chez Todd's Auto Sales et qu'il payait ces frais sur sa part du produit de la vente.
+[3] C'est sur ce dernier point - la question de savoir qui faisait quelles réparations aux voitures vendues chez Todd's Auto Sales - qu'il y avait un différend. Le ministre a présumé[1] que M. Todd n'avait pas engagé de frais à l'égard de son revenu de commissions non déclaré. M. Todd a témoigné qu'il faisait effectuer les réparations par l'intermédiaire de Major Discount Muffler & Brakes, entreprise appartenant à son ami Curtis MacLeod et située dans le même immeuble que Todd's Auto Sales. M. MacLeod insistait pour être payé comptant. M. Todd est arrivé à l'audience avec une liasse de copies[2] de factures de Major Discount Muffler & Brakes, qu'il a produites comme preuves à l'appui de ce qu'il prétend. Il disait qu'il les avait obtenues de Carrie MacLeod, la veuve de Curtis MacLeod. Mme MacLeod est l'un des deux administrateurs d'une société à numéro constituée par M. Todd en 2002 et faisant actuellement affaire sous le nom « Major Discount Complete Auto Service - Sackville » . Cette entreprise est la réincarnation de la Major Discount Muffler & Brakes, qui n'existe plus maintenant. Mme MacLeod n'a pas été appelée à témoigner.
+[4] M. Sidhu, appelé à témoigner par l'appelant, a déposé que ce qu'il avait compris, c'était que Sidhu Investments Ltd. avait payé toutes les réparations nécessaires. Il se servait également de Major Discount Muffler & Brakes pour des réparations; lors du contre-interrogatoire, il a confirmé des photocopies de factures de réparations[3] délivrées à l'entreprise de voitures d'occasion de M. Sidhu, faisant affaire sous le nom « Major Discount Auto » , en 1999. À l'appui de ses déductions de frais, M. Sidhu avait apparemment fourni ses copies au vérificateur pendant la vérification relative à ses entreprises.
+[5] L'identité de l'auteur (ou des auteurs) des factures respectives étant inconnue et leur authenticité indéterminable, ces documents n'avaient qu'une valeur probante restreinte, même sous le régime de la procédure informelle. De plus, une comparaison de ces deux séries de documents révélait certaines divergences. Quoique les deux séries portent des dates se situant tout au long de l'année 1999, les numéros sur les factures de Todd's Auto Sales ne suivent pas le même ordre numérique que dans le cas de la société de M. Sidhu. Par exemple, les numéros de factures de Todd's Auto Sales pour la période du 27 janvier au 3 février 1999 vont de 18983 à 19398, tandis que les numéros de factures de la société de M. Sidhu pour la période du 26 janvier au 26 février 1999 vont de 1012 à 1429. Lors du contre-interrogatoire, M. Todd a émis l'hypothèse que M. MacLeod pouvait avoir utilisé une série de factures pour des paiements comptant et une série différente de factures pour d'autres types de paiements, sinon il ne pouvait expliquer les différentes séries de factures. Il y avait en outre un manque inexpliqué de cohérence entre l'écriture manuscrite et le mode de ventilation quant aux pièces et à la main-d'oeuvre figurant dans les deux séries de factures. Le témoignage de M. Sidhu n'a pas éclairci l'un ou l'autre de ces puzzles. Enfin, ce qui témoigne peut-être du fait que M. Sidhu a plus d'expérience en affaires, ses factures indiquaient des frais de réparation moyens sensiblement moindres que dans le cas de Todd's Auto Sales. Tout bien considéré, j'estime que les pièces A-1 et R-1 sont fondamentalement si peu fiables que je n'ai guère accordé de poids à l'une ou l'autre de ces séries de documents.
+[6] En définitive, toutefois, je ne suis pas convaincu que M. Todd se soit acquitté de la charge qui lui incombait de réfuter l'hypothèse du ministre selon laquelle il n'avait pas engagé de frais à l'égard des voitures vendues. Quoiqu'en principe il n'y ait rien d'incorrect à faire des paiements comptant, les personnes qui adoptent cette pratique doivent prendre des mesures supplémentaires pour veiller à ce que de tels paiements puissent être corroborés. M. Todd n'avait aucun reçu et aucune autre preuve de paiement. Il a témoigné que, en plus des frais de réparation, il avait engagé des frais pour son téléphone cellulaire et son téléphone de bureau. Là encore, il n'a pu produire de reçus pour l'un ou l'autre de ces types de dépenses, parce que ses registres avaient été conservés par son spécialiste en déclarations de revenu. La Loi exige que les contribuables tiennent des livres et registres permettant de corroborer les déductions demandées. M. Todd ne l'a pas fait et a été incapable de réfuter la nouvelle cotisation établie par le ministre à l'égard de son revenu de commissions non déclaré pour 1998 et 1999.
+2. Nouvelle cotisation après l'expiration de la période normale de nouvelle cotisation - 1998 seulement
+[7] Concernant la nouvelle cotisation pour 1998, établie après l'expiration de la période normale de nouvelle cotisation, le ministre n'était en droit d'établir cette nouvelle cotisation que s'il établissait que la conduite de M. Todd entrait dans le cadre du sous-alinéa 152(4)a)(i) de la Loi :
+(4) Cotisation et nouvelle cotisation. Le ministre peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire concernant l'impôt pour une année d'imposition, ainsi que les intérêts ou les pénalités, qui sont payables par un contribuable en vertu de la présente partie ou donner avis par écrit qu'aucun impôt n'est payable pour l'année à toute personne qui a produit une déclaration de revenu pour une année d'imposition. Pareille cotisation ne peut être établie après l'expiration de la période normale de nouvelle cotisation applicable au contribuable pour l'année que dans les cas suivants :
+a) le contribuable ou la personne produisant la déclaration :
+(i) soit a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement sous le régime de la présente loi,
+[...]
+[8] Il est indéniable que le revenu de commissions de 12 000 $ ne figurait pas dans l'imprimé[4] des renseignements indiqués dans la déclaration de revenu de M. Todd pour 1998, produite électroniquement. En vertu du paragraphe 152(4), le ministre devait toutefois montrer que M. Todd avait, en omettant son revenu de commissions, fait une présentation erronée des faits « par négligence, inattention ou omission volontaire » . L'intimée a renvoyé la Cour à l'affaire Venne v. The Queen[5], dans laquelle le juge Strayer a statué qu'il y a eu négligence s'il est établi que le contribuable n'a pas fait preuve de diligence raisonnable en remplissant et produisant sa déclaration de revenu. Ce qui est raisonnable dans des circonstances données dépend des faits.
+[9] J'accepte le témoignage de M. Todd selon lequel c'était nouveau pour lui d'être à son compte en 1998. Jusque-là, il avait été employé comme électricien. Il était habitué à ce que son employeur effectue et verse des retenues pour lui. À l'époque des déclarations de revenu, tout ce qu'il devait faire, c'était de remettre à H & R Block ses relevés T-4 et autres relevés aux fins de la production de la déclaration de revenu. Son incursion dans les ventes de voitures d'occasion a évolué à partir de la relation qu'il a nouée avec M. Sidhu, qui avait plus d'expérience. Tout comme bien d'autres personnes se lançant dans une petite entreprise, son succès éventuel se fondait davantage sur de grands espoirs que sur un plan d'entreprise bien établi. En fin de compte, il lui a fallu renoncer à Todd's Auto Sales, car il ne faisait pas d'argent. Au commencement, toutefois, l'entreprise a bel et bien généré des revenus. Vers la fin de la première année, M. Todd a reçu trois chèques représentant en tout 12 000 $ : l'un était daté du 26 octobre et les deux autres étaient datés des 3 et 20 novembre respectivement. Dans sa déclaration de revenu pour 1998, il n'a pas indiqué ces sommes; il y a seulement indiqué le revenu d'emploi de 28 989 $ figurant dans son relevé T-4 et 11 745 $ d'assurance-emploi. Son revenu non déclaré représentait environ 30 % du revenu total déclaré. En appliquant le critère énoncé dans Venne[6], il est difficile d'imaginer comment M. Todd pourrait avoir omis une aussi grande partie de son revenu total pour l'année s'il avait fait preuve de diligence raisonnable. M. Todd a témoigné qu'il n'est devenu au courant de l'omission qu'à l'époque de la vérification relative à Sidhu Investments Ltd. et des investigations subséquentes relatives à ses propres activités commerciales. Auparavant, il supposait que « Mike » [7] à la société[8] ayant établi sa déclaration de revenu avait inclus le revenu de commissions. Le fait qu'il ait cru cela, même si c'était établi, ne dégage pas M. Todd de la responsabilité fondamentale qu'il a en vertu de la Loi d'attester l'exactitude des renseignements produits pour lui. Selon la prépondérance des probabilités, le ministre s'est acquitté de la charge qui lui incombait de montrer que l'omission de M. Todd de déclarer ses commissions pour 1998 était une présentation erronée des faits « par inattention » à tout le moins; le ministre était donc en droit d'établir une nouvelle cotisation après l'expiration de la période normale de nouvelle cotisation pour cette année-là.
+3. Imposition de pénalités pour faute lourde - 1998 et 1999
+[10] Pour que M. Todd soit passible de pénalités pour faute lourde, le ministre devait établir que M. Todd avait omis ses commissions dans ses déclarations de revenu pour 1998 et 1999 « sciemment ou dans des circonstances équivalant à faute lourde » , au sens du paragraphe 163(2) de la Loi :
+Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d'imposition pour l'application de la présente loi, ou y participe, y consent ou y acquiesce est passible d'une pénalité [...]
+[11] Dans l'affaire Farm Business Consultants Inc. v. The Queen[9], après avoir bien examiné la jurisprudence, le juge Bowman (titre qu'il portait alors) a exposé la démarche que doit adopter la Cour lorsque le ministre cherche à imposer des pénalités pour faute lourde :
+Une cour doit faire preuve d'une prudence extrême lorsqu'elle sanctionne l'imposition de pénalités prévues au paragraphe 163(2). Une conduite qui légitime l'établissement d'une nouvelle cotisation à l'égard d'une année frappée de prescription ne justifie pas d'office l'imposition d'une pénalité, et l'imposition systématique de pénalités, par le ministre, est une pratique qui est à déconseiller. Une conduite du genre de celle qui est envisagée au sous-alinéa 152(4)a)(i) peut, dans certaines circonstances, servir aussi de fondement à l'imposition d'une pénalité prévue au paragraphe 163(2), qui implique la pénalisation d'une conduite plus répréhensible. Dans un tel cas, une cour doit, même en appliquant une norme de preuve civile, étudier soigneusement la preuve et chercher un degré de probabilité supérieur à celui auquel on s'attendrait dans les situations où l'on cherche à établir le bien-fondé d'allégations moins sérieuses [...]. Par ailleurs, quand une pénalité est imposée en vertu du paragraphe 163(2) même si une norme de preuve civile est exigée, lorsque la conduite d'un contribuable cadre avec deux hypothèses viables et raisonnables, l'une qui justifie la pénalité et l'autre pas, il convient d'accorder le bénéfice du doute au contribuable, et de supprimer la pénalité [...].
+[12] À l'appui de sa position selon laquelle il convenait dans ce cas-ci d'imposer des pénalités pour faute lourde, l'intimée a appelé à témoigner le vérificateur qui avait suggéré d'imposer ces pénalités, M. Hashem Abou-Shalah. Ce dernier n'avait pas effectué la vérification initiale relative à Todd's Auto Sales. Sa recommandation se fondait sur le dossier dont il avait hérité du premier vérificateur; elle était notamment basée sur l'importance du revenu non déclaré. Il a expliqué que, en déterminant si des pénalités pour faute lourde doivent être imposées, le Ministère examine certains facteurs. En l'occurrence, c'est sur le facteur de l'importance qu'a été basée la décision de recommander l'imposition de pénalités pour faute lourde. La règle générale du Ministère est qu'un revenu non déclaré de 20 % ou plus du revenu total du contribuable est important; dans de telles circonstances, des pénalités pour faute lourde sont recommandées. Lorsque la Cour lui a demandé des éclaircissements, il a affirmé que cette considération avait été la seule qui ait influencé sa recommandation dans le cas de M. Todd.
+[13] Étant attentif à la démarche approuvée par le juge en chef Bowman dans l'affaire Farm Business Consultants Inc.[10], je ne suis pas convaincu que le ministre ait montré qu'il convenait d'imposer des pénalités pour faute lourde. Quoique ce ne soit pas suffisant pour empêcher que l'année d'imposition 1998 de M. Todd soit l'objet d'une nouvelle cotisation en vertu du paragraphe 152(4), le fait que M. Todd ait cru que son spécialiste en déclarations de revenu avait correctement rempli et produit ses déclarations de revenu pour 1998 et 1999 représentait une hypothèse viable et raisonnable en remplacement de l'hypothèse du ministre selon laquelle M. Todd avait agi délibérément pour éviter de payer de l'impôt sur ses commissions. Bien que l'analyse mathématique présentée par M. Abou-Shalah n'ait pas été dépourvue de fondement, elle représentait seulement un aspect de l'ensemble des circonstances de l'espèce. Vu d'autres faits comme le manque d'expérience de M. Todd en affaires et sa confiance naïve en des personnes dont l'expertise semble s'être révélée à peine supérieure à la sienne, je suis convaincu que la preuve est suffisante pour que je sois fondé à lui accorder le bénéfice du doute. Cela dit, M. Todd ne doit pas interpréter ma décision comme un appui à l'égard de la manière dont il s'est occupé de ses affaires commerciales. À moins qu'il adopte de meilleures pratiques administratives et qu'il choisisse plus soigneusement les spécialistes comptables et fiscaux dont il suit les conseils, il connaîtra sans aucun doute le plaisir de rencontres ultérieures avec l'Agence du revenu du Canada.
+[14] Les appels sont admis, sans dépens, et les nouvelles cotisations sont déférées au ministre pour nouvel examen et nouvelle cotisation en tenant compte de ce qui suit :
+1. L'omission de M. Todd de déclarer son revenu de commissions de 12 000 $ pour 1998 était une présentation erronée des faits au sens du paragraphe 152(4), de sorte que le ministre était en droit d'établir une nouvelle cotisation pour l'année d'imposition 1998 après l'expiration de la période normale de nouvelle cotisation;
+2. M. Todd a sous-estimé de 12 000 $ son revenu pour 1998 et de 22 738,55 $ son revenu pour 1999;
+3. M. Todd n'a pas sciemment ou dans des circonstances équivalant à faute lourde omis ses commissions pour 1998 et 1999 dans ses déclarations de revenu de manière à le rendre passible de pénalités pour faute lourde en vertu du paragraphe 163(2).
+Signé à Ottawa, Canada, ce 26e jour d'août 2005.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 19e jour d'octobre 2005.
+Marc Doyon, traducteur
+RÉFÉRENCE : 2005CCI573
+No DU DOSSIER DE LA COUR : 2004-4338(IT)I
+INTITULÉ DE LA CAUSE : Robert Todd c. S.M.R.
+LIEU DE L'AUDIENCE : Halifax (Nouvelle-Écosse)
+DATE DE L'AUDIENCE : 17 août 2005
+MOTIFS DU JUGEMENT PAR : L'honorable juge G. Sheridan
+DATE DU JUGEMENT : 26 août 2005
+COMPARUTIONS :
+Représentant de l'appelant :
+Jerry Findlay
+Pour l'intimée :
+Me Edward Sawa
+Korinda McLaine, stagiaire en droit
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant :
+Nom :
+Étude :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Alinéa 9f) de la réponse à l'avis d'appel.
+[2] Pièce A-1.
+[3] Pièce R-1.
+[4] Pièce R-7.
+[5] 84 DTC 6247.
+[6] Supra.
+[7] Le nom de famille est maintenant oublié, et on ignore où cette personne se trouve actuellement.
+[8] Il ne s'agit pas de H & R Block.
+[9] 95 DTC 200 (C.C.I.), à la page 205.
+[10] Supra.

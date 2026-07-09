@@ -1,0 +1,86 @@
+Title: 3040585 Canada Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26618/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-371-26618-3040585-canada-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-06-09
+
+# 3040585 Canada Inc. v. The Queen
+
+- Citation: 2005 TCC 371
+- Decision date: 2005-06-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3626, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+3040585 Canada Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-06-09
+Neutral citation
+2005 TCC 371
+File numbers
+2004-3107(GST)I
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Citation: 2005TCC371
+Date: 20050609
+Docket: 2004-3107(GST)I
+BETWEEN:
+3040585 CANADA INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench
+at Ottawa, Canada on April 29, 2005)
+Rip J.
+[1] Mr. Gallagher, I am going to have to dismiss your appeal. There are several reasons for this. First of all, there are confusing documents, confusing material, which you presented to the Court, for example.
+[2] There are certain documents, which if I can turn to them, documents which you originated and if I compare them, there are substantial differences.
+[3] For example, if I look at Exhibits R-1 and A-2, both documents that you prepared. One of them is addressed to a stranger. Exhibit A-2 would be a document prepared by a corporation known as Prospective Group Canada Limited and not 3040585 Canada Inc. The evidence is that Prospective Group Canada Limited does not exist.
+[4] 3040585 Canada Inc. carries on business, as I understand it, under the name of Prospective Group Canada.
+[5] In Exhibit A-2, for example, these are the differences that I find quite shocking - there are ADP expenses, computer services is $1,346.80 and in Exhibit R-1, it is only $180. ADP software in Exhibit A-2 is $5,309.72, in Exhibit R-1 it is $989.29. These are certain examples. I do not want to go through the whole thing. This is just an example of the difficulty that any auditor would have had.
+[6] Another thing I want to say is this may be an opportunity for you to be more clear on what your agreements say and what your invoices say.
+[7] Even if I look at Exhibit A-4, your invoice again refers to Prospective Group Canada Ltd. which is a non-entity. It is not a person.
+[8] Your consulting agreement does not even refer to the corporate name. In a contract by a corporation the corporation's name should appear on the contract.
+[9] So when an audit is attempted, it is very difficult for the Ministry, for the "fonctionnaire", for the bureaucrats to figure out which is which.
+[10]You know, at the beginning of the trial, I had great difficulty in trying to figure out who were the parties to the contract and you tested my patience some times.
+[11]You have to set out in each contract the corporate name, in your documents, the corporate name carrying on business.When you see a truck on the street, for example, it may have a sign indicating "1234 Canada Limited", or slash as Truck Delivery. There is no "Ltd." in the name the business is carried on unless the business it carried on is the corporate name.
+[12]I have no doubt that your company, 3040585 Canada Inc., carried on some business. It was your intent to carry on business through this corporation.
+[13]But what I cannot determine based on the poor records is what input tax credits this company is entitled to.
+[14]I do not want to go through Me. Danis' cases and the various sections of the Excise Tax Act, Part IX of the Excise Tax Act that Me. Danis referred to. But certain things are required.
+[15]Chief Justice Bowman said in Helsi Construction Management v. The Queen, this is at Tab 5. In paragraph 13 he says "unfortunately", he says, "rules are rules and I cannot help. I can do nothing to help the taxpayer on this point". The problem he says to a certain regard "results from the appellant himself". And this is the situation I find myself in. A lot of the problems we heard today lie at your feet.
+[16]Now, I have observed the witness for the appellant and for the respondent, Mademoiselle Després. I found her a credible witness. I do not find you not credible. I think that over time, this has eaten into you. But at the same time, I think Revenue Québec has tried to do something with these numbers, but it is very difficult when documents are sent to them without the proper names on them. You cannot expect strangers to try to work those numbers out. You have to help. You have to put things in order.
+[17]Based on what I have seen today, is that the records were not maintained in the manner required by the law. As you have to help yourself to get these credits and you have to keep things in proper order.
+[18]Unfortunately, sir, I am going to have to dismiss your appeal.
+Signed at Ottawa, Canada, this 9th day of June 2005.
+"Gerald J. Rip"
+Rip J.
+CITATION: 2005TCC371
+COURT FILE NO.: 2004-3107(GST)I
+STYLE OF CAUSE: 3040585 CANADA INC. AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Ontario
+DATE OF HEARING: April 29, 2005
+REASONS FOR JUDGEMENT BY: The Honourable Justice Gerald J. Rip
+DATE OF REASONS: June 9, 2005
+APPEARANCES:
+Counsel for the Appellant:
+K. Robert Gallagher
+Counsel for the Respondent:
+Gérald Danis
+COUNSEL OF RECORD:
+For the Appellant:
+Name: K. Robert Gallagher
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

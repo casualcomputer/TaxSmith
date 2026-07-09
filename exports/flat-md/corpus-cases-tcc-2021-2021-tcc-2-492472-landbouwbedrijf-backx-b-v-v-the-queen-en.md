@@ -1,0 +1,485 @@
+---
+title: "Landbouwbedrijf Backx B.V. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/492472/index.do"
+last_modified: "2021-03-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2021 TCC 2"
+citation2: ""
+neutral_citation: "2021 TCC 2"
+decision_date: "2021-03-08"
+language: "en"
+item_id: "492472"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4661
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T11:22:44.604000+00:00"
+cases_cited_count: 11
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1ebd392cf4cc12cf0eef4aefdc047e9ea4f17b0a2dfe72053833e63dfa52db06"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Landbouwbedrijf Backx B.V. v. The Queen
+
+- Citation: 2021 TCC 2
+- Decision date: 2021-03-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4661, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Landbouwbedrijf Backx B.V. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2021-03-08
+Neutral citation
+2021 TCC 2
+File numbers
+2015-1302(IT)G
+Judges and Taxing Officers
+Guy R. Smith
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2015-1302(IT)G
+BETWEEN:
+LANDBOUWBEDRIJF BACKX B.V.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Before: The Honourable Justice Guy R. Smith
+Appearances:
+Counsel for the Appellant:
+Sean C. Flaherty
+Keith M. Trussler
+Counsel for the Respondent:
+Joanna Hill
+Montano Cabezas
+AMENDED JUDGMENT [This Amended Judgment is issued in substitution of the Judgment dated February 2, 2021 to correct and add counsel’s names.]
+A Judgment was rendered on July 17, 2018, dismissing the appeal of the reassessment made by the Minister of National Revenue on July 3, 2013;
+That Judgment was appealed to the Federal Court of Appeal and on December 12, 2019, it concluded that the Tax Court had correctly determined that the Appellant was a resident of Canada for the 2009 taxation year, but allowed the appeal and set aside the Judgment, referring it back to the Court for reconsideration as to the i) the application of subsection 128.1(1) of the Act and ii) the application of the relevant tax treaty. Costs were awarded to the Appellant.
+Having considered the written submissions of the parties, I hereby confirm the decision that I rendered in my Judgment of July 17, 2018, with respect to the two issues that were submitted to me for reconsideration and find that subsection 128.1(1) of the Act and the relevant tax treaty, have no application in this instance, in accordance with the attached Reasons for Judgment.
+The Respondent is entitled to her costs.
+Signed at Ottawa, Canada, this 8th day of March 2021.
+“Guy R. Smith”
+Smith J.
+Citation:2021 TCC 2
+Date:20210308
+Docket: 2015-1302(IT)G
+BETWEEN:
+LANDBOUWBEDRIJF BACKX B.V.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+[These Amended Reasons for Judgment are issued in substitution of the Reasons for Judgment dated February 2, 2021 to correct and add counsel’s names.]
+Smith J.
+I. Introduction
+[1] This matter arises from an appeal made by Landbouwbedrijf Backx B.V., the Appellant herein, to the Federal Court of Appeal (“FCA”) from Reasons for Judgment delivered by this Court on July 17, 2018, as amended (the “TCC Decision”). [1] In a Judgment dated December 12, 2019, [2] the FCA set aside the TCC Decision and referred the matter back for reconsideration on two specific issues.
+[2] Briefly stated, the FCA concluded that this Court was correct in concluding that the Appellant was a resident of Canada in 2009 being the location of its central management and control and the request for reconsideration relates to two alternative arguments. The FCA found that this Court had erred in finding “that subsection 128.1(1) of the Act was not triggered” [3] and that the applicable tax convention did not “have a direct bearing on the tax appeal.” [4]
+[3] At a post-trial management conference, the parties indicated that it would not be necessary to adduce additional evidence and that the matter could be resolved by way of written submissions. The Court has now considered those submissions.
+[4] Unless otherwise stated, all references to legislative provisions in these reasons refer to the Income Tax Act, [5] (“the Act”) as concerns the assessment(s) and the taxation year(s) in question. See the attached Annexes A and B.
+II. Background Facts
+[5] Paragraphs 3 to 13 of the TCC Decision describe the relevant facts. A Partial Agreed Statement of Facts was also appended to the decision. It will suffice for the purposes hereof to provide an overview of the salient facts.
+[6] The Appellant was incorporated on October 7, 1997, as a limited liability company under the laws of the Kingdom of the Netherlands and Michiel and Marian Backx (“the Backxes”), both residents of that country at the time, were the only directors and shareholders. They owned and operated a dairy farm that was transferred to the Appellant in 1998 to defer the accrued gain from Netherlands tax. [6] The dairy farm was then sold to a third party and the Backxes immigrated to Canada where they purchased an existing dairy farm on June 15, 1998, in partnership with the Appellant. They resigned as directors of the Appellant and Marian Backx’s sister was appointed as the sole director.
+[7] From 1998 to 2008, the Appellant reported its share of the partnership income from the Ontario dairy farm and filed income tax returns as a non-resident of Canada. It is not disputed that notices of assessment were issued accordingly.
+[8] On November 30, 2009, the Appellant sold its partnership interest to a newly formed Ontario corporation (“Backx Limited”) owned and controlled by the Backxes. The purpose of the sale was, inter alia, to implement a settlement with the Netherlands Tax Authority in connection with the transfer of the Netherlands dairy farm to the Appellant in 1997 and the acquisition of the dairy farm located in Ontario. [7]
+[9] As will be further reviewed below, it is not disputed that the sale price of the partnership interest in 2009 was $4,500,000 and that the adjusted cost base was $2,760,951, resulting in a capital gain of $1,739,049. [8]
+[10] As noted in paragraphs 11 and 12 of the TCC decision, Backx Limited as “purchaser” provided notice to the Minister of National Revenue (the “Minister”) pursuant to subsection 116(5.02) claiming that the partnership interest in the dairy farm was “treaty-protected property.” The Minister initially agreed that Backx Limited was not required to withhold tax pursuant to subsection 116(5) of the Act.
+[11] However, the Minister subsequently took the position that the partnership interest was not “treaty-protected property” as defined in subsection 248(1) of the Act and the Appellant was reassessed inter alia for Part 1 tax on the capital gain.
+III. The Issue of the Residency
+[12] The TCC decision concluded that the Appellant was a resident of Canada in 2009 on the basis of the well-established test of central management and control exercised by the Backxes who had been residents of Ontario since May 1998. The Court found that the Backxes had effective and independent control of the Appellant and that the director residing in the Netherlands merely carried out clerical duties.
+[13] The FCA noted that “Canada’s tax system is one of self-reporting” and “[i]t is well established that the principal basis for imposing income tax is residency.” [9] It also noted that where a “corporation is not deemed to be a resident under 250(4) of the Act, it may still be a resident of Canada under the common law.” [10] It then concluded that the “record supports the Tax Court’s findings that the shareholders in Canada were making the decisions, not the director in the Netherlands.” [11]
+[14] As noted by the FCA, the Appellant argued that this Court had failed to consider the doctrine of estoppel and reasonable expectations in relation to the Appellant’s residency and that “the Minister’s acceptance of the Appellant’s residency as being the Netherlands for previous years binds the Minister.” It was argued that the Appellant should be able to rely on the “position taken by the Minister in 1998 to 2008 when he taxed and assessed the appellant as a non-resident of Canada” and that the Minister was now estopped and precluded “from assessing it as a Canadian resident in 2009.” [12]
+[15] The FCA did not agree, relying on Ludmer v. Canada, [13] (“Ludmer”) and indicating that “it is well-established law that the doctrine of estoppel cannot be invoked to preclude the exercise of a statutory duty” and that “a concession made in one year in the absence of any statutory provisions to the contrary, does not preclude the Minister from taking a different view in a later year.” It also held that “an assessment is conclusive as between the parties only in relation to the assessment for the year in which it was made.” [14]
+[16] The FCA added that “how the Minister may have treated similar facts in previous years does not bind the Court” and that “the respondent is not the arbiter of what is right or wrong in tax law” before concluding that “although the Tax Court did not address the estoppel argument in its reasons, it nonetheless reached the correct conclusion.” [15]
+[17] The FCA concluded that the Tax Court had committed “no palpable or overriding errors in finding that the appellant’s central management and control in 2009 actually abided in Canada.” [16]
+[18] I therefore conclude, as I did in paragraph 47 of the TCC Decision and in accordance with the FCA decision, that the Appellant was a resident of Canada in 2009.
+IV. The Application of subsection 128.1(1) of the Act
+[19] In the TCC Decision, I indicated that subsection 128.1(1) “does not trigger a deemed disposition or an analysis of” that provision “since there was no evidence that the Appellant actually ceased to be a resident of the Netherlands or was continued under Canadian law.” [17] Despite that assertion, I also indicated that it was “more likely that the Appellant became a resident of Canada for tax purposes as early as 1998 (…) and consequently that the adjusted cost base (…) was correctly calculated from that date.” [18]
+[20] The FCA did not challenge the observation made by this Court as to the probable date of residency but clarified that there was “no additional requirement that the taxpayer must cease to be a resident of its former State prior to the application of (…)subsection 128.1(1) of the Act” [19] and that:
+[18] Subsection 128.1(1) is triggered once the taxpayer becomes a Canadian resident. Paragraph (b) of the subsection indicates that, with certain exceptions, a taxpayer is deemed to have disposed of all their property immediately before entering Canada for proceeds equal to fair market value. Paragraph (c) calls for a deemed reacquisition of the property at the same fair market value figure. This process establishes a new cost basis for the taxpayer’s property, as at the time of entering Canada. The goal here is to avoid having Canadian taxation apply to gains that accrued prior to the taxpayer’s immigration or entry into Canada.
+(My emphasis)
+[21] Thus, subsection 128.1(1) is a deeming provision that creates a step-up in the cost base of the subject property but a gain or loss based on the “new cost basis”, as described by the FCA can only be triggered by a subsequent event, such as a disposition of the property. See Standard Life Assurance Canada Co., v. The Queen, [20] (“Standard Life”).
+[22] In the context of this proceeding, the Appellant has taken the position that i) the Court should have considered the application of the subsection 128.1(1) and that ii) the Minister is estopped from taking the position that the Appellant was a resident of Canada during the 1998 to 2008 taxation years and finally that iii) any attempt to do so is an abuse of process. Those matters will be addressed in turn.
+The Application of subsection. 128.1(1)
+[23] The Appellant argues that if the Court concluded that the Appellant was a resident of Canada in 2009, it was still required to make a finding as to the effective date for the purposes of establishing the new cost base of the partnership interest pursuant to subsection 128.1(1). The Appellant argues that since the Minister had assessed it as a non-resident for the 1998 to 2008 taxation years, the effective date of the deemed disposition should be December 31, 2008, being the “particular time,” described as “the day immediately before the Appellant became a resident of Canada.” [21] It is argued that there would be a deemed disposition and reacquisition as of that “particular time.”
+[24] Although no evidence was lead on this issue, it was argued that the new cost basis of the partnership interest on December 31, 2008, was the same as its sale price in November 2009, such that the resulting capital gain was nil.
+[25] The Respondent argues that the Court undertook a detailed analysis of the chronology of events going back to 1998 when it concluded that the Appellant was a resident of Canada in 2009, a conclusion that the FCA agreed with.
+[26] The Respondent argues moreover that there was ample evidence to allow the Court to conclude that the Appellant had been a resident of Canada since mid-1998 when the Backxes immigrated to Canada or shortly thereafter when steps were taken to acquire the new dairy farm in Ontario in partnership with the Appellant.
+Analysis
+[27] The Court agrees with the Respondent and notes that the chronology of events was set out in the assumptions of fact made by the Minister leading to the conclusion that “[t]he Backxes managed, controlled and operated the appellant from Ontario.” [22] That assumption has not been rebutted. The evidentiary record was not limited to the 2009 taxation year as the Court considered testimonial and documentary evidence going back to the immigration of the Backxes in 1998.
+[28] The FCA also agreed with this conclusion indicating that “[t]he record supports the Tax Court’s findings that the shareholders in Canada were making decisions, not the director in the Netherlands.” [23] It seems apparent that the FCA was referring to various “decisions” made by the Backxes including the decision to appoint a nominal director who simply implemented “decisions made by the shareholders” [24] and the decision to use the proceeds of sale of the Netherlands farm to acquire the partnership interest in Ontario in 1998.
+[29] In the TCC Decision, the Court reached its conclusion in connection with the 2009 taxation year. However, the chronology of events that it reviewed for each of the taxation years from 1998 to 2008, remains uncontroverted.
+[30] The Court therefore has no difficulty in concluding that the Appellant became a resident of Canada in 1998 immediately prior to the acquisition of the partnership interest that was eventually disposed of in 2009.
+[31] For the purposes of subsection 128.1(1), the Court finds that the “particular time” when the Appellant became a resident of Canada was June 15, 1998. Since the partnership interest was only acquired on or shortly after the “particular time,” there could be no accrued gain. The FCA observed that the object of subsection 128.1(1) “is to avoid having Canadian taxation apply to gains that accrued prior to the taxpayer’s immigration or entry into Canada.” [25]
+[32] Since the Court has concluded that the Appellant became a resident of Canada in 1998 as a result of the application of the test of central management and control, it agrees with the Respondent that “[s]ubsection 128.1(1) cannot apply to deem the disposition and reacquisition of a property that the Appellant did not own before it became a resident of Canada.” [26]
+[33] It is apparent that the Backxes believed that the Appellant was a non-resident of Canada and tax returns were filed in Canada on that basis. In a discussion paper prepared by the Appellant’s tax advisors [27] , the following comments were made:
+Backx B. V. (hereafter “B. V.”) is carrying on business in Canada via a partnership with Michiel and Marian Backx (hereafter the “Backx”). It is presumed that if a determination was made by the competent authorities pursuant to Article 4 of the Canada-Netherlands Income Tax Convention (hereafter the “Treaty”) that B. V. would be found to be a resident in the Netherlands and not in Canada. As a non-resident of Canada B. V., is subject to tax in Canada on its Canadian sourced business income from the partnership (…)
+[34] As will be seen below, a determination by the competent authorities pursuant to Article 4 was never obtained. In the meantime, it seems apparent that the Appellant’s mistaken belief that it was a non-resident of Canada is not sufficient for this Court to conclude that it was. The Appellant has not adduced sufficient evidence to convince the Court that it was not a resident of Canada in 1998.
+[35] To the extent that this Court is required to determine the effective date upon which the Appellant became a resident of Canada for purposes of subsection 128.1(1), the Court finds that the effective date was when the Canadian dairy farm was acquired on June 15, 1998. Since the subject property was acquired after the Appellant became a resident of Canada, there was no deemed disposition and reacquisition for the purposes of that provision.
+[36] As a result the foregoing, the Court confirms its finding that subsection 128.1(1) does not affect the calculation of the adjusted cost base of the partnership interest.
+The question of Issue Estoppel
+[37] The Appellant argues in the alternative that the Appellant’s residency for the 1998 to 2008 taxation years was not in dispute and “was finally determined by the Minister in separate assessments that were not appealed and/or reassessed” and that “the doctrine of issue estoppel (…) precludes an inquiry and/or a re-determination as to whether the Appellant was a resident of Canada during those years.” [28] In essence, the Appellant argues that since the Minister had accepted that the Appellant was a non-resident of Canada from 1998 to 2008, she could not seek to tax the gain that had accrued between those dates. It is argued that she was “estopped” from doing so.
+[38] It is argued further that “absent any appeal and/or reassessments, the previous assessments of a taxpayer are final and conclusive as between the Minister and the taxpayer for the year in which it was made.” As a result, in the context of these proceedings, it is argued that the matter of residency “has been conclusively and finally determined by the Minister in each of the years of 1998 to 2008.” [29]
+[39] The Appellant acknowledges, “that estoppel does not bind the Crown, as do other principles of law” but that “issue estoppel is available to prevent the Minister from re-opening and re-litigating” the issue of the Appellant’s residency for those years.
+[40] The Appellant indicates in written submissions that it relies on a decision of the Tax Court of Canada in Goldstein v. Canada [30] (“Goldstein”), where the essential factors giving rise to an estoppel were identified as being (1) a representation or conduct amounting to a representation intended to induce a course of conduct, (2) an act or omission resulting from the representation, and (3) detriment to such person as a consequence of the act or omission. [31]
+[41] The Appellant also refers to Toronto (City) v. C.U.P.E., Local 79, (“Toronto City”) [32] where the Supreme Court of Canada indicated that “[i]ssue estoppel is a branch of res judicata (…) which precludes the re-litigation of issues previously decided in court in another proceeding (…)” and that “for issue estoppel to be successfully invoked, three preconditions must be met: (1) the issue must be the same as the one decided in the prior decision, (2) the prior judicial decision must have been final, and (3) the parties to both proceedings, must be the same, or their privies.” [33]
+[42] The Appellant then argues that “[i]t is settled law that the decision of an Administrative Officer of the CRA, is a judicial decision subject to the doctrine of issue estoppel” since they “are required to be, and are made” in a judicial manner and as such “are final and binding upon taxpayers and the Crown, and are subject to a statutory appeal procedure.” [34]
+[43] The Appellant also relies on Danyluck v. Ainsworth Technologies Inc., [35] (“Danyluck”) where the court referred to “issues adjudicated by tribunals” and “the operation of issue estoppel in a subsequent action” and Metropolitan Toronto Condominium Corp. No. 1352 v. Newport Beach Development Inc. [36] (“Metropolitan”) where the court determined that decisions made by a Crown corporation were judicial decisions because it “was established by legislation with a statutory mandate to administer and adjudicate warranty claims.”
+[44] In the end, the Appellant argues, as it did before the FCA, that the assessments made by the Canada Revenue Agency for the 1998 to 2008 taxation years were “the product the application of the central management control test in each year, which resulted in a separate and independent judicial determination in each year” and “the fact that the Appellant did not appeal any of” the assessments “does not make them any less judicial (…) than if they had been ultimately determined by a Judge of the Tax Court of Canada.” [37]
+[45] The Appellant concludes that the assessments made for the 1998 to 2008 taxation are final and binding and that “the only gain that was taxable was any nominal gain that may have accrued in the 2009 taxation year.” [38]
+[46] The Respondent takes the position that the FCA had already disposed of these arguments when it stated, relying on Ludmer, “how the Minister may have treated similar facts in previous years does not bind the Court.” [39]
+[47] The Respondent also relies on the decision of Goldstein, supra, where Bowman J (as he then was) discussed issue estoppel concluding that “[t]he doctrine has no application where a particular interpretation of a statute has been communicated to a subject by an official of the government, relied upon by that subject to his or her detriment and then withdrawn or changed by the government” and later that “[t]he fact that the taxing authorities may accede to the tax result sought by the lawyers, whether or not they concur in the legal reasoning upon which the lawyers’ arguments are premised, cannot give rise to an estoppel.” [40]
+[48] The Respondent concludes by arguing that even if estoppel applies to the assessments made for the 1998 to 2008 taxation years in connection with the residence of the Appellant, “the doctrine does not bind this Court from making factual findings necessary for a determination of the correctness of Part 1 tax on the capital gain at issue in the 2009 taxation year.” [41]
+Analysis
+[49] The Appellant’s position on issue estoppel must be rejected. In particular, I find that the FCA clearly intended to reject this argument.
+[50] In a submission entered as a footnote, the Appellants reminds the Court that “the Minister determines residency and assesses taxes; not the taxpayer” and that a “taxpayer merely files a return with an estimate of taxes but it is ultimately up to the Minister to assess.” [42]
+[51] I agree with the Respondent that this assertion is misguided since the Appellant chose to file as a non-resident of Canada from 1998 to 2008. This constituted its filing position. The Minister was free to accept or reject the tax return as filed and issue an assessment or reassessment based on its understanding of the facts and interpretation of the law at the relevant time. The fact that the Appellant’s filing position was accepted by the Minister, as evidenced by the notices of assessment for those years, is not binding on this Court and, as noted by the FCA or by Bowman J. in Goldstein, this Court is not estopped from reaching a different conclusion.
+[52] I find that there is no evidence of a “determination” made by the Minister that the Appellant was a non-resident of Canada during that period. The Appellant appears to be relying on the letter issued by the Minister on January 27, 2011 indicating that Backx Limited was not required to withhold and remit taxes pursuant to subsection 116(5). However, that provision is intended for reporting and collection purposes and does not establish that the Appellant was a non-resident of Canada. In any event, that position was subsequently reversed leading to the reassessment that is the subject matter of this appeal. The Minister was entitled to reconsider the matter and to “subsequently reassess” the Appellant.
+[53] As explained by the Supreme Court of Canada in R. v. Jarvis, [43] (“Jarvis”), our tax system is predicated on “self-assessment and self-reporting” which supports the notion that the Appellant had self-assessed as a non-resident:
+49 Every person resident in Canada during a given taxation year is obligated to pay tax on his or her taxable income, as computed under rules prescribed by the Act (ITA, s. 2; Smerchanski v. M.N.R., 1976 CanLII 174 [SCC], [1977] 2 S.C.R. 23, at p. 32, per Laskin C.J.). The process of tax collection relies primarily upon taxpayer self-assessment and self-reporting: taxpayers are obliged to estimate their annual income tax payable (s. 151), and to disclose this estimate to the CCRA in the income return that they are required to file (s. 150 [1]). (See also in this regard: McKinlay Transport, supra, at pp. 636 and 648; V. Krishna, The Fundamentals of Canadian Income Tax [6th ed. 2000], at p. 22.) Upon receipt of a taxpayer’s return, the Minister is directed, “with all due dispatch,” to conduct an examination and original assessment of the amount of tax to be paid or refunded, and to remit a notice of assessment to this effect (ss. 152 [1] and 152 [2]). Subject to certain time limitations, the Minister may subsequently reassess or make an additional assessment of a taxpayer’s yearly tax liability (s. 152 [4]).
+(My emphasis)
+[54] As noted above, the Appellant relies on Danyluck and Metropolitan to support its contention that the Minister’s assessment amounts to a “judicial decision” as if it had been “ultimately determined by a Judge of the Tax Court of Canada.” [44] I do not accept that proposition since Jarvis confirms that the Minister may subsequently reassess or make an additional assessment of a taxpayer’s liability. Furthermore, a reading of Goldstein and Jarvis, both suggest that the Minister is not estopped from so doing, subject to the limitation period set out in subsection 152(4).
+[55] To a certain extent, I can understand the Appellant’s frustration. It relied on professional advisors including tax experts in the Netherlands and Canada in determining that it should file as a non-resident of Canada for the 1998 to 2008 taxation years. Yet it should have been apparent that the situs of the central management and control lay with the Backxes who had immigrated in 1998.
+[56] To conclude, having determined that the Appellant was a resident of Canada in 2009, I find that this Court is not estopped from also finding that the Appellant was a resident of Canada during the 1998 to 2008 taxation years based on the facts and the applicable law.
+Was there an abuse of process?
+[57] The Appellant argues that the Minister’s attempt to tax the accrued gain from 1998 to 2008 when it was assessed as a non-resident, is an abuse of process as that concept has developed in the jurisprudence and in particular relying on Toronto City.
+[58] The Appellant argues that “the doctrine of abuse of process (…) is engaged to protect the interests of finality, and to prevent a party from litigating (intentionally or unintentionally), a matter that has already been determined after all available appeals and reviews have been exhausted” and that, in this instance, “the matter of whether the Appellant was a resident, or non-resident, of Canada has been finally determined by the Minister in each of the years 1998 to 2008”. [45]
+[59] The Respondent argues that the Appellant’s reliance on Toronto City is misguided since it involved an attempt to impeach a judicial finding by re-litigating the matter in a different forum. In this instance, the assessments for the 1998 to 2008 taxation years have not been appealed and have not been the subject of a judicial finding but they continue to be binding for those specific years and are not at issue in this present appeal. [46]
+[60] The Respondent adds that the Appellant’s reliance on the concepts of estoppel and abuse of process “is based on a fundamental misapprehension of Canada’s self-reporting and self-assessing system”, as noted in Jarvis, and that there is no evidence before the Court “that the Minister applied the central management and control test and concluded that the Appellant was not a resident of Canada for each of the 1998 through 2008 taxation years. Rather, the Appellant filed its tax returns as a non-resident and the Minister accepted them as filed.” [47]
+[61] The Court agrees with the Respondent that this argument must be rejected and relies on the analysis set out above in connection with the issue of estoppel.
+Does subsection 152(8) apply in this instance?
+[62] The Appellant submits that there has been “a codification of the concept of abuse of process” in subsection 152(8) of the Act that provides that “an assessment shall, subject to being varied or vacated on an objection or appeal (…) be deemed to be valid and binding notwithstanding any error, defect or omission in the assessment or in any proceeding under this Act relating thereto”.
+[63] The Appellant suggests that the object of this provision is to provide finality in the assessment process and to prevent “any collateral attacks (…) once all appeals have been exhausted, or time to appeal (or reassess) has expired.” [48]
+[64] The Respondent has not specifically addressed this argument.
+[65] In any event, the Court finds that the jurisprudence has established that this provision was designed to relieve the Minister from the detrimental consequences of errors made by CRA officials dealing with millions of tax returns: Riendeau v. The Queen. [49] Moreover, and more importantly, it is established that the provision cannot be used to prevent the Crown from taking a position in a Reply that is inconsistent with an earlier assessment that has not been appealed: McAdams v. The Queen, (“McAdams”). [50] See also Canada (National Revenue) v. JP Morgan Asset Management (Canada) Inc. [51] (“JP Morgan”).
+Conclusion
+[66] In Reply Submissions filed herein, the Appellant reiterates that the “taxation years 1998 to 2008 were not under appeal” and that “the assessments for those years were final and binding.”
+[67] For reasons set out above, that argument must also be rejected. It bears mentioning that it was the Appellant who raised the application of subsection 128.1(1) in oral submissions (and not in the pleadings), thus inviting the Court to determine at what point in time it became a resident of Canada. The Appellant cannot now claim that the Court has no jurisdiction “to make any adjudication with respect to same.” [52]
+[68] The Appellant also submits that this is not a case of a “loss carry forward, or computation of undepreciated capital cost which requires the Minister to calculate account balances in order to assess taxes in a subsequent year.” [53]
+[69] With respect, I do not agree. It is well established that a taxpayer must track the adjusted cost base of capital property over time though this will only be relevant at a later period in time when a gain or loss is triggered. The Minister was entitled to make the necessary enquiries to verify or ascertain that amount.
+[70] In the end, even if the Appellant is correct in concluding that the status of the Appellant as a non-resident during the years 1998 to 2008 was not in dispute at the hearing, the fact remains that the Notice of Appeal indicates that the Appellant’s adjusted cost base of the partnership interest in 2009 was $2,760,951. [54]
+[71] The Minister also assumed that the adjusted cost base of the partnership interest was $2,760,951 and no evidence was adduced to rebut that assumption.
+[72] While the Appellant could have lead evidence to contradict the admission or rebut the Minister’s assumption, it has not done so.
+[73] The Appellant has simply not met its evidentiary burden.
+[74] Based on the foregoing, I again conclude that the adjusted cost base of the partnership interest in 2009 was $2,760,951 and that subsection 128.1(1) of the Act did not apply to deem a disposition of the partnership interest since it was not owned by the Appellant when it became a resident of Canada.
+V. The application of the Canada-Netherlands Income Tax Convention
+[75] In the TCC Decision, I concluded that the Canada-Netherlands Income Tax Convention (the “Convention”) [55] did not have a direct bearing on the appeal, but the FCA concluded that this “was an error because if the Convention provides an exception or relief to the appellant, it will take precedence over the Act. The Tax Court did not apply and consider the provisions of the Convention to the facts of this case.” [56]
+[76] The FCA noted that “[t] he Act defines ‘tax treaty’ at section 248(1) as a comprehensive agreement or convention for the elimination of double taxation on income, between the Government of Canada and the government of the country, which has force of law in Canada at that time” and that the overall purpose of the Convention is “to provide certain relief otherwise imposed by a State by avoiding double taxation.” [57] It added that the tax treaty “has the force of law in Canada”, that “as a bilateral tax treaty between Canada and the Netherlands,” it is “incorporated into our domestic law” and that in “the event of any inconsistency between the provisions of the Convention and any other domestic law, the provisions of the Convention prevail.” [58]
+[77] The FCA then reviewed Article 4(3) of the Convention and noted that the “deemed non-resident provision exception,” in that provision relates to, “Article 13 of the Convention, which deals specifically with capital gains.” [59]
+[78] The FCA noted the Appellant’s position “that it was a resident of Canada and the Netherlands in 2009” and that the competent authorities of both states had not reached a “mutual agreement.” Without reaching a conclusion on this issue, the FCA noted the Appellant’s argument that “an agreement between the competent authorities is a condition precedent to any assessment” and that until they have done so, the Minister has not “established any authority to assess the appellant for the gain it realized as a resident of Canada.” [60]
+[79] To provide some further context, it is relevant to note that in the TCC Decision I concluded that the Convention did not have a direct bearing on the appeal [61] and made the following observation:
+[51] However, the Appellant argues that it is a resident of the Netherlands where it is domiciled (though no expert evidence was lead on the issue of Dutch law) in which case it is possible to conclude that the Appellant “is a resident of both States.” If the Appellant is liable for tax in both Canada and the Netherlands on the subject capital gain, then the competent authorities (as described in Article 4 [3] of the Tax Treaty), and not this Court, must resolve the issue: McFadyen v. the Queen, [2000] 4 CTC 2573, para. 154; Malcolm Fisher v. the Queen, [1995] CTC 2011, para. 46.
+(My emphasis)
+[80] In McFayden v. The Queen, [62] (“McFayden”), cited above, the taxpayer resided in Canada but also travelled and worked in Japan. Bowman J. (as he then was) considered, “whether in 1987 and 1988 he had resumed ordinary residency in Canada.” [63] Having concluded that the taxpayer was a resident of Canada during those years, he considered the application of the Canada-Japan Income Tax Convention (1986). It contained a provision requiring the contracting states to settle a question of dual residency “by mutual agreement.” Bowman J. concluded that the “determination under that provision is something that must be made by the competent authorities for the two Contracting States. It is not a matter for this Court.” [64]
+[81] Similarly, in Malcolm Fisher v. the Queen, [65] (“Malcolm Fisher”), also cited above, the issue was whether the taxpayer was “a factual resident of Canada” or deemed to be a resident of Canada by virtue of subsection 250(1) of the Act. Bowman J. (as he then was) concluded that the taxpayer was “a resident of Canada and not a resident of Japan for the purposes of Article 4 of the Canada-Japan Income Tax Convention” [66] and then reviewed the “tie-breaker rules” concluding as follows:
+154. Although I do not decide the matter, I doubt that this Court has the authority to apply the tiebreaker rules referred to in the Canada-Japan Income Tax Convention. The words of the Convention state specifically that “the competent authorities of the Contracting States shall determine by mutual agreement the Contracting State of which that person shall be deemed to be a resident for the purposes of this Convention” and this should be done by resorting to the tiebreaker rules. It therefore appears that the Contracting States intended that the application of the “tie-breaker rules” is a matter for the competent authorities of the Contracting States and not for this Court.
+(My emphasis)
+[82] In both of those decisions, the Tax Court concluded that the taxpayers were residents of Canada while noting that any dispute between the two contracting states had to be resolved by the competent authorities and not by the Court. In particular, and contrary to the position taken by the Appellant before the FCA in this instance, there was no suggestion that the mechanism involving the competent authorities was a condition precedent to an assessment of the taxpayers as residents of Canada.
+The Position of the Appellant
+[83] In this proceeding, the Appellant again argues that since it was “a resident of both states (…) the competent authorities were under an obligation to endeavour to reach a mutual agreement” and since there was no such agreement “the Appellant is deemed not to be a resident of either state for the purposes of Articles 6 to 21 inclusive and Articles 23 and 24 of the Treaty.” [67]
+[84] The Appellant also argues that Article 25 of the Convention entitled “Mutual Agreement Procedure” is “merely a permissive provision, allowing a taxpayer to apply for a competent authority determination” but that it “does not relieve either State from the mandatory language of Article 4, Clause 3, which is triggered when a person is a resident of both States.” [68]
+[85] It is argued that since “the language of Article 4(3) is mandatory and binding upon both States, and does not depend upon a request by the taxpayer,” the Minister “was, and remains, barred from assessing taxes on the gain realized upon the disposition of the Canadian Farm Partnership Interest.” [69] The Appellants conclude by indicating that since “the Treaty overrides the provisions of the ITA, the Minister’s assessment of the gain was without legal authority” and is “therefore invalid.” [70]
+The Position of the Respondent
+[86] The Respondent asserts that the Appellant has failed to properly interpret the plain language of the Convention “in accordance with the intention of the two contracting states, or in accordance with accepted and established extrinsic aids, such as the OECD Model Tax Convention” and commentary thereon as well as the Supreme Court of Canada decision in Crown Forest Industries Ltd. v. Canada, [71] (“Crown Forest”).
+[87] The Respondent argues that Article 4(3) does not provide “that neither state can tax the Appellant until there is a determination by the competent authorities” and that “in the absence of an agreement between the competent authorities (…) the provision only deems a corporation not to be a resident of either state” for the purposes of the treaty and any benefits it may offer. In particular, it is argued that “Article 4(3) does not deem the Appellant not to be resident in Canada for purposes of assessments made under the Income Tax Act.” [72]
+[88] The Respondent argues that the term “resident of one State” in Article 4(1) is determined by reference to “the laws of that State” and that (as noted in paragraph 51 of the TCC Decision) the Appellant has not adduced any expert evidence on the issue of foreign law: Canada v. Lefebvre, [73] (“Lefebvre”).
+[89] Moreover, while it is not disputed that the Appellant was constituted under the laws of the Netherlands and had a current address there, no evidence was adduced to prove that it was subject to tax in that jurisdiction by reason of its “domicile, residence, place of management or any other criterion of a similar nature” as required by the provision. It is argued that such a determination cannot be made by the Court based on “inferences from documents on the record” [74] and that the Court must be satisfied that the Appellant was subject to “comprehensive tax liability” or had “a basis for tax liability” in the Netherlands. The Respondent argues that without this evidence, “there can be no determination of the Appellant’s residence in the Netherlands” and as a result “the Appellant is only a resident” of Canada and the provisions of the Convention “do not apply.” [75]
+[90] The Respondent adds that the application of Article 4(3) is predicated on a finding that the Appellant was a resident of Canada and the Netherlands, at which point, the competent authorities could be engaged “to endeavour to settle the matter by mutual agreement.” It is argued that Article 25(1) places the onus on the Appellant to engage the process and request a determination “under the Mutual Agreement Procedure” and that the competent authority “may not initiate a procedure (…) until the taxpayer presents its case.” [76]
+[91] To conclude, the Respondent argues that “in the absence of such agreement” the Appellant is deemed to be a resident of neither state for the purpose of the treaty provisions only and that it would be subject to “the underlying law of each State.” [77]
+Analysis
+[92] It is self-evident that the notion of residence is of critical importance in the application of the Convention. In this instance, although the Court has already concluded that the Appellant was a resident of Canada pursuant to the test of central management and control, as noted above, the Appellant relies on Article 4(3) of the Convention and argues that it was “a resident of both States.” A reading of Article 4(1) suggests that a taxpayer must first be able to demonstrate that it was a “resident of one of the States,” i.e. the Netherlands, and that it was “liable to tax therein.”
+[93] The difficulty is that the Appellant has failed to adduce expert evidence on applicable Dutch law such that the Court is unable to determine with any degree of certainty that it was indeed a resident and liable to tax in the Netherlands. As noted by the FCA in Lefebvre “foreign law relevant to the disposition of the case” must “be proven by expert evidence before it can be considered.” [78]
+[94] That should suffice to resolve the matter because if the Appellant is not liable for tax in the Netherlands, as that expression is understood for purposes of the Convention, and is not a resident of both Canada and the Netherlands, then one could reasonably conclude that Article 4 of the Convention is not engaged or does not apply.
+[95] The other difficulty is that Article 4(1) refers to the term “resident of one of the States… under the laws of that State” and requires that it “is liable to tax therein” on the basis of the listed grounds being “domicile, residence, place of management or any other criterion of a similar nature.” As noted by the Supreme Court of Canada in Crown Forest, the Court must be satisfied that there is some “causal connection or (…) at least, some relationship of proximity” between the Appellant’s liability for tax in the Netherlands and the grounds listed above. [79] This involves “more than simply being liable to taxation on some portion of income” and entails “being subject to as comprehensive a tax liability as is imposed by a state.” [80]
+[96] To further assist in the interpretation of Article 4, I turn to the OECD Model Tax Convention on Income and on Capital 2017 (Full Version) (the “OECD Model Convention”) and commentary thereon (the “OECD Commentary”).
+[97] As noted in Crown Forest, “Articles 31 and 32 of the Vienna Convention on the Law of Tax Treaties (Can. T.S. 1980 No. 37) indicate that reference may be made to these types of extrinsic materials when interpreting international documents such as tax conventions.” [81] Similarly, in Prévost Car Inc. v. The Queen, [82] (“Prévost”), the FCA held that:
+The worldwide recognition of the provisions of the Model Convention and their incorporation into a majority of bilateral conventions have made the Commentaries on the provisions of the OECD Model Convention a widely accepted guide to the interpretation and application of the provisions of existing bilateral conventions (…)
+[98] The OECD Commentary on Article 4 of the OECD Model Convention confirms that a person is not to be considered a resident of a contracting state if, although considered a resident under domestic law, it “is subject to taxation limited to income from sources in that State or to capital gains in that State.” [83] The object and purpose of the provision, “is to exclude persons who are not subject to comprehensive taxation (full liability for tax) in a State.” [84]
+[99] In this instance, setting aside the issue of the absence of expert evidence as referenced above, I am of the view that there is insufficient evidence to conclude that the Appellant was subject to comprehensive taxation in the Netherlands.
+[100] As a result, for purposes of Article 4(1), the Court is unable to determine conclusively that the Appellant was “a resident of one of the States,” i.e. the Netherlands, and it follows that it is also unable to determine conclusively that the Appellant was “a resident of both States” for purposes of Article 4(3).
+[101] Having reached that conclusion, I will nonetheless briefly address the “Mutual Agreement Procedure” described in Article 25 of the Convention. It provides that where a person considers that the action of one or both of the States will result in taxation that is not in accordance with the provisions of the Convention, i.e. double taxation, an application in writing may be filed with “the competent authority of the State of which he is a resident.” The “competent authority of the State (…) shall endeavor (…) to resolve the issue by mutual agreement with the competent authority of the other State.” If the competent authorities are unable to resolve the matter by mutual agreement, they may submit it to arbitration. The application “must be presented within two years from the first notification of the action resulting” in such taxation (my emphasis).
+[102] The Appellant was formally notified of the Minister’s decision to reassess the subject capital gain with the issuance of the Notice of Reassessment on July 3, 2013. A Notice of Objection was filed on September 7, 2013. As a practical matter, the Appellant could have requested that the matter be held in abeyance pending the filing of an application pursuant to Article 25, as reviewed above. It did not do so.
+[103] The difficulty once again is that having argued that Article 25 was “merely a permissive provision,” the Appellant cannot then argue that “an agreement between the competent authorities is a condition precedent to any assessment” (my emphasis). That position is simply untenable and must be rejected.
+[104] In accordance with the findings of this Court, as confirmed by the FCA, the Appellant is considered a resident of Canada under domestic law and is subject to Canadian taxation unless it is deemed, by virtue of a tax treaty with another country, to be a resident of the other country, in which case it is entitled to treaty benefits including the exemption for capital gains.
+[105] The Appellant states that in the absence of a competent authority determination, the Minister is not relieved “from the mandatory language” of Article 4(3) “which is triggered when a person is a resident of both States.”
+[106] This argument appears to flow from the Appellant’s understanding that, in the absence of a mutual agreement by the competent authorities, it is “deemed not to be a resident of either State” and consequently the capital gain is not subject to taxation in Canada and the Minister was not authorized to issue the assessment.
+[107] I agree with the Respondent that the expression “deemed not to be a resident of either State” does not mean that the Appellant is not subject to taxation in Canada. It merely means that the Appellant is not entitled to the treaty benefits listed therein including the exemption from capital gains as set out in Article 13.
+[108] Paragraph 24.4 [85] of the OECD Commentary on Article 4 of the OECD Model Convention supports this view. It provides as follows:
+24.2 The last sentence of paragraph 3 provides that in the absence of a determination by the competent authorities, the dual-resident person shall not be entitled to any relief or exemption under the Convention except to the extent and in such manner as may be agreed upon by the competent authorities. This will not, however, prevent the taxpayer from being considered a resident of each Contracting State for purposes other than granting treaty reliefs or exemptions to that person. (…)
+(My emphasis)
+[109] For all the foregoing reasons, the Court must again conclude that Article 4 of the Convention is not engaged because, in the absence of a mutual agreement between the competent authorities, the Appellant is “deemed not to be a resident of either State” such that it is not entitled to any treaty benefits including the exemption from capital gains pursuant to Article 13. It follows that the Minister was entitled to issue the reassessment in connection with the subject capital gain.
+VI. Conclusion
+[110] For all the foregoing reasons, the appeal is again dismissed with costs to the Respondent in connection with this redetermination only.
+Signed at Ottawa, Canada, this 8th day of March 2021.
+“Guy R. Smith”
+Smith J.
+Landbouwbedrijf Backx B. V.
+2015-1302(IT)G
+Annexes A and B
+Annexe A
+Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.)
+115.1(1) Notwithstanding any other provision of this Act, where the Minister and another person have, under a provision contained in a tax convention or agreement with another country that has the force of law in Canada, entered into an agreement with respect to the taxation of the other person, all determinations made in accordance with the terms and conditions of the agreement shall be deemed to be in accordance with this Act.
+(…)
+116(5.01) This subsection applies to the acquisition of a property by a person (referred to in this subsection as the “purchaser”) from a non-resident person if
+(a) the purchaser concludes after reasonable inquiry that the non-resident person is, under a tax treaty that Canada has with a particular country, resident in the particular country;
+(b) the property would be treaty-protected property of the non-resident person if the non-resident person were, under the tax treaty referred to in paragraph (a), resident in the particular country; and
+(c) the purchaser provides notice under subsection (5.02) in respect of the acquisition.
+116(5.02) A person (referred to in this subsection as the “purchaser”) who acquires property from a non-resident person provides notice under this subsection in respect of the acquisition if the purchaser sends to the Minister, on or before the day that is 30 days after the date of the acquisition, a notice setting out
+(a) the date of the acquisition;
+(b) the name and address of the non-resident person;
+(c) a description of the property sufficient to identify it;
+(d) the amount paid or payable, as the case may be, by the purchaser for the property; and
+(e) the name of the country with which Canada has concluded a tax treaty under which the property is a treaty-protected property for the purposes of subsection (5.01) or (6.1), as the case may be.
+(…)
+128.1(1) For the purposes of this Act, where at a particular time a taxpayer becomes resident in Canada,
+(a) where the taxpayer is a corporation or a trust,
+(i) the taxpayer’s taxation year that would otherwise include the particular time shall be deemed to have ended immediately before the particular time and a new taxation year of the taxpayer shall be deemed to have begun at the particular time, and
+(ii) for the purpose of determining the taxpayer’s fiscal period after the particular time, the taxpayer shall be deemed not to have established a fiscal period before the particular time;
+(b) the taxpayer is deemed to have disposed, at the time (in this subsection referred to as the “time of disposition”) that is immediately before the time that is immediately before the particular time, of each property owned by the taxpayer, other than, if the taxpayer is an individual,
+(i) property that is a taxable Canadian property,
+(ii) property that is described in the inventory of a business carried on by the taxpayer in Canada at the time of disposition,
+(iii) property included in Class 14.1 of Schedule II to the Income Tax Regulations, in respect of a business carried on by the taxpayer in Canada at the time of disposition, and
+(iv) an excluded right or interest of the taxpayer, other than an interest described in paragraph (k) of the definition excluded right or interest in subsection (10),
+(v) [Repealed, 2001, c. 17, s. 123]
+(c) the taxpayer shall be deemed to have acquired at the particular time each property deemed by paragraph 128.1(1)(b) to have been disposed of by the taxpayer, at a cost equal to the proceeds of disposition of the property;
+(…)
+152(8) An assessment shall, subject to being varied or vacated on an objection or appeal under this Part and subject to a reassessment, be deemed to be valid and binding notwithstanding any error, defect or omission in the assessment or in any proceeding under this Act relating thereto.
+(…)
+248(1) definition of “treaty-protected property”
+Treaty-protected property of a taxpayer at any time means property any income or gain from the disposition of which by the taxpayer at that time would, because of a tax treaty with another country, be exempt from tax under Part I; (bien protégé par traité)
+(…)
+250(5) Notwithstanding any other provision of this Act (other than paragraph 126(1.1)(a)), a person is deemed not to be resident in Canada at a time if, at that time, the person would, but for this subsection and any tax treaty, be resident in Canada for the purposes of this Act but is, under a tax treaty with another country, resident in the other country and not resident in Canada.
+Loi de l’impôt sur le revenu (L.R.C. (1985), ch. 1 (5e suppl.)
+115.1 (1) Malgré les autres dispositions de la présente loi, les montants déterminés et les décisions prises en conformité avec une convention qui est conclue entre le ministre et une autre personne, en conformité avec une disposition de quelque convention ou accord fiscal entre le Canada et un autre pays qui a force de loi au Canada, et qui vise l’imposition de l’autre personne, sont réputés conformes à la présente loi.
+(…)
+116(5.01) Le présent paragraphe s’applique à l’acquisition d’un bien effectuée par une personne (appelée « acheteur » au présent paragraphe) auprès d’une personne non-résidente si les conditions suivantes sont réunies :
+a) après enquête sérieuse, l’acheteur en vient à la conclusion que la personne non-résidente est, aux termes d’un traité fiscal que le Canada a conclu avec un pays donné, un résident de ce pays;
+b) le bien serait un bien protégé par traité de la personne non-résidente si celle-ci était, aux termes du traité visé à l’alinéa a), un résident du pays donné;
+c) l’acheteur donne avis aux termes du paragraphe (5.02) relativement à l’acquisition.
+116(5.02) La personne (appelée « acheteur » au présent paragraphe) qui acquiert un bien d’une personne non-résidente donne avis relativement à l’acquisition si elle envoie au ministre, au plus tard le trentième jour suivant la date de l’acquisition, un avis contenant les renseignements suivants :
+a) la date de l’acquisition;
+b) les nom et adresse de la personne non-résidente;
+c) une description suffisamment détaillée du bien;
+d) la somme payée ou payable par l’acheteur pour le bien;
+e) le nom du pays ayant conclu avec le Canada un traité fiscal en vertu duquel le bien est un bien protégé par traité pour l’application des paragraphes (5.01) ou (6.1), selon le cas.
+(…)
+128.1(1) Pour l’application de la présente loi, les règles suivantes s’appliquent au contribuable qui commence à résider au Canada à un moment donné :
+a) lorsque le contribuable est une société ou une fiducie, les présomptions suivantes s’appliquent :
+(i) son année d’imposition qui comprendrait par ailleurs le moment donné est réputée avoir pris fin immédiatement avant ce moment et sa nouvelle année d’imposition, avoir commencé à ce moment,
+(ii) aux fins de déterminer l’exercice du contribuable après le moment donné, le contribuable est réputé ne pas avoir établie d’exercice avant ce moment;
+b) le contribuable est réputé avoir disposé, au moment (appelé « moment de la disposition » au présent paragraphe) immédiatement avant le moment immédiatement avant le moment donné, de chaque bien lui appartenant, à l’exception, s’il est un particulier, des biens suivants, pour un produit égal à la juste valeur marchande du bien au moment de la disposition :
+(i) les biens qui sont des biens canadiens imposables,
+(ii) les biens à porter à l’inventaire d’une entreprise que le contribuable exploite au Canada au moment de la disposition,
+(iii) les biens compris dans la catégorie 14.1 de l’annexe II du Règlement de l’impôt sur le revenu relatifs à une entreprise que le contribuable exploite au Canada au moment de la disposition,
+(iv) les droits, participations ou intérêts exclus du contribuable (sauf une participation visée à l’alinéa k) de la définition de droit, participation ou intérêt exclu au paragraphe (10));
+(v) [Abrogé, 2001, ch. 17, art. 123]
+c) le contribuable est réputé avoir acquis, au moment donné, chaque bien dont il est réputé par l’alinéa b) avoir disposé, à un coût égal au produit de disposition du bien;
+(…)
+152(8) Sous réserve des modifications qui peuvent y être apportées ou de son annulation lors d’une opposition ou d’un appel fait en vertu de la présente partie et sous réserve d’une nouvelle cotisation, une cotisation est réputée être valide et exécutoire malgré toute erreur, tout vice de forme ou toute omission dans cette cotisation ou dans toute procédure s’y rattachant en vertu de la présente loi.
+(…)
+248(1) définition du term «bien protégé par traité»
+Bien protégé par traité À un moment donné, bien d’un contribuable dont la disposition par lui à ce moment donne naissance à un revenu ou à un gain qui serait exonéré, par l’effet d’un traité fiscal, de l’impôt prévu à la partie I. (treaty-protected property)
+(…)
+250(5) Malgré les autres dispositions de la présente loi (sauf l’alinéa 126(1.1)a)), une personne est réputée ne pas résider au Canada à un moment donné dans le cas où, à ce moment, si ce n’était le présent paragraphe ou tout traité fiscal, elle résiderait au Canada pour l’application de la présente loi alors que, en vertu d’un traité fiscal conclu avec un autre pays, elle réside dans ce pays et non au Canada.
+Annex B
+Convention Between Canada and the Kingdom of the Netherlands
+This consolidated version of Canada-Netherlands Income Tax Convention signed on May 27, 1986 and amended by the Protocols signed on March 4, 1993 and August 25, 1997 is provided for convenience of reference only and has no official sanction.
+The Government of Canada and the Government of the Kingdom of the Netherlands, desiring to replace by a new convention the existing Convention between the Government of the Kingdom of the Netherlands and the Government of Canada for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income, signed at Ottawa on 2 April 1957, as modified by the Supplementary Convention signed at Ottawa on 28 October 1959 and as further modified by the Supplementary Convention signed at Ottawa on 3 February 1965, have agreed as follows:
+Chapter I – Scope of Convention
+Article 1 – Personal Scope
+This Convention shall apply to persons who are residents of one or both of the States.
+(…)
+Article 4 - Resident
+1. For the purposes of this Convention, the term "resident of one of the States" means any person who, under the laws of that State, is liable to tax therein by reason of his domicile, residence, place of management or any other criterion of a similar nature.
+(…)
+3. Where by reason of the provisions of paragraph 1 a person other than an individual is a resident of both States, the competent authorities of the States shall endeavour to settle the question by mutual agreement having regard to its place of effective management, the place where it is incorporated or otherwise constituted and any other relevant factors. In the absence of such agreement, such person shall be deemed not to be a resident of either State for the purposes of Articles 6 to 21 inclusive and Articles 23 and 24.
+(…)
+Article 13 – Capital Gains
+1. Gains derived by a resident of one of the States from the alienation of immovable property situated in the other State may be taxed in that other State.
+2. Gains from the alienation of movable property forming part of the business property of a permanent establishment which an enterprise of one of the States has in the other State or of movable property pertaining to a fixed base available to a resident of one of the States in the other State for the purpose of performing independent personal services, including such gains from the alienation of such a permanent establishment (alone or with the whole enterprise) or of such fixed base, may be taxed in that other State.
+3. Gains from the alienation of ships or aircraft operated in international traffic or movable property pertaining to the operation of such ships or aircraft, shall be taxable only in the State in which the place of effective management of the enterprise is situated. For the purposes of this paragraph the provisions of paragraph 3 of Article 8 shall apply.
+4. Gains derived by a resident of one of the States from the alienation of:
+a) shares (other than shares listed on an approved stock exchange in one of the States) forming part of a substantial interest in the capital stock of a company that is a resident of the other State the value of which shares is derived principally from immovable property situated in the other State, or
+b) a substantial interest in a partnership, trust or estate that was established under the law in the other State, or a controlling interest in a partnership or trust that was not established under the law in the other State, the value of which in either case is derived principally from immovable property situated in that other State, may be taxed in that other State. For the purposes of this paragraph, the term "immovable property" includes the shares of a company the value of which shares is derived principally from immovable property or a substantial interest in a partnership, trust or estate referred to in sub-paragraph (b), but does not include property (other than rental property) in which the business of the company, partnership, trust or estate is carried on; and a substantial interest exists when the resident and persons related thereto own 10% or more of the shares of any class of the capital stock of a company or have an interest of 10% or more in a partnership, trust or estate; and a controlling interest exists when the resident and persons related thereto have an interest of 50% or more in a partnership, trust or estate.
+5. Where a resident of one of the States alienates property which may in accordance with this Article be taxed in the other State and which was owned by a resident of the first-mentioned State on the date of signature of the Convention, the amount of the gain which is liable to tax in that other State in accordance with this Article shall be reduced by the proportion of the gain attributable (on a monthly basis), or such greater portion of the gain as is shown to the satisfaction of the competent authority of the other State to be reasonably attributable, to the period ending on 31 December of the year in which the Convention enters into force. However, this provision shall not apply to gains from the alienation of property which in accordance with the existing Convention may already be taxed in the other State.
+6. Where a resident of one of the States alienates property in the course of a corporate or other organization, reorganization, amalgamation, division or similar transaction and profit, gain or income with respect to such alienation is not recognized for the purpose of taxation in that State, if requested to do so by the person who acquires the property, the competent authority of the other State may agree, subject to terms and conditions satisfactory to such competent authority, to defer the recognition of the profit, gain or income with respect to such property for the purpose of taxation in that other State until such time and in such manner as may be stipulated in the agreement.
+7. Gains from the alienation of any property other than that referred to in paragraphs 1, 2, 3 and 4, shall be taxable only in the State of which the alienator is a resident.
+8. The provisions of paragraph 7 shall not affect the right of either of the States to levy, according to its law, a tax on gains from the alienation of any property derived by an individual who is a resident of the other State and has been a resident of the first-mentioned State at any time during the six years immediately preceding the alienation of the property.
+(…)
+Article 25 – Mutual Agreement Procedure
+1. Where a person considers that the actions of one or both of the States result or will result for him in taxation not in accordance with the provisions of this Convention, he may, irrespective of the remedies provided by the domestic law of those States, address to the competent authority of the State of which he is a resident an application in writing stating the grounds for claiming the revision of such taxation or, if his case comes under paragraph 1 of Article 24, to that of the State of which he is a national. The case must be presented within two years from the first notification of the action resulting in taxation not in accordance with the provisions of the Convention.
+2. The competent authority shall endeavour, if the objection appears to it to be justified and if it is not itself able to arrive at a satisfactory solution, to resolve the case by mutual agreement with the competent authority of the other State, with a view to the avoidance of taxation which is not in accordance with the Convention.
+3. A State shall not, after the expiry of the time limits provided in its national laws and, in any case, after six years from the end of the taxable period in which the income concerned has accrued, increase the tax base of a resident of either of the States by including therein items of income which have also been charged to tax in the other State. This paragraph shall not apply in the case of fraud or wilful default.
+4. The competent authorities of the States shall endeavour to resolve by mutual agreement any difficulties or doubts arising as to the interpretation or application of the Convention. In particular, the competent authorities may agree to the same attribution of income, deductions, credits or allowances of an enterprise of one of the States to its permanent establishment in the other State or between related enterprises as provided for in Article 9. They may also consult together for the elimination of double taxation in cases not provided for in the Convention.
+5. If any difficulty or doubt arising as to the interpretation or application of the Convention cannot be resolved by the competent authorities it may, if both competent authorities agree, be submitted for arbitration. The procedures for arbitration shall be established between the competent authorities.
+Convention entre le Canada et le Royaume des Pays-bas
+Cette refonte de la Convention fiscale entre le Canada et le Royaume des Pays-Bas signée le 27 mai 1986, et telle qu’elle a été modifiée par le Protocole signé le 4 mars 1993 et le Protocole signé le 25 août 1997, n’est fournie qu’à titre de référence et n’a aucune valeur officielle.
+Le Gouvernement du Canada et Le Gouvernement du Royaume des Pays-Bas, désireux de remplacer par une nouvelle convention la Convention actuelle entre le Gouvernement du Canada et le Gouvernement du Royaume des Pays-Bas en vue d’éviter les doubles impositions et de prévenir l’évasion fiscale en matière d'impôts sur le revenu, signée à Ottawa le 2 avril 1957, telle que modifiée par la Convention supplémentaire signée à Ottawa le 28 octobre 1959 et telle que subséquemment modifiée par la Convention supplémentaire signée à Ottawa le 3 février 1965, sont convenus des dispositions suivantes:
+Chapitre I - Champ d’application de la convention
+Article 1 - Personnes visées
+La présente Convention s’applique aux personnes qui sont des résidents d’un État ou des deux États.
+(…)
+Article 4 - Résident
+1. Au sens de la présente Convention, l’expression « résident de l’un des États » désigne toute personne qui, en vertu de la législation de cet État, est assujettie à l’impôt dans cet État, en raison de son domicile, de sa résidence, de son siège de direction ou de tout autre critère de nature analogue.
+(…)
+3. Lorsque, selon les dispositions du paragraphe 1, une personne autre qu’une personne physique est un résident de chacun des États, les autorités compétentes des États s’efforcent de trancher la question d’un commun accord en ayant égard à son siège de direction effective, au lieu où elle a été constituée ou créée et à tous autres éléments pertinents. A défaut d’un tel accord, cette personne est considérée comme n’étant pas un résident d’aucun des États pour l’application des articles 6 à 21 inclus et des articles 23 et 24.
+(…)
+Article 13 - Gains en capital
+1. Les gains qu'un résident de l'un des États tire de l'aliénation de biens immobiliers situés dans l'autre État, sont imposables dans cet autre État.
+2. Les gains provenant de l'aliénation de biens mobiliers qui font partie de l'actif d'un établissement stable qu'une entreprise de l'un des États a dans l'autre État, ou de biens mobiliers qui appartiennent à une base fixe dont un résident de l'un des États dispose dans l'autre État pour l'exercice d'une profession indépendante, y compris de tels gains provenant de l'aliénation de cet établissement stable (seul ou avec l'ensemble de l'entreprise) ou de cette base fixe, sont imposables dans cet autre État.
+3. Les gains provenant de l'aliénation de navires ou aéronefs exploités en trafic international ainsi que de biens mobiliers affectés à l'exploitation de ces navires ou aéronefs ne sont imposables que dans l'État où le siège de direction effective de l'entreprise est situé. Au sens du présent paragraphe, les dispositions du paragraphe 3 de l'article 8 s'applique.
+4. Les gains qu'un résident de l'un des États tirent de l'aliénation
+a) d'actions (autres que des actions inscrites à une bourse de valeurs approuvée dans l'un des État) faisant partie d'une participation substantielle dans le capital d'une société qui est un résident de l'autre État et dont la valeur des actions est principalement tirée de biens immobiliers situés dans l'autre État, ou
+b) d'une participation substantielle dans une société de personnes, une fiducie ou une succession constituée en vertu de la législation de l'autre État, ou d'une participation majoritaire dans une société de personnes ou une fiducie non constituée en vertu de la législation de l'autre État, et dont la valeur est, dans l'un et l'autre cas, principalement tirée de biens immobiliers situés dans l'autre État, sont imposables dans cet autre État. Au sens du présent paragraphe, l'expression "biens immobiliers" comprend des actions d'une société dont la valeur des actions est principalement tirée de biens immobiliers ou une participation substantielle dans une société de personnes, une fiducie ou une succession visée à l'alinéa b), mais ne comprend pas les biens, autres que les biens locatifs, dans lesquels la société, la société de personnes, la fiducie ou la succession exerce son activité; il existe une participation substantielle lorsque le résident et des personnes qui lui sont associées possèdent au moins 10 pour cent des actions d'une catégorie quelconque du capital social d'une société ou ont une participation d'au moins 10 pour cent dans une société de personnes, une fiducie ou une succession; et il existe une participation majoritaire lorsque le résident et des personnes qui lui sont associées ont une participation d'au moins 50 pour cent dans une société de personnes, une fiducie ou une succession.
+5. Lorsqu'un résident de l'un des États aliène un bien qui, conformément au présent article, est imposable dans l'autre État et qui appartenait à un résident du premier État à la date de signature de la Convention, le montant du gain qui est assujetti à l'impôt dans cet autre État conformément au présent article est réduit de la fraction du gain qui est imputable (sur une base mensuelle), ou toute part plus élevée du gain telle qu'établie à la satisfaction de l'autorité compétente de l'autre État comme étant raisonnablement imputable, à la période se terminant le 31 décembre de l'année où la Convention est entrée en vigueur. Toutefois, la présente disposition ne s'applique pas aux gains provenant de l'aliénation d'un bien qui, conformément à la Convention actuelle, sont déjà imposables dans l'autre État.
+6. Lorsqu'un résident de l'un des États aliène un bien lors d'une constitution en société ou autres constitutions, d'une réorganisation, d'une fusion, d'une séparation ou d'une opération semblable et que le bénéfice, gain ou revenu relatif à une telle aliénation n'est pas reconnu aux fins d'imposition dans cet État, si elle en est requise par la personne qui acquiert le bien, l'autorité compétente de l'autre État peut, sous réserve de modalités qui lui sont satisfaisantes, accepter de différer la reconnaissance du bénéfice, gain ou revenu relatif audit bien aux fins d'imposition dans cet autre État jusqu'au moment et de la façon qui sont précises dans l'entente.
+7. Les gains provenant de l'aliénation de tous biens autres que ceux visés aux paragraphes 1, 2, 3 et 4 ne sont imposables que dans l'État dont le cédant est un résident.
+8. Les dispositions du paragraphe 7 ne portent pas atteinte au droit de chacun des États de percevoir, conformément à sa législation, un impôt sur les gains provenant de l'aliénation d'un bien et réalisés par une personne physique qui est un résident de l'autre État et qui a été un résident du premier État à un moment quelconque au cours des six années précédant immédiatement l'aliénation du bien.
+(…)
+Article 25 - Procédure amiable
+1. Lorsqu'une personne estime que les mesures prises par l'un des États ou par les deux États entraînent ou entraîneront pour elle une imposition non conforme aux dispositions de la présente Convention, elle peut, indépendamment des recours prévus par le droit interne de ces États, adresser à l'autorité compétente de l'État dont elle est un résident, une demande écrite et motivée de révision de cette imposition ou, si son cas relève du paragraphe 1 de l'article 24, à celle de l'État dont elle possède la nationalité. Le cas doit être soumis dans les deux ans suivant la première notification de la mesure qui entraîne une imposition non conforme aux dispositions de la Convention.
+2. L'autorité compétente s'efforce, si la réclamation lui paraît fondée et si elle n'est pas elle-même en mesure d'y apporter une solution satisfaisante, de résoudre le cas par voie d'accord amiable avec l'autorité compétente de l'autre État, en vue d'éviter une imposition non conforme à la Convention.
+3. Un État n'augmente pas la base imposable d'un résident de l'un ou l'autre État en y incluant des éléments de revenu qui ont déjà été imposés dans l'autre État, après l'expiration des délais prévus par sa législation nationale et, en tout cas, après l'expiration de six ans à dater de la fin de la période imposable au cours de laquelle les revenus en cause ont été réalisés. Le présent paragraphe ne s'applique pas en cas de fraude ou d'omission volontaire.
+4. Les autorités compétentes des États s'efforcent, par voie d'accord amiable, de résoudre les difficultés ou de dissiper les doutes auxquels peuvent donner lieu l'interprétation ou l'application de la Convention. En particulier, les autorités compétentes peuvent parvenir à un accord pour que les revenus, déductions, crédits ou allocations revenant à une entreprise de l'un des États et à son établissement stable dans l'autre État ou, entre entreprises associées visées à l'article 9, soient imputés d'une manière identique. Elles peuvent aussi se concerter en vue d'éviter la double imposition dans les cas non prévus par la Convention.
+5. Si les difficultés ou les doutes auxquels peuvent donner lieu l'interprétation ou l'application de la Convention ne peuvent être résolus ou dissipés par les autorités compétentes, ces difficultés ou ces doutes peuvent, si les deux autorités compétentes s'entendent, être soumis à l'arbitrage. Les procédures d'arbitrage seront convenues entre les autorités compétentes.
+CITATION:
+2021 TCC 2
+COURT FILE NO.:
+2015-1302(IT)G
+STYLE OF CAUSE:
+Landbouwbedrijf Backx B.V.
+v. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+London, Ontario
+DATE OF HEARING:
+June 5, 2017
+AMENDED REASONS FOR JUDGMENT BY:
+The Honourable Justice Guy R. Smith
+DATE OF AMENDED JUDGMENT:
+March 8, 2021
+APPEARANCES:
+Counsel for the Appellant:
+Sean C. Flaherty
+Keith M. Trussler
+Counsel for the Respondent:
+Joanna Hill
+Montano Cabezas
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Sean C. Flaherty
+Keith M. Trussler
+Firm:
+McKenzie Lake Lawyers LLP
+London, Ontario
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Landbouwbedrijf Backx BV v. The Queen, 2018 TCC 142 (“TCC Decision”).
+[2] Landbouwbedrijf Backx BV v. Canada, 2019 FCA 310 (“FCA Decision”).
+[3] FCA Decision, para. 20
+[4] FCA Decision, para. 29
+[5] Income Tax Act, RSC 1985, c 1 (5th Supp.).
+[6] Exhibit R-4, Memo of Moray Watson, December 10, 2001, p. 2
+[7] Exhibit R-12, Letter from Moray Watson, October 14, 2009.
+[8] Notice of Appeal, para. 8
+[9] FCA Decision, para. 5
+[10] FCA Decision, para.7
+[11] FCA Decision, para. 10
+[12] FCA Decision, para. 11
+[13] Ludmer v. Canada, [1995] 2 F.C. 3, (“Ludmer”).
+[14] FCA Decision, para. 13
+[15] FCA Decision, para.14
+[16] FCA Decision, para. 15
+[17] TCC Decision, para. 55
+[18] TCC Decision, para. 57 and 58
+[19] FCA Decision, para. 19
+[20] Standard Life Assurance Co. of Canada v. The Queen, 2015 TCC 97, para. 65, (“Standard Life”).
+[21] Written Submissions of the Appellant, para. 2
+[22] Reply, para. 9(s)
+[23] FCA Decision, para. 10
+[24] FCA Decision, para. 10
+[25] FCA Decision, para. 18
+[26] Respondent’s Written Submissions, para. 3
+[27] Exhibit R-4, Memorandum of Moray Watson, December 10, 2001.
+[28] Appellant’s Written Submissions, para. 8
+[29] Appellant’s Written Submissions, para. 10
+[30] Goldstein v. Canada [1995] 2 C.T.C. 2036, “Goldstein”.
+[31] Goldstein, para. 2
+[32] Toronto (City) v. C.U.P.E, Local 79, 2003 SCC 63 (“Toronto City”).
+[33] Toronto City para. 23
+[34] Appellants Written Submissions, para. 14
+[35] Danyluck v. Ainsworth Technologies Inc., 2001 SCC 44, para.44 (“Danyluck”).
+[36] Metropolitan Toronto Condominium Corp. No. 1352 v. Newport Beach Development Inc., 2012 ONCA 850 para. 42–53,(“Metropolitan”).
+[37] Appellant’s Written Submissions, para. 15
+[38] Appellant’s Written Submissions, para 17
+[39] Ludmer, para. 13
+[40] FCA Decision, para 14
+[41] Goldstein, para. 28
+[42] Goldstein, para. 29
+[43] R. v. Jarvis, 2002 SCC 73 (“Jarvis”).
+[44] Respondent’s Written Submissions, para. 71
+[45] Appellant’s Written Submissions, para 7
+[46] Jarvis, 2002 SCC 73
+[47] Appellant’s Written Submission, para. 15
+[48] Appellant’s Written Submission, para. 20
+[49] Riendeau v. The Queen [1990] 1 C.T.C. 141 (FCTD).
+[50] McAdams v. The Queen, 2014 FCA 99, para. 6 (“McAdams”)
+[51] Canada (National Revenue) v. JP Morgan Asset Management (Canada) Inc., 2013 FCA 250, para. 77-79. (“JP Morgan”).
+[52] Appellant’s Reply Submissions, para. 2
+[53] Appellant’s Reply Submissions, para. 4
+[54] Notice of Appeal, para. 8
+[55] Convention Between Canada and the Kingdom of the Netherlands for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with respect to taxes on Income on May 27, 1986, with Protocols signed on March 4, 1993, and August 25, 1997.
+[56] FCA Decision, para. 29
+[57] FCA Decision,, para. 21
+[58] FCA Decision,, para. 21
+[59] FCA Decision,, para. 26
+[60] FCA Decision, para. 88
+[61] FCA Decision, para. 52
+[62] McFayden v. The Queen, [2000] 4 CTC 2573, (“McFayden”).
+[63] McFayden, para. 38
+[64] McFayden, para. 46
+[65] Malcolm Fisher v. the Queen, [1995] CTC 2011 (“Malcolm Fisher”)
+[66] Malcolm Fisher, para. 152
+[67] Appellant’s Written Submissions, para. 45
+[68] Appellant’s Written Submissions, para. 43
+[69] Appellant’s Written Submissions, para. 49
+[70] Appellant’s Written Submissions, para. 50
+[71] Crown Forest Industries Ltd. v. Canada, [1992] 2 SCR 802, (“Crown Forest”), para. 22, 42–44 &54
+[72] Respondent’s Written Submissions, para. 82
+[73] Canada v. Lefebvre, 2009 FCA 307 (“Lefebvre”).
+[74] Respondent’s Written Submissions, para. 86
+[75] Respondent’s Written Submissions, para. 91
+[76] Respondent’s Written Submissions, para. 97
+[77] Respondent’s Written Submissions, para. 102
+[78] Lefebvre, para. 21
+[79] Crown Forest, para. 24–25
+[80] Crown Forest, para. 40
+[81] Crown Forest, para. 55
+[82] Prévost Car Inc. v. The Queen, 2009 FCA 57 (“Prévost”), para. 10
+[83] OECD Commentary, para 8-1, page 181
+[84] OECD Commentary, para 8-3, page 181
+[85] OECD Commentary, para. 24,4, page 190

@@ -1,0 +1,181 @@
+Title: Charron c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29248/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-290-29248-charron-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-05-28
+
+# Charron c. La Reine
+
+- Citation: 2009 CCI 290
+- Decision date: 2009-05-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6988, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Charron c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-05-28
+Référence neutre
+2009 CCI 290
+Numéro de dossier
+2007-3015(IT)G
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-3015(IT)G
+ENTRE :
+GILLES CHARRON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 29 janvier 2009, à Montréal (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l'intimée :
+Me Louis L'Heureux
+____________________________________________________________________
+JUGEMENT
+L’appel de la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l’année d'imposition 2002 est rejeté, avec dépens en faveur de l'intimée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 28e jour de mai 2009.
+« Alain Tardif »
+Juge Tardif
+Référence : 2009 CCI 290
+Date : 20090528
+Dossier : 2007-3015(IT)G
+ENTRE :
+GILLES CHARRON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+Année en litige
+[1] Il s’agit d’un appel relatif à l’année d’imposition 2002. Le fondement de la cotisation est l’imposition d’une pénalité, l’appelant ayant surévalué de 402 225 $ les pertes découlant de ses nombreuses transactions sur valeurs mobilières pour l’année d’imposition 2002.
+Question en litige
+[2] Est-ce que le ministre était justifié d’imposer une pénalité à l’appelant en vertu du paragraphe 163(2) de la Loi de l’impôt sur le revenu (la « Loi ») pour l’année d’imposition 2002?
+[3] La réponse à la question en litige doit découler de l’analyse des faits en fonction du paragraphe 163(2) de la Loi, qui se lit comme suit :
+163(2) Faux énoncés ou omissions -- Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d'imposition pour l'application de la présente loi, ou y participe, y consent ou y acquiesce est passible d'une pénalité égale, sans être inférieure à 100 $, à 50 % du total des montants suivants :
+[…]
+[4] En cette matière, le fardeau de la preuve incombe à l’intimée. La preuve a été constituée des témoignages de l’appelant, de M. Charles Landreville, comptable agréé, et de M. Pierre-Luc Meunier, en sa qualité de vérificateur des déclarations de revenus de l’appelant.
+[5] L’appelant a expliqué et décrit son long cheminement professionnel comme conseiller en placements et ce, pour plusieurs institutions parmi les plus réputées en cette matière.
+[6] Après que l’appelant a été sélectionné pour une vérification fiscale, un premier contact téléphonique fut effectué; le vérificateur, M. Pierre‑Luc Meunier, a alors demandé à l’appelant de réunir tous les documents pertinents pour lui permettre de vérifier les années d’imposition 2000, 2001 et 2002.
+[7] Pour les années en question, les revenus de l’appelant provenaient principalement, sinon essentiellement, de l’achat et de la vente d’actions, tant sur le marché canadien que sur le marché américain.
+[8] Lors de la première rencontre dans un restaurant quelques semaines après le premier contact téléphonique, l’appelant avait avec lui et a remis au vérificateur les documents pertinents pour les années d’imposition 2000 et 2001; il n’avait alors pas les documents pour l’année d’imposition 2002.
+[9] Pour l’année d’imposition 2002, l’appelant a suggéré au vérificateur qu’elle ne fasse pas l’objet d’une vérification si les années 2000 et 2001 satisfaisaient les exigences et s’avéraient conformes à ses obligations fiscales; il a ainsi justifié ne pas avoir, à ce moment, les documents pertinents pour cette année.
+[10] L’analyse des informations et documents alors remis pour les années d’imposition 2000 et 2001 a permis de constater assez rapidement que tout était satisfaisant et acceptable.
+[11] Par contre, le vérificateur n’a pas retenu la suggestion ou la recommandation de l’appelant de ne pas vérifier l’année 2002; il a plutôt insisté que les informations et les documents pour 2002 lui soient remis, trouvant d’ailleurs suspect et fort particulier le fait que l’appelant lui suggérait si fortement de ne pas vérifier l’année 2002.
+[12] Il a ainsi réitéré sa demande pour obtenir les documents pour l’année 2002; encore là, l’appelant a exprimé des réticences quant à la pertinence de donner suite à une telle demande, ajoutant qu’il aurait à verser des frais importants à l’institution afin d’obtenir les informations et documents demandés.
+[13] Pour éviter que les coûts ne soient assumés par l’appelant, il a été établi que le vérificateur adresserait une demande péremptoire enjoignant à l’institution de préparer et de remettre ainsi les documents pertinents à moindre coût.
+[14] Malgré des instructions claires, nettes et précises quant aux documents requis, des documents incomplets furent soumis par l’appelant lesquels, d’une part, après une analyse très sommaire, permettaient de constater un écart important et, d’autre part, étaient incomplets et non fiables à leur simple lecture.
+[15] De plus, les documents indiquaient une erreur grossière et manifeste, à savoir que la perte réclamée découlait de l’achat et de la vente de valeurs mobilières en 2002.
+[16] Les documents indiquaient tous les achats et toutes les ventes, mais ne tenaient pas compte des actions non vendues, rendant ainsi l’exercice tout à fait futile et contraire aux règles les plus élémentaires quant à la façon de calculer le montant de la perte admissible pour l’année d’imposition 2002. En d’autres termes, des valeurs mobilières non vendues figuraient au rapport, faussant ainsi le calcul quant à la valeur des actions non vendues.
+[17] À la suite de ce constat, il devenait alors encore plus impératif que l’appelant fournisse tous les documents utiles, pertinents et fiables pour établir la véritable perte à laquelle il avait droit.
+[18] La suite du récit a fait l’objet de contradictions importantes. L’appelant a affirmé avoir demandé au vérificateur Meunier d’évaluer approximativement la perte à laquelle il avait droit. Ce dernier, toujours selon l’appelant, aurait fait état d’une perte dont le montant pouvait varier entre 70 000 $ et 80 000 $ pour l’année 2002.
+[19] À partir de cette évaluation arbitraire obtenue du vérificateur, l’appelant a préparé un document détaillé démontrant une perte quelque peu supérieure à 70 000 $. L’appelant a affirmé qu’il avait fait l’exercice à la demande expresse du vérificateur; selon l’appelant, il aurait été tacitement convenu qu’il suffisait de préparer un document démontrant une perte de 70 000 $ à 75 000 $ pour clore le dossier et le mandat de vérification dont M. Meunier avait été chargé. Il a donc préparé un document pour mettre un terme, toujours selon lui, à la vérification, et cela, sachant qu’il était mensonger.
+[20] L’appelant a indiqué avoir fait ce travail sommaire, non précis et peu fiable étant donné qu’il croyait simplement devoir justifier la perception arbitraire du vérificateur quant au montant de la perte. Étant donné l’explication assez rocambolesque, l’appelant a ensuite affirmé qu’il avait été délibérément piégé par le vérificateur Meunier, à qui il a notamment reproché son arrogance, son ignorance, son inexpérience et son trop jeune âge.
+[21] Encore là, le vérificateur a constaté très rapidement que le document renfermait plusieurs erreurs et indications tout simplement mensongères, notamment quant au prix moyen.
+[22] Le vérificateur a alors exigé des documents plus complets et plus fiables pour permettre un travail de vérification convenable, d’autant plus que le comportement de l’appelant validait ses soupçons premiers, à savoir qu’il tentait manifestement de cacher la vérité quant aux pertes admissibles pour l’année 2002.
+[23] Un collègue de l’appelant a affirmé qu’il y avait des difficultés à obtenir des documents fiables; il a expliqué différentes situations pouvant causer que des relevés de comptes soient peu fiables.
+[24] Il a donné l’exemple d’un client arrivant d’un autre courtier, indiquant qu’il est alors impossible de savoir ce qui s’est passé avant le transfert. Dans ce genre de dossier, il devenait difficile, sinon impossible, d’établir un prix moyen véritable; le montant indiqué étant alors soit arbitraire, soit intuitif. Il a également affirmé qu’un conseiller pouvait faire des changements sur certains relevés; il fallait donc être vigilant quant à la qualité et la provenance de tout relevé.
+[25] Il a néanmoins reconnu que les relevés remis par les courtiers étaient généralement fiables et satisfaisants. En fin de compte, des documents pertinents et fiables furent remis au vérificateur.
+[26] La vérification qui a enfin été effectuée grâce aux documents pertinents, après les nombreuses réserves et tentatives de s’y soustraire de l’appelant, après le dépôt de documents incomplets et inappropriés, après le dépôt d’un travail mensonger, a établi d’une manière convaincante et déterminante que les pertes avaient été surévaluées de 402 255 $ par l’appelant.
+[27] Devant la situation pour le moins gênante, au point qu’il devenait impossible de mettre en doute le résultat de la vérification quant à l’évaluation des pertes et devant l’évidence que le montant des pertes avait été gonflé considérablement, l’appelant a fait valoir toute une série d’explications et d’excuses pour justifier l’annulation de la pénalité à l’origine de la cotisation.
+[28] Il a notamment fait valoir qu’il n’avait pas les connaissances requises pour calculer exactement les pertes subies et qu’il avait fait l’objet d’une vérification où il avait été arnaqué; il a aussi fait valoir qu’il avait été induit en erreur par des personnes manifestement de mauvaise foi.
+[29] Il a également reproché au comptable de ne pas lui avoir offert de faire une vérification fiable. Il soutient qu’il n’avait pas les connaissances nécessaires pour faire un travail adéquat, alors que pour les deux premières années visées par la vérification, le travail était satisfaisant. Dans son argumentation écrite, il a dit qu’il avait dix années d’expérience, alors que la preuve a plutôt fait état de 20 années. En résumé, l’appelant a soutenu avoir toujours été vigilant et prudent et s’être comporté normalement, sans faute ni négligence, ajoutant être un contribuable honnête et de bonne foi et ayant toujours assumé ses responsabilités fiscales. Dans sa réplique à la réponse de l’intimée, il a notamment écrit ce qui suit :
+12. L’appelant n’a pas tenté de cacher quoi que ce soit à l’impôt. Il a collaboré avec le vérificateur, lui a fait confiance mais le vérificateur a tenté de le piéger.
+13. Il est vrai que l’appelant a été négligeant lors de la rédaction de son rapport d’impôt 2002, il était désintéressé à constater à nouveau ses déboires financiers et a manqué de rigueur dans la préparation de son rapport d’impôt. Néanmoins, il a agi de bonne foi et n’a pas à être pénalisé conformément au paragraphe 163(2) de la LIR.
+[30] L’appelant a de plus reproché au vérificateur de l’avoir induit en erreur à la suite du projet de cotisation. Il a également exprimé des griefs à l’endroit de la personne responsable de l’examen de son avis d’opposition.
+[31] Le vérificateur l’aurait appelé par erreur, croyant appeler un service de remorquage, à cause sans doute d’une confusion quant au numéro de téléphone. L’appelant a interprété cette erreur comme étant une mesure d’intimidation, voire même une tentative de corruption.
+[32] L’imposition d’une pénalité en vertu du paragraphe 163(2) de la Loi est certes une mesure punitive dont le but est manifestement de faire comprendre aux contribuables l’importance de produire leurs déclarations de revenus avec des renseignements et des chiffres exacts.
+[33] Déclarer ses revenus conformément aux dispositions de la Loi n’est pas un exercice arbitraire ou intuitif; il s’agit d’un exercice qui doit être fait avec minutie, discipline et rigueur, et où il peut être nécessaire d’avoir recours à une personne compétente.
+[34] Puisque bonne foi se présume, l’erreur, l’oubli et l’ignorance peuvent, à la limite, expliquer un résultat erroné dans une déclaration de revenus. Il doit cependant s’agir de quelque chose de mineur ou d’anodin eu égard aux chiffres en cause et à l’ensemble du contexte et des circonstances. L’aveuglement volontaire, la témérité et l’insouciance ne sont pas des excuses recevables, particulièrement lorsque le résultat démontre des écarts très considérables entre les informations transmises et la réalité.
+[35] En effet, lorsqu’un écart représente des montants considérables et que le contribuable est une personne bien informée qui travaille dans un milieu où l’on se préoccupe des incidences fiscales, il devient extrêmement difficile d’expliquer et surtout de justifier des écarts très appréciables.
+[36] L’inexpérience et l’ignorance ne sont pas des arguments recevables, particulièrement lorsqu’on est en présence de montants importants. L’impôt à payer ne dépend pas des connaissances, de l’expérience, de l’éducation, et ainsi de suite; il est déterminé par la Loi et tous, sans exception, y sont assujettis.
+[37] L’appelant a reproché à son comptable de ne pas lui avoir offert de faire une vérification plus complète de la perte subie. Cette explication et ce grief sont non fondés, voire farfelus. L’appelant remettait à son comptable les informations et les détails qu’il préparait lui-même; le comptable signait le tout, mais n’avait rien à voir avec l’exactitude du contenu. D’ailleurs, l’appelant a ainsi procédé pour les années 2000 et 2001, lesquelles se sont avérées conformes.
+[38] L’appelant est une personne intelligente et s’exprime bien, possédant sans l’ombre d’un doute des connaissances et des compétences dans son domaine professionnel, comme le démontre d’ailleurs la durée de sa carrière chez les maisons les plus réputées en cette matière.
+[39] Le calcul des pertes subies est en soi relativement simple et facile à faire. Le calcul précis d’une perte est également très simple, particulièrement lorsqu’on dispose des relevés des courtiers responsables des fonds.
+[40] D’autre part, je rappelle que l’appelant faisait depuis des années des opérations valant des centaines de milliers de dollars à la bourse. Dans l’hypothèse peu crédible et improbable de l’inconfort ou de l’ignorance de l’appelant quant au calcul des pertes subies, il devait mandater une personne qualifiée et compétente pour fournir une déclaration précise de la perte réclamée.
+[41] Retenons ce qui suit : les connaissances de l’appelant, le genre de travail qu’il exécutait depuis plusieurs années, son expérience, la clarté et la qualité de ses déclarations pour les deux années antérieures à celle en litige, soit 2000 et 2001, la tentative d’inciter le vérificateur à ne pas vérifier l’année en litige, la non‑divulgation du relevé qui existait pourtant lors de la vérification, la tentative de produire un travail qu’il savait mensonger ou non véridique, le refus injustifié de produire une déclaration corrigée et conforme, l’entêtement injustifiable à maintenir une position intenable, et le genre de mandat qu’il donnait à son comptable. Les griefs faits à l’égard de tous les intervenants (les vérificateurs, l’agent d’appel et le comptable), les explications et le comportement général, et les explications farfelues sont suffisamment d’éléments pour conclure que les justifications et explications de l’appelant ne sont aucunement crédibles et doivent être rejetées.
+[42] De plus, il s’est écoulé beaucoup de temps entre le premier contact avec le vérificateur et la découverte du montant véritable de la perte. Durant toute cette période, l’appelant aurait très bien pu se corriger et collaborer, mais non, il a essentiellement manifesté de l’entêtement, consacrant toute son énergie à combattre les initiatives du vérificateur.
+[43] Dans l’introduction de sa plaidoirie écrite, l’appelant écrit :
+1. Pour les fins du calcul de son revenu pour l’année d’imposition 2002, l’appelant a surévalué ses pertes découlant de ses transactions sur valeurs mobilières dans son compte américain par un montant de 249,200$ US.
+[...]
+3. En raison principalement 1) l’appelant n’a pas à payer de pénalité pour avoir utilisé le formulaire transactions sur titres 2002 dûment émis par son employeur le croyant juste 2) l’appelant a agi de bonne foi 3) l’appelant n’a pas fait de faux énoncés ou d’omission, il a utilisé le mauvais formulaire qui semblait officiel 4) l’appelant n’a pas à payer de pénalité dû à l’obstination indue du vérificateur recrue du ministère.
+[44] À la rubrique « Représentations », l’appelant écrit ce qui suit :
+11. L’appelant n’a pas fait de faux énoncés ou d’omission.
+[45] Quant au contenu des autres paragraphes, au nombre total de 55, l’appelant y fait valoir qu’il s’agit d’une erreur peu importante, d’autant plus qu’il n’a complété que le secondaire V, ainsi qu’un cours par correspondance sur le commerce des valeurs mobilières.
+[46] Tout en reconnaissant l’erreur, il en attribue la responsabilité à la façon dont les rapports des maisons de courtage étaient préparés, ce qui, selon lui, générait une certaine confusion.
+[47] À plusieurs reprises, il a blâmé le vérificateur et critiqué sa compétence :
+3. ... l’obstination indue du vérificateur recrue du ministère.
+[...]
+31. L’appelant contribuable n’était pas surpris de voir l’arrivée du vérificateur dans son dossier, ayant lui-même travaillé pour Revenu Canada dans les années 80, un an CR-3 et un an CR-4 à la vérification primaire. Et connaissant la complexité de son dossier et des nombreuses transactions et des chiffres importants, il croyait que le vérificateur allait recalculer mais pas tenter de le piéger.
+32. La recrue Meunier, le vérificateur du dossier, n’avait que vingt-quatre (24) ans et à peine quelques mois d’expérience lors du début de la vérification de l’appelant en juin 2004.
+[...]
+36. Pendant cinq (5) mois, le vérificateur a tenté sans succès d’obtenir le document gains et pertes de la maison de courtage Valeurs Mobilières Desjardins, tel que mentionné dans le document T2020 produit par l’agence et déposé à la Cour par l’appelant. Cela avait pour effet de retarder la vérification.
+37. Un vérificateur expérimenté n’aurait pas fait cette demande à la maison de courtage, n’ayant pas à soumettre ce document interne.
+[...]
+39. L’appelant poussait le vérificateur à accélérer le dossier mais ce dernier disait avoir des cours, il y a eu grève aussi, tout cela irritait l’appelant et créait de l’animosité entre les parties.
+40. Au début décembre 2004, le vérificateur a téléphoné à l’appelant, lui demandant s’il pouvait lui envoyer une remorqueuse. L’appelant a refusé trouvant cette pratique non conforme à l’éthique.
+41. À la mi-décembre 2004, le vérificateur est venu remettre le rapport transactions sur titres à l’appelant, lui expliquant qu’il ne pouvait prendre ce rapport, il a alors tenté de la piéger et de lui faire produire de nouveaux calculs tout en lui indiquant selon lui que la perte devait être ramenée entre 65 et 85 milles dollars.
+[...]
+43. Le vérificateur Meunier n’a pas demandé à l’appelant de se servir des états de compte si tel avait été le cas l’appelant aurait obtempéré et produit un rapport avec beaucoup plus de minutie.
+[...]
+45. Madame Dilala fut abasourdie de l’attitude de M. Meunier et a demandé à l’appelant de faire des représentations dans les trente (30) jours.
+46. À la fin de cette rencontre, le vérificateur Meunier est allé reconduire l’appelant en lui indiquant où était la caisse et où il devait faire appel.
+47. Cette attitude discutable servant sciemment à confondre l’appelant a fonctionné. L’appelant a effectivement fait appel dans un délai de trente (30) jours au lieu d’avoir une rencontre avec Madame Dilala. L’appelant n’a jamais pu bénéficier d’une rencontre avec la superviseure de M. Meunier. Ce document de l’appel hâtif a été déposé comme pièce par l’appelant.
+[...]
+49. Le vérificateur Meunier est venu témoigner en Cour malgré qu’il fût en congé parental, nouvellement père de triplet, cela démontrant son obstination indue à pénaliser l’appelant contribuable celui-ci allant jusqu’à penser que M. Meunier l’avait en aversion.
+[48] Le moins que l’on puisse affirmer, c’est que l’appelant a consacré beaucoup de temps à faire le procès du vérificateur. Ce dernier a-t-il été trop zélé, au point de vicier les fondements de la cotisation?
+[49] L’appelant a d’abord lui-même créé des soupçons chez le vérificateur, en tentant de le convaincre de ne pas vérifier l’année d’imposition 2002; d’autre part, il a présenté au vérificateur un document totalement défaillant pour calculer le montant des pertes, soit une liste des achats et des ventes qui ne tenait pas compte des titres non vendus, créant ainsi une perte artificiellement augmentée.
+[50] Une personne intelligente avec un diplôme de secondaire V, ayant suivi un cours par correspondance en commerce de valeurs mobilières, ayant 10 années d’expérience (20 années d’après la preuve) chez les plus importantes maisons de courtage et ayant eu à sa disposition plusieurs relevés différents sur ses transactions boursières savait très bien ce qui était fiable. L’appelant a choisi par toutes sortes de stratégies de tromper le vérificateur en lui suggérant différentes pistes.
+[51] Je rappelle également que l’appelant a aussi écrit ce qui suit :
+16. Il était logique et raisonnable pour l’appelant de croire qu’il avait subi une perte de 249,200$ US puisque le marché américain, le nasdaq avait perdu 50% de sa valeur en 2002, alors que 249,200$ US de perte représentait à peine, moins de 10% des valeurs transigées.
+[...]
+18. Le nombre de zéro (0) n’a rien à voir avec l’existence ou non du droit. De plus le chiffre 390,000$ peut sembler un gros chiffre mais le total des transactions pour 2002 sont de plus de 5 millions de dollars et pour la période euphorique de 2000 à 2002 le total atteint 30 millions de dollars alors 390,000$ est environ 1% du total.
+19. À cette époque, les rapports émis par les maisons de courtage portaient à confusion.
+[...]
+31. L’appelant contribuable n’était pas surpris de voir l’arrivée du vérificateur dans son dossier, ayant lui-même travaillé pour Revenu Canada dans les années 80, un an CR-3 et un an CR-4 à la vérification primaire. Et connaissant la complexité de son dossier et des nombreuses transactions et des chiffres importants, il croyait que le vérificateur allait recalculer mais pas tenter de la piéger.
+[...]
+35. L’appelant est un conseiller crédible qui a toujours le respect des lois.
+[...]
+37. Un vérificateur expérimenté n’aurait jamais fait cette demande à la maison de courtage, n’ayant pas à soumettre ce document interne.
+[52] Il n’y a aucun doute dans mon esprit que l’intimée a relevé le fardeau de la preuve qui reposait sur elle; en effet, la prépondérance de la preuve indique que l’appelant a délibérément et sciemment décidé de déclarer des pertes considérablement surévaluées en raison d’un contexte qu’il croyait favorable à savoir que la très grande majorité des investisseurs à la bourse, sinon la totalité, avaient subi des pertes considérables.
+[53] Non seulement il a fait sciemment ce choix, il a par la suite multiplié les initiatives et les tentatives pour détourner l’attention du vérificateur. Il a tenu pour acquis que le vérificateur était jeune, sans expérience et un peu naïf pour tenter de la convaincre de ne pas s’intéresser à son dossier, qu’il savait mensonger, et cela, depuis le tout début. Plutôt que de choisir de modifier sa déclaration pour la rendre conforme, il a multiplié les initiatives pour que le vérificateur ne s’y intéresse pas.
+[54] Devant ce qui est devenu évident et incontournable il a, encore là, rejeté la responsabilité sur le vérificateur, son comptable et la responsable de l’opposition, ajoutant même qu’il n’avait ni les connaissances ni les compétences pour fournir les vrais chiffres, alors qu’il l’avait fait pour les deux années antérieures, soit 2000 et 2001.
+[55] Il s’agit là de suffisamment de faits pour conclure que la pénalité était tout à fait justifiée, puisque la preuve permet aussi de conclure que l’appelant a délibérément fait une déclaration fausse et mensongère quant au montant de la perte.
+[56] L’appel est donc rejeté, puisque la pénalité est tout à fait justifiée, le tout avec dépens en faveur de l’intimée.
+Signé à Ottawa, Canada, ce 28e jour de mai 2009.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2009 CCI 290
+Nº DU DOSSIER DE LA COUR : 2007-3015(IT)G
+INTITULÉ DE LA CAUSE : GILLES CHARRON c. LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 29 janvier 2009
+MOTIFS DU JUGEMENT PAR : L'honorable juge Alain Tardif
+DATE DU JUGEMENT : le 28 mai 2009
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l'intimée :
+Me Louis L'Heureux
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant:
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

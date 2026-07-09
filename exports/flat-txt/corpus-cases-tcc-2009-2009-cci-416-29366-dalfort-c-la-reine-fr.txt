@@ -1,0 +1,126 @@
+Title: Dalfort c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29366/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-416-29366-dalfort-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-08-26
+
+# Dalfort c. La Reine
+
+- Citation: 2009 CCI 416
+- Decision date: 2009-08-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6918, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dalfort c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-08-26
+Référence neutre
+2009 CCI 416
+Numéro de dossier
+2008-2965(IT)I
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-2965(IT)I
+ENTRE :
+JOHN G. DALFORT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 13 août 2009, à Nanaïmo (Colombie‑Britannique).
+Devant : L'honorable juge B. Paris
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Jeff Derrick
+____________________________________________________________________
+JUGEMENT
+L'appel de la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2006 est rejeté.
+Signé à Vancouver (Colombie-Britannique), ce 25e jour d'août 2009.
+« B. Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 30e jour de septembre 2009.
+David Aubry, LL.B.
+Réviseur
+Référence : 2009 CCI 416
+Date : 20090825
+Dossier : 2008-2965(IT)I
+ENTRE :
+JOHN G. DALFORT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] Il s'agit en l’espèce de savoir si l'appelant a le droit de déduire 20 751 $ au titre d'honoraires d'avocat dans le calcul de son revenu tiré de biens au cours de l'année d'imposition 2006. L'appelant a payé ces honoraires d'avocat en vue de se défendre dans une poursuite que Mme Karen Conquergood, avec qui il avait entretenu une relation pendant plusieurs années, avait engagée contre lui.
+[2] Dans le cadre de la poursuite, Mme Conquergood présentait plusieurs demandes[1] contre M. Dalfort.
+[3] La première demande se rapportait à une pension alimentaire.
+[4] Dans la deuxième demande, Mme Conquergood alléguait un enrichissement sans cause de la part de M. Dalfort par suite de leur relation. La demande fondée sur l'enrichissement sans cause découlait de deux poursuites que M. Dalfort avait engagées contre une compagnie d'assurance et contre un médecin, ainsi qu'à la vente d'une maison dont M. Dalfort était propriétaire lorsqu'il avait noué une relation avec Mme Conquergood. Mme Conquergood demandait une partie des montants que M. Dalfort avait recouvrés dans le cadre des poursuites, ainsi qu'une partie du produit de la vente de la maison.
+[5] La troisième demande de Mme Conquergood se rapportait à un intérêt dans un voilier de 45 pieds de long que M. Dalfort et Mme Conquergood avaient acheté conjointement, mais qui avait été enregistré au nom de M. Dalfort.
+[6] Selon la quatrième demande, M. Dalfort avait pris plus que sa part de l'argent qu'ils avaient gagné en exploitant, à divers moments, les coentreprises suivantes lorsqu'ils étaient ensemble :
+i) une agence d'hôtesses;
+ii) une opération pyramidale;
+iii) une entreprise de pêche au crabe.
+Aucune de ces coentreprises n'était exploitée lorsque Mme Conquergood a engagé les poursuites.
+[7] Enfin, Mme Conquergood réclamait de M. Dalfort des dommages‑intérêts par suite d'une agression dont elle avait été victime.
+[8] Dans la même action, M. Dalfort a présenté une demande reconventionnelle contre Mme Conquergood à l'égard de certaines sommes que cette dernière avait censément retirées de leurs fonds conjoints.
+[9] M. Dalfort fait valoir qu’il a payé les honoraires d'avocat en vue de protéger des actifs dont il tirait un revenu et qu'il a donc payé ces honoraires en vue de gagner un revenu. M. Dalfort affirme avoir le droit de déduire les honoraires d'avocat compte tenu du fait qu'il protégeait sa capacité de tirer un revenu de son portefeuille de titres, qu'il a appelé ses [traduction] « épargnes et placements dans un régime privé de pensions ». M. Dalfort a affirmé que Mme Conquergood tentait, au moyen de la poursuite, d'obtenir de l'argent de sa [traduction] « caisse de pensions ». Il a affirmé que ces fonds [traduction] « n'avaient rien à voir avec la relation qu'il entretenait avec Mme Conquergood » et que la demande y afférente ne faisait pas partie d'une demande de partage des actifs lors de la rupture de leur relation.
+[10] L'appel interjeté par M. Dalfort ne peut être accueilli. Aucune des demandes que Mme Conquergood a présentées contre M. Dalfort n'était attribuable à une entreprise exploitée par celui‑ci ou à des biens dont celui‑ci tirait un revenu, de sorte qu'on ne peut pas dire que les dépenses y afférentes ont été engagées en vue de tirer un revenu d'une entreprise ou d'un bien. De plus, la jurisprudence établit clairement que les frais juridiques qu'un contribuable engage afin de se défendre contre une demande de pension alimentaire ne sont pas déductibles[2].
+[11] Aucune des demandes de Mme Conquergood ne se rapportait au portefeuille de titres de M. Dalfort. Dans les motifs de jugement qui ont été rendus dans le cadre de la poursuite, il n'a été fait mention de ces actifs que lorsqu'il s'est agi de fixer le montant de la pension alimentaire accordée à Mme Conquergood. Le juge a tenu compte du revenu tiré des placements en déterminant la capacité de M. Dalfort de verser une pension alimentaire à Mme Conquergood.
+[12] Je reconnais que, si des dommages‑intérêts élevés avaient été accordés à Mme Conquergood dans le cadre de la poursuite, M. Dalfort se serait probablement vu obligé de liquider une partie de son portefeuille de titres en vue de payer ces dommages‑intérêts. Toutefois, ces actifs n'étaient menacés qu'indirectement, et M. Dalfort a principalement payé les honoraires d'avocat afin de se défendre contre des demandes qui étaient de nature personnelle ou qui se rapportaient à des activités commerciales que les parties avaient exercées, mais qu'elles n'exerçaient plus. Dans un cas comme dans l'autre, les honoraires d'avocat ne sont pas déductibles. Les dépenses personnelles ne satisfont pas au critère énoncé à l'alinéa 18(1)a) de la Loi, et les frais se rapportant à une entreprise ou à une coentreprise qui n'existe plus ne peuvent pas être déduits parce que cette entreprise ou cette coentreprise ne constitue plus une source de revenu à laquelle les frais peuvent être imputés.
+[13] Même si Mme Conquergood avait cherché à obtenir une partie du portefeuille de titres de M. Dalfort, je suis d'avis que les honoraires d'avocat que M. Dalfort a payés en vue de se défendre contre une telle demande ne seraient pas déductibles. L'appelant avait payé ces honoraires en vue de protéger et de préserver une immobilisation ou des immobilisations. Or, les honoraires d’avocat payés à cette fin sont des dépenses en capital non déductibles[3].
+[14] Il a été soutenu que les honoraires d'avocat seraient peut‑être déductibles en vertu de la division 60o.1)(i)(A) de la Loi, pour le motif que l'appelant a payé ces honoraires pour recouvrer une prestation ou pour établir un droit à une prestation prévue par une caisse de pensions. Cette disposition est libellée comme suit :
+60. Peuvent être déduites dans le calcul du revenu d'un contribuable pour une année d'imposition les sommes suivantes qui sont appropriées :
+a) […]
+o.1) l'excédent éventuel du moins élevé des montants suivants :
+(i) le total des frais judiciaires ou extrajudiciaires, sauf ceux se rapportant au règlement ou au partage de biens découlant du mariage ou union de fait ou de son échec, payés par le contribuable au cours de l'année ou de l'une des sept années d'imposition précédentes pour recouvrer l'un des montants suivants ou pour établir un droit à ceux‑ci :
+(A) une prestation prévue par quelque régime ou caisse de pensions, sauf une prestation prévue par le régime institué par le Régime de pensions du Canada ou un régime provincial de pensions, au sens de l'article 3 de cette loi, en raison de l'emploi du contribuable ou d'un particulier décédé auquel le contribuable était apparenté ou dont il était une personne à charge ou le représentant légal.
+(B) […]
+Toutefois, rien ne permet de conclure que le portefeuille de titres de M. Dalfort était un régime de pensions, ou que M. Dalfort a payé les honoraires d'avocat pour recouvrer une prestation ou pour établir un droit à une prestation prévue par un tel régime. M. Dalfort a lui‑même admis que le portefeuille n'avait pas été établi ou enregistré en tant que régime de pensions. Il est certain que l'objet de la poursuite engagée par Mme Conquergood ne se rapportait pas au recouvrement ou à l'établissement d'un droit à une prestation de pension.
+[15] Pour ces motifs, l'appel est rejeté.
+Signé à Vancouver (Colombie‑Britannique), ce 25e jour d'août 2009.
+« B. Paris »
+Juge B. Paris
+Traduction certifiée conforme
+ce 30e jour de septembre 2009.
+David Aubry, LL.B.
+Réviseur
+RÉFÉRENCE : 2009 CCI 416
+No DU DOSSIER DE LA COUR : 2008-2965(IT)I
+INTITULÉ : John G. Dalfort et
+Sa Majesté La Reine
+LIEU DE L’AUDIENCE : Nanaïmo (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 13 août 2009
+MOTIFS DU JUGEMENT : L’honorable juge B. Paris
+DATE DU JUGEMENT : Le 25 août 2009
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l’intimée :
+Me Jeff Derrick
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : S/O
+Cabinet : S/O
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Voir pièce R-1, onglet 6, motifs du jugement, Conquergood v. Dalfort, 2007 BCSC 1556.
+[2] Nadeau c. la Reine, 2003 CAF 400.
+[3] Dominion Natural Gas Co. Ltd. v. M.N.R., [1940-41] C.T.C. 155 (C.S.C.), The Queen v. Jager Homes Ltd., [1998] 1 C.T.C. 215 (C.A.F.), et Strassburger Insulation Ltd. v. M.N.R., [1998] 1 C.T.C., 2507 (C.A.F.).

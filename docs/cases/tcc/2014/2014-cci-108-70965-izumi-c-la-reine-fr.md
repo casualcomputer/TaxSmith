@@ -1,0 +1,139 @@
+---
+title: "Izumi c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/70965/index.do"
+last_modified: "2014-04-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 108"
+citation2: ""
+neutral_citation: "2014 CCI 108"
+decision_date: "2014-04-04"
+language: "fr"
+item_id: "70965"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5279
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:01:57.605000+00:00"
+cases_cited_count: 4
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "695e49ddbfdff319dd96897ba08329541be2ec50daa8bb215caeb05aa7ec04a8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Izumi c. La Reine
+
+- Citation: 2014 CCI 108
+- Decision date: 2014-04-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5279, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Izumi c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-04-04
+Référence neutre
+2014 CCI 108
+Numéro de dossier
+2008-2487(IT)G
+Juges et Officiers taxateurs
+Eugene P. Rossiter
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2014 CCI 108
+Date : 20140404
+Dossier : 2008-2487(IT)G
+ENTRE :
+WAYNE IZUMI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue sur le fondement des observations écrites,
+Devant : L’honorable juge en chef adjoint Eugene P. Rossiter
+Comparutions :
+Avocats de l’appelant :
+Me David Chodikoff
+Me Patrick DéZiel
+Avocates de l’intimée :
+Me Elizabeth Chasson
+Me Donna Dorosh
+____________________________________________________________________
+ORDONNANCE ET MOTIFS DE L’ORDONNANCE
+[1] Il s’agit d’une requête de l’appelant afin d’obtenir l’annulation du jugement du 10 avril 2012 dans lequel la Cour canadienne de l’impôt a rejeté son appel concernant ses années d’imposition 1994 et 1995. La Cour a rejeté l’appel, car personne ne s’est présenté au nom de l’appelant à l’audience du 3 avril 2012 sur l’état de l’instance. L’appelant demande maintenant que la Cour canadienne de l’impôt :
+a. Exerce le pouvoir discrétionnaire que lui confère l’article 12 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles ») et prolonge le délai de présentation d’une demande d’ordonnance en application du paragraphe 140(2) des Règles,
+b. Accorde une ordonnance en vertu du paragraphe 140(2) des Règles, et annule le jugement.
+LES FAITS
+[2] Des nouvelles cotisations, dont l’avis est daté du 30 juin 2008, ont été établies à l’égard de l’appelant pour les années d’imposition 1994 et 1995. L’avocat de l’appelant à l’époque, Me Graham Turner, a déposé un avis d’appel à la Cour canadienne de l’impôt le 6 août 2008. L’adresse de l’appelant figurant dans l’avis d’appel était le 251 Appleby Road, Ancaster (Ontario), L9G 2V6. L’intimée a déposé sa réponse à l’avis d’appel le 6 novembre 2008.
+[3] En septembre 2009, l’appelant a déménagé à une nouvelle adresse, soit le 1055, 10th Side Road, R.R. no 1, Moffatt (Ontario), L0P 1J0. Peu de temps après, l’appelant a communiqué par téléphone son changement d’adresse à l’Agence du revenu du Canada et, depuis, l’Agence lui achemine toute correspondance à cette nouvelle adresse. Toutefois, l’appelant n’a pas transmis sa nouvelle adresse à la Cour canadienne de l’impôt et rien ne permet de savoir si sa nouvelle adresse avait été fournie à son avocat, Me Turner.
+[4] Le 31 mai 2010, l’avocat de l’appelant, Me Graham Turner, a déposé un avis de cessation de représentation à titre d’avocat inscrit au dossier et a mentionné dans l’avis les coordonnées de l’appelant à son ancienne adresse, c’est-à-dire le 251, Appleby Road, Ancaster (Ontario), L9G 2V6.
+[5] Le 27 février 2012, la Cour canadienne de l’impôt a envoyé par la poste un avis d’audience sur l’état de l’instance à l’ancienne adresse de l’appelant. Le 3 avril 2012, l’audience sur l’état de l’instance a eu lieu et, le 10 avril 2012, la Cour canadienne de l’impôt a rejeté l’appel de l’appelant pour non-comparution à l’audience sur l’état de l’instance.
+[6] Le 24 août 2012, l’avocate de l’intimée a adressé à l’appelant une lettre, à son ancienne adresse, y joignant le mémoire des frais de l’intimée, et la lettre a été retournée par Postes Canada. Le 6 septembre 2012, l’avocate de l’intimée a envoyé à l’appelant une autre lettre à son adresse actuelle, incluant encore une fois le mémoire des frais de l’intimée. Ce n’est que le 7 septembre 2012 ou aux environs de cette date que l’appelant a eu connaissance de l’audience sur l’état de l’instance et qu’il a communiqué avec l’avocate de l’intimée pour s’informer de l’état de son appel. Il a appris à ce moment que l’appel avait été rejeté et il a alors acquitté le mémoire de frais de l’intimée.
+[7] À l’automne de 2012, l’appelant a communiqué avec son comptable concernant l’appel et les montants en souffrance pour ses années d’imposition 1994 et 1995. Le comptable l’a aiguillé vers le cabinet juridique Miller Thomson S.E.N.C.R.L., s.r.l., pour l’aider avec les questions juridiques entourant les années d’imposition 1994 et 1995. La requête en annulation du jugement du 10 avril 2012 a été déposée à la Cour canadienne de l’impôt le 1er novembre 2013.
+QUESTION À TRANCHER
+[8] La Cour canadienne de l’impôt devrait-elle :
+a) exercer le pouvoir discrétionnaire que lui confère l’article 12 des Règles de la Cour canadienne de l’impôt (procédure générale), et prolonger le délai de présentation d’une demande d’ordonnance en vertu du paragraphe 140(2)?
+b) accorder une ordonnance en vertu du paragraphe 140(2) des Règles et annuler le jugement?
+ANALYSE
+[9] Le paragraphe 140(2) confère à la Cour canadienne de l’impôt le pouvoir discrétionnaire d’annuler ou de modifier un jugement ou une ordonnance contre une partie qui a omis de se présenter à une audience, si la demande est faite dans les 30 jours après le prononcé du jugement ou de l’ordonnance. En l’espèce, l’appelant a présenté sa demande environ 18 mois après l'ordonnance du 10 avril 2012 par laquelle la Cour canadienne de l’impôt rejetait l’appel pour défaut de comparution. La demande a été présentée très au-delà de la limite de 30 jours, de sorte que l’appelant demande à la Cour d’exercer le pouvoir discrétionnaire que lui confère le paragraphe 12(1) des Règles de prolonger le délai prévu au paragraphe 140(2) des Règles et permettre la poursuite de son appel.
+[11] Dans l’arrêt Tomas c. Sa Majesté la Reine, 2007 CAF 86, la Cour d’appel fédérale a rappelé les facteurs généralement examinés dans les demandes de prorogation de délai, notamment :
+(1) l’intention constante de poursuivre l’appel;
+(2) le fait que l’appel ait un bien-fondé;
+(3) le fait qu’aucun préjudice ne soit causé à l’autre partie en raison du retard;
+(4) le fait qu’une explication raisonnable justifie le retard.
+[12] Dans la décision Farrow c. Sa Majesté la Reine, 2003 CCI 885, le juge Donald Bowman, juge en chef à l’époque, a lui aussi analysé les principes sur lesquels la Cour canadienne de l’impôt doit s’appuyer pour décider s’il y a lieu d’infirmer un jugement. Le juge en chef Bowman a conclu que la demande devrait être déposée dès que possible, après que le demandeur aura pris connaissance du jugement. Toutefois, un simple retard ne fera pas obstacle à la demande, sauf s’il est délibéré ou cause un dommage à l’autre partie. De plus, l’affidavit appuyant la demande doit expliquer pourquoi la requête est présentée en retard et, enfin, la demande doit établir que l’appel est défendable.
+[13] Il faut préciser que, même si l’avis d’appel doit énoncer une question susceptible d’être tranchée par la justice, le seuil est relativement peu élevé et il n’est pas nécessaire qu’une partie en litige témoigne ou qu’elle présente une preuve pour démontrer qu’il existe une preuve prima facie. De plus, comme dans d’autres questions de procédure, la Cour canadienne de l’impôt ne doit pas appliquer une série de critères de façon rigide pour établir s’il y a lieu d’annuler un jugement, mais doit utiliser une approche contextuelle, dans les circonstances de l’affaire, comme l’a fait la juge Woods dans la décision GMC Distribution c. Sa Majesté la Reine, 2009 CCI 287.
+[14] Les faits dont il faut tenir compte dans une requête de cette nature doivent établir l’intention constante de poursuivre l’appel. L’appelant affirme qu’il croyait que son appel était en suspens en attendant l’issue d’affaires d’impôt connexes. Cela me semble être raisonnable compte tenu de la lente progression de l’appel – les années d’imposition visées remontant aussi loin que 1994 et 1995. Même si l’appelant n’a pas pris de mesures pour poursuivre son appel après que son ancien avocat a cessé d’agir en son nom, le fait qu’il croyait que son appel était suspendu et pensait, à tort, qu’il avait communiqué sa nouvelle adresse à la Cour appuie sa position, à savoir qu’il avait l’intention constante de poursuivre l’appel.
+[15] Un autre facteur à considérer est la question de savoir si l’appel est fondé et donc, défendable. Même si l’avis d’appel doit faire état d’une question susceptible d’être tranchée par la justice, le seuil est relativement peu élevé et il n’est pas nécessaire qu’une partie au litige témoigne ou présente une preuve pour démontrer qu’il existe une preuve prima facie. L’appelant affirme avoir établi dans son avis d’appel que l’appel est défendable en ce qui concerne la déduction de pertes commerciales d’une société de personnes et de certains frais de possession dont l’appelant a fait la demande pour ses années d’imposition 1994 et 1995. L’intimée, dans ses observations afférentes à la requête, n’a pas contesté le bien‑fondé de l’appel du contribuable. Puisque l’exigence n’est pas très élevée, il ne semble pas y avoir de motif de douter de l’affirmation de l’appelant selon laquelle l’appel est fondé et que l’avis d’appel soulevait une question susceptible d’être tranchée par la justice.
+[16] L’intimée a-t-elle subi un préjudice en raison du retard? Dans la décision GMC, la juge Woods mentionnait que, comme dans le cas d’autres questions de procédure, la Cour ne devrait pas appliquer une série de critères de façon rigide pour établir s’il y a lieu d’annuler un jugement, mais plutôt utiliser une approche contextuelle, à la lumière des faits de l’affaire. Selon la juge Woods, la « considération primordiale » doit être celle des effets relatifs sur les personnes qui seront touchées par la décision. En l’espèce, la prise en compte du préjudice relatif causé aux parties milite en faveur d’une ordonnance faisant droit à la requête. Aucun préjudice apparent n’est causé à l’intimée. L’intimée n’a pas fait valoir qu’elle subirait un préjudice s’il est fait droit à la requête. Inversement, l’appelant subira un grave préjudice si la requête est rejetée, car des déductions totalisant 153 421 $ sont en jeu. L’intimée ne se reporte qu’à l’arrêt de la Cour d’appel de l’Ontario dans 11961658 Ontario Inc. c. 6274013 Canada Limited, 2012 ONCA 544, pour alléguer qu’une affaire peut être rejetée pour cause de retard sans preuve de l’existence d’un préjudice réel. L’affaire contient une analyse intéressante concernant les préjudices, mais qui porte sur la question de préjudices réels. Dans l’affaire qui nous occupe, aucun élément de preuve n’indique l’existence d'un préjudice réel ou apparent pour l’intimée.
+[17] Enfin, il faut se demander si une explication raisonnable a été donnée pour le retard. L’appelant a expliqué la raison pour laquelle il ne s’est pas présenté à l’audience sur l’état de l’instance et le retard entre le prononcé du jugement et la date à laquelle l’appelant a pris connaissance du jugement, mais il ne m’a été soumis aucune explication du retard entre la date où il a pris connaissance du jugement prononcé contre lui et le dépôt de la requête. Je relève que l’appelant a demandé les conseils de son comptable concernant les questions entourant les nouvelles cotisations pour 1994 et 1995 et que le cabinet comptable l’a aiguillé vers le cabinet de Miller Thomson pour les questions fiscales. La Cour ne sait pas à quel moment les services de Miller Thomson ont été retenus, ni le temps qui s’est écoulé entre ce moment et le dépôt de la requête.
+[18] Parmi les faits de l’affaire, le retard a son importance, mais la question du préjudice en l’espèce doit obtenir un poids beaucoup plus considérable. L’appelant a fait tout ce qui était attendu de lui pour ce qui est de tenir la Cour au courant de son adresse et n’a intentionnellement évité aucun avis concernant son appel relatif à l’impôt. Quand il a remarqué qu’il avait reçu une lettre de l’intimée concernant le mémoire des frais de celle‑ci, l’appelant a agi promptement et payé immédiatement les frais en question. L’appelant subira un préjudice important si la procédure d’appel n’est pas poursuivie.
+[19] Compte tenu de tous les facteurs susmentionnés et de la jurisprudence que j’ai consultée, je suis convaincu que l’appelant a pris les mesures appropriées dans le processus, même s’il aurait pu procéder un peu plus rapidement. La façon dont il s’est comporté n’était certainement pas répréhensible et je crois qu’il serait certainement trop sévère de le priver de la capacité d’obtenir que son affaire soit tranchée sur le fond. Je crois que les circonstances sont telles que le jugement par défaut devrait être annulé et que le délai pendant lequel l’appelant peut présenter sa requête en annulation du jugement devrait être prolongé jusqu’à la date à laquelle la requête a été déposée à la Cour canadienne de l’impôt.
+[20] La requête est accueillie sans ordonnance quant aux dépens.
+Signé à Ottawa (Ontario), ce 4e jour d’avril 2014.
+« E.P. Rossiter »
+Juge en chef adjoint Rossiter
+Traduction certifiée conforme
+ce 15e jour de juillet 2014.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2014 CCI 108
+NO DU DOSSIER DE LA COUR : 2008-2487(IT)G
+INTITULÉ : WAYNE IZUMI c. SA MAJESTÉ LA REINE
+MOTIFS DE L’ORDONNANCE : L’honorable Eugene P. Rossiter, juge en chef adjoint
+DATE DE L’ORDONNANCE : Le 4 avril 2014
+COMPARUTIONS :
+Avocats de l’appelant :
+Me David Chodikoff
+Me Patrick DéZiel
+Avocates de l’intimée :
+Me Elizabeth Chasson
+Donna Dorosh
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : David Chodikoff
+Cabinet : Miller Thomson S.E.N.C.R.L., s.r.l.
+Toronto (Ontario)
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

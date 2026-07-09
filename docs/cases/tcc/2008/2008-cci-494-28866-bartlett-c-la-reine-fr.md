@@ -1,0 +1,150 @@
+---
+title: "Bartlett c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28866/index.do"
+last_modified: "2008-09-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 494"
+citation2: ""
+neutral_citation: "2008 CCI 494"
+decision_date: "2008-09-04"
+language: "fr"
+item_id: "28866"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1309
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:25:55.065000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d3feec8630c8209d5f11e6fa5c6f7aedbed6399b819a8fcd259a05405ce5a99a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bartlett c. La Reine
+
+- Citation: 2008 CCI 494
+- Decision date: 2008-09-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1309, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bartlett c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-09-04
+Référence neutre
+2008 CCI 494
+Numéro de dossier
+2007-4944(IT)I
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-4944(IT)I
+ENTRE :
+ELIZABETH J. BARTLETT,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel inscrit pour audition le 26 août 2008,
+à Corner Brook (Terre‑Neuve‑et‑Labrador)
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Représentant de l’appelante :
+Donald Bartlett
+Avocat de l’intimée :
+Me Kendrick Douglas
+____________________________________________________________________
+JUGEMENT L'appel de la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2006 est rejeté.
+Signé à Halifax (Nouvelle-Écosse), ce 4e jour de septembre 2008.
+« V. A. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 25e jour de septembre 2008.
+Alya Kaddour-Lord, traductrice
+Référence : 2008CCI494
+Date : 20080904
+Dossier : 2007-4944(IT)I
+ENTRE :
+ELIZABETH J. BARTLETT,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Miller
+[1] L’appelante interjette appel de la nouvelle cotisation établie pour l’année d’imposition 2006 par laquelle le ministre du Revenu national (le « ministre ») a refusé de lui accorder un crédit d’impôt pour frais médicaux d’un montant de 7 357 $.
+[2] Donald Bartlett est l’époux et le représentant de l’appelante. Il a déclaré que l’appelante recevait des soins palliatifs et qu’elle ne pouvait être présente à l’audience. M. Bartlett a également déclaré qu’il convenait de l’ensemble des faits énoncés dans les hypothèses sur lesquelles le ministre s’était fondé. Ces hypothèses sont les suivantes :
+a) pendant toute la période pertinente, l’appelante et son époux résidaient à Corner Brook (Terre‑Neuve‑et‑Labrador) (la « localité »);
+b) pendant toute la période pertinente, l’appelante devait se déplacer afin d’obtenir des traitements ou des services médicaux qu’il ne lui était pas possible d’obtenir dans la localité;
+c) pendant toute la période pertinente, l’appelante s’est rendue dans un lieu situé à 80 kilomètres au moins de la localité dans le but d’obtenir des traitements ou des services médicaux;
+d) pendant toute la période pertinente, l’appelante était incapable de voyager sans l’aide d’un préposé aux soins;
+e) l’appelante était accompagnée de son époux, qui lui servait de préposé aux soins (le « préposé »);
+f) l’appelante et le préposé n’ont pas utilisé les transports en commun;
+g) l’appelante et le préposé ont voyagé dans le même véhicule privé;
+h) l’appelante a calculé le montant des frais de déplacement qu’elle a engagés afin d’obtenir des soins médicaux à l’aide de la méthode simplifiée proposée par le ministre, et le total des dépenses qu’elle a déduites relativement à ses déplacements s’élevait à 7 357 $;
+i) les frais de déplacement déduits par l’appelante relativement aux soins médicaux incluaient aussi un montant additionnel de 7 357 $, qui correspondait aux frais de déplacement du préposé;
+j) les dépenses liées aux déplacements du préposé qui ont été refusées faisaient double emploi avec les frais de déplacement engagés par l’appelante afin d’obtenir des soins médicaux, lesquels avaient déjà été déduits et admis.
+[3] M. Bartlett a fait valoir que le ministre n’avait pas suivi ses propres règles, énoncées au paragraphe 33 du bulletin d’interprétation IT-519R2. Selon l’interprétation que M. Bartlett a faite dudit paragraphe, l’appelante peut demander les frais de déplacement deux fois, une fois pour elle‑même et une fois pour son époux, qui l’accompagnait. Le paragraphe 33 est ainsi rédigé :
+33. L’alinéa 118.2(2)h) tient compte des frais de déplacement autres que ceux qui sont mentionnés à l’alinéa 118.2(2)g) (voir le numéro 32 ci‑dessus). L’alinéa 118.2(2)h) permet à un particulier d’inclure dans ses frais médicaux admissibles les autres frais raisonnables de déplacement (voir le numéro 34 ci‑dessous) engagés pour un patient pour obtenir des soins médicaux dans un lieu situé à au moins 80 kilomètres du lieu de résidence du patient, pourvu que les conditions suivantes soient réunies :
+a) il n’est pas possible d’obtenir des soins médicaux sensiblement équivalents dans le lieu de résidence du patient;
+b) le patient emprunte un itinéraire raisonnablement direct;
+c) il est raisonnable, dans les circonstances, que le patient se rende dans ce lieu afin d’obtenir ces soins.
+Le particulier qui demande des frais de déplacement pour un patient, en vertu de l’alinéa 118.2(2)h), peut aussi demander, en vertu du même alinéa, le même genre de frais (c.-à-d. des frais raisonnables de déplacement autres que ceux qui sont mentionnés à l’alinéa 118.2(2)g)) pour un particulier qui accompagne le patient, à condition que le patient ait été, d’après le certificat d’un médecin, incapable de voyager sans l’aide de quelqu’un.
+[4] M. Bartlett a déclaré que ce paragraphe permettait à un particulier accompagnant un patient de demander des frais raisonnables de déplacement, et au patient de demander les mêmes frais raisonnables de déplacement. Autrement dit, on peut demander les frais de déplacement deux fois. M. Bartlett fonde son interprétation sur le fait que les termes « particulier » et « patient » sont tous deux utilisés dans le libellé du paragraphe.
+[5] Toutefois, les deux termes ne font pas nécessairement référence à deux personnes différentes. Selon l’alinéa 118.2(2)a) de la Loi de l’impôt sur le revenu (la « Loi »), les frais médicaux d’un particulier correspondent au montant payé pour les services fournis au particulier, à son époux ou conjoint de fait ou à une personne à la charge du particulier (« patient » dans la version anglaise). L’alinéa 118.2(2)a) prévoit ce qui suit :
+(2) Frais médicaux. Pour l’application du paragraphe (1), les frais médicaux d’un particulier sont les frais payés :
+a) [services médicaux et dentaires] à un médecin, à un dentiste, à une infirmière ou un infirmier, à un hôpital public ou à un hôpital privé agréé, pour les services médicaux ou dentaires fournis au particulier, à son époux ou conjoint de fait ou à une personne à la charge du particulier (au sens du paragraphe 118(6)) au cours de l’année d’imposition où les frais ont été engagés;
+[6] L’alinéa 118.2(2)h) de la Loi est ainsi rédigé :
+(2) Frais médicaux. Pour l’application du paragraphe (1), les frais médicaux d’un particulier sont les frais payés : […]
+h) [frais de déplacement] pour les frais raisonnables de déplacement, à l’exclusion des frais visés à l’alinéa g), engagés à l’égard du particulier, de l’époux ou du conjoint de fait ou d’une personne à charge visée à l’alinéa a) et, si ceux‑ci sont, d’après le certificat d’un médecin, incapables de voyager sans l’aide d’un préposé à leurs soins, à l’égard d’un seul particulier les accompagnant, afin d’obtenir des services médicaux dans un lieu situé à 80 kilomètres au moins de la localité où le particulier, l’époux ou le conjoint de fait ou la personne à charge habitent, si les conditions visées aux sous‑alinéas g)(iii) à (v) sont réunies;
+[7] Ni le paragraphe 33 du bulletin d’interprétation, ni l’alinéa 118.2(2)h) de la Loi ne peuvent être interprétés comme M. Bartlett l’a fait. De même, le préambule du paragraphe 118.2(2) de la Loi établit clairement que les frais médicaux d’un particulier sont les frais qui sont effectivement payés. Le montant de 7 357 $ incluait les frais de déplacement de l’appelante et de son époux. Ce montant n’a été payé qu’une seule fois et ne peut donc être demandé qu’une seule fois.
+[8] L’appel est rejeté.
+Signé à Halifax (Nouvelle‑Écosse), ce 4e jour de septembre 2008.
+« V. A. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 25e jour de septembre 2008.
+Alya Kaddour-Lord, traductrice
+RÉFÉRENCE : 2008CCI494
+No DU DOSSIER DE LA COUR : 2007-4944(IT)I
+INTITULÉ : Elizabeth J. Bartlett et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Corner Brook (Terre‑Neuve‑et‑Labrador)
+DATE DE L’AUDIENCE : Le 26 août 2008
+MOTIFS DU JUGEMENT : L’honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 4 septembre 2008
+COMPARUTIONS :
+Représentant de l’appelante :
+Donald Bartlett
+Avocat de l’intimée :
+Me Kendrick Douglas
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

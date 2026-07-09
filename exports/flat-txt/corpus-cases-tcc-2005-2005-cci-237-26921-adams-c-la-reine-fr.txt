@@ -1,0 +1,128 @@
+Title: Adams c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26921/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-237-26921-adams-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2005-04-08
+
+# Adams c. La Reine
+
+- Citation: 2005 CCI 237
+- Decision date: 2005-04-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 727, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Adams c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-04-08
+Référence neutre
+2005 CCI 237
+Numéro de dossier
+2004-1720(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-1720(IT)I
+ENTRE :
+JEFFREY ADAMS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 23 février 2005 à Calgary (Alberta)
+Devant : L'honorable juge G. Sheridan
+Comparutions :
+Représentant de l'appelant :
+Brian C. Comrie
+Avocate de l'intimée :
+Me Galina M. Bining
+[TRADUCTION FRANÇAISE OFFICIELLE]
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2002 est admis, et la cotisation est renvoyée au ministre du Revenu national pour qu'il la réexamine et en établisse une nouvelle au motif que l'employeur de M. Adams était la Cheyenne Oilfield Consulting Service Inc. et que M. Adams a droit à un crédit d'impôt pour emploi à l'étranger.
+Signé à Ottawa, Canada, ce 8e jour d'avril 2005.
+"G. Sheridan"
+Le juge Sheridan
+Traduction certifiée conforme
+ce 11e jour d'octobre 2005.
+Joanne Robert, traductrice
+Référence : 2005CCI237
+Date : 20050408
+Dossier : 2004-1720(IT)I
+ENTRE :
+JEFFREY ADAMS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Sheridan
+[1] L'appelant, Jeffrey Adams, interjette appel, sous le régime de la procédure informelle, d'une cotisation que le ministre du Revenu national a établie pour son année d'imposition 2002 et dans laquelle ce dernier a rejeté sa demande de crédit d'impôt pour emploi à l'étranger en vertu de l'article 122.3 de la Loi de l'impôt sur le revenu. En 2002, M. Adams, un résident de l'Alberta, travaillait en Algérie comme chef foreur dans les champs pétrolifères. Le différend entre M. Adams et le ministre tourne essentiellement autour de la question de savoir qui était son « employeur » au cours de la période admissible.
+[2] Pour que son appel soit admis, M. Adams doit réfuter les hypothèses sur lesquelles le ministre a fondé sa décision et qui figurent au paragraphe 8 de la réponse à l'avis d'appel :
+[TRADUCTION]
+8. Le ministre s'est fondé sur les hypothèses de fait suivantes pour établir la cotisation de l'appelant pour l'année d'imposition 2002 et pour la confirmer :
+a) Dans l'année d'imposition 2002, l'appelant a été au service de la Adams Family Enterprises Ltd. (l' « employeur » );
+b) l'employeur appartient à l'appelant;
+c) l'appelant a un lien de dépendance avec l'employeur;
+d) l'appelant est un actionnaire déterminé de l'employeur.
+[3] Ces hypothèses ont été fondées sur le formulaire T626[1] prescrit, dont M. Adams reconnaît avoir signé l'original, à titre d'agent autorisé de la Adams Family Enterprises Ltd., pour attester, entre autres, que la Adams Family Enterprises Ltd. était son « employeur » . M. Adams ne conteste pas qu'il détient la majorité des actions de la Adams Family Enterprises Ltd.; il est en conséquence un « actionnaire déterminé » au sens de l'article 122.3 de la Loi.
+[4] M. Adams soutient toutefois que, malgré les renseignements fournis dans le formulaire T626, son employeur au moment où il travaillait dans les champs pétrolifères de l'Algérie n'était pas la Adams Family Enterprises Ltd., mais plutôt une société de la Saskatchewan, appelée Cheyenne Oilfield Consulting Service Inc. Lors de son contre-interrogatoire, il n'a pas été demandé à M. Adams d'expliquer la contradiction entre ce document et son témoignage concernant le contrat avec la Cheyenne, et son représentant n'a pas demandé non plus d'éclaircissements au moment du réinterrogatoire. Toutefois, en réponse à la demande d'éclaircissements faite par la Cour au terme de son témoignage, il a expliqué qu'il avait été amené à fonder la Adams Family Enterprises Ltd. parce que [TRADUCTION] « il faut avoir une compagnie pour pouvoir faire affaires en Alberta » ; autrement dit, il s'est constitué en personne morale pour se conformer aux exigences imposées par le gouvernement de l'Alberta à ceux qui oeuvrent dans l'industrie énergétique. Il avait également besoin d'une entité constituée en personne morale pour s'occuper des questions liées à l'indemnisation des accidents du travail et pour obtenir une assurance responsabilité. À la lumière de ces observations et du témoignage antérieur de M. Adams, je suis en mesure de conclure qu'il a signé le formulaire T626 pour le compte de la Adams Family Enterprises Ltd. en indiquant que la Adams Family Enterprises Ltd. était son « employeur » sans en saisir véritablement l'objet ou sans se rendre compte que les renseignements fournis au ministre étaient inexacts. Il ne fait aucun doute que le contribuable est tenu de fournir des renseignements exacts au ministre, mais la loi n'exige pas la perfection. M. Adams s'est montré sincère et crédible dans la présentation de sa preuve; dans son cas particulier et compte tenu de la complexité des dispositions relatives au CIEE, il n'est pas déraisonnable de croire qu'une erreur puisse avoir été commise.
+[5] Pour étayer ses allégations selon lesquelles la Cheyenne était son employeur, M. Adams a déposé en preuve une copie d'un contrat[2] conclu entre la « Cheyenne Oilfield Consulting Service Inc. » (appelée « Cheyenne » dans ce document) et « Jeff C. Adams de la Adams Family Enterprises Ltd. » (appelée « Adams » dans ce document). La Couronne a fait valoir qu'étant donné que l'entente conclue avec la Cheyenne mentionnait Jeff C. Adams « de la Adams Family Enterprises Ltd. » , la Cheyenne avait un contrat avec la société Adams Family Enterprises Ltd. et non avec M. Adams personnellement. J'admets que cette formulation est quelque peu étrange, mais je ne crois pas qu'elle débouche forcément sur la conclusion recommandée par la Couronne. D'après ce que je comprends, le syntagme prépositionnel « de la Adams Family Enterprises Ltd. » constitue simplement une expression descriptive de « Jeff C. Adams » , qui ne diffère pas essentiellement, par exemple, de l'expression « de Calgary (Alberta) » ou de toute autre désignation qui suit généralement le nom d'une partie à un contrat. En pareils cas, il y en aurait peu pour penser que le contrat a été conclu entre la Cheyenne et « Calgary (Alberta) » . Le fait que l'entente est signée par « Jeff C. Adams » sans mention correspondante de la Adams Family Enterprises Ltd. vient également corroborer cette conclusion. Comparons cette signature avec celle de l'autre partie, qui précise que la signature de Larry Ireland est donnée [TRADUCTION] « pour et au nom de la Cheyenne Oilfield Consulting Service Inc. » .
+[6] Selon le préambule de l'entente conclue avec la Cheyenne, la Cheyenne a convenu avec une société implantée à l'étranger et appelée BP Exploration (In Salah) Limited [TRADUCTION] « ... de fournir des services de supervision en forage » à cette société. La disposition no 1 porte que : [TRADUCTION] « Adams [...] fournira les services de supervision en forage qui pourront lui être confiés à l'occasion par la Cheyenne » . A été déposée sous la pièce A-1 l'entente accompagnant la pièce A-2, l'entente conclue entre la Cheyenne et la BP Exploration (In Salah) Limited. C'est ce document qui confère à la Cheyenne, en qualité d' « entrepreneur » , le droit de confier en sous-traitance ses obligations à des tiers qui y sont précisés sous la rubrique « Personnel » . À la disposition 1.6 de l'entente conclue avec la BP Exploration (In Salah) Limited, le nom « Jeff Adams » a été dactylographié dans l'espace prévu pour le « Personnel » de sous-traitance; il n'est question de la Adams Family Enterprises Ltd. nulle part ailleurs dans l'entente.
+[7] Enfin, je rejette l'argument de la Couronne selon lequel il y a suffisamment de preuves pour conclure que la rémunération des services de supervision en forage de M. Adams était versée à la Adams Family Enterprises Ltd., non à M. Adams. Ce n'était pas l'une des hypothèses avancées par le ministre et c'est donc à la Couronne qu'il incombait normalement de prouver les faits à l'appui de sa position. Je ne suis pas convaincu qu'il a été clairement démontré que des paiements étaient faits par la Cheyenne à la Adams Family Enterprises Ltd. Il est ressorti clairement du témoignage de M. Adams qu'il a tendance à confondre la ligne de démarcation juridique entre lui et sa société, une habitude qu'il serait bien avisé (lui ainsi que son comptable) de perdre s'il veut à l'avenir s'éviter des problèmes. Bien que dans une des réponses données durant le contre-interrogatoire, M. Adams ait dit vaguement que [TRADUCTION] « tout passe par ma société » , il a plus tard décrit les fonds qui sont, d'une façon ou d'une autre, parvenus dans le compte de la Adams Family Enterprises Ltd. comme étant [TRADUCTION] « l'argent qui [lui] a été versé » [je souligne]. Mais M. Adams n'a pas été prié, lors du contre-interrogatoire, de donner des précisions sur ces opérations financières, pas plus que la Couronne n'a convoqué de fonctionnaires qui auraient pu avoir des renseignements à ce sujet. Aucun relevé bancaire n'a été déposé en preuve. Quoi qu'il en soit, même si la Cheyenne a déposé directement des fonds dans le compte de la Adams Family Enterprises Ltd., je suis convaincu, selon la prépondérance des probabilités, qu'elle a procédé ainsi suivant la consigne de M. Adams en sa qualité personnelle de partie ayant droit à ces paiements en vertu de l'entente conclue avec la Cheyenne.
+[8] Compte tenu de tout ce qui précède, j'estime que l'entente conclue avec la Cheyenne était une entente entre M. Adams et la Cheyenne; en conséquence, son « employeur » , pour l'application de l'article 122.3, était la Cheyenne Oilfield Consulting Service Inc., non la Adams Family Enterprises Ltd.
+[9] Il faut ensuite déterminer si la Cheyenne était un « employeur déterminé » , un élément essentiel des critères d'admissibilité énoncés au paragraphe 122.3(1). L'expression est définie au paragraphe 122.3(2) de la Loi :
+(2) Définitions. Les définitions qui suivent s'appliquent au paragraphe (1). « employeur déterminé » - « employeur déterminé »
+a) Personne résidant au Canada;
+b) société de personnes dont la valeur totale des participations appartenant à des personnes résidant au Canada ou à des sociétés contrôlées par des personnes résidant au Canada est supérieure à 10 % de la valeur marchande totale de toutes les participations dans la société de personnes;
+c) société qui est une société étrangère affiliée d'une personne résidant au Canada.
+[10] En tant que société, la Cheyenne répond à la définition de « personne » [3] dont le siège social, selon la pièce A-2, est situé à Carievale (Saskatchewan). Cet élément suffit pour que la Cheyenne réponde à la définition de « employeur déterminé » au sens de l'alinéa 122.3(2)a). Une fois établi que la Cheyenne, l'employeur de M. Adams, était un « employeur déterminé » , il reste à déterminer si M. Adams peut satisfaire aux critères d'admissibilité énoncés aux alinéas 122.3(1)a) et b), dont le passage pertinent est libellé comme suit :
+Déduction de l'impôt payable en cas d'emploi à l'étranger.
+(1) Lorsqu'un particulier réside au Canada au cours d'une année d'imposition et que, tout au long d'une période de plus de 6 mois consécutifs ayant commencé avant la fin de l'année et comprenant une fraction de l'année (appelée la « période admissible » au présent paragraphe) :
+a) d'une part, il a été employé par une personne qui était un employeur déterminé, dans un but autre que celui de fournir des services en vertu d'un programme, visé par règlement, d'aide au développement international du gouvernement du Canada;
+b) d'autre part, il a exercé la totalité, ou presque, des fonctions de son emploi à l'étranger :
+(i) dans le cadre d'un contrat en vertu duquel l'employeur déterminé exploitait une entreprise à l'étranger se rapportant à, selon le cas :
+(A) l'exploration pour la découverte ou l'exploitation de pétrole, de gaz naturel, de minéraux ou d'autres ressources semblables,
+[...]
+[11] La Couronne a fait valoir que même si la Cheyenne était l'employeur de M. Adams, il s'agissait [TRADUCTION] « simplement d'une agence de recrutement » et qu'en conséquence, on ne pouvait dire qu'elle « exploitait une entreprise à l'étranger » suivant les dispositions du sous-alinéa 122.3(1)b)(i). Pour étayer sa position, la Couronne a renvoyé la Cour à l'arrêt Fonta c. R.[4], dans lequel la juge Lamarre Proulx a statué que le contribuable n'avait pas droit au CIEE parce que le présumé employeur déterminé « a agi comme une agence de recrutement de personnel spécialisé pour les fins de [la société étrangère] » et que « [...] il paraît certain en droit que ces services ne sont pas des services ressortissant à la sous-traitance dans un contrat d'ingénierie » . Au paragraphe 18 de ses motifs, la savante juge s'est penchée sur la signification du terme « sous-traitance » :
+18 « Sous-traitance » est ainsi défini au Vocabulaire juridique, 2e éd., Gérard Cornu, PUF, à la page 774 :
+Sous-traitance
+Dér. de traitant, de traiter, lat. tractare.
+* Opération par laquelle un *entrepreneur, dit entrepreneur principal, confie par une convention appelée *sous-traité ou contrat de sous-traitance et sous sa responsabilité, à une autre personne nommée *sous-traitant, tout ou partie de l'exécution du contrat d'*entreprise ou du marché public conclu avec le *maître de l'ouvrage (a.1, l. 31 déc. 1975), le recours à la sous-traitance impliquant, pour l'entrepreneur principal, l'obligation de faire accepter les sous-traitants par le maître de l'ouvrage.
+« Sous-contrat » est ainsi défini au Dictionnaire de droit québécois et canadien, Hubert Reid, Wilson et Lafleur, à la page 543 :
+Sous-contrat, n.m.
+[ ] Contrat conclu entre l'une des parties à un contrat initial et un tiers qui s'engage à exécuter en tout ou en partie le contrat initial. Ex. un contrat de sous-entreprise, un contrat de sous-location.
+Comp. avant-contrat, contrat, sous-contractant
+Angl. subcontract
+« Subcontract » est ainsi défini dans le Black's Law Dictionary, 7e éd., à la page 325 :
+Subcontract. [TRADUCTION] Un contrat conclu par une partie à un autre contrat en vue de l'exécution de l'autre contrat, en tout ou en partie.
+[12] À mon sens, l'arrêt Fonta diffère des faits de l'espèce : les pièces A-1 et A-2, de même que la description que M. Adams fait des activités de la Cheyenne, montrent qu'il s'agissait d'un véritable sous-contrat. Je suis convaincu, selon la prépondérance des probabilités, que M. Adams travaillait en vertu d'un véritable sous-contrat avec la Cheyenne à fournir les services de supervision en forage que la Cheyenne avait convenu avec la BP Exploration (In Salah) Limited d'assurer en Algérie. Ainsi, vu sous l'angle des dispositions législatives précitées, M. Adams résidait au Canada tout au long de la « période admissible » en 2002, il était employé par la Cheyenne, un employeur déterminé, à titre de chef foreur (et par conséquent, « dans un but autre que celui de fournir des services en vertu d'un programme, visé par règlement, d'aide au développement international du gouvernement du Canada » ) et, à ce titre, il a exercé ses fonctions dans les champs pétrolifères de l'Algérie dans le cadre d'un contrat en vertu duquel la Cheyenne, en sa qualité d'entrepreneur de la BP Exploration (In Salah) Limited, exploitait à l'étranger une entreprise se rapportant à la découverte ou à l'exploitation de pétrole. En conséquence, toutes les exigences des alinéas 122.3(1)a) et b) ayant été remplies, M. Adams est en droit de demander le crédit d'impôt pour emploi à l'étranger, sauf si les dispositions d'exclusion du paragraphe 122.3(1.1) s'appliquent :
+(1.1) Revenu exclu. Aucun montant ne peut être inclus en application de l'alinéa [122.3(1)d)] au titre du revenu d'un particulier pour une année d'imposition tiré de son emploi auprès d'un employeur si les conditions suivantes sont réunies :
+a) l'employeur exploite une entreprise de services qui compte un maximum de cinq employés à temps plein tout au long de l'année;
+b) le particulier :
+(i) a un lien de dépendance avec l'employeur ou est son actionnaire déterminé,
+[...]
+c) n'était l'existence de l'employeur, il serait raisonnable de considérer le particulier comme l'employé d'une personne ou d'une société de personnes qui n'est pas un employeur déterminé.
+[13] Le paragraphe 122.3(1.1) est rédigé selon un mode conjonctif; ainsi, ce n'est que lorsque tous les critères qui y sont énoncés sont remplis qu'un contribuable par ailleurs admissible devient inadmissible aux fins du CIEE. C'est le point de vue qui a été adopté dans l'arrêt Troy c. R.[5], qui s'apparente à bien des égards à l'espèce et qui a, pour cette raison, été invoqué par la Couronne à l'appui de sa position à l'audience. En rejetant l'appel, le juge suppléant Watson a statué que le paragraphe 122.3(1.1) empêchait M. Troy de demander le CIEE parce que toutes les conditions de cette disposition avaient été remplies :
+[10] « [...] Il n'est pas contesté que, durant la période pertinente, HMSI [l' « employeur » ] a exploité une entreprise de services, qu'elle n'a pas employé plus de cinq employés à plein temps tout au long de l'année et que l'appelant avait un lien de dépendance avec HMSI. Pour ce qui est de l'alinéa 122.3(1.1)c) de la Loi de l'impôt sur le revenu, la Cour est convaincue que sans l'existence de HMSI, il serait raisonnable de considérer l'appelant comme un employé des compagnies de reconnaissance hydrographique qui ne sont pas des employeurs déterminés. [...] »
+[14] En l'espèce, toutefois, au moins deux des critères du paragraphe 122.3(1.1) ne peuvent pas être remplis. D'abord, l'existence d'un véritable sous-contrat entre M. Adams et la Cheyenne ayant été établie, on ne peut pas affirmer que la Cheyenne « exploite une entreprise de services » , comme le prévoit l'alinéa 122.3(1.1)a). Bien que cela suffise à interdire l'application du paragraphe 122.3(1.1), à moins que je n'erre, je suis en outre d'avis que rien ne prouve que la condition énoncée à l'alinéa 122.3(1.1)b) est remplie, c.-à-d. que rien ne laisse supposer que M. Adams avait un lien de dépendance avec la Cheyenne ou qu'il était un actionnaire déterminé de cette société. Étant donné que les critères prévus par la loi n'ont pas tous été remplis, le paragraphe 122.3(1.1) n'entrave en rien le droit de M. Adams de demander un CIEE.
+[15] L'appel est admis et la cotisation est renvoyée au ministre au motif que l'employeur de M. Adams en 2002 était la Cheyenne Oilfield Consulting Service Inc. et que M. Adams avait droit à un crédit d'impôt pour emploi à l'étranger pour cette année d'imposition.
+Signé à Ottawa, Canada, ce 8e jour d'avril 2005.
+"G. Sheridan"
+Le juge Sheridan
+Traduction certifiée conforme
+ce 11e jour d'octobre 2005.
+Joanne Robert, traductrice
+[1] Pièce R-1
+[2] Pièce A-2
+[3] Paragraphe 248(1) de la Loi de l'impôt sur le revenu
+[4] [2002] 3 C.T.C. 2177
+[5] [2001] 3 C.T.C. 2249

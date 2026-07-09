@@ -1,0 +1,248 @@
+---
+title: "Khan v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/235000/index.do"
+last_modified: "2017-09-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 TCC 171"
+citation2: ""
+neutral_citation: "2017 TCC 171"
+decision_date: "2017-09-14"
+language: "en"
+item_id: "235000"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2201
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:11:10.180000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b8ce8d0d6cd40c263129ea23c8cc03540733691cb9069c7f6682c5a8f4c9c43e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Khan v. The Queen
+
+- Citation: 2017 TCC 171
+- Decision date: 2017-09-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2201, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Khan v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-09-14
+Neutral citation
+2017 TCC 171
+File numbers
+2016-2135(IT)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-2135(IT)I
+BETWEEN:
+RAFEEK KHAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on May 24, 2017, at Toronto, Ontario.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Agent for the Appellant:
+Tim Okafor
+Counsel for the Respondent:
+Nimanthika Kaneira
+JUDGMENT
+The appeal against the reassessments made under the Income Tax Act by the Minister of National Revenue, dated June 8, 2015 in respect of the appellant’s 2005 and 2006 taxation years is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 14th day of September 2017.
+“Réal Favreau”
+Favreau J.
+Citation: 2017 TCC 171
+Date: 20170914
+Docket: 2016-2135(IT)I
+BETWEEN:
+RAFEEK KHAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal against reassessments made under the Income Tax Act, R.S.C. 1985 (5th supp.), c. 1, as amended (the “Act” ), by the Minister of National Revenue (the “Minister”) dated June 8, 2015 in respect of the appellant’s 2005 and 2006 taxation years.
+[2] By way of the reassessments, the Minister disallowed donations of $9,000 and $8,000 claimed by the appellant for the 2005 and 2006 taxation years respectively.
+[3] In determining the appellant’s tax liabilities for the 2005 and 2006 taxation years, the Minister made the following assumptions of fact, set out in paragraph 8 of the Reply to the Notice of Appeal:
+a) the Appellant’s Tax Returns were prepared by Nathaniel Okoroafor (the “Tax Preparer”);
+b) the Tax Preparer made false charitable donation claims in preparing his clients’ tax returns;
+c) in his Tax Returns, the Appellant claimed charitable donations in respect of Christ Apostolic Church International Canada, Evidence Ministries and The Christ Healing Church (the “Organizations”) in the following amounts:
+ORGANIZATION
+2005
+2006
+Christ Apostolic Church International
+Evidence Ministries
+The Christ Healing Church
+$4,800
+4,200
+$8,000
+d) the Canada Revenue Agency (the “CRA”) revoked the registered charity status of the Organizations, as detailed below:
+ORGANIZATION
+Date of Revocation
+Christ Apostolic Church International
+Evidence Ministries
+The Christ Healing Church
+August 21, 2010
+July 14, 2007
+September 5, 2009
+e) the CRA revoked the registered charity status of the Organizations for:
+i) issuing receipts for amounts greater than the amounts donated;
+ii) issuing receipts for transactions that did not qualify as gifts; and/or
+iii) not keeping proper records to support their activities;
+f) the receipts issued by the Organizations did not contain the information prescribed by section 3501 of the Income Tax Regulations;
+g) the Appellant did not make gifts to the Organizations with a fair market value of $9,000 and $8,000 in the respective 2005 and 2006 taxation years, as detailed in paragraph 8c) above;
+h) any cash paid to the Organizations by the Appellant was to obtain inflated donation receipts to be enriched from the expected non-refundable tax credits;
+i) the Appellant did not have a charitable intent with respect to the Disallowed Donations;
+j) the amount of charitable donations claimed by the Appellant in the 2005 and 2006 taxation years was inconsistent in relation to donations claimed in other taxation years, with the exception of the 2004 taxation year as detailed below:
+Taxation
+Year
+Donation Claimed
+Net Income Reported
+%
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+$ −
+952
+−
+6,000
+9,025
+8,145
+−
+78
+−
+−
+520
+−
+−
+$ 39,715
+42,887
+41,204
+36,101
+43,644
+51,092
+54,388
+50,539
+51,805
+57,007
+57,699
+53,550
+55,060
+0%
+2%
+0%
+17%
+21%
+16%
+0%
+0%
+0%
+0%
+1%
+0%
+0%
+k) the amount of charitable donations claimed by the Appellant were materially significant representing 21% and 16% of the reported net income in the respective 2005 and 2006 taxation years, as detailed in the preceding paragraph;
+l) the Appellant did not make any in-kind donations in the 2005 and 2006 taxation years; and
+m) the Appellant did not make charitable donations in excess of $25 and $145 in the respective, 2005 and 2006 taxation years.
+[4] In determining that the appellant made misrepresentations attributable to neglect, carelessness or wilful default in filing his tax returns for the 2005 and 2006 taxation years, the Minister relied on the following facts set out in paragraph 9 of the Reply to the Notice of Appeal:
+a) the facts as described in paragraph 8 above;
+b) the Tax Preparer’s clients’ purchased donation receipts from the Tax Preparer for a percentage of the amount of donations claimed;
+c) the payments to purchase the donation receipts were made to the Tax Preparer, not the Organizations;
+d) the payments in respect of the donation receipts were made after the taxation years in which the amounts were claimed, when the tax returns were being prepared;
+e) the amount of payments made in respect of the donation receipts were less than the amounts purported to be donated;
+f) the amounts paid by the Appellant in respect of the donation receipts to the Tax Preparer were a fraction of the face value of the donation receipts; and
+g) the Appellant signed his 2006 tax return.
+[5] Mr. Rafeek Khan testified at the hearing. He could not recall the exact amounts of the donations he made in the years prior to 2005 and to what organizations. He said that his reason for making the donations to churches was to improve his life. He explained that the donations in 2005 and 2006 were made every week or every two weeks when he attended services at the churches and were done by bank transfers or bank notes. To make the donations, he used different bank accounts and a $20,000 line of credit.
+[6] He also explained that in 2005 and 2006, he was working at a hospital and a nursing home and was earning between $50,000 and $60,000 per year. He stated that, after 2006, he did not make any large donation and that he stopped donating money to churches, firstly, because he was disappointed with the requirement to donate 10% of his income and messages of radicalization and secondly, because he had to repay his line of credit.
+[7] He explained that the $8,000 donation to The Christ Healing Church was made monthly during the 2006 taxation year and that the treasurer of the organization kept track of the donations and issued him a receipt shortly after the end of the year.
+[8] He stated that he had received the tax receipts for donations he made from the organizations but never himself filed them to the Canada Revenue Agency (“CRA”). He also said that he never bought tax receipts from anybody.
+[9] The appellant did not remember the names of the persons who prepared and filed his 2005 and 2006 tax returns because during that period, he was under the influence of alcohol. His 2005 tax return was filed electronically and was not signed by him but his 2006 tax return was not filed electronically and was signed by him.
+[10] Mr. Michel Chénard, a litigation officer with the CRA, testified at the hearing and filed the Option C summary of the appellant’s tax returns for the 2001 to 2013 taxation years to show the amounts of donations claimed by the appellant in each year and the amount of net income reported by the appellant in each year.
+[11] The appellant provided no bank records to show the withdrawals of money from his bank accounts to match the donations that he allegedly made during 2005 and 2006. At trial, he provided only one receipt in the amount of $8,000 from the Christ Healing Church, out of the three organizations to which he claimed to have made a substantial donation. This receipt dated February 18, 2007, was attached to his 2006 tax return.
+[12] The appellant did not contest the fact that (a) the Christ Apostolic Church International’s registered charitable status was revoked for cause on August 21, 2010, (b) the Evidence Ministries’ registered charitable status was revoked for cause on July 14, 2007, and (c) the Christ Healing Church’s registered charitable status was revoked for cause on September 5, 2009.
+[13] There are two issues in this appeal:
+(a) whether the appellant made charitable donations in the amounts claimed; and
+(b) whether the appellant made a misrepresentation attributable to neglect, carelessness or wilful default in filing his 2005 and 2006 tax returns, allowing the Minister to reassess those years beyond the normal limitation period?
+[14] As the Minister reassessed the appellant’s 2005 and 2006 taxation years beyond the normal limitation period, the Minister must rely on subsection 152(4) of the Act to validate such reassessments. Paragraph 152(4)(a) of the Act reads as follows:
+Assessment and reassessment. The Minister may at any time make an assessment, reassessment or additional assessment of tax for a taxation year, interest or penalties, if any, payable under this Part by a taxpayer or notify in writing any person by whom a return of income for a taxation year has been filed that no tax is payable for the year, except that an assessment, reassessment or additional assessment may be made after the taxpayer's normal reassessment period in respect of the year only if
+(a) the taxpayer or person filing the return
+(i) has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return or in supplying any information under this Act, or
+(ii) has filed with the Minister a waiver in prescribed form within the normal reassessment period for the taxpayer in respect of the year;
+[15] Based on the evidence before me, I have come to the conclusion that the appellant claimed donations for amounts which he did not donate. Mr. Khan’s explanations are not credible for the following reasons:
+(a) the huge discrepancy in the amounts donated in 2005 and 2006 and the years before 2004 and after 2006;
+(b) the ratio of the alleged donations compared to his net income for the 2005 and 2006 years at a time when he was in financial difficulties as he was forced to change bank because it has recalled his line of credit;
+(c) the lack of bank records from which I draw a negative inference as any such records would have helped the appellant to prove the amounts of his donations;
+(d) the appellant’s inability to explain why he has chosen to donate to the three organizations and to provide information concerning the causes supported by these organizations; and
+(e) the appellant’s inability to give the names of the persons who prepared and filed his tax returns for the 2005 and 2006 taxation years.
+[16] The appellant has not shown on a balance of probabilities that he made the donations he claimed to have made.
+[17] The appellant has certainly made a misrepresentation in his tax returns. He knew or ought to have known that the amounts of $9,000 and $8,000 were far in excess of any cash donations actually made. He certainly reviewed his 2006 tax return prepared by Mr. Nathaniel Okoroafor before signing it. He solely relied on the receipt provided by the Christ Healing Church without questioning the significant amount claimed as charitable donation. He was at the very least, neglectful, in signing a return with the knowledge that the receipt overstated the actual donation.
+[18] In the circumstances, the Minister is right to reassess beyond the normal reassessment period pursuant to subsection 152(4) of the Act. The Minister has met his burden of proof as the appellant is not credible.
+[19] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 14th day of September 2017.
+“Réal Favreau”
+Favreau J.
+CITATION:
+2017 TCC 171
+COURT FILE NO.:
+2016-2135(IT)I
+STYLE OF CAUSE:
+Rafeek Khan And Her Majesty The Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+May 24, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Réal Favreau
+DATE OF JUDGMENT:
+September 14, 2017
+APPEARANCES:
+Agent for the Appellant:
+Tim Okafor
+Counsel for the Respondent:
+Nimanthika Kaneira
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

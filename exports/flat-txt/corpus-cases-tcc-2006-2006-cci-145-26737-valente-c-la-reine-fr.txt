@@ -1,0 +1,126 @@
+Title: Valente c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26737/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-145-26737-valente-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2006-03-09
+
+# Valente c. La Reine
+
+- Citation: 2006 CCI 145
+- Decision date: 2006-03-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3418, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Valente c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-03-09
+Référence neutre
+2006 CCI 145
+Numéro de dossier
+2005-2411(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-2411(IT)I
+ENTRE :
+LINDA E. VALENTE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 21 février 2006 à Vancouver (Colombie-Britannique)
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Selena Sit
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en vertu de la Loi de l’impôt sur le revenu à l’égard de l’année d’imposition 2003 est accueilli avec frais, et la cotisation est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation en tenant pour acquis que l’appelante a droit au crédit d’impôt pour frais de scolarité prévu à l’article 118.5 de la Loi de l’impôt sur le revenu.
+Signé à Toronto (Ontario), ce 8e jour de mars 2006.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 23e jour de mai 2006.
+Jean David Robert, traducteur
+Référence : 2006CCI145
+Date : 20060309
+Dossier : 2005-2411(IT)I
+ENTRE :
+LINDA E. VALENTE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] La Cour est saisie d'un appel interjeté par Mme Linda Valente à l’encontre d’une cotisation établie en vertu de la Loi de l’impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.), modifiée, (la « Loi ») à l’égard de l’année d’imposition 2003. Dans la cotisation, le ministre a refusé d’accorder à l’appelante un crédit d’impôt pour des frais de scolarité payés à une université située en Angleterre offrant des cours en ligne. Le montant des frais de scolarité et des frais accessoires en cause s’élève à 11 084,46 $.
+[2] La question qu’il faut trancher pour décider si l’appelante a droit au crédit d’impôt pour des frais de scolarité qu’elle a payés à une université située à l’étranger en application de l’alinéa 118.5(1)b) de la Loi a trait au sens de l’expression « fréquente comme étudiant à plein temps ». La partie pertinente de la disposition est ainsi libellée :
+b) si, au cours de l’année, le particulier fréquente comme étudiant à plein temps une université située à l’étranger, où il suit des cours conduisant à un diplôme, le produit de la multiplication du taux de base pour l’année par le total des frais de scolarité payés à l’université pour l’année, à l’exception des frais qui ont été :
+(i) soit payés pour des cours d’une durée inférieure à 13 semaines consécutives, […]
+[Non souligné dans l'original.]
+[3] En 2002, Mme Valente, résidente de Vancouver, a décidé d’entreprendre des études supérieures. À la suite de recherches approfondies sur des programmes qui pouvaient servir ses objectifs de carrière, elle a décidé de s’inscrire à la Open University en Angleterre, dans un programme menant à l’obtention d’une maîtrise ès sciences de la fabrication, de la gestion et de la technologie.
+[4] Mme Valente a témoigné que le programme dans lequel elle s’est inscrite n’était pas offert au Canada et que les cours en ligne lui convenaient parce qu’elle élevait de jeunes enfants à Vancouver et qu’elle n’était pas obligée de déménager.
+[5] Au début, Mme Valente a décidé de suivre le programme à temps partiel à titre d’essai, tout en exploitant une entreprise d'experts-conseils pendant cette période. Lorsqu’elle s’est assurée que le programme lui convenait, elle a mis un terme à ses activités d’expert-conseil et s’est inscrite à plein temps. La charge de cours à plein temps correspondait à deux cours par session, les sessions commençant en mai et en novembre 2003. Mme Valente doit maintenant écrire un mémoire pour obtenir sa maîtrise, ce qui devrait lui prendre environ un an.
+[6] Mme Valente a qualifié la Open University de chef de file de l’éducation en ligne et a décrit ses méthodes d’enseignement. Au début de chaque session, les étudiants reçoivent des livres, des logiciels et une liste des exigences des cours, y compris les dates d’échéance des travaux. Il n’y a pas de cours magistraux, mais des démonstrations et d’autres présentations visuelles sont offertes sur CD. Tous les étudiants obtiennent accès à une connexion directe réservée semblable à un « bavardoir » pour chaque cours afin qu’ils puissent discuter entre eux et avec les enseignants. Les examens sont supervisés, et Mme Valente a pris des dispositions pour subir son examen à l’Université de la Colombie-Britannique.
+Analyse
+[7] L’expression « fréquente comme étudiant à plein temps » qu’on trouve à l’alinéa 118.5(1)b) a donné lieu à de nombreux commentaires dans la jurisprudence. Les décisions antérieures ont principalement traité du sens de l’expression « à plein temps », qui n'est pas en cause dans le présent appel. Le juge Pratte de la Cour d’appel fédérale a décrit « à plein temps » comme une « expression difficile et, peut-être, impossible à définir de façon précise » (The Queen v. Gaudet, 78 D.T.C. 6556).
+[8] Plus récemment, la Cour a étudié le sens du mot « fréquente » dans le contexte de programmes d'éducation à distance, tels que celui suivi par Mme Valente. La question est de savoir si l’expression « fréquente comme étudiant à plein temps » implique nécessairement une présence physique sur le campus d’une université, et il n’y a pas d’unanimité sur ce point dans les décisions de la Cour. Je constate que toutes les causes auxquelles on m’a renvoyée ont été instruites par la Cour selon la procédure informelle, et qu’elles n’ont pas valeur de précédent. Il en est de même du présent appel.
+[9] La première décision publiée sur la question semble être Hlopina v. The Queen, [1998] 2 C.T.C. 2669 (C.C.I), dans laquelle le juge Bowie a conclu à contrecœur que la présence physique à une université est nécessaire pour les besoins de l’alinéa 118.5(1)b). Cependant, le juge Bowie n’a pas fondé sa décision sur le mot anglais « attendance », qu’il a considéré comme ambigu. Il s’est plutôt appuyé sur la version française de la disposition, où l’on a employé le mot « fréquente » qu’il a interprété comme nécessitant une présence physique.
+[10] La décision Hlopina a été suivie par le juge MacArthur dans le jugement Cleveland v. The Queen, 2004 D.T.C. 2199 (C.C.I.), qui a porté sur des cours sur Internet semblables à ceux suivis par Mme Valente.
+[11] Peu après, la même question a été soulevée dans Krause v. The Queen, 2004 D.T.C. 3265 (C.C.I.), mais le juge en chef Bowman n’a pas eu à le trancher parce que l’appel visait une cotisation néant et il a dû être rejeté pour ce motif. Néanmoins, le juge en chef a pris l’initiative inhabituelle de rédiger une opinion incidente motivée, dans laquelle il a formulé d’importantes réserves sur toute interprétation donnant lieu a un refus du crédit d’impôt pour des frais de scolarité relatifs à des cours sur Internet.
+[12] Le juge en chef Bowman s’est penché sur les versions anglaise et française de la disposition et leur contexte. Au sujet de la version anglaise, il a constaté que l’emploi du verbe « attend » pour parler d’une personne qui participe à des cours par l’entremise d’Internet était conforme au sens de ce mot. Relativement à la version française, il n’a pas souscrit aux décisions antérieures et a conclu que le mot « fréquente » était tout aussi ambigu que « attendance ».
+[13] Bien que le juge en chef ait jugé que la question n’était pas claire, il est parvenu à la conclusion que le bon sens jouait en faveur du contribuable. Au paragraphe 24, il a affirmé ce qui suit :
+Il est donc évident que la question ne peut vraiment pas être tranchée avec netteté. Même s’il ne m’est pas nécessaire de m’exprimer sur ce point, l’appel devant être rejeté de toute manière parce que l’avis de cotisation n’exige pas le paiement d’impôts, je crois qu’il existe de solides raisons de conclure que la fréquentation à temps plein d’une université située à l’étranger peut inclure la fréquentation à temps plein par le truchement d’Internet ou en ligne, comme c’est le cas ici. Ce point de vue est conforme à la logique et à la réalité de la technologie moderne. S’il subsiste un doute sur ce point, le Parlement devrait prendre des mesures pour l’éliminer.
+[14] Très récemment, le juge Rip a dû examiner le sens de l’expression « faire la navette » dans le contexte des cours sur Internet (voir Yankson v. The Queen, 2005 D.T.C. 1709). Il a conclu avec réticence que l’expression « faire la navette » impliquait une présence physique. Toutefois, il a aussi affirmé dans une remarque incidente que le mot « fréquente » devait faire l’objet d’une interprétation plus large, et que l’alinéa 118.5(1)b) devait s’appliquer aux cours sur Internet.
+[15] Contrairement aux juges saisis des affaires Krause et Yankson, je dois décider dans le présent appel si l’alinéa 118.5(1)b) exige la présence physique à une université. En m’appuyant sur les décisions antérieures, je conclus sans hésitation par la négative. L’expression « fréquente comme étudiant à plein temps » est ambiguë et, à mon avis, elle doit être interprétée de manière libérale comme englobant les programmes qui exigent l’« attention » de l’étudiant à plein temps, tels que le programme à plein temps qu’a suivi Mme Valente.
+[16] Dans Hlopina, le juge Bowie s’est senti obligé de donner un sens à la version française qu’il a considérée comme claire et non ambiguë. La décision Krause remet en question cette interprétation. Dans le présent appel, l’intimée n’a fourni aucun argument concernant le sens du mot « fréquente ». Donc, je n’ai aucune raison de rejeter la conclusion du juge en chef dans Krause selon laquelle le sens de la version française est lui aussi ambigu.
+[17] Refuser d’accorder le crédit d’impôt à Mme Valente dans les circonstances ne constitue pas une interprétation juste, raisonnable et libérale de la disposition relative au crédit d’impôt pour frais de scolarité. Le Parlement peut certainement exiger la présence physique d’un étudiant à une université étrangère pour les besoins du crédit. Cependant, cette exigence n’est pas clairement énoncée dans la Loi, et je ne crois pas qu’il faille la déduire d’une interprétation étroite de l’expression « fréquente comme étudiant à plein temps ».
+[18] L’appel est accueilli avec frais.
+Signé à Toronto (Ontario), ce 8e jour de mars 2006.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 23e jour de mai 2006.
+Jean David Robert, traducteur
+RÉFÉRENCE :
+2006CCI145
+Nº DU DOSSIER DE LA COUR :
+2005-2411(IT)I
+INTITULÉ :
+Linda E. Valente et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 21 février 2006
+MOTIFS DU JUGEMENT :
+L’honorable juge Judith Woods
+DATE DU JUGEMENT :
+Le 8 mars 2006
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Selena Sit
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+s.o.
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

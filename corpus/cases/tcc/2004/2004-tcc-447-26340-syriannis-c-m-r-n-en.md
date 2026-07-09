@@ -1,0 +1,217 @@
+---
+title: "Syriannis c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26340/index.do"
+last_modified: "2004-07-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 447"
+citation2: ""
+neutral_citation: "2004 TCC 447"
+decision_date: "2004-07-16"
+language: "en"
+item_id: "26340"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3287
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:13:38.174000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "aad95baffb88ef150dbef0194a75e5d5676429d0a009e40e723c7b3b885f5ea0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Syriannis c. M.R.N.
+
+- Citation: 2004 TCC 447
+- Decision date: 2004-07-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3287, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Syriannis c. M.R.N.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-07-16
+Neutral citation
+2004 TCC 447
+File numbers
+2002-4465(EI)
+Judges and Taxing Officers
+Sylvio J. Savoie
+Subjects
+Canada Pension Plan
+Decision Content
+Docket: 2002-4465(EI)
+BETWEEN:
+ALEXANDRE SYRIANNIS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+GEORGES KUGIEL,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on March 22, 2004, at Montréal, Quebec
+Before: The Honourable S.J. Savoie, Deputy Judge
+Appearances:
+Counsel for the Appellant:
+Gilbert Nadon
+Counsel for the Respondent:
+Agathe Cavanagh
+For the Intervener:
+No appearance
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the Minister's decision is confirmed in accordance with the attached Reasons for Judgement.
+Signed at Grand-Barachois, New Brunswick, this 16th day of July 2004.
+"S.J. Savoie"
+Savoie D.J.
+Translation certified true
+on this 5th day of January 2005.
+Colette Dupuis-Beaulne, Translator
+Citation: 2004TCC447
+Date: 20040716
+Docket: 2002-4465(EI)
+BETWEEN:
+ALEXANDRE SYRIANNIS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+GEORGES KUGIEL,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Savoie D.J.
+[1] This appeal was heard at Montréal, Quebec, on March 22, 2004.
+[2] This appeal deals with the insurability of the Appellant's employment while employed by Georges Kugiel, carrying on business under the company name Enos Décor, the Payor, during the period beginning March 25, 2001, and ended November 17, 2001, the period at issue within the meaning of paragraph 5(1)(a) of the Employment Insurance Act (the "Act").
+[3] On April 18, 2002, further to a request from Human Resources Development Canada, an authorized officer of the Canada Customs and Revenue Agency determined that the Appellant was employed in an insurable employment under paragraph 5(1)(a) of the Act while employed by the Payor during the period at issue.
+[4] Furthermore, the officer determined that 1,530 insurable hours had been worked during the entire period and that the insurable remuneration for the last 27 weeks of the period was $25,650.00.
+[5] On May 9, 2002, the Payor appealed from the decision of the Minister of National Revenue (the "Minister") dated April 18, 2002.
+[6] On June 7, 2002, the Appellant also appealed from the decision of the Minister dated April 18, 2002, but with respect to the number of insurable hours only.
+[7] In a letter dated September 26, 2002, the Minister informed the Appellant of his decision whereby this employment, for the period at issue, was not insurable, because it did not meet the requirements of a contract of service; an employee-employer relationship did not exist between the Appellant and the Payor.
+[8] The Minister based his decision on the following assumptions of fact:
+(a) Georges Kugiel registered the company name "Décorations Enos" on November 16, 1999; (admitted)
+(b) Georges Kugiel was the sole proprietor of the company name; (admitted)
+(c) the Payor operated an Italian furniture import and wholesale business; (admitted with additional details)
+(d) the Appellant claimed to be the Payor's director of sales; (admitted)
+(e) according to the Appellant, his duties included maintaining contacts with Italian suppliers and locating clients in Quebec; (admitted with additional details)
+(f) the Appellant worked at his own discretion on the basis of a variable work schedule which was not controlled by the Payor; (admitted with additional details)
+(g) the Appellant rendered services from the Payor's office or from his own home, according to his own decision; (admitted with additional details)
+(h) the Appellant used his own tools from his home, namely, a computer, telephone, and stationery supplies; (admitted with additional details)
+(i) during the period at issue, the Payor issued cheques in the following amounts to the Appellant:
+March 30, 2001 $1,529.08
+April 4, 2001 $3,000.00
+April 19, 2001 $690.20
+August 31, 2001 $2,000.00
+(admitted)
+(j) on September 9, 2002, in a statement to an officer of the Respondent, the Payor stated that the Appellant was not an employee of the Payor, but that he was a friend of his spouse who rendered services to the Payor's business from time to time; (Appellant unaware)
+(k) on September 9, 2002, in a statement to an officer of the Respondent, the Payor stated that the cheques had been issued to the Appellant to pay suppliers and that no cheque for wages had been issued to the worker during the period at issue; (Appellant unaware)
+(l) on November 26, 2001, the Appellant made a claim for employment insurance, filing a record of employment issued on November 19, 2001, and signed by Georges Kugiel, indicating that the first day of work was March 25, 2001, and the last day of work was November 17, 2001, including 1,836 insurable hours, and total insurable remuneration of $32,300; it also showed that the employer was 9102-1915 Québec Inc. Enos/Tendances; (admitted)
+(m) Georges Kugiel is the majority shareholder and President of 9102-1915 Québec Inc.; (admitted)
+(n) the record of employment is faulty with respect to the employer, insurable hours, and remuneration. (denied)
+[9] The Intervener did not appear at the hearing.
+[10] The evidence shows that the Appellant started working for the Payor in November 2000. The two individuals had known each other for some time, and in 1999, the Payor married one of the Appellant's friends. At the outset, the Appellant's work consisted of starting up the Payor's business, as the Payor was not well organized. The Appellant, with some help from Ms. Nicky Patrikios, located premises for the business on St-Laurent Boulevard, for which the Payor signed a lease. The Payor operated an import, wholesale, and retail sales business that specialized in contemporary Italian furniture.
+[11] The Appellant stated that he performed the following duties for the Payor: managing the business; purchasing and selling Italian furniture; and handling the daily bookkeeping, namely, accounts payable, accounts receivable, and government remittances. He also completed the paperwork for Customs and transportation, negotiated with suppliers, and managed staff. The Appellant stated that he was not paid prior to March 25, 2001. He claimed that during the period prior to March 25, 2001, he did research for the Payor on a volunteer basis with the understanding that the Payor would bear in mind the work performed.
+[12] The Appellant demonstrated that the Payor did not take care of his business, yet he was quick to empty the cash register when money came in. The Appellant's witnesses called the Payor a drug addict and an alcoholic and claimed that he was never present at the store: [TRANSLATION] "You had to chase after him to get paid or to settle business matters for which he was the sole signing authority." The evidence shows that George Kugiel was, in fact, the sole signing authority for the Payor.
+[13] The Appellant stated that during the period at issue, he closed a substantial sale for the business, which earned a commission of approximately $30,000. He added that the Payor promptly pocketed the money and dismissed his employees.
+[14] In his testimony, the Appellant recounted a trip he made to Italy to buy merchandise at an annual exhibition. He stated that most of his expenses had been paid for by the Ministry of Industry of Italy. He used the Payor's credit card to cover the balance of his expenses.
+[15] The Appellant also added that he started his work day at around 7 a.m. and, because of the time difference, he often worked quite late, sometimes until 10 or 11 p.m. to keep in touch with suppliers in Italy. He added that he often worked from home.
+[16] In his testimony, the Appellant stated that he was paid by cheque. He filed four of these cheques. He added that he was sometimes paid in cash, but that he always had to wait to be paid, sometimes for three weeks and sometimes for as long as a month and a half. He claimed that he wanted to set up a bookkeeping system for the business, but he was unable to do so because the Payor was uncooperative to the extent that he destroyed the data that had been collected and stored on the computer. According to the Appellant, he had to make a number of overseas telephone calls to keep in touch with Italy. In doing so, he incurred expenses. He was reimbursed for some of these expenses, but a balance of $600.00 is still outstanding.
+[17] However, the Appellant did not file a complaint with the Commission des normes du travail du Québec regarding his unpaid wages or the outstanding expenses. In his statement to the Appeals Officer, the Appellant claimed that he and the Payor had a verbal agreement that he would be paid $950.00 per week.
+[18] The Payor, Georges Kugiel, told the Appeals Officer that the Appellant had, in fact, provided services to his business, but he denied the Appellant's claim regarding his remuneration and his hours of work.
+[19] In this statement by the Payor, the Appellant's duties were limited to those activities required to start up the business, namely, finding suppliers. The Payor told the Appeals Officer that wages had not been paid to the Appellant during the period at issue and that paycheques had not been issued to him. The Appellant was not listed in the payroll records like the other two employees, Isabelle Pépin and Nicky Patrikios.
+[20] The Payor explained that he had offered to assist the Appellant in starting up his business to help him out, because he was experiencing financial difficulties and health issues. According to him, the oral understanding with the Appellant provided for an exchange of services, based on his availability, and he would compensate him by helping to pay some of his invoices, such as his rent or the purchase of household appliances, once the business was in a position to do so.
+[21] The Payor added that he had signed blank Record of Employment forms for all the employees, because he would be away, and the Appellant was to complete them. The Appellant contradicted this statement in his testimony, but, at the hearing, Ms. Pépin said that, based on her knowledge, the Appellant had prepared the Records of Employment and the Payor had signed them.
+[22] At the hearing, the Appellant stated that some information saved in the computer, namely the hours worked, had been deleted. He added that he was able to track the data necessary to prepare the Records of Employment and the hours worked, based on the information contained in the clients' and decorators' files.
+[23] The Appellant is asking this Court to reverse the Minister's decision and find that his employment was insurable. Based on a well-known case, Wiebe Door Services Ltd. v. Canada (Minister of National Revenue - M.N.R) [1986] 3 F.C. 553, case law sets out a series of criteria to be used in making a determination in a case like this one, namely:
+1. degree of control over the work or the worker;
+2. ownership of tools;
+3. chance of profit or risk of loss;
+4. integration of the employee's work in the Payor's business.
+[24] In Charbonneau v. Canada (Minister of National Revenue-M.N.R.), [1996] F.C.J. No. 1337, Décary J. of the Federal Court of Appeal discussed these criteria as follows:
+The tests laid down by this Court in Wiebe Door Services Ltd. v. M.N.R. on the one hand, the degree of control, the ownership of the tools of work, the chance of profit and risk of loss, and on the other, integration - are not the ingredients of a magic formula. They are guidelines which it will generally be useful to consider, but not to the point of jeopardizing the ultimate objective of the exercise, which is to determine the overall relationship between the parties. The issue is always, once it has been determined that there is a genuine contract, whether there is a relationship of subordination between the parties such that there is a contract of employment (art. 2085 of the Civil Code of Québec) or, whether there is not, rather, such a degree of autonomy that there is a contract of enterprise or for services (art. 2098 of the Code). In other words, we must not pay so much attention to the trees that we lose sight of the forest - a particularly apt image in this case. The parts must give way to the whole.
+[25] The evidence should, therefore, be examined in light of the above-noted criteria.
+[26] The evidence, examined on the basis of the first criterion-that of control- showed that the Payor did not exercise any control over the Appellant. The Payor did not establish a schedule, work hours, or methods of work. The Appellant reported to the business's office on the day and at the time that suited him. Very often, he worked from home. The Payor had no control over the hours worked by the Appellant from his home.
+[27] With respect to ownership of tools, the evidence shows that the use of tools was very minimal. Where the Appellant worked from his home, he used his own work tools, specifically, his computer, telephone, and stationery. Copies of e-mails submitted by the Appellant showed that he used his personal computer and letterhead in carrying out his duties.
+[28] Regarding the chance of profit and risk of loss, it was shown that no remuneration had been attributed to services rendered by the Appellant. This is what the Payor told the Appeals Officer. In their examination of the file, the Minister's officers determined that the figures provided by the Appellant could not be considered, because it was not possible to compare them with other bank documents, as there were none.
+[29] The evidence showed that the Appellant did not initiate any action with the Commission des normes du travail du Québec to recover unpaid wages.
+[30] However, it was established that the duties carried out by the Appellant were an integral part of the Payor's business.
+[31] In 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] 2 S.C.R. 983, Major J.C.S. accepted the opinion of MacGuigan J. whereby he states the following in Wiebe Door Services Ltd., supra:
+[...]The most that can profitably be done is to examine all the possible factors which have been referred to in these cases as bearing on the nature of the relationship between the parties concerned. Clearly not all of these factors will be relevant in all cases, or have the same weight in all cases. Equally clearly no magic formula can be propounded for determining which factors should, in any given case, be treated as the determining ones.
+[32] What is the nature of the relationship between the parties in this case? Firstly, no written contract of employment existed between the parties. The Payor admits that the Appellant rendered services to his business, but in his statement to the Appeals Officer, he denied the amount of remuneration and the number of hours reported by the Appellant. He signed the Record of Employment that supports the Appellant's claim regarding his remuneration and hours worked.
+[33] The Record of Employment was prepared by the Appellant. The Payor admitted that he had signed a blank form, but the Appellant denied this. The Payor's testimony would have been useful, but the Payor did not appear at the hearing.
+[34] The evidence showed that control of the Appellant and of his work did not exist. In carrying out his duties, the Appellant, who often worked from home, used his own tools. Although the Appellant's work was integrated in the Payor's business, the evidence showed that the terms and conditions of employment supported the conclusion that he worked mostly without remuneration, and his risk of loss was genuine. He financial losses were established at the hearing. His Record of Employment indicates $32,300 in insurable earnings, whereas he received a total of only $7,219.28 during the period at issue, which the Payor claims was paid to him to cover the cost of renovations.
+[35] It was shown that, unlike the other employees, the Appellant did not appear anywhere in the payroll record. The evidence showed that the cheques issued to the employee Nicky Patrikios were clearly identified as payment of wages.
+[36] At the hearing, the Appellant stated that he had conducted research for the Payor in 2000 and 2001 and that he had not been paid. He added that the Payor was to take this into consideration. This suggests that the amounts paid to the Appellant were, in part, compensation for the Appellant's research work prior to the period at issue, but this contradicts the information contained in his Record of Employment, which the Appellant himself prepared. Based on the evidence presented, the Appellant prepared his own Record of Employment, and that of the other employees, but to prepare these documents, he had to piece together the data using copies, client files, and documents in support of the sums paid in cash by clients and decorators. The Appellant claimed that this was necessary because the Payor had deleted the information that was stored in the computer.
+[37] Given that the Appellant worked at reconstructing the data with a view to preparing Records of Employment, why would he not have done the same to prepare the employer's T4 slips so that he could file his income tax returns? The evidence showed that the Appellant had not filed an income tax return since 1985. He explained that he had not done so because he did not have any T4 slips.
+[38] This Court must take into account the fact that the Appellant, trained as an accountant, was unable to explain, in a credible manner, why he did not file his income tax returns. He simply stated that he had not received a T4 slip from the employer.
+[39] The evidence as a whole supports the conclusion that preparing this document was one of his duties, as was preparing the Records of Employment.
+[40] In support of his claims, the Appellant filed incomplete, disjointed, fragmented, and often contradictory evidence. This evidence did not discharge his burden.
+[41] A number of facts presented raise questions rather than provide answers. The Appellant prepared and filed some documents to support his claims, but he failed to prepare other documents that would have been useful to him, such as his income tax return.
+[42] The Appellant is asking this Court to reverse the Minister's decision, but an analysis of the evidence gathered, in light of the criteria that have been established, does not justify the Court's intervention.
+[43] In these circumstances, I quote Pratte J. in Elia v. Canada (Minister of National Revenue - M.N.R.), [1998] F.C.J. No. 316, who said the following:
+Contrary to what the judge believed, he therefore could have intervened and should have intervened if, as he asserted, the evidence established that the Minister's decision was unreasonable. However, it seems to us that the judge's assertion is also inaccurate and based on an error of law, since the judge did not take into account the well-settled rule that the allegations in the reply to the notice of appeal, in which the Minister states the facts on which he based his decision, must be assumed to be true as long as the appellant has not proved them false.
+[44] The cases cited by counsel for the Appellant were read, but I must conclude that the case at bar is a leading case, and the principles set out in the cases cited do not change the conclusion in this case.
+[45] This Court must conclude that the Minister's decision in this appeal is well founded.
+[46] For these reasons, the appeal is dismissed and the Minister's decision is confirmed.
+Signed at Grand-Barachois, New Brunswick, this 16th day of July 2004.
+"S.J. Savoie"
+Savoie D.J.
+Translation certified true
+on this 5th day of January 2005.
+Colette Dupuis-Beaulne, Translator
+CITATION:
+2004TCC447
+COURT FILE No.:
+2002-4465(EI)
+STYLE OF CAUSE:
+Alexandre Syriannis and M.N.R. and Georges Kugiel
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+March 22, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable S.J. Savoie, Deputy Judge
+DATE OF JUDGMENT:
+July 16, 2004
+APPEARANCES:
+For the Appellant:
+Gilbert Nadon
+For the Respondent:
+Agathe Cavanagh
+For the Intervener:
+No appearance
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Gilbert Nadon
+Firm:
+Ouellet, Nadon et associés
+Montréal, Quebec
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+For the Intervener:

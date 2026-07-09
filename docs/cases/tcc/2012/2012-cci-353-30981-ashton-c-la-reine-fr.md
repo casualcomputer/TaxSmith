@@ -1,0 +1,139 @@
+---
+title: "Ashton c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30981/index.do"
+last_modified: "2012-10-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 353"
+citation2: ""
+neutral_citation: "2012 CCI 353"
+decision_date: "2012-10-10"
+language: "fr"
+item_id: "30981"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4799
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:21:26.335000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "642e8e7e168fcacd094944b88c44668c9b573f033209349b2670e8d5bbcbf4d3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ashton c. La Reine
+
+- Citation: 2012 CCI 353
+- Decision date: 2012-10-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4799, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ashton c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-10-10
+Référence neutre
+2012 CCI 353
+Numéro de dossier
+2012-266(IT)I
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-266(IT)I
+ENTRE :
+SUZANNE ASHTON
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 3 octobre 2012, à Vancouver (Colombie‑Britannique).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocate de l’intimée :
+Me Amandeep K. Sandhu
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté par l’appelante à l’égard des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2007 et 2008 est rejeté, sans dépens, conformément aux motifs du jugement ci‑joints.
+Signé à Vancouver (Colombie‑Britannique), ce 10e jour d’octobre 2012.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 20e jour de novembre 2012.
+Alya Kaddour, traductrice
+Référence : 2012CCI353
+Date : 20121010
+Dossier : 2012-266(IT)I
+ENTRE :
+SUZANNE ASHTON
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Boyle
+[1] Dans le cadre du présent appel, interjeté sous le régime de la procédure informelle, la question est de savoir si Mme Ashton a reçu des remboursements en trop pour les années 2007 et 2008, remboursements fondés sur des feuillets T4 falsifiés. Mme Ashton affirme ne pas avoir produit elle-même les déclarations qui ont été transmises par voie électronique et ne pas avoir reçu le remboursement des montants en cause. Elle soutient que c’est une tierce partie qui a dû produire les déclarations et recevoir les remboursements.
+[2] Avant l’audience, la Couronne a présenté une requête préliminaire en annulation de l’appel au motif que les nouvelles cotisations que l’Agence du revenu du Canada (l’« ARC ») a établies à l’égard de l’appelante après avoir constaté que les feuillets T4 avaient été falsifiés étaient des cotisations néant. Un autre juge de la Cour a rendu une décision à l’égard de cette requête; ladite requête a été rejetée en partant du principe que Mme Ashton interjetait appel de cotisations établies en application de l’article 160.1 de la Loi de l’impôt sur le revenu (la « Loi ») relativement à des remboursements en trop qu’elle avait reçus. Vu que la Couronne n’a pas interjeté appel de cette décision, je suis parti de ce principe.
+[3] Lors de l’audition de l’appel, la Couronne a affirmé que la Cour n’avait pas la compétence voulue pour entendre des questions de recouvrement. Nonobstant le fait que l’article 160.1 de la Loi semble manifestement accorder à la Cour la compétence voulue pour entendre les questions de remboursements en trop reçus par les contribuables, la Couronne est d’avis que la Cour n’a compétence que si c’est le remboursement en trop en tant que tel qui fait l’objet d’une contestation, et non quand il s’agit de se prononcer sur la question de savoir si le montant en trop a bien été remboursé au contribuable. La Couronne soutient que c’est la Cour fédérale qui a compétence pour décider si le contribuable a bien reçu le remboursement, étant donné qu’il s’agit d’une question de recouvrement. Compte tenu de la conclusion de fait énoncée ci‑dessous, la décision que j’ai rendue selon laquelle la Cour a bien la compétence voulue pour décider si, comme le dit l’article 160.1 de la Loi « un contribuable a été remboursé […] d’un montant supérieur à celui auquel il avait droit », est largement théorique. Le libellé de l’article 160.1, tout comme le fait que le paragraphe 160.1(3) attribue expressément à la Cour le pouvoir d’entendre les appels en la matière, indique que le législateur voulait que la Cour ait la compétence voulue pour décider si des montants en trop ont été remboursés à un contribuable.
+[4] En 2008, Money Mart a transmis une déclaration de revenus par voie électronique pour l’année 2007 au nom de Mme Ashton et a versé à Mme Ashton un remboursement en argent comptant moyennant la cession du droit de cette dernière à son remboursement d’impôt. Même si Mme Ashton était cliente de Money Mart depuis dix ans, et que Money Mart disposait de nombreux renseignements précis à son sujet dans son profil de client électronique, elle n’avait jamais demandé à Money Mart de remplir sa déclaration de revenus auparavant. Money Mart a reçu un T4 manuscrit, sur lequel le nom de la contribuable avait été mal orthographié. En fait, sur chaque copie, le nom de Mme Ashton avait été orthographié différemment, et sur chacune de ces copies, l’orthographe a été « corrigée » à la main. On s’est alors retrouvé avec deux orthographes différentes, toutes deux étant incorrectes et ne correspondant pas au nom que Money Mart avait dans ses dossiers clients ou au nom apparaissant sur la pièce d’identité que Money Mart a affirmé avoir vérifiée. Money Mart n’a effectué aucune démarche pour vérifier le T4 auprès de l’employeur avant de transmettre la déclaration par voie électronique. À des fins d’identification des clients, Money Mart a demandé à la contribuable une copie de son permis de conduire et a comparé la photo du permis à la photo en format numérique se trouvant dans le profil de client de Mme Ashton; il s’agissait d’une photo qui pouvait avoir été prise dix ans auparavant à l’époque (et qui reste la seule photo disponible).
+[5] En 2009, H&R Block a transmis une déclaration de revenus par voie électronique au nom de Mme Ashton et a versé un remboursement par chèque à Mme Ashton moyennant la cession du droit de cette dernière à son remboursement d’impôt. Aucune preuve n’a été produite en vue de démontrer que Mme Ashton a encaissé ce chèque ou l’a déposé dans son compte si ce n’est une copie de mauvaise qualité de l’endos d’un chèque, copie qui mesurait environ 4 cm sur 7,5 cm et sur laquelle semblait figurer une signature qui ressemblait à celle de la contribuable. Il ressort clairement des dossiers de Money Mart que ce chèque n’a pas été encaissé au nom de Mme Ashton chez Money Mart, même si d’après les dossiers de la société, elle était toujours, et est encore à ce jour, cliente de Money Mart.
+[6] Le T4 que H&R Block a reçu provenait du même employeur. Le T4 délivré pour 2008 était dactylographié. La personne qui a témoigné au nom de H&R Block a affirmé que H&R Block contactait toujours l’employeur dans le cas où on lui envoyait un T4 manuscrit, afin d’en confirmer la validité. En 2009, H&R Block n’avait pas pour politique d’exiger de ses clients qu’ils fournissent une pièce d’identité avec photo. La société demandait soit une pièce d’identité comportant photo et signature, soit deux pièces d’identité signées, sans photo. La politique relative à la présentation de pièces d’identité était nouvelle à l’époque et, comme l’a avoué de lui‑même le représentant de H&R Block, elle n’était pas bien appliquée de toute façon. Cette politique n’exigeait même pas de consigner au dossier le fait qu’une pièce d’identité avait été présentée, et encore moins de préciser de quelle pièce d’identité il s’agissait. Après consultation de ses dossiers, H&R Block n’a pas été en mesure de retrouver le nom de l’employé qui avait été chargé de préparer et de transmettre la déclaration et n’a pas non plus été en mesure de confirmer que le deuxième examen « obligatoire » de la déclaration de la contribuable avait été effectué; il s’agissait d’une autre politique qui n’était pas systématiquement appliquée.
+[7] La situation qui prévaut chez les escompteurs comme Money Mart et H&R Block, associée au fait que c’est l’ARC, le gouvernement fédéral et le public, et non les escompteurs, qui assument la plus grande partie du risque financier, présente de nombreux risques de voir apparaître de faux T4 et des cas de vols d’identité. Le témoin de l’ARC a confirmé que tel était le cas selon son expérience.
+[8] La contribuable a affirmé qu’on lui avait volé son sac au Manitoba en 2002 et qu’elle avait perdu son porte‑monnaie au début de l’année 2010. Dans les deux cas, elle a ensuite été victime de vol d’identité et des transactions financières non autorisées ont été effectuées en son nom. Elle a mentionné ces incidents pour expliquer qu’en l’espèce, il était possible qu’on soit en présence d’un cas de vol d’identité. Le fait que le sac de la contribuable ait été volé en 2002 n’aurait pas permis à une autre personne d’avoir accès à ses adresses ou numéros de téléphone de 2007 et de 2008. Et elle a perdu son porte‑monnaie en 2010, soit après que les deux déclarations en cause ont été produites. Si les déclarations ont été transmises par voie électronique par une autre personne, cette personne n’a pas trouvé les renseignements personnels de Mme Ashton ou son permis de conduire dans le sac volé ou dans le porte‑monnaie perdu.
+[9] Dans la mesure où la Loi exige de l’ARC qu’elle établisse si un contribuable a reçu un remboursement en trop, je n’ai pas à décider s’il revient au ministre de prouver que les montants ont bien été remboursés à Mme Ashton. Dans les circonstances, il semble raisonnable de penser que cela se pourrait. De même, il n’est pas clair qu’il faille donner au ministre le bénéfice de présumer à première vue que les hypothèses sont correctes étant donné que, dans les cas de vol d’identité, la contribuable ne sait pas qui a prétendu être elle; il se peut très bien que l’ARC soit la mieux placée pour enquêter. De toute manière, même si en l’espèce le fardeau de la preuve incombe à la contribuable, une fois que cette dernière a nié avoir été l’auteure des déclarations en cause et si la preuve qu’elle produit semble crédible, en pratique, le fardeau de la preuve incombe alors à la Couronne. Dans la situation, il serait difficile à la contribuable de produire davantage de preuves du fait qu’elle n’était pas l’auteure des déclarations en cause.
+[10] Considérant l’époque à laquelle nous vivons, je ne suis pas en mesure de conclure que la contribuable a reçu un remboursement du simple fait que quelqu’un s’est présenté à un spécialiste en déclarations de revenus, a pu produire une signature qui ressemblait à la sienne, avait un permis de conduire à son nom et connaissait son adresse et son numéro de téléphone.
+[11] Toutefois, ces éléments, associés aux éléments de preuve suivants, me conduisent à conclure que, selon la prépondérance des probabilités, c’est bien la contribuable qui s’est rendue chez Money Mart et chez H&R Block avec des T4 falsifiés afin d’y faire remplir ses déclarations de revenus :
+1. La contribuable a déménagé entre l’année 2008, au cours de laquelle sa déclaration pour 2007 a été produite, et l’année 2009, au cours de laquelle sa déclaration pour 2008 a été produite. La personne qui s’est rendue chez Money Mart et H&R Block connaissait ses deux adresses.
+2. Un chèque de remboursement de la TPS établi au nom de la contribuable a été encaissé auprès de Money Mart le même jour où le dossier de la contribuable relatif à sa déclaration pour 2007 a été ouvert. C’est le même employé de Money Mart qui s’est chargé des deux transactions ce jour‑là. Si c’est la contribuable qui a encaissé le chèque de TPS et un imposteur qui a présenté le feuillet de renseignements fiscaux pour 2007, il serait étonnant que l’employé de Money Mart n’ait pas constaté le problème. Si les deux transactions ont été effectuées par la même personne, et qu’il ne s’agissait pas de la contribuable, l’imposteur devait être quelqu’un qui avait facilement accès au courrier de la contribuable.
+3. La personne qui a présenté des feuillets T4 falsifiés à H&R Block pour 2008 a également présenté un feuillet de renseignements fiscaux valide, qui avait été délivré à la contribuable relativement à des paiements d’aide sociale du gouvernement provincial. La contribuable a confirmé avoir reçu des paiements d’aide sociale. Il semble étrange qu’un imposteur ait apporté le feuillet valide. Cela voudrait dire que l’imposteur avait toujours accès au courrier de la contribuable un an et un déménagement plus tard.
+[12] Même s’il est possible, et même plausible dans les circonstances, que la contribuable ait raison quand elle affirme ne pas être la personne qui a autorisé la production des déclarations en cause, à la lumière de l’ensemble de la preuve, je ne peux pas conclure qu’il s’agit de la version des faits la plus probable selon la prépondérance des probabilités.
+[13] Pour ces motifs, l’appel est rejeté.
+Signé à Vancouver (Colombie‑Britannique), ce 10e jour d’octobre 2012.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 20e jour de novembre 2012.
+Alya Kaddour, traductrice
+RÉFÉRENCE : 2012 CCI 353
+NO DU DOSSIER DE LA COUR : 2012-266(IT)I
+INTITULÉ : Suzanne Ashton c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE : Le 3 octobre 2012
+MOTIFS DU JUGEMENT : L’honorable juge Patrick Boyle
+DATE DU JUGEMENT : Le 10 octobre 2012
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle‑même
+Avocate de l’intimée :
+Me Amandeep K. Sandhu
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : s.o.
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous‑procureur général du Canada
+Ottawa, Canada

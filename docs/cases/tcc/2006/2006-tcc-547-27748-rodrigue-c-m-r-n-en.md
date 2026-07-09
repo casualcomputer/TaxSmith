@@ -1,0 +1,224 @@
+---
+title: "Rodrigue c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27748/index.do"
+last_modified: "2006-10-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 547"
+citation2: ""
+neutral_citation: "2006 TCC 547"
+decision_date: "2006-10-24"
+language: "en"
+item_id: "27748"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 301
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:39:08.213000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f896228654b2c2e06a5a09f4e8ff87636c75dd7e50d28c08344aee887207e1d8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Rodrigue c. M.R.N.
+
+- Citation: 2006 TCC 547
+- Decision date: 2006-10-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 301, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rodrigue c. M.R.N.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-10-24
+Neutral citation
+2006 TCC 547
+File numbers
+2005-4323(EI)
+Judges and Taxing Officers
+Sylvio J. Savoie
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2005-4323(EI)
+BETWEEN:
+VALÉRIE RODRIGUE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on August 24, 2006, at Québec, Quebec.
+Before: The Honourable Deputy Justice S.J. Savoie
+Appearances:
+Counsel for the Appellant:
+Jérôme Carrier
+Counsel for the Respondent:
+Stéphanie Côté
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the Minister’s decision is vacated in accordance with the attached Reasons for Judgment.
+Signed at Grand-Barachois, New Brunswick, this 24th day of October 2006.
+“S.J. Savoie”
+Savoie D. J.
+Translation certified true
+on this 8th day of June 2007.
+Gibson Boyd, Translator
+Citation: 2006TCC547
+Date: 20061024
+Docket: 2005-4323(EI)
+BETWEEN:
+VALÉRIE RODRIGUE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Savoie D. J.
+[1] This appeal was heard at Québec, Quebec, on August 24, 2006.
+[2] This is an appeal from a decision by the Minister of National Revenue (the “Minister”) dated August 16, 2005, according to which the Appellant held insurable employment during the period from March 16, 2003 to March 13, 2005 (the “period in issue”), while she was working for Jacomau Inc., the payor.
+[3] In rendering his decision that the Appellant’s employment was insurable, the Minister relied on the following assumptions of fact:
+[TRANSLATION]
+5.(a) the payor was incorporated on June, 7, 1995; (admitted)
+(b) the payor is specialized in manufacturing mouldings, door and window components and exterior coverings; (admitted)
+(c) the payor operates its business year round and has its peak period between March and October; (admitted)
+(d) the payor has clients in Quebec, Ontario and the United States; (admitted)
+(e) in 2004, the payor had a sales figure of $6,500,000, which was to reach $7,200,000 in 2005; (admitted)
+(f) the payor employs approximately 30 people, most of whom are day labourers or machine operators who work at the plant; (admitted)
+(g) Jean-Marc Rodrigue, the Appellant’s father, is the production manager; Gaétane Veilleux, the Appellant’s mother, is the operations manager; and the Appellant is the production and quality controller; (admitted)
+(h) the Appellant has been working full-time for the payor since June 2002; (admitted)
+(i) as controller, the Appellant was in charge of:
+planning, follow-up, output and changing of the production
+follow-up on deliveries,
+transport,
+wood inventory and purchasing,
+shipping and receiving of merchandise,
+quality control,
+the workplace health and safety committee; (admitted – to be completed)
+(j) the Appellant generally worked from 7:00 a.m. to 6:00 p.m., from Monday to Thursday, from 7:00 a.m. to 4:00 p.m. on Friday and from 8:00 a.m. to 12:00 p.m. or 1:00 p.m. on Saturday; (denied)
+(k) the Appellant’s work hours were not counted, but she regularly worked 50 to 60 hours per week; (denied)
+(l) the Appellant received compensation of $600 per week gross; (admitted)
+(m) the Appellant’s compensation was paid to her by direct deposit each week; (admitted)
+(n) the Appellant did not have a single week of vacation since starting work for the payor; (admitted)
+(o) in 2004, the Appellant received a bonus of $5,000 from the payor in thanks for her good work; (denied)
+(p) if the Appellant needed to travel for her work, she used her automobile and the payer reimbursed her $0.35 per kilometre travelled; (denied)
+(q) the Appellant worked almost exclusively at the payor’s place of business and under its supervision; (denied)
+(r) the Appellant received fixed compensation from the payor and did not incur any expenses in the course of her work; (denied)
+[4] The Appellant and the payor are related persons within the meaning of the Income Tax Act because:
+[TRANSLATION]
+6.(a) Jean-Marc Rodrigue was the sole shareholder of the payor; (admitted)
+(b) the Appellant is the daughter of Jean-Marc Rodrigue; (admitted)
+(c) the Appellant is related to a person who controls the payor. (admitted)
+[5] The Minister also determined that the Appellant and the payor were dealing with each other at arms length in the context of this work, since he was satisfied that it was reasonable to conclude that the Appellant and the payor would have entered into a substantially similar employment contract if they had been dealing with each other at arms length, having regard to the following circumstances:
+[TRANSLATION]
+7.(a) the Appellant received a fixed weekly compensation of $600 gross, which, considering her duties and responsibilities, was reasonable; (denied)
+(b) despite a variable work schedule, the Appellant worked between 50 and 60 hours per week; (denied)
+(c) the duties carried out by the Appellant were essential to the proper operation of the payor’s business; (admitted)
+(d) the Appellant, just like the payor’s other workers, was covered by the payor’s group insurance policy (salary, drug and life) to which she contributed at 50%; (admitted)
+(e) the Appellant chose not to take her parental leave; her spouse took it. (admitted)
+[6] The evidence revealed that the Appellant had started working at the payor’s business at the age of 12, evenings, after school and on weekends. She started working full-time in 2002, and between then and the end of the period in issue, her salary went from $14,104.00 to $35,473.00 annually.
+[7] The Appellant is the production and quality controller of the payor’s business. During the period in issue, she had the following duties:
+(1) planning, follow-up, output and changing of the production;
+(2) follow-up on deliveries;
+(3) transport;
+(4) wood inventory and purchasing;
+(5) shipping and receiving of merchandise;
+(6) quality control, and;
+(7) the workplace health and safety committee.
+[8] From the start of her full-time employment, the Appellant took responsibility for solving problems related to production. She implemented a management system, which, at the beginning, did not please everyone. She was able to demonstrate to her father that the business, due to certain shortcomings, was losing money. Since her father was not very interested in management, the Appellant talked with him and her mother and then, with the help of a consultant, she set up a system to solve the production problem, the P.V.A. (“Production en valeur ajoutée” or “production in value added”). As the system was computerized, the production problem was solved.
+[9] Since being a youngster, she had aspired to the management of the payor’s business. She learned English to be able to support the American clientele and develop it more, since her father does not speak English. Already in 2002, at 18 years of age, her father was showing her the inner workings of the plant. She is familiar with all components of the operations and she frequently replaces her father as foreperson, as she has already worked on the production line.
+[10] The Appellant managed to convince her father to purchase software that was custom-made for the business, which allowed her to reduce the time spent on her numerous tasks, so that she could better see to all of the operations. [TRANSLATION] “I took that initiative,” she said. “I had to do it because my father does not like to look after management.”
+[11] The Appellant works 50 to 60 hours per week, but she is also responsible for the emergencies that frequently come up outside of work hours and on weekends, and which require ten additional hours of work per week. She is the one who deals with customs problems and problems associated with the lumber conflict with the United States.
+[12] The Appellant stated that she invested her time for the future, confident that the business would be hers one day. [TRANSLATION] “Without that,” she said, “I would not work in such conditions and neither would a non-related stranger.” The Appellant added that her father would not do her work. The Appellant’s mother confirmed that it was intended that the Appellant would take over the business.
+[13] In her daily work at the plant, Mr. Rodrigue does not tell the Appellant what to do. She has every latitude to perform her duties as she wishes. In fact she is the one who tells her father what orders have to be filled. She does not answer to anyone.
+[14] In a letter dated April 27, 2005, addressed to the Appeals Division of the Canada Customs and Revenue Agency, Maude Boivin, consultant, Customer Service, Conseil Taxes Inc., Related Persons Division, wrote that the Appellant received a salary significantly below that of the employment market. According to her, the salary of another employee, not related to the family, doing the same work, would be at least $50,000. It should also be noted that the company pays its sales representative, Laurent Lessard, $80,000 per year, a fact that the Minister ignored in his assessment. In 2004, the payor paid the Appellant a bonus of $5,000 in thanks for her good work. It must be noted that she was the only employee to receive such treatment, except for Laurent Lessard, who received a bonus of more than $50,000.
+[15] The Appellant did not take any vacation since starting to work for the payor, i.e. since 2002, except for a few days. She hardly incurred any expenses in performing her duties. Occasionally she uses her own vehicle to visit clients, and the payor pays her 35 cents per kilometre in compensation. The payor supplied the Appellant with a cell phone, which allows her to communicate with clients and to be available to them, often after work hours, that is evenings and weekends. When she works from home, she uses a laptop and a fax machine, which are supplied by the payor.
+[16] It was determined that the Appellant gave birth to her first child on March 29, 2005. She stopped working at the payor’s office on March 13, 2005, but she worked instead from her residence between 20 and 30 hours per week without compensation. She took three or four days leave after giving birth and went back to work at the office on April 4, 2005, according to her regular schedule. However, during these days of leave, she worked for the company using her laptop, even on the day of the birth, when she worked for the company until 1 p.m. at the hospital.
+[17] The issue is not whether there was an employment contract between the Appellant and the payor. It must be admitted that the Appellant received an employment income that was determined and paid by the payor. The relationship of subordination was established, according to the evidence, even though the Appellant enjoys a certain independence because of her ability and her experience with the company. It remains that her father, Mr. Rodrigue, is the sole shareholder of the company. The issue rather is whether the Appellant’s employment is excluded from insurable employment, under the Employment Insurance Act (the “Act”), which stipulates the following:
+INSURABLE EMPLOYMENT
+5.(2) Insurable employment does not include
+. . .
+(i) employment if the employer and employee are not dealing with each other at arm’s length.
+5.(3) For the purposes of paragraph (2)(i),
+. . .
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm’s length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length.
+[16] The Minister submits that he properly exercised his discretion under subsection 5(3) of the Act and that the Appellant’s work conditions would have been substantially similar if the Appellant and the payor were dealing with each other at arms length.
+[17] In the present case, it was proven that the Appellant grew up in this business, started by her father a few years earlier. The Appellant took interest in the business as a youngster, then completed her vocational school diploma and learned English with the intention of taking over the business.
+[18] This Court must now examine all of the circumstances described in paragraph 5(3)(b) of the Act that came into the Minister’s analysis.
+COMPENSATION PAID
+[19] The Minister filed as Exhibit I-3 an extract from a document prepared and published by Human Resources and Skills Development Canada aimed at supporting the conclusion that the salary paid to the Appellant is comparable to that of the industry standard for workers in the category identified as “production clerk.”
+[20] Counsel for the Appellant expressed the opinion that the Appellant’s duties were far from comparable to those of a “clerk.” This Court considers that this opinion is well founded, since the evidence revealed that the Appellant’s duties resemble more closely those of a director or manager. Her title, moreover, is “production and quality controller.”
+[21] Furthermore, the Appellant proved her integral role in the business, the progress she accomplished, and the improved efficiency thanks to her initiative.
+[22] It was established that the Appellant invested time in the business in consideration of her future, when it is anticipated that she will rise to ownership of the business.
+[23] The work hours, the low salary paid, the level of responsibility she was given, her experience despite her young age and the skill she brought to the company’s problem files support her claim that a non-related stranger, with the same qualifications, would not enter into a substantially similar work contract, and not for the same salary.
+[24] It must be pointed out that Mr. Lessard, the company’s sales representative, earns an annual salary that, including his bonus, comes to $80,000. Yet the Minister, in his analysis, did not take this fact into consideration.
+CONDITIONS AND DURATION OF EMPLOYMENT
+[25] When the Appellant does work for the payor from her residence, the payor supplies her with a cell phone. She spends many hours per week taking care of urgent matters relating to lumber, customs and transport problems. She only took a few days leave for the birth of her child. On the day of the birth, she worked with her laptop at the hospital until 1 p.m.
+[26] She has worked full-time since 2002, having started to work part-time in 1986 at the age of 12. She manages the business with her parents because she has the expertise and experience to do it and she has the full confidence of her parents.
+[27] The balance of evidence has established that the business would not be where it is without the Appellant’s contribution.
+NATURE AND IMPORTANCE OF THE WORK
+[28] The payor operates a business that manufactures mouldings, door and window components and exterior coverings. Forty per cent of its clientele is in the United States. The Appellant holds a management position. She is the only one in the company who can communicate with this clientele in English. Since her childhood, she has learned all the inner workings of the business, including operations at the plant, where she has herself worked.
+[29] She has shown herself to be innovative and informed. She was able to adapt the business to the modern era and computerize it. Her contribution is such that she has become the directing mind of this business.
+[30] The question that must be asked is this: would a stranger have worked like the Appellant did for a salary well below the industry average, considering her schedule? Would this stranger have worked as many overtime hours without pay, without vacation and without days off? To not repeat all of the terms and conditions of the Appellant’s employment, it is appropriate to examine this determination by the Minister and whether it is reasonable to conclude that the Appellant and the payor would have entered into a substantially similar employment contract if they had been dealing with each other at arm’s length.
+[31] After closely examining all of the circumstances surrounding the Appellant’s employment, including the compensation paid, the terms and conditions as well as the duration, the nature and the importance or the work performed, this Court is of the opinion that the facts do not support this conclusion.
+[32] The Federal Court of Appeal has set out the principles of application to resolve the issue submitted to this Court in Légaré v. Canada (Minister of National Revenue – M.N.R.), [1999] F.C.J. No. 878, in which Marceau J. ruled in paragraph 4 as follows:
+The Act requires the Minister to make a determination based on his own conviction drawn from a review of the file. The wording used introduces a form of subjective element, and while this has been called a discretionary power of the Minister, this characterization should not obscure the fact that the exercise of this power must clearly be completely and exclusively based on an objective appreciation of known or inferred facts. And the Minister's determination is subject to review. In fact, the Act confers the power of review on the Tax Court of Canada on the basis of what is discovered in an inquiry carried out in the presence of all interested parties. The Court is not mandated to make the same kind of determination as the Minister and thus cannot purely and simply substitute its assessment for that of the Minister: that falls under the Minister's so-called discretionary power. However, the Court must verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so, it must decide whether the conclusion with which the Minister was "satisfied" still seems reasonable.
+[33] Based on the evidence gathered, this Court must conclude that the facts inferred or relied on by the Minister are not real and were not correctly assessed having regard to the context in which they occurred. The evidence filed at the hearing leads to the determination that the conclusion with which the Minister was “satisfied” no longer seams reasonable.
+[34] Accordingly, the appeal is allowed and the Minister’s decision is vacated.
+Signed at Grand-Barachois, New Brunswick, this 24th day of October 2006.
+“S.J. Savoie”
+Savoie D.J.
+Translation certified true
+on this 8th day of June 2007.
+Gibson Boyd, Translator
+CITATION:
+2006TCC547
+COURT FILE NO.:
+2005-4323(EI)
+STYLE OF CAUSE:
+Valérie Rodrigue and M.N.R.
+PLACE OF HEARING:
+Québec, Quebec
+DATE OF HEARING:
+August 24, 2006
+REASONS FOR JUDGMENT BY:
+The Honourable Deputy Justice S.J. Savoie,
+DATE OF JUDGMENT:
+October 24, 2006
+APPEARANCES:
+For the Appellant:
+Jérôme Carrier
+For the Respondent:
+Stéphanie Côté
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Jérôme Carrier
+Firm:
+Jérôme Carrier, avocat
+Lévis, Quebec
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

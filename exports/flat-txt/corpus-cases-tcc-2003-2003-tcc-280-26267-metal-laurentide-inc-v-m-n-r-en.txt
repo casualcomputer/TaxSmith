@@ -1,0 +1,178 @@
+Title: Metal Laurentide Inc. v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26267/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-280-26267-metal-laurentide-inc-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2003-05-02
+
+# Metal Laurentide Inc. v. M.N.R.
+
+- Citation: 2003 TCC 280
+- Decision date: 2003-05-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3998, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Metal Laurentide Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-05-02
+Neutral citation
+2003 TCC 280
+File numbers
+2002-3504(EI)
+Judges and Taxing Officers
+Jerome F. Somers
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2002-3504(EI)
+BETWEEN:
+MÉTAL LAURENTIDE INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on March 13, 2003 at Québec, Quebec.
+Before: The Honourable Deputy Justice J. F. Somers
+Appearances:
+Agent for the Appellant:
+Line Poirier
+Counsel for the Respondent:
+Nancy Dagenais
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the Minister’s decision is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 2nd day of May 2003.
+"J. F. Somers"
+D.J.T.C.C.
+Translation certified true
+on this 19th day of September 2005.
+Ingrid Miranda, Translator
+Citation: 2003TCC280
+Date: 20030502
+Docket: 2002-3504(EI)
+BETWEEN:
+MÉTAL LAURENTIDE INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Somers, D.J.T.C.C.
+[1] This appeal was heard at Québec, Quebec, on March 13, 2003.
+[2] The Appellant appeals from the decision of the Minister of National Revenue (the "Minister") dated June 7, 2002, that the employment of Mario Deblois, the Worker, held with the Appellant during the period at issue, from January 1, 2001 to April 3, 2002, was insurable because it met the requirements of a contract of service.
+[3] Subsection 5(1) of the Employment Insurance Act (the "Act") reads, in part as follows:
+Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+. . .
+[4] Subsections 5(2) and 5(3) of the Act read in part as follows:
+5(2) Insurable employment does not include
+. . .
+(i) employment if the employer and employee are not dealing with each other at arm's length.
+(3) For the purposes of paragraph (2)(i),
+(a) the question of whether persons are not dealing with each other at arm's length shall be determined in accordance with the Income Tax Act; and
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm's length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[5] More specifically, section 251 of the Income Tax Act reads as follows:
+251. Arm's length
+(1) For the purposes of this Act,
+(a) related persons shall be deemed not to deal with each other at arm's length;
+. . .
+(2) Definition of "related persons"
+For the purpose of this Act, "related persons", or persons related to each other, are
+(a) individuals connected by blood relationship, marriage or common-law partnership or adoption;
+(b) a corporation and
+(i) a person who controls the corporation, if it is controlled by one person,
+(ii) a person who is a member of a related group that controls the corporation, or
+(iii) any person related to a person described in subparagraph 251(2)(b)(i) or 251(2)(b)(ii) . . .
+[6] The burden of proof lies with the Appellant. The latter must establish, on the balance of evidence, that the Minister's decision is ill‑founded in fact and in law. Each case stands on its own merits.
+[7] In reaching her decision, the Minister relied on the following presumptions of fact that were either admitted or denied:
+[TRANSLATION]
+(a) The Appellant was incorporated on January 31, 1984, and operates a steel and aluminium structure manufacturing business. (Admitted subject to amplification)
+(b) As at December 31, 2000, the Appellant's common voting shares were distributed as follows:
+Raynald Deblois, the Worker’s father, held 67% of the shares.
+Noëlla Boutin-Deblois, the Worker’s mother, held 33% of the shares. (Admitted)
+(c) On an unspecified date during the period at issue, the Worker acquired, from his father, 17% of the common shares pertaining to the Appellant. (Denied)
+(d) The offices of the Appellant, which operates year-round, are open Monday to Friday, from 7 a.m. to 5 p.m. and has sales of almost $3 million per year. (Denied)
+(e) The Appellant employs some 15 employees in its manufacturing plant and six or seven employees at the job sites. (Admitted)
+(f) The Worker has worked for the Appellant since the age of 16; he left to establish his own business, but he came back to work with the Appellant in 1995. (Admitted)
+(g) Since his return, the Worker has been on the Board of Directors, together with his father and mother. (Denied)
+(h) The Worker acts as manager of the business: he prepares bids; he manages projects; he also hires and fires employees who work in the office, in the manufacturing plant and at the jobsites. The Worker also buys materials. (Admitted subject to amplification)
+(i) The Worker replaces his father and increasingly manages the day‑to‑day operations of the business. (Admitted subject to amplification)
+(j) The Worker was paid a fixed weekly salary, regardless of the number of hours he actually worked. (Admitted subject to amplification)
+(k) The Worker was paid by cheque every week and received annual performance bonuses. (Admitted subject to amplification)
+(l) The Worker used his own personal car in the course of his work and was granted a monthly allowance for transportation expenses in this respect. (Admitted subject to amplification)
+(m) Raynald Deblois claims that he played a decreasingly significant role in the administration of the business. He was paid $81,000 in 2001, while the Worker was paid $77,178 for the same period. (Denied)
+(n) In order to confirm his progressive “distancing” from the business, Raynald Deblois claims that he would travel to Florida and stay there approximately four or five months per year. He did so for approximately 18 years, that is, before the Worker was employed with the company. At that time, an outsider (at arm’s length) was in charge of the business whenever Raynald Deblois went to Florida. (Denied)
+(o) When he was in Florida, Raynald Deblois would contact the Worker two or three times a week. (Admitted subject to amplification)
+(p) The Appellant has a right to control the work of the Worker. (Admitted)
+[8] The Appellant was incorporated on January 31, 1984, and operates a steel and aluminium structure manufacturing business. As at December 31, 2000, Raynald Deblois, the Worker’s father, held 67% of the Appellant’s common voting shares and Noëlla Boutin‑Deblois, the Worker’s mother, held 33%.
+[9] On December 18, 2001, Raynald Deblois transferred 32 Class A shares to Mario Deblois, the Worker, as evidenced by a document entitled [TRANSLATION] "Métal Laurentide Inc. – Directors’ Resolutions", filed as Exhibit A‑2. On December 19, 2001, the same shares were transferred to Gestion Mario Deblois Inc. and, on the same day, the Appellant lent Gestion Mario Deblois Inc. the amount of $64,000, bearing interest at the prime rate of the National Bank of Canada, and payable on or before December 31, 2001.
+[10] According to a resolution of the Board of Directors dated June 30, 1992, the Appellant also lent Mario Deblois an amount of $14,000. (Exhibit A‑1).
+[11] Raynald Deblois stated that the Worker started his own company in 1988 but that the latter eventually went bankrupt. This business was the same type of business as that operated by the Appellant.
+[12] The Worker began working for the Appellant in 1995 in the capacity of managing director. His duties included: preparing bids, managing projects at job sites, hiring and firing personnel as well as buying materials. In a nutshell, he took care of every task because his father, Raynald Deblois, was slowly withdrawing from the administration of the business. Raynald Deblois stayed in Florida four to five months every year and during the remaining months, he worked about 20 to 25 hours a week. In 2001, Raynald Deblois received an annual salary of $81,800.
+[13] Raynald Deblois retained some control over major decisions concerning the Appellant, and the Worker had to consult with him in this respect. Raynald Deblois was authorized to be the sole signatory authority on the business’ cheques. In contrast, if the Worker signed the cheques, a second signature was required, including that of the "Comptroller".
+[14] The Appellant operated year‑round and its annual sales amount to approximately $3,000,000. The fifteen‑some employees who worked in the plant and the six or seven employees at the job sites worked from 7 a.m. to 5 p.m., Monday to Friday.
+[15] In 2001, the Worker was paid $77,178, including a bonus and an allowance for his personal car used for his work with the Appellant. The Worker rented the said car for $450 per month and the Appellant paid him approximately $750 as compensation for the rental and travel expenses.
+[16] The Worker did not have a set work schedule and worked between 60 to 70 hours a week. The Appellant's other employees worked 40 hours a week. According to the salary comparison (Exhibit A‑3), the employees were paid from $15.63 to $30.44 per hour, while the Worker was paid $19.76 per hour and was not compensated for overtime. By contrast, some employees were paid an hourly rate established by decree, according to their trade.
+[17] All employees, including the Worker, were covered by group insurance and had life insurance and a wage‑loss insurance plan paid for by the Appellant. The Appellant compensated the Worker for his use of his car for personal and work purposes, while all other employees were paid per kilometre whenever they had to use their own vehicles for business purposes.
+[18] During his testimony, the Worker stated that he signed a document entitled "Avenant à une convention d'indemnisation et de sûretés afin d'ajouter des garants personnels" [endorsement to an indemnity and securities agreement in order to add personal guarantors] on September 25, 2002, in favour of the Guarantee Company of North America (Exhibit A‑4). It should be noted that the Worker signed this document as president of Gestion Mario Deblois Inc. and that Comptroller Julie Slight witnessed it.
+[19] In his appeal report (Exhibit I‑1), Denis Hamel, Appeals Officer, stated that he contacted Mario Deblois and Raynald Deblois by telephone on May 30, 2002. According to Denis Hamel, the Worker told him, among other things, that he had not paid any money to acquire the shares in the company. He then added that he received dividends from the Appellant, and used them to pay for the shares he had obtained. He finally stated that the company accountant could best explain the subtleties of the transfer at issue.
+[20] Following the telephone conversation with the Worker, Denis Hamel wrote in his report the information he had gathered, including:
+[TRANSLATION]
+12- The company operates year-round. There are some slower months; however, it is never the same in construction. During the busiest periods of the year, the company may have up to 10 to 12 contracts at the same time. The company hires subcontractors to perform the installation work when there is too much work at the same time.
+22- He earns a fixed weekly salary, regardless of the number of hours worked. Currently, his gross salary is $1,250 per week. Last year, it was $1,150. He also gets annual performances bonuses. His father determines the amount of his salary and his bonus. He is paid by cheque, once a week.
+Note: In 1998, his total gross salary was $53,694; $71,769 in 1999; $74,326 in 2000 and $77,178 in 2001. In 2001, his father's salary was higher than his, at $81,800.
+27- Mario took holidays during the two summer construction vacation weeks, plus one extra week. He then took a two‑week vacation at Christmas, plus one extra week.
+[21] The same day, May 30, 2002, Denis Hamel contacted Raynald Deblois by telephone and obtained, inter alia, the following information, which he wrote in his report:
+[TRANSLATION]
+31- Regarding whether Mario paid money for his shares, he answered that their tax specialist could explain, because he worked out the details.
+34- He told us, however, that he began taking four‑ to five‑month holidays in Florida 18 years ago. In other words, he has been taking long winter vacations for 18 years.
+35- Before Mario took charge of the operations in 1995, there was a manager who worked in the company and who managed the company's operations during his winter vacations. However, he claims that, in spite of everything, he supervised his former manager more closely than he does Mario.
+37- He controls the company's finances. He oversees the performance of the company.
+46- Mario has not received any dividends since he obtained his shares.
+49- Mario usually receives a year‑end bonus, depending on the company's performance. Last year, he received $10,000. The secretary, an engineer and another employee were also given bonuses, but these bonuses were smaller than Mario's.
+[22] The information gathered from the Worker and from his father as mentioned above, was not contradicted by either of them.
+[23] We now must determine whether the employment held by the Worker was insurable pursuant to the Act. In order to properly distinguish the difference between a contract of service and a contract for services, we must scrutinize the various tests that constitute the relationship between the parties.
+[24] In Wiebe Door Services Ltd. v. M.N.R., [1986] 3 F.C. 553, the Federal Court of Appeal provides a list of four essential tests which may help us distinguish a contract of service from a contract for services: (a) the degree of control; (b) the ownership of tools; (c) the chance of profit and risks of loss; and (d) the integration of the employee's work into the employer's business.
+[25] Raynald Deblois, the father of the Worker, controls the destiny of the company. He is at the Appellant's place of business almost every day of the week and he works 30 hours a week. The Worker consults his father regarding every major decision. The Worker makes operational decisions on his own.
+[26] When Raynald Deblois spends four to five months in Florida, he calls the office two to three times a week. Moreover, Raynald Deblois has been spending several months per year in Florida for approximately 18 years.
+[27] Mario Deblois has only managed the day‑to‑day operations of the company since 1995. Before this date, when Raynald Deblois was in Florida, the manager, who was at arm’s length from the Appellant, ran the company and enjoyed some latitude in the decision-making process.
+[28] According to the evidence, Raynald Deblois, who is the majority shareholder, still holds authority to intervene in important decisions regarding the Appellant. The Appellant, an entity separate and distinct from its shareholders, had the right to exercise control over Mario Deblois’ work. Moreover, the Appellant, through Raynald Deblois, did control the Worker to some extent.
+[29] The evidence clearly reveals that the Appellant owned the tools. The Worker was paid a regular salary plus a bonus depending on the company’s performance; therefore, the Worker did not have chance of profit or risks of loss. The Worker is integrated into the company's operations, he is not self‑employed.
+[30] In his Reply to the Notice of Appeal, the Minister relied on paragraphs 5(2)(i) and 5(3)(b) of the Act.
+[31] The Court reviewed the case law submitted by the parties.
+[32] In Industries J.S.P. Inc. v. Canada (M.N.R.) [1999] T.C.J. No. 423, Tardif J. of this Court provides the following summary of the facts, which facts are similar to those of the case at bar:
+Marie‑Claude Perreault testified and gave a number of examples to describe and explain her interest, enthusiasm and fervour and that of her brothers with respect to the interests of the appellant company, which operates in the difficult and highly competitive field of furniture building.
+Sharing major strategic responsibilities in the company controlled by Jacques Perreault, who holds 1,000 voting but non-participating shares, Marie-Claude Perreault and her brothers left nothing to chance in ensuring the company's well-being and development.
+Each family member was paid more than a reasonable salary and, at year end, received a bonus that varied depending on the economic performance of the company and the quality of the work performed.
+Major decisions were made jointly and by consensus. The family members each devoted at least 60 hours [per week] to their respective duties for the company.
+The balance of evidence, therefore, was that the Perreault family members dedicated themselves totally and entirely to the company's business. They invested in it most of their available time (at least 60 hours [per week]) to ensure that the company could succeed in a difficult market where competition is stiff.
+The family members affected by the Minister's decision held important, essential positions and were paid salaries probably lower than those the company should have paid to third parties for performing similar duties. This fact alone led the agent for the appellant company to state and conclude that their employment was excluded from insurable employment under paragraph 3(2)(c) of the Unemployment Insurance Act ("the Act").
+. . .
+Contributing to and being a partner in the management, administration or development of a business, particularly a small business, means that a person's job description is strongly marked by responsibilities characteristic of those often fulfilled by actual business owners or persons holding more than 40 per cent of the voting shares in the company employing them. In other words, in assessing remuneration, at this level of responsibility, caution must be exercised when a comparison is made with the salaries of third parties; often there are advantages that offset the lower salaries.
+Tardif J. concluded that the employment held by the members of the same family, who are obviously not dealing at arm’s length, was not excluded from insurable employment.
+[33] In Massé et Plante Auto (1997) Ltée c. Canada (minister du Revenu national – M.R.N.), [2001] T.C.J. No. 796, Savoie J. upheld the Minister's decision that the employment held by the workers met the requirements of a contract of service in the following terms:
+[TRANSLATION]
+In 1997, Martin and Steve Pomerleau bought their uncle's shares in Massé et Plante Auto (1997) Ltée. Their father, Denis Pomerleau retained 67% of the Appellant's voting shares. He still holds the same percentage of shares in the corporation.
+Denis Pomerleau suffered from ill health and was about to retire. The evidence establishes that all the major decisions relating to the Appellant were made together by the three men, namely Denis Pomerleau and his two sons, Martin and Steve. Denis Pomerleau never transferred his majority ownership in order to comply with one of the conditions imposed by Subaru, Suzuki and Volkswagen, as well as the financing bank. Denis Pomerleau continues to sign all the necessary guarantees.
+The two sons enjoy wide latitude in managing the two companies and they regularly send their father the balance sheets of the businesses. Father and sons maintain a consulting relationship. Denis Pomerleau declared that his two sons would take over the businesses and their management, and would receive the majority of shares. However, it was admitted that, in case of serious financial problems or mismanagement, Denis Pomerleau would intervene personally to correct and rectify the situation in order to meet the requirements of the manufacturing corporations and the banking institutions.
+In the mind of majority shareholder Denis Pomerleau, he left the management of the business to both his sons. He never stepped in to impose his will against his sons' wishes. However, he admits that some circumstances could and should lead him to intervene.
+Moreover, the evidence shows that the employment held by the Workers was insurable, given all the circumstances, including compensation paid, working conditions, as well as the term, the nature and the importance of the work, it is clear that the Appellant would have entered into a similar contract of service with the Workers, even if the latter were at arm’s length from the Appellant during the period at issue. The determination of this point at issue rests on the interpretation, in this case, of the person or persons in a position of control or power within the business. The Minister's decision was made based on this test. Therefore, the Minister ruled that Denis Pomerleau retained de facto control over the business. As such, in the Minister's view, he may intervene at any time. The fact that he never exercised this power is of no importance. What is important here is that he still holds this power.
+[34] In the case at bar, Raynald Deblois controlled the business’ destiny: he was at the office 20 to 30 hours a week. Even when he was holidaying in Florida, he contacted the Worker two to three times a week. Whenever there was a major decision to be made, particularly relating to finances, Raynald Deblois was consulted. The Worker always consulted him, even with respect to technical or other decisions of lesser importance, because of his father’s experience. Even though Raynald Deblois delegated the company’s management to his son Mario, the Worker, he has not yet transferred control of its operations.
+[35] As to dealing at arm’s length, the Worker was paid a reasonable salary and his Christmas bonus varied depending on company sales. The Worker’s salary could not be compared to salaries of other employees, given the responsibilities as managing director of the company. The bonuses granted to other employees were smaller than that of the Worker. The Worker had use of a car and most of its rental and travel expenses were borne by the Appellant.
+[36] Whenever practicable, the Worker was able to take vacations whenever he wanted—a reasonable advantage, considering the responsibilities he held. The Worker was covered, as any other employee, by a group insurance plan; premiums were paid by the Appellant.
+[37] Therefore, it is reasonable to conclude, considering the circumstances of the case at bar, namely: the salary, the conditions of employment, as well as the term, the nature and the importance of the work, that the Appellant and the Worker would have entered into a similar contract for services even if the Worker had been at arm’s length from the Appellant.
+[38] The appeal is dismissed and the decision of the Minister is confirmed.
+Signed at Ottawa, Canada, this 2nd day of May 2003.
+"J. F. Somers"
+D.J.T.C.C.
+Translation certified true
+on this 19th day of September 2005.
+Ingrid Miranda, Translator

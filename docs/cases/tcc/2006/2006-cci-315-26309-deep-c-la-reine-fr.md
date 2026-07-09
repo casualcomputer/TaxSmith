@@ -1,0 +1,406 @@
+---
+title: "Deep c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26309/index.do"
+last_modified: "2006-06-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 315"
+citation2: ""
+neutral_citation: "2006 CCI 315"
+decision_date: "2006-06-05"
+language: "fr"
+item_id: "26309"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3321
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:34:16.061000+00:00"
+cases_cited_count: 3
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7be1d0ceb21f3f6edb0b2e8f3f15f6fdde1ed89aa9344f6d9f68667813c69779"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Deep c. La Reine
+
+- Citation: 2006 CCI 315
+- Decision date: 2006-06-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3321, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Deep c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-06-05
+Référence neutre
+2006 CCI 315
+Numéro de dossier
+2002-2009(IT)G
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-2009(IT)G
+ENTRE :
+ALBERT ROSS DEEP,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus les 24, 25, 26 et 27 avril 2006, à Toronto (Ontario).
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me H. Annette Evans
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1995, 1996, 1997 et 1998 sont accueillis et les affaires sont renvoyées au ministre du Revenu national pour nouvel examen et nouvelle cotisation sur la base restreinte énoncée à l’appendice A qui est joint aux présents motifs du jugement. L’intimée a droit aux dépens.
+Signé à Ottawa, Canada, ce 5e jour de juin 2006.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 4e jour de février 2008
+D. Laberge, LL.L.
+Référence : 2006CCI315
+Date : 20060605
+Dossier : 2002-2009(IT)G
+ENTRE :
+ALBERT ROSS DEEP,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Miller
+[1] Le docteur Albert Deep est cardiologue. Au cours des dernières décennies, une préoccupation continue liée à divers litiges a fortement nui à sa capacité d’exercer sa profession à plein temps. Une question importante en l’espèce se rapporte à la déductibilité d’un montant de plus d’un million de dollars qui a été déduit au titre d’intérêts au cours des années 1994 à 1997, la déduction découlant d’une longue contestation de nature juridique entre le docteur Deep et la Banque de Montréal (la « BMO »). Pour les périodes pertinentes, le docteur Deep cherche également à déduire des frais juridiques de 84 300 $ à l’égard desquels le ministre du Revenu national a admis un montant de 29 135 $, des frais relatifs à une automobile s’élevant à 32 017 $ à l’égard desquels le ministre a admis un montant de 1 801 $, et des frais de bureau de 313 794 $ à l’égard desquels le ministre a admis un montant de 43 457 $. Le ministre soutient également que le docteur Deep a déclaré en moins son revenu de 1997 d’un montant d’environ 200 000 $.
+[2] En même temps que l’appel dont la Cour canadienne de l’impôt est ici saisie, le docteur Deep a intenté une action en dommages‑intérêts contre l’Agence du revenu du Canada (l’« ARC ») devant la Cour supérieure de justice de l’Ontario. Cette affaire a été suspendue en attendant l’issue du présent appel. Le docteur Deep a également déposé un avis de question constitutionnelle[1] dans lequel il demande une réparation en vertu du paragraphe 24(1) de la Charte canadienne des droits et libertés (la « Charte »), laquelle est fondée sur des fouilles, des perquisitions et des saisies abusives, sur la violation de l’article 7 de la Charte, sur la violation de l’article 6 de la Charte et sur la violation des [traduction] « droits à l’égalité garantis à l’article 15 de la Charte ».
+[3] Je résume les questions en litige comme suit :
+(i) Les années d’imposition en question (1994 à 1997) sont‑elles frappées de prescription?
+(ii) Le docteur Deep a‑t‑il engagé des frais d’intérêt déductibles au cours des années en question?
+(iii) Le docteur Deep a‑t‑il engagé, au cours d’années antérieures, des frais d’intérêt déductibles qui créaient une perte autre qu’en capital susceptible d’être reportée aux années en question?
+(iv) Quels étaient les frais juridiques, les frais d’automobile et les frais de bureau déductibles au cours des années d’imposition 1994 à 1997?
+(v) Le docteur Deep a‑t‑il déclaré en moins son revenu en 1997 et dans l’affirmative de combien?
+(vi) Le docteur Deep a‑t‑il, sciemment ou dans des circonstances équivalant à faute lourde, fait de faux énoncés ou des omissions en déclarant son revenu imposable pour les années pertinentes, justifiant l’imposition de pénalités conformément au paragraphe 163(2) de la Loi?
+(vii) Les droits garantis au docteur Deep par la Charte ont‑ils été violés ou niés, de façon à justifier l’octroi d’une réparation conformément à l’article 24 de la Charte? Dans l’affirmative, quelle est la réparation qu’il convient d’accorder?
+Les faits
+[4] Le docteur Deep est un cardiologue qui exerce seul sa profession à Toronto. Son cabinet est situé avenue St. Clair Ouest, depuis de nombreuses années. Il n’emploie pas de personnel. Il s’occupe de tous ses rendez‑vous, de la tenue de livres et de registres et du dépôt des documents requis, notamment de ses déclarations de revenus. Il n’effectue pas de visites dans les hôpitaux. Un journal de Toronto a relaté que le docteur Deep avait été accusé de fraude en 1997. M. Ralbosky, vérificateur à l’ARC, a reconnu que c’était cet article qui avait déclenché la vérification. Il a communiqué avec le docteur Deep au mois de juillet 1998 et il a pris rendez‑vous avec celui‑ci dans son cabinet. Il a informé le docteur Deep qu’il était là à cause de l’article. M. Ralbosky et son chef d’équipe ont passé une matinée dans le cabinet du docteur Deep. M. Ralbosky a informé le docteur Deep qu’il s’agissait d’une affaire civile. Lors d’une réunion qui a eu lieu une semaine et demie plus tard, M. Ralbosky a demandé au docteur Deep de lui remettre les livres et registres, de façon qu’il puisse les rapporter au bureau de l’ARC afin de les examiner. Le docteur Deep a coopéré et a fourni les documents.
+Les faits se rapportant aux frais d’intérêt
+[5] À la fin des années 1970, le docteur Deep a organisé avec la BMO une ligne de crédit américaine d’environ 600 000 $. Il a emprunté des fonds sur cette ligne de crédit afin d’acquérir des obligations du gouvernement du Canada, des actions de Noranda, un contrat de rente à versements invariables, des obligations d’épargne du Canada et divers autres titres. À l’aide du produit de la vente d’une résidence, le docteur Deep a également acquis des dépôts à terme en marks allemands d’une valeur d’environ 84 000 $. À ce moment‑là, soit à la fin des années 1970 et au début des années 1980, il s’intéressait activement aux opérations sur actions. Il a cherché à acquérir des actions additionnelles de Noranda, mais la banque ne voulait pas libérer les dépôts à terme allemands en vue de lui permettre de mener cette opération à bonne fin. Sans entrer dans les détails, disons qu’il en a résulté de longues procédures judiciaires entre le docteur Deep et la Banque de Montréal, de 1980 à 1988. Au début des années 1980, la banque a imputé le produit de la vente d’obligations du docteur Deep (142 000 $), de dépôts en marks allemands (83 000 $) et d’actions de Noranda (143 000 $) à la dette du docteur Deep. En 1988, le juge Ewaschuk, de la Cour suprême de l’Ontario, a rendu contre le docteur Deep et en faveur de la BMO un jugement au montant de 249 442 $US au titre du principal, les intérêts avant jugement s’élevant à 277 883 $US, soit à environ 331 062 $CAN. L’appel interjeté par le docteur Deep à l’encontre de ce jugement a été rejeté par la Cour d’appel de l’Ontario au mois de février 1991.
+[6] Entre la fin de l’année 1991 et l’automne 1992, à la suite d’un certain nombre de saisies‑arrêts et d’autres saisies, la BMO a recouvré du docteur Deep un montant de 208 648 $ (96 226 $ en 1991 et 112 422 $ en 1992). D’autres créanciers ont obtenu environ 40 000 $ dans le cadre de ces procédures de recouvrement. Étant donné que le montant des demandes a augmenté entre la première saisie‑arrêt, en 1991, et la dernière saisie‑arrêt, en 1992, je conclus que tous les paiements se rapportaient aux intérêts dus aux créanciers.
+[7] Au mois d’avril 1993, la BMO a délivré une attestation de paiement[2], le docteur Deep ayant versé un montant de 545 000 $CAN en paiement du montant de 525 325 $US dû en vertu du jugement qui avait été rendu, ainsi que des intérêts après jugement et des dépens. Le docteur Deep estimait que les intérêts, au taux de 15 p. 100, entre la date du jugement et la date du paiement, s’élevaient à environ 224 498 $. Pour financer le paiement de 545 000 $ en faveur de la BMO, le docteur Deep a obtenu, auprès du Mutual Group, des hypothèques s’élevant à environ 350 000 $. Un état annuel du compte de prêt hypothécaire du Mutual Group indiquait que, en 1994, un montant de 26 542 $ avait été payé au titre des intérêts.
+[8] Le docteur Deep a calculé le montant total qu’il croyait avoir payé au titre des intérêts au fil des ans, un montant qui, maintient‑il, est déductible au cours des années 1994 à 1997. Son approche a changé entre le moment où il a produit ses déclarations pour les années en question et la date de l’instruction. Initialement, il demandait la déduction d’un montant de 1 021 145 $ au titre des frais d’intérêt, en se fondant sur un solde d’ouverture de 339 923 $ en 1994, auquel il a ajouté le paiement de 545 000 $ effectué en faveur de la BMO en 1993, un montant d’environ 56 000 $ versé à d’autres créanciers, un montant d’environ 29 706 $ pour le financement de second rang accordé par le Mutual Group et un montant de 48 480 $ pour ce qu’il a appelé un contrat social. Le docteur Deep a produit ses déclarations, dans lesquelles un montant de 1 021 145 $ en tout était déduit, en déduisant 265 179 $ au titre des frais d’intérêt en 1994, 235 000 $ en 1995A[3] et 332 960 $ en 1995B, ramenant à zéro le revenu imposable pour chaque année. Il a déduit le solde de 187 773 $ en 1996, de sorte qu’il restait un revenu imposable en 1996. Un montant de 211 $ seulement a été déduit en 1997.
+[9] À l’instruction, le docteur Deep a rajusté ses chiffres à la hausse en commençant par des intérêts de 331 062 $ découlant du jugement rendu en 1988 en faveur de la BMO, les intérêts des années 1988 à 1993, de 219 754 $, étant ajoutés. À ces montants, le docteur Deep a ensuite ajouté tous les montants saisis, en mains tierces ou autrement, en 1991 et en 1992, ainsi que la totalité du produit de la vente d’actions, d’obligations et de dépôts à terme en marks allemands, que la BMO avait pris dans les années 1970 et au début des années 1980. Selon ses estimations, le coût du financement de second rang s’élevait à 77 336 $. Son estimation révisée était de plus de 1,4 million de dollars au titre des intérêts, ce qu’il a appelé [traduction] « la totalité des intérêts admissibles à une déduction du revenu tiré d’une profession libérale pour les sept années à venir ». Cela, a‑t‑il dit, ne comprenait pas un montant de 238 066 $ qui, comme l’ARC le lui avait dit dans un avis de cotisation au mois de juin 1993, était une perte de placement nette cumulative. Le docteur Deep a reconnu qu’il ne savait pas ce à quoi cela se rapportait.
+[10] Avant que l’ARC ait établi, au mois de septembre 2000, la nouvelle cotisation concernant les déclarations des années 1994 à 1997, le docteur Deep avait écrit à M. Kenneth Shand, à l’ARC, le 22 juillet 2000; il disait ce qui suit[4] :
+[traduction]
+[...] Étant donné que j’avais présenté une demande reconventionnelle d’un montant élevé contre la BMO, aucun montant n’était dû à la BMO jusqu’à ce que la demande d’autorisation de pourvoi devant la Cour suprême du Canada soit rejetée, vers 1992 ou 1991. Le jugement a été rendu le 7 juin 1988 et l’affaire était devant la Cour d’appel en 1991. Le délai dans lequel les pertes autres qu’en capital (frais d’intérêt ou frais de service de la dette) pouvaient être déduites a commencé à courir à la date du jugement définitif, en 1991 ou en 1992; par conséquent, les demandes concernant les années 1994 à 1997 ont été faites dans le délai prescrit de sept ans.
+Le fait que j’ai traité ces montants à titre de déductions de frais d’intérêt pouvant être reportées à des années ultérieures à l’égard du revenu reçu plutôt qu’à titre de « pertes autres qu’en capital » est un détail technique (compte tenu de mon manque de connaissances dans ce domaine particulier) et ne devrait pas empêcher ces demandes de déduction des frais d’intérêt d’être admises au complet.
+[11] Le docteur Deep maintient qu’une représentante de l’ARC, Mme Sharma, a approuvé sa demande de déduction des frais d’intérêt au mois d’août 1993. Mme Sharma n’a pas été citée, étant donné qu’elle ne travaillait plus pour l’ARC, et le docteur Deep a fait savoir qu’il ne pouvait pas obtenir son adresse de l’ARC.
+Les faits se rapportant aux frais de bureau
+[12] Pour les années d’imposition 1994, 1995A, 1995B, 1996 et 1997, le docteur Deep a déposé un « état des résultats des activités d’une profession libérale » avec ses déclarations, indiquant comme service principal la profession de [traduction] « médecin – cardiologue ». Dans chacune de ses déclarations relatives aux années pertinentes, le docteur Deep a déduit les taxes professionnelles, les frais de licence, etc., ainsi que le loyer, déductions que le ministre a admises au complet. Le docteur Deep a également déduit des frais d’intérêt, des frais relatifs à un véhicule à moteur, des frais de bureau et des frais juridiques, lesquels sont tous visés par le présent litige entre le docteur Deep et le ministre. En ce qui concerne les frais de bureau, voici un sommaire de ce qui a été déduit et admis :
+*
+Montant déduit
+Montant réattribué aux frais d’automobile
+Déduction réelle
+Montant admis
+1994
+41 626 $
+9 381 $
+32 245 $
+12 168 $
+1995a
+75 518 $
+14 321 $
+61 197 $
+6 277 $
+1995b
+9 903 $
+9 903 $
+-------
+467 $
+1996
+104 016 $
+7 781 $
+96 235 $
+14 212 $
+1997
+82 731 $
+6 920 $
+75 811 $
+10 333 $
+* Ces montants ont été déduits au titre des frais de bureau, mais le docteur Deep reconnaît qu’il s’agissait à vrai dire de frais relatifs au véhicule à moteur.
+[13] Le docteur Deep a témoigné qu’en plus d’exercer sa profession de médecin, il se livrait à trois autres types d’activités commerciales au cours de la période pertinente. Premièrement, il a affirmé conclure un si grand nombre d’opérations boursières qu’il estimait faire activement le commerce de valeurs mobilières. À cet égard, il avait besoin de téléviseurs et d’une liaison satellite pour être sûr de pouvoir suivre de près l’évolution des marchés. Il a également témoigné que, pour les années en question, ses activités boursières étaient surtout exercées dans le cadre de son régime enregistré d’épargne‑retraite (le « REER »). Afin d’étayer ses activités boursières pour cette période, le docteur Deep a fourni plusieurs évaluations de portefeuille et plusieurs relevés de Nesbitt Burns. Ainsi, les relevés de l’année 1994 indiquaient des transactions pour environ 20 jours au cours de l’année, et pareilles activités étaient restreintes.
+[14] L’examen des déclarations de revenus du docteur Deep montre qu’aucun revenu d’entreprise tiré d’activités boursières n’a été déclaré. Le docteur Deep a soutenu que cela était inclus dans son état des résultats des activités d’une profession libérale, mais le seul revenu que je puis constater dans ces états se rapportait uniquement à sa profession de médecin. Un revenu était déclaré comme suit chaque année au titre des intérêts : 2 140 $ en 1994, 8 262 $ en 1995A et 4 431 $ en 1996; un revenu de 807 $ a été déclaré en 1997 au titre des dividendes.
+[15] Le docteur Deep a déclaré qu’il effectuait des études de marché à domicile et qu’après avoir acquis le chalet, à Port Carling, à la fin de l’année 1996, il effectuait également des recherches au chalet.
+[16] La deuxième activité liée à une entreprise dont le docteur Deep a fait mention se rapportait au fait qu’il s’occupait d’une façon continue de problèmes juridiques. Avant les années ici en cause, il y avait eu un long différend avec la BMO. Après les années ici en cause, il lui a fallu s’occuper d’une accusation portée au criminel au mois de décembre 1997, des questions fiscales ici en cause, d’une poursuite contre l’ARC et son vérificateur (laquelle est à l’heure actuelle en suspens), d’actions intentées contre l’OHIP et contre l’Ordre des médecins et chirurgiens ainsi que d’actions fondées sur une faute professionnelle que d’anciens patients avaient intentées et d’une demande reconventionnelle fondée sur la diffamation qu’il avait présentée. Toutefois, au cours des années 1994 à 1997, il semble y avoir eu un calme relatif sur le plan des litiges.
+[17] La troisième activité commerciale à laquelle le docteur Deep affirme s’être livré se rapportait à la location d’une propriété, en 1996 et en 1997. Le docteur Deep a témoigné avoir acquis une propriété, à Port Carling, à l’automne 1996, dans l’intention de la louer. Il m’a montré un certain nombre de photographies du chalet, situé au bord de l’eau, à Mirror Lake, près de Muskoka Lake. Sur la propriété, il semble y avoir un gros chalet principal de quatre chambres à coucher, un petit chalet dont le toit s’est effondré, deux remises et un atelier. Le docteur Deep a passé un grand nombre de fins de semaine au chalet à compter du moment où il l’a acquis vers 1997. Il a pris des mesures en vue de le louer en 2002 seulement, étant donné qu’il estimait que, jusqu’à ce moment‑là, le chalet n’était pas adéquatement meublé aux fins de la location. Il a décrit le chalet comme étant son lieu personnel de retraite professionnelle. Il estimait qu’en 1996 et en 1997, il avait dépensé un montant de 50 000 $ pour aménager le chalet : il avait notamment acheté de la literie, une tondeuse, des œuvres d’art, des meubles, de la vaisselle, une antenne parabolique, et ainsi de suite, montant qu’il a déduit au titre de frais de bureau ou de dépenses d’entreprise. Le docteur Deep avait un bureau au chalet, lequel, selon ce qu’il a dit, était satisfaisant pour voir à l’occasion des patients. Il a témoigné avoir vu quatre ou cinq patients entre le mois d’octobre 1996 et la fin de l’année 1997.
+[18] Le vérificateur a tenté de répartir, pour chaque année, les frais de bureau entre le bureau commercial, le bureau à domicile et le bureau situé au chalet. En 1994, sur le montant de 32 245 $ que le docteur Deep avait déduit au titre des frais de bureau, un montant de 18 096 $ n’était pas étayé de pièces, selon le vérificateur. Toutefois, le vérificateur a admis 25 p. 100 de ces dépenses comme se rapportant au bureau de l’entreprise. Le docteur Deep a contesté cette allocation, en affirmant que le vérificateur n’avait jamais examiné plus à fond ces dépenses puisqu’il ne lui avait pas demandé de renseignements additionnels à ce sujet. À l’instruction, le docteur Deep n’a pas produit de pièces justificatives.
+[19] Quant aux frais de bureau à domicile pour l’année 1994, à l’égard desquels le docteur avait déduit un montant de 28 843 $ en tout, le vérificateur a uniquement pu établir le bien‑fondé d’un montant de 8 254 $. Le vérificateur a ensuite admis une partie de ce montant en se fondant sur l’utilisation d’une aire de 12 pieds par 12 pieds pour l’entreposage nécessaire à l’entreprise, sur une superficie totale de 3 333 pieds carrés, de sorte que les frais de bureau à domicile s’élevaient à 356 $. Sur le montant de 8 254 $, le vérificateur a encore une fois admis 25 p. 100 seulement de la fraction non corroborée des dépenses de ménage du docteur Deep, qui s’élevaient à 16 149 $. De plus, le vérificateur n’a pas inclus dans les dépenses de ménage admissibles le coût d’une cuisinière, du toit, de gouttières, d’un aspirateur, d’une remorque pour bateau et d’un bateau. Le docteur Deep a témoigné que le bateau et la remorque pour bateau (1 487 $) constituaient un paiement qu’il avait effectué en faveur d’un homme de métier pour des travaux de menuiserie exécutés à la résidence.
+[20] Quant à l’année 1995A, le vérificateur a suivi une approche similaire en admettant 25 p. 100 des dépenses non corroborées énumérées par le docteur Deep comme étant liées à son bureau commercial, et en refusant certains éléments comme les paiements effectués en faveur de Holt. En ce qui concerne le bureau à domicile, le vérificateur a utilisé, en vue de l’imputer aux dépenses de ménage, le même pourcentage que pour l’année 1994, et il a également réduit les dépenses de ménage du docteur Deep en supprimant le coût de la vaisselle, un montant de plus de 20 000 $ pour l’ameublement provenant d’Art Shoppe, mais en incluant les frais de chauffage, d’électricité, la prime d’assurance‑habitation et les impôts fonciers.
+[21] Le vérificateur a encore une fois suivi une approche similaire pour les années 1996 et 1997, quoique pour ces années, le docteur Deep avait déduit un certain nombre de dépenses se rapportant à la propriété qu’il venait d’acquérir à Port Carling, par exemple un câble pour les heures de grande écoute (5 461 $) lui permettant de surveiller l’évolution du marché grâce à l’antenne parabolique, de la literie (3 375 $) et une souffleuse à neige (2 704 $). Pour chacune de ces années, le docteur Deep a également soumis des demandes de déduction représentant les trois quarts de ses frais d’épicerie chez Pusateri’s Grocery Store, à Toronto (8 474 $ en 1996 et 10 514 $ en 1997). Il a également déduit un montant de 7 730 $ pour chaque année en ce qui concerne le paiement du prêt d’étudiant de son fils au Canada : il a reconnu que la demande de déduction pour la seconde année avait été faite par erreur. Il a cherché à justifier les paiements du prêt d’étudiant en disant qu’il demandait conseil à son fils au sujet d’opérations boursières. En 1997, le vérificateur a refusé un montant de 3 345 $ versé au ministère des Finances de l’Ontario, lequel, selon les explications données par le docteur Deep, constituait pour ainsi dire une prime d’assurance de soins médicaux provinciale parrainée par les employeurs.
+Les faits se rapportant aux frais juridiques
+[22] Le docteur Deep a déduit les frais juridiques suivants : 500 $ en 1994, 550 $ en 1995A, 13 250 $ en 1996 et 70 000 $ en 1997. Le ministre a admis un montant de 500 $ en 1994, de 250 $ en 1995A, de 28 388 $ en 1997; il n’a rien admis pour l’année 1996. Le montant de 300 $ qui avait été refusé en 1995 se rapportait à une recherche de titre à l’égard d’une propriété située au bord d’un lac, à Bala, Muskoka. Le docteur Deep songeait à acquérir cette propriété, mais la vente n’a pas eu lieu et il a finalement acquis la propriété où était situé le chalet, à Port Carling. Le docteur Deep a témoigné avoir eu l’intention d’acquérir la propriété, à Bala, en tant que bien locatif.
+[23] Les frais juridiques de 13 250 $ qui ont été déduits et refusés en 1996 se rapportaient, pour à peu près la moitié, aux coûts d’acquisition de la propriété, à Port Carling, dont le docteur Deep a pris possession à l’automne 1996. Les dépenses comprenaient les honoraires juridiques versés à son fils James, de 4 430 $, ainsi que diverses recherches et divers débours, au montant de 2 000 $, se rapportant à la propriété. Il y a une déduction additionnelle de 6 375 $ non justifiée par des pièces que le docteur Deep n’a pas pu initialement associer à des déductions, mais qui, selon le témoignage qu’il a par la suite présenté, se rapportait à des honoraires juridiques versés à son fils James, quoiqu’il n’ait présenté aucun élément de preuve au sujet de la nature des conseils juridiques que celui‑ci lui avait donnés.
+[24] Quant à l’année 1997, le docteur Deep a produit sa déclaration en déduisant 70 000 $ au titre des frais juridiques, mais dans sa déclaration, il a indiqué [traduction] « avec provisions ». Ce montant se rapportait à une conversation que le docteur Deep avait eue avec un avocat, Me Penney, qu’il avait consulté à la fin de l’année 1997. Au mois de décembre 1997, le docteur Deep avait été accusé au criminel d’avoir commis contre l’OHIP une fraude d’environ 58 404 $, et il a demandé conseil à un avocat, qui l’a informé qu’il lui en coûterait environ 70 000 $ pour l’enquête préliminaire. Cet avis a été confirmé par une lettre, au mois de mai 1998. Le docteur Deep a décidé de s’occuper lui‑même de l’affaire. Il croyait pouvoir déduire les 70 000 $ en 1997 étant donné qu’il devrait inévitablement dépenser cet argent pour se défendre.
+[25] Le ministre a admis un montant de 28 385 $, représentant des demandes de déduction accompagnées de pièces concernant des avocats, les montants y afférents ayant de fait été payés en 1997.
+Les faits se rapportant aux frais d’automobile
+[26] Le docteur Deep avait l’habitude de se rendre chaque matin en voiture à son cabinet (situé à sept minutes de chez lui en voiture) et de retourner chez lui pour le déjeuner. Lorsqu’il était chez lui, il examinait les ECG pendant son heure de repas. Il retournait au cabinet pour y passer l’après‑midi. Il devait parfois se rendre à la banque ou chez son courtier.
+[27] Après avoir acquis la propriété, à Port Carling, à la fin de l’année 1996, le docteur Deep se rendait également presque toutes les fins de semaine au chalet. Il effectuait fréquemment des voyages à Ottawa pour visiter sa famille. Il donnait parfois des conseils médicaux à son ex‑épouse, qui vivait à Ottawa.
+[28] Le docteur Deep a relaté qu’en 1987 et par la suite, l’ARC lui avait toujours accordé 80 p. 100 de ses frais relatifs à l’automobile, ce sur quoi il s’était fondé pour les déductions relatives à la voiture effectuées au cours des années subséquentes.
+[29] Le docteur Deep a déduit certains frais élevés relatifs à l’automobile au titre de frais de bureau. Le vérificateur de l’ARC a réaffecté ces frais au titre des frais d’automobile. En se fondant sur la distance totale parcourue par le docteur Deep sur une période de sept ans, selon la distance indiquée par le docteur Deep, le vérificateur a estimé qu’environ 53 000 kilomètres en moyenne étaient effectués chaque année, ce à quoi le docteur Deep ne s’est pas opposé. Le vérificateur a ensuite calculé le nombre de kilomètres parcourus à des fins commerciales, compte tenu des déplacements que le docteur Deep effectuait pour aller à la banque, pour s’occuper de ses placements et pour comparaître en justice. Cela représentait environ 1 500 kilomètres sur les 53 000 kilomètres annuels. Le vérificateur a ensuite utilisé le pourcentage obtenu et l’a imputé à l’ensemble des frais relatifs à l’automobile, de 14 753 $ en 1994, de 18 816 $ en 1995A, de 9 020 $ en 1995B, de 14 064 $ en 1996 et de 18 016 $ en 1997, ce qui donnait de 300 à 400 $ chaque année au titre des frais d’automobile déductibles pouvant être admis.
+Les faits se rapportant au revenu déclaré en moins en 1997
+[30] Dans sa déclaration de revenus de 1997, le docteur Deep a déclaré un revenu de 219 600 $ au titre d’honoraires professionnels. Il est arrivé à ce chiffre en comptabilisant son revenu brut tiré d’une profession libérale de 412 813 $, mais il a ensuite déduit trois montants de ce total. Premièrement, à cause des allégations que la police de Toronto avait faites à la fin de l’année 1997, selon lesquelles il avait commis une fraude de 58 404 $ à l’encontre de l’OHIP, le docteur Deep a déduit ce montant en se fondant sur le fait que cet argent lui serait éventuellement enlevé. Deuxièmement, l’OHIP avait comme politique d’imposer un plafond à l’égard des honoraires des médecins et de ne verser qu’un pourcentage donné au titre des honoraires en sus du montant de 400 000 $; ainsi, sur tout montant facturé en sus d’un montant annuel de 450 000 $, 25 p. 100 seulement étaient versés à un médecin. Le docteur Deep estimait que les 75 p. 100 non versés par l’OHIP (55 547 $) constituaient pour ainsi dire un contrat social entre le médecin et la province. Le docteur Deep croyait que même si ce montant n’était jamais versé et même s’il n’était jamais inclus dans le revenu, il s’agissait pour ainsi dire d’un don à la Couronne et que le montant était donc déductible.
+[31] Troisièmement, à cause des accusations portées par la police à la fin de l’année 1997, l’OHIP a suspendu les paiements en faveur du docteur Deep pour les mois de décembre 1997 ainsi que pour les mois de janvier à mars 1998, le montant en cause s’élevant à 105 648 $. Puisqu’il pensait ne jamais recouvrer ce montant, le docteur Deep croyait pouvoir le déduire des honoraires professionnels qu’il avait réellement reçus en 1997. Il voulait déduire la totalité de ces trois montants (219 600 $) de ses honoraires, de sorte qu’il resterait un montant de 193 213 $ au titre du revenu, mais il a accidentellement inversé les chiffres et il a inclus un revenu de 219 000 $. Il croit avoir déclaré en trop son revenu de 1997.
+L’analyse
+(i) Les années d’imposition 1994 à 1997 sont-elles frappées de prescription?
+[32] Le sous-alinéa 152(4)a)(i) de la Loi est rédigé comme suit :
+152(4) Sous réserve du paragraphe (5), le ministre peut, à un moment donné, fixer l’impôt pour une année d’imposition, ainsi que les intérêts ou pénalités payables en vertu de la présente partie par un contribuable, ou donner avis par écrit, à toute personnel qui a produit une déclaration de revenu pour une année d’imposition, qu’aucun impôt n’est payable pour l’année, et peut, selon les circonstances, établir des nouvelles cotisations, des cotisations supplémentaires ou des cotisations concernant l’impôt, les intérêts ou les pénalités en vertu de la présente partie :
+a) à un moment donné, si le contribuable ou la personne produisant la déclaration :
+(i) soit a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement sous le régime de la présente loi,
+[...]
+[33] Toutes les années en question étaient en dehors de la période normale de nouvelle cotisation sauf l’année d’imposition 1997. Il s’agit de savoir si, pour ces années, le docteur Deep a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou s’il a commis quelque fraude.
+[34] Je conclus que le docteur Deep a fait un grand nombre de présentations erronées des faits dans ses déclarations : il a déduit des frais d’intérêt comme s’il en avait payé au cours des années en question; il a déduit la totalité des frais relatifs à l’automobile comme se rattachant à des fins commerciales et il a déduit des dépenses personnelles (comme des frais d’épicerie, des articles ménagers, des vêtements, un prêt d’étudiant) au titre de dépenses d’entreprise.
+[35] Ces présentations erronées ont‑elles été faites par négligence, inattention ou omission volontaire? Dans la décision Venne v. The Queen[5], le juge Strayer a énoncé la norme qui s’applique à cette question :
+[...] Cette négligence est établie s’il est démontré que le contribuable n’a pas fait preuve de diligence raisonnable. C’est sûrement là le sens des termes « présentation erronée des faits, par négligence », en particulier avec d’autres motifs comme l’inattention ou l’omission volontaire qui font référence à un degré de négligence plus élevé ou à une mauvaise conduite délibérée. Sauf si ces termes étaient superflus dans cet article, hypothèse que je ne puis accepter, le terme « négligence » impose un critère moins strict de faute, semblable à celui qui est utilisé dans les autres domaines du droit, comme la responsabilité délictuelle[6].
+Il ne m’est pas difficile de conclure que le docteur Deep n’a pas fait preuve de diligence raisonnable. Premièrement, en ce qui concerne les déductions qu’il a faites au titre des frais d’intérêt, il savait qu’il n’avait pas effectué de telles dépenses au cours des années en question, et il a reconnu qu’il avait peut‑être inscrit ces dépenses à la mauvaise ligne dans ses déclarations de revenus. Il savait ce qu’étaient des pertes autres qu’en capital, et il voulait déduire des frais d’intérêt à titre de pertes autres qu’en capital. Je reviendrai ci‑dessous sur ce point. En faisant un effort minimum, le docteur Deep aurait facilement pu se rendre compte que ce qui, selon lui, représentait des frais d’intérêt de plus d’un million de dollars ne pouvait pas être déduit en tant que tel au cours des années où ces dépenses n’avaient pas été effectuées. Il ne s’agit pas simplement de quelques centaines de dollars – il s’agit d’un gros montant. Étant donné que, comme il l’admet, il n’avait pas d’expertise dans ce domaine, il s’est montré au mieux inattentif en ne cherchant pas à obtenir des conseils. Le docteur Deep affirme avoir fait preuve d’une diligence raisonnable en se fondant sur les conseils d’un agent de l’ARC. Cet agent n’a pas témoigné, et le docteur Deep n’a pas fourni de preuve écrite que de tels conseils lui avaient été donnés. Le docteur Deep n’a pas établi qu’il avait fait preuve d’une diligence raisonnable en faisant cette présentation erronée des faits.
+[36] Quant aux frais relatifs à l’automobile, le docteur Deep se fonde encore une fois sur des communications passées avec l’ARC en vue d’établir qu’il a fait preuve d’une diligence raisonnable en produisant ses déclarations, compte tenu du fait que tous les frais relatifs à l’automobile se rapportaient à son travail. Le docteur Deep déclare que, par le passé, les agents de l’ARC avaient admis 80 p. 100 des frais relatifs à l’automobile. Je n’avais pas devant moi ces agents ni leurs rapports. Je ne dispose d’aucun détail au sujet des activités du docteur Deep au cours de ces autres années. Je sais que pendant les années en question, il se rendait à son cabinet et en revenait deux fois par jour, qu’il allait chaque année à plusieurs reprises voir sa famille à Ottawa et qu’à la fin de l’année 1996 et en 1997, il allait à son chalet qui, à ses dires, a été acquis à des fins locatives. En se fondant sur ces déplacements, il a conclu que tous les frais relatifs à l’automobile se rapportaient à une entreprise et il les a donc déduits. Il n’a pas établi qu’il avait demandé conseil, ou qu’il avait examiné la Loi de l’impôt sur le revenu ou le droit applicable en ce qui concerne les frais relatifs à l’automobile. Il croyait que parce que, par le passé, il avait obtenu une déduction généreuse pour de tels frais, il avait le droit de les déduire pour les années en question. Ce n’est pas ainsi que se comporte un contribuable qui agit avec une diligence raisonnable.
+[37] Il est possible de dire la même chose en ce qui concerne l’approche adoptée par le docteur Deep à l’égard des frais de bureau. Le docteur Deep défend sa demande de déduction de certaines dépenses personnelles se rattachant à sa résidence (par exemple, une cuisinière) en se fondant sur le fait que, par le passé, on avait toujours admis les 2/9 ou les 3/9 des dépenses associées à la résidence. Cependant, il n’a pas tenu compte du fait qu’il doit exister un lien entre de telles dépenses et les activités commerciales. Le docteur Deep maintient qu’un grand nombre des déductions concernant les frais de bureau à domicile au cours des années en question sont frappées de prescription, mais il n’existe aucun lien de ce genre entre ces dépenses et les activités commerciales : il s’agit de dépenses entièrement personnelles. Je conclus que le docteur Deep n’a pas fait preuve d’une diligence raisonnable en effectuant ces déductions.
+[38] Je conclus que, dans ces conditions, le ministre pouvait à bon droit établir de nouvelles cotisations à l’égard du docteur Deep après l’expiration de la période normale de nouvelle cotisation.
+(ii) Le docteur Deep a‑t‑il engagé des frais d’intérêt déductibles au cours des années en question?
+[39] Le seul montant établi au titre des frais d’intérêt engagés au cours des années d’imposition 1994 à 1997 inclusivement était le montant de 26 542 $ qui a été versé au Mutual Group en 1994, comme le montre l’état du compte de prêt hypothécaire annuel du Mutual Group. Le montant de 77 336 $ que le docteur Deep a calculé au titre des intérêts versés au Mutual Group n’est pas justifiable. Il s’agit de savoir si les intérêts payés sur cet emprunt, qui a été contracté en vue de verser à la BMO, en 1993, un montant de 545 000 $, dans le cadre de la transaction, est déductible. L’intimée soutient qu’il n’existe aucune source de revenu à laquelle les intérêts se rapportent. Je partage son avis.
+[40] L’alinéa 20(1)c) de la Loi est rédigé comme suit :
+20(1) Malgré les alinéas 18(1)a), b) et h), sont déductibles dans le calcul du revenu tiré par un contribuable d’une entreprise ou d’un bien pour une année d’imposition celles des sommes suivantes qui se rapportent entièrement à cette source de revenus ou la partie des sommes suivantes qu’il est raisonnable de considérer comme s’y rapportant :
+[...]
+c) la moins élevée d’une somme payée au cours de l’année ou payable pour l’année (suivant la méthode habituellement utilisée par le contribuable dans le calcul de son revenu) et d’une somme raisonnable à cet égard, en exécution d’une obligation légale de verser des intérêts sur :
+(i) de l’argent emprunté et utilisé en vue de tirer un revenu d’une entreprise ou d’un bien (autre que l’argent emprunté et utilisé pour acquérir un bien dont le revenu serait exonéré ou pour contracter une police d’assurance‑vie).
+[41] Dans l’arrêt Moufarrège c. Québec[7], la Cour suprême du Canada a dit ce qui suit :
+3 L’arrêt Bronfman Trust c. La Reine, [1987] 1 R.C.S. 32, établit que c’est l’utilisation actuelle plutôt que primitive qui est retenue pour déterminer si les intérêts sont déductibles (voir, au même effet : Tennant c. M.R.N., [1996] 1 R.C.S. 305; Shell Canada Ltd. c. Canada, [1999] 3 R.C.S. 622; Entreprises Ludco Ltée c. Canada, [2001] 2 R.C.S. 1082, 2001 CSC 62).
+4 L’arrêt Stewart c. Canada, [2002] 2 R.C.S. 645, 2002 CSC 46, n’a pas modifié le principe voulant que, lorsque disparaît l’expectative raisonnable de gagner un revenu, disparaît aussi le droit à la déduction. Dans cet arrêt, la Cour précise d’ailleurs que « la déductibilité des dépenses présuppose l’existence d’une source de revenu » (par. 57).
+5 Ici, une fois les immeubles vendus, la source de revenu n’existait plus et l’emprunt, selon les art. 128 et 160, n’était plus utilisé pour gagner un revenu provenant d’un bien. Pour ce qui est des actions, la compagnie en question a fait faillite et le dossier ne laisse voir aucune possibilité de reprise des activités. Par conséquent, dans ce cas‑là également, la source de revenu a disparu, même si la compagnie n’est pas dissoute.
+[42] Bien des années avant l’année 1994, le docteur Deep avait disposé des biens (des titres) pour lesquels il avait contracté l’emprunt initial auprès de la BMO. Le docteur Deep a maintenu qu’il était si actif sur le marché que cela constituait une entreprise, par opposition à un simple revenu tiré d’un bien, mais la preuve ne montre pas qu’il exploitait une telle entreprise entre les années 1994 et 1997. En 1994, il n’y avait aucune source de revenu, qu’il s’agisse d’un revenu tiré d’une entreprise ou d’un revenu tiré d’un bien, à laquelle les frais d’intérêt se rapportaient. Le montant versé au Mutual Group en 1994 n’est pas déductible.
+(iii) Le docteur Deep a‑t‑il engagé, au cours d’années antérieures, des frais d’intérêt déductibles qui créaient une perte autre qu’en capital susceptible d’être reportée aux années en question?
+[43] Le Docteur Deep a sans aucun doute dépensé énormément d’argent au fil des ans lorsqu’il traitait avec la BMO : volontairement (545 000 $ en 1994) et involontairement (saisie‑arrêt ou autres saisies, etc., 249 000 $). S’il avait obtenu des conseils comptables et fiscaux professionnels, une fraction déductible de ces montants aurait pu être établie et attribuée à une année d’imposition appropriée au cours de laquelle il faisait peut‑être le commerce de valeurs mobilières. La chose aurait peut‑être entraîné des pertes pour les années en cause, lesquelles auraient pu être reportées d’une façon prospective aux années en question. Le docteur Deep veut maintenant que je démêle tout cela à sa place, compte tenu du fait qu’il a inscrit les chiffres à la mauvaise ligne dans son formulaire de déclaration de revenus, mais qu’il suivait d’une façon générale les conseils de l’ARC.
+[44] Je ne suis pas prêt à reconnaître que le docteur Deep suivait les conseils de l’ARC. En l’absence du témoignage de Mme Sharma, pour quelque raison que ce soit, et en l’absence d’une preuve corroborante écrite, je ne puis conclure que Mme Sharma a informé le docteur Deep que ses chiffres étaient exacts, que les intérêts étaient déductibles et qu’il pouvait effectuer les déductions qu’il a faites.
+[45] Le docteur Deep ne m’a présenté aucune preuve de son revenu pour les années antérieures à l’année 1993. Même s’il existait des éléments de preuve indiquant une source de revenu à laquelle ses emprunts se rapportaient, je ne connais tout simplement pas les montants déduits au titre des intérêts pour les années antérieures à l’année 1993, ni le montant du revenu duquel ces montants ont été déduits, de façon à pouvoir déterminer quelles pouvaient être les pertes d’entreprise qui auraient pu être reportées sur des années ultérieures.
+[46] Je sais que le docteur Deep a versé 545 000 $ à la BMO au cours de l’année civile 1993. Je conclus également que le docteur Deep n’a déduit aucune fraction du montant de 545 000 $ avant de produire sa déclaration de 1994, laquelle incluait son revenu de profession libérale pour la période allant du 23 janvier 1993 au 22 janvier 1994. Même si je concluais que la totalité du montant de 545 000 $ représentait les intérêts versés à la BMO, le docteur Deep fait encore face à un obstacle, en ce qui concerne la déductibilité de ce montant, étant donné que la source de revenu a depuis longtemps cessé d’exister. Le docteur Deep ne possédait plus les biens auxquels se rapportait le prêt de la BMO, et il n’existait pas non plus suffisamment d’éléments de preuve donnant à entendre que, en 1993, il faisait le commerce de valeurs mobilières. Quant aux années 1994 à 1997, le docteur Deep a témoigné que ses activités boursières étaient effectuées dans le cadre de son REER. Rien n’indiquait que des biens de remplacement avaient été acquis. Selon la preuve, le produit de la disposition du bien initialement acquis a servi au remboursement partiel de la dette envers la BMO plutôt qu’à l’acquisition de biens de remplacement.
+[47] À l’instruction, le docteur Deep a consacré énormément de temps à expliquer la façon selon laquelle il avait calculé les intérêts payés au fil des ans. Étant donné les conclusions que j’ai tirées, il est inutile d’examiner ces calculs.
+[48] En résumé, le docteur Deep n’a pas établi que, de 1994 à 1997, il existait une source de revenu à l’égard de laquelle des frais d’intérêt étaient engagés. En outre, il n’a pas prouvé que quelque partie du montant de 545 000 $ versé en 1993, ou les montants payés au titre des intérêts au cours des sept années précédentes, étaient déductibles, et ce, pour la même raison. Même s’il avait établi que les intérêts des années antérieures étaient déductibles, il n’a fourni aucun élément de preuve au sujet de la détermination des pertes autres qu’en capital qui auraient pu découler de telles déductions pour ces années antérieures.
+(iv) Quels étaient les frais juridiques, les frais d’automobile et les frais de bureau déductibles au cours des années d’imposition 1994 à 1997?
+[49] J’examinerai d’abord les frais de bureau. Trois catégories de frais de bureau sont en litige : les frais engagés à l’égard du cabinet commercial du docteur Deep; les frais engagés à l’égard du bureau à domicile, à Toronto; les frais engagés à l’égard du bureau situé au chalet.
+[50] En ce qui concerne les frais déduits pour le chalet, à Port Carling, le docteur Deep a adopté deux approches : en premier lieu, il exerçait sa profession de médecin et il exploitait son entreprise de commerce d’actions depuis son chalet; en second lieu, il a acquis cette propriété à titre de bien locatif.
+[51] En ce qui concerne l’exploitation d’une entreprise au chalet, à Port Carling, je conclus qu’en 1996 et en 1997, le docteur Deep ne faisait pas le commerce de valeurs mobilières ou d’instruments financiers. Le docteur Deep n’a fourni aucune preuve indiquant que de nombreuses opérations avaient été conclues au cours de ces années, et ses déclarations de revenus n’indiquent pas non plus un niveau d’activité montrant qu’il faisait le commerce de valeurs mobilières. Le docteur Deep a lui‑même témoigné s’être livré à ses activités boursières dans le cadre de son REER. Ce n’est pas là exploiter une entreprise.
+[52] Quant à l’exercice de sa profession de médecin, je reconnais que le docteur Deep a peut‑être vu quelques patients et qu’il faisait parfois des lectures professionnelles ou qu’il examinait parfois des fiches médicales. Cette activité restreinte est suffisante pour justifier une allocation restreinte au titre des frais de bureau à domicile. Je ne sais pas quelle était la superficie du chalet, mais je suis convaincu que la propriété était principalement utilisée en tant que chalet, comme lieu de retraite, c’est‑à‑dire à des fins personnelles. Toute utilisation commerciale accessoire n’était ni plus ni moins qu’une utilisation accessoire. Compte tenu de la preuve présentée par le docteur Deep au sujet du temps passé au chalet pendant les fins de semaine, j’estime, d’une façon approximative, que le chalet était utilisé à des fins commerciales dans une proportion d’environ 5 p. 100. Par conséquent, les frais de services publics, les impôts fonciers, la prime d’assurance‑habitation et les autres frais similaires sont admis dans une proportion de 5 p. 100. Pourtant, en examinant les frais que le docteur Deep a déduits en 1996 en tant que frais se rattachant au chalet, je ne peux rien constater qui se rapporte à de tels frais : la plupart des frais avaient été engagés pour acheter de la literie, des meubles, des œuvres d’art, une antenne parabolique, de la vaisselle et ainsi de suite. Il ne s’agit pas du genre de dépenses dont un pourcentage peut être attribué à l’exercice de la profession de médecin.
+[53] En ce qui concerne l’année 1997, la seule dépense à l’égard de laquelle je puis allouer les 5 p. 100 est celle qui se rattache aux impôts fonciers, de 3 691 $. J’accorde donc un montant de 184 $.
+[54] Quant à l’allégation du docteur Deep selon laquelle il voulait acheter le chalet, à Port Carling, en tant que bien locatif, cette allégation n’est tout simplement pas corroborée par ses actions ou par ses dires. Ainsi, le docteur Deep affirme ne pas avoir cherché à louer la propriété jusqu’en 2002, étant donné qu’il devait l’aménager en vue de la louer. Pourtant, en 1996 et en 1997, soit plusieurs années avant l’année 2002, il a déduit plus de 50 000 $ pour l’ameublement, ce qui selon moi est un montant élevé pour un chalet. Rien ne donne à entendre que ces achats étaient faits aux fins de la location du chalet. Le docteur Deep utilisait le chalet comme lieu de retraite personnelle. Il n’avait pas de plan d’entreprise. Je conclus qu’en 1996 et en 1997, le docteur Deep ne cherchait pas à faire de cette propriété autre chose que ce qu’elle était – un chalet utilisé à des fins personnelles.
+[55] Quant aux frais associés à son cabinet commercial, le docteur Deep a soutenu que les montants admis par le ministre ne correspondaient pas aux normes de la profession de médecin. Pourtant, en faisant cette assertion, il n’a pas tenu compte du fait que le ministre avait admis tous les frais de location. De plus, le docteur Deep n’a pas donné de détails au sujet de ce qui était inclus dans les dépenses moyennes d’un médecin; ainsi, il n’a pas dit si les frais rattachés aux services d’une réceptionniste et d’une infirmière étaient normalement inclus. Somme toute, l’analyse comparative effectuée par le docteur Deep ne me fait pas du tout changer d’avis.
+[56] Le docteur Deep s’est également opposé à ce que le vérificateur limite à 25 p. 100 du montant demandé les frais associés à son cabinet commercial qui n’étaient pas associés aux déductions ou accompagnés de pièces justificatives. Le docteur Deep ne m’a pas donné d’explications au sujet de la nature des dépenses non associées aux déductions ou non étayées de pièces justificatives. Le vérificateur a admis ces 25 p. 100 en se fondant sur un pourcentage approximatif équivalent alloué pour les dépenses accompagnées de pièces justificatives. Le docteur Deep n’a pas réussi à me convaincre que le chiffre de 25 p. 100 doit être modifié.
+[57] Toutefois, le ministre a refusé certains frais de bureau qui, j’en suis convaincu, se rattachaient à l’entreprise du docteur Deep. Il y a, en 1996, un montant de 3 088 $ que le docteur Deep a décrit comme une prime d’assurance médicale de responsabilité civile et, en 1997, un montant de 3 045 $, que le docteur Deep a décrit comme un paiement effectué au ministre des Finances de l’Ontario au titre de l’assurance de soins médicaux parrainée par les employeurs.
+[58] En ce qui concerne les frais de bureau à domicile, le docteur Deep conteste le fait qu’il utiliserait une superficie de 144 pieds carrés (soit une aire de 12 pieds par 12 pieds que le ministre a allouée aux fins d’entreposage de l’entreprise) par rapport à une superficie totale de 3 333 pieds carrés. Le docteur Deep a soutenu qu’au cours d’années antérieures, on lui avait accordé les deux neuvièmes ou les trois neuvièmes des dépenses se rattachant à la résidence, compte tenu du fait que deux ou trois pièces sur neuf étaient utilisées à des fins commerciales. Je tiens à réitérer qu’au cours des années en question, la seule activité commerciale à laquelle se livrait selon moi le docteur Deep à la maison se rapportait à sa profession de médecin. On n’a pas réussi à me convaincre que plus d’une pièce était nécessaire à cet égard, quoique je sois prêt à admettre une pièce sur neuf, par opposition aux 144 pieds carrés alloués par le ministre par rapport à la superficie de 3 333 pieds carrés.
+[59] En utilisant ce pourcentage plus élevé, je reconnais encore une fois qu’il était raisonnable pour le vérificateur d’admettre 25 p. 100 des dépenses non associées à des déductions ou non accompagnées de pièces justificatives se rattachant à la résidence. Aucun élément de preuve ne donne à entendre que ce pourcentage doit être rajusté à la hausse. Les frais de bureau à domicile majorés sont donc les suivants :
+1994
+1995A
+1995B
+1996
+1997
+Frais de bureau à domicile admissibles
+8 254 $
+13 631 $
+s.o.
+16 735 $
+12 129 $
+Multipliés par 1/9
+917 $
+1 515 $
+1 859 $
+1 348 $
+Montant admis par le ministre
+356 $
+589 $
+723 $
+524 $
+Montant majoré alloué
+561 $
+926 $
+1 136 $
+824 $
+[60] Le docteur Deep a soutenu que certaines immobilisations étaient déductibles : par exemple, les coûts associés à une toiture et à un système central d’aspiration. De tels éléments se rapportent à des dépenses en capital et c’est à juste titre qu’ils n’ont pas été inclus dans le calcul susmentionné. De plus, des éléments comme une cuisinière, des matelas et des œuvres d’art sont à juste titre considérés comme étant de nature entièrement personnelle.
+[61] En 1995, le docteur Deep a déduit un montant de 2 586 $ pour un téléviseur et un magnétoscope. Il a témoigné qu’il en avait besoin pour lire ses fiches médicales. Il n’a présenté aucun élément de preuve concluant au sujet du pourcentage d’utilisation à cette fin commerciale. Étant donné qu’il a témoigné qu’il travaillait à domicile le midi, et puisqu’un pourcentage de 25 p. 100 a uniformément été utilisé aux fins de la déduction, je suis prêt à accorder 25 p. 100 de ce coût en 1995A à titre de dépenses d’entreprise légitimes déductibles (646 $).
+[62] Quant aux frais juridiques, je conclus que les cotisations du ministre sont fondées, à l’exception des dépenses qui se rattachent au chalet, que je suis prêt à accorder dans une proportion de 5 p. 100.
+[63] Le montant de 250 $, en 1995A, se rapportait à une recherche de titre concernant une propriété qui, selon moi, était semblable quant à sa nature à celle que le docteur Deep a achetée, en ce sens que la propriété devait principalement servir à des fins personnelles plutôt qu’à des fins commerciales. Toutefois, par souci d’uniformité, j’accorde 5 p. 100 sur ces 250 $, soit 12,50 $. Quant aux honoraires juridiques de 13 250 $ engagés en 1996, ce montant se rapportait, pour environ la moitié (6 875 $), au chalet, à Port Carling, et j’attribue encore une fois 5 p. 100 de ce montant à des fins commerciales, le montant étant donc déductible dans cette proportion (343,75 $). Le solde des 13 250 $ n’était pas accompagné de pièces, quoique le docteur Deep maintienne qu’il s’agissait d’honoraires juridiques versés à son fils. Tout bien pesé, on n’a pas réussi à me convaincre que ces honoraires étaient liés à une activité commerciale qui justifierait leur déductibilité.
+[64] Enfin, en ce qui concerne les honoraires juridiques de 70 000 $ que le docteur Deep a déduits en 1997, ces frais n’ont jamais été engagés en 1997. Comme le docteur Deep l’a déclaré dans son témoignage, il s’agissait simplement d’une estimation donnée par un cabinet d’avocats quant à ce qu’il lui en coûterait pour se défendre contre les accusations portées contre lui au criminel. Il n’existe aucun fondement permettant de déduire ce « montant estimatif » en 1997. Le fait que le docteur Deep a ajouté les mots [traduction] « avec provisions » dans sa déclaration de revenus de 1997, tout en signalant à l’ARC que cette déduction était peut‑être inhabituelle, ne fait pas pour autant de cette estimation une dépense déductible.
+[65] J’examinerai maintenant la déduction que le docteur Deep a effectuée au titre des frais relatifs à l’automobile. Le docteur Deep ne conteste pas le montant des dépenses sur lequel l’ARC s’est fondée, mais il s’oppose au pourcentage admis aux fins de l’entreprise par opposition à des fins personnelles, soit 1 500 kilomètres sur les 53 000 kilomètres effectués au cours d’une année donnée. Selon la position que le docteur Deep a prise, les déplacements qu’il effectuait pour aller à son chalet ou à Ottawa, pour faire la navette entre son lieu de travail et sa résidence et, de fait, toute distance parcourue est liée à une activité commerciale quelconque. Le docteur Deep n’a pas raison. Il n’allait pas à Ottawa à des fins commerciales – il y allait voir sa famille. La navette entre son lieu de travail et sa résidence n’est pas liée à des fins commerciales – ces déplacements sont considérés comme étant effectués à des fins personnelles, sauf lorsque le docteur Deep allait travailler chez lui à l’heure du déjeuner. Selon mes estimations, un voyage de sept minutes en voiture à Toronto représente au mieux trois ou quatre kilomètres, de sorte que le voyage aller‑retour était selon moi de sept kilomètres. Même en considérant d’une façon généreuse l’allégation du docteur Deep selon laquelle il étudiait des fiches médicales à la maison à l’heure du déjeuner, et ce, tous les jours de la semaine (ce qui correspond probablement à 230 jours de travail), cela représenterait 1 610 kilomètres de déplacements susceptibles d’être considérés comme étant liés à une entreprise. De plus, compte tenu du faible pourcentage attribuable à l’entreprise au chalet, j’accorderai également 5 p. 100 aux déplacements effectués pour aller au chalet et en revenir (soit un voyage aller‑retour d’environ 400 kilomètres). À supposer qu’il y ait eu dix voyages en 1996 et 50 voyages en 1997, il y aurait 200 kilomètres de plus en 1996 et 1 000 kilomètres de plus en 1997. Par conséquent, pour les années en question, le nombre de kilomètres attribués à l’entreprise serait majoré de 1 610 kilomètres pour toutes les années en cause, par rapport au nombre accordé par le vérificateur, et en plus, de 200 kilomètres en 1996 et de 1 000 kilomètres en 1997, de sorte que l’on obtient les chiffres suivants :
+1994
+1995A
+1995B
+1996
+1997
+Distance parcourue à des fins commerciales
+3 066
+2 674
+2 674
+2 874
+3 674
+Distance totale
+53 082
+53 082
+53 082
+53 082
+53 082
+Frais relatifs à la voiture
+14 753 $
+18 816 $
+9 020 $
+14 064 $
+18 016 $
+Frais déductibles à l’égard de la voiture
+852 $
+948 $
+454 $
+761 $
+1 247 $
+Frais admis par le ministre
+405 $
+377 $
+377 $
+281 $
+360 $
+Montant majoré alloué
+447 $
+571 $
+77 $
+480 $
+887 $
+J’ai résumé les dépenses admissibles additionnelles à l’appendice A, qui est joint aux présents motifs.
+(v) Le docteur Deep a-t-il déclaré en moins son revenu en 1997, et dans l’affirmative, de combien?
+[66] Comme il en est fait mention dans l’exposé des faits (paragraphes 30 et 31), le docteur Deep a omis trois montants importants au titre de son revenu de profession libérale, en 1997, lequel s’élevait à 412 813 $ :
+(i) un montant de 58 404 $ représentant les montants dont il avait censément frustré l’OHIP;
+(ii) un montant de 55 547 $ représentant les montants qu’il a appelés son contrat social avec le gouvernement de l’Ontario;
+(iii) un montant de 105 648 $ représentant les montants retenus par l’OHIP.
+Aucun de ces montants ne peut à juste titre être déduit du revenu de profession libérale gagné en 1997 par le docteur Deep. Le revenu déclaré s’élevait à 219 600 $. Le revenu était en fait de 412 813 $. Le docteur Deep a déclaré en moins son revenu de 1997 d’un montant de 193 213 $.
+[67] Le docteur Deep n’a jamais remis le montant de 58 404 $ à l’OHIP puisque les accusations dont il avait fait l’objet ont finalement été suspendues. Le fait que ces fonds devaient peut‑être être remis ne permet pas pour autant la déduction de ce montant des honoraires réellement reçus.
+[68] Le docteur Deep n’a jamais inclus dans son revenu le montant de 55 547 $. Il s’agit selon lui d’un don au gouvernement de l’Ontario. S’il avait reçu les honoraires additionnels et s’il les avait ensuite remis au gouvernement, il aurait pu les considérer comme un don. Cependant, selon les dispositions qui avaient été prises avec l’OHIP, le docteur Deep devait recevoir les honoraires conformément à une formule donnée. Le docteur Deep a reçu 412 813 $ au titre des honoraires en 1997, conformément à ces dispositions. Le fait que la formule ne lui donnait pas droit à plus ne permet pas pour autant de déduire ce « montant excédentaire » des honoraires reçus.
+[69] De la même façon, le montant de 105 648 $ est un montant qui n’a été payé au docteur Deep en 1997. Ce montant a tout simplement été retenu par l’OHIP : il n’a jamais été déclaré dans le revenu de 1997 du docteur Deep. Par conséquent, ce montant ne peut pas être déduit des honoraires que le docteur Deep a reçus en 1997.
+(vi) Le docteur Deep est‑il passible des pénalités prévues au paragraphe 163(2) de la Loi?
+[70] Le docteur Deep croyait qu’il pouvait gérer un bureau sans l’aide d’un personnel, qu’il pouvait tenir les livres et registres sans obtenir de l’aide en matière de tenue de livres et de comptabilité, qu’il pouvait interpréter les lois fiscales sans l’aide de conseillers fiscaux et qu’il pouvait s’occuper de toutes sortes de procédures judiciaires sans l’aide d’avocats. Il lui est certes loisible d’agir de la sorte, mais il le fait à ses risques et périls. Maintenant que j’ai entendu la preuve relative aux nombreuses poursuites judiciaires auxquelles le docteur Deep était partie, je puis uniquement frémir en pensant aux coûts énormes qui en ont résulté pour lui, que ce soit sur le plan financier ou quant au temps consacré et au stress causé, ce qu’il aurait facilement pu éviter en faisant appel à des experts ayant la formation voulue dans le domaine comptable, fiscal et juridique. Le docteur Deep a déclaré être fermement convaincu que l’ARC lui avait infligé un traitement inapproprié, principalement à cause de la vérification déclenchée par un article publié dans un journal. Je puis comprendre jusqu’à quel point un tel événement a pu l’ennuyer, étant donné en particulier que les accusations dont il était question dans l’article ont finalement été suspendues. Pourtant, une fois que ses années d’imposition peuvent donner lieu à une nouvelle cotisation, comme je l’ai conclu, ce sont les actions du docteur Deep, le fait qu’il a préparé ses déclarations de revenus et les déductions qu’il a faites qui ont entraîné des conséquences fiscales défavorables. Il est vrai que le vérificateur en était à ses débuts en matière de vérification fiscale, et il est vrai que sur certains points, le vérificateur aurait selon moi pu se montrer plus généreux en ce qui concerne les montants alloués, mais les déclarations de revenus du docteur Deep présentaient manifestement les faits d’une façon erronée, ce dont le docteur Deep est l’unique responsable, et ces présentations erronées n’étaient pas faites en toute innocence.
+[71] Le paragraphe 163(2) est rédigé comme suit :
+163(2) Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde dans l’exercice d’une obligation prévue à la présente loi ou à son règlement, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse – appelé « déclaration » au présent article – rempli, produit ou présenté, selon le cas, pour une année d’imposition conformément à la présente loi ou à son règlement, ou y participe, y consent ou y acquiesce est passible d’une pénalité égale, sans être inférieure à 100 $, à 50 % du total des montants suivants :
+[72] Le degré de négligence requis pour que des pénalités soient imposées en vertu du paragraphe 163(2) est une faute lourde, soit un degré de négligence plus élevé que celui qu’exige le paragraphe 152(4). Ce degré de négligence a été décrit comme une indifférence au sujet de l’observation de la loi[8]. Cela décrit bien la façon dont le docteur Deep a traité les déductions qu’il a faites à l’égard de ses frais. Le docteur Deep a manifesté une insouciance flagrante pour des principes de déductibilité bien établis, comme le caractère raisonnable d’une déduction et le fait qu’une déduction doit se rattacher à une entreprise plutôt qu’à des dépenses personnelles.
+[73] Le fait que des frais d’intérêt élevés ont été déclarés pour chacune des années en question pour le motif que des intérêts avaient été payés au cours de chacune de ces années suffit en soi pour qu’il soit possible de conclure à l’application du paragraphe 163(2). Le docteur Deep écarte d’un air indifférent cette erreur en disant qu’il a peut‑être déclaré les montants en cause à la mauvaise ligne dans le formulaire de déclaration de revenus – qu’il ne faisait qu’imputer des pertes autres qu’en capital subies au cours d’années antérieures. Il tente également de justifier cette approche en disant qu’un agent de l’ARC l’avait informé qu’il pouvait le faire. Le docteur Deep n’a pas cité l’agent et il n’a pas présenté de preuve écrite de ce qui lui aurait été dit. Je conclus que le docteur Deep interprétait les lois fiscales à son profit, sans tenir compte de la façon correcte de traiter ces questions. Le docteur Deep savait qu’il n’avait pas engagé de frais d’intérêt aussi élevés au cours des années en question. En supposant qu’il pouvait tout simplement déduire le plein montant des intérêts à titre de pertes autres qu’en capital, sans calculer les pertes autres qu’en capital réellement subies au cours d’années antérieures, il s’est montré insouciant au point de commettre une faute lourde.
+[74] S’il faut d’autres éléments de preuve en vue de conclure que le docteur Deep est assujetti aux dispositions du paragraphe 163(2), il est possible de les trouver dans les déductions qu’il a faites pour les frais de bureau. Les montants que le docteur Deep a déduits à cet égard sont si déraisonnables que je conclus, même s’il n’est pas d’accord avec moi, qu’il savait qu’il faisait de faux énoncés; s’il s’était le moindrement renseigné auprès de personnes s’y connaissant dans le domaine, il aurait réduit de beaucoup le montant de ces déductions. Je n’examinerai pas les nombreux exemples de déductions, mais je me contenterai d’en citer un ou deux pour chaque année à l’appui de mes conclusions :
+1994 - 1 322 $ pour une nouvelle cuisinière à sa résidence principale;
+1995 - 842 $ pour un achat dans un magasin vendant de la porcelaine William Ashley;
+1996 - 3 375 $ pour des édredons en duvet pour le chalet, à Port Carling;
+1997 - 150 $ pour un dentiste et 7 886 $ pour l’épicerie.
+[75] Le docteur Deep n’a donné aucune explication vraisemblable au sujet de la raison pour laquelle de telles dépenses, et un grand nombre d’autres dépenses du même genre, pouvaient être considérées comme des frais de bureau. De même, le fait qu’il a déduit la totalité des frais relatifs à l’automobile montre une insouciance complète à l’égard de la loi. Les déplacements qu’il effectuait pour se rendre au travail et en revenir, pour aller au chalet et pour aller visiter la famille à Ottawa sont de nature si clairement personnelle qu’en alléguant le contraire, le docteur Deep commet une faute lourde. L’approche adoptée par le docteur Deep lorsqu’il s’agissait de déduire des dépenses d’une façon générale consistait à déduire tous les frais engagés, au cabinet, à la maison et au chalet, y compris des frais qui étaient clairement de nature personnelle.
+[76] Enfin, les raisons que le docteur Deep a invoquées pour avoir déclaré en moins son revenu de 1997 sont dénuées de fondement et montrent qu’il ne comprenait pas ce qu’est un revenu imposable, au point que je conclus qu’il a commis une faute lourde en déclarant son revenu sur cette base.
+[77] Le fait qu’un homme qui est clairement fort intelligent s’obstine à prendre des positions intenables me surprend quelque peu. J’ai conclu que le docteur Deep a traité ses obligations fiscales en se fondant sur ce que les lois fiscales devraient selon lui logiquement être, sans faire d’effort raisonnable pour déterminer ce qu’elles sont réellement. Le fait qu’il s’est censément fié à un agent de l’ARC, qui n’a pas témoigné, ne l’aide nullement. Il est clair à mes yeux, compte tenu de la façon dont il a résumé l’argumentation de l’avocate de l’intimée par exemple, que le docteur Deep entend uniquement ce qu’il veut entendre. Je ne puis retenir son témoignage, lorsqu’il affirme qu’un agent de l’ARC l’a informé qu’il pouvait effectuer les déductions qu’il a faites.
+[78] Je conclus que le docteur Deep savait qu’il faisait de faux énoncés à l’égard des intérêts et à l’égard de ses autres dépenses, en ce sens qu’il s’agissait de dépenses personnelles plutôt que de dépenses d’entreprise, et ce, dans des circonstances équivalant à une faute lourde. Le docteur Deep est passible de pénalités.
+(vii) Les droits garantis au docteur Deep par la Charte ont‑ils été violés ou niés, de façon à justifier l’octroi d’une réparation conformément à l’article 24 de la Charte?
+[79] Le docteur Deep a soutenu que l’approche suivie par le vérificateur à son endroit au mois de juillet 1998 constituait pour ainsi dire une fouille, une perquisition et une saisie abusives, en violation de l’article 8 de la Charte, parce que les mesures qui ont été prises ont uniquement été déclenchées par un article paru dans un journal et en outre parce que le vérificateur lui avait fait savoir, lors de la première rencontre, qu’il s’agissait d’une [traduction] « action civile contre [lui] ». Compte tenu de l’explication donnée par le docteur Deep au sujet des rencontres qu’il a eues avec M. Ralbosky, laquelle a été confirmée par M. Ralbosky, je ne puis rien trouver d’abusif dans l’approche suivie par ce dernier. Le docteur Deep a de son plein gré fourni les renseignements aux fins de la tenue d’une enquête portant sur son obligation civile de payer des impôts. Je conclus qu’aucun droit à la protection des renseignements personnels n’a été violé.
+[80] Le docteur Deep a invoqué l’article 7 de la Charte en affirmant que l’intimée avait concocté une demande abusive à son encontre, principalement en refusant des pertes élevées, et que cela l’a privé du droit à la vie, à la liberté et à la sécurité de sa personne. La prémisse fondamentale du docteur Deep est viciée. Le refus d’admettre des pertes élevées n’était pas une invention capricieuse du gouvernement, comme le docteur Deep l’a dit. Je conclus que la cotisation que l’intimée a établie était valide en ce qui concerne les déductions élevées effectuées par le docteur Deep au titre des frais d’intérêt. La raison pour laquelle le docteur Deep ne peut déduire des frais d’intérêt pour les années en question n’a rien à voir avec quelque écart de conduite de la part de l’intimée; la chose est uniquement attribuable à la façon dont le docteur Deep a traité ses propres obligations lorsqu’il s’est agi de déclarer son revenu au fil des ans.
+[81] Le docteur Deep a invoqué l’article 6 de la Charte en alléguant que les mesures prises par l’intimée ont porté atteinte à son droit de sortir du pays. Cependant, il n’a pas débattu ce point avec vigueur. Je conclus qu’aucune disposition de la Loi et qu’aucune des mesures de l’intimée ayant donné lieu à l’établissement des cotisations fondées sur l’application de la Loi n’ont restreint de quelque façon que ce soit la liberté de circulation du docteur Deep, prévue à l’article 6 de la Charte.
+[82] Enfin, le docteur Deep a invoqué les dispositions relatives à l’égalité de l’article 15 de la Charte en alléguant, si j’ai bien compris l’argument qu’il a présenté à l’instruction, que sa profession, soit la profession de médecin, était la seule profession qui avait donné lieu à une vérification de la part du vérificateur ici en cause, M. Ralbosky. Toutefois, l’avis de question constitutionnelle du docteur Deep traitait de l’argument fondé sur l’article 15 d’une façon quelque peu différente en disant : [traduction] « Aucun autre médecin n’a eu à subir l’ignorance, l’inexpérience et l’incompétence du vérificateur J. Ralbosky, qui admet n’avoir jamais auparavant vérifié les comptes d’un médecin. Cette discrimination va encore plus loin que les facteurs énumérés à l’article 15 de la Charte. »
+[83] Le docteur Deep n’a pas remis en question la validité de quelque loi particulière en alléguant la discrimination. Il semble croire qu’il a eu la malchance de faire l’objet d’une vérification par un vérificateur qui, à son dire, n’est pas compétent. Il ne s’agit tout simplement pas de circonstances dans lesquelles l’article 15 s’applique. Je conclus qu’il est inutile de procéder à une analyse détaillée de la Charte sur ce point.
+[84] L’intimée a cité l’arrêt Main Rehabilitation Co. v. R.[9], dans lequel la Cour d’appel fédérale a confirmé que la Cour canadienne de l’impôt n’a pas compétence pour annuler une cotisation, en se fondant sur le fait qu’il y a eu abus de procédure en common law ou violation de l’article 7 de la Charte. Le docteur Deep semble avoir reconnu la chose, étant donné qu’il a cherché à obtenir réparation sur ce point d’une autre manière.
+[85] Je conclus qu’aucun des droits garantis par la Charte n’a été violé ou nié.
+La conclusion
+[86] En conclusion, les appels sont accueillis et les affaires sont renvoyées au ministre pour nouvel examen et nouvelle cotisation sur la base restreinte énoncée à l’appendice A qui est joint aux présents motifs. L’intimée aura droit aux dépens.
+Signé à Ottawa, Canada, ce 5e jour de juin 2006.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 4e jour de février 2008
+D. Laberge, LL.L.
+APPENDICE A
+DÉPENSES DÉDUCTIBLES ADDITIONNELLES
+1994
+1995A
+1995B
+1996
+1997
+Automobile
+447 $
+571 $
+77 $
+480 $
+887 $
+Bureau à domicile
+561 $
+926 $
+0 $
+1 136 $
+824 $
+Autre bureau
+646 $
+(téléviseur)
+3 088 $
+(assurance)
+3 345 $
+(paiement à la province)
+184 $
+(impôts fonciers)
+Honoraires juridiques
+______
+12,50 $
+_____
+__344 $
+________
+Total
+1 008 $
+2 155,50 $
+77 $
+5 048 $
+5 240 $
+RÉFÉRENCE : 2006CCI315
+No DU DOSSIER DE LA COUR : 2002-2009(IT)G
+INTITULÉ : Albert Ross Deep
+c.
+La Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Les 24, 25, 26 et 27 avril 2006
+MOTIFS DU JUGEMENT : L’honorable juge Campbell J. Miller
+DATE DU JUGEMENT : Le 5 juin 2006
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me H. Annette Evans
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : s.o.
+Cabinet : s.o.
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pièce A‑17.
+[2] Pièce A-1, onglet 22.
+[3] Jusqu’en 1995, le docteur Deep a déclaré son revenu tiré d’une profession libérale selon une année d’imposition prenant fin le 22 janvier. En 1995, il est passé à une année civile, de sorte qu’une année a pris fin le 22 janvier 1995 (1995A), et la seconde année a pris fin le 31 décembre 1995 (1995B).
+[4] Pièce A-19.
+[5] 84 DTC 6247.
+[6] Précitée, page 6251.
+[7] [2005] 2 R.C.S. 598.
+[8] Voir par exemple la décision Venne.
+[9] 2004 DTC 6763.

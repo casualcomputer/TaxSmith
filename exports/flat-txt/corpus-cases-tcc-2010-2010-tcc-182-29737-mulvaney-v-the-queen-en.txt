@@ -1,0 +1,130 @@
+Title: Mulvaney v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29737/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-182-29737-mulvaney-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-04-08
+
+# Mulvaney v. The Queen
+
+- Citation: 2010 TCC 182
+- Decision date: 2010-04-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6544, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mulvaney v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-04-08
+Neutral citation
+2010 TCC 182
+File numbers
+2009-1887(IT)I
+Judges and Taxing Officers
+Steven K. D'Arcy
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2010 TCC 182
+Date: 20100408
+Docket: 2009-1887(IT)I
+BETWEEN:
+JUNE MULVANEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN
+Respondent.
+____________________________________________________________________
+Agent for the Appellant:
+Patrick Mulvaney
+Counsel for the Respondent:
+Jack Warren
+____________________________________________________________________
+ORAL REASONS FOR JUDGMENT
+(Delivered orally by conference call on
+March 19, 2010, at Ottawa, Ontario,
+modified for clarity and accuracy)
+[1] The Appellant has appealed notices of reassessment in respect of her 2004 and 2005 taxation years.
+[2] When filing her income tax return for the 2004 taxation year, the Appellant reported income of $43,084 from three sources: employment income reported on a T4, income from a RRSP, and other income. She also reported other employment income of $10,000 and a net business loss of $42,224.
+[3] When reassessing the Appellant, the Minister accepted the $43,084 of income from the three sources. However, the Minister reduced the other employment income to zero and the net business loss to $3,164.
+[4] When filing her income tax return for the 2005 taxation year the Appellant reported income of $39,391 from two sources: employment income reported on a T4 and other income. She also reported a net business loss of $31,306.
+[5] When reassessing the Appellant, the Minister accepted the $39,391 of income from the two sources. However, the Minister reduced the net business loss to $3,634.
+[6] The Appellant has appealed the Minister’s adjustments to her income.
+[7] During the course of the hearing the Appellant accepted the $10,000 reduction in her other employment income for the 2004 taxation year.
+[8] The court heard from two witnesses: Patrick Mulvaney, the spouse of the Appellant and Todd Van Delinder, the Canada Revenue Agency official who conducted the audit of the Appellant. Mr. Mulvaney also acted as the Appellant’s agent.
+[9] The Appellant and her husband, through a partnership, operated a home construction and renovation business. It appears that the partnership subcontracted a significant portion of the work to third parties.
+[10] During the course of the CRA audit, the Appellant provided the CRA with books and records relating to the partnership, which appear to have been comprised mainly of receipts. Mr. Mulvaney testified that the receipts were grouped together by expense category with an adding tape attached to each bundle of expenses to tie the total amounts shown on the receipts to the amount recorded on the Appellant’s tax return for each expense category. It is not clear to me why the adding tape was not referred to by the CRA auditor.
+[11] Unfortunately, the Appellant did not bring the receipts to the hearing. She was under the mistaken belief that the receipts were not required by the Court, since she had already provided them to the CRA.
+[12] This is not fatal to her case. As I explained to the Appellant, she bears the onus of proving that the facts upon which the Minister based the reassessments are wrong. While the task of proving the expenses is made more difficult when a taxpayer does not provide the Court with records or receipts, it is still open for her or him to provide oral evidence relating to these expenses.
+[13] As the Supreme Court of Canada noted in Hickman Motors v. Canada, [1997] 2 S.C.R. 336, where the Income Tax Act does not require supporting documentation, credible oral evidence from a taxpayer is sufficient, notwithstanding the absence of records.
+[14] Mr. Van Delinder’s audit working papers were entered as evidence by the Respondent. The working papers provided details of the revenue reported by the partnership, each expense claimed by the partnership, and the adjustments made by the CRA.
+[15] Mr. Van Delinder explained to the Court his understanding of each item and the reasons why adjustments were made to the amounts reported by the Appellant.
+[16] In reply, Mr. Mulvaney reviewed each item. He explained how the partnership tracked revenue and expenses and the nature of each expense reported in the CRA working papers. Mr. Mulvaney also reviewed each adjustment noted in the CRA working papers and explained why he disagreed with the adjustments made by the CRA with respect to revenue and a number of the expense items.
+[17] I found Mr. Mulvaney to be a credible witness who was able to discuss, in some detail, each expense noted in the CRA working papers and explain to the Court why the noted expenses were incurred for the purpose of earning income from the business.
+[18] Mr. Mulvaney acknowledged that, in certain instances, amounts had been claimed in error. However, these amounts were not significant.
+[19] There are three issues before the Court with respect to the amount of the business losses that are deductible by the Appellant when calculating her income for the 2004 and 2005 taxation years: the amount of the gross revenue realized by the partnership; the amount of expenses that were deductible when calculating the loss of the partnership for purposes of the Income Tax Act; and the Appellant’s percentage interest in the partnership.
+[20] I will first consider the gross revenue realized by the partnership.
+[21] Mr. Van Delinder testified that he used an indirect approach to calculate the gross revenue of the partnership; he reviewed the bank account of the partnership and the personal bank account of the Appellant and Mr. Mulvaney.
+[22] He did not discover any discrepancies when reviewing the bank account of the partnership. However, he increased the gross revenue of the partnership by $4,419 in 2004 and $10,069 in 2005 based upon what he referred to as unidentified deposits in the personal bank accounts.
+[23] Mr. Mulvaney testified that all revenue from the partnership was deposited in the partnership bank account. Customer receipts were never deposited in the personal bank accounts. His testimony is supported by the CRA working papers. The papers show that all deposits in the partnership bank account related to the business.
+[24] Further, none of the identified deposits in the personal bank account related to the partnership.
+[25] In my view it was unreasonable for Mr. Van Delinder to assume that the unidentified deposits in the personal bank account related to the partnership.
+[26] As Mr. Mulvaney noted, most people do not keep track of every deposit made to their personal bank accounts. Further, there was no evidence to support a finding that the unidentified deposits related to the partnership. In fact, the analysis conducted by the CRA evidenced that the Appellant and Mr. Mulvaney were meticulous in separating the partnership banking from their personal banking.
+[27] Based upon the evidence of Mr. Mulvaney and the CRA working papers, I find that the gross revenue of the partnership was the amount reported by the Appellant on her tax return: $46,567 for the 2004 taxation year and $25,611 for the 2005 taxation year.
+[28] I will now consider the amount of the deductible expenses of the partnership.
+[29] After considering the testimony of Mr. Van Delinder and Mr. Mulvaney and after reviewing the CRA working papers, I have concluded that the Appellant incurred the amounts reported as expenses on her income tax return.
+[30] However, as I will discuss shortly, it is clear to me that some of the expenses were not deductible in calculating the income or loss of the partnership.
+[31] I do not intend to refer to each expense item. I will only discuss the expenses denied by the Minister that I accept were not deductible when calculating the taxable income of the partnership.
+[32] The first item is bad debts; $750 was deducted in 2004 and $3,000 in 2005. The Minister denied the entire amount deducted by the partnership.
+[33] It appears that the deduction was denied on the basis that there was no evidence to indicate that the amounts represented sales previously included in the income of the partnership.
+[34] Mr. Mulvaney testified that the amounts related to a job completed in St. Thomas where the partnership was not paid for the work performed. Mr. Mulvaney did not provide any evidence that the amounts in question had previously been included in the income of the partnership.
+[35] In short, the Appellant has not proved that the facts relied upon by the Minister were wrong.
+[36] As a result, I am required to accept the Minister’s position and deny the deductibility of the $750 in 2004 and the $3,000 in 2005 for bad debts.
+[37] The next item is maintenance and repairs; $1,986 was deducted in 2004. The Minister disallowed the deduction. Mr. Mulvaney testified that the $1,986 related to the creation of a home office and alterations to a garage that was used for storage.
+[38] The amounts spent relating to the garage were deductible. However, as noted by counsel for the Respondent, the partnership was not entitled to deduct amounts in respect of a home office. I believe that it is reasonable to conclude that 50 percent of the $1,986 related to the garage. Thus, $993 should be deducted when determining the net income of the partnership.
+[39] The next item is rent; $4,320 was deducted in 2004 and $2,400 was deducted in 2005. The Minister allowed the $2,400 deducted in 2005 but reduced the amount of the deduction for 2004 from $4,320 to $2,400. The Minister accepted that $2,400 of the 2004 expense and the entire 2005 expense related to the rental of a shop in Orwell. However, the Minister determined that the remaining $1,920 of the 2004 expense related to a home office.
+[40] Mr. Mulvaney testified that a portion of the $1,920 related to a storage facility.
+[41] Based upon the testimony of Mr. Mulvaney, I will allow an additional $1,000 for rent for 2004. As a result, $3,400 should be deducted as rent when calculating the partnership’s net income for 2004.
+[42] The Minister reduced the amount claimed for salaries in 2004 by $10,000. This amount was offset by the $10,000 reduction in the Appellant’s other employment income. The Appellant accepted these adjustments.
+[43] The next item was referred to as a loan repayment; $3,500 was deducted in 2004. The Minister reduced the deduction to zero. Mr. Mulvaney testified that the amounts related to repayments of a loan that was incurred by the previous owner of the business (his son).
+[44] I agree with the Minister that the amount was not deductible as it was not incurred to earn income from a business. It appears to me to be in the nature of a capital expenditure.
+[45] I accept that all other amounts shown in the first column of Schedule A and Schedule B to the Reply to the Notice of Appeal are deductible when determining the net income of the partnership.
+[46] As I noted previously, I do not intend to review each individual expense item. However, I would like to make a comment with respect to the substantial amounts denied in respect of the supplies category.
+[47] It is clear from the evidence that in numerous instances the Minister denied amounts where the receipt showed one small personal item. For example, a deduction for $214 was denied because the receipt noted dog treats and a can of Lysol. However, the receipts also referred to filters. The auditor ignored the reference to filters on the receipt even though it was clear that 98 percent or more of the expense related to the filters, an item that was purchased for use in the partnership’s business.
+[48] The decisions made by the CRA auditor when increasing the amount of the gross revenue of the Appellant and when denying the amounts claimed as supplies bring into question the judgment of the auditor. This has negatively affected the weight I have given to his evidence.
+[49] In summary, I find, based upon the evidence of Mr. Mulvaney, the CRA working papers and to a lesser extent, the evidence of Mr. Van Delinder, that the net business loss of the partnership in 2004 was $26,061 based upon gross business revenue of $46,567 and deductible expenses of $72,628.
+[50] In 2005, the net business loss of the partnership was $28,302 based upon gross business revenue of $25,611 and deductible expenses of $53,913.
+[51] The third issue that must be addressed is the partnership interest held by the Appellant.
+[52] The taxpayer originally took the position that she was entitled to 100 percent of the partnership interest. When reassessing, the Minister took the position the Appellant held 25 percent of the partnership.
+[53] In her Notice of Appeal, the Appellant argued that she held a 70 percent interest in the partnership.
+[54] Both the Minister and the Appellant provided a list of factors to support their positions.
+[55] During the hearing, I asked Mr. Mulvaney to step back, disregard the income tax appeal, and tell me what he believes are the interests in the partnership. He told me that he and the Appellant always viewed themselves as 50/50 partners.
+[56] I believe this is a situation where both parties cannot see the forest for the trees. After one considers all of the evidence, it is clear that the Appellant and Mr. Mulvaney were 50/50 partners in the business.
+[57] As a result, I find that the Appellant was entitled to deduct 50 percent of the loss realized by the partnership; $13,030.50 in the 2004 taxation year and $14,151 in the 2005 taxation year.
+[58] For the foregoing reasons, the appeal is allowed, without costs, and the matter is referred back to the Minister for reconsideration and reassessment on the basis that the Appellant is entitled to deduct, when calculating her taxable income for the 2004 and 2005 taxation years, $13,030.50 and $14,151 respectively as losses from the partnership.
+Signed at Winnipeg, Manitoba, this 8th day of April 2010.
+“S. D’Arcy”
+D'Arcy J.
+CITATION: 2010 TCC 182
+COURT FILE NO.: 2009-1887(IT)I
+STYLE OF CAUSE: JUNE MULVANEY AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: London, Ontario
+DATE OF HEARING: March 10, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice
+Steven K. D'Arcy
+DATE OF JUDGMENT: April 8, 2010
+APPEARANCES:
+Agent for the Appellant:
+Patrick Mulvaney
+Counsel for the Respondent:
+Jack Warren
+COUNSEL OF RECORD:
+For the Appellant: N/A
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

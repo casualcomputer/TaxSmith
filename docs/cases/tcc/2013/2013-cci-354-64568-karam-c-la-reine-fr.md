@@ -1,0 +1,386 @@
+---
+title: "Karam c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/64568/index.do"
+last_modified: "2013-11-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 354"
+citation2: ""
+neutral_citation: "2013 CCI 354"
+decision_date: "2013-11-04"
+language: "fr"
+item_id: "64568"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5944
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:57:09.743000+00:00"
+cases_cited_count: 0
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "56acb3da7d9c71ca3faac0d5411f3f1b1cc9b40366a09e27fb0a98025ecd284e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Karam c. La Reine
+
+- Citation: 2013 CCI 354
+- Decision date: 2013-11-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5944, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Karam c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-11-04
+Référence neutre
+2013 CCI 354
+Numéro de dossier
+2011-494(IT)G
+Juges et Officiers taxateurs
+Steven K. D'Arcy
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-494(IT)G
+ENTRE :
+BRIAN WILLIAM KARAM,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu du 17 au 21, le 24 et le 26 juin 2013
+à Ottawa, Canada
+Devant : L’honorable juge Steven K. D’Arcy
+Comparutions :
+Avocat de l’appelant :
+Me Robert McMechan
+Avocats de l’intimée :
+Me André LeBlanc
+Me Hong Ky (Eric) Luu
+JUGEMENT
+L’appel interjeté de la nouvelle cotisation établie au titre de la Loi de l’impôt sur le revenu pour l’année d’imposition 2007 de l’appelant est rejeté, avec dépens en faveur de l’intimée, conformément aux motifs du jugement ci-joints.
+DE PLUS, IL EST ORDONNÉ :
+1. L’intimée aura 30 jours à compter de la date du présent jugement pour déposer des observations auprès de la Cour, si elle croit que cette dernière devrait adjuger des dépens supérieurs aux valeurs du tarif. Ces observations doivent être d’une longueur maximale de 30 pages.
+2. L’appelant aura 30 jours à compter du dépôt des observations de l’intimée auprès de la Cour pour déposer une réponse (le cas échéant) (d’une longueur maximale de 30 pages).
+3. L’intimée aura 10 jours à compter de la date du dépôt de la réponse de l’appelant pour déposer une réplique (s’il y a lieu) à cette dernière (d’une longueur maximale de 10 pages).
+Signé à Ottawa, Canada, ce 4e jour de novembre 2013.
+« S. D’Arcy »
+Juge D’Arcy
+Traduction certifiée conforme
+Ce 10e jour de mars 2014
+François Brunet, réviseur
+Référence : 2013 CCI 354
+Date : 20131104
+Dossier : 2011-494(IT)G
+ENTRE :
+BRIAN WILLIAM KARAM,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge D’Arcy
+[1] L’appelant est membre d’une société en commandite (la « société en commandite ») qui a fait l’achat de 300 acres de terres entre 1990 et 1995 dans la Ville de Kanata (laquelle fait aujourd’hui partie de la Ville d’Ottawa). La société en commandite a vendu une partie de ces terres, soit 200 acres, en 2007. Ces 200 acres ont été appelés les [traduction] « terrains Monarch ». Le principal point en litige dont la Cour est saisie consiste à savoir si le gain élevé qui a été réalisé sur la vente des terrains Monarch est à titre de revenu ou à titre de capital.
+[2] Il existe un point en litige secondaire, qui a trait au montant que l’appelant a reçu au moment de la vente des terrains Monarch. Comme l’intimée l’a observé dans sa réponse, je n’ai besoin d’examiner cette question que si je conclus que la vente des terrains Monarch était à titre de capital.
+[3] La Cour a entendu 22 témoins. Ceux-ci ont déposé durant cinq jours complets, dont trois retenus en entier par le témoignage verbal de l’appelant[1]. Le témoignage de vingt des témoins a été très bref. L’appelant a appelé la totalité des témoins.
+L’appelant, la société en commandite et les terrains
+[4] L’appelant a commencé à exercer à titre d’avocat spécialisé en immobilier en 1973, et, vers cette époque, il a commencé à investir dans de nombreuses entreprises immobilières. Outre l’entreprise immobilière en litige, il a investi dans les projets suivants :
+- à partir des années 1970 et jusqu’au début des années 1980, un projet immobilier comportant 100 acres de terres contenant 27 lots d’un domaine;
+- entre 1990 et 1998, une subdivision contenant 126 lots;
+- à partir de juin 2011, une autre entreprise de lotissement[2].
+[5] Le 27 avril 1990, 12 commanditaires – dont l’appelant – et une commanditée ont formé la société en commandite. La commanditée était 830289 Ontario Limited, une société contrôlée par l’appelant[3].
+[6] Un certain nombre de commanditaires ont témoigné. Il ressort clairement de ces témoignages qu’ils étaient tous soit liés à l’appelant, soit des amis de ce dernier. Le ministre du Revenu national (« le ministre ») a établi une cotisation à l’endroit de tous les commanditaires en rapport avec la vente des terrains Monarch. Les commanditaires ont choisi la cause de l’appelant comme cause type et ils ont convenu d’être liés par la décision définitive des tribunaux sur le présent appel. Cela n’est pas surprenant, car c’est l’appelant, par l’intermédiaire de la commanditée, qui prenait toutes les décisions concernant les terrains Monarch. De plus, lors de leur témoignage, les commanditaires ont déclaré qu’ils n’avaient rien eu à voir avec les terrains que détenait la commanditée, dont les terrains Monarch[4].
+[7] La pièce A-1, jointe aux présents motifs en tant qu’annexe 1, montre les trois sections de terrain qui sont pertinentes aux fins de l’appel.
+[8] La première section est les terrains Monarch. Elle est constituée des trois parcelles de terrain qui portent les numéros 1, 2 et 3 sur la pièce A-1. Les parties ont appelé les trois parcelles distinctes qui constituent les terrains Monarch ainsi : le [traduction] « terrain Moore », le [traduction] « terrain McKinley » et le [traduction] « terrain Crowe ». Les terrains Monarch couvrent une superficie de 200 acres et sont ceux qui sont situés le plus à l’ouest, parmi ceux qui sont illustrés à la pièce A-1.
+[9] La deuxième section de terrain a été appelée les [traduction] « Terrains avoisinants ». Cette section, située juste à l’est des terrains Monarch, se compose des parcelles de terrain portent les numéros 4 et 5 sur la pièce A-1. Les deux parcelles distinctes qui constituent les Terrains avoisinants couvrent une superficie totale de 180 acres et ont été appelées ainsi : « Van Doormaal » et « Van Gaal ». Les Terrains avoisinants englobent également la route appelée « promenade Terry Fox ». Cette dernière est importante, car, à l’époque où la société en commandite a acheté les terrains Monarch, elle était ce que l’on appelle la limite urbaine.
+[10] La troisième section de terrain a été appelée les [traduction] « terrains Calmar ». Ces derniers, situés juste à l’est des Terrains avoisinants, sont constitués des parcelles de terrain portant les numéros 7, 8 et 9. Les trois parcelles qui constituent les terrains Calmar couvrent une superficie totale de 150 acres et ont été appelées ainsi : « KTIT » « Centrefund » et [traduction] « Soho Ouest », respectivement. Les terrains Calmar sont ceux qui sont situés le plus à l’est des trois sections de terrain. Pendant toute la période en cause, les terrains Calmar se trouvaient à l’intérieur de la limite urbaine.
+[11] Lors de l’audience, les terrains Monarch, les Terrains avoisinants et les terrains Calmar ont été appelés conjointement les [traduction] « terrains WestPark ».
+Le résumé des faits
+[12] Les associés ont constitué la société en commandite en vue d’acquérir des participations dans le terrain Moore et dans le terrain McKinley, ainsi que le droit de préemption de premier rang sur le terrain attenant, situé à l’ouest du terrain Moore[5].
+[13] L’appelant a expliqué comment il en était venu à acquérir le terrain Moore pour le compte de la société en commandite. Il a constaté qu’un client de son cabinet d’avocats, un certain M. Abraham, essayait de vendre un regroupement de terrains couvrant une superficie d’environ 800 acres. Ce regroupement aurait été formé du terrain Moore, du terrain McKinley et des 600 acres situés à l’ouest du terrain Moore (au cours de l’audience, ce terrain de 600 acres a été appelé le [traduction] « terrain Brookfield »). M. Abraham avait acquis le droit d’acheter le terrain Moore, mais il n’était pas en mesure d’acquérir soit le terrain McKinley, soit le terrain Brookfield. C’est un groupe dirigé par un certain M. McKinley (le « groupe McKinley ») qui a fait l’achat de ces terrains.
+[14] M. Abraham a ensuite décidé qu’il ne voulait pas acheter le terrain Moore. Il a donc vendu le droit de l’acheter à l’appelant pour la somme de 10 000 $[6]. Ce dernier a fait remarquer que le terrain Moore se trouvait [traduction] « au centre de tout […] »[7] Il était situé à Kanata, à proximité de deux ou trois subdivisions résidentielles existantes[8].
+[15] La société en commandite a acheté par la suite le terrain Moore, d’une superficie de 100 acres, auprès d’un certain M. Moore, au prix de 2 millions de dollars. Le prix d’achat a été réglé par un paiement au comptant de 500 000 $ et une hypothèque de 1,5 million de dollars, à 8 % d’intérêt. L’hypothèque était entièrement ouverte, et comportait le paiement mensuel des 8 % d’intérêt[9].
+[16] Le terrain Moore était situé à l’extérieur de la limite urbaine de Kanata et était zoné « agricole »[10]. Il comportait une maison et quelques bâtiments agricoles. La société en commandite a aussitôt loué à bail le terrain à M. Moore, au prix de 600 $ par mois. Ce loyer a été payé jusqu’à la fin de 1995, quand il a été réduit à 1 $ par mois. Lors de son témoignage, l’appelant a déclaré que la société en commandite avait accordé cette réduction en échange du fait que M. Moore prolongeait l’hypothèque de 1,5 million de dollars[11].
+[17] La société en commandite a payé 200 000 $ sur l’hypothèque de 1,5 million de dollars pendant la durée du bail. Elle a acquitté le solde de l’hypothèque, soit 1,3 million de dollars, en avril 2007, lorsqu’elle a vendu les terrains Monarch[12].
+[18] Après avoir fait l’acquisition des terrains Brookfield et du terrain McKinley, le groupe McKinley a fait des démarches auprès de l’appelant et a tenté d’acheter le terrain Moore. Au final, le groupe McKinley a offert à l’appelant la somme de 500 000 $ pour obtenir le droit d’acheter le terrain Moore. L’appelant a rejeté cette offre et a plutôt acheté le terrain McKinley, d’une superficie de 88 acres, au prix de 1,95 million de dollars. L’appelant a signalé avoir acheté le terrain McKinley, parce que [traduction] « […] ce terrain se trouvait à côté, et nous avions juste l’impression que, si nous mettions la main dessus, cela ajouterait de la valeur à ce que nous faisions »[13].
+[19] La société en commandite a réglé le prix d’achat du terrain McKinley au moyen d’un paiement au comptant de 450 000 $ et d’une hypothèque de 1,5 million de dollars, à 8 % d’intérêt. Comme dans le cas de l’hypothèque sur le terrain Moore, l’hypothèque relative au terrain McKinley était entièrement ouverte et comportait le paiement mensuel des 8 % d’intérêt[14]. La société en commandite a payé intégralement l’hypothèque sur le terrain McKinley en 2000[15].
+[20] Le terrain McKinley se trouvait lui aussi à l’extérieur de la limite urbaine et il était zoné « agricole »[16]. Il n’y avait aucun bâtiment dessus. La société en commandite a loué le terrain McKinley à un parent de M. Moore au prix de 4 000 $ par année. Le locataire a cultivé ce terrain[17].
+[21] Selon le Contrat de société en commandite, la société en commandite avait également l’intention d’acquérir le droit de préemption de premier rang sur le terrain attenant situé à l’ouest du terrain Moore[18]. Apparemment, il s’agit du terrain Brookfield. L’appelant n’a pas expliqué à la Cour si la société en commandite avait tenté d’acquérir ce droit, ou si elle l’avait bel et bien fait.
+[22] La société en commandite a fait l’achat d’autres terrains. En août 1993, elle a acheté la troisième et dernière section des terrains Monarch, soit le terrain Crowe, d’une superficie de 12 acres, parce que cela [traduction] « faisait un seul bloc des terrains ». La société en commandite a payé le prix d’achat de 225 000 $ au comptant. Elle a emprunté la somme de 150 000 $ auprès du Groupe Investors en vue de financer l’achat[19]. La société en commandite a réglé entièrement l’hypothèque du Groupe Investors à la fin de 2002[20].
+[23] La société en commandite a loué à des tiers une maison située sur le terrain Crowe. Elle a touché au départ un loyer mensuel de 820 $, qui, à un certain moment, a été haussé à 900 $[21].
+[24] En résumé, en août 1993, la société en commandite avait fait l’acquisition de la totalité des terrains Monarch.
+[25] Au début de 1992, certains tiers, qui avaient fait l’acquisition des terrains en zone agricole attenants aux terrains Monarch, ont demandé à la société en commandite de participer aux demandes déposées auprès de la Ville de Kanata et de la Municipalité régionale d’Ottawa-Carleton afin d’obtenir que tous les terrains (y compris les terrains Monarch) soient situés à l’intérieur de la limite urbaine. La société en commandite a décidé de ne pas y participer[22].
+[26] Cependant, au début de 1994, la société en commandite a retenu les services d’un cabinet de consultation appelé Novatech en vue de préparer des demandes destinées à être présentées à la Ville de Kanata et à la Municipalité régionale d’Ottawa-Carleton afin que les terrains Monarch soient situés à l’intérieur de la limite urbaine. Les services d’un consortium de consultants ont été retenus au printemps ou à l’été de 1994[23].
+[27] Pendant que les consultants préparaient la demande de changement de zonage, la société en commandite a poursuivi son regroupement de terrains en concluant une entente relative à l’achat des terrains Calmar, d’une superficie de 150 acres. Contrairement aux terrains Monarch, les terrains Calmar étaient situés à l’intérieur de la limite urbaine[24], dans une zone industrielle[25]. Lors de son témoignage, l’appelant a déclaré que la société en commandite pouvait avoir accès à des conduites d’eau et d’égout à partir du côté est des terrains Calmar, des conduites qui étaient en mesure [traduction] d’« alimenter » la totalité des terrains WestPark. De plus, une zone des terrains Calmar, appelée la [traduction] « zone de drainage Monahan », drainait la totalité des terrains WestPark[26].
+[28] Comme j’en discuterai plus loin dans mes motifs, il m’a été présenté des éléments de preuve contradictoires à propos du moment où les terrains Calmar avaient été achetés. En me fondant sur le témoignage de l’appelant ainsi que sur les éléments de preuve documentaire objectifs qui m’ont été présentés, j’ai conclu que la société en commandite avait acheté les terrains Calmar en 1995. Ce qui n’est pas clair, c’est si la société en commandite a fait l’acquisition des terrains au début de 1995[27] ou en octobre/novembre 1995[28].
+[29] Lors de son témoignage, l’appelant a déclaré que la société en commandite avait acheté les terrains Calmar auprès d’Arthur Andersen, qui les détenait à titre de syndic de faillite. Il n’a pas signalé à la Cour quel était le prix d’achat réel, mais il semble se situer entre 850 000 $ et 900 000 $. La société en commandite a réglé le prix d’achat au moyen d’un paiement au comptant de 50 000 $ et d’une hypothèque acquisitive de [traduction] « 800 et quelque mille dollars », à 2 % d’intérêt[29].
+[30] En juillet 1996, la société en commandite a déposé la demande de changement de zonage que Novatech et les autres consultants avaient établie. Cette demande visait à faire déplacer la limite urbaine de Kanata de façon à ce qu’elle englobe les terrains Monarch et la plupart des Terrains avoisinants[30]. Un long document, appelé [traduction] « Rapport sur le plan directeur du projet WestPark » (le « Plan directeur du projet WestPark ») exposait la justification de cette demande. Le plan incorporait la totalité des terrains WestPark, et, plus précisément, les terrains Monarch, les Terrains avoisinants et les terrains Calmar[31].
+[31] Le plan directeur du projet WestPark faisait état d’une proposition relative à l’implantation d’une [traduction] « collectivité électronique » à usage mixte. L’idée était de combiner des lieux d’habitation, des boutiques, des installations communautaires et des espaces publics avec des lieux de travail et des établissements d’enseignement et de recherche. Les concepts clés étaient la disponibilité de technologies électroniques et la création d’une collectivité dans laquelle les résidents travailleraient à domicile ou dans des installations infotechnologiques à proximité immédiate[32].
+[32] La Ville de Kanata a rejeté la demande le 20 mai 1997[33]. Après ce refus, les parties ont retiré la demande identique qu’elles avaient présentée à la Municipalité régionale d’Ottawa-Carleton[34].
+[33] Il semble que la société en commandite n’ait rien fait d’autre pour mettre en valeur les terrains Monarch avant le début de l’année 2001. Au cours de cette période, elle a semblé concentrer son attention sur les terrains Calmar. Elle a vendu 11 acres de ces derniers à un tiers le 11 décembre 1998, au prix d’environ 26 000 $ l’acre[35], ainsi qu’une autre section de 11,5 acres le 10 juin 1999, au prix d’environ 65 000 $ l’acre[36]. L’appelant a fait remarquer qu’entre les mois d’octobre 1997 et de novembre 2001, la société en commandite avait reçu de nombreuses offres de la part de tiers en vue d’acheter d’autres parcelles des terrains Calmar. Ces offres se sont échelonnées de 17 800 $ l’acre en 1997 à 120 000 $ l’acre en 2001[37].
+[34] Le 30 avril 2001, la société en commandite a présenté une fois de plus sa demande de changement de zonage en vue de faire entrer à l’intérieur de la limite urbaine les terrains Monarch et la plupart des Terrains avoisinants. Les parties ont déposé de nouveau le Plan directeur du projet WestPark qu’elles avaient mis au point pour la demande déposée en 1996. Elles ont présenté la demande à la Ville d’Ottawa, à laquelle avait été fusionnée la Ville de Kanata[38]. Lors de son témoignage, l’appelant a déclaré que cette deuxième demande a été faite pour coïncider avec des demandes semblables de la part des propriétaires du terrain Brookfield (les terres agricoles situées à l’ouest des terrains Monarch) et du propriétaire des terres agricoles situées au nord des terrains Monarch (appelées [traduction] « terres Tridel »).
+[35] En 2003, la Ville d’Ottawa a rejeté les demandes déposées en rapport avec les terrains Monarch, les Terrains avoisinants, le terrain Brookfield et les terres Tridel. Toutes les parties ont porté en appel les décisions de la Ville auprès de la Commission des affaires municipales de l’Ontario (la « CAMO »). La CAMO a par la suite joint les appels en un seul[39].
+[36] En attendant que la CAMO instruise son appel, la société en commandite a fait changer le zonage industriel d’une partie des terrains Calmar qu’elle possédait encore pour une catégorie de zonage appelée [traduction] « zone d’encouragement des entreprises ». Cette nouvelle zone permettait de procéder à des travaux d’aménagement résidentiel sur les terrains. L’appelant n’a pas parlé du changement de zonage des terrains Calmar, contrairement à l’un de ses témoins, M. Shotten[40].
+[37] Après que la société en commandite eut obtenu le changement de zonage, elle a vendu une participation de 50 % dans les 125 acres des terrains Calmar qu’elle possédait encore à un certain nombre d’entreprises contrôlées par la famille Cavanagh (appelées conjointement les « entreprises Cavanagh »). Lors de son témoignage, l’appelant a déclaré que la société en commandite avait besoin des ressources et des compétences de ces entreprises pour pouvoir mettre en valeur les terrains[41].
+[38] Le 30 novembre 2004, les parties ont conclu une entente prévoyant la vente par la société en commandite, au prix de 5 millions de dollars, de 50 % de sa participation dans les terrains Calmar. Elle a ensuite conclu une entente de mise en valeur en coentreprise avec l’une des entreprises Cavanagh (la « coentreprise »). Les parties ont convenu de tout mettre en œuvre pour vendre dans les meilleurs délais les terrains visés par la coentreprise, avec un volet résidentiel le plus large possible. Elles ont également convenu qu’une autre entreprise Cavanagh aurait le droit de fournir, moyennement le paiement de certains frais, tous les services nécessaires à la mise en valeur et à la vente des terrains[42].
+[39] Le 11 août 2005, la CAMO a rendu sa décision : la limite urbaine serait élargie de manière à inclure les terrains Monarch, les Terrains avoisinants, le terrain Brookfield et les terres Tridel[43].
+[40] Peu après que la CAMO eut rendu sa décision, la société en commandite a reçu de la société Monarch une offre d’achat concernant les terrains Monarch. Elle l’a déclinée[44].
+[41] Entre les mois de janvier et de juillet 2006, la société en commandite et les entreprises Cavanagh ont vendu une part importante des terrains Calmar visés par la coentreprise à un certain nombre de constructeurs de maisons.
+[42] Le 19 décembre 2006, la société en commandite a conclu une entente en vue de vendre les terrains Monarch à la société Monarch au prix de 24 millions de dollars. La vente a été conclue le 11 avril 2007[45].
+La crédibilité de l’appelant
+[43] Selon moi, l’appelant n’a pas été un témoin digne de foi. Je crois qu’il a été très sélectif dans ce qu’il a dévoilé sur les activités de la société en commandite, surtout en rapport avec les terres WestPark. De plus, à plusieurs reprises, les éléments de preuve objectifs que la Cour avait en main ont contredit son témoignage verbal. En voici deux exemples.
+[44] Au début de son interrogatoire principal, l’appelant a déclaré que, bien que les terrains Monarch aient été situés à l’extérieur de la limite urbaine, il était quand même possible de s’en servir pour certaines activités autres que l’agriculture. La société en commandite, a-t-il déclaré à la Cour, avait étudié la possibilité d’affecter une partie des terres à trois des usages censément autorisés : un cimetière, un ciné-parc et un terrain d’exercice pour golfeurs[46]. En contre-interrogatoire, l’avocat de l’intimée a mis en doute ce que l’appelant a déclaré sur ce point. Il a produit un document intitulé [traduction] « Plan officiel de la Municipalité régionale d’Ottawa-Carleton », où il est prévu que les terrains, tels que les terrains Monarch, qui sont situés dans une zone agricole ne peuvent être utilisés à aucune des fins mentionnées par l’appelant[47].
+[45] Après que j’eus entendu les témoins de l’appelant, les parties ont présenté à la Cour un exposé conjoint partiel des faits. D’après le paragraphe 2 de ce document, les usages suivants n’étaient pas autorisés sur les terrains Monarch : cimetière, ciné-parc et terrain d’exercice pour golfeurs.
+[46] À l’époque où l’appelant a fait l’acquisition des terrains Monarch, il était un avocat chevronné, spécialisé en immobilier. J’ai bien de la difficulté à croire qu’au moment où il a fait l’acquisition des terrains Monarch pour le compte de la société en commandite, il ignorait les usages permis des terrains. De plus, je rejette l’idée qu’il aurait donné suite à l’idée de recourir à certains usages, comme un cimetière, un ciné-parc ou un terrain d’exercice pour golfeurs, sans rechercher d’abord s’il s’agissait d’usages permis. Son témoignage sur ce point nuit à sa crédibilité et met en doute la question de savoir si, en réalité, la société en commandite avait bel et bien envisagé de recourir à ces autres usages.
+[47] Bien plus dommageable pour l’appelant a été son témoignage sur l’acquisition des terrains Calmar. Le premier jour de son interrogatoire principal, il a exposé de manière assez détaillée comment il en était venu à les acheter pour le compte de la société en commandite. Il a déclaré qu’en septembre ou en octobre 1997, après que la Ville de Kanata eut rejeté la demande de changement de zonage, il avait reçu un appel d’une personne qui était au service d’Arthur Andersen. Cette personne lui aurait dit qu’Arthur Andersen [traduction] « allait se débarrasser des terrains [Calmar] et que, parce que nous avions travaillé ensemble sur le projet WestPark, il voulait me donner en premier la chance de les obtenir ». Lors de son témoignage, l’appelant a déclaré qu’il avait ensuite pris l’avion pour Toronto et qu’il avait négocié l’achat des terrains Calmar pour le compte de la société en commandite. Il a fait remarquer qu’il avait acheté ces terrains [traduction] « afin de pouvoir préserver le concept du projet WestPark » [48].
+[48] Le témoignage de l’appelant sur cet achat a été très détaillé; il semble toutefois que les faits, tels qu’il les a exposés, n’ont tout simplement pas eu lieu. Lors d’un témoignage principal additionnel, il a donné de nombreux exemples de propositions que la société en commandite et certains tiers avaient faites en vue de la construction d’immeubles locatifs commerciaux sur les terrains Calmar[49]. L’un de ces exemples avait trait à une proposition, faite en février 1996, au sujet de la construction d’une installation de fabrication de microprocesseurs sur les terrains Calmar[50].
+[49] Les tiers ont présenté cette proposition à l’appelant plus d’un an et demi avant la date d’achat d’octobre 1997 qui avait été signalée plus tôt à la Cour en rapport avec les terrains Calmar. Quand ce fait a été porté à son attention, l’appelant a raconté à la Cour une nouvelle histoire à propos de l’acquisition de ces terrains. Il a déclaré, lors de son témoignage, que la société en commandite avait conclu une entente d’achat et de vente avec Arthur Anderson en rapport avec les terrains Calmar au début de 1995, et non en septembre/octobre 1997, soit la date indiquée plus tôt à la Cour. Arthur Anderson, à titre de syndic de faillite, avait besoin de l’accord d’un tribunal pour vendre les terrains. L’appelant a déclaré qu’il avait fallu attendre deux ans avant d’obtenir cet accord et que l’opération avait été conclue le 30 octobre 1997[51].
+[50] Le témoignage de l’appelant sur l’acquisition des terrains Calmar a anéanti sa crédibilité, déjà ébranlée. Premièrement, il a raconté avec force détails de quelle façon la société en commandite, soucieuse de protéger le projet WestPark, avait acheté les terrains après que la Ville de Kanata eut rejeté la demande de changement de zonage. Cependant, après qu’il eut produit les éléments de preuve contradictoires, il est devenu évident que cette histoire ne reflétait pas ce qui s’était vraiment passé; il avait négocié le droit d’acheter les terrains deux ans plus tôt, avant même que la société en commandite soumette à la Ville la demande de changement de zonage.
+Le témoin expert
+[51] J’ai entendu un seul témoin expert, M. Pierre Dufresne. Il a fait part de son opinion quant à savoir si la société en commandite, pendant la période où elle était propriétaire des terrains Monarch et des terrains Calmar, s’était occupée de ces terrains [traduction] « de la [même] façon que l’aurait fait une personne active dans le secteur de l’aménagement foncier ».
+[52] M. Dufresne a émis l’opinion que la société en commandite ne s’était pas occupée des terrains de la même façon que l’aurait fait une personne active dans le secteur de l’aménagement foncier.
+[53] Je considère que, pour en arriver à ma décision, l’opinion de M. Dufresne n’a pas été utile.
+[54] Son opinion repose sur huit pages de faits présumés, qui n’incluent pas la totalité des faits pertinents dont j’ai été saisi. De plus, dans certains cas, ces faits présumés ne concordent pas avec les faits qui m’ont été présentés.
+[55] Mon deuxième doute a trait à l’opinion proprement dite. Le fait de savoir si la société en commandite a agi – ou non – de la même manière que l’aurait fait la personne hypothétique de M. Dufresne dans le secteur de l’aménagement foncier n’est pas déterminant pour la question qui m’est déférée. Il me faut rechercher si la société en commandite et l’appelant ont acheté les terrains Monarch dans l’intention de revendre les terres.
+Les thèses des parties
+[56] L’avocat de l’appelant a soutenu que la société en commandite (et l’appelant) avait toujours détenu les terrains Monarch à titre de bien en capital. Son argument était fondé sur l’affirmation, maintes fois répétée, de l’appelant selon laquelle ce dernier avait l’intention de bâtir sur les terrains Monarch des [traduction] « unités locatives de vie/de travail dotées d’une infrastructure à l’épreuve du temps »[52].
+[57] L’avocat de l’appelant a déclaré que la société en commandite n’exploitait pas une entreprise d’aménagement foncier en rapport avec les terrains Monarch. L’appelant, a-t-il fait remarquer, avait toujours classé ces terrains comme un élément d’actif, plutôt que comme un élément de stock. À son avis, la société en commandite entendait exploiter deux entreprises : [traduction] « des unités locatives branchées » sur les terrains Monarch, ainsi qu’une entreprise générant un flux de recettes grâce à la technologie, comme la transmission de données électroniques par fibre optique. De plus, l’appelant et la société en commandite n’avaient pas pour motivation déterminante ou intention secondaire de revendre les terrains.
+[58] Subsidiairement, l’appelant a fait valoir que, si les terrains Monarch n’étaient pas un bien en capital au moment de leur acquisition, ils le sont devenus le 6 avril 2005, date à laquelle il y a eu un changement d’intention.
+[59] L’intimée est d’avis que la société en commandite et l’appelant ont toujours eu l’intention de revendre les terrains Monarch. Elle soutient qu’il s’agit là de l’intention qu’avait l’appelant au moment où il a acheté les terrains pour le compte de la société en commandite et que cette intention n’a pas changé entre le moment où les terrains ont été acquis et celui où ils ont été vendus.
+[60] Les avocats de l’appelant et de l’intimée ont fait valoir que la Cour se devait de rechercher quelle était l’intention de la société en commandite à l’époque où elle avait fait l’acquisition des terrains Monarch.
+La vente des terrains Monarch était-elle à titre de revenu ou à titre de capital?
+[61] La question de savoir si la vente d’un terrain vacant est à titre de capital ou à titre de revenu a été analysée par la jurisprudence à maintes reprises. Peu importe que je recherche si la société en commandite était engagée dans un projet comportant un risque ou des affaires de caractère commercial à l’égard des terrains Monarch ou si les terrains étaient détenus par la société en commandite dans le cadre d’une entreprise, le facteur le plus important qu’il me faut examiner est l’intention qu’avait l’appelant (et la société en commandite) à l’époque de l’achat des terrains Monarch.
+[62] En particulier, il me faut rechercher si l’appelant et la société en commandite avaient l’intention de conserver et d’utiliser les terrains Monarch à titre de placement en vue d’en tirer un revenu (le concept des « unités locatives branchées ») ou, sinon, de réaliser un profit par la vente de ces terrains.
+[63] Dans le traité intitulé Principles of Canadian Income Tax Law, les éminents auteurs Hogg, Magee et Li résument en ces termes la méthode qu’emploie la jurisprudence pour rechercher quelle était l’intention du contribuable dans les cas de ce genre :
+[traduction]
+Comment établir l’intention d’un contribuable? Dans l’ordre des choses, ce que dit de vive voix le contribuable sur son intention est intéressé et voué à être suspect, de sorte que la jurisprudence tend à se fonder principalement sur les faits objectifs qui entourent l’achat du bien, sur les opérations subséquentes ainsi que sur les circonstances de la vente pour déterminer si le contribuable a fait l’acquisition du bien à titre de placement ou à titre spéculatif[53].
+[64] Cela est particulièrement vrai dans les situations, telles que la présente, où l’on conclut que l’appelant n’est pas un témoin digne de foi.
+[65] Les éléments de preuve objectifs les plus pertinents que j’ai en main sont le contrat de société en commandite, la nature du bien, ainsi que les documents que la société en commandite a déposés avec la demande de changement de zonage. Voyons tout d’abord le contrat de société en commandite.
+[66] Le libellé du contrat de société en commandite milite dans le sens de la conclusion portant que l’intention de l’appelante et des autres commanditaires, à l’époque de l’achat des terrains Monarch, était de revendre ces derniers à profit une fois que le changement de zonage avait été obtenu et que la valeur des terrains avait augmenté. Plus précisément, le paragraphe 1.03 du contrat de société en commandite stipule :
+[traduction]
+1.03 La Société est établie à seule fin d’acquérir une participation dans les deux parcelles décrites à l’annexe « B » […] de même que le droit de préemption de premier rang sur le terrain attenant situé à l’ouest des terres, ainsi que de mettre en valeur la totalité ou une partie de ces terres et de prendre à leur égard les mesures nécessaires en vue d’en disposer à profit[54].
+[Non souligné dans l’original.]
+[67] Cette intention ressort aussi de l’annexe C du contrat de société en commandite, où il est question des coûts mensuels de cette dernière; on peut y lire, en partie :
+[traduction]
+La commanditée recevra pour ses services un montant fixe de 3 000 $ par mois jusqu’à ce que l’ébauche du plan soit approuvée, et tout sera mis en œuvre pour obtenir ce résultat le plus tôt possible. À ce moment, la décision de conserver les terrains et de leur laissera prendre de la valeur ou, sinon, de les vendre sera prise[55].
+[Non souligné dans l’original.]
+[68] Dans le contrat de société en commandite, rien n’est stipulé à propos de la construction, sur les terrains Monarch, d’unités locatives à louer à des tiers.
+[69] Lors de son témoignage, l’appelant a tenté de minimiser l’importance de ce texte, laissant entendre qu’il avait fondé le contrat de société en commandite sur un document intérieur et que ce texte ne reflétait pas l’intention véritable des parties[56]. Je ne retiens pas le témoignage de l’appelant sur ce point. À l’époque où il avait ébauché cette entente, l’appelant exerçait depuis 17 ans la profession d’avocat spécialisé en immobilier. Je ne peux pas croire qu’il n’aurait pas porté attention au libellé d’un contrat de société qui portait sur un achat immobilier de 4 millions de dollars mettant en cause une douzaine de personnes. De plus, comme on le verra, le texte du contrat de société en commandite qui est cité ci-dessus concorde avec les autres éléments de preuve objectifs qui m’ont été présentés.
+[70] Voyons maintenant la nature des terrains Monarch.
+[71] À l’époque où la société en commandite a fait l’acquisition des terrains Monarch, ces derniers étaient situés juste à l’extérieur de la limite urbaine, dans un secteur faisant l’objet d’importantes spéculations. Quand l’appelant a acheté les terrains Monarch pour le compte de la société en commandite, il savait que d’autres promoteurs avaient acheté les terrains environnants, qui étaient situés, eux aussi, à l’extérieur de la limite urbaine.
+[72] Une situation que l’appelant a vécue au moment de faire l’acquisition des terrains Monarch témoigne clairement du caractère spéculatif de ces terres : jusqu’avant d’acheter le terrain McKinley, l’appelant s’était fait offrir la somme de 500 000 $ pour le droit d’acheter le terrain Moore. Il avait fait l’acquisition de ce droit quelques mois plus tôt, au prix de 10 000 $ seulement.
+[73] À la fin de l’audience, l’appelant a reconnu le caractère spéculatif des terrains Monarch. Comme l’indique le paragraphe 5 de l’exposé conjoint partiel des faits (déposé à la fin de l’étape de présentation de la preuve lors de l’audience) :
+[traduction]
+En raison des possibilités à long terme de mettre en valeur le terrain Monarch dans le cadre d’une zone urbaine, l’utilisation optimale des terres, jusqu’au mois d’août 2005, était leur conservation à long terme à des fins spéculatives jusqu’à leur intégration à la zone urbaine du plan officiel.
+[74] Août 2005 est le mois où la CAMO a rendu sa décision favorable sur la demande de changement de zonage.
+[75] Le fait que les terrains Monarch n’ont généré que des recettes minimes est lui aussi important. Dans les cinq années qui ont suivi la date où elle a fait l’achat de ces terrains, la société en commandite a touché un revenu locatif annuel de 11 200 $, et ce, pour des terres dont elle avait fait l’acquisition au prix de 4 millions de dollars et pour lesquelles les frais de détention annuels s’élevaient à au moins 325 000 $[57].
+[76] L’emplacement des terrains, dans un secteur faisant l’objet de spéculations, de même que les recettes minimes qui en ont été tirées, étaye la conclusion selon laquelle l’accroissement des prix était ce qui motivait principalement la société en commandite à l’époque où elle a fait l’acquisition des terrains Monarch.
+[77] Les documents déposés avec la demande de changement de zonage font également état d’une intention de revendre les terrains Monarch.
+[78] La société en commandite a déposé deux documents importants auprès de la Ville de Kanata en 1996 et en 1997, dans le cadre de sa demande de changement de zonage : le Plan directeur du projet WestPark et l’étude sur la [traduction] « justification des possibilités qu’offre le projet WestPark (l’« Étude sur la justification du projet WestPark »)[58].
+[79] Le Plan directeur du projet WestPark décrit la création d’une collectivité « électronique » à usage mixte sur l’ensemble des terres Westpark. Cette collectivité s’articulerait autour d’un pôle situé sur la promenade Terry Fox, qui se composerait d’un campus universitaire d’une superficie de 20 acres ainsi que d’un centre commercial d’une superficie de 150 000 pieds carrés. Les terres adjacentes à la promenade Terry Fox accueilleraient un ensemble mixte de bâtiments résidentiels, commerciaux et à bureaux de deux à quatre étages[59].
+[80] Les terres situées à l’est de la promenade Terry Fox (les terrains Calmar et certains des Terrains avoisinants) seraient principalement destinées à un usage commercial[60].
+[81] Les terres situées à l’ouest de la promenade Terry Fox (les terrains Monarch et le reste des Terrains avoisinants) seraient destinées à des habitations[61], réparties en trois quartiers. Deux d’entre eux seraient dotés de [traduction] « centres de commodités » comme points de convergence et ils comprendraient des garderies, des églises et des écoles. Le troisième quartier aurait le pôle central comme point de convergence. Chacun des quartiers bénéficierait de 20 000 pieds carrés d’espace commercial pour des usages commerciaux locaux[62].
+[82] Le Plan directeur du projet WestPark indique que le secteur résidentiel serait constitué de 2 200 à 2 500 unités, ainsi que d’une population projetée de 6 500 à 7 500 personnes. Il y aurait à la fois des habitations à logements multiples et des habitations détachées, et 60 % d’entre elles seraient détachées[63]. Comme l’indique le Plan directeur du projet WestPark, [traduction] « chaque quartier se composera d’une combinaison de densités résidentielles, de types de propriété, de prix et de formes de construction, par souci d’abordabilité et de mixité sociale »[64].
+[83] Après avoir lu le Plan directeur du projet WestPark, je conclus qu’il prévoit la vente de la majeure partie des terres WestPark, notamment le secteur résidentiel, qui englobe la totalité des terrains Monarch. L’Étude sur la justification du projet WestPark corrobore ma conclusion[65].
+[84] Dans la section de l’Étude sur la justification du projet WestPark qui s’intitule [traduction] « Analyse du marché », les auteurs tentent de déterminer qui achèterait des maisons dans un projet tel que WestPark :
+[traduction]
+Par conséquent, le marché que le concept de WestPark intéresserait est fort probablement assez différent de la population générale dans son ensemble. Ce sont fort probablement les « innovateurs » et les « adopteurs précoces » (16 % des acheteurs) qui achèteront une maison dans un projet novateur de collectivité intégrée tel que WestPark[66].
+[Non souligné dans l’original.]
+[85] Les auteurs estiment ensuite la taille générale du marché destiné aux habitations du projet WestPark :
+[traduction]
+- le chiffre estimatif de 2 200 maisons générées par WestPark, divisé par une période de construction de 10 ans, donne 220 unités d’habitation par année;
+- 220 divisé par 16 % égale 1,375.
+Il faut donc que le marché régional dans lequel est situé le projet WestPark génère au moins 1,375 vente de maisons neuves par année[67].
+[86] L’Étude sur la justification du projet WestPark repose sur la présomption selon laquelle les demandeurs bâtiraient 2 200 maisons résidentielles sur les terres WestPark (qui englobent la totalité des terrains Monarch) en vue de les vendre à des tiers. Cela prouve de manière très objective que l’appelant et la société en commandite avaient l’intention de vendre les terrains Monarch si la Ville changeait le zonage.
+[87] En résumé, il ressort clairement des éléments de preuve objectifs dont je dispose que l’appelant et la société en commandite ont acheté les terrains Monarch dans l’intention de revendre les terres une fois que celles-ci se trouveraient à l’intérieur de la limite urbaine.
+[88] Le contrat de société, le Plan directeur du projet WestPark ou l’Étude sur la justification du projet WestPark, sont muets à propos du fait que la société en commandite se servirait des terres (dont les terrains Monarch) exclusivement à des fins locatives. Cette omission dans le Plan directeur sur le projet WestPark et dans l’Étude sur la justification du projet WestPark fragilise nettement la thèse de l’appelant, car la société en commandite avait besoin de l’accord de la Ville pour pouvoir bâtir des unités locatives[68].
+[89] De plus, lors de son témoignage, l’appelant a déclaré qu’aucune étude de faisabilité n’avait été établie en rapport avec des bâtiments locatifs[69]. En fait, l’appelant n’a fourni à la Cour aucun document de planification concernant les 2 200 unités locatives que, selon lui, la société en commandite avait l’intention d’ériger sur les terrains Monarch. Le témoignage de vive voix de l’appelant est la seule preuve que la société en commandite avait l’intention d’utiliser ces terrains exclusivement pour y bâtir des unités locatives. Il s’agissait là d’un élément preuve verbal de la part d’un témoin que je n’ai pas trouvé digne de foi et dont le témoignage sur ce point ne concordait pas avec les éléments de preuve objectifs dont je disposais.
+La thèse subsidiaire de l’appelant
+[90] L’appelant soutient, subsidiairement, que si l’on ne considère pas que les terrains Monarch étaient un bien en capital au moment de leur acquisition, ils le sont devenus le 6 avril 2005, quand il y a eu un changement d’intention.
+[91] L’avocat de l’appelant a fait valoir que l’intention de la société en commandite a changé lors d’une réunion, le 6 avril 2005, que l’appelant a tenue avec de hauts fonctionnaires de la Ville d’Ottawa, dont le maire. L’appelant est d’avis qu’au cours de cette réunion, lui-même (et la société en commandite) s’est engagé à adopter un [traduction] « concept de collectivité branchée » formé d’[traduction] « unités locatives branchées » ainsi que d’une infrastructure à fibre optique connexe sur les terrains Monarch.
+[92] L’avocat de l’appelant a fait valoir que c’était là l’une des raisons pour lesquelles, entre les mois de janvier et de juillet 2006, les parties à la coentreprise avaient conclu les ententes relatives à la vente d’une part importante des terrains Calmar aux constructeurs de maisons. Il a soutenu que, par suite de cette vente, la société en commandite avait subi une perte de 2,3 millions de dollars.
+[93] Les éléments de preuve dont je dispose ne vont pas dans le sens de la thèse subsidiaire de l’appelant.
+[94] En premier lieu, lors de son témoignage, l’appelant a déclaré que, après la réunion avec les représentants de la Ville d’Ottawa, il espérait qu’on bâtisse quelques unités locatives sur les terrains Calmar. Il savait toutefois que la Ville n’autoriserait la construction que de quelques-unes. Il espérait que [traduction] « la version initiale du plan directeur du projet WestPark s’appliquerait au reste du projet »[70].
+[95] Le problème pour l’appelant, c’est que, comme je l’ai mentionné plus tôt, le Plan directeur du projet WestPark envisageait la construction de 2 200 maisons à revendre sur les terrains Monarch et les portions pertinentes des Terrains avoisinants. En bref, en déclarant qu’il avait l’intention de suivre le Plan directeur sur le projet WestPark, l’appelant dit que son intention n’a pas changé après la réunion avec les représentants de la Ville d’Ottawa.
+[96] Lors de son témoignage, l’appelant a également déclaré que l’on bâtirait les unités locatives sur les terrains Monarch ainsi que des maisons résidentielles unifamiliales sur le terrain Van Doormaal. Il n’a prduit aucun élément de preuve documentaire à l’appui de cette affirmation, laquelle, de plus, ne concorde pas du tout avec le Plan directeur du projet WestPark.
+[97] M. McGuinty, le consultant de l’appelant qui avait organisé la réunion avec les représentants de la Ville d’Ottawa et qui y avait assisté, a déclaré lors de son témoignage que le concept portait sur quelques unités locatives, quelques propriétés résidentielles et quelques bâtiments commerciaux ou de vente au détail à usage mixte. Il a également déclaré que la Ville imposait des limites au nombre d’unités locatives qu’il était possible de bâtir dans un secteur donné.[71].
+[98] Au vu des éléments de preuve qui m’ont été présentés, je conclus que le seul engagement que l’appelant avait pris à la réunion avec les représentants de la Ville d’Ottawa était de garantir que l’on installerait une infrastructure à fibre optique sur les terres de WestPark afin de pouvoir offrir la [traduction] « fibre à la porte ». Il ne s’était pas engagé à construire uniquement des unités de logement locatives sur les terrains Monarch.
+[99] Je ne vois pas clairement l’importance qu’a la thèse de l’appelant selon laquelle la vente des terres Calmar aux constructeurs en 2006 avait résulté en une perte de 2,3 millions de dollars[72]. L’appelant n’a fourni aucun tableau montrant comment cette perte avait été calculée, mais, lors de son témoignage, il a déclaré qu’il prenait pour base les recettes réalisées dans les ententes déposées en tant que pièces A-69 à A-72. Ces ententes font état d’une contrepartie totale (y compris celle qui s’applique à un certain nombre d’options) de 33,6 millions de dollars[73]. Cependant, entre les mois d’octobre 2008 et de juillet 2011, les parties ont renégocié ces ententes, et la contrepartie totale a augmenté à 55,9 millions de dollars[74]. Même en postulant que la société en commandite a essuyé une perte de 2,3 millions de dollars sur un prix de vente de 33,6 millions de dollars (ce que je n’admets pas, compte tenu des éléments de preuve minimes dont je dispose), je ne suis saisi d’aucun élément de preuve qui tendent à établir une conclusion que la société en commandite a subi une perte lorsque le prix de vente a augmenté de 33,6 millions de dollars à 55,9 millions de dollars.
+[100] L’avocat de l’appelant a également soutenu que ce n’était pas la décision que la CAMO avait rendue le 11 août 2005 qui avait déclenché la vente des terrains Monarch, mais plutôt une réunion, tenue le 20 novembre 2006, que l’appelant avait eue avec les propriétaires des terres Brookfield et Tridel.
+[101] L’appelant a déclaré lors de son témoignage que cette réunion était à l’origine de la décision de vendre, et ce, pour le motif suivant :
+[traduction]
+Et bien, ils m’ont dit pour la première fois que l’idée d’offrir la fibre optique à domicile, dans le cadre du processus du PCC [Plan de conception de la collectivité], ne les intéressait pas. À ce stade, le fait qu’ils n’allaient pas collaborer avec moi, c’est-à-dire m’autoriser à installer la fibre optique sur leurs terres et détenir les servitudes appropriées, a tout à fait contrecarré mes plans[75].
+[102] Je ne dispose d’aucun élément de preuve portant que, avant le mois de novembre 2006, le plan qu’avait la société en commandite d’installer une infrastructure à fibre optique sur les terres de WestPark était subordonné à l’acceptation des propriétaires les propriétaires des terres Brookfield et Tridel de l’installation d’une telle infrastructure sur leurs terres. Le Plan directeur du projet WestPark ne dit rien à propos de cette collaboration. De plus, il n’existe aucun élément de preuve portant que l’appelant a fait mention de cet aspect quand il a fait part de son engagement à l’égard du concept de la « fibre à la porte » aux fonctionnaires de la Ville d’Ottawa.
+[103] En fait, son témoignage sur cette question ne concorde pas avec son témoignage selon lequel l’une des raisons pour lesquelles il avait acheté les terrains Calmar était de faire en sorte que la fibre optique destinée à l’ensemble du projet de WestPark traverse ces terrains[76]. De plus, il a déclaré qu’une des raisons pour lesquelles il avait vendu la portion, d’une superficie de 11 acres, des terrains Calmar en décembre 1998 était que cela lui permettrait de dire qu’il y avait de la fibre « à la porte » de WestPark[77].
+Sommaire
+[104] Je suis d’avis, en me fondant principalement sur les éléments de preuve objectifs dont je dispose, que la société en commandite a acheté les terrains Monarch dans l’intention de revendre les terres à profit une fois que celles-ci se trouveraient à l’intérieur de la limite urbaine. Je conclus également que la société en commandite a vendu les terrains Monarch dans le cadre de son entreprise consistant à acheter et à vendre des terres.
+[105] Ma conclusion selon laquelle la société en commandite exploitait une entreprise d’achat et de vente de terres est fondée sur les activités qu’elle a menées entre 1990 et 2006, dont les suivantes :
+- Entre 1990 et 1995, la société en commandite a fait l’acquisition de 350 acres de terres, soit à l’intérieur soit à la limite d’un secteur résidentiel en expansion, qui faisait l’objet d’importantes spéculations.
+- En 1994, la société en commandite a retenu les services d’un consortium de consultants en vue d’établir une demande de changement de zonage.
+- En 1996, dans l’année suivant l’achat des 350 acres de terres, la société en commandite a déposé une demande de changement de zonage afin d’essayer de faire entrer les terrains Monarch à l’intérieur de la limite urbaine. Les documents détaillés qui faisaient partie de la demande envisageaient que les demandeurs bâtiraient 2 200 maisons résidentielles sur les terrains Monarch et sur une partie des Terrains avoisinants, en vue de les vendre à des tiers.
+- En 1998 et en 1999, la société en commandite a vendu deux parcelles de ses terres.
+- Au début de l’année 2001, la société en commandite a déposé de nouveau sa demande de changement de zonage.
+- En 2003, la société en commandite a porté en appel le refus de sa seconde demande de changement de zonage auprès de la CAMO.
+- À un certain moment au cours des années 2003 et 2004, la société en commandite a fait en sorte que l’on change le zonage des terrains Calmar de façon à faire augmenter l’aménagement résidentiel permis sur les terres.
+- En novembre 2004, la société en commandite a vendu une participation de 50 % dans les terrains Calmar et elle a conclu un contrat de coentreprise avec l’acheteur de cette participation de 50 %. La société en commandite a convenu de vendre les terres dans les meilleurs délais, avec un élément résidentiel le plus large possible.
+- En août 2005, la CAMO a rendu une décision portant que la limite urbaine devait être repoussée de manière à ce qu’elle englobe les terrains Monarch.
+- Entre les mois de janvier et de juillet 2006, la société en commandite a vendu une part importante de sa participation de 50 % dans les terrains Calmar.
+- En décembre 2006, la société en commandite a vendu les terrains Monarch.
+[106] À mon avis, la combinaison de ces activités est la preuve d’exploitation d’une entreprise. Pendant la période en cause, la société en commandite était engagée dans une opération continue dont l’objet était la vente et l’achat de terres à profit.
+Le deuxième point en litige
+[107] Le deuxième point en litige a trait à la question de savoir si l’appelant a reçu un montant en contrepartie de services liés à la vente des terrains Monarch, ou en contrepartie de la prestation de services de représentation. Il n’est nul besoin que j’analyse cette question, puisque j’ai décidé que le gain qu’ont réalisé la société en commandite et l’appelant sur la vente des terrains Monarch était à titre de revenu.
+[108] Par les motifs qui précèdent, l’appel est rejeté, avec dépens en faveur de l’intimée. Elle a 30 jours pour déposer des observations auprès de la Cour, si elle estime que cette dernière doit adjuger des dépens supérieurs aux valeurs du tarif. Ces observations doivent être d’une longueur maximale de 30 pages. L’appelant aura un délai de 30 jours pour déposer une réponse (d’une longueur maximale de 30 pages), et l’intimée aura ensuite 10 jours pour déposer une réplique (d’une longueur maximale de 10 pages) à la réponse de l’appelant.
+Signé à Ottawa, Canada, ce 4e jour de novembre 2013.
+« S. D’Arcy »
+Juge D’Arcy
+Traduction certifiée conforme
+Ce 10e jour de mars 2014
+François Brunet, réviseur
+ANNEXE 1
+TRADUCTION
+Trans Canada trail = Sentier transcanadien
+(Former rail line) = (ancienne voie ferroviaire)
+Terry Fox Drive = Promenade Terry Fox
+Fernbank Road = Chemin Fernbank
+Cope Drive = Promenade Cope
+Monaghan Drain = Zone de drainage Monaghan
+Akerson Road = Chemin Akerson
+Cope Drive = Promenade Cope
+Michael Cowpland Drive = Promenade Michael Cowpland
+Kanata South Business Park = Parc d’affaires Kanata Sud
+Terrence Matthews Crescent = Croissant Terrence Matthews
+Eagleson Road = Chemin Eagleson
+LEGEND = LÉDENDE
+Monarch Property = terrains Monarch
+Moore = idem
+McKinley = idem
+Crowe = idem
+Neighbouring property = Terrains avoisinants
+VanDoormaal
+Van Gaal
+Terry Fox Drive/Urban Boundary* = Promenade Terry Fox/limite urbaine*
+Calmar Property = terrains Calmar
+KTI
+Centrefund
+Soho West = Soho Ouest
+*Avant la décision de la CAMO du 11 août 2005.
+RÉFÉRENCE : 2013 CCI 354
+No DU DOSSIER DE LA COUR : 2011-494(IT)G
+INTITULÉ : BRIAN WILLIAM KARAM c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Ottawa, Canada
+DATE DE L’AUDIENCE : Du 17 au 21, et les 24 et 26 juin 2013
+MOTIFS DU JUGEMENT : L’honorable juge Steven K. D’Arcy
+DATE DU JUGEMENT : Le 4 novembre 2013
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Robert McMechan
+Avocats de l’intimée :
+Me André LeBlanc
+Me Hong Ky (Eric) Luu
+AVOCATS INSCRITS
+AU DOSSIER :
+Pour l’appelant :
+Nom : Robert McMechan
+Avocat
+Cabinet : 28, Glengarry Road
+Ottawa (Ontario) K1S 0L5
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] En fait, le témoignage s’est étendu sur six jours, mais, dans le cas de deux d’entre eux, j’ai ajourné l’audience dans la matinée, car les témoins de l’appelant n’étaient pas disponibles.
+[2] Transcription, témoignage de Brian Karam, pages 31 à 40.
+[3] Voir les pièces A-6 et A-8.
+[4] Voir la transcription aux p. 632 à 651 (témoignage de Margaret Watters), pages 652 à 658 (témoignage de Lawrence Greenspon), pages 658 à 666 (témoignage de Dominic Giampaolo), pages 690 à 694 (témoignage de Margret Tapp) et pages 698 à 701 (témoignage de Claudette Carson).
+[5] Pièce A-6, page 174.
+[6] Transcription, témoignage de Brian Karam, pages 42 et 43 ainsi que 46 et 47.
+[7] Ibidem, page 59.
+[8] Ibidem, pages 61 et 62. Pièce A-2.
+[9] Transcription, témoignage de Brian Karam, pages 42 et 43 ainsi que 64 à 67.
+[10] Ibidem, page 130. Pièce A-1.
+[11] Transcription, témoignage de Brian Karam, pages 66 et 67.
+[12] Ibidem, pages 488 et 489.
+[13] Ibidem, pages 67 et 68.
+[14] Ibidem, pages 67 à 70.
+[15] Ibidem, page 488.
+[16] Ibidem, page 130. Pièce A-1.
+[17] Transcription, témoignage de Brian Karam, page 69.
+[18] Pièce A-6, page 174.
+[19] Transcription, témoignage de Brian Karam, pages 82 à 87.
+[20] Ibidem, page 488.
+[21] Ibidem, pages 86 et 87.
+[22] Ibidem, pages 92 à 94.
+[23] Voir les pièces A-18; A-21, page 1776; et A-22, page 1917. Transcription, témoignage de Brian Karam, pages 146 à 149.
+[24] Transcription, témoignage de Brian Karam, page 130, pièce A-1.
+[25] Ibidem, transcription, témoignage de Brian Karam, page 176.
+[26] Ibidem, page 178.
+[27] Ibidem, page 471.
+[28] Ibidem, pages 432 à 434.
+[29] Ibidem, pages 176 et 177.
+[30] Pièce A-22.
+[31] Pièces A-22 et A-21.
+[32] Voir, par exemple, la pièce A-21, pages 1768 à 1773.
+[33] Pièce A-26, page 1934.
+[34] Transcription, témoignage de Brian Karam, page 173.
+[35] Pièce A-41 (les terres KTI, soit le lot no 7 dans la pièce A-1).
+[36] Pièce A-42 (les terres Centrefund, soit le lot no 8 dans la pièce A-1).
+[37] Transcription, témoignage de Brian Karam, pages 180 à 202.
+[38] Pièce A-36.
+[39] Voir les pièces A-48 et A-50.
+[40] Transcription, témoignage de James Shotten, pages 765 à 767.
+[41] Témoignage de Brian Karam, pages 313 à 319.
+[42] Pièces A-62 et A-63.
+[43] Pièce A-48.
+[44] Transcription, témoignage de Brian Karam, page 403.
+[45] Pièce A-81.
+[46] Transcription, témoignage de Brian Karam, pages 70 à 81.
+[47] Pièce R-1.
+[48] Transcription, témoignage de Brian Karam, pages 175 à 178.
+[49] Transcription, témoignage de Brian Karam, pages 427 à 460.
+[50] Pièce A-87.
+[51] Transcription, témoignage de Brian Karam, pages 432 à 434, 471 et 472.
+[52] Voir, par exemple : transcription, témoignage de Brian Karam, page 103.
+[53] Peter, W. Hogg, Joanne E. Magee et Jinyan Li, Principles of Canadian Income Tax Law, 7e éd. (Toronto : Carswell, 2010), pages 354 et 355.
+[54] Pièce A-6, page 174.
+[55] Ibidem, page 219.
+[56] Transcription, témoignage de Brian Karam, pages 94 à 100.
+[57] Pièce A-6, page 219.
+[58] Pièces A-21 et A-25.
+[59] Pièce A-21, pages 1782 et 1783.
+[60] Ibidem, pages 1780 et 1786.
+[61] Ibidem, pages 1768 à 1773 et 1780.
+[62] Ibidem, page 1783.
+[63] Ibidem, page 1784.
+[64] Ibidem.
+[65] Pièce A-25.
+[66] Ibidem, page 2009.
+[67] Ibidem, page 2010.
+[68] Transcription, témoignage de Brian Karam, pages 567 et 568.
+[69] Ibidem, page 522.
+[70] Ibidem, pages 332 et 333.
+[71] Transcription, témoignage de Brendan McGuinty, pages 789 à 791.
+[72] Transcription, témoignage de Brian Karam, pages 372 et 373.
+[73] Pièces A-69 à A-72.
+[74] Pièce A-74.
+[75] Transcription, témoignage de Brian Karam, page 400.
+[76] Ibidem, pages 197, 198, 554 et 555.
+[77] Ibidem, page 233.

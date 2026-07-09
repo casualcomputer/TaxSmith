@@ -1,0 +1,158 @@
+Title: Therrien c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28350/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-717-28350-therrien-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2007-11-19
+
+# Therrien c. La Reine
+
+- Citation: 2007 CCI 717
+- Decision date: 2007-11-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1935, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Therrien c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-11-19
+Référence neutre
+2007 CCI 717
+Numéro de dossier
+2007-2045(IT)I
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-2045(IT)I
+ENTRE :
+MANON THERRIEN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 19 novembre 2007, à Montréal (Québec).
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocate de l'intimée :
+Me Anne-Marie Boutin
+____________________________________________________________________
+JUGEMENT
+L'appel de la nouvelle détermination de prestation fiscale canadienne pour enfants, établie en vertu de la Loi de l'impôt sur le revenu relativement à l'année de base 2005, est rejeté selon les motifs du jugement ci‑joints
+Signé à Ottawa, Canada, ce 19e jour de décembre 2007.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Référence : 2007CCI717
+Date : 20071219
+Dossier : 2007-2045(IT)I
+ENTRE :
+MANON THERRIEN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx
+[1] Il s’agit d’un appel d’une nouvelle détermination du ministre du Revenu national (le « Ministre »), voulant que l’appelante ne soit pas admissible à recevoir les prestations fiscales canadiennes pour enfants relativement à Maximilian Baer.
+[2] Pour établir la nouvelle détermination à l’égard de l’année de base 2005, le Ministre s’est appuyé sur les faits décrits au paragraphe 5 de la Réponse à l’avis d’appel (la « Réponse ») comme suit :
+a) Maximilian Baer est un citoyen Allemand né le 18 septembre 1990;
+b) Dans le cadre d'un programme d'échange culturel, Maximilian Baer est venu habiter chez l'appelante pour l'année scolaire 2006‑2007;
+c) L'appelante n'a jamais eu la garde légale de Maximilian Baer.
+[3] L’appelante a admis ces trois allégués.
+[4] L’appelante a expliqué que sa famille était une famille d’accueil de jeunes étudiants étrangers dans le cadre d’une association dont le sigle est « ASSE » : American Scandinavian Student Exchange. Cette association agit au Québec sous l’égide des Programmes internationaux d’échanges étudiants.
+[5] Le coordonnateur de l’ASSE au Québec est monsieur Pierre Constantin. La représentante pour la région de Sherbrooke est madame Grace Benoit.
+[6] À l'audience, l’appelante a répété ce qu’elle a décrit dans son avis d’appel. À cet égard, je cite ses propos à partir de cet avis :
+[...] Nous avons accueilli un jeune de 15 ans le 9 août 2006 jusqu'au 4 juillet 2007 ce qui veut dire, qu'il habite sous notre toit onze mois. Il doit aller à l'école toute l'année scolaire et doit réussir son année secondaire IV (c'est un échange culturel). Ce qui veut dire qu'on doit l'inscrire à l'école, à ce qu'il ait de bonnes fréquentations, l'inscrire à des loisirs, le voyager au besoin, voir aux devoirs, santé, qu'il soit présent à ses cours, apprendre notre culture, notre langue française, le nourrir, faire découvrir notre pays, province et villes en voyageant, connaître nos lois, l'environnement. Nous sommes très conscients qu'on a pas la garde légale de cet enfant, mais nous devons prendre les responsabilités des parents ici au Québec. Cela demande autant de responsabilités que le nôtre. Nous sommes sa seule famille ici au Québec. Nous devons être là pour ses besoins à 100% comme un parent doit être envers son enfant. Nous vous demandons de bien réviser notre demande. Car nous avons déjà reçu des jeunes d'autres pays et le gouvernement nous a toujours soutenu.
+[...]
+[7] Elle affirme que jusqu’à ce qu’il y ait le présent refus d’accorder les prestations fiscales pour enfants, les familles d’accueil les ont toujours réclamées et reçues.
+[8] L’appelante produit en liasse plusieurs documents dont un émanant de ASSE Canada. Il s’agit d’une lettre adressée à la famille d’accueil, en date du 27 juillet 2006 et qui porte la signature de madame Monique Constantin.
+[9] Il y a deux paragraphes. Le deuxième paragraphe se lit ainsi :
+[...]
+Voici quelques documents qui vous seront nécessaires :
+[...]
+Pour votre demande de prestation fiscale canadienne pour enfants :
+– Le formulaire RC‑66 à compléter
+– Copie du Host Family Placement Form
+– Copie du passeport
+– Et vous devrez faire une photocopie du visa contenu dans le passeport de l'étudiant/e
+[...]
+[10] La formule RC‑66 est la formule de la demande de prestation fiscale canadienne pour enfants.
+[11] Un document produit par l’appelante est la quatrième page d’un texte rédigé par ASSE. Cette page contient deux éléments, le premier est « Règles de conduite des étudiants ASSE », le deuxième est « Accord entre ASSE et la famille d’accueil ». Cet accord a été signé par l’appelante et son conjoint le 30 janvier 2006 et par la représentante ASSE, madame Benoît, le 1er février 2006.
+[12] Cet accord se lit ainsi :
+ACCORD ENTRE ASSE ET LA FAMILLE D'ACCUEIL : Nous acceptons d'accueillir un étudiant étranger sous l'égide de ASSE et acceptons d'assister à une séance d'orientation avant l'arrivée de notre étudiant. Nous avons lu et compris les règles susmentionnées et acceptons de les appliquer. Nous acceptons de collaborer avec ASSE, ses représentants et reconnaissons que ASSE dispose de l'autorité finale pour toute décision concernant la discipline, les placements, la longueur du séjour ou le temps passé dans une région ainsi que les dates de départ et d'arrivée des étudiants. Nous savons également que si nous ne collaborons pas avec ASSE, l'étudiant peut être changé de famille ou même renvoyé chez lui. Si nous ne pouvons ou ne voulons plus poursuivre cette expérience d'accueil avec notre étudiant en raison de circonstances imprévues, nous nous engageons à prévenir ASSE dans les meilleurs délais afin de laisser à l'organisme le temps nécessaire pour assurer à l'étudiant un placement dans une famille qui lui conviendrait.
+[13] En contre-interrogatoire, l’appelante a admis qu’elle n’avait rien à payer pour Maximilian ni pour les frais de scolarité, s’il y en a, ni pour les fins de l’assurance-santé. Maximilian avait son propre argent de poche. Il avait sa propre assurance-santé. Il communiquait avec ses parents de façon régulière par ordinateur et téléphone. L’appelante a relaté qu’elle aurait payé 20$ pour un vaccin.
+[14] L’avocate de l’intimé a produit comme pièce I‑2 un extrait de renseignements pris du site Web de ASSE. Un paragraphe de cet extrait est intitulé : « Un investissement qui n’a pas de prix ». Ce texte mentionne qu’à part le gîte et le couvert, il n’y a pas d’autres obligations financières. Le paragraphe se lit ainsi :
+Un investissement qui n'a pas de prix.
+Si le coût d'accueillir un étudiant ASSE vous inquiète, rassurez‑vous; l'obligation financière est minimale. Vous ne faites que fournir le gîte et le couvert. De plus, votre étudiant peut partager une chambre avec un de vos enfants du même sexe qui est à peu près du même âge. Les étudiants ASSE payent leur transport et leurs assurance‑maladie et assurance‑responsabilité. L'argent de poche est la responsabilité de l'étudiant et de ses parents. La contribution la plus importante n'est pas d'ordre monétaire. Elle vient de votre coeur; c'est d'accueillir dans votre pays et dans votre foyer un étudiant que vous traiterez comme un véritable membre de votre famille.
+[15] Le document I‑3 est intitulé « Declaration of parental authority ». Il s'agit d'un document de Immigration et Communautés culturelles du Québec. Il y a la signature des parents et l'acceptation « to delegate custody, supervision and education », de leur fils à monsieur Pierre Constantin. Il y a deux affirmations relatives à cette délégation que les parents peuvent cocher. Je les cite :
+This delegation entails ensuring custody, supervision and education of this minor under conditions that are in the child's best interest and that respect the child's rights.
+This delegation entails covering all costs related to the minor child's stay in Quebec and ensuring custody, supervision and education under conditions that are in the child's best interest and that respect the child's rights.
+[16] La première affirmation a été cochée.
+[17] Accompagnant cette déclaration d'autorité parentale, il y a un autre document, intitulé « Déclaration de prise en charge d'un enfant mineur ». Cette déclaration a été signée par monsieur Constantin qui s'engage « [...] par la présente à assurer la garde, la surveillance et l'éducation de cet enfant mineur dans des conditions d'accueil qui sont dans son intérêt et le respect de ses droits. »
+[18] La pièce I‑4 est un certificat de responsabilité financière signé par les parents allemands de Maximilian. Ils s’engagent à fournir à leur enfant une somme de 1 500 $ pendant son séjour au Canada.
+[19] Madame Oriana Leon, agente au Ministère de l’immigration du Québec a témoigné à la demande de l’avocate de l’intimée. Elle a parlé d’une délégation d’autorité morale. Quand des parents étrangers envoient un enfant mineur étudier au Québec, les parents doivent donner une délégation d’autorité morale à une personne au Canada qui soit résident permanent ou citoyen canadien. Au sujet de la pièce I‑3, « Délégation d’autorité parentale », elle a dit qu’il s’agissait d’une délégation d’autorité parentale morale signée par les deux parents, donnée à monsieur Pierre Constantin, directeur du programme d’échange ASSE. S’il y a un problème avec le mineur, cette personne fera le lien entre le ministère et la famille biologique. Le ministère ne connaît pas les familles d’accueil.
+Analyse et conclusion
+[20] Pour les fins de la prestation fiscale canadienne pour enfants, les définitions de « particulier admissible » et de « personne à charge admissible », pour leur partie pertinente, se lisent ainsi à l’article 122.6 de la Loi de l’impôt sur le revenu (la « Loi ») :
+« particulier admissible » S'agissant, à un moment donné, du particulier admissible à l'égard d'une personne à charge admissible, personne qui répond aux conditions suivantes à ce moment :
+a) elle réside avec la personne à charge;
+b) elle est la personne -- père ou mère de la personne à charge -- qui assume principalement la responsabilité pour le soin et l'éducation de cette dernière;
+[...]
+« personne à charge admissible » S'agissant de la personne à charge admissible d'un particulier à un moment donné, personne qui répond aux conditions suivantes à ce moment :
+a) elle est âgée de moins de 18 ans;
+[...]
+[21] Ces articles réfèrent uniquement au père ou à la mère de la personne à charge admissible.
+[22] Toutefois, le paragraphe 252(1) de la Loi extensionne le sens du terme « enfant » et par le paragraphe 252(2) de la Loi, il y a extension corrélative du sens des termes « père » et « mère ».
+[23] Le paragraphe 252(1) de la Loi veut que la personne qui est entièrement à la charge d’un contribuable et dont celui-ci a la garde et la surveillance, en droit ou de fait, est considéré être un enfant du contribuable.
+[24] Le paragraphe 252(2) de la Loi veut alors que ce contribuable soit considéré comme le père ou la mère de cet enfant.
+[25] Je cite la partie pertinente de ces deux définitions :
+252(2) Liens de parenté -- Dans la présente loi, les mots se rapportant :
+a) au père ou à la mère d'un contribuable visent également les personnes suivantes :
+(i) celle dont le contribuable est l'enfant,
+[...]
+252(1) Extension du sens d'« enfant » -- Dans la présente loi, est considéré comme un enfant d'un contribuable :
+a) une personne dont le contribuable est légalement le père ou la mère;
+b) une personne qui est entièrement à la charge du contribuable et dont celui-ci a la garde et la surveillance, en droit ou de fait, ou les avait juste avant que cette personne ait atteint l'âge de 19 ans;
+c) un enfant de l'époux ou conjoint de fait du contribuable;
+d) [abrogé];
+e) l'époux ou conjoint de fait d'un enfant du contribuable.
+[26] Il est admis que ni l’appelante ni son mari ne sont les mère et père de Maximilian. Pour qu’ils en soient considérés comme les parents, il faudrait que Maximilian soit entièrement à leur charge et qu’ils en aient eu la garde et la surveillance en droit ou de fait.
+[27] Prenons d’abord la première exigence, soit que l’enfant soit entièrement à la charge du contribuable. La preuve a révélé que ce n’était pas du tout le cas. L’appelante lui fournissait le gîte et le couvert dans le cadre d’une famille d’accueil. Ceci était bien généreux de sa part et personne ne contesterait cela. Mais toutefois ni les vêtements, ni l’argent de poche, ni les frais de scolarité ni l’assurance-maladie n’étaient payés par elle. Maximilian n’était sûrement pas entièrement à la charge de l’appelante.
+[28] La deuxième exigence est d’avoir la garde et la surveillance, en droit ou de fait, d’un enfant. Ces mots se rapportent à l’autorité parentale.
+[29] Par le document signé par les parents allemands intitulé « Déclaration d’autorité parentale », les parents allemands déclarent détenir l’autorité parentale mais ils en permettent un certain exercice par la délégation d’autorité parentale qu’ils signent.
+[30] Le Code civil du Québec, à son article 601, prévoit que le titulaire de l’autorité parentale peut déléguer la garde, la surveillance ou l’éducation d’un enfant. L’article 1460 du même code prévoit les obligations qui en découlent pour la personne qui, sans être titulaire de l’autorité parentale, se voit confier par délégation, la garde, la surveillance ou l’éducation d’un mineur.
+[31] Mon intention n’est pas de faire une analyse poussée de la jurisprudence sous l’article 601 du Code civil du Québec, puisque l’appelante ne satisfait pas la première exigence de l’alinéa 252(1)b) de la Loi. Toutefois il est clair que la délégation faite en vertu de l’article 601 du Code civil du Québec, n’est pas une cession de l’autorité parentale, bien qu’il puisse arriver dans des cas exceptionnels que s’il y a délégation prolongée, cette délégation peut entraîner déchéance de l’autorité parentale. Quand elle n’est que temporaire, comme dans le cas d’un enfant confié à un pensionnat pour l’année scolaire ou à une autorité scolaire quelconque, elle n’a d’autre effet que le pouvoir ou le devoir d’exercer par le délégué un certain degré d’autorité parentale sur l’enfant qui lui a été confié.
+[32] La délégation dont il s’agit dans la présente affaire n’est pas une cession d’autorité parentale. Les parents allemands ne se sont jamais départis de leur autorité parentale. La délégation permet l’exercice de certains attributs de l’autorité parentale par le délégué pour les parents qui sont au loin. De plus, cette délégation a été faite au coordonnateur provincial et non à la famille d’accueil.
+[33] J’ai fait une certaine analyse de cette délégation d’autorité parentale pour les fins d’étude du droit dans cette affaire. Mais je dois rappeler que l’appelante a admis dès le départ qu’elle n’avait pas la garde légale de l’enfant. Elle avait raison.
+[34] Comme l’appelante n’est pas la mère de l’enfant et que ce dernier n’était pas entièrement à sa charge et qu’elle n’en avait pas la garde légale en droit et de fait, elle n’avait pas la qualité de particulier admissible pour les fins de la prestation fiscale canadienne pour enfants.
+[35] L’appel doit donc être rejeté.
+Signé à Ottawa, Canada, ce 19e jour de décembre 2007.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE : 2007CCI717
+Nº DU DOSSIER DE LA COUR : 2007-2045(IT)I
+INTITULÉ DE LA CAUSE : MANON THERRIEN c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 19 novembre 2007
+MOTIFS DU JUGEMENT PAR : L'honorable juge Louise Lamarre Proulx
+DATE DU JUGEMENT : le 19 décembre 2007
+COMPARUTIONS :
+Pour l'appelante :
+L'appelante elle-même
+Avocate de l'intimée :
+Me Anne-Marie Boutin
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

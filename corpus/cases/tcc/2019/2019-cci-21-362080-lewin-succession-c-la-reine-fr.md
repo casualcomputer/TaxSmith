@@ -1,0 +1,225 @@
+---
+title: "Lewin (Succession) c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/362080/index.do"
+last_modified: "2019-01-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 CCI 21"
+citation2: ""
+neutral_citation: "2019 CCI 21"
+decision_date: "2019-01-30"
+language: "fr"
+item_id: "362080"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4347
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T18:25:48.718000+00:00"
+cases_cited_count: 6
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7637e5efa57f6b805b5eedd1ce5f636e6840b3bc07e59eddaebfd7a53572646c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lewin (Succession) c. La Reine
+
+- Citation: 2019 CCI 21
+- Decision date: 2019-01-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4347, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lewin (Succession) c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-01-30
+Référence neutre
+2019 CCI 21
+Numéro de dossier
+2016-482(IT)G
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-482(IT)G
+ENTRE :
+LA SUCCESSION DE FEU LAURENCE LEWIN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 4 juillet 2018, à Montréal (Québec).
+Devant : L’honorable juge Réal Favreau.
+Comparutions :
+Avocat de l’appelante :
+Me Aaron Rodgers
+Avocate de l’intimée :
+Me Marie-Aimée Cantin
+JUGEMENT
+L’appel visant la nouvelle cotisation établie par le ministre du Revenu national en vertu de la Loi de l’impôt sur le revenu, dont l’avis a été donné le 5 mai 2014 relativement à l’année d’imposition 2008 de feu Laurence Lewin, est rejeté avec dépens, conformément aux motifs du jugement ci-joints.
+Signé à Montréal (Québec), ce 30e jour de janvier 2019.
+« Réal Favreau »
+Le juge Favreau
+Traduction certifiée conforme
+ce 10e jour de janvier 2020.
+Elisabeth Ross, jurilinguiste
+Référence : 2019 CCI 21
+Date : 20190130
+Dossier : 2016-482(IT)G
+ENTRE :
+LA SUCCESSION DE FEU LAURENCE LEWIN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] La Cour est saisie d’un appel visant une nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.), avec ses modifications successives (la « Loi »), concernant l’année d’imposition 2008 de feu Laurence Lewin.
+[2] Au moyen de la nouvelle cotisation du 5 mai 2014, le ministre a ajouté un gain en capital imposable de 959 165 $ à la déclaration de revenus finale de Laurence Lewin, ce qui a fait passer l’impôt à payer de 292 243,55 $ à 570 401,40 $.
+[3] L’appelante a fait l’objet d’une première cotisation établie en fonction de la déclaration de revenus finale de feu Laurence Lewin le 1er juin 2009.
+[4] La question à trancher est celle de savoir si le ministre avait raison d’établir une nouvelle cotisation à l’endroit de l’appelante le 5 mai 2014 et de déterminer la juste valeur marchande réelle de l’actif du défunt, à savoir les actions de Laurence Lewin Holdings Inc. (« Holdings »), au moment de son décès, le 12 novembre 2008.
+[5] Pour calculer la dette fiscale de l’appelante pour l’année d’imposition 2008, le ministre s’est fondé sur les hypothèses de fait énoncées au paragraphe 5 de sa réponse à l’avis d’appel :
+[traduction]
+(a) Laurence Lewin était le seul actionnaire de Laurence Lewin Holdings Inc. au moment de son décès, le 12 novembre 2008.
+(b) La juste valeur marchande de Laurence Lewin Holdings Inc. était de 4 195 715 $ le 12 novembre 2008.
+(c) La juste valeur marchande de Laurence Lewin Holdings Inc. a été présentée de façon erronée en étant établie à 2 277 386 $ dans la déclaration de revenus de la succession de Laurence Lewin.
+(d) Louis Grossbaum, Andrew Montlake et Martin Greenberg étaient les liquidateurs de la succession de Laurence Lewin.
+(e) Louis Grossbaum, un comptable agréé, a également été comptable et spécialiste en déclarations de revenus pour Laurence Lewin, la succession de Laurence Lewin, Laurence Lewin Holdings Inc., LLH Corporation et Gants Hill Management Co., lors de l’exercice financier visé, ainsi que des années antérieures et subséquentes.
+(f) Louis Grossbaum connaissait ou aurait dû connaître la juste valeur marchande de Laurence Lewin Holdings Inc.
+[6] Afin d’établir que l’appelante a fait une présentation erronée des faits par négligence, inattention ou omission volontaire en produisant sa déclaration de revenus pour l’année d’imposition 2008, le ministre s’est fondé sur les faits énoncés au paragraphe 6 de la réponse à l’avis d’appel.
+(a) Tous les faits mentionnés au paragraphe 5.
+(b) Il existe une différence importante entre la juste valeur marchande de Laurence Lewin Holdings Inc. telle qu’elle est décrite par le liquidateur de la succession et comptable Louis Grossbaum et la juste valeur marchande réelle établie par l’Agence du revenu du Canada (l’« ARC »).
+[7] À son décès, Laurence Lewin détenait des actions dans Holdings, une société constituée en personne morale le 14 mai 1990, laquelle détenait des actions dans Gants Hill Management Company Ltd. (« Gants »), constituée en personne morale le 15 janvier 1991, et dans LLH Corporation (anciennement 4384199 Canada Inc.) (« LLH »), constituée en personne morale le 24 janvier 2006. Les trois sociétés ont été constituées sous le régime de la Loi canadienne sur les sociétés par actions et transférées aux îles Vierges britanniques le 24 janvier 2007. Gants et LLH étaient des filiales à cent pour cent de Holdings.
+[8] M. Louis Grossbaum, un comptable agréé qui était l’associé directeur du cabinet comptable WSPG, était l’un des liquidateurs de la succession de Laurence Lewin; il était responsable de la production de la déclaration de revenus finale. Son cabinet s’occupe de la comptabilité et de la préparation des déclarations de revenus de Laurence Lewin et Holdings depuis 1990 et de Gants depuis 1991. Richter a été le vérificateur externe de LLH jusqu’à 2014.
+[9] MNP, un cabinet d’experts-comptables qui a fusionné avec WSPG le 1er janvier 2011, a préparé les états financiers de LLH et ses déclarations de revenus à compter du 31 janvier 2014, puis le 31 janvier 2015 et le 31 janvier 2016.
+[10] La déclaration de revenus finale de l’appelante a été signée et produite par M. Grossbaum en avril 2009, bien qu’elle ait été préparée par quelqu’un d’autre au sein de son cabinet. Pour produire la déclaration de revenus finale de l’appelante, M. Grossbaum a dû évaluer la valeur des actions de Holdings détenues par le défunt en date du 12 novembre 2008. Lors de son évaluation, M. Grossbaum n’a pas tenu compte de la valeur des placements que Holdings détenait dans LLH et dans Gants.
+[11] Dans la déclaration de revenus finale de l’appelante, M. Grossbaum a calculé que la juste valeur marchande des actions de Holdings s’élevait à 2 277 386 $, tandis que l’ARC a établi une nouvelle cotisation à l’égard de l’appelante en se fondant sur une juste valeur marchande de 4 195 715 $.
+Les questions en litige
+[12] Les questions que la Cour doit trancher en l’espèce sont les suivantes : a) L’erreur commise par M. Grossbaum dans l’évaluation des actions de Holdings constitue-t-elle une présentation erronée des faits quant à la juste valeur marchande réelle des actions? b) Le cas échéant, M. Grossbaum a-t-il fait la présentation erronée des faits par négligence, inattention ou omission volontaire en produisant la déclaration de revenus finale de l’appelante?
+Le témoignage de M. Grossbaum
+[13] M. Grossbaum a témoigné à l’audience et a expliqué comment il avait calculé la valeur des actions de Holdings en date du 12 novembre 2008. Voici le calcul qu’il a fait et qu’il a présenté à Revenu Québec dans le cadre de la vérification amorcée en 2010 :
+Bénéfices non répartis de Holdings au 31 janvier 2008
+Moins :
+A. Titres négociables dans les états financiers du 31 janvier 2008
+· coût
+· juste valeur marchande
+Réduction de la valeur du portefeuille
+B. Dividende en capital versé après le 31 janvier 2008
+C. Les dividendes reçus au cours de l’exercice se terminant le 31 janvier 2008 sont comptabilisés à titre de créances dans une filiale à cent pour cent qui n’étaient pas recouvrables
+Disposition présumée le 12 novembre 2008
+10 575 901 $
+9 412 154 $
+6 731 653 $
+(1 163 747 $)
+(1 581 000 $)
+(1 709 520 $)
+2 277 386 $
+[14] La réduction des éléments A et B ne sont pas contestés en l’espèce.
+[15] M. Grossbaum a expliqué que, lorsqu’il a évalué les actions de Holdings, il n’a pas pris de notes sur la façon dont il en était arrivé au montant de 2 277 386 $. Il a dit qu’il s’était fié aux renseignements financiers fournis par M. Gerald Randall, le directeur de La Senza, qui était responsable de la préparation des déclarations de revenus de La Senza et de LLH. Jusqu’en 2008, La Senza était une filiale à cent pour cent de LLH. M. Grossbaum a souligné qu’il avait signé la déclaration de revenus de LLH pour l’année d’imposition s’étant terminée le 1er février 2009 et l’attestation qui y était jointe à titre de dirigeant de la société, mais que ni lui ni son cabinet n’avaient préparé la déclaration de revenus en tant que telle. M. Grossbaum a ajouté que les sommes figurant dans cette déclaration étaient sans importance, puisque LLH avait déclaré une perte et demandé un remboursement.
+[16] M. Grossbaum a en outre reconnu qu’il aurait pu avoir accès aux états financiers de LLH et de Gants, mais qu’il ne les a pas demandés. Il a déclaré que son évaluation était fondée sur les chiffres de 2008, car l’évaluation devait être faite avant la production des déclarations de revenus de 2009 de LLH et de Gants.
+[17] M. Grossbaum a reconnu que, lors de son interrogatoire préalable ayant eu lieu le 25 janvier 2017, il a fourni la réponse suivante à un engagement pris lors de cet interrogatoire préalable :
+[TRADUCTION]
+7. Étant donné que LLH Corporation était une filiale à cent pour cent de Laurence Lewin Holdings Inc. et que nous devions déterminer la valeur des actions de Laurence Lewin Holdings Inc. appartenant à M. Lewin dans sa dernière déclaration de revenus T1 de 2008, nous avons déterminé que la créance de 1 709 520 $ figurant au bilan de LLH Corporation n’était pas recouvrable et, par conséquent, nous avons réduit la valeur de ses actions à la valeur réputée de disposition de 1 709 520 $.
+[18] Le 31 janvier 2018, M. Grossbaum a déposé une révision de la juste valeur marchande des actions de Holdings. Il a expliqué qu’il avait rajusté la valeur des actions de Holdings parce qu’il avait pris connaissance de l’existence d’une convention de retraite au sein de Gants qui avait une incidence considérable sur la valeur.
+[19] La révision du calcul n’a pas eu d’incidence sur la valeur totale des actions de Holdings, qui est demeurée à 2 217 468 $, mais les explications fournies concernant la réduction de la valeur des actions différaient. Les deux principaux ajustements étaient les suivants :
+[traduction]
+(a) une perte de valeur estimée à 850 428 $
+(4) Dans le bilan de Laurence Lewin Holdings, il y avait des actions privilégiées de catégorie E émises dans le cadre de la convention de retraite pour les cadres désignés de Gants Hill Management Company Ltd. Le prix de base rajusté de ces actions de catégorie E émises lorsque les éléments d’actif ont été transférés à Lewin Holdings était de 510 378 $, mais la valeur de rachat était de 850 428 $. Ces actions n’appartenaient pas à Lewin et, à son décès, conformément aux modalités de son testament, cette somme a été versée à sa conjointe, Carole Teitelbaum. Par conséquent, la valeur de rachat doit être déduite de la valeur de Lewin Holdings.
+(b) une perte de valeur estimée à 1 016 047 $
+(5) Avant le décès de M. Lewin, la part de La Senza détenue par Lewin Holdings a été vendue à Limited Brands. En vertu d’un plan fiscal mis en place par Richter, les vérificateurs de La Senza, un montant négligeable d’impôt a été payé, et aucun impôt n’a été payé au Québec. Le Québec a entrepris une vérification et a proposé d’évaluer le dividende reçu de 5 551 798 $ (voir l’état des résultats de Lewin Holdings au 31 janvier 2008) comme revenus d’entreprise ordinaires. Par conséquent, comme la bataille allait être longue et ardue, MNP s’est munie d’une provision pour impôts latents :
+5 551 798 $ x 16,5 % (taux du Québec) 916 047
+Plus : Honoraires pour représentation de l’entreprise contre le ministère du Revenu du Québec 100 000
+[20] M. Grossbaum a déclaré qu’il connaissait l’existence de la convention de retraite, mais qu’il n’avait pas su quoi en faire lorsqu’il a produit la déclaration de revenus finale de Laurence Lewin en 2008. Il a dit qu’il avait besoin de l’opinion de l’avocat représentant la fiducie. En ce qui concerne la provision pour impôts latents de 1 016 047 $, M. Grossbaum a déclaré que ce renseignement lui avait été fourni par Richter. M. Grossbaum a reconnu qu’il n’y avait finalement aucune obligation fiscale découlant de la transaction et que, le 12 novembre 2008, Revenu Québec n’avait pas commencé sa vérification.
+[21] Dans son témoignage, M. Grossbaum a reconnu qu’il avait commis une erreur dans l’évaluation des actions de Holdings en ne tenant pas compte de la valeur des filiales de Holdings, mais il a soutenu que les deux filiales n’avaient pas de valeur importante.
+Le témoignage de M. Aich
+[22] M. Abdellatif Aich, un agent des appels de l’ARC, a témoigné à l’audience. Il a fourni des renseignements financiers tirés de la base de données Cortax concernant les années d’imposition 2009 et 2010 de Holdings et de LLH, renseignements que l’appelante n’a pas contestés.
+[23] M. Aich a expliqué que l’ARC avait reçu de Revenu Québec les renseignements concernant le dossier de l’appelante en avril 2014 et a envoyé un avis de nouvelle cotisation en mai 2014 établi en fonction de ces renseignements. L’ARC n’a pas évalué les actions de Holdings.
+[24] M. Aich a souligné que M. Grossbaum changeait constamment ses explications pour justifier la différence entre la valeur des actions de Holdings établie par Revenu Québec à 4 195 715 $ et celle qu’il a établie lui-même à 2 217 468 $.
+[25] La première explication était qu’il y avait un dividende de 1 709 520 $ non recouvrable. En janvier 2018, après la vérification de Revenu Québec, M. Grossbaum a présenté une nouvelle valeur rajustée, en tenant compte d’une provision pour impôts latents découlant de la vente des actions de La Senza et de la valeur de rachat des actions privilégiées de catégorie E de Gants émises à ses dirigeants en vertu de la convention de retraite de Gants, lesquelles actions ont été transférées à Holdings avant le décès de M. Lewin.
+[26] M. Aich ne s’est pas opposé au rajustement de 850 428 $ en ce qui concerne la convention de retraite, mais il s’est opposé au rajustement de 1 016 047 $ parce que, le 12 novembre 2008, Revenu Québec n’avait pas encore commencé sa vérification. Après sept ans de vérification, soit de 2010 à 2017, Revenu Québec n’a pas imposé le dividende de 5 551 798 $, qui avait été entièrement imposé en Alberta. En janvier 2018, M. Grossbaum savait qu’il n’y avait pas d’ajustement à faire pour les impôts du Québec.
+Le droit
+[27] Lors du décès d’un individu, celui-ci est réputé avoir, immédiatement avant son décès, disposé de chacune des immobilisations qu’il possédait et avoir reçu de sa disposition un produit égal à leur juste valeur marchande immédiatement avant son décès. L’alinéa 70(5)a) est rédigé ainsi :
+Immobilisations d’un contribuable décédé
+En cas de décès d’un contribuable au cours d’une année d’imposition, les présomptions suivantes s’appliquent :
+a) le contribuable est réputé avoir disposé, immédiatement avant son décès, de chacune de ses immobilisations et avoir reçu de leur disposition un produit égal à leur juste valeur marchande immédiatement avant son décès;
+[…]
+[28] Le paragraphe 152(4) de la Loi permet au ministre, dans certaines circonstances, d’établir une nouvelle cotisation après l’expiration de la période normale de nouvelle cotisation. Le passage pertinent du paragraphe est le suivant :
+Cotisation et nouvelle cotisation [délai de prescription]
+(4) Le ministre peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire concernant l’impôt pour une année d’imposition, ainsi que les intérêts ou les pénalités, qui sont payables par un contribuable en vertu de la présente partie ou donner avis par écrit qu’aucun impôt n’est payable pour l’année à toute personne qui a produit une déclaration de revenus pour une année d’imposition. Pareille cotisation ne peut être établie après l’expiration de la période normale de nouvelle cotisation applicable au contribuable pour l’année que dans les cas suivants :
+a) le contribuable ou la personne produisant la déclaration :
+(i) soit a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement sous le régime de la présente loi,
+[…]
+Analyse
+[29] La première question à trancher est celle de savoir si le représentant de l’appelante a fait une présentation erronée des faits en produisant la déclaration de revenus finale de feu Laurence Lewin pour la période se terminant le 12 novembre 2008, dans laquelle il a déclaré que les actions de Holdings avaient une juste valeur marchande 2 277 386 $.
+[30] Aux fins du calcul de l’impôt du Québec, la juste valeur marchande des actions de Holdings a été établie à 4 195 715 $, et l’appelante a reçu une nouvelle cotisation pour un gain en capital sur la disposition présumée des actions, fondée sur une juste valeur marchande de 4 195 715 $. L’appelante n’a pas contesté la cotisation établie à l’égard de ce gain en capital concernant les actions de Holdings.
+[31] La différence entre la juste valeur marchande des actions de Holdings telle qu’elle a été déclarée et la juste valeur marchande de ces actions telle que Revenu Québec l’a établie s’élève à 1 918 330 $ et est attribuable au refus du rajustement à la baisse de 1 709 520 $ demandé par le représentant de l’appelante et à l’augmentation de la valeur à 208 810 $ correspondant à la juste valeur marchande des deux filiales de Holdings (94 182 $ pour LLH et 114 628 $ pour Gants) qui n’avait pas été initialement prise en compte par le représentant de l’appelante.
+[32] Dans son avis d’appel, l’appelante soutient que le calcul de la valeur de l’actif dans la déclaration de revenus finale déposée pour Laurence Lewin était exact et, subsidiairement, elle soutient que, si le calcul de la valeur de l’actif comportait des erreurs, elles n’ont pas été commises par négligence.
+[33] La preuve montre clairement que M. Grossbaum a commis des erreurs évidentes dans le calcul de la juste valeur marchande des actions de Holdings en ne tenant pas compte de la juste valeur marchande des deux filiales de Holdings et en demandant un rajustement à la baisse injustifié de 1 709 520 $. Le fait que la juste valeur marchande de Holdings ait été calculée erronément n’a pas été contesté à l’audience.
+[34] Il ressort clairement de la jurisprudence qu’une erreur commise lors de la production d’une déclaration de revenus, qu’elle soit commise de bonne foi ou par inadvertance ou qu’elle constitue une simple erreur de calcul, est considérée comme une présentation erronée des faits au sens du sous-alinéa 152a)(i) de la Loi (Mont-Bruno c. Canada, 2018 CCI 105, paragraphes 37 et 38; Nesbitt c. Canada, [1996] A.C.F. no 1470 (QL) (C.A.F.), paragraphes 8 et 9; Succession de Vine c. Canada, [2015] A.C.F. no 651 (QL) (C.A.F.), paragraphes 33 à 35, et Ridge Run Developments Inc. c. Canada, 2007 CCI 734).
+[35] La deuxième question à trancher est celle de savoir si le liquidateur de l’appelante a fait preuve de négligence lorsqu’il a produit la déclaration de revenus finale du défunt.
+[36] Dans l’arrêt Venne c. Canada (M.R.N.), [1984] A.C.F. no 314 (QL) (C.F. 1re inst.), le juge Strayer a déclaré qu’un contribuable a été négligent s’il est démontré qu’il n’a pas fait preuve de diligence raisonnable.
+[37] Dans ce contexte, l’expression « diligence raisonnable » a été définie par les tribunaux comme signifiant la diligence qu’exercerait une personne sage et prudente dans les mêmes circonstances (Robertson c. Canada, 2015 CCI 246, confirmée par 2016 CAF 303, et Mina Kawtab Yunus c. Canada, 2015 CCI 272).
+[38] Dans l’arrêt Gebhart (Succession) c. Canada, 2008 CAF 206, la Cour d’appel fédérale a estimé que l’exécuteur testamentaire avait fait preuve de négligence dans l’exercice de ses fonctions consistant à s’assurer de produire une déclaration de revenus finale régulière. L’erreur qu’il avait commise aurait facilement pu être évitée s’il avait demandé les renseignements qui lui manquaient.
+[39] En l’espèce, la preuve étaye la conclusion qu’il y a eu négligence de la part de M. Grossbaum dans l’exercice de ses fonctions de liquidateur de la succession de M. Laurence Lewin consistant à s’assurer que la déclaration de revenus de 2008 était régulière.
+[40] Le calcul de la juste valeur marchande des actions de Holdings n’a pas été effectué avec toute la diligence requise au moyen d’une analyse approfondie des pièces justificatives.
+[41] L’absence de M. Grossbaum expliquant de façon raisonnable pourquoi la valeur des deux filiales de Holdings n’a pas été prise en compte à l’origine constitue une preuve à première vue de négligence de la part du comptable. Il connaissait l’existence des deux filiales et il savait qu’une importante opération (la vente de La Senza) avait eu lieu quelques mois avant le décès de M. Lewin et il avait accès aux états financiers de ces dernières.
+[42] En ce qui concerne le rajustement de 1 709 530 $, M. Grossbaum n’a pas expliqué pourquoi il considérait que le dividende n’était pas recouvrable. Rien n’étayait ce raisonnement. Le montant de 1 709 520 $ figurait dans les bilans de Holdings et de LLH au 30 janvier des années 2008 et 2009 à l’actif de LLH et au passif de Holdings. Dans les états financiers des années subséquentes, le montant de 1 709 520 $ n’avait pas été inscrit, ce qui signifie qu’il n’aurait pas fallu faire le rajustement.
+[43] Il fallait déterminer la juste valeur marchande des actions de Holdings le 12 novembre 2008 à l’aide des renseignements disponibles avant la production de la déclaration de revenus finale. M. Grossbaum a tenté jusqu’en janvier 2018 de justifier son évaluation en tenant compte de renseignements qui n’étaient pas disponibles au moment où il a produit la déclaration de revenus finale. C’est inacceptable.
+[44] Comme la nouvelle cotisation est jugée valide, il incombe à l’appelante de démontrer que l’évaluation faite par le ministre de la juste valeur marchande des actions de Holdings était inexacte. À mon avis, l’appelante ne s’est pas acquittée de son fardeau.
+[45] Pour les motifs qui précèdent, l’appel est rejeté, avec dépens.
+Signé à Montréal, Canada, en ce 30e jour de janvier 2019.
+« Réal Favreau »
+Le juge Favreau
+Traduction certifiée conforme
+ce 10e jour de janvier 2020.
+Elisabeth Ross, jurilinguiste
+RÉFÉRENCE :
+2019 CCI 21
+NO DU DOSSIER DE LA COUR :
+2016-482(IT)G
+INTITULÉ :
+La succession de feu Laurence Lewin et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Le 4 juillet 2018
+MOTIFS DU JUGEMENT :
+L’honorable juge Réal Favreau
+DATE DU JUGEMENT :
+Le 30 janvier 2019
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Aaron Rodgers
+Avocate de l’intimée :
+Me Marie-Aimée Cantin
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Aaron Rodgers
+Cabinet :
+GWBR, S.E.N.C.R.L.
+Montréal (Québec)
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

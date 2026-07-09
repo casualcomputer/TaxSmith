@@ -1,0 +1,167 @@
+---
+title: "Lisovenko c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28492/index.do"
+last_modified: "2008-01-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 6"
+citation2: ""
+neutral_citation: "2008 CCI 6"
+decision_date: "2008-01-22"
+language: "fr"
+item_id: "28492"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1289
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:14:24.526000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "376c0de489f5d43ba052d8be7192604b05f90964bf268f427c84f674c9c837b8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lisovenko c. M.R.N.
+
+- Citation: 2008 CCI 6
+- Decision date: 2008-01-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1289, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lisovenko c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-01-22
+Référence neutre
+2008 CCI 6
+Numéro de dossier
+2007-1601(EI)
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2007-1601(EI)
+ENTRE :
+ARKADILY LISOVENKO,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 1er novembre 2007, à Montréal (Québec).
+Devant : L’honorable juge François Angers
+Comparutions :
+Avocate de l’appelant :
+Me Stéphanie Archambault
+Avocate de l’intimé :
+Me Christina Ham
+____________________________________________________________________
+JUGEMENT
+L’appel établi en vertu de l’alinéa 5(1)a) de la Loi sur l’assurance‑emploi, est accueilli et la décision rendue par le ministre du Revenu national est annulée en ce que l’appelant, Arkadily Lisovenko, occupait un emploi assurable lorsqu’il était au service de 9088-4453 Québec Inc. relativement à l’année 2005, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 22e jour de janvier 2008.
+« François Angers »
+Juge Angers
+Référence : 2008CCI6
+Date : 20080122
+Dossier : 2007-1601(EI)
+ENTRE :
+ARKADILY LISOVENKO,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] L’appelant porte en appel une décision du ministre du Revenu national (le « Ministre ») selon laquelle il n’occupait pas un emploi assurable en 2005 durant la période où il a rendu des services à 9088-4453 Québec Inc. au motif que cet emploi ne répondait pas aux exigences d’un contrat de louage de services au sens de la Loi sur l’assurance-emploi (la « Loi »).
+[2] 9088-4453 Québec Inc. a été constituée en société le 8 mars 2000 et elle exploite une entreprise forestière au Québec dont les principales activités sont le débroussaillage et le reboisement. Elle est connue sous le nom de Florexpert.
+[3] En 2005, 75 % des travailleurs de Florexpert étaient considérés des salariés et 25 % étaient considérés autonomes. La distinction retenue par l’agente des appels entre les salariés et les autonomes était que les salariés étaient de nouveaux employés à qui Florexpert donnait de la formation et qui, en plus de débroussailler, s’occupaient de planter des nouveaux arbres. Ils étaient payés sur une base horaire; on leur fournissait des outils de travail et ils étaient transportés par Florexpert sur les lieux de travail. Quant aux travailleurs autonomes, ils avaient de l’expérience et étaient payés pour débroussailler des terrains selon une échelle tarifaire à cinq niveaux établie en fonction des terrains à débroussailler. Pour obtenir le montant qui leur était dû, les travailleurs autonomes devaient effectuer leur travail à la satisfaction de Florexpert. Ils devaient aussi utiliser leurs propres outils. Tous les travailleurs étaient logés et nourris par Florexpert, mais cette dépense était déduite de leur paye.
+[4] L’appelant a travaillé pour Florexpert à partir du 6 août jusqu’à la fin octobre 2005 à titre de débroussailleur. Il ne s’agissait pas de sa première expérience dans ce domaine puisqu’il avait travaillé comme débroussailleur pour une autre société du nom de Reboitech durant les mois de mai et de juin 2005.
+[5] L’appelant était embauché par Reboitech à titre d’employé. Pour effectuer son travail, il devait aller vivre dans les camps aménagés par son employeur dans la forêt. L’employeur déduisait de son salaire les coûts associés au camp, ce qui comprenait les repas et l’hébergement. Il a aussi acheté de son employeur les outils nécessaires pour effectuer son travail, de même que l’essence et les pièces pour réparer ses outils. Tous ces montants étaient retenus de sa paye. Il devait se rendre au camp par ses propres moyens ou utilisait les moyens de transport fournis par l’employeur.
+[6] Un relevé de paie forestière pour une semaine de travail avec Reboitech indique que l’appelant, dans la semaine du 31 juillet au 6 août 2005, a débroussaillé environ un hectare et demi de terrain au taux de 350 $ par hectare. Après certains ajustements, y inclus le 4 % de paie de vacances, Reboitech a déduit de ce montant les déductions à la source habituelles, les coûts associés au camp et l’achat de matériel. Le solde a été déposé dans son compte. Le revenu imposable brut a été converti en 45 heures assurables pour la semaine de travail.
+[7] Reboitech a suspendu ses activités forestières en raison de la présence de feux de forêt. L’appelant s’est donc vu offrir par Reboitech un emploi semblable, mais pour le compte de Florexpert. Il s’est donc rendu sur le lieu de travail situé près du barrage Gouin. L’appelant a rempli une demande d’emploi et, il soutient avoir été embauché aux mêmes conditions que celles offertes par Reboitech. Selon lui, il n’y a eu aucune discussion sur le fait qu’il y avait deux catégories d’employés.
+[8] Il a commencé à travailler le lendemain et on lui a dit où il devait débroussailler. Les terrains étaient délimités par des drapeaux et, si le travail était mal fait, il devait le refaire. Il y avait donc un superviseur qui vérifiait son travail. Il a compris qu’il devait gagner 700 $ par semaine pour obtenir des prestations d’assurance-emploi. Il était logé et nourri par Florexpert, mais ces dépenses étaient déduites de sa paie. Ils étaient environ 15 à 20 occupants par camp et tout le monde suivait le même horaire. Selon l’appelant, personne n’était payé sur une base horaire au camp qu’il occupait. L’heure du repas était pré‑déterminée. Il travaillait 10 à 12 heures par jour, en commençant très tôt le matin et finissant aux environs de 16 heures.
+[9] Les terrains étaient la propriété de Florexpert et c’est elle qui déterminait le paiement par terrain selon la catégorie. Florexpert choisissait le terrain que devait débroussailler l’appelant et on lui indiquait quels arbres ne pas couper. Lorsque Florexpert jugeait que le terrain était très accidenté et que l’appelant ne devrait pas travailler seul, elle exigeait que l’appelant travaille avec une autre personne. L’appelant pouvait cependant choisir son compagnon de travail. Il était défendu aux travailleurs de travailler plus de quinze jours de file, au risque de s’exposer à une pénalité s’il le faisait. Le superviseur de Florexpert transportait avec lui des pièces de rechange et de l’essence pour les outils de l’appelant. Tous les achats faits par l’appelant étaient déduits de son revenu.
+[10] Malgré que l’appelant l’ait demandé durant sa période d’emploi, il n’a pas reçu de talon de paie, d’explications ou autres informations, sauf à la toute fin de son travail, lorsque le tout fut déposé dans son compte. La pièce A‑4 nous indique que, pour l’année 2005, Florexpert a prélevé des revenus de l’appelant des frais d’outils, d’essence et d’hébergement. Il est aussi intéressant de constater que l’appelant est identifié dans le « Rapport détaillé des achats auprès des fournisseurs », comme employé sur la première page, alors que, sur la deuxième page, on réfère à l’appelant, à la quantité de terrain débroussaillé et au tarif par terrain. Quant à l’appelant, il déclare ne pas savoir s’il a bien été rémunéré. Il connaissait cependant le tarif par terrain et savait que, s’il travaillait rapidement, il pouvait augmenter ses revenus. Selon l’appelant, tous les travailleurs de Florexpert utilisaient leurs propres outils et personne dans son camp n’était payé à l’heure. Quant à la plantation de nouveaux arbres, ce travail était fait par des étudiants et non par les débroussailleurs.
+[11] L’appelant a obtenu un T‑4 de Reboitech, mais de Florexpert ne lui en a pas donné un. Il n’a pas reçu de paie de vacances de Florexpert. Il a retenu les services d’un professionnel pour préparer sa déclaration de revenu et a déduit ses dépenses de son revenu. Sa déclaration fut par la suite modifiée lorsque l’agence du Revenu a préparé un T‑4 visant son emploi chez Florexpert, quoique maintenant le tout est en suspens dans l’attente de cette décision.
+[12] Il s’agit donc de déterminer si les services rendus par l’appelant à Florexpert sont des services rendus en vertu d’un contrat de travail ou en vertu d’un contrat d’entreprise ou de service. Le juge Décary, de la Cour d’appel fédérale, dans 9041‑6868 Québec Inc. c. Canada, [2005] A.C.F. no 1720, a déterminé les paramètres de l’analyse qui doit être faite dans un tel cas :
+Bref, c’est le Code Civil du Québec qui détermine les règles applicables à un contrat conclu au Québec. Ces règles se retrouvent notamment dans ces dispositions du Code qui traitent du contrat en général (art. 1377 C.c.Q. et suiv.), et dans celles qui traitent du « contrat de travail » (art. 2085 à 2097 C.c.Q.) et du « contrat d’entreprise ou de service » (art. 2098 à 2129 C.c.Q.). Les articles 1378, 1425, 1426, 2085, 2098 et 2099 C.c.Q. sont les plus pertinents pour les fins du présent dossier :
+1378. Le contrat est un accord de volonté, par lequel une ou plusieurs personnes s’obligent envers une ou plusieurs autres à exécuter une prestation.
+1425. Dans l’interprétation du contrat, on doit rechercher quelle a été la commune intention des parties plutôt que de s’arrêter au sens littéral des termes utilisés.
+1426. On tient compte, dans l’interprétation du contrat, de sa nature, des circonstances dans lesquelles il a été conclu, de l’interprétation que les parties lui ont déjà donnée ou qu’il peut avoir reçue, ainsi que des usages.
+1440. Le contrat n’a d’effet qu’entre les parties contractantes; il n’en a point quant aux tiers, excepté dans les cas prévus par la loi.
+2085. Le contrat de travail est celui par lequel une personne, le salarié, s’oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d’une autre personne, l’employeur.
+2098. Le contrat d’entreprise ou de service est celui par lequel une personne, selon le cas l’entrepreneur ou le prestataire de services, s’engage envers une autre personne, le client, à réaliser un ouvrage matériel ou intellectuel ou à fournir un service moyennant un prix que le client s’oblige à lui payer.
+2099. L’entrepreneur ou le prestataire de services a le libre choix des moyens d’exécution du contrat et il n’existe entre lui et le client aucun lien de subordination quant à son exécution.
+Il continue en définissant le rôle de la Cour canadienne de l’impôt et rappelle les trois éléments constitutifs qui caractérisent le contrat de travail :
+8 Il faut garder à l’esprit que le rôle du juge de la Cour canadienne de l’impôt est de vérifier dans les faits si les allégations sur lesquelles s’est appuyé le ministre sont bien fondées et, le cas échéant, si la véritable réalité contractuelle des parties en est une qui peut être qualifiée, en droit, de louage de services. Le litige devant la Cour canadienne de l’impôt n’est pas, à proprement parler, un litige de nature contractuelle opposant l’une à l’autre des parties à un contrat. C’est un litige de nature administrative qui oppose un tiers, en l’occurrence le ministre du Revenu national, à l’une ou l’autre des parties, même si l’une ou l’autre peut en définitive vouloir épouser les vues du ministre.
+9 Le contrat sur lequel le ministre se fonde ou qu’une partie cherche à lui opposer est certes un fait juridique que le ministre ne peut ignorer même s’il ne produit pas d’effet à son égard (art. 1440 C.c.Q.; Baudouin et Jobin, Les Obligations, Éditions Yvon Blais 1998, 5e édition, p. 377). Cela n’empêche en rien le ministre, cependant, d’alléguer que dans les faits le contrat n’est pas tel qu’il parait être, qu’il n’a pas été exécuté selon ses termes ou qu’il ne reflète pas la véritable relation qui s’est établie entre les parties. Il est permis au ministre, et à la Cour canadienne de l’impôt après lui, de rechercher cette relation véritable, ainsi que le prévoient les articles 1425 et 1426 du Code Civil du Québec, dans la nature du contrat, dans les circonstances dans lesquelles il a été conclu, dans l’interprétation que les parties lui ont déjà donnée ou qu’il peut avoir reçue, ainsi que dans les usages. Et parmi ces circonstances dans lesquelles le contrat a été conclu se trouve l’intention légitime déclarée des parties, un facteur important retenu par cette Cour dans un bon nombre d’arrêts (voir Wolf c. Canada (C.A.), [2002] 4 C.F. 396, para. 119 et 122; A.G. Canada c. Les Productions Bibi et Zoé Inc., [2004] A.C.F. no 238, 2004 CAF 54; Le Livreur Plus Inc. c. M.R.N., [2004] A.C.F. no 267, 2004 CAF 68; Poulin c. Canada (M.R.N.), [2003] A.C.F. no 141, 2003 CAF 50; Tremblay c. Canada (M.R.N.), [2004] A.C.F. no 802, 2004 CAF 175.
+10 L’expression « contrat de louage de services » que l’on retrouve dans la Loi sur l’assurance-emploi depuis ses origines et qui reprenait l’expression contenue à l’article 1667 du Code civil du Bas-Canada, est désuète. Le Code civil du Québec, en effet, utilise désormais l’expression « contrat de travail », à l’article 2085, qu’il distingue du « contrat d’entreprise ou de service », à l’article 2098.
+11 Trois éléments constitutifs caractérisent le « contrat de travail » en droit québécois : une prestation de travail, une rémunération et un lien de subordination. C’est ce dernier élément qui est à la source de la plupart des litiges. Pour le définir de façon globale, je m’en remets à ces propos de Robert P. Gagnon, dans Le droit du travail du Québec, Éditions Yvon Blais, 2003, 5e édition, aux pages 66 et 67 :
+90 — Facteur distinctif — L’élément de qualification du contrat de travail le plus significatif est celui de la subordination du salarié à la personne pour laquelle il travaille. C’est cet élément qui permet de distinguer le contrat de travail d’autres contrats à titre onéreux qui impliquent également une prestation de travail au bénéfice d’une autre personne, moyennant un prix, comme le contrat d’entreprise ou de service régi par les articles 2098 et suivants C.c.Q. Ainsi, alors que l’entrepreneur ou le prestataire de services conserve, selon l’article 2099 C.c.Q., « le libre choix des moyens d’exécution du contrat » et qu’il n’existe entre lui et son client « aucun lien de subordination quant à son exécution », il est caractéristique du contrat de travail, sous réserve de ses termes, que le salarié exécute personnellement le travail convenu sous la direction de l’employeur et dans le cadre établi par ce dernier.
+91 — Appréciation factuelle — La subordination se vérifie dans les faits. À cet égard, la jurisprudence s’est toujours refusée à retenir la qualification donnée au contrat par les parties [. . .].
+92 — Notion — Historiquement, le droit civil a d’abord élaboré une notion de subordination juridique dite stricte ou classique qui a servi de critère d’application du principe de la responsabilité civile du commettant pour le dommage causé par son préposé dans l’exécution de ses fonctions (art. 1054 C.c.B.-C.; art 1463 C.c.Q.). Cette subordination juridique classique était caractérisée par le contrôle immédiat exercé par l’employeur sur l’exécution du travail de l’employé quant à sa nature et à ses modalités. Elle s’est progressivement assouplie pour donner naissance à la notion de subordination juridique au sens large. La diversification et la spécialisation des occupations et des techniques de travail ont, en effet, rendu souvent irréaliste que l’employeur soit en mesure de dicter ou même de surveiller de façon immédiate l’exécution du travail. On en est ainsi venu à assimiler la subordination à la faculté, laissée à celui qu’on reconnaîtra alors comme l’employeur, de déterminer le travail à exécuter, d’encadrer cette exécution et de la contrôler. En renversant la perspective, le salarié sera celui qui accepte de s’intégrer dans le cadre de fonctionnement d’une entreprise pour la faire bénéficier de son travail. En pratique, on recherchera la présence d’un certain nombre d’indices d’encadrement, d’ailleurs susceptibles de varier selon les contextes : présence obligatoire à un lieu de travail, assignation plus ou moins régulière du travail, imposition de règles de conduite ou de comportement, exigence de rapports d’activité, contrôle de la quantité ou de la qualité de la prestation, etc. Le travail à domicile n’exclut pas une telle intégration à l’entreprise.
+12 Il est intéressant de noter qu’en droit civil québécois, la définition même du contrat de travail met l’accent sur « la direction ou le contrôle » (art. 2085 c.c.c.), ce qui fait du contrôle l’objet même de l’exercice et donc beaucoup plus qu’un simple indice d’encadrement, ainsi que le note le juge Archambault à la page 2: 72 de l’ouvrage précité.
+[13] On se souviendra que la distinction retenue par l’agente des appels entre les deux groupes de travailleurs est à l’effet que le groupe d’employés était composé de nouveaux travailleurs à qui Florexpert devait fournir une formation. Ces travailleurs faisaient du débroussaillage et de la plantation, étaient payés sur une base horaire et on leur fournissait les outils pour travailler. Quant aux travailleurs autonomes notamment l’appelant, ils étaient payés à un tarif qui dépendait de la catégorie dans laquelle était placée le terrain à débroussailler, ils devaient effectuer leur travail à la satisfaction de Florexpert et ils devaient fournir leurs propres outils de travail.
+[14] L’appelant soutient que tous les travailleurs étaient propriétaires de leurs outils de travail, qu’ils soient payés sur une base horaire ou selon le tarif fixé pour les terrains à débroussailler. Il soutient aussi que seuls les étudiants effectuaient la plantation de petits arbres et que les travailleurs qui occupaient le même camp que lui n’étaient pas payés sur une base horaire.
+[15] La documentation mise en preuve et provenant de Florexpert réfère à l’appelant comme un employé sur la première page et comme un fournisseur auprès de qui Florexpert a fait des achats sur la deuxième page.
+[16] Selon l’appelant, il a été embauché par Florexpert aux mêmes conditions que Reboitech l’avait embauché. Selon son contrat avec Reboitech, il était payé par terrain ou hectares débroussaillés et non selon les heures travaillées. Il avait acheté ses outils de travail de Reboitech, de même que les pièces pour les réparer. Il avait dans un camp appartenant à Reboitech et on avait déduit de sa paie les frais d’hébergement et les déductions à la source. Son revenu avait été converti en heures assurables. Il croyait, du moins jusqu’à la fin de son travail, qu’il était un employé de Florexpert travaillant aux mêmes conditions qui s’appliquaient chez Reboitech. D’ailleurs, tout s’est fait de la même façon à l’exception des déductions à la source.
+[17] Quelle est donc, en l’espèce, la véritable relation qui existait entre l’appelant et Florexpert? Y avait‑il entre l’appelant et Florexpert une prestation de travail, une rémunération et un lien de subordination. Le Ministre s’est fondé sur l’information recueillie lors de son enquête pour préparer la Réponse à l’avis d’appel rédigée dans les termes suivants :
+1. Les débroussailleurs, dont l’appelant, devaient se déplacer sur les chantiers, fournir leur équipement, se loger et se nourrir eux-mêmes.
+2. Ils n’avaient pas à respecter un horaire de travail précis.
+3. Ils ne recevaient aucune formation.
+4. Le payeur leur attribuait un chantier sur lequel ils travaillaient généralement seuls et sans supervision du payeur.
+5. Ils étaient rémunérés en fonction du nombre d’hectares de bois débroussaillés.
+6. Ils devaient fournir leurs outils de travail, l’essence et s’occuper de l’entretien de leur matériel.
+7. Leurs heures de travail n’étaient pas comptabilisées car seul le résultat intéressait le payeur.
+8. Ils ne recevaient aucuns avantages sociaux du payeur, pas même le 4 % de paie de vacances.
+9. Ils n’avaient aucun quota à atteindre et étaient rémunérés uniquement en fonction de la quantité de travail exécutée.
+[18] L’appelant a admis les paragraphes 5, 6, 8 et 9. Il a rendu, à mon avis, un témoignage crédible et sincère qui, sur plusieurs points, contredit les présomptions de fait sur lesquelles le Ministre a fondé sa décision.
+[19] L’appelant soutient qu’il devait se rendre au camp de Florexpert mais, une fois là, il était transporté par Florexpert sur les chantiers aux heures qui correspondaient avec les activités du camp, particulièrement les heures de repas. Il était hébergé et nourri par Florexpert, mais remboursait ce dernier pour ces services. Il est vrai que l’appelant n’avait pas à respecter un horaire de travail précis, mais il devait respecter celui établi par Florexpert dans l’exploitation de son camp d’hébergement. L’appelant était ainsi contraint de respecter, à tout le moins, l’horaire du camp établi par Florexpert.
+[20] Sur le plan de la formation, il est vrai que l’appelant savait ce qu’il devait faire. Cependant, il a témoigné que, selon le type de terrain qu’il devait débroussailler, il recevait des instructions sur la façon d’exécuter le travail afin de protéger certaines essences d’arbre et de se conformer aux exigences de Florexpert. Cela m’indique que Florexpert avait, en l’espèce, un degré de contrôle et un pouvoir sur l’exécution du travail par l’appelant.
+[21] L’appelant n’avait pas le pouvoir de choisir le type de terrain sur lequel il était appelé à travailler. Le terrain lui était assigné par Florexpert et le tarif variait selon le terrain. De plus, si Florexpert jugeait qu’un certain terrain était trop accidenté, elle exigeait que l’appelant soit accompagné par un autre travailleur qu’elle payait. L’appelant n’avait, comme seul pouvoir discrétionnaire, que le choix de ce travailleur. Il s’agit là, à mon avis, d’un indice qu’il y avait chez Florexpert un pouvoir de direction et de contrôle du travailleur qui appuie la thèse du lien de subordination.
+[22] Il est vrai que l’appelant devait fournir ses propres outils. Il dépendait, cependant de Florexpert pour se procurer l’essence et les pièces nécessaires au bon fonctionnement de ses outils. Florexpert assurait ce service par l’entremise de son superviseur qui faisait la tournée des chantiers avec de l’essence et les pièces de rechange qu’il vendait aux travailleurs. Tout retard dans cette distribution était au détriment des travailleurs et non de Florexpert. À mon avis, un travailleur autonome se serait assuré de ne pas manquer de rien afin de ne pas avoir à attendre le superviseur et à dépendre de ses allées et venues.
+[23] Il y a par contre des indices qui favorisent aussi la thèse du travailleur autonome. Le fait que les heures de travail n’étaient pas comptabilisées et que l’appelant était payé uniquement en fonction du nombre de terrains débroussaillés indique que Florexpert n’était intéressée qu’au résultat et qu’à la qualité du travail exécuté. Il est vrai aussi qu’il n’y avait pas de quota à atteindre puisque le travailleur était rémunéré en fonction de la quantité de travail exécuté. Le fait que l’appelant fournissait ses outils de travail et qu’il achetait de l’essence et des pièces vendues par Florexpert sont également des indices que l’appelant était un travailleur autonome.
+[24] Je crois cependant que l’appelant a réussi, selon la prépondérance de la preuve, à démontrer que, dans l’ensemble, il n’avait pas grand pouvoir décisionnel, de sorte qu’il était réellement intégré dans les activités forestières de Florexpert. De plus, cette dernière exerçait sur l’appelant un pouvoir de direction ou de contrôle suffisamment important pour m’amener à conclure à l’existence d’un lien de subordination. L’appelant recevait des directives précises quant aux endroits où il devait débroussailler; on lui assignait un terrain, on déterminait le tarif et comment il devait effectuer son travail en fonction du type de terrain. Cela revient principalement à dire que Florexpert choisissait les terrains en fonction de la capacité de l’appelant d’accomplir la tâche. On lui assignait un co‑équipier lorsque Florexpert jugeait le terrain trop accidenté. Il lui était défendu de travailler plus de 15 jours de suite à défaut de quoi il était pénalisé. Il devait respecter l’horaire du camp où il était hébergé et devait, par la force des choses, résider dans ce camp. À toute fin pratique, il devait acheter son essence et ses pièces de Florexpert, réduisant ainsi son pouvoir de contrôler le coût de ses dépenses. Tout cela crée, à mon avis, un lien de subordination et m’amène à conclure que les services rendus par l’appelant à Florexpert sont des services qui ont été rendus en vertu d’un contrat de travail et qu’il s’agit donc d’un emploi assurable au sens de la Loi.
+[25] L’appel est accueilli et la décision rendue par le ministre du Revenu national est annulée en ce que l’appelant, Arkadily Lisovenko, occupait un emploi assurable.
+Signé à Ottawa, Canada, ce 22e jour de janvier 2008.
+« François Angers »
+Juge Angers
+RÉFÉRENCE : 2008CCI6
+Nº DU DOSSIER DE LA COUR : 2007-1601(EI)
+INTITULÉ DE LA CAUSE : Arkadily Lisovenko et M.R.N.
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 1er novembre 2007
+MOTIFS DU JUGEMENT PAR : L’honorable juge François Angers
+DATE DU JUGEMENT : le 22 janvier 2008
+COMPARUTIONS :
+Avocate de l’appelant :
+Me Stéphanie Archambault
+Avocate de l’intimé :
+Me Christina Ham
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant:
+Nom : Me Stéphanie Archambault
+Cabinet : Blackburn & Associés, Avocats
+Ville : Montréal (Québec)
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

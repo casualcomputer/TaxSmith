@@ -1,0 +1,133 @@
+Title: Guy Perston DBA Gladiator Transport SS c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28263/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-511-28263-guy-perston-dba-gladiator-transport-ss-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2007-02-06
+
+# Guy Perston DBA Gladiator Transport SS c. M.R.N.
+
+- Citation: 2007 CCI 511
+- Decision date: 2007-02-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2044, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Guy Perston DBA Gladiator Transport SS c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-02-06
+Référence neutre
+2007 CCI 511
+Numéro de dossier
+2006-1569(EI)
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi sur l'assurance-emploi
+Régime de pensions du Canada
+Contenu de la décision
+Référence : 2007CCI511
+Date : 20070913
+Dossiers : 2006-1569(EI)
+2006-1571(CPP)
+ENTRE :
+GUY PRESTON DBA GLADIATOR TRANSPORT SS,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+DEREK W. BURGESS,
+intervenant.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Motifs rendus oralement à l’audience à
+Kelowna (Colombie‑Britannique), le 6 février 2007.)
+Le juge Beaubier
+[1] Les appels ont été entendus ensemble, sur preuve commune, à Kelowna (Colombie‑Britannique), le 6 février 2007. L’appelante et l’intervenant étaient les seuls témoins.
+[2] Les détails litigieux sont exposés aux paragraphes 12 à 14 inclusivement de la réponse à l’avis d’appel portant le numéro 2006-1571(CPP). Ils sont rédigés comme suit :
+[traduction]
+12. Dans une lettre datée du 10 mars 2006, le ministre a fait part de sa décision portant que l’appelante employait M. Burgess aux termes d’un contrat de louage de services du 10 septembre 2004 au 13 mai 2005 (la « période »), au sens de l’alinéa 6(1)a) du Régime.
+13. En rendant sa décision, le ministre s’est fondé sur les hypothèses de fait suivantes :
+a) l’appelante avait transféré le titre de propriété d’un véhicule semi‑remorque à Bronco Transportation Systems Inc. (« Bronco »);
+b) Bronco exploitait une entreprise de transport terrestre de biens et de marchandises au moyen de tracteurs et de remorques;
+c) l’appelante et Bronco avaient conclu un contrat de location aux termes duquel Bronco utilisait le semi‑remorque de l’appelante aux fins de son entreprise de transport;
+d) Bronco fournissait les services de répartition et les services administratifs et versait à l’appelante un pourcentage des recettes générées par chaque voyage effectué par le semi‑remorque loué à l’appelante;
+e) le nom de Bronco paraissait sur le semi‑remorque;
+f) l’appelante, aux termes du contrat de location conclu avec Bronco, était tenue de rembourser à Bronco les coûts de l’assurance du semi‑remorque;
+g) l’appelante avait passé une annonce pour trouver un conducteur de camion;
+h) M. Burgess avait répondu à l’annonce de l’appelante et avait été embauché par l’appelante pour conduire le semi‑remorque loué;
+i) l’appelante avait affecté M. Burgess au service de Bronco afin que M. Burgess conduise le semi‑remorque;
+j) M. Burgess devait suivre les politiques, les procédures et les ordres de répartition de Bronco;
+k) M. Burgess n’était pas autorisé à prendre des passagers dans le semi‑remorque;
+l) les heures et les jours de travail de M. Burgess étaient fixés par le répartiteur de Bronco;
+m) M. Burgess avait travaillé exclusivement pour l’appelante pendant la période;
+n) l’appelante devait payer l’essence, les réparations, l’entretien général et les frais de péage relatifs au semi‑remorque qu’elle louait à Bronco;
+o) M. Burgess était responsable des infractions aux règlements de la circulation qu’il commettait pendant qu’il conduisait le semi‑remorque;
+p) M. Burgess n’avait rien investi dans le semi‑remorque;
+q) M. Burgess fournissait des bottes à embout d’acier, un petit jeu d’outils, des cartes, un téléphone cellulaire, des stylos et du papier;
+r) M. Burgess ne pouvait sous‑traiter son travail à un autre conducteur;
+s) l’appelante versait à M. Burgess de 25 à 30 % des profits réalisés grâce au semi‑remorque;
+t) M. Burgess n’avait pas de possibilité de profit;
+u) M. Burgess était tenu de consulter l’appelante si un problème surgissait entre lui et Bronco;
+v) M. Burgess ne facturait pas la taxe sur les produits et services (la « TPS ») à l’appelante;
+w) M. Burgess n’était pas présent dans le monde des affaires pendant qu’il conduisait le semi‑remorque.
+B. QUESTION À TRANCHER
+14. Il s’agit de décider si M. Burgess exerçait un emploi ouvrant droit à pension pour l’appelante pendant la période.
+[3] Les hypothèses 13a) à h) inclusivement, j), k), l), n) à r) inclusivement et v) sont exactes. En ce qui les concerne :
+d) Bronco obtenait tous les contrats de transport de ses clients, elle les facturait et percevait l’argent auprès d’eux, puis elle payait les parties;
+h) l’intervenant avait passé une entrevue devant l’appelante, mais il avait été embauché par la suite par Bronco, après avoir répondu aux exigences exposées pendant l’entrevue et aux exigences en matière d’examens et de documents;
+i) l’appelante avait simplement dirigé l’intervenant vers Bronco, qui, selon la preuve, était le seul transporteur à qui l’appelante louait ses semi‑remorques (elle en avait deux, et en a acquis un autre par la suite);
+k) M. Burgess prenait des passagers dans le semi‑remorque, et un de ceux‑ci (M. McPherson) conduisait aussi de temps en temps;
+l) Bronco et M. Burgess décidaient quand ce dernier travaillerait;
+n) M. Burgess a témoigné qu’il conduisait seulement le semi‑remorque de l’appelante, mais il avait dit à l’appelante qu’il conduisait aussi pour d’autres – le témoignage de l’appelante est retenu, parce que M. Burgess a admis qu’il avait été rétrogradé par Bronco pour avoir refusé de faire des voyages;
+q) M. Burgess fournissait aussi des gants, de petits outils, des lampes et des rubans;
+r) M. Burgess demandait parfois à M. McPherson de conduire pour lui.
+[4] En ce qui concerne les autres hypothèses, la Cour conclut que :
+s) Bronco gardait 15 % de ce que lui versaient les clients; l’appelante et l’intervenant se partageaient les 85 % restants, dans une proportion de 70 à 75 % pour l’appelante, et de 25 à 30 % pour l’intervenant;
+t) M. Burgess exerçait un contrôle sur les profits que pouvaient réaliser l’appelante et M. Burgess ou leur risque de perte par sa volonté à faire des voyages, le temps qu’il mettait à faire les voyages et son comportement envers Bronco et les clients de Bronco. Il a reconnu que Bronco n’était pas satisfaite de ses services et qu’elle avait commencé à le [traduction] « priver », de sorte qu’il ne pouvait plus tirer profit de ses voyages, ni l’appelante, par le fait même;
+u) M. Burgess n’était pas tenu de consulter l’appelante s’il avait un problème concernant Bronco et traitait directement avec Bronco;
+w) M. Burgess avait une présence dans le monde des affaires. Il se faisait passer, auprès de tiers, pour un entrepreneur travaillant à son compte et pour le propriétaire du semi‑remorque de l’appelante, qu’il songeait, déclarait‑il, à vendre. Il avait aussi des cartes professionnelles portant le nom de Nexxt Transportation Group LP; il remettait ces cartes à des tiers et les avait utilisées lorsqu’il avait fait réparer le tracteur en février et en mai 2005.
+[5] La Cour ne croit pas M. Burgess, et quand son témoignage contredit celui de l’appelante, la Cour retient le témoignage de l’appelante. Selon le dossier de M. Burgess pour la période, celui‑ci conduisait ou non, à son gré; il avait permis à M. McPherson de conduire, ce qui était interdit et compromettait Bronco et l’appelante; il avait créé des problèmes à Bronco; il avait faussement utilisé le nom fictif de Nexxt Transportation Group LP, qui n’était pas une société de personnes enregistrée, et faussement évoqué son statut d’entrepreneur auprès de tiers lorsqu’il croyait que c’était à son avantage.
+[6] Au moyen des critères établis dans l’arrêt Wiebe Door Services Ltd. c. M.R.N., [1986] 3 C.F. 553, la Cour conclut ce qui suit :
+1. Contrôle – M. Burgess exerçait le contrôle opérationnel réel de l’utilisation du semi‑remorque et de ses services. Bronco avait embauché M. Burgess et donnait du travail à M. Burgess en fonction du rendement de ce dernier. L’appelante n’avait aucun contrôle sur M. Burgess ni sur le travail de M. Burgess.
+2. Propriété des instruments de travail – Bronco avait en réalité conclu deux contrats : un contrat avec l’appelante relativement au bien de celle‑ci, soit le semi‑remorque, et un contrat avec M. Burgess relativement aux services de ce dernier et aux petits outils qu’il fournissait à titre de conducteur.
+3 et 4. Possibilité de profit et risque de perte – M. Burgess contrôlait sa possibilité de profit et son risque de perte, et il contrôlait aussi ceux de l’appelante. Ils avaient tous deux cette possibilité et ce risque, lesquels étaient entièrement tributaires des relations que M. Burgess entretenait avec Bronco, des services qu’il rendait à Bronco et aux clients de Bronco, de sa volonté à conduire et de sa capacité de le faire.
+5. Intégration – Il n’y avait pas de vraie intégration. Bronco attribuait des chargements ou n’en attribuait pas. M. Burgess conduisait ou ne conduisait pas. Le semi‑remorque de l’appelante était utilisé par Bronco ou par M. Burgess, ou il ne l’était pas.
+[7] M. Burgess avait signé avec l’appelante un contrat aux termes duquel il était entrepreneur indépendant. C’était le marché qu’ils avaient conclu, et M. Burgess se comportait de manière indépendante de l’appelante et de Bronco. Il était là pour lui, et il était en outre en affaires pour son propre compte, peu importe comment il choisissait de le faire.
+[8] Les appels sont accueillis. L’appelante a droit aux dépens et aux débours prévus par la Loi sur l’assurance‑emploi.
+Signé à Calgary (Alberta), ce 13e jour de septembre 2007.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 19e jour d’octobre 2007.
+Johanne Brassard, trad. a.
+RÉFÉRENCE : 2007CCI511
+NO DU DOSSIER DE LA COUR : 2006-1569(EI)
+INTITULÉ : Guy Perston DBA Gladiator Transport SS c. M.R.N. et Derek W. Burgess
+LIEU DE L’AUDIENCE : Kelowna (Colombie‑Britannique)
+DATE DE L’AUDIENCE : Le 6 février 2007
+MOTIFS DU JUGEMENT
+RENDUS ORALEMENT : L’honorable juge D.W. Beaubier
+DATE DES MOTIFS DU
+JUGEMENT RENDUS
+ORALEMENT : Le 13 septembre 2007
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Richard D. Covell
+Avocate de l’intimé :
+Me Sara Fairbridge
+Pour l’intervenant :
+L’intervenant lui‑même
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Me Richard D. Covell
+Cabinet : Richard Covell Law Office
+Pour l’intimé : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

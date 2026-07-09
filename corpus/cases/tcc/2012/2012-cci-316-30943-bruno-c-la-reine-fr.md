@@ -1,0 +1,159 @@
+---
+title: "Bruno c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30943/index.do"
+last_modified: "2012-09-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 316"
+citation2: ""
+neutral_citation: "2012 CCI 316"
+decision_date: "2012-09-06"
+language: "fr"
+item_id: "30943"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6132
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:25:22.695000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0ae842e3f9467a69187e6cd0c2ded08d41a0154ea8e47316050fd0d47e2cef4f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bruno c. La Reine
+
+- Citation: 2012 CCI 316
+- Decision date: 2012-09-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6132, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bruno c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-09-06
+Référence neutre
+2012 CCI 316
+Numéro de dossier
+2011-2616(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-2616(IT)I
+ENTRE :
+TERESA BRUNO,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 5 juillet 2012, à Hamilton (Ontario).
+Par : L’honorable juge J.M. Woods
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocate de l’intimée :
+Me Alisa Apostle
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2007 et 2008 est accueilli, et les cotisations sont déférées au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations en tenant compte du fait que l’appelante a droit à des déductions supplémentaires de 9 000 $ et de 3 500 $ pour 2007 et 2008, respectivement. Chaque partie assumera ses propres dépens.
+Signé à Ottawa (Ontario), ce 6e jour de septembre 2012.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 30e jour d’octobre 2012.
+Espérance Mabushi, M.A.Trad. Jur.
+Référence : 2012 CCI 316
+Date : 20120906
+Dossier : 2011-2616(IT)I
+ENTRE :
+TERESA BRUNO,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] L’appelante, Teresa Bruno, exploite l’entreprise Shades N Shutters, qui est spécialisée dans la fourniture de couvre‑fenêtres sur mesure.
+[2] Dans le calcul du revenu tiré de l’entreprise pour les années d’imposition 2007 et 2008, Mme Bruno a déduit 18 000 $ et 7 000 $, respectivement, au titre de salaires versés à ses deux enfants qui avaient fourni des services à l’entreprise.
+[3] La question en litige est de savoir si c’est à juste titre que le ministre du Revenu national (le « ministre ») a refusé la déduction des montants en question. Dans les nouvelles cotisations établies, d’autres rajustements au revenu d’entreprise ont été effectués et Mme Bruno ne les conteste pas.
+[4] Mme Bruno était le seul témoin à l’audience.
+Contexte factuel
+[5] L’entreprise Shades N Shutters a été créée par Mme Bruno et son époux en 2003. Bien que les deux époux aient participé aux activités de l’entreprise, rien n’indique qu’ils agissaient à titre d’associés d’une société de personnes. Selon les actes de procédure, il semble que c’est Mme Bruno qui était propriétaire de l’entreprise, à laquelle son époux fournissait des services en tant qu’entrepreneur indépendant.
+[6] Pour l’année d’imposition 2007, Mme Bruno a déclaré un revenu d’entreprise de 11 944 $. Pour l’année d’imposition 2008, elle a déclaré une perte d’entreprise de 16 963 $.
+[7] Les deux enfants de Mme Bruno étaient âgés de 15 ans et 16 ans et de 13 ans et 14 ans dans les années en question, et ils aidaient dans l’entreprise pendant les fins de semaine et les congés.
+[8] Selon les éléments de preuve fournis par Mme Bruno, le plus jeune des enfants effectuait des tâches peu spécialisées telles que du nettoyage et la réception des appels téléphoniques, et l’aîné faisait principalement du travail de bureau. Les deux enfants ont également consacré du temps à l’apprentissage de la vente.
+[9] Mme Bruno a produit en preuve un résumé des heures travaillées et du salaire gagné par les enfants. Le salaire payé était situé entre 10 $ et 12 $ l’heure. Il ressort du résumé produit que les enfants travaillaient généralement pendant les heures d’ouverture de l’entreprise durant les journées de fin de semaine en 2007 et durant une journée de fin de semaine en 2008, ainsi que durant les jours de congé dans les deux années. Mme Bruno a expliqué les heures de travail réduites en 2008 par le fait que l’activité de l’entreprise n’était pas aussi bonne que prévu en 2008.
+[10] Le salaire n’était pas payé par chèque. Mme Bruno payait plutôt certaines dépenses personnelles des enfants, dont le total est environ égal aux salaires figurant sur le résumé. Selon le témoignage de Mme Bruno, les dépenses correspondaient à des articles de luxe que les enfants avaient choisi d’acheter au moyen de l’argent qu’ils avaient gagné. Mme Bruno a conservé une liste des dépenses accompagnées d’une brève description.
+[11] Mme Bruno a déclaré que, selon les conseils reçus de son comptable, elle ne pouvait pas déduire des dépenses supportées à l’égard des besoins essentiels des enfants, mais qu’elle pouvait déduire les dépenses concernant des articles de luxe. Elle a ajouté qu’elle avait suivi ce conseil et qu’elle avait consigné les dépenses qui seraient admissibles.
+[12] Mme Bruno a déclaré qu’elle pouvait refuser tout achat effectué par les enfants si elle jugeait que cela ne convenait pas, mais qu’habituellement, elle approuvait ces achats.
+Analyse
+[13] Pour que des dépenses de cette nature soient déductibles, elles doivent avoir été effectuées en vue de tirer un revenu d’une entreprise et non pour régler des frais personnels ou de subsistance de Mme Bruno.
+[14] Les dispositions pertinentes sont énoncées aux alinéas 18(1)a) et h) de la Loi de l’impôt sur le revenu (la « Loi »). Elles sont ainsi libellées :
+18(1) Exceptions d’ordre général - Dans le calcul du revenu du contribuable tiré d’une entreprise ou d’un bien, les éléments suivants ne sont pas déductibles :
+a) Restriction générale - les dépenses, sauf dans la mesure où elles ont été engagées ou effectuées par le contribuable en vue de tirer un revenu de l’entreprise ou du bien;
+[…]
+h) Frais personnels ou de subsistance - le montant des frais personnels ou de subsistance du contribuable — à l’exception des frais de déplacement engagés par celui-ci dans le cadre de l’exploitation de son entreprise pendant qu’il était absent de chez lui;
+[15] Tout d’abord, j’aimerais faire observer que la Couronne n’a pas soutenu que les salaires étaient déraisonnables compte tenu des services offerts et que Mme Bruno n’a presque pas été contre‑interrogée sur ce point. J’admets donc que les montants sont raisonnables.
+[16] La Couronne a soutenu que les dépenses ne sont pas déductibles parce qu’elles représentent des frais personnels ou de subsistance de Mme Bruno et que les enfants n’avaient pas suffisamment de contrôle sur les fonds.
+[17] Mme Bruno a laissé entendre dans son témoignage que les dépenses n’étaient pas de nature personnelle parce qu’elle n’aurait pas acheté des articles de luxe pour ses enfants sauf si ces derniers avaient gagné l’argent nécessaire pour les payer. La preuve concernant la nature des dépenses n’était pas suffisamment précise pour emporter ma conviction sur ce point. Selon toute vraisemblance, les dépenses comportent à la fois un élément lié à l’entreprise et un élément personnel.
+[18] Quel est le principe juridique applicable lorsqu’il faut examiner la déductibilité d’une dépense qui comporte à la fois un élément lié à l’entreprise et un élément personnel? L’arrêt qui fait autorité en la matière est Symes v The Queen, 94 DTC 6001 (CSC), qui portait sur la déductibilité des frais de garde d’enfant supportés par une contribuable qui exerçait la profession d’avocate.
+[19] À l’examen de l’interaction entre les alinéas 18(1)a) et h) de la Loi, la majorité des juges de la Cour suprême a conclu, dans l’arrêt Symes, que l’interdiction de déduire des frais personnels au titre de l’alinéa 18(1)h) ne s’applique pas à une dépense effectuée en vue de la production d’un revenu. Le juge Iacobucci a fait les observations suivantes, à la page 6014 du DTC :
+En conséquence, à la réflexion, on n’a proposé aucun critère qui améliorerait ou modifierait sensiblement un critère reposant directement sur le libellé de l’al. 18(1)a). L’analyse nous ramène à la source, et je peux simplement me poser la question suivante : l’appelante a‑t‑elle engagé des frais de garde d’enfants en vue de tirer un revenu de l’entreprise ou de faire produire un revenu à l’entreprise?
+[20] En conséquence, si un contribuable supporte une dépense en vue de tirer un revenu de l’entreprise ou de faire produire un revenu à l’entreprise, la déduction ne sera pas interdite au titre de l’alinéa 18(1)h) de la Loi compte tenu du fait que la dépense comporte un avantage personnel pour le contribuable.
+[21] Par application du principe énoncé ci‑dessus aux faits de l’espèce, si des salaires raisonnables sont dus aux enfants, une déduction peut être demandée si les salaires sont versés sous forme d’achat d’articles personnels de luxe choisis par les enfants.
+[22] L’argument de la Couronne selon lequel les enfants n’exerçaient pas suffisamment de contrôle sur les fonds est fondé sur la décision Bradley c La Reine, 2006 CCI 500, 2006 DTC 3535. Voici la teneur du paragraphe 9 de cette décision :
+[9] Cependant, dans les situations mettant en jeux des personnes apparentées ou un parent et un enfant, les paiements doivent être faits et déposés comme si le bénéficiaire avait été un étranger. Le bénéficiaire doit recevoir le prétendu paiement à son nom et le contrôler, ainsi qu’être capable de l’utiliser à son avantage sans autre forme de surveillance de la part du payeur. Cela ne s’est pas produit en l’espèce.
+[23] L’observation ci‑dessus laisse entendre que les enfants doivent exercer un contrôle complet sur les dépenses faites. En toute déférence, je ne souscris pas à cette observation, et je tiens à souligner que la décision Bradley ne constitue pas un précédent d’application obligatoire étant donné qu’il s’agissait d’une affaire entendue sous le régime de la procédure informelle. À mon avis, il n’y a rien de mal à ce que les parents aient le droit de refuser des dépenses faites par leurs enfants.
+[24] En ce qui concerne les faits de l’espèce, la difficulté qui se pose à l’égard de l’argument présenté par Mme Bruno est que la preuve n’est pas suffisamment précise pour que je sois convaincue, même selon une preuve à première vue, que toutes les dépenses ont été effectuées au profit des enfants, et encore moins qu’elles concernaient des articles de luxe.
+[25] La preuve concernant la nature des dépenses consistait principalement dans le témoignage oral de Mme Bruno et la liste qu’elle avait préparée. Le témoignage oral est une preuve intéressée et il n’est pas suffisamment précis pour me convaincre à l’égard de la plupart des dépenses. Quant aux documents comptables, un grand nombre de descriptions des dépenses étaient simplement trop générales pour être d’une grande utilité.
+[26] Compte tenu de la preuve dans son ensemble, je suis convaincue que certaines dépenses correspondent à des articles de luxe achetés au profit des enfants. Toutefois, la preuve n’est pas suffisamment précise pour me permettre de déterminer les articles qui sont admissibles. En pareilles circonstances, lorsque l’appel est régi par la procédure informelle, il convient que la Cour fasse un calcul approximatif. Pour ce motif, je propose d’accorder une déduction de 50 % des montants en question.
+[27] Compte tenu du résultat mitigé, aucuns dépens ne sont adjugés.
+Signé à Ottawa (Ontario), ce 6e jour de septembre 2012.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 30e jour d’octobre 2012.
+Espérance Mabushi, M.A.Trad. Jur.
+RÉFÉRENCE : 2012 CCI 316
+No DU DOSSIER DE LA COUR : 2011-2616(IT)I
+INTITULÉ : TERESA BRUNO c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Hamilton (Ontario)
+DATE DE L’AUDIENCE : Le 5 juillet 2012
+MOTIFS DU JUGEMENT : L’honorable juge J.M. Woods
+DATE DU JUGEMENT : Le 6 septembre 2012
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle‑même
+Avocate de l’intimée :
+Me Alisa Apostle
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : s/o
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

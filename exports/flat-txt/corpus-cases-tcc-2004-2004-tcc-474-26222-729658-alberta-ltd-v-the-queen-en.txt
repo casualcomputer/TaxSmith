@@ -1,0 +1,213 @@
+Title: 729658 Alberta Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26222/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-474-26222-729658-alberta-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-06-29
+
+# 729658 Alberta Ltd. v. The Queen
+
+- Citation: 2004 TCC 474
+- Decision date: 2004-06-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4019, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+729658 Alberta Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-06-29
+Neutral citation
+2004 TCC 474
+File numbers
+2003-194(IT)G
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-194(IT)G
+BETWEEN:
+729658 ALBERTA LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 11, 2004 at Calgary, Alberta
+By: The Honourable Justice J.M. Woods
+Appearances:
+Counsel for the Appellant:
+H. George McKenzie, Q.C.
+Counsel for the Respondent:
+Jon Gilbert and Carla Lamash
+____________________________________________________________________
+JUDGMENT
+The appeal in respect of a reassessment made under the Income Tax Act is allowed, and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that a deduction under subsection 112(1) applies to the full amount of the dividends in the amount of $1,932,802 paid by Comcare Ltd. to the appellant and that subsection 55(2) of the Act does not apply to deem any part of these dividends to be proceeds of disposition or gain.
+The appellant is entitled to its costs.
+Signed at Ottawa, Canada, this 29th day of June 2004.
+"J.M. Woods"
+J.M. Woods J.
+Docket: 2003-195(IT)G
+BETWEEN:
+729656 ALBERTA LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 11, 2004 at Calgary, Alberta
+By: The Honourable Justice J.M. Woods
+Appearances:
+Counsel for the Appellant:
+H. George McKenzie, Q.C.
+Counsel for the Respondent:
+Jon Gilbert and Carla Lamash
+____________________________________________________________________
+JUDGMENT
+The appeal in respect of a reassessment made under the Income Tax Act is allowed, and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that a deduction under subsection 112(1) applies to the dividends in the amount of $1,834,065 paid by Comcare Ltd. to the appellant and that subsection 55(2) does not apply to deem any part of these dividends to be proceeds of disposition or gain.
+The appellant is entitled to its costs.
+Signed at Ottawa, Canada, this 29th day of June 2004.
+"J.M. Woods"
+J.M. Woods J.
+Citation: 2004TCC474
+Date: 20040629
+Docket: 2003-194(IT)G
+BETWEEN:
+729658 ALBERTA LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2003-195(IT)G
+AND BETWEEN:
+729656 ALBERTA LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] The appellants, 729656 Alberta Ltd. and 729658 Alberta Ltd., have been reassessed pursuant to subsection 55(2) of the Income Tax Act in respect of dividends that they received as part of a series of transactions designed to extract so-called "safe income" on a tax-deferred basis prior to an arm's length sale of shares."Safe income" is the term commonly used to describe the amount of corporate income that can be extracted by way of tax-free intercorporate dividends without being recharacterized as capital gains under subsection 55(2).
+[2] The specific issue in these appeals is how "safe income" should be determined if dividends are received by a corporation on shares that were acquired on a partial rollover under subsection 85(1) of the Act. The Crown submits that safe income should be apportioned on a pro rata basis if an accrued gain is partly realized by a transferor under subsection 85(1). The appellants submit that it is not reasonable to apportion safe income on a pro rata basis on their particular facts because the transactions do not offend the object and spirit of subsection 55(2).
+Overview of subsection 55(2)
+[3] Subsection 55(2) is an anti-avoidance provision that was introduced in the 1979 federal budget. At the time of its introduction, the government was concerned that taxpayers were engaging in transactions that unduly reduced capital gains on a sale of shares by converting proceeds of disposition into tax-free intercorporate dividends.
+[4] The relevant part of subsection 55(2) reads:
+... one of the purposes of which ... was to effect a significant reduction in the portion of the capital gain that, but for the dividend, would have been realized on a disposition at fair market value of any share of capital stock immediately before the dividend and that could be reasonably be attributable to anything other than income earned or realized by any corporation after 1971 and before the safe-income determination time for the transaction, event or series ...
+(emphasis added)
+[5] The legislative scheme is not apparent from subsection 55(2). However, it was described by the government at the time the section was introduced. The scheme was succinctly described by Noel, J.A. in Kruco Inc. v. R., [2003] 4 C.T.C. 185 (F.C.A.):
+The goal was to ensure that the capital gain inherent in the shares of a corporation that is attributable to an unrealized appreciation since 1971 in the value of the underlying assets of the corporation was not avoided by the use of intercorporate tax-free dividends (subsection 112(1)). At the same time, Parliament did not want to impede the tax-free flow of dividends that were attributable to income which had already been taxed.
+...
+Conceptually, this approach captures the tax applicable to the portion of the notional gain attributable to an increase in value of the underlying assets while maintaining the tax-free treatment of that part of this gain attributable to 'income earned or realized' since 1971.
+Facts
+[6] The facts are not in dispute and were provided by way of agreed statements. A summary of the relevant facts, based on a written submission on behalf of the appellants, is attached as an appendix to these reasons.
+[7] Prior to the transactions at issue, Ronald Lauterstein and Lewis Nickerson each owned 50 percent of the shares of Comcare Ltd., a Canadian-controlled private corporation. On May 28, 1997, the shares of Comcare were sold to an arm's length buyer. In the week leading up to the share sale, Messrs. Lauterstein and Nickerson undertook a series of transactions[1] that was designed in part to defer tax on the amount of "safe income" attributable to their shares.
+[8] Prior to the series of transactions, the shares of Comcare owned by each individual had a fair market value of $12,429,037 and an adjusted cost base of $37,600. Most of the value, then, represented accrued gain. The safe income on the Comcare shares at that time was estimated to be $1,932,802 and this calculation is not in dispute in these appeals.
+[9] The relevant transactions undertaken during the week prior to the share sale were:
+(a) a transfer by Messrs. Lauterstein and Nickerson of the shares of Comcare to their holding companies (the appellants);
+(b) the payment of taxable dividends by Comcare to the holding companies aggregating $1,932,802; and
+(c) the sale of the shares of Comcare by each of the holding companies to an arm's length buyer for cash consideration of $10,393,335. The consideration was equal to the fair market value of the shares of Comcare before the series of transactions less the amount of dividends paid to the holding companies.
+[10] These steps are typical of transactions that are designed to access safe income and would not have been controversial if the shares of Comcare had been transferred to the holding companies at their adjusted cost base so that the holding companies had inherited the entire accrued gain ($12,391,437). What has led to these transactions being reassessed is that most of the accrued gain was realized by Messrs. Lauterstein and Nickerson on the transfer. Only a small portion of the accrued gain, an amount equal to the estimated safe income ($1,932,802), was transferred to the holding companies. This was effected by making elections under subsection 85(1) such that the deemed proceeds of disposition of the shares of Comcare to Messrs. Lauterstein and Nickerson, and the deemed cost of the shares of Comcare to the holding companies, was $10,393,335.[2]
+[11] The tax result that Messrs. Lauterstein and Nickerson intended by this series of transactions was for them to realize taxable dividends of $10,393,335 (on the transfer of the shares of Comcare to the holding companies) and for the holding companies to realize tax-free dividends from Comcare and no gain on the sale of the Comcare shares. The Crown has not suggested that this resulted in less tax than would be payable if the transactions had been implemented in a more conventional manner, with the holding companies inheriting the entire accrued gain. If the holding companies had inherited the entire gain, the individuals would not have realized any income and the holding companies would have realized capital gains of $10,393,335.
+[12] The Minister of National Revenue reassessed tax for the 1997 taxation years of the holding companies pursuant to subsection 55(2). A portion of the dividends received by the holding companies was recharacterized as proceeds of disposition and taxed as capital gains. The Minister took the position that the safe income that was attributable to the Comcare shares in the hands of the individuals, which was admitted to be $1,932,802, should be prorated when the shares were transferred to the holding companies. The accrued gain that was rolled to the holding companies ($1,932,802) represented approximately one-sixth of the entire accrued gain ($12,391,437) and the Minister reasoned that only one-sixth of the safe income should be inherited by the holding companies. Therefore approximately five-sixths of the dividends were recharacterized as proceeds of disposition pursuant to subsection 55(2).
+Issue
+[13] The question to be determined is whether a pro rata portion of the dividends received by the holding companies should be recharacterized as proceeds of disposition pursuant to subsection 55(2).[3]
+Positions of parties
+[14] The position of the Crown is that, on the subsection 85(1) transfer, the safe income should be prorated on the same basis that the accrued gain is prorated.The specific arguments made in support of this position are:
+(a) because the safe income that was attributable to the portion of the capital gain realized on the transfer to the holding companies is reflected in the adjusted cost base of the shares to the holding companies, it should not continue to be double-counted as safe income;
+(b) requiring proration of the safe income is a reasonable extension of generally accepted principles of interpretation of subsection 55(2);
+(c) the position is in accordance with the object and spirit of the legislation which is reflected in the phrase "reasonably be attributed;"
+(d) the position accords with the administrative practice of the Canada Revenue Agency; and
+(e) it has been recognized in the tax literature.
+[15] The appellants, on the other hand, submit that since the transactions were intended to defer tax on income that had been subject to tax in Comcare, there is no reasonable basis to deny this result since it is in accordance with the scheme of the Act.
+[16] The parties also made submissions as to which position should take precedence if I were to determine that both positions were reasonable. The Crown submits that its position trumps the position of the appellants and that subsection 55(2) should be applied in this case: Nassau Walnut Investments Inc. v. R.,[1998] 1. C.T.C. 33 (F.C.A.) and Brelco Drilling Ltd. v. R., [1999] 3 C.T.C. 95 (F.C.A.). The appellants submit that these cases are not relevant on these facts and that any ambiguity should be resolved in favour of the taxpayer: Johns-Manville Canada Inc. v. R., [1985] 2 C.T.C. 111 #2 (S.C.C.).
+Analysis
+[17] These appeals concern how an accrued gain should be apportioned between "income earned or realized" and "unrealized appreciation in the value of underlying assets." The answer turns on the meaning of the phrase "reasonably be attributable."
+[18] Often when a provision of the Act requires something to be allocated on a reasonable basis, an averaging or proration is the most logical basis for the allocation. I am not satisfied that this is appropriate in this case. In my view, the word "reasonably" in the context of this anti-avoidance provision implies that the accrued gain should be allocated based on the particular circumstances of the case to counter the mischief that was sought to be addressed. That is the approach that has generally be adopted in interpreting this section.
+[19] In interpreting the phrase "reasonably be attributable," there has never been any suggestion that an accrued gain should generally be apportioned on a pro rata basis between "income earned or realized" and "unrealized appreciation in the value of underlying assets." The accepted approach is that gain is first allocated to "income earned or realized" and, only if dividends exceed this amount, is gain allocated to "unrealized appreciation in the value of underlying assets." There is nothing in the statute that implies this ordering but it is critical in order that subsection 55(2) achieve the legislative purpose. I note this because it illustrates that Parliament intended subsection 55(2) to be read in context. I would also note that the so-called contextual approach was endorsed by Revenue Canada when subsection 55(2) was first introduced. In the so-called Robertson Rules published in the proceedings of the 1981 annual conference of the Canadian Tax Foundation, Revenue Canada attempted to give guidance to tax advisers as to how to interpret the new section. Mr. Robertson stated:
+... The application of subsection 55(2) is intended to be limited to cases of genuine tax avoidance and common sense should prevail.
+[20] The mischief that subsection 55(2) is aimed at is clearly described in the 1979 federal budget which introduced this provision. Because of its importance in these appeals, I reproduce the relevant passage in its entirety:
+Important amendments will be introduced to clarify and reinforce the intent of the anti-avoidance provision relating to artificial or undue reductions in capital gains.
+Concerns have been expressed as to the legislative scope and intended application of this anti-avoidance provision. A number of plans have been developed whereby, as a preliminary step to certain sales of shares, a corporate vendor extracts what are in substance sale proceeds in the form of tax-free intercorporate dividends or deemed dividends to decrease the value - or increase the cost base - of the shares to the point where capital gains tax is avoided. These tax-free dividends frequently exceed the earnings of the corporation to be sold. Such excessive dividends are usually motivated only by the vendor's desire to reduce his exposure to capital gains tax.
+As a general rule, the objective of the tax law is that on most arm's-length and on certain non-arm's length intercorporate share sales, a capital gain should arise at least to the extent that the sale proceeds reflect the unrealized and untaxed appreciation since 1971 in the value of underlying assets. This objective will generally be achieved where tax-free dividends on shares are limited to post-1971 taxed retained earnings.
+Rules will be introduced to clarify the intention of the law in this respect. These rules will ensure that where it can reasonably be considered that one of the main purposes of a tax-free intercorporate dividend was to reduce the proceeds on a disposition of a share, the capital gain otherwise determined will be adjusted to reflect the extent to which aggregate tax-free dividends have exceeded post-1971 taxed retained earnings.
+[21] Looking at the circumstances of these appeals, the appellants argue that no tax has been avoided and that the dividends received by the holding companies do not exceed what the statutory scheme contemplates. I agree with this. The series of transactions was designed to extract by way of tax-free dividends the "income earned or realized" by Comcare that contributed to the accrued gain. This is not in dispute. The transactions also resulted in tax being paid on the untaxed appreciation in the value of the underlying assets of Comcare. Messrs. Lauterstein and Nickerson realized this income in the form of taxable dividends. The Crown has not suggested that there has been any tax leakage by having this tax paid by Messrs. Lauterstein and Nickerson rather than by the holding companies nor by having the gain realized in the form of dividends rather than capital gains. The amount of tax that was paid, then, appears to be what Parliament had intended.
+[22] If the position of the Crown is correct, and a proration is required, Comcare's "income earned or realized" would not be distributed as tax-free intercorporate dividends. The result of a pro rata allocation would be that Messrs. Lauterstein and Nickerson would realize income equal to the untaxed appreciation in the value of Comcare's assets and the holding companies would realize capital gains equal to five-sixths of Comcare's "income earned or realized." Accordingly I conclude that the Crown's position is not consistent with the scheme of the Act. Accordingly, if subsection 55(2) is given a purposive interpretation in accordance with its object and spirit, the allocation by the appellants is reasonable and the allocation suggested by the Crown is not.
+[23] The Crown's position seems to be that the phrase "reasonably be attributable" does not allow this purposive interpretation and requires a proration. Several times during argument counsel for the Crown indicated that its interpretation was a technical one rather than one that had been prompted by perceived tax avoidance in this case. I now turn to the Crown's specific arguments.
+[24] Double-counting - The Crown suggests that safe income is partially reflected in the adjusted cost base of the shares to the holding companies and should not continue to be double-counted as safe income. This seems to be the Crown's main argument and the difficulty that I have with it is that it begs the question. If safe income is partially reflected in the adjusted cost base of the shares, as the Crown suggests, then safe income has been partly allocated to the gain that was realized by Messrs. Lauterstein and Nickerson. This is the very question that is at issue. If safe income is allocated entirely to the accrued gain that is inherited by the holding companies, as the appellants suggest, there would be no "double counting."
+[25] Extension of accepted principles - The Crown suggests that its interpretation is a reasonable extension of two widely accepted principles in the interpretation of subsection 55(2). The first principle, referred to by the Crown as the "holding period principle," is that "income" is attributable to gain only if the income is earned during the period of share ownership, that is, during the period that the gain accrued. The second principle, referred to by the Crown as the "rollover principle," is that safe income flows through on a subsection 85(1) rollover in which the transferee inherits the transferor's gain.
+[26] I do not agree that the position of the Crown in this case is a fair extension of these accepted interpretations. Whereas the "holding period principle" and the "rollover principle" are consistent with the scheme of the Act as set out in the budget materials above, the position of the Crown in this case is inconsistent with that scheme.
+[27] Scheme of the Act - The Crown argues that its interpretation is in accordance with the scheme of the Act. The argument is that the object and spirit of the legislation permits tax to be deferred only where the dividends can be reasonably attributed to income. The flaw with this argument is that it also begs the question. The essential question to be decided is how gain should be reasonably attributed to "income" and "something else."
+[28] This argument might have some merit if the phrase "reasonably be attributed" connotes an averaging or proration. However, this is not the case. The Canadian Oxford Dictionary defines the words "reasonable" and "attribute" as follows:
+reasonable 1 having sound judgment; moderate; ready to listen to reason. 2 in accordance with reason; not absurd. 3a within the limits of reason; fair moderate (a reasonable request). b inexpensive; not extortionate. c fairly good, average (the food here is reasonable).
+attribute 1 regard as belonging or appropriate to (a poem attributed to Shakespeare). 2 ascribe to; regard as the effect of a stated cause (the delays were attributed to heavy traffic). 1a a quality ascribed to a person or thing. b a characteristic quality. 2 a material object recognized as appropriate to a person, office or status (a sceptre is an attribute of majesty). 3 Grammar an attributive adjective or noun.
+These definitions suggest that the allocation should be fair and moderate. They do not require that there be an averaging or proration.
+[29] Administrative practice - The Crown argues that its interpretation is in accordance with administrative practice. The Crown referred to a statement by an official of the Canada Revenue Agency at a regional tax conference of the Canadian Tax Foundation suggesting that there should be a proration of safe income if shares are transferred to a holding company on a partially tax-deferred basis in order to crystallize the capital gains exemption.
+[30] The administrative practice that the Crown has referred me to has no application to the facts in these appeals. The statement by the Canada Revenue Agency applies where a partial subsection 85(1) rollover is used to take advantage of the capital gains exemption. It is not necessary to express a view regarding this administrative practice. The facts in these appeals are quite different from those that the Canada Revenue Agency considered.
+[31] Tax literature - The Crown argues that its position is supported by the tax literature: Ton-That and Sider, Understanding Section 55 and Butterfly Transactions.[4] The relevant passage reads (p. 48):
+However, if a complete rollover is not attained, some of the safe income may be lost. If the elected amount is $500,000, the gain that flows through to Holdco's shares will be $500,000 instead of $1 million. It seems reasonable that only $300,000 of this gain would be attributable to safe income. On the transfer, $500,000 of the gain was realized. There is no support for the argument that the realized gain was first derived from the portion of the $1 million gain that was attributable to something other than safe income. It is more reasonable to say that 60 percent of the realized gain was attributable to safe income and 40 percent to something else.
+This comment should be read in context - it is a short passage in a 350-page book. While the views of tax practitioners should be given careful consideration, Messrs. Ton-That and Sider do not set out what arguments they considered in coming to this conclusion. In my view, the reference provides little support for the Crown's position.
+Conclusion
+[32] I would conclude that the appellants' interpretation of subsection 55(2) is reasonable in the circumstances of this case and the Crown's interpretation is not. In light of this conclusion, it is not necessary that I consider the arguments concerning the approach to be taken if both interpretations were reasonable.
+[33] The appeals will be allowed and the reassessments referred back to the Minister to reassess on the basis that the taxable dividends paid to 729656 Alberta Ltd. in excess of $98,737, and the aggregate taxable dividends paid to 729658 Alberta Ltd., should not be recharacterized under subsection 55(2).
+[33] The appellants are entitled to their costs.
+Signed at Ottawa, Canada, this 29th day of June, 2004.
+"J.M. Woods"
+J.M. Woods J.
+APPENDIX A
+Summary of Relevant Facts
+1. Messrs. Nickerson and Lauterstein, two unrelated individuals, each owned 50 percent of the shares of Comcare Limited, a Canadian-controlled private corporation.
+2. The shares of Comcare owned by Mr. Lauterstein had an adjusted cost base of $37,600, a fair market value of $12,429,037 and an inherent capital gain of $12,391,437. The "safe income" attributable to Mr. Lauterstein's shares immediately prior to the series of transactions was $1,932,802 and the capital dividend account was $102,900.
+3. The shares of Comcare owned by Mr. Nickerson had an adjusted cost base of $37,600, a fair market value of $12,429,037 and an inherent capital gain of $12,391,437. The "safe income" attributable to Mr. Nickerson's shares immediately prior to the series of transactions was $1,834,065 and the capital dividend account was $102,900.
+4. During the week prior to selling their shares of Comcare, Messrs. Lauterstein and Nickerson undertook the following transactions:
+(a) The sale by Mr. Lauterstein of his common shares of Comcare to 729658 Alberta Ltd. ("658"), a company owned 100 percent by him, in consideration of the issuance of a promissory note in the amount of $10,393,335 and 2,035,702 common shares of 658;
+(b) The sale by Mr. Nickerson of his common shares of Comcare to 729656 Alberta Ltd. ("656"), a company owned 100 percent by him, in consideration of the issuance of a promissory note in the amount of $10,393,335 and 2,035,702 common shares of 656; and
+(c) Together with the holding companies, made elections under subsection 85(1) of the Act electing $10,393,335 as the "agreed amount" for the purposes of the Act.
+5. As a result of the foregoing transactions, Messrs. Lauterstein and Nickerson each realized taxable dividends in the amount of $10,355,735 (presumably under section 84.1) and the adjusted cost base of the shares of Comcare to each of 656 and 658 was $10,393,335. The adjusted cost base to Messrs. Lauterstein and Nickerson of their respective 2,035,702 common shares of 658 and 656 was nil.
+6. Comcare paid a series of dividends totalling $2,035,702 to each of 658 and 656 as follows:
+a) taxable dividends $1,932,802
+b) non-taxable capital dividends $ 102,900
+Total dividends $2,035,702
+7. The dividends were in the form of stock dividends and the shares were redeemed for cash shortly after their issuance.
+8. On May 28, 1997, each of 658 and 656 sold their common shares of Comcare for $10,393,335, an amount equal to the adjusted cost base of their respective shares of Comcare. The purchaser was 3358755 Canada Ltd., a corporation dealing at arm's length with Messrs. Lauterstein and Nickerson.
+9. In reporting the transactions for income tax purposes, Messrs. Lauterstein and Nickerson each reported taxable dividends of $10,393,335. 658 and 656 reported the dividends received from Comcare as tax-free and did not report any gain on the sale of the shares.
+CITATION:
+2004TCC474
+COURT FILE NO.:
+2003-194(IT)G and 2003-195(IT)G
+STYLE OF CAUSE:
+729658 Alberta Ltd. v. The Queen
+729656 Alberta Ltd. v. The Queen
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+May 11, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice J.M. Woods
+DATE OF JUDGMENT:
+June 29, 2004
+APPEARANCES:
+Counsel for the Appellants:
+H. George McKenzie, Q.C.
+Counsel for the Respondent:
+Jon Gilbert and Carla Lamash
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+H. George McKenzie, Q.C.
+Firm:
+Felesky, Flynn
+Calgary, Alberta
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1]
+While the appellants' counsel took the view that these transactions did not constitute a series of transactions, neither party suggested that the meaning of "series of transactions" was relevant to these appeals. For reference purposes only, I will refer to the transactions preceding the arm's length share sale as a "series of transactions."
+[2] There was no evidence before me as to why the transactions were structured in this manner. In argument, counsel for the appellants indicated that he thought that it related to a United States tax issue which arose because one of the owners was a United States citizen.
+[3] Mr. Nickerson acknowledges that a small portion of the dividends paid to his holding company should be recharacterized as proceeds of disposition under subsection 55(2) because there was less safe income attributable to his shares. The amount that the parties agree should be recharacterized as a capital gain is $98,737. For simplicity I will not refer to this discrepancy in these reasons and will use the figures applicable to Mr. Lauterstein. I have also ignored in these reasons a small amount of dividends paid out of the capital dividend account that is not at issue in these appeals.
+[4] The Crown also referred to Kellough and McQuillan, Taxation of Private Corporations and Their Shareholders. Messrs. Ton-That and Sider are contributing editors of this book and the relevant passages are identical.

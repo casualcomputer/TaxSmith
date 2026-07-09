@@ -1,0 +1,125 @@
+Title: Borgia v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29274/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-266-29274-borgia-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2009-06-16
+
+# Borgia v. M.N.R.
+
+- Citation: 2009 TCC 266
+- Decision date: 2009-06-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7046, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Borgia v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-06-16
+Neutral citation
+2009 TCC 266
+File numbers
+2008-1255(EI)
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2008-1255(EI)
+BETWEEN:
+JACQUES BORGIA,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+9045-9942 QUÉBEC INC.,
+Intervenor.
+____________________________________________________________________
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on May 12, 2009, at Shawinigan, Quebec.
+Before: The Honourable Justice François Angers
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Agent for the intervenor:
+Mélanie Bélec
+Georges Bérard
+____________________________________________________________________
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act is dismissed and the decision rendered by the Minister is confirmed.
+Signed at Ottawa, Canada, this 16th day of June 2009.
+"François Angers"
+Angers J.
+Translation certified true
+on this 30th day of September 2009.
+Erich Klein, Revisor
+Citation: 2009 TCC 266
+Date: 20090616
+Docket: 2008-1255(EI)
+BETWEEN:
+JACQUES BORGIA,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+9045-9942 QUÉBEC INC.,
+Intervenor.
+REASONS FOR JUDGMENT
+Angers J.
+[1] The appellant is appealing from a decision by the Minister of National Revenue (the Minister) dated December 10, 2007, that the appellant did not hold insurable employment within the meaning of subsection 5(1) of the Employment Insurance Act (the Act) on the ground that he was not employed under a contract of service but rather under a contract for services. The appellant allegedly worked from November 1, 2004, to April 29, 2005, from December 5, 2005, to June 2, 2006, and from November 13, 2006, to May 11, 2007, for the intervenor, the company 9045‑9942 Québec Inc.
+[2] The appellant was the sole shareholder of the company. It operated a distribution and wholesale sales business for Argo amphibious vehicles and for parts and equipment. In 1997, he sold all his shares to Gestion Georges Bérard Inc. and withdrew from the company until 1999. There was nothing in the sales contract of the company's shares that required the acquirer, Gestion Georges Bérard Inc., to hire the appellant in any capacity whatsoever.
+[3] In January 1999, the company needed the appellant's services. It realized that the appellant's knowledge and experience were required to improve the business's performance. The parties allegedly came to an agreement at that time that the appellant's services would be required for a period of 26 weeks per year. The appellant was therefore hired from January 1999 to the end of the last period in question, May 11, 2007. The only thing that changed was the start of the period of employment, which varied from November to December each year and ended 26 weeks later. According to the company, the appellant was to work an average of 40 hours a week although the number of hours might vary from week to week. As for the company's business, it was run by four or five employees and operated 30 hours a week. The appellant received $600 per week for the three periods in question.
+[4] During the appellant's first years of work for the company, he helped in preparing stalls used at exhibitions, transporting the vehicles, cleaning carpets, etc. He was in charge of exhibitions and showed the company's employees how to prepare them. The appellant also advised the company on what purchases to make, on which models to purchase, on quantities, colours and specifications, and he tested various models while providing the company with information on the performance of competitors' models.
+[5] The company did not record the appellant's hours of work. It relied on the appellant and feels it knows approximately how long it would take the appellant to conduct the tests. It addressed indirectly the issue of hours worked: the company's representative met the appellant three or four times a week and he stated that he could gauge the appellant's hours worked. In cross-examination, he did admit, however, that he could go three consecutive weeks and sometimes even two or three months without meeting with the appellant. In fact, the appellant went to Florida every winter and, according to the company's representative, the appellant took his work with him and they met in Florida to talk about what had to be done. Their relationship was based on trust.
+[6] During the periods in question, the appellant resided in Windigo, around three hours' drive to the company's place of business. It is clear that the appellant did not regularly go to work at the company's offices, particularly when he was staying in Florida. Moreover, the appellant had surgery on his right arm on April 25, 2007, and admitted, in a letter to the Canada Revenue Agency, that after this surgery he was unable to drive because he was also handicapped with respect to his left arm. According to the evidence, he was nonetheless paid to May 11, 2007.
+[7] The appellant testified that he received instructions from the company but what it wanted was his expertise. He never prepared any written reports for the company because he communicated the results of his work verbally. The company could also contact the appellant any time during the year to consult with him, even outside the periods in question. The company received awards for best vendor and distributor and the appellant's work was highly appreciated.
+[8] The appeals officer, Lyne Courcy, filed her report and the resulting recommendation was that the appellant, when working for the company during the periods in question, occupied non-insurable employment as that employment did not meet the requirements for a contract of service set out in paragraph 5(1)(a) of the Act.
+[9] The onus is accordingly on the appellant to show, on a balance of probabilities, that the Minister's decision is ill-founded and that he held insurable employment during the periods in question.
+[10] The Civil Code of Québec defines as follows a contract of employment and a contract of enterprise or for services:
+Contract of employment
+2085. A contract of employment is a contract by which a person, the employee, undertakes for a limited period to do work for remuneration, according to the instructions and under the direction or control of another person, the employer.
+Contract of enterprise
+2098. A contract of enterprise or for services is a contract by which a person, the contractor or the provider of services, as the case may be, undertakes to carry out physical or intellectual work for another person, the client or to provide a service, for a price which the client binds himself to pay.
+[11] In a recent Federal Court of Appeal decision, NCJ Educational Services Ltd. v. Canada, [2009] F.C.J. No. 507, Desjardins J.A. noted the history of the concept of subordination found in the Civil Code of Québec, referring to author Robert Gagnon (Le droit du travail du Québec, 6th Edition) and to the fact that, in the latest edition of his work, certain indicia have been added that make possible an analysis resembling that used in common law. The relevant passage of the book states:
+[translation]
+92 — Concept—Historically, the civil law initially developed a strict or classical concept of legal subordination that was used as a criterion for applying the principle that a master is civilly liable for damage caused by his servant in the performance of his duties (article 1054 C.C.L.C.; article 1463 C.C.Q.). This classical legal subordination was characterized by the employer' direct control over the employee's performance of the work, in terms of the nature of that work and the way it was performed. This concept was gradually relaxed, giving rise to the concept of legal subordination in the broad sense. The reason for this is that the diversification and specialization of occupations and work methods often made it unrealistic for an employer to be able to dictate or even directly supervise the performance of the work. Consequently, subordination came to mean the ability of the person who is thus recognized as the employer to determine the work to be performed, and to control and monitor its performance. Viewed from the reverse perspective, an employee is a person who agrees to integrate into the operational structure of a business so that the business can benefit from the employee's work. In practice, one looks for a certain number of indicia of control (and these indicia can vary depending on the context): mandatory presence at a workplace; the more or less regular assignment of work; the imposition of rules of conduct or behaviour; the requirement to provide activity reports; control over the quantity or quality of the services; the ownership of tools; the chance of profit; the risk of loss; etc. The fact that a person works at home does not mean that he or she cannot be integrated into the business in this way.
+[12] I must first note that there is no doubt that the appellant rendered services to the company and that he performed work for the company's benefit. This is not the issue in the present case. Rather, the issue is whether the contract between the appellant and the company is a contract of service or for services.
+[13] The circumstances and the evidence presented show that the appellant had no work schedule to follow and that, for all intents and purposes, the number of hours worked was not calculated. In fact, the number of hours the appellant was to work per week does not correspond at all to the company's business hours. Moreover, the appellant did not have an office to work in on the company's premises. He was able to work at home, or in Florida for three or four weeks, during the 2005 and 2006 work periods, and for at least 11 of the 26 work weeks in 2007; then there was a period when he was unable to work due to surgery he had in April 2007. It is therefore quite clear that the hours worked were not very important in the context of the services the appellant was to render to the company.
+[14] Thus, the appellant was the only one who controlled his time and his hours of work and, in the end, the company was only interested in the results of his work, that is, the verbal recommendations the appellant provided during their meetings.
+[15] For the three years in question, the appellant acted only as an advisor, given his experience and knowledge in the field. The company could consult the appellant outside the work periods and the evidence shows that the company even provided him with a new model of a vehicle for him to test in the fall of 2007, which was outside his period of work. These are indicators that support the Minister's position that this was a provision of services under a contract for services.
+[16] The company admitted before the appeals officer that even if the appellant did not work during a given week, he was still paid. Moreover, the evidence shows that the duration of the employment was always 26 weeks every year. However, the appellant was unable to justify the duration of his employment, except to state that the parties had agreed that 26 weeks were required. No details or information were presented to justify the duration of the employment or to show that it was necessary to rehire the appellant for the same length of time every year. The evidence seems to indicate that what we have here is the payment of a sum of money spread out over 26 weeks with no right to control the hours the appellant actually worked.
+[17] In my opinion, the company was interested only in the appellant's oral report and his valuable advice. The company did not monitor or exercise any control over the appellant's comings and goings. He was not supervised and, in my opinion, there was no relationship of subordination between the appellant and the company.
+All this evidence leads me to find that the work performed by the appellant was done under a contract for services. The appeal is therefore dismissed.
+Signed at Ottawa, Canada, this 16th day of June 2009.
+"François Angers"
+Angers J.
+Translation certified true
+on this 30th day of September 2009.
+Erich Klein, Revisor
+CITATION: 2009 TCC 266
+COURT FILE NO.: 2008-1255(EI)
+STYLE OF CAUSE: Jacques Borgia v. M.N.R.
+PLACE OF HEARING: Shawinigan, Quebec
+DATE OF HEARING: May 12, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: June 16, 2009
+APPEARANCES:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Agent for the intervenor:
+Mélanie Bélec
+Georges Bérard
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

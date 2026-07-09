@@ -1,0 +1,194 @@
+Title: Storrs v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/363864/index.do
+Corpus path: corpus/cases/tcc/2019/2019-tcc-38-363864-storrs-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2019-02-20
+
+# Storrs v. M.N.R.
+
+- Citation: 2019 TCC 38
+- Decision date: 2019-02-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4357, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Storrs v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-02-20
+Neutral citation
+2019 TCC 38
+File numbers
+2017-3444(EI), 2017-3445(CPP)
+Judges and Taxing Officers
+Susan Wong
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2017-3445(CPP)
+BETWEEN:
+JENNIFER IDELL STORRS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Appeal heard on common evidence with the appeal of Jennifer Idell Storrs (2017-3444(EI)) on November 20, 2018, at Calgary, Alberta
+Before: The Honourable Justice Susan Wong
+Appearances:
+Counsel for the Appellant:
+Tyler Derksen / Aman Rai
+Counsel for the Respondent:
+Aminollah Sabzevari
+JUDGMENT
+The appeal pursuant to subsection 28(1) of the Canada Pension Plan is allowed and the decision of the Minister of National Revenue dated May 23, 2017 is varied in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 20th day of February 2019.
+“Susan Wong”
+Wong J.
+Docket: 2017-3444(EI)
+BETWEEN:
+JENNIFER IDELL STORRS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Appeal heard on common evidence with the appeal of Jennifer Idell Storrs (2017-3445(CPP)) on November 20, 2018, at Calgary, Alberta
+Before: The Honourable Justice Susan Wong
+Appearances:
+Counsel for the Appellant:
+Tyler Derksen / Aman Rai
+Counsel for the Respondent:
+Aminollah Sabzevari
+JUDGMENT
+The appeal pursuant to subsection 103(1) of the Employment Insurance Act is allowed and the decision of the Minister of National Revenue dated May 23, 2017 is varied in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 20th day of February 2019.
+“Susan Wong”
+Wong J.
+Citation: 2019 TCC 38
+Date: 20190220
+Dockets: 2017-3444(EI)
+2017-3445(CPP)
+BETWEEN:
+JENNIFER IDELL STORRS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Wong J.
+Introduction
+[1] The Appellant Jennifer Storrs appeals the May 23, 2017 decision of the Minister of National Revenue (the “Minister”) in which the Minister confirmed a ruling that Ms. Storrs was self-employed during the period from January 1, 2015 to June 15, 2016 (the “Period”).
+[2] The Minister determined that during the Period, the Appellant was not engaged in insurable and pensionable employment with Ronald C. Witzke Professional Dental Corporation (the “Payer”) within the meaning of paragraphs 5(1)(a) of the Employment Insurance Act (“EIA”) and 6(1)(a) of the Canada Pension Plan (“CPP”), respectively.
+[3] The Appellant testified as the sole witness on her behalf. The Respondent called Patricia Papadoulis (rulings officer), Stephanie Perras (trust accounts examination officer) and Diana Greaves (accountant with EBT Chartered Professional Accountants) as witnesses. No one from the Payer testified.
+Appellant’s objection with respect to hearsay
+[4] Before turning to the application of the legal test in this appeal, I must first address the objection raised by counsel for the Appellant with respect to hearsay evidence.
+Objection
+[5] Counsel argued that this Court should give little weight to the testimony of the Respondent’s witnesses and the Payer Questionnaire (Exhibit A-1, Tab 4; Exhibit R-7) completed by the Payer, because they are hearsay. He submitted that the Appellant was deprived of procedural fairness because the Respondent did not call anyone from the Payer and, therefore, no one from the Payer was available for cross-examination. He then acknowledged that the Appellant also did not subpoena anyone from the Payer to testify and explained that in his view, the Appellant’s evidence would be sufficient to rebut the Minister’s assumptions of fact in the Reply to the Notice of Appeal.
+Analysis
+[6] Paragraphs 18.29(1)(a) and (b) of the Tax Court of Canada Act incorporate the application of the Act’s Informal Procedure provisions to appeals arising under Part I of the CPP and Part IV of the EIA, respectively. As a result, subsection 18.15(3) applies such that this Court is not bound by the rules of evidence when hearing CPP and EIA appeals and shall deal with these appeals informally and expeditiously, while considering the circumstances and fairness.
+[7] I do not find the fact that the Respondent declined to call a witness from the Payer to testify to have deprived the Appellant of procedural fairness. If the Appellant required the attendance of someone from the Payer for questioning, she (through her counsel) had the right to subpoena the witnesses they needed. It is the right to subpoena the necessary witnesses to make one’s case that lends procedural fairness to the present situation, rather than a right to cross-examine a witness that the opposing party has elected not to call.
+[8] With respect to the hearsay evidence presented during trial, it remains for this Court to assign the appropriate weight.
+Test to be applied
+[9] In 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., (“Sagaz”), 2001 SCC 59, [2001] 2 SCR 983, at paras. 46 and 47, the Supreme Court of Canada stated that there is no universal test to determine whether a person is an employee versus an independent contractor and that the “central question is whether the person who has been engaged to perform the services is performing them in business on his own account.” The Court then referred to the non-exhaustive list of factors to be considered:
+[47] … In making this determination, the level of control the employer has over the worker’s activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker’s opportunity for profit in the performance of his or her tasks.
+[10] In 1392644 Ontario Inc. o/a Connor Homes v. The Minister of National Revenue, 2013 FCA 85, [2013] FCJ No. 327, at paras. 38 to 42, the Federal Court of Appeal considered the weight to be given to the parties’ intention in determining whether a worker is an employee (contract of service) or an independent contractor (contract for services). The Court concluded that the inquiry was a two-step process, i.e. first, ascertain the subjective intent of the parties and second, determine whether an objective reality sustains their subjective intent. The Court also stated that the central question remains as set out above in Sagaz.
+A. Intention
+[11] The Appellant has diplomas in hospitality and administrative e-commerce. Immediately before the Period, she worked as a bookkeeper with EBT Chartered Professional Accountants (“EBT”).
+[12] She testified that while at EBT, she provided bookkeeping services to the Payer as an EBT client. She stated that at the time, the Payer was a dental office with a total of approximately 15 employees, including Dr. Ronald Witzke.
+[13] She stated that at the end of November 2014, she left her position at EBT with two weeks of severance pay. She testified that at around the same time, Kim-Michelle McNolty approached her on behalf of the Payer and asked her to continue providing bookkeeping services directly to the Payer.
+[14] The Appellant testified that she then started doing the Payer’s bookkeeping directly. She stated that in about February 2015, she had a longer conversation with Ms. McNolty, during which the Appellant told Ms. McNolty that if the Payer wished for her to continue providing bookkeeping services, she wished to have employee status. She stated that she requested a monthly salary of $4,500 net of tax, and that Ms. McNolty agreed to both the employee status and the net monthly salary.
+[15] The Appellant testified that her first day of work was February 1, 2015. With respect to the Appellant’s start date, I note that in her Worker’s Questionnaire (Exhibit A-1, Tab 3, at question 39) dated April 22, 2017 and signed by her, she indicated that her first day of employment was March 1, 2015. During the hearing, no explanation was offered by the Appellant as to the discrepancy in her statements. In addition, in question 41 of the Payer Questionnaire (Exhibit A-1, Tab 4; Exhibit R-7) dated May 3, 2017 and signed by Dr. Witzke, the Payer indicated that the Appellant’s first day of employment was January 1, 2015.
+[16] In the Payer Questionnaire, the Payer stated at question 77 that it intended the Appellant to be self-employed.
+[17] The Appellant created a LinkedIn profile (Exhibit R-1) in which she described herself as self-employed with two years of work experience as a self‑employed contract bookkeeper beginning in 2015. In cross-examination, she acknowledged creating the profile but offered no explanation for the contrary position taken in the present appeal.
+[18] The Appellant stated that in early April 2016, Ms. McNolty informed her that the Payer no longer required her services effective April 15th. The Appellant said that the Payer was experiencing cash-flow issues so it became necessary to lay her off. She stated that the Payer gave her one week of severance pay. On the other hand, the Payer indicated at question 59 of the Payer Questionnaire that when the relationship ended, no compensation or benefits were provided to the Appellant upon termination.
+[19] The rulings officer, Ms. Papadoulis, testified that her interview notes (Exhibit A-1, Tab 5) were made contemporaneously and then transcribed soon thereafter, which I accept to be true. She spoke with the Appellant and attempted to speak with Dr. Witzke, who did not respond to her attempts to contact him. Instead, Ms. Papadoulis spoke with Ms. Greaves of EBT, who advised that the Payer continued to be an EBT client for year-end accounting after the Appellant began doing the Payer’s bookkeeping in early 2015. Ms. Greaves informed Ms. Papadoulis that the Payer was adamant the Appellant was hired on a contract basis. On the other hand, when Ms. Papadoulis interviewed the Appellant, the Appellant was equally adamant that she was the Payer’s employee.
+Analysis of intention
+[20] Given the conflicting statements made by the Appellant at different points in time and the Payer’s limited participation generally, I find the hearsay evidence offered in the documents tendered by both parties and the testimony given by the Respondent’s witnesses to have significant probative value.
+[21] It is sufficiently clear from the available evidence that the Appellant and Payer did not share a common intention as to whether the Appellant would be an employee or independent contractor during the Period.
+B. Objective reality of the parties’ conduct
+[22] To answer the central question of whether the Appellant was performing the services as a person in business on her own account, I now turn to the second step of the two-part inquiry, i.e. a determination of the objective reality of the parties’ conduct based on the relevant factors referred to in Sagaz.
+(1) Control
+[23] In Wolf v. The Queen, 2002 FCA 96, 2002 DTC 6853, at para. 74, the Federal Court of Appeal said that:
+[74] The control test, as it is commonly referred to, purports to examine who controls the work and how, when and where it is to be done. In theory, if the worker has complete control over the performance of his work once it has been assigned to him, this factor might qualify the worker as an independent contractor. On the other hand, if the employer controls in fact the performance of the work or has the power of controlling the way the employee performs his duties (Gallant v. Canada (Department of National Revenue) (F.C.A.), [1986] F.C.J. No. 330 (Q.L.), the worker will be considered an employee.
+[24] At paragraph 75 of Wolf, the Court noted that in the case of skilled workers, the control test can be inadequate because little supervision or control can be exercised over the way in which the work is done.
+[25] The Appellant testified that her responsibilities initially consisted of general bookkeeping, entering accounts receivable, calculating payroll semi-monthly, and preparing cheques for signature. Both the Appellant (in her testimony) and the Payer (at questions 12, 13, and 20 in the Payer Questionnaire) agreed that she performed her bookkeeping duties at her home, without supervision.
+[26] The Appellant stated that her responsibilities later came to include: picking up mail from the Payer’s office or from the joint residence of Dr. Witzke and Ms. McNolty; sorting the mail; reconciling the Payer’s monthly bank statements; making supply runs to Costco to purchase K-cups for the Payer’s Keurig coffee maker, toilet paper, and juice boxes for the Payer’s child patients; hand-delivering cheques to vendors if the payments were late; and picking up coffee for meetings. She testified that in one instance, she made travel arrangements to Banff for Dr. Witzke and Ms. McNolty. She stated that she made herself available to the Payer around the clock and that if she did not perform these additional tasks, she was verbally reprimanded by Ms. McNolty.
+[27] The Appellant also testified that over the course of 2015, her responsibilities came to include human resources tasks, such as handling minor complaints in the office and assisting Ms. McNolty with the development of an employee manual.
+[28] Neither the Appellant nor the Payer mention these additional non-bookkeeping responsibilities in their respective questionnaires, nor are they mentioned in Ms. Papadoulis’ interview notes. However, based on the available evidence as to the parties’ conduct, I believe that the Appellant initially provided only bookkeeping services to the Payer but that over the course of the Period, she began to provide the additional non-bookkeeping services. The Appellant wished to be an employee and in furtherance of that goal, she made herself available to the Payer around the clock. The Payer, in turn, took advantage of the fact that the Appellant made herself available and eventually had her doing more than bookkeeping.
+[29] Bookkeeping is a skilled service but the non-bookkeeping services provided by the Appellant are not. I find that once she began providing these additional non-bookkeeping services, the Payer’s degree of control over her increased to a level that is more consistent with a contract of service than an independent contractor relationship.
+[30] In reality, the degree of control likely gradually increased but I must draw a clear line for the purposes of this appeal. The clearest line available to me is the point at which the Appellant joined the Payer’s group Retirement Savings Plan with Sun Life Financial. The Appellant testified that in order for her to participate in the Payer’s group plan, it would have been necessary for the Payer to give its approval to Sun Life. Ms. Greaves testified that when she asked Dr. Witzke about the Appellant’s participation in the group plan, he said that he did not have any knowledge of it.
+[31] I accept the Appellant’s testimony that the Payer would have had to approve her participation in the plan and I find that the Payer did so. Based on the Sun Life Financial account statement (Exhibit A-1, Tab 12), the Appellant joined the group plan on January 1, 2016. I therefore find January 1, 2016 to be the date on which the Payer’s degree of control changed from that of independent contractor to employee.
+(2) Who provided the equipment?
+[32] As stated above under the heading “Control”, the Appellant and the Payer (at question 12 in the Payer Questionnaire) agreed that she performed her bookkeeping duties at her home.
+[33] The Appellant (in her testimony and at questions 61 and 63 of the Worker’s Questionnaire) and the Payer (at question 63 of the Payer Questionnaire) agreed that the Appellant provided the tools needed for bookkeeping, which consisted of a computer, accounting software, and a telephone.
+[34] The Appellant (at question 64 of the Worker’s Questionnaire) and the Payer (at question 66 of the Payer Questionnaire) agreed that she did not receive an allowance or reimbursement for the use of her own tools and equipment. In addition, the Appellant testified that she had no out-of-pocket expenses for which she required reimbursement and that the Payer provided such things as paper for her printer. She also stated that there was a small office with a phone she could use at the Payer’s premises if necessary.
+[35] She testified that she was given a company debit card and credit card by the Payer. She stated that she used the former to pay for the Payer’s supplies at Costco and coffee for meetings, but that she never used the latter. The Appellant also stated that she used the company debit card to pay vendors who did not wish to be paid by cheque.
+[36] I find that when the Appellant was providing only bookkeeping services to the Payer, this test favours the finding of independent contractor because she carried out her responsibilities in a compartmentalized and independent manner. However, once she began providing non-bookkeeping services to the Payer as well, the test becomes inconclusive. While she required few tools to carry out her non-bookkeeping responsibilities, the additional duties were integrated with the Payer’s daily business and she received the use of the Payer’s debit and credit cards to do so.
+(3) Opportunity for profit/Degree of financial risk taken
+T4 income and remittances
+[37] The Appellant testified that she was paid a monthly net salary of $4,500. In her Worker’s Questionnaire (at questions 44 and 46), she stated that this monthly net salary was offered by Ms. McNolty and that her monthly rate of pay was $6,212.51.
+[38] The Payer stated (at questions 46, 47, and 48 of the Payer Questionnaire) that: (1) the Appellant was typically paid twice monthly but that the frequency varied; (2) her rate of pay varied; and (3) the net pay was set by the Appellant and agreed to by the Payer.
+[39] Copies of the Appellant’s paystubs (Exhibit A-1, Tab 11) for the period from March 9, 2015 to April 15, 2016 showed that she was generally paid in the middle and at the end of each month. The Appellant testified that she prepared her own paystubs at the same time as she prepared the ones for the Payer’s other employees.
+[40] The Appellant testified that she sometimes took mid-month advances on her pay. Her paystubs showed mid-month amounts of $1,000 to $1,500 referred to as “loans”, as well as calculations for monthly remittances which would ordinarily be withheld at source.
+[41] When asked in cross-examination about her July 3, 2015 paystub which showed a net pay of $2,000 at the end of the month and a mid-month advance of $1,000, she stated that she was paid a total of $3,000 rather than $4,500 that month because the Payer had a cash-flow problem. She testified that she continued working for the Payer out of loyalty despite not being paid in full.
+[42] The Appellant’s August 7, 2015 paystub shows that she received net pay totalling $5,000 ($1,500 mid-month loan and $3,500 at month-end) for what was likely the month of July. Her October 30, 2015 paystub shows that she received a $1,000 mid-month loan and $4,500 at month-end, for a total of $5,500. Her paystubs for March 2015, April 2015, May 2015, August 2015, September 2015, November 2015, December 2015, January 2016, and February 2016 showed that she received a monthly net pay of $4,500. Her three paystubs dated April 15, 2016 (her last day of work with the Payer) show that she received a loan of $1,500 and additional net pay amounts of $750 and $1,342.45.
+[43] The trust accounts examination officer, Ms. Perras, testified that in 2016, she reviewed the Payer’s payroll remittances for the purpose of verifying that the T4 income amounts were correct. She stated that during the review, she understood the Appellant to be the Payer’s bookkeeper and responsible for payroll.
+[44] Ms. Perras testified that during the review, she found the Appellant’s pay to be at irregular intervals. She stated that the Appellant also appeared to have calculated her gross pay in reverse, i.e. by using her net pay amount to determine her gross pay. She stated that a round figure for net pay is unexpected and merits further review. She acknowledged in cross-examination that grossing up net pay is not improper in itself and stated that the significance rests in its implications on remittances.
+[45] Ms. Perras testified that her review of the Payer’s payroll records showed that the amount of T4 income exceeded the corresponding remittances actually made. She stated that she also found two T4 slips were submitted by the Payer later than the rest.
+[46] Ms. Greaves of EBT testified that she was the accountant responsible for doing the Payer’s year-end accounting. With respect to the Appellant’s T4 slip for 2015, Ms. Greaves stated that the Appellant contacted her in about February 2016, asking for help in issuing it. Ms. Greaves testified that she prepared the Appellant’s T4 slip and upon testing it, noticed a deficiency with respect to remittances. She stated that the Appellant explained the deficiency was due to the Payer’s cash-flow problems. Ms. Greaves also stated that she was aware the Payer had difficulty paying bills at times, so the Appellant’s explanation seemed reasonable.
+[47] On June 3, 2016, a trust compliance officer with Canada Revenue Agency sent a letter (Exhibit R-3) to the Payer advising of a $28,293.07 discrepancy between remittances paid and amounts assessed for 2015. Ms. Greaves testified that she prepared a spreadsheet (Exhibit R-4) to reconcile the difference. She stated that she was able to reconcile the discrepancy exactly by adjusting for the source deductions calculated with respect to the Appellant and a second employee named Cindy Middleton. She also testified that she helped draft a June 9, 2016 letter on behalf of EBT (Exhibit R-4) advising the Minister that: (1) there were two workers for whom remittances had not been made (the Appellant and Ms. Middleton), (2) the Appellant had asked EBT to file the two T4 slips in question, and (3) the Appellant’s T4 slip would likely be cancelled.
+Ability to take other clients
+[48] The Appellant and the Payer agreed (at question 29 in the Worker’s Questionnaire and question 31 in the Payer Questionnaire) that the Appellant was not required to provide her services exclusively to the Payer and that she did have other clients. She testified that her additional clients consisted of her uncle since 2014, an unrelated individual since 2007, and a dance studio with which she bartered her bookkeeping services for dance lessons. She stated that her uncle paid her $100 per quarter and the unrelated individual paid $1,200 per month until her work with him concluded in November 2015.
+Vacation pay and benefits
+[49] The Appellant stated in the Worker’s Questionnaire (at question 55) that she received 4% vacation pay as well as paid vacation. She testified (and stated at question 51) that she elected not to be covered under the Payer’s health plan because her spouse’s plan was better.
+[50] On the other hand, the Payer stated at questions 53 and 57 of the Payer Questionnaire that it did not provide her with benefits, vacation pay, or paid vacation.
+[51] Ms. Papadoulis’ notes of her interview with the Appellant (Exhibit A-1, Tab 5) show that the Appellant advised she did not receive vacation pay, benefits, or bonuses. In cross-examination, the Appellant testified that she felt rushed during this interview because she had just started a new job. She also testified that she probably did say something similar to what was recorded in the interview notes but she was not paying attention.
+[52] As mentioned under the heading “Control”, the Appellant joined the Payer’s group Retirement Savings Plan with Sun Life Financial on January 1, 2016.
+Analysis
+[53] The Appellant’s monthly remuneration was fairly consistent during the Period, although there were fluctuations. However, she was responsible for payroll – including her own – so she was in a position to control the issuance of her pay as well as the calculation and remittance of source deductions. The Payer’s cash-flow issues could explain a partial shortfall with respect to the Appellant’s remittances in 2015 but they do not explain the complete absence of remittances for the Appellant that year, as described by Ms. Greaves in her testimony and in her reconciliation spreadsheet (Exhibit R-5).
+[54] Appellant’s counsel submitted that because no remittances were made for Cindy Middleton in 2015 either, this Court should find the Appellant’s situation to be analogous to Ms. Middleton’s. I am unable to do so because no explanation was offered as to why remittances were not made for Ms. Middleton and more importantly, it was the Appellant who was responsible for making the remittances on behalf of the Payer in 2015.
+[55] I believe that the Appellant wished to be an employee and in furtherance of that goal, she took steps to ensure that the manner in which she was remunerated generally resembled that of an employee. Specifically, she prepared her paystubs to include calculations for source deductions although no remittances were made. At times, she sacrificed the regularity of her remuneration while she concentrated on increasing her value to the Payer by providing non-bookkeeping services and making herself available around the clock. The Payer, in turn, was relatively inattentive to its finances so relied on the Appellant as bookkeeper and eventually for her non-bookkeeping services as well.
+[56] The Appellant’s LinkedIn profile (Exhibit R-1) showed that at the beginning of the Period, she held herself out to be an independent contractor although at the same time, she may have wished to be an employee. She also had other paying clients during the Period. With respect to the dance studio, she emphasized in her testimony that she exchanged bookkeeping services for dance lessons. The dance lessons had monetary value and were consideration paid for services rendered, so the Appellant was remunerated.
+[57] While the Payer’s periodic cash-flow problems were outside of the Appellant’s control, she made decisions about the amount of her remuneration on a monthly basis, as shown by the downward and upward fluctuations over the course of the Period. In that sense, she made monthly decisions about the degree of financial risk she would assume. She testified that she did so out of a sense of loyalty to the Payer; however, it also demonstrates a degree of independence that is more consistent with an independent contractor than an employee.
+[58] I believe that the nature of the work relationship between the Appellant and the Payer changed over the course of the Period because of the additional non-bookkeeping responsibilities she gradually assumed. However, I must draw a clear line for the purposes of this appeal. For the reasons I stated under the heading “Control”, the clearest line available to me is January 1, 2016, i.e. the point at which the Appellant joined the Payer’s group Retirement Savings Plan with Sun Life Financial. In light of the conflicting evidence presented in this appeal, it is also the most objective line.
+[59] I therefore find January 1, 2016 to be the date on which the Appellant’s opportunity for profit/degree of financial risk shifted from that of independent contractor to employee.
+Conclusion
+[60] I have weighed the relevant factors and conclude that the Appellant was engaged in a contract for services (i.e. independent contractor) with the Payer in 2015. Beginning on January 1, 2016 to the end of the Period, she was engaged in a contract of service (i.e. employee) with the Payer.
+[61] The Minister of National Revenue’s May 23, 2017 decision is varied on the basis that:
+(i) during the period from January 1, 2015 to December 31, 2015, the Appellant was not engaged in insurable or pensionable employment; and
+(ii) during the period from January 1, 2016 to June 15, 2016, the Appellant was engaged in insurable and pensionable employment.
+Signed at Ottawa, Canada, this 20th day of February 2019.
+“Susan Wong”
+Wong J.
+CITATION:
+2019 TCC 38
+COURT FILE NOS.:
+2017-3444(EI); 2017-3445(CPP)
+STYLE OF CAUSE:
+JENNIFER IDELL STORRS and M.N.R.
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+November 20, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Susan Wong
+DATE OF JUDGMENT:
+February 20, 2019
+APPEARANCES:
+Counsel for the Appellant:
+Tyler Derksen / Aman Rai
+Counsel for the Respondent:
+Aminollah Sabzevari
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Tyler Derksen / Aman Rai
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

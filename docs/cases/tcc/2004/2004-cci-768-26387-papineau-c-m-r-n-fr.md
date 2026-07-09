@@ -1,0 +1,255 @@
+---
+title: "Papineau c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26387/index.do"
+last_modified: "2004-12-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 768"
+citation2: ""
+neutral_citation: "2004 CCI 768"
+decision_date: "2004-12-21"
+language: "fr"
+item_id: "26387"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3334
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:43:29.041000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d84c1dff3e5d1ee17d3273568888c9e844404f4e0d9807ba3141865a172b2df3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Papineau c. M.R.N.
+
+- Citation: 2004 CCI 768
+- Decision date: 2004-12-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3334, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Papineau c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-12-21
+Référence neutre
+2004 CCI 768
+Numéro de dossier
+2004-730(EI)
+Juges et Officiers taxateurs
+Sylvio J. Savoie
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2004-730(EI)
+ENTRE :
+ISABELLE PAPINEAU,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+QUALIFRUIT INC.,
+intervenante.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de Qualifruit Inc. (2004-727(EI)) le 27 octobre 2004 à Montréal (Québec)
+Devant : L'honorable S.J. Savoie, juge suppléant
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocate de l'intimé :
+Me Emmanuelle Faulkner
+Représentant de l'intervenante :
+Yvon Laurin
+____________________________________________________________________
+JUGEMENT
+L'appel est accueilli et la décision rendue par le Ministre est annulée selon les motifs du jugement ci-joints.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 21e jour de décembre 2004.
+« S.J. Savoie »
+Juge suppléant Savoie
+Référence : 2004CCI768
+Date : 20041221
+Dossier : 2004-730(EI)
+ENTRE :
+ISABELLE PAPINEAU,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+QUALIFRUIT INC.,
+intervenante.
+ET
+Dossier : 2004-727(EI)
+QUALIFRUIT INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+ISABELLE PAPINEAU,
+intervenante.
+MOTIFS DU JUGEMENT
+Le juge suppléant Savoie
+[1] Ces appels ont été entendus sur preuve commune à Montréal (Québec), le 27 octobre 2004.
+[2] Il s'agit d'appels portant sur l'assurabilité de l'emploi d'Isabelle Papineau, la travailleuse, lorsqu'au service de l'appelante Qualifruit Inc. durant la période du 30 mai 2002 au 30 mai 2003, la période en litige, au sens de la Loi sur l'assurance-emploi (la « Loi » ).
+[3] Le 26 janvier 2004, le ministre du Revenu national (le « Ministre » ) a informé l'appelante de sa décision selon laquelle la travailleuse occupait un emploi assurable lorsqu'à son service pendant la période en litige. De plus, il a été décidé que la rémunération assurable de la travailleuse totalisait 22 400 $ pour les 14 dernières périodes de paie et que les heures assurables totalisaient 1 820 heures.
+[4] En rendant sa décision, le Ministre a déterminé que la travailleuse exerçait un emploi assurable auprès de l'appelante aux termes d'un contrat de louage de services, en s'appuyant sur les présomptions de fait suivantes :
+5a) l'appelante a été constituée en société le 11 février 1983; (admis avec explications)
+b) l'appelante exploitait une entreprise de vente au détail de fruits et légumes; (admis avec explications)
+c) l'appelante embauchait environ 25 employés qui variaient selon la période de l'année dont 3 à l'administration et les autres comme préposés à la vente et au service à la clientèle; (admis avec explications)
+d) en 2002, l'appelante avait un chiffre d'affaires de 2 800 000 $ et en 2003, un chiffre d'affaires de 3 000 000 $; (admis)
+e) la travailleuse a été engagée comme commis comptable; (nié)
+f) les tâches de la travailleuse consistaient à s'occuper de la comptabilité incluant les comptes payables, les paies, la préparation des documents pour le vérificateur externe ainsi que faire à l'occasion des courses; (nié)
+g) la travailleuse travaillait du lundi au vendredi de 9 h 00 à 16 h 00; (nié)
+h) la travailleuse travaillait 35 heures par semaine pour l'appelante; (nié)
+i) la travailleuse travaillait dans les locaux de l'appelante; (admis)
+j) la travailleuse suivait les directives de Yvon Laurin ou du vérificateur externe dans l'exécution de ses tâches; (nié)
+k) l'appelante avait le pouvoir de contrôler le travail de la travailleuse; (nié)
+l) la travailleuse était rémunérée au taux hebdomadaire de 800,00 $; (admis)
+m) la travailleuse était rémunérée par dépôt direct à toutes les deux semaines; (admis)
+n) tout le matériel et l'équipement dont se servait la travailleuse appartenaient à l'appelante; (admis)
+o) la travailleuse n'avait aucun risque financier à encourir dans l'exercice de ses fonctions; (nié)
+p) les tâches de la travailleuse étaient intégrées aux activités de l'appelante; (nié)
+q) la travailleuse recevait 1 600 $ par dépôt direct à toutes les deux semaines; (admis)
+r) la travailleuse a reçu comme rémunération pour les 14 dernières périodes de paie 22 400 $ soit 1 600 $ multiplié par 14 périodes de paie; (admis)
+s) le relevé de salaires de l'appelante indiquait que la travailleuse travaillait 70 heures par période de paie; (nié)
+t) durant la période en litige, la travailleuse a totalisé 1 820 heures assurables, soit 70 heures multipliées par 26 périodes de paie. (nié)
+6. La travailleuse et l'appelante sont des personnes liées au sens de la Loi de l'impôt sur le revenu car :
+a) les actionnaires de l'appelante avec droit de vote étaient : (admis)
+Yvon Laurin 75 % des droits de vote
+Dominic Laurin 25 % des droits de vote
+b) la travailleuse est la conjointe d'Yvon Laurin; (admis avec explications)
+c) la travailleuse est liée à Yvon Laurin qui contrôle l'appelante. (admis)
+7. Le ministre a déterminé aussi que la travailleuse et l'appelante étaient réputées ne pas avoir de lien de dépendance entre eux dans le cadre de cet emploi car il a été convaincu qu'il était raisonnable de conclure que la travailleuse et l'appelante auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien dépendance, compte tenu des circonstances suivantes :
+a) la travailleuse a toujours été payée; (nié)
+b) la rémunération versée à la travailleuse était raisonnable compte tenu des tâches accomplies et de son niveau de responsabilité dans l'entreprise; (nié)
+c) les heures de travail de la travailleuse étaient régulières et non exagérées; (nié)
+d) les modalités de l'emploi de la travailleuse étaient raisonnables; (nié)
+e) la travailleuse travaillait sans arrêt de travail pour l'appelante; (nié)
+f) le travail de la travailleuse coïncidait avec les besoins de l'appelante; (nié)
+g) la durée de l'emploi de la travailleuse était raisonnable; (nié)
+h) le travail de la travailleuse était essentiel à la bonne marche de l'entreprise de l'appelante; (nié)
+i) le travail accompli par la travailleuse était important pour l'entreprise de l'appelante; (admis)
+j) la nature et l'importance du travail de la travailleuse étaient raisonnables. (nié)
+[5] L'appelante exploite son entreprise de vente au détail de fruits et légumes depuis 1979, et, de plus, assure la distribution auprès d'institutions et a développé le concept « Les Étales » , un groupement de spécialités en alimentation.
+[6] L'appelante a environ 30 employés dont trois à l'administration. La travailleuse n'a aucune formation en comptabilité. À son emploi précédent, à la Cité de la santé de Laval, elle était commis à la paie.
+[7] Depuis 10 ans, la travailleuse est l'épouse de l'actionnaire majoritaire de l'appelante. Elle a été embauchée par l'appelante pour la rapprocher de la famille et pour lui permettre de passer plus de temps à la maison à s'occuper de la famille puisque leur fille aînée commençait l'école.
+[8] Il a été établi que l'appelante voulait aussi profiter d'un avantage fiscal en ayant la travailleuse comme salariée.
+[9] La travailleuse a donc quitté son emploi pour revenir à la maison où elle pourrait à la fois faire du travail à l'entreprise de l'appelante et s'occuper de ses enfants. La travailleuse occupe un poste à la direction qui lui attribue une grande contribution à l'entreprise considérée essentielle à l'exploitation de l'entreprise. Les connaissances culinaires de la travailleuse qui possède une formation en hôtellerie constituent un apport important au succès de l'appelante.
+[10] Même si la travailleuse ne possède aucune formation en comptabilité, elle a assuré la supervision de Marie-Josée Brunet qui a remplacé la secrétaire-comptable, Line Gauthier.
+[11] Il a été établi que le travail de la travailleuse pour l'appelante devait lui permettre de s'occuper de ses enfants, de leurs activités scolaires et parascolaires et des autres tâches du foyer, puisque son mari était souvent sur la route. Pendant la construction de leur maison, c'est elle qui s'occupait du chantier.
+[12] La travailleuse n'était pas liée à des heures de travail fixes, pas plus qu'elle n'était tenue de travailler un nombre minimum ou fixe d'heures de travail.
+[13] La travailleuse faisait aussi du travail à la maison pour l'appelante. Elle recevait des explications du vérificateur externe pour faire son travail et non d'Yvon Laurin, son mari, qui, lui, s'absentait tous les matins pour faire ses achats et ses livraisons.
+[14] Considérée par l'appelante comme gestionnaire, elle fournissait sur demande des analyses spécifiques à l'entreprise.
+[15] Yvon Laurin a soutenu que pour avoir la travailleuse à la maison, l'appelante lui avait trouvé des tâches dans l'entreprise qui ne nuiraient pas à ses obligations familiales. La seule tâche spécifique exigée de la travailleuse était celle de faire la paie bi-mensuelle. Il lui faillait trois heures pour le faire, deux fois par mois. Au retour de la secrétaire-comptable, en congé de maternité, la travailleuse ne travaillait plus que quatre jours par semaine.
+[16] La travailleuse pouvait faire la paie lorsqu'elle le voulait, pourvu qu'elle rencontre les échéanciers deux fois par mois. Pour toutes ses tâches, elle pouvait les exécuter selon sa disponibilité.
+[17] Monsieur Laurin a mis en doute l'affirmation du Ministre qui veut que la travailleuse n'avait aucun risque à encourir. Il a voulu préciser que la travailleuse est son épouse et qu'ils possèdent des biens en commun. Ces biens, selon lui, sont assujettis aux risques de pertes de l'entreprise puisqu'il a endossé des prêts à la banque. « Si je perds » , dit-il, « elle perd aussi. »
+[18] Les tâches de la travailleuse, selon l'appelante, sont reliées à la direction de l'entreprise. Elle peut manquer une journée de travail sans que l'entreprise doive la remplacer.
+[19] Selon l'appelante, le taux de rémunération de la travailleuse est plutôt hebdomadaire que horaire.
+[20] Lors de son témoignage, monsieur Laurin affirme que les 70 heures bi-mensuelles de la travailleuse n'ont rien à voir avec ses heures réelles de travail. « Son nombre d'heures de travail » , dit-il, « est bien inférieur à ça. »
+[21] La travailleuse est devenue salariée de l'appelante à partir du 1er octobre 2001. Selon l'appelante, elle était rémunérée pour son travail à la direction de l'entreprise qui a bénéficié de son travail de recherches sur les courges qui a mené à la préparation d'un livret de recettes à l'intention des clients et du programme récompense-clients.
+[22] Cependant la travailleuse ne supervise pas les autres employés. Cette tâche incombe à son mari Yvon Laurin.
+[23] La preuve a établi que les heures de travail de la travailleuse n'étaient pas régulières; elles variaient selon les exigences de la vie familiale. La preuve présentée par l'appelante à l'audition a prouvé la fausseté des allégations du Ministre énoncées au paragraphe 7 de la Réponse à l'avis d'appel. Il a été établi que la main-d'oeuvre de base de l'entreprise était assurée par les autres employés et que la travailleuse bénéficiait de conditions de travail qui n'ont jamais été accordées aux autres employés. Selon monsieur Laurin, la direction de l'entreprise est assurée par le concours de trois personnes, à savoir, Yvon Laurin, Dominic Laurin et la travailleuse.
+[24] Tout au long de son témoignage Yvon Laurin a tenu à préciser que l'embauche de la travailleuse a coïncidé avec l'entrée en classe de sa fille aînée en août 2001. Par la suite, au départ de Line Gauthier en janvier 2002 pour un an de congé de maternité, la travailleuse s'est vue confier la tâche de superviser la remplaçante Marie-Josée Brunet. Au retour de madame Gauthier, la travailleuse s'est occupée d'assister celle-ci à la préparation du rapport annuel puisque la fin de l'année fiscale approchait. Ensuite, elle a aidé pendant la période de transition qui a précédé le changement du logiciel comptable.
+[25] Il a été établi que pendant la période en litige, la travailleuse accomplissait aussi des tâches pour l'entreprise de son père et de son frère.
+[26] La travailleuse, dans son témoignage, a soutenu que ses heures de travail n'ont jamais été régulières. Elle a déclaré aux enquêteurs que ses heures de travail étaient très variables. Une journée typique pour elle l'amène au bureau de l'appelante entre 9 h 15 et 9 h 30, après avoir amené les enfants à l'école. Rendue au travail, elle s'occupe du courrier, des affaires bancaires et des courses. Elle prépare la paie des employés aux deux semaines. Le midi, elle va manger avec son mari, autant que possible, puis elle retourne au travail jusqu'à 15 h 15 pour aller ensuite chercher les enfants à l'école.
+[27] Elle affirme n'avoir aucune heure fixe de travail. Le temps qu'elle passe au travail n'a jamais été calculé.
+[28] Selon la preuve présentée à l'audition, les heures de travail de la travailleuse chez l'appelante seraient de l'ordre de 4 heures et 15 minutes ou 4 heures et 30 minutes par jour, le tout ponctué de nombreuses absences sans permission pour tous ses besoins personnels et ceux de sa famille, tels ses rendez-vous et ceux de ses enfants chez le médecin, le dentiste, la coiffeuse, la manicure, les activités scolaires et parascolaires, les cours de danse des enfants, etc.
+[29] La description faite par la travailleuse de sa journée de travail typique a paru surprendre l'agente des appels qui a affirmé dans son témoignage que si elle avait su ce qu'elle a appris à l'audition, elle aurait poussé plus loin son enquête. Quant aux faits relatés par la travailleuse et Yvon Laurin pour prouver la fausseté des présomptions du Ministre portant sur le travail de la travailleuse, l'agente des appels a avoué ne pas être en mesure de les contredire. Lors de son témoignage à l'audience, l'agente des appels a affirmé qu'elle n'avait pas questionné la travailleuse sur son emploi du temps et que la répartition des tâches de celle-ci ne lui avait pas été spécifiée. Elle a ajouté que le quotidien ne lui avait pas été donné.
+[30] Cependant, l'agente des appels a affirmé qu'elle savait que la travailleuse, pouvait faire autre chose, s'absenter pour elle et les enfants et leurs besoins pédagogiques, etc. ce qui ne cadre pas très bien avec sa conclusion qui établit des heures fixes et des taux fixes et ne soutient pas un bon nombre de ses déductions sur la nature du travail de la travailleuse.
+[31] L'agente des appels a admis ne pas avoir poussé son enquête plus loin pour découvrir l'emploi du temps de la travailleuse. À bien des égards, la preuve produite par l'appelante et la travailleuse n'a pas été contredite par celle du Ministre.
+[32] Il convient de signaler que l'appelante a fait la preuve, entre autres, que :
+1. la travailleuse a été embauchée dans le but de l'approcher du foyer et des enfants;
+2. elle a été embauchée pour l'avantage fiscal que cela apportait à l'appelante, mais surtout à son mari;
+3. la seule tâche obligatoire de la travailleuse consistait à faire la paie des employés deux fois par mois, un travail de trois heures;
+4. la travailleuse entrait et sortait à sa guise, alors que les autres employés étaient contrôlés et sous surveillance;
+5. selon l'appelante, ce qui comptait pour l'emploi de la travailleuse, c'était les besoins de la famille et des enfants;
+6. monsieur Yvon Laurin, son mari, a affirmé qu'aucun autre employé n'aurait eu des conditions de travail semblables;
+7. elle a été embauchée parce que sa fille aînée commençait l'école;
+8. elle n'avait aucune formation en comptabilité mais elle assurait la supervision de la secrétaire-comptable;
+9. l'appelante ne supervisait ni la travailleuse ni son travail;
+10. selon monsieur Laurin, les 70 heures de travail consignées de la travailleuse « n'ont rien à voir » avec ses heures véritables de travail;
+11. la preuve entendue à l'audience a contredit les données recueillies au livre de l'appelante sur le nombre d'heures de la travailleuse;
+12. selon monsieur Laurin, la rémunération de la travailleuse « n'a rien à voir » avec ses tâches.
+[33] L'actionnaire majoritaire de l'appelante, monsieur Yvon Laurin et la travailleuse sont liés au sens des articles 251 et 252 de la Loi de l'impôt sur le revenu, puisqu'ils sont mariés.
+[34] En rendant sa décision, le Ministre a déterminé que la travailleuse et l'appelante sont réputées ne pas avoir de lien de dépendance entre elles dans le cadre de cet emploi, puisqu'il était raisonnable de conclure que, compte tenu de toutes les circonstances, elles auraient conclu, entre elles, un contrat de travail à peu près semblable si elles n'avaient pas eu de lien de dépendance.
+[35] Le Ministre en a conclu ainsi en exerçant son mandat que lui confie l'alinéa 5(3)b) de la Loi. Il convient donc de reproduire ici les extraits suivants de la Loi :
+5. (1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) l'emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d'un contrat de louage de services ou d'apprentissage exprès ou tacite, écrit ou verbal, que l'employé reçoive sa rémunération de l'employeur ou d'une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[...]
+5 (2) N'est pas un emploi assurable :
+[...]
+i) l'emploi dans le cadre duquel l'employeur et l'employé ont entre eux un lien de dépendance.
+[...]
+5 (3) Pour l'application de l'alinéa (2)i) :
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l'impôt sur le revenu;
+b) l'employeur et l'employé, lorsqu'ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu'il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d'emploi ainsi que la durée, la nature et l'importance du travail accompli, qu'ils auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+[36] L'appelante et la travailleuse demandent à cette Cour d'annuler la décision du Ministre.
+[37] La Cour d'appel fédérale a énoncé les principes d'application pour la solution du problème présenté à cette Cour dans l'arrêt Légaré c. Canada (ministre du Revenu national - M.R.N.), [1999] A.C.F. no 878, dont voici un extrait :
+La Loi confie au ministre le soin de faire une détermination à partir de la conviction à laquelle son examen du dossier peut le conduire. L'expression utilisée introduit une sorte d'élément de subjectivité et on a pu parler de pouvoir discrétionnaire du ministre, mais la qualification ne devrait pas faire oublier qu'il s'agit sans doute d'un pouvoir dont l'exercice doit se fonder pleinement et exclusivement sur une appréciation objective des faits connus ou supposés. Et la détermination du ministre n'est pas sans appel. La Loi accorde, en effet, à la Cour canadienne de l'impôt le pouvoir de la réviser sur la base de ce que pourra révéler une enquête conduite, là, en présence de tous les intéressés. La Cour n'est pas chargée de faire la détermination au même titre que le ministre et, en ce sens, elle ne saurait substituer purement et simplement son appréciation à celle du ministre : c'est ce qui relève du pouvoir dit discrétionnaire du ministre. Mais la Cour doit vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et après cette vérification, elle doit décider si la conclusion dont le ministre était « convaincu » paraît toujours raisonnable.
+[38] Il convient de douter que l'appelante aurait conclu avec une personne non liée un contrat de travail à peu près semblable à celui en l'espèce. Il est permis de se demander si une telle personne aurait bénéficié des mêmes avantages que ceux dont jouissait la travailleuse en l'espèce? Aurait-elle été embauchée principalement pour la rapprocher de son foyer ou du foyer de l'actionnaire principal, ou pour assurer un avantage fiscal à l'entreprise et à son actionnaire majoritaire? Aurait-elle bénéficié d'un horaire aussi flexible, lui permettant de s'absenter du lieu de travail à sa guise pour s'occuper de ses affaires personnelles, de celles de ses enfants et du foyer, sans restriction? L'employeur lui aurait-elle accordé des conditions de travail dont les autres employés étaient totalement privés? Aurait-elle été payée à temps plein alors que sa seule tâche régulière et obligatoire ne lui exigeait que six heures de travail par mois? Aurait-elle été embauchée parce que sa fille commençait l'école? Aurait-elle pu travailler sans aucune supervision? Aurait-elle eu droit à une rémunération sans égard aux heures de travail ou à ses tâches? En raison de la preuve entendue à l'audience, on se voit contraint de répondre à toutes ces questions par la négative.
+[39] Dans son témoignage, monsieur Laurin, l'actionnaire majoritaire de l'appelante, a affirmé sans équivoque qu'une employée non liée n'aurait pas profité de tels avantages. Il a d'ailleurs précisé que ce qui comptait surtout c'est que la travailleuse puisse s'occuper du foyer familial et des besoins des enfants. Son témoignage a été corroboré par celui de la travailleuse.
+[40] Après avoir pris connaissance de la preuve présentée à l'audience et entendu les plaidoiries, cette Cour, compte tenu de la législation applicable et de la jurisprudence citée, est d'avis que le Ministre, en faisant l'exercice prévu à l'alinéa 5(3)b) de la Loi, n'a pas fait une appréciation correcte des faits, et, en conséquence, sa conclusion ne paraît plus raisonnable.
+[41] Donc, l'emploi de la travailleuse n'était pas assurable car il était visé par l'alinéa 5(2)i) de la Loi, puisque cette Cour est convaincue qu'il n'était pas raisonnable de conclure, compte tenu de toutes les circonstances, que l'appelante et la travailleuse auraient conclu entre elles un contrat de travail à peu près semblable si elles n'avaient pas eu de lien de dépendance.
+[42] En conséquence, les appels sont accueillis et la décision rendue par le Ministre est annulée.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 21e jour de décembre 2004.
+« S.J. Savoie »
+Juge suppléant Savoie
+RÉFÉRENCE :
+2004CCI768
+No DU DOSSIER DE LA COUR :
+2004-730(EI) et 2004-727(EI)
+INTITULÉ DE LA CAUSE :
+Isabelle Papineau et M.R.N. et
+Qualifruit Inc. et Qualifruit Inc. et M.R.N. et Isabelle Papineau
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+Le 27 octobre 2004
+MOTIFS DE JUGEMENT PAR :
+L'honorable S.J. Savoie, juge suppléant
+DATE DU JUGEMENT :
+Le 21 décembre 2004
+COMPARUTIONS :
+Pour les appelantes :
+Isabelle Papineau :
+Qualifruit Inc. :
+L'appelante elle-même
+Yvon Laurin (représentant)
+Pour l'intimé :
+Me Emmanuelle Faulkner
+Pour les intervenantes :
+Qualifruit Inc. :
+Isabelle Papineau :
+Yvon Laurin (représentant)
+L'intervenante elle-même
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour les appelantes :
+Nom :
+Étude :
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+Pour les intervenantes :
+Nom :
+Étude :

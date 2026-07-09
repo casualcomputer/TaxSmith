@@ -1,0 +1,127 @@
+Title: Meisels v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27066/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-610-27066-meisels-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2005-10-19
+
+# Meisels v. M.N.R.
+
+- Citation: 2005 TCC 610
+- Decision date: 2005-10-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 609, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Meisels v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-10-19
+Neutral citation
+2005 TCC 610
+File numbers
+2004-3938(EI), 2004-3939(EI), 2004-3940(EI)
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Employment Insurance Act
+Decision Content
+Dockets: 2004-3938(EI), 2004-3939(EI), 2004-3940(EI)
+BETWEEN:
+RON MEISELS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+MONICA RIZK, JENNIFER LAVOIE and NANCY LYDON,
+Intervenors.
+____________________________________________________________________
+Appeals heard on August 31, 2005, and September 2, 2005, and oral reasons for judgment delivered from the bench
+on September 2, 2005, at Montreal, Quebec.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Counsel for the Appellant:
+Christopher R. Mostovac
+Counsel for the Respondent:
+Natalie Goulard
+For the Intervenors:
+The Intervenors themselves
+____________________________________________________________________
+JUDGMENT
+The appeal pursuant to subsection 103(1) of the Employment Insurance Act ("Act") is dismissed and the July 6, 2004, decision of the Minister of National Revenue is confirmed on the basis that there existed between the appellant and Monica Rizk from September 1, 2000, to December 31, 2002, and from January 1, 2003, to October 29, 2003, and between the appellant and Jennifer Lavoie from June 22, 2001, to December 31, 2002, and from January 1, 2003, to October 29, 2003, and between the appellant and Nancy Lydon from January 1, 2000, to December 31, 2002, and from January 1, 2003, to October 29, 2003, an employer-employee relationship as described in paragraph 5(1)(a) of the Act.
+Signed at Ottawa, Canada, this 19th day of October 2005.
+"Lucie Lamarre"
+Lamarre, J.
+Citation: 2005TCC610
+Date: 20051019
+Dockets: 2004-3938(EI), 2004-3939(EI), 2004-3940(EI)
+BETWEEN:
+RON MEISELS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+MONICA RIZK, JENNIFER LAVOIE and NANCY LYDON,
+Intervenors.
+REASONS FOR JUDGMENT
+(Delivered orally from the bench on September 2, 2005, at Montreal, Quebec.)
+LamarreJ.
+[1] This is an appeal from a decision by the Minister of National Revenue ("Minister"), communicated to the appellant in letters dated July 6, 2004, that the workers Monica Rizk, Jennifer Lavoie and Nancy Lydon held insurable employment within the meaning of paragraph 5(1)(a) of the Employment Insurance Act ("Act") during the periods from September 1, 2000, to December 31, 2002, and from January 1, 2003, to October 29, 2003, in the case of Monica Rizk, from June 22, 2001, to December 31, 2002, and from January 1, 2003, to October 29, 2003, in the case of Jennifer Lavoie, and from January 1, 2000, to December 31, 2002, and from January 1, 2003, to October 29, 2003, in the case of Nancy Lydon.
+[2] The appellant is a research analyst who started his own business in 1990. In 1998 and 1999, he expanded his business and therefore needed to have more buying and selling and stock reports published and sent to clients (in 2000 he sent approximately 95 reports of which 50 were stock reports). He needed help to do these stock reports. The person he sought would help preparing recommendations on stock securities, after having analyzed the market. That person's responsibilities would be to find out the history of the particular stock, collect the data, get daily information on the stock, filter the information in order to retain solely the dollar variance in the different stock selling prices, and report the information on a point figure chart.
+[3] According to Mr. Meisels, doing point figure charts involves serious and tedious work. After the chart was done, the person hired by Mr. Meisels would complete a report on that particular stock and then hand the report over to him.
+[4] Mr. Meisels said that he did not want to be in an employer-employee relationship with the person he hired. In his words, he did not want to be "tied down to that person".
+[5] With all these considerations in mind, he first hired his spouse, Nancy Lydon, on January 1, 2000. Ms. Lydon is an interior decorator. She said that she was hired and paid to write financial reports. She said that she gained her knowledge in that field by watching Mr. Meisels and by reading books on the subject. Mr. Meisels has said that he did not give her any training. Ms. Lydon stated that she prepared reports on stock she chose herself and that she worked from home on a computer that belonged to her and her spouse. She said Mr. Meisels was always at the office and did not verify the number of hours she worked. There was a desk available to her at the office but it could be used by anyone. She said that the books and reports kept in the office could not be taken out. According to her, it could take from one to ten hours to do a report. She herself did not do the point figure charts; she used the ones already prepared by Mr. Meisels. She said that she completed five or six reports a month and that she probably told Mr. Meisels how many hours she had worked in the month when she was paid.
+[6] Mr. Meisels testified that Ms. Lydon was paid to do reports only. He acknowledged, however, that she also did some bookkeeping and paid bills for the business. She worked until October 29, 2003, at which time she stopped working for six months. When she came back in July 2004, she was treated as an employee.
+[7] According to the five contracts signed between Mr. Meisels and Ms. Lydon between January 1, 1999, and January 1, 2003, her duties were to provide maintenance of office records and perform bookkeeping work for Mr. Meisels. She was to be remunerated at $12 to $14 per hour and had to work a minimum of 88 hours per month. The contracts do not stipulate that she was to provide technical assistance in the preparation of buying and selling reports. Mr. Meisels said that these agreements were drawn up by his accountant and did not reflect the real fact situation.
+[8] Furthermore, there were a few more contradictions in Ms. Lydon's testimony. Although she claimed to have been an independent contractor in 2003, she declared in her income tax return for that year employment income of $28,000 received from Mr. Meisels (Exhibit R-4). This means that at $14 per hour she would have worked approximately 45 hours a week (from January 1, 2003 to Otctober 29, 2003). In the previous years, she stated, she had worked between 55 and 88 hours a month. At the hearing, she still claimed that she was not working full time for Mr. Meisels in 2003, and that she did not do any record maintenance or office work. She explained that she could not do bookkeeping work because she has a problem in that she tends to invert numbers in columns. The technical analyst work, however, had, at first glance, much to do with numbers in columns (see the sheet entitled "Globe Investor" in Exhibit A-1).
+[9] Furthermore, Mr. Meisels explained that Ms. Lydon was paid more than the other two workers because she had more experience (which is a little difficult to understand considering her background as an interior decorator and the fact that she did not do the point figure charts herself).
+[10] Monica Rizk was hired by Mr. Meisels on September 1, 2000. She had graduated in 1996 with a degree in business administration. Her parents are both working in the field of finance. She did not have any work experience as a technical analyst when she answered an ad placed by Mr. Meisels in the papers. The ad indicated that he was looking for someone to do research. He offered her work right after the first interview. She was hired to prepare the point figure charts and to produce reports. She said that she trained herself by reading books and that Mr. Meisels did not give her any training. She understood that she was to produce three or four reports per month. She said that Mr. Meisels gave her some direction as to what stock markets to look at but that mainly she did reports on stocks of her own choosing, provided that they were within the area of interest of Mr. Meisels' clients.
+[11] Apparently she signed two contracts with Mr. Meisels. In September 2000, she agreed to provide technical assistance to him for $1,000 bi-monthly (Exhibit R-1). In another contract signed on the same date, she agreed to maintain invoicing/billing for Mr. Meisels. She agreed to work a minimum of 28 hours per month at a rate of $10 per hour. She further signed two similar contracts in May 2001 and in January 2002 (Exhibit A-3). The hourly rate increased to $11 in 2001 and to $12 in 2002. At trial she said that she did not render any services to Mr. Meisels other than technical assistance. She acknowledged, however, that for a while, at Mr. Meisels' request, she did simple data entries with respect to some of his clients. She did this from her home with her own equipment. She said that she did not work the 28 hours a month indicated in the contract. She was not able to explain why she agreed to sign the same contract three times if it did not reflect reality.
+[12] In October 2003, she became a full-time employee of Mr. Meisels. She said that there was not much change in the amount of work or with regard to the stocks to be analyzed. From that point in time, she said, Mr. Meisels had more to say on the reports to be drafted and on the number of hours to be worked, for example.
+[13] Jennifer Lavoie was hired on June 22, 2001. She met Mr. Meisels through the Canadian Society of Technical Analysts ("CSTA") of which she was a member. She attended monthly meetings of the CSTA. She explained that Mr. Meisels was looking for somebody to write buying and selling reports, including the preparation of point figure charts. She was studying at that time to become a chartered market technician ("CMT"). She said that she had read a book on technical analysis that was considered to be the bible in that field. She passed the first CMT level in November 2001 and the second CMT level in November 2002. She did not attempt more advanced levels.
+[14] Ms. Lavoie said that she did not receive any special training from Mr. Meisels. According to her, she was knowledgeable in the field when he hired her (even though she had never done reports before). Using the Internet, she worked at home looking at the most active stocks in the stock market. Working at home was convenient for her because she needed time for her volunteer work at the CSTA and for other activities. She could work 20 to 30, or sometimes 40 to 50, hours a week for Mr. Meisels. She had to produce roughly two reports bi-monthly. She said that she would not have been paid if she had not delivered the reports. She owned her computer and all her equipment. She was paid $1,000 bi-monthly, not by the report but on the basis of the work Mr. Meisels thought she was able to perform. She said, however, that she was not paid for redoing any work that had to be redone. She also signed a contract with Mr. Meisels.
+[15] In October 2003, she became a full-time employee of Mr. Meisels. She worked on a new project proposed by him, called the "Zig Zag project", and did so at Mr. Meisels' office.
+[16] According to Mr. Meisels, his business increased over the years and, from October 2003 onward, he needed more accurate data. His feeling then was that the work had to be done from his office. At that time, the workers accordingly started to work from nine to five at the office. Prior to that, Mr. Meisels did not know when they were working; the workers were going to the office only sporadically (Ms. Lavoie said once a month in her case); the workers said that they did not get feedback regarding their work; and they themselves chose which stocks to work with within what Mr. Meisels called the "Top 60". After October 2003, he began telling them on which stocks to work. The workers had their own desks at the office and they answered the telephone.
+[17] Mr. Meisels occupies a 1,000 square foot office in downtown Montreal. There was some confusion as to who was working there prior to October 2003. He said that he was mostly alone until the period in which the intervenors became employees. He was very confused when asked questions about the presence of a secretary. At first, he said that he did not have one and then he said he had one between 2000 and 2003 but could not remember her name. Then, on coming back from a short recess at trial, he gave the names of three secretaries who he said had worked with him. His spouse, Ms. Lydon, said that he had not had a secretary until the beginning of this year (2005). The two other intervenors were not aware of the presence of a secretary.
+[18] According to Mr. Meisels' testimony, he asked the intervenors to research any stock within his clients' area of interest (mainly what he called the Top 60 in the stock market), express an opinion on that stock, put it in writing and deliver it in an acceptable format. He would then decide whether to accept the report or not, although the intervenors would be paid for their reports even if they were not accepted. The reports became Mr. Meisels' property. If he decided to send them to clients or to the media, he always verified them and made some modifications. This could take from five minutes to one hour. He continued to do reports himself and was the one who maintained contact with his clients. He expected each intervenor to provide four to six reports a month, and paid them a predetermined remuneration by way of consideration therefor. The intervenors could also be asked occasionally to update existing reports. Although the intervenors worked from home with their own computers, Mr. Meisels acknowledged that in the years at issue part of the information they needed was taken from books and newspapers kept in his office, to which they had access. He said that they could take the books home, but his spouse said that this was not possible.
+[19] Mr. Meisels said that since October 2003 he has been asking the intervenors to work at the office. As of that time, he has wanted to control their work, to tell them which stocks to do research on. He has also monitored their hours. He now pays for vacation leave.
+[20] In argument, counsel for the appellant submitted that one must look at the stated interest of the parties and that control is a predominant factor in establishing the existence of an employer-employee relationship. He argued that control of the result (which is indicative of an independent contractor relationship) should not be confused with control of the worker (which is indicative of an employer-employee relationship).
+[21] With respect to the stated interest of the parties, everyone said at trial that it was their intent that the intervenors be treated as independent contractors, but this is not what the documentary evidence discloses. Several contracts signed by the parties define the workers' duties in precise terms; they specify the workers' rate of pay, a minimum number of hours to be worked for Mr. Meisels (more specifically in the case of Ms. Lydon and Ms. Rizk) and the number of reports they were to produce; and the contracts also contained a clause stipulating that the workers had to be available at any time.
+[22] The way these contracts were drafted shows more than just control over the result. It shows control over the worker herself. The appellant now says that the contracts do not reflect the actual relationship that existed between the parties thereto. However, I am not convinced that the appellant is right. First, as pointed out by counsel for the respondent, there are a few contradictions and implausibilities in the evidence which cast doubt on the real intention of the parties. For example, there was confusion regarding the presence of a secretary in the office. (Mr. Meisels said that there was none, then said that he had three; his spouse said that there was none, while the other two intervenors did not know, although they had access to the office as often as they wanted.) Second, the workers did not really do different work after October 2003 than they had done before. However, they said that, before that point in time, they worked from home without being subject to any control. After October 2003, they all had to work from the office and their work was controlled. This raised a question as to where the intervenors really worked during the periods at issue, at home or at the office. Third, the same contracts were not signed just once; they were signed periodically.
+[23] Furthermore, Mr. Meisels was the one hiring the intervenors and he did so on his terms. He did not want to be burdened with employment agreements, but in fact the conditions that he imposed on the workers were those specific to an employer-employee relationship. The fact that part of the work was done from the home, if such was indeed the case, does not in my view alter that relationship much.
+[24] It is interesting to see that counsel for the appellant speaks of evolution of the case law on the existence of an employer-employee relationship. Speaking of evolution, it is noteworthy that employees work from home more and more now, because of family or personal responsibilities. This does not mean that the employer loses control over the work done by the employees. The control is not exercised so much through setting a precise schedule to be met. The work can be completed at the worker's own pace. But still, if four reports have to be done in a month, this requires that the worker put in the number of hours that have to be worked to achieve that objective.
+[25] I do not find that there was a total lack of supervision by Mr. Meisels, unlike the situation in Weagle v. Minister of National Revenue, [2001] 1 C.T.C. 2435 (T.C.C.), [2000] T.C.J. No. 684 (Q.L.), cited by the appellant. On the contrary, here there was control over the work to be done, in the sense that the workers had to provide a certain number of reports monthly, which required an amount of time that was calculated by Mr. Meisels in determining each worker's pay. Furthermore, the work to be done was described in the contract. The situation is different from that in Wolf v. The Queen, 2002 DTC 6853 (F.C.A.), a case in which the hiring party had no liability towards the worker other than to pay the price of the work. If the stated intent in the present case was what the appellant and the intervenors now claim it to have been, the terms of the contract and its performance do not reflect those intentions, contrary to the situation that prevailed in the Wolf case.
+[26] Similarly, Vulcain Alarme Inc. v. Canada(M.N.R.), [1999] F.C.J. No. 749 (Q.L.), cited by the appellant, can be distinguished. The taxpayer in that case had expertise that he was selling to the appellant's clients. The taxpayer did not receive a fixed remuneration. Such is not the case here.
+[27] Considering the non-existent or very limited experience of the intervenors in the field of technical analysis, and considering the very good reputation of Mr. Meisels in that field, I have difficulty believing that the intervenors were paid to do reports without any supervision. As a matter of fact, Mr. Meisels acknowledged that none of the reports would be sent out to clients or to the media without his having approved them, and it appears that he put his own touch on the reports so that they would conform to his own criteria. In this sense, I find that the work done by the intervenors was controlled by him not only as to the result but also as to the manner in which it was executed.
+[28] In that regard, I would add some personal comments. All the workers said that they were working from home and that Mr. Meisels was the only one working in a 1,000 square foot office in downtown Montreal. Knowing the rental cost of offices in downtown Montreal, it is difficult to believe that Mr. Meisels had all that space for himself alone. It is also difficult to believe that from 2000 to 2002, when the intervenors had very little or no experience, Mr. Meisels agreed to pay them to produce reports without controlling their work or their schedules, and that this all suddenly changed in 2003, when he allegedly decided to control the intervenors' comings and goings and the performance of their work.
+[29] In my view, it is obvious that Mr. Meisels had to keep an eye on the inexperienced people he hired. He had his own reputation to keep up. He had an interest in maintaining his profits and would not have jeopardized these the way he is claiming to have done (by paying for reports of any kind and that he had not necessarily ordered).
+[30] All the intervenors had access to computers and books in his office. They had a fixed remuneration. They did not operate their own businesses as technical analysts. During the periods at issue, they were still learning in that field. I would add here that the article from the Website of the newspaper Les Affaires, filed as Exhibit A-5, referring to Ms. Rizk's knowledge in the field, is dated December 2004, which is after the periods at issue. In my view, all the intervenors were working as employees for Mr. Meisels during those periods. At least, the appellant has not convinced me otherwise.
+[31] The appeals are dismissed.
+Signed at Ottawa, Canada, this 19th day of October 2005.
+"Lucie Lamarre"
+Lamarre, J.
+CITATION: 2005TCC610
+COURT FILE NO.: 2004-3938(EI), 2004-3939(EI), 2004-3940(EI)
+STYLE OF CAUSE: Ron Meisels v. M.N.R. and Jennifer Lavoie, Monica Rizk and Nancy Lydon
+PLACE OF HEARING: Montreal, Quebec
+DATES OF HEARING: August 31 and September 2, 2005
+REASONS FOR JUDGEMENT BY: The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT: October 19, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Christopher R. Mostovac
+Counsel for the Respondent:
+Natalie Goulard
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Christopher R. Mostovac
+Firm: Starnino Mostovac (Montreal)
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

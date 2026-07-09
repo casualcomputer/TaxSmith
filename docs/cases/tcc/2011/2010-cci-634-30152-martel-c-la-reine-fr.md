@@ -1,0 +1,202 @@
+---
+title: "Martel c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30152/index.do"
+last_modified: "2011-01-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 634"
+citation2: ""
+neutral_citation: "2010 CCI 634"
+decision_date: "2011-01-11"
+language: "fr"
+item_id: "30152"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7834
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:12:30.086000+00:00"
+cases_cited_count: 6
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "80a0f077a9f94a8ceb766042ba40bf7232e48c338bcc244c6963c84986e98137"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Martel c. La Reine
+
+- Citation: 2010 CCI 634
+- Decision date: 2011-01-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7834, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Martel c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-01-11
+Référence neutre
+2010 CCI 634
+Numéro de dossier
+2008-3443(IT)G
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-3443(IT)G
+ENTRE :
+RÉAL MARTEL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 8 septembre 2010, à Montréal (Québec).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Avocat de l’appelant :
+Me Guy Matte
+Avocat de l’intimée :
+Me Claude Lamoureux
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la cotisation établie en vertu de la Loi de l’impôt sur le revenu, dont l’avis est daté du 15 juin 2007 et porte le numéro 48215, est accueilli avec dépens, et la cotisation est annulée.
+Signé à Ottawa, Canada, ce 11e jour de janvier 2011.
+« Patrick Boyle »
+Juge Boyle
+Référence : 2010 CCI 634
+Date : 20110111
+Dossier : 2008-3443(IT)G
+ENTRE :
+RÉAL MARTEL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Boyle
+[1] En bref, la Cour est appelée, en l'espèce, à rechercher si l’Agence du revenu du Canada (l’« ARC ») peut recourir aux dispositions relatives au recouvrement figurant à l’article 160 de la Loi de l’impôt sur le revenu (la « LIR ») pour recouvrer les impôts, dus par une société contribuable, d’un actionnaire propriétaire exploitant qui a reçu des dividendes de cette société après qu’une proposition concordataire correctement déclarée est faite, acceptée par les créanciers et ratifiée par le tribunal sous le régime de la Loi sur la faillite et l’insolvabilité (la « LFI »).
+I. Faits
+[2] Monsieur Martel est propriétaire exploitant et actionnaire important de Martel Management Inc. (« Martel Management »). Martel Management exploite une entreprise d’experts‑conseils qui compte plusieurs employés.
+[3] En décembre 2003, Martel Management a fait une proposition à ses créanciers, y compris l’ARC, en application des dispositions relatives aux propositions concordataires prévues par la LFI. La proposition fondée sur la LFI a été modifiée à la demande des créanciers et elle a été acceptée par les créanciers de Martel Management en janvier 2004. Ni l’ARC ni aucun autre créancier n’a demandé une quelconque participation aux bénéfices futurs de la société au cours du processus de proposition. La proposition, telle qu’elle a été acceptée, stipulait que les créanciers non garantis recevraient 30 pour 100 de leur réclamation (soit une somme totale d’environ 180 000 $) à raison de 2 000 $ par mois. L’ARC était créancière non garantie d’une somme de 15 000 $ et devait donc recevoir environ 4 500 $ selon la proposition qu’elle avait acceptée. (Dans la mesure où l’ARC était également créancière privilégiée, la proposition stipulait aussi que la somme visée au paragraphe 224(1.2) de la LIR serait intégralement payée dans un délai de six mois.)
+[4] Après avoir été acceptée par les créanciers, la proposition fondée sur la LFI a été approuvée par la Cour supérieure du Québec en mars 2004.
+[5] En février 2005, Martel Management a déclaré un dividende de 30 000 $ pour la catégorie d’actions détenues par M. Martel. Selon le témoignage de M. Martel, ce dividende a été déclaré et payé en reconnaissance du fait qu’aucun salaire ne lui avait été versé pour les services qu’il avait rendus à Martel Management en 2003 et en 2004. Sa fiche de travail détaillée de même que celles des autres experts‑conseils de Martel Management ont été produites en preuve.
+[6] Martel Management a subi des pertes pécuniaires en 2003 et en 2004. En 2005, Martel Management a recommencé à être rentable et à afficher des flux de trésorerie positifs. Ses recettes en 2005 avaient augmenté d’environ 300 000 $ et elle a réalisé un bénéfice de 67 000 $. En 2005, M. Martel a reçu un salaire d’environ 40 000 $ en plus des 30 000 $ qui lui avaient été versés à titre de dividendes. Selon son témoignage, il s’agissait d’une fraction du salaire que lui versait Martel Management avant de connaître des difficultés financières. M. Martel a reconnu que la formule de rémunération salaire/dividendes avait été retenue à des fins fiscales.
+[7] Le dividende a été payé en 2005, soit avant que le dernier paiement de 2 000 $ prévu par la proposition ne soit effectué le 2 janvier 2006. Martel Management s’est, en temps utile, entièrement conformée aux conditions de la proposition et l’ARC a reçu les sommes auxquelles elle avait consenti dans la proposition. Les paiements stipulés par la proposition ont continué d’être versés en temps utile après que le dividende eut été déclaré et payé à M. Martel.
+[8] Il ressort du témoignage, lequel était clair et non contredit, que les fonds sur lesquels le dividende a été déclaré et payé consistaient en les recettes et les bénéfices réalisés par Martel Management après que la proposition eut été acceptée par les créanciers et ratifiée par le tribunal. Il n’est nullement question en l’espèce de biens qui auraient été camouflés parmi l’actif de la société ou autrement au détriment de l’un quelconque des créanciers, y compris l’ARC.
+[9] Conformément aux dispositions de la LFI, la demande de libération du syndic a été déposée à la Cour supérieure du Québec. Le tribunal a accordé la libération en septembre 2006. La LFI permettait à l’ARC de s’opposer à la libération du syndic au motif que ce dernier aurait omis de faire valoir les droits des créanciers ou pour une autre raison, mais l’ARC a choisi de ne pas exercer ce droit.
+II. Questions en litige
+[10] En l'espèce, la Cour est appelée à se prononcer sur deux questions :
+1) Au moment du versement du dividende en 2005 – le transfert pour l’application de l’article 160 de la LIR –, l’impôt à payer consistait-il en la somme initiale d’environ 15 000 $ ou en la somme réduite de 30 pour 100 payable suivant les conditions de la proposition fondée sur la LFI qui a été acceptée par les créanciers et ratifiée par le tribunal?. Plus précisément, aux termes du sous‑alinéa 160(1)e)(ii) de la LIR, quelle était la dette fiscale impayée de la société pour l’année 2005 et les années précédentes?
+2) Y a-t-il eu une contrepartie, sous forme de services rendus, donnée en échange de la réception, en 2005, par M. Martel, de la rémunération constituée d’un salaire et de dividendes?
+III. Textes législatifs
+Loi de l’impôt sur le revenu
+160(1) Transfert de biens entre personnes ayant un lien de dépendance — Lorsqu’une personne a […] transféré des biens, directement ou indirectement, au moyen d’une fiducie ou de toute autre façon à l’une des personnes suivantes :
+[…]
+c) une personne avec laquelle elle avait un lien de dépendance,
+les règles suivantes s’appliquent :
+[…]
+e) le bénéficiaire et l’auteur du transfert sont solidairement responsables du paiement en vertu de la présente loi d’un montant égal au moins élevé des montants suivants :
+(i) l’excédent éventuel de la juste valeur marchande des biens au moment du transfert sur la juste valeur marchande à ce moment de la contrepartie donnée pour le bien,
+(ii) le total des montants dont chacun représente un montant que l’auteur du transfert doit payer en vertu de la présente loi au cours de l’année d’imposition dans laquelle les biens ont été transférés ou d’une année d’imposition antérieure ou pour une de ces années;
+aucune disposition du présent paragraphe n’est toutefois réputée limiter la responsabilité de l’auteur du transfert en vertu de quelque autre disposition de la présente loi.
+[…]
+(3) Extinction de l’obligation — Dans le cas où un contribuable donné devient, en vertu du présent article, solidairement responsable, avec un autre contribuable, de tout ou partie d’une obligation de ce dernier en vertu de la présente loi, les règles suivantes s’appliquent :
+a) tout paiement fait par le contribuable donné au titre de son obligation éteint d’autant l’obligation solidaire;
+b) tout paiement fait par l’autre contribuable au titre de son obligation n’éteint l’obligation du contribuable donné que dans la mesure où le paiement sert à réduire l’obligation de l’autre contribuable à une somme inférieure à celle dont le contribuable donné est solidairement responsable en vertu du présent article.
+160(1) Tax liability re property transferred not at arm’s length — Where a person has. . . transferred property, either directly or indirectly, by means of a trust or by any other means whatever, to
+. . .
+(c) a person with whom the person was not dealing at arm’s length,
+the following rules apply:
+. . .
+(e) the transferee and transferor are jointly and severally liable to pay under this Act an amount equal to the lesser of
+(i) the amount, if any, by which the fair market value of the property at the time it was transferred exceeds the fair market value at that time of the consideration given for the property, and
+(ii) the total of all amounts each of which is an amount that the transferor is liable to pay under this Act in or in respect of the taxation year in which the property was transferred or any preceding taxation year,
+but nothing in this subsection shall be deemed to limit the liability of the transferor under any other provision of this Act.
+. . .
+(3) Discharge of liability — Where a particular taxpayer has become jointly and severally liable with another taxpayer under this section in respect of part or all of a liability under this Act of the other taxpayer,
+(a) a payment by the particular taxpayer on account of that taxpayer’s liability shall to the extent of the payment discharge the joint liability; but
+(b) a payment by the other taxpayer on account of that taxpayer’s liability discharges the particular taxpayer’s liability only to the extent that the payment operates to reduce that other taxpayer’s liability to an amount less than the amount in respect of which the particular taxpayer is, by this section, made jointly and severally liable.
+IV. Thèses des parties
+[11] Lorsqu'il y a différend portant sur l’article 160, il est constant que le bénéficiaire du transfert peut contester le montant de l’impôt à payer par l’auteur du transfert de la même manière que le débiteur fiscal lui‑même : voir, par exemple, la décision Thorsteinson c. M.N.R., 80 DTC 1369 (Commission de révision de l’impôt). En l'espèce, M. Martel soutient qu’au moment du transfert, soit lorsqu’il a reçu le dividende, l’impôt à payer avait été partiellement réduit en raison de l’acceptation de la proposition et de son approbation par le tribunal. Il signale en outre que la société a par la suite acquitté intégralement le solde de l’impôt à payer, laquelle dette a été entièrement éteinte.
+[12] En l'espèce, il n’est pas controversé, comme l’a observé la Cour d’appel fédérale dans l’arrêt The Queen c. Heavyside, 97 DTC 5026, que la dette qu’assume le bénéficiaire du transfert visé par l’article 160 sous le régime de la LIR prend naissance au moment du transfert et que la libération subséquente du débiteur fiscal n’a aucune incidence sur elle.
+[13] Il n'est pas non plus controversé que la jurisprudence 2753‑1359 Québec Inc. et Larouche c. La Reine, 2010 CAF 32, 2010 DTC 5031, doit être suivie en l’espèce; la Cour d’appel fédérale a rejeté la thèse des autorités québécoises voulant que le versement d’un dividende constitue une contrepartie pour le règlement d’une dette créée sous le régime du droit des sociétés lorsque le dividende a été déclaré; elle était fondée sur une lecture trop littérale de l’article 160.
+[14] L’avocat de l’appelant soutient que la jurisprudence Visionic Inc. c. Michaud, [1982] J.Q. no 174, enseigne que, au Québec à tout le moins, un dividende peut être versé en contrepartie d’un salaire auquel on a renoncé ou de services rendus. Dans cette affaire, les propriétaires exploitants de la société avaient choisi d’être rémunérés non plus par un salaire, mais par des dividendes. Ils avaient retenu cette formule pour des raisons fiscales. La Cour supérieure du Québec a conclu qu’un dividende constitue malgré tout un salaire, tout au moins pour l’application de la Loi sur les normes du travail provinciale. Le changement des modalités de rémunération n’a pas fait disparaître la nature salariale de celle‑ci. On ne saurait dire avec certitude si cet enseignement ne vaut que pour l’application de la Loi sur les normes d’emploi ou pour l’application de toutes les lois du Québec. Cependant, comme je fais droit à l’appel pour d’autres motifs, je ne suis pas appelé à me prononcer sur cette question; il reviendra éventuellement à un autre juge de le faire dans l'avenir.
+[15] En l’espèce, la Cour doit plutôt décider à quel moment le débiteur fiscal est en partie libéré et à quel moment l’obligation au titre de l’impôt à payer est en partie éteinte, lorsque la proposition fondée sur la LFI a été acceptée.
+[16] La LFI est muette sur le moment où le débiteur est libéré de ses obligations lorsqu’il existe une proposition. L’intimée fait valoir que, selon le paragraphe 66(1) de la LFI, les dispositions de la LFI en matière de faillite jouent un rôle supplétif, grâce auxquelles les dispositions de ce texte législatif relatives aux propositions sont précisées par analogie. Or, en matière de faillite, la loi est sans ambiguïté: le failli‑débiteur est libéré au moment du prononcé de l'ordonnance de libération : voir le paragraphe 178(2). L’intimée avance que, par analogie, l’extinction partielle d’une dette et la libération partielle du débiteur dans le cadre d’une proposition fondée sur la LFI ont lieu au moment du prononcé de l’ordonnance de libération du syndic ou au moment où le syndic remet, en application de l’article 65.3, le certificat selon lequel la proposition a été exécutée intégralement. Si la thèse de l’intimée est correcte sur ce point, M. Martel se trouve dans la malheureuse situation où Martel Management lui a versé un dividende trop hâtivement, c’est‑à‑dire au moment où l’ARC avait, en principe, le droit de recouvrer de M. Martel l’intégralité de l’impôt total à payer dû par Martel Management malgré le fait que, selon la LFI, l’ARC ne pouvait évidemment pas recouvrer cette somme de Martel Management elle‑même et elle n’avait aucun droit sur la somme supplémentaire suivant les conditions énoncées dans la proposition acceptée et approuvée. L’intimée invoque également l’article 69.1 de la LFI, selon lequel les créanciers ne peuvent intenter une action entre la date du dépôt d’une proposition et la libération du syndic ou bien la faillite, si la proposition n’est pas acceptée ou approuvée. L’intimée soutient que cette disposition la conforte aussi dans sa thèse voulant que ce soit la date de l’ordonnance de libération du syndic qui l’emporte dans le cas d’une proposition. Elle avance qu’au moment où le dividende a été déclaré et versé, l’impôt à payer équivalait donc toujours au montant total de la dette même si les créanciers ne pouvaient recouvrer leur créance du débiteur si celui‑ci respectait les conditions de la proposition.
+[17] En outre, l’intimée fait valoir que l’alinéa 160(1)e) de la LIR dispose que le bénéficiaire du transfert est solidairement responsable de la dette fiscale de l’auteur du transfert, c’est‑à‑dire, selon l’intimée, sans égard à aucune transaction au sens de la LFI.
+[18] Le contribuable, pour sa part, fait valoir que si la LFI est bien appliquée par analogie, la date de la libération partielle du débiteur et celle de l’extinction partielle de la dette initiale visée par la proposition fondée sur la LFI est celle de la ratification, par le tribunal, de la proposition à la suite de son acceptation par les créanciers. Si la thèse de l’appelant est correcte, l’ARC ne peut recourir à l’article 160 de la LIR pour poursuivre les personnes auxquelles des biens du débiteur fiscal initial ont été transférés postérieurement à l’acceptation de la proposition par les créanciers et à la ratification de celle‑ci par le tribunal.
+[19] À l’appui de sa thèse, l’appelant s'appuie sur les observations de J. Deslauriers dans La faillite et l’insolvabilité au Québec[1] : il soutient que la date de prise d’effet du règlement de la dette dans le cadre de la proposition n’est pas celle à laquelle le tribunal prononce la libération du syndic :
+ii) Libération des dettes du débiteur
+La proposition peut avoir pour effet de libérer le débiteur d’une partie de ses dettes. En effet, une proposition prévoyant le versement d’un certain pourcentage des créances (par exemple 30 %) aura pour effet de libérer le débiteur pour le solde si ce concordat est accepté (art. 62(2) L.f.i.). Le débiteur ne sera toutefois pas libéré des dettes visées par l’article 178(1) L.f.i. à moins que les créanciers concernés n’y consentent. De plus, les personnes tenues au paiement de la dette, à titre d’associé, de cocontractant ou de caution, ne seront pas libérées par l’acceptation de la proposition (art. 62(3) et 179 L.f.i.).
+Certaines cautions ont déjà prétendu que la remise consentie par les créanciers lors d’un concordat devait profiter aux cautions et les libérer en conséquence. En effet, la remise d’une dette éteint normalement le cautionnement, car ce dernier est un accessoire d’une obligation principale, qui une fois éteinte, met fin au cautionnement. Cependant, la remise de dette résultant d’un concordat n’est pas une remise volontairement consentie par le créancier. Cette remise résulte plutôt de circonstances imposées par la loi et d’une décision du tribunal. De plus, l’article 179 L.f.i. prévoit que la libération obtenue par un débiteur ne profite pas aux cautions et l’article 62(3) L.f.i. édicte que l’acceptation d’une proposition par un créancier ne libère aucune personne qui ne le serait pas aux termes de la Loi sur la faillite par la libération du débiteur.
+[Non souligné dans l’original.]
+[20] De surcroît, l’appelant cite les observations de L.W. Houlden et G.B. Morawetz dans Bankruptcy and Insolvency Law of Canada[2] :
+[traduction]
+Lorsqu’une proposition est acceptée par les créanciers et approuvée par le tribunal, le débiteur bénéficie du même avantage que celui qu’il obtiendrait s’il était libéré d’une faillite, à savoir l’extinction de l’ensemble des dettes et des obligations qu’il a envers les créanciers non garantis, à l’exception de celles énumérées à l’article 178 : Flint c. Barnard (1888), 22 Q.B.D. 90, 58 L.J.Q.B. 53, 37 W.R. 185, 5 T.L.R. 79 (C.A.); Anderson c. Canadian Imperial Bank of Commerce (1999), 11 C.B.R. (4th) 157, 1999 CarswellOnt 1896 (Div. gén. Ont.).
+[Non souligné dans l’original.]
+[21] Plus précisément, cette doctrine s'appuie sur la décision Anderson c. Canadian Imperial Bank of Commerce (1999), 11 C.B.R. (4th) 157, [2000] C.C.S. No. 7021, dans laquelle la Cour de justice de l’Ontario, qui a compétence en matière d’application de la LFI dans cette province, a fait les observations suivantes aux paragraphes 40 et 41 :
+[traduction]
+Je ne doute nullement qu'est parfaitement correcte la thèse de M. Wallace selon laquelle la proposition approuvée par le tribunal offre au débiteur le même avantage que ce dernier obtiendrait s’il était libéré d’une faillite. Dans ce sens, L.W. Houlden et G.B. Morawetz opinent dans The 1999 Annotated Bankruptcy and Insolvency Act (Toronto, Carswell, 1998) à la page 199 :
+Une fois acceptée par les créanciers et approuvée par le tribunal, la proposition est opposable aux personnes suivantes :
+a) tous les créanciers non garantis,
+b) tous les créanciers garantis qui ont des réclamations et qui appartiennent à une catégorie des créanciers garantis qui ont voté en faveur de l’acceptation de la proposition par une majorité en nombre et une majorité des deux tiers en valeur des créanciers garantis de cette catégorie.
+Lorsque la proposition est acceptée par les créanciers et approuvée par le tribunal, le débiteur bénéficie du même avantage que celui qu’il obtiendrait s’il était libéré d’une faillite, à savoir l’extinction de l’ensemble des dettes et des obligations qu’il a envers les créanciers non garantis, à l’exception de celles énumérées à l’article 178 : Flint c. Barnard (1888), 22 Q.B.D. 90, 58 L.J.Q.B. 53, 37 W.R. 185, 5 T.L.R. 79 (C.A.).
+Plus loin, le paragraphe 178(2) de la LFI dispose, de manière quelque peu obscure, que l’une « ordonnance de libération libère le failli de toutes autres réclamations prouvables en matière de faillite ». J’en déduis donc que, par analogie, la proposition approuvée produit un effet libératoire semblable à l’égard des réclamations non garanties par ailleurs valables.
+[Non souligné dans l’original.]
+[22] L’intimée signale que ces auteurs font les observations suivantes :
+[traduction]
+E§85 Exécution intégrale de la proposition
+En cas d’exécution intégrale de la proposition, le syndic remet un certificat au débiteur et au séquestre officiel : article 65.3. Le certificat est libellé selon la formule 46. On peut supposer que le certificat produit le même effet que si le débiteur était libéré d’une faillite.
+[Non souligné dans l’original.]
+[23] Le contribuable invoque également le paragraphe 62(2) de la LFI, selon lequel « [u]ne fois acceptée par les créanciers et approuvée par le tribunal, la proposition lie ces derniers relativement […] à toutes les réclamations non garanties ». En outre, le paragraphe 62(2.1) dispose que « [t]outefois, l’acceptation d’une proposition par les créanciers et son approbation par le tribunal ne libèrent la personne insolvable d’une dette ou obligation visée au paragraphe 178(1) [soit certaines sortes précises de dettes qui ne font habituellement pas l’objet d’une transaction sous le régime de la LFI, comme les amendes, les pensions alimentaires, la fraude, etc.] que si la proposition prévoit expressément […] ».
+V. Analyse et conclusion
+[24] Dans l’arrêt Wannan c. La Reine, 2003 CAF 423, 2003 DTC 5715, la Cour d’appel fédérale reconnaît que l’application de l’article 160 de la LIR peut avoir des conséquences iniques, injustes et injustifiées, mais que le législateur a malgré tout le pouvoir de conférer à l’ARC un vaste pouvoir de recouvrement et que c’est ce qu’il a fait.
+[25] Dans la décision Clause c. La Reine, 2010 CCI 410, j’ai appliqué les dispositions de l’article 160 d’une manière laquelle, pourrait‑on soutenir, a abouti à une issue injuste. Cela dit, dans cette affaire, j'étais appelé à rechercher si le transfert en faveur de Mme Clause avait eu lieu avant la deuxième proposition faite sous le régime de la LFI ou avant le rétablissement, postérieur à un défaut de versement, de la proposition initiale fondée sur ce même texte législatif, lequel était sans ambiguïté, ainsi que les propositions en cause.
+[26] Comme dans l’affaire Clause, l’intimée en l’espèce est incapable de me préciser comment je pourrais expliquer à M. Martel, si je rejetais l’appel, que l’issue est juste ou que les dispositions de la LFI m'imposait une telle décision de rejet. D'ailleurs, l’avocat de l’intimée n'a pu me faire part d'observations utiles, et il a même reconnu qu’une telle issue pourrait paraître injuste.
+[27] Même si les arguments de l’intimée ne sont pas dénués de fondement, en fin de compte, je suivrai l'opinion de Houlden et Morawetz et de Deslauriers[3]. Je ne suis pas tenu de suivre l’interprétation de la LFI qu'a consacrée la Cour de justice de l’Ontario relativement à cette question même dans la décision Anderson c. CIBC; cependant, je suis disposé à le faire. Elle me paraît judicieuse compte tenu du manque de précision de la LFI en matière de propositions et du fait que son application en l’espèce aboutit à une issue juste. Enfin, la courtoisie judiciaire doit amener la Cour canadienne de l’impôt à suivre l’interprétation retenue par les tribunaux judiciaires qui ont compétence en matière de propositions relevant de la LFI[4].
+[28] A titre subsidiaire, l’intimée soutient que, vu le libellé de l’article 160, cette disposition est d'application stricte; la somme due aux termes de la LIR doit être déterminée selon ce texte, sans qu'il soit tenu compte de quelque proposition à cet égard relevant de la LFI. Je ne puis retenir cette thèse. S'il fallait la suivre à la lettre, l’ARC pourrait poursuivre, relativement à des transferts effectués bien après la libération du failli ou l'acceptation et l'approbation de la proposition, les bénéficiaires d’un transfert pour la somme dont l’ARC a été privée volontairement dans la transaction à titre de créancière dans le cadre d’une proposition fondée sur la LFI ou involontairement dans le cadre d’une faillite. Il peut arriver que l’article 160 donne lieu, dans certains cas, à des issues injustes, inéquitables et sévères, mais le simple bon sens impose sûrement certaines limites.
+[29] L’appel est accueilli avec dépens.
+Signé à Ottawa, Canada, ce 11e jour de janvier 2011.
+« Patrick Boyle »
+Juge Boyle
+RÉFÉRENCE : 2010 CCI 634
+NO DU DOSSIER DE LA COUR : 2008-3443(IT)G
+INTITULÉ : Réal Martel c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 8 septembre 2010
+MOTIFS DU JUGEMENT : L’honorable juge Patrick Boyle
+DATE DU JUGEMENT : Le 11 janvier 2011
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Guy Matte
+Avocat de l’intimée :
+Me Claude Lamoureux
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Me Guy Matte
+Cabinet :
+Montréal (Québec)
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Deslauriers, Jacques. La faillite et l’insolvabilité au Québec, Montréal, Wilson & Lafleur, 2004, à la p. 132.
+[2] Houlden, L.W. et Morawetz, G.B. Bankruptcy and Insolvency Law of Canada, 3e éd. (révisée), vol. 2, Toronto, Carswell, à la p. 2-166.
+[3] Je signale que le premier passage tiré de l’ouvrage de L.W. Houlden et G.B. Morawetz et reproduit plus haut est plus précis que le second, et qu’il est étayé par des renvois à la jurisprudence tandis que le second est qualifié de présomption.
+[4] Pour un aperçu des facteurs applicables en matière de courtoisie judiciaire entre tribunaux de juridiction équivalente, voir la décision Houda International Inc. c. La Reine, 2010 CCI 622.

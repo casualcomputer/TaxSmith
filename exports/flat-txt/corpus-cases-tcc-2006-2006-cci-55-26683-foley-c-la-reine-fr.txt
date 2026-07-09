@@ -1,0 +1,219 @@
+Title: Foley c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26683/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-55-26683-foley-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2006-01-26
+
+# Foley c. La Reine
+
+- Citation: 2006 CCI 55
+- Decision date: 2006-01-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3429, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Foley c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-01-26
+Référence neutre
+2006 CCI 55
+Numéro de dossier
+2005-1671(IT)I
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-1671(IT)I
+ENTRE :
+LAURA J. FOLEY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus le 13 octobre 2005, à Saskatoon (Saskatchewan)
+Devant : L’honorable juge L.M. Little
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Brooke Sittler
+____________________________________________________________________
+JUGEMENT MODIFIÉ
+Les appels interjetés à l’égard des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2001 et 2002 sont accueillis, sans dépens, et les cotisations sont renvoyées au ministre du Revenu national pour nouvel examen et nouvelles cotisations conformément aux motifs du jugement modifié ci‑joints.
+Le présent jugement remplace le jugement daté du 26 janvier 2006.
+Signé à Ottawa, Canada, ce 23e jour de mai 2006.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 7e jour d’août 2007.
+Marie-Christine Gervais, traductrice
+Référence : 2006CCI55
+Date : 20060523
+Dossier : 2005-1671(IT)I
+ENTRE :
+LAURA J. FOLEY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT MODIFIÉ
+Le juge Little
+A. FAITS :
+[1] L’appelante soutient qu’au cours des années d’imposition 2001 et 2002, elle était une employée, ainsi qu’une chargée de cours indépendante et une archéologue sur le terrain. L’appelante allègue qu’elle a le droit de déduire diverses dépenses d’entreprise du revenu qu’elle a touché en tant que chargée de cours indépendante.
+[2] L’intimée soutient que l’appelante était une employée au cours des années d’imposition 2001 et 2002 et que, en tant qu’employée, elle n’avait pas le droit de réclamer des pertes.
+[3] La preuve présentée à la Cour établit les faits suivants :
+a) au cours des années 2001 et 2002, l’appelante était employée par St. Paul’s Roman Catholic Separate School Division no 20 à titre de directrice d’école;
+b) au cours des années 2001 et 2002, l’appelante était une chargée de cours au Collège St. Thomas More et à l’Université de la Saskatchewan. Au cours des étés 2001 et 2002, l’appelante était une archéologue sur le terrain et elle a organisé et supervisé des voyages au Moyen‑Orient avec des étudiants de l’Université de la Saskatchewan. (Remarque : le Collège St. Thomas More est un collège affilié à l’Université de la Saskatchewan);
+c) au cours de l’année 2001, l’appelante a tiré un revenu total de 92 282,00 $ des sources suivantes :
+Collège St. Thomas More 7 712,40 $
+Université de la Saskatchewan 8 300,15 $
+St. Paul’s Roman Catholic Separate School Division no 20 76 269,55 $
+Total 92 282,10 $
+d) au cours de l’année 2002, l’appelante a tiré un revenu total de 82 251,00 $ des sources suivantes :
+Collège St. Thomas More 4 011,00 $
+St. Paul’s Roman Catholic Separate School Division no 20 78 240,00 $
+Total 82 251,00 $
+e) L’appelante recevait un salaire de St. Paul’s Roman Catholic Separate School;
+f) St. Paul, le Collège St. Thomas More et l’Université de la Saskatchewan fournissaient tous gratuitement à l’appelante une salle de classe, un bureau et un téléphone pour l’exercice de ses fonctions;
+g) dans ses déclarations de revenus pour les années d’imposition 2001 et 2002, l’appelante a déduit des dépenses d’emploi de 1 227,55 $ et de 1 658,75 $, respectivement, relativement à son emploi à St. Paul’s Roman Catholic Separate School;
+h) l’appelante a eu le droit de déduire les dépenses d’emploi de 1 227,55 $ en 2001 et de 1 658,75 $ en 2002 relativement à son emploi à St. Paul’s Roman Catholic Separate School;
+i) dans ses déclarations de revenus pour les années 2001 et 2002, l’appelante a également déduit des dépenses d’emploi de 7 938,32 $ et de 8 400,97 $ respectivement;
+j) le ministre du Revenu national (le « ministre ») a refusé les dépenses mentionnées à l’alinéa i) ci‑dessus.
+B. QUESTIONS EN LITIGE
+[4] Les questions en litige sont les suivantes :
+1. L’appelante était‑elle considérée comme une entrepreneuse indépendante quand elle a donné des cours au Collège St. Thomas More et à l’Université de la Saskatchewan en 2001 et en 2002 et quand elle a agi à titre d’archéologue sur le terrain au Moyen‑Orient?
+2. Si l’appelante était considérée comme une entrepreneuse indépendante en 2001 et en 2002, avait‑elle le droit de déduire les dépenses qu’elle a déduites?
+C. ANALYSE ET DÉCISION
+[5] L’appelante a indiqué dans son témoignage que dans le cadre de son travail de chargée de cours indépendante, elle a été payée pour préparer et donner des cours le soir au Collège St. Thomas More et à l’Université de la Saskatchewan, pour effectuer des recherches archéologiques en Saskatchewan et pour organiser des expéditions d’archéologie au Moyen‑Orient et y participer avec plusieurs étudiants de l’Université de la Saskatchewan au cours de l’été.
+[6] L’appelante a de plus déclaré qu’elle a continué de donner des cours et de faire des expéditions en 2003, 2004 et 2005. L’appelante a dit qu’elle a reçu les paiements suivants du Collège St. Thomas More et de l’Université de la Saskatchewan pour son « travail de chargée de cours indépendante » :
+2003 10 000,00 $
+2004 12 000,00 $ - 15 000,00 $
+[7] L’appelante a également indiqué dans son témoignage qu’elle croit que le revenu qu’elle tirera de son travail en tant que chargée de cours indépendante au cours des prochaines années dépassera ses dépenses.
+[8] Dans une telle situation, je dois établir si l’appelante était une employée du Collège St. Thomas More ou de l’Université de la Saskatchewan en 2001 ou en 2002, ou bien si l’appelante était une entrepreneuse indépendante.
+[9] Pour déterminer si une personne est un entrepreneur indépendant ou un employé, les cours canadiennes ont établi un certain nombre de critères. Les cours ont établi un critère axé sur l’ensemble de la relation entre les parties et dont l’analyse porte sur quatre éléments à savoir :
+1. le degré de contrôle et de supervision;
+2. la propriété des instruments de travail;
+3. les possibilités de bénéfices et les risques de pertes;
+4. l’intégration.
+[10] Ces critères ont été proposés par la Cour d’appel fédérale dans l’arrêt Wiebe Door Services Ltd. c. M.R.N.[1], puis ils ont été acceptés et élargis dans le cadre de causes ultérieures. La Cour suprême du Canada a récemment eu la possibilité de réexaminer la question dans l’arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc[2]. S’exprimant au nom de la Cour, le juge Major a dit ce qui suit :
+Bien qu’aucun critère universel ne permette de déterminer si une personne est un employé ou un entrepreneur indépendant, je conviens avec le juge MacGuigan que la démarche suivie par le juge Cooke dans la décision Market Investigations, précitée, est convaincante. La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l’employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s’il engage lui‑même ses assistants, quelle est l’étendue de ses risques financiers, jusqu’à quel point il est responsable des mises de fonds et de la gestion et jusqu’à quel point il peut tirer profit de l’exécution de ses tâches[3].
+[11] Par conséquent, le juge Major a considéré que la question centrale à trancher est celle de savoir « si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte » ou si elle les fournit en sa qualité d’employée.
+[12] La Cour d’appel fédérale a déjà souligné qu’il faut examiner les quatre critères dans leur ensemble :
+[...] nous considérons les critères comme des subordonnés utiles pour peser tous les faits relatifs à l’entreprise de la requérante. C’est maintenant l’approche appropriée et préférable pour la très bonne raison que dans une cause donnée, et celle‑ci peut très bien en être une, un ou plusieurs des critères peuvent être peu ou pas applicables. Pour rendre une décision, il faut donc considérer l’ensemble de la preuve en tenant compte des critères qui peuvent être appliqués et donner à toute la preuve le poids que les circonstances peuvent exiger[4].
+Dans le même ordre d’idées, le juge Major a dit ce qui suit dans l’arrêt Sagaz :
+Ces facteurs, il est bon de le répéter, ne sont pas exhaustifs et il n’y a pas de manière préétablie de les appliquer. Leur importance relative respective dépend des circonstances et des faits particuliers de l’affaire[5].
+[Non souligné dans l’original.]
+[13] Comme il est indiqué ci‑dessus, le critère énoncé dans l’affaire Wiebe Door peut être divisé en quatre catégories :
+I. Contrôle
+[14] Le juge MacGuigan a dit ce qui suit dans l’arrêt Wiebe Door :
+En common law, le critère traditionnel qui confirme l’existence d’une relation employeur-employé est le critère du contrôle, que le baron Bramwell a défini dans Regina v. Walker (1858), 27 L.J.M.C. 207, à la page 208 :
+[TRADUCTION] À mon sens, la différence entre une relation commettant‑préposé et une relation mandant‑mandataire est la suivante : – un mandant a le droit d’indiquer au mandataire ce qu’il doit faire, mais le commettant a non seulement ce droit, mais aussi celui de dire comment la chose doit être faite[6].
+[15] L’appelante a indiqué dans son témoignage qu’elle était responsable du contenu de ses cours, ainsi que de la supervision et de la direction des « fouilles archéologiques ». L’appelante a dit qu’elle n’avait pas l’impression que le Collège St. Thomas More ou l’Université de la Saskatchewan la « contrôlait ».
+[16] L’appelante a également souligné que lors des expéditions au Moyen‑Orient ayant lieu au cours de l’été, l’Université n’exerçait aucun contrôle et ne supervisait pas ce qui se passait, c’est‑à‑dire qu’elle était complètement seule.
+[17] L’appelante a également dit qu’elle avait le droit d’engager d’autres personnes pour donner les cours.
+II. Propriété des instruments de travail
+[18] Les parties conviennent que le Collège St. Thomas More et l’Université de la Saskatchewan fournissaient les salles de classe. L’appelante a dit qu’elle apportait son propre ordinateur, ainsi que son matériel de photographie et ses livres. L’appelante avait également de l’expérience pertinente, des connaissances approfondies en matière d’archéologie, ainsi que la capacité de donner des cours.
+[19] L’appelante a dit qu’elle a acheté un grand nombre de livres sur l’archéologie. Elle a dit : [traduction] « J’ai la meilleure bibliothèque sur l’archéologie au Proche‑Orient dans la province de la Saskatchewan — elle est même meilleure que celle de l’Université ».
+III. Possibilités de bénéfices et risques de pertes
+[20] Dans une relation employé‑employeur, c’est l’employeur qui est responsable des profits ou des pertes. L’employé n’assume pas de risques financiers étant donné qu’il reçoit le même salaire quelle que soit la situation financière de l’employeur[7].
+[21] En l’espèce, il est admis que l’appelante était payée selon le taux convenu. Dans l’affaire Precision Gutters, le commentaire suivant est formulé :
+[...] Selon moi, la capacité de négocier les modalités d’un contrat suppose une chance de bénéfice et un risque de perte de la même manière que permettre à une personne d’accepter ou de refuser du travail suppose une chance de bénéfice et un risque de perte[8].
+La preuve démontrait que l’appelante avait négocié le taux de rémunération pour les périodes en question. L’appelante a dit que, au début de chaque année, elle devait présenter une demande pour obtenir le contrat avec l’Université. Autrement dit, le poste de chargée de cours n’était pas nécessairement renouvelé chaque année.
+[22] Un des facteurs importants qu’il faut souligner dans la présente situation est la capacité que l’appelante avait de refuser les offres qui lui étaient présentées. Dans le présent contexte, l’appelante a témoigné qu’elle avait refusé certains emplois qui lui avaient été offerts.
+[23] Il faut en outre souligner que dans l’arrêt Wolf, la juge Desjardins a étendu la notion de risque de façon à ce qu’elle vise des facteurs autres que le risque financier :
+En contrepartie d’une hausse de salaire, l’appelant en l’espèce prenait tous les risques de l’activité à laquelle il se livrait. Il ne pouvait pas souscrire à un régime d’assurance-santé ni à un régime de retraite de Canadair. Il n’avait pas de sécurité d’emploi, aucune protection syndicale, ne pouvait pas suivre de cours et n’avait pas de chance d’avancement. C’était à lui d’assumer les profits et les facteurs de risque[9].
+[24] Il faut également souligner que l’Université n’accordait à l’appelante aucun avantage, comme un régime de soins de santé, des congés de maladie, un régime de pension ou tout autre avantage dont les employés bénéficient normalement.
+IV. Intégration
+[25] Il s’agit d’un critère difficile à appliquer[10]. Le juge Hugessen de la Cour fédérale a tout de même fait les commentaires suivants au sujet du critère de l’intégration dans l’affaire Canada v. Rouselle et al. :
+[25] Le juge n’a pas mentionné comme tel le facteur « intégration ». Évidemment à la lumière de la jurisprudence citée ci‑dessus, il n’était pas indispensable qu’il en parle. Toutefois, s’il l’avait considéré, il est évident que, vu du point de vue des employés, ceux‑ci n’étaient intégrés d’aucune façon dans l’entreprise de l’employeur.
+[26] Leurs allées et venues, leurs heures et même leurs semaines de travail n’étaient d’aucune manière intégrées ni coordonnées avec les opérations de la compagnie qui les payait. Leur travail bien que fait pour l’entreprise de la compagnie n’en faisait pas une partie intégrante mais y était purement accessoire[11].
+En d’autres mots, la question est la suivante :
+[TRADUCTION] Les remarques de lord Wright, du lord juge Denning et des juges de la Cour suprême des États‑Unis laissent à entendre que le critère fondamental à appliquer est celui‑ci : « La personne qui s’est engagée à accomplir ces tâches les accomplit‑elle en tant que personne à son compte?[12] ».
+[26] L’appelante a dit qu’il n’est pas tout à fait essentiel qu’elle donne des cours pour poursuivre son travail à l’Université. L’appelante a indiqué ce qui suit dans son témoignage : [traduction] « Je dois convaincre l’Université que je devrais être engagée ».
+Autrement dit, les cours en question qui étaient donnés par l’appelante ne faisaient pas partie « intégrante » du programme d’enseignement de l’Université.
+V. Intention contractuelle
+[27] Il s’agit d’un autre critère que les cours ont appliqué pour déterminer si une personne est un employé.
+[28] Chaque année, le Collège St. Thomas More a envoyé une lettre à l’appelante. Dans une lettre datée du 27 avril 2001 envoyée par le Collège St. Thomas More à l’appelante, le commentaire suivant est formulé :
+[TRADUCTION]
+Je désire vous offrir un poste de chargée de cours saisonnier pour l’année universitaire 2001‑2002.
+[29] Dans l’arrêt Wolf, le juge Noël a formulé les commentaires suivants concernant le rôle de l’intention contractuelle dans la classification d’un employé :
+[...] Je reconnais que la façon dont les parties décident de décrire leur relation n’est pas habituellement déterminante, en particulier lorsque les critères juridiques applicables pointent dans l’autre direction. Mais, dans une issue serrée comme en l’espèce, si les facteurs pertinents pointent dans les deux directions avec autant de force, l’intention contractuelle des parties et en particulier leur compréhension mutuelle de la relation ne peuvent pas être laissées de côté[13].
+[30] J’ai conclu qu’au cours des années d’imposition 2001 et 2002, l’appelante était une entrepreneuse indépendante et non une employée du Collège St. Thomas More ou de l’Université de la Saskatchewan.
+[31] Je dois ensuite décider si l’appelante a droit aux déductions demandées.
+[32] J’ai conclu que les dépenses suivantes peuvent être déduites par l’appelante :
+2001 2002
+Abonnement 570,00 $ 660,00 $
+Repas et divertissement 588,50 $ 247,50 $
+Frais de bureau 805,00 $ 768,00 $
+Frais de nettoyage de bureau 165,36 $
+Fournitures 928,78 $
+Fournitures 1 606,00 $
+Frais de comptabilité 450,00 $
+Frais de téléphone 300,00 $ 65,00 $
+Déduction pour amortissement 1 055,82 $ 1 612,32 $
+[33] J’ai conclu que les dépenses suivantes ne sont pas déductibles par l’appelante :
+2001 2002
+Voyage à Seattle 967,43 $
+Voyage à Toronto 2 675,72 $
+Voyage à Amsterdam 725,82 $
+Autres frais de voyage 533,18 $ 1 023,00 $
+Autres dépenses 382,00 $
+Dépenses en capital de catégorie 8 928,00 $
+Dépenses en capital de catégorie 10 331,00 $
+[34] J’ai conclu que ces dépenses ne sont pas déductibles parce que la preuve dont la Cour est saisie ne me convainc pas que les dépenses étaient essentielles pour permettre à l’appelante d’exercer ses activités commerciales en tant que travailleuse indépendante.
+[35] Les appels sont accueillis, sans dépens, et le ministre devra apporter les corrections énoncées ci‑dessus.
+Signé à Ottawa, Canada, ce 23e jour de mai 2006.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 7e jour d’août 2007.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE :
+2006CCI55
+NO DU DOSSIER DE LA COUR :
+2005-1671(IT)I
+INTITULÉ :
+Laura J. Foley c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Saskatoon (Saskatchewan)
+DATE DE L’AUDIENCE :
+Le 13 octobre 2005
+MOTIFS DU JUGEMENT MODIFIÉ :
+L’honorable juge L.M. Little
+DATE DU JUGEMENT MODIFIÉ :
+Le 23 mai 2006
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Brooke Sittler
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelante :
+Nom :
+Étude :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] [1986] 3 C.F. 553, 70 N.R. 214, [1986] 2 C.T.C. 200, 87 DTC 5025 (C.A.F.).
+[2] [2001] 2 R.C.S. 983, 204 D.L.R. (4th) 542.
+[3] Sagaz, précité.
+[4] Moose Jaw Kinsmen Flying Fins Inc. v. M.N.R., [1988] 2 C.T.C. 2377 (C.A.F.; 88 DTC 6099, à la p. 6100.
+[5] Sagaz, par. 48.
+[6] Wiebe Door, DTC, à la p. 5027.
+[7] Wolf c. Canada, précité, au par. 86.
+[8] Precision Gutters, au par. 27.
+[9] Wolf, au par. 87.
+[10] Precision Gutters, au par. 19.
+[11] (1990), 124 N.R. 339 (C.A.F.), à la p. 347.
+[12] Le juge MacGuigan cite et approuve les commentaires du juge Cooke dans l’affaire Market Investigations Ltd. v. Minister of Social Security, [1968] 23 All E.R. 732, à la p. 737.
+[13] Wolf, au par. 122; le juge Décary accorderait plus d’importance à l’intention des parties étant donné les tendances dans le monde moderne des affaires, aux par. 119‑120; la juge Desjardins a dit aux par. 69‑72 que pour que le contrat ait de l’importance, il doit refléter la véritable relation qu’il y a entre les parties.

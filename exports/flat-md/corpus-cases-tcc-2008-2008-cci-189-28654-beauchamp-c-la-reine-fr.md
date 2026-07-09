@@ -1,0 +1,158 @@
+---
+title: "Beauchamp c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28654/index.do"
+last_modified: "2008-04-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 189"
+citation2: ""
+neutral_citation: "2008 CCI 189"
+decision_date: "2008-04-14"
+language: "fr"
+item_id: "28654"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1118
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:53:53.566000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b91a85a10b72f6f67fa051e95b89f88c6564ae74635413d690819b3da491e20e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Beauchamp c. La Reine
+
+- Citation: 2008 CCI 189
+- Decision date: 2008-04-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1118, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Beauchamp c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-04-14
+Référence neutre
+2008 CCI 189
+Numéro de dossier
+2007-3826(IT)I
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-3826(IT)I
+ENTRE :
+RICHARD BEAUCHAMP,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 10 mars 2008, à Montréal (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Avocat de l'appelant :
+Me Jean-François Lambert
+Avocat de l'intimée :
+Me Anne Poirier
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation à l’égard du crédit d’impôt pour déficience physique grave et prolongée établie en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2003, 2004 et 2005 est rejeté, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 14e jour d'avril 2008.
+« Paul Bédard »
+Juge Bédard
+Référence : 2008CCI189
+Date : 20080414
+Dossier : 2007-3826(IT)I
+ENTRE :
+RICHARD BEAUCHAMP,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Le ministre du Revenu national (le « ministre ») a refusé à l’appelant un crédit d’impôt pour déficience physique grave et prolongée relatif à ses années d’imposition 2003, 2004 et 2005. L’appelant en appelle de cette décision.
+[2] Les questions en litige sont les suivantes :
+a) L’appelant a-t-il le droit d’interjeter appel auprès de la Cour, à l’égard des années d’imposition 2003 et 2004?
+b) L’appelant a-t-il droit, dans le calcul de ses crédits d’impôt non remboursables pour l’année d’imposition 2005, au crédit d’impôt pour déficience mentale ou physique, grave et prolongée?
+[3] Je souligne immédiatement que l’avis d’appel, à l’égard des années d’imposition 2003 et 2004, est irrecevable puisqu’aucun avis d’opposition n’a été signifié au ministre conformément aux articles 165 et 169 de la Loi de l’impôt sur le revenu (la « Loi ») quant à ces années d’imposition. En fait, le droit d’appel n’a même pas pris naissance, l’appelant n’ayant jamais signifié d’avis d’opposition au ministre à l’égard des cotisations établies pour ces mêmes années d’imposition.
+[4] L’appelant était la seule personne à témoigner au soutien de son appel. Il ressort du témoignage de l’appelant que :
+a) il souffre d’une apnée du sommeil sévère depuis 1995, une condition qui fait qu’il arrête de respirer pour de courtes périodes pendant son sommeil. L’appelant a expliqué que ces « événements respiratoires » sont suivis d’une réaction d’éveil où la respiration recommence. L’appelant a ajouté qu’il en résultait une fragmentation du sommeil et une somnolence diurne;
+b) pour remédier à sa condition, c’est-à-dire pour être en mesure de dormir, il utilise depuis 1995 un appareil connu sous le nom de CPAP, un acronyme signifiant « continuous positive airway of pressure ». Il s’agit d’un masque attaché par un tuyau à un réservoir d’oxygène. L’appelant a expliqué que le port du masque donne une pression positive sur les voies respiratoires et les maintien ouvertes, supprime normalement les événements respiratoires et fait disparaître habituellement la somnolence diurne. L’appelant a ajouté qu’il doit en plus prendre un calmant pour faciliter le sommeil. L’appelant a aussi expliqué que, depuis 1995, il utilise l’appareil CPAP à toutes les nuits, soit en moyenne huit heures par jour, et à l’occasion pendant le jour lorsqu’il fait une sieste. L’appelant a finalement expliqué que, sans l’utilisation de l’appareil CPAC, il ne pouvait dormir;
+c) à cause de ses problèmes de santé, il avait dû s’absenter de son travail à raison de 84 jours, 19 jours, 26,5 jours, 42,5 jours et 208 jours pendant les années 1999, 2000, 2001, 2002 et 2003 respectivement;
+d) il avait dû quitter son emploi en 2004 à cause de ses nombreux problèmes de santé. L’appelant a ajouté que la Régie des rentes du Québec et son employeur l’avaient reconnu comme invalide depuis janvier 2004.
+[5] Il ressort aussi de la preuve que :
+a) au mois d’octobre 2006, à l’occasion d’une demande de redressement en vue d’obtenir un crédit d’impôt, l’appelant a fait parvenir au ministre un formulaire T2201 (pièce A-1) « Certificat pour le crédit d’impôt pour personne handicapée » qui fut rempli par une personne qualifiée, le docteur Baltzan, qui diagnostiquait chez son patient un syndrome d’apnée du sommeil;
+b) le 2 mai 2007, le ministre a transmis à la section des programmes à l’égard du crédit d’impôt pour personnes handicapées à Ottawa le formulaire T2201;
+c) le docteur Baltzan a précisé, dans un questionnaire daté du 7 mai 2007 (pièce I-1) qu’il aurait rempli le même jour, que l’utilisation de l’appareil CPAP visait à réduire la somnolence neurologique et non à apporter une solution à un diagnostic sous-jacent qui indiquerait que ledit traitement est essentiel au maintien d’une fonction vitale. Dans ce même questionnaire, le docteur Baltzan indique clairement que l’appelant peut vivre sans l’utilisation de l’appareil CPAP. Par ailleurs, dans une lettre datée du 27 février 2008, le docteur Baltzan s’exprimait ainsi à l’égard de la santé de l’appelant: « I feel that this is essential medical care for this particular patient because he is exposed to excessive risk of falling asleep in daytime, destabilization of his hypertension and potential stroke, heart attack and death, should he not use his CPAP for severe sleep apnea ». Il convient de souligner que le docteur Baltzan ne précise pas dans sa lettre datée du 27 juin 2008 si les commentaires cités ci‑dessus s’appliquaient à l’année 2005. Je souligne immédiatement que la position du docteur Baltzan (qui, je le rappelle, n’a pas témoigné à l’appui de la position de l’appelant), à savoir si l’utilisation de l’appareil CPAP était essentielle au maintien de la vie, est pour le moins ambiguë.
+Position de l’appelant
+[6] L’appelant a essentiellement réitéré lors de l’audition la position qu’il avait adoptée dans son avis d’appel, position qui se lisait comme suit :
+« Je suis en traitement contrôlé depuis juillet 1995 et selon les spécialistes que j’ai rencontrés, le seul traitement vraiment efficace pour combattre les effets de cette maladie c’est l’usage d’un CPAP (une pompe insufflant de l’air par voies nasales durant le sommeil – pression 17 cm H2O sur un maximum de 18). Ce traitement est essentiel au maintien de mes fonctions vitales soit ma respiration. J’utilise ce traitement tous les jours 365 jours par année soit en moyenne 8 heures par jour.
+[…]
+Je remplis donc tous les critères de l’article 118.3 de la Loi de l’impôt sur le revenu et j’utilise des soins thérapeutiques qui sont essentiels à mes conditions vitales soit ma respiration, ce traitement se fait plus de trois fois par semaine et est supérieur à 14 heures par semaine en dehors de mes activités normales et journalières. »
+Analyse et conclusion
+[7] Les dispositions pertinentes de la Loi se lisent comme suit :
+118.3(1)a) le particulier a une ou plusieurs déficiences graves et prolongées des fonctions physiques ou mentales;
+[…]
+a.1) les effets de la ou des déficiences sont tels que la capacité du particulier d'accomplir plus d'une activité courante de la vie quotidienne est limitée de façon importante si les effets cumulatifs de ces limitations sont équivalents au fait d'être limité de façon marquée dans la capacité d'accomplir une activité courante de la vie quotidienne, ou sont tels que la capacité du particulier d'accomplir une activité courante de la vie quotidienne est limitée de façon marquée ou le serait en l'absence de soins thérapeutiques qui, à la fois :
+(i) sont essentiels au maintien d'une fonction vitale du particulier,
+(ii) doivent être administrés au moins trois fois par semaine pendant une durée totale moyenne d'au moins 14 heures par semaine,
+(iii) selon ce à quoi il est raisonnable de s'attendre, n'ont pas d'effet bénéfique sur des personnes n'ayant pas une telle déficience;
+[…]
+(1.1) Temps consacré aux soins thérapeutiques – Par l’application de l'alinéa 118.3(1)a.1), lorsqu'il s'agit d'établir si des soins thérapeutiques sont donnés au moins trois fois par semaine pendant une durée totale moyenne d'au moins 14 heures par semaine, le temps consacré à donner les soins est calculé selon les critères suivants :
+a) n'est compté que le temps consacré aux activités qui obligent le particulier à interrompre ses activités courantes habituelles pour recevoir les soins;
+[…]
+118.4(1) Déficience grave et prolongée -- Pour l'application du paragraphe 6(16), des articles 118.2 et 118.3 et du présent paragraphe :
+[…]
+b) la capacité d'un particulier d'accomplir une activité courante de la vie quotidienne est limitée de façon marquée seulement si, même avec des soins thérapeutiques et l'aide des appareils et des médicaments indiqués, il est toujours ou presque toujours aveugle ou incapable d'accomplir une activité courante de la vie quotidienne sans y consacrer un temps excessif;
+[…]
+[8] L’alinéa 118.3(1)a.1) de la Loi a pour effet de rendre admissibles au crédit d’impôt pour déficience mentale ou physique les personnes qui seraient limitées de façon marquée dans leur capacité d’accomplir une activité courante de la vie quotidienne si ce n’était des soins thérapeutiques qu’elles reçoivent, au moins trois fois par semaine pendant une durée totale moyenne d’au moins 14 heures par semaine, en vue du maintien d’une de leurs fonctions vitales. Par l’effet de cette disposition, sont admissibles au crédit d’impôt les personnes qui, en l’absence de soins thérapeutiques auxquels elles doivent consacrer une partie importante de leur temps, auraient des déficiences dont les effets seraient tels que leur capacité d’accomplir une activité de la vie quotidienne serait limitée de façon marquée. Le paragraphe 118.3(1.1) de la Loi précise les activités qui sont comptées dans le temps consacré à recevoir des soins thérapeutiques pour l’application de l’alinéa 118.3(1)a.1) de la Loi. À cette fin, il est précisé à ce paragraphe que le temps consacré aux soins est calculé selon notamment le critère suivant : n’est compté que le temps consacré aux soins, à savoir les activités qui obligent le particulier à interrompre ses activités courantes habituelles pour recevoir les soins. En soi, les dispositions sur le temps consacré aux soins thérapeutiques essentiels au maintien d’une fonction vitale n’ont pas pour effet de rendre admissibles au crédit d’impôt concerné les personnes qui reçoivent des soins thérapeutiques d’une manière qui ne les oblige pas à interrompre leurs activités quotidiennes.
+[9] À mon avis, l’utilisation par l’appelant de l’appareil CPAP ne l’obligeait aucunement à interrompre ses activités quotidiennes. En effet, je ne vois pas quelle activité quotidienne aurait pu, en l’espèce, être interrompue par le port d’un tel masque pendant la nuit. L’appelant n’a donc pas reçu, en vue du maintien d’une de ses fonctions vitales, des soins thérapeutiques pendant le temps requis par la Loi, c’est‑à‑dire au moins trois fois par semaine pendant une durée totale moyenne d’au moins 14 heures par semaine. Par conséquent, l’appelant n’était pas admissible au crédit d’impôt pour déficience mentale et physique pour les années concernées. En d’autres termes, l’appelant n’était pas admissible à ce crédit d’impôt notamment parce qu’il n’a pas consacré une partie importante de son temps à recevoir des soins thérapeutiques en vue du maintien de ses fonctions vitales.
+[10] J’ajouterai que l’utilisation de l’appareil CPAP ne doit pas être considéré comme des « soins thérapeutiques » pour les fins de l’alinéa 118.3(1)a.1) de la Loi. À cet égard, le juge Paris, dans la décision Girard[1], s’exprimait ainsi :
+« De toute façon, on ne peut dire que l'utilisation de l'appareil CPAP représentait des soins thérapeutiques essentiels au maintien d'une fonction vitale. Il semble aussi que l'usage de l'appareil CPAP ne serait pas considéré comme des "soins thérapeutiques". Le dictionnaire Le Petit Robert définit le mot "soins" comme étant, entre autres, "actes par lesquels on soigne quelqu'un ou quelque chose". Si le législateur avait voulu inclure dans la Loi, à l'alinéa 118.3(1)(a.1), les appareils thérapeutiques, il en aurait fait expressément mention tel qu'il l'a fait au paragraphe 118.4(1) qui réfère aux "soins thérapeutiques et l'aide des appareils et des médicaments ...". »
+[11] Finalement, je suis d’avis que l’appelant n’a pas droit à ce crédit d’impôt parce qu’il n’a pas fait la preuve que le port du masque, en supposant que le port du masque puisse être considéré comme des « soins thérapeutiques », était essentiel au maintien d’une fonction vitale. À cet égard, l’appelant devait faire la preuve qu’en 2001 sa vie aurait été en danger immédiat ou prochain si il n’avait pas utilisé le CPAP. Cette preuve n’a pas été faite en l’espèce.
+[12] Pour tous ces motifs, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 14e jour d'avril 2008.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE : 2008CCI189
+Nº DU DOSSIER DE LA COUR : 2007-3826(IT)I
+INTITULÉ DE LA CAUSE : RICHARD BEAUCHAMP ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 10 mars 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge Paul Bédard
+DATE DU JUGEMENT : le 14 avril 2008
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Jean-François Lambert
+Avocat de l'intimée :
+Me Anne Poirier
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom : Me Jean-François Lambert
+Cabinet : Ratelle, Ratelle & Associés
+Joliette, Québec
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Girard c. R., 2005CCI104, 2005 DTC 292, par. 13

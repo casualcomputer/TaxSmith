@@ -1,0 +1,136 @@
+Title: 9100-2402 Québec Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27091/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-302-27091-9100-2402-qu-bec-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2006-07-04
+
+# 9100-2402 Québec Inc. c. La Reine
+
+- Citation: 2006 CCI 302
+- Decision date: 2006-07-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 961, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9100-2402 Québec Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-07-04
+Référence neutre
+2006 CCI 302
+Numéro de dossier
+2005-2543(IT)I
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-2543(IT)I
+ENTRE :
+9100-2402 QUÉBEC INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+__________________________________________________________________
+Appel entendu le 10 mai 2006, à Matane (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocat de l'appelante :
+Me Denis Tremblay
+Avocate de l'intimée :
+Me Christina Ham
+__________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2001 est admis, sans frais, et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation de manière que la somme de 16 000 $ soit supprimée du revenu de l'appelante, et que les correctifs appropriés devront être effectués en conséquence de ce jugement, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 4e jour de juillet 2006.
+« Alain Tardif »
+Juge Tardif
+Référence : 2006CCI302
+Date : 20060704
+Dossier : 2005-2543(IT)I
+ENTRE :
+9100-2402 QUÉBEC INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit d'un appel relatif à l'année d'imposition 2001.
+[2] La question en litige consiste à déterminer si, pour l'année d'imposition 2001, le ministre était justifié d'ajouter aux revenus de l'appelante le montant de 16 000 $ à titre d'avantage imposable conféré à celle-ci.
+[3] L'intimée a établi la cotisation dont il est fait appel à partir des hypothèses de fait suivantes :
+a) Au cours de la période en litige, l'unique actionnaire de l'appelante était Madame Martine Cyr; (admis)
+b) L'exercice financier de l'appelante se terminait le 31 décembre 2001; (admis)
+c) Au cours de la période en litige, l'appelante détenait la société 2550-9605 Québec inc. à 100 % (ci-après, la « société opérante » ); (admis)
+d) Les exercices financiers de la société opérante se terminaient respectivement les 23 mars 2001 et 31 décembre 2001; (admis)
+e) Lors de sa vérification, la vérificatrice du Ministre a constaté ce qui suit :
+i) La société opérante a payé des honoraires professionnels pour un montant total de 16 000 $ (10 000 $ + 6 000 $); (admis en partie)
+ii) Ces honoraires professionnels ont été payés pour les transactions d'achats de 385 actions de catégorie B et de 341 actions catégorie D de la société opérante, par l'appelante; (admis en partie)
+iii) Aucun dû inter société n'a été comptabilisé sur ces paiements totalisant 16 000 $; (admis en partie)
+f) La vérificatrice du Ministre a donc déterminé que :
+i) Le montant total de 16 000 $ constituait un avantage conféré à l'appelante; (admis en partie)
+ii) Des honoraires pour un montant de 10 000 $ venaient augmenter le prix de base rajusté du placement en actions; (admis en partie)
+iii) Des honoraires pour un montant de 6 000 $ constituant des frais d'incorporation, étaient considérés comme bien en immobilisation admissible; (admis en partie)
+iv) Le montant total de 16 000 $ n'était pas admissible comme dépense de la société opérante; (admis en partie)
+g) Au stade des oppositions, le représentant de l'appelante a mentionné à l'agent des oppositions, qu'il ne contestait pas le refus du montant total de 16 000 $ par le Ministre, comme dépense de la société opérante; (admis)
+h) Les faits indiqués au sous-paragraphe 6. g) ci-dessus ont été tenus pour acquis pour la première fois en confirmant la nouvelle cotisation du 19 août 2004 pour l'année d'imposition 2001. (admis)
+[4] La très grande majorité des faits ont été admis. Je fais notamment référence aux alinéas a), b), c), d) et g). Quant aux alinéas e) i), ii) et iii), et f) i), ii), iii) et iv), ils ont été admis en partie.
+[5] Les faits ne font pas vraiment l'objet de contestation l'appelante prétendant essentiellement que les faits tenus pour acquis ont découlé d'une simple erreur causée par l'ignorance et l'inexpérience de l'unique actionnaire de la société, madame Martine Cyr.
+[6] Le procureur de l'appelante a beaucoup insisté sur la rapidité de l'appelante à corriger l'erreur à la suite de la constatation faite par la vérificatrice.
+[7] Au soutien de sa preuve, l'appelante a fait témoigner la comptable de la société, madame France Guérette, ainsi que l'unique actionnaire, madame Martine Cyr, responsable de la comptabilité courante, en ce qu'elle faisait les entrées dans les différents registres comptables. Quant à madame Guérette, son mandat était essentiellement de produire les états financiers à la fin de l'exercice des sociétés.
+[8] De son côté, l'intimée a fait témoigner la vérificatrice, madame Gaétane Gauthier. Cette dernière a essentiellement expliqué la nature des divers constats qui l'avaient amenée à conclure qu'il devait y avoir une nouvelle cotisation qui s'appuyait sur le paragraphe 15(1) de la Loi de l'impôt sur le revenu (la « Loi » ).
+[9] Madame Guérette a expliqué avoir reconnu au moment de l'opposition, l'exactitude des faits constatés par la vérificatrice qui sont à l'origine de la cotisation dont il est fait appel.
+[10] Le procureur de l'appelante a fait valoir qu'il s'agissait là essentiellement d'une erreur s'expliquant et se justifiant par l'inexpérience et l'ignorance de madame Cyr au moment où l'erreur a été faite.
+[11] Dès le constat de l'erreur à l'origine de la nouvelle cotisation, madame Cyr a fait le nécessaire pour corriger la situation de manière que tout devienne conforme à ce qu'il aurait dû être, c'est-à-dire qu'il ne s'agissait pas d'un avantage mais en réalité d'un prêt de la société 2550-9605 Québec inc. à la société appelante. Les corrections ont été faites de manière à ce que les états financiers reflètent précisément ce qui aurait dû être fait dès le départ.
+[12] Madame Cyr, infirmière de formation, a expliqué avoir très peu de connaissances en matière de comptabilité. Elle a d'ailleurs indiqué avoir suivi des cours pour acquérir plus de connaissances.
+[13] En guise d'explications pour convaincre le tribunal qu'il s'agissait d'une erreur, elle a affirmé que, dans son esprit, les deux sociétés étaient sensiblement du pareil au même; la société 9100-2402 Québec inc., nouvellement constitué, n'avaient pas de compte en banque et en conséquence n'avait aucun argent en banque, alors que la société 2550-9605 Québec inc. avait un compte en banque et de l'argent dans le compte. Elle a donc spontanément, naturellement et automatiquement fait assumer les dépenses par la société qui, en termes strictement raisonnables pour un profane en matière de comptabilité, était en mesure de le faire. À partir de ce raisonnement, elle a fait un chèque à partir du compte en question.
+[14] En matière fiscale, il est reconnu que tout contribuable peut organiser et planifier ses affaires pour minimiser son fardeau fiscal pour autant que la planification retenue soit conforme aux dispositions de la Loi. Toute planification nécessite un acte volontaire bien exprimé et non équivoque.
+[15] Il est également reconnu qu'une cotisation doit s'établir à partir des faits constatés et recueillis; en d'autres termes, bien qu'il soit à l'occasion nécessaire de mettre en question les faits pour découvrir la nature intentionnelle de certaines opérations dans le cours de certaines affaires, il est généralement admis qu'une cotisation doit refléter les faits et les opérations réellement inscrits dans les divers registres pertinents et non des faits hypothétiques ou ceux que la personne visée par la cotisation aurait voulu faire après avoir découvert certains avantages ou, inversement, certains désavantages.
+[16] Cette réalité n'empêche pas pour autant de corriger une véritable erreur. Il peut exister plusieurs types d'erreurs. Dans certains cas, il ne s'agit pas d'une véritable erreur, mais plutôt d'une erreur volontaire ayant pour but de tirer un avantage tout en étant en mesure de plaider la bonne foi pour éviter des pénalités, si jamais ces erreurs sont découvertes ou mises à jour lors d'une vérification.
+[17] En l'espèce, tous les faits militent pour conclure à une véritable erreur commise de bonne foi, sans arrière-pensée, dans un contexte particulier. Je fais notamment référence aux données suivantes :
+· Madame Cyr a réagi par réflexe normal pour une profane en faisant assumer une dépense par la société qui était en mesure de le faire au lieu de la faire assumer par la société qui avait au moment du paiement ni argent ni compte en banque.
+· Madame Cyr a manifestement agi de bonne foi en faisant payer les montants en litige par l'entité juridique qui avait les fonds nécessaires; le réflexe n'était pas sans logique, bien qu'il soit répréhensible en vertu de la rigueur et des exigences strictes qui doivent s'appliquer en présence de deux entités juridiques distinctes. En l'espèce, la société appelante venait d'être constituée et n'avait ni actif ni compte en banque; le paiement a donc été effectué par l'autre société.
+· Dès le constat établi par la cotisation, la comptable a immédiatement fait les corrections aux états financiers des deux sociétés impliquées.
+[18] Dans l'affaire Long c. Canada, [1997] A.C.I. no 722, numéro du greffe 96-4714(IT)I, l'honorable juge en chef Bowman de cette cour reprenait un passage de la décision Pillsbury Holdings Ltd., 64 D.T.C. 5184, à la page 5187, où l'honorable juge Cattanach s'exprimait comme suit :
+[TRADUCTION]
+Dans l'application de l'alinéa c), il faut accorder tout le poids nécessaire à tous les termes de cette disposition. Il doit y avoir un « avantage » , et cet avantage doit être « accordé » par une corporation à un « actionnaire » . Le mot « accorder » signifie « conférer » . Même lorsqu'une corporation a formellement résolu de donner un privilège ou un statut particulier aux actionnaires, la question de savoir si le but de la corporation était d'accorder un avantage aux actionnaires ou si le but de la corporation se rapportait à l'entreprise de celle-ci - par exemple lorsqu'il s'agit d'inciter les actionnaires à être clients de la corporation - est une question de fait. Dans cette mesure, lorsque le ministre soutient que ce qui semble être une opération commerciale ordinaire entre une corporation et un actionnaire est en réalité une façon d'accorder un avantage à l'actionnaire en tant qu'actionnaire doit également être une question de fait.
+[19] Le juge Mogan, dans l'affaire Chopp c. Canada, [1995] A.C.I. no 12, no 93-547(IT)G, confirmée par la Cour d'appel fédérale, [1997] A.C.F. no 1551, no A-87-95, s'exprimait comme suit :
+19 Je n'irais pas aussi loin que le juge Rowe en disant que les termes employés au paragraphe 15(1) se rapportent à un acte dont le caractère intentionnel est bien affirmé. Je crois qu'un avantage peut être conféré, au sens du paragraphe 15(1), sans que l'actionnaire ou la corporation ait l'intention de le faire ou soit réellement au courant de la chose, si les circonstances sont telles que l'actionnaire ou la corporation aurait dû savoir qu'un avantage était conféré et n'a rien fait pour changer la situation. Je pense à des montants relatifs. Si une véritable erreur comptable est commise à l'égard d'un montant particulier, et si ce montant est vraiment important par rapport au revenu de la corporation ou à ses frais, ou encore au solde d'un compte de prêt d'actionnaire, une cour peut conclure qu'un employé ou un actionnaire de la corporation, ou encore un vérificateur externe, aurait dû découvrir l'erreur. On ne devrait pas encourager les actionnaires à voir jusqu'où ils peuvent aller, en vertu du paragraphe 15(1), puis à solliciter un redressement en se fondant sur l'absence de preuve d'intention ou de connaissance.
+[20] En l'espèce, le geste posé par madame Cyr a eu pour effet de créer un avantage comptable pour l'appelante. Non seulement elle n'avait pas cette intention, elle n'était également pas au courant et ses connaissances ne lui permettaient pas d'évaluer la portée de sa décision d'imputer la dépense à la mauvaise société.
+[21] Aurait-elle dû le savoir? La preuve a démontré qu'elle n'avait manifestement pas l'expertise pour en apprécier les conséquences. D'ailleurs, la reconnaissance et l'admission rapide de la comptable confirment d'une certaine façon qu'il s'agissait d'une erreur et non d'une initiative voulue et intéressée, ultérieurement expliquée ou justifiée comme une banale erreur.
+[22] Quant à l'importance du montant en cause, bien que relativement important, il ne s'agissait pas d'un montant exceptionnel qui aurait pu ou dû inciter madame Cyr à s'interroger et à consulter la comptable.
+[23] Elle a simplement posé le geste sans s'interroger ni faire l'analyse de quoi que ce soit; elle a essentiellement fait un chèque du compte qui contenait l'argent pour qu'il soit honoré, d'autant plus que, dans son esprit, les deux entités juridiques étaient étroitement liées, selon le sens normal pour une profane.
+[24] En réalité, le paiement fut fait sans élément intentionnel, si ce n'est qu'il fallait payer la facture pour les honoraires d'un compte qui permettait de le faire.
+[25] Pour éviter cette erreur, il aurait fallu que madame Cyr possède des connaissances qu'elle n'avait manifestement pas ou qu'elle ne fasse strictement rien sans consulter au préalable la comptable. Or, il s'agissait là de quelque chose de tout à fait courant, soit payer une facture au moyen d'un chèque.
+[26] Pour justifier une cotisation en vertu du paragraphe 15(1) de la Loi, il m'apparaît important de constater la présence de certains éléments, tel un aveuglement volontaire, une manoeuvre subtile et voulue, une tentative habile, une initiative intéressée et avantageuse éventuellement explicable par l'erreur si jamais elle est découverte.
+[27] Pour toutes ces raisons, l'appel est admis au motif que l'intimée n'était pas justifiée d'ajouter 16 000 $ au revenu de l'appelante à titre d'avantage imposable. La cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation de manière que soit supprimée du revenu de l'appelante la somme de 16 000 $. Ma décision implique évidemment que les correctifs appropriés devront être effectué en conséquence de ce jugement. Le tout sans frais
+Signé à Ottawa, Canada, ce 4e jour de juillet 2006.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2006CCI302
+N º DU DOSSIER DE LA COUR : 2005-2543(IT)I
+INTITULÉ DE LA CAUSE : 9100-2402 Québec Inc.
+et Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Matane (Québec)
+DATE DE L'AUDIENCE : le 10 mai 2006
+MOTIFS DES JUGEMENTS PAR : L'honorable juge Alain Tardif
+DATE DU JUGEMENT : le 4 juillet 2006
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Denis Tremblay
+Avocate de l'intimée :
+Me Christina Ham
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante :
+Nom : Me Denis Tremblay
+Étude : Tremblay & Tremblay
+Ville : Matane (Québec)
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Ontario

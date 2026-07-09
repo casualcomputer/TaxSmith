@@ -1,0 +1,200 @@
+---
+title: "Arevian c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29822/index.do"
+last_modified: "2008-10-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 327"
+citation2: ""
+neutral_citation: "2008 CCI 327"
+decision_date: "2008-10-07"
+language: "fr"
+item_id: "29822"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6565
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:18:49.040000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ca5ddc95cae54f625c9446873d2325b1450c28d8aa974e3e53eb2cd59237230c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Arevian c. La Reine
+
+- Citation: 2008 CCI 327
+- Decision date: 2008-10-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6565, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Arevian c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-10-07
+Référence neutre
+2008 CCI 327
+Numéro de dossier
+2006-3031(GST)I
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2006-3031(GST)I
+ENTRE :
+HAGOP AREVIAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 18 janvier 2008, à Montréal (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Avocat de l'appelant :
+Me Patrick Claude Caron
+Avocate de l'intimée :
+Me Martine Bergeron
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie relativement à la taxe sur les produits et services en vertu de la partie IX de la Loi sur la taxe d'accise, dont l'avis est daté du 21 juillet 2004 et porte le numéro PM-11523, est rejeté, sans frais, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 7e jour d’octobre 2008.
+« Paul Bédard »
+Juge Bédard
+Référence : 2008 CCI 327
+Date : 20081007
+Dossier : 2006-3031(GST)I
+ENTRE :
+HAGOP AREVIAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Il s’agit d’un appel à l’encontre d’une cotisation (dont l’avis est daté du 21 juillet 2004 et porte le numéro PM‑11523) établie à l’encontre de l’appelant en vertu du paragraphe 323(1) de la Loi sur la taxe d’accise (la « LTA »). Il s’agit en l’espèce de déterminer si, en tant qu’administrateur de 2757141 Canada inc. (la « société »), l’appelant doit être tenu, solidairement avec cette société, de payer 174 001,06 $, soit le montant de taxe nette que cette société a omis de remettre, les intérêts et les pénalités. Il convient immédiatement de souligner que la preuve a révélé que :
+i) la société a fait cession de ses biens le 30 août 2002 (pièce A‑4, page 47);
+ii) les réclamations dans la faillite (pièce I‑2) ont été faites par l’agent de recouvrement, monsieur Michel Hachey, du ministère du Revenu du Québec agissant pour le ministre du Revenu national du Canada (le « ministre ») dans les six mois de la date de la faillite conformément aux conditions prescrites par l’alinéa 323(2)b) de la LTA.
+[2] L’appelant a témoigné que :
+i) en 1989, il avait rencontré messieurs Donald Boutara et Louis Fleischer, lesquels avaient convenu avec lui de mettre sur pied une entreprise de textile, soit la société;
+ii) monsieur Fleischer avait agi à titre d’administrateur passif de la société tout en s’intéressant aux divers aspects de sa gestion;
+iii) au cours des années 1993 et 1995, les activités de la société ont connu des difficultés en raison de deux faillites qui avaient eu pour effet de compliquer la gestion journalière, dont l’appelant était responsable;
+iv) dans le but de permettre à la société de régler temporairement son problème de liquidités, l’appelant avait fait en sorte que la société retarde le paiement de plusieurs montants au titre de la taxe sur les produits et services (TPS) dus pour la période du 31 juillet 1993 au 30 avril 1997. Il convient immédiatement de souligner que lorsque la vérification effectuée par le ministre s’était terminée par de nouvelles cotisations établies le 22 août 1999 à l’encontre de la société, cette dernière n’a pas déposé d’avis d’opposition à l’encontre de ces nouvelles cotisations, l’appelant ayant reconnu à la suite de l’établissement de ces nouvelles cotisations que les montants réclamés étaient exacts;
+v) il avait toujours eu l’intention de rembourser la TPS et la TVQ impayées dès que possible, et ce, même après la faillite de la société;
+vi) victime d’un accident cardiaque au début de l’année 2002, il avait été alors tenu à l’écart de la gestion des activités de la société pour une période de quatre mois;
+vii) après sa convalescence, il avait constaté une détérioration de ses relations avec messieurs Fleischer et Boutara, les deux autres administrateurs de la société. Les relations avec ces derniers étaient devenues de plus en plus tendues;
+viii) le 17 juin 2002, il avait acquis des billets d’avion (pièce A-4, onglet 8) en vue d’un voyage familial en Italie. Le voyage était prévu du 18 juillet 2002 au 2 août 2002;
+ix) en juillet 2002, monsieur Boutara lui avait appris que la société désirait le démettre de ses fonctions, notamment à titre d’administrateur. À cet égard, le 9 juillet 2002, il avait reçu, par huissier, une convocation à une assemblée extraordinaire des actionnaires de la société (pièce A-4, onglet 3). Il avait alors mandaté ses avocats d’informer messieurs Boutara et Fleischer du fait qu’il serait absent le 30 juillet 2002 en raison de ses vacances et de leur demander d’agir en conséquence. Le vendredi 12 juillet 2002, il avait reçu une télécopie de monsieur Fleischer (pièce A-4, onglet 5) indiquant que la réunion aurait lieu sans lui. L’appelant a ajouté qu’à la suite de la réception de la télécopie, il avait récupéré ses effets personnels qui se trouvaient dans les locaux de la société;
+x) le 4 août 2002, à son retour de vacances, il avait constaté que les serrures des locaux de la société avaient été changées de façon à ce qu’il ne puisse plus y pénétrer;
+xi) avant le 12 juillet 2002, il avait conclu diverses ententes avec le ministre et la société avait ainsi effectué 12 versements de 2 800 $ (pièce A-4, page 45) totalisant un montant de 33 600 $, 12 versements de 1 000 $ totalisant 12 000 $, huit versements de 3 000 $ totalisant 24 000 $ et finalement deux versements de 4 000 $ totalisant 8 000 $ pour un total général de 77 600 $; le dernier paiement fut encaissé le 28 août 2002.
+[3] Il ressort essentiellement du témoignage de monsieur Michel Hachey, l’agent de recouvrement fiscal qui a établi la cotisation à l’encontre de l’appelant, que toutes les sources d’information disponibles indiquaient que l’appelant avait cessé d’être administrateur le 30 juillet 2002. Il a aussi expliqué qu’à la suite de l’envoi à l’appelant d’un questionnaire portant sur sa participation dans les activités de la société, il a retourné le questionnaire (pièce I-1) en indiquant qu’il avait cessé d’être administrateur le 30 juillet 2002. Monsieur Hachey a ajouté que l’appelant a joint au questionnaire une copie du procès-verbal d’une réunion extraordinaire des actionnaires de la société tenue le 30 juillet 2002 au cours de laquelle l’appelant avait été destitué comme administrateur (pièce I-1). Enfin, il a déclaré que l’appelant a confirmé dans une lettre qu’il avait été destitué le 30 juillet 2002 (pièce I‑1).
+Analyse et conclusion
+[4] L’article 323 de la LTA prévoit que :
+Responsabilité des administrateurs
+323. (1) Les administrateurs d’une personne morale au moment où elle était tenue de verser, comme l’exigent les paragraphes 228(2) ou (2.3), un montant de taxe nette ou, comme l’exige l’article 230.1, un montant au titre d’un remboursement de taxe nette qui lui a été payé ou qui a été déduit d’une somme dont elle est redevable, sont, en cas de défaut par la personne morale, solidairement tenus, avec cette dernière, de payer le montant ainsi que les intérêts et pénalités afférents.
+Restrictions
+(2) L’administrateur n’encourt de responsabilité selon le paragraphe (1) que si :
+a) un certificat précisant la somme pour laquelle la personne morale est responsable a été enregistré à la Cour fédérale en application de l’article 316 et il y a eu défaut d’exécution totale ou partielle à l’égard de cette somme;
+b) la personne morale a entrepris des procédures de liquidation ou de dissolution, ou elle a fait l’objet d’une dissolution, et une réclamation de la somme pour laquelle elle est responsable a été établie dans les six mois suivant le premier en date du début des procédures et de la dissolution;
+c) la personne morale a fait une cession, ou une ordonnance de faillite a été rendue contre elle en application de la Loi sur la faillite et l’insolvabilité, et une réclamation de la somme pour laquelle elle est responsable a été établie dans les six mois suivant la cession ou l’ordonnance.
+Diligence
+(3) L’administrateur n’encourt pas de responsabilité s’il a agi avec autant de soin, de diligence et de compétence pour prévenir le manquement visé au paragraphe (1) que ne l’aurait fait une personne raisonnablement prudente dans les mêmes circonstances.
+Cotisation
+(4) Le ministre peut établir une cotisation pour un montant payable par une personne aux termes du présent article. Les articles 296 à 311 s’appliquent, compte tenu des adaptations de circonstance, dès que le ministre envoie l’avis de cotisation applicable.
+Prescription
+(5) L’établissement d’une telle cotisation pour un montant payable par un administrateur se prescrit par deux ans après qu’il a cessé pour la dernière fois d’être administrateur.
+Montant recouvrable
+(6) Dans le cas du défaut d’exécution visé à l’alinéa (2)a), la somme à recouvrer d’un administrateur est celle qui demeure impayée après l’exécution.
+Privilège
+(7) L’administrateur qui verse une somme, au titre de la responsabilité d’une personne morale, qui est établie lors de procédures de liquidation, de dissolution ou de faillite a droit au privilège auquel Sa Majesté du chef du Canada aurait eu droit si cette somme n’avait pas été versée. En cas d’enregistrement d’un certificat relatif à cette somme, le ministre est autorisé à céder le certificat à l’administrateur jusqu’à concurrence de son versement.
+Répétition
+(8) L’administrateur qui a satisfait à la réclamation peut répéter les parts des administrateurs tenus responsables de la réclamation.
+[5] Selon les dispositions du paragraphe 323(3) de la LTA, un administrateur peut se soustraire à sa responsabilité s’il démontre qu’il a agi avec autant de soin, de diligence et de compétence pour prévenir le manquement que ne l’aurait fait une personne raisonnablement prudente dans les mêmes circonstances. Or, il ressort de l’ensemble du témoignage de l’appelant que ce dernier reconnaît sa responsabilité à l’égard du défaut de la société de remettre la taxe nette due à l’intimée. Je rappelle que l’appelant a même affirmé lors de son témoignage que les sommes dues à l’intimée n’apparaissaient pas aux états financiers de la société et qu’il savait pertinemment que la non‑comptabilisation de ces sommes dues n’était pas conforme aux principes comptables généralement reconnus. Le fait qu’il a par la suite tenté de payer les sommes dues à l’intimée ne lui permet pas, à mon avis, de s’exonérer de sa responsabilité, comme l’a décidé notre Cour à maintes reprises. La responsabilité de l’administrateur s’évalue non pas postérieurement aux périodes en litige à la lumière de ce qu’a fait l’administrateur pour corriger la situation, mais plutôt à la lumière de ce que l’administrateur a fait pour prévenir le manquement.
+[6] En fait, l’appelant invoque surtout comme moyen de défense que la cotisation établie le 21 juillet 2004 était prescrite, conformément aux dispositions du paragraphe 323(5) de la LTA, puisqu’elle a été établie plus de deux ans après qu’il eut cessé pour la dernière fois d’être administrateur. En résumé, l’avocat de l’appelant a soutenu que la responsabilité fiscale de son client ne saurait être retenue, puisque celui-ci avait cessé en fait, à la lumière d’une preuve non contredite, d’être administrateur pour la dernière fois le 12 juillet 2002, donc depuis plus de deux ans au moment où l’avis de cotisation lui fut acheminé. À cet égard, l’avocat de l’appelant a soutenu qu’il ressortait de la preuve non contredite qu’à compter du 12 juillet 2002, son client avait perdu tout contrôle réel sur les activités de la société, étant à la fois à l’extérieur du pays et clairement avisé de sa destitution à titre d’administrateur de la société, ce qui établit l’intention subjective de la société de dépouiller l’appelant de toute attribution à titre d’administrateur à compter de son départ le 12 juillet 2002. L’avocat de l’appelant a soutenu qu’il apparaissait de la preuve non contredite à cet égard que toujours à partir du 12 juillet 2002, son client n’était plus en position de pouvoir agir au nom ou pour le compte de la société, le conseil d’administration de celle-ci étant composé de trois membres et la majorité des actions étant détenue par les partenaires ayant souhaité sa destitution et ayant refusé de reporter l’assemblée extraordinaire des actionnaires malgré les vacances de son client. L’avocat de l’appelant a prétendu que la responsabilité fiscale prévue par la LTA vise l’administrateur pouvant être qualifié d’âme dirigeante d’une société donnée et doit tenir compte des circonstances particulières de chaque cas, le recours au droit des sociétés pouvant servir d’outil d’interprétation, et ne doit pas être appliquée d’une manière rigoureuse en présence de faits particuliers pouvant militer en faveur d’une approche plus souple, comme la Cour l’a parfois reconnu. La partie pertinente des représentations écrites de l’avocat de l’appelant à l’égard du paragraphe 323(5) de la LTA mérite d’être citée :[1]
+[…] Le paragraphe 323(5) de cette Loi prévoit qu’une telle cotisation se prescrit deux ans après que l’administrateur eut cessé pour la dernière fois d’être un administrateur.
+À la lecture de ce dernier extrait de la loi, il semble opportun de tenir compte des circonstances propres à chaque affaire particulière, le législateur ayant choisi d’utiliser le terme « pour la dernière fois » par opposition au terme « a cessé d’être administrateur ».
+Contrairement à ce que pourrait prétendre le conseil du ministre, le segment de phrase « pour la dernière fois » implique une composante à la fois subjective et objective permettant de considérer le moment précis au titre duquel un administrateur cessait dans les faits d’agir à titre d’administrateur, donc d’« être » un administrateur. Semblable position est supportée par une décision postérieure à l’arrêt Kalef c. La Reine, 96 D.T.C. 6132. (Onglet 4 du cahier des sources déposé par l’appelant Hagop Arevian).
+Nous soumettons que l’arrêt Kalef rendu en date du 1er mars 1996 fut renversé par une jurisprudence postérieure de la Cour d’appel fédérale et de la Cour canadienne de l’impôt laquelle jurisprudence permet de tenir compte, malgré la rigueur du test proposée par l’arrêt Kalef, des circonstances propres à une espèce et plus particulièrement, même lorsque nous sommes en présence d’un administrateur « de jure » (administrateur au registre corporatif de la société).
+Dans un premier temps, l’appelant soumet que le recours de l’arrêt Kalef devrait être nuancé d’abord dans sa portée en ce que le paragraphe 10 de cette décision précise que le recours au droit corporatif peut apporter un certain éclairage dans interprétation de la Loi de l’impôt sur le revenu laquelle ne définit point la notion d’administrateur ni n’établit de critères particuliers afférents à la détermination du moment de la cessation de l’office d’un administrateur, la Cour d’appel fédérale indiquant au paragraphe 10 de la décision « The Income Tax Act neither defines the term director, nor establishes any criteria for when a person ceases to hold such position. Given the silence of the Income Tax Act, it only makes sense to look to the company’s incorporating legislation for guidance ». (Notre emphase.)
+L’appelant soumet, tel que nous le verrons ci-après, que le droit corporatif fédéral précise la portée devant être accordée au terme « administrateur ».
+Postérieurement au rendu de l’arrêt Kalef, la Cour d’appel fédérale dans Canada c. Corsano, [1999] 3 C.F. 173 relativement à une question portant sur la responsabilité des administrateurs d’une société, nuance dans une certaine mesure la portée du droit corporatif le moment venu d’évaluer le concept d’administrateur. Tel que l’indique le juge Létourneau à la page 2 de la décision reproduite à l’onglet 7 du cahier des sources : « Le droit législatif doit aider à trouver une réponse. Il n’offre rien d’exclusif et de déterminant surtout lorsque la question à trancher est de savoir si une personne agit ostensiblement comme administrateur, devenant ainsi un administrateur de fait (question généralement réglée par des principes de common law). On peut constater que le législateur a voulu donner un sens large au terme (administrateur) dans le paragraphe 227.1(1) en regardant la nature des responsabilités confiées à des corporations et à ses administrateurs, la nature de la dette de la corporation, les liens entre la corporation, les administrateurs, les employés et Sa Majesté ».
+Plus loin, au paragraphe 12 de cette décision, le tribunal précise la portée de la responsabilité de l’administrateur visé par une cotisation établie suivant le paragraphe 227.1(1) de la Loi de l’impôt sur le revenu disposition équivalant en tout point au paragraphe 323(1) de la Loi sur la taxe d’accise.
+Le tribunal d’indiquer :
+12 « Je voudrais répéter ici que la question posée relativement au paragraphe 227.1(1) de la Loi porte sur la responsabilité des administrateurs d’une corporation qui, en tant qu’âme dirigeante de cette corporation, ont failli à leur tâche d’empêcher l’accomplissement de l’acte illégal » (Notre emphase).
+Pour l’essentiel, il semble donc que le concept d’administrateur fasse référence au concept d’âme dirigeante d’une société.
+Il semble ainsi raisonnable d’inférer que la responsabilité à titre d’administrateur expire deux ans après le moment au titre duquel un particulier aurait cessé « pour la dernière fois » d’être l’une des composantes de l’âme dirigeante d’une société. Une référence au droit corporatif nous permet de supporter cette assertion. Le paragraphe 323(5) référant directement au concept de cesser d’être un administrateur pour la dernière fois, nous estimions approprié de nous rapporter à l’article 102 de la Loi canadienne sur les Sociétés par action, L.R.C. (1985), ch. C-44.
+« Fonctions des administrateurs »
+102.(1) : « Sous réserve de toute convention unanime des actionnaires, les administrateurs gèrent les activités commerciales et les affaires internes de la société ou en surveillent la gestion ».
+Nous constatons que le concept d’administrateur, même en référence avec le droit corporatif, réfère à la gestion.
+Ainsi, l’appelant prétend que pour agir à titre d’administrateur, une personne doit être dans une position effective de lier la société, ou d’agir en tant qu’âme dirigeante.
+Au surplus, malgré la décision rendue par la Cour d’appel fédérale dans Kalef indiquant qu’il y a lieu de s’inspirer du droit corporatif afin de donner un sens au concept d’administrateur, il est important de souligner qu’une certaine jurisprudence postérieure à l’arrêt Kalef exonérait de toute responsabilité fiscale considération faite de certaines circonstances, l’administrateur « de jure » d’une société dont le nom figurait aux livres corporatifs mais qui n’avait, dans les faits aucunement agi à ce titre. En d’autres termes, dans certaines circonstances particulières, la jurisprudence déroge au concept d’administrateur propre au droit corporatif lorsque dans les faits l’individu dont la responsabilité est recherchée à titre d’administrateur n’a point agi à ce titre où aurait agi en raison de contraintes externes échappant à son contrôle.
+Bien que le conseil du ministre pourrait prétendre du fait que la décision rendue par la Cour canadienne de l’impôt à laquelle nous référons ne porte pas sur la question de la détermination du moment au titre duquel une personne cesse d’« être un administrateur pour la dernière fois », mais bien sur l’évaluation du degré de diligence d’un particulier donné, il n’en demeure pas moins que cette décision, pour l’essentiel, constate que la responsabilité d’un administrateur, même inscrit au livre d’une société, ne saurait être retenue à l’endroit d’une personne qui n’exerçait en rien les attributs propres à la gestion d’une société donnée, à titre d’âme dirigeante.
+Suivant les recherches effectuées par l’appelant, aucune décision ne s’est formellement attardée à la question d’interpréter la portée précise du concept d’être pour la dernière fois un administrateur par opposition au concept de « cesser d’être un administrateur ».
+La Cour canadienne de l’impôt rendait sous la plume du juge Angers, en date du 24 mars 2003, une décision dans le cadre d’une affaire de Bousquet c. La Reine. Dans cette affaire, l’appelant Tessier était administrateur « de jure », agissant à titre de « prête-nom » pour le compte d’un tiers. Le paragraphe 17 de la décision figurant à l’onglet 5 du cahier des sources est à l’effet suivant :
+« 17. Le témoignage de l’appelant Michel Tessier à l’interrogatoire préalable (la transcription a été déposée en preuve) au procès démontre clairement que ce dernier s’est porté acquéreur, le 16 septembre 1996, de la seule action émise de 9041 dans le seul but de louer le nouveau bar construit à l’étage inférieur de l’immeuble de l’appelant Paulin Plamondon. Il n’a jamais exploité la société 9041 et n’était au courant ni des activités commerciales de cette société après son acquisition, ni des transactions dans lesquelles 9041 s’est engagée avec Paulin Plamondon. Dans les faits, il n’a signé aucun document qui lui aurait révélé les activités de 9041. Il était gérant du bar qui était à l’étage supérieur et a agi jusqu’à son départ en 1997, lorsqu’il a constaté qu’il n’arriverait jamais à s’entendre avec Paulin Plamondon sur les conditions d’une location ».
+La crédibilité de Michel Tessier n’a pas été mise en doute au procès et j’accepte sa version des faits. Il ne semblait pas comprendre la nature du rôle de « prête-nom » qu’on semblait lui attribuer. L’aveu de l’appelant Plamondon, même si il n’est pas crédible, semble confirmer le fait que l’appelant Michel Tessier n’était pas un administrateur au sens du paragraphe 227.1(1) et, par conséquent, il ne peut être tenu responsable du paiement des retenues que la société 9041 a omis d’effectuer durant son exploitation. Même si, habituellement, on doit se référer sur les lois sur les sociétés applicables à la société 9041 pour déterminer si une personne a ou n’a pas le statut d’administrateur, je conclus en l’espèce que, dans les faits, l’appelant Michel Tessier n’a pas participé aux activités de 9041 de façon à engager sa responsabilité au sens du paragraphe 227(1) de la Loi. Son appel est donc accueilli avec dépens. (Notre emphase.)
+Le passage suivant est intéressant à plus d’un égard. Dans un premier temps, il permet d’affirmer que la notion d’administrateur à laquelle fait référence le paragraphe 323 de la Loi sur la taxe d’accise (lequel reprend pour l’essentiel les termes de l’article 227.1 L.I.R. implique qu’il est nécessaire de déterminer si un particulier est effectivement et possède dans les faits les attributions d’une âme dirigeante de la société par opposition à une application stricte et formaliste du droit corporatif utilisé afin de suppléer aux silence de la Loi.
+Dans un deuxième temps, ce même passage, traitant de la responsabilité d’un administrateur « de jure » indique clairement, malgré le test proposé par la Cour d’appel dans Kalef, qu’il y a lieu de tenir compte des circonstances particulières propres à une affaire donnée permettant de supporter le postulat voulant que le droit corporatif doit être utilisé de manière à guider le tribunal le moment venu de déterminer du fait qu’une personne doit être considérée ou non comme administratrice d’une société.
+L’appelant désire souligner le fait que le paragraphe 17 de l’affaire Bousquet peut être lu de manière à exonérer de toute responsabilité fiscale l’administrateur « de jure » d’une société lequel, dans les faits, n’avait aucun pouvoir réel et formel sur la gestion des affaires de la société.
+Le paragraphe 5 de l’article 323 L.T.A. précise qu’une personne ne saurait être cotisée postérieurement à l’expiration d’un délai de deux ans suivant le moment où celle-ci cessait d’être un administrateur pour la dernière fois.
+Nous postulons que le paragraphe 5 de l’article 323 de la Loi sur la taxe d’accise est une disposition de perception laquelle réfère au concept d’administrateur tel que décrit et nuancé par le paragraphe 17 de la décision rendue par le Juge Angers dans Bousquet c. La Reine.
+Nous soumettons qu’il est nécessaire de tenir compte des circonstances propres à chaque cas et particulièrement eu égard à la capacité du particulier dont la responsabilité est recherchée à titre d’administrateur d’intervenir ou d’agir pour le compte d’une société donnée.
+[…]
+[7] À mon avis, il ressort du paragraphe 323(5) de la LTA que ce que doit déterminer la Cour, c’est le moment où l’appelant a cessé d’être administrateur et non le moment où il a cessé d’agir comme administrateur. Bien que les actes d’une personne puissent être pertinents pour déterminer si celle-ci était un administrateur de facto d’une société et pendant quelle période précise, il en va différemment pour déterminer le point de départ du délai de prescription du recours contre l’administrateur. Les jugements auxquels l’avocat de l’appelant renvoie la Cour (Corsano[2] et Silcoff [3]) sont d’ailleurs des causes où les tribunaux devaient déterminer si les personnes visées par les cotisations étaient des administrateurs de facto, ce qui explique l’analyse de leurs actes. Je suis d’avis qu’aux fins de l’application du paragraphe 323(5) de la LTA, il y a lieu de consulter les dispositions de la loi en vertu de laquelle la société a été constituée, en l’espèce la Loi canadienne sur les sociétés par actions, pour déterminer à partir de quand un administrateur de jure a cessé d’être un administrateur. C’est ce qu’a décidé la Cour d’appel fédérale dans l’arrêt La Reine c. Kalef, no du dossier A‑11‑95, 1er mars 1996, 96 D.T.C. 6132, en ces termes :
+La Loi de l’impôt sur le revenu ne définit pas le terme « administrateur » et elle n’établit pas de critère en ce qui concerne le moment où une personne cesse d’occuper ce poste. Compte tenu du silence de la Loi de l’impôt sur le revenu, il est logique de se tourner vers la loi régissant la constitution en personne morale de la compagnie pour y trouver une réponse. [. . .]
+[8] Or, l’article 108 de la Loi canadienne sur les sociétés par actions stipule :
+108(1) Le mandat d’un administrateur prend fin en raison :
+a) de son décès ou de sa démission;
+b) de sa révocation aux termes de l’article 109;
+c) de son inhabilité à l’exercer, aux termes du paragraphe 105(1).
+(2) La démission d’un administrateur prend effet à la date de son envoi par écrit à la société ou, à la date postérieure qui y est indiquée.
+[9] En l’espèce, l’appelant a cessé d’être administrateur en raison de sa destitution qui a été décidée par les actionnaires de la société présents lors d’une assemblée extraordinaire tenue le 30 juillet 2002. Si une telle destitution a fait l’objet d’une résolution le 30 juillet 2002, c’est nécessairement parce que l’appelant était toujours en fonction comme administrateur et qu’il n’avait pas remis sa démission. Le fait qu’il ait cessé d’agir comme administrateur (si tel est le cas) dans les jours qui ont précédé l’assemblée des actionnaires au cours de laquelle il a été destitué ne lui enlève pas son statut d’administrateur au sens de la Loi canadienne sur les sociétés par actions.
+[10] Les dispositions des lois sur les sociétés en matière de responsabilité des administrateurs pour les salaires impayés sont semblables. Ainsi, le paragraphe 119(3) de la Loi canadienne sur les sociétés par actions fixe la prescription à l’exercice du recours à deux ans suivant la cessation du mandat de l’administrateur poursuivi. Or, en réponse à des moyens de défense fondés sur la faible participation ou l’absence de participation de certains administrateurs aux décisions de la société, les tribunaux ont décidé qu’il importe peu qu’un administrateur participe activement ou non à l’administration de la société pour qu’il soit tenu responsable[4]. Cette jurisprudence appuie en quelque sorte la position de l’intimée que les actes de l’administrateur avant sa démission ou sa révocation ne sont pas pertinents pour déterminer le point de départ du délai de prescription de deux ans au paragraphe 323(5) de la LTA. En résumé, cette jurisprudence appuie la thèse de l’intimée que c’est la date de démission ou de révocation qui doit seule être considérée pour déterminer le point de départ du délai de prescription de deux ans au paragraphe 323(5) de la LTA.
+[11] Quant à la question de savoir si la règle de l’estoppel trouve application en l’espèce, je ne vois pas la pertinence de l’aborder compte tenu de ma décision par ailleurs.
+[12] Pour ces motifs, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 7e jour d’octobre 2008.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE : 2008 CCI 327
+Nº DU DOSSIER DE LA COUR : 2006-3031(GST)I
+INTITULÉ DE LA CAUSE : HAGOP AREVIAN ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 18 janvier 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge Paul Bédard
+DATE DU JUGEMENT : le 7 octobre 2008
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Patrick Claude Caron
+Avocate de l'intimée :
+Me Martine Bergeron
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom : Me Patrick Claude Caron
+Cabinet : Caron Avocats
+Montréal, Québec
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Voir les pages 8 et suivantes de l'argumentation de l'appelant.
+[2] Canada c. Corsano, [1999] 3 C.F. 173, [1999] 2 C.T.C. 395, 172 D.L.R. (4th) 708, 240 N.R. 151, 99 D.T.C. 5658, 1999 CarswellNat 1800 (C.A.F.)
+[3] Silcoff c. Québec (Sous-ministre du Revenu) [1998] R.D.F.Q. 159, 1998 CarswellQue 690.
+[4] Champagne c. Amiri, (2004), J.E. 94-836 (C.A.Q.)

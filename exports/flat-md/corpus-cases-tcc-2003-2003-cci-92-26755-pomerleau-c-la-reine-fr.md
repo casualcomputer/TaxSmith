@@ -1,0 +1,153 @@
+---
+title: "Pomerleau c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26755/index.do"
+last_modified: "2003-02-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 92"
+citation2: ""
+neutral_citation: "2003 CCI 92"
+decision_date: "2003-02-26"
+language: "fr"
+item_id: "26755"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3501
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:31:05.795000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "abe1a097816dec79083d88663cb1b3b12a7e97447fecef047564b29dd7730313"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Pomerleau c. La Reine
+
+- Citation: 2003 CCI 92
+- Decision date: 2003-02-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3501, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pomerleau c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-02-26
+Référence neutre
+2003 CCI 92
+Numéro de dossier
+2001-3384(IT)I
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2001-3384(IT)I
+ENTRE :
+NICOLE POMERLEAU,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 5 février 2003 à Québec (Québec)
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Pour l'appelante :
+l'appelante elle-même
+Avocate de l'intimée :
+Me Anne Poirier
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1999 est rejeté, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 26e jour de février 2003.
+« Louise Lamarre Proulx »
+J.C.C.I.
+Référence : 2003CCI92
+Date : 20030226
+Dossier : 2001-3384(IT)I
+ENTRE :
+NICOLE POMERLEAU,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx, C.C.I.
+[1] Il s'agit d'un appel par voie de la procédure informelle concernant l'année d'imposition 1999.
+[2] La question en litige est de savoir dans quelle année d'imposition un montant de prestations d'assurance-emploi doit être inclus.
+[3] Les faits sur lesquels le ministre du Revenu national (le « Ministre » ) s'est fondé pour établir sa cotisation sont décrits au paragraphe 8 de la Réponse à l'avis d'appel (la « Réponse » ) comme suit :
+a) en 1999, l'appelante a reçu un montant de 6 448 $ de prestations, pour 1997;
+b) « Développement des ressources humaines Canada » a émis à l'appelante, un relevé T4E confirmant qu'une somme de 6 448 $ avait été versée à l'appelante en 1999, à titre de prestations régulières et autres prestations d'assurance-emploi;
+c) le Ministre a alloué un montant de 6 448 $, à titre de déduction pour paiement forfaitaire rétroactif admissible (ci-après, le « PFRA » ), en ajoutant toutefois un montant de 1 048,10 $ à l'impôt payable;
+d) de plus, le Ministre a calculé un paiement en trop d'assurance-emploi en vertu de la Partie VII de la Loi sur l'assurance-emploi, au montant de 1 761,90 $;
+e) ce montant a fait l'objet d'une déduction dans le calcul du revenu imposable.
+[4] En ce qui concerne l'alinéa 8e) de la Réponse, l'avocate de l'intimée a demandé à ce que soit biffé le mot « imposable » à l'alinéa 8e) de la Réponse, car selon la Loi de l'impôt sur le revenu (la « Loi » ) c'est dans le revenu et non dans le revenu imposable où s'opère cette déduction. Cette demande fut accordée car cette radiation ne changeait d'aucune façon le débat judiciaire.
+[5] L'appelante a témoigné. Elle a admis tous les faits allégués au paragraphe 8 de la Réponse.
+[6] L'appelante a relaté que la réclamation des prestations d'assurance-emploi a été faite à l'égard et pendant l'année 1997.
+[7] C'est à la suite d'une décision du Ministre rendue sous la Loi de l'assurance-emploi en 1999, qu'elle a reçu un montant de 6 448 $ à titre de prestations d'assurance-emploi. De cette décision, l'employeur a fait appel et la décision sur cet appel a été reçue en 2001.
+[8] En 1999, l'appelante a eu un revenu d'emploi de 41 466,93 $. En faisant sa déclaration de revenu pour l'année 1999, l'appelante relate qu'elle s'est rendu compte qu'en ajoutant le montant des prestations d'assurance-emploi reçues cette année-là à son revenu d'emploi, elle devait rembourser un paiement en trop d'assurance-emploi, à la ligne 450 de cette déclaration de revenu. Cette année-là, elle avait contribué à un RÉER au montant de 3 000 $. Elle dit que si elle avait su, elle aurait pris un REER pour un montant supérieur.
+[9] L'appelante suggère que c'est dans l'année 1997 qu'elle devrait inclure le montant des prestations d'assurance-emploi ou encore dans l'année 2001, année où la décision fut rendue au niveau de cette Cour.
+Analyse et conclusion
+[10] La partie VII de la Loi sur l'assurance-emploi est intitulée « Remboursement de prestations » et elle comprend les articles 144 à 152 de cette loi.
+[11] L'article 145 prévoit que lorsque son revenu pour une année d'imposition dépasse un montant correspondant à 1,25 fois le maximum de la rémunération annuelle assurable, le prestataire paie au receveur général un montant égal à trente pour cent du moins élevé des montants suivants : a) le montant total des prestations autres que des prestations spéciales qui lui ont été payées pendant l'année d'imposition; b) le montant duquel le revenu du prestataire pour l'année d'imposition dépasse un montant correspondant à 1,25 fois le maximum de la rémunération annuelle assurable. Ce paiement doit être fait au plus tard le 30 avril de l'année suivante.
+[12] Tel que mentionné à l'alinéa 8d) de la Réponse, ci-dessus, le montant du paiement est 1 761,90 $. Ce montant n'est pas contesté.
+[13] La question en litige inscrite par le Ministre dans sa Réponse est celle-ci :
+La question en litige consiste à déterminer si le Ministre était justifié d'utiliser le revenu net dans l'application de la Partie VII de la Loi sur l'assurance-emploi.
+[14] Cette expression « revenu net » ne se retrouve pas à la Partie VII de la Loi sur l'assurance-emploi. Cette expression ne se retrouve pas non plus dans la Loi. Cette expression de « revenu net » est utilisée dans les formulaires de déclaration de revenu où les expressions « revenu total » et « revenu net » sont employées. Il me semble que la Réponse devrait plutôt reprendre les termes législatifs que ceux utilisés dans les formulaires. En tout cas, il y aurait lieu de mentionner la source de l'expression si elle ne se retrouve pas dans les lois en cause mais dans les formulaires.
+[15] « Revenu » est défini à l'article 144 de la Loi sur l'assurance-emploi comme suit :
+Le montant qui serait le revenu d'une personne pour une période, déterminé en application de la Loi de l'impôt sur le revenu, si aucun montant n'était déductible selon les alinéas 60v.1) et w) de cette loi, ni inclus au titre d'un gain provenant d'une disposition de bien et auquel l'article 79 de cette loi s'applique.
+[16] Le calcul du revenu se fait selon les articles contenus dans la section B de la Partie I de la Loi.
+[17] L'alinéa 60v.1) qui est mentionnée à la définition de revenu à l'article 144 de la Loi sur l'assurance-emploi est l'alinéa permettant la déduction du remboursement de prestations d'assurance-chômage ou d'assurance-emploi dans le calcul du revenu selon la Loi. Ce remboursement n'est pas déduit du revenu pour les fins du calcul du remboursement des prestations d'assurance-emploi.
+[18] Certains paiements forfaitaires relatifs aux années antérieures donnent lieu à un allègement fiscal. C'est dans un but de pallier à ce qui était perçu par les contribuables comme des paiements d'impôt trop élevés que la législation sur les paiements forfaitaires a été adoptée en 2000. L'appelante en a bénéficié tel que mentionné à l'alinéa 8c) de la Réponse.
+[19] L'allègement se fait au niveau du revenu imposable. Le paragraphe 110.2(2) de la Loi prévoit que le paiement forfaitaire peut être déduit dans le calcul du revenu imposable. Toutefois, dans le calcul de l'impôt payable doit être ajouté un montant calculé selon les dispositions de l'article 120.31 de la Loi. Ce montant est de 1 048,10 $ tel qu'indiqué à l'alinéa 8c) de la Réponse. Ce montant n'est pas non plus contesté.
+[20] Au cours de l'audience, l'appelante faisait état qu'elle aurait en plus à rembourser un montant de 3 000 $ reçu en vertu de la Loi sur la sécurité sociale du Québec en 1997. En 1997, une telle somme a probablement été incluse dans son revenu en vertu de l'alinéa 56(1)u) de la Loi. Par ailleurs, selon ma lecture de la Loi, en ce qui concerne le revenu imposable calculé selon la Section C de la Partie I de la Loi et plus particulièrement l'alinéa 110(1)f) de la Loi, la dite somme aurait été déduite dans le calcul du revenu imposable.
+[21] Revenons à ce qui est essentiellement en litige dans cette affaire soit l'année dans laquelle l'appelante doit inclure le paiement forfaitaire reçu au titre de prestations d'assurance-emploi. Selon l'article 3 et le sous-alinéa 56(1)a)(iv) de la Loi, un contribuable doit inclure dans le calcul de son revenu pour une année d'imposition toute somme reçue au cours de cette année, au titre ou en paiement de prestations d'assurance-emploi. La jurisprudence est constante à cet effet.
+[22] L'appelante a donc été cotisée correctement selon les faits et la Loi et son appel doit être rejeté.
+Signé à Ottawa, Canada, ce 26e jour de février 2003.
+« Louise Lamarre Proulx »
+J.C.C.I.
+RÉFÉRENCE :
+2003CCI92
+No DU DOSSIER DE LA COUR :
+2001-3384(IT)I
+INTITULÉ DE LA CAUSE :
+Nicole Pomerleau et La Reine
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE DE L'AUDIENCE :
+le 5 février 2003
+MOTIFS DE JUGEMENT PAR :
+l'hon. juge Louise Lamarre Proulx
+DATE DU JUGEMENT :
+le 26 février 2003
+COMPARUTIONS :
+Pour l'appelante :
+l'appelante elle-même
+Pour l'intimée :
+Me Anne Poirier
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelante :
+Nom :
+Étude :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

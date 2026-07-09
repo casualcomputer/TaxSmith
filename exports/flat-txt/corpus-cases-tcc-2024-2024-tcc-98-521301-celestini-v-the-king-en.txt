@@ -1,0 +1,153 @@
+Title: Celestini v. The King
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521301/index.do
+Corpus path: corpus/cases/tcc/2024/2024-tcc-98-521301-celestini-v-the-king-en.md
+Document type: case_law
+Last modified: 2024-07-17
+
+# Celestini v. The King
+
+- Citation: 2024 TCC 98
+- Decision date: 2024-07-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5713, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Celestini v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2024-07-17
+Neutral citation
+2024 TCC 98
+File numbers
+2023-1042(GST)I
+Judges and Taxing Officers
+Martin Lambert
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2023-1042(GST)I
+BETWEEN:
+STEFANO CELESTINI,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on April 30, 2024, at Hamilton, Ontario
+Before: The Honourable Justice Martin Lambert, Deputy Judge
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Chelsea Barkhouse
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal from the assessment dated March 28, 2022 with respect to the Appellant’s Goods and Services Tax/Harmonized Sales Tax (“GST/HST”) New Housing Rebate Application is dismissed, without costs.
+Signed at Timmins, Ontario, this 17th day of July 2024.
+“M. Lambert”
+Lambert D.J.
+Citation: 2024 TCC 98
+Date: 20240717
+Docket: 2023-1042(GST)I
+BETWEEN:
+STEFANO CELESTINI,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Lambert, D.J.
+[1] The Appellant claimed a GST/HST New Housing Rebate (the “rebate”) in the amount of $ 15,513.38. He filed his application for the rebate on November 12, 2021. By way of Notice of Assessment dated March 28, 2022, the Minister of National Revenue (the “Minister”) disallowed the Appellant’s claim, taking the position that the new residence was not constructed for use as the Appellant’s primary place of residence, nor was the application submitted in a timely fashion.
+[2] The quantum of the rebate was not in issue at the hearing. The only issue is whether the Appellant satisfied the legislative requirements to be entitled to the rebate.
+[3] The relevant legislative provisions are found in section 256 of the Excise Tax Act (the “Act”). Of particular importance are paragraph 256(2)(a) and subparagraph (d)(i), as well as subsection 256(3), which provide as follows:
+256(2) Where
+(a) a particular individual constructs or substantially renovates, or engages another person to construct or substantially renovate for the particular individual, a residential complex that is a single unit residential complex or a residential condominium unit for use as the primary place of residence of the particular individual or a relation of the particular individual,
+[…]
+(d)(i) the first individual to occupy the complex after the construction or substantial renovation is begun is the particular individual or a relation of the particular individual, or
+(3) A rebate under this section in respect of a residential complex shall not be paid to an individual unless the individual files an application for the rebate on or before
+(a) the day (in this subsection referred to as the “due date”) that is two years after the earliest of
+(i) the day that is two years after the day on which the complex is first occupied as described in subparagraph (2)(d)(i),
+(ii) the day on which ownership is transferred as described in subparagraph (2)(d)(ii), and
+(iii) the day on which construction or substantial renovation of the complex is substantially completed; or
+(b) any day after the due date that the Minister may allow.
+[4] The preconditions to qualify for the rebate are therefore as follows:
+(a)The subject property must be a single unit residential complex;
+(b)The individual claiming the rebate must construct it or substantially renovate it, or he must engage another person to do so;
+(c)The residence must be the primary place of residence of the individual or a relation, and he/she must be the first individual to occupy the property;
+(d)The application for the rebate must be submitted within two years after the earliest of:
+(i)the day that is two years after the day on which the complex is occupied;
+(ii)the day on which construction or substantial renovation is substantially complete.
+[5] In the case at bar, the issues are whether the residential unit in question is the primary place of residence of the Appellant, and whether the two-year limitation period started running on August 31, 2013 when the Minister deemed that the construction was substantially completed or March 31, 2020 when the Appellant says that they started occupying the property, having totally moved in by May 2020.
+[6] The “primary place of residence” in the Act is not the same as the principal place of residence in the Income Tax Act. By using the word primary as opposed to principal, the legislator left open the possibility that an individual could have a secondary place of residence.
+[7] In GST/HST Policy Statement P-228 “Primary Place of Residence” (the “Policy P-228”), the Canada Revenue Agency’s position is that “primary place of residence” means “first in order of importance” (the “CRA”). The policy provides, in part, as follows:
+A primary place of residence may be differentiated from a secondary place of residence since the terms primary and secondary are necessarily defined in relation to each other. Primary suggests something first in order of importance that is not subordinate or secondary. From this, it follows that where an individual has more than one place of residence, the place of residence that is not first in order of importance to that individual would be that individual's secondary place of residence as it would be subordinate to the primary place of residence (e.g. it is used mainly for recreational purposes or it is occupied less than another).
+[8] Some of the criteria used to determine the primary place of residence are as follows:
+(a)mailing address
+(b)income tax
+(c)voting
+(d)municipal/school taxes
+(e)telephone listing
+[9] In addition to that, the Policy P-228 provides that when an individual owns more than one place of residence and continues to occupy both of them, the following factors may indicate which is the primary place of residence:
+(a)the amount of time spent at any one of the places of residence;
+(b)the location of the individual or qualifying relative’s place of work;
+(c)the availability of amenities particular to the personal needs of the individual or qualifying relative, and/or individual residing with him/her; and
+(d)the suitability of the property for use by the individual or qualifying relative as a place of residence throughout the year.
+[10] The Appellant is a professional engineer who runs his own company. He has owned a home with his spouse at 3550 Stedford Road in Oakville since 1996. In 2020 or 2021, his daughter was added as a joint tenant on title. The Appellant’s position is that he uses 3550 Stedford Road as a secondary place of residence only since March 30, 2020, when he started occupying the property subject to the application, which is located at 1073 West Bank Drive in Gravenhurst. His daughter now uses the Stedford home as her principal place of residence, though the Appellant admitted that she works in Toronto and sometimes stays at her boyfriend’s apartment in Toronto.
+[11] The Appellant’s evidence is that they occupy 1073 West Bank Drive full-time from March to November in each year and then spend the colder months at their secondary residence at 3550 Stedford Road, or they travel. He indicated that he has no intention of changing his mailing address from Stedford Road to the West Bank Drive property as he has been using that address for many years for his various business ventures, and it is more practical to maintain the same address.
+[12] In terms of work, he indicates that all of his work is done remotely and he has employees in several communities. He can therefore work from Gravenhurst as much as he can work from Oakville.
+[13] He was the designer and builder of the home at 1073 West Bank Drive. To say the least, this was a long-term project. He started construction in 2007. He hired framers to put up the shell as well as electrical and plumbing contractors, in addition to bricklayers. He was the general contractor and did the rest of the work himself. A temporary occupancy permit was issued in 2008 by the municipality indicating that the property could be occupied sporadically in order to continue the work.
+[14] This was not a simple construction project. It is a large home, which has six bedrooms and five bathrooms, and it is constructed on a large lot. As the designer of the home, the Appellant tried to be innovative but, by his own admission, that innovation cost him a lot of grief. There were many deficiencies in the design and construction, including but not limited to:
+(a)improper drainage of the property which allowed water to seep into the house causing hardwood flooring, which had been glued to concrete, to heave substantially;
+(b)serious plumbing issues including with the submersible pumps;
+(c)damage caused by water coming through windows that the Appellant had built;
+(d)eavestrough issues as the water was draining too close to the home; and
+(e)other various water leaks, all of which led to mould issues.
+[15] It is the Appellant’s position that these deficiencies and the fact that he was completing the work on his own prevented him and his spouse from occupying the property as their primary place of residence before March 2020.
+[16] The Appellant has convinced me that he and his spouse now occupy 1073 West Bank Drive in Gravenhurst as their primary place of residence, but I have concluded that the application for the rebate was not submitted in a timely fashion and thus the appeal must be dismissed.
+[17] As I indicated before, this is not an ordinary residence. It is a large residence with all of the modern amenities. While there are many seasonal residences in that area that are similar in nature, I accept that the Appellant now uses this as his primary place of residence. I accept that he can work from there given the nature of his business. He is at a stage in his life where he has no dependent children living at home, and he and his spouse are more independent. The Appellant was honest in admitting that they occupied the subject property from March to November each year whilst spending the balance of the year at their secondary residence at 3550 Stedford Road in Oakville, or travelling as they have the means to do so.
+[18] I also accept his reasoning for not changing his mailing address, which is for business reasons. The fact that he has not changed his mailing address is certainly not determinative. He has provided a plausible explanation why he would not change it.
+[19] With respect to the timeliness of the application for the rebate, I conclude that the CRA was correct in concluding that construction was substantially completed by August 31, 2013, and I also conclude that the Appellant started occupying the property much before March 2020.
+[20] The position of the CRA is that “substantially completed” means 90% or more, and in a decision called Neliba (P) v. Canada, [1998] TCJ No 626, the Tax Court accepted that the 90% rule was reasonable.
+[21] I have looked carefully at the construction summary worksheet attached to the application for the rebate, and the bulk of the invoices are from before 2013. I will now go through each category set out therein. All of the invoices for the general contractor (framing), site preparation, excavation and backfill, footings and foundations, waterproofing, framing and concrete finishing were dated before 2013 except for a few small invoices for framing from 2013 to 2015 (not exceeding $ 1000).
+[22] The bulk of the plumbing expenses of $ 17,206.41 were incurred before August 31, 2013 save and except some small invoices from 2014 to 2017 (not exceeding $ 2000). The bulk of the electrical expenses of $ 51,720.12 were incurred before August 31, 2013 save and except a few invoices incurred from 2014 to 2017 (not exceeding $ 2000). The HVAC expenses of $ 10,220.42 were all paid by April 2010 as were roofing and shingle expenses. The masonry expenses of $ 23,611.74 were incurred before August 31, 2013 save and except expenses not exceeding $ 1000 from 2014 to 2016. Windows and doors totaling $ 37,179 were incurred by August 31, 2013 save and except several thousand dollars from 2013 to 2017. Vapor barrier, exterior siding, eavestroughs, soffit, fascia and flooring were mostly invoiced before 2013 with a few invoices incurred after that. None of the ceramic tile expenses, trim carpentry, cabinets and vanities, built-in appliances and plumbing fixtures, lighting fixtures, painting and wall covering expenses were paid after 2017, and the bulk were paid before August 31, 2013.
+[23] The balance of the expenses relate to landscaping ($ 38,334 paid in 2014), trees, driveway, pool and deck, none of which affect substantial completion of the home. The landscaping paid in 2014 no doubt related to correcting the drainage issue, but that was obviously resolved by 2014.
+[24] A detailed review of the expenses leads me to conclude that the construction was substantially completed by August 31, 2013 or shortly thereafter.
+[25] I appreciate that though some materials may be bought and paid for and then not be used until much later, the time spent is too great here. It is obvious that the great bulk of invoices were from before 2013 and it would be a stretch to argue that the materials were not used until much later.
+[26] In addition to concluding that the construction was in fact substantially completed by August 31, 2013, I am also of the view that the property was in fact occupied much before March 2020. A review of some exhibits filed by the Appellant leads me to that conclusion. For example, Exhibit A-1 contains pictures that were taken in 2009 and 2010. Picture 6 shows knives and various other items on the kitchen counter. Picture 8 shows a sofa and Lazy Boy, while picture 10 shows an end table. Pictures 12 and 14 show a dining room table and chairs.
+[27] Exhibit A-4 is also a series of pictures, and picture 23 from 2014 shows personal items on the counter in the washroom. Pictures 29 and 30 were taken in 2016 and show artwork on the walls. Picture 32 taken in 2017 shows a bedroom in which the beds are made. Picture 36 taken in 2018 shows a picture frame on a granite counter.
+[28] The Appellant testified that they were slowly moving in items before starting to occupy the property in March 2020. It frankly defies common sense that anyone would put up artwork on the walls 4 years before occupying the property and while the property is still under construction.
+[29] The Appellant spoke of many water problems and other deficiencies, which prevented early occupation, but there are no invoices that would substantiate that claim. It is obvious that most of the corrective work had been done by August 31, 2013 or shortly thereafter.
+[30] I have therefore very little difficulty in concluding that the work was substantially completed and that the property was in fact occupied much before March 2020, and thus the application for the rebate was not filed in a timely fashion, and the appeal is therefore dismissed.
+Signed at Timmins, Ontario, this 17th day of July 2024.
+“M. Lambert”
+Lambert D.J.
+CITATION:
+2024 TCC 98
+COURT FILE NO.:
+2023-1042(GST)I
+STYLE OF CAUSE:
+STEFANO CELESTINI v. HIS MAJESTY THE KING
+PLACE OF HEARING:
+Hamilton, Ontario
+DATE OF HEARING:
+April 30, 2024
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Martin Lambert, Deputy Judge
+DATE OF JUDGMENT:
+July 17, 2024
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Chelsea Barkhouse
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada

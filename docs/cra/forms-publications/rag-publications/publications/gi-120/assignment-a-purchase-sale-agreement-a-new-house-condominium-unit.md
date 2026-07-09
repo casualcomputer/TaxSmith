@@ -1,0 +1,138 @@
+---
+title: "Assignment of a Purchase and Sale Agreement for a New House or Condominium Unit"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-120/assignment-a-purchase-sale-agreement-a-new-house-condominium-unit.html
+last_modified: 2022-07-07
+---
+# Assignment of a Purchase and Sale Agreement for a New House or Condominium Unit
+
+Effective May 7, 2022, all assignment sales in respect of newly constructed or substantially renovated residential housing are taxable for GST/HST purposes. This publication will be updated to reflect this legislative change. For more information about the legislative amendment, refer to [GST/HST Notice 323, Proposed GST/HST Treatment of Assignment Sales](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice323.html).
+
+GST/HST Info Sheet GI-120 July 2011
+
+This info sheet explains how the GST/HST applies to the assignment of a purchase and sale agreement for the construction and sale of a new house.
+
+## New house
+
+The term "new house" used in this info sheet refers to a newly constructed or substantially renovated house or condominium unit. A house that has been substantially renovated is generally given the same treatment under the GST/HST as a newly constructed house. Extensive modifications must be made to a previously occupied house in order to meet the definition of a "substantial renovation" for GST/HST purposes. For a full explanation of the factors to consider in deciding if a substantial renovation has taken place, refer to [GST/HST Technical Information Bulletin B-092, Substantial Renovations and the GST/HST New Housing Rebate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-092.html).
+
+In this publication, a house includes a single unit house, a semi detached house, a duplex, a rowhouse unit and a residential condominium unit (condo unit), but does not include a mobile home or floating home.
+
+## Background
+
+Where a person enters into a purchase and sale agreement with a builder for the construction and sale of a new house, the person may be entitled to assign their rights and obligations under the agreement to another person (an assignee). Generally, the result of the assignment is that the purchase and sale agreement is then between the builder and the assignee.
+
+This publication addresses the situation where
+
+- a purchaser (referred to as the first purchaser) enters into a purchase and sale agreement with a builder (Builder A) for the construction and sale of a new house, and
+
+- the first purchaser subsequently assigns the agreement to an assignee (referred to as the assignee purchaser) before Builder A transfers possession or ownership of the house to the first purchaser and before any individual has occupied the house as a place of residence or lodging.
+
+Generally, upon entering into an agreement for the construction and sale of a new house, the first purchaser is considered to have acquired an interest in the house. For GST/HST purposes, the assignment of the agreement to the assignee purchaser is normally considered to be a sale of the first purchaser's interest in the new house. The sale of an interest in a new house is generally taxable where the person selling the interest is a builder of the house.
+
+## Builder
+
+For GST/HST purposes, the term "builder" is specifically defined and is not limited to a person who physically constructs a house. There are several instances in which an individual or other person is a builder for GST/HST purposes. For more information on persons who are included in the definition of "builder", refer to [GST/HST Memorandum 19.2, Residential Real Property](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/19-2.html).
+
+This info sheet addresses only whether a person is a builder as described in the following paragraph.
+
+### Primary purpose: selling the house or an interest in the house or leasing the house in certain circumstances
+
+A builder includes a person who acquires an interest in a new house before it has been occupied by an individual as a place of residence or lodging **for the primary purpose of** selling the house or an interest in the house or leasing the house, other than to an individual who is acquiring the house otherwise than in the course of a business or adventure or concern in the nature of trade. When that person is an individual, the individual must acquire the interest in the course of a business or an adventure or concern in the nature of trade in order to be a builder described by this paragraph.
+
+Even if a person is not a builder as described in the preceding paragraph, the person may be a builder based on one of the other definitions of the term as described in GST/HST Memorandum 19.2.
+
+## Assignment of a purchase and sale agreement by a person other than an individual
+
+Where a person other than an individual (e.g., a corporation) is a builder as described in the section "Primary purpose: selling the house or an interest in the house or leasing the house in certain circumstances" and the person assigns a purchase and sale agreement for a new house, the person's sale of the interest in the house is subject to the GST/HST whether the sale takes place in the course of a business, an adventure or concern in the nature of trade, or otherwise.
+
+## Assignment of a purchase and sale agreement by an individual
+
+If an individual enters into a purchase and sale agreement for one of the primary purposes described in the section "Primary purpose: selling the house or an interest in the house or leasing the house in certain circumstances", the sale of the interest in the house (or the house itself) is normally considered to be made in the course of an adventure or concern in the nature of trade or, depending on all of the surrounding circumstances, in the course of a business. If it is established that an individual is selling an interest in a new house in the course of a business or adventure or concern in the nature of trade, the individual is considered to have entered into the purchase and sale agreement for the primary purpose of selling the house or an interest in the house.
+
+Whether the activity of acquiring an interest in a house, as a result of entering into a purchase and sale agreement, is done in the course of a business or an adventure or concern in the nature of trade is a question of fact. For more information on how to determine whether an activity is done in the course of a business or an adventure or concern in the nature of trade, refer to Appendix C of [GST/HST Memorandum 19.5, Land and Associated Real Property](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/19-5.html).
+
+## Factors in determining the primary purpose
+
+All of the relevant factors surrounding entering into a purchase and sale agreement should be considered in determining the primary purpose for a person's acquisition of an interest in a new house.
+
+The following factors may indicate that, for GST/HST purposes, a person entered into a purchase and sale agreement for the primary purpose of selling an interest in the new house or the house itself. The factors are not listed in any particular order and there is no intent to weigh one more heavily than another.
+
+- The person offers to sell their interest in the house or takes other actions to attract buyers before, or while, the house is under construction.
+
+- The person finances the purchase of the house by a short-term mortgage, or an open mortgage that can be paid off without penalty, rather than by a long-term or closed mortgage.
+
+- Financing of the house is beyond the person's means and that person is relying on the increased value and saleability of the house, or an interest in the house, in a rising housing market.
+
+- The person is an individual and their stated intention to occupy the house as a place of residence is not supported by the circumstances of the case. For example, an individual has a family of four and enters into a purchase and sale agreement for a one-bedroom condo unit where they are not contemplating any changes in family circumstances.
+
+- The person's pattern of activity is such that their occupancy of the house does not have the qualities or characteristics of being permanent. For example, the person purchases more than one house at or around the same time. This factor may be given extra weight where the person has previously entered into a purchase and sale agreement for purposes of selling the house or an interest in the house. There are no outward indicators to support a contrary primary intention (i.e., an intention contrary to an intention of resale). For example, an individual is selling a condo unit, one or more of the above factors are present, there are no physical actions or evidence that the individual's primary intention was to live in the condo unit, use it as a vacation home, or rent it to another individual for use as their place of residence, and no evidence that the sale of the condo unit was triggered by some unforeseen event.
+
+In order for the acquisition of an interest in a new house to be for one of the primary purposes described in the section "Primary purpose: selling the house or an interest in the house or leasing the house in certain circumstances", the intention to sell the house or an interest in it, or to lease the house in the manner described in that section, must have existed at the time of acquiring the interest. Nonetheless, the intention at the time of acquisition may be demonstrated over a period of time.
+
+If an individual acquired an interest in the house for the primary purpose of using it as a place of residence, the person is not considered to be a builder of the type described in this info sheet even if, at a later point in time, the person sells the house or an interest in the house. However, the person may still be a builder if the person meets one of the other definitions of that term as described in GST/HST Memorandum 19.2.
+
+The following examples illustrate when a person may or may not be a builder of a new house.
+
+Sarah, Francine, and Angela are roommates renting a three-bedroom house. They entered into a purchase and sale agreement with a builder in January 2010 for a one-bedroom condo unit in a new condominium complex that was to be built. The purchase price under the agreement was $300,000 and the closing date was July 31, 2013.
+
+In March 2011, the fair market value of the new condo unit had increased by 50%. They entertained several offers for the sale of their interest in the condo unit before assigning it to James. No individual had occupied the condo unit as a place of residence or lodging when they sold their interest in the unit. They split the proceeds, which they each used as a down payment to buy their own homes.
+
+As it would not be practical for the three individuals to live in the condo unit together, they considered several offers for their interest in the unit, and there are no indicators to support a contrary intention, Sarah, Francine and Angela are considered to have acquired their interest in the condo unit for the primary purpose of selling the unit or an interest in it. The sale is considered to be made in the course of a business or adventure or concern in the nature of trade. Accordingly, Sarah, Francine, and Angela are all builders of the condo unit for GST/HST purposes. As they are builders of the unit and the sale of their interest in the unit is not exempt, GST/HST applies to the sale of each of their interests.
+
+Pascal and Chantal own a four-bedroom house where they live with their three children. This is the only home they have ever owned and lived in. They have never purchased any other real property.
+
+In June 2009, they entered into a purchase and sale agreement with a builder for a 1-bedroom condo unit in a new high-rise condominium complex that was to be built. The purchase price under the agreement was $275,000 and the closing date was June 30, 2010. In May 2010, they sold their interest in the new condo unit for $400,000 before it had been occupied by any individual as a place of residence or lodging. They used the sale proceeds to build an addition to their current home.
+
+Although Pascal and Chantal have no history of buying and selling real property, it would not be practical for their family of five to occupy the condo unit as their place of residence. Lacking evidence to support a contrary intention, their primary purpose in acquiring the interest in the condo unit is considered to be for the purpose of selling the condo unit or an interest in it in the course of a business or an adventure or concern in the nature of trade. Accordingly, they are builders of the new condo unit for GST/HST purposes. As the sale of their interest in the unit is not exempt, GST/HST applies to the sale of their interest.
+
+Eric and Gina owned a 3-bedroom house where they lived with their 3 children. They entered into a purchase and sale agreement with a builder in October 2010 to purchase a new 4-bedroom house that was to be built. They intended to use the new house as their primary place of residence as it was located much closer to the children's school and to Eric and Gina's workplaces and had more space. The closing date is July 31, 2011.
+
+Eric and Gina sold their current home in January 2011 and moved into a rented home they planned to live in until their new house was ready. However, in June 2011, Gina's mother became ill and moved in with them as she was no longer able to live on her own.
+
+Eric and Gina decided that the new house would no longer be large enough and that they would now need a house with a granny suite. They sold their interest in the new 4-bedroom house so that they could buy a bigger home that would suit their changed needs.
+
+Eric and Gina's sale of their original home and temporary move to a rented house during the construction of the new home and their choice to purchase a home located closer to school and work support that their intention in acquiring the interest in the new house was to use the house as their primary place of residence. Given this, and the fact that their only reason for selling the interest was due to a change in personal circumstance (i.e., the new house would no longer accommodate their family's needs), they are not considered to have acquired the interest in the house for the primary purpose of selling it. Accordingly, they are not builders of the new house for GST/HST purposes and the sale of their interest in the house is exempt.
+
+Cindy entered into a purchase and sale agreement with a builder in November 2010 for a new house that was to be built. She intended to use the house as her primary place of residence. Her new home would be located within walking distance from her workplace and would be closer to her family than the apartment she is currently renting. The closing date for the purchase is September 30, 2011.
+
+In July 2011, Cindy's employer announced that it was relocating to another city located three hours away. To keep her current job, Cindy had to move to that city. She sold her interest in the house to John.
+
+Since Cindy had intended to use the house as her primary place of residence and her only reason for selling her interest in the house was due to work relocation, she did not acquire the interest in the house for the primary purpose of selling it. Therefore she is not a builder of the house for GST/HST purposes and the sale of her interest in the house is exempt.
+
+## Assignment fees
+
+The consideration charged for the sale of an interest in a house generally includes amounts that a person paid to a builder (e.g., a deposit) and that the person wants to recover when assigning their interest in the house. The sale price for the interest may also include a profit, i.e., an amount over and above amounts the person had paid to the builder. If a person's sale of their interest to an assignee purchaser is taxable, the total amount payable for the sale of the interest is subject to GST/HST, including any amount the person paid as a deposit to the builder, whether or not such an amount is separately identified.
+
+A first purchaser enters into a purchase and sale agreement for a new house with a builder (Builder A) and pays a deposit of $10,000 at that time. The first purchaser does not make any further payments to Builder A. The first purchaser subsequently assigns the agreement to an assignee purchaser for $15,000. If the sale of the interest in the house from the first purchaser to the assignee purchaser is subject to GST/HST, tax applies to the full $15,000. This is the case even if the assignment agreement identifies that the $10,000 is a recovery of the deposit that the first purchaser paid to Builder A.
+
+The assignment of a purchase and sale agreement for a new house may be subject to the approval of the builder with whom the first purchaser originally entered into the agreement to construct and sell the new house. The agreement may list conditions related to the first purchaser's right to assign the agreement to an assignee purchaser and, in many cases, the builder charges a fee to the first purchaser for the assignment of the agreement to another person.
+
+The fee charged by the builder in such circumstances is generally subject to the GST/HST.
+
+## Eligibility for a GST/HST new housing rebate and provincial new housing rebate (where applicable) where a purchase and sale agreement is assigned
+
+The GST/HST new housing rebate, and where applicable, a provincial new housing rebate, may be available for a new house purchased from a builder and for owner-built new housing. [Guide RC4028, GST/HST New Housing Rebate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4028.html), sets out the eligibility criteria for both types of GST/HST new housing rebates and provincial new housing rebates.
+
+If the first purchaser (the assignor) makes a taxable sale of an interest in a house, i.e., the first purchaser is a builder and assigns the purchase and sale agreement to an assignee purchaser, the first purchaser would not be eligible for either a GST/HST new housing rebate or provincial new housing rebate as they did not acquire the house for use as their primary place of residence. Even if the sale of the interest in the house by the first purchaser is not subject to GST/HST (i.e., in situations where the first purchaser is not a builder of the house), the first purchaser would generally not be eligible for either a GST/HST new housing rebate or a provincial new housing rebate as the conditions for claiming the rebates are not met (e.g., ownership of the house would not transfer to the first purchaser, but to the assignee purchaser).
+
+The assignee purchaser, if an individual, may be eligible for a GST/HST new housing rebate, and where applicable a provincial new housing rebate, where the assignee purchaser receives an assignment of a purchase and sale agreement for a new house. The assignee purchaser would have to meet the eligibility conditions for the rebates as set out in Guide RC4028.
+
+Where a purchase and sale agreement for a new house is assigned, there may be two builders of the house – the original builder (Builder A) and the first purchaser (the assignor). If that is the case, an assignee purchaser would generally have to pay the GST/HST to Builder A for the purchase of the new house and to the first purchaser for the purchase of the interest in the new house.
+
+## Claiming a GST/HST new housing rebate when there is more than one builder
+
+In some cases, the builder of a new house pays or credits the amount of the GST/HST new housing rebate, and where applicable, a provincial new housing rebate, to the purchaser of the house. In this case, the builder credits the amount of the new housing rebates to the purchaser by reducing the total amount payable for the purchase of the house by the amount of the expected rebates.
+
+Where this happens, the purchaser and the builder have to sign [Form GST190, GST/HST New Housing Rebate Application for Houses Purchased from a Builder](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst190.html), and the builder has to send the form to the Canada Revenue Agency (CRA). As the purchaser receives the amount of the rebate from the builder, the builder may claim the amount as a credit against its net tax when it files its GST/HST return.
+
+Only one new housing rebate application can be made for each new house. Therefore, an assignee purchaser cannot submit a rebate application through a builder (Builder A) for the tax paid to Builder A on the purchase of the house and submit a second rebate application through the first purchaser (the assignor), or directly to the CRA, for the tax paid to the first purchaser on the purchase of the interest in the house.
+
+In such cases, the assignee purchaser may want to file their new housing rebate application directly with the CRA rather than through Builder A. In this way, the assignee purchaser can include in the new housing rebate application the tax paid to Builder A and the tax paid to the assignor in determining the amount of their GST/HST new housing rebate and, where applicable, a provincial new housing rebate.
+
+This info sheet does not replace the law found in *the Excise Tax Act* (the Act) and its regulations. It is provided for your reference. As it may not completely address your particular operation, you may wish to refer to the Act or appropriate regulation, or contact any CRA GST/HST rulings office for additional information. A ruling should be requested for certainty in respect of any particular GST/HST matter. [Pamphlet RC4405, GST/HST Rulings – Experts in GST/HST Legislation](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4405.html) explains how to obtain a ruling and lists the GST/HST rulings offices. If you wish to make a technical enquiry on the GST/HST by telephone, please call 1-800-959-8287.
+
+Reference in this publication is made to supplies that are subject to the GST or the HST. The HST applies in the participating provinces at the following rates: 13% in Ontario, New Brunswick and Newfoundland and Labrador, 15% in Nova Scotia, and 12% in British Columbia. The GST applies in the rest of Canada at the rate of 5%. If you are uncertain as to whether a supply is made in a participating province, you may refer to [GST/HST Memorandum 3-3-2, Place of Supply in a Province – Overview](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-2.html).
+
+If you are located in Quebec and wish to make a technical enquiry or request a ruling related to the GST/HST, please contact Revenu Québec at 1-800-567-4692. You may also visit the [Revenu Québec Web site](https://www.revenuquebec.ca/en/) to obtain general information.
+
+All technical publications related to GST/HST are available on the CRA Web site at [www.cra.gc.ca/gsthsttech](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html).

@@ -1,0 +1,217 @@
+---
+title: "Mohammadi v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26842/index.do"
+last_modified: "2005-09-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 580"
+citation2: ""
+neutral_citation: "2005 TCC 580"
+decision_date: "2005-09-09"
+language: "en"
+item_id: "26842"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 681
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:20:54.882000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fc5658926ac28eeee992e099e4262a3fd46e688e976246d2ad202b1ed8007b57"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mohammadi v. The Queen
+
+- Citation: 2005 TCC 580
+- Decision date: 2005-09-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 681, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mohammadi v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-09-09
+Neutral citation
+2005 TCC 580
+File numbers
+2001-2761(IT)G
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2001-2761(IT)G
+BETWEEN:
+MORTEZA MOHAMMADI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on November 29-30, 2004 and March 1-2, 2005
+at Edmonton, Alberta
+Before: The Honourable Justice L.M. Little
+Appearances:
+Counsel for the Appellant:
+Sid M. Tarrabain, Q.C.
+M. Ali Moughel
+Counsel for the Respondent:
+Louis A.T. Williams
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act in respect of the 1995, 1996, 1997 and 1998 taxation years are dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 9th day of September 2005.
+"L.M. Little"
+Little J.
+Citation: 2005TCC580
+Date: 20050909
+Docket: 2001-2761(IT)G
+BETWEEN:
+MORTEZA MOHAMMADI,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little J.
+I. BACKGROUND FACTS:
+[1] The Appellant filed Notices of Appeal to Notices of Assessment dated September 5, 2000 for the 1995 through 1998 taxation years. In assessing the Appellant the Minister of National Revenue (the "Minister") relied on a net worth calculation. This calculation was based on various documents and over $100,000.00 in cash, that the Royal Canadian Mounted Police ("RCMP") had seized from the Appellant's vehicle.
+[2] The Appellant submits that his right to be secure from an unreasonable search and seizure was breached on a number of occasions during the course of his interaction with RCMP officers and Canadian Customs and Revenue ("CCRA") officials. In particular the Appellant maintains that he did not truly consent to the search of his vehicle, and that the subsequent searches - the search incident to arrest and the search subsequent to a warrant - were invalid. The Appellant further submits that the inspection of his records under the purported authority of section 231 of the Income Tax Act (the "Act"), and the issuance of the Jeopardy Order were further examples of the disregard by officials of his rights. In addition, the Appellant submits that his right under paragraph 10(b) of the Canadian Charter of Rights and Freedoms (the "Charter") was violated when he was asked to sign a "consent to search" form before being afforded a right to counsel. The Appellant submits that the appropriate remedy for the combination of such breaches is to vacate the Assessments.
+II. ISSUES:
+[3] (i) Was the evidence obtained in violation of section 8, 9 or subsection 10(b) of the Charter?
+(ii) If the Appellant's rights under the Charter were infringed or denied, was the infringement such that, having regard to all of the circumstances, the admission of it in the proceeding would bring the administration of justice into disrepute?
+(iii) Should the net worth assessment be upheld?
+(iv) Was the assessment of the Appellant's 1995 taxation year statute barred?
+and
+(v) Did the Minister correctly assess penalties under section 163 of the Act?
+III. DISCUSSION:
+[4] A number of witnesses testified at trial. The Appellant testified for himself and the Respondent called Constable McLaughlin, an officer with the RCMP detachment in Broadview, Saskatchewan, Sergeant Tom Janisch from the same RCMP detachment, Mr. Edward Adams, a special investigator with the CCRA, Mr. Damguard, an auditor with the CCRA and Mr. Leaker, the Appellant's previous accountant.
+The Initial Stop of the Appellant's Vehicle
+[5] At 23:54 on August 27, 1998, Constable McLaughlin observed the Appellant's red Ford Mustang travelling eastbound on the Trans Canada Highway at 110 km/h in a 100 km/h zone.
+[6] When Constable McLaughlin viewed the Appellant's vehicle he was on the opposite side of the highway with a radar gun. Within minutes Constable McLaughlin crossed the highway and stopped the vehicle because it was speeding. In doing so, Constable McLaughlin noticed that one of the brake lights was not working. He advised the driver of this fact, as well as the fact that he had been speeding. Constable McLaughlin testified that as he approached the vehicle he took a brief look inside, to assure his safety, and he noticed a package of Zigzag rolling papers with part of the cover torn away. He also noticed the smell of fresh perfume inside the vehicle. At trial Constable McLaughlin testified that from his experience with the RCMP he had only seen the cover torn off a Zigzag package in connection with the use of marijuana.[1]
+[7] When Constable McLaughlin approached the vehicle, the Appellant was in the passenger seat and Mr. Malecky was behind the wheel. Constable McLaughlin testified that in order to show Mr. Malecky that the brake light was not working he had him turn on the signal lights and then accompanied him to the rear of the vehicle to observe the lights. Since the signal light was not the same light as the brake light, Constable McLaughlin returned to the vehicle and applied his foot to the brake. When he returned to the vehicle he noticed that the Zigzag package was missing from the console. Constable McLaughlin testified that he believed that the Appellant concealed the papers because he was of the criminal mindset that if he concealed it, the offence [for possession of marijuana] would not be raised.
+[8] With the combination of the missing Zigzag package, (with its torn cover), and the smell of perfume, Constable McLaughlin testified that he believed that there was a probability that there was marijuana in the vehicle.
+[9] Constable McLaughlin explained that Mr. Malecky was brought to the patrol car so that he could issue him a written warning to obey the speed limit. When Constable McLaughlin returned to the Mustang he asked the Appellant if he would sign a "consent to search" form. Constable McLaughlin testified that he explained the contents of the informed consent to search form to the Appellant, and before he searched the vehicle the Appellant agreed to sign the form. Constable McLaughlin informed the Appellant that he would be searching for evidence of any offence and the Appellant had the right to withdraw his consent at any time. Constable McLaughlin further testified that he did not tell the Appellant that if he did not sign the form he would get a search warrant. Constable McLaughlin explained to the Court that he had options and he did not know how he would have proceeded if the Appellant had declined to sign the form.
+[10] In cross-examination Constable McLaughlin explained that he did not use the standard consent form, but had created his own form to simplify the procedure. Unlike the standard form, the form used by Constable McLaughlin does not specify what specific items that the officer would be looking for but stated as follows: [Exhibit A-1]
+I FULLY UNDERSTAND THAT IF EVIDENCE OF AN OFFENCE IS FOUND, THAT THE EVIDENCE IS SUBJECT TO SEIZURE AND I MAY BE CHARGED AND PROSECUTED FOR CRIMINAL OFFENCES ARISING FROM THE DISCOVERY.
+[11] At trial the Appellant testified that he did not read the form and that when he signed the form he was nervous and scared. The Appellant further testified that he believed that whether or not he signed the form his car would be searched and that he believed if he consented he would be able to leave immediately after the search.
+The Reasonableness of the Search
+[12] There are two issues with respect to this first search:
+1. Whether there was an informed consent to search; and
+2. Whether the Appellant was detained such that he should have been afforded his rights to counsel.
+[13] A "warrant search and seizure" is prima facie unreasonable under section 8 of the Charter. As a consequence, the burden is on the party wishing to justify the search - here the Respondent.[2]
+[14] I do not accept the Appellant's testimony that he was nervous and scared. I believe that these comments were not contemporaneous feelings or statements but self-serving afterthoughts. Moreover, I find it unlikely that the Appellant, who had managed both a pizza business and a car wash, did not read the form before he signed it. Conversely, I found Constable McLaughlin to be forthright and credible in giving his evidence. I accept that he explained to the Appellant the contents of the form and that the Appellant understood the consequences of signing the form.[3] The fact that the Appellant understood the consequences of signing the form is confirmed by the testimony of Sergeant Tom Janisch who recalled that at the RCMP station, when he explained what the search warrant was, Mr. Mohammadi asserted that the officer did not need one because he had already signed a [consent to search] form the previous day.
+[15] I am satisfied that the Respondent has demonstrated that the Appellant decided to relinquish his "... constitutional right with full knowledge of the existence of the right and an appreciation of the consequences of relinquishing that right ...". It was not necessary for the Appellant to talk to a lawyer to be aware of his options as the form and the explanation were sufficient. I find that the consent form, which was explained to the Appellant, clearly indicated that the Appellant could be charged if anything that was evidence of a crime was found in the vehicle.
+Additional Breaches
+[16] The Appellant further submits his rights under section 10 of the Charter were breached because he was not advised that he could phone a lawyer before signing the consent to search form. While it is true that when an individual is detained he is entitled to be advised on his right to counsel, it does not follow that in all cases where an individual is delayed that individual is detained. In R. v. Mann[4] Justice Iacobucci of the Supreme Court of Canada wrote:
+[T]he police cannot be said to "detain" within the meaning of ss. 9 and 10 of the Charter, every suspect they stop for purposes of identification, or even interview. The person who is stopped will in all cases be "detained" in the sense of "delayed", or even "kept waiting". But the constitutional rights recognized by ss. 9 and 10 of the Charter are not engaged by delays that involve no significant physical or psychological restraint. ...
+[17] Here the Appellant's vehicle was legally stopped for a moving infraction. While Mr. Malecky was being warned of the speeding violation Constable McLaughlin asked the Appellant, who was in the passenger seat of his own vehicle, if he would authorize the search of his vehicle. I find that the brief discussion between the Appellant and Constable McLaughlin did not constitute a detention as there was no significant physical or psychological restraint of the Appellant. I do not accept the Appellant's testimony that he was nervous and scared or that he believed he could not leave with his vehicle. The right to counsel only arises on detention. Thus, in situations where an accused is not detained, a right to counsel cannot be violated.[5]
+Remedy
+[18] While I have found that there was no breach, I will address the Appellant's arguments as to the appropriate remedy if one had occurred. If this Court had found that a breach occurred it would be necessary to look at the nature of the breach and determine the appropriate remedy. In doing so, it is necessary to briefly address the subsequent actions of the RCMP officers and CCRA officials to determine the extent of any breaches of the Appellant's Charter rights.
+[19] It is common knowledge that there are different standards for search and seizure for the purposes of criminal prosecution and for the purpose of civil enforcement of the Income Tax Act.[6] Thus, it is conceivable that the evidence might be inadmissible for purposes of a criminal prosecution, but admissible for purposes of a civil trial.[7] Such a determination would require an examination of the impugned evidence and the method by which it was obtained, an inquiry into the seriousness of any Charter breach and a consideration of whether the evidence was already in possession of the Crown.
+[20] In R. v. Collins,[8] a criminal case, the Supreme Court of Canada grouped the circumstances to be considered under subsection 24(2) into three categories: (1) the effect of admitting the evidence on the fairness of the trial; (2) the seriousness of the police's conduct; and (3) the effect of excluding the evidence on the administration of justice.[9] These principles have been used in cases dealing with the Income Tax Act.[10]
+[21] Since Collins, the Supreme Court of Canada expanded the analysis in respect of the fairness of trial. In R. v. Stillman[11] the Court reaffirmed that when the non-conscriptive evidence is obtained due to a breach the only relevant question is the effect of excluding the evidence on the administration of justice.[12]
+[22] Non-conscriptive evidence was distinguished from conscriptive evidence as evidence that was there before the breach and would have been available to the police without the breach. In Stillman the Court described such non-conscriptive evidence as evidence where the "accused was not compelled to participate in the creation or discovery of the evidence (i.e. the evidence existed independently of the Charter breach in a form useable by the state)".[13]
+[23] In the case at bar, the evidence in question - namely the cash and documents - is clearly non-conscriptive evidence for the evidence existed independently of the Charter breaches. As a result, it would only be necessary to consider the seriousness of the Charter breach. In the oft quoted passage from R. v. Therens,[14] LeDain J. addressed this key issue:
+The relative seriousness of the constitutional violation had been assessed in the light of whether it was committed in good faith, or was inadvertent or of a merely technical nature, or whether the action which constituted constitutional violation was motivated by urgency or necessity to prevent the loss or destruction of the evidence.
+[24] In this case Constable McLaughlin exhibited good faith in seeking consent for the search. The Appellant signed the form and by his own admission indicated where the bag of marijuana and additional cash was hidden after he was specifically asked for such information. In addition, once Constable McLaughlin discovered the marijuana cigarette on the floor of the car he arrested the Appellant, read him his rights and initiated a search incident to arrest. When it was determined that the Appellant would be held at the station Constable McLaughlin seized the vehicle and brought it to the Broadview detachment for a further search if a warrant was obtained. If there was not sufficient informed consent because the form lacked the specificity or the Appellant did not read the form, the breach was an inadvertent and technical breach. In short, I believe that Constable McLaughlin acted in good faith and that excluding the evidence under these circumstances would bring the administration of justice into disrepute.
+[25] As noted by the Appellant, if the first search was unreasonable, the second search at the station, which was premised on information obtained in the first search, must also be found to be unreasonable.[15] Beyond the two searches the Appellant asserted that the CCRA's course of conduct caused additional infringements of his Charter rights. Specifically, he submitted that the CCRA auditor, Mr. Adams, inappropriately used section 231 of the Income Tax Act as an aid for establishing penal liability; and Mr. Tobin failed to supply all the relevant information in the Affidavit to support the Jeopardy Order which permitted the Crown to continue to retain the Appellant's funds.
+[26] I am unable to accept either of these claims on the evidence presented at trial. Mr. Adams testified that he was involved in a civil audit of the Appellant, not a criminal investigation. He noted that there was a potential that a net worth adjustment could result in a criminal investigation, but at the outset it was a civil investigation. The Appellant relied on R. v. Jarvis[16] for the proposition that:
+"... where the predominant purpose of a particular inquiry is the determination of penal liability, CCRA officials must relinquish the authority to use the inspection and requirement powers under subsections 231.1(1) and 231.2(1)".
+It is, however, important to note that in the following paragraph Justice Iacobucci and Justice Major, writing for the Court, clarified this statement and noted that "the mere existence of reasonable grounds that an offence may have occurred is by itself insufficient to support the conclusion that the predominant purpose of an inquiry is the determination of penal liability."
+[27] I am satisfied from Mr. Adams' testimony that his primary purpose in viewing the documents at the RCMP detachment was to establish a net worth assessment for a civil audit. It is irrelevant, in my opinion, that Mr. Adams subsequently swore an affidavit to support a warrant to search the Appellant's records pursuant to subsection 490(15) of the Criminal Code.
+[28] Counsel for the Appellant maintained that Mr. Tobin failed to make full and frank disclosure in respect of the Jeopardy Order obtained on February 17, 2000. Specifically he was concerned that Mr. Tobin did not advise the Court that he had been informed that the charges against Mr. Mohammadi were to be stayed. Unfortunately, the Appellant has not provided sufficient evidence to determine this allegation as Mr. Tobin's complete Affidavit is not before this Court.
+Net Worth Assessments
+[29] The Minister has relied on net worth calculations to calculate the Appellant's income. Authority for using the net worth calculation as the basis of assessment is found in subsection 152(7) of the Act. The section states:
+152. (7) The Minister is not bound by a return or information supplied by or on behalf of the taxpayer and, in making an assessment, may, notwithstanding a return or information so supplied or if no return has been filed, assess the tax payable under this Part.
+[30] In Hsu v. The Queen[17] Desjardins J.A. confirmed the validity of such assessments and indicated that the burden was on the Appellant to disprove the Minister's assumptions. At paragraph 29 Desjardins J.A. stated:
+... The net worth method is premised on the assumption that an appreciation of a taxpayer's wealth over a period of time can be imputed as income for that period unless the taxpayer demonstrates otherwise (Bigayan). Its purpose is to relieve the Minister of his ordinary burden of proving a taxable source of income. The Minister is only required to show that the taxpayer's net worth has increased between two points in time. In other words, a net worth assessment is not concerned with identifying the source or nature of the taxpayer's appreciation in wealth. Once an increase is demonstrated, the onus lay entirely with the taxpayer to separate his or her taxable income from gains resulting from non-taxable sources (Gentile v. The Queen, [1988] 1 C.T.C. 253 at 256 (F.C.T.D.)).
+[31] In the case at bar, the net worth assessments are based on the funds and the documents obtained in the search. The sum of $100,000.00 of the amount found in the Appellant's vehicle was included in the Appellant's income in the net worth assessments. Beyond this cash the assessments also included a number of other amounts that were purportedly lent to the Appellant for various reasons including $15,000.00 from Mr. Karbalai and $14,500.00 or $15,000.00 from Mr. Malecky for the planned purchase of Yomin Catering Steakhouse.
+[32] During the roadside search of the vehicle Constable McLaughlin and Constable Saunders found a total of $7,500.00 in the luggage and 11 bricks of bills in Canadian $20.00, $50.00 and $100.00 denominations. The bricks of cash were taped by "duct tape" together and hidden in two places in the vehicle. Five bricks of cash were hidden behind a towel between the fender of the car and the car battery. After the first five bricks were found the Appellant admitted that there were a further six bricks in the back seat of the car.
+[33] Constable McLaughlin testified that after they found the first $7,500.00 in cash the Appellant apparently pulled out a bank book to show him that it was not odd for him to have so much cash as he had a large amount of cash elsewhere - $32,000.00. The Appellant also told him that he had earned and saved his money when he was working. In cross-examination the Appellant admitted that he had told the officer that he had saved the money from his work.
+[34] The Appellant testified at the trial that the majority of money had been entrusted to him by his family who was still in Iran. He explained that his parents had given him money when they could because they did not trust the banks in Iran. The Appellant said that before he came to Canada, the Iranian government had seized his family's property and money. He stated that he had been given not only Canadian dollars, but also substantial sums in German Marks and American dollars. He explained that because of this prior experience, and his family's reliance on him protecting the funds, he preferred to keep the money with him rather than in a bank. He further testified that he distrusted all banks.
+[35] When questioned about a Canadian Imperial Bank of Commerce account where large sums of money were routinely deposited and removed he stated that he had opened the account for his fiance's mother's business which he managed. The business was a car wash in Edmonton known as "Splash and Dash". He testified that a number of visa cash advances and expenses between November 1994 and July 1998 were for the business. He provided limited corroboration in the form of a letter from Sally Munro; however Mr. Damguard, the CCRA auditor, accepted that the account was used for business and reduced the net worth assessment by over $12,000.00.
+[36] Under cross-examination the Appellant could not explain why, in a sworn statement to the Canadian Mortgage and Housing Corporation, he stated that he only had assets of $800.00. His comments regarding the mortgage and purported business plans (including the purchase of a steakhouse and radio station) were also, in my opinion, unsatisfactory.
+IV. BURDEN OF PROOF AND CONCLUSIONS:
+[37] The burden is on the Appellant to prove that the Reassessments are incorrect. In Dowling v. The Queen,[18] Lamarre J. stated:
+The appellant has the burden of showing that the basis of the Minister's assessment is wrong or that there are errors in certain items of the assessments [...] Therefore, when a taxpayer is faced with a reassessment based on a net worth calculation, he can either try to present evidence enabling the Court to determine his real net income or he can seek to prove that the net worth assessment is wrong.
+[38] The Appellant provided no credible evidence to undermine the net worth assessments or to support his claim that the money that was in the vehicle was not his own. Evidence was led which undermines the theory that the Appellant distrusted banks. The Appellant had a student loan and co-signed a mortgage through a bank account. Moreover, the Appellant also had a personal account at Canada Trust, a credit card and an account with the Canadian Imperial Bank of Commerce where large sums of money were routinely deposited and removed. In respect of the alleged loans he provided only unsworn statements from Mr. Malecky and Mr. Karbalai. I find it remarkable that the Appellant, who was represented by competent counsel, did not provide sufficient evidence to corroborate his claim. He could have called individuals as to the purported loans or led evidence which indicated he imported the cash into Canada through a customs receipt or the testimony of his brother.
+[39] In my opinion, the Appellant has not satisfied the onus of proving that the Reassessments were incorrect.
+Penalties and NormalReassessment Period
+[40] The Appellant was assessed penalties pursuant to subsection 163(2) of the Act for the 1995 through 1998 taxation years. Subsection 163(2) states:
+163. (2) Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a "return") filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty ...
+[41] Subsection 163(3) requires that the Minister has the burden of establishing the facts justifying the assessment of the penalty. The Minister has met that burden as the discrepancy between the Appellant's income as reported by the Appellant and found by the Court are substantial. I find that the Appellant deliberately neglected to include these amounts in his income. As such, the Appellant is liable for the penalties for the 1995 through 1998 taxation years.
+[42] I also find that the 1995 taxation year was correctly assessed beyond the normal reassessment period because subsection 152(4) of the Act allows such action.
+[43] The appeals are dismissed, with costs.
+Signed at Vancouver, British Columbia, this 9th day of September 2005.
+"L.M. Little"
+Little J.
+CITATION:
+2005TCC580
+COURT FILE NO.:
+2001-2761(IT)G
+STYLE OF CAUSE:
+Morteza Mohammadi and
+Her Majesty the Queen
+PLACE OF HEARING:
+Edmonton, Alberta
+DATES OF HEARING:
+November 29-30, 2004 and
+March 1-2, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice L.M. Little
+DATE OF JUDGMENT:
+APPEARANCES:
+Counsel for the Appellant:
+Sid M. Tarrabain, Q.C.
+M. Ali Moughel
+Counsel for the Respondent:
+Louis A.T. Williams
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Sid M. Tarrabain, Q.C.
+Firm:
+Tarrabain, O'Byrne and Company
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] He noted that the cover was often torn from the package and used as a filter for marijuana cigarettes.
+[2] Hunter v. Southam Inc., [1948] 2 S.C.R. 145.
+[3] As required by R. v. Head (1994), 52 B.C.A.C. 121 and R. v. Kennedy (2000), 147 C.C.C. (3d) 144, modifying the test set out in R. v. Wills, 70 C.C.C. (3d) 529 (Ont. C.A.).
+[4] 2004 S.C.J. No. 49 at para. 19.
+[5] R. v. Bottle, [2004] B.C.J. No. 2642 (B.C.S.C.) interpreting R. v. Debot (1989), 52 C.C.C. (3d) 193 (S.C.C.).
+[6] R. v. McKinlay Transport, [1990] 1 S.C.R. 627.
+[7] Donovan v. Canada, 2000 DTC 6411.
+[8] [1987] 1 S.C.R. 265.
+[9] See also R. v. Law, [2002] 1 S.C.R. 227.
+[10] See for example, Donovan at footnote 7; McKinlay Transport at footnote 6; O'Neill Motors Ltd. v. Canada, 96 DTC 1486; Warawa v. Canada, 2003 DTC 1399.
+[11] [1997] 1 S.C.R. 607. (Panel of seven, McLaughlin J. dissented).
+[12] Ibid., at paragraph 115 Cory J. wrote:
+Where evidence is determined to be non-conscriptive, its admission generally will not render the trial unfair and the court should proceed to consider the seriousness of the violation. However, where evidence is found to be of a conscriptive nature the court must proceed to the second stop, which involves an assessment of whether the evidence would have been discovered in the absence of (but for) the Charter violation.
+[13] Ibid., at para. 77.
+[14] [1985] 1 S.C.R. 613 (LeDain J.).
+[15] R. v. Navel, [2001] A.J. No. 375.
+[16] R. v. Jarvis, (2003) 3 S.C.R. 757 at para. 88.
+[17] 2001 DTC 5459 (F.C.A.).
+[18] 96 DTC 1250 at p. 1251.

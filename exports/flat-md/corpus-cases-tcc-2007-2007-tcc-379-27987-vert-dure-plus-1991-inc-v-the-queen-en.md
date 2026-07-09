@@ -1,0 +1,375 @@
+---
+title: "Vert-Dure Plus 1991 Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27987/index.do"
+last_modified: "2007-09-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 379"
+citation2: ""
+neutral_citation: "2007 TCC 379"
+decision_date: "2007-09-14"
+language: "en"
+item_id: "27987"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1769
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:43:45.971000+00:00"
+cases_cited_count: 12
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "87913d0fc4584bad1dca7726c452c896354e971ae7d9c033176e02c51e15bf39"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Vert-Dure Plus 1991 Inc. v. The Queen
+
+- Citation: 2007 TCC 379
+- Decision date: 2007-09-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1769, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vert-Dure Plus 1991 Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-09-14
+Neutral citation
+2007 TCC 379
+File numbers
+2003-4367(GST)I
+Judges and Taxing Officers
+Pierre Archambault
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2003-4367(GST)I
+BETWEEN:
+VERT-DURE PLUS (1991) INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard November 1, 2 and 3, 2005, and February 13, 2007 at Montréal, Quebec and April 23, 24 and 25, 2007, at Rimouski, Quebec.
+Before: The Honourable Justice Pierre Archambault
+Appearances
+Agents for the Appellant:
+Bernard Desrosiers
+Bernard Brosseau
+Counsel for the Respondent:
+Michel Morel
+____________________________________________________________________
+JUDGMENT
+The appeal of the assessment established for the period of October 1 1991, to December 31, 1996, under the Excise Tax Act and dated March 13, 1998 is dismissed, in accordance with the attached Reasons for Judgment.
+Signed at Georgeville, Quebec, this 14th day of September 2007.
+"Pierre Archambault"
+Archambault J.
+Translation certified true
+on this 2nd day of November 2007
+Elizabeth Tan, Translator
+Citation: 2007TCC379
+Date: 20070914
+Docket: 2003-4367(GST)I
+BETWEEN:
+VERT-DURE PLUS (1991) INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Archambault J.
+[1] Vert‑Dure Plus (1991) inc. (Vert‑Dure) is appealing from an assessment established under the Excise Tax Act (the Act or ETA) by the Ministère du Revenu du Québec (MRQ) as an agent of the Minister of National Revenue (Minister). This assessment dated March 13, 1998, targets the period of October 1, 1991, to December 31, 1996 (relevant period). The MRQ audit led to the following adjustments: goods and services tax (GST) overpaid, $4,277.22; reduction of input tax credits (ITC), $7,106.34; leading to a net tax due of $2,829.12. The Minister required interest of $1,168.41 and imposed a penalty of $1,343.19 under section 280 of the Act.
+[2] At first, the appeal by Vert‑Dure was heard at the same time as the appeals by Bernard Desrosiers and the companies Les Gazons du Bas St‑Laurent inc. (Gazons) and Les Pelouses de l’Est inc. (Pelouses) (other appeals). Each of these appeals must be handled separately, but the evidence presented in one of the cases could be used in the others. Unfortunately, the hearing and the management of these appeals became very time-consuming. First, the notice of appeal by Vert‑Dure, undated but produced in court December 2, 2003, was prepared by a lawyer, Louis Sirois. In this notice, Vert‑Dure claims that it had the right to ask for the cancellation of the assessment for the reasons mentioned in the notice of objection. One of these reasons states that Mr. Desrosiers experienced "intense emotional stress" caused by family problems, which would explain that he was unable to provide the relevant documents requested by the MRQ auditor. It also mentions a major fire that occurred in July 1995, which destroyed many documents, and a theft that occurred in September 1996 in the administrative offices, which led to the disappearance of many others. It states that [translation] "Mr. Desrosiers will work…to provide [the auditor] with the required information." Moreover, the MRQ is criticized for not having taken into consideration the [translation] "vocation of the individuals and corporations in question," namely farmers or forestry workers. It claims that the revenue and expenses are attributable to agricultural or forestry activities. Lastly, it make the statement [translation] "since the company was no longer in operation," Vert‑Dure having terminated its activities in 1992.
+[3] Then, there was a change of counsel and the response to the Reply to the Notice of Appeal signed by Jean Dury. The following statements are from paragraphs 28, 29 and 30 of this response:
+[translation]
+28. The only issue in question is based on paragraph 306 (b) of Part IX of the ETA that states an appellant may appeal to the Tax Court of Canada to vacate an assessment if one hundred and eighty days have elapsed after the filing of the notice of objection and the Minister has not notified the person that the Minister has vacated or confirmed the assessment or has reassessed. Whereas the legal deadline is six months, it has now been 88 months and the MRQ has not rendered a decision on the notice of objection filed by the Appellant;
+29. The preceding is the core of the dispute and not an assumed confirmation that the Appellant had to pay additional GST ITC in the amount of $2,829.12 when these amounts were never reimbursed. In addition to having paid GST CTI to its suppliers, the Appellant would pay the MRQ twice for the same amount plus penalties and interest;
+30. It denies paragraph 13 of the Respondent's reply. The only provision on which the Appellant relied is paragraph 306(b) of Part IX of the Excise tax Act. The entire case is limited to this paragraph.
+[Emphasis added.]
+However, it challenges the right of the Ministère to vacate GST remittances claimed for periods subsequent to the cancellation date of Vert-Dure's GST registration, because no operations were carried out after the end of 1991 (paragraph 23 of the Response): [translation] "the Appellant has the right to claim that the ITC amount of $4,277.22 should be reimbursed."
+[4] Lastly, in his submissions, counsel for Vert‑Dure asks that in addition to vacating the assessment and obtaining an order requiring the Ministère to reimburse CTI in the amount of $4,277.22 to Vert-Dure, the Ministère cease all tax collection measures with financial institutions and any other third party and it be ordered to return to Vert-Dure [translation] "all amounts in compensation the Ministère would have earned from the reimbursement amounts due to [Vert-Dure] by third parties, plus interest."
+[5] The appeal hearing for Vert-Dure and other appeals began on November 1, 2005, and lasted three days without much progress: only the appeals of Vert‑Dure and Mr. Desrosiers were addressed, and only partially. Since the amount for Vert-Dure was only $2,829.12, and its accountant did not understand the adjustments the Ministère made to the ITC, or the calculation of interest, the amount of which seemed astronomical, I granted a three-month timeframe for Vert-Dure and the other appellants to obtain the necessary specifications and even to negotiate a settlement, if only partial.
+[6] All these expectations were in vain. Nothing was accomplished during the stay. Because Mr. Desrosiers was unavailable during the summer period and the accountant had health complications, the Court could not resume the appeal hearing for Vert-Dure before February 13, 2007, and this resumption in Montreal only lasted one day. A recovery agent from the Ministère presented a statement of account for Vert-Dure, submitted as Exhibit I-3, which included calculations justifying an unpaid balance of $21,631.24 to December 13, 2005. According to the agent's explanations, part of the significant accumulation of interest and penalties comes from a $3,427.06 payment Vert-Dure made by NSF check on November 5, 1991. Additionally, the recovery agent explained that many adjustments made to the assessment were to vacate the GST amounts that the Ministère may been calculated as being required according to Vert-Dure's tax reports, in particular regarding the quarter ending in March 1994 (the above-mentioned $4,277.22), and that in its assessment, the auditor in her assessment waived the taxes payable by Vert-Dure in the circumstances described above. Even though the Court does not have jurisdiction to handle recovery issues or in particular, to order the Ministère to "cease all tax collection measures with financial institutions and any other third party," the statement of account submitted to evidence was produced for the purpose of clarifying Vert-Dure and its advisors. However, the only issues the Court may consider are those raised by the assessment itself, namely the issues regarding the adjustments made to the March 13, 1998, assessment.
+[7] Considering the many delays that interrupted the hearing of this an the other appeals, I decided to first finish the hearing of the Vert-Dure appeal (which concluded in Rimouski on April 23, 24 and 25, 2007), in order to be able to render a decision in this case, in the hope that it would encourage more efficiency in the other appeals, the hearings of which cannot be held before November because of Mr. Desrosiers' unavailability.
+Factual background
+[8] Vert‑Dure operated a lawn-maintenance company in the Sainte-Flavie region in the Lower St. Lawrence during part of the relevant period. It was incorporated under Part IA of the Companies Act on April 18, 1991. As of September 15, 1994, its founder, Mr. Desrosiers, was the only shareholder with more than 100% of the shares, the administrator, president and secretary (Exhibit I-2). Vert‑Dure had been registered for the purposes of the Act since April 18, 1991, when its commercial activities started.
+[9] Vert‑Dure produced its GST returns on a quarterly basis. The Ministère's auditor showed that only the computerized statements with the production dates of the GST returns were available, because the GST returns produced by Vert-Dure had been destroyed.[1] According to these statements, the first return was produced July 31, 1991, for the quarter ending June 30, 1991. The statement for the one ending September 30, 1991 was produced November 5, 1991. Then, Vert-Dure stopped regularly filing its GST returns. It was only on November 4, 1994 that the returns were filed for the quarters ending December 31, 1991, and March 31, 1992, respectively. The following return was only filed on December 22, 1995, and that was for the quarter ending March 31, 1994. The last GST return was filed on January 22, 1997; it was to amend prior returns, namely those for the quarters ending December 31, 1991, and March 31, 1992,[2] but also included the initial GST returns for the quarters from September 1992 to December 1996, excluding that ending March 31, 1994, for which a return was filed on December 22, 1995.[3] Contrary to Vert-Dure's claims, it is clear it was negligent, at the very least, regarding filing a return for the period ending December 31, 1991, because it had $457.13 ($577.41 - $120.28) of net GST to remit and it only filed its return on November 4, 1994.
+[10] As for Mr. Desrosiers, he denies that Vert-Dure filed GST returns for the quarters later than 1991, because its activities had ceased from January 1992 following seizures of its bank account, equipment and client accounts. In support of this claim, Vert‑Dure produced certain bank statements from the Caisse populaire for 1993 and 1994,[4] which seem to show only deposits by Mr. Desrosiers to reimburse a $30,000 loan he had taken out to [translation] "purchase the Vert-Dure Plus inc. division and the Herbus franchise." The loan was granted by the Caisse populaire Desjardins de Mont‑Joli on July 11, 1991. Attached to a June 27, 1996, letter that the Business Services Advisor wrote to Mr. Desrosiers was a photocopy of banking operations for these two years; the advisor reminded him that on December 6, 1994, they had agreed to [translation] "transfer the balance of loans for $32,357.83 to his personal name." (See Exhibit A-31 in Bernard Desrosier's file, pages 50, 53 and 54). As a result, according to Mr. Desrosiers, he did not have to file a GST report after Vert-Dure ceased its activities.
+[11] However, the accounting firm Mallette Maheu produced the financial statements as of November 2, 1994, that indicated a 12-month fiscal year ending December 31, 1992 (whereas the 1991 fiscal year only had eight months) (Exhibit A-3). The income statements for the 1992 fiscal year show gross sales of $100, sales costs of $14,326, operation fees of $45,569, and a net loss of $59,795. Among the operation fees there are bad debts of $3,239. Additionally, the house balance sheet of December 31, 1992, that Mallette Maheu provided to the Ministère on September 6, 1996, shows tax debts of GST payable for $4,213.34 payable and provincial sales tax of $63.88, for a total of $4,277.22.[5] This amount corresponds to the amount indicated in the TST report for the quarter ending March 31, 1994, produced December 22, 1995.[6] Moreover, a closing statement dated January 1, 1993, was prepared internally.
+[12] During her testimony, the Ministère's auditor explained that she had begun her audit on May 2, 1997, when she tried to contact Mr. Desrosiers by phone. Since the phone line was not in service, she sent a registered letter on May 20, 1997, which was returned because the addressee had refused it.
+[13] On July 2, 1997, Mr. Desrosiers signed an application form to cancel or modify a registration because of the [translation] "closure since December 31, 1991." This form is incomplete because there is no indication in part C, "Request." It seems the form had been completed by that of September 8, 1997, which included, at the section "Request," July 31, 1992, as the date the cancellation or modification of the registration came into effect.[7]
+[14] On August 4, 1997, the auditor contacted Guy Tremblay, a representative of Vert-Dure, to arrange a meeting on August 18, 1997. This meeting was postponed to September 15, 1997. In her letter, the auditor had asked that relevant documentation be prepared to allow her to carry out her audit.
+[15] Before the September 15 meeting, the auditor was informed that the documents required were not available. However, she insisted on proceeding using what they had. During the meeting, she was given certain accounting books for Mr. Desrosiers' business and for some of his companies, including Pelouses and Gazons. The auditor confirmed that she was never given documentation regarding Vert-Dure despite many requests on her part. The only document provided for Vert-Dure that she could consult was a document sent by Mallette Maheu to another auditor at the Ministère one year earlier, on September 6, 1996, before her own audit. It was a house balance sheet for December 31, 1992, and excerpts from the general ledger, including accounts 255 and 256 showing the GST and QST payable. A few weeks later, on November 1, 1996, the same accounting firm provided another auditor with another excerpt from the general ledger, the account 113 indicating the GST and QST receivable for the fiscal year ending December 31, 1992.
+Analysis
+[16] During the audit, the auditor gave retroactive effect to the application to cancel the registration, from July 31, 1992. It then cancelled the $4,277.22 declared as GST to remit regarding the quarter ending March 31, 1994. Again, this amount appeared in the report received by the Ministère on December 22, 1995 and the adjustment is to Vert-Dure's advantage. (See Exhibits I-1 and I-7).
+[17] The adjustments she made to the ITC can be summarized as follows:
+$5,533.74
+ITC refused for the period following the "cancellation of the registration"
+$1,293.11
+ITC refused for lack of supporting documents
+$279.49
+ITC for insurance premiums (exempt supply) refused
+$7,106.34
+[18] The $5,533.74 represents the ITC requested for quarters following the dater the cancellation of registration came into effect, namely $4,304.34 for the March 31, 1994, quarter, $78.82 for that of December 31, 1993, $71.88 for that of June 30, 1993, and $1,078.70 for that of December 31, 1992. There is therefore no basis for challenge regarding this adjustment because one must be registered in order to be entitled to ITC (s. 169 ETA[8]).
+[19] As for the $1,293.11 adjustment, it targets the quarter ending December 31, 1991, and the ITC were refused by the auditor because Vert-Dure did not provide any supporting documents with the prescribed information, including a valid GST number.[9] Lastly, the auditor refused the ITC of $279.49 requested by Vert-Dure for insurance premiums for the quarter ending June 30, 1992. At the hearing, Mr. Desrosiers and his accountant, Bernard Brosseau, claimed that they never asked for this ITC amount because it is an exempt supply. However, the auditor showed that the amount had actually been requested for the quarter ending June 30, 1992, as Exhibit I‑7 showed and the analysis of account 113 (GST receivable) from Vert-Dure's general ledger (Exhibit I‑5). This is an excerpt from that account:
+03-10-92
+Banque Nationale (master)
+506
+J92
+5.34
+−
+1,580.94
+04-10-92
+Société Des Postes Canada
+507bnc
+J121
+12.25
+−
+1,593.19
+04-20-92
+Québec-Téléphone
+Bcn
+J122
+13.14
+−
+1,606.33
+05-10-92
+Groupe Presse Bellavance
+122916
+J152
+1.72
+−
+1,608.05
+06-01-92
+A S H O Q
+4785
+J161
+−
+56.00
+1,552.05
+06-01-92
+Les Assur Kau Deschamplain
+Ver0893
+J165
+179.05
+−
+1,731.10
+06-01-92
+Les Assur Kau Deschamplain
+71407
+J166
+46.89
+−
+1,777.99
+06-01-92
+Les Assur Kau Deschamplain
+71406
+J167
+53.55
+−
+1,831.54
+[20] The gap between the debit balance of this account at the end of the quarter ending June 30, 1992, at $1,831.54 and that at the end of the preceding quarter, at the end of March 1992, at $1,580.94 is $250.60, the ITC amount on the GST report for the quarter ending June 30, 1992, as shown in Exhibit I-7. Among the ITC for supplies that appear in account 113 are those for insurance. As a result, I find that, contrary to the statements by Mr. Desrosiers and his accountant, the ITC of $279.49 ($179.05 + $46.89 + $53.55) were in fact requested by Vert‑Dure for the insurance benefits and the auditor rightly refused them.
+Paragraph 306(b) of the Act
+[21] In its supplemental arguments (written notes) submitted to the Court on May 10, 2007,[10] Vert‑Dure again states that [translation] "the sole reason for the appeals by each and every one of the four appellants is the lack of response by the Minister of Revenue of Québec to the notice of objection filed around June 13, 1998[11] to which a response should have been presented within 180 days, paragraph 306(b) of the Act." Vert‑Dure adds, [translation], "for us, it is a question of principle that the minister did not reply within the required deadlines set out at paragraph 306(b) and this goes for the four cases before Archambault J."
+[22] The core of the arguments presented by Vert‑Dure to have the assessment vacated is essentially that, following the challenge, the assessment was not amended within the mandatory period and that, when this period expired, it could address the Court to have the assessment vacated. This position must be qualified. This right is a right to appeal to the Court not a right to necessarily have the assessment vacated by the Court.
+[23] Section 306 of the Act states:
+306. Appeal – A person who has filed a notice of objection to an assessment under this Subdivision may appeal to the Tax Court to have the assessment vacated or a reassessment made after either
+(a) the Minister has confirmed the assessment or has reassessed, or
+(b) one hundred and eighty days have elapsed after the filing of the notice of objection and the Minister has not notified the person that the Minister has vacated or confirmed the assessment or has reassessed,
+but no appeal under this section may be instituted after the expiration of ninety days after the day notice is sent to the person under section 301 that the Minister has confirmed the assessment or has reassessed.
+[Emphasis added.]
+[24] It is important to first point out that section 306 gives the person who filed a notice of objection the opportunity to have the assessment vacated or to have a reassessment, therefore not necessarily a vacation. Paragraphs 306 (a) and (b) are only conditions for carrying out the right to appeal before the Court. To appeal, in addition to having produced a notice of objection, either the assessment must have been confirmed by the Minister or 180 days must have elapsed after the filing of the notice of opposition.[12] Once these conditions have been met, the Court may decide to grant either a vacation or a reassessment when such a result is justified, otherwise the appeal is simply dismissed, in accordance with the provisions of subsection 309(1) of the Act, which states:
+309. (1) The Tax Court may dispose of an appeal from an assessment by
+(a) dismissing it; or
+(b) allowing it and
+(i) vacating the assessment, or
+(ii) referring the assessment back to the Minister for reconsideration and reassessment.
+[25] Even if Mr. Desrosiers claims the opposite, Vert-Dure's argument is similar to the one he raised when he presented the pre-trial motion to have his own assessment vacated before Angers J. However, this argument was dismissed by the judge in an order rendered December 23, 2003. In Desrosiers v. The Queen, 2003 TCC 859, Angers J. stated at paragraphs 14 and 15:
+14 Since Stollar, there have been other decisions dealing with the same issue, including Ginsberg v. Canada, [1996] 3 F.C. 334, in which the Federal Court of Appeal found that a breach of the duty to assess tax with "all due dispatch" does not mean that the assessment will be vacated. The same reasoning applies in this case, even though the provisions of the Act are at issue here. In this case, the Minister had already made an assessment; it is only the Minister's consideration of the objection that must be made with all due dispatch.
+15 Another distinction in this case is that the Appellant has the right to appeal to this Court if 180 days have elapsed after the filing of the Notice of Objection and the Minister has not notified the person that the Minister has vacated or confirmed the assessment or has reassessed. Thus, the Appellant is permitted to advance his case and be heard on the merits without waiting until the Minister has considered the Appellant's Notice of Objection. Finally, application of the provisions set out in section 299 of the Act will preclude the assessment under appeal in this case from being vacated.
+[26] Vert-Dure claims this order is not valid because the judge misunderstood the reason Mr. Desrosiers requested the assessment be vacated: his request was based on paragraph 306(b), not subsection 301(3),[13] of the Act. Moreover, Vert‑Dure claims that Angers J. relied on decisions it and the other appellants did not recall citing.
+[27] First, the judge using decisions they do not recall citing is not decisive. A judge is not required to limit his analysis of the law on decisions the parties presented. Next, it must be clear that paragraph 306(b) of the Act grants the right to address the Court directly in cases where confirmation from the Minister is slow in coming, whereas subsection 301(3) of the Act states the principle underlying paragraph 306(b), the duty of the Minister to act with all due dispatch to review the assessment after reception of the objection and then to vacate or allow it, or make a reassessment.
+[28] It is the duty to all due dispatch that forces the Minister to render a decision on the objection in the 180 days following the objection, and when Vert-Dure relies on paragraph 306(b) instead of subsection 301(3) of the Act, it is still claiming that the Minister did not act with due dispatch. Angers J. merely restated this principle. He rightly dismissed it, stating these two provisions and section 299 of the Act,[14] the application to vacate by Mr. Desrosiers and, in my opinion, his reasons apply to the appeal by Vert‑Dure.
+[29] It must also be noted that Gauthier J. had the same interpretation in Angell v. Canada (Minister of National Revenue) 2006 FC 1097. This decision addressed subsection 165(3) and paragraph 169(1)(b) of the Income Tax Act (ITA), which are provisions similar to subsection 301(3) and paragraph 306(b) of the Act. Gauthier J. stated:
+48 Once taxpayers have been assessed, they have two ways in which to challenge the merits of the assessment. They must first request an administrative review by filing a notice of objection. Ninety (90) days after the notice of objection has been filed, whether or not the administrative review has been completed, taxpayers may request a judicial review of the assessment by filing a notice of appeal with the TCC.
+49 In enacting paragraph 169(1)(b) of the Act and section 18.5 of the Federal Courts Act, Parliament gave the TCC exclusive jurisdiction to consider the merits of assessments (Walker v. Canada, [2005] F.C.J. No. 1952 (FCA) (QL); Addison & Leyen, supra, at paragraph 48). Once made, a decision by the Minister with regard to an objection is not subject to judicial review (Webster v. Canada, 2003 FCT 296, [2003] F.C.J. No. 1569 (CA) (QL), at paragraph 20).
+50 Although Parliament specifically indicates that the Minister must deal with notices of objection with due dispatch, the Act does not stipulate any specific consequences for failure to do so (Addison & Leyen, supra, at paragraph 41).
+51 Although taxpayers may appeal to the TCC on the merits of an assessment, the TCC may not take into account a failure by the Minister to comply with the obligation set out in subsection 165(3) of the Act in considering the merits of the assessment, or a decision by the Minister with regard to an objection (Addison & Leyen, supra, at paragraph 44).
+52 Before the Minister makes a decision, the Federal Court has jurisdiction to review the lawfulness of the administrative review process under section 18.1 of the Federal Courts Act. It may issue a writ of mandamus in order to force the Minister to make a decision, or issue a declaration that the Minister has failed to comply with the obligation to exercise due dispatch. In this regard, in Hillier v. Canada, 2001 FCA 197 (CA), the Federal Court of Appeal stated that the Minister may be required to take such a failure into account if a request to waive penalties and interest is made to the Minister under subsection 220(3.1) of the Act (see also Cole v. Canada (Attorney General), [footnote omitted] 2005 FC 1445, [2005] F.C.J. 1764 (QL); and Addison & Leyen, supra, at paragraph 41). In this context, declaratory relief could be useful for the taxpayers.
+53 The Federal Court retains jurisdiction to review other reviewable errors or failures to comply with the Minister’s obligation to act fairly (see, for example, Scott Slipp Nissan Ltd. v. Canada (Attorney General), 2004 FC 1096, [2004] F.C.J. No. 1327 (QL)).
+54 However, even though the Federal Court has jurisdiction to review the lawfulness of this administrative process, vacating an assessment or a reassessment is not an appropriate remedy for undue delay in dealing with an objection (Bolton v. The Queen, [1996] 200 N.R. 303 (FCA); James v. Canada (Minister of National Revenue-MNR), [2000] F.C.J. No. 2135 (CA) (QL), particularly paragraphs 11 to 21). From these decisions and from Addison & Leyen, supra, it appears that this situation is mainly due to the fact that Parliament has given taxpayers the tools they need to monitor the time periods within which the Minister is obliged to act; these tools include an appeal to the TCC and an application for mandamus.
+55 From these decisions, the Court understands that, if taxpayers decide that it is important for them to obtain an administrative decision, they have an opportunity to wait for more than 90 days before appealing to the TCC. However, in that case they must ensure that this delay in exercising their right of appeal does not cause them undue harm. As well, in this regard taxpayers are in a better position than the Minister, since normally they have available all the information they need to determine whether a delay can cause harm. In such cases, since it is taxpayers who manage these remedies, they may apply for mandamus or simply appeal to the TCC under paragraph 169(1)(a) of the Act.
+56 Thus, the statutory scheme allows for considerable flexibility. In addition to the remedies noted above, ordinary law also gives taxpayers the option of claiming damages, which may be equal to the amount of their assessment, when the Minister’s conduct constitutes abuse of power (see Obonsawin v. Canada, 2004 TCC 3, [2004] T.C.J. No. 68 (QL)).
+…
+74 According to the applicants, even though they clearly had the right to appeal under paragraph 169(1)(b) of the Act and the right to apply for mandamus well before 1998, the Court must, in determining the consequences of the Minister’s failure, take into account, not these rights, but rather the fact that, at the time the applicants finally decided to exercise their right of appeal, it was too late because this remedy had become theoretical, and they were never able to contest the merits of their assessments.
+75 If the Court were to adopt this reasoning, it would have to conclude that Parliament wanted to ensure that taxpayers who acted with due dispatch when confronted with the same failure by the Minister would necessarily have to debate the merits of their assessment before obtaining vacation of their assessments, while taxpayers who remained passive and did not make use of the tools available to them under the Act [footnote omitted] could obtain vacation of their assessments regardless of their merits and could thus deprive their fellow citizens of their contribution to the tax burden.
+76 In the Court’s opinion, it is plain and obvious that such a conclusion is illogical. The Court cannot, on the basis of the facts put forward by the applicants, decline to apply the Federal Court of Appeal case law that is binding upon it.
+[Emphasis added.]
+[30] It is also important to note what the Federal Court of Appeal wrote in Bolton, per Gauthier J.:
+2 The single issue raised is the alleged failure of the Minister to reconsider the Appellant's assessment "with all due dispatch" after receipt of a notice of objection as required by paragraph 165(3)(a) of the Income Tax Act, S.C. 1970-71-72, c. 63 as amended to 1985.
+165(3) Duties of Minister -- Upon receipt of a notice of objection under this section, the Minister shall,
+(a) with all due dispatch reconsider the assessment and vacate, confirm or vary the assessment or reassess, or
+...
+and he shall thereupon notify the taxpayer of his action by registered mail.
+3 In the case of The Queen v. Ginsberg (Court file A-242-94) decided last week, we held that Parliament did not intend that the Minister's failure to examine a return and assess tax "with all due dispatch", as required by subsection 152(1)1, did not deprive him of the statutory power to issue an assessment. The reasoning in that case applies with even greater force here: Parliament clearly did not intend that the Minister's failure to reconsider an assessment with all due dispatch should have the effect of vacating such assessment. If the Minister does not act, the taxpayer's recourse is to appeal pursuant to s. 169.
+[Emphasis added.]
+[31] It is clear from the comments by Madame Justice Gauthier in Angell and those by the Federal Court of Appeal in Bolton that having the Court vacate an assessment is not an appropriate remedy when there is failure to reply to a notice of objection within the 180-day deadline.[15] The remedy in such a case is simple: under the Act, taxpayers may address the Court and ask it to decide on the validity of the arguments the taxpayers raise against their assessments, and may do so without waiting for the Minister's reply to their objection. Another recourse is to file a motion for mandamus before the Federal Court of Canada.
+Sections 288 and 289 of the Act
+[32] Even if Vert‑Dure claimed that the only reason for its appeal was the Minister's failure to reply to its notice of objection within 180 days, it then presented a series of arguments based on the behaviour of the auditor in charge of the case. Its main complaint is that the auditor communicated directly with the Caisse populaire de Mont-Joli and the accounting firm Mallette Maheu for documents or information used to establish its assessment. In doing so, she exceeded her auditing powers.
+[33] This position is elaborated upon in Vert-Dure's written notes. First, it states that the auditor's identification card, produced as Exhibit I‑10, states she is:
+[translation]
+… person authorized to carry out the powers and duties set out at subsections 288(1) and (2) and 291(1)...except for the power of certification set out at subsection 291(1)…
+[34] Therefore, according to Vert‑Dure, the auditor's powers were limited to the indications at sections 288 and 289 of the Act. Vert-Dure then states:
+[translation]
+However, subsections 288(1) and 288(2) do not include the power to enter premises other than the place of a business under tax audit, operated by a person subject to the tax, or to communicate with third parties by phone, fax or other.
+Auditor Claire Desjardins admitted in her testimony that she communicated by phone with the Caisse populaire de Mont‑Joli and the accounting firm Mallette Maheu, and in the "Appellant's submissions," at Exhibit A-1, pages 95 to 103, we filed fax communications with various suppliers.
+All the information provided by a third party can therefore not be used by the auditor in the preparation of the notice of assessment and the effects of the auditor's actions could lead to the vacation of the assessments. (See our written arguments in the factum submitted to you on the application of sections 288 and 289 ETA).
+We submit that the auditor exceeded the power conferred on her under section 288 of the ETA. In our opinion, it is reasonable to find that the auditor should have used the additional remedies set out in the ETA, namely the letters of requirement Parliament included in section 289 of the ETA.
+Thus, the Ministry's conduct is a flagrant and unacceptable violation of the Appellant's rights discrediting the administration of justice, a gross miscarriage of justice.
+[Emphasis added.]
+[35] At the hearing, Vert‑Dure again stated that if the auditor had wanted the information or documents in the possession of a third party, she should have sent a notice in accordance with section 289 of the Act. By neglecting to send this notice, she exceeded her auditing powers when she communicated with the Caisse populaire de Mont‑Joli to ask for Mr. Desrosiers' statements of account. Mr. Desrosiers also claimed that this phone call to the Caisse populaire damaged his reputation.
+[36] First, Vert-Dure seems to have misunderstood the interpretation of sections 288 and 289 of the Act. These two provisions address different situations. Section 288 states the scope of the Minister's auditing powers in terms of the GST. This section states:
+288.(1) Inspections – An authorized person may, at all reasonable times, for any purpose related to the administration or enforcement of this Part, inspect, audit or examine the documents, property or processes of a person that may be relevant in determining the obligations of that or any other person under this Part or the amount of any rebate or refund to which that or any other person is entitled and, for those purposes, the authorized person may
+(a) subject to subsection (2), enter any premises or place where any business or commercial activity is carried on, any property is kept, anything is done in connection with any business or commercial activity or any documents are or should be kept; and
+(b) require the owner or manager of the property, business or commercial activity and any other person on the premises or in the place to give to the authorized person all reasonable assistance and to answer all proper questions relating to the administration or enforcement of this Part and, for that purpose, require the owner or manager to attend at the premises or place with the authorized person.
+(2) Where any premises or place referred to in paragraph (1)(a) is a dwelling-house, an authorized person may not enter that dwelling-house without the consent of the occupant, except under the authority of a warrant issued under subsection (3).
+…
+[37] For our purposes, only subsection 288(1) of the Act is relevant because it is not a case of entering a residential house. This provision specifies that during an audit, an authorized person, either an auditor for the Minister (Ms. Desjardins), may inspect a person's documents (those of the Caisse populaire) to determine the tax liability of that person (the Caisse) or another person (Vert‑Dure). This authorized person (Ms. Desjardins) may also enter a place where a business (that of the Caisse), or commercial activity (that of the Caisse) is carried on, or property is kept (for example, the money Vert-Dure deposited at the Caisse), anything is done in connection with a[16] business (that of the Caisse or Vert-Dure) or a[17] commercial activity (that of the Caisse or Vert-Dure) or any[18] documents are or should be (for example, a copy of the document confirming the loan by the Caisse to Vert-Dure). This authorized person (Ms. Desjardins) may also require the owner or manager of the property, business or commercial activity (for example, the director of the Caisse) and any other person on the premises (for example, the head of loans) to provide reasonable assistance and answer all questions relating to the application or execution of Part IX of the Act (for example, provide her with a copy of bank statements). In my opinion, the request for assistance can be made either over the phone or by letter. This is exactly what Ms. Desjardins did when she contacted the Caisse populaire de Mont‑Joli for the bank statements for Vert-Dure. This subsection does not, in any way, require that prior notice must be sent in order to do so, contrary to section 289 of the Act, which states:
+289. (1) Requirement to present documents or information – Despite any other provision of this Part, the Minister may, subject to subsection (2), for any purpose related to the administration or enforcement of this Part, including the collection of any amount payable or remittable under this Part by any person, by notice served personally or by registered or certified mail, require that any person provide the Minister, within such reasonable time as is stipulated in the notice, with:
+(a) any information or additional information, including a return under this Part; or
+(b) any document.
+(2) The Minister shall not impose on any person (in this section referred to as a “third party”) a requirement under subsection (1) to provide information or any document relating to one or more unnamed persons unless the Minister first obtains the authorization of a judge under subsection (3).
+(3) On ex parte application by the Minister, a judge may, subject to such conditions as the judge considers appropriate, authorize the Minister to impose on a third party a requirement under subsection (1)...
+[Emphasis added.]
+[38] These provisions apply despite the other provisions of "this Part" (namely Part IX regarding GST). It is therefore a power added to those described elsewhere, in particular at subsection 288(1) of the Act. Subsection 289(1) aims to clarify situations where the taxpayer or the third party fail to comply with the Minister's request to provide documents or information. Vert‑Dure seems to have confused sections 288 and 289 in terms of their use and the conditions for each.
+[39] In other words, section 288 of the Act confers on the Minister, acting through an authorized representative, the general power to address a third party to obtain documents or information in their possession, whereas section 289 of the Act is a tool at the Minister's availability when a third party or the taxpayers themselves, in possession of documents or information that could be useful for the audit in question, do no comply with requests for information (see, among others, Lapointe v. Canada, 2003 CFPI 102). It is a type of official compliance letter from the Minister to provide information, otherwise there could be penalties (section 326 ETA). In addition, Ms. Desjardins was not authorized to carry out the power described at section 289 of the Act; therefore, she herself was not required to present a letter of requirement under this section, contrary to the claims by Vert‑Dure.
+[40] Very few decisions deal with the audit powers the Minister holds under sections 288 and 289 of the Act; however, the similar provisions in the ITA, sections 231.1 and 231.2, have been the subject of many decisions that clarify the scope of audit powers.
+[41] It is relevant to cite the Supreme Court of Canada decision in R. v. Jarvis, [2002] 3 S.C.R. 757, where the basis of sections 231.1 and 231.2 of the ITA is explained:
+51 It follows from the tax scheme's basic self-assessment and self-reporting characteristics that the success of its administration depends primarily upon taxpayer forthrightness. As Cory J. stated in Knox Contracting, supra, at p. 350: "The entire system of levying and collecting income tax is dependent upon the integrity of the taxpayer in reporting and assessing income. If the system is to work, the returns must be honestly completed." It is therefore not surprising that the Act exhibits a concern to limit the possibility that a taxpayer may attempt "to take advantage of the self-reporting system in order to avoid paying his or her full share of the tax burden by violating the rules set forth in the Act" (McKinlay Transport, supra, at p. 637). The nature of the tax collection scheme, however, creates an obstacle in this regard:
+Often it will be impossible to determine from the face of the return whether any impropriety has occurred in its preparation. A spot check or a system of random monitoring may be the only way in which the integrity of the tax system may be maintained.
+(McKinlay Transport, supra, at p. 648)
+Accordingly, "the Minister of National Revenue must be given broad powers in supervising this regulatory scheme to audit taxpayers' returns and inspect all records which may be relevant to the preparation of these returns" (ibid.).
+52 The sections within Part XV of the ITA provide the Minister with "Administration and Enforcement" powers. They also impose reciprocal obligations upon taxpayers: for example, in furtherance of the overall reporting and verification scheme, s. 230(1) of the ITA requires all taxpayers, for various specified periods of time, to maintain books and records of account at their place of business or residence in Canada. These documents must be kept "in such form and containing such information as will enable the taxes payable under [the ITA] or the taxes or other amounts that should have been deducted, withheld or collected to be determined".
+53 The provisions that are central to the instant appeal vest the Minister with extensive powers that may be used "for any purpose related to the administration or enforcement" of the ITA. Section 231.1(1) continues the inspection power that was introduced in An Act to amend the Income War Tax Act, S.C. 1944, c. 43, s. 11. Paragraph (a) allows a person authorized by the Minister to "inspect, audit or examine" a wide array of documents, reaching beyond those that the ITA otherwise requires the taxpayer to prepare and maintain. In the course of the inspection, audit or examination, para. (c) provides that the authorized person may enter into any premises or place that is not a dwelling-house; furthermore, para. (d) imposes a correlative duty upon persons at the premises or place to provide "all reasonable assistance and to answer all proper questions relating to the administration or enforcement of this Act". (Section 231.1(2) requires that, absent the occupant's consent, a judicial warrant be obtained for entry into a dwelling-house).
+54 The requirement power in s. 231.2(1) boasts an even longer pedigree: its origins are found in s. 8 of the original Income War Tax Act, 1917. By this power, the Minister may compel any person to produce any information or any document. Again, the scope of this power "reaches beyond the strict filing and maintenance requirements of the Act" (McKinlay Transport, supra, at p. 642, per Wilson J.).
+[Emphasis added.]
+[42] It is clear that section 288 of the Act creates its own system that applies when the Minister, through an auditor, wishes to obtain information or documents in the possession of a third party. Section 289 of the Act provides an additional tool, particularly when there is non-compliance. If the Caisse populaire had refused to provide the account statements requested, the Minister could have sent a letter of requirement under section 289 of the Act.
+[43] Vert‑Dure cited Lionel Bergeron v. Deputy Minister of Revenue of Quebec, 165‑02‑000187-903, by Justice Guy Tremblay of the Court of Quebec. It seems to use the findings of this decision to support its claim that the assessments in question should be vacated on the ground that the auditor overstepped her audit powers. In this case, the judge had to determine whether the authorization obtained by the auditor to carry out the audit was in accordance with the powers set out at section 38 of the Act respecting the Ministère du Revenu (AMR)[19], which, to a certain extent, resembles section 288 of the Act.
+[44] I do not believe this decision supports Vert-Dure's position because the issue was whether the Deputy Minister had the power to authorize the auditor to "oblige the owner…of the business…to give him reasonable assistance in his audit," whereas section 38 AMR does not grant such a power. Here, subsection 288(1) of the Act recognizes such a power for the Ministère's auditors for the purposes of the Act.
+[45] I believe the auditor acted within the scope of the powers conferred on her under section 288 of the Act when she communicated directly with the Caisse populaire and asked a clerk to provide her with information. As for the documents provided to the Minstère by the accounting firm before the start of the audit, the evidence does not show the circumstances under which they were provided. However, I do not have reason to believe it was done in violation of the provisions of the Act.
+[46] Moreover, I do not have jurisdiction over the actions of the Minister and his agents to decide on the validity of an assessment. This has been noted by the Federal Court of Appeal justices in Main Rehabilitation Co. v. Canada, 2004 FCA 403:
+7 As the Tax Court Judge properly notes in her reasons, although the Tax Court has authority to stay proceedings that are an abuse of its own process (see for instance Yacyshyn v. Canada, 1999 D.T.C. 5133 (F.C.A.)), Courts have consistently held that the actions of the CCRA cannot be taken into account in an appeal against assessments.
+8 This is because what is in issue in an appeal pursuant to section 169 is the validity of the assessment and not the process by which it is established (see for instance the Queen v. the Consumers’ Gas Company Ltd. 87 D.T.C. 5008 (F.C.A.) at p. 5012). Put another way, the question is not whether the CCRA officials exercised their powers properly, but whether the amounts assessed can be shown to be properly owing under the Act (Ludco Enterprises Ltd. v. R. [1996] 3 C.T.C. 74 (F.C.A.) at p. 84).
+[Emphasis added.]
+[47] To conclude, I find that the auditor did not overstep her powers and her actions do not at all justify vacating the assessment in question.
+Limitation period
+[48] In its reply, Vert‑Dure also claimed that the Ministère could not make amendments to 1991 because the assessment was out of time. According to paragraph 298(1)(a) of the Act[20], the limitation period is reached four years after the latest date of the date section 238 required the person to file a return for that period, and the day the return was filed. As for the adjustment for the oldest assessment period, that ending December 31, 1991, for which the Minister refused the $1,293.11 in ITC, the GST claim by Vert-Dure was not produced until November 4, 1994. As a result, on March 13, 1998, the date of the assessment in question, fewer than four years had passed. As for the assessment period ending in June 1992, for which there was a $279.49 adjustment, the return was not filed until January 22, 1997; as a result, the assessment was clearly established within the limitation period. The same goes for the $5,533 adjustment to the ITC that resulted from the cancellation of the registration, since the returns were filed on December 22, 1995, or January 22, 1997, making the assessment date well within the expiration of the limitation period. And since the GST claim was not produced until December 22, 1995, for the quarter ending March 31, 1994, the same conclusion can be reached for the adjustment resulting from the cancellation of the $4,277.22 in GST that could have been required of Vert-Dure, but which was cancelled by the Ministère following the retroactive cancellation of the registration. At any rate, it was an adjustment that was to Vert-Dure's benefit. As a result, the argument based on the limitation period is not valid.
+Penalties
+[49] In its written arguments, Vert-Dure raises the issue of applying the penalty. The only penalty that the Minister applied in this case was that set out at section 280 of the Act.[21] In Corp. de l'École Polytechnique v. Canada, 2004 FCA 127, 2004 G.T.C. 1148, [2004] G.S.T.C. 102, 325 N.R. 64, [2004] G.S.T.C. 39, the Federal Court of Appeal recognized that the due diligence defence allowed a person to avoid imposition of this penalty:
+28 The due diligence defence allows a person to avoid the imposition of a penalty if he or she presents evidence that he or she was not negligent. It involves considering whether the person believed on reasonable grounds in a non-existent state of facts which, if it had existed, would have made his or her act or omission innocent, or whether he or she took all reasonable precautions to avoid the event leading to imposition of the penalty. See The Queen v. Sault Ste-Marie, [1978] 2 S.C.R. 1299; The Queen v. Chapin, [1979] 2 S.C.R. 121. In other words, due diligence excuses either a reasonable error of fact, or the taking of reasonable precautions to comply with the Act.
+29 The defence of due diligence should not be confused with the defence of good faith, which applies in the area of criminal liability, requiring proof of intent or guilty knowledge. The good faith defence enables a person to be exonerated if he or she has made an error of fact in good faith, even if the latter was unreasonable, whereas the due diligence defence requires that the error be reasonable, namely, an error which a reasonable person would have made in the same circumstances. The due diligence defence, which requires a reasonable but erroneous belief in a situation of fact, is thus a higher standard than that of good faith, which only requires an honest, but equally erroneous, belief.
+[Emphasis added.]
+[50] The ground raised by Vert-Dure is: [translation] "we respected the various deadlines but there were circumstances outside our control, such as the drop in gross sales in the fall of 1991."[22] In my opinion, these circumstances are not a valid means for a due diligence defence. The same can be said for the refusal by the Caisse populaire to honour the NSF check. The evidence does not establish in any way that Vert‑Dure committed a reasonable error of fact or that it took reasonable precautions to respect the Act.
+[51] Before terminating these reasons, two other comments need to be made. One of the reasons I have for making this decision before concluding the hearing of the other appeals, for Mr. Desrosiers, Pelouses and Gazon, was that it would allow for a decision to be made on the validity of the arguments presented by Vert‑Dure and the other appellants, namely those based on sections 306, 309, 288 and 289 of the Act. In my opinion, Mr. Desrosiers and the advising accountant, Mr. Brosseau, invested too much energy in these issues, to the point of obsession in handling the four appeals. Even though I tried to refocus Mr. Desrosiers on the adjustments the assessments targeted, he insisted on presenting the unfounded general application arguments aimed at obtaining the vacation of the assessment on the ground that the Minister did not reply within the 180 days of the filing of the notice of objection and on the ground that the auditor overstepped her powers during the audit. On many occasions, I encouraged Mr. Desrosiers to provide circumstantial evidence to compensate for the lack of documentary evidence on the $1,293.11 in ITC claimed for the quarter ending December 31, 1991, which he claims to have lost during a fire in July 1995. Although he stated on a number of occasions that he would provide such evidence, Mr. Desrosiers, as representative of Vert-Dure, did no such thing. The Court therefore has no evidence allowing it to acknowledge Vert-Dure's right to these ITC. I would restate here that in order for a right to ITC to exist, under subsection 169(4) of the Act, before the registrant produces its GST return, it must have the necessary documentary evidence containing the information prescribed by regulation. The fact that Vert-Dure did not have these at the time of the hearing of its appeal does not mean they did not exist when the CTI application was filed, but unfortunately for Vert‑Dure, Mr. Desrosiers did not present any evidence leading me to find that the conditions required under subsection 169(4) of the Act, leading to the right to ITC, were met.
+[52] I would add, however, that it is odd that the ITC application was made on January 22, 1997, one and a half years after the fire, and four months after an alleged theft at the administrative offices of Vert‑Dure. It is of note that the theft was claimed in the taxpayer's notice of objection, but not established by the evidence before the Court. The question is how could an amended GST application be filed on January 22, 1997, for the quarter ending December 31, 1991, when at that time the documentary evidence was needed and Vert-Dure never was able to provide these documents during the audit that began on May 2, 1997? If the data had been provided by the accounting firm, why were they never submitted to evidence during the hearing?
+[53] In conclusion, Vert‑Dure was not able to show that the Minister's assessment was not valid. As a result, the appeal by Vert‑Dure is dismissed.
+Signed at Georgeville, Quebec, this 14th day of September 2007.
+"Pierre Archambault"
+Archambault J.
+Translation certified true
+on this 2nd day of November 2007
+Elizabeth Tan, Translator
+CITATION: 2007TCC379
+COURT FILE No.: 2003-4367(GST)I
+STYLE OF CAUSE: VERT-DURE PLUS (1991) INC. and HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal and Rimouski, Quebec
+DATE OF HEARING: November 1, 2 and 3, 2005, and February 13 (Montreal) and April 23, 24 and 25, 2007 (Rimouski)
+REASONSFOR JUDGMENT BY: The Honourable Justice Pierre Archambault
+DATE OF JUDGMENT: September 14, 2007
+APPEARANCES:
+Agents for the Appellant:
+Bernard Desrosiers
+Bernard Brosseau
+Counsel for the Respondent:
+Michel Morel
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit I-7. Moreover, Vert-Dure did not have a copy of these returns either.
+[2] A copy of these returns was produced under Exhibit I‑4.
+[3] It must be noted that some errors seem to have made their way onto the auditor's working sheets (Exhibit I‑1). The sheet, "Adjustment of ITC-GST differences claimed vs. records," has the reception date of the amended GST claim for the March 31, 1992, period as February 10, 1997, whereas Exhibit I-4 shows that the amended claim was dated January 22, 1997, and the Ministère's stamp on it is also dated January 22, 1997. As a result, the reception date would not be February 10, 1997, but January 22, 1997. (See also Exhibit I-7). February 10 would be the seizure date for the Ministère's agents. For the quarter ending December 31, 1991, the ITC amount changes from $120.28 to $1,293.11. For that of March 31, 1992, the ITC is reduced from $1,415.24 to $86.17, leaving a negative net tax of $78.96. (See also Exhibits I-1 and I-7).
+[4] The statements for 1992 were not produced.
+[5] According to the same sheet, Vert‑Dure had a debit account of $4,061 composed of $2,910.01 in GST and $1,151.51 in QST (Exhibit I-5).
+[6] According to the Ministère's computerized statement, Exhibit I‑7. Unfortunately, neither Vert-Dure nor the Ministère could produce a copy of the GST return.
+[7] It must be noted that during his testimony, Mr. Desrosiers did not recognize the signature in the application to cancel the registration, dated September 8, 1997. However, this document appears among the evidence produced by Vert‑Dure itself. (See Exhibit A-2, Tab C, and Exhibit A‑31 in Bernard Desrosiers's file, pages 71 and 72.)
+[8] Subs. 169(1) states:
+169(1) Subject to this Part, where a person acquires or imports property or a service or brings it into a participating province and, during a reporting period of the person during which the person is a registrant, tax in respect of the supply, importation or bringing in becomes payable by the person or is paid by the person without having become payable, the amount determined by the following formula is an input tax credit of the person in respect of the property or service for the period
+…
+[Emphasis added.]
+[9] Subs. 169(4) states:
+169(4) A registrant may not claim an input tax credit for a reporting period unless, before filing the return in which the credit is claimed,
+(a) the registrant has obtained sufficient evidence in such form containing such information as will enable the amount of the input tax credit to be determined, including any such information as may be prescribed; and
+(b) where the credit is in respect of property or a service supplied to the registrant in circumstances in which the registrant is required to report the tax payable in respect of the supply in a return filed with the Minister under this Part, the registrant has so reported the tax in a return filed under this Part.
+[Emphasis added.]
+See also the recent Federal Court of Appeal decision Systematix Technology Consultants Inc. v. The Queen, 2007 FCA 226, confirming this provision of the Act is mandatory.
+[10] These are signed by both Mr. Desrosiers and his accountant, Bernard Brosseau.
+[11] Absence acknowledged by counsel for the Respondent at para. 4 of the Reply to the Notice of Appeal.
+[12] The deadline of 90 days must also be respected for filing an appeal. This condition is not an issue in this case.
+[13] Subsection 301(3) states:
+Objection and appeals
+301 (3) Consideration of objection – On receipt of a notice of objection, the Minister shall, with all due dispatch, reconsider the assessment and vacate or confirm the assessment or make a reassessment.
+[14] In particular subsections 299(4) and (5):
+(4) An assessment shall, subject to being reassessed or vacated as a result of an objection or appeal under this Part, be deemed to be valid and binding, notwithstanding any error, defect or omission therein or in any proceeding under this Part relating thereto.
+(5) An appeal from an assessment shall not be allowed by reasons only of an irregularity, informality, omission or error on the part of any person in the observation of any directory provision of this Part.
+[Emphasis added.]
+[15] The decisions cited by Vert-Dure, Society Promoting Environmental Conservation v. Canada (Attorney General), 2003 FCA 239, British Columbia (Attorney General) v. Canada (Attorney General); Reference Re An Act Respecting Vancouver Island Railway, [1994] 2 S.C.R. 41 and Costello and Dickhoff v. Calgary, [1983] 1 S.C.R. 14, do not apply in this case because they do not deal with the Act and the decision rendered by the Federal Court of Appeal in Bolton is binding on the Court.
+[16] In the opening paragraph, Parliament targets a person's documents, the review of which could help determine the obligations of "that person" or "another person." Since Parliament the indefinite article "a" is used with "company" and there is no specification as to which company is being referred to, it could be either Vert-Dure of the Caisse. In my opinion, this is an important statement that Messrs. Desrosiers and Brosseau misunderstood.
+[17] Id.
+[18] Id.
+[19] R.S.Q., c. M-31. Section 38 of the AMR states, in part:
+Investigations
+38. Any person authorized to do so by the Minister may, for every purpose dealing with the application or enforcement of a fiscal law, enter at any suitable time the premises or places in which a business is carried on or property is kept or in which anything is done relating to any business or where registers are or should be kept pursuant to a fiscal law. However, the person may not enter a residence without the consent of its occupant.
+Powers
+The person so authorized by the Minister may:
+(a) audit or examine supporting documents and registers, and any other document or thing which may relate to the information that is or should be contained in the registers or supporting documents, to the prohibition set out in section 34.2 or to the amount of any duty that should be paid, deducted, withheld or collected under a fiscal law, and copy, print out or photograph the document or thing;
+(b) examine the property described in an inventory or any property, process or matter the examination of which may, in his opinion, assist him in determining the accuracy of an inventory or in controlling the information that is contained or should be contained in the registers or supporting documents, or in determining the amount of any duty that should be paid, deducted, withheld or collected under a fiscal law;
+(c) oblige the owner or manager of the property or business and any other person present on the premises to give him reasonable assistance in his audit or examination and, for that purpose, oblige the owner or manager to accompany him on the premises; and
+(d) if, during an audit or examination, the person believes on reasonable grounds that an offence against a fiscal law or a regulation made under such a law has been committed, seize and remove any document or thing that may be required as evidence of any offence against any provision of a fiscal law or a regulation made under such a law and keep the document or thing until it is produced in judicial proceedings.
+[Emphasis added]
+[20] This provision states:
+298(1) Subject to subsections (3) to (6.1), an assessment of a person shall not be made under section 296
+(a) in the case of
+(i) an assessment of net tax of the person for a reporting period of the person,
+…
+more than four years after the later of the day on or before which the person was required under section 238 to file a return for the period and the day the return was filed.
+[Emphasis added.]
+[21] Subs. 280(1) states:
+280(1) Subject to this section and section 281, where a person fails to remit or pay an amount to the Receiver General when required under this Part, the person shall pay on the amount not remitted or paid
+(a) a penalty of 6% per year, and
+(b) interest at the prescribed rate,
+computed for the period beginning on the first day following the day on or before which the amount was required to be remitted or paid and ending on the day the amount is remitted or paid.
+Paragraph (a) was repealed as of April 1, 2007.
+[22] Section 7, 3rd paragraph of the written notes. The comment made at para. 9, above, regarding the failure of Vert-Dure to respect the deadlines for filing its GST returns must be noted.

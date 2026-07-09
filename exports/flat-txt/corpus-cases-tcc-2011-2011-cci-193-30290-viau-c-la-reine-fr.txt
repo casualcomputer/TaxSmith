@@ -1,0 +1,211 @@
+Title: Viau c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30290/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-193-30290-viau-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2011-03-30
+
+# Viau c. La Reine
+
+- Citation: 2011 CCI 193
+- Decision date: 2011-03-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8058, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Viau c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-03-30
+Référence neutre
+2011 CCI 193
+Numéro de dossier
+2008-52(IT)G
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-52(IT)G
+ENTRE :
+ANNE-MARIE VIAU,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 12 novembre 2010, à Ottawa (Canada).
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Avocat de l’appelante :
+Me Christian-Daniel Landry
+Avocat de l’intimée :
+Me Julian Malone
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie par le ministre du Revenu national (Ministre) en vertu de l’article 160 de la Loi de l’impôt sur le revenu (Loi) est accueilli avec dépens en faveur de l’intimée calculés selon le tarif B des Règles de la Cour canadienne de l’impôt (procédure générale), et la cotisation est déférée au ministre pour reconsidération et recotisation sur la base que l’appelante est solidairement responsable du paiement d’un montant de 31 725 $ aux termes de la Loi.
+Signé à Ottawa, Canada, ce 30e jour de mars 2011.
+« Lucie Lamarre »
+Juge Lamarre
+Référence : 2011 CCI 193
+Date : 20110330
+Dossier : 2008-52(IT)G
+ENTRE :
+ANNE-MARIE VIAU,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] L’appelante en appelle d’une cotisation établie par le ministre du Revenu national (Ministre) en vertu du paragraphe 160(1) de la Loi de l’impôt sur le revenu (LIR) en date du 18 janvier 2007 pour un montant de 38 500 $.
+[2] Dans sa Réponse à l’avis d’appel (Réponse), l’intimée concédait que le montant de la cotisation devrait être réduit à 37 500 $. Par suite des observations écrites de l’appelante, l’intimée réduit à nouveau le montant de la cotisation à 31 725 $.
+[3] L’appelante de son côté conteste en totalité la cotisation. Elle considère que l’article 160 ne trouve pas application. Elle estime par ailleurs que si la Cour devait considérer l’application de l’article 160, le montant de la cotisation devrait être réduit à 25 950 $.
+FAITS NON CONTESTÉS À LA BASE DE LA COTISATION
+[4] Seule l’appelante a témoigné. Il ressort de la preuve qu’elle était mariée sous le régime de la société d’acquêts en vigueur dans la province de Québec avec Michel Dessureault depuis le 20 juin 1981. Ils ont deux enfants.
+[5] Les époux étaient copropriétaires d’un immeuble à Gatineau qu’ils avaient acquis des parents de l’appelante le 5 juin 1990. Il s’agissait de leur résidence familiale.
+[6] Le 11 février 2002, Michel Dessureault cédait à l’appelante par contrat notarié son droit de copropriété dans cet immeuble (pièce I‑1, onglet 4). Ce contrat notarié indique que la « cession est faite sans aucune considération dont quittance finale de la part du cédant » et que la valeur de la contrepartie est de zéro dollar (0 $). Il ne semble pas contesté que la valeur marchande de l’immeuble à cette date fût de 75 000 $. Suite à la preuve apportée par l’appelante de relevés bancaires établissant à 11 550 $ le montant du solde non-remboursé d’une ligne de crédit hypothécaire au moment de la cession du bien, l’intimée a concédé que la juste valeur marchande de l’immeuble à cette même date devait être réduite à 63 450 $.
+[7] Il n’est pas contesté que Michel Dessureault avait, au 21 décembre 2006, une dette fiscale impayée de 52 309,80 $ envers l’Agence du revenu du Canada (ARC) à l’égard des années d’imposition 1998, 1999 et 2000.
+[8] L’appelante et son conjoint se sont séparés le 20 octobre 2003 et un jugement de divorce a été prononcé le 17 mai 2004 (pièce I‑1, onglet 9).
+[9] Comme l’appelante vivait toujours avec son conjoint au moment de la cession le 11 février 2002, le Ministre a cotisé cette dernière en vertu de l’alinéa 160(1)e) de la LIR.
+[10] Les paragraphes pertinents de l’article 160 se lisent comme suit :
+160. (1) Lorsqu’une personne a, depuis le 1er mai 1951, transféré des biens, directement ou indirectement, au moyen d’une fiducie ou de toute autre façon à l’une des personnes suivantes :
+a) son époux ou conjoint de fait ou une personne devenue depuis son époux ou conjoint de fait;
+b) une personne qui était âgée de moins de 18 ans;
+c) une personne avec laquelle elle avait un lien de dépendance,
+les règles suivantes s’appliquent :
+d) le bénéficiaire et l’auteur du transfert sont solidairement responsables du paiement d’une partie de l’impôt de l’auteur du transfert en vertu de la présente partie pour chaque année d’imposition égale à l’excédent de l’impôt pour l’année sur ce que cet impôt aurait été sans l’application des articles 74.1 à 75.1 de la présente loi et de l’article 74 de la Loi de l’impôt sur le revenu, chapitre 148 des Statuts revisés du Canada de 1952, à l’égard de tout revenu tiré des biens ainsi transférés ou des bien y substitués ou à l’égard de tout gain tiré de la disposition de tels biens;
+e) le bénéficiaire et l’auteur du transfert sont solidairement responsables du paiement en vertu de la présente loi d’un montant égal au moins élevé des montants suivants :
+(i) l’excédent éventuel de la juste valeur marchande des biens au moment du transfert sur la juste valeur marchande à ce moment de la contrepartie donnée pour le bien,
+(ii) le total des montants dont chacun représente un montant que l’auteur du transfert doit payer en vertu de la présente loi au cours de l’année d’imposition dans laquelle les biens ont été transférés ou d’une année d’imposition antérieure ou pour une de ces années;
+aucune disposition du présent paragraphe n’est toutefois réputée limiter la responsabilité de l’auteur du transfert en vertu de quelque autre disposition de la présente loi.
+160. (2) Cotisation. Le ministre peut, en tout temps, établir une cotisation à l’égard d’un contribuable pour toute somme payable en vertu du présent article. Par ailleurs, les dispositions de la présente section s’appliquent, avec les adaptations nécessaires, aux cotisations établies en vertu du présent article comme si elles avaient été établies en vertu de l’article 152.
+160. (3) Extinction de l’obligation. Dans le cas où un contribuable donné devient, en vertu du présent article, solidairement responsable, avec un autre contribuable, de tout ou partie d’une obligation de ce dernier en vertu de la présente loi, les règles suivantes s’appliquent :
+a) tout paiement fait par le contribuable donné au titre de son obligation éteint d’autant l’obligation solidaire;
+b) tout paiement fait par l’autre contribuable au titre de son obligation n’éteint l’obligation du contribuable donné que dans la mesure où le paiement sert à réduire l’obligation de l’autre contribuable à une somme inférieure à celle dont le contribuable donné est solidairement responsable en vertu du présent article.
+160. (3.1) Juste valeur marchande d’un droit indivis. Pour l’application du présent article et de l’article 160.4, la juste valeur marchande, à un moment donné, d’un droit indivis sur un bien, exprimé sous forme d’un droit proportionnel sur ce bien, est réputée être égale, sous réserve du paragraphe (4), à la proportion correspondante de la juste valeur marchande du bien à ce moment.
+160. (4) Règles concernant les transferts à un époux ou conjoint de fait. Malgré le paragraphe (1), lorsqu’un contribuable a transféré un bien à son époux ou conjoint de fait en vertu d’une ordonnance ou d’un jugement d’un tribunal compétent ou en vertu d’un accord écrit de séparation et que, au moment du transfert, le contribuable et son époux ou conjoint de fait vivaient séparément par suite de la rupture de leur mariage ou union de fait, les règles suivantes s’appliquent :
+a) relativement à un bien ainsi transféré après le 15 février 1984 :
+(i) l’époux ou le conjoint de fait ne peut être tenu, en vertu du paragraphe (1), de payer un montant relatif au revenu provenant du bien transféré ou du bien qui y est substitué ou un montant relatif au gain provenant de la disposition du bien transféré ou du bien qui y est substitué,
+(ii) pour l’application de l’alinéa (1)e), la juste valeur marchande du bien au moment du transfert est réputée être nulle;
+b) relativement à un bien ainsi transféré avant le 16 février 1984, lorsque l’époux ou le conjoint de fait serait, sans le présent alinéa, tenu de payer un montant en application de la présente loi en vertu du paragraphe (1), il est réputé s’être acquitté de son obligation relativement à ce montant le 16 février 1984;
+aucune disposition du présent paragraphe n’a toutefois pour effet de réduire les obligations du contribuable en vertu d’une autre disposition de la présente loi.
+[Je souligne.]
+INTERPRÉTATION DES FAITS PAR L’APPELANTE
+[11] L’appelante soutient que même si l’acte notarié indique qu’elle a acquis la part de son conjoint dans la résidence familiale sans aucune contrepartie, cela ne reflète pas la réalité. Elle dit que c’est à sa demande à elle que son conjoint lui a cédé sa part de la résidence familiale puisque ce dernier avait décidé de démarrer une entreprise et qu’elle a paniqué à l’idée qu’il pourrait mettre la résidence en péril, à la merci d’éventuels créanciers. Elle aurait alors promis à son conjoint de lui redonner sa part advenant la vente de la résidence ou la dissolution du mariage. Elle a expliqué qu’il s’agissait d’une entente verbale avec son conjoint qui aurait été discutée, selon son souvenir, devant le notaire (notes sténographiques pages 50-51).
+[12] Le 7 mai 2004, les conjoints ont conclu une entente de médiation, laquelle a été entérinée par le jugement de divorce (pièce I‑1, onglet 9). Dans la rubrique du partage du patrimoine familial, on y inclut la résidence familiale. À l’article 26 de cette entente, il y est stipulé ce qui suit :
+26. L’épouse est seule et unique propriétaire de la résidence familiale sise au 706, rue des Patriotes, à Gatineau, province de Québec, le prix de vente étant de 80 000.00 $, en acquittement partiel des droits de l’époux dans le patrimoine familial, l’épouse versera à l’époux la somme de 30 000.00 $ de la manière suivante soit 28 000.00 $ en date de la signature des présentes et 2 000.00 $ dans les trente jours du jugement à intervenir, représentant une somme initiale de 40 000.00 $ moins la part de l’époux dans les dettes familiales pour une somme de 10 000.00 $, en conséquence les époux se donnent quittance mutuelle, complète et finale à cet égard.
+[13] Lors de son témoignage, l’appelante a expliqué qu’ils ont évalué la résidence à 80 000 $ au moment de la séparation et qu’elle devait verser à son conjoint la moitié, soit la somme de 40 000 $, moins la somme de 10 000 $ que ce dernier devait lui verser sur la ligne de crédit. Elle a expliqué qu’il avait été établi que son conjoint avait une dette fiscale d’environ 26 000 $ à cette date, tel qu’indiqué à l’article 39 de l’entente, mais que son conjoint se déclarait seul et unique responsable de cette dette.
+[14] L’appelante n’était pas au courant lors de la cession de la part de son conjoint dans la résidence familiale le 11 février 2002 que ce dernier avait une dette fiscale envers l’ARC.
+[15] L’appelante a également mis en preuve que les deux conjoints avaient emprunté une somme de 54 000 $ le 6 décembre 2000 auprès de la Banque de Nouvelle-Écosse (pièce 2 de la pièce A‑1). Cet emprunt aurait servi, selon elle, à rembourser le solde d’une première hypothèque prise dans le passé pour l’acquisition de la maison, de même qu’à payer les dépenses familiales et celles de son conjoint engagées sur la ligne de crédit.
+[16] Le 10 mars 2004, l’appelante a contracté une nouvelle hypothèque personnellement auprès de la Banque de Nouvelle-Écosse pour un montant de 67 500 $ (pièce 3 de la pièce A‑1). Avec cette somme, elle a remboursé le solde hypothécaire de l’emprunt précédent de 54 000 $ pour laquelle quittance a été donnée par la banque le 26 avril 2004 (voir dernier document dans la pièce 2 de la pièce A‑1). L’appelante a également indiqué qu’elle avait remboursé une somme de 20 000 $ sur la ligne de crédit, dont 10 000 $ pour le compte de son conjoint, tel qu’il est fait référence d’ailleurs dans l’entente de médiation mentionnée plus haut. Elle a également déboursé une somme de 30 000 $ en paiement du partage du patrimoine familial, tel que convenu dans l’entente de divorce.
+[17] Par ailleurs, suite à l’audience, l’appelante a fait parvenir à la cour par son avocat dans un complément de preuve accepté par l’intimée, des relevés mensuels de compte sur la ligne de crédit personnelle de son conjoint, indiquant que celui-ci avait engagé une somme de 11 549,89 $ en date du 19 février 2002. Cette somme était passée à 13 608,52 $ au 19 mars 2002. Par ailleurs, l’appelante a remboursé la totalité de la ligne de crédit de son conjoint en date du 23 août 2002 par le biais de sa ligne de crédit personnelle en versant la somme de 13 303,28 $.
+[18] L’intimée accepte de réduire le montant de l’avantage reçu de l’appelante lors de la cession de la part de son conjoint dans la résidence familiale en février 2002 d’un montant correspondant à la moitié du montant de la ligne de crédit de son conjoint qui grevait la résidence familiale à la date du transfert, soit la moitié de 11 550 $, ce qui équivaut à 5 775 $. L’appelante considère que l’avantage, s’il y a avantage, doit être réduit de la somme remboursée par elle correspondant à la totalité du montant de la ligne de crédit du conjoint qui grevait la résidence au moment du transfert, soit de 11 550 $.
+ARGUMENTS DES PARTIES
+[19] L’appelante soutient d’une part, que son conjoint ne lui a pas transféré la moitié indivise de la résidence familiale le 11 février 2002, puisqu’elle a fait la promesse verbale de lui redonner sa part au moment opportun. De fait, elle soutient que le transfert s’est fait en réalité seulement au moment de conclure l’entente sur le divorce. Elle soutient en deuxième lieu que s’il y a eu transfert effectif le 11 février 2002, elle a bel et bien donné une contrepartie à son conjoint lors de la cession en février 2002, laquelle a été versée au moment de l’entente sur le divorce. Elle dit que cet accord verbal est corroboré au paragraphe 26 de l’entente de médiation, lequel est retranscrit plus haut. Selon elle, on y indique précisément que le prix de vente est de 80 000 $, ce qui veut dire que la cession de 2002 n’a pris effet qu’au moment de l’entente de médiation ratifiée par le jugement de divorce en 2004. Elle se réfère à cet égard à l’arrêt Raphael c. R., 2002 CAF 23 où l’on accepterait qu’une promesse légalement exécutoire de verser de l’argent à des créanciers peut constituer une contrepartie suffisante. Finalement, elle se prévaut du paragraphe 160(4) de la LIR, pour soutenir que le sous-alinéa 160(1)e)(i) ne peut s’appliquer dans son cas puisque le transfert de la part de son conjoint dans la propriété familiale s’est fait en vertu d’un jugement d’un tribunal compétent lequel a entériné un accord écrit de séparation (l’entente de médiation) en 2004 et qu’ils vivaient séparés à ce moment.
+[20] L’intimée s’en remet au document notarié du 11 février 2002 par lequel l’appelante reçoit la part de son conjoint dans la résidence familiale sans contrepartie aucune, alors qu’elle et son conjoint n’étaient pas séparés et étaient toujours liés par les liens du mariage. On ne peut parler de transfert de propriété postérieur à la date de la cession réelle constatée par acte notarié. Le transfert ayant eu lieu un an avant la séparation des conjoints et deux ans avant le jugement de divorce, l’appelante ne peut donc pas se prévaloir de l’exception prévue au paragraphe 160(4) de la LIR. D’ailleurs, l’entente même ratifiée par le jugement de divorce stipule en son paragraphe 26 que l’appelante est la seule et unique propriétaire à cette date. L’intimée ne reconnaît pas l’existence d’une promesse verbale parallèle qui viendrait contredire l’acte notarié. Selon l’intimée, le paiement effectué par l’appelante suite au divorce n’est pas un paiement en contrepartie du transfert d’un droit de propriété mais un paiement en contrepartie d’un droit de créance qui a pris effet au moment de la séparation, laquelle a donné lieu au partage du patrimoine familial. La promesse de remettre au conjoint sa part financière de la résidence au moment de la dissolution du mariage ne peut équivaloir à une contrepartie donnée par l’appelante au moment de la cession en 2002, puisque le conjoint de par la dissolution a un droit au partage du patrimoine familial. C’est un droit qui appartient au conjoint de par la loi (aux termes des articles 414, 415, 417 et 419 du Code civil du Québec (CcQ)) et l’appelante ne lui cédait donc rien qui ne lui appartenait pas déjà. Donc, le droit de créance dans le patrimoine familial ne peut être considéré comme une contrepartie donnée au moment de la cession en 2002.
+[21] Les articles pertinents du CcQ sont reproduits ci-après :
+SECTION II
+DE LA RÉSIDENCE FAMILIALE
+404. L'époux propriétaire d'un immeuble de moins de cinq logements qui sert, en tout ou en partie, de résidence familiale ne peut, sans le consentement écrit de son conjoint, l'aliéner, le grever d'un droit réel ni en louer la partie réservée à l'usage de la famille.
+À moins qu'il n'ait ratifié l'acte, le conjoint qui n'y a pas donné son consentement peut en demander la nullité si une déclaration de résidence familiale a été préalablement inscrite contre l'immeuble.
+1991, c. 64, a. 404.
+406. L'usufruitier, l'emphytéote et l'usager sont soumis aux règles des articles 404 et 405.
+L'époux autrement titulaire de droits qui lui confèrent l'usage de la résidence familiale ne peut non plus en disposer sans le consentement de son conjoint.
+1991, c. 64, a. 406.
+407. La déclaration de résidence familiale est faite par les époux ou l'un d'eux.
+Elle peut aussi résulter d'une déclaration à cet effet contenue dans un acte destiné à la publicité.
+1991, c. 64, a. 407.
+[…]
+De la constitution du patrimoine
+414. Le mariage emporte constitution d'un patrimoine familial formé de certains biens des époux sans égard à celui des deux qui détient un droit de propriété sur ces biens.
+1991, c. 64, a. 414.
+415. Le patrimoine familial est constitué des biens suivants dont l'un ou l'autre des époux est propriétaire: les résidences de la famille ou les droits qui en confèrent l'usage, les meubles qui les garnissent ou les ornent et qui servent à l'usage du ménage, les véhicules automobiles utilisés pour les déplacements de la famille et les droits accumulés durant le mariage au titre d'un régime de retraite. Le versement de cotisations au titre d'un régime de retraite emporte accumulation de droits au titre de ce régime; il en est de même de la prestation de services reconnus aux termes d'un régime de retraite.
+[…]
+1991, c. 64, a. 415; 2002, c. 19, a. 3.
+Du partage du patrimoine
+416. En cas de séparation de corps, de dissolution ou de nullité du mariage, la valeur du patrimoine familial des époux, déduction faite des dettes contractées pour l'acquisition, l'amélioration, l'entretien ou la conservation des biens qui le constituent, est divisée à parts égales, entre les époux ou entre l'époux survivant et les héritiers, selon le cas.
+Lorsque le partage a eu lieu à l'occasion de la séparation de corps, il n'y a pas de nouveau partage si, sans qu'il y ait eu reprise volontaire de la vie commune, il y a ultérieurement dissolution ou nullité du mariage; en cas de nouveau partage, la date de reprise de la vie commune remplace celle du mariage pour l'application des règles de la présente section.
+1991, c. 64, a. 416.
+417. La valeur nette du patrimoine familial est établie selon la valeur des biens qui constituent le patrimoine et des dettes contractées pour l'acquisition, l'amélioration, l'entretien ou la conservation des biens qui le constituent à la date du décès de l'époux ou à la date d'introduction de l'instance en vertu de laquelle il est statué sur la séparation de corps, le divorce ou la nullité du mariage, selon le cas; les biens sont évalués à leur valeur marchande.
+Le tribunal peut, toutefois, à la demande de l'un ou l'autre des époux ou de leurs ayants cause, décider que la valeur nette du patrimoine familial sera établie selon la valeur de ces biens et de ces dettes à la date où les époux ont cessé de faire vie commune.
+1991, c. 64, a. 417.
+418. Une fois établie la valeur nette du patrimoine familial, on en déduit la valeur nette, au moment du mariage, du bien que l'un des époux possédait alors et qui fait partie de ce patrimoine; on en déduit de même celle de l'apport, fait par l'un des époux pendant le mariage, pour l'acquisition ou l'amélioration d'un bien de ce patrimoine, lorsque cet apport a été fait à même les biens échus par succession ou donation, ou leur remploi.
+On déduit également de cette valeur, dans le premier cas, la plus-value acquise, pendant le mariage, par le bien, dans la même proportion que celle qui existait, au moment du mariage, entre la valeur nette et la valeur brute du bien et, dans le second cas, la plus-value acquise, depuis l'apport, dans la même proportion que celle qui existait, au moment de l'apport, entre la valeur de l'apport et la valeur brute du bien.
+Le remploi, pendant le mariage, d'un bien du patrimoine familial possédé lors du mariage donne lieu aux mêmes déductions, compte tenu des adaptations nécessaires.
+1991, c. 64, a. 418.
+419. L'exécution du partage du patrimoine familial a lieu en numéraire ou par dation en paiement.
+Si l'exécution du partage a lieu par dation en paiement, les époux peuvent convenir de transférer la propriété d'autres biens que ceux du patrimoine familial.
+1991, c. 64, a. 419.
+[…]
+De la dissolution et de la liquidation du régime
+465. Le régime de la société d'acquêts se dissout:
+1° Par le décès de l'un des époux;
+2° Par le changement conventionnel de régime pendant le mariage;
+3° Par le jugement qui prononce le divorce, la séparation de corps ou la séparation de biens;
+4° Par l'absence de l'un des époux dans les cas prévus par la loi;
+5° Par la nullité du mariage si celui-ci produit néanmoins des effets.
+Les effets de la dissolution se produisent immédiatement, sauf dans les cas des 3° et 5°, où ils remontent, entre les époux, au jour de la demande.
+1991, c. 64, a. 465.
+466. Dans tous les cas de dissolution du régime, le tribunal peut, à la demande de l'un ou l'autre des époux ou de leurs ayants cause, décider que, dans les rapports mutuels des conjoints, les effets de la dissolution remonteront à la date où ils ont cessé de faire vie commune.
+1991, c. 64, a. 466.
+467. Après la dissolution du régime, chaque époux conserve ses biens propres.
+Il a la faculté d'accepter le partage des acquêts de son conjoint ou d'y renoncer, nonobstant toute convention contraire.
+1991, c. 64, a. 467.
+QUESTION EN LITIGE
+[22] La question en litige est de déterminer si les conditions d’application du sous‑alinéa 160(1)e)(i) de la LIR sont remplies, et si l’appelante pouvait se prévaloir de l’exemption prévue au paragraphe 160(4) de la LIR, de sorte que la cotisation en litige devrait être annulée.
+ANALYSE
+[23] En premier lieu, je suis d’accord avec l’intimée que le transfert de propriété a bel et bien eu lieu le 11 février 2002 en vertu de l’acte notarié qui en fait foi, et non plus tard dans le cadre de la séparation des époux, comme le prétend l’appelante. D’une part, on ne retrouve nulle part dans cet acte notarié une allusion quelconque au fait que le transfert ne prendra effet qu’ultérieurement. D’autre part, l’appelante n’a pas fait la preuve que tel était l’engagement qu’elle avait pris avec son conjoint. Tout au contraire, elle a précisé que la raison première de passer l’acte notarié, était de préserver la résidence familiale d’une saisie éventuelle par un créancier. Par ce geste et par son témoignage, elle a clairement démontré qu’elle voulait que la propriété lui soit transférée à cette date pour la mettre à l’abri des créanciers. Or, même si elle ne le savait pas à ce moment-là, l’ARC était déjà créancière de son conjoint, qui devait une somme d’au-delà de 50 000 $ au fisc.
+[24] Dans R. c. Rose, 2009 CAF 93, une situation similaire s’était produite, à l’exception que la conjointe était au courant, au moment de la cession, de l’existence d’un créancier de son mari. M. et Mme Rose étaient copropriétaires du foyer conjugal et M. Rose a fait retirer son nom du titre de propriété afin de protéger le domicile d’un créancier commercial éventuel. M. Rose devait également un montant important d’impôts à l’ARC. La question en litige était de savoir si en inscrivant la propriété uniquement au nom de sa femme, M. Rose avait « transféré des biens, directement ou indirectement, au moyen d’une fiducie ou de toute autre façon » en application du paragraphe 160(1). Si tel était le cas, Mme Rose devenait solidairement responsable avec son mari de la dette fiscale de celui-ci jusqu’à concurrence de la juste valeur marchande de la propriété visée par le transfert parce qu’elle n’avait versé aucune contrepartie au titre de ce transfert. M. Rose plaidait que son intention n’était que de transférer à sa femme le titre en common law seulement et que leur relation à l’égard de la propriété demeurerait la même. La Cour d’appel fédérale n’a pas accepté cet argument et s’exprimait ainsi aux paragraphes 21 et suivants :
+21. Pour déterminer si M. Rose a transféré la totalité de son intérêt à Mme Rose, nous devons connaître la raison pour laquelle M. Rose a effectué ce transfert. À ce sujet, la preuve indique sans équivoque que M. Rose croyait que M. Holyoak [le créancier] pouvait avoir gain de cause s’il présentait une réclamation contre lui, et il voulait l’empêcher d’enregistrer un privilège sur la résidence familiale. Il a retiré son nom du titre de propriété de sa fille pour la même raison.
+22. La raison pour laquelle M. Rose a effectué le transfert permet presque de prouver de manière concluante l’intention de transférer son intérêt bénéficiaire à sa femme. C’est uniquement en se départant entièrement de sa propriété que M. Rose pouvait la protéger de M. Holyoak, sous réserve du droit de celui-ci, à titre de créancier lésé, de demander l’annulation du transfert en raison de son caractère frauduleux. Il ressort également clairement de la preuve que Mme Rose comprenait la raison du transfert du titre de propriété à son nom.
+23. La Cour doit donc déterminer si la juge de la Cour de l’impôt pouvait conclure, compte tenu des éléments de preuve dont elle disposait, que malgré l’intention exprimée par M. Rose de se protéger contre la réclamation de M. Holyoak, M. Rose a démontré qu’il n’a pas transféré son intérêt bénéficiaire lorsqu’il a retiré son nom du titre de propriété en qu’il l’a enregistré au nom de sa femme. Je note que M. Rose n’a jamais dit qu’il avait l’intention de tromper M. Holyoak en cachant le fait que, malgré le transfert du titre en common law à sa femme, il conservait l’intérêt bénéficiaire dans la maison; la juge de la Cour de l’impôt n’a pas non plus tiré de conclusion à cet égard.
+24. La juge de la Cour de l’impôt s’est appuyée principalement sur trois éléments de preuve pour établir que M. Rose a conservé son intérêt bénéficiaire dans la maison. Premièrement, les Rose ont démontré qu’ils avaient l’intention de changer seulement la propriété du titre en common law et n’ont jamais discuté des conditions qui régiraient le transfert du titre de propriété de Mme Rose. La conclusion à tirer de cette preuve ne dépend pas de la crédibilité des Rose. Toutefois, cette preuve est incompatible avec l’intention indiscutable de M. Rose de transférer le titre afin de faire obstacle à la réclamation de M. Holyoak.
+[…]
+31. En toute déférence, la juge de la Cour de l’impôt a commis une erreur manifeste et dominante lorsqu’elle a déduit des faits que M. Rose s’était acquitté de son fardeau de prouver qu’il avait conservé son intérêt bénéficiaire dans la maison. L’affirmation de M. Rose selon laquelle il a transféré le titre de propriété afin d’empêcher M. Holyoak de garantir sa créance en enregistrant un privilège sur la maison permet presque inévitablement d’inférer qu’il avait l’intention de le faire de la façon la plus efficace et conformément à la loi, c’est-à-dire en transférant la totalité de son intérêt dans la maison. La preuve sur laquelle la juge s’est appuyée pour démontrer qu’il n’a pas transféré la totalité de son intérêt est, selon moi, largement équivoque vu la nature de l’intérêt transféré à Mme Rose.
+[25] Par ailleurs, le texte même du paragraphe 26 de l’entente de médiation datée du 7 mai 2004 indique bien que l’appelante dans la présente instance était la seule et unique propriétaire de la résidence familiale. Le fait que ce paragraphe mentionne que « le prix de vente [était] de 80 000 $ » ne veut pas dire que l’appelante n’a pas acquis la résidence familiale le 11 février 2002. Au contraire, cela indique simplement, à mon avis, qu’au moment de l’entente de médiation, le partage du patrimoine familial devait se faire en tenant compte d’un prix de vente attribuable à la résidence à cette date de 80 000 $. En effet, selon les articles 416 et 417 du CcQ, en cas de séparation de corps, de dissolution ou de nullité du mariage, la valeur du patrimoine familial des époux, déduction faite des dettes contractées pour l'acquisition, l'amélioration, l'entretien ou la conservation des biens qui le constituent, est divisée à parts égales, entre les époux. La valeur nette du patrimoine familial est établie selon la valeur des biens qui constituent le patrimoine et des dettes contractées pour l'acquisition, l'amélioration, l'entretien ou la conservation des biens qui le constituent à la date d'introduction de l'instance en vertu de laquelle il est statué sur la séparation de corps, le divorce ou la nullité du mariage, selon le cas; les biens sont évalués à leur valeur marchande. Selon moi, le fait que le paragraphe 26 qui traite de la résidence se retrouve dans la rubrique du patrimoine familial dans l’entente de médiation, doit être interprété dans le cadre du partage du patrimoine familial. Il faut donc en déduire que le prix de vente indiqué de 80 000 $ a été établi pour déterminer la valeur marchande de la résidence familiale à la date de l’entente de médiation, aux fins de procéder au partage du patrimoine familial. On s’est servi de ce chiffre comme point de départ pour établir la somme que l’appelante, qui était seule propriétaire de la résidence à la date de séparation, devait remettre à son conjoint selon les termes établis par le CcQ. L’appelante ne peut donc prétendre qu’elle a acquis la part de son conjoint au moment de la séparation.
+[26] Ainsi, je suis d’opinion que l’appelante ne peut se prévaloir de l’exemption du paragraphe 160(4) de la LIR pour invoquer que le transfert de propriété de la résidence familiale a été fait en vertu d’un accord écrit de séparation ou d’un jugement d’un tribunal compétent, à un moment où elle et son conjoint vivaient séparément par suite de la rupture de leur mariage, puisque ce transfert a eu lieu bien avant la séparation, soit le 11 février 2002.
+[27] Quant à l’argument de l’appelante qu’elle aurait donné une contrepartie à son conjoint lors du transfert par ce dernier de sa part indivise dans la résidence familiale, en lui promettant verbalement de lui rembourser sa part en cas de dissolution du régime matrimonial, elle se réfère à l’arrêt Raphael c. R., précité.
+[28] La Cour d’appel fédérale s’exprimait ainsi :
+9. L'argument le plus convaincant qui a été invoqué par l'appelante était qu'elle avait donné une contrepartie valable en promettant d'effectuer des paiements uniquement selon les instructions de son mari. Si une contrepartie valable d'une valeur égale à celle des biens transférés a été donnée, le paragraphe 160(1) ne s'applique pas.
+10. Si de fait la femme avait fait une promesse légalement exécutoire de verser de l'argent aux créanciers de son mari uniquement selon les instructions de celui-ci, et ce, en leur remettant des montants correspondant aux fonds qui avaient été transférés, cela aurait bien pu constituer une contrepartie suffisante pour éviter l'application du paragraphe 160(1). Toutefois, la preuve et la conclusion tirée par le juge de la Cour de l'impôt n'étaient pas telles. Lorsqu'on lui a demandé si elle avait une obligation légale d'acquitter les comptes comme son mari le lui demandait, l'appelante a convenu qu'elle n'avait aucune obligation légale de le faire et qu'il s'agissait uniquement d'une obligation morale. Elle a en outre admis que son mari ne pouvait pas la forcer à acquitter les comptes qu'il voulait payer. Bien sûr, s'il existait une obligation légale fondée sur l'existence d'une fiducie, le mari aurait pu contraindre sa conjointe à effectuer pareil paiement. Cette preuve confirme que l'appelante croyait réellement n'avoir qu'une obligation morale; nous sommes d'accord avec le juge de la Cour de l'impôt pour dire que cela ne constitue pas une contrepartie suffisante.
+[29] Je ne crois pas qu’on puisse dire en l’instance, que l’appelante a fait, au moment de la cession le 11 février 2002, une promesse légalement exécutoire à l’égard de son mari de lui verser une contrepartie. La preuve n’a pas démontré l’existence d’un accord contractuel authentique entre elle et son conjoint au moment du transfert, tel que souligné dans Logiudice c. Canada, [1997] A.C.I. no 742 (QL), 97 DTC 1462 (angl.), et repris par la juge Campbell dans l’affaire Allen c. R., 2009 CCI 426, citée par l’appelante. Elle avait tout au plus une obligation morale. Par suite de l’acte notarié, son conjoint n’avait aucun moyen de la contraindre d’acquitter sa part. C’est seulement par la dissolution du régime matrimonial que le conjoint pouvait réclamer son droit au partage du patrimoine familial.
+[30] En effet, ce droit du conjoint sur le patrimoine familial, lequel patrimoine inclut la résidence familiale, n’est pas un droit de propriété, mais un droit de créance qui ne prend effet qu’au moment où un événement donne droit au partage de ce patrimoine (voir Chamberland c. R., 2001 CarswellNat 271, par. 35 (CCI); et Richard c. R., 2004 CarswellNat 41, par. 5 (CCI)). Lors d’une séparation, le droit d’un conjoint de recevoir une partie du patrimoine familial de l’autre conjoint est reconnu par le CcQ, notamment dans les règles sur le partage du patrimoine familial énoncées plus haut aux articles 414 et suivants du CcQ. Il s’agit alors d’un transfert de biens fait en exécution d’une obligation légale qui est fait sans contrepartie (voir Tétrault c. R., 2004 CarswellNat 1370 (CCI), aux paragraphes 49 et 50).
+[31] Dans le cas présent, l’appelante ne peut prétendre qu’elle a versé une contrepartie à son conjoint au moment du transfert le 11 février 2002, équivalente au droit de créance de son conjoint dans le patrimoine familial, puisque d’une part, ils étaient toujours mariés à cette date et que ce droit de créance n’existait tout simplement pas à ce moment. D’autre part, ce droit de créance n’a pris naissance que lors de la séparation des époux, plus d’un an après le transfert et cela s’est fait sans contrepartie.
+[32] Pour éviter l’application du sous-alinéa 160(1)e)(i) de la LIR, l’appelante devait prouver qu’elle avait donné au moment du transfert une contrepartie au moins équivalente à la juste valeur marchande du bien transféré. Dans le cas présent, l’acte de cession indique clairement que la contrepartie était égale à zéro. L’entente verbale invoquée par l’appelante, et dont j’ai fait référence plus haut, est tout au plus une obligation morale qui n’était pas légalement exécutoire au moment du transfert le 11 février 2002. Finalement, les montants versés par l’appelante à son conjoint au moment du divorce, l’ont été en application du régime civil applicable dans la province de Québec sur le partage du patrimoine familial. En vertu de ce régime, le droit au partage n’a pris naissance qu’au moment de la séparation qui a eu lieu bien après le transfert par son conjoint de sa part dans la résidence familiale. Ce partage s’est fait sans contrepartie et puisque la résidence familiale avait déjà été transférée à l’appelante dans un autre contexte que celui de la séparation, elle ne peut se soustraire de sa responsabilité solidaire par l’application du paragraphe 160(4) de la LIR.
+[33] L’intimée a accepté de réduire la juste valeur marchande de la résidence familiale du montant du solde non remboursé d’une ligne de crédit hypothécaire au moment du transfert d’un montant de 11 550 $, par suite de la documentation remise après l’audience par l’appelante. Elle concède donc que la juste valeur marchande de la résidence familiale était de 63 450 $ (et non plus 75 000 $) à la date du transfert. Ainsi, l’intimée soutient maintenant que l’appelante est solidairement responsable du paiement d’une somme qui correspond à l’excédent de la juste valeur marchande du bien (la part indivise de son conjoint dans la résidence) au moment du transfert (soit ½ x 63 450 $ = 31 725 $) sur la juste valeur marchande à ce moment de la contrepartie donnée pour ce bien (soit 0 $). L’intimée soumet que l’appel devrait être accueilli pour établir une nouvelle cotisation au montant de 31 725 $.
+[34] L’appelante considère qu’elle a versé une contrepartie d’au moins 11 550 $ puisqu’elle a payé en intégralité la dette de 11 550 $ qui avait été engagée par son conjoint sur sa ligne de crédit personnelle.
+[35] À mon avis, c’est le calcul de l’intimée qui prévaut. Au moment du transfert le 11 février 2002, l’appelante n’a donné aucune contrepartie. Elle a remboursé la ligne de crédit hypothécaire qui grevait l’immeuble dont elle était seule propriétaire plusieurs mois après le transfert, soit au mois d’août 2002. L’acte de transfert précise bien qu’aucune contrepartie n’a été donnée et la preuve ne révèle pas que ces sommes versées plusieurs mois plus tard l’ont été à titre de contrepartie de la cession.
+[36] Pour ces raisons, l’appel est accueilli avec dépens en faveur de l’intimée, calculés selon le tarif B des Règles de la Cour canadienne de l’impôt (procédure générale), et la cotisation est déférée au Ministre pour reconsidération et recotisation sur la base que l’appelante est redevable d’un montant de 31 725 $ aux termes de l’article 160 de la LIR.
+Signé à Ottawa, Canada, ce 30e jour de mars 2011.
+« Lucie Lamarre »
+Juge Lamarre
+RÉFÉRENCE : 2011 CCI 193
+Nº DU DOSSIER DE LA COUR : 2008-52(IT)G
+INTITULÉ DE LA CAUSE : ANNE-MARIE VIAU c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Ottawa (Canada)
+DATE DE L’AUDIENCE : Le 12 novembre 2010
+MOTIFS DU JUGEMENT PAR : L'honorable juge Lucie Lamarre
+OBSERVATIONS ÉCRITES DE 16 novembre 2010 et
+L’APPELANTE : 25 janvier 2011
+OBSERVATIONS ÉCRITES DE
+L’INTIMÉE : 1er février 2011
+RÉPLIQUE ÉCRITE DE
+L’APPELANTE : 10 février 2011
+DATE DU JUGEMENT : le 30 mars 2011
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Christian-Daniel Landry
+Avocat de l’intimée :
+Me Julian Malone
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom : Christian-Daniel Landry, avocat
+Cabinet : Gatineau (Québec)
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

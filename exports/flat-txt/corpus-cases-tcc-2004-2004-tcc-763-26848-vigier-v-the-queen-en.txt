@@ -1,0 +1,129 @@
+Title: Vigier v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26848/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-763-26848-vigier-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-11-18
+
+# Vigier v. The Queen
+
+- Citation: 2004 TCC 763
+- Decision date: 2004-11-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 654, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vigier v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-11-18
+Neutral citation
+2004 TCC 763
+File numbers
+2004-3257(IT)APP
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2004-3257(IT)APP
+BETWEEN:
+JEAN-JACQUES VIGIER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Application heard November 4, 2004, at Montréal, Quebec.
+Before: The Honourable Justice Gerald J. Rip
+Appearances:
+For the Appellant:
+Pierrette Laprade Vigier
+For the Respondent:
+Soleil Tremblay
+Articling Student
+____________________________________________________________________
+ORDER
+Considering the application for an order to extend the time for objecting to the assessments made under the Income Tax Act for the 2000 taxation year;
+And considering the parties' submissions;
+The application is dismissed.
+Signed at Ottawa, Canada, this 18th day of November 2004.
+"Gerald J. Rip"
+Rip J.
+Translation certified true
+on this 20th day of September 2005.
+Elizabeth Tan, Translator
+Citation: 2004TCC763
+Date: 20041118
+Docket: 2004-3257(IT)APP
+BETWEEN:
+JEAN-JACQUES VIGIER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Rip J.
+[1] Jean-Jacques Vigier presented this Court with an application to extend the time for objecting to the assessments made under the Income Tax Act for the 2000 taxation year.
+[2] A notice of a reassessment for the 2000 taxation year was sent to Mr. Vigier by the Minister of National Revenue ("Minister") on April 8, 2002. On September 4, 2002, Mr. Vigier sent the Minister an application to extend the time for filing a notice of objection regarding a new assessment for the 2000 taxation year. The Minister accepted an extension on September 17, 2002.
+[3] The Minister sent Mr. Vigier a notice of confirmation of the reassessment for the 2000 taxation year, dated November 27, 2002. Mr. Vigier did not object to the reassessment for the 2000 taxation year before this Court within the prescribed time under subsection 169(1) of the Income Tax Act ("Act"), which ended February 25, 2003. On August 9, 2004, Mr. Vigier submitted an application to this Court to extend the time for objecting to the reassessment dated April 8, 2002, for the 2000 taxation year.
+[4] Mr. Vigier explained that he never received a notice of confirmation of the reassessment for the 2000 taxation year. He admitted that he moved many times. The Canada Customs and Revenue Agency file indicates Mr. Vigier's various addresses:
+August 26, 1994 - 12e avenue, Pointe-aux-Trembles;
+August 10, 2002 - rue Ontario est, Montréal;
+September 4, 2002 - 6e avenue, Pointe-aux-Trembles;
+November 21, 2002 - rue Ontario est, Montréal;
+February 19, 2003 - rue Prince-Arthur, Pointe-aux-Trembles.
+[5] Mr. Vigier did not deny these addresses. He never advised CCRA of any change of address. The address on his notice of objection was 6e avenue, Montréal. The notice of confirmation dated November 27, 2002, was sent to Mr. Vigier at his address on Ontario est in Montréal.
+[6] The Respondent claims that the application must be dismissed because it was not presented in the year following the expiry of the time limit under section 169, in accordance with paragraph 167(5)(a) of the Act.
+169(1) Where a taxpayer has served notice of objection to an assessment under section 165, the taxpayer may appeal to the Tax Court of Canada to have the assessment vacated or varied after either
+...
+but no appeal under this section may be instituted after the expiration of 90 days from the day notice has been mailed to the taxpayer under section 165 that the Minister has confirmed the assessment or reassessed.
+167(5) No order shall be made under this section unless
+(a) the application is made within one year after the expiration of the time limited by section 169 for appealing.
+169(1) Lorsqu'un contribuable a signifié un avis d'opposition à une cotisation, prévu à l'article 165, il peut interjeter appel auprès de la Cour canadienne de l'impôt pour faire annuler ou modifier la cotisation :
+[...]
+toutefois, nul appel prévu au présent article ne peut être interjeté après l'expiration des 90 jours qui suivent la date où avis a été expédié par la poste au contribuable, en vertu de l'article 165, portant que le ministre a ratifié la cotisation ou procédé à une nouvelle cotisation.
+167(5) Il n'est fait droit à la demande que si les conditions suivantes sont réunies:
+a) la demande a été présentée dans l'année suivant l'expiration du délai imparti en vertu de l'article 169 pour interjeter appel.
+[7] The notice of confirmation of the notice of assessment for the 2000 taxation year is dated November 27, 2002. The expiry date of 90 days following the notice of confirmation was February 25, 2003, and the year following February 25, 2003, is February 25, 2004. According to the Act, Mr. Vigier's application was to be presented before February 25, 2004. The fact that Mr. Vigier did not receive the notice of confirmation does not help him. His application was presented after the time limit set out in the Act. I do not have the discretionary power to extend the time limit.
+[8] Mr. Vigier's application is not valid. His application is dismissed.
+Signed at Ottawa, Canada, this 18th day of November 2004.
+"Gerald J. Rip"
+Rip J.
+Translation certified true
+on this 19th day of September 2005.
+Elizabeth Tan, Translator
+CITATION:
+2004TCC763
+COURT FILE No.:
+2004-3257(IT)APP
+STYLE OF CAUSE:
+Jean-Jacques Vigier
+and Her Majesty the Queen
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+November 4, 2004
+REASONS FOR ORDER BY:
+The Honourable Justice Gerald J. Rip
+DATE OF ORDER:
+November 18, 2004
+APPEARANCES:
+For the Appellant:
+Pierrette Laprade Vigier
+For the Respondent:
+Soleil Tremblay
+(Articling student)
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

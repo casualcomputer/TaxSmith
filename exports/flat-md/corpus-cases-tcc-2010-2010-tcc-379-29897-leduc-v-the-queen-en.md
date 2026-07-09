@@ -1,0 +1,221 @@
+---
+title: "Leduc v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29897/index.do"
+last_modified: "2010-07-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 379"
+citation2: ""
+neutral_citation: "2010 TCC 379"
+decision_date: "2010-07-13"
+language: "en"
+item_id: "29897"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6403
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:10:23.344000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "db28b0eadd5398b17d632904ca5a3391289949abb82603235ddc22efe9de8974"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Leduc v. The Queen
+
+- Citation: 2010 TCC 379
+- Decision date: 2010-07-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6403, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Leduc v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-07-13
+Neutral citation
+2010 TCC 379
+File numbers
+2009-231(IT)G
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-231(IT)G
+BETWEEN:
+EUGÈNE LEDUC,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on June 28 and 29, 2010, and judgment delivered orally
+on June 30, 2010, at Montreal, Quebec.
+Before: The Honourable Justice C.H. McArthur
+Appearances:
+Counsel for the appellant:
+Marc-André Paquin
+Counsel for the respondent:
+Julie David
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2004, 2005 and 2006 taxation years are allowed with costs of $4,000 to the appellant, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that
+(1) unreported business income of $12,500 must be added to the appellant's income for the 2004 taxation year;
+(2) amounts of $2,674, $3,725.41 and $967 are added to the appellant's income for the 2004, 2005 and 2006 taxation years as taxable benefits;
+(3) the penalty under subsection 163(2) of the Act is cancelled.
+Signed at Ottawa, Canada, this 13th day of July 2010.
+“C.H. McArthur”
+McArthur J.
+Translation certified true
+on this 5th day of January 2011.
+Erich Klein, Revisor
+Citation: 2010 TCC 379
+Date: 20100713
+Docket: 2009-231(IT)G
+BETWEEN:
+EUGÈNE LEDUC,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+McArthur J.
+[1] These are appeals from assessments issued on November 20, 2007, by the Minister of National Revenue under the Income Tax Act (the Act) in respect of the 2004, 2005 and 2006 taxation years.
+Issues
+[2] The issues have to do with whether the Minister was correct in adding the amounts of $54,940 and $3,674 in 2004, $7,780 in 2005 and $1,967 in 2006 to the appellant's income under section 9 and subsection 15(1) of the Act and in imposing a penalty of $5,000 under subsection 163(2) of the Act.
+Facts
+[3] The appellant and the Minister agree on the following facts taken from the Reply to the Notice of Appeal:
+[translation]
+(a) During the years at issue, the appellant and his brother Richer Leduc were joint shareholders in 9116‑0879 Québec inc.
+(b) The company 9116‑0879 Québec inc. installed satellite dishes for Bell ExpressVu.
+(c) During the years at issue, the appellant reported only the following income:
+2004
+2005
+2006
+Employment income
+$32,330
+$31,720
+$25,490
+Employment insurance benefits
+$6,195
+Rental income
+($614.48)
+($976.09)
+($762.39)
+Interest
+$210.50
+$104.76
+$1,334.04
+Total income
+$31,926.02
+$30,848.67
+$32,256.65
+Unreported income
+(d) The Minister audited the appellant for the 2004, 2005 and 2006 taxation years. The audit concerned, among other things, the advances made by the appellant to 9116-0879 Québec inc.
+(e) It was noted in analyzing the [Translation] "owing to director" account that several amounts were entered as advances from the appellant.
+(f) Those amounts were cash deposits made in the course of the 2004 taxation year, as follows:
+Date Amount
+19/01/04 $4,960
+02/03/04 $7,000
+27/07/04 $13,000
+07/09/04 $17,000
+15/11/04 $12,980
+Total: $54,940
+. . .
+(i) The entire amount of $54,940 entered in the [translation] "owing to director" account as advances made by the appellant was thus added to the appellant's income for the 2004 taxation year as unreported income.
+Shareholder benefit
+(j) The audit also involved analyzing 9116-0879 Québec Inc.'s shareholder advances account.
+(k) During the years at issue, some of the amounts were entered in the company's ledger in the [translation] "shareholder advances" account.
+(l) The amounts from the [translation] "shareholder advances" account added as a shareholder benefit would be expenses the appellant paid in cash.
+(m) The breakdown of the amounts entered as shareholder advances is as follows:
+Year
+Shareholder’s advances
+2004
+$3,674
+2005
+$7,780
+2006
+$1,967
+Positions of the parties
+[4] The audit focused on the appellant's advances to 9116-0879 Québec Inc. The Minister concluded that, in total, the appellant had put close to $50,000 into the company in 2004. The appellant had no supporting documentation to back up his statements.
+[5] The appellant claims that the money came from his savings, not taxable income.
+Analysis
+[6] The appellant, a friend and four members of his family testified, that is, six people in all. The auditor Julie Dumont testified for the Minister. In different circumstances, I might have thought that having family members testify at the hearing of an appeal of this nature would add nothing to the appellant's assertions. That is not so in this case. The testimony was coherent and without major contradictions. It supports the description given by the appellant in the Notice of Appeal. In sum, I found the witnesses to be credible, and I am basing my decision on their testimony.
+[7] The appellant does not spend much. He is a simple and reserved person. Over the years, he had saved up some money and was able to put close to $55,000 in the company's account from his savings and from loans from others. He has been working since the age of 16; he chose to live with his parents until the age of 32 and did not have to pay rent. He paid his personal expenses. He bought used cars for a few thousand dollars.
+[8] In his testimony, his father, Maurice, said that his son was thrifty. He added with pride that his son, the appellant, followed his example.
+[9] The appellant's expenses are related to sports activities. He plays hockey, baseball and golf ten or so times a year. He spends about $1,000 per year on those activities. He does not buy a lot of clothes, preferring to wear jeans and a T‑shirt or shirt. He does not smoke and rarely drinks alcohol. Like his father, he chooses not to spend much at social events.
+[10] The appellant bought a house in 2000; he paid $3,000 down and pays a little over $600 per month. The appellant did not move into the house. He saw an opportunity to help his sister, Rémie, by renting her the house for $500 per month. The Leduc family knew that the house was rented to Rémie so that she could live there with her family.
+[11] The appellant also kept large amounts of cash in his room at his parents' house. It is difficult to prove the existence of this money. Every taxpayer should bear in mind that he or she is in a partnership with the Canada Revenue Agency and that it may be necessary to account for one's actions.
+[12] The appellant is seen as a thrifty and generous person. He often lends money to his brother and to his friend Guy Breault, and has allowed his sister to pay her rent a little late or in two payments.
+[13] In summary, over the years, he has saved up the following amounts:
+(a) Before 2000, he had accumulated $10,000 from his work and from selling his property.
+(b) He rented his house to his sister from June 15, 2000 to December 15, 2006 for $500 per month.
+(c) In 2005, he sold his car for $3,600. He deposited $400 per month into a bank account.
+[14] In my opinion, the appellant is a responsible young man who is more frugal than most men his age. Given the appellant's personality, I have no doubt that he was able to save up those amounts of money. He lived with his parents and could save money from his employment income. The Minister did not satisfy me that the source of the $55,000 was anything other than the appellant's savings.
+[15] During the years at issue, the appellant and his brother, Richer, operated 9116‑0879 Québec Inc., each of them holding 50% of the company’s shares. They installed satellite dishes for Bell ExpressVu and Look. They acquired a competitor, Métropolitain Satellite (Métro). They hired subcontractors to do the installations. The purchase of Métro was financed through a bank loan and through the payment of royalties to Métro for each installation.
+[16] The appellant was in charge of, among other things, money matters or the business's finances and handling emergencies when problems arose. Richer took care of communicating with clients, Bell stores and installers.
+[17] In this business, a Bell store sells the customer a package that includes a satellite dish. The store then makes an appointment with the customer, and this appointment is sent electronically to 9116-0879 Québec Inc. via the Internet. After Métro was acquired, the installers, who were independent contractors, would send invoices to 9116-0879 Québec Inc, which would then pay them. For their part, the appellant and Richer sent a list of installations to be performed to Bell. Bell could take up to 90 days to pay 9116-0879 Québec inc. about 60% of the amount owing.
+[18] In 2004, the two brothers had a financial problem. The appellant asked his father to give his house as security so that 9116-0879 Québec inc. could obtain a $65,000 line of credit. The appellant and Richer both testified that the line of credit was not enough and that, most of the time, it was entirely used up. At those times, Richer asked the appellant to deposit the necessary funds in the company's account, and the appellant did so, each having the utmost trust in the other. Maurice also loaned $10,000 to the company in two payments. The appellant asked a third party to loan him $12,500.
+[19] The appellant testified first, but it was Richer who provided the Court with the most details regarding the activities of 9116-0879 Québec inc. Richer testified that the acquisition of Métro upset the way he did business. The two brothers were therefore somewhat overwhelmed by events. In a short time, they went from managing a small local business to managing a business on a provincial scale. Métro dealt with 25 stores on the North Shore, on the South Shore and in Montreal. Richer wanted the business to expand to the Ontario border, Quebec City and Sherbrooke. In his testimony, Richer was the first to admit that it was perhaps too early for the business to grow, because much fewer dishes were installed in 2006. Bell wanted to do business with only one subcontractor. At that time, the two brothers decided to stop working together at the company. The appellant left in April 2006 and was reimbursed in two separate payments the $55,000 advanced to the company. That reimbursement was possible because Bell had sent them its last payment. They also repaid the line of credit, the $10,000 loan from their father and the $12,500 loan from an unidentified third party and paid the suppliers and installers.
+[20] The burden of proof on the appellant is that of proof on the balance of probabilities. The fundamental principle found in Hickman Motors v. The Queen[1] is that the taxpayer must rebut the Minister's assumptions of fact by making a prima facie case. The burden will be discharged if the taxpayer presents credible and uncontradicted evidence on this point. In this case, I find that the appellant has succeeded in so doing, except with regard to the $12,500 loan from a third party. The name of the third party was not disclosed, and the evidence does not enable me to conclude that this loan existed. I am not prepared to give any weight to this mysterious transaction.
+[21] Counsel representing the Minister invoked the decision in Sanchez v. The Queen[2] in support of the Minister’s position in the appeal. That decision, rendered by Justice Tardif, is based largely on the facts that were presented and the credibility of the witnesses. However, I am making a different finding of fact from that of my colleague.
+[22] With respect to the shareholder advances, the testimony of Ms. Dumont, the auditor from the Canada Revenue Agency, proved very useful. In theory, the taxpayer is obliged to prove his expenses by means of supporting documents and his testimony; if the appellant does not do so adequately, the expenses cannot be allowed.
+[23] In this case, the appellant provided the Court with two envelopes containing invoices supporting the amounts for the 2004 and 2005 taxation years. In his testimony, the appellant indicated that, when he paid an invoice by cheque, he wrote the cheque number on the invoice. When an invoice was paid in cash, there was no number written on the invoice. Richer confirmed this practice in his testimony. Ms. Dumont was able to identify several invoices in the envelopes that 9116-0879 Québec inc. had paid by cheque.
+[24] It is not this Court’s role to act as an auditor or accountant. On the one hand, the evidence shows that the appellant and his brother wrote the numbers of cheques on the invoices paid. On the other hand, Ms. Dumont found that there were errors on the invoices in the envelopes. I am in a difficult position. The appellant in managing a business and travelling for that purpose, as he did, obviously had expenses, which he must have paid in cash, as was his habit.
+Penalties
+[25] The Minister requests that a penalty under subsection 163(2) of the Act be imposed on the appellant. I cite paragraph 37 of Venne v. The Queen:[3]
+. . . "Gross negligence" must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not.
+[26] Similarly, Chief Justice Bowman added the following in DeCosta v. The Queen:[4]
+In drawing the line between "ordinary" negligence or neglect and "gross" negligence a number of factors have to be considered. One of course is the magnitude of the omission in relation to the income declared. Another is the opportunity the taxpayer had to detect the error. Another is the taxpayer's education and apparent intelligence. No single factor predominates. Each must be assigned its proper weight in the context of the overall picture that emerges from the evidence.
+[27] I simply do not believe that the appellant’s actions are on the scale of gross negligence. His conduct was appropriate for the circumstances. The penalty should be cancelled.
+[28] In conclusion, the amount of $12,500 should be added to the appellant's income as unreported business income for the 2004 taxation year. The amounts of $2,674, $3,725.41 and $967 are added to the appellant's income for the 2004, 2005 and 2006 taxation years as taxable benefits, and the penalty under subsection 163(2) of the Act is cancelled.
+[29] I also award the appellant $4,000 given his mixed success.
+Signed at Ottawa, Canada, this 13th day of July 2010.
+“C.H. McArthur”
+McArthur J.
+Translation certified true
+on this 5th day of January 2011.
+Erich Klein, Revisor
+CITATION: 2010 TCC 379
+COURT FILE NO.: 2009-231(IT)G
+STYLE OF CAUSE: EUGÈNE LEDUC v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: June 28 and 29, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice C.H. McArthur
+DATE OF JUDGMENT: July 13, 2010
+APPEARANCES:
+Counsel for the appellant:
+Marc-André Paquin
+Counsel for the respondent:
+Julie David
+COUNSEL OF RECORD:
+For the appellant:
+Name: Marc-André Paquin
+Firm: Dupuis Paquin
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 97 DTC 5363 (S.C.C.).
+[2] 2010 TCC 283.
+[3] 1984 CarswellNat 210, No. T-815-82, April 9, 1984 (C.F.T.D.).
+[4] 2005 TCC 545.

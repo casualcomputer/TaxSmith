@@ -1,0 +1,185 @@
+---
+title: "Major v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521308/index.do"
+last_modified: "2024-07-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2024 TCC 106"
+citation2: ""
+neutral_citation: "2024 TCC 106"
+decision_date: "2024-07-31"
+language: "en"
+item_id: "521308"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5731
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2025-05-19T11:43:45.306000+00:00"
+cases_cited_count: 4
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a61d366f2e9d3d6bc1fc02c95ea2dd81a3dea368e9cd30912158568c5b722dd5"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Major v. The King
+
+- Citation: 2024 TCC 106
+- Decision date: 2024-07-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5731, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Major v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2024-07-31
+Neutral citation
+2024 TCC 106
+File numbers
+2023-2059(IT)I
+Judges and Taxing Officers
+Scott Bodie
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2023-2059(IT)I
+BETWEEN:
+GINGER G. MAJOR,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on May 27, 2024, at Toronto, Ontario
+Before: The Honourable Justice Scott Bodie
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+James Whittier
+JUDGMENT
+The appeal of the determination of the Appellant’s entitlement to the Disability Tax Credit for the 2022 taxation year is dismissed, without costs.
+Signed at Calgary, Alberta, this 31st day of July 2024.
+“J. Scott Bodie”
+Bodie J.
+Citation: 2024 TCC 106
+Date: 20240731
+Docket: 2023-2059(IT)I
+BETWEEN:
+GINGER G. MAJOR,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Bodie J.
+[1] The Appellant is a high school history teacher. She was diagnosed with Multiple Chemical Sensitivity (“MCS”) several years ago. As a result of this condition she has a high degree of sensitivity to numerous triggers, including most perfumes, bleaches, chlorine pools, gases, cosmetics and hand sanitizers.
+[2] The Appellant is appealing a determination made by the Minister of National Revenue (“Minister”) under subsection 152(1.01) of the Income Tax Act (the “Act”) that the Appellant was not eligible for the disability tax credit (“DTC”) available under sections 118.3 and 118.4 of the Act for her 2022 taxation year. Accordingly, the issue in this appeal is whether in her 2022 taxation year, the Appellant met the eligibility criteria for the DTC set out in those sections of the Act.
+[3] For the reasons that follow, this appeal is dismissed.
+[4] The criteria set out in subsection 118.3(1) of the Act which must be met by an individual in order to be eligible for the DTC are very restrictive and not all cases of impairment will qualify an individual for the DTC. Broadly speaking, in order for an individual to be eligible to claim the DTC, each of the following three conditions must be met:
+an individual must have one or more severe and prolonged impairments in physical or mental functions;
+the effects of the impairment or impairments must be such that the individual’s ability to perform one ormore basic activities of daily living must be markedly restricted; and
+the individual must provide a medical practitioner’s certificate certifying that each of the two requirements listed above have been met.
+[5] I will examine each of these conditions as they apply to the case at hand in turn.
+1. Severe and Prolonged Physical or Mental Impairment(s) [6] There is no definition in the Act of the term “severe”. However, pursuant to paragraph 118.4(1)(a) of the Act an impairment is prolonged where the impairment has lasted, or can reasonably be expected to last, for a continuous period of at least 12 months.
+[7] The Appellant was the sole witness in this appeal. She represented herself very well. I found her to be a reliable and credible witness.
+[8] The Appellant testified that she has suffered with MCS for a number of years. She first became aware of the condition in 2011 when her medical practitioner at the time first mentioned it as a possible explanation for a collapsed lung she had suffered. She testified that at the time, a diagnosis of MCS was very rare. However since that time, she has received confirmation of this diagnosis from a number of medical practitioners. She testified that as a result of MCS, exposure to the triggers listed above can be debilitating and even life-threatening as a result of anaphylactic reactions which lead to full or partial closing of her throat. These reactions seriously restrict her ability to breath, walk and speak until she can escape from the triggering substance. On cross examination, the Appellant estimated that in her lifetime she had experienced anaphylaxis 20 to 30 times. On two or three of such occasions, she had experienced a full closing of her throat.
+[9] The Appellant further testified that MCS is a permanent condition which she has had for about twenty years and from which she expects to suffer for the rest of her life.
+2. The Effects of the Impairment(s) are such that the individual’s ability to perform one or more basic activities of daily living is markedly restricted
+[10] Paragraph 118.3(1)(a.1) of the Act requires that the effects of the severe and prolonged impairment must be such that at least one of the following apply:
+the individual’s ability to perform a basic activity of daily living is markedly restricted;
+the individual’s ability to perform a basic activity of daily living would be markedly restricted if not for therapy that:
+is essential to sustain a vital function of the individual;
+is required to be administered at least two times each week for a total duration averaging not less than 14 hours a week; and
+cannot reasonably be expected to be of significant benefit to persons who are not so impaired; or
+the individual’s ability to perform more than one basic activity of daily living is significantly restricted where the cumulative effect of those restrictions is equivalent to having a marked restriction in the ability of the individual to perform a basic activity of daily living.
+[11] Paragraph 118.4(1)(c) of the Act provides that a basic activity of daily living means:
+mental functions necessary for everyday life;
+feeding oneself or dressing oneself;
+speaking so as to be understood, in a quiet setting, by another person familiar with the individual;
+hearing so as to understand, in a quiet setting, another person familiar with the individual;
+eliminating (bowel or bladder functions); or
+walking.
+[12] Paragraph 118.4(1)(c.1) of the Act provides that mental functions necessary for everyday life include:
+attention;
+concentration;
+memory;
+judgment;
+perception of reality;
+problem solving;
+goal setting;
+regulation of behavior and emotions;
+verbal and non-verbal comprehension; and
+adaptive functioning.
+[13] Paragraph 118.4(1)(d) of the Act provides that no other activity (apart from those listed in paragraph 118.4(1)(c) above) including working, housekeeping or a social or recreational activity is considered a basic activity of daily living. I note that the use of the word “include” in paragraph 118.4(1)(c.1) suggests that the mental functions necessary for everyday life are not necessarily restricted to those functions listed above.
+[14] Pursuant to paragraph 118.4(1)(b) of the Act an individual’s ability to perform a basic activity of daily living is markedly restricted only where all or substantially all of the time, even with therapy and the use of appropriate devices and medication, the individual is unable (or requires an inordinate amount of time) to perform a basic activity of daily living.
+[15] The term “adaptive functioning” used in paragraph 118.4(1)(c.1) is not defined in the Act. In Green v Her Majesty the Queen, 2019 TCC 74 (T.C.C. [Informal Procedure]) at paragraph 52, this Court noted that the term has been described as “how well a person handles common demands in life and how independent they are compared to others of similar age and background”.
+[16] The explanatory notes for paragraph 118.4(1)(c.1) describe adaptive functioning as abilities that are related to self-care, health and safety, social skills and common simple transactions.
+[17] In Cochrane v Her Majesty the Queen, 2018 TCC 212 (T.C.C. [Informal Procedure]) at paragraph 20, this Court found that the taxpayer’s inability to leave her house was indicative of a marked restriction in mental functions necessary for everyday life. The taxpayer suffered from severe anxiety and panic attacks that restricted her from initiating and responding to social interactions appropriately.
+[18] The Appellant was clear on the effects that MCS have on her daily living. She testified that the only effective treatment is to avoid chemical triggers. She testified that the time that she has to spend to keep her environment safe is overwhelming. She said she needs to ask for accommodations for everything. She then described various examples of these accommodations that are necessary to keep her safe. First, in order to be vaccinated against Covid-19, she had to make special arrangements to receive the vaccination injection outdoors to avoid the hand sanitizers that would otherwise be used by both patients and medical staff at a clinic. Secondly, in order to get blood work she has to make special arrangements with homecare providers. Thirdly, in order to receive proper dental care, she has to find a hygienist that will do home visits. Fourthly, to renew her driver’s license she has to arrange for testing to be done outside of regular hours to avoid the public, for fear of being exposed to perfumes and other chemicals that may trigger a dangerous reaction. Fifthly, she cannot walk into any public spaces including hospitals without her life being at risk due to the severity of her condition. Last, the Appellant described the accommodations that have been made by her employer so that she can continue to teach. Her school has instituted a scent free policy for staff and students. Her time is spent mainly assisting students involved in e-learning programs and when at the school she wears a mask to reduce the risks of exposure.
+3.Positive Certification
+[19] Paragraph 118.3(1)(a.2) of the Act requires that a medical practitioner certify, in a prescribed form, that the two conditions discussed above have been met. A medical practitioner must certify both:
+that the impairment is severe and prolonged; and
+that the effects of such impairment are such that the individual’s ability to perform a basic activity of daily living is markedly restricted.
+[20] The prescribed form in this case is Form T2201.
+[21] When analyzing Form T2201, courts have often referred to a negative medical certificate and a positive medical certificate. A negative medical certificate is one that does not provide certification that the taxpayer’s impairments meet both of the requirements set out above, while a positive certificate is one that does provide the required certifications.
+[22] Form T2201 is comprised of two parts. Part A is entitled “Individual’s section”. This part is comprised of pages 1 and 2 and is meant to capture all of the applying individual’s identifying information. Part B is entitled “Medical practitioner’s section”. This is comprised of pages 3 to 16. An examination of the information requested on these pages indicates that page 3 contains instructions for the medical practitioner and pages 4 to 14 are designed to enable a medical practitioner to certify and describe, as appropriate, how the effects of an individual’s impairment(s) markedly restrict the applying individual’s basic activities of daily living. Pages 15 and 16 of the form then invite the medical practitioner to describe any life-sustaining therapies received by the applying individual and whether the impairment that necessitated the life-sustaining therapies lasted or is expected to last, for a continuous period of at least 12 months.
+[23] On cross-examination, a copy of the Form T2201 submitted by the Appellant to the Canada Revenue Agency in support of her application with respect to the 2022 taxation year was put to the Appellant. It was noted that the form submitted did not include pages 3 to 14. When asked for an explanation for this omission, the Appellant said, “They do not reflect, if I can get the wording correct here, that I have function except when exposed to chemicals. And so these pages didn’t apply to the chemical exposure needs that I have.”
+[24] Part B of the Form T2201 submitted by the Appellant did include pages 15 and 16 which were completed by a medical practitioner and indicated that the Appellant’s condition was a lifelong chronic medical illness. However the medical practitioner did not describe or certify how the effects of this lifelong chronic medical illness are such that the Appellant’s ability to perform basic activities of daily living is markedly restricted.
+[25] The fact that such effects were not described in the form itself is not necessarily fatal to the Appellant’s application. Paragraph 118.3(4)(b) of the Act is a relieving provision which deems additional information provided by a medical practitioner to be included in a certificate in prescribed form.
+[26] Additional information in the form of letters written by medical practitioners was introduced into evidence. Such additional information described the Appellant’s diagnosis, reiterated that her condition was lifelong and recommended certain accommodations to her employer to enable the Appellant to continue working. However such additional information did not describe how effects of the Appellant’s condition restricted her ability to perform basic activities of daily living.
+[27] I note that by virtue of the accommodations recommended by these medical practitioners to the Appellant’s employer it may be possible to deduce some of the restrictive effects of the Appellant’s impairment. However even if this were possible, it would not be enough to convert an otherwise negative medical certificate into a positive medical certificate. The recommendations provided by the Appellant’s medical practitioners were restricted to recommendations addressed to the Appellant’s employer to enable her to continue her work. In order to qualify as a positive medical certificate, the certificate must certify that the effects of the impairment markedly restrict the individual’s ability to perform basic activities of daily living. Under paragraph 118.4(1)(d) of the Act the term basic activity of daily living specifically excludes working.
+[28] The Appellant’s evidence on how her condition restricts her independence and ability to participate in many of life’s common transactions was compelling. However, neither the form nor the additional information she submitted to the Canada Revenue Agency in support of her application contained the necessary certification of a medical practitioner to such restrictions.
+[29] In MacIsaac v R, 2000 D.T.C. 6020, the Federal Court of Canada – Appeal Division, said that it was mandatory that a taxpayer provide a certificate from a doctor stating that the taxpayer suffers from an impairment as described in subsection 118.3(1). The Court held that such a certificate is a prerequisite to obtaining the DTC. This court in Corbett v R, 2008 TCC 499 (T.C.C. [Informal Procedure]) at paragraph 11, reiterated that in order to meet this prerequisite the certificate must specify the activity or activities of daily living which are impaired and which are restricted.
+[30] The certifications from the Appellant’s medical practitioners clearly met the first requirement of such certifications as they certified that her condition was severe and prolonged. However they did not provide the necessary certification with respect to the effects of such severe and prolonged condition. The Act requires both such certifications.
+[31] Although I am sympathetic to the extreme measures which the Appellant must incorporate into and adopt as part of her daily living to avoid exposure to a large list of chemicals so prevalent in our modern society, a certificate signed by a medical practitioner which does not provide certification as to the effects of the Appellant’s condition cannot be considered a positive medical certificate. She cannot be successful in her appeal on the strength of her evidence alone. A positive medical certificate is required. The Federal Court of Canada – Appeal Division, said in Buchanan v R, 2002 FCA 231 at paragraph 25, “The [Act] requires the positive certificate of a physician. That means that the function of the Tax Court Judge is not to substitute his or her opinion for that of the physician, but to determine, based on medical evidence, whether a negative certificate should be treated as a positive certificate.”
+[32] At paragraph 26, the Court added “… a positive medical certificate is a requirement of subsection 118.3(1). The court does not have a policy making role. If the requirements of the Act are seen to be impracticable, it is Parliament that must address the necessary changes.”
+Disposition
+[33] Accordingly, for purposes of the Appellant’s application with respect to her 2022 taxation year, the Appellant has not shown that she complied with all of the conditions mandated by section 118.3 of the Act to be successful in claiming the DTC.
+[34] For these reasons, the appeal is dismissed, without costs.
+Signed at Calgary, Alberta, this 31st day of July 2024.
+“J. Scott Bodie”
+Bodie J.
+CITATION:
+2024 TCC 106
+COURT FILE NO.:
+2023-2059(IT)I
+STYLE OF CAUSE:
+GINGER G. MAJOR v. HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+May 27, 2024
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Scott Bodie
+DATE OF JUDGMENT:
+July 31, 2024
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+James Whittier
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+BLANKBLANK
+Firm:
+BLANK
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada

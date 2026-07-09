@@ -1,0 +1,158 @@
+---
+title: "Geoffrey Wayne v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29285/index.do"
+last_modified: "2009-06-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 353"
+citation2: ""
+neutral_citation: "2009 TCC 353"
+decision_date: "2009-06-25"
+language: "en"
+item_id: "29285"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7086
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:10:57.409000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "dbc9049e816a32692effb170ec5beb50b9e1ae64c9a5c0ddb91df04a7a01aeb4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Geoffrey Wayne v. The Queen
+
+- Citation: 2009 TCC 353
+- Decision date: 2009-06-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7086, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Geoffrey Wayne v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-06-25
+Neutral citation
+2009 TCC 353
+File numbers
+2008-199(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-199(IT)I
+BETWEEN:
+GEOFFREY WAYNE ELLIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 25, 2009 at Hamilton, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Amit Ummat
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to an assessment made under the Income Tax Act for the 2006 taxation year is dismissed.
+Signed at Ottawa, Canada, this 30th day of June 2009.
+“J. M. Woods”
+Woods J.
+Citation: 2009 TCC 353
+Date: 20090630
+Docket: 2008-199(IT)I
+BETWEEN:
+GEOFFREY WAYNE ELLIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] The question in this appeal is whether the appellant, Geoffrey Ellis, is entitled to a deduction for child support payments made to his ex-spouse in 2006. The amount of the deduction sought is $3,900.
+[2] The conclusion that I have reached is that the deduction has been correctly disallowed.
+[3] Under the relevant legislative scheme, a child support payment is deductible to a payer only if the amount is receivable under an order of a competent tribunal or under a written agreement. This requirement is fatal to Mr. Ellis’ claim.
+[4] The relevant legislative provisions of the Act are paragraph 60(b), the definition of “support amount” in subsection 56.1(4) and subsection 60.1(4). Excerpts of these provisions are reproduced below.
+60. Other deductions -- There may be deducted in computing a taxpayer's income for a taxation year such of the following amounts as are applicable:
+[…]
+(b) [spousal or child] support -- the total of all amounts each of which is an amount determined by the formula
+A - (B + C)
+where
+A is the total of all amounts each of which is a support amount paid after 1996 and before the end of the year by the taxpayer to a particular person, where the taxpayer and the particular person were living separate and apart at the time the amount was paid,
+[…]
+56.1(4) Definitions -- The definitions in this subsection apply in this section and section 56.
+"support amount" means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and
+(a) the recipient is the spouse or common-law partner or former spouse or common-law partner of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage or common-law partnership and the amount is receivable under an order of a competent tribunal or under a written agreement; or
+[…]
+(4) Definitions -- The definitions in subsection 56.1(4) apply in this section and section 60.
+[Emphasis added.]
+[5] The circumstances surrounding the payments by Mr. Ellis are set out below.
+[6] In 1995, Mr. Ellis and his common-law spouse separated and entered into a mediation process which resulted in their signing a hand-written agreement.
+[7] I have reproduced below the relevant provisions of the agreement, but I would comment that the writing is at times difficult to decipher.
+Mr. Ellis shall use his best efforts to provide clothing and other necessaries for the child. It is acknowledged that there is a special need for the spring and fall.
+This agreement is without prejudice to Ms. Leonard’s right to bring a support application for the child in a court of competent jurisdiction.
+For so long as Mr. Ellis is not paying monthly child support, he shall accumulate sufficient funds to purchase and purchase annually a $500 Canada Savings Bond in the name of the child, the first Bond to be purchased in the fall of 1996. Ms. Leonard shall have custody of the bond once it is paid for. It is not [unclear] to be used for purposes other than the child’s post secondary education without the consent of Mr. Ellis.
+[8] The agreement does not provide for monthly support payments but it contemplates that they may be made in future. The reason that the agreement was drafted in this manner is that Mr. Ellis could not afford monthly payments at the time.
+[9] Shortly after the agreement was made, Mr. Ellis’ finances improved. When he became able to make monthly payments, he did so and in varying amounts which increased over time as his financial situation continued to improve.
+[10] It is not clear from the evidence when the monthly support payments commenced but nothing turns on this.
+[11] Of more relevance are the support payments made in 2006. It is not in dispute that monthly support payments in a total amount of $3,900 were made in 2006.
+[12] It is also not in dispute that the 1995 agreement is the only written agreement relating to child support.
+[13] In order for Mr. Ellis to succeed in this appeal, the payments made by him in 2006 must be receivable by his ex-spouse under a written agreement.
+[14] This requirement has been acknowledged in many decisions of this Court, as well as decisions of the Federal Court of Appeal: Martin v. The Queen, 2005 FCA 297, 2006 DTC 6523; Hodson v. The Queen, 88 DTC 6001 (FCA).
+[15] In the present circumstances, the monthly support amounts that were paid by Mr. Ellis in 2006 were not provided for in the 1995 written agreement. Mr. Ellis does not dispute this.
+[16] Mr. Ellis submits that some relief should be given because the written agreement provides for clothing and other necessaries, as well as a $500 Canada Savings Bond.
+[17] Although I have sympathy for Mr. Ellis’ circumstances in this appeal, I cannot agree with his submission.
+[18] The 1995 written agreement did provide for the provision of necessaries on a best efforts basis. However, there is not sufficient evidence linking the monthly payments in 2006 to this requirement. In particular, there was no evidence as to what portion of the monthly payments was to be used for necessaries. Without some link between payments that were made and the provision of necessaries, there is no basis on which I could allow any of the amount claimed.
+[19] As for the requirement to purchase a Canada Savings Bond, Mr. Ellis’ argument is not exactly clear to me.
+[20] Mr. Ellis testified that he purchased a Bond in 1996. If what is being sought is a deduction for this expenditure, there is no basis to give a deduction for this in 2006 because Mr. Ellis testified that he had already claimed a deduction for this amount in the earlier year. Expenses cannot be deducted more than once.
+[21] If Mr. Ellis’ argument does not relate to the 1996 Bond but instead to the annual obligation to purchase a Bond, this obligation was not operative in 2006 because it only applied if Mr. Ellis was not making monthly support payments. Since monthly payments were made in 2006, there was no requirement to purchase a bond in that year.
+[22] For these reasons, I do not agree that some deduction should be allowed in respect of the obligation to purchase a bond.
+[23] Unfortunately for Mr. Ellis, in the 2006 taxation year support payments were made outside the purview of the written agreement. No deduction is available for these types of expenses.
+[24] Lastly, Mr. Ellis submits that it is unfair for him to be denied a deduction because his ex-spouse agreed to include the amount in her income.
+[25] Whether or not Mr. Ellis’ ex-spouse included the $3,900 payment in her income is not a relevant factor in this appeal. It may seem unfair, but there is no requirement for the Canada Revenue Agency to treat the recipient and the payer of support payments on a consistent basis.
+[26] For these reasons, the appeal will be dismissed.
+Signed at Ottawa, Canada, this 30th day of June 2009.
+“J. M. Woods”
+Woods J.
+CITATION: 2009 TCC 353
+COURT FILE NO.: 2008-199(IT)I
+STYLE OF CAUSE: GEOFFREY WAYNE ELLIS and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Hamilton, Ontario
+DATE OF HEARING: June 25, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice J. M. Woods
+DATE OF JUDGMENT: June 30, 2009
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Amit Ummat
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

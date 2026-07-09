@@ -1,0 +1,265 @@
+Title: Marchan v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28540/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-158-28540-marchan-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-03-17
+
+# Marchan v. The Queen
+
+- Citation: 2008 TCC 158
+- Decision date: 2008-03-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1172, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Marchan v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-03-17
+Neutral citation
+2008 TCC 158
+File numbers
+2007-3078(IT)I
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-3078(IT)I
+BETWEEN:
+ANTHONY MARCHAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on March 3, 2008, at Toronto, Ontario.
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Sharon Lee
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the Appellant’s 2005 taxation year is dismissed without costs.
+Signed at Halifax, Nova Scotia, this 17th day of March 2008.
+“Wyman W. Webb”
+Webb J.
+Citation: 2008TCC158
+Date: 20080317
+Docket: 2007-3078(IT)I
+BETWEEN:
+ANTHONY MARCHAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb J.
+[1] The issue in this case is whether the Appellant is entitled to a deduction, under subsection 126(1) of the Income Tax Act ("Act") in computing his tax liability under the Act for 2005, for certain amounts withheld from his proceeds of disposition of shares of The Boeing Company (“Boeing”).
+[2] The Appellant is an accountant. He was employed by Boeing Toronto Limited, which is a wholly owned subsidiary of Boeing, and he worked in Toronto. As part of the terms of the Appellant's employment he received stock options for the shares of Boeing. In 2005, he exercised a portion of those options and then sold 190 shares of Boeing back to Boeing.
+[3] The Appellant did not pay for the options. The Appellant submitted a data summary sheet showing the sale of Boeing shares. The following table summarizes the information related to the acquisition and disposition of the shares:
+Exercise Date
+Apr. 27, 2005
+Apr. 27, 2005
+Aug. 9, 2005
+Total
+Quantity (1):
+120
+40
+30
+190
+Grant price (USD)(2):
+$34.58
+$40.28
+$40.28
+Cost (1) x (2) (USD):
+$4,149.60
+$1,611.20
+$1,208.40
+$6,969.20
+Sale Price (USD):
+$59.97
+$59.97
+$57.10
+Gross Proceeds (USD):
+$7,196.40
+$2,398.80
+$2,013.00
+$11,608.20
+Gross Proceeds (Cdn):
+$8,971.03
+$2,990.34
+$2,444.18
+$14,405.55
+Commissions / Fees (Cdn)
+$25.32
+$6.35
+$30.46
+$62.13
+Net Proceeds (Cdn):
+$8,945.71
+$2,983.99
+$2,413.72
+$14,343.42
+Cost (Cdn):
+$5,172.89
+$2,008.52
+$1,467.24
+$8,648.65
+Tax Withheld (Cdn):
+$2,504.81
+$835.52
+$675.84
+$4,016.17
+Cheque (Cdn):
+$1,268.01
+$139.95
+$270.64
+$1,678.60
+[4] I conclude that the exercise price for the shares was paid by the Appellant when the option was exercised, as the grant price was deducted from the gross proceeds that would otherwise have been payable to the Appellant on the sale of the shares. The total amount of the three cheques paid to the Appellant for the 190 shares was US$1,352.34 which would be CAN$1,678.60.
+[5] The following table illustrates the capital gain, taxable capital gain and amount withheld as a percentage of the net proceeds and taxable capital gain:
+Exercise Date
+Apr. 27, 2005
+Apr. 27, 2005
+Aug. 9, 2005
+Total
+Quantity:
+120
+40
+30
+190
+Gross Proceeds (Cdn):
+$8,971.03
+$2,990.34
+$2,444.18
+$14,405.55
+Commissions / Fees (Cdn)
+$25.32
+$6.35
+$30.46
+$62.13
+Net Proceeds (Cdn):
+$8,945.71
+$2,983.99
+$2,413.72
+$14,343.42
+Cost (ACB) (Cdn):
+$5,172.89
+$2,008.52
+$1,467.24
+$8,648.65
+Capital Gain (Cdn):
+$3,772.82
+$975.47
+$946.48
+$5,694.77
+Taxable capital gain (Cdn):
+$1,886.41
+$487.73
+$473.24
+$2,847.38
+Tax Withheld (Cdn):
+$2,504.81
+$835.52
+$675.84
+$4,016.17
+Tax Withheld as a percentage of the Net Proceeds:
+28%
+28%
+28%
+28%
+Tax withheld as a percentage of the capital gain:
+66%
+86%
+71%
+71%
+[6] When the Appellant filed his income tax return for 2005 he reported a capital gain of $5,695 and a taxable capital gain of $2,847. The Respondent agrees with these amounts. The only dispute relates to the deduction of $4,016.17 that the Appellant claimed pursuant to subsection 126(1) of the Act in determining his tax liability. This was the amount withheld by the brokerage firm that handled the sale transaction for the Boeing shares.
+[7] The Appellant also stated that his total qualifying incomes for the purposes of subparagraph 126(1)(b)(i) of the Act were $14,343 in 2005. This amount is equal to the net proceeds stated above. However while the Appellant included this amount in calculating his qualifying incomes, he did not include this amount in determining his income for the purposes of subparagraph 126(1)(b)(ii) of the Act. The only amount related to the Boeing shares that was included by the Appellant in his income for the purposes of subparagraph 126(1)(b)(ii) of the Act was $2,847 – the amount of the taxable capital gain.
+[8] Subsection 126(7) of the Act provides that:
+“qualifying incomes” of a taxpayer from sources in a country means incomes from sources in the country, determined in accordance with subsection (9);
+[9] The incomes that comprise “qualifying incomes” would be incomes determined in accordance with the Act. Therefore, in relation to a disposition of shares that results in a capital gain for the purposes of the Act, the proceeds realized from the disposition of the shares minus the fees and commissions related to the disposition would not be the amount that would be included in determining qualifying incomes for the purposes of subsection 126(1) of the Act. The amount that would be included would be the amount of the taxable capital gain.
+[10] However, the issue in this case is whether the amounts that were deducted by the brokerage firm were taxes that were paid to the United States. In order for the Appellant to claim a credit for foreign taxes paid under section 126 of the Act, the Appellant must have paid non-business income tax to a government of a country other than Canada.
+[11] The position of the Respondent in this case is that there was no liability to pay any amount to the US government as taxes in relation to this disposition of shares by the Appellant. The Appellant was neither a resident of the United States nor a citizen of the United States. The Appellant worked in Toronto and was a resident of Canada. He is also a Canadian citizen. The position of the Respondent was that any gain realized by the Appellant as a result of the disposition of the shares will be exempted from US tax as a result of the application of Article XIII of the Canada ‑ US Tax Convention.
+[12] The Appellant's position is that the stock option plan was established by his employer, the amounts were deducted by the brokerage firm acting for his employer, he had no control over the deduction of these amounts and that these amounts were a tax. The Appellant submitted a copy of the US code collection Section 1441 which is found in Title 26 of the Internal Revenue Code, Subtitle A, Chapter 3, Subchapter A. This section provides, in part, as follows:
+1441. Withholding of tax on nonresident aliens (a) General rule
+Except as otherwise provided in subsection (c), all persons, in whatever capacity acting (including lessees or mortgagors of real or personal property, fiduciaries, employers, and all officers and employees of the United States) having the control, receipt, custody, disposal, or payment of any of the items of income specified in subsection (b) (to the extent that any of such items constitutes gross income from sources within the United States), of any nonresident alien individual or of any foreign partnership shall (except as otherwise provided in regulations prescribed by the Secretary under section 874) deduct and withhold from such items a tax equal to 30 percent thereof….
+(emphasis added)
+[13] This provision provides that, if applicable, the amount to be withheld is 30% of the income amounts identified in 1441(b), which provides, in part, as follows:
+(b) Income items
+The items of income referred to in subsection (a) are interest (other than original issue discount as defined in section 1273), dividends, rent, salaries, wages, premiums, annuities, compensations, remunerations, emoluments, or other fixed or determinable annual or periodical gains, profits, and income, gains described in section 631 (b) or (c), amounts subject to tax under section 871 (a)(1)(C), gains subject to tax under section 871 (a)(1)(D), and gains on transfers described in section 1235 made on or before October 4, 1966….
+[14] The Form 1099 for 2005 that the Appellant received from the brokerage firm suggests that the amount withheld was based on the Net Proceeds as stated in table above. However, the amount withheld as a percentage of the net proceeds was 28% not 30% (which is from the table above and which is the same percentage determined based on the US dollar amounts set out in the Form 1099). As well since the grant price was deducted from the proceeds payable to the Appellant (and hence the Appellant paid the grant price), the payor knew the amount of the gain realized by the Appellant and it is not clear why the amount withheld would not have been based on the gain and not the net proceeds.
+[15] US Code Collection section 1441 does not, however, conclusively establish that the amounts should have been withheld under this paragraph. This section notes that the persons identified in the first part shall “except as otherwise provided in regulations prescribed by the Secretary under section 874” deduct and remit the appropriate amounts. However, since these regulations were not submitted at the hearing, it cannot be determined whether there is any applicable exception to this requirement to withhold in these regulations, and therefore it cannot be determined whether these amounts were required to be withheld from the Appellant.
+[16] The provision of any regulations passed in accordance with the laws of the United States would be a matter of foreign law. Justice Rothstein in Backman v. The Queen, 178 D.L.R. (4th) 126, [1999] F.C.J. No. 1327, stated as follows:
+38 Where foreign law is relevant to a case, it is a question of fact which must be specifically pleaded and proved to the satisfaction of the Court. Professor J.-G. Castel has summarized the effect of the failure of a party to establish foreign law as a fact before the Court:
+If foreign law is not pleaded and proved or is insufficiently proved, it is assumed to be the same as the lex fori. This seems to include statutes as well as the law established by judicial decision.
+39 Professor Castel acknowledges that some Canadian courts have been reluctant to apply the presumption that the law of the foreign jurisdiction is the same as that of the forum, where the law of the forum is a statute. However in Fernandez v. Mercury Bell (The), Marceau J.A. held that the salient distinction is not whether the law of the forum is statutory or common law:
+What has appeared constant to me, however, in reading the cases, is the reluctance of the judges to dispose of litigation involving foreign people and foreign law on the basis of provisions of our legislation peculiar to local situations or linked to local conditions or establishing regulatory requirements. Such reluctance recognizes a distinction between substantive provisions of a general character and others of a localized or regulatory character; this distinction, a distinction, formally endorsed I think by Cartwright J. in the two passages I have just quoted, is wholly rational which is more than can be said of a simple division between common law and statute law. …
+In a separate concurring opinion, Hugessen J.A. observed that even at the time when the preponderance of English law was judge-made, it was doubtful that it would have been argued that a statute of general application should not come within the rule of presumption:
+My second observation relates to the suggestion, in some of the authorities, that the application of the lex fori is limited to the common law as settled by judicial decisions and excludes all statutory provisions. Here again I think the expressions of the rule have been coloured by the historical context and go back to a time when the great body of English law was judge-made; statutes were creatures of exception, outside the general body of the law. Even at that time, however, I doubt that it would seriously have been argued that a statute of general application such as, for example, the Bills of Exchange Act should be overlooked, so as to oblige the court to search in the obscurities of history to determine the state of the law prior to its enactment. The proper expression of the rule, as it seems to me, is that the court will apply only those parts of the lex fori which form part of the general law of the country.
+40 I think that legislation with respect to partnerships is such an example of statutory law of general application. There is nothing intrinsically local or particular with respect to partnerships, and there is considerable uniformity in this area of law across jurisdictions.
+[17] In my opinion, the income tax laws of any country would not be considered to be statutory laws of general application for the purposes of the application of the lex fori to any unproven tax laws of a foreign jurisdiction, and therefore the provisions of the Act and the Income Tax Regulations should not be applied to fill in any gaps missing from the US tax laws that have been established at the hearing. Since the Appellant has not established that the regulations referred to in US Code Collection section 1441 do not apply to exempt his payments from the tax imposed under this section and since the amounts deducted do not correspond to the amounts referred to in this section, the Appellant has failed to establish that the amounts deducted by the brokerage firm were a tax.
+[18] This case is also similar to the case of Meyer v. The Queen, 2004 TCC 199. The individual in that case failed to claim a treaty exemption, but yet still sought to deduct the amount of taxes paid to the United States as a foreign tax credit. In that case Justice Hershfield made the following comments:
+20 While I have some reservations in accepting the notion that the CCRA can determine if a foreign tax paid is a voluntary payment and therefore not a "tax", on the facts of this case, based on the authorities cited by the Respondent, I accept that the amount in dispute was not a "tax" paid to the foreign jurisdiction in question. That is not to say however that all voluntary payments are not a "tax". For example, that one might not claim discretionary deductions and voluntarily increase the tax in a foreign jurisdiction would not entitle the CCRA to deny a credit on that basis. Nor should the CCRA dictate any foreign filing position on a resident taxpayer. However, where the resident taxpayer has approached his foreign filing position without regard to providing the information necessary to determine the tax payable, such as not submitting required forms or return information to claim a Treaty entitlement, and has refused to correct the error or establish that it was not in error, the resultant overpayment can be regarded as an amount paid other than as a "tax".
+…
+22 With that said, I wish to emphasize that it is always open to the taxpayer to bring evidence that the foreign tax paid was not gratuitously paid without basis under the laws of the foreign jurisdiction. That is a question this Court can determine but the onus is on the taxpayer. The Appellant chose to ignore that onus and simply wanted the CCRA to work it out with the U.S. Treasury or Internal Revenue Service and leave him out of it. This is not an acceptable position in my view. That is, while the language of section 126 does not ultimately permit the CCRA to deny a credit because it has reason to believe that the foreign tax has been erroneously calculated under the laws of that foreign jurisdiction or is limited by provisions of the tax Treaty between that jurisdiction and Canada, nothing prevents it from taking that position and putting the onus on the taxpayer to show that such belief is not well-founded. In any event Article XVIII, paragraph 2(a), expressly provides that the U.S. cannot charge a tax in excess of 15% in respect of pensions received from the U.S. by a Canadian resident. Article XXIX, paragraph 3, provides that this limitation applies to citizens of the U.S. An excess amount paid then is not a "tax".
+(emphasis added)
+[19] In this case it is clear that the Appellant has not taken any action to have the provisions of Article XIII of the Canada - US Tax Convention applied to his case in relation to the disposition of the shares of Boeing.
+[20] Article XIII of the Canada - US Tax Convention provides in part as follows:
+1. Gains derived by a resident of a Contracting State from the alienation of real property situated in the other Contracting State may be taxed in that other State.
+…
+3. For the purposes of this Article the term “real property situated in the other Contracting State”
+(a) in the case of real property situated in the United States, means a United States real property interest and real property referred to in Article VI (Income from Real Property) situated in the United States, but does not include a share of the capital stock of a company that is not a resident of the United States; and
+(b) in the case of real property situated in Canada means:
+(i) real property referred to in Article VI (Income from Real Property) situated in Canada;
+(ii) a share of the capital stock of a company that is a resident of Canada, the value of whose shares is derived principally from real property situated in Canada; and
+(iii) an interest in a partnership, trust or estate, the value of which is derived principally from real property situated in Canada.
+4. Gains from the alienation of any property other than that referred to in paragraphs 1, 2 and 3 shall be taxable only in the Contracting State of which the alienator is a resident.
+[21] Gains derived by a resident of Canada from the disposition of a property that is not described in paragraphs 1, 2 or 3 will only be taxable in Canada. Gains derived by a resident of Canada from the disposition of a United States real property interest (other than a share of a company that is not a resident of the United States) will not be exempted from tax in the US under Article XIII. The fact that this paragraph provides an exception for shares of certain companies means that shares of a company could be included in the definition of a United States real property interest. Otherwise there would be no need to exclude shares of companies not resident in the United States if shares of a company could not be a United States real property interest.
+[22] As well in the Technical Explanation provided for this Article of the Convention it is stated that:
+Under paragraph 3(a) of Article XIII of the Convention, real property situated in the United States includes real property (as defined in Article VI (Income from Real Property) of the Convention) situated in the United States and a United States real property interest. Under section 897(c) of the Internal Revenue Code (the “Code”) the term “United States real property interest” includes shares in a U.S. corporation that owns sufficient U.S. real property interests to satisfy an asset-ratio test on certain testing dates.
+[23] There was no evidence submitted with respect to the assets of Boeing and no balance sheet was submitted. While it may be unlikely that the shares of Boeing, which is a well‑known manufacturer of airplanes, would be a United States real property interest, I am unable to make any finding on this point without further evidence on the applicable tests under the Internal Revenue Code. There was also no evidence with respect to whether there may be an exception for shares of publicly traded companies based on the percentage of shares held by the particular person. Further evidence would be required to determine the criteria that must be examined to determine if shares of a company are a United States real property interest and whether the shares of Boeing sold by the Appellant would be a United States real property interest. It is, however, clear that the Appellant has not taken any steps to determine his liability for U.S. taxes as a result of the application of the provisions of the Canada – U.S. Tax Convention.
+[24] As noted by Justice Hershfield in Meyer, the provisions of Article XXVI of the Canada - US Tax Convention may also be available to assist the Appellant. This Article provides in part that:
+1. Where a person considers that the actions of one or both of the Contracting States result or will result for him in taxation not in accordance with the provisions of this Convention, he may, irrespective of the remedies provided by the domestic law of those States, present his case in writing to the competent authority of the Contracting State of which he is a resident or, if he is a resident of neither Contracting State, of which he is a national.
+2. The competent authority of the Contracting State to which the case has been presented shall endeavor, if the objection appears to it to be justified and if it is not itself able to arrive at a satisfactory solution, to resolve the case by mutual agreement with the competent authority of the other Contracting State, with a view to the avoidance of taxation which is not in accordance with the Convention. Except where the provisions of Article IX (Related Persons) apply, any agreement reached shall be implemented notwithstanding any time or other procedural limitations in the domestic law of the Contracting States, provided that the competent authority of the other Contracting State has received notification that such a case exists within six years from the end of the taxable year to which the case relates.
+3. The competent authorities of the Contracting States shall endeavor to resolve by mutual agreement any difficulties or doubts arising as to the interpretation or application of the Convention. In particular, the competent authorities of the Contracting States may agree:
+(a) to the same attribution of profits to a resident of a Contracting State and its permanent establishment situated in the other Contracting State;
+(b) to the same allocation of income, deductions, credits or allowances between persons;
+(c) to the same determination of the source, and the same characterization, of particular items of income;
+(d) to a common meaning of any term used in the Convention;
+(e) to the elimination of double taxation with respect to income distributed by an estate or trust;
+(f) to the elimination of double taxation with respect to a partnership;
+(g) to provide relief from double taxation resulting from the application of the estate tax imposed by the United States or the Canadian tax as a result of a distribution or disposition of property by a trust that is a qualified domestic trust within the meaning of section 2056A of the Internal Revenue Code, or is described in subsection 70(6) of the Income Tax Act or is treated as such under paragraph 5 of Article XXIX-B (Taxes Imposed by Reason of Death), in cases where no relief is otherwise available; or
+(h) to increases in any dollar amounts referred to in the Convention to reflect monetary or economic developments.
+They may also consult together for the elimination of double taxation in cases not provided for in the Convention.
+[25] Therefore, if the Appellant is unable to resolve this matter directly with the US tax authorities, the Appellant will have the right to apply in writing to the Canada Revenue Agency under Article XXVI of the Canada – US Tax Convention to try to have the matter resolved by the Canada Revenue Agency. As the Respondent has clearly assumed in the Reply that no amount is payable to the United States Internal Revenue Service on account of tax payable as a result of the disposition of the Boeing shares by the Appellant, there does not appear to be any basis on which the Canada Revenue Agency could say that the objection of the Appellant does not appear to be justified if the Appellant is unable to resolve this matter directly with the Internal Revenue Service.
+[26] The Appellant has failed to establish that the amounts withheld by the brokerage firm were a tax paid to the United States as the Code Collection provision referred to above was incomplete (as the regulations referred to in this provision were not submitted) and as the Appellant has failed to take any action in relation to his right to claim an exemption under the Canada - US Tax Convention. Therefore the appeal is dismissed without costs. The Appellant had also raised the issue of a deduction under subsection 20(12) of the Act. However, since a deduction under this section would also be based on the non-business income tax paid by the Appellant, the failure of the Appellant to establish that the amounts withheld by the brokerage firm were a tax paid to the United States, also means that no deduction would be available to the Appellant in this case pursuant to subsection 20(12) of the Act.
+[27] The appeal is dismissed, without costs.
+Signed at Halifax, Nova Scotia, this 17th day of March 2008.
+“Wyman W. Webb”
+Webb J.
+CITATION: 2008TCC158
+COURT FILE NO.: 2007-3078(IT)I
+STYLE OF CAUSE: ANTHONY MARCHAN AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: March 3, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: March 17, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Sharon Lee
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

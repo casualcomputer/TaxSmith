@@ -1,0 +1,169 @@
+---
+title: "Perrault c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26034/index.do"
+last_modified: "2004-12-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 825"
+citation2: ""
+neutral_citation: "2004 TCC 825"
+decision_date: "2004-12-17"
+language: "en"
+item_id: "26034"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4094
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:43:50.744000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d1843522e4530f9d9f99c06b16d386e3ba034bb71d5ef824785edbf5c8fa3148"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Perrault c. La Reine
+
+- Citation: 2004 TCC 825
+- Decision date: 2004-12-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4094, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Perrault c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-12-17
+Neutral citation
+2004 TCC 825
+File numbers
+2004-1535(IT)I
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-1535(IT)I
+BETWEEN:
+ANDRÉ PERRAULT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+__________________________________________________________________
+Appeal heard on November 29, 2004, at Montreal, Quebec
+Before: The Honourable Justice Alain Tardif
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Antonia Paraherakis
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1995, 1996 and 1997 taxation years are dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 17th day of December 2004.
+" Alain Tardif "
+Tardif J.
+Translation certified true
+on this 22nd day of March 2005.
+Colette Dupuis-Beaulne, Translator
+Citation: 2004TCC825
+Date: 20041217
+Docket: 2004-1535(IT)I
+BETWEEN:
+ANDRÉ PERRAULT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Judge Tardif
+[1] This is an appeal concerning the 1995, 1996, and 1997 taxation years.
+[2] The issues are as follows:
+a) whether the Minister of National Revenue (the "Minister") correctly added in computing the Appellant's income, for the 1995, 1996, and 1997 taxation years, the amounts of $5,795, $8,546, and $9,952 respectively, as taxable benefits for the use of a motor vehicle,
+b) whether in computing the Appellant's income, the Minister correctly disallowed the amount of $21,368 for the 1996 taxation year, claimed as carrying charges.
+[3] After having been sworn in, the Appellant admitted the following facts:
+a) On March 13, 1992, the company Stabo Inc. purchased a Lincoln TownCar 1988 vehicle for $16,800 + tax ($1,176 in GST and $918 in QST).
+b) Stabo Inc. gave the Appellant exclusive use of the automobile during the 1995 taxation year and part of the 1996 taxation year.
+c) On March 27, 1996, Stabo Inc. purchased a Lincoln Continental 1994 automobile for $32,000 + tax ($2,240 in GST and $2,226 in QST).
+d) Stabo Inc. gave the Appellant exclusive use of the automobile for part of the 1996 taxation year and the 1997 taxation year.
+[...]
+f) During the period at issue, the Appellant managed Stabo Inc.
+g) The Appellant was also a shareholder of Stabo Inc. from 1975 to 1996.
+[4] Firstly, the Appellant addressed the issue of the loss of $21,368 that resulted from a loan to his son Richard. The Appellant was amazed that the person responsible for his file could have concluded that this was a capital loss and not a business loss without making an analysis or taking into consideration all of the facts relating to the loan from which this issue arose.
+[5] He also explained in detail all the facts and circumstances that led him to agree to give the loan to his son Richard. As someone who lived markedly above his means, his son was not in a position to assume financial obligations.
+[6] The Appellant did not want his son to have to make an assignment of his property because the consequences for his future would be disastrous; this is a great concern for his father, the Appellant.
+[7] To save the family's honour, by his own testimony, the Appellant wanted to intervene to help put his son's income and expenditures in order, anticipating various situations involving the entire family and the credit union financing buildings that his son owned.
+[8] The Appellant was very critical and severe toward all the parties; it seems that he thought he was the only one who knew the right way to do things. The Appellant failed to convince all the parties to agree with his methods and his son was forced to make an assignment of his property, resulting in the loss of $21,368.
+[9] The reasons for which he had loaned the $21,368 to his son were compassionate and familial. They stemmed from the concern of a father who wanted to keep his son from having to declare bankruptcy, from motives ranging from pride to authority and setting an example of dignity.
+[10] For the Court to accept the Appellant's argument that the loss was a business loss and not a capital loss, he would have had to prove that he made the loan in his normal course of activity and that it was a commercial activity.
+[11] Not only was the Appellant unable to prove this fact, but he instead proved beyond all doubt that he wanted to keep his son from having to declare bankruptcy at all costs. He also wanted to impress upon his son the notions of responsibility and the importance of accepting it, as well as living within one's means, etc.
+[12] The evidence did not establish that the Appellant operated a money-lending business. He was involved in real estate mainly as an agent or broker.
+[13] Even though it was commendable, legitimate, and irreproachable, the Appellant's gesture toward his son ($21,368 loan with interest) was not a commercial decision, and certainly not a decision in the course of the commercial activity of a money-lending business.
+[14] With regard to the second issue concerning the Appellant's use of vehicles that belonged to the company of which he owned shares, the Appellant made some admissions that are very relevant and that will definitely affect this part of his appeal.
+[15] The Appellant's admissions will be reproduced here:
+a) On March 13, 1992, the company Stabo Inc. purchased a Lincoln TownCar 1988 vehicle for $16,800 + tax ($1,176 in GST and $918 in QST).
+b) Stabo Inc. gave the Appellant exclusive use of the automobile during the 1995 taxation year and part of the 1996 taxation year.
+c) On March 27, 1996, Stabo Inc. purchased a Lincoln Continental 1994 automobile for $32,000 + tax ($2,240 in GST and $2,226 in QST).
+d) Stabo Inc. gave the Appellant exclusive use of the automobile for part of the 1996 taxation year and the 1997 taxation year.
+[...]
+f) During the period at issue, the Appellant managed Stabo Inc.
+g) The Appellant was also a shareholder of Stabo Inc. from 1975 to 1996.
+[16] The Appellant did not submit any evidence on his personal use of the vehicles. He simply took it for granted that it was normal and legitimate for a company to provide one of its managers with a car. For that reason, there was no question of a logbook or anything comparable to use as evidence for the part of the appeal having to do with personal use of the vehicle and use by the company that owns it.
+[17] As evidence for this part of his appeal, the Appellant essentially expressed several criticisms of Revenu Québec. He confirmed that he had filed an amended tax return for 2000 to make up for previous tax returns. He also admitted that he had always believed it to be normal, standard, and acceptable for a company to provide its managers with a car.
+[18] He expressed frustration and disappointment, and described the problems that he had had with Revenu Québec in recent years.
+[19] The assessments for the 1995, 1996, and 1997 taxation years being appealed with respect to taxable benefits arising from use of a vehicle were made under paragraphs 6(1)(e), 6(1)(e).1, and 6(1)(k), subsections 6(2), 6(7), 15(1), and 15(5), and section 248 of the Income Tax Act. The assessment for the 1996 taxation year concerning the amount of $21,368 claimed as carrying charges was made under paragraphs 18(1)(a) and 20(1)(p) of the Act.
+[20] I essentially need to decide whether the assessments that he appealed were made in compliance with the relevant provisions of the Act.
+[21] To make this decision, I must, on the basis of the evidence - the burden of proof being on the Appellant- assess whether the Appellant did, on the balance of evidence, prove that his interpretation of the facts should lead to a different conclusion than that made by the Respondent.
+[22] In this case, with regard to the issue of the loss, the evidence submitted failed to demonstrate the merit of the claims made by the Appellant; rather, it confirmed the correctness and validity of the assessment.
+[23] With regard to the benefit arising from the exclusive use of a vehicle, the Appellant did not submit any relevant evidence that should be taken into account to call into question the correctness of the assessment.
+[24] For these reasons, the appeal must be dismissed.
+Signed at Ottawa, Canada, this 17th day of December 2004.
+" Alain Tardif "
+Tardif J.
+Translation certified true
+on this 22nd day of March 2005.
+Colette Dupuis-Beaulne, Translator
+CITATION:
+2004TCC825
+COURT FILE NUMBER:
+2004-1535(IT)I
+STYLE OF CAUSE:
+André Perrault v. Her Majesty the Queen
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+November 29, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Alain Tardif
+DATE OF JUDGMENT:
+December 17, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Antonia Paraherakis
+COUNSEL OF RECORD:
+For the Appellant:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

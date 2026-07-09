@@ -1,0 +1,250 @@
+---
+title: "Soneil International Limited v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30472/index.do"
+last_modified: "2011-08-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 391"
+citation2: ""
+neutral_citation: "2011 TCC 391"
+decision_date: "2011-08-19"
+language: "en"
+item_id: "30472"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7268
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:23:31.802000+00:00"
+cases_cited_count: 3
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ce717adf5d39e70b6addf8d0be41f788b535dbf8b2c916b8832f757371a4df9d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Soneil International Limited v. The Queen
+
+- Citation: 2011 TCC 391
+- Decision date: 2011-08-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7268, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Soneil International Limited v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-08-19
+Neutral citation
+2011 TCC 391
+File numbers
+2007-4786(IT)G, 2007-4787IT)G
+Judges and Taxing Officers
+Steven K. D'Arcy
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-4786(IT)G
+BETWEEN:
+SONEIL INTERNATIONAL LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Soneil Usha Inc. (2007-4787(IT)G) on November 17, 18 and 19, 2010,
+at Toronto, Ontario.
+Before: The Honourable Justice Steven K. D'Arcy
+Appearances:
+Agent for the Appellant:
+Sachindra Jain
+Counsel for the Respondent:
+Eleanor H. Thorn
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to the assessment made under the Income Tax Act for the Appellant’s 2002 taxation year is dismissed.
+Costs are awarded to the Respondent. The Respondent is not awarded any costs with respect to her expert witness.
+Signed at Antigonish, Nova Scotia, this 19th day of August 2011.
+“S. D’Arcy”
+D'Arcy J.
+Docket: 2007-4787IT)G
+BETWEEN:
+SONEIL USHA INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Soneil International Limited (2007-4786(IT)G)
+on November 17, 18 and 19, 2010, at Toronto, Ontario.
+Before: The Honourable Justice Steven K. D'Arcy
+Appearances:
+Agent for the Appellant:
+Sachindra Jain
+Counsel for the Respondent:
+Eleanor H. Thorn
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to the assessment made under the Income Tax Act for the Appellant’s 2002 taxation year is dismissed.
+Costs are awarded to the Respondent. The Respondent is not awarded any costs with respect to her expert witness.
+Signed at Antigonish, Nova Scotia, this 19th day of August 2011.
+“S. D’Arcy”
+D'Arcy J.
+Citation: 2011 TCC 391
+Date: 20110819
+Docket: 2007-4786(IT)G
+BETWEEN:
+SONEIL INTERNATIONAL LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2007-4787(IT)G
+AND BETWEEN:
+SONEIL USHA INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+D'Arcy J.
+[1] Each of the Appellants has appealed a notice of assessment with respect to its 2002 taxation year.[1] The two appeals were heard together on common evidence. The issue before the Court is whether certain expenditures made by each of the Appellants during their 2002 taxation years constituted expenditures on scientific research and experimental development (“SR&ED”).
+[2] During the hearing I heard from three witnesses. Mr. Sachindra Jain testified for the Appellants. Mr. Jain is president and vice-president, product development and R&D, for Soneil International Limited (“International”) and vice-president, product development and R&D, for Soneil Usha Inc. (“Soneil”). Mr. Jain was the founder of both companies.
+[3] The Respondent called two witnesses, Mr. Yashvant Parmar and Mr. Christopher Stoute. Mr. Parmar is a research and technology advisor for the Canada Revenue Agency (the “CRA”). Mr. Stoute appeared as an expert witness. He is a consultant, who previously worked for the CRA.
+Summary of the Relevant Facts
+[4] Mr. Jain testified that he started the Appellant’s business in the basement of his home in 1994. Mr. Jain testified that “[h]e brought to market the application of switch-mode technology in battery chargers, which made the chargers very small, lightweight and compatible for onboard application.”[2] The technology was different from the conventional chargers that were available in the market place in 1994.
+[5] He noted that the battery chargers are used in many applications, such as golf carts, material handling devices and scrubbing-cleaning devices. However, the primary application for the chargers is the charging of battery-operated wheelchairs.
+[6] The Appellants have been very successful. Their products are developed in Canada and manufactured in China and Malaysia. The Appellants sell approximately 95% of their products outside of Canada.
+[7] Mr. Jain is clearly qualified to carry out scientific research and experimental development relating to the business of the Appellants. He holds four university degrees (Bachelor of Science in physics, Bachelor of Technology in mechanical engineering, Master of Science in controlled system engineering and an MBA) and has received numerous academic awards. In addition, he qualified as a registered industrial accountant (now referred to as a certified management accountant [CMA]) and a professional engineer. Mr. Jain has extensive work experience in multiple fields, including mechanical and electrical engineering and electronics.
+[8] Mr. Jain testified that he was the key technology person for the research carried out by the Appellants. He filed with the Court a list of equipment used at the Appellants’ testing facility (Exhibit A-3). However, he provided few details with respect to the actual testing facility.
+[9] It is the Appellants’ position that they conducted SR&ED in their 2002 taxation years with respect to the following four projects:
+1. Power optimization for dual application in front- and rear-wheel-driven scooters and wheelchairs (the “Power Optimization Project”). International carried out this project, which involved designing a system to allow power to be switched from the front wheels to the back wheels of a wheelchair (or vice versa).
+2. Development of an inhibitor control system (the “Inhibitor Project”). International carried out this project, which involved designing a device (the inhibitor) to ensure that power to the wheels of a wheelchair is cut when the wheelchair is being charged.
+3. Creation of a virtual battery system (the “Virtual Battery Project”). Soneil carried out this project, which involved designing a method to deliver 36 volts from two 12-volt batteries.
+4. Development of a multi-voltage output charger that is capable of sensing battery voltage (the “Multi-voltage Project”). Soneil carried out this project, which involved developing a multi-voltage output charger that could sense the battery voltage of the specific wheelchair and then charge at the appropriate voltage.
+Law
+[10] The only issue before the Court is whether the work performed by the Appellants constituted SR&ED as that term is defined in subsection 248(1) of the Income Tax Act (the “Act”).
+[11] The relevant wording, for the purposes of this appeal, is contained in paragraph (c) of the definition, which reads as follows:
+“scientific research and experimental development” means systematic investigation or search that is carried out in a field of science or technology by means of experiment or analysis and that is
+(c) experimental development, namely, work undertaken for the purpose of achieving technological advancement for the purpose of creating new, or improving existing materials, devices, products or processes, including incremental improvements thereto.
+[12] Schedule A to my reasons for judgment contains the complete subsection 248(1) definition of scientific research and experimental development.
+[13] Five criteria have been used by the courts to assist in determining whether a
+particular activity constitutes SR&ED. The criteria were first outlined in the decision of Judge Bowman (as he then was) in Northwest Hydraulic Consultants Limited v. The Queen.[3] The Federal Court of Appeal, in C.W. Agencies Inc. v. The Queen,[4] summarized these criteria as follows:
+1. Was there a technological risk or uncertainty which could not be removed by routine engineering or standard procedures?
+2. Did the person claiming to be doing SRED formulate hypotheses specifically aimed at reducing or eliminating that technological uncertainty?
+3. Did the procedure adopted accord with the total discipline of the scientific method including the formulation, testing and modification of hypotheses?
+4. Did the process result in a technological advancement?
+5. Was a detailed record of the hypotheses tested, and results kept as the work progressed?
+[14] The onus is on the appellant to show, on the balance of probabilities, that the expenditures it incurred were for scientific research and experimental development as that term is defined in subsection 248(1).[5]
+Application of Law to Facts
+[15] For each of the projects Mr. Jain described various stages of development under the following headings:
+- Observation of the subject matter of the problem
+- Formulation of a clear objective
+- The identification and articulation of the technological uncertainty encountered
+- The formulation of a hypothesis designed to reduce or eliminate the uncertainty
+- The methodical and systematic testing of the hypothesis
+- The technological advancement
+- The technological content.
+[16] It is clear from Mr. Jain’s testimony that he (and his assistant) spent a significant amount of time working on upgrades to the Appellants’ products, but I do not have sufficient evidence before me to conclude, on a balance of probabilities, that the work performed by the Appellants constituted SR&ED.
+[17] In discussing whether a technical risk or uncertainty existed, Judge Bowman noted the following in the Northwest Hydraulic decision (at paragraph 16):
+Implicit in the term “technological risk or uncertainty” in this context is the requirement that it be a type of uncertainty that cannot be removed by routine engineering or standard procedures. I am not talking about the fact that whenever a problem is identified there may be some doubt concerning the way in which it will be solved. If the resolution of the problem is reasonably predictable using standard procedure or routine engineering there is no technological uncertainty as used in this context.
+What is “routine engineering”? It is this question, (as well as that relating to technological advancement) that appears to have divided the experts more than any other. Briefly it describes techniques, procedures and data that are generally accessible to competent professionals in the field.
+[18] Mr. Jain described what he believed was the technological uncertainty encountered for each project as follows:
+Power Optimization Project: Whether a safe and effective switchover system could be developed that would be suitable for disabled people operating power wheelchairs and scooters in both indoor and outdoor environments. Additional uncertainty related to power optimization and the ability to retrofit the system on existing power wheelchairs.
+Inhibitor Project: Whether a safe and effective inhibitor could be developed that would be suitable for use by disabled people operating power wheelchairs and scooters in both indoor and outdoor environments. The key uncertainty was mechanical and electrical problems relating to the ability to retrofit on existing power wheelchairs.
+Virtual Battery Project: Whether a safe and effective virtual battery could be developed that would be suitable for use by disabled people operating power wheelchairs. The key uncertainty was certain mechanical problems with respect to power optimization and the ability to retrofit on existing power wheelchairs.
+Multi-voltage Project: Whether a safe and effective different voltage charger could be developed that would be suitable for use by disabled people operating a power wheelchair. The uncertainty arose when trying to retrofit the charger on different types of wheelchair power systems.
+[19] This testimony was the only evidence provided by the Appellants of the alleged technological uncertainty. After reviewing Mr. Jain’s testimony it is simply not clear to me whether he is referring to uncertainties that could only be resolved by scientific research and experimental development or if he is referring to design issues that could have been resolved by using techniques, procedures, and data that were generally available to competent professionals in the field.
+[20] Mr. Jain stated, in cross-examination, that he did not produce any new components when conducting his work on the four projects. He also acknowledged that each of the projects involved areas where products performing similar functions already existed. He testified that that there existed a wide body of knowledge with respect to the use of different controllers for front-and rear-wheel power, with respect to the signal to motor speed controllers for the inhibit function, with respect to power supply for a power transfer, and with respect to battery charging systems. He stated that, while the Appellants used existing parts and components, the research was with respect to the application of the parts and components.
+[21] The Appellants did not provide sufficient evidence to show that their work with respect to the application of the existing parts and components required more than routine engineering or standard procedures.
+[22] In addition, Mr. Jain’s credibility on this point was damaged on cross‑examination. He had difficulty explaining certain emails between him and a third‑party manufacturer that appear to show that a third party redesigned the units for the virtual battery.[6] Mr. Jain testified that the redesign by the third party referred to in the emails was routine engineering. I have a difficult time accepting, based upon the evidence before me, that the redesign of existing components and parts is routine engineering when conducted by a third party and SR&ED when the redesign is conducted by the Appellants.
+[23] In addition to not providing sufficient evidence to show that a technological risk or uncertainty existed, the Appellants did not provide sufficient evidence with respect to the testing performed. As Judge Bowman noted in Northwest Hydraulic (at paragraph 16), “Although the Income Tax Act and the Regulations do not say so explicitly, it seems self-evident that a detailed record of the hypotheses, tests and results be kept, and that it be kept as the work progresses.”
+[24] After an appellant has identified the technological risk or uncertainty, it is important for it to provide evidence to the Court that it conducted methodical and systematic testing of any hypothesis designed to reduce or eliminate the uncertainty.
+[25] As noted by my colleague Justice Little in Zeuter Developments, at paragraph 28:
+… While not absolutely necessary, it is beyond doubt that a taxpayer who creates a well-supported claim will facilitate the process in determining whether something qualifies as SR&ED. As stated in RIS-Christie, the only reliable method of demonstrating that scientific research was undertaken in a systematic fashion is to produce documentary evidence.
+[26] Based upon the testimony of Mr. Jain, it appears that the Appellants did not maintain a detailed record of the testing of any hypothesis formed for the projects or of the results of the testing, as the work progressed.
+[27] Mr. Jain testified that he performed the work on each project with the help of an assistant. He acknowledged that they did not keep detailed records of their work. He noted that his assistant would run a series of tests, with many of the tests producing similar results. He stated that once the Appellants encountered change they conducted detailed tests. Mr. Jain did not provide evidence of the Appellants encountering change or of what any change meant with respect to a specific hypothesis, nor did he indicate whether a change in the hypothesis was required.
+[28] This can be seen by reviewing the evidence the Appellants provided to the Court (and the Canada Revenue Agency [the “CRA”]) with respect to the testing conducted during each of the four projects.
+[29] The only evidence provided with respect to the Power Optimization Project was a single page entitled “Project 02SILA – Power optimization – Specifications”.[7] Mr. Jain referred to this single page as a systematic testing plan. However, it merely contains 11 items in point form and there is no indication that it is a plan.
+[30] International did not file with the Court any analysis of specific tests conducted with respect to the Power Optimization Project or the results of such tests. Mr. Jain testified that the Appellant did not maintain records of the analysis of each test.
+[31] International also filed what Mr. Jain referred to as a systematic testing plan with respect to the Inhibitor Project.[8] It is similar to the systematic testing plan for the Power Optimization Project. The testing plan for the Inhibitor Project contains 9 items in point form, 6 of which also appear in the testing plan for the Power Optimization Project.
+[32] Mr. Jain referred to Exhibit A-9 and page 7 of Exhibit A-4 as containing evidence of the methodical and systematic testing carried out with respect to the Inhibitor Project. I do not agree with this description of the documents. Four of these pages are handwritten notes, with no sentences or detailed comments. Two of the handwritten pages contain simple diagrams. The pages do not contain any details with respect to the nature or results of the tests. It is not clear who prepared the notes or when they were prepared. The second page of Exhibit A-9 is a diagram, which Mr. Jain referred to as the design for the inhibitor. He was not sure if employees of International or third parties prepared the diagram.
+[33] On cross-examination, Mr. Jain confirmed that International did not file with the Court any analysis of specific tests conducted with respect to the Inhibitor Project or the results of such tests.[9]
+[34] Soneil provided a number of pages that, Mr. Jain testified, evidenced the testing Soneil carried out with respect to the Virtual Battery Project. Mr. Jain referred to Exhibits A-8, pages 2, to 21, A-11 and A-12. Mr. Jain testified that A‑12 evidenced testing over a number of days.
+[35] However, on cross-examination, counsel for the Respondent asked Mr. Jain whether a Hong Kong company called Le Fronte produced pages 2 to 7 of Exhibit A‑8. These pages contained detailed design diagrams. Mr. Jain testified that he was not sure if Le Fronte produced the drawings. This damaged Mr. Jain’s credibility. He had at first testified that the documents evidenced the testing conducted by Soneil and then, on cross-examination, he could not tell the Court whether the documents actually evidenced Soneil’s testing or were design documents prepared by a Hong Kong company.
+[36] With respect to the last project, the Multi-voltage Project, Soneil provided the Court with a single page systematic testing plan.[10] Similar to the other testing plans, this was in point form and merely noted seven items that were required in a prototype.
+[37] Soneil also filed with the Court a single page document entitled Test Report No 1. Mr. Jain testified that this document evidenced the result of a test conducted with respect to the multi-voltage device.[11] Mr. Jain was not sure who prepared the report, but thought his assistant had prepared it.
+[38] After reviewing all of the evidence on the record, I have concluded that the Appellants did not provide sufficient evidence to support a finding that they adopted procedures that accorded with established and objective principles of scientific measure. In particular, the Appellants did not provide the Court with sufficient evidence to support a finding that their work was characterized by trained and systematic observation, measurement and experiment and the testing and modification of hypotheses.
+[39] Mr. Jain, a certified management accountant, clearly understands the importance of maintaining adequate records
+[40] For the foregoing reasons the appeals are dismissed.
+[41] Having found that the Appellants have not shown the Court, on a balance of probabilities, that the expenditures they incurred constituted expenditures for scientific research and experimental development, it is not necessary for me to consider the evidence provided by the Respondent, particularly the evidence of her expert witness. However, my finding with respect to the evidence of the expert witness, Mr. Stoute, is important for purposes of costs.
+[42] The Appellants’ agent objected to the Court’s accepting Mr. Stoute as an expert witness on the basis that he did not possess the requisite degree of independence or impartiality. Mr. Stoute does not presently work for, or advise, the CRA. However, in prior years, he provided consulting services to the CRA. In 2004, he prepared for the CRA a review report recommending that the CRA deny the Appellants’ SR&ED claim. After receiving assurances from Mr. Stoute that he based the expert report filed with the Court on an objective review of the evidence filed by the Appellants with the Court, I accepted him as an expert witness.
+[43] However, while listening to his testimony and after briefly reviewing his expert report, it became clear to me that his expert report was more in the nature of advocacy then an expert report. During his testimony, he consistently referred to his meetings with the Appellants’ personnel in 2004. Further, Mr. Stoute based a substantial part of his expert report on his meetings with Mr. Jain in 2004. It appears to me that the primary purpose of Mr. Stoute’s expert report was to justify his 2004 conclusion that the Appellants’ four projects did not qualify as SR&ED. As a result, I would have given no weight to the expert report. Therefore, while the Respondent is awarded costs, she will not be awarded any costs with respect to her expert witness.
+Signed at Antigonish, Nova Scotia, this 19th day of August 2011.
+“S. D’Arcy”
+D'Arcy J.
+Schedule A
+Income Tax Act, Section 248(1)
+"scientific research and experimental development" means systematic investigation or search that is carried out in a field of science or technology by means of experiment or analysis and that is
+(a) basic research, namely, work undertaken for the advancement of scientific knowledge without a specific practical application in view,
+(b) applied research, namely, work undertaken for the advancement of scientific knowledge with a specific practical application in view, or
+(c) experimental development, namely, work undertaken for the purpose of achieving technological advancement for the purpose of creating new, or improving existing, materials, devices, products or processes, including incremental improvements thereto,
+and, in applying this definition in respect of a taxpayer, includes
+(d) work undertaken by or on behalf of the taxpayer with respect to engineering, design, operations research, mathematical analysis, computer programming, data collection, testing or psychological research, where the work is commensurate with the needs, and directly in support, of work described in paragraph (a), (b), or (c) that is undertaken in Canada by or on behalf of the taxpayer,
+but does not include work with respect to
+(e) market research or sales promotion,
+(f) quality control or routine testing of materials, devices, products or processes,
+(g) research in the social sciences or the humanities,
+(h) prospecting, exploring or drilling for, or producing, minerals, petroleum or natural gas,
+(i) the commercial production of a new or improved material, device or product or the commercial use of a new or improved process,
+(j) style changes, or
+(k) routine data collection;
+CITATION: 2011 TCC 391
+COURT FILE NO.: 2007-4786(IT)G and 2007-4787(IT)G
+STYLE OF CAUSE: SONEIL INTERNATIONAL LIMITED v. HER MAJESTY THE QUEEN and
+SONEIL USHA INC. v. HER MAJESTY
+THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATES OF HEARING: November 17, 18 and 19 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Steven K. D'Arcy
+DATE OF JUDGMENT: August 19, 2011
+APPEARANCES:
+Agent for the Appellant:
+Sachindra Jain
+Counsel for the Respondent:
+Eleanor H. Thorn
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The 2002 taxation year of Soneil Usha Inc. ended on October 31, 2002. The 2002 taxation year of Soneil
+International Limited ended on September 30, 2002.
+[2] Transcript, page 29.
+[3] 98 DTC 1839 (Northwest Hydraulic).
+[4] 2001 FCA 393, at para. 17.
+[5] See Zeuter Development Corporation v. The Queen, 2006 TCC 549, 2007 DTC 41, at para. 26.
+[6] Exhibit R-6.
+[7] Exhibit A-4, page 1.
+[8] Exhibit A-4, page 4.
+[9] Transcript, page 221.
+[10] Exhibit A-4, page 6.
+[11] Exhibit A-4, page 3.

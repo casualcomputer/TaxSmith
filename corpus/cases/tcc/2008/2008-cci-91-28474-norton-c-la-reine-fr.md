@@ -1,0 +1,258 @@
+---
+title: "Norton c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28474/index.do"
+last_modified: "2008-02-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 91"
+citation2: ""
+neutral_citation: "2008 CCI 91"
+decision_date: "2008-02-08"
+language: "fr"
+item_id: "28474"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1272
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:09:42.164000+00:00"
+cases_cited_count: 8
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0df247f4a00d3c626c5502644ceb3f6d29b2e941bb7f0dea69977eb39cef755e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Norton c. La Reine
+
+- Citation: 2008 CCI 91
+- Decision date: 2008-02-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1272, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Norton c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-02-08
+Référence neutre
+2008 CCI 91
+Numéro de dossier
+2004-396(IT)G
+Juges et Officiers taxateurs
+Pierre Archambault
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2008CCI91
+Date : 20080208
+Dossier : 2004‑396(IT)G
+ENTRE :
+PATRICIA NORTON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience le 3 août 2007, à Vancouver (Colombie‑Britannique), et modifiés pour plus de clarté et de précision.)
+Le juge Archambault
+[1] Mme Patricia Norton conteste les cotisations d’impôt sur le revenu établies par le ministre du Revenu national (le « ministre ») à l’égard des années d’imposition 1996 et 1997. La question à trancher est de savoir si Mme Norton a droit à un crédit d’impôt sur le revenu pour un don de 20 000 $ fait en 1996 à un organisme appelé Association for the Betterment of Literacy and Education (ci‑après « ABLE »). Elle a demandé une déduction de 6 049 $ pour 1996, et une déduction de 6 747 $, reportée à partir de 1996, pour 1997.
+[2] Au cours de son argumentation, l’avocat de l’intimée a déposé auprès de la Cour des observations écrites contenant un aperçu de l’affaire et un énoncé des faits, commençant au paragraphe 11, que je reproduis ci‑dessous. Les observations apparaissant dans les notes de bas de page sont les miennes.
+[traduction]
+APERÇU
+1. L’appel concerne la question de savoir si un paiement de 20 000 $ fait par l’appelante à l’Association for the Betterment of Literacy and Education (« ABLE ») constituait un « don » donnant droit à une déduction d’impôt pour don de bienfaisance en vertu de l’article 118.1 de la Loi de l’impôt sur le revenu (la « Loi »).
+2. Le « don » de l’appelante a été fait le 30 décembre 1996. Son chèque a été encaissé le 7 janvier 1997 et, le 14 janvier 1997, l’appelante a reçu un paiement correspondant à 75 p. 100 de son don (15 000 $).
+3. L’intimée qualifie le paiement de 15 000 $ de commission clandestine[1] et affirme que la réception d’une commission clandestine constitue une contrepartie qui vicie un don.
+4. En outre, l’intimée peut démontrer que 100 des 101 participants à la variante « commission clandestine » du stratagème ont reçu une commission clandestine correspondant à 75 p. 100 de leur « don » (le 101e « donateur », M. Richard Coglon, n’a pas fait l’objet d’une vérification mais il a reçu des paiements de la société du mari de l’appelante[2].)
+5. L’intimée a présumé que ABLE s’employait en 1993, en 1994 et en 1995 à mettre en œuvre des stratagèmes fiscaux où les « donateurs » recevaient des reçus gonflés dont la valeur équivalait à quatre fois les montants qu’ils avaient réellement déboursés. Ces hypothèses n’ont pas été réfutées.
+6. Dans des documents écrits avant la tenue du procès, l’appelante mentionnait que la commission clandestine de 15 000 $ était un « don » mais par la suite, au cours du procès, elle a témoigné qu’elle avait simplement gagné à une loterie organisée par le promoteur de l’œuvre de bienfaisance, J.I.T. Fundraising Corp. (ci‑après « JIT »).
+7. William (« Bill ») Norton, le mari de l’appelante, était propriétaire exploitant de JIT. JIT a réussi à amasser 3 129 290 $ pour ABLE au cours du dernier trimestre de 1996, et ABLE lui a versé un montant de 163 015 $.
+8. Bill Norton a témoigné en long et en large que l’idée de la loterie de bienfaisance était la sienne et qu’il voulait élaborer le plan d’affaires. Il a également témoigné que les « chances de gagner » étaient de une sur trois.
+9. Aucun document établi en 1996 ou au cours des années précédentes ne fait état d’une loterie ou des chances de gagner.
+[…]
+PARTIE II – EXPOSÉ DES FAITS
+11. L’intimée soutient que les hypothèses 10a), 10b)(i) et 10b)(ii) [de la réponse à l’avis d’appel] n’ont pas été réfutées :
+10a) ABLE a été mise sur pied et présentée aux investisseurs comme un abri fiscal par Henry N. Thill.
+10b) Le fonctionnement de l’abri fiscal ABLE variait d’une année à l’autre et d’un investisseur à l’autre :
+(i)
+En 1993 et en 1994, ABLE a été présentée principalement sous le nom de Funded Charitable Donation Program (ci‑après le « FCDP »), qui offrait au contribuable les possibilités suivantes :
+a)
+décider du montant pour lequel il voulait obtenir un reçu pour don de bienfaisance;
+b)
+verser 25 p. 100 de ce montant à titre de « prime d’assurance »;
+c)
+utiliser l’« assurance » pour obtenir et, plus tard, rembourser un « prêt » de 30 ans consenti par une société des îles Vierges britanniques;
+d)
+utiliser le « produit » du « prêt » pour verser un « don » à ABLE;
+e)
+obtenir un reçu pour don de bienfaisance de ABLE à l’égard du montant global du « prêt », et profiter ainsi d’un taux de rendement global élevé sur l’investissement représentant 25 p. 100 de cette somme.
+[Ci‑après la « variante du faux prêt ».]
+(ii)
+En 1995, l’abri fiscal a été présenté sous le nom de Publishers' Philanthropic Fund of Bermuda (ci‑après le « PPF ») et, quelquefois, sous le nom de Gift Provider's Fund. Le PPF a été décrit comme suit : un groupe [traduction] « d’éditeurs, de détenteurs de droits d’auteur et de producteurs de propriétés intellectuelles, [qui] ont réalisé des profits énormes au fil des ans en raison de leurs activités individuelles et collectives », et qui ont décidé [traduction] « de rendre une partie de cette richesse à la société » en faisant des contributions jumelées à celles de contribuables, dans une proportion de trois à un, et ce, sous le couvert de l’anonymat, permettant ainsi aux contribuables [traduction] « choisis » de toucher le montant global du reçu pour don de bienfaisance. Ainsi, selon cette variante, le contribuable bénéficiait des possibilités suivantes :
+a)
+décider du montant pour lequel il voulait obtenir un reçu pour don de bienfaisance;
+b)
+verser une contribution correspondant à 25 p. 100 de ce montant;
+c)
+toucher une « contribution » supplémentaire équivalant au triple de la contribution initiale grâce à l’œuvre de bienfaisance anonyme du PPF;
+d)
+obtenir un reçu pour don de bienfaisance de ABLE à l’égard du montant global, et profiter ainsi d’un taux de rendement global élevé sur l’investissement représentant 25 p. 100 de cette somme.
+[Ci‑après la « variante de la contribution supplémentaire ».]
+12. En résumé, avant 1996, ABLE, avait, sur une période de trois ans, fait la promotion de stratagèmes fiscaux où les donateurs obtenaient des reçus gonflés pour don de bienfaisance, dont la valeur nominale équivalait à quatre fois la valeur des montants réellement déboursés par les donateurs[3].
+13. Le 19 septembre 1996, Bill Norton a créé JIT pour faire la promotion de ABLE[4]. [Témoignage de M. Norton, R1, volume 1, onglet 7, pages 214, 219; R2, projet d’affidavit, paragraphe 5.]
+14. Le 18 octobre 1996, JIT a signé avec ABLE une entente visant à faire la promotion de cette dernière. JIT devait toucher des commissions de 5 p, 100 sur tous les dons amassés[5]. [R3, paragraphe 2.2h).]
+15. Entre le 18 octobre et le 31 décembre 1996, JIT a amassé des « dons » de 3 129 290 $ pour ABLE [R1, volume 1, onglet 7, page 229, et témoignage de vive voix de M. Norton, en contre‑interrogatoire, qui reconnaît que la date du 21 février 1996 était une erreur typographique et que c’est la date du 21 février 1997 qui aurait dû être inscrite.]
+16. En contrepartie des dons de 3 129 290 $ amassés pour ABLE, JIT a touché des commissions brutes de 163 015,92 $. [R1, volume 1, onglet 7, page 229.]
+17. En utilisant les commissions brutes, JIT a émis des chèques de 50 000 $ et de 92 000 $ signés par M. Norton à l’ordre de l’une des autres sociétés appartenant à M. Norton, « Barely Legal ». [R1, volume 1, onglet 7, pages 243 et 244, et témoignage de vive voix de M. Norton qui reconnaît que « Barely Legal » lui appartenait.]
+18. Les déclarations de revenus de Mme Norton confirment qu’elle a reçu des paiements de Barely Legal.
+19. M. Kuhn a témoigné que, en 1996, ABLE a remis des reçus à 235 « donateurs ». La liste exhaustive des donateurs de 1996 établie par M. Kuhn a été déposée en preuve[6]. [R1, volume 1, onglet 9.]
+20. Cent trente‑quatre des deux cent trente‑cinq personnes ayant fait des « dons » à ABLE en 1996 ont participé à la variante de la contribution supplémentaire du stratagème qui fonctionnait depuis 1995.
+21. En ce qui a trait aux 101 autres « donateurs » de 1996 :
+a) M. Kuhn a conclu que 91 de ces donateurs avaient reçu des chèques dont le montant correspondait à 75 % de leur « don »[7] (les chèques de commission clandestine). [Volume 1, onglet 9, résumé, les copies recto et verso de chaque chèque source ont été produites en preuve dans le volume 2, onglet 14.]
+b) Mme Norton était au nombre des personnes qui ont reçu un chèque de commission clandestine. [Volume 1, onglet 9, pages 335 et 336, et volume 2, onglet 14, pages 579 et 580.]
+c) Dans le cas de neuf autres « donateurs », M. Kuhn a découvert l’existence d’une série de virements télégraphiques effectués à partir du compte sur lequel les chèques de commission clandestine étaient tirés. Même si les sommes étaient virées dans des pays dont les lois en matière de protection des renseignements l’empêchaient de pousser ses recherches plus à fond, M. Kuhn a analysé la série de virements télégraphiques et il a constaté avec étonnement que les virements équivalaient systématiquement à 75 p. 100 des sommes données par les donateurs qui n’avaient pas reçu de chèque de commission clandestine. [R1, volume 1, onglet 9, pages 341 à 343.]
+d) Selon ce que croyait M. Kuhn, l’un des contribuables ayant touché une commission clandestine par voie de virement télégraphique était M. McPherson. Ce dernier a fait l’objet d’une décision de la Cour canadienne de l’impôt, qui a conclu qu’il avait effectivement reçu une commission clandestine équivalant à 75 p. 100 de son don. [McPherson c. La Reine, 2006 CCI 648.]
+e) Le seul contribuable restant, M. Coglon, n’a pas fait l’objet d’une vérification parce que son reçu pour don de bienfaisance a été refusé à l’étape initiale d’établissement de la cotisation. [Témoignage de vive voix de Larry Kuhn.]
+22. JIT a émis un chèque à l’ordre de M. Coglon le 17 janvier 1997. [R1, volume 1, onglet 7, page 244.]
+23. Non seulement JIT a‑t‑elle touché des commissions pour les dons faits par les personnes ayant reçu les virements télégraphiques mais aussi est‑elle allée jusqu’à prêter à certains de ces donateurs les fonds nécessaires à leur don. Ainsi, M. Norton a admis que JIT avait prêté à Conrad Clemiss la somme de 50 000 $ pour son don. [Témoignage de vive voix de Bill Norton en contre‑interrogatoire, R1, volume 1, onglet 7, page 243, et voir également R1, volume 1, onglet 11, documents relatifs aux comptes en fidéicommis de James Comperelli.]
+24. Tous les donateurs qui ont fait des dons en 1993, en 1994 et en 1995 ont obtenu un reçu d’une valeur nominale équivalant à quatre fois le montant versé par le donateur. [Hypothèses non réfutées.]
+25. Dans son témoignage, M. Norton a affirmé qu’il avait fait la promotion de ABLE avec son idée de « loterie », à laquelle les donateurs pouvaient « gagner », ce qui rendait l’œuvre de bienfaisance dont il faisait la promotion plus concurrentielle et lui permettait de réaliser un profit en commissions ou d’accéder à d’autres « sources de revenu » comme la « publicité partagée ».
+26. Quoique M. Norton ait déposé en preuve deux types de billets qui ressemblaient à des billets de loterie relatiement aux années postérieures à 1996 [A1b) et c) – les billets au fini brillant], le billet qu’il a fourni relativement à l’année 1996 [A1a) – le billet au fin mat] ne fait pas état d’une loterie mais plutôt d’un [tradution] « cadeau » de la part de PPF[8].
+27. Il n’existe aucun document corroborant le témoignage de M. Norton suivant lequel il a fait la promotion de ABLE en 1996 en tant que loterie. Il a reconnu ce fait en contre‑interrogatoire[9].
+28. M. Norton a déclaré dans son témoignage que les « chances de gagner » en 1996 étaient de une sur trois. Il n’existe aucun document corroborant son témoignage et il a reconnu ce fait en contre‑interrogatoire.
+29. M. Norton a expliqué avoir assisté à un « tirage dans l’ordre inverse » et avoir réfléchi à de multiples autres tirages pour faire des « gagnants » à sa « loterie » de 1996. Il n’existe pas un seul document, pas même un billet d’avion, corroborant ce témoignage[10].
+30. Selon le témoignage de Mme Norton, elle s’était fiée à son mari et elle lui [traduction] « faisait confiance »[11].
+31. Mme Norton a témoigné qu’elle ne pouvait pas se rappeler pourquoi elle avait décidé de faire un don de 20 000 $.
+32. M. Norton a témoigné que c’était lui qui avait fixé le montant de 20 000 $[12].
+33. Mme Norton avait siégé au conseil d'administration de ABLE en 1993[13].
+34. Le témoignage de Mme Norton a démontré qu’elle n’avait jamais fait d’autres dons de bienfaisance à ABLE ni aucun autre don de bienfaisance avant ou après le don en cause dans le présent appel[14].
+35. Avant que Mme Norton ne verse son don le 30 décembre 1996, des chèques de commission clandestine avaient déjà été émis à l’ordre de nombreux donateurs (environ 40)[15].
+36. M. et Mme Norton ont nié avoir eu connaissance des mentions relatives à un « cadeau pour études » dans les documents de promotion. [R1, volume 1, onglet 5(a), page 60, onglet 5(b) page 77.]
+37. D’après les témoignages de M. et Mme Norton, Mme Norton s’est fiée à la « trousse promotionnelle » produite sous la cote A5, incluant les pièces A2, A3 et A4[16]. [Témoignage de vive voix de Bill Norton.]
+38. La pièce A2 est identique (mis à part l’exclusion de l’avis juridique) au document dont les Norton ont nié avoir eu connaissance à R1, volume 1, onglet 5b)[17].
+39. La pièce A2 fait état d’un cadeau pour études.
+40. L’opinion de Bennett Jones, invoquée par les appelants, est fondée sur la prémisse que les donateurs peuvent recevoir un cadeau pour études et que la décision quant à savoir qui recevra un cadeau demeure à la discrétion de PPF, qui doit tenir compte des recommandations des collecteurs de fonds, tels que JIT [18]. [Voir le paragraphe 6 de l’opinion de Bennett Jones, page 2.]
+41. M. Norton a témoigné que PPF existait réellement et qu’il avait rencontré ses membres : Henri, Nicolas Thil et Don Fraser.
+42. M. Norton a affirmé que Don Fraser était président d’Eurobank.
+43. Le chèque que Mme Norton a reçu provenait d’un compte d’Eurobank. [R1, volume 2, p. 594.]
+44. M. Kuhn a déclaré dans son témoignage que, à la fin de la vérification effectuée à l’égard de quelque 594 donateurs de ABLE sur une période de deux ou trois ans, il n’avait pas réussi à trouver d’éléments de preuve démontrant que PPF existait réellement[19]. Au contraire, la preuve démontrait qu'il semblait s’agir simplement d’un « flux circulaire de fonds » servant à écumer l’argent provenant des prix gonflés demandés pour des trousses de lecture rapide en vue essentiellement d’utiliser ce même argent[20].
+45. Les trousses de lecture rapide distribuées par ABLE étaient les mêmes que celles utilisées depuis plus de trente ans dans les divers stratagèmes de M. Thill. [Témoignages de vive voix de Bill Norton et de Larry Kuhn.]
+[3] À ces faits, j’ajouterais les détails qui suivent. En 1996, M. Norton voulait créer, avec un partenaire d’affaires de Houston, au Texas, une société de collecte de fonds qui utiliserait la méthode des loteries promotionnelles et toucherait des commissions et éventuellement des honoraires pour l’utilisation de la publicité à frais partagés sur Internet. Il a dit que, en 1996, il a rencontré la belle‑fille de M. Thill, Mme Marie Peters, qui était à l’époque présidente d’ABLE, afin de discuter de la collecte de fonds de l’œuvre de bienfaisance.
+[4] Avant de s’engager dans une entente avec ABLE, M. Norton a fait quelques démarches pour satisfaire aux exigences de la diligence raisonnable. Il a vérifié si ABLE était une œuvre de bienfaisance dûment enregistrée aux fins de l’impôt. Au printemps et à l’été 1996, il a également rencontré un avocat du cabinet Bennett Jonse Verchere (« BJV ») pour obtenir un avis juridique sur l’arrangement (le programme de dons) qui devait être mis en application dans le cadre de la campagne de souscription pour ABLE. Il a également affirmé qu’il avait fait évaluer la trousse de lecture par un professeur de l’Université de Toronto et par un autre professeur d’un établissement d’enseignement situé aux États‑Unis.
+[5] Il a réussi à obtenir de BJV un avis juridique qui est daté du 25 septembre 1996. Toutefois, je ferais remarquer que cet avis ne fait pas état du fait que le cadeau pour études équivaudrait à 75 p. 100 du montant du don versé et que tous les donateurs obtiendraient le cadeau pour études. De plus, l’avis présume que le don est un [traduction] « transfert de biens volontaire, inconditionnel et gratuit […] fait sans expectative importante de recevoir le cadeau [pour études] ou tout autre avantage ou contrepartie » (page 15 de la pièce A2). Il y est également mentionné que, si pareille expectative importante existait, le donateur n’aurait [traduction] « probablement pas droit au crédit d’impôt » pour dons (ibid., page 19).
+[6] Donc, la question difficile à laquelle M. Norton se heurtait était de savoir si le programme de dons d'ABLE donnait lieu à une expectative importante de recevoir un avantage ou une contrepartie. Il a dit qu’il en avait discuté avec l’avocat du cabinet de BJV et avait analysé la possibilité que le soi‑disant cadeau pour études soit remis dans le contexte d’une loterie promotionnelle où un donateur sur trois seulement aurait le droit de recevoir le prix, le cadeau ou les gains, suivant la version utilisée. Il voulait, si je comprends bien, régler la question de l’expectative importante en créant de l’incertitude en combinant le tirage avec la campagne de souscription. Toutefois, la solution retenue par M. Norton qui consistait à payer le soi‑disant cadeau pour études – que je qualifie de remboursement partiel – en pareilles circonstances n’a pas été abordée dans l’avis écrit de BJV parce qu’il existait apparemment certains doutes quant à la question de la réception d’une contrepartie en échange du don et quant aux lois de la Colombie‑Britannique concernant [traduction] « le vice et le jeu » pour reprendre les termes de M. Norton.
+Position de l’intimée
+[7] La position de l’intimée est exposée aux paragraphes 46 à 60 de ses observations écrites.
+[traduction]
+PARTIE III – LE DROIT
+46. L’article 118.1 de la Loi traite des déductions pour dons de bienfaisance dont peuvent bénéficier les particuliers qui font des dons de bienfaisance, des dons à l’État et certains dons de biens culturels et de biens écosensibles.
+47. La Loi prévoit, parmi les exigences relatives à l’admissibilité à la déduction, que le contribuable doit faire un « don ».
+48. Comme le terme « don » n’est pas défini dans la Loi, ce sont les principes généraux de droit qui en régissent le sens.
+The Queen v. Friedberg, 92 D.T.C. 6031 (C.A.F.), à la page 6032.
+49. La Cour d’appel fédérale dans Friedberg a défini le mot « don » comme suit :
+[…] un don est le transfert volontaire du bien d’un donateur à un donataire, en échange duquel le donateur ne reçoit pas d’avantage ni de contrepartie (voir le juge Heald dans La Reine c. Zandstra, [74 DTC 6416] [1974] 2 C.F. 254, à la p. 261).
+50. L’intimée soutient que, même si l’appelante a versé un montant à ABLE au cours de l’année d’imposition 1996, celui‑ci n’était pas admissible à titre de « don ».
+51. L’intimée soutient que, suivant la prépondérance des probabilités, la Cour doit considérer comme un fait établi que l’appelante s’attendait à recevoir et a effectivement reçu la commission clandestine équivalant à 75 p. 100 de son don.
+52. Il est bien établi en droit (et selon le bon sens) que le fait de s’attendre à recevoir et de recevoir une commission clandestine au comptant équivalant à 75 p. 100 du don vicie le don. C’est d’ailleurs la conclusion qui est ressortie récemment d’une affaire qui a été tranchée par la Cour canadienne de l’impôt et pour laquelle une preuve beaucoup moins solide avait été présentée.
+The Queen v. Friedberg, 92 D.T.C. 6031 (F.C.A.), page 6032.
+McPherson c. La Reine, 2006 CCI 648.
+53. Il est allégué que la présente affaire s’articule autour des faits qui lui sont propres.
+54. Mme Norton est mariée au promoteur de la variante de la commission clandestine du stratagème utilisé par ABLE en 1996.
+55. Non seulement il existe une preuve étendue et éloquente de faits similaires qui laisse croire que ABLE a toujours fondé ses activités sur des reçus gonflés dans une proportion de 1 à 4, mais la preuve démontre aussi que c’est exactement ce qui est arrivé dans le cas de Mme Norton (don de 20 000 $, remboursement de 15 000 $).
+56. De plus, la preuve révèle que toutes les personnes ayant fait l’objet d’une vérification à l’égard de la variante de la commission clandestine ont reçu une commission clandestine. Dans le cas de Mme Norton, le gouvernement a en main le chèque qui constitue une preuve irréfutable.
+57. Mme Norton invoque l’explication que son mari a donnée concernant la loterie. Aucune preuve documentaire n’a été présentée à l’appui de cette position malgré le fait que son mari, en tant que promoteur du stratagème, soit particulièrement bien placé pour obtenir des documents.
+58. Il peut raisonnablement être inféré de ce qui précède que Mme Norton savait qu’elle obtiendrait la commission clandestine de 15 000 $ parce que tous les autres donateurs l’avaient obtenue et également parce que de nombreux donateurs avant elle avaient déjà reçu leur chèque.
+59. ABLE a déjà fait l’objet de plusieurs décisions de la Cour canadienne de l’impôt et d’un arrêt de la Cour d’appel fédérale.
+Doubinin c. La Reine, 2005 CAF 298; 2004 CCI 438.
+Webb c. La Reine, 2004 CCI 619 (C.C.I.).
+Julian c. La Reine, 2004 CCI 330.
+McPherson c. La Reine, 2006 CCI 648.
+60. Jamais auparavant un appelant ayant allégué avoir versé le plein montant du don n’a obtenu gain de cause dans son appel.
+[8] Mme Norton a invoqué l’argument avancé par son mari suivant lequel il n’existait pas d’expectative importante de recevoir un cadeau en raison du mécanisme de la loterie. Les deux billets déposés sous la cote A1 (les parties B et C) constituaient la seule preuve à l’appui de sa position.
+[9] Comme je l’ai souligné durant l’argumentation, le billet de loterie déposé sous la cote A1 B est un billet destiné au marché des États-Unis et il ne fait pas mention d’ABLE mais bien de « ABLE – Americans for the Betterment of Literacy and Education » (« ABLE Americans »). L’adresse donnée pour ABLE Americans est située à Bellingham, Washington, et le numéro de téléphone inscrit est un numéro de Houston. La preuve a également établi que ces billets n’étaient pas offerts en 1996, mais seulement au cours des années subséquentes.
+Analyse
+[10] J’aimerais ajouter les éléments qui suivent aux observations faites par l’avocat du ministre. Je commencerais par citer la déclaration du juge Bowie dans la décision Webb, laquelle, je crois, peut également être appliquée en l’espèce. Au paragraphe 17, il a dit :
+Les circonstances que j’ai mentionnées m’amènent à conclure qu’il n’y avait rien du tout de libéral au sujet du paiement qu’a fait M. Webb à ABLE. Son intention était de recevoir un crédit d’impôt pour un don de bienfaisance, en plus d’un remboursement important du montant qu’il avait versé, de sorte qu’une fois additionnés, les deux éléments dépasseraient le montant de 30 000 $ pour lequel il a écrit le chèque.
+[11] Je crois que cette conclusion s’applique au cas de Mme Norton. Même si M. Norton prétend qu’elle ne savait pas qu’elle recevrait le cadeau pour études, il était, par l’intermédiaire de JIT, le collecteur de fonds et il savait, ou il aurait dû savoir, qu’elle recevrait le cadeau pour études. Il a reconnu avoir eu son mot à dire à propos du montant de 20 000 $ que Mme Norton a donné à ABLE. Suivant la prépondérance des probabilités, je conclus que c’est lui qui a amené l’appelante à faire le don de 20 000 $ à ABLE. Elle se fiait à lui pour les questions fiscales. Au cours de son témoignage, elle avait peine à fournir des renseignements sans se tourner en direction de son mari. Elle l’a consulté même lorsqu’elle a témoigné au sujet de ses propres déclarations de revenus.
+[12] De plus, elle ne se souvenait pas qu’elle avait communiqué avec le ministère du Revenu national pour la question du remboursement de 15 000 $ mais, après qu'on lui eut montré la déclaration (pièce R8) qu’elle avait envoyée au ministre, elle a reconnu que c’était bien le cas. Par ailleurs, j’ai des motifs de croire que ce n’est pas elle, mais bien son mari, qui a rédigé la déclaration. Elle a affirmé que ce n’était pas elle qui avait inscrit la date du 10 mars 1998 et, à mon avis, la personne qui a écrit la déclaration à la main est également la personne qui a inscrit la date du 10 mars 1998. Il n’est donc pas surprenant qu’elle ne se soit pas souvenue d’avoir communiqué avec le ministère.
+[13] Je répète qu’elle a dit, au cours de son témoignage, qu’elle avait fait confiance à son mari, et je crois qu’elle ne savait rien au sujet du modèle d’entreprise et qu’elle n’était pas au courant des divers détails du programme de dons : elle s’en est complètement remise à lui pour verser le don. À mon avis, il est juste de conclure que M. Norton était le « cerveau » derrière le versement de 20 000 $ fait à ABLE compte tenu du fait qu’il était chargé de recueillir les fonds pour cette organisation et qu’il était en mesure de constater, même s’il le nie, que les donateurs recevaient un remboursement de 75 p. 100 dans un délai de 15 à 60 jours. Quoi qu’il en soit, il aurait dû savoir que c’est ce qui était fait. Il a affirmé qu’il était important que le tirage ne fasse pas trop de perdants pour que cela ne nuise pas à la collecte de fonds. Je mentionnerais encore également que JIT avait intérêt à recueillir autant de dons que possible parce que ses commissions en dépendaient et que la durée de l’entente était également fonction de la somme d'argent amassée au bénéfice de l’œuvre de bienfaisance.
+[14] Je crois également que le dossier se passe de commentaires. Au cours de toutes les années précédentes, les donateurs avaient reçu le remboursement ou touché la contribution supplémentaire, même s’il n’y avait aucune garantie que ce serait le cas. À mon avis, les déclarations contenues dans les documents remis aux donateurs, notamment le formulaire sur lequel les donateurs reconnaissaient que le don était fait sans expectative importante de recevoir un cadeau, ne sont qu’une mise en scène ou des déclarations intéressées. En réalité, toutes les personnes qui ont fait un don en 1996 ont reçu un remboursement partiel. On peut légitimement présumer qu’elles s’attendaient à le recevoir.
+[15] Je devrais souligner qu’on peut se demander si les témoignages de M. et Mme Norton sont dignes de foi. Même si elle estimait qu’il s’agissait d’une bonne cause, Mme Norton n’avait jamais donné d’argent à ABLE entre 1993, année où elle siégeait à son conseil d’administration, et 1996, année où elle a versé le don de 20 000 $. Le seul autre don qu'elle ait fait entre 1990 et 1998 s'élevait à 30 $.
+[16] En ce qui a trait aux fonds qu’il a amassés d’octobre à décembre 1996, M. Norton a mentionné dans son témoignage que l’obtention d’un cadeau pour études par les donateurs était entièrement assujettie au mécanisme de la loterie, c.‑à‑d. qu’ils avaient seulement une chance sur trois de l’obtenir. Malheureusement, son témoignage est contredit par celui du vérificateur. La vérification a révélé que les donateurs recevaient tous le remboursement et, si un mécanisme de loterie tel que celui que M. Norton a décrit a déjà existé, il n’était certainement pas en place en 1996.
+[17] Je devrais également mentionner que M. et Mme Norton ont tous les deux donné des réponses assez évasives lorsqu’il leur a fallu discuter de ce qui s’était produit lorsque Mme Norton a versé son don. M. Norton était, par surcroît, très réticent ou évasif lorsqu’il a été amené à reconnaître que les documents utilisés à l’automne 1996 ne faisaient pas état d’un mécanisme de loterie et que l’arrangement relatif au cadeau pour études était toujours appliqué à ce moment‑là.
+[18] Dans son témoignage, il a dit que les gens pouvaient gagner jusqu’à 75 p. 100 du don versé à ABLE alors que, en réalité, ils obtenaient tous un remboursement de 75 p. 100. Je suis d’avis qu’il était en mesure de savoir que chacun des donateurs obtiendrait ce remboursement, que sa femme le savait et que, si elle ne le savait pas, il était celui qui l’avait guidée pour faire son don. Par conséquent, il savait qu’elle obtiendrait le remboursement au moment où elle a versé son don à l’œuvre de bienfaisance.
+[19] Selon moi, même si M. Norton n’y a pas renvoyé dans son argumentation, Doubinin c. La Reine, 2005 CarswellNat 2814, 2005 CAF 298. est le seul arrêt qui aurait été susceptible d’étayer un tant soit peu sa position. À mon sens, cet arrêt ne lui est d’aucune utilité parce qu’il existe des différences importantes entre cette affaire et les faits en l’espèce. La Cour d’appel fédérale a d’ailleurs affirmé ce qui suit dans Doubinin au paragraphe 8 :
+La juge de la Cour de l’impôt a accueilli l’appel de l’intimé. Ce faisant, elle a conclu que l’intimé avait droit à un crédit d’impôt de 6 887 $[21]. Elle a accepté le témoignage de l’intimé suivant lequel il avait l’intention requise pour faire en sorte que son don de 6 887 $ soit un don de bienfaisance à un organisme de charité enregistré. La juge de la Cour de l’impôt a déclaré : « Il s’agit d’un don authentique qui n’a pas été donné dans l’espoir de recevoir un avantage matériel, ni aucune autre contrepartie de PPF. Le don de PPF n’était qu’une simple possibilité […]. »
+[20] Il devrait être souligné que l’affaire Doubinin portait sur l’arrangement relatif à la contribution supplémentaire et que la « [juge de la Cour de l’impôt] a accepté le témoignage […] suivant lequel [le contribuable] avait l’intention requise pour faire en sorte que son don de 6 887 $ soit un don de bienfaisance ». Le contribuable avait effectivement versé le « don de 6 887 $ », et ce n’est qu’après avoir été informé par ABLE que PPF avait fait la contribution supplémentaire qu’il a demandé un crédit d’impôt pour un montant de 27 548 $. Ensuite, lorsqu’il a appris du ministre, avant la tenue de l’audience devant la Cour de l’impôt, que PPF n’avait pas fait la contribution supplémentaire, l’appelant a ramené sa demande de crédit d’impôt à 6 887 $ (paragraphe 6 de l’arrêt de la Cour d’appel fédérale).
+[21] À mon avis, le programme de dons qui a été commercialisé à l’automne 1996 par JIT est un exemple typique des nombreux abris fiscaux agressifs qui tentent d’exploiter des déductions ou des crédits d’impôt. Il en existe de nombreux exemples dont le don d'œuvre d'art à des organismes de bienfaisance suivant un stratagème appelé « achat et vente successifs d’œuvres d’art » (dont un exemple est fourni dans Dutil v. The Queen, 95 DTC 281), et l’achat de faux reçus de don de bienfaisance établis à des fins fiscales, dont il est question dans Abouantoun c. The Queen, 2002 DTC 3811 (résumé), une décision que j’ai rendue. La même méthode visant à tirer profit des déductions d’impôt était largement employée dans les abris fiscaux de recherche et de développement au Québec, comme en témoigne la décision McKeown v. The Queen, 2001 DTC 511. Elle a aussi été utilisée avec les données sismiques, par exemple dans Global Communications Limited v. The Queen, 99 DTC 5377. Une méthode semblable a également été employée pour la commercialisation de logiciels dans Morley v. The Queen, 2004 DTC 2604, une autre décision que j’ai rendue. La méthode utilisée dans tous ces abris fiscaux est la même : vous déduisez un montant supérieur à ce que vous avez payé ou êtes tenu de payer. Vous réalisez ainsi un profit sur l'avantage fiscal lui‑même et personne ne se préoccupe de savoir comment l’argent est dépensé.
+[22] Pour les motifs exposés, l’appel est rejeté, avec dépens en faveur de l’intimée.
+Signé à Ottawa, Canada, ce 8e jour de février 2008.
+« Pierre Archambault »
+Juge Archambault
+Traduction certifiée conforme
+ce 12e jour de mars 2008.
+Aleksandra Koziorowska, LL.B.
+RÉFÉRENCE : 2008CCI91
+NO DU DOSSIER DE LA COUR : 2004-396(IT)G
+INTITULÉ DE LA CAUSE : Patricia Norton et La Reine
+LIEU DE L’AUDIENCE : Vancouver (Colombie Britannique)
+DATES DE L’AUDIENCE : Les 2 et 3 août 2007
+MOTIFS DU JUGEMENT : L’honorable juge Pierre Archambault
+DATE DU JUGEMENT : Le 8 février 2008
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle‑même
+Avocats de l’intimée :
+Gavin Laird et Robert Carvalho
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Je préférerais parler de remboursement partiel du montant que Mme Norton a versé à ABLE pour désigner le paiement qu’elle a reçu de Publisher’s Philanthropic Fund of Bermuda (« PPF »), au lieu de commission clandestine.
+[2] J’aimerais ajouter que la mention relative à la TPS semble indiquer que les paiements peuvent avoir été faits relativement à des services.
+[3] Je prends en compte certains des changements apportés par l’avocat au cours de son argumentation orale. Ainsi, ici au paragraphe 12, il a dit [traduction] « jusqu’en 1996 » au lieu de [traduction] « avant ». Toutefois, je ne mentionnerai pas nécessairement tous les changements. Je ne ferai état que des plus importants.
+[4] M. Bill Norton, qui a témoigné, a dit qu’il a connu M. Thill dans les années 70 et 80 alors qu’il était un athlète professionnel et achetait des abris fiscaux, bien qu’il n’en ait pas acheté de M. Thill à l’époque. Il a été associé, en 1991, à un seul abri fiscal avec M. Thill, qui était promoteur d'un certain nombre d'abris fiscaux et auteur d’une trousse de lecture qu’il avait commercialisée au fil des années grâce à des abris fiscaux.
+[5] Cette entente renfermait une clause qui en précisait la durée, laquelle variait selon les fonds réunis par JIT. Si une somme de deux millions de dollars était amassée, le contrat était prolongé jusqu’en décembre 1997. Si une somme allant jusqu’à dix millions de dollars était amassée, cette entente exclusive relative aux commissions était prolongée jusqu’en décembre 2001.
+[6] Je crois que les propos du juge Bowie dans Webb c. La Reine, 2004 CCI 619, [2005] 3 C.T.C. 2068, s’appliquent en l’espèce pour décrire ce qui s’est produit. Il a parlé du témoignage de M. Kuhn, aux paragraphes 11 et 12, en ces termes :
+[11] Dans son témoignage, M. Kuhn a affirmé que pendant la période où il faisait enquête sur les activités de ABLE et où il établissait des cotisations pour les personnes qui faisaient des dons à ABLE, il avait refusé les crédits d’impôt demandés par chacun des 550 soi‑disant donateurs qu’il avait vérifiés [en fait, devant la Cour, M. Kuhn a dit 449]. Il n’a trouvé aucun cas de donateur à ABLE qui avait payé plus de 25 % de la valeur du reçu qu’il avait obtenu. Ils avaient payé 25 % de la valeur nominale du reçu, ou bien ils avaient payé 100 % de la valeur nominale du reçu et avaient reçu un remboursement de 75 %.
+[12] Également, M. Kuhn a décelé une série de bons de commande que ABLE avait utilisés pour acheter ce qu’on pourrait appeler des « trousses de lecture », ou des trousses que l’organisation devait distribuer dans diverses écoles de la Colombie‑Britannique. Il a aussi trouvé les factures selon lesquelles le fournisseur a obtenu les trousses. Sans entrer dans le détail des transactions, l’importance de la majoration vient démontrer qu’il ne s’agissait pas de transactions commerciales normales, mais que, suivant ce qui était usuellement le cas d’après le témoignage de M. Kuhn, une bonne partie de l’argent ne faisait simplement que circuler par les entreprises d’imprimerie et de distribution avant d’être renvoyé aux donateurs d’origine.
+[7] Décrits comme un [traduction] « cadeau pour études ».
+[8] J’ajouterais que l’un des deux types de billets utilisés dans les années postérieures à 1996 était celui d’une œuvre de bienfaisance située aux États‑Unis.
+[9] J’ajouterais que M. Kuhn, dans son témoignage, a affirmé qu’il n’existait aucune preuve de publicité concernant la loterie offerte pour réunir des fonds pour ABLE de 1993 à 1996.
+[10] J’ajouterais que la réunion à laquelle il a pris part et pendant laquelle il a assisté à un tirage dans l’ordre inverse a été tenue, selon M. Norton, au cours des célébrations du nouvel an 1997. Selon M. Norton, il y a eu un tirage pour les dons qui avaient été versés depuis le 16 octobre 1996 et un donateur sur trois seulement a gagné le droit de recevoir un cadeau pour études. Il a affirmé qu’il était important qu’il n’y ait pas trop de perdants sinon cela aurait nui à ses efforts visant à réunir des fonds pour ABLE.
+[11] Je remplacerais ce paragraphe par ce qui suit : « Mme Norton a dit qu’elle avait versé le montant de 20 000 $ à ABLE parce qu’elle aimait cette œuvre de bienfaisance. Toutefois, elle a également reconnu qu’elle s’était fiée à son mari et qu’elle lui faisait confiance. »
+[12] M. Norton a témoigné qu’il se pouvait qu’il ait fixé le montant de 20 000 $.
+[13] Dans son témoignage, M. Norton a dit que sa femme avait siégé au conseil d’administration d’ABLE pendant deux semaines; toutefois, dans l’affidavit qu’il a souscrit en octobre 1998 (pìèce R2), il affirme qu’elle y avait siégé pendant trois à quatre semaines.
+[14] Mme Norton a témoigné qu’elle n’avait jamais fait d’autres dons de bienfaisance à ABLE. Dans son témoignage, M. Kuhn a dit que son analyse des dossiers du ministère du Revenu national à l’égard des années d’imposition 1990 à 1998 révélait que Mme Norton n’avait pas fait d’autres dons, à l’exclusion d’un montant de 30 $ versé au district scolaire numéro 43 qu’elle a déduit dans sa déclaration de revenus pour 1996 (pièce R5).
+[15] J’ajouterais que, en règle générale, ces paiements étaient faits dans un délai variant de deux semaines à deux mois, particulièrement dans le cas des virements télégraphiques.
+[16] Le document remis à Mme Norton en 1996 (pièce A2) indique ce qui suit à la page 8 :
+[traduction] Il n’existe aucune garantie, expresse ou tacite, que le donateur recevra un cadeau, et le donateur convient que le don versé à ABLE (Association for the Betterment of Literacy and Education) est versé volontairement et sans aucune expectative de ce genre.
+[17] Les renseignements contenus dans la pièce A2 s’apparentent à ceux de la trousse d’information figurant à l’onglet 5A de la pièce R1; toutefois, certains des renseignements contenus dans cette trousse n’apparaissent pas dans la pièce A2. En particulier, à la page 61, on trouve une description de l’incitatif fiscal pour encourager les gens à participer au programme de dons. L’exemple donné est expressément fondé sur la prémisse qu’il est recommandé que le donateur reçoive le cadeau maximal pour études de 75 p. 100 et qu’il le reçoit. Il suppose également que le donateur souhaite verser le montant maximal autorisé de 50 p. 100 de son revenu net. Le document explique ensuite que, si un donateur (ayant un revenu net imposable de 50 000 $) verse un don de 25 000 $, l’impôt à payer sur le revenu après déduction du don est de 2 562,55 $, ce qui représente une économie de 11 236,35 $ par rapport à l’impôt de 13 798,85 $ qui aurait été autrement payable.
+En plus de quantifier la réduction d’impôt, le document explique que, si le donateur reçoit le cadeau pour études de 18 750 $, il dispose de liquidités après impôts de 41 187,50 $ (50 000 $ − 2 562,50 $ − 25 000 $ + 18 750 $), ce qui représente une économie (un rendement) de 4 986,35 $ (− 25 000 $ + 18 750 $ + 11 236 $). À la page 65, le document expose les avantages offerts au donateur, notamment ce qui suit :
+[traduction] Le revenu personnel n’est pas réduit. Le revenu disponible après impôts est augmenté considérablement. Vous aurez plus d’argent à dépenser ou à investir selon ce que vous souhaitez faire.
+Finalement, à la page 64, le document énonce les circonstances dans lesquelles quelqu’un pourrait s’attendre à recevoir le cadeau :
+[traduction] […] En pratique, le bénéficiaire est généralement un membre actif de l’œuvre de bienfaisance de son choix et une personne qui donne de son temps ou apporte un soutien financier. Aucun montant de participation obligatoire n’est imposé aux bénéficiaires sélectionnés et le revenu de ceux‑ci n’est pas un facteur dans l’administration du fonds. Les cadeaux remis par Publisher's Philanthropic Fund sont déterminés d’après les recommandations reçues des collecteurs de fonds et des membres de la collectivité dans son ensemble.
+[18] J'ajouterais ce qui suit : M. Norton a nié avoir dit à sa femme qu'elle obtiendrait un cadeau pour études parce que cela aurait été contraire à l’opinion donnée par le cabinet Bennett Jones Verchere (« BJV ») et parce qu’il n’aurait pas été logique de dépenser tout cet argent en honoraires d’avocat et de ne pas agir ensuite en conformité avec cette opinion. En outre, le document de promotion remis à Mme Norton comprend l’opinion fiscale de BJV, qui souligne qu’il ne peut y avoir d’expectative importante quant à l’obtention du cadeau. Le document précise également qu’ABLE ne fait pas valoir que le cadeau sera fait par PPF ou par toute autre tierce partie. La seule raison invoquée pour expliquer le don de Mme Norton est qu'elle aimait l'œuvre de bienfaisance et sa cause. Elle soutient qu’on ne lui a pas dit qu’elle obtiendrait le cadeau.
+[19] Que ce soit aux Bermudes ou à l’île Grand Cayman.
+[20] J’ajouterais la description suivante de la philosophie de PPF qui apparaît à l’onglet 5A, page 64, de la pièce R1 : [traduction] « Publishers’ Philanthropic Fund est plus particulièrement chargée de récompenser des personnes sélectionnées en raison de leur intérêt et de leur préoccupation à l’égard d’œuvres de bienfaisance dans le domaine de l’éducation. Publishers’ Philanthropic Fund ne fait pas des dons directement à des œuvres de bienfaisance. Les fondateurs croient que, en sélectionnant chacun des bénéficiaires, les fonds seront utilisés le mieux possible en conformité avec l’esprit et les objectifs de l’organisation. »
+Je ne vois pas quel avantage il aurait pu y avoir pour cette organisation philanthropique, si elle a réellement existé, à donner de l’argent (un cadeau pour études) à une personne comme Mme Norton qui a reçu un diplôme universitaire et une formation en psychologie et en sociologie.
+[21] Il semble exister une certaine confusion au sujet du montant du crédit d’impôt pour don et du montant du don. Le premier est une fraction du second. (Voir le paragraphe 118.1(3) de la Loi de l’impôt sur le revenu.)

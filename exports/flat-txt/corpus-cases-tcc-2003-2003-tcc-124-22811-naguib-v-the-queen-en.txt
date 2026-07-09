@@ -1,0 +1,164 @@
+Title: Naguib v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/22811/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-124-22811-naguib-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-03-18
+
+# Naguib v. The Queen
+
+- Citation: 2003 TCC 124
+- Decision date: 2003-03-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2319, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Naguib v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-03-18
+Neutral citation
+2003 TCC 124
+File numbers
+2001-3545(IT)G
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2003TCC124
+Date: 20030318
+Docket: 2001-3545(IT)G
+BETWEEN:
+FAIDY FOUAD NAGUIB,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench at
+Toronto, Ontario, on February 7, 2003)
+Bowie J.
+[1] Mr. Naguib appeals his income tax assessments for the 1992, 1993, 1994 and 1995 taxation years. He was reassessed for all those years on July 4, 2001. I heard the appeals under the General Procedure on February 3 and 4, 2003.
+[2] Mr. Naguib was born and grew up in Egypt. He obtained a Bachelor of Commerce degree there and subsequently worked for an investment company. Between 1971 and 1976, he worked for an oil company in Saudi Arabia as an internal auditor. He described his job as being well-paid and including such perks as free housing and a car, large bonuses and paid travel vacations. He became a landed immigrant of Canada and, after leaving for some years, returned under a returning resident's permit in 1988. Since then he has been a resident of Canada and his world income is therefore subject to tax under the Income Tax Act (the Act). He testified that at that point in time he had approximately US$350,000 on deposit in Egypt, and another US$50,000 in Saudi Arabia as well as some ten acres of farmland that he owned in Egypt.
+[3] In Canada, he took a job as an inventory clerk with a firm of chartered accountants soon after his return. In 1990, he lost his job and he decided to become an immigration and business consultant. He has carried on that business ever since. His evidence was that he advertised in Egypt for clients for this business. Initially, he had difficulty establishing a clientele, but he eventually made some contacts through friends and, as he put it, by charging cheap rates he was able to obtain more business.
+[4] The Appellant testified that he used some of his accumulated savings to fund this embryonic business, and that its growth was slow between 1992 and 1995. The evidence as to his actual volume of business is scant. He said that he charged up to $2,000 per client for his services to would-be immigrants to Canada, and that most of his clientele were from Egypt and made their applications there, although some applied from within Canada. He was paid, he said, either by cheque or in cash.
+[5] For the years under appeal, the Appellant's income tax returns reported his revenues and expenses as follows:
+Gross revenue
+(Non-office) Expenses
+Net
+Home office expenses
+Home office expense
+Carry forward
+1992
+21,040
+16,499
+4,541
+8,665
+4,124
+1993
+30,210
+26,123
+4,087
+8,572
+8,609
+1994
+36,150
+31,840
+4,310
+7,933
+12,232
+1995
+16,300
+22,771
+(6,471)
+4,779
+16,542
+Those home office expenses were computed on the basis that he used 50 per cent of his 2,700 square foot house for business purposes. He did not elaborate on how that space was used.
+[6] The Appellant was assessed on a net worth basis. This is not surprising as he had no financial records at all that would assist in verifying his income for the years in question, and much of his income was received outside Canada, and a significant amount of it was paid to him in cash.
+[7] The auditor, who made the initial net worth assessment, included as part of his personal expenditures some very substantial amounts which were described in the net worth computation as unidentified withdrawals. These were all the withdrawals from the Appellant's bank accounts for which he was unable to produce a satisfactory explanation. This led to the following assessments of taxable income for the years under appeal:
+1992
+- $ 74,320.38
+1993
+- $ 72,429.21
+1994
+- $150,703.41
+1995
+- $367,200.16
+Penalties were also assessed on the unreported income under subsection 163(2) of the Act.
+[8] The Appellant objected to these assessments and, after almost three years of correspondence, the amounts of income assessed were reduced to:
+1992
+- $ 9,925
+1993
+- $73,618
+1994
+- $82,155
+1995
+- $25,180
+The appeals officer who generated these assessments testified that the essential difference between the two sets of assessments arose from the fact that he did not include all the unexplained bank withdrawals in Mr. Naguib's income. He did say that he did not necessarily regard it as wrong for the assessor to have done so, but that he did not include all those amounts because of the considerable volume of deposits and withdrawals which, in his words, were "churned through" the Appellant's bank accounts during the relevant period. The penalties were maintained but reduced in accordance with the reduction in the undeclared income.
+[9] The Appellant raised four specific grounds of appeal against these assessments.
+(i) The Appellant says that during 1995 he borrowed $31,726.48 from a Mr. Tawfik Girgis Mossa, and that he repaid this amount to Mr. Mossa in 1996. Consequently, he says, his 1995 income, as calculated by the net worth method, is overstated by the amount of that loan which increased his net worth.
+(ii) The Appellant says also that on October 5, 1991, he made an interest free loan to his cousin Mr. Hany Saba Kilta Kelada in the amount of US$100,000, and that it was repaid by his cousin between 1993 and 1995 as follows:
+US$ 26,300 in 1993
+US$ 62,100 in 1994
+US$ 11,600 in 1995
+with the result that his income for those years is overstated by those amounts.
+In the case of both of those loans, no liability appears in respect of the loan from Mr. Mossa, and no asset appears in respect of the loan owed to the Appellant by his cousin.
+(iii) The Appellant's third objection to the assessments is that, he says, he owned some ten acres of farmland in Egypt which he sold to his brother Fathy Fouad Naguib on February 3, 1992, receiving for it C$27,000 in 1992 and C$39,000 in 1993. He says that these amounts were not income but represented payment for the asset that he had disposed of in 1993 and, consequently, if that asset had been shown to have declined in accordance with the payments made, his income as computed would have been less by those two amounts for those two years.
+(iv) The Appellant argues that in any event if his income was understated by him, then it was not as a result of either wilfulness or gross negligence on his part, and so the penalties under subsection 163(2) should be vacated.
+[10] The first three issues turn on the credibility of the Appellant and the reliability of certain documents that he put forward. I should say at this point that, of a book containing 24 photocopies of various documents or groups of documents submitted by the Appellant, I excluded from the evidence numbers 3, 9, 19, 23 and 24. Three of these are letters written in Arabic and addressed "To Whom It May Concern". They were accompanied by English translations. However, the authors of the letters were not available to testify and I excluded them on that basis. The other two documents were both self-serving and largely irrelevant documents and counsel did not press their admissibility. Of the copies of documents that were admitted, a number were copies of documents created in the Arabic language accompanied by English translations that had been made at the Arab Cultural Centre in Toronto. I admitted these translations over the objection of counsel for the Respondent. The translations were made in most cases two years ago or more, and in all cases a considerable period before the hearing, and they had been available to the Respondent for sufficient time to take whatever steps might be thought necessary to verify the translations. No effort to do so was made, and in those circumstances I accepted the Appellant's evidence that the translations were accurate.
+[11] I turn first to the Appellant's contention that a loan from Mr. Mossa in 1995 resulted in his income for that year being overstated in the assessments. The Appellant testified that he held US$136,000 which had been sent to him by the family of Mr. Makram Ramzi Gurgis from Egypt to hold for Mr. Gurgis, who apparently was in Canada. His evidence was that he had to pay this amount to Mr. Gurgis and he, for reasons that went unexplained, was unable to do so, being short by $46,000 of the amount he had to pay to Mr. Gurgis. He, therefore, borrowed $31,726.48 from Mr. Mossa on an interest-free basis on November 6, 1995, to be repaid by him in 1996. There was no explanation for the odd amount that was borrowed. However, document 15 of Exhibit A-1 is a copy of what purports to be the Appellant's receipt given to Mr. Mossa with a handwritten acknowledgment of payment by the Appellant in instalments during 1996, purporting to be signed by Mr. Mossa in November 1996.
+[12] The Appellant referred to certain entries in his bank passbooks which he said, when aggregated, were the amounts that he received in interest for Mr. Gurgis and the amounts repaid. Document 16 of Exhibit A-1 is a bank transfer of $31,726.48 apparently from the account of Mr. Mossa to that of the Appellant made on November 6, 1995. I have no doubt that the amount of $31,726.48 was transferred by Mr. Mossa to the Appellant on that day. However, I have considerable doubt about the authenticity of the copy of the receipt to which I referred earlier. It is authenticated only by the Appellant's evidence. There was a great deal about the Appellant's evidence that was unsatisfactory. Throughout his evidence, he identified many deposits and withdrawals from his several bank accounts as being from specific sources and for specific purposes, although they took place many years ago and there were no contemporaneous records of these transactions, or at least no records that were produced before the Court. However, his memory had failed him on a number of occasions on such important matters as the year in which he said that all of his business and financial records, with a few important exceptions, were destroyed in a fire in his apartment in Egypt. He had no satisfactory explanation for keeping his business records in Egypt, as he said he did, although he claimed home office expenses in respect of some 1,350 square feet of a house in Mississauga. I do not accept the Appellant's uncorroborated evidence as to the loan from Mr. Mossa. Mr. Mossa, according to the Appellant's evidence, lives in the greater Toronto area, and yet he was not called to corroborate the Appellant's evidence regarding this transaction. I draw the inference that his evidence would not have supported that of the Appellant.
+[13] I turn next to the issue of the interest-free loan that the Appellant says he made to his cousin in Egypt. Document 18 of Exhibit A-1 purports to be a loan agreement entered into on October 5, 1991, between the Appellant and his cousin Mr. Kelada, evidencing an interest-free loan said to have been made by the Appellant to his cousin in the amount of US$100,000. The document also purports to record on the lower half of it repayment made by Mr. Kelada as follows:
+US$ 26,300 in 1993
+USS 62,100 in 1994
+US$ _11,600 in 1995
+US$ 100,000
+[14] Neither the assessor nor the appeals officer accepted that Mr. Naguib was owed $100,000 by his cousin at the beginning of the net worth period, or that the amounts in question were received by him in 1993, 1994 and 1995 by way of reduction of the loan balance. If they had accepted these as factual, then the net worth computation of income in each of those years would have been reduced accordingly as the loan balance reduced each year.
+[15] The Appellant testified that his cousin made repayments on this loan periodically during each of 1993, 1994 and 1995 and that he kept track of these in writing. This record, he said, was kept at his apartment in Egypt; only at the end of the year did he total these amounts and enter them on the loan document. Exhibit A-1, number 20, is a schedule on which the Appellant purported to explain the many deposits to his bank accounts which, among other sources, he attributed to these loan repayments, as well as to payments that he said he received from his brother in payment for the ten-acre parcel of land. It is not a contemporaneous record and, of course, it is not corroborated.
+[16] In spite of the large sums involved and the subjective nature of the evidence, no attempt has been made to have either the Appellant's brother or his cousin give evidence, either by Commission under Rules 119 to 122, or otherwise. In his evidence he referred to a great many deposits to his bank accounts as having been amounts that he received in Egypt from his cousin, or his brother, and brought back to Canada to deposit in the bank. He said that when he had cheques to deposit he often left them in a drawer for many days or even weeks at a time before taking them to the bank. When questioned on cross-examination about his ability to remember the source of these many deposits he referred more than once to records which he said he had at home. However, he offered no explanation for why such records had not been produced and were not available in court to refresh his memory. I think it most unlikely that any such records exist, and I infer that if they do exist, they would not assist the Appellant's case. If they exist and would be helpful to him, then I have no doubt he would have produced them long ago, and that they would have been available at the trial.
+[17] The Appellant's evidence as to the sale of land to his brother was that the land had been left to him by his grandmother, and that he sold it to his brother, who paid him C$27,000 in 1992 and C$39,000 in 1993. If this is correct, then his interest in the land would have been decreased by those amounts and so his income would have been overstated by those amounts. In fact, the land in Egypt was not included in the statement of his assets used by the assessor or the appeals officer because they rejected the Appellant's claim as to this land. As for the Appellant's claim to have loaned US$100,000 to his cousin, there is no persuasive corroboration in connection with these payments. Again, the Appellant claims that certain deposits to his bank account, that he could identify from memory, were derived from payments made by his brother. He also testified that a dispute arose over the title to the land which resulted in litigation between him and his brother, and eventually a rescission of the agreement of sale and the return by him to his brother of the payments that he had received, but not until after the net worth period here in question.
+[18] Among the documents admitted by consent of counsel for the Respondent is what purports to be a copy of a receipt from the Appellant's brother stating that he had been repaid in August 1997, after the end of the net worth period, the amount that he had paid for the land. The receipt is dated in 1998. This receipt is written in the Arabic language, and the brother's signature was not identified. Even accepting the translation as accurate, I do not find this document to have any probative value in the absence of evidence from the Appellant's brother. The same may be said of a number of copies of the letters in Arabic which are said to have been written to the Appellant by his brother's lawyer in connection with the dispute.
+[19] Given my view of the credibility of the Appellant, I do not accept his explanations with respect to either the loan to his cousin or the sale of the farmland in Egypt. There are many facets of the Appellant's evidence that lead me to have no confidence in it. In addition to those that I have already mentioned, several matters stand out. One is his evidence that he made a certain deposit of $7,000 at a time when he was in Egypt which was, he said, part of the sale price of the land. When it was pointed out to him that he was in Egypt on the date that the deposit was made, he said first that he deposited it through a bank machine in Egypt. He then thought better of this and said that he had mailed it to his bank from Egypt. It is difficult to accept this, not only due to the conflicting versions, but also when one considers that his earlier evidence was that when he received payments in Egypt, either in cash or by cheque, he carried them back to Canada with him, and frequently let days or weeks go by before depositing the cheques.
+[20] In connection with the fire at his apartment in Egypt, the Appellant was again inconsistent. At various times he said it was in 1995 or 1996, and then in 1997 or 1998 and later December 1995. He testified that he lost all of his records due to this fire, including some, but not all, of his clients' files. However, the agreements with his brother and his cousin, he said, survived, although he did not explain how or why. He also prepared and filed a return of income for 1994 in January 1996, and one for 1995 in April 1996, in which he reported income and expenses without any mention that his records had been consumed by fire. He said that he had reconstructed some of his clients' files with assistance from the clients, and that some of them were not burned in the fire. However, he gave no explanation at all as to how he would have determined his expenses for those years. None of this gives me confidence in the truth of the Appellant's evidence.
+[21] I find that he has not discharged the onus of showing that the Minister's assumptions as to his income for the years in issue is incorrect.
+[22] As to the penalties, I am not persuaded that the Appellant's failure to report all of his income was neither wilful nor the result of gross negligence. His counsel attempted to paint the picture of Mr. Naguib as a simple inventory clerk with limited understanding of English and no understanding of matters commercial or financial. However, that is far from the real facts. The Appellant has a Bachelor of Commerce degree. He worked for years as an internal auditor. While he may not have actually been engaged in bookkeeping during that time, I cannot believe that the basic concepts of accounting and record-keeping and the computation of profit and loss are outside his knowledge and experience. He reported no income for any of the years under appeal, although the income as assessed, after it was drastically reduced by the appeals officer, aggregated approximately $190,000 for those four years.
+[23] Mr. Naguib obviously had extensive financial dealings on his own account, and according to his evidence he held a great deal of money for others from time to time. If his failure to report his income in those years was not wilful, and I believe it was, then it certainly amounted to wilful blindness and gross negligence. Nobody could overlook the kind of profits that he in fact generated.
+[24] The appeals will, therefore, be dismissed with costs.
+Signed at Ottawa, Canada, this 18th day of March, 2003.
+"E.A. Bowie"
+J.T.C.C.
+CITATION:
+2003TCC124
+COURT FILE NO.:
+2002-3545(IT)G
+STYLE OF CAUSE:
+Faidy Fouad Naguib and Her Majesty
+the Queen
+PLACE OF HEARING
+Toronto, Ontario
+DATE OF HEARING
+January 3, 4 and 7, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Judge E.A. Bowie
+DATE OF JUDGMENT
+February 10, 2003
+APPEARANCES:
+Counsel for the Appellant:
+Mary J. Main
+Counsel for the Respondent:
+Margaret J. Nott
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Mary J. Main
+Firm:
+Keyser Mason Ball LLP
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

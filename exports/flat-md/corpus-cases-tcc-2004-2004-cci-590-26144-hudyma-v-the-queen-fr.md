@@ -1,0 +1,103 @@
+---
+title: "Hudyma v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26144/index.do"
+last_modified: "2004-09-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 590"
+citation2: ""
+neutral_citation: "2004 CCI 590"
+decision_date: "2004-09-02"
+language: "fr"
+item_id: "26144"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4139
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:05:33.396000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6f8ea416b92e806761cada05af6f36ff36b82fed527874244e5a90815e2c9498"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hudyma v. The Queen
+
+- Citation: 2004 CCI 590
+- Decision date: 2004-09-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4139, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hudyma v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-09-02
+Référence neutre
+2004 CCI 590
+Numéro de dossier
+2004-503(IT)I
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2004CCI590
+Date : 20040902
+Dossier : 2004-503(IT)I
+ENTRE :
+ERVIN W. HUDYMA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l'audience
+à Regina (Saskatchewan), le 15 juillet 2004.)
+[1] Le présent appel interjeté suivant la procédure informelle a été entendu à Regina (Saskatchewan) le 14 juillet 2004. L'appelant a témoigné et a cité son fils, Blair, comme témoin. L'avocat de l'intimée a, pour sa part, fait témoigner l'agente des appels qui s'est occupée du dossier, Christine Adams.
+[2] L'appelant a renoncé à l'intégralité de son appel au début de l'audience, sauf pour ce qui est de la question de savoir s'il avait le droit de déduire les montants suivants qui auraient été payés à Blair en vertu d'un contrat d'entreprise :
+1999
+4 279 $
+2000
+4 090,11 $
+[3] Le contrat conclu entre l'entreprise commerciale d'Ervin et Blair, qui a été déposé sous la cote A-1, est daté du 23 juillet 1999. Il a été rédigé par l'appelant. Le quatrième paragraphe de ce contrat stipule :
+[TRADUCTION] Les salaires et les sommes équivalentes doivent être pris en compte dans le calcul de l'impôt sur le revenu annuel des deux parties.
+La preuve indique que, sur les conseils du cabinet d'experts-comptables AGH Accounting, Blair n'a produit aucune déclaration de revenus pour l'année 1999. En 2000, il a déclaré un revenu d'environ 1 000 $ qu'il avait gagné chez Ruckers et qui était inscrit sur un feuillet T-4, mais aucun revenu gagné auprès de l'appelant. Ainsi, Blair n'a reçu de l'appelant, en vertu du contrat qu'ils ont conclu, aucun revenu en 1999 ou en 2000.
+[4] La pièce A-1 indique à première vue que Blair n'a pas déclaré son prétendu revenu ou ne l'a pas [TRADUCTION] « pris en compte » dans [TRADUCTION] « le calcul de l'impôt sur le revenu » de l'une ou l'autre des années en cause. De plus, le cabinet d'experts-comptables était celui de l'appelant, et il ressort clairement de l'ensemble des témoignages que les documents relatifs à l'impôt sur le revenu de Blair ont été préparés par AGH avec l'approbation de l'appelant.
+[5] L'appelant a également embauché son fils Andrew et l'a payé par chèque une fois le travail exécuté.
+[6] Cela ne s'est jamais produit dans le cas de Blair. Une partie des prétendus paiements reçus par Blair ont été faits sous la forme de biens achetés par l'appelant pour ce dernier au début de 1999, bien avant que le travail soit exécuté ou que le contrat soit conclu. Les autres prétendus paiements avaient trait à des biens que l'appelant a achetés plus tard en 1999 et en 2000. D'autres sommes auraient été payées en argent comptant, sous forme d'allocations, tout au long de chacune des années. Ces sommes totalisaient environ 2 000 $ par semaine, bien qu'elles n'aient pas été versées régulièrement ou par versements égaux. Il s'agit d'une estimation et non du montant exact qui a été payé.
+[7] La preuve indique que ni l'appelant ni Blair n'ont consigné quotidiennement les heures que ce dernier aurait travaillées ou le montant cumulatif des paies auxquelles il avait droit. Par ailleurs, la preuve n'indique pas que les sommes qui lui étaient dues lui ont été payées par chèque. L'appelant a mentionné expressément qu'il avait évoqué la possibilité de déduire le salaire qu'il versait à ses fils Andrew et Blair dans sa déclaration de revenus pour 2000 lors d'une conversation téléphonique avec son cabinet d'experts-comptables juste avant la préparation de sa déclaration de revenus après la fin de l'année civile 2000. L'expert-comptable lui aurait dit qu'ils justifieraient cette déduction ou qu'ils produiraient ultérieurement une déclaration modifiée. Il aurait également dit que Blair n'avait pas à déclarer le revenu provenant de son père.
+[8] Lors de la vérification et de l'audition de l'appel, l'appelant a fourni des montants et des relevés différents de ceux qui avaient été mentionnés ou non au début et différents de la preuve produite devant la Cour, et qui étaient contradictoires au regard du nombre d'heures, du taux horaire total et des montants prétendument payés.
+[9] M. Hudyma a dit à plusieurs reprises qu'une entreprise familiale doit être traitée différemment d'une entreprise ordinaire. Ce n'est pas le cas en matière comptable et fiscale. En fait, il est bien établi en droit que les opérations commerciales entre personnes liées doivent, aux fins fiscales, être conclues avec autant sinon plus de soin que celles entre étrangers.
+[10] En l'espèce :
+1. Blair aurait reçu plus que le taux horaire stipulé dans le contrat et plus que le taux que l'appelant payait aux étrangers exécutant à peu près le même travail;
+2. Blair, qui avait 16 ans en 1999 et 17 ans en 2000, aurait reçu un salaire beaucoup plus élevé que le salaire minimum pour le travail qu'il aurait fait. En 1999, son salaire équivalait à plus de trois fois le salaire minimum. Aucune explication satisfaisante n'a été donnée à ce sujet;
+3. Blair et l'appelant n'ont pas conservé ou produit un relevé du nombre exact d'heures travaillées ou du salaire exact payé pour ces heures, ou des registres ou même des relevés quotidiens signés comme ceux qui seraient tenus par des propriétaires et des travailleurs n'ayant pas entre eux un lien de dépendance lorsque le salaire doit être versé au fil du temps;
+4. les montants mentionnés par l'appelant ont changé au cours de la vérification, ce qui a miné sa crédibilité;
+5. aucun chèque n'a été payé à Blair pour l'un ou l'autre des montants en cause.
+[11] L'appelant n'a pas réussi à réfuter les hypothèses en l'espèce.
+[12] L'appel est rejeté.
+Signé à Saskatoon (Saskatchewan), ce 2e jour de septembre 2004.
+« D. W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 17e jour de février 2005.
+Jacques Deschênes, traducteur

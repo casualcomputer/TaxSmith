@@ -1,0 +1,136 @@
+---
+title: "Xia c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/362079/index.do"
+last_modified: "2018-11-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 CCI 30"
+citation2: ""
+neutral_citation: "2019 CCI 30"
+decision_date: "2018-11-23"
+language: "fr"
+item_id: "362079"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4346
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:41:10.746000+00:00"
+cases_cited_count: 1
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3379ba5c33674ae918d4f75a1a286c84cfbaaf8f96c053cee30d6e8e50b196e2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Xia c. La Reine
+
+- Citation: 2019 CCI 30
+- Decision date: 2018-11-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4346, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Xia c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-11-23
+Référence neutre
+2019 CCI 30
+Numéro de dossier
+2017-3448(IT)I
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2019 CCI 30
+Date : 20190126
+Dossier : 2017-3448(IT)I
+ENTRE :
+CHENG XIA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Transcription révisée des motifs du jugement rendus oralement à l’audience tenue à Vancouver (Colombie-Britannique), le 23 novembre 2018.)
+La juge Campbell
+[1] Je remercie M. Xia et l’avocat de l’intimée d’être revenus devant le tribunal ce matin. Qu’il soit maintenant consigné à la transcription que je rends les présents motifs dans les appels interjetés par M. Xia, que j’ai entendus hier.
+[2] L’appelant, M. Xia, travaillait comme préposé aux machines à sous au Gateway Casino, aussi connu sous le nom de Grand Villa Casino, au cours des deux années d’imposition visées par l’appel, soit 2011 et 2012. Il travaille à ce casino depuis 1999. D’abord embauché comme croupier, il est ensuite devenu préposé aux machines à sous en 2003.
+[3] Avant son emploi au casino, M. Xia a travaillé à temps plein comme conseiller financier et agent d’assurance à la société Clarica (maintenant la Financière Sun Life), de 1996 à 1999. Il a déclaré dans son témoignage qu’il conseillait des clients en matière de fonds communs de placement et de fonds de sécurité, et qu’il vendait des produits d’assurance vie et maladie. En contre-interrogatoire, il a déclaré connaître les conséquences et les avantages fiscaux liés à ces produits, ainsi que la distinction, entre autres, entre les effets de l’impôt sur les produits d’assurance vie et les effets de l’impôt sur les fonds communs de placement. Après avoir obtenu son emploi au casino, il a continué de travailler comme conseiller financier et agent d’assurance à temps partiel jusqu’en 2008.
+[4] Avant de venir au Canada en 1996, il avait étudié à l’Université Emory, où il a obtenu une maîtrise en santé publique. Il est également titulaire d’un baccalauréat en médecine, obtenu en Chine.
+[5] M. Xia a déclaré que ses tâches de préposé aux machines à sous consistent notamment à entretenir les machines, à communiquer avec les caissiers responsables pour aider un client à réclamer ses gains, à montrer aux gens comment utiliser les machines au besoin et, de façon générale, à maintenir une attitude amicale et positive dans ses interactions avec les clients du casino.
+[6] Le casino a versé à M. Xia un salaire de 27 011 $ en 2011 et de 29 327 $ en 2012. Ce sont les montants qu’il a déclarés comme revenu dans ses déclarations pour les années d’imposition visées. Toutefois, le ministre du Revenu national (le « ministre ») a établi une nouvelle cotisation afin d’ajouter des revenus tirés de pourboires non déclarés de 23 937 $ et 39 219 $ pour ces années d’imposition, conformément au paragraphe 5(1) de la Loi de l’impôt sur le revenu (la « Loi »), présumant que ces montants lui avaient été versés par les clients dans le cadre de son emploi comme préposé au casino.
+[7] Les clients qui gagnent une cagnotte importante en remettent parfois une partie à un préposé aux machines à sous, comme M. Xia. Ces montants sont mis en commun, puis répartis plus tard entre les préposés par un [traduction] « comité des pourboires des clients des machines à sous » (le « Comité ») en fonction de certains critères, comme le nombre d’heures travaillées au cours d’une période. Deux bénévoles recueillaient et consignaient ces montants de même que les montants à remettre à chacun des 30 à 40 préposés du casino. Il est arrivé à M. Xia d’agir à titre de bénévole.
+[8] En contre-interrogatoire, l’avocat de l’intimée a présenté la pièce R‑1, soit une série de feuilles de calcul de pourboires pour les deux années d’imposition visées par l’appel. M. Xia a témoigné qu’il n’avait aucune raison ni aucune preuve pour contester l’exactitude des montants inscrits dans ces feuilles de calcul; il a déclaré que les montants étaient [traduction] « probablement exacts ». L’avocat de l’intimée a montré à M. Xia les montants des pourboires consignés pour les semaines d’octobre 2012, qui variaient entre 977 $ et 798 $ par semaine. M. Xia n’a pas contesté les calculs relatifs aux montants d’octobre, ni les montants figurant dans les feuilles de calcul pour d’autres périodes.
+[9] M. Xia a préparé et produit lui-même ses déclarations pour les années d’imposition en question à l’aide d’un logiciel. Il a omis d’inclure les pourboires dans ses revenus pour chacune de ces années, car selon lui, ces montants provenaient d’une source ou d’une catégorie appartenant aux gains de casino réalisés par les clients, lesquels étaient libres d’impôt en vertu de la loi. Il a conclu qu’il serait inexact de reclassifier les montants qu’il a reçus à titre de préposé aux machines à sous pour les ajouter à ses revenus dans ses déclarations. En gros, il affirme que ces montants continuent de faire partie de la source, c’est-à-dire des gains de casino, qui sont des revenus de jeu non imposables et qui, par conséquent, ne sont pas tirés de son emploi.
+[10] Les questions en litige dans les présents appels comportent donc deux volets : (1) M. Xia doit-il inclure ces montants dans son revenu pour les années d’imposition 2011 et 2012 au motif qu’il s’agirait de montants imposables, et (2) le ministre avait-il raison d’imposer des pénalités pour faute lourde au titre du paragraphe 163(2) de la Loi?
+[11] En ce qui concerne les montants des pourboires que le ministre a établis, M. Xia n’a pas contesté en contre-interrogatoire les montants figurant dans les feuilles de calcul à la pièce R-1. Il a produit huit reçus pour des montants payés en 2012 totalisant 1 332 $ versés sur 12 mois, soit un paiement mensuel moyen de 166,50 $, et a déclaré que ces montants représentaient 10 % de ses pourboires en 2012. Toutefois, aucun autre document n’indique que les montants figurant dans les feuilles de calcul ou les montants des pourboires que le ministre a ajoutés au revenu de l’appelant sont inexacts, et M. Xia a déclaré à plusieurs reprises qu’il n’avait aucune raison ni aucune preuve à l’appui de montants différents plus précis que ceux figurant dans les feuilles de calcul à la pièce R-1.
+[12] Ainsi, ces montants sont-ils imposables ou non? Le paragraphe 5(1) de la Loi définit quels types de revenus doivent être inclus dans la déclaration annuelle d’un contribuable. Cette disposition prévoit que le revenu d’un contribuable tiré d’une charge ou d’un emploi est le traitement, le salaire et toute autre rémunération, « y compris les gratifications ».
+[13] De plus, le passage introductif de l’alinéa 6(1)a) dit que « tout autre avantage que reçoit ou dont jouit le contribuable [...] au titre, dans le cadre ou en raison de la charge ou de l’emploi du contribuable » sont à inclure dans le calcul de son revenu pour l’année [non souligné dans l’original]. Le libellé de ces dispositions est simple, mais il est aussi très large quant à ce qui constitue un revenu. Autrement dit, sa portée est très large et elle inclut spécifiquement les gratifications reçues par un contribuable.
+[14] L’argument de l’appelant ne tient tout simplement pas la route, non seulement à la lumière de ces dispositions, mais aussi en ce qui concerne la jurisprudence. Malgré l’argument de l’appelant selon lequel il est possible de trouver une distinction dans une partie des décisions citées au motif que ces dernières traitent des croupiers de casinos plutôt que des préposés aux machines à sous, les faits sont analogues. En effet, ce sont les clients du casino qui paient les montants pour divers services offerts soit par un croupier ou un préposé aux machines à sous lorsque des gains sont réalisés. Le fait que le pourboire soit confié à un comité et mis en commun avec les autres montants versés aux préposés avant d’en faire la répartition ne change pas la nature du paiement. Il s’agit toujours d’un pourboire reçu pour les services fournis par le préposé aux machines à l’occasion de son emploi. Bien que M. Xia ait laissé entendre qu’il n’a jamais vraiment fourni de services aux clients comme le ferait un croupier, les faits donnent à penser le contraire. Il a assuré l’entretien des machines à sous, il a aidé les clients à les utiliser, il a aidé les gagnants à recueillir leurs gains et il a fourni ces services de façon amicale et obligeante. Ces services sont rendus dans le cadre de son emploi, et les pourboires sont versés en raison de cet emploi au casino. Pour le client du casino qui gagne une grosse cagnotte, ses gains ne seront pas imposables. Toutefois, lorsqu’une partie de ces gains est versée à un employé d’un casino en guise de remerciement ou de reconnaissance des services offerts au client, la nature de ce montant passe de non imposable à imposable une fois le pourboire remis à l’employé. C’est à peu près la même chose dans le cas d’un serveur dans un restaurant. Si le client d’un casino remet un pourboire à un serveur à partir des gains qu’il réalise, alors ce montant devient un pourboire imposable une fois remis au serveur.
+[15] L’argument de l’appelant selon lequel un montant versé en pourboire équivaut à faire un don en tout ou en partie d’un paiement du produit d’une assurance vie à un ami ou à un membre de la famille est tout simplement inexact et sans fondement. Il ne s’agit pas d’un cadeau. Le montant est une gratification ou un pourboire offert pour les services rendus par un préposé aux machines à sous du casino.
+[16] L’avocat de l’intimée m’a demandé de me reporter à l’arrêt de de la Cour d’appel fédérale La Reine c. Cranswick, [1982] 1 C.F. 813 (C.A.F.) qui a par la suite été cité et confirmé par l’arrêt Bellingham c. Canada, [1996] 1 CF 613 de la Cour d’appel fédérale. À la page 6075 de l’arrêt Cranswick, la Cour a accepté les critères relevés par le tribunal de première instance dans la caractérisation des paiements lors du calcul du revenu :
+[traduction]
+a) L’intimé ne possédait aucun droit d’action à l’égard de ce paiement;
+b) L’intimé n’a fait aucun effort soutenu pour obtenir ce paiement;
+c) L’intimé n’a ni recherché ni sollicité ce paiement de quelque façon que ce soit;
+d) L’intimé ne s’attendait pas à recevoir ce paiement ni expressément, ni selon l’usage;
+e) Il n’a nullement été prévu que ce paiement aurait une suite;
+f) Ce paiement ne venait pas d’une source habituelle de revenus pour l’intimé;
+g) Ce paiement ne constituait ni la contrepartie ni la reconnaissance de biens, de services ou de quoi que ce fût, fournis ou à fournir par l’intimé; il n’a pas été gagné par l’intimé par suite de quelque activité ou poursuite de profit, ni de quelque autre manière.
+[17] En appliquant ces critères aux montants que M. Xia a reçus à titre de préposé aux machines à sous, il ressort clairement que les paiements reçus n’étaient pas des gains fortuits, mais bien des gains reçus en raison des services qu’il a fournis dans l’exercice de ses fonctions au Gateway Casino. Bien qu’il n’avait aucun droit exécutoire à l’égard du client qui pouvait choisir librement de laisser ou non un pourboire à un préposé aux machines à sous, l’appelant avait un droit exécutoire de recevoir sa part des pourboires collectifs recueillis par le Comité. Il y avait également un effort concerté pour recueillir ces pourboires, en faire le suivi et pour les répartir équitablement entre les préposés aux machines à sous en fonction de certains critères. Bien que le montant du pourboire était conditionnel au fait que le client gagne une cagnotte importante et décide ensuite de remettre un pourboire, la preuve indique que les préposés pouvaient normalement s’attendre à recevoir des pourboires et que ces montants constituaient une grande partie de leur revenu annuel. Par conséquent, les préposés pouvaient s’attendre à recevoir des montants récurrents de pourboire remis par l’ensemble des clients gagnants du casino en raison des services offerts à ces derniers par les préposés aux machines à sous.
+[18] L’appelant n’a produit aucun élément de preuve qui aurait permis d’exclure les hypothèses de fait émises par le ministre à cet égard. Les pourboires qu’il a reçus à titre de préposé aux machines à sous seront donc inclus dans son revenu pour chacune des années d’imposition 2011 et 2012.
+[19] J’aborderai maintenant la question de l’imposition de pénalités pour faute lourde de 3 059,38 $ et de 5 351,70 $ pour les années d’imposition 2011 et 2012 respectivement. Il incombe au ministre d’établir les faits à l’appui de l’imposition de pénalités pour faute lourde dans le cadre de ces appels.
+[20] L’avocat de l’intimée m’a demandé de me reporter à la décision DeCosta c. La Reine, 2005 CCI 545, 59 DTC 1436, dans laquelle le juge en chef Bowman à l’époque a énoncé les facteurs à examiner pour décider si la preuve permet d’établir que le contribuable a commis une « faute ordinaire » par opposition à une « faute lourde ». Ces facteurs comprennent l’importance de l’omission relative au revenu déclaré, la possibilité pour le contribuable de découvrir l’erreur, son niveau d’instruction et son intelligence. Selon les circonstances de chaque appel, il faut accorder à chacun des facteurs le poids qu’il convient.
+[21] M. Xia donne l’impression d’être une personne très intelligente et instruite. Il est titulaire de plusieurs diplômes d’établissements d’enseignement reconnus. Il possède une expérience de travail variée, notamment comme conseiller en placements, en fiscalité et en finances à titre d’agent d’assurance et de conseiller en fonds communs de placement. En contre-interrogatoire, il a reconnu que ces paiements pouvaient passer de non imposables à imposables. Il a démontré des connaissances de base concernant les paiements d’assurance vie aux bénéficiaires; il sait par ailleurs que le traitement de ces montants puisse changer ultérieurement. Or, il n’a fait aucun effort pour vérifier s’assurer qu’il pouvait à bon droit exclure les montants reçus de la part du Comité de son revenu. Il ne s’est pas renseigné auprès d’un représentant de l’ARC, d’un comptable ou d’un avocat. Il a simplement opté pour l’interprétation la plus favorable à sa situation. Les pourboires non déclarés avaient une grande importance relativement au revenu déclaré au cours des années d’imposition en cause. Même s’il n’était pas tout à fait convaincu qu’il devait déclarer ces montants dans ses déclarations, compte tenu de ses antécédents et de l’ensemble des faits présentés, il aurait au moins dû être au fait de cette possibilité et faire un effort pour s’assurer que des montants de pourboires aussi élevés fassent l’objet du traitement fiscal approprié. Au lieu de cela, il a affiché une attitude méprisante et indifférente à l’égard de la déclaration de ces pourboires sans tenir compte des conséquences possibles. Un tel comportement va au-delà de l’insouciance ou de la négligence ordinaire : il rejoint en fait la définition de la faute lourde, ce qui justifie l’imposition de ces pénalités.
+[22] Pour ces motifs, les appels visant les années d’imposition 2011 et 2012 sont rejetés, sans dépens.
+Signé à Ottawa, Canada, ce 26e jour de janvier 2019.
+« Diane Campbell »
+Juge Campbell
+RÉFÉRENCE :
+2019 CCI XXX
+Nº DU DOSSIER DE LA COUR :
+2017-3448(IT)I
+INTITULÉ :
+Cheng Xia c. La Reine
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 22 novembre 2018
+MOTIFS DU JUGEMENT :
+L’honorable juge Diane Campbell
+DATE DU JUGEMENT :
+Le 23 novembre 2018
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocats de l’intimée :
+Mes K. Shortreed et S. Fenrich
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

@@ -1,0 +1,212 @@
+Title: Vachon v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28994/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-557-28994-vachon-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-07-25
+
+# Vachon v. The Queen
+
+- Citation: 2008 TCC 557
+- Decision date: 2008-07-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6743, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vachon v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-07-25
+Neutral citation
+2008 TCC 557
+File numbers
+2007-3262(GST)I
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Citation: 2008 TCC 557
+2007-3262(GST)I
+BETWEEN:
+PIERRE-LUC VACHON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REVISED VERSION OF THE TRANSCRIPT
+OF THE REASONS FOR JUDGMENT
+I request that the revised version of the Reasons for Judgment delivered from the bench on July 25, 2008, at Québec, Quebec, be filed. This version was revised for greater clarity and precision.
+Signed at Ottawa, Canada, this 6th day of October 2008.
+"Gaston Jorré"
+Jorré J.
+Translation certified true
+on this 26th day of November 2008.
+Brian McCordick, Translator
+Citation: 2008 TCC 557
+2007-3262(GST)I
+TAX COURT OF CANADA
+IN RE: the Excise Tax Act
+BETWEEN:
+PIERRE-LUC VACHON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT DELIVERED ORALLY
+BY THE HONOURABLE JUSTICE GASTON JORRÉ,
+Tax Court of Canada, at the Courts Administration Service,
+Québec, Quebec, on July 25, 2008
+APPEARANCES:
+Bernard Roy
+For the Appellant
+Danny Galarneau
+For the Respondent
+ALSO PRESENT:
+Elizabeth Healy
+Registrar/Technician
+RIOPEL, GAGNON, LAROSE & ASSOCIÉS
+215 Saint-Jacques Street, Suite 328
+Montréal, Quebec H2Y 1M6
+514-286-5454
+JEAN LAROSE, O.R.
+REASONS FOR JUDGMENT
+(Revised transcript of the reasons delivered orally
+at 2:00 p.m. on July 25, 2008, at Québec, Quebec)
+[1] HIS HONOUR: Good day. I am going to render my judgment in Pierre‑Luc Vachon v. Her Majesty the Queen.
+Issue
+[2] Pierre‑Luc Vachon is appealing from two assessments dated April 13, 2006, both of which were made under section 325 of the Excise Tax Act.
+[3] The first assessment, which concerns transfers the Minister alleges were made by 9079‑4652 Québec Inc. (Transport Marco Vachon) to the Appellant between November 5, 2003, and February 6, 2005, is for $1,787.01.
+[4] The second assessment, which concerns transfers the Minister alleges were made by 9090‑3758 Québec Inc. (Salon de Quilles Le Sommet) to the Appellant between July 24, 2002, and July 26, 2003, is for $4,127.24.
+[5] I will refer to the two companies from now on as "9079" and "9090", respectively.
+[6] The Minister's Reply was filed late, with the result that, under subsection 18.3003(2) of the Tax Court of Canada Act, the allegations of fact contained in the Notice of Appeal are presumed to be true. The Respondent therefore started first.
+[7] The Respondent called two witnesses, Pierre‑Luc Vachon, the Appellant, and Pierre Magnan, a collection officer with Revenu Québec. Mr. Magnan has been working at Revenu Québec for 14 years.
+[8] The Appellant did not call any witnesses.
+[9] Various documents were entered into evidence during the trial. They are numbered A‑1 and I‑1 to I‑11. Near the beginning of the trial, Exhibit I‑1, which contains various documents at tabs 1 to 10, was marked I‑1 for identification only, but all the documents were recognized and entered into evidence during the trial.
+[10] Subsection 325(1) provides in part as follows:
+(i) where at any time a person transfers property
+(ii) to another person with whom the transferor was not dealing at arm's length, the transferee and transferor are jointly and severally liable to pay an amount equal to the lesser of
+(a) first, the amount by which the fair market value of the property exceeds the fair market value of the consideration given for the property, and
+(b) second, the total of the following amounts:
+(1) an amount that the transferor is liable to pay or remit for the reporting period of the transferor that includes that time or any preceding reporting period, and
+(2) interest or penalty for which the transferor is liable as of that time.
+The other parts of the subsection do not apply in the context of this case.
+[11] The Appellant argued that the assessments must be vacated for three main reasons:
+· First, the Respondent has not shown that the Appellant was not dealing with the two numbered companies at arm's length.
+· Second, consideration was given for the transfer.
+· Third, in any case, the Respondent has not shown that, at the time of the transfers, the transferors, that is, the two numbered companies, were liable to pay or remit an amount that was at least equal to the value of the transferred property.
+The transfers
+[12] I will start with the issue of the transfers. Mr. Magnan explained that he had obtained the transaction history for the Appellant's bank account at the Laurentian Bank (Exhibit I‑1, tab 5), the deposit slips for the account (Exhibit I‑1, tab 8) and copies of any cheques deposited (Exhibit I‑1, tabs 6 and 7). He used that information to draw up the table at tab 4 of Exhibit I‑1, which shows the date of each deposit, the amount, who made the deposit, the origin of the deposit and, in the case of cheques, who signed them and to whom they were payable.
+[13] The table includes some deposits that are not relevant to this case. There is a dispute parallel to this one between the Appellant and Revenu Québec over the QST and source deductions for Quebec income tax. The first and third columns of deposits in the table are the ones relevant to this case. The total of the first is $10,825, and the total of the third is $9,775. Those amounts are relevant to the GST, the QST and source deductions. The amounts in the other columns of deposits that do not concern us are relevant to source deductions.
+[14] Since the amounts in the two columns that concern us are relevant to Revenue Canada and Revenu Québec, they were prorated by Mr. Magnan, and the share attributable to the GST was $4,127.24 for 9090 and $1,787.01 for 9079.
+[15] I am satisfied that the amounts in columns 1 and 3 were transferred by one numbered company or the other as indicated and on the date indicated.
+[16] During his testimony, the Appellant confirmed that Germain Vachon is his father and Marco Vachon is his cousin.
+Amounts that 9090 was liable to pay or remit
+[17] I will now look at the issue of the amounts that the transferors were liable to pay or remit, starting with 9090. To establish the amount that 9090 was liable to pay or remit, Mr. Magnan relied on the department's computer system and the notice of assessment dated June 4, 2004 (Exhibit I‑1, tab 2). That assessment is for the period of July 1, 2001, to July 31, 2003, a period of 25 months.
+[18] There is no evidence to indicate 9090's reporting period or the specific periods in which the company allegedly became liable to pay or remit the GST amounts totalling the GST amount contained in the assessment.
+[19] Subsection 325(1) of the Excise Tax Act clearly states that it concerns amounts that the transferor is liable to pay or remit for the reporting period that includes the transfer or any preceding period. This means that a transfer during a period may potentially underlie an assessment based on what the transferor is liable to pay or remit for a reporting period that includes the time of the transfer and ends after the time of the transfer.
+[20] It is always necessary to establish the reporting period and the amount the transferor is liable to pay or remit for that period or any preceding period.
+[21] Without looking at the Act in detail, it may be said briefly that reporting periods may be monthly, quarterly or yearly, depending on the circumstances. They can never be 25‑month periods (see the definition in subsection 123(1) as well as sections 245 et seq. of the Act).
+[22] A single notice of assessment may cover several reporting periods, as here, but to determine the amount the person is liable to pay or remit in such cases, the reporting period and the GST payable for each reporting period included in the assessment should be established. In this case, evidence to this effect was required. In a typical case where a reply is filed on time or, alternatively, where the Court allows the respondent to file the reply out of time, such information should be part of what the Minister has established and should be disclosed to the taxpayer, for example by including it in the findings or assumptions of fact set out in the reply.
+[23] 9090 was assessed on June 4, 2004, in a context in which it had not filed a tax return after July 31, 2001. If I understood the argument correctly, the Respondent tried to convince me that in such circumstances I should interpret "reporting period" as the period covered by the assessment. In spite of the passage I was quoted from a case decided by the Federal Court of Appeal, which the Respondent acknowledged had a different context, I cannot accept this argument. The provisions of the Act are very clear in defining "reporting period". Ultimately, the period must be monthly, quarterly or yearly.
+[24] Accordingly, I must conclude that we do not know the period or periods in which 9090 became liable to pay or remit amounts totalling the GST amount contained in the assessment. Since the shortest reporting period is one month, all I can conclude is that, in the period that includes the transfer of $1,300 on July 25, 2003, which was the last transfer, 9090 was liable to pay or remit $45,845 for that period or any preceding period.
+[25] Conversely, I must conclude that, for all the transfers from 9090 to the Appellant prior to July 25, 2003, it has not been established that 9090 was liable to pay or remit any amount.
+[26] It seems likely to me that the Minister has the information he would need to establish the reporting period and the details of the GST amounts owed for each reporting period, since the Minister must necessarily have relied on certain information or assumptions of fact in making the assessment.
+Amounts that 9079 was liable to pay or remit
+[27] The issue is different for the amounts that 9079 was liable to pay or remit. For the purposes of the assessment, information was obtained from the department's computer system. That information is at page 2 of tab 2 of Exhibit I‑1. The amounts in that table were taken to be the amounts that 9079 was liable to pay or remit. Mr. Magnan could not confirm whether an assessment had been made for the periods shown in the table.
+[28] In argument, the Appellant greatly stressed the fact that, in establishing the amounts the two numbered companies were liable to pay or remit, Mr. Magnan had calculated the transfers at tab 4 and the amounts that the companies were liable to pay or remit at tab 3 and had not done a separate calculation of the amounts that each company was liable to pay or remit at the time of each transfer.
+[29] This is true, but I do not see how it in itself leads to the conclusion that there was no amount owed to justify including a specific transfer in the assessment. The question still remains whether, for the reporting period in which the transfer occurred or any preceding period, the company in question was liable to pay or remit the amounts that justified including the transfer. Assessing this depends on the evidence and not the process used in making the assessment.
+[30] In the case of 9090, we have seen that, apart from the period that included the transfer of July 25, 2003, the evidence adduced does not make it possible to determine whether that company was liable to pay or remit any amounts. In the case of 9079, the situation is very different, except as regards a separate issue which I will raise shortly.
+[31] For each transfer, it must be determined in light of the available evidence whether the transferor was liable to pay or remit an amount. This can be done with 9079. Take, for example, the $995 transferred from 9079 to the Appellant on June 30, 2004. It was the third transfer by 9079, and the three cheques in question total $3,095 (see tab 4). Was 9079 liable to pay or remit amounts equal to or greater than $3,095 for the reporting period that included June 30, 2004, or any preceding reporting period?
+[32] Looking at page 2 of tab 2, it can be seen that June 30, 2004, is during the period ending on July 31, 2004. For that period, 9079's debt is $10,189.91. The debt is even higher if the three preceding periods are added, and it might therefore be concluded that the company was liable to pay or remit an amount equal to or greater than the transfer that occurred on June 30, 2004. The exercise can be done for the other amounts, and I have not been shown that 9079 was not liable to pay or remit any amount for the various transfers in question.
+[33] Relying on case law, particularly Gaucher v. The Queen, a decision by the Federal Court of Appeal on November 16, 2000,[1] the Appellant also argued that he can challenge the underlying assessment of the company. He also referred to case law concerning the Minister's burden of proof and the Minister's duty to inform taxpayers of assumptions and findings of fact.
+[34] Gaucher is a decision relating to section 160 of the Income Tax Act, and since the Appellant did not challenge an underlying assessment, I do not have to decide whether it applies here.
+[35] In the case of 9079, since there was no assessment, Gaucher would not apply anyway, because without an assessment the amount that 9079 is liable to pay or remit is a fact that can be challenged like any other fact.
+[36] As for the burden of proof, the courts have established the circumstances in which the burden is borne by the taxpayer or the Minister. In any event, owing to the circumstances of the Reply, the burden in this case was reversed at the start of the trial.
+[37] The following question was raised: have 9079's reporting periods been established? The first column at page 2 of tab 2 is worded [translation] "CHX period end date", and the dates in that column are three months apart. I conclude that the taxpayer had a quarterly period ending on the dates shown.
+[38] However, in considering all of these issues, I have asked myself the following question: is this table sufficient to find that 9079 was liable to pay or remit the amounts shown?
+[39] I am not talking about the issue of interest or penalties and the dates on which those amounts are calculated.
+[40] I am confining myself to the first column, which represents the GST. All we know is that the amounts shown are in the computer system, but Mr. Magnan could not tell us whether an assessment had been made. He explained that a GST assessment is not always made; often, the amount of net tax in the taxpayer's GST return is entered in the system.
+[41] The fact remains that we have no direct evidence of the origin of those amounts.
+[42] Imagine a situation in which a creditor sues a debtor for an unpaid debt. For example, a bank might sue an individual for non‑payment of the principal and interest on a loan. Would it be enough simply to prove that the computer system shows that there is a debt, and nothing more? I do not think so. I think it would also have to be established that there is a basis for the debt, that is, that a loan was made and funds were advanced.
+[43] The context is different here from a bank making a loan, but it is at least necessary to establish one of two things:
+· either (as with 9090) it is established that an assessment was made and an amount is therefore owed under the Act (and, if necessary, details are provided concerning the periods and amounts) or
+· alternatively, if what is involved is simply the amount of GST reported by the company for the period, this fact is specifically established either through the GST return or through information from the electronic file showing that what was entered in the system is an amount or amounts from the taxpayer's GST return(s). In this second situation, the amount(s) would be presumed valid.
+[44] We do not have such evidence here, and I find that the evidence before me does not show that 9079 was liable to pay or remit the amounts indicated at page 2 of tab 2.
+Was there consideration for the transfer?
+[45] We have in evidence the amounts the two companies deposited in Pierre‑Luc Vachon's account (see the cheques and deposit slips at tabs 6, 7 and 8 of Exhibit I‑1). Most the cheques were signed and deposited by Germain Vachon.
+[46] We also have the lease between the Appellant and his father, Germain Vachon.
+[47] The Appellant argued that the transfers were rent under the lease and that the lessee's use was the consideration for the payments. However, 9090 and 9079 were not lessees and did not use the house in question.
+[48] In the absence of other evidence, a payment made by a company to an individual is evidence of a transfer of property, that is, the amount in question, from the company to the individual. When I raised this point, the Respondent submitted that I had to take account of the fact that paragraph 4(e) of the Notice of Appeal was presumed to be true under subsection 18.3003(2) of the Tax Court of Canada Act. That paragraph reads as follows:
+[translation]
+The Appellant did receive property from 9090‑3758 Québec Inc. and 9079‑4652 Québec Inc. from 2002 to 2005. Those amounts were received in connection with a lease entered into by the Appellant and Germain Vachon on June 20, 2002, as can be seen from the said lease filed as Exhibit R‑4.
+[49] This paragraph as written does not help the Appellant, since it does not allege that, with respect to those payments, the two numbered companies were acting merely as intermediaries that paid the Appellant amounts they owed Germain Vachon.
+[50] I conclude that the property was that of the numbered companies. This might be consistent with instructions from Germain Vachon to make payments to cover his lease obligations, but it does not mean that the funds were not the companies' funds.
+[51] There was therefore no consideration. The parties emphasized other evidence concerning the issue of whether the payments were related to the lease, but since no payments were made by Germain Vachon or for Germain Vachon out of amounts the companies owed him, I do not have to consider those other points.
+Is there a non‑arm's length relationship?
+[52] Germain Vachon is the Appellant's father and, in light of section 126 of the Excise Tax Act and section 251 of the Income Tax Act, there are two issues that arise in determining whether a non-arm's length relationship exists.
+[53] First, at the time of the transfers, did Germain Vachon control the numbered company that made the payment or, alternatively, as a question of fact, were the numbered companies and the Appellant not dealing with each other at arm's length at the time of the transfers?
+9090
+[54] First, I will summarize Exhibits I‑10 and I‑11.
+· In Exhibit I‑10, at page 1, there is a resolution by the shareholders of 9090 dated August 15, 2001. According to the resolution, the shareholders were informed of the share transfers to Germain Vachon approved by the directors that day, and the shareholders ratified those transfers. The document also states that, following Marco Vachon's resignation, Germain Vachon was voted in as director. The resolution is signed by Germain Vachon, who stated that he was the sole shareholder.
+· At page 2 of Exhibit I‑10, there is another resolution by 9090 signed by Germain Vachon stating that he was the sole director. The resolution states that Germain Vachon was voted in as chairman. This resolution is also dated August 15, 2001.
+· At page 3 of Exhibit I‑10, there is a document, again dated August 15, 2001, stating that Germain Vachon accepted the mandate of director.
+· Exhibit I‑11 is a questionnaire signed by Marco Vachon and dated August 12, 2004, with other documents appended to it. In the questionnaire, Marco stated that he had been appointed a director of 9090 on April 25, 2000, and had ceased to be a director on August 15, 2001. One of the appended documents is a letter written to 9090 on August 15, 2001, and signed by Marco Vachon, in which he resigned as director.
+If these were the only documents, it would be obvious that Germain Vachon controlled 9090 given that the relevant period for 9090 is July 25, 2002, to July 25, 2003. The situation becomes more complicated when we look at tab 9 of Exhibit I‑1, which contains other documents taken from the Enterprise Register, which are often contradictory:
+· Tab 9 shows that the company was incorporated on April 28, 2000, by Jacques A. Vachon, its founder.
+· Jacques Vachon signed the initial declaration on May 3, 2000; he stated that he was the director, and he did not refer to any shareholders.
+· This did not change in the annual declaration for 2000 signed by Jacques Vachon on November 9, 2000.
+· An amending declaration signed by Jacques Vachon on May 7, 2001, was filed in May 2001 and stated that Jacques Vachon was withdrawing as director and being replaced by Marco Vachon. Marco Vachon was listed as the sole shareholder.
+· This did not change in the annual declaration for 2001 signed by Marco Vachon on February 18, 2003, and filed on February 20, 2003.
+· The annual declaration for 2002 was filed on February 20, 2002, and signed by Marco Vachon on February 18, 2002. There were no changes, and I note that the dates were the same as in the annual declaration for 2001.
+· An amending declaration was received by the corporate service, Québec division, on May 23, 2003, and filed in the Enterprise Register on August 8, 2003. That declaration was signed by Germain Vachon on May 23, but the year of the signature is not very legible and could be 2000, 2002 or 2003. According to that declaration, Germain Vachon replaced Marco Vachon as director and was the sole shareholder.
+· An annual declaration for 2003 was filed on February 13, 2004, and signed by Germain Vachon on a date that is not legible. There were no changes.
+· Another amending declaration was filed on a date that is not legible (see the stamp marks on the bottom right, seal on the first page) and entered in the Enterprise Register on October 17, 2003. It was signed by Marco Vachon on September 26, 2003. That declaration stated that Germain Vachon was withdrawing as director and being replaced by Marco Vachon, who became the sole shareholder again.
+[55] It is impossible to reconcile all these declarations and Exhibits I‑10 and I‑11. The Appellant argued that it is necessary to establish the non‑arm's length relationship each time a transfer occurred. I agree.
+[56] In light of my findings on the amounts that 9090 was liable to pay or remit, the only time when there was a transfer and it has been established that 9090 was liable was July 25, 2003. On that date, all of the documentation is consistent, whether it is at tab 9 of Exhibit I‑1 or in Exhibit I‑10 or I‑11. There is no doubt that Germain Vachon was the shareholder on that date.
+[57] As for the other periods, certain things stand out when one looks at all of the evidence. The father, Germain Vachon, signed all the cheques and controlled 9090 during at least part of the time in question. The relationship between the father and Marco Vachon, a cousin, was such that, for reasons unknown to us, one or the other of them signed a series of documents that cannot be reconciled in terms of determining the dates on which each of them was a shareholder and director.
+[58] Finally, and very importantly, during the relevant period of a year and a half, the company paid the Appellant $10,825 without consideration. Apart from the issue of whether Germain Vachon controlled 9090 based on the rules found in the Income Tax Act, I have no difficulty concluding from all this evidence that 9090 and the Appellant had a de facto non‑arm's length relationship during the period of July 25, 2002, to July 25, 2003. Their conduct was not that of persons who were dealing with each other at arm's length.
+9079
+[59] In the case of 9079, the period in question is November 6, 2003, to February 25, 2005. There are 10 payments by cheque, and Marco Vachon signed the first one on November 6, 2003. All the other cheques were signed by Germain Vachon between May 31, 2004, and February 25, 2005.
+[60] The documents (at tab 10 of Exhibit I‑1) from the Enterprise Register are in evidence. All the problems that exist with the documents for 9090 do not exist in the case of 9079.
+[61] I will not summarize all the documents except to note that, after the founder transferred the company to Marco Vachon, Marco Vachon remained the sole director and shareholder at all times until the amending declaration filed in September 2004 and signed by Germain Vachon on 02‑02‑04, that is, February 2, 2004, or February 4, 2002. I note that the form indicates that the date must be written as year, month, day, but I am not drawing any conclusion from that. According to the amending declaration, Germain Vachon replaced Marco Vachon as the sole director and shareholder. However, one thing is rather difficult to understand. The annual declaration for 2003 that was filed on February 13, 2004, according to the stamp on the first page, was signed by Marco Vachon on February 13, 2004, after Germain Vachon signed the amending declaration. That annual declaration for 2003 stated that Marco Vachon was the sole director and shareholder.
+[62] Since Germain Vachon signed the amending declaration no later than February 2, 2004, there can be no doubt that he controlled 9079 at the time of all the transfers except the first one. Moreover, as in the case of 9090, if I consider all the evidence, including the fact that 9079 did not receive any consideration for the payments, I am satisfied that persons dealing with each other at arm's length would not conduct themselves in this way. A company would not transfer money to someone without consideration. There is therefore a non‑arm's length relationship.
+Conclusion
+[63] To summarize my conclusions:
+1. I am satisfied that the transfers by the two companies in question occurred on the dates in question;
+2. I conclude that there was no consideration and that the fair market value of the transfers is therefore equal to the amount of the payments;
+3. the companies and the Appellant were not dealing with each other at arm's length at the time of the various transfers.
+[64] However, on the issue of the amounts that the numbered companies were liable to pay or remit at the time of each transfer, in the case of 9079, the evidence adduced did not establish that 9079 was liable to pay or remit amounts of GST at the time of the various transfers.
+[65] In the case of 9090, the evidence adduced showed that, when $1,300 was transferred on July 25, 2003, 9090 was liable, for the period or any preceding period, to pay or remit a much higher amount, about $45,000, but the same evidence did not establish that the company was liable to pay or remit amounts at the time of the other transfers made by it.
+[66] Accordingly, the appeals are allowed and
+· assessment PQ‑2006‑8800 dated April 13, 2006, which concerns the transfers by 9079, is vacated,
+· in the case of assessment PQ‑2006‑8796 dated April 13, 2006, the entire matter will be referred back to the Minister for reconsideration and reassessment in accordance with these Reasons,
+with costs in accordance with the tariff in section 10 of the Tax Court of Canada Rules (GST). Thank you.
+CITATION: 2008 TCC 557
+COURT FILE NO.: 2007-3262(GST)I
+STYLE OF CAUSE: PIERRE-LUC VACHON v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Québec, Quebec
+DATES OF HEARING: July 21 and 22, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Gaston Jorré
+DATE OF ORAL JUDGMENT: July 25, 2008
+DATE OF REVISED REASONS
+FOR JUDGMENT: October 6, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Bernard Roy
+Counsel for the Respondent:
+Danny Galarneau
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Bernard Roy
+Firm: Québec, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Docket A-275-00.

@@ -1,0 +1,293 @@
+Title: Yorkwest Plumbing Supply Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/488149/index.do
+Corpus path: corpus/cases/tcc/2020/2020-cci-122-488149-yorkwest-plumbing-supply-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2020-11-04
+
+# Yorkwest Plumbing Supply Inc. c. La Reine
+
+- Citation: 2020 CCI 122
+- Decision date: 2020-11-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4641, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Yorkwest Plumbing Supply Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2020-11-04
+Référence neutre
+2020 CCI 122
+Numéro de dossier
+2016-2816(IT)G
+Juges et Officiers taxateurs
+David E. Spiro
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-2816(IT)G
+ENTRE :
+YORKWEST PLUMBING SUPPLY INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Audience tenue les 19 et 20 avril 2018 et les 28 et 29 janvier 2019, à Toronto (Ontario), par l'honorable juge Brent Paris, les dernières plaidoiries ayant été entendues le 31 août 2020, par l'honorable juge David E. Spiro
+Décision rendue par : L'honorable juge David E. Spiro
+Comparutions :
+Avocats de l'appelante :
+Me Duane R. Milot et
+Me Anna Malazhavaya (les 19 et 20 avril 2018 et les 28 et 29 janvier 2019)
+Me Duane R. Milot et Me Kris Gurprasad (le 31 août 2020)
+Avocates de l'intimée :
+Me Rita Araujo et Me Naomi Goldstein
+(les 19 et 20 avril 2018)
+Me Isida Ranxi et Me Diana Aird
+(les 28 et 29 janvier 2019)
+Me Rita Araujo et Me Isida Ranxi
+(le 31 août 2020)
+JUGEMENT
+L'appel interjeté à l'encontre de la nouvelle cotisation établie en application de la Loi de l'impôt sur le revenu pour l'année d'imposition 2012 est rejeté avec dépens.
+Si les parties sont incapables de s'entendre sur les dépens, les avocats peuvent fournir à la Cour des observations écrites d'au plus dix pages le 18 décembre 2020 au plus tard.
+Signé à Ottawa, Canada, ce 4e jour de novembre 2020.
+« David E. Spiro »
+Le juge Spiro
+Référence : 2020 CCI 122
+Date : 20201104
+Dossier : 2016-2816(IT)G
+ENTRE :
+YORKWEST PLUMBING SUPPLY INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Spiro
+I. Aperçu
+[1] L'appelante est une société privée sous contrôle canadien qui fournit du matériel de plomberie à des entrepreneurs de la région du Grand Toronto. Elle comptait une soixantaine d'employés et avait un chiffre d'affaires annuel de près de 60 millions de dollars pendant la période en question. L'appelante est l'un des chefs de file dans son domaine et joue un rôle important dans la construction d'immeubles de grande hauteur et de faible hauteur dans la région du Grand Toronto. Ainsi, elle tient de grandes quantités de stocks qu'elle vend dans le cours normal de ses activités.
+[2] La seule année en cause est l'année d'imposition 2012 de l'appelante (du 1er mars 2011 au 29 février 2012). Toutefois, l'année d'imposition 2010 (du 1er mars 2009 au 28 février 2010) et l'année d'imposition 2011 (du 1er mars 2010 au 28 février 2011) de l'appelante sont également pertinentes.
+[3] Dans le présent appel, il s'agit de savoir si la Loi de l'impôt sur le revenu (la Loi) autorise l'appelante :
+a) soit à réduire la valeur des stocks (appelés « biens figurant à l'inventaire » dans la Loi) au cours d'une année d'imposition postérieure à celle de la vente des biens;
+b) soit à déduire le coût des stocks au cours d'une année d'imposition postérieure à celle de la vente des biens.
+[4] Pour les motifs qui suivent, je conclus que la Loi n'autorise pas l'appelante à faire l'une ou l'autre de ces choses. L'appel est donc rejeté.
+II. L'audience
+[5] L'audience s'est déroulée devant le juge Paris pendant deux jours en 2018 et deux jours en 2019. Au cours des deux premiers jours de l'audience, les avocats de l'appelante ont appelé à témoigner le président de l'appelante, M. Carlo Perfetto, son contrôleur, M. Pasqualino Montanaro, et sa comptable externe, Mme Karen Jacobson.
+[6] Le troisième jour de l'audience, les avocats de l'appelante ont fait témoigner un expert en comptabilité, Mme Evguenia Khabas, au sujet des principes comptables généralement reconnus (« PCGR »). Les avocates de l'intimée n'ont convoqué aucun témoin. Le quatrième jour de l'audience, le 29 janvier 2019, le juge Paris a entendu les plaidoiries de chaque partie et a mis le jugement en délibéré[1].
+[7] Le juge Paris a démissionné de la Cour à compter du 3 avril 2019. Le juge Paris n'ayant pas rendu son jugement dans les huit semaines suivant sa démission, l'appelante a eu le choix de demander un nouveau procès devant un autre juge ou de demander qu'un autre juge tranche son appel sur dossier[2].
+[8] L'appelante a fait ce deuxième choix. Les parties se sont mises d'accord sur le contenu du dossier qu'examinerait l'autre juge. Le juge en chef m'a nommé pour rendre un jugement au vu du dossier convenu par les parties[3].
+[9] Après avoir examiné ce dossier, j'avais un certain nombre de questions et de préoccupations, et j'ai demandé aux avocats de présenter des observations orales. Les avocats ont eu l'occasion de répondre à ces questions et préoccupations le 31 août 2020, lors de la présentation des plaidoiries finales. J'ai tranché l'appel après avoir examiné le dossier convenu et entendu les plaidoiries finales des avocats de chaque partie.
+III. Exposé des faits
+[10] Jusqu'au 1er mars 2009, l'appelante a utilisé le système périodique de suivi des stocks. Elle a décidé de passer au système perpétuel plus moderne de suivi des stocks à compter du 1er mars 2009. Son année d'imposition 2010 commençait à cette date.
+[11] Selon le système périodique, on dénombre les stocks manuellement à intervalles réguliers, généralement à la fin de l'exercice. Le système périodique prend en compte le coût des biens vendus dans l'année au moyen d'un dénombrement manuel des stocks à la fin de l'exercice. Cette procédure est longue et exigeante en main‑d'œuvre et semble avoir été presque entièrement remplacée à l'époque moderne par le système de suivi perpétuel des stocks.
+[12] Le système perpétuel prend en compte le coût des biens vendus dans l'année au fur et à mesure que ces biens sont vendus. Il permet à une entreprise de savoir exactement comment elle se porte en temps réel, car il suit quotidiennement l'achat et la vente de chaque bien en stock, ainsi que les coûts et les revenus correspondants. Il présente des avantages évidents par rapport à un système périodique de contrôle des stocks et de gestion globale de l'entreprise.
+A. La transition du système périodique de suivi des stocks vers le système perpétuel [13] Pour passer d'un système périodique de suivi des stocks à un système perpétuel, l'appelante a dû acheter un nouveau système informatique. La mise en place du nouveau système a grandement perturbé l'appelante et a exigé beaucoup de temps et d'attention de la part de la direction pendant un certain temps après le 1er mars 2009. Plusieurs problèmes se sont présentés au cours de la transition. L'un de ces problèmes donne lieu au présent appel.
+[14] Immédiatement avant le 1er mars 2009, l'appelante a acheté pour 1 294 623 $ de stocks d'un certain nombre de ses fournisseurs. Ces biens comprenaient une grande variété de produits en quantités importantes. Le nouveau système n'avait pas créé les bons de commande pour ces biens, car ils ont été créés avant le 1er mars 2009. Le problème était qu'on ne pouvait payer les factures pour ces biens en utilisant le nouveau système, car le nouveau système n'avait pas créé les bons de commande. Après avoir reçu les factures, dont beaucoup visaient plusieurs articles, l'appelante devait payer ses fournisseurs pour les stocks, ce que le nouveau système ne lui permettait pas de faire. Elle avait besoin d'une solution qui lui permettrait de payer ses fournisseurs le plus rapidement possible.
+B. La création du compte orphelin [15] La solution adoptée par l'appelante au début du mois de mars 2009 a été d'utiliser à nouveau un numéro de compte pour les « comptes créditeurs » de l'ancien système pour créer un compte à partir duquel ces factures pouvaient être payées. Le seul but de ce compte était de permettre à l'appelante de payer aux fournisseurs 1 294 623 $ pour les stocks acquis immédiatement avant le 1er mars 2009. En ce sens, il s'agissait d'un compte « orphelin », car il n'a jamais été intégré au nouveau système et n'a jamais été désigné comme compte de stocks.
+[16] La direction pensait que ce compte spécial serait temporaire et qu'on devrait l'examiner à nouveau après qu'il aura rempli sa fonction. Malheureusement, la direction et le personnel étaient préoccupés par l'apprentissage du nouveau système et par d'autres problèmes liés à la transition. C'est pour ces raisons que la direction ne s'est occupée de nouveau du compte orphelin qu'à l'été 2012.
+[17] Entre‑temps, le maintien du compte orphelin a eu un effet imprévu en ce qui concerne les biens de 1 294 623 $ acquis immédiatement avant le 1er mars 2009. Les recettes provenant de la vente de ces biens ont été suivies en temps réel par le nouveau système lorsque chacun de ces articles a été vendu. Cependant, le coût de chacun de ces biens n'a pas été suivi en temps réel — voire pas du tout — par le nouveau système et, plus important encore, n'a pas été mis en correspondance avec les recettes provenant de la vente de chacun de ces biens au fur et à mesure de leur vente.
+[18] L'effet net a été que le coût de chacun des biens vendus est resté dans le compte orphelin et n'a pas été reconnu par le nouveau système. Comme les renseignements dans les états financiers et les déclarations fiscales de l'appelante pour ses exercices et années d'imposition 2010 et 2011 provenaient exclusivement du nouveau système, les recettes provenant de la vente de ces biens ont été comptabilisées durant les années où ils ont été vendus, mais leur coût n'a pas été pris en compte durant ces années‑là.
+[19] Comme on peut s'y attendre, la plupart des biens acquis immédiatement avant le 1er mars 2009 ont été vendus au cours de l'année d'imposition 2010 de l'appelante (du 1er mars 2009 au 28 février 2010), mais certains ont été vendus au cours de l'année d'imposition 2011 de l'appelante (du 1er mars 2010 au 28 février 2011). Lorsque l'année d'imposition 2012 de l'appelante a commencé, la totalité ou la quasi‑totalité de ces biens avaient été vendus dans le cours normal des activités de l'appelante[4].
+[20] Ce n'est qu'à l'été 2012 que l'appelante s'est rendue compte que le maintien du compte orphelin lui avait fait sous‑estimer le coût des biens vendus pendant ses exercices et années d'imposition 2010 et 2011 et, par conséquent, lui avait fait surestimer son bénéfice brut pour chacune de ces années. L'avocate de l'intimée a reconnu que l'appelante avait probablement payé trop d'impôt pour ses années d'imposition 2010 et 2011 en raison de cette omission.
+C. Le rajustement compensatoire [21] À l'été 2012, lorsque la direction a pris connaissance du maintien du compte orphelin, elle a décidé de compenser en rajustant le solde des comptes pour son exercice 2012. La direction a envoyé le rajustement à la comptable de l'appelante, Mme Jacobson, qui préparait alors les états financiers et la déclaration de revenus de l'appelante pour 2012.
+[22] Ce rajustement compensatoire avait deux effets sur les états financiers pour l'exercice 2012. L'un des effets était la réduction de la valeur d'un élément d'actif (c.‑à‑d. les stocks) de 1 294 623 $, tandis que l'autre était l'ajout de 1 294 623 $ au coût des achats effectués par l'appelante en 2012[5].
+[23] M. Perfetto a résumé succinctement la solution adoptée par l'appelante à la suggestion de M. Montanaro et de Mme Jacobson :
+[TRADUCTION]
+Nous n'avons jamais demandé ces déductions. Nous devons demander les déductions. Donc comment demander la déduction? Vous l'ajoutez à l'exercice, n'est‑ce pas? Nous faisons l'exercice 2012, donc nous avons demandé la déduction[6].
+[24] La direction a examiné la possibilité d'apporter les rajustements aux états financiers pour ses exercices 2010 et 2011, mais a conclu qu'il faudrait plus de temps qu'il n'en valait la peine pour trouver l'année au cours de laquelle chacun des biens avait été vendu. Il n'y avait pas de moyen facile de faire correspondre les biens acquis immédiatement avant le 1er mars 2009 avec les factures de vente correspondantes. La direction n'a jamais tenté de le faire, car elle pensait que cela l'aurait empêché de consacrer du temps et de l'énergie à des questions plus importantes[7].
+[25] Après la découverte du compte orphelin à l'été 2012, il était encore temps de produire une déclaration modifiée pour l'année d'imposition 2010 de l'appelante, mais la direction a décidé de ne pas le faire. Au moment où commençait la vérification du ministre de l'année d'imposition 2012, l'année d'imposition 2010 de l'appelante était frappée de prescription[8].
+D. Les états financiers et la déclaration de revenus de 2012 [26] L'appelante a préparé ses états financiers et sa déclaration de revenus pour 2012 en supposant qu'on pouvait corriger la sous‑estimation involontaire du coût des biens vendus au cours de ses exercices et années d'imposition 2010 et 2011 par une surestimation intentionnelle du coût des achats effectués au cours de son exercice et année d'imposition 2012. Ce rajustement compensatoire a entraîné une augmentation correspondante du coût des biens vendus au cours de l'exercice et de l'année d'imposition 2012 de l'appelante et une diminution correspondante du bénéfice brut de l'appelante pour cette année. Un bref examen des états financiers et de la déclaration de revenus de l'appelante pour cette année démontre la nature et l'effet de cet aspect du rajustement compensatoire.
+1) Les états financiers [27] L'appelante a calculé un bénéfice brut de 9 820 263 $ dans son état des résultats pour l'exercice 2012[9] :
+[EN BLANC]
+2012
+2011
+Ventes
+60 121 098 $
+54 583 702 $
+Coût des biens vendus
+[EN BLANC]
+[EN BLANC]
+Stocks, au début de l'exercice
+3 935 760 $
+4 091 330 $
+Achats
+52 551 139 $
+43 839 469 $
+[EN BLANC]
+56 486 899 $
+47 930 799 $
+Moins les stocks à la fin de l'exercice
+6 186 064 $
+3 935 760 $
+[EN BLANC]
+50 300 835 $
+43 995 039 $
+Bénéfice brut
+9 820 263 $
+10 588 663 $
+[28] On a affirmé que le coût des achats effectués au cours de l'exercice 2012 de l'appelante était de 52 551 139 $. Toutefois, cette somme comprend le coût des biens qu'elle a acquis immédiatement avant le 1er mars 2009, soit 1 294 623 $. Il en résulte que le bénéfice brut de 9 820 263 $ de l'appelante a été sous‑estimé de 1 294 623 $ dans ses états financiers pour l'exercice 2012.
+2) La déclaration de revenus [29] La même sous‑estimation du bénéfice brut apparaît dans la déclaration de revenus de l'appelante pour son année d'imposition 2012[10]. À l'annexe 125 de la déclaration de l'appelante, on indique que le coût des achats effectués au cours de son année d'imposition 2012 était de 50 967 418 $[11]. Toutefois, cette somme comprend le coût des biens qu'elle a acquis immédiatement avant le 1er mars 2009, soit 1 294 623 $. Il en résulte que le bénéfice brut de 9 820 263 $ de l'appelante était sous‑estimé de 1 294 623 $ dans sa déclaration de revenus pour l'année d'imposition 2012, ce qui entraîne une sous‑déclaration de son revenu imposable pour cette année d'imposition de 1 294 623 $.
+E. La vérification et la nouvelle cotisation [30] Au cours d'une vérification effectuée par le ministre du Revenu national (le ministre), le vérificateur a noté à juste titre [TRADUCTION] « qu'à la fin de l'exercice 2012, le coût des biens a été augmenté par des écritures de journal, augmentant le coût des biens vendus par des factures d'achat de 2009 de 1 294 622,93 $ »[12].
+[31] Le 1er avril 2015, le ministre a établi une nouvelle cotisation afin d'augmenter le revenu net de l'appelante pour son année d'imposition 2012 de 1 294 623 $, augmentant ainsi son revenu imposable du même montant. Il s'agit de la nouvelle cotisation visée par l'appel.
+IV. Le témoin expert de l'appelante
+[32] L'appelante a fait témoigner une comptable professionnelle agréée, Mme Khabas, pour qu'elle donne son avis sur la question de savoir si le rajustement compensatoire effectué par l'appelante dans ses états financiers pour son exercice 2012 était conforme aux PCGR. Mme Khabas a estimé que le rajustement compensatoire était conforme aux PCGR pour l'exercice 2012 de l'appelante.
+[33] Mme Khabas a expliqué que lorsqu'on découvre une erreur significative portant sur des périodes antérieures, les PCGR exigent qu'on rajuste la période antérieure touchée par l'erreur[13]. Dans ce cas, il s'agirait des exercices 2010 et 2011 de l'appelante. Elle a toutefois témoigné que les PCGR font une exception lorsque les rajustements rétrospectifs seraient difficilement réalisables[14]. Dans de tels cas, a‑t‑elle déclaré, il est acceptable que le rajustement comptable soit effectué pour l'exercice au cours duquel on a découvert l'erreur significative.
+[34] Mme Khabas a ajouté que la réduction de la valeur des stocks de l'appelante de 1 294 623 $ pour son exercice 2012 était conforme aux PCGR parce que les stocks acquis immédiatement avant le 1er mars 2009 [TRADUCTION] « n'existaient pas physiquement lors de la fin de l'exercice terminé le 29 février 2012 et que, par conséquent, sa valeur de réalisation nette était nulle »[15].
+[35] Bien qu'on ait demandé à Mme Khabas de rendre un avis professionnel sur la question de savoir si certaines déductions demandées par l'appelante pour son exercice 2012 étaient conformes aux PCGR et aux principes commerciaux bien acceptés[16], elle a conclu son rapport en affirmant que le rajustement compensatoire [TRADUCTION] « donnerait une image fidèle des bénéfices réels pour l'année 2012 », pour deux raisons :
+a) le rajustement compensatoire était conforme aux PCGR;
+b) les utilisateurs des états financiers (les actionnaires de l'appelante) avaient connaissance du rajustement compensatoire[17].
+[36] Mme Khabas n'avait pas été qualifiée d'experte en ce qui concerne la présentation fidèle du bénéfice.
+V. Les thèses des parties
+A. Observations de l'appelante [37] L'avocat de l'appelante a soutenu que, au vu des éléments de preuve, il aurait été non seulement difficile, mais impossible pour la direction de déterminer à quel moment les biens achetés immédiatement avant le 1er mars 2009 ont été vendus. Il s'est fondé sur l'avis de Mme Khabas selon lequel, en cas d'impossibilité pratique, les PCGR permettent de procéder à des rajustements comptables au cours de l'exercice pendant lequel on a découvert l'erreur significative plutôt que la période antérieure au cours de laquelle l'erreur s'est produite.
+[38] En se fondant sur l'avis de Mme Khabas, l'avocat a fait valoir que les PCGR permettent de procéder à la réduction de la valeur des stocks pendant l'exercice 2012 de l'appelante puisque la « valeur de réalisation nette » des biens acquis immédiatement avant le 1er mars 2009 avait chuté à zéro à la fin de cet exercice. Même si le paragraphe 10(1) de la Loi interdit la réduction de la valeur, l'avocat a fait valoir que l'appelante a néanmoins droit à la déduction en raison du paragraphe 9(1) de la Loi, en se fondant sur les PCGR.
+[39] L'avocat a également fait valoir que le rajustement effectué par l'appelante donne une « image fidèle » du bénéfice de l'appelante pour son année d'imposition 2012 aux termes du paragraphe 9(1) de la Loi pour les raisons suivantes :
+a) le rajustement compensatoire pour 2012 était conforme aux PCGR puisqu'il était impossible pour l'appelante d'effectuer le rajustement rétrospectivement pour ses années 2010 et 2011;
+b) le bénéfice de l'appelante pour 2012 aurait été inexact si on n'avait pas réduit la valeur des stocks à zéro;
+c) rien dans la Loi, ni aucune « règle de droit », n'empêche les contribuables de réduire la valeur des stocks lorsqu'ils constatent que des biens ne sont plus en leur possession;
+d) le principe de la correspondance n'est pas une « règle de droit » et, par conséquent, on peut comptabiliser le coût des biens en stock pendant d'autres années que celle au cours de laquelle ils sont vendus;
+e) il convient de faire preuve de déférence à l'égard du choix de la méthode de calcul du revenu de l'appelante pour son année d'imposition 2012, car le rajustement compensatoire n'est pas un évitement fiscal, mais simplement la correction d'une erreur.
+[40] À l'appui de son argumentation, l'avocat s'est fondé sur les troisième et quatrième lignes directrices établies par le juge Iacobucci pour la détermination du bénéfice pour une année d'imposition dans l'arrêt Canderel Ltée c. Canada, [1998] 1 R.C.S. 147 :
+(3) Dans la détermination du bénéfice, l'objectif est d'obtenir une image fidèle du bénéfice du contribuable pour l'année visée.
+(4) Dans la détermination du bénéfice, le contribuable est libre d'adopter toute méthode qui n'est pas incompatible avec :
+a) les dispositions de la Loi de l'impôt sur le revenu;
+b) les principes dégagés de la jurisprudence ou les « règles de droit » établis;
+c) les principes commerciaux reconnus[18].
+[41] Plus précisément, l'avocat a fait valoir que la déduction de 1 294 623 $ dans le calcul du revenu pour l'année d'imposition 2012 de l'appelante n'était pas incompatible avec les dispositions de la Loi ni avec les principes dégagés de la jurisprudence[19].
+[42] En dernier lieu, l'avocat a soutenu que l'ajout du coût des biens achetés immédiatement avant le 1er mars 2009 au coût des biens achetés au cours de l'année d'imposition 2012 a donné une [TRADUCTION] « image fidèle du bénéfice » pour l'année d'imposition 2012 de l'appelante, car c'était le seul choix qui s'offrait à elle aux termes des PCGR.
+B. Observations de l'intimée [43] L'avocate de l'intimée a fait valoir que le rajustement compensatoire pour l'exercice 2012 de l'appelante n'était pas conforme aux PCGR. L'un des principes fondamentaux des PCGR est que le coût des stocks n'est comptabilisé en charge que durant la période au cours de laquelle les revenus connexes sont comptabilisés[20].
+[44] L'avocate a fait valoir qu'il n'était nullement impossible pour l'appelante de déterminer quand les biens avaient été vendus. L'appelante était donc liée par l'exigence des PCGR selon laquelle il aurait fallu corriger l'erreur significative au cours des périodes antérieures.
+[45] L'avocate a également fait valoir que l'avis de Mme Khabas devrait être rejeté parce que sa justification pour réduire la valeur des stocks pour l'exercice 2012 n'a aucun sens. Les entreprises ne peuvent pas réduire la valeur des stocks qui sont vendus dans le cours normal de leurs activités et le paragraphe 10(1) de la Loi exige que les stocks soient détenus en vue de la vente avant que leur valeur puisse être déduite.
+[46] L'avocate a ensuite fait valoir que même si le rajustement compensatoire pour l'exercice 2012 est autorisé par les PCGR, il ne donne pas une « image fidèle » du bénéfice de l'appelante pour son année d'imposition 2012. Comme il entraîne une sous‑estimation du bénéfice brut de l'appelante pour l'année d'imposition 2012, le rajustement compensatoire fausse l'image du bénéfice de l'appelante pour cette année.
+VI. Analyse
+A. Les questions en litige [47] Les questions en litige dans le présent appel sont de savoir si la Loi permet à l'appelante :
+a) de réduire la valeur des stocks au cours d'une année d'imposition postérieure à celle de la vente des biens;
+b) de déduire le coût des stocks au cours d'une année d'imposition postérieure à celle de la vente des biens.
+B. Les dispositions légales [48] Les dispositions légales pertinentes sont les paragraphes 9(1) et 10(1) de la Loi :
+9(1) Sous réserve des autres dispositions de la présente partie, le revenu qu'un contribuable tire d'une entreprise ou d'un bien pour une année d'imposition est le bénéfice qu'il en tire pour cette année.
+[...]
+10(1) Pour le calcul du revenu d'un contribuable pour une année d'imposition tiré d'une entreprise [...], les biens figurant à l'inventaire sont évalués à la fin de l'année soit à leur coût d'acquisition pour le contribuable ou, si elle est inférieure, à leur juste valeur marchande à la fin de l'année, soit selon les modalités réglementaires.
+[49] Le terme « inventaire » est défini au paragraphe 248(1) de la Loi :
+Description des biens dont le prix ou la valeur entre dans le calcul du revenu qu'un contribuable tire d'une entreprise pour une année d'imposition [...]
+C. La valeur des stocks peut‑elle être réduite au cours d'une année d'imposition postérieure à celle de la vente des biens? [50] Pour l'examen de cette question, le point de départ est le sens du terme « inventaire » selon la Loi. Le mot « inventaire », tel qu'il est défini au paragraphe 248(1) de la Loi, désigne les biens qu'on peut vendre au cours de l'année, et non les biens vendus au cours d'une année d'imposition antérieure. Comme l'a noté le juge Major au nom de la majorité des juges de la Cour suprême du Canada dans l'arrêt Friesen c. Canada, [1995] 3 R.C.S. 103 :
+[...] À cet égard, la définition du mot « inventaire » donnée dans la [Loi] est conforme au sens ordinaire du terme. Pris dans leur sens normal, les biens figurant dans un inventaire sont des biens qu'une entreprise détient à des fins de vente[21] [...]
+[...] Selon son sens ordinaire, un bien qu'une entreprise conserve pour le mettre en vente constitue un bien figurant dans un inventaire en tout temps avant sa vente[22].
+[Non souligné dans l'original.]
+[51] Si la réduction de la valeur des stocks doit avoir un effet en vertu de la Loi, elle doit être effectuée conformément au paragraphe 10(1). Elle ne peut pas être réalisée au moyen de l'article 9. C'est le cas même si le paragraphe 10(1) produit un résultat incompatible avec les PCGR. Selon les termes du juge Noël (maintenant juge en chef) dans l'arrêt CDSL Canada Limited c. Canada, 2008 CAF 400 :
+[32] Il semble indéniable qu'il y a ici conflit entre l'article 9 qui fait appel aux PCGR et le paragraphe 10(1) qui exige que la valeur des biens en inventaire soit établie au moindre du coût et de la JVM. La question de savoir si le paragraphe 10(1) de la Loi a préséance sur l'article 9 devait donc trouver réponse.
+[33] Selon moi, cette question a déjà été résolue. La Cour suprême dans Friesen a jugé que le paragraphe 10(1) est une disposition impérative qui oblige un contribuable, lors du calcul du revenu tiré d'une entreprise qui comporte un inventaire, à évaluer son inventaire conformément aux termes de l'article [...], soit au moindre de la JVM et du coût. Il s'agit d'une disposition impérative qui écarte l'application générale de l'article 9 quant au calcul du coût des biens en inventaire. Le fait que cette méthode procure un résultat qui n'est pas conforme aux PCGR n'est pas un obstacle[23]. [...]
+[Non souligné dans l'original.]
+[52] Le paragraphe 10(1) de la Loi interdit la réduction de la valeur demandée par l'appelante pour son année d'imposition 2012. Le paragraphe 10(1) n'autorise que la réduction de la valeur des « biens figurant à l'inventaire », c'est‑à‑dire les biens qu'on détient en vue d'une vente future. L'appelante demande une réduction de la valeur des biens qui ont déjà été vendus dans le cours normal de ses activités. Même si les PCGR autorisaient une telle réduction, elle est exclue par le paragraphe 10(1) de la Loi.
+D. Le coût des stocks peut‑il être déduit au cours d'une année d'imposition postérieure à la vente des biens? [53] Lorsqu'il s'agit d'une entreprise commerciale (c.‑à‑d. une entreprise qui vend des stocks), la première étape du calcul du bénéfice pour l'année aux termes du paragraphe 9(1) de la Loi consiste à calculer le bénéfice brut de l'entreprise pour cette année. Le bénéfice brut pour une année d'imposition est le revenu de l'année moins le « coût des biens vendus » dans l'année. La question est donc de savoir comment calculer le « coût des biens vendus » dans l'année.
+[54] Dans la décision Oryx Realty Corporation c. Ministre du Revenu national, [1974] 2 C.F. 44, le juge en chef Jackett de la Cour d'appel fédérale a renvoyé à une entreprise commerciale ordinaire et a décrit la façon de calculer le « coût des biens »[24] pour une année d'imposition :
+[...] l'usage, qui est devenu un principe de droit, veut qu'on calcule le profit d'une année en déduisant du « produit » total des ventes le « coût des ventes », calculé en ajoutant la valeur attribuée aux stocks au début de l'année au coût des acquisitions faites durant cette même année et en en déduisant la valeur attribuée aux stocks à la fin de l'année[25].
+[Non souligné dans l'original.]
+[55] Dans l'arrêt Ministre du Revenu national c. Shofar Investment Corporation, [1980] 1 R.C.S. 350, la Cour suprême du Canada a adopté la formulation du juge en chef Jackett de la règle du calcul du « coût des biens » pour une année d'imposition. Le juge Martland, au nom de la Cour, a fait remarquer ce qui suit :
+Comme le souligne le juge en chef Jackett, l'usage « qui est devenu un principe de droit » dans le calcul du profit d'une entreprise commerciale, veut qu'on déduise du produit total des ventes le coût des ventes, calculé en ajoutant la valeur attribuée aux stocks au début de l'année au coût des acquisitions durant l'année, moins la valeur de l'inventaire à la fin de l'année[26].
+[Non souligné dans l'original.]
+[56] L'appelante ne peut pas ajouter le coût des stocks achetés immédiatement avant le 1er mars 2009 au coût des achats effectués au cours de son année d'imposition 2012, car cela serait incompatible avec le principe établi par la jurisprudence pour le calcul du « coût des biens vendus » pour une année d'imposition :
+Coût des biens vendus = (Valeur des stocks au début de l'année + Coût des stocks acquis au cours de l'année) - Valeur des stocks à la fin de l'année[27]
+[57] Dans l'ouvrage Timing and Income Taxation, Brian J. Arnold résume le fonctionnement de la comptabilité des stocks en application de la Loi. Il utilise l'exemple d'une entreprise qui fabrique ses propres stocks pour illustrer comment et quand le coût des stocks est reconnu pour les besoins de l'impôt[28] :
+[TRADUCTION]
+Les coûts et les dépenses engagés dans la production des biens faisant partie des stocks d'une entreprise ne sont pas comptabilisés, comme le sont les autres dépenses, lorsqu'ils sont payés, payables ou courus; selon les principes de la comptabilité des stocks, ils sont plutôt inclus dans le calcul du coût des stocks et comptabilisés lorsque les biens correspondants sont vendus. Ainsi, si certains biens sont vendus au cours de l'exercice, les coûts de production de ces biens sont déduits du produit des ventes pour obtenir le bénéfice brut des ventes du contribuable pour l'année. Si les biens ne sont pas vendus au cours de l'exercice, les coûts de production ne sont pas déduits cette année‑là, mais sont plutôt inclus dans la valeur des stocks de clôture de l'exercice et reportés comme stocks d'ouverture de l'exercice suivant. Si les biens sont vendus l'exercice suivant, les coûts de production seront déduits cet exercice‑là; sinon, ils seront de nouveau reportés à la fin de l'exercice, et ainsi de suite, jusqu'au moment où les biens seront vendus.
+En l'absence des règles de la comptabilité des stocks, les dépenses et les coûts engagés pour la production de biens en stock seraient vraisemblablement déductibles dans l'exercice où ils deviennent exigibles, ce qui, dans de nombreux cas, précède l'année de la vente. La comptabilité des stocks assure que les dépenses et les coûts engagés pour produire des biens destinés à la vente dans le cours normal des activités sont correctement mis en correspondance avec les recettes provenant de la vente de ces biens[29].
+[Non souligné dans l'original.]
+[58] Le principe de la jurisprudence est que le coût des stocks n'est comptabilisé que dans l'année d'imposition au cours de laquelle les stocks sont vendus. Le coût des stocks n'est pas comptabilisé dans l'année d'imposition au cours de laquelle ils sont acquis (sauf s'ils ont été vendus au cours de cette année) ou dans une année d'imposition postérieure à leur vente. L'appelante ne peut donc pas déduire le coût des stocks acquis immédiatement avant le 1er mars 2009 dans le calcul de son revenu pour l'année d'imposition 2012.
+E. Les lignes directrices de l'arrêt Canderel [59] L'avocat de l'appelante a insisté sur plusieurs des lignes directrices établies par le juge Iacobucci dans l'arrêt Canderel Ltée c. Canada, [1998] 1 R.C.S. 147. C'est pour cette raison que je les présente dans leur intégralité (en omettant toutefois les renvois) :
+53 [...] il pourrait être utile et approprié de résumer les principes que j'ai énoncés précédemment :
+(1) La détermination du bénéfice est une question de droit.
+(2) Le bénéfice tiré d'une entreprise pour une année d'imposition est déterminé en déduisant des revenus tirés de l'entreprise pour l'année en question les dépenses engagées pour gagner ces revenus.
+(3) Dans la détermination du bénéfice, l'objectif est d'obtenir une image fidèle du bénéfice du contribuable pour l'année visée.
+(4) Dans la détermination du bénéfice, le contribuable est libre d'adopter toute méthode qui n'est pas incompatible avec :
+a) les dispositions de la Loi de l'impôt sur le revenu;
+b) les principes dégagés de la jurisprudence ou les « règles de droit » établis;
+c) les principes commerciaux reconnus.
+(5) Les principes commerciaux reconnus, notamment ceux codifiés formellement dans les PCGR, ne sont pas des règles de droit mais des outils d'interprétation. Dans la mesure où ils peuvent influencer le calcul du revenu, ils ne le feront qu'au cas par cas, selon les faits relatifs à la situation financière du contribuable.
+(6) En cas de nouvelle cotisation, une fois que le contribuable a prouvé qu'il a donné une image fidèle de son revenu pour l'année, image qui est compatible avec la Loi, la jurisprudence et les principes commerciaux reconnus, il incombe alors au ministre de prouver que le chiffre fourni ne donne pas une image fidèle ou qu'une autre méthode de calcul fournirait une image plus fidèle[30].
+[Non souligné dans l'original.]
+[60] L'avocat de l'appelante a fondé une grande partie de son argumentation sur la troisième ligne directrice de l'arrêt Canderel, affirmant que le rajustement compensatoire fait par l'appelante pour son année d'imposition 2012 donne une « image fidèle du bénéfice de l'appelante » pour cette année.
+[61] Je ne peux pas être d'accord avec cette affirmation. Quel que soit le sens du mot « fidèle », il ne signifie pas « le seul choix possible aux termes des PCGR ». L'avocat a soutenu que cela était « fidèle » pour le calcul de l'impôt sur le revenu parce que cela était « nécessaire » pour les besoins comptables. Cela n'est pas logique.
+[62] Comme dans l'arrêt Bernick c. La Reine, 2004 CAF 191, l'avocat de l'appelante poursuit en interprétant la quatrième ligne directrice de Canderel comme si l'exactitude n'était pas pertinente. Je partage l'avis de la juge Sharlow, tel qu'il est exprimé dans l'arrêt Bernick, selon lequel « une méthode comptable qui ne peut produire un résultat exact ne peut jamais respecter la norme de Canderel »[31].
+[63] Comme dans l'arrêt Bernick, l'appelante se fonde sur une fausse prémisse[32]. En l'espèce, la fausse prémisse est que les biens achetés immédiatement avant le 1er mars 2009 ont en fait été achetés au cours de l'année d'imposition 2012 de l'appelante. Une fausse prémisse ne peut pas constituer la base d'une image fidèle du revenu pour l'année pour les besoins du paragraphe 9(1) de la Loi.
+[64] Vu ma conclusion concernant les lignes directrices 3, 4(a) et 4(b) de Canderel, il est inutile de traiter l'argument de l'avocat de l'appelante fondé sur la ligne directrice 4(c), à savoir que le rajustement compensatoire n'était pas incompatible avec les PCGR.
+VII. Conclusion
+[65] L'appelante s'est heurtée à une disposition légale (le paragraphe 10(1) de la Loi) ainsi qu'à un principe de la jurisprudence (le calcul du « coût des biens vendus ») qui empêchent le rajustement compensatoire qu'elle demande pour son année d'imposition 2012.
+[66] Je ne suis pas indifférent à la situation de l'appelante. Un compte orphelin qui était censé être une solution temporaire a perdu son utilité et a empêché qu'une partie du coût des biens vendus au cours des années d'imposition 2010 et 2011 de l'appelante ne soit incluse dans le coût des biens vendus pour ces années pour les besoins de l'impôt. Comme l'a déclaré M. Perfetto à la fin de son interrogatoire principal :
+[TRADUCTION]
+Je soutiens que nous n'avons pas été autorisés à demander une déduction parce que nous ne nous y sommes pas pris à temps. Je veux dire, c'est injuste, et c'est pourquoi je suis ici[33].
+[67] Malheureusement pour l'appelante, une sous‑estimation involontaire du coût des biens vendus au cours de ses années d'imposition 2010 et 2011 ne peut pas être corrigée par une surestimation intentionnelle du coût des biens vendus au cours de son année d'imposition 2012. Le coût des stocks est comptabilisé dans l'année d'imposition au cours de laquelle ils sont vendus, et non dans une année antérieure ou dans une année postérieure. En droit fiscal, le temps a de l'importance[34].
+[68] Pour tous ces motifs, l'appel de l'appelante est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 4e jour de novembre 2020.
+« David E. Spiro »
+Le juge Spiro
+RÉFÉRENCE :
+2020 CCI 122
+NO DU DOSSIER DE LA COUR :
+2016-2816(IT)G
+INTITULÉ :
+YORKWEST PLUMBING SUPPLY INC. c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE :
+Toronto (Ontario)
+DATES DE L'AUDIENCE :
+Les 19 et 20 avril 2018, les 28 et 29 janvier 2019, et le 31 août 2020
+MOTIFS DU JUGEMENT :
+L'honorable juge David E. Spiro
+DATE DU JUGEMENT :
+Le 4 novembre 2020
+COMPARUTIONS :
+Avocats de l'appelante :
+Me Duane R. Milot et Me Anna Malazhavaya (les 19 et 20 avril 2018 et les 28 et 29 janvier 2019)
+Me Duane R. Milot et Me Kris Gurprasad (le 31 août 2020)
+Avocates de l'intimée :
+Me Rita Araujo et Me Naomi Goldstein (les 19 et 20 avril 2018)
+Me Isida Ranxi et Me Diana Aird
+(les 28 et 29 janvier 2019)
+Me Rita Araujo et Me Isida Ranxi
+(le 31 août 2020)
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Me Duane R. Milot et Me Kris Gurprasad
+Cabinet :
+Milot Law Toronto (Ontario)
+Pour l'intimée :
+Nathalie G. Drouin Sous-procureure générale du Canada Ottawa, Canada
+[1] Le juge Paris a autorisé l'appelante à déposer et à signifier des observations écrites en réponse aux observations écrites de l'intimée, ce qu'elle a fait le 27 février 2019.
+[2] Le délai maximal prévu à l'article 16 de la Loi sur la Cour canadienne de l'impôt pour qu'un juge de la Cour puisse rendre un jugement après sa démission est de huit semaines.
+[3] Le dossier convenu par les parties est exposé dans l'ordonnance rendue par le juge en chef le 21 février 2020.
+[4] Je conclus qu'il est plus probable qu'improbable que seulement une petite partie, voire aucune, des stocks acquis immédiatement avant le 1er mars 2009 pouvait encore être vendue au début de l'année d'imposition 2012 de l'appelante. M. Perfetto a déclaré que 95 % des biens auraient dû être déjà vendus en 2012 (transcription, page 48, ligne 21, à page 49, ligne 5). Selon les estimations de M. Perfetto, 5 % au maximum des biens étaient en stock au début de l'exercice et de l'année d'imposition 2012. Puisque l'appelante n'a fait aucun effort pour établir l'année pendant laquelle chacun des biens a été vendu (voir le paragraphe 24 qui suit), on peut penser à la maxime juridique « de minimis non curat lex ».
+[5] Mme Khabas et l'avocat de l'appelante ont constamment dit que l'ajout de cette somme au coût des achats effectués au cours de l'exercice 2012 de l'appelante était la [TRADUCTION] « passation en charges » de cette somme. C'est son effet économique, mais c'est une façon inexacte de décrire ce qui s'est réellement passé. Je reviendrai sur le sujet de l'exactitude plus tard dans les motifs.
+[6] Témoignage de M. Perfetto, transcription, à la page 36, lignes 1 à 5.
+[7] Je conclus qu'il n'aurait pas été impossible pour la direction de déterminer quel bien a été vendu à quel moment. Je conclus également que cela aurait exigé beaucoup de temps. Toutefois, ces conclusions n'ont d'importance que s'il faut tenir compte des PCGR lors de l'analyse juridique.
+[8] Au cours de la vérification, Mme Jacobson a écrit à l'Agence du revenu du Canada en vue de produire une déclaration modifiée pour l'appelante pour l'une des années d'imposition 2010 et 2011, ou pour les deux, mais rien n'en a découlé. On n'a déposé aucune déclaration modifiée pour les années d'imposition 2010 ou 2011 à l'Agence du revenu du Canada, et on n'a présenté à l'audience aucun élément de preuve concernant la nature et le montant des rajustements que l'appelante se proposait d'apporter pour l'une ou l'autre année d'imposition. Voir les pièces R‑3 et R‑4 et le témoignage de Mme Jacobson dans lequel elle a qualifié sa demande de dépôt de déclarations modifiées de solution de désespoir (transcription, page 217, aux lignes 8 et 9).
+[9] Pièce A‑1, onglet 2, à la page 14.
+[10] Pièce A-1, onglet 3, à la page 52.
+[11] On ne sait pas très bien pourquoi les achats totaux en 2012 sont de 52,5 millions de dollars dans l'état des résultats alors qu'ils sont de 51 millions de dollars dans la déclaration de revenus. L'avocat de l'appelante a suggéré en plaidoirie finale que la raison de la divergence pourrait être des rajustements sans rapport entre les états financiers et la déclaration de revenus. En tout état de cause, tant dans les états financiers que dans la déclaration de revenus, les achats pour 2012 comprennent les stocks de 1 294 623 $ achetés immédiatement avant le 1er mars 2009 et chacun indique les mêmes bénéfices bruts sous‑estimés de 9 820 263 $. Voir le témoignage de Mme Jacobson : transcription, page 197, lignes 4 à 16 (l'état des résultats), et transcription, page 199, lignes 8 à 20 (la déclaration de revenus).
+[12] Pièce A-1, onglet 12, à la page 110.
+[13] Pièce A-5 : Extraits du Manuel de CPA Canada, section 1506.27.
+[14] Pièce A-5 : Extraits du Manuel de CPA Canada, section 1506.30. Selon Mme Khabas, les PCGR permettent d'apporter des rajustements à l'exercice en cours plutôt que de rajuster les périodes antérieures lorsqu'il serait « impraticable » d'effectuer un tel rajustement rétrospectif. La section 1506.05(f) du Manuel de CPA Canada explique que l'application d'une exigence des PCGR est difficilement réalisable « lorsque l'entité ne peut pas l'appliquer après avoir mis en oeuvre tous les efforts raisonnables pour y arriver ». Il s'agissait d'une question de fait sur laquelle les parties étaient en désaccord. Une fois de plus, la réponse ne compte que s'il faut recourir aux PCGR pour effectuer l'analyse juridique.
+[15] Pièce A-4 : Rapport de Mme Khabas, à la page 9. Mme Khabas a témoigné que [TRADUCTION] « s'il arrive que les stocks déclarés dans les livres n'existent plus, ou que la valeur ait diminué, il faut diminuer la valeur comptable » (transcription, à la page 360, lignes 11 à 13). Elle a ensuite expliqué que, selon elle, la valeur de réalisation nette de ces biens à la fin de l'année d'imposition 2012 de l'appelante était nulle parce que tous les biens avaient alors été vendus (transcription, à la page 371, lignes 12 à 22).
+[16] Pièce A-4 : Rapport de Mme Khabas, à la page 1.
+[17] Pièce A-4 : Rapport de Mme Khabas, à la page 10.
+[18] Canderel Ltée c. Canada, [1998] 1 R.C.S. 147, au paragraphe 53.
+[19] Observations écrites de l'appelante en réponse, au paragraphe 1.
+[20] Pièce A-5 : Extraits du Manuel de CPA Canada, section 3031.33.
+[21] Friesen c. Canada, [1995] 3 R.C.S. 103, au paragraphe 24.
+[22] Friesen c. Canada, [1995] 3 R.C.S. 103, au paragraphe 33. Les motifs des juges minoritaires, rédigés par le juge Iacobucci, n'étaient pas en désaccord à ce sujet. Il ne fait aucun doute que tant la majorité que la minorité dans l'arrêt Friesen auraient refusé la réduction de la valeur des stocks si elle avait été effectuée au cours d'une année d'imposition postérieure à celle de la vente du bien‑fonds.
+[23] CDSL Canada Limited c. La Reine, 2008 CAF 400, aux paragraphes 32 et 33.
+[24] La jurisprudence utilise les termes « coût des biens » et « coût des ventes ».
+[25] Oryx Realty Corporation c. Ministre du Revenu national, [1974] 2 C.F. 44, à la page 48.
+[26] Ministre du Revenu national c. Shofar Investment Corporation, [1980] 1 R.C.S. 350, à la page 354.
+[27] Il est intéressant de noter que c'est la même formule que celle qu'a suggérée M. Montanaro dans son témoignage (transcription, à la page 60, lignes 1 à 7) et Mme Jacobson dans le sien (transcription, de la page 177, ligne 24, à la page 178, ligne 1).
+[28] Les principes restent les mêmes, qu'une entreprise fabrique ses stocks ou qu'elle achète ses stocks d'autres entreprises.
+[29] Brian J. Arnold et al., Timing and Income Taxation: The Principles of Income Measurement for Tax Purposes, 2e éd. (Toronto, Fondation canadienne de fiscalité, 2015), p. 152.
+[30] Canderel Ltée c. Canada, [1998] 1 R.C.S. 147, au paragraphe 53.
+[31] Bernick c. La Reine, 2004 CAF 191, au paragraphe 26.
+[32] Bernick c. La Reine, 2004 CAF 191, au paragraphe 27.
+[33] Témoignage de M. Perfetto, transcription, à la page 38, lignes 10 à 12.
+[34] Il s'agit d'une variante de l'affirmation souvent citée du juge Linden, dans les motifs de la décision R. c. Friedberg, [1991] A.C.F. no 1255 (QL) (C.A.F.) : « En droit fiscal, la forme a de l'importance. »

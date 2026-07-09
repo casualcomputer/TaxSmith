@@ -1,0 +1,542 @@
+---
+title: "Income Tax Folio S3-F2-C1, Capital Dividends"
+source: https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-2-dividends/income-tax-folio-s3-f2-c1-capital-dividends.html
+last_modified: 2025-01-14
+---
+# Income Tax Folio S3-F2-C1, Capital Dividends
+
+**Series 3: Property, Investments and Savings Plans**
+
+**Folio 2: Dividends**
+
+**Chapter 1: Capital Dividends**
+
+## Summary
+
+This Chapter discusses capital dividends and the capital dividend account (**CDA**). The CDA keeps track of various tax-free surpluses accumulated by a private corporation. These surpluses may be distributed tax-free in the form of capital dividends to the corporation’s Canadian-resident shareholders. A corporation paying a capital dividend must file an election in respect of the dividend when the dividend is paid or becomes payable (**capital dividend election**). In certain circumstances, a late-filed election is acceptable (**late-filed capital dividend election**). If the corporation pays a capital dividend which exceeds the balance in its CDA, there will be additional tax consequences.
+
+As the CDA is a cumulative account it may include amounts from other tax years when the provisions of the Act regarding the CDA were different than today. Except where otherwise specifically noted, the commentary in this Chapter is based on the law as it is currently written. In order to determine the amount included in the CDA in an earlier tax year, reference should be made to the law applicable to that year.
+
+The Canada Revenue Agency (CRA) issues income tax folios to provide a summary of technical interpretations and positions regarding certain provisions contained in income tax law. Due to their technical nature, folios are used primarily by tax specialists and other individuals who have an interest in tax matters. While each paragraph in a chapter of a folio may relate to provisions of the law in force at the time it was written (see the [Application](#toc22) section), the information provided is not a substitute for the law. The reader should, therefore, consider the Chapter’s information in light of the relevant provisions of the law in force for the particular tax year being considered.
+
+The CRA may have published additional guidance and detailed filing instructions on matters discussed in this Chapter. See the CRA's [Forms and publications](https://www.canada.ca/en/revenue-agency/services/forms-publications.html) web page for this information and other topics that may be of interest.
+
+## Table of contents
+
+- [Discussion and interpretation](#toc0)
+
+    - [Overview of the capital dividend account](#toc1)
+
+    - [Capital dividend account – private corporation qualification](#toc2)
+
+    - [Capital dividend account – election](#toc3)
+
+          - [Election under subsection 83(2) and its effects](#toc4)
+
+          - [Late-filed elections](#toc5)
+
+    - [Capital dividend account – components](#toc6)
+
+          - [General discussion of the CDA balance determination](#toc7)
+
+          - [CDA Component 1 – non-taxable portion of capital gains](#toc8)
+
+          - [CDA Component 2 – capital dividends received by the corporation](#toc9)
+
+          - [CDA Component 3 – eligible capital amounts](#toc10)
+
+          - [CDA Component 4 – life insurance policy proceeds](#toc11)
+
+          - [CDA Component 5 – trust distributions](#toc12)
+
+          - [CDA Component 6 – capital dividends payable](#toc13)
+
+    - [Special rules](#toc14)
+
+          - [Amalgamation or winding-up](#toc15)
+
+          - [Payments in kind and deemed dividend payments](#toc16)
+
+    - [Excessive elections](#toc17)
+
+          - [Overstatements](#toc18)
+
+          - [Additional tax on excessive elections](#toc19)
+
+          - [Election to avoid additional tax](#toc20)
+
+    - [Anti-avoidance rule](#toc21)
+
+- [Application](#toc22)
+
+- [Reference](#toc23)
+
+- [History](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-2-dividends/income-tax-folio-s3-f2-c1-capital-dividends/chapter-history-s3-f2-c1-capital-dividends.html)
+
+## Discussion and interpretation
+
+### Overview of the capital dividend account
+
+**1.1** This section will give the reader an overview and general description of the capital dividend account (CDA) and the mechanism to pay tax-free dividends from that account. It is not intended as a substitute for the more detailed and comprehensive discussion that follows it, which will be primarily of interest to tax specialists and other persons who may be responsible for calculating the CDA balance.
+
+**1.2** Certain dividends, called **capital dividends**, may be paid tax-free by private corporations to their Canadian-resident shareholders. This means that no part of the dividend is included in computing the shareholder’s income.
+
+**1.3** A capital dividend is paid from a private corporation’s CDA, which is an account that tracks various tax-free amounts that have been accumulated by the corporation.
+
+**1.4** The most common tax-free amounts included in the corporation’s CDA are:
+
+- the tax-free portion of capital gains realized by the corporation to the extent they exceed the non-deductible portion of the corporation’s capital losses;
+
+- life insurance proceeds on certain policies; and
+
+- capital dividends received from other corporations.
+
+**1.5** Because the CDA is a running balance account, capital dividends paid by the corporation will reduce the account balance.
+
+**1.6** Where corporations are combined, components of each predecessor corporation’s CDA may be carried over to the surviving corporation. A combination of corporations could occur by amalgamation, merger or a winding-up of a subsidiary corporation into its parent corporation. Capital dividends may also flow through partnerships to their partners and through trusts to their beneficiaries.
+
+**1.7** For a corporation to pay a capital dividend, it must make an election to designate the entire amount of the dividend to be a capital dividend.
+
+**1.8** The election is made by completing and filing [Form T2054, Election for a Capital Dividend Under Subsection 83(2)](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2054.html) with the CRA by the election due date. This date is the day on which the dividend becomes payable (or the day any part of the dividend is paid, if that takes place earlier). Certain additional documents must be filed with the election, including a schedule showing the calculation of the CDA balance immediately before the election. Schedule 89 ([Form T2SCH89, Request for Capital Dividend Account Balance Verification](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch89.html)) may be used for the purpose of making this calculation.
+
+**1.9** If the election is not filed by the election due date, it can still be filed late, together with payment of a late-filing penalty.
+
+**1.10** If the amount elected to be a capital dividend exceeds the corporation’s CDA balance (called an **excessive election**), only the amount that equals the CDA balance will be a capital dividend.
+
+**1.11** Although no part of the excess amount will be included in the income of a recipient shareholder resident in Canada, the corporation itself will be subject to an additional tax (called the **Part III tax**) that is 60% of the excess amount plus interest until the date of payment. Each person who received any portion of the dividend will be jointly and severally, or solidarily, liable with the corporation for the person’s proportionate share of the Part III tax and interest.
+
+**1.12** An election is available to avoid the Part III tax. In that case, the excess portion of the dividend will be treated as an ordinary taxable dividend in the hands of the recipient shareholders who are then responsible for any resulting additional tax and interest. However, the election can generally be made only if there is agreement from all the shareholders who were entitled to any portion of the original dividend.
+
+**1.13** Anti-avoidance rules may apply if transactions are structured to obtain a capital dividend. If these rules apply, the dividend will usually be treated as a taxable dividend, rather than as a capital dividend.
+
+### Capital dividend account – private corporation qualification
+
+**1.14** A corporation that is a **private corporation** (defined in subsection 89(1)) may elect to pay its shareholders a capital dividend from its CDA pursuant to subsection 83(2).
+
+**1.15** A capital dividend may not be paid by a public corporation, even if it had previously been a private corporation and had a balance in its CDA immediately before it became a public corporation.
+
+**1.16** Amounts are added to and deducted from a corporation’s CDA only during the period described in ¶[1.26](#p1_26). However, certain changes in a corporation’s status will cause the corporation to lose its entire CDA balance:
+
+- if a private corporation that, at any time, had been controlled directly or indirectly in any manner whatever (see subsection 256(5.1)) by one or more non-resident persons becomes a Canadian-controlled private corporation (**CCPC**) at a particular time after March 31, 1977, otherwise than because of a change in the residence of one or more of the corporation’s shareholders, the CDA balance of the corporation will be reduced to nil immediately before the particular time (see subsection 89(1.1))
+
+- if at any time after November 26, 1987, a corporation that was exempt from tax under Part I of the Act ceases to be exempt from tax, the CDA balance of the corporation will be reduced to nil immediately after that time (see subsection 89(1.2)).
+
+¶[1.37](#p1_37) describes similar conditions that restrict amounts that may be added to the CDA.
+
+### Capital dividend account – election
+
+#### Election under subsection 83(2) and its effects
+
+**1.17** Pursuant to subsection 83(2), an election to pay a capital dividend is to be made in the prescribed form and manner. Specifically, the prescribed form is Form T2054 and section 2101 of the Regulations describes the documents that are required to be filed with the election, including a certified copy of a resolution of the directors, or of an authorization of a person or persons legally entitled to administer the affairs of the corporation, to make the election and a schedule showing the computation of the amount of the CDA immediately before the election. Schedule 89 (Form T2SCH89), may be used for the purpose of making this calculation. The election must be made in respect of the full amount of the dividend that is to be paid. Subject to exceptions described in ¶[1.90](#p1_90) to 1.92, no part of the elected dividend is included in computing PartI income of a shareholder resident in Canada. Also, no amount is deducted in computing the adjusted cost base of the shares on which the dividend is paid. However, the receipt of a dividend on a share in respect of which an election was made under subsection 83(2) may reduce a loss on the disposition of the share. In this regard, reference may be made to subsections 112(3), (3.1), (3.2) and (3.3).
+
+**1.18** Capital dividends paid to non-residents are subject tonon-residentwithholding tax of 25% under subsection 212(2). The withholding tax rate may be reduced if the dividend is paid to a person that is resident in a country that has a tax treaty with Canada.
+
+**1.19** An election to pay a capital dividend should be filed on Form T2054 by the earlier of:
+
+- the day on which the dividend becomes payable; and
+
+- the first day on which any part of the dividend is paid.
+
+For this purpose, a dividend becomes payable on the day stipulated by the resolution of the directors of the corporation declaring the dividend. Because an election must be made on the full amount of the dividend, this means it may not specify that the dividend is payable partly from the corporation’s CDA and partly from another source.
+
+**1.20** The definition of **shareholder** in subsection 248(1) includes a “person entitled to receive payment of a dividend”. This could be relevant where a dividend, in respect of which an election is to be made under subsection 83(2), is declared to be payable by a corporation on a particular payment date to shareholders of record at the end of an earlier specified date. Provided the corporation elects to have the provisions of subsection 83(2) apply to the full amount of the dividend, a person that was a shareholder of record at the end of the earlier specified date will be entitled to the treatment given to a dividend to which subsection 83(2) applies even if they no longer own the share(s) on the date of payment.
+
+On Day 1 a corporation declares a dividend payable on Day 4 to all shareholders of record at the end of Day 2. Marc owns shares of the corporation at the end of Day 2 and disposes of those shares on Day 3. On Day 4 he does not own any shares of the corporation. On Day 4, when the corporation’s CDA balance is greater than the full amount of the dividend, the corporation files Form T2054 to elect that the full amount of the dividend is a capital dividend and pays the dividend to Marc. Although Marc does not own any shares of the corporation on Day 4 when the dividend is paid, Marc will be considered to have received a capital dividend.
+
+#### Late-filed elections
+
+**1.21** Subject to the comments in ¶1.23, subsection 83(3) and Regulation 2101(e) permit making a late-filed capital dividend election that would otherwise qualify as a valid election if filed as required by ¶1.19, provided that:
+
+- the election is made in the prescribed form and manner (see ¶[1.17](#p1_17));
+
+- the estimated late filing penalty for the election is paid when the election is made; and
+
+- the directors or other person or persons legally entitled to administer the affairs of the corporation have, before the time the election is made, authorized the election to be made.
+
+**1.22** The estimated late filing penalty is calculated as follows:
+
+- the lesser of $41.67 or 1/12 of 1% of the amount of the dividend
+
+multiplied by
+
+- the number of months and part-months between the filing due date described in ¶1.19 and the actual date the election is filed.
+
+**1.23** The late filing provisions described in ¶1.21 cease to be available for a particular dividend if a taxpayer does not comply with a written request from the Minister to make a late-filed election for that dividend within 90 days from the date of service of the request.
+
+**1.23.1** In some circumstances, a taxpayer may make a request under subsection 220(3.2) to late file, amend, or revoke an election under subsection 83(2). The request must be made on or before the day that is 10 calendar years after the end of the taxation year in which the election was required to be made. For additional information on making such a request, the guidelines for accepting late, amended, or revoked elections, and the penalties that may apply, see [Information Circular IC07-1R1, Taxpayer Relief Provisions](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic07-1.html).
+
+### Capital dividend account – components
+
+#### General discussion of the CDA balance determination
+
+**1.24** The term **capital dividend account** is defined in subsection 89(1). The definition contains the general rules for determining the CDA balance at any particular time. The various components that are added to or deducted from the CDA balance are specified in paragraphs (a) to (g) of the definition.
+
+**1.25** The amount of each component of the CDA (for example, the non-taxable portion of net capital gains) is calculated on a cumulative basis for a particular period.
+
+**1.26** The **period** referred to in ¶1.25 starts at the beginning of the corporation’s first tax year that began after the corporation last became a private corporation and that ended after 1971. The period ends immediately before the balance of the CDA is to be determined.
+
+Corporation X has been a private corporation with a March 31 year-end since it was incorporated in 1960. The corporation pays a capital dividend on April 1, 2016. In this case, the relevant period for the calculation of the corporation’s CDA is April 1, 1971 to the time immediately before payment of the dividend on April 1, 2016.
+
+#### CDA Component 1 – non-taxable portion of capital gains
+
+**1.27** Paragraph (a) of the definition of CDA describes the first component of the account. In general terms, it consists of the non-taxable portion of capital gains in excess of the non-deductible portion of capital losses (including business investment losses) realized by a corporation in the relevant period. The actual calculation is, subject to certain adjustments, based on the excess of capital gains over taxable capital gains, so that the result is the non-taxable portion of such capital gains. Similarly, and subject to certain adjustments, the excess of capital losses over allowable capital losses, being the non-deductible portion of such capital losses, reduces the non-taxable portion of its capital gains that are otherwise added to the corporation’s CDA.
+
+**1.28** The amount included in a corporation’s CDA as the non-taxable portion of a capital gain or non-deductible portion of a capital loss will not be adjusted if the Act is subsequently amended to change the portion of a capital gain or loss that is non-taxable or non-deductible. For example, the 25% non-taxable portion of a capital gain included in a corporation’s CDA in a tax year that ended in 1999 is not later changed because the non-taxable portion increased to 50% of a capital gain for dispositions made after October 17, 2000.
+
+##### Capital gains – specific comments
+
+**1.29** Subject to ¶1.30 and ¶1.30.1, the capital gains referred to in ¶1.27 do not include the portion of capital gains that arise on the disposition of shares that is attributable to an increase to the cost of the shares that was denied by either of subclause 52(3)(a)(ii)(A)(II) or subparagraph 53(1)(b)(ii). Capital losses may be similarly increased. The denied increase in cost under those previously-mentioned provisions is included in the cost or adjusted cost base of the particular share(s) solely for the purpose of calculating a capital gain or capital loss to determine the amount, if any, to be added to the corporation’s CDA.
+
+**1.30** Where a deduction under subsection 112(1) is permitted on a dividend that results from an increase in paid-up capital, subparagraph 53(1)(b)(ii) prevents what may be described as the **non-safe income** portion of the dividend being added to the cost of the share on which the dividend was received. However, when such dividend is subject to the application of subsection 55(2), it is considered that a deduction under subsection 112(1) was not permitted in respect of that dividend and there is no denied increase in cost under subparagraph 53(1)(b)(ii).
+
+**1.30.1** Where a dividend that is deductible under subsection 112(1) results from the receipt of a stock dividend, subclause 52(3)(a)(ii)(A)(II) prevents what may be described as the **non-safe income** portion of the dividend being added to the cost of the stock dividend share. However, where the stock dividend is subject to the application of subsection 55(2), the CRA is of the view that the denied cost under subclause 52(3)(a)(ii)(A)(II) is not included in the cost of the stock dividend share for the purpose of calculating a capital gain or capital loss to determine the amount, if any, to be added to the corporation’s CDA, as described in ¶1.29.
+
+**1.31** The non-safe income portion of a dividend is that which exceeds the portion attributable to income that has been earned or realized by any corporation after 1971, commonly known as **safe income**, that could reasonably be considered to contribute to the unrealized capital gain on the share on which the dividend was received.
+
+**1.31.1** An amount deemed to be a gain under paragraph 55(2)(c) is deemed to be realized on a disposition of a capital property at the time of the payment of the dividend for purposes of calculation of the CDA.
+
+**1.32** The capital gains and capital losses referred to in ¶[1.27](#p1_27) do not include certain capital gains and capital losses that, pursuant to paragraph 40(3.1)(a) and subsection 40(3.12), arise from the deemed disposition of a member’s interest as:
+
+- a limited partner; or
+
+- a specified member of a partnership.
+
+**1.33** The CDA will take into account the non-taxable portion of capital gains and the non-deductible portion of capital losses that result from the making of gifts. For gifts made after December 8, 1997, the amounts taken into account are limited to those from gifts described in subsection 110.1(1), such as from a gift to a registered charity.
+
+**1.34** For certain gifts, the entire capital gain is non-taxable. For example, for gifts of certain listed securities to qualified donees, paragraph 38(a.1) deems the taxable amount of a capital gain to be zero so that the non-taxable portion will be the full amount of the capital gain. Provided certain conditions are satisfied, the same treatment applies if the capital gain is from the disposition of certain shares in exchange for such securities and the securities are then gifted not more than 30 days after the exchange.
+
+**1.35** A special rule applies if the gifted security (or share disposed of in exchange for such security) is a property described in paragraph 38(a.1) that is included in a flow-through share class of property. Applicable to such gifts or dispositions made on or after March 22, 2011, the amount added to the CDA on account of the gifted security or exchanged share will be reduced. The reduction is equal to the taxable portion of a separate amount that is deemed by subsection 40(12) to be a capital gain in respect of the gifted security or exchanged share but which is not, itself, otherwise included in the calculation of the corporation’s CDA.
+
+**1.36** The amount determined in Component 1 does not include the portion of capital gains or losses on property disposed of after November 12, 1981 that can reasonably be considered to have accrued during a period when the property, or another property for which it was substituted, was held by a corporation that was not:
+
+- a private corporation;
+
+- an investment corporation;
+
+- a mortgage investment corporation; or
+
+- a mutual fund corporation.
+
+This restriction does not apply to **designated property**, which is defined in subsection 89(1) and generally refers to property acquired before November 13, 1981.
+
+**1.37** For dispositions occurring after November 26, 1987, another amount is excluded from Component 1. That amount is the portion of capital gains or losses on property that can reasonably be considered to have accrued during any period that it, or property for which it was substituted, was held by a corporation that was:
+
+- controlled, directly or indirectly in any manner whatever, by one or more non-resident persons if, after November 26, 1987, the property became the property of a CCPC, otherwise than because of a change in the residence of one or more of the corporation’s shareholders; or
+
+- exempt from tax under Part I if, after November 26, 1987, the property became the property of a private corporation that was not exempt from tax under Part I.
+
+As a result, these exclusions apply where the status of the corporation changes after November 26, 1987. The exclusions also apply if the property is acquired after November 26, 1987 on a rollover basis by the CCPC or the private corporation that was not exempt from tax, as the case may be.
+
+**1.38** Where a **commercial obligation** issued by a corporation is settled in a tax year, the non-taxable portion of a capital gain that may be deemed to have been realized by the corporation for the year pursuant to subsection 80(12) will be included in its CDA. The term commercial obligation is defined in subsection 80(1).
+
+**1.39** Capital gains included in the foreign accrual property income of a foreign affiliate of a corporation cannot be added to the corporation’s CDA.
+
+**1.40** The calculation of the non-taxable portion of a capital gain for the purposes of Component 1 of the CDA at any time in the year takes into consideration any amount deducted as a reserve at the corporation’s year-end pursuant to subparagraph 40(1)(a)(iii) in respect of proceeds of disposition of a property that are payable to the corporation after that year-end. Payment of a capital dividend during a tax year that is based on a calculation which overstates the actual balance in the CDA, because of an under-estimation of the amount of the reserve to be deducted at the year-end, may give rise to an assessment of Part III tax.
+
+**1.41** The reduction to a corporation’s CDA balance in respect of a subparagraph 40(1)(a)(iii) reserve that was deducted at the end of a particular tax year is added back to calculate the CDA balance on the first day of the next tax year. The calculation of that next year’s CDA balance should then be reduced by an amount in respect of any such reserve that may be deducted at the end of that next tax year.
+
+**1.42** Where a private corporation is a member of a partnership that realizes a capital gain, the relevant amounts in respect of the gain that are allocated to the corporate partner will be included in the calculation of its CDA at the end of the fiscal period of the partnership that ends in the corporation’s tax year.
+
+**1.43** Pursuant to paragraph 34.2(5)(b), a corporation’s CDA is not affected by any amounts arising from the application of section 34.2. Section 34.2 provides rules that adjust a corporate partner’s income to limit the deferral of tax where the partnership has a fiscal period that differs from the corporation’s tax year. It also provides rules for transitional relief.
+
+**1.43.1** Subparagraph (a)(i.1) of the definition of CDA applies when a corporate beneficiary of a trust receives a distribution in respect of capital gains of the trust after September 15, 2016. In general terms, at the end of the trust’s tax year in which the amount is distributed there will be added to Component 1 of the corporation’s CDA the lesser of:
+
+1. the portion of the amount distributed to the corporation in respect of capital gains of the trust that exceeds the amount designated under subsection 104(21) by the trust in respect of net taxable capital gains of the trust attributable to those capital gains, and
+
+2. the non-taxable portion of the capital gains attributable to the net taxable capital gains included in the designated amount referred to in ¶1.43.1(a).
+
+**1.43.2** For distributions from a trust on or before September 15, 2016, such amounts were generally added to the corporation’s CDA as a separate component so that they were not subject to reduction by the non-deductible portion of capital losses described in ¶1.45.
+
+**1.44** Allowable capital losses forming all or part of a corporation’s net capital losses may not be deductible pursuant to subsection 111(4) because control of the corporation was acquired by a person or group of persons. However, the capital losses from which the allowable capital losses are derived will be included in the calculation of, and reduce Component 1 of the corporation’s CDA.
+
+##### Excess capital losses
+
+**1.45** As indicated in ¶[1.27](#p1_27), the first component of the CDA is the excess of the non-taxable portion of capital gains over the non-deductible portion of capital losses realized by the corporation over the relevant period. When a capital loss is realized, the amount of the first component added to the corporation’s CDA is reduced. However, a negative balance in that component is not carried over to the computation of the CDA balance itself. This means that it does not reduce the aggregate amount of the other components included in the corporation’s CDA (described below). Instead, no amount in respect of the first component will be recognized as an addition to the corporation’s CDA until the running balance of the first component is once again a positive amount.
+
+Corporation Y has been a private corporation since incorporation in 1971. The corporation:
+
+- sustained a capital loss of $15,000 in its 2008 tax year (the non-deductible portion of **$7,500** is included in the calculation of Component 1)
+
+- realized a capital gain of $10,000 in its 2011 tax year (the non-taxable portion of **$5,000** is included in the calculation of Component 1)
+
+- received a capital dividend of **$1,000** in its 2014 tax year (representing Component 2 - see ¶1.46)
+
+No other components are relevant for the purposes of calculating the corporation’s CDA.
+
+**Discussion**
+
+At the end of the corporation’s 2014 tax year, Component 1 had a negative balance of $2,500 ($5,000 - $7,500). However, the amount added to the CDA in respect of Component 1 was $0.
+
+Therefore, the balance in the CDA at the end of the 2014 tax year, representing the total of Component 1 and Component 2, was $1,000.
+
+The $2,500 negative balance of Component 1, being the excess of the non-deductible portion of capital losses over the non-taxable portion of capital gains, must be absorbed by the non-taxable portion of additional capital gains realized after the 2014tax year before any amount in respect of capital gains may be added to the CDA in respect of Component 1.
+
+#### CDA Component 2 – capital dividends received by the corporation
+
+**1.46** Paragraph (b) of the definition of CDA includes in that account a dividend received from another corporation that made an election under subsection 83(2).
+
+**1.47** The amount normally added to the CDA is the full amount of a dividend received in respect of which the payor corporation made a capital dividend election under subsection 83(2). This is so even if the amount of the dividend exceeded the payor corporation’s CDA balance immediately before the dividend became payable. In other words, even an excessive dividend is included in the recipient corporation’s CDA. However, if the payor corporation makes an [election under subsection 184(3)](#p1_90) in respect of the excessive dividend, the amount added to the recipient corporation’s CDA will be limited to the portion of the dividend that continues to be excluded from the recipient corporation’s income under subsection 83(2).
+
+**1.48** Subparagraph 53(1)(e)(ii) provides that the adjusted cost base of a corporate partner’s interest in a partnership is increased by that partner’s share of a capital dividend received by the partnership.
+
+**1.49** Where a corporate partner is a private corporation, its CDA may include its share of a capital dividend received by the partnership. The time of the inclusion is normally determined by the terms of the applicable partnership agreement. For example, if the partnership agreement provides that a particular corporate partner is entitled to a share of a capital dividend at the time the dividend is received by the partnership, the partner would add its share of the dividend to its CDA at that time. However, if the partnership agreement provides that a capital dividend received by the partnership is to be shared by the members of the partnership at the end of the partnership’s fiscal period, a particular corporate partner would only be permitted to add its share of the dividend to its CDA at the end of that fiscal period.
+
+#### CDA Component 3 – eligible capital amounts
+
+**1.50** As of January 1, 2017, the rules respecting eligible capital property in section 14 were repealed and replaced by Class 14.1 of Schedule II to the Regulations. Property of a taxpayer that was eligible capital property of the taxpayer immediately before January 1, 2017 and that was owned by the taxpayer at the beginning of that day is added to the depreciable property of the taxpayer included in Class 14.1. Gains from the disposition of property that was formerly eligible capital property that are realized on or after January 1, 2017 will no longer be added to the corporation’s CDA under Component 3. Going forward, generally, the non-taxable portion of capital gains realized on the disposition of a capital property, including a depreciable property under Class 14.1, is added to Component 1 of the corporation’s CDA in ¶1.27.
+
+**1.50.1** The comments in ¶1.50.2 to 1.58 apply to Component 3 of the CDA. They are generally relevant to tax years ending before January 1, 2017 to which the eligible capital property rules under former section 14 and transitional rules under section 13 are applicable.
+
+**1.50.2** Paragraphs (c), (c.1) and (c.2) of the definition of CDA effectively include in that account the notional non-taxable portion of gains resulting from the disposition of eligible capital property in respect of each business of the corporation.
+
+**1.51** The separate paragraphs referred to in ¶1.50.2 are generally a result of the taxable portion of capital gains having changed twice in the year 2000. Consequently, they separately describe gains that were realized in a tax year included in the period that:
+
+- for paragraph (c), ended on or before February 27, 2000;
+
+- for paragraph (c.1), ended after February 27, 2000 and on or before October 17, 2000; and
+
+- for paragraph (c.2), ends after October 17, 2000.
+
+**1.52** The amount included in Component 3 of a corporation’s CDA may be reduced where, pursuant to subsection 20(4.2) or former 20(4.3), the corporation deducted an amount as a bad debt, or was deemed to have an allowable capital loss as a result of a bad debt, in respect of an amount the corporation was entitled to receive on the disposition of an eligible capital property.
+
+**1.53** The provisions relating to amounts in respect of eligible capital property that, prior to the legislative amendments repealing the eligible capital property regime, were to be included in a corporation’s CDA under Component 3 were complex and were subject to many changes after they were first introduced. As a result, reference should be made to the provisions of the Act that applied at the time(s) relevant to the calculation being made.
+
+**1.54** For tax years ending after February 27, 2000 and before January 1, 2017, an amount in respect of the non-taxable portion of a gain from the disposition of an eligible capital property may only be added to the corporation’s CDA at the end of the corporation’s tax year in which the property was disposed of. It was only at that time that former paragraph 14(1)(b) recognized the gain in the computation of the corporation’s income. As a result, an election to pay a capital dividend based on a gain from the disposition of eligible capital property could only be made after the end of the particular tax year in which the gain was realized. Subject to certain conditions, a transitional rule also allowed a taxpayer to elect under subparagraph 13(38)(d)(iii) to have former paragraph 14(1)(b) apply to certain gains from the disposition of eligible capital property on or before December 31, 2016 but in a tax year that ended after that date.
+
+**1.55** If a private corporation was a member of a partnership, the amount allocated to the corporation as its share of an amount included in the partnership’s income from a business for a particular fiscal period pursuant to former paragraph 14(1)(b) would be added to the corporation’s CDA at the end of the partnership’s fiscal period, rather than the corporation’s tax year-end.
+
+**1.56** An eligible capital property disposed of by a corporation could be one in respect of which an election could be made under former subsection 14(1.01) to treat the disposition as a sale of capital property. In that case, the addition to the corporation’s CDA would take place at the time the election was made. The election could be made in the corporation’s tax return for the tax year in which the property was disposed of or together with a capital dividend election (Form T2054) that was filed on or before the corporation’s filing due date for the tax year in which the property was disposed of. Similar treatment was available under former subsection 14(1.02) in respect of certain property acquired before 1972.
+
+**1.57** The election under former subsection 14(1.01) or (1.02) could be made in the form of a note attached to Form T2054 or in the applicable income tax return stating that the corporation was electing under former subsection 14(1.01) or (1.02), as the case may be.
+
+**1.58** Property that was not eligible for an election under former subsection 14(1.01) or (1.02) was:
+
+- goodwill;
+
+- property in respect of which the corporation’s actual proceeds of the disposition did not exceed its eligible capital expenditure to acquire the property;
+
+- property in respect of which the corporation’s eligible capital expenditure to acquire the property could not be determined; and
+
+- eligible capital property that, pursuant to subsection 85(1) or (2), was acquired by the corporation at an elected amount less than the fair market value of the property and that was acquired from a transferor with whom the corporation did not deal at arm’s length and whose eligible capital expenditure to acquire the property could not be determined.
+
+#### CDA Component 4 – life insurance policy proceeds
+
+**1.59** Paragraph (d) of the definition of a corporation’s CDA includes in that account, as Component 4, amounts related to proceeds of a life insurance policy received as a consequence of the death of a person.
+
+**1.60** The amount included in the CDA is the amount by which the total of the amounts described in A and B exceeds C (the excess amount is referred to in this Chapter as the **net proceeds**) where:
+
+**A:** under subparagraph (d)(i) of the definition of CDA, is the proceeds of each life insurance policy received in the period and after 1971 in consequence of the death of any person where the corporation was a beneficiary or policyholder under the policy on or before June 28, 1982;
+
+**B:** under subparagraph (d)(ii) of the definition of CDA, is the proceeds of each life insurance policy received in the period and on or after May 24, 1985 in consequence of the death of any person where the corporation was a beneficiary or policyholder under the policy after June 28, 1982 and was not such a beneficiary or policyholder on or before that date; and
+
+**C:** is the total of all amounts described in ¶1.60.1 to 1.60.5.
+
+**1.60.1** The first amount in respect of each such policy, is described in subparagraph (d)(iii) of the definition of CDA. It is the adjusted cost basis (defined in subsection 148(9)), immediately before the death, of a policyholder’s interest in the policy, whether or not the corporation was the policyholder. If the death occurred prior to March 22, 2016, the amount is the adjusted cost basis of the policy to the corporation.
+
+**1.60.2** The second amount, described in subparagraph (d)(iv) of the definition of CDA, relates to a **10/8 policy**. If the life insurance policy is a **10/8 policy**, as defined in subsection 248(1), the amount added to a corporation’s CDA under element A or B as described in ¶1.60 in consequence of the death of a person after 2013 may be reduced. The reduction is equal to the amount outstanding immediately before the death that, under the terms of a borrowing, is or may become payable to a person or partnership that was assigned an interest in the policy or in an investment account in respect of the policy.
+
+**1.60.3** The third and fourth amounts, described in subparagraphs (d)(v) and (vi) of the definition of CDA, apply where all of the following conditions are met:
+
+- the proceeds of the particular life insurance policy were received in consequence of the death of a person after March 21, 2016,
+
+- after 1999 but before March 22, 2016, an interest in the policy was disposed of by a policyholder that was not a taxable Canadian corporation, and
+
+- subsection 148(7) applied to the disposition (the interest was disposed of by way of a gift, by distribution from a corporation or by operation of law only to any person, or in any manner whatever to any person with whom the policyholder was not dealing at arm's length).
+
+**1.60.4** Where all of the conditions in ¶1.60.3 are met, the amount otherwise added to the CDA of a corporation in consequence of a person’s death is reduced under subparagraph (d)(v). Generally, the reduction under clause (d)(v)(A) is the amount by which the fair market value of the consideration given in respect of the disposition of the policy exceeded the greater of the value of the interest in the policy (generally, the cash surrender value) and the adjusted cost basis of the policy to the policyholder immediately before the disposition. Adjustments to the amount of the reduction under subparagraph (d)(v) may be required by subclause (d)(v)(A)(II) and clause (d)(v)(B), together with paragraphs 148(7)(c) and (f), where the paid-up capital of a corporation was increased in connection with any such disposition, depending on whether any portion of that increase was extracted before March 22, 2016.
+
+**1.60.5** Where all of the conditions in ¶1.60.3 are met, another reduction to the CDA may be required by subparagraph (d)(vi) where, generally, the adjusted cost basis of the interest in the policy to the policyholder immediately before the disposition exceeded the value of the interest in the policy at the time of the disposition.
+
+**1.61** Where a private corporation became a beneficiary or policyholder under a life insurance policy after June 28, 1982, the net proceeds of a life insurance policy received before May 24, 1985 were included in the corporation’s life insurance capital dividend account. The corporation could elect to pay tax-free life insurance capital dividends from that account. If the corporation paid those dividends to another private corporation before May 24, 1985, they would be included in the recipient corporation’s life insurance capital dividend account.
+
+**1.62** The balance, if any, in a corporation’s life insurance capital dividend account immediately before May 24, 1985 was added to that corporation’s CDA pursuant to paragraph (e) of the definition of CDA.
+
+**1.63** A corporation’s CDA is not increased by any amount it receives in a tax year as proceeds of a leveraged insurance annuity policy, defined in subsection 248(1) as an **LIA policy**.
+
+**1.64** This paragraph has been deleted. (see the [Chapter History](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-2-dividends/income-tax-folio-s3-f2-c1-capital-dividends/chapter-history-s3-f2-c1-capital-dividends.html) entry)
+
+**1.65** Subparagraph 53(1)(e)(iii) provides that the adjusted cost base of a corporate partner’s interest in a partnership is increased by that partner’s share of the amount of the net proceeds of a life insurance policy received by the partnership. Where the corporate partner is a private corporation, its share of the net proceeds may be included in its CDA at the time of receipt of the proceeds by the partnership. For more information, see ¶1, 7, and 8 of [Interpretation Bulletin IT-430R3 (Consolidated) – Life Insurance Proceeds Received by a Private Corporation or a Partnership as a Consequence of Death](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it430r3-consolid.html).
+
+##### Life insurance policies used as security
+
+**1.66** A life insurance policy may be used to secure the indebtedness of a private corporation debtor (the debtor) with part or all of the proceeds arising upon the death of the person whose life was insured being paid directly to the creditor. When this occurs, the legal relationships between the debtor, the creditor and the insurer will determine whether the debtor is entitled to add the net proceeds to its CDA.
+
+**1.67** If the life insurance policy has been assigned as collateral for securing indebtedness (as opposed to an absolute assignment of the policy) or is the subject of a hypothecary claim by the creditor, and the debtor remains entitled to the proceeds as beneficiary or policyholder, the net proceeds of the policy would be included in the debtor’s CDA. In such cases, the proceeds of the insurance policy would be constructively received by the debtor in its capacity as beneficiary or policyholder even if paid directly to the creditor in accordance with the assignment or hypothec. The creditor is neither the beneficiary of the policy nor the policyholder and would not be entitled to include the proceeds in its CDA because the amount it receives would not be considered to be proceeds of a life insurance policy.
+
+**1.68** Effective October 27, 2010, life insurance proceeds paid directly to a creditor financial institution may be added to the debtor’s CDA, if:
+
+- the life insurance proceeds are paid directly to the financial institution as either
+
+    - policyholder of a creditor’s group life insurance policy; or
+
+    - beneficiary of a life insurance policy owned by the debtor as policyholder; and
+
+- pursuant to a contractual obligation, the life insurance proceeds are required to be applied (and are applied) in reduction of the debt of the debtor to the financial institution with any monies in excess of such debt being paid over to the debtor.
+
+**1.69** Where a death benefit is paid pursuant to a creditor’s group life insurance policy, the CRA will permit the full amount of the death benefit (as opposed to the net proceeds) to be added to the debtor’s CDA provided the policy is a term and non-participating policy with no cash surrender value, designed to pay the outstanding balance of the debtor’s debt upon death of the life insured.
+
+**1.70** Where a death benefit is paid pursuant to a life insurance policy owned by the debtor as policyholder, only the net proceeds may be added to the debtor’s CDA.
+
+**1.71** The treatment of the CDA of debtor and creditor corporations in other situations where life insurance proceeds are paid directly to a creditor of a debtor corporation and applied by the creditor to reduce a debt of the debtor corporation will be determined on a case-by-case basis after reviewing all of the relevant legal documents and surrounding circumstances.
+
+**1.72** The principles described in ¶[1.66](#p1_66) to 1.71 will apply to determine the amount that may be added to the CDA of a private corporation in respect of the proceeds of a life insurance policy used to secure the indebtedness of a partnership of which the corporation is a member.
+
+#### CDA Component 5 – trust distributions
+
+**1.73** This paragraph has been deleted. (see the [Chapter History](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-2-dividends/income-tax-folio-s3-f2-c1-capital-dividends/chapter-history-s3-f2-c1-capital-dividends.html) entry)
+
+**1.74** Paragraph (g) of the definition of a corporation’s CDA includes in that account a dividend that was received by the trust in respect of which an election was made under subsection 83(2) and which the trust, in turn, distributed to the corporation. However, the dividend must be part of a distribution from the trust to the corporate beneficiary in the year it is received by the trust and an appropriate designation pursuant to subsection 104(20) must be made. The addition to the CDA is equal to the lesser of the amount of the distribution and the amount designated under subsection 104(20) in respect of the corporation in respect of the particular dividend.
+
+**1.75** The amount referred to in ¶1.74 that is distributed by a trust to a corporation will be included in the corporation’s CDA at the end of the trust’s tax year in which the amount is distributed.
+
+#### CDA Component 6 – capital dividends payable
+
+**1.76** Pursuant to the closing words of the definition in subsection 89(1), a corporation’s CDA is reduced by the total amount of capital dividends payable by the corporation in the period.
+
+**1.77** Although a separate component of a corporation’s CDA might have a positive balance at a particular time, the CDA considered as a whole will not have a positive balance at that time if the total amount of all capital dividends payable in the relevant period ending at that time (see ¶[1.25](#p1_25) and ¶1.26) is equal to or greater than the total amount of all the components added to the corporation’s CDA in that period.
+
+In year 1 Corporation Z realizes a capital gain of **$200,000**, of which **$100,000** represents the non-taxable portion. Later in that year a dividend of **$100,000** becomes payable by the corporation from the CDA.
+
+In year 2 Corporation Z realizes a capital loss of **$100,000** of which $50,000 represents the non-deductible portion.
+
+In year 3 Corporation Z receives net proceeds of a life insurance policy in the amount of **$100,000**.
+
+The amount that Corporation Z could pay from the CDA immediately after receipt of the life insurance proceeds would be calculated as follows:
+
+- Component 1 adds $50,000 to the balance, being the non-taxable portion of the capital gain realized in year 1 minus the non-deductible portion of a capital loss in year 2 ($100,000 - $50,000);
+
+- Component 4 adds $100,000 to the balance, being the net life insurance proceeds realized in year 3; and
+
+- Component 6 reduces the balance by $100,000, being the capital dividends that were payable in year 1.
+
+As a result, Corporation Z’s CDA balance is $50,000.
+
+### Special rules
+
+#### Amalgamation or winding-up
+
+**1.78** A corporation’s CDA may be increased or reduced as a result of an amalgamation of two or more predecessor corporations to form a new corporation. The CDA may also be increased or decreased as a result of a winding-up of a subsidiary corporation into its parent corporation.
+
+**1.79** Paragraph 87(2)(z.1) provides for the transfer of a predecessor corporation’s CDA to the new corporation on an amalgamation by deeming the amalgamated corporation to be the same corporation as, and a continuation of, each predecessor corporation. As a result, each component of each predecessor corporation’s CDA will be included in the calculation of the CDA of the amalgamated corporation.
+
+**1.80** Similarly, if a subsidiary corporation described in subsection 88(1) is wound up, the cross-reference to paragraph 87(2)(z.1) in paragraph 88(1)(e.2) results in each component of the wound up subsidiary corporation’s CDA being included in the calculation of the parent corporation’s CDA.
+
+**Corporation A:**
+
+- realized a capital gain of $100,000 in its 2005 tax year, of which the non-taxable portion, **$50,000**, was added to its CDA; and
+
+- as a result of the disposition of an eligible capital property in its 2012 tax year, included the amount of **$25,000** in its income pursuant to paragraph 14(1)(b) and added that amount to its CDA.
+
+**Corporation B:**
+
+- realized a capital loss of $150,000 in its 2010 tax year, of which the non-deductible portion is **$75,000**; and
+
+- as a result of the receipt of life insurance proceeds in its 2011 tax year, added the amount of **$40,000** to its CDA.
+
+Corporation A and Corporation B amalgamate in 2013 to form Amalco.
+
+At the time of the amalgamation when the first tax year of Amalco begins, its CDA will be determined as follows:
+
+**Component 1** This component only takes into account any **positive balance** of the non-taxable portion of capital gains over the non-deductible portion of capital losses of the predecessor corporations.
+
+The non-taxable portion of the capital gain of Corporation A is $50,000.
+
+The non-deductible portion of the capital loss of Corporation B is $75,000.
+
+$50,000 – $75,000 = –$25,000
+
+Component 1 = NIL (because Component 1 cannot be a negative amount)
+
+**Component 3** Amount included in income of Corporation A pursuant to paragraph 14(1)(b) (see ¶[1.54](#p1_54)) Component 3 = $25,000
+
+**Component 4** Net proceeds of a life insurance policy received by Corporation B Component 4 = $40,000
+
+**Calculation of CDA balance of Amalco:** Component 1 + Component 3 + Component 4 = $65,000
+
+In the first tax year after amalgamation, Amalco realizes a capital gain of $90,000, the non-taxable portion of which is $45,000. No other transactions relevant to the CDA calculation take place. In this situation, $25,000 of the non-taxable portion of the capital gain must first be applied to extinguish the notional negative balance of the capital gain component of the CDA of Amalco (Component 1 of the CDA) before the remaining $20,000 can be applied to increase the CDA balance of Amalco. See ¶[1.45](#p1_45).
+
+**1.81** No portion of the CDA of a predecessor corporation will be transferred to an amalgamated corporation if the [anti-avoidance rule in subsection 83(2.1)](#p1_94) would apply to deem a capital dividend paid by the predecessor corporation immediately before the amalgamation to be a taxable dividend. Similarly, no portion of the CDA of a subsidiary corporation will be transferred to its parent corporation if the anti-avoidance rule in subsection 83(2.1) would apply to deem a capital dividend paid by the subsidiary corporation immediately before the winding-up to be a taxable dividend.
+
+**1.82** Where subsection 88(2) applies to the winding-up of a Canadian corporation, subparagraph 88(2)(b)(i) deems the portion of the dividend deemed to be paid on the winding-up that does not exceed the corporation’s CDA immediately before that time to be the full amount of a separate dividend. The corporation may elect, under subsection 83(2), that the separate dividend be deemed to be a capital dividend.
+
+#### Payments in kind and deemed dividend payments
+
+**1.83** A capital dividend may be paid in cash, stock, in kind or as a deemed dividend.
+
+**1.84** A capital dividend election may be made in respect of a dividend that a purchaser corporation is deemed to pay pursuant to paragraph 84.1(1)(b). However, in that case the dividend recipient must own shares of the purchaser corporation at the time the dividend is deemed to have been paid.
+
+### Excessive elections
+
+#### Overstatements
+
+**1.85** An overstatement of the CDA can arise in a number of ways. Examples include:
+
+- a corporation might pay a capital dividend based on a capital gain reported in a particular year. But if a replacement property is acquired, the application of section 44 could retroactively reduce the previously reported capital gain.
+
+- where an option is exercised in a tax year and an amended return is then filed to exclude the proceeds (reverse a previously reported capital gain that was relied upon to pay a capital dividend) from the granting of the option in a previous tax year.
+
+- a corporation may claim a capital gains reserve at its year-end that exceeds the estimated reserve used to calculate the corporation’s CDA balance earlier in the year when an election was made to pay a capital dividend. Reserves are discussed at ¶[1.40](#p1_40).
+
+#### Additional tax on excessive elections
+
+**1.86** Where a corporation makes a capital dividend election or a late-filed capital dividend election, only the portion of the dividend that does not exceed the CDA balance immediately before the dividend becomes payable is deemed to be a capital dividend. However, even if some portion does not qualify as a capital dividend, the full amount of the dividend will be excluded from the income of a recipient shareholder resident in Canada.
+
+**1.87** In that situation, the corporation is said to have made an **excessive election**. The corporation will be subject to **Part III tax** under subsection 184(2) which is equal to 60% of the portion of the dividend that does not qualify as a capital dividend. The non-qualifying portion is referred to as the **excess portion**.
+
+**1.88** The liability for the Part III tax arises at the time that the excessive election is made under subsection 83(2). Unless the tax is paid when the excessive election is filed, interest at prescribed rates is added for the period from the date of the excessive election to the date of payment of the tax.
+
+**1.89** Under subsection 185(4), a person who has received a dividend in respect of which an excessive election has been made is jointly and severally, or solidarily, liable with the corporation for that person’s proportionate share of the Part III tax that becomes payable by the corporation. The person’s proportionate share is equivalent to the ratio that the amount of the dividend that the particular person receives is of the full amount of the dividend in respect of which the excessive election is made.
+
+#### Election to avoid additional tax
+
+**1.90** As an alternative to the payment of Part III tax in respect of an excessive election, the corporation liable for the tax may make an election under subsection 184(3) to have such part of the excess portion of the dividend as it elects treated as a separate taxable dividend that became payable at the time the original dividend became payable.
+
+**1.91** The subsection 184(3) election must be made in the manner prescribed in section 2106 of the Regulations. It must be made on or before the 90th day after the day of sending of a notice of assessment in respect of the Part III tax that would otherwise be payable. In addition, pursuant to subsection 184(4), either:
+
+- the election must be made no later than the day that is 30 months after the day on which the original dividend became payable and with the concurrence of every shareholder entitled to any portion of the original dividend whose address was known to the corporation, or
+
+- all the shareholders who were entitled to the dividend must concur with the election, in which case, notwithstanding subsections 152(4) to (5), such assessment of tax, interest and penalties payable by such shareholders for any tax year may be made as is necessary to take the corporation’s election into account.
+
+If, at the time each shareholder is deemed to have received a separate dividend pursuant to the subsection 184(3) election (see ¶1.92), each such shareholder is exempt from tax under Part I, no shareholder concurrence in the election is required. However, in that case the election must be made no later than the day that is 30 months after the day on which the original dividend became payable.
+
+**1.92** Where a valid subsection 184(3) election is made, each shareholder resident in Canada entitled to receive a proportionate share of the original dividend is deemed to have received, at the time that each separate dividend became payable, a share of each such separate dividend proportionate to the shareholder’s holdings of the particular class of shares at that time. The amount of each separate dividend deemed to be received by a non-resident shareholder is computed in the same manner. But for purposes of the non-resident tax under subsection 212(2), a separate capital dividend or a separate taxable dividend is deemed to have been paid on the date of the subsection 184(3) election with the result that, where the original dividend is one described in ¶[1.17](#p1_17) or ¶[1.21](#p1_21), section 215 will apply at that time if the original dividend had not been paid before that time.
+
+##### Subsection 184(3) protective election
+
+**1.93** Where a corporation has been assessed Part III tax in respect of an excessive election, the corporation may consider filing an objection to the determination of the CDA balance immediately before the dividend. It may also be permitted to file an election, in the time and manner required by subsection 184(3) (see ¶1.91), that will take effect if the objection is not successful. Under this arrangement, the CRA will hold the subsection 184(3) election in abeyance until the resolution of the corporation’s objection to the Part III tax assessment and any subsequent appeal to a court. If the corporation’s objection or subsequent appeal is ultimately allowed, the subsection 184(3) election will be withdrawn and treated as if it had never been made. If the corporation’s objection or ultimate appeal is dismissed, the subsection 184(3) election will be treated as having been made in a timely manner and as valid.
+
+**1.93.1** In some circumstances, a taxpayer may make a request under subsection 220(3.2) to late file, amend, or revoke an election under subsection 184(3). The request must be made on or before the day that is 10 calendar years after the end of the taxation year in which the election was required to be made. For additional information on making such a request, the guidelines for accepting late, amended, or revoked elections, and the potential penalties that may apply, see [Information Circular IC07-1R1](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic07-1.html).
+
+### Anti-avoidance rule
+
+**1.94** Subsection 83(2.1) is an anti-avoidance rule. It applies where a dividend that would otherwise be a capital dividend is paid on a share and the share (or another share for which the share was substituted) was acquired by the holder in a transaction or as part of a series of transactions that had the receipt of the dividend as one of its main purposes.
+
+**1.95** In [Groupe Honco Inc. v Canada](http://canlii.ca/t/g1kp4), 2013 FCA 128, 2014 DTC 5006 (FCA), the Federal Court of Appeal confirmed that a person can have more than one main reason for the acquisition of shares. If subsection 83(2.1) is not to apply, it must be shown that none of those main reasons is the receipt of a capital dividend.
+
+**1.96** Where subsection 83(2.1) applies, the dividend will be deemed to be received by the shareholder as a taxable dividend that will be included in the shareholder’s income. If the dividend recipient is a corporation it will not be included in computing that recipient corporation’s CDA. However, the amount elected for the purposes of subsection 83(2) will be a capital dividend for the purpose of determining any liability of the payor corporation for Part III tax in respect of an excessive election and for the purpose of computing the payor corporation’s CDA balance.
+
+**1.97** Subsections 83(2.2) to (2.4) provide exceptions to the application of the anti-avoidance rule in subsection 83(2.1):
+
+1. Subsection 83(2.2) provides that the anti-avoidance rule will not apply to a capital dividend **paid to an individual** if, immediately before the dividend became payable, all or substantially all of the payor corporation’s CDA consisted of amounts other than those described in paragraphs 83(2.2)(a) to (d).
+
+2. Subsection 83(2.3) provides that the anti-avoidance rule will not apply to capital dividends paid by a corporation where it is reasonable to consider that the purpose for paying the dividend was to distribute net life insurance proceeds which were received due to death.
+
+3. Subsection 83(2.4) provides that the anti-avoidance rule will not apply to a capital dividend **paid to a related corporation** (determined as if paragraph 251(5)(b) did not apply) if all or substantially all of the payor corporation’s CDA consisted of amounts other than those described in paragraphs 83(2.4)(a) to (e).
+
+## Application
+
+This updated chapter, which may be referenced as S3-F2-C1, is effective January 13, 2025.
+
+When it was first published on December 16, 2016, this Chapter replaced and cancelled *Interpretation Bulletin IT-66R6, Capital Dividends*.
+
+The history of updates to this Chapter as well as any technical updates from the cancelled interpretation bulletin can be viewed in the [Chapter History](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-2-dividends/income-tax-folio-s3-f2-c1-capital-dividends/chapter-history-s3-f2-c1-capital-dividends.html) page.
+
+Except as otherwise noted, all statutory references herein are references to the provisions of the *Income Tax Act*, R.S.C., 1985, c.1 (5th Supp.), as amended and all references to a Regulation are to the *Income Tax Regulations*, C.R.C., c. 945, as amended.
+
+Links to jurisprudence are provided through CanLII.
+
+Income tax folios are available in electronic format only.
+
+## Reference
+
+Sections 184 and 185, subsections 83(2) to (5), the definitions of **capital dividend account**, **designated property** and **private corporation** in subsection 89(1), subsections 89(1.1), 89(1.2) and 212(2), sections 2101 and 2106 of the Regulations and Form T2054 (also sections 13, 34.2, 54 and 215, subsections 14(1.01) and (1.02), 20(4.2) and (4.3), 40(3.1) and (3.12), 40(12), 55(2), 80(1) and (12), 104(20) and (21), 110.1(1), 111(4), 112(1) and (3), 125(7), 148(7), 220(3.2), 248(1) and 256(5.1), paragraphs 14(1)(b), 38(a.1) to (a.3), 39(1)(a), 40(1)(a), 53(1)(e), 84.1(1)(b), 87(1)(z.1) and 88(2)(e.2), subparagraph 53(1)(b)(ii), subclause 52(3)(a)(ii)(A)(II), section 600 of the Regulations as well as Class 14.1 of Schedule II to the Regulations).

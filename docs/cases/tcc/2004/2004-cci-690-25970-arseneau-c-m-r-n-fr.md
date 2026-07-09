@@ -1,0 +1,228 @@
+---
+title: "Arseneau c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25970/index.do"
+last_modified: "2004-11-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 690"
+citation2: ""
+neutral_citation: "2004 CCI 690"
+decision_date: "2004-11-12"
+language: "fr"
+item_id: "25970"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3768
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:50:48.762000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ee2fac8293a65c9151fe3ab98e9598a202e1892921523939f79818884df8a6f6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Arseneau c. M.R.N.
+
+- Citation: 2004 CCI 690
+- Decision date: 2004-11-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3768, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Arseneau c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-11-12
+Référence neutre
+2004 CCI 690
+Numéro de dossier
+2004-1245(EI)
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2004-1245(EI)
+ENTRE :
+STEVE ARSENEAU,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de 9130-1375 Québec Inc. (2004-1246(EI)) le 13 août 2004 à Hâvre-Aubert (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Représentante de l'appelant :
+Monica Poirier
+Avocate de l'intimé :
+Me Agathe Cavanagh
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le ministre est confirmée selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 12e jour de novembre 2004.
+« Paul Bédard »
+Juge Bédard
+Référence : 2004CCI690
+Date : 20041112
+Dossier : 2004-1245(EI)
+ENTRE :
+STEVE ARSENEAU,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+ET
+Dossier : 2004-1246(EI)
+9130-1275 QUÉBEC INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Les appelants interjettent appel de la décision du ministre du Revenu national (le « ministre » ) selon laquelle l'emploi exercé par monsieur Steve Arseneau (l' « employé » ) au cours de la période en question, soit du 16 juin au 16 août 2003, lorsqu'il était au service de 9130-1275 Québec Inc. (le « payeur » ), est exclu des emplois assurables au sens de la Loi sur l'assurance-emploi (la « Loi » ) au motif qu'il existait un lien de dépendance entre le payeur et l'employé.
+[2] Le paragraphe 5(1) de la Loi se lit en partie comme suit :
+5.(1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) l'emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d'un contrat de louage de services ou d'apprentissage exprès ou tacite, écrit ou verbal, que l'employé reçoive sa rémunération de l'employeur ou d'une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[...]
+[3] Les paragraphes 5(2) et 5(3) de la Loi se lisent en partie comme suit :
+(2) N'est pas un emploi assurable :
+[...]
+i) l'emploi dans le cadre duquel l'employeur et l'employé ont entre eux un lien de dépendance.
+(3) Pour l'application de l'alinéa (2)i) :
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l'impôt sur le revenu;
+b) l'employeur et l'employé, lorsqu'ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu'il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d'emploi ainsi que la durée, la nature et l'importance du travail accompli, qu'ils auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+[4] L'article 251 de la Loi de l'impôt sur le revenu se lit en partie comme suit :
+Article 251 : Lien de dépendance.
+(1) Pour l'application de la présente loi :
+a) des personnes liées sont réputées avoir entre elles un lien de dépendance;
+[...]
+(2) Définition de « personnes liées » . Pour l'application de la présente loi, sont des « personnes liées » ou des personnes liées entre elles :
+a) des particuliers unis par les liens du sang, du mariage, de l'union de fait ou de l'adoption;
+[...]
+[5] En rendant sa décision dans le dossier de l'employé, le ministre s'est basé sur les présomptions de fait suivantes énoncées au paragraphe 6 de la Réponse à l'avis d'appel :
+a) le payeur, constitué en société le 26 mai 2003, organise des forfaits aventure avec hébergement et restauration, dans 2 petits hôtels ou gîtes, aux Îles de la Madeleine;
+b) avant la constitution du payeur, Monica Poirier était l'unique propriétaire d'un gîte touristique, La maison d'Eva-Anne, qu'elle exploitait depuis 5 ans;
+c) tous les actifs de La maison d'Eva-Anne dont l'immeuble, le terrain et les 2 chevaux ont été transférés au payeur lors de sa constitution;
+d) le payeur a aussi acquis un nouvel immeuble qu'il a transformé en auberge (4 chambres en location) et qu'il exploite sous le nom de L'auberge du Grand Large;
+e) même si le contrat d'achat du 2ième immeuble n'a été signé que le 21 juin 2003, le payeur avait obtenu l'autorisation des vendeurs pour y débuter les travaux de rénovation le 9 juin 2003;
+f) l'appelant a été embauché comme directeur adjoint; il était responsable de l'entretien des bâtiments, des activités de « cabarouette » (promenades en traîneaux ou calèches), de l'aménagement extérieur et de l'embauche et de la gérance du personnel;
+g) l'appelant conduisait une calèche pour effectuer des visites touristiques et s'occupait des chevaux, de leur nourriture, de leur entretien et de leurs soins;
+h) l'appelant n'avait aucun horaire de travail précis à respecter; il travaillait 7 jours par semaine et ses heures n'étaient pas comptabilisées par le payeur;
+i) durant la période en litige, l'appelant recevait une rémunération fixe de 499,20 $ par semaine et ce, sans égard aux heures réellement travaillées;
+j) durant les 6 premières semaines de la période en litige, le payeur prétend que l'appelant travaillait 100 heures par semaine alors qu'il n'était rémunéré que pour 40 heures et alors que, durant les 2 premières semaines, l'appelant travaillait pour Construction G.A. Tech Inc., comme journalier, et ce, 40 heures par semaine;
+k) les travaux de rénovation du 2ième gîte ont débuté le 9 juin 2003 et l'ouverture officielle, l'accueil des premiers clients, a eu lieu le 16 juillet 2003;
+l) à partir de l'ouverture de l'auberge, l'appelant devait, de plus, entretenir le terrain, tondre la pelouse, entretenir les fleurs, sortir les vidanges, effectuer des réparations à l'équipement et aller chercher la clientèle à l'aéroport ou au bateau;
+m) l'appelant n'a été rémunéré que jusqu'au 16 août 2003 alors que le payeur a accueilli des clients jusqu'au 4 octobre 2003;
+n) l'appelant aurait prétendument cessé son travail le 16 août 2003, alors qu'il s'agissait de la semaine la plus achalandée au niveau des locations des chambres pour les 2 auberges du payeur;
+o) l'appelant rendait des services au payeur avant et après la période où il était inscrit au livre de paie du payeur;
+p) la durée de l'emploi de l'appelant ne correspond pas avec la période d'activités du payeur ni avec la période qu'il a réellement travaillée pour le payeur.
+[6] En rendant sa décision dans le dossier du payeur, le ministre s'est basé sur les présomptions de fait sensiblement semblables à celles énoncées au paragraphe précédent.
+[7] La Cour d'appel fédérale a défini à plusieurs reprises le rôle confié par la Loi à un juge de la Cour canadienne de l'impôt. Ce rôle ne permet pas au juge de substituer sa discrétion à celle du ministre, mais il emporte l'obligation de « vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et après cette vérification, [...] décider si la conclusion dont le ministre était convaincu paraît toujours raisonnable » [1].
+[8] En d'autres termes, avant de décider si la conclusion dont le ministre était convaincu me paraît toujours raisonnable, je dois, à la lumière de la preuve dont je dispose, vérifier si les allégations du ministre s'avèrent, malgré tout, bien fondées en tout ou en partie, compte tenu des facteurs que mentionne l'alinéa 5(3)b) de la Loi.
+[9] Il y a lieu de se demander si, n'eut été du lien de dépendance, le payeur et l'employé auraient conclu un tel contrat de travail. Autrement dit, est-ce que les conditions d'emploi étaient plus avantageuses du fait que le payeur et l'employé avaient un lien de dépendance?
+Analyse
+[10] L'employé avait été embauché comme directeur adjoint par le payeur; il était responsable de l'entretien des bâtiments, des activités de cabarouette (promenades en traîneaux et en calèches), de l'aménagement extérieur et de la gérance du personnel qui relevait de lui.
+[11] Dans le document fourni (pièce I-2) par madame Monica Poirier (conjointe de l'employé et l'actionnaire principal du payeur) à madame Louise Dessurault, agente des appels de la section assurance-emploi de l'Agence des douanes et du revenu du Canada, les tâches usuelles de l'employé ont été décrites comme suit :
+Manon d'Eva-Anne Auberge du Grand Large
+• Poubelles (à chaque jour)
+• Entretien et maintenance (nettoyer moustiquaires et fenêtres / 1 fois semaine, poignés de porte, remplacer ampoules, porte qui grince, lavabo qui fuit...)
+• Commissionnaire
+• Gazon (tracteur, tondeuse, mini-tondeuse, arbres et plantes) 1 1/2 journée par semaine jusqu'à la mi-août
+• Service à la clientèle (navette aéroport / bateau, bagages, remisage des vélos, renseignements...)
+Cabarouette / chevaux (saison)
+• Randonnée sur réservation (1 h 30 chaque fois)
+• Nourrir les chevaux (3 fois par jour / lorsqu'au travail)
+• Nettoyer et brosser les chevaux (1 heures / jour)
+• Atteler (1 heure de préparation)
+• Dételer (1 heure : nettoyage des attelage (sic), ranger le cabarouette)
+• Entretien du Cabarouette (nettoyer, graisser, retoucher la peinture / 3 heures par semaine)
+Cabarouette / chevaux (hors-saison)
+• Nourrir légèrement (1 fois par jour / lorsqu'au repos-matin / Mario 1 fois / jour soir)
+• Nettoyer et brosser les chevaux (1 fois / semaine)
+[12] L'employé a témoigné[2] qu'il consacrait environ quatre heures par semaine à l'entretien des terrains (coupe du gazon, entretien des fleurs et des plantes) alors que, selon la pièce I-2, cette activité aurait représenté 12 heures de travail par semaine. Il convient aussi de souligner que l'employé a témoigné[3] que l'activité d'entretien prenait entre 10 et 20 heures de travail par semaine. L'appelant n'a pas témoigné quant au nombre d'heures qu'il devait consacrer hebdomadairement à faire des commissions pour le payeur, à rendre des services à la clientèle de ce dernier et à sortir les poubelles. Toutefois, il a déclaré lors de son témoignage avoir consacré environ une heure par semaine à rendre des services de navette aux clients du payeur. Aussi, le témoignage de l'employé a révélé qu'il avait consacré de 15 à 25 heures hebdomadairement aux activités usuelles. À cela s'ajoutaient les heures consacrées aux activités de cabarouette et aux activités liées à l'entretien des chevaux et des calèches. La pièce 1-2 a révélé que, pendant la période en cause, l'employé nourrissait journalièrement les chevaux, sans pour autant préciser le nombre d'heures consacrées par l'employé à cette activité. La pièce 1-2 indiquait de plus que l'employé brossait et nettoyait les chevaux à chaque jour et que cette activité lui prenait une heure. Enfin, selon la pièce I-2, l'entretien des calèches et des traîneaux prenait environ trois heures de travail par semaine. Conséquemment, selon la pièce I-2, l'employé consacrait pendant la période en cause environ 10 heures par semaine à l'entretien des chevaux et des calèches. De plus, selon le même document et le témoignage des appelants, chaque randonnée de cabarouette représentait environ trois heures et demie de travail. On peut donc en conclure que l'employé travaillait de 25 à 35 heures par semaine pour le payeur à exécuter les tâches usuelles. Ce nombre d'heures ne tient pas compte des heures consacrées aux randonnées de cabarouette.
+[13] Le ministre a allégué à l'alinéa 6 j) de la Réponse à l'avis d'appel dans le dossier de l'employé que, pendant la période en cause, celui-ci recevait une rémunération fixe de 499,20 $ par semaine et ce, sans égard aux heures réellement travaillées. À mon avis, il convient d'abord de déterminer, à partir de la preuve, les heures réellement travaillées par l'employé.
+[14] Je tiens d'abord à souligner que je n'ai pu déterminer à partir de la preuve soumise, de façon précise, le nombre d'heures réellement travaillées par l'employé pendant la période en cause. Non seulement, les heures travaillées par l'employé n'étaient pas comptabilisées par le payeur, mais encore, la preuve soumise par les appelants à cet égard était imprécise et contradictoire sur plusieurs points.
+[15] Pour les deux premières semaines de la période en cause, la preuve[4] a clairement établi que l'employé avait travaillé 60 heures par semaine pour le payeur et ce, bien qu'il n'avait été rémunéré par ce dernier que pour 40 heures par semaine.
+[16] Pendant les trois semaines suivant cette première période de deux semaines, il ressort clairement de la preuve[5] que l'employé avait travaillé 100 heures par semaine pour le payeur et ce, bien qu'il n'avait été rémunéré que pour 40 heures par semaine.
+[17] Pendant la semaine qui a débuté le 14 juillet 2003, date d'ouverture de l'Auberge du Grand Large, l'employé aurait travaillé environ 40 heures par semaine pour le payeur si l'on se fie au témoignage de madame Poirier et à la pièce I-2. Toutefois, si l'on se réfère à la déclaration statutaire de madame Poirier (pièce I-1), l'employé aurait travaillé 100 heures pendant cette semaine. En effet, dans cette déclaration statutaire, madame Poirier n'avait-t-elle pas déclaré que l'employé avait travaillé pour le payeur 100 heures par semaine durant les six premières semaines?
+[18] Pendant la semaine qui a débuté le 21 juillet 2003, est-ce que l'employé avait travaillé 40 heures? Mon analyse de la preuve ne me permet pas d'en arriver à une telle conclusion. Selon la pièce I-2, l'employé, en plus d'exécuter ses tâches usuelles qui lui prenaient de 25 à 35 heures par semaine[6], avait fait quatre randonnées en cabarouette. Toutefois, l'intimé a démontré[7] que l'employé n'avait effectué que deux randonnées pendant cette semaine. Puisque chaque randonnée représentait environ trois heures de travail, je conclus que l'employé avait effectué de 32 à 42 heures de travail pendant cette semaine.
+[19] Pendant la semaine qui a débuté le 28 juillet 2003, est-ce que l'employé avait travaillé quarante heures pour le payeur? Selon la pièce I-2, l'employé, en plus d'exécuter ses tâches usuelles qui lui prenaient de 25 à 35 heures par semaine, avait fait sept randonnées en cabarouette. Toutefois, l'intimé a démontré que l'employé n'avait effectué que cinq randonnées en cabarouette[8]. Puisque chaque randonnée représentait environ trois heures de travail, je conclus que l'employé avait effectué de 40 à 50 heures de travail pendant cette semaine.
+[20] Pendant la semaine qui a débuté le 4 août 2003, est-ce que l'employé avait travaillé quarante heures pour le payeur? Selon la pièce I-2 et le témoignage de madame Poirier, l'employé, en plus d'exécuter ses tâches usuelles qui lui prenaient de 25 et 35 heures par semaine, avait effectué cinq randonnées en cabarouette. Toutefois, l'intimé a démontré[9] que l'employé n'avait effectué que deux randonnées pendant cette période. Puisque chaque randonnée représentait environ trois heures de travail, on peut donc conclure que l'employé avait travaillé de 31 à 41 heures pendant cette semaine. De plus, selon la pièce I-2 et le témoignage de madame Poirier, l'employé aurait peint le revêtement extérieur (en bardeaux de cèdres) de l'Auberge du Grand Large au cours de cette semaine et de la semaine débutant le 11 août 2003. Bien que la preuve soit silencieuse à l'égard du nombre d'heures consacrées par l'employé à cette activité, je conclus que l'employé avait travaillé pendant cette semaine plus de quarante heures.
+[21] Pendant la semaine qui a débuté le 11 août 2003, est-ce que l'employé avait travaillé quarante heures pour le payeur? Selon la pièce I-2 et le témoignage de madame Poirier, l'employé, en plus d'exécuter ses tâches usuelles qui lui prenaient de 25 à 35 heures par semaine, avait effectué six randonnées en cabarouette et peint le revêtement extérieur de l'Auberge du Grand Large. On peut donc conclure que l'employé avait travaillé de 43 à 53 heures pendant cette semaine. À cela, il faut ajouter, comme je l'ai mentionné au paragraphe précédent, un nombre important d'heures de travail pour la peinture du revêtement extérieur de l'Auberge du Grand Large.
+[22] Même si la preuve soumise par les appelants était imprécise et contradictoire à certains égards, je conclus que la moyenne d'heures travaillées hebdomadairement par l'employé pendant la période en cause était bien supérieure à 40 heures. D'ailleurs, madame Poirier n'avait-elle pas déclaré dans la déclaration statutaire :[10]
+[...] Steve est payé à la semaine pour un total de 40 heures par semaine. Il peut faire beaucoup plus d'heures dans une semaine mais je ne peux le payer plus que 40 heures.
+[23] Ainsi la question qui se pose est la suivante : est-ce qu'un employé et un employeur non liés auraient conclu un tel contrat de travail? Il est à mon avis déraisonnable de croire que de telles modalités de travail auraient été offertes à un travailleur non lié et acceptées par lui. Un travailleur non lié aurait exigé d'être rémunéré pour toutes ses heures de travail. À mon avis, un travailleur n'aurait pas accepté une rémunération hebdomadaire fixe de 499,20 $ en contrepartie d'un tel nombre d'heures de travail.
+[24] J'examinerai maintenant les allégations du ministre aux alinéas 6(1)n), 6(1)o) et 6(1)p) de la Réponse à l'avis d'appel de l'employé que les appelants contestent. Les allégations se lisent comme suit :
+l'appelant aurait prétendument cessé son travail le 16 août 2003, alors qu'il s'agissait de la semaine la plus achalandée au niveau des locations des chambres pour les 2 auberges du payeur;
+l'appelant rendait des services au payeur avant et après la période où il était inscrit au livre de paie du payeur;
+la durée de l'emploi de l'appelant ne correspond pas avec la période d'activités du payeur ni avec la période qu'il a réellement travaillée pour le payeur.
+[25] Nul doute que le taux d'occupation des chambres du payeur est demeuré élevé au cours des semaines qui ont suivi le congédiement de l'employé. En effet, un examen de la pièce I-4 déposée par l'intimé m'a convaincu de ce fait.
+[26] Maintenant, il faut poser les questions suivantes : pourquoi le payeur a-t-il congédié l'employé? Est-ce que l'employé a rendu des services au payeur en dehors de la période en cause? Quelles étaient la nature, la durée et l'importance des services ainsi rendus en dehors de la période en cause?
+[27] Habituellement, ce que fait un employé en dehors de ses périodes d'emploi est pertinent si la preuve démontre que le salaire versé pendant les périodes d'emploi tient compte du travail accompli en dehors de ces périodes, ou que l'employé a inclus dans les heures consacrées à son emploi assurable des heures de travail qu'il a effectuées en dehors des périodes d'emploi ou encore que du travail accompli en dehors de ces périodes d'emploi a été inclus dans le travail accompli pendant ces périodes. Tel n'est pas le cas dans la présente affaire. Toutefois, il faut tout de même examiner en l'espèce, la nature, la durée et l'importance du travail accompli par l'employé en dehors de la période en cause. En effet, si j'acceptais qu'un employé lié à son employeur puisse continuer de rendre sensiblement les mêmes services à ce dernier en dehors des périodes d'emploi, et ce, bénévolement, cela équivaudrait, à mon avis, à interpréter la Loi, bien qu'elle soit une loi sociale, comme permettant aux petites entreprises de se subventionner indirectement à même les prestations prévues par cette loi.
+[28] Il faut se demander maintenant pourquoi le payeur a congédié l'employé le 16 août 2003, et ce, particulièrement pendant une période où le taux d'occupation des chambres du payeur était très élevé. Madame Poirier a témoigné que le payeur avait congédié l'employé parce que les activités de cabarouette n'étaient pas assez rentables pour que le payeur puisse se permettre de garder l'employé à son emploi. De plus, madame Poirier a ajouté qu'au moment où l'employé avait été congédié, le payeur avait très peu de réservations de chambres en banque et que ce dernier ne pouvait à ce moment prévoir qu'un aussi grand nombre de passants loueraient des chambres après le congédiement de l'employé.
+[29] L'argument du payeur à l'effet qu'il avait congédié l'employé parce que les activités de cabarouette n'étaient pas assez rentables pour que le payeur puisse se permettre de le garder plus longtemps ne m'a pas convaincu. En effet, la preuve a démontré très clairement que les activités liées aux randonnées de cabarouette ne représentaient qu'un très faible pourcentage (4.66 %) du chiffre d'affaires du payeur et que le temps consacré par l'employé pendant la période en cause aux activités de cabarouette et à l'entretien des chevaux et de l'équipement ne représentait qu'un faible pourcentage des heures travaillées pendant cette même période.
+[30] L'argument du payeur à l'effet qu'il ne pouvait prévoir, compte tenu du peu de réservations en banque au moment du congédiement de l'employé, qu'il louerait autant de chambres après le congédiement ne m'a pas convaincu. La preuve a démontré que le nombre de chambres louées par le payeur après le congédiement de l'employé représentait environ 36 % des locations de chambres pour la période de juin à octobre 2003. Il faut se rappeler que madame Poirier exploitait un gîte depuis cinq ans. Elle m'aurait peut être convaincu si elle m'avait démontré, qu'à partir de son expérience et des statistiques de l'industrie aux Îles à cet égard, que normalement il y a très peu de location de chambres dans les gîtes à partir du 16 août 2003. Autrement dit, elle m'aurait peut-être convaincu si elle m'avait démontré qu'il s'agissait en l'espèce d'une année exceptionnelle à cet égard. De plus, le payeur n'annonçait-il pas sur son site Internet que la période du 15 juin au 15 septembre constituait la période de haute saison.
+[31] Madame Poirier a témoigné que l'employé avait rendu très peu de services au payeur après le congédiement. À l'égard des cinq randonnées de cabarouette qui avaient eu lieu après le congédiement, elle a témoigné que trois d'entre elles avaient été faites par le frère de l'employé et les autres par l'employé. À l'égard de l'entretien de la pelouse et des fleurs, elle a témoigné que le gazon n'avait été coupé que trois fois après le congédiement de l'employé et qu'elle-même avait coupé le gazon à une ou deux occasions. De plus, elle a expliqué qu'elle-même et la préposée à l'entretien ménager du payeur s'étaient partagé les autres tâches normalement effectuées par l'employé puisque les travaux importants d'entretien et de réparation des auberges étaient alors terminés.
+[32] Il convient de souligner que ni la préposée à l'entretien ménager du payeur ni le frère de l'employé ne sont venus témoigner pour confirmer les allégations de madame Poirier. Il faut aussi rappeler que, de 1999 jusqu'à la constitution en personne morale du payeur, l'employé avait été responsable des travaux d'entretien de l'Auberge d'Eva-Anne qui appartenait à madame Poirier, des randonnées de cabarouette et des soins aux chevaux et ce, sans rémunération. Ces efforts non rémunérés de l'employé n'avaient-ils pas été récompensés lors de la création du payeur en mai 2003? En effet, l'employé a témoigné qu'il avait obtenu 40 % des actions du payeur non seulement parce qu'il avait investi 25 000 $ dans le capital-actions du payeur mais aussi parce que madame Poirier, sa conjointe, voulait ainsi le récompenser pour ses efforts non rémunérés. Pour ce qui est de la période postérieure du congédiement, les appelants ne m'ont tout simplement pas convaincu que l'employé était demeuré aussi inactif que madame Poirier a bien voulu me laisser croire.
+[33] À la lumière de la preuve dont je dispose, après examen des facteurs mentionnés à l'alinéa 5(3)b) et après vérification du bien fondé des allégations du ministre, la conclusion dont le ministre était convaincu me paraît raisonnable.
+[34] Pour ces motifs, les appels sont rejetés et la décision du ministre est confirmée.
+Signé à Ottawa, Canada, ce 12e jour de novembre 2004.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE :
+2004CCI690
+No DU DOSSIER DE LA COUR :
+2004-1245(EI) et 2004-1246(EI)
+INTITULÉ DE LA CAUSE :
+Steve Arseneau et M.R.N. et 9130-1275 Québec Inc. et M.R.N.
+LIEU DE L'AUDIENCE :
+Hâvre-Aubert (Québec)
+DATE DE L'AUDIENCE :
+Le 13 août 2004
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Paul Bédard
+DATE DU JUGEMENT :
+Le 12 novembre 2004
+COMPARUTIONS :
+Représentante des appelants :
+Monica Poirier
+Pour l'intimé :
+Me Agathe Cavanagh
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour les appelants :
+Nom :
+Étude :
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[1]
+Légaré c. Canada (ministre du Revenu national - M.R.N.), [1999] A.C.F. no 878 (Q.L.), paragraphe 4.
+[2] Page 55 des notes sténographiques no 172.
+[3] Page 53 des notes sténographiques no 166.
+[4] Voir la déclaration statutaire de madame Poirier (pièce I-1).
+[5] Voir la déclaration statutaire de madame Poirier (pièce I-1).
+[6] Voir mon analyse au paragraphe 12.
+[7] Voir la pièce I-4.
+[8] Voir la pièce I-4.
+[9] Voir la pièce I-4.
+[10] Voir la pièce I-1.

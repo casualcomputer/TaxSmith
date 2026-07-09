@@ -1,0 +1,130 @@
+Title: Fatima c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30699/index.do
+Corpus path: corpus/cases/tcc/2012/2012-cci-49-30699-fatima-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2012-02-13
+
+# Fatima c. La Reine
+
+- Citation: 2012 CCI 49
+- Decision date: 2012-02-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7351, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fatima c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-02-13
+Référence neutre
+2012 CCI 49
+Numéro de dossier
+2010-1746(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-1746(IT)I
+ENTRE :
+TEHSEEN FATIMA,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 16 janvier 2012 à Toronto (Ontario).
+Devant : L’honorable juge J.M. Woods
+Comparutions :
+Représentant de l’appelante :
+M. Shaukat A. Malik
+Avocats de l’intimée :
+Me Rachel Doran
+Me Louis L’Heureux
+____________________________________________________________________
+JUGEMENT
+L’appel relatif à des déterminations faites par le ministre du Revenu national en vertu de la Loi de l’impôt sur le revenu est accueilli, et les déterminations sont renvoyées au ministre pour nouvel examen et nouvelles déterminations en tenant compte du fait que l’appelante a droit à la prestation fiscale pour enfants pour la période de mars 2006 à juin 2008. L’appel relatif aux prestations prévues par la Loi sur la prestation universelle pour la garde d’enfants est annulé. L’appelante a droit à ses dépens.
+Signé à Toronto (Ontario), ce 13e jour de février 2012.
+« J. M. Woods »
+Woods J.
+Traduction certifiée conforme
+ce 2e jour de mai 2012.
+Marie‑Christine Gervais
+Référence : 2012 CCI 49
+Date : 20120213
+Dossier : 2010-1746(IT)I
+ENTRE :
+TEHSEEN FATIMA,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] La question à trancher est celle de savoir si Tehseen Fatima était une résidente du Canada durant la période de mars 2006 à mai 2008 alors qu’elle vivait au Pakistan.
+[2] L’appel concerne des déterminations selon lesquelles Mme Fatima n’avait pas droit, durant la période pertinente, à la prestation fiscale pour enfants sous le régime de la Loi de l’impôt sur le revenu (la « LIR ») ni à la prestation universelle pour la garde d’enfants sous le régime de la Loi sur la prestation universelle pour la garde d’enfants (la « LPUGE »).
+[3] L’exigence en matière de résidence est contenue dans la définition de « particulier admissible » à l’article 122.6 de la LIR. Ce terme est pertinent pour la formule complexe prévue relativement à la prestation fiscale pour enfants au paragraphe 122.61(1) de la LIR, et précisément pour l’élément « A » de cette formule.
+[4] La Couronne soutient que Mme Fatima n’a pas satisfait à l’exigence en matière de résidence pendant la période où elle était au Pakistan.
+Loi sur la prestation universelle pour la garde d’enfants
+[5] À l’audience, j’ai soulevé la question de savoir si la Cour canadienne de l’impôt a compétence relativement à la LPUGE. L’avocate de la Couronne a répondu que la question de la résidence était la même au regard des deux lois et que la décision de la Cour concernant la prestation fiscale pour enfants sous le régime de la LIR serait suivie pour l’application de la LPUGE. Cela constitue peut-être une solution pratique en l’espèce, mais la question de la compétence aurait dû être mentionnée dans la réponse.
+[6] Dans la décision Moise c La Reine, 2009 CCI 187, la juge Sheridan a conclu que la Cour canadienne de l’impôt n’avait pas compétence relativement à la LPUGE. Je ne vois aucune raison de m’écarter de cette décision. L’appel relatif aux prestations prévues par la LPUGE sera donc annulé.
+Contexte factuel
+[7] Mme Fatima est originaire du Pakistan, et elle est venue au Canada en août 2005. Elle est actuellement une résidente canadienne et elle vit à Toronto avec son époux, Khalid Mahmood, et leurs cinq enfants. Elle s’est mariée le 2 février 1998.
+[8] M. Mahmood est également originaire du Pakistan, mais il est venu au Canada avant son épouse. Il a immigré le 29 juillet 1997, soit avant le mariage. Il est maintenant un citoyen canadien et il travaille à Toronto comme analyste de systèmes.
+[9] Même si M. Mahmood résidait au Canada au moment du mariage, Mme Fatima n’est pas venue rejoindre son époux au Canada à cette époque. Selon les éléments de preuve, que j’admets, elle est restée au Pakistan jusqu’en août 2005 afin d’aider un parent malade. M. Mahmood s’est rendu au Pakistan quand il le pouvait et le couple a eu trois enfants durant cette période.
+[10] La famille a finalement été réunie lorsque Mme Fatima et leurs trois enfants ont déménagé au Canada en août 2005.
+[11] Mme Fatima était au Canada depuis peu, soit depuis environ six mois, lorsque toute la famille est allée au Pakistan à titre temporaire. À sa surprise, selon ses dires, M. Mahmood s’était fait offrir un emploi en vue de l’ouverture d’un bureau à Islamabad pour une entreprise informatique canadienne, Disk Doctors. M. Mahmood n’avait pas travaillé pour cette société auparavant. La famille est partie au Pakistan en février 2006.
+[12] Le contrat de M. Mahmood avec Disk Doctors était d’une durée de deux ans. Durant cette période, la famille a abandonné son logement locatif à Toronto et a laissé ses biens chez un parent. À Islamabad, ils ont loué un nouveau logement et ont emprunté la plupart de leurs articles ménagers à leurs parents.
+[13] Le contrat avec Disk Doctors a été reconduit pour deux autres années et a pris fin lorsque la famille est revenue à Toronto en 2009. La famille demeure à Toronto depuis ce temps.
+Analyse
+[14] Les principes juridiques applicables dans une affaire comme celle-ci ont été décrits par le juge en chef Bowman dans la décision Laurin c La Reine, 2006 CCI 634, 2007 DTC 236 (confirmée par 2008 CAF 58, 2008 DTC 6175). Au paragraphe 24 de cette décision, il est fait mention des commentaires du juge Rand dans Thomson v MNR, [1946] RCS 209, dans lesquels ce dernier explique la différence entre résider et séjourner.
+[24] Au paragraphe 47, le juge Rand poursuit ainsi :
+[TRADUCTION]
+[47] La progression par degrés en ce qui concerne le temps, l’objet, l’intention, la continuité et les autres circonstances pertinentes, montre que, dans le langage ordinaire, le terme « résidant » ne correspond pas à des éléments invariables qui doivent tous être présents dans chaque cas donné. Il est tout à fait impossible d’en donner une définition précise et applicable à tous les cas. Ce terme est très souple, et ses nuances nombreuses varient non seulement suivant le contexte de différentes matières, mais aussi suivant les différents aspects d’une même matière. Dans un cas donné, on y retrouve certains éléments, dans d’autres, on en trouve d’autres dont certains sont fréquents et certains autres nouveaux.
+[48] L’expression « résidence habituelle » a un sens restrictif et, alors qu’à première vue elle implique une prépondérance dans le temps, les décisions rendues en vertu de la loi anglaise ont rejeté ce point de vue. On a jugé qu’il s’agit de résidence au cours du mode habituel de vie de la personne en question, par opposition à une résidence spéciale, occasionnelle ou fortuite. Pour appliquer le critère de la résidence habituelle, il faut donc examiner le mode général de vie.
+[49] Aux fins de la législation de l’impôt sur le revenu, il est nécessaire de considérer que chaque personne a, en tout temps, une résidence. Il n’est pas nécessaire à cet effet qu’elle ait une maison ni un endroit particulier où elle demeure, ni même un abri. Elle peut dormir en plein air. Ce qui importe seul, c’est de déterminer dans l’espace les limites dans lesquelles elle passe sa vie ou auxquelles se rattache ce mode de vie ordonné ou coutumier. La meilleure façon d’apprécier la résidence habituelle est d’en examiner l’antithèse, la résidence occasionnelle, temporaire ou extraordinaire. Cette dernière semble nettement être non pas seulement temporaire et exceptionnelle quant à ses circonstances, mais s’accompagne également d’une notion de caractère provisoire et de retour.
+[50] Mais dans les différentes situations de prétendues « résidences permanentes », « résidences temporaires », « résidences habituelles », « résidences principales » et ainsi de suite, les adjectifs n’influent pas sur le fait qu’il y a dans tous les cas résidence; cette qualité dépend essentiellement du point jusqu’auquel une personne s’établit en pensée et en fait, ou conserve ou centralise son mode de vie habituel avec son cortège de relations sociales, d’intérêts et de convenances, au lieu en question. Il se peut qu’elle soit limitée en durée dès le début ou qu’elle soit indéterminée, ou bien, dans la mesure envisagée, illimitée. Sur le plan inférieur, les expressions comportant le terme « résidence » doivent être distinguées, comme elles le sont je crois dans le langage ordinaire, du concept de « séjour » ou de « visite ».
+[15] En l’espèce, les questions à trancher sont celles de savoir si Mme Fatima est devenue une résidente canadienne lorsqu’elle a déménagé ici en 2005, et si elle a conservé cette résidence lorsqu’elle est retournée au Pakistan en 2006.
+[16] Les éléments de preuve à l’égard de la présente détermination sont malheureusement assez peu nombreux. Il aurait été utile de disposer de bien plus amples renseignements au sujet des circonstances entourant le séjour de la famille à Islamabad.
+[17] Compte tenu du nombre limité d’éléments de preuve qui ont été présentés, j’ai conclu que Mme Fatima était effectivement devenue une résidente canadienne lorsqu’elle avait déménagé ici en 2005, et qu’elle avait conservé sa résidence canadienne lorsque la famille était allée au Pakistan à titre temporaire.
+[18] Les circonstances prises dans leur ensemble portent à croire que la famille était résolument déterminée à résider au Canada de façon permanente à partir de 2005. Autrement, il aurait été insensé que Mme Fatima et ses enfants viennent au Canada en 2005. Ses liens avec le Canada étaient donc importants.
+[19] La preuve a révélé que Mme Fatima avait eu de la difficulté à s’adapter au Canada en 2005 parce qu’elle ne parlait pas l’anglais. La Couronne a avancé qu’elle ne s’était jamais établie au Canada durant les six mois précédant le départ de la famille pour le Pakistan.
+[20] Mme Fatima n’a peut-être pas eu la possibilité de s’acclimater à son nouveau pays en six mois, mais la preuve donne à penser que la famille avait décidé de s’établir ici de façon permanente. M. Mahmood était au Canada depuis plusieurs années. J’admets que la famille est allée au Pakistan uniquement pour que M. Mahmood puisse profiter d’une occasion d’emploi temporaire.
+[21] Je ferais également remarquer que l’Agence du revenu du Canada (l’« ARC ») a déterminé que M. Mahmood était demeuré un résident canadien pendant qu’il était au Pakistan après avoir conclu qu’il avait maintenu des liens de résidence importants avec le Canada (pièce A‑3). L’ARC a conclu qu’il était assujetti à l’impôt au Canada pour ses revenus de toutes provenances durant cette période. Bien que cela ne soit pas déterminant quant à la détermination de la résidence de Mme Fatima, on s’attendrait généralement à ce que des époux résident dans le même pays aux fins de l’impôt à moins qu’ils vivent séparés pour une raison ou une autre.
+[22] La Couronne a invoqué au soutien de sa position un questionnaire au sujet de la résidence signé par Mme Fatima qui ne révélait aucun lien avec le Canada. Cela ne porte toutefois pas un coup fatal à l’appel. Pareils formulaires ne présentent souvent pas un tableau complet. En réalité, Mme Fatima avait établi des liens importants au Canada avant que la famille aille au Pakistan pour une période limitée. Ces liens ont été établis lorsqu’elle et les enfants sont venus au Canada après que son époux eut été établi ici depuis plusieurs années.
+[23] Compte tenu des éléments de preuve pris dans leur ensemble, je suis convaincue que Mme Fatima était une résidente canadienne durant la période visée par le présent appel. Elle et sa famille s’étaient établies au Canada. Cela n’a pas changé lorsque la famille est allée au Pakistan à titre temporaire.
+[24] L’appel est accueilli avec dépens.
+Signé à Toronto (Ontario), ce 13e jour de février 2012.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 2e jour de mai 2012.
+Marie-Christine Gervais
+RÉFÉRENCE : 2012 CCI 49
+NO DU DOSSIER DE LA COUR : 2010-1746(IT)I
+INTITULÉ : TEHSEEN FATIMA c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 16 janvier 2012
+MOTIFS DU JUGEMENT : L’honorable juge J.M. Woods
+DATE DU JUGEMENT : Le 13 février 2012
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Shaukat A. Malik
+Avocats de l’intimée :
+Me Rachel Doran
+Me Louis L’Heureux
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa (Ontario)

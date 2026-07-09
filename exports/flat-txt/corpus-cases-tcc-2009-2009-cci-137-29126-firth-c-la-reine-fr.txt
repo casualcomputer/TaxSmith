@@ -1,0 +1,153 @@
+Title: Firth c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29126/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-137-29126-firth-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-03-05
+
+# Firth c. La Reine
+
+- Citation: 2009 CCI 137
+- Decision date: 2009-03-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6626, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Firth c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-03-05
+Référence neutre
+2009 CCI 137
+Numéro de dossier
+2008-2593(IT)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-2593(IT)I
+ENTRE :
+CAROLYNNE FIRTH,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu le 25 février 2009, à Toronto (Ontario).
+Devant : L'honorable juge Wyman W. Webb
+Comparutions :
+Représentant de l'appelante :
+Selwyn Firth
+Avocat de l'intimée :
+Me Eric Luu
+________________________________________________________________
+JUGEMENT L'appel interjeté à l'encontre de la cotisation établie à l'égard de l'appelante en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2005 est rejeté, sans dépens.
+Signé à Ottawa (Ontario), ce 5e jour de mars 2009.
+« Wyman W. Webb »
+Le juge Webb
+Traduction certifiée conforme
+ce 19e jour de mai 2009.
+Yves Bellefeuille, réviseur
+Référence : 2009 CCI 137
+Date : 20090305
+Dossier : 2008-2593(IT)I
+ENTRE :
+CAROLYNNE FIRTH,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] En l'espèce, la question à trancher est de savoir si, dans le calcul du gain en capital qu'elle a réalisé à la suite de la disposition d'un bien‑fonds en 2005, l'appelante a le droit de déduire les montants qu'elle a engagés relativement au bien‑fonds à titre d'intérêt hypothécaire et d'impôt foncier à l'époque où elle en était propriétaire.
+[2] L'appelante est résidente des îles Caïmans. Ses parents vivaient à Toronto, dans une maison qu'un tiers leur louait et qui avait besoin de réparations. En 1997, le père de l'appelante s'est blessé, et il n'a pas pu effectuer les réparations nécessaires à la maison. En 1997, l'appelante et son frère ont acheté le bien‑fonds afin de pouvoir entreprendre les réparations nécessaires. Le prix d'achat du bien‑fonds s'élevait à 155 000 $, et l'achat a été entièrement financé par un prêt hypothécaire accordé par le vendeur. En 2003, le frère de l'appelante a vendu sa part d'une demie de la maison à leur mère. En 2005, l'appelante et sa mère ont vendu la maison à un tiers.
+[3] Pendant tout le temps où l'appelante a été propriétaire du bien‑fonds, des membres de sa famille y habitaient : ses parents jusqu'au décès de son père en 1998, sa mère ensuite, et plus tard sa mère et son frère. Elle n'a reçu aucun loyer en échange.
+[4] En 2005, quand le bien‑fonds a été vendu, l'appelante a réalisé un gain en capital. Celle‑ci est d'avis que les montants qu'elle a payés à titre d'intérêt hypothécaire et d'impôt foncier pendant les années où elle était propriétaire du bien‑fonds devraient être déduits dans le calcul de ce gain.
+[5] Le paragraphe 39(1) de la Loi de l'impôt sur le revenu (la « Loi ») prévoit, en partie, ce qui suit :
+39(1) Pour l'application de la présente loi :
+a) un gain en capital d'un contribuable, tiré, pour une année d'imposition, de la disposition d'un bien quelconque, est le gain, déterminé conformément à la présente sous-section [...] que ce contribuable a tiré, pour l'année, de la disposition d'un bien lui appartenant [...]
+[6] Le paragraphe 40(1) de la Loi prévoit, en partie, ce qui suit :
+40(1) Sauf indication contraire expresse de la présente partie :
+a) le gain d'un contribuable tiré, pour une année d'imposition, de la disposition d'un bien est l'excédent éventuel :
+(i) en cas de disposition du bien au cours de l'année, de l'excédent éventuel du produit de disposition sur le total du prix de base rajusté du bien, pour le contribuable, calculé immédiatement avant la disposition, et des dépenses dans la mesure où celles-ci ont été engagées ou effectuées par lui en vue de réaliser la disposition,
+[...]
+[7] Les montants payés à titre d'intérêt hypothécaire et d'impôt foncier n'étaient pas des dépenses engagées en vue de réaliser la disposition du bien‑fonds, et ne réduiront le gain en capital que s'ils peuvent être ajoutés au prix de base rajusté du bien.
+[8] Le « prix de base rajusté » d'un bien est défini, en partie, en ces termes à l'article 54 de la Loi :
+« prix de base rajusté » S'agissant du prix de base d'un bien quelconque pour un contribuable à un moment donné s'entend, sauf dispositions contraires :
+[...]
+b) dans les autres cas, du coût du bien, pour le contribuable, rajusté à ce moment, conformément à l'article 53;
+[9] Aucune disposition de l'article 53 ne prévoit que l'intérêt hypothécaire et l'impôt foncier afférents au bien‑fonds seront additionnés au prix d'achat afin d'établir le prix de base rajusté du bien. Le prix d'achat payé par l'appelante pour le bien‑fonds (lequel n'incluait pas les frais de rénovation) s'élevait à la moitié de 155 000 $, soit 77 500 $. À défaut d'une disposition de la Loi prévoyant expressément que l'intérêt hypothécaire et l'impôt foncier qui ont été payés seront ajoutés au prix du bien, ces montants ne seront pas additionnés au prix d'achat que l'appelante a versé.
+[10] La maison a été rénovée, et l'intimée reconnaît qu'une somme de 24 058 $ a été engagée à titre de dépenses en capital relativement au bien. Le paragraphe 18(3.1) de la Loi prévoit notamment ce qui suit :
+18(3.1) Malgré les autres dispositions de la présente loi, dans le calcul du revenu d'un contribuable pour une année d'imposition :
+a) aucune déduction n'est faite à l'égard d'une dépense engagée ou effectuée par le contribuable (à l'exception d'une somme déductible en application des alinéas 20(1)a), aa) ou qq) ou du paragraphe 20(29)) qu'il est raisonnable de considérer soit comme un coût attribuable à la période de construction, de rénovation ou de transformation d'un bâtiment par le contribuable, par une personne avec laquelle il a un lien de dépendance, par une société dont il est un actionnaire déterminé ou par une société de personnes dont sa part sur le revenu ou la perte est d'au moins 10 %, ou pour leur compte, et lié à cette construction, rénovation ou transformation, soit comme un coût attribuable à cette période et lié à la propriété, pendant cette période, d'un fonds de terre qui :
+(i) soit est sous-jacent au bâtiment,
+(ii) soit remplit les conditions suivantes :
+(A) il est contigu au fonds de terre sous‑jacent au bâtiment,
+(B) il est utilisé, ou destiné à être utilisé, comme terrain de stationnement, voie d'accès, cour ou jardin ou à un usage semblable,
+(C) il est nécessaire à l'utilisation présente ou projetée du bâtiment;
+b) dans la mesure où il serait déductible par ailleurs dans le calcul du revenu du contribuable pour l'année, le montant d'une telle dépense est inclus dans le calcul du coût ou du coût en capital, selon le cas, du bâtiment pour le contribuable, pour la personne avec laquelle il a un lien de dépendance [...]
+[Non souligné dans l'original.]
+[11] Ce paragraphe permettrait d'ajouter au prix du bien‑fonds l'intérêt hypothécaire et l'impôt foncier attribuables à la période de rénovation dans la mesure où ces montants seraient par ailleurs déductibles. Ce paragraphe ne s'applique pas à l'intérêt hypothécaire et à l'impôt foncier attribuables aux autres périodes pendant lesquelles l'appelante était propriétaire du bien‑fonds, et, par conséquent, les montants relatifs à ces autres périodes ne peuvent en aucun cas être ajoutés au prix du bien‑fonds. Le paragraphe 18(3.1) de la Loi ne prohibe pas la déduction des montants relatifs à ces autres périodes, et, par conséquent, si ces montants sont par ailleurs déductibles, ils pourront alors être déduits du revenu de l'appelante pour ces autres périodes pendant lesquelles elle était propriétaire du bien‑fonds.
+[12] Le représentant de l'appelante a indiqué que les rénovations effectuées au bien‑fonds incluaient un appartement situé au sous‑sol, qui n'a jamais été loué ni même mis en location. Il apparaît clairement que les rénovations ont été entreprises parce que le bien‑fonds nécessitait des réparations, et parce qu'il fallait que les parents de l'appelante puissent habiter la maison. Aucun loyer n'a été versé pendant la période où l'appelante était propriétaire du bien‑fonds. Le seul revenu que l'appelante pouvait espérer toucher était le gain en capital qu'elle était susceptible de réaliser lors de la vente du bien. L'appelante ne pourrait déduire l'intérêt hypothécaire que si la Loi autorisait la déduction des intérêts versés relativement à de l'argent emprunté en vue de réaliser un gain en capital.
+[13] Cette question est également pertinente pour ce qui est de l'argument principal soulevé par le représentant de l'appelante. Ce dernier a fait valoir (sans renvoyer au paragraphe 18(3.1) de la Loi) que l'intérêt hypothécaire aurait dû être déductible étant donné que l'appelante a en partie acheté le bien‑fonds à des fins d'investissement; si elle avait acheté les actions d'une société qui ne payait pas de dividendes, l'intérêt aurait été déductible. L'appelante a affirmé que les deux types d'investissement devraient être traités de la même manière.
+[14] L'alinéa 18(1)a) de la Loi est ainsi rédigé :
+18(1) Dans le calcul du revenu du contribuable tiré d'une entreprise ou d'un bien, les éléments suivants ne sont pas déductibles :
+a) les dépenses, sauf dans la mesure où elles ont été engagées ou effectuées par le contribuable en vue de tirer un revenu de l'entreprise ou du bien;
+[15] Cette restriction générale s'applique à la déductibilité des montants payés pour l'impôt foncier. À moins que ces montants n'aient été payés en vue de tirer un revenu du bien, ils ne sont pas déductibles dans le calcul du revenu de l'appelante.
+[16] La question de la déductibilité de l'intérêt relève de l'alinéa 20(1)c) de la Loi, lequel prévoit ce qui suit :
+20(1) Malgré les alinéas 18(1)a), b) et h), sont déductibles dans le calcul du revenu tiré par un contribuable d'une entreprise ou d'un bien pour une année d'imposition celles des sommes suivantes qui se rapportent entièrement à cette source de revenus ou la partie des sommes suivantes qu'il est raisonnable de considérer comme s'y rapportant :
+[...]
+c) [...] une somme payée au cours de l'année ou payable pour l'année (suivant la méthode habituellement utilisée par le contribuable dans le calcul de son revenu) [...] en exécution d'une obligation légale de verser des intérêts sur :
+(i) de l'argent emprunté et utilisé en vue de tirer un revenu d'une entreprise ou d'un bien (autre que l'argent emprunté et utilisé pour acquérir un bien dont le revenu serait exonéré ou pour contracter une police d'assurance-vie),
+(ii) une somme payable pour un bien acquis en vue d'en tirer un revenu ou de tirer un revenu d'une entreprise (à l'exception d'un bien dont le revenu serait exonéré ou à l'exception d'un bien représentant un intérêt dans une police d'assurance-vie),
+[...]
+[17] Le paragraphe 9(3) de la Loi prévoit ce qui suit :
+(3) Dans la présente loi, le revenu tiré d'un bien exclut le gain en capital réalisé à la disposition de ce bien, et la perte résultant d'un bien exclut la perte en capital résultant de la disposition de ce bien.
+[18] Par conséquent, si un montant est emprunté dans le seul but d'investir dans un bien en vue de réaliser un gain en capital lors de la disposition dudit bien, dans la mesure où le gain en capital ne sera pas un revenu tiré d'un bien, l'intérêt payé (ou payable) sur le montant emprunté pour acheter le bien ne sera pas déductible. Cela a été confirmé par la Cour suprême du Canada dans l'arrêt La Reine c. Bronfman Trust, [1987] 1 R.C.S. 32, [1987] 1 C.T.C. 117, 87 D.T.C. 5059. Dans cet arrêt, le juge en chef Dickson s'est exprimé en ces termes, à la page 45 (R.C.S.) :
+Je partage l'avis du juge Marceau quant au but de la disposition permettant la déduction d'intérêts. Le législateur a conçu le sous‑al. 20(1)c)(i) et lui a donné effet nonobstant l'al. 18(1)b) pour favoriser l'accumulation de capitaux productifs de revenus imposables. Ce ne sont pas tous les intérêts qui sont déductibles. L'intérêt sur l'argent emprunté pour produire un revenu exempt d'impôt ne l'est pas. L'intérêt sur l'argent emprunté pour acheter des polices d'assurance‑vie ne l'est pas. L'intérêt sur les emprunts utilisés à des fins non productives de revenu, telles que la consommation personnelle ou la réalisation de gains en capital, ne l'est pas non plus. [...]
+[Non souligné dans l'original.]
+[19] De même, dans l'arrêt Entreprises Ludco ltée c. Canada, [2001] 2 R.C.S. 1082, 2001 CSC 62, 2001 D.T.C. 5518, [2002] 1 C.T.C. 95, la Cour suprême du Canada a étudié la question de savoir si l'intérêt payable sur de l'argent emprunté en vue d'acheter les actions d'une société était déductible dans une situation où le montant de l'intérêt qui avait été payé excédait le montant des dividendes versés sur les actions. La Cour suprême a notamment déclaré :
+[65] Pour conclure, lorsque, comme je l'ai expliqué précédemment, le contribuable utilise l'argent emprunté à une fin donnant lieu à une expectative raisonnable de tirer un revenu d'une entreprise ou d'un bien, les frais d'intérêt qu'il fait sont visés au sous‑al. 20(1)c)(i) et sont déductibles.
+D. Application des principes susmentionnés : Les frais d'intérêt faits par les appelants en l'espèce sont-ils déductibles?
+(1) Frais d'intérêt faits relativement à l'investissement initial dans des actions des Sociétés
+[66] La question qu'il faut maintenant trancher est de savoir si les appelants avaient une expectative raisonnable de tirer un revenu lorsqu'ils ont affecté les fonds empruntés à l'acquisition d'actions des Sociétés. Dans l'affirmative, si le montant de l'intérêt payé était raisonnable au sens de la disposition, les frais d'intérêt sont déductibles.
+67 En l'espèce, la preuve documentaire objective révèle que les appelants avaient une expectative raisonnable de tirer un revenu. Étant donné la nature des investissements et la stratégie de placement des Sociétés, il était raisonnable de s'attendre à ce qu'un revenu puisse être distribué. En outre, vu les modalités de la politique de dividendes, il est clair que les appelants avaient une expectative raisonnable de toucher des dividendes.
+68 Bien que tirer un revenu n'ait pas été le principal objectif de M. Ludmer en investissant dans les Sociétés, la lecture des documents pertinents révèle qu'il s'attendait à toucher un revenu de dividendes. À mon avis, cette attente était raisonnable. De fait, le juge de la Section de première instance de la Cour fédérale est arrivé à la même conclusion, à la p. 6056.
+69 En outre, il convient de souligner que les appelants ont touché un revenu de dividendes de 600 000 $. Bien que cette somme puisse paraître minime par rapport aux gains en capital réalisés et aux frais d'intérêt faits, en l'absence d'un trompe‑l'oeil, d'un artifice ou d'autres circonstances viciant l'opération (aucune allégation de la sorte n'a été débattue devant notre Cour), il importe peu que le montant du revenu escompté ou touché ait eu un caractère suffisant ou non. L'opération effectuée par les appelants n'était pas un trompe‑l'oeil. L'achat des actions constituait un véritable investissement. On ne peut non plus à bon droit qualifier d'artifice le versement des dividendes. Six cents mille dollars est une somme considérable et, selon certains témoignages d'expert, le rendement des actions de Justinian était comparable à celui de la plupart des actions des sociétés cotées aux bourses de Toronto et de Montréal.
+70 J'arrive à la conclusion que les appelants avaient une expectative raisonnable de tirer un revenu lorsqu'ils ont utilisé l'argent emprunté pour acheter des actions des Sociétés. En conséquence, la fin requise est présente dans les circonstances de l'espèce. [...]
+[20] Dans cet arrêt, la Cour suprême du Canada a conclu que les appelants avaient une expectative raisonnable de tirer un revenu lorsqu'ils ont utilisé l'argent emprunté pour acheter les actions. De même, il est clair que si les sociétés n'avaient pas payé de dividendes et si les contribuables n'avaient pas eu une expectative raisonnable de dividendes, alors l'intérêt n'aurait pas été déductible. Par conséquent, le représentant de l'appelante se trompe lorsqu'il allègue que l'intérêt payé sur l'argent emprunté en vue d'acheter les actions d'une société sera toujours déductible.
+[21] En l'espèce, il n'y avait pas d'expectative raisonnable de revenu quand le bien‑fonds a été acheté; il était entendu que des membres de la famille de l'appelante y habiteraient et que cette dernière ne recevrait aucun loyer. Le gain en capital susceptible d'être réalisé lors de la vente du bien‑fonds n'est pas un « revenu tiré d'un bien ».
+[22] Par conséquent, les montants payés à titre d'intérêt hypothécaire et d'impôt foncier pendant toute la période où l'appelante était propriétaire du bien‑fonds (y compris les montants attribuables à la période de rénovation) ne sont pas déductibles dans le calcul du revenu de l'appelante pour les années pendant lesquelles elle était propriétaire du bien‑fonds. Ainsi, les montants attribuables à la période de rénovation ne sont pas déductibles par ailleurs en vertu du paragraphe 18(3.1) de la Loi, et ils ne peuvent être additionnés au prix du bien en application de ce même paragraphe. Tel qu'il a été susmentionné, les montants attribuables aux autres périodes pendant lesquelles l'appelante était propriétaire du bien‑fonds ne peuvent pas non plus être ajoutés au prix du bien‑fonds.
+[23] Par conséquent, l'appel est rejeté, sans dépens.
+Signé à Ottawa (Ontario), ce 5e jour de mars 2009.
+« Wyman W. Webb »
+Le juge Webb
+Traduction certifiée conforme
+ce 19e jour de mai 2009.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2009CCI137
+NO DU DOSSIER DE LA COUR : 2008-2593(IT)I
+INTITULÉ : Carolynne Firth et Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Toronto (Ontario)
+DATE DE L'AUDIENCE : Le 25 février 2009
+MOTIFS DU JUGEMENT : L'honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 5 mars 2009
+COMPARUTIONS :
+Représentant de l'appelante :
+Selwyn Firth
+Avocat de l'intimée :
+Me Eric Luu
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Cabinet :
+Pour l'intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

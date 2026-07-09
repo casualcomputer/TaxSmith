@@ -1,0 +1,170 @@
+Title: Girard c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28640/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-245-28640-girard-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2008-04-30
+
+# Girard c. M.R.N.
+
+- Citation: 2008 CCI 245
+- Decision date: 2008-04-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1139, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Girard c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-04-30
+Référence neutre
+2008 CCI 245
+Numéro de dossier
+2006-3566(EI)
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2006-3566(EI)
+ENTRE :
+SONIA GIRARD,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+Appel entendu le 30 mai 2007, à Québec (Québec).
+Devant : L'honorable juge Gaston Jorré
+Comparutions :
+Avocat de l'appelante :
+Me Frédéric St-Jean
+Avocate de l'intimé :
+Me Christina Ham
+JUGEMENT
+L’appel en vertu du paragraphe 103(1) de la Loi sur l’assurance-emploi est accueilli, selon les motifs du jugement ci-joints, et la décision rendue par le ministre est modifiée de façon à stipuler que, pendant les périodes du 12 juin 2000 au 16 septembre 2000, du 11 juin 2001 au 15 septembre 2001, du 17 juin 2002 au 21 septembre 2002, du 16 juin 2003 au 20 septembre 2003, du 7 juin 2004 au 25 septembre 2004 et du 20 juin 2005 au 24 septembre 2005, l’appelante a occupé un emploi assurable.
+Signé à Ottawa, Canada, ce 30e jour d'avril 2008.
+« Gaston Jorré »
+Juge Jorré
+Référence : 2008CCI245
+Date : 20080430
+Dossier : 2006-3566(EI)
+ENTRE :
+SONIA GIRARD,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Jorré
+[1] La question en litige est de savoir si l’emploi de l’appelante, Sonia Girard, était exclu de la notion d’emploi assurable en raison du lien de dépendance qui existait entre elle et le payeur.
+[2] L’appelante prétend que le ministre aurait mal exercé son pouvoir discrétionnaire reconnu par l’alinéa 5(3)b) de la Loi sur l’assurance-emploi, en statuant qu’il n’est pas raisonnable de conclure que le travailleur et l’entreprise auraient conclu un contrat de travail à peu près semblable s’il n’y avait pas eu un lien de dépendance.
+[3] L’existence du lien de dépendance n’est pas contestée.
+[4] Les périodes en question vont du début de juin ou de la mi-juin à la mi‑septembre ou à la fin septembre au cours des années 2000 à 2005 inclusivement[1].
+[5] L’appelante, Sylvain Desbiens (son époux) et Louise Dessureault (agente des appels à l’Agence du revenu du Canada) ont témoigné.
+Les faits
+[6] Le payeur est Sylvain Desbiens, propriétaire de la Ferme Sylvain Desbiens Enr.
+[7] Les activités de l’entreprise du payeur sont l’élevage d’animaux de boucherie, la culture de céréales, de légumes et des foins, la vente de légumes à un kiosque à la ferme, et pendant l’hiver, l’exploitation d’un service de déneigement. La ferme est située le long de la route 138, à Clermont (Québec).
+[8] L’appelante a commencé à travailler à la ferme en 1993.
+[9] De la mi-juin à la mi-septembre, l’appelante travaille de 10 à 11 heures par jour, ce qui représente environ 70 heures de travail par semaine. Elle fait le sarclage et elle aide au fanage, au pressage et au ramassage des foins.
+[10] De la mi-juillet à la fin de la saison, elle travaille au kiosque le long de la route 138. Elle lave les légumes, les attache en paquets et s’occupe de la vente. Elle travaille environ 55 ou 60 heures par semaine au kiosque.
+[11] Pendant la période d’exploitation du kiosque, elle travaille à la cueillette des légumes environ un soir par semaine et pendant la récolte des deuxièmes foins —une période de deux ou trois semaines, généralement en août — elle enrobe les foins le soir pendant environ trois heures après la fermeture du kiosque.
+[12] Le payeur ne consignait pas les heures travaillées par l’appelante dans le journal des salaires.
+[13] Sylvain Desbiens a témoigné qu’un salaire de 10 $ l’heure pour 55 heures de travail, soit 550 $ par semaine[2], était conforme aux normes du marché. Il paye le même montant à l’appelante que celle-ci fasse 55 heures ou 70 heures. Il a dit qu’il n’avait pas les moyens de payer plus de 550 $ par semaine[3].
+[14] L’appelante a fait deux prêts au payeur, sans intérêt et sans modalité de remboursement, d’une somme totale de 35 000 $. Ces prêts ont été faits entre conjoints et n’ont pas de lien avec le contrat de travail entre l’appelante et le payeur.
+[15] L’appelante a acheté un terrain de 200 pieds carrés en 2004 et a permis à la Ferme Sylvain Desbiens de le cultiver à condition que l’entreprise paye les impôts fonciers relatifs au terrain[4].
+La décision du ministre
+[16] Louise Dessureault, l’agente des appels, a témoigné relativement aux motifs du ministre qui ont mené à la conclusion qu’il s’agissait d’un emploi exclu. Ces motifs font partie du rapport sur un appel, formulaire CPT110 (pièce I-1).
+[17] Le ministre s’est fondé sur les éléments suivants :
+a) Modalité d’emploi : un employé non lié n’aurait pas consenti à faire à son employeur un prêt sans intérêt d’une somme de 35 000 $. De plus, un employé non lié n’aurait pas accepté que son employeur exploite son terrain uniquement en contrepartie du paiement de l’impôt foncier[5].
+b) Durée de l’emploi[6] :
+Les relevés d’emploi de l’appelante indiquent qu’elle travaille pour le payeur 14 semaines par année, 16 semaines en 2004, à raison de 60 heures par semaine en 2005, 55 heures par semaine en 2004, et 54 heures par semaine de 2000 à 2003.
+Selon les parties, la dernière journée d’emploi coïncide avec la fermeture du kiosque, puisqu’il ne reste plus de légumes à vendre.
+Les périodes d’emploi de la travailleuse coïncident avec la période des foins. Cependant il est curieux de constater que si le payeur fait ses semis, vers le 10 mai, que la période de sarclage ne débute que vers le 17 ou 20 juin.
+De plus, le nombre d’heures travaillées hebdomadairement par l’appelante n’est pas contrôlées [sic] par le payeur.
+Ainsi, selon les relevés d’emploi émis à l’appelante, cette dernière travaillait : 60 heures par semaine en 2005, 55 heures par semaine en 2004, 54 heures par semaine de 2000 à 2003.
+Dans ses demandes de prestations la travailleuse déclarait travailler 65 heures par semaine en 2005, 54 heures par semaine en 2004, 60 heures par semaine en 2002, et 55 heures par semaine en 2001.
+Les relevés d’emploi émis à la travailleuse ne reflètent également pas l’augmentation des heures travaillées durant les périodes des foins.
+La durée de l’emploi de la travailleuse serait tout autre avec un travailleur non lié.
+c) Rémunération versée[7] : étant donné que le nombre d’heures variait, mais que le salaire hebdomadaire était fixe, la rémunération horaire variait et se situait souvent à moins de 10 $ l’heure. « Un travailleur non lié n’accepterait pas une telle fluctuation de son taux horaire. »
+d) Nature et importance du travail[8] :
+Les tâches confiées à la travailleuse étaient intégrées aux activités du payeur.
+Cependant, il est curieux de constater que les revenus du payeur provenant de la vente de légumes ne représentait [sic] que 14 % de l’ensemble de ses revenus pour les exercices 2003 et 2004 soit : 11 735 $ en 2004 et 12 139 $ en 2003, alors que les salaires versés à la travailleuse totalisaient 8 800 $ en 2004 et 7 700 $ en 2003, sans tenir compte des charges du payeur à titre d’employeur et de ses dépenses d’exploitation.
+Il est déraisonnable de croire que compte tenu du peu de revenu provenant de la vente de légumes le payeur aurait engagé un travailleur non lié dans les mêmes circonstances.
+Analyse
+[18] Le juge Bowie, dans la décision Richard Birkland c. Canada (ministre du Revenu national), 2005 CCI 291, a examiné la jurisprudence[9] relative à l’alinéa 5(3)b) de la Loi sur l’assurance-emploi[10] et a conclu, au paragraphe 4 :
+Si je comprends bien ces arrêts, le rôle de la Cour canadienne de l’impôt consiste à mener un procès au cours duquel les deux parties peuvent produire des éléments de preuve concernant les modalités aux termes desquelles l’appelant était employé, les modalités aux termes desquelles des personnes sans lien de dépendance, effectuant le même travail que l’appelant, étaient employées par le même employeur et les conditions d’emploi prévalant dans l’industrie pour le même genre de travail, au même moment et au même endroit. Des éléments de preuve relatifs à la relation existant entre l’appelant et l’employeur peuvent évidemment être produits également. À la lumière de tous ces éléments de preuve et de l’opinion du juge sur la crédibilité des témoins, la Cour doit ensuite déterminer si le ministre aurait pu raisonnablement, en ayant connaissance de l’ensemble de cette preuve, ne pas conclure que l’employeur et une personne avec laquelle il n’avait pas de lien de dépendance auraient conclu entre eux un contrat de travail à peu près semblable. Si je comprends bien, c’est là le degré de retenue judiciaire accordé à l’avis du ministre du fait de l’emploi, par le législateur, de l’expression « […] si le ministre du Revenu national est convaincu […] » à l’alinéa 5(3)b).
+[19] Avec ces considérations à l’esprit, je vais examiner la preuve.
+[20] De part et d’autre, il est accepté que l’appelante a travaillé pour l’entreprise pendant les périodes visées. Toutefois, après avoir considéré les quatre éléments décrits au paragraphe 17 ci-dessus, l’intimé a conclu que l’emploi était exclu. Je vais examiner ces éléments individuellement.
+[21] Modalité d’emploi : bien qu’un employé n’aurait sans doute pas accepté de prêter au payeur une somme de 35 000 $ sans intérêt, l’intimé n’a pas été en mesure d’expliquer pourquoi ce prêt doit être considéré comme un élément de la relation d’emploi entre l’appelant et le payeur. Il s’agissait simplement d’un cas d’entraide entre conjoints. L’intimé n’aurait pas dû tenir compte de ce fait.
+[22] Pour des raisons semblables, le fait que l’appelante a permis au payeur d’utiliser le petit terrain n’aurait pas dû être pris en compte par l’intimé.
+[23] Durée de l’emploi : l’intimé a attaché une certaine importance au fait que les heures auraient varié et au fait que les heures n’étaient pas consignées. Il est vrai que le payeur n’a pas tenu un registre des heures de travail de l’appelante. Toutefois, le payeur était bien placé pour savoir si le travail était fait ou non et, en ce sens, il exerçait un contrôle sur le travail de l’appelante.
+[24] Quant à la conclusion que « la durée de l’emploi de la travailleuse serait tout autre avec un travailleur non lié », à la lumière de la preuve, je suis en désaccord avec l’intimé. Le travail à faire change au cours de la période de travail et il est normal que les heures de travail varient. Je ne comprends pas sur quelle base le ministre pouvait conclure que des personnes non liées n’accepteraient pas que leur horaire de travail puisse varier entre 55 et 70 heures par semaine.
+[25] Rémunération versée : le nombre d’heures de travail de l’appelante varie. La preuve indique que l’appelante travaillait toujours au moins 54 ou 55 heures par semaine quand le kiosque était ouvert et que, certaines semaines, elle pouvait travailler beaucoup plus d’heures — notamment pendant la récolte des deuxièmes foins. Avant l’ouverture du kiosque, l’appelante travaillait environ 70 heures par semaine.
+[26] Avec une rémunération fixe de 550 $ par semaine, la conséquence mathématique est que la rémunération horaire varie selon la semaine. Par contre, ce fait est-il suffisant pour conclure qu’« un travailleur non lié n’accepterait pas une telle fluctuation de son taux horaire »? La question peut se poser un peu différemment : un travailleur non lié aurait-il accepté de faire un travail semblable à celui de l’appelante d’une durée variant entre 55 et 70 heures pour un salaire hebdomadaire fixe de 550 $?
+[27] D’une part, M. Desbiens a témoigné que payer un salaire fixe de 550 $ pour 55 heures de travail était dans les normes et qu’il n’aurait pas versé plus à un tiers[11]. D'autre part, la preuve ne révèle pas que l’intimé s’est basé sur une étude ou d’autres données du marché du travail agricole pour en arriver à la conclusion qu’une personne non liée n’aurait pas accepté un salaire de 550 $ pour une semaine de travail de 55 à 70 heures[12].
+[28] Dans la cause Théberge c. Canada (ministre du Revenu national), 2002 CAF 123, il y avait une situation en partie semblable quant aux heures et à la rémunération. La décision majoritaire a été rendue par le juge Décary[13]. Il écrit :
+4 Dans sa réponse à l'avis d'appel, le ministre dit s'être basé, notamment, sur les faits suivants :
+a) le payeur exploite une ferme laitière et agricole depuis 1959;
+b) sa terre compte environ 200 âcres cultivés (grains, pâturage et foin), et 500 âcres boisés;
+c) en 1996, son troupeau comptait 46 têtes dont 23 vaches laitières;
+d) il vend aussi du bois et les produits d'une érablière;
+e) l'appelant est le fils d'André Théberge;
+f) l'appelant effectuait tous les travaux reliés à l'exploitation de la ferme, notamment, le labourage, les semences, les récoltes, la traite des vaches, la coupe de bois et diverses réparations;
+g) il travaillait avec son frère Carol;
+h) il s'occupait aussi de la tenue des livres à l'année longue;
+i) à la fin du printemps et durant l'été, l'appelant travaillait entre 40 et 80 heures par semaine;
+j) pour ce, il recevait un salaire fixe hebdomadaire, peu importe le nombre d'heures travaillées;
+k) les heures travaillées n'étaient pas comptabilisées;
+l) il était habituellement payé avec un retard variant de 2 à 6 semaines;
+[…]
+7 Le juge s'est donc employé à examiner la preuve faite devant lui et il a conclu que l'emploi devait être exclu. Je suis d'avis, avec égards, qu'il y a matière à intervention. Le juge, en effet, a erré, en ne se penchant ni sur les allégations du ministre ni sur les facteurs que mentionne l'alinéa 3(2)c), soit la rétribution versée, les modalités d'emploi et la nature, la durée et l'importance du travail accompli. Il a erré, aussi, en se penchant à peu près exclusivement sur la nature, la durée et l'importance du travail accompli en dehors des périodes d'emploi en litige.
+8 La preuve a révélé que le demandeur a bel et bien travaillé sur la ferme tout au long de sa période d'emploi, qu'il travaillait entre quarante et quatre-vingt heures par semaine selon les exigences et que son salaire était établi en fonction d'une moyenne de soixante heures, que la période en cause se situait à l'intérieur de la période active dans le domaine de l'agriculture et qu'il recevait un salaire horaire conforme aux normes applicables. Ce salaire lui était versé avec un retard variant de deux à six semaines, mais le père-employeur s'est expliqué comme suit :
+R. Bon, c'est vrai que la paye ne se fait pas nécessairement à toutes les semaines. Quant on parle de six (6) semaines, oui, c'est vrai et il faut que je vous dise en même temps que moi aussi, ma paye à lait, si je commence à tirer des vaches le premier septembre, ça va au quinze (15) de novembre avant que j'aie ma première paye. Donc, moi aussi j'attends six (6) semaines. On n'est pas payé à toutes les semaines, à tous les jeudis soir. On est payé à tous les mois et il faut que tu fasses un mois avant d'avoir ta paye. Puis, ça prend quinze (15) jours pour faire la paye. Donc, c'est six (6) semaines de temps que tu fais de la production avant que tu aies ton paiement.
+(Dossier du demandeur, vol. 1, p. 125)
+9 La preuve a également révélé que la date du début et de la fin de la période active variait au fil des ans, que sur une ferme moyenne, dans la région, cette période se situait entre le quinze mai et le quinze octobre, mais que sur la ferme Théberge, « c'est pas comme ça. Nous autres, on commence à travailler quand le gros de l'ouvrage est arrivé puis on finit quand... le gros des récoltes est fait... » (Dossier du demandeur, vol. 1, p. 165). C'est ce qui expliquerait que le demandeur a travaillé du 11 juillet au 1er octobre en 1994, du 5 juin au 28 août en 1995 et du 6 juin au 17 août en 1996, et que son frère Carol a travaillé du 4 juillet au 24 septembre en 1994, du 12 juin au 10 septembre en 1995 et du 20 mai au 24 août en 1996.
+10 Cela dispose, à mon avis, des alinéas i), j), k) et l) des allégations du ministre; aucune de ces allégations ne permet raisonnablement de conclure à un lien de dépendance.
+[Je souligne.]
+En appliquant l’approche de la Cour d’appel fédérale à cet aspect de la présente cause, je dois conclure que l’élément de la rémunération versée ne permettait pas au ministre de raisonnablement conclure qu’un tiers n’aurait pas accepté cette rémunération.
+[29] Nature et importance du travail : l’intimé semble arriver à la conclusion que le payeur n’aurait pas payé le même salaire à un tiers parce que les revenus provenant de la vente de légumes, une fois le salaire payé, sont trop faibles. Cette conclusion n’est pas justifiée pour deux raisons. La première est que la preuve démontre qu’une partie du travail de l’appelante était liée aux foins. Il faudrait donc réduire le montant du salaire attribuable à la vente de légumes en conséquence. Deuxièmement, même sans cet ajustement, ni les faits en preuve, ni les faits que le ministre a considérés permettent de conclure i) que les ventes de légumes ne sont pas profitables et que la ferme serait plus rentable si les légumes n’étaient pas cultivés, ii) que la ferme serait plus rentable si le kiosque n’était pas exploité et les légumes vendus d’une autre façon, ou iii) qu’il aurait été possible d’embaucher un tiers à un salaire inférieur et ainsi dégager de plus grands profits en cultivant les légumes et en opérant le kiosque. En conséquence, le ministre ne pouvait pas raisonnablement conclure que «… compte tenu du peu de revenu provenant de la vente de légumes le payeur… » n’aurait pas conclu un contrat semblable avec un tiers.
+Conclusion
+[30] Pour toutes ces raisons, je conclus que l’intimé ne pouvait pas raisonnablement arriver à la conclusion qu’un tiers n’aurait pas accepté une rémunération et des conditions de travail semblables à celles de l’appelante.
+[31] En conséquence, l’appel est accueilli et la décision du ministre est modifiée de façon à stipuler que, pendant les périodes en cause, l’appelante a occupé un emploi assurable.
+Signé à Ottawa, Canada, ce 30e jour d'avril 2008.
+« Gaston Jorré »
+Juge Jorré
+RÉFÉRENCE : 2008CCI245
+Nº DU DOSSIER DE LA COUR : 2006-3566(EI)
+INTITULÉ DE LA CAUSE : SONIA GIRARD c. M.R.N.
+LIEU DE L’AUDIENCE : Québec (Québec)
+DATE DE L’AUDIENCE : Le 30 mai 2007
+MOTIFS DU JUGEMENT PAR : L'honorable juge Gaston Jorré
+DATE DU JUGEMENT : Le 30 avril 2008
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Frédéric St-Jean
+Avocate de l'intimé :
+Me Christina Ham
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom : Me Frédéric St-Jean
+Cabinet : Québec (Québec)
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Périodes du 12 juin 2000 au 16 septembre 2000, du 11 juin 2001 au 15 septembre 2001, du 17 juin 2002 au 21 septembre 2002, du 16 juin 2003 au 20 septembre 2003, du 7 juin 2004 au 25 septembre 2004 et du 20 juin 2005 au 24 septembre 2005.
+[2] Dans son témoignage, l'appelante a dit qu'en agriculture « on compte pas notre temps, on compte pas nos heures, et puis c'est payé comme ça » en réponse à une question relative au fait qu'à 550 $ par semaine, compte tenu du nombre d’heures que l'appelante travaillait, cela revenait à moins de 10 $ l'heure.
+[3] Avant 2002, l'appelante recevait un salaire de 500 $ par semaine.
+[4] L'appelante a fait la preuve qu'en 1993, elle faisait le même travail pour l'entreprise, que l'Agence du revenu du Canada avait déterminé que son emploi n'était pas assurable à cause du lien de dépendance qu’elle avait avec le payeur, que, par la suite, l'appelante a déposé un appel à la Cour canadienne de l'impôt et que le ministre a consenti à un jugement en faveur de l'appelante. Vu que je dois déterminer les faits pour les périodes en appel, je ne prends pas cette preuve en considération.
+[5] Pièce I-1, page 6.
+[6] La citation qui suit se trouve au bas de la page 6 de la pièce I-1.
+[7] Pièce I-1, page 7.
+[8] La citation qui suit se trouve à la page 7 de la pièce I-1.
+[9] Y compris la décision du juge Marceau dans Légaré c. Canada, [1999] A.C.F. no 878.
+[10] Voir les paragraphes 2 à 4 du jugement.
+[11] L'appelante a témoigné qu'en agriculture les heures ne se comptent pas.
+[12] Étant donné qu’il est de renommée commune que nous vivons à une époque où il y a beaucoup d’employés qui font des heures supplémentaires sans rémunération supplémentaire, est-il raisonnable de simplement présumer que des personnes non liées travaillant dans le domaine agricole n’auraient pas accepté un contrat de travail avec un salaire hebdomadaire fixe pour 55 à 70 heures de travail?
+[13] Le juge Noël a rendu un jugement dissident.

@@ -1,0 +1,289 @@
+Title: 632738 Alberta Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/423884/index.do
+Corpus path: corpus/cases/tcc/2019/2019-tcc-225-423884-632738-alberta-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2019-10-17
+
+# 632738 Alberta Ltd. v. The Queen
+
+- Citation: 2019 TCC 225
+- Decision date: 2019-10-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4205, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+632738 Alberta Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-10-17
+Neutral citation
+2019 TCC 225
+File numbers
+2016-3653(IT)G
+Judges and Taxing Officers
+Kathleen T. Lyons
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-3653(IT)G
+BETWEEN:
+632738 ALBERTA LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion heard on March 7, 2019 at Edmonton, Alberta
+Before: The Honourable Justice K. Lyons
+Appearances:
+Counsel for the Appellant:
+Robert A. Neilson and Jeremy Comeau
+Counsel for the Respondent:
+Mary Softley
+ORDER
+WHEREAS the appellant brought a motion (“Motion”) pursuant to Rule 58 of the Tax Court of Canada (General Procedure) Rules for an Order that the Court determine at a preliminary hearing the following question:
+Is the sole ground in support of the reassessment at issue in this appeal, raised in the Respondent’s Amended Reply, beyond the scope of the waiver of the normal reassessment period executed by the Appellant in respect of its December 31, 2011 taxation-year?
+UPON reading the materials filed and hearing submissions from appellant counsel and respondent counsel;
+AND UPON reading written submissions filed by appellant counsel subsequent to the Motion;
+THIS COURT ORDERS that:
+The Motion is dismissed, in accordance with the attached Reasons for Order; and
+Costs shall be in the cause or as otherwise directed by this Court on the disposition of the hearing of the appeal.
+Signed at Edmonton, Alberta, this 17th day of October 2019.
+“K. Lyons”
+Lyons J.
+Citation: 2019 TCC 225
+Date: 20191017
+Docket: 2016-3653(IT)G
+BETWEEN:
+632738 ALBERTA LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Lyons J.
+[1] The appellant, 632738 Alberta Ltd. (“632”), brought this motion (“Motion”) pursuant to Rule 58 of the Tax Court of Canada Rules (General Procedure) (the “Rules”) for the determination of a proposed question of mixed fact and law (the “Question”) before the hearing of the appeal.
+[2] Before the Minister of National Revenue reassessed, 632 had filed a waiver (“Waiver”) for its taxation year ended December 31, 2011 (“2011”) in respect of the application of subsection 103(1) of the Income Tax Act (the “Act”) to its reported income of $99,991 from the Thompson Contractors Partnership (“TCP”). [1]
+[3] The Minister reassessed 632 for 2011 by adding additional partnership income in the amount of $77,892,210 (the “Amount”). Relying on subsection 103(1) of the Act, she says it is reasonable to conclude that the principal reason for the agreement to share income and losses (“agreed allocation”) between the partners of Action LMS Limited Partnership (“Action partnership”) was to reduce or postpone tax otherwise payable by 632 and determined that the Amount is a reasonable reallocation to 632 based on its 99.99% interest it held in TCP (“the interest”) immediately before 632’s sale of the interest to Action partnership (“Reassessment”). [2] The Minister alleges the income Amount arose from a corporate restructuring 632 participated in, in which transactions involving TCP and Action partnership were related and flowed together, and during which 632 disposed of the interest to Action partnership. [3] Also, the agreed allocation allowed Action partnership’s limited partners, two corporations unrelated to 632 (the “two corporations”), to utilize their pre-existing non-capital losses and pre-existing expenses against their share of the partnership income allocations that Action partnership had received from TCP.
+[4] The parties’ pleadings evolved as outlined in these reasons. [4]
+[5] 632 brings this Motion under Rule 58 at stage one seeking a determination of its Question at stage two. It claims it has satisfied all the mandatory conditions under that Rule. The respondent opposes the Motion as the Question is not appropriate because 632 failed to meet the mandatory conditions in Rule 58(2). Therefore, the Court does not have the discretion. Even if it did, the Court ought not to exercise its discretion as it would be unfair and unjust in the circumstances.
+[6] All references to statutory provisions in these reasons will be to the Income Tax Act unless otherwise stated.
+I. BACKGROUND FACTS
+[7] It is undisputed that at the relevant times:
+632, fully owned by Larry Thompson, was part of a group of entities (the “Group”) controlled by him;
+632 was the sole owner of Thompson Contractors Inc. (“TCI”); [5]
+Thompson Bros. (Constr.) Ltd. (“TBCL”) owned all issued and outstanding shares of Thompson Holdings Inc. (“THI”); [6] and
+Thompson Bros. (Constr.) LP (“TBCLP”), a limited partnership, is the operating entity in the Group, and was active in earth moving, highway construction and oil sands constructions industries. [7]
+A. Restructuring
+[8] On or before January 31, 2011, the Group decided to restructure. Steps and transactions in the restructuring commenced on January 31, 2011. [8]
+[9] On January 31, 2011:
+632 and TCI formed TCP as a general partnership, in which 632 and TCI each held a partnership interest (99.99% and 0.01%, respectively); [9] and
+basic steps and transactions were agreed to and memorialized in the Definitive Transaction Agreement (“Transaction Agreement”) between the parties that included 632, Mr. Thompson, the two corporations and Cavalon Capital Partners Inc.
+[10] The Transaction Agreement indicates that 632 and the two corporations desire to create Action partnership, as a limited partnership, for the purpose of acquiring the interest (632’s) in TCP. Several transactions were particularized including the following:
+on February 8, 2011, 632 formed and registered Action partnership and made an initial capital contribution of $15 to Action partnership in exchange for 15 units;
+on February 24, 2011, 632 sold its 99.99% interest in TCP to Action partnership; [10] and
+between February 8 to 24, 2011, the two corporations, Action Energy Inc. (“Action”) and 2980622 Canada Inc. (“298”), subscribed for limited partnership units of Action partnership by contributing amounts totalling $150,000 which resulted in Action partnership being capitalized with limited partnership interestsheld by Action (64.19%) and 298 (35.80%) plus 632 held a 0.01% interest as the general partner. [11]
+[11] On February 25, 2011, TBCLP took the following actions:
+a. contracted TCP under the Labour Agreement to provide certain labour management services to TBCLP, effective immediately, “for fees in the amount of cost plus 5%”; [12]
+b. terminated agreements with certain employees and contractors and those individuals entered into contracts with TCP; [13] and
+c. TBCLP exercised an option to pre-pay (and ultimately paid) $78 million to TCP for fees that were payable by TBCLP for the provision of labour services during the three-year term of the Labour Agreement.
+[12] TCP included the $78 million as income, in its taxation year ending February 28, 2011, allocating that income to the partners, TCI and Action partnership, proportionate to their capital accounts (the amounts of $7,799 and $77,992,201, respectively). [14] Of the amount allocated to Action partnership, $99,991 was then allocated to 632 and the remainder, the Amount, was allocated to Action and 298. Action and 298 utilized its other losses and expenses against most of the Amount. [15]
+[13] Subsequently, further steps were taken in restructuring the Group. Examples include the dissolution of Action partnership in July 2011 and it had sold its interest in TCP to THI and TCI Trust in May 2011.
+B. Waiver and Reassessment
+[14] Canada Revenue Agency (“CRA”) sent a letter dated April 14, 2015 to 632, in which the CRA auditor (“auditor”) proposed to reassess 632 for 2011 to add additional partnership income in the Amount pursuant to subsection 103(1) pertaining to the allocation of partnership income to Action partnership as a result of the disposal by 632 of the interest it held in TCP (“proposal letter”). [16] The auditor had also prepared and enclosed a draft waiver (“draft waiver”) for 2011. 632’s normal reassessment period for 2011 expired July 6, 2015.
+[15] 632 modified the draft waiver and filed the Waiver, dated May 14, 2015, with CRA.
+[16] CRA officials exchanged emails dated August 6, 2015 in which it was stated that CRA was reluctant to reassess at the Action partnership level because they did not want to adjust income reported by 298 and Action. A few months later, the auditor’s position paper indicated that “the issue under consideration is whether the allocation of partnership income” to Action partnership rather than 632 is reasonable.
+[17] The Minister later issued the Reassessment to 632 pursuant to subsection 103(1), outlined in paragraph 3 of these reasons, and later confirmed same on May 31, 2016.
+II. Pleadings
+A. Notice of Appeal
+[18] 632’s Notice of Appeal identifies the issues to be decided as:
+(a) Can the principal reason for the agreement of the partners of Action LMS LP to share partnership income and losses pro rata, based on the number of units held by each partner, reasonably be considered to be the reduction or postponement of the tax that might otherwise have been or become payable under the Act?
+(b) Is it reasonable in the circumstances to allocate an additional $77,892,210 of partnership income to the Appellant?
+[19] It advanced the position that subsection 103(1) does not apply because the principal reason for the income and loss allocation provision in the Action partnership agreement was to correspond to the partner’s capital contributions, thus cannot reasonably be for the reduction/postponement of tax. Further, there is no reasonable basis for the Minister’s allocation.
+B. Reply
+[20] The respondent’s Reply describes the issue as determination of the share of 632’s income from TCP pursuant to subsection 103(1).
+[21] During examination for discovery, the respondent’s nominee admitted that the Reassessment was based on the application of subsection 103(1) at the TCP level. [17] Subsequently, former respondent counsel provided a “correction/clarification” to 632’s counsel by letter dated December 14, 2017 that CRA had taken a “global approach” and contemplated and applied subsection 103(1) at Action partnership and TCP levels to reallocate the income to 632, rather than to 298 and Action.
+C. Amended Reply
+[22] Ultimately, the respondent filed an amended Reply (the “Amended Reply”) indicating that the transactions engaged in were avoidance transactions. She restated the issue as “whether the Minister correctly determined the share of the Appellant’s income from Action Holding Partnership [Action partnership], as per subsection 103(1) of the Income Tax Act” and pled the transactions engaged in are those to which subsection 103(1) applies. [18]
+[23] The respondent pled that factoring in all the circumstances including those leading to the formation (and subsequent dissolution) of Action partnership and the terms and steps of the Transaction Agreement, it is reasonable to conclude that the principal reason for the agreed allocation to share income between Action partnership’s partners was to reduce or postpone tax otherwise payable by 632. All the circumstances including the anticipation of $78 million of income due to be realized by TCP of which 632 held the interest immediately before the sale of it to Action partnership for $15, the Transaction Agreement, the agreed allocation, and the pre-existing non-capital losses (of Action) and expenses (of 298) to fully absorb the partnership income allocations, supports the Minister’s allocation of the Amount to 632 from Action partnership as reasonable.
+D. Answer to the Amended Reply
+[24] 632’s Answer to the Amended Reply (“Answer”) raised the scope of the Waiver as an issue and articulated additional reasons. Essentially, the respondent is prohibited from advancing the sole (and alternative) argument in the Amended Reply - that subsection 103(1) applies to the income allocation from Action partnership - because the Waiver applied to limit the use of subsection 103(1) at the TCP level; therefore, the Reassessment is outside the scope of the Waiver. Nor, says 632, has she pled any facts or assumptions supporting the issuance of a reassessment beyond the normal reassessment period pursuant to subparagraph 152(4)(a)(i). Alternatively, subsection 103(1) does not apply to the income allocation from Action partnership as the principal reason for this was based on the capital contributions to Action partnership by its partners, not as asserted by the Minister.
+[25] 632 now brings a Rule 58 Motion at stage one.
+III. Rule 58 and related principles
+[26] Under Rule 58, a motions judge first determines at stage one whether a proposed question is appropriate for a preliminary hearing and may set it down for determination at stage two provided the applicant demonstrates the following conditions are satisfied:
+the question must be a question of law, fact or mixed law and fact raised in the pleading or a question as to the admissibility of any evidence be determined before the hearing; [19] and
+may grant an order if it appears that the determination of the question before the hearing may dispose of all or part of the proceeding, result in a substantially shorter hearing, or result in substantial savings in costs. [20]
+[27] If a question is properly framed, all questions would be one of law, fact or mixed law and fact. [21]
+[28] Whether a proposed question is suitable for a Rule 58 determination if only one of two possible outcomes (may result in the potential disposition of the appeal/shorten the hearing or save costs) was discussed in Suncor Energy Inc. v. The Queen, 2015 TCC 210, [2015] TCJ No. 171 [Suncor], Chief Justice Rossiter observed that some cases that had interpreted former Rule 58 had held that a question fails to meet the requirement, now in subsection 58(2), if only one of two possible answers would lead to the desired results. [22]
+[29] In Paletta v. The Queen, 2016 TCC 171, 2016 DTC 1145 [Paletta], Justice Owen highlighted that observation, reviewed the cases, considered the current iteration of Rule 58 anew in the context of the revisions to Rule 58 and found even if one of the possible outcomes in subsection 58(2) was not met, the Rule could still be used as a question should not automatically fail to meet the requirement in that subsection because one possible answer to the question would not lead to one or more of the desired results. [23] Instead, that aspect should be factored into the Court’s consideration of whether it should exercise its discretion to grant such an Order. I concur with the approach. The Court pointed to the broad discretionary language in Rule 58 further supported by subsection 4(1) of the Rules and the general principles set out by the Supreme Court of Canada in Hryniak v. Mauldin, 2014 SCC 7, [2014] 1 SCR 87 [Hryniak], that would have application to Rule 58 applications.
+[30] Even if the conditions in subsection 58(2) are met, I am not compelled to grant an order to proceed to stage two. In deciding whether the Question is appropriate for a Rule 58 determination, I have the discretion to consider other factors, even beyond the conditions in Rule 58, with all the circumstances of the case.
+[31] The principles that have emerged regarding Rule 58 are summarized in Suncor as follows:
+Factual disputes are not an absolute bar to granting such application but remain relevant to a court when considering whether a determination may save substantial time or cost;
+There should never be a dispute as to a material fact underpinning a question of law; [24]
+The test is not whether facts are in dispute but whether there are disputed facts material to a determination of the proposed question; [25]
+Such application should not be a substitute for a hearing (even though evidentiary disputes are now allowed); [26] and
+If the proposed question has no reasonable chance of success, the application should be dismissed. [27]
+IV. Parties’ positions
+[32] 632 asserts that undoubtedly the determination of the Question would be wholly or partially dispositive of the appeal and reduce the costs because if the motions judge at stage two accepted its arguments, the Question would dispose of the appeal. If not, it could not make such arguments again at the hearing of the appeal as the scope of the Waiver would no longer be in issue thus would shorten the appeal and save costs. Therefore, it satisfied the mandatory conditions in Rule 58 and I should exercise my discretion. Its position is, when the Minister added the Amount to 632’s income from Action partnership in 2011, the Minister reassessed outside the scope of the Waiver and relied on transactions not specified in the Waiver. The limitations in the Waiver, renders the Reassessment, firstly, an invalid alternative argument, and secondly, outside the scope of the Waiver. Finally, 632 has a reasonable chance of success regarding the determination of the Question.
+[33] The respondent’s opposition to the Motion is it is not appropriate to proceed to a determination of the Question as the mandatory conditions in Rule 58(2) were not satisfied, I do not have the discretion and even if I did, it would not be in the interests of justice to grant the order sought. Specifically, determination of the Question will not be dispositive of the proceeding nor result in a substantial savings of costs because the evidence to determine it is substantially similar to the evidence that this Court would need to examine if the respondent’s argument is found to fall within the scope of the Waiver. And, 632 seeks to control the manner in which the respondent may acquire and adduce evidence even though she has the onus of proof regarding the terms of the Waiver. As such, it would be unfair and unjust to proceed as the information would be incomplete and the Court would not have the information needed to make its decision. Thusly, a full hearing on viva voce evidence is necessary where the Court can assess the evidence including the parties’ credibility.
+V. Analysis
+[34] With the foregoing conditions and principles in mind, I am to determine whether the Question should proceed for a preliminary hearing pursuant to Rule 58. The Question is stated as follows:
+Is the sole ground in support of the reassessment at issue in this appeal, raised in the Respondent's Amended Reply, beyond the scope of the waiver of the normal reassessment period executed by the Appellant in respect of its December 31, 2011 taxation-year?
+[35] The Waiver 632 filed with CRA states it was:
+… in respect of:
+The application of subsection 103(1) to the taxpayer’s income of $99,991 from the Thomson [sic] Contractors Partnership reported on Schedule 1. [28]
+[36] Since the Question is one of mixed fact and law and is raised in its Answer, clearly 632 satisfied one of the alternative conditions in subsection 58(1) of the Rules. Turning to the application of subsection 58(2) of the Rules.
+A. Does it appear that the Question may be dispositive of the appeal, wholly or partially, or substantially reduce costs?
+[37] The Question essentially asks whether the income allocation to 632 from Action partnership pursuant to subsection 103(1) accords with the terms of the Waiver.
+[38] 632 says that the determination of the Question would save time and reduce costs and the determination of the scope of the Waiver is appropriate in the context of interlocutory applications including a Rule 58 application where the answer to the Question may dispose of its appeal.
+[39] It would argue at stage two that the Minister is prohibited from relying on the sole ground in support of the Reassessment - the application of subsection 103(1) to the income allocation from Action partnership - in accordance with subsections 152(4) and 152(4.01) and the respondent is not permitted to rely on subsection 152(9). This is because the sole ground is beyond the scope of the Waiver as the Waiver limited the use of subsection 103(1) to the TCP level and such ground is reliant on transactions not specified in the Waiver; thus cannot be advanced as an alternative argument by the respondent if other transactions are taken into account. [29]
+[40] In considering if the conditions in subsection 58(2) of the Rules are satisfied in this Motion, it requires me to consider the applicability of subsections 103(1), 152(9), 152(4) and 152(4.01) of the Act to 632’s circumstances.
+[41] When there has been a sharing of partnership income or loss based on an agreement between the partners, subsection 103(1) operates to enable the Minister to revise and allocate the partnership income on a reasonable basis looking at all the circumstances, where the allocation agreed to may reasonably be considered to be principally tax motivated. [30]
+[42] In this Motion, 632 argues that whether subsection 103(1) applies to the income allocation from Action partnership is a separate and distinct question from the Question, which is narrow, as it only requires the Court to determine whether the sole ground is beyond the scope of the Waiver. I disagree.
+[43] To decide if the Reassessment falls within the Waiver, the Court must consider the basis for the Reassessment, the contents of the Waiver and the parties’ intentions in order to then decide if the Reassessment reasonably relates to the terms of the Waiver. The basis for the Reassessment is the application of subsection 103(1) to the income allocation from Action partnership. That subsection was injected into the Waiver, as part of the content, by 632 when it modified/re-formulated and sent the Waiver to CRA.
+[44] My view is that the question - of whether the income allocation (the Amount) from Action partnership as reassessed - is necessarily connected with the Question when determining the scope of the Waiver. Paragraph 34 of the respondent’s written submissions, illustrates how these work in tandem by posing the following questions. She effectively asks what did 632 think it was doing, when it transferred its 99.99% interest in TCP to Action partnership and thus to 298 and Action, if not entering into a series of transactions for the adjustment or postponement of tax as contemplated by subsection 103(1)? Also, what part of those activities did it think that it was referring to in the Waiver, if it purports that allocation of additional income from Action partnership in accordance with its former interest in TCP comes as a surprise, or is unrelated to what it consented to?
+[45] The Question would involve a determination as to whether the transactions/activities in issue involving Action partnership are different from those of TCP, as contended by 632, or if such transaction/activities are related/connected to TCP, as contended by the respondent. If the Court were to find the former, the Reassessment would be outside the scope of the Waiver and the Minister would be limited in reassessing. If the Court were to find the latter, the Reassessment would be within the scope of the Waiver. I will revisit the content of the Waiver as well as address the parties’ intentions shortly.
+[46] As to subsection 152(9), the former iteration of that subsection is the relevant provision that governs 632’s appeal. [31] It read as follows:
+152(9) The Minister may advance an alternative argument in support of an assessment at any time after the normal reassessment period unless, on an appeal under this Act:
+(a) there is relevant evidence that the taxpayer is no longer able to adduce without the leave of the court; and
+(b) it is not appropriate in the circumstances for the court to order that the evidence be adduced.
+[47] The Federal Court of Appeal in Walsh v. Canada, 2007 FCA 222, 2007 DTC 5441 [Walsh], set out the following conditions for the application of subsection 152(9) when advancing an alternative argument:
+1) the Minister cannot include transactions which did not form the basis of the taxpayer's reassessment;
+2) the right of the Minister to present an alternative argument in support of an assessment is subject to paragraphs 152(9)(a) and (b), which speak to the prejudice to the taxpayer; and
+3) the Minister cannot use subsection 152(9) to reassess outside the time limitations in subsection 152(4) of the Act, or to collect tax exceeding the amount in the assessment under appeal. [32]
+[48] In the context of an interlocutory application, the Court in Honeywell Limited v. The Queen, 2006 TCC 325, 60 DTC 3124 [Honeywell], found that subsection 152(9) does not apply where the reassessment exceeds the scope of the waiver. [33]
+[49] 632 submits that the Minister reassessed based on a transaction not specified in the Waiver and the sole ground for the Reassessment is beyond the scope of the Waiver for the normal reassessment period for 2011. It defends its stance based on the principle in Walsh that subsection 152(9) does not allow an alternative argument where amendments to pleadings are beyond the scope of a waiver and reliant on transactions not described in the waiver, thus would preclude such argument in support of the Reassessment except those that relate to the income allocation to TCP. Therefore, it says the Minister is restricted from reassessing 632 in the manner she did because the Waiver refers only to TCP, not Action partnership involving different transactions.
+[50] Again, the respondent’s view is that such transactions/activities were related thus were embodied in the terms of the Waiver such that she properly reassessed by re-allocating the Amount to 632’s income under subsection 103(1) as the Amount flowed from related transactions.
+[51] In Canada v. Anchor Pointe Energy Ltd., 2003 FCA 294, 57 DTC 5512 [Anchor Pointe], the Federal Court of Appeal determined that a new argument flowing from the same transaction is allowed in circumstances where another transaction was related to the transaction at issue. The Minister succeeded in using subsection 152(9) to introduce an additional argument and Anchor Pointe’s argument that the Minister was basing the reassessment on a different transaction was rejected. [34]
+[52] In the present case, if the Court were to determine the transactions were related, it seems to me an alternative argument would be possible as the income allocations would be based on related transactions. Consequently, the income allocations would not be so distinct that the Minister could not rely on subsection 152(9) to support the Reassessment. If the Court were to find that the reassessment is connected with or flows from the matter (transaction) specified in the Waiver, as the respondent suggests, the Waiver would validate such reassessment thus would be within the scope of the Waiver. [35]
+[53] 632 also argued that subsection 152(9) cannot be used to make a reassessment outside the normal reassessment limitation period in subsection 152(4).
+B. Scope of Waiver
+[54] Subsection 152(4) provides that the Minister may not reassess a taxpayer’s income tax after the taxpayer’s normal reassessment period unless certain conditions are met, one being the filing of a waiver in prescribed form on the taxpayer’s behalf. Subsection 152(4.01) provides that where a waiver is filed, the Minister may reassess the taxpayer’s income tax only to the extent that the reassessment can reasonably be regarded as relating to a matter specified in the waiver.
+[55] Subparagraphs 152(4)(a)(ii) and 152(4.01)(a)(ii) read as follows:
+152(4) The Minister may at any time make an assessment, reassessment or additional assessment of tax for a taxation year, interest or penalties, if any, payable under this Part by a taxpayer or notify in writing any person by whom a return of income for a taxation year has been filed that no tax is payable for the year, except that an assessment, reassessment or additional assessment may be made after the taxpayer’s normal reassessment period in respect of the year only if
+a. the taxpayer or person filing the return
+ii. has filed with the Minister a waiver in prescribed form within the normal reassessment period for the taxpayer in respect of the year;
+152(4.01) Notwithstanding subsections (4) and (5), an assessment, reassessment or additional assessment to which paragraph (4)(a), (b), (b.1), (b.3), (b.4) or (c) applies in respect of a taxpayer for a taxation year may be made after the taxpayer’s normal reassessment period in respect of the year to the extent that, but only to the extent that, it can reasonably be regarded as relating to,
+a. where paragraph 152(4)(a) applies to the assessment, reassessment or additional assessment,
+ii. a matter specified in a waiver filed with the Minister in respect of the year; …
+[56] Thus the Minister can assess/reassess outside the normal reassessment period to the extent the reassessment falls within the scope of a waiver where the reassessment reasonably relates to a matter specified in the waiver. [36]
+[57] The respondent has the initial onus of proving that the terms of the Waiver bear a reasonable connection to the adjustment made in the Reassessment. [37]
+[58] 632 suggests that the Minister is attempting to circumvent subparagraph 152(4)(a)(ii) and to read subsection 152(4.01) out of the Act. It says the Waiver must be interpreted narrowly, consistent with the decision in Honeywell. In that case, a Rule 58 application was successfully brought in response to the Minister’s decision to amend pleadings and in which the Court was asked to consider the scope of waiver before examination for discovery was completed.
+[59] The leading authority for the scope of waiver is Solberg v. The Queen, [1992] 2 CTC 208 (FC), 1992 CarswellNat 326 [Solberg]. [38] It established the principle that in determining the basis for a waiver, the parties’ intentions must be ascertained by analyzing the contents of the waiver and in light of the surrounding circumstances including extrinsic evidence which is of import in the interpretation of a waiver. [39] Documentation surrounding the waiver or correspondence, such as a proposal letter, in contemplation of the waiver can provide context to such scope. [40]
+[60] A technical defect will not impair the waiver’s substance and the Court can use common sense to overcome a technicality when examining the relationship between a reassessment and a waiver. [41]
+[61] According to 632, there is no defect in the Waiver and the circumstances show that the parties intentionally drafted the Waiver to limit the Minister to reassessing TCP income, a particular partnership, pursuant to subsection 103(1). This is clear, it says, based on the proposal letter and other documents. [42] Further, the face of the Waiver is consistent with that, clearly showing its scope is similarly limited.
+[62] The respondent contends that “The face of the waiver does not at all suggest that the Appellant thought the Minister’s reassessment under subsection 103(1) should be strictly limited allocation from a single entity.”
+[63] While the face of the Waiver does allow the Minister to reassess 632 under subsection 103(1) regarding an amount from TCP income, I cannot agree that there is clarity of intention to limit the Minister in reassessing. It is not apparent from the proposal letter or the Waiver. 632’s submission disregards the content of the draft waiver, attached to the proposal letter that is also part of the contextual surrounding circumstances as to scope. The language in the draft waiver is indicative of not hemming in such allocation to a single entity. It describes “Partnership income” generically and is bereft of any mention of TCP or Action partnership.
+[64] Further, the Waiver appears to suffer from a discrepancy. At this juncture, it bears repeating the language in the Waiver which states “…The application of subsection 103(1) to the taxpayer’s income of $99,991 from the Thomson [sic] Contractors Partnership reported on Schedule 1.” This refers to income from TCP. Yet, as the respondent points out, at paragraph 17 of her written submissions, “The ‘Thompson Contractors Partnership’ is Labour Partnership [TCP]. However, the $99,991 of income reported on Schedule 1 would have been the $99,991 amount allocated to the Appellant [632] from Holding Partnership [Action partnership], which first flowed from Operating Partnership [TBCLP] to Labour Partnership.” [43] Both aspects run counter to 632’s submission regarding clarity of intention to limit the Reassessment. [44] Information as to the change in content between the draft waiver and when the Waiver was executed by Larry Thompson and the events leading up to that, has not been placed before the Court.
+[65] In my view “[a]n interpretation of the intention of the parties is a matter which should be dealt with in the context of a trial where viva voce evidence can be heard and the credibility of witnesses can be assessed” and the surrounding circumstances as to the Waiver situated with an understanding of the underlying transactions and adjustments. [45] Such determination cannot be made in a factual vacuum and necessitate an examination and analysis of such circumstances in order to properly determine the Question to decide if a reasonable relationship existed between the Reassessment and the terms of the Waiver. [46]
+[66] 632 submits that there are virtually no disputed facts material to the determination of the Question. Facts regarding the transactions at issue for TCP and Action partnership it says are admitted in the pleadings. Admittedly, the parties have acknowledged many of the transactions described did occur. Lacking, however, are facts that are needed as to whether the transactions are different or related and how those fit in within the context of a restructuring. The information presented suggests a complex matter.
+[67] The Court must have a full understanding of the facts and arguments as to why or why not the Amount should be added to 632’s partnership income from Action partnership pursuant to subsection 103(1) plus consider whether such arguments reasonably relate, or not, to the terms of the Waiver having regard to all the circumstances surrounding 632’s execution of the Waiver and the parties’ intentions. Failing that, the Court would have inadequate information to understand the adjustment in the Reassessment to determine if the Reassessment can reasonably be regarded as relating to a matter specified in the Waiver.
+[68] Evidence required to determine the Question, in my view, is substantially similar to the evidence that this Court would need to examine at trial if the Rule 58 is not dispositive and the respondent’s argument was found by the Court to fall within the scope of the Waiver.
+C. Control of evidence
+[69] 632 submits that its situation is indistinguishable from any of the parties in other cases dealing with the scope of waiver in the context of an interlocutory application. Specifically, the decision in Rio Tinto Alcan Inc. v. The Queen, 2016 TCC 31, 2016 DTC 1033 [Rio Tinto], is closely aligned with its situation in which this Court allowed a Rule 58 application to proceed in circumstances where it had challenged the Minister’s ability to issue a reassessment beyond the normal reassessment period not covered by the waiver in issue. [47]
+[70] Unlike the present case, Rio Tinto involved a question of law to be applied to known facts where the Court had all the information necessary to make an informed decision and “where the facts surrounding the reassessments have nothing in common with the substantive issue”. The Court noted jurisprudence in which a determination under Rule 58 was not permitted because the disputed facts were related to facts that the trial judge had to determine in any event at the hearing or because the question proposed dealt with facts relating to the merits of the case.
+[71] In the present case, however, the parties disagree on whether all of the facts are known, disagree on intention and contents of the Waiver, including whether the transactions are different or related. The respondent also alleges “other material facts” at paragraph’s 14, 15 a) and b), 16 a) to f) iii) and 17 a) to e) iv) of the Amended Reply, in response to which 632 claimed no knowledge. Again, understanding the facts regarding the substantive issue involving subsection 103(1) to the income allocation out of Action partnership is important for determination of the Question. There are facts in dispute that are material to the Question.
+[72] In Hryniak, the Court observed that, “summary judgment rules are to be interpreted broadly favoring proportionality and expediency” and “a summary judgment is to be granted where the record enables a motions judge to reach a fair and just determination on the merits”. However, an approach that circumscribes the manner in which evidence is introduced is not conducive with a fair and just determination on the merits. [48]
+[73] There has been no opportunity for the respondent to conduct discovery of Larry Thompson, the signatory of the Waiver on 632’s behalf. [49] Clearly, his understanding of the Waiver when he signed it and the underlying transactions would be directly relevant to the Question to assist in the determination of the terms of the Waiver and if those bear a reasonable connection to the adjustment in the Reassessment.
+[74] Given the foregoing and the summary nature of the Motion, it would be unfair, in my view, if 632 was permitted to control the manner in which the respondent may elicit and adduce evidence by utilizing Rule 58. This is especially so since she is tasked with proving that the terms of the Waiver bear a reasonable connection to the adjustment in the Reassessment.
+[75] Consequently, a full hearing with its procedural protections, viva voce evidence and all the circumstances is necessary to provide information to the Court that it would need to make its findings and weigh the evidence to make its decision. It would also position the Court to assess the parties’ credibility, the parties’ intentions and their understanding of the underlying transactions and adjustments in the Reassessment in order to determine if a reasonable relationship exists between the Reassessment and terms of the Waiver.
+[76] It does not appear to me, that proceeding to stage two to answer the Question will substantially shorten the hearing of the appeal or reduce costs. Thus the mandatory conditions in Rule 58(2) have not been met.
+D. Reasonable chance of success
+[77] It is now too late, according to 632, for the respondent to argue subsection 103(1) applies to the income allocation (in the Amount) from Action partnership. 632 drew an analogy between its case and Honeywell in which the Court rejected the amendments to pleadings and concluded the Minister was bound by the terms of the waiver given and accepted by the Minister. The Waiver, it asserts, was a direct response to the sole reassessing position in the proposal letter and other documents and the Minister accepted the Waiver, therefore, is bound by the terms as between her and 632 and the bargain struck. [50]
+[78] A reassessment can reasonably be regarded as relating to the terms of the waiver if the evidence shows that the taxpayer was not surprised by the basis of the reassessment or if the basis of the reassessment was known to both parties. [51] If it could be said that 632 was surprised by the adjustment to its 2011 income in the Reassessment under appeal, that argument could have merit.
+[79] CRA’s proposal letter, however, sent to 632 a few months before the normal reassessment period was to expire and before the Waiver was signed, particularizes the adjustments proposed and basis for those. It speaks to reassessing 632 for 2011 for the additional partnership income pertaining to the partnership income allocation to Action partnership as a result of the disposal by 632 of the interest it held in TCP.
+[80] It cannot be said, as 632 appeared to suggest, that the Waiver had been requested by Minister. 632 was provided with the opportunity to send additional information to CRA within 30 days of the letter. The proposal letter emphasized that 632 would only need to file a waiver if it needed more time beyond 30 days to make additional representations and provided the draft waiver as a “convenience” should 632 need that time. [52]
+[81] 632 modified the initial draft waiver, similar to what occurred in the decision in Fagan, such that the Waiver only contemplated TCP income. [53] The proposal letter shows the prospect of a reassessment. Accordingly, 632 would have known how it could be reassessed after the normal reassessment period if it signed the Waiver. I fail to see how 632 could reasonably have been surprised by the adjustment when it received the Reassessment for 2011. Thus if the Question proceeded to a Rule 58 application, it is does not appear that there would be a reasonable chance of success.
+[82] Despite the well-argued Motion by 632’s counsel, I find it would not be appropriate in the circumstances for the Question to proceed to a Rule 58 application at stage two.
+VI. Conclusion
+[83] For these reasons, the Motion is dismissed. Costs shall be in the cause or as otherwise directed by this Court on the disposition of the hearing of the appeal.
+Signed at Edmonton, Alberta, this 17th day of October 2019.
+“K. Lyons”
+Lyons J.
+CITATION:
+2019 TCC 225
+COURT FILE NO.:
+2016-3653(IT)G
+STYLE OF CAUSE:
+632738 ALBERTA LTD. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Edmonton, Alberta
+DATE OF HEARING:
+March 7, 2019
+REASONS FOR ORDER BY:
+The Honourable Justice K. Lyons
+DATE OF ORDER:
+October 17, 2019
+APPEARANCES:
+Counsel for the Appellant:
+Robert A. Neilson and Jeremy Comeau
+Counsel for the Respondent:
+Mary Softley
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Robert A. Neilson and Jeremy Comeau
+Firm:
+Felesky Flynn LLP
+Edmonton, Alberta
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] This partnership is named TCP Labour Partnership and is interchangeably described by the parties as Labour Partnership or TCP partnership.
+[2] Written Submissions of the Appellant, Affidavit of Vicky Mac, Tab 2, Exhibit “B”. Notice of Reassessment dated October 13, 2015. The Amount is in addition to the $99,991 that 632 reported as partnership income.
+[3] Specifically, the formation (and subsequent dissolution) of Action partnership, its acquisition of 632’s interest in TCP and the agreed allocation; these and other transactions contemplated in an agreement were undertaken in anticipation of the $78 million of income due to be realized by TCP in which 632 had held the interest immediately before selling the interest to Action partnership for $15. Paragraph 14 of the Amended Reply corrects the Minister’s previous assertion, and states that 298 had $3,811,852 in scientific research and experimental development expenditures from earlier taxation years to assist in absorbing the partnership income allocated to it.
+[4] Paragraphs 18 to 24.
+[5] Mr. Thompson owned all of the issued and outstanding shares of 632. 632 and TCI have December 31 taxation year ends. TCI Employee Trust (“TCI Trust”) is an inter vivos discretionary trust that is resident in Canada for income tax purposes. The trustee is 1312763 Alberta Ltd. and Mr. Thompson is the sole beneficiary.
+[6] Each of 632, TCI, TBCL, BCL and THI is a “Canadian-controlled private corporation” as defined in subsection 125(7) of the Act.
+[7] The respondent characterizes TBCLP as the Operating partnership, Action partnership as the Holding partnership and the two corporations as the Loss corporations.
+[8] Between January 31, 2011 to July 11, 2011, the Group structure is depicted in the charts in Exhibit “A” to the Affidavit of Rose MacLean in support of the respondent’s position.
+[9] TCP’s purpose was to carry on the business of providing labour and management services in earth moving, highway, construction and oils sands construction industries. The respondent characterizes TBCLP as the Operating partnership, Action partnership as the Holding partnership and the two corporations as the loss corporations.
+[10] According to 632, Action partnership contributed $150,000 to TCP. After this, there was a capital account balance of $150,015 in TCP of which TCI’s balance was $15.
+[11] Action and 298 each made an initial capital contribution of $96,300, in exchange for 96,300 units, and $53,700, in exchange for 53,700 units, in the capital of Action partnership on February 14, 2011.
+[12] Labour Supply and Labour Management Agreement. TCP labour services consisted of on-site management, heavy equipment operators, mechanical repair, shipping and packing, drivers, servicing, surveying and welding.
+[13] Construction workers, administrative personnel and human resource consultants.
+[14] Action partnership income was allocable to its taxation year ending February 28, 2011.
+[15] Paragraph 14 of the Amended Reply corrects the Minister’s previous assertion, and states that 298 had $3,811,852 in scientific research and experimental development expenditures from earlier taxation years to assist in absorbing the partnership income allocated to it.
+[16] Affidavit of Vicky Mac, Exhibit “D”, letter of April 14, 2015 from Melinda Pillay, CRA auditor in Aggressive Tax Planning.
+[17] Affidavit of Vicky Mac, Exhibit “C”, Excerpt of transcript of examination of auditor, October 2017 transcript.
+[18] 632 initially opposed the respondent’s motion to amend her Reply and later consented to its filing the Amended Reply but maintained that the Waiver applied to limit the use of that subsection to TCP income. 632 describes this interchangeably as the “alternative argument” and the sole argument.
+[19] Subsection 58(1) of the Rules.
+[20] Subsection 58(2) of the Rules.
+[21] Suncor Energy Inc. v. The Queen., 2015 TCC 210, [2015] TCJ No. 171.
+[22] Suncor, supra at para 29.
+[23] Paletta, supra at paras 20 to 25 aff’g 2017 FCA 33. See also Cougar Helicopters v. The Queen, 2017 TCC 126.
+[24] HSBC Bank Canada v. The Queen, 2011 TCC 37.
+[25] Devon Canada Corp v. The Queen, 2013 TCC 4.
+[26] McIntyre v. The Queen, 2014 TCC 111 at para 27. See also McCartie v. The Queen, 2018 TCC 185 at para 18.
+[27] Sentinel Hill Productions IV Corp. v. The Queen, 2014 FCA 161.
+[28] Affidavit of Vicky Mac, Exhibit “A”, Waiver.
+[29] 632 would further argue that the Minister has not pled facts or assumptions supporting the issuance of a Reassessment beyond the normal reassessment period pursuant to subparagraph 152(4)(a)(i), which is undisputed, and that the Minister deliberately chose to reassess 632 in respect of income allocation from TCP only with knowledge of all the transactions that occurred and all the relevant facts, which is disputed, such that the reassessing position for the Reassessment is consistent with the scope of the Waiver.
+[30] A partner’s income/loss is computed first at the partnership level and then allocated to the partner consistent with the partners shares in the partnership; the allocation is typically in the partnership agreement.
+[31] 632’s notice of appeal was filed on August 26, 2016. Shortly after, the wording in subsection 152(9) was revised.
+[32] Walsh, supra at para 18.
+[33] The Queen v. Honeywell Ltd., 2007 FCA 22, at paras 32-33. Scope of waiver has been determined during interlocutory motions in other cases: Walsh, Holmes v. The Queen. 2005 TCC 403 [Holmes].
+[34] Anchor Pointe, supra at paras 13, 28-40. The additional argument was to “support exactly the same amount of tax liability flowing from the same [transaction].”
+[35] Fagan v. The Queen, 2011 TCC 523, 2012 DTC 1139 [Fagan], at paras 36, 40 and 48. In Fagan, the Court discussed Pedwell v. The Queen, 2000 DTC 6405, 2000 CarswellNat1131 (FCA) [Pedwell], in which the Court in Pedwell discussed taxation as being transaction-based or perhaps deemed transaction based and how the assessment must reflect that in terms of the scope of the assessment, para 24.
+[36] Honeywell Ltd. v. The Queen, 2006 TCC 325.
+[37] Fietz v. The Queen, 2011 TCC 493 at para 40, citing Solberg v. Canada, [1992] 2 CTC 208 (FCTD) [Solberg]. Remtilla v. The Queen., 2015 TCC 200 at para 36 [Remtilla], citing Noran West Developments Ltd. v. The Queen, 2012 TCC 434 at para 74. Determining a taxpayer’s intention in the context of waiver is the objective reasonable bystander standard.
+[38] In Solberg, even though the waiver referred to Part III of the Act, the Court found it could justify a reassessment issued under Part I because the reference to Part III was erroneously inserted and a technical defect thus did not invalidate the waiver.
+[39] A waiver is not a contract whose interpretation must exclude extrinsic evidence. Anand v. The Queen, 2019 TCC 119, discusses the interpretation of a contract and the parol evidence rule which typically prevents the use of extrinsic evidence for interpretation except where it is in the context of the Court interpreting a contract to determine a dispute between the Minister and one of the parties.
+[40] A proposal letter provided context in Fietz. See Remtilla at para 34, citing Fietz.
+[41] Fagan at paras 37 to 39. In Chafetz v. The Queen., 2005 TCC 803 [Chafetz], the Court used common sense to determine a waiver was made with respect to the contemporaneous terms thus valid with respect to the 1992 and 1993 tax years but it referred to a term that only applied before 1975 rather than the contemporaneous terms.
+[42] Solberg, supra at paras 13-15. 632 also sought to distinguish its application from cases where the Minister was allowed to reassess outside the scope of waiver on the bases both parties had the same intention regarding the Waiver and the appellant did not intend to deceive the Minister: Chafetz, supra at paras 17-19 and Gramiak v. The Queen, 2015 FCA 40 at para 41, respectively.
+[43] Written Submissions of the Respondent, para 17.
+[44] The Minister’s stated intent is to reassess 632 for income related to revenue flowing through TCP which was redirected through Action partnership which initially flowed from TBCLP.
+[45] Hyundai Auto Canada Inc. v. The Queen, [1997] 2 CTC 88, 1996 CarswellNat 2090 at para 9.
+[46] In Viterra Inc. v. The Queen, 2018 TCC 29, [2018] GSTC 13, it claimed the Minister considered different transactions than the ones in the original reassessment. The Court found that distinguishing the transactions required an examination of the surrounding circumstances in a trial setting as the relationship between the transactions could not be determined in a factual vacuum in a Rule 58 application. Paras 34, 35, 42-46.
+[47] Rio Tinto, supra at paras 62, 74-87, 91-93.
+[48] Paletta wanted to resolve a limitations issue as to whether a misrepresentation attributable to neglect, neglect, carelessness, or wilful default on a Rule 58 application. The Court accepted the respondent’s argument that the summary nature of the application would unfairly control the evidence.
+[49] 632’s nominee was not sufficiently knowledgeable which resulted in a motion brought by the respondent, and was granted, to remove its nominee and have Larry Thompson appointed. Court Order dated February 14, 2018 extended time to conduct discovery and satisfy undertakings.
+[50] The Queen v. Honeywell, 2007 FCA 22, at para 32. When given by a taxpayer and accepted by the Minister a Waiver “gives rise to a bargain of sorts”, A waiver is a compromise between a taxpayer and the Minister, where the taxpayer waives the ability to rely on the regular limitation period for reassessment, and the Minister works with the taxpayer with the objective of reassessing more thoroughly, carefully and accurately affording extra time to complete the reassessment.
+[51] See Fagan. See also Chafetz, supra at para 27, Walsh, supra at paras 8 and 18, and Mah v. The Queen, 2003 TCC 720 at para 18.
+[52] In early April 2015, before the proposal letter was sent, communications between the auditor and another CRA official indicate it was proposed subsection 103(1) would be CRA’s only position but no entity was specified which seems to accord with the draft waiver.
+[53] The Court found in Fagan that the change in wording was intended to limit the Minister from reassessing expenditures that were renounced by a company that was involved with the joint venture in the waiver and it was intended to take advantage of a technicality. However, since it was known by both parties that the real substance of the Minister’s challenge was the deductions taken by the investors in the scheme, the waiver was valid.

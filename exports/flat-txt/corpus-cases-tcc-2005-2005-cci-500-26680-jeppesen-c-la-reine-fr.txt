@@ -1,0 +1,149 @@
+Title: Jeppesen c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26680/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-500-26680-jeppesen-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2005-08-10
+
+# Jeppesen c. La Reine
+
+- Citation: 2005 CCI 500
+- Decision date: 2005-08-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3523, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jeppesen c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-08-10
+Référence neutre
+2005 CCI 500
+Numéro de dossier
+2003-3117(IT)G
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003‑3117(IT)G
+ENTRE :
+KURT JEPPESEN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Requête entendue à Toronto (Ontario), le 20 juillet 2005
+Devant : L'honorable juge Georgette Sheridan
+Comparutions :
+Avocat de l'appelant :
+Me Franklyn E. Cappell
+Avocate de l'intimée :
+Me Margaret Nott
+________________________________________________________________
+ORDONNANCE MODIFIÉE
+Conformément aux motifs de l'ordonnance modifiés ci‑joints, la requête présentée par l'appelant en vue d'obtenir un jugement prévoyant la communication intégrale en application du paragraphe 82(1) des Règles de la Cour canadienne de l'impôt (procédure générale) est rejetée, les dépens devant suivre l'issue de la cause, et l'ordonnance du juge Bowie, datée du 21 octobre 2004, est modifiée de la façon suivante :
+a) l'appelant doit établir une liste de documents (communication partielle) selon les Règles de la Cour canadienne de l'impôt (procédure générale), la déposer et la signifier à l'intimée au plus tard le 16 septembre 2005;
+b) les interrogatoires préalables doivent être terminés d'ici le 18 novembre 2005;
+c) les engagements doivent être exécutés d'ici le 16 décembre 2005;
+d) les parties doivent communiquer avec le coordonnateur des audiences, par écrit, au plus tard le 13 janvier 2006, pour indiquer à la Cour si l'affaire sera réglée ou non, si elles considèrent qu'il serait avantageux de tenir une conférence de gestion de l'instance ou de tenir une conférence préparatoire à l'audience ou bien s'il y a lieu de fixer une date d'audience. Dans ce dernier cas, les parties peuvent déposer une demande commune pour fixer les temps et lieu de l'audience, conformément à l'article 123 des Règles de la Cour canadienne de l'impôt (procédure générale).
+Signé à Ottawa, Canada, ce 18e jour de novembre 2005.
+« G. Sheridan »
+Le juge Sheridan
+Traduction certifiée conforme
+ce 12e jour de janvier 2007.
+Yves Bellefeuille, réviseur
+Référence : 2005CCI500
+Date : 20051118
+Dossier : 2003‑3117(IT)G
+ENTRE :
+KURT JEPPESEN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L'ORDONNANCE MODIFIÉS
+Le juge Sheridan
+[1] L'appelant, Kurt Jeppesen, interjette appel à l'encontre de la décision rendue par le ministre du Revenu national, concernant les années d'imposition 1996, 1997 et 1998, de refuser certaines déductions demandées pour un logiciel acheté par l'appelant. Dans la présente requête, l'appelant demande les mesures de redressement suivantes :
+[TRADUCTION]
+(i) un jugement, en application du paragraphe 82(1) [Liste de documents (communication intégrale)] des Règles de la Cour canadienne de l'impôt (procédure générale) (les « Règles »), obligeant chaque partie à déposer et à signifier à l'autre partie une liste de tous les documents qui sont ou ont été en la possession, sous le contrôle ou sous la garde de cette partie et qui portent sur toute question en litige entre les parties à l'appel;
+(ii) un jugement, en application de l'alinéa 172(1)b) des Règles, modifiant l'ordonnance du juge E. A. Bowie, datée du 22 octobre 2004 et rendue au terme d'une audience sur l'état de l'instance tenue par conférence téléphonique, pour les fins suivantes :
+a) obliger les parties à déposer et à signifier une liste de documents en application de l'article 82 des Règles de la Cour canadienne de l'impôt (procédure générale),
+b) apporter toute autre modification à l'ordonnance que la Cour estime appropriée;
+(iii) toute autre mesure de redressement que la Cour estime appropriée[1].
+L'historique de la procédure
+[2] L'appelant a interjeté appel à l'égard de ses années d'imposition 1996, 1997 et 1998 le 4 septembre 2003 et la réponse de l'intimée à l'avis d'appel[2] a été dûment déposée. Comme aucune autre étape de la procédure n'avait été abordée par l'appelant, le 21 octobre 2004, une audience sur l'état de l'instance s'est tenue devant le juge Bowie, lequel a ordonné que les parties déposent et signifient une liste de documents (communication partielle) au plus tard le 11 mars 2005, en application de l'article 81 des Règles de la Cour canadienne de l'impôt (procédure générale) (les « Règles »), qu'elles terminent les interrogatoires préalables au plus tard le 31 mai 2005 et qu'elles exécutent les engagements qui en résultent au plus tard le 28 juin 2005.
+[3] Dans une lettre du 21 janvier 2005[3], l'avocat de l'appelant a indiqué à l'avocate de l'intimée qu'il souhaitait qu'il y ait une communication intégrale, en application de l'article 82 des Règles, et qu'il avait l'assurance que l'intimée accepterait sa demande vu [TRADUCTION] « [...] les circonstances de l'affaire, et plus particulièrement en ce qui concerne votre acte de procédure [...] »[4].
+[4] Dans une lettre du 1er mars 2005[5], l'avocate de l'intimée a répondu ce qui suit : [TRADUCTION] « […] nous ne sommes pas d'accord pour procéder selon l'article 82 pour le moment », puis elle a ajouté que [TRADUCTION] « sauf quelques‑uns des documents présentés en preuve dans l'affaire Morley, selon nous, l'intimée ne possède pas beaucoup de documents liés aux questions en litige en l'espèce ou sur lesquels l'intimée à l'intention de se fonder, en dehors des documents que votre client possède déjà ». L'avocate de l'intimée a aussi fourni, comme l'avait demandé l'avocat de l'appelant, le nom du fonctionnaire qui serait probablement proposé pour l'interrogatoire préalable. Elle a également accédé, sans faire d'objection, à la demande de l'avocat que la personne désignée par le ministre soit interrogée en premier.
+[5] L'intimée a signifié sa liste de documents le 10 mars 2005 et l'a déposée le 11 mars 2005, conformément à l'ordonnance rendue au terme de l'audience sur l'état de l'instance. N'ayant rien reçu de l'appelant, l'avocate de l'intimée a écrit à son avocat le 5 avril 2005[6] et le 14 avril 2005[7] pour demander la liste de documents de l'appelant. Dans la deuxième lettre, elle a également avisé l'avocat de l'appelant que, s'il ne fournissait pas sa liste de documents d'ici le 29 avril 2005, l'intimée demanderait, entre autres, le rejet des appels.
+[6] Cela a entraîné des discussions téléphoniques entre les avocats au cours desquelles, selon la lettre de suivi de l'avocate de l'intimée du 4 mai 2005[8], l'avocat de l'appelant a dit qu'il n'avait pas répondu parce qu'il était malade et a indiqué qu'il [TRADUCTION] « […] s'occuperait de [l'établissement de la liste de documents de l'appelant] bientôt ». Dans cette lettre, l'avocate de l'intimée a également mentionné qu'elle craignait que le retard de l'appelant n'altère la capacité de l'intimée de respecter les échéances imminentes de l'ordonnance rendue au terme de l'audience sur l'état de l'instance, ce qui l'a poussée à demander ce qui suit à l'avocat de l'appelant : [TRADUCTION] « […] veuillez donc écrire à la Cour d'ici midi [le 5 mai 2005] pour demander une prorogation du délai pour la fourniture de la liste de documents de l'appelant ainsi que pour la tenue des interrogatoires préalables et l'exécution des engagements ». D'autres conversations téléphoniques ont eu lieu par la suite[9], au cours desquelles l'intimée a finalement été avisée du fait que l'appelant avait l'intention de demander la communication intégrale des documents.
+[7] Dans une lettre du 13 mai 2005, l'avocat de l'appelant a écrit à la Cour afin d'obtenir une date pour l'instruction de la requête relative à l'article 82 et afin d'indiquer que l'avis de requête avait été signifié à l'intimée et qu'il serait déposé à la Cour [TRADUCTION] « sous peu ». Dans une lettre du 16 mai 2005, le coordonnateur des audiences a confirmé que l'audience avait été fixée au 20 juillet 2005 à Toronto. Le 24 juin 2005, l'intimée a déposé un affidavit pour contester la requête, et même si la requête a été signifiée à l'intimée le 13 mai 2005, la Cour n'a reçu la requête de l'appelant ainsi que l'affidavit à l'appui que le 15 juillet 2005, seulement cinq jours avant la date d'audience.
+La requête en communication intégrale
+[8] Dans ce contexte, l'avocat de l'appelant a pressé la Cour de rendre un jugement en application de l'article 82 des Règles, dont voici les dispositions pertinentes :
+82(1) Les parties peuvent convenir ou, en l'absence d'entente, demander à la Cour de prononcer un jugement obligeant chaque partie à déposer et à signifier à l'autre partie une liste de tous les documents qui sont ou ont été en la possession, sous le contrôle ou sous la garde de cette partie et qui portent sur toute question en litige entre les parties à l'appel.
+(2) La liste de documents produite conformément au présent article doit décrire, dans des annexes distinctes, tous les documents qui ont trait à une question en litige dans l'appel et qui :
+a) se trouvent en la possession, sous le contrôle ou sous la garde de la partie déposante et à la production desquels elle ne s'oppose pas;
+b) se trouvent ou se sont trouvés en la possession, sous le contrôle ou sous la garde de la partie déposante et à l'égard desquels elle invoque un privilège, avec les moyens qui fondent sa prétention;
+c) se sont déjà trouvés en la possession, sous le contrôle ou sous la garde de la partie déposante, mais ne le sont plus, qu'elle invoque ou non un privilège, avec une déclaration exposant depuis quand et pour quelle raison ils ne se trouvent plus en sa possession, sous son contrôle ou sous sa garde, ainsi que l'endroit où ils se trouvent.
+[...]
+(4) Une liste de documents produite sous le régime du présent article doit être attestée par une déclaration sous serment [...]
+[...]
+Le paragraphe 82(1) des Règles ne mentionne pas les critères sur lesquels la Cour peut se fonder pour prendre la décision d'ordonner la communication intégrale. Les deux avocats ont mentionné ce qui semble être la seule affaire traitant de ce sujet, Fletcher Challenge Investments Inc. c. La Reine[10]. Dans cette décision, soulignant qu'il n'était fait mention d'aucune obligation dans l'article, le juge Mogan a conclu que la Cour devait exercer son pouvoir discrétionnaire en fonction des circonstances de l'espèce et il a en fin de compte refusé d'ordonner la communication intégrale.
+[9] Dans la présente instance, il y a de grandes divergences entre les parties en ce qui concerne les faits et l'application appropriée du droit à ces faits. Selon l'avis d'appel, l'appelant allègue que la décision rendue par le ministre de refuser les dépenses d'entreprise engagées par l'appelant pour acheter un logiciel reposait seulement sur l'hypothèse selon laquelle l'entreprise n'avait pas d'attente raisonnable de profit. Indépendamment de ce qu'il pense du fondement de la décision du ministre, l'appelant devra au moins présenter une preuve prima facie pour réfuter la longue liste d'hypothèses du ministre qui comporte, entre autres choses, les éléments suivants : le logiciel acheté par l'appelant ne [TRADUCTION] « convenait pas à la gestion des affaires »; l'appelant n'a pas exercé d'activité commerciale se rapportant à l'utilisation du logiciel; l'appelant n'a pas effectué des dépenses [TRADUCTION] « en vue d'exploiter son intérêt dans le logiciel de façon prudente et efficace »; ces dépenses n'ont pas été engagées en vue de tirer un revenu d'une entreprise. De plus, le ministre allègue que l'objectif de l'appelant lorsqu'il a acheté le logiciel était vicié, puisqu'il cherchait réellement à obtenir un avantage fiscal. L'avocat de l'appelant a souligné ces allégations, en particulier, pour appuyer sa demande de communication intégrale.
+[10] L'avocat de l'appelant a signalé la mention dans la correspondance de l'intimée des « documents de l'affaire Morley »[11], un appel portant sur les pertes d'une société de personnes relativement à un logiciel. Même s'il a souligné devant la Cour qu'il ne savait pas si le logiciel que l'appelant avait acheté était le même que celui dont il était question dans l'affaire Morley, l'avocat de l'appelant a allégué qu'une communication intégrale permettrait à son client d'avoir accès aux documents que l'intimée avait [TRADUCTION] « recueillis de façon énergique » dans le cadre d'un litige distinct, mais « connexe », de même que d'avoir la possibilité de contre‑interroger la personne désignée par l'intimée au sujet de la déclaration sous serment faite en vertu du paragraphe 82(4). Selon l'avocat de l'appelant, les actes de procédure de l'intimée et la mention de l'affaire Morley dans sa correspondance ont ensemble pour effet de mettre en question la crédibilité de l'appelant et de le faire passer pour un « escroc ». Pour s'opposer à la requête de l'appelant, l'avocate de l'intimée a rejeté son allégation selon laquelle, en attaquant la crédibilité de l'appelant, l'intimée avait pour ainsi dire favorisé une demande de communication intégrale. J'accepte l'argument de la Couronne selon lequel la divergence dans les actes de procédure et les questions de crédibilité sont inhérentes à la notion de litige et que cela, en soi, ne suffit pas pour justifier la mesure de redressement demandée par l'appelant.
+[11] L'avocate de l'intimée a également soutenu qu'une ordonnance de communication intégrale retarderait indûment le déroulement de l'instance. Selon l'affidavit de Patrizia Cafaro, un total de 133 heures avait déjà été consacré à l'établissement de la liste de documents de l'intimée, qui comporte quelque 20 pages et 250 éléments. La liste de documents de l'intimée a été déposée le 11 mars 2005, conformément à l'ordonnance rendue au terme de l'audience sur l'état de l'instance. Les noms des principaux intervenants identifiés dans l'affaire Morley, le jugement de 81 pages dont l'avocat de l'appelant a recommandé l'examen par la Cour, figurent assez souvent dans la description des documents se trouvant dans la liste. Malgré l'intérêt que l'avocat a affirmé avoir à l'égard des documents liés à l'affaire Morley et malgré le fait qu'il a eu la liste de l'intimée en sa possession pendant au moins deux mois avant de demander qu'une date soit fixée pour la présente requête, la Cour n'a été saisie d'aucun élément de preuve montrant que l'appelant ou son avocat avait examiné la liste. Cela peut bien expliquer le manque de précision des motifs présentés dans la requête de l'appelant.
+[12] L'appelant a la responsabilité de poursuivre son appel, ce qu'il a fait sans grand enthousiasme. Depuis le dépôt des appels de l'appelant, l'instance a avancé en grande partie grâce à la persévérance de l'intimée ou à l'intervention de la Cour. Ce qui est le plus désolant, c'est de voir la nonchalance apparente affichée par l'appelant à l'égard de l'obligation de respecter l'ordonnance rendue au terme de l'audience sur l'état de l'instance. Même s'il a admis que c'est en partie à cause de lui que l'intimée n'a pas pu respecter le délai pour la tenue des interrogatoires préalables et l'exécution des engagements, l'avocat de l'appelant n'a pas expliqué pourquoi son client n'a pas déposé et signifié sa liste de documents en bonne et due forme; il a seulement mentionné brièvement sa maladie et dit quelque chose concernant le fait qu'il [TRADUCTION] « avait été inattentif ». L'affidavit de John L. Parker, déposé pour appuyer la requête de l'appelant, révèle qu'il y a au moins un autre membre du cabinet qui aurait pu remplir les fonctions de l'avocat pendant son absence, ou à défaut de cela, aviser l'avocate de l'intimée et la Cour, à ce moment‑là, que l'appelant avait de la difficulté à respecter l'ordonnance. En fait, de telles mesures n'ont été prises qu'après que la possibilité d'une requête en rejet a été mentionnée à l'appelant lorsque, finalement, la Couronne fut obligée de prendre des mesures préventives en raison des inquiétudes de l'intimée concernant le respect des échéances imminentes de l'ordonnance.
+[13] Compte tenu du peu d'empressement dont l'appelant a fait preuve, de l'inobservation par celui‑ci de l'ordonnance rendue au terme de l'audience sur l'état de l'instance, du fait qu'il n'a pas examiné les nombreux documents qui avaient déjà été déposés par l'intimée conformément à l'ordonnance rendue au terme de l'audience sur l'état de l'instance, du manque de précision concernant la raison pour laquelle les documents fournis sont insuffisants et du fait qu'il est fort probable qu'il y ait d'autres retards, je ne suis pas convaincue que l'appelant a établi de manière raisonnable la nécessité pour la Cour d'exercer son pouvoir discrétionnaire en vertu du paragraphe 82(1) des Règles. Tout en me rappelant le principe général selon lequel il vaut mieux favoriser la communication, quitte à se tromper, plutôt que la non‑communication de documents[12], je ne vois pas comment il pourrait être avantageux pour l'une ou l'autre des parties, à cette étape de l'instance, de leur imposer le fardeau d'une communication intégrale. L'appelant peut présenter une nouvelle demande de communication intégrale, mais, à l'heure actuelle, sa demande est prématurée.
+[14] La requête présentée par l'appelant en vue d'obtenir un jugement prévoyant la communication intégrale en application du paragraphe 82(1) des Règles de la Cour canadienne de l'impôt (procédure générale) est rejetée, les dépens devant suivre l'issue de la cause, et l'ordonnance du juge Bowie, datée du 21 octobre 2004, est modifiée de la façon suivante :
+a) l'appelant doit établir une liste de documents (communication partielle) selon les Règles de la Cour canadienne de l'impôt (procédure générale), la déposer et la signifier à l'intimée au plus tard le 16 septembre 2005;
+b) les interrogatoires préalables doivent être terminés d'ici le 18 novembre 2005;
+c) les engagements doivent être exécutés d'ici le 16 décembre 2005;
+d) les parties doivent communiquer avec le coordonnateur des audiences, par écrit, au plus tard le 13 janvier 2006, pour indiquer à la Cour si l'affaire sera réglée ou non, si elles considèrent qu'il serait avantageux de tenir une conférence de gestion de l'instance ou de tenir une conférence préparatoire à l'audience ou bien s'il y a lieu de fixer une date d'audience. Dans ce dernier cas, les parties peuvent déposer une demande commune pour fixer les temps et lieu de l'audience, conformément à l'article 123 des Règles de la Cour canadienne de l'impôt (procédure générale).
+Les présents motifs de l'ordonnance modifiés remplacent les motifs de l'ordonnance du 10 août 2005.
+Signé à Ottawa, Canada, ce 18e jour de novembre 2005.
+« G. Sheridan »
+Le juge Sheridan
+Traduction certifiée conforme
+ce 12e jour de janvier 2007.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2005CCI500
+NO DU DOSSIER DE LA COUR : 2003‑3117(IT)G
+INTITULÉ DE LA CAUSE : KURT JEPPESEN c. LA REINE
+LIEU DE L'AUDIENCE : Toronto (Ontario)
+DATE DE L'AUDIENCE : Le 20 juillet 2005
+MOTIFS DE L'ORDONNANCE
+MODIFIÉS PAR : L'honorable juge Georgette Sheridan
+DATE DE L'ORDONNANCE
+MODIFIÉE : Le 18 novembre 2005
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Franklyn E. Cappell
+Avocate de l'intimée :
+Me Margaret Nott
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l'appelant :
+Nom : Me Franklyn E. Cappell
+Cabinet : Cappell Parker
+Toronto (Ontario)
+Pour l'intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa (Ontario)
+[1] Paragraphe 2 de l'avis de requête de l'intimée.
+[2] Modifiée sur consentement le 11 mai 2005.
+[3] Pièce « B » annexée à l'affidavit de John L. Parker appuyant la requête de l'appelant.
+[4] Ces mêmes mots constituent les motifs invoqués à l'appui de la requête de l'appelant visant à obtenir la communication intégrale.
+[5] Pièce « C » annexée à l'affidavit de Patrizia Cafaro appuyant l'opposition de l'intimée à la présente requête.
+[6] Pièce « D » annexée à l'affidavit de Patrizia Cafaro.
+[7] Pièce « E » annexée à l'affidavit de Patrizia Cafaro.
+[8] Pièce « F » annexée à l'affidavit de Patrizia Cafaro.
+[9] Pièce « G » annexée à l'affidavit de Patrizia Cafaro.
+[10] no 96‑3693(IT)G, 1er avril 1998, [1998] A.C.I. no 250
+[11] Pièce « C » annexée à l'affidavit de Patrizia Cafaro. L'avocat de l'appelant a mentionné à la Cour trois décisions rendues par la Cour canadienne de l'impôt à l'égard de David Morley : Morley c. Sa Majesté la Reine, 2003 CCI 389 (le juge Beaubier, requête préalable au procès); Morley c. Sa Majesté la Reine, 2004 CCI 280 (le juge Archambault, appel sur le fond); Morley c. Sa Majesté la Reine, 2004 CCI 700 (le juge Archambault, dépens).
+[12] Everest & Jennings Canadian Ltd. c. Invacare Corporation, [1984] 1 C.F. 856 (C.A.F.); Boxer and Boxer Holdings Ltd. v. Reesor, et al, (1983) 43 B.C.L.R. 352 (C.S.C.‑B.); Algonquin Mercantile Corporation v. Dart Industries Canada Ltd., 79 C.P.R. (2d) 140 (C.F. 1re inst.).

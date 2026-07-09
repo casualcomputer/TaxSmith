@@ -1,0 +1,149 @@
+---
+title: "Parent c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28050/index.do"
+last_modified: "2007-05-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 608"
+citation2: ""
+neutral_citation: "2007 CCI 608"
+decision_date: "2007-05-29"
+language: "fr"
+item_id: "28050"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1570
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:38:09.979000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "86804c799814f807281b9527faf9f3e7ecf6e4903108c3fd1ea69fcaa74288dd"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Parent c. La Reine
+
+- Citation: 2007 CCI 608
+- Decision date: 2007-05-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1570, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Parent c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-05-29
+Référence neutre
+2007 CCI 608
+Numéro de dossier
+2006-3284(IT)I
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-3284(IT)I
+ENTRE :
+CÉLINE PARENT,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 29 mai 2007, à Québec (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocate de l'intimée :
+Me Christina Ham
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2004 est rejeté, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 24e jour d'octobre 2007.
+« Alain Tardif »
+Juge Tardif
+Référence : 2007CCI608
+Date : 20071024
+Dossier : 2006-3284(IT)I
+ENTRE :
+CÉLINE PARENT,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit d'un appel relatif à l'année d'imposition 2004 en vertu de la Loi de l'impôt sur le revenu (la « Loi »). L'appelante a versé, à titre d'honoraires, la somme de 1 810 $ à un naturopathe, somme qu'elle voulait déduire à titre de frais médicaux, ce que l'intimée lui a refusé.
+[2] La question en litige consiste à déterminer si, pour l'année en question, le ministre du Revenu national (le « ministre ») était justifié de refuser à l'appelante le droit de déduire la somme de 1 810 $ aux fins du calcul du crédit d'impôt pour frais médicaux de l'année d'imposition 2004.
+[3] Pour établir et ratifier la nouvelle cotisation datée du 15 novembre 2005, à l'égard de l'année d'imposition 2004, le ministre a tenu pour acquis les mêmes faits, à savoir :
+a) l'appelante, résidente de la province de Québec, a réclamé, à l'égard de frais médicaux pour l'année d'imposition 2004, une somme de 1 810 $ qu'elle aurait payée à un naturopathe pour des services rendus dans la province de Québec;
+b) le ministre a refusé cette somme parce que les frais payés à un naturopathe ne constituent pas des frais médicaux admissibles; en effet, les naturopathes ne sont pas des médecins autorisés à exercer par la législation de la province de Québec.
+[4] Les faits ne font l'objet d'aucune contestation et sont très simples; essentiellement un montant d'honoraires de 1 810 $ a été payé à un naturopathe et l’appelante voudrait déduire cette somme à titre de frais médicaux.
+[5] Or, l'appelante a demandé à la Cour, séance tenante, d'inclure ou d'associer à son appel des demandes de déduire pour les années d'imposition postérieures à l'année 2004 où il semble que les montants en cause soient plus importants.
+[6] Une telle demande est évidemment irrecevable. La compétence de la Cour canadienne de l’impôt se limite à confirmer, à modifier ou à annuler une cotisation. Ainsi, dans un premier temps, une cotisation doit avoir été établie; de plus, la cotisation doit, en principe, avoir fait l’objet d’un avis d’opposition suivi d'une décision et la date à laquelle est rendue cette décision constitue le commencement du délai pour initier un appel devant la Cour.
+[7] La demande de l’appelante est donc irrecevable puisque l'appelante n'a pas encore reçu sa cotisation. Quant à son appel, l'appelante a essentiellement repris le contenu de son avis d'appel. Je reproduis d'ailleurs la partie principale de son avis d'appel :
+[. . .]
+Au greffier de la Cour, je désire faire appel à la Cour canadienne de l'impôt suite à la décision de l'Agence du Revenu du Canada dans sa lettre recommandée du 18 septembre 2006 concernant leur refus de considérer à titre de frais médicaux admissibles les montants d'honoraires versés à un naturopathe pour un montant de 1 810,00$ pour des raisons que je considère injustes.
+1. Les naturopathes exerçant au Québec font partis d'une association professionnelle reconnue au sein du régime de santé du Québec.
+2. Les compagnies d'assurance de personne du Québec acceptent de défrayer en partie les honoraires versés aux naturopathes faisant partis de l'association professionnelle au Québec.
+3. Les honoraires versés aux naturopathes de l'association professionnelle du Québec sont reconnus à titre de frais médicaux admissibles dans la déclaration d'impôts du Québec mais non dans la déclaration de l'Agence de revenu du Canada.
+4. Selon l'Agence du revenu du Canada, les honoraires versés pour les naturopathes exerçant en Ontario, sont admissibles dans la déclaration d'impôt de Revenu Canada. Ce qui porte préjudice aux contribuables Québécois par l'Agence du revenu du Canada.
+5. Selon l'Agence du revenu du Canada si un naturopathe qui pratiquait en Ontario, venait exercer sa profession au Québec, les frais d'honoraires de ce naturopathe (Ontario) ne seraient même pas déductibles par Revenu Canada, ce qui est inéquitable.
+6. J'ai produits tous les relevés d'honoraires versés à un naturopathe dans ma déclaration d'impôts de Revenu Canada pour ma déclaration 2004 et Revenu Québec se réfère à l'Agence du revenu du Canada pour les pièces justificatives relativement aux frais médicaux. C'est impensable un tel imbroglio.
+7. Je pense qu'il n'était pas dans l'intention du Législateur canadien de pénaliser les contribuables d'une province (Québec) au détriment d'une autre province telle l'Ontario.
+8. L'interprétation et l'application des articles 118.2(1) et 118.2(2) de l'Agence du revenu du Canada est inéquitable et vient pénaliser les contribuables québécois.
+[. . .]
+[8] L'accréditation quant au statut ou la reconnaissance des attributs requis pour faire partie ou non de telle ou telle catégorie professionnelle sont exclusivement de compétence provinciale.
+[9] Pour obtenir une telle reconnaissance ou pour recevoir une telle accréditation, il est souvent nécessaire d'entreprendre de longues et ardues démarches; les intérêts opposés étant nombreux et puissants, cela entraîne souvent des délais considérables. Chose certaine, il est manifeste que les approches et les conceptions évoluent souvent à la suite de revendications soutenues et dynamiques.
+[10] Je ne crois pas que la Cour a un rôle à jouer en ce qui concerne quelque processus que ce soit devant conduire à un changement d'attitude, et tout particulièrement dans des domaines où la Cour n'a pas de compétence, ni d'expertise pour tirer quelque conclusion que ce soit.
+[11] C'est aux personnes et aux groupes concernés qu'il incombe de faire cheminer leur projet de reconnaissance professionnelle jusqu'au jour où les dispositions de la Loi de l'impôt sur le revenu en question seront modifiées.
+[12] En d'autres termes, la Cour canadienne de l'impôt n'a carrément pas compétence pour décréter si telle ou telle discipline ou pratique devrait faire ou non partie de telle ou telle catégorie professionnelle.
+[13] Non seulement la Cour canadienne de l'impôt ne peut pas s'ingérer dans les questions de reconnaissance ou d'accréditation des professionnels qui se consacrent à la recherche de solutions aux nombreux problèmes de santé, elle doit faire attention de ne pas prendre de décisions qui seraient de nature à constituer une ingérence indirecte et qui seraient très vite récupérées par tel ou tel groupe de pression.
+[14] En l'espèce, même si les observations de l'appelante sont fort séduisantes et même si ses évaluations quant à son mieux‑être sont fort positives à la suite des traitements reçus ou des recommandations soumises, je ne peux faire droit à son appel.
+[15] En effet, l'appelante et son représentant ont soumis que le naturopathe, à qui les honoraires qu'elle chercher à déduire ont été versés, était qualifié et compétent. Elle a affirmé que, grâce aux soins du naturopathe, sa santé s'est grandement améliorée. Je ne peux, simplement à partir d'une telle affirmation, conclure que les soins professionnels en question sont déductibles en vertu de la Loi de l'impôt sur le revenu.
+[16] D'autre part, l'argument voulant que les naturopathes bénéficient d'une reconnaissance tacite étant donnée l'absence de procédure pénale pour pratique illégale de la médecine par le Collège des médecins ne confère en aucune façon un droit à l'appelante de déduire les honoraires en question.
+[17] L’appelante a investi beaucoup d’énergie à préparer son dossier. Ses arguments sont certes fort attrayants, mais ils ne sont pas plaidés devant la bonne assemblée.
+[18] Je me dois de reprendre les observations communiquées, séance tenante, à savoir que la Cour n'a pas compétence pour légiférer que sa seule compétence est de vérifier si la cotisation a été correctement établie suivant les dispositions de la Loi. À cet égard, la cotisation pour la période visée était en tout point conforme aux dispositions de la Loi.
+[19] L'appelante a investi de nombreuses heures à la préparation de son dossier. Elle a d'ailleurs produit une volumineuse preuve documentaire fort intéressante à l'appui de sa démarche.
+[20] À mon grand regret cependant, les arguments soumis, bien que raisonnables et pertinents au niveau des objectifs de la démarche, ne sont pas recevables pour disposer de l'appel.
+[21] En d'autres termes, je dois essentiellement décider du bien‑fondé de la cotisation à partir du droit existant. Je ne peux me substituer au législateur, bien que je puisse déplorer certaines lacunes, notamment en ce qui concerne l'absence d'harmonisation des lois ou règlements en vigueur dans les différentes provinces canadiennes.
+[22] Sur le fond de la question, la décision que je rendais le 5 octobre 2005 dans l'affaire Denis Roy c. la Reine, dossier 2004-1417(IT)I est toujours valable.
+[23] Pour toutes ces raisons, l'appel est rejeté.
+Signé à Ottawa, Canada, ce 24e jour d'octobre 2007.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2007CCI608
+Nº DU DOSSIER DE LA COUR : 2006-3284(IT)I
+INTITULÉ DE LA CAUSE : CÉLINE PARENT ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Québec (Québec)
+DATE DE L’AUDIENCE : le 29 mai 2007
+MOTIFS DU JUGEMENT PAR : L'honorable juge Alain Tardif
+DATE DU JUGEMENT : le 24 octobre 2007
+COMPARUTIONS :
+Pour l'appelante :
+L'appelante elle-même
+Avocate de l'intimée :
+Me Christina Ham
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l'appelante :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

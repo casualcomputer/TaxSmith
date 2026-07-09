@@ -1,0 +1,128 @@
+Title: 1336440 Ontario Limited c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/98045/index.do
+Corpus path: corpus/cases/tcc/2014/2014-cci-302-98045-1336440-ontario-limited-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2014-10-08
+
+# 1336440 Ontario Limited c. La Reine
+
+- Citation: 2014 CCI 302
+- Decision date: 2014-10-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5180, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+1336440 Ontario Limited c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-10-08
+Référence neutre
+2014 CCI 302
+Numéro de dossier
+2014-1(GST)I
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2014-1(GST)I
+ENTRE :
+1336440 ONTARIO LIMITED S/N CAR CLUB LONDON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 1er octobre 2014, à London (Ontario)
+Devant : L’honorable juge Campbell J. Miller
+Comparution :
+Représentante de l’appelante :
+Mme Liliana Pardo
+Avocate de l’intimée :
+Me Tamara Watters
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi sur la taxe d’accise à l’égard de la taxe sur les produits et services/taxe de vente harmonisée pour la période allant du 1er septembre 2010 au 20 septembre 2010, par l’avis de cotisation no 10302000532310960, daté du 18 janvier 2013, est accueilli et la nouvelle cotisation est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation en tenant pour acquis que, selon la Loi sur la taxe d’accise, il n’y a pas de taxe à payer à l’égard de la Mercedes Benz S550 2007 noire en cause.
+Signé à Ottawa, Canada, ce XXe jour d’octobre 2014.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 20e jour de novembre 2014.
+Marie-Christine Gervais, traductrice
+Référence : 2014 CCI 302
+Date : 20141008
+Dossier : 2014-1(GST)I
+ENTRE :
+1336440 ONTARIO LIMITED S/N CAR CLUB LONDON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge C. Miller
+[1] 1336440 Ontario Limited exerce ses activités sous le nom London Car Club (le « London Car Club ») et se spécialise dans l’achat et la vente de voitures de luxe d’occasion. L’appel porte sur une de ces voitures, une Mercedes Benz, qui, selon le ministre du Revenu national (le « ministre »), a été fournie par le London Car Club moyennant une contrepartie de 56 500 $ en 2010. Le ministre a par conséquent établi une cotisation au titre de la taxe sur les produits et services/taxe de vente harmonisée (la « TPS/TVH) de 15 % – 8 750 $. Le London Car Club allègue qu’il n’y a pas eu de vente et qu’il n’y a donc pas eu de fourniture assujettie à la TPS/TVH.
+[2] Mme Pardo, directrice au London Car Club, a témoigné pour le compte de la société. Le London Car Club entretient depuis plus de 30 ans une relation avec l’un de ses clients, M. Harris, qui demeure en Nouvelle-Écosse. Mme Pardo a décrit M. Harris (qui a maintenant plus de 80 ans) comme une sorte de père pour l’un des propriétaires du London Car Club, M. El‑Hindi.
+[3] Lors d’une conversation téléphonique ayant eu lieu à l’été 2010, M. Harris a demandé à M. El‑Hindi de lui trouver une Mercedes Benz S550 2007 noire dont l’intérieur était de couleur pâle et le kilométrage, bas. M. Harris a envoyé 56 500 $ au London Car Club, bien que personne ne sût combien il pourrait en coûter pour une telle voiture au final. M. Harris avait, au cours des nombreuses années de sa relation avec M. El‑Hindi, prêté de l’argent au London Car Club pour l’aider dans l’exercice de ses activités. Selon Mme Pardo, les 56 500 $ ont été comptabilisés comme un prêt dans les registres du London Car Club.
+[4] Le London Car Club a trouvé en ligne, à Toronto, ce qu’il croyait être la voiture que M. Harris voulait – une Mercedes Benz S550 2007 portant le numéro d’immatriculation 869196154RT0001 (« la Mercedes Benz »). Par l’entremise du grossiste avec qui il faisait affaire, Executive Auto Sales, le London Car Club a fait l’acquisition de la Mercedes Benz le 26 août 2010. La couleur de la Mercedes Benz a été décrite comme étant opale noire.
+[5] La Mercedes Benz a été expédiée à M. Harris en Nouvelle‑Écosse en septembre 2010. À son arrivée, M. Harris a avisé le London Car Club que ce n’était pas la voiture qu’il voulait, car elle était de couleur bleu foncé et non noire. M. Harris a aidé le London Car Club à prendre les mesures nécessaires pour entreposer la voiture en Nouvelle‑Écosse, chez Bobby Allen Motors, dans l’espoir que le London Car Club pourrait trouver un nouvel acheteur. En octobre 2010, le grossiste, Executive Auto Sales, a transféré l’immatriculation au détaillant, le London Car Club : un prix de 47 600 $ plus la TVH de 6 188 $ figurait sur une facture établie entre les deux sociétés liées. Il n’y a jamais eu de document écrit, d’acte de vente ni quoi que ce soit d’autre entre le London Car Club et M. Harris.
+[6] En septembre, en octobre et en novembre 2010, M. Harris a commandé trois autres voitures au London Car Club, et la somme de 56 500 $ détenue par le London Car Club a été utilisée pour effectuer ces achats.
+[7] Le ministre a établi une cotisation de TVH à l’égard du London Car Club sur les 56 500 $ en tenant pour acquis qu’il s’agissait d’une contrepartie versée pour une fourniture effectuée par le London Car Club à M. Harris. L’appelante soutient qu’il n’y a pas eu de vente et, par conséquent, pas de fourniture.
+[8] Le point de départ de l’intimée est le paragraphe 168(1) de la Loi sur la taxe d’accise (la « Loi »), qui est libellé en ces termes :
+168(1) La taxe prévue à la présente section est payable par l’acquéreur au premier en date du jour où la contrepartie de la fourniture taxable est payée et du jour où cette contrepartie est due.
+[9] L’intimée soutient que la somme de 56 500 $ était la contrepartie de la fourniture de la Mercedes Benz et que la taxe était exigible en septembre 2010. Cela soulève la question de savoir si une fourniture a été effectuée. L’intimée allègue qu’une fourniture a été effectuée en se fondant sur l’article 133 de la Loi, qui est libellé ainsi :
+133. Pour l’application de la présente partie, la fourniture objet d’une convention est réputée effectuée à la date de conclusion de la convention. La livraison du bien ou la prestation du service aux termes de la convention est réputée faire partie de la fourniture et ne pas constituer une fourniture distincte.
+[10] L’intimée soutient qu’au cours de l’appel téléphonique, M. Harris et M. El‑Hindi ont conclu une convention visant la fourniture d’un bien.
+[11] La première question à trancher est de savoir si une convention a été conclue pour la fourniture d’un bien, de sorte que, selon l’article 133 de la Loi, une fourniture est réputée avoir été effectuée. Quelle était la nature de la convention qui aurait été conclue entre M. Harris et le London Car Club? Il ne s’agissait pas d’une convention conclue pour acheter la Mercedes Benz moyennant la somme de 56 500 $. La convention a été conclue pour que le London Car Club trouve une Mercedes Benz S550 2007 noire et en fasse l’acquisition pour M. Harris en contrepartie d’une somme de l’ordre de 56 500 $. Je conclus que la convention ne visait pas à fournir un bien, mais plutôt à trouver un bien, puis, seulement si le bien répondait aux exigences de M. Harris, à le lui fournir. Une telle chose ne s’est jamais produite. Au mieux, deux amis de longue date avaient conclu une entente informelle au cours d’une conversation téléphonique (les détails de cette conversation n’ont pas été fournis, mais, suivant cette entente, le London Car Club devait essayer de trouver une Mercedes Benz S550 2007 noire et M. Harris devait fournir des fonds au London Car Club).
+[12] Même si je concluais qu’il existait une convention, pour que l’article 133 de la Loi s’applique, une convention doit avoir été conclue en vue d’effectuer la fourniture d’un bien. Cela suppose que le bien peut être précisé au moment où la convention est conclue. Comment peut-il y avoir une fourniture, même une fourniture réputée, si le bien ne peut pas clairement être précisé? Rien dans la preuve ne permettait de savoir combien de Mercedes Benz S550 2007 noires avaient été présentées, mais il est peu probable qu’il n’y en ait eu qu’une seule. Non, il n’existait pas de convention entre le London Car Club et M. Harris au moment où M. El-Hindi et M. Harris ont eu une conversation téléphonique au sujet de la fourniture de la Mercedes Benz à M. Harris par le London Car Club, étant donné que, à ce moment‑là, il n’était pas précisé que la Mercedes Benz était le bien visé : le London Car Club n’avait pas de bien à fournir. Je conclus qu’aucune convention n’a été conclue en vue de fournir un bien : il n’y a pas eu de fourniture réputée de la Mercedes Benz.
+[13] S’il n’y a pas de fourniture réputée, j’estime qu’il est nécessaire de trancher la question de savoir si une fourniture a été effectuée. Dans la Loi, le terme « fourniture » est défini de la manière suivante :
+« fourniture » Sous réserve des articles 133 et 134, livraison de biens ou prestation de services, notamment par vente, transfert, troc, échange, louage, licence, donation ou aliénation;
+Bien que cette définition soit formulée de façon générale, je n’ai aucune difficulté à conclure qu’il n’y a pas eu de vente, de transfert, de troc, d’échange, de louage, de licence, de donation ou d’aliénation. Le London Car Club n’a tout simplement pas vendu ou aliéné la Mercedes Benz. Je tire comme conclusion de fait que M. Harris n’a jamais pris possession de la Mercedes Benz : ce n’était tout simplement pas la voiture qu’il voulait. Compte tenu des circonstances, je conclus qu’aucune fourniture n’a été effectuée.
+[14] Si j’avais conclu qu’il y avait une fourniture réputée, la taxe serait-elle exigible en application du paragraphe 168(1) de la Loi au moment où M. Harris a transféré les 56 500 $ au London Car Club? La taxe ne serait exigible que si la somme constituait la contrepartie de la fourniture.
+[15] Il s’agit d’une situation unique en son genre, où il existe une relation de longue date entre le fournisseur et l’acquéreur. Une partie de cette relation consistait en l’octroi de prêts par M. Harris au London Car Club, qui est exploité par son ami, M. El-Hindi. Le London Car Club avait un compte de prêt établi au nom de M. Harris. Lors de la réception de la somme de 56 500 $, l’argent a été comptabilisé dans le compte de prêt. Les fonds n’ont jamais été utilisés pour la Mercedes Benz. En effet, les fonds provenant du compte de prêt ont servi à acheter trois différents véhicules.
+[16] La question de savoir si la somme de 56 500 $ était un dépôt ou un acompte a été débattue à l’instruction. Je conclus qu’elle n’était ni un dépôt ni un acompte. Il n’y avait pas de bien pour lequel les fonds pouvaient être détenus à titre de dépôt ou d’acompte. La meilleure chose à faire, surtout si l’on tient compte de l’historique de la relation entre les parties, était de faire exactement ce que les parties ont fait, soit traiter la somme comme un prêt. Il ne s’agissait pas d’une contrepartie pour la Mercedes Benz. Il n’y a jamais eu de contrepartie exigible en échange de la Mercedes Benz.
+[17] L’avocate de l’intimée m’a ensuite renvoyé au paragraphe 168(3) de la Loi, qui est libellé en ces termes :
+168(3) Par dérogation aux paragraphes (1) et (2), la taxe prévue à la présente section, calculée sur la valeur de tout ou partie de la contrepartie d’une fourniture taxable, est payable le dernier jour du mois qui suit le premier mois où l’un des faits suivants se réalise, dans le cas où tout ou partie de la contrepartie n’est pas payée ou devenue due au plus tard ce jour-là :
+a) s’il s’agit de la fourniture par vente d’un bien meuble corporel, sauf la fourniture visée à l’alinéa b) ou c), la propriété ou la possession du bien est transférée à l’acquéreur;
+b) s’il s’agit de la fourniture par vente d’un bien meuble corporel — le bien étant livré à l’acquéreur par le fournisseur sur approbation, consignation avec ou sans reprise des invendus ou autres modalités semblables —, l’acquéreur acquiert la propriété du bien ou le fournit à une personne autre que le fournisseur;
+c) s’il s’agit d’une fourniture prévue par une convention écrite qui porte sur la réalisation de travaux de construction, rénovation, transformation ou réparation d’un immeuble ou d’un bateau ou autre bâtiment de mer — étant raisonnable de s’attendre dans ce dernier cas à ce que les travaux durent plus de trois mois —, les travaux sont presque achevés.
+[18] À mon avis, cette disposition ne s’applique pas, étant donné qu’il n’y a pas eu de fourniture par vente. Il n’y a pas de convention de vente de la Mercedes Benz, pas d’acte de vente, pas de facture, pas de transfert de la propriété attesté par un transfert de l’immatriculation, pas d’acceptation de la livraison, ni de contrepartie en échange de la Mercedes Benz. Le paragraphe 168(3) de la Loi n’entre pas en ligne de compte.
+[19] Bien que je comprenne pourquoi les représentants de l’Agence du revenu du Canada envisageraient d’appliquer les articles 133 et 168 de la Loi pour conclure que cette opération réputée est assujettie à la TPS, en toute déférence, je conclus qu’il s’agit d’une démarche trop formaliste, qui consiste à tout ramasser sur son passage, et devant laquelle un contribuable, comme le London Car Club, ne peut que secouer la tête tout en se lamentant qu’il n’a jamais vendu la voiture. La TPS repose sur la fourniture de biens ou de services. En termes simples, je conclus que, dans les circonstances, il n’y a pas eu de fourniture, réputée ou autre.
+[20] J’accueille l’appel et je renvoie l’affaire au ministre pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation, étant entendu qu’il n’y a pas de taxe à payer relativement à la Mercedes Benz.
+Signé Ottawa, Canada, ce 8e jour d’octobre 2014.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 20e jour de novembre 2014.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE :
+2014 CCI 302
+NO DU DOSSIER DE LA COUR :
+2014-1(GST)I
+INTITULÉ :
+1336440 ONTARIO LIMITED S/N CAR CLUB LONDON c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+London (Ontario)
+DATE DE L’AUDIENCE :
+Le 1er octobre 2014
+MOTIFS DU JUGEMENT :
+L’honorable juge Campbell J. Miller
+DATE DU JUGEMENT :
+Le 8 octobre 2014
+COMPARUTIONS :
+Représentante de l’appelante :
+Mme Liliana Pardo
+Avocate de l’intimée :
+Me Tamara Watters
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

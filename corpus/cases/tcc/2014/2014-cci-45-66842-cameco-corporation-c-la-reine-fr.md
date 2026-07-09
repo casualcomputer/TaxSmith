@@ -1,0 +1,335 @@
+---
+title: "Cameco Corporation c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/66842/index.do"
+last_modified: "2014-02-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 45"
+citation2: ""
+neutral_citation: "2014 CCI 45"
+decision_date: "2014-02-13"
+language: "fr"
+item_id: "66842"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5954
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:08:17.383000+00:00"
+cases_cited_count: 6
+cases_citing_count: 6
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d006606937a2424d948c36daf1143d815a9473f73474c3096ac0ff4b3258c74f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Cameco Corporation c. La Reine
+
+- Citation: 2014 CCI 45
+- Decision date: 2014-02-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5954, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cameco Corporation c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-02-13
+Référence neutre
+2014 CCI 45
+Numéro de dossier
+2009-2430(IT)G, 2010‑3477(IT)G, 2011‑1909(IT)G, 2012‑3256(IT)G, 2013-3018(IT)G, 2013-3019(IT)G
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 2009-2430(IT)G
+2010‑3477(IT)G
+2011‑1909(IT)G
+2013-3018(IT)G
+2012‑3256(IT)G
+2013-3019(IT)G
+ENTRE :
+CAMECO CORPORATION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requêtes entendues le 12 juin et le 26 septembre 2013,
+à Toronto (Ontario).
+Devant : L’honorable juge en chef Gerald J. Rip
+Comparutions :
+Avocats de l’appelante :
+Me Joseph M. Steiner
+Me Pooja Samtani
+Avocates de l’intimée :
+Me Naomi Goldstein
+Me Elizabeth Chasson
+Me Diana N. Aird
+____________________________________________________________________
+ORDONNANCE
+Vu les requêtes de l’avocate de l’intimée visant à ce que soient rendues des ordonnances :
+1. obligeant l’appelante à signifier des listes de documents, conformément à l’article 82 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles »), dans les dossiers nos 2010‑3477(IT)G, 2011‑1909(IT)G et 2012‑3256(IT)G;
+2. obligeant l’appelante à signifier une liste de documents plus complète dans le dossier no 2009‑2430(IT)G;
+3. obligeant, à titre subsidiaire, la tenue d’un contre‑interrogatoire à l’égard de la liste de documents relative au dossier no 2009‑2430(IT)G;
+4. autorisant l’intimée à commencer l’interrogatoire préalable de l’appelante six mois après la signification des documents et des listes de documents ordonnée par la Cour;
+5. ordonnant la réunion des appels interjetés à l’égard des années d’imposition 2003, 2005 et 2006, en application de l’article 26 des Règles;
+6. ordonnant à l’appelante de supprimer les documents relatifs aux appels qu’elle a interjetés à l’égard des années d’imposition 2004, 2005 et 2006 portant les numéros de référence R‑006976 et R‑006191 dans sa base de données et de les remplacer par des copies caviardées des documents.
+La Cour ordonne que :
+1. Les requêtes relatives aux appels interjetés par l’appelante à l’égard de l’année d’imposition 2004 (dossier de la Cour no 2010‑3477(IT)G), de l’année d’imposition 2005 (dossiers de la Cour nos 2011‑1909(IT)G et 2013‑3018(IT)G), et de l’année d’imposition 2006 (dossiers de la Cour nos 2012‑3256(IT)G et 2013‑3019(IT)G) soient annulées, à l’exception de la requête en réunion des appels présentée par l’appelante à l’égard des années d’imposition 2003, 2005 et 2006, que l’intimée a retirée;
+2. L’appelante signifie une déclaration sous serment et une liste de documents plus complètes, en application de l’article 82 des Règles, dans le dossier de la Cour no 2009‑2430(IT)G concernant l’appel interjeté à l’égard d’une cotisation établie pour l’année d’imposition 2003, et notamment :
+i) la liste de documents devra contenir tous les documents pertinents et essentiels qui se trouvent en la possession, sous le contrôle ou sous la garde de l’appelante, et qui ne sont pas inclus dans la liste de documents antérieurement déposée et signifiée à l’intimée;
+ii) l’appelante devra définir les fondements légaux du caviardage dans les documents inclus à l’annexe « A » de la liste antérieurement déposée et signifiée;
+iii) l’appelante devra décrire tous les documents pertinents et essentiels à l’égard desquels elle a invoqué le secret professionnel de l’avocat dans l’annexe « B » de la liste de documents antérieurement déposée.
+3. L’appelante devra signifier une déclaration sous serment de documents plus complète à l’intimée au plus tard 30 jours après la date de la présente ordonnance ou à toute autre date dont les parties pourraient convenir et que la Cour approuvera sur préavis écrit;
+4. L’intimée commencera l’interrogatoire préalable de l’appelante au plus tard 120 jours après la signification de la déclaration sous serment de documents plus complète, ou à tout autre moment dont les parties conviendront et que la Cour approuvera sur préavis écrit;
+5. Les dépens suivront l’issue de la cause.
+Signé à Ottawa, Canada, ce 13e jour de février 2014.
+« Gerald J. Rip »
+Juge en chef Rip
+Traduction certifiée conforme
+ce 10e jour de juin 2014.
+Mario Lagacé, jurilinguiste
+Référence : 2014 CCI 45
+Date : 20140213
+Dossier : 2009-2430(IT)G
+ENTRE :
+CAMECO CORPORATION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2010-3477(IT)G
+ET ENTRE :
+CAMECO CORPORATION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2011-1909(IT)G
+ET ENTRE :
+CAMECO CORPORATION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2012-3018(IT)G
+ET ENTRE :
+CAMECO CORPORATION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2012-3256(IT)G
+ET ENTRE :
+CAMECO CORPORATION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2013-3019(IT)G
+ET ENTRE :
+CAMECO CORPORATION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge en chef Rip
+Introduction
+[1] Il s’agit de trois requêtes présentées par l’intimée relativement à des appels interjetés par Cameco Corporation (« Cameco ») à l’égard de cotisations établies à son endroit pour les années d’imposition 2003, 2004, 2005 et 2006. Le ministre du Revenu national (le « ministre ») a remis en cause les prix que Cameco a facturés à une ou plusieurs de ses filiales dans le domaine de l’uranium ainsi que les prix qui ont été facturés par ces filiales à Cameco. Les requêtes sont les suivantes :
+a) que soit rendue une ordonnance visant à obtenir une liste de documents plus complète en ce qui a trait à l’appel interjeté à l’égard de l’année d’imposition 2003 et une liste de documents en ce qui a trait aux appels interjetés à l’égard de chacune des années d’imposition 2004, 2005 et 2006 (voir les articles 82 et 88 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles »));
+b) que l’intimée commence l’interrogatoire préalable de l’appelante six mois après la signification des documents et des listes de documents ordonnée par la Cour;
+c) que les appels interjetés à l’égard des années d’imposition 2003, 2005 et 2006 soient réunis, en application de l’article 26 des Règles;
+d) que l’appelante supprime tous les documents relatifs aux appels qu’elle a interjetés à l’égard des années d’imposition 2004, 2005 et 2006 portant les numéros de référence R‑006976 et R‑006191 dans sa base de données et qu’elle les remplace par des copies caviardées des documents.
+[2] Voici les dates des avis de nouvelle cotisation établis à l’égard des années d’imposition 2003, 2004, 2005 et 2006 qui ont fait l’objet d’un appel :
+Année d’imposition
+Date de la nouvelle cotisation
+2003
+17 décembre 2010
+2004
+23 décembre 2010 (ultérieurement remplacée par une nouvelle cotisation)
+2005
+25 juillet 2013 (remplacée)
+2006
+25 juillet 2013 (remplacée)
+[3] Pour m’efforcer d’expliquer les nouvelles cotisations que le ministre a établies ainsi que les appels qui ont été interjetés devant la Cour à l’égard des cotisations établies à l’endroit de Cameco pour les années d’imposition 2003, 2004, 2005 et 2006, je dois imposer au lecteur la liste des cotisations et des appels relatifs à chaque année. La myriade de nouvelles cotisations qui ont été établies a des incidences sur les présentes requêtes :
+a) La nouvelle cotisation du ministre dont a découlé l’avis d’appel de Cameco à l’égard de la cotisation établie à son endroit pour l’année d’imposition 2003 a été établie par un avis daté du 27 février 2009. Cameco a déposé un avis d’opposition à la nouvelle cotisation, et, le 22 juillet 2009, elle a déposé un avis d’appel auprès de la Cour. Le ministre a établi une autre nouvelle cotisation à l’égard de Cameco pour l’année d’imposition 2003 par un avis daté du 17 décembre 2010. L’appelante n’a pas déposé de nouvel avis d’appel à l’égard de la cotisation établie le 17 décembre 2010, mais elle a plutôt déposé un avis d’appel modifié le 25 janvier 2011. Peu de temps après, une réponse à l’avis d’appel modifié a été déposée. Les actes de procédure relatifs à l’appel interjeté à l’égard de l’année d’imposition 2003 sont à présent clos.
+b) Le ministre a établi plusieurs nouvelles cotisations à l’égard de Cameco pour l’année d’imposition 2004, dont les avis sont datés du 18 décembre 2009, du 13 mai 2010, du 19 août 2011, du 16 décembre 2011 et du 23 décembre 2011. Le 16 mars 2010 et le 11 août 2010, Cameco s’est opposée aux nouvelles cotisations datées du 18 décembre 2009 et du 13 mai 2010, respectivement. Le 10 novembre 2010, Cameco a déposé un avis d’appel relatif à la nouvelle cotisation datée du 13 mai 2010. Cameco a alors modifié son avis d’appel en réponse à la nouvelle cotisation datée du 19 août 2011 et, le 15 mars 2012, elle a encore modifié son avis d’appel modifié en réponse à la nouvelle cotisation datée du 23 décembre 2011. Le 26 mars 2012, l’intimée a répondu à l’avis d’appel modifié modifié. Comme son avocate m’en a informé, le ministre a établi une autre nouvelle cotisation à l’égard de Cameco pour l’année d’imposition 2004, annulant ainsi la nouvelle cotisation datée du 13 mai 2010. Cameco s’est opposée à la dernière nouvelle cotisation.
+c) En ce qui a trait aux cotisations établies à l’égard de Cameco pour les années d’imposition 2005 et 2006 : ces cotisations ont été établies par des avis datés du 21 décembre 2010 et du 23 décembre 2011, respectivement. Des avis d’appel à l’égard des nouvelles cotisations établies pour les années d’imposition 2005 et 2006 ont été déposés le 17 juin 2011 et le 13 août 2012, respectivement. Un avis d’appel modifié relatif à l’année d’imposition 2006 a été déposé le 29 août 2012. Le 21 décembre 2012, le ministre a établi une nouvelle cotisation à l’égard des années 2005 et 2006. Le 22 mars 2013, des avis d’opposition pour ces deux années ont été déposés, et les nouvelles cotisations ont été ratifiées par des avis datés du 30 avril 2013. Le 25 juillet 2013, de nouveaux avis d’appel relatifs aux années 2005 et 2006 ont été déposés, et, le 25 septembre 2013, des réponses ont été déposées. Toutefois, lors d’une conférence téléphonique, l’avocat de l’appelante m’a informé que, le 28 décembre 2013, le ministre avait établi une autre nouvelle cotisation à l’égard de sa cliente pour les années 2005 et 2006. Lors de la conférence téléphonique, l’avocat de Cameco nous a informés, l’avocate de la Couronne et moi, que sa cliente déposerait des avis d’opposition aux nouvelles cotisations impayées pour 2005 et 2006. Je m’attends à ce que de nouveaux avis d’appels soient déposés en conséquence.
+[4] Le 21 mars 2013, j’ai rendu une ordonnance sur consentement à l’égard des quatre appels relatifs aux années 2003, 2004, 2005 et 2006 qui étaient en suspens à l’époque, ordonnance aux termes de laquelle, entre autres choses, [traduction] « Les parties prépareront une liste de documents (communication intégrale) conformément à l’article 82 des Règles et signifieront la liste à la partie adverse au plus tard le 30 avril 2013. Les interrogatoires préalables devaient être terminés au plus tard le 30 septembre 2013 et les engagements pris lors des interrogatoires préalables devaient être honorés au plus tard le 29 novembre 2013 ». L’ordonnance a par la suite été modifiée, le 9 août 2013, prévoyant que les interrogatoires préalables seraient terminés le 30 avril 2014 au plus tard.
+[5] Le 12 juin 2013, j’ai entendu la première des trois requêtes de l’intimée, à savoir la requête visant à obtenir une liste de documents plus complète à l’égard de l’appel interjeté pour 2003 et une liste de documents conforme aux exigences de l’article 82 à l’égard des appels interjetés pour 2004, 2005 et 2006.
+[6] Avant que je sois en mesure d’examiner le bien-fondé de chacune des requêtes, Cameco a déposé de nouveaux avis d’appels relativement aux années 2005 et 2006, le 25 juillet 2013. Le ministre avait aussi établi une nouvelle cotisation à l’égard de Cameco pour l’année d’imposition 2004. À l’époque où j’ai entendu les requêtes, le 12 juin 2013, il n’était pas évident que, le 21 décembre 2012, Cameco avait fait l’objet d’autres nouvelles cotisations pour chacune des années d’imposition. Et, le 28 décembre 2013, le ministre a encore une fois établi de nouvelles cotisations à l’égard de Cameco pour les années d’imposition 2005 et 2006.
+[7] Les nouvelles cotisations que le ministre a établies à l’égard de Cameco le 28 décembre 2013 pour les années d’imposition 2005 et 2006 ont remplacé les nouvelles cotisations datées du 21 décembre 2012 qui avaient déjà remplacé les nouvelles cotisations qui avaient été antérieurement établies pour les années 2005 et 2006, qui avaient fait l’objet des premiers appels. En ce qui a trait à l’avis d’appel de la nouvelle cotisation établie à l’égard de Cameco pour l’année d’imposition 2004, une cotisation avait aussi été remplacée par une autre nouvelle cotisation. La question est de savoir si je suis actuellement saisi d’appels relatifs aux années 2004, 2005 et 2006.
+[8] Ce n’est pas le cas. Je renvoie à la décision Abrahams v. M.N.R.[1], dans laquelle le président Jackett, tel était alors son titre, a donné les explications suivantes[2] :
+[traduction]
+À mon avis, si la seconde nouvelle cotisation est valide, elle remplace la première et entraîne donc sa nullité. Le contribuable ne peut pas être assujetti à l’impôt en fonction de la cotisation initiale ainsi que de la nouvelle cotisation. Ce serait différent si une cotisation pour une année donnée était suivie d’une cotisation « supplémentaire » pour cette même année. Cependant lorsque la « nouvelle cotisation » a pour objet d’établir le montant global d’impôt annuel que le contribuable doit payer, et pas seulement un montant d’impôt venant s’ajouter à la première cotisation, la cotisation précédente doit être automatiquement annulée.
+J’estime donc que, compte tenu du fait que la seconde nouvelle cotisation avait été établie, la Cour ne pouvait accorder aucune réparation à l’égard de l’appel relatif à la première nouvelle cotisation parce que la cotisation ayant fait l’objet de l’appel avait cessé d’exister. Par conséquent, il n’y avait pas de cotisation que la Cour pouvait annuler, modifier ou déférer au ministre. Lorsque la seconde nouvelle cotisation a été établie, le présent appel aurait dû être abandonné2 ou il aurait fallu en demander l’annulation3.
+2 L’appelant aurait pu demander à l’intimée d’accepter de payer ses frais comme condition de son désistement. Si l’intimée avait refusé, l’appelant aurait pu demander une autorisation en désistement à condition qu’il soit ordonné à l’intimée de payer ses frais concernant l’appel auquel la deuxième nouvelle cotisation avait mis fin.
+3 Selon un autre point de vue, l’appel devrait être accueilli et la cotisation ayant fait l’objet d’un appel devrait être déclarée nulle. J’estime que, selon l’interprétation correcte de la loi, il n’existe pas de fondement pour interjeter appel à l’encontre d’une cotisation qui est devenue nulle du fait de l’établissement d’une nouvelle cotisation. Un tel appel n’est certainement pas nécessaire, et il s’agirait d’une dépense inutile et d’un gaspillage de temps et d’énergie si on devait prendre l’habitude d’interjeter de tels appels.
+[9] Les avocats des deux parties ont convenu du fait que Cameco avait fait l’objet de nouvelles cotisations pour les années d’imposition 2005 et 2006, dont les avis étaient datés du 28 décembre 2013. Ils ont aussi convenu du fait que Cameco avait fait l’objet d’une nouvelle cotisation pour l’année d’imposition 2004 et que la nouvelle cotisation subséquente avait fait l’objet d’un avis d’opposition que le ministre examinait actuellement. Vu que toutes les nouvelles cotisations antérieures sont nulles du fait qu’elles ont été remplacées, les appels interjetés à l’égard de ces nouvelles cotisations doivent être annulés. Compte tenu des circonstances, la requête de l’intimée visant à obtenir des listes de documents relativement aux appels interjetés à l’égard des années 2004, 2005 et 2006 – des appels qui n’existent plus – doit être annulée.
+[10] La requête visant à ce que l’appelante supprime des documents et les remplace par des documents caviardés avait trait aux appels interjetés à l’égard des années 2005 et 2006, lesquels ne sont plus valides. Par conséquent, la demande visant à obtenir une ordonnance en suppression de documents sera également rejetée. De même, la demande de l’intimée visant à réunir les appels interjetés à l’égard des années 2003, 2005 et 2006 serait aussi rejetée, vu qu’il n’existe pas d’appels relatifs aux années 2005 et 2006 susceptibles d’être réunis. Toutefois, par une lettre datée du 31 janvier 2014, l’avocate de l’intimée a fait savoir que sa cliente [traduction] « retirait sa requête en réunion des appels relatifs aux années 2003, 2005 et 2006, tout en se réservant la possibilité de présenter des requêtes en réunion similaires après que les nouveaux avis d’appels auront été déposés. La décision de retirer la requête est fondée sur les observations de l’appelante selon lesquelles elle a l’intention de déposer de nouveaux avis d’opposition et de nouveaux avis d’appel à l’égard des nouvelles cotisations. À la suite de la conférence de gestion de l’instance qui s’est tenue le 30 janvier 2014, nous confirmons que nous avons l’intention de déposer un nouvel avis de requête en réunion des appels interjetés à l’égard des années 2003, 2005 et 2006 ».
+La liste de documents plus complète – 2003
+[11] La requête de l’intimée en signification d’une liste de documents plus complète relativement à l’appel interjeté à l’encontre de la nouvelle cotisation établie à l’égard de l’appelante pour 2003 demeure. Chaque partie devait déposer et signifier une liste de documents conformément à l’article 82 des Règles. Cette requête soulève deux questions. Premièrement, la question de savoir s’il est justifié de demander une déclaration sous serment de document plus complète sous prétexte que l’appelante a en sa possession des documents pertinents additionnels; deuxièmement, la question de savoir si l’appelante a invoqué le secret professionnel de l’avocat à tort. L’article 88 des Règles prévoit une série de réparations quand il se peut que des documents pertinents aient été omis ou que des privilèges aient été invoqués à tort. L’article 88 des Règles est ainsi libellé :
+Si elle est convaincue qu’une partie n’a pas mentionné dans sa déclaration sous serment un document pertinent qui se trouve en sa possession, sous son contrôle ou sous sa garde ou que la prétention au privilège n’est pas fondée, la Cour peut :
+Where the Court is satisfied by any evidence that a relevant document in a party’s possession, control or power may have been omitted from the party’s affidavit of documents, or that a claim of privilege may have been improperly made, the Court may,
+a) ordonner qu’il y ait contre-interrogatoire sur la déclaration sous serment de documents;
+(a) order cross-examination on the affidavit of documents,
+b) ordonner la signification d’une autre déclaration sous serment de documents plus complète;
+(b) order service of a further and better affidavit of documents,
+c) ordonner la divulgation ou la production, à des fins d’examen, du document, en tout ou en partie, si celui-ci n’est pas privilégié;
+(c) order the disclosure or production for inspection of the document or a part of the document, if it is not privileged, and
+d) examiner le document afin d’établir sa pertinence ou de décider si la prétention au privilège est fondée.
+(d) inspect the document for the purpose of determining its relevance or the validity of a claim of privilege.
+[12] L’intimée fait valoir que la liste de documents qui a été déposée dans le contexte de l’appel relatif à l’année d’imposition 2003 ne contient pas tous les documents pertinents qui se trouvent en la possession, sous le contrôle ou sous la garde de l’appelante. En outre, les documents qui se trouvent dans l’annexe « A » de la liste de documents comportent des parties caviardées, ce qui ne repose apparemment sur aucun fondement juridique, et l’annexe « B » de la liste de documents ne décrit pas correctement tous les documents pertinents au sujet desquels l’appelante a invoqué le secret professionnel de l’avocat.
+[13] Mme Karen Hodges, parajuriste principale au sein de la section des services du droit fiscal du ministère de la Justice, est chargée de la plus grande partie de l’organisation relative aux appels interjetés par Cameco. La Couronne a déposé une déclaration sous serment de Mme Hodges à l’appui de ses requêtes. La déclaration sous serment de Mme Hodges fait l’objet d’une ordonnance de confidentialité.
+[14] L’avocat de l’appelante a livré les DVD contenant les documents de sa cliente à Mme Hodges, et c’est cette dernière qui a demandé que leur contenu soit téléchargé dans les ordinateurs du ministère de la Justice dans le contexte de l’appel interjeté à l’égard de l’année 2003. Mme Hodges a également passé en revue une partie des 136 499 documents de Cameco. Elle a accès à la correspondance du ministère de la Justice et des avocats de Cameco, Osler, Hoskin & Harcourt S.E.N.C.R.L./s.r.l. (« Osler, Hoskin & Harcourt »).
+[15] À la fin du mois d’avril 2013, la Couronne a reçu d’Osler, Hoskin & Harcourt 12 DVD contenant des documents relatifs à l’appel interjeté à l’égard de l’année d’imposition 2003. Le dernier DVD, qui contenait quelque 15 000 documents, a été reçu le 30 avril 2013. Par la suite, les parties ont examiné la question de la communication des documents, notamment la portée de la production de chaque partie et le codage des documents qui seraient fournis, autrement dit, pour reprendre les mots de Mme Hodges, [traduction] « le type de renseignement relatif à chaque document qui serait fourni » (c.-à-d. les titres, les dates, les sources, la provenance, la destination, etc.) ». La plus grande partie des questions examinées par les parties sont restées sans réponse.
+[16] Mme Hodges a établi une liste de 26 documents qui ne figuraient pas au nombre des documents produits par l’appelante. Elle a donné des exemples de quatre types de documents qu’elle avait été incapable de trouver après avoir étudié les renseignements relatifs au codage que l’appelante avait fournis ainsi que le texte intégral des documents en se servant de la reconnaissance optique de caractères.
+[17] Les quatre types de documents sont assortis des doléances suivantes :
+a) les auteurs et les dates des documents qui apparaissent dans la liste de documents ne correspondent pas toujours à l’auteur et à la date qui se trouvent sur le document auquel la liste renvoie;
+b) l’appelante a employé les mots [traduction] « représentés » et [traduction] « sélectionnés » pour décrire certains documents, mais sans explication;
+c) un privilège a été invoqué à l’égard de certains documents, mais sans raison;
+d) certains documents n’étaient pas signés, et la Couronne n’a pas pu établir s’il s’agissait d’ébauches ou de doubles signés.
+[18] Les documents qui manquent selon l’intimée sont notamment des doubles signés d’ébauches d’ententes qui ont été énumérés dans la déclaration sous serment. On me demande de me prononcer sur la question de savoir si l’existence d’ébauches constitue une preuve suffisante du fait que des copies finales des documents, autrement dit des doubles signés, n’ont pas été communiquées.
+[19] Me Peter Macdonald, avocat chez Osler, Hoskin & Harcourt, a été soumis à un contre-interrogatoire au sujet de sa déclaration sous serment à l’appui de l’opposition à la requête. Me Macdonald a « directement » participé à la collecte, à l’examen et à la production des documents par Cameco, ainsi qu’aux échanges qui ont eu lieu avec l’avocate de l’intimée dans le contexte de l’appel interjeté par Cameco à l’égard de l’année 2003.
+[20] Me Macdonald a répondu que plusieurs documents étaient introuvables; qu’il se pouvait que Cameco ne soit pas en possession de copies signées de certains documents, comme des lettres envoyées à des tiers; qu’une entente avait été signée, mais que la copie signée était introuvable. Aussi, bien qu’il ait été question d’une note interservices électronique, la pièce jointe à laquelle on a fait référence dans la note n’avait pas été jointe au document électronique. Me Macdonald laisse entendre que l’intimée envisage de demander ce document lors de l’interrogatoire préalable, et ce, bien que Cameco ait fait part de ces difficultés dans une lettre à la Couronne.
+[21] En ce qui concerne le fait que Cameco ait produit des documents [traduction] « représentatifs » et [traduction] « sélectionnés » et le fait que Mme Hodges ait déclaré que la Couronne n’avait pas été informée de la raison d’être de ces qualificatifs, Me Macdonald a évoqué les lettres envoyées à la Couronne dans lesquelles il était précisé que les documents produits étaient [traduction] « représentatifs » de dossiers administratifs relatifs aux contrats et qu’il s’agissait de contrats de vente [traduction] « sélectionnés » au sein du groupe Cameco, ainsi que la lettre que la Couronne a envoyée à Osler, Hoskin & Harcourt, affirmant qu’elle était [traduction] « disposée, pour le moment, à ne pas réclamer » certains dossiers du groupe Cameco.
+[22] L’article 88 des Règles est similaire à l’article 30.06 des Règles de procédure civile de l’Ontario[3]. L’étude de la jurisprudence relative à l’article 30.06 sera utile pour l’examen de l’article 88, considérant que la Cour n’a eu que peu d’occasions de se pencher sur l’article 88.
+[23] L’article 30.06 s’applique quand il existe une preuve du fait que les documents pertinents existent et qu’ils n’ont pas été communiqués. Le niveau de preuve exigé par la partie qui présente la requête doit tenir compte du fait que la partie requérante n’a pas accès aux documents de l’autre partie. Toutefois, les spéculations, les intuitions et les conjectures selon lesquelles d’autres documents existent ne constituent pas des éléments de preuve suffisants et convaincants[4].
+[24] Me Macdonald a révélé qu’Osler, Hoskin & Harcourt n’avait effectué des vérifications qu’à l’égard des documents qui étaient en sa possession. Le cabinet n’a pas demandé à Cameco de rechercher encore une fois des documents qu’elle aurait pu ne pas avoir produits plus tôt, ou de confirmer par ailleurs qu’elle avait produit tous les documents conformément à l’article 82 des Règles.
+[25] L’intimée est d’avis que l’existence d’ébauches d’ententes constitue un élément de preuve convaincant du fait qu’il est raisonnablement probable que, de ces ébauches, aient finalement découlé des ententes formelles qui ont été signées.
+[26] L’appelante soutient qu’il est nécessaire d’adopter une approche équilibrée et que les demandes de documents doivent être raisonnables quand il s’agit de décider s’il convient d’accueillir une requête visant à obtenir une déclaration sous serment plus complète. Dans sa déclaration sous serment, qui fait aussi l’objet d’une ordonnance de confidentialité, Me Macdonald estimait qu’Osler, Hoskin & Harcourt ainsi qu’un tiers avaient consacré plus de 14 000 heures à la collecte, à l’examen et à la production de documents, travail auquel ont participé plus de 70 membres du personnel juridique. Les frais de Cameco ont été substantiels.
+[27] Dans sa déclaration sous serment, Me Macdonald a décrit le processus auquel les avocats d’Osler, Hoskin & Harcourt et sa cliente avaient eu recours pour rassembler et identifier les documents. Quand il est devenu apparent, au printemps 2009, que des poursuites pourraient être intentées au sujet du prix de transfert dans les transactions qui avaient eu lieu entre Cameco et une filiale du groupe de sociétés Cameco (le « groupe Cameco »), Me Macdonald et d’autres avocats d’Osler, Hoskin & Harcourt ont mené des vérifications pour établir quelles étaient les personnes qui avaient participé aux transactions faisant intervenir les prix de transfert en cause. On a identifié quelque 46 personnes employées ou anciennement employées par le groupe Cameco comme étant susceptibles de détenir des renseignements pertinents à l’égard d’un litige susceptible de découler de cotisations d’impôt sur le revenu. Me Macdonald appelle ces personnes les [traduction] « gardiens ».
+[28] Les gardiens ont fourni des copies papier de documents à l’équipe chargée du litige, laquelle était constituée d’avocats et d’étudiants d’Osler, Hoskin & Harcourt. Un certain nombre de membres de l’équipe chargée du litige se sont rendus à Cameco Europe pour examiner les documents et [traduction] « s’assurer que les documents pertinents étaient collectés pour examen ». Un fournisseur de services en matière de gestion de la preuve a balayé et codé tous les documents. Tous les documents en format papier qui ont été balayés ont été versés dans un système de révision des documents.
+[29] Les services d’un cabinet comptable international ont été retenus pour aider à la collecte de renseignements électroniques. Le contenu des ordinateurs des gardiens qui était toujours disponible chez Cameco a été numérisé et conservé s’il se rapportait à la période pertinente. On a ensuite entrepris d’éliminer les documents en double au moyen d’un processus informatique. Les fichiers d’utilisateurs des gardiens ont ensuite été traités. En tout, on a traité 68 000 courriels sur disque dur et plus de 125 000 fichiers d’utilisateurs sur disque dur.
+[30] Les fichiers des gardiens contenant des courriels qui se trouvaient sur le serveur de Cameco ont également été copiés et ceux qui relevaient de la période pertinente ont été traités. Les courriels en double qui se trouvaient dans le serveur de Cameco ont également été éliminés. Quelque 500 000 courriels de service ont été traités.
+[31] Les lecteurs des serveurs de Cameco dans lesquels les gardiens avaient déclaré qu’ils avaient enregistré des documents potentiellement pertinents ont été copiés et les dossiers non pertinents ont été écartés. On a encore une fois supprimé les documents en double, cette fois dans les fichiers d’utilisateurs du serveur. Plus de 350 000 fichiers d’utilisateurs ont été traités.
+[32] Me Macdonald a expliqué en détail la structure de classement du groupe Cameco et comment ces fichiers ont été identifiés au cours du processus de collecte de documents. Les avocats et les étudiants d’Osler, Hoskin & Harcourt ont collecté quelque 110 000 copies papier de documents auprès des gardiens, les ont versés dans le système de révision des documents et les ont examinés afin d’en établir la pertinence. Les documents ont été classés en 22 catégories, telles que « documents de l’entreprise », « Services », « Achats », « Ventes », etc.
+[33] Me Macdonald a déclaré que le volume de renseignements électroniques était « énorme » et qu’il était nécessaire d’avoir recours à des termes de recherche pour identifier les documents potentiellement pertinents. Les parties n’ont pas été en mesure de s’entendre immédiatement sur les termes de recherche. Lors d’une rencontre qui s’est tenue le 1er novembre 2011, la Couronne a rejeté l’ensemble de termes de recherche proposé par Osler, Hoskin & Harcourt, et la question de la nécessité d’avoir recours à des termes de recherche pour identifier des renseignements électroniques pertinents ainsi que d’autres points ont fait l’objet d’une correspondance tout au long du mois de mars 2013. Le fait que les parties ne sont pas parvenues pas à s’entendre au sujet des termes de recherche n’a pas aidé.
+[34] Comme l’explique Me Macdonald, les termes de recherche définis par sa cliente ont été tirés de termes fréquemment employés dans chacune des diverses catégories. Pour établir s’ils étaient suffisamment généraux et s’ils permettaient de relever les documents qui avaient été antérieurement identifiés lors d’une recherche manuelle, les termes de recherche ont été testés dans la base de données sur support papier. Après examen des résultats, Cameco était convaincue que ses termes de recherche étaient complets et qu’ils étaient les plus appropriés pour identifier des renseignements électroniques potentiellement pertinents.
+[35] À la demande de Cameco, l’intimée a formulé des commentaires à l’égard des termes de recherche proposés pour une catégorie, mais pas pour les autres. Cameco a fait appel aux services d’un tiers pour effectuer, sous la supervision d’Osler, Hoskin & Harcourt, un examen de premier niveau des renseignements électroniques identifiés comme pertinents par les chaînes de recherche. Osler, Hoskin & Harcourt s’est chargé du contrôle de la qualité.
+[36] En tout, Cameco a produit 59 000 copies papier de documents qu’elle a classés de manière générale en catégories ainsi que 96 000 documents électroniques, et elle a [traduction] « précisé de manière générale » quel terme de recherche se rapportait à chaque document. Les documents ont été produits de [traduction] « façon continue » entre le 11 août 2011 et le 30 avril 2013.
+[37] L’énorme volume de renseignements électroniques et de ressources qui ont été consacrées au présent litige me porte à me pencher sur la question de savoir si les parties – et non la Cour – font bon usage de leur temps et de leur argent dans leurs préparations en vue de l’interrogatoire préalable. Les parties ont le droit d’avoir accès à tous les renseignements pertinents, mais, par ailleurs, tous les litiges doivent être menés de manière efficiente, tant en matière de temps que de coûts[5].
+[38] Même avant la publication du rapport Wolf[6] sur l’administration de la justice en 1996, les avocats, les universitaires et les juges étaient préoccupés par les coûts élevés et le temps indu consacré aux litiges. Progressivement, le concept de proportionnalité a investi les règles de pratique de la plupart des tribunaux canadiens[7]. Le lord juge Jackson a écrit que le concept de proportionnalité exigeait [traduction] « que l’on traite une affaire en employant des moyens proportionnels aux sommes en jeu, à l’importance de l’affaire et à la complexité des questions en litige[8] ».
+[39] Cela ne veut pas dire que les juges qui exerçaient leur compétence inhérente avant 1996 ne tenaient pas déjà compte de questions de proportionnalité pour rendre leur décision.
+[40] La codification du concept de proportionnalité n’est pas nécessairement la panacée des problèmes inhérents à l’administration de la preuve. L’aspect humain est toujours présent.
+[41] Le concept de la proportionnalité est devenu de plus en plus important au fur et à mesure que le recours à l’administration de la preuve électronique se fait plus fréquent. La décision Canadian Imperial Bank of Commerce v. The Queen[9] est un bon exemple d’examen de la proportionnalité en matière d’administration de la preuve devant la Cour. Examinant la question de savoir s’il convenait d’accorder une ordonnance en communication intégrale en application de l’article 82 des Règles, le juge Jorré s’est ainsi exprimé :
+[traduction]
+[109] Les deux parties disposent d’importantes ressources, un montant d’impôt important est en jeu et il semble que les questions en litige soient importantes et sérieuses. Dans le sens où la question de la proportionnalité est souvent débattue, il ne s’agit probablement pas d’une question en litige en l’espèce.
+[110] Toutefois, il existe une longue tradition en matière fiscale, qui consiste à réduire, dans la mesure du possible, le temps et les efforts consacrés aux étapes préalables à l’instance. C’est ce que traduit le choix de l’article 81 des Règles comme article par défaut. On pourrait prétendre que cette tradition prend également en considération la question de la proportionnalité, bien que, à ma connaissance, les discussions relatives à la proportionnalité sont apparues bien plus récemment que cette tradition.
+[42] Comme dans la décision CIBC, une importante somme d’impôt à payer est en cause en l’espèce, les questions en litige sont particulièrement complexes, et il faut s’efforcer de minimiser les dépenses, au moins dans les étapes préalables à l’instance, si ce n’est également par la suite. Il se peut qu’une partie ait le droit d’avoir accès à tous les documents pertinents à l’égard d’une question en litige dans l’appel, mais nous devons parfois nous demander si, bien qu’il soit pertinent, le document est essentiel en ce qui concerne la question en litige ou s’il revêt une grande importance dans l’appréciation de la preuve par le tribunal.
+[43] La communication préalable par voie électronique pose de nombreux défis, et il est nécessaire d’avoir recours à un processus plus pratique et efficace pour s’assurer que la charge de l’administration de la preuve reste proportionnelle aux questions, aux intérêts et aux sommes en litige. Les Principes de Sedona Canada sont devenus la norme de facto pour de nombreuses règles de procédure civile. En ce qui a trait à l’administration de la preuve électronique, le Principe 2 des Principes de Sedona Canada : L’administration de la preuve électronique est ainsi libellé[10] :
+Dans toute instance, les parties devraient s’assurer que les étapes suivies dans le cadre de l’administration de la preuve sont proportionnelles, eu égard à (i) la nature et l’importance du litige, incluant l’importance et la complexité des questions en litige, des intérêts et des montants en jeu; (ii) la pertinence des informations sur support électronique disponibles; (iii) l’incidence des informations sur support électronique sur le processus décisionnel du tribunal dans chaque instance; et aux (iv) coûts, fardeau et délais que les parties devront assumer afin de gérer les informations sur support électronique.
+[44] Les faits en litige en l’espèce sont complexes. La déclaration sous serment de Me Peter Macdonald décrit le processus de collecte des documents, et il est visible que l’appelante a consacré d’importantes ressources à la défense de sa cause, notamment en faisant appel à des spécialistes et en investissant temps et argent. Cependant, compte tenu de la complexité du présent litige et des sommes en jeu, il n’est pas déraisonnable pour l’appelante de mener des examens et des recherches additionnelles et d’effectuer des vérifications supplémentaires à l’égard de certains documents.
+[45] Il y a des lacunes dans les documents que l’appelante a produits, et, ayant consenti à une communication intégrale, l’appelante doit fournir tous les documents pertinents et importants à l’égard de toute question en litige. Les avocats de l’appelante ont examiné les documents en leur possession, mais, comme Me Macdonald l’a déclaré, ils n’avaient pas besoin que leur cliente procède à une étude plus approfondie des documents en sa possession, par exemple.
+[46] L’avocate de l’intimée m’informe que, le 21 janvier 2014, la Couronne a reçu de l’appelante un DVD contenant 2 389 documents. Lors d’une conférence de gestion de l’instance qui s’est tenue le 30 janvier dernier, l’avocat de l’appelante a fait savoir qu’il pourrait s’agir de tous les documents manquants que l’intimée cherche à obtenir. J’ai informé les avocats des deux parties que j’ordonnerais la production d’une liste de documents plus complète dans le contexte de l’appel interjeté à l’égard de l’année 2003, et que l’appelante devrait effectuer des recherches additionnelles. Vu que l’intimée est en possession du tout dernier DVD depuis près d’un mois, sa demande visant à retarder la tenue de l’interrogatoire préalable de l’appelante sera accueillie et le délai sera prolongé de façon à être de 120 jours à compter de la signification de toute liste de documents additionnelle. L’avocat de l’appelante a répondu que sa cliente aurait besoin de 30 jours pour effectuer les recherches.
+Les documents faisant l’objet du secret professionnel
+[47] Dans le contexte de la présente requête, la question suivante consiste à se demander si l’appelante a invoqué à tort un privilège au sujet des documents de l’annexe « A » et de l’annexe « B ». Le secret professionnel de l’avocat est rigoureusement encadré, et des exceptions ne sont consenties que dans certaines circonstances. L’article 82 des Règles[11] exige, dans le contexte de la communication intégrale, que, pour tout document à l’égard duquel elle invoque un privilège, une partie doive également décrire les fondements de sa prétention. Quand une partie invoque un privilège, la charge de la preuve incombe à cette partie[12].
+a) Les documents de l’annexe « A »
+[48] L’intimée fait valoir que l’annexe « A » de la liste de documents ne précise pas quels documents ont été caviardés, ni la raison pour laquelle le secret professionnel de l’avocat est invoqué. Des documents tels qu’une note interservices de Cameco concernant une [traduction] « liste de choses à faire » pour une construction en mer, ont été caviardés. Toutefois, comme l’intimée le déplore, vu que ni l’auteur ni le récipiendaire du document en question n’est avocat, il est difficile de prétendre que le secret professionnel de l’avocat a été invoqué à juste titre.
+[49] Comme Me Macdonald l’affirme, tous les documents potentiellement pertinents ont été examinés sous l’angle du secret professionnel et, lorsqu’on l’a jugé approprié, on a caviardé le document en question afin de protéger les renseignements confidentiels, et on a entièrement caviardé certains documents avant de les produire. Les documents électroniques caviardés portaient des mentions indiquant les raisons du caviardage. Tous les documents électroniques qui ont été caviardés ne l’ont été que parce qu’ils relevaient du secret professionnel de l’avocat. Les documents qui se trouvaient à l’origine en format papier ont été caviardés pour protéger le secret professionnel de l’avocat ou, en ce qui concerne une [traduction] « petite poignée » d’éléments caviardés, pour protéger des renseignements personnels. Par exemple, comme l’intimée l’affirme, un renouvellement d’entente de consultation prévoit que le montant du salaire sera caviardé, toutefois, ce même caviardage n’apparaît pas dans une autre version de la même entente. Aucune justification n’a été fournie pour expliquer le caviardage.
+b) L’article 82 et l’annexe « B » de la liste de documents
+[50] L’intimée prétend également que l’annexe « B » de la liste de documents est incomplète étant donné qu’elle ne comprend pas la liste des documents à l’égard desquels on a invoqué un privilège.
+[51] Me Macdonald reconnaît que la liste de documents que l’appelante a signifiée et produite ne contenait pas une annexe « B » détaillée énumérant tous les documents à l’égard desquels Cameco a invoqué un privilège. Il a déclaré que, en se fondant sur son expérience ainsi que sur les discussions qu’il a eues avec des collègues, il pensait qu’il était courant que les parties ne joignent pas une annexe « B » aussi détaillée. Toutefois, par la suite, vu la demande de la Couronne, une annexe « B » détaillée comprenant environ 36 000 documents a été signifiée. Selon Me Macdonald, l’annexe « B » détaillée contient également des explications étayant le privilège invoqué.
+[52] L’intimée n’est pas d’accord. Son avocate affirme qu’à de nombreux égards, l’appelante n’a pas fourni assez de renseignements pour établir l’existence d’un privilège. Il y a plusieurs documents au sujet desquels on ne donne pas de renseignements en dehors du type de document et du nom de l’auteur. Cela inclut des documents préparés par quelqu’un qui n’est pas avocat et envoyés à des groupes d’employés de Cameco, sans aucun renseignement supplémentaire à l’égard du privilège. Dans certaines circonstances, la description des documents est la suivante : [traduction] « répète des conseils juridiques donnés par les avocats ».
+[53] Dans la décision Imperial Tobacco[13], mon collègue, le juge D’Arcy, a confirmé que les communications entre des employés d’une société qui comprenaient des conseils juridiques provenant de l’avocat de cette société étaient confidentielles. Toutefois, le juge D’Arcy a également insisté sur le fait que la confidentialité n’existait pas à l’égard des communications internes qui ne consistaient pas en la transmission de conseils juridiques ou qui ne concernaient pas l’obtention de tels conseils :
+[57] Cependant, une communication interne qui ne consiste pas en la transmission de conseils juridiques confidentiels ou qui ne concerne pas directement l’obtention de conseils de cette nature n’est pas confidentielle. Par ailleurs, un tel document ne devient pas confidentiel uniquement parce qu’une copie a été envoyée à un avocat. Par contre, si ce dernier marque le document ou y inscrit une note, ce document devient alors un document de travail de l’avocat et la copie marquée ou annotée est confidentielle.
+[Note de bas de page omise.]
+[54] Je dois m’atteler à la tâche consistant à établir si les communications internes comprenaient des conseils juridiques ou s’il s’agissait de communications internes non confidentielles. Le secret professionnel de l’avocat peut être invoqué s’il est question de communications avec un avocat de la société. Toutefois, quand aucun renseignement n’est fourni à l’égard de la question de savoir qui a préparé les documents, on ne peut pas même invoquer un privilège. Il se peut très bien que les documents en question soient protégés par le secret professionnel de l’avocat, mais il appartient à l’appelante de fournir des motifs pour étayer ses prétentions d’une quelconque manière. Pour cette raison, je devrai accueillir la requête de l’intimée visant à obtenir de l’appelante une déclaration sous serment de documents plus complète, qui justifie toute revendication de privilège en bonne et due forme.
+Les parties caviardées
+[55] Succinctement, pour ce qui est du caviardage effectué pour des raisons de respect de la vie privée, l’appelante fait valoir que, dans certains cas, des parties ont été caviardées pour des raisons de respect de la vie privée, comme des salaires par exemple. Dans la décision Heinig c. Canada[14], le juge Webb a déclaré que le fait de conclure qu’un document contenait des renseignements confidentiels qui pouvaient ne pas être pertinents n’exigeait pas nécessairement qu’il faille communiquer le document dans son intégralité. Le juge Webb, tel était alors son titre, a convenu du fait que le numéro d’assurance sociale et le revenu de tiers devaient être caviardés :
+[10] Il ne me semble pas que les termes « à tous les documents » signifient nécessairement que l’intégralité d’un document doit être divulguée à un appelant si uniquement une partie de ce document est pertinente à l’appel et une autre partie comportant des renseignements confidentiels relatifs à un tiers ne l’est pas. À mon avis, il serait inopportun de divulguer l’intégralité du document si ces parties peuvent être séparées. Seule la partie pertinente doit être communiquée s’il est possible de l’isoler de la partie non pertinente sans la rendre incompréhensible. Si la partie non pertinente où figurent les renseignements confidentiels relatifs à un tiers ne peut être isolée de la partie pertinente sans rendre celle‑ci incompréhensible, il faut alors communiquer l’intégralité du document.
+[Non souligné dans l’original.]
+[56] En ce qui a trait au fait d’invoquer, à tort, un privilège à l’égard de documents figurant dans ses annexes « A » et « B », l’appelante n’a pas fourni de raison valable pour les documents à l’égard desquels elle invoque un privilège. L’appelante devra passer en revue les parties qu’elle a caviardées pour s’assurer qu’elle a invoqué un privilège à juste titre, et elle devra fournir une justification pour les documents à l’égard desquels elle a invoqué un privilège. Le caviardage effectué pour des raisons de respect de la vie privée, comme en ce qui concerne un salaire, est approprié pourvu qu’il n’ait pas pour effet de rendre les parties pertinentes incompréhensibles.
+La désignation de documents
+[57] Pour finir, l’intimée a contesté la description des documents que l’appelante a fournie conformément aux dispositions de l’article 84 des Règles :
+Une liste de documents établie en vertu de l’article 81 ou 82 doit suivre la forme appropriée et énumérer les documents dans un ordre commode et aussi succinctement que possible tout en donnant la désignation de chacun d’eux ou, dans le cas de liasses de documents de même nature, la désignation de chaque liasse, de façon suffisante pour en permettre l’identification.
+A list of documents made in compliance with section 81 or 82 shall enumerate the documents in a convenient order as briefly as possible but describing each of them or, in the case of bundles of documents of the same nature, each bundle shall be described sufficiently to enable it to be identified.
+[58] À l’heure actuelle, les descriptions de documents sont fondées sur les métadonnées des documents. Ces documents ont chacun un numéro d’identification qui leur est propre. Certains éléments de la description, comme l’auteur et la date, ne correspondent pas directement à l’auteur et à la date qui apparaissent sur le document en tant que tel.
+[59] L’intimée soutient que le recours aux métadonnées pour la description des documents n’est pas satisfaisant, qu’il devrait y avoir suffisamment de renseignements pour décrire chaque document. Dans ses observations orales, l’intimée a soutenu que le recours par l’appelante aux métadonnées a abouti en une [traduction] « mauvaise description » des documents.
+[60] En ce qui concerne les prétentions de l’intimée selon lesquelles l’auteur et la date dont il était fait état dans la liste de documents à l’égard de certains documents produits par Cameco ne correspondaient pas toujours à l’auteur et à la date qui apparaissaient sur les documents en tant que tels, Me Macdonald a déclaré que l’intimée avait été avisée du fait que Cameco aurait recours aux métadonnées associées à chaque document électronique pour produire sa liste de documents. Me Macdonald voit les métadonnées comme des outils de description de certaines propriétés des documents électroniques que le système d’exploitation de l’ordinateur et l’application utilisée pour créer les documents associent automatiquement à un document. Les métadonnées peuvent indiquer des propriétés telles que la date à laquelle un document a été créé ou modifié sur un ordinateur. En fournissant des copies de renseignements informatiques pertinents, Cameco a également fourni des métadonnées donnant, par exemple, le nom de l’auteur ou la date du document pour chaque document disponible, dans la mesure du possible. Ces métadonnées ont été fournies à l’annexe « A » de la liste de documents. Toutefois, dans certains cas, la mention de l’auteur ou la date dont il est fait état sur le document en tant que tel est différente de la métadonnée qui se rapporte à ce document.
+[61] Dans le contexte d’au moins un appel interjeté devant la Cour, lequel faisait intervenir un important volume de documents, on a fait appel à un identifiant numérique unique pour décrire les documents[15]. Dans la décision Solid Waste[16], le juge Lane a conclu que, dans les cas où il était question de grands volumes de documents, la mise en place d’un système plus pratique exigeait de faire appel à un identifiant alphanumérique ou numérique pour décrire les documents :
+[traduction]
+[9] À notre époque, la quantité de documents en jeu dans le contexte de nombreux litiges exige d’avoir recours à un système d’identification précis qui permette de récupérer des documents rapidement et avec certitude en vue d’interrogatoires préalables et d’audiences. Un tel système devrait également permettre aux avocats de s’assurer qu’un document produit à l’audience a bien été produit antérieurement. Il doit permettre à un avocat qui examine les documents collectés par la partie adverse d’être convaincu de disposer de l’ensemble complet de documents, tels qu’ils sont décrits à l’annexe A. Une règle moderne d’identification des documents ne peut faire fi de l’informatique et de la nécessité de disposer d’un identifiant unique pour chaque élément à récupérer. À moins que l’annexe A ne comporte des renseignements extrêmement détaillés au sujet de chaque document, un identifiant alphanumérique ou numérique s’avère nécessaire. La préparation d’une annexe A contenant une description détaillée de chaque document constituerait une tâche véritablement titanesque dans le contexte de nombreuses actions en justice. Ce n’est pas pratique.
+[10] La logique de ces exigences pratiques nous entraîne inexorablement vers la proposition selon laquelle l’identification en bonne et due forme exige de numéroter chaque document en lui attribuant un numéro qui lui est propre. Un tel numéro a bien plus de valeur que n’en aurait une longue description de chaque document, comprenant l’expéditeur, le destinataire, la date, etc., et la création d’un système numérique est bien moins coûteuse quand il est question de milliers de documents.
+[62] Dans les observations orales qui m’ont été soumises, l’avocate de l’intimée a déclaré qu’il serait en fait plus utile de disposer du numéro d’identification du document, sans le nom de l’auteur ni la date. J’en conviens. Pourvu que l’appelante offre une description suffisante des documents en ayant recours à un identifiant numérique pour chaque document, la Cour considère que le mode d’identification du document employé par l’appelante est satisfaisant.
+[63] La Cour rendra l’ordonnance suivante :
+1. Les requêtes relatives aux appels interjetés par l’appelante à l’égard de l’année d’imposition 2004 (dossier de la Cour no 2010‑3477(IT)G), de l’année d’imposition 2005 (dossiers de la Cour nos 2011‑1909(IT)G et 2013‑3018(IT)G), et de l’année d’imposition 2006 (dossiers de la Cour nos 2012‑3256(IT)G et 2013‑3019(IT)G) soient annulées, à l’exception de la requête en réunion des appels présentée par l’appelante à l’égard des années d’imposition 2003, 2005 et 2006, que l’intimée a retirée;
+2. L’appelante signifie une déclaration sous serment et une liste de documents plus complètes, en application de l’article 82 des Règles, dans le dossier de la Cour no 2009‑2430(IT)G concernant l’appel interjeté à l’égard d’une cotisation établie pour l’année d’imposition 2003, et notamment :
+i) la liste de documents devra contenir tous les documents pertinents et essentiels qui se trouvent en la possession, sous le contrôle ou sous la garde de l’appelante, et qui ne sont pas inclus dans la liste de documents antérieurement déposée et signifiée à l’intimée;
+ii) l’appelante devra définir les fondements légaux du caviardage dans les documents inclus à l’annexe « A » de la liste antérieurement déposée et signifiée;
+iii) l’appelante devra décrire tous les documents pertinents et essentiels à l’égard desquels elle a invoqué le secret professionnel de l’avocat dans l’annexe « B » de la liste de documents antérieurement déposée.
+3. L’appelante devra signifier une déclaration sous serment de documents plus complète à l’intimée au plus tard 30 jours après la date de la présente ordonnance ou à toute autre date dont les parties pourraient convenir et que la Cour approuvera sur préavis écrit;
+4. L’intimée commencera l’interrogatoire préalable de l’appelante au plus tard 120 jours après la signification de la déclaration sous serment de documents plus complète, ou à tout autre moment dont les parties conviendront et que la Cour approuvera sur préavis écrit;
+5. Les dépens suivront l’issue de la cause.
+Signé à Ottawa, Canada, ce 13e jour de février 2014.
+« Gerald J. Rip »
+Juge en chef Rip
+Traduction certifiée conforme
+ce 10e jour de juin 2014.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2014 CCI 45
+NOS DES DOSSIERS LA COUR : 2010‑3477(IT)G, 2011‑1909(IT)G, 2012‑3256(IT)G, 2009-2430(IT)G, 2013‑3018(IT)G et 2013-3019(IT)G
+INTITULÉ : Cameco Corporation c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATES DE L’AUDIENCE : Les 12 juin et 26 septembre 2013
+MOTIFS DE L’ORDONNANCE : L’honorable juge en chef Gerald J. Rip
+DATE DE L’ORDONNANCE : Le 13 février 2014
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Joseph M. Steiner
+Me Pooja Samtani
+Avocates de l’intimée :
+Me Naomi Goldstein
+Me Elizabeth Chasson
+Me Diana N. Aird
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Joseph M. Steiner
+Cabinet : Osler, Hoskin & Harcourt
+S.E.N.C.R.L./s.r.l.
+Toronto (Ontario)
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 66 DTC 5451, rendue par le président Jackett, aux paragraphes 9 et 10.
+[2] Aux paragraphes 9 et 10.
+[3] L’article 30.06 des Règles de procédure civile est ainsi libellé :
+30.06 Le tribunal, s’il est convaincu qu’une partie n’a pas mentionné dans son affidavit un document pertinent qui se trouve en sa possession, sous son contrôle ou sous sa garde ou que la prétention au privilège n’est pas fondée, peut :
+a) ordonner qu’il y ait contre-interrogatoire sur l’affidavit de documents;
+b) ordonner la signification d’un autre affidavit de documents plus complet;
+c) ordonner la divulgation ou la production, à des fins d’examen, du document, en tout ou en partie, si celui-ci n’est pas privilégié;
+d) examiner le document afin d’établir sa pertinence ou de décider si la prétention au privilège est fondée.
+[4] Benatta v. Canada (Attorney General), 2009 CarswellOnt 7946 (Cour supérieure de justice de l’Ontario), au paragraphe 18; voir aussi Apotex Inc. v. Richter Gedeon Vegyeszeti Gyar RT, 2010 ONSC 4070, [2010] O.J. no 2718 (QL), au paragraphe 119.
+[5] Voir Campbell, Colin L., Reflections on proportionality and legal culture, The Advocates Journal, Mars 2010, aux pages 4 à 7.
+[6] Final Report to the Lord Chancellor on the Civil Justice System in England and Wales, (Norwich, R.‑U., Her Majesty’s Stationery Office, 1996.) (le « rapport Wolf »). Voir aussi le rapport intermédiaire de 1995.
+[7] Voir, par exemple, Supreme Court Civil Rules, B.C. Reg. 168/2009, article 1‑3 Object of Rules (« Objet des règles »), le Code de procédure civile du Québec, article 4.2, les Règles de procédure civile de l’Ontario, RRO 1990, Règl. 194, paragraphe 1.04(1), article 1.1 et paragraphe 29.2.03(1).
+[8] Review of Civil Litigation Costs: Final Report (Norwich, R.-U., The Stationery Office, 2010, au paragraphe 3.6.).
+[9] 2013 TCC 170; [2013] A.C.I. no 137 (QL) (« CIBC »).
+[10] Les Principes de Sedona Canada : L’administration de la preuve électronique (janvier 2008).
+[11] Lavallee, Rackel & Heintz c. Canada (Procureur général), 2002 CSC 61; [2002] 3 R.C.S. 209, au paragraphe 35 (« Lavallée »).
+[12] Imperial Tobacco Canada Limited c. La Reine, 2013 CCI 144; [2013] A.C.I. no 86 (QL), (« Imperial Tobacco »).
+[13] Précitée, au paragraphe 56.
+[14] 2009 CCI 47; [2009] A.C.I. no 36 (QL), (« Heinig »).
+[15] GlaxoSmithKline c. La Reine, 2008 CCI 324; [2008] A.C.I. no 249 (QL).
+[16] Solid Waste Reclamation Inc. v. Philip Enterprises Inc., [1991] O.J. No. 213 (QL); 2 O.R. (3d) 481 (Div. gén. Ont.) (« Solid Waste »).

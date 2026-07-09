@@ -1,0 +1,228 @@
+---
+title: "Purba c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/181420/index.do"
+last_modified: "2016-10-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 CCI 218"
+citation2: ""
+neutral_citation: "2016 CCI 218"
+decision_date: "2016-10-06"
+language: "fr"
+item_id: "181420"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2976
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:52:01.069000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "63e6f3b4fa8161788a41820cf6e3b251c14a9d3eb070c45298629f27157c0255"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Purba c. La Reine
+
+- Citation: 2016 CCI 218
+- Decision date: 2016-10-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2976, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Purba c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-10-06
+Référence neutre
+2016 CCI 218
+Numéro de dossier
+2015-2993(IT)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2015-2993(IT)I
+ENTRE :
+JAGDEEP SINGH PURBA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE]
+Appel entendu le 18 août 2016, à Toronto (Ontario)
+Devant : L’honorable juge Réal Favreau
+Comparutions :
+Représentant de l’appelant :
+M. Mohinder Pharwaha
+Avocate de l’intimée :
+Me Pallavi Gotla
+JUGEMENT
+L’appel interjeté le 17 juillet 2006 à l’encontre de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2005 est rejeté, conformément aux motifs de jugement ci-joints.
+Signé à Ottawa, Canada, ce 6e jour d’octobre 2016.
+« Réal Favreau »
+Juge Favreau
+Référence : 2016 CCI 218
+Date : 20161006
+Dossier : 2015-2993(IT)I
+ENTRE :
+JAGDEEP SINGH PURBA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE]
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit d’un appel interjeté sous le régime de la procédure informelle à l’encontre d’une nouvelle cotisation établie par le ministre du Revenu national (le « ministre ») en vertu de la Loi de l’impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.), telle que modifiée (la « Loi »), datée du 17 juillet 2006, concernant la déclaration de revenus de l’appelant pour l’année d’imposition 2005.
+[2] La question est de savoir si l’appelant a droit à un crédit d’impôt fédéral non remboursable pour des dons de bienfaisance s’élevant à 10 200 $ et à 21 $ qu’il a prétendument faits pendant l’année d’imposition 2005 au Christ Apostolic Church International Miracle Centre (le centre « Miracle ») et au Khalsa Darbar de l’Ontario (le temple « Khalsa »), respectivement.
+[3] Pour déterminer l’obligation fiscale de l’appelant pour l’année d’imposition 2005, le ministre s’est appuyé sur les hypothèses de fait suivantes :
+a) l’appelant n’a fait aucun don en espèces, par chèque ou en nature à aucun organisme de bienfaisance enregistré pendant l’année d’imposition 2005;
+b) plus précisément, l’appelant n’a pas volontairement transféré de bien qu’il possédait au centre Miracle au cours de l’année d’imposition 2005;
+c) plus précisément, l’appelant n’a pas volontairement transféré de bien qu’il possédait au temple Khalsa au cours de l’année d’imposition 2005;
+d) l’appelant n’a pas obtenu ni fourni de preuve de tout transfert de biens qu’il aurait pu faire à un organisme de bienfaisance enregistré en 2005 sous forme d’un reçu officiel de dons valide, complet et répondant à tous les critères requis;
+e) plus particulièrement, le soi-disant reçu du centre Miracle ne comporte pas ce qui suit :
+(i) le lieu ou l’endroit où le reçu a été délivré,
+(ii) l’adresse complète de l’appelant,
+(iii) un énoncé précisant qu’il s’agit d’un reçu officiel aux fins de l’impôt sur le revenu,
+(iv) les dates précises auxquelles les prétendus dons en espèces ont été faits;
+f) plus particulièrement, le soi-disant reçu du temple Khalsa ne comporte pas ce qui suit :
+(i) l’adresse complète de l’appelant,
+(ii) un numéro d’enregistrement valide de l’organisme de bienfaisance;
+g) le numéro d’enregistrement d’organisme de bienfaisance du centre Miracle a fait l’objet d’une révocation motivée le 13 octobre 2007.
+Autres faits substantiels
+[4] Le sous-procureur général s’appuie sur les faits supplémentaires suivants :
+a) le soi-disant reçu du centre Miracle ne comporte pas le nom de l’Agence du revenu du Canada et l’adresse de son site Internet;
+b) le soi-disant reçu du temple Khalsa ne comporte pas ce qui suit :
+(i) le nom complet de l’appelant,
+(ii) un énoncé précisant qu’il s’agit d’un reçu officiel aux fins de l’impôt sur le revenu,
+(iii) le nom de l’Agence du revenu du Canada et l’adresse de son site Internet,
+(iv) si la date indiquée est la date à laquelle le don a été fait ou la date de délivrance du reçu.
+[5] L’appelant, un employé des postes, a indiqué lors de son témoignage principal qu’il avait fait des dons en espèces au centre Miracle à divers moments au cours de l’année 2005. Les dons étaient principalement faits le dimanche au cours des services religieux de l’église. Pendant son témoignage, l’appelant n’a fourni aucun détail concernant ses dons, mais il a dit qu’il donnait 100 $ ou 200 $ chaque fois pour aider les enfants en Afrique et en Inde.
+[6] L’appelant a mentionné qu’il était marié et avait trois enfants, et qu’il payait les frais de scolarité de ses enfants. Il a également indiqué que sa famille vivait à Mississauga dans une maison achetée en 1992 pour 250 000 $ et que la maison était grevée d’une hypothèque. Deux autres personnes à charge et deux grands‑parents habitaient également avec lui et sa famille.
+[7] L’appelant a ensuite indiqué que ses revenus pour 2005 se situaient entre 50 000 $ et 55 000 $ et qu’il avait une marge de crédit de 70 000 $ auprès de la Banque Toronto-Dominion qui servait au paiement des frais de scolarité.
+[8] Il a aussi indiqué qu’en 2005, sa femme occupait un emploi à temps partiel dans un bureau de poste et que ses revenus nets pour cette année étaient de 36 296,87 $.
+[9] L’appelant a également confirmé qu’il ne conteste pas le refus du don de 21 $ soi-disant fait au temple Khalsa.
+[10] Pendant le contre-interrogatoire de l’appelant, les documents suivants ont été déposés en preuve :
+- la déclaration de revenus de 2005 de l’appelant avec son feuillet T4 (État de la rémunération payée) pour l’année d’imposition 2005, ainsi que les reçus délivrés par le centre Miracle et le temple Khalsa;
+- la lettre de l’appelant datée du 30 septembre 2006 et adressée au chef des appels du bureau de Sudbury, son avis d’opposition à l’encontre de la nouvelle cotisation établie à l’égard de sa déclaration de revenus de 2005, une lettre de son église donnant plus de détails quant à la répartition de ses dons pour l’année 2005 et quelques copies de ses relevés bancaires pour authentifier les dons en espèces;
+- un extrait de la partie I de la Gazette du Canada datée du 13 octobre 2007 annonçant la révocation de l’enregistrement de l’organisme de bienfaisance Christ Apostolic Church International Miracle Centre (Vineyard of Comfort), North York (Ontario).
+[11] Les dispositions pertinentes de la Loi sont les suivantes :
+118.1(2) Attestation du don – Pour que le montant admissible d’un don soit inclus dans le total des dons de bienfaisance, [le total des dons à l’État], le total des dons de biens culturels ou le total des dons de biens écosensibles, le versement du don doit être attesté par la présentation au ministre des documents suivants :
+a) un reçu contenant les renseignements prescrits;
+b) s’il s’agit d’un don visé à la définition de total des dons de biens culturels au paragraphe (1), le certificat délivré en vertu du paragraphe 33(1) de la Loi sur l’exportation et l’importation de biens culturels;
+c) s’il s’agit d’un don visé à la définition de total des dons de biens écosensibles au paragraphe (1), les deux attestations mentionnées à cette définition.
+[12] Les dispositions pertinentes du Règlement de l’impôt sur le revenu (le « Règlement ») sont les suivantes :
+3501 Contenu des reçus – (1) Tout reçu officiel délivré par une organisation enregistrée doit énoncer qu’il s’agit d’un reçu officiel aux fins de l’impôt sur le revenu et indiquer clairement, de façon à ce qu’ils ne puissent être modifiés facilement, les détails suivants :
+a) le nom et l’adresse au Canada de l’organisation ainsi qu’ils sont enregistrés auprès du ministre;
+b) le numéro d’enregistrement attribué par le ministre à l’organisation;
+c) le numéro de série du reçu;
+d) le lieu ou l’endroit où le reçu a été délivré;
+e) lorsque le don est un don en espèces, la date ou l’année où il a été reçu;
+e.1) lorsque le don est un don de biens autres que des espèces :
+(i) la date où il a été reçu,
+(ii) une brève description du bien, et
+(iii) le nom et l’adresse de l’évaluateur du bien si une évaluation a été faite;
+f) la date de délivrance du reçu;
+g) le nom et l’adresse du donateur, y compris, dans le cas d’un particulier, son prénom et son initiale;
+h) celle des sommes ci-après qui est applicable :
+(i) le montant du don en espèces,
+(ii) lorsque le don est un don de biens autres que des espèces, la juste valeur marchande du bien au moment où le don est fait;
+h.1) une description de l’avantage, le cas échéant, au titre du don et le montant de cet avantage;
+h.2) le montant admissible du don;
+i) la signature, ainsi qu’il est prévu au paragraphe (2) ou (3), d’un particulier compétent qui a été autorisé par l’organisation à accuser réception des dons;
+j) le nom de l’Agence du revenu du Canada et l’adresse de son site Internet.
+Analyse
+[13] J’ai conclu que les reçus fournis par l’appelant ne comprennent par les renseignements requis par le Règlement et, pour ce seul motif, l’appel doit être rejeté. J’ai également conclu que, même si les reçus avaient été conformes au Règlement, l’appelant n’a pas prouvé, selon la prépondérance des probabilités, qu’il a fait les dons en cause.
+[14] Le reçu du centre Miracle joint à sa déclaration de revenus de 2005 a été déposé comme preuve auprès de la Cour. Le prétendu reçu du centre Miracle n’était pas conforme au Règlement, en ce sens qu’il ne comportait pas les renseignements suivants :
+(i) le lieu ou l’endroit où le reçu a été délivré (alinéa 3501(1)d));
+(ii) l’adresse complète de l’appelant (alinéa 3501(1)g));
+(iii) un énoncé précisant qu’il s’agit d’un reçu officiel aux fins de l’impôt sur le revenu (paragraphe 3501(1));
+(iv) les dates précises où les prétendus dons en espèces ont été faits (alinéa 3501(1)e));
+(v) le nom de l’Agence du revenu du Canada et l’adresse de son site Internet (alinéa 3501(1)j)).
+[15] Puisque le reçu délivré à l’appelant par le centre Miracle ne comportait pas tous les renseignements requis, il ne respectait pas les exigences relatives au paragraphe 118.1(2) de la Loi et, pour ce motif, la demande de crédit d’impôt pour don à un organisme de bienfaisance ne peut être accueillie.
+[16] L’appelant a le fardeau de prouver qu’il a fait les dons présumés au centre Miracle. La norme de preuve qui doit être appliquée est la norme de la prépondérance des probabilités. Cela signifie qu’il doit démontrer qu’il est plus probable qu’improbable qu’il ait fait les dons en cause. À mon avis, l’appelant n’a pas répondu à cette norme de preuve.
+[17] Parmi les éléments de preuve présentés par l’appelant selon lesquels il a fait les dons en cause, il y avait son témoignage, le reçu incomplet, la lettre datée du 25 septembre 2006 du centre Miracle fournissant une liste détaillée des dons faits en 2005 et l’historique du livret bancaire du compte bancaire de la CIBC de l’appelant pour 2005. Aucun renseignement concernant la marge de crédit détenue à la Banque TD n’a été fourni.
+[18] Les éléments de preuve présentés par l’appelant ne sont pas suffisants pour démontrer qu’il a fait les dons présumés au centre Miracle. Son témoignage était vague et peu fiable. C’est comme s’il n’avait aucun lien avec l’organisme de bienfaisance. Il ne savait pas à partir de quel endroit l’organisme était géré ni comment l’argent donné était dépensé à des fins de bienfaisance, sauf en termes très généraux. Il a affirmé qu’une personne qui louait un sous-sol dans son quartier en 2004 lui avait fait connaître le centre Miracle, alors qu’il souffrait de dépression. Le nom de cette personne n’a pas été divulgué et elle n’a pas été appelée à témoigner pour corroborer les éléments de preuve.
+[19] Le témoignage de l’appelant était particulièrement incomplet parce que ce dernier ne pouvait pas se souvenir des montants exacts donnés à des dates précises ni de la nature des programmes de l’église auxquels ses dons en espèces ont été appliqués.
+[20] La lettre datée du 25 septembre 2006 rédigée par le centre Miracle a fourni une liste détaillée des dons faits par l’appelant en 2005. Voici les programmes financés par l’appelant :
+[traduction]
+Programmes
+Montants
+en dollars
+Nombre de jours pendant lesquels des contributions ont été faites
+Contribution moyenne par jour
+en dollars
+- Dîmes
+- Offrandes
+- Fonds de construction
+- Dons spéciaux
+3 730
+1 270
+5 000
+200
+17
+44
+20
+2
+219,41
+28,86
+250
+100
+Total
+10 200
+[21] On ne peut s’appuyer sur les renseignements fournis dans la lettre susmentionnée pour deux raisons :
+(a) le numéro d’enregistrement de l’organisme de bienfaisance indiqué sur l’en-tête de la lettre du centre Miracle est différent du numéro apparaissant sur le reçu délivré à l’appelant;
+(b) le secrétaire financier du centre Miracle qui a signé la lettre n’a pas été appelé à témoigner pour expliquer comment les renseignements ont été recueillis et pourquoi les numéros d’enregistrement de l’organisme de bienfaisance figurant sur les documents étaient différents.
+[22] Les documents bancaires déposés par l’appelant ne sont pas utiles parce qu’on ne peut pas faire de rapprochement entre les montants retirés de son compte bancaire et les dons qu’il a faits.
+[23] Si j’analyse la capacité de l’appelant à faire les dons présumés en espèces, je suis porté à croire que les montants sont importants en comparaison avec son revenu net disponible pour l’année d’imposition 2005. Les dons en espèces de 10 200 $ représentaient plus de 25 % de son revenu net disponible pour cette année.
+[24] En outre, l’appelant n’a pas démontré qu’il avait reçu un soutien financier de la part des autres membres de sa famille habitant avec lui ni qu’il avait fait des retraits à partir de sa marge de crédit de la Banque TD pour faire les dons présumés en espèces.
+[25] Pour tous les motifs qui précèdent, je conclus que l’appelant n’a pas réussi à prouver, selon la prépondérance des probabilités, qu’il avait fait les dons en cause.
+[26] L’appel est rejeté.
+Signé à Ottawa, Canada, ce 6e jour d’octobre 2016.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE :
+2016 CCI 218
+No DU DOSSIER DE LA COUR :
+2015-2993(IT)I
+INTITULÉ :
+Jagdeep Singh Purba c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 18 août 2016
+MOTIFS DU JUGEMENT :
+L’honorable juge Réal Favreau
+DATE DU JUGEMENT :
+Le 6 octobre 2016
+COMPARUTIONS :
+Représentant de l’appelant :
+M. Mohinder Pharwaha
+Avocate de l’intimée :
+Me Pallavi Gotla
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

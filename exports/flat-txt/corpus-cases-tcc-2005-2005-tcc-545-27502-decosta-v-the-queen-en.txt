@@ -1,0 +1,119 @@
+Title: DeCosta v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27502/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-545-27502-decosta-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-08-18
+
+# DeCosta v. The Queen
+
+- Citation: 2005 TCC 545
+- Decision date: 2005-08-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 29, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+DeCosta v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-08-18
+Neutral citation
+2005 TCC 545
+File numbers
+2005-146(IT)I
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-146(IT)I
+BETWEEN:
+ADAM E. DeCOSTA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on August 11, 2005, at Toronto, Ontario.
+Before: The Honourable D.G.H. Bowman, Chief Justice
+Appearances:
+For the Appellant: The Appellant himself
+Counsel for the Respondent: Jeremy Streeter
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2001 taxation year is allowed solely to give effect to the respondent's admission that the penalty imposed under subsection 163(2) should be reduced to conform to the reduction in the appellant's unreported income to $54,628 and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment accordingly.
+Signed at Ottawa, Canada, this 18th day of August, 2005.
+"D.G.H. Bowman"
+Bowman, C.J.
+Citation: 2005TCC545
+Date: 20050818
+Docket: 2005-146(IT)I
+BETWEEN:
+ADAM E. DeCOSTA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowman, C.J.
+[1] This is an appeal from an assessment of a penalty under subsection 163(2) of the Income Tax Act for the 2001 taxation year. The appellant in filing his return of income for 2001 reported employment income of $30,406.17 but did not report income that he earned from a business in the amount of $59,327.00. A federal penalty of $7,063.61 was imposed. On objection, the unreported net business income was reduced to $54,628.00. The respondent agrees that the appeal should be allowed for the purpose of reducing the penalty accordingly.
+[2] The appellant, in addition to his employment with Indigo Manufacturing Inc., also carried on the business under the proprietorship name of Bemic Enterprises of buying electronic parts in Taiwan and selling them to Indigo. There is some question whether Indigo knew that they were purchasing from the appellant and approved of what he was doing but this is irrelevant to the issue of penalties. It is sufficient to say that his gross income from the sales of electronic equipment was $134,000.00 and his net income was $54,628.00.
+[3] The appellant did not dispute the amount of income that was unreported. He disputes the penalty on the basis that he informed his accountant, Mr. Neville Sandassie, of the business that he carried on at the same time as he instructed him to prepare income tax and GST returns for 2001. He says that Mr. Sandassie told him that a separate return for the business would be filed and that the business income would be declared in that return. Bemic Enterprises Inc. was incorporated in August 2001 and thereafter the business was carried on through that corporation. It is possible that Mr. Sandassie was thinking of the corporate return.
+[4] Mr. Sandassie, whom the respondent called as a witness, initially denied having been told anything about the business. Under a very skillful cross-examination by Mr. DeCosta, he admitted that he prepared and filed Mr. DeCosta's GST return in respect of the business up to August 26, 2001 at approximately the same time as he prepared his personal income tax return.
+[5] He obviously knew about the business at the time that he prepared the 2001 income tax return. I found Mr. DeCosta's evidence more reliable than Mr. Sandassie's.
+[6] Mr. DeCosta argued that he was entitled to rely upon his accountant and that once he told the accountant about the business he should not be penalized or be held responsible for the accountant's failure to include the business income in his return of income.
+[7] There have been many cases involving the extent to which an accountant's omissions in a return can be attributed to a taxpayer. In the leading case of Cyrus C. Udell v. M.N.R., 70 DTC 6019, Cattanach J. of the Exchequer Court of Canada held that an accountant's failure to transpose cattle sales of $25,577.00 and expenses of $20,000.00 from the taxpayer's farm accounts to his working papers and from there to the return was gross negligence but it could not be attributed to the taxpayer so as to justify a penalty.
+[8] In Theophil DeCock v. M.N.R., 84 DTC 1523 and Foreman v. Canada, [2000] T.C.J. No. 803, Rip J. held that the taxpayers could not absolve themselves of responsibility by pointing to their accountants. He upheld the gross negligence penalties.
+[9] I have no difficulty in reconciling the decision of Cattanach J. with those of Rip J. They each depend on a finding of fact by the court with respect to the degree of involvement of the taxpayers. The question in every case is, leaving aside the question of wilfulness, which is not suggested here,
+(a) "was the taxpayer negligent in making a misstatement or omission in the return?" and
+(b) "was the negligence so great as to justify the use of the somewhat pejorative epithet 'gross'?"
+This is, I believe, consistent with the principle enunciated by Strayer J. in Venne v. The Queen, 84 DTC 6247.
+[10] In Farm Business Consultants Inc. v. The Queen, 95 DTC 200, affirmed 96 DTC 6085 (F.C.A.) I discussed at pages 205-206, the principles which I believe should be applied in penalty cases, as follows:
+The type of conduct envisaged by subsection 163(2) may overlap portions of subparagraph 152(4)(a)(i) and I think that it does so in this case. I have made a great effort to put the appellant's conduct in as benign a light as possible, and to attribute it to a naïve and foolish belief that schemes of the type involved here actually work rather than to a wilful misrepresentation of the true state of affairs. I have been unable to do so. The appellant either knew what it was doing or was reckless as to the legal efficacy of the arrangement. I am cognizant of the fact that subparagraph 152(4)(a)(i) has as its purpose the opening up of returns for statute-barred years where items of income, for a wide variety of reasons, are omitted or misstated, whereas subsection 163(2) is a penal provision and that in applying it if there is doubt as to the type of conduct to which the misrepresentation is attributable the benefit of that doubt should be given to the taxpayer. In Udell v. Minister of National Revenue, [1969] C.T.C. 704, 70 D.T.C. 6019, Cattanach J. said at page 6025:
+There is no doubt that subsection 56(2) is a penal section. In construing a penal section there is the unimpeachable authority of Lord Esher in Tuck & Sons v. Priester, (1887) 19 Q.B.D. 629, to the effect that if the words of a penal section are capable of an interpretation that would, and one that would not, inflict the penalty, the latter must prevail. He said at page 638:
+We must be very careful in construing that section because it imposes a penalty. If there is a reasonable interpretation which will avoid the penalty in any particular case, we must adopt that construction.
+and at page 6026:
+I take it to be a clear rule of construction that in the imposition of a tax or a duty, and still more of a penalty, if there be any fair and reasonable doubt the statute is to be construed so as to give the party sought to be charged the benefit of the doubt.
+See also Holley v. Minister of National Revenue, [1989] 2 C.T.C. 2152, 89 D.T.C 366 at page 2157 (D.T.C. 369); De Graaf v. The Queen, [1985] 1 C.T.C. 374, 85 DTC 5280.
+A Court must be extremely cautious in sanctioning the imposition of penalties under subsection 163(2). Conduct that warrants reopening a statute-barred year does not automatically justify a penalty and the routine imposition of penalties by the Minister is to be discouraged. Conduct of the type contemplated in paragraph 152(4)(a)(i) may in some circumstances also be used as the basis of a penalty under subsection 163(2), which involves the penalizing of conduct that requires a higher degree of reprehensibility. In such a case a court must, even in applying a civil standard of proof, scrutinize the evidence with great care and look for a higher degree of probability than would be expected where allegations of a less serious nature are sought to be established.[3] Moreover, where a penalty is imposed under subsection 163(2) although a civil standard of proof is required, if a taxpayer's conduct is consistent with two viable and reasonable hypotheses, one justifying the penalty and one not, the benefit of the doubt must be given to the taxpayer and the penalty must be deleted.[4] I think that in this case the required degree of probability has been established by the respondent, and that no hypothesis that is inconsistent with that advanced by the respondent is sustainable on the basis of the evidence adduced.
+Had I been able to construe the statute, or to view the evidence, in a manner that permitted me to give the appellant the benefit of the doubt I would have done so. That course of action is not open to me. The appellant's depiction of the legal relationship between it and Agricultural as that of a consulting arrangement went beyond simple negligence.
+[11] In drawing the line between "ordinary" negligence or neglect and "gross" negligence a number of factors have to be considered. One of course is the magnitude of the omission in relation to the income declared. Another is the opportunity the taxpayer had to detect the error. Another is the taxpayer's education and apparent intelligence. No single factor predominates. Each must be assigned its proper weight in the context of the overall picture that emerges from the evidence.
+[12] What do we have here? A highly intelligent man who declares $30,000.00 in employment income and fails to declare gross sales of about $134,000.00 and net profits of $54,000.00. While of course his accountant must bear some responsibility I do not think it can be said that the appellant can nonchalantly sign his return and turn a blind eye to the omission of an amount that is almost twice as much as that which he declared. So cavalier an attitude goes beyond simple carelessness.
+[13] The appeal is allowed solely to give effect to the respondent's admission that the penalty imposed under subsection 163(2) should be reduced to conform to the reduction in the appellant's unreported income to $54,628 and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment accordingly.
+Signed at Ottawa, Canada, this 18th day of August, 2005.
+"D.G.H. Bowman"
+Bowman, C.J.
+CITATION:
+2005TCC545
+COURT FILE NO.:
+2005-146(IT)I
+STYLE OF CAUSE:
+Adam E. DeCosta v.
+Her Majesty The Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+August 11, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable D.G.H. Bowman, Chief Justice
+DATE OF JUDGMENT:
+August 18, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Jeremy Streeter
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[3] Cf. Continental Insurance Co. v. Dalton Cartage Co., [1982] 1 S.C.R. 164; 131 D.L.R. (3d) 559; 25 C.P.C. 72, per Laskin, C.J.C. at 168-171; D.L.R. 562-564; C.P.C. 75-77); Bater v. Bater, [1950] 2 All E.R. 458 at 459; Pallan et al, v. M.N.R., 90 DTC 1102 at 1106; W. Tatarchuk Estate v. M.N.R., [1993] 1 C.T.C. 2440 at 2443.
+[4] This is not simply an extrapolation from the rule in Hodge's Case (1838) 2 Lewin 227; 168 E.R. 1136, applicable in criminal matters such, for example, as section 239 of the Income Tax Act where proof beyond a reasonable doubt is required. It is merely an application of the principle that a penalty may be imposed only where the evidence clearly warrants it. If the evidence is consistent with both the state of mind justifying a penalty under subsection 163(2) and the absence thereof - I hesitate to use the words innocence or guilt in these circumstances - it would mean that the Crown's onus had not been satisfied.

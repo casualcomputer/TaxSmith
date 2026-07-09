@@ -1,0 +1,314 @@
+---
+title: "Coome v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27899/index.do"
+last_modified: "2007-01-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 493"
+citation2: ""
+neutral_citation: "2007 CCI 493"
+decision_date: "2007-01-15"
+language: "fr"
+item_id: "27899"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1747
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:02:47.552000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4fbb94fbba5e6bff32274478284ab031db08f2aac866b88b576f62d4a3a4cd84"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Coome v. The Queen
+
+- Citation: 2007 CCI 493
+- Decision date: 2007-01-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1747, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Coome v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-01-15
+Référence neutre
+2007 CCI 493
+Numéro de dossier
+2005-2971(IT)I
+Juges et Officiers taxateurs
+Murray A. Mogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-2971(IT)I
+ENTRE :
+JOHN R. COOME,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 15 janvier 2007, à Toronto (Ontario).
+Devant : L’honorable juge M.A. Mogan
+Comparutions :
+Avocat de l’appelant :
+Me James Rhodes
+Avocat de l’intimée :
+Me Laurent Bartleman
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2001 et 2002 sont rejetés.
+Signé à Ottawa, Canada, ce 22e jour d’août 2007.
+« M.A. Mogan »
+Juge Mogan
+Traduction certifiée conforme
+ce 19e jour de septembre 2007.
+Johanne Brassard, trad. a.
+Référence : 2007CCI493
+Date : 20070822
+Dossier : 2005-2971(IT)I
+ENTRE :
+JOHN R. COOME,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant Mogan
+[1] Les années d’imposition frappées d’appel sont 2001 et 2002. Pendant l’audition des appels, de nombreux documents ont été déposés en preuve comme pièces. D’après les pièces R‑2 (onglets 8 et 9) et R‑3 (onglet 8), le revenu déclaré de l’appelant pour les années frappées d’appel peut être calculé en fonction des montants suivants inscrits aux lignes respectives de chaque déclaration de revenus :
+Ligne
+2001
+2002
+101
+Revenus d’emploi (feuillets T4 délivrés par Home Depot)
+27 456 $
+26 788 $
+104
+Autres revenus d’emploi
+861 $
+-------
+113
+Pension de sécurité de la vieillesse
+5 232 $
+5 335 $
+114
+Prestations du RPC
+5 674 $
+5 844 $
+121
+Revenus de placement
+3 917 $
+-------
+129
+Revenus d’un REER
+-------
+4 286 $
+135
+Perte d’entreprise
+(16 566 $)
+(10 835 $)
+150
+Revenu total
+26 574 $
+31 418 $
+[2] Au moyen d’avis de nouvelle cotisation envoyés à l’appelant en septembre 2004, le ministre du Revenu national a refusé la déduction de 16 566 $ et de 10 835 $ au titre des pertes d’entreprise pour 2001 et 2002 respectivement. Il a également refusé la déduction de 6 392 $ au titre des dépenses d’emploi pour l’année d’imposition 2002. L’appelant a interjeté appel de ces nouvelles cotisations et a choisi la procédure informelle.
+LES FAITS
+[3] L’appelant a longuement témoigné. Pendant toute la période pertinente, il était agent immobilier détenteur de permis dans la province de l’Ontario. Il a obtenu son premier permis en 1989 et a passé quelques années à apprendre les rouages du métier. En 1991, il était le premier agent à commission de Darryl Kent, un courtier en immeubles de la région de Toronto Beaches. Il a continué à faire bonne figure jusqu’en 1994, année où le Toronto Real Estate Board a changé les règles des [traduction] « visites libres ». Après 1994, il était plus difficile d’obtenir de nouvelles inscriptions ou de nouveaux clients.
+[4] À la fin des années 90 et en 2000, l’appelant trouvait de petites villes ontariennes (comme Tweed) qui comportaient des lotissements de 50 à 60 lots prêts pour l’exploitation. Il partait en voiture de la région de Toronto afin d’examiner certains de ces lots pour évaluer leur potentiel. Il mettait à profit son expérience passée de la préparation de sites dans l’industrie de la construction afin d’évaluer le potentiel d’un lot vacant. En 2002, l’appelant s’est rendu compte que la recherche de lots ou de terrains vacants selon des [traduction] « spécifications » n’était pas une bonne façon de toucher des commissions. Il a donc concentré ses activités immobilières dans la région de Toronto‑Mississauga.
+[5] En 2001 et en 2002, il était sous-agent au bureau de la Prudential National Realty Inc. à Mississauga mais il ne réussissait pas très bien. Il payait seulement 20 $ par mois et recevait très peu de soutien à titre de sous-agent; il devait cependant être affilié à un courtier agréé afin de conserver son permis. À la fin de 2002, il est devenu sous-agent d’Ariette Kendall, une agente prospère de Sutton Group‑Quantum Realty à Mississauga. Ariette Kendall obtenait de 15 à 20 dossiers par jour et elle en passait certains à l’appelant. Elle avait deux autres sous-agents.
+[6] Les pièces A‑2 à A‑8 sont des documents qui démontrent la participation active de l’appelant à titre de sous-agent d’Ariette Kendall de la fin de l’année 2002 à l’année 2004. La pièce A‑3, en particulier, est une photocopie des annonces qu’Ariette Kendall publiait afin de promouvoir ses dossiers et ses inscriptions auprès des personnes qui achetaient ou vendaient des maisons. Parce qu’elle était l’agent principal qui établissait la plupart des contacts, Ariette Kendall recevait 50 % de toutes les commissions que l’appelant touchait à titre de sous‑agent.
+[7] La pièce A‑1 est un relevé que Sutton Group‑Quantum Realty a remis à l’appelant. Le relevé fait état des commissions brutes (14 828,85 $) touchées par l’appelant du 1er janvier au 31 décembre 2004 et de certaines dépenses déduites (2 148,93 $), soit un [traduction] « revenu net avant paye » de 12 680 $. Ce dernier montant exclut les dépenses que l’appelant a engagées à l’extérieur du bureau du Sutton Group comme les dépenses liées à l’automobile, à l’ordinateur personnel, à Internet, au téléphone cellulaire, etc. Aucun relevé accessoire n’indique le montant du profit ou de la perte que l’appelant a inscrit à titre de sous‑agent immobilier dans sa déclaration de revenus pour 2004.
+[8] En 1999, en 2000, en 2001 et en 2002, l’appelant avait déclaré d’importants revenus (de 27 500 $ par année, en moyenne) tirés de son emploi pour Home Depot. Il avait peut-être travaillé pour Home Depot en 1997 et en 1998 également, mais il ne s’en souvenait pas, bien qu’il ait déclaré des revenus d’emploi de 24 293 $ et de 27 135 $ pour ces deux années respectivement. Il a déclaré qu’il avait commencé à travailler pour Home Depot à la fin des années 90 essentiellement dans le but de payer le solde de ses cartes de crédit.
+[9] La pièce A‑9 (onglets 5, 6 et 7) indique que l’appelant a déduit des dépenses d’automobile liées à l’essence, à des réparations, à des frais de stationnement, etc. en 2001, mais il reconnaît avoir omis de maintenir un registre de l’utilisation de l’automobile à des fins professionnelles ou à des fins personnelles. La même chose s’applique à l’année 2002 (voir la pièce A‑10, onglets 1 et 2). La pièce R‑3 (onglet 8) est une photocopie de la déclaration de revenus de l’appelant pour 2002. Dans le cadre de son contre-interrogatoire, l’appelant a reconnu que certaines dépenses avaient été déduites deux fois en 2002. À la page 115 de l’onglet 8, l’appelant a déduit les quatre montants suivants au titre des [traduction] « dépenses d’emploi » :
+Essence 1 134 $
+Entretien 322 $
+Assurance 4 800 $
+Permis et immatriculation 160 $
+À la page 120 de l’onglet 8, il a déduit les quatre mêmes montants au titre des [traduction] « dépenses d’entreprise (immobilier) ». Je conclus que l’appelant ne tient pas ses dossiers avec minutie.
+[10] Pendant le contre-interrogatoire, l’avocat de l’intimée a produit les pièces R‑1 et R‑2, qui présentent un résumé des renseignements tirés des déclarations de revenus de l’appelant de 1989 à 2002. L’avocat a passé ces pièces en revue avec l’appelant, qui a pu confirmer les revenus et les dépenses liés à ses activités d’agent immobilier pour la plupart de ces années. Pour les années récentes, l’appelant a confirmé les revenus tirés de son emploi pour Home Depot. À l’annexe A des présents motifs, j’ai résumé ce que je considère comme étant les montants les plus pertinents tirés des pièces R‑1, R‑2 et R‑3 (onglet 8).
+[11] Selon l’annexe A, les résultats financiers de l’activité d’agent immobilier de l’appelant pour les années 1989 à 2002 étaient toujours négatifs. Autrement dit, l’appelant déclarait chaque année des dépenses supérieures à ses commissions. Pour ce qui est des deux années frappées d’appel, il n’a touché aucune commission d’agent immobilier en 2001, et il en a touché une seule en 2002, de 329,94 $. D’après la pièce R‑3, onglet 7, il semble que la seule commission que l’appelant a touchée en 2002 (329,94 $) avait trait à une transaction conclue le 29 novembre 2002, dans le cadre de laquelle l’appelant et son épouse étaient les acheteurs. Je conclus que l’appelant, à titre d’agent immobilier, n’avait aucun client avec lequel il n’avait pas de lien de dépendance en 2001 et en 2002, après avoir eu un permis d’agent immobilier pendant plus de 10 ans. Il travaillait, bien sûr, pour Home Depot en 2001 et en 2002.
+ANALYSE
+[12] Si les appels avaient été entendus avant 1996, la question aurait probablement été celle de savoir si l’appelant nourrissait une attente raisonnable de profit (« ARP ») à l’égard de ses activités d’agent immobilier. Toutefois, en 1996, la Cour d’appel fédérale a rendu son jugement dans Tonn v. The Queen, 96 DTC 6001. Dans l’arrêt Tonn, la Cour d’appel a pour la première fois mis sérieusement en doute le caractère acceptable du critère de l’ARP lorsqu’il s’agissait de décider si le contribuable avait une source de revenu. Après l’arrêt Tonn, une certaine incertitude juridique a été observée quant au statut de l’ARP jusqu’à ce que la Cour suprême du Canada rende, en 2002, ses décisions dans Stewart c. Canada, [2002] 2 R.C.S. 645, et dans Walls c. Canada, [2002] 2 R.C.S. 684.
+[13] Dans l’arrêt Stewart, la Cour suprême a déclaré que l’ARP ne constituait pas un critère acceptable pour décider s’il y avait une source de revenu. Je retiens les passages suivants des motifs des juges Iacobucci et Bastarache :
+[40] […] l’[ARP] ne devrait pas être acceptée aveuglément comme étant le critère approprié pour déterminer l’existence d’une « source de revenu ». Cette conclusion est renforcée par le fait que la jurisprudence subséquente couvre toute la gamme des possibilités en ce qui a trait à l’application de la notion d’[ARP].
+[47] […] En conséquence, l’« [attente] raisonnable de profit » ne devrait pas être acceptée comme le critère applicable pour déterminer si les activités d’un contribuable constituent une source de revenu.
+[14] Dans Stewart également, la Cour suprême a recommandé l’application d’une méthode à deux volets pour trancher la question de l’existence d’une source de revenu :
+[50] […] Comme nous l’avons vu, une activité commerciale qui ne constitue pas véritablement une entreprise peut néanmoins être une source de revenu constituée d’un bien. De même, il est clair que certaines démarches de contribuables ne sont ni des entreprises, ni des sources de revenu constituées d’un bien, mais sont uniquement des activités personnelles. On peut recourir à la méthode à deux volets suivante pour trancher la question de l’existence d’une source :
+(i) L’activité du contribuable est-elle exercée en vue de réaliser un profit, ou s’agit-il d’une démarche personnelle?
+(ii) S’il ne s’agit pas d’une démarche personnelle, la source du revenu est-elle une entreprise ou un bien?
+Le premier volet du critère vise la question générale de savoir s’il y a ou non une source de revenu; dans le deuxième volet, on qualifie la source d’entreprise ou de bien.
+[15] Le premier volet consiste à faire la distinction entre une activité commerciale et une démarche personnelle. En ce qui concerne les faits des appels interjetés par M. Coome en 2001 et en 2002, je me fonde sur le passage suivant de l’arrêt Stewart :
+[53] […] Lorsqu’une activité est clairement de nature commerciale, il n’est pas nécessaire d’analyser les décisions commerciales du contribuable. De telles démarches comportent nécessairement la recherche d’un profit. Il existe donc par définition une source de revenu et il n’est pas nécessaire de pousser l’examen plus loin.
+[54] Il y a également lieu de souligner que la détermination de l’existence d’une source de revenu n’est pas un processus purement subjectif. Outre le fait que, pour qu’une activité soit qualifiée de commerciale par nature, le contribuable doit avoir l’intention subjective de réaliser un profit, il faut aussi, tel que mentionné dans l’arrêt Moldowan, que cette détermination se fasse en fonction de divers facteurs objectifs. Ainsi, sous une forme plus élaborée, le premier volet du critère susmentionné peut être reformulé ainsi : « Le contribuable a-t-il l’intention d’exercer une activité en vue de réaliser un profit et existe-t-il des éléments de preuve étayant cette intention? » Cela oblige le contribuable à établir que son intention prédominante était de tirer profit de l’activité et que cette activité a été exercée conformément à des normes objectives de comportement d’homme d’affaires sérieux.
+[55] Les facteurs objectifs énumérés par le juge Dickson dans Moldowan, précité, p. 486, étaient (1) l’état des profits et pertes pour les années antérieures, (2) la formation du contribuable, (3) la voie sur laquelle il entend s’engager, et (4) la capacité de l’entreprise de réaliser un profit. Comme nous le concluons plus loin, il n’est pas nécessaire pour les besoins du présent pourvoi d’ajouter d’autres facteurs à cette liste; nous nous abstenons donc de le faire. Nous tenons cependant à réitérer la mise en garde du juge Dickson selon laquelle cette liste ne se veut pas exhaustive et les facteurs diffèrent selon la nature et l’importance de l’entreprise. Nous tenons également à souligner que, même si l’[attente] raisonnable de profit constitue un facteur à prendre en considération à ce stade, elle n’est ni le seul facteur, ni un facteur déterminant. Il faut déterminer globalement si le contribuable exerce l’activité d’une manière commerciale. […]
+[16] En ce qui a trait à la première question de la méthode à deux volets, je suis convaincu que le travail de l’appelant à titre d’agent immobilier détenteur de permis ne saurait être considéré comme un passe-temps ou une démarche personnelle. Je me préoccupe toutefois des « facteurs objectifs » auxquels la Cour suprême fait référence aux paragraphes 54 et 55 reproduits ci-dessus et je me demande si l’appelant exerçait son activité conformément à des normes objectives de comportement d’homme d’affaires sérieux. Je répète plus particulièrement les deux phrases suivantes tirées des paragraphes 54 et 55 :
+Cela oblige le contribuable à établir que son intention prédominante était de tirer profit de l’activité et que cette activité a été exercée conformément à des normes objectives de comportement d’homme d’affaires sérieux.
+Il faut déterminer globalement si le contribuable exerce l’activité d’une manière commerciale.
+[17] L’appelant n’a pas fait de publicité en 2001 et en 2002. Il n’a pas tenu de registre pour consigner l’utilisation professionnelle ou personnelle de son automobile. Il n’a pas tenu d’agenda pour noter les rendez-vous, les réunions, les visites libres ou les autres activités se rapportant à son travail d’agent immobilier. Il a travaillé seulement à titre de sous-agent d’une agente très prospère, Ariette Kendall, et recevait les dossiers que cette dernière lui transmettait, mais il devait partager ses commissions moitié-moitié avec elle. Enfin, en 2001, il n’a touché aucune commission mais il a inscrit des dépenses de 16 566 $. En 2002, il n’a eu qu’une seule commission de 329,94 $ sur une maison que son épouse et lui‑même ont achetée. En résumé, il n’a eu aucun client en 2001 et en 2002, après avoir eu son permis d’agent immobilier pendant plus de 10 ans.
+[18] À mon avis, l’appelant n’obtient pas de très bons résultats pour ce qui est des premier et quatrième facteurs objectifs mentionnés par la Cour suprême au paragraphe 55. Au chapitre des profits et des pertes pour les années antérieures, l’annexe A des présents motifs indique que chaque année, de 1989 à 2002, les dépenses liées au travail d’agent immobilier de l’appelant étaient supérieures au revenu qu’il en tirait, même en ce qui concerne ses deux meilleures années. En effet, en 1991, l’appelant a touché des commissions de 36 474 $ et déclaré des dépenses de 44 324 $, et en 1993, il a touché des commissions de 20 694 $ et déclaré des dépenses de 34 667 $. En 1998, le revenu que l’appelant a touché des commissions est descendu à 2 417 $.
+[19] Rien dans la preuve n’indique que le travail d’agent immobilier de l’appelant pouvait générer un profit. L’appelant avait 56 ans quand il a obtenu son premier permis en 1989. En 2001 et en 2002, les années frappées d’appel, il avait environ 68 ans. Son travail d’agent immobilier ne lui avait jamais permis de déclarer un profit, et ses commissions ont été réduites à néant en 2001, et à presque rien en 2002.
+[20] Même si les activités de l’appelant à titre d’agent immobilier détenteur de permis ne constituaient pas un passe-temps ou une démarche personnelle, je conclus que l’appelant n’a pas exercé ces activités de manière commerciale ou en se comportant comme un homme d’affaires sérieux. Par conséquent, il n’est pas autorisé à déduire les pertes de 16 566 $ et de 10 835 $ qu’il a réclamées respectivement pour 2001 et 2002.
+[21] Pour 2002, l’appelant a déduit des dépenses d’emploi de 6 392,38 $ relativement à son emploi pour Home Depot. Vers les années 1998 ou 1999, l’appelant avait obtenu un emploi pour Home Depot, et les revenus tirés de cette source sont indiqués à l’annexe A des présents motifs. Aucun élément de preuve n’établit que l’appelant a déduit des dépenses d’emploi pour 2001 ou pour les années antérieures. Selon la preuve, certaines dépenses déduites pour 2002 ont également été déduites au titre des dépenses d’entreprise pour 2002 (voir le paragraphe 9 ci-dessus). En aucun cas l’appelant n’a été en mesure de démontrer que les dépenses d’emploi déduites pour 2002 avaient été engagées dans le cadre de son emploi pour Home Depot.
+[22] Les appels pour les années d’imposition 2001 et 2002 sont rejetés.
+Signé à Ottawa, Canada, ce 22e jour du mois d’août 2007.
+« M.A. Mogan »
+Juge Mogan
+Traduction certifiée conforme
+ce 19e jour de septembre 2007.
+Johanne Brassard, trad. a.
+ANNEXE A
+John R. Coome (no du dossier de
+la Cour : 2005‑2971(IT)I)
+Montants liés aux activités d’agent immobilier (« AI ») de M. Coome et certains autres montants, tirés des pièces R‑1, R‑2 et R‑3 et du témoignage oral de M. Coome
+1989
+Revenus d’AI
+6 636 $
+Prestations d’un REER
+5 200 $
+Revenu total
+11 836 $
+Dépenses d’AI
+16 072 $
+1990
+Revenus d’AI
+12 058 $
+Prestations d’un REER
+5 000 $
+Revenu total
+17 058 $
+Dépenses d’AI
+26 769 $
+1991
+Revenus d’AI
+36 474 $
+Prestations d’un REER
+19 965 $
+Revenu total
+56 439 $
+Dépenses d’AI
+44 324 $
+1992
+Revenus d’AI
+15 394 $
+Prestations d’un REER
+39 206 $
+Revenu total
+54 600 $
+Dépenses d’AI
+42 266
+1993
+Commissions d’AI brutes
+20 694 $
+Commissions d’AI nettes (perte)
+-13 973 $
+Dépenses d’AI prétendues
+34 667 $
+1994
+Revenus d’AI
+1 972 $
+Prestations d’un REER
+10 930 $
+Revenu total
+12 902 $
+Dépenses d’AI
+12 958 $
+1995
+Commissions d’AI brutes
+1 752 $
+Commissions d’AI nettes (perte)
+-15 143 $
+Dépenses d’AI prétendues
+16 895 $
+1996
+Revenus d’emploi (feuillets T4)
+14 751 $
+Revenu d’entreprise net (perte)
+-7 970 $
+Revenu total
+6 781 $
+1997
+Revenus d’emploi (feuillets T4)
+24 293 $
+Revenu d’entreprise net (perte)
+-6 826 $
+Revenu total
+17 467 $
+1998
+Revenus d’emploi (feuillets T4)
+27 135 $
+Revenus d’AI
+2 417 $
+Perte d’AI nette
+- 2 112 $
+Dépenses d’AI prétendues
+4 529 $
+Remarque : Il n’est pas établi hors de tout doute que les revenus de 27 135 $ selon les feuillets T4 étaient tirés de l’emploi pour Home Depot
+1999
+Emploi pour Home Depot
+30 255 $
+Revenu d’entreprise d’AI net (perte)
+-17 957 $
+2000
+Emploi pour Home Depot
+25 681 $
+Commissions d’AI
+5 180 $
+Revenu d’AI net (perte)
+-2 231 $
+Dépenses d’AI prétendues
+7 411 $
+2001
+Emploi pour Home Depot
+27 456 $
+Revenu d’entreprise d’AI net (perte)
+-16 566 $
+2002
+Emploi pour Home Depot
+26 788 $
+Commissions d’AI brutes
+329 $
+Revenu d’entreprise d’AI net (perte)
+-10 835 $
+Dépenses d’AI déclarées sur la déclaration de revenus
+11 164 $
+RÉFÉRENCE : 2007CCI493
+NO DU DOSSIER DE LA COUR : 2005-2971(IT)I
+INTITULÉ : John R. Coome c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 15 janvier 2007
+MOTIFS DU JUGEMENT : L’honorable juge suppléant M.A. Mogan
+DATE DU JUGEMENT : Le 22 août 2007
+COMPARUTIONS :
+Avocat de l’appelant :
+Me James Rhodes
+Avocat de l’intimée :
+Me Laurent Bartleman
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Me James Rhodes
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

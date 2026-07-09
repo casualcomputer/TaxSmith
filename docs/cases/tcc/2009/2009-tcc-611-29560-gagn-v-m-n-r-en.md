@@ -1,0 +1,190 @@
+---
+title: "Gagné v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29560/index.do"
+last_modified: "2009-12-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 611"
+citation2: ""
+neutral_citation: "2009 TCC 611"
+decision_date: "2009-12-07"
+language: "en"
+item_id: "29560"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6317
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:42:40.677000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3cf3489527aefae6ebfda932a4260f68e09b38ef5c1f65b6a0ce4bebaf62480a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gagné v. M.N.R.
+
+- Citation: 2009 TCC 611
+- Decision date: 2009-12-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6317, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gagné v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-12-07
+Neutral citation
+2009 TCC 611
+File numbers
+2009-120(EI)
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2009-120(EI)
+BETWEEN:
+YVES GAGNÉ,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on November 2, 2009, at Chicoutimi, Quebec
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Agent for the appellant:
+Carolle T. Ferland
+Counsel for the respondent:
+Sylvain Ouimet
+____________________________________________________________________
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act is dismissed and the decision of the Minister of National Revenue is confirmed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 7th day of December 2009.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 24th day of December 2009.
+Elizabeth Tan, Translator
+Citation: 2009 TCC 611
+Date: 20091207
+Docket: 2009-120(EI)
+BETWEEN:
+YVES GAGNÉ,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] The appellant is appealing from the decision of the Minister of National Revenue (the Minister). The Minister found that Yves Gagné (the "worker") did not hold insurable employment when he was working for the company 9180‑9210 Québec Inc. (the "payor") for the period of December 10, 2007, to June 6, 2008; the Minister found that it was excluded employment because a substantially similar contract of employment would not have been entered into if the worker and the payor had been dealing with each other at arm's length.
+[2] When making his decision, the Minister determined that the worker, when working for the payor, was related to the payor within the meaning of the Income Tax Act (the ITA) by relying on the following presumptions of fact:
+[translation]
+a. Mélissa Gagné and Stéphane Dion are the payor's sole shareholders; (admitted)
+b. the appellant is Mélissa Gagné's father, and Stéphane Dion's father-in-law; (admitted)
+c. the appellant is related to persons who control the payor; (ignored)
+[3] When making his decision, the Minister also determined that the payor and the worker [translation] "had a relationship of dependence between them in the employment context" and that it was not reasonable to find that the payor would have entered into [translation] "a substantially similar contract of employment if they had had an arm's length relationship," considering the following circumstances:
+[translation]
+i. the payor was incorporated on March 30, 2007; (no knowledge)
+ii. the payor operated a forestry business that harvested and transported wood to logging roads; (admitted)
+iii. the payor's statements of income and expenses were: (no knowledge)
+Income
+Net benefit
+to December 31, 2007
+$517,978.00
+$72,213.00
+to June 30, 2008
+$153,688.00
+($72,666.00)
+iv. on May 1, 2007, the payor signed a purchase agreement for machinery, namely a Timberjack feller buncher, a Timberjack log forwarder and two Ford trucks from the company Multi R.M. Inc. (Multi), a company whose sole shareholder was Rachel Munger; (admitted)
+v. Rachel Munger is the appellant's spouse and Mélissa Gagné's mother; (admitted)
+vi. on May 1, 2007, the payor signed a purchase agreement with Multi, stating that the payor would hire the appellant during the spring thaw to perform maintenance on the machinery sold by Multi, for a period of 5 years; (admitted)
+vii. the appellant had been working in the forestry industry since 1981; (admitted)
+viii. according to the appellant, from December 2007 to March 2008, his duties for the payor consisted of going to Monts Valins on Sunday, more than three hours' drive from his residence, to plug machinery in to a generator, so the machinery would be operational on Monday morning when the other workers arrived; according to the payor, in January and February 2008, the payor's forestry contract was in Santerre [sic] in Abitibi, more than 8 hours' drive from the appellant's residence; (denied)
+ix. the appellant never told the respondent that the duties were in Abitibi, an 8 hours' drive from his residence; (denied)
+x. according to the appellant and the payor, wood harvesting at the end of 2007 was done for the company Produits forestiers Saguenay Inc., whereas the director of forestry operations at Produits forestiers Saguenay Inc. indicated the payor did not harvest wood for the company during that period; (denied)
+xi. for many weeks during the period of December 2007 to March 2008, the appellant was the only employee in the payor's payroll journal and his duties for the payor, plugging machinery in for the other workers, is not supported by the facts; (denied)
+xii. from March 2008 to June 2008, the appellant's duties were to perform maintenance on two machines in a garage; (admitted)
+xiii. the payor gave the appellant $12,366.00 in compensation during this 12‑week period, for 47 hours of work, for a total of 564 hours; (admitted)
+xiv. Stéphane Dion, the payor's shareholder, received unemployment insurance benefits from February 24, 2008, to July 17, 2008, while the appellant worked full time for the payor; (denied)
+xv. Mélissa Gagné informed the respondent's determination officer that Stéphane Dion had mechanical skills but preferred that the appellant perform the maintenance; (denied)
+xvi. from December 22, 2007, to February 9, 2008, Stéphane Dion was listed in the payor's payroll journal as a mechanic; (denied)
+xvii. Stéphane Dion worked as a mechanic when the payor's machinery was in Abitibi, and did so without the appellant's help; (denied)
+xviii. the payor, despite its statement of loss, chose to have the appellant work while the shareholder, Stéphane Dion, received unemployment insurance benefits; (denied)
+xix. on June 10, 2008, the payor issued the appellant, as operator, a record of employment that indicated the first day of work as September 10, 2007, and the last day as June 6, 2008; the number of insurable hours was 629 and insured earnings was in the amount of $13,737.36; (admitted)
+xx. the purpose of the contracts between the payor and Multi, associated companies, were for the appellant to qualify for unemployment–insurance benefits; (denied)
+xxi. the appellant's employment conditions were based on the relationship between the parties; (denied)
+[4] The payor's payroll journal (Exhibit I‑4) indicates that:
+1. during the weeks ending December 15, 2007, December 22, 2007, and December 29, 2007, the worker worked 16 hours a week for the payor;
+2. during the weeks ending January 5, 2008, January 19, 2008, January 26, 2008, February 2, 2008, February 9, 2008, February 16, 2008, February 23, 2008, and March 1, 2008, the worker worked 8 hours a week for the payor;
+3. from March 25, 2008, to June 6, 2008, the worker worked for the payor for 12 weeks at 47 hours a week;
+4. during the week ending December 15, 2007, the worker was the only employee linked to the payor's forestry activities listed in the payor's payroll journal;
+5. during the weeks ending December 22, 2007, and December 29, 2007, the worker and Stéphane Dion were the only employees linked to the payor's forestry activities listed in the payor's payroll journal;
+6. during the week ending January 5, 2008, the worker was the only employee linked to the payor's forestry activities listed in the payor's payroll journal;
+7. during the weeks ending January 19, 2008, January 26, 2008, February 2, 2008, and February 9, 2008, the worker and five other employees linked to the payor's forestry activities were listed in the payor's payroll journal. It must be noted that during these weeks, the payor was working on a timber-cutting contract in Santerre [sic], in Abitibi;
+8. during the weeks ending February 16, 2008, February 23, 2008, and March 1, 2008, the worker was the only employee linked to the payor's forestry activities listed in the payor's payroll journal;
+9. from March 25, 2008, to June 6, 2008, the worker was also the only employee linked to the payor's forestry activities listed in the payor's payroll journal.
+Testimony of the worker
+[5] The worker's testimony regarding the nature of his duties for the payor during the periods he was listed on the payroll can be summarized as follows: in December 2007, his work consisted of going to Monts Valins on Sundays (three hours' drive from his residence) to plug the payor's machinery in to a generator so that this machinery would be operational when the payor's forestry employees went to the payor's work site in Monts Valins on Monday morning. During this period, his work also consisted of running errands for the payor. During the week ending January 5, 2008, he prepared machinery for its transfer to Santerre [sic], in Abitibi, where the payor was to carry out a timber-cutting contract in January and February 2008. After the contract in Abitibi (around February 9, 2008) until March 25, 2008, he cleaned the payor's machinery for the maintenance and repair work he was to perform, which he allegedly did between March 25, 2008, and June 6, 2008, and that allegedly required 564 hours of work. Moreover, the appeal report prepared by the worker (Exhibit I‑5) on November 25, 2008, indicates the following statements were given to the appeals officer regarding the nature of his work during the periods he was listed on the payroll:
+[translation]
+(29) From December 2007 to February 2008, the payor's harvesting work was done for Produits forestiers Saguenay inc.
+(30) In December 2007 to February 2008, he had to go to the forest (Monts Valins) on Sundays to collect [sic] the machinery to the generator so the machinery would be operational when the other workers arrived on Monday morning. To get to Monts Valins, the worker had to drive more than 3 hours.
+(31) On Monday morning, the worker crossed paths with the other workers as they arrived. Some weeks, the worker took 16 hours because it took longer. Moreover, he ran errands for Stéphane Dion to get parts because the payor was away.
+(32) The other 8-hour weeks were weeks when it was milder, and therefore there was less work.
+(33) From March 2008 to June 2008, the worker did maintenance on two machines in a garage. He rebuilt the machinery, changed the valves and cylinders.
+At the least, we can say that the worker's statements during his testimony regarding the nature of his duties was rather different than his statements of November 25, 2008, on the same subject; in particular:
+(i) the worker's testimony was that he went to Monts Valins on Sunday evenings only in December 2007, whereas his November 25, 2008, statements clearly indicate that from December 2007 to February 2008, he went to Monts Valins on Sunday evenings. Moreover, I strongly doubt that the worker went to Monts Valins in December 2007 to plug machinery in to the generator because in the Reply to the Notice of Appeal (see subparagraph 6(k) of the Reply to the Notice of Appeal and paragraph 20 of Exhibit I-5), the Minister alleged that in December 2007, the payor was not even cutting wood in Monts Valins. The worker's evidence against this claim by the Minister relied on the testimony of his daughter and his son-in-law, who cannot be qualified as independent witnesses in this case, and on the submission of an invoice to evidence (Exhibit A‑2) that does not mean anything in itself. The worker could have asked the head of the company Produits forestiers Saguenay Inc. to testify that the payor was carrying out a timber-cutting contract in Monts Valins in December 2007 and that he had to plug the machinery in to a generator during that period. The worker could also have established his credibility with the testimony of an independent witness who had knowledge of such travel to Monts Valins in December 2007. The worker did not do this. I assume that this evidence would not have been favourable to him.
+(ii) on November 25, 2008, the worker did not declare to the appeals officer that during the week ending February 5, 2008, he had prepared machinery in preparation for its transfer to Santerre [sic], in Abitibi.
+(iii) on November 25, 2008, the worker did not declare to the appeals officer the nature of his activities after the end of the contract in Abitibi (in this case, on or around February 9, 2008), a period during which only the worker was listed in the payor's payroll journal.
+Testimony of Mélissa Gagné and Stéphane Dion
+[6] Ms. Gagné essentially gave the same testimony as the worker regarding the duties he carried out during the periods he was listed in the payor's payroll journal, although her knowledge of the worker's hours of work were essentially based on reports provided by Stéphane Dion, the worker's son-in-law, who was also his immediate boss. Stéphane Dion also gave the same testimony as the worker regarding the duties he carried out during the periods he was listed in the payor's payroll journal.
+[7] We will recall that the respondent determined this employment was not insurable under paragraphs 5(2)(i) and 5(3) of the Act because he was convinced that it was not reasonable to conclude that a substantially similar contract of employment would not have been entered into if the worker and the payor had been dealing with each other at arm's length.
+[8] The Federal Court of Appeal has repeatedly defined the role conferred on Tax Court of Canada judges by the Act. That role does not allow such judges to substitute their discretion for that of the Minister, but it carries with it the obligation to "verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so . . . decide whether the conclusion with which the Minister was "satisfied" still seems reasonable." (see Légaré v. Canada, [1999] F.C.J. No. 878 (QL), para. 4).
+[9] In other words, before deciding whether the Minister's conclusion still seems reasonable, I must, in light of the evidence before me, verify whether the Minister's conclusions are valid, considering the factors set out in paragraph 5(3)(b) of the Act. It should be asked whether the payor and the worker would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[10] In this case, the worker had the burden of proving, on a balance of probabilities, that the facts inferred or relied on by the Minister were not real or were incorrectly assessed having regard to the context in which they occurred. The worker simply did not meet his burden. The worker's evidence was essentially based on his testimony, which I considered had little probative value considering the distortions and contradictions between his statements on November 25, 2008, to the appeals officer and his testimony regarding the duties carried out for the payor and the time of their execution. In the circumstances, it is very difficult to grand any probative value to the testimony of his daughter and his son-in-law, although they essentially gave the same testimony as the worker. The worker had the opportunity in this case to establish his credibility by having independent witnesses testify regarding some of his duties. Unfortunately, he did not do this. In all, I strongly doubt that the worker carried out all the duties he claims to have carried out for the payor, and that he spent so many hours doing so.
+[11] In light of the evidence before me, after reviewing the factors stated at paragraph 5(3)(b) of the Act and after verifying their validity, the Minister's findings seem reasonable to me.
+[12] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 7th day of December 2009.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 24th day of December 2009.
+Elizabeth Tan, Translator
+CITATION: 2009 TCC 611
+COURT FILE NO.: 2009-120(EI)
+STYLE OF CAUSE: YVES GAGNÉ AND M.N.R.
+PLACE OF HEARING: Chicoutimi, Quebec
+DATE OF HEARING: November 2, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: December 7, 2009
+APPEARANCES:
+Agent for the appellant:
+Carolle T. Ferland
+Counsel for the respondent:
+Sylvain Ouimet
+COUNSEL OF RECORD:
+For the appellant:
+Name: Carolle T. Ferland
+Firm:
+For the respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

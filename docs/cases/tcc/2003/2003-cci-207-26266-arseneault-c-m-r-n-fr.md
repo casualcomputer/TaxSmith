@@ -1,0 +1,251 @@
+---
+title: "Arseneault c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26266/index.do"
+last_modified: "2003-04-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 207"
+citation2: ""
+neutral_citation: "2003 CCI 207"
+decision_date: "2003-04-14"
+language: "fr"
+item_id: "26266"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3997
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:17:26.609000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c8bbfc5ac67f6680ee6fc40acfe684c590941f1adba9e216e7d82d1f5ca5e8de"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Arseneault c. M.R.N.
+
+- Citation: 2003 CCI 207
+- Decision date: 2003-04-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3997, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Arseneault c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-04-14
+Référence neutre
+2003 CCI 207
+Numéro de dossier
+2000-21(EI), 2000-22(EI), 2000-25(EI), 2000-26(EI)
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossiers : 2000-21(EI)
+2000-22(EI)
+2000-25(EI)
+2000-26(EI)
+ENTRE :
+LIONEL ARSENEAULT,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appels entendus le 21 octobre 2002 sur preuve commune avec les appels de Succession de monsieur Léon Arsenault (2000-30(EI), 2000-31(EI), 2000-35(EI))
+à Sept-Iles (Québec)
+Devant : L'honorable juge Frnaçois Angers
+Comparutions :
+Avocat de l'appelant :
+Me Gilbert Nadon
+Avocat de l'intimé :
+Me Claude Lamoureux
+____________________________________________________________________
+JUGEMENT
+Les appels sont rejetés et les décisions rendues par le ministre sont confirmées, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 14e jour d'avril 2003.
+« François Angers »
+J.C.C.I.
+Dossiers : 2000-30(EI)
+2000-31(EI)
+2000-35(EI)
+ENTRE :
+SUCCESSION DE MONSIEUR LÉON ARSENEAULT,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appels entendus le 21 octobre 2002 sur preuve commune avec les appels de Lionel Arsenault (2000-21(EI), 2000-22(EI), 2000-25(EI) et 2000-26(EI))
+à Sept-Iles (Québec)
+Devant : L'honorable juge François Angers
+Comparutions :
+Avocat de l'appelante :
+Me Gilbert Nadon
+Avocat de l'intimé :
+Me Claude Lamoureux
+____________________________________________________________________
+JUGEMENT
+Les appels sont rejetés et les décisions rendues par le ministre sont confirmées, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 14e jour d'avril 2003.
+« François Angers »
+J.C.C.I.
+Référence : 2003CCI207
+Date : 20030414
+Dossiers : 2000-21(EI)
+2000-22(EI)
+2000-25(EI)
+2000-26(EI)
+ENTRE :
+LIONEL ARSENEAULT,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+et dossiers : 2000-30(EI)
+2000-31(EI)
+2000-35(EI)
+ENTRE :
+SUCCESSION DE MONSIEUR LÉON ARSENEAULT,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Angers, C.C.I.
+[1] Il s'agit de sept appels entendus sur preuve commune à Sept-Îles (Québec) le 21 octobre 2002. Les appelants en ont appelé à cette cour des décisions du ministre du Revenu national (le « ministre » ) selon lesquelles leur emploi durant certaines périodes n'était pas assurable au motif que durant ces périodes, ils n'étaient pas à l'emploi de « Nico Pêche Internationale Inc. » (ci-après « l'acheteur Nico » ) ou de « Poséidon, Poissons et Crustacés Inc. » (ci-après « l'acheteur Poséidon » ), mais plutôt à l'emploi de « 2430-8256 Québec Inc » (ci-après le « payeur » ) avec le résultat que les appelants ne pouvaient se prévaloir des dispositions prévues aux règlements à l'intention des pêcheurs en application de la Loi sur l'assurance-chômage et maintenant de la Loi sur l'assurance-emploi ( « Loi » ) pendant les années en cause.
+[2] Dans tous ces appels, la décision du ministre est datée du 1er octobre 1999. Dans le dossier 2000-21(EI), les périodes en litige sont celles du 26 avril au 25 octobre 1992, du 27 mai au 2 octobre 1993, du 19 mai au 25 septembre 1994 et du 3 juin au 5 septembre 1995. Il s'agit de l'acheteur Nico.
+[3] Dans le dossier 2000-22(EI), la période est du 13 mai au 1er novembre 1997 et met en cause l'acheteur Poséidon. Dans le dossier 2000-25(EI), les périodes sont du 26 juin au 7 octobre 1994 et du 3 juin au 3 novembre 1995 et mettent en cause l'acheteur Poséidon. Le dossier 2000-22(EI) porte sur les périodes du 23 septembre au 2 octobre 1993 et du 30 août au 2 novembre 1996 et met en cause l'acheteur Poséidon.
+[4] Le dossier 2000-35(EI), où l'appelant est Succession monsieur Léon Arseneault, porte sur les périodes du 3 mai au 14 novembre 1992, du 27 mai au 2 octobre 1993, du 19 mai au 25 septembre 1994 et du 3 juin au 5 septembre 1995 et met en cause l'acheteur Nico. Le dossier 2000-31(EI) porte sur la période du 13 mai au 1er novembre 1997 et met en cause l'acheteur Poséidon. Le dernier dossier, soit 2000-30(EI), porte sur les périodes du 26 septembre au 20 octobre 1993, du 15 octobre au 29 octobre 1994, du 16 septembre au 3 novembre 1995 et du 30 avril au 2 novembre 1996 et met en cause l'acheteur Poséidon.
+[5] Les faits sur lesquels s'est fondé le ministre pour rendre sa décision ont tous été admis à l'audition sauf le dernier. Dans les quatre appels de Lionel Arseneault, les faits sont identiques, à l'exception de l'identité de l'acheteur des prises, et se lisent comme suit :
+a) Le payeur, constitué en société le 9 mars 1987, possède un bateau de pêche, « Le Wilson » , utilisé pour faire la pêche à la pétoncle dans les zones de Natashquan, Îles d'Anticosti et Betchouan. (admis)
+b) Depuis le 18 décembre 1991, l'appelant et son frère, Léon Arseneault, sont les seuls actionnaires du payeur; l'appelant détenait 49 % des actions et Léon 51 % des actions. (admis)
+c) Le 31 août 1992, Léon vend 2 % de ses actions à l'appelant et depuis cette date, l'appelant détient 51 % des actions du payeur et Léon détient 49 % des actions du payeur. (admis)
+d) Au 31 décembre 1992, les états financiers du payeur indiquent qu'il était propriétaire d'un bateau d'une valeur de 110 028 $ et d'équipement de pêche valant 65 033 $. (admis)
+e) Durant les périodes en litige, l'appelant travaillait sur le bateau du payeur comme capitaine. (admis)
+f) La saison de pêche se déroule, selon les années, de mai à la fin octobre ou début novembre. (admis)
+g) Durant les périodes en litige, l'appelant faisait la pêche avec comme équipiers réguliers : Léon Arseneault, André Arseneault, Robert Arseneault, Yves Arseneault, Wilson Arseneault et occasionnellement Francine Nadeau. (admis)
+h) André, Robert et Yves Arseneault sont les frères de l'appelant et de Léon Arseneault. Wilson est le fils de Léon Arseneault et Francine Nadeau est l'épouse de l'appelant. (admis)
+i) En 1992, le payeur a vendu ses prises exclusivement à l'acheteur. (admis)
+j) En 1993, 1994, 1995 et 1996, le payeur a vendu ses prises à l'acheteur et à « Poséidon, Poissons et Crustacés Inc. » . (admis)
+k) L'appelant est titulaire d'un permis de pêche délivré par Pêches et Océans pour une ou des zones données; un tel permis ne peut être octroyé au nom d'une société. (admis)
+l) Durant les périodes en litige, le payeur assumait tous les frais reliés au permis de l'appelant, assumait toutes les dépenses d'exploitation du bateau et recevait le produit de la vente de la pêche. (admis)
+m) L'appelant n'assumait aucune dépense du bateau. (admis)
+n) En 1992, l'appelant était rémunéré selon un pourcentage des prises brutes. (admis)
+o) De 1993 à 1996, l'appelant recevait de l'acheteur une rémunération hebdomadaire fixe et, en retour, des feuillets T4 ou T4F. (admis)
+p) Les relevés d'emploi émis par l'acheteur, au nom de l'appelant, sont tous faux quant au nombre de semaines travaillées. (nié)
+[6] Dans les appels de la Succession de monsieur Léon Arseneault, les faits sont également identiques à ceux dans les appels de Lionel Arseneault à l'exception de l'acheteur des prises. Les faits allégués par le ministre et acceptés par les appelants révèlent que les appelants ont reçu un salaire hebdomadaire fixe durant toutes les années en cause, sauf en 1992, lorsque le salaire était basé sur un pourcentage des prises.
+a) Le payeur, constitué en société le 9 mars 1987, possède un bateau de pêche, « Le Wilson » , utilisé pour faire la pêche à la pétoncle dans les zones de Natashquan, Îles d'Anticosti et Betchouan. (admis)
+b) Depuis le 18 décembre 1991, le travailleur et son frère, Lionel Arseneault, étaient les seuls actionnaires du payeur; Lionel Arseneault détenait 49 % des actions et le travailleur 51 % des actions. (admis)
+c) Le 31 août 1992, le travailleur vendait 2 % de ses actions à son frère Lionel et depuis cette date, Lionel détenait 51 % des actions du payeur et le travailleur détenait 49 % des actions du payeur. (admis)
+d) Au 31 décembre 1992, les états financiers du payeur indiquent qu'il était propriétaire d'un bateau d'une valeur de 110 028 $ et d'équipement de pêche valant 65 033 $. (admis)
+e) Durant les périodes en litige, le travailleur travaillait sur le bateau du payeur. (admis)
+f) La saison de pêche se déroule, selon les années, de mai à la fin octobre ou début novembre. (admis)
+g) Durant les périodes en litige, le travailleur faisait la pêche avec comme équipiers réguliers : Lionel Arseneault, André Arseneault, Robert Arseneault, Yves Arseneault, Wilson Arseneault et occasionnellement Francine Nadeau. (admis)
+h) André, Robert et Yves Arseneault sont les frères du travailleur et de Lionel Arseneault. Wilson est le fils du travailleur et Francine Nadeau est l'épouse de Lionel Arseneault. (admis)
+i) En 1993, 1994, 1995 et 1996, le payeur a vendu ses prises à l'acheteur et à « Nico Pêche Internationale Inc. » . (admis)
+j) Le travailleur était titulaire d'un permis de pêche délivré par Pêches et Océans pour une ou des zones données; un tel permis ne peut être octroyé au nom d'une société. (admis)
+k) Durant les périodes en litige, le payeur assumait tous les frais reliés au permis du travailleur, assumait toutes les dépenses d'exploitation du bateau et recevait le produit de la vente de la pêche. (admis)
+l) Le travailleur n'assumait aucune dépense du bateau. (admis)
+m) De 1993 à 1995, le travailleur recevait de l'acheteur une rémunération hebdomadaire fixe et, en retour, des feuillets T4 ou T4F. (admis)
+n) Les relevés d'emploi émis par l'acheteur, au nom du travailleur, sont tous faux quant au nombre de semaines travaillées. (nié)
+[7] La question en litige dans ces appels est de savoir si les emplois des appelants durant les périodes en question sont assurables en vertu de la Loi (emploi et chômage) et plus particulièrement des règlements à l'intention des pêcheurs pris en application de l'ancienne loi et du Règlement sur l'assurance-emploi (pêche) pris en application de la nouvelle loi. En d'autres mots, les appelants sont-ils des pêcheurs en vertu des deux lois et de leurs règlements respectifs ?
+[8] Les appelants ont fait témoigner monsieur Omer Rail, président-directeur général et propriétaire de l'acheteur Poséidon depuis 14 ans. Il a expliqué que sa société achète les prises d'une quarantaine de pêcheurs. Monsieur Rail explique qu'il a eu certaines difficultés relativement à l'assurance-chômage et à l'assurabilité des emplois des pêcheurs quatre à cinq ans après avoir commencé son entreprise. Le témoin explique qu'après avoir reçu des directives d'un fonctionnaire de Revenu Canada, sa société a toujours payé la contribution de l'employeur au paiement des primes pour l'assurance-emploi/assurance-chômage, mais seulement pour les capitaines propriétaires de bateau, puisque sa société était réputée être leur employeur. Pour ce qui est des aides-pêcheurs, la société de pêche était responsable du paiement de la contribution de l'employeur. Il a déposé en preuve une copie d'une fiche de paye confirmant ses dires et affirme avoir agit ainsi avec les deux appelants. Il termine en disant ne pas facturer de frais d'administration aux sociétés de pêche et en disant que toutes les usines et les entreprises comme la sienne agissent de façon semblable. Dans le cas de sa société, les appelants recevaient un salaire hebdomadaire fixe.
+[9] Monsieur Denis Hamel, agent des appels à Revenu Canada, est venu expliquer qu'il est normal que les sociétés acheteuses de poissons paient la cotisation de l'employeur parce qu'elles sont réputées être l'employeur en vertu des règlements pris en application de la Loi. En pratique, certains acheteurs facturent cette dépense aux capitaines, certains l'incluent dans leurs frais d'administration et certains facturent également comme dépense le salaire qu'ils paient à la société de pêche.
+[10] L'agent d'assurabilité, Louise Dessureault, est venue expliquer qu'en l'espèce, les prises du bateau « Le Wilson » appartiennent à son propriétaire, soit la société 2430-8256 Québec Inc. Le salaire des deux appelants est prélevé du produit de la prise. Si la compagnie 2430-8256 Québec Inc. n'existait pas, les deux appelants seraient réputés être des travailleurs autonomes et l'acheteur, en vertu des règlements, serait réputé être leur employeur.
+[11] Il faut donc se demander si le fait que les appelants ont constitué une société met en péril les droits des pêcheurs à la sécurité du revenu offerte par le programme d'assurance-chômage/assurance-emploi. Est-ce que le fait qu'il existe une société empêche l'application du règlement sur la pêche en application de la Loi ?
+[12] Il faut se souvenir que la réglementation visant les prestations aux pêcheurs est tout à fait particulière puisqu'elle permet aux pêcheurs indépendants et autonomes d'être assurés comme si leurs acheteurs étaient leurs employeurs. Il s'agit donc d'une exception à la règle générale puisque cette réglementation permet d'assurer des travailleurs autonomes ou indépendants, donc non liés par un contrat de louage de services.
+[13] Le règlement en application de la Loi sur l'assurance-chômage définit « pêcheur » comme suit :
+74.(1) « pêcheur » désigne un travailleur indépendant se livrant à la pêche et comprend toute personne qui, n'étant pas liée par un contrat de louage de services ou ne faisant pas la pêche pour son divertissement personnel ou celui d'une autre personne,
+a) participe à une pêche,
+b) participe à un travail accessoire se rattachant à une pêche ou à la manutention des produits d'une pêche, que ce travail consiste soit à charger, à décharger, à transporter ou à traiter les produits pêchés par l'équipe dont elle est membre, soit à préparer, à réparer, à désarmer ou à remiser le bateau ou les engins de pêche utilisés par cette équipe pour faire cette pêche ou manutentionner les produits de cette pêche, si la personne occupée à un tel travail accessoire participe en outre, à la pêche elle-même, ou
+c) participe à la construction d'un bateau de pêche qu'elle-même ou une équipe dont elle est membre utilisera pour faire une pêche.
+[14] Et les paragraphes 75 et 76 disposent que :
+75. Toute personne qui est un pêcheur doit être considérée comme assurée et, sous réserve de la présente partie, la Loi et tout règlement établi en vertu de la Loi s'appliquent à cette personne, en tenant compte des modifications qu'imposent les circonstances.
+76.(1) À toutes les fins de la Loi et de tout règlement établi en vertu de la Loi, l'employeur d'un pêcheur est la personne prévue au présent article.
+(2) Lorsqu'une pêche est livrée au Canada à un acheteur ou à l'agent d'un acheteur par un membre de l'équipe qui a fait cette pêche, l'acheteur est considéré comme l'employeur de tous les pêcheurs qui sont membres de cette équipe et qui, dans une déclaration faite selon l'article 82, ont déclaré partager entre eux le produit de la vente de cette pêche.
+[. . .]
+[15] L'article 78 du règlement porte sur la façon de déterminer la rémunération d'un pêcheur. Je ne reproduis ici les paragraphes que (1) et (2) :
+78.(1) La détermination de la rémunération d'un pêcheur doit être faite uniquement selon les dispositions du présent article.
+(2) La rémunération d'un pêcheur est, sous réserve du paragraphe (4), la somme payée ou payable à ce pêcheur pour une pêche, après qu'a été soustraite de la valeur de cette pêche la partie qui n'a pas été prise par l'équipe dont il est membre, conformément à l'entente de partage déclarée selon l'article 82.
+[. . .]
+[16] Le règlement pris en application de la Loi sur l'assurance-emploi définit le terme « pêcheur » de la façon suivante :
+« pêcheur » Travailleur indépendant se livrant à la pêche, y compris toute personne qui, n'étant pas liée par un contrat de louage de services ni ne faisant la pêche pour son divertissement personnel ou celui d'une autre personne, se livre à l'une des activités suivantes :
+a) la réalisation d'une prise;
+b) les travaux se rapportant à la réalisation ou à la manutention d'une prise, qu'il s'agisse de charger, décharger, transporter ou traiter la prise de l'équipage dont elle est membre, ou de préparer, réparer, désarmer ou remiser le bateau de pêche ou les engins de pêche utilisés par cet équipage pour faire ou manutentionner la prise, dans les cas où elle participe également à la réalisation de la prise;
+c) la construction d'un bateau de pêche qu'elle-même ou l'équipage dont elle est membre utilisera pour faire une pêche. (fisher)
+[17] La détermination de l'employeur fait l'objet de l'article 3. Je reproduis ici les paragraphes (1) et (2) :
+3.(1) Pour l'application de la Loi et de ses règlements, l'employeur d'un pêcheur est la personne considérée comme tel par le présent article.
+(2) Lorsque la prise de l'équipage est livrée au Canada à un acheteur ou à l'agent de celui-ci par un des membres de l'équipage qui y a participé, l'acheteur est considéré comme l'employeur des pêcheurs qui sont membres de l'équipage et qui se partagent le produit de la vente de cette prise.
+[. . .]
+[18] La rémunération est déterminée suivant l'article 5, et je reproduis ici les paragraphes 5(1) et 5(2) :
+5.(1) La détermination de la rémunération d'un pêcheur s'effectue selon les dispositions du présent article.
+(2) La rémunération d'un pêcheur est égale à la somme payée ou payable à celui-ci pour une prise, conformément à l'entente de partage, après déduction de la valeur de la partie de la prise qui n'a pas été faite par l'équipage dont il est membre.
+[. . .]
+[19] Les caractéristiques permettant à un pêcheur d'être admissible à l'assurance chômage-emploi sont d'abord et avant tout d'être un travailleur autonome se livrant à la pêche en y participant selon la définition du règlement à l'exception d'une personne liée par un contrat de louage de services.
+[20] Les faits admis par les appelants indiquent que 2430-8256 Québec Inc. est constituée en société depuis 1987 et que les appelants sont les deux seuls actionnaires. La société possède le bateau et l'équipement servant à la pêche et les deux appelants travaillaient sur le bateau avec un équipage. La société en question était propriétaire des prises et les vendait aux acheteurs. Elle payait également tous les frais liés au permis des appelants ainsi que les dépenses d'exploitation du bateau. Les appelants ne payaient aucune dépense du bateau. Ils recevaient un salaire fixe, sauf en 1992, lorsqu'ils ont reçu un pourcentage des revenus tirés des prises brutes. Ces renseignements étaient envoyés aux acheteurs et ceux-ci payaient les appelants en conséquence. Après le calcul de toutes les dépenses, le montant net tiré de la prise est remis à la société. Lorsqu'il n'y a pas de société, les prises appartiennent au capitaine; c'est lui qui paie les frais et les dépenses liées à l'exploitation et le montant net tiré de la prise lui appartient.
+[21] L'avocat de l'intimé prétend que les appelants ne peuvent être considérés comme des travailleurs autonomes puisqu'ils ne satisfont pas aux exigences établies par la jurisprudence pour être des travailleurs autonomes. En appliquant les critères établis dans l'arrêt Wiebe Doors Services Ltd. c. M.R.N., [1986] 3 C.F. 553, qui ont été entérinés récemment par la Cour suprême du Canada dans Sagaz Industries Canada Inc. et al c. 671122 Ontario Limited, [2001] 2 R.C.S. 983, l'intimé soutient que les deux appelants étaient assujettis au contrôle de la société nonobstant le fait qu'ils étaient eux-mêmes les actionnaires de la société et indépendamment du fait que ce contrôle ait été exercé ou non, parce qu'il existe une entité juridique distincte des appelants actionnaires. L'avocat ajoute que les appelants n'ont aucun risque de perte car la société prend ces risques et que les appelants n'ont droit à aucun profit étant donné que la prise nette appartient à la société et que les appelants reçoivent un salaire. La propriété des outils revient à la société et les activités de pêche sont dirigées par la société, ce qui fait que les appelants en l'espèce sont des salariés et non des travailleurs autonomes en vertu de la définition du terme « pêcheur » .
+[22] Pour sa part, l'avocat des appelants appelle à une interprétation large du règlement sur la pêche afin de respecter l'objectif de ce règlement qui est d'assurer aux pêcheurs des prestations d'assurance chômage-emploi. Il soutient que la présence d'une société n'empêche pas l'application du règlement en l'espèce et qu'il n'y a pas ici de contrat de louage de services entre la société et les appelants.
+[23] À mon avis, il est impossible de fermer les yeux à l'existence d'une société dûment constituée. La caractéristique principale d'une telle entité est qu'elle possède toutes les caractéristiques d'une personne juridique et sa création résulte d'un besoin quelconque des actionnaires au moment de sa constitution. Il faut toutefois accepter les inconvénients et les désavantages que cause l'existence de la société en même temps qu'on profité des bénéfices et des avantages qu'elle procure. Les raisons qui ont poussé les appelants à créer la société 2430-8256 Québec Inc. n'ont pas été présentés lors de l'audience et je ne crois pas qu'ils soient pertinents à la résolution de ce litige.
+[24] Je dois donc déterminer la relation juridique qui existait entre les appelants et la société 2430-8256 Québec Inc., c'est-à-dire s'il existait entre eux un contrat de louage de services ou un contrat d'entreprise pendant les périodes en cause. À la lumière des faits qui ont été admis et en appliquant les critères de Wiebe Doors référés plus haut, je suis d'avis que les appelants étaient liés à 2430-8256 Québec Inc. par un contrat de louage de services. La société exerçait un contrôle sur la façon dont ces employés exécutaient leur fonction. Dans l'arrêt Groupe Desmarais Pinsonneault & Avard Inc. c. Canada (ministre du Revenu national - M.R.N.), [2002] A.C.F. no 572 (C.A.F.), le juge Noël a affirmé ce qui suit, au paragraphe 5, au sujet du critère de contrôle :
+[. . .] Le fait que la société n'ait pas exercé ce contrôle ou le fait que les travailleurs ne s'y soit pas senti assujettis lors de l'exécution de leur travail n'a pas pour effet de faire disparaître, réduire ou limiter ce pouvoir d'intervention que la société possède, par le biais de son conseil d'administration.
+Le Conseil d'administration de la société était l'âme dirigeante des activités de pêches puisque c'est la société qui pouvait effectivement intervenir et qui dirigeait les activités des appelants.
+[25] Pour ce qui est du critère des chances de profits ou des risques de pertes, seule la société est visée par ce critère. Sauf pour l'année 1992, les appelants retiraient un salaire fixe laissant ainsi à la société les risques de pertes ou les chances de faire un profit. Les recettes nettes de la prise appartenaient à la société même si, en 1992, les appelants ont été rémunérés selon un pourcentage des recettes. De plus, ils n'assumaient aucune dépense. Les critères de la propriété des outils et de l'intégration indiquent l'existence d'un contrat de louage de services. Le bateau et l'équipement appartiennent à la société et les appelants y sont intégrés de façon évidente et avec grand intérêt car ils en sont les actionnaires. À mon avis, tous les critères favorisent un contrat de louage de service entre les appelants et la société.
+[26] L'avocat des appelants me demande d'interpréter le règlement visé de façon large. Notre cour s'est déjà prononcée sur cette question et a adopté à quelques reprises les propos du juge Marceau dans l'affaire Gaston Desmarais c. M.R.N.(19 mai 1978), NR 218 à la page 2 :
+Ce sont évidemment les règlements à l'intention des pêcheurs, art. 191 et /s. des Règlements sur l'assurance-chômage qui sont mis en cause. Ce sont là des règlements tout à fait spéciaux adoptés en vue d'étendre aux pêcheurs les bénéfices de la Loi sur l'assurance-chômage même dans des conditions qui normalement excluraient un prestataire ordinaire de tout bénéfice. Je crois pour cette raison que ces règlements doivent être appliqués de façon stricte, et que le réclamant doit démontrer qu'il était clairement dans les conditions prévues. [. . .]
+[27] À mon avis, la définition du terme « pêcheur » dans le règlement, tant en application de la Loi sur l'assurance-chômage que la Loi sur l'assurance-emploi, indique clairement que pour avoir droit aux bénéfices que procure le règlement, il faut être un travailleur indépendant ou une personne non liée par un contrat de louage de services qui, entre autres, participe à une pêche ou à la réalisation d'une prise. En l'espèce, les appelants ne satisfont pas aux termes de cette définition pour toutes les périodes en litige parce qu'ils sont, à mon avis, liés par un contrat de louage de services à leur société. Par conséquent, ils ne peuvent être considérés comme ayant été à l'emploi de Nico ou de Poséidon durant les périodes en litige. Pour ces motifs, les appels sont rejetés et les décisions du ministre sont confirmées.
+Signé à Ottawa, Canada, ce 14e jour d'avril 2003.
+« François Angers »
+J.C.C.I.
+RÉFÉRENCE :
+2003CCI207
+Nos DES DOSSIERS DE LA COUR :
+2000-21(EI); 2000-22(EI); 2000-25(EI);
+2000-26(EI); 2000-30(EI); 2000-31(EI);
+2000-35(EI)
+INTITULÉS DES CAUSES :
+LIONEL ARSENEAULT,
+SUCCESSION DE MONSIEUR LÉON ARSENEAULT
+et Le ministre du Revenu national
+LIEU DE L'AUDIENCE :
+Sept-Îles (Québec)
+DATE DE L'AUDIENCE :
+21 octobre 2002
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge François Angers
+DATE DU JUGEMENT :
+14 avril 2003
+COMPARUTIONS :
+Pour les appelants :
+Me Gilbert Nadon
+Pour l'intimé :
+Me Claude Lamoureux
+AVOCAT INSCRIT AUX DOSSIERS:
+Pour les appelants :
+Nom :
+Me Gilbert Nadon
+Étude :
+Ouellet, Nadon et Associés
+Montréal (Québec)
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

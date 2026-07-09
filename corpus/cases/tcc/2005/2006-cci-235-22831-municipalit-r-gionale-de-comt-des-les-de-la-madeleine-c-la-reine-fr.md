@@ -1,0 +1,371 @@
+---
+title: "Municipalité régionale de comté des Îles-de-la-Madeleine c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/22831/index.do"
+last_modified: "2005-04-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 235"
+citation2: ""
+neutral_citation: "2006 CCI 235"
+decision_date: "2005-04-12"
+language: "fr"
+item_id: "22831"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2337
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:01:44.071000+00:00"
+cases_cited_count: 4
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "58b537120baa1489f5bea710a73df7c400caab5703d4f2974749e38376cbcc08"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Municipalité régionale de comté des Îles-de-la-Madeleine c. La Reine
+
+- Citation: 2006 CCI 235
+- Decision date: 2005-04-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2337, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Municipalité régionale de comté des Îles-de-la-Madeleine c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-04-12
+Référence neutre
+2006 CCI 235
+Numéro de dossier
+2003-1693(GST)G
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2003-1693(GST)G
+ENTRE :
+MUNICIPALITÉ RÉGIONALE DE COMTÉ
+DES ÎLES-DE-LA-MADELEINE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+___________________________________________________________________
+Appel entendu le 30 novembre 2004
+et les 1er et 2 mars 2005, à Montréal (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocate de l'appelante :
+Me Diane Bouchard
+Avocat de l'intimée :
+Me Gérald Danis
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation relativement à la taxe sur les produits et services établie en vertu de la partie IX de la Loi sur la taxe d'accise, dont l'avis est daté du 26 mars 2002 et porte le numéro 0254357, pour la période du 1er janvier 1997 au 31 mars 1999, est accueilli, le tout avec dépens en faveur de l'appelante, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 12e jour d'avril 2006.
+« Alain Tardif »
+Juge Tardif
+Référence : 2006CCI235
+Date : 20060412
+Dossier : 2003-1693(GST)G
+ENTRE :
+MUNICIPALITÉ RÉGIONALE DE COMTÉ
+DES ÎLES-DE-LA-MADELEINE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+LES FAITS
+[1] L'appel porte sur la période du 1er janvier 1997 au 31 mars 1999. La question en litige est de déterminer si l'avis de cotisation daté du 26 mars 2002 a été établi conformément aux dispositions applicables de la Loi sur la taxe d'accise (la « Loi » ); en d'autres termes, l'appelante a-t-elle établi son droit aux crédits de taxe sur les intrants (les « CTI » ) qu'elle réclame en soutenant que les CTI étaient liés à une fourniture taxable?
+[2] Pour répondre à la question, le tribunal devra d'abord établir si le compostage constitue une activité commerciale donnant droit aux CTI réclamés. Dans l'affirmative, la méthode de répartition choisie par l'appelante est-elle juste et raisonnable?
+[3] Les Îles de la Madeleine (les « îles » ) forment un archipel occupant une superficie de 202 km2. La fragilité de la nappe phréatique, l'isolement du continent et le manque d'espace disponible pour l'enfouissement des déchets ont constitué des préoccupations relativement à la gestion de quelque 7 000 tonnes de déchets produits annuellement aux îles.
+[4] Au début des années 1980, le problème est devenu tel qu'il devenait urgent de mettre en place des solutions. À ce moment, la gestion et l'administration des déchets constituaient des préoccupations fondamentales et les solutions disponibles étaient souvent excessivement onéreuses, certains éléments étant en outre incertains.
+[5] En 1984, il fut décidé qu'il fallait trouver une solution au problème de gestion des déchets. L'appelante a, dès lors, tout mis en oeuvre pour trouver la solution idéale, sans pour autant espérer la perfection.
+[6] En 1988, après avoir dressé la liste des solutions possibles et après avoir visité divers sites, notamment en France, la Municipalité régionale de comté des Îles de la Madeleine (la « MRC » ) en arrivait à la conclusion que le compostage, jumelé à un incinérateur, s'avéreraient la solution idéale pour les îles.
+[7] Le compostage permettrait la valorisation des déchets, et l'incinérateur éliminerait les éléments indésirables, réduisant ainsi considérablement le volume de résidus à enfouir.
+[8] Après avoir obtenu le financement nécessaire, ainsi que tous les certificats de conformité pour la réalisation du projet retenu, la MRC a fait construire une usine de traitement et d'élimination des déchets, abritant à la fois les activités liées au compostage et à l'incinération; la construction a débuté en 1993 pour se terminer en 1994. L'usine a commencé ses activités de compostage et d'incinération en 1994.
+[9] Au départ, la qualité du compost fut décevante. La présence de corps étrangers tel le verre et d'autres substances indésirables faisait en sorte que le compost ne pouvait pas être utilisé étant ainsi sans intérêt ni valeur.
+[10] Il s'agissait là d'une aventure assez particulière en ce que les inconnus étaient nombreux. Une telle réalité explique sans doute le peu d'intérêt du secteur privé pour ce domaine d'activités limitant ainsi les avenues de consultation ou de référence.
+[11] Dès 1996, l'appelante a procédé à diverses consultations, a assisté à différentes conférences et a engagé différents experts pour analyser le processus de compostage et pour obtenir des recommandations pour améliorer la qualité du produit. Même si les changements suggérés étaient onéreux pour améliorer la qualité du compost, la MRC a choisi de suivre les recommandations.
+[12] En 1997, les autorités ont ajouté à la cueillette des ordures la récupération des matières recyclables; les activités de compostage ont été déplacées à l'extérieur de l'édifice.
+[13] En raison des expériences nécessaires et de circonstances sur lesquelles l'appelante n'avait aucun contrôle, elle a dû faire face à des retards beaucoup plus longs que ce qu'elle espérait. Les longs retards et la piètre qualité du compost obtenu au début sont-ils suffisants pour conclure à l'absence ou à l'abandon de volonté d'obtenir et vendre plus tard un compost amélioré?
+[14] Après des efforts considérables et une détermination incontestable, en 2001, le compost a atteint une qualité rencontrant les exigences du Bureau de normalisation du Québec ( « BNQ » ). À partir de ce moment, le compost a été mis en marché et des ventes ont eu lieu au prix de 25 $/tonne.
+[15] L'article 259 de la Loi sur la taxe d'accise donne droit à un remboursement de la taxe payable selon un pourcentage prescrit par règlement Pour la période en litige, l'appelante a récupéré une partie de la taxe payée sous forme de ristourne au taux de 57,14 %; la MRC a, de plus, produit deux déclarations créditrices en TPS/TVQ afin de réclamer le restant de 42.86 % à titre de CTI. La demande concernait la taxe payable sur les dépenses courantes de 1994, 1995, 1996 et 1997, ainsi que la taxe payable sur la construction du centre de traitement des déchets.
+[16] Suite à une vérification par les autorités fiscales, l'intimée a refusé de remettre les CTI demandés par l'appelante et ce, pour les motifs suivants :
+a) l'activité de compostage, eu égard à la période en litige, ne peut être considérée comme une activité commerciale exercée dans le but d'effectuer des fournitures taxables et par conséquent les CTI réclamés pour les dépenses d'immobilisation et d'opération ne peuvent être accordés.
+b) même si le compostage pouvait constituer une activité commerciale exercée dans le but d'effectuer des fournitures taxables, la méthode de répartition utilisée par la MRC à l'égard des fournitures mixtes (exonérées et taxables) n'est pas juste et raisonnable.
+[17] L'appelante affirme au contraire que le compostage constitue bel et bien une activité commerciale conformément aux dispositions de la Loi et que la méthode choisie pour la répartition est juste et raisonnable. Elle réclame donc les CTI.
+[18] Pour avoir droit aux CTI, un inscrit doit avoir acquis ou importé un bien ou un service pour consommation, utilisation ou fourniture dans le cadre de ses activités commerciales. Le paragraphe 169(1) de la LTA prévoit ce droit aux CTI
+169. (1) Sous réserve des autres dispositions de la présente partie, un crédit de taxe sur les intrants d'une personne, pour sa période de déclaration au cours de laquelle elle est un inscrit, relativement à un bien ou à un service qu'elle acquiert, importe ou transfère dans une province participante, correspond au résultat du calcul suivant si, au cours de cette période, la taxe relative à la fourniture, à l'importation ou au transfert devient payable par la personne ou est payée par elle sans qu'elle soit devenue payable :
+A x B
+où :
+A représente la taxe relative à la fourniture, à l'importation ou au transfert, selon le cas, qui, au cours de la période de déclaration, devient payable par la personne ou est payée par elle sans qu'elle soit devenue payable;
+B :
+a) dans le cas où la taxe est réputée, par le paragraphe 202(4), avoir été payée relativement au bien le dernier jour d'une année d'imposition de la personne, le pourcentage que représente l'utilisation que la personne faisait du bien dans le cadre de ses activités commerciales au cours de cette année par rapport à l'utilisation totale qu'elle en faisait alors dans le cadre de ses activités commerciales et de ses entreprises;
+b) dans le cas où le bien ou le service est acquis, importé ou transféré dans la province, selon le cas, par la personne pour utilisation dans le cadre d'améliorations apportées à une de ses immobilisations, le pourcentage qui représente la mesure dans laquelle la personne utilisait l'immobilisation dans le cadre de ses activités commerciales immédiatement après sa dernière acquisition ou importation de tout ou partie de l'immobilisation;
+c) dans les autres cas, le pourcentage qui représente la mesure dans laquelle la personne a acquis ou importé le bien ou le service, ou l'a transféré dans la province, selon le cas, pour consommation, utilisation ou fourniture dans le cadre de ses activités commerciales.
+[Je souligne.]
+[19] Pour constituer une fourniture taxable, la fourniture doit être effectuée dans le cadre d'une activité commerciale afin de donner droit au crédit de taxe sur les intrants. Le paragraphe 123(1) définit le terme « fourniture taxable » de cette façon :
+« fourniture taxable » Fourniture effectuée dans le cadre d'une activité commerciale.
+[20] Cette définition nous renvoie donc au terme « activité commerciale » qui est défini ainsi au paragraphe 123(1) :
+« activité commerciale » Constituent des activités commerciales exercées par une personne :
+a) l'exploitation d'une entreprise (à l'exception d'une entreprise exploitée sans attente raisonnable de profit par un particulier, une fiducie personnelle ou une société de personnes dont l'ensemble des associés sont des particuliers), sauf dans la mesure où l'entreprise comporte la réalisation par la personne de fournitures exonérées;
+[21] Finalement, le terme « fourniture exonérée » est également défini au paragraphe 123(1) de la LTA et il nous renvoie aux fournitures mentionnées à l'Annexe V. C'est à la partie VI de l'Annexe V que l'on retrouve la fourniture exonérée qui nous intéresse pour les fins du présent litige :
+21. [Service municipal] -- La fourniture d'un service municipal si, à la fois :
+a) la fourniture est effectuée :
+(i) soit par un gouvernement ou une municipalité au profit d'un acquéreur qui est le propriétaire ou l'occupant d'un immeuble situé dans une région géographique donnée,
+(ii) soit pour le compte d'un gouvernement ou d'une municipalité au profit d'un acquéreur, autre que le gouvernement ou la municipalité, qui est le propriétaire ou l'occupant d'un immeuble situé dans une région géographique donnée;
+b) il s'agit d'un service, selon le cas :
+(i) que le propriétaire ou l'occupant ne peut refuser,
+(ii) qui est fourni du fait que le propriétaire ou l'occupant a manqué à une obligation imposée par une loi;
+c) il ne s'agit pas d'un service d'essai ou d'inspection d'un bien pour vérifier s'il est conforme à certaines normes de qualité ou s'il se prête à un certain mode de consommation, d'utilisation ou de fourniture, ou pour le confirmer.
+[Je souligne.]
+[22] La MRC étant une municipalité, toute fourniture qu'elle effectue au profit des occupants d'immeubles sur son territoire et qu'ils ne peuvent refuser sera une fourniture exonérée. Malgré ce principe, il est toutefois possible pour une municipalité d'effectuer des fournitures mixtes.
+[23] En l'espèce, les parties conviennent que le système d'incinération ne sert qu'à faire des fournitures exonérées, d'où le litige porte essentiellement sur les activités relatives au compostage.
+[24] Est-ce que le compostage constitue une activité commerciale? Si la réponse est non, la MRC n'effectue que des fournitures exonérées et, par conséquent, elle n'a droit à aucun CTI, sauf, bien sûr, au pourcentage de 57,14 % prévu par le législateur. Par contre, si la réponse est affirmative, il faut se demander si cette activité commerciale a commencé avant ou après la période en litige.
+1) Le compostage comme activité commerciale
+[25] Pour répondre à la question à savoir si le compostage constitue ou non une activité commerciale l'analyse doit tenir compte de plusieurs aspects.
+[26] D'abord, il faut se demander si le compostage peut constituer une activité commerciale. Le Petit Robert définit le compost comme étant un engrais formé par le mélange fermenté de débris organiques avec des matières minérales. Ainsi, le compostage constitue une activité dont l'objectif est de valoriser les déchets au même titre que le recyclage.
+[27] D'ailleurs, deux interprétations techniques rendues par l'Agence des douanes et du revenu du Canada reconnaissent explicitement que le recyclage et le compostage constituent des activités commerciales :
+[Traduction]
+Vente de ferraille et de compost par une municipalité, no 96 GTI 216, le 13 mars 1996
+[...]
+Les municipalités fournissant des services de recyclage sont considérées comme effectuant à la fois des fournitures exonérées et des fournitures taxables. Le service de collecte de la matière pouvant servir au compost et de son transport à un centre de recyclage serait une fourniture exonérée à titre de service de collecte des ordures de base. Le traitement et la mise en marché du compost afin de le vendre à des acheteurs éventuels est considérée une activité commerciale donnant naissance à une fourniture taxable. La vente de compost par la municipalité serait donc taxable en vertu de la TPS au taux courant de 7%.
+[Je souligne.]
+Lettre d'interprétation 95-0108753 -- Fournitures de services effectuées par une régie intermunicipale de traitement des déchets, 17 mai 1996
+[...]
+De plus, la version modifiée de l'alinéa 20h) de la partie VI de l'annexe V de la LTA précise que, à compter du 1er janvier 1991, la collecte des ordures comprend la collecte des matières recyclables, comme le programme des boîtes bleues et le service de collecte de matières à composter. Cette exonération s'applique à la collecte de matières recyclables effectuée dans le cadre d'un programme de collecte de quartier, ainsi qu'à la livraison de telles matières à une installation de recyclage. Toutefois, le traitement des matières recyclables dans ces installations est considéré comme une activité commerciale et la vente de matières recyclables par un inscrit est donc taxable.
+[Je souligne.]
+[28] Bien que l'on puisse conclure que le compostage peut constituer une activité commerciale, l'intimée soutient, avec raison d'ailleurs qu'il est faux de soutenir que toute activité de compostage et de recyclage est nécessairement une activité commerciale au sens de la LTA. Les faits sont donc très importants et doivent s'apprécier en tenant compte du contexte et de toutes les circonstances pertinentes.
+[29] Voyons donc ce qu'il en est au sujet des faits en l'espèce.
+[30] L'appelante a soutenu essentiellement que le compostage constitue bel et bien une activité commerciale, puisque le but avait toujours été de rechercher un compost de qualité supérieure de manière à pouvoir le vendre. Outre l'importante préoccupation environnementale, l'intention fondamentale a toujours été de faire un compost de qualité vendable. Un tel objectif était d'ailleurs compréhensible puisque tout compost non vendable aurait, à la longue, constitué un véritable embarras d'autant plus que faire du compost sans but aurait été quelque chose d'un peu aberrant.
+[31] Dans les faits, il aura fallu plusieurs années d'essais avant d'obtenir un compost d'une qualité acceptable pour être vendu, les premières ventes ayant eu lieu en 2001, 2002 et 2003. Les délais témoignent de la détermination et de la volonté réelle d'atteindre un degré de qualité raisonnable.
+[32] De son côté, l'intimée soutient que l'intention de départ de l'appelante était essentiellement de trouver une solution au problème de la gestion des déchets, étant donné que l'élimination des déchets par enfouissement ne pouvait durer indéfiniment; selon l'intimée, l'incinération et le compostage ont été retenus un peu par dépit comme solution pour la gestion des déchets sur le territoire de la MRC. Pour justifier sa position, l'intimée fait valoir les arguments suivants :
+1) Le prix de vente de 25 $ la tonne pour le compost, bien que décrit comme raisonnable eu égard à sa qualité, ne couvre même pas le coût de production du compost. L'intimée ajoute qu'aucune entreprise privée n'aurait envisagé de vendre du compost dans de telles conditions.
+2) Il n'y avait pas d'activité commerciale réelle liée au compostage durant la période en litige pour les raisons suivantes :
+a) les ventes de 2001, 2002 et 2003 ne doivent pas être prises en compte comme élément probant pour décider s'il y avait ou non une activité commerciale de janvier 1997 à mars 1999;
+b) Les propos de monsieur Gagnon lors du Forum québécois sur le compostage, tenu en 1995, contredisent la position de l'appelante qu'il y avait, au tout début, une intention de vendre le compost.
+[33] L'approche de l'intimée repose essentiellement sur les critères traditionnels tels la viabilité, la rentabilité ou le profit au sens strictement comptable. Bien plus, l'intimée semble croire qu'une expectative raisonnable de profit serait nécessaire afin de conclure que la production de compost constitue une activité commerciale. Or, cela n'est pas le cas en matière de TPS.
+[34] D'autre part, dans le cas d'un nouveau produit, il n'est pas rare que les promoteurs doivent essuyer plusieurs échecs avant de trouver une formule acceptable.
+[35] En l'espèce, je crois qu'il devait être pris en compte deux autres éléments fort importants. En effet, n'eût été de la filière fabrication de compost, toutes les matières utilisées à cette fin aurait alors dû être dirigées vers l'incinérateur pour y être incinérées. Le fait de ne pas avoir à débourser les frais requis par l'incinération doit être pris en compte dans l'appréciation du bénéfice, à faire du compost. Outre cette réalité précisément quantifiable, il y a aussi l'avantage environnemental qui constitue un volet réel dans la recherche d'un produit acceptable. En d'autres termes, en matière d'environnement, il est essentiel de faire une analyse qui tient compte de facteurs qui n'ont rien à voir avec l'approche traditionnelle, coût économique versus profit monétaire. Nous avons atteint le temps où les coûts et profits environnementaux sont devenus des composantes incontournables dans l'évaluation de tout projet.
+[36] Outre cette approche, je dois également tenir compte que le terme « entreprise » se retrouve au paragraphe 123(1) de la LTA:
+« entreprise » Sont compris parmi les entreprises les commerces, les industries, les professions et toutes affaires quelconques avec ou sans but lucratif, ainsi que les activités exercées de façon régulière ou continue qui comportent la fourniture de biens par bail, licence ou accord semblable. En sont exclus les charges et les emplois.
+[Je souligne.]
+[37] Cette définition même du terme « entreprise » nous indique que le profit n'est pas un élément essentiel afin de considérer si un contribuable était engagé dans une « activité commerciale » au sens de l'alinéa a) de ce terme. En effet, la définition d' « entreprise » vise aussi les affaires quelconques avec ou sans but lucratif. Ceci a par ailleurs été confirmé dans la décision Corporation de l'École Polytechnique, 2004 CAF 127, 2004 G.T.C. 1148, [2004] G.S.T.C. 102 au paragraphe 24.
+[38] En outre, l'Énoncé de politique P-167R, Signification de la première partie de la définition du terme « entreprise » , présente les balises utilisées par les autorités fiscales afin de déterminer si une personne exploite une entreprise. En ce qui concerne l'attente de profit, l'énoncé en traite de la façon suivante :
+« Attente de profit
+En règle générale, aux fins de la TPS/TVH, une activité exercée dans un but lucratif constitue une entreprise. Cependant, contrairement à la définition du terme « entreprise » qu'offre la Loide l'impôt sur le revenu, la définition donnée au paragraphe 123(1) de la Loi comprend l'énoncé « ...toutes affaires quelconques avec ou sans but lucratif ... » . Il n'est pas nécessaire qu'une personne exerce une activité ou une affaire dans une attente de profit pour être considérée comme exploitant une entreprise aux fins de la TPS/TVH. La définition du terme « entreprise » (et, par extension, celle de « activité commerciale » ) a été rédigée de façon à inclure non seulement les activités qui sont réputées constituer une entreprise aux fins de l'impôt sur le revenu, mais également celles exercées sans but lucratif qui sont susceptibles de faire directement concurrence aux entreprises à but lucratif. L'exclusion du critère de profit permet d'uniformiser les règles du jeu pour les organismes à but lucratif et les organismes à but non lucratif qui effectuent essentiellement les mêmes genres de fournitures.
+En outre, la définition du terme « entreprise » donnée par la Loi ne fait pas de distinction entre les organismes du secteur public (OSP), comme les gouvernements, les organismes à but non lucratif et les organismes de bienfaisance, et d'autres personnes qui ne sont pas des OSP. Comme tel, le présent énoncé de politique s'applique à toutes les personnes exerçant des activités qui sont susceptibles de se traduire par l'exploitation d'une entreprise, qu'elles soient ou non à but lucratif. [...] »
+[Je souligne.]
+[39] Par conséquent, la MRC n'avait aucune obligation de démontrer la rentabilité ou l'attente raisonnable de profit pour que le compostage soit considéré une activité commerciale. Au sens large, une activité commerciale est une activité où l'issue peut être incertaine, où l'espérance d'atteindre un but ou un objectif acceptable constitue la motivation, pourvu que la démarche soit sérieuse et raisonnable.
+[40] Le fait qu'il n'y ait pas eu de ventes de compost avant l'année 2001 n'est pas déterminant pour savoir si le compostage constitue ou non une activité commerciale. Si l'on regarde encore une fois l'énoncé de politique P-167R, on voit que d'autres critères que la réalisation de fournitures sont importants afin de voir s'il y a eu réellement une entreprise :
+« Signification du terme « entreprise »
+[...]
+Dans nombre de cas ayant trait à la réalisation de fournitures et visant à déterminer si certaines fournitures étaient taxables, l'ADRC a généralement accordé une signification assez large au terme « entreprise » . Cependant, la réalisation de fournitures ne peut être considérée comme le seul facteur établissant qu'une entreprise est exploitée, étant donnée [sic] que le critère de profit est absent de la définition du terme « entreprise » . Comme telle, la question n'est pas tant de déterminer si une activité qui comprend ou implique directement la réalisation de fournitures est une entreprise, mais plutôt de déterminer dans quelle mesure une activité qui n'implique pas directement la réalisation de fournitures constitue une entreprise.
+Dans certains cas, une personne peut exercer des activités de nature commerciale axées sur l'exploitation d'une entreprise (au sens habituel de ces termes), mais ne constituant ni un commerce, ni une industrie (c.-à-d. des activités qui impliquent ou visent la réalisation de fournitures), et ne pouvant pas non plus être décrites adéquatement comme étant une profession. Néanmoins, l'inclusion de l'expression « ... toutes affaires quelconques... » dans la définition du terme « entreprise » permet que des activités qui ne sont pas, à proprement parler, des commerces, des industries ou des professions, au sens habituel de ces termes, soient incluses dans la signification du terme « entreprise » .
+[...]
+Pour déterminer si une activité s'apparente suffisamment à une « affaire commerciale » , il faut tenir compte d'un certain nombre de facteurs, dont la mesure dans laquelle :
+1. l'activité représente une affaire sérieuse poursuivie avec conviction;
+2. l'activité est poursuivie activement et présente une continuité raisonnable et reconnaissable;
+3. l'activité est menée de façon saine en s'appuyant sur des principes commerciaux reconnus et des registres sont tenus à cet effet;
+4. les fournitures, s'il y a lieu, s'apparentent à celles qui, sous réserve de différences dans les détails, sont couramment réalisées par des personnes dont le but est d'en tirer des bénéfices;
+5. l'activité facilite ou favorise la réalisation de fournitures (par la personne elle-même ou quelqu'un d'autre);
+6. l'activité appuie d'autres activités visant à dégager des recettes.
+Même si aucun facteur ne revêt plus d'importance qu'un autre, les circonstances entourant une activité particulière peuvent laisser entendre qu'il est nécessaire d'accorder plus d'importance à un ou plusieurs facteurs donnés. De plus, étant donné qu'un facteur peut avoir plus de poids qu'un autre, il ne suffit pas simplement d'opposer le total des facteurs qui portent à conclure à l'exploitation d'une entreprise au total de ceux qui mèneraient à la conclusion contraire. Ainsi, il est possible, dans des circonstances appropriées, de conclure à l'exploitation d'une entreprise même lorsque les activités en question ne correspondent qu'à deux des six facteurs énoncés ci-dessus. »
+[Je souligne.]
+[41] La preuve a démontré que les matières ou les déchets qui étaient dirigés vers l'incinérateur entraînaient des dépenses très importantes; en effet, le coût d'exploitation de l'incinérateur était très élevé, et cela, tant du point de vue financier qu'environnemental. Il y avait donc intérêt à réduire le plus possible le volume de déchets traités par l'incinérateur d'où l'intérêt de garder le dossier compostage très actif.
+[42] Tout ce qui était récupéré pour le compost n'avait pas à être incinéré, ce qui entraînait des économies substantielles; il s'agit là d'un élément fort important dont il doit être tenu compte lors du calcul des bénéfices de la fabrication du compost.
+[43] De telles initiatives sont généralement prises en charge par les autorités municipales ou gouvernementales. Elles suscitent très peu, sinon aucun intérêt de la part de l'entreprise privée, étant donné que le profit selon la définition comptable n'est pas au rendez-vous et, s'il est là, il est dans une dimension trop marginale pour susciter un engouement.
+[44] Il faudra bientôt considérer les bénéfices environnementaux comme un véritable profit, tout aussi important que le profit classique. D'ici là, l'aspect environnemental, bien que difficilement mesurable, doit être pris en compte dans l'évaluation de la viabilité d'un projet.
+[45] En ce qui concerne le moment où une entreprise commence, le juge Bowman, dans une décision portant sur la notion d'entreprise aux termes de la LIR, apporte des précisions fort pertinentes :
+« Pour ce qui est de la détermination du moment où une entreprise débute, il n'est pas réaliste de dire que c'est au moment où l'on commence à tirer de l'argent du commerce ou de la fabrication d'un bien ou de la prestation d'un service ou, à l'autre extrême, que c'est au moment où l'on a pour la première fois eu l'intention de lancer l'entreprise. Chaque cas dépend des faits qui lui sont propres, mais, lorsqu'un contribuable a pris des mesures importantes, des mesures essentielles pour exploiter l'entreprise, il est juste de conclure que l'entreprise avait démarré. » Gartry c. La Reine, no 92-2492(IT)G, 14 avril 1994, 94 DTC 1947 (CCI).
+[46] De plus, dans la décision Two Carlton Financing Ltd. c. La Reine, no 96-523(GST)G, 2 juin 1998, 98 GTC 2141 (CCI), on peut lire ce qui suit à la note en bas de page 9, au paragraphe 36 :
+« Je ne pense pas qu'il soit nécessaire au moment du « démarrage » d'une entreprise, par exemple, que des fournitures soient effectuées pour qu'elle ait droit aux CTI. Les dépenses donnant lieu aux CTI doivent être faites avec l'intention d'exercer une activité commerciale ou dans le cours d'une activité commerciale. Il existe aussi des circonstances pour lesquelles aucune TPS n'est payée ou payable et où, malgré tout, le droit aux CTI reste (par exemple, lorsque des fournitures taxables sont réputées être détaxées selon un choix exercé en vertu de l'article 156). »
+[47] Il n'était absolument pas essentiel que des ventes de compost aient lieu durant la période en cause pour conclure que la MRC avait exercé des activités commerciales; l'appelante n'avait qu'à démontrer avoir fait des démarches réelles et concrètes dans le but de faire des ventes. La durée des démarches et les efforts pour y arriver ne sont pas des éléments absolument déterminants. Selon les contraintes et divers problèmes, les délais peuvent varier considérablement d'un dossier à l'autre. Je crois que l'appréciation doit porter sur la bonne foi, l'intention réelle et la continuité des efforts engagés pour arriver au produit espéré.
+[48] Lorsqu'il s'agit d'un produit connu ou lorsqu'il est possible de prévoir l'évolution d'un projet, il est possible dès le début d'un projet d'en évaluer la durée probable avant d'en arriver à la version définitive.
+[49] Par contre, lorsque la mise en marché d'un produit est soumise à plusieurs éléments qu'il n'est toujours pas possible de contrôler, le développement peut passer par des hauts et des bas et la progression vers l'obtention d'un produit acceptable peut nécessiter de très longs délais sans pour autant mettre en doute la cohérence et le sérieux de la démarche et la détermination d'atteindre un objectif.
+[50] Il ne s'agissait pas de mettre en marché un simple engrais avec des composantes déjà connues et en vente. Il s'agissait de développer un compost dans un contexte particulier avec de nombreuses contraintes. Les intéressés ont démontré une ténacité et une détermination qui les honorent pour en arriver à un produit d'une qualité acceptable.
+[51] Dans les circonstances, le fait que ce n'est qu'en 2001 que des ventes ont finalement eu lieu n'empêche pas la MRC d'avoir exercé une activité commerciale pendant la période de démarrage, soit la période en litige.
+[52] L'intimée accorde une importance démesurée aux propos de monsieur Gagnon, lors du Forum québécois sur le compostage tenu en 1995, qui se lisent comme suit :
+« Comme il s'agissait plutôt pour nous de répondre à un problème de gestion des déchets, notre projet n'a pas été conçu en fonction de la commercialisation du compost éventuellement produit; d'ailleurs, le volume de compost escompté et le marché pour ce produit auraient difficilement justifié l'ampleur des immobilisations nécessaires. Cependant, dès le départ, et notre voyage en France a été très révélateur à cet égard, nous fixions comme obligation de produire un compost de qualité. Nous étions d'autant plus préoccupés par cette question, qu'il nous apparaissait important, à titre de l'une des premières usines au Québec en 1986, de prouver que l'on pouvait tirer un bon compost à partir des déchets domestiques. En ce sens, nous appuyons la démarche en vue de la normalisation du compost. Cela va fixer, pour nous comme pour tout le monde, des objectifs à atteindre et nous fournir des outils communs de mesure de ces objectifs.
+[...]
+Par ailleurs, en ce qui concerne l'utilisation du compost produit, des débouchés locaux ont été identifiés. Dans un premier temps, le matériel produit va nous permettre de restaurer certains des lieux d'élimination de déchets que nous avons opérés au cours des années. Dans un second temps, nous envisageons utiliser le compost à des fins d'aménagement paysager, dans le cadre de projets d'aménagement de parcs ou d'espaces publics et également pour la restauration de certaines de nos trop nombreuses carrières ou sablières, cela nous servira de projet de démonstration et permettra à la population de visualiser le résultat de l'effort collectif investi au tri à la source des déchets. Et même si des entrepreneurs locaux s'y sont déjà montrés intéressés, ce n'est que par la suite, une fois la crédibilité du compost bien bâtie et une fois son prix bien établi, que nous pourront envisager ou parler de commercialisation, ce qui ne sera pas avant 2 ou 3 ans. »
+[Je souligne.]
+[53] L'intimée s'appuie sur le discours pour conclure que les propos viennent directement contredire qu'il y avait tout au début une intention de commercialiser le compost. L'intimée soutient que l'intention de la commercialisation est survenue après la période en litige et donc que même si le compostage constitue une activité commerciale, cela n'est arrivé qu'après la période en litige.
+[54] L'interprétation des propos tenus par monsieur Gagnon est inadéquate et ne permet pas de conclure qu'il n'y avait pas d'intention de commercialiser le compost. En lisant le discours en entier, on voit plutôt qu'en 1995, l'intention générale était de produire un compost d'une qualité suffisante pour pouvoir le mettre en marché dans un avenir réaliste. Ce n'est pas parce que le compost ne satisfaisait pas encore aux normes de qualité requises pour être mis en marché que l'intention n'était pas de commercialiser le compost.
+[55] Lorsque monsieur Gagnon parle de l'intention de départ, il s'agit de 1986, lorsque le projet a été étudié pour la première fois, lors de la mission exploratoire en France. Une fois que le projet a été mis en marche et après que l'on ait pris des mesures concrètes pour produire du compost au moyen de toute une structure organisationnelle, il m'apparaît évident que les activités entraient dans le cadre des activités commerciales de la MRC.
+[56] Il ressort clairement du discours de monsieur Gagnon qu'à tout le moins en 1995, la MRC avait bel et bien l'intention de commercialiser le compost dès l'obtention d'une qualité acceptable.
+[57] Contrairement à l'interprétation de l'intimée, les propos de monsieur Gagnon lors du Forum confirment plutôt que contredisent le fait que la MRC avait l'intention de commercialiser le compost.
+[58] Même si l'intention de départ, en 1986, était de trouver une solution pour la gestion des déchets et même si cette intention principale était maintenue pendant toute la période de la mise au point d'un compost de meilleure qualité, cela n'empêchait pas la présence d'une deuxième intention secondaire de commercialiser éventuellement le compost; les deux intentions pouvaient coexister sans être contradictoires pour autant.
+[59] La MRC pouvait avoir simultanément deux intentions : la gestion des déchets, ce qui comprenait le compostage, et la commercialisation du compost ainsi produit. C'est d'ailleurs là le fondement des fournitures mixtes effectuées par la MRC.
+[60] Pour toutes ces raisons, je conclus que pendant la période en litige, la MRC effectuait des fournitures à la fois taxables et exonérées : les activités liées au compostage étaient des fournitures taxables; par contre, les activités liées au système d'incinération étaient des fournitures exonérées.
+2) La méthode de répartition
+a) Coûts directs
+[61] La disposition pertinente de la loi sur la méthode de répartition prévoit ce qui suit :
+141.01 (5) Méthodes de mesure de l'utilisation -- Seules des méthodes justes et raisonnables et suivies tout au long d'un exercice peuvent être employées par une personne au cours de l'exercice pour déterminer la mesure dans laquelle :
+a) la personne acquiert, importe ou transfère dans une province participante des biens ou des services afin d'effectuer une fourniture taxable pour une contrepartie ou à d'autres fins;
+b) des biens ou des services sont consommés ou utilisés en vue de la réalisation d'une fourniture taxable pour une contrepartie ou à d'autres fins.
+[62] En présence d'activités mixtes, c'est-à-dire de fournitures à la fois taxables et exonérées, on doit effectuer une répartition. Cela est superflu lorsqu'on est en présence d'une activité exonérée, bien définie ou clairement identifiable, auquel cas aucun CTI ne peut être réclamé.
+[63] Dans l'affaire 398722 Alberta Ltd. c. Canada, C.A.F., no A-706-98, 11 mai 2000, la juge Sharlow, au paragraphe 22, en était venue à la conclusion que toute entreprise pouvait regrouper plusieurs volets. En matière de TPS, les activités menant à des fournitures exonérées doivent faire l'objet d'un traitement particulier :
+22. Toute entreprise peut consister en plusieurs éléments, dont chacun fait partie intégrante de l'ensemble. La définition d' « activité commerciale » prend en compte cette possibilité mais pose, aux fins de la TPS, que tout élément de l'entreprise qui consiste dans la réalisation de fournitures exonérées soit considéré à part.
+[64] Dans l'affaire Ville de Montréal c. La Reine, C.C.I., no 2001-3234(GST)G, 30 juillet 2003, [2003] T.C.J. no 432 (QL), la Cour avait à décider si la collecte des ordures afin de les amener au centre de triage et de recyclage faisait partie des activités commerciales de la ville. En concluant que la collecte des ordures était une fourniture exonérée et qu'aucun CTI ne pouvait être réclamé concernant cette activité, la juge Lamarre Proulx a référé à la cause 398722 Alberta Ltd., précitée. La juge s'exprimait aux paragraphes 40 et suivants de sa décision comme suit :
+40 Ainsi que l'a décidé la Cour d'appel fédérale dans la décision 398722 Alberta Inc. (supra), tout élément de l'entreprise qui consiste dans la réalisation de fournitures exonérées, doit être considéré à part. La collecte des ordures incluant les matières recyclables est une activité exonérée et elle doit être considérée à part.
+41 C'est bien ce que dit le paragraphe 169(1) de la Loi. Le crédit de taxe sur les intrants d'un inscrit relativement à un bien ou à un service acquis est calculé selon la mesure dans laquelle ce bien ou ce service a été utilisé dans le cadre des activités commerciales de l'inscrit.
+42 Les intrants payés à l'égard des coûts directs de l'activité exonérée ne peuvent être réclamés en vertu du paragraphe 169(1) de la Loi ni être répartis selon le paragraphe 141.01(5) de la Loi.
+[Je souligne.]
+[65] En l'espèce, quel volet de l'entreprise consiste à effectuer des fournitures exonérées? Le système d'incinération est effectivement une activité exonérée et doit être considéré à part des activités commerciales de l'appelante.
+[66] Les intrants liés aux coûts directs de l'incinération, qui est exonérée, ne donnent pas droit aux crédits du paragraphe 169(1) de la LTA.
+[67] Comme l'a décidé la Cour d'appel fédérale dans la décision 398722 Alberta Ltd., précitée, tout élément de l'entreprise qui consiste dans la réalisation de fournitures exonérées doit être considéré à part. L'incinérateur étant une activité exonérée, il doit être considéré à part.
+[68] Par conséquent, les coûts directs liés à l'incinérateur ne peuvent donner droit au CTI. Ainsi, le contrat lié à l'appel d'offres numéro 4096-0002 accordé à Les Industries Pyrox Inc. pour la somme de 2 877 282 $, taxes comprises, visant la fourniture, l'installation et la mise en marche d'un système d'incinération de déchets et d'un système d'épuration des gaz ne pourra donner droit aux CTI réclamés, car il s'agit d'intrants qui peuvent être directement liés à la fourniture exonérée de l'incinérateur.
+[69] Le contrat Pyrox prévoyait une contrepartie de 2 877 282 $, taxes comprises, ce qui signifie une TPS de 180 993,66 $ et une TVQ de 103 424,95 $. Du montant payé en TPS, un pourcentage de 57,14 % a déjà été obtenu comme ristourne, laissant ainsi un solde de 42,86 % x 180 993,66 $ = 77 573,88 $ pour la TPS. Ce montant ne pourra pas être réclamé comme CTI. Il s'agit là d'un montant qui devra être exclu du calcul eu égard aux règles relatives à la répartition.
+[70] Quant aux autres dépenses engagées dans le cadre du projet de réalisation du complexe, il s'agit là d'intrants qui peuvent être réclamés, puisqu'ils sont liés à des activités mixtes. Il devient alors nécessaire de vérifier si la méthode de répartition de l'appelante peut être considérée comme juste et raisonnable.
+b) Juste et raisonnable
+[71] En ce qui concerne la méthode de répartition utilisée pour calculer le crédit de taxe sur les intrants, la décision Magog (Ville) c. La Reine, no A-829-99, 21 juin 2001, 2001 CAF 210, est très utile. La Cour d'appel fédérale nous rappelle que la LTA ne précise pas les méthodes qui doivent être utilisées dans la répartition des biens ou des services qui ont été acquis pour être utilisés dans le cadre d'activités commerciales et pour d'autres activités. Le juge Noël écrivait à cet égard ce qui suit :
+15 La seule question qui se posait devant la juge était celle à savoir si la méthode choisie par l'appelante était juste et raisonnable comme l'exige le paragraphe 141.01(5). Elle n'avait pas à décider laquelle des deux méthodes en cause était la meilleure. D'ailleurs, le mémorandum 700-5-1 reconnaît à son paragraphe 23 que plus d'une méthode peuvent être justes et raisonnables au sens de la Loi (voir aussi Navaho Inn v. The Queen, 3 GTC 2067 à la page 2071 (C.C.I.)).
+[...]
+17 À cet égard, il est important de souligner que la Loi n'oblige pas l'appelante à mettre en place les systèmes comptables qui lui permettraient de départager chaque bien et chaque service qui est consommé ou utilisé dans le cadre de ses activités mixtes. Le législateur était conscient du fait qu'une telle imposition pourrait engendrer des frais d'assujettissement qui dépassent la taxe prélevée. Il a donc laissé au contribuable le soin de choisir une méthode convenable tout en exigeant que la méthode choisie soit « juste et raisonnable » .
+[Je souligne.]
+[72] Ainsi, je n'ai pas à me demander laquelle des deux méthodes présentées est la meilleure, mais plutôt d'analyser si, eu égard aux circonstances, la méthode retenue est juste et raisonnable.
+[73] Ce principe est très bien expliqué dans la décision récente Bay Ferries Ltd. c. La Reine, 2004 CCI 663, 2004 G.T.C. 489, [2004] G.S.T.C. 135. La Cour s'exprime ainsi :
+37 Je n'ai pas à décider si la méthode choisie par le ministre ou l'appelante est la meilleure ou la plus appropriée.
+38 Le premier arrêt, et le seul d'après ce que j'ai pu déterminer, où la Cour d'appel fédérale a dû évaluer la méthode de répartition en vertu de cette disposition a été rendu dans l'affaire Ville de Magog c. La Reine, 2001 CAF 210. Cette décision appuie de façon claire et absolue la non-intervention des tribunaux dans le cas où la méthode choisie par un contribuable est juste, raisonnable et appliquée tout au long de l'exercice.
+39 Le ministre ne peut substituer sa propre formule de répartition simplement parce qu'elle semble plus représentative de la situation ou meilleure. Ce raisonnement établit le degré de respect qu'il faut accorder au contribuable dans le choix d'une méthode juste et raisonnable.
+40 Bien entendu, je crois qu'un contribuable doit toujours être en mesure d'expliquer de manière satisfaisante que la méthode choisie est effectivement juste, raisonnable et appliquée tout au long de l'exercice. Toutefois, s'il est capable de le faire, le paragraphe 141.01(5) accorde à l'inscrit une vaste latitude dans le choix de la méthode, pourvu qu'il puisse établir qu'elle était juste et raisonnable. Cela implique que la méthode choisie reflètera l'utilisation réelle du bien et des services ainsi que la manière dont l'entreprise exerce ses activités en général.
+41 La Loi ne prescrit aucune méthode en guise de ligne directrice. Encore une fois, il faut examiner les faits dans chaque cas. Il est généralement reconnu que la méthode privilégiée est la répartition directe, lorsque le bien ou le service peut être directement rattaché aux activités. La méthode de répartition directe produira les résultats les plus exacts. Dans certaines circonstances, elle ne peut être appliquée. Il n'était pas faisable pour l'appelante en l'espèce de se servir de la répartition directe en raison des frais généraux partagés.
+42 Selon le Mémorandum sur la TPS 700-5-1, la deuxième méthode privilégiée est celle qui est fondée sur les intrants, qu'avait choisie l'appelante. La troisième, qui peut être employée lorsque les deux premières ne peuvent être appliquées, sera la méthode fondée sur les extrants, qui était celle qu'avait choisie le ministre en l'espèce.
+[Je souligne.]
+[74] Dans l'affaire Bay Ferries, précitée, l'appelante exploitait un traversier. Le revenu de l'appelante provenait de deux sources : les droits de péage, qui étaient des fournitures exonérées, et le revenu tiré de la location de l'espace à bord du navire pour des machines distributrices, la cafétéria, les boutiques de cadeaux, le bar, le salon et le kiosque de journaux.
+[75] Afin de déterminer le CTI auquel elle avait droit pour les locations, qui étaient taxables, l'appelante avait comparé la superficie en pieds carrés louée aux locataires au reste de la superficie.
+[76] Le ministre avait établi une nouvelle cotisation pour l'appelante en utilisant la méthode des extrants, en comparant le revenu brut provenant de la location au revenu provenant du péage. La Cour a conclu que la méthode de l'appelante, basée sur la superficie, était juste, raisonnable et pratique dans les circonstances :
+43 La méthode fondée sur les intrants, utilisée par l'appelante, nécessitait le calcul des superficies en pieds carrés et a été choisie parce qu'elle était plus cohérente d'année en année. Si Bay Ferries avait opté pour la méthode fondée sur les extrants, comme le ministre, différents pourcentages auraient été attribués aux diverses activités commerciales liées aux services d'aliments et de boissons d'après les revenus générés. Le degré d'uniformité serait alors inférieur à celui qui peut se dégager chaque année du recours à la méthode fondée sur les intrants.
+[77] La Loi est claire : le contribuable doit utiliser une méthode de répartition juste et raisonnable. Il n'y a aucune obligation de démontrer que la méthode est parfaite ou supérieure à toute autre.
+[78] Il doit essentiellement s'agir d'une méthode raisonnable, étayée et utilisée de façon cohérente. La méthode choisie par l'appelante ne peut être rejetée au seul motif que, selon l'intimée, il ne s'agissait pas de la méthode idéale. Le caractère raisonnable et la justesse d'une méthode revêtent d'une certaine façon une dimension subjective, puisque autrement il serait en pratique difficile de comparer plus d'une méthode.
+[79] Le ministre préfère la méthode basée sur les coûts, qui selon lui, donne des résultats plus fiables et cohérents année après année. La méthode du ministre pourrait certainement satisfaire à l'exigence d'être raisonnable; par contre, l'utilisation de la surface utilisée pour les activités commerciales tout au long de l'exercice constitue également une méthode juste et raisonnable.
+[80] Cette méthode a été reconnue comme étant une méthode acceptable non seulement dans Bay Ferries, mais aussi dans Gamache c. La Reine, 2002 CAF 254, 2002 G.T.C. 1182, [2003] G.S.T.C. 70.
+[81] Il n'y a aucun doute que la jurisprudence confère à tout contribuable une certaine marge de manoeuvre quant au choix de la méthode de répartition; en l'espèce, la méthode de la superficie constituait une méthode juste et raisonnable. Il y a lieu de conclure que la méthode choisie par la MRC était juste et raisonnable et, par voie de conséquence, acceptable. Lorsque les deux méthodes sont justes et raisonnables, on ne doit pas substituer la méthode du ministre à celle retenue par la MRC.
+[82] Selon la méthode de répartition choisie par l'appelante, soit la méthode de la superficie, 64 % des activités sont attribuables au compostage, et donc à l'activité commerciale, et 36 % sont attribuables au système d'incinération, et donc à l'activité exonérée.
+[83] Le reliquat des dépenses après avoir exclu du calcul les coûts directs attribuables au système d'incinération, soit le contrat Pyrox d'une valeur de 2 877 282 $, se détaille comme suit :
+a) Dépenses courantes (voir l'onglet 16 de la pièce A-1 - liste de documents)
+Année
+CTI réclamé
+RTI réclamé
+1994
+2 683,58 $
+2 597,46 $
+1995
+2 367,11 $
+3 021,27 $
+1996
+3 225,53 $
+4 262,10 $
+1997
+2 623,73 $
+6 082,15 $
+b) Dépenses liées à l'édifice soumises à la répartition
+Contractant
+Numéro de contrat
+Dépenses (taxes comprises)
+SNC Lavalin inc.
+4096-0000
+1 063 943,51 $
+Les Industries Pyrox
+4096-0003
+118 997,00 $
+Construction Beauce-Iles inc.
+4096-0004
+1 780 942,46 $
+Koné-Landel Canada inc.
+4096-003
+109 348,00 $
+Industries Machinex inc.
+4096-0003
+236 255,00 $
+Industries Machinex inc.
+4096
+35 438,49 $
+A.M.I. Mécanique
+4096-0005
+951 688,99 $
+Total :
+4 296 613,45 $
+[84] En ce qui concerne ces dépenses, les articles suivants sont applicables :
+Article 123 de la LTA
+« organisme de services publics » Organisme à but non lucratif, organisme de bienfaisance, municipalité, administration scolaire, administration hospitalière, collège public ou université.
+Article 209 de la LTA
+209. (1) Immeubles de certains organismes de services publics -- Si un inscrit (sauf une institution financière et un gouvernement) est un organisme de services publics, l'article 141.2 et les paragraphes 199(2) à (4) et 200(2) et (3) s'appliquent, avec les adaptations nécessaires, aux immeubles qu'il acquiert pour utilisation à titre d'immobilisations et, dans le cas du paragraphe 199(4), aux améliorations apportées aux immeubles qui font partie de ses immobilisations, comme s'il s'agissait de biens meubles. [...]
+Article 199 de la LTA
+[...]
+(2) Acquisition d'immobilisations -- Les règles suivantes s'appliquent à l'inscrit qui acquiert, importe ou transfère dans une province participante un bien meuble à utiliser comme immobilisation :
+a) la taxe payable par lui relativement à l'acquisition, à l'importation ou au transfert du bien n'est incluse dans le calcul de son crédit de taxe sur les intrants pour une période de déclaration que si le bien est acquis, importé ou transféré, selon le cas, en vue d'être utilisé principalement dans le cadre de ses activités commerciales;
+b) pour l'application de la présente partie, il est réputé avoir acquis, importé ou transféré le bien pour l'utiliser exclusivement dans le cadre de ses activités commerciales s'il l'a acquis, importé ou transféré, selon le cas, pour l'utiliser principalement dans ce cadre.
+(3) Principale utilisation d'immobilisations -- Pour l'application de la présente partie, l'inscrit qui a acquis ou importé un bien meuble la dernière fois en vue de l'utiliser comme immobilisation mais non principalement dans le cadre de ses activités commerciales et qui commence, à un moment donné, à l'utiliser comme immobilisation principalement dans le cadre de ses activités commerciales est réputé, sauf s'il devient un inscrit à ce moment :
+a) avoir reçu, au moment donné, une fourniture du bien par vente;
+b) avoir payé, au moment donné et relativement à la fourniture, sauf s'il s'agit d'une fourniture exonérée, une taxe égale à la teneur en taxe du bien à ce moment.
+(4) Amélioration -- utilisation principale d'une immobilisation -- La taxe payable par un inscrit relativement à l'acquisition, à l'importation ou au transfert dans une province participante des améliorations à un bien meuble qui est son immobilisation est incluse dans le calcul de son crédit de taxe sur les intrants si l'immobilisation, au moment où cette taxe devient payable ou est payée sans qu'elle soit devenue payable, est utilisée principalement dans le cadre de ses activités commerciales. [...]
+[Je souligne.]
+[85] Étant donné les définitions prévues aux articles 123 et 199 de la Loi, toute municipalité peut demander les CTI à l'égard d'un bien immeuble acquis ou importé par elle en vue d'être utilisé comme immobilisation principalement dans le cadre de ses activités commerciales, car le bien est alors réputé avoir été acquis ou importé par l'inscrit en vue d'être utilisé exclusivement dans le cadre de ses activités commerciales.
+[86] Par conséquent, vu que l'immeuble est utilisé à plus de 50 % (selon la méthode choisie par l'appelante) à des fins commerciales, la MRC a droit à tous les CTI réclamés pour l'immeuble, sauf évidemment les CTI liés au contrat Pyrox, qui n'entrent pas dans le calcul du CTI.
+[87] Le compostage constituant une activité commerciale pour la MRC, pendant la période en litige, la MRC effectuait donc des fournitures à la fois taxables et exonérées : les activités liées au compostage étaient des fournitures taxables et les activités liées au système d'incinération étaient des fournitures exonérées.
+[88] Les coûts directs liés à l'incinérateur ne peuvent donner droit au CTI. Plus particulièrement, le contrat lié à l'appel d'offres numéro 4096-0002 accordé à Les Industries Pyrox Inc. pour la somme de 2 877 282 $, taxes comprises, visant la fourniture, l'installation et la mise en marche d'un système d'incinération de déchets et d'un système d'épuration des gaz ne pourra donner droit aux CTI réclamés, car il s'agit d'intrants qui peuvent être directement liés à la fourniture exonérée de l'incinérateur. Cette somme devra être exclue du calcul lorsqu'on utilisera la méthode de répartition.
+[89] Quant au reliquat des coûts liés à la construction de l'usine, il s'agit là d'intrants utilisés afin d'effectuer des activités mixtes. Ayant conclu que la méthode de répartition basée sur la superficie choisie par l'appelante est juste et raisonnable dans les circonstances, les CTI peuvent être réclamés.
+[90] Pour toutes ces raisons, l'appel est accueilli en partie. L'appelante a droit à tous les CTI réclamés, à l'exception de ceux liés au contrat Pyrox pour la construction de l'incinérateur, le tout avec dépens en faveur de l'appelante.
+Signé à Ottawa, Canada, ce 12e jour d'avril 2006.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE :
+2006CCI235
+No DU DOSSIER DE LA COUR :
+2003-1693(GST)G
+INTITULÉ DE LA CAUSE :
+Municipalité régionale de comté des
+Îles-de-la-Madeleine c. Sa Majesté la Reine
+LIEU DES AUDIENCES:
+Montréal (Québec)
+DATES
+DES AUDIENCES :
+Argumentation de l'appelante :
+Argumentation de l'intimée :
+les 30 novembre et 1er décembre 2004
+et les 1er et 2 mars 2005
+le 25 avril 2005
+le 17 mai 2005
+MOTIFS DU JUGEMENT PAR :
+l'honorable juge Alain Tardif
+DATE DU JUGEMENT :
+le 12 avril 2006
+COMPARUTIONS :
+Avocate de l'appelante :
+Me Diane Bouchard
+Avocat de l'intimée :
+Me Gérald Danis
+AVOCATE INSCRITE AU DOSSIER:
+Pour l'appelante :
+Nom :
+Me Diane Bouchard
+Étude :
+Desjardins Ducharme Stein Monast
+Ville :
+Montréal (Québec)
+Pour l'intimée :
+John H. Sims, c.r. sous-ministre de la Justice
+et sous-procureur général du Canada
+Ottawa, Canada

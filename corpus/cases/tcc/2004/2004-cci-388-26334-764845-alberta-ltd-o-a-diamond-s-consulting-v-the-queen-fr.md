@@ -1,0 +1,200 @@
+---
+title: "764845 Alberta Ltd. o/a Diamond S. Consulting v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26334/index.do"
+last_modified: "2004-05-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 388"
+citation2: ""
+neutral_citation: "2004 CCI 388"
+decision_date: "2004-05-28"
+language: "fr"
+item_id: "26334"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3281
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:24:01.460000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c9100fc9c877a39b8af481232f3bfbe4eed7e7296afc8a86e0b1bff3d0dd8c8d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 764845 Alberta Ltd. o/a Diamond S. Consulting v. The Queen
+
+- Citation: 2004 CCI 388
+- Decision date: 2004-05-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3281, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+764845 Alberta Ltd. o/a Diamond S. Consulting v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-05-28
+Référence neutre
+2004 CCI 388
+Numéro de dossier
+2003-3986(GST)I
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2003-3986(GST)I
+ENTRE :
+764845 ALBERTA LTD. S/N DIAMOND S. CONSULTING,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu par M. le juge D.W. Beaubier à Grande Prairie (Alberta)
+le 21 mai 2004
+Comparutions :
+Représentant de l'appelante :
+M. Mike Skrynyk
+Avocat de l'intimée :
+Me John-Paul Hargrove
+____________________________________________________________________
+JUGEMENT
+L'appel à l'encontre de la cotisation établie en vertu de la Loi sur la taxe d'accise, dont l'avis est daté du 27 novembre 2002, est accueilli, et la cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément aux motifs de jugement ci-joints.
+Une somme de 350 $ est adjugée à l'appelante pour les sommes qu'elle a déboursées aux fins de cet appel.
+Signé à Ottawa, Canada, ce 28e jour de mai 2004.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+Jacques Deschênes, LL.B.
+Référence : 2004CCI388
+Date : 20040528
+Dossier : 2003-3986(GST)I
+ENTRE :
+764845 ALBERTA LTD. S/N DIAMOND S. CONSULTING,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+MOTIFS DU JUGEMENT
+Le juge Beaubier, C.C.I.
+[1] Cet appel, qui est régi par la procédure informelle, a été entendu à Grande Prairie (Alberta) le 21 mai 2004. Michael Skrynyk, président de l'appelante, était le seul témoin.
+[2] Les points litigieux sont énoncés aux paragraphes 7 à 15 inclusivement de la réponse à l'avis d'appel, ces paragraphes étant ainsi libellés :
+[traduction]
+7. En déclarant sa taxe nette pour la période de déclaration allant du 1er mai au 31 juillet 2002 (la « période pertinente » ), l'appelante a demandé des crédits de taxe sur les intrants de 3 235,40 $ et de 3 217 $ à l'égard de l'achat de deux camions à quatre portes, soit une GMC Sierra 2002 (la « GMC » ) et une Chevrolet Silverado 2002 (la « Chevrolet » ) respectivement.
+8. Par un avis de cotisation en date du 27 novembre 2002 (la « cotisation » ), le ministre a fixé à 698,15 $ la taxe nette payable par l'appelante pour la période pertinente. En fixant la taxe nette de l'appelante, le ministre n'a pas accordé la totalité des crédits de taxe sur les intrants demandés par l'appelante à l'égard des camions à quatre portes GMC et Chevrolet. Le ministre a refusé les crédits de taxe sur les intrants en sus de la somme de 2 100 $ pour chaque camion et a fait les rajustements additionnels ci-après mentionnés :
+taxe nette indiquée dans les déclarations
+-1 657,65 $
+rajustements à la taxe nette
+crédits de taxe sur les intrants demandés à l'égard de la GMC en sus de 2 100 $
+1 135,40 $
+***
+crédits de taxe sur les intrants demandés à l'égard de la Chevrolet en sus de 2 100 $
+1 117 $
+***
+crédits de taxe sur les intrants demandés pour des articles personnels
+54,54 $
+récupération de 50 p. 100 sur les frais de repas déductibles
+27,27 $
+crédits de taxe sur les intrants demandés pour les fournitures exonérées
+21,59 $
+taxe nette telle qu'elle a été fixée
+698,15 $
+*** crédits de taxe sur les intrants en cause dans le présent appel
+9. L'appelante a déposé un avis d'opposition, reçu le 22 janvier 2003, à l'égard de la cotisation. Elle s'opposait à la réduction des crédits de taxe sur les intrants à l'égard de l'achat des camions à quatre portes GMC et Chevrolet.
+10. Le ministre a ratifié la cotisation par un avis de décision en daté du 28 mai 2003.
+11. En établissant ainsi la cotisation de l'appelante et en ratifiant la cotisation, le ministre s'est fondé sur les hypothèses de fait ci-après énoncées :
+a) l'appelante était une société exploitant son entreprise en Alberta;
+b) pendant la période pertinente, l'appelante se livrait à des activités commerciales;
+c) pendant la période pertinente, l'appelante était un inscrit pour l'application de la Loi sur la taxe d'accise (la « LTA » );
+d) pendant la période pertinente, Mike Skrynyk était président et administrateur de l'appelante;
+e) l'appelante était tenue de produire ses déclarations sur une base trimestrielle, la fin de l'exercice étant le 31 janvier;
+f) l'appelante a acheté le camion à quatre portes GMC au mois de mai 2002;
+g) la GMC compte au moins quatre places assises, y compris celle du conducteur;
+h) pendant la période pertinente, la GMC a parcouru 8 279 kilomètres en tout;
+i) pendant la période pertinente, la GMC n'a pas été utilisée en totalité ou presque pour le transport de marchandises, de matériel ou de passagers en vue de gagner un revenu;
+j) l'appelante a acheté le camion à quatre portes Chevrolet le 16 mai 2002;
+k) la Chevrolet compte au moins quatre places assises, y compris celle du conducteur;
+l) pendant la période pertinente, la Chevrolet a parcouru 11 555 kilomètres en tout;
+m) pendant la période pertinente, Mike Skrynyk ou une personne qui lui était liée a parcouru 5 401 kilomètres dans la Chevrolet afin d'assister à des réunions à Edmonton, d'aller chercher des dossiers et de se rendre jusqu'à des terrains de golf à Stettler;
+n) la GMC et la Chevrolet n'ont pas été utilisées en totalité ou presque pour le transport de marchandises, de matériel ou de passagers en vue de gagner un revenu au cours de l'année d'imposition de l'appelante allant du 1er février 2002 au 31 janvier 2003, soit l'année d'imposition au cours de laquelle la GMC et la Chevrolet ont été acquises;
+o) pour la période de déclaration ayant pris fin le 31 juillet 2002, l'appelante a produit une déclaration dans laquelle elle demandait le plein montant des crédits de taxe sur les intrants de 3 235,40 $ à l'égard de l'achat de la GMC et de 3 217 $ à l'égard de l'achat de la Chevrolet.
+B. QUESTION À TRANCHER
+12. Dans cet appel, il s'agit de savoir si, en fixant la taxe nette de l'appelante pour la période pertinente, le ministre a eu raison de refuser les crédits de taxe sur les intrants d'un montant de 1 135,40 $ à l'égard de la GMC et de 1 117 $ à l'égard de l'achat de la Chevrolet.
+C. DISPOSITIONS LÉGISLATIVES INVOQUÉES ET RÉPARATION DEMANDÉE
+13. Le sous-procureur général se fonde sur le paragraphe 123(1), et plus précisément sur la définition de « véhicule de tourisme » , ainsi que sur les paragraphes 225(1) et 235(1) et sur les articles 165, 169, 201, 221, 228, 280, 286 et 296 de la Loi sur la taxe d'accise, L.R.C. 1985, ch. E-15, dans sa forme modifiée, et sur le paragraphe 248(1), et plus précisément sur la définition d' « automobile » , de « véhicule à moteur » et de « véhicule de tourisme » de la Loi de l'impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.) (la « LIR » ).
+14. Il fait valoir que la GMC était un véhicule de tourisme au sens du paragraphe 248(1) de la LIR et du paragraphe 123(1) de la LTA. Il est donc soutenu que le ministre a eu raison de refuser les crédits de taxe sur les intrants d'un montant de 1 135,40 $ à l'égard de la GMC étant donné qu'il a accordé les crédits de taxe sur les intrants maximaux, de 2 100 $, autorisés en vertu des articles 169 et 201 de la LTA.
+15. Il fait valoir que la Chevrolet était un véhicule de tourisme au sens du paragraphe 248(1) de la LIR et du paragraphe 123(1) de la LTA. Il est donc soutenu que le ministre a eu raison de refuser les crédits de taxe sur les intrants d'un montant de 1 117 $ à l'égard de la Chevrolet étant donné qu'il a accordé les crédits de taxe sur les intrants maximaux, de 2 100 $, autorisés en vertu des articles 169 et 201 de la LTA.
+[3] Les hypothèses énoncées aux alinéas 11a) à g) inclusivement ainsi qu'aux alinéas j) à l) inclusivement n'ont pas été réfutées. Quant aux autres hypothèses :
+11h) : pendant la période pertinente, la GMC a parcouru 8 289 kilomètres en tout;
+11i), m), n) et o) : les hypothèses sont en litige.
+[4] L'appelant et sa conjointe sont administrateurs et exploitants de l'appelante. Ils exploitaient l'entreprise depuis leur bureau à domicile à Widewater (Alberta), ville située sur la rive sud du Petit lac des Esclaves, à l'est et au nord-est de Grande Prairie, dans le Nord de l'Alberta. L'appelante supervise les travaux d'achèvement de puits de pétrole exécutés sur place à titre d'entrepreneur auprès de sociétés pétrolières, en Alberta. Elle se livre à ses activités là où de tels travaux doivent être exécutés sur des puits de pétrole et de gaz, essentiellement en Alberta.
+[5] Autrefois, l'appelante ne possédait qu'un seul camion, qui était semblable aux deux camions ici en cause. Elle a acheté deux camions en même temps, de façon que l'un d'eux soit toujours en état de fonctionner et plus particulièrement de façon que le camion ne soit pas si vieux qu'il doive être échangé contre un nouveau camion pour un faible montant en moins de deux ans. Monsieur Skrynyk voyage et Mme Skrynyk s'occupe de la tenue de livres et de dossiers ainsi que des opérations bancaires. Le bureau à domicile est situé à 17 kilomètres de Slave Lake, où se trouve la banque de l'appelante. La société avait également une part dans une agence de voyage qui avait engagé des pourparlers en vue de fusionner avec une autre agence de voyage, à St. Albert (Alberta), près d'Edmonton (ville située à 300 kilomètres de Widewater) pendant la période en cause; la société exécutait des travaux sur des puits de pétrole près de Vermillion, à environ 250 ou 300 kilomètres de son bureau, pendant la période en cause. Elle a organisé un tournoi de golf annuel pour ses clients à Stettler (Alberta), à une distance de 465 kilomètres de son bureau, pendant la période en cause. La ville de Stettler est située à peu près à mi-chemin entre Edmonton et Calgary, au sud de Vermillion, près des champs de pétrole de l'Est de l'Alberta.
+[6] Mme Skrynyk utilise un camion qui reste à Widewater pour aller à la banque et vaquer à ses affaires. Les conjoints possèdent également un véhicule personnel.
+[7] À l'aide des carnets de route qui ont été produits en preuve, M. Skrynyk a établi que les deux véhicules étaient utilisés comme suit pendant la période en cause :
+GMC
+Utilisation pour les besoins de l'entreprise
+7 743 km
+Total
+8 289 km
+Chevrolet
+Utilisation pour les besoins de l'entreprise
+10 481 km
+Total
+11 555 km
+Par conséquent, chaque camion était utilisé à plus de 90 p. 100 pour les besoins de l'entreprise au cours de la période en question. (Voir la pièce R-1.) Monsieur Skrynyk a également produit des photographies qui montrent que les camions sont utilisés comme un bureau mobile et qu'ils sont dotés d'un instrument, d'un casque de sécurité, d'un téléphone cellulaire, d'une radio et d'un certain nombre de gros ouvrages de référence à feuilles mobiles ainsi que de fournitures de bureau qui se trouvent dans de gros contenants en plastique sur les sièges. Il s'agit de camions lourds à quatre roues motrices conçus pour être utilisés sur les routes et pour la conduite hors route. Les photos qui ont été produites à l'égard d'un de ces camions montrent que l'intérieur n'est pas doté de luxueux sièges en cuir à réglage automatique. Il semble que ce camion soit tel que M. Skrynyk l'a décrit - un camion utilisé pour le travail qui, une fois sa durée de fonctionnement terminée, doit avoir une valeur de reprise acceptable. Il semble y avoir quelques grosses fêlures horizontales causées par des roches dans le pare-brise (pièce A-1).
+[8] Le témoignage de M. Skrynyk est retenu.
+[9] La preuve a établi que les deux camions étaient utilisés en totalité ou presque dans le cadre d'activités commerciales destinées à permettre à l'appelante de gagner un revenu d'entreprise.
+[10] Les appels sont accueillis. L'appelant a dû se rendre de Widewater à Grande Prairie et a engagé des frais d'affranchissement et de copie aux fins de l'appel. Un montant de 350 $ est adjugé à l'appelante pour les sommes déboursées à cette fin.
+[11] L'affaire est renvoyée au ministre du Revenu national pour qu'il procède à un nouvel examen et établisse une nouvelle cotisation en tenant compte du fait que l'appel a été accueilli.
+Signé à Ottawa, Canada, ce 28e jour de mai 2004.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+Jacques Deschênes, LL.B.
+RÉFÉRENCE :
+20044CCI388
+No DU DOSSIER DE LA COUR :
+2003-3986(GST)I
+INTITULÉ :
+764845 Alberta Ltd. s/n Diamond S. Consulting c. La Reine
+LIEU DE L'AUDIENCE :
+Grande Prairie (Alberta)
+DATE DE L'AUDIENCE :
+Le 21 mai 2004
+MOTIFS DU JUGEMENT :
+Le juge D.W. Beaubier
+DATE DU JUGEMENT :
+Le 28 mai 2004
+COMPARUTIONS :
+Représentant de l'appelante :
+M. Mike Skrynyk
+Avocat de l'intimée :
+Me John-Paul Hargrove
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Cabinet :
+Pour l'intimée :
+Morris Rosenberg
+sous-procureur général du Canada
+Ottawa, Canada

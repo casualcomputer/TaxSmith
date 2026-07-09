@@ -1,0 +1,502 @@
+---
+title: "Société Télé-Mobile c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30883/index.do"
+last_modified: "2012-07-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 256"
+citation2: ""
+neutral_citation: "2012 CCI 256"
+decision_date: "2012-07-17"
+language: "fr"
+item_id: "30883"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7413
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:30:17.766000+00:00"
+cases_cited_count: 1
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f1b0af42b5cbe2517e14088188947fd996f533fa8d30115c4896d8dedf557c18"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Société Télé-Mobile c. La Reine
+
+- Citation: 2012 CCI 256
+- Decision date: 2012-07-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7413, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Société Télé-Mobile c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-07-17
+Référence neutre
+2012 CCI 256
+Numéro de dossier
+2009-2959(GST)G
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2009-2959(GST)G
+ENTRE :
+SOCIÉTÉ TÉLÉ‑MOBILE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu les 27 et 28 juin 2012, à Vancouver (Colombie‑Britannique).
+Devant : L'honorable juge Campbell J. Miller
+Comparutions :
+Avocate de l'appelante :
+Me Kimberley L. D. Cook
+Avocats de l'intimée :
+Me Victor Caux et Me Andrew Majawa
+________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation établie au titre de la Loi sur la taxe d'accise, pour la période de déclaration allant du 2 janvier 2001 au 31 décembre 2001 et pour la période de déclaration allant du 1er janvier 2002 au 31 décembre 2002, est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 17e jour de juillet 2012.
+« Campbell J. Miller »
+Le juge C. Miller
+Traduction certifiée conforme
+ce 11e jour de décembre 2012.
+Yves Bellefeuille, réviseur
+Référence : 2012 CCI 256
+Date : 20120717
+Dossier : 2009-2959(GST)G
+ENTRE :
+SOCIÉTÉ TÉLÉ‑MOBILE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT MODIFIÉS
+Le juge C. Miller
+[1] L'appelante, SOCIÉTÉ TÉLÉ‑MOBILE (« TELUS »), fait appel de la cotisation établie par le ministre du Revenu national (le « ministre ») lui refusant des crédits de taxe sur les intrants (les « CTI ») pour 2005 et 2006, CTI qui, selon TELUS, résultent de crédits de facturation et de remises postales accordés à des clients en 2001 et 2002.
+Les faits
+[2] En 2001 et 2002, TELUS avait deux programmes promotionnels destinés à encourager les abonnements à des services téléphoniques mobiles de longue durée. L'un des programmes était un programme de remises postales, l'autre un programme de crédits de facturation.
+Les crédits de facturation
+[3] J'ai entendu le témoignage de Mme Mellett, l'une des responsables des produits et services chez TELUS, qui était, en 2001 et 2002, chargée de la tarification des services téléphoniques, ainsi que celui de M. Doug McCall, l'un des responsables de la fiscalité chez TELUS, concernant les programmes promotionnels, mais, selon moi, la lettre adressée par TELUS à l'Agence du revenu du Canada (l'« ARC ») le 14 septembre 2005 décrit le mieux le programme des crédits de facturation :
+[TRADUCTION]
+Les crédits de facturation de TM
+Les crédits de facturation sont accordés aux clients principalement à titre de ristournes sur la durée du contrat. TM accorde une ristourne sur la durée du contrat pour encourager le client à conclure un contrat d'une durée plus longue, soit lors de l'achat d'un nouveau téléphone portable, soit lorsqu'il passe d'un abonnement mensuel à un abonnement de longue durée. Par exemple, lorsqu'un client achète un téléphone portable et souscrit un contrat d'une durée de trois ans, il recevra une ristourne de 150 $ sur le prix du téléphone. La ristourne est parfois accordée au point de vente et réduit le prix du téléphone. Sinon, un crédit de facturation sera accordé dans les cas suivants :
+· le client achète le téléphone dans un magasin de détail qui ne peut l'abonner au service de TM et ne peut donc lui accorder une ristourne au point de vente,
+· le client renouvelle un abonnement avec TM sans acheter un nouveau téléphone,
+· le client passe d'un abonnement mensuel à un abonnement de longue durée,
+· une société cliente reçoit des crédits d'achat additionnels lorsqu'elle signe un accord portant sur l'acquisition de téléphones portables pour son usage.
+La TPS s'applique à la somme qui est facturée au client, sans qu'il soit tenu compte des crédits de facturation. Des crédits de taxe sur les intrants n'ont pas été auparavant réclamés au titre des crédits de facturation.
+[4] Les témoins de TELUS ont précisé que la ristourne consentie au moment de la vente était une ristourne sur le prix d'un téléphone. Ces ristournes s'appliquent au prix du téléphone avant l'application de la TPS. Elles ne sont pas en cause ici; seuls les crédits de facturation le sont. Je suis persuadé que les crédits de facturation dont les CTI sont en litige, et dont un sommaire figure à l'onglet 2 de la pièce A‑1, ne concernent pas la ristourne sur le prix d'un téléphone, mais uniquement le crédit ultérieur de facturation qui apparaît sur la première facture remise au client par TELUS, après que le contrat d'abonnement est conclu ou renouvelé. Il n'y a aucune contestation sur les chiffres figurant à l'onglet 2 de la pièce A‑1.
+[5] Le montant du crédit dépendra de la durée de l'abonnement souscrit par le client. Sur ce point, j'ai été renvoyé à une page du site Web de TELUS qui semble remonter à 2005 : on ne sait pas très bien si la page Web existait en 2001 et 2002, mais Mme Mellett, qui était responsable des promotions en 2001 et 2002, a indiqué que les crédits d'un an, de deux ans et de trois ans se chiffrant à 50 $, à 100 $ et à 150 $ étaient les mêmes à cette époque‑là et qu'ils avaient été largement diffusés. La page Web décrit le programme de la manière suivante :
+[TRADUCTION]
+Ristournes pour téléphone SCP*
+Abonnement d'un an
+Abonnement de deux ans
+Abonnement de trois ans
+Crédit de 50 $
+Crédit de 100 $
+Crédit de 150 $**
+§ FAQ – cliquer ici pour en savoir davantage sur nos offres de contrats SCP à durée déterminée
+§ Modalités du service
+§ Forfaits SCP – cliquez ici pour en savoir davantage sur nos forfaits SCP.
+* Les ristournes ci-dessus sont offertes aux nouveaux clients qui souscrivent un contrat SCP à durée déterminée.
+** Le prix le plus bas pour un combiné SCP sera de 24,99 $ (par exemple, un combiné d'une valeur au détail de 149,99 $ ayant un contrat de trois ans se verra appliquer une ristourne maximale de 125 $)
+[...]
+Quand mon abonnement commencera‑t‑il?
+Votre abonnement commencera lorsque TELUS Mobilité approuvera le contrat d'abonnement rempli.
+[...]
+Quand et comment le crédit est‑il appliqué?
+Une fois que l'abonnement aura été activé, vous pourrez recevoir votre crédit selon l'une des deux méthodes suivantes :
+§ Si vous achetez votre téléphone SCP chez un distributeur indépendant TELUS Mobilité, vous recevrez une remise immédiate sur le prix d'achat de votre téléphone.
+§ Si vous achetez votre téléphone SCP chez un autre détaillant de TELUS Mobilité ou chez un autre partenaire intermédiaire TELUS Mobilité, vous paierez le prix intégral de votre téléphone SCP au moment de l'achat, mais vous aurez une remise sur le téléphone à titre de crédit sur votre première facture.
+[6] Il est utile également de reproduire l'une des factures de 2002 qui illustre l'application du crédit de facturation (voir l'annexe A). On remarquera que le crédit, appelé [TRADUCTION] « Créd. téléph. contrat 3 ans », en l'occurrence 125 $, est déduit de la somme totale des frais, y compris la TPS et la TVP applicables, bien que le crédit apparaisse sur la facture avant la TPS. L'ensemble des frais s'élève donc à 127,35 $ plus 8,91 $ de TPS et 8,91 $ de TVP, pour un total de 145,17 $. Le crédit de facturation de 125 $ est déduit de la somme de 145,17 $, et la somme due se chiffre donc à 20,17 $. Si le téléphone était acheté au magasin TELUS, la ristourne immédiate s'appliquerait avant la TPS, mais cela ne semble pas être le cas pour le crédit de facturation. M. McCall n'a pu expliquer pourquoi la ristourne accordée dans un magasin TELUS était appliquée avant la TPS, alors qu'un crédit ultérieur de facturation était appliqué après la TPS, si ce n'est pour dire que le système n'était pas sans faille.
+[7] TELUS a attendu les périodes de déclaration de 2005 et 2006 pour réclamer des CTI à l'égard de ces crédits de facturation, qui se rapportaient à 2001 et 2002. Aucune explication n'a été donnée pour ce retard. Les CTI réclamés au titre des crédits de facturation de 2001 et 2002 étaient de 80 730,63 $ et de 391 175,01 $ respectivement.
+Les remises postales
+[8] Là encore, il est utile de reproduire la description que donne TELUS de ce programme dans la lettre du 14 septembre 2005 adressée à l'ARC :
+[TRADUCTION]
+[...]
+De temps à autre, TM applique un programme de promotion en envoyant des remises par la poste, par exemple 50 $, aux acheteurs de tel ou tel modèle de téléphone portable. Les téléphones sont vendus par TM aux divers points de vente où le client se les procure. Le client peut acheter le téléphone dans un magasin TELUS (partie intégrante de l'entité TM), chez un distributeur (un magasin indépendant rattaché à TM, mais ne faisant pas partie intégrante de l'entité TM) ou auprès d'un détaillant (par exemple, Future Shop ou London Drugs).
+L'opération se déroule ainsi : le client achète le téléphone, il paie la TPS sur le prix de détail du téléphone, il remplit le bon et l'envoie par la poste à TM. Une partie tierce, PPFD, s'assure que le client est admissible en vérifiant s'il a souscrit un abonnement à un service téléphonique mobile auprès de TM, puis envoie la remise promise en expédiant par la poste un chèque de 50 $ au client. Les remises accordées sont additionnées chaque mois, puis un rapport et une facture sont présentés à TM. TM rembourse alors à PPFD la remise que PPFD a expédiée par la poste, en y ajoutant des frais de traitement.
+Les téléphones de TM ne peuvent être utilisés qu'avec le réseau téléphonique mobile de TM. Lorsqu'un client achète un téléphone de TM dans un magasin de TM, ou chez un distributeur ou un détaillant de TM, il ne peut activer le téléphone qu'avec TM et il ne peut recevoir un service téléphonique mobile que de TM (sans modifier la configuration interne du téléphone).
+[...]
+Madame Mellett avait une explication légèrement différente à donner concernant un aspect de cet arrangement décrit dans la lettre du 14 septembre 2005. Elle a indiqué que la partie tierce, PPFD, qui s'assure en fait de l'admissibilité du client et lui envoie un chèque, reçoit au départ de TELUS l'argent destiné à payer les remises, en plus des frais de traitement.
+[9] À l'annexe B des présents motifs apparaît une copie du bon de remise envoyé par la poste. Ce bon concerne l'année 2004, mais Mme Mellett a témoigné avoir élaboré le modèle établi pour le bon, qui était le même en 2001 et en 2002.
+[10] Je ferai ressortir quelques points à propos du bon :
+a) il concerne les nouvelles activations de téléphones;
+b) la remise dépend du prix d'achat du téléphone et de la durée de l'abonnement;
+c) la remise est accordée même s'il n'y a qu'un contrat mensuel plutôt qu'un contrat à durée déterminée; la seule exigence est que le téléphone soit activé;
+d) le contrat doit rester en vigueur pour une période d'au moins 31 jours;
+e) le bon n'indique nulle part que la remise comprend la TPS.
+[11] On m'a présenté une copie d'un chèque de remise de 50 $ portant la mention « TELUS Mobilité », bien qu'aux soins de PPFD. Il n'y est fait aucune mention de la TPS.
+[12] Les CTI se rapportant aux remises postales pour les années 2001 et 2002 sont de 15 921,10 $ et de 76 063,26 $ respectivement.
+Les dispositions applicables
+[13] Avant d'exposer les thèses des parties, j'énoncerai les deux dispositions applicables de la Loi sur la taxe d'accise (la « LTA ») :
+181(1) Les définitions qui suivent s'appliquent au présent article.
+« bon » Sont compris parmi les bons les pièces justificatives, reçus, billets et autres pièces. En sont exclus les certificats‑cadeaux et les unités de troc au sens de l'article 181.3.
+« fraction de taxe » Quant à la valeur ou la valeur de rabais ou d'échange d'un bon :
+a) dans le cas où le bon est accepté en contrepartie, même partielle, d'une fourniture effectuée dans une province participante, le résultat du calcul suivant :
+A / B
+où :
+A représente la somme du taux fixé au paragraphe 165(1) et du taux de taxe applicable à la province,
+B la somme de 100 % et du pourcentage déterminé selon l'élément A;
+b) dans les autres cas, le résultat du calcul suivant :
+C / D
+où :
+C représente le taux fixé au paragraphe 165(1),
+D la somme de 100 % et du pourcentage déterminé selon l'élément C.
+[...]
+Acceptation d'un bon non remboursable
+(3) Lorsqu'un inscrit accepte, en contrepartie, même partielle, de la fourniture taxable (sauf une fourniture détaxée) d'un bien ou d'un service un bon qui permet à l'acquéreur de bénéficier d'une réduction sur le prix du bien ou du service égale au montant fixe indiqué sur le bon ou à un pourcentage fixe, indiqué sur le bon, du prix (le montant de la réduction étant, dans chaque cas, appelé « valeur du bon » au présent paragraphe) et que l'inscrit peut raisonnablement s'attendre à ne pas recevoir de montant pour le rachat du bon, les règles suivantes s'appliquent :
+a) pour l'application de la présente partie, l'inscrit doit considérer que le bon :
+(i) soit réduit la valeur de la contrepartie de la fourniture en conformité avec le paragraphe (4),
+(ii) soit représente un paiement au comptant partiel qui ne réduit pas la valeur de la contrepartie de la fourniture;
+b) si l'inscrit considère que le bon est un paiement au comptant partiel qui ne réduit pas la valeur de la contrepartie de la fourniture, les alinéas (2)a) à c) s'appliquent à la fourniture et au bon, et l'inscrit peut demander, pour sa période de déclaration qui comprend le moment de l'acceptation du bon, un crédit de taxe sur les intrants égal à la fraction de taxe de la valeur du bon.
+Acceptation d'autres bons
+(4) Pour l'application de la présente partie, lorsqu'un inscrit accepte, en contrepartie, même partielle, de la fourniture d'un bien ou d'un service, un bon auquel les alinéas (2)a) à c) ne s'appliquent pas et qui est échangeable contre le bien ou le service ou qui permet à l'acquéreur de bénéficier d'une réduction ou d'un rabais sur le prix du bien ou du service, la valeur de la contrepartie de la fourniture est réputée égale à l'excédent éventuel de cette valeur, déterminée par ailleurs pour l'application de la présente partie, sur la valeur de rabais ou d'échange du bon.
+Rachat
+(5) Pour l'application de la présente partie, lorsqu'un fournisseur qui est un inscrit accepte, en contrepartie, même partielle, de la fourniture taxable d'un bien ou d'un service, un bon qui est échangeable contre le bien ou le service ou qui permet à l'acquéreur de bénéficier d'une réduction ou d'un rabais sur le prix du bien ou du service, et qu'une autre personne verse dans le cadre de ses activités commerciales un montant au fournisseur pour racheter le bon, les règles suivantes s'appliquent :
+a) le montant est réputé ne pas être la contrepartie d'une fourniture;
+b) le versement et la réception du montant sont réputés ne pas être des services financiers;
+c) lorsque la fourniture n'est pas une fourniture détaxée et que le bon permet à l'acquéreur de bénéficier d'une réduction sur le prix du bien ou du service égale au montant fixe indiqué sur le bon (appelé « valeur du bon » au présent alinéa), l'autre personne, si elle est un inscrit (sauf un inscrit visé par règlement pour l'application du paragraphe 188(5)) au moment du versement, peut demander, pour sa période de déclaration qui comprend ce moment, un crédit de taxe sur les intrants égal à la fraction de taxe de la valeur du bon, sauf si tout ou partie de cette valeur représente le montant d'un redressement, d'un remboursement ou d'un crédit auquel s'applique le paragraphe 232(3).
+Remises
+181.1 Lorsqu'un inscrit effectue au Canada la fourniture taxable, sauf une fourniture détaxée, d'un bien ou d'un service qu'une personne acquiert de l'inscrit ou de quelqu'un d'autre et verse à la personne, relativement au bien ou au service, une remise, à laquelle le paragraphe 232(3) ne s'applique pas, accompagnée d'un écrit portant qu'une partie de la remise représente un montant de taxe, les règles suivantes s'appliquent :
+a) l'inscrit peut demander, pour sa période de déclaration qui comprend le moment du versement de la remise, un crédit de taxe sur les intrants égal au produit du montant de la remise par la fraction (appelée « fraction de taxe relative à la remise » au présent article) déterminée selon le calcul suivant :
+A / B
+où :
+A représente
+(i) si la taxe prévue au paragraphe 165(2) était payable relativement à la fourniture du bien ou du service au profit de la personne, la somme du taux fixé au paragraphe 165(1) et du taux de taxe applicable à la province participante dans laquelle cette fourniture a été effectuée,
+(ii) dans les autres cas, le taux fixé au paragraphe 165(1),
+B la somme de 100 % et du pourcentage déterminé selon l'élément A;
+b) pour l'application de la présente partie, la personne est réputée, si elle est un inscrit qui peut demander un crédit de taxe sur les intrants, ou un remboursement en vertu de la section VI, relativement à l'acquisition, avoir effectué une fourniture taxable et avoir perçu, au moment du versement de la remise, la taxe relative à la fourniture, calculée selon la formule suivante :
+A × (B / C) × D
+où :
+A représente la fraction de taxe relative à la remise,
+B le crédit de taxe sur les intrants ou le remboursement visé à la section VI que la personne pouvait demander relativement à l'acquisition,
+C la taxe payable par elle relativement à l'acquisition,
+D la remise que l'inscrit lui a versée.
+Les thèses des parties
+[14] En ce qui concerne les CTI pour les crédits de facturation, l'appelante fait valoir ce qui suit :
+a) Le crédit de facturation est un bon (une pièce) au sens du paragraphe 181(1) de la LTA, qui permet au client de bénéficier, pour les services de TELUS, d'une réduction sur le prix égale au montant fixe indiqué sur le bon (la pièce) et qui fait donc intervenir le paragraphe 181(3) de la LTA, lequel donne à TELUS le droit aux CTI (alinéa 181(3)b) de la LTA).
+b) Subsidiairement, si le crédit de facturation n'est pas un bon relevant du paragraphe 181(3) de la LTA, il s'agit alors d'une remise au sens de l'article 181.1 de la LTA qui donne à TELUS le droit à des CTI, puisque TELUS a versé cette remise relativement à ses services et qu'il existait un écrit portant qu'une partie de la remise représentait un montant de taxe.
+[15] L'intimée répond de la manière suivante à l'appelante en ce qui a trait aux crédits de facturation :
+a) Le crédit de facturation n'est pas un bon qui déclenche l'application de l'article 181 de la LTA, pour les raisons suivantes :
+i) il s'agissait d'une remise sur le prix du téléphone, et non d'un bon présenté à TELUS pour ses services;
+ii) il ne satisfait pas à la définition du terme « bon »;
+iii) même si le crédit de facturation est considéré comme un bon, il n'était pas fondé sur un « montant fixe », et il n'était pas non plus dans une forme qui pouvait être « acceptée » par TELUS.
+b) Subsidiairement, l'article 181.1 de la LTA n'est pas applicable, parce que :
+i) la remise se rapporte à la fourniture du téléphone (qui n'est pas une fourniture effectuée par TELUS), et non à la fourniture de services de TELUS;
+ii) il n'y a aucun écrit portant qu'une partie de la remise représente un montant de taxe.
+[16] En ce qui concerne les CTI pour les bons ou les remises envoyées par la poste, l'appelante fait valoir que les bons sont des bons non remboursables portant sur un montant fixe qui permettent au client de bénéficier d'une réduction sur le prix des services de TELUS et qui déclenchent l'application du paragraphe 181(3) de la LTA, puisque TELUS a en fait remboursé une partie du prix payé par le client pour les services de TELUS.
+[17] L'appelante ne prétend pas que l'article 181.1 de la LTA est applicable.
+[18] Répondant à la thèse de TELUS à propos des CTI pour les bons envoyés par la poste, l'intimée fait valoir que les bons n'étaient pas des bons au sens de la définition, mais une remise sur le prix du téléphone, lequel n'était pas fourni par TELUS, et que ces bons ne pouvaient donc pas être acceptés en contrepartie de cette fourniture. Même si les bons étaient acceptés en contrepartie de la fourniture, il n'y avait aucun montant fixe, comme le requiert le paragraphe 181(3) de la LTA. L'intimée a reconnu que, si le chèque de remboursement avait indiqué que le remboursement comprenait la TPS, alors l'appelante aurait pu invoquer l'article 181.1 de la LTA.
+Analyse
+[19] Avant d'entreprendre mon analyse de la LTA, je tiens à préciser que j'ai bien constaté que TELUS a mis plusieurs années avant de réclamer les CTI en litige : puisque la raison de ce retard n'a pas été expliquée, j'en suis réduit à conjecturer que quelqu'un s'est finalement rendu compte que TELUS avait commis une erreur. Comment la corriger? L'article 261 de la LTA, à l'époque (avant 2007), aurait pu constituer un moyen d'obtenir un remboursement, mais TELUS avait déjà dépassé le délai de deux ans. Les articles 181 et 181.1 de la LTA offraient peut‑être une solution de rechange, mais il m'apparaît clairement qu'aucune de ces dispositions ne constitue une solution élégante, à moins de leur donner une interprétation quelque peu dénaturée, encore que peut‑être pas complètement infaisable. Mon choix est le suivant : souscrire à une telle interprétation, ou dire simplement à TELUS de panser ses plaies et de s'y prendre dorénavant de la bonne façon.
+A. Les crédits de facturation
+[20] Le premier obstacle à surmonter consiste à déterminer la fourniture à laquelle se rapporte le crédit. L'intimée dit que les crédits de facturation sont accordés pour les combinés, les téléphones portables, tandis que l'appelante affirme que les crédits de facturation concernent les services de TELUS. La question est compliquée par le fait que, si un client achète un téléphone portable dans un magasin TELUS, il obtiendra une réduction immédiate sur le prix du téléphone, mais que, s'il ne peut obtenir de réduction immédiate, il obtient alors un crédit sur la première facture de TELUS, laquelle se rapporte aux services de TELUS, et non au téléphone. Le crédit qui est en cause ici, c'est celui qui est accordé dans le deuxième cas.
+[21] Le cas en question mérite d'être illustré par un exemple. Disons qu'un client achète un téléphone portable dans un magasin autre qu'un magasin TELUS et paie 300 $, plus 5 p. 100 de TPS, soit 315 $. Le client a lu sur le site Web de TELUS, ou bien il est informé par le fournisseur du téléphone, que s'il souscrit un abonnement de deux ans avec TELUS, il a droit à une « remise de 100 $ sur le téléphone à titre de crédit » (pour que la démonstration soit plus facile à comprendre, je dirai qu'il s'agit d'un crédit de 105 $, plutôt que du crédit de 100 $) sur sa première facture de TELUS. Du point de vue de la TPS, c'est là une formule maladroite, car la première facture de TELUS ne porte pas sur le téléphone, mais sur le contrat de services.
+[22] Qu'observe‑t‑on sur cette première facture? Poursuivons notre exemple et disons que la première facture est de 100 $. D'après les factures de TELUS produites en preuve, TELUS demande 100 $, elle soustrait le crédit de 105 $, sous la désignation « Créd. téléph. contrat 2 ans », et elle applique la TPS de 5 $. La facture indiquera une TPS de 5 $ devant être versée par TELUS, mais 0 $ pour les frais totaux devant être payés par l'acquéreur des services. Si l'on emploie les mots et la configuration de la facture de TELUS apparaissant à l'annexe A, la facture se présentera à peu près ainsi :
+Frais de service
+100 $
+Créd. téléph. contrat 2 ans
+- 105 $
+- 5 $
+TPS
+5 $
+Total des frais courants
+0 $
+Supposons que la première facture était de 300 $ plutôt que 100 $. Elle se présentera alors ainsi :
+Frais de service
+300 $
+Créd. téléph. contrat 2 ans
+- 105 $
+195 $
+TPS
+15 $
+Total des frais courants
+210 $
+[23] J'arrive à la conclusion que, nonobstant le texte des documents promotionnels de TELUS, qui donnent l'impression que le crédit s'applique au téléphone portable ou au combiné, la réalité commerciale est que le crédit ne s'appliquait pas au téléphone portable; il s'appliquait aux services fournis par TELUS. C'était la seule fourniture indiquée sur la facture, et c'est aux services en question que le crédit devait s'appliquer.
+i. Le crédit de facturation en tant que bon : l'article 181 de la LTA
+[24] Je vais maintenant considérer l'application de l'article 181 de la LTA à ce contexte. Le crédit de facturation est-il un bon? Rappelons qu'un bon comprend une pièce; selon le paragraphe 181(3) de la LTA, une pièce permet à l'acquéreur de bénéficier d'une réduction sur le prix du service égale au montant fixe indiqué sur la pièce, que TELUS accepte comme contrepartie.
+[25] L'appelante voudrait que j'interprète d'une manière libérale le mot « bon ». Elle invoque à ce titre les propos tenus par la Cour suprême du Canada dans l'arrêt Perka c. La Reine[1], qui laissent entendre qu'une formulation législative générale autorise une interprétation selon laquelle les catégories énumérées dans un texte sont réputées comprendre les éléments qui étaient inconnus lors de l'adoption du texte.
+[26] L'intimée fait valoir que le crédit de facturation ne présente aucune des caractéristiques d'un bon et que, suivant la règle ejusdem generis, une « pièce » devrait présenter les mêmes caractéristiques qu'une pièce justificative, un reçu ou un billet. Se référant aux définitions du dictionnaire, l'intimée conclut qu'une pièce justificative, un reçu ou un billet est une chose qu'utilise un client durant l'opération, non après l'opération, et qui permet au client de bénéficier d'une réduction sur le prix. Ainsi, si le crédit s'appliquait au téléphone portable, et non aux services de TELUS, il s'agit davantage d'une remise que de l'acceptation d'un bon pour une opération courante. Mais, selon ma conclusion tirée de la preuve, le crédit a pour effet de réduire le prix des services fournis par TELUS, non la somme payée pour le téléphone portable. À cet égard, le crédit de facturation présente bien un rapport de simultanéité avec l'opération, de la même manière qu'une pièce justificative, un reçu et un billet, en ce sens que ce crédit est accordé au moment précis où les services sont facturés, c'est‑à‑dire au moment de la première facture de TELUS. Ce qui distingue toutefois le crédit de facturation d'une pièce justificative, d'un reçu ou d'un billet — et c'est là l'élément essentiel de la définition — c'est que ce n'est pas quelque chose qui permet au client de bénéficier de la réduction : le crédit est la réduction même. C'est là une distinction de taille.
+[27] Dans la version anglaise de la LTA, le terme « device » apparaît comme équivalent du terme « pièce ». Ce terme générique, défini dans le dictionnaire Webster's Online comme [TRADUCTION] « un mécanisme conçu pour servir à un usage spécial ou accomplir une fonction spéciale [...] un dispositif électronique », élargit considérablement toute idée qui voudrait qu'un « bon » se limite à un sens traditionnel. L'emploi du mot « device » donne à penser que le législateur reconnaissait que le commerce était entré dans une ère technologique où le papier pouvait en fait devenir totalement anachronique. Comme l'a indiqué l'appelante, les pratiques commerciales ont évolué avec l'arrivée du commerce électronique et, au lieu de remettre un bon en papier, une entreprise peut conférer à un client le droit de bénéficier d'une réduction du prix d'achat par Internet. Je ne vois cependant pas en quoi cette manière de voir favorise l'appelante, puisqu'elle n'a rien signalé qui soit détenu par le client, de façon informatique ou autre, qui lui donne le droit au crédit. Le client obtient tout simplement ce crédit.
+[28] L'appelante a aussi fait valoir que l'exclusion des « unités de troc » de la définition du terme « bon » donne à penser que cette définition doit être très large, si large en fait qu'elle engloberait les crédits de facturation de TELUS. Je reconnais avec l'appelante qu'une unité de troc n'est pas visée par la définition classique d'un bon, mais cette unité de troc représente néanmoins une chose, tels des points, qu'un client peut présenter à un membre du réseau de troc pour réduire le prix du service ou du produit. La définition n'élargit pas le sens du terme « bon » au point d'y inclure ce qui est simplement un rabais offert par un inscrit.
+[29] L'avocate de l'appelante m'a aussi rappelé les principes généraux d'interprétation (l'analyse textuelle, contextuelle et téléologique) ainsi que l'article 12 de la Loi d'interprétation, pour soutenir qu'une définition élargie du terme « bon » n'est pas seulement justifiée textuellement et contextuellement, mais qu'elle est également plus apte à remplir l'objet de la disposition. Je souscris à cette manière de voir, mais, encore une fois, elle ne favorise pas l'appelante, car, selon moi, l'objet de l'article 181 concerne le traitement d'un bon, non celui d'un rabais pur et simple.
+[30] Dès lors que l'on admet que le crédit se rapporte aux services fournis par TELUS, alors, oui, le refus des CTI réclamés a pour résultat que la TPS devient exigible sur le montant du crédit, et sans déduction. Il est bien possible que cela contrevienne à l'esprit de dispositions telles que les articles 181, 181.1 et 232 de la LTA, lesquels préservent l'intégrité d'un système qui oblige l'acquéreur à payer une taxe sur la valeur de la contrepartie de la fourniture, afin que la taxe soit payable sur la contrepartie nette que paie le consommateur final. Ce résultat me trouble, car l'État pourrait bien recueillir une manne dans cette situation. Mais on n'aboutira pas au résultat souhaité en dénaturant le texte, comme si on tentait de faire passer un chameau par le chas d'une aiguille. Ce que dit l'article 181 de la LTA, c'est que, bien que la taxe soit percevable sur le prix exigé par un vendeur pour un service ou une fourniture, si ce prix est partiellement assumé par le vendeur, il sera déraisonnable de considérer cette portion du prix comme faisant partie de la contrepartie reçue de l'acquéreur pour la fourniture, mais encore faut‑il que l'inscrit se plie aux règles et puisse produire un bon ou une pièce. Je crois que l'inscrit, dans le cas présent, cherche à étirer les règles pour empêcher un résultat dont il est l'auteur par suite de la création d'un programme qui ne tient nullement compte de la TPS.
+[31] Même si j'adoptais une interprétation exagérément libérale du mot « bon », l'intimée formule ensuite deux autres objections à la possibilité d'appliquer le paragraphe 181(3) de la LTA aux crédits de facturation. D'abord, le fait que le bon ou la pièce n'indique aucun montant fixe et, ensuite, le fait que TELUS n'a rien accepté, à titre de paiement partiel, qui puisse de quelque manière être assimilé à un bon.
+[32] Avant d'examiner ces objections, il convient de préciser ce en quoi consiste le bon ou la pièce. L'avocate de TELUS a d'abord prétendu qu'il s'agit du crédit même sur la facture. Comme je l'ai déjà indiqué, le crédit ne saurait être le bon, la chose qui permet au client d'obtenir la réduction, car il est la réduction même. Non, s'il y a un bon ou une pièce, il ne peut s'agir que du mécanisme par lequel TELUS offre à ses clients un crédit d'un certain montant à valoir sur les frais de service de TELUS, crédit subordonné à l'activation d'un abonnement d'un an, de deux ans ou de trois ans, et accordé lors de la délivrance de la facture.
+[33] Ainsi, relativement à l'exigence d'un montant fixe indiqué sur le bon, l'intimée a raison de demander où ce montant fixe doit se trouver pour que cette exigence soit remplie. L'appelante se fonde sur la décision La banque Le choix du président c. La Reine[2] pour prétendre que l'exigence voulant que le bon ait une valeur fixe ne s'applique que lors du rachat. L'appelante en déduit donc que la facture indiquant le montant du crédit répond à cette exigence. L'affaire Le choix du président concernait toutefois le paragraphe 181(5) de la LTA, dont le texte est très différent de celui du paragraphe 181(3) de la LTA. L'appelante cite la juge Lamarre :
+75. Les notes techniques de février 1993 émises par le ministère des Finances donnent l'explication rationnelle à l'origine du paragraphe 181(5) de la LTA :
+[TRADUCTION]
+[...]
+Le paragraphe 181(5) donne aussi le droit à l'émetteur [la Banque PC] d'un bon remboursable et d'un montant fixe de demander un crédit de taxe sur les intrants égale à 7/107e de cette valeur lorsque l'émetteur rachète le bon au fournisseur [Loblaw]. En accordant à l'émetteur un crédit de taxe sur les intrants, le paragraphe 181(5) fait en sorte que c'est le montant net global exact de TPS qui est versé au gouvernement pour la fourniture effectuée par le fournisseur [...]
+76. On peut déduire de ces notes techniques que le montant fixe doit être établi au moment où l'émetteur (la Banque PC) rachète le bon au fournisseur (Loblaw). Même si l'intimée a raison de dire que le bon n'a pas de valeur monétaire lorsqu'il est émis, ce n'est pas ce que requiert le paragraphe 181(5). Ce que nous devons déterminer, c'est la question de savoir si un montant fixe existe au moment du rachat. Le bon a une valeur monétaire à ce moment‑là : il y a un bon de papier ou un dispositif électronique indiquant un montant fixe pour les points échangés; ce montant est appliqué comme réduction sur le prix des produits d'épicerie achetés et il est inscrit sur la facture du client.
+[34] Ces propos ne permettent pas d'affirmer qu'une réduction aux termes du paragraphe 181(3) de la LTA peut être considérée comme ayant un montant fixe au moment où le crédit est accordé sur la facture. Ce serait étendre la conclusion de la juge Lamarre bien au‑delà de son application limitée.
+[35] Or, même si l'on considère la pièce employée par TELUS comme étant l'ensemble composé de la promotion, l'activation de l'abonnement et la facture, il est clair que, hormis la facture, le seul endroit qui indique clairement un crédit fixe est le site Web, dont nous ne savons d'ailleurs pas s'il existait en 2001 et 2002. Je n'interprète pas l'exigence étroitement au point qu'il faille absolument qu'un bon écrit indiquant un montant fixe soit présenté à TELUS pour que l'exigence soit remplie. Nous sommes arrivés à l'ère du commerce électronique et nous employons aujourd'hui des dispositifs d'achat et de vente que nous n'imaginions pas il y a 20 ans, et je suis d'avis que, lorsque le montant fixe est manifestement connu des deux parties, et lorsqu'il est attesté par écrit, sur papier ou électroniquement, et offert par un client comme contrepartie partielle, alors l'exigence est remplie. Mais ce n'est pas ce qui s'est produit ici. TELUS a simplement annoncé son rabais.
+[36] Il ne m'est pas nécessaire d'examiner l'argument de l'intimée selon lequel il ne peut y avoir d'options, mais seulement un montant fixe unique indiqué sur le bon; néanmoins, par souci d'exhaustivité, j'examinerai cet argument. L'intimée se fonde sur le Bulletin d'information technique B‑002 :
+Bons qui comprennent la TPS
+Les détaillants émettent ces bons dont la valeur n'est pas remboursée par une autre personne. Les détaillants auront le choix d'inclure la TPS dans la valeur nominale de ces bons. Toutefois, si un détaillant choisit cette option, il devra s'assurer que tous les bons qu'il émet à l'égard de produits et services taxables au taux de 7 p. 100 comprennent la TPS.
+Par exemple, si un détaillant émet un bon d'une valeur de 10 $ et qu'il ajoute la TPS de 0,70 $ (10 $ × 7 %), la valeur nominale du bon sera de 10,70 $. Le bon doit également indiquer que la TPS est comprise dans la valeur nominale du bon.
+Lorsque les détaillants accepteront leurs bons (TPS comprise), ils les considéreront de la même manière que les bons de rabais à valeur nominale remboursables (c.‑à‑d. de l'argent comptant offert par le client). Voir l'exemple ci‑dessus qui démontrent [sic] la façon dont on considère les bons (TPS comprise).
+Au moment de préparer leur déclaration de TPS, les détaillants devront calculer la taxe à percevoir sans tenir compte de la valeur de ces bons.
+Les détaillants pourront réclamer 7/107 de la valeur nominale de ces bons à titre de rajustement de crédit de taxe. Ils pourront demander ce rajustement au moment de préparer leur déclaration pour la période de déclaration au cours de laquelle le bon a été remboursé.
+[...]
+Autres genres de bons
+Les bons qui n'offrent pas de rabais précis seront considérés de la même manière que les bons qui ne comprennent pas la TPS. Ces bons réduiront le prix de vente d'un article avant de calculer la TPS (tel qu'il est indiqué à l'EXEMPLE B). Par conséquent, vous déduirez la valeur du bon du prix de vente avant de calculer la TPS payable.
+Ces bons peuvent :
+· offrir un certain pourcentage de rabais sur le prix d'un article (p. ex., un bon qui permet d'obtenir un rabais de 10 p. 100 au prochain achat);
+· permettre d'obtenir un article gratuit à l'achat d'un autre article (p. ex., les bons « deux pour le prix d'un »);
+· correspondre à plus d'une valeur nominale (p. ex., un rabais de 0,50 $ sur une bouteille de boisson gazeuse de 250 ml ou d'un dollar sur une bouteille de 500 ml) et
+· être utilisés à l'achat de produits et services taxables, ainsi que des produits et services détaxés ou exonérés.
+[Non souligné dans l'original.]
+[37] Les bulletins ne lient pas la Cour, mais ils indiquent la manière de voir du fisc et proposent une façon de considérer le genre d'offre que TELUS fait à ses clients, un peu comme pour les différentes bouteilles de boissons gazeuses dont parle le bulletin. Cependant, au lieu de suivre l'approche expliquée dans ce bulletin, qui consiste à réduire le prix avant TPS, TELUS affirme qu'elle réduisait le prix comprenant la TPS.
+[38] Le texte de l'article 181 de la LTA permet-il d'affirmer qu'il doit y avoir un montant fixe unique? Non. Il parle simplement de la réduction du prix du service selon un montant fixe. Si le service est un contrat de deux ans, ce montant fixe est de 100 $. Lorsque TELUS accorde le crédit, TELUS et le client savent tous deux que le service acheté est un abonnement de deux ans, et ils savent tous deux que le montant fixe qui s'y rattache est de 100 $. J'admettrais que, si le montant fixe variait pour le même produit ou service, alors un bon ou une pièce à options multiples ne s'accorderait pas avec le paragraphe 181(3) de la LTA, mais ici, la fourniture qui est achetée est différente — il s'agit de contrats d'un an, de deux ans ou de trois ans — et le montant attribué à chacune d'elles est fixe. Si je devais trancher cette question, je rejetterais l'argument de l'intimée selon lequel un bon ne pourrait comporter plus d'une option, pour autant que chaque montant fixe s'applique à une fourniture distincte.
+[39] Je passe maintenant à l'exigence de l'« acceptation » du bon par TELUS. Les mots introductifs du paragraphe 181(3) de la LTA supposent que l'inscrit « accepte » le bon ou la pièce. L'intimée soutient que rien qui ressemble à un bon ou à une pièce n'a été présenté à TELUS pour acceptation. Je partage cet avis. À l'évidence, il n'y a eu aucune acceptation d'un bon écrit ou d'une pièce justificative au sens classique. Ce que le client a remis à TELUS est un contrat en supposant que, conformément à sa promesse, TELUS lui accordera un crédit sous la forme d'une réduction de ses frais de service sur la première facture. Le contrat, en soi, ne fait état d'aucun montant fixe, bien qu'il stipule ce qui suit : [TRADUCTION] « tous les frais d'utilisation et de communication et autres frais, y compris les taxes, sont exigibles selon ce qui est précisé par TELUS Mobilité sur les factures adressées à vous ou à la personne ou société responsable, ou selon les autres dispositions prises avec vous par TELUS Mobilité ». J'ai deux remarques à faire sur ce point. D'abord, cette clause apparaît sous la rubrique [TRADUCTION] « Modalités du service » : elle représente ce que TELUS offre au client, non quelque chose que le client offre à TELUS. Deuxièmement, la mention d'après laquelle les frais englobent les taxes selon ce qui est précisé sur les factures ne suffit pas à constituer un montant fixe, contrairement à ce qu'exige, selon moi, l'article 181 de la LTA.
+[40] Il n'y a tout simplement rien que TELUS ait accepté du client et qui ait permis au client d'obtenir la réduction.
+[41] L'appelante m'a renvoyé à la décision William E. Coutts Co. Ltd., s/n Hallmark Cards c. La Reine[3], décision qu'elle voudrait assimiler à la présente espèce. Je suis en désaccord avec elle. On ne saurait parler ici d'une fusion de deux paiements en un seul, expression employée par le juge Mogan dans cette décision, où il estimait qu'une remise avait été versée. Appliquer cette décision à la présente affaire reviendrait en fait à enlever le mot « bon » du paragraphe 181(3) de la LTA et à interpréter ce paragraphe de telle sorte que les inscrits soient libres de choisir, pour l'application d'un rabais, d'inclure la TPS ou non. Ce n'est pas là l'objet du paragraphe 181(3) de la LTA.
+[42] En résumé, TELUS a offert un rabais. On souscrit un abonnement de trois ans, et on obtient une réduction de 150 $ sur ses frais. C'est tout. C'est cela, la promotion. Il n'y avait aucun bon ni aucune pièce ni rien qui ressemble, par exemple, aux milles aériens. Il s'agissait simplement d'un rabais sur les frais de service : rien n'a été présenté par le client ni accepté par TELUS qui puisse entrer dans la définition, si libérale soit‑elle, d'un bon ou d'une pièce. Je partage l'avis de l'intimée pour qui, si je devais dire que le rabais offert par TELUS était un bon, alors je me trouverais à retrancher le mot « bon » de la disposition. Il m'est impossible de faire cela.
+ii. Les crédits de facturation en tant que remises : l'article 181.1 de la LTA
+[43] Pour avoir droit aux CTI selon cette disposition, TELUS doit :
+a) prouver qu'elle a effectué une fourniture taxable : oui, comme je l'ai déjà dit, TELUS a effectué une fourniture taxable de services;
+b) prouver qu'une personne donnée acquiert un service de TELUS (ou de quelqu'un d'autre) : oui, un client a acquis les services de TELUS;
+c) prouver que TELUS a versé une remise relativement au service : oui, je suis d'avis que le crédit indiqué sur les factures équivaut au versement d'une remise;
+d) avec la remise, produire un écrit portant qu'une partie de la remise représente un montant de taxe. Là est la question, s'accordent à dire les parties.
+[44] TELUS affirme qu'après examen de sa facture, il est clair que la remise a été versée de manière à englober le prix et la TPS, et cela suffit selon elle à remplir l'exigence d'un écrit. L'intimée affirme qu'un acquéreur n'a pas à recourir à une calculatrice pour être mis au fait des implications fiscales d'une remise. L'acquéreur doit savoir qu'il y a eu remboursement de taxe : cela est d'autant plus important si l'acquéreur est un inscrit et s'il doit calculer lui‑même la TPS qu'il doit payer (alinéa 181.1b) de la LTA).
+[45] Le problème est parfaitement illustré par mon exemple antérieur du crédit de 105 $ sur des frais de services de 100 $. Au vu de cette facture, je partagerais l'avis de l'appelante pour qui la remise de 105 $ semble englober à la fois le prix et la TPS, alors même que le crédit a été défalqué du prix. Mais qu'arrive‑t‑il si le crédit n'est que de 100 $? La facture de TELUS se présentera alors ainsi :
+Frais de service
+100 $
+Crédit
+100 $
+0 $
+TPS
+5 $
+Total des frais courants
+5 $
+[46] Selon ce qu'affirme l'appelante, le crédit de 100 $ comprendrait environ 4,76 $ de TPS et 95,24 $ de frais de service, et tout inscrit le moindrement perspicace sera en mesure de faire rapidement ce calcul.
+[47] L'appelante affirme qu'une disposition exigeant qu'il y ait un « écrit portant » est moins stricte qu'une disposition exigeant qu'il y ait une « déclaration », et elle invoque à ce titre l'emploi de cette dernière expression à l'article 3 du Règlement sur les renseignements à inclure dans les notes de crédit et les notes de débit (TPS/TVH) :
+3. Pour l'application de l'alinéa 232(3)a) de la Loi, les renseignements que doivent contenir la note de crédit ou la note de débit relativement à une ou plusieurs fournitures sont les suivants :
+a) une déclaration ou une mention indiquant que le document en question est une note de crédit ou une note de débit;
+b) le nom ou le nom commercial du fournisseur ou de l'intermédiaire et le numéro d'inscription attribué, conformément au paragraphe 241(1) de la Loi, au fournisseur ou à l'intermédiaire, selon le cas;
+c) soit le nom de l'acquéreur ou son nom commercial, soit le nom de son mandataire ou de son représentant autorisé;
+d) la date à laquelle la note est remise;
+e) lorsque la note est remise relativement à une ristourne dans les circonstances visées au paragraphe 233(2) de la Loi, le montant du redressement, du remboursement ou du crédit de taxe que l'émetteur de la ristourne est réputé par l'alinéa 233(2)b) de la Loi avoir effectué relativement aux fournitures auxquelles la ristourne se rapporte;
+f) sauf en cas d'application de l'alinéa e) :
+(i) lorsque la note porte sur un montant total qui comprend le montant appliqué en réduction de la contrepartie relative à une ou plusieurs fournitures taxables (sauf des fournitures détaxées) et de la taxe afférente :
+(A) soit le montant du redressement, du remboursement ou du crédit de taxe qui est inclus dans le montant total,
+(B) soit l'ensemble des éléments suivants :
+(I) une déclaration portant que le montant total comprend le montant du redressement, du remboursement ou du crédit de taxe,
+(II) le total (appelé « taux de taxe total » à la présente division) des taux auxquels la taxe a été payée ou était payable relativement à chacune des fournitures taxables qui n'est pas une fourniture détaxée et qui a fait l'objet d'une réduction de taxe,
+(III) le total des montants appliqués en réduction de la contrepartie et de la taxe relativement à chacune de ces fournitures ou le total des montants ainsi appliqués relativement à l'ensemble de ces fournitures auxquelles s'applique le même taux de taxe total,
+(ii) dans les autres cas, le montant du redressement, du remboursement ou du crédit de taxe pour lequel la note est remise.
+[48] Je reconnais qu'une « déclaration » requiert plus de détails et que, si le législateur avait voulu être précis, il aurait employé des mots semblables à ceux qui figurent dans ce règlement. Dans le dictionnaire Webster's Online, le terme « indicate », qu'utilise la version anglaise de la LTA et qui correspond au verbe « porter » à l'article 181.1 de la LTA, est ainsi défini : [TRADUCTION] « indiquer, faire foi de, montrer ». Là encore, adoptant une interprétation libérale des mots « un écrit portant qu'une partie de la remise représente un montant de taxe », je suis d'avis que ces mots n'exigent pas qu'il y ait une déclaration qui signale clairement la partie de la remise qui correspond au prix et la partie qui correspond à la TPS, ainsi que l'exige le Règlement, mais à l'évidence ils requièrent une certaine clarté de sorte que l'acquéreur, sans trop d'effort, puisse savoir que la remise doit comprendre de la TPS. Dans mon exemple antérieur du crédit de 105 $, le calcul donnerait à penser que la remise englobe un montant de taxe, et aussi que ce montant est de 5 $, puisque rien ne reste dû. Mais rarement, voire jamais, j'imagine, les chiffres ne rendront-ils compte aussi aisément de cette position; il est facile d'en donner des exemples théoriques.
+[49] Ainsi, utilisons le crédit de 100 $ (et non celui de 105 $). Il n'est alors pas tout à fait aussi évident que la remise est en fait de 95,25 $ pour le prix et de 4,75 $ pour la taxe. Y a‑t‑il pour autant suffisamment de renseignements pour comprendre que la remise doit contenir un élément de taxe? Dans l'affirmative, alors il appartient tout simplement à l'acquéreur de faire une ventilation, avec ou sans l'aide d'une calculatrice. L'acquéreur concerné est naturellement l'acquéreur qui est un inscrit et qui doit, selon l'alinéa 181.1b) de la LTA, calculer ce qu'il doit en TPS. L'acquéreur qui est un utilisateur final n'a pas à se préoccuper de savoir si les 5 $ qu'il a dû payer ne représentent que la TPS, que le prix ou une combinaison de la TPS et du prix, encore que même un utilisateur final peu informé (en ce qui concerne la TPS) puisse se demander pourquoi il lui faudrait payer 5 $ de TPS sur une chose obtenue gratuitement. L'acquéreur qui est un inscrit, mieux informé, qui doit déterminer l'incidence de la TPS sur l'opération, se rendra compte qu'il n'est pas logique, sur le plan commercial, que les frais de 5 $ restant sur la facture, dans mon exemple du crédit de 100 $, soient attribuables à la TPS. Mais l'indication du crédit sur la facture de TELUS brouille les pistes, et un acquéreur aurait toutes les raisons de croire que TELUS lui a sans doute par erreur facturé 5 $ de TPS. Si TELUS avait indiqué le crédit après l'ensemble des frais et après l'application de la TPS, alors j'aurais moins de difficulté à conclure que l'exigence de l'« écrit » a été remplie, mais ce n'est pas ce qu'a fait TELUS. La facture de TELUS se présenterait ainsi :
+Frais
+100 $
+Crédit
+- 100 $
+0 $
+TPS
+5 $
+Montant dû
+5 $
+Elle ne se présenterait pas ainsi :
+Frais
+100 $
+TPS
+5 $
+Total
+105 $
+Crédit
+100 $
+Montant dû
+5 $
+[50] L'intimée fait valoir que cette disposition ne devrait pas obliger l'acquéreur à se servir d'une calculatrice pour savoir ce qu'il en est. D'après moi, la disposition n'exige pas que l'écrit indique la ventilation exacte de la remise entre le prix et la TPS, elle exige seulement que l'écrit indique qu'un certain montant de TPS est compris dans la remise, et, oui, il sera peut‑être alors nécessaire de sortir une calculatrice. Mais si la facture indique assez clairement que la remise doit comprendre la TPS, alors je crois que l'exigence de l'« écrit portant » a été respectée. Or, ici, la calculatrice n'est pas nécessaire pour établir la ventilation de la remise, mais elle peut être nécessaire pour savoir si la TPS a été incluse ou non dans la remise. Il suffit d'examiner l'annexe A pour comprendre la difficulté : il n'y a pas d'« écrit portant » suffisamment clair.
+[51] Il est difficile de décider la mesure dans laquelle un « écrit » doit être clair parce que l'on doit décider s'il faut supposer que l'acquéreur comprenne ou non la manière dont la législation sur la TPS est censée s'appliquer. Je ne doute pas que monsieur Tout‑le‑monde puisse avoir du mal à démêler ce qu'indique la facture de TELUS au sujet de la TPS, mais l'inscrit acquéreur qui a des centaines de milliers de dollars en frais téléphoniques a‑t‑il, lui aussi, du mal pour ce faire, étant donné que c'est la façon dont cet inscrit acquéreur voit la facture qui devrait être la plus pertinente pour l'application de l'alinéa 181.1b) de la LTA? La facture de TELUS est déroutante. Un « écrit » devrait être clair. Il ne l'est pas — il ne l'est pour personne. Il invite l'acquéreur à présumer que le crédit a été défalqué du prix, or on remarque ensuite que la TPS a été calculée comme si le crédit avait été défalqué après l'application de la TPS au prix. Il y a trop de choses à débrouiller dans tout cela, et je suis d'avis qu'on est loin d'avoir affaire à un « écrit portant ».
+[52] J'arrive à la conclusion que la facture telle qu'elle est établie par TELUS n'est pas un « écrit portant » suffisant et qu'elle n'est donc pas conforme à l'article 181.1 de la LTA. Ce problème aurait pu aisément être évité par la simple insertion des mots « TPS incluse » tout de suite après l'indication du crédit.
+B. Les remises envoyées par la poste
+[53] L'appelante, je le rappelle, ne prétend pas que l'article 181.1 de la LTA, la disposition qui, à première vue, semble concerner les remises, s'applique aux bons de remise de TELUS envoyés par la poste. Elle se fonde totalement sur le paragraphe 181(3) de la LTA, en affirmant que le bon de remise envoyé par la poste est un bon qui permet au client de bénéficier d'une réduction sur le prix des services de TELUS, selon la définition apparaissant à l'article 181, déclenchant ainsi l'application du paragraphe 181(3). Encore une fois, le premier point à décider est de savoir si la remise concerne le téléphone portable ou plutôt les frais de service de TELUS. Contrairement aux crédits de facturation, la remise est un paiement par chèque, qui n'apparaît pas comme imputé sur des frais de service précis. L'appelante soutient que les activités de TELUS consistent à fournir des services, non à vendre des téléphones, de sorte que la remise ne peut se rapporter qu'à des services. Je ne suis pas de cet avis. Il ressort clairement de la lettre de TELUS du 14 septembre 2005 que : [TRADUCTION] « Les téléphones sont vendus par TM (TELUS) aux divers points de vente où le client se les procure. » Les activités de TELUS comprennent manifestement la vente de téléphones à des détaillants.
+[54] Que doit faire le client pour obtenir la remise? Il doit :
+a) acheter un certain téléphone et payer la TPS sur le prix d'achat global;
+b) activer le téléphone pour une période d'au moins 31 jours;
+c) envoyer le bon et la preuve d'achat du téléphone à TELUS.
+[55] Que fait TELUS? Elle donne mandat à PPFD de s'assurer de l'admissibilité du client et de lui envoyer un chèque indiquant « TELUS ». J'en conclus que le bon de remise et le processus même ne laissent aucun doute, dans l'esprit du client, que ce qu'il reçoit concerne le téléphone, non les services. Ainsi que l'indique le bon, il s'agit de « 50 $ de remise ». C'est en fait l'exemple classique d'une remise sur quelque chose qui est déjà payé, et le quelque chose qui est déjà payé ne peut être que le téléphone.
+[56] L'appelante soutient que la condition d'activation du téléphone durant un minimum de 31 jours, condition indiquée dans le bon de remise, signifie que le client devra avoir reçu au moins une facture de TELUS pour les frais de service, de sorte que ce sont ces frais de services qui bénéficient de la remise. Malheureusement, c'est là une exagération; c'est une manière de voir qui fait beaucoup trop de place aux sous‑entendus et pas assez aux éléments concrets.
+[57] Comment alors le paragraphe 181(3) de la LTA s'appliquerait‑il dans ces conditions? La première exigence est que TELUS accepte en contrepartie, même partielle, d'une fourniture taxable (le téléphone) un bon qui permet à l'acquéreur de la fourniture de bénéficier d'une réduction sur le prix du téléphone. Mais l'acquéreur de la fourniture, le téléphone, auprès de TELUS n'est pas le client final détenant le bon, c'est plutôt le magasin de détail qui a vendu le téléphone au client. Le bon ne permet pas au magasin de détail de bénéficier de la remise. Le paragraphe 181(3) ne convient tout simplement pas à ce scénario.
+[58] D'ailleurs, le bon n'a pas été accepté par TELUS en contrepartie de quoi que ce soit : comme je l'écrivais dans mes motifs portant sur les crédits de facturation, le bon, le billet, la pièce justificative ou l'autre pièce présente un rapport de simultanéité avec l'opération d'achat; plus précisément, le bon est présenté durant l'opération d'achat comme contrepartie. Ce n'est pas le cas ici : le client a payé le prix intégral du téléphone et il obtient plus tard une remise. Ce n'est pas la situation envisagée par le paragraphe 181(3) de la LTA, c'est une remise, ce que le dictionnaire Webster's Online définit comme [TRADUCTION] « une somme d'argent qui est remise ».
+[59] Je ne partage pas l'avis de l'appelante pour qui les mots « at any time » (à tout moment) dans la version anglaise du paragraphe 181(3) de la LTA autorisent une interprétation libérale au point d'englober une remise au sens classique. Les mots doivent être interprétés en fonction de leur contexte, et il devient clair alors qu'une remise n'est pas ce dont il s'agit dans le paragraphe 181(3), d'autant qu'une disposition précise, à savoir l'article 181.1 de la LTA, concerne les remises. Le paragraphe 181(3) de la LTA ne s'applique pas.
+Conclusion
+[60] Pour répondre à la question que je posais au début de mon analyse, je ne puis que dire à TELUS de panser ses plaies. L'avocate de l'appelante a exposé une argumentation aussi solide et structurée que possible dans sa volonté de préserver TELUS du sort qui l'attendait au regard de la TPS, mais admettre une telle argumentation contredirait non seulement le libellé des dispositions, mais également leur objet. Je reconnais que le résultat peut sembler contraire à l'esprit du mécanisme général de la TPS. Peut‑être est‑ce là le résultat d'une législation trop complexe, à laquelle s'ajoutent des promotions commerciales qui ne tiennent pas suffisamment compte de telles complexités avant d'être mises en oeuvre.
+[61] L'appel est rejeté avec dépens.
+Les présents motifs du jugement modifiés remplacent les motifs du jugement du 17 juillet 2012.
+Signé à Ottawa, Canada, ce 13e jour d'août 2012.
+« Campbell J. Miller »
+Le juge C. Miller
+Traduction certifiée conforme
+ce 11e jour de décembre 2012.
+Yves Bellefeuille, réviseur
+ANNEXE A
+[TRADUCTION]
+DATE DE FACTURATION : 1er février 2002
+No DU CLIENT : 01463052
+PAGE 2 de ?page?
+DÉTAIL DU COMPTE
+Frais courants – détails
+250-215-1985
+Forfaits mensuels
+Nom du forfait
+Total
+Parlez 20 $/150 3 ans (2 février au 1er mars)
+20,00
+Parlez 20 $/150 (23 janvier au 1er février)
+-6,00
+Parlez 20 $/150 3 ans (23 janvier au 1er février)
+6,00
+Parlez 20 $/150 (12 janvier au 1er février)
+13,33
+Total
+33,33 $
+Temps d'antenne local additionnel
+Service
+Total minutes utilisées
+Minutes incluses utilisées
+Minutes facturables utilisées
+Total
+Téléphone (min.)
+223:52
+129:51
+94:01
+19,76
+Total
+19,76 $
+Frais d'interurbains, frais d'itinérance et autres frais de communication
+Service
+Minutes d'interurbain utilisées
+Frais d'interurbains
+Minutes d'itinérance utilisées
+Frais d'itinérance
+Autres frais
+Total
+Téléphone (min.)
+134:16
+32,26
+0:00
+0,00
+0,00
+32,26
+Total
+32,26 $
+Services à valeur ajoutée
+Service
+Total
+Afficheur
+3,00
+Afficheur
+2,00
+Appels locaux illimités
+0,00
+Internet sans fil – Nav. essai
+0,00
+Total
+5,00 $
+Autres frais et crédits
+Frais ou crédit
+Total
+Frais d'ouverture de compte
+25,00
+Créd. téléph. contrat 3 ans
+-125,00
+Total
+-100,00 $
+Frais et redevances d'utilisation du réseau
+Frais
+Total
+Accès au service d'urgence 911
+0,25
+Accès au service d'urgence 911
+0,00
+Accès au service d'urgence 911
+0,17
+Redevances d'utilisation
+6,95
+Redevances d'utilisation
+0,00
+Redevances d'utilisation
+4,63
+Total
+12,00 $
+Taxes
+TPS
+8,91
+TVP (Colombie-Britannique)
+8,91
+Total des taxes
+17,82 $
+Total des frais courants
+20,17 $
+33,33 $ + 19,76 $ + 32,26 $ + 5,00 $ + 25,00 $ + 12,00 $
+= 127,35 $ × 0,07
+= 8,91 $
+ANNEXE B
+[TRADUCTION]
+Jusqu'à 50 $* de remise
+* Uniquement pour les nouvelles activations de combinés Kyocera KE424C ou LG 6070. L'appareil doit être activé pendant 31 jours au moins. Renvoyez le bon et une preuve d'achat dans les 60 jours suivant l'achat. Valable du 10 mai au 30 juin 2004.
+1. Pour recevoir une remise allant jusqu'à 50 $, l'appareil doit être activé pendant 31 jours au moins. Renvoyez ce bon ainsi qu'une copie du reçu d'achat original faisant état de l'achat d'un combiné Kyocera KE424C ou LG 6070 de TELUS Mobilité à : Remise grands espaces de 50 $ de TELUS Mobilité, C.P. 9000, section RGE, Pickering (Ontario) L1V 7G4. 2. La remise peut aller jusqu'à 50 $ selon le prix d'achat de l'appareil et la durée de l'activation. Remise pour l'appareil Kyocera KE424C avec un contrat de 1 an — 50 $, 2 ans — 29,99 $, 3 ans — 24,99 $, aucun contrat — 50 $. Remise pour l'appareil LG 6070 avec un contrat de 1 an — 50 $, 2 ans — 50 $, 3 ans — 49,99 $, aucun contrat — 50 $. 3. L'OFFRE ne s'applique qu'aux nouveaux combinés Kyocera KE424C ou LG 6070 de TELUS Mobilité achetés et activés à des magasins participants à Brantford, Chatham, Huntsville, North Bay, Orillia, Owen Sound, Sault Ste‑Marie, St. Thomas / Strathroy, Stratford, Sudbury, Timmins, Woodstock, Moncton, Cornerbrook, Sydney, Chicoutimi, Sherbrooke, Sorel, Trois‑Rivières, ou Victoriaville. 4. L'offre ne s'applique qu'aux NOUVELLES ACTIVATIONS de combinés Kyocera KE424C ou LG 6070. Elle ne s'applique pas aux mises à niveau, aux échanges et aux combinés remis à neuf. 5. Les combinés doivent être activés durant la période du 10 mai au 30 juin 2004. 6. Les demandes de remise doivent être envoyées dans les 60 jours suivant l'achat, le cachet de la poste faisant foi. 7. Un seul bon par achat. 8. La copie du reçu original doit indiquer clairement le prix d'achat et le modèle du combiné. 9. Il est interdit de vendre, d'échanger ou d'acheter ce bon ou le reçu. 10. Les demandes de remise peuvent faire l'objet d'une vérification. Les demandes frauduleuses entraîneront l'inéligibilité pour cette promotion et toutes les promotions futures de TELUS Mobilité. 11. TELUS Mobilité n'est pas responsable si la demande de remise est perdue, envoyée à la mauvaise adresse ou retardée, pour quelque raison que ce soit. 12. Cette offre ne peut être jointe à une autre offre. 13. TELUS Mobilité se réserve le droit de refuser la remise à quiconque, à son avis, contrevient à ses règles. 14. L'offre n'est pas valable là où la loi l'interdit. 15. L'offre prend fin le 30 juin 2004. © 2004 SOCIÉTÉ TÉLÉ‑MOBILE
+TELUS mobilité MC
+Pour recevoir votre remise, envoyez ce bon et une copie du reçu d'achat original faisant état de l'achat d'un appareil Kyocera KE424C ou LG 6070 de TELUS Mobilité à : Remise grands espaces de 50 $ de TELUS Mobilité, C.P. 9000, section RGE, Pickering (Ontario) L1V 7G4. Des questions? Appelez le 1‑866‑401‑6940.
+Envoyer le chèque de remise à :
+Nom :
+Adresse :
+App. :
+Ville :
+Province :
+Code postal :
+Numéro de téléphone :
+Numéro de téléphone de TELUS Mobilité :
+NSÉ de l'appareil acheté (le numéro de série électronique à 11 chiffres se trouve sur le haut de la boîte) :
+Compte no : (veuillez obtenir ce numéro lorsque vous appelez pour activer votre appareil)
+Signature :
+RÉFÉRENCE : 2012 CCI 256
+No DU DOSSIER DE LA COUR : 2009-2959(GST)G
+INTITULÉ : SOCIÉTÉ TÉLÉ‑MOBILE c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Vancouver (Colombie-Britannique)
+DATE DE L'AUDIENCE : Les 27 et 28 juin 2012
+MOTIFS DU JUGEMENT : L'honorable juge Campbell J. Miller
+DATE DU JUGEMENT : Le 17 juillet 2012
+COMPARUTIONS :
+Avocate de l'appelante :
+Me Kimberley L. Cook
+Avocats de l'intimée :
+Me Victor Caux et Me Andrew Majawa
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom : Kimberley L. Cook
+Cabinet : Thorsteinssons LLP
+Pour l'intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] [1984] 2 R.C.S. 232.
+[2] 2009 CCI 170.
+[3] no 96‑4665(GST)G, 17 mai 1999, [1999] A.C.I. no 278 (QL).

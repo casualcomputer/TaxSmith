@@ -1,0 +1,159 @@
+Title: 7547978 Canada inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/109481/index.do
+Corpus path: corpus/cases/tcc/2015/2015-cci-112-109481-7547978-canada-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2015-05-07
+
+# 7547978 Canada inc. c. La Reine
+
+- Citation: 2015 CCI 112
+- Decision date: 2015-05-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2811, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+7547978 Canada inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-05-07
+Référence neutre
+2015 CCI 112
+Numéro de dossier
+2013-2929(IT)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-2929(IT)I
+ENTRE :
+7547978 CANADA INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu sur preuve commune avec les appels de
+Maxim Meunier (2013-3117(EI)), Richard Meunier (2013-3120(EI)), et 7547978 Canada Inc. (2013-3121(EI), 2013-3122(EI), (2013-4177(EI)),
+les 4 et 5 septembre 2014 et le 10 novembre 2014, à Ottawa (Ontario).
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Avocate de l'appelante :
+Me Chantal Donaldson
+Avocate de l'intimée :
+Me Natasha Wallace
+JUGEMENT
+L’appel à l’encontre des cotisations établies par le ministre du Revenu national en vertu de la Loi de l’impôt sur le revenu en date du 6 novembre 2012 concernant les années d’imposition 2010 et 2011 est rejeté selon les motifs du jugement ci-joint.
+Signé à Ottawa, Canada, ce 7e jour de mai 2015.
+« Réal Favreau »
+Juge Favreau
+Référence : 2015 CCI 112
+Date : 20150507
+Dossier : 2013-2929(IT)I
+ENTRE :
+7547978 CANADA INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit ici d’un appel à l’encontre de cotisations établies par le ministre du Revenu national (le « ministre ») en vertu de la Loi de l’impôt sur le revenu, L.R.C. 1985 (5 e suppl.) ch. 1, telle que modifiée (la « Loi »), datées du 6 novembre 2012 concernant les années d’imposition 2010 et 2011 de l’appelante.
+[2] En vertu des cotisations du 6 novembre 2012, le ministre a imposé à l’appelante une pénalité prévue au paragraphe 162(7) de la Loi au montant de 1 500 $ pour chacune des années d’imposition 2010 et 2011 pour défaut de produire des feuillets T4 à l’égard de 139 travailleurs.
+[3] En établissant les cotisations du 6 novembre 2012, le ministre a pris pour acquis les faits suivants :
+a) L’appelante exploite une entreprise spécialisée dans le marchandisage, l’échantillonage et le montage d’étalages pour de grandes surfaces;
+b) Les clients de l’appelante se trouvaient au Québec et en Ontario;
+c) L’unique actionnaire de l’appelante est Monsieur Richard Meunier Côté;
+d) L’appelante a été incorporée en 2010 mais l’entreprise opérait antérieurement depuis plus d’une dizaine d’années sous le nom de Entreprises Darik;
+e) Le siège social de l’appelante est situé au Québec;
+f) L’année d’imposition de l’appelante est le 31 décembre de chaque année;
+g) Les tâches des travailleurs de l’appelante consistaient à démonter et remonter les tablettes, à disposer la marchandise et à procéder à l’étiquetage;
+h) La rémunération des travailleurs variait de 10 $ à 13 $ de l’heure;
+i) Ces travailleurs étaient embauchés et rémunérés directement par l’appelante;
+j) Les travailleurs étaient supervisés par un chef d’équipe aussi à l’emploi de l’appelante;
+k) Le lieu de travail, l’horaire et les tâches étaient déterminés par l’appelante;
+l) La rémunération était versée hebdomadairement;
+m) Le 18 février 2011, l’appelante a produit auprès de l’Agence du revenu du Canada 105 feuillets T4A à l’égard des travailleurs pour l’année d’imposition 2010;
+n) Le 29 février 2012, l’appelante a produit auprès de l’Agence du revenu du Canada 70 feuillets T4A à l’égard des travailleurs pour l’année d’imposition 2011;
+o) L’appelante n’a pas produit des feuillets T4 à l’égard des travailleurs pour les années d’imposition 2010 et 2011 dans les délais prescrits par la Loi et règlement; et
+p) Le ou vers le 5 novembre 2012, le Ministre a produit 111 et 69 feuillets T4 pour les années d’imposition 2010 et 2011, respectivement, à l’égard des travailleurs de l’appelante.
+[4] Par des décisions datées du 6 juillet 2012, le ministre a statué que, pendant la période du 16 juin 2010 au 31 décembre 2011, cinq des travailleurs de l’appelante étaient des employés et que leur emploi était assurable en vertu de la Loi sur l’assurance-emploi, L.C. 1996, ch. 23, telle que modifié (la « LAE »). Ces décisions ont été appliquées à l’ensemble des 139 travailleurs de l’appelante (les « travailleurs »). En vertu de cotisations établies en date du 5 novembre 2012, les montants suivants étaient réclamés à l’appelante :
+Années
+Assurance-emploi
+Pénalités
+Intérêts
+Total
+2010
+11 675,11 $
+1 167,61 $
+1, 103,00 $
+13 945,72 $
+2011
+8 230,06 $
+823,00 $
+361,00 $
+9 414,06 $
+TOTAL
+19 905,17 $
+1 990,61 $
+1 464,00 $
+23 359,78 $
+[5] Les cotisations du 5 novembre 2012 établies à l’encontre de l’appelante font l’objet d’un appel devant cette Cour, soit le dossier 2013-4177(EI).
+[6] Les questions en litige sont les suivantes :
+a) le ministre a-t-il correctement imposé la pénalité pour défaut de produire les feuillets T4 prévue au paragraphe 162(7) de la Loi en ce qui a trait aux années d’imposition 2010 et 2011?
+b) dans l’alternative, l’appelante est-elle passible d’une pénalité pour la production tardive les [sic] feuillets T4 prévue au paragraphe 162(7.01) de la Loi en ce qui a trait aux années d’imposition 2010 et 2011?
+[7] Les paragraphes 162(7) et 162(7.01) de la Loi sont rédigés de la façon suivante :
+162(7) Inobservation d'un règlement − Toute personne (sauf un organisme de bienfaisance enregistré) ou société de personnes qui ne remplit pas une déclaration de renseignements selon les modalités et dans le délai prévus par la présente loi ou le Règlement de l'impôt sur le revenu ou qui ne se conforme pas à une obligation imposée par la présente loi ou ce règlement est passible, pour chaque défaut—sauf si une autre disposition de la présente loi (sauf les paragraphes (10) et (10.1) et 163(2.22)) prévoit une pénalité pour le défaut —d'une pénalité égale, sans être inférieure à 100 $, au produit de la multiplication de 25 $ par le nombre de jours, jusqu'à concurrence de 100, où le défaut persiste.
+162(7.01) Défaut de produire des déclarations de renseignements visées par règlement − Toute personne (sauf un organisme de bienfaisance enregistré) ou société de personnes qui ne remplit pas, dans le délai prévu par la présente loi ou le Règlement de l’impôt sur le revenu, une ou plusieurs déclarations de renseignements d'un type visé par règlement pour l'application du présent paragraphe est passible d’une pénalité égale, sans être inférieure à 100 $, à celle des sommes ci-après qui est applicable, selon le nombre de déclarations de renseignements en cause :
+a) moins de 51 : le produit de la multiplication de 10 $ par le nombre de jours, jusqu’à concurrence de 100, où le défaut persiste;
+b) plus de 50 mais moins de 501 : le produit de la multiplication de 15 $ par le nombre de jours, jusqu’à concurrence de 100, où le défaut persiste;
+c) plus de 500 mais moins de 2 501 : le produit de la multiplication de 25 $ par le nombre de jours, jusqu’à concurrence de 100, où le défaut persiste;
+d) plus de 2 500 mais moins de 10 001 : le produit de la multiplication de 50 $ par le nombre de jours, jusqu’à concurrence de 100, où le défaut persiste;
+e) plus de 10 000 : le produit de la multiplication de 75 $ par le nombre de jours, jusqu’à concurrence de 100, où le défaut persiste;
+[8] L’obligation de produire des relevés T4 est prévue au paragraphe 200(1) du Règlement de l’impôt sur le revenu qui se lit comme suit :
+Toute personne qui effectue un paiement visé au paragraphe 153(1) de la Loi, sauf un paiement de rente relatif à un intérêt dans un contrat de rente auquel s’applique le paragraphe 201(5), doit remplir une déclaration de renseignements selon le formulaire prescrit à l’égard de tout paiement ainsi effectué, à moins qu’une telle déclaration n’ait été remplie en application des articles 202, 214, 237 ou 238.
+[9] Parmi les paiements visés au paragraphe 153(1) de la Loi, les traitements, salaires ou autres rémunérations sont spécifiquement visés à l’alinéa a) de ce paragraphe.
+[10] Le délai accordé pour produire les relevés T4 est prévu au paragraphe 205(1) du Règlement de l’impôt sur le revenu qui se lit comme suit :
+Toutes les déclarations requises en vertu de la présente partie doivent être produites au ministre sans avis ni demande, et, sauf disposition expressément contraire, doivent l’être au plus tard le dernier jour de février de chaque année, à l’égard de l’année civile précédente.
+[11] L’appelante n’a pas produit de relevés T4 à l’égard de la rémunération versée aux travailleurs alors qu’elle aurait dû le faire parce que ces derniers étaient des employés aux fins de la Loi, tel que confirmé par la décision de cette Cour, rendue ce jour même dans les appels de Maxim Meunier (2013-3117(EI)), Richard Meunier (2013-3120(EI)), et 7547978 Canada Inc. (2013-3121(EI), 2013-3122(EI), (2013-4177(EI)).
+[12] L’appelante a produit auprès de l’Agence du revenu du Canada des relevés T4A à l’égard des travailleurs pour les années d’imposition 2010 et 2011 mais ces feuillets étaient inexacts parce que la rémunération versée aux travailleurs a été considérée comme étant des « Commissions d’un travail indépendant » ou comme étant des « Honoraires ou autres sommes pour services rendus » plutôt que comme du revenu tiré d’un emploi et parce que les montants de remboursement de dépenses, telles les allocations pour repas et les frais de déplacement, de même que les montants des avances en argent comptant consenties aux travailleurs, y étaient inclus comme faisant partie du revenu gagné.
+[13] L’Agence du Revenu du Canada a annulé les T4A préparés par l’appelante et a émis des relevés T4 à tous les travailleurs et ces derniers ont été re-cotisés en fonction des relevés T4.
+[14] Comme l’appelante a fait défaut de produire les feuillets T4 à l’égard de ses employés dans le délai prévu à l’article 205 du Règlement de l’impôt sur le revenu, le ministre était justifié d’imposer à l’appelante la pénalité prévue au paragraphe 162(7) de la Loi pour les années d’imposition 2010 et 2011.
+[15] Pour ces motifs, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 7e jour de mai 2015.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE :
+2015 CCI 112
+Nº DU DOSSIER DE LA COUR :
+2013-2929(IT)I
+INTITULÉ DE LA CAUSE :
+7547978 Canada Inc. et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Ottawa (Ontario)
+DATE DE L’AUDIENCE :
+les 4 et 5 septembre 2014 et le 10 novembre 2014
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Réal Favreau
+DATE DU JUGEMENT :
+le 7 mai 2015
+COMPARUTIONS :
+Avocate de l'appelante :
+Me Chantal Donaldson
+Avocate de l'intimée :
+Me Natasha Wallace
+AVOCATE INSCRITE AU DOSSIER :
+Pour l'appelante:
+Nom :
+Me Chantal Donaldson
+Cabinet :
+LeBlanc Donaldson
+Gatineau (Québec)
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

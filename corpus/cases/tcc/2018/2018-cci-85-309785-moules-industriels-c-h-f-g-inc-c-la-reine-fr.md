@@ -1,0 +1,462 @@
+---
+title: "Moules Industriels (C.H.F.G.) Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/309785/index.do"
+last_modified: "2018-05-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 CCI 85"
+citation2: ""
+neutral_citation: "2018 CCI 85"
+decision_date: "2018-05-03"
+language: "fr"
+item_id: "309785"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4794
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:55:49.337000+00:00"
+cases_cited_count: 7
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9e848dbd731abe0e3e8b783b05195668b36a6276d2b5a00e4a3b891a7c795fca"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Moules Industriels (C.H.F.G.) Inc. c. La Reine
+
+- Citation: 2018 CCI 85
+- Decision date: 2018-05-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4794, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Moules Industriels (C.H.F.G.) Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-05-03
+Référence neutre
+2018 CCI 85
+Numéro de dossier
+2017-2518(IT)G
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2017-2518(IT)G
+ENTRE :
+MOULES INDUSTRIELS (C.H.F.G.) INC.,
+PLASTECH INC. ET 176104 CANADA INC.
+contribuables,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Renvoi en vertu de l’article 173 de la Loi de l’impôt sur le revenu entendu le 17 novembre 2017, à Montréal (Québec).
+Devant : L'honorable Lucie Lamarre, juge en chef adjointe
+Comparutions :
+Avocats de l'appelante :
+Me Simon Lemieux
+Me Olivier Fournier
+Me Aicha Nafii
+Avocate de l'intimée :
+Me Nathalie Labbé
+DÉCISION SUR RENVOI
+Les questions de droit soumises à la Cour aux termes de ce Renvoi sont les suivantes :
+Question 1
+À supposer que les conditions d’application prévues à la clause 4.3 des actes de la Fiducie CH et de la Fiducie Gestion CH (« la clause ») soient satisfaites, est-ce que cette clause, limitant à 24,99 % la part maximale sur le revenu ou le capital que les fiduciaires peuvent verser aux bénéficiaires visés, selon la discrétion conférée par les actes, permet de considérer que lesdits bénéficiaires visés détiennent collectivement au maximum 24,99 % des actions détenues par les fiducies, aux fins des règles d’association prévues à l’article 256 de la Loi de l’impôt sur le revenu (LIR) et à la lumière du sous-alinéa 256(1.2)f)(ii) de ladite loi, ou est-ce que ce dernier sous-alinéa fait plutôt en sorte que lesdits bénéficiaires visés soient réputés détenir 100 % des actions détenues par les fiducies?
+Réponse à la question 1
+En réponse à cette question, je conclus que les bénéficiaires visés sont réputés détenir 100% des actions détenues par les fiducies aux termes du sous-alinéa 256(1.2)f)(ii) de la LIR.
+Question 2
+À supposer que les conditions d’application soient satisfaites, est-ce que chaque bénéficiaire visé de la Fiducie CH est présumé détenir la totalité des actions du capital-actions dont la Fiducie CH est propriétaire, selon le sous-alinéa 256(1.2)f)(ii) LIR, malgré la clause?
+Réponse à la question 2
+La réponse est affirmative.
+Question 3
+À supposer que les conditions d’application soient satisfaites, est-ce que chaque bénéficiaire visé de la Fiducie de Gestion CH est présumé détenir la totalité des actions du capital-actions dont la Fiducie de Gestion CH est propriétaire selon le sous-alinéa 256(1.2)f)(ii) de la LIR, malgré la clause?
+Réponse à la question 3
+La réponse est affirmative.
+Signé à Ottawa, Canada, ce 3e jour de mai 2018.
+« Lucie Lamarre »
+Juge en chef adjointe Lamarre
+Référence : 2018 CCI 85
+Date : 20180503
+Dossier : 2017-2518(IT)G
+ENTRE :
+MOULES INDUSTRIELS (C.H.F.G.) INC.,
+PLASTECH INC. ET 176104 CANADA INC.,
+contribuables,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE LA DÉCISION SUR RENVOI
+La juge en chef adjointe Lamarre
+Introduction
+[1] Le présent renvoi vise des questions portant sur des cotisations projetées, pour lesquelles un projet de cotisation (projet) a été envoyé en date du 3 février 2016 (pièce R-1).
+[2] Les contribuables intéressés par ce renvoi sont les trois sociétés nommées dans l’intitulé, soit Moules Industriels (C.H.F.G.) inc. (Moules), Plastech inc. (Plastech) et 176104 Canada inc. (176104, et les trois sociétés collectivement : les contribuables).
+[3] Le projet vise les années d’imposition des sociétés faisant l’objet du présent renvoi terminées les 31 octobre 2011, 31 octobre 2012, 31 octobre 2013 et 31 octobre 2014 (années visées).
+[4] Par le projet, l’Agence du revenu du Canada (ARC) propose de considérer les contribuables comme étant associées au sens de l’article 256 de la Loi de l’impôt sur le revenu L.R.C., 1985, ch.1 (5e suppl.) (LIR) au cours des années visées, ce qui aurait pour conséquence de faire diminuer la déduction accordée aux petites entreprises réclamée par les contribuables pour les années visées, selon les paragraphes 125(1) et 125(3) de la LIR.
+[5] L’adresse et l’établissement principal des contribuables se trouvent dans la province de Québec. Moules et 176104 ont été constituées le 31 août 1989 et le 5 décembre 1990 respectivement, selon la Loi canadienne sur les sociétés par actions, L.R.C. 1985, ch. C-44 (LCSA). Plastech a été constituée le 5 janvier 1998 selon la partie 1A de la Loi sur les compagnies du Québec, R.L.R.Q., ch. C-38 et est maintenant régie par la Loi sur les sociétés par actions, R.L.R.Q., ch. S-31.1.
+Dispositions législatives
+[6] Les dispositions législatives pertinentes de la LIR auxquelles il est fait référence dans les présents motifs sont jointes à l’annexe I de ces motifs.
+Faits essentiels donnant lieu au renvoi relatés conjointement par les parties
+[7] Les faits essentiels donnant lieu au renvoi sont relatés conjointement par les parties aux paragraphes 8 à 26 du document intitulé « Affaire intéressant un accord prévoyant le renvoi de questions à la Cour sous le régime de l’article 173 de la LIR » :
+8. Au cours des Années Visées, monsieur Claude Houle (« M. Houle ») et Madame Francine Guay (« Mme Guay ») étaient mariés. Ils ont trois enfants : Marie-Claude, Manon et Vincent Houle.
+9. M. Houle contrôle directement ou indirectement un groupe de sociétés comprenant Plastech, tel qu’il appert de l’organigramme joint au présent renvoi comme Pièce R-2.
+10. Mme Guay contrôle Moules, tel qu’il appert de l’organigramme joint au présent renvoi comme Pièce R-2.
+11. La fiducie CH et la Fiducie de Gestion CH (conjointement les « Fiducies ») sont des patrimoines fiduciaires constitués le 20 décembre 2007, tel qu’il appert d’une copie de l’acte de la Fiducie CH, jointe au soutien du présent renvoi comme Pièce R-3, ainsi que d’une copie de l’acte de la Fiducie de Gestion CH, jointe au présent renvoi comme Pièce R-4 (l’acte de la Fiducie CH et l’acte de la Fiducie de Gestion CH étant désignés ci-dessous comme les « Actes »).
+12. La Fiducie CH et la Fiducie de Gestion CH détiennent des actions du capital-actions émis de sociétés du groupe contrôlé par M. Houle. Au 31 octobre 2014 et tout au long des Années Visées, la Fiducie CH détenait des actions dans Plastech, 6736025 Canada inc. et 7793910 Canada inc., tandis que la Fiducie de Gestion CH détenait des actions dans 6835449 Canada inc. (les « Sociétés »).
+13. M. Houle contrôle directement ou indirectement les Sociétés et les contrôlait ainsi au cours des Années Visées.
+14. Depuis la constitution des Fiducies, M. Houle et M. Richard Duval (les « Fiduciaires ») agissent à titre de fiduciaires de chacune des Fiducies.
+15. Les descendants de M. Houle et leurs conjoints respectifs (les « Bénéficiaires Visés ») sont indiqués dans la liste des bénéficiaires des Fiducies, à l’article 3.1.1b) des Actes.
+16. Tel qu’il appert de l’article 4.2 des Actes, Pièce R-3 et Pièce R-4, tant que M. Houle est fiduciaire des Fiducies, les Fiduciaires ont entière discrétion pour déterminer la part du revenu ou du capital des Fiducies revenant à chaque bénéficiaire, sous réserve toutefois des articles 4.3 et 4.4 des Actes.
+17. La discrétion des Fiduciaires est limitée par l’article 4.3 des Actes (la « Clause »), et ce, « nonobstant toute autre disposition du présent acte ».
+18. La Clause a donc préséance sur, notamment, l’article 4.2 des Actes.
+19. Tel qu’il appert plus amplement de la Clause, celle-ci s’applique si les conditions suivantes sont réunies (les « Conditions d’Application ») :
+a. À tout moment au cours d’une année d’imposition;
+b. Une des conditions prévues aux alinéas 4.3.1a), 4.3.1b) ou 4.3.1c) des Actes est remplie. Ces conditions portent sur la détention et le contrôle par un ou plusieurs des bénéficiaires visés d’actions dans des sociétés; et
+c. La condition prévue à l’alinéa 4.3.1d) est remplie, c’est-à-dire que le droit de bénéficiaire de ce ou de ces Bénéficiaires Visés aurait pour effet qu’une société contrôlée directement ou indirectement de quelque manière que ce soit par M. Houle ou réputée contrôlée en vertu des dispositions pertinentes de la LIR par M. Houle et dans laquelle les Fiducies détiennent directement ou indirectement des actions devienne associée, au sens de l’article 256 de la Loi de l’impôt sur le revenu, avec une autre société privée.
+20. Lorsque les Conditions d’Application sont satisfaites, la totalité des parts de tous les Bénéficiaires Visés à tout capital et revenu de chacune des Fiducies correspondra alors, de plein droit et sans nécessité d’amendement ou de modification des Actes, à un total maximal de 24,99 %, tel qu’il appert de la Clause.
+21. L’application de la Clause débute immédiatement avant le moment où l’une ou l’autre des conditions mentionnées aux alinéas 4.3.1a), 4.3.1b) ou 4.3.1c) ainsi que la condition prévue à l’alinéa 4.3.1d) sont remplies, tel qu’il appert de l’alinéa 4.3.2b) des Actes.
+22. Les Bénéficiaires Visés sont par ailleurs bénéficiaires de la Fiducie FG et de la Fiducie de Gestion FG, détenant respectivement des actions du capital-actions émis des sociétés Moules et 176104.
+23. Tel qu’il appert du Projet, Pièce R-1, si chaque Bénéficiaire Visé est réputé détenir la totalité des actions détenues par les Fiducies dans les Sociétés au cours des Années Visées, alors les Sociétés étaient associées avec Moules et 176104 au cours de ces mêmes années, puisque :
+a. La Fiducie FG et la Fiducie de Gestion FG sont des fiducies discrétionnaires;
+b. La Fiducie FG détient le contrôle de Moules;
+c. 176104 est contrôlée par Madame Francine Guay; et
+d. Madame Francine Guay est par ailleurs bénéficiaire de la Fiducie FG et de la Fiducie de Gestion FG.
+24. Selon les Contribuables, les Conditions d’Application étaient satisfaites au cours des Années Visées et les Bénéficiaires Visés ne pouvaient donc collectivement se voir distribuer plus de 24,99 % du revenu ou du capital des Fiducies.
+25. Tel qu’il appert du projet de cotisation, Pièce R-1, l’ARC prend la position que la Clause n’empêche pas que chacun des Bénéficiaires Visés soit réputé détenir la totalité des actions détenues par les Fiducies dans les Sociétés, par l’application du sous-alinéa 256(1.2)f)(ii) LIR.
+26. La position de l’ARC a été communiquée dans l’interprétation technique E2003-0052261E5 suivant laquelle même si une clause de l’acte de fiducie limite le pourcentage des revenus et du capital qu’un bénéficiaire peut recevoir de la fiducie, ce bénéficiaire est présumé détenir la totalité des actions du capital-actions détenues par la fiducie. Copie de cette interprétation technique est jointe au présent renvoi comme Pièce R-5.
+[8] L’organigramme auquel réfèrent les contribuables est joint à l’annexe II des présents motifs.
+Les questions de droit soumises à la Cour aux termes de ce renvoi
+[9] Les questions de droit soumises à la Cour aux termes de ce Renvoi sont exposées ainsi par les parties:
+(i) À supposer que les Conditions d’Application soient satisfaites, est-ce que la clause 4.3 des Actes, limitant à 24,99 % la part maximale sur le revenu ou le capital que les Fiduciaires peuvent verser aux Bénéficiaires Visés, selon la discrétion conférée par les Actes, permet de considérer que lesdits Bénéficiaires Visés détiennent collectivement au maximum 24,99 % des actions détenues par les Fiducies, aux fins des règles d’association prévues à l’article 256 LIR et à la lumière du sous-alinéa 256(1.2)f)(ii) de ladite Loi, ou est-ce que ce dernier sous-alinéa fait plutôt en sorte que lesdits Bénéficiaires Visés soient réputés détenir 100 % des actions détenues par les Fiducies?
+(ii) À supposer que les Conditions d’Application soient satisfaites, est-ce que chaque Bénéficiaire Visé de la Fiducie CH est présumé détenir la totalité des actions du capital-actions dont la Fiducie CH est propriétaire, selon le sous-alinéa 256(1.2)f)(ii) LIR, malgré la Clause?
+(iii) À supposer que les Conditions d’Application soient satisfaites, est-ce que chaque Bénéficiaire Visé de la Fiducie de Gestion CH est présumé détenir la totalité des actions du capital-actions dont la Fiducie de gestion CH est propriétaire selon le sous-alinéa 256(1.2)f)(ii) de la LIR, malgré la Clause?
+Décisions recherchées
+[10] Les décisions recherchées par les parties sont les suivantes (voir Affaire intéressant un accord prévoyant le renvoi de questions à la Cour aux paragraphes 28 et 29) :
+28. Les Contribuables invitent cette honorable Cour à statuer à l’effet qu’une interprétation textuelle, contextuelle et téléologique des règles d’association prévues à l’article 256 LIR permet de conclure que la Clause a pour effet que les Bénéficiaires Visés ne soient pas propriétaires conjointement de plus de 24,99 % des actions détenues par les Fiducies, au cours des Années Visées, et donc à répondre par la négative aux questions (ii) et (iii).
+29. À l’inverse, le Procureur général du Canada invite cette honorable Cour à statuer à l’effet que rien dans les Actes n’empêche de considérer que les Bénéficiaires Visés soient propriétaires de la totalité des actions détenues par les Fiducies, au cours des Années Visées, aux fins des règles d’association prévues à l’article 256 LIR, et donc à répondre par l’affirmative aux questions (ii) et (iii).
+Arguments des contribuables
+[11] Les contribuables demandent à la Cour de se prononcer sur la présomption de propriété d’actions prévue au sous-alinéa 256(1.2)f)(ii) de la LIR, lorsque les actions sont détenues dans un patrimoine fiduciaire assujetti aux lois de la province de Québec.
+[12] Ils soutiennent que la proportion d’actions qui est réputée être la propriété de chacun des bénéficiaires visés est limitée à 24,99 % puisque ces bénéficiaires, durant la période pertinente, ne pouvaient se voir attribuer plus de 24,99 % du revenu et du capital accumulés des actions détenues dans le patrimoine fiduciaire.
+[13] Selon les contribuables, l’analyse textuelle, contextuelle et téléologique du sous-alinéa 256(1.2)f)(ii) de la LIR permet de conclure que la présomption de propriété ne vise que la part des actions qui peut réellement servir à avantager les bénéficiaires visés à un moment donné, en fonction du pouvoir discrétionnaire des fiduciaires non limité par les actes de fiducie (actes). Ainsi si un bénéficiaire donné peut être avantagé d’une partie des actions seulement, à la discrétion des fiduciaires, il est réputé propriétaire de cette partie seulement.
+[14] Pour justifier ceci, les contribuables plaident qu’il existe certaines ambiguïtés à la lecture de la disposition concernée sur le sens à donner d’une part, à l’expression « fiducie est à un moment donné propriétaire » et d’autre part, à l’expression « pouvoir discrétionnaire » (j’ai souligné ces deux expressions que l’on retrouve au sous-alinéa 256(1.2)f)(ii), lequel est reproduit à l’annexe I).
+[15] Tout d’abord, les contribuables soumettent qu’une première ambiguïté se trouve dans le texte de loi quant à la notion de propriété de biens assujettis à un patrimoine d’affectation en droit civil québécois.
+[16] Selon eux, puisque la LIR ne définit pas ce qu’est un droit de propriété, ni ce qu’est une fiducie ou un bénéficiaire, il y a donc lieu de se référer au droit privé, en l’occurrence le droit civil québécois, et ce, en application des articles 8.1 et 8.2 de la Loi d’interprétation, L.R.C. (1985), ch. I-21. De fait, si le législateur ne donne aucune définition d’un terme dans une loi fédérale, il faut avoir recours au droit privé supplétif applicable, dans la mesure où le législateur ne s’en dissocie pas expressément [1] .
+[17] Or, soutiennent les contribuables, en vertu du droit civil québécois, ni la fiducie, ni le fiduciaire, ni le bénéficiaire, ni le constituant n’a de droit de propriété dans les biens détenus en fiducie puisqu’aucun d’eux n’a de droit réel sur ces biens. Ces biens font partie d’un patrimoine d’affectation, lequel est administré par le fiduciaire selon les termes de l’acte de fiducie. Le fiduciaire exerce tous les droits afférents à ce patrimoine, mais n’en est pas titulaire [2] .
+[18] Voilà qui fait dire aux contribuables que la clause contenue dans l’article 4.3.1 des actes est une restriction indissociable de l’affectation de la fiducie. Les fiduciaires ne pourront exercer leur discrétion qu’à hauteur de 24,99 % des actions détenues par le patrimoine fiduciaire quant aux bénéficiaires visés. Autrement dit, ces bénéficiaires visés ont un droit indirect potentiel à 24,99 % des actions alors que les autres bénéficiaires ont un droit indirect potentiel à 100 % des actions.
+[19] Dans un deuxième temps, les contribuables soutiennent que si le sous-alinéa 256(1.2)f)(ii) visait toutes les actions détenues en fiducie, il y aurait alors contradiction avec la signification de « pouvoir discrétionnaire », puisque les fiduciaires auraient un pouvoir limité par l’acte constitutif sur ces actions, relativement à un bénéficiaire donné. Dans le cadre d’une analyse textuelle de cette disposition législative, ils concluent que les caractéristiques des droits d’un bénéficiaire dans l’affectation donnée doivent être considérées et seule la proportion de la part du revenu ou du capital accumulés qui dépend de l’exercice d’un pouvoir discrétionnaire non limité par l’acte de fiducie devrait être visée.
+[20] D’un point de vue contextuel, les contribuables soulignent que la détermination du lien d’association selon l’article 256 de la LIR se fait « à un moment donné ». Or selon eux, à tout moment donné au cours de la période pertinente, les bénéficiaires visés n’avaient qu’un seul droit certain, soit celui de recevoir 24,99 % du revenu et du capital accumulés, selon la discrétion des fiduciaires.
+[21] Les contribuables nous renvoient aux alinéas 256(1.2)d), 256(1.2)e) et au sous-alinéa 256(1.2)f)(iii) de la LIR, relativement aux règles de transparence s’appliquant aux sociétés par actions, aux sociétés de personnes ou aux fiducies non-discrétionnaires. Ils soutiennent, à la lecture de ces dernières dispositions, que le législateur considère l’ampleur des droits des actionnaires, des associés ou des bénéficiaires à un moment donné. Ils en concluent que ce n’est pas le statut de bénéficiaire qui importe dans ce contexte mais bien les caractéristiques des droits de celui-ci. Le corollaire étant qu’en l’espèce, les fiduciaires ont un pouvoir discrétionnaire jusqu’à concurrence de 24,99 %.
+[22] Ils ajoutent que cette interprétation est cohérente avec le sous-alinéa 256(1.2)f)(iii). Selon eux, si le bénéficiaire visé avait eu une part fixe et non discrétionnaire de 24,99 % dans l’affectation de la fiducie, il aurait été réputé détenir 24,99 % des actions. Ils concluent qu’un résultat similaire devrait être obtenu lorsque les possibilités des fiduciaires sont limitées à ce plafond.
+[23] Les contribuables terminent avec une analyse téléologique de la disposition législative. C’est l’association des petites entreprises familiales aux fins de la déduction accordée aux petites entreprises qui est en jeu ici. Les règles sur les sociétés associées visent les sociétés formant une même entité économique et prévoient un seuil de détention croisée de 25 % afin de permettre une certaine détention d’actions entre les groupes de sociétés. Ils soutiennent que l’interprétation proposée par l’ARC se concilie mal avec cet objectif et que l’interprétation que les contribuables en font se justifie mieux puisqu’elle fait en sorte que les bénéficiaires visés soient réputés propriétaires des actions détenues en fiducie, mais seulement jusqu’à concurrence des possibilités réellement offertes aux fiduciaires de les avantager, au moment donné.
+[24] Les contribuables s’appuient sur un document du ministère des Finances [3] où l’on mentionne que l’alinéa 256(1.2)f) constitue une règle de transparence. Selon eux, cette règle commande qu’aux fins des règles d’association, il faille s’intéresser uniquement aux droits indirects conservés par les bénéficiaires dans les actions de la société, en faisant abstraction de la fiducie.
+Arguments de l’intimée
+[25] L’ARC prétend que la clause limitative imposée aux bénéficiaires visés par les actes n’affecte pas la présomption de propriété prévue au sous-alinéa 256(1.2)f)(ii) et que chacun des bénéficiaires visés est malgré tout réputé propriétaire de la totalité des actions détenues par la Fiducie CH et la Fiducie de Gestion CH.
+[26] L’intimée est d’avis que le libellé du sous-alinéa 256(1.2)f)(ii) est clair : le bénéficiaire d’une fiducie discrétionnaire est réputé détenir la totalité des actions du capital-actions d’une société dont la fiducie est propriétaire. Cette disposition ne prévoit aucun prorata du droit de propriété en fonction du plafond auquel le pouvoir discrétionnaire pourrait être assujetti.
+[27] Selon l’intimée, le plafond imposé aux bénéficiaires désignés par la clause 4.3 des actes n’a pas pour effet d’éliminer le pouvoir discrétionnaire prévu à la clause 4.2 de ces actes. La clause 4.3 vise plutôt à limiter l’application du pouvoir discrétionnaire.
+[28] L’intimée précise que puisque le texte de cette disposition législative est clair, il n’y a pas lieu d’aller au-delà des termes utilisés par le législateur (Hypothèques Trustco Canada c. Canada, 2005 CSC 54, par. 10, [2005] 2 R.C.S. 601). C’est le texte de loi qui règle la question de savoir quel est le pourcentage des actions réputées détenues par les bénéficiaires visés et non les termes des actes.
+[29] Cette interprétation textuelle est d’ailleurs conforme, selon l’intimée, à l’intention du législateur, puisque si telle n’avait pas été son intention, il aurait prévu un prorata du droit de propriété en fonction du plafond auquel le pouvoir discrétionnaire pourrait être assujetti.
+[30] Quant à l’analyse contextuelle, l’intimée soutient qu’elle confirme sa position. Le paragraphe 256(1) renferme les règles de base énonçant dans quelles circonstances des sociétés sont associées. Les sociétés associées sont considérées comme une seule entité économique et doivent partager la déduction accordée aux petites entreprises.
+[31] Ainsi, la propriété des actions est déterminante pour établir si des sociétés sont associées. À cet égard, le paragraphe 256(1.2) contient des règles de propriété indirecte des actions, lesquelles règles se trouvent aux alinéas 256(1.2)d), e) et f).
+[32] Les sous-alinéas 256(1.2)f)(ii) et (iii) distinguent les règles de détention réputée dans le cas d’une fiducie discrétionnaire et d’une fiducie non discrétionnaire. Le sous-alinéa (ii) s’applique lorsque la part du bénéficiaire dans le revenu ou le capital de la fiducie est conditionnelle au fait qu’une personne exerce ou n’exerce pas un pouvoir discrétionnaire. Le sous-alinéa (iii), quant à lui, entre en jeu quand le sous-alinéa (ii) est inapplicable, soit quand la part d’un bénéficiaire dans le revenu ou le capital de la fiducie n’est pas assujettie à l’exercice d’un pouvoir discrétionnaire. Dans ce dernier cas, on répute que le bénéficiaire est propriétaire des actions détenues par la fiducie au prorata de la juste valeur marchande de son droit de bénéficiaire dans la fiducie [4] .
+[33] Dans le cas présent, puisque les fiduciaires ont entière discrétion pour déterminer la part du revenu ou du capital revenant à chacun des bénéficiaires visés, il s’ensuit donc que le sous-alinéa 256(1.2)f)(ii) est applicable et que chacun des bénéficiaires visés est réputé détenir la totalité des actions qui appartiennent à la fiducie. L’intimée soutient que l’existence d’une clause limitative dans l’acte constitutif de fiducie n’a aucun impact.
+[34] L’intimée ajoute que le sous-alinéa 256(1.2)f)(ii) est une disposition déterminative. Il s’agit d’une fiction légale et la validité d’une telle disposition a été énoncée dans un arrêt de la Cour suprême du Canada en matière criminelle, soit l’arrêt R. c. Verrette, [1978] 2 R.C.S. 838, à la page 845. La doctrine en matière fiscale reconnaît ce principe que plus d’une personne peut être réputée propriétaire des mêmes actions [5] .
+[35] En réponse à l’argument des contribuables qu’en vertu du droit civil le patrimoine fiduciaire constitue un patrimoine d’affectation autonome et distinct de celui du constituant, du fiduciaire ou du bénéficiaire, sur lequel aucun d’eux n’a de droit réel, l’intimée soumet, qu’aux fins de l’application de la LIR, le législateur a choisi de se dissocier du droit privé provincial en ce qui a trait au traitement et à la qualification de la fiducie, y compris dans le cadre des règles d’association se trouvant à l’article 256.
+[36] Au paragraphe 104(2) de la LIR, le législateur stipule que, pour l’application de la LIR, une fiducie est réputée être un particulier relativement aux biens de la fiducie.
+[37] Ainsi, la LIR traite la fiducie comme une entité fiscale distincte ayant la propriété des biens qui lui sont transférés, incluant la propriété des actions du capital-actions d’une société.
+[38] L’intimée soutient que la règle de complémentarité codifiée aux articles 8.1 et 8.2 de la Loi d’interprétation ne s’applique pas en ce qui a trait au traitement et à la qualification des fiducies puisque le législateur s’en est dissocié en édictant le paragraphe 104(2) de la LIR. Cette dissociation peut être implicite [6] . Elle n’a pas à être énoncée expressément ; il suffit qu’elle découle du texte et du contexte.
+[39] L’intimée conclut également qu’une fiducie est visée au paragraphe 256(1) de la LIR lorsqu’il y est fait mention d’une personne. En effet, le terme «particulier» est défini au paragraphe 248(1) comme une « personne autre qu’une société ». Ainsi, une fiducie constitue non seulement un particulier mais également une « personne », et ce, à toutes les fins de la LIR [7] .
+[40] Aux fins de l’application du paragraphe 256(1) de la LIR, la fiducie, étant une personne, est considérée comme propriétaire des actions du capital-actions d’une société que détient la fiducie.
+Réplique des contribuables
+[41] En réplique, les contribuables soutiennent que la dissociation par le législateur du droit privé provincial est un mécanisme d’exception. Selon l’auteur Martin Lamoureux [8] , c’est l’analyse du texte législatif, en fonction de son économie, de son contexte fiscal et des politiques fiscales sous-jacentes qui doivent guider les tribunaux afin de déterminer si la présomption de complémentarité du droit civil est repoussée et doit céder le pas à une dissociation implicite [9] .
+[42] Les contribuables affirment que la présomption que l’on retrouve au paragraphe 104(2) de la LIR voulant qu’une fiducie soit une personne distincte se limite au calcul de ses gains en capital, de ses revenus et de ses impôts. Le particulier ne pouvant avoir de bénéficiaire ni de fiduciaire, les contribuables concluent aux limites de la fiction légale qu’impose le paragraphe 104(2) de la LIR, ce qui explique selon eux, que l’application de cette disposition législative doit être restreinte au calcul des revenus et des impôts d’une fiducie, sans plus.
+[43] Selon eux, les règles d’association dont il est question dans le présent renvoi ne visent que les sociétés et s’appliquent notamment pour déterminer si ces sociétés doivent se répartir la déduction accordée aux petites entreprises. Le calcul du revenu et des impôts d’une fiducie n’est pas en jeu [10] .
+Analyse
+[44] Selon son projet de cotisation, l’ARC est d’avis que les contribuables sont associées au sens de la LIR, ce qui a pour conséquence de faire diminuer la déduction accordée aux petites entreprises (aux termes des paragraphes 125(1) et 125(3) de la LIR).
+[45] En effet, l’ARC est d’avis que la clause 4.3 des actes n’empêche pas que chacun des bénéficiaires soit réputé détenir la totalité des actions détenues par la fiducie dans les sociétés par l’application du sous-alinéa 256(1.2)f)(ii) de la LIR. Selon son interprétation technique 2003-0052261E5 du 6 janvier 2004 (pièce R-5), bien qu’une clause de l’acte de fiducie limite le pourcentage des revenus et du capital qu’un bénéficiaire peut recevoir, le bénéficiaire est réputé détenir la totalité des actions du capital-actions d’une société détenues par la fiducie. Les contribuables n’acceptent pas cette interprétation.
+[46] Avant de trancher sur cette question, il est bon de rappeler le contexte entourant l’application du paragraphe 256(1.2) de la LIR.
+[47] Les parties l’ont bien expliqué dans leurs observations. Les règles d’association sont déterminantes dans le calcul de la déduction accordée aux petites entreprises. Cette déduction donne un taux d’imposition réduit sur une première tranche de revenu (initialement 200 000 $, mais 500 000 $ dans les années en litige) tiré d’une entreprise exploitée activement par une société admissible. Afin d’éviter la multiplication des avantages fiscaux accordés à plus d’une société au sein d’un groupe d’entreprises contrôlées, les règles sur les sociétés associées obligent un groupe de sociétés de ce genre à se partager le plafond annuel (de 200 000 $ en 1988 et de 500 000 $ depuis 2009), puisqu’elles peuvent être considérées comme une seule entité économique.
+[48] Ainsi, les sociétés qui sont contrôlées par la même personne ou le même groupe de personnes sont considérées comme formant une seule entité économique et sont donc associées au sens de la LIR. Toutefois, le législateur prévoit, dans le cas de sociétés liées, un seuil d’association par détention croisée de 25 % (ainsi, par exemple, deux sociétés liées seront considérées comme associées seulement si la personne qui contrôle l’une d’elles est liée à celle qui contrôle l’autre société et possède également, à l’égard de chaque société, au moins 25 % des actions émises d’une catégorie de son capital-actions) [11] .
+[49] Dans ce contexte, il m’apparaît clair que la clause 4.3 des actes a été prévue dans le but d’éviter le partage du plafond annuel entre les sociétés concernées, et par le fait même, d’éviter les règles d’association prévues à l’article 256 et plus particulièrement à l’alinéa 256(1.2)f). En effet, les bénéficiaires visés auxquels s’applique la limite de 24,99 % sont ceux qui, à tout moment au cours d’une année d’imposition (que l’on appelle l’année d’imposition visée), remplissent les conditions suivantes : a) ils contrôlent directement ou indirectement une société privée dans laquelle la fiducie ne détient aucune action; b) et c) ils sont propriétaires, seuls ou avec des personnes liées, d’au moins 25 % des actions émises d’une catégorie non exclue du capital-actions d’une société privée contrôlée par une autre personne que le fiduciaire Claude Houle; et d) le droit de bénéficiaire de ce bénéficiaire visé aurait pour effet qu’une société contrôlée directement ou indirectement par le fiduciaire Claude Houle et dans laquelle la fiducie détient des actions deviendrait associée, au sens de l’article 256 de la LIR, avec une autre société privée.
+[50] Par ailleurs, la clause 4.3.2 des actes prévoit que l’application de la limite de 24,99 %, à l’égard de tout bénéficiaire visé, est réputée débuter immédiatement avant le moment où l’une ou l’autre des conditions mentionnées aux alinéas 4.3.1 a) à c), ainsi que la condition mentionnée à l’alinéa d), sont remplies et se termine le jour suivant la dernière journée de la dernière année d’imposition visée.
+[51] La disposition législative qui nous concerne ici est l’alinéa 256(1.2)f) de la LIR. Cet alinéa fait partie d’un groupe d’autres alinéas qui établissent une règle de transparence ou d’attribution, par exemple, lorsqu’une société par actions détient des actions d’une autre société par actions (alinéa 256(1.2)d)) ou lorsque les actions d’une société par actions appartiennent à une société de personnes (alinéa 256(1.2)e)). Dans ces deux derniers cas, un actionnaire d’une société par actions (SA1), ou un membre d’une société de personnes (SP1) qui détient des actions d’une société par actions (SA2) est considéré comme propriétaire des actions de SA2 en proportion de la valeur de ses avoirs dans SA1, ou de sa participation au revenu de SP1.
+[52] L’alinéa 256(1.2)f) établit une règle analogue lorsque les actions de SA2 sont détenues par une fiducie non discrétionnaire (sous-alinéa 256(1.2)f)(iii)). Dans le cas d’une fiducie discrétionnaire (sous-alinéa 256(1.2)f)(ii)), tous les bénéficiaires assujettis au pouvoir discrétionnaire sont réputés propriétaires des actions de SA2.
+[53] Dans les Notes explicatives sur le projet de loi concernant l’impôt sur le revenu publiées par le ministre des Finances en juin 1988, on mentionne à la page 533 ce qui suit :
+Le nouvel alinéa (1.2)f) établit une règle analogue de transparence lorsque les actions sont détenues par une fiducie.[…]Dans le cas d’une fiducie discrétionnaire, tous les bénéficiaires discrétionnaires sont réputés propriétaires des actions. Dans tous les autres cas, chaque bénéficiaire est réputé propriétaire d’un pourcentage des actions fondé sur la juste valeur marchande de sa participation dans la fiducie.[...]L’application de ces dispositions peut avoir pour résultat que plus d’une personne peut être réputée propriétaire des mêmes actions au même moment.[…]
+[Je souligne.]
+[54] À la lecture des sous-alinéas 256(1.2)f)(ii) et (iii), et des Notes explicatives, on peut conclure que la propriété réputée des actions d’un bénéficiaire est déterminée selon que le droit du bénéficiaire au revenu ou au capital dépend de l’exercice ou de l’absence de l’exercice d’un pouvoir discrétionnaire par une personne. Rien n’indique que le sous-alinéa 256(1.2)f)(ii) ne trouvera pas application si la part discrétionnaire d’un bénéficiaire est limitée par l’acte de fiducie, comme le prétendent les contribuables.
+[55] Les termes de la LIR indiquent que, dès que l’attribution à un bénéficiaire est conditionnelle à l’exercice d’un pouvoir discrétionnaire, le sous-alinéa 256(1.2)f)(ii) trouve application, et que, dans un cas contraire, c’est plutôt le sous-alinéa 256(1.2)f)(iii) qui s’applique.
+[56] En l’espèce, à tout moment, la part des bénéficiaires était conditionnelle à un pouvoir discrétionnaire des fiduciaires, et ce, qu’elle fût limitée par la clause 4.3 des actes, ou non. En effet, si la clause 4.3 devait s’appliquer, les fiduciaires avaient encore toute discrétion pour attribuer aux bénéficiaires visés une part de tout capital et de tout revenu de la fiducie pouvant varier de 0 % à 24,99 %. Cette clause n’a pas pour effet d’éliminer le pouvoir discrétionnaire prévu à la clause 4.2 des actes. Ce pouvoir, malgré qu’il puisse possiblement être assujetti à un plafond de 24,99 %, demeure fondamentalement un pouvoir discrétionnaire.
+[57] Les contribuables font valoir que si les bénéficiaires visés avaient eu une part fixe de 24,99 %, ils auraient été réputés, par application du sous-alinéa 256(1.2)f)(iii), détenir un maximum de 24,99 % des actions détenues par la fiducie. Selon eux, un résultat similaire devrait être obtenu lorsque la discrétion du fiduciaire est limitée à une distribution ne pouvant dépasser 24,99 % du revenu et du capital de la fiducie.
+[58] Je réponds à ceci en disant que les actes ne prévoient pas justement l’attribution d’une part fixe à ces bénéficiaires. Si tel avait été le cas, la part des bénéficiaires n’aurait pas été conditionnelle à l’exercice de la discrétion par le fiduciaire. On prévoit plutôt une distribution discrétionnaire d’une part pouvant varier de 0% à 24.99%, si les conditions de la clause 4.3 sont remplies, ou de 0% à 100% si ces conditions ne sont pas remplies, ce qui peut changer d’une année à l’autre.
+[59] L’interprétation que les contribuables veulent donner au sous-alinéa 256(1.2)f)(ii) revient à accepter une interprétation qui nécessite l’ajout de mots, alors qu’il existe une autre interprétation qui ne requiert aucun ajout de cette nature. En effet, les contribuables demandent de traiter la part des bénéficiaires visés comme si celle-ci était une part fixe, non assujettie à un pouvoir discrétionnaire. Or, ce n’est pas ce que les actes de fiducie prévoient. Nulle part, n’en fait-on mention. Cette interprétation n’est donc pas acceptable (Markevich c. Canada, [2003] 1 R.C.S. 94, 2003 CSC 9, au par. 15).
+[60] Comme je conclus que la fiducie est de nature discrétionnaire et offre un pouvoir discrétionnaire aux fiduciaires dans la distribution des parts aux bénéficiaires visés, il n’y a pas lieu de traiter de l’alinéa 256(1.2)f)(iii) et de rendre une décision par laquelle seule une certaine proportion des actions serait réputée la propriété des bénéficiaires visés.
+[61] De plus, je n’accepte pas l’argument des contribuables à l’effet qu’il existe une ambiguïté latente dans le texte introductif du sous-alinéa 256(1.2)f). Le passage en question réfère aux « actions du capital-actions d’une société dont une fiducie est à un moment donné propriétaire ». Les contribuables réfèrent au droit civil québécois, où la notion de propriété n’existe pas lorsqu’il est question de fiducie, et soutiennent que cette notion doit plutôt être substituée par la notion d’affectation.
+[62] Plus précisément, les contribuables prétendent que le libellé de l’alinéa 256(1.2)f) de la LIR, qui se lit : « les actions du capital-actions d’une société dont une fiducie est à un moment donné propriétaire ou réputée propriétaire », devrait être lu comme signifiant pour les contribuables québécois : « les actions du capital-actions d’une société pouvant être affectées à un bénéficiaire donné ».
+[63] De ce que je comprends de cet argument, cette substitution ferait en sorte que la présomption de propriété des actions du sous-alinéa 256(1.2)f)(ii) ne viserait que la part des actions qui peut réellement servir à avantager les bénéficiaires visés à un moment donné en fonction du pouvoir discrétionnaire des fiduciaires non limité par les actes de fiducie.
+[64] Tout d’abord, adopter une telle interprétation ferait en sorte de donner, à la disposition concernée, un tout autre sens que celui voulu par le législateur.
+[65] De plus, j’observe que le paragraphe 104(2) de la LIR édicte que pour l’application de la LIR, « une fiducie est réputée être un particulier relativement aux biens de la fiducie ». À cet égard, il n’est pas contesté qu’une fiducie au sens de ce paragraphe englobe une fiducie en droit québécois. De plus, au sens de la LIR, un particulier est défini comme « une personne autre qu’une société » [12] .
+[66] Les contribuables sont d’avis que le paragraphe 104(2) de la LIR ne trouve application que pour le calcul du revenu ou de l’impôt payable par une fiducie, mais qu’il ne permet pas d’expliquer ce qu’est une fiducie par ailleurs.
+[67] Les contribuables nous réfèrent à l’arrêt de la Cour suprême du Canada dans Settled Estates Limited v. Minister of National Revenue, 60 DTC 1128, afin d’exclure l’application du paragraphe 104(2) de la LIR dans l’analyse du sous-alinéa 256(1.2)f)ii). Dans cette décision, la Cour analysait la définition d’une « personal corporation » à l’ancien article 68 de la LIR, qui définissait une telle société comme étant contrôlée par un particulier ou un membre de sa famille résidant au Canada. La Cour a écarté d’emblée que le terme « individual » (« particulier ») pouvait faire référence à une fiducie. Le contexte de cette disposition faisait en sorte que toute référence à l’ancien paragraphe 63(2) (maintenant 104(2)) n’était pas pertinente.
+[68] Ce n’est clairement pas le cas en ce qui concerne les règles d’association. Au contraire, le législateur a spécifiquement prévu le traitement applicable pour les fiducies discrétionnaires et non-discrétionnaires, tout comme il l’a fait pour les sociétés par actions ou les sociétés de personnes.
+[69] Le paragraphe 256(1) donne les grandes lignes afin d’associer des sociétés aux termes de la LIR. Aux alinéas 256(1)c), d) et e), on fait référence à une personne qui contrôle une société et qui en est propriétaire d’actions. Le paragraphe 256(1.2) vient expressément apporter des précisions sur les notions de contrôle et de propriété des actions.
+[70] Or, la fiducie est considérée comme une personne aux termes de la LIR, et donc, interprété dans son contexte, il est cohérent de dire que le législateur a spécifiquement prévu qu’une fiducie pouvait être propriétaire des actions du capital-actions d’une société au sens de l’alinéa 256(1.2)f). En effet, cet alinéa qui vient interpréter le paragraphe 256(1), fait le pont entre certains acteurs de la fiducie, en l’occurrence ici les bénéficiaires, et les biens détenus par la fiducie.
+[71] Les contribuables se réfèrent plus particulièrement à l’article 1261 du Code civil du Québec [13] (« C.c.Q ».) pour me convaincre qu’une fiducie québécoise ne peut être propriétaire des biens de son patrimoine.
+[72] L’article 1261 du C.c.Q. se lit comme suit :
+1261. Le patrimoine fiduciaire, formé des biens transférés en fiducie, constitue un patrimoins d’affectation autonome et distinct de celui du constituant, du fiduciaire ou du bénéficiaire, sur lequel aucun d’entre eux n’a de droit réel.
+[73] Toutefois, le paragraphe 104(1) de la LIR stipule ce qui suit :
+104(1) Dans la présente loi, la mention d’une fiducie ou d’une succession (appelées « fiducie » à la présente sous-section) vaut également mention, sauf indication contraire du contexte, du fiduciaire, de l’exécuteur testamentaire, de l’administrateur successoral, du liquidateur de succession, de l’héritier ou d’un autre représentant légal ayant la propriété ou le contrôle des bien de la fiducie. […]
+[Je souligne.]
+[74] Ainsi, selon cette dernière disposition, contrairement à ce qui semble ressortir de l’article 1261 C.c.Q., une fiducie peut également s’entendre d’un fiduciaire ayant la propriété ou le contrôle des biens de la fiducie. En ce sens, je crois que l’on puisse dire que le législateur fédéral s’est dissocié du droit privé québécois relativement à la notion de propriété sur les biens de la fiducie.
+[75] De plus, si je devais donner raison aux contribuables, toutes les dispositions de la LIR (articles 107 et suivants) permettant le transfert sans conséquences fiscales lors de la distribution des biens de la fiducie aux bénéficiaires dans la province de Québec ne trouveraient pas application. À mon avis, adopter une telle proposition irait à l’encontre de l’intention du législateur fédéral. Je ne crois pas qu’il était de son intention d’exclure les fiducies québécoises de ce traitement favorable.
+[76] Tel que souligné par la Cour suprême du Canada, dans l’arrêt Groupe Jean Coutu (PJC) inc. c. Canada (Procureur général), 2016 CSC 55, [2016] 2 R.C.S. 670, aux par. 52 et 91, la convergence entre le droit civil québécois et la common law des autres provinces est souhaitable d’un point de vue de politique fiscale. La Cour s’exprime ainsi au paragraphe 52 : « […] Les contribuables du Québec et des provinces de common law sont assujettis au même régime fiscal fédéral. Ils devraient pouvoir parvenir à des résultats semblables […] ».
+[77] Je conclus donc qu’aux fins de la LIR, une fiducie est réputée être un particulier, et est une personne aux termes de l’article 256 de la LIR. Dès lors, les fiducies en cause peuvent être considérées comme étant propriétaires des actions qu’elle détiennent dans des sociétés par actions.
+[78] D’autre part, j’ajouterais qu’à tout le moins, selon l’interprétation téléologique de l’alinéa 256(1.2)f) de la LIR, les fiducies détiennent les actions du capital-actions des diverses sociétés (ce qui est accepté par les contribuables dans l’énoncé des faits essentiels donnant lieu au présent renvoi). En effet, les Notes explicatives sur le projet de loi concernant l’impôt sur le revenu publiées par le ministre des Finances, auxquelles j’ai fait référence plus haut, énoncent expressément qu’aux termes de cet alinéa, « lorsque les actions sont détenues par une fiducie […] [d]ans le cas d’une fiducie discrétionnaire, tous les bénéficiaires discrétionnaires sont réputés propriétaires des actions » [14] .
+[79] Dès lors, on peut inférer de ces Notes explicatives que l’intention du législateur visait minimalement le nombre total d’actions détenues par la fiducie dans son patrimoine d’affectation. Elle ne visait assurément pas le pourcentage des actions pouvant être attribué ultimement aux bénéficiaires visés.
+[80] Les contribuables soutiennent également que, d’un point de vue contextuel, la présomption de la propriété des actions ne peut s’appliquer au-delà de ce qui peut être attribué aux bénéficiaires visés selon le pouvoir discrétionnaire du fiduciaire. À ce sujet, je réponds que le législateur n’a tout simplement pas prévu un prorata du droit de propriété en ce sens, comme il a décidé de le faire pour les sociétés par actions, les sociétés de personnes ou les fiducies non discrétionnaires.
+[81] Finalement, les contribuables soutiennent qu’il n’est pas logique que les bénéficiaires visés soient réputés propriétaires de 100 % des actions détenues par la fiducie s’ils n’ont droit qu’à un maximum de 24,99 % du capital et du revenu de la fiducie. J’adhère aux arguments de l’intimée selon lesquels le sous-alinéa 256(1.2)f)(ii) est une disposition que l’on peut qualifier de déterminative.
+[82] La Cour suprême du Canada a défini ce qu’est une disposition déterminative, et a énoncé la validité d’une telle disposition dans l’arrêt Verrette, précité, dans ces termes, à la page 845:
+[…]Une disposition déterminative est une fiction légale; elle reconnaît implicitement qu’une chose n’est pas ce qu’elle est censée être, mais décrète qu’à des fins particulières, elle sera considérée comme étant ce qu’elle n’est pas ou ne semble pas être.[…]
+[83] La cour d’appel fédérale dans l’arrêt Durocher c. La Reine, 2016 CAF 299, a réitéré les propos de la Cour suprême du Canada dans le cadre d’une analyse de l’alinéa 251(5)b) de la LIR.
+[84] Il est clair que la portée d’une disposition déterminative est limitée à ce qui est clairement exprimé (La Survivance c. La Reine, 2006 CAF 129, par. 55).
+[85] Ici, la fiction légale que l’on trouve au sous-alinéa 256(1.2)f)(ii) a pour effet que plus d’un propriétaire est réputé propriétaire de la totalité des actions. Cette fiction ne trouve application qu’aux fins des règles d’association du paragraphe 256(1) et elle est légalement valide dans les circonstances.
+Décision
+[86] Pour ces motifs, je réponds ainsi aux questions qui font l’objet du présent renvoi :
+Question 1
+[87] Je confirme la position de la ministre du Revenu national selon laquelle les bénéficiaires visés sont réputés détenir 100% des actions détenues par les fiducies aux termes du sous-alinéa 256(1.2)f)(ii) de la LIR.
+Question 2
+[88] Chaque bénéficiaire visé de la Fiducie CH est réputé détenir la totalité des actions du capital-actions dont la Fiducie CH est propriétaire, selon le sous-alinéa 256(1.2)f)(ii) de la LIR.
+Question 3
+[89] Chaque bénéficiaire visé de la Fiducie de Gestion CH est réputé détenir la totalité des actions du capital-actions dont la Fiducie de Gestion CH est propriétaire, selon le sous-alinéa 256(1.2)f)(ii) de la LIR.
+LE TOUT SANS FRAIS.
+Signé à Ottawa, Canada, ce 3e jour de mai 2018.
+« Lucie Lamarre »
+Juge en chef adjointe Lamarre
+ANNEXE I
+DISPOSITIONS LÉGISLATIVES
+LOI DE L’IMPÔT SUR LE REVENU
+Fiducie ou succession
+104(1) Dans la présente loi, la mention d’une fiducie ou d’une succession (appelées « fiducie » à la présente sous-section) vaut également mention, sauf indication contraire du contexte, du fiduciaire, de l’exécuteur testamentaire, de l’administrateur successoral, du liquidateur de succession, de l’héritier ou d’un autre représentant légal ayant la propriété ou le contrôle des biens de la fiducie. Toutefois, sauf pour l’application du présent paragraphe, du paragraphe (1.1), du sous-alinéa b)(v) de la définition de disposition au paragraphe 248(1) et de l’alinéa k) de cette définition, l’arrangement dans le cadre duquel il est raisonnable de considérer qu’une fiducie agit en qualité de mandataire de l’ensemble de ses bénéficiaires pour ce qui est des opérations portant sur ses biens est réputé ne pas être une fiducie, sauf si la fiducie est visée à l’un des alinéas a) à e.1) de la définition de fiducie au paragraphe 108(1).
+[…]
+Reference to trust or estate
+104 (1) In this Act, a reference to a trust or estate (in this subdivision referred to as a “trust”) shall, unless the context otherwise requires, be read to include a reference to the trustee, executor, administrator, liquidator of a succession, heir or other legal representative having ownership or control of the trust property, but, except for the purposes of this subsection, subsection (1.1), subparagraph (b)(v) of the definition disposition in subsection 248(1) and paragraph (k) of that definition, a trust is deemed not to include an arrangement under which the trust can reasonably be considered to act as agent for all the beneficiaries under the trust with respect to all dealings with all of the trust’s property unless the trust is described in any of paragraphs (a) to (e.1) of the definition trust in subsection 108(1).
+. . .
+Impôt à titre de particulier
+(2) Pour l’application de la présente loi, et sans que l’assujettissement du fiduciaire ou des représentants légaux à leur propre impôt sur le revenu en soit atteint, une fiducie est réputée être un particulier relativement aux biens de la fiducie; mais lorsqu’il existe plus d’une fiducie et que :
+a) d’une part, dans l’ensemble, tous les biens des diverses fiducies proviennent d’une seule personne;
+b) d’autre part, les diverses fiducies sont telles que le revenu en découlant revient ou reviendra finalement au même bénéficiaire ou groupe ou catégorie de bénéficiaires,
+[…]
+Taxed as individual
+(2) A trust shall, for the purposes of this Act, and without affecting the liability of the trustee or legal representative for that person’s own income tax, be deemed to be in respect of the trust property an individual, but where there is more than one trust and
+(a) substantially all of the property of the various trusts has been received from one person, and
+(b) the various trusts are conditioned so that the income thereof accrues or will ultimately accrue to the same beneficiary, or group or class of beneficiaries,
+. . .
+Définitions
+108 (1) Les définitions qui suivent s’appliquent à la présente sous-section.
+bénéficiaire Sont comprises dans les bénéficiaires d’une fiducie les personnes ayant un droit de bénéficiaire sur celle-ci.
+participation au revenu S’agissant de la participation d’un contribuable au revenu d’une fiducie, le droit, immédiat ou futur, conditionnel ou non, du contribuable à titre de bénéficiaire d’une fiducie personnelle à tout ou partie du revenu de la fiducie, ou de recevoir tout ou partie de ce revenu, y compris, après 1999, le droit (sauf celui acquis avant 2000 et dont il est disposé avant mars 2000), découlant d’un tel droit, d’exiger de la fiducie le versement d’une somme.
+Definitions
+108 (1) In this subdivision,
+beneficiary under a trust includes a person beneficially interested therein;
+income interest of a taxpayer in a trust means a right (whether immediate or future and whether absolute or contingent) of the taxpayer as a beneficiary under a personal trust to, or to receive, all or any part of the income of the trust and, after 1999, includes a right (other than a right acquired before 2000 and disposed of before March 2000) to enforce payment of an amount by the trust that arises as a consequence of any such right;
+Déduction accordée aux petites entreprises
+125 (1) La société qui est tout au long d’une année d’imposition une société privée sous contrôle canadien peut déduire de son impôt payable par ailleurs pour l’année en vertu de la présente partie une somme égale au produit de la multiplication du taux de la déduction pour petite entreprise qui lui est applicable pour l’année par la moins élevée des sommes suivantes :
+a) l’excédent éventuel du total des montants suivants :
+(i) le total des sommes dont chacune est le montant de revenu de la société pour l’année provenant d’une entreprise exploitée activement au Canada, sauf l’une des sommes suivantes :
+(A) celle qui est visée à l’alinéa a) de l’élément A de la première formule figurant à la définition de revenu de société de personnes déterminé au paragraphe (7) pour l’année,
+(B) celle qui est visée au sous-alinéa a)(i) de la définition de revenu de société déterminé au paragraphe (7) pour l’année,
+(C) celle qui est payée ou payable à la société par une autre société à laquelle elle est associée et qui est réputée, par le paragraphe 129(6), constituer un revenu pour l’année provenant d’une entreprise exploitée activement par la société dans des circonstances où l’autre société n’est pas une société privée sous contrôle canadien ou est une telle société qui a fait le choix visé au paragraphe 256(2) pour son année d’imposition au cours de laquelle cette somme a été payée ou était payable,
+(ii) le revenu de société de personnes déterminé de la société pour l’année,
+(ii.1) le revenu de société déterminé de la société pour l’année,
+sur le total des montants suivants :
+(iii) l’ensemble de toutes les sommes dont chacune est une perte de la société pour l’année provenant de l’exploitation d’une entreprise exploitée activement au Canada (autre qu’une perte de la société pour l’année provenant d’une entreprise qu’elle exploite comme associé d’une société de personnes),
+(iv) la perte de société de personnes déterminée de la société pour l’année;
+Small business deduction
+125 (1) There may be deducted from the tax otherwise payable under this Part for a taxation year by a corporation that was, throughout the taxation year, a Canadian-controlled private corporation, an amount equal to the corporation’s small business deduction rate for the taxation year multiplied by the least of
+(a) the amount, if any, by which the total of
+(i) the total of all amounts each of which is the amount of income of the corporation for the year from an active business carried on in Canada, other than an amount that is
+(A) described in paragraph (a) of the description of A in the definition specified partnership income in subsection (7) for the year,
+(B) described in subparagraph (a)(i) of the definition specified corporate income in subsection (7) for the year, or
+(C) paid or payable to the corporation by another corporation with which it is associated, that is deemed by subsection 129(6) to be income for the year from an active business carried on by the corporation in circumstances where the associated corporation is not a Canadian-controlled private corporation or is a Canadian-controlled private corporation that has made an election under subsection 256(2) in respect of its taxation year in which the amount was paid or payable,
+(ii) the specified partnership income of the corporation for the year, and
+(ii.1) the specified corporate income of the corporation for the year
+exceeds the total of
+(iii) the total of all amounts each of which is a loss of the corporation for the year from an active business carried on in Canada (other than a loss of the corporation for the year from a business carried on by it as a member of a partnership), and
+(iv) the specified partnership loss of the corporation for the year,
+Définition de plafond des affaires
+(2) Pour l’application du présent article, le plafond des affaires d’une société pour une année d’imposition est de 500 000 $, sauf si la société est associée, pendant l’année, à une ou plusieurs autres sociétés privées sous contrôle canadien, auquel cas son plafond des affaires pour l’année est nul, sauf disposition contraire du présent article.
+Business limit
+(2) For the purpose of this section, a corporation’s business limit for a taxation year is $500,000 unless the corporation is associated in the taxation year with one or more other Canadian-controlled private corporations, in which case, except as otherwise provided in this section, its business limit is nil.
+Sociétés associées
+(3) Malgré le paragraphe (2), si les sociétés privées sous contrôle canadien qui sont associées les unes aux autres pendant une année d’imposition présentent au ministre, selon le formulaire prescrit, une convention par laquelle est attribué, pour l’application du présent article, un pourcentage à une ou plusieurs d’entre elles pour l’année, le plafond des affaires, pour l’année, de chacune des sociétés correspond à ce qui suit :
+a) si le total des pourcentages attribués selon la convention n’excède pas 100 %, le produit de 500 000 $ par le pourcentage attribué à la société selon la convention;
+b) dans les autres cas, zéro.
+Associated corporations
+(3) Notwithstanding subsection (2), if all the Canadian-controlled private corporations that are associated with each other in a taxation year file with the Minister in prescribed form an agreement that assigns for the purpose of this section a percentage to one or more of them for the year, the business limit for the year of each of the corporations is
+(a) if the total of the percentages assigned in the agreement does not exceed 100%, $500,000 multiplied by the percentage assigned to that corporation in the agreement; and
+(b) in any other case, nil.
+Renvoi des questions de droit, etc. à la Cour canadienne de l’impôt
+173 (1) Lorsque le ministre et un contribuable conviennent, par écrit, de faire trancher par la Cour canadienne de l’impôt une question de droit, de fait ou de droit et de fait, portant sur une cotisation ou une détermination, réelles ou projetées, découlant de l’application de la présente loi, cette cour se prononce sur cette question.
+(2) La période comprise entre la date à laquelle l’action est intentée auprès de la Cour canadienne de l’impôt en vue de faire statuer sur une question conformément au paragraphe (1) et la date à laquelle il est définitivement statué sur la question est exclue du calcul :
+a) des périodes déterminées selon le paragraphe 152(4);
+b) du délai de signification d’un avis d’opposition à une cotisation en vertu de l’article 165;
+c) du délai d’appel en vertu de l’article 169,
+pour ce qui est d’établir la cotisation concernant l’impôt payable par le contribuable qui a accepté, par écrit, que la question soit tranchée, de signifier un avis d’opposition à cette cotisation ou d’en appeler de celle-ci.
+References to Tax Court of Canada
+173 (1) Where the Minister and a taxpayer agree in writing that a question of law, fact or mixed law and fact arising under this Act, in respect of any assessment, proposed assessment, determination or proposed determination, should be determined by the Tax Court of Canada, that question shall be determined by that Court.
+(2) The time between the day on which proceedings are instituted in the Tax Court of Canada to have a question determined pursuant to subsection 173(1) and the day on which the question is finally determined shall not be counted in the computation of
+(a) the periods determined under subsection 152(4),
+(b) the time for service of a notice of objection to an assessment under section 165, or
+(c) the time within which an appeal may be instituted under section 169,
+for the purpose of making an assessment of the tax payable by the taxpayer who agreed in writing to the determination of the question, for the purpose of serving a notice of objection thereto or for the purpose of instituting an appeal therefrom, as the case may be.
+Interprétation - Définitions
+248 (1) Les définitions qui suivent s’appliquent à la présente loi.
+particulier Personne autre qu’une société.
+Droit de bénéficiaire
+(25) Les règles suivantes s’appliquent dans le cadre de la présente loi :
+a) comptent parmi les personnes ou sociétés de personnes ayant un droit de bénéficiaire dans une fiducie donnée celles qui ont le droit — immédiat ou futur, conditionnel ou non, ou soumis ou non à l’exercice d’un pouvoir discrétionnaire par une personne ou une société de personnes — à titre de bénéficiaire d’une fiducie de recevoir tout ou partie du revenu ou du capital de la fiducie donnée, soit directement de celle-ci, soit indirectement par l’entremise d’une ou de plusieurs fiducies ou sociétés de personnes;
+Interpretation - Definitions
+248 (1) In this Act,
+individual means a person other than a corporation;
+Beneficially interested
+(25) For the purposes of this Act,
+(a) a person or partnership beneficially interested in a particular trust includes any person or partnership that has any right (whether immediate or future, whether absolute or contingent or whether conditional on or subject to the exercise of any discretion by any person or partnership) as a beneficiary under a trust to receive any of the income or capital of the particular trust either directly from the particular trust or indirectly through one or more trusts or partnerships;
+Sociétés associées
+256 (1) Pour l’application de la présente loi, deux sociétés sont associées l’une à l’autre au cours d’une année d’imposition si, à un moment donné de l’année :
+a) l’une contrôle l’autre, directement ou indirectement, de quelque manière que ce soit;
+b) la même personne ou le même groupe de personnes contrôle les deux sociétés, directement ou indirectement, de quelque manière que ce soit;
+c) la personne qui contrôle l’une des deux sociétés, directement ou indirectement, de quelque manière que ce soit, est liée à la personne qui contrôle l’autre société, directement ou indirectement, de quelque manière que ce soit, et l’une de ces personnes est propriétaire d’au moins 25 % des actions émises d’une catégorie, non exclue, du capital-actions de chaque société;
+d) la personne qui contrôle l’une des deux sociétés, directement ou indirectement, de quelque manière que ce soit, est liée à chaque membre du groupe de personnes qui contrôle l’autre société, directement ou indirectement, de quelque manière que ce soit, et cette personne est propriétaire d’au moins 25 % des actions émises d’une catégorie, non exclue, du capital-actions de l’autre société;
+e) chaque membre du groupe lié qui contrôle l’une des deux sociétés, directement ou indirectement, de quelque manière que ce soit, est lié à tous les membres du groupe lié qui contrôle l’autre société, directement ou indirectement, de quelque manière que ce soit, et une ou plusieurs des personnes membres des deux groupes liés sont propriétaires, seuls ou ensemble, d’au moins 25 % des actions émises d’une catégorie, non exclue, du capital-actions de chaque société.
+Associated corporations
+256 (1) For the purposes of this Act, one corporation is associated with another in a taxation year if, at any time in the year,
+(a) one of the corporations controlled, directly or indirectly in any manner whatever, the other;
+(b) both of the corporations were controlled, directly or indirectly in any manner whatever, by the same person or group of persons;
+(c) each of the corporations was controlled, directly or indirectly in any manner whatever, by a person and the person who so controlled one of the corporations was related to the person who so controlled the other, and either of those persons owned, in respect of each corporation, not less than 25% of the issued shares of any class, other than a specified class, of the capital stock thereof;
+(d) one of the corporations was controlled, directly or indirectly in any manner whatever, by a person and that person was related to each member of a group of persons that so controlled the other corporation, and that person owned, in respect of the other corporation, not less than 25% of the issued shares of any class, other than a specified class, of the capital stock thereof; or
+(e) each of the corporations was controlled, directly or indirectly in any manner whatever, by a related group and each of the members of one of the related groups was related to all of the members of the other related group, and one or more persons who were members of both related groups, either alone or together, owned, in respect of each corporation, not less than 25% of the issued shares of any class, other than a specified class, of the capital stock thereof.
+Sens de catégorie exclue
+(1.1) Une catégorie d’actions du capital-actions d’une société est exclue pour l’application du paragraphe (1) si, à la fois, selon les caractéristiques des actions de cette catégorie ou selon une convention y relative :
+a) les actions ne sont ni convertibles ni échangeables;
+b) les actions ne confèrent pas de droit de vote;
+c) le montant de chaque dividende payable sur les actions est un montant fixe ou un montant déterminé en fonction d’un pourcentage fixe de la juste valeur marchande de la contrepartie de l’émission des actions;
+d) le taux de dividende annuel sur les actions, exprimé en pourcentage de la juste valeur marchande de la contrepartie de l’émission des actions, ne peut en aucun cas excéder :
+(i) dans le cas où les actions sont émises avant 1984, le taux d’intérêt prescrit pour l’application du paragraphe 161(1) au moment de l’émission des actions,
+(ii) dans le cas où les actions sont émises après 1983, le taux d’intérêt prescrit au moment de l’émission des actions;
+e) le montant que l’actionnaire a le droit de recevoir au rachat, à l’acquisition ou à l’annulation des actions par la société ou par une personne avec laquelle elle a un lien de dépendance ne peut dépasser le total de la juste valeur marchande de la contrepartie de l’émission des actions et du montant des dividendes impayés sur les actions.
+Definition of specified class
+(1.1) For the purposes of subsection 256(1), specified class means a class of shares of the capital stock of a corporation where, under the terms or conditions of the shares or any agreement in respect thereof,
+(a) the shares are not convertible or exchangeable;
+(b) the shares are non-voting;
+(c) the amount of each dividend payable on the shares is calculated as a fixed amount or by reference to a fixed percentage of an amount equal to the fair market value of the consideration for which the shares were issued;
+(d) the annual rate of the dividend on the shares, expressed as a percentage of an amount equal to the fair market value of the consideration for which the shares were issued, cannot in any event exceed,
+(i) where the shares were issued before 1984, the rate of interest prescribed for the purposes of subsection 161(1) at the time the shares were issued, and
+(ii) where the shares were issued after 1983, the prescribed rate of interest at the time the shares were issued; and
+(e) the amount that any holder of the shares is entitled to receive on the redemption, cancellation or acquisition of the shares by the corporation or by any person with whom the corporation does not deal at arm’s length cannot exceed the total of an amount equal to the fair market value of the consideration for which the shares were issued and the amount of any unpaid dividends thereon.
+Précisions sur les notions de contrôle et de propriété des actions
+(1.2) Pour l’application du présent paragraphe et des paragraphes (1), (1.1) et (1.3) à (5):
+a) un groupe de personnes s’entend de plusieurs personnes dont chacune est propriétaire d’actions du capital-actions de la même société;
+b) il est entendu :
+(i) d’une part, qu’une société qui est contrôlée par un ou plusieurs membres d’un groupe donné de personnes est réputée être contrôlée par ce groupe de personnes,
+(ii) d’autre part, qu’une personne ou un groupe donné de personnes peut contrôler une société même si une autre personne ou un autre groupe de personnes contrôle aussi ou est réputé contrôler aussi la société;
+c) la société, la personne ou le groupe de personnes qui est propriétaire, à un moment donné, d’actions du capital-actions d’une autre société dont la juste valeur marchande correspond à plus de 50 % de la juste valeur marchande de toutes les actions émises et en circulation du capital-actions de cette autre société, ou qui est propriétaire, à ce moment, d’actions ordinaires du capital-actions de cette autre société dont la juste valeur marchande correspond à plus de 50 % de la juste valeur marchande de toutes les actions ordinaires émises et en circulation du capital-actions de cette autre société, est réputé contrôler cette autre société à ce moment;
+d) les actions du capital-actions d’une société dont une autre société est, à un moment donné, propriétaire ou réputée propriétaire en application du présent paragraphe sont réputées être la propriété à ce moment de chaque actionnaire de cette autre société dans la proportion égale au produit de la multiplication du nombre de ces actions par le rapport entre :
+(i) d’une part, la juste valeur marchande des actions du capital-actions de l’autre société dont l’actionnaire est à ce moment propriétaire,
+(ii) d’autre part, la juste valeur marchande de toutes les actions émises du capital-actions de l’autre société en circulation à ce moment;
+e) les actions du capital-actions d’une société qui sont des biens d’une société de personnes à un moment donné ou qui sont réputées être la propriété de la société de personnes à ce moment en application du présent paragraphe sont réputées être la propriété à ce moment de chaque associé de la société de personnes dans la proportion égale au produit de la multiplication du nombre de ces actions par le rapport entre :
+(i) d’une part, la part de l’associé sur le revenu ou la perte de la société de personnes pour l’exercice de la société de personnes qui comprend ce moment,
+(ii) d’autre part, le revenu ou la perte de la société de personnes pour cet exercice;
+à cette fin, dans le cas où le revenu et la perte de la société de personnes pour son exercice qui comprend ce moment sont nuls, ce produit est calculé comme si le revenu de la société de personnes pour cet exercice s’élevait à 1 000 000 $;
+f) les actions du capital-actions d’une société dont une fiducie est à un moment donné propriétaire ou réputée propriétaire en application du présent paragraphe :
+(i) [Abrogé, 2014, ch. 39, art. 76]
+(ii) sont réputées être la propriété à ce moment de chaque bénéficiaire dont la part sur le revenu ou le capital accumulés de la fiducie est conditionnelle au fait qu’une personne exerce ou n’exerce pas un pouvoir discrétionnaire,
+(iii) sont réputées, dans les cas où le sous-alinéa (ii) ne s’applique pas, être la propriété à ce moment de chaque bénéficiaire dans la proportion obtenue par la multiplication du nombre de ces actions par le rapport entre la juste valeur marchande de son droit de bénéficiaire sur la fiducie et la juste valeur marchande de tous les droits de bénéficiaire sur la fiducie,
+(iv) sont réputées être la propriété à ce moment de la personne de qui des biens ou des biens qui leur sont substitués ont été reçus, directement ou indirectement, s’il s’agit d’une fiducie visée au paragraphe 75(2);
+g) dans la détermination de la juste valeur marchande d’actions du capital-actions d’une société, toutes les actions émises et en circulation de ce capital-actions sont réputées ne pas conférer de droit de vote.
+Control, etc.
+(1.2) For the purposes of this subsection and subsections 256(1), 256(1.1) and 256(1.3) to 256(5),
+(a) a group of persons in respect of a corporation means any two or more persons each of whom owns shares of the capital stock of the corporation;
+(b) for greater certainty,
+(i) a corporation that is controlled by one or more members of a particular group of persons in respect of that corporation shall be considered to be controlled by that group of persons, and
+(ii) a corporation may be controlled by a person or a particular group of persons notwithstanding that the corporation is also controlled or deemed to be controlled by another person or group of persons;
+(c) a corporation shall be deemed to be controlled by another corporation, a person or a group of persons at any time where
+(i) shares of the capital stock of the corporation having a fair market value of more than 50% of the fair market value of all the issued and outstanding shares of the capital stock of the corporation, or
+(ii) common shares of the capital stock of the corporation having a fair market value of more than 50% of the fair market value of all the issued and outstanding common shares of the capital stock of the corporationare owned at that time by the other corporation, the person or the group of persons, as the case may be;
+(d) where shares of the capital stock of a corporation are owned, or deemed by this subsection to be owned, at any time by another corporation (in this paragraph referred to as the “holding corporation”), those shares shall be deemed to be owned at that time by any shareholder of the holding corporation in a proportion equal to the proportion of all those shares that
+(i) the fair market value of the shares of the capital stock of the holding corporation owned at that time by the shareholder is of
+(ii) the fair market value of all the issued shares of the capital stock of the holding corporation outstanding at that time;
+(e) where, at any time, shares of the capital stock of a corporation are property of a partnership, or are deemed by this subsection to be owned by the partnership, those shares shall be deemed to be owned at that time by each member of the partnership in a proportion equal to the proportion of all those shares that
+(i) the member’s share of the income or loss of the partnership for its fiscal period that includes that time is of
+(ii) the income or loss of the partnership for its fiscal period that includes that time
+and for this purpose, where the income and loss of the partnership for its fiscal period that includes that time are nil, that proportion shall be computed as if the partnership had had income for that period in the amount of $1,000,000;
+(f) where shares of the capital stock of a corporation are owned, or deemed by this subsection to be owned, at any time by a trust,
+(i) [Repealed, 2014, c. 39, s. 76]
+(ii) where a beneficiary’s share of the accumulating income or capital therefrom depends on the exercise by any person of, or the failure by any person to exercise, any discretionary power, those shares are deemed to be owned at that time by the beneficiary,
+(iii) in any case where subparagraph (ii) does not apply, a beneficiary is deemed at that time to own the proportion of those shares that the fair market value of the beneficial interest in the trust of the beneficiary is of the fair market value of all beneficial interests in the trust, and
+(iv) in the case of a trust referred to in subsection 75(2), the person referred to in that subsection from whom property of the trust or property for which it was substituted was directly or indirectly received shall be deemed to own those shares at that time; and
+(g) in determining the fair market value of a share of the capital stock of a corporation, all issued and outstanding shares of the capital stock of the corporation shall be deemed to be non-voting.
+ANNEXE II
+RÉFÉRENCE :
+2018 CCI 85
+Nº DU DOSSIER DE LA COUR :
+2017-2518(IT)G
+INTITULÉ DE LA CAUSE :
+MOULES INDUSTRIELS (C.H.F.G.) INC. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Le 17 novembre 2017
+MOTIFS DE JUGEMENT PAR :
+L'honorable Lucie Lamarre, juge en chef adjointe
+DATE DU JUGEMENT :
+Le 3 mai 2018
+COMPARUTIONS :
+Avocats de l'appelante :
+Me Simon Lemieux
+Me Olivier Fournier
+Me Aicha Nafii
+Avocate de l'intimée :
+Me Nathalie Labbé
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom :
+Me Simon Lemieux
+Me Olivier Fournier
+Me Aicha Nafii
+Cabinet :
+Droit fiscal Deloitte S.E.N.C.R.L./ s.r.l.
+Montnréal (Québec)
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Voir doctrine citée par les contribuables à la note 12, page 12 de leurs Représentations écrites : Note 12 : « Voir Martin Lamoureux, « Harmonisation des lois fiscales – La dissociation: un mécanisme d’exception – Partie III », (2002), 23:4, Revue de planification fiscale et successorale, Montréal, Association de planification fiscale et financière, p. 735-748 [tiré de TaxnetPro]; Benoit Mandeville, « Harmonisation des lois fiscales : asymétrie vs uniformisation – Partie 1 », (2002), 23:2, Revue de planification fiscale et successorale, Montréal, APFF, p. 393-405 [tiré de TaxnetPro]; André Ouellette et Mathieu Legris, « La place du droit privé au sein des lois fédérales : l’affaire St-Hilaire et les fiches terminologiques bijuridiques », (2002), 23:1, Revue de planification fiscale et successorale, Montréal, APFF, p.197 216 [tiré de TaxnetPro]; Sandra Hassan, «Bijuridisme et harmonisation : le pourquoi et le comment » , (2000-2001), 22:3, Revue de planification fiscale et successorale, Montréal, Association de planification fiscale et financière, p. 703-711[tiré de TaxnetPro]. »
+[2] Voir Sandra Hassan, note 14, page 12 des Représentations écrites des contribuables ; voir aussi Julie Loranger note 30, page 18 de ces Représentations écrites : Note 14 : « Sandra Hassan avec la collaboration de Chikwa Zahinda, « Harmonisation de la législation fiscale fédérale : Commentaires sur les affaires Fiducie Sylvie Vallée c. Canada et Hewlett Packard Ltd. c. Canada » (2004), 25:2, Revue de planification fiscale et successorale, Montréal, Association de planification fiscale et financière, p. 533-550 [tiré de TaxnetPro]. » Note 30 : « Julie Loranger, « Le fiduciaire : entre le tyran et le serviteur », Service de la formation continue du Barreau du Québec, Développements récents en successions et fiducies, vol 324, Cowansville (Qc), Yvon Blais, 2010. »
+[3] Notes explicatives sur le projet de loi concernant l'impôt sur le revenu publiées par le ministre des finances en juin 1988, aux pages 530-533.
+[4] Guy Laperrière et Yanick Houle, « Sociétés associées : Contrôle direct ou indirect , (2002) 2 RPFS 239, à la page 287.
+[5] Marc D. Léger et Pearl E. Schusheim, « Les fiducies familiales et les règles sur les sociétés associées », Actualités fiscales pour les propriétaires exploitants, janvier 2011, TaxFind.
+[6] Martin Lamoureux, « Harmonisation de la législation fiscale fédérale - Harmonisation des lois fiscales : La dissociation un mécanisme d'exception - Partie III » (2002) 3 RPFS 735, section 3.2.4 -- La dissociation implicite de la part du législateur).
+[7] Fundy Settlement c. Canada, 2010 CAF 309, par.5, [2012] 2 R.C.F. 374, conf. par Fundy Settlement c. Canada, 2012 CSC 14, [2012] 1 R.C.S. 520
+[8] Martin Lamoureux, précité à la note 1
+[9] Ibid, Note 1, à la section 3.2.4
+[10] Réplique des contribuables aux arguments additionnels du procureur général du Canada, par. 17, 22, 23
+[11] Canada, ministère des Finances, Documents budgétaires : Renseignements supplémentaires et Avis de motions des voies et moyens sur le budget (Ottawa, ministère des Finances, 10 février 1988), aux pages 5, 6 et 7)
+[12] Définition de « particulier » à l’article 248 de la LIR.
+[13] Code civil du Québec, L.Q., 1991, c.64
+[14] Notes explicatives sur le projet de loi concernant l'impôt sur le revenu publiées par le ministre des Finances en juin 1988, à la page 533.

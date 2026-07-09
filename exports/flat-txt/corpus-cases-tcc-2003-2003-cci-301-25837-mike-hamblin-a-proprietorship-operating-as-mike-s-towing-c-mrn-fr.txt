@@ -1,0 +1,301 @@
+Title: Mike Hamblin (A proprietorship operating as Mike's Towing) c. MRN
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25837/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-301-25837-mike-hamblin-a-proprietorship-operating-as-mike-s-towing-c-mrn-fr.md
+Document type: case_law
+Last modified: 2003-05-23
+
+# Mike Hamblin (A proprietorship operating as Mike's Towing) c. MRN
+
+- Citation: 2003 CCI 301
+- Decision date: 2003-05-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3908, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mike Hamblin (A proprietorship operating as Mike's Towing) c. MRN
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-05-23
+Référence neutre
+2003 CCI 301
+Numéro de dossier
+2001-4452(EI)
+Juges et Officiers taxateurs
+Michael H. Porter
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2001-4452(EI)
+ENTRE :
+MIKE HAMBLIN (PROPRIÉTAIRE D'UNE ENTREPRISE INDIVUELLE FAISANT AFFAIRE SOUS LE NOM DE MIKE'S TOWING),
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+_________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de Mike Hamblin (propriétaire d'une entreprise individuelle faisant affaire sous le nom de Mike's Towing) (dossier numéro 2001-4453(CPP)) les 10 et 13 décembre 2002 à Edmonton (Alberta)
+Devant : L'honorable juge suppléant Michael H. Porter
+Comparutions
+Représentante de l'appelant :
+Charlotte Hamblin
+Avocate de l'intimé :
+Me Carla Lamash
+__________________________________________________________________
+JUGEMENT
+L'appel est admis et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations conformément aux motifs du jugement ci-joints.
+Signé à Calgary (Alberta), ce 23e jour de mai 2003.
+« Michael H. Porter »
+J.S.C.C.I.
+Traduction certifiée conforme
+ce 22e jour de janvier 2004.
+Nancy Bouchard, traductrice
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2001-4453(CPP)
+ENTRE :
+MIKE HAMBLIN (PROPRIÉTAIRE D'UNE ENTREPRISE INDIVUELLE FAISANT AFFAIRE SOUS LE NOM DE MIKE'S TOWING),
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+__________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de Mike Hamblin (propriétaire d'une entreprise individuelle faisant affaire sous le nom de Mike's Towing) (dossier numéro 2001-4452(EI)) les 10 et 13 décembre 2002 à Edmonton (Alberta)
+Devant : L'honorable juge suppléant Michael H. Porter
+Comparutions :
+Représentante de l'appelant :
+Charlotte Hamblin
+Avocate de l'intimé :
+Me Carla Lamash
+_________________________________________________________________
+JUGEMENT
+L'appel est admis en partie et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations conformément à la pièce A-4 reproduite et jointe aux présents motifs du jugement.
+Signé à Calgary (Alberta), ce 23e jour de mai 2003.
+« Michael H. Porter »
+J.S.C.C.I.
+Traduction certifiée conforme
+ce 22e jour de janvier 2004.
+Nancy Bouchard, traductrice
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2001-4453(CPP)
+ENTRE :
+MIKE HAMBLIN (PROPRIÉTAIRE D'UNE ENTREPRISE INDIVUELLE FAISANT AFFAIRE SOUS LE NOM DE MIKE'S TOWING),
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+_________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de Mike Hamblin (propriétaire d'une entreprise individuelle faisant affaire sous le nom de Mike's Towing) (dossier numéro 2001-4452(EI)) les 10 et 13 décembre 2002 à Edmonton (Alberta)
+Devant : L'honorable juge suppléant Michael H. Porter
+Comparutions
+Représentante de l'appelant :
+Charlotte Hamblin
+Avocate de l'intimé :
+Me Carla Lamash
+__________________________________________________________________
+JUGEMENT
+L'appel est admis en partie et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations conformément à la pièce A-4 reproduite et jointe aux présents motifs du jugement.
+Signé à Calgary (Alberta), ce 23e jour de mai 2003.
+« Michael H. Porter »
+J.S.C.C.I.
+Traduction certifiée conforme
+ce 22e jour de janvier 2004.
+Nancy Bouchard, traductrice
+Référence : 2003CCI301
+Date : 20030523
+Dossier : 2001-4452(EI)
+ENTRE :
+MIKE HAMBLIN (PROPRIÉTAIRE D'UNE ENTREPRISE INDIVIDUELLE FAISANT AFFAIRE SOUS LE NOM DE MIKE'S TOWING),
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+[TRADUCTION FRANÇAISE OFFICIELLE]
+ET
+Dossier : 2001-4453(CPP)
+MIKE HAMBLIN (PROPRIÉTAIRE D'UNE ENTREPRISE INDIVIDUELLE FAISANT AFFAIRE SOUS LE NOM DE MIKE'S TOWING),
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant Porter, C.C.I.
+[1] Les présents appels ont été entendus sur preuve commune sur consentement des parties, à Edmonton, en Alberta, les 10 et 13 décembre 2002.
+[2] L'appelant n'a pas comparu en personne mais était représenté lors de l'audition des présents appels par son ex-épouse, Charlotte Hamblin, qui a travaillé avec lui dans l'entreprise pendant la période pertinente et qui était personnellement au courant des faits.
+[3] L'appelant a interjeté appel à l'encontre de la décision du ministre du Revenu national (le « ministre » ) datée du 24 août 2001 selon laquelle il avait confirmé les cotisations au Régime de pensions du Canada ainsi que les cotisations d'assurance-emploi datées du 22 décembre 2000 établies à son égard de la façon suivante :
+ANNÉE RPC A.-E.
+1999 1 675,30 $ 1 903,72 $
+à l'égard des travailleurs suivants : Vince Barone, Daved Hughes, Kevin Klymok, Stan Lowe, James Svekla, Kalvin Wersgerber
+2000 1 498,46 $ 1 455,37 $
+à l'égard des travailleurs suivants : Vince Barone, Steven Faemel, Levi Gallant, Wayne Henry, Daved Hughes, Kevin Klymok, Pasquelino Santoro
+Selon les motifs de cette décision, les travailleurs en question étaient engagés en vertu de contrats de louage de services et, par conséquent, ils étaient des employés de l'appelant. On a indiqué que cette décision avait été rendue en vertu du paragraphe 27.2(3) du Régime de pensions du Canada (le « RPC » ) et de l'article 93 de la Loi sur l'assurance-emploi (la « Loi sur l'a.-e. » ). Elle était également fondée sur l'alinéa 6(1)a) du RPC et de l'alinéa 5(1)a) de la Loi sur l'a.-e.
+[4] Les faits pertinents révèlent que l'appelant, pendant les périodes en cause, soit pendant l'année civile 1999 et du 1er janvier au 30 novembre 2000, exploitait une entreprise de dépanneuse dans la ville d'Edmonton, en Alberta. Aux fins d'exploitation de son entreprise, il a engagé les travailleurs en cause pour conduire ses diverses dépanneuses. Les ententes étaient conclues verbalement et rien n'était formulé par écrit. Le ministre a décidé que lesdits travailleurs étaient des employés engagés en vertu de contrats de louage de services. Quant à l'appelant, il soutient qu'ils étaient des entrepreneurs indépendants engagés en vertu de contrats d'entreprise et que, par conséquent, ils n'occupaient pas un emploi assurable ou ouvrant droit à pension. Voilà donc la question principale en litige que la présente Cour est appelée à trancher.
+[5] La deuxième question en litige que la présente Cour est également appelée à trancher concerne le montant des cotisations qui, comme l'a prétendu Mme Hamblin au nom de l'appelant, ont été incorrectement calculées. De plus, toujours selon Mme Hamblin, par moments certains travailleurs n'étaient même pas engagés pour travailler. Au cours du procès, les parties, sur les instances de la Cour, ont entamé des négociations concernant le calcul des cotisations et sont parvenues à une entente aux fins de règlement de ces litiges, comme il est indiqué dans la pièce A-4 ci-jointe déposée devant la Cour.
+[6] La Cour a indiqué qu'à son avis, l'appelant ne pouvait pas obtenir un règlement favorable en ce qui concerne la principale question en litige pour les motifs qui seront énoncés par écrit. Cependant, elle a ajouté que les cotisations devraient être déférées au ministre pour nouvel examen et nouvelles cotisations, conformément aux calculs qui figurent dans la pièce A-4. Je me pencherai maintenant sur les raisons pour lesquelles la Cour est d'avis que les travailleurs en question étaient des employés engagés en vertu de contrats de louage de services et non des entrepreneurs indépendants engagés en vertu de contrats d'entreprise.
+Le droit
+Contrats de louage de services ou contrats d'entreprise
+[7] Les propos qu'a tenus le juge MacGuigan de la Cour d'appel fédérale dans l'arrêt Wiebe Door Services Ltd. c. M.R.N., [1986]3 C.F. 553 (87 DTC 5025) servent depuis longtemps de fondement lorsqu'il s'agit de déterminer la façon dont doit procéder la Cour pour décider si des modalités de travail particulières constituent un contrat de louage de services donnant lieu, par conséquent, à une relation employeur-employé ou un contrat d'entreprise donnant lieu, par conséquent, à une relation d'entrepreneur indépendant. Par la suite, dans d'autres décisions, la Cour s'est étendue davantage sur le sujet et a expliqué plus en détail le raisonnement appliqué dans cette affaire, notamment dans les affaires Moose Jaw Kinsmen Flying Fins Inc. c. M.R.N., C.A.F., n ° A-531-87, 15 janvier 1988 (88 DTC 6099), Charbonneau c. Canada (M.R.N.),[1996] A.C.F. n ° 1337, et Vulcain Alarme Inc. c. Le ministre du Revenu national, C.A.F., n ° A-376-98,249 N.R. 1), qui tous ont fourni, aux cours de premières instances, des lignes directrices utiles lorsqu'il s'agit de rendre une décision dans des affaires semblables.
+[8] La Cour suprême du Canada a de nouveau examiné la question dans l'affaire 671122 Ontario Limited c. Sagaz Industries Canada Inc., [2001] A.C.S. no 61 SCC 59, 274 N.R. 366). La question en litige dans cette affaire a été analysée dans le contexte de la responsabilité du fait d'autrui. Cependant, la Cour a reconnu que les mêmes critères s'appliquaient dans de nombreuses autres circonstances, notamment en matière de dispositions législatives sur l'emploi. Le juge Major, parlant au nom de la Cour, a approuvé l'approche qu'a adoptée le juge MacGuigan dans l'arrêt Wiebe Door (précité), lorsque ce dernier a analysé des causes canadiennes, britanniques et américaines et, en particulier, il a mentionné les quatre critères sur lesquels on doit s'appuyer pour rendre une telle décision, critères qui sont énoncés par lord Wright dans l'affaire City of Montreal v. Montreal Locomotive Works Ltd.,[1974] 1 D.L.R. 161 aux pages 169 et 170. Le juge MacGuigan a conclu à la page 560 (DTC : à la page 5028) que :
+Dans ce contexte, les quatre critères établis par lord Wright constituent une règle générale, et même universelle, qui nous oblige à « examiner l'ensemble des divers éléments qui composent la relation entre les parties » . Quand il s'est servi de cette règle pour déterminer la nature du lien existant dans l'affaire Montreal Locomotive Works, lord Wright a combiné et intégré les quatre critères afin d'interpréter l'ensemble de la transaction.
+À la page 562 (DTC : à la page 5029), il a déclaré ce qui suit :
+[...] Je considère le critère de lord Wright non pas comme une règle comprenant quatre critères, comme beaucoup l'ont interprété, mais comme un seul critère qui est composé de quatre parties intégrantes et qu'il faut appliquer en insistant toujours sur ce que lord Wright a appelé ci-dessus « l'ensemble des éléments qui entraient dans le cadre des opérations » , et ce, même si je reconnais l'utilité des quatre critères subordonnés. (Je souligne.)
+À la page 563 (DTC : à la page 5030), il a déclaré ce qui suit :
+Il est toujours important de déterminer quelle relation globale les parties entretiennent entre elles [...]
+Il a également observé ce qui suit:
+Quand il doit régler un tel problème, le juge de première instance ne peut se soustraire à l'obligation de peser avec soin tous les facteurs pertinents, [...].
+[9] Monsieur le juge MacGuigan a également déclaré ce qui suit :
+C'est probablement le juge Cooke, dans Market Investigations, Ltd. v. Minister of Social Security, [1968] 3 All E.R. 732, qui, parmi ceux qui ont examiné le problème, en a fait la meilleure synthèse (aux pages 738 et 739) :
+[TRADUCTION] Les remarques de lord Wright, du lord juge Denning et des juges de la Cour suprême des États-Unis laissent à entendre que le critère fondamental à appliquer est celui-ci : « La personne qui s'est engagée à accomplir ces tâches les accomplit-elle en tant que personne dans les affaires à son compte » . Si la réponse à cette question est affirmative, alors il s'agit d'un contrat d'entreprise. Si la réponse est négative, alors il s'agit d'un contrat de service personnel. Aucune liste exhaustive des éléments qui sont pertinents pour trancher cette question n'a été dressée, peut-être n'est-il pas possible de le faire; on ne peut non plus établir de règles rigides quant à l'importance relative qu'il faudrait attacher à ces divers éléments dans un cas particulier. Tout ce qu'on peut dire, c'est qu'il faudra toujours tenir compte du contrôle même s'il ne peut plus être considéré comme le seul facteur déterminant; et que des facteurs qui peuvent avoir une certaine importance sont des questions comme celles de savoir si celui qui accomplit la tâche fournit son propre outillage, s'il engage lui-même ses aides, quelle est l'étendue de ses risques financiers, jusqu'à quel point il est responsable des mises de fonds et de la gestion, et jusqu'à quel point il peut tirer profit d'une gestion saine dans l'accomplissement de sa tâche. L'utilisation du critère général peut être plus facile dans un cas où la personne qui s'engage à rendre le service le fait dans le cadre d'une affaire déjà établie; mais ce facteur n'est pas déterminant. Une personne qui s'engage à rendre des services à une autre personne peut bien être un entrepreneur indépendant même si elle n'a pas conclu de contrat dans le cadre d'une entreprise qu'elle dirige actuellement.
+[10] Dans l'affaire Kinsmen Flying Fins Inc., précitée, la Cour d'appel fédérale a déclaré ce qui suit :
+[...] comme le juge MacGuigan, nous considérons les critères comme des subordonnés utiles pour peser tous les faits relatifs à l'entreprise de la requérante. C'est maintenant l'approche appropriée et préférable pour la très bonne raison que dans une cause donnée, et celle-ci peut très bien en être une, un ou plusieurs des critères peuvent être peu ou pas applicables. Pour rendre une décision, il faut donc considérer l'ensemble de la preuve en tenant compte des critères qui peuvent être appliqués et donner à toute la preuve le poids que les circonstances peuvent exiger.
+[11] Essentiellement, les critères qu'a mentionnés la Cour peuvent se résumer ainsi :
+a) le degré ou l'absence de contrôle de la part du prétendu employeur;
+b) la propriété des instruments de travail;
+c) les chances de profits;
+d) les risques de perte.
+En outre, la Cour doit considérer la question de l'intégration, le cas échéant, du travail du prétendu employé dans l'entreprise du prétendu employeur.
+[12] Dans l'arrêt Sagaz (précité), le juge Major a affirme ceci :
+Le contrôle [...] n'est pas le seul facteur à considérer pour décider si un travailleur est un employé ou un entrepreneur indépendant [...]
+[13] Il a traité également du caractère inadéquat que revêt le critère relatif au « degré de contrôle » en approuvant de nouveau les propos du juge MacGuigan dans l'arrêt Wiebe Door (précité). Ainsi :
+[...] Ce critère a le grave inconvénient de paraître assujetti aux termes exacts du contrat définissant les modalités du travail : si le contrat contient des instructions et des stipulations détaillées, comme c'est chose courante dans les contrats passés avec un entrepreneur indépendant, le contrôle ainsi exercé peut être encore plus rigoureux que s'il résultait d'instructions données au cours du travail, comme c'est l'habitude dans les contrats avec un préposé, mais une application littérale du critère pourrait laisser croire qu'en fait, le contrôle exercé est moins strict. En outre, le critère s'est révélé tout à fait inapplicable pour ce qui est des professionnels et des travailleurs hautement qualifiés, qui possèdent des aptitudes bien supérieures à la capacité de leur employeur à les diriger.
+[14] Puis il a ajouté ceci :
+À mon avis, aucun critère universel ne permet de déterminer, de façon concluante, si une personne est un employé ou un entrepreneur indépendant. Lord Denning a affirmé, dans l'arrêt Stevenson Jordan, [...] ([1952] 1 The Times L.R. 101), qu'il peut être impossible d'établir une définition précise de la distinction (p. 111) et, de la même façon, Fleming signale que [TRADUCTION] « devant les nombreuses variables des relations de travail en constante mutation, aucun critère ne semble permettre d'apporter une réponse toujours claire et acceptable » (p. 416). Je partage en outre l'opinion du juge MacGuigan lorsqu'il affirme - en citant Atiyah, [...](Vicarious Liability in the Law of Torts. London: Butterworths, 1967) p. 38, dans l'arrêt Wiebe Door, p. 563 - qu'il faut toujours déterminer quelle relation globale les parties entretiennent entre elles :
+[TRADUCTION] [N]ous doutons fortement qu'il soit encore utile de chercher à établir un critère unique permettant d'identifier les contrats de louage de services. [...] La meilleure chose à faire est d'étudier tous les facteurs qui ont été considérés dans ces causes comme des facteurs influant sur la nature du lien unissant les parties. De toute évidence, ces facteurs ne s'appliquent pas dans tous les cas et n'ont pas toujours la même importance. De la même façon, il n'est pas possible de trouver une formule magique permettant de déterminer quels facteurs devraient être tenus pour déterminants dans une situation donnée.
+Bien qu'aucun critère universel ne permette de déterminer si une personne est un employé ou un entrepreneur indépendant, je conviens avec le juge MacGuigan que la démarche suivie par le juge Cooke dans la décision Market Investigations, précitée, est convaincante. La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l'employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s'il engage lui-même ses assistants, quelle est l'étendue de ses risques financiers, jusqu'à quel point il est responsable des mises de fonds et de la gestion et jusqu'à quel point il peut tirer profit de l'exécution de ses tâches.
+Ces facteurs, il est bon de le répéter, ne sont pas exhaustifs et il n'y a pas de manière préétablie de les appliquer. Leur importance relative respective dépend des circonstances et des faits particuliers de l'affaire.
+[15] Je trouve également utile les mots du juge d'appel Décary dans l'affaire Charbonneau (précitée) quand, s'exprimant pour la Cour d'appel fédérale, il a déclaré ce qui suit :
+Les critères énoncés par cette Cour [...], ne sont pas les recettes d'une formule magique. Ce sont des points de repère qu'il sera généralement utile de considérer, mais pas au point de mettre en péril l'objectif ultime de l'exercice qui est de rechercher la relation globale que les parties entretiennent entre elles. Ce qu'il s'agit, toujours, de déterminer, une fois acquise l'existence d'un véritable contrat, c'est s'il y a, entre les parties, un lien de subordination tel qu'il s'agisse d'un contrat de travail [...] ou s'il [y a] [...] un degré d'autonomie tel qu'il s'agisse d'un contrat d'entreprise ou de service [...]. En d'autres termes, il ne faut pas [...] examiner les arbres de si près qu'on perde de vue la forêt. Les parties doivent s'effacer devant le tout. (Je souligne)
+[16] Je fais également miens les mots du juge d'appel Létourneau dans l'affaire Vulcain Alarme (précitée), où il a déclaré ce qui suit :
+[...] Ces critères jurisprudentiels sont importants mais, faut-il le rappeler, ils ne sauraient compromettre le but ultime de l'exercice, soit d'établir globalement la relation entre les parties. Cet exercice consiste à déterminer s'il existe entre les parties un lien de subordination tel qu'il faille conclure à l'existence d'un contrat de travail au sens de l'article 2085 du Code civil du Québec ou s'il n'existe pas plutôt entre celles-ci ce degré d'autonomie qui caractérise le contrat d'entreprise ou de service [...].
+[17] Je suis d'autant plus conscient que conséquemment aux décisions qu'a récemment rendues la Cour d'appel fédérale dans les affaires Wolf c. Canada, [2002] A.C.F. n ° 375 et Precision Gutters Ltd. c. Canada (Ministre du Revenu national - M.R.N.), [2002] A.C.F. n ° 771, il semble que l'on permette dorénavant un degré de latitude considérable lorsqu'il s'agit d'intervenir en matière de jurisprudence afin de permettre aux experts-conseils d'être engagés de manière à ce qu'ils ne soient pas réputés être des employés, comme cela aurait pu être le cas auparavant. Je tiens particulièrement compte des propos du juge Décary dans la décision Wolf (précitée) lorsqu'il a déclaré ceci :
+De nos jours, quand un travailleur décide de garder sa liberté pour pouvoir signer un contrat et en sortir pratiquement quand il le veut, lorsque la personne qui l'embauche ne veut pas avoir de responsabilités envers un travailleur si ce n'est le prix de son travail et lorsque les conditions du contrat et son exécution reflètent cette intention, le contrat devrait en général être qualifié de contrat de service. Si l'on devait mentionner des facteurs particuliers, je nommerais le manque de sécurité d'emploi, le peu d'égard pour les prestations salariales, la liberté de choix et les questions de mobilité. (Je souligne.)
+[18] Il semble donc à la présente Cour que le pendule ait repris son mouvement de balancier de manière à permettre aux parties de diriger leurs affaires plus facilement relativement aux emplois d'expert-conseil et de manière à ce qu'elles soient en mesure de se ranger elles-mêmes dans la catégorie des entrepreneurs autonomes plutôt que dans la catégorie des employés engagés en vertu d'un contrat de louage de services, et ce, sans qu'interviennent la Cour et le ministre.
+[19] En conclusion, il n'existe aucune formule établie. Tous ces facteurs doivent être pris en compte et comme l'a indiqué le juge Major dans l'arrêt Sagaz (précité), le poids que l'on accordera à chacun de ces facteurs dépendra des circonstances et des faits particuliers de l'affaire en cause. De nombreux critères peuvent être tout à fait neutres et s'appliquer à ces deux situations. Dans pareil cas, l'on doit sérieusement tenir compte de l'intention des parties, tâche qui relève de la responsabilité du juge de première instance.
+[20] J'ai également tenu compte des diverses autres décisions faisant autorité qu'ont présentées l'avocate et le ministre devant la Cour, notamment l'affaire Kreutz c. M.R.N., [2002] A.C.F. no 351 (C.A.F.), Custom Auto Carriers Ltd. c. M.R.N., [1998] A.C.I. no 936 (C.C.I), Johnson v. M.N.R., [1991] T.C.J. No. 728 (C.C.I.), Always Towing Services (Windsor) Ltd. c. M.R.N., [2000] A.C.I. no 494 (C.C.I.) et Guerriero c. M.R.N., [1987] A.C.I. no 821 (C.C.I.).
+Les faits
+[21] On a indiqué que le ministre, dans ses Réponses aux avis d'appel signées en son nom, s'est appuyé sur les hypothèses de fait suivantes que l'appelant a admises ou niées, comme il est indiqué entre parenthèses :
+[traduction]
+a) l'appelant exploite une entreprise de dépanneuse; (admise)
+b) les travailleurs ont été embauchés comme conducteurs de dépanneuses et leurs tâches consistaient notamment à remorquer, à faire du démarrage-secours, à récupérer et à déplacer des véhicules automobiles; (admise, à condition que le terme anglais « hired » (embauchés) ait la même signification que le terme anglais « engaged » (engagés))
+c) les travailleurs fournissaient leurs services sur le terrain; (admise)
+d) les travailleurs percevaient un taux de rémunération fixe correspondant à 30 p. 100 de la facturation; (niée)
+e) l'appelant établissait le taux de traitement; (niée)
+f) l'appelant contrôlait les taux de facturation; (niée)
+g) l'appelant rémunérait les travailleurs toutes les semaines ou toutes les deux semaines, selon le cas; (admise)
+h) l'appelant exerçait un contrôle sur la perception et le débours des sommes dues; (niée)
+i) les travailleurs ne facturaient pas de TPS à l'appelant; (admise)
+j) l'appelant obtenait des contrats de travail et les assignait; (niée)
+k) l'appelant fournissait des services de répartition; (admise)
+l) le répartiteur transmettait les directives aux travailleurs; (niée)
+m) les travailleurs communiquaient avec l'appelant par radio; (admise, mais seulement à l'occasion)
+n) l'appelant s'attendait à ce que ses dépanneuses soient sur la route et qu'elles génèrent des revenus; (admise)
+o) l'appelant se réservait le droit d'exercer un contrôle sur les travailleurs; (niée)
+p) l'appelant devait donner son autorisation si les travailleurs voulaient engager des conducteurs pour les remplacer; (niée)
+q) les travailleurs n'exploitaient pas une entreprise à leur compte; (niée)
+r) l'appelant fournissait les outils et l'équipement nécessaire, y compris les dépanneuses et les accessoires nécessaires au remorquage; (niée)
+s) les travailleurs fournissaient leurs propres vêtements de travail ainsi que quelques outils à main; (admise)
+t) l'appelant fournissait une assurance automobile; (admise)
+u) l'appelant couvrait tous les coûts d'exploitation, notamment les frais liés à l'achat d'essence, au changement d'huile, au nettoyage et à l'entretien général des véhicules; (niée)
+v) les travailleurs n'étaient pas tenus d'engager des frais d'exploitation dans l'exécution de leurs fonctions. (niée)
+[22] L'appelant a nié l'hypothèse énoncée au point w), mais selon l'entente qu'ont conclue les parties, elle n'est pas pertinente à la décision que la Cour doit rendre en l'espèce.
+[23] L'appelant était surtout en désaccord avec les hypothèses de fait énoncées aux points e), f), j), l) et r) qui, selon Mme Hamblin, supposaient un partage entre l'appelant et les travailleurs. Dans l'ensemble, je suis convaincu que Mme Hamblin était un témoin honnête, bien que quelque peu confuse et, sauf lorsque j'ai formulé des commentaires particuliers à cet égard, je n'ai aucune difficulté à admettre son témoignage sur ces questions.
+[24] En ce qui concerne les hypothèses énoncées aux points d), e) et f) selon lesquelles le ministre a conclu que l'appelant établissait les taux de traitement, la preuve a démontré que les parties avaient convenu de se partager toutes les recettes découlant des services de remorquage dans une proportion de 70 p. 100 contre 30 p. 100 au moyen du système de répartition que fournissait l'appelant. De plus, Mme Hamblin a présenté un témoignage qui a été appuyé dans une certaine mesure par celui de Vince Barone, l'un des conducteurs. Ainsi, selon ces deux témoignages, les conducteurs pouvaient obtenir leur propre travail autrement qu'au moyen du système de répartition. Toutefois, à cet égard, les deux témoignages divergent et démontrent, dans une certaine mesure, que le système en question était quelque peu désordonné. Mme Hamblin a indiqué que les conducteurs pouvaient établir, sans ayant recours au système de répartition, leurs propres taux pour tous les remorquages qu'ils effectuaient, qu'ils pouvaient percevoir en espèces le paiement des services fournis et qu'ils pouvaient garder cet argent pour eux. Elle a ajouté qu'elle n'était pas mise au courant lorsqu'une telle situation survenait et que, par conséquent, elle ne tentait pas d'assurer un contrôle à cet égard. Elle a décrit cela comme « un petit surplus » pour les conducteurs. Quant à Vince Barone, bien qu'il ait admis que certains conducteurs gardaient ces sommes versées en espèces, il a affirmé qu'il rendait compte à l'appelant des sommes qu'il percevait de cette manière. Selon ce que j'ai saisi, cet argent pouvait servir à acheter de l'essence ou à couvrir les coûts liés au changement d'huile, aux réparations mineures et à l'entretien des véhicules que les conducteurs effectuaient eux-mêmes.
+[25] Des sommes versées sous différentes formes passaient entre les mains des conducteurs et, à cet égard, l'appelant n'avait aucun contrôle sur la rémunération qu'ils percevaient, ce qui concerne aussi l'hypothèse énoncée au point h) puisque l'appelant ne contrôlait pas totalement la perception et le débours des sommes dues. À mon avis, ce système, dans son ensemble, était très désordonné et mal organisé.
+[26] De même, en ce qui concerne l'hypothèse énoncée au point j), l'appelant n'obtenait ni n'assignait tout le travail. Il en obtenait et l'assignait au moyen du système de répartition. Cependant, les conducteurs en obtenaient beaucoup directement, de sorte que personne ne sait vraiment quelles étaient les sommes que représentait ce travail, le cas échéant, pour une journée donnée.
+[27] Mme Hamblin a nié l'allégation selon laquelle l'appelant se réservait le droit d'exercer un contrôle sur les travailleurs (point o)). Selon la preuve, il est clair que la plupart du temps les travailleurs étaient laissés à eux-mêmes. Cependant, ils avaient en leur possession les dépanneuses qui appartenaient à l'appelant, et je ne peux pas croire que ce dernier ne pouvait, à un moment ou l'autre, rappeler ces camions, ce qui, bien entendu, aurait consisté en un degré ultime de contrôle exercé par l'employeur. De plus, la preuve démontre clairement que les appels qui étaient répartis entre les travailleurs avaient priorité sur le travail qu'obtenaient les conducteurs eux-mêmes. Par conséquent, je suis convaincu que le ministre était justifié d'énoncer l'hypothèse de fait à cet égard.
+[28] En ce qui concerne les conducteurs remplaçants (point p)), il semble, selon la preuve, que les conducteurs s'échangeaient de nombreux services dans un sens ou dans l'autre. Toutefois, aux fins d'assurance, ils devaient obtenir au préalable l'autorisation de l'assureur par l'entremise de l'appelant et, conséquemment, celle de l'appelant. Ils ne pouvaient pas simplement remettre les dépanneuses à quelqu'un d'autre sans d'abord le mentionner à l'appelant pour que celui leur accorde son autorisation.
+[29] En ce qui concerne l'hypothèse énoncée au point r), l'appelant fournissait les dépanneuses et l'équipement accessoire de base. Cependant, bon nombre de conducteurs qui étaient des conducteurs de dépanneuse qualifiés fournissaient leur propre équipement qu'ils avaient accumulé au cours des années et qu'ils préféraient utiliser. Ainsi, l'appelant fournissait le matériel principal. De même, certains conducteurs, mais pas tous, fournissaient également du matériel et des outils en quantité assez importante. Toutefois, la preuve n'a pas permis d'établir en détail qui possédait quoi pour un cas donné.
+[30] En ce qui concerne l'hypothèse énoncée au point u) relative aux coûts liés à l'achat d'essence, au changement d'huile, au nettoyage et à l'entretien général des véhicules, il semble qu'il y ait encore plus de confusion. Manifestement, l'appelant effectuait toutes les réparations et tous les travaux d'entretien majeurs. Quant à l'entretien courant des véhicules, qui occasionnait des dépenses mineures, il semble que ce soit les conducteurs qui s'en occupaient en utilisant les sommes en espèces qu'ils percevaient des clients. Quant à savoir si cet argent provenait du 30 p. 100 alloué aux travailleurs, du 70 p. 100 alloué à l'appelant ou d'une autre source, la preuve n'est pas claire à ce sujet. Il provenait probablement de ces trois sources. En général, il semble que ce soit l'appelant qui couvrait les frais liés à l'achat d'essence. Les conducteurs utilisaient les sommes qu'ils avaient pour payer en espèces l'essence et facturaient ensuite l'appelant. Par contre, les conducteurs utilisaient également de temps à autre les véhicules à des fins personnelles, notamment pour conduire des membres de leur famille. Il semble donc que la situation, ici encore, soit assez nébuleuse.
+[31] Il est clair qu'en délivrant des factures aux clients, les conducteurs utilisaient les formulaires que leur fournissait l'appelant et sur lesquels apparaissaient le symbole social ou le nom de ce dernier. Le nom de l'entreprise « Mike's Towing » était également inscrit sur la carrosserie des dépanneuses, et l'appelant remettait aux conducteurs des cartes d'affaires portant le même nom pour qu'ils les distribuent.
+[32] Dans l'ensemble, je conclus que la relation qui existait entre les conducteurs et l'appelant était très confuse et désordonnée. En effet, les conducteurs utilisaient les dépanneuses à des fins personnelles et pouvaient ou non rendre compte à l'appelant de certaines sommes qu'ils percevaient en espèces pour les services qu'ils fournissaient. Selon Mme Hamblin, c'est ce qui donnait aux conducteurs le statut réel d'entrepreneurs indépendants. Cependant, la preuve n'a pas permis d'obtenir des renseignements détaillés, et ses allégations à cet égard ne sont pas tout à fait cohérentes avec le témoignage de M. Barone qui a affirmé qu'il rendait compte à l'appelant des sommes qu'il percevait en espèces.
+[33] En dernière analyse, je conclus que, même si Mme Hamblin a témoigné au meilleur de ses connaissances, elle n'a pas été en mesure de traiter des aspects particuliers relatifs à l'affaire en l'espèce et à cet égard, son témoignage était quelque peu insatisfaisant.
+Application des divers facteurs à la preuve
+[34] Même si l'arrêt qu'a rendu la Cour suprême du Canada dans l'affaire Sagaz, précitée, a peut-être eu pour effet d'amenuiser la nécessité d'examiner le critère composé de quatre parties intégrantes dont il est fait mention dans l'arrêt Wiebe Door, précité, il n'en demeure pas moins, à mon avis, que cette analyse s'avère un exercice utile. D'ailleurs, la Cour d'appel fédérale est du même avis tant dans la décision Wolf que dans la décision Precision Gutters, précitées. L'un de ces critères comporte manifestement des difficultés, mais dans une certaine mesure, ils s'avèrent tout de même utiles pour un juge de première instance, suivant les circonstances.
+[35] Titre : Il est important de bien comprendre que, même si les parties choisissent de donner un titre à leur relation, si la véritable nature et l'essence de l'arrangement ne correspondent pas au titre qu'elles lui ont donné, c'est l'essence de cet arrangement dont doit tenir compte la Cour. Ce principe juridique n'a pas changé (voir Shell Canada Ltd. c. Canada, [1999] A.C.S. no 30). Cela étant dit, il est également juste d'affirmer que, lorsque les parties choisissent vraiment une méthode particulière d'établir leur relation de travail, ce n'est pas au ministre ou à la présente Cour de faire abstraction de ce choix. On doit faire preuve de retenue quant à la méthode qu'ont choisie les parties et si, selon la preuve dans son ensemble, il n'y a aucune raison de déroger au titre qu'ont donné les parties à leur relation, alors ce titre devrait rester intact. Les décisions Wolf et Precision Gutters (précitées) appuient cette assertion.
+[36] Dans l'affaire en l'espèce, l'appelant et les divers conducteurs ont conclu des contrats verbaux dont les dispositions sont loin d'être claires. Bien que Mme Hamblin ait donné à ces ententes le titre de contrat d'entreprise, aucune preuve n'a été présentée à la Cour pour démontrer que les conducteurs considéraient ces ententes de la même manière. Toutefois, je dois examiner tous les autres facteurs afin de déterminer si l'essence de ces ententes concordent avec le contrat écrit.
+[37] Degré de contrôle : Cet aspect du critère, selon son application traditionnelle, tend constamment à démontrer que ce n'est pas tant le contrôle réel exercé qui importe à la Cour, mais plutôt le droit d'exercer ce contrôle. Plus une personne est professionnelle et compétente ou plus elle possède de l'expérience dans son domaine, moins il est nécessaire d'exercer un contrôle réel quelconque, ce qui rend difficile l'application de ce critère. En fait, comme le juge Major l'a mentionné dans l'arrêt Sagaz (précité), il se peut que le contrôle exercé soit moindre dans le cas d'un employé professionnel et compétent que dans le cas d'un entrepreneur indépendant. Néanmoins, il s'agit d'un autre facteur qui fait pencher la balance.
+[38] À mon avis, l'appelant exerçait un certain degré de contrôle sur les conducteurs. Bien qu'ils aient été libres d'obtenir eux-mêmes du travail, notamment si le répartiteur ne leur assignait aucun appel, il est clair qu'ils étaient tenus d'accorder la priorité à ces appels. L'appelant exigeait également qu'ils soient disponibles 24 heures par jour, sept jours par semaine, et s'ils n'étaient pas en mesure de répondre à cette exigence, ils étaient tenus de rapporter la dépanneuse à l'appelant pour qu'il puisse l'assigner à un autre conducteur. Je ne crois pas que les conducteurs pouvaient simplement refuser un appel qui leur était assigné. Si tel avait été le cas, il ne fait aucun doute qu'on leur aurait rapidement retiré leur véhicule.
+[39] Tout bien pesé, ce facteur, à mon avis, tend à démontrer qu'il s'agissait d'un contrat de louage de services conclu avec un employé.
+[40] Outils et équipement de travail : Bien que les conducteurs aient fourni certaines pièces d'équipement de leur choix, le matériel principal était fourni par l'appelant, notamment les dépanneuses. De plus, l'appelant avait doté les véhicules d'un radio avec émetteur-récepteur et fournissait aux conducteurs un téléavertisseur de manière à ce qu'il puisse communiquer avec eux en tout temps. Bien que je songe à la décision Precision Gutters, précitée, tout bien pesé, ce facteur indique, à mon avis, qu'il s'agissait davantage d'une relation employeur-employé que d'une relation avec un entrepreneur indépendant.
+[41] Profits et pertes : Il ne fait aucun doute que les conducteurs étaient libres quant au volume de travail qu'ils acceptaient. S'ils préféraient ne pas travailler, ils rapportaient leur dépanneuse à l'appelant qui l'assignait à un autre conducteur approuvé. Ils avaient également la possibilité d'aller sur la route avec leur dépanneuse et de fournir des services à leur compte, ce qui leur permettait de percevoir des sommes en espèces (dont on ignore le montant) en échange des services qu'ils fournissaient, ce qui comporte, dans une certaine mesure, un aspect entrepreneurial. Cependant, selon le témoignage de M. Barone, il semble qu'ils étaient tout de même tenus de rendre compte à l'appelante des montants ainsi perçus. Pour ce qui est des conducteurs qui possédaient leur propre équipement, ils risquaient d'engager des dépenses en cas de perte ou de dommages touchant cet équipement. Toutefois, aucune preuve précise ne m'a été présentée quant au montant des sommes qu'ils avaient investies ou au nombre de conducteurs qui possédaient leur propre équipement. Par conséquent, bien qu'il y ait ici un élément de profit et de perte, la preuve n'est pas particulièrement éloquente en ce qui concerne l'un ou l'autre de ces critères. À mon avis, s'il existait un élément de preuve quelconque, il tendrait à démontrer qu'il s'agissait d'une relation avec des entrepreneurs indépendants.
+[42] Critère de l'intégration : À cet égard, je le répète, il s'agit, de l'avis des tribunaux, du critère le plus difficile à appliquer. La question que l'on doit fréquemment se poser est la suivante : « à qui appartient l'entreprise? » Manifestement, pour répondre à cette question, on doit examiner la situation du point de vue du travailleur et non du payeur puisque du point de vue de ce dernier, il s'agit toujours de son entreprise. On doit poser cette question dans un contexte qui permet de déterminer si une seule entreprise ou deux entreprises distinctes sont exploitées. En d'autres termes, la personne qui s'est engagée à fournir ces services, les fournit-elle en tant que personne exploitant une entreprise à son propre compte? Si l'on répond à cette question par l'affirmative, alors il s'agit d'un contrat d'entreprise. Par contre, si la réponse est négative, alors il s'agit d'un contrat de louage de services.
+[43] Selon moi, bien que la façon dont certains conducteurs travaillaient pour le compte de l'appelant comporte un certain aspect entrepreneurial, je ne dispose absolument d'aucune preuve quant à la portée de cet aspect. Comme je l'ai mentionné, la relation qui existait entre les conducteurs et l'appelant était confuse. La seule constante concerne le fait que les conducteurs, lorsqu'ils étaient sur la route, conduisaient une dépanneuse sur laquelle était inscrit le nom de l'entreprise de l'appelant et que les factures qu'ils émettaient aux clients portaient le nom de l'appelant. Selon ce que je déduis de la preuve, certains remorquages n'étaient pas facturés et personne ne sait quelles sont les sommes exactes versées en espèces que les conducteurs ont ainsi perçues, ce qui ne les exclut pas pour autant d'une relation employeur-employé, en raison de tout le travail qui a été consigné. Cependant, si je tiens compte du travail qui était accompli, il m'est difficile de les considérer comme des entrepreneurs indépendants, puisque des registres étaient tenus à cet égard et que le travail qui a été accompli faisait, à mon avis, partie intégrante de l'entreprise de l'appelant et non d'une entreprise individuelle qu'exploitait l'un ou l'autre des conducteurs de dépanneuse. Selon les vagues témoignages qui m'ont été présentés, je ne peux conclure que, parce qu'ils ont perçu certaines sommes en espèces pour fournir des services et qu'ils n'en ont pas rendu compte à l'appelant, ils ne sont pas des employés et exploitent plutôt une entreprise à leur compte.
+Conclusion
+[44] Lorsque j'examine la forêt dans son ensemble et non seulement chaque arbre qui la compose, je ne suis pas convaincu, selon la preuve, que l'appelant s'est acquitté du fardeau qui lui incombait de démontrer que le ministre avait commis une erreur dans l'affaire en l'espèce en rendant sa décision. Tout bien pesé, les conditions de travail de base des conducteurs se prêtent davantage à une relation employeur-employé qu'à une relation avec un entrepreneur indépendant. À cela s'ajoute la situation confuse concernant de nombreux services de remorquage qu'ont fournis les conducteurs et pour lesquels ils ont perçu des sommes en espèces et dont, semble-t-il, ils ne rendaient pas compte lorsque aucune facture n'était émise. En ce qui concerne M. Barone, il est clair qu'il rendait compte de ces sommes ainsi perçues, mais selon la preuve, je suis incapable d'établir les montants qu'ont pu obtenir ainsi les autres conducteurs, le cas échéant. Tout bien pesé, si je tiens compte de tous les éléments de preuve, je suis convaincu, selon la prépondérance de la preuve, que les conducteurs étaient engagés en tant qu'employés et non en tant qu'entrepreneurs indépendants et que, par conséquent, ils occupaient un emploi assurable et ouvrant droit à pension pendant la période en question.
+[45] Par conséquent, l'appel est admis et les cotisations sont déférées au ministre pour nouvel examen et nouvelles cotisations conformément à la pièce A-4 reproduite et jointe aux présents motifs du jugement et aux calculs qui y figurent et dont ont convenu les parties.
+Signé à Calgary (Alberta), ce 23e jour de mai 2003.
+« Michael H. Porter »
+J.S.C.C.I.
+Traduction certifiée conforme
+ce 22e jour de janvier 2004.
+Nancy Bouchard, traductrice
+PIÈCE A-4
+2000
+RÉPONSE
+APPELANT
+Vince
+1 516,76 $
+834,60 $
+1 137,57 $
+Steven
+1 870,30 $
+1 004,37 $
+1 402,73 $
+Levi
+2 381,02 $
+1 379,62 $
+1 785,77 $
+Wayne
+2 690,55 $
+1 723,00 $
+2 017,91 $
+Daved
+11 058,22 $
+5 639,87 $
+5 639,87 $
+Kevin
+5 447,33 $
+2 666,71 $
+4 085,50 $
+Pasquelino
+303,00 $
+303,00 $
+303,00 $
+25 267,18 $
+13 551,17 $
+16 372,35 $
+1999
+RÉPONSE
+APPELANT
+Vince
+1 347,80 $
+850,00 $
+1 010,85 $
+Daved
+730,00 $
+617,50 $
+617,50 $
+Kevin
+7 944,29 $
+5 058,34 $
+5 958,22 $
+Stan
+200,00 $
+200,00 $
+200,00 $
+James
+1 461,00 $
+711,00 $
+1 095,75 $
+Kalvin
+17 480,08 $
+8 580,14 $
+8 580,14 $
+29 163,17 $
+16 016,98 $
+17 462,79 $

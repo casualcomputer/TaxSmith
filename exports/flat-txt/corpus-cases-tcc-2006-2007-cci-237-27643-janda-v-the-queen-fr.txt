@@ -1,0 +1,141 @@
+Title: Janda v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27643/index.do
+Corpus path: corpus/cases/tcc/2006/2007-cci-237-27643-janda-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-06-27
+
+# Janda v. The Queen
+
+- Citation: 2007 CCI 237
+- Decision date: 2006-06-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 399, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Janda v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-06-27
+Référence neutre
+2007 CCI 237
+Numéro de dossier
+2004-198(IT)G
+Juges et Officiers taxateurs
+Joe E. Hershfield
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier 2004-198 (IT)G
+RÉFÉRENCE : 2007CCI237
+COUR CANADIENNE DE L’IMPÔT
+LOI DE L’IMPÔT SUR LE REVENU
+ENTRE :
+JASWINDER JANDA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Motifs du jugement
+(Rendus oralement à l’audience par le juge Joe E. Hershfield au
+Service administratif des tribunaux judiciaires, salle d’audience no 6C,
+Centre de la magistrature fédérale, 180, rue Queen Ouest, 6e étage,
+Toronto (Ontario), le vendredi 30 juin 2006 à 13 h 38)
+COMPARUTIONS :
+Pour l’appelant : L’appelant lui-même
+Avocate de l’intimée : Me Lorraine Edinboro
+Également présents :
+M. Colin Nethercut greffier
+M. Robert Lee sténographe judiciaire
+A.S.A.P. Reporting Services Inc. © 2007
+200, rue Elgin, bureau 1004 130, rue King Ouest, bureau 1800
+Ottawa (Ontario) K2P 1L5 Toronto (Ontario) M5X 1E3
+(613) 564-2727 (416) 861-8720
+MOTIFS DU JUGEMENT
+(Révisés à partir de la transcription des motifs rendus oralement à l’audience à Toronto (Ontario), le 30 juin 2006)
+LE JUGE HERSHFIELD : Comme le laisse clairement supposer ce qui s’est produit ce matin, j’ai décidé d’accueillir l’appel en partie. Je vais passer mes conclusions en revue et donner de brefs motifs.
+L’appel en l’espèce est une cotisation d’actif net. Bien que la cotisation ne soit rien de plus qu’une cotisation, l’intimée a fait valoir qu’il y avait une source particulière de revenu non déclaré, calculé sur la base de la valeur nette. Il s’agirait de sommes reçues de la compagnie dont l’appelant est actionnaire.
+L’article sur lequel l’intimée s’appuie est le paragraphe 15(1) de la Loi de l’impôt sur le revenu. Ce paragraphe inclut dans le revenu la valeur de tout avantage conféré à l’appelant à titre d’actionnaire de la compagnie.
+Le ministre a supposé que la compagnie a conféré à l’appelant des avantages d’une valeur de 16 577 $ au cours de l’année d’imposition 1997, de 33 358 $ en 1998, de 26 725 $ en 1999 et de 21 609 $ en 2000, toujours en sa qualité d’actionnaire de la compagnie.
+Il est bien reconnu que les cotisations d’actif net sont un outil imprécis; au mieux, elles établissent approximativement la portion de l’augmentation annuelle de l’actif net d’une personne qui, suivant la prépondérance des probabilités, peut être attribuée à un revenu non déclaré : en l’espèce, ce qui pourrait provenir des fonds que l’appelant a reçus de la compagnie à titre d’actionnaire.
+La méthode de calcul des augmentations annuelles d’actif net est bien établie. Je ne vais ni examiner ni exposer cette méthode, sauf pour dire que la démarche adoptée par l’intimée suit cette méthode reconnue.
+Je note ici que l’appelant a en fait soulevé des questions au sujet de l’hypothèse voulant qu’il soit l’actionnaire à qui les sommes ont été attribuées. Il laisse entendre que l’intimée lui a attribué la totalité du revenu non déclaré de la compagnie, apparemment en supposant qu’il était le seul actionnaire, bien que cette hypothèse n’ait pas été mentionnée dans la réponse.
+L’appelant a déposé une preuve indiquant qu’il n’est actionnaire de la compagnie que pour moitié; une deuxième personne, un certain M. Sangha, est propriétaire de l’autre moitié. Je peux déduire de cette preuve, dont il y a une corroboration suffisante quant au partage égal des actions, que l’appelant voudrait me voir conclure que les sommes conférées auraient dû être attribuées au deuxième actionnaire, au moins dans une certaine mesure.
+Toutefois, je ne suis pas forcé de souscrire à la logique de cette position dans la mesure où la cotisation de l’actif net a été établie pour l’appelant, et non pour la compagnie, et où elle peut être considérée comme reflétant le fait que l’avantage a été conféré à l’appelant seul à titre d’actionnaire de la compagnie. L’appelant est un actionnaire et aucune autre source de revenu ou d’augmentation de l’actif net n’a été établie, à l’exception des sommes reçues de la compagnie, selon ce que révèle la cotisation d’actif net elle-même, et selon ce qui peut être rajusté par la Cour.
+Ceci m’amène donc à examiner les calculs de l’augmentation de l’actif net. L’appelant a fait plusieurs contestations relativement à ces calculs. Tout d’abord, pour ce qui concerne le calcul de la cotisation d’actif net, il faut déterminer quel était l’actif net de l’appelant l’année qui précède la première année visée par la cotisation et que j’appellerai l’année de base.
+Pour cette année de base, il déclare un actif additionnel d’une valeur de 16 000 $. Il s’agit d’une somme à recouvrer d’un ami à qui il prétend avoir prêté de l’argent entre 1990 et 1993. Je traiterai de cette affirmation ci-dessous dans mes motifs.
+Tout d’abord, j’aborderai les années ayant fait l’objet de la cotisation. Dans la première année, soit 1997, l’appelant conteste deux montants : premièrement, son comptable reconnaît que l’appelant devait 100 $ de moins sur sa carte de crédit, et deuxièmement, le comptable, et l’appelant lui-même, prétendent que ses dépenses personnelles ont été moindres au cours de cette année.
+Pour la deuxième année de cotisation, soit 1998, l’appelant conteste le calcul de l’Agence du revenu du Canada (l’« ARC ») en réduisant de 1 000 $ un investissement, en augmentant les dettes de 14 768,97 $, en faisant valoir que ses dépenses personnelles étaient inférieures au montant établi et qu’il a touché un montant d’assurance de 5 700 $, de même qu’un supplément de revenu pour enfants de l’Ontario de 1 100 $.
+Pour la troisième année de cotisation, soit 1999, l’appelant conteste les calculs de l’ARC en augmentant son passif de 13 937,97 $ et, une fois encore, en faisant valoir que ses dépenses personnelles étaient moindres et qu’il a reçu de l’Ontario un supplément de revenu pour enfants de 1 100 $.
+Pour la quatrième et dernière année de cotisation, soit 2000, l’appelant conteste les calculs de l’ARC en augmentant son passif de 2 522,53 $ et, là encore, en affirmant que ses dépenses personnelles ont été inférieures aux calculs.
+Puisque l’appelant conteste le calcul des dépenses personnelles pour toutes les années, je traiterai de cette question en premier. Au cours des années en question, l’appelant a vécu avec son épouse et ses deux jeunes enfants, qui avaient deux et huit ans en 1997. Il habitait un condominium entièrement payé dont il était le propriétaire et il a déclaré dans son témoignage qu’il vivait de façon frugale. Il n’avait pas de voiture, ne dépensait pas pour des sorties ou des loisirs, n’avait pas de facture de dentiste et dépensait à peu près rien pour l’achat d’autres articles généralement considérés comme des dépenses courantes pour une famille de quatre personnes, du moins selon le profil établi par Statistique Canada et utilisé par l’ARC.
+En fait, dans son témoignage livré à l’audience, il a considérablement diminué ses propres estimations qu’il avait données antérieurement au vérificateur. Dans ce témoignage, ses estimations étaient tellement réduites qu’elles semblaient même inférieures au total que son comptable, qui a préparé les rajustements de la cotisation d’actif net au nom de l’appelant, avait calculé pour celui-ci en utilisant ses dépenses personnelles fondées sur les données d’aide sociale de l’Ontario.
+Je tiens à préciser que je rejette les estimations de dépenses personnelles établies par le comptable sur la base de ces données. Je rejette également le témoignage donné à l’audience par l’appelant qui contredit les estimations qu’il a données au vérificateur il y a près de cinq ans.
+Quoi qu’il en soit, le comptable a déclaré que les dépenses personnelles pour 1997 étaient d’environ 15 000 $. Dans ses propres estimations, l’appelant les avait d’abord évaluées à 23 122 $. En 1998, le comptable a donné des estimations de 16 405 $; l’appelant avait d’abord estimé ses dépenses à 23 171,85 $. En 1999, le comptable a établi ces estimations à 15 876,27 $; l’appelant avait estimé ses dépenses à 22 636 $. En 2000, le comptable avait fourni des estimations de 19 665 $; les propres estimations de l’appelant s’établissaient à 23 158 $.
+Les totaux établis par l’ARC, d’après les critères de Statistique Canada, étaient d’environ 29 000 $ par année.
+Je discuterai des questions de crédibilité ci-dessous, mais je note ici que je n’ai pas trouvé crédible le témoignage de l’appelant, quant à ses dépenses personnelles.
+Par ailleurs, étant donné que son condominium est déjà payé, qu’il n’a pas de véhicule personnel et qu’il vit frugalement, ce qui est crédible, du moins dans une certaine mesure, je suis disposé à reconnaître que les dépenses personnelles pour chaque année sont celles qui avaient été évaluées initialement par l’appelant : c’est-à-dire, pour 1997, 23 122 $; pour 1998, 23 978,85 $; pour 1999, 22 636 $ et, pour 2000, 23 158 $.
+Concernant l’augmentation de son passif qui se retrouve dans le calcul révisé de son comptable pour 1998, 1999 et 2000, l’appelant s’appuie en grande partie sur des états de comptes à payer qui ne sont pas des états de fin d’année. À vrai dire, le fait que l’appelant s’appuie sur certains états de mi-année, ou partiels, ajoute de la crédibilité à l’opinion de l’intimée selon laquelle l’appelant continue de s’ancrer dans ce qu’elle considère comme une attitude trompeuse.
+Toutefois, il y a deux états qui montrent le passif à la fin de l’année et qui n’ont pas été reconnus par le vérificateur de l’ARC. Le solde de la MasterCard à la fin de 1998 était de 4 581,87 $. Cela n’a pas été accepté par le vérificateur, bien que celui-ci ait reconnu qu’il l’aurait autorisé s’il l’avait noté au cours de sa vérification. Par conséquent, j’autoriserai ce montant comme augmentation du passif pour 1998.
+Deuxièmement, il y a la dette envers la Banque Scotia, indiquée dans un état de compte de décembre 1999, qui s’élève à 9 487.32 $. Ici encore, je note que le vérificateur de l’ARC n’a pas inclus cette dette et qu’il a déclaré, au cours de son témoignage, qu’il l’aurait autorisée si elle avait été portée à son attention.
+J’autoriserai donc cette somme comme augmentation du passif de l’appelant pour 1999.
+J’aborderai maintenant les autres questions qui, comme je l’ai dit précédemment, reflètent d’autres changements réclamés par l’appelant.
+Pour 1997, je note qu’il y a eu une baisse de 100 $ au titre du passif dans le rapprochement de la cotisation d’actif net fait par le comptable; j’accepte cette diminution.
+En 1998, il y aurait eu une réduction de 1 000 $ au titre d’un investissement mentionné dans la cotisation d’actif net établie par le vérificateur. Le témoignage du vérificateur sur ce point était acceptable et, par conséquent, je ne ferai pas le rajustement de 1 000 $ que demande l’appelant. Le témoignage du vérificateur à cet égard indiquait que la somme de 1 000 $ avait trait à une cotisation au REER pour cette année.
+En outre, en 1998, l’appelant a reconnu que la réclamation de nouveaux produits d’assurance au montant de 5 700 $ qui n’auraient pas été imposables est incorrecte, étant donné que ce montant avait déjà été pris en compte. Par conséquent, ce rajustement est refusé.
+Je crois que c’est à l’égard de 1998 que l’appelant a prétendu avoir reçu un supplément de revenu pour enfants de 1 100 $ de l’Ontario. Mais, en fait, selon l’examen de cette preuve par le vérificateur de l’ARC, la totalité des suppléments de revenu pour enfants avait trait à des années ultérieures, ce qui m’amène à l’année suivante, soit 1999.
+Le montant que le vérificateur a accepté au titre du supplément de revenu pour enfants de l’Ontario pour cette année s’établirait à 550 $. Par conséquent, j’autorise ce rajustement à titre de somme non imposable.
+Pour 2000, il y a un autre montant au titre du supplément de revenu pour enfants de l’Ontario, soit 1 100 $, que j’accepte comme étant une somme non imposable.
+Je crois qu’il reste le prêt de 16 000 $ que l’appelant a consenti à un ami et qu’il a ajouté à l’actif de son année de base 1996. Ici, la crédibilité des témoins est très importante. L’appelant et son ami ont tous deux déclaré dans leur témoignage que le prêt avait été fait. Toutefois, je conclus que le témoignage n’est absolument pas convaincant. En fait, si l’on devait faire la preuve hors de tout doute raisonnable, j’en arriverais à la conclusion que la Couronne m’a convaincu hors de tout doute raisonnable que ces prêts n’ont pas été faits pour les montants indiqués ou aux dates mentionnées ou selon les conditions qui ont été énumérées dans les témoignages de l’appelant et de son témoin.
+Il peut y avoir eu des prêts, mais il est tout à fait impossible de croire qu’ils ont été consentis pour les sommes et aux dates mentionnées. Il y a un billet à ordre qui, à première vue, a été signé en août 1993, et pourtant, le créancier de ce billet, M. Nijjar, l’ami qui prétend avoir emprunté l’argent de l’appelant, a fait une déclaration tout à fait contradictoire quant à la date de la signature.
+De même, l’appelant prétend que son associé, M. Sangha, a été témoin à la signature de ce billet. La déclaration de l’appelant sur ce point a été faite au cours de son interrogatoire préalable. Toutefois, quand M. Sangha a témoigné, il a nié avoir été témoin.
+En outre, même si M. Nijjar avait signé le billet en 1993, ce que je n’accepte absolument pas, il me paraît étrange qu’il ne l’ait pas signé dès le versement de la première avance, qui aurait été faite en 1990. En fait, il s’agissait de la partie la plus importante de l’avance alléguée, soit 10 000 $ sur 16 000 $.
+S’il avait accepté de signer un billet à l’égard de ces prêts, pourquoi n’a-t-il signé le billet pour la partie la plus importante de ce prêt que quelque trois années plus tard? Cela est pour moi inexplicable. Ces avances ne sont pas seulement éloignées dans le temps, mais elles n’ont pas la même raison d’être; tout à coup, un billet fait son apparition.
+En outre, je note que M. Nijjar a signé une déclaration sous serment selon laquelle il aurait reçu les avances à des dates différentes de celles qu’il a indiquées, sous serment, à la Cour. Prétendre en Cour, comme il l’a fait, qu’il se souvient maintenant des dates exactes d’une avance qui a été versée il y a 16 ans, sans consulter son propre dossier, fait clairement ressortir que son témoignage a été bien préparé.
+En fait, il a été démontré à l’audience que M. Nijjar était bien préparé quand il a changé sa réponse à une question après que l’appelant lui eut posé une question suggestive pour lui faire dire que sa déclaration sous serment était simplement une erreur d’écriture.
+De même, l’intimée soulève des questions concernant la provenance possible de l’argent, c’est-à-dire des 16 000 $. L’appelant a déclaré des revenus minimes pour les années antérieures ou au cours des années en question; il a payé un condominium de 80 000 $; il a acheté un camion de 44 000 $ et il subvient aux besoins de sa famille. Son revenu de 1990 à 1994, y compris celui de son épouse, totalise moins de 20 000 $, selon ses déclarations. Il s’agit là de la somme totale que l’appelant et son épouse ont déclarée pour ces quatre années.
+À l’interrogatoire préalable, l’appelant a déclaré que les prêts étaient constitués de prestations fiscales pour enfants, de remboursements de TPS et de salaires. Aucune de ces sommes – et il y a des preuves des prestations reçues au cours de ces années – aucune de ces sommes ne semble suffisante pour payer les dépenses de la famille, les dépenses personnelles de la famille, et encore moins pour financer ces types de prêt à son ami.
+En outre, je note que toute cette histoire de prêt a mis quelque cinq années à être révélée, depuis la vérification en 1991 jusqu’à l’interrogatoire préalable en 2005.
+Comme je l’ai dit, d’après cette preuve, la date à laquelle le prêt aurait été consenti, les montants déboursés et les circonstances et les conditions dans lesquelles il aurait été fait semblent tout à fait improbables. En fait, comme je l’ai déjà indiqué, je pense que la crédibilité de l’appelant sur ce point est entachée au point que je serais justifié d’en arriver à la conclusion que je suis convaincu, hors de tout doute raisonnable, que le prêt de 16 000 $, décrit par l’appelant, n’existe pas.
+Enfin, je note que l’année 1997 a fait l’objet d’une cotisation au-delà de la période normale de cotisation. L’ARC a respecté les conditions nécessaires pour agir de la sorte; l’intimée s’est acquittée du fardeau de la preuve qui lui incombait à cet égard.
+De même, il y a eu des pénalités imposées aux termes du paragraphe 163(2). Le ministère a le fardeau de la preuve au regard de l’évaluation de ces pénalités et il s’est acquitté de ce fardeau tant pour justifier le dépassement de la période normale de cotisation que l’évaluation des pénalités.
+Je suis d’avis que l’appelant a sciemment déclaré des revenus erronés pour toutes les années en cause.
+Voilà qui met fin à mon jugement et à mes motifs, bien qu’il y ait un poste qui a fait l’objet d’une question de l’avocat de l’intimée au vérificateur, au tout début du témoignage de ce dernier, et le vérificateur aurait reconnu l’existence d’un autre montant (qui a été accordé en 2000). Je n’en ai pas encore parlé.
+…
+DISCUSSION AVEC L’AVOCAT DE L’INTIMÉE
+…
+LE JUGE HERSHFIELD :
+Laissez-moi récapituler depuis le début, en commençant par 1997 : pour 1997, les dépenses personnelles sont rajustées à 23 122 $.
+De même, pour 1997, le passif est réduit de 100 $. Je crois qu’il s’agit là des deux seuls rajustements pour 1997.
+Pour 1998, les dépenses personnelles sont rajustées, c’est-à-dire qu’elles sont réduites à 23 171,85 $. Il y a également une augmentation de 4 581,87 $ du passif pour 1998. Je crois que c’est tout pour 1998.
+Pour ce qui est de 1999, les dépenses personnelles sont réduites à 22 636 $ et le passif de cette année est augmenté de 9 487,32 $. De même, pour 1999, il y a une augmentation d’une source non imposable, soit le supplément de revenu pour enfants de l’Ontario, de 550 $. Je crois que c’est tout pour 1999.
+Ceci nous amène à 2000. Les dépenses personnelles sont réduites à 23 158 $ ... et je crois qu’il faut lire 30 cents, et les investissements sont réduits à 21 282,01 $, et il y a une somme non imposable de 1 100 $ au titre du supplément de revenu pour enfants de l’Ontario.
+Je crois que c’est tout.
+Traduction certifiée conforme
+ce 27e jour de mars 2008.
+Maurice Audet, réviseur
+RÉFÉRENCE : 2007CCI237
+No DU DOSSIER DE LA COUR : 2004-198(IT)G
+INTITULÉ : Jaswinder Janda
+c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 30 juin 2006
+MOTIFS DU JUGEMENT : L’honorable juge
+J.E. Hershfield
+DATE DU JUGEMENT ORAL : Le 30 juin 2006
+COMPARUTIONS :
+Pour l’appelant : L’appelant lui-même
+Avocate de l’intimée : Me Lorraine Edinboro
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur du Canada
+Ottawa, Canada

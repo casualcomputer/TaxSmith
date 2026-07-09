@@ -1,0 +1,156 @@
+---
+title: "Nerbas v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25971/index.do"
+last_modified: "2004-05-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 382"
+citation2: ""
+neutral_citation: "2004 TCC 382"
+decision_date: "2004-05-19"
+language: "en"
+item_id: "25971"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3769
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:26:22.824000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "31f7629597e1b03dcf444430e5aed5862b6461f25c6f653aaa6f16c835fa4172"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Nerbas v. The Queen
+
+- Citation: 2004 TCC 382
+- Decision date: 2004-05-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3769, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Nerbas v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-05-19
+Neutral citation
+2004 TCC 382
+File numbers
+2003-2723(IT)I
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-2723(IT)I
+BETWEEN:
+ARMIN NERBAS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 11, 2004, at Vancouver, British Columbia.
+Before: The Honourable Justice Gerald J. Rip
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Gavin Laird
+____________________________________________________________________
+JUDGMENT
+The appeal from the determination of the Minister of National Revenue for the period December 27, 2001 to April 30, 2002, with respect to the Child Tax Benefits for the 2000 base year, is dismissed.
+Signed at Ottawa, Canada, this 19th day of May, 2004.
+"Gerald J. Rip"
+Rip. J.
+Citation: 2004TCC382
+Date: 20040519
+Docket: 2003-2723(IT)I
+BETWEEN:
+ARMIN NERBAS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Rip, J.
+[1] Armin Nerbas appeals a determination by the Minister of National Revenue that he was not the "eligible individual" within the meaning of section 122.6 of the Income Tax Act ("Act") in respect of his daughter Stevie Nerbas ("Stevie"), a "qualified dependent" [within the meaning of section 122.6], during the period December 27, 2001 to April 30, 2002 and is thus not eligible to receive the Canada Child Tax Benefit ("C.T.B.") claimed by him.
+[2] Mr. Nerbas, Coreen Tantrum (Stevie's mother) and Stevie testified at trial. The facts set forth by Mr. Nerbas and Ms. Tantrum were contradictory. Stevie, who was 17 years of age at the time of trial, testified in support of her father. Obviously, if I accept the evidence of Mr. Nerbas, I must find that Ms. Tantrum's evidence was a collection of lies. And if I accept Ms. Tantrum's evidence, it must follow that Mr. Nerbas lied. As far as Stevie is concerned, the evidence before me strongly suggests that in the past eight years or so, that is, since her parents separated and entered into an ongoing series of litigation, she has sometimes favoured her father and at other times, her mother. Mr. Nerbas and Ms. Tantrum have two other daughters who, thankfully, did not appear at trial.
+[3] On November 20, 2000 an Order issued by the Supreme Court of British Columbia varied an earlier Order of January 13, 1999 to provide, among other things, that Stevie ordinarily reside with Mr. Nerbas and that Ms. Tantrum have liberal access to Stevie. Ms. Tantrum's access to Stevie included "half of the Christmas holidays", when the other two children are not with Mr. Nerbas. Both parents retained joint guardianship and custody of Stevie.
+[4] The November 20, 2000 Order the Supreme Court was itself varied on July 10, 2002 so that Stevie ordinarily reside with Ms. Tantrum. The Order of July 10, 2002 also provided that Mr. Nerbas pay monthly to Ms. Tantrum for support of the three children a sum of money commencing April 1, 2002.
+[5] So it was, according to Mr. Nerbas, that on December 27, 2001 Stevie went to her mother's home for one-half of the Christmas holidays and returned to his home on January 2, 2002. Mr. Nerbas recalled that during the Thanksgiving Day weekend in 2000[1], Stevie telephoned her father to tell him that she was thrown out of her mother's house. He said that he told Stevie that he would pick her up and that she would reside with him from that time on. He insisted he was Stevie's caregiver and took her to school (since he lived in a rural area) if she did not take the bus to school.
+[6] Mr. Nerbas claims he cared for Stevie at his home from January 2, 2002 to April 1, 2002. During this time, he said, he allowed Stevie access to her mother in excess of that provided in any Court Order. He stated that in April 2002, Stevie wanted more time with her mother and went to live with Ms. Tantrum. However, Mr. Nerbas declared, he continued to maintain a room in his home for Stevie and continued to be the parent who her school would contact if necessary. Stevie's pets were at his home. It was only in July 2002 when Stevie decided to stay "primarily" with her mother, he said. [The Court Order of July 10, 2002 provided that Stevie shall ordinarily reside "with Ms. Tantrum".]
+[7] Mr. Nerbas was shown a questionnaire sent to him by Canada Customs and Revenue Agency ("CCRA"). He returned the completed questionnaire to CCRA on or about December 19, 2002. Nr. Nerbas stated that Stevie lived with him during the period under review and with no one else. "However", he explained, "Stevie had access to her mother's home Tuesdays after school spending the evening overnight and every other weekend as per the Court Order. As per my agreement with Stevie she was allowed to stay extra times at her mother's when she decided." He also stated that "it was not clear to me that the living arrangements had been changed until the Court date in July of 2002".
+[8] Mr. Nerbas also informed the CCRA that:
+As of Dec. 27, 2001 Stevie went to her mothers [sic] as part of the Court Order alternating holidays. At no time was I ever informed by Stevie and her mother that this was not her primary residence. As I had maintained Stevies [sic] housing, clothing, school supplies, ect. [sic] until July of 2002 when a new Court Order was made. Until that time Stevie was still spending a considerable amount of time at my residence and participating in family activities.
+[9] Mr. Nerbas declared that "everything was structured by Court Order" and it was not clear to him if he had to maintain living accommodations for Stevie at his home.
+[10] According to Ms. Tantrum when Stevie arrived at her home on December 27, 2001, Stevie said she was "coming home". Ms. Tantrum stated Stevie had not spoken to her father about living with her mother and told her to get in touch with him to inform him about her intentions. On January 9, 2002, Stevie visited her father for the first time after moving to her mother's home.
+[11] Counsel for the Crown produced an affidavit sworn by Mr. Nerbas on July 10, 2002. Apparently Ms. Tantrum's boyfriend had assaulted Ms. Tantrum and Stevie on June 5, 2002 and those incidents came to Mr. Nerbas' attention on July 9, he recalled, the night before the B.C. Supreme Court was to hear the application and cross-application of Ms. Tantrum and Mr. Nerbas, respectively, on July 10, 2002. Mr. Nerbas attempted to have the hearing adjourned in order to determine details of the assault; his request for the adjournment was denied. In his affidavit in support of the adjournment, Mr. Nerbas stated that:
+On the night of that incident, Wednesday June 5, 2002, the children, Shawnie and Shelby were with me. However, Stevie was at the Plaintiff's home. Stevie has not chosen to visit with me for approximately two months. Prior to that, between February and April, 2002 she would visit during my access visits with Shawnie and Shelby.
+[12] Mr. Nerbas testified that the affidavit is "misworded". In short, he refutes his affidavit. The affidavit, he complained, was drafted by his lawyer's assistant, and was prepared in a rush. When he read the affidavit, Mr. Nerbas thought it pertained to the assault. He was upset, he said, and erred in signing the affidavit. At trial he insisted Stevie was with him during January, February and March 2002. In reply to respondent's counsel, Mr. Nerbas acknowledged he continues to retain the lawyer who is responsible for the drafting of the affidavit and who represented him at the hearing of the motion on July 10. His counsel was not called as a witness.
+[13] Ms. Tantrum recalled that at the end of January 2002 she attended at the Supreme Court of British Columbia in Chilliwack to obtain an information booklet on how to represent one's self in a court proceeding. On her home computer she typed a Notice of Motion for an Order that Stevie reside with her. She suggested the Motion be heard on any of February 25, March 4 or March 11, 2002. Ms. Tantrum had attempted to have the Notice served on Mr. Nerbas by her boyfriend, at the time, and his stepfather; this effort culminated in police intervention and, upon advice, she then engaged the services of a process server. The Notice was served on February 15, 2002.
+[14] On February 25, 2002, Mr. Nerbas' lawyer sent a packet of papers to Ms. Tantrum's home. The documents, in her view, indicated Stevie was living with Mr. Nerbas. Ms. Tantrum retained the services of a lawyer. The Notice of Motion was filed with the Court on July 5, 2002, returnable on July 10, 2002.
+[15] In the affidavit in support of her motion dated January 30, 2002, Ms. Tantrum deposed that Stevie resided with her since December 28, 2001 and that since November 20, 2000 she continues to care for Stevie. In a second affidavit, dated April 11, 2002, Ms. Tantrum set out a schedule of Stevie's visits with her father since December 21, 2001. The dates were taken from the calendar she maintained which describes the days Stevie was with her and the days she was with Mr. Nerbas. In the second affidavit Ms. Tantrum concluded that:
+Stevie does not want to become involved in the dispute between the Defendant and I. She is afraid that if she is forced into the dispute and has to tell the Court what her current living arrangements are, there will be consequences for her from the Defendant. I have asked Stevie if she would object to being interviewed by a person appointed by the Court, and she said that she would object and would prefer to be left out of this altogether.
+[16] Ms. Tantrum produced a copy of the calendar of Stevie's living arrangements for the months of January, February, March, April, May and June 2002. On the calendar she made notes about access, notes to herself and highlighted important dates. She testified she maintained a calendar due to "ongoing litigation" since November 1996. She said she found the calendar useful for confirming dates she could not remember. When days on the calendar are blank, she explained, Stevie was with her, where a day has a note, Stevie was with her father. The only doubt as to where Stevie was is during January 18 to 20, 2002, inclusive. The calendar establishes that except for March, when Stevie appears to have spent equal time with both parents, she resided with her mother. Ms. Tantrum testified that during January and February there were many "back and forth conversations" between Stevie and her father while Stevie was at her home.
+[17] In the meantime, during the early part of 2002, Stevie continued to see her father and visit him with her younger sisters, although, according to Ms. Tantrum, Stevie had more access days with her father than did her sisters. Again according to Ms. Tantrum, Stevie was having difficulty communicating with Mr. Nerbas and "by the end of March [their relationship] was almost non-existent".
+[18] Stevie's evidence was that her mother told her to sign an affidavit on June 26, 2002 in which she deposed that:
+I have been living with my mother at the above address since December 27th, 2001. Prior to that, I had been residing with my father. I thought about my decision to move back with my mother for approximately two months, and having finally decided to do so, I then called my father (a day or two after December 27th) to inform him of my decision.
+[19] At trial, Stevie said she did not call her father as stated in the affidavit. She said the affidavit was brought to her in a lawyer's reception room and she signed it. Ms. Tantrum stated that the affidavit was read to Stevie and that Stevie signed it in the lawyer's office.
+[20] In a note written at her father's request and in his home on or about February 20, 2003 Stevie stated that she:
+did not move from my dad's (Armin Nerbas) house to my mom's (Cory Tantrum) house offically [sic] until April 2002. The time from Dec. 2001 to April 2002 that I was spending at my mom's house was the prearanged [sic] X-mas and spring breaks.
+[21] In cross examination Stevie stated that she has been residing at her father's home since "a couple of weeks ago". Stevie confirmed that her parents do not talk to each other.
+[22] Stevie was present during the evidence portion of the trial. At the suggestion of Crown counsel I asked Stevie to leave the Courtroom during argument since credibility of the parents would determine the result of the trial. It would serve no purpose if she were present during this debate. I noticed during the trial that Stevie and her mother sat at opposite ends of the courtroom, never acknowledging the other. I also observed Stevie smiling and nodding at portion's of her mother's testimony that she did not agree with. That Stevie was in Court during the contradictory testimony of her parents is sad and served no real purpose. Mr. Nerbas acknowledged that Stevie moved from one parent to another, depending on the relationship with the particular parent. When Stevie had a disagreement or argument with one parent, she moved to the other parent's home. Stevie's living arrangements were not influenced by any court order in effect during the period in question.
+[23] It is obvious that at time of trial Stevie and her mother were in one of their estranged stages and Mr. Nerbas was the beneficiary.
+[24] Because of the relationship Stevie had with her parents, moving from one parent's home to the other's when the relationship with the former became strained and the fact at the time of trial she was residing with her father, I do not give any weight to Stevie's testimony. Had the trial taken place at some other time, when the relationship with her father was in issue, I am confident that her testimony would have favoured her mother's position.
+[25] As between Ms. Tantrum and Mr. Nerbas, I prefer the evidence of Ms. Tantrum. She maintained a calendar which sets out each day Stevie resided, or spent the day, at her home and the home of Mr. Nerbas during time in issue. There is no evidence before me that she erred in stating when Stevie lived with her and when Stevie visited her father during the period under review. Mr. Nerbas did not have anything except his memory as to the days Stevie spent with him. And his memory was fully self-serving. Also, it appears that Mr. Nerbas considered that Stevie resided with him, whether or not she did, if a Court Order required Stevie to reside with him during a given time. None of Mr. Nerbas, Ms. Tantrum or Stevie paid much attention to any Court Order concerning with whom Stevie was to reside. Rather, Stevie's living arrangements depended on which parent she was getting along with at the time.
+[26] Also, I do not accept the evidence of Mr. Nerbas and Stevie that their respective affidavits of July 10, 2002 and June 26, 2002 contain errors of fact. Mr. Nerbas' excuse for signing the affidavit in error is absolutely self-serving. As far as Stevie's reasons for signing are concerned, I believe, based on my observations of Mr. Nerbas and Stevie, that she was unduly influenced by her father in writing the note of February 20, 2003.
+[27] In the circumstances I accept the evidence of Ms. Tantrum. Stevie lived at her mother's residence during the period December 27, 2001 to April 30, 2002. The appellant was not the eligible individual for purposes of the child tax benefit. Ms. Tantrum was the primary caregiver of Stevie during this time. The appeal is dismissed.
+Signed at Ottawa, Canada, this 19th day of May, 2004.
+"Gerald J. Rip"
+Rip, J.
+CITATION:
+2004TCC382
+COURT FILE NO.:
+2003-2723(IT)I
+STYLE OF CAUSE:
+Armin Nerbas v. The Queen
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+May 11, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Gerald J. Rip
+DATE OF JUDGMENT:
+May 19, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Gavin Laird
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Mr. Nerbas referred to the Thanksgiving weekend "13 months" earlier.

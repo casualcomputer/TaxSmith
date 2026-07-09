@@ -1,0 +1,255 @@
+---
+title: "Simard v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/351773/index.do"
+last_modified: "2018-11-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 TCC 237"
+citation2: ""
+neutral_citation: "2018 TCC 237"
+decision_date: "2018-11-26"
+language: "en"
+item_id: "351773"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4979
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:33:28.059000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8ba18394a78cbc94294f20a1acb8bb78bcad666cb989dd03fee88e11ffd4ffe3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Simard v. The Queen
+
+- Citation: 2018 TCC 237
+- Decision date: 2018-11-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4979, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Simard v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-11-26
+Neutral citation
+2018 TCC 237
+File numbers
+2014-2454(IT)G
+Judges and Taxing Officers
+Frank J. Pizzitelli
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2014-2454(IT)G
+BETWEEN:
+J.G. GUY SIMARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2014-3884(IT)G
+AND BETWEEN:
+WAYNE WELLS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2014-3891(IT)G
+AND BETWEEN:
+RAYNOLD MURPHY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2015-4930(IT)G
+AND BETWEEN:
+DOUGLAS FORSETH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2015-4931(IT)G
+AND BETWEEN:
+BRIAN J. MATHESON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion heard on November 23, 2018 at Ottawa, Ontario
+Before: The Honourable Justice F.J. Pizzitelli
+Appearances:
+Counsel for the Appellant:
+Guy Dupont
+Michael Lubetsky
+Matthias Heilke
+Counsel for the Respondent:
+Louis L’Heureux
+Leonard Elias
+ORDER
+WHEREAS a motion was heard on November 23, 2018;
+AND UPON hearing from the parties;
+THIS COURT ORDERS THAT as per the attached Reasons for Order:
+1. The Rule 126 motion is dismissed with costs to the Respondent to be paid by the Appellants regardless of the result in these matters.
+2. In the event either party is not satisfied with this cost Order, they may make submissions as to costs within 30 days from the date of this Order.
+3. The Affidavits filed in support of this motion by the Appellants will be stricken from the record save and except for the Affidavit of Mr. Simard which will be retained in the records but with paragraphs 33-41 redacted from the public record.
+Signed at Ottawa, Canada, this 26th day of November 2018.
+“F.J. Pizzitelli”
+Pizzitelli J.
+Citation: 2018 TCC 237
+Date: 20181126
+Docket: 2014-2454(IT)G
+BETWEEN:
+J.G. GUY SIMARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2014-3884(IT)G
+AND BETWEEN:
+WAYNE WELLS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2014-3891(IT)G
+AND BETWEEN:
+RAYNOLD MURPHY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2015-4930(IT)G
+AND BETWEEN:
+DOUGLAS FORSETH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2015-4931(IT)G
+AND BETWEEN:
+BRIAN J. MATHESON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Pizzitelli J.
+[1] There are two Motions the Court must deal with in these matters.
+[2] This first Motion is for an Order:
+(a) pursuant to Rule 126(4)(b) of the Tax Court of Canada Rules (General Procedure) giving judgment in favour of the Appellants with costs on such a scale as may be deemed just, limited to one set of costs, and granting them the relief sought in their Notices of Appeal; and
+(b) granting such other remedy that this Court deems just in the circumstances.
+[3] Rule 126(4)(b) reads as follows:
+(4) If a party fails to comply with the time requirements set out in a timetable established under this section or with any requirement of these rules, or fails to attend any case management conference, the case management conference judge may
+…
+(b) dismiss the appeal or give judgment in favour of the appellant;
+[4] Paragraph (4)(e) allows the case management judge to “make any other order that the case management judge considers just in the circumstances.”
+[5] The Appellants’ grounds for the Motion are that the Respondent has failed to comply with the Court’s Order of March 29, 2018 wherein, in addition to setting timetables for steps in the litigation of these matters, the Court ordered:
+“The Respondent reply to the Appellant’s request for documents on or before September 28, 2018.”
+[6] In support of such Motion, the Appellants have filed 16 Affidavits, sworn by 16 different individuals, three of whom are Appellants in these matters and 13 of whom are or represent other individuals whose matters have been held in abeyance pending the outcome of these Appeals. The Appellants in their second Motion seek an Order pursuant to Rule 16.1 to treat as confidential those Affidavits and any Exhibits attached thereto ( the “Confidential Documents”) as of the time of filing such Confidential Documents under the following conditions in relation to their reproduction, destruction and non-disclosure, under the following terms:
+(a) the Confidential Documents will be sealed in the Court record, and references thereto will be redacted from the publicly-available copy of the Notice of Motion;
+(b) the Respondent may not disclose use, or reproduce the Confidential Documents for any purpose but the contestation of the R126 Motion;
+(c) if counsel for the Respondent submits or refers to any of the Confidential Documents or an extract thereof before this Court or to a witness outside the hearing of the Motion, these submissions will be redacted; and
+(d) the same terms will be imposed on any further affidavits submitted in support of the R126 Motion.
+[7] The grounds for such Confidentiality Order are essentially that the information is private and “touches the most personal and private aspects of their lives, notably their intimate relationships, mental health and physical health” and such prejudice affects not just the taxpayers but their loved ones and friends.
+[8] The Confidential Documents are submitted to substantiate the grounds raised in support of the Rule 126 Motion, but I would agree with counsel for the Respondent that 15 of the 16 Affidavits forming part of these documents do not address the issue of whether the Respondent violated my Order. The only Affidavit which does so is the Affidavit of J.G. Guy Simard, one of the Appellants in these matters and all of his Affidavit except 9 of 41 paragraphs deal with that issue, with the remaining 9 paragraphs dealing with the hardship to him as a result of the assessments in issue.
+[9] The private information the Appellants seek a Confidentiality Order for are simply not relevant to determining the issue of whether the Respondent failed to comply with the Order in issue. These Affidavits pertain to the affiants’ personal mental or physical health or those of loved ones, as well as the stress and frustration in dealing with these appeals and the financial stresses and impact on their lives resulting therefrom in general. While I am sympathetic to such impacts litigation may cause, such information is simply not relevant to determining the main issue at hand. The information is offered more for substantiating the relief sought by the Appellants from the Rule 126 Motion, namely the allowance of their Appeals and costs. If in fact the Appellants are successful in establishing the Respondent violated the Order in issue then I will consider the use of such Affidavits as relevant to such relief sought, but not in determining the initial issue of whether there was a violation. Until then, it is not necessary for me to consider the Affidavits, other than the Affidavit of Mr. Simard except paragraphs 33-41.
+[10] It should be noted that the Appellants’ request for documents was contained in its’ letter to the Respondent dated March 26, 2018, delivered 2 days before the scheduled case management conference of March 28, 2018 that set dates for the litigation steps in these Appeals before continuation of the settlement conference the Appellant referred to in the Affidavit of Mr. Simard that also sets out his version of the chronology of many of the case management conferences and other steps taken in the furtherance of these matters over the last 4 years in particular; which, as pointed out by the Appellant in paragraph 1 of the Notice of Motion, are lead cases for a program described as the Synergy Program. The Affidavit of Mr. Cheong in support of the Respondent’s position disagrees with many of the characterizations of the facts or results of correspondence exchanged and case management conferences held.
+[11] The letter of March 26, 2018 sets out detailed and comprehensive requests for multiple documents, reports, communications, notes, financial statements and other documents as more particularly described in Appendix A to the Notice of Motion and paragraph 9 of the said letter referred to in both Affidavits.
+[12] It should be noted that the parties exchanged documents pursuant to Rule 81 between March 6 and June 30, 2017 as confirmed in Mr. Simard’s Affidavit. The Appellants have brought no motion for further disclosure since that time, not under Rule 82 or otherwise.
+[13] As the Appellant has set out in paragraph 2(g) of its’ Notice of Motion in this matter:
+2.(g) precisely 12 minutes before the close of business on the deadline set by this Court, the Respondent advised the Appellants that:
+(i) She considered that the Appellants’ request was “not mandatory” under the Rules:
+(ii) She would be willing to provide only a small portion of the documents requested;
+(iii) before She did so, the Appellants must give undertakings not mandated by the Rules of this Court that would effectively prevent the Appellants from making any effective use of the documents in the prosecution of these appeals: and
+(iv) the Respondent had redacted or excluded documents containing taxpayer information within the meaning of section 241 of the Income Tax Act.
+[14] To be fair to the Respondent, its’ letter of September 28, 2018 offered to provide the Appellants with over 16,000 documents and contained conditions that the Appellants sign an acknowledgment that these documents are to be used only in connection with these matters in accordance with the implied undertaking rule and that they would respect the confidentiality requirements of section 241 and thus not disclose that personal information set out in that section. In addition, the Respondent sets out its’ position and reasons for its’ objection as to the requested disclosure of other material requested.
+[15] The issue before me is simply whether the response of the Respondent violates my Order that “the Respondent reply to the Appellant’s request for documents on or before September 28, 2018”.
+[16] There is no question the Respondent replied to the Appellants since the Appellants plead in this Motion that they received the reply 12 minutes before the deadline. The Appellant however in paragraph 5 of this Motion states the basis of its’ position:
+5. The Respondent’s failure to communicate the requested documents, Her application of extensive redactions and Her unreasonable demand for undertakings not required by the Income Tax Act or the Rules cannot be construed as reasonable compliance with the Disclosure Order. On the contrary, the Respondent’s position only heralds further inordinate delay and inefficiencies over and above those that have already plagued these appeals and indeed, the entire audit and investigation of the Synergy program, as this dispute enters well into it second decade and when the Responded has been allowed all the time necessary to comply.
+[17] The Appellants argue that the reply given by the Respondent violates the spirit and intent of my Order and counsel for the Appellants made it clear that he considers it inconceivable that this Court would have given the Respondent 6 months to only reply to the request, rather than provide documentation.
+[18] As Appellants’ counsel has pointed out, relying on Royal Bank of Canada v 1542563 Ontario Inc., [2006] OJ No. 3811, at paragraph 4, in interpreting an order, “Courts should, on the one hand, examine the context in which the order was issued, and evaluate it according to the specific and particular circumstances of the case and, on the other hand, ask themselves whether or not the defendant could have reasonably been aware that his acts or omissions fall under the order” to ensure a party “cannot hide behind a restrictive and literal interpretation to circumvent an order and make a mockery of it and of the administration of justice”.
+[19] In Royal Bank above, the Justice had to determine the meaning of another Judge’s Order. In the case at hand, I have the benefit of interpreting my own Order.
+[20] The context in which my Order was made and what my intentions were in making it can be seen from the transcript of the case management conference held on March 28, 2018 wherein the parties advised the Court the Appellants had sent a letter requesting pre-discovery document disclosure on March 26, 2018. A copy of the letter was not tendered at the case management conference but was discussed in a general way in that the issue of the request was made a few days earlier. No specific details of the requests were brought to the Court’s attention and the issue in the case management conference was clearly identified by counsel for the Appellants as a request “over and above” the Rule 81 document exchange of June 30, 2017 to allow “everybody to prepare for discovery better” as “opposed to flooding them with undertakings”. I have no doubt both parties were considering the efficiency of the litigation process in the manner in which they dealt with the request. However, I am satisfied that although the Respondent was not opposed “in principle” to the request, he in no way indicated a commitment to unconditionally provide requested documents. The statements of Mr. L’Heureux found on page three of the transcript speak for themselves below:
+…We’ve received the Appellant’s request for documents a couple of days ago. Haven’t had a chance—we haven’t had a chance to turn our mind as to whether we’re going to produce the documents; whether we’re going to accept those categories of documents; whether some documents are irrelevant or—but there may very well be a large amount of documents that will be produced, and it does take time, even though we have the documents on an electronic system, Your Honour; and they are somewhat categorized, it does take time to answer those questions, match the documents with those categories and, you know, read the documents, review the documents, and the most important part, redact the documents. ….
+[21] As the rest of the transcript confirms, the Respondent offered to provide its’ reply to the request within 4 months, but at the suggestion of the Appellants’ counsel, having regard to the intervening summer months, it was agreed to allow a more realistic 6 months having regard to the volume of material the Respondent indicated it had to review.
+[22] In fact, counsel for the Respondent also indicated he did not want “to close the door” by that date due to the volume of documents and was advised he could request an extension of time at the end of the six month period.
+[23] Frankly, in light of the above, I find the Appellants’ position that he finds it inconceivable the Court would only have given the Respondent 6 months to just state their position to be without any merit whatsoever. The transcript clearly shows the Respondent had yet to turn its mind to the request received formally 2 days earlier and raised possible objections or concerns on issues based on relevancy, categorizations , redaction, volume of material and other issues.
+[24] My Order of March 29, 2018 only required the Respondent to reply to the Appellants’ request for documents found in its’ letter of March 26, 2018, evidence of which shows the parties had been discussing same shortly before such request. My Order did not in any way identify any document it was required to supply or even required it to supply or disclose any document at all. The Appellants reference to my Order as the “Disclosure Order” in its’ Notice of Motion is an incorrect and self-serving characterization of the plain words of my Order. The Order was clearly intended to move the matter along so that, absent agreement, the Appellants could bring a motion for document disclosure beyond the Rule 81 list of documents that had already been exchanged over a year earlier, if they chose to and do so knowing what, if any, matters would be in dispute in connection therewith.
+[25] The fact the Appellants were not satisfied with the Respondent’s reply does not mean the Respondent did not comply with my Order, nor does it matter that the Respondent replied on the last day as same was still within the time given under the Order in question. The 6 month period to respond to the request above discussed was by agreement between the parties and so cannot be seen as an abusive delay by any stretch of the imagination.
+[26] Frankly, I have serious concerns regarding the manner in which the Appellants have proceeded . Their Notice of Motion attempts to paint a picture of delay on the part of the Respondent, but I have found the Respondent to have been very accommodating to the Appellants throughout this matter and, in fact, it was the Respondent who insisted on setting a timetable for future litigation steps prior to continuing with a second settlement conference to move matters along. It was the Appellants who requested a second settlement conference without having first made any further offer to settle and it is the Respondent who agreed to same if a new offer was made notwithstanding its earlier stated concerns on the prospects of such settlement after the initial conference. As the Respondent has set out in its’ Affidavit, a great amount of time during this process to date has surrounded the issue of settlement. The chain of events and correspondence outlined in the Affidavits of both parties suggest detailed interaction by and engagement with the Appellants by the Respondent. It is in fact because of the time dedicated to the settlement conference issues that the timetable for litigation steps had to be extended.
+[27] Cases such as these often take years to get to trial, in part because of arguments over disclosure such as we have here and in part because of intervening steps such as settlement conferences which often delay steps to further litigation, in the hopes of avoiding costly further steps or because of the uniqueness of a case. In the case at hand it took at least 5 case management conferences to agree on the Appellants who would be the lead case Appellants, with the Appellants’ counsel objecting to one of the lead Appellants earlier chosen and being given the task over a 6 month period, including a requested time extension, to suggest replacements, that were ultimately agreed to by the Respondent. The Appellants were also granted an extension of time to report to the Court as to whether the matter had settled following the settlement conference.
+[28] If the Appellants were not satisfied with any Orders of this Court given during the case management or other processes, the Appellants were free to appeal same. They did not, yet now suggest they are aggrieved due to delays and blame only the Respondent when they were at the table as well and in my opinion were granted every accommodation, including extensions of time, in addressing their concerns regarding the lead case choices and settlement issues that took so much of the Court’s time to date.
+[29] Both parties to this litigation have an obligation to try to move the case along in a reasonably timely and efficient manner. I note that the Appellants have essentially admitted in paragraph 3 of its’ Notice of Motion that:
+3. On 17 October 2018, the Respondent repeated Her request for undertakings prior to disclosure.
+[30] In fact, as the Respondent’s Affidavit points out, evidence indicates the Respondent was open to discussing the wording of the undertakings it requested and invited the Appellants to do so, without reply thereto. While counsel for the Appellants suggest post request correspondence is irrelevant, I disagree when it addresses the issue of delay in the process that the Appellants seem eager to blame on the Respondent.
+[31] Indeed, the Respondent did write to the Appellants’ counsel on October 17, 2018 to follow-up on its’ original reply seeking to move the matter along, as well as to obtain dates for discovery that was to be completed by the end of February, 2019. No reply was given by the Appellants, no attempt to discuss or negotiate the Respondent’s reply to reduce issues in dispute nor to even respond to discovery dates; only to send a letter with a draft Notice of Motion seeking the severe remedy sought today and, in the alternative, seeking disclosure. In response to the Appellants’ correspondence containing draft Motion material, the Respondent sought a case management conference, held on November 13, 2018. where this Court ordered the Motions referred to in the draft Motion materials would be bifurcated, such that I would hear the Motion as it relates to an alleged violation of my Order, and that a different Judge would hear the alternative Motion for disclosure of requested documents to ensure these matters are dealt with without delay; all without objection by either party. It would appear the Respondent has acted quickly and efficiently to deal with issues while the Appellants have ignored their overtures. I see no justification for the blame game being played by the Appellants here.
+[32] I am sympathetic to the Appellants’ concerns regarding the time taken before reassessment, let alone to get to appeal and trial, and to the personal consequences to their health, to the disruptions to their lives and to the financial burden and personal frustration that ensues from challenging the Minister of National Revenue’s (the “Minister”) assessments or reassessments. Appellants in tax cases are not without recourse to challenge limitation periods or to seek relief from continuing interest charged on amounts in issue under the fairness provisions of the Income Tax Act (the “Act”) as are other taxpayers whose objections or appeals are held in abeyance pending the determination of this appeal. However, having initiated appeals, the Appellants and the Minister are entitled to proceed to trial in an orderly and efficient manner and I do not find any reason to deny either side that right in the circumstances of this case.
+[33] I do not intend to comment on the Appellants’ statements in its’ Notice of Motion as to why the Respondent’s objections to some of the requested documents are without merit as these will be matters to be dealt with by the Judge hearing that motion. The Appellants have argued that the Respondent had no justification for insisting on the conditions of its offered disclosure, namely its request for an acknowledgment that the implied undertaking rule applies and its requirement for confidentiality under section 241 of the Act, nor in refusing its request for disclosure based on relevance or other reasons. As the Respondent pointed out in argument, it does not accept the Appellants’ position on these matters and will have argument to make before the Judge hearing that Motion.
+[34] Not only have the Appellants mischaracterized the nature and effect of my Order, but they, in addition to accusing the Respondent of violating a Court Order, an accusation that, aside from issues of civility and ethics, should only be made in the face of very strong evidence given in support of same, have pleaded that the actions of the Respondent amount to an abuse of process. In paragraph 7 of the Notice of Motion the Appellants stated:
+7. A party’s failure to abide by timelines imposed by this Court to streamline a litigant’s case is tantamount to an abuse of process which this Court cannot brook….
+[35] I agree with the Appellants that there has been an abuse of process here, but that of the Appellants in bringing a Motion such as this without any merit or reasonable basis and filing 16 Affidavits in support, only one of which addresses the issue; all ironically under the auspice in seeking severe relief for an alleged six month delay. This is a complete waste of the Court’s resources and unnecessarily increases costs and risks further delay to the processes. The Appellants could have simply proceeded to make a Motion to request the documents without inappropriately accusing the Respondent of violating a Court Order and abusing process. Frankly, if the Appellants were concerned about unnecessary delays in the process, they could have brought that Motion after the Rule 81 exchange of documents by June 30, 2017 but did not. There is no doubt they were aware of the mass of documentation from the onset of this process.
+[36] The Appellants are free to bring the Motion for disclosure for which a date of January 7, 2019 has been already set down to ensure the matters continue to proceed as quickly as possible and to ensure the obligation of the parties to complete discovery by the end of February as per my earlier Order can be met and I fully expect the Appellants will take all steps in good faith and with the necessary gravitas necessary to comply with such Order including the completion of discovery.
+[37] The Rule 126 Motion is dismissed with costs to the Respondent to be paid by the Appellants regardless of the result in these matters. In the event either party is not satisfied with this cost Order, they may make submissions as to costs within 30 days of this Order. The Affidavits filed in support of the Motion by the Appellants will be stricken from the record save and except the Affidavit of Mr. Simard which will be retained in the records but with paragraphs 33-41 redacted from the public record.
+Signed at Ottawa, Canada, this 26th day of November 2018.
+“F.J. Pizzitelli”
+Pizzitelli J.
+CITATION:
+2018 TCC 237
+COURT FILE NOs.:
+2014-2454(IT)G
+2014-3884(IT)G
+2014-3891(IT)G
+2015-4930(IT)G
+2015-4931(IT)G
+STYLES OF CAUSE:
+J.G. GUY SIMARD AND THE QUEEN
+WAYNE WELLS AND THE QUEEN
+RAYNOLD MURPHY AND THE QUEEN
+DOUGLAS FORSETH AND THE QUEEN
+BRIAN J. MATHESON AND THE QUEEN
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+November 23, 2018
+REASONS FOR ORDER BY:
+The Honourable Justice F.J. Pizzitelli
+DATE OF ORDER:
+November 26, 2018
+APPEARANCES:
+Counsel for the Appellants:
+Guy Dupont
+Michael Lubetsky
+Matthias Heilke
+Counsel for the Respondent:
+Louis L’Heureux
+Leonard Elias
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Guy Dupont
+Firm:
+Davies Ward Phillips & Vineberg
+Montreal, Québec
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

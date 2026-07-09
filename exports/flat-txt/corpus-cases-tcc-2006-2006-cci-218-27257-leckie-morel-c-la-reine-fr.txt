@@ -1,0 +1,146 @@
+Title: Leckie Morel c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27257/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-218-27257-leckie-morel-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2006-04-05
+
+# Leckie Morel c. La Reine
+
+- Citation: 2006 CCI 218
+- Decision date: 2006-04-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 798, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Leckie Morel c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-04-05
+Référence neutre
+2006 CCI 218
+Numéro de dossier
+91-1816(IT)G, 91-509(IT)G
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 91-509(IT)G, 91-1816(IT)G
+91-1946(IT)G, 2004-2787(IT)G
+ENTRE :
+LINDA LECKIE MOREL,
+GEOFFREY D. BELCHETZ,
+et ALLAN GARBER,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Requêtes entendues le 8 mars 2006, à Toronto (Ontario).
+Devant : L’honorable juge E.A. Bowie
+Comparutions :
+Avocat des appelants :
+Me Howard W. Winkler
+Avocats de l’intimée :
+Me John Shipley et Me Rosemary Fincham
+____________________________________________________________________
+ORDONNANCE
+À la suite des requêtes de l’intimée présentées suivant l’article 54 des Règles de la Cour canadienne de l’impôt (procédure générale) en vue d’obtenir une ordonnance autorisant la modification des réponses aux avis d’appel visés aux présentes;
+Après avoir lu les actes de procédure, ainsi que l’affidavit de John Kingston, déposés au dossier;
+Après avoir entendu les observations des avocats des deux parties;
+la cour ordonne que les requêtes soient accueillies et elle autorise l’intimée à modifier les réponses aux avis d’appel, dans chaque appel, conformément aux avis de requête, déposés au dossier.
+Les dépens des présentes requêtes suivront l’issue de la cause.
+Signé à Toronto (Ontario), ce 5e jour d’avril 2006.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 30e jour de mars 2009.
+D. Laberge, LL.L.
+Référence : 2006CCI218
+Date : 20060405
+Dossiers : 91-509(IT)G, 91-1816(IT)G
+91-1946(IT)G, 2004-2787(IT)G
+ENTRE :
+LINDA LECKIE MOREL,
+GEOFFREY D. BELCHETZ,
+et ALLAN GARBER,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+Motifs de l’ordonnance
+Le juge Bowie
+[1] Les présentes requêtes sont déposées par l’intimée en vue d’obtenir une ordonnance suivant l’article 54 des Règles de la Cour canadienne de l’impôt (procédure générale), autorisant la modification des réponses aux avis d’appel. Les appels en question sont représentatifs d’un nombre d’appels beaucoup plus grand, dans tous lesquels les appelants ont allégué avoir le droit de déduire de leur revenu certaines pertes autres qu’en capital qu’ils disent avoir subies à titre de membres de diverses sociétés en commandite. Le ministre du Revenu national a refusé la déduction des pertes.
+[2] Au risque de simplifier à outrance, qu’il suffise de dire quant aux présentes requêtes que la question fondamentale entre les parties est celle de savoir si les sociétés en commandite en cause ont à quelque moment atteint la phase d’exercer des activités. Les appelants disent qu’elles ont atteint cette phase; l’intimée dit qu’elles ne l’ont pas fait. Les parties s’entendent toutefois sur une chose : après l’effondrement financier du projet, les promoteurs de l’entreprise ont été déclarés coupables de fraude et ils ont été emprisonnés. Les appels en matière d’impôt sur le revenu ont été tenus en suspens durant plusieurs années pendant qu’avaient lieu les premières poursuites, ensuite les appels à l’encontre des déclarations de culpabilité et enfin une demande à la Cour suprême du Canada pour autorisation d’en appeler. Cette demande a été rejetée il y a presque deux ans, donnant lieu aux présentes requêtes.
+[3] Les modifications que l’intimée souhaite apporter à la réponse dans Garber v. The Queen, dossier no 2004-2787(IT)G, ajouteraient les paragraphes suivants à la réponse :
+[traduction]
+16. À la suite d’une enquête de la GRC et de la Division des enquêtes spéciales de Revenu Canada, M. Bellfield, M. Minchella et M. Rochat ont été accusés, en 1995, de deux chefs de fraude suivant l’alinéa 390(1)a) du Code criminel et de deux chefs d’utilisation de documents contrefaits suivant le paragraphe 368(1) du Code criminel.
+17. En avril 1996, M. Rochat a plaidé coupable à l’infraction d’avoir fait des inscriptions fausses dans les registres et livres de comptes de OCGC, infraction prévue à l’alinéa 239(1)c) de la Loi de l’impôt sur le revenu, et il a reçu une peine équivalant à deux ans d’emprisonnement.
+18. En décembre 1999, après un procès devant juge et jury, M. Bellfield et M. Minchella ont tous deux été déclarés coupables de tous les chefs d’accusation. La Cour d’appel de l’Ontario a par la suite rejeté les appels interjetés par M. Bellfield et M. Minchella à l’encontre de leur déclaration de culpabilité et de leur peine. La Cour suprême du Canada a rejeté les demandes d’autorisation de pourvoi en appel déposées par M. Bellfield et M. Minchella le 29 avril 2004 et le 13 mai 2004, respectivement.
+19. En conséquence, la Cour supérieure de justice de l’Ontario s’est prononcée de façon positive sur les questions suivantes, qui n’ont pas été modifiées en appel :
+a) M. Bellfield, M. Minchella et M. Rochat, de concert avec Overseas OCGC, Neptune Marine Resources S.A. et Starlight Charters S.A., ont illégalement, par supercherie, mensonge ou autre moyen dolosif, frustré le public de revenus d’impôt dus à Sa Majesté du chef du Canada en présentant de fausses déductions à Revenu Canada relativement à environ 110 000 000 $ de pertes déduites pour le compte de trente-six sociétés en commandite gérées par ladite OCGC.
+b) M. Bellfield, M. Minchella et M. Rochat, de concert avec Overseas, OCGC, Neptune Marine Resources S.A. et Starlight Charters S.A., ont illégalement, par supercherie, mensonge ou autre moyen dolosif, frustré les investisseurs dans trente-six sociétés en commandite gérées par ladite OCGC, de dépôts en espèces versés, de la valeur de billets à ordre et de paiements d’intérêts versés à l’égard desdits billets à ordre à ladite OCGC relativement aux unités achetées par les investisseurs dans chacune desdites sociétés en commandite.
+c) M. Bellfield, M. Minchella et M. Rochat, de concert avec Overseas, OCGC, Neptune Marine Resources S.A. et Starlight Charters S.A., sachant que des documents étaient contrefaits, ont illégalement fait, ou tenté de faire accomplir, à Sa Majesté du chef du Canada l’acte consistant à se servir desdits documents, à savoir des états financiers des sociétés en commandite, des factures et d’autres documents se rapportant à trente-six sociétés en commandite gérées par ladite OCGC comme s’ils étaient authentiques, ou à les traiter ainsi ou à agir ainsi à leur égard.
+d) M. Bellfield, M. Minchella et M. Rochat, de concert avec Overseas, OCGC, Neptune Marine Resources S.A. et Starlight Charters S.A., sachant que des documents étaient contrefaits, ont illégalement fait, ou tenté de faire accomplir, à des investisseurs dans trente-six sociétés en commandite l’acte consistant à se servir desdits documents, à savoir des états financiers des sociétés en commandite et d’autres documents comme s’ils étaient authentiques, ou à les traiter ainsi ou à agir ainsi à leur égard.
+30. Il soutient de plus qu’il est interdit à l’appelant, en raison de la doctrine de l’abus de procédure, de débattre les questions suivantes sur lesquelles la Cour supérieure de justice de l’Ontario s’est prononcée de manière affirmative et qui n’ont pas été modifiées en appel :
+a) M. Bellfield, M. Minchella et M. Rochat, de concert avec Overseas OCGC, Neptune Marine Resources S.A. et Starlight Charters S.A., ont illégalement, par supercherie, mensonge ou autre moyen dolosif, frustré le public de revenus d’impôt dus à Sa Majesté du chef du Canada en présentant de fausses déductions à Revenu Canada relativement à environ 110 000 000 $ de pertes déduites pour le compte de trente-six sociétés en commandite gérées par ladite OCGC.
+b) M. Bellfield, M. Minchella et M. Rochat, de concert avec Overseas, OCGC, Neptune Marine Resources S.A. et Starlight Charters S.A., ont illégalement, par supercherie, mensonge ou autre moyen dolosif, frustré les investisseurs dans trente-six sociétés en commandite gérées par ladite OCGC, de dépôts en espèces versés, de la valeur de billets à ordre et de paiements d’intérêts versés à l’égard desdits billets à ordre à ladite OCGC relativement aux unités achetées par les investisseurs dans chacune desdites sociétés en commandite.
+c) M. Bellfield, M. Minchella et M. Rochat, de concert avec Overseas, OCGC, Neptune Marine Resources S.A. et Starlight Charters S.A., sachant que des documents étaient contrefaits, ont illégalement fait, ou tenté de faire accomplir, à Sa Majesté du chef du Canada l’acte consistant à se servir desdits documents, à savoir des états financiers des sociétés en commandite, des factures et d’autres documents se rapportant à trente-six sociétés en commandite gérées par ladite OCGC comme s’ils étaient authentiques, ou à les traiter ainsi ou à agir ainsi à leur égard.
+d) M. Bellfield, M. Minchella et M. Rochat, de concert avec Overseas, OCGC, Neptune Marine Resources S.A. et Starlight Charters S.A., sachant que des documents étaient contrefaits, ont illégalement fait, ou tenté de faire accomplir, à des investisseurs dans trente-six sociétés en commandite l’acte consistant à se servir desdits documents, à savoir des états financiers des sociétés en commandite et d’autres documents comme s’ils étaient authentiques, ou à les traiter ainsi ou agir ainsi à leur égard.
+Des modifications mineures au paragraphe 24 et l’ajout du paragraphe 25 sont également suggérés pour clarifier un plaidoyer de trompe-l’œil existant :
+[traduction]
+24. Pour créer l’apparence d’une entreprise avec des pertes d’entreprise connexes, OCGC a conclu des opérations fictives avec l’appelant et pour le compte de la société en commandite S/Y Garbo Limited Partnership. OCGC et son principal commandité, M. Bellfield, n’ont jamais eu l’intention d’exercer les activités prévues de S/Y Garbo Limited Partnership. Par conséquent, le ministre a correctement refusé les déductions de l’appelant de 15 058 $, de 5 381 $, de 6 651 $ et de 6 552 $ inscrites à titre de pertes d’entreprise pour les années d’imposition 1984, 1985, 1986 et 1987, respectivement.
+25. Tous les billets à ordre étaient, dans les faits, de simples trompe-l’œil pour créer l’illusion de billets à ordre authentiques et visaient à tromper l’investisseur et le ministre sur la véritable nature des opérations.
+[4] L’avocat des appelants ne s’est pas opposé aux modifications proposées aux paragraphes 16, 17, 18, 19, 24 et 25. Il s’est cependant opposé à l’ajout du paragraphe 30 proposé, dans lequel on soutient qu’il est interdit aux appelants de réfuter les faits allégués dans les quatre alinéas du paragraphe 19 proposé. Les modifications que l’intimée cherche à apporter aux réponses déposées dans les trois autres appels comportent quelques variations mineures, mais dans tous les cas, seul l’ajout du paragraphe 30 suscite une opposition.
+[5] Vu la manière dont j’ai l’intention de trancher les requêtes dont je suis saisi, je n’ai pas l’intention d’exprimer mon point de vue quant au fond des arguments qui m’ont été présentés, à la fois pour et contre la proposition de droit énoncée dans le paragraphe 30 proposé. Qu’il suffise de dire que l’intimée s’appuyait sur la doctrine émergente de l’abus de procédure comme complément de la préclusion pour même question en litige, comme l’illustre l’arrêt Toronto (Ville) c. S.C.F.P., section locale 79[1]. Selon les avocats de l’intimée, autoriser les appelants à débattre à nouveau les éléments des infractions pour lesquelles M. Bellfield et M. Minchella ont été déclarés coupables pourrait jeter le discrédit sur l’administration de la justice. Pour leur part, les appelants soutiennent que l’alinéa 1a) de la Déclaration canadienne des droits[2] leur garantit le droit d’être entendus quant à l’exactitude des faits sous-jacents aux déclarations de culpabilité, un droit qu’ils n’avaient pas devant les cours qui se sont prononcées sur les accusations criminelles et qu’ils doivent, à leur avis, avoir devant la Cour. Ces deux positions sont solidement fondées en droit.
+[6] Bien que la plupart de ces appels soient devant la Cour depuis longtemps, les interrogatoires préalables n’ont pas encore eu lieu. La seule objection des appelants à l’ajout du paragraphe 30 est qu’il ne peut être admis. Il ne m’appartient cependant pas de me prononcer sur cette question dans le contexte de requêtes comme celles en l’espèce. La question à trancher consiste à décider si la proposition présentée dans le paragraphe 30 proposé est tellement vouée à l’échec que si elle avait été plaidée au départ, elle aurait pu faire l’objet d’une radiation[3]. Cela constituerait en effet un obstacle très difficile à franchir pour les appelants, même si le plaidoyer auquel ils s’opposent était un plaidoyer quant aux faits. L’obstacle est encore plus difficile dans les présentes affaires, le plaidoyer proposé visant simplement l’effet juridique de faits qui ne sont pas eux-mêmes en litige.
+[7] La question a été débattue devant moi comme si la proposition présentée dans le paragraphe 30 proposé avait été énoncée pour être décidée avant le procès en vertu de l’alinéa 58(1)a) des Règles. Comme je l’ai dit, les deux positions opposées sont fondées en droit et pour cette raison, je dois autoriser la modification, puisqu’il n’y a aucun facteur de nature discrétionnaire qui milite dans le sens contraire. Il se pourrait bien que cette question doive être tranchée avant le procès, mais je ne peux le faire dans le contexte des présentes requêtes. La seule question dont je suis régulièrement saisi est celle de savoir si l’intimée peut modifier les réponses.
+[8] Les requêtes sont accueillies. L’intimée est autorisée à modifier la réponse dans chaque appel, comme elle l’a proposé dans les divers avis de requête. Les dépens des requêtes suivront l’issue de la cause.
+Signé à Ottawa (Ontario), ce 5e jour d’avril 2006.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 30e jour de mars 2009.
+D. Laberge, LL.L.
+RÉFÉRENCE :
+2006CCI218
+No DES DOSSIERS DE LA COUR :
+91-509(IT)G, 91-1816(IT)G,
+91-1946(IT)G, 2004-2787(IT)G
+INTITULÉ :
+Linda Leckie Morel, Geoffrey D. Belchetz et Allan Garber et Sa Majesté la Reine
+Lieu de l’audience :
+Toronto (Ontario)
+DATE de l’audience :
+Le 8 mars 2006
+Motifs de l’ordonnance :
+L’honorable juge E.A. Bowie
+DATE de l’ordonnance :
+Le 5 avril 2006
+Comparutions :
+Avocat des appelants :
+Me Howard W. Winkler
+Avocats de l’intimée :
+Me John Shipley et Me Rosemary Fincham
+Avocats inscrits au dossier :
+Pour les appelants :
+Nom :
+Me Howard W. Winkler
+Cabinet :
+Aird & Berlis LLP
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] [2003] 3 R.C.S. 77.
+[2] L.C. 1960, ch. 44, [texte reproduit dans L.R. C. 1985, annexe III].
+1. Il est par les présentes reconnu et déclaré que les droits de l’homme et les libertés fondamentales ci-après énoncés ont existé et continueront à exister pour tout individu au Canada quels que soient sa race, son origine nationale, sa couleur, sa religion ou son sexe :
+a) le droit de l’individu à la vie, à la liberté, à la sécurité de la personne ainsi qu’à la jouissance de ses biens, et le droit de ne s’en voir privé que par l’application régulière de la loi; […].
+[3] City of Toronto v. Hutton, [1951] O.W.N. 639; Vaiman v. Yates (1987), 60 O.R. (2d) 696.

@@ -1,0 +1,321 @@
+---
+title: "Salaison Lévesque inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/120611/index.do"
+last_modified: "2015-10-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 CCI 247"
+citation2: ""
+neutral_citation: "2015 CCI 247"
+decision_date: "2015-10-21"
+language: "fr"
+item_id: "120611"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2727
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:20:30.449000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "636591642fb59de0f64c92f4a246adc65ee0317d64ab61bf57341defe6957a4f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Salaison Lévesque inc. c. La Reine
+
+- Citation: 2015 CCI 247
+- Decision date: 2015-10-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2727, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Salaison Lévesque inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-10-21
+Référence neutre
+2015 CCI 247
+Numéro de dossier
+2011-1872(GST)G
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2011-1872(GST)G
+ENTRE :
+SALAISON LÉVESQUE INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Requête entendue le 27 mai 2015, à Montréal (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocat de l'appelante :
+Me Louis Tassé
+Avocat de l'intimée :
+Me Éric Labbé
+ORDONNANCE
+La requête est accueillie en ce que l’intimée devra payer à l’appelante un montant fixe de 36 200 $ en sus évidemment des dépens établis conformément au tarif.
+Signé à Ottawa, Canada, ce 21e jour d’octobre 2015.
+« Alain Tardif »
+Juge Tardif
+Référence : 2015 CCI 247
+Date : 20151021
+Dossier : 2011-1872(GST)G
+ENTRE :
+SALAISON LÉVESQUE INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L’ORDONNANCE
+Le juge Tardif
+[1] Il s’agit d’une requête soumise par l’appelante dont l’objectif est d’obtenir un montant forfaitaire supérieur à celui établi par les règles relatives aux frais et dépens de cette Cour, cette dernière ayant eu gain de cause.
+[2] À la suite de l’appel, un jugement fut rendu en faveur de l’appelante. Porté en appel par l’intimée, la Cour d’appel fédérale a confirmé mon jugement; par contre, la Cour d’appel a ordonné que j’entende à nouveau les parties sur la question des dépens conformément à la requête verbale que l’appelante avait soumise lors de l’audition; en effet, l’appelante avait alors demandé à cette Cour la permission de soumettre des arguments additionnels et spécifiques pour obtenir des frais et dépens supérieurs à ceux prévus par le tarif dans l’optique où son appel serait accueilli, ce qui fut le cas.
+[3] Lors de l’appel sur le fond, cette Cour devait établir si Salaison Lévesque Inc. (Salaison) avait droit à un montant de 12 443,35 $, représentant des crédits de taxe sur les intrants que le ministre du Revenu du Québec lui avait refusé en raison de la prétendue participation de Salaison dans un stratagème de factures de complaisance. Vu l’absence d’une preuve prépondérante d’un tel stratagème et l’absence de collusion avec les agences de placement ayant fait défaut de remettre au ministre la TPS/TVQ perçue, le jugement fut le suivant :
+L’appel de la cotisation établie en vertu de la partie IX de la Loi sur la taxe d’accise (L.R.C. 1985, c. E-15), pour la période du 7 août 2006 au 29 août 2009, dont l’avis est daté du 13 avril 2010, est accueilli et la cotisation est annulée, le tout avec frais en faveur de l’appelante.
+[4] Au moment du jugement, je n’ai pas tenu compte de la demande du procureur de l’appelante de tenir une audience pour lui permettre de faire valoir des arguments additionnels quant à l’octroi de frais supérieurs à ceux prévus par le tarif.
+[5] À la suite de l’appel par l’intimée, la Cour d’appel fédérale a conclu comme suit :
+[40] Pour les motifs énoncés ci-dessus, je propose que l’appel principal soit rejeté, sauf quant aux montants de 2 348,29 $ et 855,09 $ que Salaison n’a jamais contestés. Salaison devrait avoir droit à ses dépens en appel.
+[41] Le dossier devrait aussi être renvoyé au juge afin qu’il tranche à nouveau sur le montant des dépens qu’il a accordé à Salaison.
+[Je souligne.]
+[6] L’audition des parties conformément aux instructions de la Cour d’appel fédérale sur la question des dépens a eu lieu à Montréal le 27 mai 2015.
+[7] Les parties ont fait valoir de part et d’autre les arguments suivants :
+Prétentions de l’appelante [8] À titre de frais et de dépens, Salaison demande une somme globale de 50 000 $, représentant 80 % des honoraires payés, plus des déboursés de 1 200 $. Cette dernière soumet à la Cour que ce montant est justifié compte tenu d’une offre de règlement offerte à l’intimée et des critères énoncés au paragraphe 147(3) des Règles de la Cour canadienne de l’impôt (procédure générale) (Règles).
+[9] L’appelante a aussi fait état à l’impact considérable sur les patrimoines financiers des personnes physiques associées à l’appelante. Le tableau qui suit est d’ailleurs très éloquent à cet effet :
+COTISATIONS
+TOTAL DES COTISATIONS ($)
+Taxe sur les produits et services (TPS)
+20 430,32
+Taxe de vente du Québec (TVQ)
+41 114,10
+Impôt corporatif (provincial)
+75 224,90
+Impôt corporatif (fédéral)
+265 315,41
+Déductions à la source (provincial)
+87 364,80
+Impôt personnel Régis Lévesque (provincial)
+287 402,21
+Impôt personnel Régis Lévesque (fédéral)
+497 474,28
+Impôt personnel Annie Lévesque (provincial)
+201 068,59
+Impôt personnel Annie Lévesque (fédéral)
+513 201,29
+TOTAL
+1 988 595,90
+[10] Finalement, l’appelante a insisté sur la piètre qualité du travail effectué par les vérificateurs. À cet effet, je ne vois pas la pertinence de reproduire les différents passages du jugement sinon de souscrire à cette évaluation tout à fait appropriée.
+Prétentions de l’intimée [11] L’intimée, d’entrée de jeu, a soumis qu’il s’agissait d’un dossier tout à fait ordinaire qui ne créait aucun précédent du fait notamment qu’il s’agissait essentiellement d’un cas d’espèce sans importance.
+[12] L’intimée a également soutenu que seul le montant de la cotisation devait être pris en compte ajoutant même que le dossier aurait pu faire l’objet de la procédure informelle n’eût été de la demande de l’appelante pour être assujettie aux règles de la procédure générale.
+[13] L’intimée a affirmé que la Cour ne peut pas tenir compte de l’offre de règlement étant donné qu’elle ne rencontrait pas les critères très précis prévus par le paragraphe 147(3.1) de la directive sur la procédure[1] :
+147(3.1) Offres de règlement
+[…]
+c) Les alinéas a) et b) ne s’appliquent que si l’offre de règlement
+[Il y a des conditions qui doivent être remplies.]
+(i) est faite par écrit;
+[…]
+(iii) n’est pas retirée;
+(iv) n’expire pas moins de 30 jours avant le début de l’audience.
+[14] Pour résumer la position de l’intimée quant aux autres motifs de sa cotisation, je crois utile et pertinent d’utiliser certains extraits émanant de la transcription :
+[…] la cause devant vous, devant la Cour canadienne de l’impôt représente un montant de 20 800 $.
+[…]
+Donc, c’est un dossier important – qui est important pour Salaison Lévesque mais qui n’a pas l’importance que mon confrère semble donner pour les autres types de dossiers.
+[…]
+[…] je vous soumets que c’est un dossier qui a fait l’objet d’une charge de travail importante mais qui n’a pas fait l’objet d’une charge de travail plus importante que l’ensemble d’un autre dossier fiscal. Ça été seulement une journée et demie d’audition. […]
+Il n’y a pas eu d’experts; il n’y a pas eu de témoins experts qui ont été entendus dans ce dossier-là. Il n’y avait pas de point spécifique, de point fiscal spécifique. C’est une question de fait, Monsieur le juge.
+La question portait de savoir si les agences de placement avaient, oui ou non, rendu le service. C’est la seule question que vous aviez à vous poser […].
+[…]
+[…] la question en litige était simple mais en plus les faits qui l’entouraient n’étaient pas complexes [...].
+[15] Finalement le procureur de l’intimée soulève ce qui suit :
+Le vérificateur a quand même – puis je pense que les dépens n’ont rien à voir avec le travail que le vérificateur a ou n’a pas fait. C’est vraiment pendant les procédures, est-ce qu’il y a eu des problématiques par les procureurs de l’intimée? Je vous soumets que non, Monsieur le juge. La procédure s’est faite rondement. Il n’y a pas eu d’objection inutile. Ça s’est bien fait.
+Analyse
+[16] L’intimée a insisté principalement sur la question qu’il s’agissait essentiellement d’un cas d’espèce sans conséquence ajoutant que l’appelante avait elle-même pris l’initiative de faire en sorte que le dossier soit assujetti à la procédure générale plutôt qu’à la procédure informelle moins exigeante, plus flexible et moins contraignante et aussi moins onéreuse.
+[17] Dans un premier temps, il apparaît que la question de l’offre ne rencontre pas les critères établis. Par contre, je crois qu’il s’agit tout de même d’un élément ayant une certaine pertinence.
+[18] Le procès a fait ressortir plusieurs éléments quant à la piètre qualité et à l’absence de sérieux du travail exécuté dans le cadre de la vérification; en effet j’y ai relevé un grave manque de rigueur au point de conclure que le travail qui avait conduit à l’établissement des cotisations avait été tout simplement bâclé.
+[19] Par contre, je mentionnais que l’intimée était justifiée de s’opposer à l’avis d’appel de l’appelante et de saisir le tribunal étant donné l’état de la jurisprudence. À partir de ce constat, j’ai conclu qu’il ne s’agissait pas d’une position abusive, déraisonnable ou frivole[2].
+[20] Manifestement, les procureurs de l’intimée ont tenu pour acquis la conclusion du travail d’enquête et l’ont validé par les procédures qui ont conduit au procès.
+[21] La question fondamentale que soulève le dossier est de savoir si la qualité du travail de vérification effectué dans le cadre d’une nouvelle cotisation peut être prise en compte pour l’octroi de frais supplémentaires.
+[22] Il est important de rappeler que le travail de vérification est un travail complexe rempli de multiples embûches provenant généralement de l’ignorance, de l’insouciance, de la négligence de la personne ciblée par une vérification; le degré de difficulté et les contraintes peuvent varier beaucoup d’un dossier à l’autre.
+[23] À ces nombreuses contraintes, s’ajoutent l’écoulement du temps, l’impossibilité de retracer certains acteurs, la piètre qualité ou même l’absence de documents, la bonne ou mauvaise volonté des intervenants, etc.
+[24] Devant ces innombrables problèmes, difficultés et la grande complexité des dossiers, le législateur a prévu toute une série de mesures puissantes et contraignantes pour remédier aux divers obstacles, embûches et refus de collaboration. De tels pouvoirs permettent généralement de mener à bien le travail dans le cadre d’une vérification; bien plus, ils contribuent à l’élaboration d’un travail dont les conclusions sont généralement fiables ou tout au moins probantes.
+[25] Fort d’une telle autorité et de tels pouvoirs, il est essentiel et tout à fait fondamental que la qualité du travail de vérification soit impeccable et irréprochable. En d’autres termes, il n’y a aucune raison ou justification qui puisse expliquer ou justifier un travail incomplet, bâclé, façonné par des préjugés de toutes natures d’autant plus que toute nouvelle cotisation peut faire l’objet de sévères pénalités auxquelles s’ajoutent des intérêts. Étant donné la complexité des obligations fiscales, et étant donné que toutes les personnes physiques et morales y sont assujetties, il est normal que toute personne puisse faire l’objet de vérifications fiscales ponctuelles. De telles vérifications doivent se faire dans le respect, avec une grande rigueur, sans être bâclées sous prétexte que le fardeau de la preuve est sur les épaules de la personne qui fait l’objet de la vérification.
+[26] Un procès ne doit pas être une partie de pêche permettant aux vérificateurs de valider leur intuition et/ou perception. Un procès en matière fiscale exige des honoraires et déboursés faramineux. Une telle réalité a souvent pour effet de dissuader une personne raisonnable ayant une capacité de payer limitée de contester une cotisation possiblement non justifiée.
+[27] La question de dépens supérieurs à ceux octroyés par le tarif est une question fort importante de plus en plus actuelle et, d’ailleurs, de plus en plus soulevée.
+[28] Il s’agit là d’une question dont les conséquences sont multiples à plusieurs égards. Déjà, il est de notoriété publique que l’accès aux tribunaux est devenu quelque chose de prohibitif au niveau des coûts et cela, sans égard aux résultats.
+[29] En d’autres termes, il est très rarement possible de sortir gagnant d’une aventure judiciaire sauf lorsqu’il s’agit d’une question de principe. Or, aujourd’hui, les questions de principe sont généralement l’affaire des très bien nantis.
+[30] Originalement, la question des frais judiciaires avait sans doute un objectif visant à atteindre un certain équilibre. Au fil des ans, bien qu’améliorés, les mémoires de frais demeurent somme toute assez marginaux face aux coûts réels qui doivent être investis dans un procès.
+[31] Avec le temps, les choses se sont un peu améliorées en ce que le législateur a prévu plusieurs nouvelles dispositions; je fais notamment référence en droit civil aux possibles sanctions découlant d’abus de procédures, de poursuites-bâillon, etc.
+[32] D’autres initiatives militent dans la même direction; je fais notamment référence aux procédures informelles, aux petites créances, à la médiation, aux conférences de règlement, etc.
+[33] La possibilité d’obtenir des frais supérieurs à ceux prévus au tarif est une mesure efficace qui peut rétablir l’équilibre entre les forces en présence lors d’un litige fiscal. D’autre part, cette possibilité peut s’avérer un outil fort utile pour sanctionner les abus de pouvoir des autorités fiscales.
+[34] Les Règles relatives aux frais et dépens prévoient les dispositions générales suivantes :
+FRAIS ET DÉPENS
+RÈGLES GÉNÉRALES
+147(1) La Cour peut fixer les frais et dépens, les répartir et désigner les personnes qui doivent les supporter.
+(2) Des dépens peuvent être adjugés à la Couronne ou contre elle.
+(3) En exerçant sa discrétion conformément au paragraphe (1), la Cour peut tenir compte :
+a) du résultat de l’instance;
+b) des sommes en cause;
+c) de l’importance des questions en litige;
+d) de toute offre de règlement présentée par écrit;
+e) de la charge de travail;
+f) de la complexité des questions en litige;
+g) de la conduite d’une partie qui aurait abrégé ou prolongé inutilement la durée de l’instance;
+h) de la dénégation d’un fait par une partie ou de sa négligence ou de son refus de l’admettre, lorsque ce fait aurait dû être admis;
+i) de la question de savoir si une étape de l’instance,
+(i) était inappropriée, vexatoire ou inutile,
+(ii) a été accomplie de manière négligente, par erreur ou avec trop de circonspection;
+i.1) de la question de savoir si les dépenses engagées pour la déposition d’un témoin expert étaient justifiées compte tenu de l’un ou l’autre des facteurs suivants :
+(i) la nature du litige, son importance pour le public et la nécessité de clarifier le droit,
+(ii) le nombre, la complexité ou la nature des questions en litige,
+(iii) la somme en litige;
+j) de toute autre question pouvant influer sur la détermination des dépens.
+(3.1) Sauf directive contraire de la Cour, lorsque l’appelant fait une offre de règlement et qu’il obtient un jugement qui est au moins aussi favorable que l’offre de règlement, l’appelant a droit aux dépens entre parties jusqu’à la date de la signification de l’offre et, après cette date, aux dépens indemnitaires substantiels que fixe la Cour, plus les débours raisonnables et les taxes applicables.
+(3.2) Sauf directive contraire de la Cour, lorsque l’intimée fait une offre de règlement et que l’appelant obtient un jugement qui n’est pas plus favorable que l’offre de règlement, ou que l’appel est rejeté, l’intimée a droit aux dépens entre parties jusqu’à la date de la signification de l’offre et, après cette date, aux dépens indemnitaires substantiels que fixe la Cour, plus les débours raisonnables et les taxes applicables.
+(3.3) Les paragraphes (3.1) et (3.2) ne s’appliquent que si l’offre de règlement :
+a) est faite par écrit;
+b) est signifiée au moins trente jours après la clôture de la procédure écrite et au moins quatre-vingt-dix jours avant le début de l’audience;
+c) n’est pas retirée;
+d) n’expire pas moins de trente jours avant le début de l’audience.
+(3.4) Il incombe à la partie qui invoque le paragraphe (3.1) ou (3.2) de prouver :
+a) qu’il existe un rapport entre la teneur de l’offre de règlement et le jugement;
+b) que le jugement est au moins aussi favorable que l’offre de règlement ou qu’il n’est pas plus favorable que l’offre de règlement, selon le cas.
+(3.5) Pour l’application du présent article, les dépens « indemnitaires substantiels » correspondent à 80 % des dépens établis sur une base procureur-client.
+(3.6) Lorsqu’elle détermine que le jugement accordé est au moins aussi favorable que l’offre de règlement visée au paragraphe (3.1) ou qu’il n’est pas plus favorable que l’offre de règlement visée au paragraphe (3.2), la Cour ne tient pas compte des dépens qui sont accordés dans le jugement ou qui seraient par ailleurs accordés, si l’offre de règlement ne prévoit pas le règlement de la question des dépens.
+(3.7) Il est entendu que si une offre de règlement qui ne prévoit pas le règlement des dépens est acceptée, une partie au règlement peut demander à la Cour une ordonnance quant aux dépens.
+(3.8) Tant qu’une décision n’aura pas été rendue sur toutes les questions en litige, à l’exception de celle relative aux dépens, aucune communication concernant une offre de règlement n’est faite à la Cour, sauf à un juge qui préside une conférence dans le cadre d’une instance et qui n’est pas celui qui présidera l’audition de cet appel.
+(4) La Cour peut fixer la totalité ou partie des dépens en tenant compte ou non du tarif B de l’annexe II et peut adjuger une somme globale au lieu ou en sus des dépens taxés.
+(5) Nonobstant toute autre disposition des présentes règles, la Cour peut, à sa discrétion :
+a) adjuger ou refuser d’adjuger les dépens à l’égard d’une question ou d’une partie de l’instance particulière;
+b) adjuger l’ensemble ou un pourcentage des dépens taxés jusqu’à et y compris une certaine étape de l’instance;
+c) adjuger la totalité ou partie des dépens sur une base procureur-client.
+(6) La Cour peut, dans toute instance, donner des directives à l’officier taxateur, notamment en vue :
+a) d’accorder des sommes supplémentaires à celles prévues pour les postes mentionnés au tarif B de l’annexe II;
+b) de tenir compte des services rendus ou des débours effectués qui ne sont pas inclus dans le tarif B de l’annexe II;
+c) de permettre à l’officier taxateur de prendre en considération, pour la taxation des dépens, des facteurs autres que ceux précisés à l’article 154.
+(7) Une partie peut :
+a) dans les trente jours suivant la date à laquelle elle a pris connaissance du jugement;
+b) après que la Cour a décidé du jugement à prononcer, au moment de la présentation de la requête pour jugement,
+que le jugement règle ou non la question des dépens, demander à la Cour que des directives soient données à l’officier taxateur à l’égard des questions visées au présent article ou aux articles 148 à 152 ou qu’elle reconsidère son adjudication des dépens.
+[35] Les critères restrictifs, telle une conduite répréhensible, scandaleuse ou outrageante de l’une ou l’autre des parties qui devait être démontrée pour obtenir des dépens supérieurs à ceux prévus par le tarif, sont désormais manifestement dépassés.
+[36] En effet, la jurisprudence tient maintenant en compte une multitude de nouveaux éléments telle l’importance du dossier en termes de montant, de complexité et de conséquences. Il est aussi question du travail requis pour la préparation, de l’importance du précédent établi par le nouveau jugement.
+[37] L’honorable juge en chef Rossiter résume l’état du droit en cette matière en affirmant dans l’affaire Velcro Canada Inc. c. La Reine, 2012 CCI 273, ce qui suit :
+[11] Le pouvoir discrétionnaire prévu au paragraphe 147(1) est extrêmement large : cette disposition accorde à la Cour une discrétion absolue quant à la fixation des frais et dépens, à leur répartition et à la désignation des personnes qui doivent les supporter.
+[12] Le paragraphe 147(3) des Règles énonce les facteurs que la Cour prend en compte lors de l’exercice de son pouvoir discrétionnaire. Après avoir énuméré une liste de facteurs, cette disposition précise que la Cour peut tenir compte « de toute autre question pouvant influer sur la détermination des dépens », accordant ainsi à la Cour un pouvoir discrétionnaire encore plus large qui lui permet d’examiner d’autres facteurs qu’elle estime pertinents dans chaque affaire. Ces autres facteurs susceptibles d’être pertinents pourraient comprendre :
+1. les frais réels qu’une partie a supportés et leur répartition, y compris l’expérience des avocats, les honoraires exigés et le temps consacré à l’appel;
+2. le montant des dépens que la partie perdante pourrait raisonnablement s’attendre à payer relativement à l’instance pour laquelle les dépens sont fixés;
+3. la question de savoir si les frais supportés pour la présentation du témoignage d’un témoin expert étaient justifiés.
+[13] Les facteurs dont la Cour doit tenir compte pour exercer son pouvoir discrétionnaire en matière d’adjudication des dépens sont extrêmement larges; ces facteurs dépendent des faits de chaque appel; de plus, comme je l’ai souligné, la Cour peut tenir compte de tout autre élément pertinent quant à la question des dépens.
+[14] Il n’est fait mention du tarif qu’au paragraphe 147(4) des Règles, dont voici le libellé :
+La Cour peut fixer la totalité ou partie des dépens en tenant compte ou non du tarif B de l’annexe II et peut adjuger une somme globale au lieu ou en sus des dépens taxés.
+[15] Le paragraphe 147(5) va encore plus loin :
+Nonobstant toute autre disposition des présentes règles, la Cour peut, à sa discrétion :
+a) adjuger ou refuser les dépens à l’égard d’une question ou d’une partie de l’instance particulière;
+b) adjuger l’ensemble ou un pourcentage des dépens taxés jusqu’à et y compris une certaine étape de l’instance;
+c) adjuger la totalité ou partie des dépens sur une base procureur-client.
+Il n’est pas fait mention du tarif au paragraphe 147(5).
+[16] Selon les Règles, la Cour canadienne de l’impôt n’est même pas tenue de mentionner l’annexe II, tarif B, lorsqu’elle adjuge les dépens. Elle peut fixer la totalité ou partie des dépens en tenant compte ou non du tarif B de l’annexe II et elle peut adjuger une somme globale au lieu ou en sus des dépens taxés. Les Règles ne donnent même pas à penser que la Cour doit suivre le tarif ou y faire référence. Si le comité des règles de la Cour canadienne de l’impôt avait pensé que le tarif était si important, il aurait été facile d’énoncer dans les Règles l’obligation pour la Cour d’appliquer le tarif en tout temps, à moins qu’elle ne soit d’avis contraire. Le comité des règles ne l’a pas fait, loin de là. En fait, il est difficile d’imaginer comment le pouvoir discrétionnaire dont la Cour canadienne de l’impôt jouit en matière d’adjudication des dépens pourrait être plus large, eu égard au libellé des paragraphes 147(1), (3), (4) et (5) des Règles. Ces dispositions de l’article 147 font de la mention du tarif B de l’annexe II une question laissée à l’entière discrétion de la Cour.
+[17] J’estime que, dans tous les cas, le juge devrait examiner la question des dépens à la lumière des facteurs énoncés au paragraphe 147(3) des Règles et appliquer ces facteurs en se fondant sur des principes avant même de décider s’il doit se tourner vers le tarif B de l’annexe II. Dans sa sagesse, le comité des règles a mentionné brièvement le tarif, mais seulement après avoir accordé à la Cour canadienne de l’impôt un pouvoir discrétionnaire très large et très important sur toutes les questions relatives aux dépens. Comme l’a expliqué mon collègue le juge Hogan dans la décision Générale électrique :
+[TRADUCTION]
+[26] […] à mon avis, le comité des règles savait pertinemment qu’il existe de nombreux facteurs pouvant justifier un écart du tarif et l’adjudication des dépens entre parties sur un fondement différent, y compris l’adjudication d’une somme forfaitaire. Le paragraphe 147(3) des Règles confirme cette réalité en énumérant des facteurs précis, puis en ajoutant l’alinéa j), disposition fourre-tout qui renvoie à « toute autre question pouvant influer sur la détermination des dépens ». Si l’inconduite était le seul cas où la Cour pouvait s’écarter du tarif, le paragraphe 147(3) serait superflu. Les mots que comporte un texte légal ne sont généralement pas considérés comme des mots superflus. Comme l’a dit la Cour suprême du Canada dans Hills c. Canada (PG), [1988] 1 R.C.S. 513 :
+[108] […] en lisant un texte législatif, on doit « présumer que chaque terme, chaque phrase, chaque alinéa, chaque paragraphe ont été rédigés délibérément en vue de produire quelque effet. Le législateur est économe de ses paroles : il ne « parle pas pour ne rien dire » » (P.-A. Côté, Interprétation des lois (1982), aux pp. 228 et 229).
+[27] Il a affirmé à maintes reprises que les commentaires qu’a formulés la juge McLachlin dans Young c. Young au sujet de l’inconduite portaient uniquement sur la possibilité d’obtenir des dépens sur la base procureur-client. Il est vrai qu’« en général, le plaideur qui l’emporte a droit aux frais et dépens entre parties », conformément au tarif. Il est vrai aussi que pour qu’une partie soit tenue de verser des dépens à l’autre partie sur la base procureur-client, il faut que sa conduite soit dans une certaine mesure répréhensible. Il faut éviter de confondre les deux règles, ce qui rendrait impossible toute solution mitoyenne.
+[28] La Loi d’interprétation s’applique à la LIR et aux Règles de la Cour. Selon l’article 12 de la Loi d’interprétation, tout texte « est censé apporter une solution de droit et s’interprète de la manière la plus équitable et la plus large qui soit compatible avec la réalisation de son objet ». Il est raisonnable de conclure que l’article 147 des Règles visait à permettre au juge de s’écarter du tarif afin d’accorder un dédommagement juste et raisonnable dans les circonstances, en tenant compte ou non du tarif B de l’annexe II. Une interprétation restrictive de cette disposition qui obligerait le contribuable qui sollicite une indemnité partielle ou une somme forfaitaire au lieu ou en sus des dépens prévus au tarif à satisfaire au même critère qui s’applique à l’obtention de dépens sur la base procureur-client irait à l’encontre d’au moins un des objets de l’article en question.
+[18] Une comparaison du pouvoir discrétionnaire accordé à l’article 147 des Règles avec celui qui est prévu au paragraphe 400(4) des Règles des Cours fédérales, DORS/98-106 (les « Règles des Cours fédérales ») illustre à quel point l’approche des comités des règles peut être différente.
+[19] Selon le paragraphe 147(4) des Règles de la Cour canadienne de l’impôt :
+La Cour peut fixer la totalité ou partie des dépens en tenant compte ou non du tarif B de l’annexe II et peut adjuger une somme globale au lieu ou en sus des dépens taxés.
+[Non souligné dans l’original]
+Le paragraphe 400(4) des Règles des Cours fédérales est ainsi libellé :
+La Cour peut fixer tout ou partie des dépens en se reportant au tarif B et adjuger une somme globale au lieu ou en sus des dépens taxés.
+[Non souligné dans l’original]
+À mon avis, une différence de taille existe entre ces deux dispositions en ce qui a trait au libellé ainsi qu’à l’importance donnée au tarif. Malgré cette différence, dans l’arrêt Consorzio del Prosciutto di Parma c. Maple Leaf Meats Inc., [2003] 2 C.F. 451, 2002 CAF 417, la Cour d’appel fédérale a conclu que les Règles des Cours fédérales accordent à la Cour fédérale un pouvoir discrétionnaire en matière d’adjudication des dépens :
+[8] Une adjudication de dépens partie-partie ne constitue pas un exercice exact. Il ne s’agit que d’une estimation du montant que la Cour juge approprié à titre de contribution aux dépens avocat-client de la partie qui a obtenu gain de cause (ou, de façon inhabituelle, à ceux de la partie déboutée). En vertu de la règle 407, lorsque les parties ne cherchent pas à obtenir des dépens supplémentaires, les dépens seront taxés conformément à la colonne III du tableau du tarif B. Même lorsque l’on demande des dépens supplémentaires, la Cour, à sa discrétion, peut conclure que les dépens adjugés selon la colonne III constituent un dédommagement suffisant quant aux dépens partie-partie.
+[9] Cependant, l’objectif consiste à contribuer d’une manière appropriée aux dépens avocat-client et non à observer strictement la colonne III du tableau du tarif B qui, en lui-même, est arbitraire. Le paragraphe 400(1) précise que, suivant le principe premier de l’adjudication des dépens, la Cour a « entière discrétion » quant au montant des dépens. En exerçant son pouvoir discrétionnaire, la Cour peut fixer les dépens en se fondant sur le tarif B ou en s’en éloignant. La colonne III du tarif B représente une disposition applicable par défaut. Ce n’est que lorsque la Cour ne rend pas une ordonnance précise que les dépens seront taxés conformément à la colonne III du tarif B.
+[10] Par conséquent, la Cour peut, à sa discrétion, ne pas tenir compte du tarif, particulièrement lorsqu’elle est d’avis qu’une adjudication des dépens conformément au tarif n’est pas satisfaisante. En outre, le montant des dépens avocat-client, bien qu’il ne détermine pas la contribution appropriée des dépens partie-partie, peut être considéré par la Cour si cette dernière le juge approprié. Le pouvoir discrétionnaire doit être exercé avec prudence. Toutefois, on doit garder à l’esprit que l’adjudication des dépens est une question de jugement en ce qui concerne les éléments appropriés, et non un exercice comptable.
+[20] Il y a également lieu de consulter les Règles de procédure civile de l’Ontario, R.R.O. 1990, Règl. 194 (les « Règles de l’Ontario »), notamment l’article 57.01 et les tarifs. Voici le texte du paragraphe 57.01(3) de ces Règles :
+Fixation des dépens : tarifs
+(3) Lorsque le tribunal adjuge les dépens, il fixe ceux-ci conformément au paragraphe (1) et aux tarifs
+[Non souligné dans l’original]
+Les Règles de la Cour canadienne de l’impôt ne comportent aucune disposition semblable au paragraphe 57.01(3) des Règles de l’Ontario : aucune disposition ne donne à entendre de la moindre façon que la Cour doit fixer les dépens conformément au tarif.
+[21] Même si le paragraphe 57.01(3) des Règles de l’Ontario semble accorder au tribunal un pouvoir discrétionnaire minime, il est intéressant de souligner que ce pouvoir discrétionnaire a été accru par suite de récentes modifications. Auparavant, les Règles de l’Ontario comportaient une « grille de dépens » au tarif A (partie 1). Le tribunal devait suivre la grille de dépens et sa seule marge de manœuvre était la possibilité, dans un cas exceptionnel, de prescrire le renvoi des dépens pour leur liquidation conformément au paragraphe 57.01(3.1). Le 1er juillet 2005, la grille de dépens a été abrogée. Bien que les tarifs prévoient encore des montants au titre des débours (tarif A, partie II) et des honoraires d’avocat pour l’approbation des comptes sans audience (tarif C), ils ne prévoient plus de taux fixes pour les honoraires des avocats. Le tribunal se fonde désormais sur l’article 131 de la Loi sur les tribunaux judiciaires, L.R.O. 1990, ch. C. 43, et sur les facteurs de nature discrétionnaire énoncés au paragraphe 57.01(1) des Règles. Les parties qui sollicitent des dépens doivent présenter un « sommaire des dépens » (à l’aide de la formule 57B) à l’audience. Le sous‑comité des dépens du comité des règles de procédure civile a également publié une liste des taux horaires maximaux dont le tribunal tiendra normalement compte pour l’adjudication de dépens d’indemnisation partielle. (Voir le professeur Garry D. Watson, c.r., et Michael McGowan, Ontario Civil Practice 2012 (Toronto, Carswell, 2011), aux pages 1200 à 1203; James J. Carthy, W.A. Derry Millar et Jeffrey G. Cowan, Ontario Annual Practice (aurora (Ontario), Thomson Reuters, 2011), aux pages 1197 et 1198.)
+[38] Le paragraphe 28 de la même décision est aussi fort intéressant :
+[28] Les dépens devraient traduire les efforts raisonnables des parties au cours du litige. En conséquence, la complexité ou l’ampleur du litige ou l’importance de la somme en cause joue un rôle en ce qui a trait aux efforts consacrés au litige et, à cet égard, les dépens adjugés doivent tenir compte des réalités des litiges fiscaux dans le contexte de chaque cas.
+[Je souligne.]
+[39] Les litiges fiscaux sont de plus en plus nombreux.
+[40] Au fil des années, le législateur et plusieurs intervenants qui ont à cœur une meilleure gestion et accessibilité à la justice ont investi dans diverses réformes pour améliorer l’accessibilité, l’efficacité dont l’un des objectifs premiers est de diminuer les coûts prohibitifs qui, malheureusement, sont assumés principalement par les contribuables puisque la capacité de payer dans un litige fiscal est très souvent disproportionnée, l’État pouvant compter sur des ressources humaines et financières illimitées.
+[41] Au niveau de l’intimée, cette matière est traitée par de véritables spécialistes qui bénéficient de toutes les ressources tant humaines que financières et de très grands pouvoirs de contrainte. Il n’y a strictement rien qui justifie un travail de vérification superficiel, incomplet dont les résultats reposent sur des fondements intuitifs ou sur des préjugés mal fondés.
+[42] Les contribuables sont en droit d’obtenir et d’exiger un travail sérieux, impeccable et très minutieux de la part des vérificateurs fiscaux pour s’assurer que les fondements d’une cotisation soient précis, sérieux et complets dans la mesure de la disponibilité des renseignements, des documents pertinents et de la collaboration des personnes faisant l’objet d’une vérification.
+[43] Il est notoire qu’en matière fiscale les contribuables sont nombreux à ne pas assumer leur responsabilité fondamentale quant à leurs obligations d’avoir en tout temps tous les documents et renseignements utiles, nécessaires et fiables pour permettre une vérification complète et fiable de tous leurs revenus, et/ou quant aux autres obligations dont notamment celles en matière de TPS et de TVQ.
+[44] À défaut, ils s’exposent à devoir composer avec des avis de cotisation dont les fondements sont inévitablement arbitraires, hypothétiques voire même intuitifs dans certains cas. Encore là, les vérifications doivent être exécutées avec sérieux, professionnalisme, rendant les conclusions hypothétiques probantes.
+[45] À ces réalités, s’ajoute le fait qu’une cotisation fiscale est établie à partir de dispositions légales souvent très difficiles à comprendre ou même à connaître. Or, les vérificateurs ou ceux et celles qui font l’analyse des dossiers pour établir de nouvelles cotisations sont de façon générale spécialisés dans le domaine concerné par la nouvelle cotisation. Il en découle souvent un grand déséquilibre entre les forces en présence.
+[46] À l’encontre d’une demande pour l’obtention de dépens supérieurs à ceux prévus par le tarif au niveau de la classe concernée, les motifs d’opposition ou d’objection peuvent généralement se résumer par l’argument voulant qu’il faut être en présence de circonstances inhabituelles et exceptionnelles pour justifier une adjudication de dépens en ajout à ceux prévus par le tarif. Le présent dossier correspond à ce genre de particularité.
+[47] En effet, j’ai souligné que certains vérificateurs responsables du dossier de l’appelante ont carrément manqué aux règles élémentaires de rigueur. Il n’y a aucune raison, en semblables circonstances, que les coûts financiers exorbitants soient assumés principalement par l’appelante.
+[48] Lors du procès, l’intimée a insisté sur le défaut de l’appelante de faire venir les divers intervenants pour valider ses prétentions. Selon l’intimée, il s’agissait là d’une obligation minimale étant donné que le fardeau de la preuve reposait sur ses épaules. Or, si le témoignage de ces personnes était aussi important, voire essentiel, pourquoi les vérificateurs n’ont-ils pas eux-mêmes pris cette initiative dans le cadre de leur travail de vérification?
+[49] Loin de moi l’idée de réduire ou de diluer les obligations des personnes associées à l’appelante quant à leur fardeau, ne serait-ce parce qu’elles agissent soit comme mandataires ou fiduciaires des sommes dues. À ce titre, elles ont des obligations et de lourdes responsabilités; pour ce faire, elles doivent être en mesure de rendre compte de leur gestion d’une manière fiable et crédible validée par preuve documentaire appropriée, et cela, sous peine de sanctions sévères tels intérêts, pénalités.
+[50] L’envers de la médaille impose que les autorités fiscales qui détiennent les ressources financières et humaines exceptionnelles ont l’obligation de procéder aux vérifications par le biais d’enquête d’une manière irréprochable et surtout complète; en d’autres termes, les vérifications ne doivent pas être une partie de pêche guidée essentiellement par des intuitions, des préjugés et/ou des spéculations avec l’intention d’établir à tout prix un avis de nouvelle cotisation.
+[51] En l’espèce, bien que la cotisation soit peu importante, le dossier a eu des effets directs et considérables sur l’ensemble des responsabilités fiscales de la personne cotisée et des personnes physiques qui y sont associées.
+[52] D’ailleurs, il s’agit ici d’un élément qui a fait l’objet d’une appréciation fort différente, l’intimée soutenant qu’il s’agissait essentiellement d’un dossier sans importance ni conséquence tant sur la question du précédent que sur la question des montants en cause.
+[53] De son côté, l’appelante fait valoir le précédent, mais aussi l’importante question des montants directs et indirects en cause. Je retiens à cet égard la position de l’appelante en y ajoutant qu’il s’agit là d’un facteur qui aurait pu être porté à mon attention si j’avais fait droit à la demande du procureur de l’appelante de tenir une enquête spécifique quant aux dépens dans l’hypothèse d’une victoire.
+[54] Toute vérification fiscale est importante et conséquente. Lorsqu’une vérification amène les vérificateurs à conclure que la personne a été très négligente, malhonnête et/ou indifférente et insouciante par rapport à ses obligations fiscales, ils ont généralement des réflexes suspicieux, voire des préjugés négatifs dans l’exercice du travail complet de vérification quant à la conformité de toutes les autres obligations fiscales. En d’autres termes, les conclusions dégagées dans un dossier peuvent façonner et influencer fortement l’objectivité du travail de vérification d’un même contribuable au niveau des autres segments fiscaux.
+[55] La présente requête a permis une sensibilisation sur certains éléments que l’appelante avait sans doute retenus au moment du procès pour l’éventuelle audition sur la demande d’obtention de dépens additionnels dans l’optique de l’accueil de son appel. Je fais notamment référence aux conséquences et/ou aux retombées du jugement quant aux autres dossiers fiscaux affectant l’appelante, ce qui a été minimisé par l’intimée.
+[56] Au moment de l’audition du dossier sur le fond, j’avoue avoir abordé le dossier dans sa globalité au niveau des dépens; or, je crois pertinent de faire une distinction entre la qualité de la préparation de la cotisation par les vérificateurs et celle de la présentation lors du procès concerné. En d’autres termes, je fais une distinction entre la qualité du travail des procureurs de l’intimée, et la qualité du travail de vérification qui a conduit aux avis de cotisation à l’origine de l’appel.
+[57] Il m’apparaît évident que les vérificateurs ont tenu pour acquis qu’ils pouvaient tirer des conclusions hâtives à partir de faits douteux, incomplets sur la base que, de toute façon, le fardeau de la preuve incombait à l’appelante.
+[58] Il est tout à fait déraisonnable que les contribuables doivent assumer les conséquences financières découlant d’un travail de vérification bâclé; les fondements d’une vérification se doivent d’être sérieux, objectifs, justifiés et ne doivent pas provenir d’intuitions, de préjugés, d’hypothèses et/ou de spéculations particulièrement lorsque le dossier vérifié permet d’obtenir tous les éléments pertinents.
+[59] Malheureusement trop souvent, les cotisations doivent être établies à partir de fondements hypothétiques. Il s’agit de dossiers où les personnes concernées sont négligentes, insouciantes et/ou malhonnêtes. En pareille matière, la raisonnabilité, la bonne foi et la compétence des vérificateurs façonnent la qualité des fondements d’une cotisation.
+[60] En l’espèce, la preuve a révélé que l’appelante avait agi en conformité avec les us et coutumes et qu’elle avait pleinement collaboré. Elle n’a pas, de cette réalité, à assumer la totalité des conséquences financières qui ont découlé à la suite des multiples cotisations qui se chiffraient à près de 2 000 000 $.
+[61] Étant donné les particularités du dossier, l’octroi d’un montant forfaitaire de 35 000 $ plus 1 200 $ à titre de déboursés en tant que dépens additionnels à ceux prévus au tarif m’apparaît approprié, justifié et raisonnable.
+[62] Pour ces motifs, la requête est accueillie en ce que l’intimée devra payer à l’appelante un montant fixe de 35 000 $ plus 1 200 $ de déboursés en sus évidemment des dépens établis conformément au tarif.
+Signé à Ottawa, Canada, ce 21e jour d’octobre 2015.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE :
+2015 CCI 247
+Nº DU DOSSIER DE LA COUR :
+2011-1872(GST)G
+INTITULÉ DE LA CAUSE :
+SALAISON LÉVESQUE INC. ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Le 27 mai 2015
+MOTIFS DE L’ORDONNANCE PAR :
+L'honorable juge Alain Tardif
+DATE DE L’ORDONNANCE :
+Le 21 octobre 2015
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Louis Tassé
+Avocat de l'intimée :
+Me Éric Labbé
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Me Louis Tassé
+Cabinet :
+Couzin Taylor, s.r.l.
+Montréal (Québec)
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Modifications proposées à la Règle 147 relatives aux offres de règlement dans le cadre du processus d’appel — Directive sur la procédure no 18 (modifiée le 10 février 2011), site Web de la Cour.
+[2] Cette évaluation tient toujours; par contre, à la lumière des représentations de l'appelante, je m'autorise à prendre en compte la qualité du travail qui a conduit à l'établissement des cotisations.

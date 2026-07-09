@@ -1,0 +1,241 @@
+Title: Acanac Inc. v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31178/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-163-31178-acanac-inc-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2013-05-16
+
+# Acanac Inc. v. M.N.R.
+
+- Citation: 2013 TCC 163
+- Decision date: 2013-05-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5073, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Acanac Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-05-16
+Neutral citation
+2013 TCC 163
+File numbers
+2011-1064(EI), 2011-1066(CPP), 2011-1210(EI)
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2011-1064(EI),
+2011-1066(CPP),
+2011-1210(EI)
+BETWEEN:
+ACANAC INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+Docket: 2012-580(EI),
+2012-579(CPP)
+BETWEEN:
+ACANAC INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+AARON C. MOULAND,
+Intervenor.
+____________________________________________________________________
+Appeals heard on April 18, 19 and 23, 2013, at Toronto, Ontario
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+Gerald Matlofsky
+Counsel for the Respondent:
+Alisa Apostle
+For the Intervenor:
+The Intervenor himself
+____________________________________________________________________
+JUDGMENT
+The Appeals pursuant to subsection 103(1) of the Employment Insurance Act and section 28 of the Canada Pension Plan are dismissed.
+Signed at Ottawa, Canada, this 16th day of May 2013.
+"Campbell J. Miller"
+C. Miller J.
+Citation: 2013 TCC 163
+Docket: 2011-1064(EI),
+2011-1066(CPP),
+2011-1210(EI)
+BETWEEN:
+ACANAC INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+Docket: 2012-580(EI),
+2012-579(CPP)
+BETWEEN:
+ACANAC INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+AARON C. MOULAND,
+Intervenor.
+REASONS FOR JUDGMENT
+C. Miller J.
+[1] This is a case like so many others the Court hears dealing with the question of whether workers are employees or independent contractors, except, according to counsel for the Appellant, with a slight twist, being this is in the high-tech industry, a fact Acanac Inc. ("Acanac") argues requires an innovative approach to the usual Wiebe Door/Sagaz based test the courts have developed. The Respondent’s position is that the two workers involved, Mr. Mouland and Mr. Westcott, were insurable employees of Acanac pursuant to the Employment Insurance Act ("EIA") and in pensionable employment as employees pursuant to the Canada Pension Plan ("CPP") in 2009 and 2010. Acanac has objected to these findings on the basis that Mr. Mouland and Mr. Westcott were independent contractors. Mr. Mouland filed a Notice of Intervention.
+Facts
+[2] Acanac is an internet service provider, providing such services primarily in major cities in Ontario and Québec. According to Mr. Louro, the President of Acanac, Acanac competes with the likes of Bell, Rogers and Vidéotron by offering a lower cost and more reliable service. Key to that service is the ability for Acanac to deal with customers’ inquiries, which they do either by phone or via the internet through Technical Support Agents (“TSA’s”). Mr. Mouland and Mr. Westcott served as TSA’s in 2009 and 2010.
+[3] Acanac finds their TSA’s primarily through internet sites. According to Mr. Louro, Acanac is looking for individuals with strong technical computer expertise, though on Acanac’s website it indicates a requirement simply of general computer knowledge. Mr. Louro stated this is readily determined by conducting the appropriate internet searches. Acanac will put out notices on its website or other internet sites seeking TSA’s, and individuals with appropriate expertise respond. Mr. Westcott was clear, however, he had no previous experience and simply heard about the possibility of work with Acanac through a friend. This is not the only example of Acanac’s view and the TSA’s view being somewhat different. Though there may well be a considerable amount of information about potential candidates for a TSA position on the internet, this is not always how the potential TSA’s were found and hired. Mr. Louro testified that Acanac does not feel it necessary to conduct interviews, instead relying mainly on the individual’s record as determined from the internet. Again, this does not seem to be as evident from the testimony of Mr. Mouland and Mr. Westcott whose specific hiring does not exactly follow Mr. Louro’s description of Acanac’s hiring practices. Mr. Louro did acknowledge that Acanac also hires based on references from existing Acanac TSA’s. Acanac hires TSA’s both nationally and internationally.
+[4] Acanac has the TSA sign an Independent Contractor Agreement, excerpts of which I have attached as Appendix A. I note that while Mr. Mouland signed such an agreement, Mr. Westcott did not.
+[5] Once hired, the TSA undergoes a brief, less than a day, training session which familiarizes the TSA with how the billing system works, how to log on with the appropriate passwords, and also introduces the troubleshooting sites. According to Mr. Mouland, Acanac provided the necessary troubleshooting tools to resolve most of the problems a TSA would encounter. There was also a Word document describing common problems. The TSA’s would be given some general steps on how to read Bell portal diagnostic tools, so they could determine whether or not to issue a Bell ticket; in other words, bump the problem from Acanac up to Bell.
+[6] The TSA could handle phone calls or internet inquiries (referred to as tickets) from Acanac customers. The phone inquiries are handled through a system at Acanac referred to as QueueMetrics, a phone routing system owned by Acanac. So, a call comes into Acanac and automatically will be routed to the next available TSA: if more than one is available then whoever picks up first gets the call. Acanac has no ability to listen in on the calls in real time, though QueueMetrics does record the calls so that Acanac can listen to the recording after the fact.
+[7] The QueueMetrics system tracks the length of time each call takes. This serves as a check for Acanac upon receipt of invoices from TSA’s claiming the number of hours worked. The hours invoiced can be checked against the hours recorded by QueueMetrics. According to Mr. Louro cheating on time is a perennial problem.
+[8] Mr. Louro testified that Acanac never developed a template for invoices, though it was clear the invoices from the TSA’s were identical. If not produced by Acanac, they were certainly a similar form that TSA’s had available to them.
+[9] While the TSA’s agreed to an approximate 40 hour work week, either through a 9 to 5 day shift or a 4 to 12 evening shift, they were free to work more or less than that. During the period in issue, Mr. Mouland and Mr. Westcott worked at Acanac (2009 to 2010), Acanac was extremely busy, and the TSA’s were encouraged to work longer hours. They only got paid for time spent on calls or dealing with the internet inquiries. Acanac introduced the concept of a bonus hour to get more hours from its TSA’s, while the TSA’s simply saw this as a paid lunch break.
+[10] The TSA’s worked from home, or wherever: it made no difference to Acanac. As indicated, many such TSA’s were from other countries.
+[11] So just what did these TSA’s do for Acanac? They would decide which shift they wanted to work and they would log in with their various passwords at the start of each shift. Mr. Louro, Mr. Mouland and Mr. Westcott testified that the 40 hours set out in the Independent Contractor Agreement were certainly not set in stone. As copies of the invoices indicated, the TSA’s could work more or less than the 40 hours.
+[12] The signing in process was a matter of getting into the QueueMetrics system (the Acanac system which would automatically allocate calls), NX (to securely access Acanac’s billing systems, the Bell portal and e-support) and Spark (an open‑source instant messaging form of chat line for communicating amongst TSA’s and with Acanac). Once logged in, the phone would start ringing, usually at home where the TSA’s would be set up with their own computer, headphones and microphone. The TSA’s could tell what other agents were online, as could Acanac.
+[13] The calls could be simple or complicated, could be resolved internally or could be referred to Bell, if it was deemed to be a Bell problem: this could normally be determined through access to NX. If a TSA was having a problem resolving a call, the TSA could seek help through Spark. Mr. Kay, a supervisor, testified that if he was asked for advice, he would lend a hand.
+[14] If the TSA required a break, according to Mr. Mouland and Mr. Westcott, he would have to request it from a supervisor. According to Mr. Louro, if a TSA wanted a break, it was simply a courtesy for the TSA to advise the supervisor.
+[15] With respect to internet inquiries, which Mr. Mouland handled in the latter part of his time with Acanac, the practice would be similar. He testified that Acanac would monitor how quickly he would deal with what they called tickets, and whether any were improperly handled. He would get inquiries from supervisors as to why there would still be open tickets.
+[16] My impression from Mr. Mouland, Mr. Westcott and Mr. Kay was that with the limited troubleshooting training a lot of problem-solving expertise was learned on the job.
+[17] At the end of the shift the TSA would sign out of the various programs. The TSA would record his hours. There was some testimony of a type of clock-in system, though Mr. Louro testified it was nothing created or required by Acanac, but likely the TSA themselves instituted to keep better track of their time.
+[18] Every two weeks the TSA would submit invoices and Acanac would check the hours in the invoices against what QueueMetrics would have recorded as hours. The form of invoices submitted by Mr. Mouland and Mr. Westcott were identical. As indicated earlier, while Mr. Louro suggested Acanac did not provide a template for the invoice, it is clear Mr. Mouland and Mr. Westcott did not come up with identical invoices independently.
+[19] There were no formal performance reviews, but Acanac would act in the event of customer complaints. All calls were recorded so Acanac could go back and listen to a call to determine if a complaint was justified. It was Mr. Louro’s view that performance was controlled by the internet itself. Complainants would report their concerns on websites for all to see. I was referred to some such postings. Complaints were not just levelled against individuals however, often simply by first name, but also against Acanac, the company itself.
+[20] The TSA’s did not file for Goods and Services Tax ("GST") purposes. Both Mr. Mouland and Mr. Westcott filed returns as having earned self-employed income, though Mr. Westcott did not file for 2010.
+[21] There was testimony from Mr. Louro, Mr. Mouland and Mr. Westcott about possible dissatisfaction amongst the TSA’s leading to what Mr. Louro called a revolt, this proceeding being part of that. I am not going to go into any detail on the evidence in this regard, as I find it is irrelevant to what I have to decide. I would only comment that I have not been convinced that any vendetta has motivated this action by Mr. Mouland and Mr. Westcott. I believe there is legitimate concern by them to have their legal status determined.
+Analysis
+[22] As this Court has seen on many other occasions, this is a type of work that could equally be performed by an employee or independent contractor: there is nothing in the nature of the work itself that suggests it is better performed pursuant to a contract of service rather than a contract for services. The analysis to peg this work into a specific slot becomes even more difficult where TSA’s want to be considered employees and the payer wants the TSA’s to be consider independent contractors: each takes whatever steps necessary and paints whatever picture best supports their respective positions. Acanac clearly went so far as to have an Independent Contractor Agreement drawn up with independent contractor-like terms. Some might say this illustrates an intention to enter an independent contractor relationship: the more cynical may suggest the true intention does not necessarily go to the legal relationship, but to the result flowing from that: that is, no requirement to make source deductions. Frankly, this has always troubled me about putting any emphasis on the role of intention. Reliance on intention presumes those concerned have some intimate legal knowledge of the distinction between employment and independent contractor. With respect, in many cases, this is an unrealistic presumption. As one of the TSA’s put it, "it was just a job". In saying that did he mean an employment or an independent contractor?
+Clearly there was no meeting of the minds, no common intention notwithstanding the written contract, which is a factor but simply not determinative. So, I turn to the traditional tests enunciated in Wiebe Door Services Ltd. v. M.N.R.[1] and by the Supreme Court of Canada in 671122 Ontario Ltd. v. Sagaz Industries Canada Inc.[2] As Justice Mainville put it recently in 1392644 Ontario Inc. (cob Connor Homes) v Canada (Minister of National Revenue – M.N.R.):[3]
+Because the employee-employer relationship has important and far reaching legal and practical ramifications extending to tort law (vicarious liability), to social programs (eligibility and financial contributions thereto), to labour relations (union status) and to taxation (GST registration and status under the Income Tax Act), etc., the determination of whether a particular relationship is one of employee or of independent contractor cannot simply be left to be decided at the sole subjective discretion of the parties. Consequently, the legal status of independent contractor or of employee is not determined solely on the basis of the parties declaration as to their intent. That determination must also be grounded in a verifiable objective reality.
+…
+[41] The central question at issue remains whether the person who has been engaged to perform the services is, in actual fact, performing them as a person in business on his own account. …
+Control
+[23] As the Supreme Court of Canada has indicated, control will always be a factor, and it is clear from Québec jurisprudence that it can be the sole determinative factor. Control over "what", that is the question. The Appellant argues, correctly I believe, that there will always be elements of control by a payer regardless of whether the TSA is an employee or independent contractor. A classic example of course is in the performing arts, where the payer controls when and where a performer must show up for rehearsals and performances. This obviously cannot be a type of distinguishing control.
+[24] With respect to TSA’s, whether employees or independent contractors, Acanac must have some control over how many workers are signed on at any given time to ensure appropriate control of work flow. It would obviously be inefficient to have all TSA’s take the same hour off for a break for example, leaving nobody to man the phones. Similarly, the fact the TSA could work from home is not a controlling factor (or lack of control factor) that really points out a difference between the legal relationship of employee versus independent contractor. In this computer age, in this type of computer related business, it is the reality that work can be done in your pyjamas in the privacy of your own home – this does not suggest any particular working relationship. The work is such that by its nature it can be conducted informally.
+[25] The following then are factors which, at first blush, might appear to be control issues, but which I have concluded are neutral as not pointing to any particular legal relationship:
+- TSA’s could work from home;
+- Acanac would verify hours against invoices recorded in its own QueueMetrics system;
+- TSA’s should advise when taking a break;
+- no dress code;
+- training on how to log in;
+[26] What then are the controlling factors that might assist in making the distinction, and how should they be weighted?
+a) those factors that suggest lack of control and therefore independent contractor relationship:
+- No performance review.
+The Appellant made much of the notion that it was not Acanac, but the worldwide web that controlled performance. Complaints would be posted for the world to see, thus damaging the TSA’s reputation. This was the extent of any control and it was external. A review of such postings left me with the impression that Acanac was as much, if not more, criticized than the TSA himself. Further, identification of the particular TSA was not always evident. Even if I accept that this is a significant factor impacting on a TSA’s reputation and therefore on future ability to obtain work, it is, as the Appellant has acknowledged, an external factor. Yes, in the computer industry there may be greater scrutiny of websites for information, but in any industry the internet can be used as a tool to research an individual’s ability and reputation. I do not consider that external factor, however, as bearing in any way on the assessment of the element of control Acanac did or did not have over the TSA.
+- Acanac did not control how the TSA handled the calls; it could not listen in to calls at the real time, only after the fact.
+- The TSA could choose whichever shift he wanted and was not limited to 40 hours, but was encouraged to work more.
+- The TSA, according to Mr. Louro, could subcontract.
+- The TSA was not obliged to work exclusively for Acanac.
+- The TSA was not required to request vacations, though there was an expectation to do so as a courtesy.
+- The TSA provided their own invoices.
+- The independent contractor written agreement.
+b) Those factors that suggest control by Acanac and therefore an employment relationship:
+- while no formal performance review, the TSA’s were monitored through QueueMetrics to the point if it could be seen they were not answering the phone, they would be asked why.
+- Acanac could listen to calls after the fact to monitor work performance.
+- Acanac provided the troubleshooting tools necessary as to how to deal with calls and tickets.
+- According to the TSA’s, they were required to request time off.
+- According to the TSA’s, subcontracting was never brought up: it would have been impractical.
+- Supervisors or team leaders were available for assisting with difficult calls.
+- TSA’s, while receiving increases in hourly wages, claim they were not as a result of any negotiation.
+- TSA’s considered being on Spark as a necessary requirement of the job.
+- TSA’s relied on what they considered Acanac forms of invoices, as well as a clock-in system for the monitoring of time.
+- Mr. Westcott claimed that if mistakes were made they would be reprimanded.
+[27] All these factors pointing one way or the other must be put in the context of a relatively loose overall arrangement, so strict controls are not overtly evident, but I am satisfied that on balance there was an element of control not found in an independent contractor arrangement. What really tips the scale on an otherwise relatively even playing field is that Acanac did provide its TSA’s with a system as to how to do the job, by not only providing troubleshooting tools at the outset, but by ongoing communication through Spark as well as the monitoring of calls even to the point of listening to calls for which they received complaints. This suggests to me that even in this informal arrangement there was some hands-on control by the employer. Further, although I will make this point again under the "tools" factor, my impression was that the TSA’s learned primarily on the job. Again, this is not indicative of an independent contractor arrangement. Overall, I find this factor on balance points to employment.
+Tools
+[28] The TSA’s provided the computer, microphone and headphones. Acanac provided the software programs and passwords to get into the necessary sites. It is a relatively even split. Acanac argues that the most valuable tool, however, in a computer industry such as this, that a worker such as a TSA can bring to the table is the TSA’s computer expertise – his knowledge. There is nothing more valuable than that and that is why the TSA gets the work, not simply because he has a computer. What this argument fails to address in the circumstances before me is that firstly, neither Mr. Mouland nor Mr. Westcott started with any great computer expertise, nor did the job requirements demand it, notwithstanding Mr. Louro’s suggestion to the contrary. Acanac advertised simply for general computer knowledge.
+[29] This is quite a different situation from the case of Edward Asare-Quansah v The Minister of National Revenue[4] where I implied in obiter that in certain circumstances, pre-existing knowledge might be a factor. My clear impression was that the training provided by Acanac, along with what was significant on-the-job training was indeed how the TSA’s obtained their knowledge. One would expect an independent contractor would bring the expertise to the position: on-the-job training, as indicated earlier, is an employment-like factor. I conclude that ownership of tools does not conclusively point one way or the other.
+c) Chance of profit/risk of loss
+[30] The Appellant argues that the TSA faces significant risk in loss of reputation due to internet postings and that that factor clearly demonstrates the TSA was in business on his own behalf. I have already addressed this in considering the control aspect on this point. No doubt reputation is important, and it can impact on one’s future earning potential. But in this case, I am not dealing with positions with such import and expertise that anyone with some minimal computer knowledge and a pleasant voice could not handle. It is not work based on reputation. I have not been convinced the TSA was running any greater risk of loss, suggesting he was an independent contractor, than if he was an employee. If his reputation is damaged, it would hurt him equally in finding work as either an employee or independent contractor. This is not a significant factor in the circumstances before me.
+[31] With respect to the chance of profit, the TSA’s were paid by the hour – more hours more pay. As indicated in the case of City Water International Inc. v Canada (Minister of National Revenue – M.N.R.):[5]
+24. On the present facts, in my analysis, the chance of profit was entirely City Water’s. The Service Workers were guaranteed an hourly wage and were subject to an incentive bonus. While it is true that the workers could earn more if they worked more hours, the jurisprudence is clear that that does not constitute a chance of profit (see Hennick at paragraph 14). While they may have had an incentive to work harder and get paid an extra $200, this is not the same as the commercial risk of running a business. …
+The same holds true here. The chance of profit lay entirely with Acanac. This factor points to an employment relationship.
+Other factors
+[32] Some other factors to consider are that the TSA never filed for GST purposes, nor appeared to have any other trappings of being self-employed. They did though file as though they received business income rather than employment income. These were young men at the time with little experience, being advised by Acanac that they were to consider themselves independent contractors: they filed accordingly. These other factors do not persuasively point to an independent contractor arrangement.
+[33] This is a close call. I say that because it is clear the TSA’S felt they were being mistreated by being pegged as something they felt was incorrect. While I have found, on balance, they have been proven right, it has not been straightforward. I attribute no malicious or bad faith to Acanac: they wanted an independent contractor relationship but ultimately the working relationship did not match that want. The overall impression is that the TSA’s were not in business on their own account. There was only one business here and that was the business of Acanac. The Appeals are therefore dismissed.
+Signed at Ottawa, Canada, this 16th day of May 2013.
+"Campbell J. Miller"
+C. Miller J.
+APPENDIX A
+Excerpts from the Independent Contractor Agreement
+"Whereas:
+2. The Contractor is a telephone support specialist with expertise in telecommunication and the internet and specifically in sales and services relating to them:
+3. The company wishes to engage the Contractor to provide the Services set forth in Schedule “A” (the “Services”).
+1. Service Requirements
+(1) The Contractor agrees to provide the Services to the Company during the term of the agreement according the highest standard of the industry as determined by the Company in its discretion reasonable applied.
+(2) The Contractor agrees to maintain records as required and specified by the Company and to provide reports to the Company concerning the Services provided and the Contractor further agrees that all such records and reports shall be and remain the property of the Company. The Contractor also agrees to maintain detailed and accurate records of time spent and services rendered and to submit such records to the Company in the manner requested by the Company, but at least twice per year and at most on a monthly basis.
+2. Payment for Services
+(1) The Company shall pay the Contractor engaged in providing Services the sum of ______Dollars ($_____.00) per hour. Or such sums as shall be agreed upon by mutual consent. The Contractor agrees to be available for work approximately 40 hours per week in total 52 weeks per year.
+(2) The Contractor shall be responsible for all expenses incurred by him related directly or indirectly to the performance of the Services pursuant to this agreement except as specifically set fourth otherwise in this agreement.
+(3) The Contractor shall provide such services as an independent contractor and shall not be deemed to be an employee for any purpose. In providing services as a contractor pursuant to the terms of this agreement the Contract shall have full discretion as to the manner of providing services and the nature of the services required and shall render such services in accordance without the highest professional standard.
+5. Expenses
+All expenses in connection with the Contractor’s performance of this Agreement and its activities as sales and service representative for the Company, including but not limited to travel, automobile, salaries and supplies shall be borne by the Contractor and the Contractor shall be solely responsible for the payment thereof.
+6. Obligation of the Contractor.
+To provide the Services set fourth in Schedule “A” with the following equipment:
+a) to provide a modern computer.
+b) to provide basic computer skills.
+c) to provide a fast internet connection, such as a DSL or cable modem.
+d) to provide recent computer operating system releases, such as the latest version of Microsoft Windows or Linux.
+e) to provide recent releases of Internet and email applications, such as Internet Explorer and Microsoft Outlook.
+f) to provide excellent “people skills” to properly deal with customers in English.
+7. Obligations of the Company
+The Company shall:
+a) provide the Contractor with a Voip ATA so tech support calls can be routed to your location.
+b) pay for the Contractor’s internet high speed access that is used with our Voip ATA adapter.
+c) Provide the Contractor with full training.
+8. Manner of Providing Services
+In supplying service the Contractor will:
+a) provide, except to the extent expressly set out herein to the contrary, all necessary tools, equipment, labour and supervision and will be solely responsible for and will pay all costs relating to same.
+b) abide by all applicable laws, by laws rules and regulations of all competent authorities.
+c) be free to choose location at which it will provide the Services
+d) be free to use any computer set up that they have on condition that it can provide the Services and establish and maintain the necessary contact with the Company and the sufficiency of the contact provided by the Contractor shall be determined by the Company in its discretion reasonably applied.
+e) be free to chose any shift it may prefer to provide the services. The shifts shall be either from 9 AM to 5 PM or from 4 PM to 12 PM (Midnight) Monday to Friday (Canadian federal statutory holidays excluded)
+f) be free to carry out the Services in any manner that it may choose subject to the restriction that it must carry out the services during its chosen shift.
+SCHEDULE “A”
+THE “SERVICES”
+Phone support specialists that will on the highest level in the industry:
+a) provide technical assistance.
+b) answer sales questions.
+c) advise customers.
+d) interpret problems.
+e) provide technical support for hardware, software, and systems.
+f) answer telephone calls and Emails.
+g) analyze problems by using automated diagnostic programs, and,
+h) resolve recurring difficulties."
+CITATION: 2013 TCC 163
+COURT FILE NO.: 2011-1064(EI), 2011-1066(CPP),
+2011-1210(EI), 2012-580(EI) and
+2012-579(CPP)
+STYLE OF CAUSE: ACANAC INC. AND THE MINISTER OF NATIONAL REVENUE AND AARON C. MOULAND
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: April 18, 19 and 23, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT: May 16, 2013
+APPEARANCES:
+Counsel for the Appellant:
+Gerald Matlofsky
+Counsel for the Respondent:
+Alisa Apostle
+For the Intervenor:
+The Intervenor himself
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Gerald Matlofsky
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [1986] 3 F.C. 553.
+[2] 2001 SCC 59.
+[3] 2013 FCA 85.
+[4] 2012 TCC 226.
+[5] 2006 FCA 350.

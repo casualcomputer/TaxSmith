@@ -1,0 +1,102 @@
+Title: Succession Ronald McCullough c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26642/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-268-26642-succession-ronald-mccullough-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2003-04-30
+
+# Succession Ronald McCullough c. La Reine
+
+- Citation: 2003 CCI 268
+- Decision date: 2003-04-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3650, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Succession Ronald McCullough c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-04-30
+Référence neutre
+2003 CCI 268
+Numéro de dossier
+2001-2759(IT)I
+Juges et Officiers taxateurs
+Pierre R. Dussault
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2001-2759(IT)I
+ENTRE :
+SUCCESSION RONALD McCULLOUGH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Je demande que les motifs de la décision prononcés à l'audience à la Cour canadienne de l'impôt, 500 Place d'Armes, Montréal (Québec), le 31 juillet 2002 et révisés le 29 avril 2003 soient déposés.
+Signée à Ottawa, Canada, ce 30e jour d'avril 2003.
+« P.R. Dussault »
+J.C.C.I.
+Date : 20030430
+Référence : 2003CCI268
+Dossier : 2001-2759(IT)I
+ENTRE :
+SUCCESSION RONALD McCULLOUGH,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+(prononcés oralement à l'audience
+le 31 juillet 2002 à Montréal (Québec)
+et révisés le 29 avril 2003)
+P.R. Dussault, J.C.C.I.
+[1] Je vais rendre mon jugement immédiatement. Je rejette les appels. Les raisons sont essentiellement celles que m'a fait valoir maître Ayadi. Toutefois, il y a une remarque que je tiendrais à vous faire, madame, avec tout le respect pour le défunt, monsieur McCullough. Donner à un contribuable une deuxième chance au niveau d'un projet de cotisation, on est déjà très avancé dans le processus. La première responsabilité d'un contribuable au Canada, c'est de faire sa déclaration de revenus et de déclarer tous ses revenus. Ça c'est la première.
+[2] Alors, dans la mesure où on établit, lors d'une rencontre avec une personne, que l'on a des preuves qu'elle n'a pas déclaré des revenus, qu'on lui montre ces preuves-là, qu'on lui pose des questions sur d'autres revenus qu'elle n'aurait peut-être pas déclarés, que cette personne donne l'information pertinente sur la provenance d'autres revenus et qu'on va chercher la preuve, avec chèque à l'appui, chèque endossé, facture, qu'effectivement il y a d'autres revenus qui n'ont pas été déclarés, puis dans la mesure où on demande à cette personne : Vous n'avez pas déclaré ces revenus-là, mais est-ce que vous avez des dépenses? Oui, j'ai des dépenses, j'ai des frais de transport. C'est quoi les frais de transport? On donne un montant de 75 $ par mille pieds. Parfait. Sans aucune facture, parce que le contribuable dit qu'il l'a payé sous la table, l'a payé en cash. On accorde quand même cette dépense-là. On parle de salaire. Rien, pas un mot là-dessus. Pas un mot sur les autres dépenses.
+[3] Bien, c'est au contribuable à faire sa « job » pour commencer. Je regrette, là. Mais il y a une façon de faire au Canada, puis c'est celle-là. Ce n'est peut-être pas partout dans le monde, mais la responsabilité première dans un système d'auto-cotisation, et c'est notre système au Canada, la responsabilité première appartient au contribuable. Il ne faut pas blâmer les autres ensuite. C'est lui qui est personnellement au courant de ses affaires. C'est lui qui doit, lorsqu'il exploite une entreprise, tenir les livres et registres appropriés. C'est une obligation imposée par la Loi. Ici, il n'y a aucun livre, il n'y a aucune pièce justificative, il n'y a rien à donner au vérificateur.
+[4] On n'en est pas rendu à la première chance. La première chance, c'est lorsqu'un contribuable fait sa déclaration puis la signe. C'est là sa première responsabilité. On peut jouer un peu sur les sentiments, mais on va replacer les choses dans une juste perspective quand même.
+[5] La jeune fille que vous avez fait venir, qui est ingénieur forestier, pour établir quelles sont les dépenses d'exploitation, normalement, quand on fait des coupes en forêt, c'est une chose. Elle peut établir ce que ça coûte en moyenne. Elle a parlé de salaires et de bénéfices marginaux. J'aimerais bien voir quel genre de bénéfices marginaux a payés monsieur McCullough à des bûcherons qu'il aurait engagés. Probablement que là aussi, s'il a engagé quelqu'un - ce qu'on ne sait même pas, d'après la preuve - il n'a pas dû payer de gros bénéfices marginaux, il n'a pas dû contribuer fort à un régime de pension, c'est à peu près certain.
+[6] Il faut quand même, comme je vous dis, faire la part des choses. Lui, il n'a pas de pièces justificatives indiquant qu'il a payé quoi que ce soit à quelqu'un. Or, à l'égard de la preuve présentée, on n'a même pas de ventilation de dépenses de toute façon. Et cette jeune femme que vous avez présentée comme experte nous dit : Ah! il y a cinquante pour cent (50 %) de salaires et de bénéfices marginaux et cinquante pour cent (50 %) pour l'amortissement. Or, on ne sait même pas s'il y a de l'équipement. Monsieur McCullough n'a pas lui-même déclaré quoi que ce soit à cet égard. Il a tout caché.
+[7] Comment pensez-vous que je peux vous accorder des dépenses à cet égard? Je ne peux évidemment pas réduire les dépenses qui vous ont été accordées. Il y a des frais de transport qui ont été accordés malgré le fait qu'il n'y avait strictement aucune pièce justificative pour ça. Ils l'ont été. C'est le seul frais, la seule dépense dont il a été question lorsqu'il y a eu rencontre avec monsieur McCullough. Peut-être qu'il n'était pas très en point. Sauf qu'il a donné les informations quand même assez justes, 75 $ du mille pied par exemple. Oui, d'autres revenus de telle scierie qui n'avaient pas été déclarés.
+[8] Le vérificateur est parti de là, puis il est allé tout de suite à la scierie et il a obtenu les preuves. Cela n'est pas contesté. Ce ne sont pas des documents fabriqués. C'est cela qu'on a dans les circonstances. Pour les revenus, on a non seulement le chiffre, il est aussi appuyé d'une facture.
+[9] Je tenais quand même à faire ces commentaires parce qu'ils m'apparaissent importants pour situer le débat là où il doit l'être.
+[10] Je vous remercie d'être venue quand même et d'avoir tenté de défendre votre dossier le mieux possible.
+Signé à Ottawa, Canada, ce 30e jour d'avril 2003.
+« P.R. Dussault »
+J.C.C.I.
+NO. DE RÉFÉRENCE :
+2003CCI268
+No DU DOSSIER DE LA COUR :
+2001-2759(IT)I
+INTITULÉ DE LA CAUSE :
+Succession Ronald McCullough
+et La Reine
+LIEU DE L'AUDIENCE :
+Montréal
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge P.R. Dussault
+DATE DE L'AUDIENCE :
+le 31 juillet 2002
+DÉCISION RENDUE ORALEMENT :
+le 31 juillet 2002
+DATE DU JUGEMENT :
+le 7 août 2002
+MOTIFS RÉVISÉS DU JUGEMENT :
+le 29 avril 2003
+COMPARUTIONS :
+Pour l'appelante :
+Catherine Trickey (représentante)
+Pour l'intimée :
+Me Mounes Ayadi
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelant :
+Nom :
+Étude :
+Pour l'intimé(e) :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

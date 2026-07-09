@@ -1,0 +1,158 @@
+Title: Therrien v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28269/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-463-28269-therrien-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2007-09-07
+
+# Therrien v. M.N.R.
+
+- Citation: 2007 TCC 463
+- Decision date: 2007-09-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2050, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Therrien v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-09-07
+Neutral citation
+2007 TCC 463
+File numbers
+2007-851(EI)
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2007-851(EI)
+BETWEEN:
+GAËTAN THERRIEN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+__________________________________________________________________
+Appeal heard on August 2, 2007, at Québec, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Marie‑Claude Landry
+____________________________________________________________________
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act concerning the Appellant’s employment with Développements Beaurivage Inc. is dismissed and the decision of the Minister of National Revenue, that the work performed by the Appellant, during the period from May 20 to December 22, 2001, was not employment under a contract of service, is confirmed.
+Signed at Ottawa, Canada, this 27th day of September 2007.
+“Alain Tardif”
+Tardif J.
+Translation certified true
+on this 16th day of October 2007.
+Daniela Possamai, Translator
+Citation: 2007TCCI463
+Date: 20070907
+Docket: 2007-851(EI)
+BETWEEN:
+GAËTAN THERRIEN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal from a decision in which it was held that the work performed by the Appellant, during the period from May 20, to December 22, 2001, for the payor company Développements Beaurivage Inc., was not insurable employment.
+[2] According to the Respondent, during the period in question, the Appellant was operating his own business by exercising de facto control over all the company’s shares.
+[3] In making his decision, the Respondent relied on the following assumptions of fact:
+[TRANSLATION]
+(a) the payor was incorporated on March 26, 1996;
+(b) the Appellant incorporated the not-for-profit company for a tourist project that never materialized;
+(c) the Appellant sold his shares in the company first to Basile Bona and then, according to the enterprise registrar, Cidreq personnel number 1149076946, the majority shareholder of the payor was Gonzague Boily and the second largest shareholder was Nicole Gauthier;
+(d) Nicole Gauthier was the Appellant’s common-law spouse;
+(e) Gonzague Boily, retired engineer, passed away on February 11, 2003;
+(f) according to Nicole Legendre, widow of Gonzague Boily, he answered an ad placed by the payor for a civil engineer;
+(g) according to the enterprise registrar, Cidreq personnel number 1145639226, the payor’s directors were the Appellant and his two sons Rémy Therrien and Daniel Therrien;
+(h) the Appellant told a representative of the Respondent that his sons had no involvement in the payor;
+(i) during the period in issue, the payor operated a road maintenance and repair business;
+(j) the payor submitted 17 T-4 slips for 2001;
+(k) the Appellant was a driver and operator of heavy machinery;
+(l) the Appellant operated an excavation company, Dan-My Inc., which went bankrupt;
+(m) on November 10, 1998, the Appellant filed personal bankruptcy and no longer had the right to operate a business until 2003;
+(n) in order to operate, the payor’s business needed a reference to obtain a licence to operate;
+(o) Gonzague Boily, engineer, qualified the Appellant for the licence to operate;
+(p) on September 27, 2006, Nicole Legendre told a representative of the Respondent that the work her husband performed for the payor was not regular work, he did not go to job sites and that the Appellant was the owner of the business;
+(q) according to the Appellant, he worked as a foreman for the payor;
+(r) according to the Appellant, his duties consisted in providing levels, laser alignments and managing the job sites;
+(s) the Appellant made all the decisions for the payor;
+(t) the Appellant signed the payor’s cheques;
+(u) the Appellant signed a surety for the company which guaranteed the payor;
+(v) a mere employee would not have guaranteed the payor;
+(w) the payor’s offices were located at the Appellant’s residence;
+(x) the Appellant did not require any rent or financial compensation for the premises put at the payor’s disposal;
+(y) the Appellant put at the payor’s disposal a truck worth about $15,000 and a compactor worth about $10,000;
+(z) the Appellant did not require any rent or financial compensation for the equipment put at the payor’s disposal;
+(aa) a mere employee would not have provided premises and equipment without consideration;
+(bb) Marie-Pier Gagnon was hired by the payor as a secretary from August to December 2001;
+(cc) on September 27, 2006, Marie-Pier Gagnon told a representative of the Respondent that she was hired by the Appellant, that the Appellant gave her instructions, that the Appellant signed the payor’s cheques and that the Appellant was the business owner;
+(dd) there is nothing in the case to establish a relationship of subordination between the Appellant and the payor;
+(ee) the Appellant was the directing mind of the payor and his influence on the payor is such that the sort of dependent relationship necessary for the creation of a true relationship of subordination between the parties could not have existed.
+[4] Among those facts, the Appellant admitted paragraphs (b), (d), (e), (g), (h), (k), (l), (m), (n), (q), (r), (t), (u), (w), (x), (y) and (z). He neither admitted nor denied paragraphs (f), (j), (p), (v), (aa) and (bb), and he denied paragraphs (a), (i), (s), (cc), (dd) and (ee).
+[5] Only the Appellant testified in support of his case. Sharp, articulate and clearly well-prepared, the Appellant filed significant documentary evidence.
+[6] To avoid listening to useless and irrelevant explanations, I explained to the Appellant that the evidence essentially had to be on the period in question and involve the manner in which the work was performed so as to ensure that that very evidence contained all the necessary evidence to assist the Court in deciding whether or not the work was performed under a contract of service.
+[7] The Appellant argued that he applied for and received Employment Insurance benefits only once and that the benefits were received by virtue of the employment in question, adding that this demonstrated not only his good faith, but also his eligibility for such benefits.
+[8] The Appellant clearly understood the explanations I gave him with respect to the requirements for establishing the existence of a contract of service.
+[9] In the case at bar, the main issue is to determine whether there was a relationship of subordination between the Appellant and the company who was responsible for remuneration.
+[10] Prior to the period in question, the Appellant faced serious financial problems to the point where he had to sell his assets. The fact that he had the status of bankrupt prevented him from having every authorization, licence and certificate allowing him to operate a business involving infrastructure, such as roads, waterworks etc., even though he had the necessary expertise and experience to operate such a business.
+[11] The Appellant thus explained that he met with Basile Bona who had what he lacked to operate the type of business he had been in all his life, even though he had the experience and expertise.
+[12] Seeing as Mr. Bona did not testify, it was not possible to obtain his version of the facts. It would have been interesting to hear his version of the facts, even more so since the investigator responsible for the case stated, in his testimony, that Mr. Bona received Records of Employment issued by companies controlled by the Appellant, thus contradicting the Appellant’s explanations as to the circumstances leading to their meeting and the relationship between them. He would have been a very helpful witness.
+[13] As for the absence of Gonzague Boily, another key witness who could have shed light on the facts and circumstances surrounding the employment, it cannot be imputed to the Appellant as Mr. Boily is deceased. However, the evidence revealed a number of facts that are very pertinent in determining the nature of the contract of employment in issue; I refer particularly to the following:
+· The claims and submissions made by the Appellant to third parties as to his status of general contractor.
+· The Appellant’s authority to sign cheques.
+· The fact that he put at his employer’s disposal administrative premises without charging fees or rent.
+· The fact that he also used without compensation a truck whose value was relatively high.
+· The fact that he used a compactor without compensation.
+· The explanations, comments and observations offered by Ms. Gagnon that the Appellant operated his own business.
+· The unexplained circumstances of the forged signature of Ms. Gagnon on a Record of Employment.
+· The major discrepancies in the versions of the testimonies as to the nature of the relationship between the Appellant and Mr. Bona. The Appellant stated that he met with Mr. Bona by chance, since he had what he was lacking to operate a business. The person responsible for the case indicated rather that the Appellant and Mr. Bona knew each other very well and that, furthermore, Mr. Bona received Records of Employment from one or more companies controlled by the Appellant.
+[14] The wife of Gonzague Boily, Nicole Legendre, stated that her deceased husband met with the Appellant following an ad in the paper when he was trying to find work as a part-time consultant after retiring from the Public Service.
+[15] Married to Gonzague Boily for over 40 years, she stated that she knew nothing about his involvement in the company. She is firmly convinced that the Appellant had sole control of the business. According to her, her husband was not the principal person concerned in the company which was rather the business of the Appellant.
+[16] Even though the evidence is incomplete, I believe it is more reasonable to retain the version of the facts of Nicole Legendre than that of the Appellant; in fact, how can one believe that a retired person seeking part-time employment suddenly becomes the principal shareholder of a company?
+[17] Moreover, that interpretation of the facts is completely consistent with the circumstances surrounding the departure of Gonzague Boily. In fact, the Appellant himself stated that Mr. Boily woke up one morning and decided to withdraw from the company. To that end, he simply sent a letter in which he expressed his intention to leave the company. The letter does not mention anything about the sale of the shares, any protocol or condition to settle the issue of financial commitments, securities, work underway and, an engineer by training, a retired civil servant, the facts and circumstances of his departure, described by the Appellant himself, are totally inconsistent with the Appellant’s claims that this same person was the principal shareholder, the sole director and the sole owner where his deeds and actions were concerned.
+[18] It is reasonable to conclude that Mr. Boily was a dummy shareholder discovered by the Appellant who clearly persuaded him to embark on his adventure.
+[19] Finally, there is absolutely nothing in the evidence which makes it possible to conclude that there was any relationship of subordination between the Appellant and the company who paid him remuneration.
+[20] Furthermore, I do not believe the arrangement was concocted, elaborated and implemented to allow the Appellant to become eligible for Employment Insurance benefits.
+[21] His intentions were rather to organize his affairs in order to continue his activities as a general contractor at a time when his status as a bankrupt prevented him from doing so.
+[22] Knowing what the documents contained, he soon realized that he could receive Employment Insurance benefits and therefore seized the opportunity, seeing as all the documents essentially indicated his status as a salaried foreman.
+[23] The fact that the issue of insurability is secondary does not in any way change the fact that he was not a true employee, except as indicated in documents which did not at all reflect the true situation.
+[24] The characterization of the nature of a contract of employment is based not on documents that may have been part of a deception, but rather on the facts and circumstances of the employment.
+[25] In the case at bar, there is no doubt that the Appellant operated his own business under the cover of a ghost company he controlled as he had an obvious influence on those who accepted to act as dummy shareholders.
+[26] For all these reasons, the appeal is dismissed and the Minister’s decision, that the Appellant’s employment with Développements Beaurivage Inc., during the period from May 20 to December 22, 2001, was not employment under a contract of service, is confirmed.
+Signed at Ottawa, Canada, this 27th day of September 2007.
+“Alain Tardif”
+Tardif J.
+Translation certified true
+on this 16th day of October 2007.
+Daniela Possamai, Translator
+CITATION: 2007TCCI463
+COURT FILE NO.: 2007-851(EI)
+STYLE OF CAUSE: GAËTAN THERRIEN AND M.N.R.
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: August 2, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: September 27, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Marie-Claude Landry
+COUNSEL OF RECORD:
+For the Appellant:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

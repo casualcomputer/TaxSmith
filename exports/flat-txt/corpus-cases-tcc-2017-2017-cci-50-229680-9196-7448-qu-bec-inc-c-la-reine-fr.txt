@@ -1,0 +1,221 @@
+Title: 9196-7448 Québec inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/229680/index.do
+Corpus path: corpus/cases/tcc/2017/2017-cci-50-229680-9196-7448-qu-bec-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2017-03-30
+
+# 9196-7448 Québec inc. c. La Reine
+
+- Citation: 2017 CCI 50
+- Decision date: 2017-03-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2294, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9196-7448 Québec inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-03-30
+Référence neutre
+2017 CCI 50
+Numéro de dossier
+2013-3697(IT)G, 2013-3699(IT)G
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-3697(IT)G
+ENTRE :
+9196-7448 QUÉBEC INC.
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Devant : L'honorable juge Robert J. Hogan
+Avocats de l'appelante :
+Me André Lareau
+Me Bobby Doyon
+Avocat de l'intimée :
+Me Benoit Mandeville
+ORDONNANCE RELATIVE AUX DÉPENS
+La requérante ayant présenté une requête en vue d’obtenir, conformément à l’article 147 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles »), une ordonnance lui adjugeant des dépens en sus de ceux auxquels elle a droit en vertu du tarif B (le « tarif ») de l’annexe II des Règles;
+La requérante ayant demandé à la Cour de trancher la présente requête sur la base des observations écrites des avocats;
+L’intimée s’étant opposée à cette demande;
+Les observations écrites des deux parties ayant été lues;
+LA COUR ORDONNE CE QUI SUIT :
+1. Les dépens prévus au tarif B de l’annexe II des Règles de procédure de la Cour canadienne de l’impôt (procédure générale) sont adjugés en faveur de l’appelante et de Jean-Marc Landry, conformément aux motifs de l’ordonnance ci-joints;
+2. Les débours seront taxés de la façon habituelle.
+Signé à Ottawa, Canada, ce 30e jour de mars 2017.
+« Robert J. Hogan »
+Juge Hogan
+Dossier : 2013-3699(IT)G
+ENTRE :
+JEAN-MARC LANDRY,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Devant : L'honorable juge Robert J. Hogan
+Avocats de l'appelant :
+Me André Lareau
+Me Bobby Doyon
+Avocat de l'intimée :
+Me Benoit Mandeville
+ORDONNANCE RELATIVE AUX DÉPENS
+Le requérant ayant présenté une requête en vue d’obtenir, conformément à l’article 147 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles »), une ordonnance lui adjugeant des dépens en sus de ceux auxquels elle a droit en vertu du tarif B (le « tarif ») de l’annexe II des Règles;
+Le requérant ayant demandé à la Cour de trancher la présente requête sur la base des observations écrites des avocats;
+L’intimée s’étant opposée à cette demande;
+Les observations écrites des deux parties ayant été lues;
+LA COUR ORDONNE CE QUI SUIT :
+1. Les dépens prévus au tarif B de l’annexe II des Règles de procédure de la Cour canadienne de l’impôt (procédure générale) sont adjugés en faveur de l’appelant et de 9196-7448 Québec inc., conformément aux motifs de l’ordonnance ci-joints;
+2. Les débours seront taxés de la façon habituelle.
+Signé à Ottawa, Canada, ce 30e jour de mars 2017.
+« Robert J. Hogan »
+Juge Hogan
+Référence : 2017 CCI 50
+Date : 30032017
+Dossier : 2013-3697(IT)G
+ENTRE :
+9196-7448 QUÉBEC INC.
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+Dossier : 2013-3699(IT)G
+ENTRE :
+JEAN-MARC LANDRY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L’ORDONNANCE
+Le juge Hogan
+I. Introduction [1] Des jugements rendus oralement en date du 18 mai 2016 ont donné gain de cause aux appelants, Jean-Marc Landry et 9196-7448 Québec inc., et les dépens leur ont été adjugés[1]. Il est à noter qu’en début d’audience 9196-7448 Québec inc. avait abandonné sa position quant à la qualification des dépenses en litige de dépenses en capital admissibles. Ainsi, 9196-7448 Québec inc. n’a eu gain de cause qu’à l’égard de la deuxième question en litige débattue dans son appel.
+[2] À la suite de cette issue favorable, les appelants, Jean-Marc Landry et 9196-7448 Québec inc., réclament ensemble, à titre de frais et dépens, l’entièreté des sommes déboursées tout au long des procédures, s’élevant à 83 490,65 $. À cet égard, les appelants se fondent sur les facteurs établis au paragraphe 147(3) des Règles de la Cour canadienne de l’impôt (procédure générale)[2] (les « Règles »). De façon subsidiaire, les appelants soulèvent l’application du paragraphe 147(3.1) des Règles, soutenant que des offres de règlement aussi avantageuses pour l’intimée sinon plus, que le résultat obtenue à l’issue du litige avaient été soumises à l’intimée en temps opportun[3].
+II. ANALYSE A. LE DÉLAI IMPARTI POUR PRÉSENTER UNE DEMANDE D’ADJUDICATION DE DÉPENS MAJORÉS [3] Au terme des plaidoiries, le procureur des appelants s’est informé de la façon dont ses clients pouvaient réclamer des dépens majorés. Je leur ai donc indiqué le fonctionnement du processus selon lequel j’alloue une certaine période afin que les parties tentent de s’entendre à ce sujet, à défaut de quoi elles doivent déposer des observations écrites ne devant pas excéder cinq pages[4]. À la suite de cette explication, ce procureur a indiqué de la façon suivante qu’il avait compris :
+D’accord, Monsieur le juge. C’est bien compris et je vous remercie de m’avoir entendu.[5]
+[4] De plus, dans mes jugements du 18 mai 2016 se trouve l’indication suivante :
+Les parties ont jusqu’au 17 juin 2016 pour s’entendre sur les frais et, à défaut d’entente, ils pourront faire appel à la Cour en déposant des soumissions écrites ne dépassant pas cinq (5) pages.
+[5] Ainsi, j’ai accordée aux parties un délai de 30 jours pour déposer des observations écrites s’il n’y avait pas d’entente dans ce même délai qui correspond à celui prévu au paragraphe 147(7) des Règles.
+[6] Dans l’espoir de parvenir à une entente quant à l’adjudication des dépens, le procureur des appelants s’est entretenu avec le procureur de l’intimée le jour même du prononcé des jugements. La position de l’intimée a été clairement formulée à cette même date, tant oralement que par écrit. En effet, l’intimée était d’avis que rien ne justifiait l’adjudication de dépens supérieurs à ceux prévus au Tarif B de l’annexe II des Règles et elle a dit qu’elle s’opposerait à toute demande de dépens majorés. À cette date, le procureur de l’intimée a demandé aux procureurs des parties adverses de lui indiquer, dans les plus brefs délais, s’ils entendaient demander des dépens majorés.
+[7] Ce n’est qu’en date du 4 octobre 2016, soit déjà plus de quatre mois après le prononcé des jugements et les échanges de communications entre les parties quant aux dépens, que les procureurs des appelants ont de nouveau communiqué avec la partie adverse. Cette communication prenait la forme d’une lettre proposant un possible terrain d’entente quant au quantum des dépens et signalait à l’intimée qu’à défaut d’acceptation les appelants s’adresseraient à la Cour afin que soit tranchée la question des dépens.
+[8] Le 17 octobre 2016, l’intimée a transmis au procureur des appelants une lettre exprimant une fois de plus son refus d’accorder aux appelants des dépens majorés. Dans cette lettre, l’intimée invoquait la prescription d’une telle demande par suite du non-respect par les appelants du délai prescrit autant par mes jugements que par le paragraphe 147(7) des Règles.
+[9] C’est seulement le 1er décembre 2016 que les appelants ont déposé leurs observations écrites, soit plus de six mois après leur prise de connaissance des jugements. La réplique de l’intimité a été soumise le 13 décembre 2016.
+[10] En aucun moment les appelants n’ont tenté d’expliquer ou de justifier le fait qu’ils ont laissé écouler tant de temps entre la date du prononcé des jugements et celle du dépôt des observations écrites, dans lesquelles, les appelants font cependant état du fait que les directives données quant aux dépens ne précisaient pas de délai de prescription et soutiennent que le contexte en l’espèce étant « tout autre », on ne saurait donner application au paragraphe 147(7) des Règles.
+[11] Or l’application du paragraphe 147(7) des Règles ne peut être ainsi automatiquement écartée, malgré l’étendue du pouvoir discrétionnaire que m’accordent les Règles quant aux dépens.
+[12] L’adjudication des dépens en vertu de l’article 147 des Règles représentant l’exercice par le juge d’un pouvoir hautement discrétionnaire, le juge doit à tout le moins l’exercer en conformité avec les principes établis, notamment par l’article 147 des Règles[6].
+[13] Dans un tel contexte, où la demande a été transmise hors délai, pour faire droit à la demande des appelants il faudrait que je sois convaincu (1) qu’il convient d’octroyer aux appelants une prorogation du délai et (2) que l’adjudication de dépens majorés ou substantiels est appropriée en l’espèce.
+[14] Les facteurs considérés dans la décision Atcon Construction[7] comme justifiant le refus d’accorder une prorogation du délai pour demander l’adjudication de dépens majorés sont assimilables à ceux à considérer dans le contexte en l’espèce. Dans la décision Atcon Construction, le juge Rip a formulé la prise en compte de ces facteurs de la façon suivante :
+18 L'appelante n'a pas présenté de justification appropriée pour son défaut de se conformer aux Règles. Il ne s'agit pas d'une affaire où la demande de dépens est compliquée. L'appelante a retenu un avocat d'expérience; les Règles n'étaient pas récentes au moment de la décision de la Cour; il n'y a pas de preuve démontrant que l'appelante avait l'intention de déposer sa demande à temps; puis, l'intimée n'a pas admis qu'elle ne souffrirait pas de préjudice si l'on accordait la prorogation.
+[15] Dans le cas qui nous occupe, aucune demande de prorogation de délai n’a été formulée et aucune justification qui permettrait d’établir le bien-fondé d’une telle demande n’a été présentée.
+[16] Dans l’affaire Bibby[8], le juge Bowie était saisi d’une demande faite en vertu du paragraphe 147(7) des Règles, mais en dehors du délai prescrit à ce paragraphe. Le juge Bowie a fait remarquer qu’aucune demande de prorogation de délai n’avait été présentée et que, dans les circonstances, aucun élément ne justifiait la prorogation du délai.
+[17] Puisqu’aucune autre justification ne m’a été soumise, je ne peux raisonnablement conclure que les appelants avaient une intention réelle de déposer en temps opportun la demande dont je suis saisi. S’ils avaient voulu le faire, ils auraient pu la déposer dès le lendemain du prononcé du jugement puisque, le jour même du prononcé, l’intimée avait informé les appelants de son refus catégorique d’accorder des dépens quelconques supérieurs à ceux prévus au tarif B de l’annexe II des Règles. La position de l’intimée a été communiquée de façon non équivoque, par voie orale et écrite.
+[18] Cette conclusion est conforme à la décision McKenzie[9], dans laquelle le juge Boyle a conclu qu’il ne convenait pas d’accorder de prorogation de délai dans une situation qui ressemblait beaucoup à celle en l’espèce. En effet, malgré le fait que le juge Boyle avait indiqué à l’appelante qu’elle devait déposer des observations écrites dans les 30 jours suivant le jugement, elle a présenté sa demande de dépens majorés hors délai. Pour cette raison, le juge Boyle a refusé l’adjudication de dépens majorés.
+[19] En conséquence de ce qui précède, je suis d’avis qu’il ne s’agit pas en l’espèce d’une situation où il convient de faire droit à une demande de prorogation de délai en l’espèce.
+[20] Finalement, même si la demande d’adjudication de dépens majorés avait été présentée dans le délai imparti, je suis d’avis que les circonstances ne justifieraient pas l’octroi de dépens supérieurs à ceux prévus au tarif B de l’annexe II des Règles, et ce, pour les raisons qui suivent.
+B. LES FACTEURS À CONSIDÉRER DANS L’ADJUDICATION DE DÉPENS MAJORÉS [21] Les parties s’entendent quant à l’étendue élargie du pouvoir discrétionnaire que détient cette Cour en matière d’adjudication de dépens. Tel que je l’ai mentionné dans mes motifs d’ordonnance dans l’affaire Rio Tinto Alcan Inc. v. The Queen, 2016 TCC 258, ce pouvoir discrétionnaire doit s’exercer en conformité avec les principes établis, et la Cour doit accorder un poids approprié aux facteurs énumérés à l’article 147 des Règles et à tout autre facteur pouvant permettre l’obtention d’un résultat équitable.
+[22] J’appliquerai maintenant les facteurs énoncés au paragraphe 147(3) des Règles qui sont pertinents en l’espèce.
+(1) Résultat de l’instance [23] Le résultat favorable aux appelants milite en faveur de la majoration des dépens.
+(2) Sommes en cause [24] Les appels se rapportaient à des avis de cotisation ayant pour effet d’ajouter au revenu de Jean-Marc Landry la somme de 366 843,75 $ à titre d’avantage conféré à un actionnaire et de refuser à 9196-7448 Québec inc. la déduction de la somme de 366 843,75 $. Les appelants soutiennent qu’il convient d’analyser l’importance de ce montant d’une façon non pas absolue, mais bien relative. Je suis d’accord avec les appelants quant à l’analyse à effectuer, mais ne souscris cependant pas à la conclusion à laquelle ils arrivent.
+[25] Dans le contexte particulier de l’espèce et par suite de la transaction à l’origine des appels, c’est un montant global de 6 066 436 $ qui a été transféré au patrimoine des appelants par la vente d’actions. Dans un tel contexte, la somme de 366 843,75 $ semble bien minime et cela milite en faveur de la position de l’intimée, qui soutient que seuls les dépens prévus au tarif à l’annexe II des Règles devrait en être adjugés aux appelants.
+(3) Importance des questions en litige [26] Les questions en litige ne revêtaient aucune importance particulière qui permettrait de conclure à la nécessité d’accorder des dépens majorés. En effet, le litige se rapportait à la qualification de dépenses engagées dans le cadre d’une transaction précise et à leur répartition entre les appelants.
+(4) Offre de règlement [27] La preuve démontre que de nombreuses offres et contre-offres de règlement ont été faites, et ce, par les deux parties à l’instance. Ainsi, je constate une véritable intention de part et d’autre de régler, étant donné la communication continue et la bonne foi qui caractérisaient les relations entre les parties.
+[28] Plus loin dans mes motifs, je reviendrai plus précisément sur l’effet qu’a en conséquence de l’application des paragraphes 147(3.1) à 147(3.8) des Règles, le refus d’une offre de règlement.
+[29] En ce qui a trait aux facteurs à considérer énoncés au paragraphe 147(3), j’estime que l’existence d’offres et de contre-offres de règlement milite en faveur de la position de l’intimée. Les offres de règlement sur lesquelles les appelants se fondent ne sont pas le type d’offres qui sont susceptibles d’être prises en compte pour l’application du paragraphe 147(3) des Règles.
+(5) Charge de travail [30] La charge de travail dont il s’agit dans ce litige ne semble pas avoir été particulièrement lourde. Les nouvelles cotisations contestées ont été établies en mai 2012, et le litige s’est conclu par le prononcé des jugements en mai 2016.
+[31] Il est important de mentionner une fois de plus qu’il n’y a aucun comportement sortant de l’ordinaire qui pourrait justifier que le travail effectué aux stades de la vérification et de l’opposition soit pris en considération pour l’adjudication de dépens majorés en l’espèce. Ainsi, peu importe l’ampleur du travail effectué au stade de la vérification ou de l’opposition, seul le travail qui se rapporte réellement à l’instance peut entrer en ligne de compte dans l’application du ce critère de la « charge de travail ».[10]
+[32] Pour ce qui est de la charge de travail relative aux appels, tandis qu’une audience de trois jours était initialement prévue, le procès s’est terminé après seulement une journée d’audience. Un jugement oral a été rendu pas plus de deux jours plus tard.
+[33] L’absence d’une charge de travail considérable ne favorise aucunement l’adjudication de dépens majorés.
+(6) Complexité des questions en litige [34] Les questions en litige, tel que l’ont admis les appelants, ne comportaient pas un “niveau de complexité extraordinaire”[11]. Les appelants allèguent tout de même que le contexte à savoir la clause « boomerang » ou clause ultimatum (clause de type « shotgun ») et la réorganisation fiscale, en plus du grand nombre d’entités et d’intervenants impliqués ont tout de même apporté un élément de complexité additionnel au litige.
+[35] Avec égards, rien dans les éléments énumérés par les appelants ne démontre un niveau de complexité élevé ni ne justifie une majoration des dépens.
+(7) Conduite d’une partie qui aurait prolongé inutilement la durée de l’instance. [36] Rien en l’espèce ne justifie l’adjudication de dépens majorés. Il ressort de la preuve qu’il y avait une collaboration constante entre les parties et ni l’audience ni la préparation de celle-ci ne s’est déroulée de manière inefficace.[12] D’ailleurs, l’intimée ne s’est même pas opposée à la demande des appelants en prolongation de délai, ce qui aurait pu avoir pour conséquence le rejet des appels.
+[37] Ce facteur milite également en faveur du rejet de la demande de dépens majorés.
+C. LES OFFRES DE RÈGLEMENT [38] Les appelants s’appuient, de façon subsidiaire, sur les dispositions concernant l’adjudication de dépens indemnitaires substantiels (plus les débours et les taxes applicables) lorsqu’il y a eu une offre au moins aussi avantageuse que le résultat obtenu à l’issue des appels. Ces dispositions se lisent comme suit :
+147 (3.1) Sauf directive contraire de la Cour, lorsque l’appelant fait une offre de règlement et qu’il obtient un jugement qui est au moins aussi favorable que l’offre de règlement, l’appelant a droit aux dépens entre parties jusqu’à la date de la signification de l’offre et, après cette date, aux dépens indemnitaires substantiels que fixe la Cour, plus les débours raisonnables et les taxes applicables.
+[…]
+(3.3) Les paragraphes (3.1) et (3.2) ne s’appliquent que si l’offre de règlement :
+a) est faite par écrit;
+b) est signifiée au moins trente jours après la clôture de la procédure écrite et au moins quatre-vingt-dix jours avant le début de l’audience;
+c) n’est pas retirée;
+d) n’expire pas moins de trente jours avant le début de l’audience.
+(3.4) Il incombe à la partie qui invoque le paragraphe (3.1) ou (3.2) de prouver:
+a) qu’il existe un rapport entre la teneur de l’offre de règlement et le jugement;
+b) que le jugement est au moins aussi favorable que l’offre de règlement ou qu’il n’est pas plus favorable que l’offre de règlement, selon le cas.
+(3.5) Pour l’application du présent article, les dépens « indemnitaires substantiels » correspondent à 80 % des dépens établis sur une base procureur-client.
+(3.6) Lorsqu’elle détermine que le jugement accordé est au moins aussi favorable que l’offre de règlement visée au paragraphe (3.1) ou qu’il n’est pas plus favorable que l’offre de règlement visée au paragraphe (3.2), la Cour ne tient pas compte des dépens qui sont accordés dans le jugement ou qui seraient par ailleurs accordés, si l’offre de règlement ne prévoit pas le règlement de la question des dépens.
+[39] Au soutien de leur réclamation, les appelants invoquent cinq offres de règlement qu’ils ont faites à l’intimée. Ces offres sont datées du 18 février 2013, du 23 décembre 2014, du 13 février 2015, du 9 mai 2016 et du 10 mai 2016.
+[40] Seules les offres du 23 décembre 2014 et du 13 février 2015 sont susceptibles de donner ouverture à l’adjudication de dépens indemnitaires substantiels en vertu du paragraphe 147(3.1) des Règles. En effet, seules ces deux offres ont été présentées en temps opportun.
+[41] Il est important de mentionner que l’existence d’une offre de règlement faite en conformité avec les Règles n’entraîne pas l’octroi automatique de dépens indemnitaires substantiels. Il convient de s’assurer que l’offre était plus qu’un simple compromis pécuniaire et avait un fondement factuel et juridique.
+[42] Le juge Stratas a dit, dans la décision CIBC World Markets Inc.[13](paragraphe 14), que l’objet de l’alinéa 147(3)(d) consiste à « inciter les parties à faire des offres de règlement et à prendre au sérieux celles qui leur sont faites. Le rejet d’une telle offre ne peut entraîner des conséquences défavorables sous le rapport des dépens s’il s’avère, au vu de la décision de la Cour, qu’on aurait dû l’accepter. » À mon avis, cette réflexion s’applique également au paragraphe 147(3.1), qui, au moment où la décision CIBC World Markets Inc. a été rendue, n’était pas en vigueur et seul l’alinéa 147(3)(d) traitait de l’effet sur les dépens du rejet d’une offre valide. Le juge Stratas a également limité un tel effet aux offres proposant une application appropriée du droit aux faits :
+15 Mais cette règle est soumise à une importante condition implicite: seules les offres qu'il aurait été permis d'accepter en droit peuvent entraîner des conséquences du point de vue des dépens. Dans le cas où, pour une quelconque raison juridique, la partie à qui l'offre a été faite n'aurait pas pu l'accepter, le rejet de celle-ci ne doit pas avoir pour elle de conséquences défavorables sur le plan des dépens.
+[43] Ainsi, la Cour doit refuser l’application du paragraphe 147(3.1) des Règles lorsqu’elle conclut que l’acceptation d’une offre de règlement par le ministre du Revenu national commanderait l’établissement d’une nouvelle cotisation ne pouvant se justifier en fait et en droit.[14] En d’autres mots, une offre de règlement ne peut être prise en considération dans le cadre de l’adjudication des dépens que si elle est justifiable sur le plan juridique.
+[44] Dans le cas qui nous occupe, il appert des offres de règlement annexées aux observations écrites des appelants que toute offre soumise à l’intimée par ces derniers était conditionnelle à l’acceptation pour chacun des deux appels connexes, soit celui de Jean-Marc Landry et celui de 9196-7448 Québec inc.
+[45] Le litige portait essentiellement sur le traitement de la somme payée par 9196-7448 Québec inc. au titre d’honoraires liés à la transaction intervenue à la suite du déclenchement de la clause ultimatum, alors que l’obligation avait initialement été contractée par Jean-Marc Landry.
+[46] La société 9196-7448 Québec inc. avait déduit cette somme à titre de dépense en capital admissible, mais au début de l’audience les appelants ont abandonné la position voulant qu’il s’agisse d’une dépense de cette nature. Il n’était donc pas question de caractériser cette somme autrement que de dépense en capital.
+[47] L’intimée soutient que l’offre du 23 décembre 2014 n’était pas fondée en droit et que, conséquemment, il lui était impossible de l’accepter. Alors que 9196-7448 Québec inc. avait déduit l’entièreté du montant en litige à titre de dépense en capital admissible, cette offre prévoyait que seulement 88 % de ce montant serait traité comme une dépense en capital admissible. Le compromis proposé consistait à attribuer 12 % de la somme en litige à Jean-Marc Landry.
+[48] Dans sa réponse à l’avis d’appel dans le dossier de 9196-7448 Québec inc., l’intimée alléguait que le montant en litige ne constituait pas une « dépense en capital admissible » selon la définition de ce terme au paragraphe 14(5) de la Loi de l’impôt sur le revenu[15] (la « Loi ») et, en conséquence, ne pouvait être déduit en vertu de l’alinéa 20(1)(b) de la Loi. C’est sur ce point de droit, appliqué aux faits du litige, que l’intimée se fonde pour prétendre ne pas avoir pu légitimement accepter l’offre de règlement du 23 décembre 2014. La dépense en litige ne peut pas être caractérisée de dépense en capital admissible pour la simple raison que cette dépense n’a pas été engagée en vue de tirer un revenu d’une entreprise. La vente des actions détenues par 9196-7448 Québec inc. avait pour objet de donner effet à une clause ultimatum. La transaction en l’espèce a produit un gain en capital. L’impossibilité de soutenir la position contraire est notamment démontrée par l’abandon de cette position par les appelants au début de l’audience. L’absence de fondement juridique à la qualification donnée par les appelants est à elle seule suffisante pour permettre de conclure que l’intimée ne pouvait raisonnablement accepter l’offre.[16] Ainsi, cette offre ne peut donner ouverture à l’adjudication de dépens indemnitaires substantiels.
+[49] L’intimée fait valoir que l’offre du 13 février 2015 n’était pas davantage acceptable, sans cependant justifier cette allégation. L’offre du 13 février 2015 était en fait une contre-offre faite à la suite d’une offre de règlement de la part de l’intimée. La contre-offre reposait, encore une fois, sur la qualification de dépense en capital admissible d’une portion de la somme en litige de 366 843,75 $.
+[50] L’offre présentée par l’intimée en date du 14 janvier 2015 proposait de réduire de 366 843,75 $ le gain en capital de 9196-7448 Québec inc. (réduisant ainsi de 183 422 $ son gain en capital imposable) et de l’attribuer à Jean-Marc Landry augmentant ainsi d’autant le gain en capital réalisé de celui-ci (entraînant de ce fait une augmentation de 183 422 $ de son gain en capital imposable). Cette offre consistait donc à faire une nouvelle répartition entre les appelants des montants en capital résultant de la transaction, répartition que la Couronne considérait comme reflétant fidèlement cette transaction.
+[51] La contre-offre des appelants consistait cependant à qualifier de dividende versé imposable le gain en capital imposable de 183 422 $ attribué à Jean-Marc Landry dans l’offre de la Couronne. Cependant, il est difficile de conclure que transformer partiellement en dividende versé de 183 422 $ un gain en capital de 366 843,75 $ pourrait constituer une offre acceptable en fait et en droit.
+[52] La décision donnant gain de cause aux appelants est fondée sur la réattribution de la dépense en capital, et non sur la caractérisation de cette dépense, la caractérisation étant une question qui ne permet pas de demi-mesures. L’offre de l’intimée semble se fonder sur l’attribution, mais la contre-offre ajoute une composante de caractérisation qui ne peut tout simplement pas être acceptable en l’espèce. Rien n’aurait permis à la ministre d’établir une cotisation autrement qu’en caractérisant le montant en litige de dépense en capital.
+III. CONCLUSION [53] À la lumière de tout ce qui précède, les appelants ont présenté hors délai leur demande d’adjudication de dépens majorés. De plus, rien en l’espèce ne justifie l’adjudication de dépens majorés. Par conséquent, seuls les frais et dépens prévus au tarif B de l’annexe II des Règles sont accordés aux appelants.
+Signé à Ottawa, Canada, ce 30e jour de mars 2017.
+« Robert J. Hogan »
+Juge Hogan
+RÉFÉRENCE :
+2017 CCI 50
+Nº DU DOSSIER DE LA COUR :
+2013-3697(IT)G
+2013-3699(IT)G
+INTITULÉ DE LA CAUSE :
+9196-7448 QUÉBEC INC. c. LA REINE
+JEAN-MARC LANDRY c. LA REINE
+LIEU DE L’AUDIENCE :
+Québec (Québec)
+DATE DE L’AUDIENCE :
+Le 16 et 18 mai 2016
+MOTIFS DE L’ORDONNANCE PAR :
+L'honorable juge Robert J. Hogan
+DATE DE L’ORDONNANCE :
+Le 30 mars 2017
+COMPARUTIONS :
+Avocat de l'appelant :
+Me André Lareau
+Me Bobby Doyon
+Avocat de l'intimée :
+Me Benoit Mandeville
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Me André Lareau
+Me Bobby Doyon
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] J’ai accordé aux parties jusqu’au 17 juin 2016 pour s’entendre sur les dépens, à défaut de quoi elles devaient déposer des observations écrites. Or, c’est seulement le 1er décembre 2016, soit plus de 6 mois après le prononcé du jugement sur le fond, que les appelants ont présenté leur requête en majoration des dépens dans cette affaire.
+[2] DORS/90-688a.
+[3] À première vue, le montant des dépens réclamé par les appelants me semble être exagéré. En effet, les montants réclamé comprends entre autres des frais se rapportant à des périodes antérieures aux appels en question (par exemple, des frais engagés durant le processus d’opposition), se rapportant au litige avec Revenu Québec, se rapportant à la représentation relative à une demande de détermination de perte ou encore se rapportant à une demande d’être « relevés de leur défaut de respecter l’échéancier » qui était exclusivement attribuable aux appelants.
+À cet égard, les appelants font valoir que le comptable et fiscaliste des appelants, Maxim Poulin, leur a facturé un montant global de 18 476, 48 $ sur une période de 5 ans. Comme il n’y a aucun détail sur la facturation de monsieur Poulin, il m’est difficile de procéder à une répartition appropriée de cette somme en déterminant ce qui se rapporte réellement aux litiges pour tout les processus à partir de l’étape de la rédaction des avis d’appel, déposés vers le 30 septembre 2013, jusqu’au terme de l’instance. Puisque le cabinet Joli-Cœur Lacasse S.E.N.C.R.L. représentait les appelants depuis le stade des oppositions, il est peu probable qu’une importante partie du travail de monsieur Poulin se rapporte aux litiges comme tels. Il semblerait d’avantage que le travail de monsieur Poulin concernait ce qui précédait la préparation de l’instance, notamment ce qui avait trait à la vérification.
+Il convient également d’écarter à tout le moins toute facture provenant du cabinet Joli-Cœur Lacasse S.E.N.C.R.L. avant la réception de la décision sur opposition. La décision sur opposition ayant été rendue le 2 juillet 2013, les factures ne devant pas être prises en considération aux fins des dépens totalisent 11 575,87 $.
+Par conséquent, le montant relativement auquel les appelants peuvent prétendre à des dépens demeure indéterminé à ce stade, mais il est certainement inférieur à 53 438,30 $.
+[4] Transcription de l’audience du 16 mai 2016, p. 143 : « Normalement la façon que je fonctionne, c’est quand je rends jugement par la suite je vous donne 10 jours de s’entendre sur les frais à défaut de quoi vous me [. . .] vous m’envoyez une soumission sur les frais de pas excéder cinq pages. »
+[5] Transcription de l’audience du 16 mai 2016, p. 144, lignes 1-2.
+[6] Règles, paragraphe 147(3); R. c. Lau, 2004 CAF 10.
+[7] Atcon Construction Inc. c. La Reine, 2003 CCI 174, 2003 DTC 373 (angl.).
+[8] Bibby v. The Queen, 2010 TCC 111, 2010 D.T.C. 1108.
+[9] McKenzie c. La Reine, 2012 CCI 329.
+[10] Paragraphe 2 et note 2 ci-dessous.
+[11] Observations écrites des appelants datées du 1er décembre 2016, p. 4.
+[12] Supra, note 2.
+[13] CIBC World Markets Inc. c. La Reine, 2012 CAF 3.
+[14] CIBC World Markets Inc., par. 20.
+[15] L.R.C. 1985, ch. 1 (5e suppl.).
+[16] Transalta Corp. c. La Reine, 2013 CAF 285.
